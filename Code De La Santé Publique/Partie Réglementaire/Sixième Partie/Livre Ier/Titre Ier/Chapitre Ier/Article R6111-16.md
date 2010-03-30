@@ -5,11 +5,10 @@ paramédical qui, dans l'exercice de ses missions au sein d'un des établissemen
 mentionnés à l'article R. 6111-12, constate un ou plusieurs cas d'infections
 nosocomiales, en informe, d'une part, le praticien responsable du pôle
 d'activité dans lequel le ou les cas sont apparus dans les établissements
-publics autres que les hôpitaux locaux ou le médecin responsable du ou des
-patients dans les autres établissements de santé, les syndicats
-interhospitaliers et les groupements de coopération sanitaire et, d'autre part,
-le praticien de l'équipe opérationnelle d'hygiène hospitalière mentionnée à
-l'article R. 6111-8.
+publics ou le médecin responsable du ou des patients dans les autres
+établissements de santé, les syndicats interhospitaliers et les groupements de
+coopération sanitaire et, d'autre part, le praticien de l'équipe opérationnelle
+d'hygiène hospitalière mentionnée à l'article R. 6111-8.
 
 Le praticien de l'équipe opérationnelle d'hygiène hospitalière apprécie si le ou
 les cas dont il a été avisé correspondent aux critères de signalement énoncés à

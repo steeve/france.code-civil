@@ -6,4 +6,5 @@ de cette société. Il respecte le délai fixé par les statuts sans que ce dél
 puisse excéder six mois à compter de la notification relative à la cessation
 d'activité.
 
-Il avise de sa décision le préfet du département du siège social.
+Il avise de sa décision le directeur général de l'agence régionale de santé du
+siège social.

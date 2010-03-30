@@ -2,8 +2,8 @@ Article R1243-52
 ----
 Le dossier est réputé complet si, dans un délai d'un mois à compter de sa
 réception, le ministre chargé de la recherche, le président du comité de
-protection des personnes, ou, le cas échéant, le directeur de l'agence régionale
-de l'hospitalisation, n'ont pas fait connaître à l'organisme par lettre
+protection des personnes, ou, le cas échéant, le directeur général de l'agence
+régionale de santé, n'ont pas fait connaître à l'organisme par lettre
 recommandée avec demande d'avis de réception les informations manquantes ou
 incomplètes en indiquant le délai imparti pour les fournir.
 

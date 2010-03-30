@@ -6,10 +6,11 @@ distribution d'eau dépose auprès du préfet une demande de dérogation aux lim
 de qualité, portant sur les paramètres chimiques, définies par l'arrêté
 mentionné à l'article R. 1321-2.
 
-La délivrance par le préfet d'une dérogation est soumise aux conditions
-suivantes :
+La délivrance par le préfet d'une dérogation, sur le rapport du directeur
+général de l'agence régionale de santé, est soumise aux conditions suivantes :
 
-1° L'utilisation de l'eau ne constitue pas un danger potentiel pour la santé des
+1° Le rapport du directeur général de l'agence régionale de santé établit que
+l'utilisation de l'eau ne constitue pas un danger potentiel pour la santé des
 personnes ;
 
 2° La personne responsable de la distribution d'eau apporte la preuve qu'il

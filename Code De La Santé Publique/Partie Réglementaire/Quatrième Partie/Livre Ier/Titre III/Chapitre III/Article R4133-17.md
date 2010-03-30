@@ -1,8 +1,8 @@
 Article R4133-17
 ----
 Chaque année, avant le 15 février, le conseil régional adresse un rapport sur
-son activité au cours de l'année civile précédente au préfet de région et aux
-conseils nationaux portant notamment sur :
+son activité au cours de l'année civile précédente au directeur général de
+l'agence régionale de santé et aux conseils nationaux portant notamment sur :
 
 1° Les orientations régionales et leurs évolutions ;
 

@@ -9,8 +9,8 @@ a) Le directeur général de la santé ou son représentant ;
 
 b) Le directeur général de l'offre de soins ou son représentant ;
 
-c) Le directeur de l'administration générale, du personnel et du budget au
-ministère de la santé ou son représentant ;
+c) Le secrétaire général des ministères chargés des affaires sociales ou son
+représentant ;
 
 d) Le directeur de la sécurité sociale ou son représentant ;
 

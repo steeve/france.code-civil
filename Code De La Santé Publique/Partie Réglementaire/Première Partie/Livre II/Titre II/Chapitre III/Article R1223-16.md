@@ -1,8 +1,8 @@
 Article R1223-16
 ----
 Le président de l'Etablissement français du sang adresse la demande
-d'autorisation au préfet du département par lettre recommandée avec demande
-d'avis de réception.
+d'autorisation au directeur général de l'agence régionale de santé par lettre
+recommandée avec demande d'avis de réception.
 
 La demande est accompagnée de :
 

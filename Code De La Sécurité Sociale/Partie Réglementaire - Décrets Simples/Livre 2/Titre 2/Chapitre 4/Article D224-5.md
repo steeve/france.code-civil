@@ -15,8 +15,8 @@ sécurité sociale par le directeur de la caisse nationale concernée.
 
 Le comité de branche placé auprès du directeur de la Caisse nationale
 d'assurance vieillesse des travailleurs salariés comprend les directeurs des
-caisses régionales d'assurance maladie relevant de cette branche et le directeur
-de la caisse régionale d'assurance vieillesse de Strasbourg.
+caisses d'assurance retraite et de la santé au travail et le directeur de la
+caisse régionale d'assurance vieillesse de Strasbourg.
 
 Le comité de branche placé auprès du directeur de la Caisse nationale de
 l'assurance maladie des travailleurs salariés représente la branche maladie,

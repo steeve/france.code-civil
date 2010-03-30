@@ -25,4 +25,5 @@ personnels, destinées à améliorer l'accueil et la qualité de la prise en cha
 des personnes accueillies et de leurs proches et à assurer le respect des droits
 des usagers.
 
-Le rapport annuel d'activité du comité est transmis au préfet.
+Le rapport annuel d'activité du comité est transmis au directeur général de
+l'agence régionale de santé.

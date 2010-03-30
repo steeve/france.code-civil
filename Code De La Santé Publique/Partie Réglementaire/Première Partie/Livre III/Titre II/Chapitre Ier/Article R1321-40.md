@@ -1,6 +1,8 @@
 Article R1321-40
 ----
-Le préfet peut déroger aux limites de qualité fixées par l'arrêté mentionné au
+Le préfet, après vérification par le directeur général de l'agence régionale de
+santé que la décision n'aura pas de conséquences contraires à la santé des
+personnes, peut déroger aux limites de qualité fixées par l'arrêté mentionné au
 premier alinéa de l'article R. 1321-38 :
 
 1° En cas d'inondations ou de catastrophes naturelles ;
@@ -16,6 +18,3 @@ du sol des substances contenues dans celui-ci sans intervention humaine ;
 4° Dans le cas d'eaux superficielles de lacs d'une profondeur ne dépassant pas
 vingt mètres, dont le renouvellement en eau prend plus d'un an et qui ne
 reçoivent pas d'eaux usées.
-
-En aucun cas, les conséquences de ces dérogations ne peuvent être contraires à
-la santé des personnes.

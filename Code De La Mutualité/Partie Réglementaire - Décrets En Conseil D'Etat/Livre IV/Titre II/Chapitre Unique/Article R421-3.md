@@ -4,9 +4,9 @@ Les décisions relatives à l'attribution des prêts et des subventions mentionn
 à l'article L. 421-1 sont prises par le Conseil supérieur de la mutualité, qui
 peut déléguer sa compétence à la commission mentionnée à l'article R. 411-3,
 laquelle est composée de membres désignés en son sein. Ces décisions sont
-adoptées, en ce qui concerne les établissements relevant de sa compétence, après
-avis du directeur de l'agence régionale de santé. Leur avis est réputé rendu
-dans un délai de deux mois à compter de leur saisine.
+adoptées après avis du directeur général de l'agence régionale de santé
+territorialement compétente. Son avis est réputé rendu à l'issue d'un délai de
+deux mois à compter de sa saisine.
 
 Le silence gardé par le Conseil supérieur de la mutualité ou sa commission
 spécialisée pendant quatre mois à compter de la demande vaut décision implicite
@@ -23,7 +23,7 @@ Conseil supérieur de la mutualité ou par la commission spécialisée.
 Sur la base des informations contenues dans ce relevé, un registre central des
 prêts et subventions accordés à chaque organisme est tenu par la Caisse des
 dépôts et consignations aux fins du respect des dispositions du règlement CE n°
-69/2001 de la Commission européenne en date du 12 janvier 2001 concernant
+69 / 2001 de la Commission européenne en date du 12 janvier 2001 concernant
 l'application des articles 87 et 88 du traité instituant la Communauté
 européenne aux aides de minimis.
 

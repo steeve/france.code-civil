@@ -10,8 +10,8 @@ b) Le directeur général de l'offre de soins ou son représentant ;
 
 c) Le directeur général de la cohésion sociale ou son représentant ;
 
-d) Le directeur de l'administration générale, du personnel et du budget au
-ministère de la santé ou son représentant ;
+d) Le secrétaire général des ministères chargés des affaires sociales ou son
+représentant ;
 
 e) Le directeur général du travail ou son représentant ;
 

@@ -28,7 +28,7 @@ consultants ne peuvent comporter un lien direct ou indirect avec leur
 établissement d'affectation.
 
 Les consultants ne peuvent exercer de mission auprès de l'agence régionale de
-l'hospitalisation dont relève leur établissement d'affectation.
+santé dont relève leur établissement d'affectation.
 
 Les consultants demeurent rattachés à leur établissement d'origine.
 

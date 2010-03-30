@@ -45,7 +45,7 @@ nommé dans les mêmes conditions.
 II.-Participent, en tant que de besoin, avec voix consultative, aux travaux de
 la commission :
 
-A.-Le directeur de l'Etablissement français des greffes ou son représentant,
+A.-Le directeur général de l'agence de la biomédecine ou son représentant,
 lorsque la commission examine l'inscription, le renouvellement ou la
 modification d'inscription des tissus et cellules issus du corps humain ;
 

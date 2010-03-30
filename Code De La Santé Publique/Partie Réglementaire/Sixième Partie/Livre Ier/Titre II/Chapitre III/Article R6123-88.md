@@ -4,8 +4,8 @@ L'autorisation ne peut être accordée que si le demandeur :
 
 1° Est membre d'une coordination des soins en cancérologie, soit un réseau
 régional reconnu par l'Institut national du cancer, soit, à défaut, un réseau
-territorial dont la convention constitutive a été approuvée par le directeur de
-l'agence régionale de l'hospitalisation ;
+territorial dont la convention constitutive a été approuvée par le directeur
+général de l'agence régionale de santé ;
 
 2° Dispose d'une organisation, mise en place le cas échéant conjointement avec
 d'autres titulaires d'une autorisation de traitement du cancer, qui assure à
@@ -38,4 +38,4 @@ structures existant dans des pays étrangers, soit par une convention avec
 d'autres établissements de santé titulaires de l'autorisation mentionnée au
 premier alinéa, l'accès aux traitements innovants et aux essais cliniques, en
 s'appuyant sur l'organisation prévue en cette matière par le schéma régional
-d'organisation sanitaire.
+d'organisation des soins.

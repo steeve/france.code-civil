@@ -54,5 +54,5 @@ initialement accordée.
 
 Le directeur général de l'Agence française de sécurité sanitaire des produits de
 santé informe le directeur général de l'Agence de la biomédecine et le ou les
-directeurs de l'agence régionale de l'hospitalisation compétents de la
+directeurs généraux des agences régionales de santé compétents de la
 modification de l'autorisation.

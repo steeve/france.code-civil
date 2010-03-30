@@ -1,7 +1,7 @@
 Article R252-21
 ----
-Les caisses régionales d'assurance maladie doivent adresser à la Caisse
-nationale d'assurance vieillesse :
+Les caisses d'assurance retraite et de la santé au travail doivent adresser à la
+Caisse nationale d'assurance vieillesse :
 
 1°) annuellement, l'état prévisionnel, le budget d'action sanitaire et sociale
 et les états prévus à l'article R. 252-16 ainsi qu'un exemplaire de leur budget

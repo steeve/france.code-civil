@@ -12,6 +12,5 @@ maladie territorialement compétent de ce régime peut demander à effectuer ce
 versement.
 
 En cas de contestation, le versement est assuré par l'organisme désigné par le
-préfet de région, après avis du directeur régional des affaires sanitaires et
-sociales et du chef du service régional de l'inspection du travail, de l'emploi
-et de la politique sociale agricoles.
+préfet de région, après avis du directeur général de l'agence régionale de santé
+et du directeur régional de l'alimentation, de l'agriculture et de la forêt.

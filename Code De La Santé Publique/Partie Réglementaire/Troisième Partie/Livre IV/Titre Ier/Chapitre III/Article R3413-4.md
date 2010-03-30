@@ -1,7 +1,7 @@
 Article R3413-4
 ----
 La radiation d'un médecin relais de la liste départementale est prononcée par le
-préfet :
+directeur général de l'agence régionale de santé :
 
 1° Dès lors que l'une des conditions prévues à l'article R. 3413-2 cesse d'être
 remplie ;

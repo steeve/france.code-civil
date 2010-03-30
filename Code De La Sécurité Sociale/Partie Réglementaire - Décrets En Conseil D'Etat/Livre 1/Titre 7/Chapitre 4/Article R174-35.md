@@ -1,12 +1,12 @@
 Article R174-35
 ----
-L'agence régionale de l'hospitalisation d'Ile-de-France exerce le contrôle prévu
-à l'article L. 162-22-18 pour les hôpitaux des armées dans les conditions
-prévues par les articles R. 162-42-10 à R. 162-42-13.
+L'agence régionale de santé d'Ile-de-France exerce le contrôle prévu à l'article
+L. 162-22-18 pour les hôpitaux des armées dans les conditions prévues par les
+articles R. 162-42-10 à R. 162-42-13.
 
 Pour l'application de l'article L. 162-22-18, le contrôle de la facturation
-réalisée par ces hôpitaux est intégré dans le programme de contrôle de la
-commission exécutive de l'agence qui en informe le ministre de la défense.
+réalisée par ces hôpitaux est intégré dans le programme de contrôle de l'agence
+qui en informe le ministre de la défense.
 
 Pour l'application de l'article R. 162-42-10, l'agence communique au ministre de
 la défense le rapport mentionné au quatrième alinéa.

@@ -1,6 +1,6 @@
 Article R422-6
 ----
-La caisse régionale d'assurance maladie peut :
+La caisse d'assurance retraite et de la santé au travail peut :
 
 1°) accorder des récompenses aux travailleurs, agents de maîtrise et chefs
 d'entreprise qui se sont signalés par leur activité et leurs initiatives en

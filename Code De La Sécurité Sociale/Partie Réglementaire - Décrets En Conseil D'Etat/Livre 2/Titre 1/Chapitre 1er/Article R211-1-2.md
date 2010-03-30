@@ -19,9 +19,10 @@ délibérations que celui-ci adopte.
 Les propositions du directeur mentionnées aux 1°, 2°, 3°, 4° et au cinquième
 alinéa de l'article L. 211-2-1 tiennent compte des orientations nationales
 fixées par le conseil de la caisse nationale et des objectifs figurant dans le
-contrat de service prévu à l'avant-dernier alinéa de l'article L. 183-1. Dans
-les domaines mentionnés aux 2°, 3° et 4° du deuxième alinéa de l'article L.
-211-2-1, le directeur présente ses propositions chaque année.
+contrat négocié avec le directeur général de l'agence régionale de santé en
+application de l' article L. 1434-14 du code de la santé publique. Dans les
+domaines mentionnés aux 2°, 3° et 4° du deuxième alinéa de l'article L. 211-2-1,
+le directeur présente ses propositions chaque année.
 
 En cas d'opposition motivée du conseil à ces propositions, le directeur lui
 soumet dans le délai de quinze jours une nouvelle proposition tenant compte de
@@ -39,12 +40,12 @@ Le directeur met en oeuvre les actions de prévention et d'éducation sanitaire
 nécessaires au respect des priorités de santé publique arrêtées au niveau
 régional.
 
-Le directeur met également en oeuvre, en liaison avec le service du contrôle
-médical, les mesures nécessaires à la réalisation du programme régional commun
-établi par l'Union régionale des caisses d'assurance maladie et à la réalisation
-des objectifs contenus dans le contrat de service conclu avec cette union. Il
-est responsable dans le ressort de la caisse de la conduite et de la
-coordination des actions de gestion du risque et de contrôle.
+Le directeur met également en œuvre, en liaison avec le service du contrôle
+médical et l'agence régionale de santé, les mesures nécessaires à la réalisation
+des objectifs figurant dans le contrat négocié avec le directeur général de
+l'agence régionale de santé en application de l'article L. 1434-14 du code de la
+santé publique. Il est responsable dans le ressort de la caisse de la conduite
+et de la coordination des actions de gestion du risque et de contrôle.
 
 Il prend les décisions qu'impliquent les mesures arrêtées par la Caisse
 nationale de l'assurance maladie des travailleurs salariés pour l'organisation

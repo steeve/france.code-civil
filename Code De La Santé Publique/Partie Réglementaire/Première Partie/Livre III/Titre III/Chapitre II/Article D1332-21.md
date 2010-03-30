@@ -8,9 +8,10 @@ La personne responsable de l'eau de baignade transmet au maire le profil et le
 document de synthèse, accompagnés, le cas échéant, de toute autre information
 utile.
 
-Le maire transmet au préfet l'ensemble des profils et des documents de synthèse
-relatifs aux eaux de baignade de sa commune, élaborés par les personnes
-responsables d'eaux de baignade.
+Le maire transmet au directeur général de l'agence régionale de santé l'ensemble
+des profils et des documents de synthèse relatifs aux eaux de baignade de sa
+commune, élaborés par les personnes responsables d'eaux de baignade.
 
-Le préfet peut demander communication de toute autre information nécessaire,
-notamment en cas de risque de pollution particulier.
+Le directeur général de l'agence régionale de santé peut demander communication
+de toute autre information nécessaire, notamment en cas de risque de pollution
+particulier.

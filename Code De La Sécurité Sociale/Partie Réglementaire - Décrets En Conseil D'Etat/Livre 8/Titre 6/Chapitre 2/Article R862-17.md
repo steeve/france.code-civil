@@ -2,11 +2,11 @@ Article R862-17
 ----
 L'agrément des associations est prononcé, pour une durée de cinq ans
 renouvelable, par le préfet de région du siège de l'association sur proposition
-du directeur régional des affaires sanitaires et sociales.
+du directeur régional de la jeunesse, des sports et de la cohésion sociale.
 
-Les associations doivent déposer auprès de la direction régionale des affaires
-sanitaires et sociales du siège de l'association, en vue de leur agrément, un
-dossier comportant :
+Les associations doivent déposer auprès de la direction régionale de la
+jeunesse, des sports et de la cohésion sociale du siège de l'association, en vue
+de leur agrément, un dossier comportant :
 
 a) Une copie à jour des statuts ;
 

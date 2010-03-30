@@ -18,7 +18,6 @@ praticien, auprès de l'Agence de la biomédecine, au moins six mois avant la da
 d'échéance de cet agrément.
 
 En cas de refus de renouvellement, le directeur général de l'Agence de la
-biomédecine informe de cette décision le praticien, l'agence régionale de
-l'hospitalisation compétente, ainsi que l'établissement ou organisme titulaire
-de l'autorisation mentionnée à l'article R. 1131-13 au sein duquel exerce le
-praticien.
+biomédecine informe de cette décision le praticien, l'agence régionale de santé
+compétente, ainsi que l'établissement ou organisme titulaire de l'autorisation
+mentionnée à l'article R. 1131-13 au sein duquel exerce le praticien.

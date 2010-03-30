@@ -37,10 +37,6 @@ directeur ou d'agent comptable au sein d'organismes du régime social des
 indépendants et ayant fait valoir ses droits à la retraite depuis moins de trois
 ans, désigné par le directeur général de la caisse nationale de ce régime.
 
-Lorsque le comité examine les candidatures au poste de directeur d'union
-régionale de caisses d'assurance maladie, la section est élargie au directeur
-général de la Caisse centrale de mutualité sociale agricole.
-
 La section des praticiens-conseils comprend, outre le président :
 
 1° Le directeur général de la Caisse nationale de l'assurance maladie des

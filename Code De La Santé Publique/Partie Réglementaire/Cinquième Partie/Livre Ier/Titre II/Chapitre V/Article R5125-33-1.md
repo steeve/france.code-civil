@@ -3,8 +3,9 @@ Article R5125-33-1
 I.-L'autorisation d'exercice de l'activité de sous-traitance mentionnée au
 deuxième alinéa de l'article L. 5125-1 et l'autorisation d'exécution de
 préparations stériles ou dangereuses mentionnée au deuxième alinéa de l'article
-L. 5125-1-1 sont demandées au préfet du département où l'exécution de ces
-activités est envisagée par le pharmacien titulaire de l'officine concernée.
+L. 5125-1-1 sont demandées au directeur général de l'agence régionale de santé
+où l'exécution de ces activités est envisagée par le pharmacien titulaire de
+l'officine concernée.
 
 Lorsque la demande est présentée par une société ou par plusieurs pharmaciens
 réunis en copropriété, elle est signée par chaque associé ou copropriétaire
@@ -48,14 +49,15 @@ Elle fait l'objet d'une publication au recueil des actes administratifs.
 III.-Le défaut de réponse dans le délai de quatre mois à compter de la réception
 de la demande vaut autorisation tacite pour l'activité qui en fait l'objet.
 
-Le préfet peut requérir du demandeur les informations complémentaires à
-l'instruction de la demande. Dans ce cas, le délai prévu au premier alinéa est
-suspendu jusqu'à réception de ces informations.
+Le directeur général de l'agence régionale de santé peut requérir du demandeur
+les informations complémentaires à l'instruction de la demande. Dans ce cas, le
+délai prévu au premier alinéa est suspendu jusqu'à réception de ces
+informations.
 
-IV.-Fait l'objet d'une déclaration au préfet toute modification des éléments
-mentionnés aux 1°, 2°, 3°, 4°, 5° et 6° du I. Le respect de cette formalité
-dispense de procéder à la déclaration à l'inspection régionale de la pharmacie
-prévue à l'article R. 5125-12.
+IV.-Fait l'objet d'une déclaration au directeur général de l'agence régionale de
+santé toute modification des éléments mentionnés aux 1°, 2°, 3°, 4°, 5° et 6° du
+I. Le respect de cette formalité dispense de procéder à la déclaration à
+l'inspection régionale de la pharmacie prévue à l'article R. 5125-12.
 
 V.-Le retrait ou la suspension, totale ou partielle, de l'autorisation d'exercer
 l'activité de sous-traitance ou de l'autorisation d'exécuter des préparations
@@ -71,8 +73,9 @@ dangereuses ne peut intervenir qu'après que le titulaire ou le gérant de
 l'officine a été mis en demeure de présenter dans un délai d'un mois ses
 observations sur les faits de nature à justifier la décision.
 
-En cas d'urgence, le préfet peut, sans procédure préalable, prononcer une
-suspension d'autorisation pour une durée qui ne peut être supérieure à un mois.
+En cas d'urgence, le directeur général de l'agence régionale de santé peut, sans
+procédure préalable, prononcer une suspension d'autorisation pour une durée qui
+ne peut être supérieure à un mois.
 
 La décision de retrait ou de suspension est notifiée par lettre recommandée avec
 demande d'avis de réception.

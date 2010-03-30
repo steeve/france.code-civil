@@ -12,4 +12,5 @@ Les élections des membres des conseils régionaux ont lieu dans les conditions
 fixées aux articles R. 4311-59 à R. 4311-82.
 
 Une copie du procès-verbal est adressée aux conseils départementaux intéressés,
-au préfet de région, au conseil national et au ministre chargé de la santé.
+au directeur général de l'agence régionale de santé, au conseil national et au
+ministre chargé de la santé.

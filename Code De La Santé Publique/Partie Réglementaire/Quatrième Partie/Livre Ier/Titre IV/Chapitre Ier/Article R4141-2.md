@@ -1,8 +1,9 @@
 Article R4141-2
 ----
-L'autorisation est délivrée par le préfet du département dans lequel exerce le
-chirurgien-dentiste que l'étudiant remplace ou dont il est l'adjoint, après avis
-favorable du conseil départemental de l'ordre.
+L'autorisation est délivrée par le directeur général de l'agence régionale de
+santé de la région dans laquelle exerce le chirurgien-dentiste que l'étudiant
+remplace ou dont il est l'adjoint, après avis favorable du conseil départemental
+de l'ordre.
 
 L'autorisation de remplacement est délivrée pour une durée maximale de trois
 mois. Elle est renouvelable dans les mêmes conditions et pour la même durée

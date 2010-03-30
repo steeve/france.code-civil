@@ -26,8 +26,8 @@ l'article L. 1243-3, l'identité du cessionnaire, la nature et le nombre
 d'échantillons cédés, le programme de recherche en vue duquel la cession a été
 réalisée.
 
-Le ministre chargé de la recherche ou, le cas échéant, le directeur de l'agence
-régionale de l'hospitalisation peut, en outre, demander à tout moment à
-l'organisme des informations lui permettant de s'assurer que les activités sont
-bien poursuivies dans le respect des dispositions législatives et réglementaires
-en vigueur et répondent aux exigences mentionnées à l'article L. 1243-3.
+Le ministre chargé de la recherche ou, le cas échéant, le directeur général de
+l'agence régionale de santé peut, en outre, demander à tout moment à l'organisme
+des informations lui permettant de s'assurer que les activités sont bien
+poursuivies dans le respect des dispositions législatives et réglementaires en
+vigueur et répondent aux exigences mentionnées à l'article L. 1243-3.

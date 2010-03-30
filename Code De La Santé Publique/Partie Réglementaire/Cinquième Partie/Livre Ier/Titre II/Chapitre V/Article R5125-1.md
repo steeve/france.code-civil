@@ -2,11 +2,11 @@ Article R5125-1
 ----
 L'autorisation de création ou de transfert d'une officine de pharmacie ou de
 regroupement d'officines, sauf pour celles mentionnées à l'article L. 5125-19,
-est demandée au préfet du département où l'exploitation est envisagée par la
-personne responsable du projet, ou son représentant s'il s'agit d'une personne
-morale. Lorsque la demande est présentée par une société ou par plusieurs
-pharmaciens réunis en copropriété, elle est signée par chaque associé ou
-copropriétaire devant exercer dans l'officine.
+est demandée au directeur général de l'agence régionale de santé où
+l'exploitation est envisagée par la personne responsable du projet, ou son
+représentant s'il s'agit d'une personne morale. Lorsque la demande est présentée
+par une société ou par plusieurs pharmaciens réunis en copropriété, elle est
+signée par chaque associé ou copropriétaire devant exercer dans l'officine.
 
 La demande est accompagnée d'un dossier comportant :
 
@@ -28,6 +28,6 @@ d'installation prévues à la sous-section 2 de la présente section.
 La liste des pièces justificatives correspondantes est fixée par arrêté du
 ministre chargé de la santé.
 
-Lorsque le dossier est complet, le préfet procède à l'enregistrement de la
-demande. Il délivre au demandeur un récépissé mentionnant la date et l'heure de
-cet enregistrement.
+Lorsque le dossier est complet, le directeur général de l'agence régionale de
+santé procède à l'enregistrement de la demande. Il délivre au demandeur un
+récépissé mentionnant la date et l'heure de cet enregistrement.

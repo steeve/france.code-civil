@@ -6,4 +6,5 @@ l'exploitation dans les conditions prévues à l'article L. 5124-4.
 
 Il est choisi parmi les pharmaciens mentionnés à l'article R. 5124-27 et
 sollicite, dès qu'il a accepté les fonctions qui lui sont confiées par le
-conjoint ou les héritiers, l'autorisation du préfet de région.
+conjoint ou les héritiers, l'autorisation du directeur général de l'agence
+régionale de santé.

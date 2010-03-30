@@ -1,7 +1,6 @@
 Article R6122-32-1
 ----
-Le dossier justificatif prévu à l'article R. 6122-32 et dont la composition peut
-être précisée par arrêté du ministre chargé de la santé comporte :
+Le dossier justificatif prévu à l'article R. 6122-32 comporte :
 
 1° Une partie administrative dans laquelle figurent :
 
@@ -12,13 +11,11 @@ la société ; si la personne morale est en cours de constitution, le dossier
 indique les nom, adresse et qualité de la personne qui la représente pour la
 demande ;
 
-b) La délibération du conseil d'administration ou de l'organe délibérant
-relative au projet d'activités, lorsque le demandeur est une personne morale
-constituée ;
+b) La délibération du conseil de surveillance ou de l'organe délibérant relative
+au projet d'activités, lorsque le demandeur est une personne morale constituée ;
 
 c) La présentation de l'opération projetée ou la mise en oeuvre des activités de
-soins envisagée, notamment au regard du schéma d'organisation sanitaire et de
-son annexe ;
+soins envisagée, notamment au regard du schéma d'organisation des soins ;
 
 d) L'indication des objectifs du schéma d'organisation sanitaire auxquels le
 demandeur entend répondre ainsi que ceux, quantifiés, de l'offre de soins et, le
@@ -72,7 +69,7 @@ dans les conditions prévues aux articles R. 6122-23 et R. 6122-24, et précisan
 :
 
 a) Les objectifs qu'il se fixe pour mettre en oeuvre les objectifs du schéma
-d'organisation sanitaire, notamment au regard de l'accessibilité, de la qualité
+d'organisation des soins, notamment au regard de l'accessibilité, de la qualité
 et de la sécurité des soins, ainsi que de la continuité et de la prise en charge
 globale du patient ;
 

@@ -16,8 +16,8 @@ place une astreinte psychiatrique et organiser la prise en charge médicale des
 pathologies somatiques. Le délai d'arrivée du médecin sur le site doit être
 compatible avec l'impératif de sécurité.
 
-Cette organisation est subordonnée à l'approbation du directeur de l'agence
-régionale de l'hospitalisation au vu de l'activité de l'établissement, de ses
+Cette organisation est subordonnée à l'approbation du directeur général de
+l'agence régionale de santé au vu de l'activité de l'établissement, de ses
 orientations médicales et de sa complémentarité en matière d'offre de soin avec
 les établissements de santé chargés de la sectorisation psychiatrique dans le
 territoire de santé.

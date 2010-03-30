@@ -36,8 +36,8 @@ mentionnées aux alinéas précédents sont effectuées par le conseil national.
 
 Le procès-verbal de l'élection est établi dans les conditions prévues à
 l'article R. 4123-14. Copie en est adressée aux conseils départementaux
-intéressés, aux préfets du ressort du conseil régional ou interrégional, au
-préfet de région, au conseil national et au ministre chargé de la santé. Le
-résultat de l'élection est publié sans délai par les soins du préfet de la
-région concernée ou de la région dans laquelle est situé le siège du conseil
-interrégional.
+intéressés, aux directeurs généraux des agences régionales de santé du ressort
+du conseil régional ou interrégional, au préfet de région, au conseil national
+et au ministre chargé de la santé. Le résultat de l'élection est publié sans
+délai par les soins du préfet de la région concernée ou de la région dans
+laquelle est situé le siège du conseil interrégional.

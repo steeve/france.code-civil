@@ -1,8 +1,7 @@
 Article R6122-15
 ----
 Un suppléant de chaque membre du Comité national de l'organisation sanitaire et
-sociale et des comités régionaux de l'organisation sanitaire est désigné dans
-les mêmes conditions que le titulaire.
+sociale est désigné dans les mêmes conditions que le titulaire.
 
 Lorsque, pour un des sièges de président de commission médicale d'établissement
 public de santé ou de conférence médicale d'établissement de santé privé,

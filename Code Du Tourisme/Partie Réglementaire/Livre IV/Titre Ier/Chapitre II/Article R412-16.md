@@ -13,6 +13,7 @@ Dans le cadre d'un contrôle d'un séjour, s'il est constaté soit que l'agréme
 vacances adaptées organisées " n'a pas été obtenu ou n'est plus valable, soit
 que l'organisme à l'origine du déroulement d'un séjour n'en a pas informé le
 préfet de département concerné, le préfet peut autoriser la poursuite du séjour
-au vu d'un contrôle sur place et d'un rapport circonstancié d'un inspecteur des
-affaires sanitaires et sociales ou d'un médecin inspecteur de santé publique et
-en prenant en compte la situation et l'intérêt des personnes accueillies.
+au vu d'un contrôle sur place et d'un rapport circonstancié d'un inspecteur de
+l'action sanitaire et sociale, d'un médecin inspecteur de santé publique ou d'un
+inspecteur de l'agence régionale de santé ayant la qualité de médecin et en
+prenant en compte la situation et l'intérêt des personnes accueillies.

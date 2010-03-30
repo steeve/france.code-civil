@@ -23,4 +23,5 @@ au plus grand risque de pollution, compte tenu du profil de l'eau.
 
 La personne responsable de l'eau de baignade transmet le programme de
 surveillance et la localisation des points de prélèvements au maire, afin qu'il
-en informe le préfet au moins deux mois avant le début de la saison balnéaire.
+en informe le directeur général de l'agence régionale de santé au moins deux
+mois avant le début de la saison balnéaire.

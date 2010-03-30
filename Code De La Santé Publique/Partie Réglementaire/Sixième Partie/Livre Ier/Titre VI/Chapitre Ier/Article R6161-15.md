@@ -3,8 +3,8 @@ Article R6161-15
 La concession du service public hospitalier est subordonnée :
 
 1° A la conclusion préalable par l'établissement d'un contrat pluriannuel
-d'objectifs et de moyens avec l'agence régionale de l'hospitalisation en
-application de l'article L. 6114-4 ;
+d'objectifs et de moyens avec l'agence régionale de santé en application de
+l'article L. 6114-4 ;
 
 2° Au respect des tarifs fixés en application des articles L. 162-14-1 et L.
 162-22-10 du code de la sécurité sociale ;

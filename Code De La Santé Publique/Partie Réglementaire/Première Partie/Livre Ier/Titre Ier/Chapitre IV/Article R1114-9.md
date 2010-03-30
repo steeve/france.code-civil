@@ -11,5 +11,6 @@ Peuvent également faire l'objet d'un agrément national les associations qui
 démontrent le caractère national de leur activité.
 
 Les associations qui ne remplissent pas les conditions mentionnées aux deux
-premiers alinéas peuvent être agréées au niveau régional par le préfet de chaque
-région dans laquelle elles exercent leur activité.
+premiers alinéas peuvent être agréées au niveau régional par le directeur
+général de l'agence régionale de santé de chaque région dans laquelle elles
+exercent leur activité.

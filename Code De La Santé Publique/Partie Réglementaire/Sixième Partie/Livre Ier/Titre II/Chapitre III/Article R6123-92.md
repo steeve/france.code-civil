@@ -9,8 +9,3 @@ l'article R. 6123-87. Elle est subordonnée à la conclusion d'un accord écrit
 organisant leur coopération en cancérologie pour la prise en charge des patients
 qu'ils reçoivent, au titre de chaque modalité d'exercice pour lesquelles ils
 sont autorisés.
-
-Toutefois, à titre dérogatoire, les dispositions de l'alinéa précédent ne sont
-pas applicables aux demandes présentées au titre du 4° de l'article R. 6123-87
-par les structures d'hospitalisation à domicile mentionnées au 3° de l'article
-R. 6121-4.

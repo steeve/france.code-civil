@@ -18,10 +18,11 @@ secteur aquifère concerné déterminant les caractéristiques de l'eau ;
 microbiologiques permettant d'évaluer la pureté de l'eau de la ressource
 utilisée et sa stabilité ;
 
-4° Le cas échéant, une évaluation clinique et thérapeutique ;
+4° (Abrogé)
 
 5° L'avis de l'hydrogéologue agréé en matière d'hygiène publique, spécialement
-désigné par le préfet pour l'étude du dossier ;
+désigné par le directeur général de l'agence régionale de santé pour l'étude du
+dossier ;
 
 6° La justification des produits et des procédés de traitement à mettre
 éventuellement en oeuvre ;

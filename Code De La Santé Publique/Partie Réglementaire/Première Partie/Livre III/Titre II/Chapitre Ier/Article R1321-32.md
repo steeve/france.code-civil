@@ -1,6 +1,7 @@
 Article R1321-32
 ----
-Lors de la première demande, le préfet :
+Lors de la première demande, le préfet, sur le rapport du directeur général de
+l'agence régionale de santé :
 
 1° Ou bien estime que le non-respect de la limite de qualité est sans gravité et
 que les mesures correctives prises permettent de corriger la situation dans un
@@ -24,7 +25,7 @@ concernées ;
 
 c) Les motifs de la demande de la dérogation ;
 
-d) La valeur maximale admissible pour le(s) paramètre(s) concerné(s) ;
+d) La valeur maximale admissible pour le (s) paramètre (s) concerné (s) ;
 
 e) Le délai imparti pour corriger la situation ;
 
@@ -32,14 +33,14 @@ f) Le programme de surveillance et de contrôle sanitaire prévu.
 
 Sont précisés en annexe de l'arrêté les éléments suivants :
 
-- en ce qui concerne l'unité de distribution, la description du système de
+-en ce qui concerne l'unité de distribution, la description du système de
 production et de distribution intéressé, la quantité d'eau distribuée chaque
 jour et la population touchée ;
 
-- en ce qui concerne la qualité de l'eau, les résultats pertinents de contrôles
+-en ce qui concerne la qualité de l'eau, les résultats pertinents de contrôles
 antérieurs du suivi de la qualité ;
 
-- un résumé du plan concernant les mesures correctives nécessaires comprenant un
+-un résumé du plan concernant les mesures correctives nécessaires comprenant un
 calendrier des travaux, une estimation des coûts et les indicateurs pertinents
 prévus pour le bilan.
 

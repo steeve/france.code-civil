@@ -4,8 +4,8 @@ Nonobstant la notification prévue à l'article R. 3113-2, les cas, avérés ou
 suspectés, de maladies ou d'anomalie biologique mentionnées au 1° de l'article
 L. 3113-1 sont signalés sans délai par le médecin ou le responsable du service
 de biologie ou du laboratoire d'analyses de biologie médicale, public ou privé,
-au médecin inspecteur départemental de santé publique ou au médecin désigné par
-arrêté du préfet du département.
+au médecin de l'agence régionale de santé désigné par le directeur général de
+l'agence.
 
 Le destinataire du signalement évalue la nécessité de mettre en place d'urgence
 des mesures de prévention individuelle et collective et, le cas échéant, de

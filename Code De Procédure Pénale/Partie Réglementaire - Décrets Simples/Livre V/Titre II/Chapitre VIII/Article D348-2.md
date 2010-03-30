@@ -20,8 +20,8 @@ directeur de l'administration pénitentiaire ;
 
 7. Un juge de l'application des peines désigné par le ministre de la justice ;
 
-8. Un médecin inspecteur de santé publique désigné par le directeur général de
-la santé ;
+8. Un médecin en fonction dans une agence régionale de santé désigné par le
+directeur général de la santé ;
 
 9. Un chef d'établissement pénitentiaire désigné par le directeur de
 l'administration pénitentiaire ;

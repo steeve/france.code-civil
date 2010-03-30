@@ -4,9 +4,9 @@ Pour l'application des articles L. 151-1, L. 153-1, R. 151-1 et R. 153-1, la
 caisse nationale compétente est :
 
 1°) la caisse nationale de l'assurance maladie des travailleurs salariés pour
-les décisions émanant d'une caisse primaire ou régionale d'assurance maladie, à
-l'exclusion de celles qui sont prises en matière de recouvrement des cotisations
-;
+les décisions émanant d'une caisse primaire d'assurance maladie ou d'une caisse
+d'assurance retraite et de la santé au travail, à l'exclusion de celles qui sont
+prises en matière de recouvrement des cotisations ;
 
 2°) la caisse nationale des allocations familiales pour les décisions émanant
 d'une caisse d'allocations familiales, à l'exclusion de celles qui sont prises
@@ -14,10 +14,10 @@ en matière de recouvrement des cotisations ;
 
 3°) la Caisse nationale d'assurance vieillesse des travailleurs salariés pour
 les décisions émanant de la caisse régionale d'assurance vieillesse des
-travailleurs salariés de Strasbourg et pour les décisions émanant des caisses
-régionales d'assurance maladie concernant l'exercice des attributions
-mentionnées aux articles R. 215-1 à R. 215-4, R. 222-1 et R. 222-2, R. 232-1, R.
-251-23, R. 252-16 à R. 252-21 et R. 253-2 ;
+travailleurs salariés de Strasbourg et pour les décisions émanant d'une caisse
+d'assurance retraite et de la santé au travail concernant l'exercice des
+attributions mentionnées aux articles R. 215-1 à R. 215-4, R. 222-1 et R. 222-2,
+R. 232-1, R. 251-23, R. 252-16 à R. 252-21 et R. 253-2 ;
 
 4°) l'agence centrale des organismes de sécurité sociale pour les décisions
 émanant d'une union de recouvrement et pour celles afférentes au recouvrement

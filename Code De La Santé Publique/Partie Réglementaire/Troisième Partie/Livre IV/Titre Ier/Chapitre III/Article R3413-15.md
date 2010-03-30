@@ -4,4 +4,5 @@ Au terme de l'exécution de la mesure, le médecin relais détruit l'ensemble de
 pièces de procédure qui lui ont été adressées.
 
 Lorsque l'autorité judiciaire décide de mettre fin à une mesure d'injonction
-thérapeutique, elle en informe le préfet et le médecin relais.
+thérapeutique, elle en informe le préfet et le directeur général de l'agence
+régionale de santé, qui en informe le médecin relais.

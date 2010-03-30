@@ -11,12 +11,12 @@ Toute enquête ou inspection de ces inspecteurs fait l'objet d'une information
 préalable du ministre de la défense par le directeur général de l'Agence
 française de sécurité sanitaire des produits de santé.
 
-L'inspecteur technique des services pharmaceutiques et chimiques des armées peut
-accompagner ces inspecteurs.
+L'inspecteur technique des services pharmaceutiques des armées peut accompagner
+ces inspecteurs.
 
 Le rapport transmis par l'inspecteur responsable de la mission au directeur
-général de l'agence, sous couvert du pharmacien inspecteur régional de santé
-publique lorsque la mission est effectuée par un pharmacien inspecteur de santé
+général de l'agence, sous couvert du pharmacien inspecteur mentionné à l'article
+L. 5127-1 lorsque la mission est effectuée par un pharmacien inspecteur de santé
 publique intervenant dans le cas prévu à l'article L. 5313-3, est communiqué
 simultanément au ministre de la défense, qui peut faire connaître ses
 observations au directeur général dans un délai d'un mois.

@@ -3,7 +3,8 @@ Article R4381-30
 L'inscription ne peut être refusée que si les statuts déposés ne sont pas
 conformes aux dispositions législatives et réglementaires régissant les sociétés
 civiles professionnelles et l'exercice de la profession ou si l'attestation
-prévue à l'article R. 4381-29 n'a pas été communiquée au préfet.
+prévue à l'article R. 4381-29 n'a pas été communiquée au directeur général de
+l'agence régionale de santé.
 
 La décision de refus d'inscription est motivée. Elle est notifiée aux demandeurs
 par lettre recommandée avec demande d'avis de réception.

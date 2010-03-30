@@ -7,4 +7,5 @@ ministre chargé de la santé précise la nature et la fréquence des analyses, 
 fonction du type d'exploitation de l'eau, ainsi que les modalités d'adaptation
 du programme.
 
-Les lieux de prélèvement des échantillons sont déterminés par arrêté du préfet.
+Les lieux de prélèvement des échantillons sont déterminés par décision du
+directeur général de l'agence régionale de santé.

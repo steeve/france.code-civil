@@ -14,6 +14,6 @@ général de l'Agence de la biomédecine. Le praticien est invité à présenter
 observations.
 
 Le directeur général de l'Agence de la biomédecine informe de cette décision le
-praticien, l'agence régionale de l'hospitalisation compétente, ainsi que les
-titulaires de l'autorisation de l'établissement de santé ou du laboratoire
-d'analyses de biologie médicale où le praticien exerce.
+praticien, l'agence régionale de santé compétente, ainsi que les titulaires de
+l'autorisation de l'établissement de santé ou du laboratoire d'analyses de
+biologie médicale où le praticien exerce.

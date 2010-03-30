@@ -17,12 +17,14 @@ appartiennent au cadre actif des armées, la qualité de vétérinaires des arm�
 4° La faculté accordée par le quatrième alinéa de l'article L. 5143-2 aux chefs
 des services de pharmacie et toxicologie des écoles nationales vétérinaires ;
 
-5° L'autorisation du préfet délivrée en application de l'article L. 4211-3 ;
+5° L'autorisation du directeur général de l'agence régionale de santé délivrée
+en application de l'article L. 4211-3 ;
 
-6° L'autorisation préfectorale accordée au médecin d'un centre de soins,
-d'accompagnement et de prévention en addictologie mentionnée au deuxième alinéa
-de l'article D. 3411-9 ou l'inscription à l'ordre des pharmaciens pour les
-pharmaciens attachés à ces établissements ;
+6° L'autorisation du directeur général de l'agence régionale de santé accordée
+au médecin d'un centre de soins, d'accompagnement et de prévention en
+addictologie mentionnée au deuxième alinéa de l'article D. 3411-9 ou
+l'inscription à l'ordre des pharmaciens pour les pharmaciens attachés à ces
+établissements ;
 
 7° Pour les établissements mentionnés à l'article L. 5126-6 autres que les
 centres de soins, d'accompagnement et de prévention en addictologie,

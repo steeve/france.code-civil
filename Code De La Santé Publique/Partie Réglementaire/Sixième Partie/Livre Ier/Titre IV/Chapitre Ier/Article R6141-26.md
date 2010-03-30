@@ -8,5 +8,5 @@ partie IV du présent code, dispenser des soins à l'hôpital local, dans les
 conditions prévues à l'article R. 6141-24, avec l'accord du directeur de cet
 hôpital.
 
-Le directeur de l'agence régionale de l'hospitalisation est immédiatement
-informé de ce remplacement.
+Le directeur général de l'agence régionale de santé est immédiatement informé de
+ce remplacement.

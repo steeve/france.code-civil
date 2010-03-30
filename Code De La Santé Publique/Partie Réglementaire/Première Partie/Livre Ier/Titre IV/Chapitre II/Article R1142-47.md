@@ -46,7 +46,7 @@ conciliation et d'indemnisation des accidents médicaux, des affections
 iatrogènes et des infections nosocomiales de la suite donnée par l'office à ses
 avis.
 
-Il informe le directeur de l'agence régionale de l'hospitalisation concerné des
+Il informe le directeur général de l'agence régionale de santé concerné des
 infections nosocomiales dont il indemnise les victimes en application de
 l'article L. 1142-21.
 

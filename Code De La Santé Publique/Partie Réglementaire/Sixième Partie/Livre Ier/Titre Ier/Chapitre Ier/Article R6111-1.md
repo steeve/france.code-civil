@@ -1,14 +1,16 @@
 Article R6111-1
 ----
 Chaque établissement de santé ainsi que les syndicats interhospitaliers et les
-groupements de coopération sanitaire autorisés en vertu des articles L. 6132-2
-et L. 6133-1 à assurer les missions d'un établissement de santé organisent en
-leur sein la lutte contre les infections nosocomiales, y compris la prévention
-de la résistance contre les infections bactériennes aux antibiotiques. A cet
-effet, ils instituent en leur sein une instance de consultation et de suivi
-chargée de la lutte contre les infections nosocomiales, se dotent d'une équipe
-opérationnelle d'hygiène et définissent un programme annuel d'actions tendant à
-assurer :
+groupements de coopération sanitaire autorisés en vertu des articles L. 6132-2,
+dans sa rédaction antérieure à la publication de la loi n° 2009-879 du 21
+juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé
+et aux territoires, et L. 6133-7 à assurer les missions d'un établissement de
+santé organisent en leur sein la lutte contre les infections nosocomiales, y
+compris la prévention de la résistance contre les infections bactériennes aux
+antibiotiques.A cet effet, ils instituent en leur sein une instance de
+consultation et de suivi chargée de la lutte contre les infections nosocomiales,
+se dotent d'une équipe opérationnelle d'hygiène et définissent un programme
+annuel d'actions tendant à assurer :
 
 1° La prévention des infections nosocomiales et du risque infectieux lié aux
 soins, notamment par l'élaboration et la mise en oeuvre de recommandations de

@@ -1,7 +1,8 @@
 Article R4133-18
 ----
 Le conseil régional de la formation médicale continue prévu à l'article L.
-4133-4 est composé de 12 membres nommés par le préfet de région.
+4133-4 est composé de 12 membres nommés par le directeur général de l'agence
+régionale de santé.
 
 Le conseil régional comprend :
 

@@ -9,16 +9,18 @@ gérant chacune de ces pharmacies est le correspondant du centre régional pour
 les médicaments dérivés du sang qu'il délivre.
 
 Dans les établissements de santé et les syndicats interhospitaliers ou les
-groupements de coopération sanitaire autorisés en vertu des articles L. 6132-2
-et L. 6133-1 à assurer les missions de ces établissements qui ne disposent pas
-d'une pharmacie à usage intérieur, le dépôt de médicaments destinés à des soins
-urgents mentionné au deuxième alinéa de l'article R. 5126-113 ne peut contenir
-des médicaments dérivés du sang que si l'établissement a désigné un
-correspondant du centre régional de pharmacovigilance pour les médicaments
-dérivés du sang. Ce correspondant peut être soit le médecin mentionné à
-l'article L. 5126-6, soit un pharmacien recruté à cet effet et satisfaisant à
-des conditions fixées par arrêté du ministre chargé de la santé. Dans les
-syndicats interhospitaliers et les groupements de coopération sanitaire, ce
-correspondant peut être un praticien exerçant les mêmes fonctions au sein de
-l'un des établissements de santé membres du syndicat ou du groupement. Son nom
-est communiqué au centre régional de pharmacovigilance.
+groupements de coopération sanitaire autorisés en vertu des articles L. 6132-2,
+dans sa rédaction antérieure à la publication de la loi n° 2009-879 du 21
+juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé
+et aux territoires, et L. 6133-7 à assurer les missions de ces établissements
+qui ne disposent pas d'une pharmacie à usage intérieur, le dépôt de médicaments
+destinés à des soins urgents mentionné au deuxième alinéa de l'article R.
+5126-113 ne peut contenir des médicaments dérivés du sang que si l'établissement
+a désigné un correspondant du centre régional de pharmacovigilance pour les
+médicaments dérivés du sang. Ce correspondant peut être soit le médecin
+mentionné à l'article L. 5126-6, soit un pharmacien recruté à cet effet et
+satisfaisant à des conditions fixées par arrêté du ministre chargé de la santé.
+Dans les syndicats interhospitaliers et les groupements de coopération
+sanitaire, ce correspondant peut être un praticien exerçant les mêmes fonctions
+au sein de l'un des établissements de santé membres du syndicat ou du
+groupement. Son nom est communiqué au centre régional de pharmacovigilance.

@@ -1,7 +1,7 @@
 Article R4133-20
 ----
-Le préfet de région convoque le conseil régional pour sa première réunion dont
-il fixe l'ordre du jour.
+Le directeur général de l'agence régionale de santé convoque le conseil régional
+pour sa première réunion dont il fixe l'ordre du jour.
 
 Le conseil régional élit en son sein le président et le vice-président. En cas
 d'absence du président, le vice-président le supplée dans ses fonctions.

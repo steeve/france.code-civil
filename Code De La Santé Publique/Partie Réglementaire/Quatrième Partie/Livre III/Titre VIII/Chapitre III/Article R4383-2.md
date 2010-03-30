@@ -1,9 +1,9 @@
 Article R4383-2
 ----
 L'autorisation mentionnée à l'article L. 4383-3 est délivrée pour une durée de
-cinq ans par le président du conseil régional, après avis du préfet de région,
-aux instituts et écoles de formation dont le projet répond aux conditions
-suivantes :
+cinq ans par le président du conseil régional, après avis du directeur général
+de l'agence régionale de santé, aux instituts et écoles de formation dont le
+projet répond aux conditions suivantes :
 
 1° Qualification des directeurs des instituts et écoles concernés ;
 
@@ -34,4 +34,5 @@ appréciés par la région.
 Le dossier de demande d'autorisation, dont la composition est fixée par arrêté
 du ministre chargé de la santé, est établi par le représentant légal de
 l'institut ou de l'école et transmis au président du conseil régional de la
-région d'implantation de l'école de formation, avec copie au préfet de région.
+région d'implantation de l'école de formation, avec copie au directeur général
+de l'agence régionale de santé.

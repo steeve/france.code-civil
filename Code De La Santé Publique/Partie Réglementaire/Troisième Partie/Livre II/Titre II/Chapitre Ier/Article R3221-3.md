@@ -8,7 +8,7 @@ d'hébergement total, ou d'hébergement de jour ou de nuit ;
 
 2° A la résidence des patients ;
 
-3° Dans les établissements sanitaires, sociaux ou médico-sociaux où résident les
+3° Dans les établissements de santé, sociaux ou médico-sociaux où résident les
 patients ;
 
 4° Par des séjours thérapeutiques temporaires ;

@@ -5,7 +5,9 @@ interhospitaliers et aux groupements de coopération sanitaire qui sont autoris�
 à gérer une pharmacie à usage intérieur pour le compte de leurs membres dans les
 conditions prévues à l'article L. 5126-1 ou à assurer les missions d'un
 établissement de santé dans les conditions respectivement prévues aux articles
-L. 6132-2 et L. 6133-1.
+L. 6132-2, dans sa rédaction antérieure à la publication de la loi n° 2009-879
+du 21 juillet 2009 portant réforme de l'hôpital et relative aux patients, à la
+santé et aux territoires, et L. 6133-7.
 
 Dans les syndicats interhospitaliers, le règlement intérieur fixe les modalités
 de composition, d'organisation et de fonctionnement de l'instance chargée des

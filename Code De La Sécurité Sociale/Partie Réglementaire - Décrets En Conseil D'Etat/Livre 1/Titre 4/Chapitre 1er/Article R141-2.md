@@ -2,11 +2,11 @@ Article R141-2
 ----
 L'expertise prévue à l'article R. 141-1 est pratiquée soit à la demande de la
 victime d'un accident du travail ou d'une maladie professionnelle, soit sur
-l'initiative de la caisse primaire ou de la caisse régionale d'assurance
-maladie. La victime peut toujours, même lorsque la matérialité de l'accident est
-contestée, requérir une expertise médicale. La caisse doit y faire procéder
-lorsque la contestation dont elle est saisie porte sur une question d'ordre
-médical.
+l'initiative de la caisse primaire d'assurance maladie ou de la caisse
+d'assurance retraite et de la santé au travail. La victime peut toujours, même
+lorsque la matérialité de l'accident est contestée, requérir une expertise
+médicale. La caisse doit y faire procéder lorsque la contestation dont elle est
+saisie porte sur une question d'ordre médical.
 
 En matière d'assurance maladie et d'assurance des accidents du travail et des
 maladies professionnelles, les contestations relatives à l'état du malade ou à

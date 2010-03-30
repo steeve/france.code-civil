@@ -7,8 +7,8 @@ produits de santé comprend, outre son président :
 
 a) Le directeur général de la santé ou son représentant ;
 
-b) Le directeur de l'administration générale, du personnel et du budget au
-ministère chargé de la santé, ou son représentant ;
+b) Le secrétaire général des ministères chargés des affaires sociales , ou son
+représentant ;
 
 c) Le directeur de la sécurité sociale ou son représentant ;
 

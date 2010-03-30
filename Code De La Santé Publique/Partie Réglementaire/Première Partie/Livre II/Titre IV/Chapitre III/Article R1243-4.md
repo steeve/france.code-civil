@@ -39,13 +39,12 @@ chacune des parties ;
 mentionnées à l'article R. 1243-17 ;
 
 7° Lorsque la demande émane d'un établissement de santé, une copie du courrier
-et de l'avis de réception l'accompagnant, attestant que le ou les directeurs de
-l'agence régionale de l'hospitalisation compétents dans la région où se situent
+et de l'avis de réception l'accompagnant, attestant que le ou les directeurs
+généraux des agences régionales de santé compétents dans la région où se situent
 les sites de l'établissement ont été informés de la demande d'autorisation de
 mise en œuvre des activités mentionnées à l'article R. 1243-1 ainsi que, le cas
 échéant, une copie de tout courrier indiquant les observations éventuelles de
-l'agence régionale de l'hospitalisation sur la mise en œuvre de telles activités
-;
+l'agence régionale de santé sur la mise en œuvre de telles activités ;
 
 8° A la date d'envoi du dossier, la liste :
 

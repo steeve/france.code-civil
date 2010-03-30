@@ -3,6 +3,6 @@ Article R4143-7
 Un arrêté du ministre chargé de la santé fixe la liste des conseils
 interrégionaux de la formation continue odontologique.
 
-Le préfet de région compétent pour l'application des articles R. 4143-12 et R.
-4143-13 est le préfet de la région qui comporte le plus de chirurgiens-dentistes
-inscrits au tableau de l'ordre.
+Le directeur général de l'agence régionale de santé compétent pour l'application
+des articles R. 4143-12 et R. 4343-13 est celui de la région qui comporte le
+plus grand nombre de chirurgiens-dentistes inscrits au tableau de l'ordre.

@@ -17,6 +17,8 @@ a effectué le contrôle doit, sans délai, transmettre une recommandation motiv
 de placer hors service l'appareil ou l'installation contrôlée au titulaire de
 l'autorisation ou au déclarant de cet appareil ou de cette installation ainsi
 qu'au chef d'établissement. Cette recommandation est adressée par le chef
-d'établissement à l'inspecteur du travail, à l'Autorité de sûreté nucléaire et
-au préfet. Le chef d'établissement précise les mesures qu'il compte prendre pour
-remédier à cette non-conformité.
+d'établissement à l'inspecteur du travail, à l'Autorité de sûreté nucléaire, au
+préfet et, pour les établissements de santé et les organismes responsables de
+services de santé, au directeur général de l'agence régionale de santé. Le chef
+d'établissement précise les mesures qu'il compte prendre pour remédier à cette
+non-conformité.

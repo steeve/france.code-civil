@@ -8,6 +8,6 @@ le traitement des patients.
 
 Cette permanence peut être commune à plusieurs sites autorisés à pratiquer ces
 activités, selon les modalités d'organisation de l'accès aux soins définie dans
-le schéma interrégional d'organisation sanitaire des activités
+le schéma interrégional d'organisation des soins des activités
 interventionnelles par voie endovasculaire en neuroradiologie. Dans ce cas, une
 convention est établie entre les titulaires d'autorisation propre à chaque site.

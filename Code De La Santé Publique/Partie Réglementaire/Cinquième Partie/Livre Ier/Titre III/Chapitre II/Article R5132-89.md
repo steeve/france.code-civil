@@ -27,7 +27,8 @@ pharmacie et toxicologie des écoles nationales vétérinaires ;
 
 8° L'autorisation accordée en application de l'article L. 6211-2 ;
 
-9° L'autorisation du préfet délivrée en application de l'article L. 4211-3.
+9° L'autorisation du directeur général de l'agence régionale de santé délivrée
+en application de l'article L. 4211-3.
 
 Les services de biologie médicale des établissements publics de santé sont
 dispensés, pour le seul usage professionnel, de l'autorisation prévue à

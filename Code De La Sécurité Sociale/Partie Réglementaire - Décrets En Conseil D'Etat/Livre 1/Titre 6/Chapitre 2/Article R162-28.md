@@ -8,6 +8,6 @@ budget, après avis du comité national des contrats d'établissements privés v
 à l'article R. 162-39.
 
 Le classement de chaque établissement ou service d'hospitalisation privé est
-effectué par le directeur de l'agence régionale de l'hospitalisation après avis
-du comité régional des contrats d'établissements privés mentionné à l'article R.
+effectué par le directeur général de l'agence régionale de santé après avis du
+comité régional des contrats d'établissements privés mentionné à l'article R.
 162-40.

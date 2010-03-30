@@ -34,7 +34,7 @@ proposition du directeur général de l'Institut de veille sanitaire ;
 f) Deux personnes exerçant les fonctions de correspondant local du dispositif de
 vigilance relatif à l'assistance médicale à la procréation ;
 
-g) Un médecin ou un pharmacien inspecteur de santé publique ;
+g) Un médecin ou un pharmacien en fonction dans une agence régionale de santé ;
 
 h) Une personne représentant les associations d'usagers du système de santé
 ayant fait l'objet d'un agrément au niveau national en application de l'article

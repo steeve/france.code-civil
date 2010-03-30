@@ -1,6 +1,6 @@
 Article R1112-81
 ----
-I. - La commission est composée comme suit :
+I.-La commission est composée comme suit :
 
 1° Le représentant légal de l'établissement ou la personne qu'il désigne à cet
 effet, président ;
@@ -9,13 +9,13 @@ effet, président ;
 l'établissement dans les conditions prévues à l'article R. 1112-82 ;
 
 3° Deux représentants des usagers et leurs suppléants, désignés par le directeur
-de l'agence régionale de l'hospitalisation dans les conditions prévues à
-l'article R. 1112-83.
+général de l'agence régionale de santé dans les conditions prévues à l'article
+R. 1112-83.
 
 Le règlement intérieur de l'établissement peut compléter la composition de la
 commission dans les conditions prévues aux II à VI ci-dessous.
 
-II. - Dans les établissements publics de santé, autres que l'Assistance
+II.-Dans les établissements publics de santé, autres que l'Assistance
 publique-hopitaux de Paris, la commission peut en outre comporter un ou
 plusieurs des membres suivants :
 
@@ -30,13 +30,13 @@ b de l'article R. 714-62-2 ;
 3° Un représentant du personnel et son suppléant, choisis par les membres du
 comité technique d'établissement en son sein ;
 
-4° Un représentant du conseil d'administration et son suppléant, choisis par et
+4° Un représentant du conseil de surveillance et son suppléant, choisis par et
 parmi les représentants des collectivités locales et les personnalités
 qualifiées.
 
-III. - Dans chaque hôpital ou groupe hospitalier de l'Assistance
-publique-hôpitaux de Paris, la commission peut en outre comporter un ou
-plusieurs des membres suivants :
+III.-Dans chaque hôpital ou groupe hospitalier de l'Assistance publique-hôpitaux
+de Paris, la commission peut en outre comporter un ou plusieurs des membres
+suivants :
 
 1° Le président du comité consultatif médical ou le représentant qu'il désigne
 parmi les médecins membres de ce comité ;
@@ -52,7 +52,7 @@ comité technique local d'établissement en son sein ;
 par et parmi les représentants des collectivités locales et les personnalités
 qualifiées.
 
-IV. - Dans les établissements de santé privés, la commission peut en outre
+IV.-Dans les établissements de santé privés, la commission peut en outre
 comporter un ou plusieurs des membres suivants :
 
 1° Le président de la commission médicale ou de la conférence médicale ou le
@@ -62,11 +62,11 @@ cette conférence ;
 2° Un représentant du personnel infirmier ou aide-soignant et son suppléant,
 désignés par le représentant légal de l'établissement ;
 
-3° Un représentant du conseil d'administration ou de l'organe collégial qui en
+3° Un représentant du conseil de surveillance ou de l'organe collégial qui en
 tient lieu et son suppléant, choisis par et parmi les membres qui n'y
 représentent pas les professionnels ou les usagers.
 
-V. - Dans les syndicats interhospitaliers autorisés à assurer les missions d'un
+V.-Dans les syndicats interhospitaliers autorisés à assurer les missions d'un
 établissement de santé, la commission peut en outre comporter un ou plusieurs
 des membres suivants :
 
@@ -79,10 +79,10 @@ désignés par le représentant légal de l'établissement ;
 3° Un représentant du personnel et son suppléant, choisis par les membres du
 comité technique d'établissement en son sein ;
 
-4° Un représentant du conseil d'administration et son suppléant, choisis par et
+4° Un représentant du conseil de surveillance et son suppléant, choisis par et
 parmi les représentants des établissements membres.
 
-VI. - Dans les groupements de coopération sanitaire autorisés à assurer les
+VI.-Dans les groupements de coopération sanitaire autorisés à assurer les
 missions d'un établissement de santé, la commission peut en outre comporter un
 ou plusieurs des membres suivants :
 

@@ -22,5 +22,5 @@ e) Les titres VI et VII ;
 (deuxième partie : Décrets en Conseil d'Etat).
 
 Pour l'application de ces dispositions, les caisses de mutualité sociale
-agricole sont substituées aux caisses primaires et régionales d'assurance
-maladie.
+agricole sont substituées aux caisses primaires d'assurance maladie et caisse
+d'assurance retraite et de la santé au travail.

@@ -3,8 +3,7 @@ Article R3221-12
 Les biens meubles et immeubles affectés aux services publics de lutte contre les
 maladies mentales et nécessaires à leurs activités sont, dans le cas où ils
 appartiennent à l'Etat ou aux départements, mis à titre gratuit à la disposition
-des établissements assurant le service public hospitalier désignés par le
-directeur de l'agence régionale de l'hospitalisation.
+des établissements mentionnés à l'article L. 3221-4.
 
 Ces établissements assument l'ensemble des obligations du propriétaire, et
 notamment celle d'entretien des lieux. Ils possèdent tous pouvoirs de gestion,

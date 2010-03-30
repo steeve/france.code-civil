@@ -8,6 +8,6 @@ l'Agence française de sécurité sanitaire des produits de santé, par arrêté
 ministre chargé de la santé.
 
 Tout vol ou détournement est signalé sans délai aux autorités de police, à
-l'inspection régionale de la pharmacie et à l'Agence française de sécurité
-sanitaire des produits de santé. Les quantités volées ou détournées sont portées
-sur le registre prévu à l'article R. 5132-36.
+l'agence régionale de santé et à l'Agence française de sécurité sanitaire des
+produits de santé. Les quantités volées ou détournées sont portées sur le
+registre prévu à l'article R. 5132-36.

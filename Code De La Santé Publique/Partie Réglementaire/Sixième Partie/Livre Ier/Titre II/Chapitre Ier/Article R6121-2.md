@@ -1,22 +1,15 @@
 Article R6121-2
 ----
-Le projet de schéma d'organisation sanitaire et son projet d'annexe sont
-préparés par le directeur de l'agence régionale de l'hospitalisation.
-
-Ces projets, accompagnés de l'évaluation de l'offre de soins prévue à l'article
-L. 6121-2, sont soumis pour avis, successivement :
+Le projet de schéma d'organisation des soins est préparé par le directeur
+général de l'agence régionale de santé. Il est soumis pour avis, successivement
+:
 
 1° Aux conférences sanitaires ;
 
-2° Au comité régional de l'organisation sanitaire ;
+2° A la commission spécialisée de la conférence régionale de la santé et de
+l'autonomie compétente pour le secteur sanitaire.
 
-3° Au comité régional de l'organisation sociale et médico-sociale.
-
-Toutefois, l'avis des comités régionaux mentionnés au 2° et au 3° ci-dessus peut
-être recueilli, en application de l'article L. 6121-9, lors d'une réunion en
-formation conjointe, siégeant dans les conditions prévues à l'article R.
-6122-22.
-
-Lorsqu'il s'agit d'un projet de schéma interrégional d'organisation sanitaire,
-seuls sont requis les avis des comités régionaux de l'organisation sanitaire
-compétents.
+Lorsqu'il s'agit d'un projet de schéma interrégional d'organisation des soins,
+seul est requis l'avis de la commission spécialisée de la conférence régionale
+de la santé et de l'autonomie compétente pour le secteur sanitaire de chacune
+des régions.

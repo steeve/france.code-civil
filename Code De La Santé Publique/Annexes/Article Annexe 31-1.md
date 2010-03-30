@@ -1,1756 +1,3035 @@
 Article Annexe 31-1
 ----
-RÈGLEMENT SANITAIRE INTERNATIONAL MENTIONNÉ À L'ARTICLE R. 3115-8
+Règlement sanitaire international mentionné à l'article D. 3115-8 adopté par la
+cinquante-huitième assemblée mondiale de la santé le 23 mai 2005
 
-RÈGLEMENT SANITAIRE INTERNATIONAL (1969) ADOPTÉ PAR LA VINGT-DEUXIÈME ASSEMBLÉE
-MONDIALE DE LA SANTÉ EN 1969 ET MODIFIÉ PAR LA VINGT-SIXIÈME ASSEMBLÉE MONDIALE
-DE LA SANTÉ EN 1973 ET PAR LA TRENTE-QUATRIÈME ASSEMBLÉE MONDIALE DE LA SANTÉ EN
-1981 (ENSEMBLE 4 APPENDICES ET 4 ANNEXES)
+Règlement sanitaire international (2005)
 
-TITRE Ier : DÉFINITIONS
+TITRE Ier : DÉFINITIONS, OBJET ET PORTÉE, PRINCIPES ET AUTORITÉS RESPONSABLES
 
 
 Article 1er
 
-Pour l'application du présent Règlement :
+Définitions
 
-Administration sanitaire désigne l'autorité gouvernementale ayant compétence sur
-l'ensemble de l'un des territoires auxquels s'applique le présent Règlement pour
-y assurer l'exécution des mesures sanitaires qu'il prévoit ;
+1. Aux fins du Règlement sanitaire international (ci-après dénommé le RSI ou le
+Règlement ) :
 
-Aéronef désigne un aéronef effectuant un voyage international ;
+aéronef s'entend d'un aéronef effectuant un voyage international ;
 
-Aéroport signifie tout aéroport que l'Etat Membre dans le territoire duquel il
-est situé a désigné comme aéroport d'entrée et de sortie destiné au trafic
-aérien international et où s'accomplissent les formalités de douane, de contrôle
-des personnes, de santé publique (1), de contrôle vétérinaire et phytosanitaire
-et autres formalités analogues ;
+aéroport s'entend d'un aéroport d'arrivée et de départ de vols internationaux ;
 
-Arrivée d'un navire, d'un aéronef, d'un train ou d'un véhicule routier signifie
-:
+affectés s'entend de personnes, bagages, cargaisons, conteneurs, moyens de
+transport, marchandises, colis postaux ou restes humains qui sont infectés ou
+contaminés, ou qui véhiculent des sources d'infection ou de contamination, et
+constituent de ce fait un risque pour la santé publique ;
 
-a) Dans le cas d'un navire de mer, l'arrivée dans un port ;
+arrivée d'un moyen de transport s'entend :
 
-b) Dans le cas d'un aéronef, l'arrivée dans un aéroport ;
+a) Dans le cas d'un navire de mer, de l'arrivée ou du mouillage dans la zone
+définie d'un port ;
 
-c) Dans le cas d'un navire affecté à la navigation intérieure, l'arrivée soit
-dans un port, soit à un poste frontière, selon les conditions géographiques et
-selon les conventions ou arrangements conclus entre Etats intéressés,
-conformément à l'article 85 ou selon les lois et règlements en vigueur dans le
-territoire d'arrivée ;
+b) Dans le cas d'un aéronef, de l'arrivée dans un aéroport ;
 
-d) Dans le cas d'un train ou d'un véhicule routier, l'arrivée à un poste
-frontière ;
+c) Dans le cas d'un bateau de navigation intérieure effectuant un voyage
+international, de l'arrivée à un point d'entrée ;
 
-Autorité sanitaire désigne l'autorité directement responsable, sur le territoire
-de son ressort, de l'application des mesures sanitaires appropriées que le
-présent Règlement permet ou prescrit ;
+d) Dans le cas d'un train ou d'un véhicule routier, de l'arrivée à un point
+d'entrée ;
 
-Bagages désigne les effets personnels d'un voyageur ou d'un membre de l'équipage
-;
+autorité compétente s'entend d'une autorité responsable de la mise en œuvre et
+de l'application de mesures sanitaires prises en vertu du présent Règlement ;
 
-Cas importé désigne une personne infectée arrivant au cours d'un voyage
-international ;
+bagages s'entend des effets personnels d'un voyageur ;
 
-Cas transféré désigne une personne infectée qui a contracté l'infection dans une
-zone relevant de la même administration sanitaire ;
+cargaison s'entend des marchandises transportées dans un moyen de transport ou
+dans un conteneur ;
 
-Certificat valable, lorsque ce terme s'applique à la vaccination, désigne un
-certificat conforme aux règles énoncées et aux modèles donnés à l'Appendice 2 ;
+colis postal s'entend d'un article ou paquet muni d'une adresse et transporté
+par des services postaux ou de messagerie internationaux ;
 
-Conteneur (2) s'entend d'un engin de transport :
+contamination s'entend de la présence d'un agent ou d'une matière infectieux ou
+toxiques sur la surface du corps d'une personne ou d'un animal, dans ou sur un
+produit destiné à la consommation ou sur d'autres objets inanimés, y compris des
+moyens de transport, pouvant constituer un risque pour la santé publique ;
 
-a) Ayant un caractère permanent et étant, de ce fait, suffisamment résistant
-pour permettre son usage répété ;
+conteneur s'entend d'un engin de transport :
+
+a) Ayant un caractère pérenne et étant, de ce fait, suffisamment résistant pour
+permettre son usage répété ;
 
 b) Spécialement conçu pour faciliter le transport de marchandises, sans rupture
-de charge, par un ou plusieurs moyens de transport ;
+de charge, par un ou plusieurs modes de transport ;
 
-c) Muni de dispositifs qui le rendent facile à manipuler, notamment lors de son
-transbordement d'un moyen de transport à un autre ;
+c) Muni de dispositifs qui en facilitent la manutention, notamment lors de son
+transbordement d'un moyen de transport à un autre ; et
 
-d) Conçu de façon à être facile à remplir et à vider.
+d) Spécialement conçu de façon à être facile à remplir et à vider ;
 
-Le terme conteneur ne comprend ni les emballages usuels, ni les véhicules ;
+décontamination s'entend d'une procédure qui consiste à prendre des mesures
+sanitaires pour éliminer un agent ou une matière infectieux ou toxiques sur la
+surface du corps d'une personne ou d'un animal, dans ou sur un produit destiné à
+la consommation ou sur d'autres objets inanimés, y compris des moyens de
+transport, pouvant constituer un risque pour la santé publique ;
 
-Désinsectisation désigne l'opération destinée à tuer les insectes vecteurs de
-maladies humaines présents dans les navires, aéronefs, trains, véhicules
-routiers, autres moyens de transport ou conteneurs ;
+départ s'entend, pour une personne, un bagage, une cargaison, un moyen de
+transport ou une marchandise, de l'acte de quitter un territoire ;
 
-Diffuseur d'aérosol désigne un diffuseur contenant une préparation sous pression
-qui produit un aérosol d'insecticide lorsque la valve est ouverte ;
+dératisation s'entend de la procédure qui consiste à prendre des mesures
+sanitaires pour maîtriser ou éliminer les rongeurs vecteurs de maladies humaines
+présents dans les bagages, cargaisons, conteneurs, moyens de transport,
+services, marchandises et colis postaux au point d'entrée ;
 
-Directeur général désigne le Directeur général de l'Organisation ;
+désinfection s'entend de la procédure qui consiste à prendre des mesures
+sanitaires pour maîtriser ou éliminer des agents infectieux présents sur la
+surface du corps d'une personne ou d'un animal ou dans ou sur des bagages,
+cargaisons, conteneurs, moyens de transport, marchandises et colis postaux par
+exposition directe à des agents chimiques ou physiques ;
 
-Epidémie désigne l'extension d'une maladie soumise au Règlement par
-multiplication des cas dans une zone ;
+désinsectisation s'entend de la procédure qui consiste à prendre des mesures
+sanitaires pour maîtriser ou éliminer les insectes vecteurs de maladies humaines
+présents dans les bagages, cargaisons, conteneurs, moyens de transport,
+marchandises et colis postaux ;
 
-Equipage désigne le personnel en service sur un navire, aéronef, train, véhicule
-routier ou autre moyen de transport ;
+directeur général s'entend du directeur général de l'Organisation mondiale de la
+santé ;
 
-Indice d'Aedes aegypti (3) désigne le rapport, exprimé en pourcentage, entre,
-d'une part, le nombre de maisons dans une zone limitée, bien définie, où ont
-effectivement été trouvés des gites larvaires d'Aedes aegypti, que ce soit dans
-les locaux mêmes ou sur les terrains attenants à ceux-ci et en dépendant, et,
-d'autre part, le nombre total de maisons examinées dans cette zone ;
+données à caractère personnel s'entend de toute information relative à une
+personne physique identifiée ou identifiable ;
 
-Isolement, lorsque le terme est appliqué à une personne ou à un groupe, désigne
-la séparation de cette personne ou de ce groupe de toutes autres personnes, à
-l'exception du personnel sanitaire de service, de façon à éviter la propagation
-de l'infection ;
+éléments de preuve scientifiques s'entend des informations fournissant un
+élément de preuve sur la base de méthodes scientifiques établies et acceptées ;
 
-Jour désigne un intervalle de vingt-quatre heures ;
+équipage s'entend des personnes se trouvant à bord d'un moyen de transport
+hormis les passagers ;
 
-Libre pratique signifie, pour un navire, l'autorisation d'entrer dans un port et
-d'y procéder au débarquement et à toutes autres opérations, pour un aéronef,
-l'autorisation, après atterrissage, de procéder au débarquement et à toutes
-autres opérations ;
+événement s'entend d'une manifestation pathologique ou d'un fait créant un
+risque de maladie ;
 
-Maladies soumises au Règlement (maladies quarantenaires) désigne le choléra, y
-compris le choléra eltor, la fièvre jaune et la peste ;
+examen médical s'entend de l'examen préliminaire d'une personne pratiqué par un
+agent de santé autorisé ou par une personne intervenant sous la supervision
+directe de l'autorité compétente, afin de déterminer si l'état de santé de cette
+personne présente un risque potentiel pour la santé publique ; il peut
+comprendre la vérification des documents sanitaires et un examen clinique si les
+circonstances le justifient en l'espèce ;
 
-Navire désigne un navire de mer ou un navire affecté à la navigation intérieure,
-qui effectue un voyage international ;
+exploitant d'un moyen de transport s'entend de la personne physique ou morale
+responsable d'un moyen de transport, ou de son représentant ;
 
-Organisation désigne l'Organisation mondiale de la Santé ;
+infection s'entend de la pénétration et du développement ou de la multiplication
+d'un agent infectieux dans l'organisme de personnes ou d'animaux pouvant
+constituer un risque pour la santé publique ;
 
-Personne infectée désigne une personne atteinte d'une maladie soumise au
-Règlement ou se révélant ultérieurement avoir été en période d'incubation d'une
-telle maladie ;
+inspection s'entend de l'examen, par l'autorité compétente ou sous sa
+supervision, des zones, bagages, conteneurs, moyens de transport, installations,
+marchandises ou colis postaux, ainsi que des informations et documents
+pertinents, afin de déterminer s'il existe un risque pour la santé publique ;
 
-Port désigne un port de mer ou un port intérieur ;
+intrusif s'entend de la gêne provoquée par un contact rapproché ou intime ou un
+interrogatoire serré ;
 
-Quarantaine (en) désigne l'état ou la situation d'un navire, aéronef, train,
-véhicule routier, autre moyen de transport ou conteneur, pendant la période où
-une autorité sanitaire lui applique des mesures visant à prévenir la
-dissémination de maladies, de réservoirs de maladies ou de vecteurs de maladies
+invasif s'entend de l'effraction ou de l'incision cutanée ou de l'introduction
+d'un instrument ou d'un corps étranger dans l'organisme ou l'examen d'une
+cavité. Aux fins de présent Règlement, l'examen médical de l'oreille, du nez ou
+de la bouche, la prise de la température au moyen d'un thermomètre auriculaire,
+buccal ou à contact cutané, ou au moyen de dispositifs d'imagerie thermique,
+l'inspection, l'auscultation, la palpation externe, la rétinoscopie, le recueil
+externe d'échantillons d'urine, de selles ou de salive, la mesure externe de la
+pression sanguine et l'électrocardiogramme ne sont pas considérés comme ayant un
+caractère invasif ;
+
+isolement s'entend de la mise à l'écart de malades ou personnes contaminées ou
+de bagages, conteneurs, moyens de transport, marchandises ou colis postaux
+affectés de façon à prévenir la propagation de l'infection ou de la
+contamination ;
+
+libre pratique s'entend, pour un navire, de l'autorisation d'entrer dans un
+port, d'y procéder à l'embarquement ou au débarquement, au déchargement ou au
+chargement de cargaisons ou de provisions ; pour un aéronef, de l'autorisation,
+après atterrissage, de procéder à l'embarquement ou au débarquement, au
+déchargement ou au chargement de cargaisons ou de provisions ; et, pour un moyen
+de transport terrestre, de l'autorisation, à l'arrivée, de procéder à
+l'embarquement ou au débarquement, au déchargement ou au chargement de
+cargaisons ou de provisions ;
+
+malade s'entend d'une personne souffrant ou atteinte d'un trouble physique
+susceptible de constituer un risque pour la santé publique ;
+
+maladie s'entend d'une pathologie humaine ou d'une affection, quelle qu'en soit
+l'origine ou la source, ayant ou susceptible d'avoir des effets nocifs
+importants pour l'être humain ;
+
+marchandises s'entend de produits tangibles, y compris des animaux et des
+végétaux, transportés lors d'un voyage international, notamment pour être
+utilisés à bord d'un moyen de transport ;
+
+mesure sanitaire s'entend des moyens utilisés pour prévenir la propagation des
+maladies ou la contamination ; une mesure sanitaire ne comprend pas des mesures
+d'application de la loi ni de sécurité ;
+
+moyen de transport s'entend d'un aéronef, d'un navire, d'un train, d'un véhicule
+routier ou de tout autre moyen de transport utilisé pour un voyage international
 ;
 
-Suspect désigne une personne que l'autorité sanitaire considère comme ayant été
-exposée au danger d'infection par une maladie soumise au Règlement et qu'elle
-juge susceptible de propager cette maladie ;
+navire s'entend d'un navire de mer ou d'un bateau de navigation intérieure qui
+effectue un voyage international ;
 
-Visite médicale (4) comprend la visite et l'inspection du navire, aéronef,
-train, véhicule routier, autre moyen de transport ou conteneur, et l'examen
-préliminaire des personnes, ainsi que la vérification de validité des
-certificats de vaccination, mais ne comprend pas l'inspection périodique d'un
-navire pour déterminer s'il y a lieu de le dératiser ;
+observation à des fins de santé publique s'entend de la surveillance de l'état
+de santé d'un voyageur dans le temps afin de déterminer le risque de
+transmission d'une maladie ;
 
-Vol (en cours de) désigne le laps de temps s'écoulant entre la fermeture des
-portes avant le décollage et leur ouverture à l'arrivée ;
+Organisation ou OMS s'entend de l'Organisation mondiale de la santé ;
 
-Voyage international signifie :
+point de contact RSI à l'OMS s'entend du service qui, à l'OMS, doit être à tout
+moment à même de communiquer avec le point focal national RSI ;
 
-a) Dans le cas d'un navire ou d'un aéronef, un voyage entre des ports ou
-aéroports situés dans les territoires de plus d'un Etat, ou un voyage entre des
-ports ou aéroports situés dans le ou les territoires d'un même Etat, si ledit
-navire ou aéronef entre en relations avec le territoire de tout autre Etat au
-cours de son voyage, mais seulement en ce qui concerne ces relations ;
+point d'entrée s'entend d'un point de passage pour l'entrée ou la sortie
+internationales des voyageurs, bagages, cargaisons, conteneurs, moyens de
+transport, marchandises et colis postaux ainsi que des organismes et secteurs
+leur apportant des services à l'entrée ou à la sortie ;
 
-b) Dans le cas d'une personne, un voyage comportant l'entrée sur le territoire
-d'un Etat, autre que le territoire de l'Etat où ce voyage commence :
+point focal national RSI s'entend du centre national, désigné par chaque Etat
+Partie, qui doit être à tout moment à même de communiquer avec les points de
+contact RSI à l'OMS aux fins du présent Règlement ;
 
-Zone de transit direct (5) désigne une zone spéciale, établie dans l'enceinte
-d'un aéroport ou rattachée à celui-ci et ce avec l'approbation de l'autorité
-sanitaire intéressée et sous son contrôle immédiat ; destinée à faciliter le
-trafic en transit direct, elle permet notamment d'assurer la ségrégation,
-pendant les arrêts, des voyageurs et des équipages sans qu'ils aient à sortir de
-l'aéroport ;
+port s'entend d'un port de mer ou d'un port intérieur où arrivent ou d'où
+partent les navires effectuant un voyage international ;
 
-Zone infectée (6) s'entend d'une zone définie sur la base de principes
-épidémiologiques par l'administration sanitaire qui signale l'existence de la
-maladie dans son pays et ne correspondant pas nécessairement à des limites
-administratives. C'est une partie de son territoire qui, en raison des
-caractéristiques de la population (densité, mobilité) et du potentiel des
-vecteurs et des réservoirs animaux, pourrait se prêter à la transmission de la
-maladie signalée.
+poste-frontière s'entend d'un point d'entrée terrestre dans un Etat Partie, y
+compris un point utilisé par les véhicules routiers et les trains ;
 
-TITRE II : NOTIFICATIONS ET RENSEIGNEMENTS EjPIDÉMIOLOGIQUES
+principes scientifiques s'entend des lois fondamentales et des faits acceptés et
+connus grâce aux méthodes scientifiques ;
+
+quarantaine s'entend de la restriction des activités et/ou de la mise à l'écart
+des personnes suspectes qui ne sont pas malades ou des bagages, conteneurs,
+moyens de transport ou marchandises suspects, de façon à prévenir la propagation
+éventuelle de l'infection ou de la contamination ;
+
+recommandation et recommandé renvoient aux recommandations temporaires ou
+permanentes émises en vertu du présent Règlement ;
+
+recommandation permanente s'entend de l'avis non contraignant émis par l'OMS en
+vertu de l'article 16 concernant l'application systématique ou périodique de
+mesures sanitaires appropriées face à certains risques persistants pour la santé
+publique, afin de prévenir ou de réduire la propagation internationale des
+maladies en créant le minimum d'entraves au trafic international ;
+
+recommandation temporaire s'entend de l'avis non contraignant émis par l'OMS en
+vertu de l'article 15 aux fins d'une application limitée dans le temps et en
+fonction du risque, pour faire face à une urgence de santé publique de portée
+internationale, de manière à prévenir ou à réduire la propagation internationale
+des maladies en créant le minimum d'entraves au trafic international ;
+
+réservoir s'entend d'un animal, d'une plante ou d'une substance qui héberge
+normalement un agent infectieux et dont la présence peut constituer un risque
+pour la santé publique ;
+
+résidence permanente s'entend dans le sens déterminé par le droit interne de
+l'Etat Partie concerné ;
+
+résidence provisoire s'entend dans le sens déterminé par le droit interne de
+l'Etat Partie concerné ;
+
+risque pour la santé publique s'entend de la probabilité d'un événement qui peut
+nuire à la santé des populations humaines, plus particulièrement d'un événement
+pouvant se propager au niveau international ou présenter un danger grave et
+direct ;
+
+surveillance s'entend de la collecte, de la compilation et de l'analyse
+systématiques et continues de données à des fins de santé publique et de la
+diffusion d'informations de santé publique en temps voulu à des fins
+d'évaluation et aux fins d'une action de santé publique, selon les besoins ;
+
+suspects s'entend des personnes, bagages, cargaisons, conteneurs, moyens de
+transport, marchandises ou colis postaux qu'un Etat Partie considère comme ayant
+été exposés ou ayant pu être exposés à un risque pour la santé publique et
+susceptibles de constituer une source de propagation de maladies ;
+
+trafic international s'entend du mouvement des personnes, bagages, cargaisons,
+conteneurs, moyens de transport, marchandises ou colis postaux qui traversent
+une frontière internationale, y compris des échanges commerciaux internationaux
+;
+
+urgence de santé publique de portée internationale s'entend d'un événement
+extraordinaire dont il est déterminé, comme prévu dans le présent Règlement :
+
+i) Qu'il constitue un risque pour la santé publique dans d'autres Etats en
+raison du risque de propagation internationale de maladies ; et
+
+ii) Qu'il peut requérir une action internationale coordonnée ;
+
+vecteur s'entend d'un insecte ou de tout animal qui véhicule normalement un
+agent infectieux constituant un risque pour la santé publique ;
+
+véhicule de transport terrestre s'entend d'un moyen de transport motorisé
+destiné au transport terrestre lors d'un voyage international, ce qui comprend
+les trains, les autocars, les camions et les automobiles ;
+
+véhicule routier s'entend d'un véhicule de transport terrestre autre qu'un train
+;
+
+vérification s'entend de la fourniture à l'OMS par un Etat Partie d'informations
+confirmant un événement sur le ou les territoires de cet Etat Partie ;
+
+voyage international s'entend :
+
+a) Dans le cas d'un moyen de transport, d'un voyage entre des points d'entrée
+situés sur les territoires de plus d'un Etat, ou d'un voyage entre des points
+d'entrée situés sur le ou les territoires d'un même Etat si, pendant son voyage,
+le moyen de transport est en contact avec le territoire de tout autre Etat, mais
+uniquement pour ces contacts ;
+
+b) Dans le cas d'un voyageur, d'un voyage comportant l'entrée sur le territoire
+d'un Etat autre que le territoire de l'Etat d'où part le voyageur ;
+
+voyageur s'entend d'une personne physique qui effectue un voyage international ;
+
+zone affectée s'entend d'un lieu géographique spécifique pour lequel des mesures
+sanitaires ont été recommandées par l'OMS en vertu du présent Règlement ;
+
+zone de chargement des conteneurs s'entend d'un lieu ou d'une installation
+réservés aux conteneurs utilisés dans le trafic international.
+
+2. Sauf dispositions contraires ou à moins que le contexte ne s'y oppose, toute
+référence au présent Règlement renvoie également aux annexes y relatives.
 
 
 Article 2
 
-Pour l'application du présent Règlement, tout Etat reconnaît à l'Organisation le
-droit de communiquer directement avec l'administration sanitaire de son et de
-ses territoires. Toute notification et tout renseignement envoyés par
-l'Organisation à l'administration sanitaire sont considérés comme ayant été
-envoyés à l'Etat dont elle relève, et toute notification et tout renseignement
-envoyés à l'Organisation par l'administration sanitaire sont considérés comme
-ayant été envoyés par l'Etat dont elle relève.
+Objet et portée
 
-Article 3 (7)
+L'objet et la portée du présent Règlement consistent à prévenir la propagation
+internationale des maladies, à s'en protéger, à la maîtriser et à y réagir par
+une action de santé publique proportionnée et limitée aux risques qu'elle
+présente pour la santé publique, en évitant de créer des entraves inutiles au
+trafic et au commerce internationaux.
 
-1. Les administrations sanitaires adressent une notification à l'Organisation
-par télégramme ou par télex et au plus tard dans les vingt-quatre heures, dès
-qu'elles sont informées qu'un premier cas d'une maladie soumise au Règlement,
-qui n'est ni un cas importé ni un cas transféré, a été signalé dans une zone de
-leur ressort. Dans les vingt-quatre heures qui suivent, elles adressent
-notification de la zone infectée.
 
-2. En outre, les administrations sanitaires adressent une notification à
-l'Organisation, par télégramme ou par télex et au plus tard dans les
-vingt-quatre heures, dès qu'elles sont informées :
+Article 3
 
-a) Qu'un cas, ou plusieurs, d'une maladie soumise au Règlement a été importé ou
-transféré dans une zone non infectée : la notification donnera tous les
-renseignements disponibles sur l'origine de l'infection ;
+Principes
 
-b) Qu'un navire ou un aéronef est arrivé avec, à son bord, un cas, ou plusieurs,
-d'une maladie soumise au Règlement : la notification indiquera le nom du navire
-ou le numéro de vol de l'aéronef, ses escales précédentes et suivantes, et
-précisera les mesures qui auront éventuellement été prises à l'égard du navire
-ou de l'aéronef.
+1. Le présent Règlement est mis en œuvre en respectant pleinement la dignité des
+personnes, les droits de l'homme et les libertés fondamentales.
 
-3. L'existence de la maladie ainsi notifiée sur la base d'un diagnostic clinique
-raisonnablement valable est confirmée aussitôt que possible par les examens de
-laboratoire réalisables, et les résultats adressés immédiatement par télégramme
-ou par télex à l'Organisation.
+2. La mise en œuvre du présent Règlement est guidée par la Charte des Nations
+Unies et la Constitution de l'Organisation mondiale de la santé.
 
-Article 4 (8)
+3. La mise en œuvre du présent Règlement est guidée par le souci de son
+application universelle en vue de protéger l'ensemble de la population mondiale
+de la propagation internationale des maladies.
 
-1. Les administrations sanitaires notifient immédiatement à l'Organisation les
-faits établissant la présence du virus amaril, y compris le virus découvert chez
-des moustiques ou chez des vertébrés autres que l'homme, ou celle du bacille de
-la peste dans une partie quelconque de leur territoire et signalent l'étendue de
-la zone en cause.
+4. En application de la Charte des Nations Unies et des principes du droit
+international, les Etats ont le droit souverain de légiférer et de promulguer la
+législation en vue de la mise en œuvre de leurs politiques en matière de santé.
+Ce faisant, ils doivent favoriser les buts du présent Règlement.
 
-2. Lorsqu'elles notifient la présence de peste chez les rongeurs, les
-administrations sanitaires doivent faire la distinction entre la peste des
-rongeurs sauvages et la peste des rongeurs domestiques et, dans le cas de peste
-des rongeurs sauvages, décrire les circonstances épidémiologiques et indiquer la
-zone en cause.
+
+Article 4
+
+Autorités responsables
+
+1. Chaque Etat Partie met en place ou désigne un point focal national RSI ainsi
+que les autorités responsables, dans sa propre juridiction, de la mise en œuvre
+des mesures sanitaires prévues au présent Règlement.
+
+2. Les points focaux nationaux RSI doivent être à tout moment à même de
+communiquer avec les points de contact RSI à l'OMS visés au paragraphe 3 du
+présent article. Les points focaux nationaux RSI auront notamment pour fonctions
+:
+
+a) D'adresser aux points de contact RSI à l'OMS, au nom de l'Etat Partie
+concerné, les communications urgentes relatives à l'application du présent
+Règlement, notamment celles visées par les articles 6 à 12 ; et
+
+b) De diffuser des informations auprès des secteurs compétents de
+l'administration de l'Etat Partie concerné, et notamment les secteurs
+responsables de la surveillance et de la déclaration, des points d'entrée, des
+services de santé publique, des dispensaires et hôpitaux et d'autres
+départements publics, et de rassembler les informations communiquées par ces
+secteurs.
+
+3. L'OMS désigne des points de contact RSI qui doivent être à tout moment à même
+de communiquer avec les points focaux nationaux RSI. Les points de contact RSI à
+l'OMS adressent des communications urgentes au sujet de l'application du présent
+Règlement, en particulier des dispositions des articles 6 à 12, aux points
+focaux nationaux RSI des Etats Parties concernés. L'OMS peut désigner des points
+de contact RSI au siège de l'Organisation ou au niveau régional.
+
+4. Les Etats Parties communiquent à l'OMS les coordonnées de leurs points focaux
+nationaux RSI et l'OMS communique aux Etats Parties les coordonnées de ses
+points de contact RSI. Ces coordonnées sont actualisées en permanence et
+confirmées annuellement. L'OMS communique à tous les Etats Parties les
+coordonnées des points focaux nationaux RSI qui lui sont communiquées en
+application du présent article.
+
+
+TITRE II
+
+INFORMATION ET ACTION DE SANTÉ PUBLIQUE
 
 
 Article 5
 
-Les notifications prescrites au paragraphe 1 de l'article 3 sont suivies sans
-retard de renseignements complémentaires sur l'origine et la forme de la
-maladie, le nombre des cas et des décès, les conditions afférentes à l'extension
-de la maladie, ainsi que les mesures prophylactiques appliquées.
+Surveillance
+
+1. Chaque Etat Partie acquiert, renforce et maintient, dès que possible mais au
+plus tard dans les cinq ans suivant l'entrée en vigueur du présent Règlement à
+l'égard de cet Etat Partie, la capacité de détecter, d'évaluer, de notifier et
+de déclarer des événements en application du présent Règlement, comme indiqué à
+l'annexe 1.
+
+2. A la suite de l'évaluation visée au paragraphe 2 de l'annexe 1, un Etat
+Partie peut rendre compte à l'OMS en invoquant un besoin justifié et un plan
+d'action et, ce faisant, obtenir un délai supplémentaire de deux ans pour
+remplir l'obligation qui lui incombe aux termes du paragraphe 1 du présent
+article. Dans des circonstances exceptionnelles et en faisant valoir un nouveau
+plan d'action, l'Etat Partie peut demander que le délai soit encore prolongé de
+deux ans au maximum au Directeur général, qui se prononce en tenant compte de
+l'avis technique du Comité établi en vertu de l'article 50 (ci-après le Comité
+d'examen ). Après la période prévue au paragraphe 1 du présent article, l'Etat
+Partie qui a obtenu un délai supplémentaire rend compte tous les ans à l'OMS des
+progrès accomplis dans la mise en œuvre complète.
+
+3. L'OMS aide les Etats Parties, à leur demande, à acquérir, renforcer et
+maintenir les capacités visées au paragraphe 1 du présent article.
+
+4. L'OMS recueille des informations sur les événements dans le cadre de ses
+activités de surveillance, et elle évalue le risque de propagation
+internationale de maladies qu'ils comportent et les entraves au trafic
+international qu'ils peuvent créer. Les informations reçues par l'OMS en vertu
+du présent paragraphe sont traitées conformément aux dispositions des articles
+11 et 45 le cas échéant.
 
 
 Article 6
 
-1. En cours d'épidémie, les notifications et les renseignements visés aux
-articles 3 et 5 sont complétés par des communications adressées d'une façon
-régulière à l'Organisation.
+Notification
 
-2. Ces communications sont aussi fréquentes et détaillées que possible. Le
-nombre des cas et des décès est transmis au moins une fois par semaine. Il y a
-lieu d'indiquer les précautions prises pour combattre l'extension de la maladie,
-en particulier les mesures adoptées pour éviter qu'elle se propage à d'autres
-territoires par des navires, aéronefs, trains, véhicules routiers, autres moyens
-de transport ou conteneurs quittant la zone infectée. En cas de peste, les
-mesures prises contre les rongeurs sont spécifiées. S'il s'agit de maladies
-soumises au Règlement, transmises par des insectes vecteurs, les mesures prises
-contre ceux-ci sont également spécifiées.
+1. Chaque Etat Partie évalue les événements qui surviennent sur son territoire
+au moyen de l'instrument de décision présenté à l'annexe 2. Chaque Etat Partie
+notifie à l'OMS, par les moyens de communication les plus efficaces dont il
+dispose, par l'intermédiaire du point focal national RSI et dans les
+vingt-quatre heures suivant l'évaluation des informations de santé publique,
+tout événement survenu sur son territoire pouvant constituer une urgence de
+santé publique de portée internationale au regard de l'instrument de décision
+ainsi que toute mesure sanitaire prise pour faire face à ces événements. Si la
+notification reçue par l'OMS touche à la compétence de l'Agence internationale
+de l'énergie atomique (AIEA), l'OMS en informe immédiatement l'AIEA.
 
-Article 7 (9)
+2. Après une notification, l'Etat Partie continue de communiquer en temps voulu
+à l'OMS les informations de santé publique exactes et suffisamment détaillées
+dont il dispose, si possible y compris la définition des cas, les résultats de
+laboratoire, la source et le type de risque, le nombre des cas et des décès, les
+facteurs influant sur la propagation de la maladie et les mesures sanitaires
+utilisées ; et indique, si nécessaire, les difficultés rencontrées et l'aide
+dont il a besoin pour faire face à l'éventuelle urgence de santé publique de
+portée internationale.
 
-1. L'administration sanitaire d'un territoire dans lequel une zone infectée a
-été délimitée et notifiée avise l'Organisation dès que la zone redevient
-indemne.
 
-2. Une zone infectée peut être considérée comme redevenue indemne quand toutes
-les mesures de prophylaxie ont été prises et maintenues pour prévenir la
-réapparition de la maladie ou son extension possible à d'autres zones, et quand
-:
+Article 7
 
-a) En cas de peste ou de choléra, il s'est écoulé, après le décès, la guérison
-ou l'isolement du dernier cas constaté, un laps de temps au moins égal au double
-de la période d'incubation telle que déterminée dans le présent Règlement, et
-que n'existent pas de signes épidémiologiques d'extension de la maladie à une
-zone contiguë ;
+Communication d'informations
 
-b) i) En cas de fièvre jaune transmise par un vecteur autre que Aedes aegypti,
-trois mois se sont écoulés sans signe d'activité du virus de la fièvre jaune ;
+en cas d'événements inattendus ou inhabituels
 
-ii) En cas de fièvre jaune transmise par Aedes aegypti, il s'est écoulé trois
-mois depuis le dernier cas chez l'homme, ou un mois depuis le dernier cas si
-l'indice Aedes aegypti a été maintenu constamment au-dessous de 1 % pendant ce
-mois ;
+Si un Etat Partie dispose d'éléments indiquant la survenue d'un événement
+inattendu ou inhabituel sur son territoire, quelle qu'en soit l'origine ou la
+source, qui peut constituer une urgence de santé publique de portée
+internationale, il fournit à l'OMS toutes informations de santé publiques
+pertinentes. Dans ce cas, les dispositions de l'article 6 s'appliquent
+intégralement.
 
-c) i) En cas de peste chez les rongeurs domestiques, il s'est écoulé un mois
-depuis la découverte ou la capture du dernier animal infecté ;
 
-ii) En cas de peste chez les rongeurs sauvages, il s'est écoulé trois mois sans
-que la maladie ait été observée assez près de ports ou d'aéroports pour
-constituer une menace pour le trafic international.
+Article 8
 
-Article 8 (10)
+Consultation
 
-1. Les administrations sanitaires notifient à l'Organisation :
-
-a) Les mesures qu'elles ont décidé d'appliquer aux provenances d'une zone
-infectée ainsi que le retrait de ces mesures, en indiquant la date d'entrée en
-vigueur ou celle du retrait ;
-
-b) Toute modification de leurs exigences relatives aux vaccinations requises
-pour les voyages internationaux.
-
-2. Ces notifications sont faites par télégramme ou par télex et, quand cela est
-possible, avant que prenne effet la modification ou que les mesures entrent en
-vigueur ou soient rapportées.
-
-3. Les administrations sanitaires font parvenir une fois par an à
-l'Organisation, et ce à une date fixée par cette dernière, une liste
-récapitulative de leurs exigences relatives aux vaccinations requises pour les
-voyages internationaux.
-
-4. Les administrations sanitaires prennent des dispositions pour aviser de leurs
-propres exigences ou des modifications de ces exigences les voyageurs éventuels,
-soit en faisant appel à la coopération, selon le cas, d'agences de voyages ou de
-compagnies de navigation maritime ou aérienne, soit en recourant à tout autre
-moyen.
+Dans le cas où se produisent sur son territoire des événements n'exigeant pas la
+notification prévue à l'article 6, en particulier des événements pour lesquels
+il ne dispose pas de suffisamment d'informations pour utiliser l'instrument de
+décision, un Etat Partie peut néanmoins en tenir l'OMS informée par
+l'intermédiaire de son point focal national RSI et consulter l'OMS à propos des
+mesures sanitaires à prendre. Ces communications sont régies par les
+dispositions des paragraphes 2 à 4 de l'article 11. L'Etat Partie sur le
+territoire duquel s'est produit l'événement peut demander à l'OMS de l'aider à
+vérifier les informations épidémiologiques qu'il a pu obtenir.
 
 
 Article 9
 
-En plus des notifications et des renseignements visés aux articles 3 à 8, les
-administrations sanitaires communiquent chaque semaine à l'Organisation :
+Autres rapports
 
-a) Un rapport par télégramme ou par télex sur le nombre de cas de maladies
-soumises au Règlement et de décès dus à ces maladies qui ont été enregistrés au
-cours de la semaine précédente dans chaque ville attenante à un port ou à un
-aéroport, y compris les cas importés ou transférés ;
+1. L'OMS peut tenir compte de rapports émanant de sources autres que les
+notifications ou les consultations et évalue ces rapports conformément aux
+principes épidémiologiques établis ; elle communique ensuite des informations
+sur l'événement en question à l'Etat Partie sur le territoire duquel cet
+événement est censé se produire. Avant de prendre quelque mesure que ce soit sur
+la base de ces rapports, l'OMS consulte l'Etat Partie sur le territoire duquel
+l'événement est censé se produire et s'efforce de vérifier ces informations
+auprès de lui conformément aux procédures de vérification définies à l'article
+10. A cette fin, l'OMS met les informations reçues à la disposition des Etats
+Parties, sachant que, seulement dans les cas où cela est dûment justifié, l'OMS
+peut préserver le caractère confidentiel de la source. Ces informations sont
+utilisées conformément à la procédure prévue à l'article 11.
 
-b) Un rapport par poste aérienne signalant l'absence de cas de ces maladies
-pendant les périodes visées aux lettres a, b et c du paragraphe 2 de l'article
-7.
+2. Les Etats Parties, dans la mesure du possible, informent l'OMS dans les
+vingt-quatre heures suivant la réception de données établissant l'existence, en
+dehors de leur territoire, d'un risque identifié pour la santé publique pouvant
+être à l'origine de la propagation internationale de maladies, attesté par
+l'exportation ou l'importation :
+
+a) De cas humains ;
+
+b) De vecteurs d'infection ou de contamination ; ou
+
+c) De marchandises contaminées.
 
 
 Article 10
 
-Toutes notifications et tous renseignements visés aux articles 3 à 9 sont
-également communiqués, sur demande, par l'administration sanitaire aux missions
-diplomatiques et consulats établis sur le territoire de sa compétence.
+Vérification
 
-Article 11 (11)
+1. L'OMS, en application de l'article 9, demande à l'Etat Partie de vérifier les
+rapports provenant d'autres sources que les notifications ou consultations,
+selon lesquels des événements pouvant constituer une urgence de santé publique
+de portée internationale se produiraient sur son territoire. En pareil cas,
+l'OMS informe l'Etat Partie concerné au sujet des rapports qu'elle cherche à
+vérifier.
 
-1. L'Organisation envoie à toutes les administrations sanitaires, aussitôt que
-possible et par les voies appropriées à chaque cas, tous les renseignements
-épidémiologiques ou autres qu'elle a reçus, en application des articles 3 à 8 et
-du paragraphe a de l'article 9. Elle signale également l'absence des
-renseignements requis par l'article 9. Les communications de nature urgente sont
-envoyées par télégramme, par télex ou par téléphone.
+2. Conformément aux dispositions du paragraphe qui précède et de l'article 9,
+chaque Etat Partie, à la demande de l'OMS, procède aux vérifications voulues et
+:
 
-2. Toutes données épidémiologiques supplémentaires et tous autres renseignements
-dont l'Organisation dispose du fait de son programme de surveillance sont
-communiqués, quand cela se justifie, à toutes les administrations sanitaires.
+a) Fournit dans les vingt-quatre heures une première réponse ou un accusé de
+réception de la demande de l'OMS ;
 
-3. L'Organisation peut, avec le consentement du gouvernement intéressé, enquêter
-sur toute épidémie d'une maladie soumise au Règlement qui fait peser une grave
-menace sur les pays voisins ou sur la santé dans le monde. Les enquêtes ainsi
-entreprises viseront à aider les gouvernements à prendre les mesures de
-protection nécessaires et elles pourront comprendre l'envoi d'une équipe sur
-place.
+b) Fournit dans les vingt-quatre heures les informations de santé publique
+disponibles sur les événements visés dans la demande de l'OMS ; et
+
+c) Communique des informations à l'OMS dans le contexte de l'évaluation
+effectuée au titre de l'article 6, notamment les informations décrites dans cet
+article.
+
+3. Lorsque l'OMS est informée d'un événement pouvant constituer une urgence de
+santé publique de portée internationale, elle propose de collaborer avec l'Etat
+Partie concerné à l'évaluation du risque de propagation internationale de
+maladies, de l'entrave au trafic international qui pourrait être créée et de
+l'adéquation des mesures de lutte. Ces activités peuvent inclure une
+collaboration avec d'autres organisations de normalisation et l'offre de
+mobiliser une assistance internationale afin d'aider les autorités nationales à
+conduire et coordonner les évaluations sur place. A la demande de l'Etat Partie,
+l'OMS communique des informations à l'appui de cette offre.
+
+4. Si l'Etat Partie n'accepte pas l'offre de collaboration, l'OMS peut, lorsque
+cela est justifié par l'ampleur du risque pour la santé publique, communiquer à
+d'autres Etats Parties les informations dont elle dispose, tout en exhortant
+l'Etat Partie à accepter l'offre de collaboration de l'OMS, en tenant compte des
+vues de l'Etat Partie concerné.
+
+
+Article 11
+
+Communication d'informations par l'OMS
+
+1. Sous réserve des dispositions du paragraphe 2 du présent article, l'OMS
+communique à tous les Etats Parties et, selon les besoins, aux organisations
+intergouvernementales compétentes, dès que possible et par les moyens
+disponibles les plus efficaces, de façon confidentielle, les informations de
+santé publique qu'elle a reçues conformément aux articles 5 à 10 et qui sont
+nécessaires pour permettre aux Etats Parties de faire face à un risque pour la
+santé publique. L'OMS devrait communiquer aux autres Etats Parties des
+informations susceptibles de les aider à prévenir la survenue d'incidents
+analogues.
+
+2. L'OMS utilise les informations reçues en application des articles 6 et 8 et
+du paragraphe 2 de l'article 9 aux fins de vérification, d'évaluation et
+d'assistance dans le cadre du présent Règlement et, sauf s'il en est autrement
+convenu avec les Etats Parties visés dans ces dispositions, elle ne communique
+généralement pas ces informations à d'autres Etats Parties avant que :
+
+a) Il soit déterminé que l'événement constitue une urgence de santé publique de
+portée internationale au regard de l'article 12 ; ou
+
+b) Les informations attestant la propagation internationale de l'infection ou de
+la contamination aient été confirmées par l'OMS conformément aux principes
+épidémiologiques établis ; ou
+
+c) Il soit établi que :
+
+i) Les mesures contre la propagation internationale n'ont guère de chances
+d'aboutir en raison de la nature de la contamination, de l'agent pathogène, du
+vecteur ou du réservoir ; ou que
+
+ii) L'Etat Partie n'a pas la capacité opérationnelle suffisante pour mettre en
+œuvre les mesures nécessaires pour prévenir une propagation plus étendue de la
+maladie ; ou
+
+d) La nature et l'étendue du mouvement international des voyageurs, bagages,
+cargaisons, conteneurs, moyens de transport, marchandises ou colis postaux
+pouvant être affectés par l'infection ou la contamination nécessitent la mise en
+œuvre immédiate de mesures internationales de lutte.
+
+3. L'OMS consulte l'Etat Partie sur le territoire duquel l'événement est survenu
+quant à son intention de fournir des informations au titre du présent article.
+
+4. Lorsqu'elle communique aux Etats Parties, conformément au présent Règlement,
+des informations qu'elle a reçues en application du paragraphe 2 du présent
+article, l'OMS peut également rendre ces informations publiques si d'autres
+informations concernant le même événement ont déjà été publiées et si la
+diffusion d'informations fiables et indépendantes s'impose.
 
 
 Article 12
 
-Tout télégramme ou télex émis ou tout appel téléphonique effectué en vertu des
-articles 3 à 8 et de l'article 11 bénéficie de la priorité que commandent les
-circonstances. Les communications émises en cas d'urgence exceptionnelle,
-lorsqu'il y a danger de propagation d'une maladie soumise au Règlement, sont
-faites avec la priorité la plus élevée accordée à ces communications par les
-arrangements internationaux des télécommunications.
+Détermination de l'existence d'une urgence
 
-Article 13 (12)
+de santé publique de portée internationale
 
-1. Tout Etat transmet une fois l'an à l'Organisation, conformément à l'article
-62 de la Constitution de l'Organisation, des renseignements concernant
-l'apparition éventuelle de tout cas d'une maladie soumise au Règlement provoqué
-par le trafic international ou observé dans celui-ci, ainsi que les décisions
-prises en vertu du présent Règlement et celles touchant à son application.
+1. Le Directeur général détermine, sur la base des informations qu'il reçoit, en
+particulier de l'Etat Partie sur le territoire duquel un événement se produit,
+si un événement constitue une urgence de santé publique de portée internationale
+au regard des critères et de la procédure énoncés dans le présent Règlement.
 
-2. L'Organisation, sur la base des renseignements requis par le paragraphe 1 du
-présent article, des notifications et rapports prescrits par le présent
-Règlement et de toute autre information officielle, prépare un rapport annuel
-concernant l'application du présent Règlement et ses effets sur le trafic
-international.
+2. Si le Directeur général considère, sur la base d'une évaluation en vertu du
+présent Règlement, qu'il existe une urgence de santé publique de portée
+internationale, il consulte l'Etat Partie sur le territoire duquel l'événement
+se produit au sujet de cette conclusion préliminaire. Si le Directeur général et
+l'Etat Partie conviennent de cette conclusion, le Directeur général, suivant la
+procédure énoncée à l'article 49, sollicite les vues du Comité créé en
+application de l'article 48 (dénommé ci-après le Comité d'urgence ) concernant
+les recommandations temporaires appropriées.
 
-3. L'Organisation suit l'évolution de la situation épidémiologique des maladies
-soumises au Règlement et publie, au moins une fois par an, des renseignements à
-ce sujet, accompagnés de cartes montrant quelles sont dans le monde entier les
-zones infectées et les zones indemnes, ainsi que tous autres renseignements
-pertinents recueillis dans le cadre de son programme de surveillance.
+3. Si, suite à la consultation prévue au paragraphe 2 ci-dessus, le Directeur
+général et l'Etat Partie sur le territoire duquel l'événement se produit ne
+s'entendent pas dans les quarante-huit heures sur la question de savoir si
+l'événement constitue une urgence de santé publique de portée internationale,
+une décision est prise conformément à la procédure énoncée à l'article 49.
 
-TITRE III : ORGANISATION SANITAIRE
+4. Pour déterminer si un événement constitue une urgence de santé publique de
+portée internationale, le Directeur général tient compte :
 
-Article 14 (13)
+a) Des informations fournies par l'Etat Partie ;
 
-1. Les administrations sanitaires font en sorte que les ports et les aéroports
-de leur territoire soient pourvus d'une organisation et d'un outillage adéquats
-pour permettre l'application des mesures prévues au présent Règlement.
+b) De l'instrument de décision figurant à l'annexe 2 ;
 
-2. Tout port ou aéroport doit disposer d'eau potable et de denrées alimentaires
-saines, de provenances approuvées par l'administration sanitaire, à l'usage et
-pour la consommation du public, soit à terre, soit à bord des navires ou des
-aéronefs. L'eau potable et les denrées alimentaires sont conservées et
-manipulées dans des conditions propres à les protéger de toute contamination.
-L'autorité sanitaire inspecte périodiquement le matériel, les installations et
-les locaux, et prélève des échantillons d'eau et de denrées alimentaires, qui
-sont soumis à des examens de laboratoire afin de vérifier que les dispositions
-du présent article sont respectées. A cette fin, comme pour toute autre mesure
-sanitaire, les principes et recommandations énoncés dans les guides publiés à ce
-sujet par l'Organisation sont appliqués dans toute la mesure du possible en
-respectant les exigences du présent Règlement.
+c) De l'avis du Comité d'urgence ;
 
-3. Tout port ou aéroport doit disposer d'un système efficace pour évacuer et
-rendre inoffensives les matières fécales, les ordures ménagères, les eaux usées,
-ainsi que les denrées alimentaires impropres à la consommation et autres
-matières reconnues dangereuses pour la santé publique.
+d) Des principes scientifiques ainsi que des éléments de preuve scientifiques
+disponibles et autres informations pertinentes ; et
+
+e) D'une évaluation du risque pour la santé humaine, du risque de propagation
+internationale de maladies et du risque d'entraves au trafic international.
+
+5. Si le Directeur général, après consultation de l'Etat Partie sur le
+territoire duquel l'urgence de santé publique de portée internationale est
+survenue, considère que l'urgence de santé publique de portée internationale a
+pris fin, il prend une décision conformément à la procédure énoncée à l'article
+49.
+
+
+Article 13
+
+Action de santé publique
+
+1. Chaque Etat Partie acquiert, renforce et maintient, dès que possible mais au
+plus tard dans les cinq ans suivant l'entrée en vigueur du présent Règlement à
+l'égard de cet Etat Partie, la capacité de réagir rapidement et efficacement en
+cas de risque pour la santé publique et d'urgence de santé publique de portée
+internationale, conformément à l'annexe 1. L'OMS publie, en consultation avec
+les Etats Membres, des principes directeurs pour aider les Etats Parties à
+acquérir les capacités d'action de santé publique.
+
+2. A la suite de l'évaluation visée au paragraphe 2 de la partie A de l'annexe
+1, un Etat Partie peut rendre compte à l'OMS en invoquant un besoin justifié et
+un plan d'action et, ce faisant, obtenir un délai supplémentaire de deux ans
+pour remplir l'obligation qui lui incombe aux termes du paragraphe 1 du présent
+article. Dans des circonstances exceptionnelles et en faisant valoir un nouveau
+plan d'action, l'Etat Partie peut demander que le délai soit encore prolongé de
+deux ans au maximum au Directeur général, qui prend la décision en tenant compte
+de l'avis technique du Comité d'examen. Après la période prévue au paragraphe 1
+du présent article, l'Etat Partie qui a obtenu un délai supplémentaire rend
+compte tous les ans à l'OMS des progrès accomplis dans la mise en œuvre
+complète.
+
+3. A la demande d'un Etat Partie, l'OMS collabore à l'action en cas de risque
+pour la santé publique et d'autres événements en fournissant des conseils et une
+assistance techniques et en évaluant l'efficacité des mesures de lutte mises en
+place, y compris, le cas échéant, en mobilisant des équipes internationales
+d'experts pour prêter assistance sur place.
+
+4. Si l'OMS, en consultation avec les Etats Parties concernés conformément à
+l'article 12, établit qu'il existe une urgence de santé publique de portée
+internationale, elle peut offrir, outre le soutien indiqué au paragraphe 3 du
+présent article, une assistance supplémentaire à l'Etat Partie, et notamment une
+évaluation de la gravité du risque international et de l'adéquation des mesures
+de lutte. Elle peut, au titre de cette collaboration, offrir de mobiliser une
+assistance internationale afin d'aider les autorités nationales à conduire et
+coordonner les évaluations sur place. A la demande de l'Etat Partie, l'OMS
+communique des informations à l'appui de cette offre.
+
+5. A la demande de l'OMS, les Etats Parties soutiennent, dans la mesure du
+possible, l'action coordonnée par l'OMS.
+
+6. A leur demande, l'OMS offre de fournir des conseils et une assistance
+appropriés aux autres Etats Parties affectés ou menacés par l'urgence de santé
+publique de portée internationale.
+
+
+Article 14
+
+Coopération de l'OMS avec des organisations
+
+intergouvernementales et des organismes internationaux
+
+1. L'OMS coopère et, le cas échéant, coordonne ses activités avec d'autres
+organisations intergouvernementales et les organismes internationaux compétents
+pour la mise en œuvre du présent Règlement, notamment par des accords et
+arrangements similaires.
+
+2. Au cas où la notification ou la vérification d'un événement, ou l'action mise
+en œuvre pour y faire face, relève principalement de la compétence d'autres
+organisations intergouvernementales ou organismes internationaux, l'OMS
+coordonne ses activités avec ces organisations ou organismes aux fins de
+l'application de mesures propres à protéger la santé publique.
+
+3. Nonobstant ce qui précède, aucune disposition du présent Règlement n'empêche
+ni ne limite la fourniture par l'OMS de conseils, d'un soutien ou d'une
+assistance technique ou autre à des fins de santé publique.
+
+
+TITRE III
+
+RECOMMANDATIONS
 
 
 Article 15
 
-Le plus grand nombre possible de ports et d'aéroports d'un territoire donné doit
-pouvoir disposer d'un service médical et sanitaire comportant le personnel, le
-matériel et les locaux nécessaires et, en particulier, les moyens pour isoler et
-traiter rapidement les personnes infectées, pour procéder à des désinfections,
-désinsectisations et dératisations, à des examens bactériologiques, à la capture
-et à l'examen des rongeurs pour la recherche de l'infection pesteuse, à des
-prélèvements d'échantillons d'eau et de denrées alimentaires ainsi qu'à leur
-expédition à un laboratoire pour examen, enfin pour appliquer toutes autres
-mesures appropriées prévues au présent Règlement.
+Recommandations temporaires
+
+1. S'il a été établi, conformément à l'article 12, qu'il existe une urgence de
+santé publique de portée internationale, le Directeur général publie des
+recommandations temporaires conformément à la procédure énoncée à l'article 49.
+Ces recommandations temporaires peuvent être modifiées ou prolongées, selon le
+cas, notamment après qu'il a été établi qu'une urgence de santé publique de
+portée internationale a cessé, après quoi d'autres recommandations temporaires
+peuvent être publiées, selon les besoins, aux fins d'en prévenir ou détecter
+rapidement la résurgence.
+
+2. Les recommandations temporaires peuvent concerner les mesures sanitaires à
+mettre en œuvre par l'Etat Partie où survient l'urgence de santé publique de
+portée internationale, ou par d'autres Etats Parties, en ce qui concerne les
+personnes, bagages, cargaisons, conteneurs, moyens de transport, marchandises
+et/ou colis postaux pour prévenir ou réduire la propagation internationale de
+maladies et éviter toute entrave inutile au trafic international.
+
+3. Les recommandations temporaires peuvent à tout moment être annulées
+conformément à la procédure définie à l'article 49 et expirent automatiquement
+trois mois après leur publication. Elles peuvent être modifiées ou prorogées
+pour des périodes supplémentaires de trois mois au maximum. Les recommandations
+temporaires ne peuvent être maintenues au-delà de la deuxième Assemblée mondiale
+de la santé qui suit la décision relative à l'urgence de santé publique de
+portée internationale à laquelle elles se rapportent.
 
 
 Article 16
 
-L'autorité sanitaire du port ou de l'aéroport :
+Recommandations permanentes
 
-a) Prend toutes mesures utiles pour maintenir les installations du port ou de
-l'aéroport exemptes de rongeurs ;
-
-b) Fait tous efforts pour mettre à l'abri des rats les installations du port ou
-de l'aéroport.
+L'OMS peut formuler des recommandations permanentes en vue de l'application
+systématique ou périodique de mesures sanitaires appropriées, conformément à
+l'article 53. De telles mesures peuvent être appliquées par les Etats Parties en
+ce qui concerne les personnes, bagages, cargaisons, conteneurs, moyens de
+transport, marchandises et/ou colis postaux en cas de risques précis persistants
+pour la santé publique aux fins de prévenir ou de réduire la propagation
+internationale de maladies et d'éviter les entraves inutiles au trafic
+international. L'OMS peut, en vertu de l'article 53, modifier ces
+recommandations ou les annuler, le cas échéant.
 
 
 Article 17
 
-1. Les administrations sanitaires prennent les dispositions voulues pour qu'un
-nombre suffisant de ports de leur territoire puissent disposer du personnel
-compétent nécessaire pour l'inspection des navires en vue de la délivrance des
-certificats d'exemption de la dératisation visés à l'article 53, et elles
-doivent agréer les ports remplissant ces conditions.
+Critères applicables aux recommandations
 
-2. Compte tenu de l'importance du trafic international de leur territoire, ainsi
-que de la répartition de ce trafic, les administrations sanitaires désignent,
-parmi les ports agréés conformément au paragraphe 1 du présent article, ceux
-qui, pourvus de l'outillage et du personnel nécessaires à la dératisation des
-navires, ont compétence pour délivrer les certificats de dératisation visés à
-l'article 53.
+Lorsqu'il formule, modifie ou annule des recommandations temporaires ou
+permanentes, le Directeur général tient compte :
 
-3. Les administrations sanitaires qui désignent ainsi des ports veillent à ce
-que les certificats de dératisation et les certificats d'exemption de la
-dératisation soient délivrés conformément aux exigences du présent Règlement.
+a) Des points de vue des Etats Parties directement concernés ;
+
+b) De l'avis du Comité d'urgence ou du Comité d'examen, selon le cas ;
+
+c) Des principes scientifiques ainsi que des éléments de preuve et des
+informations scientifiques disponibles ;
+
+d) Des mesures sanitaires qui, sur la base d'une évaluation des risques adaptée
+à la situation, n'entravent pas le trafic et le commerce internationaux et ne
+sont pas plus intrusives pour les personnes que d'autres mesures raisonnablement
+disponibles qui assureraient la protection sanitaire requise ;
+
+e) Des normes et instruments internationaux pertinents ;
+
+f) Des activités menées par les autres organisations intergouvernementales et
+organismes internationaux compétents ; et
+
+g) Des autres informations spécifiques et appropriées concernant l'événement.
+
+S'agissant des recommandations temporaires, l'urgence de la situation peut
+limiter la prise en considération par le Directeur général des éléments visés
+aux alinéas e et f du présent article.
 
 
 Article 18
 
-1. Selon l'importance du trafic international de leur territoire, les
-administrations sanitaires désignent comme aéroports sanitaires un certain
-nombre d'aéroports de ce territoire, étant entendu que les aéroports ainsi
-désignés doivent satisfaire aux conditions énoncées au paragraphe 2 du présent
-article ainsi qu'aux dispositions de l'article 14 :
+Recommandations relatives aux personnes, bagages, cargaisons, conteneurs, moyens
+de transport, marchandises et colis postaux
 
-2. Tout aéroport sanitaire doit disposer :
+1. Les recommandations adressées par l'OMS aux Etats Parties en ce qui concerne
+les personnes peuvent inclure les conseils suivants :
 
-a) D'une organisation médicale comportant le personnel, le matériel et les
-locaux nécessaires ;
+a) Aucune mesure sanitaire spécifique n'est préconisée ;
 
-b) Des moyens voulus pour transporter, isoler et traiter les personnes infectées
-ou les suspects ;
+b) Examiner les antécédents de voyages dans des zones affectées ;
 
-c) Des moyens nécessaires pour une désinfection et une désinsectisation
-efficaces, pour la destruction des vecteurs et des rongeurs, ainsi que pour
-l'application de toute autre mesure appropriée prévue au présent Règlement ;
+c) Examiner la preuve qu'un examen médical et des analyses en laboratoire ont
+été effectués ;
 
-d) D'un laboratoire bactériologique ou des moyens voulus pour l'envoi des
-matériels suspects à un tel laboratoire ;
+d) Exiger des examens médicaux ;
 
-e) Des moyens nécessaires, soit à l'intérieur soit à l'extérieur de l'aéroport,
-pour la vaccination contre la fièvre jaune.
+e) Examiner la preuve des vaccinations ou autres mesures prophylactiques ;
+
+f) Exiger une vaccination ou une mesure prophylactique ;
+
+g) Placer les personnes suspectes en observation à des fins de santé publique ;
+
+h) Placer en quarantaine les personnes suspectes ou leur appliquer d'autres
+mesures sanitaires ;
+
+i) Isoler ou traiter si nécessaire les personnes affectées ;
+
+j) Rechercher les contacts des personnes suspectes ou affectées ;
+
+k) Refuser l'entrée des personnes suspectes et affectées ;
+
+l) Refuser l'entrée de personnes non affectées dans des zones affectées ; et
+
+m) Soumettre à un dépistage les personnes en provenance de zones affectées et/ou
+leur appliquer des restrictions de sortie.
+
+2. Les recommandations adressées par l'OMS aux Etats Parties en ce qui concerne
+les bagages, cargaisons, conteneurs, moyens de transport, marchandises et colis
+postaux peuvent inclure les conseils suivants :
+
+n) Aucune mesure sanitaire spécifique n'est préconisée ;
+
+o) Examiner le manifeste et l'itinéraire ;
+
+p) Effectuer des inspections ;
+
+q) Examiner la preuve des mesures prises au départ ou pendant le transit pour
+éliminer l'infection ou la contamination ;
+
+r) Effectuer le traitement des bagages, cargaisons, conteneurs, moyens de
+transport, marchandises, colis postaux ou restes humains pour éliminer
+l'infection ou la contamination, y compris les vecteurs et les réservoirs ;
+
+s) Appliquer des mesures sanitaires spécifiques pour garantir la sécurité de la
+manipulation et du transport de restes humains ;
+
+t) Isoler ou placer en quarantaine ;
+
+u) Exiger, en l'absence de traitement ou de processus efficace, la saisie et la
+destruction sous contrôle des bagages, cargaisons, conteneurs, moyens de
+transport, marchandises ou colis postaux infectés, contaminés ou suspects ; et
+
+v) Refuser le départ ou l'entrée.
+
+
+TITRE IV
+
+POINTS D'ENTRÉE
 
 
 Article 19
 
-1. Tout port, de même que la superficie comprise dans le périmètre de tout
-aéroport, est maintenu exempt d'Aedes aegypti à l'état immature ou à l'état
-adulte et de moustiques vecteurs du paludisme ou d'autres maladies revêtant une
-importance épidémiologique pour le trafic international. A cette fin, des
-mesures de démoustication sont appliquées régulièrement dans une zone de
-protection s'étendant sur une distance d'au moins 400 mètres autour du
-périmètre.
+Obligations générales
 
-2. Dans la zone de transit direct d'un aéroport situé soit dans une zone où se
-trouvent les vecteurs mentionnés au paragraphe 1 du présent article, soit dans
-le voisinage immédiat d'une telle zone, tous les locaux destinés à recevoir des
-personnes ou des animaux sont mis à l'abri des moustiques.
+Outre les autres obligations que le présent Règlement met à sa charge, chaque
+Etat Partie :
 
-3. Aux fins du présent article, le périmètre d'un aéroport désigne la ligne qui
-circonscrit la zone où se trouvent les bâtiments de l'aéroport et le terrain ou
-plan d'eau servant ou destiné à servir au stationnement des aéronefs.
+a) Veille à ce que les capacités énoncées à l'annexe 1 concernant les points
+d'entrée désignés soient acquises dans les délais prévus au paragraphe 1 de
+l'article 5 et au paragraphe 1 de l'article 13 ;
 
-4. Les administrations sanitaires sont tenues de fournir une fois par an à
-l'Organisation des renseignements indiquant dans quelle mesure leurs ports et
-aéroports sont maintenus exempts de vecteurs présentant une importance
-épidémiologique pour le trafic international.
+b) Précise quelles sont les autorités compétentes à chaque point d'entrée
+désigné sur son territoire ; et
 
-Article 20 (14)
+c) Fournit à l'OMS, dans la mesure du possible lorsque celle-ci le demande pour
+faire face à un risque potentiel pour la santé publique, des données pertinentes
+concernant les sources d'infection ou de contamination, et notamment les
+vecteurs et réservoirs, à ses points d'entrée, qui risquent d'entraîner la
+propagation internationale de maladies.
 
-1. Les administrations sanitaires adressent à l'Organisation une liste des ports
-de leur territoire qui sont agréés conformément à l'article 17 en vue de la
-délivrance :
 
-i) De certificats d'exemption de la dératisation seulement, et
+Article 20
 
-ii) De certificats de dératisation et de certificats d'exemption de la
-dératisation.
+Aéroports et ports
 
-2. Les administrations sanitaires notifient à l'Organisation toute modification
-ultérieure de la liste visée au paragraphe 1 du présent article.
+1. Les Etats Parties désignent les aéroports et les ports qui doivent acquérir
+et maintenir les capacités prévues à l'annexe 1.
 
-3. L'Organisation communique sans retard à toutes les administrations sanitaires
-les renseignements qu'elle reçoit conformément aux dispositions du présent
-article.
+2. Les Etats Parties veillent à ce que les certificats d'exemption de contrôle
+sanitaire de navire et les certificats de contrôle sanitaire de navire soient
+délivrés conformément aux prescriptions de l'article 39 et au modèle figurant à
+l'annexe 3.
+
+3. Chaque Etat Partie communique à l'OMS la liste des ports habilités à proposer
+:
+
+a) La délivrance des certificats de contrôle sanitaire de navire et la
+fourniture des services visés aux annexes 1 et 3 ; ou
+
+b) Uniquement la délivrance des certificats d'exemption de contrôle sanitaire de
+navire ; et
+
+c) La prolongation du certificat d'exemption de contrôle sanitaire de navire
+pour une période d'un mois jusqu'à l'arrivée du navire dans le port auquel le
+certificat pourra être remis.
+
+Chaque Etat Partie informe l'OMS de tout changement de statut des ports figurant
+sur la liste. L'OMS publie les informations reçues en application du présent
+paragraphe.
+
+4. L'OMS peut, à la demande de l'Etat Partie concerné, faire le nécessaire pour
+certifier, à l'issue d'une enquête appropriée, qu'un aéroport ou un port situé
+sur le territoire de cet Etat Partie remplit les conditions énoncées aux
+paragraphes 1 et 3 du présent article. L'OMS peut revoir périodiquement ces
+certifications, en consultation avec l'Etat Partie.
+
+5. L'OMS, en collaboration avec les organisations intergouvernementales et les
+organismes internationaux compétents, élabore et publie les principes directeurs
+pour la certification des aéroports et des ports visés au présent article. L'OMS
+publie également une liste des aéroports et des ports certifiés.
 
 
 Article 21
 
-1. A la demande de l'administration sanitaire intéressée et après enquête
-appropriée, l'Organisation certifie qu'un aéroport sanitaire situé sur le
-territoire dépendant de cette administration remplit les conditions requises par
-le présent Règlement.
+Postes-frontières
 
-2. A la demande de l'administration sanitaire intéressée et après enquête
-appropriée, l'Organisation certifie que la zone de transit direct d'un aéroport
-situé dans une zone infectée par la fièvre jaune du territoire dépendant de
-cette administration remplit les conditions requises par le présent Règlement.
+1. Lorsque cela est justifié eu égard à la santé publique, un Etat Partie
+désigne les postes-frontières qui acquerront les capacités prévues à l'annexe 1,
+en prenant en considération :
 
-3. L'Organisation révise périodiquement ces certifications, en collaboration
-avec l'administration sanitaire intéressée, pour s'assurer que les conditions
-requises continuent d'être remplies.
+a) Le volume et la fréquence des divers types de trafic international aux
+postes-frontières qui pourraient être désignés par un Etat Partie, par rapport à
+d'autres points d'entrée ; et
+
+b) Les risques pour la santé publique présents dans les zones d'où provient le
+trafic international, ou qu'il traverse, avant son arrivée à un poste-frontière
+particulier.
+
+2. Les Etats Parties ayant des frontières communes devraient envisager :
+
+a) De conclure des accords ou des arrangements bilatéraux ou multilatéraux
+concernant la prévention ou la maîtrise de la transmission internationale de
+maladies aux postes-frontières conformément à l'article 57 ; et
+
+b) De désigner conjointement des postes-frontières adjacents pour les capacités
+décrites à l'annexe 1, conformément au paragraphe 1 du présent article.
 
 
 Article 22
 
-1. Là où l'importance du trafic international le justifie et lorsque la
-situation épidémiologique l'exige, les postes frontières des voies ferrées et
-des routes sont pourvus d'installations pour l'application des mesures prévues
-par le présent Règlement. Il en est de même des postes frontières desservant des
-voies d'eau intérieures, là où le contrôle des navires de navigation intérieure
-s'effectue à la frontière.
+Rôle des autorités compétentes
 
-2. Les administrations sanitaires notifient à l'Organisation la date d'entrée en
-service et l'emplacement de ces installations.
+1. Les autorités compétentes :
 
-3. L'Organisation transmet sans retard à toutes les administrations sanitaires
-les renseignements reçus en vertu du présent article.
+a) Veillent à ce que les bagages, cargaisons, conteneurs, moyens de transport,
+marchandises et colis postaux et les restes humains au départ et en provenance
+de zones affectées soient maintenus dans un état tel qu'ils soient exempts de
+sources d'infection ou de contamination, notamment de vecteurs et de réservoirs
+;
 
-TITRE IV : MESURES ET FORMALITÉS SANITAIRES
+b) Veillent, dans la mesure du possible, à ce que les installations utilisées
+par les voyageurs aux points d'entrée soient maintenues dans de bonnes
+conditions d'hygiène et restent exemptes de sources d'infection ou de
+contamination, notamment de vecteurs et de réservoirs ;
 
-Chapitre Ier : Dispositions générales
+c) Supervisent la dératisation, la désinfection, la désinsectisation ou la
+décontamination des bagages, cargaisons, conteneurs, moyens de transport,
+marchandises, colis postaux, et restes humains ou les mesures sanitaires
+appliquées aux personnes, conformément au présent Règlement ;
+
+d) Avertissent les exploitants de moyens de transport, aussi longtemps à
+l'avance que possible, de leur intention d'appliquer des mesures de lutte à un
+moyen de transport, et leur fournissent, le cas échéant, des informations
+écrites sur les méthodes à utiliser ;
+
+e) Supervisent l'enlèvement et l'élimination hygiénique de l'eau ou des aliments
+contaminés, ainsi que des excréments humains ou animaux, des eaux usées et de
+toute autre matière contaminée se trouvant à bord d'un moyen de transport ;
+
+f) Prennent toutes les mesures possibles compatibles avec le présent Règlement
+pour surveiller et empêcher le rejet par les navires d'eaux usées, de déchets,
+d'eau de ballast et d'autres matières potentiellement pathogènes qui pourraient
+contaminer l'eau d'un port, d'un fleuve ou d'un canal, d'un détroit, d'un lac ou
+d'une autre voie navigable internationale ;
+
+g) Sont responsables de la supervision des fournisseurs de services concernant
+les voyageurs, bagages, cargaisons, conteneurs, moyens de transport,
+marchandises et colis postaux et les restes humains aux points d'entrée, y
+compris de la conduite des inspections et des examens médicaux selon les besoins
+;
+
+h) Prévoient des dispositions d'urgence efficaces pour faire face à un événement
+imprévu affectant la santé publique ; et
+
+i) Communiquent avec le point focal national RSI au sujet des mesures de santé
+publique pertinentes prises en application du présent Règlement.
+
+2. Les mesures sanitaires recommandées par l'OMS pour les voyageurs, bagages,
+cargaisons, conteneurs, moyens de transport, marchandises, colis postaux et
+restes humains en provenance d'une zone affectée peuvent être appliquées à
+nouveau à l'arrivée s'il existe des indications vérifiables et/ou des éléments
+attestant que les mesures appliquées au départ de la zone affectée ont échoué.
+
+3. La désinsectisation, la dératisation, la désinfection, la décontamination et
+toutes autres procédures sanitaires sont conduites de manière à éviter de causer
+un traumatisme et, autant que possible, une gêne aux personnes ou un dommage à
+l'environnement de nature à porter atteinte à la santé publique, ou un dommage
+aux bagages, cargaisons, conteneurs, moyens de transport, marchandises et colis
+postaux.
+
+
+TITRE V
+
+MESURES DE SANTÉ PUBLIQUE
+
+
+Chapitre Ier
+
+Dispositions générales
 
 
 Article 23
 
-Les mesures sanitaires permises par le présent Règlement constituent le maximum
-de ce qu'un Etat peut exiger à l'égard du trafic international pour la
-protection de son territoire contre les maladies soumises au Règlement.
+Mesures sanitaires à l'arrivée et au départ
 
-Article 24 (15)
+1. Sous réserve des accords internationaux applicables et des articles
+pertinents du présent Règlement, un Etat Partie peut, à des fins de santé
+publique, à l'arrivée ou au départ :
 
-Les mesures sanitaires doivent être commencées immédiatement, terminées sans
-retard et appliquées sans qu'il soit fait aucune discrimination.
+a) S'agissant des voyageurs :
+
+i) Les interroger au sujet de leur destination afin de pouvoir les contacter ;
+
+ii) Les interroger au sujet de leur itinéraire afin de vérifier s'ils ont
+séjourné dans une zone affectée ou à proximité, ou sur leurs autres contacts
+éventuels avec une infection ou une contamination avant leur arrivée, et
+vérifier les documents sanitaires de ces voyageurs s'ils sont exigés aux termes
+du présent Règlement ; et/ou
+
+iii) Exiger un examen médical non invasif, c'est-à-dire l'examen le moins
+intrusif possible pour atteindre l'objectif de santé publique ;
+
+b) Exiger l'inspection des bagages, cargaisons, conteneurs, moyens de transport,
+marchandises, colis postaux et restes humains.
+
+2. Sur la base d'éléments attestant l'existence d'un risque pour la santé
+publique obtenus en appliquant les mesures prévues au paragraphe 1 du présent
+article ou par d'autres moyens, les Etats Parties peuvent appliquer des mesures
+sanitaires supplémentaires conformément au présent Règlement, et en particulier
+en ce qui concerne un voyageur suspect ou affecté peuvent, au cas par cas,
+pratiquer l'examen médical le moins intrusif et le moins invasif possible pour
+atteindre l'objectif de santé publique consistant à prévenir la propagation
+internationale de maladies.
+
+3. Les voyageurs ne sont soumis à aucun examen médical, aucune vaccination ni
+aucune mesure sanitaire ou prophylactique en vertu du présent Règlement sans que
+leur consentement exprès et éclairé, ou celui de leurs parents ou tuteurs, n'ait
+été obtenu au préalable, excepté en application du paragraphe 2 de l'article 31,
+et conformément à la législation et aux obligations internationales de l'Etat
+Partie.
+
+4. Les voyageurs qui doivent être vaccinés ou à qui une mesure prophylactique
+doit être proposée en l'application du présent Règlement, ou leurs parents ou
+tuteurs, sont informés de tout risque associé à la vaccination ou la
+non-vaccination, et à l'utilisation ou la non-utilisation de la mesure
+prophylactique conformément à la législation et aux obligations internationales
+de l'Etat Partie. Les Etats Parties informent les médecins de cette obligation
+conformément à la législation de l'Etat Partie.
+
+5. Tout examen médical, acte médical, vaccination ou autre mesure de prophylaxie
+qui comporte un risque de transmission de maladie n'est pratiqué sur un voyageur
+ou ne lui est administré que conformément aux normes et aux principes de
+sécurité reconnus aux niveaux national et international, de façon à réduire ce
+risque au maximum.
+
+
+Chapitre II
+
+Dispositions spéciales applicables aux moyens
+
+de transport et aux exploitants de moyens de transport
+
+
+Article 24
+
+Exploitants de moyens de transport
+
+1. Les Etats Parties prennent toutes les mesures possibles compatibles avec le
+présent Règlement pour assurer que les exploitants de moyens de transport :
+
+a) Appliquent les mesures sanitaires recommandées par l'OMS et adoptées par
+l'Etat Partie ;
+
+b) Informent les voyageurs des mesures sanitaires recommandées par l'OMS et
+adoptées par l'Etat Partie aux fins de leur application à bord ; et
+
+c) Maintiennent en permanence les moyens de transport dont ils sont responsables
+exempts de sources d'infection ou de contamination, notamment de vecteurs et de
+réservoirs. L'application de mesures destinées à éliminer les sources
+d'infection ou de contamination peut être exigée si des signes de leur présence
+sont découverts.
+
+2. Les dispositions particulières applicables aux moyens de transport et aux
+exploitants de moyens de transport en vertu du présent article figurent à
+l'annexe 4. Les mesures particulières applicables aux moyens de transport et aux
+exploitants de moyens de transport en ce qui concerne les maladies à
+transmission vectorielle figurent à l'annexe 5.
 
 
 Article 25
 
-1. La désinfection, la désinsectisation, la dératisation et toutes autres
-opérations sanitaires sont exécutées de manière :
+Navires et aéronefs en transit
 
-a) A éviter toute gêne inutile et à ne causer aucun préjudice à la santé des
-personnes ;
+Sous réserve des dispositions des articles 27 et 43 ou à moins que les accords
+internationaux applicables ne l'autorisent, aucune mesure sanitaire n'est
+appliquée par un Etat Partie :
 
-b) A ne causer aucun dommage à la structure du navire, aéronef ou autre véhicule
-ou à ses appareils de bord ;
+a) A un navire ne provenant pas d'une zone affectée qui emprunte un canal ou une
+autre voie maritime situés sur le territoire de cet Etat Partie en direction
+d'un port situé sur le territoire d'un autre Etat. Un tel navire est autorisé à
+embarquer, sous la supervision de l'autorité compétente, du carburant, de l'eau,
+de la nourriture et des provisions ;
 
-c) A éviter tout risque d'incendie.
+b) A un navire qui traverse des eaux relevant de sa juridiction sans faire
+escale dans un port ou sur la côte ; ni
 
-2. En exécutant ces opérations sur les cargaisons, marchandises, bagages,
-conteneurs et autres objets, les précautions voulues sont prises pour éviter
-tout dommage.
+c) A un aéronef en transit dans un aéroport relevant de sa juridiction, un tel
+aéronef pouvant néanmoins être confiné à une zone particulière de l'aéroport,
+sans embarquer ni débarquer, ou charger ni décharger. Un tel aéronef est
+toutefois autorisé à embarquer, sous la supervision de l'autorité compétente, du
+carburant, de l'eau, de la nourriture et des provisions.
 
-3. Dans le cas où des méthodes ou procédés sont recommandés par l'Organisation,
-ils devraient être utilisés.
 
-Article 26 (16)
+Article 26
 
-1. Sur demande, l'autorité sanitaire délivre gratuitement au transporteur un
-certificat indiquant les mesures appliquées à tout navire, aéronef, train,
-véhicule routier, autre moyen de transport ou conteneur, les parties traitées,
-les méthodes employées, ainsi que les raisons qui ont motivé l'application des
-mesures. Dans le cas d'un aéronef, le certificat est remplacé, sur demande, par
-une inscription dans la partie relative aux questions sanitaires de la
-Déclaration générale d'aéronef.
+Camions, trains et autocars en transit
 
-2. De même, l'autorité sanitaire délivre sur demande et gratuitement :
+Sous réserve des dispositions des articles 27 et 43 ou à moins que les accords
+internationaux applicables ne l'autorisent, aucune mesure sanitaire n'est
+appliquée à un camion, un train ou un autocar civils ne provenant pas d'une zone
+affectée qui traverse un territoire sans embarquer ni débarquer, ou charger ni
+décharger.
 
-a) A tout voyageur un certificat indiquant la date de son arrivée ou de son
-départ et les mesures appliquées à sa personne ainsi qu'à ses bagages ;
 
-b) Au chargeur ou expéditeur, au réceptionnaire et au transporteur, ou à leurs
-agents respectifs, un certificat indiquant les mesures appliquées aux
-marchandises.
+Article 27
 
-Article 27 (17)
+Moyens de transport affectés
 
-1. Les personnes soumises à la surveillance ne sont pas isolées et restent
-libres de se déplacer. Pendant la période de surveillance, l'autorité sanitaire
-peut inviter ces personnes à se présenter devant elle, si besoin est, à des
-intervalles déterminés. Compte tenu des restrictions visées à l'article 64,
-l'autorité sanitaire peut aussi soumettre ces personnes à un examen médical et
-procéder à toutes investigations nécessaires pour vérifier leur état de santé.
+1. Si des signes cliniques ou des symptômes et des informations se fondant sur
+des faits ou des éléments attestant qu'il existe un risque pour la santé
+publique, notamment des sources d'infection et de contamination, sont découverts
+à bord d'un moyen de transport, l'autorité compétente considère que le moyen de
+transport est affecté et peut :
 
-2. Lorsque les personnes soumises à leur surveillance se rendent dans un autre
-lieu, situé à l'intérieur ou en dehors du même territoire, elles sont tenues
-d'en informer l'autorité sanitaire, qui notifie immédiatement le déplacement à
-l'autorité sanitaire du lieu où se rendent ces personnes, qui, dès leur arrivée,
-doivent se présenter à cette autorité. Celle-ci peut également les soumettre aux
-mesures visées au paragraphe 1 du présent article.
+a) Désinfecter, décontaminer, désinsectiser ou dératiser ce moyen de transport,
+selon le cas, ou faire appliquer ces mesures sous sa surveillance ; et
+
+b) Décider dans chaque cas de la technique à utiliser pour maîtriser comme il
+convient le risque pour la santé publique conformément au présent Règlement. Si
+des méthodes ou des matériels sont recommandés par l'OMS pour ces opérations,
+ils doivent être utilisés, sauf si l'autorité compétente estime que d'autres
+méthodes sont aussi sûres et fiables.
+
+L'autorité compétente peut prendre des mesures sanitaires supplémentaires, et
+notamment isoler le moyen de transport, si nécessaire, pour éviter la
+propagation d'une maladie. Ces mesures supplémentaires doivent être signalées au
+point focal national RSI.
+
+2. Si l'autorité compétente au point d'entrée n'est pas à même d'appliquer les
+mesures de lutte prescrites par le présent article, le moyen de transport
+affecté peut néanmoins être autorisé à partir, à condition que :
+
+a) L'autorité compétente, au moment du départ, communique à l'autorité
+compétente au prochain point d'entrée connu les données mentionnées à l'alinéa b
+; et que
+
+b) Dans le cas d'un navire, les signes constatés et les mesures de lutte
+requises soient consignés dans le certificat de contrôle sanitaire de navire.
+
+Le moyen de transport en question est autorisé à charger, sous la surveillance
+de l'autorité compétente, du carburant, de l'eau, de la nourriture et des
+provisions.
+
+3. Un moyen de transport qui a été considéré comme affecté n'est plus considéré
+comme tel dès lors que l'autorité compétente a acquis la conviction :
+
+a) Que les mesures visées au paragraphe 1 du présent article ont été appliquées
+efficacement ; et
+
+b) Qu'il n'existe à bord aucune condition pouvant constituer une menace pour la
+santé publique.
 
 
 Article 28
 
-Sauf en cas d'urgence comportant un danger grave pour la santé publique,
-l'autorité sanitaire d'un port ou d'un aéroport ne doit pas, en raison d'une
-autre maladie épidémique, refuser la libre pratique à un navire ou un aéronef
-qui n'est pas infecté ou suspect d'être infecté d'une maladie soumise au
-Règlement ; notamment, elle ne doit pas l'empêcher de décharger ou de charger
-des marchandises ou des approvisionnements ou de prendre à bord du combustible
-ou des carburants et de l'eau potable.
+Navires et aéronefs aux points d'entrée
+
+1. Sous réserve des dispositions de l'article 43 ou de celles des accords
+internationaux applicables, un navire ou un aéronef ne peut être empêché, pour
+des raisons de santé publique, de faire escale à un point d'entrée. Toutefois,
+si ce point d'entrée n'est pas équipé pour appliquer les mesures sanitaires
+prévues par le présent Règlement, ordre peut être donné au navire ou à l'aéronef
+de poursuivre sa route, à ses propres risques, jusqu'au point d'entrée approprié
+le plus proche à sa disposition, sauf si un problème technique rend ce
+déroutement dangereux.
+
+2. Sous réserve des dispositions de l'article 43 ou de celles des accords
+internationaux applicables, la libre pratique ne peut être refusée, pour des
+raisons de santé publique, à un navire ou un aéronef par les Etats Parties ; en
+particulier, il ne peut être empêché de procéder à l'embarquement ou au
+débarquement, au déchargement ou au chargement de marchandises ou de
+ravitaillement, ni d'embarquer du carburant, de l'eau, de la nourriture et des
+provisions. Les Etats Parties peuvent subordonner l'autorisation de libre
+pratique à une inspection et, si une source d'infection ou de contamination est
+découverte à bord, à la désinfection, à la décontamination, à la
+désinsectisation ou à la dératisation du navire ou de l'aéronef, ou à d'autres
+mesures nécessaires pour prévenir la propagation de l'infection ou de la
+contamination.
+
+3. Lorsque cela est possible, et sous réserve des dispositions du paragraphe
+précédent, un Etat Partie accorde la libre pratique à un navire ou un aéronef
+par radio ou par un autre moyen de communication lorsque, d'après les
+informations reçues de ce navire ou cet aéronef avant son arrivée, l'Etat Partie
+estime que cette arrivée n'entraînera pas l'introduction ou la propagation d'une
+maladie.
+
+4. Le capitaine d'un navire ou le commandant de bord d'un aéronef, ou leur
+représentant informe les contrôleurs du port ou de l'aéroport dès que possible
+avant l'arrivée au port ou à l'aéroport de destination des éventuels cas de
+maladie indicatifs d'une pathologie de nature infectieuse, ou des éléments
+attestant l'existence d'un risque pour la santé publique à bord dès que le
+capitaine ou le commandant ont connaissance de ces maladies ou de ces risques
+pour la santé publique. Ces informations doivent être immédiatement transmises à
+l'autorité compétente du port ou de l'aéroport. En cas d'urgence, elles devront
+être communiquées directement par le capitaine ou le commandant aux autorités
+compétentes du port ou de l'aéroport.
+
+5. Si, pour des raisons indépendantes de la volonté de son commandant de bord ou
+de son capitaine, un aéronef ou un navire suspect ou affecté atterrit ailleurs
+que sur l'aéroport prévu, ou mouille dans un autre port que le port d'arrivée
+prévu, les dispositions suivantes s'appliquent :
+
+a) Le commandant de bord de l'aéronef ou le capitaine du navire, ou toute autre
+personne qui en est responsable, s'efforce par tous les moyens de communiquer
+sans délai avec l'autorité compétente la plus proche ;
+
+b) Dès que l'autorité compétente a été informée de l'atterrissage ou du
+mouillage, elle peut appliquer les mesures sanitaires recommandées par l'OMS ou
+d'autres mesures sanitaires prévues dans le présent Règlement ;
+
+c) Sauf si l'urgence ou les besoins de la communication avec l'autorité
+compétente l'exigent, aucun voyageur présent à bord de l'aéronef ou du navire ne
+s'en éloigne et aucune cargaison n'en est éloignée, à moins que l'autorité
+compétente ne l'autorise ; et
+
+d) Une fois mises en œuvre toutes les mesures sanitaires prescrites par
+l'autorité compétente, l'aéronef ou le navire peut, pour ce qui est de ces
+mesures sanitaires, poursuivre sa route soit jusqu'à l'aéroport ou au port où il
+devait atterrir ou mouiller, soit, si des raisons techniques l'en empêchent,
+jusqu'à un aéroport ou un port commodément situé.
+
+6. Nonobstant les dispositions du présent article, le capitaine d'un navire ou
+le commandant de bord d'un aéronef peut prendre toutes les mesures d'urgence qui
+peuvent être nécessaires pour protéger la santé et la sécurité des passagers. Il
+informe l'autorité compétente dès que possible de toute mesure prise en
+application du présent paragraphe.
 
 
 Article 29
 
-L'autorité sanitaire peut prendre toutes mesures pratiques pour empêcher un
-navire de déverser dans les eaux d'un port, d'une rivière ou d'un canal, des
-eaux et matières usées susceptibles de les polluer.
+Camions, trains et autocars civils aux points d'entrée
 
-Chapitre II : Mesures sanitaires au départ
+L'OMS, en consultation avec les Etats Parties, élabore des principes directeurs
+pour l'application de mesures sanitaires aux camions, trains et autocars civils
+se présentant aux points d'entrée et franchissant un poste-frontière.
 
-Article 30 (18)
 
-1. L'autorité sanitaire du port, de l'aéroport ou de la zone dans laquelle est
-situé le poste frontière prend toutes mesures pratiques pour :
+Chapitre III
 
-a) Empêcher l'embarquement des personnes infectées ou des suspects ;
+Dispositions spéciales applicables aux voyageurs
 
-b) Eviter que ne s'introduisent à bord d'un navire, aéronef, train, véhicule
-routier, autre moyen de transport ou conteneur, des agents possibles d'infection
-ou des vecteurs d'une maladie soumise au Règlement.
 
-2. L'autorité sanitaire d'une zone infectée peut exiger des voyageurs au départ
-un certificat de vaccination valable.
+Article 30
 
-3. Avant le départ d'une personne effectuant un voyage international, l'autorité
-sanitaire visée au paragraphe 1 du présent article peut, lorsqu'elle l'estime
-nécessaire, procéder à une visite médicale de cette personne. Le moment et le
-lieu de cette visite sont fixés en tenant compte de toutes les autres
-formalités, de manière à ne pas entraver ni retarder le départ.
+Voyageurs en observation à des fins de santé publique
 
-4. Nonobstant les dispositions de la lettre a du paragraphe 1 du présent
-article, une personne effectuant un voyage international et qui, à son arrivée,
-est mise en surveillance peut être autorisée à continuer son voyage. L'autorité
-sanitaire, conformément à l'article 27, adresse par les voies les plus rapides
-une notification à l'autorité sanitaire du lieu où se rend cette personne.
-
-Chapitre III : Mesures sanitaires applicables durant le trajet entre les ports
-ou aéroports de départ et d'arrivée
+Sous réserve des dispositions de l'article 43 ou à moins que les accords
+internationaux applicables ne l'autorisent, un voyageur suspect qui est placé en
+observation à des fins de santé publique à son arrivée peut être autorisé à
+poursuivre un voyage international s'il ne constitue pas un risque imminent pour
+la santé publique et si l'Etat Partie informe l'autorité compétente au point
+d'entrée à destination de l'arrivée prévue du voyageur, s'il la connaît. A
+l'arrivée, le voyageur se présente à cette autorité.
 
 
 Article 31
 
-Il est interdit de jeter ou de laisser tomber d'un aéronef en cours de vol toute
-matière susceptible de propager une maladie épidémique.
+Mesures sanitaires liées à l'entrée des voyageurs
+
+1. L'entrée d'un voyageur sur le territoire d'un Etat Partie n'est pas
+subordonnée à un examen médical invasif, une vaccination ou une autre mesure de
+prophylaxie. Sous réserve des dispositions des articles 32, 42 et 45, le présent
+Règlement n'interdit toutefois pas aux Etats Parties d'exiger un examen médical,
+une vaccination ou une autre mesure de prophylaxie ou la preuve des vaccinations
+ou des autres mesures de prophylaxie :
+
+a) Lorsque cela est nécessaire pour déterminer s'il existe un risque pour la
+santé publique ;
+
+b) Comme condition d'entrée pour tout voyageur qui sollicite la résidence
+temporaire ou permanente ;
+
+c) Comme condition d'entrée pour tout voyageur, en application de l'article 43
+ou des annexes 6 et 7 ; ou
+
+d) Applicable en vertu de l'article 23.
+
+2. Si un voyageur pour qui un Etat Partie peut exiger un examen médical, une
+vaccination ou une autre mesure de prophylaxie en vertu du paragraphe 1 du
+présent article refuse de donner son consentement, ou refuse de fournir les
+informations ou les documents visés au paragraphe 1 a de l'article 23, l'Etat
+Partie concerné peut, sous réserve des dispositions des articles 32, 42 et 45,
+refuser l'entrée à ce voyageur. Si l'existence d'un risque imminent pour la
+santé publique est établie, l'Etat Partie peut, conformément à sa législation
+nationale et dans la mesure nécessaire pour lutter contre ce risque, obliger le
+voyageur à, ou lui conseiller de, conformément au paragraphe 3 de l'article 23 :
+
+a) Se soumettre à l'examen médical le moins invasif et le moins intrusif
+possible pour atteindre l'objectif de santé publique visé ;
+
+b) Se faire vacciner ou se soumettre à une autre mesure de prophylaxie ; ou
+
+c) Se soumettre à des mesures sanitaires établies supplémentaires qui permettent
+de prévenir ou d'endiguer la propagation de la maladie, y compris l'isolement,
+la quarantaine ou le placement en observation à des fins de santé publique.
 
 
 Article 32
 
-1. Aucune mesure sanitaire n'est imposée par un Etat aux navires qui traversent
-les eaux relevant de sa compétence sans faire escale dans un port ou sur la
-côte.
+Traitement des voyageurs
 
-2. Dans le cas où, pour un motif quelconque, le navire fait escale, les lois et
-règlements en vigueur dans le territoire lui sont applicables sans toutefois que
-les dispositions du présent Règlement soient outrepassées.
+Lorsqu'ils appliquent les mesures sanitaires prévues par le présent Règlement,
+les Etats Parties traitent les voyageurs dans le respect de leur dignité et des
+droits humains fondamentaux afin de réduire au maximum l'inconfort ou la gêne
+pouvant être associés à ces mesures, notamment :
+
+a) En traitant tous les voyageurs avec courtoisie et respect ;
+
+b) En tenant compte du sexe de la personne et des préoccupations religieuses ou
+socio-culturelles des voyageurs ; et
+
+c) En fournissant ou en prenant des dispositions pour que soient fournis aux
+voyageurs placés en quarantaine ou en isolement, ou soumis à des examens
+médicaux ou à d'autres mesures de santé publique, de la nourriture et de l'eau
+en quantité suffisante, un hébergement et des vêtements appropriés, une
+protection pour leurs bagages et autres effets personnels, un traitement médical
+approprié, les moyens de communication nécessaires si possible dans une langue
+qu'ils comprennent et toute autre assistance appropriée.
+
+
+Chapitre IV
+
+Dispositions spéciales applicables aux marchandises,
+
+conteneurs et zones de chargement des conteneurs
 
 
 Article 33
 
-1. Aucune mesure sanitaire autre que la visite médicale n'est prise pour un
-navire indemne, tel que défini au titre V, empruntant un canal ou une autre voie
-maritime situés dans le territoire d'un Etat, afin de se rendre dans un port
-situé dans le territoire d'un autre Etat. Cette disposition ne concerne pas les
-navires provenant d'une zone infectée ou ayant à bord une personne en provenance
-d'une telle zone, tant que n'est pas écoulée la période d'incubation de la
-maladie dont la zone est infectée.
+Marchandises en transit
 
-2. La seule mesure applicable à un navire indemne se trouvant dans l'un ou
-l'autre de ces cas est, au besoin, la mise à bord d'une garde sanitaire pour
-empêcher tout contact non autorisé entre le navire et la côte et veiller à
-l'application des dispositions de l'article 29.
+Sous réserve des dispositions de l'article 43 ou à moins que les accords
+internationaux applicables ne l'autorisent, les marchandises autres que les
+animaux vivants qui sont en transit sans transbordement ne sont pas soumises à
+des mesures sanitaires en vertu du présent Règlement ni retenues à des fins de
+santé publique.
 
-3. L'autorité sanitaire permet à un navire se trouvant dans l'un des cas visés
-ci-dessus d'embarquer, sous son contrôle, du combustible ou des carburants, de
-l'eau potable, des vivres de consommation et des approvisionnements.
 
-4. Lors de leur passage par un canal ou par une autre voie maritime, les navires
-infectés ou suspects peuvent être traités comme s'ils faisaient escale dans un
-port du territoire dans lequel est situé le canal ou la voie maritime.
+Article 34
 
-Article 34 (19)
+Conteneurs et zones de chargement des conteneurs
 
-Nonobstant toute disposition contraire du présent Règlement, exception faite de
-l'article 69, aucune mesure sanitaire autre que la visite médicale n'est imposée
-aux passagers et membres de l'équipage :
+1. Les Etats Parties veillent, dans la mesure du possible, à ce que les
+chargeurs des conteneurs utilisent, dans le trafic international, des conteneurs
+exempts de sources d'infection ou de contamination, notamment de vecteurs et de
+réservoirs, en particulier au cours de l'empotage.
 
-a) Se trouvant sur un navire indemne, qui ne quittent pas le bord ;
+2. Les Etats Parties veillent, dans la mesure du possible, à ce que les zones de
+chargement des conteneurs demeurent exemptes de sources d'infection ou de
+contamination, notamment de vecteurs et de réservoirs.
 
-b) En transit, se trouvant à bord d'un aéronef indemne, s'ils ne franchissent
-pas les limites de la zone de transit direct d'un aéroport du territoire à
-travers lequel le transit s'effectue ou si, en attendant l'établissement d'une
-telle zone dans l'aéroport, ils se soumettent aux mesures de ségrégation
-prescrites par l'autorité sanitaire pour empêcher la propagation des maladies.
-Dans le cas où une personne se trouvant dans les conditions prévues ci-dessus
-est obligée de quitter l'aéroport où elle a débarqué, et ce, dans le seul but de
-poursuivre son voyage à partir d'un autre aéroport situé à proximité, elle
-continue à jouir de l'exemption prévue ci-dessus si son transfert a lieu sous le
-contrôle de l'autorité ou des autorités sanitaires.
+3. Lorsque, de l'avis de l'Etat Partie, le volume du trafic international des
+conteneurs est suffisamment important, les autorités compétentes prennent toutes
+les mesures possibles compatibles avec le présent Règlement, notamment en
+effectuant des inspections, pour évaluer l'état sanitaire des conteneurs et des
+zones de chargement des conteneurs afin d'assurer que les obligations énoncées
+dans le présent Règlement sont remplies.
 
-Chapitre IV : Mesures sanitaires à l'arrivée
+4. Dans la mesure du possible, des installations sont disponibles dans les zones
+de chargement des conteneurs pour l'inspection et l'isolement des conteneurs.
 
-Article 35 (20)
+5. Les destinataires et les expéditeurs des conteneurs mettent tout en œuvre
+pour éviter la contamination croisée lorsqu'ils procèdent au chargement de
+conteneurs à usages multiples.
 
-Les Etats doivent, autant que faire se peut, accorder la libre pratique par
-radio à un navire ou à un aéronef lorsque, se fondant sur les renseignements
-qu'il fournit avant son arrivée, l'autorité sanitaire du port ou de l'aéroport
-vers lequel il se dirige estime qu'il n'apportera pas une maladie soumise au
-Règlement ou n'en favorisera pas la propagation.
 
-Article 36 (21)
+TITRE VI
 
-1. L'autorité sanitaire d'un port, d'un aéroport ou d'un poste frontière peut
-soumettre à la visite médicale à l'arrivée tout navire, aéronef, train, véhicule
-routier, autre moyen de transport ou conteneur, ainsi que toute personne
-effectuant un voyage international.
+DOCUMENTS SANITAIRES
 
-2. Les mesures sanitaires supplémentaires applicables à un navire, aéronef,
-train, véhicule routier, autre moyen de transport ou conteneur sont déterminées
-par les conditions ayant existé à bord pendant le voyage ou y existant au moment
-de la visite médicale, sans préjudice, toutefois, des mesures que le présent
-Règlement permet d'appliquer à un navire, aéronef, train, véhicule routier,
-autre moyen de transport ou conteneur provenant d'une zone infectée.
 
-3. Dans un pays où l'administration sanitaire doit faire face à des difficultés
-spéciales qui peuvent constituer un grave danger pour la santé publique, il peut
-être exigé de toute personne effectuant un voyage international qu'elle indique
-par écrit, à l'arrivée, son adresse de destination.
+Article 35
+
+Règle générale
+
+Aucun document sanitaire autre que ceux prévus par le présent Règlement ou par
+des recommandations de l'OMS n'est exigé dans le trafic international, étant
+toutefois entendu que le présent article ne s'applique pas aux voyageurs
+sollicitant une autorisation de résidence temporaire ou permanente, et qu'il ne
+s'applique pas non plus aux documents relatifs à l'état, au regard de la santé
+publique, des marchandises ou cargaisons entrant dans le commerce international
+exigés par les accords internationaux applicables. L'autorité compétente peut
+exiger des voyageurs qu'ils remplissent des formulaires de renseignements sur
+leurs contacts et des questionnaires de santé, pour autant que soient réunies
+les conditions énoncées à l'article 23.
+
+
+Article 36
+
+Certificats de vaccination ou autres mesures de prophylaxie
+
+1. Les vaccins et mesures de prophylaxie administrés aux voyageurs en
+application du présent Règlement ou de recommandations, et les certificats y
+afférents, doivent être conformes aux dispositions de l'annexe 6 et, s'il y a
+lieu, de l'annexe 7 concernant certaines maladies.
+
+2. Un voyageur muni d'un certificat de vaccination ou d'un certificat attestant
+une autre mesure de prophylaxie délivré conformément aux dispositions de
+l'annexe 6 et, s'il y a lieu, de l'annexe 7, ne peut être refoulé du fait de la
+maladie visée par le certificat, même s'il vient d'une zone affectée, à moins
+que l'autorité compétente n'ait des indications vérifiables et/ou des éléments
+établissant que la vaccination ou la mesure de prophylaxie n'a pas eu d'effet.
 
 
 Article 37
 
-L'application des mesures prévues au titre V qui dépendent du fait qu'un navire,
-un aéronef, un train, un véhicule routier ou autre moyen de transport, une
-personne, un conteneur ou des objets proviennent d'une zone infectée, telle
-qu'elle a été notifiée par l'administration sanitaire intéressée, sera limitée
-aux provenances effectives de cette zone. Cette limitation est subordonnée à la
-condition que l'autorité sanitaire de la zone infectée prenne toutes les mesures
-nécessaires pour empêcher la propagation de la maladie et applique les mesures
-visées au paragraphe 1 de l'article 30.
+Déclaration maritime de santé
 
-Article 38 (22)
+1. Avant sa première escale sur le territoire d'un Etat Partie, le capitaine
+d'un navire s'assure de l'état de santé à bord et, à moins que cet Etat Partie
+ne l'exige pas, il remplit et remet à l'autorité compétente du port, à l'arrivée
+ou avant l'arrivée du navire si celui-ci est doté de l'équipement voulu et si
+l'Etat Partie exige qu'elle lui soit remise à l'avance, une Déclaration maritime
+de santé qui est contresignée par le médecin de bord, s'il y en a un.
 
-A l'arrivée d'un navire, aéronef, train, véhicule routier ou autre moyen de
-transport, toute personne infectée peut être débarquée et isolée par l'autorité
-sanitaire. Le débarquement par l'autorité sanitaire est obligatoire s'il est
-requis par la personne responsable du moyen de transport.
+2. Le capitaine ou, s'il y en a un, le médecin de bord, fournit à l'autorité
+compétente tous les renseignements sur l'état de santé à bord au cours du voyage
+international.
+
+3. La Déclaration maritime de santé doit être conforme au modèle présenté à
+l'annexe 8.
+
+4. Un Etat Partie peut décider :
+
+a) De ne pas exiger de tous les navires à l'arrivée qu'ils présentent la
+Déclaration maritime de santé ; ou
+
+b) D'exiger la présentation de la Déclaration maritime de santé en application
+d'une recommandation concernant les navires en provenance de zones affectées ou
+de l'exiger des navires pouvant être autrement porteurs d'une source d'infection
+ou de contamination.
+
+L'Etat Partie informe les exploitants de navires ou leurs représentants de ces
+prescriptions.
+
+
+Article 38
+
+Partie de la Déclaration générale d'aéronef
+
+relative aux questions sanitaires
+
+1. En vol ou à l'atterrissage sur le premier aéroport du territoire d'un Etat
+Partie, le commandant de bord d'un aéronef ou son représentant remplit de son
+mieux et remet à l'autorité compétente de cet aéroport, à moins que cet Etat
+Partie ne l'exige pas, la partie de la Déclaration générale d'aéronef relative
+aux questions sanitaires, qui doit être conforme au modèle présenté à l'annexe
+9.
+
+2. Le commandant de bord d'un aéronef ou son représentant fournit à l'Etat
+Partie tous les renseignements qu'il demande sur l'état de santé à bord au cours
+du voyage international et sur les mesures sanitaires éventuellement appliquées
+à l'aéronef.
+
+3. Un Etat Partie peut décider :
+
+a) De ne pas exiger de tous les aéronefs à l'arrivée qu'ils présentent la partie
+de la Déclaration générale d'aéronef relative aux questions sanitaires ; ou
+
+b) D'exiger la présentation de la partie de la Déclaration générale d'aéronef
+relative aux questions sanitaires en application d'une recommandation concernant
+les aéronefs en provenance de zones affectées ou de l'exiger des aéronefs
+pouvant être autrement porteurs d'une source d'infection ou de contamination.
+
+L'Etat Partie informe les exploitants d'aéronefs ou leurs représentants de ces
+prescriptions.
 
 
 Article 39
 
-1. Outre l'application des dispositions du titre V, l'autorité sanitaire peut
-soumettre à la surveillance tout suspect qui, au cours d'un voyage
-international, arrive, par quelque moyen que ce soit, en provenance d'une zone
-infectée ; cette surveillance peut être maintenue jusqu'à la fin de la période
-d'incubation, telle que déterminée dans le titre V.
+Certificats de contrôle sanitaire de navire
 
-2. Sauf dans les cas expressément prévus au présent Règlement, l'isolement ne
-remplace la surveillance que si l'autorité sanitaire considère comme
-exceptionnellement sérieux le danger de transmission de l'infection par le
-suspect.
+1. Les certificats d'exemption de contrôle sanitaire de navire et les
+certificats de contrôle sanitaire de navire sont valables six mois au maximum.
+Cette durée de validité peut être prolongée d'un mois si l'inspection ou les
+mesures de lutte requises ne peuvent pas être effectuées au port.
+
+2. Si un certificat d'exemption de contrôle sanitaire de navire ou un certificat
+de contrôle sanitaire de navire valable ne peut être produit ou si l'existence à
+bord d'un risque pour la santé publique est établie, l'Etat Partie peut procéder
+comme indiqué au paragraphe 1 de l'article 27.
+
+3. Les certificats visés au présent article doivent être conformes au modèle
+figurant à l'annexe 3.
+
+4. Chaque fois que possible, les mesures de lutte sont mises en œuvre lorsque le
+navire et les cales sont vides. Si le navire est sur lest, elles sont effectuées
+avant le chargement.
+
+5. Lorsque des mesures de lutte sont requises et qu'elles ont été mises en œuvre
+de façon satisfaisante, l'autorité compétente délivre un certificat de contrôle
+sanitaire de navire, dans lequel sont notés les signes constatés et les mesures
+de lutte appliquées.
+
+6. L'autorité compétente peut délivrer un certificat d'exemption de contrôle
+sanitaire de navire dans tout port visé à l'article 20 si elle a la conviction
+que le navire est exempt d'infection et de contamination, notamment de vecteurs
+et de réservoirs. Un tel certificat n'est normalement délivré que si
+l'inspection du navire a été effectuée alors que le navire et les cales étaient
+vides ou ne contenaient que du lest ou d'autre matériel de telle nature ou
+disposé de telle façon qu'une inspection complète des cales était possible.
+
+7. Si les conditions dans lesquelles les mesures de lutte sont appliquées sont
+telles que, de l'avis de l'autorité compétente du port où l'opération est
+pratiquée, un résultat satisfaisant ne peut être obtenu, l'autorité compétente
+fait figurer une note à cet effet sur le certificat de contrôle sanitaire de
+navire.
+
+
+TITRE VII
+
+DROITS
 
 
 Article 40
 
-Les mesures sanitaires, autres que la visite médicale, prises dans un port ou un
-aéroport ne sont renouvelées dans aucun des ports ou aéroports ultérieurement
-touchés par le navire ou l'aéronef, à moins que :
+Droits perçus au titre des mesures sanitaires
 
-a) Après le départ du port ou de l'aéroport où les mesures ont été appliquées,
-il ne se soit produit, dans ce port ou aéroport, ou à bord du navire ou de
-l'aéronef, un fait de caractère épidémiologique susceptible d'entraîner une
-nouvelle application de ces mesures ;
+concernant les voyageurs
 
-b) L'autorité sanitaire de l'un des ports ou aéroports ultérieurement touchés ne
-se soit assurée que les mesures prises n'avaient pas été appliquées d'une
-manière vraiment efficace.
+1. Excepté pour les voyageurs qui sollicitent une autorisation de résidence
+temporaire ou permanente, et sous réserve du paragraphe 2 du présent article,
+l'Etat Partie ne perçoit pas d'autres droits en vertu du présent Règlement pour
+les mesures de protection de la santé publique suivantes :
+
+a) Tout examen médical prévu par le présent Règlement, ou tout examen
+complémentaire, qui peut être exigé par l'Etat Partie pour s'assurer de l'état
+de santé du voyageur examiné ;
+
+b) Toute vaccination ou autre mesure de prophylaxie administrée à un voyageur à
+l'arrivée, qui ne fait pas l'objet d'une prescription publiée ou qui a fait
+l'objet d'une prescription publiée moins de dix jours avant l'administration de
+la vaccination ou d'une autre mesure de prophylaxie ;
+
+c) Mesures appropriées d'isolement ou de quarantaine imposées à un voyageur ;
+
+d) Tout certificat délivré au voyageur stipulant les mesures appliquées et la
+date d'application ; ou
+
+e) Toute mesure sanitaire concernant les bagages accompagnant les voyageurs.
+
+2. Les Etats Parties peuvent percevoir des droits pour des mesures sanitaires
+autres que celles visées au paragraphe 1 du présent article, y compris celles
+appliquées principalement dans l'intérêt du voyageur.
+
+3. Si des droits sont perçus pour l'application de ces mesures sanitaires aux
+voyageurs en vertu du présent Règlement, il ne doit y avoir dans chaque Etat
+Partie qu'un seul tarif pour ces droits, qui tous :
+
+a) Sont conformes à ce tarif ;
+
+b) Ne dépassent pas le coût effectif du service fourni ; et
+
+c) Sont perçus quels que soient la nationalité, le domicile ou le lieu de
+résidence des voyageurs concernés.
+
+4. Le tarif, et toute modification pouvant y être apportée, est publié au moins
+dix jours avant la perception de tout droit y figurant.
+
+5. Aucune disposition du présent Règlement n'empêche les Etats Parties de
+solliciter le remboursement des dépenses encourues du fait des mesures
+sanitaires visées au paragraphe 1 du présent article :
+
+a) Auprès des exploitants ou des propriétaires de moyens de transport en ce qui
+concerne leurs employés ; ou
+
+b) Auprès des assureurs concernés.
+
+6. Les voyageurs ou les exploitants de moyens de transport ne peuvent en aucun
+cas se voir refuser la possibilité de quitter le territoire d'un Etat Partie en
+attendant le règlement des droits visés aux paragraphes 1 et 2 du présent
+article.
 
 
 Article 41
 
-Sous réserve des dispositions de l'article 73, les navires ou aéronefs ne
-peuvent, pour des motifs sanitaires, se voir refuser l'accès d'un port ou d'un
-aéroport. Toutefois, si le port ou l'aéroport n'est pas outillé pour appliquer
-telles mesures sanitaires permises par le présent Règlement, mesures que
-l'autorité sanitaire du port ou de l'aéroport estime nécessaires, ces navires ou
-aéronefs peuvent être mis dans l'obligation de se rendre à leurs risques au port
-ou à l'aéroport qualifié le plus proche qui leur convient le mieux.
+Droits perçus sur les bagages, les cargaisons, les conteneurs, les moyens de
+transport, les marchandises ou les colis postaux
+
+1. Si des droits sont perçus pour l'application de mesures sanitaires aux
+bagages, cargaisons, conteneurs, moyens de transport, marchandises ou colis
+postaux en vertu du présent Règlement, il ne doit y avoir dans chaque Etat
+Partie qu'un seul tarif pour ces droits, qui tous :
+
+a) Sont conformes à ce tarif ;
+
+b) Ne dépassent pas le coût effectif du service fourni ; et
+
+c) Sont perçus quels que soient la nationalité, le pavillon, l'immatriculation
+ou le propriétaire des bagages, cargaisons, conteneurs, moyens de transport,
+marchandises ou colis postaux concernés. En particulier, aucune distinction
+n'est faite entre les bagages, cargaisons, conteneurs, moyens de transport,
+marchandises ou colis postaux nationaux et étrangers.
+
+2. Le tarif, et toute modification pouvant y être apportée, est publié au moins
+dix jours avant la perception de tout droit y figurant.
+
+
+TITRE VIII
+
+DISPOSITIONS GÉNÉRALES
 
 
 Article 42
 
-Un aéronef n'est pas considéré comme provenant d'une zone infectée du seul fait
-qu'il a atterri dans une telle zone sur un ou des aéroports sanitaires n'étant
-pas eux-mêmes des zones infectées.
+Mise en œuvre des mesures sanitaires
+
+Les mesures sanitaires prises en vertu du présent Règlement sont mises en œuvre
+et menées à bien sans retard et appliquées de manière transparente et non
+discriminatoire.
 
 
 Article 43
 
-Les personnes arrivant à bord d'un aéronef indemne ayant atterri dans une zone
-infectée et dont les passagers, ainsi que l'équipage, se sont conformés aux
-conditions de l'article 34 ne sont pas considérées comme étant en provenance
-d'une telle zone.
+Mesures sanitaires supplémentaires
+
+1. Le présent Règlement n'empêche pas les Etats Parties d'appliquer, dans le but
+de faire face à des risques particuliers pour la santé publique ou à des
+urgences de santé publique de portée internationale, des mesures sanitaires
+conformes à leur législation nationale applicable et aux obligations que leur
+impose le droit international qui :
+
+a) Assurent un niveau de protection de la santé identique ou supérieur aux
+recommandations de l'OMS ; ou
+
+b) Sont par ailleurs interdites par l'article 25, l'article 26, les paragraphes
+1 et 2 de l'article 28, l'article 30, le paragraphe 1 c de l'article 31 et
+l'article 33,
+
+pour autant que ces mesures soient autrement compatibles avec le présent
+Règlement.
+
+Ces mesures ne doivent pas être plus restrictives pour le trafic international
+ni plus intrusives ou invasives pour les personnes que les autres mesures
+raisonnablement applicables qui permettraient d'assurer le niveau approprié de
+protection de la santé.
+
+2. Les Etats Parties fondent leur décision d'appliquer les mesures sanitaires
+visées au paragraphe 1 du présent article ou les autres mesures sanitaires
+visées au paragraphe 2 de l'article 23, au paragraphe 1 de l'article 27, au
+paragraphe 2 de l'article 28 et au paragraphe 2 c de l'article 31 sur :
+
+a) Des principes scientifiques ;
+
+b) Les éléments scientifiques disponibles indiquant un risque pour la santé
+humaine ou, si ces éléments sont insuffisants, les informations disponibles,
+émanant notamment de l'OMS et d'autres organisations intergouvernementales et
+organismes internationaux compétents ; et
+
+c) Tout conseil ou avis spécifique disponible émis par l'OMS.
+
+3. Un Etat Partie qui applique les mesures sanitaires supplémentaires visées au
+paragraphe 1 du présent article, qui entravent de manière importante le trafic
+international, fournit à l'OMS les raisons de santé publique et les informations
+scientifiques qui la justifient. L'OMS communique ces informations à d'autres
+Etats Parties et communique les informations concernant les mesures sanitaires
+appliquées. Aux fins du présent article, entrave importante s'entend
+généralement du refus de laisser entrer ou partir les voyageurs internationaux,
+les bagages, les cargaisons, les conteneurs, les moyens de transport, les
+marchandises et objets assimilés, ou du report de plus de 24 heures de leur
+entrée ou de leur départ.
+
+4. Après avoir évalué les informations fournies en application des paragraphes 3
+et 5 du présent article et les autres informations pertinentes, l'OMS peut
+demander à l'Etat Partie concerné de réexaminer l'opportunité d'appliquer les
+mesures.
+
+5. Un Etat Partie qui applique les mesures sanitaires supplémentaires visées aux
+paragraphe 1 et 2 du présent article qui entravent de manière importante le
+trafic international informe l'OMS, dans les 48 heures qui suivent leur mise en
+œuvre, de ces mesures et de leur justification sanitaire à moins qu'elles ne
+fassent l'objet d'une recommandation temporaire ou permanente.
+
+6. Un Etat Partie qui applique une mesure sanitaire en vertu du paragraphe 1 ou
+du paragraphe 2 du présent article la réexamine dans un délai de trois mois en
+tenant compte de l'avis de l'OMS et des critères énoncés au paragraphe 2 du
+présent article.
+
+7. Sans préjudice des droits que lui confère l'article 56, tout Etat Partie qui
+subit les conséquences d'une mesure prise en vertu du paragraphe 1 ou du
+paragraphe 2 du présent article peut demander à l'Etat Partie qui applique cette
+mesure de le consulter pour lui apporter des éclaircissements sur les
+informations scientifiques et les raisons de santé publique à l'origine de la
+mesure et trouver une solution acceptable pour les deux Etats Parties.
+
+8. Les dispositions du présent article peuvent s'appliquer à la mise en œuvre de
+mesures concernant des voyageurs prenant part à des rassemblements importants.
 
 
 Article 44
 
-1. Sauf dans les cas prévus au paragraphe 2 ci-dessous, tout navire ou aéronef
-qui, à l'arrivée, refuse de se soumettre aux mesures prescrites, en application
-du présent Règlement, par l'autorité sanitaire du port ou de l'aéroport est
-libre de poursuivre immédiatement son voyage ; il ne peut, dans ce cas, au cours
-de ce voyage, faire escale dans aucun autre port ou aéroport du même territoire.
-A la condition qu'il demeure en quarantaine, ce navire ou aéronef est néanmoins
-autorisé à prendre à bord du combustible ou des carburants, de l'eau potable,
-des vivres de consommation et des approvisionnements. Si, après visite médicale,
-ce navire est reconnu indemne, il conserve le bénéfice des dispositions de
-l'article 33.
+Collaboration et assistance
 
-2. Toutefois, sont soumis, par l'autorité sanitaire du port ou de l'aéroport,
-aux mesures prescrites en application du présent Règlement et ne sont pas libres
-de poursuivre immédiatement leur voyage, dans le cas où ils arrivent dans un
-port ou un aéroport d'une zone où le vecteur de la fièvre jaune est présent :
+1. Les Etats Parties s'engagent à collaborer entre eux, dans la mesure du
+possible, pour :
 
-a) Les aéronefs infectés de fièvre jaune ;
+a) Détecter et évaluer les événements, et y faire face conformément au présent
+Règlement ;
 
-b) Les navires infectés de fièvre jaune, si Aedes aegypti a été décelé à bord et
-si la visite médicale démontre qu'une personne infectée n'a pas été isolée en
-temps opportun.
+b) Assurer ou faciliter la coopération technique et l'apport d'un soutien
+logistique, en particulier pour l'acquisition, le renforcement et le maintien
+des capacités de santé publique conformément au présent Règlement ;
+
+c) Mobiliser des ressources financières pour faciliter l'application de leurs
+obligations au titre du présent Règlement ; et
+
+d) Formuler des projets de loi et d'autres dispositions juridiques et
+administratives aux fins de l'application du présent Règlement.
+
+2. L'OMS collabore, dans la mesure du possible, avec les Etats Parties pour :
+
+a) Evaluer et apprécier leurs capacités de santé publique afin de faciliter
+l'application efficace du présent Règlement ;
+
+b) Assurer ou faciliter la coopération technique et l'apport d'un soutien
+logistique aux Etats Parties ; et
+
+c) Mobiliser des ressources financières qui aideront les pays en développement à
+acquérir, renforcer et maintenir les capacités prévues à l'annexe 1.
+
+3. La collaboration prévue par le présent article peut être mise en œuvre à de
+multiples niveaux, y compris bilatéralement, par le biais de réseaux régionaux
+et des bureaux régionaux de l'OMS, et par l'intermédiaire d'organisations
+intergouvernementales et organismes internationaux.
 
 
 Article 45
 
-1. Si, pour des raisons indépendantes de la volonté de son commandant, un
-aéronef atterrit ailleurs que sur un aéroport ou sur un aéroport autre que celui
-où il devait normalement atterrir, le commandant de l'aéronef, ou son délégué,
-s'efforce d'entrer en contact sans délai avec l'autorité sanitaire la plus
-proche ou avec toute autre autorité publique.
+Traitement des données à caractère personnel
 
-2. Dès que l'autorité sanitaire est avisée de cet atterrissage, elle peut
-prendre les dispositions appropriées, sans outrepasser, en aucun cas, les
-mesures permises par le présent Règlement.
+1. Les informations sanitaires recueillies ou reçues par un Etat Partie d'un
+autre Etat Partie ou de l'OMS en application du présent Règlement et qui se
+rapportent à une personne identifiée ou identifiable sont tenues confidentielles
+et traitées de façon anonyme comme le prévoit la législation nationale.
 
-3. Sous réserve des dispositions du paragraphe 5 du présent article, les
-personnes qui se trouvaient à bord ne peuvent, sauf pour entrer en communication
-avec l'autorité sanitaire ou toute autre autorité publique, ou avec la
-permission de celles-ci, quitter le voisinage du lieu d'atterrissage, et les
-marchandises ne doivent pas en être éloignées.
+2. Nonobstant le paragraphe 1, les Etats Parties peuvent divulguer et utiliser
+des données à caractère personnel si cela est nécessaire pour évaluer et gérer
+un risque pour la santé publique, mais les Etats Parties, conformément à la
+législation nationale, et l'OMS veillent à ce que ces données :
 
-4. Lorsque les mesures éventuellement prescrites par l'autorité sanitaire ont
-été exécutées, l'aéronef est admis, du point de vue sanitaire, à se diriger vers
-l'aéroport où il devait normalement atterrir ou, si des raisons techniques s'y
-opposent, vers un aéroport à sa convenance.
+a) Soient traitées en toute impartialité et dans le respect de la légalité et ne
+soient pas utilisées d'une manière incompatible avec ce but ;
 
-5. En cas d'urgence, le commandant de l'aéronef, ou son délégué, prend toutes
-mesures que nécessitent la santé et la sécurité des passagers et de l'équipage.
+b) Soient adéquates, pertinentes et n'excèdent pas ce qui est nécessaire dans ce
+but ;
 
-Chapitre V : Mesures concernant le transport international des cargaisons, des
-marchandises, des bagages et du courrier
+c) Soient exactes et, s'il y a lieu, actualisées ; toutes les dispositions
+raisonnables doivent être prises pour garantir que les données inexactes ou
+incomplètes sont effacées ou rectifiées ;
 
-Article 46 (23)
+d) Ne soient pas conservées plus longtemps qu'il n'est nécessaire.
 
-1. Les cargaisons et marchandises ne sont soumises aux mesures sanitaires
-prévues au présent Règlement que si elles proviennent de zones infectées et si
-l'autorité sanitaire a des raisons de croire que ces cargaisons et marchandises
-peuvent avoir été contaminées par l'agent causal d'une des maladies soumises au
-Règlement ou constituer un facteur de propagation de l'une de ces maladies.
+3. L'OMS fournit, dans la mesure du possible, à l'intéressé qui en fait la
+demande les données à caractère personnel le concernant visées au présent
+article, sous une forme intelligible, sans délais ou frais excessifs, et, si
+nécessaire, permet d'y apporter des corrections.
 
-2. Les marchandises, autres que les animaux vivants, qui passent en transit sans
-transbordement ne sont soumises à aucune mesure sanitaire ni retenues aux ports,
-aéroports ou stations frontières.
 
-3. La délivrance d'un certificat de désinfection pour les marchandises faisant
-l'objet d'un commerce entre deux pays peut être réglée par des arrangements
-bilatéraux entre le pays exportateur et le pays importateur.
+Article 46
+
+Transport et manipulation de substances biologiques, réactifs
+
+et matériels utilisés à des fins diagnostiques
+
+Dans le respect de la législation nationale et des principes directeurs
+internationaux qui s'appliquent, les Etats Parties facilitent le transport,
+l'entrée, la sortie, le traitement et l'élimination des substances biologiques,
+échantillons diagnostiques, réactifs et autres matériels diagnostiques aux fins
+de la vérification et de l'action requises par le présent Règlement.
+
+
+TITRE IX
+
+LISTE D'EXPERTS DU RSI, COMITÉ D'URGENCE ET COMITÉ D'EXAMEN
+
+
+Chapitre Ier
+
+Liste d'experts du RSI
 
 
 Article 47
 
-Sauf dans le cas d'une personne infectée ou d'un suspect, les bagages ne peuvent
-être désinfectés ou désinsectisés que s'ils appartiennent à une personne qui
-transporte du matériel infectieux ou sur laquelle sont trouvés des insectes
-vecteurs d'une maladie soumise au Règlement.
+Composition
+
+Le Directeur général établit une liste d'experts de tous les domaines de
+compétence pertinents (ci-après dénommée Liste d'experts du RSI ). Sauf si le
+présent Règlement en dispose autrement, le Directeur général nomme les membres
+de la Liste d'experts du RSI conformément au Règlement applicable aux tableaux
+et comités d'experts de l'OMS (ci-après dénommé le Règlement applicable aux
+tableaux d'experts de l'OMS ). De plus, il nomme un membre à la demande de
+chaque Etat Partie et, le cas échéant, des experts proposés par les
+organisations intergouvernementales et les organisations d'intégration
+économique régionale compétentes. Les Etats Parties intéressés communiquent au
+Directeur général les qualifications et le domaine de compétence de chaque
+expert qu'ils proposent. Le Directeur général informe périodiquement les Etats
+Parties et les organisations intergouvernementales et organisations
+d'intégration économique régionale compétentes de la composition de la Liste
+d'experts du RSI.
+
+
+Chapitre II
+
+Le Comité d'urgence
 
 
 Article 48
 
-1. Aucune mesure sanitaire n'est prise à l'égard du courrier, des journaux,
-livres et autres imprimés.
+Mandat et composition
 
-2. Les colis postaux ne sont soumis à des mesures sanitaires que s'ils
-contiennent :
+1. Le Directeur général crée un Comité d'urgence qui, à la demande du Directeur
+général, donne son avis sur :
 
-a) Des aliments visés à l'article 63 que l'autorité sanitaire a des raisons de
-croire contaminés du fait de leur provenance d'une zone infectée de choléra ;
+a) La question de savoir si un événement constitue une urgence de santé publique
+de portée internationale ;
 
-b) Du linge, des vêtements ou de la literie ayant servi ou qui sont souillés et
-auxquels sont applicables les dispositions du titre V ;
+b) La question de savoir si une urgence de santé publique de portée
+internationale a pris fin ; et
 
-c) Du matériel infectieux, ou
+c) La proposition d'émettre, de modifier, de proroger ou d'annuler des
+recommandations temporaires.
 
-d) Des insectes ou autres animaux vivants qui pourraient être vecteurs de
-maladies humaines une fois introduits ou fixés dans le pays.
+2. Le Comité d'urgence est composé d'experts choisis par le Directeur général
+parmi les membres de la Liste d'experts du RSI et, s'il y a lieu, d'autres
+tableaux d'experts de l'Organisation. Le Directeur général détermine la durée du
+mandat des membres afin d'assurer la continuité de l'examen d'un événement
+particulier et de ses conséquences. Le Directeur général choisit les membres du
+Comité d'urgence sur la base des compétences et de l'expérience requises pour
+une séance particulière et en tenant dûment compte des principes d'une
+représentation géographique équitable. L'un au moins des membres du Comité
+d'urgence devrait être un expert désigné par un Etat Partie sur le territoire
+duquel l'événement survient.
+
+3. Le Directeur général peut, de sa propre initiative ou à la demande du Comité
+d'urgence, nommer un ou plusieurs experts techniques pour conseiller le Comité.
 
 
 Article 49
 
-L'administration sanitaire veille, dans toute la mesure du possible, à ce que
-les conteneurs utilisés dans le trafic international par chemin de fer, route,
-mer ou air restent, pendant les opérations d'emballage, exempts de matériel
-infectieux, de vecteurs ou de rongeurs.
+Procédure
 
-TITRE V : DISPOSITIONS PROPRES À CHACUNE DES MALADIES SOUMISES AU RÈGLEMENT
+1. Le Directeur général convoque les réunions du Comité d'urgence en choisissant
+plusieurs experts parmi ceux visés au paragraphe 2 de l'article 48, en fonction
+des domaines de compétence et de l'expérience qui correspondent le mieux à
+l'événement spécifique qui est en train de se produire. Aux fins du présent
+article, les réunions du Comité d'urgence peuvent désigner des téléconférences,
+visioconférences ou communications électroniques.
 
-Chapitre Ier : Peste
+2. Le Directeur général communique au Comité d'urgence l'ordre du jour et toute
+information pertinente concernant l'événement, y compris les informations
+fournies par les Etats Parties, ainsi que toute recommandation temporaire que le
+Directeur général se propose de formuler.
+
+3. Le Comité d'urgence élit son Président et, après chaque réunion, établit un
+rapport succinct de ses débats et délibérations dans lequel il fait figurer ses
+avis sur d'éventuelles recommandations.
+
+4. Le Directeur général invite l'Etat Partie sur le territoire duquel
+l'événement se produit à présenter ses vues au Comité d'urgence. A cet effet, le
+Directeur général l'informe aussi longtemps à l'avance que nécessaire, de la
+date et de l'ordre du jour de la réunion du Comité d'urgence. L'Etat Partie
+concerné ne peut cependant pas demander l'ajournement de la réunion du Comité
+d'urgence pour lui exposer ses vues.
+
+5. L'avis du Comité d'urgence est communiqué au Directeur général pour examen.
+Le Directeur général décide en dernier ressort.
+
+6. Le Directeur général informe les Etats Parties de sa décision de déclarer
+qu'il existe une urgence de santé publique de portée internationale ou qu'elle a
+pris fin et leur fait part de toute mesure sanitaire prise par l'Etat Partie
+concerné, des recommandations temporaires éventuelles et de leur modification,
+prorogation ou annulation, ainsi que de l'avis du Comité d'urgence. Il informe
+également de ces recommandations temporaires, y compris de leur modification,
+prorogation ou annulation, les exploitants de moyens de transport, par
+l'intermédiaire des Etats Parties et des organismes internationaux compétents.
+Il diffuse ensuite ces informations et recommandations dans le grand public.
+
+7. Les Etats Parties sur le territoire desquels l'événement s'est produit
+peuvent proposer au Directeur général de mettre fin à une urgence de santé
+publique de portée internationale et/ou aux recommandations temporaires, et
+peuvent présenter un exposé à cet effet au Comité d'urgence.
+
+
+Chapitre III
+
+Le Comité d'examen
 
 
 Article 50
 
-Aux fins du présent Règlement, la période d'incubation de la peste est fixée à
-six jours.
+Mandat et composition
+
+1. Le Directeur général crée un Comité d'examen qui exerce les fonctions
+suivantes :
+
+a) Adresser des recommandations techniques au Directeur général concernant des
+amendements au présent Règlement ;
+
+b) Donner au Directeur général des avis techniques concernant les
+recommandations permanentes et toute modification ou annulation de celles-ci ;
+
+c) Donner des avis techniques au Directeur général sur toute question dont il
+est saisi par celui-ci concernant le fonctionnement du présent Règlement.
+
+2. Le Comité d'examen est considéré comme un comité d'experts et est assujetti
+au Règlement applicable aux tableaux d'experts de l'OMS, sauf si le présent
+article en dispose autrement.
+
+3. Les membres du Comité d'examen sont choisis et nommés par le Directeur
+général parmi les personnes inscrites sur la Liste d'experts du RSI et, s'il y a
+lieu, à d'autres tableaux d'experts de l'Organisation.
+
+4. Le Directeur général fixe le nombre de membres à inviter à une réunion du
+Comité d'examen, ainsi que la date et la durée de la réunion, et il convoque le
+Comité.
+
+5. Le Directeur général nomme les membres du Comité d'examen pour la durée des
+travaux d'une session seulement.
+
+6. Le Directeur général choisit les membres du Comité d'examen sur la base des
+principes d'une représentation géographique équitable, de la parité entre les
+sexes, d'une représentation équilibrée des pays développés et des pays en
+développement, de la représentation des différents courants de pensée, approches
+et expériences pratiques dans les diverses régions du monde, et d'un équilibre
+interdisciplinaire approprié.
 
 
 Article 51
 
-La vaccination contre la peste ne constitue pas une condition mise à l'admission
-d'une personne dans un territoire.
+Conduite des travaux
+
+1. Les décisions du Comité d'examen sont prises à la majorité des membres
+présents et votants.
+
+2. Le Directeur général invite les Etats Membres, l'Organisation des Nations
+Unies et ses institutions spécialisées et d'autres organisations
+intergouvernementales ou organisations non gouvernementales compétentes en
+relations officielles avec l'OMS à désigner des représentants pour assister aux
+sessions du Comité. Ces représentants peuvent soumettre des mémorandums et, avec
+l'accord du Président, faire des déclarations sur les sujets à l'examen. Ils
+n'ont pas le droit de vote.
 
 
 Article 52
 
-1. Les Etats emploient tous les moyens en leur pouvoir pour diminuer le danger
-de propagation de la peste par les rongeurs et leurs ectoparasites. Leurs
-administrations sanitaires se tiennent constamment renseignées, par la collecte
-systématique et l'examen régulier des rongeurs et de leurs ectoparasites, sur la
-situation existant dans les zones - les ports et aéroports notamment - infectées
-de peste des rongeurs ou suspectes de l'être.
+Rapports
 
-2. Pendant le séjour d'un navire ou aéronef dans un port ou aéroport infecté de
-peste, des mesures spéciales sont prises pour éviter que des rongeurs ne
-pénètrent à bord.
+1. Pour chaque session, le Comité d'examen établit un rapport exposant ses avis
+et conseils. Ce rapport est approuvé par le Comité avant la fin de la session.
+Ces avis et conseils n'engagent pas l'Organisation et sont présentés sous la
+forme de conseils adressés au Directeur général. Le texte du rapport ne peut pas
+être modifié sans l'accord du Comité.
 
-Article 53 (24)
+2. Si les conclusions du Comité d'examen ne sont pas unanimes, tout membre a le
+droit d'exprimer un ou des avis professionnels divergents dans un rapport
+individuel ou de groupe, qui indique les raisons pour lesquelles une opinion
+dissidente est formulée et qui fait partie du rapport du Comité.
 
-1. Les navires sont :
+3. Le rapport du Comité est soumis au Directeur général, qui communique les avis
+et conseils du Comité à l'Assemblée de la Santé ou au Conseil exécutif pour
+examen et suite à donner.
 
-a) Maintenus de façon permanente dans des conditions telles qu'il n'y ait à bord
-ni rongeurs ni vecteurs de la peste, ou
 
-b) Périodiquement dératisés.
+Article 53
 
-2. Les certificats de dératisation et les certificats d'exemption de la
-dératisation sont délivrés exclusivement par les autorités sanitaires des ports
-agréés à cette fin aux termes de l'article 17. La durée de validité de ces
-certificats est de six mois. Toutefois, cette durée peut être prolongée d'un
-mois pour les navires se dirigeant vers un port ainsi agréé, s'il est prévu que
-les opérations de dératisation ou l'inspection, selon le cas, peuvent s'y
-effectuer dans de meilleures conditions.
+Procédure applicable aux recommandations permanentes
 
-3. Les certificats de dératisation et les certificats d'exemption de la
-dératisation sont conformes au modèle donné à l'Appendice 1.
+Lorsque le Directeur général considère qu'une recommandation permanente est
+nécessaire et appropriée face à un risque pour la santé publique, il sollicite
+les vues du Comité d'examen. Outre les paragraphes pertinents des articles 50 à
+52, les dispositions suivantes sont applicables :
 
-4. Si aucun certificat valable ne lui est présenté, l'autorité sanitaire d'un
-port agréé aux termes de l'article 17 peut, après enquête et inspection :
+a) Le Directeur général ou, par son intermédiaire, les Etats Parties peuvent
+soumettre au Comité d'examen des propositions concernant la formulation, la
+modification ou l'annulation de recommandations permanentes ;
 
-a) Dans le cas d'un port de la catégorie visée au paragraphe 2 de l'article 17,
-dératiser elle-même le navire ou faire effectuer cette opération sous sa
-direction et son contrôle. Elle décide, dans chaque cas, de la technique à
-employer pour assurer la destruction des rongeurs sur le navire. La dératisation
-s'effectue de manière à éviter, autant que possible, tout dommage au navire et à
-la cargaison : elle ne doit pas durer plus du temps strictement nécessaire pour
-sa bonne exécution. L'opération a lieu, autant que faire se peut, en cales
-vides. Pour les navires sur lest, elle s'effectue avant chargement. Quand la
-dératisation a été exécutée à sa satisfaction, l'autorité sanitaire délivre un
-certificat de dératisation ;
+b) Tout Etat Partie peut soumettre au Comité d'examen des informations
+pertinentes pour examen ;
 
-b) Dans tout port agréé aux termes de l'article 17, délivrer un certificat
-d'exemption de la dératisation si elle s'est rendu compte que le navire est
-exempt de rongeurs. Ce certificat n'est délivré que si l'inspection du navire a
-été faite en cales vides, ou encore si celles-ci ne contiennent que du lest ou
-des objets non susceptibles d'attirer les rongeurs et dont la nature ou
-l'arrimage permettent l'inspection complète des cales. Les pétroliers dont les
-citernes sont pleines peuvent recevoir le certificat d'exemption de la
-dératisation.
+c) Le Directeur général peut demander à tout Etat Partie, toute organisation
+intergouvernementale ou toute organisation non gouvernementale en relations
+officielles avec l'OMS de mettre à la disposition du Comité d'examen les
+informations dont ils disposent concernant l'objet des recommandations
+permanentes proposées, tel qu'indiqué par le Comité d'examen ;
 
-5. Si l'autorité sanitaire du port où la dératisation a eu lieu estime que les
-conditions dans lesquelles cette opération a été effectuée n'ont pas permis
-d'obtenir un résultat satisfaisant, elle mentionne le fait sur le certificat de
-dératisation existant.
+d) Le Directeur général peut, à la demande du Comité d'examen ou de sa propre
+initiative, désigner un ou plusieurs experts techniques pour conseiller le
+Comité d'examen. Ces experts n'ont pas le droit de vote ;
+
+e) Les rapports contenant les avis et conseils du Comité d'examen sur les
+recommandations permanentes sont transmis au Directeur général pour examen et
+décision. Le Directeur général communique les avis et conseils du Comité
+d'examen à l'Assemblée de la Santé ;
+
+f) Le Directeur général communique aux Etats Parties les recommandations
+permanentes, ainsi que les modifications apportées à celles-ci ou leur
+annulation, en y joignant les avis du Comité d'examen ;
+
+g) Le Directeur général soumet les recommandations permanentes à l'Assemblée de
+la Santé suivante pour examen.
+
+
+TITRE X
+
+DISPOSITIONS FINALES
 
 
 Article 54
 
-Dans des circonstances épidémiologiques exceptionnelles, quand la présence de
-rongeurs est soupçonnée à bord, un aéronef peut être désinsectisé et dératisé.
+Présentation de rapports et examen
+
+1. Les Etats Parties et le Directeur général font rapport à l'Assemblée de la
+Santé sur l'application du présent Règlement selon ce qu'aura décidé l'Assemblée
+de la Santé.
+
+2. L'Assemblée de la Santé examine périodiquement le fonctionnement du présent
+Règlement. A cette fin, elle peut demander conseil au Comité d'examen par
+l'intermédiaire du Directeur général. Le premier de ces examens a lieu au plus
+tard cinq ans après l'entrée en vigueur du présent Règlement.
+
+3. L'OMS procède périodiquement à des études pour examiner et évaluer le
+fonctionnement de l'annexe 2. Le premier de ces examens est entrepris un an au
+plus tard après l'entrée en vigueur du présent Règlement. Les résultats de ces
+examens sont soumis, s'il y a lieu, à l'examen de l'Assemblée de la Santé.
 
 
 Article 55
 
-Avant leur départ d'une zone où existe une épidémie de peste pulmonaire, les
-suspects effectuant un voyage international doivent être soumis à l'isolement
-par l'autorité sanitaire pendant une période de six jours à compter de leur
-dernière exposition à l'infection.
+Amendements
+
+1. Tout Etat Partie ou le Directeur général peut proposer des amendements au
+présent Règlement. Ces amendements sont soumis à l'Assemblée de la Santé pour
+examen.
+
+2. Le texte de tout amendement proposé est communiqué à tous les Etats Parties
+par le Directeur général au moins quatre mois avant l'Assemblée de la Santé à
+laquelle cet amendement est soumis pour examen.
+
+3. Les amendements au présent Règlement adoptés par l'Assemblée de la Santé
+conformément au présent article entrent en vigueur à l'égard de tous les Etats
+Parties dans les mêmes conditions et sous réserve des mêmes droits et
+obligations que ceux prévus à l'article 22 de la Constitution de l'OMS et aux
+articles 59 à 64 du présent Règlement.
 
 
 Article 56
 
-1. Un navire ou aéronef est considéré à l'arrivée comme infecté :
+Règlement des différends
 
-a) S'il y a un cas de peste humaine à bord ;
+1. Si un différend surgit entre deux Etats Parties ou plus concernant
+l'interprétation ou l'application du présent Règlement, les Etats Parties
+concernés s'efforcent d'abord de le régler par la négociation ou par tout autre
+moyen pacifique de leur choix, y compris en recourant aux bons offices ou à la
+médiation d'un tiers ou à la conciliation. En cas d'échec, les parties au
+différend restent tenues de poursuivre leurs efforts en vue de parvenir à un
+règlement.
 
-b) Si un rongeur infecté de peste est trouvé à bord.
+2. Si le différend n'est pas réglé par les moyens exposés au paragraphe 1 du
+présent article, les Etats Parties en cause peuvent convenir de soumettre le
+différend au Directeur général, qui fait tout son possible pour le régler.
 
-Un navire est considéré également comme infecté si un cas de peste humaine s'est
-déclaré plus de six jours après l'embarquement.
+3. Un Etat Partie peut à tout moment déclarer par écrit au Directeur général
+qu'il accepte de soumettre à l'arbitrage obligatoire tous les différends
+concernant l'interprétation ou l'application du présent Règlement auxquels il
+est partie ou tel différend spécifique l'opposant à tout autre Etat Partie qui
+accepte la même obligation. L'arbitrage se déroule conformément au Règlement
+facultatif de la Cour permanente d'arbitrage pour l'arbitrage des différends
+entre deux Etats en vigueur à la date de présentation de la demande d'arbitrage.
+Les Etats Parties qui sont convenus d'accepter l'arbitrage comme obligatoire
+acceptent la sentence arbitrale comme étant obligatoire et définitive. Le
+Directeur général en informe l'Assemblée de la Santé s'il y a lieu.
 
-2. Un navire est considéré à l'arrivée comme suspect :
+4. Aucune des dispositions du présent Règlement ne porte atteinte au droit
+qu'ont les Etats Parties en vertu de tout accord international auquel ils sont
+parties de recourir aux mécanismes de règlement des différends mis en place par
+d'autres organisations intergouvernementales ou en vertu d'un accord
+international.
 
-a) Si, bien qu'il n'y ait pas de peste humaine à bord, un cas s'est déclaré dans
-les six jours après l'embarquement ;
-
-b) S'il s'est manifesté parmi les rongeurs à bord une mortalité insolite de
-cause non encore déterminée ;
-
-c) S'il y a à bord une personne qui a été exposée à la peste pulmonaire et à
-laquelle n'ont pas été appliquées les mesures prévues à l'article 55.
-
-3. Bien que provenant d'une zone infectée ou ayant à bord une personne en
-provenance d'une zone infectée, un navire ou aéronef est à l'arrivée considéré
-comme indemne si, à la visite médicale, l'autorité sanitaire a pu s'assurer que
-les conditions prévues aux paragraphes 1 et 2 du présent article n'existent pas.
+5. En cas de différend entre l'OMS et un ou plusieurs Etats Parties au sujet de
+l'interprétation ou de l'application du présent Règlement, la question est
+soumise à l'Assemblée de la Santé.
 
 
 Article 57
 
-1. A l'arrivée d'un navire infecté ou suspect, ou d'un aéronef infecté,
-l'autorité sanitaire peut appliquer les mesures suivantes :
+Relation avec d'autres accords internationaux
 
-a) Désinsectisation et surveillance des suspects, la surveillance ne devant pas
-durer plus de six jours à compter de l'arrivée ;
+1. Les Etats Parties reconnaissent que le RSI et les autres accords
+internationaux pertinents doivent être interprétés de manière à assurer leur
+compatibilité. Les dispositions du RSI n'affectent pas les droits et obligations
+des Etats Parties qui découlent d'autres accords internationaux.
 
-b) Désinsectisation et, au besoin, désinfection :
+2. Sous réserve du paragraphe 1 du présent article, aucune disposition du
+présent Règlement n'interdit aux Etats Parties qui ont certains intérêts communs
+du fait de leur situation sanitaire, géographique, sociale ou économique de
+conclure des traités ou arrangements distincts pour faciliter l'application du
+présent Règlement, notamment en ce qui concerne :
 
-i) Des bagages des personnes infectées ou des suspects ;
+a) L'échange direct et rapide d'informations sur la santé publique entre des
+territoires voisins de différents Etats ;
 
-ii) De tout autre objet, tel que literie ou linge ayant servi, et de toute
-partie du navire ou de l'aéronef qui sont considérés comme contaminés.
+b) Les mesures sanitaires applicables au trafic côtier international et au
+trafic international dans les eaux relevant de leur compétence ;
 
-2. A l'arrivée d'un navire, aéronef, train, véhicule routier ou autre moyen de
-transport ayant à bord une personne atteinte de peste pulmonaire, ou si un cas
-de peste pulmonaire s'est produit à bord d'un navire dans les six jours
-précédant son arrivée, l'autorité sanitaire peut, en plus des mesures prévues au
-paragraphe 1 du présent article, isoler les passagers et l'équipage du navire,
-aéronef, train, véhicule routier ou autre moyen de transport pendant une période
-de six jours à compter de leur dernière exposition à l'infection.
+c) Les mesures sanitaires applicables dans des territoires contigus de
+différents Etats sur leurs frontières communes ;
 
-3. En cas de peste murine à bord ou dans les conteneurs, le navire est
-désinsectisé et dératisé, au besoin en quarantaine, conformément aux
-stipulations de l'article 53 sous réserve des dispositions suivantes :
+d) L'organisation du transport des personnes affectées ou des restes humains
+affectés à l'aide d'un moyen de transport spécialement adapté ; et
 
-a) Les opérations de dératisation ont lieu dès que les cales sont vidées ;
+e) La dératisation, la désinsectisation, la désinfection, la décontamination ou
+tout autre traitement conçu pour rendre des marchandises exemptes d'agents
+pathogènes.
 
-b) En vue d'empêcher les rongeurs infectés de quitter le bord, il peut être
-procédé à une ou plusieurs dératisations préliminaires du navire, qui peuvent
-être prescrites avant ou pendant le déchargement de la cargaison ;
-
-c) Si, du fait qu'une partie seulement de la cargaison d'un navire doit être
-déchargée, la destruction complète des rongeurs ne peut pas être assurée, le
-navire est autorisé à décharger cette partie de la cargaison, sous réserve pour
-l'autorité sanitaire d'appliquer les mesures jugées par elle nécessaires et qui
-peuvent comprendre la mise du navire en quarantaine afin d'empêcher les rongeurs
-infectés de quitter le bord.
-
-4. Si un rongeur infecté de peste est trouvé à bord d'un aéronef, l'aéronef est
-désinsectisé et dératisé, au besoin en quarantaine.
+3. Sans préjudice de leurs obligations découlant du présent Règlement, les Etats
+Parties qui sont membres d'une organisation d'intégration économique régionale
+appliquent les règles communes en vigueur au sein de cette organisation dans le
+cadre de leurs relations mutuelles.
 
 
 Article 58
 
-Un navire cesse d'être considéré comme infecté ou suspect et un aéronef cesse
-d'être considéré comme infecté quand les mesures prescrites par l'autorité
-sanitaire, conformément aux dispositions des articles 38 et 57, ont été dûment
-exécutées ou lorsque l'autorité sanitaire a pu s'assurer que la mortalité
-insolite parmi les rongeurs n'est pas due à la peste. Le navire ou l'aéronef est
-dès lors admis à la libre pratique.
+Accords et règlements sanitaires internationaux
+
+1. Sous réserve des dispositions de l'article 62 et des exceptions prévues
+ci-après, le présent Règlement remplace entre les Etats qu'il lie et entre ces
+Etats et l'OMS les dispositions des accords et règlements sanitaires
+internationaux ci-après :
+
+a) Convention sanitaire internationale, signée à Paris le 21 juin 1926 ;
+
+b) Convention sanitaire internationale pour la navigation aérienne, signée à La
+Haye le 12 avril 1933 ;
+
+c) Arrangement international concernant la suppression des patentes de santé,
+signé à Paris le 22 décembre 1934 ;
+
+d) Arrangement international concernant la suppression des visas consulaires sur
+les patentes de santé, signé à Paris le 22 décembre 1934 ;
+
+e) Convention portant modification de la Convention sanitaire internationale du
+21 juin 1926, signée à Paris le 31 octobre 1938 ;
+
+f) Convention sanitaire internationale de 1944 portant modification de la
+Convention du 21 juin 1926, ouverte à la signature à Washington le 15 décembre
+1944 ;
+
+g) Convention sanitaire internationale pour la navigation aérienne de 1944
+portant modification de la Convention du 12 avril 1933, ouverte à la signature à
+Washington le 15 décembre 1944 ;
+
+h) Protocole du 23 avril 1946 prorogeant la Convention sanitaire internationale
+de 1944, signé à Washington ;
+
+i) Protocole du 23 avril 1946 prorogeant la Convention sanitaire internationale
+pour la navigation aérienne de 1944, signé à Washington ;
+
+j) Règlement sanitaire international de 1951 et Règlements additionnels de 1955,
+1956, 1960, 1963 et 1965 ; et
+
+k) Règlement sanitaire international de 1969 et amendements de 1973 et 1981.
+
+2. Le Code sanitaire panaméricain, signé à La Havane le 14 novembre 1924, reste
+en vigueur, à l'exception des articles 2, 9, 10, 11, 16 à 53 inclus, 61 et 62,
+auxquels s'appliquent les dispositions pertinentes du paragraphe 1 du présent
+article.
 
 
 Article 59
 
-A l'arrivée, un navire ou aéronef indemne est admis à la libre pratique ;
-toutefois, s'il provient d'une zone infectée, l'autorité sanitaire peut :
+Entrée en vigueur ;
 
-a) Soumettre tout suspect quittant le bord à la surveillance pendant une période
-qui ne doit pas dépasser six jours à compter de la date à laquelle le navire ou
-aéronef a quitté la zone infectée ;
+délai prévu pour formuler un refus ou des réserves
 
-b) Ordonner la destruction des rongeurs à bord du navire et la désinsectisation
-dans des cas exceptionnels et pour des motifs bien fondés qui sont communiqués
-par écrit au capitaine du navire.
+1. Le délai prévu à l'article 22 de la Constitution de l'OMS pour refuser le
+présent Règlement ou un amendement à celui-ci ou y formuler des réserves est de
+dix-huit mois à compter de la date de notification, par le Directeur général, de
+l'adoption du présent Règlement ou dudit amendement au présent Règlement par
+l'Assemblée de la Santé. Un refus ou une réserve reçus par le Directeur général
+après l'expiration de ce délai sera sans effet.
+
+2. Le présent Règlement entre en vigueur vingt-quatre mois après la date de
+notification visée au paragraphe 1 du présent article, excepté à l'égard :
+
+a) D'un Etat qui a refusé le Règlement ou un amendement à celui-ci conformément
+à l'article 61 ;
+
+b) D'un Etat qui a formulé une réserve, et à l'égard duquel le Règlement entre
+en vigueur comme prévu à l'article 62 ;
+
+c) D'un Etat qui devient Membre de l'OMS après la date de la notification par le
+Directeur général visée au paragraphe 1 du présent article et qui n'est pas déjà
+partie au présent Règlement, à l'égard duquel le Règlement entre en vigueur
+comme prévu à l'article 60 ; et
+
+d) D'un Etat non Membre de l'OMS mais qui accepte le présent Règlement et à
+l'égard duquel ce dernier entre en vigueur conformément au paragraphe 1 de
+l'article 64.
+
+3. Si un Etat est dans l'incapacité d'ajuster ses dispositions législatives et
+administratives nationales dans le délai prévu au paragraphe 2 du présent
+article pour les mettre en pleine conformité avec le présent Règlement, il
+adresse au Directeur général dans le délai spécifié au paragraphe 1 du présent
+article une déclaration concernant les ajustements qui restent à apporter et
+procède auxdits ajustements au plus tard dans les douze mois suivant l'entrée en
+vigueur du présent Règlement à l'égard de cet Etat Partie.
 
 
 Article 60
 
-Si un cas de peste humaine est constaté à l'arrivée d'un train ou d'un véhicule
-routier, l'autorité sanitaire peut appliquer les mesures prévues à l'article 38
-et aux paragraphes 1 et 2 de l'article 57, étant entendu que les mesures de
-désinsectisation et, si besoin est, de désinfection sont appliquées à telles
-parties du train ou du véhicule routier qui sont considérées comme contaminées.
+Nouveaux Etats Membres de l'OMS
 
-Chapitre II : Choléra (25)
+Tout Etat qui devient Membre de l'OMS après la date de la notification par le
+Directeur général visée au paragraphe 1 de l'article 59, et qui n'est pas déjà
+Partie au présent Règlement, peut faire savoir qu'il le refuse ou qu'il y fait
+des réserves dans un délai de douze mois à compter de la date de la notification
+que lui a adressée le Directeur général après qu'il est devenu Membre de l'OMS.
+Sous réserve des dispositions des articles 62 et 63, et sauf en cas de refus, le
+présent Règlement entre en vigueur à l'égard de cet Etat à l'expiration du délai
+susvisé. Le présent Règlement n'entre en aucun cas en vigueur à l'égard de cet
+Etat moins de vingt-quatre mois après la date de la notification visée au
+paragraphe 2 de l'article 59.
 
 
 Article 61
 
-Aux fins du présent Règlement, la période d'incubation du choléra est fixée à
-cinq jours.
+Refus
+
+Si un Etat notifie au Directeur général son refus du présent Règlement ou d'un
+amendement à celui-ci dans le délai prévu au paragraphe 1 de l'article 59, le
+présent Règlement ou l'amendement concerné n'entre pas en vigueur à l'égard de
+cet Etat. Tout accord ou règlement sanitaire international visé à l'article 58
+auquel cet Etat est déjà Partie demeure en vigueur pour ce qui le concerne.
 
 
 Article 62
 
-1. Si, à l'arrivée d'un navire, aéronef, train, véhicule routier ou autre moyen
-de transport, un cas de choléra est constaté, ou si un cas s'est produit à bord,
-l'autorité sanitaire :
+Réserves
 
-a) Peut soumettre les passagers ou les membres de l'équipage jugés suspects à
-une surveillance ou à un isolement pendant une période qui ne doit pas dépasser
-cinq jours à compter de la date de débarquement ;
+1. Tout Etat peut formuler des réserves au Règlement en application du présent
+article. Ces réserves ne doivent pas être incompatibles avec l'objet et le but
+du présent Règlement.
 
-b) Est responsable du contrôle de l'enlèvement et de l'élimination, dans des
-conditions hygiéniques, des réserves d'eau, des aliments (à l'exclusion de la
-cargaison), des déjections humaines, des eaux usées, y compris les eaux de cale,
-des matières résiduaires et de toutes autres matières considérées comme
-contaminées, ainsi que de la désinfection des réservoirs d'eau et du matériel
-servant à la manipulation des aliments.
+2. Toute réserve au présent Règlement doit être notifiée au Directeur général
+conformément aux dispositions du paragraphe 1 de l'article 59 et de l'article
+60, le paragraphe 1 de l'article 63 ou le paragraphe 1 de l'article 64 selon le
+cas. Un Etat non Membre de l'OMS doit aviser le Directeur général de toute
+réserve qu'il fait dans sa notification d'acceptation du présent Règlement. Tout
+Etat qui formule des réserves doit en faire connaître les motifs au Directeur
+général.
 
-2. Une fois appliquées les mesures prescrites sous b, le navire, aéronef, train,
-véhicule routier ou autre moyen de transport est admis à la libre pratique.
+3. Un refus partiel du présent Règlement ou d'un amendement à celui-ci équivaut
+à une réserve.
 
-Article 63 (26)
+4. En application des dispositions du paragraphe 2 de l'article 65, le Directeur
+général notifie toute réserve reçue au titre du paragraphe 2 du présent article.
+Le Directeur général :
 
-Les denrées alimentaires faisant partie de la cargaison qui se trouvent à bord
-d'un navire, aéronef, train, véhicule routier ou autre moyen de transport sur
-lequel un cas de choléra s'est produit en cours de voyage ne peuvent être
-soumises à un examen bactériologique que par les autorités sanitaires du pays de
-destination finale.
+a) Si la réserve a été formulée avant l'entrée en vigueur du présent Règlement,
+demande aux Etats Membres qui n'ont pas refusé le présent Règlement de lui faire
+connaître dans un délai de six mois toute objection qu'ils auraient à opposer à
+cette réserve ; ou
+
+b) Si la réserve a été formulée après l'entrée en vigueur du présent Règlement,
+demande aux Etats Parties de lui faire connaître dans un délai de six mois toute
+objection qu'ils auraient à opposer à cette réserve.
+
+Les Etats qui formulent une objection à une réserve doivent en indiquer les
+motifs au Directeur général.
+
+5. Passé ce délai, le Directeur général avise l'ensemble des Etats Parties des
+objections reçues concernant les réserves. Si, à l'issue du délai de six mois à
+compter de la date de la notification visée au paragraphe 4 du présent article,
+un tiers des Etats visés au paragraphe 4 du présent article ne se sont pas
+opposés à la réserve, celle-ci est considérée comme acceptée et le présent
+Règlement entre en vigueur à l'égard de l'Etat réservataire, à l'exception des
+dispositions faisant l'objet de la réserve.
+
+6. Si un tiers au moins des Etats visés au paragraphe 4 du présent article
+s'opposent à une réserve avant l'expiration du délai de six mois à compter de la
+date de la notification visée au paragraphe 4 du présent article, le Directeur
+général en avise l'Etat réservataire pour que celui-ci envisage de retirer sa
+réserve dans un délai de trois mois à compter de la date de la notification que
+lui a adressée le Directeur général.
+
+7. L'Etat réservataire continue de s'acquitter de toutes obligations portant sur
+l'objet de la réserve qu'il a acceptées dans le cadre d'un accord ou règlement
+sanitaire international visé à l'article 58.
+
+8. Si l'Etat auteur d'une réserve ne retire pas celle-ci dans un délai de trois
+mois à compter de la date de la notification par le Directeur général visée au
+paragraphe 6 du présent article, et si l'Etat auteur de la réserve en fait la
+demande, le Directeur général demande l'avis du Comité d'examen. Le Comité
+d'examen informe le Directeur général, dans les meilleurs délais et conformément
+aux dispositions de l'article 50, des répercussions pratiques de la réserve sur
+l'application du présent Règlement.
+
+9. Le Directeur général soumet la réserve et l'avis du Comité d'examen, le cas
+échéant, à l'Assemblée de la Santé pour examen. Si l'Assemblée de la Santé, par
+un vote à la majorité simple, s'oppose à la réserve au motif qu'elle est
+incompatible avec l'objet et le but du présent Règlement, la réserve n'est pas
+acceptée et le présent Règlement n'entre en vigueur à l'égard de l'Etat
+réservataire qu'après qu'il a retiré sa réserve conformément à l'article 63. Si
+l'Assemblée de la Santé accepte la réserve, le présent Règlement entre en
+vigueur à l'égard de l'Etat réservataire avec cette réserve.
+
+
+Article 63
+
+Retrait d'un refus et d'une réserve
+
+1. Un refus émis au titre de l'article 61 peut, à tout moment, être retiré par
+un Etat moyennant une notification adressée au Directeur général. Dans ce cas,
+le Règlement entre en vigueur à l'égard de cet Etat à la date de la réception,
+par le Directeur général, de la notification, sauf si l'Etat émet une réserve
+lorsqu'il retire son refus, auquel cas le Règlement entre en vigueur comme prévu
+à l'article 62. En aucun cas, le Règlement n'entre en vigueur à l'égard de cet
+Etat avant un délai de vingt-quatre mois après la date de la notification visée
+au paragraphe 1 de l'article 59.
+
+2. Tout ou partie d'une réserve peuvent à tout moment être retirés par l'Etat
+Partie concerné moyennant une notification adressée au Directeur général. Dans
+ce cas, le retrait prend effet à compter de la date de la réception, par le
+Directeur général, de la notification.
 
 
 Article 64
 
-1. Nul ne peut être astreint à un prélèvement rectal.
+Etats non Membres de l'OMS
 
-2. Une personne effectuant un voyage international qui est arrivée, pendant la
-période d'incubation du choléra, d'une zone infectée et qui présente des
-symptômes permettant de soupçonner le choléra peut être astreinte à un examen de
-selles.
+1. Les Etats non Membres de l'OMS, mais qui sont Parties à un accord ou
+règlement sanitaire international visé à l'article 58 ou auxquels le Directeur
+général a notifié l'adoption du présent Règlement par l'Assemblée mondiale de la
+Santé, peuvent devenir Parties à celui-ci en notifiant leur acceptation au
+Directeur général. Sous réserve des dispositions de l'article 62, cette
+acceptation prend effet à la date d'entrée en vigueur du présent Règlement ou,
+si elle est notifiée après cette date, trois mois après le jour de la réception
+par le Directeur général de ladite notification.
 
-Chapitre III : Fièvre jaune
+2. Les Etats non Membres de l'OMS devenus Parties au présent Règlement peuvent à
+tout moment dénoncer leur participation audit Règlement par une notification
+adressée au Directeur général ; cette dénonciation prend effet six mois après
+réception de la notification. L'Etat qui a dénoncé sa participation applique de
+nouveau, à partir de ce moment, les dispositions de tout accord ou règlement
+sanitaire international visé à l'article 58 auquel il était précédemment Partie.
 
 
 Article 65
 
-Aux fins du présent Règlement, la période d'incubation de la fièvre jaune est
-fixée à six jours.
+Notifications par le Directeur général
+
+1. Le Directeur général notifie l'adoption du présent Règlement par l'Assemblée
+de la Santé à tous les Etats Membres et Membres associés de l'OMS, ainsi qu'aux
+autres Parties à tout accord ou règlement sanitaire international visé à
+l'article 58.
+
+2. Le Directeur général notifie également à ces Etats, ainsi qu'à tout autre
+Etat devenu Partie au présent Règlement ou à tout amendement au présent
+Règlement, toute notification reçue par l'OMS en application des articles 60 à
+64 respectivement, ainsi que toute décision prise par l'Assemblée de la Santé en
+application de l'article 62.
 
 
 Article 66
 
-1. La vaccination contre la fièvre jaune peut être exigée de toute personne
-effectuant un voyage international et quittant une zone infectée.
-
-2. Lorsqu'une telle personne est munie d'un certificat de vaccination
-antiamarile non encore valable, elle peut cependant être autorisée à partir,
-mais les dispositions de l'article 68 peuvent lui être appliquées à l'arrivée.
-
-3. Une personne en possession d'un certificat valable de vaccination contre la
-fièvre jaune n'est pas traitée comme un suspect, même si elle provient d'une
-zone infectée.
-
-4. Le vaccin antiamaril utilisé doit être approuvé par l'Organisation et le
-centre de vaccination doit avoir été habilité par l'administration sanitaire du
-territoire dans lequel ce centre est situé. L'Organisation devra recevoir
-l'assurance que les vaccins utilisés sont constamment de qualité adéquate.
+Textes authentiques
 
-Article 67 (27)
+1. Les textes anglais, arabe, chinois, espagnol, français et russe du présent
+Règlement font également foi. Les textes originaux du présent Règlement sont
+déposés aux archives de l'OMS.
 
-l. La possession d'un certificat valable de vaccination contre la fièvre jaune
-est obligatoire pour toute personne employée dans un port ou un aéroport situé
-dans une zone infectée, ainsi que pour tout membre de l'équipage d'un navire ou
-d'un aéronef qui utilise ce port ou cet aéroport.
+2. Des copies certifiées conformes du présent Règlement sont expédiées par le
+Directeur général à tous les Membres et Membres associés, ainsi qu'aux autres
+Parties à tout accord ou règlement sanitaire international visé à l'article 58,
+avec la notification prévue au paragraphe 1 de l'article 59.
 
-2. Les aéronefs quittant un aéroport situé dans une zone infectée sont
-désinsectisés conformément à l'article 25, selon les méthodes recommandées par
-l'Organisation, et des détails sur la désinsectisation sont donnés dans la
-partie relative aux questions sanitaires de la Déclaration générale d'aéronef, à
-moins que l'autorité sanitaire de l'aéroport d'arrivée n'exige pas cette partie
-de la Déclaration générale d'aéronef. Les Etats intéressés acceptent la
-désinsectisation pratiquée en cours de vol au moyen du dispositif approuvé de
-désinsectisation par vapeurs.
+3. Au moment de l'entrée en vigueur du présent Règlement, le Directeur général
+en transmet des copies certifiées conformes au Secrétaire général de
+l'Organisation des Nations Unies pour enregistrement, conformément à l'article
+102 de la Charte des Nations Unies.
 
-3. Les navires quittant un port situé dans une zone où Aedes aegypti existe
-encore à destination d'une zone d'où Aedes aegypti a été éliminé sont maintenus
-exempts d'Aedes aegypti à l'état immature ou à l'état adulte.
 
-4. Les aéronefs quittant un aéroport où Aedes aegypti est présent à destination
-d'une zone d'où Aedes aegypti a été éliminé sont désinsectisés conformément à
-l'article 25, selon les méthodes recommandées par l'Organisation.
+A N N E X E 1
 
+A. ― PRINCIPALES CAPACITÉS REQUISES POUR LA SURVEILLANCE ET L'ACTION
 
-Article 68
+1. Les Etats Parties utilisent les structures et ressources nationales
+existantes en vue de se doter des principales capacités requises en vertu du
+présent Règlement pour s'acquitter notamment :
 
-L'autorité sanitaire d'une zone où le vecteur de la fièvre jaune est présent
-peut exiger qu'une personne effectuant un voyage international, qui provient
-d'une zone infectée et qui n'est pas munie d'un certificat valable de
-vaccination contre la fièvre jaune, soit isolée jusqu'à ce que le certificat
-devienne valable ou que six jours au plus se soient écoulés à compter de la
-dernière exposition présumée à l'infection, la période la plus courte étant
-retenue.
+a) De leurs activités de surveillance, de déclaration, de notification, de
+vérification, d'action et de collaboration ; et
 
+b) De leurs activités concernant les aéroports, ports et postes-frontières
+désignés.
 
-Article 69
+2. Chaque Etat Partie évalue, dans les deux ans qui suivent l'entrée en vigueur
+du présent Règlement à l'égard de cet Etat Partie, la capacité des structures et
+ressources nationales existantes à satisfaire aux prescriptions minimales de la
+présente annexe. A la suite de cette évaluation, les Etats Parties élaborent et
+appliquent des plans d'action pour que ces principales capacités soient
+présentes et fonctionnent sur tout leur territoire comme il est stipulé au
+paragraphe 1 de l'article 5 et au paragraphe 1 de l'article 13.
 
-1. Toute personne provenant d'une zone infectée qui n'est pas munie d'un
-certificat valable de vaccination contre la fièvre jaune et qui, au cours d'un
-voyage international, doit passer par un aéroport situé dans une zone où le
-vecteur de la fièvre jaune est présent et ne disposant pas encore des moyens
-d'assurer la ségrégation, telle qu'elle est prévue à l'article 34, peut être
-retenue, pendant la période prescrite à l'article 68, dans un aéroport où
-existent ces moyens si les administrations sanitaires des territoires où sont
-situés lesdits aéroports ont conclu un accord à cet effet.
+3. Les Etats Parties et l'OMS soutiennent sur demande les processus
+d'évaluation, de planification et de mise en œuvre prévus dans la présente
+annexe.
 
-2. Les administrations sanitaires intéressées informent l'Organisation lorsqu'un
-accord de cette nature entre en vigueur ou prend fin. L'Organisation communique
-immédiatement ce renseignement à toutes les autres administrations sanitaires.
+4. Au niveau communautaire local et/ou au niveau primaire d'action de santé
+publique :
 
-Article 70 (28)
+La capacité :
 
-1. A l'arrivée, un navire est considéré comme infecté s'il y a un cas de fièvre
-jaune à bord, ou si un tel cas s'est déclaré à bord pendant le voyage. II est
-considéré comme suspect si, moins de six jours avant l'arrivée, il a quitté une
-zone infectée, ou s'il arrive dans les trente jours suivant son départ d'une
-telle zone et que l'autorité sanitaire constate la présence à son bord d'Aedes
-aegypti ou d'autres vecteurs de la fièvre jaune. Tout autre navire est considéré
-comme indemne.
+a) De détecter, dans toutes les zones du territoire de l'Etat Partie, les
+événements impliquant une morbidité ou une mortalité supérieure aux niveaux
+escomptés pour la période et le lieu considérés ; et
 
-2. A l'arrivée, un aéronef est considéré comme infecté s'il a un cas de fièvre
-jaune à bord. Il est considéré comme suspect si l'autorité sanitaire n'est pas
-satisfaite de la désinsectisation effectuée conformément au paragraphe 2 de
-l'article 67 et si elle constate l'existence de moustiques vivants à bord de
-l'aéronef. Tout autre aéronef est considéré comme indemne.
+b) De communiquer immédiatement toutes les données essentielles disponibles au
+niveau approprié d'action de santé. Au niveau communautaire, les communications
+sont adressées aux établissements de soins de santé de la communauté locale ou
+au personnel de santé approprié. Au niveau primaire d'action de santé publique,
+les communications sont adressées au niveau d'action intermédiaire ou national,
+selon les structures organiques. Aux fins de la présente annexe, les données
+essentielles incluent les informations suivantes : descriptions cliniques,
+résultats de laboratoire, sources et types de risques, nombre de cas humains et
+de décès, conditions influant sur la propagation de la maladie et les mesures
+sanitaires appliquées ; et
 
+c) D'appliquer immédiatement des mesures de lutte préliminaires.
 
-Article 71
+5. Au niveau intermédiaire d'action de santé publique :
 
-1. A l'arrivée d'un navire ou aéronef infecté ou suspect, l'autorité sanitaire
-peut :
+La capacité :
 
-a) Dans une zone où le vecteur de la fièvre jaune est présent, appliquer à
-l'égard de tout passager ou membre de l'équipage quittant le bord sans être muni
-d'un certificat valable de vaccination contre la fièvre jaune les mesures visées
-à l'article 68 ;
+a) De confirmer la nature des événements signalés et d'appuyer ou d'appliquer
+immédiatement des mesures de lutte supplémentaires ; et
 
-b) Procéder à l'inspection du navire ou de l'aéronef et à la destruction totale
-d'Aedes aegypti ou d'autres vecteurs de la fièvre jaune. Dans une zone où le
-vecteur de la fièvre jaune est présent, il peut en outre être exigé que le
-navire, jusqu'à exécution de ces mesures, reste à quatre cents mètres au moins
-de la terre.
+b) D'évaluer immédiatement les événements signalés et, s'ils sont jugés urgents,
+de communiquer toutes les données essentielles au niveau national. Aux fins de
+la présente annexe, les critères qui déterminent l'existence d'un événement
+urgent sont ses effets graves sur la santé publique et/ou son caractère
+inhabituel ou inattendu, assortis d'un fort potentiel de propagation.
 
-2. Le navire ou aéronef cesse d'être considéré comme infecté ou suspect quand
-les mesures prescrites par l'autorité sanitaire, conformément à l'article 38 et
-au paragraphe 1 du présent article, ont été dûment exécutées. Le navire ou
-l'aéronef est dès lors admis à la libre pratique.
+6. Au niveau national :
 
+Evaluation et notification. La capacité :
 
-Article 72
-
-A l'arrivée d'un navire ou aéronef indemne provenant d'une zone infectée, les
-mesures visées à la lettre b du paragraphe 1 de l'article 71 peuvent lui être
-appliquées. Le navire ou l'aéronef est dès lors admis à la libre pratique.
-
-
-Article 73
-
-Les Etats ne peuvent pas interdire aux aéronefs l'atterrissage sur leurs
-aéroports sanitaires si les mesures visées au paragraphe 2 de l'article 67 sont
-appliquées. Dans une zone où le vecteur de la fièvre jaune est présent, l'Etat
-peut toutefois désigner un ou plusieurs aéroports déterminés comme étant les
-seuls où peuvent atterrir les aéronefs en provenance d'une zone infectée.
-
-
-Article 74
-
-A l'arrivée d'un train, véhicule routier ou autre moyen de transport dans une
-zone où le vecteur de la fièvre jaune est présent, l'autorité sanitaire peut
-appliquer les mesures suivantes :
-
-a) Isolement, suivant les dispositions de l'article 68, de toute personne
-provenant d'une zone infectée sans être munie d'un certificat valable de
-vaccination contre la fièvre jaune ;
-
-b) Désinsectisation du train, véhicule routier ou autre moyen de transport, s'il
-est en provenance d'une zone infectée.
-
-
-Article 75
-
-Dans une zone où le vecteur de la fièvre jaune est présent, l'isolement visé à
-l'article 38 et au présent chapitre a lieu dans des locaux à l'abri des
-moustiques.
-
-TITRE VI : DOCUMENTS SANITAIRES
-
-
-Article 76
-
-Il ne peut être exigé d'un navire ou aéronef aucune patente de santé, avec ou
-sans visa consulaire, ni aucun certificat, quelle qu'en soit la dénomination,
-relatif à l'état sanitaire d'un port ou d'un aéroport.
-
-
-Article 77
-
-1. Avant d'arriver au premier port d'escale dans un territoire, le capitaine
-d'un navire de mer qui effectue un voyage international se renseigne sur l'état
-de santé de toutes les personnes se trouvant à bord et, à l'arrivée, à moins que
-l'administration sanitaire ne l'exige pas, il remplit et remet à l'autorité
-sanitaire de ce port une Déclaration maritime de santé qui est contresignée par
-le médecin de bord, si l'équipage en comporte un.
-
-2. Le capitaine et, s'il y en a un, le médecin de bord répondent à toute demande
-de renseignements faite par l'autorité sanitaire sur les conditions sanitaires
-du bord pendant le voyage.
-
-3. La Déclaration maritime de santé doit être conforme au modèle donné à
-l'Appendice 3.
-
-4. Une administration sanitaire peut décider :
-
-a) Soit de ne pas exiger des navires à l'arrivée la remise de la Déclaration
-maritime de santé ;
-
-b) Soit de n'exiger cette remise que si le navire arrive de certaines zones
-expressément indiquées, ou s'il y a des renseignements positifs à communiquer.
-
-Dans l'un et l'autre cas, elle en informe les exploitants de navires.
-
-
-Article 78
-
-1. A l'atterrissage sur le premier aéroport d'un territoire, le commandant d'un
-aéronef, ou son représentant autorisé, remplit et remet à l'autorité sanitaire
-de cet aéroport, à moins que l'administration sanitaire ne l'exige pas, la
-partie relative aux questions sanitaires de la Déclaration générale d'aéronef,
-qui doit être conforme au modèle donné à l'Appendice 4.
-
-2. Le commandant d'un aéronef, ou son représentant autorisé, répond à toute
-demande de renseignements faite par l'autorité sanitaire sur les conditions
-sanitaires du bord pendant le voyage.
-
-3. Une administration sanitaire peut décider :
-
-a) Soit de ne pas exiger des aéronefs à l'arrivée la remise de la partie
-relative aux questions sanitaires de la Déclaration générale d'aéronef ;
-
-b) Soit de n'exiger cette remise que si l'aéronef arrive de certaines zones
-expressément indiquées, ou s'il y a des renseignements positifs à communiquer.
-
-Dans l'un et l'autre cas, elle informe les exploitants d'aéronefs.
-
-Article 79 (29)
-
-1. Les certificats faisant l'objet des Appendices 1 et 2 sont imprimés en
-français et en anglais ; ils peuvent, en outre, comporter un texte dans une des
-langues officielles du territoire où le certificat est délivré.
-
-2. Les certificats visés au paragraphe 1 du présent article sont remplis en
-français ou en anglais. L'adjonction d'une seconde langue est admise.
-
-3. Les certificats internationaux de vaccination doivent être signés de sa
-propre main par un médecin ou une autre personne habilitée par l'administration
-sanitaire nationale, un cachet officiel ne pouvant être considéré comme tenant
-lieu de signature.
-
-4. Les certificats internationaux de vaccination sont des certificats
-individuels et ne sont en aucun cas utilisés à titre collectif. Les enfants sont
-munis de certificats distincts.
-
-5. On ne s'écartera en aucun cas du modèle figurant à l'Appendice 2 et aucune
-photographie ne sera apposée sur les certificats.
-
-6. Un certificat international de vaccination délivré pour un enfant qui ne sait
-pas écrire est signé par un de ses parents ou par la personne qui a la charge de
-l'enfant. La signature d'un illettré est indiquée de la façon habituelle par sa
-marque etl'attestation par un tiers qu'il s'agit bien de sa marque.
-
-7. Si le vaccinateur estime que la vaccination est médicalement contre-indiquée,
-il délivre à l'intéressé une attestation rédigée en français ou en anglais,
-indiquant les raisons qui motivent son opinion : les autorités sanitaires
-pourront en tenir compte.
-
-
-Article 80
-
-Les documents relatifs à la vaccination délivrés par les forces armées à leur
-personnel en activité de service sont acceptés à la place du certificat
-international tel qu'il est reproduit à l'Appendice 2, à condition qu'ils
-comportent :
-
-a) Des renseignements médicaux équivalents à ceux devant figurer sur le modèle,
+a) D'évaluer dans les 48 heures tous les événements urgents qui sont signalés ;
 et
 
-b) Une déclaration en français ou en anglais spécifiant la nature et la date de
-la vaccination et attestant qu'ils sont délivrés en vertu du présent article.
-
-Article 81 (30)
-
-Aucun document sanitaire autre que ceux visés au présent Règlement ne peut être
-exigé dans le trafic international.
-
-TITRE VII : DROITS
-
-Article 82 (31)
-
-1. L'autorité sanitaire ne perçoit aucun droit pour :
-
-a) Toute visite médicale prévue au présent Règlement ainsi que tout examen
-complémentaire, bactériologique ou autre, qui peut être nécessaire pour
-connaître l'état de santé de la personne examinée ;
-
-b) Toute vaccination à l'arrivée et tout certificat s'y rapportant.
+b) D'aviser immédiatement l'OMS, par l'intermédiaire du point focal national
+RSI, lorsque l'évaluation indique que l'événement doit être déclaré en
+application de l'article 6, paragraphe 1 et de l'annexe 2, et de fournir à l'OMS
+les informations demandées à l'article 7 et à l'article 9, paragraphe 2.
 
-2. Si l'application des mesures prévues au présent Règlement, autres que celles
-visées au paragraphe 1 du présent article, comporte le paiement de droits, il
-doit y avoir, dans chaque territoire, un seul tarif s'y rapportant. Les droits
-réclamés doivent :
+Action de santé publique. La capacité :
 
-a) Etre conformes à ce tarif ;
+a) De déterminer rapidement les mesures de lutte nécessaires pour éviter la
+propagation au niveau national et international ;
 
-b) Etre modérés et, en aucun cas, ne dépasser le coût effectif du service rendu
-;
+b) D'apporter un soutien par la mise à disposition de personnel spécialisé,
+l'analyse au laboratoire des prélèvements (au niveau national ou par
+l'intermédiaire des centres collaborateurs) et une aide logistique (matériel,
+fournitures et transport) ;
 
-c) Etre perçus sans distinction de nationalité, de domicile ou de résidence en
-ce qui concerne les personnes, ou de nationalité, de pavillon, de registre ou de
-propriété en ce qui concerne les navires, aéronefs, trains, véhicules routiers,
-autres moyens de transport ou conteneurs. En particulier, aucune distinction
-n'est faite entre les nationaux et les étrangers, ni entre les navires,
-aéronefs, trains, véhicules routiers, autres moyens de transport ou conteneurs
-nationaux et étrangers.
+c) D'apporter, le cas échéant, une aide sur place pour compléter les enquêtes
+locales ;
 
-3. Le droit perçu pour la transmission par radio d'un message concernant les
-dispositions du Règlement ne peut pas dépasser le tarif normal de transmission
-des radiogrammes.
+d) D'assurer un lien opérationnel direct avec les hauts responsables sanitaires
+et autres pour accélérer l'approbation et la mise en œuvre des mesures
+d'endiguement et de lutte ;
 
-4. Le tarif et toute modification qui peut y être apportée par la suite sont
-publiés dix jours au moins avant leur entrée en vigueur et notifiés
-immédiatement à l'Organisation.
+e) D'assurer une liaison directe avec d'autres ministères compétents ;
 
-TITRE VIII : DISPOSITIONS DIVERSES
+f) D'assurer, par les moyens de communication les plus efficaces existants, le
+lien avec les hôpitaux, les dispensaires, les aéroports, les ports, les
+postes-frontières, les laboratoires et d'autres zones opérationnelles clefs,
+pour diffuser, sur le territoire de l'Etat Partie et sur celui d'autres Etats
+Parties, les informations et les recommandations émanant de l'OMS au sujet des
+événements survenus ;
 
-Article 83 (32)
+g) D'établir, d'appliquer et de maintenir un plan national d'action de santé
+publique d'urgence, qui prévoie notamment la création d'équipes
+multidisciplinaires/multisectorielles pour réagir aux événements pouvant
+constituer une urgence de santé publique de portée internationale ; et
 
-1. Les aéronefs quittant un aéroport situé dans une zone où existe la
-transmission du paludisme ou d'une autre maladie transmise par des moustiques ou
-dans laquelle se trouvent des moustiques vecteurs de maladies résistants aux
-insecticides, ou encore dans laquelle est présente une espèce vectrice qui a été
-éliminée de la zone dans laquelle est situé l'aéroport de destination de
-l'aéronef, sont désinsectisés conformément à l'article 25, selon les méthodes
-recommandées par l'Organisation. Les Etats intéressés acceptent la
-désinsectisation pratiquée en cours de vol au moyen du dispositif approuvé de
-désinsectisation par vapeurs. Les navires quittant un port qui se trouve dans
-cette situation sont maintenus exempts des moustiques en cause à l'état immature
-ou à l'état adulte.
+h) D'assurer les mesures qui précèdent 24 heures sur 24.
 
-2. A l'arrivée sur un aéroport situé dans une zone où l'importation de vecteurs
-pourrait causer la transmission du paludisme ou d'une autre maladie transmise
-par des moustiques, ou dans laquelle a été éliminée une espèce vectrice qui est
-présente dans la zone où se trouve situé l'aéroport d'origine, les aéronefs
-mentionnés au paragraphe 1 du présent article peuvent être désinsectisés
-conformément à l'article 25, si l'autorité sanitaire ne reçoit pas une preuve
-satisfaisante que la désinsectisation a été effectuée conformément au paragraphe
-1 du présent article. Les navires arrivant dans un port qui se trouve dans cette
-situation doivent être, sous le contrôle de l'autorité sanitaire, traités et
-débarrassés des moustiques en cause à l'état immature ou à l'état adulte.
+B. ― PRINCIPALES CAPACITÉS REQUISES DES AÉROPORTS, PORTS ET POSTES-FRONTIÈRES
+DÉSIGNÉS
 
-3. Dans la mesure du possible, et si cela se justifie, on maintient exempts
-d'insectes vecteurs de maladies humaines les trains, véhicules routiers, autres
-moyens de transport ou conteneurs, ou les bateaux utilisés pour le trafic côtier
-international ou pour le trafic international sur les voies d'eau intérieures.
+1. En permanence.
 
-Article 84 (33)
+La capacité :
 
-1. Les migrants, les nomades, les travailleurs saisonniers ou les personnes
-prenant part à des rassemblements périodiques importants, ainsi que tout navire,
-en particulier les petites embarcations utilisées pour le trafic côtier
-international, tout aéronef, train, véhicule routier ou autre moyen de transport
-qu'ils empruntent, peuvent être soumis à des mesures sanitaires additionnelles
-conformes aux lois et règlements de chacun des Etats intéressés et aux accords
-intervenus entre eux.
+a) D'assurer l'accès à un service médical approprié, y compris à des moyens
+diagnostiques situés de façon à permettre l'examen et la prise en charge rapides
+des voyageurs malades ; et de mettre à disposition des personnels, du matériel
+et des locaux adéquats ;
 
-2. Chacun des Etats informe l'Organisation des dispositions légales et
-réglementaires, ainsi que des accords, applicables aux migrants, aux nomades,
-aux travailleurs saisonniers et aux personnes prenant part à des rassemblements
-périodiques importants.
+b) De mettre à disposition le matériel voulu et le personnel approprié pour
+permettre le transport des voyageurs malades vers un service médical approprié ;
 
-3. Les normes d'hygiène observées à bord des navires et aéronefs qui
-transportent des personnes prenant part à des rassemblements périodiques
-importants ne seront pas inférieures à celles qui sont recommandées par
-l'Organisation.
+c) De fournir les services d'un personnel qualifié pour l'inspection des moyens
+de transport ;
 
+d) D'assurer l'hygiène des services utilisés par les voyageurs au point
+d'entrée, y compris l'approvisionnement en eau potable, les établissements de
+restauration, les services de restauration à bord et les toilettes publiques,
+ainsi que celle des services d'évacuation des déchets solides et liquides et des
+autres zones potentiellement à risque, en conduisant, au besoin, des programmes
+d'inspection ; et
 
-Article 85
+e) De mettre en place dans la mesure où cela est possible dans la pratique un
+programme conduit par du personnel qualifié pour lutter contre les vecteurs et
+les réservoirs de vecteurs aux points d'entrée et à proximité de ceux-ci.
 
-1. Des conventions ou arrangements spéciaux peuvent être conclus entre deux ou
-plusieurs Etats ayant des intérêts communs en raison de leurs conditions
-sanitaires, géographiques, sociales ou économiques pour faciliter l'application
-du présent Règlement, notamment ce qui concerne :
+2. Pour faire face aux événements pouvant constituer une urgence de santé
+publique de portée internationale.
 
-a) L'échange direct et rapide de renseignements épidémiologiques entre
-territoires voisins ;
+La capacité :
 
-b) Les mesures sanitaires applicables au trafic côtier international et au
-trafic international sur les voies d'eau intérieures, y compris les lacs ;
+a) D'organiser une action appropriée en établissant et en maintenant un plan
+d'intervention pour les urgences de santé publique, y compris la désignation
+d'un coordonnateur et de responsables pour les points d'entrée et les organismes
+et services de santé publique et autres qui sont concernés ;
 
-c) Les mesures sanitaires applicables aux frontières de territoires limitrophes
-;
+b) D'assurer l'examen et la prise en charge des voyageurs ou des animaux
+affectés en passant des accords avec les services médicaux et vétérinaires
+locaux pour permettre leur isolement et leur traitement et fournir les autres
+services d'appui éventuellement nécessaires ;
 
-d) La réunion de deux ou plusieurs territoires eu un seul pour l'application de
-toute mesure sanitaire prévue au présent Règlement ;
+c) De prévoir un espace approprié, séparé des autres voyageurs, pour les
+entretiens avec les personnes suspectes ou affectées ;
 
-e) L'utilisation de moyens de transport spécialement aménagés pour le
-déplacement des personnes infectées.
+d) D'assurer l'examen et, si nécessaire, la mise en quarantaine des voyageurs
+suspects, de préférence dans des installations éloignées du point d'entrée ;
 
-2. Les conventions ou arrangements visés au paragraphe 1 du présent article ne
-doivent pas comporter de dispositions contraires à celles du présent Règlement.
+e) D'appliquer les mesures recommandées pour désinsectiser, dératiser,
+désinfecter, décontaminer ou traiter d'une autre façon les bagages, cargaisons,
+conteneurs, moyens de transport, marchandises et colis postaux, y compris, si
+nécessaire, dans des lieux spécialement affectés et équipés à cette fin ;
 
-3. Les Etats communiquent à l'Organisation toutes conventions ou tous
-arrangements qu'ils peuvent être amenés à conclure aux termes du présent
-article. L'Organisation informe immédiatement toutes les administrations
-sanitaires de la conclusion de ces conventions ou arrangements.
+f) De soumettre les voyageurs à l'arrivée et au départ à des contrôles d'entrée
+et de sortie ; et
 
-TITRE IX : DISPOSITIONS FINALES
+g) D'assurer l'accès à des équipements spéciaux et à du personnel qualifié
+convenablement protégé, pour permettre le transfert des voyageurs pouvant être
+porteurs d'une source d'infection ou de contamination.
 
 
-Article 86
+Vous pouvez consulter le tableau dans le
 
-1. Sous réserve des dispositions de l'article 88 et des exceptions ci-après
-spécifiées, le présent Règlement remplace, entre les Etats qui y sont soumis et
-entre ces Etats et l'Organisation, les dispositions des conventions sanitaires
-internationales, des règlements sanitaires internationaux et des arrangements de
-même nature ci-après mentionnés :
+JOn° 77 du 01/04/2010 texte numéro 22
 
-a) Convention sanitaire internationale, signée à Paris le 3 décembre 1903 ;
 
-b) Convention sanitaire panaméricaine, signée à Washington le 14 octobre 1905 ;
+Vous pouvez consulter le tableau dans le
 
-c) Convention sanitaire internationale, signée à Paris le 17 janvier 1912 ;
+JOn° 77 du 01/04/2010 texte numéro 22
 
-d) Convention sanitaire internationale, signée à Paris le 21 juin 1926 ;
 
-e) Convention sanitaire internationale pour la navigation aérienne, signée à La
-Haye le 12 avril 1933 ;
+Vous pouvez consulter le tableau dans le
 
-f) Arrangement international concernant la suppression des patentes de santé,
-signé à Paris le 22 décembre 1934 ;
+JOn° 77 du 01/04/2010 texte numéro 22
 
-g) Arrangement international concernant la suppression des visas consulaires sur
-les patentes de santé, signé à Paris le 22 décembre 1934 ;
 
-h) Convention portant modification de la Convention sanitaire internationale du
-21 juin 1926, signée à Paris le 31 octobre 1938 ;
+Vous pouvez consulter le tableau dans le
 
-i) Convention sanitaire internationale de 1944 portant modification de la
-Convention du 21 juin 1926, ouverte à la signature à Washington le 15 décembre
-1944 ;
+JOn° 77 du 01/04/2010 texte numéro 22
 
-j) Convention sanitaire internationale pour la navigation aérienne de 1944
-portant modification de la Convention du 12 avril 1933, ouverte à la signature à
-Washington le 15 décembre 1944 ;
 
-k) Protocole du 23 avril 1946 prorogeant la Convention sanitaire internationale
-de 1944, signé à Washington ;
+Vous pouvez consulter le tableau dans le
 
-l) Protocole du 23 avril 1946 prorogeant la Convention sanitaire internationale
-pour la navigation aérienne de 1944, signé à Washington ;
+JOn° 77 du 01/04/2010 texte numéro 22
 
-m) Règlement sanitaire international de 1951 et Règlements additionnels de 1955,
-1956, 1960, 1963 et 1965.
 
-2. Le Code sanitaire panaméricain, signé à La Havane le 14 novembre 1924, reste
-en vigueur, à l'exception des articles 2, 9, 10, 11, 16 à 53, 61 et 62, auxquels
-s'appliquent les dispositions appropriées du paragraphe 1 du présent article.
+Vous pouvez consulter le tableau dans le
 
+JOn° 77 du 01/04/2010 texte numéro 22
 
-Article 87
 
-1. Le délai prévu conformément à l'article 22 de la Constitution de
-l'Organisation pour formuler tous refus ou réserves est de neuf mois à compter
-de la date de notification, par le Directeur général, de l'adoption du présent
-Règlement par l'Assemblée mondiale de la Santé.
+A N N E X E 4
 
-2. Un Etat peut, par notification faite au Directeur général, porter cette
-période à dix-huit mois en ce qui concerne les territoires d'outre-mer ou
-éloignés pour lesquels il a la responsabilité de la conduite des relations
-internationales.
+PRESCRIPTIONS TECHNIQUES APPLICABLES AUX MOYENS DE TRANSPORT ET AUX EXPLOITANTS
+DE MOYENS DE TRANSPORT
 
-3. Tout refus ou réserve reçu par le Directeur général après l'expiration de la
-période visée au paragraphe 1 ou au paragraphe 2 du présent article, selon le
-cas, est sans effet.
 
+Section A
 
-Article 88
+Exploitants de moyens de transport
 
-1. Lorsqu'un Etat fait une réserve au présent Règlement, celle-ci n'est valable
-que si elle est acceptée par l'Assemblée mondiale de la Santé. Le présent
-Règlement n'entre en vigueur au regard de cet Etat que lorsque cette réserve a
-été acceptée par l'Assemblée ou, si l'Assemblée s'y est opposée du fait qu'elle
-contrevient essentiellement au caractère et au but du Règlement, lorsque ladite
-réserve a été retirée.
+1. Les exploitants de moyens de transport faciliteront :
 
-2. Un refus partiel du présent Règlement équivaut à une réserve.
+a) Les inspections de la cargaison, des conteneurs et du moyen de transport ;
 
-3. L'Assemblée mondiale de la Santé peut mettre comme condition à son
-acceptation d'une réserve l'obligation pour l'Etat qui formule cette réserve de
-continuer à assumer une ou plusieurs obligations portant sur l'objet de ladite
-réserve et qui avaient été précédemment acceptées par ledit Etat en vertu de
-conventions, règlements et arrangements de même nature visés à l'article 86.
+b) Les examens médicaux des personnes présentes à bord ;
 
-4. Si un Etat formule une réserve, considérée par l'Assemblée mondiale de la
-Santé comme ne contrevenant pas essentiellement à une ou plusieurs obligations
-qu'avait acceptées ledit Etat en vertu des conventions, règlements et
-arrangements de même nature visés à l'article 86, l'Assemblée peut accepter
-cette réserve sans demander à l'Etat comme condition d'acceptation de s'obliger
-comme il est prévu au paragraphe 3 du présent article.
+c) L'application des autres mesures sanitaires prévues dans le présent Règlement
+; et
 
-5. Si l'Assemblée mondiale de la Santé s'oppose à une réserve et si celle-ci
-n'est pas retirée, le présent Règlement n'entre pas en vigueur au regard de
-l'Etat qui a fait cette réserve. Les conventions, règlements et arrangements de
-même nature visés à l'article 86 auxquels cet Etat est déjà partie demeurent dès
-lors en vigueur en ce qui le concerne.
+d) La fourniture des informations de santé publique requises par l'Etat Partie.
 
+2. Les exploitants de moyens de transport fourniront à l'autorité compétente des
+Etats Parties un certificat valable d'exemption de contrôle sanitaire, ou de
+contrôle sanitaire de navire, ou une déclaration maritime de santé, ou la partie
+relative aux questions sanitaires de la déclaration générale d'aéronef, comme
+l'exige le présent Règlement.
 
-Article 89
 
-Un refus ou tout ou partie d'une réserve quelconque peuvent, à tout moment, être
-retirés par notification faite au Directeur général.
+Section B
 
+Moyens de transport
 
-Article 90
+1. Les mesures appliquées en vertu du présent Règlement à un bagage, une
+cargaison, un conteneur, un moyen de transport ou une marchandise seront mises
+en œuvre de façon à éviter autant que possible tout traumatisme ou gêne pour les
+personnes et tout dommage pour les bagages, la cargaison, le conteneur, le moyen
+de transport ou les marchandises. Les mesures sont appliquées, si possible et
+approprié, lorsque le moyen de transport et les cales sont vides.
 
-1. Le présent Règlement entre en vigueur le 1er janvier 1971.
+2. Les Etats Parties doivent indiquer par écrit les mesures appliquées à une
+cargaison, un conteneur ou un moyen de transport, les parties traitées, les
+méthodes employées et les raisons de leur application. Ces informations sont
+communiquées par écrit à la personne responsable de l'aéronef et, dans le cas
+d'un navire, elles sont notées sur le certificat de contrôle sanitaire de
+navire. Pour d'autres cargaisons, conteneurs ou moyens de transport, les Etats
+Parties remettent ces informations par écrit aux expéditeurs, destinataires,
+transporteurs et à la personne chargée du transport ou à leur agent.
 
-2. Tout Etat qui devient membre de l'Organisation après cette date et qui n'est
-pas déjà partie au présent Règlement peut notifier qu'il le refuse ou qu'il fait
-des réserves à son sujet, et ce dans un délai de trois mois à compter de la date
-à laquelle cet Etat devient membre de l'Organisation. Sous réserve des
-dispositions de l'article 88, et sauf en cas de refus, le présent Règlement
-entre en vigueur au regard de cet Etat à l'expiration du délai susvisé.
 
+A N N E X E 5
 
-Article 91
+MESURES PARTICULIÈRES CONCERNANT LES MALADIES À TRANSMISSION VECTORIELLE
 
-1. Les Etats non membres de l'Organisation, mais qui sont parties à des
-conventions, règlements ou arrangements de même nature visés à l'article 86, ou
-auxquels le Directeur général a notifié l'adoption du présent Règlement par
-l'Assemblée mondiale de la Santé, peuvent devenir parties à celui-ci en
-notifiant au Directeur général leur acceptation. Sous réserve des dispositions
-de l'article 88, cette acceptation prend effet à la date d'entrée en vigueur du
-présent Règlement ou, si cette acceptation est notifiée après cette date, trois
-mois après le jour de la réception par le Directeur général de ladite
-notification.
+1. L'OMS publie régulièrement la liste des zones en provenance desquelles tout
+moyen de transport doit faire l'objet des mesures de désinsectisation ou des
+autres mesures de lutte antivectorielle recommandées. Ces zones sont définies
+conformément aux procédures applicables aux recommandations temporaires ou
+permanentes, selon le cas.
 
-2. Aux fins de l'application du présent Règlement les articles 23, 33, 62, 63 et
-64 de la Constitution de l'Organisation s'appliquent aux Etats non membres de
-l'Organisation qui deviennent parties audit Règlement.
+2. Les moyens de transport quittant un point d'entrée situé dans une zone où la
+lutte antivectorielle est recommandée doivent être désinsectisés et maintenus
+exempts de vecteurs. Lorsque l'Organisation préconise des méthodes et des
+matériels pour ces opérations, ceux-ci doivent être utilisés. La présence de
+vecteurs à bord des moyens de transport et les mesures de lutte prises pour les
+éradiquer doivent être consignées :
 
-3. Les Etats non membres de l'Organisation, mais qui sont devenus parties au
-présent Règlement, peuvent en tout temps dénoncer leur participation audit
-Règlement par une notification adressée au Directeur général ; cette
-dénonciation prend effet six mois après réception de ladite notification. L'Etat
-qui a dénoncé applique de nouveau, à partir de ce moment, les dispositions des
-conventions, règlements ou arrangements de même nature visés à l'article 86
-auxquels ledit Etat était précédemment partie.
+a) Dans le cas d'un aéronef, dans la partie relative aux questions sanitaires de
+la Déclaration générale d'aéronef, sauf si l'autorité compétente de l'aéroport
+d'arrivée accorde une dispense permettant de ne pas remplir cette partie ;
 
+b) Dans le cas d'un navire, sur le certificat de contrôle sanitaire de navire ;
+et
 
-Article 92
+c) Dans le cas d'autres moyens de transport, sur une attestation écrite de
+traitement délivrée à l'expéditeur, au destinataire, au transporteur et à la
+personne chargée du transport ou à leur agent.
 
-Le Directeur général de l'Organisation notifie à tous les Membres et Membres
-associés, ainsi qu'aux autres parties aux conventions, règlements et
-arrangements de même nature visés à l'article 86, l'adoption du présent
-Règlement par l'Assemblée mondiale de la Santé. Le Directeur général notifie de
-même à ces Etats, ainsi qu'à tout autre Etat devenu partie au présent Règlement,
-tout Règlement additionnel modifiant ou complétant celui-ci, ainsi que toute
-notification qu'il aura reçue en application des articles 87, 89, 90 et 91
-respectivement, aussi bien que toute décision prise par l'Assemblée mondiale de
-la Santé en application de l'article 88.
+3. Les Etats Parties doivent accepter les mesures de désinsectisation, de
+dératisation et autres mesures de lutte antivectorielle appliquées aux moyens de
+transport par d'autres Etats, si les méthodes et les matériels préconisés par
+l'Organisation ont été utilisés.
 
+4. Les Etats Parties doivent mettre sur pied des programmes pour lutter contre
+les vecteurs susceptibles de transporter un agent infectieux constituant un
+risque pour la santé publique dans un périmètre d'au moins 400 mètres à partir
+des zones des installations au point d'entrée qui sont utilisées pour les
+opérations concernant les voyageurs, moyens de transport, conteneurs, cargaisons
+et colis postaux, voire davantage si les vecteurs présents ont un plus grand
+rayon d'action.
 
-Article 93
+5. Si une inspection complémentaire est requise pour déterminer le succès des
+mesures de lutte antivectorielle appliquées, les autorités compétentes de la
+prochaine escale portuaire ou aéroportuaire connue habilitées à procéder à une
+telle inspection doivent en être informées à l'avance par l'autorité compétente
+qui en fait la demande. Dans le cas d'un navire, cette inspection doit être
+consignée sur le certificat de contrôle sanitaire de navire.
 
-1. Toute question ou tout différend concernant l'interprétation ou l'application
-du présent Règlement ou de tout Règlement additionnel peut être soumis, par tout
-Etat intéressé, au Directeur général, qui s'efforce alors de régler la question
-ou le différend. A défaut de règlement, le Directeur général, de sa propre
-initiative ou à la requête de tout Etat intéressé, soumet la question ou le
-différend au comité ou autre organe compétent de l'Organisation pour examen.
+6. Un moyen de transport est considéré comme suspect et doit être inspecté pour
+y déceler la présence de vecteurs ou réservoirs :
 
-2. Tout Etat intéressé a le droit d'être représenté devant ce comité ou cet
-autre organe.
+a) S'il y a à bord un cas possible de maladie à transmission vectorielle ;
 
-3. Tout différend qui n'a pas été réglé par cette procédure peut, par voie de
-requête, être porté par tout Etat intéressé devant la Cour internationale de
-Justice pour décision.
+b) Si un cas possible de maladie à transmission vectorielle est survenu à bord
+au cours d'un voyage international ; ou
 
+c) Si ce moyen de transport a quitté une zone affectée alors que les vecteurs
+présents à bord pouvaient encore être porteurs de maladie.
 
-Article 94
+7. Un Etat Partie ne peut pas interdire l'atterrissage d'un aéronef dans un
+aéroport de son territoire ou l'arrivée d'un navire si les mesures de lutte
+visées au paragraphe 3 de la présente annexe, ou recommandées autrement par
+l'Organisation, sont appliquées. Toutefois, les aéronefs ou les navires
+provenant d'une zone affectée peuvent être tenus d'atterrir à des aéroports ou
+détournés vers d'autres ports spécialement désignés à cet effet par l'Etat
+Partie.
 
-1. Le texte français et le texte anglais du présent Règlement font également
-foi.
+8. Un Etat Partie peut appliquer des mesures de lutte antivectorielle à un moyen
+de transport en provenance d'une zone où sévit une maladie à transmission
+vectorielle si les vecteurs de cette maladie sont présents sur son territoire.
 
-2. Les textes originaux du présent Règlement sont déposés aux archives de
-l'Organisation. Des copies certifiées conformes en sont expédiées par le
-Directeur général à tous les Membres et Membres associés, comme aussi aux autres
-parties aux conventions, règlements et arrangements de même nature visés à
-l'article 86. Au moment de l'entrée en vigueur du présent Règlement, des copies
-certifiées conformes sont fournies par le Directeur général au Secrétaire
-général de l'Organisation des Nations Unies pour enregistrement en application
-de l'article 102 de la Charte des Nations Unies.
+
+A N N E X E 6
+
+VACCINATION, PROPHYLAXIE ET CERTIFICATS Y AFFÉRENTS
+
+1. Les vaccins ou autres agents prophylactiques mentionnés à l'annexe 7 ou
+recommandés dans le présent Règlement doivent être de qualité satisfaisante ;
+les vaccins et agents prophylactiques prescrits par l'OMS doivent être soumis à
+son approbation. Sur demande, l'Etat Partie fournit à l'OMS des éléments
+appropriés attestant l'adéquation des vaccins et agents prophylactiques
+administrés sur son territoire en vertu du présent Règlement.
+
+2. Les personnes à qui des vaccins ou autres agents prophylactiques sont
+administrés en vertu du présent Règlement reçoivent un certificat international
+de vaccination ou un certificat attestant l'administration d'une prophylaxie
+(ci-après dénommé le certificat ), conforme au modèle figurant dans la présente
+annexe. Ce modèle doit être scrupuleusement respecté.
+
+3. Les certificats visés par la présente annexe ne sont valables que si le
+vaccin ou l'agent prophylactique utilisé a été approuvé par l'OMS.
+
+4. Les certificats doivent être signés de la main du clinicien ― médecin ou
+autre agent de santé agréé ― qui supervise l'administration du vaccin ou de
+l'agent prophylactique ; ils doivent aussi porter le cachet officiel du centre
+habilité qui ne peut, toutefois, être considéré comme tenant lieu de signature.
+
+5. Les certificats doivent être remplis intégralement en anglais ou en français
+; ils peuvent l'être aussi, en plus, dans une autre langue.
+
+6. Toute correction ou rature sur les certificats ou l'omission d'une quelconque
+des informations demandées peut entraîner leur nullité.
+
+7. Les certificats sont individuels et ne doivent en aucun cas être utilisés à
+titre collectif. Les enfants doivent être munis de certificats distincts.
+
+8. Lorsque le certificat est délivré à un enfant qui ne sait pas écrire, un de
+ses parents ou tuteurs doit le signer à sa place. La signature d'un illettré
+doit être remplacée, comme il est d'usage en pareil cas, par sa marque
+authentifiée par un tiers.
+
+9. Si le clinicien responsable est d'avis que la vaccination ou l'administration
+d'une prophylaxie est contre-indiquée pour des raisons médicales, il remet à
+l'intéressé un certificat de contre-indication dûment motivé, rédigé en anglais
+ou en français et, le cas échéant, dans une autre langue en plus de l'anglais ou
+du français, que les autorités compétentes du lieu d'arrivée doivent prendre en
+compte. Le clinicien responsable et les autorités compétentes informent
+l'intéressé de tout risque associé à la non-vaccination ou à la non-utilisation
+de la prophylaxie conformément aux dispositions de l'article 23, paragraphe 4.
+
+10. Un document équivalent délivré par les forces armées à un membre actif de
+ces forces sera accepté en lieu et place d'un certificat international conforme
+au modèle figurant dans la présente annexe :
+
+a) S'il contient des informations médicales essentiellement identiques à celles
+requises dans le modèle ; et
+
+b) S'il indique en anglais ou en français, et le cas échéant dans une autre
+langue en plus de l'anglais ou du français, la nature et la date de la
+vaccination ou de l'administration de la prophylaxie, et s'il est délivré
+conformément au présent paragraphe.
+
+MODÈLE DE CERTIFICAT INTERNATIONAL DE VACCINATION OU DE CERTIFICAT ATTESTANT
+L'ADMINISTRATION D'UNE PROPHYLAXIE
+
+Nous certifions que [nom] né(e) le , de sexe
+
+et de nationalité , document d'identification national, le cas échéant
+
+dont la signature suit
+
+a été vacciné(e) ou a reçu des agents prophylactiques à la date indiquée contre
+: (nom de la maladie ou de l'affection)
+
+conformément au Règlement sanitaire international.
+
+
+VACCIN
+
+ou agent prophylactique
+
+
+DATE
+
+SIGNATURE ET TITRE
+
+du clinicien responsable
+
+
+FABRICANT DU VACCIN
+
+ou de l'agent prophylactique
+
+et numéro du lot
+
+
+CERTIFICAT VALABLE
+
+à partir du :
+
+jusqu'au :
+
+
+CACHET OFFICIEL
+
+du centre habilité
+
+1.
+
+2.
+
+Ce certificat n'est valable que si le vaccin ou l'agent prophylactique utilisé a
+été approuvé par l'Organisation mondiale de la Santé.
+
+Ce certificat doit être signé de la main du clinicien ― médecin ou autre agent
+de santé agréé ― qui supervise l'administration du vaccin ou de l'agent
+prophylactique ; il doit aussi porter le cachet officiel du centre habilité qui
+ne peut, toutefois, être considéré comme tenant lieu de signature.
+
+Toute correction ou rature sur le certificat ou l'omission d'une quelconque des
+informations demandées peut entraîner sa nullité.
+
+Ce certificat est valable jusqu'à la date indiquée pour le vaccin ou l'agent
+prophylactique administré. Il doit être établi intégralement en anglais ou en
+français. Le même certificat peut aussi être établi dans une autre langue, en
+plus de l'anglais ou du français.
+
+
+A N N E X E 7
+
+PRESCRIPTIONS CONCERNANT LA VACCINATION OU LA PROPHYLAXIE CONTRE CERTAINES
+MALADIES
+
+1. En plus des éventuelles recommandations concernant la vaccination ou
+l'administration d'une prophylaxie, l'entrée des voyageurs dans un Etat Partie
+peut être subordonnée à la présentation de la preuve de la vaccination ou de
+l'administration d'une prophylaxie contre les maladies suivantes expressément
+désignées par le présent Règlement :
+
+Fièvre jaune.
+
+2. Considérations et prescriptions concernant la vaccination contre la fièvre
+jaune :
+
+a) Aux fins de la présente annexe :
+
+i) La période d'incubation de la fièvre jaune est de six jours ;
+
+ii) Les vaccins antiamarils approuvés par l'OMS confèrent une protection contre
+l'infection qui prend effet 10 jours après l'administration du vaccin ;
+
+iii) Cette protection dure 10 ans ; et
+
+iv) La validité d'un certificat de vaccination contre la fièvre jaune est de 10
+ans, à compter du dixième jour suivant la date de vaccination ou, dans le cas
+d'une revaccination au cours de cette période de 10 ans, à compter de la date de
+revaccination.
+
+b) La vaccination contre la fièvre jaune peut être exigée de tout voyageur
+quittant une zone dans laquelle l'Organisation a déterminé qu'il existe un
+risque de transmission de la fièvre jaune.
+
+c) Un voyageur muni d'un certificat de vaccination antiamarile non encore
+valable peut être autorisé à partir, mais les dispositions du paragraphe 2 h de
+la présente annexe peuvent lui être appliquées à l'arrivée.
+
+d) Un voyageur muni d'un certificat valable de vaccination contre la fièvre
+jaune ne doit pas être considéré comme suspect, même s'il provient d'une zone
+dans laquelle l'Organisation a établi qu'il existe un risque de transmission de
+la fièvre jaune.
+
+e) Conformément aux dispositions de l'annexe 6, paragraphe 1, le vaccin
+antiamaril utilisé doit être approuvé par l'Organisation.
+
+f) Les Etats Parties désignent des centres déterminés de vaccination antiamarile
+sur leur territoire pour garantir la qualité et la sécurité des procédures et
+des matériels utilisés.
+
+g) Toute personne employée à un point d'entrée dans une zone dans laquelle
+l'Organisation a établi qu'il existe un risque de transmission de la fièvre
+jaune, ainsi que tout membre de l'équipage d'un moyen de transport qui utilise
+ce point d'entrée, doivent être munis d'un certificat valable de vaccination
+contre la fièvre jaune.
+
+h) Un Etat Partie sur le territoire duquel des vecteurs de la fièvre jaune sont
+présents peut exiger qu'un voyageur en provenance d'une zone dans laquelle
+l'Organisation a établi qu'il existe un risque de transmission de la fièvre
+jaune soit, s'il n'est pas en mesure de présenter un certificat valable de
+vaccination antiamarile, mis en quarantaine pendant un maximum de six jours à
+compter de la date de la dernière exposition possible à l'infection, à moins que
+son certificat de vaccination ne soit devenu valable entre-temps.
+
+i) Les voyageurs en possession d'un certificat d'exemption de vaccination
+antiamarile signé par un médecin autorisé ou un agent de santé agréé peuvent
+néanmoins être autorisés à entrer sur le territoire, sous réserve des
+dispositions de l'alinéa précédent de la présente annexe et pour autant qu'ils
+aient reçu des informations sur la protection contre les vecteurs de la fièvre
+jaune. Les voyageurs qui n'ont pas été mis en quarantaine peuvent être tenus de
+signaler tout symptôme fébrile ou tout autre symptôme pertinent à l'autorité
+compétente et placés sous surveillance.
+
+
+Vous pouvez consulter le tableau dans le
+
+JOn° 77 du 01/04/2010 texte numéro 22
+
+
+PIÈCE JOINTE AU MODÈLE DE DÉCLARATION MARITIME DE SANTÉ
+
+NOM
+
+
+CLASSE
+
+ou fonctions
+
+à bord
+
+
+AGE
+
+SEXE
+
+
+NATIONALITÉ
+
+PORT
+
+et date
+
+d'embarquement
+
+
+NATURE
+
+de la maladie
+
+
+DATE
+
+d'apparition
+
+des symptômes
+
+
+SIGNALÉE
+
+au médecin
+
+du port ?
+
+ISSUE (*)
+
+
+MÉDICAMENTS
+
+ou autres
+
+traitements
+
+administrés
+
+au patient
+
+
+OBSERVATIONS
+
+(*) Indiquer : 1) si la personne s'est rétablie, si elle est encore malade ou si
+elle est décédée ; et 2) si la personne est encore à bord, si elle a été évacuée
+(donner le nom du port ou de l'aéroport), ou si son corps a été immergé.
+
+
+A N N E X E 9
+
+CE DOCUMENT FAIT PARTIE DE LA DÉCLARATION GÉNÉRALE D'AÉRONEF PROMULGUÉE PAR
+L'ORGANISATION INTERNATIONALE DE L'AVIATION CIVILE
+
+PARTIE RELATIVE AUX QUESTIONS SANITAIRES DE LA DÉCLARATION GÉNÉRALE D'AÉRONEF
+(1)
+
+
+Déclaration de santé
+
+Cas de maladie, à l'exclusion du mal de l'air ou des accidents (y compris les
+personnes présentant des symptômes ou signes tels qu'éruption, fièvre, frissons,
+diarrhée), constatés à bord ou débarqués au cours du voyage
+
+Présence à bord d'autres affections susceptibles d'être à l'origine de la
+propagation d'une maladie
+
+Détails se rapportant à chaque désinsectisation ou autre mesure d'hygiène (lieu,
+date, heure, méthode) pratiquée en cours de vol. S'il n'y a pas eu de
+désinsectisation en cours de vol, donner des précisions sur la désinsectisation
+la plus récente
+
+Signature (si nécessaire) :
+
+Membre de l'équipage concerné
+
+(1) Un groupe de travail informel s'est réuni pendant la deuxième session du
+groupe de travail intergouvernemental et a recommandé des changements à apporter
+au présent document que l'OMS communiquera à l'Organisation internationale de
+l'aviation civile pour suite à donner.

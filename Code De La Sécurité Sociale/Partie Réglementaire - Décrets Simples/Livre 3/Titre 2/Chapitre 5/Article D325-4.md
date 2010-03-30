@@ -8,8 +8,8 @@ l'article R. 155-1 ;
 
 2° Désigne le directeur et l'agent comptable du régime local, choisis parmi les
 agents en activité des caisses primaires d'assurance maladie des départements du
-Haut-Rhin, du Bas-Rhin, de la Moselle, de la caisse régionale d'assurance
-maladie d'Alsace-Moselle ou de la caisse régionale d'assurance vieillesse des
+Haut-Rhin, du Bas-Rhin, de la Moselle, de la caisse de la santé au travail
+d'Alsace-Moselle ou de la caisse régionale d'assurance vieillesse des
 travailleurs salariés de Strasbourg, occupant respectivement des fonctions de
 directeur ou d'agent comptable ;
 

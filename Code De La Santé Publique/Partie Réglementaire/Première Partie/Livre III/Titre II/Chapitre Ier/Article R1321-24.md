@@ -26,7 +26,7 @@ laboratoire répondant à des exigences définies par arrêté du ministre charg
 la santé. Ces prélèvements et analyses sont effectués par le laboratoire situé
 dans l'usine de traitement d'eau ou, à défaut, par un laboratoire :
 
-a) Soit agréé, dans les conditions prévues à l'article R.* 1321-21, pour la
+a) Soit agréé, dans les conditions prévues à l'article R. * 1321-21, pour la
 réalisation des prélèvements et des analyses du contrôle sanitaire des eaux pour
 les paramètres concernés ;
 
@@ -39,8 +39,9 @@ Les prélèvements peuvent être réalisés par un agent de l'usine de traitemen
 d'eau à condition que l'activité de prélèvement soit incluse dans le domaine
 d'application du système de gestion de la qualité mentionné au 1°.
 
-Les résultats de ces analyses de surveillance sont transmis au préfet au minimum
-une fois par mois.
+Les résultats de ces analyses de surveillance sont transmis au minimum une fois
+par mois au directeur général de l'agence régionale de santé qui les communique
+au préfet avec ses observations.
 
 Ces dispositions peuvent s'appliquer à certaines des analyses, dans les
 conditions fixées par l'arrêté ministériel mentionné à l'article R. 1321-15.

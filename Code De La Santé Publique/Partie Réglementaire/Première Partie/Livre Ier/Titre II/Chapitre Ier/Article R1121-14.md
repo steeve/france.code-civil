@@ -1,11 +1,13 @@
 Article R1121-14
 ----
 L'autorisation mentionnée à l'article L. 1121-13 est délivrée après enquête
-effectuée par un médecin inspecteur de santé publique et, lorsque les recherches
-impliquent l'emploi de médicaments ou de dispositifs médicaux stériles, un
-pharmacien inspecteur de santé publique. Le ministre de la défense est
-préalablement averti de leur visite lorsque que la recherche est réalisée dans
-un lieu relevant de son autorité.
+effectuée par un médecin inspecteur de santé publique ou un inspecteur de
+l'agence régionale de santé ayant la qualité de médecin et, lorsque les
+recherches impliquent l'emploi de médicaments ou de dispositifs médicaux
+stériles, un pharmacien inspecteur de santé publique ou un inspecteur de
+l'agence régionale de santé ayant la qualité de pharmacien. Le ministre de la
+défense est préalablement averti de leur visite lorsque que la recherche est
+réalisée dans un lieu relevant de son autorité.
 
 En tant que de besoin, ces inspecteurs vérifient que les conditions
 d'aménagement, d'équipements, de fonctionnement et d'entretien des lieux

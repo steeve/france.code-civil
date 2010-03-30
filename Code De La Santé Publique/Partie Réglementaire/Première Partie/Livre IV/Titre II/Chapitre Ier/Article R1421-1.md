@@ -75,8 +75,9 @@ santé ;
 de sa compétence ; elle concourt à la détermination de leurs besoins en
 personnels et en actions de formation ;
 
-10° Elle assure la tutelle des établissements publics et organismes exerçant
-leur activité dans les domaines de la santé publique et de la sécurité
+10° Elle participe au Conseil national de pilotage des agences régionales de
+santé. Elle assure la tutelle des autres établissements publics et organismes
+exerçant leur activité dans les domaines de la santé publique et de la sécurité
 sanitaire. Elle prépare les contrats d'objectifs et de moyens et les contrats de
 performance passés avec ces établissements ;
 

@@ -1,8 +1,9 @@
 Article R4241-8-1
 ----
 La personne qui revendique le bénéfice de l'article L. 4241-9 adresse à cet
-effet une demande en double exemplaire au préfet du département dans lequel elle
-exerce ou a exercé en dernier lieu sa profession.A sa demande, elle joint :
+effet une demande en double exemplaire au directeur général de l'agence
+régionale de santé de la région dans laquelle elle exerce ou a exercé en dernier
+lieu sa profession.A sa demande, elle joint :
 
 1° Un extrait d'acte de naissance ou une copie de la carte nationale d'identité
 ou du passeport en cours de validité ;

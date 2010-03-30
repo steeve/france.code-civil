@@ -10,8 +10,7 @@ de soins et des équipements matériels lourds pris en vertu de l'article L.
 2° Les projets de décrets relatifs aux conditions techniques de fonctionnement
 pris en vertu de l'article L. 6124-1 ;
 
-3° Les projets de schémas nationaux d'organisation sanitaire mentionnés à
-l'article L. 6121-4 ;
+3° (Abrogé)
 
 4° Les recours hiérarchiques formés auprès du ministre en application de
 l'article L. 6122-10-1 ;

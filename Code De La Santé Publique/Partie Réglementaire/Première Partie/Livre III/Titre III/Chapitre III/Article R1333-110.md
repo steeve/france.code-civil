@@ -10,3 +10,7 @@ département du lieu de survenance par le chef d'établissement. Celui-ci indiqu
 Le préfet informe l'Autorité de sûreté nucléaire ou le délégué à la sûreté
 nucléaire et à la radioprotection pour les activités et installations
 intéressant la défense et l'Institut de radioprotection et de sûreté nucléaire.
+
+Lorsque la perte ou le vol concerne un établissement de santé ou un organisme
+responsable d'un service de santé, la déclaration doit en outre être adressée au
+directeur général de l'agence régionale de santé.

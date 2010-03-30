@@ -12,10 +12,10 @@ du président du tribunal de grande instance dans le ressort duquel se trouve la
 résidence professionnelle de l'intéressé. Cette demande est dispensée de
 ministère d'avocat.
 
-Le conseil peut être saisi soit par le préfet, soit par délibération du conseil
-départemental ou du conseil national. L'expertise prévue à l'alinéa précédent
-est effectuée au plus tard dans le délai de deux mois à compter de la saisine du
-conseil.
+Le conseil peut être saisi soit par le directeur général de l'agence régionale
+de santé, soit par délibération du conseil départemental ou du conseil
+national.L'expertise prévue à l'alinéa précédent est effectuée au plus tard dans
+le délai de deux mois à compter de la saisine du conseil.
 
 Les experts procèdent ensemble, sauf impossibilité manifeste, à l'expertise. Le
 rapport d'expertise est déposé au plus tard dans le délai de deux mois à compter

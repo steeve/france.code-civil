@@ -8,7 +8,3 @@ l'article L. 2121-1 du code du travail.
 Dans le cas où cet accord ne peut être obtenu, le responsable du service
 mentionné à l'article R. 155-1 procède à la répartition entre les collèges
 électoraux.
-
-Toutefois, dans les organismes de sécurité sociale mentionnés à l'article L.
-183-1, les employés et assimilés et les cadres et assimilés forment un collège
-électoral unique.

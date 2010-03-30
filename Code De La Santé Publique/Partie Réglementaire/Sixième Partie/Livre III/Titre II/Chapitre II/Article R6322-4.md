@@ -1,8 +1,8 @@
 Article R6322-4
 ----
 Les demandes d'autorisation ou de renouvellement de l'autorisation ne peuvent
-être examinées par le préfet que si elles sont accompagnées d'un dossier
-complet.
+être examinées par le directeur général de l'agence régionale de santé que si
+elles sont accompagnées d'un dossier complet.
 
 Ce dossier doit comprendre les éléments suivants :
 
@@ -66,12 +66,12 @@ c) La description du système de recueil et de traitement des données médicale
 techniques et administratives nécessaires à la mise en oeuvre de l'évaluation
 comprenant :
 
-- les caractéristiques des interventions réalisées, notamment les constatations
+-les caractéristiques des interventions réalisées, notamment les constatations
 de l'état de la personne concernée avant et après l'intervention ;
 
-- le volume des actes par nature et par degré de complexité ;
+-le volume des actes par nature et par degré de complexité ;
 
-- les données relatives à la surveillance des risques de survenance d'accident
+-les données relatives à la surveillance des risques de survenance d'accident
 médical, d'affection iatrogène, d'infection nosocomiale ou d'événement
 indésirable lié à un produit de santé, ainsi qu'au signalement des faits
 constatés de ces diverses natures ;

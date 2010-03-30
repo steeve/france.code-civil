@@ -60,8 +60,8 @@ Le conseil d'administration comprend, outre son président :
 a) Le directeur général de la santé au ministère de la santé ou son représentant
 ;
 
-b) Le directeur de l'administration générale, du personnel et du budget au
-ministère de la santé ou son représentant ;
+b) Le secrétaire général des ministères chargés des affaires sociales ou son
+représentant ;
 
 c) Le directeur de la recherche, des études, de l'évaluation et des statistiques
 au ministère de la santé ou son représentant ;

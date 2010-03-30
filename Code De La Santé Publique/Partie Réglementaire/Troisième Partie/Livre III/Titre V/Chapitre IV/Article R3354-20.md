@@ -9,12 +9,7 @@ médecins experts dont les attributions sont prévues à l'article R. 3354-15.
 L'inscription des biologistes et médecins experts sur cette liste, ainsi que, le
 cas échéant, leur non-réinscription ou leur radiation en cours d'année,
 s'opèrent selon les modalités et dans les conditions prévues par le décret n°
-74-1184 du 31 décembre 1974 relatif aux experts judiciaires.
-
-Les propositions présentées par le procureur général à l'assemblée générale de
-la cour d'appel en vue de l'inscription des biologistes et médecins experts sur
-ladite liste sont établies en accord avec le médecin inspecteur régional de
-santé publique.
+2004-1463 du 23 décembre 2004 relatif aux experts judiciaires.
 
 Lorsqu'un militaire a commis une infraction mentionnée à l'article L. 3354-1
 dans le service ainsi que dans les enceintes militaires, sans qu'une personne

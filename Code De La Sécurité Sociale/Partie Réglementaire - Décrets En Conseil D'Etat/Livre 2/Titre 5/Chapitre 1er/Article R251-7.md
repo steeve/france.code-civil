@@ -9,5 +9,6 @@ Le fonds supporte les dépenses effectuées au titre de l'action sanitaire et
 sociale.
 
 Au terme de l'exercice budgétaire, la fraction non utilisée par les caisses
-primaires et régionales de la dotation annuelle provenant du Fonds national
-d'action sanitaire et sociale est restituée à ce fonds.
+primaires d'assurance maladie et les caisses d'assurance retraite et de la santé
+au travail de la dotation annuelle provenant du Fonds national d'action
+sanitaire et sociale est restituée à ce fonds.

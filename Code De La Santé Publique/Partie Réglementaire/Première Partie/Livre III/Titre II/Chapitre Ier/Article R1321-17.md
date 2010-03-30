@@ -1,7 +1,9 @@
 Article R1321-17
 ----
-Le préfet peut imposer à la personne responsable de la production ou de la
-distribution d'eau des analyses complémentaires dans les cas suivants :
+Le directeur général de l'agence régionale de santé peut, à son initiative ou à
+la demande du préfet, faire effectuer à la charge de la personne responsable de
+la production ou de la distribution d'eau des analyses complémentaires dans les
+cas suivants :
 
 1° La qualité des eaux destinées à la consommation humaine ne respecte pas les
 limites de qualité fixées par l'arrêté mentionné à l'article R. 1321-2 ;

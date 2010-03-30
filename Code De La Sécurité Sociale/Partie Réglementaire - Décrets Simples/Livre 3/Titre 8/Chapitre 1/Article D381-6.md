@@ -1,9 +1,9 @@
 Article D381-6
 ----
-L'immatriculation est effectuée en tant que de besoin par la caisse régionale
-d'assurance maladie ou la caisse générale de sécurité sociale dans le ressort de
-laquelle est situé le domicile des intéressés. Lorsque le domicile se situe dans
-la région parisienne ou dans la région de Strasbourg, sont respectivement
+L'immatriculation est effectuée en tant que de besoin par la caisse d'assurance
+retraite et de la santé au travail ou la caisse générale de sécurité sociale
+dans le ressort de laquelle est situé le domicile des intéressés. Lorsque le
+domicile se situe en Ile-de-France ou en Alsace-Moselle, sont respectivement
 compétentes : la caisse nationale d'assurance vieillesse des travailleurs
 salariés ou la caisse régionale d'assurance vieillesse des travailleurs salariés
 de Strasbourg.

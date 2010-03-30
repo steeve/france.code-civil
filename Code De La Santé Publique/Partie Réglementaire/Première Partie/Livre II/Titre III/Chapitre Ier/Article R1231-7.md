@@ -19,8 +19,8 @@ applicable aux fonctionnaires de l'Etat.
 Chaque comité d'experts a son siège dans les locaux de l'Agence de la
 biomédecine situés dans son ressort. Toutefois, en vue de limiter les
 déplacements imposés aux donneurs et à leur famille, le comité peut se réunir
-dans un local mis à sa disposition par la direction départementale ou régionale
-des affaires sanitaires et sociales ou par un établissement de santé.
+dans un local mis à sa disposition par l'agence régionale de santé ou par un
+établissement de santé.
 
 Le secrétariat des comités d'experts est assuré par les services de l'Agence de
 la biomédecine qui conservent une copie des décisions rendues par les comités

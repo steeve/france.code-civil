@@ -49,7 +49,8 @@ du centre de transfusion sanguine des armées ;
 -deux personnes exerçant les fonctions de coordonnateur régional d'hémovigilance
 ;
 
--un médecin ou pharmacien inspecteur de santé publique ;
+-un médecin ou pharmacien inspecteur de santé publique ou un inspecteur d'une
+agence régionale de santé ayant la qualité de médecin ou de pharmacien ;
 
 -une personne choisie en raison de ses compétences en transfusion sanguine et
 désignée sur proposition du directeur de l'Institut national de la transfusion

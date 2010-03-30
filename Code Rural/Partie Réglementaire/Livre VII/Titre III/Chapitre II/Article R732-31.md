@@ -8,8 +8,9 @@ agricole au profit des ressortissants des régimes d'assurances sociales
 agricoles et d'assurances maladie, invalidité et maternité définis aux articles
 L. 722-10 et L. 722-29.
 
-Il a, en outre, pour objet de servir aux unions régionales des caisses
-d'assurance maladie ou, dans les départements d'outre-mer, à la caisse générale
-de sécurité sociale ou, à Saint-Pierre-et-Miquelon, à la caisse de prévoyance
-sociale la contribution mentionnée à l'article R. 1411-25 du code de la santé
-publique.
+Il a, en outre, pour objet de servir aux agences régionales de santé, ainsi qu'à
+l'agence de santé Guadeloupe, Saint-Barthélemy et Saint-Martin mentionnée à
+l'article L. 1442-1 du code de la santé publique et à l'agence de santé de
+l'océan Indien mentionnée à l'article L. 1443-1 du même code ou, à
+Saint-Pierre-et-Miquelon, à la caisse de prévoyance sociale la contribution
+mentionnée à l'article R. 1411-25 du code de la santé publique.

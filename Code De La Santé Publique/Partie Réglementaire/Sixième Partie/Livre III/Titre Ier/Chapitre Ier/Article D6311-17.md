@@ -32,9 +32,7 @@ soins d'urgence ;
 d'enseignement des soins d'urgence.
 
 Les réseaux régionaux d'enseignement des soins d'urgence se font enregistrer
-auprès de la direction régionale des affaires sanitaires et sociales qui adresse
-un bilan annuel d'activité à l'agence régionale de l'hospitalisation et à la
-commission nationale.
+auprès de l'agence régionale de santé et à la commission nationale.
 
 7° D'assurer l'information, la documentation et la diffusion des connaissances
 auprès de l'ensemble des réseaux d'enseignement des soins d'urgence.

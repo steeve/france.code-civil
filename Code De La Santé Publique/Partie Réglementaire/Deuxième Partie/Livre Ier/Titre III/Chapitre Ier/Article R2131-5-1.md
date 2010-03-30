@@ -28,9 +28,9 @@ informations doivent lui être fournies. Cette demande d'informations suspend le
 délai mentionné à l'alinéa précédent.
 
 Le titulaire de l'autorisation mentionnée à l'article L. 2131-1 est tenu de
-déclarer à l'agence régionale de l'hospitalisation compétente et à l'Agence de
-la biomédecine le nom des praticiens agréés préalablement à la mise en oeuvre de
+déclarer à l'agence régionale de santé compétente et à l'Agence de la
+biomédecine le nom des praticiens agréés préalablement à la mise en oeuvre de
 l'autorisation, ainsi que le nom de tout nouveau praticien agréé préalablement à
 sa prise de fonction. Il est également tenu d'informer l'agence régionale de
-l'hospitalisation et l'Agence de la biomédecine de la cessation d'activité de
-ces praticiens.
+santé et l'Agence de la biomédecine de la cessation d'activité de ces
+praticiens.

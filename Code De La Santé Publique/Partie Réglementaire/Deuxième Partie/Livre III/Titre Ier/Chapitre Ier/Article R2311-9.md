@@ -7,9 +7,8 @@ en gynécologie médicale, en obstétrique ou en gynécologie-obstétrique, soit
 titulaire du diplôme d'études spécialisées complémentaires de médecine de la
 reproduction et gynécologie médicale ; en cas d'impossibilité de recruter un
 médecin remplissant ces conditions, une dérogation peut être accordée par le
-préfet, après avis du médecin inspecteur départemental de santé publique, à un
-médecin justifiant de connaissances particulières en gynécologie et en
-régulation des naissances ;
+directeur général de l'agence régionale de santé à un médecin justifiant de
+connaissances particulières en gynécologie et en régulation des naissances ;
 
 2° Disposer au minimum pour leurs consultations, et de façon permanente, d'une
 personne compétente en matière de conseil conjugal et familial ;

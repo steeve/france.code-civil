@@ -3,15 +3,16 @@ Article R4236-12
 Le conseil régional ou interrégional de la formation pharmaceutique continue est
 composé de 9 membres nommés pour un mandat de cinq ans renouvelable une fois :
 
-- 3 membres nommés sur proposition du Conseil national de l'ordre des
-pharmaciens ;
+-3 membres nommés sur proposition du Conseil national de l'ordre des pharmaciens
+;
 
-- 6 membres nommés sur proposition du Conseil national de la formation
+-6 membres nommés sur proposition du Conseil national de la formation
 pharmaceutique continue.
 
-Le préfet de région nomme les membres du conseil régional et, parmi eux, le
-président de ce conseil. Le ministre chargé de la santé nomme les membres du
-conseil interrégional et, parmi eux, le président de ce conseil.
+Le directeur général de l'agence régionale de santé nomme les membres du conseil
+régional et, parmi eux, le président de ce conseil. Le ministre chargé de la
+santé nomme les membres du conseil interrégional et, parmi eux, le président de
+ce conseil.
 
 Les propositions de nomination prennent en compte les domaines de compétence des
 conseils.

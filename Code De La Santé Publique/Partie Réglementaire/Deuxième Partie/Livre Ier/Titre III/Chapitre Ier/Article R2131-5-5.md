@@ -10,9 +10,8 @@ constituent les conditions techniques de fonctionnement prévues au 3° de
 l'article L. 6122-2.
 
 Cette autorisation est délivrée à l'établissement public de santé ou au
-laboratoire d'analyses de biologie médicale par la commission exécutive de
-l'agence régionale de l'hospitalisation dans les conditions fixées par l'article
-L. 2131-1.
+laboratoire d'analyses de biologie médicale par le directeur général de l'agence
+régionale de santé dans les conditions fixées par l'article L. 2131-1.
 
 Pour chaque activité mentionnée au premier alinéa du présent article,
 l'autorisation peut être limitée à une partie de cette activité.

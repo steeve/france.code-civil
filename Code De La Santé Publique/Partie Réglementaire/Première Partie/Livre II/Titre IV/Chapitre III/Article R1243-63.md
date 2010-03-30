@@ -1,8 +1,8 @@
 Article R1243-63
 ----
 La demande d'autorisation est adressée en cinq exemplaires au ministre chargé de
-la recherche et, le cas échéant, en cinq exemplaires au directeur de l'agence
-régionale de l'hospitalisation, sous pli recommandé avec demande d'avis de
+la recherche et, le cas échéant, en cinq exemplaires au directeur général de
+l'agence régionale de santé, sous pli recommandé avec demande d'avis de
 réception ou est déposée contre récépissé dans les mêmes conditions par
 l'organisme qui sollicite l'autorisation. Lorsque la demande porte sur des
 activités incluant la constitution de collections d'échantillons biologiques

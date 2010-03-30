@@ -1,11 +1,12 @@
 Article R6141-11
 ----
-La transformation d'un ou de plusieurs établissements publics de santé prévue à
-l'article L. 6141-7-1 est décidée par arrêté du directeur de l'agence régionale
-de l'hospitalisation de la région où est situé le siège de l'établissement qui
-en est issu, après avis du conseil d'administration du ou des établissements
-concernés et de la ou des collectivités intéressées. Toutefois, elle est décidée
-par décret lorsqu'elle concerne un établissement public de santé national.
+La transformation d'un ou de plusieurs établissements publics de santé, prévue à
+l'article L. 6141-7-1, est décidée par arrêté du directeur général de l'agence
+régionale de santé de la région où est situé le siège de l'établissement qui en
+est issu, après avis du conseil de surveillance du ou des établissements
+concernés et de la commune où est situé le siège de l'établissement. Toutefois,
+elle est décidée par décret lorsqu'elle concerne un établissement public de
+santé à ressort national, interrégional ou régional.
 
 La décision définit les modalités de dévolution des éléments de l'actif et du
 passif et précise la nature des autorisations transférées au nouvel

@@ -20,8 +20,7 @@ leurs dérivés ou les préparations de thérapie cellulaire concernés.
 
 Le directeur général de l'Agence française de sécurité sanitaire des produits de
 santé transmet au directeur général de l'Agence de la biomédecine et au
-directeur de l'agence régionale de l'hospitalisation les autorisations
-accordées.
+directeur général de l'agence régionale de santé les autorisations accordées.
 
 Le directeur général de l'Agence française de sécurité sanitaire des produits de
 santé tient à jour la liste des établissements ou organismes autorisés qui

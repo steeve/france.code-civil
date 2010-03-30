@@ -10,7 +10,8 @@ et comprenant :
 
 1°) deux représentants de ladite caisse ;
 
-2°) un représentant de la caisse régionale d'assurance maladie ;
+2°) un représentant de la caisse d'assurance retraite et de la santé au travail
+;
 
 3°) supprimé ;
 

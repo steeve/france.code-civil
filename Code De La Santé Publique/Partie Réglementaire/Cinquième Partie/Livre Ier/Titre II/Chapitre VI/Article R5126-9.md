@@ -37,8 +37,8 @@ des articles R. 5124-57-1 à R. 5124-57-6.
 
 L'activité prévue au 7° est réservée aux pharmacies à usage intérieur des
 établissements de santé, à l'exception de celles exclusivement dédiées à des
-structures d'hospitalisation à domicile, à des unités de dialyse à domicile ou à
-des unités d'autodialyse.
+établissements d'hospitalisation à domicile, à des unités de dialyse à domicile
+ou à des unités d'autodialyse.
 
 Les dispositions des articles L. 5126-4 et L. 5126-11 sont applicables aux
 hôpitaux des armées ainsi qu'aux syndicats interhospitaliers et aux groupements

@@ -90,8 +90,8 @@ proposition de l'Association des maires de France, deux désignés sur propositi
 de l'Assemblée des départements de France et deux désignés sur proposition de
 l'Association des régions de France.
 
-Collège 4 : vingt-six membres représentant chacune des conférences régionales ou
-territoriales de santé.
+Collège 4 : vingt-six membres représentant chacune des conférences régionales de
+la santé et de l'autonomie.
 
 Collège 5 : dix membres dont :
 

@@ -1,7 +1,7 @@
 Article D6121-11
 ----
-Font l'objet du schéma interrégional d'organisation sanitaire prévu à l'article
-L. 6121-4 les activités de soins suivantes :
+Font l'objet du schéma interrégional d'organisation des soins prévu à l'article
+L. 1434-10 les activités de soins suivantes :
 
 1. Chirurgie cardiaque ;
 

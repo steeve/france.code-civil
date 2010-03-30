@@ -24,14 +24,17 @@ régionales ;
 d) La direction de l'administration pénitentiaire et les directions
 interrégionales des services pénitentiaires ;
 
-e) Les directions départementales des affaires sanitaires et sociales ;
-
-f) La direction de la jeunesse et de l'éducation populaire, la direction des
-sports et les directions régionales et départementales de la jeunesse et des
+e) La direction de la jeunesse et de l'éducation populaire et la direction des
 sports ;
 
-g) Les directions régionales des entreprises, de la concurrence, de la
-consommation, du travail et de l'emploi.
+f) Les directions régionales de la jeunesse, des sports et de la cohésion
+sociale, les directions départementales de la cohésion sociale et les directions
+départementales interministérielles chargées de la cohésion sociale ;
 
-II.-Les personnes mentionnées aux 1° et 2° du I indiquent le motif pour lequel
-elles interrogent le fichier.
+g) Les directions départementales du travail, de l'emploi et de la formation
+professionnelle (1).
+
+3° Les directeurs généraux des agences régionales de santé.
+
+II.-Les personnes mentionnées au I indiquent le motif pour lequel elles
+interrogent le fichier.

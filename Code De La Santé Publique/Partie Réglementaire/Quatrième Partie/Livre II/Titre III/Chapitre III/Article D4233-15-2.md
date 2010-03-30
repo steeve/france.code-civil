@@ -7,7 +7,8 @@ Il est assuré par un bureau de vote composé :
 
 1° D'un représentant du ministre chargé de la santé, président. Ce représentant
 est désigné, pour les conseils régionaux et les délégations de l'ordre, par le
-préfet de région. Pour les autres conseils, il est désigné par le ministre ;
+directeur général de l'agence régionale de santé. Pour les autres conseils, il
+est désigné par le ministre ;
 
 2° Du pharmacien le plus âgé, vice-président, et du pharmacien le plus jeune
 présents au moment de l'ouverture de la séance de dépouillement.

@@ -1,9 +1,8 @@
 Article R6144-88
 ----
-Le directeur de l'établissement ou le secrétaire général du syndicat
-interhospitalier arrête, après avis du comité technique d'établissement, les
-modalités d'exercice du droit à l'expression directe et collective des
-personnels.
+Le secrétaire général du syndicat interhospitalier arrête, après avis du comité
+technique d'établissement, les modalités d'exercice du droit à l'expression
+directe et collective des personnels.
 
 Ces modalités définissent notamment :
 
@@ -14,11 +13,10 @@ lieux desdites réunions ;
 2° Les mesures destinées à assurer la liberté d'expression de chacun ;
 
 3° Les mesures destinées à assurer la transmission des demandes, avis et
-propositions des personnels au directeur de l'établissement ou au secrétaire
-général du syndicat interhospitalier, au comité technique d'établissement, à la
-commission médicale d'établissement, au comité d'hygiène, de sécurité et des
-conditions de travail et à la sous-commission chargée de la lutte contre les
-infections nosocomiales ;
+propositions des personnels au secrétaire général du syndicat interhospitalier,
+au comité technique d'établissement, à la commission médicale d'établissement,
+au comité d'hygiène, de sécurité et des conditions de travail et à la
+sous-commission chargée de la lutte contre les infections nosocomiales ;
 
 4° Les conditions dans lesquelles le directeur de l'établissement ou le
 secrétaire général du syndicat interhospitalier fait connaître aux agents

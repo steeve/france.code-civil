@@ -1,6 +1,6 @@
 Article R6123-32-6
 ----
-Le schéma régional d'organisation sanitaire précise les activités spécialisées
+Le schéma régional d'organisation des soins précise les activités spécialisées
 impliquant une prise en charge directe des patients et prévoit leur implantation
 sur le territoire de santé.
 

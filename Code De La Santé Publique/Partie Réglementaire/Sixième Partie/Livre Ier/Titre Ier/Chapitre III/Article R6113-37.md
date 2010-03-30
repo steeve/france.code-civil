@@ -16,8 +16,8 @@ d) Le directeur du budget ou son représentant ;
 e) Un sous-directeur de la direction générale de l'offre de soins, désigné par
 le directeur général de l'offre de soins , ou son représentant ;
 
-f) Un directeur d'agence régionale de l'hospitalisation, désigné par le
-directeur général de l'offre de soins ;
+f) Un directeur général de l'agence régionale de santé, désigné par le directeur
+général de l'offre de soins ;
 
 2° Six personnalités nommées par arrêté des ministres chargés de la santé et de
 la sécurité sociale pour une durée de trois ans renouvelable :

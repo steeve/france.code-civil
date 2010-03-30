@@ -12,8 +12,9 @@ confirmation ou du renouvellement de la durée d'une autorisation pendant qu'ell
 est suspendue.
 
 Si l'autorisation n'est pas retirée, l'examen de la demande de renouvellement ou
-de confirmation d'autorisation reprend alors, sans que le silence du préfet sur
-cette demande ait pu faire naître la tacite reconduction de l'autorisation
-prévue à l'article R. 6322-6. La durée de validité de l'autorisation renouvelée
-est comptée, comme il est prévu au deuxième alinéa de l'article R. 6322-11, à
-partir du lendemain du jour où devait expirer l'autorisation précédente.
+de confirmation d'autorisation reprend alors, sans que le silence du directeur
+général de l'agence régionale de santé sur cette demande ait pu faire naître la
+tacite reconduction de l'autorisation prévue à l'article R. 6322-6. La durée de
+validité de l'autorisation renouvelée est comptée, comme il est prévu au
+deuxième alinéa de l'article R. 6322-11, à partir du lendemain du jour où devait
+expirer l'autorisation précédente.

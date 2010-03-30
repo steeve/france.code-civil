@@ -1,6 +1,7 @@
 Article R1322-45
 ----
-Le médecin inspecteur départemental de santé publique exerce la surveillance sur
+Les médecins inspecteurs de santé publique et les inspecteurs de l'agence
+régionale de santé ayant la qualité de médecin exercent la surveillance sur
 toutes les parties de l'établissement affectées à l'administration des eaux et
 au traitement des curistes, ainsi que sur l'exécution des dispositions qui s'y
 rapportent.

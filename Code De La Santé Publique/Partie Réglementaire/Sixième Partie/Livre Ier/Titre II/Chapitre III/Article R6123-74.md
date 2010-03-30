@@ -16,7 +16,7 @@ chirurgie cardiaque pédiatrique.
 
 Une autorisation dérogeant aux dispositions du premier alinéa peut être accordée
 ou renouvelée à titre exceptionnel, après analyse des besoins de la population
-évalués dans le cadre du schéma d'organisation sanitaire, lorsque l'éloignement
+évalués dans le cadre du schéma d'organisation des soins, lorsque l'éloignement
 des autres établissements pratiquant l'activité de soins de chirurgie cardiaque
 impose des temps de trajet excessifs à une partie significative de la population
 du territoire de santé.

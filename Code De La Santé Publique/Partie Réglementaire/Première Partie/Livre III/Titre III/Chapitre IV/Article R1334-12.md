@@ -7,6 +7,6 @@ d'hébergement.
 
 Le constat de risque d'exposition au plomb est tenu par le propriétaire ou
 l'exploitant du local d'hébergement à disposition des agents ou services
-mentionnés à l'article L. 1421-1 ainsi que, le cas échéant, des agents chargés
-du contrôle de la réglementation du travail et des agents des services de
-prévention des organismes de sécurité sociale.
+mentionnés aux articles L. 1421-1 et L. 1435-7 ainsi que, le cas échéant, des
+agents chargés du contrôle de la réglementation du travail et des agents des
+services de prévention des organismes de sécurité sociale.

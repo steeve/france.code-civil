@@ -11,7 +11,7 @@ du groupe d'établissements pour lesquels un taux commun est déterminé.
 
 Toutefois, le coût de l'accident du travail ou de la maladie professionnelle est
 entièrement imputé au compte employeur de l'entreprise de travail temporaire en
-cas de défaillance de l'entreprise utilisatrice. L'entreprise utilisatrice qui
+cas de défaillance de l'entreprise utilisatrice.L'entreprise utilisatrice qui
 fait l'objet d'une procédure de sauvegarde ou de redressement judiciaire ou de
 liquidation judiciaire est regardée comme défaillante au sens des dispositions
 du premier alinéa de l'article L. 241-5-1.
@@ -20,9 +20,9 @@ L'entreprise utilisatrice qui assume directement la charge totale de la gestion
 du risque en vertu des articles L. 413-13 ou L. 413-14 est tenue de verser à
 l'organisme de recouvrement dont elle relève, en une seule fois, le montant de
 la fraction de coût mise à sa charge. Ce montant lui est notifié par la caisse
-régionale d'assurance maladie, qui en informe simultanément l'organisme de
-recouvrement dont relève l'établissement où le salarié a été victime de
-l'accident ou bien a contracté la maladie professionnelle.
+d'assurance retraite et de la santé au travail, qui en informe simultanément
+l'organisme de recouvrement dont relève l'établissement où le salarié a été
+victime de l'accident ou bien a contracté la maladie professionnelle.
 
 Pour la détermination de la date d'exigibilité du versement, les périodes de
 paiement des rémunérations mentionnées au premier alinéa de l'article R. 243-6

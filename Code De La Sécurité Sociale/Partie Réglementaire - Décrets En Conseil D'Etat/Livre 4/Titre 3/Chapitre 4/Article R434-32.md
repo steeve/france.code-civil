@@ -15,7 +15,8 @@ La décision motivée est immédiatement notifiée par la caisse primaire par to
 moyen permettant de déterminer la date de réception, avec mention des voies et
 délais de recours, à la victime ou à ses ayants droit et à l'employeur au
 service duquel se trouvait la victime au moment où est survenu l'accident. Le
-double de cette décision est envoyé à la caisse régionale.
+double de cette décision est envoyé à la caisse d'assurance retraite et de la
+santé au travail.
 
 La notification adressée à la victime ou à ses ayants droit invite ceux-ci à
 faire connaître à la caisse, dans un délai de dix jours, à l'aide d'un

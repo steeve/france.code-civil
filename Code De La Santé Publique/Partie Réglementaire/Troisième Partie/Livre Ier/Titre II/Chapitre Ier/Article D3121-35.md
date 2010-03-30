@@ -16,9 +16,8 @@ l'harmonisation des pratiques ;
 l'article R. 3121-36.
 
 Ces analyses sont transmises par le directeur de l'établissement de santé où le
-centre est installé, aux directeurs des agences régionales de l'hospitalisation,
-aux directeurs régionaux et départementaux des affaires sanitaires et sociales,
-aux directeurs des groupements régionaux de santé publique et aux conférences
-régionales de santé, compétents dans la zone géographique considérée.
+centre est installé, aux directeurs généraux des agences régionales de santé et
+aux conférences régionales de la santé et de l'autonomie compétents dans la zone
+géographique considérée.
 
 Un rapport d'activité annuel est établi par le comité de coordination.

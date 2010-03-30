@@ -2,9 +2,9 @@ Article R1243-51
 ----
 La déclaration est adressée par l'organisme intéressé sous pli recommandé avec
 demande d'avis de réception en cinq exemplaires au ministre chargé de la
-recherche et, le cas échéant, en cinq exemplaires au directeur de l'agence
-régionale de l'hospitalisation, ou déposée contre récépissé dans les mêmes
-conditions. L'organisme adresse simultanément sa déclaration, pour avis, au
+recherche et, le cas échéant, en cinq exemplaires au directeur général de
+l'agence régionale de santé, ou déposée contre récépissé dans les mêmes
+conditions.L'organisme adresse simultanément sa déclaration, pour avis, au
 comité de protection des personnes territorialement compétent pour le lieu où le
 responsable scientifique ou, le cas échéant, le responsable scientifique
 coordonnateur exerce ses fonctions.

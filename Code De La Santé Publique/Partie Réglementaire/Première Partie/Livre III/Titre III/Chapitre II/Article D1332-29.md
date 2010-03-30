@@ -8,9 +8,10 @@ pour lesquelles le niveau de qualité " suffisante " n'a pu être atteint et de
 prendre des mesures de nature à éviter, réduire ou éliminer les sources de
 pollution ;
 
-b) De transmettre au maire et au préfet les informations sur les sources de
-pollution et les mesures prises en vue de prévenir l'exposition des baigneurs à
-la pollution et d'éviter, réduire et éliminer les sources de pollution ;
+b) De transmettre au maire et au directeur général de l'agence régionale de
+santé les informations sur les sources de pollution et les mesures prises en vue
+de prévenir l'exposition des baigneurs à la pollution et d'éviter, réduire et
+éliminer les sources de pollution ;
 
 c) A partir de la saison balnéaire suivante, d'avertir le public du classement
 de l'eau de baignade par un signal simple et clair et de l'informer sur les

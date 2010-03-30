@@ -33,11 +33,9 @@ k) Le président de l'Etablissement français du sang ou son représentant ;
 l) Le directeur général de l'Agence française de sécurité sanitaire des produits
 de santé ou son représentant ;
 
-m) Un directeur régional ou départemental des affaires sanitaires et sociales ;
+m et n (supprimés)
 
-n) Un médecin inspecteur de santé publique ;
-
-o) Un représentant des agences régionales de l'hospitalisation ;
+o) Trois représentants des agences régionales de santé, dont un médecin ;
 
 p) Un représentant de la Caisse nationale de l'assurance maladie des
 travailleurs salariés, désigné par le conseil de la caisse ;
@@ -72,5 +70,5 @@ membres de droit et des représentants du personnel de l'agence, sont nommés po
 une durée de trois ans, renouvelable une fois sur proposition du ministre chargé
 de la santé.
 
-Pour chacun des membres mentionnés du m au p du 1° et aux 2° et 3° du présent
+Pour chacun des membres mentionnés des o et p du 1° et aux 2° et 3° du présent
 article, un suppléant est nommé dans les mêmes conditions que le titulaire.

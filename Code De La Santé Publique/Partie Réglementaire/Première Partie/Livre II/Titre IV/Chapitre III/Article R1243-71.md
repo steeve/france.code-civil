@@ -5,7 +5,7 @@ non-respect des exigences mentionnées au deuxième alinéa de l'article R.
 1243-67, l'autorisation peut être suspendue ou retirée par le ministre chargé de
 la recherche. Lorsque l'organisme est un établissement de santé, la décision de
 suspension ou de retrait est prise conjointement par le ministre chargé de la
-recherche et le directeur de l'agence régionale de l'hospitalisation.
+recherche et le directeur général de l'agence régionale de santé.
 
 Avant toute décision de suspension ou de retrait, l'organisme est mis en demeure
 par le ministre chargé de la recherche de mettre fin aux manquements constatés
@@ -14,7 +14,7 @@ responsables de l'organisme et la personne responsable de l'activité peuvent
 être entendus à leur demande. Si les mesures prises ne sont pas de nature à
 mettre un terme aux manquements constatés ou si les mesures prescrites ne sont
 pas mises en oeuvre dans le délai imparti, le ministre chargé de la recherche
-et, le cas échéant, le directeur de l'agence régionale de l'hospitalisation,
+et, le cas échéant, le directeur général de l'agence régionale de santé,
 notifient à l'organisme la décision de suspension ou d'interdiction.
 
 La décision de suspension précise les prescriptions auxquelles l'organisme doit

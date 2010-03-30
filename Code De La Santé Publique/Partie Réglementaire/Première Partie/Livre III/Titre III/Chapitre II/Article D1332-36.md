@@ -1,6 +1,7 @@
 Article D1332-36
 ----
-Le contrôle exercé par le préfet comprend notamment :
+Le contrôle exercé par le directeur général de l'agence régionale de santé, qui
+en informe le préfet, comprend notamment :
 
 1° La vérification de la réalisation de la surveillance de l'eau de baignade,
 conformément au programme de surveillance ;

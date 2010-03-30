@@ -4,8 +4,8 @@ Les membres du corps des médecins inspecteurs de santé publique participent à
 conception, à la mise en oeuvre, à l'exécution et à l'évaluation de la politique
 de santé publique.
 
-Ils assurent le contrôle de cette politique et les missions permanentes et
-temporaires d'inspection.
+Ils assurent, dans les agences régionales de santé, le contrôle de cette
+politique et les missions permanentes et temporaires d'inspection.
 
 Ils participent au contrôle de l'application des dispositions du présent code et
 des règlements pris pour son application.

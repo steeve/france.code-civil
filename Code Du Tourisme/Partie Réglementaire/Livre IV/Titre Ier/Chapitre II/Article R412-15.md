@@ -1,7 +1,8 @@
 Article R412-15
 ----
-Les inspecteurs des affaires sanitaires et sociales ou les médecins inspecteurs
-de santé publique exercent le contrôle des lieux de vacances et vérifient
+Les inspecteurs de l'action sanitaire et sociale, les médecins inspecteurs de
+santé publique ou les inspecteurs des agences régionales de santé ayant la
+qualité de médecin exercent le contrôle des lieux de vacances et vérifient
 notamment l'exactitude des informations transmises au préfet dans les conditions
 prévues à R. 412-14. Il leur appartient notamment de s'assurer de la sécurité
 des lieux et des personnes ainsi que de l'état de santé, d'intégrité ou de

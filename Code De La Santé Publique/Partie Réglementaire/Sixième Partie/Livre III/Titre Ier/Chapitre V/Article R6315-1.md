@@ -35,12 +35,12 @@ l'offre de soins existante. Ces limites peuvent varier selon les périodes de
 l'année et être adaptées, pour toute ou partie de la période de permanence de
 soins, aux besoins de la population.
 
-La détermination du nombre et des limites des secteurs est arrêtée par le préfet
-du département et, à Paris, par le préfet de police, après consultation du
-conseil départemental de l'ordre des médecins et avis du comité départemental
-mentionné à l'article R. 6313-1. En tant que de besoin, des secteurs
-interdépartementaux peuvent être constitués par arrêté préfectoral, après avis
-des comités des départements concernés.
+La détermination du nombre et des limites des secteurs est arrêtée par le
+directeur général de l'agence régionale de santé, après consultation du conseil
+départemental de l'ordre des médecins et avis du comité départemental mentionné
+à l'article R. 6313-1. En tant que de besoin, des secteurs interdépartementaux
+peuvent être constitués par arrêté du directeur général de l'Agence régionale de
+santé, après avis des comités des départements concernés.
 
 La carte des secteurs fait l'objet, suivant la même procédure, d'un réexamen
 annuel.

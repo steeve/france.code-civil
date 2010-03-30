@@ -24,8 +24,8 @@ III.-Un relevé annuel des contrats de sous-traitance de préparations mentionn�
 aux 2° et 3° du I indique les coordonnées des fabricants sous-traitants et les
 catégories, les formes pharmaceutiques des préparations sous-traitées et les
 principes actifs qu'elles contiennent. Ce relevé est transmis au plus tard le 31
-mars de l'année suivante au pharmacien inspecteur régional par le pharmacien
-d'officine pour le compte duquel la sous-traitance est réalisée.
+mars de l'année suivante au directeur général de l'agence régionale de santé par
+le pharmacien d'officine pour le compte duquel la sous-traitance est réalisée.
 
 IV.-L'activité de sous-traitance de l'établissement pharmaceutique est
 mentionnée dans le document prévu à l'article R. 5124-46, qui comporte notamment

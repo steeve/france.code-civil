@@ -17,8 +17,8 @@ le renvoi de la discussion, pour tout ou partie, à l'ordre du jour d'une séanc
 ultérieure.
 
 La convocation est de droit à la demande écrite soit de la moitié au moins de
-ses membres, soit du directeur de l'agence régionale de l'hospitalisation. Dans
-ce cas, la convocation doit intervenir dans le délai maximum de sept jours et le
+ses membres, soit du directeur général de l'agence régionale de santé. Dans ce
+cas, la convocation doit intervenir dans le délai maximum de sept jours et le
 président est tenu d'inscrire à l'ordre du jour la ou les questions qui ont
 motivé la demande de séance.
 

@@ -6,8 +6,8 @@ groupes fonctionnels de dépenses et de recettes d'exploitation du budget géné
 de l'établissement de santé mentionnés à l'article R. 6145-15.
 
 A la clôture de l'exercice, un état retraçant ces dépenses et ces recettes est
-transmis par l'établissement de santé au directeur de l'agence régionale de
-l'hospitalisation.
+transmis par l'établissement de santé au directeur général de l'agence régionale
+de santé.
 
 Les dépenses afférentes aux soins dispensés en milieu pénitentiaire sont
 évaluées compte tenu des dépenses constatées du dernier exercice connu et de

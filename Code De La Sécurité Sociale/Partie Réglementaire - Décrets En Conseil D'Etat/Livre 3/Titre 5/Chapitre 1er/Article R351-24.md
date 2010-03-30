@@ -15,10 +15,12 @@ de l'employeur ainsi que les pièces justificatives dont la déclaration de
 l'assurée doit être accompagnée.
 
 Lorsque les documents produits par l'assurée ne lui permettent pas de se
-prononcer, la caisse demande l'avis du directeur départemental du travail
-compétent en raison du lieu où la requérante a exercé son activité.
+prononcer, la caisse demande l'avis du directeur régional des entreprises, de la
+concurrence, de la consommation, du travail et de l'emploi compétent en raison
+du lieu où la requérante a exercé son activité.
 
 Dans le cas où cet avis n'est pas parvenu à la caisse dans le délai d'un mois
-suivant la date à laquelle le directeur départemental du travail a été saisi, la
+suivant la date à laquelle le directeur régional des entreprises, de la
+concurrence, de la consommation, du travail et de l'emploi a été saisi, la
 caisse prend sa décision en fonction de l'ensemble des éléments d'appréciation
 dont elle dispose.

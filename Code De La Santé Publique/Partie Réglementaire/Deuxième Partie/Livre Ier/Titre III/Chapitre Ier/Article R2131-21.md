@@ -12,7 +12,7 @@ l'Agence de la biomédecine donne son approbation à la modification de l'équip
 après avis du conseil d'orientation. Le défaut de remplacement des praticiens
 peut entraîner la suspension de l'autorisation du centre.
 
-Le directeur de l'agence régionale de l'hospitalisation dont dépend l'organisme
-ou l'établissement de santé au sein duquel le centre est créé est informé par le
+Le directeur général de l'agence régionale de santé dont dépend l'organisme ou
+l'établissement de santé au sein duquel le centre est créé est informé par le
 directeur général de l'Agence de la biomédecine de la suspension de cette
 autorisation.

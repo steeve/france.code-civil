@@ -17,8 +17,8 @@ les conditions prévues à l'article L. 5126-4 ;
 l'article L. 5121-1, aux articles L. 4211-1 et L. 5137-1 ainsi que des
 dispositifs médicaux stériles à des patients pris en charge par :
 
-a) Des structures d'hospitalisation à domicile mentionnées au 3° de l'article R.
-6121-4 ;
+a) Des établissements d'hospitalisation à domicile mentionnés à l'article L.
+6125-2 ;
 
 b) Des unités de dialyse à domicile mentionnées au 4° de l'article R. 6123-54.
 
@@ -27,6 +27,7 @@ mentionnées aux 1° et 2° ci-dessus permet aux pharmacies à usage intérieur
 qu'elle approvisionne de respecter les conditions de dispensation prévues à
 l'article R. 5126-3.
 
-Dans les pharmacies qui desservent les unités mentionnées au 4°, l'organisation
-de la dispensation doit permettre d'assurer les besoins quotidiens des patients
-pris en charge dans des délais permettant de répondre aux demandes urgentes.
+Dans les pharmacies qui desservent les établissements et les unités mentionnées
+au 4°, l'organisation de la dispensation doit permettre d'assurer les besoins
+quotidiens des patients pris en charge dans des délais permettant de répondre
+aux demandes urgentes.

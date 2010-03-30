@@ -1,8 +1,9 @@
 Article D3111-23
 ----
-La demande d'habilitation est adressée au préfet du département où sera situé le
-centre de vaccination, accompagnée d'un dossier dont le contenu est défini par
-arrêté du ministre chargé de la santé.
+La demande d'habilitation est adressée au directeur général de l'agence
+régionale de santé de la région où sera situé le centre de vaccination,
+accompagnée d'un dossier dont le contenu est défini par arrêté du ministre
+chargé de la santé.
 
 Cette demande précise les modalités de fonctionnement du centre de vaccination,
 en particulier celles qui permettent d'assurer la gratuité des vaccinations, et

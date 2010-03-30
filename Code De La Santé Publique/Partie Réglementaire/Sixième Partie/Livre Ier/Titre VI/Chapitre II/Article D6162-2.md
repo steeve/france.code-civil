@@ -10,8 +10,8 @@ absolue. Si cette majorité n'est pas atteinte au premier tour, la majorité
 relative suffit au second tour. En cas de partage égal des voix, le plus âgé est
 élu ;
 
-2° Les personnalités qualifiées sont désignées par le directeur de l'agence
-régionale de l'hospitalisation ;
+2° Les personnalités qualifiées sont désignées par le directeur général de
+l'agence régionale de santé ;
 
 3° Les représentants des usagers sont désignés par le directeur de l'agence
 régionale de l'hospitalisation parmi les personnes proposées par les
@@ -20,5 +20,5 @@ le domaine de la qualité des soins et de la prise en charge des malades
 cancéreux.
 
 La liste nominative des membres mentionnés aux 4° et 5° de l'article L. 6162-7
-et à l'article D. 6162-1 est arrêtée par le directeur de l'agence régionale de
-l'hospitalisation.
+et à l'article D. 6162-1 est arrêtée par le directeur général de l'agence
+régionale de santé.

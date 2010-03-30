@@ -17,13 +17,13 @@ l'intéressé et de sa famille, l'expert est désigné, à la demande du conseil
 le président du tribunal de grande instance du domicile de l'intéressé.
 
 Le conseil régional ou le conseil central est saisi soit par le conseil
-national, soit par le préfet ou le directeur départemental des affaires
-sanitaires et sociales. L'expertise ci-dessus prévue est effectuée au plus tard
-dans un délai d'un mois à compter de la saisine de l'instance compétente.
-L'appel de la décision de ladite instance est porté dans tous les cas devant le
-conseil national. Il peut être introduit soit par le pharmacien intéressé, soit
-par les autorités susindiquées, dans les dix jours de la notification de la
-décision. Il n'a pas d'effet suspensif.
+national, soit par le directeur général de l'agence régionale de
+santé.L'expertise ci-dessus prévue est effectuée au plus tard dans un délai d'un
+mois à compter de la saisine de l'instance compétente.L'appel de la décision de
+ladite instance est porté dans tous les cas devant le conseil national. Il peut
+être introduit soit par le pharmacien intéressé, soit par les autorités
+susindiquées, dans les dix jours de la notification de la décision. Il n'a pas
+d'effet suspensif.
 
 Si le conseil régional ou le conseil central n'a pas statué dans le délai de
 deux mois à compter de la réception de la demande dont il est saisi, l'affaire

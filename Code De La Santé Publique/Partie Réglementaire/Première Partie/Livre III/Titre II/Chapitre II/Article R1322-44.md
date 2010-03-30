@@ -6,7 +6,7 @@ du ministre chargé de la santé. Ces prélèvements et analyses sont effectués
 le laboratoire situé dans l'usine de conditionnement d'eau ou dans
 l'établissement thermal ou, à défaut, par un laboratoire :
 
-1° Soit agréé, dans les conditions prévues à l'article R.* 1322-44-3, pour la
+1° Soit agréé, dans les conditions prévues à l'article R. * 1322-44-3, pour la
 réalisation des prélèvements et des analyses du contrôle sanitaire des eaux pour
 les paramètres concernés ;
 
@@ -20,5 +20,6 @@ conditionnement d'eau ou de l'établissement thermal à condition que l'activit�
 de prélèvement soit incluse dans le domaine d'application du système de gestion
 de la qualité mis en place par l'exploitant.
 
-Les résultats de ces analyses de surveillance sont transmis au préfet selon des
-modalités fixées par arrêté préfectoral.
+Les résultats de ces analyses de surveillance sont transmis au directeur général
+de l'agence régionale de santé qui les communique au préfet avec ses
+observations.

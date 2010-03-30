@@ -13,12 +13,9 @@ demander à être entendue, si elle le souhaite, ou pour présenter des
 observations écrites.
 
 Lorsque la procédure de sanction est engagée à l'encontre d'un établissement de
-santé, le directeur de l'organisme local d'assurance maladie en informe
-simultanément la commission exécutive de l'agence régionale de
-l'hospitalisation. Lorsque ladite procédure est engagée à l'encontre d'un
-établissement d'hébergement pour personnes âgées dépendantes, le directeur de
-l'organisme local d'assurance maladie en informe simultanément le directeur
-régional des affaires sanitaires et sociales.
+santé ou d'un établissement d'hébergement pour personnes âgées dépendantes, le
+directeur de l'organisme local d'assurance maladie en informe simultanément le
+directeur général de l'agence régionale de santé.
 
 A l'issue du délai d'un mois à compter de la notification ou après audition de
 la personne en cause, si celle-ci intervient postérieurement à l'expiration de

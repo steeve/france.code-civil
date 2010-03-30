@@ -18,7 +18,7 @@ En cas d'urgence, l'agrément peut, à titre conservatoire, être suspendu pour 
 durée maximale de trois mois.
 
 Le directeur général de l'Agence de la biomédecine informe de la décision de
-retrait ou de suspension le praticien, l'agence régionale de l'hospitalisation
-compétente, ainsi que l'établissement de santé, l'organisme ou le laboratoire
-d'analyses de biologie médicale, titulaire de l'autorisation mentionnée à
-l'article L. 2142-1 au sein duquel exerce le praticien.
+retrait ou de suspension le praticien, l'agence régionale de santé compétente,
+ainsi que l'établissement de santé, l'organisme ou le laboratoire d'analyses de
+biologie médicale, titulaire de l'autorisation mentionnée à l'article L. 2142-1
+au sein duquel exerce le praticien.

@@ -43,8 +43,9 @@ d'urgence et à la gestion de crises sanitaires.
 Les centres d'enseignement des soins d'urgence sont créés au sein des pôles
 hospitaliers comprenant un service d'aide médicale d'urgence.
 
-Les centres d'enseignement des soins d'urgence sont agréés par le préfet de
-région après avis de la commission prévue à l'article D. 6311-17.
+Les centres d'enseignement des soins d'urgence sont agréés par le directeur
+général de l'agence régionale de santé après avis de la commission prévue à
+l'article D. 6311-17.
 
 Les modalités de fonctionnement d'un centre d'enseignement des soins d'urgence
 sont définies par arrêté du ministre chargé de la santé.

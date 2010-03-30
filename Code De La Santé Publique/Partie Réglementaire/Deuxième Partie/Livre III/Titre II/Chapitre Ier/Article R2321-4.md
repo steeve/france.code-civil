@@ -1,7 +1,8 @@
 Article R2321-4
 ----
-L'agrément du directeur est prononcé par le préfet, préalablement à toute prise
-de fonctions.
+L'agrément du directeur est prononcé par le directeur général de l'agence
+régionale de santé après avis du préfet, préalablement à toute prise de
+fonctions.
 
 Cet agrément ne peut intervenir que s'il ressort du dossier constitué et
 instruit suivant les dispositions des articles R. 2321-19 et R. 2321-20 qui

@@ -8,8 +8,8 @@ imminente ou effective, du fait de perturbations majeures liées à des
 circonstances climatiques exceptionnelles ou à une pollution accidentelle de la
 ressource ;
 
-2° L'utilisation de l'eau ne constitue pas un danger pour la santé des
-personnes.
+2° Un rapport du directeur général de l'agence régionale de santé établit que
+l'utilisation de l'eau ne constitue pas un danger pour la santé des personnes.
 
 Le dossier de la demande d'autorisation temporaire comprend les éléments
 mentionnés aux 1°, 2°, 6°, 7° et 8° de l'article R. 1321-6, ainsi que des

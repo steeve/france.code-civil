@@ -28,18 +28,18 @@ délai dans lequel il doit fournir ces éléments. Cette demande d'informations
 complémentaires suspend le délai mentionné au quatrième alinéa.
 
 Dès réception du dossier de demande d'autorisation complet, l'Agence de la
-biomédecine adresse pour avis un exemplaire de ce dossier au directeur de
-l'agence régionale de l'hospitalisation.
+biomédecine adresse pour avis un exemplaire de ce dossier au directeur général
+de l'agence régionale de santé.
 
-Le directeur de l'agence régionale de l'hospitalisation transmet son avis à
-l'Agence de la biomédecine dans un délai de deux mois à compter de la date à
-laquelle ce dossier lui a été adressé. L'absence de réponse du directeur de
-l'agence régionale de l'hospitalisation dans ce délai vaut avis favorable.
+Le directeur général de l'agence régionale de santé transmet son avis à l'Agence
+de la biomédecine dans un délai de deux mois à compter de la date à laquelle ce
+dossier lui a été adressé. L'absence de réponse du directeur général de l'agence
+régionale de santé dans ce délai vaut avis favorable.
 
 Le renouvellement de l'autorisation s'effectue dans les conditions définies au
 présent article et tient compte, en outre, des résultats de l'évaluation du
 centre pluridisciplinaire de diagnostic prénatal.
 
-Le directeur général de l'Agence de la biomédecine informe le directeur de
-l'agence régionale de l'hospitalisation concerné des autorisations accordées ou
-refusées, ainsi que des décisions relatives au renouvellement des autorisations.
+Le directeur général de l'Agence de la biomédecine informe le directeur général
+de l'agence régionale de santé concerné des autorisations accordées ou refusées,
+ainsi que des décisions relatives au renouvellement des autorisations.

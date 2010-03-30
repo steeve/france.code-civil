@@ -12,4 +12,4 @@ code de l'action sociale et des familles ;
 
 2° La coordination de la prise en charge et du suivi des patients.
 
-Ces conventions sont transmises à l'agence régionale de l'hospitalisation.
+Ces conventions sont transmises à l'agence régionale de santé.

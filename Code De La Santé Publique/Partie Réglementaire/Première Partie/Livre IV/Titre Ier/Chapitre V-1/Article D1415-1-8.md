@@ -7,21 +7,19 @@ mentionnée à l'article L. 1415-2, l'Institut :
 industriels de santé et les représentants des usagers mentionnés à l'article L.
 1415-2, d'autre part sur les administrations centrales de l'Etat, ses services
 déconcentrés, ses services à compétence nationale, ses établissements publics
-ainsi que sur les agences régionales de l'hospitalisation et les groupements
-régionaux de santé publique ;
+notamment les agences régionales de santé ;
 
 2° Recueille et diffuse, le cas échéant, les informations relatives à
 l'organisation, aux moyens, à l'activité et aux résultats du dispositif de lutte
 contre le cancer, ainsi que celles relatives à l'évaluation des actions engagées
 pour améliorer ce dispositif, fournies notamment par les services centraux et
 déconcentrés de l'Etat, ses établissements publics, l'Union nationale des
-caisses d'assurance maladie, les agences régionales de l'hospitalisation, les
-unions régionales des caisses d'assurance maladie, les groupements régionaux de
-santé publique et l'ensemble des prestataires de soins, de recherche, de
-prévention ou impliqués dans la lutte contre le cancer. L'Institut recueille
-également les informations fournies par les associations de patients ou
-d'usagers, les institutions représentatives des professionnels de santé et les
-prestataires industriels de la lutte contre le cancer ;
+caisses d'assurance maladie, les caisses primaires d'assurance maladie et
+l'ensemble des prestataires de soins, de recherche, de prévention ou impliqués
+dans la lutte contre le cancer.L'Institut recueille également les informations
+fournies par les associations de patients ou d'usagers, les institutions
+représentatives des professionnels de santé et les prestataires industriels de
+la lutte contre le cancer ;
 
 3° Emet toute proposition ou recommandation à l'attention des ministres chargés
 de l'enseignement supérieur, de la recherche et de la santé permettant

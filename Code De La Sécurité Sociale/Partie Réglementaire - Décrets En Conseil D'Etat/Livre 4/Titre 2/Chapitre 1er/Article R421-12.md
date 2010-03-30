@@ -1,8 +1,8 @@
 Article R421-12
 ----
 Les questions relatives à la prévention sur lesquelles les comités techniques
-régionaux sont obligatoirement consultés par la caisse régionale d'assurance
-maladie comportent notamment :
+régionaux sont obligatoirement consultés par la caisse d'assurance retraite et
+de la santé au travail comportent notamment :
 
 1°) l'institution de nouvelles mesures de prévention auxquelles doivent se
 soumettre les employeurs exerçant une même activité, imposées en application de

@@ -7,5 +7,4 @@ Ils sont alors soumis aux mêmes dispositions que les établissements mentionné
 au d ou e de l'article L. 162-22-6 du code de la sécurité sociale à compter du
 1er janvier de l'année suivante.
 
-La demande est présentée au directeur de l'agence régionale de
-l'hospitalisation.
+La demande est présentée au directeur général de l'agence régionale de santé.

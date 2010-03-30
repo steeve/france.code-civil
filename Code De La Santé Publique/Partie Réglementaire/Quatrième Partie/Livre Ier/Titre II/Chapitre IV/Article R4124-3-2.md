@@ -2,7 +2,8 @@ Article R4124-3-2
 ----
 La décision du conseil régional ou interrégional est notifiée par lettre
 recommandée avec demande d'avis de réception au praticien intéressé, au conseil
-départemental, au conseil national et au préfet de département.
+départemental, au conseil national et au directeur général de l'agence régionale
+de santé.
 
 La notification mentionne que le délai de recours devant le conseil national de
 l'ordre est de dix jours et que le recours n'a pas d'effet suspensif.
@@ -12,9 +13,8 @@ agricole et du régime social des indépendants ayant compétence dans le
 département dans lequel le praticien est inscrit au tableau sont informés des
 décisions de suspension d'exercice prises par le conseil régional ou
 interrégional. Lorsque le praticien exerce dans un établissement de santé, le
-conseil régional ou interrégional informe en outre de la décision de suspension
-le directeur de l'agence régionale de l'hospitalisation, qui la communique au
-directeur de l'établissement.
+directeur général de l'agence régionale de santé communique la décision de
+suspension au directeur de l'établissement.
 
 Lorsque le praticien est ressortissant de l'un des Etats membres de la
 Communauté européenne ou parties à l'accord sur l'Espace économique européen, la

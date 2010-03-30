@@ -14,10 +14,10 @@ défense des droits des patients, des usagers du système de santé ou des
 personnes en situation de précarité, qu'ils transmettent, le cas échéant en s'y
 associant, dans le cadre de la procédure prévue à l'article L. 4123-2 ;
 
-2° Le ministre chargé de la santé, le préfet du département au tableau duquel
-est inscrit le praticien intéressé, le préfet de la région ou le directeur de
-l'agence régionale de l'hospitalisation dans le ressort de laquelle exerce le
-praticien intéressé, le procureur de la République du tribunal de grande
+2° Le ministre chargé de la santé, le préfet de département dans le ressort
+duquel le praticien intéressé est inscrit au tableau, le directeur général de
+l'agence régionale de santé dans le ressort de laquelle le praticien intéressé
+est inscrit au tableau, le procureur de la République du tribunal de grande
 instance dans le ressort duquel le praticien est inscrit au tableau ;
 
 3° Un syndicat ou une association de praticiens.

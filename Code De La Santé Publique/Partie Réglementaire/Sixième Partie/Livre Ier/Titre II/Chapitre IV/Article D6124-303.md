@@ -3,7 +3,7 @@ Article D6124-303
 Le nombre et la qualification des personnels médicaux, auxiliaires médicaux,
 personnels de rééducation ainsi que le nombre d'aides-soignants exerçant dans
 les structures et unités de soins mentionnées à l'article D. 6124-301 sont
-appréciés par le directeur de l'agence régionale de l'hospitalisation, au vu du
+appréciés par le directeur général de l'agence régionale de santé, au vu du
 dossier mentionné au 2° de l'article R. 6122-32 en fonction de la nature et du
 volume d'activité effectués, de la fréquence des prestations délivrées, de leurs
 caractéristiques techniques et de l'importance des risques encourus par les

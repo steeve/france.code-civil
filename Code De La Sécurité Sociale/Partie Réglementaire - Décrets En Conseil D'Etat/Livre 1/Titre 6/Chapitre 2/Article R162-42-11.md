@@ -15,7 +15,7 @@ particulier ou des séjours présentant des caractéristiques communes, les
 recettes annuelles d'assurance maladie de l'année antérieure au contrôle
 afférentes à ceux-ci.
 
-Sur la base de ces éléments, l'unité de coordination adresse à la commission
-exécutive de l'agence régionale de l'hospitalisation un rapport de synthèse
-comportant s'il y a lieu un avis sur le montant de la sanction, accompagné du
-rapport de contrôle et des observations de l'établissement.
+Sur la base de ces éléments, l'unité de coordination adresse à la commission de
+contrôle un rapport de synthèse comportant s'il y a lieu un avis sur le montant
+de la sanction, accompagné du rapport de contrôle et des observations de
+l'établissement.

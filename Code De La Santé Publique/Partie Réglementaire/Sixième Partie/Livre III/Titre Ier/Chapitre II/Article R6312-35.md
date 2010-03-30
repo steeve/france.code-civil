@@ -1,12 +1,13 @@
 Article R6312-35
 ----
-A l'expiration du délai précité, le préfet examine les demandes recevables et
-délivre, après avis du sous-comité des transports sanitaires, les autorisations
-de mise en service de véhicules.
+A l'expiration du délai mentionné au deuxième alinéa de l'article R. 6312-33, le
+directeur général de l'agence régionale de santé examine les demandes recevables
+et délivre, après avis du sous-comité des transports sanitaires, les
+autorisations de mise en service de véhicules.
 
 Si le nombre de demandes d'autorisation est inférieur ou égal à celui des
-autorisations nouvelles susceptibles d'être accordées, le préfet est tenu d'y
-faire droit.
+autorisations nouvelles susceptibles d'être accordées, le directeur général de
+l'agence régionale de santé est tenu d'y faire droit.
 
 Si le nombre de demandes d'autorisation est supérieur aux possibilités de mise
 en service, les autorisations sont attribuées selon les priorités rendues

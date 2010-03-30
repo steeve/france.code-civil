@@ -18,5 +18,6 @@ régionales de la Fédération hospitalière de France ;
 5° Deux représentants des établissements privés de santé approvisionnés par
 l'établissement de transfusion sanguine ;
 
-6° Deux représentants de l'assurance maladie désignés par l'union régionale des
-caisses d'assurance maladie.
+6° Deux représentants de l'assurance maladie désignés par la caisse primaire
+dans le ressort de laquelle se trouve le siège de l'établissement d'assurance
+maladie.

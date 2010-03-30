@@ -1,12 +1,12 @@
 Article R162-41-3
 ----
 Chaque année, dans un délai de quinze jours suivant la publication de l'arrêté
-mentionné à l'article R. 162-41-1, le directeur de l'agence régionale de
-l'hospitalisation arrête, après avis des représentants dans la région des
-organisations nationales les plus représentatives des établissements de santé
-privés mentionnés au d de l'article L. 162-22-6, les règles générales de
-modulation et les critères d'évolution des tarifs de prestations mentionnés à
-l'article L. 162-22-4.
+mentionné à l'article R. 162-41-1, le directeur général de l'agence régionale de
+santé arrête, après avis des représentants dans la région des organisations
+nationales les plus représentatives des établissements de santé privés
+mentionnés au d de l'article L. 162-22-6, les règles générales de modulation et
+les critères d'évolution des tarifs de prestations mentionnés à l'article L.
+162-22-4.
 
 L'arrêté du directeur de l'agence régionale d'hospitalisation ainsi que les
 avenants tarifaires pris pour son application sont tenus de respecter les taux

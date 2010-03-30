@@ -16,4 +16,4 @@ et à l'article R. 5132-29.
 
 Un relevé trimestriel indiquant le nom des praticiens, la nature et les
 quantités des médicaments délivrés est adressé par le pharmacien d'officine à
-l'inspection régionale de la pharmacie dont il relève.
+l'agence régionale de santé dont il relève.

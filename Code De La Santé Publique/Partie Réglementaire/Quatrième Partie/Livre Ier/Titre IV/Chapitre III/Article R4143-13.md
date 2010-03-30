@@ -1,7 +1,7 @@
 Article R4143-13
 ----
-Le préfet de région convoque le conseil interrégional pour sa première réunion
-dont il fixe l'ordre du jour.
+Le directeur général de l'agence régionale de santé convoque le conseil
+interrégional pour sa première réunion dont il fixe l'ordre du jour.
 
 Le conseil interrégional élit chaque année en son sein le président et le
 vice-président. En cas d'absence du président, le vice-président le supplée dans
@@ -29,8 +29,8 @@ de nature à compromettre leur indépendance.
 Le conseil interrégional adopte son règlement intérieur sur la base d'un
 document type établi par le conseil national.
 
-Le préfet de région, ou son représentant, assiste avec voix consultative aux
-séances du conseil interrégional.
+Le directeur général de l'agence régionale de santé, ou son représentant,
+assiste avec voix consultative aux séances du conseil interrégional.
 
 Avec l'accord du président, des personnalités extérieures au conseil
 interrégional peuvent participer à ses travaux avec voix consultative.

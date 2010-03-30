@@ -10,9 +10,7 @@ Ces alternatives comprennent les activités de soins dispensées par :
 1° Les structures d'hospitalisation à temps partiel de jour ou de nuit, y
 compris en psychiatrie ;
 
-2° Les structures pratiquant l'anesthésie ou la chirurgie ambulatoires ;
-
-3° Les structures dites d'hospitalisation à domicile.
+2° Les structures pratiquant l'anesthésie ou la chirurgie ambulatoires.
 
 Dans les structures d'hospitalisation à temps partiel, de jour ou de nuit, sont
 mises en oeuvre des investigations à visée diagnostique, des actes
@@ -23,21 +21,3 @@ Dans les structures pratiquant l'anesthésie ou la chirurgie ambulatoires sont
 mis en oeuvre, dans des conditions qui autorisent le patient à rejoindre sa
 résidence le jour même, des actes médicaux ou chirurgicaux nécessitant une
 anesthésie ou le recours à un secteur opératoire.
-
-Les structures d'hospitalisation à domicile permettent d'assurer au domicile du
-malade, pour une période limitée mais révisable en fonction de l'évolution de
-son état de santé, des soins médicaux et paramédicaux continus et coordonnés.
-Ces soins se différencient de ceux habituellement dispensés à domicile par la
-complexité et la fréquence des actes. Les structures d'hospitalisation à
-domicile peuvent également intervenir dans un établissement accueillant des
-personnes âgées mentionné au 6° du I de l'article L. 312-1 du code de l'action
-sociale et des familles. Dans ce cas, les soins ne peuvent être délivrés à un
-résident que si l'état de santé de celui-ci exige une intervention technique,
-qui ne se substitue pas aux prestations sanitaires et médico-sociales dispensées
-par l'établissement, et si son admission en hospitalisation à domicile répond à
-des conditions de prise en charge définies par un arrêté du ministre chargé de
-la santé et du ministre chargé de la sécurité sociale. Ces conditions sont
-variables selon la nature des soins. Elles sont relatives notamment à la
-complexité des soins à assurer ou à l'ampleur des moyens à utiliser. A chaque
-structure d'hospitalisation à domicile correspond une aire géographique précisée
-par l'autorisation prévue à l'article L. 6122-1.

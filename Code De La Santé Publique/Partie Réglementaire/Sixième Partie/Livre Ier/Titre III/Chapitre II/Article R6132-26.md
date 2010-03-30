@@ -3,7 +3,10 @@ Article R6132-26
 La commission médicale d'établissement des syndicats interhospitaliers qui
 gèrent un ou des services médicaux, odontologiques ou pharmaceutiques ou qui
 sont autorisés à exercer les missions d'un établissement de santé dans les
-conditions prévues à l'article L. 6132-2 est composée comme suit :
+conditions prévues à l'article L. 6132-2 dans sa rédaction antérieure à la
+publication de la loi n° 2009-879 du 21 juillet 2009 portant réforme de
+l'hôpital et relative aux patients, à la santé et aux territoires est composée
+comme suit :
 
 1° L'ensemble des praticiens exerçant à titre permanent, dans les conditions
 prévues par l'acte constitutif, dans les services gérés par le syndicat, qu'ils
@@ -28,11 +31,11 @@ ci-dessus.
 
 En outre :
 
-- si les catégories susmentionnées ne comprennent pas de représentants des
+-si les catégories susmentionnées ne comprennent pas de représentants des
 pharmaciens, un pharmacien élu par l'ensemble des pharmaciens des établissements
 concernés siège de droit à la commission médicale d'établissement ;
 
-- si les services gérés par le syndicat interhospitalier concernent la
+-si les services gérés par le syndicat interhospitalier concernent la
 gynécologie-obstétrique, un représentant du corps des sages-femmes siège à la
 commission médicale d'établissement dans les conditions prévues au 5° de
 l'article R. 6144-2. Si les sages-femmes sont employées par le syndicat
@@ -42,7 +45,7 @@ sages-femmes exerçant dans les services hospitaliers des établissements
 concernés.
 
 Le nombre de lits ou places mentionné au 2° du présent article est constaté par
-le directeur de l'agence régionale de l'hospitalisation. Il n'est tenu compte
-que des places autorisées. Le nombre de lits de soins de longue durée est compté
-pour moitié. N'entrent pas en ligne de compte les lits qui ne répondent pas aux
+le directeur général de l'agence régionale de santé. Il n'est tenu compte que
+des places autorisées. Le nombre de lits de soins de longue durée est compté
+pour moitié.N'entrent pas en ligne de compte les lits qui ne répondent pas aux
 missions définies à l'article L. 6112-1.

@@ -12,6 +12,6 @@ praticien, auprès de l'Agence de la biomédecine, au moins 6 mois avant la date
 d'échéance de cet agrément.
 
 En cas de non-renouvellement, le directeur général de l'Agence de la biomédecine
-informe de cette décision le praticien, l'agence régionale de l'hospitalisation
-compétente, ainsi que les titulaires des autorisations mentionnées aux articles
-R. 2131-5-5 et R. 2131-9-1.
+informe de cette décision le praticien, l'agence régionale de santé compétente,
+ainsi que les titulaires des autorisations mentionnées aux articles R. 2131-5-5
+et R. 2131-9-1.

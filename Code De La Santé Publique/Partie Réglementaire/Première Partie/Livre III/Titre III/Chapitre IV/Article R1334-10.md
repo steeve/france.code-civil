@@ -9,6 +9,7 @@ logement et de la santé. Il consigne, le cas échéant, dans le rapport du cons
 la liste des facteurs de dégradation du bâti mentionnés à l'article L. 1334-5
 qu'il a relevés.
 
-Lorsque l'auteur du constat transmet une copie du constat au préfet en
-application de l'article L. 1334-10, il en informe le propriétaire, le syndicat
-des copropriétaires ou l'exploitant du local d'hébergement.
+Lorsque l'auteur du constat transmet une copie du constat au directeur général
+de l'agence régionale de santé en application de l'article L. 1334-10, il en
+informe le propriétaire, le syndicat des copropriétaires ou l'exploitant du
+local d'hébergement.

@@ -27,7 +27,8 @@ médicaments nécessaires à la pratique d'interruptions volontaires de grossess
 réalisées dans les conditions prévues à l'article L. 2311-3 ainsi que les
 médicaments que les centres distribuent en application de l'article L. 2311-5,
 sur commande écrite du pharmacien attaché au centre, ou, à défaut, du directeur,
-ou d'un autre médecin autorisé par le préfet ;
+ou d'un autre médecin autorisé par le directeur général de l'agence régionale de
+santé ;
 
 4° Aux services ou centres procédant à des vaccinations collectives, les
 produits nécessaires à ces vaccinations, sur commande écrite du médecin

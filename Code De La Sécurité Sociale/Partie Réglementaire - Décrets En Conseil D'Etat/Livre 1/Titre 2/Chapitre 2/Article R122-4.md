@@ -17,4 +17,4 @@ nomination d'un agent comptable.
 Les dispositions du présent article sont applicables à tous les organismes à
 l'exception de ceux ayant le caractère d'établissement public, de la Caisse
 d'assurance vieillesse, invalidité et maladie des cultes, du régime social des
-indépendants et des caisses visées aux articles L. 183-1 et L. 211-1.
+indépendants et des caisses mentionnées à l'article L. 211-1.

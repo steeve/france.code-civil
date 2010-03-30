@@ -1,6 +1,6 @@
 Article R6123-51
 ----
-Le schéma régional d'organisation sanitaire fixe des objectifs en ce qui
+Le schéma régional d'organisation des soins fixe des objectifs en ce qui
 concerne la coopération entre les établissements de santé autorisés à pratiquer
 l'obstétrique, la néonatologie et la réanimation néonatale et l'organisation en
 matière d'orientation de la femme enceinte préalablement à son accouchement en

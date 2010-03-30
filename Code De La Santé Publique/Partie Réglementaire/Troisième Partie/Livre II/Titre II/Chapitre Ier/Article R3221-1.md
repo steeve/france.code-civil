@@ -1,6 +1,6 @@
 Article R3221-1
 ----
-Les secteurs psychiatriques prévus à l'article L. 3221-1 sont appelés :
+Les secteurs psychiatriques prévus à l'article L. 3221-4 sont appelés :
 
 1° Secteurs de psychiatrie générale lorsqu'ils répondent principalement aux
 besoins de santé mentale d'une population âgée de plus de seize ans ;

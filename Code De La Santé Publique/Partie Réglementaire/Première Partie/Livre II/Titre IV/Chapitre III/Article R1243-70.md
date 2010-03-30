@@ -3,14 +3,14 @@ Article R1243-70
 Toute modification des éléments figurant dans le dossier de demande
 d'autorisation ou de renouvellement d'autorisation est portée sans délai à la
 connaissance du ministre chargé de la recherche et, le cas échéant, du directeur
-de l'agence régionale de l'hospitalisation. Ces derniers peuvent demander toute
+général de l'agence régionale de santé. Ces derniers peuvent demander toute
 information complémentaire afin de s'assurer que la modification en cause
 n'affecte pas le respect des dispositions législatives et réglementaires ou des
 exigences mentionnées au deuxième alinéa de l'article R. 1243-67.
 
 Doivent, en particulier, être portés à la connaissance du ministre chargé de la
-recherche et, le cas échéant, du directeur de l'agence régionale de
-l'hospitalisation :
+recherche et, le cas échéant, du directeur général de l'agence régionale de
+santé :
 
 1° Le changement du ou des responsables scientifiques des activités autorisées ;
 
@@ -33,7 +33,7 @@ sur le traitement de l'information en matière de recherche dans le domaine de l
 santé des modifications ainsi déclarées.
 
 En cas de modification substantielle des conditions d'exercice des activités, le
-ministre chargé de la recherche et, le cas échéant, le directeur de l'agence
-régionale de l'hospitalisation peuvent demander à l'organisme de présenter une
+ministre chargé de la recherche et, le cas échéant, le directeur général de
+l'agence régionale de santé peuvent demander à l'organisme de présenter une
 nouvelle demande d'autorisation déposée et instruite selon les mêmes modalités
 et dans les mêmes conditions que la demande initiale.

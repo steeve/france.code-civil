@@ -17,8 +17,8 @@ consultatif médical, de la commission médicale ou de la conférence médicale.
 médiateur médecin et son suppléant ne doivent pas exercer dans le même service.
 
 En cas de vacance du siège de médiateur médecin pendant une période supérieure à
-six mois, le directeur de l'agence régionale de l'hospitalisation en désigne un
-sur proposition du conseil départemental de l'ordre des médecins, parmi des
+six mois, le directeur général de l'agence régionale de santé en désigne un sur
+proposition du conseil départemental de l'ordre des médecins, parmi des
 praticiens remplissant les conditions d'exercice définies à l'alinéa précédent.
 
 Une même personne ne peut assurer les missions de médiateur médecin titulaire ou

@@ -15,6 +15,5 @@ autre biologiste expert inscrit sur la même liste et chargé de procéder
 Le biologiste expert chargé de l'analyse en consigne les résultats sur une fiche
 d'analyse de sang dite fiche C et adresse un exemplaire des fiches A, B et C
 directement sous pli fermé et timbre confidentiel, à l'intéressé, au procureur
-de la République et au médecin inspecteur départemental de santé publique du
-lieu du crime ou du délit. La fiche C est communiquée à l'officier ou agent de
-police judiciaire.
+de la République du lieu du crime ou du délit. La fiche C est communiquée à
+l'officier ou agent de police judiciaire.

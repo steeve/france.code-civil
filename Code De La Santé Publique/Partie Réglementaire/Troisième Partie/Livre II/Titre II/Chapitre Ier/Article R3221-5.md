@@ -1,14 +1,13 @@
 Article R3221-5
 ----
 Dans chaque région pénitentiaire, un ou plusieurs secteurs de psychiatrie en
-milieu pénitentiaire sont rattachés à un établissement public de santé ou à un
-établissement de santé privé admis à participer à l'exécution du service public
-hospitalier. Chacun de ces secteurs comporte notamment un service
-médico-psychologique régional aménagé dans un établissement pénitentiaire et qui
-peut assurer en outre, par convention avec le préfet, une mission de lutte
-contre l'alcoolisme et les toxicomanies mentionnée aux articles L. 3311-1 et L.
-3411-1. La convention fixe notamment les modalités de prise en charge par l'Etat
-des frais correspondants.
+milieu pénitentiaire sont rattachés à un établissement de santé assurant la
+mission de service public mentionnée au 12° de l'article L. 6112-1. Chacun de
+ces secteurs comporte notamment un service médico-psychologique régional aménagé
+dans un établissement pénitentiaire et qui peut assurer en outre, par convention
+avec le préfet, une mission de lutte contre l'alcoolisme et les toxicomanies
+mentionnée aux articles L. 3311-1 et L. 3411-1. La convention fixe notamment les
+modalités de prise en charge par l'Etat des frais correspondants.
 
 Sans préjudice des dispositions de l'article L. 6121-2, la liste des
 établissements pénitentiaires sièges de services médico-psychologiques régionaux

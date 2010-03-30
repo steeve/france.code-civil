@@ -15,9 +15,13 @@ du syndicat d'agglomération nouvelle ou son représentant, président ;
 5° L'inspecteur d'académie, directeur des services départementaux de l'éducation
 nationale ou son représentant ;
 
-6° Le directeur départemental de la jeunesse et des sports ou son représentant ;
+6° Le directeur départemental de la cohésion sociale ou le directeur
+départemental de la cohésion sociale et de la protection des populations ou leur
+représentant ;
 
-7° Le directeur des affaires sanitaires et sociales ou son représentant ;
+7° Le directeur départemental de la jeunesse et des sports et le directeur
+départemental des affaires sanitaires et sociales ou leur représentant, dans les
+départements de la région Ile-de-France et dans les départements d'outre-mer ;
 
 8° Deux maires de communes membres de la communauté d'agglomération nouvelle ou
 du syndicat d'agglomération nouvelle ;

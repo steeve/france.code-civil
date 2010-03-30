@@ -8,4 +8,4 @@ de la prévention, de l'éducation et de l'information sanitaires. Elle particip
 L'association régionale des caisses de mutualité sociale agricole coordonne les
 actions de prévention des caisses de la région. Elle s'assure de la cohérence de
 ces actions avec celles qui sont entreprises dans ce domaine par d'autres
-organismes, et notamment l'union régionale des caisses d'assurance maladie.
+organismes, et notamment l'agence régionale de santé.

@@ -9,5 +9,5 @@ avis du Conseil national de l'ordre des pharmaciens, par arrêté du ministre
 chargé de la santé.
 
 Ce contrat type peut comporter des clauses spécifiques pour la gérance des
-pharmacies des structures d'hospitalisation à domicile et des unités de dialyse
-à domicile.
+pharmacies des établissements d'hospitalisation à domicile et des unités de
+dialyse à domicile.

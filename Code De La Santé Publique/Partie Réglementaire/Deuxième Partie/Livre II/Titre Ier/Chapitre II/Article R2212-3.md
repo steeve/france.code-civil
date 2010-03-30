@@ -5,8 +5,9 @@ commission dont la composition est fixée par arrêté du ministre chargé de la
 santé.
 
 Cette commission comprend notamment des fonctionnaires des services relevant du
-ministre chargé de la santé, des représentants des associations familiales et
-des personnes qualifiées en matière familiale et sociale.
+ministre chargé de l'action sociale, un médecin de l'agence régionale de santé,
+des représentants des associations familiales et des personnes qualifiées en
+matière familiale et sociale.
 
 L'agrément peut être donné à titre provisoire ou pour une durée limitée.
 

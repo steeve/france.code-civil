@@ -2,13 +2,12 @@ Article R2321-2
 ----
 Dans les dix jours qui suivent la date de l'ouverture de l'établissement, le
 directeur de la maison d'enfants à caractère sanitaire fait parvenir au
-directeur départemental des affaires sanitaires et sociales une déclaration
-accompagnée des certificats médicaux mentionnés à l'article R. 2321-25
-comportant :
+directeur général de l'agence régionale de santé une déclaration accompagnée des
+certificats médicaux mentionnés à l'article R. 2321-25 comportant :
 
 1° Les nom, prénoms, titres et lieu de résidence du médecin chargé de la
 surveillance médicale de l'établissement sous réserve de l'agrément du directeur
-départemental des affaires sanitaires et sociales ;
+général de l'agence régionale de santé ;
 
 2° Les noms, prénoms, dates de naissance et titres du personnel d'encadrement ;
 

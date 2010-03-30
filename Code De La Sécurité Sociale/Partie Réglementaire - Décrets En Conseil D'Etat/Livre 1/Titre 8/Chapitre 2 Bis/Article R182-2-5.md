@@ -3,15 +3,10 @@ Article R182-2-5
 Le directeur général de l'union et le collège des directeurs exercent les
 attributions mentionnées aux articles L. 182-2-4 et L. 182-2-5.
 
-Sur mandat du collège des directeurs, le directeur général anime et coordonne
-l'action des unions régionales des caisses d'assurance maladie et assure le
-suivi des contrats pluriannuels d'objectifs et de gestion interrégimes prévus à
-l'article L. 183-2-3.
-
-Il représente l'union en justice et dans les actes de la vie civile. Dans les
-matières qui relèvent de la compétence du conseil ou de celle du collège des
-directeurs, il agit en justice sur mandat respectif soit du conseil, soit du
-collège. Il peut déléguer sa signature.
+Le directeur général représente l'union en justice et dans les actes de la vie
+civile. Dans les matières qui relèvent de la compétence du conseil ou de celle
+du collège des directeurs, il agit en justice sur mandat respectif soit du
+conseil, soit du collège. Il peut déléguer sa signature.
 
 Il peut déléguer une partie de ses pouvoirs à certains agents de direction. Il
 peut leur donner mandat en vue d'assurer la représentation de l'union en justice

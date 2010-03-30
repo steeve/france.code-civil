@@ -6,7 +6,7 @@ formation médicale continue.
 
 L'agrément ne peut être délivré qu'aux organismes dont la déclaration d'activité
 mentionnée à l'article L. 920-4 du code du travail a été enregistrée auprès du
-préfet de région.
+directeur général de l'agence régionale de santé.
 
 Il est donné sur la base d'un cahier des charges, élaboré par chacun des
 conseils, précisant les conditions à remplir. Le cahier des charges prend en

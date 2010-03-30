@@ -1,9 +1,10 @@
 Article D3121-39
 ----
-La demande d'habilitation est adressée au préfet du département où sera situé le
-centre d'information, de dépistage et de diagnostic des infections sexuellement
-transmissibles, accompagnée d'un dossier dont le contenu est défini par arrêté
-du ministre chargé de la santé.
+La demande d'habilitation est adressée au directeur général de l'agence
+régionale de santé de la région où sera situé le centre d'information, de
+dépistage et de diagnostic des infections sexuellement transmissibles,
+accompagnée d'un dossier dont le contenu est défini par arrêté du ministre
+chargé de la santé.
 
 Cette demande précise les modalités de fonctionnement des centres d'information,
 de dépistage et de diagnostic des infections sexuellement transmissibles, en

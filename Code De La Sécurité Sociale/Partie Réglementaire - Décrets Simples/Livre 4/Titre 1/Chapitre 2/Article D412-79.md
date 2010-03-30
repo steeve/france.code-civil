@@ -5,18 +5,18 @@ MUTUALITE
 
 Les fonctions mentionnées à l'article D. 412-78 sont les suivantes :
 
-A. - En ce qui concerne le régime général de sécurité sociale :
+A.-En ce qui concerne le régime général de sécurité sociale :
 
 membres des conseils d'administration des caisses nationales de l'assurance
 maladie, des allocations familiales, d'assurance vieillesse, de l'agence
 centrale des organismes de sécurité sociale, de l'union des caisses nationales
-de sécurité sociale, des caisses primaires et régionales d'assurance maladie,
-des unions de recouvrement, des caisses générales pour les départements
-d'outre-mer, des caisses d'allocations familiales, des unions ou fédérations des
-caisses, des comités ou commissions fonctionnant auprès de ces conseils
-d'administration.
+de sécurité sociale, des caisses primaires d'assurance maladie, des caisses
+d'assurance retraite et de la santé au travail, des unions de recouvrement, des
+caisses générales pour les départements d'outre-mer, des caisses d'allocations
+familiales, des unions ou fédérations des caisses, des comités ou commissions
+fonctionnant auprès de ces conseils d'administration.
 
-B. - En ce qui concerne les organisations spéciales et régimes spéciaux de
+B.-En ce qui concerne les organisations spéciales et régimes spéciaux de
 sécurité sociale :
 
 1°) membres des commissions ou comités constitués en application du présent code
@@ -80,14 +80,14 @@ membres des conseils d'administration des caisses constituées pour l'applicatio
 des régimes d'assurance vieillesse des travailleurs non salariés ; membres des
 comités et commissions fonctionnant auprès de ces conseils d'administration.
 
-D. - En ce qui concerne le régime d'assurance maladie et maternité :
+D.-En ce qui concerne le régime d'assurance maladie et maternité :
 
 membres des conseils d'administration de la caisse nationale et des caisses
 mutuelles régionales d'assurance maladie et maternité des travailleurs non
 salariés ; membres des comités ou commissions fonctionnant auprès desdits
 conseils d'administration.
 
-E. - En ce qui concerne les commissions médico-sociales paritaires nationales et
+E.-En ce qui concerne les commissions médico-sociales paritaires nationales et
 départementales fonctionnant dans le cadre des conventions conclues avec les
 professions médicales et paramédicales (articles L. 162-5, L. 162-9 et L.
 162-11) :
@@ -95,15 +95,15 @@ professions médicales et paramédicales (articles L. 162-5, L. 162-9 et L.
 représentants des médecins, chirurgiens-dentistes, sages-femmes et auxiliaires
 médicaux, membres desdites commissions.
 
-F. - En ce qui concerne l'institut de recherche et de sécurité pour la
-prévention des accidents de travail et des maladies professionnelles :
+F.-En ce qui concerne l'institut de recherche et de sécurité pour la prévention
+des accidents de travail et des maladies professionnelles :
 
 membres du conseil d'administration de cet institut (association soumise au
 contrôle financier de l'Etat, créée en vue du développement de la prévention des
 accidents du travail et des maladies professionnelles, en application du livre
 IV du présent code).
 
-G. - En ce qui concerne les institutions de prévoyance ou de sécurité sociale
+G.-En ce qui concerne les institutions de prévoyance ou de sécurité sociale
 établies dans le cadre d'une ou plusieurs entreprises et ayant reçu
 l'autorisation du ministre du travail (article L. 731-1 ; articles R. 731-1 et
 suivants) :
@@ -111,7 +111,7 @@ suivants) :
 membres des conseils d'administration, comités ou commissions chargés de ou
 participant à la gestion de ces institutions.
 
-H. - En ce qui concerne l'organisation de la mutualité :
+H.-En ce qui concerne l'organisation de la mutualité :
 
 1°) membres des conseils d'administration des sociétés mutualistes, de leurs
 unions et fédérations, des comités et commissions constitués auprès de ces
@@ -123,7 +123,7 @@ II. ORGANISMES LIES A LA PROTECTION SOCIALE ET A LA SANTE PUBLIQUE
 
 Les fonctions mentionnées à l'article D. 412-78 sont les suivantes :
 
-A. - En ce qui concerne le régime national interprofessionnel d'allocations
+A.-En ce qui concerne le régime national interprofessionnel d'allocations
 spéciales aux travailleurs sans emploi de l'industrie et du commerce (ordonnance
 n° 84-198 du 21 mars 1984, arrêté du 28 mars 1984) :
 
@@ -140,21 +140,21 @@ interprofessionnelle pour l'emploi dans l'industrie et le commerce (UNEDIC), des
 associations pour l'emploi dans l'industrie et le commerce (ASSEDIC) et du
 centre de coordination des ASSEDIC de la Seine et de Seine-et-Oise (CASSO).
 
-B. - En ce qui concerne l'organisation de la formation professionnelle des
-adultes (AFPA) (décret du 9 novembre 1946, modifié) :
+B.-En ce qui concerne l'organisation de la formation professionnelle des adultes
+(AFPA) (décret du 9 novembre 1946, modifié) :
 
 membres de l'assemblée générale et du conseil d'administration de l'AFPA ;
 
 membres exerçant un mandat à caractère permanent des commissions nationales
 paritaires professionnelles de la formation professionnelle des adultes.
 
-C. - En ce qui concerne l'organisation de la médecine du travail (articles L.
+C.-En ce qui concerne l'organisation de la médecine du travail (articles L.
 241-1 et R. 241-1 et suivants du code du travail) :
 
 membres des conseils d'administration, commissions ou comités des associations
 médicales interentreprises de médecine du travail.
 
-D. - En ce qui concerne les institutions de protection de la santé publique et
+D.-En ce qui concerne les institutions de protection de la santé publique et
 d'hygiène sociale (livre VIII du code de la santé publique ; loi n° 60-732 du 28
 juillet 1960) :
 
@@ -170,13 +170,13 @@ avril 1962) ;
 membres des comités consultatifs de protection des personnes dans la recherche
 biomédicale créés par la loi n° 88-1138 du 20 décembre 1988.
 
-E. - En ce qui concerne les hôpitaux et hospices publics (décret n° 72-350 du 2
+E.-En ce qui concerne les hôpitaux et hospices publics (décret n° 72-350 du 2
 mai 1972) :
 
 membres des commissions administratives des établissements ou groupes
 d'établissements d'hospitalisation publics.
 
-F. - En ce qui concerne les établissements de lutte contre les fléaux sociaux
+F.-En ce qui concerne les établissements de lutte contre les fléaux sociaux
 (Livre III du code de la santé publique) :
 
 membres :
@@ -195,7 +195,7 @@ sanatoriums publics de postcure (décrets n° 48-864 du 24 mai 1948, articles 16
 et 18 ; n° 48-865, articles 13 et 15 ; n° 48-866, article 1er ; décret n° 50-21
 du 6 janvier 1950, article 22).
 
-G. - En ce qui concerne les institutions sociales et médico-sociales :
+G.-En ce qui concerne les institutions sociales et médico-sociales :
 
 1° Membres des conseils d'administration, commissions ou comités fonctionnant au
 sein des organismes gérant des établissements et services sociaux et
@@ -221,15 +221,15 @@ mentionnés au 1° ci-dessus ainsi que les membres actifs de ces organismes
 définis au 2° lorsque le personnel desdits organismes relève des régimes de
 protection sociale agricole.
 
-H. - En ce qui concerne les établissements nationaux de bienfaisance (décret du
-18 décembre 1923 ; décret du 1er février 1924 ; décret n° 51-300 du 7 novembre
-1951 ; décret du 13 juin 1955) :
+H.-En ce qui concerne les établissements nationaux de bienfaisance (décret du 18
+décembre 1923 ; décret du 1er février 1924 ; décret n° 51-300 du 7 novembre 1951
+; décret du 13 juin 1955) :
 
 membres des commissions consultatives ou administratives créées auprès de chacun
 des établissements nationaux de bienfaisance mentionnés respectivement par les
 décrets précités.
 
-I. - En ce qui concerne les institutions de protection sociale de l'enfance et
+I.-En ce qui concerne les institutions de protection sociale de l'enfance et
 institutions de l'aide sociale (code de la famille et de l'aide sociale, Titres
 II et III ; code du travail, article L. 323-11) :
 
@@ -247,7 +247,7 @@ et de l'aide sociale) ;
 des conseils départementaux de protection de l'enfance prévus à l'article 5 du
 décret n° 59-100 du 7 janvier 1959.
 
-J. - En ce qui concerne les institutions familiales (code de la famille et de
+J.-En ce qui concerne les institutions familiales (code de la famille et de
 l'aide sociale, Titre Ier) :
 
 personnes désignées par l'union nationale et des unions départementales et
@@ -255,7 +255,7 @@ locales des associations familiales pour assurer la tutelle aux prestations
 sociales ou gérer un service d'intérêt familial en application des dispositions
 du 3° de l'article 3 du code de la famille et de l'aide sociale.
 
-K. - En ce qui concerne les associations d'action éducative, associations gérant
+K.-En ce qui concerne les associations d'action éducative, associations gérant
 des équipements, habilitées par les ministères chargés de la justice, de la
 santé et de la famille (ordonnance n° 45-174 du 2 février 1945 et décret n°
 46-734 du 16 avril 1946) :
@@ -265,7 +265,7 @@ au sein de ces organismes ;
 
 2°) animateurs réguliers dûment mandatés de ces organismes.
 
-L. - En ce qui concerne les associations intermédiaires (art. L. 128 du code du
+L.-En ce qui concerne les associations intermédiaires (art.L. 128 du code du
 travail, décret n° 87-303 du 30 avril 1987, modifié par décret n° 90-418 du 16
 mai 1990) :
 
@@ -276,7 +276,7 @@ III. INSTITUTIONS JUDICIAIRES
 
 Les fonctions mentionnées à l'article D. 412-78 sont les suivantes :
 
-A. - En ce qui concerne l'organisation du contentieux général et du contentieux
+A.-En ce qui concerne l'organisation du contentieux général et du contentieux
 technique de la sécurité sociale :
 
 1°) membres assesseurs titulaires et suppléants :
@@ -295,22 +295,22 @@ mentionnées à l'article R. 142-15, au deuxième alinéa de l'article R. 143-4,
 articles R. 143-5, R. 143-15, R. 143-20, R. 143-26 à R. 143-28, R. 144-1 et R.
 144-2.
 
-B. - En ce qui concerne les conseils des prud'hommes (livre V, titre Ier, du
-code du travail) :
+B.-En ce qui concerne les conseils des prud'hommes (livre V, titre Ier, du code
+du travail) :
 
 membres des conseils de prud'hommes.
 
-C. - En ce qui concerne les tribunaux de commerce (décret n° 61-923 du 3 août
+C.-En ce qui concerne les tribunaux de commerce (décret n° 61-923 du 3 août
 1961) :
 
 magistrats des tribunaux de commerce.
 
-D. - En ce qui concerne les tribunaux paritaires des baux ruraux (décret n°
+D.-En ce qui concerne les tribunaux paritaires des baux ruraux (décret n°
 58-1293 du 22 décembre 1958) :
 
 membres assesseurs des tribunaux paritaires des baux ruraux.
 
-E. - En ce qui concerne les tribunaux pour enfants (ordonnance n° 45-174 du 24
+E.-En ce qui concerne les tribunaux pour enfants (ordonnance n° 45-174 du 24
 février 1945, articles R. 522-3 et suivants du code de l'organisation
 judiciaire) :
 
@@ -320,8 +320,8 @@ IV. MINISTERES
 
 Les fonctions mentionnées à l'article D. 412-78 sont les suivantes :
 
-A. - En ce qui concerne le ministère de la justice (art. D. 472 à D. 477 et art.
-D. 579 du code de procédure pénale, ordonnance n° 45-174 du 2 février 1945,
+A.-En ce qui concerne le ministère de la justice (art.D. 472 à D. 477 et art.D.
+579 du code de procédure pénale, ordonnance n° 45-174 du 2 février 1945,
 ordonnance n° 58-1300 du 23 décembre 1958, décret n° 78-381 du 20 mars 1978,
 modifié par le décret n° 81-583 du 18 mai 1981) :
 
@@ -340,7 +340,7 @@ main de justice ;
 
 5° conciliateurs.
 
-B. - En ce qui concerne le ministère chargé du travail (articles L. 323-11, L.
+B.-En ce qui concerne le ministère chargé du travail (articles L. 323-11, L.
 122-14, L. 511-4, R. 323-82 et R. 323-83, D. 122-1 à D. 122-5 du code du
 travail) :
 
@@ -358,7 +358,7 @@ inscrits sur une liste dressée par le préfet du département ;
 4° Membres du Conseil supérieur de la prud'homie institué par l'article L. 511-4
 du code du travail.
 
-C. - En ce qui concerne le ministère chargé des affaires sociales et ministère
+C.-En ce qui concerne le ministère chargé des affaires sociales et ministère
 chargé de l'éducation (loi n° 75-534 du 30 juin 1975 d'orientation en faveur des
 personnes handicapées, décret n° 75-1166 du 15 décembre 1975) :
 
@@ -369,12 +369,12 @@ V. DIVERS
 
 Les fonctions mentionnées à l'article D. 412-78 sont les suivantes :
 
-A. - En ce qui concerne les caisses d'épargne ordinaires (code des caisses
+A.-En ce qui concerne les caisses d'épargne ordinaires (code des caisses
 d'épargne ; décret n° 54-1080 du 6 novembre 1954 complété et modifié) :
 
 1°) membres des conseils d'administration des caisses d'épargne ordinaires ;
 
 2°) membres de la commission supérieure des caisses d'épargne.
 
-B. - En ce qui concerne le Médiateur de la République : délégués du Médiateur de
+B.-En ce qui concerne le Médiateur de la République : délégués du Médiateur de
 la République.

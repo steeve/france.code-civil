@@ -1,10 +1,9 @@
 Article R162-54-7
 ----
-Les unions régionales des caisses d'assurance maladie notifient par courrier
-chaque accord-cadre, accord conventionnel interprofessionnel, convention,
-règlement arbitral, leurs avenants et annexes et les accords de bon usage des
-soins, dans un délai d'un mois suivant leur publication, aux professionnels de
-santé concernés.
+Les caisses primaires notifient par courrier chaque accord-cadre, accord
+conventionnel interprofessionnel, convention, règlement arbitral, leurs avenants
+et annexes et les accords de bon usage des soins, dans un délai d'un mois
+suivant leur publication, aux professionnels de santé concernés.
 
 Les professionnels de santé non adhérents à l'un des accords, conventions ou
 règlement, qu'ils s'installent pour la première fois en exercice libéral ou

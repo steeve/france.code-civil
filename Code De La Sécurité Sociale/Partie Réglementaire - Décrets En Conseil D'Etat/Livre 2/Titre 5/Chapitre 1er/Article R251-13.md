@@ -1,7 +1,7 @@
 Article R251-13
 ----
-La comptabilité des caisses régionales d'assurance maladie doit permettre de
-suivre distinctement les opérations afférentes à la gestion administrative, à
-l'action sanitaire et sociale à la prévention, l'éducation et l'information
-sanitaires et à la prévention des accidents du travail et des maladies
-professionnelles.
+La comptabilité des caisses d'assurance retraite et de la santé au travail doit
+permettre de suivre distinctement les opérations afférentes à la gestion
+administrative, à l'action sanitaire et sociale à la prévention, l'éducation et
+l'information sanitaires et à la prévention des accidents du travail et des
+maladies professionnelles.

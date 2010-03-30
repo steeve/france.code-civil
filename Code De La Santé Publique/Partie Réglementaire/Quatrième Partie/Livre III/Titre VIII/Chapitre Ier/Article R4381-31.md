@@ -1,9 +1,9 @@
 Article R4381-31
 ----
-La radiation de l'inscription peut être prononcée par le préfet du département
-dans le cas où la société ne se conforme pas aux dispositions législatives ou
-réglementaires régissant les sociétés civiles professionnelles d'infirmiers ou
-d'infirmières ou de masseurs-kinésithérapeutes.
+La radiation de l'inscription peut être prononcée par le directeur général de
+l'agence régionale de santé dans le cas où la société ne se conforme pas aux
+dispositions législatives ou réglementaires régissant les sociétés civiles
+professionnelles d'infirmiers ou d'infirmières ou de masseurs-kinésithérapeutes.
 
 La décision de radiation est motivée. Elle ne peut être prise qu'après que la
 société a été mise en mesure de présenter ses observations orales ou écrites.

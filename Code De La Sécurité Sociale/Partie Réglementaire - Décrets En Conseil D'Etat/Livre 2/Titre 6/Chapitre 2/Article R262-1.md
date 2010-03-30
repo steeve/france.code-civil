@@ -3,7 +3,8 @@ Article R262-1
 Le Fonds national d'action sanitaire et sociale de la Caisse nationale de
 l'assurance maladie a pour objet :
 
-1°) l'attribution à chaque caisse régionale et primaire d'une dotation annuelle
+1°) l'attribution à chaque caisse primaire d'assurance maladie et à chaque
+caisse d'assurance retraite et de la santé au travail d'une dotation annuelle
 destinée à alimenter en recettes le budget d'action sanitaire et sociale de la
 caisse et calculée dans les conditions prévues par l'arrêté pris en application
 de l'article L. 251-1 ;

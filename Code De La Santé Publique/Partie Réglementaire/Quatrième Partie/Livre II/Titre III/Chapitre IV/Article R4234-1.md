@@ -5,11 +5,10 @@ ministre chargé de la santé, le ministre chargé de la sécurité sociale, le
 directeur général de l'Agence française de sécurité sanitaire des produits de
 santé ou le directeur général de l'Agence française de sécurité sanitaire des
 aliments pour les pharmaciens des établissements relevant de leurs contrôles
-respectifs, le préfet, le directeur départemental des affaires sanitaires et
-sociales, le directeur régional des affaires sanitaires et sociales, le
-procureur de la République, le président du Conseil national, d'un conseil
-central ou d'un conseil régional de l'ordre des pharmaciens, un pharmacien
-inscrit à l'un des tableaux de l'ordre ou un particulier.
+respectifs, directeur général de l'agence régionale de santé le procureur de la
+République, le président du Conseil national, d'un conseil central ou d'un
+conseil régional de l'ordre des pharmaciens, un pharmacien inscrit à l'un des
+tableaux de l'ordre ou un particulier.
 
 Lorsque les faits ont été portés à la connaissance de l'auteur de la plainte par
 un organisme de sécurité sociale, celui-ci reçoit notification de la décision de
@@ -21,5 +20,5 @@ conseil central compétent qui l'enregistre.
 Les décisions de sanctions disciplinaires prises par l'autorité hiérarchique sur
 le fondement de dispositions statutaires ou contractuelles à l'encontre de
 pharmaciens exerçant dans les établissements de santé sont transmises par le
-directeur de l'établissement au directeur régional des affaires sanitaires et
-sociales intéressé.
+directeur de l'établissement au directeur général de l'agence régionale de santé
+intéressé.

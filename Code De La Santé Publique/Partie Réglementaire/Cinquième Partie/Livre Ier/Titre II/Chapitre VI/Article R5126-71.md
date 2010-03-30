@@ -5,8 +5,9 @@ création ou de transfert d'une pharmacie à usage intérieur d'un service
 départemental d'incendie et de secours est présentée par le président du conseil
 d'administration du service départemental d'incendie et de secours.
 
-Elle est adressée au préfet du département concerné par lettre recommandée avec
-demande d'accusé de réception.
+Elle est adressée par lettre recommandée avec demande d'accusé de réception au
+directeur général de l'agence régionale de santé qui en adresse copie au préfet
+du département.
 
 Elle comporte les renseignements suivants :
 

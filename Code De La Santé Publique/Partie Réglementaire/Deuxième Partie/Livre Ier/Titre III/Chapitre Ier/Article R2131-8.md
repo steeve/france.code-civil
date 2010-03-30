@@ -8,8 +8,8 @@ l'Agence de la biomédecine.
 
 Lorsqu'il est fait application des dispositions du dernier alinéa de l'article
 L. 6122-13 relatives au maintien de la suspension ou de retrait de
-l'autorisation, le directeur de l'agence régionale de l'hospitalisation
-recueille l'avis de l'Agence de la biomédecine. L'absence d'avis de l'Agence de
-la biomédecine dans les quinze jours qui suivent la consultation du directeur de
-l'agence régionale de l'hospitalisation vaut acceptation de la mesure proposée
+l'autorisation, le directeur général de l'agence régionale de santé recueille
+l'avis de l'Agence de la biomédecine. L'absence d'avis de l'Agence de la
+biomédecine dans les quinze jours qui suivent la consultation du directeur
+général de l'agence régionale de santé vaut acceptation de la mesure proposée
 par ce dernier.

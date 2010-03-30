@@ -18,6 +18,5 @@ concernés : collèges, lycées, établissements d'enseignement professionnel,
 lycées agricoles, aquacoles et maritimes et établissements d'éducation spéciale
 ;
 
-3° Les parties de services des directions départementales de l'action sanitaire
-et sociale de Corse-du-Sud et de Haute-Corse participant à l'instruction des
-demandes de classement touristique.
+3° Les parties de services de l'agence régionale de santé participant à
+l'instruction des demandes de classement touristique.

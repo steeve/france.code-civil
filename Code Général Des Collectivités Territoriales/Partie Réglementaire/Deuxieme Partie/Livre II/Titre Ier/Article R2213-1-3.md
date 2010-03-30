@@ -15,9 +15,8 @@ conditions préservant la protection des données :
 1° Aux agents de l'Institut de veille sanitaire nommément désignés par le
 directeur de cet établissement ;
 
-2° Aux agents désignés à cet effet dans les directions départementales et
-régionales des affaires sanitaires et sociales, pour la zone géographique qui
-les concerne ;
+2° Aux agents de l'agence régionale de santé désignés à cet effet par le
+directeur général ;
 
 3° Après demande adressée à l'Institut national de la santé et de la recherche
 médicale, aux médecins responsables d'un registre de pathologie agréé.

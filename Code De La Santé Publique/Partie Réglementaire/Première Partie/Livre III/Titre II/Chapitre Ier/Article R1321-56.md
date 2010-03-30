@@ -16,6 +16,6 @@ de vidange, de nettoyage, de rinçage et de désinfection soit réduite. Le sile
 gardé pendant plus de quatre mois sur cette demande d'autorisation vaut décision
 de rejet.
 
-Le préfet est tenu informé par la personne responsable de la production ou de la
-distribution d'eau des opérations de désinfection réalisées en cours
-d'exploitation.
+Le directeur général de l'agence régionale de santé est tenu informé par la
+personne responsable de la production ou de la distribution d'eau des opérations
+de désinfection réalisées en cours d'exploitation.

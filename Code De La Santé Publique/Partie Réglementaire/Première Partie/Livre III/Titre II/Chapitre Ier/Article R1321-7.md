@@ -1,8 +1,8 @@
 Article R1321-7
 ----
-I. - Le préfet soumet un rapport de synthèse et un projet d'arrêté motivé à
-l'avis du conseil départemental de l'environnement et des risques sanitaires et
-technologiques.
+I.-Le préfet soumet un rapport de synthèse établi par le directeur général de
+l'agence régionale de santé et un projet d'arrêté motivé à l'avis du conseil
+départemental de l'environnement et des risques sanitaires et technologiques.
 
 Le préfet transmet le projet d'arrêté au demandeur et l'informe de la date et du
 lieu de la réunion du conseil départemental. Le demandeur ou son mandataire peut
@@ -13,7 +13,7 @@ Dans le cas où les installations sont situées dans des départements différen
 les préfets de ces départements choisissent le préfet coordonnateur de la
 procédure.
 
-II. - Le préfet adresse le dossier de la demande au ministre chargé de la santé
+II.-Le préfet adresse le dossier de la demande au ministre chargé de la santé
 qui le transmet pour avis à l'Agence française de sécurité sanitaire des
 aliments lorsque la demande d'autorisation porte sur l'utilisation d'une eau
 prélevée dans le milieu naturel ne respectant pas une des limites de qualité,

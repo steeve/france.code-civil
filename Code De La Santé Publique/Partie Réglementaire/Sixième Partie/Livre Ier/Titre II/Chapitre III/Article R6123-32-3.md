@@ -8,4 +8,4 @@ mentionné à l'article R. 6123-26.
 
 La convention prévoit les modalités de suivi et d'évaluation régulière de ces
 prises en charge, qui font l'objet d'un rapport transmis chaque année à l'agence
-régionale de l'hospitalisation.
+régionale de santé.

@@ -1,8 +1,9 @@
 Article R6122-18
 ----
-Le comité national et les comités régionaux ne peuvent délibérer que si au moins
-la moitié des membres de la section ou de la formation convoquée sont présents ;
-le quorum est apprécié en début de séance.
+Le comité national et les commissions spécialisées des conférences régionales de
+la santé et de l'autonomie ne peuvent délibérer que si au moins la moitié des
+membres de la section ou de la formation convoquée sont présents ; le quorum est
+apprécié en début de séance.
 
 Toutefois, quand le quorum n'est pas atteint après une convocation régulièrement
 faite, la section ou la formation, quel que soit le nombre des membres présents,
@@ -10,9 +11,10 @@ délibère valablement sur les points inscrits à l'ordre du jour de la premièr
 réunion, lors d'une seconde réunion qui doit avoir lieu dans un délai de cinq à
 quinze jours.
 
-Les avis des comités sont émis à la majorité des suffrages exprimés par les
-membres présents. Le vote par procuration n'est pas admis. En cas de partage
-égal des voix, celle du président est prépondérante.
+Les avis du comité national et des commissions spécialisées sont émis à la
+majorité des suffrages exprimés par les membres présents. Le vote par
+procuration n'est pas admis. En cas de partage égal des voix, celle du président
+est prépondérante.
 
 Les membres suppléants ne siègent qu'en cas d'absence ou d'empêchement des
 membres titulaires.
@@ -22,8 +24,10 @@ concernant des établissements à l'administration desquels ils participent ou
 avec lesquels ils collaborent et, plus généralement, dans les affaires
 auxquelles ils sont intéressés à un titre quelconque.
 
-Les membres des comités sont soumis à l'obligation de discrétion professionnelle
-à l'égard de tous les faits et documents dont ils ont connaissance en cette
-qualité ainsi que des délibérations des comités.
+Les membres du comité national et des commissions spécialisées sont soumis à
+l'obligation de discrétion professionnelle à l'égard de tous les faits et
+documents dont ils ont connaissance en cette qualité ainsi que des délibérations
+du comité national et des commissions spécialisées.
 
-Les membres des comités exercent leur mandat à titre gratuit.
+Les membres du comité national et des commissions spécialisées exercent leur
+mandat à titre gratuit.

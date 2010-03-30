@@ -19,5 +19,4 @@ postnatales, les cours de préparation à la naissance, l'enseignement des soins
 aux nouveau-nés et les consultations de planification familiale. La convention
 avec l'établissement de santé permet la mise à disposition du centre périnatal
 de proximité de sages-femmes et d'au moins un gynécologue-obstétricien ; elle
-est soumise à l'approbation du directeur de l'agence régionale de
-l'hospitalisation.
+est soumise à l'approbation du directeur général de l'agence régionale de santé.

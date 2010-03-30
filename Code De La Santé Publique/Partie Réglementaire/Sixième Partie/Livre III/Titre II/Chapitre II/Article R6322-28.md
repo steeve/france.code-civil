@@ -5,7 +5,8 @@ certification sont applicables aux installations de chirurgie esthétique en
 application de l'article L. 6322-1.
 
 Les faits ou manquements mettant en jeu la sécurité des patients, mentionnés à
-l'article R. 6113-14, sont portés à la connaissance du préfet.
+l'article R. 6113-14, sont portés à la connaissance du directeur général de
+l'agence régionale de santé.
 
 Lorsque le titulaire de l'autorisation prévue à l'article L. 6322-1 est un
 établissement de santé, la certification de ses installations et de son activité

@@ -16,5 +16,5 @@ enfants, y compris les nouveau-nés et les nourrissons, appelée SMUR pédiatriq
 3° La prise en charge des patients accueillis dans la structure des urgences ou
 dans la structure des urgences pédiatriques.
 
-L'autorisation donnée par l'agence régionale de l'hospitalisation précise la ou
-les modalités d'exercice de l'activité autorisée.
+L'autorisation donnée par l'agence régionale de santé précise la ou les
+modalités d'exercice de l'activité autorisée.

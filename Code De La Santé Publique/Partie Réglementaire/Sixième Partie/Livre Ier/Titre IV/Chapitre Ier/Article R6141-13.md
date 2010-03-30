@@ -1,6 +1,6 @@
 Article R6141-13
 ----
-En vue de composer le conseil d'administration du futur établissement devant
+En vue de composer le conseil de surveillance du futur établissement devant
 résulter d'une transformation prévue à l'article R. 6141-11, le directeur chargé
 de la mise en place du nouvel établissement dans les conditions définies à
 l'article 26 du décret n° 2005-921 du 2 août 2005 portant statut particulier des
@@ -30,7 +30,7 @@ personnel à élire par collège sont ceux qui résultent du cumul des effectifs
 La commission médicale d'établissement et la commission du service de soins
 infirmiers, de réadaptation et médico-techniques procèdent, dès leur
 constitution, aux élections nécessaires à la désignation de leurs représentants
-respectifs au conseil d'administration. Les organisations syndicales proposent,
+respectifs au conseil de surveillance. Les organisations syndicales proposent,
 dès la proclamation des résultats des élections au comité technique
 d'établissement, les noms des représentants du personnel titulaire relevant du
 titre IV du statut général des fonctionnaires, dans les conditions prévues au 3°

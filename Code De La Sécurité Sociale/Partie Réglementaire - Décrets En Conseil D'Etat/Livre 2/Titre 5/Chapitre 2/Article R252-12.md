@@ -1,7 +1,7 @@
 Article R252-12
 ----
-Les caisses régionales d'assurance maladie établissent, par exercice, des
-budgets :
+Les caisses d'assurance retraite et de la santé au travail établissent, par
+exercice, des budgets :
 
 1°) pour la gestion administrative ;
 

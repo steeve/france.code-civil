@@ -6,8 +6,9 @@ respectées aux points de conformité définis à l'article R. 1321-5, la person
 responsable de la production ou de la distribution d'eau destinée à la
 consommation humaine est tenue :
 
-1° D'en informer immédiatement le maire et le préfet territorialement compétent
-;
+1° D'en informer immédiatement le maire et le directeur général de l'agence
+régionale de santé, qui transmet cette information au préfet territorialement
+compétent ;
 
 2° D'effectuer immédiatement une enquête afin d'en déterminer la cause ;
 

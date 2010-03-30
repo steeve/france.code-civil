@@ -6,7 +6,7 @@ activités déclarées, en particulier le changement du ou des responsables
 scientifiques des activités déclarées ou la constitution, l'acquisition, le
 transfert ou la destruction d'une collection, est portée sans délai par
 l'organisme à la connaissance du ministre chargé de la recherche et, le cas
-échéant, du directeur de l'agence régionale de l'hospitalisation.
+échéant, du directeur général de l'agence régionale de santé.
 
 Lorsque la modification porte sur la constitution d'une collection, l'organisme
 adresse, en outre, au comité de protection des personnes, concomitamment à

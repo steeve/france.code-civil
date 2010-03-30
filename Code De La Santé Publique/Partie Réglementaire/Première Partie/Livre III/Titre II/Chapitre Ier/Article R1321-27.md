@@ -6,10 +6,11 @@ imputable à l'installation privée de distribution, la personne responsable de 
 production ou de la distribution d'eau doit prendre le plus rapidement possible
 les mesures correctives nécessaires afin de rétablir la qualité de l'eau.
 
-Elle en informe le maire et le préfet territorialement compétent. Elle accorde
-la priorité à l'application de ces mesures, compte tenu, entre autres, de la
-mesure dans laquelle la limite de qualité a été dépassée et du danger potentiel
-pour la santé des personnes.
+Elle en informe le maire et le directeur général de l'agence régionale de santé,
+qui transmet cette information au préfet territorialement compétent. Elle
+accorde la priorité à l'application de ces mesures, compte tenu, entre autres,
+de la mesure dans laquelle la limite de qualité a été dépassée et du danger
+potentiel pour la santé des personnes.
 
 Pour les eaux conditionnées, les dispositions applicables sont celles de
 l'article R. 1322-44-7.

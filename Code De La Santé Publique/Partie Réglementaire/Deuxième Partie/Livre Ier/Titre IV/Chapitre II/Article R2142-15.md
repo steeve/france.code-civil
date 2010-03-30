@@ -26,7 +26,7 @@ praticien, auprès de l'Agence de la biomédecine, au moins six mois avant la da
 d'échéance de cet agrément.
 
 En cas de non-renouvellement, le directeur général de l'Agence de la biomédecine
-informe de cette décision l'agence régionale de l'hospitalisation compétente,
-ainsi que les titulaires de l'autorisation de l'établissement de santé, de
-l'organisme ou du laboratoire d'analyses de biologie médicale où le praticien
-exerce les activités d'assistance médicale à la procréation.
+informe de cette décision l'agence régionale de santé compétente, ainsi que les
+titulaires de l'autorisation de l'établissement de santé, de l'organisme ou du
+laboratoire d'analyses de biologie médicale où le praticien exerce les activités
+d'assistance médicale à la procréation.

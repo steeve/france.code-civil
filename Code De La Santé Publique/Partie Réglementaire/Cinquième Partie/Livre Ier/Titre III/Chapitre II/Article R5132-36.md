@@ -34,8 +34,8 @@ Ces inscriptions sont faites à l'encre, sans blanc, ni surcharge.
 
 Chaque année, il est procédé à l'inventaire du stock, par pesées et décomptes.
 Les différences constatées entre la balance et l'inventaire sont soumises au
-contrôle du pharmacien inspecteur de santé publique ou, le cas échéant, du
-vétérinaire inspecteur, lors de la première visite qui suit l'établissement de
+contrôle des inspecteurs mentionnés à l'article L. 5127-1 ou, le cas échéant, du
+vétérinaire officiel, lors de la première visite qui suit l'établissement de
 l'inventaire. Les mentions des écarts constatés sont, le cas échéant, inscrites
 sur celui-ci. Cet inventaire est porté sur le registre à l'encre, sans blanc ni
 rature ou surcharge, ou par voie d'enregistrement électronique. Aucune
@@ -54,14 +54,14 @@ toute réciprocité et tout conflit d'intérêt par le président du conseil ré
 de l'ordre des pharmaciens, ou, pour les pharmaciens d'outre-mer, du conseil
 central E, ou, pour les vétérinaires, le président du conseil régional de
 l'ordre des vétérinaires. Un mois avant l'opération envisagée, il en informe par
-écrit le pharmacien inspecteur régional de santé publique, ou, le cas échéant,
-le directeur départemental des services vétérinaires, en indiquant la date
-prévue, les noms, quantités et toutes précisions sur les formes et
+écrit les inspecteurs mentionnés à l'article L. 5127-1, ou, le cas échéant, le
+directeur départemental chargé de la protection des populations, en indiquant la
+date prévue, les noms, quantités et toutes précisions sur les formes et
 conditionnements des produits à détruire. Après destruction des produits
-dénaturés, il adresse au pharmacien inspecteur régional de santé publique ou, le
-cas échéant, au directeur départemental des services vétérinaires, une copie du
-document attestant cette destruction. Les modalités de destruction des produits
-dénaturés doivent respecter la réglementation en vigueur en matière
+dénaturés, il adresse aux inspecteurs mentionnés à l'article L. 5127-1 ou, le
+cas échéant, au directeur départemental chargé de la protection des populations,
+une copie du document attestant cette destruction. Les modalités de destruction
+des produits dénaturés doivent respecter la réglementation en vigueur en matière
 d'élimination des déchets. Un document attestant la destruction est tenu, par le
 titulaire, à la disposition des autorités de contrôle. Le modèle du document
 attestant la destruction est fixé par arrêté des ministres chargés de la santé

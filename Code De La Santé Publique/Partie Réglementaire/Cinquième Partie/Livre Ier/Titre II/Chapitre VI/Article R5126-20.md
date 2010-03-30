@@ -8,9 +8,9 @@ la prestation ainsi que des moyens dont dispose, à cet effet, la pharmacie
 prestataire.
 
 L'autorisation est délivrée au vu de la convention prévue à l'article L. 5126-3,
-après avis de l'inspection régionale de la pharmacie ou de l'inspection
-technique des services pharmaceutiques des armées si la prestation est assurée
-par la pharmacie d'un hôpital des armées.
+sur le rapport d'un inspecteur mentionné à l'article L. 5127-1 ou de
+l'inspection technique des services pharmaceutiques des armées si la prestation
+est assurée par la pharmacie d'un hôpital des armées.
 
 Lorsque le prestataire et le bénéficiaire ne relèvent pas d'une même autorité
 administrative, l'autorisation est délivrée après avis de l'autorité compétente

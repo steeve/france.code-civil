@@ -14,8 +14,8 @@ Ce taux de remboursement qu'il est proposé d'appliquer pour l'année suivante e
 communiqué à l'établissement, avant le 10 novembre, par lettre recommandée avec
 avis de réception. Ce dernier peut présenter ses observations à l'agence dans
 les dix jours suivant cette communication. Ce taux de remboursement est arrêté,
-chaque année, au plus tard le 1er décembre, par le directeur de l'agence
-régionale de l'hospitalisation.
+chaque année, au plus tard le 1er décembre, par le directeur général de l'agence
+régionale de santé.
 
 La fixation du taux de remboursement de la part prise en charge par les régimes
 obligatoires d'assurance maladie doit être motivée.

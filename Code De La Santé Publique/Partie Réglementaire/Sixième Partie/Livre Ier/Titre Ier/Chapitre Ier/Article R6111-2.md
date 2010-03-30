@@ -13,10 +13,10 @@ programme d'actions de lutte contre les infections nosocomiales ;
 nosocomiales ; ce rapport d'activité peut être consulté sur place, sur simple
 demande ; il comporte le bilan des activités et un tableau de bord composé
 d'indicateurs ; ce bilan et ce tableau de bord sont transmis annuellement, par
-le représentant légal de l'établissement de santé, à la direction départementale
-des affaires sanitaires et sociales et au centre de coordination de la lutte
-contre les infections nosocomiales. Le bilan et le tableau de bord sont établis
-selon un modèle défini par arrêté du ministre chargé de la santé ;
+le représentant légal de l'établissement de santé, à l'agence régionale de santé
+et au centre de coordination de la lutte contre les infections nosocomiales. Le
+bilan et le tableau de bord sont établis selon un modèle défini par arrêté du
+ministre chargé de la santé ;
 
 4° Définit, en relation avec les professionnels de soins, les méthodes et les
 indicateurs adaptés aux activités de l'établissement de santé permettant
@@ -34,10 +34,9 @@ cette instance s'appuie sur les compétences techniques et l'expertise de
 l'équipe opérationnelle d'hygiène hospitalière.
 
 Dans les établissements publics de santé et les syndicats interhospitaliers,
-cette instance est constituée par la sous-commission chargée d'examiner les
-questions mentionnées au 2° du II de l'article L. 6144-1. Dans les
-établissements de santé privés ainsi que dans les groupements de coopération
-sanitaire, elle est constituée par un comité de lutte contre les infections
-nosocomiales. Elle se réunit au moins trois fois par an. Elle doit disposer des
-moyens, notamment des informations et données, nécessaires à l'exercice de ses
-missions.
+cette instance est constituée par la commission mentionnée à l'article L.
+6144-1. Dans les établissements de santé privés ainsi que dans les groupements
+de coopération sanitaire, elle est constituée par un comité de lutte contre les
+infections nosocomiales. Elle se réunit au moins trois fois par an. Elle doit
+disposer des moyens, notamment des informations et données, nécessaires à
+l'exercice de ses missions.

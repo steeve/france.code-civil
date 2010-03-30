@@ -17,5 +17,5 @@ conditions de détention et de dispensation des médicaments, produits, objets,
 dispositifs médicaux stériles mentionnés aux articles L. 5126-11 et L. 5126-12.
 
 Les arrêtés prévus au présent article fixent, le cas échéant, des dispositions
-particulières aux pharmacies desservant des structures d'hospitalisation à
+particulières aux pharmacies desservant des établissements d'hospitalisation à
 domicile ou des unités de dialyse à domicile.

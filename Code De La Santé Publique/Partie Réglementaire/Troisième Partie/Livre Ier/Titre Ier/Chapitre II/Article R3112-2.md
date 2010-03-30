@@ -22,7 +22,8 @@ mentionnés à l'article L. 6141-5 ;
 
 b) Hôpitaux des armées et Institution nationale des invalides ;
 
-c) Services d'hospitalisation à domicile ;
+c) Etablissements d'hospitalisation à domicile mentionnés à l'article L. 6125-2
+;
 
 d) Dispensaires ou centres de soins, centres et consultations de protection
 maternelle et infantile ;

@@ -14,8 +14,8 @@ examiné la victime ou qui a statué sur son taux d'incapacité permanente, ou p
 un médecin-conseil habilité à cet effet par le médecin-conseil régional.
 
 Le comité entend obligatoirement l'ingénieur-conseil chef du service de
-prévention de la caisse régionale d'assurance maladie ou l'ingénieur-conseil
-qu'il désigne pour le représenter.
+prévention de la caisse d'assurance retraite et de la santé au travail ou
+l'ingénieur-conseil qu'il désigne pour le représenter.
 
 Le comité peut entendre la victime et l'employeur, s'il l'estime nécessaire.
 
@@ -23,5 +23,5 @@ L'avis motivé du comité est rendu à la caisse primaire, qui notifie
 immédiatement à la victime ou à ses ayants droit la décision de reconnaissance
 ou de rejet de l'origine professionnelle de la maladie qui en résulte. Cette
 notification est envoyée à l'employeur. Lorsqu'elle fait grief, cette
-notification [*forme*] est effectuée par lettre recommandée avec demande d'avis
-de réception.
+notification est effectuée par lettre recommandée avec demande d'avis de
+réception.

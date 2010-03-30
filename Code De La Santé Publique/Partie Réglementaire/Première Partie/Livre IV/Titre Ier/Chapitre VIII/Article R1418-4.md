@@ -1,9 +1,9 @@
 Article R1418-4
 ----
-L'agence est informée par les agences régionales de l'hospitalisation de tout
-manquement aux règles applicables aux activités médicales et biologiques
-relevant de son champ de compétence. Elle propose au ministre chargé de la santé
-toutes mesures utiles pour y remédier.
+L'agence est informée par les agences régionales de santé de tout manquement aux
+règles applicables aux activités médicales et biologiques relevant de son champ
+de compétence. Elle propose au ministre chargé de la santé toutes mesures utiles
+pour y remédier.
 
 Elle signale à l'Agence française de sécurité sanitaire des produits de santé
 les manquements aux règles de bonnes pratiques mentionnées aux articles L.

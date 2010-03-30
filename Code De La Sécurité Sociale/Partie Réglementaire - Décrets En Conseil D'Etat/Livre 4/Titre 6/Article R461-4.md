@@ -8,5 +8,5 @@ exemplaire à la caisse primaire d'assurance maladie, d'autre part à l'inspecte
 du travail ou au fonctionnaire qui en exerce les attributions en vertu d'une
 législation spéciale.
 
-La caisse primaire transmet à la caisse régionale l'un des deux exemplaires
-qu'elle reçoit.
+La caisse primaire transmet à la caisse d'assurance retraite et de la santé au
+travail l'un des deux exemplaires qu'elle reçoit.

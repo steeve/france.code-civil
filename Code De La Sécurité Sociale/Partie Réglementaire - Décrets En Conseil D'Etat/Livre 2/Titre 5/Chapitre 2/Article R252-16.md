@@ -1,7 +1,7 @@
 Article R252-16
 ----
-Les caisses régionales d'assurance maladie établissent par exercice, au titre
-des opérations mentionnées à l'article R. 215-2 :
+Les caisses d'assurance retraite et de la santé au travail établissent par
+exercice, au titre des opérations mentionnées à l'article R. 215-2 :
 
 1°) un état prévisionnel des dépenses de prestations vieillesse ;
 

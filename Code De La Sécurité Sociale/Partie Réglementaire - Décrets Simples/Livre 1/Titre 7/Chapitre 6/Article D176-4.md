@@ -11,12 +11,12 @@ Pour ce calcul, seuls sont pris en compte les salaires perçus par les personnel
 concernés, bénéficiaires du livre IV et dont la charge est assumée par
 l'employeur.
 
-Le taux fictif ainsi déterminé est notifié par la caisse régionale d'assurance
-maladie dont relève le siège social ou l'établissement principal de l'entreprise
-ou de la collectivité, dans les conditions prévues à l'article D. 242-6-17.
-L'établissement ou la collectivité est tenu, le cas échéant, de produire à la
-caisse régionale compétente toutes justifications des éléments entrant dans le
-calcul de ce taux fictif.
+Le taux fictif ainsi déterminé est notifié par la caisse d'assurance retraite et
+de la santé au travail dont relève le siège social ou l'établissement principal
+de l'entreprise ou de la collectivité, dans les conditions prévues à l'article
+D. 242-6-17. L'établissement ou la collectivité est tenu, le cas échéant, de
+produire à la caisse d'assurance retraite et de la santé au travail compétente
+toutes justifications des éléments entrant dans le calcul de ce taux fictif.
 
 Les employeurs susvisés versent à l'union de recouvrement des cotisations de
 sécurité sociale et d'allocations familiales dont ils relèvent le montant de

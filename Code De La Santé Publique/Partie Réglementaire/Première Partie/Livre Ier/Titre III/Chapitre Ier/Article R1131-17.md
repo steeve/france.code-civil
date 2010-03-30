@@ -8,5 +8,5 @@ de l'autorisation est encouru dans les conditions prévues par l'article L.
 
 Lorsqu'il est fait application des dispositions du dernier alinéa de cet article
 relatives au maintien de la suspension ou de retrait de l'autorisation, le
-directeur de l'agence régionale de l'hospitalisation peut recueillir l'avis de
+directeur général de l'agence régionale de santé peut recueillir l'avis de
 l'Agence de la biomédecine.

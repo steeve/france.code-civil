@@ -9,12 +9,12 @@ caisses nationales de sécurité sociale.
 Cette liste est adressée par le directeur de l'organisme national, dans un délai
 de huit jours à compter de la réception des avis du comité des carrières, au
 président du conseil d'administration de l'organisme dont le poste est à
-pourvoir. Toutefois, pour les postes à pourvoir dans les caisses régionales
-d'assurance maladie et les caisses générales de sécurité sociale, la liste est
-établie et adressée conjointement par les directeurs des organismes nationaux
-compétents, dans un délai de douze jours à compter de la réception des avis du
-comité des carrières, au président du conseil d'administration dont le poste est
-à pourvoir.
+pourvoir. Toutefois, pour les postes à pourvoir dans les caisses d'assurance
+retraite et de la santé au travail et les caisses générales de sécurité sociale,
+la liste est établie et adressée conjointement par les directeurs des organismes
+nationaux compétents, dans un délai de douze jours à compter de la réception des
+avis du comité des carrières, au président du conseil d'administration dont le
+poste est à pourvoir.
 
 Le directeur de l'organisme national compétent informe chaque candidat de la
 présence ou de l'absence de son nom sur la liste.

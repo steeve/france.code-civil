@@ -1,6 +1,6 @@
 Article R1112-80
 ----
-I. - La commission veille au respect des droits des usagers et facilite leurs
+I.-La commission veille au respect des droits des usagers et facilite leurs
 démarches.
 
 A cet effet, l'ensemble des plaintes et réclamations adressées à l'établissement
@@ -13,9 +13,9 @@ réclamations qui ne présentent pas le caractère d'un recours gracieux ou
 juridictionnel et veille à ce que toute personne soit informée sur les voies de
 recours et de conciliation dont elle dispose.
 
-II. - La commission contribue par ses avis et propositions à l'amélioration de
-la politique d'accueil et de prise en charge des personnes malades et de leurs
-proches. A cet effet :
+II.-La commission contribue par ses avis et propositions à l'amélioration de la
+politique d'accueil et de prise en charge des personnes malades et de leurs
+proches.A cet effet :
 
 1° Elle reçoit toutes les informations nécessaires à l'exercice de ses missions,
 notamment :
@@ -66,4 +66,5 @@ l'organe collégial qui en tient lieu, quinze jours au moins avant la séance au
 cours de laquelle ce dernier délibère sur la politique de l'établissement en ce
 qui concerne les droits des usagers et la qualité de l'accueil et de la prise en
 charge. Il est également transmis, avec les éléments d'information énumérés au
-1°, à l'agence régionale de l'hospitalisation et au conseil régional de santé.
+1°, à l'agence régionale de santé et à la conférence régionale de la santé et de
+l'autonomie.

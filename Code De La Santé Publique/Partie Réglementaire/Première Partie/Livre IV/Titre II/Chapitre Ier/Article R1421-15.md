@@ -1,11 +1,8 @@
 Article R1421-15
 ----
 Les membres du corps de l'inspection de l'action sanitaire et sociale sont
-chargés, sous l'autorité des directeurs régionaux et départementaux des affaires
-sanitaires et sociales, de la mise en oeuvre des politiques sanitaires,
-médico-sociales et sociales de l'Etat et apportent, en tant que de besoin, leur
-concours à la mise en oeuvre des politiques dont sont chargées les agences
-régionales de l'hospitalisation.
+chargés de la mise en œuvre des politiques sanitaires, médico-sociales et
+sociales relevant de l'Etat et des agences régionales de santé.
 
 A ce titre, ils assurent notamment des missions :
 

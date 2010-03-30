@@ -33,7 +33,6 @@ conventions prévues aux articles L. 162-5, L. 162-9, L. 162-12-2 et L. 162-12-9
 ou, à défaut, le règlement prévu à l'article L. 162-14-2 ainsi que les
 recommandations de bonne pratique qui y sont associées ;
 
-7° Emet un avis sur les accords de bon usage des soins, les contrats de bonne
-pratique et les contrats de santé publique mentionnés respectivement aux
-articles L. 162-12-17, L. 162-12-18, et L. 162-12-20 qui comportent des
-engagements relatifs à la sécurité, la qualité ou l'efficience des pratiques.
+7° Emet un avis sur les accords de bon usage des soins, mentionnés à l'article
+L. 162-12-17qui comportent des engagements relatifs à la sécurité, la qualité ou
+l'efficience des pratiques.

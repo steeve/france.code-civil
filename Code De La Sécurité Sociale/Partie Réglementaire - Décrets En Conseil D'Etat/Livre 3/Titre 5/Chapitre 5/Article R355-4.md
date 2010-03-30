@@ -1,9 +1,10 @@
 Article R355-4
 ----
-La caisse primaire ou régionale d'assurance maladie ou la caisse régionale
-d'assurance vieillesse des travailleurs salariés de Strasbourg, suivant le cas,
-notifie à l'intéressé sa décision portant soit attribution d'une pension ou
-rente, soit droit au versement forfaitaire prévu à l'article L. 351-9.
+La caisse primaire d'assurance maladie, la caisse d'assurance retraite et de la
+santé au travail ou la caisse régionale d'assurance vieillesse des travailleurs
+salariés de Strasbourg, suivant le cas, notifie à l'intéressé sa décision
+portant soit attribution d'une pension ou rente, soit droit au versement
+forfaitaire prévu à l'article L. 351-9.
 
 Le décret prévu à l'article L. 256-2 fixe les conditions de délivrance de
 l'extrait d'inscription, les modalités de paiement des arrérages ainsi que les

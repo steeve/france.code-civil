@@ -22,4 +22,4 @@ patient hospitalisé dans l'établissement de santé.
 
 Un dépôt de délivrance autorisé peut exercer les activités d'un dépôt d'urgence,
 ainsi que celles d'un dépôt relais, sans demander d'autorisation supplémentaire
-à l'agence régionale de l'hospitalisation.
+à l'agence régionale de santé.

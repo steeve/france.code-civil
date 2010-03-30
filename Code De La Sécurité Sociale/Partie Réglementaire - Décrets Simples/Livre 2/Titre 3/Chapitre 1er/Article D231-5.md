@@ -15,7 +15,3 @@ sécurité sociale mentionné à l'article L. 221-3 sont élus comme suit :
 Les employés et assimilés élisent un représentant. Les praticiens-conseils y
 compris ceux affectés aux échelons régionaux et locaux du contrôle médical
 élisent un représentant. Les cadres et assimilés élisent un représentant.
-
-Le représentant du personnel dans les conseils des organismes de sécurité
-sociale mentionnés à l'article L. 183-1 est élu par les employés et assimilés et
-par les cadres et assimilés de chaque organisme.

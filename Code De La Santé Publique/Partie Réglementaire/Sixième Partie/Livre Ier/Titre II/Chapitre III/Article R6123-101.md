@@ -8,6 +8,6 @@ patients.
 
 Cette permanence peut être commune à plusieurs sites autorisés en
 neurochirurgie, selon les modalités d'organisation d'accès aux soins définies
-dans le schéma interrégional d'organisation sanitaire de la neurochirurgie. Dans
-ce cas, une convention est établie entre les titulaires d'autorisation propre à
+dans le schéma interrégional d'organisation des soins de neurochirurgie. Dans ce
+cas, une convention est établie entre les titulaires d'autorisation propre à
 chaque site.

@@ -23,5 +23,5 @@ sanitaire ;
 b) Qu'il a satisfait aux obligations fixées par la législation relative aux
 vaccinations.
 
-La demande et les pièces qui l'accompagnent doivent être déposées à la direction
-départementale des affaires sanitaires et sociales.
+La demande et les pièces qui l'accompagnent doivent être adressées au directeur
+général de l'agence régionale de santé.

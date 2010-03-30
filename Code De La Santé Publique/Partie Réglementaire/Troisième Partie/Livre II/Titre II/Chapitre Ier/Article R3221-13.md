@@ -1,8 +1,8 @@
 Article R3221-13
 ----
 Dans le cas où la mise à disposition ne concerne qu'une partie d'un immeuble
-appartenant à l'Etat ou au département, les établissements assurant le service
-public hospitalier ne peuvent procéder à des travaux d'agrandissement ou de
+appartenant à l'Etat ou au département, les établissements mentionnés à
+l'article L. 3221-4 ne peuvent procéder à des travaux d'agrandissement ou de
 démolition qu'avec l'accord de la collectivité propriétaire.
 
 Dans cette situation, la répartition des frais de fonctionnement de l'immeuble

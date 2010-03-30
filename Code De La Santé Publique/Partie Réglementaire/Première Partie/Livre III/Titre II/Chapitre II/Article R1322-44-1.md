@@ -1,6 +1,7 @@
 Article R1322-44-1
 ----
-L'exploitant porte immédiatement à la connaissance du préfet tout incident
+L'exploitant porte immédiatement à la connaissance du directeur général de
+l'agence régionale de santé, qui en informe aussitôt le préfet tout incident
 pouvant avoir des conséquences pour la santé publique, concernant notamment la
 ressource en eau et les modalités de son aménagement, les conditions de
 transport de l'eau et de sa conservation jusqu'aux points d'usage ainsi que les

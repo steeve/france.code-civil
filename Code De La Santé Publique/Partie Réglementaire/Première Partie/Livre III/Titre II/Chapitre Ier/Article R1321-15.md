@@ -1,9 +1,9 @@
 Article R1321-15
 ----
 Le contrôle sanitaire mentionné au 2° du I de l'article L. 1321-4 est exercé par
-le préfet. Il comprend toute opération de vérification du respect des
-dispositions législatives et réglementaires relatives à la sécurité sanitaire
-des eaux destinées à la consommation humaine.
+l'agence régionale de santé. Il comprend toute opération de vérification du
+respect des dispositions législatives et réglementaires relatives à la sécurité
+sanitaire des eaux destinées à la consommation humaine.
 
 Il comprend notamment :
 
@@ -17,7 +17,8 @@ Le contenu du programme d'analyses, ses modalités d'adaptation et les fréquenc
 de prélèvements et d'analyses sont précisés, selon les caractéristiques des
 installations, par arrêté du ministre chargé de la santé.
 
-Les lieux de prélèvement sont déterminés par un arrêté du préfet.
+Les lieux de prélèvement sont déterminés par décision du directeur général de
+l'agence régionale de santé.
 
 Pour les eaux conditionnées, le programme est celui défini à l'article R.
 1322-41.

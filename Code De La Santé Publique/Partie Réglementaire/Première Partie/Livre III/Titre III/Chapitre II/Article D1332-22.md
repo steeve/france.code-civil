@@ -29,5 +29,5 @@ profil des eaux de baignade doit être mis à jour avant le début de la saison
 balnéaire suivante.
 
 Les mises à jour et les révisions des profils prévues au présent article sont
-transmises au maire et au préfet dans les conditions fixées à l'article D.
-1332-21.
+transmises au maire et au directeur général de l'agence régionale de santé dans
+les conditions fixées à l'article D. 1332-21.

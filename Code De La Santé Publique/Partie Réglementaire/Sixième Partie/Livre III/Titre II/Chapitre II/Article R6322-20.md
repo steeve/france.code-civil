@@ -21,7 +21,7 @@ l'autorisation parmi les médecins exerçant la chirurgie esthétique dans d'aut
 installations que les installations concernées ou ayant cessé d'exercer la
 chirurgie esthétique ou des fonctions de médiateur depuis moins de cinq ans.
 
-Le représentant des usagers et son suppléant sont désignés par le préfet parmi
-les personnes proposées par les associations mentionnées à l'article L. 1114-1,
-ou, à défaut, par les associations de défense des consommateurs, régulièrement
-déclarées.
+Le représentant des usagers et son suppléant sont désignés par le directeur
+général de l'agence régionale de santé parmi les personnes proposées par les
+associations mentionnées à l'article L. 1114-1, ou, à défaut, par les
+associations de défense des consommateurs, régulièrement déclarées.

@@ -8,11 +8,11 @@ relatives à la qualité de l'eau distribuée ou seulement la synthèse comment�
 permettant une bonne compréhension des données. Ces documents restent affichés
 jusqu'à ce que de nouveaux documents soient disponibles.
 
-En complément à l'affichage en mairie, une note de synthèse annuelle sur les
-données relatives à la qualité des eaux distribuées, transmise par le préfet,
-est publiée par le maire au recueil des actes administratifs prévu à l'article
-R. 2121-10 du code général des collectivités territoriales, dans les communes de
-3 500 habitants et plus.
+En complément à l'affichage en mairie, une note de synthèse annuelle du
+directeur général de l'agence régionale de santé sur les données relatives à la
+qualité des eaux distribuées, transmise par le préfet, est publiée par le maire
+au recueil des actes administratifs prévu à l'article R. 2121-10 du code général
+des collectivités territoriales, dans les communes de 3 500 habitants et plus.
 
 Lorsque, en complément à l'affichage en mairie, il est procédé à une autre forme
 de publicité sur les données relatives à la qualité des eaux, l'information doit

@@ -31,10 +31,11 @@ de la production ou de la distribution d'eau réalise régulièrement une étude
 caractérisant la vulnérabilité de ses installations de production et de
 distribution d'eau vis-à-vis des actes de malveillance et la transmet au préfet,
 selon des modalités fixées par un arrêté des ministres chargés de l'intérieur et
-de la santé.
+de la santé. Le préfet communique ces informations au directeur général de
+l'agence régionale de santé.
 
 Pour les eaux conditionnées, les dispositions applicables sont celles des
 articles R. 1322-29, R. 1322-30 et R. 1322-43 à R. 1322-44-1. Pour les eaux de
 source et les eaux conditionnées rendues potables par traitements, le
 laboratoire mentionné au 1° de l'article R. 1322-44 est agréé dans les
-conditions prévues à l'article R.* 1321-21.
+conditions prévues à l'article R. * 1321-21.

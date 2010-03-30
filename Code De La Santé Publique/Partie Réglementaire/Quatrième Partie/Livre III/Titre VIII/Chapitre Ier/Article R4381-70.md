@@ -7,4 +7,5 @@ et les plus-values d'actif ; il cesse à la même date d'être soumis aux
 incompatibilités et interdictions attachées à cette qualité.
 
 La cessation d'activité professionnelle d'un associé est, à la diligence du
-gérant, portée à la connaissance du préfet.
+gérant, portée à la connaissance du directeur général de l'agence régionale de
+santé.

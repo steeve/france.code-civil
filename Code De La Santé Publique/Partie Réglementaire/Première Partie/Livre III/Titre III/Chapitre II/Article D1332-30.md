@@ -13,4 +13,5 @@ délai de cinq ans.
 La personne responsable d'une eau de baignade informe le maire de la décision de
 fermeture de son site de baignade ainsi que de la durée et des motifs de cette
 décision. Ce dernier les communique au préfet aux fins de modification de la
-liste des eaux de baignade prévue à l'article D. 1332-17.
+liste des eaux de baignade prévue à l'article D. 1332-17 ainsi qu'au directeur
+général de l'agence régionale de santé.

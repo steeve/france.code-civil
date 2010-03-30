@@ -16,6 +16,6 @@ durée maximale de trois mois par le directeur général de l'Agence de la
 biomédecine.
 
 Le directeur général de l'Agence de la biomédecine informe de la décision de
-retrait ou de suspension le praticien, l'agence régionale de l'hospitalisation
-compétente, ainsi que l'établissement ou organisme titulaire de l'autorisation
-mentionnée à l'article R. 1131-13 au sein duquel exerce le praticien.
+retrait ou de suspension le praticien, l'agence régionale de santé compétente,
+ainsi que l'établissement ou organisme titulaire de l'autorisation mentionnée à
+l'article R. 1131-13 au sein duquel exerce le praticien.

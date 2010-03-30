@@ -4,10 +4,9 @@ La demande tendant à obtenir l'autorisation prévue à l'article L. 5126-7 de
 création d'une pharmacie à usage intérieur ou de transfert d'un site
 géographique à un autre est présentée par la personne physique titulaire de
 l'autorisation d'exploiter l'établissement ou par le représentant légal de la
-personne morale intéressée.
-
-Elle est adressée, par lettre recommandée avec demande d'avis de réception, à
-l'autorité administrative compétente mentionnée à l'article R. 5126-16.
+personne morale intéressée. Elle est adressée, par lettre recommandée avec
+demande d'avis de réception, à l'autorité administrative compétente mentionnée à
+l'article R. 5126-16.
 
 La demande est accompagnée d'un dossier comportant, selon la catégorie
 d'établissement, les renseignements suivants :
@@ -28,8 +27,8 @@ moyens prévu à l'article L. 6114-1 ;
 5° Le ou les sites d'implantation de la pharmacie, le ou les emplacements de ses
 locaux sur chacun d'eux et, le cas échéant, le ou les autres sites géographiques
 dont la desserte est prévue ainsi que la zone géographique d'intervention des
-structures d'hospitalisation à domicile ou des unités de dialyse à domicile
-desservies par la pharmacie ;
+établissements d'hospitalisation à domicile ou des unités de dialyse à domicile
+desservis par la pharmacie ;
 
 6° Un plan détaillé et coté des locaux et les informations relatives aux
 éléments mentionnés aux articles R. 5126-8 à R. 5126-14 ;
@@ -38,7 +37,8 @@ desservies par la pharmacie ;
 médicaments et des produits ou objets mentionnés aux articles L. 4211-1 et L.
 5137-1 ainsi que des dispositifs médicaux stériles, sur le ou les sites
 desservis par la pharmacie ainsi qu'au domicile des patients pris en charge par
-une structure d'hospitalisation à domicile ou une unité de dialyse à domicile ;
+un établissement d'hospitalisation à domicile ou une unité de dialyse à domicile
+;
 
 8° Lorsque la pharmacie a notamment pour rôle d'approvisionner d'autres
 pharmacies à usage intérieur en application de l'article R. 5126-5, tout
@@ -48,8 +48,10 @@ approvisionnement ;
 
 9° En outre, pour les syndicats interhospitaliers et les groupements de
 coopération sanitaire, l'arrêté ou l'acte d'approbation respectivement prévus
-aux articles L. 6132-2 et L. 6133-3 permettant de vérifier qu'une telle demande
-est conforme à l'objet du syndicat ou du groupement ;
+aux articles L. 6132-2, dans sa rédaction antérieure à la publication de la loi
+n° 2009-879 du 21 juillet 2009 portant réforme de l'hôpital et relative aux
+patients, à la santé et aux territoires, et L. 6133-3 permettant de vérifier
+qu'une telle demande est conforme à l'objet du syndicat ou du groupement ;
 
 10° Lorsque la pharmacie d'un établissement de santé ou de chirurgie esthétique,
 d'un syndicat interhospitalier ou d'un groupement de coopération sanitaire a

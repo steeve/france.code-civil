@@ -20,7 +20,7 @@ décret n° 82-103 du 22 janvier 1982 modifié relatif au répertoire national
 d'identification des personnes physiques ;
 
 2° A l'Institut national de la santé et de la recherche médicale, par
-l'intermédiaire de la direction départementale des affaires sanitaires et
-sociales, dans le ressort de laquelle le décès a eu lieu, le volet médical clos,
-ainsi qu'un bulletin comprenant les informations mentionnées au 1°, à
-l'exclusion du nom et du prénom de la personne décédée.
+l'intermédiaire de l'agence régionale de santé, dans le ressort de laquelle le
+décès a eu lieu, le volet médical clos, ainsi qu'un bulletin comprenant les
+informations mentionnées au 1°, à l'exclusion du nom et du prénom de la personne
+décédée.

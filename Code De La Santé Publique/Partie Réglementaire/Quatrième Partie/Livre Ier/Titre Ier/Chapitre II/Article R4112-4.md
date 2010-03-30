@@ -3,7 +3,8 @@ Article R4112-4
 Les décisions d'inscription ou de refus d'inscription sont notifiées à
 l'intéressé dans la semaine qui suit la décision du conseil, par lettre
 recommandée avec demande d'avis de réception. Ces décisions sont également
-notifiées sans délai et dans la même forme au Conseil national et au préfet.
+notifiées sans délai et dans la même forme au Conseil national et au directeur
+général de l'agence régionale de santé.
 
 La notification mentionne que le recours contre ces décisions doit être porté
 devant le conseil régional ou interrégional dans le ressort duquel se trouve le
@@ -17,10 +18,6 @@ des dispositions de l'article L. 4112-5, le conseil départemental en informe le
 organismes d'assurance maladie du régime général, de la mutualité sociale
 agricole et du régime social des indépendants ayant compétence dans le
 département.
-
-Lorsque le praticien exerce dans un établissement de santé, la décision de refus
-d'inscription est en outre notifiée au directeur de l'agence régionale de
-l'hospitalisation.
 
 Lorsque le praticien est ressortissant de l'un des Etats membres de l'Union
 européenne ou parties à l'accord sur l'Espace économique européen, la décision

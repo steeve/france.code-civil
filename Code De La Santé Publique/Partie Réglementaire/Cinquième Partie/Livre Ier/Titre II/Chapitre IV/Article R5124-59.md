@@ -42,10 +42,9 @@ de l'article L. 5121-1 exploité en France à toute officine qui le lui demande 
 il est tenu de participer à un système d'astreinte inter-entreprises, permettant
 la mise à disposition de médicaments, afin de répondre :
 
-a) A la demande du préfet du département concerné, après avis du directeur
-régional des affaires sanitaires et sociales, aux situations présentant un
-caractère d'urgence sanitaire, notamment dans le cadre de l'application de
-l'article L. 3131-1 ;
+a) A la demande du préfet après avis du directeur général de l'agence régionale
+de santé, aux situations présentant un caractère d'urgence sanitaire, notamment
+dans le cadre de l'application de l'article L. 3131-1 ;
 
 b) A la demande du pharmacien d'officine assurant le service de garde prévu à
 l'article L. 5125-22, pour répondre aux besoins urgents en médicaments soumis à
@@ -57,9 +56,8 @@ permet pas de satisfaire les besoins urgents en médicaments, un arrêté du
 ministre de la santé définit ces conditions.
 
 Le tableau des astreintes est transmis semestriellement pour le semestre suivant
-par les organisations représentatives à la direction régionale des affaires
-sanitaires et sociales et aux directions départementales des affaires sanitaires
-et sociales de la région intéressée.
+par les organisations représentatives à agence régionale de santé
+territorialement compétente.
 
 Ces dispositions ne font pas obstacle à ce qu'un établissement livre
 exceptionnellement en cas d'urgence une officine de pharmacie ou une pharmacie à
@@ -68,8 +66,7 @@ répartition.
 
 A titre exceptionnel et en l'absence d'autre source d'approvisionnement, le
 directeur général de l'Agence française de sécurité sanitaire des produits de
-santé peut, de sa propre initiative, ou à la demande du préfet du département
-concerné après avis du directeur régional des affaires sanitaires et sociales,
-imposer à un établissement de livrer une officine de pharmacie ou une pharmacie
-à usage intérieur d'un établissement de santé située hors de son territoire de
-répartition.
+santé peut, de sa propre initiative, ou à la demande du préfet après avis du
+directeur général de l'agence régionale de santé, imposer à un établissement de
+livrer une officine de pharmacie ou une pharmacie à usage intérieur d'un
+établissement de santé située hors de son territoire de répartition.

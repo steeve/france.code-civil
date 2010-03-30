@@ -1,7 +1,7 @@
 Article R4236-14
 ----
-Le préfet de région convoque le conseil régional ou interrégional pour sa
-première réunion dont il fixe l'ordre du jour.
+Le directeur général de l'agence régionale de santé convoque le conseil régional
+ou interrégional pour sa première réunion dont il fixe l'ordre du jour.
 
 Le conseil régional ou interrégional élit en son sein le vice-président. En cas
 d'absence du président, le vice-président le supplée dans ses fonctions.
@@ -28,8 +28,8 @@ intérêts ou des relations de nature à compromettre leur indépendance.
 Le conseil régional ou interrégional adopte son règlement intérieur sur la base
 d'un document type établi par le conseil national.
 
-Le préfet de région ou son représentant assiste avec voix consultative aux
-réunions du conseil régional ou interrégional.
+Le directeur général de l'agence régionale de santé ou son représentant assiste
+avec voix consultative aux réunions du conseil régional ou interrégional.
 
 Avec l'accord du président, des personnalités extérieures au conseil régional ou
 interrégional peuvent participer à ses travaux avec voix consultative.

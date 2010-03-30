@@ -9,7 +9,7 @@ Si l'inscription est prononcée, notification en est faite à chacun des associ�
 dans les mêmes formes.
 
 Le conseil départemental notifie sans délai une copie de la décision ou l'avis
-de l'inscription au préfet du département, au Conseil national de l'ordre et aux
-organismes d'assurance maladie du régime général, de la mutualité sociale
-agricole et du régime des travailleurs non salariés des professions non
-agricoles ayant compétence dans le département.
+de l'inscription au directeur général de l'agence régionale de santé, au Conseil
+national de l'ordre et aux organismes d'assurance maladie du régime général, de
+la mutualité sociale agricole et du régime des travailleurs non salariés des
+professions non agricoles ayant compétence dans le département.

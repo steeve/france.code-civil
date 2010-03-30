@@ -11,9 +11,10 @@ moins trois ans ;
 casier judiciaire pour des agissements contraires à l'honneur, à la probité ou
 aux bonnes mœurs ;
 
-Le préfet s'assure du respect de cette condition en demandant communication du
-bulletin n° 2 du casier judiciaire au casier judiciaire national automatisé, par
-un moyen de télécommunication sécurisé.
+Le directeur général de l'agence régionale de santé s'assure du respect de cette
+condition en demandant communication du bulletin n° 2 du casier judiciaire au
+casier judiciaire national automatisé, par un moyen de télécommunication
+sécurisé.
 
 3° N'ayant pas fait l'objet d'une sanction devenue définitive d'interdiction
 temporaire ou permanente, assortie ou non du sursis, mentionnée à l'article L.

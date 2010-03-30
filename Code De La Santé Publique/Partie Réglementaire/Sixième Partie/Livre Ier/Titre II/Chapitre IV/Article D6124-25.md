@@ -9,6 +9,6 @@ par la convention constitutive :
 2° Les modalités d'accès et de fonctionnement à ces ressources, notamment les
 tableaux de service ou les tableaux de permanence médicale.
 
-Il transmet également ce répertoire opérationnel à l'agence régionale de
-l'hospitalisation. Celle-ci réalise chaque année une synthèse des répertoires au
-niveau régional et la transmet à tous les professionnels concernés.
+Il transmet également ce répertoire opérationnel à l'agence régionale de santé.
+Celle-ci réalise chaque année une synthèse des répertoires au niveau régional et
+la transmet à tous les professionnels concernés.

@@ -1,8 +1,9 @@
 Article R1322-42
 ----
 Dans le cadre des dispositions prévues à l'article R. 1322-14, le préfet peut
-imposer à l'exploitant des analyses supplémentaires à celles définies à
-l'article R. 1322-41 dans les hypothèses suivantes :
+imposer à l'exploitant sur proposition du directeur général de l'agence
+régionale de santé des analyses supplémentaires à celles définies à l'article R.
+1322-41 dans les hypothèses suivantes :
 
 1° L'eau ne respecte pas les critères de qualité fixés par l'arrêté mentionné à
 l'article R. 1322-3 ;

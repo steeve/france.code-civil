@@ -25,7 +25,7 @@ sanguins labiles et répondant aux exigences résultant des principes de bonnes
 pratiques transfusionnelles mentionnés à l'article L. 1223-3.
 
 L'autorisation ne peut être accordée que si le dépôt répond à des besoins
-identifiés dans les schémas régionaux d'organisation sanitaire et si la mise en
+identifiés dans les schémas régionaux d'organisation des soins et si la mise en
 oeuvre et le fonctionnement du dépôt figurent dans le projet médical de
 l'établissement et dans son contrat pluriannuel d'objectifs et de moyens.
 

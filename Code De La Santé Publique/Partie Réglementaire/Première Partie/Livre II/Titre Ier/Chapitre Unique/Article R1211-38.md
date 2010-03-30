@@ -46,7 +46,8 @@ proposition du directeur général de l'Institut de la veille sanitaire ;
 i) Deux personnes exerçant les fonctions de correspondant local de biovigilance
 ;
 
-j) Un médecin ou un pharmacien inspecteur de santé publique ;
+j) un médecin ou un pharmacien inspecteur de santé publique ou un inspecteur
+d'une agence régionale de santé ayant la qualité de médecin ou de pharmacien ;
 
 k) Une personne représentant les associations d'usagers du système de santé
 ayant fait l'objet d'un agrément au niveau national en application de l'article

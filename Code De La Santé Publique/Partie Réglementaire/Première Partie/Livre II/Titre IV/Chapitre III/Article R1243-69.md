@@ -19,8 +19,8 @@ consentement ou à l'absence d'opposition ;
 
 7° Le lieu de conservation.
 
-Le ministre chargé de la recherche et, le cas échéant, le directeur de l'agence
-régionale de l'hospitalisation peuvent, en outre, demander à tout moment à
+Le ministre chargé de la recherche et, le cas échéant, le directeur général de
+l'agence régionale de santé peuvent, en outre, demander à tout moment à
 l'organisme des informations leur permettant de s'assurer que les activités sont
 bien poursuivies dans le respect des dispositions législatives et réglementaires
 et des exigences mentionnées au deuxième alinéa de l'article R. 1243-67.
