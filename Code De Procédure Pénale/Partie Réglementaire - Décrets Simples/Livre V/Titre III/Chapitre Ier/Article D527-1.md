@@ -12,7 +12,7 @@ demande conformément aux dispositions de l'article D. 526.
 
 Le président de la commission saisie par le juge ou le tribunal de l'application
 des peines ordonne le placement de la personne, pour une durée d'au moins six
-semaines, dans le centre national d'observation prévu aux articles D. 81-1 et D.
+semaines, dans le centre national d'évaluation prévu aux articles D. 81-1 et D.
 81-2, aux fins d'une évaluation pluridisciplinaire de dangerosité assortie d'une
 expertise médicale réalisée par deux experts.
 

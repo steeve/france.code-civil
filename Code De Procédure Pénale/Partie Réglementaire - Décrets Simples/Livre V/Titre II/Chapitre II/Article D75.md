@@ -8,5 +8,5 @@ supérieur à trois mois.
 Elle s'opère dans les conditions définies aux articles D. 76 à D. 79, à l'aide
 des renseignements qui sont fournis par l'autorité judiciaire et par
 l'administration pénitentiaire sur les intéressés, et, éventuellement, grâce aux
-examens auxquels ces derniers sont soumis au centre national d'observation de
+examens auxquels ces derniers sont soumis au centre national d'évaluation de
 l'administration pénitentiaire.

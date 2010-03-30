@@ -2,7 +2,7 @@ Article D82-3
 ----
 Lorsque la décision incombe au ministre de la justice, elle donne lieu :
 
-1° Soit à l'envoi du condamné au centre national d'observation ;
+1° Soit à l'envoi du condamné au centre national d'évaluation ;
 
 2° Soit à la délivrance d'un ordre de transfèrement du condamné à destination
 d'un autre établissement ;
