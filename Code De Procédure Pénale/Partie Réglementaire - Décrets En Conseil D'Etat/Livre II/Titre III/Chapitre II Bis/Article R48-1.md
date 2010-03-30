@@ -59,9 +59,9 @@ de voyageurs.
 a) L'article R. 632-1 du code pénal relatif au dépôt ou à l'abandon de matières,
 d'ordures ou de déchets dans les bois, forêts et terrains à boiser ;
 
-b) Les articles R. 331-63 à R. 331-66, l'article R. 331-68 du code de
-l'environnement relatifs aux parcs nationaux et les articles R332-69 à R332-72
-du même code relatifs aux réserves naturelles ;
+b) Les articles R. 331-63 à R. 331-66 du code de l'environnement relatifs aux
+coeurs de parcs nationaux et les articles R332-69 à R332-72 du même code
+relatifs aux réserves naturelles ;
 
 c) L'article R. 322-5 et le second alinéa de l'article R. 322-5-1 du code
 forestier relatif à la protection contre l'incendie, l'alinéa premier de

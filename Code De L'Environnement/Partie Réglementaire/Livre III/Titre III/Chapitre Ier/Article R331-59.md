@@ -1,11 +1,17 @@
 Article R331-59
 ----
-A défaut d'accord amiable dans les six mois de la réception de la demande, ou si
-l'organisme n'a pas répondu dans le délai fixé au dernier alinéa de l'article R.
-331-58, l'intéressé peut saisir le juge de l'expropriation dans le ressort
-duquel sont situés les biens par lettre recommandée avec demande d'avis de
-réception.
+Sous réserve qu'aux termes " expropriant ", " exproprié " et " ordonnance
+d'expropriation " soient substitués, selon les cas, les termes " établissement
+chargé du parc ", " demandeur " et " décret de création ", sont applicables aux
+demandes d'indemnité ainsi qu'aux demandes tendant à l'acquisition d'immeubles
+par l'établissement public :
 
-Le juge statue sur les indemnités, sur le droit du demandeur d'exiger
-l'acquisition de ses biens par l'organisme et éventuellement sur le prix de la
-cession.
+1° Les articles L. 13-5 à L. 13-9, L. 13-12, L. 13-14 à L. 13-25, L. 14-3, L.
+15-3 et L. 16-3 du code de l'expropriation pour cause d'utilité publique ;
+
+2° Les articles R. 13-22 à R. 13-53 du code de l'expropriation pour cause
+d'utilité publique.
+
+Toutefois, l'article L. 13-17 et les articles R. 13-43 à R. 13-46 du code
+susmentionné ne sont applicables qu'aux demandes tendant à l'acquisition
+d'immeubles par l'établissement.
