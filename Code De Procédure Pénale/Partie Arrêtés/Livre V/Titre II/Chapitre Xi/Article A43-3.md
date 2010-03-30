@@ -39,7 +39,9 @@ Quartier des mineurs de la maison d'arrêt de Fleury-Mérogis (Essonne) ;
 
 Quartier des mineurs de la maison d'arrêt de Grasse (Alpes-Maritimes) ;
 
-Quartier des mineurs de la maison d'arrêt de Grenoble-Varces (Isère) ;
+Quartier des mineurs de la maison d'arrêt de Grenoble-Varces (Isère)
+
+Quartier des mineurs du centre pénitentiaire du Havre (Seine-Maritime) ;
 
 Quartier des mineurs du centre pénitentiaire de Laon (Aisne) ;
 

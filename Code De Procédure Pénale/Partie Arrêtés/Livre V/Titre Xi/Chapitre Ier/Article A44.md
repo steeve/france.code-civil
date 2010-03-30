@@ -1206,7 +1206,7 @@ Antenne du Havre.
 
 Circonscription judiciaire du Havre.
 
-Maison d'arrêt du Havre.
+Centre pénitentiaire du Havre.
 
 Service pénitentiaire d'insertion et de probation de Seine-et-Marne.
 

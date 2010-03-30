@@ -45,6 +45,8 @@ Centre de détention d'Ecrouves (Meurthe-et-Moselle).
 
 Centre de détention d'Eysses (Lot-et-Garonne).
 
+Quartier centre de détention du centre pénitentiaire du Havre (Seine-Maritime).
+
 Centre de détention de Joux-la-Ville (hommes, femmes) (Yonne).
 
 Quartier centre de détention du centre pénitentiaire de Lannemezan
