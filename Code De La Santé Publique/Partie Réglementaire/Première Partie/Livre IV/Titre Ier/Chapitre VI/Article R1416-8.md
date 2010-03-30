@@ -1,4 +1,4 @@
-Article R1423-20
+Article R1416-8
 ----
 Pour son application à Saint-Barthélemy et à Saint-Martin, l'article R. 1416-17
 est ainsi rédigé :

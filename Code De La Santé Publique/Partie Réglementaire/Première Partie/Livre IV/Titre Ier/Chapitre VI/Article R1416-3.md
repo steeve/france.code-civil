@@ -1,4 +1,6 @@
 Article R1416-3
 ----
-L'Agence française de sécurité sanitaire de l'environnement et du travail peut
-être saisie de tout projet d'assainissement à la demande du préfet.
+Sans préjudice des dispositions prévoyant une procédure particulière, le
+conseil, lorsqu'il est appelé à émettre un avis sur une affaire individuelle,
+invite l'intéressé à formuler ses observations et l'entend s'il en fait la
+demande.
