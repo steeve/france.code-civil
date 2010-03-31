@@ -3,21 +3,18 @@ Article R721-1
 Le Conseil supérieur des prestations sociales agricoles est placé auprès du
 ministre chargé de l'agriculture.
 
-Il peut être consulté et faire toutes propositions sur les questions relatives
-au régime des prestations sociales agricoles et de la mutualité sociale
-agricole, notamment sur celles relatives aux prestations familiales des membres
-des professions agricoles, salariés ou non, aux assurances sociales des salariés
-agricoles, à l'assurance maladie, maternité, invalidité et vieillesse des
-membres non salariés des professions agricoles.
+Il peut être consulté et faire toute proposition sur les questions relatives à
+l'organisation, aux prestations et au financement des régimes de protection
+sociale des personnes salariées et non salariées agricoles.
 
-Il présente toutes suggestions et observations relatives à la gestion, notamment
-financière, des régimes des prestations sociales agricoles ;
+Chaque année, il est informé des comptes financiers de ces régimes et présente
+toutes suggestions et observations relatives à leur gestion financière, il
+entend les rapports en matière d'action sanitaire et sociale, de contrôle
+médical ainsi que de prévention et il est informé des dépenses complémentaires
+des organismes assureurs (frais de gestion, action sanitaire et sociale,
+investissements).
 
-Il contrôle les dépenses complémentaires des organismes assureurs (frais de
-gestion, action sanitaire et sociale, investissements) et présente au ministre
-un rapport sur ces dépenses ;
-
-Il donne son avis sur le projet d'arrêté à prendre chaque année par le ministre
-chargé de l'agriculture et le ministre chargé des finances pour déterminer les
-bases de calcul et les limites des frais de gestion des caisses de mutualité
-sociale agricole.
+En application des articles L. 751-15 et L. 752-17, ses sections compétentes
+donnent leur avis sur les projets d'arrêté fixant les taux de cotisations
+annuels dans les régimes d'assurance contre les accidents du travail et les
+maladies professionnelles des salariés et non salariés agricoles.
