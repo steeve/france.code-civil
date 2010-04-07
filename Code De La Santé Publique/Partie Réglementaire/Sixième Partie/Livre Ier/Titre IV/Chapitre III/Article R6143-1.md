@@ -1,43 +1,12 @@
 Article R6143-1
 ----
-Les conseils d'administration des centres hospitaliers et des centres
-hospitaliers régionaux ayant le caractère d'établissements publics de santé
-communaux sont composés de vingt-deux membres, répartis entre trois collèges :
+Le nombre des membres du conseil de surveillance des établissements publics de
+santé mentionnés à l'article L. 6141-1 est égal à neuf pour les établissements
+de ressort communal et à quinze pour les autres établissements.
 
-1° Un collège de représentants des collectivités territoriales comportant huit
-membres :
-
-a) Le maire de la commune, président de droit ; lorsque le maire ne souhaite pas
-assurer les fonctions de président, son remplaçant est élu par et parmi les
-membres mentionnés aux b à e et au 3° ci-dessous ; cette circonstance ne fait
-pas obstacle à ce que le maire reste membre du conseil d'administration ;
-
-b) Trois représentants de la commune ; ce chiffre est porté à quatre lorsque le
-maire, remplacé dans ses fonctions de président dans les conditions indiquées au
-a renonce, par ailleurs, à être membre du conseil d'administration ;
-
-c) Deux représentants de deux autres communes de la région, choisies selon les
-règles fixées à l'article R. 6143-11 ;
-
-d) Un représentant du département dans lequel est située la commune ;
-
-e) Un représentant de la région dans laquelle est située la commune ;
-
-2° Un collège des personnels comportant huit membres :
-
-a) Quatre membres de la commission médicale d'établissement, dont le président ;
-
-b) Un membre de la commission des soins infirmiers, de rééducation et
-médico-techniques ;
-
-c) Trois représentants des personnels titulaires relevant du titre IV du statut
-général des fonctionnaires ;
-
-3° Un collège de personnalités qualifiées et de représentants des usagers
-comportant six membres :
-
-a) Trois personnalités qualifiées, dont un médecin non hospitalier n'exerçant
-pas dans l'établissement et un représentant non hospitalier des professions
-paramédicales ;
-
-b) Trois représentants des usagers.
+Toutefois le directeur général de l'agence régionale de santé peut, par arrêté,
+fixer le nombre de membres d'un conseil de surveillance d'un établissement
+public de santé de ressort communal à quinze si celui-ci dispose
+d'établissements exerçant une activité de soins sur le territoire de plusieurs
+communes ou si la somme des produits qui lui sont versés annuellement par
+l'assurance maladie est supérieure ou égale à cinquante millions d'euros.

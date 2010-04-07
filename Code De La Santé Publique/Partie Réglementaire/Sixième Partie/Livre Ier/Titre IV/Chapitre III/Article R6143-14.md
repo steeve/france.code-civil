@@ -1,5 +1,10 @@
 Article R6143-14
 ----
-La liste nominative des membres du conseil d'administration de chaque
-établissement public de santé est arrêtée par le directeur de l'agence régionale
-de l'hospitalisation.
+Les délibérations sont conservées dans un registre, sous la responsabilité du
+président du directoire. Ce registre est tenu à la disposition des membres du
+conseil de surveillance et du public, qui peuvent le consulter sur place. Ils
+peuvent également obtenir des copies ou des extraits des délibérations.
+
+Les délibérations sont transmises sans délai au directeur général de l'agence
+régionale de santé. Celui-ci peut se faire représenter au conseil de
+surveillance.

@@ -1,21 +1,34 @@
 Article R6143-2
 ----
-Les conseils d'administration des centres hospitaliers et des centres
-hospitaliers régionaux ayant le caractère d'établissements publics de santé
-intercommunaux sont composés de vingt-deux membres, répartis entre trois
-collèges :
+Les conseils de surveillance composés de neuf membres comprennent :
 
-1° Un collège de représentants des collectivités territoriales comportant huit
-membres :
+1° Au titre des représentants des collectivités territoriales :
 
-a) Six représentants des communes de rattachement, dont un au moins de la
-commune siège, aucune commune ne pouvant avoir plus de quatre représentants ;
+a) Le maire de la commune siège de l'établissement principal, ou le représentant
+qu'il désigne ;
 
-b) Un représentant du département dans lequel est située la commune ;
+b) Un représentant d'un établissement public de coopération intercommunale à
+fiscalité propre dont la commune siège de l'établissement est membre ou, à
+défaut, un autre représentant de la commune siège de l'établissement principal ;
 
-c) Un représentant de la région dans laquelle est située la commune ;
+c) Le président du conseil général du département siège de l'établissement
+principal, ou le représentant qu'il désigne ;
 
-2° Les deux collèges respectivement prévus aux 2° et 3° de l'article R. 6143-1.
+2° Au titre des représentants du personnel :
 
-Le président du conseil d'administration est élu par et parmi les membres du
-collège prévu au 1° ci-dessus et du collège prévu au 3° de l'article R. 6143-1.
+a) Un membre de la commission de soins infirmiers, de rééducation et
+médico-techniques, désigné par celle-ci ;
+
+b) Un membre désigné par la commission médicale d'établissement ;
+
+c) Un membre désigné par les organisations syndicales les plus représentatives
+compte tenu des résultats obtenus lors des élections au comité technique
+d'établissement ;
+
+3° Au titre des personnalités qualifiées :
+
+a) Une personnalité qualifiée désignée par le directeur général de l'agence
+régionale de santé ;
+
+b) Deux représentants des usagers au sens de l'article L. 1114-1 désignés par le
+représentant de l'Etat dans le département.

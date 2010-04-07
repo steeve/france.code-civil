@@ -1,23 +1,19 @@
 Article R6143-10
 ----
-Lorsque l'hôpital local est départemental, son conseil d'administration comporte
-dix-huit membres, répartis entre trois collèges :
+Le conseil de surveillance ne peut délibérer valablement que lorsque la moitié
+plus un au moins des membres assistent à la séance.
 
-1° Un collège de représentants des collectivités territoriales comportant six
-membres :
+Toutefois, quand, après une convocation régulière, ce quorum n'est pas atteint,
+la délibération prise à l'occasion d'une seconde réunion, qui doit avoir lieu
+dans un délai de trois à huit jours, est réputée valable quel que soit le nombre
+des membres présents.
 
-a) Le président du conseil général, président de droit. Lorsque le président du
-conseil général ne souhaite pas assurer les fonctions de président du conseil
-d'administration, son remplaçant est élu par et parmi les membres mentionnés aux
-b à c ci-dessous et au 3° de l'article R. 6143-8 ; cette circonstance ne fait
-pas obstacle à ce que le président du conseil général reste membre du conseil
-d'administration ;
+Dans ce cas, le conseil de surveillance peut décider en début de séance le
+renvoi de tout ou partie de l'ordre du jour à une réunion ultérieure.
 
-b) Quatre représentants du département ; ce chiffre est porté à cinq lorsque le
-président du conseil général, remplacé dans ses fonctions de président du
-conseil d'administration dans les conditions indiquées au a ci-dessus, renonce
-par ailleurs à être membre du conseil d'administration ;
+Lorsqu'il est procédé à un vote, celui-ci a lieu au scrutin secret si l'un des
+membres présents en fait la demande. En cas de partage égal des voix, un second
+tour de scrutin est organisé. En cas de nouvelle égalité, la voix du président
+est prépondérante.
 
-c) Un représentant de la commune siège de l'établissement.
-
-2° Les deux collèges respectivement prévus aux 2° et 3° de l'article R. 6143-8.
+Les votes par correspondance ou par procuration ne sont pas admis.

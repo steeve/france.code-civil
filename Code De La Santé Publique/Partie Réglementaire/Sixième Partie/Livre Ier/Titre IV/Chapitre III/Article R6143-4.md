@@ -1,31 +1,59 @@
 Article R6143-4
 ----
-Lorsqu'un établissement public de santé départemental est situé dans un
-département autre que celui auquel il est rattaché, le conseil d'administration
-est composé de vingt-deux membres, répartis en trois collèges :
+Les membres du conseil de surveillance des établissements publics de santé, y
+compris ceux dont le ressort est national ou interrégional, sont nommés par
+arrêté du directeur général de l'agence régionale de santé de la région siège de
+leur établissement principal.
 
-1° Un collège de représentants des collectivités territoriales comportant huit
-membres :
+Le directeur général de l'agence régionale de santé saisit à cet effet les
+autorités et instances appelées à siéger, à être représentées ou à désigner des
+membres au sein du conseil de surveillance.
 
-a) Le président du conseil général du département de rattachement, président de
-droit ; lorsque le président du conseil général ne souhaite pas assurer les
-fonctions de président du conseil d'administration, son remplaçant est élu par
-et parmi les membres mentionnés aux b à e ci-dessous et au 3° de l'article R.
-6143-1 ; cette circonstance ne fait pas obstacle à ce que le président du
-conseil général demeure membre du conseil d'administration ;
+Les membres des conseils de surveillance des établissements publics de santé,
+qui ne sont ni membres de droit ni personnalités qualifiées, sont désignés dans
+les conditions suivantes :
 
-b) Quatre représentants du conseil général du département de rattachement ; ce
-chiffre est porté à cinq lorsque le président du conseil général, remplacé dans
-ses fonctions de président du conseil d'administration dans les conditions
-définies au a ci-dessus, renonce par ailleurs à être membre de ce conseil ;
+1° Les représentants des collectivités territoriales ou de leurs groupements
+sont élus, en leur sein, par les organes délibérants de ces collectivités ou de
+leurs groupements. Si l'un des représentants des collectivités territoriales
+siégeant au conseil de surveillance tombe sous le coup des incompatibilités ou
+incapacités prévues à l'article L. 6143-6, l'organe délibérant de la
+collectivité ou de son groupement désigne, en son sein, un nouveau représentant
+afin de le remplacer.
 
-c) Un représentant du département sur le territoire duquel est situé
-l'établissement, désigné par le conseil général ;
+Dans le cas où il existe plusieurs établissements publics de coopération
+intercommunale répondant aux conditions fixées à la sous-section précédente, le
+directeur général de l'agence régionale de santé désigne l'établissement dont
+l'ensemble des communes membres rassemble la population la plus importante.
 
-d) Un représentant de la commune dans laquelle l'établissement a son siège,
-désigné par le conseil municipal ;
+A défaut de désignation par les collectivités territoriales ou leurs groupements
+de leurs représentants dans un délai d'un mois après la saisine du directeur
+général de l'agence régionale de santé, le représentant de l'Etat procède à
+cette désignation ;
 
-e) Un représentant de la région dans laquelle l'établissement a son siège,
-désigné par le conseil régional ;
+2° Les membres désignés par la commission médicale d'établissement sont élus au
+scrutin uninominal secret et à la majorité absolue des suffrages exprimés. Si
+cette majorité n'est pas atteinte au premier tour, un second tour est organisé.
+La majorité relative suffit au second tour. En cas de partage égal des voix, le
+doyen d'âge est élu parmi les candidats ;
 
-2° Les deux collèges respectivement prévus aux 2° et 3° de l'article R. 6143-1.
+3° Le membre désigné par la commission de soins infirmiers, de rééducation et
+médico-techniques est élu, en son sein, par cette commission. L'élection a lieu
+au scrutin uninominal secret et à la majorité absolue des suffrages exprimés. Si
+cette majorité n'est pas atteinte au premier tour, un second tour est organisé.
+La majorité relative suffit au second tour. En cas de partage égal des voix, le
+doyen d'âge est élu parmi les candidats ;
+
+4° Les organisations syndicales appelées à désigner un membre sont déterminées
+par le directeur général de l'agence régionale de santé compte tenu du nombre
+total des voix qu'elles ont recueillies, au sein de l'établissement concerné, à
+l'occasion des élections au comité technique d'établissement.
+
+Lorsque le conseil de surveillance comprend un représentant du personnel, le
+siège est attribué à l'organisation syndicale ayant recueilli le plus grand
+nombre de voix.
+
+Lorsque le conseil de surveillance comprend deux représentants du personnel, le
+premier siège est attribué à l'organisation syndicale ayant recueilli le plus
+grand nombre de voix. Le second siège est attribué selon la règle de la plus
+forte moyenne entre toutes les listes.
