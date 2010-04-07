@@ -1,5 +1,10 @@
 Article R765-10
 ----
-Les articles R. 562-1, R. 562-2, R. 562-3 à R. 562-5, R. 563-1 à R. 563-4, R.
-564-1, R. 564-2, R. 565-1, D. 565-2, R. 565-2-1, D. 565-3 et R. 565-4 sont
-applicables dans les îles Wallis et Futuna.
+I.-Le titre VI du livre V est applicable dans les îles Wallis et Futuna.
+
+II.-Pour l'application de ces dispositions, les références aux codes des
+assurances, de la mutualité et de la sécurité sociale aux 2°, 3° et 4° de
+l'article R. 561-16, au code du travail aux 8° et 9° du même article, aux codes
+des assurances et de la mutualité à l'article R. 561-28 et au code de procédure
+civile à l'article R. 561-36 sont remplacées par des références à des
+dispositions applicables localement ayant le même objet.
