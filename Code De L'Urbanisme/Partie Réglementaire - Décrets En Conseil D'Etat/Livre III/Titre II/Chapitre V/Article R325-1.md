@@ -28,7 +28,7 @@ mêmes conditions.
 2° Un député et un sénateur désignés par l'assemblée à laquelle ils
 appartiennent ;
 
-3° Deux maires nommés par le Premier ministre ;
+3° Deux maires ou conseillers municipaux nommés par le Premier ministre ;
 
 4° Deux personnalités qualifiées nommées par le Premier ministre ;
 
