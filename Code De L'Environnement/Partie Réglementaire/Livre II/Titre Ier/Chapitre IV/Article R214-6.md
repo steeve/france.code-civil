@@ -25,9 +25,12 @@ fonctionnement des ouvrages ou installations, de la nature, de l'origine et du
 volume des eaux utilisées ou affectées et compte tenu des variations
 saisonnières et climatiques ;
 
-b) Comportant, lorsque le projet est de nature à affecter de façon notable un
-site Natura 2000 au sens de l'article L. 414-4, l'évaluation de ses incidences
-au regard des objectifs de conservation du site ;
+b) Comportant l'évaluation des incidences du projet sur un ou plusieurs sites
+Natura 2000, au regard des objectifs de conservation de ces sites. Le contenu de
+l'évaluation d'incidence Natura 2000 est défini à l'article R. 414-23 et peut se
+limiter à la présentation et à l'exposé définis au I de l'article R. 414-23, dès
+lors que cette première analyse conclut à l'absence d'incidence significative
+sur tout site Natura 2000 ;
 
 c) Justifiant, le cas échéant, de la compatibilité du projet avec le schéma
 directeur ou le schéma d'aménagement et de gestion des eaux et de sa
