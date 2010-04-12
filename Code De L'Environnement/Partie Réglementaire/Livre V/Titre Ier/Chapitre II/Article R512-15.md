@@ -2,18 +2,25 @@ Article R512-15
 ----
 Un avis au public est affiché aux frais du demandeur et par les soins du maire
 de chaque commune dont une partie du territoire est touchée par le périmètre
-prévu à l'article R. 512-14. L'affichage a lieu à la mairie ainsi que dans le
+prévu à l'article R. 512-14.L'affichage a lieu à la mairie ainsi que dans le
 voisinage de l'installation projetée, quinze jours au moins avant l'ouverture de
-l'enquête publique, de manière à assurer une bonne information du public.
-L'accomplissement de cet affichage est certifié par le maire de chaque commune
-où il a lieu.
+l'enquête publique, de manière à assurer une bonne information du
+public.L'accomplissement de cet affichage est certifié par le maire de chaque
+commune où il a lieu.
 
 Cet avis, qui doit être publié en caractères apparents, précise la nature de
 l'installation projetée, l'emplacement sur lequel elle doit être réalisée, les
-dates de l'ouverture et de clôture de l'enquête publique. Il indique le nom du
-ou des commissaires enquêteurs et fait connaître les jours et heures où ce
-dernier recevra les observations des intéressés ainsi que le lieu où il pourra
-être pris connaissance du dossier.
+dates de l'ouverture et de clôture de l'enquête publique et que la décision
+susceptible d'intervenir à l'issue de la procédure est une autorisation assortie
+du respect de prescriptions ou un refus. Il indique le nom du ou des
+commissaires enquêteurs et fait connaître les jours et heures où ce dernier
+recevra les observations des intéressés ainsi que le lieu où il pourra être pris
+connaissance du dossier.
+
+L'avis d'enquête mentionné à l'alinéa précédent ainsi que les résumés non
+techniques mentionnés au III de l'article R. 512-8 et au II de l'article R.
+512-9 sont publiés sur le site internet de la préfecture dans les mêmes
+conditions de délai que celles prévues au premier alinéa.
 
 Lorsque l'installation doit faire l'objet d'un plan particulier d'intervention
 en application du décret n° 2005-1158 du 13 septembre 2005 relatif aux plans
@@ -33,4 +40,5 @@ l'enquête, cette prolongation doit être notifiée au préfet au plus tard huit
 jours avant la date de clôture de l'enquête. Elle est portée à la connaissance
 du public au plus tard à la date prévue initialement pour la fin de l'enquête
 par un affichage réalisé dans les conditions de lieu prévues ci-dessus ainsi
-que, le cas échéant, par tout autre moyen approprié.
+que, le cas échéant, par tout autre moyen approprié, notamment la mise en ligne
+sur le site internet de la préfecture.

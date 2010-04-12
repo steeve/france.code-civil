@@ -11,8 +11,9 @@ assuré par lui-même ;
 la protection de la nature et concernant les établissements détenant des animaux
 ;
 
-3° La demande d'autorisation ou la déclaration faite au titre des dispositions
-du titre Ier du livre V du code de l'environnement, lorsque l'établissement
-concerné relève de ces dispositions, sous réserve que la demande d'autorisation
-ou la déclaration mentionne expressément que l'établissement a pour objet
-l'élevage ou l'hébergement d'animaux destinés à l'expérimentation.
+3° La demande d'autorisation ou d'enregistrement ou la déclaration faite au
+titre des dispositions du titre Ier du livre V du code de l'environnement,
+lorsque l'établissement concerné relève de ces dispositions, sous réserve que la
+demande d'autorisation ou d'enregistrement ou la déclaration mentionne
+expressément que l'établissement a pour objet l'élevage ou l'hébergement
+d'animaux destinés à l'expérimentation.

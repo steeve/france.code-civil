@@ -1,11 +1,12 @@
 Article R515-27
 ----
-I. - L'enquête publique est régie par les dispositions des articles R. 512-14 à
-R. 512-17 et les précisions apportées par le présent article. Elle est, sauf
+I.-L'enquête publique est régie par les dispositions des articles R. 512-14 à R.
+512-17 et les précisions apportées par le présent article. Elle est, sauf
 exception justifiée par des circonstances particulières, confondue avec
-l'enquête ouverte sur la demande d'autorisation de l'installation classée.
+l'enquête ouverte sur la demande d'autorisation de l'installation classée. Sa
+durée est alors portée à six semaines.
 
-II. - Le dossier établi en vue de l'enquête publique, mentionné aux articles R.
+II.-Le dossier établi en vue de l'enquête publique, mentionné aux articles R.
 512-3 à R. 512-9, est complété par :
 
 1° Une notice de présentation ;
@@ -18,7 +19,7 @@ II. - Le dossier établi en vue de l'enquête publique, mentionné aux articles 
 4° L'énoncé des règles envisagées dans la totalité du périmètre ou dans
 certaines de ses parties.
 
-III. - Les frais de dossier sont à la charge de l'exploitant.
+III.-Les frais de dossier sont à la charge de l'exploitant.
 
 L'avis au public, prévu au deuxième alinéa de l'article R. 512-15, mentionne le
 périmètre ainsi que les servitudes envisagées.

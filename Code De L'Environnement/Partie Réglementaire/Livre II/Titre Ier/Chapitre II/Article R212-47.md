@@ -16,8 +16,8 @@ prélèvements et de rejets dans le sous-bassin ou le groupement de sous-bassins
 concerné ;
 
 b) Aux installations, ouvrages, travaux ou activités visés à l'article L. 214-1
-ainsi qu'aux installations classées pour la protection de l'environnement visées
-aux articles L. 512-1 et L. 512-8 ;
+ainsi qu'aux installations classées pour la protection de l'environnement
+définies à l'article L. 511-1 ;
 
 c) Aux exploitations agricoles procédant à des épandages d'effluents liquides ou
 solides dans le cadre prévu par les articles R. 211-50 à R. 211-52.

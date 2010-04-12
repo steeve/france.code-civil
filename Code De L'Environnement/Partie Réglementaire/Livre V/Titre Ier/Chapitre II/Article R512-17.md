@@ -25,4 +25,6 @@ comprises dans le périmètre de l'enquête publique.
 
 Toute personne peut prendre connaissance à la préfecture et à la mairie de la
 commune d'implantation du mémoire en réponse du demandeur, du rapport et des
-conclusions motivées du commissaire enquêteur.
+conclusions motivées du commissaire enquêteur. Ces éléments sont mis à
+disposition du public sur le site internet de la préfecture pour une durée qui
+ne peut être inférieure à un an à compter de la décision finale.

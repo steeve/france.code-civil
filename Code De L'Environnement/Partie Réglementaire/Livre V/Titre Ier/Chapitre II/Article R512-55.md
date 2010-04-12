@@ -7,4 +7,4 @@ l'annexe de l'article R. 511-9.
 Toutefois, les installations classées figurant à cette annexe ne sont pas
 soumises à l'obligation de contrôle périodique lorsqu'elles sont incluses dans
 un établissement qui comporte au moins une installation soumise au régime de
-l'autorisation.
+l'autorisation ou de l'enregistrement.

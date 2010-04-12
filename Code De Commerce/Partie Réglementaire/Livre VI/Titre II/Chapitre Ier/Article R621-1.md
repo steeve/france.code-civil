@@ -51,7 +51,7 @@ l'ordre professionnel ou de l'autorité dont il relève ;
 
 11° Lorsque le débiteur exploite une ou des installations classées au sens du
 titre Ier du livre V du code de l'environnement, la copie de la décision
-d'autorisation ou la déclaration ;
+d'autorisation ou d'enregistrement ou la déclaration ;
 
 12° Lorsque le débiteur propose un administrateur à la désignation du tribunal,
 l'indication de l'identité et de l'adresse de la personne concernée.

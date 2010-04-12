@@ -11,6 +11,7 @@ l'activité concernée. Un arrêté du ministre chargé de l'agriculture fixe le
 modèle de la déclaration et du récépissé.
 
 Lorsqu'un établissement où s'exercent une ou plusieurs des activités mentionnées
-au IV de l'article L. 214-6 relève des dispositions des articles L. 512-1 et L.
-512-8 du code de l'environnement, la demande d'autorisation ou la déclaration
-prévue par ces articles vaut déclaration au titre de l'article L. 214-6.
+au IV de l'article L. 214-6 relève des dispositions des articles L. 512-1, L.
+512-7 ou L. 512-8 du code de l'environnement, la demande d'autorisation ou
+d'enregistrement ou la déclaration prévue par ces articles vaut déclaration au
+titre de l'article L. 214-6.

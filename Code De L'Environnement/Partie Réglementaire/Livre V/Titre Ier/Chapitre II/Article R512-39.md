@@ -1,6 +1,6 @@
 Article R512-39
 ----
-I. - En vue de l'information des tiers :
+I.-En vue de l'information des tiers :
 
 1° Une copie de l'arrêté d'autorisation ou de l'arrêté de refus et, le cas
 échéant, des arrêtés complémentaires, est déposée à la mairie ou, à Paris, au
@@ -12,6 +12,8 @@ l'installation est soumise, est affiché à la mairie et, à Paris, au commissar
 de police dans le ressort duquel est implantée l'installation pendant une durée
 minimum d'un mois. Procès-verbal de l'accomplissement de ces formalités est
 dressé par les soins du maire et, à Paris, par ceux du commissaire de police ;
+le même extrait est publié sur le site internet de la préfecture qui a délivré
+l'acte pour une durée identique ;
 
 3° Le même extrait est affiché en permanence de façon visible dans
 l'installation par les soins du bénéficiaire de l'autorisation ;
@@ -24,6 +26,6 @@ ou régional ayant été consulté ainsi qu'aux autorités visées à l'article 
 dans deux journaux locaux ou régionaux diffusés dans tout le département ou tous
 les départements intéressés.
 
-II. - A la demande de l'exploitant, certaines dispositions de l'arrêté peuvent
+II.-A la demande de l'exploitant, certaines dispositions de l'arrêté peuvent
 être exclues de la publicité prévue par le présent article lorsqu'il pourrait en
 résulter la divulgation de secrets de fabrication.

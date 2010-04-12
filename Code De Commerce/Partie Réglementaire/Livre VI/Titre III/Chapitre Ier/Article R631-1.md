@@ -49,7 +49,7 @@ l'ordre professionnel ou de l'autorité dont il relève ;
 
 12° Lorsque le débiteur exploite une ou des installations classées au sens du
 titre Ier du livre V du code de l'environnement, la copie de la décision
-d'autorisation ou la déclaration.
+d'autorisation ou d'enregistrement ou la déclaration.
 
 Ces documents sont datés, signés et certifiés sincères et véritables par le
 demandeur. Ceux qui sont mentionnés aux l°, 2°, 5°, 6°, 7° et 8° sont établis à

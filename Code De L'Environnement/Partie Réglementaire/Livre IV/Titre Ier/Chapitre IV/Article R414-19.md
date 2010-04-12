@@ -129,7 +129,11 @@ que leur budget d'organisation dépasse 100 000 € ou dès lors qu'elles concer
 des engins motorisés ;
 
 28° Les manifestations aériennes de grande importance soumises à autorisation en
-application des articles L. 133-1 et R. 131-3 du code de l'aviation civile.
+application des articles L. 133-1 et R. 131-3 du code de l'aviation civile ;
+
+29° Les installations classées soumises à enregistrement en application de
+l'article L. 512-7 du code de l'environnement, dès lors que ces installations
+sont localisées en site Natura 2000.
 
 II.-Sauf mention contraire, les documents de planification, programmes, projets,
 manifestations ou interventions listés au I sont soumis à l'obligation
