@@ -7,8 +7,7 @@ lui sont soumises par son président, par le conseil d'administration ou par un
 quart de ses membres. Il est obligatoirement saisi des questions qui relèvent de
 l'autonomie pédagogique.
 
-Il prépare la partie pédagogique du projet d'établissement, conformément à
-l'article L. 421-5 du code de l'éducation .
+Il prépare la partie pédagogique du projet d'établissement.
 
 Les équipes pédagogiques ont pour mission de favoriser la concertation entre les
 enseignants, en particulier en ce qui concerne la coordination des

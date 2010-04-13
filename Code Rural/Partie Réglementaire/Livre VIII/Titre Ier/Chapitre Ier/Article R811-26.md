@@ -43,8 +43,8 @@ rural, conformément aux dispositions suivantes :
 8° 1. Sous réserve des dispositions des articles R. 811-52 et R. 811-53, les
 actes relatifs au fonctionnement de l'établissement qui, pour devenir
 exécutoires en application du I de l'article L. 421-14 du code de l'éducation,
-doivent être transmis au représentant de l'Etat, au président de la collectivité
-de rattachement et au directeur régional de l'agriculture et de la forêt sont :
+doivent être transmis au représentant de l'Etat, ou, par délégation de celui-ci,
+au directeur régional de l'alimentation, de l'agriculture et de la forêt sont :
 
 1° Les délibérations du conseil d'administration relatives :
 
@@ -91,7 +91,7 @@ b) A l'organisation des activités complémentaires ;
 
 c) Au règlement intérieur des centres de l'établissement ;
 
-d) Au projet pédagogique prévu à l'article L. 811-5 ;
+d) Au projet pédagogique ;
 
 9° Il rend compte de sa gestion au conseil d'administration et en informe le
 directeur régional de l'agriculture et de la forêt et la collectivité de
