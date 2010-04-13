@@ -1,22 +1,20 @@
-Article L741-2
+Article L761-1-1
 ----
 I.-Les articles L. 131-1 à L. 131-87, à l'exception de la seconde phrase du
 troisième alinéa de l'article L. 131-71, ainsi que le chapitre III du titre III,
 à l'exception du deuxième alinéa du II de l'article L. 133-1, de l'article L.
-133-12 et du deuxième alinéa du I de l'article L. 133-13, sont applicables en
-Nouvelle-Calédonie dans les conditions prévues au II.
-
-Les articles L. 163-1 à L. 163-12 y sont également applicables.
+133-12 et du deuxième alinéa du I de l'article L. 133-13, sont applicables dans
+les îles Wallis et Futuna dans les conditions prévues au II.
 
 II.-a) Pour l'application des dispositions de l'article L. 131-1-1, les mots : "
 en euros " sont remplacés par les mots : " en francs CFP " ;
 
-b) Si l'un des prestataires de services de paiement est situé en
-Nouvelle-Calédonie et l'autre sur le territoire de la France métropolitaine,
-dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin, à Mayotte
-ou à Saint-Pierre-et-Miquelon, pour l'application du I de l'article L. 133-13,
-les mots : " à la fin du premier jour ouvrable " sont remplacés par les mots : "
-à la fin du quatrième jour ouvrable " ;
+b) Si l'un des prestataires de services de paiement est situé dans les îles
+Wallis et Futuna et l'autre sur le territoire de la France métropolitaine, dans
+les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin, à Mayotte ou à
+Saint-Pierre-et-Miquelon, pour l'application du I de l'article L. 133-13, les
+mots : " à la fin du premier jour ouvrable " sont remplacés par les mots : " à
+la fin du quatrième jour ouvrable " ;
 
 c) Au premier alinéa du II de l'article L. 133-1, les mots : " ou à
 Saint-Pierre-et-Miquelon et que l'opération est réalisée en euros " sont
