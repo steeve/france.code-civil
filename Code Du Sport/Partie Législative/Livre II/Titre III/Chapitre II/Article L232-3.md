@@ -3,7 +3,7 @@ Article L232-3
 Le médecin qui est amené à déceler des signes évoquant une pratique de dopage :
 
 1° Est tenu de refuser la délivrance d'un des certificats médicaux définis aux
-articles L. 231-2 et L. 231-3 ;
+articles L. 231-2, L. 231-2-1 et L. 231-2-2 ;
 
 2° Informe son patient des risques qu'il court et lui propose soit de le diriger
 vers l'une des antennes médicales mentionnées à l'article L. 232-1, soit en

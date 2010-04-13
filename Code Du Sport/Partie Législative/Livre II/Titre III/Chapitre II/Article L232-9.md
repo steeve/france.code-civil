@@ -1,23 +1,26 @@
 Article L232-9
 ----
-Il est interdit à tout sportif participant à une compétition ou manifestation
-sportive organisée ou autorisée conformément au titre III du livre Ier du
-présent code, ou se préparant à y participer :
+Il est interdit à tout sportif :
 
-1° De détenir, sans raison médicale dûment justifiée, une ou des substances ou
-procédés interdits par la liste mentionnée au dernier alinéa du présent article,
-pour lesquels l'appendice 1 à la convention internationale contre le dopage dans
-le sport, adoptée à Paris le 19 octobre 2005, ne prévoit la possibilité de
-sanctions réduites qu'en cas de circonstances exceptionnelles ;
+1° De détenir ou tenter de détenir, sans raison médicale dûment justifiée, une
+ou des substances ou méthodes interdites figurant sur la liste mentionnée au
+dernier alinéa du présent article ;
 
-2° D'utiliser une ou des substances et procédés interdits par la liste
-mentionnée au dernier alinéa du présent article.
+2° D'utiliser ou tenter d'utiliser une ou des substances ou méthodes interdites
+figurant sur la liste mentionnée au dernier alinéa du présent article.
 
-L'interdiction prévue au 2° ne s'applique pas aux substances et procédés pour
-lesquels le sportif dispose d'une autorisation pour usage à des fins
-thérapeutiques conformément aux modalités prévues par l'article L. 232-2.
+L'interdiction prévue au 2° ne s'applique pas aux substances et méthodes pour
+lesquelles le sportif :
 
-La liste des substances et procédés mentionnés au présent article est celle qui
-est élaborée en application de la convention internationale contre le dopage
-dans le sport précitée ou de tout autre accord ultérieur qui aurait le même
-objet et qui s'y substituerait. Elle est publiée au Journal officiel.
+a) Dispose d'une autorisation pour usage à des fins thérapeutiques ;
+
+b) Peut se prévaloir d'une déclaration d'usage, conformément aux dispositions de
+l'article L. 232-2 ;
+
+c) Dispose d'une raison médicale dûment justifiée.
+
+La liste des substances et méthodes mentionnées au présent article est celle qui
+est élaborée en application de la convention internationale mentionnée à
+l'article L. 230-2 ou de tout autre accord ultérieur qui aurait le même objet et
+qui s'y substituerait. Elle est publiée au Journal officiel de la République
+française.

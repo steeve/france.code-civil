@@ -1,11 +1,9 @@
 Article L232-21
 ----
-Les sportifs licenciés ou les membres licenciés de groupements sportifs affiliés
-à des fédérations sportives qui, soit à l'occasion des entraînements,
-compétitions ou manifestations mentionnés au 2° du I de l'article L. 232-5, soit
-à l'occasion du contrôle individualisé mentionné au 1° du I du même article, ont
-contrevenu aux dispositions des articles L. 232-9, L. 232-10 et L. 232-17,
-encourent des sanctions disciplinaires.
+Le sportif licencié qui a contrevenu aux dispositions des articles L. 232-9, L.
+232-10 et L. 232-17 et dont le contrôle a été effectué dans les conditions
+prévues aux 1°, 2°, 3° ou 4° du I de l'article L. 232-5 ou à l'article L. 232-16
+encourt des sanctions disciplinaires.
 
 Ces sanctions sont prononcées par les fédérations sportives mentionnées à
 l'article L. 131-8.
@@ -25,8 +23,11 @@ d'appel qui rend, dans tous les cas, sa décision dans un délai maximum de quat
 mois à compter de la même date.
 
 Les sanctions disciplinaires prises par les fédérations sportives peuvent aller
-jusqu'à l'interdiction définitive de participer aux compétitions et
-manifestations sportives prévues à l'article L. 232-9.
+jusqu'à l'interdiction définitive de participer aux manifestations sportives
+prévues à l'article L. 232-9.
 
 Ces sanctions ne donnent pas lieu à la procédure de conciliation prévue par
 l'article L. 141-4.
+
+Les fédérations agréées informent sans délai l'Agence française de lutte contre
+le dopage des décisions prises en application du présent article.

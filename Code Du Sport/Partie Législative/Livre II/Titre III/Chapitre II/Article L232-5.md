@@ -2,61 +2,97 @@ Article L232-5
 ----
 I.-L'Agence française de lutte contre le dopage, autorité publique indépendante
 dotée de la personnalité morale, définit et met en oeuvre les actions de lutte
-contre le dopage. A cette fin, elle coopère avec l'Agence mondiale antidopage et
+contre le dopage.A cette fin, elle coopère avec l'Agence mondiale antidopage et
 avec les fédérations sportives internationales.
 
 A cet effet :
 
-1° Elle définit un programme national annuel de contrôles ;
+1° Elle définit un programme annuel de contrôles ;
 
 2° Elle diligente les contrôles dans les conditions prévues aux articles L.
-232-12 à L. 232-15 :
+232-12 à L. 232-16 :
 
-a) Pendant les compétitions et manifestations sportives visées à l'article L.
-232-9, à l'exception des compétitions internationales visées à l'article L.
-131-15 ;
+a) Pendant les manifestations sportives organisées par les fédérations agréées
+ou autorisées par les fédérations délégataires ;
 
-b) Pendant les entraînements préparant aux compétitions ou manifestations
-sportives ;
+b) Pendant les manifestations sportives internationales définies à l'article L.
+230-2 avec l'accord de l'organisme international compétent ou, à défaut, de
+l'Agence mondiale antidopage ;
 
-3° Elle peut, en coordination et avec l'accord de l'organisme international
-chargé de la lutte contre le dopage reconnu par le Comité international
-olympique ou d'une fédération sportive internationale, diligenter des contrôles
-dans les conditions prévues à l'article L. 232-16 ;
+c) Pendant les périodes d'entraînement préparant aux manifestations sportives
+mentionnées à l'article L. 230-3 ;
 
-4° Elle est informée des faits de dopage portés à la connaissance de
-l'administration ou des fédérations sportives ;
+3° Pour les sportifs soumis à l'obligation de localisation mentionnée à
+l'article L. 232-15, elle diligente les contrôles dans les conditions prévues
+aux articles L. 232-12 à L. 232-16 :
 
-5° Elle réalise ou fait réaliser l'analyse des prélèvements effectués lors de
-contrôles ; dans ce cadre, elle peut effectuer des analyses pour le compte de
-tiers ;
+a) Pendant les manifestations sportives organisées par les fédérations agréées
+ou autorisées par les fédérations délégataires ;
 
-6° Elle exerce un pouvoir disciplinaire dans les conditions prévues aux articles
+b) Pendant les manifestations sportives internationales définies à l'article L.
+230-2 avec l'accord de l'organisme international compétent ou, à défaut, de
+l'Agence mondiale antidopage ;
+
+c) Pendant les périodes d'entraînement préparant aux manifestations sportives
+mentionnées à l'article L. 230-3 ;
+
+d) Hors des manifestations sportives mentionnées à l'article L. 230-3, et hors
+des périodes d'entraînement y préparant ;
+
+4° Lorsqu'au moins deux sportifs d'une même équipe ont utilisé ou détenu une
+substance ou une méthode interdite, le directeur des contrôles de l'Agence
+française de lutte contre le dopage apprécie la nature des contrôles auxquels
+doivent être soumis les membres de l'équipe ayant participé à la même
+compétition ou à la même épreuve ;
+
+5° L'agence est informée des faits de dopage portés à la connaissance de l'Etat,
+des fédérations sportives ainsi que, dans des conditions fixées par décret, des
+sanctions pénales prononcées en cas de non-respect de l'obligation mentionnée à
+l'article L. 232-10-1 ;
+
+6° Elle réalise ou fait réaliser l'analyse des prélèvements effectués lors de
+contrôles ; dans ce cadre, elle peut effectuer des analyses ou des prélèvements
+pour le compte de tiers ;
+
+7° Elle exerce un pouvoir disciplinaire dans les conditions prévues aux articles
 L. 232-22 et L. 232-23 ;
 
-7° Elle délivre les autorisations prévues par l'article L. 232-2 ; elle peut
-reconnaître la validité des autorisations d'usage à des fins thérapeutiques
-délivrées conformément à l'annexe II de la convention internationale contre le
-dopage dans le sport, adoptée à Paris le 19 octobre 2005 ;
+8° Elle délivre les autorisations d'usage à des fins thérapeutiques prévues à
+l'article L. 232-2 ;
 
-8° Elle est consultée sur tout projet de loi ou de règlement relatif à la lutte
+9° Elle reçoit les déclarations d'usage à des fins thérapeutiques prévues à
+l'article L. 232-2 ;
+
+10° Elle peut reconnaître la validité des :
+
+a) Autorisations d'usage à des fins thérapeutiques délivrées en conformité avec
+les annexes I et II de la convention internationale contre le dopage dans le
+sport, adoptée à Paris le 19 octobre 2005, par une organisation nationale
+antidopage étrangère ou par une fédération internationale ;
+
+b) Déclarations d'usage effectuées en conformité avec les annexes I et II de la
+convention internationale contre le dopage dans le sport, adoptée à Paris le 19
+octobre 2005, par une organisation nationale antidopage étrangère ou par une
+fédération internationale ;
+
+11° Elle est consultée sur tout projet de loi ou de règlement relatif à la lutte
 contre le dopage ;
 
-9° Elle participe aux actions de prévention, d'éducation et de recherche mises
-en oeuvre en matière de lutte contre le dopage ;
+12° Elle participe aux actions de prévention, d'éducation et de recherche mises
+en œuvre en matière de lutte contre le dopage ;
 
-10° Elle est associée aux activités internationales dans le domaine de la lutte
+13° Elle est associée aux activités internationales dans le domaine de la lutte
 contre le dopage et apporte son expertise à l'Etat, notamment lors de
-l'élaboration de la liste des produits interdits mentionnée à l'article L. 232-9
-;
+l'élaboration de la liste des substances ou méthodes interdites mentionnée à
+l'article L. 232-9 ;
 
-11° Elle peut être consultée par les fédérations sportives sur les questions
+14° Elle peut être consultée par les fédérations sportives sur les questions
 relevant de ses compétences ;
 
-12° Elle adresse aux fédérations sportives des recommandations dans les matières
-relevant de sa compétence ;
+15° Elle adresse aux fédérations sportives des recommandations dans les matières
+relevant de ses compétences ;
 
-13° Elle remet chaque année un rapport d'activité au Gouvernement et au
+16° Elle remet chaque année un rapport d'activité au Gouvernement et au
 Parlement. Ce rapport est rendu public.
 
 Les missions de l'agence sont exercées par le collège, sauf disposition
@@ -70,13 +106,11 @@ Pour l'exercice de ses missions de contrôle, l'agence peut faire appel aux
 services du ministre chargé des sports, dans des conditions définies par voie
 conventionnelle.
 
-III.-Pour l'établissement du programme national annuel de contrôles mentionné au
-I, les administrations compétentes, les fédérations, associations et sociétés
-sportives et établissements d'activités physiques ou sportives, ainsi que, sur
-sa demande, les sportifs, communiquent à l'agence toutes informations relatives
-à la préparation, à l'organisation et au déroulement des entraînements,
-compétitions et manifestations sportives ; elle est informée des décisions
-prises par les fédérations en application de l'article L. 232-21 ;
+III.-Pour l'établissement du programme annuel de contrôles mentionné au I, les
+services de l'Etat compétents, les fédérations agréées, les associations et
+sociétés sportives et les établissements d'activités physiques ou sportives
+communiquent à l'agence toutes informations relatives à la préparation, à
+l'organisation et au déroulement des entraînements et manifestations sportives ;
 
 Le programme national annuel de contrôles comprend des contrôles individualisés,
 mis en oeuvre dans les conditions prévues à l'article L. 232-15.

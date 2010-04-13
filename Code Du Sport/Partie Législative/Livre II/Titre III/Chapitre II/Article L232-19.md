@@ -1,13 +1,18 @@
 Article L232-19
 ----
-Dans l'ensemble des lieux mentionnés à l'article L. 232-13 auxquels ils ont
+Dans le cas où les opérations de contrôle sont envisagées en vue de la recherche
+d'infractions, le procureur de la République en est préalablement informé et
+peut s'y opposer. Le procureur de la République est informé sans délai, par tout
+moyen, dès qu'une infraction est constatée.
+
+Dans l'ensemble des lieux mentionnés à l'article L. 232-13-1 auxquels ils ont
 accès et pour l'exercice des missions de police judiciaire diligentées dans les
 conditions définies à l'article L. 232-14, les agents relevant du ministre
 chargé des sports et les personnes agréées par l'agence mentionnés à l'article
 L. 232-11 ne peuvent saisir des objets ou documents se rapportant aux
 infractions aux dispositions du présent chapitre que sur autorisation judiciaire
-donnée par ordonnance du président du tribunal de grande instance dans le
-ressort duquel sont situés les éléments à saisir.
+donnée par ordonnance du juge des libertés et de la détention dans le ressort
+duquel sont situés les éléments à saisir.
 
 La demande d'ordonnance doit comporter tous les éléments d'information de nature
 à justifier la saisie. Les agents munis de cette ordonnance peuvent en tant que
@@ -19,8 +24,7 @@ la saisie, au responsable des lieux ou à son représentant, qui en reçoit copi
 En l'absence du responsable des lieux ou de son représentant, l'ordonnance lui
 est notifiée, après la visite, par lettre recommandée avec demande d'avis de
 réception. La notification est réputée faite à la date de réception figurant sur
-l'avis. Cette ordonnance n'est susceptible que d'un pourvoi en cassation. Ce
-pourvoi n'est pas suspensif.
+l'avis.
 
 Les éléments saisis sont immédiatement inventoriés, en présence du responsable
 des lieux ou locaux, ou de son représentant.
@@ -30,8 +34,8 @@ dressé sur place. Les originaux dudit procès-verbal et l'inventaire sont
 transmis au juge qui a autorisé les opérations dans les cinq jours qui suivent
 leur clôture. Une copie est remise à l'intéressé.
 
-Le président du tribunal de grande instance peut à tout moment ordonner la
-mainlevée de la saisie.
+Le juge des libertés et de la détention peut à tout moment ordonner la mainlevée
+de la saisie.
 
 Les personnes mentionnées à l'article L. 232-11 constatent les infractions
 mentionnées au présent chapitre par des procès-verbaux qui font foi jusqu'à

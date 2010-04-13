@@ -1,37 +1,41 @@
 Article L232-23
 ----
 L'Agence française de lutte contre le dopage, dans l'exercice de son pouvoir de
-sanction, conformément à l'article L. 232-22, peut prononcer :
+sanction, peut prononcer :
 
-1° A l'encontre des sportifs reconnus coupables des faits interdits par les
-articles L. 232-9 et L. 232-17, une interdiction temporaire ou définitive de
-participer aux compétitions et manifestations mentionnées à l'article L. 232-9 ;
+1° A l'encontre des sportifs ayant enfreint les dispositions des articles L.
+232-9, du 3° de l'article L. 232-10 ou de l'article L. 232-17 :
 
-2° A l'encontre des licenciés participant à l'organisation et au déroulement de
-ces compétitions et manifestations ou aux entraînements y préparant reconnus
-coupables des faits interdits par l'article L. 232-10, une interdiction
-temporaire ou définitive de participer, directement ou indirectement, à
-l'organisation et au déroulement des compétitions et manifestations sportives
-mentionnées à l'article L. 232-9, et aux entraînements y préparant, ainsi qu'une
-interdiction temporaire ou définitive d'exercer les fonctions définies au
+a) Un avertissement ;
+
+b) Une interdiction temporaire ou définitive de participer aux manifestations
+organisées par les fédérations agréées ou autorisées par la fédération
+délégataire compétente.
+
+Les sanctions prévues au 1° peuvent être complétées par une sanction pécuniaire,
+dont le montant ne peut excéder 45 000 € ;
+
+2° A l'encontre de toute personne participant à l'organisation des
+manifestations ou aux entraînements mentionnés aux 2° et 3° du I de l'article L.
+232-5, ayant enfreint les dispositions de l'article L. 232-10 :
+
+a) Un avertissement ;
+
+b) Une interdiction temporaire ou définitive de participer aux manifestations
+sportives organisées par les fédérations agréées ou autorisées par la fédération
+délégataire compétente ou une interdiction temporaire ou définitive d'organiser
+une telle manifestation ;
+
+c) Une interdiction temporaire ou définitive de participer à l'organisation des
+entraînements y préparant ;
+
+d) Une interdiction temporaire ou définitive d'exercer les fonctions définies au
 premier alinéa de l'article L. 212-1.
+
+Les sanctions prévues au 2° peuvent être complétées par une sanction pécuniaire,
+dont le montant ne peut excéder 150 000 €.
 
 Ces sanctions sont prononcées dans le respect des droits de la défense.
 
-A la demande d'un sportif susceptible d'être sanctionné ou de sa propre
-initiative, l'agence peut, si elle ne s'estime pas suffisamment éclairée au vu
-des pièces du dossier, proposer à l'intéressé de se soumettre à une expertise en
-vue de déterminer s'il a respecté les dispositions de l'article L. 232-9.
-
-L'expertise est réalisée par un expert choisi par le sportif intéressé sur une
-liste établie par l'agence. Les résultats de l'expertise sont communiqués à
-l'agence et à l'intéressé, qui peut présenter des observations. Les frais de
-l'expertise sont à la charge de l'agence.
-
-Lorsque, à la suite d'un contrôle effectué au cours d'une compétition ou
-manifestation sportive organisée ou autorisée par une fédération, un sportif non
-licencié en France a fait l'objet d'une sanction administrative prévue au
-présent article, la fédération annule, à la demande de l'Agence française de
-lutte contre le dopage, les résultats individuels du sportif sanctionné avec
-toutes les conséquences en résultant, y compris le retrait de médailles, points
-et prix.
+Le produit des sanctions pécuniaires prévues au présent article est recouvré
+comme les créances de l'Etat étrangères à l'impôt et au domaine.
