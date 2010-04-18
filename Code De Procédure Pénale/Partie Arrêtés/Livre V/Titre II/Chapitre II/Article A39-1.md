@@ -106,7 +106,7 @@ Quartier centre de détention du centre pénitentiaire de Perpignan
 Quartier centre de détention du centre pénitentiaire de Poitiers-Vivonne
 (hommes, femmes) (Vienne).
 
-Quartier centre de détention du centre pénitentiaire du Port (Réunion).
+Centre de détention du Port (La Réunion).
 
 Quartier centre de détention du centre pénitentiaire de Remire-Montjoly
 (Guyane).

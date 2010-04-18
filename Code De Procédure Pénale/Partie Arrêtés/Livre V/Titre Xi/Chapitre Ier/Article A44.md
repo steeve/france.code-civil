@@ -1512,7 +1512,7 @@ Circonscription judiciaire de Cayenne.
 
 Centre pénitentiaire de Remire-Montjoly.
 
-Service pénitentiaire d'insertion et de probation de la Réunion.
+Service pénitentiaire d'insertion et de probation de La Réunion.
 
 Saint-Denis.
 
@@ -1532,7 +1532,7 @@ Maison d'arrêt de Saint-Pierre.
 
 Antenne du Port.
 
-Centre pénitentiaire du Port.
+Centre détention du Port.
 
 (Arr. 13 déc. 2005, art. 1er) Service pénitentiaire d'insertion et de probation
 de Mayotte.
