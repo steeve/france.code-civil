@@ -31,7 +31,8 @@ l'exercice de la profession de commissionnaire de transport ;
 
 e) Abrogé ;
 
-f) Abrogé ;
+f) L'article 13 du décret n° 2010-389 du 19 avril 2010 relatif au cabotage dans
+les transports routiers et fluviaux ;
 
 g) L'article 19-II du décret n° 99-752 du 30 août 1999 modifié relatif aux
 transports routiers de marchandises ;
