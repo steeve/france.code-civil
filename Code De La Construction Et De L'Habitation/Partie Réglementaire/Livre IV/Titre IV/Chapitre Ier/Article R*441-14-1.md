@@ -3,12 +3,14 @@ Article R*441-14-1
 La commission, saisie sur le fondement du II ou du III de l'article L. 441-2-3,
 se prononce sur le caractère prioritaire de la demande et sur l'urgence qu'il y
 a à attribuer au demandeur un logement ou à l'accueillir dans une structure
-d'hébergement, en tenant compte notamment des démarches précédemment effectuées.
+d'hébergement, en tenant compte notamment des démarches précédemment effectuées
+dans le département ou en Ile-de-France dans la région.
 
 Peuvent être désignées par la commission comme prioritaires et devant être
 logées d'urgence en application du II de l'article L. 441-2-3 les personnes de
 bonne foi qui satisfont aux conditions réglementaires d'accès au logement social
-et qui se trouvent dans l'une des situations suivantes :
+qui se trouvent dans l'une des situations prévues au même article et qui
+répondent aux caractéristiques suivantes :
 
 -ne pas avoir reçu de proposition adaptée à leur demande dans le délai fixé en
 application de l'article L. 441-1-4 ;
@@ -28,10 +30,11 @@ au demandeur un droit à relogement ;
 -avoir fait l'objet d'une décision de justice prononçant l'expulsion du logement
 ;
 
--être hébergées dans une structure d'hébergement de façon continue depuis plus
-de six mois ou logées dans un logement de transition depuis plus de dix-huit
-mois, sans préjudice, le cas échéant, des dispositions du IV de l'article L.
-441-2-3 ;
+-être hébergées dans une structure d'hébergement ou une résidence hôtelière à
+vocation sociale de façon continue depuis plus de six mois ou logées
+temporairement dans un logement de transition ou un logement-foyer depuis plus
+de dix-huit mois, sans préjudice, le cas échéant, des dispositions du IV de
+l'article L. 441-2-3 ;
 
 -être handicapées, ou avoir à leur charge une personne en situation de handicap,
 ou avoir à leur charge au moins un enfant mineur, et occuper un logement soit
@@ -43,6 +46,7 @@ l'article D. 542-14 du code de la sécurité sociale, ou, pour une personne seul
 d'une surface inférieure à celle mentionnée au premier alinéa de l'article 4 du
 même décret.
 
-Si la situation particulière du demandeur le justifie, la commission peut, par
-une décision spécialement motivée, désigner comme prioritaire une personne ne
-répondant qu'incomplètement aux caractéristiques définies ci-dessus.
+La commission peut, par décision spécialement motivée, désigner comme
+prioritaire et devant être logée en urgence une personne qui, se trouvant dans
+l'une des situations prévues à l'article L. 441-2-3, ne répond qu'incomplètement
+aux caractéristiques définies ci-dessus.

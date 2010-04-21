@@ -15,8 +15,8 @@ date fait courir les délais définis aux articles R. 441-15 et R. 441-18.
 
 La commission peut entendre toute personne dont elle juge l'audition utile.
 
-Pour l'instruction des demandes dont elle est saisie, la commission peut
-demander au préfet de faire appel aux services compétents de l'Etat ou des
-collectivités territoriales ou à toute personne ou organisme compétent pour
-faire les constatations sur place ou l'analyse de la situation sociale du
-demandeur qui seraient nécessaires à l'instruction.
+Pour l'instruction des demandes dont la commission est saisie, le préfet peut à
+la demande de la commission ou de sa propre initiative faire appel aux services
+compétents de l'Etat ou des collectivités territoriales ou à toute personne ou
+organisme compétent pour faire les constatations sur place ou l'analyse de la
+situation sociale du demandeur qui seraient nécessaires à l'instruction.

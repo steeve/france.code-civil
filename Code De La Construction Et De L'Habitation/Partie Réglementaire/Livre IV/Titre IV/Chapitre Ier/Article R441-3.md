@@ -8,4 +8,6 @@ bénéfice des personnes visées au plan départemental d'action pour le logemen
 des personnes défavorisées.
 
 Sauf en cas d'insuffisance du nombre des candidats, les commissions examinent au
-moins trois demandes pour un même logement à attribuer.
+moins trois demandes pour un même logement à attribuer. Il est fait exception à
+cette obligation quand elles examinent les candidatures de personnes désignées
+par le préfet en application du septième alinéa du II de l'article L. 441-2-3.

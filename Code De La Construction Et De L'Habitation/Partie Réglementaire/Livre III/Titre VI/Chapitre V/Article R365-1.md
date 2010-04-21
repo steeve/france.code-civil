@@ -55,7 +55,10 @@ qu'ils exercent.
 
 c) L'assistance aux personnes qui forment un recours amiable devant la
 commission de médiation ou un recours contentieux devant le tribunal
-administratif aux fins de reconnaissance du droit au logement opposable ;
+administratif aux fins de reconnaissance du droit au logement opposable. Les
+organismes collecteurs agréés associés de l'Union d'économie sociale du logement
+mentionnés à l'article L. 313-18 bénéficient de plein droit, sur l'ensemble du
+territoire national, de l'agrément au titre de cette activité ;
 
 d) La recherche de logements en vue de leur location à des personnes
 défavorisées ;
