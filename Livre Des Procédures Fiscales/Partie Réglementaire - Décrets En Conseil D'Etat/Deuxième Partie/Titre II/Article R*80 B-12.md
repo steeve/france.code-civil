@@ -6,5 +6,4 @@ auprès duquel le contribuable est tenu de souscrire ses obligations déclarativ
 en fonction de l'objet de la demande ; elle peut également faire l'objet d'un
 dépôt contre décharge.
 
-II.-L'administration centrale de la direction générale des finances publiques
-peut répondre à la demande mentionnée au I.
+II.-L'administration centrale peut répondre à la demande mentionnée au I.
