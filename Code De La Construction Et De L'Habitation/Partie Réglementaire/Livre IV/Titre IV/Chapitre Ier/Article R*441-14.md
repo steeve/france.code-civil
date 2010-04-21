@@ -9,9 +9,15 @@ outre, toutes pièces justificatives de sa situation et mentionne, en
 particulier, les demandes de logement ou d'hébergement effectuées
 antérieurement. Il mentionne, le cas échéant, l'existence d'un arrêté
 d'insalubrité, de péril ou de fermeture administrative affectant son logement ou
-d'une procédure engagée à cet effet. La réception de ce dossier donne lieu à la
-délivrance d'un accusé de réception par le secrétariat de la commission, dont la
-date fait courir les délais définis aux articles R. 441-15 et R. 441-18.
+d'une procédure engagée à cet effet. Les pièces justificatives à fournir
+obligatoirement sont fixées par l'arrêté précité. La réception du dossier, dont
+la date fait courir les délais définis aux articles R. 441-15 et R. 441-18,
+donne lieu à la délivrance par le secrétariat de la commission d'un accusé de
+réception mentionnant la date du jour de la réception de la demande. Lorsque le
+formulaire n'est pas rempli complètement ou en l'absence de pièces
+justificatives obligatoires, le demandeur en est informé par un courrier, qui
+fixe le délai de production des éléments manquants, délai pendant lequel les
+délais mentionnés aux articles R. 441-15 et R. 441-18 sont suspendus.
 
 La commission peut entendre toute personne dont elle juge l'audition utile.
 
