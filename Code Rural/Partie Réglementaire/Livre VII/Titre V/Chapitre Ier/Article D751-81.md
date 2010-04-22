@@ -5,6 +5,3 @@ nombre minimal de personnes peuvent être modulés en fonction du risque propre 
 l'exploitation ou à l'entreprise. Les modalités d'application sont fixées par
 arrêté du ministre chargé de l'agriculture et du ministre chargé de la sécurité
 sociale.
-
-Les dispositions de l'article D. 741-58 s'appliquent aux cotisations d'accidents
-du travail.

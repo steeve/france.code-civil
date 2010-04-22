@@ -1,19 +1,22 @@
 Article D741-58
 ----
-Pour l'application de l'article L. 741-16, est réputé travailleur occasionnel le
-salarié que l'employeur recrute, par un ou plusieurs contrats de travail à durée
-déterminée, pour des travaux dans les activités mentionnées au I de cet article.
-Lorsqu'il est conclu par un groupement d'employeurs ou conformément aux
-dispositions de l'article L. 212-4-12 du code du travail, le contrat de travail
-peut être à durée indéterminée.
+Le groupement d'employeurs mentionné au II de l'article L. 741-16 doit être
+exclusivement composé d'employeurs agricoles exerçant une ou plusieurs des
+activités mentionnées au I de ce même article.
 
-Est réputée demandeur d'emploi la personne inscrite depuis au moins quatre mois
-comme demandeur d'emploi à l' institution mentionnée à l'article L. 5312-1 du
-code du travail . Cette durée est ramenée à un mois pour les personnes dont
-l'inscription à l' institution mentionnée à l'article L. 5312-1 du code du
-travail est consécutive à un licenciement.
+Conformément à l'article L. 722-2, les tâches liées au cycle de la production
+animale et végétale mentionnées à l'article L. 741-16 ne comprennent pas les
+travaux de création, restauration et entretien des parcs et jardins.
 
-Un chef d'exploitation ou d'entreprise agricole ne peut bénéficier des
-dispositions de l'article L. 741-16 pour une durée supérieure à cent dix-neuf
-jours ouvrés par année civile pour un même salarié, que ce soit en qualité
-d'employeur ou en qualité d'adhérent à un groupement d'employeurs.
+Les demandeurs d'emploi mentionnés au II de l'article L. 741-16 sont les
+personnes inscrites depuis au moins quatre mois comme demandeur d'emploi à
+l'institution mentionnée à l'article L. 5312-1 du code du travail. Cette durée
+est ramenée à un mois pour les personnes dont l'inscription à l'institution
+mentionnée à l'article L. 5312-1 du code du travail est consécutive à un
+licenciement.
+
+Les employeurs mentionnés au I de l'article L. 741-16 ne peuvent bénéficier des
+exonérations prévues aux articles L. 741-16 et L. 741-16-1 pour une durée
+supérieure à cent dix-neuf jours ouvrés consécutifs ou non par année civile pour
+un même salarié, que ce soit en qualité d'employeur ou en qualité d'adhérent à
+un groupement d'employeurs.
