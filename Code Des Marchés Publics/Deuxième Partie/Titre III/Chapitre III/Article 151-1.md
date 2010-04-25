@@ -5,5 +5,5 @@ Pour rendre applicables les dispositions du premier alinéa de l'article L.
 Journal officiel de l'Union européenne un avis, conforme au modèle fixé par le
 règlement (CE) n° 1564 / 2005 déjà mentionné, relatif à son intention de
 conclure un marché ou un accord-cadre dispensé d'obligations de publicité par
-l'effet des dispositions du présent code ou passé en application de l'article
-148.
+l'effet des dispositions du présent code ou passé en application des articles
+146 ou 148.

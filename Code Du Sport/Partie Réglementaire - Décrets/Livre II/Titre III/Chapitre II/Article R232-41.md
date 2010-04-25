@@ -1,6 +1,5 @@
 Article R232-41
 ----
-L'agence est soumise aux dispositions du titre II de la loi n° 91-3 du 3 janvier
-1991 relative à la transparence et à la régularité des procédures de marchés et
-soumettant la passation de certains contrats à des règles de publicité et de
-mise en concurrence.
+L'agence est soumise aux dispositions de l'ordonnance n° 2005-649 du 6 juin 2005
+relative aux marchés passés par certaines personnes publiques ou privées non
+soumises au code des marchés publics.

@@ -1,11 +1,11 @@
 Article 74
 ----
-I. - Les marchés de maîtrise d'oeuvre ont pour objet, en vue de la réalisation
+I.-Les marchés de maîtrise d'oeuvre ont pour objet, en vue de la réalisation
 d'un ouvrage ou d'un projet urbain ou paysager, l'exécution d'un ou plusieurs
 éléments de mission définis par l'article 7 de la loi du 12 juillet 1985
 susmentionnée et par le décret du 29 novembre 1993 susmentionné.
 
-II. - Les marchés de maîtrise d'oeuvre d'un montant égal ou supérieur aux seuils
+II.-Les marchés de maîtrise d'oeuvre d'un montant égal ou supérieur aux seuils
 des marchés formalisés fixés au II de l'article 26 sont passés selon la
 procédure du concours dans les conditions précisées ci-après. Ils peuvent
 toutefois être passés selon la procédure adaptée lorsque leur montant est
@@ -13,11 +13,11 @@ inférieur à ces mêmes seuils. Dans le cas de marchés de maîtrise d'oeuvre p
 en procédure adaptée, toute remise de prestations donne lieu au versement d'une
 prime.
 
-III. - Le concours mentionné ci-dessus est un concours restreint organisé dans
-les conditions définies à l'article 70.
+III.-Le concours mentionné ci-dessus est un concours restreint organisé dans les
+conditions définies à l'article 70.
 
 Les candidats ayant remis des prestations conformes au règlement du concours
-bénéficient d'une prime. L'avis d'appel public à la concurrence indique le
+bénéficient d'une prime.L'avis d'appel public à la concurrence indique le
 montant de cette prime. Le montant de la prime attribuée à chaque candidat est
 égal au prix estimé des études à effectuer par les candidats telles que définies
 dans l'avis d'appel public à la concurrence et précisées dans le règlement du
@@ -60,13 +60,9 @@ trois sauf si le nombre de candidats n'est pas suffisant. Le pouvoir
 adjudicateur engage les négociations. Au terme de ces négociations, le marché
 est attribué.
 
-IV. - Dans le cadre d'une procédure unique, le marché ou l'accord-cadre de
-maîtrise d'oeuvre faisant suite à plusieurs marchés de définition ayant un même
-objet et exécutés simultanément, peut être attribué après remise en concurrence
-des seuls titulaires des marchés de définition, dans les conditions prévues au
-troisième alinéa de l'article 73.
+IV.-(Abrogé).
 
-V. - Pour les collectivités territoriales et les établissements publics locaux à
+V.-Pour les collectivités territoriales et les établissements publics locaux à
 l'exception des établissements publics de santé et des établissements publics
 sociaux ou médico-sociaux, c'est l'assemblée délibérante qui attribue le ou les
 marchés de maîtrise d'oeuvre.
