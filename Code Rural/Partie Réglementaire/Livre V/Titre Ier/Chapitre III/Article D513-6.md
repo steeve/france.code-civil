@@ -1,9 +1,7 @@
 Article D513-6
 ----
-A toutes les sessions, le ministre chargé de l'agriculture ainsi que le ministre
-chargé du budget, en ce qui concerne les réunions à l'ordre du jour desquelles
-figurent des questions financières, peuvent se faire représenter par un
-commissaire du Gouvernement.
+A toutes les sessions, le ministre chargé de l'agriculture peut se faire
+représenter par un commissaire du Gouvernement.
 
 Le directeur général de l'assemblée permanente et l'agent comptable assistent
 aux séances avec voix consultative.
