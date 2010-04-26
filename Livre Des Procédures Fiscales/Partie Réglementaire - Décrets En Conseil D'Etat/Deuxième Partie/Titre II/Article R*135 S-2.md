@@ -19,13 +19,13 @@ administrations publiques et les établissements ou organismes soumis à une
 obligation déclarative en application du code général des impôts ;
 
 2° Ou dans le cadre des procédures de contrôle de l'impôt prévues aux articles
-L. 10 à L. 57 A du présent livre des procédures fiscales, des procédures de
-visite et de saisies mentionnées aux articles L. 16 B et L. 38, de la procédure
-de l'abus de droit mentionnée à l'article L. 64, des procédures de recherche de
-manquements aux règles de facturation prévues aux articles L. 80 F à L. 80 J,
-des procédures de recherche de manquements aux obligations et formalités
-mentionnées aux articles L. 80 K et L. 80 L et de la procédure de droit de
-communication prévue aux articles L. 81 à L. 102 AA ;
+L. 10 à L. 57 A , des procédures de visite et de saisies mentionnées aux
+articles L. 16 B et L. 38, de la procédure de l'abus de droit mentionnée à
+l'article L. 64, des procédures de recherche de manquements aux règles de
+facturation prévues aux articles L. 80 F à L. 80 J, des procédures de recherche
+de manquements aux obligations et formalités mentionnées aux articles L. 80 K et
+L. 80 L et de la procédure de droit de communication prévue aux articles L. 81 à
+L. 102 A ;
 
 3° Ou dans le cadre des procédures de recouvrement telles que mentionnées au
 titre IV du présent livre.

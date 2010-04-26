@@ -4,4 +4,4 @@ Les bases d'imposition sont évaluées d'office lorsque le contrôle fiscal ne p
 avoir lieu du fait du contribuable ou de tiers.
 
 Ces dispositions s'appliquent en cas d'opposition à la mise en oeuvre du
-contrôle dans les conditions prévues à l'article L. 47 A.
+contrôle dans les conditions prévues au II de l'article L. 47 A.

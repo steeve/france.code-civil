@@ -17,4 +17,4 @@ informatiques qui concourent directement ou indirectement à leur élaboration e
 prévu au II de l'article 277 A du code général des impôts ainsi que sur la
 documentation relative aux analyses, à la programmation et à l'exécution des
 traitements. Les agents des impôts et des douanes peuvent procéder à cette
-intervention selon les modalités prévues à l'article L. 47 A.
+intervention selon les modalités prévues au II de l'article L. 47 A.

@@ -18,12 +18,14 @@ ne s'applique pas aux adhérents pour lesquels des manquements délibérés auro
 
 Par exception aux dispositions du premier alinéa, le droit de reprise de
 l'administration s'exerce jusqu'à la fin de la dixième année qui suit celle au
-titre de laquelle l'imposition est due, lorsque le contribuable n'a pas déposé
-dans le délai légal les déclarations qu'il était tenu de souscrire et n'a pas
-fait connaître son activité à un centre de formalités des entreprises ou au
-greffe du tribunal de commerce.
+titre de laquelle l'imposition est due, lorsque le contribuable exerce une
+activité occulte. L'activité occulte est réputée exercée lorsque le contribuable
+n'a pas déposé dans le délai légal les déclarations qu'il était tenu de
+souscrire et soit n'a pas fait connaître son activité à un centre de formalités
+des entreprises ou au greffe du tribunal de commerce, soit s'est livré à une
+activité illicite.
 
-Le droit de reprise mentionné au deuxième alinéa ne s'applique qu'aux seules
+Le droit de reprise mentionné au troisième alinéa ne s'applique qu'aux seules
 catégories de revenus que le contribuable n'a pas fait figurer dans une
 quelconque des déclarations qu'il a déposées dans le délai légal. Il ne
 s'applique pas lorsque des revenus ou plus-values ont été déclarés dans une
@@ -54,6 +56,6 @@ ce déficit ou de cette moins-value peuvent être remis en cause à hauteur du
 montant du déficit ou de la moins-value ainsi imputés, nonobstant les
 dispositions prévues au premier alinéa.
 
-Si le groupe a cessé d'exister, les règles définies au sixième (1) alinéa
-demeurent applicables au déficit ou à la moins-value nette à long terme définis
-au cinquième alinéa de l'article 223 S du code général des impôts.
+Si le groupe a cessé d'exister, les règles définies au septième alinéa demeurent
+applicables au déficit ou à la moins-value nette à long terme définis au
+cinquième alinéa de l'article 223 S du code général des impôts.

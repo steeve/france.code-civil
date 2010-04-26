@@ -30,6 +30,6 @@ administrations financières ne sont tenues de donner suite à la demande
 complémentaire que si elle porte sur un montant égal ou supérieur à celui
 mentionné au quatrième alinéa de l'article L. 283 B.
 
-5° Le cas échéant, pour la conversion en euro du montant ajusté de la créance,
+5° Le cas échéant, pour la conversion en euros du montant ajusté de la créance,
 l'Etat membre requérant utilise le taux de change appliqué dans sa demande
 initiale.

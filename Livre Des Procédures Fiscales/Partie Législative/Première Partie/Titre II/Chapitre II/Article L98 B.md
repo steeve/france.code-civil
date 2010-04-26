@@ -15,8 +15,7 @@ l'article L. 712-1 du code rural.
 
 L'organisme habilité mentionné au premier alinéa de l'article L. 7122-23 du code
 du travail communique à l'administration fiscale, dans les conditions prévues au
-premier alinéa du présent article, les déclarations prévues par l'article R.
-7122-29 du même code.
+premier alinéa, les déclarations prévues par l'article R. 7122-29 du même code.
 
 La communication prévue aux trois alinéas précédents peut être faite par voie
 électronique.

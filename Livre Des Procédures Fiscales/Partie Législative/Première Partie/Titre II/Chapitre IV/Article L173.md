@@ -16,4 +16,4 @@ de l'article 1411 du code général des impôts, fait ultérieurement l'objet d'
 rectification, l'imposition correspondant au montant de l'exonération, du
 dégrèvement ou de l'abattement accordés à tort est établie et mise en
 recouvrement dans le délai fixé en matière d'impôt sur le revenu au premier
-alinéa de l'article L. 169 du présent livre.
+alinéa de l'article L. 169.
