@@ -14,8 +14,9 @@ l'acquéreur pour les livraisons désignées au I de l'article 262 ter du code
 général des impôts ;
 
 4° Le numéro d'identification à la taxe sur la valeur ajoutée du prestataire
-ainsi que celui fourni par le preneur pour les prestations mentionnées aux 3°,
-4° bis, 5° et 6° de l'article 259 A du code général des impôts ;
+ainsi que celui fourni par le preneur pour les prestations pour lesquelles le
+preneur est redevable de la taxe en application du 1 et du 2 de l'article 283 du
+code général des impôts ;
 
 5° Lorsque le redevable de la taxe est un représentant fiscal au sens de
 l'article 289 A du code général des impôts, le numéro individuel
@@ -51,9 +52,9 @@ et la taxe correspondante mentionnés distinctement ;
 12° En cas d'exonération ou lorsque le client est redevable de la taxe ou
 lorsque l'assujetti applique le régime de la marge bénéficiaire, la référence à
 la disposition pertinente du code général des impôts ou à la disposition
-correspondante de la directive 77/388/CEE du 17 mai 1977 ou à toute autre
-mention indiquant que l'opération bénéficie d'une mesure d'exonération, d'un
-régime d'autoliquidation ou du régime de la marge bénéficiaire ;
+correspondante de la directive 2006 / 112 / CE du 28 novembre 2006 ou à toute
+autre mention indiquant que l'opération bénéficie d'une mesure d'exonération,
+d'un régime d'autoliquidation ou du régime de la marge bénéficiaire ;
 
 13° Les caractéristiques du moyen de transport neuf telles qu'elles sont
 définies au III de l'article 298 sexies du code général des impôts pour les
