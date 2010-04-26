@@ -14,5 +14,6 @@ sur les distributions d'énergie.
 Le régime des redevances dues pour l'occupation du domaine public routier par
 les réseaux ainsi établis est fixé par l'article unique de la loi n° 53-661 du
 1er août 1953 fixant le régime des redevances dues pour l'occupation du domaine
-public par les ouvrages de transport et de distribution d'électricité et de gaz,
-par les lignes ou canalisations particulières d'énergie électrique et de gaz.
+public par les ouvrages de transport et de distribution d'électricité et de
+distribution de gaz, par les lignes ou canalisations particulières d'énergie
+électrique et de gaz.

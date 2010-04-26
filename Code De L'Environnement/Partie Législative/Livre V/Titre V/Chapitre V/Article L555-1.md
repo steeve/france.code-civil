@@ -1,40 +1,38 @@
 Article L555-1
 ----
-En cas de pollution des sols ou de risque de pollution des sols, l'autorité
-titulaire du pouvoir de police peut, après mise en demeure, assurer d'office
-l'exécution des travaux nécessaires aux frais du responsable.L'exécution des
-travaux ordonnés d'office peut être confiée par le ministre chargé de
-l'environnement à l'Agence de l'environnement et de la maîtrise de
-l'énergie.L'autorité titulaire du pouvoir de police peut également obliger le
-responsable à consigner entre les mains d'un comptable public une somme
-répondant du montant des travaux à réaliser, laquelle sera restituée au fur et à
-mesure de l'exécution des travaux. Les sommes consignées peuvent, le cas
-échéant, être utilisées pour régler les dépenses entraînées par l'exécution
-d'office. Lorsque l'Agence de l'environnement et de la maîtrise de l'énergie
-intervient pour exécuter des travaux ordonnés d'office, les sommes consignées
-lui sont réservées à sa demande.
+I. ― Une canalisation de transport comprend une ou plusieurs conduites ou
+sections de conduites, ainsi que les installations annexes quicontribuent, le
+cas échéant, à son fonctionnement. Elle achemine des produits liquides ou gazeux
+à destination de réseaux de distribution, d'autres ouvrages de transport,
+d'entreprises industrielles ou commerciales, de sites de stockage ou de
+chargement.
 
-Il est procédé, le cas échéant, au recouvrement de ces sommes comme en matière
-de créances étrangères à l'impôt et au domaine. Pour ce recouvrement, l'Etat
-bénéficie d'un privilège de même rang que celui prévu à l'article 1920 du code
-général des impôts.
+II. ― Sont soumises aux dispositions du présent chapitre les canalisations de
+transport de gaz naturel, d'hydrocarbures liquides ou liquéfiés et de produits
+chimiques, construites et exploitées par toute personne physique ou morale,
+publique ou privée, qui peuvent présenter des dangers ou des inconvénients soit
+pour la commodité du voisinage, soit pour la santé, la sécurité, la salubrité
+publique, soit pour l'agriculture, soit pour la protection de la nature,
+del'environnement et des paysages, soit pour la conservation des sites et
+desmonuments ainsi que des éléments du patrimoine archéologique.
 
-L'opposition à l'état exécutoire pris en application d'une mesure de
-consignation ordonnée par l'autorité administrative devant le juge administratif
-n'a pas de caractère suspensif.
+III. ― Sont soumises à autorisation la construction et l'exploitation des
+canalisations de transport qui présentent des dangers ou inconvénients
+notablespour les intérêts mentionnés au II du présent article.
 
-Lorsque, en raison de la disparition ou de l'insolvabilité de l'exploitant du
-site pollué ou du responsable de la pollution, la mise en œuvre des dispositions
-du premier alinéa n'a pas permis d'obtenir la remise en état du site pollué,
-l'Etat peut, avec le concours financier éventuel des collectivités
-territoriales, confier cette remise en état à l'Agence de l'environnement et de
-la maîtrise de l'énergie.
+L'autorisation ne peut être accordée que si ces dangers et inconvénients peuvent
+être prévenus par des mesures spécifiées par l'arrêté pris par l'autorité
+administrative compétente.
 
-Les travaux mentionnés à l'alinéa précédent et, le cas échéant, l'acquisition
-des immeubles peuvent être déclarés d'utilité publique à la demande de l'Etat.
-La déclaration d'utilité publique est prononcée après consultation des
-collectivités territoriales intéressées et enquête publique menée dans les
-formes prévues par le code de l'expropriation pour cause d'utilité publique.
-Lorsque l'une des collectivités territoriales intéressées, le commissaire
-enquêteur ou la commission d'enquête a émis un avis défavorable, la déclaration
-d'utilité publique est prononcée par décret en Conseil d'Etat.
+L'autorisation est précédée d'une étude d'impact et d'une enquête publique
+lorsque la nécessité en résulte des dispositions du chapitre II ou du chapitre
+III du titre II du livre Ier du code de l'environnement, et de l'avis de
+lacommission consultative compétente en matière de risques technologiques.
+
+IV. ― Un décret en Conseil d'Etat précise les caractéristiques des canalisations
+de transport soumises aux dispositions du présent chapitre, les seuils de
+classement au-delà desquels la construction et l'exploitation des canalisations
+de transport sont soumises à autorisation compte tenu des dangers et
+inconvénients qu'elles présentent et l'autorité compétente pour délivrer cette
+autorisation et prendre les autres décisions individuelles prévues au présent
+chapitre.

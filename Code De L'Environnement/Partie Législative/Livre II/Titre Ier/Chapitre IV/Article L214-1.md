@@ -9,3 +9,6 @@ niveau ou du mode d'écoulement des eaux, la destruction de frayères, de zones 
 croissance ou d'alimentation de la faune piscicole ou des déversements,
 écoulements, rejets ou dépôts directs ou indirects, chroniques ou épisodiques,
 même non polluants.
+
+Toutefois, ne sont pas soumises aux dispositions des articles L. 214-3 à L.
+214-6 les canalisations de transport mentionnées à l'article L. 555-1.

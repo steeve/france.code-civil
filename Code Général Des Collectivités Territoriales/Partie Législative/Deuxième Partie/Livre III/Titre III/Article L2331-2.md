@@ -23,12 +23,13 @@ des sociétés ;
 
 7° Le produit des redevances dues en raison de l'occupation du domaine public
 communal par les ouvrages des entreprises concédées ou munies de permission de
-voirie pour les distributions d'électricité et de gaz et pour les transports
-d'hydrocarbures, le produit des redevances annuelles sur les stockages
-souterrains d'hydrocarbures liquides et liquéfiés ou de gaz et une fraction du
-produit de la redevance proportionnelle à laquelle sont assujettis les
-concessionnaires de chutes hydroélectriques en application de l'article 9 de la
-loi du 16 octobre 1919 relative à l'utilisation de l'énergie hydroélectrique ;
+voirie pour les distributions d'électricité et de gaz et pour les transports de
+gaz naturel, d'hydrocarbures et de produits chimiques, le produit des redevances
+annuelles sur les stockages souterrains d'hydrocarbures liquides et liquéfiés ou
+de gaz et une fraction du produit de la redevance proportionnelle à laquelle
+sont assujettis les concessionnaires de chutes hydroélectriques en application
+de l'article 9 de la loi du 16 octobre 1919 relative à l'utilisation de
+l'énergie hydroélectrique ;
 
 8° Le produit des expéditions des actes administratifs ;
 
