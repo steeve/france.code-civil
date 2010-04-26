@@ -28,10 +28,10 @@ l'habitation par des documents d'urbanisme opposables aux tiers.
 
 III.-Les projets de prescriptions générales font l'objet d'une publication,
 éventuellement par voie électronique, avant transmission pour avis au Conseil
-supérieur des installations classées. Après avis du Conseil supérieur des
-installations classées et consultation des ministres intéressés, ces
-prescriptions générales sont fixées par arrêté du ministre chargé des
-installations classées.
+supérieur de la prévention des risques technologiques. Après avis du Conseil
+supérieur de la prévention des risques technologiques et consultation des
+ministres intéressés, ces prescriptions générales sont fixées par arrêté du
+ministre chargé des installations classées.
 
 La publication d'un arrêté de prescriptions générales est nécessaire à l'entrée
 en vigueur du classement d'une rubrique de la nomenclature dans le régime

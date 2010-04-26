@@ -12,4 +12,4 @@ A défaut pour l'exploitant de prendre les dispositions nécessaires, il pourra
 En cas d'application de l'article L. 514-7 à une installation publique ou privée
 travaillant pour les armées, le projet de décret prévu à cet article est soumis
 pour avis au ministre de la défense, avant son examen par le Conseil supérieur
-des installations classées.
+de la prévention des risques technologiques.

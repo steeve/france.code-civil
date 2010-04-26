@@ -6,4 +6,4 @@ présenter ses observations par écrit.
 
 Le projet d'arrêté est ensuite transmis par le préfet au ministre chargé de
 l'environnement, afin que celui-ci le soumette, pour avis, au Conseil supérieur
-des installations classées.
+de la prévention des risques technologiques.

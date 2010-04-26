@@ -9,8 +9,8 @@ décret en Conseil d'Etat, inclut notamment des représentants de l'Etat, des
 collectivités territoriales, des professions concernées, des associations de
 protection de l'environnement et des personnalités compétentes.L'autorisation
 est accordée par le ministre chargé des installations classées, après avis du
-Conseil supérieur des installations classées, dans le cas où les risques peuvent
-concerner plusieurs départements ou régions.
+Conseil supérieur de la prévention des risques technologiques, dans le cas où
+les risques peuvent concerner plusieurs départements ou régions.
 
 Un décret en Conseil d'Etat détermine les conditions d'application de l'alinéa
 précédent. Il fixe, en outre, les conditions dans lesquelles il doit être

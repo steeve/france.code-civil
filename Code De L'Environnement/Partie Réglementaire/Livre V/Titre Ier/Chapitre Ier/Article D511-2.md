@@ -1,6 +1,7 @@
 Article D511-2
 ----
-Le Conseil supérieur des installations classées est composé comme suit :
+Le Conseil supérieur de la prévention des risques technologiques est composé
+comme suit :
 
 1° Membres de droit :
 
