@@ -8,12 +8,16 @@ l'objet de la déclaration périodique, prévue à l'article 5 du règlement (CE
 déclaration statistique périodique prévue au 1 font l'objet d'une déclaration
 unique.
 
-3. La déclaration visée au 2 peut être transmise par voie informatique. Les
-déclarants, utilisateurs de cette méthode de transmission, doivent respecter les
-prescriptions d'un cahier des charges, publié par arrêté du ministre chargé du
-budget, définissant notamment les modalités de cette transmission, les supports
-autorisés et les conditions d'authentification des déclarations ainsi
-souscrites.
+3. La déclaration mentionnée au 2 peut être transmise par voie électronique.
+
+Elle est obligatoirement souscrite par voie électronique par le redevable qui a
+réalisé au cours de l'année civile précédente des expéditions ou des
+introductions d'un montant hors taxes supérieur à 2 300 000 EUR, ou atteint ce
+seuil en cours d'année.
+
+Les déclarants qui utilisent le mode de transmission électronique respectent les
+prescriptions d'un cahier des charges, établi et publié par arrêté du ministre
+chargé du budget.
 
 4. Les documents nécessaires à l'établissement de la déclaration prévue au 2
 doivent être conservés par les assujettis pendant un délai de six ans à compter
