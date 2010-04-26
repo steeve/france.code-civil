@@ -1,14 +1,14 @@
 Article L80 K
 ----
 Pour rechercher les manquements aux obligations et formalités auxquelles sont
-soumises les personnes autorisées à ouvrir un entrepôt fiscal mentionné au 2° du
-I de l'article 277 A du code général des impôts, les agents des impôts ou des
-douanes, ayant au moins le grade de contrôleur, peuvent, dans les conditions et
-selon les modalités prévues aux articles L. 80 F et L. 80 G, se faire présenter
-les registres et les factures, ainsi que tous les documents pouvant se rapporter
-aux biens placés ou destinés à être placés dans un entrepôt fiscal et aux
-opérations et prestations afférentes à ces biens. Ils peuvent également procéder
-à la constatation matérielle des éléments physiques de l'exploitation.
+soumises les personnes autorisées à ouvrir un régime mentionné au 2° du I de
+l'article 277 A du code général des impôts, les agents des impôts ou des douanes
+ayant au moins le grade de contrôleur peuvent, dans les conditions et selon les
+modalités prévues aux articles L. 80 F et L. 80 G, se faire présenter les
+registres et les factures, ainsi que tous les documents pouvant se rapporter aux
+biens placés ou destinés à être placés dans un tel régime et aux opérations et
+prestations afférentes à ces biens. Ils peuvent également procéder à la
+constatation matérielle des éléments physiques de l'exploitation.
 
 Lorsque les registres sont tenus au moyen de systèmes informatisés,
 l'intervention porte sur l'ensemble des informations, données et traitements
