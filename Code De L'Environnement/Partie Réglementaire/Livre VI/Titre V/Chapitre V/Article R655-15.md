@@ -17,7 +17,8 @@ prévu à l'article L. 651-3.
 Le projet de plan est adressé au ministre chargé de l'environnement avant le 1er
 juillet 2008.
 
-Il est soumis pour avis au Conseil supérieur des installations classées.
+Il est soumis pour avis au Conseil supérieur de la prévention des risques
+technologiques.
 
 Le plan est approuvé par arrêté des ministres chargés de l'environnement et de
 l'outre-mer, après avis des ministres intéressés.
