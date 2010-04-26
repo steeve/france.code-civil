@@ -1,22 +1,19 @@
 Article R227-1
 ----
-Les membres de la Commission nationale de prévention des nuisances prévue à
-l'article L. 227-4, ainsi que leurs suppléants, sont nommés par arrêté du
-ministre chargé de l'aviation civile pour une période de trois ans renouvelable.
+A compter de la notification, prévue au III de l'article L. 227-4, du
+procès-verbal et du montant de l'amende encourue, la personne concernée dispose
+d'un délai de quinze jours pour présenter par écrit ses observations à
+l'autorité.
 
-La commission est présidée par un membre du conseil général des ponts et
-chaussées et comprend en outre :
+A réception des observations ou, à défaut, à l'issue de ce délai, le rapporteur
+permanent saisit les fonctionnaires et agents chargés de l'instruction des
+manquements et leur communique, lorsqu'elles existent, les observations de la
+personne concernée.
 
-1° Quatre représentants de l'Etat, dont un proposé par le ministre chargé de
-l'environnement et un proposé par le ministre de la défense ;
+A l'issue de leur instruction, ces fonctionnaires et agents transmettent le
+dossier au rapporteur permanent.
 
-2° Quatre personnalités qualifiées dans le domaine de l'aéronautique, dont au
-moins un exploitant et un gestionnaire d'aérodrome ;
-
-3° Quatre personnalités qualifiées dans le domaine de l'environnement, proposées
-par le ministre chargé de l'environnement, dont une au moins au titre des
-associations de riverains.
-
-Chacun de ces membres titulaires dispose d'un suppléant nommé dans les mêmes
-conditions que ci-dessus. En cas d'indisponibilité de ce suppléant, il peut être
-fait appel à un second suppléant nommé dans les mêmes conditions.
+Le rapporteur permanent s'assure que le dossier d'instruction contient tous les
+éléments nécessaires au traitement de l'affaire. Il peut se faire communiquer,
+par les fonctionnaires et agents chargés de l'instruction, tout complément ou
+précision qu'il juge utile.
