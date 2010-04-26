@@ -41,6 +41,7 @@ c) Un représentant du syndicat de l'industrie du médicament vétérinaire, pro
 par son président ;
 
 3° Seize membres nommés par le ministre chargé de la santé pour une durée de
-trois ans et choisis en raison de leur compétence scientifique ou technique. Six
-au moins de ces membres sont choisis sur proposition du ministre chargé de
-l'enseignement supérieur.
+trois ans et choisis en raison de leur compétence scientifique ou technique,
+dont un au moins en matière de plantes médicinales d'usage traditionnel dans les
+départements et collectivités d'outre-mer. Six au moins de ces membres sont
+choisis sur proposition du ministre chargé de l'enseignement supérieur.
