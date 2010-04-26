@@ -10,7 +10,7 @@ droits de douane d'importation lorsqu'ils sont destinés :
 2° Aux musées de l'Etat des départements et des communes ;
 
 3° Aux fondations associations et autres établissements justifiant de leur
-agrément par le ministre d'Etat chargé des affaires culturelles.
+agrément par le ministre chargé des affaires culturelles.
 
 2. L'exonération est subordonnée à la production à l'appui de la déclaration
 d'importation d'une attestation signée par le directeur de l'établissement

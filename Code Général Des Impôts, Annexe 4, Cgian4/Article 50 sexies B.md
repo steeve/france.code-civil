@@ -53,26 +53,4 @@ dans les établissements de spectacles cinématographiques, la fourniture et
 l'utilisation de ces billets sont fixées par la réglementation de l'industrie
 cinématographique.
 
-Dans le cadre de cette réglementation, l'utilisation de caisses automatisées ou
-de systèmes informatisés est autorisée pour l'impression et l'édition des
-billets d'entrée ou l'enregistrement et la conservation des données relatives à
-l'entrée dans les établissements de spectacles cinématographiques.
-
-Les caractéristiques et le fonctionnement de ces caisses et de ces systèmes sont
-conformes aux cahiers des charges approuvés conjointement par le directeur
-général des impôts et le directeur général du Centre national de la
-cinématographie. Le programme de ces caisses et de ces systèmes est homologué
-par le directeur général du Centre national de la cinématographie.
-
-Le Centre national de la cinématographie s'assure de la conformité des logiciels
-proposés par les constructeurs ou les fournisseurs aux cahiers des charges.
-
-Les caisses automatisées et les systèmes informatisés sont pourvus de
-dispositifs qui permettent aux agents des impôts et du Centre national de la
-cinématographie, chargés du contrôle, de vérifier à tout moment que
-l'utilisation des matériels est conforme aux cahiers des charges et de s'assurer
-du respect de la réglementation en vigueur.
-
-Les caisses automatisées et les systèmes informatisés peuvent être équipés d'un
-dispositif permettant la vente, par avance, de billets d'entrée à une séance
-déterminée.
+(2e à 6e alinéas supprimés)
