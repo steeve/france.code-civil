@@ -1,6 +1,6 @@
 Article 661
 ----
-Il est également fait défense aux comptables des impôts :
+Il est également fait défense aux comptables publics compétents :
 
 1° (Alinéa abrogé).
 

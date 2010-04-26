@@ -286,8 +286,8 @@ de réalisation et d'exploitation de l'investissement aidé.
 
 2.L'agrément est tacite à défaut de réponse de l'administration dans un délai de
 trois mois à compter de la réception de la demande d'agrément. Ce délai est
-ramené à deux mois lorsque la décision est prise et notifiée par l'un des
-directeurs des services fiscaux des départements d'outre-mer.
+ramené à deux mois lorsque la décision est prise et notifiée par l'autorité
+compétente de l'Etat dans les départements d'outre-mer.
 
 Lorsque l'administration envisage une décision de refus d'agrément, elle doit en
 informer le contribuable par un courrier qui interrompt le délai mentionné au

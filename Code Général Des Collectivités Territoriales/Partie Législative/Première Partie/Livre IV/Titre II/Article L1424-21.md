@@ -11,8 +11,8 @@ coopération intercommunale élus par le collège des maires et présidents
 d'établissement public de coopération intercommunale dans le département, en son
 sein ;
 
-3° Le trésorier-payeur général et le directeur des services fiscaux du
-département, ou leur représentant, et un expert désigné par le préfet.
+3° Le directeur départemental des finances publiques ou son représentant, et un
+expert désigné par le préfet.
 
 Les représentants du département, des communes et des établissements publics de
 coopération intercommunale ne peuvent exercer un mandat de membre du conseil

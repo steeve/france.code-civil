@@ -6,4 +6,5 @@ disponibles, que des dépenses obligatoires n'ont pas été inscrites au budget 
 n'ont pas été mandatées, ou que des dysfonctionnements graves, mettant en péril
 l'équilibre financier de l'établissement, sont constatés, l'autorité compétente,
 après application d'une procédure contradictoire, arrête le budget et peut
-confier au trésorier-payeur général les fonctions de trésorier.
+confier au directeur départemental des finances publiques les fonctions de
+trésorier.

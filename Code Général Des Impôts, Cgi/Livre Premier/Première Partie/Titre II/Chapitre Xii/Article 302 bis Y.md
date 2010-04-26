@@ -1,7 +1,7 @@
 Article 302 bis Y
 ----
-1. Les actes des huissiers de justice sont soumis à une taxe forfaitaire de 9,15
-euros.
+1. Les actes des huissiers de justice sont soumis à une taxe forfaitaire de 9,
+15 euros.
 
 Sont exonérés de la taxe :
 
@@ -15,8 +15,8 @@ b. Les actes désignés aux 3° à 7° du 1 et aux 2° à 7° bis du 2 de l'arti
 
 c. Les actes qui, en matière mobilière :
 
-1° Sont exercés pour le compte d'un comptable des impôts ou du Trésor ainsi que
-de la sécurité sociale et des groupements mutualistes régis par le code de la
+1° Sont exercés pour le compte d'un comptable public de l'Etat ainsi que de la
+sécurité sociale et des groupements mutualistes régis par le code de la
 mutualité ;
 
 2° ou qui, portant sur une somme n'excédant pas 530 euros, ne sont pas accomplis

@@ -36,10 +36,10 @@ V. ― Le montant de la contribution mentionnée au I est versé aux organismes
 collecteurs agréés mentionnés aux articles L. 6242-1 et L. 6242-2 du code du
 travail avant le 1er mars de l'année suivant celle du versement des salaires.A
 défaut de versement ou en cas de versement insuffisant à la date précitée, le
-montant de la contribution est versé au comptable de la direction générale des
-impôts selon les modalités définies au III de l'article 1678 quinquies du
-présent code, majoré de l'insuffisance constatée.
+montant de la contribution est versé au comptable public compétent selon les
+modalités définies au III de l'article 1678 quinquies du présent code, majoré de
+l'insuffisance constatée.
 
 Les organismes mentionnés au premier alinéa du présent V reversent au comptable
-de la direction générale des impôts les sommes perçues en application du même
-alinéa au plus tard le 30 avril de la même année.
+public compétent les sommes perçues en application du même alinéa au plus tard
+le 30 avril de la même année.

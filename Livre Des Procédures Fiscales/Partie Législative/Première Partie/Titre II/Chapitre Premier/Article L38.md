@@ -150,7 +150,7 @@ procédure de vérification de comptabilité ou de contrôle de revenu qu'après
 restitution des pièces ou de leur reproduction et mise en oeuvre des procédures
 de contrôle visées aux premier et deuxième alinéas de l'article L. 47.
 
-7. Les dispositions des 1 à 6 peuvent être mises en oeuvre par les agents de
-l'administration des impôts habilités à cet effet par le directeur général des
-impôts, pour la recherche et la constatation des infractions aux dispositions de
-l'article 290 quater et du III de l'article 298 bis du code général des impôts.
+7. Les dispositions des 1 à 6 peuvent être mises en oeuvre par les agents
+habilités à cet effet par le directeur général des finances publiques, pour la
+recherche et la constatation des infractions aux dispositions de l'article 290
+quater et du III de l'article 298 bis du code général des impôts.

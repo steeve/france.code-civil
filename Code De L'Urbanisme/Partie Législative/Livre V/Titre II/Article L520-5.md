@@ -14,5 +14,5 @@ l'article L. 421-4.
 Les litiges relatifs à l'assiette et à la liquidation de la redevance sont de la
 compétence des tribunaux administratifs.
 
-La redevance est recouvrée par l'administration des domaines dans les mêmes
-conditions que les créances domaniales.
+La redevance est recouvrée dans les mêmes conditions que les créances
+domaniales.

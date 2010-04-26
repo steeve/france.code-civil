@@ -1,8 +1,8 @@
 Article L344-2
 ----
-Lorsqu'une amende forfaitaire majorée a été émise et que le comptable du Trésor
-constate que le contrevenant n'habite plus à l'adresse enregistrée au fichier
-territorial des immatriculations, il peut faire opposition au service
+Lorsqu'une amende forfaitaire majorée a été émise et que le comptable public
+compétent constate que le contrevenant n'habite plus à l'adresse enregistrée au
+fichier territorial des immatriculations, il peut faire opposition au service
 d'immatriculation territorialement compétent à tout transfert du certificat
 d'immatriculation. Il en informe le procureur de la République.
 

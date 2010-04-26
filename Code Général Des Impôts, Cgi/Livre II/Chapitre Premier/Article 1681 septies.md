@@ -10,8 +10,8 @@ acquittés par télérèglement, par les contribuables qui sont définis aux deu
 2 Le paiement par télérèglement, des taxes foncières sur les propriétés bâties
 et non bâties et de leurs taxes additionnelles et annexes est également
 obligatoire pour les contribuables qui ont opté pour le paiement de ces taxes
-auprès du service chargé des grandes entreprises au sein de l'administration des
-impôts dans des conditions fixées par décret.
+auprès du service chargé des grandes entreprises au sein de l'administration
+fiscale dans des conditions fixées par décret.
 
 3. Le paiement de la cotisation sur la valeur ajoutée des entreprises est
 effectué par télérèglement.

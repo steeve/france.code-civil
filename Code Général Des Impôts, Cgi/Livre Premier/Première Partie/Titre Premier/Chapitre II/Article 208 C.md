@@ -14,17 +14,17 @@ l'article 8 et aux 1, 2 et 3 de l'article 206 dont l'objet social est identique.
 Le capital ou les droits de vote des sociétés visées au premier alinéa ne
 doivent pas être détenus, directement ou indirectement, à hauteur de 60 % ou
 plus par une ou plusieurs personnes agissant de concert au sens de l'article L.
-233-10 du code de commerce . Cette condition s'apprécie de manière continue au
+233-10 du code de commerce. Cette condition s'apprécie de manière continue au
 cours de chaque exercice d'application du présent régime. Elle ne s'applique pas
 lorsque la personne ou les personnes agissant de concert mentionnées à la
 première phrase sont des sociétés visées au premier alinéa.
 
 Si, au cours d'un exercice, à la suite d'une offre publique d'achat ou d'échange
-au sens de l'article L. 433-1 du code monétaire et financier , d'une opération
-de restructuration visée à l'article 210-0 A, d'une opération de conversion ou
-de remboursement d'obligations en actions, le capital ou les droits de vote
-d'une société visée au premier alinéa viennent à être détenus à 60 % ou plus
-dans les conditions mentionnées à la première phrase de l'alinéa précédent, les
+au sens de l'article L. 433-1 du code monétaire et financier, d'une opération de
+restructuration visée à l'article 210-0 A, d'une opération de conversion ou de
+remboursement d'obligations en actions, le capital ou les droits de vote d'une
+société visée au premier alinéa viennent à être détenus à 60 % ou plus dans les
+conditions mentionnées à la première phrase de l'alinéa précédent, les
 conditions de détention sont réputées avoir été respectées si ce taux de
 détention est ramené au-dessous de 60 % à l'expiration du délai prévu au
 deuxième alinéa du 1 de l'article 223 pour le dépôt de la déclaration de
@@ -139,12 +139,11 @@ qui aurait été dû dans les conditions de droit commun en France.
 La détention de 10 % du capital s'entend de la détention de 10 % des droits à
 dividendes et s'apprécie au moment de la mise en paiement des distributions.
 
-Ce prélèvement est acquitté spontanément au comptable de la direction générale
-des impôts, dans le mois qui suit la mise en paiement des distributions. Il est
-recouvré et contrôlé comme en matière d'impôt sur les sociétés et sous les mêmes
-garanties et sanctions. Il n'est ni imputable, ni restituable. Il n'est pas
-admis en charge déductible pour la détermination du résultat de la société
-distributrice.
+Ce prélèvement est acquitté spontanément au comptable public compétent, dans le
+mois qui suit la mise en paiement des distributions. Il est recouvré et contrôlé
+comme en matière d'impôt sur les sociétés et sous les mêmes garanties et
+sanctions. Il n'est ni imputable, ni restituable. Il n'est pas admis en charge
+déductible pour la détermination du résultat de la société distributrice.
 
 III.-L'option doit être notifiée au plus tard avant la fin du quatrième mois de
 l'ouverture de l'exercice au titre duquel l'entreprise souhaite être soumise au
@@ -163,7 +162,7 @@ une ou plusieurs sociétés de placement à prépondérance immobilière à capi
 variable mentionnées au 3° nonies de l'article 208 ou par une ou plusieurs
 sociétés de placement à prépondérance immobilière à capital variable mentionnées
 au 3° nonies de l'article 208 et une ou plusieurs sociétés d'investissements
-immobiliers cotées visées au I du présent article .
+immobiliers cotées visées au I du présent article.
 
 IV.-En cas de sortie du présent régime de la société d'investissements
 immobiliers cotée dans les dix années suivant l'option, les plus-values imposées

@@ -21,5 +21,5 @@ connaissance, d'une part, de la condamnation, soit par un acte d'exécution, soi
 par tout autre moyen, d'autre part, du délai et des formes de l'opposition qui
 lui est ouverte.
 
-Le comptable du Trésor arrête le recouvrement dès réception de l'avis
+Le comptable public compétent arrête le recouvrement dès réception de l'avis
 d'opposition à l'ordonnance pénale établi par le greffe.

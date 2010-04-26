@@ -14,8 +14,8 @@ prélèvements, il peut demander la modification du montant de ces derniers.
 
 Dans l'un ou l'autre cas, la demande, qui ne peut être postérieure au 30 juin de
 chaque année, doit préciser le montant présumé de l'impôt et doit être formulée
-auprès du Trésor public au plus tard le dernier jour du mois qui précède celui
-du prélèvement effectif.
+auprès de l'administration fiscale au plus tard le dernier jour du mois qui
+précède celui du prélèvement effectif.
 
 Si le montant de l'impôt présumé par le contribuable est inférieur de plus de 20
 % au montant de l'impôt dû, une majoration de 10 % est appliquée à la différence

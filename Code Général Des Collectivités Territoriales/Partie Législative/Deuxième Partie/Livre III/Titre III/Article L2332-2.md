@@ -16,7 +16,7 @@ Au cours de l'année, un ou plusieurs douzièmes peuvent être versés en
 anticipation sur le rythme normal si les fonds disponibles de la commune ou de
 l'établissement public se trouvent momentanément insuffisants. Les attributions
 complémentaires sont autorisées par arrêté du préfet sur la proposition du
-trésorier-payeur général.
+directeur départemental des finances publiques.
 
 Les attributions ne peuvent avoir pour effet de porter les versements effectués
 pendant l'année civile à un montant supérieur aux taxes et impositions de

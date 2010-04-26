@@ -1,8 +1,9 @@
 Article L322-1
 ----
-Lorsqu'une amende forfaitaire majorée a été émise, le comptable du Trésor peut
-faire opposition auprès de l'autorité administrative compétente à tout transfert
-du certificat d'immatriculation. Il en informe le procureur de la République.
+Lorsqu'une amende forfaitaire majorée a été émise, le comptable public compétent
+peut faire opposition auprès de l'autorité administrative compétente à tout
+transfert du certificat d'immatriculation. Il en informe le procureur de la
+République.
 
 Cette opposition suspend la prescription de la peine.
 

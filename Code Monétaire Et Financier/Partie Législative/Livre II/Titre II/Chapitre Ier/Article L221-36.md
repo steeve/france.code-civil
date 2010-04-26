@@ -3,7 +3,7 @@ Article L221-36
 Les infractions aux dispositions de l'article L. 221-35 sont constatées comme en
 matière de timbre :
 
-― par les comptables du Trésor ;
+― par les comptables publics compétents ;
 
 ― par les agents des administrations financières.
 

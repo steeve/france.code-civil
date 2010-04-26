@@ -16,7 +16,7 @@ chargée du contrôle de la contribution à l'audiovisuel public dans les trente
 jours suivant la vente. Cette déclaration précise la date d'achat, l'identité de
 l'acquéreur, sa date et son lieu de naissance. Un double de cette déclaration
 doit être conservé pendant trois ans par les professionnels désignés ci-dessus
-et présenté à toute réquisition des agents du Trésor public ou de
-l'administration des impôts.
+et présenté à toute réquisition des agents de la direction générale des finances
+publiques.
 
 Les opérations de vente entre professionnels sont dispensées de déclaration.

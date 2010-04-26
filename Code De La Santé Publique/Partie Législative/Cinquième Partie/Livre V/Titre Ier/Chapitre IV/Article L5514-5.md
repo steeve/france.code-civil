@@ -5,4 +5,4 @@ ainsi rédigée :
 
 " Les agents de la direction générale de la concurrence, de la consommation et
 de la répression des fraudes, de la direction générale des douanes et de la
-direction générale des impôts. "
+direction générale des finances publiques. "

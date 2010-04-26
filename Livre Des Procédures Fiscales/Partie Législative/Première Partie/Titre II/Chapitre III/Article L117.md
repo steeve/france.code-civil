@@ -1,7 +1,7 @@
 Article L117
 ----
-Les agents de l'administration des impôts et de l'administration des douanes et
-droits indirects sont tenus de communiquer les documents de service qu'ils
-détiennent, sans pouvoir opposer le secret professionnel, aux agents ayant au
-moins le grade d'inspecteur qui appartiennent à d'autres administrations des
-finances et qui sont chargés d'établir des impôts et droits.
+L'obligation du secret professionnel ne fait pas obstacle à ce que, au sein de
+la direction générale des finances publiques, les agents exerçant des missions
+fiscales et les agents exerçant d'autres missions se communiquent, spontanément
+ou sur demande, les informations et documents nécessaires à l'exercice de leurs
+missions respectives.

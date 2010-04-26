@@ -20,8 +20,8 @@ montant de ces derniers.
 
 Dans l'un ou l'autre cas, la demande, qui ne peut être postérieure au 30
 septembre de chaque année, doit préciser le montant présumé des taxes et doit
-être formulée auprès du Trésor public au plus tard le dernier jour du mois qui
-précède celui du prélèvement effectif.
+être formulée auprès de l'administration fiscale au plus tard le dernier jour du
+mois qui précède celui du prélèvement effectif.
 
 Si le montant des taxes présumé par le contribuable est inférieur de plus de 20
 % au montant des taxes mises en recouvrement, une majoration de 10 % est

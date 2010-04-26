@@ -92,7 +92,7 @@ Pour les services de l'Etat, le calcul de la contribution est opéré au niveau 
 l'ensemble des personnels rémunérés par chaque ministère.
 
 Les employeurs mentionnés à l'article L. 323-2 déposent, au plus tard le 30
-avril, auprès du comptable du Trésor public une déclaration annuelle accompagnée
+avril, auprès du comptable public compétent une déclaration annuelle accompagnée
 du paiement de leur contribution. Le contrôle de la déclaration annuelle est
 effectué par le gestionnaire du fonds.
 
@@ -102,7 +102,7 @@ comme ne satisfaisant pas à l'obligation d'emploi. Le montant de la contributio
 est alors calculé en retenant la proportion de 6 % de l'effectif total rémunéré.
 Dans cette situation ou dans les cas de défaut de paiement ou de paiement
 insuffisant, le gestionnaire du fonds émet un titre exécutoire qui est recouvré
-par le comptable du Trésor public selon les règles applicables au recouvrement
+par le comptable public compétent selon les règles applicables au recouvrement
 des créances étrangères à l'impôt et au domaine.
 
 V.-Les modalités d'application du présent article sont précisées par un décret

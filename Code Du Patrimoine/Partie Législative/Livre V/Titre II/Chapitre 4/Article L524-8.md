@@ -30,7 +30,7 @@ ans, l'émission du titre de recettes est prescrite à la fin de l'année qui su
 l'année d'expiration de l'autorisation administrative.
 
 La redevance d'archéologie préventive est payée en un versement unique au
-comptable du Trésor compétent désigné par décision de l'autorité administrative.
+comptable public compétent désigné par décision de l'autorité administrative.
 Toutefois, lorsque la redevance est afférente à une opération autre que celles
 mentionnées au a de l'article L. 524-4 faisant l'objet de réalisation par
 tranches de travaux, le service liquidateur fractionne l'émission du titre de

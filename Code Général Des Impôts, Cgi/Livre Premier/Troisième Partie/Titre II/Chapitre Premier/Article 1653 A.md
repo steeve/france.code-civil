@@ -6,10 +6,10 @@ composée :
 1° D'un magistrat du siège, désigné par arrêté du ministre de la justice, qui
 assure les fonctions de président ;
 
-2° Du directeur des services fiscaux ou de son délégué ;
+2° Du directeur départemental des finances publiques ou de son délégué ;
 
-3° De trois fonctionnaires de la direction générale des impôts ayant au moins le
-grade d'inspecteur départemental ;
+3° De trois fonctionnaires de la direction générale des finances publiques ayant
+au moins le grade d'inspecteur départemental ;
 
 4° D'un notaire désigné par la ou les chambres de notaires du département, ou de
 son suppléant ;
@@ -36,15 +36,16 @@ propriétaires du département.
 Les représentants ainsi désignés doivent être de nationalité française, âgés de
 vingt-cinq ans au moins et jouir de leurs droits civils.
 
-II. Un inspecteur des impôts remplit les fonctions de secrétaire et assiste aux
-séances avec voix consultative.
+II. Un agent de catégorie A de la direction générale des finances publiques
+remplit les fonctions de secrétaire et assiste aux séances avec voix
+consultative.
 
 III. Les membres non fonctionnaires de la commission sont nommés pour un an et
 leur mandat est renouvelable. Ils sont soumis aux obligations du secret
 professionnel.
 
-IV. La commission se réunit sur la convocation du directeur des services
-fiscaux.
+IV. La commission se réunit sur la convocation du directeur départemental des
+finances publiques.
 
 La commission délibère valablement, à condition qu'il y ait au moins cinq
 membres présents, y compris le président. En cas de partage des voix, celle du

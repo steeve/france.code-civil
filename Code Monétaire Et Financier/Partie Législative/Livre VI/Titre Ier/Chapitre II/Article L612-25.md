@@ -6,7 +6,7 @@ des formations de l'Autorité, l'Autorité de contrôle prudentiel peut prononce
 une injonction assortie d'une astreinte dont elle fixe le montant et la date
 d'effet.
 
-L'astreinte est recouvrée par les comptables du Trésor.
+L'astreinte est recouvrée par les comptables publics compétents.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article, et notamment le montant journalier maximum et les modalités de

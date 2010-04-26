@@ -7,11 +7,10 @@ recouvrement des impositions et des pénalités dues par la société, la person
 morale ou le groupement, ce dirigeant peut, s'il n'est pas déjà tenu au paiement
 des dettes sociales en application d'une autre disposition, être déclaré
 solidairement responsable du paiement de ces impositions et pénalités par le
-président du tribunal de grande instance. A cette fin, le comptable de la
-direction générale de la comptabilité publique ou le comptable de la direction
-générale des impôts assigne le dirigeant devant le président du tribunal de
-grande instance du lieu du siège social. Cette disposition est applicable à
-toute personne exerçant en droit ou en fait, directement ou indirectement, la
+président du tribunal de grande instance. A cette fin, le comptable public
+compétent assigne le dirigeant devant le président du tribunal de grande
+instance du lieu du siège social. Cette disposition est applicable à toute
+personne exerçant en droit ou en fait, directement ou indirectement, la
 direction effective de la société, de la personne morale ou du groupement.
 
 Les voies de recours qui peuvent être exercées contre la décision du président

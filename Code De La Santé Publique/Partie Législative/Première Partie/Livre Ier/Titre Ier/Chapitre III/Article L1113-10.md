@@ -14,8 +14,9 @@ l'établissement, par des personnes hors d'état de manifester leur volonté ou
 devant recevoir des soins d'urgence, ou sur des objets abandonnés à la sortie ou
 au décès de leurs détenteurs dans cet établissement ;
 
-3° Les conditions dans lesquelles le service des domaines peut refuser la remise
-des objets dont la valeur est inférieure aux frais de vente prévisibles ;
+3° Les conditions dans lesquelles l'administration chargée des domaines peut
+refuser la remise des objets dont la valeur est inférieure aux frais de vente
+prévisibles ;
 
 4° Les conditions dans lesquelles les dispositions du présent chapitre et ses
 textes d'application sont portées à la connaissance des personnes admises ou

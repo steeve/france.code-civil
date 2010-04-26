@@ -7,6 +7,6 @@ et de la destination, lucrative ou non, de la dissémination, dans la limite de
 15 000 euros.
 
 Le recouvrement et le contentieux du versement institué au présent article sont
-suivis par les comptables du Trésor selon les modalités fixées aux articles 81 à
-95 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la
-comptabilité publique.
+suivis par les comptables publics compétents selon les modalités fixées aux
+articles 81 à 95 du décret n° 62-1587 du 29 décembre 1962 portant règlement
+général sur la comptabilité publique.

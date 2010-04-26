@@ -3,8 +3,8 @@ Article L211-5
 Tout propriétaire d'un bien soumis au droit de préemption peut proposer au
 titulaire de ce droit l'acquisition de ce bien, en indiquant le prix qu'il en
 demande. Le titulaire doit se prononcer dans un délai de deux mois à compter de
-ladite proposition dont copie doit être transmise par le maire au directeur des
-services fiscaux.
+ladite proposition dont copie doit être transmise par le maire au directeur
+départemental des finances publiques.
 
 A défaut d'accord amiable, le prix est fixé par la juridiction compétente en
 matière d'expropriation selon les règles mentionnées à l'article L. 213-4.

@@ -39,5 +39,5 @@ Pour la liquidation de l'astreinte, la juridiction apprécie l'inexécution ou l
 retard dans l'exécution des prescriptions en tenant compte, s'il y a lieu, de la
 survenance des événements qui ne sont pas imputables au prévenu.
 
-L'astreinte est recouvrée par le comptable du Trésor comme une amende pénale ;
-elle ne donne pas lieu à contrainte judiciaire.
+L'astreinte est recouvrée par le comptable public compétent comme une amende
+pénale ; elle ne donne pas lieu à contrainte judiciaire.

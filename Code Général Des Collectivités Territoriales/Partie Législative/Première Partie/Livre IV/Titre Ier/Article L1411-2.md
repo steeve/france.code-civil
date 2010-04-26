@@ -15,11 +15,11 @@ délégation de service public et sont, à l'issue de la durée de la convention
 délégation de service public, transférés à la personne morale de droit public.
 Dans le domaine de l'eau potable, de l'assainissement, des ordures ménagères et
 autres déchets, les délégations de service public ne peuvent avoir une durée
-supérieure à vingt ans sauf examen préalable par le trésorier-payeur général, à
-l'initiative de l'autorité délégante, des justificatifs de dépassement de cette
-durée. Les conclusions de cet examen sont communiquées aux membres de
-l'assemblée délibérante compétente avant toute délibération relative à la
-délégation.
+supérieure à vingt ans sauf examen préalable par le directeur départemental des
+finances publiques, à l'initiative de l'autorité délégante, des justificatifs de
+dépassement de cette durée. Les conclusions de cet examen sont communiquées aux
+membres de l'assemblée délibérante compétente avant toute délibération relative
+à la délégation.
 
 Une délégation de service ne peut être prolongée que :
 

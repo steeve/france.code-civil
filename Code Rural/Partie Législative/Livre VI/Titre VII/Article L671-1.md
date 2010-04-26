@@ -25,6 +25,7 @@ de la répression des fraudes ;
 
 7° Les agents des douanes ;
 
-8° Les agents des services déconcentrés de la direction générale des impôts.
+8° Les agents des services déconcentrés de la direction générale des finances
+publiques.
 
 Les infractions sont constatées par des procès-verbaux.

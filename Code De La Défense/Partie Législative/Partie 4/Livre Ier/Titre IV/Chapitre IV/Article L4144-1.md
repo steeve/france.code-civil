@@ -1,11 +1,12 @@
 Article L4144-1
 ----
-I.-Le grade détenu dans leur corps d'origine ou cadre d'emploi par le
-trésorier-payeur général exerçant les fonctions de payeur général aux armées et
-les fonctionnaires détachés au sein des services de la trésorerie aux armées et
-de la poste interarmées, pendant leur détachement, leur donne droit à
-l'attribution d'un grade d'assimilation dans la hiérarchie militaire générale.
-Ce grade ne confère de commandement qu'à l'intérieur du service d'emploi.
+I.-Le grade détenu dans leur corps d'origine ou cadre d'emploi par le directeur
+départemental des finances publiques exerçant les fonctions de payeur général
+aux armées et les fonctionnaires détachés au sein des services de la trésorerie
+aux armées et de la poste interarmées, pendant leur détachement, leur donne
+droit à l'attribution d'un grade d'assimilation dans la hiérarchie militaire
+générale. Ce grade ne confère de commandement qu'à l'intérieur du service
+d'emploi.
 
 II.-Durant leur détachement, les articles L. 4111-1 à L. 4121-2, les premier et
 deuxième alinéas de l'article L. 4121-3, les articles L. 4121-4 et L. 4121-5, L.

@@ -7,5 +7,5 @@ d'être produit à l'appui de la demande de nomination du successeur désigné.
 
 En cas de transmission de l'office par décès à un héritier ou légataire unique,
 ce dernier doit produire à l'appui de sa demande de nomination un certificat
-délivré sans frais par le comptable compétent des impôts constatant
-l'acquittement du droit de mutation par décès.
+délivré sans frais par le comptable public compétent constatant l'acquittement
+du droit de mutation par décès.

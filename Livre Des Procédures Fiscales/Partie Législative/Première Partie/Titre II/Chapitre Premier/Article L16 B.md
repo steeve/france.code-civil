@@ -10,10 +10,10 @@ des opérations réelles ou en omettant sciemment de passer ou de faire passer d
 ou fictives dans des documents comptables dont la tenue est imposée par le code
 général des impôts, elle peut, dans les conditions prévues au II, autoriser les
 agents de l'administration des impôts, ayant au moins le grade d'inspecteur et
-habilités à cet effet par le directeur général des impôts, à rechercher la
-preuve de ces agissements, en effectuant des visites en tous lieux, même privés,
-où les pièces et documents s'y rapportant sont susceptibles d'être détenus et
-procéder à leur saisie, quel qu'en soit le support.
+habilités à cet effet par le directeur général des finances publiques, à
+rechercher la preuve de ces agissements, en effectuant des visites en tous
+lieux, même privés, où les pièces et documents s'y rapportant sont susceptibles
+d'être détenus et procéder à leur saisie, quel qu'en soit le support.
 
 II. Chaque visite doit être autorisée par une ordonnance du juge des libertés et
 de la détention du tribunal de grande instance dans le ressort duquel sont

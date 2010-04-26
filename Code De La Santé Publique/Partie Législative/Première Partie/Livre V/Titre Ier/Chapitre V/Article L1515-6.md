@@ -9,7 +9,7 @@ réglementaires prises pour l'application de ces dispositions :
 
 1° Les agents de la direction générale de la concurrence, de la consommation et
 de la répression des fraudes, de la direction générale des douanes et de la
-direction générale des impôts ;
+direction générale des finances publiques ;
 
 2° Les officiers de police judiciaire, dans les conditions fixées par l'article
 16 du code de procédure pénale, et les agents de police judiciaire désignés à

@@ -1,7 +1,7 @@
 Article L524-11
 ----
-Après encaissement de la redevance, le comptable du Trésor en reverse le produit
-à l'établissement public mentionné à l'article L. 523-1 ou, dans le cas
+Après encaissement de la redevance, le comptable public compétent en reverse le
+produit à l'établissement public mentionné à l'article L. 523-1 ou, dans le cas
 mentionné au b de l'article L. 523-4, à la collectivité territoriale ou au
 groupement de collectivités territoriales après déduction des frais d'assiette
 et de recouvrement et après prélèvement du pourcentage du produit de la

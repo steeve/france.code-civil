@@ -1,8 +1,9 @@
 Article 1703
 ----
-Les comptables des impôts ne peuvent, sous aucun prétexte, lors même qu'il y
-aurait lieu à l'expertise, différer l'enregistrement des actes et mutations dont
-les droits ont été payés aux taux réglés par la présente codification.
+Les comptables publics compétents ne peuvent, sous aucun prétexte, lors même
+qu'il y aurait lieu à l'expertise, différer l'enregistrement des actes et
+mutations dont les droits ont été payés aux taux réglés par la présente
+codification.
 
 Ils ne peuvent, non plus, suspendre ou arrêter le cours des procédures en
 retenant des actes ou significations ; cependant, si un acte dont il n'y a pas

@@ -1,7 +1,7 @@
 Article L6365-1
 ----
-Le comptable de la collectivité de Saint-Martin est un comptable direct du
-Trésor ayant la qualité de comptable principal. Il est nommé par le ministre
+Le comptable de la collectivité de Saint-Martin est un comptable public de
+l'Etat ayant la qualité de comptable principal. Il est nommé par le ministre
 chargé du budget après information préalable du président du conseil
 territorial.
 

@@ -3,9 +3,9 @@ Article L213-2
 Toute aliénation visée à l'article L. 213-1 est subordonnée, à peine de nullité,
 à une déclaration préalable faite par le propriétaire à la mairie de la commune
 où se trouve situé le bien. Cette déclaration, dont le maire transmet copie au
-directeur des services fiscaux, comporte obligatoirement l'indication du prix et
-des conditions de l'aliénation projetée, ou en cas d'adjudication, l'estimation
-du bien ou sa mise à prix.
+directeur départemental des finances publiques, comporte obligatoirement
+l'indication du prix et des conditions de l'aliénation projetée, ou en cas
+d'adjudication, l'estimation du bien ou sa mise à prix.
 
 Lorsque la contrepartie de l'aliénation fait l'objet d'un paiement en nature, la
 déclaration doit mentionner le prix d'estimation de cette contrepartie.

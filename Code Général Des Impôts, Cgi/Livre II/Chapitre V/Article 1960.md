@@ -7,12 +7,8 @@ d'impôts ou de taxes donnant lieu à un prélèvement pour frais de non-valeurs
 profit de l'Etat, soit par la collectivité intéressée s'il s'agit d'autres
 taxes.
 
-Ils font l'objet de certificats qui sont établis par le directeur des services
-fiscaux pour servir de pièces justificatives aux agents du service du
-recouvrement.
-
 2. Lorsqu'un tribunal administratif annule une décision portant décharge ou
 réduction d'impôts directs ou de taxes assimilées ou met des frais à la charge
-d'un contribuable, le directeur des services fiscaux établit un rôle qui est
-recouvré par le comptable du Trésor chargé du recouvrement des impôts directs et
+d'un contribuable, l'autorité compétente de l'Etat établit un rôle qui est
+recouvré par le comptable public chargé du recouvrement des impôts directs et
 dont le montant est immédiatement exigible.

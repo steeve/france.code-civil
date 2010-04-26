@@ -1,7 +1,7 @@
 Article 1649 quinquies
 ----
-1. Il est institué, dans chaque département, sous l'autorité du ministre de
-l'économie et des finances, un ou plusieurs centres de casier fiscal.
+1. Il est institué, dans chaque département, sous l'autorité du ministre chargé
+du budget, un ou plusieurs centres de casier fiscal.
 
 2. Le centre de casier fiscal réunit les divers documents et informations
 intéressant la situation fiscale des redevables.
@@ -22,7 +22,7 @@ enregistrement ou opération effectué auprès d'un service de l'administration 
 impôts doit être accompagné des renseignements de nature à assurer
 l'identification des personnes intéressées.
 
-6. (Transféré sous l'article 1740-2).
+6. (Abrogé à compter du 1er janvier 2006).
 
 7. L'organisation des centres de casier fiscal et les modalités d'application
-des 1 à 5 sont déterminées par arrêté du ministre de l'économie et des finances.
+des 1 à 5 sont déterminées par arrêté du ministre chargé du budget.

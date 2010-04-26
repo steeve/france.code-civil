@@ -1,7 +1,7 @@
 Article 220 septies
 ----
-I. - Les personnes morales soumises de plein droit ou sur option à l'impôt sur
-les sociétés dans les conditions de droit commun qui, dans les cinq ans de
+I.-Les personnes morales soumises de plein droit ou sur option à l'impôt sur les
+sociétés dans les conditions de droit commun qui, dans les cinq ans de
 l'institution de l'une des zones prévues au I de l'article 51 de la loi de
 finances rectificative pour 1992 n° 92-1476 du 31 décembre 1992, se seront
 créées pour y exploiter une entreprise, peuvent, dans les conditions prévues au
@@ -67,14 +67,14 @@ période, ou en cas de restitution des biens loués avant l'expiration du même
 délai.
 
 Si le crédit d'impôt a été imputé en totalité à la date de l'événement qui
-motive son reversement, l'entreprise doit verser spontanément au comptable de la
-direction générale des impôts l'impôt sur les sociétés correspondant, majoré de
-l'intérêt de retard prévu à l'article 1727, au plus tard à la date de paiement
-du solde de l'impôt sur les sociétés de l'exercice au cours duquel intervient
-cet événement. Si le crédit d'impôt n'a pas été imputé, la quote-part restante
-est supprimée à hauteur du crédit d'impôt provenant des biens cédés ou des biens
-loués qui font l'objet d'une restitution ou dont le contrat de crédit-bail est
-cédé ou résilié sans rachat.
+motive son reversement, l'entreprise doit verser spontanément au comptable
+public compétent l'impôt sur les sociétés correspondant, majoré de l'intérêt de
+retard prévu à l'article 1727, au plus tard à la date de paiement du solde de
+l'impôt sur les sociétés de l'exercice au cours duquel intervient cet événement.
+Si le crédit d'impôt n'a pas été imputé, la quote-part restante est supprimée à
+hauteur du crédit d'impôt provenant des biens cédés ou des biens loués qui font
+l'objet d'une restitution ou dont le contrat de crédit-bail est cédé ou résilié
+sans rachat.
 
 La personne morale perd le bénéfice du crédit d'impôt et doit, dans les
 conditions mentionnées aux deux alinéas précédents, verser l'impôt sur les

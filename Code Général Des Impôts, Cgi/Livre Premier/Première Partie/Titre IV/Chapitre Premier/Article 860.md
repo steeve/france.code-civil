@@ -4,11 +4,11 @@ Les notaires, huissiers, greffiers, avoués, avocats et autorités administrativ
 doivent, pour les actes et décisions judiciaires qui contiennent des
 dispositions soumises à publicité foncière et pour les attestations après décès,
 établir en double exemplaire un extrait, dit extrait d'acte modèle n° 1 ou
-modèle n° 2 (1), dans les conditions fixées par le directeur général des impôts.
+modèle n° 2 (1), dans les conditions fixées par l'autorité compétente de l'Etat.
 
 L'extrait peut être remplacé par une reproduction partielle des actes, décisions
-judiciaires ou attestations, faite dans les conditions prévues par le directeur
-général des impôts.
+judiciaires ou attestations, faite dans les conditions prévues par l'autorité
+compétente de l'Etat.
 
 Pour les actes visés au premier alinéa du I de l'article 647, les deux
 exemplaires de l'extrait sont remis, sous peine de refus du dépôt, à la

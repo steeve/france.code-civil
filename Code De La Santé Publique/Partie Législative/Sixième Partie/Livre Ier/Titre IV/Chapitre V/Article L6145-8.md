@@ -1,7 +1,7 @@
 Article L6145-8
 ----
-Les comptables des établissements publics de santé sont des comptables directs
-du Trésor ayant qualité de comptable principal.
+Les comptables des établissements publics de santé sont des comptables publics
+de l'Etat ayant qualité de comptable principal.
 
 Lorsque le comptable de l'établissement notifie à l'ordonnateur sa décision de
 suspendre une dépense, celui-ci peut lui adresser un ordre de réquisition. Le

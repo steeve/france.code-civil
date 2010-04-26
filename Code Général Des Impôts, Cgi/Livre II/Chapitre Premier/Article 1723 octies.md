@@ -10,7 +10,7 @@ est provisoirement arrêté, puis mis en recouvrement sur la base de l'estimatio
 administrative. Lorsqu'il n'excède pas 12 euros le versement n'est pas mis en
 recouvrement.
 
-Il doit être payé au comptable du Trésor de la situation des biens en deux
+Il doit être payé au comptable public de la situation des biens en deux
 fractions égales ou en un versement unique lorsque le montant dû n'excède pas
 305 euros.
 

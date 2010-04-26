@@ -1,7 +1,7 @@
 Article L1617-1
 ----
 Le comptable de la commune, du département ou de la région est un comptable
-direct du Trésor ayant la qualité de comptable principal.
+public de l'Etat ayant la qualité de comptable principal.
 
 Il est nommé par le ministre chargé du budget après information préalable, selon
 le cas, du ou des maires concernés, du président du conseil général ou du

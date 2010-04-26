@@ -5,5 +5,4 @@ décédé quelle que soit la situation des valeurs mobilières ou immobilières 
 déclarer.
 
 Les déclarations de succession de personnes non domiciliées en France sont
-déposées auprès du service désigné par le ministre de l'économie et des
-finances.
+déposées auprès du service désigné par le ministre chargé du budget.

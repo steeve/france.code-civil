@@ -6,6 +6,6 @@ dans l'exécution des mesures et obligations imposées.
 
 L'astreinte cesse de courir le jour où ces dernières sont complètement
 exécutées. Elle est alors liquidée par le tribunal à la demande de l'intéressé
-et recouvrée par le comptable du Trésor comme une amende pénale.
+et recouvrée par le comptable public compétent comme une amende pénale.
 
 Elle ne donne pas lieu à la contrainte judiciaire.

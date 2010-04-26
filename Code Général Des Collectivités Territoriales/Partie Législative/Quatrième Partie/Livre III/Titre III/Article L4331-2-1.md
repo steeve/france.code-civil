@@ -16,7 +16,7 @@ Au cours de l'année, un ou plusieurs douzièmes peuvent être versés en
 anticipation sur le rythme normal si les fonds disponibles de la région se
 trouvent momentanément insuffisants. Les attributions complémentaires sont
 autorisées par arrêté du ministre du budget, sur la proposition du préfet et
-après avis du trésorier-payeur général.
+après avis du directeur départemental des finances publiques.
 
 Les attributions ne peuvent avoir pour effet de porter les versements effectués
 pendant l'année civile à un montant supérieur aux taxes et impositions de

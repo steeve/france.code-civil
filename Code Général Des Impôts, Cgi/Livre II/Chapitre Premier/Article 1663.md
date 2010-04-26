@@ -3,12 +3,13 @@ Article 1663
 1. Les impôts directs, produits et taxes assimilés, visés par le présent code,
 sont exigibles trente jours après la date de la mise en recouvrement du rôle.
 
-2. Le déménagement hors du ressort de la perception, à moins que le contribuable
-n'ait fait connaître, avec justifications à l'appui, son nouveau domicile, et la
-vente volontaire ou forcée entraînent l'exigibilité immédiate de la totalité de
-l'impôt, dès la mise en recouvrement du rôle. Entraîne également l'exigibilité
-immédiate et totale l'application d'une majoration pour non-déclaration ou
-déclaration tardive ou insuffisante des revenus et bénéfices imposables.
+2. Le déménagement hors du ressort du service chargé du recouvrement, à moins
+que le contribuable n'ait fait connaître, avec justifications à l'appui, son
+nouveau domicile, et la vente volontaire ou forcée entraînent l'exigibilité
+immédiate de la totalité de l'impôt, dès la mise en recouvrement du rôle.
+Entraîne également l'exigibilité immédiate et totale l'application d'une
+majoration pour non-déclaration ou déclaration tardive ou insuffisante des
+revenus et bénéfices imposables.
 
 En cas de déménagement à l'étranger, les impôts déjà mis en recouvrement ou en
 cours d'établissement sont exigibles immédiatement.

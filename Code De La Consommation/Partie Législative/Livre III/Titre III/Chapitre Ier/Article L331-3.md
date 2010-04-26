@@ -28,9 +28,9 @@ débiteur, les créanciers disposent d'un délai de trente jours pour fournir, e
 cas de désaccord sur cet état, les justifications de leurs créances en
 principal, intérêts et accessoires.A défaut, la créance est prise en compte par
 la commission au vu des seuls éléments fournis par le débiteur.L'information des
-établissements de crédit, des établissements de paiement et des comptables du
-Trésor peut être effectuée par télécopie ou par courrier électronique dans des
-conditions fixées par décret.
+établissements de crédit, des établissements de paiement et des comptables
+publics compétents peut être effectuée par télécopie ou par courrier
+électronique dans des conditions fixées par décret.
 
 Les créanciers doivent alors indiquer si les créances en cause ont donné lieu à
 une caution et si celle-ci a été actionnée.
@@ -48,7 +48,7 @@ Les collectivités territoriales et les organismes de sécurité sociale procèd
 
 Si l'instruction de la demande fait apparaître que le débiteur est dans la
 situation irrémédiablement compromise définie au troisième alinéa de l'article
-L. 330-1, la commission, après avoir convoqué le débiteur et obtenu son accord,
+L. 330-1 , la commission, après avoir convoqué le débiteur et obtenu son accord,
 saisit le juge de l'exécution aux fins d'ouverture d'une procédure de
 rétablissement personnel.L'absence de réponse du débiteur aux convocations vaut
 refus de cette saisine. En cas de refus du débiteur, la commission reprend sa

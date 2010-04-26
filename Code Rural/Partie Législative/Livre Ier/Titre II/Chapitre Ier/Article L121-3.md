@@ -23,7 +23,7 @@ une sur proposition du président de la chambre d'agriculture ;
 
 5° Deux fonctionnaires désignés par le président du conseil général ;
 
-6° Un délégué du directeur des services fiscaux ;
+6° Un délégué du directeur départemental des finances publiques ;
 
 7° Un représentant du président du conseil général désigné par le président de
 cette assemblée.

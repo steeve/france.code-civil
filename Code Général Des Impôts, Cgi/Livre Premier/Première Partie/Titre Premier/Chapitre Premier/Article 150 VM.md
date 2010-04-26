@@ -1,6 +1,6 @@
 Article 150 VM
 ----
-I. - Une déclaration, conforme à un modèle établi par l'administration, retrace,
+I.-Une déclaration, conforme à un modèle établi par l'administration, retrace,
 selon le cas, les éléments servant à la liquidation de la taxe ou l'option
 prévue à l'article 150 VL. Elle est déposée :
 
@@ -25,9 +25,9 @@ pour cette exportation, lors de l'accomplissement des formalités douanières ;
 3° Pour les autres cessions, par le vendeur au service des impôts chargé du
 recouvrement dont il relève dans un délai d'un mois à compter de la cession.
 
-II. - La taxe est acquittée lors du dépôt de la déclaration.
+II.-La taxe est acquittée lors du dépôt de la déclaration.
 
-III. - Le recouvrement de la taxe s'opère :
+III.-Le recouvrement de la taxe s'opère :
 
 1° Pour les cessions réalisées avec la participation d'un intermédiaire, selon
 les règles, garanties et sanctions prévues en matière de taxe sur le chiffre
@@ -39,9 +39,9 @@ vigueur ;
 
 3° Pour les autres cessions, selon les règles, garanties et sanctions prévues au
 titre IV du livre des procédures fiscales pour les impôts recouvrés par les
-comptables de la direction générale des impôts.
+comptables publics compétents.
 
-IV. - Les réclamations sont présentées, instruites et jugées comme en matière de
+IV.-Les réclamations sont présentées, instruites et jugées comme en matière de
 taxes sur le chiffre d'affaires si la taxe est recouvrée par les comptables de
-la direction générale des impôts et comme en matière de douane si la taxe est
-recouvrée par les receveurs des douanes.
+la direction générale des finances publiques et comme en matière de douane si la
+taxe est recouvrée par les receveurs des douanes.

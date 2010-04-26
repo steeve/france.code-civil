@@ -3,11 +3,11 @@ Article L152
 Les agents des administrations fiscales communiquent aux organismes et services
 chargés de la gestion d'un régime obligatoire de sécurité sociale, de
 l'attribution de la protection complémentaire en matière de santé visée à
-l'article L. 861-1 du code de la sécurité sociale, à la direction générale de la
-comptabilité publique, aux institutions mentionnées au chapitre Ier du titre II
-du livre IX du code de la sécurité sociale ainsi qu'à l'institution mentionnée à
-l'article L. 5312-1 du code du travail les informations nominatives nécessaires
-:
+l'article L. 861-1 du code de la sécurité sociale, aux services chargés de la
+gestion et du paiement des pensions aux fonctionnaires de l'Etat et assimilés,
+aux institutions mentionnées au chapitre Ier du titre II du livre IX du code de
+la sécurité sociale ainsi qu'à l'institution mentionnée à l'article L. 5312-1 du
+code du travail les informations nominatives nécessaires :
 
 1° à l'appréciation des conditions d'ouverture et de maintien des droits aux
 prestations ;
@@ -42,4 +42,4 @@ qu'aux organismes de protection sociale les faits susceptibles de constituer des
 infractions qu'ils relèvent en ce qui concerne l'application des lois et
 règlements relatifs au régime général, au régime des travailleurs indépendants
 non agricoles, aux régimes spéciaux, au régime agricole de sécurité sociale ou à
-l'assurance chômage .
+l'assurance chômage.

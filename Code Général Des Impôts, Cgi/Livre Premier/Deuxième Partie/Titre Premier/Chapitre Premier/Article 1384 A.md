@@ -89,9 +89,10 @@ prévues aux articles L. 615-1 à L. 615-5 du code de la construction et de
 l'habitation, la durée d'exonération mentionnée au I est prolongée de cinq ans.
 
 Avant le 31 décembre de chaque année, la commission mentionnée à l'article L.
-615-1 du code de la construction et de l'habitation adresse à la direction des
-services fiscaux du lieu de situation de ces logements la liste des logements et
-de leurs propriétaires répondant aux conditions mentionnées au premier alinéa.
+615-1 du code de la construction et de l'habitation adresse à l'autorité
+compétente de l'Etat du lieu de situation de ces logements la liste des
+logements et de leurs propriétaires répondant aux conditions mentionnées au
+premier alinéa.
 
 III.-Les constructions de logements neufs affectés à l'habitation principale
 faisant l'objet d'un contrat de location-accession en application de la loi n°

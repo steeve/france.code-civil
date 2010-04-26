@@ -3,9 +3,10 @@ Article L142-4
 Toute aliénation mentionnée à l'article L. 142-3 est subordonnée, à peine de
 nullité, à une déclaration préalable adressée par le propriétaire au président
 du conseil général du département dans lequel sont situés les biens ; ce dernier
-en transmet copie au directeur des services fiscaux. Cette déclaration comporte
-obligatoirement l'indication du prix et des conditions de l'aliénation projetée
-ou, en cas d'adjudication, l'estimation du bien ou sa mise à prix.
+en transmet copie au directeur départemental des finances publiques. Cette
+déclaration comporte obligatoirement l'indication du prix et des conditions de
+l'aliénation projetée ou, en cas d'adjudication, l'estimation du bien ou sa mise
+à prix.
 
 Lorsque la contrepartie de l'aliénation fait l'objet d'un paiement en nature, la
 déclaration doit mentionner le prix d'estimation de cette contrepartie.

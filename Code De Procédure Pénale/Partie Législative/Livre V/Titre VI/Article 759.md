@@ -5,9 +5,9 @@ ou en faire cesser les effets soit en payant ou consignant une somme suffisante
 pour éteindre leur dette, soit en fournissant une caution reconnue bonne et
 valable.
 
-La caution est admise par le receveur des finances. En cas de contestation, elle
-est déclarée, s'il y a lieu, bonne et valable par le président du tribunal de
-grande instance agissant par voie de référé.
+La caution est admise par le comptable public compétent. En cas de contestation,
+elle est déclarée, s'il y a lieu, bonne et valable par le président du tribunal
+de grande instance agissant par voie de référé.
 
 La caution doit se libérer dans le mois, faute de quoi elle peut être
 poursuivie.
