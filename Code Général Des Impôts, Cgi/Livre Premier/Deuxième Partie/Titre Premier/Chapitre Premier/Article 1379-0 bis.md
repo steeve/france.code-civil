@@ -8,8 +8,7 @@ propriétés non bâties, la taxe additionnelle à la taxe foncière sur les
 propriétés non bâties prévue à l'article 1519 I, ainsi que la taxe d'habitation
 selon le régime fiscal prévu à l'article 1609 nonies C :
 
-1° Les communautés urbaines, à l'exception de celles mentionnées au 1° du II du
-présent article ;
+1° Les communautés urbaines, à l'exception de celles mentionnées au 1° du II ;
 
 2° Les communautés d'agglomération ;
 
@@ -36,20 +35,19 @@ l'article 1609 quinquies BA :
 l'application, à compter du 1er janvier 2002, de l'article 1609 nonies C ;
 
 2° Les communautés de communes dont le nombre d'habitants est inférieur ou égal
-à 500 000, à l'exception de celles mentionnées au 3° du I du présent article.
+à 500 000, à l'exception de celles mentionnées au 3° du I.
 
 III. ― 1. Peuvent percevoir la cotisation foncière des entreprises et la
 cotisation sur la valeur ajoutée des entreprises selon le régime fiscal prévu au
 I de l'article 1609 quinquies C :
 
-1° Les communautés urbaines mentionnées au 1° du II du présent article qui ont
-opté pour ce régime avant la date de publication de la loi n° 99-586 du 12
-juillet 1999 précitée ;
+1° Les communautés urbaines mentionnées au 1° du II qui ont opté pour ce régime
+avant la date de publication de la loi n° 99-586 du 12 juillet 1999 précitée ;
 
-2° Les communautés de communes mentionnées au 2° du II du présent article ayant
-créé, créant ou gérant une zone d'activités économiques qui se situe sur le
-territoire d'une ou de plusieurs communes membres, sur délibération prise à la
-majorité simple des membres de leur conseil.
+2° Les communautés de communes mentionnées au 2° du II ayant créé, créant ou
+gérant une zone d'activités économiques qui se situe sur le territoire d'une ou
+de plusieurs communes membres, sur délibération prise à la majorité simple des
+membres de leur conseil.
 
 Pour les communautés de communes créées, ou issues de la transformation d'un
 établissement public de coopération intercommunale préexistant, à compter de la
@@ -63,12 +61,12 @@ Le régime prévu au présent 1 est applicable aux communautés de communes issu
 dans les conditions prévues au II de l'article 51 de la loi n° 99-586 du 12
 juillet 1999 précitée, de districts ayant opté pour ces mêmes dispositions.
 
-2. Les communautés de communes mentionnées au 2° du II du présent article
-peuvent, sur délibération prise à la majorité simple des membres de leur
-conseil, faire application du II de l'article 1609 quinquies C.
+2. Les communautés de communes mentionnées au 2° du II peuvent, sur délibération
+prise à la majorité simple des membres de leur conseil, faire application du II
+de l'article 1609 quinquies C.
 
 IV. ― Les établissements publics de coopération intercommunale mentionnés aux II
-et III du présent article peuvent opter pour le régime fiscal prévu au I.
+et III peuvent opter pour le régime fiscal prévu au I.
 
 Cette décision doit être prise par l'organe délibérant de l'établissement public
 de coopération intercommunale à la majorité simple de ses membres avant le 31
@@ -84,10 +82,10 @@ l'établissement public et des communes concernées prises dans les conditions
 prévues au I de l'article 1639 A bis.
 
 Les établissements publics de coopération intercommunale mentionnés aux II et
-III du présent article peuvent, selon les modalités prévues à l'alinéa
-précédent, se substituer à leurs communes membres pour les dispositions
-relatives aux composantes de l'imposition forfaitaire sur les entreprises de
-réseaux prévues aux articles 1519 E, 1519 F, 1519 G et 1519 H.
+III peuvent, selon les modalités prévues au premier alinéa , se substituer à
+leurs communes membres pour les dispositions relatives aux composantes de
+l'imposition forfaitaire sur les entreprises de réseaux prévues aux articles
+1519 E, 1519 F, 1519 G et 1519 H.
 
 Les établissements publics de coopération intercommunale mentionnés au deuxième
 alinéa peuvent se substituer à leurs communes membres pour les dispositions
@@ -107,29 +105,27 @@ de la compétence prévue à l'article L. 2224-13 du code général des collecti
 territoriales et assurant au moins la collecte des déchets des ménages.
 
 Les communautés de communes peuvent instituer la taxe d'enlèvement des ordures
-ménagères, dès la première année d'application du 2° du II du présent article,
-jusqu'au 31 mars, dès lors que les communes qui ont décidé de la création de la
-communauté de communes, à l'exclusion de toute autre, étaient antérieurement
-associées dans un même syndicat de communes percevant une taxe d'enlèvement des
-ordures ménagères.
+ménagères, dès la première année d'application du 2° du II, jusqu'au 31 mars,
+dès lors que les communes qui ont décidé de la création de la communauté de
+communes, à l'exclusion de toute autre, étaient antérieurement associées dans un
+même syndicat de communes percevant une taxe d'enlèvement des ordures ménagères.
 
-2. Par dérogation au 1 du présent VI, les établissements publics de coopération
-intercommunale à fiscalité propre ainsi que les communautés ou syndicats
-d'agglomération nouvelle qui exercent la totalité de la compétence prévue à
-l'article L. 2224-13 du code général des collectivités territoriales et qui
-adhèrent, pour l'ensemble de cette compétence, à un syndicat mixte, peuvent
-décider :
+2. Par dérogation au 1, les établissements publics de coopération intercommunale
+à fiscalité propre ainsi que les communautés ou syndicats d'agglomération
+nouvelle qui exercent la totalité de la compétence prévue à l'article L. 2224-13
+du code général des collectivités territoriales et qui adhèrent, pour l'ensemble
+de cette compétence, à un syndicat mixte, peuvent décider :
 
 a) Soit d'instituer, avant le 1er octobre d'une année conformément à l'article
-1639 A bis du présent code, et de percevoir la taxe d'enlèvement des ordures
-ménagères pour leur propre compte, en déterminant, le cas échéant, les
-différentes zones de perception, dans le cas où le syndicat mixte ne l'aurait
-pas instituée avant le 1er juillet de la même année par dérogation au même
-article 1639 A bis ; lorsque le syndicat mixte décide postérieurement
-d'instituer la taxe ou la redevance prévue à l'article L. 2333-76 du code
-général des collectivités territoriales, la délibération prise par le syndicat
-ne s'applique pas sur le territoire de l'établissement public de coopération
-intercommunale sauf si ce dernier rapporte sa délibération ;
+1639 A bis, et de percevoir la taxe d'enlèvement des ordures ménagères pour leur
+propre compte, en déterminant, le cas échéant, les différentes zones de
+perception, dans le cas où le syndicat mixte ne l'aurait pas instituée avant le
+1er juillet de la même année par dérogation au même article 1639 A bis ; lorsque
+le syndicat mixte décide postérieurement d'instituer la taxe ou la redevance
+prévue à l'article L. 2333-76 du code général des collectivités territoriales,
+la délibération prise par le syndicat ne s'applique pas sur le territoire de
+l'établissement public de coopération intercommunale sauf si ce dernier rapporte
+sa délibération ;
 
 b) Soit de percevoir cette taxe en lieu et place du syndicat mixte qui l'aurait
 instituée sur l'ensemble du périmètre syndical.

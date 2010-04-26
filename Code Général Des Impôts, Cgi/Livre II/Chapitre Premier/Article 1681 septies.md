@@ -16,10 +16,10 @@ fiscale dans des conditions fixées par décret.
 3. Le paiement de la cotisation sur la valeur ajoutée des entreprises est
 effectué par télérèglement.
 
-3. Les paiements mentionnés à l'article 1668 sont effectués par télérèglement
+4. Les paiements mentionnés à l'article 1668 sont effectués par télérèglement
 lorsque le chiffre d'affaires hors taxes réalisé par l'entreprise au titre de
-l'exercice précédent est supérieur à 500 000 EUR.
+l'exercice précédent est supérieur à 500 000 euros.
 
-4. Les redevables astreints au paiement de l'impôt sur les sociétés selon les
-modalités visées au 3 acquittent la taxe sur les salaires mentionnée à l'article
-231 par télérèglement.
+5. Les redevables astreints au paiement de l'impôt sur les sociétés selon les
+modalités mentionnées au 4 acquittent la taxe sur les salaires mentionnée à
+l'article 231 par télérèglement.
