@@ -137,13 +137,13 @@ d'industrie dissoutes dont les taux faisaient l'objet d'un processus de
 réduction des écarts.
 
 3. Pour les chambres de commerce et d'industrie faisant application en 2004 du
-IV dans sa rédaction en vigueur avant la publication de la loi de finances
-rectificative pour 2004 précitée, l'écart constaté entre le taux de la taxe
-additionnelle à la cotisation foncière des entreprises voté par la chambre de
-commerce et d'industrie issue de la dissolution d'une ou plusieurs chambres et
-le taux de cette taxe appliqué en 2004 sur le territoire des chambres dissoutes
-est réduit, chaque année, par parts égales, en proportion du nombre d'années
-restant à courir.
+IV dans sa rédaction en vigueur avant la publication de la loi n° 2004-1485 du
+30 décembre 2004 de finances rectificative pour 2004, l'écart constaté entre le
+taux de la taxe additionnelle à la cotisation foncière des entreprises voté par
+la chambre de commerce et d'industrie issue de la dissolution d'une ou plusieurs
+chambres et le taux de cette taxe appliqué en 2004 sur le territoire des
+chambres dissoutes est réduit, chaque année, par parts égales, en proportion du
+nombre d'années restant à courir.
 
 Pour l'application du premier alinéa, le taux appliqué en 2004 est celui qui
 résulte des dispositions du 2 du IV dans sa rédaction en vigueur avant la

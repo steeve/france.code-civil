@@ -154,8 +154,8 @@ d'une actualisation correspondant aux redressements opérés par les services
 fiscaux au titre de la taxe professionnelle de 2010, pendant le délai de reprise
 visé à l'article L. 174 du livre des procédures fiscales.
 
-IV. - Pour l'application des 1 et 2 du II du présent article, les bases de taxe
-professionnelle des communes et établissements publics de coopération
-intercommunale s'entendent comme incluant les bases antérieurement écrêtées en
-application des articles 1648 A et 1648 AA du code général des impôts dans leur
-rédaction en vigueur au 31 décembre 2009.
+IV. - Pour l'application des 1 et 2 du II, les bases de taxe professionnelle des
+communes et établissements publics de coopération intercommunale s'entendent
+comme incluant les bases antérieurement écrêtées en application des articles
+1648 A et 1648 AA du code général des impôts dans leur rédaction en vigueur au
+31 décembre 2009.

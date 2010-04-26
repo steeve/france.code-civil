@@ -22,5 +22,4 @@ Ces dispositions sont applicables, sous les mêmes conditions, aux sociétés
 imposées dans les conditions prévues au 4° de l'article 8.
 
 Pour l'appréciation du nombre de salariés, la période de référence à retenir est
-l'année mentionnée à l'article 1467 A, pour les impositions établies au titre de
-1997 et des années suivantes.
+l'année mentionnée à l'article 1467 A.

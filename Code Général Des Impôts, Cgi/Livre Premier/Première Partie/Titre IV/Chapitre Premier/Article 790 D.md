@@ -1,7 +1,7 @@
 Article 790 D
 ----
 Pour la perception des droits de mutation à titre gratuit entre vifs, il est
-effectué un abattement de 5 212 euros sur la part de chacun des
+effectué un abattement de 5232 € sur la part de chacun des
 arrière-petits-enfants du donateur.
 
 Le montant de l'abattement prévu au premier alinéaest actualisé, le 1er janvier

@@ -40,11 +40,11 @@ par la société entre la date de la déclaration d'ouverture de chantier prévu
 l'article R. 424-16 du code de l'urbanisme et celle de l'acquisition de leurs
 parts par les personnes concernées, sous réserve :
 
-- que les parts sociales aient été acquises au plus tard le 31 décembre de la
+a. - que les parts sociales aient été acquises au plus tard le 31 décembre de la
 deuxième année qui suit celle de la déclaration de chantier précitée ;
 
-- et que ces charges aient été intégralement remboursées à la société agréée, à
-proportion de leurs parts, par les associés personnes physiques.
+b. - et que ces charges aient été intégralement remboursées à la société agréée,
+à proportion de leurs parts, par les associés personnes physiques.
 
 III. ― Le cas échéant, le revenu global ou le revenu net foncier de l'année au
 cours de laquelle l'engagement mentionné au I ou au II n'est pas respecté et des

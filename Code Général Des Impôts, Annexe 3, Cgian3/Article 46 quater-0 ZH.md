@@ -2,8 +2,8 @@ Article 46 quater-0 ZH
 ----
 I. (Sans objet).
 
-II. Pour l'application des dispositions de l'article 223 F, la société mère doit
-:
+II. Pour l'application des dispositions de l'article 223 F du code général des
+impôts, la société mère doit :
 
 1. Réintégrer au résultat d'ensemble de chaque exercice une somme égale à la
 fraction de l'annuité fiscale d'amortissements pratiquée par la société

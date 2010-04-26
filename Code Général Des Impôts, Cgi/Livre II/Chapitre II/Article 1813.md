@@ -7,8 +7,8 @@ un appareil de distillation ambulant ;
 b. Toute infraction aux dispositions de l'article 306 est punie des mêmes peines
 ;
 
-c. En cas de récidive des infractions prévues aux a et b du présent article, une
-peine d'emprisonnement d'un an peut en outre être prononcée.
+c. En cas de récidive des infractions prévues aux a et b, une peine
+d'emprisonnement d'un an peut en outre être prononcée.
 
 Est considéré comme en état de récidive légale quiconque ayant été condamné pour
 un délit prévu par l'une des législations ayant pour objet la prévention, la

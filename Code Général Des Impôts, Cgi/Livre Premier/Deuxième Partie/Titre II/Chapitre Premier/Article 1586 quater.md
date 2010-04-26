@@ -49,9 +49,9 @@ suivantes sont simultanément remplies :
 
 -la somme des cotisations dues minorées des dégrèvements prévus au présent
 article, d'une part, par l'entreprise cédante, apporteuse ou scindée et, d'autre
-part, par le nouvel exploitant est inférieure, sans application de l'alinéa
-précédent, d'au moins 10 % aux impositions au titre de la cotisation sur la
-valeur ajoutée des entreprises qui auraient été dues par ces mêmes redevables en
+part, par le nouvel exploitant est inférieure, sans application du premier
+alinéa, d'au moins 10 % aux impositions au titre de la cotisation sur la valeur
+ajoutée des entreprises qui auraient été dues par ces mêmes redevables en
 l'absence de réalisation de l'opération, minorées des dégrèvements prévus au
 présent article ;
 

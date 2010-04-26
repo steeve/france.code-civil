@@ -1,16 +1,16 @@
 Article 344 C
 ----
-I. - Les contribuables doivent joindre à la déclaration prévue au 1 de l'article
+I.-Les contribuables doivent joindre à la déclaration prévue au 1 de l'article
 170 du code général des impôts une déclaration spéciale mentionnant le ou les
 contrats d'assurance vie qu'ils ont souscrits auprès des organismes mentionnés à
-l'article 1649 AA.
+l'article 1649 AA du code général des impôts.
 
-II. - La déclaration spéciale mentionnée au I porte sur le ou les contrats
+II.-La déclaration spéciale mentionnée au I porte sur le ou les contrats
 d'assurance vie souscrits hors de France, modifiés ou dénoués au cours de
 l'année civile, par le déclarant ou une personne à charge du déclarant, au sens
 des articles 196 à 196 B du code général des impôts.
 
-III. - Cette déclaration, établie sur papier libre, doit indiquer pour chaque
+III.-Cette déclaration, établie sur papier libre, doit indiquer pour chaque
 contrat :
 
 a) L'identification du souscripteur : nom, prénom, adresse, date et lieu de

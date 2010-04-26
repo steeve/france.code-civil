@@ -16,21 +16,20 @@ l'habitation, sont exonérés de taxe foncière sur les propriétés bâties pen
 la durée de ce bail. Les pertes de recettes résultant de cette exonération sont
 compensées intégralement.
 
-Au titre de l'année 2011, les taux à prendre en compte pour les départements
-pour le calcul de la compensation visée aux alinéas précédents sont les taux de
-référence relatifs à l'année 2010 définis au B du II de l'article 1640 C.
-
 Au titre de 2009, la compensation des pertes de recettes visées à l'alinéa
 précédent est minorée par application d'un taux correspondant à l'écart entre le
 montant total versé en 2008 au titre de l'ensemble des compensations mentionnées
 aux I à X de l'article 48 de la loi n° 2008-1425 du 27 décembre 2008 de finances
 pour 2009 et le montant total de ces mêmes compensations prévu à cette fin pour
-2009 par le XI de ce même article.
+2009 par le XI de ce même article. ¶ ¶ Au titre de 2010, la compensation
+calculée selon les dispositions qui précèdent et à laquelle est appliqué le taux
+d'évolution fixé au titre de 2009 est minorée par application d'un taux
+correspondant à l'écart entre le montant total à verser en 2009 au titre de
+l'ensemble des compensations mentionnées aux I à VIII de l'article 47 de la loi
+n° 2009-1673 du 30 décembre 2009 de finances pour 2010 et le montant total de
+ces mêmes compensations prévu à cette fin pour 2010 par le IX de ce même
+article. ¶
 
-Au titre de 2010, la compensation calculée selon les dispositions qui précèdent
-et à laquelle est appliqué le taux d'évolution fixé au titre de 2009 est minorée
-par application d'un taux correspondant à l'écart entre le montant total à
-verser en 2009 au titre de l'ensemble des compensations mentionnées aux I à VIII
-de l'article 47 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010
-et le montant total de ces mêmes compensations prévu à cette fin pour 2010 par
-le IX de ce même article.
+Au titre de l'année 2011, les taux à prendre en compte pour les départements
+pour le calcul de la compensation visée aux alinéas précédents sont les taux de
+référence relatifs à l'année 2010 définis au B du II de l'article 1640 C.

@@ -19,9 +19,9 @@ Les paiements doivent être effectués au plus tard les 15 mars, 15 juin, 15
 septembre et 15 décembre de chaque année.
 
 Les organismes mentionnés au premier alinéa du 1 bis de l'article 206 et dont le
-chiffre d'affaires du dernier exercice clos est inférieur à 84 000 euros ainsi
-que les personnes morales ou organismes imposés au taux de l'impôt sur les
-sociétés prévus à l'article 219 bis sont dispensés du versement des acomptes.
+chiffre d'affaires du dernier exercice clos est inférieur à 84 000 € ainsi que
+les personnes morales ou organismes imposés au taux de l'impôt sur les sociétés
+prévu à l'article 219 bis sont dispensés du versement des acomptes.
 
 Toutefois, le montant du dernier acompte versé au titre d'un exercice ne peut
 être inférieur :

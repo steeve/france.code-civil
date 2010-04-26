@@ -21,8 +21,8 @@ fondations d'entreprise, les fonds de dotation et les congrégations, dont la
 gestion est désintéressée, lorsque leurs activités non lucratives restent
 significativement prépondérantes et le montant de leurs recettes d'exploitation
 encaissées au cours de l'année civile au titre de leurs activités lucratives
-n'excède pas 60 000 euros. Sont réputées lucratives les activités de gestion et
-de capitalisation, par les fonds de dotation, de dons, droits et legs dont les
+n'excède pas 60 000 €. Sont réputées lucratives les activités de gestion et de
+capitalisation, par les fonds de dotation, de dons, droits et legs dont les
 fruits sont versés à des organismes autres que ceux mentionnés au présent alinéa
 ou à des organismes publics pour l'exercice d'activités lucratives.
 
@@ -100,7 +100,7 @@ sociétés immobilières de copropriété visées à l'article 1655 ter ;
 
 b. Les revenus de l'exploitation des propriétés agricoles ou forestières ;
 
-c. Des revenus de capitaux mobiliers dont ils disposent, lorsque ces revenus
+c. les revenus de capitaux mobiliers dont ils disposent, lorsque ces revenus
 n'entrent pas dans le champ d'application de la retenue à la source visée à
 l'article 119 bis ; ces revenus sont comptés dans le revenu imposable pour leur
 montant brut ;
@@ -117,7 +117,7 @@ prévues au 5.
 
 5 ter. (Transféré au VIII de l'article 209)
 
-6. 1° L'organe central du crédit agricole, les caisses régionales de crédit
+6.1° L'organe central du crédit agricole, les caisses régionales de crédit
 agricole mutuel mentionnées à l'article L. 512-21 du code monétaire et financier
 et les caisses locales de crédit agricole mutuel affiliées à ces dernières sont
 assujetties à l'impôt sur les sociétés dans les conditions de droit commun.

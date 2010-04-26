@@ -15,16 +15,9 @@ des redevances sanitaires exigibles est inférieur à 1 830 euros, il est admis
 que les redevables déposent leurs déclarations et s'acquittent de la redevance
 avant le 25 du mois suivant chaque trimestre civil.
 
-II. - Le poids de viande fraîche net mentionné au 1 du I de l'article 302 bis WC
-du code général des impôts s'entend de celui retenu pour l'assiette de la
-redevance sanitaire de découpage prévue à l'article 302 bis S dudit code.
+II. - (sans objet)
 
-III. - Les opérations mentionnées au 2 du I de l'article 302 bis WC du code
-général des impôts s'entendent des opérations de mareyage consistant en la
-modification de l'intégrité anatomique, telle que l'éviscération, l'étêtage, le
-filetage, le hachage ou des opérations de transformation consistant en
-l'application d'un procédé physique ou chimique, tel que le chauffage, le
-salage, la dessiccation, le marinage.
+III. - (sans objet)
 
 IV. - Les saisies pratiquées par les services d'inspection sanitaire et les
 exportations ou les expéditions vers les Etats membres de la Communauté

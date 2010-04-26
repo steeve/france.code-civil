@@ -37,9 +37,9 @@ application de l'article 1466 F fait l'objet, à la demande de l'entreprise, d'u
 abattement de même taux, dans la limite de 2 millions d'euros de valeur ajoutée.
 
 V. - Le bénéfice des exonérations de cotisation sur la valeur ajoutée des
-entreprises prévues aux I à III du présent article et de l'abattement prévu au
-IV est perdu lorsque les conditions de l'exonération ou de l'abattement
-correspondant de cotisation foncière des entreprises ne sont plus réunies.
+entreprises prévues aux I à III et de l'abattement prévu au IV est perdu lorsque
+les conditions de l'exonération ou de l'abattement correspondant de cotisation
+foncière des entreprises ne sont plus réunies.
 
 Le bénéfice de l'exonération de cotisation sur la valeur ajoutée des entreprises
 est, le cas échéant, subordonné au respect du même règlement communautaire que

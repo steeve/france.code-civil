@@ -28,15 +28,14 @@ dans les conditions prévues au 1 du II de l'article 1639 A bis, de l'applicatio
 de ce dispositif et de la délimitation des zones sur lesquelles des taux
 différents sont votés.
 
-3. Pour l'application du 2 du présent article :
+3. Pour l'application du 2 :
 
 a) Pour les établissements publics de coopération intercommunale qui perçoivent
 la taxe dans les conditions prévues au b du 2 du VI de l'article 1379-0 bis, le
 syndicat mixte définit, dans les conditions prévues au 1 du II de l'article 1639
 A bis, les zones de perception de la taxe en fonction de l'importance du service
 rendu. Il décide, dans les mêmes conditions, de l'application du second alinéa
-du 2 du présent article et du périmètre sur lequel ce dispositif est mis en
-œuvre ;
+du 2 et du périmètre sur lequel ce dispositif est mis en œuvre ;
 
 b) La période durant laquelle des taux différents peuvent être votés en
 application du second alinéa du 2 s'applique à compter du 1er janvier 2005 pour

@@ -32,15 +32,14 @@ compte de celui-ci, l'impôt est dû par le représentant fiscal du vendeur
 mentionné à l'article 302 V bis, lors de la réception des produits.
 
 III. ― A défaut de déclaration préalable ou de mise en place d'une garantie
-conformément aux dispositions des I et II du présent article et de l'article 302
-V bis, les droits d'accise sont exigibles dès la réception des produits, sauf si
-la preuve est apportée de la régularité de l'opération ou s'il est établi que
-l'infraction qui a entraîné la constatation de manquants a été commise hors de
-France.
+conformément aux dispositions des I et II et de l'article 302 V bis, les droits
+d'accise sont exigibles dès la réception des produits, sauf si la preuve est
+apportée de la régularité de l'opération ou s'il est établi que l'infraction qui
+a entraîné la constatation de manquants a été commise hors de France.
 
 Dans ces cas, l'impôt est dû :
 
-a) Par les personnes mentionnées au I du présent article ;
+a) Par les personnes mentionnées au I ;
 
 b) Dans le cas mentionné au II, par le représentant fiscal mentionné à l'article
 302 V bis ou, à défaut, par le destinataire des produits soumis à accises.

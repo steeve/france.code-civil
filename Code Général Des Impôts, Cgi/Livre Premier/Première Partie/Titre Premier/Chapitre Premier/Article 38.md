@@ -1,6 +1,6 @@
 Article 38
 ----
-1. Sous réserve des dispositions des articles 33 ter,40 à 43 bis et 151 sexies,
+1. Sous réserve des dispositions des articles 33 ter, 40 à 43 bis et 151 sexies,
 le bénéfice imposable est le bénéfice net, déterminé d'après les résultats
 d'ensemble des opérations de toute nature effectuées par les entreprises, y
 compris notamment les cessions d'éléments quelconques de l'actif, soit en cours,
@@ -10,7 +10,7 @@ soit en fin d'exploitation.
 net à la clôture et à l'ouverture de la période dont les résultats doivent
 servir de base à l'impôt diminuée des suppléments d'apport et augmentée des
 prélèvements effectués au cours de cette période par l'exploitant ou par les
-associés. L'actif net s'entend de l'excédent des valeurs d'actif sur le total
+associés.L'actif net s'entend de l'excédent des valeurs d'actif sur le total
 formé au passif par les créances des tiers, les amortissements et les provisions
 justifiés.
 
@@ -57,10 +57,10 @@ Lorsque des établissements de crédit ou des entreprises d'investissement
 mentionnés au premier alinéa de l'article 38 bis A évaluent les titre libellés
 en monnaie étrangère à la clôture de chaque exercice en fonction du dernier
 cours de change connu, les écarts de conversion constatés sont pris en compte
-pour la détermination du résultat imposable de l'exercice. A la clôture de
-chaque exercice, le prix de revient des titres est augmenté ou diminué, selon
-les cas, des écarts de conversion mentionnés à ce même alinéa. Toutefois,
-lorsque les établissements ou les entreprises concernés détiennent des titres
+pour la détermination du résultat imposable de l'exercice.A la clôture de chaque
+exercice, le prix de revient des titres est augmenté ou diminué, selon les cas,
+des écarts de conversion mentionnés à ce même alinéa. Toutefois, lorsque les
+établissements ou les entreprises concernés détiennent des titres
 d'investissement mentionnés à l'article 38 bis B et des titres de participation,
 libellés en monnaie étrangère et dont l'acquisition a été financée en francs ou
 en euros, les écarts de conversion mentionnés au présent alinéa et constatés sur
@@ -100,10 +100,10 @@ premier alinéa au titre du premier exercice clos à compter de la même date.
 4 bis. Pour l'application des dispositions du 2, pour le calcul de la différence
 entre les valeurs de l'actif net à la clôture et à l'ouverture de l'exercice,
 l'actif net d'ouverture du premier exercice non prescrit déterminé, sauf
-dispositions particulières, conformément aux premier et deuxième alinéas de
-l'article L. 169 du livre des procédures fiscales ne peut être corrigé des
-omissions ou erreurs entraînant une sous-estimation ou surestimation de
-celui-ci.
+dispositions particulières, conformément aux premier, deuxième et troisième
+alinéas de l'article L. 169 du livre des procédures fiscales ne peut être
+corrigé des omissions ou erreurs entraînant une sous-estimation ou surestimation
+de celui-ci.
 
 Les dispositions du premier alinéa ne s'appliquent pas lorsque l'entreprise
 apporte la preuve que ces omissions ou erreurs sont intervenues plus de sept ans
@@ -131,7 +131,7 @@ l'entreprise.
 répartition, prévue au 9 de l'article L. 214-36 du code monétaire et financier
 d'une fraction des actifs d'un fonds commun de placement à risques qui remplit
 les conditions prévues au II ou au III bis de l'article 163 quinquies B, sont
-affectées en priorité au remboursement des apports. L'excédent des sommes
+affectées en priorité au remboursement des apports.L'excédent des sommes
 réparties sur le montant des apports ou sur le prix d'acquisition des parts s'il
 est différent du montant des apports est compris dans le résultat imposable de
 l'exercice au cours duquel cet excédent apparaît. Il est soumis au régime fiscal
@@ -223,8 +223,8 @@ prises sur la même place, ou qu'elles aient la même durée.
 
 Les positions symétriques prises au cours de l'exercice et celles qui sont en
 cours à la clôture doivent être mentionnées sur un document annexé à la
-déclaration de résultats de l'exercice. A défaut, la perte sur une position
-n'est pas déductible du résultat imposable.
+déclaration de résultats de l'exercice.A défaut, la perte sur une position n'est
+pas déductible du résultat imposable.
 
 7. Le profit ou la perte résultant de l'échange d'actions effectué dans le cadre
 d'une offre publique d'échange, de la conversion ou de l'échange d'obligations
@@ -374,9 +374,9 @@ dérogation aux 1 et 2 du présent article ;
 2° Toutefois, les dispositions du dix-septième alinéa du 5° du 1 de l'article 39
 sont applicables à la fraction de la provision constituée à raison de l'écart
 d'équivalence négatif, qui correspond à la dépréciation définie au dix-huitième
-alinéa du 5° du 1 de l'article 39, des titres évalués selon cette méthode.
-L'excédent éventuel de cette provision n'est pas déductible pour l'assiette de
-l'impôt.
+alinéa du 5° du 1 de l'article 39, des titres évalués selon cette
+méthode.L'excédent éventuel de cette provision n'est pas déductible pour
+l'assiette de l'impôt.
 
 Les provisions qui sont transférées au poste d'écart d'équivalence ainsi que
 celles devenues sans objet en raison de l'application de la méthode d'évaluation

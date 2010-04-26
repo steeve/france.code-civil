@@ -11,10 +11,7 @@ taux suivants :
 et, d'autre part, la population de l'ensemble des communes mentionnées au
 premier alinéa. Le chiffre de la population pris en compte est celui de la
 population totale mentionnée à l'article R. 2151-1 du code général des
-collectivités territoriales et majoré, le cas échéant, de la population
-résultant conformément aux dispositions des articles R. 2151-4 à R. 2151-7 du
-même code d'opérations de recensements complémentaires et d'attribution de
-population fictive ;
+collectivités territoriales ;
 
 2° Le taux résultant du rapport entre, d'une part, l'inverse de la distance
 entre le point du territoire de la commune le plus proche d'une unité de

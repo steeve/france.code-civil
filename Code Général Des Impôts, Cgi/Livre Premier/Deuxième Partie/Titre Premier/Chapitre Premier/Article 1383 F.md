@@ -8,8 +8,8 @@ implantés au 1er janvier de l'année d'imposition dans une zone visée au I de
 l'article 24 de la loi de finances pour 2005 (n° 2004-1484 du 30 décembre 2004),
 appartenant, à la même date, à une personne qui les affecte à une activité
 remplissant, au cours de la période de référence mentionnée à l'article 1467 A,
-les conditions pour bénéficier de l'exonération de taxe professionnelle prévue à
-l'article 1466 E.
+les conditions pour bénéficier de l'exonération de cotisation foncière des
+entreprises prévue à l'article 1466 E.
 
 L'exonération porte sur la totalité de la part revenant à chaque collectivité ou
 établissement public de coopération intercommunale doté d'une fiscalité propre.

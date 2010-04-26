@@ -1,6 +1,6 @@
 Article 302 bis R
 ----
-Un décret fixe les conditions d'application des articles 302 bis N à 302 bis P .
+Un décret fixe les conditions d'application des articles 302 bis N à 302 bis P.
 Il détermine notamment les critères et modalités de modulation de la redevance,
 en particulier le classement des abattoirs, selon les dispositions posées par
 les règlements communautaires (CE) n° 852/2004 du Parlement européen et du

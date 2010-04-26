@@ -1,6 +1,6 @@
 Article 344 M
 ----
-La déclaration d'existence de la fiducie prévue à l'article 223 VH du code
+La déclaration d'existence de la fiducie prévue à l'article 238 quater L du code
 général des impôts est déposée dans les quinze jours de sa création auprès du
 service des impôts des entreprises du siège ou du lieu du principal
 établissement du fiduciaire ou, en cas de pluralité de fiduciaires, de celui

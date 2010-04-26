@@ -4,12 +4,12 @@ I. Les exploitants agricoles assujettis à la taxe sur la valeur ajoutée
 acquittent cette taxe par acomptes trimestriels égaux, au minimum, au cinquième
 de l'impôt dû au titre de l'année précédente ou du dernier exercice clos. Le
 complément d'impôt éventuellement exigible au vu de la déclaration annuelle
-visée au 1° du I de l'article 298 bis est versé lors du dépôt de celle-ci.S'il
+visée au 1° du I de l'article 298 bis est versé lors du dépôt de celle-ci. S'il
 estime que les acomptes déjà payés au titre de l'année ou de l'exercice
 atteignent le montant de l'impôt dont il sera finalement redevable, l'exploitant
 peut surseoir au paiement des acomptes suivants. Si le montant de l'impôt est
 supérieur de plus de 30 % au montant des acomptes versés, l'intérêt de retard
-prévu à l'article 1727 et la majoration prévue par l'article 1731 sont
+prévu à l'article 1727 et la majoration prévue à l'article 1731 sont
 applicables.
 
 La taxe est également exigible au vu de la déclaration prévue à la dernière
@@ -20,7 +20,7 @@ par cette déclaration.
 Les exploitants agricoles sont dispensés du versement d'acomptes lorsque la taxe
 due au titre de l'année civile précédente ou du dernier exercice clos, avant
 déduction de la taxe sur la valeur ajoutée relative aux biens constituant des
-immobilisations, est inférieure à 1 000 euros.
+immobilisations, est inférieure à 1 000 €.
 
 Toutefois, les exploitants agricoles peuvent, sur option quinquennale de leur
 part, acquitter l'impôt au vu de déclarations trimestrielles ou mensuelles

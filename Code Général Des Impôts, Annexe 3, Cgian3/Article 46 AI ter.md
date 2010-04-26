@@ -10,8 +10,9 @@ l'innovation. Cette déclaration intervient dans le mois qui suit la création o
 la transformation du fonds.
 
 II. La société de gestion du fonds ou le dépositaire des actifs de ce fonds est
-soumis aux obligations définies aux articles 41 sexdecies A à 41 sexdecies F,
-280 A et R. 87-1 du livre des procédures fiscales.
+soumis aux obligations définies aux articles 41 sexdecies A à 41 sexdecies F et
+280 A de la présente annexe ainsi qu'à l'articleR. 87-1 du livre des procédures
+fiscales.
 
 III. En cas de cession ou de rachat de parts, de dissolution du fonds ou de
 distribution d'une partie de ses avoirs, la société de gestion du fonds ou le

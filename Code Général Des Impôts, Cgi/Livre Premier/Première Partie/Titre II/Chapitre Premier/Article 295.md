@@ -31,7 +31,7 @@ taxes non perçues lors de l'acquisition sont exigibles à première réquisitio
 
 a. Les importations de matières premières et produits dont la liste est fixée
 par arrêtés conjoints du ministre de l'économie et des finances et du ministre
-d'Etat chargé des départements d'outre-mer ;
+chargé des départements d'outre-mer ;
 
 b. Les ventes et les livraisons à soi-même des produits de fabrication locale
 analogues à ceux dont l'importation dans les départements susvisés est exemptée
@@ -49,21 +49,4 @@ Martinique et de la Réunion.
 
 3. (Abrogé).
 
-4. 1° Dans les départements d'outre-mer, sont exonérés de la taxe sur la valeur
-ajoutée, sous réserve qu'ils répondent aux conditions qui sont fixées par arrêté
-conjoint du ministre de l'économie et des finances, du ministre chargé de
-l'outre-mer et du ministre de l'équipement et du logement, et à compter de la
-mise en service de leurs installations :
-
-a. Pendant une durée de dix ans, les entreprises qui, avant le 1er janvier 1978,
-procèdent à la création d'un nouvel établissement hôtelier ou à l'extension de
-leur capacité d'hébergement, ainsi que les villages de vacances qui se créent ou
-qui augmentent leur capacité d'hébergement avant la même date ;
-
-b. Pendant une durée de six ans, les restaurants créés avant le 1er janvier
-1978.
-
-2° En cas d'extension des capacités d'hébergement des entreprises visées au
-1°-a, l'exonération est déterminée forfaitairement au prorata du nombre des
-chambres ou des lits nouveaux par rapport au nombre total des chambres ou des
-lits après extension.
+4. (Périmé).

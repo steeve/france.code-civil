@@ -12,8 +12,9 @@ le label délivré par la Fondation du patrimoine en application de l'article L.
 public des espaces concernés, sauf exception justifiée par la fragilité du
 milieu naturel.
 
-La réduction d'impôt s'applique aux dépenses mentionnées au présent I ayant reçu
-un avis favorable du service de l'Etat compétent en matière d'environnement.
+La réduction d'impôt s'applique aux dépenses mentionnées au premier alinéa ayant
+reçu un avis favorable du service de l'Etat compétent en matière
+d'environnement.
 
 II.-La réduction d'impôt est égale à 25 % des dépenses mentionnées au I
 effectivement supportées au titre de l'année d'imposition et restant à la charge

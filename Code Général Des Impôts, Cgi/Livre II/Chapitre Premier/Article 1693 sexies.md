@@ -2,7 +2,7 @@ Article 1693 sexies
 ----
 Les redevables de la taxe prévue à l'article 302 bis KH acquittent cette taxe
 par acomptes mensuels ou trimestriels au moins égaux, respectivement, au
-douzième ou au quart du montant de la taxe due au titre l'année civile
+douzième ou au quart du montant de la taxe due au titre de l'année civile
 précédente.
 
 Le complément de taxe exigible au vu de la déclaration mentionnée au V de

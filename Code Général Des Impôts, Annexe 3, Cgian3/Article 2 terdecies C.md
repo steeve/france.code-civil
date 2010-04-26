@@ -3,12 +3,12 @@ Article 2 terdecies C
 Pour l'application du l du 1° du I de l'article 31 du code général des impôts,
 les plafonds de loyer et de ressources du locataire sont les suivants :
 
-a. Pour les baux conclus en 2009, les plafonds de loyer mensuel, charges non
+a. Pour les baux conclus en 2010, les plafonds de loyer mensuel, charges non
 comprises, sont fixés aux quatre cinquièmes, arrondis au centime d'euro
 supérieur, de ceux mentionnés au premier alinéa de l'article 2 terdecies B.
 
 Pour les baux conclus à compter de la date d'entrée en vigueur du décret n°
-2009-1672 du 28 décembre 2009 , les plafonds de loyer mensuel, charges non
+2009-1672 du 28 décembre 2009, les plafonds de loyer mensuel, charges non
 comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la
 réduction d'impôt prévue à l'article 199 septvicies du code général des impôts
 sont égaux, par mètre carré de surface habitable, à 9, 5 € dans les départements
@@ -22,7 +22,7 @@ du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avi
 d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle
 de la signature du contrat de location.
 
-Pour les baux conclus en 2009, les plafonds annuels de ressources sont les
+Pour les baux conclus en 2010, les plafonds annuels de ressources sont les
 suivants :
 
 
@@ -41,79 +41,79 @@ Zone C (en €)
 
 Personne seule
 
-43 753
+44 306 €
 
-32 499
+32 910 €
 
-29 791
+30 168 €
 
-29 590
+29 964 €
 
 
 Couple
 
-65 389
+66 215 €
 
-47 725
+48 328 €
 
-43 749
+44 302 €
 
-39 771
+40 274 €
 
 
 Personne seule ou couple ayant une personne à charge
 
-78 602
+79 595 €
 
-57 135
+57 857 €
 
-52 374
+53 036 €
 
-47 612
+48 214 €
 
 
 Personne seule ou couple ayant deux personnes à charge
 
-94 153
+95 342 €
 
-69 146
+70 020 €
 
-63 384
+64 185 €
 
-57 622
+58 350 €
 
 
 Personne seule ou couple ayant trois personnes à charge
 
-111 459
+112 867 €
 
-81 156
+82 181 €
 
-74 394
+75 334 €
 
-67 630
+68 484 €
 
 
 Personne seule ou couple ayant quatre personnes à charge
 
-125 421
+127 005 €
 
-91 544
+92 700 €
 
-83 916
+84 976 €
 
-76 287
+77 251 €
 
 
 Majoration par personne à charge supplémentaire à partir de la cinquième
 
-+ 13 979
++ 14 156 €
 
-+ 10 398
++ 10 530 €
 
-+ 9 531
++ 9 652 €
 
-+ 8 664
++ 8 774 €
 
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes
 modalités que les plafonds de ressources prévus à l'article 2 duodecies.
@@ -123,16 +123,11 @@ Pour les baux conclus à compter de la date d'entrée en vigueur du décret n°
 outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199
 septvicies du code général des impôts sont les suivants :
 
-DÉPARTEMENTS D'OUTRE-MER
-
-Saint-Martin, Saint-Barthélemy, Mayotte
+DÉPARTEMENTS D'OUTRE-MER Saint-Martin, Saint-Barthélemy, Mayotte
 
 (en euros)
 
-
-POLYNÉSIE FRANÇAISE
-
-Nouvelle-Calédonie, Saint-Pierre-et-Miquelon,
+POLYNÉSIE FRANÇAISE Nouvelle-Calédonie, Saint-Pierre-et-Miquelon,
 
 îles Wallis-et-Futuna
 

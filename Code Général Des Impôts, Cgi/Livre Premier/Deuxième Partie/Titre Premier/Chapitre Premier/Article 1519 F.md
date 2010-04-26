@@ -4,7 +4,8 @@ I.-L'imposition forfaitaire mentionnée à l'article 1635-0 quinquies s'applique
 aux centrales de production d'énergie électrique d'origine photovoltaïque ou
 hydraulique, à l'exception de celles mentionnées à l'article 1519 D, dont la
 puissance électrique installée au sens de la loi n° 2000-108 du 10 février 2000
-précitée est supérieure ou égale à 100 kilowatts.
+relative à la modernisation et au développement du service public
+del'électricité est supérieure ou égale à 100 kilowatts.
 
 L'imposition mentionnée au présent I n'est pas due au titre des centrales
 exploitées pour son propre usage par un consommateur final d'électricité ou

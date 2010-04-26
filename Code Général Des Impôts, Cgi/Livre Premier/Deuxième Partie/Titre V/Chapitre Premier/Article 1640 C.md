@@ -12,14 +12,14 @@ l'article 1640 B ;
 
 b) Des taux départemental et régional de taxe professionnelle applicables sur le
 territoire de la commune pour les impositions au titre de l'année 2009,
-déterminés, le cas échéant, dans les conditions prévues au 7 du présent I ;
+déterminés, le cas échéant, dans les conditions prévues au 7 ;
 
 c) Le cas échéant, du taux de la cotisation de péréquation prévue par l'article
 1648 D applicable dans la commune pour les impositions au titre de l'année 2009.
 
 2. Pour les établissements publics de coopération intercommunale soumis au
 régime fiscal prévu à l'article 1609 nonies C, le taux intercommunal de
-référence est, sans préjudice de l'application du 4 du présent I, la somme :
+référence est, sans préjudice de l'application du 4, la somme :
 
 a) Du taux intercommunal relais déterminé conformément au premier alinéa du I de
 l'article 1640 B ;
@@ -27,7 +27,7 @@ l'article 1640 B ;
 b) Des taux départemental et régional de taxe professionnelle applicables sur le
 territoire de l'établissement public de coopération intercommunale pour les
 impositions au titre de l'année 2009, déterminés, le cas échéant, dans les
-conditions prévues au 7 du présent I ;
+conditions prévues au 7 ;
 
 c) Le cas échéant, du taux de la cotisation de péréquation prévue par l'article
 1648 D applicable sur le territoire de l'établissement public de coopération
@@ -42,7 +42,7 @@ alinéa du I de l'article 1640 B ;
 b) D'autre part, d'une fraction de la somme des taux départemental et régional
 de taxe professionnelle applicables sur le territoire de l'établissement public
 de coopération intercommunale pour les impositions au titre de l'année 2009,
-déterminés, le cas échéant, dans les conditions prévues au 7 du présent I.
+déterminés, le cas échéant, dans les conditions prévues au 7.
 
 Corrélativement, pour les communes membres en 2010 de ces établissements publics
 de coopération intercommunale, le taux communal de référence est la somme :
@@ -50,29 +50,28 @@ de coopération intercommunale, le taux communal de référence est la somme :
 c) D'une part, du taux communal relais déterminé conformément au premier alinéa
 du I de l'article 1640 B ;
 
-d) D'autre part, de la fraction complémentaire de la somme mentionnée au b du
-présent 1° ;
+d) D'autre part, de la fraction complémentaire de la somme mentionnée au b ;
 
 e) Le cas échéant, du taux de la cotisation de péréquation prévue par l'article
 1648 D applicable dans la commune pour les impositions au titre de l'année 2009.
 
 La fraction destinée à l'établissement public de coopération intercommunale,
-mentionnée au b du présent 1°, est le rapport, exprimé en pourcentage, entre,
-d'une part, le taux intercommunal relais mentionné au a et, d'autre part, la
-somme de ce taux et de la moyenne des taux communaux relais des communes membres
-mentionnés au c, pondérée par l'importance relative des bases retenues pour le
-calcul de la compensation relais versée à ces communes en application du
-deuxième alinéa du a du 1 du II de l'article 1640 B.
+mentionnée au b, est le rapport, exprimé en pourcentage, entre, d'une part, le
+taux intercommunal relais mentionné au a et, d'autre part, la somme de ce taux
+et de la moyenne des taux communaux relais des communes membres mentionnés au c,
+pondérée par l'importance relative des bases retenues pour le calcul de la
+compensation relais versée à ces communes en application du deuxième alinéa du a
+du 1 du II de l'article 1640 B.
 
-La fraction complémentaire destinée aux communes, mentionnée au d du présent 1°,
-est le complémentaire à 100 % de la fraction définie à l'alinéa précédent.
+La fraction complémentaire destinée aux communes, mentionnée au d, est le
+complémentaire à 100 % de la fraction définie à l'alinéa précédent.
 
 2° Les taux intercommunaux de référence afférents aux régimes prévus au II de
 l'article 1609 quinquies C dans sa rédaction en vigueur au 31 décembre 2009 sont
-déterminés selon des modalités identiques à celles décrites au 2 du présent I
-pour les établissements publics de coopération intercommunale soumis au régime
-fiscal prévu à l'article 1609 nonies C dans sa rédaction en vigueur au 31
-décembre 2009.
+déterminés selon des modalités identiques à celles décrites au 2 pour les
+établissements publics de coopération intercommunale soumis au régime fiscal
+prévu à l'article 1609 nonies C dans sa rédaction en vigueur au 31 décembre
+2009.
 
 4. Lorsque l'application en 2010 des dispositions relatives à la taxe
 professionnelle dans leur rédaction en vigueur au 31 décembre 2009 aurait
@@ -83,7 +82,7 @@ I de l'article 1638 quater, le taux de référence utilisé pour l'application d
 de l'article 1640 B dans chaque commune ou portion de commune concernée est la
 somme :
 
-a) D'une part, du taux déterminé conformément aux 1 à 3 du présent I ;
+a) D'une part, du taux déterminé conformément aux 1 à 3 ;
 
 b) D'autre part, de la différence qui aurait résulté de l'application de ces
 procédures entre le taux communal ou intercommunal de taxe professionnelle voté
@@ -181,8 +180,7 @@ Ce taux de référence est corrigé dans les conditions prévues au IX.
 Pour les communes membres en 2011 d'un établissement public de coopération
 intercommunale soumis au régime fiscal prévu à l'article 1609 nonies C, le taux
 de référence relatif à l'année 2010 est le taux communal de cette même année. Ce
-taux de référence ne fait pas l'objet de la correction prévue au IX du présent
-article ;
+taux de référence ne fait pas l'objet de la correction prévue au IX ;
 
 2. Pour les établissements publics de coopération intercommunale soumis au
 régime fiscal prévu à l'article 1609 nonies C, le taux de référence relatif à
@@ -191,8 +189,7 @@ l'année 2010 est la somme :
 a) D'une part, du taux intercommunal de l'année 2010 ;
 
 b) D'autre part, du taux départemental de taxe d'habitation appliqué en 2010 sur
-son territoire, déterminé, le cas échéant, dans les conditions prévues au VIII
-du présent article.
+son territoire, déterminé, le cas échéant, dans les conditions prévues au VIII.
 
 Ce taux de référence est corrigé dans les conditions prévues au IX ;
 
@@ -231,9 +228,9 @@ intercommunale soumis au régime fiscal prévu à l'article 1609 nonies C, le ta
 de référence relatif à l'année 2010 est le taux communal de cette même année. Ce
 taux de référence ne fait pas l'objet de la correction prévue au IX.
 
-Pour les communes autres que celles visées au premier alinéa du présent 1, le
-taux de référence relatif à l'année 2010 est le taux communal de cette même
-année. Ce taux de référence est corrigé dans les conditions prévues au IX ;
+Pour les communes autres que celles visées au premier alinéa, le taux de
+référence relatif à l'année 2010 est le taux communal de cette même année. Ce
+taux de référence est corrigé dans les conditions prévues au IX ;
 
 2. Pour les établissements publics de coopération intercommunale à fiscalité
 propre, le taux de référence relatif à l'année 2010 est le taux intercommunal de
@@ -245,9 +242,8 @@ l'application en 2011 des articles 1636 B septies, 1636 B decies, 1638-0 bis,
 1638 quater et 1638 quinquies et du second alinéa du III de l'article 1639 A.
 
 Lorsque ces articles mentionnent des taux moyens de l'année 2010, ceux-ci
-s'entendent des moyennes des taux de référence définis au V du présent article,
-les pondérations éventuellement utilisées pour le calcul de ces moyennes n'étant
-pas modifiées.
+s'entendent des moyennes des taux de référence définis au V, les pondérations
+éventuellement utilisées pour le calcul de ces moyennes n'étant pas modifiées.
 
 Toutefois, pour l'application des quatrième, cinquième et sixième alinéas du II
 de l'article 1636 B decies, les taux moyens relatifs à l'année 2010 s'entendent,
@@ -258,9 +254,8 @@ l'article 1609 nonies C, du cinquième alinéa du I de l'article 1638-0 bis, des
 II et III du même article et du I de l'article 1638 quinquies, les taux moyens
 de cotisation foncière des entreprises relatifs à l'année 2010 s'entendent des
 moyennes des taux relais définis au I de l'article 1640 B, ces moyennes étant
-majorées puis corrigées conformément aux 2, 5 et 6 du I du présent article pour
-déterminer le taux maximum de cotisation foncière des entreprises qui peut être
-voté en 2011.
+majorées puis corrigées conformément aux 2, 5 et 6 du I pour déterminer le taux
+maximum de cotisation foncière des entreprises qui peut être voté en 2011.
 
 B. - Pour l'application, à compter de l'année 2011, des procédures de réduction
 des écarts de taux prévues au b du 1° du III de l'article 1609 nonies C, à
@@ -269,10 +264,10 @@ du I de l'article 1638 quater :
 
 1. Lorsque la période d'intégration des taux commence en 2010 et ne se termine
 pas en 2011, les écarts de taux résiduels 2010 sont calculés sur la base de taux
-de référence relatifs à l'année 2010 déterminés conformément au V du présent
-article ; les écarts ainsi recalculés sont, chaque année à compter de 2011,
-réduits par parts égales, en proportion du nombre d'années restant à courir
-jusqu'à l'application d'un taux unique ;
+de référence relatifs à l'année 2010 déterminés conformément au V ; les écarts
+ainsi recalculés sont, chaque année à compter de 2011, réduits par parts égales,
+en proportion du nombre d'années restant à courir jusqu'à l'application d'un
+taux unique ;
 
 2. Lorsque la période d'intégration des taux commence en 2011, les écarts de
 taux sont calculés à partir des taux de référence relatifs à l'année 2010
@@ -320,10 +315,10 @@ pondérés par l'importance relative des bases communales de cette même taxe
 telles qu'issues des rôles généraux établis au titre de l'année 2010 et
 multipliés par 0, 0485.
 
-Pour l'application de l'alinéa précédent, le taux communal de taxe foncière sur
-les propriétés bâties est le cas échéant augmenté du taux de cette même taxe
-voté par l'établissement public de coopération intercommunale à fiscalité propre
-pour les impositions au titre de la même année.
+Pour l'application du premier alinéa du présent 5°, le taux communal de taxe
+foncière sur les propriétés bâties est le cas échéant augmenté du taux de cette
+même taxe voté par l'établissement public de coopération intercommunale à
+fiscalité propre pour les impositions au titre de la même année.
 
 6° Il n'est procédé à aucune correction pour les taux de taxe d'habitation, de
 taxe foncière sur les propriétés bâties et de taxe foncière sur les propriétés

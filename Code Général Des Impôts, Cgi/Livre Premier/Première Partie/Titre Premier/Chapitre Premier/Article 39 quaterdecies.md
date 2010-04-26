@@ -79,7 +79,7 @@ suivant le rachat. La fraction du profit prise en compte dans le résultat
 imposable est majorée d'un montant égal au produit de cette fraction par une
 fois et demie le taux de l'intérêt de retard prévu à l'article 1727.
 
-L'alinéa précédent ne s'applique ni aux établissements de crédit, ni aux rachats
+Le premier alinéa ne s'applique ni aux établissements de crédit, ni aux rachats
 dont le débiteur et le créancier ont la qualité d'entreprises liées au sens du
 12 de l'article 39. Toutefois, dans ce dernier cas, lorsque la créance a été
 acquise par le créancier auprès d'une personne à laquelle elle n'est pas liée au

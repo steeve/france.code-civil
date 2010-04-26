@@ -3,7 +3,8 @@ Article 1519 G
 I. - L'imposition forfaitaire mentionnée à l'article 1635-0 quinquies s'applique
 aux transformateurs électriques relevant des réseaux publics de transport et de
 distribution d'électricité au sens de la loi n° 2000-108 du 10 février 2000
-précitée.
+relative à lamodernisation et au développement du service public de
+l'électricité.
 
 II. - L'imposition forfaitaire est due par le propriétaire des transformateurs
 au 1er janvier de l'année d'imposition. Toutefois, pour les transformateurs qui
@@ -18,15 +19,9 @@ III. - Le montant de l'imposition est fixé en fonction de la tension en amont
 des transformateurs au 1er janvier de l'année d'imposition selon le barème
 suivant :
 
+TENSION EN AMONT (en kilovolts)
 
-TENSION EN AMONT
-
-(en kilovolts)
-
-
-TARIF PAR TRANSFORMATEUR
-
-(en euros)
+TARIF PAR TRANSFORMATEUR (en euros)
 
 
 Supérieure à 350

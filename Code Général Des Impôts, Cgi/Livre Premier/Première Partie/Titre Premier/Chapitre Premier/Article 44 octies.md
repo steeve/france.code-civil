@@ -94,8 +94,8 @@ déterminé dans les conditions prévues au II du présent article et au 4 de
 l'article 223 I.
 
 Pour l'ensemble des sociétés d'un même groupe, le montant de l'exonération
-accordée ne peut excéder le montant visé au huitième alinéa du II du présent
-article, dans la limite du résultat d'ensemble du groupe.
+accordée ne peut excéder le montant visé au huitième alinéa du II, dans la
+limite du résultat d'ensemble du groupe.
 
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions du
 régime prévu à l'article 44 sexies et du régime prévu au présent article, le

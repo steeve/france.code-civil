@@ -25,9 +25,9 @@ déplacent à l'intérieur de la Communauté ou conformément aux stipulations d
 convention ou d'un accord international relatif à l'application des régimes de
 sécurité sociale ;
 
-1° bis Abrogé
+1° bis (Abrogé)
 
-1° ter (abrogé à compter de l'entrée en vigueur de la loi n° 2002-73 du 17
+1° ter (Abrogé à compter de l'entrée en vigueur de la loi n° 2002-73 du 17
 janvier 2002).
 
 1° quater Les cotisations ou primes versées aux régimes de prévoyance
@@ -154,14 +154,14 @@ couverts par des allocations spéciales.
 La déduction à effectuer du chef des frais professionnels est calculée
 forfaitairement en fonction du revenu brut, après défalcation des cotisations,
 contributions et intérêts mentionnés aux 1° à 2° quinquies et à l'article 83 bis
-; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 13 893 euros
-pour l'imposition des rémunérations perçues en 2008 ; chaque année, le plafond
+; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 13 948 euros
+pour l'imposition des rémunérations perçues en 2009 ; chaque année, le plafond
 retenu pour l'imposition des revenus de l'année précédente est relevé dans la
 même proportion que la limite supérieure de la première tranche du barème de
 l'impôt sur le revenu.
 
 Le montant de la déduction forfaitaire pour frais professionnels ne peut être
-inférieur à 413 euros ou à 906 euros pour les personnes inscrites en tant que
+inférieur à 415 euros ou à 910 euros pour les personnes inscrites en tant que
 demandeurs d'emploi depuis plus d'un an, sans pouvoir excéder le montant brut
 des traitements et salaires. Cette disposition s'applique séparément aux
 rémunérations perçues par chaque membre du foyer fiscal désigné aux 1 et 3 de

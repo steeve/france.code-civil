@@ -8,8 +8,8 @@ d'une fiducie, de valeurs mobilières, de droits sociaux, de titres mentionnés 
 1° de l'article 118 et aux 6° et 7° de l'article 120, de droits portant sur ces
 valeurs, droits ou titres ou de titres représentatifs des mêmes valeurs, droits
 ou titres, sont soumis à l'impôt sur le revenu lorsque le montant de ces
-cessions excède, par foyer fiscal, 25 000 € pour l'imposition des revenus de
-l'année 2008 et 25 730 € pour l'imposition des revenus de l'année 2009. Pour
+cessions excède, par foyer fiscal, 25 730 € pour l'imposition des revenus de
+l'année 2009 et 25 830 € pour l'imposition des revenus de l'année 2010. Pour
 l'imposition des revenus des années ultérieures, ce seuil, arrondi à la dizaine
 d'euros la plus proche, est actualisé chaque année dans la même proportion que
 la limite supérieure de la première tranche du barème de l'impôt sur le revenu
@@ -55,15 +55,15 @@ deuxième alinéa du 12 de l'article 150-0 D sont imposables au titre de l'anné
 au cours de laquelle elles sont reçues, quel que soit le montant des cessions
 réalisées au cours de cette année, à hauteur de la perte imputée ou reportée.
 
-I bis. ― 1. Les plus et moins-values déterminées dans les conditions de
-l'article 150-0 D et réalisées lors de la cession à titre onéreux, effectuée
-directement ou par personne interposée, de parts de sociétés ou de groupements
-exerçant une activité autre que la gestion de leur propre patrimoine mobilier ou
-immobilier et dont les résultats sont imposés dans les conditions des articles 8
-à 8 quinquies, ou de droits démembrés portant sur ces parts, sont, lorsque les
-parts ou droits cédés ont été détenus de manière continue pendant plus de huit
-ans et sous réserve du respect des conditions prévues au 1° et au c du 2° du II
-de l'article 150-0 D bis, exonérées ou non imputables pour :
+I bis. 1. Les plus et moins-values déterminées dans les conditions de l'article
+150-0 D et réalisées lors de la cession à titre onéreux, effectuée directement
+ou par personne interposée, de parts de sociétés ou de groupements exerçant une
+activité autre que la gestion de leur propre patrimoine mobilier ou immobilier
+et dont les résultats sont imposés dans les conditions des articles 8 à 8
+quinquies, ou de droits démembrés portant sur ces parts, sont, lorsque les parts
+ou droits cédés ont été détenus de manière continue pendant plus de huit ans et
+sous réserve du respect des conditions prévues au 1° et au c du 2° du II de
+l'article 150-0 D bis, exonérées ou non imputables pour :
 
 1° La totalité de leur montant lorsque les recettes annuelles telles que
 définies au 2 sont inférieures ou égales à :

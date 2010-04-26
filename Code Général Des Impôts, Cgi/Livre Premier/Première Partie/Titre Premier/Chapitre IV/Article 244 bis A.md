@@ -122,15 +122,15 @@ différence entre, d'une part, le prix de cession du bien et, d'autre part, son
 prix d'acquisition, diminué pour les immeubles bâtis d'une somme égale à 2 % de
 son montant par année entière de détention.
 
-Par dérogation au premier alinéa du I et à l'alinéa précédent, le prélèvement dû
-par des personnes morales résidentes d'un Etat membre de l'Union européenne ou
-d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu
-avec la France une convention fiscale qui contient une clause d'assistance
-administrative en vue de lutter contre la fraude et l'évasion fiscales et
-n'étant pas non coopératif au sens de l'article 238-0 A est déterminé selon les
-règles d'assiette et de taux prévues en matière d'impôt sur les sociétés dans
-les mêmes conditions que celles applicables à la date de la cession aux
-personnes morales résidentes de France.
+Par dérogation au premier alinéa du I et au premier alinéa du présent III, le
+prélèvement dû par des personnes morales résidentes d'un Etat membre de l'Union
+européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
+ayant conclu avec la France une convention fiscale qui contient une clause
+d'assistance administrative en vue de lutter contre la fraude et l'évasion
+fiscales et n'étant pas non coopératif au sens de l'article 238-0 A est
+déterminé selon les règles d'assiette et de taux prévues en matière d'impôt sur
+les sociétés dans les mêmes conditions que celles applicables à la date de la
+cession aux personnes morales résidentes de France.
 
 IV.-L'impôt dû en application du présent article est acquitté lors de
 l'enregistrement de l'acte ou, à défaut d'enregistrement, dans le mois suivant

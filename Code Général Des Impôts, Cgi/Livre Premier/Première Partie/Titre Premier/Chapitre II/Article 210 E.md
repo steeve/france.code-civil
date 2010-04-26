@@ -22,11 +22,11 @@ de la cession d'un immeuble ou de droits réels mentionnés au dernier alinéa d
 II de l'article 208 C à une entreprise effectuant des opérations visées au 2 de
 l'article L. 313-7 du code monétaire et financier qui concède immédiatement la
 jouissance de l'immeuble ou du droit réel par un contrat de crédit-bail à une
-société mentionnée parmi les sociétés cessionnaires visées au premier alinéa du
-présent I, et à la condition que le contrat de crédit-bail fasse l'objet d'une
-publication si cette formalité est obligatoire en application de l'article 28 du
-décret n° 55-22 du 4 janvier 1955 portant réforme de la publicité foncière. Le
-présent alinéa est applicable jusqu'au 31 décembre 2009.
+société mentionnée parmi les sociétés cessionnaires visées au premier alinéa, et
+à la condition que le contrat de crédit-bail fasse l'objet d'une publication si
+cette formalité est obligatoire en application de l'article 28 du décret n°
+55-22 du 4 janvier 1955 portant réforme de la publicité foncière. Le présent
+alinéa est applicable jusqu'au 31 décembre 2009.
 
 II.-L'application des dispositions du premier alinéa du I est subordonnée à la
 condition que la société cessionnaire prenne l'engagement de conserver pendant
@@ -98,7 +98,7 @@ construction et de l'habitation.
 Le non-respect de cet engagement par la société cédante entraîne l'application
 de l'amende prévue au I de l'article 1764.
 
-V.-Un décret fixe les conditions d'application du présent article. Le I
-s'applique aux cessions réalisées jusqu'au 31 décembre 2011, le III aux cessions
-réalisées jusqu'au 31 décembre 2011 et le IV aux cessions réalisées jusqu'au 31
-décembre 2010.
+V.-Un décret fixe les conditions d'application du présent article. Le premier
+alinéa du I s'applique aux cessions réalisées jusqu'au 31 décembre 2011, le III
+aux cessions réalisées jusqu'au 31 décembre 2011 et le IV aux cessions réalisées
+jusqu'au 31 décembre 2010.

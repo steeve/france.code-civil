@@ -20,44 +20,55 @@ entre les valeurs correspondant à la classe dont il relève.
 Les aérodromes sont répartis en trois classes en fonction du nombre d'unités de
 trafic embarquées ou débarquées au cours de la dernière année civile connue sur
 l'aérodrome ou le système aéroportuaire dont il dépend au sens du m de l'article
-2 du règlement (CEE) n° 2408 / 92 du Conseil, du 23 juillet 1992, concernant
+2 du règlement (CEE) n° 2408/92 du Conseil, du 23 juillet 1992, concernant
 l'accès des transporteurs aériens communautaires aux liaisons aériennes
 intracommunautaires.
 
 Les classes d'aérodromes sont fixées comme suit :
 
-CLASSE : 1
 
-Nombre d'unités de trafic de l'aérodrome ou du système aéroportuaire : A partir
-de 10 000 001
+CLASSE
 
-CLASSE : 2
+Nombre d'unités de trafic de l'aérodrome ou du système aéroportuaire
 
-Nombre d'unités de trafic de l'aérodrome ou du système aéroportuaire : De 2 200
-001 à 10 000 000
+1
 
-CLASSE : 3
 
-Nombre d'unités de trafic de l'aérodrome ou du système aéroportuaire : De 5 001
-à 2 200 000
+A partir de 10 000 001
+
+2
+
+
+De 2 200 001 à 10 000 000
+
+3
+
+
+De 5 001 à 2 200 000
 
 Les limites supérieures et inférieures des tarifs correspondant aux classes
 d'aérodromes sont fixées comme suit :
 
-CLASSE : 1
 
-Tarifs par passager : De 4, 3 à 10 euros
+CLASSE
 
-CLASSE : 2
+1
 
-Tarifs par passager : De 3, 5 à 9,5 euros.
+2
 
-CLASSE : 3
+3
 
-Tarifs par passager : De 2, 6 à 11,5 euros.
 
-Le tarif de la taxe est égal à 1 par tonne de fret et de courrier pour tous les
-aérodromes visés au I.
+Tarifs par passager
+
+De 4,3 à 10 euros
+
+De 3,5 à 9,5 euros.
+
+De 2,6 à 11,5 euros
+
+Le tarif de la taxe est égal à 1 euro par tonne de fret et de courrier pour tous
+les aérodromes visés au I.
 
 Un arrêté, pris par le ministre chargé du budget et le ministre chargé de
 l'aviation civile, fixe la liste des aérodromes concernés par classe et, au sein
@@ -84,7 +95,7 @@ Ces données peuvent faire l'objet de contrôles sur l'année en cours et les de
 années antérieures, diligentés par les services de la direction générale de
 l'aviation civile. Les exploitants d'aérodromes sont tenus de présenter les
 pièces justificatives et toutes les informations relatives aux données
-mentionnées à l'alinéa précédent. En cas de contrôle sur place, la direction
+mentionnées au huitième alinéa. En cas de contrôle sur place, la direction
 générale de l'aviation civile en informe préalablement l'exploitant par l'envoi
 d'un avis qui précise l'identité des personnes qui en sont chargées et la
 période visée par le contrôle. L'exploitant peut se faire assister par un

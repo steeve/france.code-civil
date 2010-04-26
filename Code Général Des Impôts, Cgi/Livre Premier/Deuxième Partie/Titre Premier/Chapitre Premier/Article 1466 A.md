@@ -68,7 +68,8 @@ fiscalité propre ne peuvent porter que sur l'ensemble des établissements cré�
 ou étendus.
 
 Le bénéfice des exonérations est subordonné au respect du règlement (CE) n° 1998
-/ 2006 de la Commission du 15 décembre 2006 précité. Toutefois, sur option des
+/ 2006 de la Commission du 15 décembre 2006 concernant l'application des
+articles 87 et 88 du traité des aides de minimis. Toutefois, sur option des
 entreprises qui procèdent aux opérations mentionnées au premier alinéa dans les
 zones d'aide à finalité régionale, le bénéfice des exonérations est subordonné
 au respect de l'article 13 du règlement (CE) n° 800 / 2008 de la Commission du 6
@@ -111,14 +112,14 @@ fiscalité propre ne peuvent porter que sur l'ensemble des établissements cré�
 ou étendus.
 
 Le bénéfice de l'exonération prévue au premier alinéa est subordonné au respect
-du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 précité.
-Toutefois, sur option des entreprises qui procèdent aux opérations mentionnées
-au premier alinéa du présent I quinquies B dans les zones d'aide à finalité
-régionale, le bénéfice de l'exonération prévue au premier alinéa est subordonné
-au respect de l'article 13 du règlement (CE) n° 800 / 2008 de la Commission du 6
-août 2008 déclarant certaines catégories d'aides compatibles avec le marché
-commun en application des articles 87 et 88 du traité (Règlement général
-d'exemption par catégorie).
+du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant
+l'application des articles 87 et 88 du traité des aides de minimis. Toutefois,
+sur option des entreprises qui procèdent aux opérations mentionnées au premier
+alinéa dans les zones d'aide à finalité régionale, le bénéfice de l'exonération
+prévue au premier alinéa est subordonné au respect de l'article 13 du règlement
+(CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant certaines
+catégories d'aides compatibles avec le marché commun en application des articles
+87 et 88 du traité (Règlement général d'exemption par catégorie).
 
 L'option mentionnée au cinquième alinéa est irrévocable pour la durée de
 l'exonération. Elle doit être exercée, selon le cas, dans le délai prévu pour le
@@ -132,11 +133,12 @@ qui font l'objet d'une création ou d'une extension entre le 1er janvier 2006 et
 le 31 décembre 2011 dans les zones franches urbaines mentionnées à l'article
 1383 C bis ainsi que les établissements existant au 1er janvier 2006 dans les
 zones franches urbaines mentionnées au deuxième alinéa du B du 3 de l'article 42
-de la loi n° 95-115 du 4 février 1995 précitée sont exonérés de cotisation
-foncière des entreprises dans la limite du montant de base nette imposable fixé,
-pour 2006, à 337 713 Euros et actualisé chaque année en fonction de la variation
-de l'indice des prix. Les exonérations s'appliquent lorsque les conditions
-suivantes sont remplies :
+de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
+développementdu territoire sont exonérés de cotisation foncière des entreprises
+dans la limite du montant de base nette imposable fixé, pour 2006, à 337 713
+Euros et actualisé chaque année en fonction de la variation de l'indice des
+prix. Les exonérations s'appliquent lorsque les conditions suivantes sont
+remplies :
 
 1° L'entreprise doit employer au plus cinquante salariés au 1er janvier 2006 ou
 à la date de sa création ou de son implantation si elle est postérieure et, soit
@@ -183,7 +185,8 @@ troisième alinéa et au sixième alinéa du I quinquies. Le bénéfice des
 exonérations prenant effet en 2006 dans les zones mentionnées au deuxième alinéa
 du B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée est
 subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15
-décembre 2006 précité.
+décembre 2006 concernant l'application des articles 87 et 88 du traité des aides
+de minimis.
 
 II. Pour bénéficier des exonérations prévues aux I, I quinquies A, I quinquies B
 et I sexies les contribuables déclarent, chaque année, dans les conditions

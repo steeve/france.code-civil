@@ -93,13 +93,13 @@ mentionnées au I.
 
 III.-Lorsque le contribuable mentionné au I est une société membre d'un groupe
 fiscal visé à l'article 223 A, le bénéfice exonéré est celui de cette société
-déterminé dans les conditions prévues au II du présent article, dans la limite
-du résultat d'ensemble du groupe.
+déterminé dans les conditions prévues au II, dans la limite du résultat
+d'ensemble du groupe.
 
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions du
 régime prévu à l'article 44 sexies ou à l'article 44 octies A et du régime prévu
 au présent article, le contribuable peut opter pour ce dernier régime dans les
-six mois suivant celui du début d'activité.L'option est irrévocable.
+six mois suivant celui du début d'activité. L'option est irrévocable.
 
 IV.-Les obligations déclaratives des personnes et organismes concernés par
 l'exonération sont fixées par décret.

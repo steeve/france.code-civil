@@ -29,12 +29,11 @@ application, l'excédent du bénéfice agricole sur la moyenne triennale est imp
 au taux marginal d'imposition applicable au revenu global du contribuable
 déterminé compte tenu de cette moyenne triennale.
 
-Pour l'application de l'alinéa précédent, l'apport d'une exploitation
-individuelle, dans les conditions mentionnées au I de l'article 151 octies, à
-une société ou à un groupement dont les bénéfices sont, en application de
-l'article 8, soumis au nom de l'exploitant à l'impôt sur le revenu dans la
-catégorie des bénéfices agricoles, ne constitue pas une cession ou une cessation
-de l'exploitation. Toutefois, l'apporteur peut renoncer, selon les modalités
-prévues au deuxième alinéa, au bénéfice du mode d'évaluation du bénéfice
-agricole prévu au premier alinéa au titre de l'année au cours de laquelle
-l'apport est réalisé.
+Pour l'application du sixième alinéa, l'apport d'une exploitation individuelle,
+dans les conditions mentionnées au I de l'article 151 octies, à une société ou à
+un groupement dont les bénéfices sont, en application de l'article 8, soumis au
+nom de l'exploitant à l'impôt sur le revenu dans la catégorie des bénéfices
+agricoles, ne constitue pas une cession ou une cessation de l'exploitation.
+Toutefois, l'apporteur peut renoncer, selon les modalités prévues au deuxième
+alinéa, au bénéfice du mode d'évaluation du bénéfice agricole prévu au premier
+alinéa au titre de l'année au cours de laquelle l'apport est réalisé.

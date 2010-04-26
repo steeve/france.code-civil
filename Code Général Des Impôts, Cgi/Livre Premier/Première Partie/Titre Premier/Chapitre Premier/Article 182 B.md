@@ -17,9 +17,9 @@ commerciale et de droits assimilés ;
 c. Les sommes payées en rémunération des prestations de toute nature fournies ou
 utilisées en France.
 
-d. Les sommes, y compris les salaires, payées à compter du 1er janvier 1990,
-correspondant à des prestations sportives fournies ou utilisées en France,
-nonobstant les dispositions de l'article 182 A ;
+d. Les sommes, y compris les salaires, correspondant à des prestations sportives
+fournies ou utilisées en France, nonobstant les dispositions de l'article 182 A
+;
 
 II Le taux de la retenue est fixé à 33 1 / 3 %.
 

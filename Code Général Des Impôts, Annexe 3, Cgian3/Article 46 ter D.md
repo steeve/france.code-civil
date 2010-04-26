@@ -13,8 +13,9 @@ des bénéfices exonérés d'impôt sur les sociétés conformément aux disposi
 l'article 208 D du code général des impôts ;
 
 c. le montant des cotisations et prélèvements sociaux prélevés en application du
-8° du II de l'article L. 136-7 du code de la sécurité sociale et du 8 du I de
-l'article 1600-0 J du code général des impôts.
+8° du II de l'article L. 136-7 du code de la sécurité sociale et du II de
+l'article 16 de l'ordonnance n° 96-50 du 24 janvier 1996 modifiée relative au
+remboursement de la dette sociale.
 
 Cet état précise que l'associé mentionné au premier alinéa est le souscripteur
 initial des actions de la société ou qu'il a reçu ses actions dans le cadre

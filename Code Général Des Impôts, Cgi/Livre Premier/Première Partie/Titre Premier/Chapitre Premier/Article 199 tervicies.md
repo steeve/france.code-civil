@@ -4,17 +4,17 @@ I. ― Les contribuables domiciliés en France au sens de l'article 4 B bénéfi
 d'une réduction d'impôt sur le revenu à raison des dépenses qu'ils supportent en
 vue de la restauration complète d'un immeuble bâti :
 
-― situé dans un secteur sauvegardé créé en application du I de l'article L.
+1° ― situé dans un secteur sauvegardé créé en application du I de l'article L.
 313-1 du code de l'urbanisme, soit lorsque le plan de sauvegarde et de mise en
 valeur de ce secteur est approuvé, soit lorsque la restauration a été déclarée
 d'utilité publique en application de l'article L. 313-4 du même code ;
 
--jusqu'au 31 décembre 2015, situé dans un quartier ancien dégradé délimité en
+2° -jusqu'au 31 décembre 2015, situé dans un quartier ancien dégradé délimité en
 application de l'article 25 de la loi n° 2009-323 du 25 mars 2009 de
 mobilisation pour le logement et la lutte contre l'exclusion lorsque la
 restauration a été déclarée d'utilité publique ;
 
-― situé dans une zone de protection du patrimoine architectural, urbain et
+3° ― situé dans une zone de protection du patrimoine architectural, urbain et
 paysager créée en application des articles L. 642-1 à L. 642-7 du code du
 patrimoine lorsque la restauration a été déclarée d'utilité publique.
 
@@ -34,14 +34,14 @@ bis, b, b bis, c et e du 1° du I de l'article 31, des frais d'adhésion à des
 associations foncières urbaines de restauration, ainsi que des dépenses de
 travaux imposés ou autorisés en application des dispositions législatives ou
 réglementaires relatives aux secteurs, quartiers et zones mentionnés
-respectivement aux deuxième, troisième et quatrième alinéas du I, y compris les
-travaux effectués dans des locaux d'habitation et ayant pour objet de
-transformer en logement tout ou partie de ces locaux, supportées à compter soit
-de la date de délivrance du permis de construire, soit de l'expiration du délai
-d'opposition à la déclaration préalable et jusqu'au 31 décembre de la troisième
-année suivante (1). Le cas échéant, cette durée est prolongée du délai durant
-lequel les travaux sont interrompus ou ralentis en application des articles L.
-531-14 à L. 531-16 du code du patrimoine ou par l'effet de la force majeure.
+respectivement aux 1°, 2° et 3° du I, y compris les travaux effectués dans des
+locaux d'habitation et ayant pour objet de transformer en logement tout ou
+partie de ces locaux, supportées à compter soit de la date de délivrance du
+permis de construire, soit de l'expiration du délai d'opposition à la
+déclaration préalable et jusqu'au 31 décembre de la troisième année suivante
+(1). Le cas échéant, cette durée est prolongée du délai durant lequel les
+travaux sont interrompus ou ralentis en application des articles L. 531-14 à L.
+531-16 du code du patrimoine ou par l'effet de la force majeure.
 
 Ouvre également droit à la réduction d'impôt la fraction des provisions versées
 par le propriétaire pour dépenses de travaux de la copropriété et pour le
@@ -61,8 +61,9 @@ au II, retenues dans la limite annuelle de 100 000 €.
 Ce taux est majoré de dix points lorsque les dépenses sont effectuées pour des
 immeubles situés dans un secteur sauvegardé créé en application du I de
 l'article L. 313-1 du code de l'urbanisme ou dans un quartier ancien dégradé
-délimité en application de l'article 25 de la loi n° 2009-323 du 25 mars 2009
-précitée lorsque la restauration a été déclarée d'utilité publique.
+délimité en application de l'article 25 de la loi n° 2009-323 du 25 mars 2009 de
+mobilisation pour le logement et la lutte contre l'exclusion lorsque la
+restauration a été déclarée d'utilité publique.
 
 IV. ― Lorsque les dépenses portent sur un local à usage d'habitation, le
 propriétaire prend l'engagement de le louer nu, à usage de résidence principale
@@ -97,10 +98,10 @@ celle-ci.
 
 2. La réduction d'impôt est égale à 30 % du montant de la souscription affecté
 au financement des dépenses relatives à un immeuble mentionné au quatrième
-alinéa du même I, retenu dans la limite annuelle de 100 000 euros. Ce taux est
-majoré de dix points lorsque le montant de la souscription est affecté au
-financement de dépenses relatives à un immeuble mentionné au deuxième ou
-troisième alinéa du même I.
+alinéa du I, retenu dans la limite annuelle de 100 000 euros. Ce taux est majoré
+de dix points lorsque le montant de la souscription est affecté au financement
+de dépenses relatives à un immeuble mentionné au deuxième ou troisième alinéa du
+même I.
 
 3. La société doit prendre l'engagement de louer l'immeuble au titre duquel les
 dépenses sont réalisées dans les conditions prévues au IV.L'associé doit
@@ -108,8 +109,8 @@ s'engager à conserver la propriété de ses titres jusqu'au terme de l'engageme
 de location souscrit par la société.
 
 4. La réduction d'impôt est accordée au titre de l'année de réalisation de la
-souscription mentionnée au 1 du présent IV bis et imputée sur l'impôt dû au
-titre de cette même année.
+souscription mentionnée au 1 et imputée sur l'impôt dû au titre de cette même
+année.
 
 V. ― Un contribuable ne peut, pour un même local ou une même souscription de
 parts, bénéficier à la fois de l'une des réductions d'impôt prévues aux articles

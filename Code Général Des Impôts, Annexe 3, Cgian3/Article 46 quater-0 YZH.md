@@ -11,4 +11,4 @@ déclarations spéciales des sociétés du groupe au relevé de solde relatif au
 résultat d'ensemble.
 
 Une copie de la déclaration spéciale est adressée dans le même délai au Centre
-national de la cinématographie.
+national du cinéma et de l'image animée.

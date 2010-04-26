@@ -32,8 +32,8 @@ mentionné au II indique expressément dans tous les documents, y compris
 électroniques, destinés à solliciter du public des dons, legs, versements et
 cotisations, que ceux-ci ne peuvent plus ouvrir droit à aucun avantage fiscal.
 
-4. Le non-respect des 2 et 3 est puni de l'amende prévue à l'article 1762 decies
-du présent code.
+4. Le non-respect des 2 et 3 est puni de l'amende prévue à l'article 1762
+decies.
 
 IV. ― 1. a. A l'expiration d'un délai d'un an suivant la notification de
 l'arrêté mentionné au I, l'organisme visé par l'arrêté peut saisir le ministre
@@ -69,7 +69,7 @@ réputé favorable.
 V. ― Lorsqu'un commissaire aux comptes d'un organisme visé à l'article L. 111-8
 du code des juridictions financières refuse de certifier les comptes de cet
 organisme, il transmet son rapport au ministre chargé du budget qui procède dans
-les conditions prévues au I du présent article.
+les conditions prévues au I.
 
 VI. ― Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article.

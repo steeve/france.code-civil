@@ -2,43 +2,37 @@ Article 885 U
 ----
 Le tarif de l'impôt est fixé à :
 
+FRACTION DE LA VALEUR NETTE TAXABLE du patrimoine
 
-FRACTION DE LA VALEUR
-
-nette taxable du patrimoine
-
-
-TARIF
-
-applicable (%)
+TARIF applicable (%)
 
 N'excédant pas 790 000 €
 
 0
 
-Supérieure à 790 000 € et inférieure ou égale à 1 280 000 €
+Supérieure à 790 000 € et inférieure ou égale à 1 290 000 €
 
-0,55
+0, 55
 
-Supérieure à 1 280 000 € et inférieure ou égale à 2 520 000 €
+Supérieure à 1 290 000 € et inférieure ou égale à 2 530 000 €
 
-0,75
+0, 75
 
-Supérieure à 2 520 000 € et inférieure ou égale à 3 960 000 €
+Supérieure à 2 530 000 € et inférieure ou égale à 3 980 000 €
 
 1
 
-Supérieure à 3 960 000 € et inférieure ou égale à 7 570 000 €
+Supérieure à 3 980 000 € et inférieure ou égale à 7 600 000 €
 
-1,30
+1, 30
 
-Supérieure à 7 570 000 € et inférieure ou égale à 16 480 000 €
+Supérieure à 7 600 000 € et inférieure ou égale à 16 540 000 €
 
-1,65
+1, 65
 
-Supérieure à 16 480 000 €
+Supérieure à 16 540 000 €
 
-1,80
+1, 80
 
 Les limites des tranches du tarif prévu au tableau ci-dessus sont actualisées
 chaque année dans la même proportion que la limite supérieure de la première

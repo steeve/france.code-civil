@@ -15,11 +15,11 @@ B lorsqu'elles remplissent les conditions prévues au I de l'article 1414 et de
 l'article 1649, ainsi que les personnes dont le montant des revenus mentionnés
 au II de l'article 1414 A est nul ;
 
-3° Les personnes exonérées de la contribution à l'audiovisuel public au 31
-décembre 2004 en application des A et B du IV de l'article 37 de la loi de
-finances pour 2004 (n° 2003-1311 du 30 décembre 2003), autres que celles visées
-au 2° du présent article, bénéficient d'un dégrèvement de la contribution à
-l'audiovisuel public au titre de l'année 2005.
+3° Les personnes exonérées de la redevance audiovisuelle au 31 décembre 2004 en
+application des A et B du IV de l'article 37 de la loi de finances pour 2004 (n°
+2003-1311 du 30 décembre 2003), autres que celles visées au 2° du présent
+article, bénéficient d'un dégrèvement de la redevance audiovisuelle au titre de
+l'année 2005.
 
 Le bénéfice de ce dégrèvement est maintenu à partir de 2006 s'agissant des
 redevables visés au B du IV de l'article 37 de la loi de finances pour 2004 (n°
@@ -34,18 +34,18 @@ b. La condition d'occupation de l'habitation prévue par l'article 1390 est
 remplie ;
 
 c. Le redevable n'est pas passible de l'impôt de solidarité sur la fortune au
-titre de l'année précédant celle au cours de laquelle la contribution à
-l'audiovisuel public est due est due ;
+titre de l'année précédant celle au cours de laquelle la redevance ou la
+contribution est due ;
 
 Pour les années 2008 , 2009 et 2010, les redevables âgés de plus de
 soixante-cinq ans au 1er janvier 2004 visés aux premier et deuxième alinéas
-bénéficient d'un dégrèvement de la contribution à l'audiovisuel public
-lorsqu'ils remplissent les conditions prévues aux a, b et c ;
+bénéficient d'un dégrèvement de la redevance audiovisuelle lorsqu'ils
+remplissent les conditions prévues aux a, b et c ;
 
 3° bis Les contribuables bénéficiaires en 2009 du revenu minimum d'insertion,
 lorsqu'ils occupent leur habitation principale dans les conditions prévues à
-l'article 1390, bénéficient d'un dégrèvement de la contribution à l'audiovisuel
-public au titre de l'année 2009.
+l'article 1390, bénéficient d'un dégrèvement de la redevance audiovisuelle au
+titre de l'année 2009.
 
 Le bénéfice de ce dégrèvement est maintenu à partir de 2010 et jusqu'en 2011
 lorsque :
@@ -102,11 +102,11 @@ d'entre elles qui sera redevable de la contribution à l'audiovisuel public.A
 défaut, la contribution à l'audiovisuel public est due par les personnes dont le
 nom est porté sur l'avis d'imposition de taxe d'habitation afférent à ce local ;
 
-6° a. Lorsqu'une contribution à l'audiovisuel public était due en 2004, elle est
-acquittée, sous réserve de l'article 1681 ter B, annuellement et d'avance, en
-une seule fois et pour une période de douze mois. Cette période est décomptée à
-partir de la date anniversaire du premier jour de la période au titre de
-laquelle elle était due en 2004 ;
+6° a. Lorsqu'une redevance audiovisuelle était due en 2004, elle est acquittée,
+sous réserve de l'article 1681 ter B, annuellement et d'avance, en une seule
+fois et pour une période de douze mois. Cette période est décomptée à partir de
+la date anniversaire du premier jour de la période au titre de laquelle elle
+était due en 2004 ;
 
 b. La contribution à l'audiovisuel public n'est pas due lorsque, à la date du
 début de la période de douze mois mentionnée au a, le redevable est décédé,

@@ -6,10 +6,10 @@ chiffre d'affaires que leur soumettent leurs adhérents.A cet effet, elles leur
 demandent tous renseignements utiles de nature à établir la concordance, la
 cohérence et la vraisemblance entre :
 
--les résultats fiscaux et la comptabilité établie conformément aux plans
+1° les résultats fiscaux et la comptabilité établie conformément aux plans
 comptables visés à l'article 1649 quater G ;
 
--les déclarations de résultats et les déclarations de taxes sur le chiffre
+2° les déclarations de résultats et les déclarations de taxes sur le chiffre
 d'affaires.
 
 Elles sont habilitées à élaborer pour le compte de leurs adhérents, placés sous
@@ -18,7 +18,7 @@ fiscale.
 
 Les modalités d'assistance et de contrôle des associations agréées par
 l'administration fiscale sont précisées dans la convention visée à l'article 371
-O de l'annexe II au présent code.
+O de l'annexe II.
 
 Les associations ont l'obligation de procéder aux contrôles de concordance,
 cohérence et vraisemblance des déclarations de résultats et de taxes sur le

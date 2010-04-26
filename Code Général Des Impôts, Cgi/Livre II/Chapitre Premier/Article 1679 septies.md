@@ -35,7 +35,7 @@ cotisations foncières des entreprises au titre de l'année précédente, en
 application du 3° de l'article 1459, des articles 1464 à 1464 I et des articles
 1465 à 1466 F ;
 
-- et, d'autre part, le montant visé à l'alinéa précédent majoré du montant total
+- et, d'autre part, le montant visé au septième alinéa majoré du montant total
 des cotisations foncières des entreprises dû au titre de l'année précédente.
 
 Un décret précise les conditions d'application des sixième à huitième alinéas.

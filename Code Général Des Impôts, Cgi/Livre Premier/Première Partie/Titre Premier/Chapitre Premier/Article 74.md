@@ -2,7 +2,7 @@ Article 74
 ----
 Le bénéfice imposable des exploitants placés sous le régime simplifié
 d'imposition d'après le bénéfice réel est déterminé conformément aux
-dispositions des articles 72 à 73 D sous réserve des simplifications suivantes :
+dispositions des articles 72 à 73 E sous réserve des simplifications suivantes :
 
 a. La comptabilité de l'exploitation n'enregistre journellement que les
 encaissements et les paiements ; les créances et les dettes sont constatées à la
@@ -22,7 +22,7 @@ un barème qui est publié chaque année ;
 
 d. la justification des frais généraux accessoires payés en espèces n'est pas
 exigée dans la limite de 1 p. 1 000 du chiffre d'affaires réalisé et d'un
-minimum de 152 euros.
+minimum de 152 €.
 
 Un décret précise les modalités d'application des a, c et d, notamment en cas de
 changement de mode de comptabilisation en vue d'éviter qu'une même charge ne

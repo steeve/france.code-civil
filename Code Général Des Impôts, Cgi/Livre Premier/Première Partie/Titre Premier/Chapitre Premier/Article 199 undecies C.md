@@ -19,8 +19,8 @@ agréé conformément à la réglementation locale par l'autorité publique
 compétente. L'opération peut prendre la forme d'un crédit-bail immobilier ;
 
 2° Les logements sont donnés en sous-location nue ou meublée par l'organisme
-mentionné au 1° du présent I et pour une durée au moins égale à cinq ans à des
-personnes physiques qui en font leur résidence principale et dont les ressources
+mentionné au 1° et pour une durée au moins égale à cinq ans à des personnes
+physiques qui en font leur résidence principale et dont les ressources
 n'excèdent pas des plafonds fixés par décret en fonction du nombre de personnes
 destinées à occuper à titre principal le logement et de la localisation de
 celui-ci ;
@@ -36,10 +36,10 @@ prestations de services peuvent être proposées ;
 5° Une part minimale, définie par décret, de la surface habitable des logements
 compris dans un ensemble d'investissements portés simultanément à la
 connaissance du ministre chargé du budget dans les conditions prévues au VII est
-sous-louée, dans les conditions définies au 2° du présent I, à des personnes
-physiques dont les ressources sont inférieures aux plafonds mentionnés au 2°,
-pour des loyers inférieurs aux limites mentionnées au 3°. Un décret précise les
-plafonds de ressources et de loyers pour l'application du présent 5° ;
+sous-louée, dans les conditions définies au 2°, à des personnes physiques dont
+les ressources sont inférieures aux plafonds mentionnés au 2°, pour des loyers
+inférieurs aux limites mentionnées au 3°. Un décret précise les plafonds de
+ressources et de loyers pour l'application du présent 5° ;
 
 6° Une fraction, définie par décret, du prix de revient d'un ensemble
 d'investissements portés simultanément à la connaissance du ministre chargé du
@@ -59,12 +59,11 @@ dont les ressources, au titre de l'année précédant celle de la première
 occupation du logement, n'excèdent pas des plafonds fixés par décret en fonction
 du nombre de personnes destinées à occuper à titre principal le logement et de
 la localisation de celui-ci. Pour l'application du présent 7°, et nonobstant le
-1° du présent I, la cession des logements et, le cas échéant, des parts ou
-actions des sociétés mentionnées au IV peut intervenir à l'expiration d'un délai
-de cinq ans décompté à partir de l'achèvement des fondations. La reprise prévue
-au 3° du V ne trouve pas à s'appliquer si la location prévue au 1° du présent I
-prend fin à la suite d'une cession de l'immeuble au profit du preneur
-conformément au présent 7° ;
+1°, la cession des logements et, le cas échéant, des parts ou actions des
+sociétés mentionnées au IV peut intervenir à l'expiration d'un délai de cinq ans
+décompté à partir de l'achèvement des fondations. La reprise prévue au 3° du V
+ne trouve pas à s'appliquer si la location prévue au 1° prend fin à la suite
+d'une cession de l'immeuble au profit du preneur conformément au présent 7° ;
 
 8° Un montant correspondant au moins à 65 % de la réduction acquise est
 rétrocédé par le contribuable sous la forme d'une diminution des loyers versés
@@ -87,8 +86,7 @@ variation de la moyenne sur quatre trimestres du coût de la construction dans
 chaque département ou collectivité.
 
 Un décret peut préciser, en tant que de besoin, la nature des sommes retenues
-pour l'appréciation du prix de revient mentionné au premier alinéa du présent
-II.
+pour l'appréciation du prix de revient mentionné au premier alinéa.
 
 Le III de l'article 199 undecies B est applicable aux investissements ouvrant
 droit à la réduction d'impôt prévue au présent article.
@@ -127,13 +125,13 @@ disposition est subordonnée au respect des conditions suivantes :
 budget dans les conditions prévues au III de l'article 217 undecies ;
 
 2° La société réalisant l'investissement a pour objet exclusif l'acquisition, la
-construction et la location des logements mentionnés au I du présent article.
+construction et la location des logements mentionnés au I.
 
-Les associés personnes physiques mentionnés au deuxième alinéa du présent IV ne
-peuvent bénéficier, pour la souscription au capital de la société mentionnée au
-même alinéa, des réductions d'impôt prévues aux articles 199 terdecies-0 A et
-885-0 V bis et la société mentionnée ne peut bénéficier des dispositions prévues
-aux articles 217 bis et 217 undecies.
+Les associés personnes physiques mentionnés au deuxième alinéa ne peuvent
+bénéficier, pour la souscription au capital de la société mentionnée au même
+alinéa, des réductions d'impôt prévues aux articles 199 terdecies-0 A et 885-0 V
+bis et la société mentionnée ne peut bénéficier des dispositions prévues aux
+articles 217 bis et 217 undecies.
 
 Le 11 de l'article 150-0 D n'est pas applicable aux moins-values constatées par
 les associés lors de la cession des titres des sociétés. Le 2° du 3 de l'article
@@ -146,9 +144,8 @@ conditions d'application du présent article sont réunies, sous réserve des pa
 détenues, conformément à l'article L. 472-1-9 du code de la construction et de
 l'habitation, par les sociétés d'habitations à loyer modéré. L'associé doit
 s'engager à conserver la totalité de ses parts ou actions jusqu'au terme de la
-location prévue au 1° du I du présent article. Le produit de la souscription
-doit être intégralement investi dans les dix-huit mois qui suivent la clôture de
-celle-ci.
+location prévue au 1° du I. Le produit de la souscription doit être
+intégralement investi dans les dix-huit mois qui suivent la clôture de celle-ci.
 
 V. - La réduction d'impôt fait l'objet d'une reprise au titre de l'année au
 cours de laquelle :

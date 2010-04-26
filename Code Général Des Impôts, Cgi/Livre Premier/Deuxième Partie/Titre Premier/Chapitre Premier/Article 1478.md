@@ -8,11 +8,10 @@ pas redevable de la cotisation foncière des entreprises pour les mois restant �
 courir, sauf en cas de cession de l'activité exercée dans l'établissement ou en
 cas de transfert d'activité.
 
-Lorsqu'au titre d'une année une cotisation de taxe professionnelle des
-entreprises a été émise au nom d'une personne autre que le redevable légal de
-l'impôt, l'imposition de ce dernier, au titre de la même année, est établie au
-profit de l'Etat dans la limite du dégrèvement accordé au contribuable imposé à
-tort.
+Lorsqu'au titre d'une année une cotisation foncière des entreprises a été émise
+au nom d'une personne autre que le redevable légal de l'impôt, l'imposition de
+ce dernier, au titre de la même année, est établie au profit de l'Etat dans la
+limite du dégrèvement accordé au contribuable imposé à tort.
 
 II. En cas de création d'un établissement autre que ceux mentionnés au III, la
 cotisation foncière des entreprises n'est pas due pour l'année de la création.
@@ -30,11 +29,12 @@ foncière des entreprises est due à compter du raccordement au réseau. Ces
 établissements sont imposés, au titre de l'année du raccordement au réseau,
 d'après la valeur locative de cette année, corrigée en fonction de la période
 d'activité. Pour les deux années suivant celle du raccordement, leurs bases
-d'imposition sont calculées dans les conditions définies au II, deuxième alinéa.
+d'imposition sont calculées dans les conditions définies au deuxième alinéa du
+II.
 
 IV. En cas de changement d'exploitant, la base d'imposition est calculée pour
-les deux années suivant celle du changement, dans les conditions définies au II,
-deuxième alinéa.
+les deux années suivant celle du changement, dans les conditions définies au
+deuxième alinéa du II.
 
 Si le changement d'exploitant prend effet le 1er janvier, le nouvel exploitant
 est imposé pour l'année du changement sur les bases relatives à l'activité de

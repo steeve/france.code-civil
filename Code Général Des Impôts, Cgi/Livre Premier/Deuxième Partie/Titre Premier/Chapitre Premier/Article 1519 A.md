@@ -2,12 +2,12 @@ Article 1519 A
 ----
 Il est institué une imposition forfaitaire annuelle sur les pylônes supportant
 des lignes électriques dont la tension est au moins égale à 200 kilovolts. En
-2009, le montant de cette imposition forfaitaire est fixé à 1 702 euros pour les
+2010, le montant de cette imposition forfaitaire est fixé à 1 824 € pour les
 pylônes supportant des lignes électriques dont la tension est comprise entre 200
-et 350 kilovolts et à 3 404 euros pour les pylônes supportant des lignes
-électriques dont la tension est supérieure à 350 kilovolts. Ces montants sont
-revisés chaque année proportionnellement à la variation du produit de la taxe
-foncière sur les propriétés bâties constatée au niveau national.
+et 350 kilovolts et à 3 647 € pour les pylônes supportant des lignes électriques
+dont la tension est supérieure à 350 kilovolts. Ces montants sont revisés chaque
+année proportionnellement à la variation du produit de la taxe foncière sur les
+propriétés bâties constatée au niveau national.
 
 L'imposition prévue au premier alinéa est perçue au profit des communes. Elle
 peut toutefois être perçue au profit d'un établissement public de coopération

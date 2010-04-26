@@ -12,11 +12,11 @@ l'exclusion des intérêts.
 
 En cas de vente ultérieure de titres reçus à l'occasion d'une opération
 mentionnée à l'article 150-0 B, au quatrième alinéa de l'article 150 A bis en
-vigueur avant la date de promulgation de la loi de finances pour 2004 précitée
-ou au II de l'article 150 UB, la plus-value imposable en application du I de
-l'article 150 UB est calculée par référence, le cas échéant, au prix ou à la
-valeur d'acquisition des titres échangés, diminué de la soulte reçue ou majoré
-de la soulte versée lors de l'échange.
+vigueur avant la date de promulgation de la loi de finances pour 2004 (n°
+2003-1311 du 30 décembre 2003) ou au II de l'article 150 UB, la plus-value
+imposable en application du I de l'article 150 UB est calculée par référence, le
+cas échéant, au prix ou à la valeur d'acquisition des titres échangés, diminué
+de la soulte reçue ou majoré de la soulte versée lors de l'échange.
 
 En cas de cession d'un bien ou d'un droit mentionné aux articles 150 U à 150 UD,
 dont le droit de propriété est démembré à la suite d'une succession intervenue

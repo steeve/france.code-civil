@@ -2,18 +2,18 @@ Article 1519 I
 ----
 I. ― Il est institué, au profit des communes et des établissements publics de
 coopération intercommunale à fiscalité propre dans les conditions prévues aux
-articles 1379 et 1379-0 bis, une imposition additionnelle à la taxe foncière sur
-les propriétés non bâties pour les propriétés suivantes :
+articles 1379 et 1379-0 bis, une taxe additionnelle à la taxe foncière sur les
+propriétés non bâties pour les propriétés suivantes :
 
-― carrières, ardoisières, sablières, tourbières ;
+1° carrières, ardoisières, sablières, tourbières ;
 
-― terrains à bâtir, rues privées ;
+2° terrains à bâtir, rues privées ;
 
-― terrains d'agrément, parcs et jardins et pièces d'eau ;
+3° terrains d'agrément, parcs et jardins et pièces d'eau ;
 
-― chemins de fer, canaux de navigation et dépendances ;
+4° chemins de fer, canaux de navigation et dépendances ;
 
-― sols des propriétés bâties et des bâtiments ruraux, cours et dépendances.
+5° sols des propriétés bâties et des bâtiments ruraux, cours et dépendances.
 
 II. ― Cette taxe est acquittée par le redevable de la taxe foncière sur les
 propriétés non bâties au sens de l'article 1400.
@@ -21,11 +21,11 @@ propriétés non bâties au sens de l'article 1400.
 III. ― L'assiette de cette taxe est établie d'après la valeur locative
 cadastrale déterminée conformément au premier alinéa de l'article 1396.
 
-IV. ― Le produit de cette imposition est obtenu en appliquant, chaque année, aux
-bases imposables la somme des taux départemental et régional de la taxe foncière
-sur les propriétés non bâties appliqués en 2010 sur le territoire de
-l'établissement public de coopération intercommunale ou de la commune,
-multipliée par un coefficient de 1, 0485.
+IV. ― Le produit de cette taxe est obtenu en appliquant, chaque année, aux bases
+imposables la somme des taux départemental et régional de la taxe foncière sur
+les propriétés non bâties appliqués en 2010 sur le territoire de l'établissement
+public de coopération intercommunale ou de la commune, multipliée par un
+coefficient de 1, 0485.
 
 Pour l'application du premier alinéa aux établissements publics de coopération
 intercommunale dont le territoire est situé sur plusieurs départements, le taux

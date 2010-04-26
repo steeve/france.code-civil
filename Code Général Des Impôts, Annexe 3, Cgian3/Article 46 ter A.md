@@ -17,8 +17,9 @@ social et le numéro d'identité de la société d'investissements immobiliers c
 ou de la société de placement à prépondérance immobilière à capital variable tel
 que défini au premier alinéa de l'article R. 123-221 du code de commerce.
 
-L'engagement prévu au deuxième alinéa de l'article 221 bis du même code figure
-dans l'option souscrite dans les conditions visées au premier alinéa.
+L'engagement prévu au deuxième alinéa de l'article 221 bis du code général des
+impôts figure dans l'option souscrite dans les conditions visées au premier
+alinéa.
 
 II.-Les sociétés qui ont opté conformément au premier alinéa du I doivent
 joindre à leur déclaration de résultat un état, conforme au modèle établi par

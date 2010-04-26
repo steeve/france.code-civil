@@ -17,8 +17,8 @@ l'action sociale et des familles, une résidence avec services pour personnes
 âgées ou handicapées ayant obtenu l'agrément " qualité " visé à l'article L.
 7232-3 du code du travail ou l'ensemble des logements affectés à l'accueil
 familial salarié de personnes âgées ou handicapées, prévu par les articles L.
-444-1 à L. 444-9 du même code géré par un groupement de coopération sociale ou
-médico-sociale ;
+444-1 à L. 444-9 du codede l'action sociale et des familles géré par un
+groupement de coopération sociale ou médico-sociale ;
 
 2° Une résidence avec services pour étudiants ;
 

@@ -74,7 +74,7 @@ européenne ;
 2° Des exportations de biens ;
 
 b) Les services bancaires et financiers exonérés en application des dispositions
-des a à e du 1 de l'article 261 C lorsqu'ils sont rendus à des personnes
+des a à e du 1° de l'article 261 C lorsqu'ils sont rendus à des personnes
 domiciliées ou établies en dehors de la Communauté européenne ou se rapportent à
 des exportations de biens ;
 

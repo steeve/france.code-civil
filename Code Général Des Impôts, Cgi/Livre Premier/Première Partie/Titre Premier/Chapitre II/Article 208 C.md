@@ -162,7 +162,7 @@ une ou plusieurs sociétés de placement à prépondérance immobilière à capi
 variable mentionnées au 3° nonies de l'article 208 ou par une ou plusieurs
 sociétés de placement à prépondérance immobilière à capital variable mentionnées
 au 3° nonies de l'article 208 et une ou plusieurs sociétés d'investissements
-immobiliers cotées visées au I du présent article.
+immobiliers cotées visées au I.
 
 IV.-En cas de sortie du présent régime de la société d'investissements
 immobiliers cotée dans les dix années suivant l'option, les plus-values imposées

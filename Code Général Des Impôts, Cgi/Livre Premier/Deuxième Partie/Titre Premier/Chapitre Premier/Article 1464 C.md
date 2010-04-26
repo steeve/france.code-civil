@@ -18,8 +18,8 @@ ou 11 modifiés de la loi n° 80-10 du 10 janvier 1980 portant aménagement de l
 fiscalité directe locale, celui-ci est substitué à la commune pour l'application
 du présent article.
 
-II. Les délibérations mentionnées ci-dessus sont de portée générale. Elles
-peuvent concerner :
+II. Les délibérations mentionnées au I sont de portée générale. Elles peuvent
+concerner :
 
 1° La taxe foncière sur les propriétés bâties et la cotisation foncière des
 entreprises ou l'une de ces deux taxes seulement ;

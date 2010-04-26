@@ -13,4 +13,4 @@ déclaration spéciale les concernant à la déclaration qu'elles sont tenues de
 déposer en vertu du 1 de l'article 223 du code précité.
 
 Une copie de la déclaration spéciale doit être adressée dans le même délai au
-Centre national de la cinématographie.
+Centre national du cinéma et de l'image animée.

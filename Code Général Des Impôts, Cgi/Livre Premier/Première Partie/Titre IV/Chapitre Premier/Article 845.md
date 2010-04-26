@@ -20,8 +20,8 @@ crédit immobilier pour la sûreté et le recouvrement des prêts individuels qu
 sont appelés à consentir à des particuliers;
 
 c) Des hypothèques prises en garantie des prêts d'épargne des travailleurs
-manuels prévus à l'article 80-III, deuxième alinéa, modifié, de la loi n°
+manuels prévus au deuxième alinéa du III de l'article 80, modifié, de la loi n°
 76-1232 du 29 décembre 1976.
 
-3° Les actes des prêts spéciaux à la construction désignés aux articles L 311-9
-et L 312-1 du code de la construction et de l'habitation.
+3° Les actes des prêts spéciaux à la construction désignés à l'article L 312-1
+du code de la construction et de l'habitation.

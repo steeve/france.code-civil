@@ -3,16 +3,16 @@ Article 46 AG duodecies
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des
 impôts, les plafonds de loyer et de ressources du locataire sont les suivants :
 
-1. Pour les baux conclus en 2009, les plafonds annuels de loyer, charges non
+1. Pour les baux conclus en 2010, les plafonds annuels de loyer, charges non
 comprises, sont fixés par mètre carré de surface habitable à :
 
-1° 150 euros dans les départements d'outre-mer, à Saint-Barthélemy, à
+1° 152 euros dans les départements d'outre-mer, à Saint-Barthélemy, à
 Saint-Martin et à Mayotte. Ce plafond est révisé chaque année, le 1er janvier,
 dans la même proportion que la variation la plus élevée de la moyenne annuelle
 des indices des prix à la consommation hors tabac de chacun des quatre
 départements d'outre-mer ;
 
-2° 189 euros en Polynésie française, dans les îles Wallis et Futuna et les
+2° 192 euros en Polynésie française, dans les îles Wallis et Futuna et les
 Terres australes et antarctiques françaises, à Saint-Pierre-et-Miquelon et en
 Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la
 même proportion que la variation la plus élevée de la moyenne annuelle des
@@ -41,74 +41,71 @@ professionnels qui figurent sur son avis d'imposition établi au titre des
 revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de
 l'année antérieure.
 
-Pour les baux conclus en 2009, les plafonds annuels de ressources sont les
+Pour les baux conclus en 2010, les plafonds annuels de ressources sont les
 suivants :
 
 
 COMPOSITION DU FOYER DU LOCATAIRE
 
-PLAFOND ANNUEL DE RESSOURCES
+PLAFOND ANNUEL DE RESSOURCES (en €)
 
-(en €)
+Départements d'outre-mer ; Saint-Barthélemy ; Saint-Martin ; Mayotte
 
-Départements d'outre-mer ; Saint-Barthélemy ; Saint-Martin et Mayotte
+Polynésie française ; Nouvelle-Calédonie ; îles Wallis et Futuna ; Terres
+australes
 
-Polynésie française ; Nouvelle-Calédonie ;
+et antarctiques françaises ;
 
-îles Wallis et Futuna ; Terres australes
 
-et antarctiques françaises
-
-et Saint-Pierre-et-Miquelon
-
+Saint-Pierre-et-Miquelon
 
 Personne seule
 
-28 638
+29 018 €
 
-27 794
+28 163 €
 
 
 Couple
 
-52 968
+53 671 €
 
-51 406
+52 088 €
 
 
 Personne seule ou couple ayant une personne à charge
 
-56 032
+56 775 €
 
-54 379
+55 100 €
 
 
 Personne seule ou couple ayant deux personnes à charge
 
-59 096
+59 880 €
 
-57 353
+58 114 €
 
 
 Personne seule ou couple ayant trois personnes à charge
 
-63 191
+64 029 €
 
-61 324
+62 138 €
 
 
 Personne seule ou couple ayant quatre personnes à charge
 
-67 285
+68 178 €
 
-65 298
+66 164 €
 
 
 Majoration par personne à charge à partir de la cinquième
 
-+ 4 298
++ 4 355 €
 
-+ 4 170
++ 4 226 €
 
 Ces plafonds sont relevés chaque année selon les modalités définies au 1.
 

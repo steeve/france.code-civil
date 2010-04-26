@@ -190,14 +190,13 @@ d'investissement de proximité donnant lieu à des droits différents sur l'acti
 net ou sur les produits du fonds, attribuées en fonction de la qualité de la
 personne.
 
-VI ter.-A compter de l'imposition des revenus de 2007, les contribuables
-domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur
-impôt sur le revenu égale à 50 % des souscriptions en numéraire de parts de
-fonds d'investissement de proximité, mentionnés à l'article L. 214-41-1 du code
-monétaire et financier, dont l'actif est constitué pour 60 % au moins de valeurs
-mobilières, parts de société à responsabilité limitée et avances en compte
-courant émises par des sociétés qui exercent leurs activités exclusivement dans
-des établissements situés en Corse.
+VI ter.-Les contribuables domiciliés fiscalement en France peuvent bénéficier
+d'une réduction de leur impôt sur le revenu égale à 50 % des souscriptions en
+numéraire de parts de fonds d'investissement de proximité, mentionnés à
+l'article L. 214-41-1 du code monétaire et financier, dont l'actif est constitué
+pour 60 % au moins de valeurs mobilières, parts de société à responsabilité
+limitée et avances en compte courant émises par des sociétés qui exercent leurs
+activités exclusivement dans des établissements situés en Corse.
 
 Les dispositions des a à c du 1 et du 3 du VI sont applicables.
 

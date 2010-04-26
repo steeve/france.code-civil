@@ -9,8 +9,7 @@ articles L. 3231-2 à L. 3131-11 du code du travail.
 
 II.-Le crédit d'impôt est plafonné à la prise en compte de quarante heures de
 formation par année civile. Les heures de formation correspondant aux dépenses
-mentionnées au V de l'article 44 quaterdecies du présent code ne sont pas prises
-en compte.
+mentionnées au V de l'article 44 quaterdecies ne sont pas prises en compte.
 
 II bis.-Pour le calcul du crédit d'impôt des groupements agricoles
 d'exploitation en commun, le plafond horaire mentionné au II est multiplié par

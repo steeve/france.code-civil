@@ -54,8 +54,7 @@ prescriptions de l'article L. 111-9 du code de la construction et de
 l'habitation. Le respect de cette condition est justifié par le contribuable
 selon des modalités définies par décret.
 
-Le premier alinéa s'applique à compter de la publication du décret mentionné au
-même alinéa et au plus tard à compter du 1er janvier 2010.
+Le premier alinéa s'applique à compter du 1er janvier 2010.
 
 III. ― L'engagement de location mentionné au I doit prendre effet dans les douze
 mois qui suivent la date d'achèvement de l'immeuble ou de son acquisition si
@@ -241,6 +240,6 @@ propriétaire s'engage à ce que les logements restent loués à l'issue de la
 période couverte par l'engagement mentionné au I selon les conditions prévues au
 V.
 
-Pour l'application du présent XI, le plafond de loyer mentionné au III du
-présent article ainsi que les conditions mentionnées au deuxième alinéa du l du
-1° du I de l'article 31 peuvent être adaptés par décret.
+Pour l'application du présent XI, le plafond de loyer mentionné au III ainsi que
+les conditions mentionnées au deuxième alinéa du l du 1° du I de l'article 31
+peuvent être adaptés par décret.

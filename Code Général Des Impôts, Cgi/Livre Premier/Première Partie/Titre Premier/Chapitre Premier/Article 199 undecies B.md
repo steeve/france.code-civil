@@ -169,27 +169,26 @@ inférieure, l'une des conditions visées au présent alinéa cesse d'être
 respectée, la réduction d'impôt pratiquée fait l'objet d'une reprise au titre de
 l'année au cours de laquelle cet événement se réalise. Le revenu global de cette
 même année est alors majoré des déficits indûment imputés en application du I
-bis du présent article. Lorsque l'entreprise locataire cesse son activité dans
-le délai mentionné à la troisième phrase du présent alinéa, la reprise de la
-réduction d'impôt est limitée aux trois quarts du montant de cette réduction
-d'impôt. Il n'est pas procédé à la reprise mentionnée à la troisième phrase du
-présent alinéa lorsque, en cas de défaillance de l'entreprise locataire, les
-biens ayant ouvert droit à la réduction d'impôt sont donnés en location à une
-nouvelle entreprise qui s'engage à les maintenir dans l'activité pour laquelle
-ils ont été acquis ou créés pendant la fraction du délai de cinq ans restant à
-courir dans les conditions prévues au présent alinéa.L'octroi de la réduction
-d'impôt prévue au premier alinéa est subordonné au respect par les entreprises
-réalisant l'investissement et, le cas échéant, les entreprises exploitantes de
-leurs obligations fiscales et sociales et de l'obligation de dépôt de leurs
-comptes annuels selon les modalités prévues aux articles L. 232-21 à L. 232-23
-du code de commerce à la date de réalisation de l'investissement. Sont
-considérés comme à jour de leurs obligations fiscales et sociales les employeurs
-qui, d'une part, ont souscrit et respectent un plan d'apurement des cotisations
-restant dues et, d'autre part, acquittent les cotisations en cours à leur date
-normale d'exigibilité. Pour l'application de la première phrase du présent
-alinéa en Nouvelle-Calédonie et en Polynésie française, les références aux
-dispositions du code de commerce sont remplacées par les dispositions prévues
-par la réglementation applicable localement.
+bis. Lorsque l'entreprise locataire cesse son activité dans le délai mentionné à
+la troisième phrase, la reprise de la réduction d'impôt est limitée aux trois
+quarts du montant de cette réduction d'impôt. Il n'est pas procédé à la reprise
+mentionnée à la troisième phrase lorsque, en cas de défaillance de l'entreprise
+locataire, les biens ayant ouvert droit à la réduction d'impôt sont donnés en
+location à une nouvelle entreprise qui s'engage à les maintenir dans l'activité
+pour laquelle ils ont été acquis ou créés pendant la fraction du délai de cinq
+ans restant à courir dans les conditions prévues au présent alinéa. L'octroi de
+la réduction d'impôt prévue au premier alinéa est subordonné au respect par les
+entreprises réalisant l'investissement et, le cas échéant, les entreprises
+exploitantes de leurs obligations fiscales et sociales et de l'obligation de
+dépôt de leurs comptes annuels selon les modalités prévues aux articles L.
+232-21 à L. 232-23 du code de commerce à la date de réalisation de
+l'investissement. Sont considérés comme à jour de leurs obligations fiscales et
+sociales les employeurs qui, d'une part, ont souscrit et respectent un plan
+d'apurement des cotisations restant dues et, d'autre part, acquittent les
+cotisations en cours à leur date normale d'exigibilité. Pour l'application de la
+première phrase en Nouvelle-Calédonie et en Polynésie française, les références
+aux dispositions du code de commerce sont remplacées par les dispositions
+prévues par la réglementation applicable localement.
 
 La réduction d'impôt prévue au présent I s'applique, dans les conditions prévues
 au vingt-sixième alinéa, aux investissements réalisés par une société soumise de
@@ -207,8 +206,8 @@ budget dans les conditions prévues au III de l'article 217 undecies ;
 d'un contrat de location respectant les conditions mentionnées aux quinzième à
 dix-huitième alinéas du I de l'article 217 undecies et 60 % de la réduction
 d'impôt sont rétrocédés à l'entreprise locataire sous forme de diminution du
-loyer et du prix de cession du bien à l'exploitant. Les dispositions du dernier
-alinéa sont applicables ;
+loyer et du prix de cession du bien à l'exploitant. Les dispositions du
+trente-troisième alinéa sont applicables ;
 
 3° La société réalisant l'investissement a pour objet exclusif l'acquisition
 d'investissements productifs en vue de la location au profit d'une entreprise
@@ -228,10 +227,10 @@ s'applique pas aux revenus distribués par ces sociétés.
 
 Pour les investissements dont la durée normale d'utilisation est égale ou
 supérieure à sept ans, et qui sont loués dans les conditions prévues au
-vingt-sixième alinéa du présent I, la réduction d'impôt prévue est applicable
-lorsque l'entreprise locataire prend l'engagement d'utiliser effectivement
-pendant sept ans au moins ces investissements dans le cadre de l'activité pour
-laquelle ils ont été acquis ou créés.
+vingt-sixième alinéa, la réduction d'impôt prévue est applicable lorsque
+l'entreprise locataire prend l'engagement d'utiliser effectivement pendant sept
+ans au moins ces investissements dans le cadre de l'activité pour laquelle ils
+ont été acquis ou créés.
 
 I bis.-1. En cas de location, dans les conditions mentionnées au vingt-sixième
 alinéa du I, d'un hôtel, d'une résidence de tourisme ou d'un village de vacances
@@ -268,9 +267,9 @@ pertinent.
 Le bénéfice de ces dispositions est subordonné au respect des conditions
 suivantes :
 
-a) Les investissements mentionnés au premier alinéa du présent I ter doivent
-avoir reçu l'agrément préalable du ministre chargé du budget et répondre aux
-conditions prévues aux a à d du 1 du III de l'article 217 undecies ;
+a) Les investissements mentionnés au premier alinéa doivent avoir reçu
+l'agrément préalable du ministre chargé du budget et répondre aux conditions
+prévues aux a à d du 1 du III de l'article 217 undecies ;
 
 b) Les fournisseurs des investissements éligibles ont été choisis au terme d'une
 procédure de mise en concurrence préalable au dépôt de la demande d'agrément et
@@ -300,12 +299,11 @@ secours desservant la Guadeloupe, la Guyane, la Martinique, La Réunion, Mayotte
 la Polynésie française, Saint-Barthélemy, Saint-Martin,
 Saint-Pierre-et-Miquelon, les îles Wallis et Futuna, la Nouvelle-Calédonie ou
 les Terres australes et antarctiques françaises lorsqu'ils respectent les
-conditions prévues aux troisième, quatrième et cinquième alinéas du présent I
-ter. La base éligible de la réduction d'impôt est égale au quart du coût de
-revient hors taxes et hors frais de toute nature, notamment les commissions
-d'acquisition, à l'exception des frais de transport de ces équipements et
-opérations, diminué du montant des subventions publiques accordées pour leur
-financement.
+conditions prévues aux a, b et c. La base éligible de la réduction d'impôt est
+égale au quart du coût de revient hors taxes et hors frais de toute nature,
+notamment les commissions d'acquisition, à l'exception des frais de transport de
+ces équipements et opérations, diminué du montant des subventions publiques
+accordées pour leur financement.
 
 II. 1. Les investissements mentionnés au I et dont le montant total par
 programme et par exercice est supérieur à 1 000 000 euros ne peuvent ouvrir
@@ -339,5 +337,5 @@ projets d'investissements sont sans incidence sur la détermination du montant
 des dépenses éligibles retenues pour l'application des I et I ter.
 
 IV. Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités
-d'application des I, I bis, I ter et II du présent article et notamment les
-obligations déclaratives.
+d'application des I, I bis, I ter et II et notamment les obligations
+déclaratives.

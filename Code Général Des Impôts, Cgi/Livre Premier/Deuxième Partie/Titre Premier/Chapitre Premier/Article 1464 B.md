@@ -24,5 +24,5 @@ règlement communautaire que celui appliqué pour l'exonération dont l'entrepri
 bénéficie sur le fondement, selon le cas, de l'article 44 sexies ou de l'article
 44 septies.
 
-IV. Les dispositions du dixième alinéa de l'article 1465 s'appliquent au présent
-article.
+IV. Les dispositions du neuvième alinéa de l'article 1465 s'appliquent au
+présent article.

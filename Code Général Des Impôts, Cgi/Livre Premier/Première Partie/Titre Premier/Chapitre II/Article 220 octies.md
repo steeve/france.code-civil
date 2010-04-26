@@ -1,7 +1,7 @@
 Article 220 octies
 ----
-I .-Les entreprises de production phonographique au sens de l'article L. 213-1
-du code de la propriété intellectuelle, soumises à l'impôt sur les sociétés et
+I.-Les entreprises de production phonographique au sens de l'article L. 213-1 du
+code de la propriété intellectuelle, soumises à l'impôt sur les sociétés et
 existant depuis au moins trois années, peuvent bénéficier d'un crédit d'impôt au
 titre des dépenses de production, de développement et de numérisation d'un
 enregistrement phonographique ou vidéographique musical (vidéomusique ou disque
@@ -9,8 +9,8 @@ numérique polyvalent musical) mentionnées au III, à condition de ne pas être
 détenues, directement ou indirectement, par un éditeur de service de télévision
 ou de radiodiffusion.
 
-II .-Ouvrent droit au crédit d'impôt les dépenses engagées pour la production,
-le développement et la numérisation d'un enregistrement phonographique ou
+II.-Ouvrent droit au crédit d'impôt les dépenses engagées pour la production, le
+développement et la numérisation d'un enregistrement phonographique ou
 vidéographique musical (vidéomusique ou disque numérique polyvalent musical)
 remplissant les conditions cumulatives suivantes :
 
@@ -35,16 +35,16 @@ intellectuelle.S'agissant des albums de nouveaux talents, le bénéfice du créd
 d'impôt s'apprécie au niveau de l'entreprise redevable de l'impôt sur les
 sociétés pour l'ensemble des albums qu'elle produit chaque année.
 
-III .-Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 20 % du
+III.-Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 20 % du
 montant total des dépenses suivantes engagées entre le 1er juillet 2007 et le 31
 décembre 2012, pour des opérations mentionnées au II effectuées en France, dans
 un autre Etat membre de la Communauté européenne ou dans un autre Etat partie à
 l'accord sur l'Espace économique européen ayant conclu avec la France une
-convention fiscale contenant une clause administrative en vue de lutter contre
-la fraude ou l'évasion fiscale, dès lors qu'elles entrent dans la détermination
-du résultat imposable :
+convention fiscale contenant une clause d'assistance administrative en vue de
+lutter contre la fraude ou l'évasion fiscale, dès lors qu'elles entrent dans la
+détermination du résultat imposable :
 
-1° Pour les dépenses correspondant aux frais de production d'un enregistrement
+1 ° Pour les dépenses correspondant aux frais de production d'un enregistrement
 phonographique ou vidéographique musical :
 
 a.-les frais de personnel non permanent de l'entreprise : les salaires et
@@ -69,7 +69,7 @@ de création des visuels ;
 
 e.-les dépenses liées au coût de numérisation et d'encodage des productions ;
 
-2° Pour les dépenses liées au développement de productions phonographiques ou
+2 ° Pour les dépenses liées au développement de productions phonographiques ou
 vidéographiques musicales mentionnées au II :
 
 a.-les frais de répétition des titres ayant fait l'objet d'un enregistrement
@@ -115,9 +115,9 @@ application d'une décote de 70 %, des productions définies au b du II réalis�
 au titre des deux derniers exercices. En cas de décimale, l'unité supérieure est
 retenue.
 
-IV .-Les dépenses ouvrent droit au crédit d'impôt à compter de la délivrance,
-par le ministre chargé de la culture, d'un agrément à titre provisoire attestant
-que les productions phonographiques ou vidéographiques musicales remplissent les
+IV.-Les dépenses ouvrent droit au crédit d'impôt à compter de la délivrance, par
+le ministre chargé de la culture, d'un agrément à titre provisoire attestant que
+les productions phonographiques ou vidéographiques musicales remplissent les
 conditions prévues au 1 du II. Cet agrément est délivré après avis d'un comité
 d'experts dont les modalités de fonctionnement sont précisées par décret, sur la
 base de pièces justificatives comprenant notamment :
@@ -133,10 +133,10 @@ c.-pour le calcul du seuil mentionné au dernier alinéa du III, la liste de
 l'ensemble des productions telles que définies au b du II, commercialisées les
 deux années précédant l'année de référence pour le calcul du crédit d'impôt.
 
-V .-Les subventions publiques reçues par les entreprises à raison des dépenses
+V.-Les subventions publiques reçues par les entreprises à raison des dépenses
 ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit.
 
-VI .-1° La somme des crédits d'impôt calculés au titre des dépenses éligibles ne
+VI.-1° La somme des crédits d'impôt calculés au titre des dépenses éligibles ne
 peut excéder 700 000 € par entreprise et par exercice. Ce montant est porté à 1
 100 000 € lorsque le nombre de productions de nouveaux talents constaté à la
 clôture de l'exercice au titre duquel le crédit d'impôt est calculé a augmenté

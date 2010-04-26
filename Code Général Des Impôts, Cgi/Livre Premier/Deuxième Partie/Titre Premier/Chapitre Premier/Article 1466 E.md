@@ -38,10 +38,8 @@ l'exonération.
 
 Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'une
 des exonérations prévues aux articles 1464 B, 1464 D, 1465, 1465 A, 1465 B, 1466
-A, 1466 B, 1466 C, 1466 D et de celle du présent article, le contribuable doit
-préciser le régime sous lequel il entend se placer. Ce choix, qui est
-irrévocable , doit être exercé dans le délai prévu pour le dépôt, selon le cas,
-de la déclaration annuelle ou de la déclaration provisoire de la cotisation
-foncière des entreprises visées à l'article 1477. Les bases bénéficiant de
-l'exonération ne peuvent faire l'objet des dégrèvements mentionnés aux articles
-1647 C à 1647 C quater.
+A, 1466 C, 1466 D et de celle du présent article, le contribuable doit préciser
+le régime sous lequel il entend se placer. Ce choix, qui est irrévocable , doit
+être exercé dans le délai prévu pour le dépôt, selon le cas, de la déclaration
+annuelle ou de la déclaration provisoire de la cotisation foncière des
+entreprises visées à l'article 1477.

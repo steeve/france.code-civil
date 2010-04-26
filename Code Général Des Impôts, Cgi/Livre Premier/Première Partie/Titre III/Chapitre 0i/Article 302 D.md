@@ -1,6 +1,6 @@
 Article 302 D
 ----
-I. - 1. L'impôt est exigible :
+I.-1. L'impôt est exigible :
 
 1° Lors de la mise à la consommation. Le produit est mis à la consommation :
 
@@ -64,103 +64,10 @@ c. La nature de ces produits ;
 
 d) Les quantités de ces produits, notamment lorsque celles-ci sont supérieures
 aux seuils indicatifs fixés par l'article 32, paragraphe 3, de la directive
-2008/118/CE du Conseil du 16 décembre 2008 relative au régime général d'accise
-et abrogeant la directive 92/12/CEE.
+2008/118/ CE du Conseil du 16 décembre 2008 relative au régime général d'accise
+et abrogeant la directive 92/12/ CEE.
 
-Toutefois, les cigarettes en provenance de la Bulgarie, de l'Estonie, de la
-Hongrie, de la Lettonie, de la Lituanie, de la Pologne, de la Slovaquie, de la
-Slovénie, de la République tchèque et de la Roumanie, ainsi que les tabacs
-destinés à rouler les cigarettes et les autres tabacs à fumer en provenance
-d'Estonie, acquis aux conditions du marché intérieur de ces Etats membres et
-introduits en France, sont soumis au droit de consommation mentionné à l'article
-575, pour toutes les quantités excédant celles qui seraient admises en franchise
-si les produits provenaient de pays tiers à la Communauté européenne.
-
-Les dispositions du septième alinéa s'appliquent pour chaque pays de provenance
-et chaque type de produit mentionnés dans le tableau ci-dessous, jusqu'à la fin
-de la période dérogatoire accordée à ces Etats membres en vue de différer
-l'application des niveaux minimum de taxation, tels qu'ils résultent des
-directives n° 92 / 79 / CEE du Conseil, du 19 octobre 1992, concernant le
-rapprochement des taxes frappant les cigarettes et n° 92 / 80 / CEE du Conseil,
-du 19 octobre 1992, concernant le rapprochement des taxes frappant les tabacs
-manufacturés autres que les cigarettes :
-
-ETAT MEMBRE de provenance : Estonie
-
-CATEGORIE de produits : Cigarettes
-
-DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
-provenance : 31 décembre 2009
-
-CATEGORIE de produits : Tabacs à fumer (tabacs à rouler, tabacs à pipe)
-
-DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
-provenance : 31 décembre 2009
-
-ETAT MEMBRE de provenance : Bulgarie
-
-CATEGORIE de produits : Cigarettes
-
-DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
-provenance : 31 décembre 2009
-
-ETAT MEMBRE de provenance : Hongrie
-
-CATEGORIE de produits : Cigarettes
-
-DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
-provenance : 31 décembre 2008
-
-ETAT MEMBRE de provenance : Lettonie
-
-CATEGORIE de produits : Cigarettes
-
-DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
-provenance : 31 décembre 2009
-
-ETAT MEMBRE de provenance : Lituanie
-
-CATEGORIE de produits : Cigarettes
-
-DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
-provenance : 31 décembre 2008
-
-ETAT MEMBRE de provenance : Pologne
-
-CATEGORIE de produits : Cigarettes
-
-DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
-provenance : 31 décembre 2008
-
-ETAT MEMBRE de provenance : Slovaquie
-
-CATEGORIE de produits : Cigarettes
-
-DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
-provenance : 31 décembre 2008
-
-ETAT MEMBRE de provenance : Slovénie
-
-CATEGORIE de produits : Cigarettes
-
-DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
-provenance : 31 décembre 2007
-
-ETAT MEMBRE de provenance : République tchèque
-
-CATEGORIE de produits : Cigarettes
-
-DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
-provenance : 31 décembre 2007
-
-ETAT MEMBRE de provenance : Roumanie
-
-CATEGORIE de produits : Cigarettes
-
-DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
-provenance : 31 décembre 2009
-
-2.L'impôt est dû :
+2. L'impôt est dû :
 
 1° Dans les cas visés aux a, a bis et b du 1° du 1, par la personne qui met à la
 consommation ;
@@ -180,13 +87,13 @@ cette franchise ne sont pas remplies, ainsi que par toute personne qui a été
 autorisée à recevoir des alcools, des boissons alcooliques ou des tabacs
 manufacturés en franchise, en exemption ou en exonération des droits d'accises,
 conformément aux dispositions de l'article 302 D bis, du 3° de l'article 302 F
-bis, de l'article 406, des articles 440 bis,441,442 et 508, lorsque les
+bis, de l'article 406, des articles 440 bis, 441,442 et 508, lorsque les
 conditions d'application auxquelles est subordonné l'octroi de cette franchise,
 exemption ou exonération ne sont pas remplies.
 
 II. (Abrogé).
 
-III. - 1.L'impôt est liquidé mensuellement, au plus tard le dixième jour de
+III.-1. L'impôt est liquidé mensuellement, au plus tard le dixième jour de
 chaque mois, sur la base d'une déclaration des quantités de produits mis à la
 consommation au cours du mois précédent transmise à l'administration.
 
@@ -201,8 +108,8 @@ déclaration mentionnée au 1.
 
 4. Pour les entrepositaires agréés mentionnés au 2 dispensés de caution
 garantissant le paiement de l'impôt dû, redevables des droits respectivement
-mentionnés au 2° du I de l'article 403, aux articles 402 bis,438 et 1613 bis, du
-droit spécifique sur les bières prévu à l'article 520 A et de la cotisation
+mentionnés au 2° du I de l'article 403, aux articles 402 bis, 438 et 1613 bis,
+du droit spécifique sur les bières prévu à l'article 520 A et de la cotisation
 prévue à l'article L. 245-7 du code de la sécurité sociale, l'impôt est acquitté
 auprès de l'administration en une échéance annuelle unique. Cette échéance est
 fixée pour les entrepositaires agréés produisant des produits vitivinicoles

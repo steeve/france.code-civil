@@ -30,8 +30,8 @@ dont le redevable dispose au 1er janvier de l'année d'imposition.
 
 Lorsque plusieurs personnes disposent d'une même station pour les besoins de
 leur activité professionnelle au 1er janvier de l'année d'imposition, le montant
-de l'imposition forfaitaire applicable en vertu du premier alinéa du présent III
-est divisé par le nombre de ces personnes.
+de l'imposition forfaitaire applicable en vertu du premier alinéa est divisé par
+le nombre de ces personnes.
 
 IV. - Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré
 suivant le 1er mai de l'année d'imposition, le nombre de stations

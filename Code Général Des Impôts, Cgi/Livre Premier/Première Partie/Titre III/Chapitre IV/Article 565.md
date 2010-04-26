@@ -14,8 +14,8 @@ en tant que fournisseur. La vente au détail des tabacs manufacturés est réser
 à l'Etat.
 
 3. Les personnes physiques ou morales qui approvisionnent les titulaires du
-statut d'acheteur-revendeur prévu au quatrième alinéa de l'article 568 ne sont
-pas tenues de s'établir en qualité de fournisseur pour introduire,
-commercialiser en gros et, le cas échéant, importer des tabacs manufacturés. Ces
-personnes physiques ou morales doivent prendre la qualité d'entrepositaire agréé
+statut d'acheteur-revendeur prévu au dixième alinéa de l'article 568 ne sont pas
+tenues de s'établir en qualité de fournisseur pour introduire, commercialiser en
+gros et, le cas échéant, importer des tabacs manufacturés. Ces personnes
+physiques ou morales doivent prendre la qualité d'entrepositaire agréé
 mentionnée à l'article 302 G.

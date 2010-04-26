@@ -16,8 +16,8 @@ promotion, d'environnement juridique et administratif de l'entreprise, et de
 tout autre savoir ou savoir-faire utile, en fonction des besoins spécifiques du
 bénéficiaire ;
 
-4° Dans le cas de reprise d'entreprise prévu au 2° de l'article 200 octies,
-l'ensemble des éléments d'information spécifiques à l'entreprise que
+4° Dans le cas de reprise d'entreprise prévu au 2° de l'article 200 octies
+précité, l'ensemble des éléments d'information spécifiques à l'entreprise que
 l'accompagnateur s'engage à transmettre ;
 
 5° La durée de l'accompagnement, les modalités d'intervention de
@@ -29,8 +29,8 @@ de résiliation anticipée de la convention ;
 6° Les modalités de suivi et de bilan de l'exécution de la convention.
 
 Sont annexés à la convention les pièces justifiant que le bénéficiaire satisfait
-aux conditions prévues au premier alinéa du 1 de l'article 200 octies et, dans
-le cas prévu à ce même 1, l'agrément de l'accompagnateur. Le cas échéant, sont
-aussi annexées à la convention les pièces justifiant que le bénéficiaire est une
-personne handicapée au sens de l'article L. 114 du code de l'action sociale et
-des familles.
+aux conditions prévues au premier alinéa du 1 de l'article 200 octies précité
+et, dans le cas prévu à ce même 1, l'agrément de l'accompagnateur. Le cas
+échéant, sont aussi annexées à la convention les pièces justifiant que le
+bénéficiaire est une personne handicapée au sens de l'article L. 114 du code de
+l'action sociale et des familles.

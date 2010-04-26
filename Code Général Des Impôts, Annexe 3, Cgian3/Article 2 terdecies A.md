@@ -4,8 +4,8 @@ Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du cod
 général des impôts dans sa rédaction en vigueur avant la publication de la loi
 n° 2006-872 du 13 juillet 2006 portant engagement national pour le logement, les
 plafonds de loyer mensuel, charges non comprises, sont fixés, pour les baux
-conclus en 2009, à 21,65 euros par mètre carré en zone A, 15,05 euros en zone B
-et 10,83 euros en zone C. Les plafonds sont relevés chaque année, au 1er
+conclus en 2010, à 21,72 euros par mètre carré en zone A, 15,10 euros en zone B
+et 10,87 euros en zone C. Les plafonds sont relevés chaque année, au 1er
 janvier, selon les mêmes modalités que les plafonds de loyer prévus à l'article
 2 duodecies.
 

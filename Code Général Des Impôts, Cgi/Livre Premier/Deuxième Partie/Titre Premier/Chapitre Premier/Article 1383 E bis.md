@@ -13,8 +13,7 @@ b) Les locaux meublés à titre de gîte rural au sens du a du 3° de l'article 
 ;
 
 c) Les locaux classés meublés de tourisme au sens de l'arrêté du 28 décembre
-1976 relatif à la répartition catégorielle des meublés de tourisme et des gîtes
-de France ;
+1976 modifié instituant la répartition catégorielle des meublés de tourisme ;
 
 d) Les chambres d'hôtes au sens de l'article L. 324-3 du code du tourisme.
 
@@ -28,6 +27,6 @@ de chaque année au titre de laquelle l'exonération est applicable, une
 déclaration accompagnée de tous les éléments justifiant de l'affectation des
 locaux.
 
-Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998
-/ 2006 de la Commission du 15 décembre 2006 concernant l'application des
+Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n°
+1998/2006 de la Commission du 15 décembre 2006 concernant l'application des
 articles 87 et 88 du traité aux aides de minimis.

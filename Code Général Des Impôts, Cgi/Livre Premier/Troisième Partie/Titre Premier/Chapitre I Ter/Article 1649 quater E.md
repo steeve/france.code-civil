@@ -6,8 +6,8 @@ l'administration fiscale ; un agent de l'administration fiscale apporte son
 assistance technique au centre de gestion agréé, dans les conditions prévues par
 la convention passée entre le centre et l'administration fiscale. Les modalités
 d'assistance et de contrôle des centres de gestion agréés par l'administration
-fiscale sont précisées dans la convention visée à l'article 371 C de l'annexe II
-au présent code.
+fiscale sont précisées dans la convention visée à l'article 371 C de l'annexe
+II.
 
 Les centres demandent à leurs adhérents tous renseignements utiles afin de
 procéder chaque année, sous leur propre responsabilité, à un examen en la forme

@@ -41,9 +41,9 @@ territoriales par un arrêté préfectoral pris postérieurement au 15 octobre d
 année peuvent prendre, jusqu'au 15 janvier de l'année qui suit celle du
 transfert, la délibération afférente à l'institution de la taxe d'enlèvement des
 ordures ménagères à l'exclusion des délibérations prévues aux articles 1521 et
-1522 et au 2 du III de l'article 1636 B sexies du présent code. A défaut, les
-délibérations prises en matière de taxe d'enlèvement des ordures ménagères par
-les communes restent applicables l'année qui suit celle du transfert.
+1522 et au 2 du III de l'article 1636 B sexies. A défaut, les délibérations
+prises en matière de taxe d'enlèvement des ordures ménagères par les communes
+restent applicables l'année qui suit celle du transfert.
 
 Par exception aux dispositions du premier alinéa, en cas de rattachement d'une
 commune ou d'un établissement public de coopération intercommunale à un

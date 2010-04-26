@@ -32,10 +32,9 @@ droits dans la société ou le groupement.
 La déduction prévue au premier alinéa ne s'applique qu'à la fraction du prix de
 revient des investissements réalisés par les entreprises qui excède le montant
 des apports en capital ouvrant droit au profit de leurs associés aux déductions
-prévues au II du présent article et aux articles 199 undecies ou 199 undecies A
-et le montant des financements, apports en capital et prêts participatifs,
-apportés par les sociétés de financement définies au g du 2 de l'article 199
-undecies A.
+prévues au II et aux articles 199 undecies ou 199 undecies A et le montant des
+financements, apports en capital et prêts participatifs, apportés par les
+sociétés de financement définies au g du 2 de l'article 199 undecies A.
 
 La déduction prévue au premier alinéa s'applique aux travaux de rénovation et de
 réhabilitation d'hôtel, de résidence de tourisme et de village de vacances
@@ -161,7 +160,7 @@ l'habitation ;
 3° Les trois quarts de l'avantage en impôt procuré par la déduction pratiquée au
 titre de l'acquisition ou la construction de l'immeuble sont rétrocédés à la
 personne physique signataire du contrat mentionné au 1° sous forme de diminution
-de la redevance prévue à l'article 5 de la loi n° 84-595 du 12 juillet 1984
+de la redevance prévue à l' article 5 de la loi n° 84-595 du 12 juillet 1984
 précitée et du prix de cession de l'immeuble.
 
 II. Les entreprises mentionnées au I peuvent, d'autre part, déduire de leurs
@@ -231,8 +230,8 @@ II ter. La déduction prévue au premier alinéa du II s'applique aux souscripti
 au capital de sociétés soumises à l'impôt sur les sociétés et qui sont affectées
 exclusivement à l'acquisition ou à la construction de logements neufs dans les
 départements d'outre-mer lorsque ces sociétés ont pour activité exclusive la
-location de tels logements dans les conditions mentionnées aux sixième et
-septième alinéas du I.
+location de tels logements dans les conditions mentionnées aux septième et
+huitième alinéas du I.
 
 Cette déduction s'applique sous les conditions et sanctions prévues au II, à
 l'exception de celle mentionnée à la troisième phrase du premier alinéa du même
@@ -306,12 +305,11 @@ de notification du projet pour examen et avis de la Commission européenne.
 pas 250 000 euros par programme et par exercice sont dispensés de la procédure
 d'agrément préalable lorsqu'ils sont réalisés par une entreprise qui exerce son
 activité dans les départements visés au I depuis au moins deux ans dans l'un des
-secteurs mentionnés au premier alinéa du 1 du présent III. Il en est de même
-lorsque ces investissements sont donnés en location à une telle
-entreprise.L'entreprise propriétaire des biens ou qui les a acquis en
-crédit-bail joint à sa déclaration de résultat un état récapitulatif des
-investissements réalisés au cours de l'exercice et au titre desquels la
-déduction fiscale est pratiquée (1).
+secteurs mentionnés au premier alinéa du 1. Il en est de même lorsque ces
+investissements sont donnés en location à une telle entreprise.L'entreprise
+propriétaire des biens ou qui les a acquis en crédit-bail joint à sa déclaration
+de résultat un état récapitulatif des investissements réalisés au cours de
+l'exercice et au titre desquels la déduction fiscale est pratiquée (1).
 
 Le premier alinéa ne s'applique pas au secteur des transports, à l'exception des
 véhicules neufs de moins de sept places acquis par les entreprises de transports

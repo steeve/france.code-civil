@@ -4,7 +4,7 @@ Article 168
 ses revenus, la base d'imposition à l'impôt sur le revenu est portée à une somme
 forfaitaire déterminée en appliquant à certains éléments de ce train de vie le
 barème ci-après, compte tenu, le cas échéant, de la majoration prévue au 2,
-lorsque cette somme est supérieure ou égale à 43 938 euros ; cette limite est
+lorsque cette somme est supérieure ou égale à 44 111 € ; cette limite est
 relevée chaque année dans la même proportion que la limite supérieure de la
 première tranche du barème de l'impôt sur le revenu :
 

@@ -14,7 +14,7 @@ participation versés par une société membre du groupe depuis plus d'un exerci
 et n'ayant pas déjà justifié des rectifications effectuées en application du
 présent alinéa ou du troisième alinéa.
 
-Les produits des participations perçus par une société du groupe d'une société
+Les produits de participation perçus par une société du groupe d'une société
 membre du groupe depuis plus d'un exercice (3) et les produits de participation
 perçus par une société du groupe d'une société intermédiaire pour lesquels la
 société mère apporte la preuve qu'ils proviennent de produits de participation

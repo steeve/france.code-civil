@@ -15,6 +15,6 @@ distributions.
 2. Pour l'application du 1, la société de gestion ou, le cas échéant, le
 dépositaire des actifs des sociétés de capital-risque, des fonds communs de
 placement à risques et des entités mentionnées au dernier alinéa du 8 du II de
-l'article 150-0 A fournit aux personnes mentionnées au 1 du présent article les
-informations nécessaires en vue de leur permettre de s'acquitter de l'obligation
-déclarative correspondante.
+l'article 150-0 A fournit aux personnes mentionnées au 1 les informations
+nécessaires en vue de leur permettre de s'acquitter de l'obligation déclarative
+correspondante.

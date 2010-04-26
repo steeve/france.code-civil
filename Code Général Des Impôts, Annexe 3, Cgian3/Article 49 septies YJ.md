@@ -18,15 +18,15 @@ mentionné au I de l'article 244 quater G du code général des impôts. Un nomb
 moyen annuel différent doit ainsi être calculé par l'entreprise au titre :
 
 1° Des apprentis dont le contrat est régi par les dispositions des articles L.
-117-1 à L. 117-18 du code du travail ;
+6221-1 à L. 6225-8 du code du travail ;
 
 2° Des apprentis ayant la qualité de travailleurs handicapés conformément aux
-dispositions de l'article L. 323-10 du code du travail et des apprentis
-bénéficiant de l'accompagnement personnalisé prévu à la dernière phrase du
-premier alinéa de l'article L. 322-4-17-2 du code du travail ;
+dispositions des articles L. 5213-1 et L. 5213-2 du code du travail et des
+apprentis bénéficiant de l'accompagnement personnalisé et renforcé prévu par
+l'article D. 5131-13 en application du 1° de l'article L. 5131-7 du même code ;
 
-3° Des apprentis employés par une entreprise portant le label "Entreprise du
-patrimoine vivant" au sens de l'article 23 de la loi n° 2005-882 du 2 août 2005
+3° Des apprentis employés par une entreprise portant le label " Entreprise du
+patrimoine vivant " au sens de l'article 23 de la loi n° 2005-882 du 2 août 2005
 en faveur des petites et moyennes entreprises ;
 
 4° Des apprentis dont le contrat d'apprentissage est signé dans les conditions

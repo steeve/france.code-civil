@@ -17,7 +17,7 @@ lorsque la déclaration mentionnée au 2 de l'article 287 du code général des
 impôts fait apparaître un crédit de taxe déductible. La demande de remboursement
 doit porter sur un montant au moins égal à 760 euros.
 
-Les dispositions de l'alinéa précédent s'appliquent également aux exploitants
+Les dispositions de du premier alinéa s'appliquent également aux exploitants
 agricoles ayant exercé l'option prévue au quatrième alinéa du I de l'article
 1693 bis du code général des impôts pour acquitter l'impôt au vu de déclarations
 mensuelles ou trimestrielles.

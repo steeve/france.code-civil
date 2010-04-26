@@ -109,10 +109,10 @@ est déterminée conformément à l'article 1467, au 1er janvier de l'année au 
 de laquelle est clos l'exercice ou au 1er janvier de l'année d'imposition des
 bénéfices.
 
-Par exception aux dispositions du sixième alinéa du présent II, le contribuable
-exerçant une activité de location d'immeubles n'est exonéré qu'à raison des
-bénéfices provenant des seuls immeubles situés dans une zone franche urbaine.
-Cette disposition s'applique quel que soit le lieu d'établissement du bailleur.
+Par exception aux dispositions du sixième alinéa , le contribuable exerçant une
+activité de location d'immeubles n'est exonéré qu'à raison des bénéfices
+provenant des seuls immeubles situés dans une zone franche urbaine. Cette
+disposition s'applique quel que soit le lieu d'établissement du bailleur.
 
 Le bénéfice exonéré ne peut excéder 100 000 Euros par contribuable et par
 période de douze mois, majoré de 5 000 Euros par nouveau salarié embauché à
@@ -135,8 +135,7 @@ de l'article 223 I.
 
 Pour l'ensemble des sociétés d'un même groupe, le montant de l'exonération
 accordée ne peut excéder le montant total calculé conformément aux dispositions
-de l'avant-dernier alinéa du II, dans la limite du résultat d'ensemble du
-groupe.
+du huitième alinéa du II, dans la limite du résultat d'ensemble du groupe.
 
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions du
 régime prévu à l'article 44 sexies et du régime prévu au présent article, le

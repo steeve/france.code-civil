@@ -12,10 +12,10 @@ production d'électricité utilisant l'énergie mécanique du vent au 1er janvie
 l'année d'imposition. Elle n'est pas due l'année de la mise en service de
 l'unité.
 
-Le tarif annuel de la taxe est fixé à 12 879 euros par mégawatt installé. Ce
-montant évolue chaque année comme l'indice de valeur du produit intérieur brut
-total, tel qu'il est estimé dans la projection économique présentée en annexe au
-projet de loi de finances de l'année.
+Le tarif annuel de la taxe est fixé à 13 137 € par mégawatt installé. Ce montant
+évolue chaque année comme l'indice de valeur du produit intérieur brut total,
+tel qu'il est estimé dans la projection économique présentée en annexe au projet
+de loi de finances de l'année.
 
 Les éléments imposables sont déclarés avant le 1er janvier de l'année
 d'imposition.

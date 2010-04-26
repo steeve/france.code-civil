@@ -251,9 +251,9 @@ pour dépréciation qui résulte éventuellement de l'estimation du portefeuille
 soumise au régime fiscal des moins-values à long terme défini au 2 du I de
 l'article 39 quindecies ; si elle devient ultérieurement sans objet, elle est
 comprise dans les plus-values à long terme de l'exercice, visées au 1 du I de
-l'article 39 quindecies. La provision pour dépréciation constituée
-antérieurement, le cas échéant, sur des titres prêtés dans les conditions
-prévues à l'article L. 211-22 du code monétaire et financier n'est pas
+l'article 39 quindecies. Conformément au quatrième alinéa de l'article L. 211-24
+du code monétaire et financier, la provision pour dépréciation constituée
+antérieurement, le cas échéant, sur des titres financiers prêtés n'est pas
 réintégrée ; elle doit figurer sur une ligne distincte au bilan et demeurer
 inchangée jusqu'à la restitution de ces titres.
 
@@ -302,10 +302,10 @@ ou de l'emprunteur, à la constitution d'une provision. De même le prêteur ne
 peut constituer de provision pour dépréciation de la créance représentative de
 ces titres ;
 
-La dépréciation des valeurs, titres ou effets qui sont l'objet d'une pension
-dans les conditions prévues par les articles L. 211-27 à L. 211-34 du code
-monétaire et financier, ne peut donner lieu, de la part du cessionnaire, à la
-constitution d'une provision déductible sur le plan fiscal.
+La dépréciation des titres financiers qui sont l'objet d'une pension dans les
+conditions prévues par les articles L. 211-27 à L. 211-34 du code monétaire et
+financier, ne peut donner lieu, de la part du cessionnaire, à la constitution
+d'une provision déductible sur le plan fiscal.
 
 La dépréciation des titres qui font l'objet d'une remise en garantie dans les
 conditions prévues à l'article 38 bis-0 A bis ne peut donner lieu à la
@@ -612,7 +612,7 @@ d'un accord conclu, selon les modalités prévues aux articles L. 3322-6 et L.
 exercée dans le document formalisant l'accord.L'attribution, la mise à
 disposition ou la fourniture effective aux bénéficiaires des biens ou
 prestations de services doit s'effectuer dans les douze mois de la conclusion de
-l'accord précité.
+l'accord précité .
 
 12. Lorsqu'il existe des liens de dépendance entre l'entreprise concédante et
 l'entreprise concessionnaire, le montant des redevances prises en compte pour le

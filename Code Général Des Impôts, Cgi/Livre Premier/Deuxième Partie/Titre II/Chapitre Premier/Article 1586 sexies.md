@@ -104,9 +104,8 @@ chiffre d'affaires défini au 3 diminué des charges de la propriété énumér�
 l'article 31, à l'exception des charges énumérées aux c et d du 1° du I du même
 article 31.
 
-7. La valeur ajoutée définie aux 4, 5 et 6 du présent I ne peut excéder un
-pourcentage du chiffre d'affaires mentionné respectivement aux 1, 2 et 3 égal à
-:
+7. La valeur ajoutée définie aux 4, 5 et 6 ne peut excéder un pourcentage du
+chiffre d'affaires mentionné respectivement aux 1, 2 et 3 égal à :
 
 80 % pour les contribuables dont le chiffre d'affaires est inférieur ou égal à
 7, 6 millions d'euros ;
@@ -171,7 +170,7 @@ l'article L. 211-1 du code monétaire et financier :
 1. Le chiffre d'affaires comprend :
 
 -le chiffre d'affaires tel qu'il est déterminé pour la généralité des
-entreprises au 1 du I du présent article ;
+entreprises au 1 du I ;
 
 -les produits financiers, à l'exception des reprises sur provisions pour
 dépréciation de titres et de 95 % des dividendes sur titres de participation ;
@@ -181,7 +180,7 @@ cession de titres de participation.
 
 2. La valeur ajoutée est égale à la différence entre :
 
--d'une part, le chiffre d'affaires tel qu'il est défini au 1 du présent IV ;
+-d'une part, le chiffre d'affaires tel qu'il est défini au 1 ;
 
 -et, d'autre part, les services extérieurs mentionnés au 4 du I ; les charges
 financières, à l'exception des dotations aux amortissements et des provisions
@@ -202,10 +201,10 @@ réalisé au cours de la période mentionnée à l'article 1586 quinquies est
 supérieur au total des chiffres d'affaires des autres activités.
 
 Sauf pour les entreprises dont au moins 50 % des droits de vote sont détenus,
-directement ou indirectement, par une entreprise mentionnée aux III ou VI du
-présent article ou conjointement par des entreprises mentionnées aux mêmes III
-ou VI, les conditions mentionnées aux deux alinéas précédents s'apprécient, le
-cas échéant, au regard de l'actif et du chiffre d'affaires du groupe auquel
+directement ou indirectement, par une entreprise mentionnée aux III ou VI ou
+conjointement par des entreprises mentionnées aux mêmes III ou VI, les
+conditions mentionnées aux cinquième et sixième alinéas s'apprécient, le cas
+échéant, au regard de l'actif et du chiffre d'affaires du groupe auquel
 appartient la société au sens de l'article L. 233-16 du code de commerce sur la
 base des comptes consolidés prévus au I du même article.
 
@@ -222,7 +221,7 @@ undecies ou 217 duodecies :
 1. Le chiffre d'affaires comprend :
 
 -le chiffre d'affaires tel qu'il est déterminé pour la généralité des
-entreprises au 1 du I du présent article ;
+entreprises au 1 du I ;
 
 -les produits financiers et les plus-values résultant de la cession au
 crédit-preneur des immobilisations financées dans le cadre de l'opération visée
@@ -239,8 +238,9 @@ l'opération visée au premier alinéa du présent V.
 
 VI.-Pour les mutuelles et unions régies par le livre II du code de la mutualité,
 les institutions de prévoyance régies par le titre III du livre IX du code de la
-sécurité sociale ou par le titre VII du livre VII du code rural et les
-entreprises d'assurance et de réassurance régies par le code des assurances :
+sécurité sociale ou par le titre VII du livre VII du code rural et de la pêche
+maritime et les entreprises d'assurance et de réassurance régies par le code des
+assurances :
 
 1. Le chiffre d'affaires comprend :
 

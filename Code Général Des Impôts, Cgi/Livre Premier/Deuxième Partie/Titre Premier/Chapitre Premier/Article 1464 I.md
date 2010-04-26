@@ -12,7 +12,7 @@ cours de la période de référence mentionnée à l'article 1467 A, relever d'u
 entreprise qui satisfait aux conditions suivantes :
 
 1° L'entreprise doit être une petite et moyenne entreprise au sens de l'annexe I
-au règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant
+au règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant
 certaines catégories d'aides compatibles avec le marché commun en application
 des articles 87 et 88 du traité (Règlement général d'exemption par catégorie) ;
 
@@ -21,9 +21,8 @@ au moins :
 
 a) Par des personnes physiques ;
 
-b) Ou par une société répondant aux conditions du 1° et du 3° du présent II et
-dont le capital est détenu à hauteur de 50 % au moins par des personnes
-physiques ;
+b) Ou par une société répondant aux conditions du 1° et du 3° et dont le capital
+est détenu à hauteur de 50 % au moins par des personnes physiques ;
 
 3° L'entreprise n'est pas liée à une autre entreprise par un contrat prévu par
 l'article L. 330-3 du code de commerce.
@@ -42,5 +41,5 @@ suffisant et des actions régulières d'animation culturelle, dans les condition
 précisées par décret en Conseil d'Etat.
 
 V. ― L'exonération prévue au I est subordonnée au respect du règlement (CE) n°
-1998 / 2006 de la Commission, du 15 décembre 2006, concernant l'application des
+1998/2006 de la Commission, du 15 décembre 2006, concernant l'application des
 articles 87 et 88 du traité aux aides de minimis.

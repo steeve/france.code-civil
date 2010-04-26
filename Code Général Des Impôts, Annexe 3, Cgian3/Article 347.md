@@ -8,9 +8,9 @@ Les organisations ou organismes à compétence interdépartementale désignent l
 représentants des contribuables parmi les professionnels exerçant dans le
 ressort de la commission.
 
-Le représentant salarié visé à l'article 1651 B est désigné par les
-organisations ou organismes nationaux représentatifs des ingénieurs et cadres
-supérieurs.
+Le représentant salarié visé à l'article 1651 B du code général des impôts est
+désigné par les organisations ou organismes nationaux représentatifs des
+ingénieurs et cadres supérieurs.
 
 2. Les membres de la commission doivent être de nationalité française, âgés de
 vingt-cinq ans au moins et jouir de leurs droits civils.
@@ -38,32 +38,32 @@ des contribuables, la commission est valablement constituée.
 interprofessionnelles avant d'établir la liste des représentants qu'ils
 désignent.
 
-II. 1. Pour l'application du deuxième alinéa du I de l'article 1651 A, les
-représentants des contribuables sont choisis parmi les propriétaires ruraux et
-exploitants agricoles, passibles de l'impôt sur le revenu au titre des bénéfices
-de l'exploitation agricole.
+II. 1. Pour l'application du deuxième alinéa du I de l'article 1651 A du code
+général des impôts, les représentants des contribuables sont choisis parmi les
+propriétaires ruraux et exploitants agricoles, passibles de l'impôt sur le
+revenu au titre des bénéfices de l'exploitation agricole.
 
-2. Pour l'application de l'article 1651 C, les membres désignés par les
-fédérations départementales des syndicats d'exploitants agricoles sont choisis
-parmi les propriétaires ruraux passibles de l'impôt sur le revenu dans la
-catégorie des bénéfices agricoles.
+2. Pour l'application de l'article 1651 C du code général des impôts, les
+membres désignés par les fédérations départementales des syndicats d'exploitants
+agricoles sont choisis parmi les propriétaires ruraux passibles de l'impôt sur
+le revenu dans la catégorie des bénéfices agricoles.
 
-3. Pour les matières visées à l'article 1651 D, les membres désignés
-représentent les différentes régions agricoles du département.
+3. Pour les matières visées à l'article 1651 D du code général des impôts, les
+membres désignés représentent les différentes régions agricoles du département.
 
-Dans le cas prévu au premier alinéa de l'article 1651 D, les représentants des
-contribuables sont choisis moitié parmi les propriétaires ruraux et moitié parmi
-les exploitants agricoles, passibles de l'impôt sur le revenu au titre des
-bénéfices de l'exploitation agricole.
+Dans le cas prévu au premier alinéa de l'article 1651 D du code précité, les
+représentants des contribuables sont choisis moitié parmi les propriétaires
+ruraux et moitié parmi les exploitants agricoles, passibles de l'impôt sur le
+revenu au titre des bénéfices de l'exploitation agricole.
 
-Dans le cas prévu au deuxième alinéa de l'article 1651 D, les représentants des
-contribuables désignés par la chambre d'agriculture sont choisis moitié parmi
-les propriétaires ruraux sur proposition des fédérations départementales des
-syndicats de la propriété agricole et des fédérations départementales des
-syndicats d'exploitants agricoles et moitié parmi les exploitants agricoles
-passibles de l'impôt sur le revenu au titre des bénéfices de l'exploitation
-agricole, sur proposition des fédérations départementales des syndicats
-d'exploitants agricoles.
+Dans le cas prévu au deuxième alinéa de l'article 1651 D du code précité, les
+représentants des contribuables désignés par la chambre d'agriculture sont
+choisis moitié parmi les propriétaires ruraux sur proposition des fédérations
+départementales des syndicats de la propriété agricole et des fédérations
+départementales des syndicats d'exploitants agricoles et moitié parmi les
+exploitants agricoles passibles de l'impôt sur le revenu au titre des bénéfices
+de l'exploitation agricole, sur proposition des fédérations départementales des
+syndicats d'exploitants agricoles.
 
 Lorsque la commission se prononce sur les tarifs d'évaluation ou les
 coefficients d'actualisation des valeurs locatives des bois et forêts, un des

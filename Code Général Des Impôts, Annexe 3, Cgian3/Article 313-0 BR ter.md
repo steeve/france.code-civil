@@ -13,8 +13,8 @@ II.-La demande de remboursement mentionnée au troisième alinéa du a du III de
 l'article 1011 bis du code général des impôts est conforme au modèle fixé par
 l'administration.
 
-Outre les justifications prévues au I, elle doit être accompagnée d'une copie de
-la carte grise du véhicule soumis à la taxe.
+Outre les justifications prévues au I, elle doit être accompagnée d'une copie du
+certificat d'immatriculation du véhicule soumis à la taxe.
 
 Elle est déposée ou adressée à la trésorerie dont les coordonnées figurent sur
 l'avis d'impôt sur le revenu de la personne qui demande le remboursement.

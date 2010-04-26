@@ -122,13 +122,13 @@ du budget dans les conditions prévues au III de l'article 217 undecies.
 
 5. Pour le calcul de la réduction d'impôt, les sommes versées au cours de la
 période définie au 1 sont prises en compte, pour les investissements mentionnés
-aux a, b, c, d, et e du 2, dans la limite de 2 194 euros hors taxes par mètre
-carré de surface habitable. Cette limite est relevée chaque année, au 1er
-janvier, dans la même proportion que la variation de la moyenne sur quatre
-trimestres de l'indice national mesurant le coût de la construction publiée par
-l'Institut national de la statistique et des études économiques. La moyenne
-mentionnée ci-dessus est celle des quatre derniers indices connus au 1er
-novembre qui précède la date de référence.
+aux a, b, c, d, et e du 2, dans la limite de 2 247 € hors taxes par mètre carré
+de surface habitable. Cette limite est relevée chaque année, au 1er janvier,
+dans la même proportion que la variation de la moyenne sur quatre trimestres de
+l'indice national mesurant le coût de la construction publiée par l'Institut
+national de la statistique et des études économiques. La moyenne mentionnée
+ci-dessus est celle des quatre derniers indices connus au 1er novembre qui
+précède la date de référence.
 
 6. La réduction d'impôt est effectuée, pour les investissements mentionnés au a
 du 2, pour le calcul de l'impôt dû au titre de l'année d'achèvement de
@@ -145,12 +145,12 @@ le droit à réduction d'impôt est né et, pour les investissements visés aux 
 d, e, f, g et h du 2, à 20 % des sommes effectivement payées au 31 décembre de
 l'année au cours de laquelle le droit à réduction d'impôt est né.
 
-La réduction d'impôt est égale à 25 % de la base définie au premier alinéa du
-présent 6 pour les investissements mentionnés aux a et e du 2.
+La réduction d'impôt est égale à 25 % de la base définie au premier alinéa pour
+les investissements mentionnés aux a et e du 2.
 
-La réduction d'impôt est égale à 40 % de la base définie au premier alinéa du
-présent 6 pour les investissements mentionnés aux b, c et d du 2 et à 50 % de la
-même base pour les investissements mentionnés aux f, g et h du 2.
+La réduction d'impôt est égale à 40 % de la base définie au premier alinéa pour
+les investissements mentionnés aux b, c et d du 2 et à 50 % de la même base pour
+les investissements mentionnés aux f, g et h du 2.
 
 Pour les investissements mentionnés aux b, c et d du 2, la réduction d'impôt est
 portée à 50 % si les conditions suivantes sont réunies :
@@ -168,16 +168,16 @@ décret.
 
 Toutefois, pour les investissements réalisés dans les départements d'outre-mer
 et la collectivité départementale de Mayotte mentionnés aux a, b, c, d et e du
-2, les taux prévus aux deuxième à quatrième alinéas du présent 6 sont majorés de
-dix points lorsque le logement est situé dans une zone urbaine sensible définie
-au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
+2, les taux prévus aux deuxième à quatrième alinéas sont majorés de dix points
+lorsque le logement est situé dans une zone urbaine sensible définie au 3 de
+l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
 l'aménagement et le développement du territoire.
 
 En outre, lorsque des dépenses d'équipement de production d'énergie utilisant
 une source d'énergie renouvelable sont réalisées dans le logement, les taux de
-la réduction d'impôt visés aux deuxième à quatrième et septième alinéas du
-présent 6 sont majorés de quatre points. Un arrêté du ministre chargé du budget
-fixe la nature des dépenses d'équipement qui ouvrent droit à cette majoration.
+la réduction d'impôt visés aux deuxième à quatrième et septième alinéas sont
+majorés de quatre points. Un arrêté du ministre chargé du budget fixe la nature
+des dépenses d'équipement qui ouvrent droit à cette majoration.
 
 6 bis. La réduction d'impôt ne s'applique pas aux investissements mentionnés aux
 b, c et d du 2 engagés après le 31 décembre 2010.
@@ -188,26 +188,26 @@ Toutefois, la réduction d'impôt s'applique également :
 janvier 2011 et le 31 décembre 2011. Par dérogation au 6, le taux de la
 réduction d'impôt est, pour ces investissements, de 30 %. Ce taux est porté à 45
 % pour ceux de ces investissements au titre desquels les conditions mentionnées
-aux 1° et 2° du 6 sont réunies. Les majorations prévues aux deux derniers
+aux 1° et 2° du 6 sont réunies. Les majorations prévues aux septième et huitième
 alinéas du 6 sont, le cas échéant, applicables à ces taux ;
 
 2° Au taux de 35 % aux investissements mentionnés aux b, c et d du 2 engagés
 entre le 1er janvier 2012 et le 31 décembre 2012 et au titre desquels les
 conditions mentionnées aux 1° et 2° du 6 sont réunies.
 
-Au sens du présent 6 bis, sont considérés comme engagés :
+Pour l'application du présent 6 bis, sont considérés comme engagés :
 
 -les investissements mentionnés au b du 2 au titre de logements que le
 contribuable fait construire ou acquiert neufs ou en l'état futur d'achèvement,
 dont les permis de construire ont été délivrés ;
 
--les investissements mentionnés au c du même 2 correspondant à des souscriptions
-de parts ou d'actions de sociétés dont l'objet réel est exclusivement de
-construire des logements neufs dont les permis de construire ont été délivrés ;
+-les investissements mentionnés au c du 2 correspondant à des souscriptions de
+parts ou d'actions de sociétés dont l'objet réel est exclusivement de construire
+des logements neufs dont les permis de construire ont été délivrés ;
 
--les investissements mentionnés au d du même 2 correspondant à des souscriptions
-dont le produit est affecté à l'acquisition de logements neufs dont les permis
-de construire ont été délivrés.
+-les investissements mentionnés au d du 2 correspondant à des souscriptions dont
+le produit est affecté à l'acquisition de logements neufs dont les permis de
+construire ont été délivrés.
 
 La réduction d'impôt acquise au titre des investissements mentionnés au présent
 6 bis est reprise lorsque les logements acquis ou construits ne sont pas loués

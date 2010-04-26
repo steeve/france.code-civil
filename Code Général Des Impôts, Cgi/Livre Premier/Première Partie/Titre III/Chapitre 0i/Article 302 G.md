@@ -44,7 +44,7 @@ des douanes et droits indirects à placer des alcools, des boissons alcooliques
 et des tabacs manufacturés sous ces régimes, et qui sont soumises à toutes les
 obligations prévues pour l'application de ces régimes douaniers, n'ont pas à
 prendre la qualité d'entrepositaire agréé et ne sont pas soumises aux
-obligations prévues aux III, IV et V ci-après.
+obligations prévues aux III, IV et V .
 
 III.-L'entrepositaire agréé tient, par entrepôt fiscal suspensif des droits
 d'accises, une comptabilité matières des productions, transformations, stocks et
@@ -52,7 +52,7 @@ mouvements de produits mentionnés aux 1° et 2° du I, ainsi que des produits
 vitivinicoles, autres que les vins, mentionnés à la partie XII de l'annexe I au
 règlement (CE) modifié n° 1234 / 2007 du Conseil du 22 octobre 2007 portant
 organisation commune des marchés dans le secteur agricole et dispositions
-spécifiques en ce qui concerne certains produits de ce secteur. L'entrepositaire
+spécifiques en ce qui concerne certains produits de ce secteur.L'entrepositaire
 agréé présente ladite comptabilité matières et lesdits produits à toute
 réquisition.
 

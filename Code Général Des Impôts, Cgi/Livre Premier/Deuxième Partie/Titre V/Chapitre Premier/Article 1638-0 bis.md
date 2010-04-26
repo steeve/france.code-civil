@@ -5,11 +5,11 @@ fiscalité propre additionnelle, réalisée dans les conditions prévues par
 l'article L. 5211-41-3 du code général des collectivités territoriales,
 l'établissement public de coopération intercommunale issu de la fusion est
 soumis de plein droit au régime de la fiscalité additionnelle, sauf délibération
-du conseil communautaire optant pour le régime prévu à l'article 1609 nonies C
-du présent code, statuant à la majorité simple de ses membres, prise au plus
-tard le 31 décembre de l'année de la fusion. Il en est de même en cas de fusion
-d'établissements publics de coopération intercommunale à fiscalité additionnelle
-et d'établissements publics de coopération intercommunale sans fiscalité propre.
+du conseil communautaire optant pour le régime prévu à l'article 1609 nonies C,
+statuant à la majorité simple de ses membres, prise au plus tard le 31 décembre
+de l'année de la fusion. Il en est de même en cas de fusion d'établissements
+publics de coopération intercommunale à fiscalité additionnelle et
+d'établissements publics de coopération intercommunale sans fiscalité propre.
 Les taux de fiscalité additionnelle de l'établissement public de coopération
 intercommunale issu de la fusion sont fixés la première année suivant celle de
 la fusion selon les modalités suivantes :
@@ -49,13 +49,13 @@ l'article L. 5211-41-3 du code général des collectivités territoriales,
 l'établissement public de coopération intercommunale issu de la fusion est
 soumis de plein droit au régime prévu par ces mêmes dispositions, sauf
 délibération du conseil communautaire optant pour le régime prévu à l'article
-1609 nonies C du présent code, statuant à la majorité simple de ses membres,
-prise au plus tard le 31 décembre de l'année de la fusion. Il en est de même en
-cas de fusion, d'une part, d'établissements publics de coopération
-intercommunale faisant application du régime prévu à l'article 1609 quinquies C
-et, d'autre part, d'établissements publics de coopération intercommunale à
-fiscalité propre additionnelle ou d'établissements publics de coopération
-intercommunale sans fiscalité propre.
+1609 nonies C, statuant à la majorité simple de ses membres, prise au plus tard
+le 31 décembre de l'année de la fusion. Il en est de même en cas de fusion,
+d'une part, d'établissements publics de coopération intercommunale faisant
+application du régime prévu à l'article 1609 quinquies C et, d'autre part,
+d'établissements publics de coopération intercommunale à fiscalité propre
+additionnelle ou d'établissements publics de coopération intercommunale sans
+fiscalité propre.
 
 Pour la première année suivant celle de la fusion :
 
@@ -110,8 +110,8 @@ l'article L. 5211-41-3 du code général des collectivités territoriales,
 l'établissement public de coopération intercommunale issu de la fusion est
 soumis de plein droit au régime prévu par ces mêmes dispositions. Il en est de
 même en cas de fusion, d'une part, d'établissements publics de coopération
-intercommunale soumis à l'article 1609 nonies C du présent code et, d'autre
-part, d'établissements publics de coopération intercommunale à fiscalité propre
+intercommunale soumis à l'article 1609 nonies C et, d'autre part,
+d'établissements publics de coopération intercommunale à fiscalité propre
 additionnelle faisant ou non application de l'article 1609 quinquies C ou
 d'établissements publics de coopération intercommunale sans fiscalité propre.
 
@@ -135,5 +135,5 @@ dispositif de réduction des écarts de taux.
 
 A compter de la deuxième année suivant celle de la fusion, le taux de la
 cotisation foncière des entreprises de l'établissement public de coopération
-intercommunale est fixé conformément aux articles 1636 B decies et 1609 nonies
+intercommunale est fixé conformément aux articles 1636 B decies et 1609 ndonies
 C.

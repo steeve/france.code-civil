@@ -37,11 +37,12 @@ c. Opérations effectuées par les sociétés coopératives ou unions susvisées
 des non-sociétaires.
 
 Cette exonération est applicable aux opérations effectuées par les coopératives
-de céréales et leurs unions avec l'Office national interprofessionnel des
-grandes cultures relativement à l'achat, la vente, la transformation ou le
-transport de céréales ; il en est de même pour les opérations effectuées par des
-coopératives de céréales avec d'autres coopératives de céréales dans le cadre de
-programmes élaborés par l'office ou avec l'autorisation de cet établissement.
+de céréales et leurs unions avec l'Etablissement national des produits de
+l'agriculture et de la mer (FranceAgriMer) relativement à l'achat, la vente, la
+transformation ou le transport de céréales ; il en est de même pour les
+opérations effectuées par des coopératives de céréales avec d'autres
+coopératives de céréales dans le cadre de programmes élaborés par
+l'établissement ou avec son autorisation.
 
 Les sociétés coopératives agricoles et leurs unions sont tenues de produire, à
 toute réquisition de l'administration, leur comptabilité et les justifications
@@ -97,7 +98,7 @@ compter du 1er janvier 2005. Cette option est irrévocable.
 activités prévues au I et au II de l'article L. 422-4 du code de la construction
 et de l'habitation et qui accordent exclusivement :
 
-a) Des prêts visés aux articles R. 331-32, R. 313-31 et R. 313-34 du même code ;
+a) Des prêts visés aux articles R. 331-32 et R. 313-34 du même code ;
 
 b) Des prêts à leurs filiales et aux organismes mentionnés au 4°. Le taux de
 rémunération de ces prêts ne doit pas excéder celui prévu au 3° du 1 de
@@ -232,14 +233,14 @@ détermination de ces résultats.
 
 Cette exonération bénéficie aux mutuelles et unions régies par le code de la
 mutualité, aux institutions de prévoyance régies par le titre III du livre IX du
-code de la sécurité sociale ou par le livre VII du code rural et aux entreprises
-d'assurance régies par le code des assurances, lorsque les souscripteurs et
-membres participants des contrats d'assurance maladie mentionnés au présent 1°
-représentent au moins 150 000 personnes ou une proportion minimale, fixée par
-décret en Conseil d'Etat, de l'ensemble des souscripteurs et membres
-participants des contrats d'assurance maladie relatifs à des opérations
-individuelles et collectives à adhésion facultative souscrits auprès de
-l'organisme. Cette proportion est comprise entre 80 % et 90 % ;
+code de la sécurité sociale ou par le livre VII du code rural et de la pêche
+maritime et aux entreprises d'assurance régies par le code des assurances,
+lorsque les souscripteurs et membres participants des contrats d'assurance
+maladie mentionnés au présent 1° représentent au moins 150 000 personnes ou une
+proportion minimale, fixée par décret en Conseil d'Etat, de l'ensemble des
+souscripteurs et membres participants des contrats d'assurance maladie relatifs
+à des opérations individuelles et collectives à adhésion facultative souscrits
+auprès de l'organisme. Cette proportion est comprise entre 80 % et 90 % ;
 
 2° Les résultats, y compris la quote-part des produits financiers, afférents aux
 opérations portant sur la gestion des contrats d'assurance maladie relatifs à

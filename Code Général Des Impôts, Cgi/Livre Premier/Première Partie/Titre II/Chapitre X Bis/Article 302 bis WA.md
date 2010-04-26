@@ -27,7 +27,7 @@ battant pavillon d'un pays tiers à la Communauté européenne.
 
 V. - Les taux de la redevance sont fixés par tonne de produits de la pêche ou de
 l'aquaculture dans la limite d'un plafond de 150 % des niveaux forfaitaires
-définis en euro par décision du Conseil de l'Union européenne. Toutefois :
+définis en euros par décision du Conseil de l'Union européenne. Toutefois :
 
 1. Les opérations de première vente réalisées dans les halles à marées sont
 soumises à un taux réduit fixé dans la limite d'un plancher égal à 45 % des
@@ -42,7 +42,7 @@ plafond de 150 % des niveaux forfaitaires définis en euros par décision du
 Conseil de l'Union européenne ;
 
 3. Un montant maximum par lot est fixé pour certaines espèces dans la limite de
-50 euros ;
+50 € ;
 
 Un arrêté conjoint du ministre chargé du budget et du ministre chargé de
 l'agriculture fixe les taux de la redevance.

@@ -15,13 +15,13 @@ revenu global des années suivantes jusqu'à la sixième année inclusivement.
 Toutefois, n'est pas autorisée l'imputation :
 
 1° des déficits provenant d'exploitations agricoles lorsque le total des revenus
-nets d'autres sources excède 104 238 euros ; ces déficits peuvent cependant être
+nets d'autres sources excède 104 665 euros ; ces déficits peuvent cependant être
 admis en déduction des bénéfices de même nature des années suivantes jusqu'à la
 sixième inclusivement.
 
-Le montant mentionné au premier alinéa du 1° est révisé chaque année selon les
-mêmes modalités que la limite supérieure de la première tranche du barème de
-l'impôt sur le revenu.
+Le montant mentionné au premier alinéa est révisé chaque année selon les mêmes
+modalités que la limite supérieure de la première tranche du barème de l'impôt
+sur le revenu.
 
 1° bis des déficits provenant, directement ou indirectement, des activités
 relevant des bénéfices industriels ou commerciaux lorsque ces activités ne
@@ -259,10 +259,10 @@ pas le plafond de ressources mentionné à l'article L. 815-9 du code de la
 sécurité sociale pour l'octroi de l'allocation de solidarité aux personnes âgées
 mentionnée à l'article L. 815-1 du même code et de l'allocation supplémentaire
 d'invalidité mentionnée à l'article L. 815-24 du même code. La déduction opérée
-par le contribuable ne peut excéder, par bénéficiaire, la somme de 3 296 euros.
+par le contribuable ne peut excéder, par bénéficiaire, la somme de 3 309 euros.
 
-Le montant de la déduction mentionnée à l'alinéa précédent est relevé chaque
-année dans la même proportion que la limite supérieure de la première tranche du
+Le montant de la déduction mentionnée au premier alinéa est relevé chaque année
+dans la même proportion que la limite supérieure de la première tranche du
 barème de l'impôt sur le revenu ;
 
 2° quater Sur option irrévocable du contribuable entraînant renoncement à leur

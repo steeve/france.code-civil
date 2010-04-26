@@ -553,9 +553,10 @@ construction et de l'habitation. Cette déduction est consentie à compter de la
 date de prise d'effet de la convention et pendant toute sa durée d'application.
 
 Cette déduction est portée à 60 % des revenus bruts des logements lorsque ces
-logements font l'objet d'une convention mentionnée à l'article L. 321-8 du même
-code. Cette déduction est consentie à compter de la date de prise d'effet de la
-convention et pendant toute sa durée d'application.
+logements font l'objet d'une convention mentionnée à l'article L. 321-8 du code
+de la construction et de l'habitation. Cette déduction est consentie à compter
+de la date de prise d'effet de la convention et pendant toute sa durée
+d'application.
 
 Un décret précise les modalités de prise d'effet de ces conventions.
 

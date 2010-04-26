@@ -67,8 +67,8 @@ versements effectués au profit d'organismes sans but lucratif qui procèdent à
 fourniture gratuite de repas à des personnes en difficulté, qui contribuent à
 favoriser leur logement ou qui procèdent, à titre principal, à la fourniture
 gratuite des soins mentionnés au 1° du 4 de l'article 261 à des personnes en
-difficulté. Ces versements sont retenus dans la limite de 495 euros à compter de
-l'imposition des revenus de l'année 2008. Il n'en est pas tenu compte pour
+difficulté. Ces versements sont retenus dans la limite de 510 € à compter de
+l'imposition des revenus de l'année 2009. Il n'en est pas tenu compte pour
 l'application de la limite mentionnée au 1.
 
 La limite de versements mentionnée au premier alinéa est relevée chaque année
@@ -99,10 +99,10 @@ sociétés civiles composées uniquement de personnes physiques et qui ont pour
 objet exclusif la gestion et la location nue des immeubles dont elles sont
 propriétaires.
 
-Les immeubles mentionnés au premier alinéa du présent 2 bis ne doivent pas faire
-l'objet d'une exploitation commerciale. Toutefois, ces dispositions ne sont pas
-applicables lorsque la gestion de l'immeuble est désintéressée et que les
-conditions suivantes sont cumulativement remplies :
+Les immeubles mentionnés au premier alinéa ne doivent pas faire l'objet d'une
+exploitation commerciale. Toutefois, ces dispositions ne sont pas applicables
+lorsque la gestion de l'immeuble est désintéressée et que les conditions
+suivantes sont cumulativement remplies :
 
 1° Les revenus fonciers nets, les bénéfices agricoles, les bénéfices industriels
 et commerciaux et les bénéfices des sociétés commerciales, augmentés des charges
@@ -112,7 +112,7 @@ prévus par la convention ;
 
 2° Le montant des dons collectés n'excède pas le montant restant à financer au
 titre de ces travaux, après affectation des subventions publiques et des sommes
-visées au 1° du présent 2 bis.
+visées au 1°.
 
 Le donateur ou l'un des membres de son foyer fiscal ne doit pas avoir conclu de
 convention avec la " Fondation du patrimoine " en application de l'article L.

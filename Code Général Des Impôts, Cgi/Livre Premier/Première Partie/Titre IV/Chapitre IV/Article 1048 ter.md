@@ -11,9 +11,8 @@ partenariat, soit par les collectivités territoriales, leurs groupements ou
 leurs établissements publics, en application des I à III de l'article L. 1311-5
 et de l'article L. 1414-16 du code général des collectivités territoriales ;
 
-2° Les actes portant bail et crédit-bail consentis en application des articles
-L. 2122-15 et L. 2122-16 du code général de la propriété des personnes publiques
-au profit de l'Etat ou de l'un de ses établissements publics ;
+2° Les actes portant bail consentis en application de l'article L. 2122-15
+ducode général de la propriété des personnes publiques au profit de l'Etat ;
 
 3° Les actes portant crédit-bail consentis en application de l'article L.
 1311-4-1 ou du IV de l'article L. 1311-5 du code général des collectivités

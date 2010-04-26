@@ -16,12 +16,12 @@ les délais prévus aux VI à VI ter de l'article 199 terdecies-0 A lorsque leur
 porteurs de parts bénéficient de la réduction d'impôt sur le revenu prévue à ce
 même article, son quota d'investissement prévu, selon le cas, au I de l'article
 L. 214-41 du code monétaire et financier, au 1 de l'article L. 214-41-1 du même
-code ou au VI ter de l'article 199 terdecies-0 A du présent code, la société de
-gestion du fonds est redevable d'une amende égale à 20 % du montant des
-investissements qui permettraient d'atteindre, selon le cas, la moitié au moins
-ou la totalité du quota d'investissement de 60 %. Le montant de cette amende est
-toutefois limité à la moitié du montant des sommes qui lui sont dues par le
-fonds au titre des frais de gestion pour l'exercice concerné.
+code ou au VI ter de l'article 199 terdecies-0 A, la société de gestion du fonds
+est redevable d'une amende égale à 20 % du montant des investissements qui
+permettraient d'atteindre, selon le cas, la moitié au moins ou la totalité du
+quota d'investissement de 60 %. Le montant de cette amende est toutefois limité
+à la moitié du montant des sommes qui lui sont dues par le fonds au titre des
+frais de gestion pour l'exercice concerné.
 
 L'amende prévue aux précédents alinéas est exclusive de l'amende prévue à
 l'article 1763 B. Le montant de l'amende prévue aux précédents alinéas est

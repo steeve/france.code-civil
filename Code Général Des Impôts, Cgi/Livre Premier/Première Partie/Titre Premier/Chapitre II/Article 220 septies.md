@@ -36,7 +36,7 @@ L'imputation du crédit d'impôt ne peut être appliquée sur l'impôt sur les
 sociétés résultant de l'imposition :
 
 1° des produits des actions ou parts de société, et des résultats de
-participations dans des organismes mentionnés aux articles 8, 8 quater, 239
+participations dans des organismes mentionnés aux articles 8,8 quater, 239
 quater, 239 quater B et 239 quater C ;
 
 2° des subventions, libéralités et abandons de créances ;
@@ -62,9 +62,8 @@ investissement est reversée. Le reversement est également effectué, à raison
 la quote-part de crédit d'impôt correspondant aux biens pris en location en
 vertu d'un contrat de crédit-bail, en cas de résiliation du contrat sans rachat
 des biens loués pendant la période prévue au premier alinéa du II ou pendant la
-période normale d'utilisation de ces biens si elle est inférieure à cette
-période, ou en cas de restitution des biens loués avant l'expiration du même
-délai.
+durée normale d'utilisation de ces biens si elle est inférieure à cette période,
+ou en cas de restitution des biens loués avant l'expiration du même délai.
 
 Si le crédit d'impôt a été imputé en totalité à la date de l'événement qui
 motive son reversement, l'entreprise doit verser spontanément au comptable

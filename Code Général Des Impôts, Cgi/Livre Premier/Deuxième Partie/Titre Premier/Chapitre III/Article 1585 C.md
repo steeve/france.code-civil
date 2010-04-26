@@ -24,6 +24,11 @@ construits ou aménagés conformément aux dispositions du code de l'urbanisme
 avant l'approbation de ce plan et mis à la charge des propriétaires ou
 exploitants de ces biens.
 
+5° Conformément à l'article L. 332-11-4 du code de l'urbanisme, les
+constructions édifiées dans le périmètre délimité par une convention prévue
+àl'article L. 332-11-3 du code de l'urbanisme, pendant un délai fixé par
+laconvention, qui ne peut excéder dix ans.
+
 I bis Lorsque le lotisseur, la personne aménageant un terrain destiné à
 l'accueil d'habitations légères de loisir ou l'association foncière urbaine de
 remembrement supporte la charge d'une participation forfaitaire représentative
@@ -44,14 +49,14 @@ construction et de l'habitation.
 
 Lorsque des constructions de logements sont acquises par les organismes et
 sociétés mentionnés à l'alinéa précédent, dans le cadre d'un contrat prévu par
-l'article 1601-3 du code civil et régi par les L. 261-10 à L. 261-22 du code de
-la construction et de l'habitation, elles peuvent bénéficier, sur demande du
-constructeur, de l'exonération décidée, le cas échéant, en application de
-l'alinéa précédent. Dans ce cas, la fraction de la taxe éventuellement recouvrée
-en excès est remboursée. La demande du constructeur peut être formulée dès la
-conclusion d'un contrat prévu à l'article L. 261-10 ou L. 261-15 du même code,
-sans excéder un délai de trente-six mois à compter de la demande de permis de
-construire.
+l'article 1601-3 du code civil et régi par les articles L. 261-10 à L. 261-22 du
+code de la construction et de l'habitation, elles peuvent bénéficier, sur
+demande du constructeur, de l'exonération décidée, le cas échéant, en
+application de l'alinéa précédent. Dans ce cas, la fraction de la taxe
+éventuellement recouvrée en excès est remboursée. La demande du constructeur
+peut être formulée dès la conclusion d'un contrat prévu à l'article L. 261-10 ou
+L. 261-15 du même code, sans excéder un délai de trente-six mois à compter de la
+demande de permis de construire.
 
 Dans les départements d'outre-mer, le conseil municipal peut exonérer de la taxe
 :
@@ -63,14 +68,14 @@ prestataires de services ;
 
 Lorsque des constructions de logements sont acquises par les organismes et
 sociétés mentionnés à l'alinéa précédent, dans le cadre d'un contrat prévu par
-l'article 1601-3 du code civil et régi par les L. 261-10 à L. 261-22 du code de
-la construction et de l'habitation, elles peuvent bénéficier, sur demande du
-constructeur, de l'exonération décidée, le cas échéant, en application de
-l'alinéa précédent. Dans ce cas, la fraction de la taxe éventuellement recouvrée
-en excès est remboursée. La demande du constructeur peut être formulée dès la
-conclusion d'un contrat prévu à l'article L. 261-10 ou L. 261-15 du même code,
-sans excéder un délai de trente-six mois à compter de la demande de permis de
-construire.
+l'article 1601-3 du code civil et régi par les articles L. 261-10 à L. 261-22 du
+code de la construction et de l'habitation, elles peuvent bénéficier, sur
+demande du constructeur, de l'exonération décidée, le cas échéant, en
+application de l'alinéa précédent. Dans ce cas, la fraction de la taxe
+éventuellement recouvrée en excès est remboursée. La demande du constructeur
+peut être formulée dès la conclusion d'un contrat prévu à l'article L. 261-10 ou
+L. 261-15 du même code, sans excéder un délai de trente-six mois à compter de la
+demande de permis de construire.
 
 b. les logements à vocation très sociale ;
 

@@ -17,16 +17,15 @@ b) Pour les autres contribuables, celle définie à l'article 1586 sexies.
 La valeur ajoutée prise en compte est celle produite au cours de la période
 mentionnée au I de l'article 1586 quinquies. En l'absence de cession ou de
 cessation d'entreprise au cours de l'année d'imposition, le montant de la valeur
-ajoutée mentionnée au b du présent article est corrigé pour correspondre à une
-année pleine.
+ajoutée mentionnée au b est corrigé pour correspondre à une année pleine.
 
 Le taux de plafonnement est fixé à 3 % de la valeur ajoutée.
 
-II. - Le plafonnement prévu au I du présent article s'applique sur la cotisation
-foncière des entreprises et la cotisation sur la valeur ajoutée des entreprises
-diminuées, le cas échéant, de l'ensemble des réductions et dégrèvements dont ces
-cotisations peuvent faire l'objet, à l'exception du crédit d'impôt prévu à
-l'article 1647 C septies et du dégrèvement prévu à l'article 1647 C quinquies B.
+II. - Le plafonnement prévu au I s'applique sur la cotisation foncière des
+entreprises et la cotisation sur la valeur ajoutée des entreprises diminuées, le
+cas échéant, de l'ensemble des réductions et dégrèvements dont ces cotisations
+peuvent faire l'objet, à l'exception du crédit d'impôt prévu à l'article 1647 C
+septies et du dégrèvement prévu à l'article 1647 C quinquies B.
 
 Il ne s'applique pas aux taxes visées aux articles 1600 à 1601 B ni aux
 prélèvements opérés par l'Etat sur ces taxes en application de l'article 1641.

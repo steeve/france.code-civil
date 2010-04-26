@@ -64,10 +64,10 @@ physiques ou sociétés civiles composées uniquement de personnes physiques et 
 ont pour objet exclusif la gestion et la location nue des immeubles dont elles
 sont propriétaires.
 
-Les immeubles mentionnés au premier alinéa du présent f ne doivent pas faire
-l'objet d'une exploitation commerciale. Toutefois, ces dispositions ne sont pas
-applicables lorsque la gestion de l'immeuble est désintéressée et que les
-conditions suivantes sont cumulativement remplies :
+Les immeubles mentionnés au premier alinéa ne doivent pas faire l'objet d'une
+exploitation commerciale. Toutefois, ces dispositions ne sont pas applicables
+lorsque la gestion de l'immeuble est désintéressée et que les conditions
+suivantes sont cumulativement remplies :
 
 1° Les revenus fonciers nets, les bénéfices agricoles, les bénéfices industriels
 et commerciaux et les bénéfices des sociétés commerciales, augmentés des charges
@@ -77,7 +77,7 @@ prévus par la convention ;
 
 2° Le montant des dons collectés n'excède pas le montant restant à financer au
 titre de ces travaux, après affectation des subventions publiques et des sommes
-visées au 1° du présent f.
+visées au 1°.
 
 Les dirigeants ou les membres du conseil d'administration ou du directoire de la
 société ne doivent pas avoir conclu une convention avec la " Fondation du

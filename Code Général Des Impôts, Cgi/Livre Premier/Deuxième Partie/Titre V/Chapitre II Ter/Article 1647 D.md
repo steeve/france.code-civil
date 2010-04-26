@@ -6,18 +6,25 @@ assujettis à une cotisation minimum établie au lieu de leur principal
 est fixé par le conseil municipal et doit être compris entre 200 € et 2 000 €.
 Les conseils municipaux ont la faculté de réduire ce montant de moitié au plus
 pour les assujettis n'exerçant leur activité professionnelle qu'à temps partiel
-ou pendant moins de neuf mois de l'année.A défaut de délibération, le montant de
-la base minimum est égal au montant de la base minimum de taxe professionnelle
-appliqué en 2009 dans la commune en vertu des dispositions du présent article en
-vigueur au 31 décembre 2009. Lorsqu'un établissement public de coopération
-intercommunale, soumis à l'article 1609 nonies C, a été constitué, il fixe, en
-lieu et place des communes membres, le montant de la base minimum dans les
-limites fixées au premier alinéa du présent I. Les montants mentionnés au
-premier alinéa sont revalorisés chaque année comme le taux prévisionnel, associé
-au projet de loi de finances de l'année, d'évolution des prix à la consommation
-des ménages, hors tabac, pour la même année. II. - Quand ils ne disposent
-d'aucun local ou terrain : 1. Les redevables domiciliés en application d'un
-contrat de domiciliation commerciale sont redevables de la cotisation minimum au
-lieu de leur domiciliation ; 2. Les redevables non sédentaires sont redevables
-de la cotisation minimum établie au lieu de la commune de rattachement mentionné
-sur le récépissé de consignation prévu à l'article 302 octies.
+ou pendant moins de neuf mois de l'année. A défaut de délibération, le montant
+de la base minimum est égal au montant de la base minimum de taxe
+professionnelle appliqué en 2009 dans la commune en vertu des dispositions du
+présent article en vigueur au 31 décembre 2009.
+
+Lorsqu'un établissement public de coopération intercommunale, soumis à l'article
+1609 nonies C, a été constitué, il fixe, en lieu et place des communes membres,
+le montant de la base minimum dans les limites fixées au premier alinéa.
+
+Les montants mentionnés au premier alinéa sont revalorisés chaque année comme le
+taux prévisionnel, associé au projet de loi de finances de l'année, d'évolution
+des prix à la consommation des ménages, hors tabac, pour la même année.
+
+II. - Quand ils ne disposent d'aucun local ou terrain :
+
+1. Les redevables domiciliés en application d'un contrat de domiciliation
+commerciale sont redevables de la cotisation minimum au lieu de leur
+domiciliation ;
+
+2. Les redevables non sédentaires sont redevables de la cotisation minimum
+établie au lieu de la commune de rattachement mentionné sur le récépissé de
+consignation prévu à l'article 302 octies.

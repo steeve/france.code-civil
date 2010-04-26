@@ -5,5 +5,4 @@ foncière les baux à durée limitée d'immeubles, faits pour une durée supéri
 douze années, relatifs à des résidences de tourisme soumises au classement prévu
 à l'article L. 321-1 du code du tourisme.
 
-La délibération prend effet dans les délais prévus à l'article 1594 E du présent
-code.
+La délibération prend effet dans les délais prévus à l'article 1594 E.

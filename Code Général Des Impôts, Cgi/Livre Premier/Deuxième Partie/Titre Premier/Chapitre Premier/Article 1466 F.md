@@ -60,10 +60,10 @@ VI.-Lorsqu'un établissement réunit les conditions requises pour bénéficier d
 l'une des exonérations prévues aux articles 1464 A, 1464 B, 1464 D, 1464 I,
 1465, 1465 A, 1465 B, 1466 A, 1466 D ou 1466 E et de l'abattement prévu au
 présent article, le contribuable peut opter pour ce dernier régime. L'option,
-qui est irrévocable, vaut pour l'ensemble des collectivités territoriales et de
-leurs établissements publics de coopération intercommunale et doit être exercée
-dans le délai prévu pour le dépôt, selon le cas, de la déclaration annuelle ou
-de la déclaration provisoire de cotisation foncière des entreprises mentionnées
-à l'article 1477.
+qui est irrévocable, vaut pour l'ensemble des communes et de leurs
+établissements publics de coopération intercommunale et doit être exercée dans
+le délai prévu pour le dépôt, selon le cas, de la déclaration annuelle ou de la
+déclaration provisoire de cotisation foncière des entreprises mentionnées à
+l'article 1477.
 
 VII. - (Abrogé)

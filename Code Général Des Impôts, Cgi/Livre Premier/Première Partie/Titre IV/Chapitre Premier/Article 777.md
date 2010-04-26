@@ -13,31 +13,31 @@ FRACTION DE PART NETTE TAXABLE
 
 TARIF applicable (%)
 
-N'excédant pas 7 922 €
+N'excédant pas 7 953 €
 
 5
 
-Comprise entre 7 922 € et 11 883 €
+Comprise entre 7 953 € et 11 930 €
 
 10
 
-Comprise entre 11 883 € et 15 636 €
+Comprise entre 11 930 € et 15 697 €
 
 15
 
-Comprise entre 15 636 € et 542 043 €
+Comprise entre 15 697 € et 544 173 €
 
 20
 
-Comprise entre 542 043 € et 886 032 €
+Comprise entre 544 173 € et 889 514 €
 
 30
 
-Comprise entre 886 032 € et 1 772 064 €
+Comprise entre 889 514 € et 1 779 029 €
 
 35
 
-Au-delà de 1 772 064 €
+Au-delà de 1 779 029 €
 
 40
 
@@ -52,31 +52,31 @@ FRACTION DE PART NETTE TAXABLE
 
 TARIF applicable (%)
 
-N'excédant pas 7 922 €
+N'excédant pas 7 953 €
 
 5
 
-Comprise entre 7 922 € et 15 636 €
+Comprise entre 7 953 € et 15 697 €
 
 10
 
-Comprise entre 15 636 € et 31 272 €
+Comprise entre 15 697 € et 31 395 €
 
 15
 
-Comprise entre 31 272 € et 542 043 €
+Comprise entre 31 395 € et 544 173 €
 
 20
 
-Comprise entre 542 043 € et 886 032 €
+Comprise entre 544 173 € et 889 514 €
 
 30
 
-Comprise entre 886 032 € et 1 772 064 €
+Comprise entre 889 514 € et 1 779 029 €
 
 35
 
-Au-delà de 1 772 064 €
+Au-delà de 1 779 029 €
 
 40
 
@@ -90,13 +90,13 @@ FRACTION DE PART NETTE TAXABLE
 
 TARIF applicable (%)
 
-Entre frères et sœurs (vivants ou représentés) (1) :
+Entre frères et sœurs vivants ou représentés :
 
-N'excédant pas 23 975 €
+N'excédant pas 24 069 €
 
 35
 
-Supérieure à 23 975 €
+Supérieure à 24 069 €
 
 45
 
@@ -105,7 +105,7 @@ Entre parents jusqu'au 4e degré inclusivement
 55
 
 
-Entre parents au-delà du 4e degré et entre personnes non parentes
+Entre parents au-delà du 4e degré et entre personnes nonparentes
 
 60
 

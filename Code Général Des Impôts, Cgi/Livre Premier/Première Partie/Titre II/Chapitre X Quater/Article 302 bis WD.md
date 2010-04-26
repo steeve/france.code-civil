@@ -8,4 +8,4 @@ auprès de l'établissement concerné d'une redevance sanitaire. Cette redevance
 doit être acquittée l'année suivant celle de la délivrance, du renouvellement ou
 du contrôle de l'agrément de l'établissement, au plus tard le 31 mars.
 
-La redevance est due par l'établissement visé au précédent alinéa.
+La redevance est due par l'établissement visé au premier alinéa.

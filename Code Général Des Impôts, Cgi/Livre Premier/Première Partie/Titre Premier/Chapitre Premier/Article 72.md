@@ -1,6 +1,6 @@
 Article 72
 ----
-I. Sous réserve de l'application des articles 71 et 72 A à 73 D, le bénéfice
+I. Sous réserve de l'application des articles 71 et 72 A à 73 E, le bénéfice
 réel de l'exploitation agricole est déterminé et imposé selon les principes
 généraux applicables aux entreprises industrielles et commerciales, conformément
 à toutes les dispositions législatives et à leurs textes d'application, sans

@@ -27,11 +27,11 @@ activité plus de trois mois dans plusieurs communes, la valeur ajoutée qu'il
 produit est imposée dans chacune de ces communes et répartie entre elles au
 prorata de l'effectif qui y est employé.
 
-Pour l'application de l'alinéa précédent, l'effectif employé dans un
-établissement pour lequel les valeurs locatives des immobilisations
-industrielles évaluées dans les conditions prévues aux articles 1499 et 1501
-représentent plus de 20 % de la valeur locative des immobilisations imposables à
-la cotisation foncière des entreprises est pondéré par un coefficient de 2.
+Pour l'application du deuxième alinéa, l'effectif employé dans un établissement
+pour lequel les valeurs locatives des immobilisations industrielles évaluées
+dans les conditions prévues aux articles 1499 et 1501 représentent plus de 20 %
+de la valeur locative des immobilisations imposables à la cotisation foncière
+des entreprises est pondéré par un coefficient de 2.
 
 Toutefois, lorsqu'un contribuable dispose, dans plus de dix communes,
 d'établissements comprenant des installations de production d'électricité
@@ -49,13 +49,13 @@ des entreprises, à l'exception de celle afférente aux ouvrages hydroélectriqu
 mentionnés au premier alinéa de l'article 1475, qui est répartie comme la valeur
 locative de ces ouvrages selon la règle fixée par ce même article. La valeur
 ajoutée afférente aux autres établissements du contribuable est répartie selon
-les règles définies aux deuxième et troisième alinéas du présent III. Les
-modalités d'application de ces dispositions sont définies par décret.
+les règles définies aux deuxième et troisième alinéas. Les modalités
+d'application de ces dispositions sont définies par décret.
 
-Lorsque la déclaration des salariés par établissement mentionnée au II du
-présent article fait défaut, la valeur ajoutée du contribuable est répartie
-entre les communes où le contribuable dispose d'immobilisations imposables à la
-cotisation foncière des entreprises au prorata de leur valeur locative.
+Lorsque la déclaration des salariés par établissement mentionnée au II fait
+défaut, la valeur ajoutée du contribuable est répartie entre les communes où le
+contribuable dispose d'immobilisations imposables à la cotisation foncière des
+entreprises au prorata de leur valeur locative.
 
 Pour l'application du présent III, la valeur locative des immobilisations
 imposables à la cotisation foncière des entreprises s'entend avant application

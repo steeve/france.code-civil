@@ -41,7 +41,7 @@ l'exercice de la société absorbée au cours de l'opération.
 
 La durée du premier exercice des sociétés du groupe issu de la fusion peut être
 inférieure ou supérieure à douze mois, sans préjudice de l'application des
-dispositions de l'article 37.L'option mentionnée au premier alinéa comporte
+dispositions de l'article 37. L'option mentionnée au premier alinéa comporte
 l'indication de la durée de cet exercice.
 
 La société absorbante procède, au titre de l'exercice de réalisation de la
@@ -165,7 +165,7 @@ accompagnée du document mentionné au premier alinéa du c.
 
 La durée du premier exercice des sociétés du groupe ainsi formé peut être
 inférieure ou supérieure à douze mois, sans préjudice de l'application de
-l'article 37.L'option mentionnée au deuxième alinéa comporte l'indication de la
+l'article 37. L'option mentionnée au deuxième alinéa comporte l'indication de la
 durée de cet exercice.
 
 Le présent h s'applique également lorsque le capital des sociétés qui y sont
@@ -192,12 +192,12 @@ Dans cette situation, l'option prévue au premier, deuxième ou troisième alin�
 de l'article 223 A est exercée au plus tard à l'expiration du délai prévu au
 septième alinéa du même article, décompté de la date de clôture de l'exercice
 précédant celui au titre duquel l'option est exercée. Cette option est
-accompagnée du document mentionné au premier alinéa du c du présent 6.
+accompagnée du document mentionné au premier alinéa du c.
 
 La durée du premier exercice des sociétés du groupe ainsi formé peut être
 inférieure ou supérieure à douze mois, sans préjudice de l'application de
-l'article 37.L'option mentionnée au deuxième alinéa du présent i comporte
-l'indication de la durée de cet exercice.
+l'article 37. L'option mentionnée au deuxième alinéa comporte l'indication de la
+durée de cet exercice.
 
 Le groupe de la société mère visée au premier alinéa est considéré comme cessant
 d'exister à la date de clôture de l'exercice qui précède celui au titre duquel

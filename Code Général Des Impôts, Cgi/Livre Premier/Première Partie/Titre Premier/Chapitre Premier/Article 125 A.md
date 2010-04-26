@@ -117,7 +117,7 @@ solidaire de versement automatique à l'organisme bénéficiaire par le
 gestionnaire du fonds d'épargne ;
 
 11° A 50 % pour les revenus et produits soumis obligatoirement au prélèvement en
-application du III du présent article.
+application du III.
 
 IV.L'option pour le prélèvement prévue au I est subordonnée :
 

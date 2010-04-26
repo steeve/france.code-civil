@@ -17,8 +17,8 @@ titre temporaire aux personnes défavorisées mentionnées à l'article 1er de l
 loi n° 90-449 du 31 mai 1990 modifiée visant la mise en oeuvre du droit au
 logement, sont améliorés au moyen d'une aide financière de l'Agence nationale de
 l'habitat par des organismes ne se livrant pas à une exploitation ou à des
-opérations de caractère lucratif bénéficiant de l'agrément relatif à
-l'intermédiation locative et la gestion locative sociale prévu à l'article L.
+opérations de caractère lucratif et bénéficiant de l'agrément relatif à
+l'intermédiation locative et à la gestion locative sociale prévu à l'article L.
 365-4 du code de la construction et de l'habitation. Le bénéfice de
 l'exonération est subordonné à la condition que la décision de subvention
 intervienne dans un délai de deux ans au plus à compter de l'année suivant celle

@@ -130,15 +130,15 @@ mentionnées au 6 sont déterminés conformément aux dispositions des articles 
 90.
 
 Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut
-excéder 3 491 euros. Ce plafond s'applique au montant total des pensions et
+excéder 3 606 €. Ce plafond s'applique au montant total des pensions et
 retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il
 est révisé selon les mêmes modalités que la limite supérieure de la première
 tranche du barème de l'impôt sur le revenu.
 
-L'abattement indiqué au deuxième alinéa ne peut être inférieur à 357 euros, sans
+L'abattement indiqué au deuxième alinéa ne peut être inférieur à 368 €, sans
 pouvoir excéder le montant brut des pensions et retraites. Cette disposition
 s'applique au montant des pensions ou retraites perçu par chaque retraité ou
-pensionné membre du foyer fiscal. La somme de 357 euros est révisée chaque année
+pensionné membre du foyer fiscal. La somme de 368 € est révisée chaque année
 dans la même proportion que la limite supérieure de la première tranche du
 barème de l'impôt sur le revenu.
 
@@ -156,10 +156,6 @@ III de la troisième partie du code du travail.
 b bis. Les dispositions du a sont applicables aux prestations servies sous forme
 de rentes ou pour perte d'emploi subie, au titre des contrats d'assurance groupe
 ou des régimes mentionnés au deuxième alinéa du I de l'article 154 bis.
-
-Les dispositions du a sont également applicables aux prestations servies sous
-forme de rentes au titre des contrats d'assurance de groupe visés au premier
-alinéa du I de l'article 154 bis-0 A.
 
 b ter. (abrogé à compter de la date d'entrée en vigueur de la loi n° 2002-73 du
 17 janvier 2002) ;
@@ -196,13 +192,13 @@ revenu, pour l'application de l'impôt sur le revenu dû par le crédirentier, q
 pour une fraction de leur montant. Cette fraction, déterminée d'après l'âge du
 crédirentier lors de l'entrée en jouissance de la rente, est fixée à :
 
--à 70 % si l'intéressé est âgé de moins de 50 ans ;
+- 70 % si l'intéressé est âgé de moins de 50 ans ;
 
--à 50 % s'il est âgé de 50 à 59 ans inclus ;
+- 50 % s'il est âgé de 50 à 59 ans inclus ;
 
--à 40 % s'il est âgé de 60 à 69 ans inclus ;
+- 40 % s'il est âgé de 60 à 69 ans inclus ;
 
--à 30 % s'il est âgé de plus de 69 ans.
+- 30 % s'il est âgé de plus de 69 ans.
 
 La fraction de rentes viagères définie ci-dessus est imposée dans les mêmes
 conditions que les revenus énumérés à l'article 124.

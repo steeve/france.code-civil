@@ -138,8 +138,8 @@ D ;
 
 b. Aux pertes constatées par les personnes à l'encontre desquelles le tribunal a
 prononcé au titre des sociétés en cause l'une des condamnations mentionnées aux
-articles L. 651-2, L. 652-1, L. 653-4, L. 653-5, L. 653-6, L. 653-8, L. 654-2 ou
-L. 654-6 du code de commerce. Lorsque l'une de ces condamnations est prononcée à
+articles L. 651-2, L. 653-4, L. 653-5, L. 653-6, L. 653-8, L. 654-2 ou L. 654-6
+du code de commerce. Lorsque l'une de ces condamnations est prononcée à
 l'encontre d'un contribuable ayant exercé l'option prévue au deuxième alinéa, la
 perte ainsi imputée ou reportée est reprise au titre de l'année de la
 condamnation.

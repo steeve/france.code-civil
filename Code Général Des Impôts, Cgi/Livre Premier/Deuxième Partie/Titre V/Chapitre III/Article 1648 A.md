@@ -30,7 +30,7 @@ en vigueur au 31 décembre 2009.
 En cas de fusion ou de scission de commune ou de création, dissolution ou
 modification du périmètre d'un établissement public de coopération
 intercommunale à fiscalité propre, les attributions minimales au titre de
-l'année 2010, prévues à l'alinéa précédent, des communes et établissements
+l'année 2010, prévues au deuxième alinéa, des communes et établissements
 résultant de cette opération sont calculées selon les modalités prévues au III.
 
 Le solde des ressources du fonds départemental de péréquation est réparti par le
@@ -67,26 +67,25 @@ fonds ;
 
 b) En additionnant, pour chacun des établissements publics de coopération
 intercommunale à fiscalité propre résultant de cette opération, les parts de
-prélèvement intercommunal, calculées conformément au a du présent 1, afférentes
-aux communes que cet établissement regroupe ;
+prélèvement intercommunal, calculées conformément au a, afférentes aux communes
+que cet établissement regroupe ;
 
 c) Lorsqu'à l'issue de cette opération une commune n'est plus membre d'aucun
 établissement public de coopération intercommunale à fiscalité propre, le
 prélèvement sur ses ressources est égal à la part de prélèvement intercommunal
-calculée conformément au a du présent 1 pour cette commune.
+calculée conformément au a pour cette commune.
 
 2. L'attribution minimale, prévue au deuxième alinéa du II, de chaque
 établissement public de coopération intercommunale résultant de l'opération
-mentionnée au premier alinéa du 1 du présent III et de chacune des communes
-membres des établissements préexistants concernés par cette opération est
-calculée :
+mentionnée au premier alinéa du 1 et de chacune des communes membres des
+établissements préexistants concernés par cette opération est calculée :
 
 a) Pour sa fraction tirant son origine du premier alinéa des 1° et 2° du IV bis
 du présent article dans sa rédaction en vigueur au 31 décembre 2009, à partir
 des reversements prioritaires aux communes et établissements publics de
 coopération intercommunale concernés par la modification, selon les mêmes
-dispositions que celles prévues au 1 du présent III pour les écrêtements et
-prélèvements dont elle est issue ;
+dispositions que celles prévues au 1 pour les écrêtements et prélèvements dont
+elle est issue ;
 
 b) Pour sa fraction tirant son origine du troisième alinéa du II du présent
 article dans sa rédaction en vigueur au 31 décembre 2009, au prorata des

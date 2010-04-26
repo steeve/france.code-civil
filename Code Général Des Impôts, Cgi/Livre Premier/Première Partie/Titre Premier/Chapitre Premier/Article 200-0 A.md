@@ -23,13 +23,12 @@ décote en tenant lieu, tel qu'il est prévu par les conventions internationales
 
 3. La réduction d'impôt acquise au titre des investissements mentionnés à la
 première phrase des vingt-sixième et vingt-septième alinéas du I de l'article
-199 undecies B est retenue pour l'application du plafonnement mentionné au 1 du
-présent article pour 40 % de son montant. La réduction d'impôt acquise au titre
-des investissements mentionnés à la deuxième phrase du vingt-sixième alinéa du I
-de l'article 199 undecies B est retenue pour l'application du plafonnement
-mentionné au 1 du présent article pour la moitié de son montant. La réduction
-d'impôt acquise au titre des investissements mentionnés à l'article 199 undecies
-C est retenue pour l'application du plafonnement mentionné au 1 du présent
-article pour 35 % de son montant.
+199 undecies B est retenue pour l'application du plafonnement mentionné au 1
+pour 40 % de son montant. La réduction d'impôt acquise au titre des
+investissements mentionnés à la deuxième phrase du vingt-sixième alinéa du I de
+l'article 199 undecies B est retenue pour l'application du plafonnement
+mentionné au 1 pour la moitié de son montant. La réduction d'impôt acquise au
+titre des investissements mentionnés à l'article 199 undecies C est retenue pour
+l'application du plafonnement mentionné au 1 pour 35 % de son montant.
 
 4. Un décret fixe les modalités d'application du présent article.

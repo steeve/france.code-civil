@@ -21,12 +21,12 @@ intercommunale deviennent membres d'un établissement public de coopération
 intercommunale soumis aux dispositions de l'article 1609 nonies C ne résultant
 pas d'une substitution ou d'une transformation de groupement préexistant.
 
-II.-Les dispositions du I ci-dessus sont applicables sur le territoire de la
-zone d'activités économiques des établissements publics de coopération
-intercommunale faisant application des dispositions du I de l'article 1609
-quinquies C. Elles sont également applicables aux installations de production
-d'électricité utilisant l'énergie mécanique du vent soumises au régime prévu par
-le 1 du II du même article.
+II.-Les dispositions du I sont applicables sur le territoire de la zone
+d'activités économiques des établissements publics de coopération intercommunale
+faisant application des dispositions du I de l'article 1609 quinquies C. Elles
+sont également applicables aux installations de production d'électricité
+utilisant l'énergie mécanique du vent soumises au régime prévu par le 1 du II du
+même article.
 
 Ces établissements publics de coopération intercommunale peuvent prendre, en
 matière de cotisation foncière des entreprises , des délibérations propres à la
@@ -95,10 +95,9 @@ délibérations adoptées antérieurement par chaque établissement public de
 coopération intercommunale préexistant :
 
 a. Sont maintenues pour leur durée et leur quotité lorsqu'elles sont prises en
-application des articles 1464 B, 1464 D, 1464 E, 1464 F, 1464 I, 1465, 1465 A,
-1465 B, des I, I ter, I quater et I quinquies de l'article 1466 A et des
-articles 1466 B, 1466 B bis , 1466 C et 1466 F , et que les dispositions prévues
-par ces articles sont en cours d'application ou sont applicables pour la
+application des articles 1464 B, 1464 D, 1464 I, 1465, 1465 A, 1465 B, du I de
+l'article 1466 A et des articles 1466 C et 1466 F, et que les dispositions
+prévues par ces articles sont en cours d'application ou sont applicables pour la
 première fois l'année suivant celle de la fusion. Lorsque le nouvel
 établissement public de coopération intercommunale est soumis aux dispositions
 du I de l'article 1609 nonies C, il en est de même pour les délibérations
@@ -111,9 +110,9 @@ proportion du taux d'imposition de la commune et de l'établissement public de
 coopération intercommunale l'année de la fusion ;
 
 b. Sont maintenues pour la première année suivant celle de la fusion
-lorsqu'elles sont prises en application des articles 1459 (3°), 1464, 1464 A,
-1464 H, 1469 A quater, 1518 A et 1647 D. Il en est de même pour les
-délibérations prises par les communes visées au deuxième alinéa du 2° du I de
-l'article L. 5211-41-3 du code général des collectivités territoriales lorsque
-le nouvel établissement public de coopération intercommunale est soumis aux
-dispositions du I de l'article 1609 nonies C.
+lorsqu'elles sont prises en application du 3° de l'article 1459 et des articles
+1464, 1464 A, 1464 H, 1469 A quater, 1518 A et 1647 D. Il en est de même pour
+les délibérations prises par les communes visées au deuxième alinéa du 2° du I
+de l'article L. 5211-41-3 du code général des collectivités territoriales
+lorsque le nouvel établissement public de coopération intercommunale est soumis
+aux dispositions du I de l'article 1609 nonies C.
