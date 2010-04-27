@@ -1,10 +1,10 @@
 Article 301 I
 ----
 En cas d'opérations de fusion, de scission, d'augmentation de capital ou
-d'annulation de titres mentionnées au deuxième alinéa du e de l'article 885 I
-bis du code général des impôts, la personne qui a bénéficié du régime prévu par
-cet article doit fournir, jusqu'à l'année suivant celle du terme de l'engagement
-collectif de conservation, une attestation émanant :
+d'annulation de titres mentionnées au h de l'article 885 I bis du code général
+des impôts, la personne qui a bénéficié du régime prévu par cet article doit
+fournir, jusqu'à l'année suivant celle du terme de l'engagement collectif de
+conservation, une attestation émanant :
 
 1° Soit de la société bénéficiaire mentionnée à l'article 301 F certifiant que
 les signataires ont respecté, pendant l'année précédant celle du fait générateur

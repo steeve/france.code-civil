@@ -1,11 +1,8 @@
 Article 301 J
 ----
-Les informations et documents mentionnés aux articles 301 G à 301 I sont
-communiqués à l'administration par la personne qui bénéficie du régime prévu à
-l'article 885 I bis du code général des impôts lors du dépôt de sa déclaration
-d'impôt de solidarité sur la fortune ou sont adressés au service des impôts de
-son domicile lorsqu'elle n'est pas tenue de déposer une déclaration. Il en est
-de même pour la personne qui a bénéficié de cette exonération et qui n'est plus
-tenue de déposer cette même déclaration. En cas de décès de cette personne, ils
-sont également adressés par ses ayants cause à titre gratuit au service des
-impôts du domicile du défunt.
+En cas d'opération de fusion mentionnée au neuvième alinéa du b de l'article 885
+I bis du code général des impôts, la personne qui a bénéficié du régime prévu à
+cet article doit fournir, jusqu'à l'année suivant celle du terme de l'engagement
+collectif de conservation, une attestation émanant de la société bénéficiaire
+mentionnée à l'article 301 F certifiant que les titres reçus en contrepartie de
+l'opération ont été conservés.
