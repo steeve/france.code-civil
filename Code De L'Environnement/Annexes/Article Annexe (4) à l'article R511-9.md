@@ -217,7 +217,7 @@ D
 
 -
 
-a) supérieure à 500 kg / j
+a) supérieure à 500 kg/j
 
 
 A
@@ -547,7 +547,7 @@ plastiques, semi-conducteurs, etc.) par voie électrolytique ou chimique, à
 l'exclusion du nettoyage, dégraissage, décapage de surfaces visés par la
 rubrique 2564.
 
-1. Lorsqu'il y a mise en oeuvre de cadmium
+1. Lorsqu'il y a mise en œuvre de cadmium
 
 
 A
@@ -558,7 +558,7 @@ A
 
 4
 
-2. Procédés utilisant des liquides (sans mise en oeuvre de cadmium, et à
+2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à
 l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
 
 2. Le volume des cuves de traitement étant :
@@ -946,8 +946,8 @@ A
 
 8
 
-Les organismes génétiquement modifiés visés sont ceux définis par la loi n o
-92-654 du 13 juillet 1992 et par le décret n o 93-744 du 27 mars 1993 fixant la
+Les organismes génétiquement modifiés visés sont ceux définis par la loi n°
+92-654 du 13 juillet 1992 et par le décret n° 93-744 du 27 mars 1993 fixant la
 liste des techniques de modification génétique et les critères de classement des
 organismes génétiquement modifiés en groupe I et II
 
@@ -1126,6 +1126,16 @@ dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du
 code de l'environnement, à l'exclusion des installations visées aux rubriques
 1313, 2710, 2711, 2712 et 2719.
 
+La quantité susceptible d'être présente étant :
+
+1. Supérieure ou égale à 50 t
+
+10
+
+2. Inférieure à 50 t
+
+3
+
 1. La quantité des substances dangereuses ou préparations dangereuses
 susceptible d'être présente dans l'installation étant supérieure ou égale aux
 seuils AS des rubriques d'emploi ou de stockage de ces substances ou
@@ -1167,6 +1177,21 @@ A
 
 DC
 
+1. La quantité de déchets susceptible d'être présente dans l'installation étant
+:
+
+a) Supérieure ou égale à 50 t
+
+6
+
+b) Supérieure ou égale à 1 t et inférieure à 50 t
+
+3
+
+2. Non soumis à la taxe
+
+-
+
 2719
 
 Installation temporaire de transit de déchets issus de pollutions accidentelles
@@ -1206,18 +1231,18 @@ nomenclature, des établissements de diagnostic, de recherche et d'enseignement 
 
 La capacité de traitement étant :
 
-La capacité de traitement étant supérieure à 500 kg / j
+La capacité de traitement étant supérieure à 500 kg/j
 
 
 A
 
 5
 
-a) supérieure à 50 t / j
+a) supérieure à 50 t/j
 
 8
 
-b) supérieure à 10 t / j, mais inférieure ou égale à 50 t / j
+b) supérieure à 10 t/j, mais inférieure ou égale à 50 t/j
 
 2
 
@@ -1305,6 +1330,16 @@ A
 
 1
 
+1. La capacité journalière autorisée étant supérieure ou égale à 10 t/j ou la
+capacité totale de l'installation étant supérieure ou égale à 25 000 t
+
+6
+
+2. La capacité journalière autorisée étant inférieure à 10 t/j et la capacité
+totale de l'installation étant inférieure à 25 000 t
+
+3
+
 2770
 
 Installation de traitement thermique de déchets dangereux ou de déchets
@@ -1313,7 +1348,7 @@ l'article R. 511-10 du code de l'environnement.
 
 1. Les déchets destinés à être traités contenant des substances dangereuses ou
 préparations dangereuses mentionnées à l'article R. 511-10 du code de
-l'environnement.
+l'environnement :
 
 a) La quantité de substances dangereuses ou préparations dangereuses susceptible
 d'être présente dans l'installation étant supérieure ou égale aux seuils AS des
@@ -1324,6 +1359,8 @@ AS
 
 3
 
+10
+
 b) La quantité de substances dangereuses ou préparations dangereuses susceptible
 d'être présente dans l'installation étant inférieure aux seuils AS des rubriques
 d'emploi ou de stockage de ces substances ou préparations
@@ -1333,14 +1370,19 @@ A
 
 2
 
+6
+
 2. Les déchets destinés à être traités ne contenant pas les substances
 dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du
-code de l'environnement.
+code de l'environnement quelle que soit la quantité de déchets destinés à être
+traités.
 
 
 A
 
 2
+
+6
 
 2771
 
@@ -1351,6 +1393,16 @@ A
 
 2
 
+La capacité de traitement étant :
+
+1. Supérieure ou égale à 3 t/h
+
+6
+
+2. Inférieure à 3 t/h
+
+3
+
 2780
 
 Installations de traitement aérobie (compostage ou stabilisation biologique) de
@@ -1360,15 +1412,15 @@ déchets non dangereux ou matière végétale brute, ayant le cas échéant subi
 1. Compostage de matière végétale brute, effluents d'élevage, matières
 stercoraires :
 
-a) La quantité de matières traitées étant supérieure ou égale à 30 t / j
+a) La quantité de matières traitées étant supérieure ou égale à 30 t/j
 
 
 A
 
 3
 
-b) La quantité de matières traitées étant supérieure ou égale à 3 t / j et
-inférieure à 30 t / j
+b) La quantité de matières traitées étant supérieure ou égale à 3 t/j et
+inférieure à 30 t/j
 
 
 D
@@ -1379,15 +1431,15 @@ végétales, de boues de station d'épuration des eaux urbaines, de papeteries,
 d'industries agroalimentaires, seuls ou en mélange avec des déchets végétaux ou
 des effluents d'élevages ou des matières stercoraires :
 
-a) La quantité de matières traitées étant supérieure ou égale à 20 t / j
+a) La quantité de matières traitées étant supérieure ou égale à 20 t/j
 
 
 A
 
 3
 
-b) La quantité de matières traitées étant supérieure ou égale à 2 t / j et
-inférieure à 20 t / j
+b) La quantité de matières traitées étant supérieure ou égale à 2 t/j et
+inférieure à 20 t/j
 
 
 D
@@ -1399,6 +1451,20 @@ A
 
 3
 
+1. Non soumis à la taxe
+
+-
+
+2. La quantité de matières et déchets traités étant :
+
+a) Supérieure ou égale à 50 t/j
+
+6
+
+b) Inférieure à 50 t/j
+
+1
+
 2781
 
 Installations de méthanisation de déchets non dangereux ou matière végétale
@@ -1407,14 +1473,14 @@ brute à l'exclusion des installations de stations d'épuration urbaines
 1. Méthanisation de matière végétale brute, effluents d'élevage, matières
 stercoraires, déchets végétaux d'industries agroalimentaires :
 
-a) La quantité de matières traitées étant supérieure ou égale à 30 t / j
+a) La quantité de matières traitées étant supérieure ou égale à 30 t/j
 
 
 A
 
 2
 
-b) La quantité de matières traitées étant inférieure à 30 t / j
+b) La quantité de matières traitées étant inférieure à 30 t/j
 
 
 DC
@@ -1446,7 +1512,7 @@ rubriques 1313, 2720, 2760 et 2770.
 
 1. Les déchets destinés à être traités contenant des substances dangereuses ou
 préparations dangereuses mentionnées à l'article R. 511-10 du code de
-l'environnement.
+l'environnement :
 
 a) La quantité de substances dangereuses ou préparations dangereuses susceptible
 d'être présente dans l'installation étant supérieure ou égale aux seuils AS des
@@ -1457,6 +1523,8 @@ AS
 
 3
 
+10
+
 b) La quantité de substances dangereuses ou préparations dangereuses susceptible
 d'être présente dans l'installation étant inférieure aux seuils AS des rubriques
 d'emploi ou de stockage de ces substances ou préparations
@@ -1466,14 +1534,19 @@ A
 
 2
 
+6
+
 2. Les déchets destinés à être traités ne contenant pas les substances
 dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du
-code de l'environnement.
+code de l'environnement, quelle que soit la quantité de déchets destinés à être
+traités.
 
 
 A
 
 2
+
+6
 
 2791
 
@@ -1493,6 +1566,20 @@ A
 
 
 DC
+
+1. La capacité de traitement étant :
+
+a) Supérieure ou égale à 50 t/j
+
+6
+
+b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j
+
+3
+
+2. Non soumis à la taxe
+
+-
 
 2795
 
@@ -1556,7 +1643,7 @@ DC
 
 B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux
 visés en A et C et si la puissance thermique maximale de l'installation est
-supérieure à 0, 1 MW
+supérieure à 0,1 MW
 
 
 A
@@ -1767,7 +1854,7 @@ quantité maximale de produits susceptible d'être utilisée dépasse 100 kg/j
 
 DC
 
-supérieure ou égale à 12, 5 t, mais inférieure à 50 t
+supérieure ou égale à 12,5 t, mais inférieure à 50 t
 
 1
 
@@ -1798,7 +1885,7 @@ de matières bitumineuses, couvertes par la rubrique 1521,
 
 - des activités couvertes par les rubriques 2445 et 2450,
 
-- des activités de revêtement sur véhicules et engins à moteurs couvertes par la
+-des activités de revêtement sur véhicules et engins à moteurs couvertes par la
 rubrique 2930,
 
 - ou de toute autre activité couverte explicitement par une autre rubrique.
