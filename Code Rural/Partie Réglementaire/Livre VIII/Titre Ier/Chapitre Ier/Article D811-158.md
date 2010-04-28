@@ -8,8 +8,8 @@ IX du code du travail, ou une formation dans le cadre d'un contrat de
 qualification prévu à l'article L. 980-2 du livre IX du code du travail.
 
 Toute formation organisée dans le cadre ci-dessus indiqué doit faire l'objet
-d'un agrément consenti par le directeur régional de l'agriculture et de la
-forêt.
+d'un agrément consenti par le directeur régional de l'alimentation, de
+l'agriculture et de la forêt .
 
 Pour être admis à suivre une formation dans les conditions fixées aux alinéas
 précédents, les candidats doivent :

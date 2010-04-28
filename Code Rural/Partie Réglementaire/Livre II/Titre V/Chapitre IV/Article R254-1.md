@@ -3,9 +3,9 @@ Article R254-1
 La demande d'agrément d'un organisme exerçant des activités de distribution ou
 d'application de produits antiparasitaires à usage agricole et de produits
 assimilés mentionnées aux articles L. 254-1 et L. 254-2 est adressée à la
-direction régionale de l'agriculture et de la forêt ou à la direction de
-l'agriculture et de la forêt pour les départements d'outre-mer correspondant au
-siège social de l'organisme.
+direction régionale de l'alimentation, de l'agriculture et de la forêt ou à la
+direction de l'agriculture et de la forêt pour les départements d'outre-mer
+correspondant au siège social de l'organisme.
 
 La demande comprend :
 

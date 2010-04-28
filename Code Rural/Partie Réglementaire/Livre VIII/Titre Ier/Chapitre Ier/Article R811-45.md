@@ -41,8 +41,8 @@ scrutin de liste à la représentation proportionnelle et à la plus forte moyen
 Les représentants des organisations professionnelles et syndicales les plus
 représentatives sont désignés par le préfet de région.
 
-Le directeur régional de l'agriculture et de la forêt désigne le représentant de
-l'organisme public compétent.
+Le directeur régional de l'alimentation, de l'agriculture et de la forêt désigne
+le représentant de l'organisme public compétent.
 
 III.-Le conseil de centre a à connaître notamment de l'organisation générale de
 la formation, des objectifs, horaires, rythmes et programmes, méthodes et

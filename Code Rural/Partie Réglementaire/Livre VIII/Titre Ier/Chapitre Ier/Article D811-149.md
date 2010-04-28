@@ -9,16 +9,17 @@ ministre de l'agriculture.
 
 L'examen conduisant à la délivrance du certificat d'aptitude professionnelle
 agricole est organisé dans le cadre d'une région ou d'une inter-région sous
-l'autorité du directeur régional de l'agriculture et de la forêt ou du directeur
-régional de l'agriculture et de la forêt, organisateur de l'inter-région, en une
-seule session normale annuelle selon des modalités fixées par le ministre de
-l'agriculture.
+l'autorité du directeur régional de l'alimentation, de l'agriculture et de la
+forêt ou du directeur régional de l'alimentation, de l'agriculture et de la
+forêt , organisateur de l'inter-région, en une seule session normale annuelle
+selon des modalités fixées par le ministre de l'agriculture.
 
 Cependant, des épreuves de remplacement peuvent être organisées à l'intention
 des candidats régulièrement inscrits à la session normale et empêchés de s'y
 présenter, soit pour raison de santé dûment constatée, soit pour obligations
 militaires dûment certifiées, soit pour cause de force majeure laissée à
-l'appréciation du directeur régional de l'agriculture et de la forêt.
+l'appréciation du directeur régional de l'alimentation, de l'agriculture et de
+la forêt .
 
 II.-L'examen en vue de l'attribution du diplôme comporte deux groupes d'épreuves
 écrites, orales ou pratiques.
@@ -42,10 +43,10 @@ contrat au titre des articles L. 813-8 et L. 813-9 dispensant une formation
 scolaire, ou les établissements bénéficiant de l'agrément prévu au III de
 l'article D. 811-141 doivent, pour mettre en oeuvre le contrôle certificatif en
 cours de formation, obtenir, préalablement au début de la formation, une
-habilitation du directeur régional de l'agriculture et de la forêt. Cette
-habilitation est donnée, pour une filière, sur demande de l'établissement. Les
-conditions de délivrance et de retrait de l'habilitation sont fixées par un
-arrêté du ministre de l'agriculture.
+habilitation du directeur régional de l'alimentation, de l'agriculture et de la
+forêt . Cette habilitation est donnée, pour une filière, sur demande de
+l'établissement. Les conditions de délivrance et de retrait de l'habilitation
+sont fixées par un arrêté du ministre de l'agriculture.
 
 IV.-Si des anomalies dans l'organisation ou les résultats du contrôle
 certificatif en cours de formation sont constatées par le jury, celui-ci peut
@@ -54,9 +55,9 @@ candidats concernés.
 
 En cas d'invalidation du contrôle certificatif en cours de formation, pour
 seulement un ou deux modules, des épreuves de substitution modulaires ou
-intermodulaires sont organisées par le directeur régional de l'agriculture et de
-la forêt responsable de la session d'examen pour tenir lieu des évaluations
-certificatives.
+intermodulaires sont organisées par le directeur régional de l'alimentation, de
+l'agriculture et de la forêt responsable de la session d'examen pour tenir lieu
+des évaluations certificatives.
 
 Si l'évaluation de plus de deux modules est invalidée, les résultats de
 l'ensemble du contrôle en cours de formation sont invalidés et les candidats
@@ -94,8 +95,8 @@ formation portant sur un ou deux modules.
 VII.-Les candidats peuvent se présenter à une épreuve facultative choisie sur
 une liste d'au moins trois des enseignements prévus au dernier alinéa du I de
 l'article D. 811-148, dont une langue vivante. Les épreuves facultatives sont
-organisées par le directeur régional de l'agriculture et de la forêt responsable
-de la session.
+organisées par le directeur régional de l'alimentation, de l'agriculture et de
+la forêt responsable de la session.
 
 VIII.-Les candidats qui ne peuvent subir l'épreuve pratique d'éducation physique
 et sportive pour une raison de santé en sont dispensés à condition de produire
@@ -110,9 +111,10 @@ I du présent article.
 
 IX.-Le jury présidé par un fonctionnaire de catégorie A, membre de
 l'enseignement agricole public, est désigné par le directeur régional de
-l'agriculture et de la forêt, organisateur de l'examen, conformément au I du
-présent article. Il peut opérer en commissions. Il est souverain dans ses
-évaluations et délibérations, dans le cadre de la réglementation en vigueur.
+l'alimentation, de l'agriculture et de la forêt , organisateur de l'examen,
+conformément au I du présent article. Il peut opérer en commissions. Il est
+souverain dans ses évaluations et délibérations, dans le cadre de la
+réglementation en vigueur.
 
 Il est composé, pour moitié au moins, d'enseignants des établissements agricoles
 publics ou privés justifiant sans dérogation possible des titres ou diplômes

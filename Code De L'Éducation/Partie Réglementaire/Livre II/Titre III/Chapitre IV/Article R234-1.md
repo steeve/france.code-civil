@@ -5,8 +5,8 @@ présidents sont suppléés dans les conditions ci-après :
 
 1° En cas d'empêchement du préfet de région, le conseil est présidé par le
 recteur de l'académie ou, lorsque les questions examinées concernent
-l'enseignement agricole, par le directeur régional de l'agriculture et de la
-forêt.
+l'enseignement agricole, par le directeur régional de l'alimentation, de
+l'agriculture et de la forêt.
 
 2° En cas d'empêchement du président du conseil régional, le conseil est présidé
 par le conseiller régional délégué à cet effet par le président du conseil

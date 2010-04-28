@@ -1,11 +1,11 @@
 Article R251-28
 ----
-Sur proposition du directeur régional de l'agriculture et de la forêt ou du
-directeur de l'agriculture et de la forêt pour les départements d'outre-mer, le
-préfet de région délivre l'agrément au demandeur. Cet agrément n'est valable que
-pour une activité et un matériel donnés. Il est délivré à l'issue d'un contrôle
-effectué par les agents mentionnés au I de l'article L. 251-18 permettant de
-vérifier :
+Sur proposition du directeur régional de l'alimentation, de l'agriculture et de
+la forêt ou du directeur de l'agriculture et de la forêt pour les départements
+d'outre-mer, le préfet de région délivre l'agrément au demandeur. Cet agrément
+n'est valable que pour une activité et un matériel donnés. Il est délivré à
+l'issue d'un contrôle effectué par les agents mentionnés au I de l'article L.
+251-18 permettant de vérifier :
 
 1° Que le matériel est introduit ou va circuler pour effectuer des travaux à des
 fins d'essai ou à des fins scientifiques, ou des travaux sur les sélections

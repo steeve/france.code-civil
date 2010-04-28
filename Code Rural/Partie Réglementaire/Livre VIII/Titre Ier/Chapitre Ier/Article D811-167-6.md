@@ -25,15 +25,16 @@ Pour préparer un candidat à l'obtention d'un certificat de spécialisation
 agricole selon la modalité des unités capitalisables et participer aux
 évaluations des objectifs terminaux d'intégration, le centre doit avoir obtenu,
 préalablement à la mise en oeuvre de la formation, une habilitation délivrée par
-le directeur régional de l'agriculture et de la forêt ou, pour les départements
-d'outre-mer, par le directeur départemental de l'agriculture et de la forêt.
+le directeur régional de l'alimentation, de l'agriculture et de la forêt ou,
+pour les départements d'outre-mer, par le directeur départemental de
+l'agriculture et de la forêt.
 
 Pour participer à la validation des acquis de l'expérience à l'issue de
 l'accompagnement du candidat, ou à l'organisation de l'évaluation complémentaire
 en cas de validation partielle, le centre de formation doit avoir obtenu
 préalablement une habilitation délivrée par le directeur régional de
-l'agriculture et de la forêt ou, pour les départements d'outre-mer, par le
-directeur départemental de l'agriculture et de la forêt.
+l'alimentation, de l'agriculture et de la forêt ou, pour les départements
+d'outre-mer, par le directeur départemental de l'agriculture et de la forêt.
 
 Les conditions de ces habilitations sont fixées par arrêté du ministre chargé de
 l'agriculture.

@@ -25,7 +25,7 @@ définition est commune à toutes les catégories de candidats.
 
 Le premier groupe est constitué de deux épreuves organisées en fin de formation
 ayant pour objet le contrôle de l'atteinte des objectifs terminaux de la
-formation. L'une d'entre elles au moins présente un caractère de synthèse
+formation.L'une d'entre elles au moins présente un caractère de synthèse
 significatif de l'option ou de la spécialité du diplôme.
 
 Le deuxième groupe est constitué de six épreuves au maximum organisées en fin de
@@ -42,7 +42,7 @@ articles L. 813-8 et L. 813-9 et dispensant une formation scolaire ou les
 établissements mentionnés au d du I de l'article D. 811-140 doivent, pour mettre
 en oeuvre le contrôle certificatif en cours de formation, avoir obtenu
 préalablement au début de la formation une habilitation du directeur régional de
-l'agriculture et de la forêt.
+l'alimentation, de l'agriculture et de la forêt .
 
 Cette habilitation est donnée, sur demande de l'établissement, pour une filière.
 Les conditions de délivrance et de retrait de l'habilitation sont fixées par un

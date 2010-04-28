@@ -28,8 +28,8 @@ mode de conduite de ces cultures et à leur valorisation.
 Le barème définit notamment, par catégorie d'animaux, les besoins en énergie
 alimentaire.
 
-Le barème est adressé pour approbation au directeur régional de l'agriculture et
-de la forêt avant le 30 juin de l'année civile en cours ou avant la fin de
-l'année civile en cas de modifications mentionnées au troisième alinéa. Après
-validation, copie de ce document est envoyée au ministère chargé de
-l'agriculture.
+Le barème est adressé pour approbation au directeur régional de l'alimentation,
+de l'agriculture et de la forêt avant le 30 juin de l'année civile en cours ou
+avant la fin de l'année civile en cas de modifications mentionnées au troisième
+alinéa. Après validation, copie de ce document est envoyée au ministère chargé
+de l'agriculture.

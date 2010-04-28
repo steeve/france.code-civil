@@ -1,10 +1,10 @@
 Article D811-131
 ----
 Le jury, présidé par un fonctionnaire de catégorie A, membre de l'enseignement
-agricole public, est désigné par le directeur régional de l'agriculture et de la
-forêt, organisateur de l'examen, conformément à l'article D. 811-124. Il peut
-opérer en commissions. Le jury est souverain dans ses évaluations et
-délibérations, dans le cadre de la réglementation en vigueur.
+agricole public, est désigné par le directeur régional de l'alimentation, de
+l'agriculture et de la forêt , organisateur de l'examen, conformément à
+l'article D. 811-124. Il peut opérer en commissions. Le jury est souverain dans
+ses évaluations et délibérations, dans le cadre de la réglementation en vigueur.
 
 Le jury est composé, pour deux tiers au moins, d'enseignants d'établissements
 agricoles publics ou privés, justifiant des titres ou diplômes requis pour

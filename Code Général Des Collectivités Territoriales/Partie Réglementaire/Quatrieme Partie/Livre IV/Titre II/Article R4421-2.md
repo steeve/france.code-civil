@@ -11,7 +11,7 @@ a) Le préfet de Corse ;
 
 b) Le préfet de Haute-Corse ;
 
-c) Le directeur régional de l'agriculture et de la forêt ;
+c) Le directeur régional de l'alimentation, de l'agriculture et de la forêt ;
 
 d) Le directeur régional de l'équipement ;
 

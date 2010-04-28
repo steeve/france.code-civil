@@ -17,7 +17,8 @@ Elle comprend :
 représentant, ou, le cas échéant, le représentant d'un syndicat mixte de gestion
 d'un parc naturel ;
 
--le directeur régional de l'agriculture et de la forêt ou son représentant ;
+-le directeur régional de l'alimentation de l'agriculture et de la forêt ou son
+représentant ;
 
 -les directeurs départementaux de l'agriculture et de la forêt ou leurs
 représentants ;

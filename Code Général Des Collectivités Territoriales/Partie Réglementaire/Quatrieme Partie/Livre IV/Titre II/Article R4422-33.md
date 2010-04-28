@@ -10,13 +10,13 @@ départementales de l'équipement de Corse-du-Sud et de Haute-Corse ;
 2° Le service académique d'information et d'orientation, la délégation
 académique de l'enseignement technique, la division de la programmation et de
 l'organisation scolaire du rectorat de l'académie de Corse et les parties de
-services de la direction régionale de l'agriculture et de la forêt et de la
-direction des affaires maritimes participant à l'élaboration du schéma
-prévisionnel des formations et du programme prévisionnel des investissements,
-ainsi qu'à la définition de la structure pédagogique pour les établissements
-concernés : collèges, lycées, établissements d'enseignement professionnel,
-lycées agricoles, aquacoles et maritimes et établissements d'éducation spéciale
-;
+services de la direction régionale de l'alimentation, de l'agriculture et de la
+forêt et de la direction des affaires maritimes participant à l'élaboration du
+schéma prévisionnel des formations et du programme prévisionnel des
+investissements, ainsi qu'à la définition de la structure pédagogique pour les
+établissements concernés : collèges, lycées, établissements d'enseignement
+professionnel, lycées agricoles, aquacoles et maritimes et établissements
+d'éducation spéciale ;
 
 3° Les parties de services de l'agence régionale de santé participant à
 l'instruction des demandes de classement touristique.

@@ -15,4 +15,4 @@ d'établissement après qu'ont été explorées toutes les possibilités d'un ma
 sur place de l'élève.
 
 Le changement éventuel d'établissement scolaire relève de la compétence du
-directeur régional de l'agriculture et de la forêt.
+directeur régional de l'alimentation, de l'agriculture et de la forêt.

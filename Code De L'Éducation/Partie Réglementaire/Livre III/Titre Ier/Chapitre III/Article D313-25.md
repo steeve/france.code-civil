@@ -24,12 +24,12 @@ l'enseignement technique ;
 
 9° Le directeur régional du travail et de l'emploi ;
 
-10° Le chef du centre régional de l' institution mentionnée à l'article L.
-5312-1 du code du travail ;
+10° Le chef du centre régional de l'institution mentionnée à l'article L. 5312-1
+du code du travail ;
 
 11° Le directeur régional de la jeunesse et des sports ;
 
-12° Le directeur régional de l'agriculture et de la forêt ;
+12° Le directeur régional de l'alimentation, de l'agriculture et de la forêt ;
 
 13° Le directeur régional de France 3 ;
 

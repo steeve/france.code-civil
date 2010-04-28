@@ -18,6 +18,6 @@ Le comité de coordination régional de l'emploi et de la formation
 professionnelle, ainsi que le conseil académique de l'éducation nationale pour
 les questions relevant de la compétence du recteur, ou le comité régional de
 l'enseignement agricole pour les questions relevant de la compétence du
-directeur régional de l'agriculture et de la forêt, sont consultés lors de
-l'élaboration des contrats d'objectifs et tenus régulièrement informés de leur
-mise en oeuvre ainsi que du bilan.
+directeur régional de l'alimentation, de l'agriculture et de la forêt, sont
+consultés lors de l'élaboration des contrats d'objectifs et tenus régulièrement
+informés de leur mise en oeuvre ainsi que du bilan.

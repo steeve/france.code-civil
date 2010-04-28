@@ -11,10 +11,11 @@ Le préfet peut délivrer le certificat de capacité aux postulants qui justifie
 liste publiée par arrêté du ministre chargé de l'agriculture ;
 
 2° Soit de connaissances suffisantes attestées par le directeur régional de
-l'agriculture et de la forêt ou par le directeur de l'agriculture et de la forêt
-pour les départements d'outre-mer. Le contenu, les modalités d'évaluation des
-connaissances ainsi que la liste des établissements habilités à participer à
-cette évaluation sont définis par arrêté du ministre chargé de l'agriculture.
+l'alimentation, de l'agriculture et de la forêt ou par le directeur de
+l'agriculture et de la forêt pour les départements d'outre-mer. Le contenu, les
+modalités d'évaluation des connaissances ainsi que la liste des établissements
+habilités à participer à cette évaluation sont définis par arrêté du ministre
+chargé de l'agriculture.
 
 Les pièces constituant le dossier de demande du certificat de capacité ainsi que
 les modalités de présentation de ce dossier et de délivrance du certificat sont

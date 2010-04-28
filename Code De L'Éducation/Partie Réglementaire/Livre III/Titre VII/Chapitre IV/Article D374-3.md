@@ -12,13 +12,11 @@ prévues aux 1° à 4° du présent article et aux articles D. 374-4 et D. 374-5
 services départementaux de l'éducation nationale " sont remplacés par le mot : "
 vice-recteur " ;
 
-2° Le mot : " département " est remplacé par le mot :
+2° Le mot : " département " est remplacé par le mot : " Nouvelle-Calédonie " ;
 
-" Nouvelle-Calédonie " ;
-
-3° Les mots : " directeur régional de l'agriculture et de la forêt " sont
-remplacés par les mots : " directeur de l'agriculture, de la forêt et de
-l'environnement " ;
+3° Les mots : " directeur régional de l'alimentation, de l'agriculture et de la
+forêt " sont remplacés par les mots : " directeur de l'agriculture, de la forêt
+et de l'environnement " ;
 
 4° Les mots : " directeur régional des affaires maritimes " sont remplacés par
 les mots : " directeur des affaires maritimes " ;

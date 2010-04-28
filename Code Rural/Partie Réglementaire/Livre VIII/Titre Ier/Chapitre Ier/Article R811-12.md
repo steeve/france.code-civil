@@ -9,8 +9,8 @@ des établissements publics intéressés à la formation :
 a) Le directeur départemental de l'agriculture et de la forêt ou son
 représentant ;
 
-b) Le directeur régional des entreprises, de la concurrence, de la consommation,
-du travail et de l'emploi ou son représentant ;
+b) Le directeur régional du travail, de l'emploi et de la formation
+professionnelle ou son représentant ;
 
 c) L'inspecteur d'académie, directeur des services départementaux de l'éducation
 ou son représentant ;

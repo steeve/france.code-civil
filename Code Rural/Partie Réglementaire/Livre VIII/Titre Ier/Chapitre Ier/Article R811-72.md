@@ -24,8 +24,8 @@ comptable.
 
 Le compte financier accompagné éventuellement des observations du conseil
 d'administration et de celles de l'agent comptable est transmis à la
-collectivité de rattachement et au directeur régional de l'agriculture et de la
-forêt dans les trente jours suivant son adoption.
+collectivité de rattachement et au directeur régional de l'alimentation, de
+l'agriculture et de la forêt dans les trente jours suivant son adoption.
 
 L'agent comptable adresse le compte financier susmentionné et les pièces annexes
 nécessaires, avant l'expiration du sixième mois suivant la clôture de

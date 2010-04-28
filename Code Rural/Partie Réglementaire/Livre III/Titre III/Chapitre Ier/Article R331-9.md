@@ -11,7 +11,8 @@ est en activité.
 
 Elle comprend également :
 
-1. Le directeur régional de l'agriculture et de la forêt ou son représentant ;
+1. Le directeur régional de l'alimentation, de l'agriculture et de la forêt ou
+son représentant ;
 
 2. Le trésorier-payeur général de la région ou son représentant ;
 

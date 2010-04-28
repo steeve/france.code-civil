@@ -6,8 +6,8 @@ services de l'établissement. Il peut être assisté par un directeur adjoint no
 dans les mêmes conditions que lui et qui assure la suppléance ou l'intérim. Si
 l'établissement public n'est pas doté d'un directeur adjoint, un fonctionnaire
 de l'établissement est désigné, sur proposition du directeur, par le directeur
-régional de l'agriculture et de la forêt, pour assurer, en cas de besoin, cette
-suppléance ou cet intérim.L'agent comptable en est informé.
+régional de l'alimentation, de l'agriculture et de la forêt , pour assurer, en
+cas de besoin, cette suppléance ou cet intérim.L'agent comptable en est informé.
 
 Le directeur est l'organe exécutif de l'établissement public ; en cette qualité
 :
@@ -74,16 +74,16 @@ c) Aux emprunts, aux baux emphytéotiques, aux baux ruraux.
 
 Ces décisions deviennent exécutoires dès leur transmission.
 
-Le représentant de l'Etat, le directeur régional de l'agriculture et de la forêt
-et le président de la collectivité de rattachement ont accès, sur leur demande,
-à l'ensemble des actes et documents relatifs au fonctionnement de
-l'établissement.
+Le représentant de l'Etat, le directeur régional de l'alimentation, de
+l'agriculture et de la forêt et le président de la collectivité de rattachement
+ont accès, sur leur demande, à l'ensemble des actes et documents relatifs au
+fonctionnement de l'établissement.
 
 8° 2. Les délibérations du conseil d'administration portant sur le contenu ou
 l'organisation de l'action éducative dont le caractère exécutoire est, en
 application du II de l'article L. 421-14 du code de l'éducation, subordonné à
-leur transmission au directeur régional de l'agriculture et de la forêt sont
-celles relatives :
+leur transmission au directeur régional de l'alimentation, de l'agriculture et
+de la forêt sont celles relatives :
 
 a) Au projet d'établissement ;
 
@@ -94,8 +94,8 @@ c) Au règlement intérieur des centres de l'établissement ;
 d) Au projet pédagogique ;
 
 9° Il rend compte de sa gestion au conseil d'administration et en informe le
-directeur régional de l'agriculture et de la forêt et la collectivité de
-rattachement.
+directeur régional de l'alimentation, de l'agriculture et de la forêt et la
+collectivité de rattachement.
 
 Le directeur de l'établissement public local peut déléguer sa signature aux
 directeurs des centres ou à d'autres fonctionnaires ou agents publics de

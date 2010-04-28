@@ -45,14 +45,14 @@ d'une durée totale cumulée équivalente à au moins trois années d'activité
 professionnelle salariée, non salariée ou bénévole, en rapport direct avec le
 contenu de l'option du certificat de spécialisation agricole concernée.
 
-Le directeur régional de l'agriculture et de la forêt pour les départements
-d'outre-mer ou le directeur départemental de l'agriculture et de la forêt
-détermine la recevabilité des justificatifs présentés.
+Le directeur régional de l'alimentation, de l'agriculture et de la forêt pour
+les départements d'outre-mer ou le directeur départemental de l'agriculture et
+de la forêt détermine la recevabilité des justificatifs présentés.
 
 De plus, une décision dérogatoire à l'entrée en formation peut être accordée par
-le directeur régional de l'agriculture et de la forêt pour les départements
-d'outre-mer ou par le directeur départemental de l'agriculture et de la forêt
-dans les cas suivants :
+le directeur régional de l'alimentation, de l'agriculture et de la forêt pour
+les départements d'outre-mer ou par le directeur départemental de l'agriculture
+et de la forêt dans les cas suivants :
 
 a) Aux candidats qui ne possèdent pas l'un des diplômes ou titres figurant sur
 la liste fixée par l'arrêté de création de l'option du certificat de

@@ -43,5 +43,5 @@ ont la charge.
 
 Ils informent le directeur et le conseil d'administration de l'établissement
 public local des décisions prises et en rendent compte au préfet, au directeur
-régional de l'agriculture et de la forêt, au maire et au président du conseil
-régional.
+régional de l'alimentation, de l'agriculture et de la forêt , au maire et au
+président du conseil régional.

@@ -26,8 +26,8 @@ bb) Un préfet, désigné par le ministre de l'intérieur ;
 bc) Un inspecteur d'académie, directeur des services départementaux de
 l'éducation nationale, désigné par le ministre chargé de l'éducation ;
 
-bd) Un directeur régional de l'agriculture et de la forêt, désigné par le
-ministre chargé de l'agriculture ;
+bd) Un directeur régional de l'alimentation, de l'agriculture et de la forêt ,
+désigné par le ministre chargé de l'agriculture ;
 
 be) Un directeur régional de la jeunesse et des sports, désigné par le ministre
 chargé de la jeunesse et des sports ;

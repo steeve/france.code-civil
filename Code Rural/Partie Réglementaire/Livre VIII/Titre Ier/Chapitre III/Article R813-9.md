@@ -16,5 +16,5 @@ ou sportif.
 Le montant de ces contributions et éventuellement celui de la redevance demandée
 aux élèves ou aux familles des externes surveillés, des demi-pensionnaires et
 des internes, justifiés par des pièces comptables, sont communiqués au directeur
-régional de l'agriculture et de la forêt dans la première quinzaine de chaque
-année scolaire.
+régional de l'alimentation, de l'agriculture et de la forêt dans la première
+quinzaine de chaque année scolaire.

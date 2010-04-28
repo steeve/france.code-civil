@@ -24,11 +24,11 @@ communautaire élu par le conseil de la communauté ou par les conseils des
 communautés réunis à cet effet.
 
 2° Les représentants des personnels sont nommés par le préfet de région. A cet
-effet, le recteur d'académie et le directeur régional de l'agriculture et de la
-forêt reçoivent les propositions des organisations syndicales représentatives
-dans l'académie pour les personnels relevant du ministère de l'éducation
-nationale et dans la région pour les personnels relevant du ministère de
-l'agriculture :
+effet, le recteur d'académie et le directeur régional de l'alimentation, de
+l'agriculture et de la forêt reçoivent les propositions des organisations
+syndicales représentatives dans l'académie pour les personnels relevant du
+ministère de l'éducation nationale et dans la région pour les personnels
+relevant du ministère de l'agriculture :
 
 ils transmettent ces propositions au préfet de région. Les représentants des
 présidents d'université et directeurs d'établissements publics d'enseignement
@@ -37,12 +37,12 @@ supérieur sont nommés par le préfet de région sur proposition du recteur.
 3° Les représentants des parents d'élèves sont nommés par le préfet de région :
 sept au titre des établissements scolaires relevant du ministère de l'éducation
 nationale et un au titre des établissements scolaires relevant du ministère de
-l'agriculture. Le recteur d'académie et le directeur régional de l'agriculture
-et de la forêt reçoivent à cet effet les propositions des associations
-représentatives des parents d'élèves pour ce qui concerne respectivement les
-établissements relevant du ministère de l'éducation nationale et les
-établissements d'enseignement et de formation agricole. Ils transmettent ces
-propositions au préfet de région. La représentativité des associations de
+l'agriculture. Le recteur d'académie et le directeur régional de l'alimentation,
+de l'agriculture et de la forêt reçoivent à cet effet les propositions des
+associations représentatives des parents d'élèves pour ce qui concerne
+respectivement les établissements relevant du ministère de l'éducation nationale
+et les établissements d'enseignement et de formation agricole. Ils transmettent
+ces propositions au préfet de région. La représentativité des associations de
 parents d'élèves est appréciée en fonction des voix obtenues aux élections aux
 instances représentatives des établissements scolaires dans l'académie.
 

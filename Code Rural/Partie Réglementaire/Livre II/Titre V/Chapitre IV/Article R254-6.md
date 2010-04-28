@@ -1,9 +1,9 @@
 Article R254-6
 ----
 A l'issue de l'instruction des demandes de délivrance du certificat par le
-directeur régional de l'agriculture et de la forêt ou le directeur de
-l'agriculture et de la forêt pour les départements d'outre-mer et selon les cas
-:
+directeur régional de l'alimentation, de l'agriculture et de la forêt ou le
+directeur de l'agriculture et de la forêt pour les départements d'outre-mer et
+selon les cas :
 
 1° Le certificat est délivré automatiquement au vu du diplôme ou du titre
 homologué ;

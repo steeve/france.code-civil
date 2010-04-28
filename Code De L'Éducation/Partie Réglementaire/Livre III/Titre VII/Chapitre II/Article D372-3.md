@@ -9,17 +9,15 @@ sont applicables à Mayotte sous réserve des adaptations prévues aux 1° à 4�
 présent article et aux articles D. 372-4 et D. 372-5 :
 
 1° Les mots : " recteur " ou " recteur de l'académie " ou " directeur des
-services départementaux de l'éducation nationale " sont remplacés par le mot :
+services départementaux de l'éducation nationale " sont remplacés par le mot : "
+vice-recteur " ;
 
-" vice-recteur " ;
+2° Le mot : " département " est remplacé par les mots : " collectivité
+départementale " ;
 
-2° Le mot : " département " est remplacé par les mots :
-
-" collectivité départementale " ;
-
-3° Les mots : " directeur régional de l'agriculture et de la forêt " sont
-remplacés par les mots : " directeur de l'agriculture, de la forêt et de
-l'environnement " ;
+3° Les mots : " directeur régional de l'alimentation, de l'agriculture et de la
+forêt " sont remplacés par les mots : " directeur de l'agriculture, de la forêt
+et de l'environnement " ;
 
 4° Les mots : " directeur régional des affaires maritimes " sont remplacés par
 les mots : " directeur des affaires maritimes ".

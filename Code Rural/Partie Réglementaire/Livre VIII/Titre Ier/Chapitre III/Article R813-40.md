@@ -1,11 +1,12 @@
 Article R813-40
 ----
-Le directeur régional de l'agriculture et de la forêt peut autoriser le paiement
-d'heures de suppléance, d'heures supplémentaires et, dans la limite de 15 p. 100
-des heures d'enseignement ou de documentation données dans l'ensemble des
-classes sous contrat de l'établissement qui relèvent du ministre de
-l'agriculture, le paiement d'heures d'enseignement ou de documentation
-dispensées par des enseignants relevant de l'article R. 813-17 (2°).
+Le directeur régional de l'alimentation, de l'agriculture et de la forêt peut
+autoriser le paiement d'heures de suppléance, d'heures supplémentaires et, dans
+la limite de 15 p. 100 des heures d'enseignement ou de documentation données
+dans l'ensemble des classes sous contrat de l'établissement qui relèvent du
+ministre de l'agriculture, le paiement d'heures d'enseignement ou de
+documentation dispensées par des enseignants relevant de l'article R. 813-17
+(2°).
 
 De plus, des personnes extérieures à l'établissement ou employées dans
 l'établissement au titre d'activités autres que de formation initiale peuvent

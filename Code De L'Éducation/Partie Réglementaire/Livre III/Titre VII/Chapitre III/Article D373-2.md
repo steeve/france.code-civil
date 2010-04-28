@@ -9,13 +9,12 @@ Polynésie française sous réserve des adaptations suivantes :
 services départementaux de l'éducation nationale " sont remplacés par le mot : "
 vice-recteur " ;
 
-2° Le mot : " département " est remplacé par les mots :
+2° Le mot : " département " est remplacé par les mots : " collectivité
+d'outre-mer " ;
 
-" collectivité d'outre-mer " ;
-
-3° Les mots : " directeur régional de l'agriculture et de la forêt " sont
-remplacés par les mots : " directeur de l'agriculture, de la forêt et de
-l'environnement " ;
+3° Les mots : " directeur régional de l'alimentation, de l'agriculture et de la
+forêt " sont remplacés par les mots : " directeur de l'agriculture, de la forêt
+et de l'environnement " ;
 
 4° Les mots : " directeur régional des affaires maritimes " sont remplacés par
 les mots : " directeur des affaires maritimes " ;

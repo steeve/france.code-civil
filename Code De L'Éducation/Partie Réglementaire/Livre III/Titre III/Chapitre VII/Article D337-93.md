@@ -29,10 +29,10 @@ l'attribution de notes se rapportant aux épreuves qu'ils ont évaluées ou
 corrigées.
 
 Pour les baccalauréats professionnels mentionnés au deuxième alinéa de l'article
-D. 337-53, le jury est nommé par le directeur régional de l'agriculture et de la
-forêt. Il est présidé par un enseignant-chercheur. Les membres de ce jury
-peuvent être choisis parmi les enseignants des établissements d'enseignement
-relevant du ministre chargé de l'agriculture.
+D. 337-53, le jury est nommé par le directeur régional de l'alimentation, de
+l'agriculture et de la forêt . Il est présidé par un enseignant-chercheur. Les
+membres de ce jury peuvent être choisis parmi les enseignants des établissements
+d'enseignement relevant du ministre chargé de l'agriculture.
 
 Pour les spécialités mentionnées au troisième alinéa de l'article D. 337-53, le
 jury est nommé par le ministre chargé de la mer. Il est présidé par un
