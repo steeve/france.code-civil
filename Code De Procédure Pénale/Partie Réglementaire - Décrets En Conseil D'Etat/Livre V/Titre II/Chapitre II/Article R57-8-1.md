@@ -12,3 +12,10 @@ Pour les compétences définies par la partie réglementaire du présent code le
 chef d'établissement pénitentiaire peut déléguer sa signature à son adjoint, à
 un directeur des services pénitentiaires ou à un membre du corps de commandement
 placé sous son autorité.
+
+Il peut également la déléguer à un major pénitentiaire ou à un premier
+surveillant, placé sous son autorité :
+
+1° Pour les mesures d'affectation des personnes détenues en cellule ;
+
+2° Pour le placement préventif en cellule disciplinaire.
