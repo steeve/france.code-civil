@@ -1,6 +1,5 @@
 Article R6147-5
 ----
-Un représentant des familles des personnes accueillies dans les unités de soins
-de longue durée, élu par les représentants assistant à ce titre aux réunions des
-commissions de surveillance mentionnées à l'article R. 6147-25, participe aux
-séances du conseil d'administration avec voix consultative.
+Le directeur général peut déléguer sa signature au directeur d'un pôle d'intérêt
+commun, au directeur d'un groupement d'hôpitaux ainsi qu'au directeur d'un
+hôpital ne faisant pas partie d'un groupement.

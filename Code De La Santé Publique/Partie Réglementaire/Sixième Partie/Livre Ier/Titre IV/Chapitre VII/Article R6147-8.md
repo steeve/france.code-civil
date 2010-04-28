@@ -1,15 +1,18 @@
 Article R6147-8
 ----
-Le président du conseil d'administration ou, en cas d'empêchement, son suppléant
-peut, par délégation du conseil d'administration, être chargé d'exercer au nom
-de celui-ci les compétences qu'il détient en ce qui concerne les modifications
-de l'état des prévisions de recettes et de dépenses mentionnées au 3° de
-l'article L. 6143-1.
+Le comité technique d'établissement local est consulté par le directeur du
+groupement d'hôpitaux, de l'hôpital ou du pôle d'intérêt commun sur les sujets
+suivants :
 
-Les décisions prises en vertu du présent article sont signées par le président
-ou, en cas d'empêchement de celui-ci, par le président suppléant, qui doit en
-rendre compte au conseil d'administration lors de sa plus proche séance suivant
-chaque décision.
+1° L'organisation interne du groupement d'hôpitaux, de l'hôpital ou du pôle
+d'intérêt commun ;
 
-Le conseil d'administration peut mettre fin à tout moment à cette délégation de
-compétence.
+2° Les conditions et l'organisation du travail au sein du groupement d'hôpitaux,
+de l'hôpital ou du pôle d'intérêt commun, notamment les programmes de
+modernisation des méthodes et techniques de travail ainsi que leurs incidences
+sur la situation du personnel ;
+
+3° Le bilan social local.
+
+Les avis émis par les comités techniques d'établissement locaux sont transmis au
+comité technique d'établissement.

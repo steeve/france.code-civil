@@ -34,23 +34,13 @@ comité technique d'établissement en son sein ;
 parmi les représentants des collectivités locales et les personnalités
 qualifiées.
 
-III.-Dans chaque hôpital ou groupe hospitalier de l'Assistance publique-hôpitaux
-de Paris, la commission peut en outre comporter un ou plusieurs des membres
-suivants :
+III. - Le directeur général de l'Assistance publique-hôpitaux de Paris institue,
+soit dans un groupement d'hôpitaux, soit dans un hôpital, une commission locale
+des relations avec les usagers et de la qualité de la prise en charge.
 
-1° Le président du comité consultatif médical ou le représentant qu'il désigne
-parmi les médecins membres de ce comité ;
-
-2° Un représentant de la commission locale du service de soins infirmiers et son
-suppléant, désignés par le directeur du service de soins infirmiers parmi les
-membres mentionnés au b de l'article R. 714-26-2 ;
-
-3° Un représentant du personnel et son suppléant, choisis par les membres du
-comité technique local d'établissement en son sein ;
-
-4° Un représentant de la commission de surveillance et son suppléant, choisis
-par et parmi les représentants des collectivités locales et les personnalités
-qualifiées.
+Cette commission locale peut comporter des représentants des instances
+représentatives locales mentionnées aux articles R. 6147-6 et suivants selon des
+modalités définies par le règlement intérieur de l'établissement.
 
 IV.-Dans les établissements de santé privés, la commission peut en outre
 comporter un ou plusieurs des membres suivants :
