@@ -1,24 +1,27 @@
 Article R441-2-2
 ----
-Les organismes, sociétés, services ou collectivités ci-après désignés procèdent
-à l'enregistrement départemental des demandes qu'ils ont reçues :
+La demande de logement social s'effectue auprès de l'un des services
+d'enregistrement mentionnés à l'article R. 441-2-1. Elle peut être adressée par
+voie électronique si le service d'enregistrement a prévu cette faculté.
 
-a) Organismes d'habitations à loyer modéré disposant d'un patrimoine locatif ;
+Elle est présentée au moyen d'un formulaire dont le modèle est fixé par arrêté
+du ministre chargé du logement. Le formulaire comprend les rubriques suivantes :
 
-b) Sociétés d'économie mixte disposant d'un patrimoine locatif conventionné en
-application de l'article L. 351-2 et sociétés d'économie mixte constituées en
-application de la loi n° 46-860 du 30 avril 1946 ou de la loi n° 83-597 du 7
-juillet 1983 dans les départements d'outre-mer pour les logements leur
-appartenant et construits, acquis ou améliorés avec le concours financier de
-l'Etat ;
+a) Identité du demandeur et des autres personnes à loger ;
 
-c) Services de l'Etat désignés par le préfet pour être des lieux
-d'enregistrement des demandes ;
+b) Adresse du demandeur et autres coordonnées permettant de le joindre ;
 
-d) Communes ou groupements de communes compétents qui ont décidé par
-délibération d'être lieu d'enregistrement de ces demandes.
+c) Situation de famille du demandeur ;
 
-Lorsqu'ils sont saisis d'une demande de logement locatif social, les communes,
-groupements de communes ou services de l'Etat qui ne sont pas lieu
-d'enregistrement transmettent cette demande à l'un des services, organismes ou
-sociétés désignés ci-dessus et en avisent l'intéressé.
+d) Situation professionnelle du demandeur et des autres personnes à loger ;
+
+e) Ressources du demandeur et des personnes à loger et revenu imposable ;
+
+f) Situation actuelle de logement ;
+
+g) Motifs de la demande ;
+
+h) Type de logement recherché et localisation souhaitée ;
+
+i) Le cas échéant, handicap d'une des personnes à loger rendant nécessaire
+l'adaptation du logement.

@@ -1,18 +1,14 @@
 Article R441-2-3
 ----
-Un numéro départemental est délivré au demandeur lors de l'enregistrement de sa
-première demande de logement dans le département considéré. Lorsqu'une autre
-demande de logement locatif social est déposée par le même demandeur dans le
-même département, elle est enregistrée sous le même numéro, quels que soient le
-ou les lieux d'enregistrement ultérieurs. Dans le cas où les communes ou
-secteurs géographiques de résidence souhaités se trouvent situés dans plusieurs
-départements, le demandeur doit déposer une demande et recevoir un numéro
-départemental dans chaque département concerné, même si l'organisme d'habitation
-à loyer modéré ou la société d'économie mixte auprès de qui il a déposé sa
-demande dispose de logements situés dans plusieurs départements.
+Dès réception du formulaire renseigné, accompagné de la copie d'une pièce
+attestant l'identité du demandeur et, s'il y a lieu, de la régularité de son
+séjour sur le territoire national, la demande fait l'objet d'un enregistrement
+dans les conditions prévues à l'article R. 441-2-5. Cet enregistrement donne
+lieu à l'attribution d'un numéro unique départemental ou, en Ile-de-France, d'un
+numéro unique régional.
 
-Les conditions de la gestion du système d'enregistrement des demandes, celles de
-la constitution des fichiers ainsi que la composition du numéro départemental
-sont définies par un acte réglementaire dans les conditions prévues par la loi
-n° 78-17 du 6 janvier 1978. Le numéro départemental doit toujours comporter le
-mois et l'année de l'enregistrement de la première demande.
+La date de réception de la demande constitue le point de départ des délais
+mentionnés à l'article L. 441-1-4.
+
+Aucune condition de résidence préalable ne peut être opposée au demandeur pour
+refuser l'enregistrement de sa demande.
