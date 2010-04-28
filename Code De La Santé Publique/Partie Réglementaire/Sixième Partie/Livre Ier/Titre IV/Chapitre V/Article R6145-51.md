@@ -1,8 +1,11 @@
 Article R6145-51
 ----
-L'excédent de chacun des comptes de résultat annexes autres que celui mentionné
+Le résultat de chacun des comptes de résultat annexes autres que celui mentionné
 à l'article R. 6145-50 est affecté, au cours de l'exercice suivant celui auquel
-il se rapporte :
+il se rapporte, par délibération du conseil de surveillance, selon les modalités
+suivantes :
+
+I. - L'excédent est affecté :
 
 1° A un compte de report à nouveau de ce compte de résultat annexe ;
 
@@ -17,13 +20,14 @@ ce compte de résultat annexe ;
 des équipements, agencements et installations de mise aux normes de sécurité de
 ce compte de résultat annexe.
 
-Le déficit de chacun des comptes de résultat annexes autres que celui mentionné
-à l'article R. 6145-50 est couvert en priorité par reprise sur la réserve de
-compensation et, pour le surplus éventuel, par ajout aux charges d'exploitation
-de l'exercice suivant celui auquel il se rapporte. Toutefois, pour les comptes
-de résultats annexes des services et activités mentionnés aux 2° et 4° de
-l'article R. 6145-12, cette incorporation peut être étalée sur les trois
-exercices suivants.
+II. - Le déficit de chacun des comptes de résultat annexes autres que celui
+mentionné à l'article R. 6145-50 est :
 
-Les tarifs de prestations des services et activités mentionnés aux 2° et 4° de
-l'article R. 6145-12 sont modifiés en conséquence.
+1° Couvert en priorité par le compte de report à nouveau excédentaire de ce
+compte de résultat annexe ;
+
+2° Puis, le cas échéant, couvert par la reprise de la réserve de compensation de
+ce compte de résultat annexe ;
+
+3° Pour le surplus éventuel, affecté à un compte de report à nouveau déficitaire
+de ce compte de résultat annexe.

@@ -29,7 +29,7 @@ investissements destinés aux écoles et instituts et les charges exceptionnelle
 
 e) Les dotations aux comptes d'amortissements des biens meubles ou immeubles
 nécessaires à la réalisation des activités de formation et les dotations aux
-comptes de provisions.
+comptes de provisions et dépréciations.
 
 2° En produits :
 
@@ -49,4 +49,4 @@ l'établissement gestionnaire ;
 
 e) Les produits financiers et exceptionnels ;
 
-f) Les reprises sur provisions.
+f) Les reprises sur amortissements, dépréciations et provisions.

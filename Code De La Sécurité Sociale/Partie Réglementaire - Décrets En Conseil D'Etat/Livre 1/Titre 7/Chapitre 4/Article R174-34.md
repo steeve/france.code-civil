@@ -11,9 +11,9 @@ des activités d'intérêt général mentionnées au premier alinéa de l'articl
 
 L'agence régionale de santé d'Ile-de-France prépare, avec le service de santé
 des armées, un projet de protocole pluriannuel relatif aux objectifs et aux
-moyens des hôpitaux des armées. Le protocole, conclu en application des articles
-L. 6114-1 et L. 6114-2 du code de la santé publique , est signé par le ministre
-de la défense et les ministres chargés de la santé et de la sécurité sociale.
+moyens des hôpitaux des armées. Le protocole, conclu en application de l'article
+L. 6114-1 du code de la santé publique, est signé par le ministre de la défense
+et les ministres chargés de la santé et de la sécurité sociale.
 
 Chaque année, l'agence évalue les missions d'intérêt général mentionnées dans ce
 protocole. Sur cette base, le montant de la dotation annuelle de financement des

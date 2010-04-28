@@ -1,20 +1,14 @@
 Article R6145-66
 ----
-Lorsqu'un programme d'investissement comprend au moins une opération de travaux
-dont le coût total est supérieur à un seuil qui peut être différent selon les
-établissements et qui est fixé par arrêté des ministres chargés du budget et de
-la santé, le conseil d'administration délibère sur la base d'un dossier
-comprenant pour cette opération :
+Le plan global de financement pluriannuel est révisé chaque année et transmis au
+directeur général de l'agence régionale de santé, en vue de son approbation, en
+même temps que l'état des prévisions de recettes et de dépenses.
 
-1° Un rapport de présentation replaçant l'opération dans le contexte du projet
-d'établissement et justifiant, le cas échéant, toute évolution par rapport à
-celui-ci ;
+Le plan est mis à jour, en tant que de besoin au cours de l'exercice, dès lors
+qu'une nouvelle opération est inscrite dans le programme d'investissement ou dès
+lors que les prévisions de recettes et de dépenses sont substantiellement
+modifiées. Le plan mis à jour est transmis pour information au directeur général
+de l'agence régionale de santé.
 
-2° Un dossier technique dont le contenu est défini par arrêté du ministre chargé
-de la santé ;
-
-3° Une étude sur les coûts induits par l'opération tant en matière
-d'exploitation que d'investissement ;
-
-4° Le plan de financement de l'opération intégré dans le plan global de
-financement pluriannuel révisé de l'établissement.
+Le modèle de présentation du plan global de financement pluriannuel est arrêté
+par le ministre chargé de la santé.

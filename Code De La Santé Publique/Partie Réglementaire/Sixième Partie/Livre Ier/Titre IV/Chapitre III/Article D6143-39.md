@@ -1,9 +1,10 @@
 Article D6143-39
 ----
-Le directeur de l'agence régionale de l'hospitalisation demande au conseil
-d'administration d'un établissement public de santé de présenter un plan de
-redressement en application du I de l'article L. 6143-3 lorsque l'un ou
-plusieurs des critères de déséquilibre financier suivants sont remplis :
+Le directeur général de l'agence régionale de santé demande au directeur d'un
+établissement public de santé de présenter un plan de redressement en
+application de l'article L. 6143-3 lorsque, soit il estime que la situation
+financière l'exige, soit l'un ou plusieurs des critères de déséquilibre
+financier suivants sont remplis :
 
 1° Pour les établissements dont le total des produits du compte de résultat
 principal excède dix millions d'euros, le compte de résultat principal présente
@@ -33,10 +34,10 @@ total des produits, toutes activités confondues, de l'établissement, soit
 l'établissement présente une insuffisance d'autofinancement ;
 
 3° La capacité d'autofinancement de l'établissement est insuffisante pour
-couvrir le remboursement en capital des emprunts figurant dans le tableau de
-financement mentionné à l'article R. 6145-13, compte non tenu des remboursements
-infra-annuels sur les emprunts assortis d'une option de tirage sur ligne de
-trésorerie.
+couvrir le remboursement en capital contractuel des emprunts figurant dans le
+tableau de financement mentionné à l'article R. 6145-13. Le remboursement en
+capital contractuel ne prend pas en compte les remboursements anticipés en
+capital.
 
 L'examen de la situation de l'établissement au regard des critères mentionnés
 aux 1°, 2° et 3° du présent article est effectué au vu du plus récent des

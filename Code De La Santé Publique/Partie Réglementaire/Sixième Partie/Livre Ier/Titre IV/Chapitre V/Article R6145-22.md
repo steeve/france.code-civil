@@ -1,6 +1,6 @@
 Article R6145-22
 ----
-Les tarifs de prestations mentionnés aux 1° et 2° de l'article R. 6145-21, à
+Les tarifs de prestations mentionnés aux 1°, 2° et 3° de l'article R. 6145-21, à
 l'exception de ceux relatifs aux unités de soins de longue durée, sont obtenus,
 pour chaque catégorie tarifaire, en divisant le coût de revient prévisionnel par
 le nombre de journées d'hospitalisation prévues, après déduction des produits ne

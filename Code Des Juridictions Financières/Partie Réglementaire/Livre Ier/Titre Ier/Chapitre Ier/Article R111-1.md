@@ -1,9 +1,9 @@
 Article R111-1
 ----
-I. - Les établissements publics nationaux dont le jugement des comptes et
-l'examen de la gestion peuvent être délégués par arrêté du premier président de
-la Cour des comptes dans les conditions fixées au deuxième alinéa de l'article
-L. 111-9 appartiennent aux catégories suivantes :
+I.-Les établissements publics nationaux dont le jugement des comptes et l'examen
+de la gestion peuvent être délégués par arrêté du premier président de la Cour
+des comptes dans les conditions fixées au deuxième alinéa de l'article L. 111-9
+appartiennent aux catégories suivantes :
 
 1° Les établissements publics à caractère scientifique, culturel et
 professionnel mentionnés à l'article L. 711-2 du code de l'éducation ;
@@ -36,23 +36,24 @@ l'urbanisme ;
 
 11° Les chambres de commerce et d'industrie et leurs groupements ;
 
-12° Les chambres des métiers et leurs groupements ;
+12° Les chambres de métiers et de l'artisanat et leurs groupements ;
 
-13° Les chambres d'agriculture et leurs groupements.
+13° Les chambres d'agriculture et leurs groupements ;
 
-II. - La délégation peut être limitée aux établissements d'une même catégorie
+14° Les établissements publics de santé.
+
+II.-La délégation peut être limitée aux établissements d'une même catégorie
 situés dans une ou plusieurs régions. Elle est donnée pour une période minimale
 de trois ans et maximale de cinq ans.
 
-III. - En cas de délégation, sont applicables les dispositions du présent code
+III.-En cas de délégation, sont applicables les dispositions du présent code
 relatives au jugement des comptes et à l'examen de la gestion des établissements
 publics relevant de la compétence directe des chambres régionales des comptes.
 
-IV. - Les établissements publics nationaux ayant leur siège en Polynésie
-française dont le jugement des comptes et l'examen de la gestion peuvent être
-délégués par arrêté du premier président de la Cour des comptes dans les
-conditions fixées au troisième alinéa de l'article L. 111-9 appartiennent aux
-catégories suivantes :
+IV.-Les établissements publics nationaux ayant leur siège en Polynésie française
+dont le jugement des comptes et l'examen de la gestion peuvent être délégués par
+arrêté du premier président de la Cour des comptes dans les conditions fixées au
+troisième alinéa de l'article L. 111-9 appartiennent aux catégories suivantes :
 
 1° Les établissements publics à caractère scientifique, culturel et
 professionnel mentionnés à l'article L. 711-2 du code de l'éducation ;

@@ -3,7 +3,7 @@ Article R6145-49
 Le résultat du compte de résultat principal est affecté selon les modalités
 suivantes :
 
-1° L'excédent est affecté par délibération du conseil d'administration :
+1° L'excédent est affecté par délibération du conseil de surveillance :
 
 a) A un compte de report à nouveau ;
 
