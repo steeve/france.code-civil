@@ -1,24 +1,17 @@
 Article R6144-5
 ----
-Lorsqu'un établissement est associé par convention à un centre hospitalier
-universitaire, en application de l'article L. 6142-5, les personnels médicaux
-hospitalo-universitaires sont électeurs dans le centre hospitalier universitaire
-considéré et électeurs et éligibles dans l'établissement d'affectation s'ils
-remplissent les conditions requises.
+La commission élit son président et son vice-président parmi les praticiens
+titulaires.
 
-Les personnels enseignants et hospitaliers des centres hospitaliers
-universitaires mentionnés au a du 1° de l'article 1er du décret n° 84-135 du 24
-février 1984 portant statut des personnels enseignants et hospitaliers des
-centres hospitaliers et universitaires sont classés dans le collège mentionné au
-1° de l'article R. 6144-2.
+Pour les centres hospitaliers universitaires, le président est élu parmi les
+représentants des personnels enseignants et hospitaliers et le vice-président
+parmi les représentants des praticiens de l'établissement.
 
-Il en est de même pour les personnels enseignants et hospitaliers des centres
-hospitaliers universitaires mentionnés au b du 1° de l'article 1er et à
-l'article 73 du décret précité lorsqu'ils sont responsables de pôle, chefs de
-service ou responsables de structures mentionnées à l'article R. 6144-7. Dans le
-cas contraire, ces derniers sont classés dans le collège mentionné au 2° de
-l'article R. 6144-2.
+Le vote a lieu au scrutin uninominal secret et à la majorité absolue. Si cette
+majorité n'est pas atteinte aux deux premiers tours, un troisième tour est
+organisé. La majorité relative suffit au troisième tour. En cas d'égalité entre
+les candidats ayant obtenu le plus grand nombre de voix, le plus âgé d'entre eux
+est déclaré élu.
 
-Les personnels mentionnés aux 2° et 3° de l'article 1er de ce même décret sont
-classés dans la catégorie prévue au a du 3° de l'article R. 6144-2 ; le nombre
-de représentants de cette catégorie est alors porté à trois.
+Les fonctions de président de la commission médicale d'établissement sont de
+quatre ans. Le mandat est renouvelable une seule fois.
