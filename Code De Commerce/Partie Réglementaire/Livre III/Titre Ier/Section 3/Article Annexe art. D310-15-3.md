@@ -7,14 +7,36 @@ DÉPARTEMENTS
 
 APPLICATION TERRITORIALE
 
-DATES DE DÉBUT des périodes de soldes
+
+DATES DE DÉBUT DES PÉRIODES DE SOLDES
+
+Alpes-de-Haute-Provence (04)
+
+
+Tout le département
+
+Soldes d'été : premier mercredi du mois de juillet
+
+Hautes-Alpes (05)
+
+
+Tout le département
+
+Soldes d'été : premier mercredi du mois de juillet
 
 Alpes-Maritimes (06)
 
 
 Tout le département
 
-Soldes d'été : deuxième mercredi du mois de juillet
+Soldes d'été : premier mercredi du mois de juillet
+
+Bouches-du-Rhône (13)
+
+
+Tout le département
+
+Soldes d'été : premier mercredi du mois de juillet
 
 Corse-du-Sud (2A)
 
@@ -65,6 +87,20 @@ Tout le département
 
 Soldes d'hiver : premier mercredi du mois de janvier
 
+Var (83)
+
+
+Tout le département
+
+Soldes d'été : premier mercredi du mois de juillet
+
+Vaucluse (84)
+
+
+Tout le département
+
+Soldes d'été : premier mercredi du mois de juillet
+
 Vosges (88)
 
 
@@ -74,13 +110,16 @@ Soldes d'hiver : premier jour ouvré du mois de janvier
 
 Guadeloupe (971)
 
-Soldes d'hiver : premier samedi de janvier Soldes d'été : dernier samedi de
-septembre
+Soldes d'hiver : premier samedi de janvier
+
+Soldes d'été : dernier samedi de septembre
 
 
 Saint-Barthélemy et Saint-Martin
 
-Soldes d'hiver : premier samedi de mai Soldes d'été : deuxième samedi d'octobre
+Soldes d'hiver : premier samedi de mai
+
+Soldes d'été : deuxième samedi d'octobre
 
 Martinique (972)
 
@@ -94,16 +133,18 @@ Guyane (973)
 
 Tout le département
 
-Soldes d'hiver : premier mercredi du mois de janvier Soldes d'été : premier
-jeudi du mois d'octobre
+Soldes d'hiver : premier mercredi du mois de janvier
+
+Soldes d'été : premier jeudi du mois d'octobre
 
 La Réunion (974)
 
 
 Tout le département
 
-Soldes d'hiver : premier jour ouvré du mois de février Soldes d'été : premier
-jour ouvré du mois de septembre
+Soldes d'hiver : premier samedi du mois de septembre
+
+Soldes d'été : premier samedi du mois de février.
 
 COLLECTIVITÉ d'outre-mer
 
@@ -112,12 +153,13 @@ COLLECTIVITÉ d'outre-mer
 
 APPLICATION TERRITORIALE
 
-DATES DE DÉBUT des périodes de soldes
+DATES DE DÉBUT DES PÉRIODES DE SOLDES
 
 Saint-Pierre-et-Miquelon (975)
 
 
 Tout le département
 
-Soldes d'été : premier mercredi après le 14 juillet Soldes d'hiver : premier
-mercredi après le 15 janvier
+Soldes d'été : premier mercredi après le 14 juillet
+
+Soldes d'hiver : premier mercredi après le 15 janvier
