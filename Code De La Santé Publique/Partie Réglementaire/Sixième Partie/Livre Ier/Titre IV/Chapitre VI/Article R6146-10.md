@@ -1,16 +1,29 @@
 Article R6146-10
 ----
-I. - Le conseil de pôle d'activité mentionné à l'article L. 6146-2 a notamment
-pour objet :
+I.-La commission des soins infirmiers, de rééducation et médico-techniques
+prévue par l'article L. 6146-9 du code de la santé publique est consultée pour
+avis sur :
 
-1° De participer à l'élaboration du projet de contrat interne, du projet de pôle
-et du rapport d'activité du pôle, dans le respect de la déontologie médicale,
-s'agissant des pôles cliniques et médico-techniques ;
+1° Le projet de soins infirmiers, de rééducation et médico-techniques élaboré
+par le coordonnateur général des soins ;
 
-2° De permettre l'expression des personnels, de favoriser les échanges
-d'informations et de faire toutes propositions sur les conditions de
-fonctionnement du pôle et de ses structures internes, notamment quant à la
-permanence des soins et à l'établissement des tableaux de service.
+2° L'organisation générale des soins infirmiers, de rééducation et
+médico-techniques ainsi que l'accompagnement des malades ;
 
-II. - Le règlement intérieur de l'établissement fixe les règles d'organisation
-et de fonctionnement des conseils de pôle d'activité.
+3° La politique d'amélioration continue de la qualité, de la sécurité des soins
+et de la gestion des risques liés aux soins ;
+
+4° Les conditions générales d'accueil et de prise en charge des usagers ;
+
+5° La recherche et l'innovation dans le domaine des soins infirmiers, de
+rééducation et médico-techniques ;
+
+6° La politique de développement professionnel continu.
+
+II.-Elle est informée sur :
+
+1° Le règlement intérieur de l'établissement ;
+
+2° La mise en place de la procédure prévue à l'article L. 6146-2 ;
+
+3° Le rapport annuel portant sur l'activité de l'établissement.
