@@ -1,47 +1,50 @@
 Article R6147-94
 ----
-Le conseil d'administration du centre est composé de vingt et un membres :
+Le conseil d'administration est ainsi composé : 1° En qualité de représentants
+des collectivités territoriales :
 
-1° Le préfet de police de Paris, président ;
-
-2° Quatre membres élus en son sein par le conseil de Paris, dont un membre en
+a) Quatre membres élus en son sein par le conseil de Paris, dont un membre en
 qualité de vice-président ;
 
-3° Un membre élu en son sein par le conseil général des Hauts-de-Seine ;
+b) Un membre élu en son sein par le conseil général des Hauts-de-Seine ;
 
-4° Un membre élu en son sein par le conseil municipal de Nanterre ;
+c) Un membre élu en son sein par le conseil municipal de Nanterre.
 
-5° Quatre représentants des organismes de sécurité sociale :
+2° En qualité de représentants du personnel médical et non médical de
+l'établissement :
 
-a) Un représentant désigné par le conseil d'administration de la caisse
-régionale d'assurance maladie d'Ile-de-France ;
+a) Trois représentants de la commission médicale d'établissement du centre élus
+en son sein ;
 
-b) Un représentant de la caisse primaire d'assurance maladie de Paris ;
+b) Un membre de la commission sociale de l'établissement élu en son sein ;
 
-c) Un représentant de la caisse primaire d'assurance maladie de Nanterre ;
+c) Deux représentants du personnel titulaire en fonctions dans l'établissement,
+à l'exception des médecins et des pharmaciens, désignés par le directeur sur
+proposition des deux organisations syndicales ayant recueilli le plus de voix à
+l'occasion du dernier renouvellement du comité technique d'établissement ;
 
-d) Un représentant de la caisse d'allocations familiales territorialement
-compétente ;
+3° En qualité de personnalités qualifiées :
 
-6° Le président de la commission médicale d'établissement et deux membres de
-cette commission élus par celle-ci ;
-
-7° Deux membres de la commission sociale de l'établissement élus par celle-ci ;
-l'incompatibilité résultant de la qualité d'agent salarié de l'établissement
-n'est pas applicable dans ce cas ;
-
-8° Deux représentants du personnel titulaire en fonction dans l'établissement, à
-l'exception des médecins et pharmaciens, désignés sur proposition des
-organisations syndicales les plus représentatives au sein de l'établissement ;
-cette représentativité est appréciée compte tenu du nombre moyen de voix
-recueillies dans l'établissement par les organisations syndicales à l'occasion
-du renouvellement des commissions administratives paritaires ;
-
-9° Un membre désigné par le maire de Paris en raison de sa compétence dans le
+a) Un membre désigné par le maire de Paris en raison de sa compétence dans le
 domaine sanitaire ou social ;
 
-10° Un membre désigné par le préfet de police de Paris en raison de sa
-compétence dans le domaine sanitaire ou social ;
+b) Un membre désigné par le préfet de police en raison de sa compétence dans le
+domaine sanitaire ou social ;
 
-11° Un membre désigné par le préfet des Hauts-de-Seine en raison de sa
-compétence dans le domaine sanitaire ou social.
+c) Un membre désigné par le préfet des Hauts-de-Seine en raison de sa compétence
+dans le domaine de l'hébergement et de l'inclusion sociale ;
+
+d) Deux représentants des usagers appartenant aux associations mentionnées à
+l'article L. 1114-1, désignés l'un par le préfet des Hauts-de-Seine, l'autre par
+le préfet de police ;
+
+4° En qualité de membres de droit :
+
+a) Le préfet de police ou son représentant, président de droit ;
+
+b) Le directeur général de l'agence régionale de santé ou son représentant ;
+
+c) Un représentant de la caisse primaire d'assurance maladie des Hauts-de-Seine
+;
+
+d) Un représentant de la caisse d'allocations familiales des Hauts-de-Seine.

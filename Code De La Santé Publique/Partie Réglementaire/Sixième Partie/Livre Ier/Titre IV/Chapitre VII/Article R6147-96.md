@@ -1,10 +1,22 @@
 Article R6147-96
 ----
-Le directeur exerce, pour l'ensemble du centre, les compétences dévolues aux
-directeurs des établissements publics de santé.
+Le directeur règle les affaires de l'établissement autres que celles qui
+relèvent de la compétence du conseil d'administration mentionnée à l'article R.
+6147-95. Le directeur est assisté d'un directoire de sept membres, qu'il
+préside, et qui comprend, outre lui-même :
 
-Il organise en outre, l'élection des représentants des usagers et, s'il y a
-lieu, des représentants du personnel, membres de la commission sociale prévue à
-l'article R. 6147-39, il établit la liste nominative des membres de cette
-commission et de leurs suppléants, il assiste avec voix consultative aux
-réunions de cette commission.
+1° Le président de la commission médicale d'établissement, vice-président ;
+
+2° Le président de la commission des soins infirmiers, de rééducation et
+médico-technique ;
+
+3° Le directeur de la vie sociale et de l'insertion ;
+
+4° Le responsable des personnels de surveillance des unités sociales de
+l'établissement ;
+
+5° Un membre appartenant aux professions médicale, pharmaceutique,
+odontologique, maïeutique nommé par le directeur sur proposition du président de
+la commission médicale d'établissement ;
+
+6° Un cadre de direction nommé par le directeur.
