@@ -1,11 +1,11 @@
 Article R2352-110
 ----
 L'exploitation d'un dépôt, d'un débit ou d'une installation mobile de produits
-explosifs est subordonnée, indépendamment de l'agrément technique ou de
-l'autorisation prévus à l'article R. 2352-97, à la délivrance par le préfet
-d'une autorisation individuelle à la personne physique qui entend se livrer à
-cette exploitation, ou, dans le cas d'une personne morale, à la personne
-physique ayant qualité pour représenter celle-ci.
+explosifs est subordonnée, indépendamment de l'agrément technique prévu à
+l'article R. 2352-97, à la délivrance par le préfet d'une autorisation
+individuelle à la personne physique qui entend se livrer à cette exploitation,
+ou, dans le cas d'une personne morale, à la personne physique ayant qualité pour
+représenter celle-ci.
 
 Est dispensée de l'obligation d'autorisation individuelle l'exploitation :
 
