@@ -4,25 +4,26 @@ Pour l'application de l'article R. 131-36, les décisions réglementaires des
 fédérations sportives délégataires sont publiées dans les bulletins dont la
 liste suit : Fédération française d'aéromodélisme : Aéromodèles. Fédération
 nationale d'aéronautique : Info pilote. Fédération française d'aérostation :
-L'Aéronote. Fédération française d'athlétisme : Infos FFA. Fédération française
-des sociétés d'aviron : Aviron magazine. Fédération française de badminton :
-Badminton magazine. Fédération française de ball-trap et de tir à balle :
-Ball-trap magazine. Fédération française de basketball : Basketball. Fédération
-française de billard : Sport billard magazine. Fédération française de bowling
-et de sport de quilles : Bulletin d'information fédérales. Fédération française
-de boxe : France boxe. Fédération française de canoë-kayak : Canoë-Kayak
-information. Fédération française de course d'orientation : Course orientation
-magazine. Fédération française de cyclisme : La France cycliste. Fédération
-française de danse : Danse danse danse. Fédération française d'études et de
-sports sous-marins : Subaqua. Fédération française de giraviation : Le Colibri.
-Fédération française de gymnastique : l'Officiel du gymnaste. Fédération
-française de handball : Handinfos. Fédération française handisport : Handisport
-magazine. Fédération française de hockey : Hockey express. Fédération française
-de jeu de balle au tambourin : A la volée. Fédération française de judo,
-jujitsu, kendo et disciplines associées : Judo magazine. Fédération française de
-karaté et arts martiaux affinitaires : Officiel karaté magazine. Fédération
-française de longue paume : Longue paume infos. Fédération française de
-motocyclisme : France moto magazine. Fédération française motonautique : La
+L'Aéronote.
+
+Fédération française des sociétés d'aviron : Aviron magazine. Fédération
+française de badminton : Badminton magazine. Fédération française de ball-trap
+et de tir à balle : Ball-trap magazine. Fédération française de basketball :
+Basketball. Fédération française de billard : Sport billard magazine. Fédération
+française de bowling et de sport de quilles : Bulletin d'information fédérales.
+Fédération française de boxe : France boxe. Fédération française de canoë-kayak
+: Canoë-Kayak information. Fédération française de course d'orientation : Course
+orientation magazine. Fédération française de cyclisme : La France cycliste.
+Fédération française de danse : Danse danse danse. Fédération française d'études
+et de sports sous-marins : Subaqua. Fédération française de giraviation : Le
+Colibri. Fédération française de gymnastique : l'Officiel du gymnaste.
+Fédération française de handball : Handinfos. Fédération française handisport :
+Handisport magazine. Fédération française de hockey : Hockey express. Fédération
+française de jeu de balle au tambourin : A la volée. Fédération française de
+judo, jujitsu, kendo et disciplines associées : Judo magazine. Fédération
+française de karaté et arts martiaux affinitaires : Officiel karaté magazine.
+Fédération française de longue paume : Longue paume infos. Fédération française
+de motocyclisme : France moto magazine. Fédération française motonautique : La
 lettre motonautique. Fédération française de natation : Natation infos.
 Fédération française de parachutisme : FFP contacts. Fédération française de
 pêche à la mouche et au lancer : Bulletin de la fédération française de pêche à
