@@ -3,10 +3,6 @@ Article R2352-97
 L'exploitation d'une installation fixe ou mobile de produits explosifs est
 subordonnée à la délivrance préalable d'un agrément technique.
 
-Lorsque l'installation est soumise à autorisation en application des
-dispositions du titre Ier du livre V du code de l'environnement, cette
-autorisation vaut agrément technique.
-
 Sont toutefois dispensées de l'obligation d'agrément technique :
 
 1° Les installations de l'Etat relevant du ministre de la défense ;

@@ -1,16 +1,17 @@
 Article R2352-22
 ----
-Les dispositions de l'article R. 2352-47 et des sous-sections 3, 4 et 5 de la
+Les dispositions de l'article R. 2352-47 et des sous-sections 3,4 et 5 de la
 présente section fixent les conditions auxquelles sont soumis le marquage,
 l'acquisition, la livraison, la détention, le transport et l'emploi des produits
 explosifs ainsi que des produits ouvrés contenant sous quelque forme que ce soit
 des produits explosifs.
 
-Toutefois, les dispositions de l'article R. 2352-47 et des sous-sections 3, 4 et
+Toutefois, les dispositions de l'article R. 2352-47 et des sous-sections 3,4 et
 5 de la présente section ne sont pas applicables :
 
-1° Aux articles de divertissement définis par le décret n° 90-897 du 1er octobre
-1990 relatif à la réglementation des artifices de divertissement ;
+1° Aux artifices de divertissement définis par l'article 13 du décret n°
+2010-455 du 4 mai 2010 relatif à la réglementation des artifices de
+divertissement ;
 
 2° Aux produits explosifs placés sous la surveillance de l'autorité militaire ;
 
@@ -27,4 +28,4 @@ Les produits autres que ceux définis ci-dessus qui peuvent être utilisés tels
 quels ou avec des modifications pour leurs effets explosifs, inscrits sur une
 liste établie par arrêté conjoint du ministre de l'industrie sont réputés
 produits explosifs et soumis aux dispositions de l'article R. 2352-47 et des
-sous-sections 3, 4 et 5 de la présente section.
+sous-sections 3,4 et 5 de la présente section.
