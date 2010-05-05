@@ -4,10 +4,10 @@ Les établissements d'enseignement et de formation professionnelle agricoles
 publics sont organisés conformément aux dispositions des articles L. 811-8 à L.
 811-11 du code rural, ci-après reproduites :
 
-" Art. L. 811-8. - Tout établissement public local d'enseignement et de
-formation professionnelle agricole a pour siège, soit un lycée d'enseignement
-général et technologique agricole, soit un lycée professionnel agricole et
-regroupe plusieurs centres :
+"Art. L. 811-8. - Tout établissement public local d'enseignement et de formation
+professionnelle agricole a pour siège, soit un lycée d'enseignement général et
+technologique agricole, soit un lycée professionnel agricole et regroupe
+plusieurs centres :
 
 1° Un ou plusieurs lycées d'enseignement général et technologique agricole ou
 lycées professionnels agricoles ;
@@ -47,9 +47,27 @@ Le projet d'établissement est élaboré et adopté dans les conditions prévues
 l'article L. 421-5 du code de l'éducation pour une durée de trois à cinq ans.
 
 La mise en oeuvre du projet d'établissement fait l'objet d'une évaluation dans
-des conditions fixées par le ministre de l'agriculture. "
+des conditions fixées par le ministre de l'agriculture.
 
-" Art. L. 811-9. - Les établissements publics locaux mentionnés à l'article
+Les établissements d'enseignement et de formation professionnelle agricole
+relevant des communautés urbaines de Lille et de Dunkerque ainsi que du syndicat
+intercommunal de gestion du lycée d'enseignement professionnel et horticole de
+Raismes sont transformés en établissements publics locaux d'enseignement et de
+formation professionnelle agricole.
+
+Leur transfert à la région Nord - Pas-de-Calais n'intervient, sauf convention
+contraire entre la région et l'établissement public de coopération
+intercommunale concerné, qu'une fois qu'a été constaté le strict respect de
+l'ensemble des normes de sécurité s'appliquant aux bâtiments et aux équipements.
+
+Les dispositions des articles L. 1321-1 à L. 1321-8 du code général des
+collectivités territoriales s'appliquent à ce transfert de compétence.
+
+La région prend en charge la rétribution des personnels ouvriers et de service
+qui exercent leur fonction dans les établissements transformés conformément aux
+dispositions du présent article.
+
+"Art. L. 811-9. - Les établissements publics locaux mentionnés à l'article
 précédent sont administrés par un conseil d'administration composé de trente
 membres.
 
@@ -75,16 +93,16 @@ nombre de cinq. Lorsque la formation le justifie, ils comprennent un ou
 plusieurs représentants des formations para-agricoles.
 
 Le conseil d'administration élit son président en son sein, parmi les personnes
-extérieures à l'établissement. "
+extérieures à l'établissement."
 
-" Art. L. 811-10. - Les articles L. 421-1, L. 421-3, à l'exception du quatrième
+"Art. L. 811-10. - Les articles L. 421-1, L. 421-3, à l'exception du quatrième
 alinéa, L. 421-11 à L. 421-16 et L. 421-23 du code de l'éducation sont
 applicables aux établissements publics locaux mentionnés à l'article L. 811-8 du
 présent code. Pour l'application de ces dispositions, les termes : "autorité
-académique" désignent le directeur régional de l'agriculture et de la forêt. "
+académique" désignent le directeur régional de l'agriculture et de la forêt."
 
-" Art. L. 811-11. - Les écoles spécialisées dont la responsabilité et la charge
+"Art. L. 811-11. - Les écoles spécialisées dont la responsabilité et la charge
 incombent à l'Etat dans les conditions prévues à l'article L. 211-4 du code de
 l'éducation installées sur un domaine appartenant à l'Etat ou mis à la
 disposition de l'Etat jouissent de la personnalité civile et de l'autonomie
-financière et constituent des établissements publics nationaux. "
+financière et constituent des établissements publics nationaux."
