@@ -51,3 +51,5 @@ cumulable avec le bénéfice des exonérations totales ou partielles de cotisati
 patronales ou salariales prévues aux articles L. 741-5, L. 741-16 et L. 751-18
 du présent code ainsi qu'avec la déduction forfaitaire prévue à l'article L.
 241-18 du code de la sécurité sociale.
+
+IV. - Les conditions d'application du présent article sont fixées par décret.

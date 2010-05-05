@@ -28,5 +28,5 @@ maladie professionnelle, l'intéressé peut néanmoins prétendre aux prestation
 d'invalidité dès lors que cette réduction de capacité ou cette inaptitude est
 imputable pour moins de la moitié à l'accident ou à la maladie professionnelle.
 
-Les dispositions d'application du présent article sont fixées, en tant que de
-besoin, par décret en Conseil d'Etat.
+Les dispositions d'application du présent article sont fixées par décret en
+Conseil d'Etat.

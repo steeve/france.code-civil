@@ -18,7 +18,7 @@ des dix années qui précèdent la prestation ;
 3° D'être assuré conformément au huitième alinéa de l'article L. 171-1 ;
 
 4° De satisfaire, préalablement à la première prestation de services, aux
-obligations déclaratives définies par décret en Conseil d'Etat.
+obligations déclaratives définies par décret .
 
 La prestation est effectuée sous le titre professionnel porté dans l'Etat
 d'établissement ou sous le titre de formation du prestataire.

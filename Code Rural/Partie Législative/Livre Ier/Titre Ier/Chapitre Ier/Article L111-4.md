@@ -34,4 +34,4 @@ industries agroalimentaires intervenant sur proposition des organisations
 professionnelles intéressées.
 
 Les règles d'organisation et de fonctionnement de l'établissement sont précisées
-par décret en Conseil d'Etat.
+par décret.

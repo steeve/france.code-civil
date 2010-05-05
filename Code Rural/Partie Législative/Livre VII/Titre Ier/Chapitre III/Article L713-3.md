@@ -1,13 +1,13 @@
 Article L713-3
 ----
-Des décrets fixent, en tant que de besoin, les modalités d'application de
-l'article L. 713-2 pour l'ensemble des activités ou pour certaines d'entre
-elles, par profession ou par catégorie professionnelle, pour l'ensemble des
-départements ou pour une partie d'entre eux. Ces décrets fixent notamment
-l'aménagement et la répartition des horaires de travail, les périodes de repos,
-les conditions de recours aux astreintes, les dérogations permanentes ou
-temporaires applicables dans certains cas ou pour certains emplois, et les
-modalités de récupération des heures de travail perdues.
+Des décrets fixent les modalités d'application de l'article L. 713-2 pour
+l'ensemble des activités ou pour certaines d'entre elles, par profession ou par
+catégorie professionnelle, pour l'ensemble des départements ou pour une partie
+d'entre eux. Ces décrets fixent notamment l'aménagement et la répartition des
+horaires de travail, les périodes de repos, les conditions de recours aux
+astreintes, les dérogations permanentes ou temporaires applicables dans certains
+cas ou pour certains emplois, et les modalités de récupération des heures de
+travail perdues.
 
 Ces décrets sont pris et révisés après avis de la sous-commission des
 conventions et accords, dans la formation spécifique aux professions agricoles,

@@ -7,6 +7,3 @@ dans des conditions garantissant le respect des principes généraux du droit,
 s'agissant notamment du caractère contradictoire des procédures engagées et de
 l'information sur les voies de recours existantes en cas de décision faisant
 grief.
-
-Les décrets visés au dernier alinéa de l'article L. 551-1 précisent, en tant que
-de besoin, les modalités d'application du présent article.

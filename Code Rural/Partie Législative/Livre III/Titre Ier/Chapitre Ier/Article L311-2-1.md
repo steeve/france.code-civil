@@ -8,6 +8,3 @@ Ce récépissé permet d'accomplir, sous la responsabilité personnelle de la
 personne physique qui a déposé le dossier, les démarches nécessaires auprès des
 organismes publics et des organismes privés chargés d'une mission de service
 public.
-
-Les conditions d'application du présent article sont définies par décret en
-Conseil d'Etat.

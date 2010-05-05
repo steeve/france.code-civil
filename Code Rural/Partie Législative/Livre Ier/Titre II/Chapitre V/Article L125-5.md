@@ -34,9 +34,9 @@ conditions prévues à l'article L. 125-3. Lorsque l'identité ou l'adresse du
 propriétaire ou des indivisaires n'a pu être déterminée, les dispositions de
 l'article L. 125-2 sont appliquées.
 
-Le préfet procède, en outre, dans les conditions déterminées par décret en
-Conseil d'Etat, à une publicité destinée à faire connaître aux bénéficiaires
-éventuels la faculté qui leur est offerte de demander l'attribution d'une
-autorisation d'exploiter. Si une ou plusieurs demandes d'attribution ont été
-formulées, le préfet en informe le propriétaire et, dans les zones de montagne,
-la société d'aménagement foncier et d'établissement rural.
+Le préfet procède, en outre à une publicité destinée à faire connaître aux
+bénéficiaires éventuels la faculté qui leur est offerte de demander
+l'attribution d'une autorisation d'exploiter. Si une ou plusieurs demandes
+d'attribution ont été formulées, le préfet en informe le propriétaire et, dans
+les zones de montagne, la société d'aménagement foncier et d'établissement
+rural.

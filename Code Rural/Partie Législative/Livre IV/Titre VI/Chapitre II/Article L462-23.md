@@ -24,5 +24,5 @@ plus.
 Cette demande de conversion doit être présentée par acte extrajudiciaire douze
 mois au moins avant sa date d'effet.
 
-Un décret en Conseil d'Etat fixera, en tant que de besoin, les modalités
-d'application de cette disposition.
+Un décret en Conseil d'Etat fixera les modalités d'application de cette
+disposition.

@@ -14,6 +14,6 @@ départements d'outre-mer et les conditions d'indemnisation.
 Elle est également consultée sur tous les textes d'application du présent
 chapitre.
 
-Un décret en Conseil d'Etat fixe la composition de la commission des calamités
-agricoles des départements d'outre-mer et des comités départementaux d'expertise
-; il en précise les missions et les modalités de fonctionnement.
+Un décret fixe la composition de la commission des calamités agricoles des
+départements d'outre-mer et des comités départementaux d'expertise ; il en
+précise les missions et les modalités de fonctionnement.

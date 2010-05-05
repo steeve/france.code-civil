@@ -54,4 +54,4 @@ La gestion de ces établissements est subordonnée à une déclaration auprès d
 préfet du département où ils sont installés.
 
 Les conditions sanitaires et les modalités de contrôle correspondantes sont
-fixées par décret en Conseil d'Etat.
+fixées par décret.

@@ -8,6 +8,3 @@ d'animaux sauvages, les ministres compétents peuvent, dans la mesure nécessair
 pour arrêter la diffusion du virus, prescrire, par arrêté conjoint, la
 destruction, dans un territoire déterminé, de ces animaux sauvages et
 l'application des mesures de sécurité que nécessite cette destruction.
-
-Un décret en Conseil d'Etat détermine les conditions d'application du présent
-article.

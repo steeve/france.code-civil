@@ -13,6 +13,3 @@ registre du commerce et des sociétés ou au répertoire des métiers.
 
 L'immatriculation des personnes physiques ou morales exerçant des activités de
 cultures marines fait l'objet de dispositions particulières.
-
-Un décret en Conseil d'Etat fixe les conditions d'application du présent
-article.

@@ -22,5 +22,5 @@ obligatoirement, en plus de la représentation des producteurs prévue par les
 dispositions en vigueur, au moins un administrateur délégué à cet effet par le
 comité économique agricole intéressant un secteur identique.
 
-Un arrêté conjoint du ministre chargé de l'économie et du ministre de
-l'agriculture détermine les conditions d'application des présentes dispositions.
+Un décret en Conseil d'Etat détermine les conditions d'application des présentes
+dispositions.

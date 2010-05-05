@@ -8,4 +8,4 @@ Il en est de même quand des chemins appartenant à plusieurs communes constitue
 un même itinéraire entre deux intersections de voies ou de chemins.
 
 Les modalités d'application de l'enquête préalable à l'aliénation sont fixées
-par décret.
+par décret en Conseil d'Etat.

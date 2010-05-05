@@ -14,8 +14,7 @@ résultant pour le fonds des travaux exécutés.
 
 L'association syndicale est débitrice à l'égard de l'Etat d'une somme égale à la
 fraction fixée dans les conditions prévues au 2° de l'article L. 151-5, de la
-plus-value totale constatée dans son périmètre. Elle peut toutefois, dans les
-conditions déterminées par décret en Conseil d'Etat, obtenir des délais de
-paiement ou exceptionnellement une remise partielle de sa dette si elle établit
-n'avoir pu, malgré sa diligence, assurer le recouvrement de certaines
-cotisations.
+plus-value totale constatée dans son périmètre. Elle peut toutefois obtenir des
+délais de paiement ou exceptionnellement une remise partielle de sa dette si
+elle établit n'avoir pu, malgré sa diligence, assurer le recouvrement de
+certaines cotisations.

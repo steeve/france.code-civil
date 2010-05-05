@@ -11,10 +11,10 @@ du loyer des bâtiments d'exploitation et des terres nues.
 
 Le loyer des bâtiments d'habitation est fixé en monnaie entre des maxima et des
 minima qui sont arrêtés par l'autorité administrative sur la base de références
-calculées d'après des modalités définies par décret en Conseil d'Etat. Ce loyer
-ainsi que les maxima et les minima sont actualisés, chaque année, selon la
-variation de l'indice de référence des loyers publié par l'Institut national de
-la statistique et des études économiques chaque trimestre et qui correspond à la
+calculées d'après des modalités définies par décret. Ce loyer ainsi que les
+maxima et les minima sont actualisés, chaque année, selon la variation de
+l'indice de référence des loyers publié par l'Institut national de la
+statistique et des études économiques chaque trimestre et qui correspond à la
 moyenne, sur les douze derniers mois, de l'évolution des prix à la consommation
 hors tabac et hors loyers.
 

@@ -6,4 +6,5 @@ sanitaires et fixe les conditions de délivrance, de suspension et de retrait de
 cet agrément par l'autorité administrative.
 
 Les règles sanitaires que doivent respecter les organismes et les professionnels
-agréés dans la mise en oeuvre de ces activités sont précisées par décret.
+agréés dans la mise en oeuvre de ces activités sont précisées par arrêté du
+ministre chargé de l'agriculture.

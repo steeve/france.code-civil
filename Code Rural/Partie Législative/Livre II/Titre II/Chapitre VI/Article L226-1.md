@@ -15,4 +15,4 @@ visés au premier alinéa doivent les mettre à la disposition de la personne
 chargée de l'exécution du service public de l'équarrissage.
 
 L'exécution de ce service public de l'équarrissage est assurée selon les
-modalités fixées par décret en Conseil d'Etat.
+modalités fixées par décret.

@@ -11,6 +11,3 @@ déjà soumises auxdites mesures, cette prophylaxie ou cette mesure d'évaluatio
 de prévention ou de maîtrise des risques sanitaires peut être rendue obligatoire
 par l'autorité administrative à l'égard de tous les propriétaires de tels
 animaux et de toutes les exploitations dans l'ensemble de l'aire en cause.
-
-Un décret en Conseil d'Etat détermine les conditions d'application du présent
-article.

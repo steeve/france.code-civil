@@ -7,4 +7,4 @@ leurs détenteurs.
 
 Les conditions d'application du présent article, notamment celles dans
 lesquelles l'établissement de l'élevage exécute cette mission, sont définies par
-décret en Conseil d'Etat.
+décret.

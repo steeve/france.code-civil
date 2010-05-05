@@ -5,9 +5,9 @@ disposer de moins des quatre cinquièmes des voix dans les assemblées général
 des sociétés d'intérêt collectif agricole constituées postérieurement au 29
 septembre 1967.
 
-Ces sociétés ne peuvent effectuer plus de 50 p. 100 des opérations de chaque
-exercice avec des personnes physiques ou morales autres que les associés définis
-à l'article L. 522-1.
+Ces sociétés ne peuvent effectuer plus de 50 % des opérations de chaque exercice
+avec des personnes physiques ou morales autres que les associés définis à
+l'article L. 522-1.
 
-Les modalités d'application du présent article sont déterminées, en tant que de
-besoin, par décret en Conseil d'Etat.
+Les modalités d'application du présent article sont déterminées par décret en
+Conseil d'Etat.

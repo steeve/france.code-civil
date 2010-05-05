@@ -18,8 +18,8 @@ lorsqu'il y exerce son activité professionnelle et n'est pas associé de ladite
 société.
 
 L'option pour le statut de conjoint collaborateur est formulée selon des
-modalités précisées par décret en Conseil d'Etat et prend effet à compter de la
-date à laquelle l'intéressé remplit les conditions prévues au présent article.
+modalités précisées par décret et prend effet à compter de la date à laquelle
+l'intéressé remplit les conditions prévues au présent article.
 
 Par dérogation, l'option formulée avant le 1er janvier 2001 prend effet au 1er
 janvier 1999 si le conjoint remplissait, à cette dernière date, les conditions
@@ -37,13 +37,13 @@ chapitre Ier du titre II du livre III (nouveau).
 A compter du 1er janvier 2006, le conjoint du chef d'exploitation ou
 d'entreprise agricole exerçant sur l'exploitation ou au sein de l'entreprise une
 activité professionnelle régulière opte, selon des modalités précisées par
-décret en Conseil d'Etat, pour l'une des qualités suivantes :
+décret, pour l'une des qualités suivantes :
 
-- collaborateur du chef d'exploitation ou d'entreprise agricole ;
+-collaborateur du chef d'exploitation ou d'entreprise agricole ;
 
-- salarié de l'exploitation ou de l'entreprise agricole ;
+-salarié de l'exploitation ou de l'entreprise agricole ;
 
-- chef d'exploitation ou d'entreprise agricole.
+-chef d'exploitation ou d'entreprise agricole.
 
 Les dispositions du présent article sont également applicables aux personnes qui
 sont liées par un pacte civil de solidarité ou qui vivent en concubinage avec le

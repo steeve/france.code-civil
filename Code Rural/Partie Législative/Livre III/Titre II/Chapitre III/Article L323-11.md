@@ -23,5 +23,5 @@ du comité national ci-dessus prévu, et dont les associés justifient qu'ils
 satisfont aux prescriptions légales et réglementaires régissant les groupements
 agricoles d'exploitation en commun.
 
-Le décret en Conseil d'Etat prévu à l'article L. 323-16 détermine les modalités
-de publicité à l'égard des tiers lors de la création de groupements.
+Un décret détermine les modalités de publicité à l'égard des tiers lors de la
+création de groupements.

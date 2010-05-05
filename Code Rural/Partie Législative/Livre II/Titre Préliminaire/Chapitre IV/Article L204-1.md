@@ -15,7 +15,7 @@ années qui précèdent la prestation.
 Lorsqu'ils effectuent pour la première fois leur prestation en France, les
 ressortissants communautaires doivent en informer au préalable l'autorité
 administrative par une déclaration écrite dont le contenu et la procédure de
-dépôt sont précisés par décret en Conseil d'Etat.
+dépôt sont précisés par décret.
 
 Cette déclaration peut donner lieu à une vérification des qualifications
 professionnelles du prestataire afin de permettre à l'autorité de s'assurer que
@@ -26,4 +26,4 @@ En cas de différence substantielle entre les qualifications professionnelles du
 prestataire et la formation exigée de nature à nuire à la santé ou à la sécurité
 des destinataires du service, l'intéressé est mis à même par l'autorité
 administrative de démontrer qu'il a acquis les connaissances et compétences
-manquantes dans des conditions définies par décret en Conseil d'Etat.
+manquantes dans des conditions définies par décret.

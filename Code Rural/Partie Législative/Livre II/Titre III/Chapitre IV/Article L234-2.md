@@ -44,7 +44,7 @@ prévues par le décret mentionné au 6° de l'article L. 5141-16 du code de la
 santé publique. Les conditions dans lesquelles il est procédé à la mesure des
 taux résiduels, les modalités de la déclaration au préfet, préalablement à la
 mise sur le marché de ces denrées et les règles concernant la destination de ces
-denrées sont fixées par décret en Conseil d'Etat.
+denrées sont fixées par décret.
 
 VI.-Par arrêtés pris après avis de l'Agence française de sécurité sanitaire des
 aliments, et, en ce qui concerne les médicaments à usage humain, après avis de

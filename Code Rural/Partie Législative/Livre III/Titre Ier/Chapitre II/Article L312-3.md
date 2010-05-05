@@ -43,4 +43,4 @@ intervenues et le prix des baux constatés, au cours de l'année précédente et
 besoin au cours des cinq dernières années.
 
 Les modalités d'établissement et de mise à jour du répertoire prévu au présent
-article sont fixées par décret en Conseil d'Etat.
+article sont fixées par décret.
