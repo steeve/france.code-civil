@@ -1,6 +1,6 @@
 Article L237-3
 ----
-I.-Est puni de deux ans d'emprisonnement et de 15 000 euros d'amende :
+I.-Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende :
 
 1° Le fait d'introduire sur le territoire métropolitain ou dans les départements
 d'outre-mer des animaux vivants des produits et sous-produits d'origine animale
@@ -50,8 +50,5 @@ de responsabilités syndicales ;
 presse écrite, soit par tout moyen de communication au public, notamment par
 voie électronique.
 
-III.-Les personnes morales déclarées responsables pénalement, dans les
-conditions prévues par l'article 121-2 du code pénal, des infractions définies
-au présent article encourent, outre l'amende suivant les modalités prévues par
-l'article 131-38 du code pénal, les peines prévues par les 2°, 4°, 7°, 8° et 9°
-de l'article 131-39 du même code.
+III.-Les personnes morales encourent également les peines complémentaires
+prévues par les 2°, 4°, 7°, 8° et 9° de l'article 131-39 du code pénal.

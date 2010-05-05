@@ -9,7 +9,7 @@ aux conditions suivantes :
 1° Adopter les statuts types établis par le ministre chargé de l'agriculture ;
 
 2° Prendre l'engagement de se conformer aux méthodes de lutte préconisées par le
-service de la protection des végétaux ;
+service chargé de la protection des végétaux ;
 
 3° Accepter le contrôle permanent du ministère de l'agriculture ;
 

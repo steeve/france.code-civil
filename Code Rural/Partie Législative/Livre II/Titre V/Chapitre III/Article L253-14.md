@@ -1,10 +1,10 @@
 Article L253-14
 ----
-I. - L'inspection et le contrôle des mesures nécessaires à l'application des
+I.-L'inspection et le contrôle des mesures nécessaires à l'application des
 dispositions des articles L. 253-1 à L. 253-8 et L. 253-15 à L. 253-17 sont
-effectués par les agents mentionnés au I de l'article L. 251-18.
+effectués par les agents mentionnés à l'article L. 250-2.
 
-II. - Sont qualifiés pour procéder à la recherche et à la constatation des
+II.-Sont qualifiés pour procéder à la recherche et à la constatation des
 infractions aux dispositions des articles L. 253-1 à L. 253-8 et L. 253-15 à L.
 253-17 les agents habilités en vertu de l'article L. 215-1 du code de la
 consommation. Sont également qualifiés, pour procéder à la recherche et à la

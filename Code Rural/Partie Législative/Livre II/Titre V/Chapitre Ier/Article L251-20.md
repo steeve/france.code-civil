@@ -21,16 +21,15 @@ organisme nuisible nouvellement apparu dans la commune ;
 
 2° Le fait de ne pas respecter les prescriptions édictées en application des
 articles L. 251-8, L. 251-10 et L. 251-14 ordonnées par les agents habilités en
-vertu du I de l'article L. 251-18.
+vertu de l'article L. 250-2.
 
-III.-Est puni de six mois d'emprisonnement et de 7500 euros d'amende le fait de
-mettre obstacle à l'exercice des fonctions des agents habilités en vertu de
-l'article L. 251-18 et du I de l'article L. 251-14.
+III. (Supprimé).
 
-IV.-Les personnes physiques coupables de l'une des infractions prévues au
-présent article encourent également la peine complémentaire de l'affichage ou la
-diffusion de la décision prononcée dans les conditions prévues par l'article
-131-35 du code pénal.
+IV.-Les personnes coupables de l'une des infractions prévues au présent article
+encourent également la peine complémentaire de l'affichage ou la diffusion de la
+décision prononcée dans les conditions prévues par l'article 131-35 du code
+pénal pour les personnes physiques et par le 9° de l'article 131-39 du même code
+pour les personnes morales.
 
 Les personnes morales déclarées responsables pénalement, dans les conditions
 prévues par l'article 121-2 du code pénal, des infractions définies au présent

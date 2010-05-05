@@ -1,13 +1,21 @@
 Article L221-8
 ----
-Ces fonctionnaires et agents ont libre accès de jour et de nuit dans tous les
-lieux où sont hébergés des animaux domestiques ou sauvages, en vue de procéder à
-tous les examens nécessaires à l'exécution des mesures de lutte contre les
-maladies des animaux prévues aux chapitres Ier à V du présent titre ainsi qu'à
-l'article L. 227-1. Lors de ces visites, ils peuvent procéder à la constatation
-des infractions aux dispositions desdits articles et des textes réglementaires
-pris pour leur application.
+I.-Les agents mentionnés à l'article L. 221-5 ont libre accès à tous les locaux,
+installations et véhicules professionnels où se trouvent des animaux, à
+l'exclusion des domiciles et de la partie des locaux à usage de domicile, entre
+8 heures et 20 heures ou en dehors de ces heures lorsque l'accès au public est
+autorisé ou lorsqu'une activité est en cours, en vue de procéder à tous les
+examens nécessaires à l'exécution des mesures de lutte contre les maladies des
+animaux prévues aux chapitres Ier à V du présent titre. Ils peuvent se faire
+remettre copie des documents professionnels de toute nature, quel que soit leur
+support et en quelques mains qu'ils se trouvent, propres à faciliter
+l'accomplissement de leur mission.
 
-Ils doivent, si la visite a lieu après le coucher du soleil dans tout autre lieu
-qu'un des postes d'inspection frontaliers mentionnés à l'article L. 236-4, être
-accompagnés par un officier ou un agent de police judiciaire.
+II.-Lorsque l'accès aux locaux est refusé aux agents, il peut être autorisé par
+ordonnance du juge des libertés et de la détention dans les conditions prévues à
+l'article L. 206-1.
+
+III.-Lorsque les lieux comprennent des parties à usage d'habitation, ces
+opérations ne peuvent être effectuées qu'entre 8 heures et 20 heures par ou en
+présence d'un agent mentionné au I de l'article L. 205-1, sur autorisation
+judiciaire dans les formes et conditions prescrites par l'article L. 206-1.

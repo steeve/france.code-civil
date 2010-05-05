@@ -16,16 +16,17 @@ en locaux et en installations sont déterminés par des arrêtés du ministre ch
 de l'agriculture.
 
 Ces contrôles, dont les modalités sont fixées par le ministre chargé de
-l'agriculture, sont exécutés par les agents mentionnés aux articles L. 214-19,
-L. 214-20, L. 221-5, L. 221-6 et L. 231-2. Les marchandises qui ont subi un
-contrôle favorable dans un poste d'inspection frontalier habilité d'un autre
-Etat membre de la Communauté européenne font éventuellement l'objet des
-contrôles prévus en application de l'article L. 236-5.
+l'agriculture, sont exécutés par les agents mentionnés aux articles L. 221-5 et
+L. 231-2. Les marchandises qui ont subi un contrôle favorable dans un poste
+d'inspection frontalier habilité d'un autre Etat membre de la Communauté
+européenne font éventuellement l'objet des contrôles prévus en application de
+l'article L. 236-5.
 
 Toutefois, pour les animaux familiers de compagnie accompagnant les voyageurs,
 le contrôle peut être effectué dans tout port, aéroport, gare ferroviaire ou
 routière ouvert aux liaisons internationales et se limiter à un contrôle
-documentaire, effectué par les agents des douanes. Les listes des animaux
-familiers de compagnie visés au présent alinéa et les modalités d'application du
-contrôle sont fixées par arrêtés conjoints du ministre chargé de l'agriculture
-et du ministre chargé des douanes.
+documentaire et d'identité au sens de l'article 12 du règlement (CE) n° 998 /
+2003 du Parlement européen et du Conseil du 26 mai 2003, effectué par les agents
+des douanes. Les listes des animaux familiers de compagnie visés au présent
+alinéa et les modalités d'application du contrôle sont fixées par arrêtés
+conjoints du ministre chargé de l'agriculture et du ministre chargé des douanes.

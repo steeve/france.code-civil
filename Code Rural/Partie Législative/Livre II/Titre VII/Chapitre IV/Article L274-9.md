@@ -1,12 +1,9 @@
 Article L274-9
 ----
-Pour son application en Nouvelle-Calédonie, l'article L. 251-14 est ainsi rédigé
-:
-
-Art.L. 251-14. - I. - Le contrôle et l'inspection de l'état sanitaire des
-végétaux, produits végétaux et autres objets tels que définis par la
-réglementation en vigueur en Nouvelle-Calédonie sont assurés par les agents
-compétents de la Nouvelle-Calédonie.
+I. - Le contrôle et l'inspection de l'état sanitaire des végétaux, produits
+végétaux et autres objets tels que définis par la réglementation en vigueur en
+Nouvelle-Calédonie sont assurés par les agents compétents de la
+Nouvelle-Calédonie.
 
 II. - Lorsqu'ils constatent la présence d'un organisme nuisible au sens de la
 réglementation en vigueur en Nouvelle-Calédonie ou le non-respect d'une

@@ -1,10 +1,10 @@
 Article L215-10
 ----
-Est puni de 7 500 euros d'amende :
+Est puni de 7 500 € d'amende :
 
 1° Le fait, pour toute personne gérant un refuge ou une fourrière ou exerçant
 l'une des activités visées à l'article L. 214-6, en méconnaissance d'une mise en
-demeure prononcée en application de l'article L. 215-9 :
+demeure prononcée en application de l'article L. 206-2 :
 
 1. De ne pas avoir procédé à la déclaration prévue au IV de l'article L. 214-6 ;
 
@@ -18,7 +18,7 @@ s'exercent les activités, est titulaire d'un certificat de capacité ;
 2° Le fait, pour tout détenteur de plus de neuf chiens sevrés visés au V de
 l'article L. 214-6, de ne pas disposer d'installations conformes aux règles
 sanitaires et de protection animale pour ces animaux, malgré la mise en demeure
-prononcée en application de l'article L. 215-9.
+prononcée en application de l'article L. 206-2.
 
 Les personnes physiques coupables de l'une des infractions prévues au présent
 article encourent également la peine complémentaire de l'affichage et la

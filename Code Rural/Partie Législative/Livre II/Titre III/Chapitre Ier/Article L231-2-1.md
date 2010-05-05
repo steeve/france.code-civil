@@ -3,21 +3,23 @@ Article L231-2-1
 I. - Pour l'exercice de leurs fonctions, les agents mentionnés à l'article L.
 231-2 :
 
-1° Ont accès aux abattoirs et à leurs annexes ainsi qu'à tous les lieux utilisés
-à des fins professionnelles où des produits d'origine animale, des denrées
-alimentaires en contenant, des aliments pour animaux ou des sous-produits
-animaux sont produits, travaillés, transformés, manipulés, entreposés, détruits
-ou offerts à la vente par toute personne soumise aux contrôles officiels prévus
-par l'article L. 231-2.
+1° Ont accès aux établissements d'abattage et à leurs annexes ainsi qu'à tous
+les lieux utilisés à des fins professionnelles où des produits d'origine
+animale, des denrées alimentaires en contenant, des aliments pour animaux ou des
+sous-produits animaux sont produits, travaillés, transformés, manipulés,
+entreposés, détruits ou offerts à la vente par toute personne soumise aux
+contrôles officiels prévus par l'article L. 231-2.
 
 Ils peuvent y pénétrer entre 8 et 20 heures ou, en dehors de ces heures, à tout
 moment lorsque l'accès y est autorisé au public ou lorsqu'une des activités
-définies ci-dessus y est en cours.
+définies ci-dessus y est en cours. Lorsque l'accès aux locaux est refusé aux
+agents, il peut être autorisé par ordonnance du juge des libertés et de la
+détention dans les formes et conditions prescrites par l'article L. 206-1
 
 Lorsque les lieux sont également à usage d'habitation, ces contrôles ne peuvent
-être effectués qu'entre 8 heures et 20 heures et avec l'autorisation du juge des
-libertés et de la détention du tribunal de grande instance dans le ressort
-duquel ils sont situés si l'occupant s'y oppose ;
+être effectués qu'entre 8 heures et 20 heures en présence d'un agent mentionné
+au I de l'article L. 205-1, sur autorisation judiciaire dans les formes et
+conditions prescrites par l'article L. 206-1 ;
 
 2° Ont accès, à tout moment de jour et de nuit, aux lieux où les animaux vivants
 appartenant à des espèces dont la chair ou les produits sont destinés à
@@ -27,7 +29,7 @@ l'alimentation humaine ou animale sont hébergés ainsi qu'à leurs annexes ;
 ainsi que des modalités de chargement et de déchargement de tous moyens de
 transport à usage professionnel transportant des animaux vivants, des produits
 d'origine animale, des denrées alimentaires en contenant ou des aliments pour
-animaux ;
+animaux ou des sous-produits animaux ;
 
 4° Peuvent demander la communication, obtenir ou prendre copie par tout moyen et
 sur tout support ou procéder à la saisie des documents professionnels de toute
@@ -46,8 +48,4 @@ documents directement utilisables pour les besoins du contrôle ;
 
 II. - (Abrogé).
 
-III. - Les infractions sont constatées par des procès-verbaux qui font foi
-jusqu'à preuve contraire. Les procès-verbaux doivent, sous peine de nullité,
-être adressés dans les cinq jours qui suivent leur clôture au procureur de la
-République. Une copie en est également transmise, dans le même délai, à
-l'intéressé.
+III. (Supprimé).

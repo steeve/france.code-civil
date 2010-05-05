@@ -17,5 +17,5 @@ l'attestation d'aptitude mentionnées à l'article L. 211-13-1.
 Faute pour l'intéressé de s'être soumis à ces obligations, le maire ou, à
 défaut, le préfet peut ordonner par arrêté que l'animal soit placé dans un lieu
 de dépôt adapté à la garde de celui-ci. Il peut, en cas de danger grave et
-immédiat et après avis d'un vétérinaire désigné par la direction des services
-vétérinaires, faire procéder à son euthanasie.
+immédiat et après avis d'un vétérinaire désigné par le préfet, faire procéder à
+son euthanasie.

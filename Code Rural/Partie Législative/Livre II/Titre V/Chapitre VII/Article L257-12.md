@@ -1,8 +1,8 @@
 Article L257-12
 ----
 I.-Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait de
-ne pas respecter les prescriptions et mesures que les agents mentionnés au I de
-l'article L. 251-18 peuvent ordonner en application des articles L. 257-6 et L.
+ne pas respecter les prescriptions et mesures que les agents mentionnés à
+l'article L. 250-2 peuvent ordonner en application des articles L. 257-6 et L.
 257-8.
 
 II.-Les personnes physiques encourent également les peines complémentaires

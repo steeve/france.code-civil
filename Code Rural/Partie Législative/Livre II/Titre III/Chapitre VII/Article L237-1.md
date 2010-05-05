@@ -10,17 +10,12 @@ ne bénéficie pas d'une autorisation de l'autorité administrative.
 II.-Sont punies de six mois d'emprisonnement et de 30000 euros d'amende les
 autres infractions aux dispositions des I à VII de l'article L. 234-2.
 
-III.-Est puni de six mois d'emprisonnement et de 7500 euros d'amende le fait de
-mettre obstacle à l'exercice des fonctions des agents habilités en vertu de
-l'article L. 231-2.
+III. (Supprimé)
 
 IV.-Les personnes physiques coupables de l'une des infractions prévues au
 présent article encourent également la peine complémentaire de l'affichage ou la
 diffusion de la décision prononcée dans les conditions prévues par l'article
 131-35 du code pénal.
 
-V.-Les personnes morales déclarées responsables pénalement, dans les conditions
-prévues par l'article 121-2 du code pénal, des infractions définies au présent
-article encourent, outre l'amende suivant les modalités prévues par l'article
-131-38 du code pénal, la peine prévue par le 9° de l'article 131-39 du même
-code.
+V.-Les personnes morales encourent également les peines complémentaires prévues
+par les 2°, 4°, 7°, 8° et 9° de l'article 131-39 du code pénal.

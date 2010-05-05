@@ -6,8 +6,7 @@ groupements de défense visés à l'article L. 252-2, est agréée, au vu du sta
 type, par le ministre de l'agriculture.
 
 La fédération régionale agréée est placée sous le contrôle permanent, technique
-et financier du directeur régional de l'agriculture et de la forêt ou du
-directeur de l'agriculture pour les départements d'outre-mer.
+et financier du préfet de région.
 
 Elle est chargée notamment :
 

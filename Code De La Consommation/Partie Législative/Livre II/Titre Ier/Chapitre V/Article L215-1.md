@@ -9,8 +9,8 @@ direction générale des finances publiques ;
 
 2° Les inspecteurs du travail ;
 
-3° Les agents mentionnés aux 1° à 7° de l'article L. 231-2 et au I de l'article
-L. 251-18 du code rural ;
+3° Les agents mentionnés aux 1° à 7° de l'article L. 231-2 et à l'article L.
+250-2 du code rural et de la pêche maritime ;
 
 4° Les agents mentionnés aux articles L. 1421-1 et L. 1435-7 du code de la santé
 publique ayant la qualité de médecin ou de pharmacien ;
