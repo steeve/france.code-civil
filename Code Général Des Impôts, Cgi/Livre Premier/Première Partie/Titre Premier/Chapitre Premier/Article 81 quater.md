@@ -3,41 +3,21 @@ Article 81 quater
 I.-Sont exonérés de l'impôt sur le revenu :
 
 1° Les salaires versés aux salariés au titre des heures supplémentaires de
-travail définies au premier alinéa des articles L. 3121-22 du code du travail et
-L. 713-6 du code rural et aux articles L. 3122-6, L. 3122-7 et L. 3122-19 du
-code du travail, des heures choisies mentionnées aux articles L. 3121-17 et L.
-3121-18 du même code et L. 713-11-1 du code rural, des heures considérées comme
-des heures supplémentaires en application de l'article L. 3122-5 du code du
-travail et du cinquième alinéa de l'article L. 713-8 du code rural et, pour les
-salariés relevant de conventions de forfait annuel en heures prévues à l'article
-L. 3121-42 et au premier alinéa de l'article L. 3121-51 du code du travail, des
-heures effectuées au-delà de 1 607 heures, ainsi que des heures effectuées en
-application du troisième alinéa de l'article L. 3123-7 du même code. Pour les
-salariés relevant du II de l'article L. 3122-10 du code du travail ou du dernier
-alinéa de l'article L. 713-15 du code rural, sont exonérés les salaires versés
-au titre des heures effectuées au-delà de la limite maximale hebdomadaire fixée
-par la convention ou l'accord collectif et, à l'exclusion de ces dernières, au
-titre des heures effectuées au-delà de 1 607 heures.
+travail définies à l'article L. 3121-11 du code du travail et, pour les salariés
+relevant de conventions de forfait annuel en heures prévues à l'article L.
+3121-42 du même code, des heures effectuées au-delà de 1 607 heures, ainsi que
+des heures effectuées en application du troisième alinéa de l'article L. 3123-7
+du même code. Sont exonérés les salaires versés au titre des heures
+supplémentaires mentionnées à l'article L. 3122-4 du même code, à l'exception
+des heures effectuées entre 1 607 heures et la durée annuelle fixée par l'accord
+lorsqu'elle lui est inférieure.
 
 L'exonération mentionnée au premier alinéa est également applicable à la
 majoration de salaire versée, dans le cadre des conventions de forfait annuel en
-jours mentionnées à l'article L. 3121-45 et au deuxième alinéa de l'article L.
-3121-51 du code du travail, en contrepartie de la renonciation par les salariés,
-au-delà du plafond de deux cent dix-huit jours mentionné au premier alinéa de
-l'article L. 3121-45 du code du travail, à des jours de repos dans les
-conditions prévues à l'article L. 3121-46 du même code. Elle s'applique de même
-aux salaires versés en contrepartie de la renonciation par les salariés, selon
-les modalités prévues au II de l'article 4 de la loi n° 2005-296 du 31 mars 2005
-portant réforme de l'organisation du temps de travail dans l'entreprise, à des
-journées ou demi-journées de repos, accordées en application des articles L.
-3122-6 et L. 3122-19 du code du travail ou du 2° de l'article L. 3121-45 du même
-code, si le nombre de jours de travail accomplis de ce fait dépasse le plafond
-de deux cent dix-huit jours mentionné au premier alinéa de l'article L. 3121-45
-du même code, ou en contrepartie des heures effectuées, selon les modalités
-prévues au II de l'article 4 de la loi n° 2005-296 du 31 mars 2005 précitée,
-au-delà de la durée prévue par la convention de forfait conclue en application
-des articles L. 3121-40 et L. 3121-42 et du premier alinéa de l'article L.
-3121-51 du même code et au-delà de 1 607 heures ;
+jours, en contrepartie de la renonciation par les salariés, au-delà du plafond
+de deux cent dix-huit jours mentionné à l'article L. 3121-44 du code du travail,
+à des jours de repos dans les conditions prévues à l'article L. 3121-45 du même
+code ;
 
 2° Les salaires versés aux salariés à temps partiel au titre des heures
 complémentaires de travail définies au 4° de l'article L. 3123-14, aux articles
@@ -62,12 +42,12 @@ supplémentaires qu'ils réalisent ou du temps de travail additionnel effectif ;
 
 6° Les salaires versés aux autres salariés dont la durée du travail ne relève
 pas des dispositions du titre II du livre Ier de la troisième partie du code du
-travail ou du chapitre III du titre Ier du livre VII du code rural au titre,
-selon des modalités prévues par décret, des heures supplémentaires ou
-complémentaires de travail qu'ils effectuent ou, dans le cadre de conventions de
-forfait en jours, les salaires versés en contrepartie des jours de repos
-auxquels les salariés auront renoncé au-delà du plafond de deux cent dix-huit
-jours.
+travail ou du chapitre III du titre Ier du livre VII du code rural et de la
+pêche maritime au titre, selon des modalités prévues par décret, des heures
+supplémentaires ou complémentaires de travail qu'ils effectuent ou, dans le
+cadre de conventions de forfait en jours, les salaires versés en contrepartie
+des jours de repos auxquels les salariés auront renoncé au-delà du plafond de
+deux cent dix-huit jours.
 
 II.-L'exonération prévue au premier alinéa du I s'applique :
 
@@ -81,16 +61,16 @@ b) A défaut d'une telle convention ou d'un tel accord :
 
 -pour les heures supplémentaires, des taux de 25 % ou 50 %, selon le cas, prévus
 au premier alinéa de l'article L. 3121-22 du code du travail et au I de
-l'article L. 713-6 du code rural ;
+l'article L. 713-6 du code rural et de la pêche maritime ;
 
 -pour les heures complémentaires, du taux de 25 % ;
 
 -pour les heures effectuées au-delà de 1 607 heures dans le cadre de la
-convention de forfait prévue au premier alinéa de l'article L. 3121-42 du code
-du travail, du taux de 25 % de la rémunération horaire déterminée à partir du
-rapport entre la rémunération annuelle forfaitaire et le nombre d'heures de
-travail prévu dans le forfait, les heures au-delà de la durée légale étant
-pondérées en fonction des taux de majoration applicables à leur rémunération ;
+convention de forfait prévue à l'article L. 3121-46 du code du travail, du taux
+de 25 % de la rémunération horaire déterminée à partir du rapport entre la
+rémunération annuelle forfaitaire et le nombre d'heures de travail prévu dans le
+forfait, les heures au-delà de la durée légale étant pondérées en fonction des
+taux de majoration applicables à leur rémunération ;
 
 2° A la majoration de salaire versée dans le cadre des conventions de forfait
 mentionnées au second alinéa du 1° du I et au 6° du I, dans la limite de la
@@ -119,7 +99,5 @@ elles sont intégrées à l'horaire contractuel de travail pendant une durée
 minimale fixée par décret ;
 
 -à la rémunération d'heures qui n'auraient pas été des heures supplémentaires
-sans abaissement, après le 20 juin 2007, de la durée maximale hebdomadaire
-mentionnée au 1° du II de l'article L. 3122-10 du code du travail et au dernier
-alinéa de l'article L. 713-15 du code rural ou du plafond mentionné au 2° de
-l'article L. 3122-19 du code du travail.
+sans abaissement, après le 20 juin 2007, de la limite haute hebdomadaire
+mentionnée à l'article L. 3122-4 du code du travail.
