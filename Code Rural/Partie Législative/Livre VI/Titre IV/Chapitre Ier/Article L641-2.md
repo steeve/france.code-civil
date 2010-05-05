@@ -1,9 +1,8 @@
 Article L641-2
 ----
-Une denrée ou un produit peut bénéficier simultanément d'un label rouge et d'une
-indication géographique protégée ou d'une spécialité traditionnelle garantie
-mais non d'un label rouge et d'une appellation d'origine ou de la dénomination "
-vin de pays ".
+Une denrée ou un produit autre qu'un produit vitivinicole ou une boisson
+spiritueuse peut cumuler un label rouge avec une indication géographique ou une
+spécialité traditionnelle garantie, mais non avec une appellation d'origine.
 
 Un label rouge ne peut comporter de référence géographique ni dans sa
 dénomination ni dans son cahier des charges, sauf :

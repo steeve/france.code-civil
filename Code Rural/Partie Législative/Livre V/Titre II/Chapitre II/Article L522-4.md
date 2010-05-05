@@ -14,8 +14,7 @@ associés coopérateurs. Les statuts peuvent aussi leur accorder une priorité s
 les parts des associés coopérateurs pour le service de ces intérêts.
 
 Les parts des associés non coopérateurs participent à égalité avec les parts des
-associés coopérateurs aux revalorisations des parts sociales et au partage de
-l'actif net de liquidation.
+associés coopérateurs aux revalorisations des parts sociales.
 
 Les associés non coopérateurs répondent des dettes sociales à concurrence
 seulement de leurs parts.

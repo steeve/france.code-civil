@@ -3,8 +3,7 @@ Article L551-1
 Dans une zone déterminée, les sociétés coopératives agricoles et leurs unions,
 les sociétés d'intérêt collectif agricole, les associations entre producteurs
 agricoles régies par les dispositions de la loi du 1er juillet 1901 relative au
-contrat d'association, les sociétés à responsabilité limitée, les sociétés
-anonymes, les sociétés par actions simplifiées et les groupements d'intérêt
+contrat d'association, les sociétés commerciales et les groupements d'intérêt
 économique régis par les dispositions du livre II du code de commerce,
 lorsqu'ils ont pour objet de maîtriser durablement la valorisation de la
 production agricole ou forestière de leurs membres, associés ou actionnaires, de
@@ -19,8 +18,7 @@ des règles destinées à :
 respectant des cahiers des charges et en établissant des relations
 contractuelles avec leurs partenaires de la filière ;
 
-- instaurer une transparence des transactions et régulariser les cours,
-notamment par la fixation éventuelle d'un prix de retrait ;
+- instaurer une transparence des transactions et régulariser les cours ;
 
 - mettre en oeuvre la traçabilité ;
 
@@ -43,8 +41,4 @@ notamment dans le secteur de l'élevage, peuvent être reconnus comme
 organisations de producteurs s'ils mettent à la disposition de leurs membres les
 moyens humains, matériels ou techniques nécessaires à la commercialisation de la
 production de ceux-ci. En outre, lorsqu'ils sont chargés de la
-commercialisation, ils y procèdent dans le cadre d'un mandat, au prix de cession
-déterminé par le mandant.
-
-Pour chaque secteur, un décret fixe les conditions d'attribution et de retrait
-de la reconnaissance des organisations de producteurs.
+commercialisation, ils y procèdent dans le cadre d'un mandat.

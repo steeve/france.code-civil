@@ -1,7 +1,10 @@
 Article L551-3
 ----
-Les organisations de producteurs reconnues peuvent se regrouper pour constituer
-des centrales de vente. Ces centrales de vente peuvent être reconnues en tant
-qu'associations d'organisations de producteurs à condition qu'elles deviennent
-propriétaires des produits de leurs membres, actionnaires ou associés qu'elles
-commercialisent.
+Les conditions d'attribution, de suspension et de retrait de la reconnaissance
+d'une organisation de producteurs ou d'une association d'organisations de
+producteurs sont fixées par décret.
+
+Il en est de même des conditions dans lesquelles des groupements de producteurs
+de fruits et légumes qui ne satisfont pas encore aux conditions de leur
+reconnaissance en qualité d'organisation de producteurs peuvent obtenir une
+préreconnaissance.

@@ -10,7 +10,7 @@ barème en vigueur fixant le taux de majoration applicable aux rentes viagères.
 Cette augmentation, qui ne pourra intervenir qu'après présentation à l'assemblée
 générale extraordinaire d'un rapport spécial de révision établi par un organisme
 agréé en application de l'article L. 527-1, est cumulable avec celle prévue à
-l'article L. 123-7.
+l'article L. 523-7.
 
 Les deux opérations cumulées ne peuvent toutefois aboutir à une augmentation de
 capital social supérieure à celle qui résulterait de l'application du barème

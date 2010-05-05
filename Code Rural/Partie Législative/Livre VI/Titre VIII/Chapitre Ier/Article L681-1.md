@@ -1,4 +1,4 @@
 Article L681-1
 ----
-Les articles L. 621-21 et L. 621-22, L. 621-26 à L. 621-36, L. 621-38 et L.
-671-3 ne sont pas applicables aux départements d'outre-mer et à Mayotte.
+Les articles L. 666-1 à L. 666-9, L. 621-38 et L. 671-3 ne sont pas applicables
+aux départements d'outre-mer et à Mayotte.

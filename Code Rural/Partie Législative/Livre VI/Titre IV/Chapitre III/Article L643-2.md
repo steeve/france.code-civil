@@ -3,22 +3,22 @@ Article L643-2
 L'utilisation d'indication d'origine ou de provenance ne doit pas être
 susceptible d'induire le consommateur en erreur sur les caractéristiques du
 produit, de détourner ou d'affaiblir la notoriété d'une dénomination reconnue
-comme appellation d'origine ou enregistrée comme indication géographique
-protégée ou comme spécialité traditionnelle garantie, ou, de façon plus
-générale, de porter atteinte, notamment par l'utilisation abusive d'une mention
-géographique dans une dénomination de vente, au caractère spécifique de la
-protection réservée aux appellations d'origine, aux indications géographiques
-protégées et aux spécialités traditionnelles garanties.
+comme appellation d'origine ou enregistrée comme indication géographique ou
+comme spécialité traditionnelle garantie, ou, de façon plus générale, de porter
+atteinte, notamment par l'utilisation abusive d'une mention géographique dans
+une dénomination de vente, au caractère spécifique de la protection réservée aux
+appellations d'origine, aux indications géographiques et aux spécialités
+traditionnelles garanties.
 
 Pour les produits ne bénéficiant pas d'une appellation d'origine ou d'une
-indication géographique protégée, l'utilisation d'une indication d'origine ou de
+indication géographique, l'utilisation d'une indication d'origine ou de
 provenance doit s'accompagner d'une information sur la nature de l'opération
 liée à cette indication, dans tous les cas où cela est nécessaire à la bonne
 information du consommateur.
 
 Toutefois, cette disposition ne s'applique pas aux vins, aux vins aromatisés,
-aux boissons aromatisées à base de vin, aux cocktails aromatisés de produits
-vitivinicoles ainsi qu'aux spiritueux.
+aux boissons aromatisées à base de produits vitivinicoles, aux cocktails
+aromatisés de produits vitivinicoles ainsi qu'aux boissons spiritueuses.
 
 Tout opérateur utilisant une indication d'origine ou de provenance pour une
 denrée alimentaire ou un produit agricole ou alimentaire et non transformé doit

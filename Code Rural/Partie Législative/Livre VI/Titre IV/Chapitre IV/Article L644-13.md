@@ -1,7 +1,7 @@
 Article L644-13
 ----
-Afin d'appliquer les mesures de gestion du potentiel de production des vins de
-qualité produits dans les régions déterminées (VQPRD) prévues dans le cadre de
+Afin d'appliquer les mesures de gestion du potentiel de production des vins
+bénéficiant d'une appellation d'origine protégée prévues dans le cadre de
 l'organisation commune du marché vitivinicole, les ministres chargés
 respectivement de l'agriculture, de l'économie et des finances et du budget, par
 arrêté pris conjointement sur proposition de l'Institut national de l'origine et

@@ -9,7 +9,7 @@ plusieurs modes de valorisation appartenant aux catégories suivantes :
 
 - le label rouge, attestant la qualité supérieure ;
 
-- l'appellation d'origine, l'indication géographique protégée et la spécialité
+- l'appellation d'origine, l'indication géographique et la spécialité
 traditionnelle garantie, attestant la qualité liée à l'origine ou à la tradition
 ;
 

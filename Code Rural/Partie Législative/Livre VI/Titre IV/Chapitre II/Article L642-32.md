@@ -1,8 +1,8 @@
 Article L642-32
 ----
 L'organisme d'inspection élabore, pour chaque cahier des charges, en
-concertation avec l'organisme de défense et de gestion de l'appellation
-d'origine intéressé, le plan d'inspection prévu à l'article L. 642-2.
+concertation avec l'organisme de défense et de gestion intéressé, le plan
+d'inspection prévu à l'article L. 642-2.
 
 Le directeur de l'institut, après avis de l'organisme de défense et de gestion,
 établit la liste des mesures sanctionnant les manquements au cahier des charges.

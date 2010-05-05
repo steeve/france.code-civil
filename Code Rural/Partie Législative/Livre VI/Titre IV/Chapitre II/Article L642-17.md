@@ -1,9 +1,9 @@
 Article L642-17
 ----
 La défense et la gestion d'un produit bénéficiant d'un label rouge, d'une
-appellation d'origine, d'une indication géographique protégée ou d'une
-spécialité traditionnelle garantie est assurée par un organisme doté de la
-personnalité civile.
+appellation d'origine, d'une indication géographique ou d'une spécialité
+traditionnelle garantie est assurée par un organisme doté de la personnalité
+civile.
 
 Un même organisme peut assurer la défense et la gestion de plusieurs produits.
 

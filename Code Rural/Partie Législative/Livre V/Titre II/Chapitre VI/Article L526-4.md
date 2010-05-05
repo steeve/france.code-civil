@@ -21,3 +21,8 @@ conditions fixées par décret en Conseil d'Etat ; ce rapport indique notamment
 les effets de l'opération sur les engagements statutaires de tout ou partie des
 associés, coopérateurs ou non, de la société coopérative ou de l'union de
 coopératives agricoles.
+
+A peine de nullité de sa délibération, l'assemblée générale extraordinaire de
+chaque coopérative agricole ou union de coopératives agricoles participant à
+l'opération statue après lecture du rapport spécial de révision mentionné à
+l'alinéa précédent.
