@@ -15,6 +15,9 @@ d'installation définie à l'article L. 330-1 ;
 environnementales et sociales, notamment dans le cadre des contrats
 d'agriculture durable.
 
+- la sécurisation des équipements de travail mobiles avec travailleurs portés,
+notamment en prévention du risque de retournement.
+
 Sauf lorsqu'elle a revêtu la forme de prêts, l'aide financière peut être
 interrompue si l'exploitation ne satisfait plus aux conditions de mise en valeur
 de l'espace agricole ou forestier mentionnées au schéma directeur départemental

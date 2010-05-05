@@ -58,3 +58,14 @@ attributions du fonds les dépenses d'investissement réalisées dans le cadre
 d'une convention avec l'Etat ou la collectivité territoriale propriétaire
 précisant les équipements à réaliser, le programme technique des travaux et les
 engagements financiers des parties.
+
+Les collectivités territoriales et leurs groupements bénéficient également des
+attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au
+titre des dépenses d'investissement réalisées à compter du 1er janvier 2005 sur
+des immeubles du domaine relevant du Conservatoire de l'espace littoral et des
+rivages lacustres. Seules ouvrent droit aux attributions du fonds les dépenses
+d'investissement réalisées par les collectivités territoriales ou leurs
+groupements ayant conclu une convention avec le Conservatoire de l'espace
+littoral et des rivages lacustres, précisant notamment les équipements à
+réaliser, le programme technique des travaux et les engagements financiers des
+parties.

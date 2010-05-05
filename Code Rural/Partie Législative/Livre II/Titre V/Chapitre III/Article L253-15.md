@@ -34,13 +34,7 @@ Celui-ci peut à tout moment présenter une demande d'expertise contradictoire.
 Mainlevée de la mesure de consignation peut être ordonnée à tout moment par les
 agents chargés du contrôle.
 
-III. - Lorsqu'ils ne sont pas adressés aux laboratoires des services chargés de
-contrôler l'application des dispositions du présent chapitre, les échantillons
-sont analysés par des laboratoires agréés par l'autorité administrative selon
-des modalités fixées par décret.
-
-Les agents visés au I de l'article L. 253-14 sont habilités à vérifier que les
-conditions de l'agrément sont respectées.
+III. - (paragraphe abrogé).
 
 IV. - Les frais résultant des analyses et de la consignation sont à la charge du
 propriétaire ou du détenteur.

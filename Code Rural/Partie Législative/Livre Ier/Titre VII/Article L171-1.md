@@ -16,13 +16,19 @@ avec des activités de gestion immobilière sur les biens d'autrui et avec des
 activités d'entremise immobilière si elles ne portent pas sur une même opération
 que celle faisant l'objet des missions d'expertise visées ci-dessus.
 
-Il est créé un Conseil national de l'expertise foncière, agricole et forestière
-composé de représentants de l'Etat et de représentants des experts désignés par
-les organisations les plus représentatives à l'échelon national des professions
-d'expert foncier, agricole et forestier. Ce conseil est présidé par un
-représentant des experts siégeant en son sein.
+Il est créé un Conseil national de l'expertise foncière agricole et forestière,
+doté de la personnalité morale, auquel doivent adhérer les personnes se
+réclamant en France du titre d'expert foncier et agricole ou d'expert forestier.
 
-Ce conseil est chargé en particulier d'établir annuellement la liste des experts
+L'assemblée générale des membres du conseil national vote annuellement le
+budget, approuve les comptes et fixe le montant des cotisations dues par ses
+membres. Le conseil est administré par un comité composé de représentants des
+experts désignés par les membres du conseil sur proposition des organisations
+les plus représentatives à l'échelon national des professions d'expert foncier,
+agricole et forestier. Ce comité, qui élit son président, prépare les
+délibérations de l'assemblée générale.
+
+Ce comité est chargé en particulier d'établir annuellement la liste des experts
 fonciers et agricoles ou forestiers et de faire respecter les devoirs
 professionnels de chacune des personnes inscrites sur la liste tels qu'ils sont
 définis par un décret en Conseil d'Etat.
@@ -30,13 +36,12 @@ définis par un décret en Conseil d'Etat.
 Nul ne peut porter le titre d'expert foncier et agricole ou d'expert forestier
 s'il ne figure sur la liste mentionnée ci-dessus.
 
-Le Conseil national de l'expertise foncière, agricole et forestière peut
-prononcer des sanctions constituées soit par un blâme, soit par un
-avertissement, soit par une suspension, soit par une radiation de la liste,
+Le comité peut prononcer des sanctions constituées soit par un blâme, soit par
+un avertissement, soit par une suspension, soit par une radiation de la liste,
 cette dernière sanction ne pouvant être appliquée qu'en cas de faute
 professionnelle grave ou de condamnation pour faits contraires à l'honneur, à la
-probité et aux bonnes moeurs. Quand il siège en matière disciplinaire, ce
-conseil est présidé par un membre du Conseil d'Etat.
+probité et aux bonnes moeurs. Quand il siège en matière disciplinaire, ce comité
+est présidé par un membre du Conseil d'Etat.
 
 En vue de leur inscription sur la liste nationale des experts fonciers et
 agricoles et des experts forestiers, les intéressés justifient d'un niveau de
@@ -52,8 +57,7 @@ mêmes peines toute personne qui aura fait usage d'une dénomination présentant
 une ressemblance de nature à causer une méprise avec le titre d'expert foncier,
 agricole et forestier.
 
-Les dispositions du présent article entreront en vigueur le premier jour du
-sixième mois suivant la publication du décret en Conseil d'Etat précisant ses
-modalités d'application, et notamment les modalités de désignation des membres
-du Conseil national de l'expertise foncière, agricole et forestière et la
-procédure disciplinaire suivie devant celui-ci.
+Un décret en Conseil d'Etat précise les modalités d'application du présent
+article, notamment les conditions d'inscription sur la liste nationale, les
+conditions d'éligibilité et les modalités de désignation des membres du comité,
+ainsi que la procédure disciplinaire suivie devant celui-ci.

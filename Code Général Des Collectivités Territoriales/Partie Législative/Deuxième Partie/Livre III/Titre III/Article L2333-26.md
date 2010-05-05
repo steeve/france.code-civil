@@ -3,7 +3,7 @@ Article L2333-26
 Dans les stations classées, dans les communes qui bénéficient de la dotation
 supplémentaire aux communes et groupements touristiques ou thermaux et la
 dotation particulière aux communes touristiques, dans les conditions fixées au
-second alinéa de l'article L. 2333-27, dans les communes littorales au sens de
+deuxième alinéa de l'article L. 2333-27, dans les communes littorales au sens de
 l'article L. 321-2 du code de l'environnement, dans les communes de montagne au
 sens de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la
 protection de la montagne, dans les communes qui réalisent des actions de

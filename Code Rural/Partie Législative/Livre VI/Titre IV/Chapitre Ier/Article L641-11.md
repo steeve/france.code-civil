@@ -14,4 +14,7 @@ national des appellations d'origine.
 Le ministre de l'agriculture dispose, pour donner son avis, d'un délai de trois
 mois à compter de la date à laquelle il est saisi par l'autorité administrative.
 
+Lorsqu'elle décide de ne pas suivre l'avis du ministre, l'autorité
+administrative en précise les motifs dans sa décision.
+
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.

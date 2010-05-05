@@ -21,9 +21,11 @@ compétente peut subordonner la réalisation des travaux faisant l'objet d'un
 permis de construire ou d'une déclaration de travaux à l'institution d'une
 servitude administrative, publiée au bureau des hypothèques, interdisant
 l'utilisation du bâtiment en période hivernale ou limitant son usage pour tenir
-compte de l'absence de réseaux. Lorsque le terrain n'est pas desservi par une
-voie carrossable, la servitude rappelle l'interdiction de circulation des
-véhicules à moteur édictée par l'article L. 362-1 du code de l'environnement.
+compte de l'absence de réseaux. Cette servitude précise que la commune est
+libérée de l'obligation d'assurer la desserte du bâtiment par les réseaux et
+équipements publics. Lorsque le terrain n'est pas desservi par une voie
+carrossable, la servitude rappelle l'interdiction de circulation des véhicules à
+moteur édictée par l'article L. 362-1 du code de l'environnement.
 
 II. - Les documents et décisions relatifs à l'occupation des sols comportent les
 dispositions propres à préserver les espaces, paysages et milieux

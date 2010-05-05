@@ -20,19 +20,21 @@ contamination ;
 
 4° Les prélèvements nécessaires au diagnostic ou aux enquêtes épidémiologiques ;
 
-5° La désinfection des écuries, étables, voitures ou autres moyens de transport,
-la désinfection ou même la destruction des objets à l'usage des animaux malades
-ou qui ont été souillés par eux, et généralement des objets quelconque pouvant
-servir de véhicules à la contagion ;
+5° La désinfection et la désinsectisation des écuries, étables, voitures ou
+autres moyens de transport, la désinfection ou la destruction des objets, des
+produits animaux ou d'origine animale susceptibles d'avoir été contaminés et de
+tout vecteur animé ou inanimé pouvant servir de véhicules à la contagion ;
 
 6° L'obligation de détruire les cadavres ;
 
 7° L'interdiction de vendre les animaux ;
 
 8° L'abattage des animaux malades ou contaminés ou des animaux ayant été exposés
-à la contagion ;
+à la contagion, ainsi que des animaux suspects d'être infectés ou en lien avec
+des animaux infectés dans les conditions prévues par l'article L. 223-6 ;
 
 9° Le traitement ou la vaccination des animaux.
 
-Un décret en Conseil d'Etat détermine celles de ces mesures qui sont applicables
-suivant la nature des maladies.
+Le ministre chargé de l'agriculture détermine par arrêté celles de ces mesures
+qui sont applicables aux différentes maladies mentionnées aux articles L. 223-2
+et L. 223-3.

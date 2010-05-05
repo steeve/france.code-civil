@@ -6,37 +6,38 @@ cent mètres à compter de la rive ; y sont interdits toutes constructions,
 installations et routes nouvelles ainsi que toutes extractions et tous
 affouillements.
 
-Peuvent être cependant autorisés les bâtiments à usage agricole, pastoral ou
-forestier, les refuges et gîtes d'étapes ouverts au public pour la promenade et
-la randonnée, les installations à caractère scientifique si aucune autre
-implantation n'est possible et les équipements d'accueil et de sécurité
-nécessaires à la pratique de la baignade ou des sports nautiques ainsi que les
-projets visés au 1° de l'article l. 111-1-2.
+Par exception aux dispositions de l'alinéa précédent, des constructions et
+aménagements peuvent être admis, en fonction des spécificités locales, dans
+certains secteurs délimités :
 
-Lorsqu'un plan local d'urbanisme est établi, les dispositions du présent article
-peuvent être adaptées par ce document d'urbanisme pour permettre une extension
-mesurée des agglomérations ou l'ouverture d'un terrain de camping, ou la
-réalisation d'un équipement culturel dont l'objet est directement lié au
-caractère lacustre des lieux, dans le respect du paysage et des caractéristiques
-propres à cet espace sensible.
+1° Soit par un plan local d'urbanisme ou un schéma de cohérence territoriale,
+avec l'accord du préfet et au vu d'une étude réalisée et approuvée dans les
+conditions prévues au a du III de l'article L. 145-3 ;
 
-Lorsqu'un schéma de cohérence territorial ou un schéma de secteur est établi
-pour l'ensemble des communes riveraines, ou un plan local d'urbanisme si le plan
-d'eau est situé à l'intérieur du territoire administratif d'une seule commune,
-les dispositions du présent article peuvent également être adaptées pour
-permettre la délimitation, à titre exceptionnel, de hameaux nouveaux intégrés à
-l'environnement. En l'absence des directives territoriales d'aménagement visées
-à l'article L. 145-7, le schéma directeur ou le schéma de secteur est alors
-élaboré dans les conditions prévues au deuxième alinéa de l'article L. 122-8.
+2° Soit par une carte communale, avec l'accord du préfet, après avis de la
+commission départementale compétente en matière de nature, de paysages et de
+sites, et au vu d'une étude justifiant que l'aménagement et l'urbanisation de
+ces secteurs sont compatibles avec la prise en compte de la qualité de
+l'environnement et des paysages. Dans ce cas, chaque permis de construire est
+soumis pour avis à la commission départementale compétente en matière de nature,
+de paysages et de sites.
 
-Les ministres chargés de l'urbanisme et de l'environnement peuvent, à titre
-exceptionnel, autoriser l'implantation, sur les rives d'un plan d'eau artificiel
-existant à la date de publication de la loi n° 94-112 du 9 février 1994 portant
-diverses dispositions en matière d'urbanisme et de construction, d'une opération
-d'urbanisation intégrée à l'environnement dont la surface de plancher hors
-oeuvre nette n'excède pas 30 000 mètres carrés. Cette autorisation est donnée
-après avis de la commission départementale des sites.
+Dans les secteurs protégés en application des premier et deuxième alinéas, ne
+peuvent être autorisés que des bâtiments à usage agricole, pastoral ou
+forestier, des refuges et gîtes d'étapes ouverts au public pour la promenade et
+la randonnée, des aires naturelles de camping, un équipement culturel dont
+l'objet est directement lié au caractère lacustre des lieux, des installations à
+caractère scientifique si aucune autre implantation n'est possible et des
+équipements d'accueil et de sécurité nécessaires à la pratique de la baignade,
+des sports nautiques, de la promenade ou de la randonnée ainsi que des projets
+visés au 1° de l'article L. 111-1-2.
 
-Par exception au champ d'application du présent chapitre, les dispositions des
-alinéas précédents s'appliquent à l'ensemble des communes riveraines des plans
-d'eau situés partiellement ou totalement en zone de montagne.
+Les dispositions du présent article s'appliquent également aux plans d'eau
+partiellement situés en zone de montagne. Peuvent toutefois être exclus du champ
+d'application du présent article :
+
+1° Par arrêté du préfet coordonnateur de massif, les plans d'eau dont moins du
+quart des rives est situé dans la zone de montagne ;
+
+2° Par un plan local d'urbanisme, un schéma de cohérence territoriale ou une
+carte communale, certains plans d'eau en fonction de leur faible importance.

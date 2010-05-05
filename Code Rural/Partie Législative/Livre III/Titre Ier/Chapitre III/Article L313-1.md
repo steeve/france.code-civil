@@ -12,7 +12,9 @@ financement de l'agriculture. Sa composition est fixée par décret.
 La commission est consultée sur le projet, élaboré par le représentant de l'Etat
 dans le département, qui détermine les priorités de la politique d'orientation
 des productions et d'aménagement des structures d'exploitation au niveau
-départemental.
+départemental. Le représentant de l'Etat dans le département peut charger la
+chambre départementale d'agriculture de réaliser des études et des enquêtes
+nécessaires à l'élaboration de ce projet.
 
 Elle donne son avis sur les projets de contrat type susceptibles d'être proposés
 aux exploitants, en application des dispositions relatives aux contrats

@@ -33,7 +33,8 @@ l'importance des constructions ou travaux envisagés.
 
 Conformément aux dispositions de l'article 4 de la loi n° 77-2 du 3 janvier 1977
 sur l'architecture, par dérogation au quatrième alinéa ci-dessus, ne sont pas
-tenues de recourir à un architecte les personnes physiques qui déclarent vouloir
+tenues de recourir à un architecte les personnes physiques ou exploitations
+agricoles à responsabilité limitée à associé unique qui déclarent vouloir
 édifier ou modifier, pour elles-mêmes, une construction de faible importance
 dont les caractéristiques, et notamment la surface maximale de plancher, sont
 déterminées par décret en conseil d'Etat. Ces caractéristiques peuvent être

@@ -16,8 +16,14 @@ l'article L. 382-1, ingénieur-conseil, auxiliaire médical, agent général
 d'assurances ;
 
 3°) et d'une manière générale, toute personne autre que les avocats, exerçant
-une activité professionnelle non-salariée et qui n'est pas assimilée à une
+une activité professionnelle non salariée et qui n'est pas assimilée à une
 activité salariée pour l'application du livre III du présent code, lorsque cette
 activité ne relève pas d'une autre organisation autonome en vertu des articles
 L. 622-3, L. 622-4, L. 622-6 ou d'un décret pris en application de l'article L.
 622-7.
+
+Pour des raisons impérieuses de sécurité, les moniteurs de ski titulaires d'un
+brevet d'Etat ou d'une autorisation d'exercer, organisés en association ou en
+syndicat professionnel pour la mise en oeuvre de leur activité, sont considérés
+comme exerçant une activité non salariée relevant du régime des travailleurs
+indépendants et ce, quel que soit le public auquel ils s'adressent.

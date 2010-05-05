@@ -1,9 +1,11 @@
 Article L641-22
 ----
-Les vins de table qui répondent aux conditions fixées par la réglementation en
-vigueur en ce qui concerne les vins de pays, et qui sont produits à l'intérieur
-d'un département ou de zones déterminées par décret peuvent, si leur qualité et
-leur notoriété le justifient, être classés soit dans la catégorie des vins à
-appellation d'origine contrôlée, soit dans celle des vins délimités de qualité
-supérieure, dans les conditions définies par les dispositions législatives et
-réglementaires applicables à chacune de ces catégories.
+Afin de s'assurer du respect des conditions de production des vins de pays, le
+récoltant qui destine la récolte d'une parcelle à la production d'un tel vin
+peut être tenu d'en faire la déclaration dans des conditions et selon des
+modalités fixées par décret.
+
+Pour les parcelles aptes à produire à la fois des vins de pays et des vins
+d'appellation d'origine contrôlée, une même récolte ne peut à la fois faire
+l'objet de la déclaration prévue à l'alinéa précédent et d'une des déclarations
+mentionnées au cinquième alinéa de l'article L. 641-6.

@@ -12,6 +12,10 @@ commission départementale des sites, perspectives et paysages. Cet accord est
 refusé si les constructions ou installations sont de nature à porter atteinte à
 l'environnement ou aux paysages.
 
+Les dispositions du premier alinéa ne font pas obstacle à la réalisation de
+travaux de mise aux normes des exploitations agricoles, à condition que les
+effluents d'origine animale ne soient pas accrus.
+
 II - L'extension limitée de l'urbanisation des espaces proches du rivage ou des
 rives des plans d'eau intérieurs désignés à l'article 2 de la loi n° 86-2 du 3
 janvier 1986 précitée doit être justifiée et motivée, dans le plan local
@@ -49,3 +53,7 @@ liés à la sensibilité des milieux ou à l'érosion des côtes le justifient.
 IV - Les dispositions des paragraphes II et III ci-dessus s'appliquent aux rives
 des estuaires les plus importants, dont la liste est fixée par décret en Conseil
 d'Etat.
+
+V. - Les dispositions des II et III ne s'appliquent pas aux rives des étiers et
+des rus, en amont d'une limite située à l'embouchure et fixée par l'autorité
+administrative dans des conditions définies par un décret en Conseil d'Etat.

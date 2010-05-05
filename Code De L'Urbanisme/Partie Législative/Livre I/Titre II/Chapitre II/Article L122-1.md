@@ -38,6 +38,13 @@ l'urbanisation de zones naturelles ou agricoles et les extensions urbaines à la
 création de dessertes en transports collectifs et à l'utilisation préalable de
 terrains situés en zone urbanisée et desservis par les équipements.
 
+Lorsqu'ils comprennent une ou des communes littorales, ils peuvent comporter un
+chapitre individualisé valant schéma de mise en valeur de la mer tel que défini
+par l'article 57 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition
+de compétences entre les communes, les départements, les régions et l'Etat, à
+condition que celui-ci ait été approuvé selon les modalités définies au présent
+chapitre.
+
 Les schémas de cohérence territoriale prennent en compte les programmes
 d'équipement de l'Etat, des collectivités locales et des établissements et
 services publics. Ils doivent être compatibles avec les chartes des parcs
@@ -51,6 +58,12 @@ les schémas d'aménagement et de gestion des eaux en application de l'article L
 d'un schéma de cohérence territoriale, ce dernier doit, si nécessaire, être
 rendu compatible dans un délai de trois ans.
 
+En zone de montagne, les schémas de cohérence territoriale définissent la
+localisation, la consistance et la capacité globale d'accueil et d'équipement
+des unités touristiques nouvelles mentionnées au I de l'article L. 145-11 et les
+principes d'implantation et la nature des unités touristiques nouvelles
+mentionnées au II du même article.
+
 Lorsque le périmètre d'un schéma de cohérence territoriale recouvre en tout ou
 partie celui d'un pays ayant fait l'objet d'une publication par arrêté
 préfectoral, le projet d'aménagement et de développement durable du schéma de
@@ -62,9 +75,10 @@ détaillent et en précisent le contenu.
 
 Les programmes locaux de l'habitat, les plans de déplacements urbains, les
 schémas de développement commercial, les plans locaux d'urbanisme, les plans de
-sauvegarde et de mise en valeur, les cartes communales, les opérations foncières
+sauvegarde et de mise en valeur, les cartes communales, la délimitation des
+périmètres d'intervention prévus à l'article L. 143-1, les opérations foncières
 et les opérations d'aménagement définies par décret en Conseil d'Etat doivent
 être compatibles avec les schémas de cohérence territoriale et les schémas de
-secteur. Il en est de même pour les autorisations prévues par les articles 29 et
-36-1 de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de
-l'artisanat.
+secteur. Il en est de même pour les autorisations prévues par l'article L. 720-5
+du code de commerce et l'article 36-1 de la loi n° 73-1193 du 27 décembre 1973
+d'orientation du commerce et de l'artisanat.

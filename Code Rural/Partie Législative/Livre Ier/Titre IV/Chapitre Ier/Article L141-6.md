@@ -9,5 +9,5 @@ pour un tiers au moins de leurs membres, de représentants des conseils
 régionaux, généraux et municipaux de leur zone d'action. Lorsqu'une société
 d'aménagement foncier et d'établissement rural s'est constituée sous la forme
 d'une société anonyme, ses statuts peuvent prévoir, par dérogation à l'article
-L. 225-17 du code de commerce, de porter jusqu'à dix-huit le nombre de membres
-du conseil d'administration.
+L. 225-17 du code de commerce, de porter jusqu'à vingt-quatre le nombre de
+membres du conseil d'administration.

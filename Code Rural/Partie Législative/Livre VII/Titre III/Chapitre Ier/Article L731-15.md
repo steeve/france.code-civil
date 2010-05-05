@@ -6,7 +6,12 @@ les cotisations sont dues.
 
 Ces revenus s'entendent des revenus nets professionnels retenus pour le calcul
 de l'impôt sur le revenu, éventuellement minorés de la déduction prévue au
-cinquième alinéa de l'article L. 731-14, ou, le cas échéant, de leur somme.
+cinquième alinéa de l'article L. 731-14, ou, le cas échéant, de leur somme. La
+dotation d'installation en capital accordée aux jeunes agriculteurs ainsi que le
+montant de la différence entre l'indemnité versée en compensation de l'abattage
+total ou partiel de troupeaux en application des articles L. 221-2 ou L. 234-4
+et la valeur en stock ou en compte d'achats des animaux abattus sont exclus de
+ces revenus.
 
 Il n'est pas tenu compte des reports déficitaires, des plus-values et
 moins-values professionnelles à long terme et des modalités d'assiette qui
@@ -16,19 +21,3 @@ Les revenus mentionnés aux alinéas précédents sont majorés des déductions 
 abattements qui ne correspondent pas à des dépenses nécessitées par l'exercice
 de la profession, à l'exception de la déduction opérée en application de
 l'article 72 D ou de l'article 72 D bis du code général des impôts.
-
-Lorsqu'ils ont opté pour les dispositions de l'article 75-0 D du code général
-des impôts, les chefs d'exploitation ou d'entreprise agricole peuvent, sur leur
-demande, bénéficier de la mesure d'étalement prévue au premier alinéa de cet
-article au titre des revenus professionnels servant à calculer les cotisations
-sociales des personnes non salariées agricoles.
-
-Au titre des revenus professionnels servant à calculer les cotisations sociales
-des personnes non salariées agricoles, la différence entre l'indemnité attribuée
-en compensation de l'abattage d'un troupeau réalisé dans le cadre de la lutte
-contre l'encéphalopathie spongiforme bovine et la valeur en stock ou en compte
-d'achats des animaux abattus peut être prise en compte, sur leur demande, pour
-les chefs d'exploitation ou d'entreprise agricole qui ont opté pour les
-dispositions de l'article 75-0 D du code général des impôts, dans les conditions
-prévues au premier alinéa de cet article et selon les mêmes modalités
-d'application.

@@ -19,7 +19,13 @@ continuer d'exploiter dès lors que l'exploitation en cause a une superficie
 supérieure au seuil fixé ci-dessus. Dans ce cas, l'autorisation peut être
 accordée à titre provisoire pour une durée qui ne saurait excéder deux ans, afin
 de leur permettre, le cas échéant, de remettre leur exploitation en conformité
-avec les prescriptions du schéma directeur départemental des structures ;
+avec les prescriptions du schéma directeur départemental des structures.
+
+La constitution d'une société n'est toutefois pas soumise à autorisation
+préalable, lorsqu'elle résulte de la transformation sans autre modification
+d'une exploitation individuelle détenue par une personne physique qui en devient
+associé exploitant ou lorsqu'elle résulte de l'apport d'exploitations
+individuelles détenues par deux époux qui en deviennent les associés ;
 
 2° Quelle que soit la superficie en cause, les installations, les
 agrandissements ou les réunions d'exploitations agricoles ayant pour conséquence

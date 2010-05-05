@@ -30,15 +30,24 @@ sont sanctionnées par des diplômes d'Etat ou des diplômes nationaux reconnus
 et professionnel.
 
 Chaque établissement privé d'enseignement et de formation professionnelle
-agricoles établit un projet d'établissement. Celui-ci définit les modalités
-particulières de mise en oeuvre des programmes et référentiels nationaux
-mentionnés à l'article L. 811-2 ainsi que les actions relevant de l'autonomie
-pédagogique de l'établissement. Il comporte une partie relative à l'évolution
-des structures pédagogiques.
+agricoles établit un projet d'établissement qui définit les modalités
+particulières de sa contribution à la mise en oeuvre des missions de
+l'enseignement et de la formation professionnelle agricoles mentionnées à
+l'article L. 813-1. Le projet d'établissement est établi dans le respect du
+schéma prévisionnel national des formations de l'enseignement agricole mentionné
+à l'article L. 814-2, du schéma prévisionnel régional des formations mentionné à
+l'article L. 214-1 du code de l'éducation, du plan régional de développement des
+formations professionnelles mentionné à l'article L. 214-13 du même code et des
+programmes et référentiels nationaux mentionnés à l'article L. 811-2 du présent
+code. Il est défini en cohérence avec le projet régional de l'enseignement
+agricole mentionné à l'article L. 814-4 du présent code. Il définit les
+modalités de la participation de l'établissement au développement des
+territoires dans lesquels celui-ci s'insère.
 
-Le projet d'établissement est élaboré et adopté dans les conditions prévues par
-l'article 18 de la loi n° 89-486 du 10 juillet 1989 précitée pour une durée de
-trois à cinq ans.
+Le projet d'établissement est élaboré sous la responsabilité du chef
+d'établissement. Il est adopté par le conseil d'administration de l'association
+ou organisme responsable de l'établissement dans les conditions prévues par
+l'article L. 421-5 du code de l'éducation pour une durée de trois à cinq ans.
 
 La mise en oeuvre du projet d'établissement fait l'objet d'une évaluation dans
 des conditions fixées par le ministre de l'agriculture.

@@ -16,6 +16,11 @@ pédagogique qui assurent l'adaptation et la formation aux réalités pratiques,
 techniques et économiques, et qui contribuent à la démonstration, à
 l'expérimentation et à la diffusion des techniques nouvelles.
 
+Les personnels, autres que le directeur, recrutés pour exercer leurs fonctions
+dans les ateliers technologiques ou exploitations agricoles mentionnés au 3°
+sont des salariés de droit privé qui sont régis par les dispositions du livre
+VII du présent code ou par celles du code du travail.
+
 Dans un délai de cinq ans à compter de la promulgation de la loi n° 99-574 du 9
 juillet 1999 d'orientation agricole, les lycées d'enseignement général et
 technologique agricoles et les lycées professionnels agricoles prennent la forme
@@ -31,15 +36,25 @@ En application des articles L. 312-6 et L. 312-7 du code de l'éducation, des
 enseignements artistiques sont dispensés, à titre obligatoire ou facultatif,
 dans les établissements publics d'enseignement mentionnés au présent article.
 
-Chaque établissement public local d'enseignement et de formation établit un
-projet d'établissement. Celui-ci définit les modalités particulières de mise en
-oeuvre des programmes et référentiels nationaux mentionnés à l'article L. 811-2
-du présent code ainsi que les actions relevant de l'autonomie pédagogique de
-l'établissement. Il comporte une partie relative à l'évolution des structures
-pédagogiques.
+Chaque établissement public local d'enseignement et de formation professionnelle
+agricoles établit un projet d'établissement qui définit les modalités
+particulières de sa contribution à la mise en oeuvre des missions de
+l'enseignement et de la formation professionnelle agricoles publics mentionnées
+à l'article L. 811-1. Le projet d'établissement est établi dans le respect du
+schéma prévisionnel national des formations de l'enseignement agricole mentionné
+à l'article L. 814-2, du schéma prévisionnel régional des formations mentionné à
+l'article L. 214-1 du code de l'éducation, du plan régional de développement des
+formations professionnelles mentionné à l'article L. 214-13 du même code et des
+programmes et référentiels nationaux mentionnés à l'article L. 811-2 du présent
+code. Il est défini en cohérence avec le projet régional de l'enseignement
+agricole mentionné à l'article L. 814-4 du présent code. Il définit les
+modalités de la participation de l'établissement au développement des
+territoires dans lesquels celui-ci s'insère.
 
-Le projet d'établissement est élaboré et adopté dans les conditions prévues par
-l'article L. 421-5 du code de l'éducation pour une durée de trois à cinq ans.
+Le projet d'établissement est élaboré sous la responsabilité du chef
+d'établissement. Il est adopté par le conseil d'administration de
+l'établissement dans les conditions prévues par l'article L. 421-5 du code de
+l'éducation pour une durée de trois à cinq ans.
 
 La mise en oeuvre du projet d'établissement fait l'objet d'une évaluation dans
 des conditions fixées par le ministre de l'agriculture.

@@ -15,11 +15,16 @@ ruissellements dans des secteurs situés en aval ;
 2° Créer ou restaurer des zones de mobilité du lit mineur d'un cours d'eau en
 amont des zones urbanisées dans des zones dites "zones de mobilité d'un cours
 d'eau", afin de préserver ou de restaurer ses caractères hydrologiques et
-géomorphologiques essentiels.
+géomorphologiques essentiels ;
 
-III. - Les zones soumises à ces servitudes sont délimitées par arrêté
-préfectoral. Celui-ci est pris après enquête publique menée conformément au code
-de l'expropriation pour cause d'utilité publique.
+3° Préserver ou restaurer des zones humides dites "zones stratégiques pour la
+gestion de l'eau" délimitées en application de l'article L. 212-5.
+
+III. - Les zones soumises aux servitudes visées aux 1° et 2° du II sont
+délimitées par arrêté préfectoral. Celui-ci est pris après enquête publique
+menée conformément au code de l'expropriation pour cause d'utilité publique. Les
+zones soumises aux servitudes visées au 3° du II sont délimitées conformément à
+l'article L. 212-5.
 
 IV. - Dans les zones de rétention temporaire des eaux de crues ou de
 ruissellement mentionnées au 1° du II, l'arrêté préfectoral peut obliger les
@@ -86,6 +91,12 @@ d'urbanisme recueille l'accord du préfet qui dispose d'un délai de deux mois �
 compter de la réception de la déclaration ou de la demande d'autorisation pour
 s'opposer à l'exécution des travaux ou prescrire les modifications nécessaires.
 Les travaux ne peuvent commencer avant l'expiration de ce délai.
+
+V bis - Dans les zones humides dites "zones stratégiques pour la gestion de
+l'eau" mentionnées au 3° du II, le préfet peut par arrêté obliger les
+propriétaires et les exploitants à s'abstenir de tout acte de nature à nuire à
+la nature et au rôle ainsi qu'à l'entretien et à la conservation de la zone,
+notamment le drainage, le remblaiement on le retournement de prairie.
 
 VI. - L'arrêté préfectoral peut identifier, le cas échéant, les éléments
 existants ou manquants faisant obstacle à l'objet de la servitude, dont la

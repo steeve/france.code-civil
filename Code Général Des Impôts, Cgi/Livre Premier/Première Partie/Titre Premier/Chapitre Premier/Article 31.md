@@ -88,9 +88,11 @@ e) Une déduction forfaitaire fixée à 14 % des revenus bruts et représentant 
 frais de gestion, l'assurance à l'exclusion de celle visée au a bis et
 l'amortissement. Lorsque l'une des options prévues au f, g et h et à l'article
 31 bis est exercée, la déduction, fixée à 6 p. 100, représente les frais de
-gestion et l'assurance à l'exclusion de celle visée au a bis. La déduction
-forfaitaire au taux de 14 % est de nouveau applicable à l'expiration de
-l'application des régimes visés aux g et h et à l'article 31 bis.
+gestion et l'assurance à l'exclusion de celle visée au a bis. Elle est fixée à
+40 % pour les loyers des logements situés en zone de revitalisation rurale,
+lorsque l'option prévue au h est exercée (1). La déduction forfaitaire au taux
+de 14 % est de nouveau applicable à l'expiration de l'application des régimes
+visés aux g et h et à l'article 31 bis.
 
 Le taux de déduction mentionné au premier alinéa est fixé à 40 % pour les
 revenus des six premières années de location des logements qui ne peuvent donner

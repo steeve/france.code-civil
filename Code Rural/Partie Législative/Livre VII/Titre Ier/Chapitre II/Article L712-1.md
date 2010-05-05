@@ -7,7 +7,7 @@ les parties qui leur sont respectivement destinées du document appelé "titre
 emploi simplifié agricole" est réputé satisfaire aux obligations prévues par les
 articles L. 122-3-1, L. 143-3, L. 212-4-3 et L. 320 du code du travail, et les
 articles L. 722-25, L. 741-3, L. 741-5 à L. 741-14, ainsi qu'aux déclarations au
-titre de la médecine du travail et du régime des prestations mentionnées à
+titre du service de santé au travail et du régime des prestations mentionnées à
 l'article L. 351-2 du code du travail.
 
 L'inscription sur le registre unique du personnel est réputée accomplie lorsque
