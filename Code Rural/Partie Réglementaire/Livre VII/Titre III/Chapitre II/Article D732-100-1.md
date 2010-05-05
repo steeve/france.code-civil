@@ -5,5 +5,5 @@ compter du 1er janvier 2010. Ce montant est revalorisé aux dates et dans les
 conditions prévues pour les pensions de vieillesse par l'article L. 161-23-1 du
 code de la sécurité sociale.
 
-La majoration prévue à l'article L. 732-51-1 du code rural est égale à 11, 1 %
-de la pension de réversion.
+La majoration prévue à l'article L. 732-51-1 du code rural et de la pêche
+maritime est égale à 11, 1 % de la pension de réversion.

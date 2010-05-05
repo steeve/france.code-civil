@@ -10,7 +10,8 @@ Cette redevance est due par :
 2 (Abrogé) ;
 
 3 Les centres de collecte ou les établissements de transformation recevant du
-lait cru titulaires de l'agrément prévu à l'article L233-2 du code rural.
+lait cru titulaires de l'agrément prévu à l'article L233-2 du code rural et de
+la pêche maritime.
 
 La redevance est assise sur le volume de lait cru introduit dans le centre ou
 l'établissement.
@@ -19,7 +20,7 @@ Le fait générateur est constitué par l'introduction du lait cru dans le centr
 ou l'établissement ;
 
 4 Les établissements de fabrication ou de traitement d'ovoproduits ayant reçu
-l'agrément prévu à l'article L233-2 du code rural.
+l'agrément prévu à l'article L233-2 du code rural et de la pêche maritime.
 
 La redevance est assise sur le poids d'oeufs de poule en coquille introduits
 dans ces établissements.
@@ -37,7 +38,7 @@ l'agriculture fixe les taux de la redevance.
 
 Le taux de la redevance applicable aux ovoproduits est fixé, par arrêté conjoint
 du ministre chargé du budget et duministre chargé de l'agriculture, dans la
-limite de 0,76 euro par tonne d'oeufs en coquille.
+limite de 0,76 € par tonne d'oeufs en coquille.
 
 III. - La redevance est recouvrée et contrôlée selon les mêmes procédures et
 sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la

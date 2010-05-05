@@ -3,7 +3,8 @@ Article L312-6
 Des enseignements artistiques obligatoires sont dispensés dans les écoles
 élémentaires et les collèges et dans les classes correspondantes des
 établissements d'éducation spéciale, des lycées professionnels maritimes et des
-établissements d'enseignement agricole visés à l'article L. 811-8 du code rural.
+établissements d'enseignement agricole visés à l'article L. 811-8 du code rural
+et de la pêche maritime.
 
 Ces enseignements comportent au moins un enseignement de la musique et un
 enseignement des arts plastiques. Ils ont pour objet une initiation à l'histoire

@@ -2,12 +2,12 @@ Article L6148-2
 ----
 Un bien immobilier appartenant à un établissement public de santé ou à une
 structure de coopération sanitaire dotée de la personnalité morale publique peut
-faire l'objet d'un bail emphytéotique prévu à l'article L. 451-1 du code rural,
-en vue de l'accomplissement, pour le compte de l'établissement ou de la
-structure, d'une mission concourant à l'exercice du service public dont ils sont
-chargés ou en vue de la réalisation d'une opération d'intérêt général relevant
-de leur compétence. Ce bail emphytéotique est dénommé bail emphytéotique
-administratif.
+faire l'objet d'un bail emphytéotique prévu à l'article L. 451-1 du code rural
+et de la pêche maritime, en vue de l'accomplissement, pour le compte de
+l'établissement ou de la structure, d'une mission concourant à l'exercice du
+service public dont ils sont chargés ou en vue de la réalisation d'une opération
+d'intérêt général relevant de leur compétence. Ce bail emphytéotique est dénommé
+bail emphytéotique administratif.
 
 Un tel bail peut être conclu même si le bien sur lequel il porte, en raison
 notamment de l'affectation du bien résultant soit du bail ou d'une convention

@@ -1,19 +1,19 @@
 Article Annexe I à l'article L813-8
 ----
-Entre le ministre de l'agriculture, ou son délégué, ... (monsieur) (madame),
-d'une part, et ... (monsieur) (madame), président ou représentant de
-l'association ou l'organisme responsable de l'établissement ..., d'autre part,
-il a été convenu ce qui suit :
+Entre le ministre de l'agriculture, ou son délégué,... (monsieur) (madame),
+d'une part, et... (monsieur) (madame), président ou représentant de
+l'association ou l'organisme responsable de l'établissement..., d'autre part, il
+a été convenu ce qui suit :
 
 
 Article 1er
 
 Un contrat de participation au service public d'éducation et de formation est
-conclu entre l'Etat et ... (nom de l'association ou de l'organisme) responsable
-de ... (nom, localisation principale et annexes éventuelles de l'établissement).
+conclu entre l'Etat et... (nom de l'association ou de l'organisme) responsable
+de... (nom, localisation principale et annexes éventuelles de l'établissement).
 
 Le présent contrat est expressément régi par le chapitre III du titre Ier du
-livre VIII du code rural.
+livre VIII du code rural et de la pêche maritime.
 
 
 Article 2
@@ -24,13 +24,13 @@ qui constituent la structure pédagogique du secteur sous contrat de
 l'établissement.
 
 Pour assurer la charge d'enseignement correspondant à ces formations et classes,
-le ministre de l'agriculture affecte à l'établissement ... (n) emplois à
-pourvoir par des enseignants contractuels (par discipline ou groupe de
-disciplines et par niveau).
+le ministre de l'agriculture affecte à l'établissement... (n) emplois à pourvoir
+par des enseignants contractuels (par discipline ou groupe de disciplines et par
+niveau).
 
 Pour assurer la charge de documentation correspondant à ces mêmes formations et
-classes, le ministre de l'agriculture affecte à l'établissement ... (n) emplois
-à pourvoir par des enseignants contractuels chargés de documentation.
+classes, le ministre de l'agriculture affecte à l'établissement... (n) emplois à
+pourvoir par des enseignants contractuels chargés de documentation.
 
 
 Article 3
@@ -48,7 +48,7 @@ agricole.
 Si des activités non prévues dans les programmes nationaux ont lieu dans
 l'établissement, elles seront placées à des heures telles que les élèves majeurs
 et les élèves dont la famille ne souhaite pas qu'ils y participent ne soient ni
-contraints de les suivre, ni laissés sans surveillance ou dans l'oisiveté. A cet
+contraints de les suivre, ni laissés sans surveillance ou dans l'oisiveté.A cet
 effet, l'avis des familles ou des élèves majeurs sera recueilli.
 
 
@@ -145,7 +145,7 @@ Le chef d'établissement est tenu d'exiger des enseignants contractuels
 l'intégralité du service correspondant à la rétribution qu'ils perçoivent sans
 dépasser le maximum exigible en application du décret n° 89-406 du 20 juin 1989
 relatif aux contrats liant l'Etat et les enseignants des établissements
-mentionnés à l'article L. 813-8 du code rural.
+mentionnés à l'article L. 813-8 du code rural et de la pêche maritime.
 
 En vue d'assurer la régularité du service dans les classes qui font l'objet du
 contrat, le chef d'établissement doit tenir un registre journalier des présences
@@ -172,7 +172,7 @@ Article 12
 
 Un état des effectifs de chaque classe, certifié par le chef d'établissement,
 est adressé dans la première quinzaine du premier trimestre au directeur
-régional de l'agriculture et de la forêt. L'état doit préciser les formations
+régional de l'agriculture et de la forêt.L'état doit préciser les formations
 dans lesquelles sont inscrits les élèves et leur régime de scolarité (internes,
 externes, demi-pensionnaires ou internes-externes).
 
@@ -188,16 +188,16 @@ renseignements contenus dans les annexes jointes et s'engage à fournir les
 justificatifs correspondants ainsi que les mises à jour annuelles ou
 circonstancielles :
 
-Annexe I. - Effectifs d'élèves par classe.
+Annexe I.-Effectifs d'élèves par classe.
 
-Annexe II. - Etat nominatif des enseignants.
+Annexe II.-Etat nominatif des enseignants.
 
-Annexe III. - Organisation du service de l'enseignement (emploi du temps des
+Annexe III.-Organisation du service de l'enseignement (emploi du temps des
 élèves et des enseignants).
 
-Annexe IV. - Plan de formation des enseignants contractuels.
+Annexe IV.-Plan de formation des enseignants contractuels.
 
-Annexe V. - Montant des contributions et des redevances demandées aux familles.
+Annexe V.-Montant des contributions et des redevances demandées aux familles.
 
 
 Article 14
@@ -205,7 +205,8 @@ Article 14
 Le président de l'association ou de l'organisme s'engage à faire connaître au
 directeur régional de l'agriculture et de la forêt, dans le mois qui la suit,
 toute modification se rapportant aux points 1°, 3°, 4°, 5° et 6° de l'article R.
-813-3 du code rural, accompagnée des justificatifs correspondants.
+813-3 du code rural et de la pêche maritime, accompagnée des justificatifs
+correspondants.
 
 Au vu de la modification déclarée, le ministre ou son délégué peut mettre en
 demeure l'association ou l'organisme de demander la passation d'un avenant au
@@ -238,9 +239,9 @@ Article 17
 
 Le présent contrat est conclu pour une durée indéterminée.
 
-Il prend effet à la date du ....
+Il prend effet à la date du....
 
-Fait à ..., le ....
+Fait à..., le....
 
-Le ministre de l'agriculture (ou son délégué), M. ..., représentant légal de
+Le ministre de l'agriculture (ou son délégué), M...., représentant légal de
 l'association (ou l'organisme responsable) de l'établissement.

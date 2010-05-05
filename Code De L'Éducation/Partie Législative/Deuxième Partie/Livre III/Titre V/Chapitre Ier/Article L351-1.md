@@ -3,13 +3,13 @@ Article L351-1
 Les enfants et adolescents présentant un handicap ou un trouble de santé
 invalidant sont scolarisés dans les écoles maternelles et élémentaires et les
 établissements visés aux articles L. 213-2, L. 214-6, L. 422-1, L. 422-2 et L.
-442-1 du présent code et aux articles L. 811-8 et L. 813-1 du code rural, si
-nécessaire au sein de dispositifs adaptés, lorsque ce mode de scolarisation
-répond aux besoins des élèves. Les parents sont étroitement associés à la
-décision d'orientation et peuvent se faire aider par une personne de leur choix.
-La décision est prise par la commission mentionnée à l'article L. 146-9 du code
-de l'action sociale et des familles, en accord avec les parents ou le
-représentant légal. A défaut, les procédures de conciliation et de recours
+442-1 du présent code et aux articles L. 811-8 et L. 813-1 du code rural et de
+la pêche maritime, si nécessaire au sein de dispositifs adaptés, lorsque ce mode
+de scolarisation répond aux besoins des élèves. Les parents sont étroitement
+associés à la décision d'orientation et peuvent se faire aider par une personne
+de leur choix. La décision est prise par la commission mentionnée à l'article L.
+146-9 du code de l'action sociale et des familles, en accord avec les parents ou
+le représentant légal. A défaut, les procédures de conciliation et de recours
 prévues aux articles L. 146-10 et L. 241-9 du même code s'appliquent. Dans tous
 les cas et lorsque leurs besoins le justifient, les élèves bénéficient des aides
 et accompagnements complémentaires nécessaires.

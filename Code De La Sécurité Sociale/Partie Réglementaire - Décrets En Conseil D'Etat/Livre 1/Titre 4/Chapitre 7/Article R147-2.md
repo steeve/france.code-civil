@@ -66,7 +66,7 @@ personne dans les meilleur délais ;
 2° Soit décider de poursuivre la procédure, auquel cas il dispose d'un délai
 d'un mois pour notifier la pénalité à la personne en cause par une décision
 motivée et par tout moyen permettant de rapporter la preuve de la date de
-réception. Il en adresse une copie à la commission à titre d'information.A
+réception. Il en adresse une copie à la commission à titre d'information. A
 défaut de notification dans le délai d'un mois précité, la procédure est réputée
 abandonnée.
 
@@ -92,8 +92,9 @@ L'action se prescrit selon les modalités prévues aux articles 2224 et suivants
 du code civil.
 
 Les dispositions du III et du IV de l'article R. 133-9-1 du présent code et des
-articles R. 725-8 à R. 725-10 du code rural sont applicables pour le
-recouvrement des pénalités non acquittées mentionnées à l'article L. 162-1-14.
+articles R. 725-8 à R. 725-10 du code rural et de la pêche maritime sont
+applicables pour le recouvrement des pénalités non acquittées mentionnées à
+l'article L. 162-1-14.
 
 IV.-Lorsque l'un des courriers mentionnés au premier alinéas du I, et aux
 troisième et cinquième alinéas du III est présenté par un agent assermenté

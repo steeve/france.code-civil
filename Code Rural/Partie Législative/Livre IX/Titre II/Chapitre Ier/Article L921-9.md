@@ -1,6 +1,15 @@
 Article L921-9
 ----
-Le ministre chargé de l'agriculture peut attribuer à des agents mentionnés aux
-articles L. 921-5 et L. 921-6 et nommément désignés une compétence territoriale
-débordant des limites du département où ils sont affectés et pouvant être
-étendue à la totalité du territoire national.
+Dans les eaux maritimes placées sous souveraineté ou juridiction française, les
+activités de pêche maritime sont, sous réserve des dispositions du traité sur le
+fonctionnement de l'Union européenne et des textes pris pour son application,
+interdites aux navires battant pavillon d'un Etat étranger.
+
+Par dérogation au premier alinéa, des autorisations de pêche à bord des navires
+battant pavillon d'Etats étrangers peuvent être délivrées :
+
+a) Dans les conditions prévues par le traité sur le fonctionnement de l'Union
+européenne et les règlements pris pour son application ;
+
+b) En application des accords internationaux passés par l'Union européenne ou la
+France dans les limites de leur application.

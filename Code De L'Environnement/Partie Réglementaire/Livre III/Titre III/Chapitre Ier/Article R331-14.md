@@ -1,13 +1,13 @@
 Article R331-14
 ----
-I. - Les documents qui, en application du quatrième alinéa du III de l'article
-L. 331-3, doivent être compatibles ou rendus compatibles, dans un délai de trois
+I.-Les documents qui, en application du quatrième alinéa du III de l'article L.
+331-3, doivent être compatibles ou rendus compatibles, dans un délai de trois
 ans à compter de l'approbation de la charte s'ils sont antérieurs à celle-ci,
 avec les objectifs de protection définis par cette dernière pour le coeur du
 parc sont les suivants :
 
 1° Le document de gestion de l'espace agricole et forestier prévu par l'article
-L. 112-1 du code rural ;
+L. 112-1 du code rural et de la pêche maritime ;
 
 2° Le schéma départemental de vocation piscicole prévu par l'article L. 433-2 du
 présent code ;
@@ -72,10 +72,10 @@ l'article L. 131-7 du code du tourisme ;
 83-8 du 7 janvier 1983 modifiée relative à la répartition de compétences entre
 les communes, les départements, les régions et l'Etat.
 
-II. - Lorsque les projets de ces documents sont soumis pour avis à
-l'établissement public du parc national en application du troisième alinéa du
-III de l'article L. 331-3 du présent code, ils sont accompagnés du rapport
-environnemental prévu par l'article R. 122-20 s'il est requis.
+II.-Lorsque les projets de ces documents sont soumis pour avis à l'établissement
+public du parc national en application du troisième alinéa du III de l'article
+L. 331-3 du présent code, ils sont accompagnés du rapport environnemental prévu
+par l'article R. 122-20 s'il est requis.
 
 L'absence de réponse de l'établissement dans le délai de deux mois à dater de la
 réception de la demande d'avis vaut avis favorable.

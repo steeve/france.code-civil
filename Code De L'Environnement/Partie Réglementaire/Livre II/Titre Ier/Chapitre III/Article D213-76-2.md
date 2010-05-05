@@ -8,11 +8,11 @@ est souscrite :
 
 1° Pour la redevance pour pollutions diffuses mentionnée à l'article L.
 213-10-8, par tout distributeur agréé en application de l'article L. 254-1 du
-code rural et faisant l'objet d'une immatriculation en tant qu'établissement
-principal au registre du commerce et des sociétés. Le distributeur agréé établit
-une seule déclaration pour l'ensemble de ses établissements secondaires au sens
-de l'article R. 123-40 du code de commerce situés dans le ressort de l'office de
-l'eau.
+code rural et de la pêche maritime et faisant l'objet d'une immatriculation en
+tant qu'établissement principal au registre du commerce et des sociétés. Le
+distributeur agréé établit une seule déclaration pour l'ensemble de ses
+établissements secondaires au sens de l'article R. 123-40 du code de commerce
+situés dans le ressort de l'office de l'eau.
 
 Les distributeurs commercialisant exclusivement des produits portant la mention
 emploi autorisé dans les jardins adressent leur déclaration à l'agence de l'eau

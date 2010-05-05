@@ -46,7 +46,7 @@ b) De substances et produits biocides régis par le titre II du livre V du
 présent code ;
 
 c) De produits phytopharmaceutiques régis par les dispositions du chapitre III
-du titre V du livre II du code rural ;
+du titre V du livre II du code rural et de la pêche maritime ;
 
 8° Le transport terrestre, maritime ou aérien ainsi que la manutention portuaire
 des marchandises dangereuses ou polluantes régis par :

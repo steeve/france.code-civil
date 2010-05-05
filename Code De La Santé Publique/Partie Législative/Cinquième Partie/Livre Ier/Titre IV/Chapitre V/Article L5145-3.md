@@ -12,4 +12,4 @@ diffusion d'un rectificatif ;
 3° Retirer l'autorisation de publicité en faveur de médicaments présentés comme
 favorisant le diagnostic, la prévention ou le traitement de maladies
 contagieuses figurant à la nomenclature prévue à l'article L. 223-2 du code
-rural.
+rural et de la pêche maritime.

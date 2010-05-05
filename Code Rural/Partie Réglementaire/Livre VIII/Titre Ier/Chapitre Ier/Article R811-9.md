@@ -7,7 +7,7 @@ unités de production à vocation pédagogique.
 L'exploitation agricole est une unité de production de matières premières,
 vendues en l'état ou après première transformation, qui assure à ce titre les
 fonctions économiques, environnementales et sociales prévues à l'article L.
-311-1 du code rural.
+311-1 du code rural et de la pêche maritime.
 
 L'atelier technologique est une unité de traitement, de transformation et de
 vente de produits obtenus à partir de matières premières agricoles introduites

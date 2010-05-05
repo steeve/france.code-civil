@@ -7,18 +7,18 @@ risques ou des engagements situés sur le territoire d'un Etat membre de la
 Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique
 européen, à une ou plusieurs des mutuelles ou unions régies par le présent code,
 à une ou plusieurs des institutions de prévoyance régies par le code de la
-sécurité sociale ou l'article L. 727-2 du code rural, et à une ou plusieurs des
-entreprises d'assurance régies par le code des assurances ou dont l'Etat
-d'origine est membre de la Communauté européenne ou partie à l'accord sur
-l'Espace économique européen. Elles peuvent également être autorisées à
-effectuer ces transferts auprès des succursales des organismes visés ci-dessus
-et établies sur le territoire d'un Etat membre de la Communauté européenne ou
-d'un Etat partie à l'accord sur l'Espace économique européen. Elles peuvent
-également être autorisées à effectuer ces transferts auprès d'entreprises
-d'assurance dont le siège est établi dans un Etat qui n'est pas partie à
-l'accord sur l'Espace économique européen mais dont la succursale est établie et
-agréée dans l'Etat du risque ou de l'engagement, membre de la Communauté
-européenne ou partie à l'accord sur l'Espace économique européen.
+sécurité sociale ou l'article L. 727-2 du code rural et de la pêche maritime, et
+à une ou plusieurs des entreprises d'assurance régies par le code des assurances
+ou dont l'Etat d'origine est membre de la Communauté européenne ou partie à
+l'accord sur l'Espace économique européen. Elles peuvent également être
+autorisées à effectuer ces transferts auprès des succursales des organismes
+visés ci-dessus et établies sur le territoire d'un Etat membre de la Communauté
+européenne ou d'un Etat partie à l'accord sur l'Espace économique européen.
+Elles peuvent également être autorisées à effectuer ces transferts auprès
+d'entreprises d'assurance dont le siège est établi dans un Etat qui n'est pas
+partie à l'accord sur l'Espace économique européen mais dont la succursale est
+établie et agréée dans l'Etat du risque ou de l'engagement, membre de la
+Communauté européenne ou partie à l'accord sur l'Espace économique européen.
 
 Dans tous les cas, le nouvel assureur doit respecter les garanties concernant
 les activités transférées, telles que la mutuelle ou l'union les avaient

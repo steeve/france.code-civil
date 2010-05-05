@@ -1,32 +1,30 @@
 Article L942-4
 ----
-Le conseil régional de l'ordre dresse, chaque année et pour chaque département
-compris dans son ressort, le tableau des vétérinaires qui remplissent les
-conditions fixées à l'article L. 941-1 et des sociétés civiles professionnelles
-de vétérinaires qui remplissent les conditions fixées à l'article L. 941-14. Ce
-tableau est déposé à la préfecture ainsi qu'au parquet du tribunal compétent de
-l'ordre judiciaire du chef-lieu de chacun des départements de la région ; il
-est, en outre, affiché dans toutes les communes du département.
+Après avoir informé du lieu de leur déplacement le procureur de la République,
+qui peut s'y opposer, les agents mentionnés au I de l'article L. 942-1 peuvent
+procéder à la recherche et la constatation des infractions prévues et réprimées
+par le présent livre :
 
-L'inscription au tableau de l'ordre doit être demandée par les intéressés,
-agissant à titre personnel ou en qualité de membres d'une société civile
-professionnelle, au conseil de l'ordre de la région dans laquelle ils se
-proposent d'exercer leur profession. La demande doit être accompagnée du
-diplôme, titre ou certificat permettant l'exercice de la profession vétérinaire
-en original ou en copie certifiée conforme.
+1° A toutes heures à bord des navires ou engins flottants ;
 
-Le conseil régional de l'ordre doit statuer dans un délai maximum de deux mois à
-compter de la demande, après vérification des titres du demandeur ou, s'agissant
-d'une société civile professionnelle, des demandeurs. Ce délai est prolongé
-lorsqu'il est indispensable de procéder à une enquête hors du territoire
-national. L'inscription ne peut être refusée que par décision motivée.
+2° A toutes heures dans les halles à marée ;
 
-Le refus d'inscription au tableau de l'ordre ouvre droit à recours dans les
-conditions prévues à l'article L. 942-8.
+3° Entre huit heures et vingt heures dans tous les locaux ou installations à
+usage professionnel et à bord des moyens de transport utilisés pour l'exercice
+des professions relatives à la pêche maritime ou l'aquaculture marine, la
+transformation, la commercialisation, le transport, l'importation et
+l'exportation des produits issus de la pêche maritime ou de l'aquaculture marine
+;
 
-En demandant leur inscription au tableau ou celle de la société civile
-professionnelle dont ils sont associés, les vétérinaires s'engagent sous la foi
-du serment à exercer leur profession avec conscience et probité.
+4° En dehors de ces heures, dans les locaux ou installations mentionnés au 3°
+lorsqu'ils sont ouverts au public ou lorsqu'une activité de transformation, de
+conditionnement, de transport ou de commercialisation y est en cours.
 
-En cas de changement de domicile professionnel, l'inscription est transférée
-d'office au tableau du département du nouveau domicile.
+Lorsque les lieux comportent des parties à usage d'habitation, celles-ci ne
+peuvent être visitées afin de rechercher et constater des infractions qu'entre
+huit heures et vingt heures, par des agents mentionnés aux 1°, 2°, 3°, 4°, 5°,
+6° ou 7° du I de l'article L. 942-1, avec accord de l'occupant ou, à défaut, sur
+autorisation du juge des libertés et de la détention et en présence d'un
+officier de police judiciaire agissant conformément aux dispositions du code de
+procédure pénale relatives aux perquisitions, visites domiciliaires et saisies
+des pièces à conviction.

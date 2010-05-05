@@ -18,4 +18,4 @@ de l'Autorité des normes comptables.
 
 Le cas échéant, un arrêté du ministre de l'agriculture précise les dispositions
 que doit contenir l'accord mentionné au deuxième alinéa de l'article L. 524-6-2
-du code rural.
+du code rural et de la pêche maritime.

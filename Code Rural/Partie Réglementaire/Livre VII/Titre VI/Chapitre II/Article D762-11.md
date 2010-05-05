@@ -8,9 +8,9 @@ prévues par les arrêtés pris en application de l'article 15 du décret n° 70
 du 26 juin 1970 relatif à l'application de la loi n° 69-1162 du 24 décembre 1969
 instituant un régime d'allocations familiales des exploitants agricoles dans les
 départements d'outre-mer et modifiant les chapitres III-2 et IV-1 du titre II du
-livre VII du code rural, autres que la canne à sucre, et, dans les départements
-de la Guadeloupe et de la Martinique, autres que la banane des cultivars du
-sous-groupe Cavendish ;
+livre VII du code rural et de la pêche maritime, autres que la canne à sucre,
+et, dans les départements de la Guadeloupe et de la Martinique, autres que la
+banane des cultivars du sous-groupe Cavendish ;
 
 2° La mise en valeur de terres incultes, de terres laissées à l'abandon ou de
 terres insuffisamment exploitées s'entend de la mise en production agricole dans

@@ -7,4 +7,5 @@ entendent former une réclamation.
 Toutefois, les contestations formées à l'encontre des décisions prises en
 matière de recouvrement des cotisations, de majorations et pénalités de retard
 sont présentées aux commissions dans un délai d'un mois à compter de la mise en
-demeure notifiée en application de l'article L. 752-20 du code rural.
+demeure notifiée en application de l'article L. 752-20 du code rural et de la
+pêche maritime.

@@ -1,10 +1,10 @@
 Article 1618 septies
 ----
-Il est institué au profit de l'organisme mentionné à l' article L. 731-1 du code
-rural une taxe portant sur les quantités de farines, semoules et gruaux de blé
-tendre livrées ou mises en oeuvre en vue de la consommation humaine, ainsi que
-sur les mêmes produits introduits en provenance d'autres Etats membres de la
-Communauté européenne ou importés de pays tiers.
+Il est institué au profit de l'organisme mentionné à l'article L. 731-1 du code
+rural et de la pêche maritime une taxe portant sur les quantités de farines,
+semoules et gruaux de blé tendre livrées ou mises en oeuvre en vue de la
+consommation humaine, ainsi que sur les mêmes produits introduits en provenance
+d'autres Etats membres de la Communauté européenne ou importés de pays tiers.
 
 Les farines, semoules et gruaux de blé tendre expédiés vers d'autres Etats
 membres de la Communauté européenne ou vers les départements de Corse, exportés
@@ -16,8 +16,7 @@ La taxe est perçue en France continentale auprès des meuniers, des opérateurs
 qui procèdent à l'introduction des produits sur ce territoire et des
 importateurs de produits en provenance de pays tiers.
 
-Le montant de la taxe est fixé à 15,24 euros par tonne de farine, semoule ou
-gruaux.
+Le montant de la taxe est fixé à 15,24 € par tonne de farine, semoule ou gruaux.
 
 Des modalités particulières de liquidation peuvent être déterminées par un
 décret qui précise également les obligations déclaratives des assujettis.

@@ -3,14 +3,14 @@ Article R112-17
 La désignation des membres mentionnés au 4° de l'article R. 112-16 se fait
 proportionnellement aux voix obtenues par ces organisations lors des élections
 aux chambres d'agriculture au sein du collège mentionné au 1° de l'article R.
-511-6 du code rural. Cette répartition s'effectue suivant le système de la plus
-forte moyenne.
+511-6 du code rural et de la pêche maritime. Cette répartition s'effectue
+suivant le système de la plus forte moyenne.
 
 La désignation du membre mentionné au 5° de l'article R. 112-16 est effectuée
 par l'organisation représentative des salariés des exploitations agricoles ayant
 obtenu le plus grand nombre de voix lors des élections aux chambres
 d'agriculture au sein du collège mentionné au 3° de l'article R. 511-6 du code
-rural.
+rural et de la pêche maritime.
 
 Les membres choisis au 1° de l'article R. 112-16 ci-dessus sont désignés par
 l'assemblée de Corse lors de chaque renouvellement de son bureau.

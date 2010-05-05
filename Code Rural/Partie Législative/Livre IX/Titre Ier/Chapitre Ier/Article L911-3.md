@@ -1,8 +1,8 @@
 Article L911-3
 ----
-L'emploi de goudron et de tous produits détériorant la laine ou la peau ou ne
-s'éliminant pas lors du lavage industriel de la laine est interdit pour le
-marquage des moutons.
-
-Nul ne peut fabriquer, mettre en vente ou vendre des produits destinés au
-marquage des moutons si ces produits n'ont pas été, au préalable, agréés.
+Les dispositions du présent livre s'appliquent, en conformité avec les
+dispositions prévues par le traité sur le fonctionnement de l'Union européenne
+et dans le respect des engagements internationaux de la France, dans les zones
+sous juridiction ou sous souveraineté française, ainsi qu'en tout lieu aux
+ressortissants français et aux navires battant pavillon français dans le respect
+des accords internationaux et de la souveraineté des pays tiers.

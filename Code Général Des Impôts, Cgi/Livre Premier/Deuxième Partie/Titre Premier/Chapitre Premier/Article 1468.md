@@ -20,7 +20,7 @@ lorsque les statuts prévoient qu'ils peuvent être rémunérés ;
 b) Sociétés d'intérêt collectif agricole dont plus de 50 % du capital ou des
 voix sont détenus directement ou par l'intermédiaire de filiales par des
 associés autres que ceux visés aux 1°, 2° et 3° de l'article L. 522-1 du code
-rural ;
+rural et de la pêche maritime ;
 
 2° Pour les chefs d'entreprise immatriculés au répertoire des métiers ainsi que
 les personnes physiques exerçant une activité artisanale à titre principal ou

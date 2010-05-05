@@ -15,8 +15,8 @@ direction générale des finances publiques ;
 16 du code de procédure pénale, et les agents de police judiciaire désignés à
 l'article 20 dudit code ;
 
-3° Les agents mentionnés au I de l'article L. 231-2 du code rural, les préposés
-sanitaires, les agents techniques sanitaires ;
+3° Les agents mentionnés au I de l'article L. 231-2 du code rural et de la pêche
+maritime, les préposés sanitaires, les agents techniques sanitaires ;
 
 4° Les médecins inspecteurs de santé publique et les pharmaciens inspecteurs de
 santé publique ;

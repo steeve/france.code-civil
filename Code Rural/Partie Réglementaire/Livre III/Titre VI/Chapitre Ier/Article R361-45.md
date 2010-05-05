@@ -2,7 +2,7 @@ Article R361-45
 ----
 Les personnes sollicitant un prêt conformément aux dispositions de la présente
 section doivent justifier d'un contrat d'assurance répondant aux conditions
-définies à l'article L. 361-13 du code rural.
+définies à l'article L. 361-13 du code rural et de la pêche maritime.
 
 Le bénéfice d'un prêt bonifié pour des dommages assurables au sens de l'article
 D. 361-33 est subordonné à la justification par le demandeur que le bien en

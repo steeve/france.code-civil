@@ -12,7 +12,8 @@ inscrit dans une formation au tutorat du stagiaire. Un salarié, régisseur de
 domaine ou directeur d'exploitation d'établissement d'enseignement agricole peut
 être inscrit sur la liste des " maîtres exploitants " s'il participe aux travaux
 de manière effective et permanente au sens de l'article L. 411-59 du code rural
-et s'il a une responsabilité dans la gestion de l'exploitation.
+et de la pêche maritime et s'il a une responsabilité dans la gestion de
+l'exploitation.
 
 Le réseau des chambres d'agriculture assure la tenue de la liste des " maîtres
 exploitants ".

@@ -11,15 +11,15 @@ son conjoint ou du partenaire avec lequel il est lié par un pacte civil de
 solidarité, majeur ou mineur émancipé ;
 
 3° si le bailleur est une société d'aménagement foncier et d'établissement
-rural, agréée en application de l'article L. 141-6 du code rural qui effectue
-une opération de lotissement, à moins que le preneur n'exploite une superficie
-d'un seul tenant égale à la superficie moyenne, constatée par arrêté du
-commissaire de la République du département, des exploitations à constituer dans
-ce lotissement par la société d'aménagement foncier et d'établissement rural
-pour les mêmes catégories de cultures. Dans ce dernier cas, la durée du bail
-peut être prorogée au plus jusqu'au terme de la période légale pendant laquelle
-la société d'aménagement foncier et d'établissement rural peut demeurer
-propriétaire.
+rural, agréée en application de l'article L. 141-6 du code rural et de la pêche
+maritime qui effectue une opération de lotissement, à moins que le preneur
+n'exploite une superficie d'un seul tenant égale à la superficie moyenne,
+constatée par arrêté du commissaire de la République du département, des
+exploitations à constituer dans ce lotissement par la société d'aménagement
+foncier et d'établissement rural pour les mêmes catégories de cultures. Dans ce
+dernier cas, la durée du bail peut être prorogée au plus jusqu'au terme de la
+période légale pendant laquelle la société d'aménagement foncier et
+d'établissement rural peut demeurer propriétaire.
 
 Le bailleur qui entend s'opposer au renouvellement ou le preneur qui entend y
 renoncer doit notifier sa décision dix-huit mois avant l'expiration du bail.

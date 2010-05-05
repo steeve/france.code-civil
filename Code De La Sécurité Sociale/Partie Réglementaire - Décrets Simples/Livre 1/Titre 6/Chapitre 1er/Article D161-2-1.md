@@ -1,14 +1,14 @@
 Article D161-2-1
 ----
 La suspension du versement des prestations en nature de l'assurance maladie
-prévues par le présent code ou le code rural peut, en application des
-dispositions du III de l'article 6 de la loi n° 99-641 du 27 juillet 1999
-portant création d'une couverture maladie universelle ou du cinquième alinéa de
-l'article L. 380-2, être décidée par le directeur de la caisse ou de l'organisme
-compétent à l'égard d'un assuré dont la mauvaise foi est établie par des faits
-caractérisant l'intention de ne pas payer les cotisations obligatoires
-d'assurance maladie ou en cas de fraude ou de fausse déclaration sur le montant
-des ressources.
+prévues par le présent code ou le code rural et de la pêche maritime peut, en
+application des dispositions du III de l'article 6 de la loi n° 99-641 du 27
+juillet 1999 portant création d'une couverture maladie universelle ou du
+cinquième alinéa de l'article L. 380-2, être décidée par le directeur de la
+caisse ou de l'organisme compétent à l'égard d'un assuré dont la mauvaise foi
+est établie par des faits caractérisant l'intention de ne pas payer les
+cotisations obligatoires d'assurance maladie ou en cas de fraude ou de fausse
+déclaration sur le montant des ressources.
 
 Dans les cas mentionnés à l'alinéa précédent, le directeur de la caisse
 compétente adresse à l'assuré une mise en demeure, par lettre recommandée avec

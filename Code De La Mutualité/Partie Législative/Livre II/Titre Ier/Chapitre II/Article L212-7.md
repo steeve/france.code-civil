@@ -2,9 +2,9 @@ Article L212-7
 ----
 I.-Constituent un groupe les mutuelles ou unions qui forment entre elles ou avec
 des institutions de prévoyance régies par le livre IX du code de la sécurité
-sociale ou l'article L. 727-2 du code rural ou avec des entreprises d'assurance
-relevant du code des assurances ou de réassurance, un ensemble correspondant à
-l'un des cas suivants :
+sociale ou l'article L. 727-2 du code rural et de la pêche maritime ou avec des
+entreprises d'assurance relevant du code des assurances ou de réassurance, un
+ensemble correspondant à l'un des cas suivants :
 
 1° Ces organismes ont soit une direction commune, soit des services communs
 assez étendus pour engendrer une politique commerciale, technique ou financière

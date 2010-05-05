@@ -33,5 +33,5 @@ conventions conclues en application du premier alinéa du présent article est
 régi par l'article 1028 quater du code général des impôts ci-après reproduit :
 
 " Art. 1028 quater : Les conventions conclues en application du premier alinéa
-de l'article L. 142-6 et de l'article L. 144-6 du code rural sont exonérées des
-droits d'enregistrement. "
+de l'article L. 142-6 et de l'article L. 144-6 du code rural et de la pêche
+maritime sont exonérées des droits d'enregistrement. "

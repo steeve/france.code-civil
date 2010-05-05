@@ -12,8 +12,8 @@ par le livre IV du présent code et à l'état d'inaptitude au travail ;
 incapacité, en cas d'accident du travail ou de maladie professionnelle ;
 
 3°) A l'état d'incapacité de travail pour l'application des dispositions du
-livre VII du code rural autres que celles relevant du contentieux général de la
-sécurité sociale ;
+livre VII du code rural et de la pêche maritime autres que celles relevant du
+contentieux général de la sécurité sociale ;
 
 4°) aux décisions des caisses d'assurance retraite et de la santé au travail et
 des caisses de mutualité sociale agricole concernant, en matière d'accident du

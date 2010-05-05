@@ -42,18 +42,19 @@ septembre 1979.
 4° Les parts des groupements fonciers agricoles et celles des groupements
 agricoles fonciers, créés conformément à la loi n° 62-933 du 8 août 1962 et
 répondant aux diverses caractéristiques des articles L. 322-1 à L. 322-21,
-L322-23 et L322-24 du code rural, à concurrence des trois-quarts de la fraction
-de la valeur nette des biens donnés à bail à long terme ou à bail cessible, sous
-réserve des dispositions de l'article 793 bis, à condition :
+L322-23 et L322-24 du code rural et de la pêche maritime, à concurrence des
+trois-quarts de la fraction de la valeur nette des biens donnés à bail à long
+terme ou à bail cessible, sous réserve des dispositions de l'article 793 bis, à
+condition :
 
 a) Que les statuts du groupement lui interdisent l'exploitation en faire-valoir
 direct ;
 
 b) Que les immeubles à destination agricole constituant le patrimoine du
 groupement aient été donnés à bail à long terme dans les conditions prévues par
-les articles L. 416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural ou à bail
-cessible dans les conditions prévues par les articles L. 418-1 à L. 418-5 du
-code rural ;
+les articles L. 416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural et de la
+pêche maritime ou à bail cessible dans les conditions prévues par les articles
+L. 418-1 à L. 418-5 du code rural et de la pêche maritime ;
 
 c )Que les parts aient été détenues depuis deux ans au moins par le donateur ou
 le défunt.
@@ -68,21 +69,22 @@ sont détenues ou qui ont été détenues par une société civile régie par la
 section 3 du chapitre IV du titre premier du livre II du code monétaire et
 financier ou par une entreprise d'assurance ou de capitalisation ;
 
-Conformément aux dispositions de l'article L. 322-18 du code rural, le
-remboursement des avantages fiscaux prévus aux articles L. 322-1 à L. 322-24 du
-même code n'est pas dû lorsque la condition de parenté prévue à l'article L.
-322-11 du code précité cesse d'être respectée à la suite de transmissions à
-titre gratuit ;
+Conformément aux dispositions de l'article L. 322-18 du code rural et de la
+pêche maritime, le remboursement des avantages fiscaux prévus aux articles L.
+322-1 à L. 322-24 du même code n'est pas dû lorsque la condition de parenté
+prévue à l'article L. 322-11 du code précité cesse d'être respectée à la suite
+de transmissions à titre gratuit ;
 
 Peuvent être étendues aux départements d'outre-mer dans des conditions fixées
 par décret en Conseil d'Etat, après avis des conseils généraux desdits
 départements, les dispositions des articles L. 322-1 à L. 322-21, L322-23 et
-L322-24 du code rural ;
+L322-24 du code rural et de la pêche maritime ;
 
 5° les reversions de rentes viagères entre parents en ligne directe ;
 
 6° la transmission par décès du bénéfice du contrat de travail à salaire différé
-dont la dévolution est régie par l'article L. 321-14 du code rural ;
+dont la dévolution est régie par l'article L. 321-14 du code rural et de la
+pêche maritime ;
 
 2. 1° (Abrogé) ;
 
@@ -121,12 +123,12 @@ d'équipements, aménagements ou constructions d'intérêt public, qui pourraien
 donner lieu à l'établissement d'une servitude d'utilité publique au titre de
 ladite mutation, ainsi qu'aux bois et forêts faisant l'objet d'une interdiction
 de reconstituer les boisements après coupe rase en application des deuxième à
-neuvième alinéas de l'article L. 126-1 du code rural ;
+neuvième alinéas de l'article L. 126-1 du code rural et de la pêche maritime ;
 
 3° Les biens donnés à bail dans les conditions prévues aux articles L. 416-1 à
-L. 416-6, L. 416-8 et L. 416-9 ainsi qu'aux articles L. 418-1 à L. 418-5 du code
-rural, à concurrence des trois quarts de leur valeur, sous réserve des
-dispositions de l'article 793 bis ;
+L. 416-6, L. 416-8 et L. 416-9 ainsi qu'aux articles L. 418-1 à L. 418-5 ducode
+rural et de la pêche maritime, à concurrence des trois quarts de leur valeur,
+sous réserve des dispositions de l'article 793 bis ;
 
 4° Lors de leur première transmission à titre gratuit, les immeubles acquis
 neufs ou en état futur d'achèvement dont la déclaration de l'achèvement des

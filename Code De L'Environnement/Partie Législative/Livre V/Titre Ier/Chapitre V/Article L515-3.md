@@ -11,7 +11,7 @@ sites.
 
 Le schéma départemental des carrières est élaboré après consultation du document
 de gestion de l'espace agricole et forestier visé à l'article L. 112-1 du code
-rural.
+rural et de la pêche maritime.
 
 Il est approuvé, après avis du conseil général, par le préfet. Il est rendu
 public dans des conditions fixées par décret.

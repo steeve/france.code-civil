@@ -11,7 +11,7 @@ sociale, les procès-verbaux des séances au cours desquelles les décisions ou 
 avis ont été adoptés et les décisions des unions, des unions d'économie sociale,
 des groupements d'intérêt économique et des sociétés civiles immobilières ayant
 fait l'objet d'une délibération du conseil d'administration en application de
-l'article R. 723-108 du code rural.
+l'article R. 723-108 du code rural et de la pêche maritime.
 
 Les délais fixés par l'article R. 152-3 ne courent qu'à dater du jour où ces
 formalités ont été intégralement remplies.

@@ -13,7 +13,7 @@ de la sécurité sociale, de la réglementation applicable aux régimes spéciau
 mentionnés à l'article L. 711-1 du même code ou de la législation relative au
 régime agricole des assurances sociales des salariés, soit du régime d'assurance
 maladie, invalidité et maternité des exploitants agricoles en application du
-chapitre III-1 du titre II du livre VII du code rural.
+chapitre III-1 du titre II du livre VII du code rural et de la pêche maritime.
 
 Les personnes mentionnées au premier alinéa du présent article, bénéficiant, au
 titre de régimes différents, d'une pension d'invalidité ou d'un avantage de

@@ -13,4 +13,4 @@ détermine aussi les autres avantages qui peuvent lui être accordés.
 
 Nul ne peut être chargé de la direction d'une coopérative agricole s'il fait
 l'objet d'une interdiction et d'une incapacité visées à l'article L. 529-3 du
-code rural.
+code rural et de la pêche maritime.

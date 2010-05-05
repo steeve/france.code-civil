@@ -63,7 +63,7 @@ agricole.
 Jardins familiaux
 
 Création et aménagement de jardins familiaux par des organismes visés à
-l'article L. 561-1 du code rural.
+l'article L. 561-1 du code rural et de la pêche maritime.
 
 
 Aménagement rural

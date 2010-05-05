@@ -17,10 +17,10 @@ Par dérogation au premier alinéa, un médicament vétérinaire contenant des
 substances pharmacologiquement actives ne figurant pas à l'annexe I, II ou III
 du règlement précité peut être autorisé pour les animaux particuliers
 appartenant à la famille des équidés qui ont été identifiés conformément à
-l'article L. 212-9 du code rural et qui ont été déclarés comme n'étant pas
-destinés à l'abattage pour la consommation humaine. Ces médicaments vétérinaires
-ne contiennent pas de substances pharmacologiquement actives figurant à l'annexe
-IV du règlement mentionné ci-dessus et ne sont pas destinés à être utilisés pour
-le traitement d'affections telles que spécifiées dans le résumé des
-caractéristiques du produit, pour lesquelles un médicament vétérinaire est
-autorisé pour soigner les animaux de la famille des équidés.
+l'article L. 212-9 du code rural et de la pêche maritime et qui ont été déclarés
+comme n'étant pas destinés à l'abattage pour la consommation humaine. Ces
+médicaments vétérinaires ne contiennent pas de substances pharmacologiquement
+actives figurant à l'annexe IV du règlement mentionné ci-dessus et ne sont pas
+destinés à être utilisés pour le traitement d'affections telles que spécifiées
+dans le résumé des caractéristiques du produit, pour lesquelles un médicament
+vétérinaire est autorisé pour soigner les animaux de la famille des équidés.

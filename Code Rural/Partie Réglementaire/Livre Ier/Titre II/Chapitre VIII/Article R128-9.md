@@ -30,5 +30,6 @@ demander la rétrocession des terres expropriées à la société d'aménagement
 foncier et d'établissement rural dans les conditions prévues par l'article L.
 12-6 du code de l'expropriation pour cause d'utilité publique.
 
-Les cahiers des charges prévus par l'article L. 128-9 du code rural sont établis
-par la société d'aménagement foncier et d'établissement rural.
+Les cahiers des charges prévus par l'article L. 128-9 du code rural et de la
+pêche maritime sont établis par la société d'aménagement foncier et
+d'établissement rural.

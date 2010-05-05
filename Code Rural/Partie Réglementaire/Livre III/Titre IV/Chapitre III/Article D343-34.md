@@ -26,10 +26,10 @@ l'aide globale n'excède pas le plafond de 10 700 euros dans le cas général et
 a) Pour prétendre à l'aide à la transmission de l'exploitation agricole, le chef
 d'exploitation doit remplir les conditions suivantes :
 
-- être âgé, à la date de sa cessation d'activité agricole, de cinquante-six ans
+-être âgé, à la date de sa cessation d'activité agricole, de cinquante-six ans
 au moins et ne pas avoir atteint l'âge de soixante-cinq ans ;
 
-- justifier de l'exercice de l'activité de chef d'exploitation à titre principal
+-justifier de l'exercice de l'activité de chef d'exploitation à titre principal
 et de façon continue pendant au moins les dix ans précédant immédiatement la
 cessation d'activité agricole par la production de documents attestant qu'il a
 bénéficié pendant cette période des prestations de l'assurance maladie,
@@ -58,17 +58,17 @@ d'activité à titre principal.
 Cette activité doit avoir été exercée pendant dix ans au moins, de façon
 continue, et précéder immédiatement la cessation d'activité ;
 
-- ne pas avoir apporté à son exploitation l'une des modifications suivantes dans
+-ne pas avoir apporté à son exploitation l'une des modifications suivantes dans
 les douze mois précédant le dépôt de sa demande :
 
-- une réduction de plus de 15 % de la superficie, évaluée en polyculture élevage
+-une réduction de plus de 15 % de la superficie, évaluée en polyculture élevage
 selon la pondération par nature de cultures fixée par le schéma directeur
 départemental des structures, et de l'une de ses références de production ou
 droits à aides ;
 
-- une scission en deux ou plusieurs fonds séparés ;
+-une scission en deux ou plusieurs fonds séparés ;
 
-- s'engager à libérer des terres et des bâtiments d'exploitation et à transférer
+-s'engager à libérer des terres et des bâtiments d'exploitation et à transférer
 des références de production ou droits à aides attachés à l'exploitation à la
 date du dépôt de la demande, en vue de contribuer à la première installation
 d'un ou plusieurs jeunes agriculteurs.
@@ -93,14 +93,14 @@ dans le calcul du montant de l'aide.
 
 Les terres en faire-valoir direct doivent faire l'objet :
 
-- soit d'un bail à long terme, soit d'un bail à ferme, avec état des lieux,
+-soit d'un bail à long terme, soit d'un bail à ferme, avec état des lieux,
 conclu pour une durée au moins égale à neuf ans selon les dispositions prévues
 au titre Ier du livre IV ;
 
-- soit d'une cession en pleine propriété par l'intermédiaire d'une société
+-soit d'une cession en pleine propriété par l'intermédiaire d'une société
 d'aménagement foncier et d'établissement rural (SAFER) ;
 
-- soit, à titre transitoire, d'une convention de mise à disposition à une SAFER
+-soit, à titre transitoire, d'une convention de mise à disposition à une SAFER
 avec engagement de cession, en propriété ou en jouissance, au jeune agriculteur
 au terme de la mise à disposition ou par anticipation.
 
@@ -142,9 +142,9 @@ perçue.
 2° Des aides à l'installation progressive d'un jeune agriculteur en association
 avec le cédant, au diagnostic de l'exploitation dont la succession n'est pas
 assurée et aux autres actions s'inscrivant dans les objectifs du projet prévu à
-l'article L. 313-1 du code rural, en vue de permettre la reprise d'une
-exploitation par un jeune remplissant les conditions pour bénéficier des aides
-mentionnées à l'article R. 343-3.
+l'article L. 313-1 du code rural et de la pêche maritime, en vue de permettre la
+reprise d'une exploitation par un jeune remplissant les conditions pour
+bénéficier des aides mentionnées à l'article R. 343-3.
 
 Aucune aide n'est attribuée si, compte tenu de la situation du cédant ou du
 repreneur, elle n'est manifestement pas nécessaire à la transmission de

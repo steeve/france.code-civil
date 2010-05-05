@@ -1,13 +1,10 @@
 Article L942-8
 ----
-Appel des décisions des chambres régionales de discipline peut être porté devant
-la chambre supérieure de discipline. Elle est composée des membres du conseil
-supérieur de l'ordre et d'un conseiller honoraire à la Cour de cassation, ou à
-défaut d'un conseiller en activité, exerçant la présidence et désigné par le
-premier président de la Cour de cassation.
-
-La chambre supérieure de discipline peut être saisie, dans le délai de deux mois
-à dater du jour de la notification, de la décision de la chambre régionale de
-discipline par l'intéressé ou les auteurs de la plainte.
-
-L'appel a un effet suspensif.
+Les agents mentionnés à l'article L. 942-1 ont le droit de requérir directement
+la force publique pour la recherche et la constatation des infractions prévues
+et réprimées par le présent livre, ainsi que pour l'appréhension et la saisie
+des filets, des engins, des matériels, des équipements utilisés en plongée et en
+pêche sous-marines, de tous instruments utilisés à des fins de pêche, des
+véhicules, des navires ou engins flottants ayant servi à pêcher ou à transporter
+des produits obtenus en infraction, ainsi que des produits des pêches et de leur
+valeur.

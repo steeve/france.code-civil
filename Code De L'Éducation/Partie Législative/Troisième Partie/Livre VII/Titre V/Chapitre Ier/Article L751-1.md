@@ -2,16 +2,16 @@ Article L751-1
 ----
 Les établissements d'enseignement supérieur agricole et vétérinaire publics sont
 organisés conformément aux dispositions des articles L. 812-2 à L. 812-5 du code
-rural, ci-après reproduites :
+rural et de la pêche maritime, ci-après reproduites :
 
-" Art.L. 812-2.-Les établissements d'enseignement supérieur agricole et
+" Art.L. 812-2. - Les établissements d'enseignement supérieur agricole et
 vétérinaire, installés sur un domaine appartenant à l'Etat ou mis à la
 disposition de l'Etat, jouissent de la personnalité civile et de l'autonomie
 financière et constituent des établissements publics nationaux sans préjudice de
 l'application à ces établissements des dispositions générales applicables à
 l'enseignement supérieur. "
 
-" Art.L. 812-3.-Les établissements d'enseignement supérieur agricole publics
+" Art.L. 812-3. - Les établissements d'enseignement supérieur agricole publics
 sont créés par décret et dirigés par un directeur.
 
 Lorsque ces établissements n'ont pas l'une des formes précisées par le code de

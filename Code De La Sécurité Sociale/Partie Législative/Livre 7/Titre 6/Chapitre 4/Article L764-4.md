@@ -4,7 +4,8 @@ La couverture des charges résultant de l'application du présent chapitre est
 assurée par une cotisation due par les intéressés et assise sur les avantages de
 retraite mentionnés aux articles L. 241-2, L. 615-1 et L. 711-2, au chapitre 2
 du titre VIII du livre III du présent code, à la section 2 du chapitre 1er du
-titre II du livre VII du même code, ainsi qu'au code rural.
+titre II du livre VII du même code, ainsi qu'au code rural et de la pêche
+maritime.
 
 Cette cotisation est précomptée lors de chaque versement par l'organisme
 débiteur des avantages de retraite dans les conditions fixées par décret.

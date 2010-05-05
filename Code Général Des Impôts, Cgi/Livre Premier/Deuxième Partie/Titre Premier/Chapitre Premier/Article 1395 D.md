@@ -26,8 +26,9 @@ impôts avant le 1er janvier de la première année au titre de laquelle
 l'exonération est applicable ou renouvelable, l'engagement souscrit pour les
 parcelles lui appartenant inscrites sur la liste dressée par le maire. Pour les
 parcelles données à bail en application des articles L. 411-l et suivants du
-code rural, l'engagement doit être cosigné par le preneur. Les modalités de cet
-engagement sont définies par décret en Conseil d'Etat.
+code rural et de la pêche maritime, l'engagement doit être cosigné par le
+preneur. Les modalités de cet engagement sont définies par décret en Conseil
+d'Etat.
 
 En cas d'inscription erronée sur la liste ou lorsque les conditions pour
 bénéficier de l'exonération ne sont pas respectées, les impositions en résultant

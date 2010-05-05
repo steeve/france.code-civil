@@ -13,4 +13,4 @@ piège-cages. Elles ne s'appliquent pas non plus aux personnes qui capturent les
 corvidés au moyen de cages à corvidés, dans le cadre d'opérations de luttes
 collectives organisées par les groupements de défense contre les organismes
 nuisibles et leurs fédérations agréées conformément aux articles L. 252-1 à L.
-252-5 du code rural.
+252-5 du code rural et de la pêche maritime .

@@ -1,14 +1,9 @@
 Article L955-8
 ----
-Sont punis, sans préjudice de l'application des dispositions du code des douanes
-:
-
-1° Des peines fixées à l'article L. 213-1 du code de la consommation, ceux qui
-enfreignent les interdictions prescrites au premier alinéa de l'article L. 955-2
-ou au deuxième alinéa de l'article L. 955-4 ou qui ne respectent pas les
-obligations énoncées au premier alinéa de l'article L. 955-5 ; les dispositions
-de l'article L. 213-2 du code de la consommation sont applicables aux auteurs de
-ces infractions ;
-
-2° Des peines fixées à l'article L. 121-6 du code de la consommation, ceux qui
-commettent l'infraction définie à l'article L. 955-7.
+Sauf autorisation régulièrement accordée en vue d'un usage autre que la pêche et
+dont la justification devra être produite à toute réquisition, est puni de 30
+000 € d'amende le fait de détenir à bord d'un navire armé pour la pêche ou
+utilisé en vue d'entreposer ou traiter des produits de la mer soit de la
+dynamite ou des substances explosives autres que la poudre pour l'usage des
+armes à feu, soit des substances ou appâts de nature à enivrer ou à détruire les
+poissons, crustacés ou toutes autres espèces animales.

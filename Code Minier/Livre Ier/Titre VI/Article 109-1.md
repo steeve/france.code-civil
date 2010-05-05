@@ -36,10 +36,10 @@ l'exercice de ce droit à l'intérieur d'une zone d'aménagement différé.
 
 Lorsque, à l'intérieur des terrains réservés à l'exploitation des carrières, il
 est causé à la structure d'une exploitation agricole un grave déséquilibre, au
-sens de l'article L. 352-1 du code rural, l'exploitant de carrière est tenu
-d'indemniser l'exploitant agricole concerné suivant les modalités prévues par
-l'article précité et les textes pris pour son application. Cette indemnisation
-se substitue à celle due à l'exploitant agricole au titre des articles 71 à 73
-du présent code.
+sens de l'article L. 352-1 du code rural et de la pêche maritime, l'exploitant
+de carrière est tenu d'indemniser l'exploitant agricole concerné suivant les
+modalités prévues par l'article précité et les textes pris pour son application.
+Cette indemnisation se substitue à celle due à l'exploitant agricole au titre
+des articles 71 à 73 du présent code.
 
 Les dispositions des articles 110 à 119 sont applicables au présent article.

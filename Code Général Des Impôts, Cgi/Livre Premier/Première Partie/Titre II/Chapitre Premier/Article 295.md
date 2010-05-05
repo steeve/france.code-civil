@@ -9,17 +9,17 @@ Réunion ;
 2° Les ventes et importations de riz dans le département de la Réunion ;
 
 3° Les ventes résultant de l'application des articles L128-4 à L128-7 du code
-rural relatifs à la mise en valeur agricole des terres incultes, des terres
-laissées à l'abandon et des terres insuffisamment exploitées de la Guadeloupe,
-de la Martinique, de la Réunion et de la Guyane ;
+rural et de la pêche maritime relatifs à la mise en valeur agricole des terres
+incultes, des terres laissées à l'abandon et des terres insuffisamment
+exploitées de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane ;
 
 4° Dans les départements de la Guadeloupe, de la Martinique, de la Réunion et de
 la Guyane, les opérations immobilières effectuées, en vue de l'accession à la
 propriété rurale, par les sociétés d'aménagement foncier et d'établissement
-rural mentionnées au troisième alinéa de l'article L128-7 du code rural, ainsi
-que par les sociétés d'intérêt collectif agricole, qui ont bénéficié d'un
-agrément préalable avant le 28 décembre 1969, date de publication de la loi n°
-69-1168 du 26 décembre 1969.
+rural mentionnées au troisième alinéa de l'article L128-7 du code rural et de la
+pêche maritime, ainsi que par les sociétés d'intérêt collectif agricole, qui ont
+bénéficié d'un agrément préalable avant le 28 décembre 1969, date de publication
+de la loi n° 69-1168 du 26 décembre 1969.
 
 Pour les acquisitions, le bénéfice de l'exonération est subordonné à
 l'engagement dans l'acte, ou au pied de l'acte, par ces sociétés de procéder

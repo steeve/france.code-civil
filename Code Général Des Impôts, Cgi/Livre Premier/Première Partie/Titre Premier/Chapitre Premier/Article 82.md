@@ -12,4 +12,4 @@ nature.
 Le montant des rémunérations allouées sous la forme d'avantages en nature est
 évalué selon les règles établies pour le calcul des cotisations de sécurité
 sociale en application de l'article L. 242-1 du code de la sécurité sociale ou
-de l'article L. 741-10 du code rural.
+de l'article L. 741-10 du code rural et de la pêche maritime.

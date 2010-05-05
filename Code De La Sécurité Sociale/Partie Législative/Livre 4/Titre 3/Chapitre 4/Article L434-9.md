@@ -20,7 +20,7 @@ au titre de la partie restant à courir de ladite période ;
 2°) si le conjoint survivant reçoit, en raison de son nouveau veuvage, une
 rente, pension ou allocation, en application d'une des dispositions du présent
 code, de l'un des régimes prévus à l'article L. 711-1 ou à l'article L. 413-12
-ou de l'une des dispositions du code rural ou s'il reçoit, en raison d'une
-séparation de corps ou d'un divorce, une pension alimentaire, le montant de
-l'avantage dont il bénéficie s'impute sur celui de la rente de conjoint
-survivant.
+ou de l'une des dispositions du code rural et de la pêche maritime ou s'il
+reçoit, en raison d'une séparation de corps ou d'un divorce, une pension
+alimentaire, le montant de l'avantage dont il bénéficie s'impute sur celui de la
+rente de conjoint survivant.

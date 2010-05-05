@@ -14,4 +14,4 @@ convention qui prend alors la forme d'une extension de la convention primitive.
 Les conventions signées par les caisses de mutualité sociale agricole sont
 applicables, quel que soit l'organisme assureur, lorsque le bénéficiaire des
 soins relève du régime d'assurance maladie institué par le chapitre III.I du
-titre II du livre VII du code rural.
+titre II du livre VII du code rural et de la pêche maritime.

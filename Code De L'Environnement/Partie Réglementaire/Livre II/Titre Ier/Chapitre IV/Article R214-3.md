@@ -6,7 +6,8 @@ Sont seules applicables, au lieu et place des dispositions des sous-sections 1 �
 1° Le décret n° 94-894 du 13 octobre 1994 relatif à la concession et à la
 déclaration d'utilité publique des ouvrages utilisant l'énergie hydraulique ;
 
-2° Les dispositions des titres II et III du livre Ier du code rural ;
+2° Les dispositions des titres II et III du livre Ier du code rural et de la
+pêche maritime ;
 
 3° Le décret n° 2001-204 du 6 mars 2001 relatif aux autorisations d'exploitation
 de mines dans les départements d'outre-mer ;

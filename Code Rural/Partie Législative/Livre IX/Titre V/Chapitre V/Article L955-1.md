@@ -1,14 +1,15 @@
 Article L955-1
 ----
-Les dispositions du présent chapitre sont applicables aux matières fertilisantes
-et aux supports de culture.
+Sous réserve des dispositions des articles L. 955-3 à L. 955-13, les
+dispositions des articles L. 941-1 à L. 946-5 sont applicables aux eaux sous
+souveraineté ou juridiction française s'étendant au large des îles australes
+françaises et des îles Eparses.
 
-Au sens du présent chapitre :
+Toutefois, le délai de trois jours ouvrés entre l'appréhension et la remise à
+l'autorité compétente pour les saisies, tel que fixé à l'article L. 943-1, est
+augmenté du temps de navigation nécessaire pour rejoindre le port de conduite
+désigné par l'autorité maritime.
 
-1° Les matières fertilisantes comprennent les engrais, les amendements et, d'une
-manière générale, tous les produits dont l'emploi est destiné à assurer ou à
-améliorer la nutrition des végétaux ainsi que les propriétés physiques,
-chimiques et biologiques des sols ;
-
-2° Les supports de culture sont des produits destinés à servir de milieu de
-culture à certains végétaux.
+Le délai de six jours entre l'appréhension d'un navire ou d'un engin flottant et
+l'ordonnance de confirmation de la saisie prononcée par le juge des libertés et
+de la détention mentionné à l'article L. 943-4 est augmenté de la même durée.

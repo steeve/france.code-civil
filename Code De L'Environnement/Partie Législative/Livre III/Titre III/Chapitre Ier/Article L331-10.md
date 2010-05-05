@@ -7,7 +7,8 @@ parc, les compétences attribuées au maire pour :
 à L. 2213-6 du code général des collectivités territoriales, hors agglomération
 ;
 
-2° La police des chemins ruraux prévue à l'article L. 161-5 du code rural ;
+2° La police des chemins ruraux prévue à l'article L. 161-5 du code rural et de
+la pêche maritime ;
 
 3° La police des cours d'eau prévue à l'article L. 215-12 du présent code ;
 
@@ -15,7 +16,7 @@ parc, les compétences attribuées au maire pour :
 et L. 427-7 ;
 
 5° La police des chiens et chats errants prévue à l'article L. 211-22 du code
-rural.
+rural et de la pêche maritime.
 
 Sauf cas d'urgence, les actes réglementaires du directeur pris en application
 des précédents alinéas doivent avoir été transmis pour avis huit jours au moins

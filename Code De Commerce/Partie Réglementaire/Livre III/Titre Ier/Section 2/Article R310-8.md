@@ -20,12 +20,12 @@ deuxième alinéa du I de l'article L. 310-2, il s'expose à la sanction prévue
 
 II.-Ces délais ne sont pas applicables aux ventes au déballage de fruits et
 légumes frais effectuées en période de crise conjoncturelle constatée en
-application de l'article L. 611-4 du code rural, ou en prévision de celle-ci,
-dans le but de favoriser, par un déstockage rapide, la régularisation des cours
-du marché ; ces ventes peuvent être réalisées sans délai, par décision conjointe
-du ministre chargé du commerce et du ministre chargé de l'agriculture et ce
-après consultation par le ministre chargé de l'agriculture de l'organisation
-interprofessionnelle compétente.
+application de l'article L. 611-4 du code rural et de la pêche maritime, ou en
+prévision de celle-ci, dans le but de favoriser, par un déstockage rapide, la
+régularisation des cours du marché ; ces ventes peuvent être réalisées sans
+délai, par décision conjointe du ministre chargé du commerce et du ministre
+chargé de l'agriculture et ce après consultation par le ministre chargé de
+l'agriculture de l'organisation interprofessionnelle compétente.
 
 III.-Un arrêté du ministre chargé du commerce fixe la liste des informations
 contenues dans cette déclaration.

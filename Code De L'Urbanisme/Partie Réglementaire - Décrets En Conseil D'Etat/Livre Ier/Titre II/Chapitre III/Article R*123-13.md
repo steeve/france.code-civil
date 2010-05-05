@@ -28,7 +28,7 @@ l'utilisation de la chaleur ;
 7° Les périmètres d'interdiction ou de réglementation des plantations et semis
 d'essences forestières, les périmètres d'actions forestières et les périmètres
 de zones dégradées à faible taux de boisement, délimités en application des 1°,
-2° et 3° de l'article L. 126-1 du code rural ;
+2° et 3° de l'article L. 126-1 du code rural et de la pêche maritime ;
 
 8° Les périmètres miniers définis en application des titres II, III et V du
 livre Ier du code minier ;

@@ -39,19 +39,19 @@ accord, au titre du plan de formation et de la professionnalisation peuvent êtr
 encadrés par voie réglementaire.
 
 Dans les professions agricoles visées aux 1° à 4° de l'article L. 722-1 du code
-rural ainsi que dans les coopératives d'utilisation de matériel agricole, une
-part des sommes mentionnées aux 1° et 2° du présent article, fixée par arrêté,
-après avis des organisations nationales d'employeurs et de salariés
-représentatives de l'agriculture, abonde le fonds paritaire de sécurisation des
-parcours professionnels. La part non affectée au fonds paritaire contribue au
-financement d'actions de formation professionnelle concourant à la qualification
-et à la requalification des salariés et demandeurs d'emploi déterminées par un
-accord entre les organisations représentatives d'employeurs et de salariés de
-l'agriculture. La déclinaison de cet accord donne lieu à une convention-cadre
-signée entre l'Etat et les organisations d'employeurs et de salariés de
-l'agriculture. En cas de non-utilisation de la totalité des fonds affectés à ces
-actions, le solde abonde le fonds paritaire de sécurisation des parcours
-professionnels.
+rural et de la pêche maritime ainsi que dans les coopératives d'utilisation de
+matériel agricole, une part des sommes mentionnées aux 1° et 2° du présent
+article, fixée par arrêté, après avis des organisations nationales d'employeurs
+et de salariés représentatives de l'agriculture, abonde le fonds paritaire de
+sécurisation des parcours professionnels. La part non affectée au fonds
+paritaire contribue au financement d'actions de formation professionnelle
+concourant à la qualification et à la requalification des salariés et demandeurs
+d'emploi déterminées par un accord entre les organisations représentatives
+d'employeurs et de salariés de l'agriculture. La déclinaison de cet accord donne
+lieu à une convention-cadre signée entre l'Etat et les organisations
+d'employeurs et de salariés de l'agriculture. En cas de non-utilisation de la
+totalité des fonds affectés à ces actions, le solde abonde le fonds paritaire de
+sécurisation des parcours professionnels.
 
 Les sommes mentionnées aux 1° et 2° sont versées par l'intermédiaire des
 organismes collecteurs paritaires agréés au titre de la professionnalisation et

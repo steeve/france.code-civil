@@ -1,8 +1,8 @@
 Article L238-1
 ----
 La composition et les compétences du Conseil national de l'enseignement agricole
-sont fixées par les dispositions des articles L. 814-1 et L. 814-2 du code
-rural, ci-après reproduites :
+sont fixées par les dispositions des articles L. 814-1 et L. 814-2 du code rural
+et de la pêche maritime, ci-après reproduites :
 
 " Art.L. 814-1.-Le Conseil national de l'enseignement agricole est présidé par
 le ministre de l'agriculture et composé de soixante-quatre membres ainsi

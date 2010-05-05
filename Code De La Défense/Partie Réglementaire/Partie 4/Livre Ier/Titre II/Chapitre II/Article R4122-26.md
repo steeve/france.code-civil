@@ -15,12 +15,12 @@ durée limitée ;
 4° Enseignements ou formations ;
 
 5° Activité agricole au sens du premier alinéa de l'article L. 311-1 du code
-rural dans des exploitations agricoles non constituées sous forme sociale, ainsi
-qu'une activité exercée dans des exploitations constituées sous forme de société
-civile ou commerciale, sous réserve que le militaire n'y exerce pas les
-fonctions de gérant, de directeur général, ou de membre du conseil
-d'administration, du directoire ou du conseil de surveillance, sauf lorsqu'il
-s'agit de la gestion de son patrimoine personnel et familial ;
+rural et de la pêche maritime dans des exploitations agricoles non constituées
+sous forme sociale, ainsi qu'une activité exercée dans des exploitations
+constituées sous forme de société civile ou commerciale, sous réserve que le
+militaire n'y exerce pas les fonctions de gérant, de directeur général, ou de
+membre du conseil d'administration, du directoire ou du conseil de surveillance,
+sauf lorsqu'il s'agit de la gestion de son patrimoine personnel et familial ;
 
 6° Services à la personne définis à l'article L. 7231-1 et au 1° de l'article L.
 7231-2 du code du travail ;

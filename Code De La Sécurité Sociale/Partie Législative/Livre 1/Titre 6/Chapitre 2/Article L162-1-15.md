@@ -9,11 +9,12 @@ d'actes, produits ou prestations figurant sur les listes mentionnées aux
 articles L. 162-1-7, L. 162-17 et L. 165-1 ainsi que des frais de transport ou
 le versement des indemnités journalières mentionnés aux 2° et 5° de l'article L.
 321-1 et aux 1° et 2° de l'article L. 431-1 du présent code ainsi qu'aux 1° et
-2° de l'article L. 752-3 du code rural, en cas de constatation par ce service :
+2° de l'article L. 752-3 du code rural et de la pêche maritime, en cas de
+constatation par ce service :
 
 1° Du non-respect par le médecin des conditions prévues au 2° ou au 5° de
 l'article L. 321-1 et au 1° ou au 2° de l'article L. 431-1 du présent code ainsi
-qu'aux 1° et 2° de l'article L. 752-3 du code rural ;
+qu'aux 1° et 2° de l'article L. 752-3 du code rural et de la pêche maritime ;
 
 2° Ou d'un nombre ou d'une durée d'arrêts de travail prescrits par le médecin et
 donnant lieu au versement d'indemnités journalières ou d'un nombre de tels

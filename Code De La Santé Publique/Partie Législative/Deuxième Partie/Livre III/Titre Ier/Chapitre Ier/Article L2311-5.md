@@ -9,10 +9,10 @@ font la demande et des personnes qui ne relèvent pas d'un régime de base
 d'assurance maladie ou qui n'ont pas de droits ouverts dans un tel régime. Dans
 ces cas, les dépenses relatives au dépistage et au traitement sont prises en
 charge par les régimes d'assurance maladie, sans qu'il soit fait application des
-dispositions du code de la sécurité sociale et du code rural relatives à
-l'ouverture du droit aux prestations couvertes par les régimes de base, au
-remboursement de la part garantie par l'assurance maladie et à la participation
-de l'assuré aux tarifs servant de base aux remboursements.
+dispositions du code de la sécurité sociale et du code rural et de la pêche
+maritime relatives à l'ouverture du droit aux prestations couvertes par les
+régimes de base, au remboursement de la part garantie par l'assurance maladie et
+à la participation de l'assuré aux tarifs servant de base aux remboursements.
 
 Un décret pris après avis du Haut Conseil de la santé publique fixe les
 modalités d'application du présent article. Ce décret fixe également les

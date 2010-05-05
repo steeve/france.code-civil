@@ -13,4 +13,5 @@ dommages-intérêts.
 La réintégration prévue à l'alinéa précédent ne peut être prononcée si elle a
 pour résultat, compte tenu des biens que le preneur exploite par ailleurs, de
 lui permettre de mettre en valeur une exploitation excédant le seuil de
-superficie défini en application du I (1°) de l'article L331-2 du code rural.
+superficie défini en application du I (1°) de l'article L. 331-2 du code rural
+et de la pêche maritime.

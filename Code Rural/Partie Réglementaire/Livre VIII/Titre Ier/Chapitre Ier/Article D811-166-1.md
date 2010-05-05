@@ -4,7 +4,7 @@ Le brevet professionnel agricole est un diplôme national classé au niveau V de
 la nomenclature interministérielle des niveaux de formation, délivré par le
 ministre chargé de l'agriculture, qui atteste d'une qualification
 professionnelle pour l'exercice des métiers visés à l'article L. 811-1 du code
-rural.
+rural et de la pêche maritime.
 
 Il sanctionne l'acquisition de compétences et de connaissances générales,
 technologiques et professionnelles nécessaires pour exercer une ou plusieurs

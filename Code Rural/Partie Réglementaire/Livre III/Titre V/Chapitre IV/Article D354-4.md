@@ -7,6 +7,7 @@ le secrétariat de la commission départementale d'orientation de l'agriculture
 (CDOA).
 
 Lorsque son exploitation fait l'objet d'une procédure de règlement amiable ou de
-redressement prévue aux articles L. 351-1 et suivants du code rural ou d'une
-procédure de sauvegarde des entreprises prévue à l'article L. 620-2 du code de
-commerce, l'exploitant doit en faire part au préfet lors du dépôt de sa demande.
+redressement prévue aux articles L. 351-1 et suivants du code rural et de la
+pêche maritime ou d'une procédure de sauvegarde des entreprises prévue à
+l'article L. 620-2 du code de commerce, l'exploitant doit en faire part au
+préfet lors du dépôt de sa demande.

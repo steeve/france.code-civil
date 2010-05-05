@@ -1,35 +1,18 @@
 Article L942-7
 ----
-La chambre de discipline peut appliquer les peines disciplinaires suivantes :
+Sur réquisition écrite du procureur de la République, les agents mentionnés à
+l'article L. 942-1, lorsqu'ils ne disposent pas de tels pouvoirs, peuvent, à
+toute heure et en tout lieu ouvert à la circulation, afin de procéder aux
+contrôles des véhicules susceptibles de transporter des produits de la mer :
 
-1° L'avertissement ;
+1° Faire sommer de s'arrêter par un officier ou agent de police judiciaire, un
+administrateur, officier, inspecteur ou contrôleur des affaires maritimes, un
+agent des douanes ou un agent de police judiciaire adjoint munis des insignes
+extérieurs et apparents de leur qualité, tout véhicule à usage professionnel ;
 
-2° La réprimande, accompagnée ou non de l'interdiction de faire partie d'un
-conseil de l'ordre pendant un délai qui ne peut excéder dix ans ;
+2° Faire ouvrir, visiter et contrôler tout véhicule transportant ou susceptible
+de transporter des produits de la mer ;
 
-3° La suspension temporaire du droit d'exercer la profession pour une durée
-maximum de dix ans dans un périmètre qui ne pourra excéder le ressort de la
-chambre régionale qui a prononcé la suspension. Cette sanction entraîne
-l'inéligibilité de l'intéressé à un conseil de l'ordre pendant toute la durée de
-la suspension ;
-
-4° La suspension temporaire du droit d'exercer la profession pour une durée
-maximum de dix ans sur tout le territoire des départements métropolitains et
-d'outre-mer. Cette sanction comporte l'interdiction définitive de faire partie
-d'un conseil de l'ordre.
-
-L'exercice de la profession en période de suspension est passible des peines
-applicables à l'exercice illégal de la médecine et de la chirurgie des animaux.
-
-Lorsqu'une période égale à la moitié de la durée de la suspension se sera
-écoulée, le vétérinaire ou docteur vétérinaire frappé peut être relevé de
-l'incapacité d'exercer par une décision de la chambre de discipline qui a
-prononcé la condamnation. La demande est formée par une requête adressée au
-président du conseil régional de l'ordre qui a prononcé la suspension ; celui-ci
-devra statuer dans un délai de trois mois à dater du jour du dépôt de la
-requête.
-
-Toute décision de rejet pourra être transférée au conseil supérieur de l'ordre.
-
-Les peines disciplinaires prévues au présent article devront être notifiées au
-conseil supérieur de l'ordre dans un délai maximum d'un mois.
+3° En cas de refus de la visite afin de contrôle ou de saisie, immobiliser le
+véhicule durant le temps nécessaire à l'information du procureur de la
+République, sans dépasser le délai de deux heures.

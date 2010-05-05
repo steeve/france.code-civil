@@ -1,7 +1,7 @@
 Article 1622
 ----
 Le fonds commun des accidents du travail agricole, prévu aux articles L. 753-1
-et L. 753-3 du code rural, est alimenté :
+et L. 753-3 du code rural et de la pêche maritime, est alimenté :
 
 1° Pour moitié :
 

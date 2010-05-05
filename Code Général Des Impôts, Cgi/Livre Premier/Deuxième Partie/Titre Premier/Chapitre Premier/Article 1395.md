@@ -10,8 +10,9 @@ juillet 2001 d'orientation sur la forêt, cette période d'exonération est rame
 les bois autres que les bois résineux. Toutefois dans les zones dans lesquelles
 des plantations et semis d'essences forestières sont interdits ou réglementés
 dans des conditions déterminées par décret en Conseil d'Etat, en vertu des
-dispositions de l'article L126-1 du code rural, les plantations ou semis
-exécutés en violation de ces conditions ne peuvent bénéficier de l'exonération ;
+dispositions de l'article L. 126-1 du code rural et de la pêche maritime, les
+plantations ou semis exécutés en violation de ces conditions ne peuvent
+bénéficier de l'exonération ;
 
 1° bis A compter du 1er janvier de l'année suivant la promulgation de la loi n°
 2001-602 du 9 juillet 2001 précitée, les terrains boisés en nature de futaies ou

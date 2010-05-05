@@ -20,8 +20,9 @@ identiques à celles de leurs membres ;
 4° Les sociétés de bains-douches et les sociétés de jardins ouvriers ;
 
 5° Les organismes de jardins familiaux définis à l'article L. 561-2 du code
-rural, lorsque leur activité, considérée dans son ensemble, s'exerce dans des
-conditions telles qu'elle peut être tenue pour désintéressée ;
+rural et de la pêche maritime, lorsque leur activité, considérée dans son
+ensemble, s'exerce dans des conditions telles qu'elle peut être tenue pour
+désintéressée ;
 
 6° L'Union d'économie sociale prévue à l'article L. 313-17 du code de la
 construction et de l'habitation, sauf pour les activités effectuées en

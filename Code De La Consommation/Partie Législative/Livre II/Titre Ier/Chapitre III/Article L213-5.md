@@ -27,7 +27,7 @@ livre Ier, la section 1 du chapitre Ier du titre II du livre Ier, l'article L.
 - loi du 6 avril 1897 concernant la fabrication, la circulation et la vente des
 vins artificiels ;
 
-- les articles L. 253-12 et L. 253-13 du code rural ;
+- les articles L. 253-12 et L. 253-13 du code rural et de la pêche maritime ;
 
 - loi du 11 juillet 1906 relative à la protection des conserves de sardines, de
 légumes et de prunes contre la fraude étrangère, dont les dispositions ont été
@@ -64,7 +64,7 @@ en écaille et en ivoire ;
 à l'alimentation des animaux ;
 
 - les articles L. 253-1 à L. 253-11 et les articles L. 253-14 à L. 253-17 du
-code rural ;
+code rural et de la pêche maritime ;
 
 - loi n° 60-808 du 5 août 1960 d'orientation agricole ;
 
@@ -76,6 +76,6 @@ forestières ;
 - loi n° 73-1097 du 12 décembre 1973 sur les appellations d'origine en matière
 viticole ;
 
-- les articles L. 255-1 à L. 255-11 du code rural ;
+- les articles L. 255-1 à L. 255-11 du code rural et de la pêche maritime ;
 
-- les articles L. 645-1 et L. 671-7 du code rural ;
+- les articles L. 645-1 et L. 671-7 du code rural et de la pêche maritime ;

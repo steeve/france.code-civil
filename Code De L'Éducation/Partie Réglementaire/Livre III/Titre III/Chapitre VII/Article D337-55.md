@@ -4,12 +4,13 @@ Le baccalauréat professionnel est préparé :
 
 1° Soit par la voie scolaire dans les lycées, essentiellement les lycées
 professionnels, les lycées professionnels agricoles, ou les établissements
-publics mentionnés à l'article L. 811-1 du code rural, ou dans les écoles ou
-établissements d'enseignement technique privés mentionnés au chapitre III du
-titre IV du Livre IV du code de l'éducation et par l'article L. 813-1 du code
-rural, ou dans les établissements scolaires maritimes mentionnés à l'article R.
-342-2 ainsi que dans les établissements relevant des départements ministériels
-dont la liste est fixée par arrêté du ministre chargé de l'éducation ;
+publics mentionnés à l'article L. 811-1 du code rural et de la pêche maritime,
+ou dans les écoles ou établissements d'enseignement technique privés mentionnés
+au chapitre III du titre IV du Livre IV du code de l'éducation et par l'article
+L. 813-1 du code rural et de la pêche maritime, ou dans les établissements
+scolaires maritimes mentionnés à l'article R. 342-2 ainsi que dans les
+établissements relevant des départements ministériels dont la liste est fixée
+par arrêté du ministre chargé de l'éducation ;
 
 2° Soit par la voie de l'apprentissage définie au livre II de la sixième partie
 du code du travail ;

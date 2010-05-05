@@ -2,8 +2,9 @@ Article R361-40
 ----
 Le bénéfice des prêts mentionnés au 2° de l'article R. 361-39 est réservé aux
 personnes ayant une activité agricole au sens de l'article L. 311-1 du code
-rural. Un arrêté du ministre chargé de l'agriculture fixe le montant maximum des
-prêts pouvant être consentis à un emprunteur pour un même sinistre.
+rural et de la pêche maritime. Un arrêté du ministre chargé de l'agriculture
+fixe le montant maximum des prêts pouvant être consentis à un emprunteur pour un
+même sinistre.
 
 La demande de prêt doit être présentée :
 

@@ -2,8 +2,9 @@ Article R142-46
 ----
 Les commissions prévues à l'article R. 142-42 donnent, sur les affaires qui leur
 sont soumises, leur avis à l'instance délibérante du groupement institué par
-l'article L. 752-14 du code rural, laquelle statue par décision motivée. Cette
-décision est notifiée à l'intéressé avec mention des délais et voies de recours.
+l'article L. 752-14 du code rural et de la pêche maritime, laquelle statue par
+décision motivée. Cette décision est notifiée à l'intéressé avec mention des
+délais et voies de recours.
 
 Toutefois, le groupement peut déléguer, dans les conditions qu'il détermine,
 tout ou partie de ses pouvoirs aux commissions, y compris pour statuer sur les

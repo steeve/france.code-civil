@@ -10,7 +10,7 @@ et L. 5141-2 ;
 3° Abrogé
 
 4° Aux produits antiparasitaires à usage agricole définis à l'article L. 253-1
-du code rural ;
+du code rural et de la pêche maritime ;
 
 5° Aux substances mises sur le marché après le 18 septembre 1981 qui sont régies
 par l'article L. 231-7 du code du travail ou par le titre II du livre V du code

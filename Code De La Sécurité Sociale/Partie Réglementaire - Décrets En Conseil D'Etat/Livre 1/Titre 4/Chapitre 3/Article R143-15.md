@@ -15,8 +15,8 @@ professionnelle concernant les régimes autres qu'agricoles ;
 3° Des contestations en matière de législation sociale agricole :
 
 a) Mentionnées au 4° de l'article L. 143-1 et à l'article L. 752-19 du code
-rural et relatives à la tarification de l'assurance des accidents du travail et
-des maladies professionnelles ;
+rural et de la pêche maritime et relatives à la tarification de l'assurance des
+accidents du travail et des maladies professionnelles ;
 
 b) Mentionnées au 3° de l'article L. 143-1 et relatives à l'état et au degré
 d'invalidité ou à l'état d'inaptitude au travail, lorsqu'elle n'est pas due à un

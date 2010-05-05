@@ -7,7 +7,7 @@ D. 811-165-2 à D. 811-165-8.
 
 Ce diplôme atteste l'acquisition d'une haute qualification professionnelle pour
 l'exercice des métiers visés au premier alinéa de l'article L. 811-1 du code
-rural.
+rural et de la pêche maritime.
 
 En outre, il atteste, lorsque des dispositions réglementaires le prévoient,
 l'aptitude du titulaire à la gestion d'une entreprise ou d'une exploitation

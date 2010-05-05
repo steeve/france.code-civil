@@ -20,7 +20,7 @@ d) A la maintenance des matériels acquis par l'Etat en application de l'article
 D. 211-14.
 
 2° Pour les établissements d'enseignement agricole mentionnés à l'article L.
-811-8 du code rural :
+811-8 du code rural et de la pêche maritime :
 
 a) A l'affectation de véhicules de transports en commun ;
 

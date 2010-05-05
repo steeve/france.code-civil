@@ -1,13 +1,13 @@
 Article D173-21-0-1
 ----
 Pour l'application des articles L. 382-29, L. 351-14-1, L. 634-2-2, L. 643-2 et
-L. 723-10-3 du présent code et de l'article L. 732-27-1 du code rural, lorsque
-la demande de versement prévue à ces articles porte sur une période au cours de
-laquelle ont été obtenus plusieurs diplômes, ou a été achevée la scolarité
-assimilée et a été obtenu au moins un diplôme, la demande est adressée au
-premier régime d'assurance vieillesse où l'assuré a été affilié et où a été
-validé au moins un trimestre postérieurement à l'obtention du dernier de ces
-diplômes ou de ce diplôme.
+L. 723-10-3 du présent code et de l'article L. 732-27-1 du code rural et de la
+pêche maritime, lorsque la demande de versement prévue à ces articles porte sur
+une période au cours de laquelle ont été obtenus plusieurs diplômes, ou a été
+achevée la scolarité assimilée et a été obtenu au moins un diplôme, la demande
+est adressée au premier régime d'assurance vieillesse où l'assuré a été affilié
+et où a été validé au moins un trimestre postérieurement à l'obtention du
+dernier de ces diplômes ou de ce diplôme.
 
 Aux fins de l'application des mêmes articles, lorsque l'assuré a été affilié et
 a validé au moins un trimestre au cours de la même année, postérieurement à

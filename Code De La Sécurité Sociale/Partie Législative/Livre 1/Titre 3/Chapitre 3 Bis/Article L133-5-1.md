@@ -25,8 +25,8 @@ contributions conventionnelles rendues obligatoires par la loi ;
 
 3° D'effectuer les déclarations obligatoires relatives aux cotisations et
 contributions sociales qui doivent être adressées aux organismes gérant les
-régimes mentionnés au présent code, au code rural et à l'article L. 351-21 du
-code du travail.
+régimes mentionnés au présent code, au code rural et de la pêche maritime et à
+l'article L. 351-21 du code du travail.
 
 Les cotisations et contributions sociales des associations ayant recours au
 "service emploi associations" sont réglées par virement ou par tout autre mode

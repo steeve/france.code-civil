@@ -11,7 +11,8 @@ des lycées privés habilités à recevoir des boursiers nationaux ;
 déduites les aides accordées au titre des exonérations éventuelles de frais de
 pension et de demi-pension ;
 
-3° Dans les établissements d'enseignement visés au livre VIII du code rural.
+3° Dans les établissements d'enseignement visés au livre VIII du code rural et
+de la pêche maritime.
 
 Les modalités d'octroi des bourses et les conditions à remplir par les
 établissements qui reçoivent les boursiers nationaux sont déterminées par

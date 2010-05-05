@@ -25,4 +25,5 @@ En outre, la procédure ne peut être ouverte à l'égard d'un débiteur exerça
 activité agricole qui n'est pas constitué sous la forme d'une société
 commerciale que si le président du tribunal de grande instance a été saisi,
 préalablement à l'assignation, d'une demande tendant à la désignation d'un
-conciliateur présentée en application de l'article L. 351-2 du code rural.
+conciliateur présentée en application de l'article L. 351-2 du code rural et de
+la pêche maritime.

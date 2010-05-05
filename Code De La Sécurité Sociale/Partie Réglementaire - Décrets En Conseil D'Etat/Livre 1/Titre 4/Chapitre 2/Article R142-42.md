@@ -1,18 +1,20 @@
 Article R142-42
 ----
 Les réclamations formées contre les décisions prises par le groupement institué
-par l'article L. 752-14 du code rural, autres que celles mentionnées à l'article
-R. 142-50, sont soumises à l'avis d'une commission départementale ou
-interdépartementale constituée par le groupement et composée de :
+par l'article L. 752-14 du code rural et de la pêche maritime, autres que celles
+mentionnées à l'article R. 142-50, sont soumises à l'avis d'une commission
+départementale ou interdépartementale constituée par le groupement et composée
+de :
 
 1° Deux représentants du groupement désignés par celui-ci ;
 
 2° Deux représentants des affiliés à un organisme membre du groupement et
 désignés par les membres élus de la chambre départementale d'agriculture, située
 dans le ressort du bureau départemental du groupement, qui appartiennent au
-collège mentionné au 1° de l'article R. 511-6 du code rural et sont affiliés à
-un organisme membre du groupement. Les modalités de désignation de ces
-représentants sont fixées par arrêté du ministre chargé de l'agriculture.
+collège mentionné au 1° de l'article R. 511-6 du code rural et de la pêche
+maritime et sont affiliés à un organisme membre du groupement. Les modalités de
+désignation de ces représentants sont fixées par arrêté du ministre chargé de
+l'agriculture.
 
 Les membres de la commission sont désignés pour un an renouvelable dans la
 limite de la durée de leur mandat de représentant au sein des chambres

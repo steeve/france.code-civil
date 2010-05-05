@@ -31,9 +31,9 @@ niveau des cotisations dont sont redevables les salariés concernés.
 IV.-Le bénéfice de la réduction prévue au I est subordonné à la mise à la
 disposition des agents du service des impôts compétent ou des agents chargés du
 contrôle mentionnés à l'article L. 243-7 du présent code et à l'article L. 724-7
-du code rural, par l'employeur, d'un document en vue du contrôle de
-l'application du présent article dans des conditions fixées par décret. Pour les
-salaires pour lesquels il est fait usage des dispositifs mentionnés aux articles
-L. 133-5-2, L. 133-8, L. 133-8-3 et L. 531-8 du présent code et à l'article L.
-812-1 du code du travail, les obligations déclaratives complémentaires sont
-prévues par décret.
+du code rural et de la pêche maritime, par l'employeur, d'un document en vue du
+contrôle de l'application du présent article dans des conditions fixées par
+décret. Pour les salaires pour lesquels il est fait usage des dispositifs
+mentionnés aux articles L. 133-5-2, L. 133-8, L. 133-8-3 et L. 531-8 du présent
+code et à l'article L. 812-1 du code du travail, les obligations déclaratives
+complémentaires sont prévues par décret.

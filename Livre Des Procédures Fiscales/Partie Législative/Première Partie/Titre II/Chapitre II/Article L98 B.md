@@ -11,7 +11,7 @@ déclarées par ces employeurs au cours de l'année précédente.
 La Caisse centrale de la mutualité sociale agricole communique à
 l'administration fiscale, dans les conditions prévues au premier alinéa, les
 déclarations de salaires relevant du titre emploi simplifié agricole prévu à
-l'article L. 712-1 du code rural.
+l'article L. 712-1 du code rural et de la pêche maritime.
 
 L'organisme habilité mentionné au premier alinéa de l'article L. 7122-23 du code
 du travail communique à l'administration fiscale, dans les conditions prévues au

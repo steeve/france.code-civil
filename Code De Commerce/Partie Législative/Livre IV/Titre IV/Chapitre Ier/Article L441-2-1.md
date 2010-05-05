@@ -18,8 +18,9 @@ regard des engagements de ce dernier.
 Lorsqu'un contrat type relatif aux activités mentionnées au premier alinéa est
 inclus dans un accord interprofessionnel adopté par l'organisation
 interprofessionnelle reconnue pour le produit concerné et étendu en application
-des dispositions des articles L. 632-3 et L. 632-4 du code rural, le contrat
-mentionné au premier alinéa doit être conforme à ce contrat type.
+des dispositions des articles L. 632-3 et L. 632-4 du code rural et de la pêche
+maritime, le contrat mentionné au premier alinéa doit être conforme à ce contrat
+type.
 
 Toute infraction aux dispositions du présent article est punie d'une amende de
 15 000 Euros.

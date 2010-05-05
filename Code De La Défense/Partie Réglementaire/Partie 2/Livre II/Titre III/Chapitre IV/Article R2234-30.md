@@ -8,6 +8,7 @@ chambres départementales d'agriculture ou des services départementaux compéte
 du ministère chargé de l'agriculture. L'indemnité périodique de privation de
 jouissance due au prestataire est déterminée d'après tous éléments, dans la
 limite des fermages fixés dans chaque département par le préfet, conformément
-aux dispositions des articles L. 411-11 et R. 411-9-6 du code rural, pour les
-exploitations similaires de la région considérée, sans pouvoir dépasser, pour
-les éléments d'exploitation pris à bail, le montant du fermage conventionnel.
+aux dispositions des articles L. 411-11 et R. 411-9-6 du code rural et de la
+pêche maritime, pour les exploitations similaires de la région considérée, sans
+pouvoir dépasser, pour les éléments d'exploitation pris à bail, le montant du
+fermage conventionnel.

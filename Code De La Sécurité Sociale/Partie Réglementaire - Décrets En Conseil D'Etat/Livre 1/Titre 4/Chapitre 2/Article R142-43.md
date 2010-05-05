@@ -17,7 +17,7 @@ décret n° 84-477 du 18 juin 1984 pris pour l'application des articles 1004 à
 conseils d'administration des caisses de mutualité sociale agricole. Le
 groupement leur alloue également, selon leur choix, soit une indemnité
 forfaitaire de remplacement d'un montant égal à celui de l'allocation instituée
-par l'article L. 732-12 du code rural, soit une indemnité forfaitaire
-représentative du temps passé à l'exercice de leurs fonctions dont le montant
-est fixé selon les modalités au II (a) de l'article 110 du décret du 18 juin
-1984.
+par l'article L. 732-12 du code rural et de la pêche maritime, soit une
+indemnité forfaitaire représentative du temps passé à l'exercice de leurs
+fonctions dont le montant est fixé selon les modalités au II (a) de l'article
+110 du décret du 18 juin 1984.

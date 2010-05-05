@@ -1,14 +1,8 @@
 Article L941-8
 ----
-Les élèves et anciens élèves des écoles vétérinaires françaises, admis à exercer
-la médecine et la chirurgie vétérinaires, en application des dispositions qui
-précèdent, les exercent sous la responsabilité civile des vétérinaires et
-docteurs vétérinaires qui recourent à leurs services.
-
-Les modalités des rapports entre chaque élève ou ancien élève des écoles
-vétérinaires françaises, d'une part, et le vétérinaire ou docteur vétérinaire
-qui recourt à ses services, d'autre part, doivent faire l'objet d'un contrat
-écrit. A défaut de contrat, les modalités sont régies par des arrêtés du
-ministre chargé de l'agriculture pris après avis du conseil supérieur de l'ordre
-des vétérinaires et qui peuvent comporter des dispositions variant suivant les
-régions et les catégories de soins donnés.
+Pour les nécessités des contrôles qu'ils conduisent, les agents chargés de la
+police administrative des pêches maritimes peuvent se communiquer spontanément,
+sans que puisse y faire obstacle le secret professionnel auquel ils sont, le cas
+échéant, tenus, les informations et documents détenus ou recueillis dans
+l'exercice de leurs missions de police administrative prévues par le présent
+livre.

@@ -29,8 +29,8 @@ ressource en eau dans les aires d'alimentation des captages d'eau potable d'une
 importance particulière prévues par le 5° du II de l'article L. 211-3 ;
 
 b) A la restauration et à la préservation des milieux aquatiques dans les zones
-d'érosion prévues par l'article L. 114-1 du code rural et par le 5° du II de
-l'article L. 211-3 du code de l'environnement ;
+d'érosion prévues par l'article L. 114-1 du code rural et de la pêche maritime
+et par le 5° du II de l'article L. 211-3 du code de l'environnement ;
 
 c) Au maintien et à la restauration des zones humides d'intérêt environnemental
 particulier prévues par le 4° du II de l'article L. 211-3 et des zones

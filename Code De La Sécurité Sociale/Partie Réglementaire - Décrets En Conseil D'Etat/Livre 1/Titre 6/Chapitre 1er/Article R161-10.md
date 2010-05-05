@@ -10,7 +10,7 @@ de l'estimation indicative globale sont :
 1° Les organismes chargés de la gestion des régimes de retraite de base et de
 l'assurance volontaire vieillesse du régime général de la sécurité sociale et
 des salariés agricoles, mentionnés respectivement à l'article L. 222-1 du
-présent code et à l'article L. 723-2 du code rural ;
+présent code et à l'article L. 723-2 du code rural et de la pêche maritime ;
 
 2° Les institutions de retraite complémentaire adhérentes de l'Association
 générale des institutions de retraite des cadres et leur fédération, les
@@ -27,12 +27,12 @@ retraite de base, de l'assurance volontaire vieillesse et des régimes de
 retraite complémentaire obligatoires des professions non salariées de
 l'agriculture, de l'artisanat, du commerce et de l'industrie et des professions
 libérales mentionnés aux articles L. 621-3 et L. 644-1 et à l'article L. 723-2
-du code rural, du régime des avocats mentionné à l'article L. 723-1 du présent
-code et de l'Institution de retraite complémentaire de l'enseignement et de la
-création mentionnée à l'article 1er du décret n° 62-420 du 11 avril 1962 modifié
-relatif au régime d'assurance vieillesse complémentaire commun aux artistes
-graphiques et plastiques et aux professeurs de musique, musiciens, auteurs et
-compositeurs ;
+du code rural et de la pêche maritime, du régime des avocats mentionné à
+l'article L. 723-1 du présent code et de l'Institution de retraite
+complémentaire de l'enseignement et de la création mentionnée à l'article 1er du
+décret n° 62-420 du 11 avril 1962 modifié relatif au régime d'assurance
+vieillesse complémentaire commun aux artistes graphiques et plastiques et aux
+professeurs de musique, musiciens, auteurs et compositeurs ;
 
 4° La Caisse des dépôts et consignations au titre de la gestion des retraites
 des agents relevant ou ayant relevé :

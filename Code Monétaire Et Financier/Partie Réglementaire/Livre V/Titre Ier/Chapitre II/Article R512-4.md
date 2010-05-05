@@ -37,7 +37,7 @@ la forme d'établissements publics ou agréés dans les conditions fixées par u
 arrêté du ministre de l'agriculture ;
 
 11° Les organismes mentionnés à la section 3 du chapitre 2 du titre Ier du livre
-Ier du code rural ;
+Ier du code rural et de la pêche maritime ;
 
 12° Les organismes d'intervention mentionnés au titre II du décret n° 53-974 du
 30 septembre 1953 ;

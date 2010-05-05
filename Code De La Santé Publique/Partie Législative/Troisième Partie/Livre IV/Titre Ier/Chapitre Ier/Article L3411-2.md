@@ -10,11 +10,11 @@ L. 314-8 du code de l'action sociale et des familles.
 Toutefois, lorsque le traitement est réalisé avec hébergement dans un
 établissement de santé, les dépenses afférentes au traitement sont prises en
 charge par les régimes d'assurance maladie, sans qu'il soit fait application des
-dispositions du code de la sécurité sociale et du code rural relatives à
-l'ouverture du droit aux prestations couvertes par les régimes de base, au
-remboursement de la part garantie par l'assurance maladie, à la participation de
-l'assuré aux tarifs servant de base au remboursement ainsi qu'au forfait
-mentionné à l'article L. 174-4 du code de la sécurité sociale.
+dispositions du code de la sécurité sociale et du code rural et de la pêche
+maritime relatives à l'ouverture du droit aux prestations couvertes par les
+régimes de base, au remboursement de la part garantie par l'assurance maladie, à
+la participation de l'assuré aux tarifs servant de base au remboursement ainsi
+qu'au forfait mentionné à l'article L. 174-4 du code de la sécurité sociale.
 
 Un décret en Conseil d'Etat fixe les modalités d'application des dispositions
 des deux alinéas précédents.

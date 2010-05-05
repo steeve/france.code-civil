@@ -1,18 +1,13 @@
 Article L932-2
 ----
-S'il est établi, après son départ de l'établissement d'origine, qu'un lot
-d'animaux ou denrées visées à l'article L. 931-1 présente ou est susceptible de
-présenter, compte tenu de ses conditions communes d'élevage, de production ou de
-commercialisation, un danger pour la santé publique, le préfet, sur la
-proposition d'un vétérinaire inspecteur habilité en vertu de l'article L. 931-2,
-en ordonne la consignation ou le rappel en un ou plusieurs lieux pour en
-permettre le contrôle.
-
-Toute personne ayant acquis ou cédé un ou plusieurs éléments du lot et ayant
-connaissance de la décision de consignation ou de rappel est tenue d'en informer
-celui qui a fourni la marchandise et ceux à qui elle l'a cédée.
-
-Les frais résultant de la décision de consignation ou de rappel, notamment les
-frais de transport, de stockage, d'analyses et de destruction, sont à la charge
-de l'opérateur concerné sans préjudice de la mise en cause de la responsabilité
-du fournisseur.
+Lorsque les règlements de l'Union européenne relatifs au régime de conservation
+et de gestion des ressources de la pêche ou à l'organisation commune des marchés
+des produits de la mer ou au régime de contrôle de la politique commune de la
+pêche l'exigent ou le permettent, ou lorsque la pêche maritime s'exerce dans le
+cadre d'activités ne relevant pas du champ d'application de ces règlements,
+l'autorité administrative fixe, dans des conditions précisées par décret en
+Conseil d'Etat, les règles relative aux obligations déclaratives pesant sur les
+pêcheurs, les producteurs, les premiers acheteurs, les transporteurs, les
+importateurs et les exportateurs, leurs organisations reconnues et les
+organismes gestionnaires de halles à marée, en ce qui concerne leurs activités
+respectives.

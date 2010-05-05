@@ -34,8 +34,8 @@ l'article 286 J précité ;
 a) Les mentions relatives aux comptes d'âge ou de vieillissement ;
 
 b) Les références aux contrats d'achat soumis au visa de l'établissement
-mentionné à l'article L. 621-1 du code rural pour les transactions soumises à
-cette procédure ;
+mentionné à l'article L. 621-1 du code rural et de la pêche maritime pour les
+transactions soumises à cette procédure ;
 
 c) Les références aux certificats d'agrément ou de labellisation ;
 

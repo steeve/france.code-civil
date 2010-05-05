@@ -1,11 +1,11 @@
 Article R133-8
 ----
 Lorsqu'il ne résulte pas d'un contrôle effectué en application de l'article L.
-243-7 du présent code ou de l'article L. 724-7 du code rural, tout redressement
-consécutif au constat d'un délit de travail dissimulé est porté à la
-connaissance de l'employeur ou du travailleur indépendant par un document daté
-et signé par le directeur de l'organisme de recouvrement, transmis par lettre
-recommandée avec demande d'avis de réception.
+243-7 du présent code ou de l'article L. 724-7 du code rural et de la pêche
+maritime, tout redressement consécutif au constat d'un délit de travail
+dissimulé est porté à la connaissance de l'employeur ou du travailleur
+indépendant par un document daté et signé par le directeur de l'organisme de
+recouvrement, transmis par lettre recommandée avec demande d'avis de réception.
 
 Ce document rappelle les références du procès-verbal pour travail dissimulé
 établi par un des agents mentionnés à l'article L. 8271-7 du code du travail et

@@ -1,9 +1,5 @@
 Article L923-3
 ----
-Après avis de la Commission nationale vétérinaire, la nomenclature mentionnée à
-l'article L. 923-2 peut être étendue, par décret, pour toutes les espèces
-d'animaux, à toutes maladies contagieuses, dénommées ou non, qui prendraient un
-caractère dangereux.
-
-Les mesures de police sanitaire peuvent être étendues, par décret, à ces mêmes
-espèces animales.
+Un décret détermine les mesures propres à prévenir l'apparition, enrayer le
+développement et à favoriser l'extinction des maladies affectant les animaux et
+végétaux marins.

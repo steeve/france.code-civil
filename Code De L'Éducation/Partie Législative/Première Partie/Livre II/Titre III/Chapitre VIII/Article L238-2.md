@@ -2,8 +2,8 @@ Article L238-2
 ----
 La composition et les compétences du Conseil national de l'enseignement
 supérieur et de la recherche agricole, agroalimentaire et vétérinaire sont
-fixées par les dispositions de l'article L. 814-3 du code rural, ci-après
-reproduites :
+fixées par les dispositions de l'article L. 814-3 du code rural et de la pêche
+maritime, ci-après reproduites :
 
 " Art.L. 814-3.-Le Conseil national de l'enseignement supérieur et de la
 recherche agricole, agro-alimentaire et vétérinaire est placé auprès du ministre

@@ -9,6 +9,6 @@ du présent titre ;
 
 b) Soit par adhésion à une mutuelle régie par le code de la mutualité, ou par
 souscription d'un contrat auprès d'une institution de prévoyance régie par le
-livre IX du présent code ou par le livre VII du code rural, ou d'une entreprise
-régie par le code des assurances, dans les conditions prévues au chapitre II du
-présent titre.
+livre IX du présent code ou par le livre VII du code rural et de la pêche
+maritime, ou d'une entreprise régie par le code des assurances, dans les
+conditions prévues au chapitre II du présent titre.

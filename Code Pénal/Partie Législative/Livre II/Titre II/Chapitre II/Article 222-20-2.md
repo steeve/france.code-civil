@@ -17,19 +17,19 @@ administrative ;
 manifeste ou sous l'emprise manifeste de produits stupéfiants ;
 
 3° Le propriétaire ou le détenteur du chien n'avait pas exécuté les mesures
-prescrites par le maire, conformément à l'article L. 211-11 du code rural, pour
-prévenir le danger présenté par l'animal ;
+prescrites par le maire, conformément à l'article L. 211-11 du code rural et de
+la pêche maritime, pour prévenir le danger présenté par l'animal ;
 
 4° Le propriétaire ou le détenteur du chien n'était pas titulaire du permis de
-détention prévu à l'article L. 211-14 du code rural ;
+détention prévu à l'article L. 211-14 du code rural et de la pêche maritime ;
 
 5° Le propriétaire ou le détenteur du chien ne justifie pas d'une vaccination
 antirabique de son animal en cours de validité lorsqu'elle est obligatoire ;
 
 6° Il s'agissait d'un chien de la première ou de la deuxième catégorie prévues à
-l'article L. 211-12 du code rural qui n'était pas muselé ou tenu en laisse par
-une personne majeure conformément aux dispositions prévues au II de l'article L.
-211-16 du même code ;
+l'article L. 211-12 du code rural et de la pêche maritime qui n'était pas muselé
+ou tenu en laisse par une personne majeure conformément aux dispositions prévues
+au II de l'article L. 211-16 du même code ;
 
 7° Il s'agissait d'un chien ayant fait l'objet de mauvais traitements de la part
 de son propriétaire ou de son détenteur.

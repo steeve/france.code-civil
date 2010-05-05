@@ -5,7 +5,7 @@ fixe ou être compris dans une fourchette, ne peut être inférieur à trois pou
 les coopératives et à deux pour les unions.
 
 Pour être éligibles, les administrateurs doivent répondre aux conditions prévues
-par l'article L. 529-2 du code rural.
+par l'article L. 529-2 du code rural et de la pêche maritime.
 
 Les administrateurs, choisis parmi les associés coopérateurs, sont élus par
 l'assemblée générale à la majorité des suffrages exprimés.

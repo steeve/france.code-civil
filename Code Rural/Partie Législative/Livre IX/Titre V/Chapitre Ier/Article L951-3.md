@@ -1,19 +1,11 @@
 Article L951-3
 ----
-Le ministre chargé de l'agriculture dresse la liste des organismes nuisibles
-contre lesquels la lutte est organisée dans les conditions qu'il fixe. Sont
-considérés comme des organismes nuisibles tous les ennemis des végétaux ou des
-produits végétaux, qu'ils appartiennent au règne animal ou végétal ou se
-présentent sous forme de virus, mycoplasmes ou autres agents pathogènes.
+Sont compétents pour décider la saisie des biens appréhendés conformément à
+l'article L. 943-1 :
 
-Cette liste est établie par arrêté après avis d'un comité consultatif de la
-protection des végétaux, dont la composition est fixée par arrêté.
+1° Dans les départements d'outre-mer, le directeur départemental des affaires
+maritimes et ses adjoints ;
 
-Elle comprend :
-
-1° Les organismes nuisibles contre lesquels la lutte est obligatoire en tous
-lieux de façon permanente ;
-
-2° Les organismes nuisibles dont la pullulation peut présenter, à certains
-moments, un danger rendant nécessaires, dans un périmètre déterminé, des mesures
-particulières de défense.
+2° Dans les collectivités et territoires d'outre-mer, le directeur du service
+des affaires maritimes et ses adjoints ou le directeur du service chargé de la
+pêche maritime et ses adjoints.

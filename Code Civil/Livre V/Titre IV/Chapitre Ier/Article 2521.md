@@ -14,7 +14,7 @@ b) L'usufruit de la même propriété établi par la volonté de l'homme ;
 c) L'usage et l'habitation ;
 
 d) L'emphytéose, régie par les dispositions des articles L. 451-1 à L. 451-12 du
-code rural ;
+code rural et de la pêche maritime ;
 
 e) La superficie ;
 

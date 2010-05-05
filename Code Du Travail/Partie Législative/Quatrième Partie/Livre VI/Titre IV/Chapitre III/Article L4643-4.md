@@ -8,8 +8,8 @@ contribuer à l'amélioration des conditions de santé et de sécurité.
 Ces dispositions ne sont pas applicables aux exploitations et aux entreprises
 agricoles qui ne disposent pas de comité d'hygiène, de sécurité et des
 conditions de travail. Ces exploitations et entreprises relevant de l'article L.
-717-7 du code rural, relatif aux commissions paritaires d'hygiène, de sécurité
-et des conditions de travail en agriculture.
+717-7 du code rural et de la pêche maritime, relatif aux commissions paritaires
+d'hygiène, de sécurité et des conditions de travail en agriculture.
 
 A défaut de constitution de commissions dans les conditions prévues au premier
 alinéa, leur mission est assurée par des organismes professionnels de santé, de

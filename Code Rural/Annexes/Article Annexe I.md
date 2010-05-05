@@ -4,8 +4,8 @@ Pour l'application de l'article D. 732-46, la valeur d'un trimestre est
 déterminée sur la base des paramètres et en application des formules suivantes :
 
 1° Le coefficient forfaitaire visé au premier alinéa de l'article D. 732-46 du
-code rural est égal au coefficient fixé en application du 2o de l'article D.
-351-9 du code de la sécurité sociale ;
+code rural et de la pêche maritime est égal au coefficient fixé en application
+du 2° de l'article D. 351-9 du code de la sécurité sociale ;
 
 2° Les coefficients viagers pris en compte dans la formule ci-après sont ceux
 déterminés en application du 3° de l'article D. 351-9 susmentionné ;
@@ -24,8 +24,9 @@ b) Au titre du 2° du même article :
 où :
 
 RF est le montant maximal de la retraite forfaitaire mentionnée au 1° de
-l'article L. 732-24 du code rural pour sa valeur au 1er janvier de l'année au
-cours de laquelle l'assuré est admis au bénéfice du versement ;
+l'article L. 732-24 du code rural et de la pêche maritime pour sa valeur au 1er
+janvier de l'année au cours de laquelle l'assuré est admis au bénéfice du
+versement ;
 
 NP est le nombre trimestriel moyen de points de retraite proportionnelle égal au
 quart du nombre de points de retraite correspondant à un revenu annuel déterminé

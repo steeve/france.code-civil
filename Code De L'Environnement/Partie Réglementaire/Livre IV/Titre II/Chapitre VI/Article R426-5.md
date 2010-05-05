@@ -17,10 +17,10 @@ des experts nationaux auxquels il peut être fait appel pour la constatation des
 dégâts de gibier ; ceux-ci sont choisis parmi les experts nationaux agricoles et
 fonciers inscrits sur la liste des cours d'appel ainsi que parmi les experts
 fonciers et agricoles nommés par le ministre de l'agriculture en application de
-l'article L. 171 du code rural, compte tenu de leurs compétences pour certains
-types de cultures et en matière de dégâts de gibier. Elle détermine les cas dans
-lesquels il doit être fait appel à des experts nationaux, ainsi que les
-modalités de leur intervention.
+l'article L. 171 du code rural et de la pêche maritime, compte tenu de leurs
+compétences pour certains types de cultures et en matière de dégâts de gibier.
+Elle détermine les cas dans lesquels il doit être fait appel à des experts
+nationaux, ainsi que les modalités de leur intervention.
 
 Le secrétariat de la commission est assuré par l'Office national de la chasse et
 de la faune sauvage.

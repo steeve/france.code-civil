@@ -2,8 +2,8 @@ Article R172-12-1
 ----
 Pour l'application par un régime d'assurance maladie et maternité des
 dispositions de l'article L. 172-1 A, la période d'activité accomplie dans un
-autre régime régi par le présent code ou par le code rural est prise en compte
-selon les règles suivantes :
+autre régime régi par le présent code ou par le code rural et de la pêche
+maritime est prise en compte selon les règles suivantes :
 
 1° La durée d'affiliation ou d'immatriculation à un régime est assimilée à une
 durée d'affiliation ou d'immatriculation dans l'autre régime ;

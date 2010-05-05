@@ -10,7 +10,7 @@ directement ou acceptées en réassurance ;
 
 2° Fixer le nombre minimal d'adhérents, qui ne peut être inférieur à 500 ; ce
 nombre minimal est fixé à sept pour les organismes mentionnés à l'article L.
-771-1 du code rural ;
+771-1 du code rural et de la pêche maritime ;
 
 3° Fixer le montant minimal des cotisations versées par les adhérents au titre
 de la première période annuelle et préciser que ces cotisations doivent être
@@ -26,7 +26,7 @@ dépenses des cinq premières années et à garantir les engagements de la soci�
 et préciser que le fonds d'établissement devra être intégralement versé en
 espèces préalablement à la déclaration prévue à l'article R. 322-51 ou au dépôt
 des statuts en mairie pour les organismes mentionnés à l'article 1235 du code
-rural ;
+rural et de la pêche maritime ;
 
 6° Préciser si, en vue de l'alimentation ultérieure du fonds d'établissement,
 chaque nouvel adhérent devra lors de la souscription du premier contrat

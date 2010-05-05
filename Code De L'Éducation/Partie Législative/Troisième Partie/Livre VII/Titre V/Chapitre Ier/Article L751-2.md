@@ -2,14 +2,14 @@ Article L751-2
 ----
 Les rapports entre l'Etat et les établissements d'enseignement supérieur privés
 relevant du ministre de l'agriculture sont régis par les dispositions de
-l'article L. 813-3 du code rural reproduites à l'article L. 442-21 du présent
-code et par les dispositions de l'article L. 813-10 du code rural, ci-après
-reproduites :
+l'article L. 813-3 du code rural et de la pêche maritime reproduites à l'article
+L. 442-21 du présent code et par les dispositions de l'article L. 813-10 du code
+rural et de la pêche maritime, ci-après reproduites :
 
-" Art.L. 813-10.-1° Peuvent, si leur organisme de gestion a souscrit avec l'Etat
-un contrat portant sur l'exécution des missions définies au présent paragraphe,
-concourir au service public dans le cadre des livres Ier, VI, VII et VIII du
-code de l'éducation et recevoir une aide de l'Etat les établissements
+" Art. L. 813-10.-1° Peuvent, si leur organisme de gestion a souscrit avec
+l'Etat un contrat portant sur l'exécution des missions définies au présent
+paragraphe, concourir au service public dans le cadre des livres Ier, VI, VII et
+VIII du code de l'éducation et recevoir une aide de l'Etat les établissements
 d'enseignement supérieur privés relevant du ministre de l'agriculture qui :
 
 a) Assurent la formation initiale et continue d'ingénieurs, de paysagistes,

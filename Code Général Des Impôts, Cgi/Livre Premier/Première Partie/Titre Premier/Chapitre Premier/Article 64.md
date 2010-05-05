@@ -80,4 +80,4 @@ et légalisé par la mairie s'il s'agit de pertes de bétail.
 
 Le tribunal peut prononcer la déchéance du bénéfice de la mesure prévue au
 premier alinéa à l'encontre des contrevenants aux dispositions des articles
-L223-18 à L223-19 du code rural.
+L223-18 à L223-19 du code rural et de la pêche maritime.

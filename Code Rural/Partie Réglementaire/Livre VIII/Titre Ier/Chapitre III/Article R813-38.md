@@ -11,7 +11,7 @@ publics, calculé à partir d'une enquête quinquennale effectuée par le minist
 chargé de l'agriculture, sur la base d'un échantillon de référence
 d'établissements d'enseignement technique agricole publics dont la répartition
 des formations est comparable à celle qui existe dans les établissements
-mentionnés à l'article L. 813-8 du code rural.
+mentionnés à l'article L. 813-8 du code rural et de la pêche maritime.
 
 Les dépenses mentionnées à l'alinéa précédent comportent les frais de personnel
 non enseignant et les dépenses de fonctionnement à la charge de l'Etat et des

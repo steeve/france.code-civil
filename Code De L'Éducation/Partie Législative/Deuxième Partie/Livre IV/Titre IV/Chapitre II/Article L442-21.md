@@ -1,8 +1,8 @@
 Article L442-21
 ----
 Les rapports entre l'Etat et les établissements d'enseignement agricole privés
-sont régis par les dispositions des articles L. 813-3 à L. 813-7 du code rural,
-ci-après reproduites :
+sont régis par les dispositions des articles L. 813-3 à L. 813-7 du code rural
+et de la pêche maritime, ci-après reproduites :
 
 " Art.L. 813-3.-L'association ou l'organisme responsable d'un établissement
 d'enseignement agricole privé doit, lorsqu'il désire que cet établissement

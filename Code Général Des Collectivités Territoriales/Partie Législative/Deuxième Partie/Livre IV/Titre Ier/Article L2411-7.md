@@ -8,7 +8,8 @@ section.
 
 Elle est consultée sur la mise en valeur des marais et terres incultes ou
 manifestement sous-exploitées appartenant à la section dans les conditions
-prévues par les articles L. 125-1 à L. 125-7 du code rural.
+prévues par les articles L. 125-1 à L. 125-7 du code rural et de la pêche
+maritime.
 
 Elle est appelée à donner son avis, d'une manière générale, sur toutes les
 matières où sa consultation est prévue par les lois et règlements en vigueur.

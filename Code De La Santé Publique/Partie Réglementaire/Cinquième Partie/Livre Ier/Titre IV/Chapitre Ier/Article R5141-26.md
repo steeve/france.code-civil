@@ -11,7 +11,7 @@ de l'article L. 5143-5.
 
 Elle indique, le cas échéant, que le médicament ne peut être délivré qu'aux
 vétérinaires habilités à les administrer selon les dispositions de l'article L.
-234-2 du code rural.
+234-2 du code rural et de la pêche maritime.
 
 L'autorisation peut être assortie de l'obligation de mentionner sur le
 conditionnement primaire ou sur le conditionnement extérieur ainsi que sur la

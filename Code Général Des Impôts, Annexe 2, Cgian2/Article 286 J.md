@@ -165,7 +165,7 @@ règlements des organismes interprofessionnels ;
 d'origine ou dénomination pour les produits intermédiaires et les produits
 mentionnés à l'article 438 dudit code, sous réserve des règlements ou accords
 interprofessionnels prévus notamment en application des articles L. 632-1 à L.
-632-7 du code rural ;
+632-7 du code rural et de la pêche maritime ;
 
 3° Par tarif d'imposition, en volume effectif, par degré alcoométrique, pour les
 bières ;

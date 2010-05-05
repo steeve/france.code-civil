@@ -8,7 +8,7 @@ procéder sans délai à une enquête à laquelle l'exploitant ou son représent
 est invité à participer.
 
 Sans préjudice des mesures d'urgence prises en application des dispositions de
-l'article L. 223-5 du code rural, le préfet peut, au vu des conclusions de
-l'enquête et après avoir invité l'exploitant à présenter ses observations dans
-le délai d'un mois, prononcer le retrait de l'agrément. Cette décision est
-publiée au Recueil des actes administratifs du département.
+l'article L. 223-5 du code rural et de la pêche maritime, le préfet peut, au vu
+des conclusions de l'enquête et après avoir invité l'exploitant à présenter ses
+observations dans le délai d'un mois, prononcer le retrait de l'agrément. Cette
+décision est publiée au Recueil des actes administratifs du département.

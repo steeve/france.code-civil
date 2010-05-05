@@ -1,9 +1,6 @@
 Article L955-6
 ----
-Compte tenu de l'avancement des connaissances scientifiques et des conditions
-locales d'utilisation, l'usage des produits définis à l'article L. 955-1 peut
-être réglementé ou limité par arrêté du ministre chargé de l'agriculture pour
-prévenir les inconvénients éventuels, directs ou indirects, de cet usage
-vis-à-vis de l'homme, des animaux et de leur environnement et assurer notamment
-la sauvegarde de la qualité des eaux et la conservation de la fertilité des
-sols.
+Tout navire de pêche ou aménagé pour le transport du poisson pénétrant dans la
+zone économique s'étendant au large des côtes des îles australes françaises et
+des îles Eparses a obligation de signaler son entrée dans ladite zone ainsi que
+sa sortie et de déclarer le tonnage de poisson détenu à bord.

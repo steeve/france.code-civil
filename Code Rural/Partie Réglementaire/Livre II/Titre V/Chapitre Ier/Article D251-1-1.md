@@ -10,7 +10,8 @@ respectivement aux articles L. 253-1 et L. 255-1 ainsi que pour mettre en
 l'article L. 251-3.
 
 Les résultats de la surveillance biologique du territoire et le rapport annuel
-mentionné au I de l'article L. 251-1 du code rural lui sont transmis pour avis.
+mentionné au I de l'article L. 251-1 du code rural et de la pêche maritime lui
+sont transmis pour avis.
 
 Au vu, notamment, des résultats de la surveillance, le comité formule des
 recommandations sur les orientations à donner à celle-ci, au regard tant de ses

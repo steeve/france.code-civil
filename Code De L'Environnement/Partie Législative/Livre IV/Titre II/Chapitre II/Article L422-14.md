@@ -6,7 +6,8 @@ propriétaires ou copropriétaires en cause.
 
 Cette opposition vaut renonciation à l'exercice du droit de chasse sur ces
 terrains. Elle ne fait pas obstacle à l'application de l'article L. 415-7 du
-code rural. Dans ce cas, le droit de chasser du preneur subit les mêmes
-restrictions que celles ressortissant des usages locaux qui s'appliquent sur les
-territoires de chasse voisins et celles résultant du schéma départemental de
-gestion cynégétique visé à la section 1 du chapitre V du titre II du livre IV.
+code rural et de la pêche maritime. Dans ce cas, le droit de chasser du preneur
+subit les mêmes restrictions que celles ressortissant des usages locaux qui
+s'appliquent sur les territoires de chasse voisins et celles résultant du schéma
+départemental de gestion cynégétique visé à la section 1 du chapitre V du titre
+II du livre IV.

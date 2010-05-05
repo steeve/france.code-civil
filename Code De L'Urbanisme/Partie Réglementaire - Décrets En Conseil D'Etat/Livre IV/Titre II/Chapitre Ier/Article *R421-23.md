@@ -10,8 +10,8 @@ délimitées en application de l'article L. 111-5-2, à l'exception des division
 opérées dans le cadre d'une opération d'aménagement autorisée, des divisions
 effectuées, avant la clôture de l'opération, dans le cadre d'une opération
 d'aménagement foncier rural relevant du titre II du livre Ier du code rural et
-des divisions résultant d'un bail rural consenti à des preneurs exerçant la
-profession agricole ;
+de la pêche maritime et des divisions résultant d'un bail rural consenti à des
+preneurs exerçant la profession agricole ;
 
 c) L'aménagement ou la mise à disposition des campeurs, de façon habituelle, de
 terrains ne nécessitant pas un permis d'aménager en application de l'article R.

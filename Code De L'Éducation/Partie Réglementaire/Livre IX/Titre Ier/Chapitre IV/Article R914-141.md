@@ -6,4 +6,4 @@ l'éducation, de l'agriculture, de la sécurité sociale et du budget, conformé
 dispositions prévues à l'article 20 du décret n° 2005-1233 du 30 septembre 2005
 relatif au régime additionnel de retraite des personnels enseignants et de
 documentation mentionnés aux articles L. 914-1 du code de l'éducation et L.
-813-8 du code rural.
+813-8 du code rural et de la pêche maritime .

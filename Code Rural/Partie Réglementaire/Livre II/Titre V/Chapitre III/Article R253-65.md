@@ -1,7 +1,7 @@
 Article R253-65
 ----
 I.-Les prélèvements effectués en application du II de l'article L. 253-15 du
-code rural portent sur trois échantillons ;
+code rural et de la pêche maritime portent sur trois échantillons ;
 
 -l'un est destiné au laboratoire pour analyse ;
 

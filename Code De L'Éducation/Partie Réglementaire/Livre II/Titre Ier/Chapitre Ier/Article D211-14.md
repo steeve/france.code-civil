@@ -25,7 +25,7 @@ collèges ;
 f) Equipements spécialisés dans les technologies de pointe.
 
 2° Pour les établissements d'enseignement agricole mentionnés à l'article L.
-811-8 du code rural :
+811-8 du code rural et de la pêche maritime :
 
 a) Technologies nouvelles : informatique pédagogique ; matériel audiovisuel ;
 

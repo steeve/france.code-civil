@@ -8,7 +8,7 @@ présent titre ainsi qu'aux mesures réglementaires prises pour leur application
 2° Les inspecteurs mentionnés à l'article L. 5127-1 ;
 
 3° Les vétérinaires officiels mentionnés au V de l'article L. 231-2 du code
-rural ;
+rural et de la pêche maritime ;
 
 4° Les agents de la direction générale de la concurrence, de la consommation et
 de la répression des fraudes, qui disposent à cet effet des pouvoirs prévus au

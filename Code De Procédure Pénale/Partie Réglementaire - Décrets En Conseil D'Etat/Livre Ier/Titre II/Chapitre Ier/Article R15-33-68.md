@@ -14,7 +14,7 @@ personnes morales prestataires mentionnées par la loi n° 2004-575 du 21 juin
 3° Le Groupement des Cartes Bancaires " CB " ;
 
 4° Les organismes sociaux mentionnés au code de la sécurité sociale ainsi qu'au
-code rural ;
+code rural et de la pêche maritime ;
 
 5° Les entreprises d'assurance ;
 

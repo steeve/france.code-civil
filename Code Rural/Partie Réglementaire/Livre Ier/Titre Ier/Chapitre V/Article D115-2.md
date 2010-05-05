@@ -1,9 +1,9 @@
 Article D115-2
 ----
 Sont éligibles aux indemnités compensatoires les personnes physiques exerçant
-des activités réputées agricoles au sens de l'article L. 311-1 du code rural qui
-en formulent la demande dans les délais et qui répondent aux conditions
-suivantes :
+des activités réputées agricoles au sens de l'article L. 311-1 du code rural et
+de la pêche maritime qui en formulent la demande dans les délais et qui
+répondent aux conditions suivantes :
 
 a) Etre de nationalité française ou disposer d'une carte de séjour en règle au
 31 mai de l'année de la demande ;

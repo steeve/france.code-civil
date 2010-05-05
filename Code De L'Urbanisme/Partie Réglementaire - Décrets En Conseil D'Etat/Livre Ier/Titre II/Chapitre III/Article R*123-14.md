@@ -33,7 +33,7 @@ l'environnement et les dispositions d'un projet de plan de prévention des
 risques miniers établi en application de l'article 94 du code minier ;
 
 8° Les zones agricoles protégées délimitées en application de l'article L. 112-2
-du code rural ;
+du code rural et de la pêche maritime ;
 
 9° L'arrêté du préfet coordonnateur de massif prévu au septième alinéa de
 l'article L. 145-5.

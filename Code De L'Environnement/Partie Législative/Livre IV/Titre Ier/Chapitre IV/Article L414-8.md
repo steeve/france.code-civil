@@ -7,7 +7,7 @@ conformément aux principes énoncés à l'article L. 420-1 et compte tenu des
 orientations régionales forestières mentionnées à l'article L. 4 du code
 forestier et des priorités de la politique d'orientation des productions
 agricoles et d'aménagement des structures d'exploitation mentionnées à l'article
-L. 313-1 du code rural.
+L. 313-1 du code rural et de la pêche maritime.
 
 Les orientations régionales de gestion et de conservation de la faune sauvage et
 de ses habitats précisent les objectifs à atteindre en ce qui concerne la

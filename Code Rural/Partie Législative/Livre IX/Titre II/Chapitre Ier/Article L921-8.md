@@ -1,13 +1,13 @@
 Article L921-8
 ----
-Ces fonctionnaires et agents ont libre accès de jour et de nuit dans tous les
-lieux où sont hébergés des animaux domestiques ou sauvages, en vue de procéder à
-tous les examens nécessaires à l'exécution des mesures de lutte contre les
-maladies des animaux prévues aux chapitres Ier à V du présent titre ainsi qu'à
-l'article L. 927-1. Lors de ces visites, ils peuvent procéder à la constatation
-des infractions aux dispositions desdits articles et des textes réglementaires
-pris pour leur application.
+Il est permis de pratiquer la pêche au moyen de deux lignes à bord des navires
+ou embarcations de plaisance assujettis à l'obligation d'un titre de navigation
+et des navires assujettis à l'obligation d'un permis de circulation.
 
-Ils doivent, si la visite a lieu après le coucher du soleil dans tout autre lieu
-qu'un des postes d'inspection frontaliers mentionnés à l'article L. 936-4, être
-accompagnés par un officier ou un agent de police judiciaire.
+En outre, la pratique de la pêche effectuée à bord de ces navires ou
+embarcations est autorisée au moyen de tous engins dont la nature, le nombre et
+les conditions d'emploi sont fixés par arrêté du ministre chargé des pêches
+maritimes et des cultures marines.
+
+Ces navires ou embarcations sont soumis aux lois et règlements de toute nature
+relatifs à l'exercice de la pêche.

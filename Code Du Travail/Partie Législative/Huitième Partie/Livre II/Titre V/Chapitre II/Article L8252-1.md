@@ -17,5 +17,5 @@ travail prévues à la quatrième partie ;
 
 4° Pour la prise en compte de l'ancienneté dans l'entreprise.
 
-Il en va de même pour les articles L. 713-1 et suivants du code rural pour les
-professions agricoles.
+Il en va de même pour les articles L. 713-1 et suivants du code rural et de la
+pêche maritime pour les professions agricoles.

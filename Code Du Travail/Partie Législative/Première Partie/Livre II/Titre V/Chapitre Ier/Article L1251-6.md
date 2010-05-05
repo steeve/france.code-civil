@@ -35,7 +35,7 @@ d'un associé non salarié d'une société civile professionnelle, d'une sociét
 civile de moyens ou d'une société d'exercice libéral ;
 
 5° Remplacement du chef d'une exploitation agricole ou d'une entreprise
-mentionnée aux 1° à 4° de l'article L. 722-1 du code rural, d'un aide familial,
-d'un associé d'exploitation, ou de leur conjoint, mentionné à l'article L.
-722-10 du même code dès lors qu'il participe effectivement à l'activité de
-l'exploitation agricole ou de l'entreprise.
+mentionnée aux 1° à 4° de l'article L. 722-1 du code rural et de la pêche
+maritime, d'un aide familial, d'un associé d'exploitation, ou de leur conjoint,
+mentionné à l'article L. 722-10 du même code dès lors qu'il participe
+effectivement à l'activité de l'exploitation agricole ou de l'entreprise.

@@ -21,8 +21,9 @@ excéder cinq jours à compter de cette date.
 Dans tous les autres cas, toute annonce de prix, hors lieu de vente, portant sur
 un fruit ou légume frais quelle que soit son origine, doit faire l'objet d'un
 accord interprofessionnel d'une durée d'un an renouvelable, conclu conformément
-aux dispositions de l'article L. 632-1 du code rural. Cet accord précise les
-périodes durant lesquelles une telle annonce est possible et ses modalités.
+aux dispositions de l'article L. 632-1 du code rural et de la pêche maritime.
+Cet accord précise les périodes durant lesquelles une telle annonce est possible
+et ses modalités.
 
 Cet accord peut être étendu conformément aux dispositions des articles L. 632-3
 et L. 632-4 du même code.

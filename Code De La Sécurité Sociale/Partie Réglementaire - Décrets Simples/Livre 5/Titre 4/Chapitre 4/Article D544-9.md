@@ -20,11 +20,12 @@ recherche d'emploi est motivée par la nécessité de soins contraignants et d'u
 présence soutenue auprès de l'enfant malade ;
 
 4° Pour les personnes visées aux 1°, 4° et 5° de l'article L. 615-1 du présent
-code, à l'article L. 722-9 du code rural, ou aux articles L. 751-1 et L. 772-1
-du code du travail, une déclaration sur l'honneur indiquant le nombre de jours
-d'interruption d'activité au cours de la période considérée et attestant que
-l'interruption de l'activité est motivée par la nécessité de soins contraignants
-et d'une présence soutenue auprès de l'enfant malade ;
+code, à l'article L. 722-9 du code rural et de la pêche maritime, ou aux
+articles L. 751-1 et L. 772-1 du code du travail, une déclaration sur l'honneur
+indiquant le nombre de jours d'interruption d'activité au cours de la période
+considérée et attestant que l'interruption de l'activité est motivée par la
+nécessité de soins contraignants et d'une présence soutenue auprès de l'enfant
+malade ;
 
 5° Pour les personnes bénéficiaires d'un congé de présence parentale dans les
 conditions prévues par les dispositions applicables aux agents publics, une

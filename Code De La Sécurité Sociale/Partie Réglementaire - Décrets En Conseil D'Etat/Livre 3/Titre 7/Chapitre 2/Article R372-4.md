@@ -18,19 +18,20 @@ situé dans les conditions suivantes :
 
 1° Pour les organismes agréés auxquels sont applicables soit les dispositions du
 1° de l'article R. 243-6 du présent code ou du deuxième alinéa de l'article R.
-741-6 du code rural, soit celles du 2° de l'article R. 243-6 du présent code ou
-du 1° de l'article R. 741-3 du code rural, les cotisations dues au titre des
-contrats de volontariat associatif exécutés sur tout ou partie d'un trimestre
-civil ou d'un mois civil sont versées à la même date que les cotisations dues au
-titre des rémunérations versées par ces organismes au cours du même trimestre ou
-du même mois aux salariés qu'ils emploient ;
+741-6 du code rural et de la pêche maritime, soit celles du 2° de l'article R.
+243-6 du présent code ou du 1° de l'article R. 741-3 du code rural et de la
+pêche maritime, les cotisations dues au titre des contrats de volontariat
+associatif exécutés sur tout ou partie d'un trimestre civil ou d'un mois civil
+sont versées à la même date que les cotisations dues au titre des rémunérations
+versées par ces organismes au cours du même trimestre ou du même mois aux
+salariés qu'ils emploient ;
 
 2° Pour les organismes agréés auxquels sont applicables les dispositions du 3°
 de l'article R. 243-6 du présent code ou du 2° de l'article R. 741-3 du code
-rural, les cotisations dues au titre des contrats de volontariat associatif
-exécutés sur tout ou partie d'un mois civil sont versées aux mêmes dates que les
-cotisations dues au titre des rémunérations versées par ces organismes au cours
-du mois suivant aux salariés qu'ils emploient.
+rural et de la pêche maritime, les cotisations dues au titre des contrats de
+volontariat associatif exécutés sur tout ou partie d'un mois civil sont versées
+aux mêmes dates que les cotisations dues au titre des rémunérations versées par
+ces organismes au cours du mois suivant aux salariés qu'ils emploient.
 
 III. - Les dispositions des chapitres III et IV du titre IV du livre II, à
 l'exception des dispositions de l'article R. 243-14, sont applicables au

@@ -8,7 +8,7 @@ durée du congé :
 2° Les périodes de congé maternité, paternité et d'adoption ;
 
 3° Les contreparties obligatoires en repos prévues par l'article L. 3121-11 du
-présent code et l'article L. 713-9 du code rural ;
+présent code et l'article L. 713-9 du code rural et de la pêche maritime ;
 
 4° Les jours de repos accordés au titre de l'accord collectif conclu en
 application de l'article L. 3122-2 ;

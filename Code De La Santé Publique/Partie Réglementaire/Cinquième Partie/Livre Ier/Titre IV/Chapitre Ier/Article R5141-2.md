@@ -31,8 +31,8 @@ Les essais respectent, selon le cas, les bonnes pratiques de laboratoire ou les
 bonnes pratiques cliniques mentionnées à l'article L. 5141-4. En outre, tous les
 essais menés sur les animaux de laboratoire sont réalisés en conformité avec les
 dispositions de la sous-section 3 de la section 5 du chapitre IV du titre Ier du
-livre II du code rural relatives aux expérimentations pratiquées sur les
-animaux.
+livre II du code rural et de la pêche maritime relatives aux expérimentations
+pratiquées sur les animaux.
 
 Le directeur général de l'Agence française de sécurité sanitaire des aliments
 peut, sur demande, attester de la conformité, d'une part, des essais non

@@ -3,9 +3,9 @@ Article D216-1
 La contribution que le département ou la région verse chaque année à la
 collectivité territoriale propriétaire d'un collège, d'un lycée, d'un
 établissement d'éducation spéciale, d'un établissement d'enseignement agricole
-mentionné à l'article L. 811-8 du code rural ou au groupement de communes
-compétent en application du quatrième alinéa de l'article L. 216-5 du présent
-code est calculée dans les conditions suivantes :
+mentionné à l'article L. 811-8 du code rural et de la pêche maritime ou au
+groupement de communes compétent en application du quatrième alinéa de l'article
+L. 216-5 du présent code est calculée dans les conditions suivantes :
 
 1° La première année, cette contribution est au moins égale au montant total des
 dépenses supportées par le département ou la région au titre du fonctionnement

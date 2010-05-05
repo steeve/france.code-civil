@@ -3,7 +3,7 @@ Article R5142-22
 Un pharmacien ou vétérinaire responsable ou délégué s'inscrit à l'ordre dont il
 dépend, fait enregistrer son diplôme, dans les conditions prévues à l'article L.
 4221-16 pour les pharmaciens ou dans les conditions prévues à l'article L. 241-1
-du code rural pour les vétérinaires.
+du code rural et de la pêche maritime pour les vétérinaires.
 
 Le diplôme du pharmacien ou du vétérinaire responsable ne peut être enregistré
 que pour une seule entreprise.

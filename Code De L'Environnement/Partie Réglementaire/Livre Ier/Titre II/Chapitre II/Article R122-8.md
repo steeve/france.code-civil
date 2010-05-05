@@ -10,7 +10,8 @@ coût de leur réalisation, aux aménagements, ouvrages et travaux définis ci-a
 :
 
 1° Opérations d'aménagements fonciers agricoles et forestiers visées au 1° de
-l'article L. 121-1 du code rural, y compris leurs travaux connexes ;
+l'article L. 121-1 du code rural et de la pêche maritime, y compris leurs
+travaux connexes ;
 
 2° Travaux d'installation ou de modernisation des lignes aériennes de transport
 et de distribution d'électricité de tension supérieure ou égale à 63 kV.

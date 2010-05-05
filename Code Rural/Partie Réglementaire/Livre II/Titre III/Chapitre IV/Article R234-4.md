@@ -2,10 +2,11 @@ Article R234-4
 ----
 I. - Les denrées alimentaires issues d'un animal ayant été soumis à un essai
 clinique de médicaments vétérinaires mentionné au V de l'article L. 234-2 du
-code rural ne peuvent être mises sur le marché que si cet essai n'a pas fait
-l'objet d'une opposition du directeur général de l'Agence française de sécurité
-sanitaire des aliments dans les conditions prévues à l'article R. 5141-8 du code
-de la santé publique et s'est déroulé selon le protocole déclaré.
+code rural et de la pêche maritime ne peuvent être mises sur le marché que si
+cet essai n'a pas fait l'objet d'une opposition du directeur général de l'Agence
+française de sécurité sanitaire des aliments dans les conditions prévues à
+l'article R. 5141-8 du code de la santé publique et s'est déroulé selon le
+protocole déclaré.
 
 II. - Avant le début de l'essai clinique, l'investigateur, ou chaque
 investigateur en cas d'essai se déroulant sur plusieurs sites, transmet au

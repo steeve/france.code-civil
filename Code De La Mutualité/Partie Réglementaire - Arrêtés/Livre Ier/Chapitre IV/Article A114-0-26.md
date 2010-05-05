@@ -12,9 +12,9 @@ Les indemnités visées au premier alinéa versées au titre d'une année sont
 calculées sur la base du temps consacré par ces administrateurs à l'exercice de
 ces fonctions et du montant de leurs revenus professionnels de l'avant-dernière
 année déterminés en application des dispositions de l'article L. 131-6 du code
-de la sécurité sociale ou L. 731-14 du code rural, justifiés par la
-communication à l'organisme mutualiste d'une copie de déclaration de revenus
-professionnels correspondante.
+de la sécurité sociale ou L. 731-14 du code rural et de la pêche maritime,
+justifiés par la communication à l'organisme mutualiste d'une copie de
+déclaration de revenus professionnels correspondante.
 
 Le montant annuel de l'indemnité ne peut excéder une limite égale au montant du
 plafond prévu au premier alinéa de l'article L. 241-3 du code de la sécurité

@@ -5,7 +5,7 @@ Le tribunal d'instance connaît :
 1° Des contestations des décisions de la commission départementale et des
 réclamations relatives à la formation de la liste pour l'élection des membres
 des chambres d'agriculture dans les conditions prévues à l'article R. 511-23 du
-code rural ;
+code rural et de la pêche maritime ;
 
 2° Des contestations des décisions du président de la chambre de métiers
 relatives à la formation et à la révision des listes pour l'élection des membres

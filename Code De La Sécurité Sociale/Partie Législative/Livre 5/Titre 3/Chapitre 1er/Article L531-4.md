@@ -16,8 +16,8 @@ définies par décret.
 Les modalités selon lesquelles ce complément à taux partiel est attribué aux
 personnes mentionnées aux articles L. 751-1 et L. 772-1 du code du travail, aux
 1°, 4° et 5° de l'article L. 615-1 et à l'article L. 722-1 du présent code, aux
-articles L. 722-4, L. 722-9, L. 722-22 et L. 722-28 du code rural ainsi qu'aux
-élus locaux sont adaptées par décret.
+articles L. 722-4, L. 722-9, L. 722-22 et L. 722-28 du code rural et de la pêche
+maritime ainsi qu'aux élus locaux sont adaptées par décret.
 
 Ce complément à taux partiel est attribué au même taux pendant une durée
 minimale déterminée par décret. Il ne peut y avoir révision de ce taux au cours

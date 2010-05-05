@@ -1,23 +1,33 @@
 Article L942-1
 ----
-Il est institué, dans chacune des circonscriptions régionales qui sont
-déterminées par un arrêté du ministre chargé de l'agriculture, un ordre régional
-des vétérinaires formé de tous les vétérinaires en exercice qui remplissent les
-conditions fixées aux articles L. 941-1 et L. 941-14.
+I. ― Sans préjudice des compétences des officiers et agents de police
+judiciaire, sont habilités à rechercher et à constater les infractions prévues
+et réprimées par le présent livre :
 
-Les membres des conseils régionaux de l'ordre sont élus par les vétérinaires
-inscrits au tableau de l'ordre tel que défini à l'article L. 942-4.
+1° Les administrateurs, officiers et inspecteurs des affaires maritimes.
 
-Les membres des conseils régionaux de l'ordre élisent les membres du conseil
-supérieur de l'ordre des vétérinaires prévu à l'article L. 942-2.
+2° Les commandants, commandants en second ou officiers des bâtiments de la
+marine nationale et les commandants des aéronefs militaires affectés à la
+surveillance maritime ainsi que les officiers mariniers désignés par l'autorité
+administrative.
 
-Sont seuls électeurs et éligibles les vétérinaires établis ou exerçant à titre
-principal en France.
+3° Les contrôleurs des affaires maritimes.
 
-Un décret en Conseil d'Etat fixe les modalités des élections aux conseils
-régionaux et au conseil supérieur.
+4° Les syndics des gens de mer.
 
-Toutefois ne sont pas soumis à cette règle les vétérinaires et docteurs
-vétérinaires appartenant au cadre actif du service vétérinaire de l'armée ainsi
-que les vétérinaires et docteurs vétérinaires investis d'une fonction publique
-n'ayant pas d'autre activité professionnelle vétérinaire.
+5° Les agents des douanes.
+
+6° Les agents mentionnés au I de l'article L. 205-1.
+
+7° Les agents de la concurrence, de la consommation et de la répression des
+fraudes.
+
+8° Dans les eaux situées en aval de la limite de salure pour les espèces vivant
+alternativement dans les eaux douces et dans les eaux salées, les agents de
+l'Office national de l'eau et des milieux aquatiques.
+
+II. ― Dans les limites de leurs pouvoirs de contrôle, les agents publics
+assermentés des parcs nationaux, des réserves naturelles, des parcs naturels
+marins et de l'Office national de la chasse et de la faune sauvage sont
+également habilités à rechercher et constater les infractions prévues et
+réprimées par le présent livre.

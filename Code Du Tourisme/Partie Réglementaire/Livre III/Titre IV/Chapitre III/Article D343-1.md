@@ -3,10 +3,10 @@ Article D343-1
 Les règles relatives aux structures d'accueil touristique situées sur
 l'exploitation agricole ou dans les locaux de celle-ci, celles permettant
 d'effectuer des locations de logement en meublé, ainsi que les prestations
-afférentes, sont définies à l'article D. 722-4 du code rural ci-après reproduit
-:
+afférentes, sont définies à l'article D. 722-4 du code rural et de la pêche
+maritime ci-après reproduit :
 
-" Art.D. 722-4 du code rural.
+" Art. D. 722-4 du code rural et de la pêche maritime.
 
 Pour l'application du 1° de l'article L. 722-1, sont considérées comme
 structures d'accueil touristique celles permettant d'effectuer des locations de

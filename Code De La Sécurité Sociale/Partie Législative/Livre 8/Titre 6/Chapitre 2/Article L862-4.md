@@ -2,9 +2,9 @@ Article L862-4
 ----
 I.-Les mutuelles régies par le code de la mutualité, les institutions de
 prévoyance régies par le livre IX du présent code ou par le livre VII du code
-rural et les entreprises régies par le code des assurances sont assujetties, au
-titre de leur activité réalisée en France, à une contribution à versements
-trimestriels.
+rural et de la pêche maritime et les entreprises régies par le code des
+assurances sont assujetties, au titre de leur activité réalisée en France, à une
+contribution à versements trimestriels.
 
 Cette contribution est assise sur le montant hors taxes des primes ou
 cotisations émises au cours d'un trimestre civil, déduction faite des

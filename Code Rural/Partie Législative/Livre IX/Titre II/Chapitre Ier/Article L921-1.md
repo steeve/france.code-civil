@@ -1,11 +1,14 @@
 Article L921-1
 ----
-Suivant les modalités prévues par un arrêté conjoint du ministre chargé de
-l'agriculture et du ministre chargé de l'économie et des finances, le ministre
-chargé de l'agriculture peut prendre toutes mesures destinées à prévenir
-l'apparition, à enrayer le développement et à poursuivre l'extinction des
-maladies des animaux réputées contagieuses, en vertu du présent titre.
+Dans le respect des objectifs mentionnés à l'article L. 911-2, la récolte des
+végétaux marins, l'exercice de la pêche maritime embarquée à titre professionnel
+ou de loisir, de la pêche maritime non embarquée à titre professionnel ou de
+loisir, de la pêche sous-marine à titre professionnel ou de loisir et de la
+pêche à pied à titre professionnel ou non peuvent être soumis à la délivrance
+d'autorisations.
 
-Des décrets en Conseil d'Etat définissent les modalités selon lesquelles peuvent
-être prises les mesures de lutte contre les maladies des animaux non réputées
-contagieuses.
+Ces autorisations ont pour objet de permettre à une personne physique ou morale
+pour un navire déterminé, d'exercer ces activités pendant des périodes, dans des
+zones, pour des espèces ou groupe d'espèces et, le cas échéant, avec des engins
+et pour des volumes déterminés. Elles couvrent une période maximale de douze
+mois. Elles ne sont pas cessibles.

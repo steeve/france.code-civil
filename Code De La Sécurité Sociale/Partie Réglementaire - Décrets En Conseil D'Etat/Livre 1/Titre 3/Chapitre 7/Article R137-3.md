@@ -23,8 +23,8 @@ contribution est versée au plus tard à la première date d'exigibilité des
 cotisations de sécurité sociale dues par l'employeur sur les rémunérations des
 salariés déterminée en application des dispositions de l'article R. 243-6 et
 postérieure au 31 janvier suivant ou, pour le régime agricole, au plus tard à la
-date définie à l'article R. 741-6 du code rural postérieure au 31 janvier
-suivant.
+date définie à l'article R. 741-6 du code rural et de la pêche maritime
+postérieure au 31 janvier suivant.
 
 Lorsque les primes versées à un organisme tiers sont soumises à la contribution,
 celle-ci est due à la date de versement desdites primes à l'organisme tiers. La
@@ -44,14 +44,15 @@ première date d'exigibilité des cotisations de sécurité sociale dues par
 l'employeur sur les rémunérations des salariés déterminée en application des
 dispositions de l'article R. 243-6, intervenant quatre mois après la date de
 clôture de l'exercice social de l'entreprise ou, pour le régime agricole, au
-plus tard à la date définie à l'article R. 741-6 du code rural, intervenant
-quatre mois après la date de clôture de l'exercice social de l'entreprise.
+plus tard à la date définie à l'article R. 741-6 du code rural et de la pêche
+maritime, intervenant quatre mois après la date de clôture de l'exercice social
+de l'entreprise.
 
 III. - L'employeur remplit ses obligations relatives à la déclaration et au
 versement de ladite contribution auprès de l'organisme de recouvrement dont
 relève son siège social ou, si le siège social est établi hors de France, à
 l'organisme dont relève l'établissement qu'il a désigné à cet effet et, en cas
 de versement en lieu unique mentionné à l'article R. 243-8 ou, pour le régime
-agricole, mentionné à l'article R. 741-12 du code rural, à l'organisme de
-recouvrement chargé de la centralisation de l'ensemble des opérations liées aux
-versements des cotisations et contributions sociales.
+agricole, mentionné à l'article R. 741-12 du code rural et de la pêche maritime,
+à l'organisme de recouvrement chargé de la centralisation de l'ensemble des
+opérations liées aux versements des cotisations et contributions sociales.

@@ -10,10 +10,10 @@ mentionnés à l'article D. 337-53.
 
 La durée de la formation en milieu professionnel peut toutefois être augmentée
 pour les élèves des établissements dispensant des formations selon un rythme
-approprié, au titre de l'article L. 813-9 du code rural, à condition que la
-formation en centre dure au moins 1 900 heures. Un arrêté du ministre chargé de
-l'éducation et du ministre chargé de l'agriculture fixe les conditions
-d'application du présent alinéa.
+approprié, au titre de l'article L. 813-9 du code rural et de la pêche maritime,
+à condition que la formation en centre dure au moins 1 900 heures. Un arrêté du
+ministre chargé de l'éducation et du ministre chargé de l'agriculture fixe les
+conditions d'application du présent alinéa.
 
 Les élèves qui préparent le baccalauréat professionnel par la voie scolaire
 restent sous statut scolaire pendant leur formation en milieu professionnel.

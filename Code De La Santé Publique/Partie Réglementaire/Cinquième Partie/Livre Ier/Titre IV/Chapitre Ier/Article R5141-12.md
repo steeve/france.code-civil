@@ -1,6 +1,7 @@
 Article R5141-12
 ----
-Comme il est dit à l'article R. 234-5 du code rural ainsi reproduit :
+Comme il est dit à l'article R. 234-5 du code rural et de la pêche maritime
+ainsi reproduit :
 
 " Lorsqu'une personne qui détient des animaux appartenant à une des espèces dont
 la chair ou les produits sont destinés à la consommation humaine envisage de

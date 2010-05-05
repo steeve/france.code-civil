@@ -15,7 +15,7 @@ arrêté des ministres chargés de l'agriculture et de la santé. Cette liste pe
 pour des motifs de sécurité ou de santé publique, réserver l'emploi de tout ou
 partie des médicaments qu'elle mentionne aux vétérinaires exerçant dans
 certaines des catégories de domiciles professionnels autorisés par l'article R.
-242-54 du code rural.
+242-54 du code rural et de la pêche maritime.
 
 Un médicament à usage humain mentionné au premier alinéa est retiré de la liste
 établie par arrêté :

@@ -1,12 +1,12 @@
 Article R211-3
 ----
-I. - Les règles et prescriptions techniques applicables aux opérations régies à
-la fois par les articles L. 214-1 à L. 214-6 et par l'un des textes ci-dessous
+I.-Les règles et prescriptions techniques applicables aux opérations régies à la
+fois par les articles L. 214-1 à L. 214-6 et par l'un des textes ci-dessous
 énumérés sont fixées par arrêté conjoint du ministre chargé de l'environnement
 et du ministre compétent pour le texte concerné :
 
-1° Les titres II et III du livre Ier du code rural relatifs à l'aménagement
-foncier rural et aux associations foncières ;
+1° Les titres II et III du livre Ier du code rural et de la pêche maritime
+relatifs à l'aménagement foncier rural et aux associations foncières ;
 
 2° Le code des ports maritimes ;
 
@@ -24,5 +24,5 @@ minérale d'une source ;
 du code de la santé publique relative aux eaux destinées à la consommation
 humaine, à l'exclusion des eaux minérales naturelles.
 
-II. - Les autres règles et prescriptions techniques sont fixées par arrêté du
+II.-Les autres règles et prescriptions techniques sont fixées par arrêté du
 ministre chargé de l'environnement.

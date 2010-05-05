@@ -4,10 +4,10 @@ I. - Le titre VI du livre V ainsi que les articles L. 574-1 à L. 574-4 sont
 applicables dans les îles Wallis et Futuna dans les conditions prévues au II.
 
 II. - 1° Les références au code des assurances au 2° de l'article L. 561-2 et à
-l'article L. 561-20, au code de la sécurité sociale et au code rural au 3° de
-l'article L. 561-2 et au code de la mutualité au 4° du même article sont
-remplacées par des références à des dispositions applicables localement ayant le
-même objet ;
+l'article L. 561-20, au code de la sécurité sociale et au code rural et de la
+pêche maritime au 3° de l'article L. 561-2 et au code de la mutualité au 4° du
+même article sont remplacées par des références à des dispositions applicables
+localement ayant le même objet ;
 
 2° Au 8° de l'article L. 561-2, les références à l'article 1er de la loi n° 70-9
 du 2 janvier 1970 réglementant les conditions d'exercice des activités relatives
@@ -52,12 +52,7 @@ mentionnée à l'article 1741 A du code général des impôts. Celle-ci se prono
 sur le caractère raisonnablement suffisant des soupçons de fraude fiscale
 déclarés au service mentionné à l'article L. 561-23 du présent code ;
 
-7° Au 3° du I de l'article L. 561-36, les mots : " en vertu de l'article L.
-310-12 du code des assurances " sont remplacés par les mots : " en vertu des
-articles 7 et 8 de l'ordonnance n° 2006-60 du 19 janvier 2006 portant
-actualisation et adaptation du droit économique et financier applicables à
-Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis
-et Futuna " ;
+7° (Abrogé) ;
 
 8° Au II de l'article L. 561-36, les mots : ", des organismes mentionnés à l'
 article L. 134-1 du code des juridictions financières " sont supprimés.

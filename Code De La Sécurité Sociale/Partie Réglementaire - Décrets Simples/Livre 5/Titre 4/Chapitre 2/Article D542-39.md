@@ -6,7 +6,7 @@ au service des prêts destinés à l'amélioration de l'habitat ne devront pas
 excéder 0, 50 % du montant total des prestations familiales ayant donné lieu à
 paiement au cours de la période de douze mois précédant le 30 décembre de
 l'année antérieure et mentionnées à l'article L. 511-1 du présent code et à
-l'article L. 732-1 du code rural.
+l'article L. 732-1 du code rural et de la pêche maritime.
 
 Le montant des remboursements de prêts majorés de l'intérêt de 1 %, perçus par
 les caisses, organismes, collectivités et administrations ne peut, en aucun cas,

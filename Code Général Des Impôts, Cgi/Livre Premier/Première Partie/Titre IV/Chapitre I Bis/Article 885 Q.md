@@ -21,6 +21,6 @@ Lorsque les biens ruraux donnés à bail dans les conditions prévues au premier
 alinéa sont mis à la disposition d'une société mentionnée au deuxième alinéa ou
 lorsque le droit au bail y afférent est apporté à une société de même nature,
 dans les conditions prévues respectivement par les articles L. 411-37 et L.
-411-38 du code rural, les parts du groupement sont considérées comme des biens
-professionnels dans les mêmes proportions et sous les mêmes conditions que
-celles définies par ce dernier alinéa.
+411-38 du code rural et de la pêche maritime, les parts du groupement sont
+considérées comme des biens professionnels dans les mêmes proportions et sous
+les mêmes conditions que celles définies par ce dernier alinéa.

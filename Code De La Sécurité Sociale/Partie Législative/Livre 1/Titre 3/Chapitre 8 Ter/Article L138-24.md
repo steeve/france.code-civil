@@ -9,9 +9,10 @@ plan d'action relatif à l'emploi des salariés âgés.
 
 Le montant de cette pénalité est fixé à 1 % des rémunérations ou gains, au sens
 du premier alinéa de l'article L. 242-1 du présent code et du deuxième alinéa de
-l'article L. 741-10 du code rural, versés aux travailleurs salariés ou assimilés
-au cours des périodes au titre desquelles l'entreprise n'est pas couverte par
-l'accord ou le plan d'action mentionné à l'alinéa précédent.
+l'article L. 741-10 du code rural et de la pêche maritime, versés aux
+travailleurs salariés ou assimilés au cours des périodes au titre desquelles
+l'entreprise n'est pas couverte par l'accord ou le plan d'action mentionné à
+l'alinéa précédent.
 
 Le produit de cette pénalité est affecté à la Caisse nationale d'assurance
 vieillesse des travailleurs salariés.

@@ -5,7 +5,7 @@ les collèges, les lycées, les établissements publics d'enseignement
 professionnel, les établissements d'enseignement artistique, les établissements
 d'éducation spéciale, ainsi que les lycées professionnels maritimes, les
 établissements d'enseignement agricole mentionnés à l'article L. 811-8 du code
-rural et les centres d'information et d'orientation.
+rural et de la pêche maritime et les centres d'information et d'orientation.
 
 La collectivité territoriale de Corse assure l'accueil, la restauration,
 l'hébergement ainsi que l'entretien général et technique, à l'exception des
@@ -34,8 +34,9 @@ convention détermine les modalités de cette délégation.
 L'Etat assure aux collèges, lycées, établissements publics d'enseignement
 professionnel, d'éducation spéciale, ainsi qu'aux lycées professionnels
 maritimes, aux établissements d'enseignement agricole mentionnés à l'article L.
-811-8 du code rural et aux centres d'information et d'orientation, les moyens
-financiers directement liés à leur activité pédagogique.
+811-8 du code rural et de la pêche maritime et aux centres d'information et
+d'orientation, les moyens financiers directement liés à leur activité
+pédagogique.
 
 Les biens immobiliers des établissements mentionnés au premier alinéa
 appartenant à l'Etat à la date d'entrée en vigueur de la loi n° 2004-809 du 13

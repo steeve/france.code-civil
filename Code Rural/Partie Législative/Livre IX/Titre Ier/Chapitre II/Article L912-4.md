@@ -1,17 +1,18 @@
 Article L912-4
 ----
-Les associations colombophiles sont des associations constituées et déclarées
-conformément aux dispositions de la loi du 1er juillet 1901 relative au contrat
-d'association et, lorsqu'elles ont leur siège dans les départements du Bas-Rhin,
-du Haut-Rhin et de la Moselle, conformément aux articles 21 à 79 du code civil
-local.
+L'autorité administrative arrête la composition des organes dirigeants des
+comités mentionnés à l'article L. 912-3 dans les conditions suivantes :
 
-Les associations adoptent des statuts conformes à des dispositions définies par
-décret en Conseil d'Etat relatives à la tenue des colombiers, à
-l'immatriculation et au recensement des pigeons voyageurs ainsi qu'aux
-conditions dans lesquelles il peut être procédé à leur lâcher.
+1° Pour les organes dirigeants des comités locaux, les membres représentant les
+catégories professionnelles mentionnées au 1° de l'article L. 912-3 sont élus ;
 
-Elles sont obligatoirement affiliées à une fédération nationale qui organise les
-conditions générales de leur activité et contrôle sa conformité aux dispositions
-réglementaires précitées. Les statuts de cette fédération sont approuvés par
-décret en Conseil d'Etat.
+2° Pour les organes dirigeants des comités régionaux et ceux du comité national,
+les membres représentant les catégories professionnelles mentionnées au 1° de
+l'article L. 912-3 sont nommés sur la base des résultats des élections locales
+mentionnées au 1° ; lorsque dans une région il n'existe pas de comité local, les
+membres de l'organe dirigeant du comité régional sont élus au niveau régional ;
+
+3° Pour les organes dirigeants des comités représentant les catégories
+professionnelles et les organismes mentionnés aux 2° et 3° de l'article L.
+912-3, les membres sont nommés sur proposition de leurs organisations
+représentatives.

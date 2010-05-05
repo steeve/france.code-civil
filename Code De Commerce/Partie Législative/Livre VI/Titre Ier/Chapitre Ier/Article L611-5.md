@@ -10,4 +10,4 @@ tribunal de commerce.
 
 La procédure de conciliation n'est pas applicable aux agriculteurs qui
 bénéficient de la procédure prévue aux articles L. 351-1 à L. 351-7 du code
-rural.
+rural et de la pêche maritime.

@@ -4,7 +4,7 @@ Les règles relatives aux délais et modalités de saisine du tribunal des affai
 de sécurité sociale et à sa compétence territoriale définies par les articles R.
 142-33 et R. 142-34 sont applicables aux contestations des décisions de la
 caisse de mutualité sociale agricole ou du groupement institué par l'article L.
-752-14 du code rural relatives respectivement :
+752-14 du code rural et de la pêche maritime relatives respectivement :
 
 - à la date de guérison ou de consolidation de la blessure ou, en cas de
 révision, à l'appréciation de l'état d'incapacité permanente ou à la
@@ -21,4 +21,4 @@ agricole, ni le lieu de résidence de la victime ne sont compris dans le ressort
 d'un tribunal des affaires de sécurité sociale, la victime ou ses ayants droit
 saisissent le tribunal dans le ressort duquel se trouve le siège de la caisse de
 mutualité sociale agricole ou du groupement institué par l'article L. 752-14 du
-code rural.
+code rural et de la pêche maritime.

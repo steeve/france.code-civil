@@ -43,13 +43,14 @@ agricole, ainsi que leurs unions et fédérations ;
 
 chambres d'agriculture ;
 
-4° Les caisses locales d'assurances mutuelles agricoles régies par l'article
-L771-1 du code rural qui ont au plus deux salariés ou mandataires rémunérés.
+4° Les caisses locales d'assurances mutuelles agricoles régies par l'article L.
+771-1 du code rural et de la pêche maritime qui ont au plus deux salariés ou
+mandataires rémunérés.
 
 Pour l'appréciation du nombre de salariés, la période de référence à retenir est
 l'année mentionnée à l'article 1467 A.
 
-II.L'exonération prévue aux 1° et 2° du I est supprimée pour :
+II. L'exonération prévue aux 1° et 2° du I est supprimée pour :
 
 a) Les sociétés coopératives agricoles, leurs unions et les sociétés d'intérêt
 collectif agricole dont les parts sont admises aux négociations sur un marché
@@ -61,7 +62,7 @@ diffusion de fausses informations ou dont le capital est détenu à concurrence 
 l'article 207 et des titulaires de certificats coopératifs d'investissement
 lorsque les statuts prévoient qu'ils peuvent être rémunérés ;
 
-b) Les sociétés d'intérêt collectif agricole dont plus de 50 p. 100 du capital
-ou des voix sont détenus directement ou par l'intermédiaire de filiales par des
+b) Les sociétés d'intérêt collectif agricole dont plus de 50 % du capital ou des
+voix sont détenus directement ou par l'intermédiaire de filiales par des
 associés autres que ceux visés aux 1°, 2° et 3° de l'article L. 522-1 du code
-rural.
+rural et de la pêche maritime.

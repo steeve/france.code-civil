@@ -8,8 +8,8 @@ dans le ressort duquel sont situés les lieux à visiter ou d'un juge délégué
 lui, rendue sur réquisitions du procureur de la République, procéder à des
 visites domiciliaires, perquisitions et saisies de pièces à conviction dans les
 lieux de travail relevant des articles L. 4111-1 du présent code et L. 722-1 du
-code rural, y compris dans ceux n'abritant pas de salariés, même lorsqu'il
-s'agit de locaux habités.
+code rural et de la pêche maritime, y compris dans ceux n'abritant pas de
+salariés, même lorsqu'il s'agit de locaux habités.
 
 Le juge vérifie que la demande d'autorisation qui lui est soumise est fondée sur
 des éléments de fait laissant présumer l'existence des infractions dont la

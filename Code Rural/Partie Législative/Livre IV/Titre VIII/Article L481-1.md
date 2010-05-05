@@ -1,7 +1,8 @@
 Article L481-1
 ----
 Les terres situées dans les régions définies en application de l'article L.
-113-2 du code rural peuvent donner lieu pour leur exploitation :
+113-2 du code rural et de la pêche maritime peuvent donner lieu pour leur
+exploitation :
 
 a) Soit à des contrats de bail conclus dans le cadre du statut des baux ruraux ;
 

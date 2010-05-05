@@ -10,4 +10,5 @@ plusieurs :
 2° Assistants maternels mentionnés L. 421-1 du code de l'action sociale et des
 familles ;
 
-3° Salariés mentionnés aux 2° et 3° de l'article L. 722-20 du code rural.
+3° Salariés mentionnés aux 2° et 3° de l'article L. 722-20 du code rural et de
+la pêche maritime.

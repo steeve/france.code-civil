@@ -1,6 +1,6 @@
 Article R413-19
 ----
-I. - L'arrêté d'autorisation d'ouverture fixe la liste des espèces ou groupe
+I.-L'arrêté d'autorisation d'ouverture fixe la liste des espèces ou groupe
 d'espèces, le nombre des animaux de chaque espèce ou groupe que l'établissement
 peut détenir ainsi que les activités susceptibles d'être pratiquées dans
 l'établissement.
@@ -9,7 +9,7 @@ Cette liste est arrêtée en fonction notamment des impératifs de protection de
 espèces, de la qualité des équipements d'accueil des animaux et des activités
 qui leur sont offertes.
 
-II. - L'arrêté d'autorisation d'ouverture fixe également les prescriptions
+II.-L'arrêté d'autorisation d'ouverture fixe également les prescriptions
 nécessaires en ce qui concerne :
 
 1° La sécurité et la santé publiques ;
@@ -20,7 +20,7 @@ nécessaires en ce qui concerne :
 écologiques pour les espèces indigènes et la prévention de l'introduction
 d'organismes nuisibles extérieurs.
 
-III. - Dans le cas des établissements présentant au public des spécimens vivants
+III.-Dans le cas des établissements présentant au public des spécimens vivants
 de la faune locale ou étrangère, l'arrêté d'autorisation d'ouverture fixe
 également les prescriptions nécessaires en ce qui concerne :
 
@@ -43,7 +43,7 @@ la protection de la nature et de l'agriculture, les établissements présentant 
 public des spécimens vivants de la faune locale ou étrangère qui bénéficient des
 mesures d'exemption prévues à l'article R. 413-9.
 
-IV. - L'autorisation d'ouverture des établissements mobiles ne peut être
-accordée que si les animaux d'espèces non domestiques présentés au public
-participent à un spectacle dans les conditions prévues par les articles R.*
-214-84 à R.* 214-86 et R.* 215-9 du code rural.
+IV.-L'autorisation d'ouverture des établissements mobiles ne peut être accordée
+que si les animaux d'espèces non domestiques présentés au public participent à
+un spectacle dans les conditions prévues par les articles R. * 214-84 à R. *
+214-86 et R. * 215-9 du code rural et de la pêche maritime.

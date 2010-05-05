@@ -10,9 +10,10 @@ décision de conformité.
 
 La demande mentionnée au premier alinéa ne peut être formulée par une entreprise
 lorsqu'un contrôle prévu à l'article L. 243-7 du présent code ou à l'article L.
-724-7 du code rural est engagé.
+724-7 du code rural et de la pêche maritime est engagé.
 
 La réponse, y compris implicite, est opposable aux organismes de recouvrement
 mentionnés aux articles L. 213-1 et L. 752-4 du présent code et à l'article L.
-725-3 du code rural pour une durée ne pouvant excéder la durée de validité des
-accords ou plans d'actions mentionnée aux articles L. 138-25 et L. 138-26.
+725-3 du code rural et de la pêche maritime pour une durée ne pouvant excéder la
+durée de validité des accords ou plans d'actions mentionnée aux articles L.
+138-25 et L. 138-26.

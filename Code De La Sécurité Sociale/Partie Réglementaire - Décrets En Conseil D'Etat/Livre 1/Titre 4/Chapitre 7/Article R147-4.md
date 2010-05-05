@@ -3,10 +3,11 @@ Article R147-4
 Lorsque les faits justifiant l'engagement de la procédure de sanction sont
 relatifs à l'assurance contre les accidents du travail des personnes non
 salariées agricoles affiliées au groupement prévu à l'article L. 752-14 du code
-rural ou à l'assurance maladie de celles affiliées aux groupements institués en
-application de l'article L. 731-31 du même code, la commission mentionnée à
-l'article R. 147-4 du présent code est constituée au sein de chaque groupement
-et est composée de cinq membres du conseil d'administration de ce groupement.
+rural et de la pêche maritime ou à l'assurance maladie de celles affiliées aux
+groupements institués en application de l'article L. 731-31 du même code, la
+commission mentionnée à l'article R. 147-4 du présent code est constituée au
+sein de chaque groupement et est composée de cinq membres du conseil
+d'administration de ce groupement.
 
 Lorsqu'une pénalité est susceptible d'être prononcée à l'encontre d'un
 professionnel de santé, d'un fournisseur ou autre prestataire de services, ou

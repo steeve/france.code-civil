@@ -5,10 +5,11 @@ place de celle-ci, s'il le demande, se voit confier de plein droit par le
 département ou la région la responsabilité d'une opération de grosses
 réparations, d'extension, de reconstruction ou d'équipement d'un collège, d'un
 lycée, d'un établissement d'éducation spéciale, d'un établissement
-d'enseignement agricole visé à l'article L. 811-8 du code rural existant à la
-date du transfert de compétences. Cette opération doit avoir fait l'objet d'une
-décision préalable de financement du département ou de la région conformément
-aux dispositions des articles L. 213-1 et L. 214-1 du présent code.
+d'enseignement agricole visé à l'article L. 811-8 du code rural et de la pêche
+maritime existant à la date du transfert de compétences. Cette opération doit
+avoir fait l'objet d'une décision préalable de financement du département ou de
+la région conformément aux dispositions des articles L. 213-1 et L. 214-1 du
+présent code.
 
 Une convention entre la collectivité territoriale propriétaire ou le groupement
 et le département ou la région détermine les conditions, notamment financières,

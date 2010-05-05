@@ -20,4 +20,4 @@ contrats peuvent renoncer à l'exécution de ceux-ci.
 Les dispositions du présent article s'appliquent aux formations, établissements
 et personnels relevant du ministre de l'agriculture, dans le respect des
 principes définis aux chapitres Ier et III du titre Ier du livre VIII du code
-rural.
+rural et de la pêche maritime.

@@ -39,6 +39,6 @@ recouvrement de la majoration indûment versée.
 
 IV. ― Le bénéfice de la majoration prévue au I est ouvert aux personnes
 mentionnées aux 1°, 4° et 5° de l'article L. 613-1 du présent code et à
-l'article L. 722-9 du code rural sur la base d'une attestation sur l'honneur qui
-comporte les mêmes indications que celles prévues au premier alinéa du III du
-présent article.
+l'article L. 722-9 du code rural et de la pêche maritime sur la base d'une
+attestation sur l'honneur qui comporte les mêmes indications que celles prévues
+au premier alinéa du III du présent article.

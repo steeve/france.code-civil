@@ -4,7 +4,8 @@ Les statuts d'une union peuvent prévoir l'ouverture de cette union à des
 organismes relevant des catégories suivantes :
 
 1° Institutions de prévoyance régies par le titre III du livre IX du code de la
-sécurité sociale ou par l'article L. 727-2 du code rural ;
+sécurité sociale ou par l'article L. 727-2 du code rural et de la pêche maritime
+;
 
 2° Sociétés d'assurances mutuelles relevant du code des assurances ;
 

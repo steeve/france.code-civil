@@ -1,7 +1,7 @@
 Article L23-1
 ----
 Ainsi qu'il est dit aux articles L. 123-24 à L. 123-26 et L. 352-1 du code rural
-:
+et de la pêche maritime :
 
 " Art.L. 123-24-Lorsque les expropriations en vue de la réalisation des
 aménagements ou ouvrages mentionnés aux articles L. 122-1 à L. 122-3 du code de

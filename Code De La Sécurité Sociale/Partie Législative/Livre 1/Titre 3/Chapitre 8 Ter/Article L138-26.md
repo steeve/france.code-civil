@@ -18,4 +18,4 @@ travail a abouti à la conclusion d'un accord de branche étendu, respectant les
 conditions mentionnées à l'article L. 138-25 du présent code et ayant reçu à ce
 titre un avis favorable du ministre chargé de l'emploi. Cet avis est opposable
 aux organismes de recouvrement mentionnés aux articles L. 213-1 et L. 752-4 du
-présent code et à l'article L. 725-3 du code rural.
+présent code et à l'article L. 725-3 du code rural et de la pêche maritime.

@@ -12,22 +12,22 @@ alinéa.
 
 a. Soit, lorsque les conditions d'exploitation pendant l'exercice de réalisation
 du bénéfice sont comparables à celles des trois exercices précédents et que
-l'exploitant réalise un bénéfice supérieur à 25 000 euros et excédant une fois
-et demie la moyenne des résultats des trois exercices précédents, de la fraction
-de ce bénéfice qui dépasse 25 000 euros ou cette moyenne si elle est supérieure.
-Pour l'appréciation des bénéfices de l'exercice considéré et des trois exercices
+l'exploitant réalise un bénéfice supérieur à 25 000 € et excédant une fois et
+demie la moyenne des résultats des trois exercices précédents, de la fraction de
+ce bénéfice qui dépasse 25 000 € ou cette moyenne si elle est supérieure. Pour
+l'appréciation des bénéfices de l'exercice considéré et des trois exercices
 antérieurs, les déficits sont retenus pour un montant nul et il n'est pas tenu
 compte des bénéfices soumis à un taux proportionnel ainsi que des reports
 déficitaires ;
 
 b. Soit du montant correspondant à la différence entre les indemnités prévues
-par l'article L. 221-2 du code rural et la valeur en stock ou en compte d'achats
-des animaux abattus ;
+par l'article L. 221-2 du code rural et de la pêche maritime et la valeur en
+stock ou en compte d'achats des animaux abattus ;
 
 c) Soit du montant des aides attribuées en 2007 au titre du régime des droits à
-paiement unique, créés en application du règlement (CE) n° 1782 / 2003 du
-Conseil, du 29 septembre 2003, établissant des règles communes pour les régimes
-de soutien direct dans le cadre de la politique agricole commune et établissant
+paiement unique, créés en application du règlement (CE) n° 1782/2003 du Conseil,
+du 29 septembre 2003, établissant des règles communes pour les régimes de
+soutien direct dans le cadre de la politique agricole commune et établissant
 certains régimes de soutien en faveur des agriculteurs, pour les exploitants
 clôturant leur exercice entre le 31 mai et le 30 novembre 2007 et ayant
 comptabilisé lors de cet exercice des aides accordées en 2006 à ce même titre.
@@ -45,5 +45,5 @@ mentionné au 2 restant à imposer. Il en est de même de la transmission à tit
 gratuit d'une exploitation individuelle dans les conditions prévues à l'article
 41 si le ou les bénéficiaires de la transmission prennent le même engagement.
 
-4.L'option prévue au 1 doit être formulée au plus tard dans le délai de
+4. L'option prévue au 1 doit être formulée au plus tard dans le délai de
 déclaration des résultats du premier exercice auquel elle s'applique.

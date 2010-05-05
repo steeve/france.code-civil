@@ -4,9 +4,9 @@ I. ― Le brevet d'études professionnelles agricoles est délivré au vu des
 résultats obtenus à un examen ou, en tout ou en partie, par la validation des
 acquis de l'expérience.
 
-Hormis les candidats mentionnés à l'article D. 815-1 du code rural, les
-candidats sous statut scolaire et en apprentissage doivent passer l'ensemble des
-épreuves au cours d'une seule session.
+Hormis les candidats mentionnés à l'article D. 815-1 du code rural et de la
+pêche maritime, les candidats sous statut scolaire et en apprentissage doivent
+passer l'ensemble des épreuves au cours d'une seule session.
 
 Les autres candidats peuvent choisir, au moment de leur inscription, de
 présenter l'ensemble des épreuves au cours d'une seule session ou de les

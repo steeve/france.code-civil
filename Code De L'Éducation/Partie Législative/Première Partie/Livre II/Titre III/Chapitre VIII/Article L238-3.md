@@ -1,10 +1,10 @@
 Article L238-3
 ----
 La composition et les compétences des comités régionaux de l'enseignement
-agricole sont fixées par les dispositions de l'article L. 814-4 du code rural,
-ci-après reproduites :
+agricole sont fixées par les dispositions de l'article L. 814-4 du code rural et
+de la pêche maritime, ci-après reproduites :
 
-" Art.L. 814-4.-Le Conseil national de l'enseignement supérieur et de la
+" Art. L. 814-4.-Le Conseil national de l'enseignement supérieur et de la
 recherche agricole, agroalimentaire et vétérinaire statue en appel et en dernier
 ressort sur les décisions prises par les instances disciplinaires des
 établissements d'enseignement supérieur relevant du ministre chargé de
@@ -40,3 +40,5 @@ compétente ne comprend que des enseignants-chercheurs et enseignants d'un rang
 La composition, les modalités et la durée de désignation des membres des
 formations compétentes à l'égard des enseignants-chercheurs, des enseignants et
 des usagers et leur fonctionnement sont définies par décret en Conseil d'Etat
+
+. "

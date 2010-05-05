@@ -21,4 +21,4 @@ qu'il préside.
 
 Il doit être justifié par le groupement, avant l'octroi de l'agrément, de
 l'accomplissement des formalités auxquelles il est tenu en vertu de l'article
-L331-2 du code rural.
+L331-2 du code rural et de la pêche maritime.

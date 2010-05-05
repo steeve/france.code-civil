@@ -7,7 +7,7 @@ sommes effectivement versées pour la souscription en numéraire au capital de
 sociétés d'investissement régional définies à l'article 89 de la loi n°
 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement
 urbains ou de sociétés d'investissement pour le développement rural définies à
-l'article L. 112-18 du code rural.
+l'article L. 112-18 du code rural et de la pêche maritime.
 
 En cas de cession de tout ou partie des titres souscrits dans les cinq ans de
 leur acquisition, le montant de l'amortissement exceptionnel est réintégré au

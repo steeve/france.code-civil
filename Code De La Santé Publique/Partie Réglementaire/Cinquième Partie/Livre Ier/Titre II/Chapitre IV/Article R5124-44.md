@@ -10,6 +10,7 @@ usage professionnel sur commande écrite, les médicaments figurant sur les list
 prévues aux articles R. 5141-122 et R. 5141-122-1 ;
 
 2° Aux organismes autorisés à pratiquer l'expérimentation animale, en
-application du code rural sur commande écrite justifiée, les médicaments à usage
-humain classés dans l'une des catégories de prescription restreinte mentionnées
-à l'article R. 5121-77 bénéficiant d'une autorisation de mise sur le marché.
+application du code rural et de la pêche maritime sur commande écrite justifiée,
+les médicaments à usage humain classés dans l'une des catégories de prescription
+restreinte mentionnées à l'article R. 5121-77 bénéficiant d'une autorisation de
+mise sur le marché.

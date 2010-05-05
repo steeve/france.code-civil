@@ -1,18 +1,13 @@
 Article L931-2
 ----
-Les fonctions d'inspection sanitaire que nécessite l'application des
-dispositions prévues au II de l'article L. 921-4, au chapitre VI du titre II,
-aux articles L. 927-2 et L. 927-4, aux chapitres Ier à V du présent titre ainsi
-qu'à l'article L. 937-2 sont effectuées par un service d'Etat d'hygiène
-alimentaire constitué de vétérinaires inspecteurs assistés par des ingénieurs
-des travaux agricoles, des techniciens spécialisés des services du ministère de
-l'agriculture, des préposés sanitaires et d'autres fonctionnaires spécialisés
-désignés par arrêté du ministre chargé de l'agriculture ayant la qualité de
-fonctionnaires ou agents de l'Etat. Ces fonctionnaires ou agents peuvent être
-assermentés en vue de la constatation des infractions.
-
-Les fonctions d'inspection sanitaire ainsi définies s'exercent sur les animaux
-et les denrées animales ou d'origine animale tant à leur entrée en France qu'à
-l'intérieur du territoire. Elles ne font pas obstacle à l'exercice des fonctions
-d'inspection sanitaire dont disposent d'autres services de l'Etat dans le cadre
-de leur compétence propre.
+La société de pêche artisanale est une société soumise au régime d'imposition
+des sociétés de personnes ou une société à responsabilité limitée et dont 100 %
+des droits sociaux et des droits de vote sont détenus par un ou des pêcheurs qui
+en assurent en droit la direction et sont embarqués sur le ou les deux navires
+dont la société est totalement propriétaire ou copropriétaire majoritaire, ou
+qu'elle détient en copropriété avec un armement coopératif ou une société visée
+à l'article 238 bis HP du code général des impôts agréés dans le cadre d'une
+accession progressive à la propriété dans un délai qui ne peut excéder dix ans.
+Pour l'application du présent article, les parts détenues par les ascendants,
+descendants ou conjoints des marins pêcheurs sont assimilées à celles détenues
+par ces derniers.

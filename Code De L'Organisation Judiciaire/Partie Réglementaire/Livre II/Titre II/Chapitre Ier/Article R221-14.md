@@ -11,8 +11,9 @@ machines de culture ;
 2° Des actions pour dommages causés aux cultures et récoltes par le gibier ;
 
 3° Des demandes relatives aux vices rédhibitoires et aux maladies contagieuses
-des animaux domestiques, fondées sur les dispositions du code rural ou sur la
-convention des parties, quel qu'ait été le mode d'acquisition des animaux ;
+des animaux domestiques, fondées sur les dispositions du code rural et de la
+pêche maritime ou sur la convention des parties, quel qu'ait été le mode
+d'acquisition des animaux ;
 
 4° Des actions en rescision, réduction de prix ou dommages-intérêts pour lésion
 dans les ventes d'engrais, amendements, semences et plants destinés à

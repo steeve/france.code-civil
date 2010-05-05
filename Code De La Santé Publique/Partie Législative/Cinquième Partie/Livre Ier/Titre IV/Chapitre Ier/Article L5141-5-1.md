@@ -23,4 +23,5 @@ prescription d'un vétérinaire et administré sous sa responsabilité ;
 utilisés pour les poissons d'aquarium, oiseaux d'appartements, pigeons
 voyageurs, animaux de terrarium, petits rongeurs, furets et lapins de compagnie
 exclusivement, sous réserve que ces médicaments ne contiennent pas de substances
-mentionnées aux I et II de l'article L. 234-2 du code rural.
+mentionnées aux I et II de l'article L. 234-2 du code rural et de la pêche
+maritime.

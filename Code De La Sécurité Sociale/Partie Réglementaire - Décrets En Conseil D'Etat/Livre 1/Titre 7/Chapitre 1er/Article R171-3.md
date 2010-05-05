@@ -45,5 +45,6 @@ dans ce cas, la comparaison s'effectue entre les recettes résultant de
 l'activité non salariée non agricole et les recettes procurées par l'activité
 non salariée agricole imposables dans la catégorie des bénéfices agricoles
 auxquelles s'ajoutent les recettes tirées de l'activité agricole au sens des
-articles L. 722-1 à 722-3 du code rural, imposables dans la catégorie des
-bénéfices industriels et commerciaux ou des bénéfices non commerciaux.
+articles L. 722-1 à 722-3 du code rural et de la pêche maritime, imposables dans
+la catégorie des bénéfices industriels et commerciaux ou des bénéfices non
+commerciaux.

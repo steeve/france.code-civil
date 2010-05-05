@@ -6,7 +6,8 @@ propriétaires ou à leurs représentants, par lettre recommandée avec accusé 
 réception, en motivant ce renvoi. Elle leur impartit un délai pour proposer un
 nouveau projet. Le rejet éventuel de ce dernier, notifié dans les mêmes
 conditions, peut faire l'objet d'un recours devant la commission départementale
-d'aménagement foncier dans le délai prévu à l'article R. 121-6 du code rural.
+d'aménagement foncier dans le délai prévu à l'article R. 121-6 du code rural et
+de la pêche maritime.
 
 Pour les propriétaires qui renoncent à présenter un nouveau projet, le délai du
 recours devant la commission départementale court à dater de l'expiration du

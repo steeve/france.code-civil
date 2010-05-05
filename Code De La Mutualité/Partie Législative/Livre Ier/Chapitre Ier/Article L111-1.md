@@ -43,9 +43,9 @@ sociales ou culturelles ;
 4° De participer à la gestion d'un régime légal d'assurance maladie et maternité
 en application des articles L. 211-3 à L. 211-7, L. 381-8, L. 381-9, L. 611-3,
 L. 712-6 à L. 712-8 du code de la sécurité sociale et des articles L. 723-2, L.
-731-30 à L. 731-34, L. 741-23 et L. 742-3 du code rural et d'assurer la gestion
-d'activités et de prestations sociales pour le compte de l'Etat ou d'autres
-collectivités publiques.
+731-30 à L. 731-34, L. 741-23 et L. 742-3 du code rural et de la pêche maritime
+et d'assurer la gestion d'activités et de prestations sociales pour le compte de
+l'Etat ou d'autres collectivités publiques.
 
 Elles peuvent accepter les engagements mentionnés au 1° ci-dessus en
 réassurance.

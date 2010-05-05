@@ -1,12 +1,12 @@
 Article L115-26
 ----
-Est puni de deux ans d'emprisonnement et d'une amende de 37 500 euros le fait :
+Est puni de deux ans d'emprisonnement et d'une amende de 37 500 € le fait :
 
 1° De délivrer un certificat de conformité sans satisfaire aux conditions
-prévues à l'article L. 641-23 du code rural ;
+prévues à l'article L. 641-23 du code rural et de la pêche maritime ;
 
 2° De délivrer un certificat de conformité en méconnaissance de l'article L.
-641-21 du code rural ;
+641-21 du code rural et de la pêche maritime ;
 
 3° D'utiliser ou de tenter d'utiliser frauduleusement un certificat de
 conformité ;
@@ -23,7 +23,8 @@ qu'un produit bénéficie d'un certificat de conformité ;
 certificat de conformité est garanti par l'Etat ou par un organisme public ;
 
 7° De se prévaloir de l'engagement d'une démarche de certification sans que
-celle-ci ait été enregistrée conformément à l'article L. 641-22 du code rural.
+celle-ci ait été enregistrée conformément à l'article L. 641-22 du code rural et
+de la pêche maritime.
 
 Le tribunal pourra, en outre, ordonner l'affichage du jugement dans les lieux
 qu'il désignera et son insertion intégrale ou par extraits dans les journaux

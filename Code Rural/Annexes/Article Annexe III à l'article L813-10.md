@@ -1,26 +1,26 @@
 Article Annexe III à l'article L813-10
 ----
-Entre le ministre de l'agriculture, ou son délégué, ... (monsieur) (madame),
-d'une part, et ... (monsieur) (madame), président ou représentant de
-l'association ou l'organisme responsable de l'établissement ..., d'autre part,
-il a été convenu ce qui suit :
+Entre le ministre de l'agriculture, ou son délégué,... (monsieur) (madame),
+d'une part, et... (monsieur) (madame), président ou représentant de
+l'association ou l'organisme responsable de l'établissement..., d'autre part, il
+a été convenu ce qui suit :
 
 
 Article 1er
 
 Un contrat de participation au service public d'éducation et de formation est
-conclu entre l'Etat et ... (nom de l'association ou de l'organisme) responsable
-de ... (nom, localisation principale et annexes éventuelles de l'établissement).
+conclu entre l'Etat et... (nom de l'association ou de l'organisme) responsable
+de... (nom, localisation principale et annexes éventuelles de l'établissement).
 
 Le présent contrat est expressément régi par le chapitre III du titre Ier du
-livre VIII du code rural.
+livre VIII du code rural et de la pêche maritime.
 
 
 Article 2
 
 Font l'objet du présent contrat la ou les activités de formation suivantes :
 
-Le présent contrat est souscrit pour un effectif maximum de ... stagiaires (par
+Le présent contrat est souscrit pour un effectif maximum de... stagiaires (par
 activité de formation).
 
 
@@ -92,8 +92,9 @@ impartis.
 Article 9
 
 Le montant de la subvention forfaitaire prévue à l'article R. 813-59 (1°) du
-code rural est fixé à (n) fois le coût d'un poste d'enseignant de cycle long tel
-qu'il est fixé par le décret prévu à l'article R. 813-49 du même code.
+code rural et de la pêche maritime est fixé à (n) fois le coût d'un poste
+d'enseignant de cycle long tel qu'il est fixé par le décret prévu à l'article R.
+813-49 du même code.
 
 
 Article 10
@@ -111,28 +112,29 @@ renseignements contenus dans les annexes jointes et s'engage à fournir les
 justificatifs correspondants ainsi que les mises à jour annuelles ou
 circonstancielles :
 
-Annexe I-1. - Effectifs prévisionnels de stagiaires par unité de formation
-(début de cycle).
+Annexe I-1.-Effectifs prévisionnels de stagiaires par unité de formation (début
+de cycle).
 
-Annexe I-2. - Effectifs réels (dans le mois suivant la fin du cycle).
+Annexe I-2.-Effectifs réels (dans le mois suivant la fin du cycle).
 
-Annexe II-1. - Liste des formateurs à titre permanent avec leurs titres,
-diplômes ou qualités.
+Annexe II-1.-Liste des formateurs à titre permanent avec leurs titres, diplômes
+ou qualités.
 
-Annexe II-2. - Liste des intervenants occasionnels.
+Annexe II-2.-Liste des intervenants occasionnels.
 
-Annexe III. - Plan d'organisation des unités de formation (emploi du temps des
+Annexe III.-Plan d'organisation des unités de formation (emploi du temps des
 stagiaires et des formateurs).
 
-Annexe IV. - Montant des contributions demandées aux stagiaires.
+Annexe IV.-Montant des contributions demandées aux stagiaires.
 
 
 Article 12
 
 Le président de l'association ou de l'organisme s'engage à faire connaître au
 directeur régional de l'agriculture et de la forêt, dans le mois qui la suit,
-toute modification se rapportant aux points 1°, 3°, 4°, 5° et 6° de l'article R.
-813-3 du code rural, accompagnée des justificatifs correspondants.
+toute modification se rapportant aux points 1°,3°,4°,5° et 6° de l'article R.
+813-3 du code rural et de la pêche maritime, accompagnée des justificatifs
+correspondants.
 
 Au vu de la modification déclarée, le ministre ou son délégué peut mettre en
 demeure l'association ou l'organisme de demander la passation d'un avenant au
@@ -165,9 +167,9 @@ Article 15
 
 Le présent contrat est conclu pour une durée de cinq ans.
 
-Il prend effet à la date du ....
+Il prend effet à la date du....
 
-Fait à ..., le ....
+Fait à..., le....
 
-Le ministre de l'agriculture (ou son délégué), M. ... représentant légal de
+Le ministre de l'agriculture (ou son délégué), M.... représentant légal de
 l'association (ou l'organisme responsable) de l'établissement.

@@ -16,5 +16,5 @@ Lorsqu'est en cause la protection des travailleurs, l'organisme agréé est
 travail, aux médecins inspecteurs du travail, aux ingénieurs conseils des
 caisses d'assurance retraite et de la santé au travail mentionnés à l'article R.
 422-4 du code de la sécurité sociale et aux agents chargés du contrôle de la
-prévention, agréés et assermentés, mentionnés à l'article L. 724-8 du code
-rural.
+prévention, agréés et assermentés, mentionnés à l'article L. 724-8 du code rural
+et de la pêche maritime.

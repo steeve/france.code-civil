@@ -12,6 +12,6 @@ Pour l'ouverture du droit aux prestations en nature de l'assurance maternité de
 l'assuré qui cesse d'appartenir au régime d'assurance maladie, maternité, décès
 prévu au présent chapitre, et qui, sans interruption, relève soit du régime
 prévu au titre III du livre III du présent code, soit du régime prévu au
-chapitre 2 du titre II du livre VII du code rural, chaque journée d'affiliation
-au régime des praticiens et auxiliaires médicaux conventionnés est considérée
-comme équivalant à six heures de travail salarié.
+chapitre 2 du titre II du livre VII du code rural et de la pêche maritime,
+chaque journée d'affiliation au régime des praticiens et auxiliaires médicaux
+conventionnés est considérée comme équivalant à six heures de travail salarié.

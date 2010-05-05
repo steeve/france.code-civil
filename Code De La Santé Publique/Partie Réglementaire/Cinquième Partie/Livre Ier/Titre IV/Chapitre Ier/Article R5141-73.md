@@ -45,9 +45,9 @@ marché ;
 13° S'il y a lieu, la mention " à ne délivrer que sur ordonnance ", accompagnée
 de la mention de la durée minimale de conservation de l'ordonnance fixée par
 l'arrêté prévu au dernier alinéa du II de l'article L. 234-1 du code rural et de
-toute mention découlant des dispositions prises en application du quatrième
-alinéa de l'article R. 5141-26 ; ces mentions peuvent ne figurer que sur le
-conditionnement extérieur ;
+la pêche maritime et de toute mention découlant des dispositions prises en
+application du quatrième alinéa de l'article R. 5141-26 ; ces mentions peuvent
+ne figurer que sur le conditionnement extérieur ;
 
 14° La forme pharmaceutique et le contenu en poids, en volume ou en unités de
 prise ; ces mentions peuvent ne figurer que sur le conditionnement extérieur.

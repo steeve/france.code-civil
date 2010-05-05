@@ -1,16 +1,16 @@
 Article R511-85
 ----
-I. - Les chambres d'agriculture remboursent :
+I.-Les chambres d'agriculture remboursent :
 
 1° A leurs membres élus ou associés leurs frais de déplacement et de séjour ;
 
 2° Aux employeurs des membres élus des deux collèges des salariés mentionnés au
-3° de l'article R. 511-6 du code rural, ainsi qu'aux employeurs des salariés
-désignés comme membres associés en application des dispositions des articles L.
-515-5 ou R. 511-7, les salaires maintenus dans les conditions prévues aux
-articles L. 515-3 et L. 515-5.
+3° de l'article R. 511-6 du code rural et de la pêche maritime, ainsi qu'aux
+employeurs des salariés désignés comme membres associés en application des
+dispositions des articles L. 515-5 ou R. 511-7, les salaires maintenus dans les
+conditions prévues aux articles L. 515-3 et L. 515-5.
 
-II. - Les chambres peuvent attribuer des indemnités forfaitaires :
+II.-Les chambres peuvent attribuer des indemnités forfaitaires :
 
 1° Représentatives du temps passé à l'exercice de leur mandat en dehors des
 horaires de travail aux élus des deux collèges de salariés et aux salariés

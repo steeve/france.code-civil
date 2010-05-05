@@ -1,7 +1,7 @@
 Article L961-1
 ----
 Les personnels de l'enseignement agricole public relèvent des dispositions de
-l'article L. 811-4 du code rural, ci-après reproduites :
+l'article L. 811-4 du code rural et de la pêche maritime, ci-après reproduites :
 
 " Art.L. 811-4.-Les statuts des personnels des établissements visés à l'article
 L. 811-8 sont harmonisés, jusqu'à réalisation de la parité, avec ceux des corps

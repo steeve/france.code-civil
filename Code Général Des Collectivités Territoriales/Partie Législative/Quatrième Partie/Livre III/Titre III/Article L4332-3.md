@@ -28,4 +28,5 @@ reconstruction, aux grosses réparations, à l'équipement et, si ces opération
 figurent sur la liste établie en application de l'article L. 211-2 du code de
 l'éducation, à l'extension et à la construction des lycées, des établissements
 d'éducation spéciale, des écoles de formation maritime et aquacole et des
-établissements d'enseignement agricole visés à l'article L. 811-8 du code rural.
+établissements d'enseignement agricole visés à l'article L. 811-8 du code rural
+et de la pêche maritime.

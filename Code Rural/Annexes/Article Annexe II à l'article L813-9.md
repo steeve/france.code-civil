@@ -1,19 +1,19 @@
 Article Annexe II à l'article L813-9
 ----
-Entre le ministre de l'agriculture, ou son délégué, ... (monsieur) (madame),
-d'une part, et ... (monsieur) (madame), président ou représentant de
-l'association ou l'organisme ... responsable de l'établissement ..., d'autre
-part, il a été convenu ce qui suit :
+Entre le ministre de l'agriculture, ou son délégué,... (monsieur) (madame),
+d'une part, et... (monsieur) (madame), président ou représentant de
+l'association ou l'organisme... responsable de l'établissement..., d'autre part,
+il a été convenu ce qui suit :
 
 
 Article 1er
 
 Un contrat de participation au service public d'éducation et de formation est
-conclu entre l'Etat et ... (nom de l'association ou de l'organisme) responsable
-de ... (nom, localisation principale et annexes éventuelles de l'établissement).
+conclu entre l'Etat et... (nom de l'association ou de l'organisme) responsable
+de... (nom, localisation principale et annexes éventuelles de l'établissement).
 
 Le présent contrat est expressément régi par le chapitre III du titre Ier du
-livre VIII du code rural.
+livre VIII du code rural et de la pêche maritime.
 
 
 Article 2
@@ -23,8 +23,8 @@ Font l'objet du présent contrat la ou les formations suivantes :
 ..., qui constituent la structure pédagogique du secteur sous contrat de
 l'établissement.
 
-Le contrat est souscrit pour un effectif maximum de ... élèves (éventuellement).
-L'effectif maximum des formations suivantes est limité à ....
+Le contrat est souscrit pour un effectif maximum de... élèves
+(éventuellement).L'effectif maximum des formations suivantes est limité à....
 
 L'établissement fonctionne selon le rythme approprié : par alternance (ou) par
 une autre méthode pédagogique.
@@ -45,7 +45,7 @@ agricole.
 Si des activités non prévues dans les programmes nationaux ont lieu dans
 l'établissement, elles seront placées à des heures telles que les élèves majeurs
 et les élèves dont la famille ne souhaite pas qu'ils y participent ne soient ni
-contraints de les suivre, ni laissés sans surveillance ou dans l'oisiveté. A cet
+contraints de les suivre, ni laissés sans surveillance ou dans l'oisiveté.A cet
 effet, l'avis des familles ou des élèves majeurs sera recueilli.
 
 
@@ -146,22 +146,22 @@ renseignements contenus dans les annexes jointes et s'engage à fournir les
 justificatifs correspondants ainsi que les mises à jour annuelles ou
 circonstancielles :
 
-Annexe I. - Effectifs d'élèves par formation.
+Annexe I.-Effectifs d'élèves par formation.
 
-Annexe II-1. - Liste des formateurs avec leurs titres, diplômes ou qualités et
-la nature de leurs interventions.
+Annexe II-1.-Liste des formateurs avec leurs titres, diplômes ou qualités et la
+nature de leurs interventions.
 
-Annexe II-2. - Liste des coformateurs, parents ou maîtres de stage, accueillant
+Annexe II-2.-Liste des coformateurs, parents ou maîtres de stage, accueillant
 des élèves pendant les séquences pédagogiques dans le milieu. Cette liste
 précise le nom de l'élève accueilli et les dates de séjour.
 
-Annexe III. - Plan d'organisation des formations :
+Annexe III.-Plan d'organisation des formations :
 
 1. Emploi du temps des élèves et des formateurs ;
 
 2. Modalités de regroupement des élèves.
 
-Annexe IV. - Montant des contributions et des redevances demandées aux familles.
+Annexe IV.-Montant des contributions et des redevances demandées aux familles.
 
 
 Article 11
@@ -169,8 +169,8 @@ Article 11
 Le président de l'association ou de l'organisme s'engage à faire connaître au
 directeur régional de l'agriculture et de la forêt, dans le mois qui la suit,
 toute modification se rapportant aux points 1°, 3°, 4°, 5° et 6° de l'article R.
-813-3 du code rural ou au troisième alinéa de l'article R. 813-44 du même code,
-accompagnée des justificatifs correspondants.
+813-3 du code rural et de la pêche maritime ou au troisième alinéa de l'article
+R. 813-44 du même code, accompagnée des justificatifs correspondants.
 
 Au vu de la modification déclarée, le ministre ou son délégué peut mettre en
 demeure l'association ou l'organisme de demander la passation d'un avenant au
@@ -206,9 +206,9 @@ Article 14
 
 Le présent contrat est conclu pour une durée indéterminée.
 
-Il prend effet à la date du ....
+Il prend effet à la date du....
 
-Fait à ..., le ....
+Fait à..., le....
 
-Le ministre de l'agriculture (ou son délégué), M. ... représentant légal de
+Le ministre de l'agriculture (ou son délégué), M.... représentant légal de
 l'association (ou l'organisme responsable) de l'établissement.

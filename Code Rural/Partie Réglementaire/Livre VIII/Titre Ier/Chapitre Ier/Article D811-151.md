@@ -3,9 +3,9 @@ Article D811-151
 I. ― Peuvent se présenter au brevet d'études professionnelles agricoles :
 
 1° Les candidats majeurs ou mineurs qui suivent la formation dès la classe de
-seconde professionnelle définie à l'article R. 811-145 du code rural et
-correspondant à la spécialité du baccalauréat professionnel visé ou relevant du
-même champ professionnel.
+seconde professionnelle définie à l'article R. 811-145 du code rural et de la
+pêche maritime et correspondant à la spécialité du baccalauréat professionnel
+visé ou relevant du même champ professionnel.
 
 Ces candidats suivent leur formation :
 
@@ -16,13 +16,14 @@ professionnelle agricole ;
 
 b) Soit dans un établissement d'enseignement et de formation professionnelle
 agricoles privé ayant passé, pour le cycle d'études considéré, un contrat dans
-les conditions mentionnées à l'article L. 813-1 du code rural ;
+les conditions mentionnées à l'article L. 813-1 du code rural et de la pêche
+maritime ;
 
 c) Soit dans des établissements relevant d'autres ministères ;
 
 d) Soit dans des établissements privés autres que ceux mentionnés à l'article L.
-813-1 du code rural, après avis du directeur régional de l'alimentation, de
-l'agriculture et de la forêt ;
+813-1 du code rural et de la pêche maritime, après avis du directeur régional de
+l'alimentation, de l'agriculture et de la forêt ;
 
 1. 2. Par la voie de l'apprentissage définie au livre II de la sixième partie du
 code du travail ;

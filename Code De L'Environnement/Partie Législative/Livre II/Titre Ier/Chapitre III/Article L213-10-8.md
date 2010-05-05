@@ -1,8 +1,8 @@
 Article L213-10-8
 ----
 I.-Toute personne distribuant les produits visés à l'article L. 253-1 du code
-rural en vertu de l'agrément visé à l'article L. 254-1 du même code est
-assujettie à une redevance pour pollutions diffuses.
+rural et de la pêche maritime en vertu de l'agrément visé à l'article L. 254-1
+du même code est assujettie à une redevance pour pollutions diffuses.
 
 II. ― L'assiette de la redevance est la masse de substances classées,
 conformément aux catégories définies pour l'application de l'article L. 4411-6
@@ -48,11 +48,11 @@ IV.-La redevance est exigible lors de la vente à l'utilisateur final. Les
 distributeurs mentionnés au I font apparaître le montant de la redevance qu'ils
 ont acquittée au titre du produit distribué sur leurs factures, à l'exception
 des produits distribués portant la mention " emploi autorisé dans les jardins ".
-Le registre prévu à l'article L. 254-1 du code rural mentionne également les
-éléments nécessaires au calcul de l'assiette de la redevance et, le cas échéant,
-les destinataires des factures et les montants de redevance correspondants. Ce
-registre est mis à disposition des agences de l'eau et de l'autorité
-administrative.
+Le registre prévu à l'article L. 254-1 du code rural et de la pêche maritime
+mentionne également les éléments nécessaires au calcul de l'assiette de la
+redevance et, le cas échéant, les destinataires des factures et les montants de
+redevance correspondants. Ce registre est mis à disposition des agences de l'eau
+et de l'autorité administrative.
 
 V. ― La fraction du produit annuel de la redevance, comprenant le montant dû au
 titre de l'année précédente et l'acompte versé au titre de l'année en cours,

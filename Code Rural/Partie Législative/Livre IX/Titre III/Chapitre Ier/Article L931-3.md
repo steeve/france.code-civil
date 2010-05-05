@@ -1,13 +1,8 @@
 Article L931-3
 ----
-Les vétérinaires titulaires du mandat sanitaire prévu par l'article L. 921-11
-concourent, dans le cadre de celui-ci et sous l'autorité du directeur des
-services vétérinaires, aux fonctions d'inspection sanitaire et qualitative des
-animaux vivants appartenant à des espèces dont la chair ou les produits sont
-destinés à l'alimentation humaine sur les foires, marchés ou expositions, dans
-tous les lieux et locaux professionnels où ils sont détenus et dans les
-véhicules professionnels de transport. Ils concourent également à la
-surveillance des conditions sanitaires et qualitatives dans lesquelles ces
-animaux sont produits, alimentés, entretenus, transportés et mis en vente.
-
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+La participation à une société de pêche artisanale telle que définie à l'article
+L. 931-2 ne doit pas avoir pour effet de mettre les pêcheurs associés ainsi que
+leur famille, pour tout ce qui touche leurs statuts économique et social de
+marins pêcheurs, dans une situation moins favorable que celle des pêcheurs
+artisans exploitant en entreprise individuelle et que celle des familles de
+pêcheurs artisans.

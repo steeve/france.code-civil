@@ -5,4 +5,4 @@ désignent les entreprises mentionnées à l'article L. 310-2 du présent code, 
 mutuelles ou les unions régies par le livre II du code de la mutualité, les
 institutions de prévoyance ou les unions régies par le titre III du livre IX du
 code de la sécurité sociale et les institutions régies par l'article L. 727-2 du
-code rural.
+code rural et de la pêche maritime.

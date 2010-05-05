@@ -1,6 +1,7 @@
 Article R5141-11
 ----
-Comme il est dit à l'article R. 234-4 du code rural ainsi reproduit :
+Comme il est dit à l'article R. 234-4 du code rural et de la pêche maritime
+ainsi reproduit :
 
 " I.-Les denrées alimentaires issues d'un animal ayant été soumis à un essai
 clinique de médicaments vétérinaires mentionné au V de l'article L. 234-2 ne

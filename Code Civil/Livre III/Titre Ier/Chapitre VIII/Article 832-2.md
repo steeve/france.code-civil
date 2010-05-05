@@ -22,8 +22,9 @@ agricole pouvant constituer une unité économique. Cette unité économique peu
 Il est tenu compte, s'il y a lieu, de la dépréciation due à l'existence du bail
 dans l'évaluation des terres incluses dans les différents lots.
 
-Les articles L. 412-14 et L. 412-15 du code rural déterminent les règles
-spécifiques au bail mentionné au premier alinéa du présent article.
+Les articles L. 412-14 et L. 412-15 du code rural et de la pêche maritime
+déterminent les règles spécifiques au bail mentionné au premier alinéa du
+présent article.
 
 Si, en raison de l'inaptitude manifeste du ou des demandeurs à gérer tout ou
 partie de l'exploitation, les intérêts des cohéritiers risquent d'être

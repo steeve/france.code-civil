@@ -38,8 +38,8 @@ h) La raison sociale de la caution ou, le cas échéant, la mention " Dispense "
 a) Les mentions relatives aux comptes d'âge ou de vieillissement ;
 
 b) Les références aux contrats d'achat soumis au visa de l'établissement
-mentionné à l'article L. 621-1 du code rural pour les transactions soumises à
-cette procédure ;
+mentionné à l'article L. 621-1 du code rural et de la pêche maritime pour les
+transactions soumises à cette procédure ;
 
 c) Les références aux certificats d'agrément ou de labellisation ;
 
@@ -60,7 +60,8 @@ par appellation d'origine ou dénomination de produits ;
 
 b) Pour les autres entrepositaires agréés par nature de produit et / ou par
 tarif d'imposition, sous réserve des règlements ou accords interprofessionnels
-prévus notamment en application des articles L. 632-1 à L. 632-7 du code rural.
+prévus notamment en application des articles L. 632-1 à L. 632-7 du code rural
+et de la pêche maritime.
 
 II.-1° Conformément au III de l'article 302 D du code général des impôts,
 l'entrepositaire agréé liquide l'impôt sur la déclaration récapitulative

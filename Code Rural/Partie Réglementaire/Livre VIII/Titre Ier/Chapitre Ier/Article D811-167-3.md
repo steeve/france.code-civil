@@ -36,8 +36,8 @@ diplômes ou titres en permettant l'accès, ou de l'équivalent de trois années
 temps plein dans un autre emploi. Ils doivent en outre satisfaire aux
 évaluations de pré-requis organisées par le centre. Les périodes effectuées lors
 d'un contrat de travail de type particulier en alternance ou en apprentissage,
-ou lors d'un stage d'application mentionné à l'article R. 343-4 du code rural
-peuvent être prises en compte dans cette durée.
+ou lors d'un stage d'application mentionné à l'article R. 343-4 du code rural et
+de la pêche maritime peuvent être prises en compte dans cette durée.
 
 Lorsque l'accès au certificat de spécialisation agricole est demandé par la voie
 de la validation des acquis de l'expérience, les candidats doivent justifier

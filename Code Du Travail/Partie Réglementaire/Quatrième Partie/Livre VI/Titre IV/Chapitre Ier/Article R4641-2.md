@@ -15,15 +15,15 @@ législatives de la quatrième partie du présent code ou des textes mentionnés
 
 4° Les projets de décrets et d'arrêtés pris en application des dispositions
 législatives des chapitres V, VI et VII du titre Ier du livre VII du code rural
-;
+et de la pêche maritime ;
 
 5° Les projets d'instruments internationaux relatifs à la santé et à la sécurité
 au travail, à l'amélioration des conditions de travail et à la prévention des
 risques professionnels.
 
 Il constitue, pour le ministre chargé de l'agriculture, l'organisme mentionné à
-l'article R. 717-74 du code rural consulté sur les projets de textes
-réglementaires applicables aux établissements agricoles.
+l'article R. 717-74 du code rural et de la pêche maritime consulté sur les
+projets de textes réglementaires applicables aux établissements agricoles.
 
 Le conseil formule des recommandations et des propositions d'orientation en
 matière de conditions de travail et de prévention des risques professionnels. Il

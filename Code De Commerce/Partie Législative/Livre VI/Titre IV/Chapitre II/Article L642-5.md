@@ -15,8 +15,8 @@ fixé par décret en Conseil d'Etat.
 
 Le jugement qui arrête le plan en rend les dispositions applicables à tous.
 
-Les droits de préemption institués par le code rural ou le code de l'urbanisme
-ne peuvent s'exercer sur un bien compris dans ce plan.
+Les droits de préemption institués par le code rural et de la pêche maritime ou
+le code de l'urbanisme ne peuvent s'exercer sur un bien compris dans ce plan.
 
 Lorsque le plan prévoit des licenciements pour motif économique, il ne peut être
 arrêté par le tribunal qu'après que le comité d'entreprise ou, à défaut, les
