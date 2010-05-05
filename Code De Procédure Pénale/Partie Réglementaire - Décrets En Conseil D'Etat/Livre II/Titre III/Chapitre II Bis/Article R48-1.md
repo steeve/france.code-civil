@@ -85,7 +85,7 @@ par :
 
 a) L'article R. 622-2 du code pénal relatif à la divagation d'animal ;
 
-b) L'article 10 du décret n° 76-352 du 15 avril 1976 fixant les modalités
+b) L' article 10 du décret n° 76-352 du 15 avril 1976 fixant les modalités
 d'application aux équidés de la loi du 28 décembre 1966 sur l'élevage ;
 
 c) L'article 15 du décret n° 80-791 du 1er octobre 1980 pris pour l'application
@@ -113,8 +113,8 @@ i) L'article R. 215-2 du code rural ;
 électroniques prévues par les articles R. 10-1, R. 10-2, R. 10-4 et R. 10-9. 6°
 Contraventions réprimées par le code de la santé publique prévues par les
 articles R. 3512-1 et le 1° et le 2° de l'article R. 3512-2 ; Contraventions en
-matière de vente de boissons alcoolisées réprimées par l'article R. 3353-5-1 du
-code de la santé publique ;
+matière d'offre de boissons alcooliques prévues et réprimées par les articles R.
+3351-2, R. 3353-5-1 et R. 3353-7 du code de la santé publique ;
 
 Contraventions en matière de collecte et de destruction de médicaments à usage
 humain non utilisés réprimées par les articles R. 4212-1 et R. 4212-2 du code de

@@ -1,6 +1,11 @@
 Article R3353-7
 ----
-Le fait pour un débitant de boissons de vendre ou d'offrir à titre gratuit à des
-mineurs âgés de seize ou dix sept ans, des boissons du troisième, du quatrième
-ou du cinquième groupe est puni de l'amende prévue pour les contraventions de la
-4e classe.
+I.- Est puni de l'amende prévue pour les contraventions de la deuxième classe le
+fait, pour un débitant de boissons :
+
+1° De ne pas placer à l'endroit indiqué l'affiche prévue à l'article L. 3342-4 ;
+
+2° D'apposer des affiches d'un autre modèle que celui défini au même article.
+
+II.- Est puni de la même peine le fait de détruire, de lacérer ou d'altérer
+l'affiche mentionnée au 1° du I.
