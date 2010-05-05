@@ -9,7 +9,9 @@ mentionnés à l'article L. 914-23, il a été procédé à la saisie ou au retr
 quelque titre que ce soit, d'un ou plusieurs animaux vivants, le procureur de la
 République près le tribunal de grande instance du lieu de l'infraction, ou,
 lorsqu'il est saisi, le juge d'instruction, peut placer l'animal dans un lieu de
-dépôt prévu à cet effet et qu'il désigne jusqu'à ce qu'il ait été statué sur
+dépôt prévu à cet effet ou le confier à une fondation ou à une association de
+protection animale reconnue d'utilité publique ou déclarée. La décision
+mentionne le lieu de placement et vaut jusqu'à ce qu'il ait été statué sur
 l'infraction.
 
 Lorsque les conditions du placement sont susceptibles de rendre l'animal

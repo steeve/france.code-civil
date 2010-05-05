@@ -12,7 +12,7 @@ astreintes et des déplacements lorsqu'ils n'ont pas fait l'objet d'une
 indemnisation.
 
 Pendant les congés et les jours de récupération mentionnés aux 1°, 2° et 3° ,
-les praticiens perçoivent la totalité des émoluments mentionnés aux 1° et 8° de
+les praticiens perçoivent la totalité des émoluments mentionnés au 1° de
 l'article R. 6152-23.
 
 Le directeur de l'établissement arrête le tableau des congés et jours de
@@ -25,8 +25,7 @@ fixées aux articles R. 6152-37 à R. 6152-39 ;
 
 5° A un congé de maternité, d'adoption ou de paternité d'une durée égale à celle
 prévue par la législation de la sécurité sociale, pendant lequel l'intéressé
-perçoit l'intégralité des émoluments prévus à l'article R. 6152-23 ainsi que, le
-cas échéant, l'indemnité prévue au 8° de cet article ;
+perçoit l'intégralité des émoluments prévus à l'article R. 6152-23 ;
 
 6° A un congé parental dans les conditions prévues à l'article R. 6152-45 ;
 

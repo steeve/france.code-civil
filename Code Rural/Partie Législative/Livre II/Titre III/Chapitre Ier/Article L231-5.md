@@ -1,12 +1,11 @@
 Article L231-5
 ----
 Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions
-d'application du II de l'article L. 221-4, du chapitre VI du titre II, des
-chapitres Ier à V du présent titre ainsi que de l'article L. 237-2, notamment en
-ce qui concerne les produits importés et exportés, les établissement et
-fabriques où sont préparées les conserves et denrées d'origine animale destinées
-à la consommation humaine ou animale, les ateliers d'équarrissage et les dépôts
-de cadavres d'animaux.
+d'application du II de l'article L. 221-4, du chapitre VI du titre II et des
+chapitres Ier à V du présent titre, en ce qui concerne les produits d'origine
+animale, les denrées alimentaires en contenant, les aliments pour animaux
+d'origine animale, ou contenant des produits d'origine animale et les
+sous-produits d'origine animale.
 
 Le décret en Conseil d'Etat définit, sans préjudice, le cas échéant, des
 prescriptions des règlements sanitaires départementaux, les conditions d'hygiène

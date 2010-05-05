@@ -44,8 +44,11 @@ font l'objet de mauvais traitements, les fonctionnaires et agents mentionnés au
 articles L. 214-19 et L. 214-20 dressent un procès-verbal qu'ils transmettent au
 procureur de la République dans les conditions mentionnées au III. En cas
 d'urgence, ces fonctionnaires et agents peuvent ordonner le retrait des animaux
-et les confier à une fondation ou une association de protection des animaux
-jusqu'au jugement ; il en est fait mention dans le procès-verbal.
+et les placer dans un lieu de dépôt qu'ils désignent à cet effet ou les confier
+à une fondation ou à une association de protection animale reconnue d'utilité
+publique ou déclarée, dans l'attente de la mesure judiciaire prévue au premier
+alinéa de l'article 99-1 du code de procédure pénale. Il en est fait mention au
+procès-verbal.
 
 V. - Les fonctionnaires et agents mentionnés aux articles L. 214-19 et L. 214-20
 sont habilités à procéder ou à faire procéder, de jour comme de nuit, à

@@ -30,4 +30,7 @@ privé entrant dans le champ d'application du I de l'article L. 313-12 du code d
 l'action sociale et des familles ;
 
 7° Détachement auprès d'un groupement d'intérêt public entrant dans l'un des cas
-prévus aux articles L. 6115-2 et L. 6134-1.
+prévus aux articles L. 6115-2 et L. 6134-1 ;
+
+8° Détachement sur le statut d'emploi de conseiller général des établissements
+de santé.
