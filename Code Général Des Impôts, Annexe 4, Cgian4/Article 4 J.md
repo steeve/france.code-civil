@@ -23,7 +23,7 @@ afférentes aux immeubles qui ne sont pas affectés à l'exploitation ;
 
 4° 3 000 euros pour les cadeaux de toute nature, à l'exception des objets
 spécialement conçus pour la publicité et dont la valeur unitaire ne dépasse pas
-30 euros par bénéficiaire ;
+60 euros, toutes taxes comprises, par bénéficiaire (1) ;
 
 5° 6 100 euros pour les frais de réception, y compris les frais de restaurant et
 de spectacles.
