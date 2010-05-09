@@ -4,8 +4,8 @@ La réduction d'impôt prévue au I de l'article 199 undecies B du code généra
 impôts n'est pas imputable sur l'impôt résultant de la reprise des réductions
 d'impôt antérieurement pratiquées ou sur l'impôt résultant de la majoration du
 revenu global effectuée en application des vingt-troisième, vingt-cinquième et
-vingt-sixième alinéas de ce même I, des dispositions prévues à l'article 199
-undecies et du 7 de l'article 199 undecies A du même code.
+vingt-sixième alinéas de ce même I et du 7 de l'article 199 undecies A du même
+code.
 
 De même, la créance sur l'Etat prévue au I de l'article 199 undecies B ne peut
 être utilisée pour le paiement de l'impôt résultant des reprises de réductions
