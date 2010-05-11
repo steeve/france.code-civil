@@ -4,32 +4,32 @@ I.-Le contrôle des obligations prévues aux chapitres Ier et II du présent tit
 et, le cas échéant, le pouvoir de sanction en cas de non-respect de celles-ci
 sont assurés :
 
-1° a) Par la Commission bancaire sur les organismes et les personnes qui lui
-sont soumis en vertu des articles L. 524-2, L. 613-1, L. 613-1-1, L. 613-2, sur
-les intermédiaires habilités mentionnés à l'article L. 211-4 et sur la Caisse
-des dépôts et consignations ;
+1° a) Par l'Autorité de contrôle prudentiel sur les intermédiaires habilités
+mentionnés à l'article L. 211-4, sur la Caisse des dépôts et consignations, et
+sur les organismes et les personnes qui lui sont soumis en vertu de l'article L.
+612-2, à l'exception des personnes mentionnées aux 4°, 6° et 7° du A, aux 6°, 7°
+et 8° du B du I et au 3° du II de cet article ;
 
-b) A cette fin, le contrôle de la Commission bancaire sur la Caisse des dépôts
-et consignations est exercé, dans les conditions prévues à l'article L. 613-20
-et au I de l'article L. 613-23, selon les modalités prévues par les articles L.
-613-6 à L. 613-11 et L. 613-15 ainsi qu'aux 1° et 2° du I de l'article L.
-613-21.
+b) A cette fin, le contrôle de l'Autorité de contrôle prudentiel sur la Caisse
+des dépôts et consignations est exercé, dans les conditions prévues à l'article
+L. 612-17, selon les modalités prévues par les articles L. 612-23 à L. 612-27,
+L. 612-31, L. 612-44, ainsi qu'aux 1° et 2° du I de l'article L. 612-39 ;
 
-La Commission bancaire peut adresser à la Caisse des dépôts et consignations des
-recommandations ou des injonctions de prendre les mesures appropriées pour
-améliorer ses procédures ou son organisation.
+L'Autorité de contrôle prudentiel peut adresser à la Caisse des dépôts et
+consignations des recommandations ou des injonctions de prendre les mesures
+appropriées pour améliorer ses procédures ou son organisation.
 
-La Commission bancaire peut également prononcer à son encontre, soit à la place,
-soit en sus des sanctions prévues aux 1° et 2° du I de l'article L. 613-21,
-compte tenu de la gravité des manquements, une sanction pécuniaire d'un montant
-maximal égal au décuple du capital minimum auquel sont astreintes les banques.
-Les sommes correspondantes sont recouvrées par le Trésor public et versées au
-budget de l'Etat.
+L'Autorité de contrôle prudentiel peut également prononcer à son encontre, soit
+à la place, soit en sus des sanctions prévues aux 1° et 2° du I de l'article L.
+612-39, compte tenu de la gravité des manquements, une sanction pécuniaire d'un
+montant maximal égal au décuple du capital minimum auquel sont astreintes les
+banques. Les sommes correspondantes sont recouvrées par le Trésor public et
+versées au budget de l'Etat.
 
 Lorsqu'elle adresse des recommandations ou des injonctions à la Caisse des
-dépôts et consignations ou prononce des sanctions à son encontre, la Commission
-bancaire recueille préalablement l'avis de la Commission de surveillance
-mentionnée aux articles L. 518-4 à L. 518-10.
+dépôts et consignations ou prononce des sanctions à son encontre, l'Autorité de
+contrôle prudentiel recueille préalablement l'avis de la Commission de
+surveillance mentionnée aux articles L. 518-4 à L. 518-10.
 
 Pour la mise en œuvre du b du 1° du présent article, les articles L. 571-4, L.
 613-20-1 et L. 613-20-2 sont applicables au groupe de la Caisse des dépôts et
@@ -41,9 +41,7 @@ sociétés de gestion de portefeuille, au titre de leurs activités mentionnées
 systèmes de règlement et de livraison d'instruments financiers et sur les
 conseillers en investissements financiers ;
 
-3° Par l'Autorité de contrôle des assurances et mutuelles sur les organismes et
-les personnes qui lui sont soumis en vertu de l'article L. 310-12 du code des
-assurances ;
+3° (Supprimé)
 
 4° Par le conseil de l'ordre du barreau auprès duquel les avocats sont inscrits,
 conformément à l'article 17 de la loi n° 71-1130 du 31 décembre 1971 portant
