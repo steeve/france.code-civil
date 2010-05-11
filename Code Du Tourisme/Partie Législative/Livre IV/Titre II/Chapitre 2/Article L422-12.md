@@ -101,30 +101,21 @@ clôture de l'exercice.
 Dans le cas où la différence mentionnée aux 1° et 2° est négative, la perte
 subie vient en déduction des bénéfices des jours suivants. "
 
-" Art. L. 2333-55-2 du code général des collectivités territoriales.
-
-Les prélèvements opérés au profit de l'Etat, des communes, des établissements
-publics de coopération intercommunale et des organismes sociaux et spécifiques
-aux jeux des casinos exploités en application de la loi du 15 juin 1907 précitée
-sont liquidés et payés mensuellement auprès d'un comptable public.
-
-Les prélèvements sont soldés par saison des jeux qui court du 1er novembre au 31
-octobre de l'année suivante. Aucune compensation n'est admise entre le montant
-des prélèvements dû au titre d'une saison des jeux en cours et celui dont le
-casino est redevable pour une saison des jeux antérieure.
-
-Les prélèvements sont recouvrés et contrôlés selon les mêmes procédures et sous
-les mêmes sanctions, garanties, sûretés et privilèges que les taxes sur le
-chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon
-les règles applicables à ces mêmes taxes.
-
-Un décret fixe les conditions d'application du présent article.
-
 " Art. L. 2333-56 du code général des collectivités territoriales.
 
 Les tranches du barème du prélèvement progressif opéré sur le produit brut des
 jeux, en vertu de la loi du 15 juin 1907 précitée, sont fixées par décret, dans
-les limites minimum et maximum de 10 % à 80 % du produit brut des jeux. "
+les limites minimum et maximum de 10 % à 80 % du produit brut des jeux.
+
+A compter du 1er novembre 2008, l'abattement sur le produit brut des jeux des
+casinos mentionné à l'article 1er du décret du 28 juillet 1934 portant
+modification du régime fiscal des casinos, le cas échéant les abattements
+supplémentaires mentionnés au I de l'article 34 de la loi de finances
+rectificative pour 1995 (n° 95-1347 du 30 décembre 1995) et le prélèvement
+progressif mentionné à l'alinéa précédent sont appliqués, d'une part, à la somme
+des éléments constitutifs du produit brut des jeux mentionnés aux 1°, 2° et 3°
+de l'article L. 2333-55-1 et, d'autre part, à la somme des éléments constitutifs
+du produit brut des jeux mentionnés aux 4° et 5° du même article. "
 
 " Art. L. 2333-57 du code général des collectivités territoriales.
 
