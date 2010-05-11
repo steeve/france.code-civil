@@ -41,9 +41,20 @@ d'exercice des activités relatives à certaines opérations portant sur les
 immeubles et les fonds de commerce, à l'exclusion de l'échange, de la location
 ou de la sous-location, saisonnière ou non, en nu ou en meublé ;
 
-9° Les représentants légaux et directeurs responsables de casinos et les
-groupements, cercles et sociétés organisant des jeux de hasard, des loteries,
-des paris, des pronostics sportifs ou hippiques ;
+9° Les représentants légaux et directeurs responsables des opérateurs de jeux ou
+de paris autorisés sur le fondement de l'article 5 de la loi du 2 juin 1891
+ayant pour objet de réglementer l'autorisation et le fonctionnement des courses
+de chevaux, de l'article 1er de la loi du 15 juin 1907 relative aux casinos, de
+l'article 47 de la loi du 30 juin 1923 portant fixation du budget général de
+l'exercice 1923, de l'article 9 de la loi du 28 décembre 1931, de l'article 136
+de la loi du 31 mai 1933 portant fixation du budget général de l'exercice 1933
+et de l'article 42 de la loi de finances pour 1985 (n° 84-1208 du 29 décembre
+1984) ;
+
+9° bis Les représentants légaux et directeurs responsables des opérateurs de
+jeux ou de paris autorisés sur le fondement de l'article 21 de la loi n°
+2010-476 du 12 mai 2010 relative à l'ouverture à la concurrence et à la
+régulation du secteur des jeux d'argent et de hasard en ligne ;
 
 10° Les personnes se livrant habituellement au commerce ou organisant la vente
 de pierres précieuses, de matériaux précieux, d'antiquités et d'œuvres d'art ;

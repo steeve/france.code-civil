@@ -1,32 +1,22 @@
 Article 302 bis ZG
 ----
-Sont soumises à une contribution annuelle les ventes deproduits alimentaires à
-consommer sur place ou à emporter, réalisées par despersonnes qui exploitent en
-France métropolitaine :
+Il est institué, pour le pari mutuel organisé et exploité par les sociétés de
+courses dans les conditions fixées par l'article 5 de la loi du 2 juin 1891
+ayant pour objet de réglementer l'autorisation et le fonctionnement des courses
+de chevaux et pour les paris hippiques en ligne mentionnés à l'article 11 de la
+loi n° 2010-476 du 12 mai 2010 relative à l'ouverture à la concurrence et à la
+régulation du secteur des jeux d'argent et de hasard en ligne, un prélèvement
+sur les sommes engagées par les parieurs.
 
-- des établissements d'hébergement ;
-
-- des établissements qui réalisent des ventes à consommer sur place de
-produitsalimentaires et dont l'activité principale résulte des ventes
-mentionnées aupremier alinéa, à l'exception des cantines d'entreprises.
-
-La contribution est calculée au taux de 0, 12 % sur la fraction qui excède
-200000 € du montant hors taxe sur la valeur ajoutée des sommes encaissées
-enrémunération des ventes mentionnées au premier alinéa réalisées au cours
-del'année précédente ou du dernier exercice clos.
-
-Les redevables déclarent et acquittent la contribution due lors du dépôt de
-ladéclaration mentionnée au 1 de l'article 287 au titre du mois de mars ou
-autitre du premier trimestre de l'année civile, ou, pour les redevables
-placéssous le régime simplifié d'imposition prévu à l'article 302 septies A,
-lors dudépôt de la déclaration mentionnée au 3 de l'article 287.
-
-La contribution n'est pas recouvrée lorsque le montant de la contribution dueest
-inférieur à 50 €.
-
-La contribution est recouvrée et contrôlée selon les mêmes procédures et sousles
-mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la
-valeurajoutée.
-
-Les réclamations sont présentées, instruites et jugées selon les
-règlesapplicables à cette même taxe.
+Ce prélèvement est dû par le Pari mutuel urbain ou les sociétés de courses
+intéressées pour les paris organisés dans les conditions fixées par l'article 5
+de la loi du 2 juin 1891 précitée et par les personnes titulaires, en tant
+qu'opérateur de paris hippiques en ligne, de l'agrément mentionné à l'article 21
+de la loi n° 2010-476 du 12 mai 2010 précitée. Le produit de ce prélèvement est
+affecté à concurrence de 15 % et dans la limite de 10 millions d'euros aux
+communes sur le territoire desquelles sont ouverts au public un ou plusieurs
+hippodromes, au prorata des enjeux des courses hippiques effectivement
+organisées par lesdits hippodromes, et dans la limite de 700 000 EUR par
+commune. Les limites mentionnées dans la phrase précédente sont indexées, chaque
+année, sur la prévision de l'indice des prix à la consommation hors tabac
+retenue dans le projet de loi de finances de l'année.

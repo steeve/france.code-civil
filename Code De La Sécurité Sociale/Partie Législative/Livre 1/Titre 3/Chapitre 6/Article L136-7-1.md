@@ -2,21 +2,14 @@ Article L136-7-1
 ----
 I. - Il est institué une contribution sur une fraction des sommes misées, en
 France métropolitaine et dans les départements d'outre-mer, sur les jeux
-exploités par La Française des jeux pour les tirages, les événements sportifs et
-les émissions. Cette fraction est égale à 23 % des sommes misées.
+exploités par La Française des jeux pour les tirages et les émissions. Cette
+fraction est égale à 25,5 % des sommes misées.
 
 Cette contribution est recouvrée et contrôlée selon les mêmes règles et sous les
 mêmes sûretés, privilèges et sanctions que le prélèvement prévu au I de
 l'article 48 de la loi de finances pour 1994 (n° 93-1352 du 30 décembre 1993).
 
-II. - Il est institué une contribution sur une fraction des sommes engagées en
-France au pari mutuel sur et hors hippodromes. Cette fraction est égale à 14 %
-des sommes engagées.
-
-Cette contribution est recouvrée et contrôlée selon les mêmes règles et sous les
-mêmes sûretés, privilèges et sanctions que le prélèvement institué par la loi du
-2 juin 1891 ayant pour objet de réglementer l'autorisation et le fonctionnement
-des courses de chevaux.
+II (supprimé)
 
 III. - Il est institué une contribution sur le produit brut de certains jeux
 réalisé dans les casinos régis par la loi du 15 juin 1907 relative aux casinos

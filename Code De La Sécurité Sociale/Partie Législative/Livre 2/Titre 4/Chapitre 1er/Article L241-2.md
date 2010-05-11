@@ -14,7 +14,10 @@ majorations pour enfants autres que les annuités supplémentaires ;
 3°) Le produit de la contribution additionnelle à la contribution sociale de
 solidarité à la charge des sociétés, prévue par l'article L. 245-13 ;
 
-4° Le produit de la contribution mentionnée à l'article L. 137-15.
+4°) Le produit de la contribution mentionnée à l'article L. 137-15 ;
+
+5°) Une fraction des prélèvements sur les jeux et paris prévus aux articles L.
+137-20, L. 137-21 et L. 137-22.
 
 Des cotisations forfaitaires peuvent être fixées par arrêté ministériel pour
 certaines catégories de travailleurs salariés ou assimilés.

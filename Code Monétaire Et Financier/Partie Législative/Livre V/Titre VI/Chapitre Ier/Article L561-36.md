@@ -88,11 +88,13 @@ conformément aux articles L. 321-18 et L. 321-22 du code de commerce.
 
 II.-Le contrôle des obligations prévues aux chapitres Ier et II du présent titre
 est exercé sur les personnes mentionnées aux 8°, 9° et 15° de l'article L. 561-2
-par des inspections conduites par l'autorité administrative compétente, selon
-des modalités définies par décret en Conseil d'Etat.
+par des inspections conduites par l'autorité administrative compétente telle que
+désignée par décret en Conseil d'Etat. Le contrôle des obligations prévues aux
+chapitres Ier et II du présent titre est exercé sur les personnes mentionnées au
+9° bis de l'article L. 561-2 par l'Autorité de régulation des jeux en ligne.
 
-Les inspections sont réalisées par des inspecteurs assermentés et spécialement
-habilités par l'autorité administrative.
+Les inspections sont réalisées par des inspecteurs spécialement habilités par
+l'autorité administrative.
 
 Les inspecteurs peuvent demander aux personnes contrôlées, sans que le secret
 professionnel ne puisse leur être opposé, communication de tout document quel
@@ -104,6 +106,36 @@ collectivités territoriales, des établissements publics, des organismes
 mentionnés à l'article L. 134-1 du code des juridictions financières et de tout
 autre organisme ou personne chargé d'une mission de service public toutes les
 informations nécessaires à l'accomplissement de leur mission.
+
+II bis.-L'autorité administrative chargée de l'inspection des personnes
+mentionnées au 15° de l'article L. 561-2 du présent code assure le contrôle du
+respect des obligations prévues au premier alinéa du même article, dans les
+conditions définies aux articles L. 450-1 à L. 450-3 et L. 450-8 du code de
+commerce.
+
+II ter.-L'autorité administrative chargée de l'inspection des personnes
+mentionnées au 9° de l'article L. 561-2 du présent code a accès, durant les
+heures d'activité professionnelle de ces personnes, aux locaux à usage
+professionnel, à l'exclusion des parties de ces locaux affectées au domicile
+privé, aux fins de recherche et de constatation des manquements aux règles
+applicables mentionnées au premier alinéa. Cette autorité peut recueillir sur
+place ou sur convocation des renseignements et justifications.
+
+Les auditions des personnes contrôlées, auxquelles les inspecteurs peuvent
+procéder, font l'objet de comptes rendus écrits.A l'issue des contrôles, les
+inspecteurs établissent un procès-verbal qui en énonce la nature, la date et le
+lieu. La liste des documents dont une copie a été délivrée lui est annexée. Le
+procès-verbal est signé par les inspecteurs ayant procédé au contrôle ainsi que
+par la personne contrôlée ou, s'il s'agit d'une personne morale, son
+représentant.
+
+La personne contrôlée peut faire valoir ses observations dans un délai de trente
+jours. Celles-ci sont jointes au dossier. En cas de refus de signer, mention en
+est faite au procès-verbal. Copie de celui-ci est remise à l'intéressé.
+
+Le procès-verbal ainsi que le ou les comptes rendus d'audition et les
+observations de la personne contrôlée sont transmis dans les meilleurs délais à
+la Commission nationale des sanctions.
 
 III.-Lorsque, par suite soit d'un grave défaut de vigilance, soit d'une carence
 dans l'organisation de ses procédures internes de contrôle, une personne

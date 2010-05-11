@@ -27,7 +27,11 @@ du code de la défense ;
 
 6° Les infractions prévues au code de la propriété intellectuelle ;
 
-7° Les infractions connexes aux infractions visées aux 1° à 6°.
+7° Les infractions prévues aux articles 56 et 57 de la loi n° 2010-476 du 12 mai
+2010 relative à l'ouverture à la concurrence et à la régulation du secteur des
+jeux d'argent et de hasard en ligne ;
+
+8° Les infractions connexes aux infractions visées aux 1° à 7°.
 
 Toutefois, sous réserve des dispositions du II, ils n'ont pas compétence en
 matière de trafic de stupéfiants.

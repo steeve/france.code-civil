@@ -7,8 +7,8 @@ I. - Le taux des contributions sociales est fixé :
 2° A 8,2 % pour les contributions sociales mentionnées aux articles L. 136-6 et
 L. 136-7 ;
 
-3° A 9,5 % pour la contribution sociale mentionnée à l'article L. 136-7-1, sous
-réserve des taux fixés au III du même article.
+3° A 6, 9 % pour la contribution sociale mentionnée au I de l'article L.
+136-7-1.
 
 II. - Par dérogation au I :
 
@@ -48,9 +48,8 @@ l'article L. 139-1 du présent code, pour la part correspondant à un taux :
 a) Sous réserve des dispositions du g, de 5,25 % pour les contributions
 mentionnées au 1° du 1 ;
 
-b) De 7,25 % pour les contributions mentionnées au 3° du I ;
-
-c) De 5,95 % pour les contributions mentionnées au 2° du I ;
+b) De 4, 85 % pour la contribution mentionnée au 3° du I ;c) De 5,95 % pour les
+contributions mentionnées au 2° du I ;
 
 d) De 3,95 % pour les revenus mentionnés au 1° du II ;
 
@@ -63,8 +62,17 @@ contribution au taux de 7,5 %.
 
 5° A la Caisse d'amortissement de la dette sociale instituée par l'ordonnance n°
 96-50 du 24 janvier 1996 relative au remboursement de la dette sociale, pour la
-part correspondant au taux de 0, 2 %.
+part correspondant au taux de 0,2 %, à l'exception de la contribution mentionnée
+au 3° du I .
 
-Le produit des contributions mentionnées au III de l'article L. 136-7-1 est
-réparti dans les mêmes proportions que les contributions visées aux I et II du
-même article.
+V. - Le produit de la contribution mentionnée au III de l'article L. 136-7-1 est
+ainsi réparti :
+
+1° A la Caisse nationale des allocations familiales, pour 18 % ;
+
+2° Au fonds de solidarité vieillesse, pour 14 % ;
+
+3° A la Caisse nationale de solidarité pour l'autonomie, pour 2 % ;
+
+4° Aux régimes obligatoires d'assurance maladie, dans les conditions fixées à
+l'article L. 139-1, pour 66 %.
