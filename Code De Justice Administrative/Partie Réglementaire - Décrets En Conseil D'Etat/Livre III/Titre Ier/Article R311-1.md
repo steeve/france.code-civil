@@ -28,6 +28,8 @@ suivantes, au titre de leur mission de contrôle ou de régulation :
 
 - l'Autorité de régulation des communications électroniques et des postes ;
 
+- l'Autorité de régulation des jeux en ligne ;
+
 - l'Autorité de régulation des transports ferroviaires ;
 
 - l'Autorité de sûreté nucléaire ;
