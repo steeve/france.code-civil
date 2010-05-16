@@ -1,3 +1,3 @@
 Article D745-5
 ----
-Les articles D. 524-1 et D. 524-2 sont applicables en Nouvelle-Calédonie.
+L'article D. 521-1 est applicable en Nouvelle-Calédonie.

@@ -1,3 +1,4 @@
 Article D741-4
 ----
-Les dispositions de l'article D. 131-28 sont applicables en Nouvelle-Calédonie.
+Les articles D. 131-25 et D. 133-1 à D. 133-7 sont applicables en
+Nouvelle-Calédonie.
