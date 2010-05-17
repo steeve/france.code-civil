@@ -15,6 +15,15 @@ L'élection s'effectue, pour l'ensemble des représentants des personnels, des
 liste à un tour avec représentation proportionnelle au plus fort reste,
 possibilité de listes incomplètes et sans panachage.
 
+L'élection a lieu soit par dépôt d'un bulletin de vote en papier dans une urne,
+soit par voie électronique sécurisée dans le respect de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés. Cette
+dernière modalité peut s'appliquer à condition que, dans l'établissement, soient
+mis à la disposition des électeurs des ordinateurs dans des lieux dédiés aux
+opérations électorales. Les électeurs empêchés de voter personnellement sont
+admis à voter par procuration lorsque le vote par voie électronique n'a pas été
+mis en place.
+
 Pour les élections des représentants des enseignants-chercheurs et des
 personnels assimilés au conseil d'administration de l'université, une liste de
 professeurs des universités et des personnels assimilés et une liste de maîtres
@@ -34,9 +43,6 @@ de la formation continue, chaque liste assure la représentation d'au moins deux
 des grands secteurs de formation enseignés dans l'université concernée. Pour
 chaque représentant, un suppléant est élu dans les mêmes conditions que le
 titulaire ; il ne siège qu'en l'absence de ce dernier.
-
-Les électeurs empêchés de voter personnellement sont admis à voter par
-procuration. Le vote par correspondance n'est pas autorisé.
 
 Nul ne peut être élu à plus d'un conseil d'administration d'université.
 
