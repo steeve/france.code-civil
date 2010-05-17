@@ -1,8 +1,7 @@
 Article D2223-125
 ----
 L'examen d'accès au diplôme national de thanatopracteur comprend des épreuves
-théoriques et des épreuves pratiques.
+théoriques et une évaluation de la formation pratique en entreprise.
 
-Peuvent seuls se présenter aux épreuves pratiques d'une session d'examen les
-candidats au diplôme ayant subi avec succès les épreuves théoriques organisées
-pour cette session ou la précédente.
+Peuvent seuls se présenter aux épreuves théoriques les candidats ayant achevé la
+totalité de la formation théorique telle que définie à l'article D. 2223-122.
