@@ -6,8 +6,8 @@ reclassement de l'intéressé ne peut être opéré dans l'entreprise ou dans le
 entreprises du groupe auquel l'entreprise appartient.
 
 Le reclassement du salarié s'effectue sur un emploi relevant de la même
-catégorie que celui qu'il occupe ou sur un emploi équivalent. A défaut, et sous
-réserve de l'accord exprès du salarié, le reclassement s'effectue sur un emploi
-d'une catégorie inférieure.
+catégorie que celui qu'il occupe ou sur un emploi équivalent assorti d'une
+rémunération équivalente. A défaut, et sous réserve de l'accord exprès du
+salarié, le reclassement s'effectue sur un emploi d'une catégorie inférieure.
 
 Les offres de reclassement proposées au salarié sont écrites et précises.
