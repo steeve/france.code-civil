@@ -29,7 +29,9 @@ transports internationaux par route (AETR) du 1er juillet 1970 ;
 d) L'article 22-2 du décret n° 90-200 du 5 mars 1990 modifié relatif à
 l'exercice de la profession de commissionnaire de transport ;
 
-e) Abrogé ;
+e) Le II de l'article 46 du décret n° 85-891 du 16 août 1985 relatif aux
+transports urbains de personnes et aux transports routiers non urbains de
+personnes.
 
 f) L'article 13 du décret n° 2010-389 du 19 avril 2010 relatif au cabotage dans
 les transports routiers et fluviaux ;
@@ -89,7 +91,7 @@ b) L' article 10 du décret n° 76-352 du 15 avril 1976 fixant les modalités
 d'application aux équidés de la loi du 28 décembre 1966 sur l'élevage ;
 
 c) L'article 15 du décret n° 80-791 du 1er octobre 1980 pris pour l'application
-de l'article 276 du code rural ;
+de l'article 276 du code rural et de la pêche maritime ;
 
 d) L'article 6 du décret n° 87-223 du 26 mars 1987 relatif à l'utilisation des
 animaux dans les spectacles publics et les jeux ;
@@ -101,13 +103,14 @@ f) L'article 16 du décret n° 91-823 du 28 août 1991 relatif à l'identificati
 des chiens, des chats et autres carnivores domestiques et à la tenue des locaux
 où se pratiquent de façon habituelle l'élevage en vue de la vente, la
 commercialisation, le toilettage, le transit ou la garde de ces animaux pris
-pour l'application des articles 276, 276-2 et 276-3 du code rural ;
+pour l'application des articles 276, 276-2 et 276-3 du code rural et de la pêche
+maritime ;
 
-g) Les articles R. 215-6 et R. 215-7 du code rural ;
+g) Les articles R. 215-6 et R. 215-7 du code rural et de la pêche maritime ;
 
-h) L'article R. 215-8 du code rural ;
+h) L'article R. 215-8 du code rural et de la pêche maritime ;
 
-i) L'article R. 215-2 du code rural ;
+i) L'article R. 215-2 du code rural et de la pêche maritime ;
 
 5° Contraventions réprimées par le code des postes et des communications
 électroniques prévues par les articles R. 10-1, R. 10-2, R. 10-4 et R. 10-9. 6°
@@ -119,4 +122,4 @@ matière d'offre de boissons alcooliques prévues et réprimées par les article
 Contraventions en matière de collecte et de destruction de médicaments à usage
 humain non utilisés réprimées par les articles R. 4212-1 et R. 4212-2 du code de
 la santé publique. 6° bis (1) Contraventions réprimées par les 1° et 3° de
-l'article R. 254-20 du code rural.
+l'article R. 254-20 du code rural et de la pêche maritime.
