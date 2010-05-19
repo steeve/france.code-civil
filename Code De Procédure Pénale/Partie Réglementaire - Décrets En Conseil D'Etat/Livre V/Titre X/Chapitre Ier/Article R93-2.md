@@ -1,0 +1,7 @@
+Article R93-2
+----
+La rémunération et les indemnités des experts désignés dans le cadre de la
+procédure prévue à l'article L. 3211-12 du code de la santé publique, qui font
+partie des dépenses mentionnées au 2° de l'article R. 93 du présent code, sont
+liquidées selon les conditions prévues au 9° de l'article R. 117. Le juge peut
+laisser la rémunération et les indemnités de l'expert à la charge de l'Etat.
