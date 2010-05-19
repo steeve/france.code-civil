@@ -8,4 +8,4 @@ celui du président du Conseil supérieur des chambres régionales des comptes.
 
 La participation d'un membre du corps des chambres régionales des comptes
 délégué dans les fonctions du ministère public doit recueillir l'agrément
-préalable du ministre chargé des finances.
+préalable du procureur général près la Cour des comptes.

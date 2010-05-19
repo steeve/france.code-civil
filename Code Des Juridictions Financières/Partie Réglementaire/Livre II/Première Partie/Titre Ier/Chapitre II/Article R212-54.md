@@ -3,9 +3,9 @@ Article R212-54
 Le secrétariat permanent du Conseil supérieur des chambres régionales des
 comptes est assuré par un membre du corps des chambres régionales des comptes
 n'appartenant pas à ce conseil, affecté à ces fonctions avec son accord, par
-arrêté du ministre chargé des finances, sur proposition du conseil supérieur. La
-durée de cette affectation ne peut excéder cinq ans. Il ne peut y être mis fin
-que sur proposition du conseil supérieur.
+arrêté du premier président de la Cour des comptes, sur proposition du conseil
+supérieur. La durée de cette affectation ne peut excéder cinq ans. Il ne peut y
+être mis fin que sur proposition du conseil supérieur.
 
 Le conseil supérieur établit son règlement intérieur, qui détermine notamment
 les modalités de fixation de l'ordre du jour, l'organisation de ses travaux
