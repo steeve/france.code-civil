@@ -1,6 +1,12 @@
 Article R6351-9
 ----
-Lorsque les prestations réalisées ne correspondent pas aux actions de formation
-mentionnées à l'article L. 6313-1 ou lorsque le prestataire ne remplit pas les
-conditions fixées aux articles L. 6351-1 et suivants, le préfet de région annule
-l'enregistrement de la déclaration.
+Pour l'appréciation des conditions d'annulation de l'enregistrement de la
+déclaration d'activité mentionnées aux 1° et 2° de l'article L. 6351-4, les
+prestations examinées sont celles qui correspondent aux recettes figurant dans
+le dernier bilan pédagogique et financier adressé par le prestataire au préfet
+de région en application des articles L. 6352-11 et R. 6352-22 à R. 6352-24 et
+aux recettes perçues entre la date de la fin de ce bilan et la date du contrôle.
+
+Lorsque le prestataire vient de déclarer son activité et n'est donc pas tenu de
+dresser le bilan pédagogique et financier, l'examen porte sur les prestations
+réalisées jusqu'à la date du contrôle.
