@@ -27,3 +27,19 @@ prestations éligibles à l'aide réellement exécutées.
 
 IV.-Les travaux doivent être exécutés dans un délai maximal de deux ans à
 compter de la notification de la décision d'attribution de l'aide.
+
+V. - A l'achèvement de l'ensemble des travaux dûment attesté par leurs soins,
+les riverains peuvent recevoir l'aide financière avant de régler les sommes dues
+aux entreprises, sous réserve de fournir à l'exploitant les factures
+correspondantes non acquittées et, le cas échéant, toute précision utile
+demandée par l'exploitant. Le paiement des entreprises est alors effectué par
+les riverains dans le délai maximum d'un mois suivant la perception de l'aide.
+Les riverains communiquent la justification du paiement à l'exploitant.
+
+VI. - Dès la notification de la décision d'attribution de l'aide, les riverains
+ayant droit à un taux d'aide supérieur à 80 % peuvent recevoir, sur leur
+demande, en vue de verser des acomptes aux entreprises, la part de l'aide qui
+excède ces 80 %.
+
+VII. - Dans tous les cas, l'exploitant de l'aérodrome peut vérifier, avant de
+verser l'aide, la conformité des travaux aux devis qui lui ont été soumis.
