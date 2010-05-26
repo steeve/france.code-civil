@@ -4,7 +4,8 @@ Le baccalauréat technologique comprend les séries suivantes :
 
 1° Série ST2S : sciences et technologies de la santé et du social ;
 
-2° Série STI : sciences et technologies industrielles ;
+2° Série STI2D : sciences et technologies de l'industrie et du développement
+durable ;
 
 3° Série STL : sciences et technologies de laboratoire ;
 
@@ -15,23 +16,15 @@ Le baccalauréat technologique comprend les séries suivantes :
 
 6° Série " hôtellerie " ;
 
-7° Série " techniques de la musique et de la danse ".
+7° Série " techniques de la musique et de la danse " ;
 
-Chacune de ces séries peut comprendre différentes spécialités et options. Celles
-relatives aux séries ST2S, STI, STL, STG et " hôtellerie " sont fixées par
-arrêté du ministre chargé de l'éducation.
+8° Série STD2A : sciences et technologies du design et des arts appliqués.
 
-Les dispositions des cinquième et neuvième alinéas du présent article, relatives
-à la série STG, entrent en application à compter de la session 2007 de l'examen
-et prennent effet pour les épreuves anticipées de cette session, organisées en
-2006. Elles remplacent, à compter de cette session et de ces épreuves
-anticipées, les dispositions relatives à la série STT : sciences et technologies
-tertiaires.
+Chacune de ces séries peut comprendre différentes spécialités. Celles relatives
+aux séries ST2S, STI2D, STL, STG, hôtellerie et STD2A sont fixées par arrêté du
+ministre chargé de l'éducation.
 
-Les dispositions du sixième alinéa (5°) du présent article, relatives à la série
-STAV, entrent en application à compter de la session 2008 de l'examen et
-prennent effet pour les épreuves anticipées de cette session, organisées en
-2007. Elles remplacent, à compter de cette session et de ces épreuves
-anticipées, les dispositions relatives aux séries STAE : sciences et
-technologies de l'agronomie et de l'environnement et STPA : sciences et
-technologies du produit agroalimentaire.
+Les dispositions des troisième, neuvième et dixième alinéas du présent article,
+relatives aux séries STI2D et STD2A, entrent en application à compter de la
+session 2013 de l'examen et prennent effet pour les épreuves anticipées de cette
+session, organisées en 2012.
