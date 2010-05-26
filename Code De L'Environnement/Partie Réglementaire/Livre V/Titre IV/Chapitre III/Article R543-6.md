@@ -13,3 +13,17 @@ obligations du titulaire.
 
 Les zones sont définies par arrêté conjoint des ministres chargés de l'économie,
 du budget, de l'industrie et de l'environnement.
+
+Par dérogation au régime d'agrément prévu au présent article, tout prestataire
+légalement établi et autorisé à réaliser des opérations similaires dans un autre
+Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur
+l'Espace économique européen peut exercer en France cette activité, lorsque
+l'autorisation dont il bénéficie dans cet Etat présente des garanties
+équivalentes à celles requises par la réglementation nationale et sous réserve
+d'avoir préalablement déclaré son activité auprès de l'autorité administrative
+compétente.
+
+En cas de transferts transfrontaliers d'huiles usagées, le prestataire visé à
+l'alinéa précédent doit se conformer aux dispositions du règlement (CE) n°
+1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les
+transferts de déchets.
