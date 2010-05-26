@@ -468,7 +468,7 @@ Cour d'appel de Versailles Eure-et-Loir
 
 Chartres
 
-Dreux.
+Dreux, Nogent-le-Rotrou.
 
 
 Hauts-de-Seine
