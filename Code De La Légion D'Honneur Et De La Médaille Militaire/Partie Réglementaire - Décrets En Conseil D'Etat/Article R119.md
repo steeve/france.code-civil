@@ -9,8 +9,9 @@ fondamentaux de l'ordre.
 
 Le conseil de l'ordre, réuni par le grand chancelier, donne son avis :
 
-1° Sur les sanctions disciplinaires à prendre à l'encontre des membres de
-l'ordre ;
+1° Sur les sanctions disciplinaires à prendre à l'encontre de membres de l'ordre
+et sur le retrait des distinctions de la Légion d'honneur accordées à des
+étrangers.
 
 2° Sur toutes les questions pour lesquelles le grand chancelier juge utile de le
 consulter.

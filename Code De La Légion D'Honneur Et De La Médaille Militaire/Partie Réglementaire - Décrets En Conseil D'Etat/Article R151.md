@@ -5,4 +5,4 @@ la médaille militaire.
 
 Pour l'application du premier alinéa de l'article R. 80, l'institution au profit
 de laquelle les traitements attachés à la médaille militaire peuvent être
-abandonnés est la société nationale Les Médaillés militaires.
+abandonnés est la Société nationale d'entraide de la médaille militaire.

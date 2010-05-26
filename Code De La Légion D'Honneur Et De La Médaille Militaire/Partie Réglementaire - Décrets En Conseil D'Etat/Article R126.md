@@ -5,9 +5,10 @@ surintendante, en résidence à Saint-Denis, qui assure l'unité de l'éducation
 de l'enseignement donnés aux élèves et celle de l'administration des
 établissements.
 
-Elle dirige personnellement la maison de Saint-Denis et a pour auxiliaire
-l'intendante générale des Loges, qui lui est subordonnée, reçoit ses
-instructions et lui rend compte.
+Elle dirige personnellement la maison de Saint-Denis.
+
+La maison d'éducation des Loges est dirigée, sous l'autorité de la
+surintendante, par une intendante générale.
 
 La surintendante relève de l'autorité du secrétaire général de la grande
 chancellerie et directement de celle du grand chancelier pour les matières que

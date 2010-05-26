@@ -8,4 +8,4 @@ La liste des élèves admises ;
 
 Le programme des études et les règles de scolarité ;
 
-Le régime intérieur.
+Le règlement intérieur.
