@@ -1,14 +1,22 @@
 Article R162-54-1
 ----
-Les conventions, l'accord-cadre et les accords conventionnels
-interprofessionnels, leurs annexes et avenants, mentionnés à l'article L.
-162-15, sont transmis, dès leur signature, par l'Union nationale des caisses
-d'assurance maladie à toutes les organisations syndicales représentatives des
-professionnels de santé concernés qui disposent d'un délai d'un mois pour faire
-connaître, par courrier recommandé avec demande d'avis de réception adressé à
-l'Union nationale des caisses d'assurance maladie, leur éventuelle opposition.
-Si cette opposition remplit les conditions fixées à l'article L. 162-15, l'Union
-nationale des caisses d'assurance maladie en informe l'ensemble des
-organisations syndicales représentatives des professionnels de santé concernés
-et, lorsqu'il s'agit d'une convention mentionnée à l'article L. 162-14-1, saisit
-l'arbitre désigné conformément aux dispositions de l'article R. 162-54-5.
+La représentativité des organisations syndicales habilitées à participer aux
+négociations conventionnelles est déterminée d'après les critères cumulatifs
+suivants :
+
+1° L'indépendance, notamment financière. Ces organisations sont soumises aux
+obligations du code du travail relatives à la certification et à la publicité
+des comptes des organisations syndicales et professionnelles ;
+
+2° Les effectifs d'adhérents à jour de leur cotisation ;
+
+3° Une ancienneté minimale de deux ans à compter de la date de dépôt légal des
+statuts. Toutefois un syndicat constitué à partir de la fusion de plusieurs
+syndicats dont l'un d'entre eux remplit cette condition d'ancienneté est réputé
+la remplir ;
+
+4° L'audience, établie en fonction des résultats aux dernières élections aux
+unions régionales des professionnels de santé lorsque les membres qui les
+composent sont élus conformément à l'article L. 4031-2 du code de la santé
+publique, ou appréciée en fonction de l'activité et de l'expérience lorsque les
+membres qui les composent ne sont pas élus.

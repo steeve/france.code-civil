@@ -1,10 +1,15 @@
 Article R162-54-3
 ----
-L'Union nationale des caisses d'assurance maladie peut, sauf opposition d'une
-organisation syndicale représentative des professionnels de santé concernés,
-inviter l'Union nationale des organismes d'assurance maladie complémentaire à
-participer à la négociation et à la signature des projets d'accord, contrat ou
-convention mentionnés à l'article L. 182-2, ainsi que de leurs avenants et
-annexes, lorsque ces projets comportent des dispositions intéressant directement
-les organismes d'assurance maladie complémentaire ou ayant un impact sur les
-dépenses qu'ils prennent en charge.
+Pour les centres de santé mentionnés à l'article L. 6323-1 du code de la santé
+publique, la représentativité des organisations habilitées à participer à la
+négociation de l'accord national prévu à l'article L. 162-32-1 du code de la
+sécurité sociale est déterminée d'après les critères cumulatifs suivants :
+
+1° L'indépendance, notamment financière ;
+
+2° Le nombre de centres de santé qu'elles regroupent ou qu'elles gèrent ;
+
+3° Une ancienneté minimale de deux ans à compter de la date de dépôt légal des
+statuts ;
+
+4° L'audience appréciée en fonction de l'activité et de l'expérience.

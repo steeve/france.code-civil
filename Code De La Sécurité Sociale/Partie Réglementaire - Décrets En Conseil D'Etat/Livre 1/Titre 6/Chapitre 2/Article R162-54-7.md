@@ -1,19 +1,16 @@
 Article R162-54-7
 ----
-Les caisses primaires notifient par courrier chaque accord-cadre, accord
-conventionnel interprofessionnel, convention, règlement arbitral, leurs avenants
-et annexes et les accords de bon usage des soins, dans un délai d'un mois
-suivant leur publication, aux professionnels de santé concernés.
-
-Les professionnels de santé non adhérents à l'un des accords, conventions ou
-règlement, qu'ils s'installent pour la première fois en exercice libéral ou
-qu'ils aient déjà exercé en libéral, qui souhaitent devenir adhérents en font la
-demande par courrier adressé à la caisse primaire d'assurance maladie dans le
-ressort de laquelle ils exercent leur activité. Cette adhésion est réputée
-acquise, sous réserve des dispositions de l'alinéa suivant, en cas de changement
-d'accord, de convention ou de règlement arbitral.
-
-Les professionnels de santé qui souhaitent être placés en dehors d'un de ces
-accords, conventions ou règlement le font connaître par courrier adressé à la
-caisse primaire d'assurance maladie dans le ressort de laquelle ils exercent
-leur activité.
+A la date d'ouverture de la négociation d'une nouvelle convention, fixée par
+l'Union nationale des caisses d'assurance maladie, la procédure de désignation
+d'un arbitre est engagée conformément aux dispositions de l'article L. 162-14-2.
+L'Union nationale des caisses d'assurance maladie informe par courrier
+recommandé avec demande d'avis de réception les organisations syndicales
+représentatives des professionnels de santé et les ministres chargés de la santé
+et de la sécurité sociale du nom de l'arbitre désigné. En cas d'opposition à
+cette désignation, manifestée dans un délai de trois jours à compter de la
+réception de ce courrier et répondant aux conditions fixées à l'article L.
+162-15 ou à défaut de désignation d'un arbitre dans un délai de dix jours
+courant de la date d'ouverture de la négociation, le président du Haut Conseil
+pour l'avenir de l'assurance maladie désigne l'arbitre dans un délai de huit
+jours et notifie le nom de l'arbitre aux partenaires conventionnels ainsi qu'aux
+ministres chargés de la santé et de la sécurité sociale.
