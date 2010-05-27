@@ -25,12 +25,14 @@ est reporté à la session de recrutement de l'année suivante.A cette date, ceu
 qui ne peuvent justifier d'un de ces diplômes perdent le bénéfice de l'admission
 au concours.
 
-II. ― Les candidats admis qui remplissent les conditions de diplôme bénéficient
-d'un contrat provisoire et accomplissent un stage d'une durée d'un an, avec
-l'accord du chef de l'établissement dans lequel ils sont affectés. Au cours de
-leur stage, les professeurs stagiaires bénéficient d'une formation dispensée,
-dans le cadre des conventions prévues à l'alinéa suivant, sous la forme
-d'actions organisées dans un établissement d'enseignement supérieur et d'un
+II. ― Les candidats admis qui remplissent les conditions de diplôme et
+justifient des certificats exigés des candidats des concours correspondants de
+l'enseignement public bénéficient d'un contrat ou d'un agrément provisoire et
+effectuent un stage d'une durée d'un an, avec l'accord du chef de
+l'établissement dans lequel ils sont affectés ou recrutés. Au cours de leur
+stage, les professeurs stagiaires bénéficient d'une formation dispensée, dans le
+cadre des conventions prévues à l'alinéa suivant, sous la forme d'actions
+organisées dans un établissement d'enseignement supérieur et d'un
 accompagnement. Les modalités du stage et les conditions de son évaluation par
 un jury sont arrêtées par le ministre chargé de l'éducation.
 
@@ -40,11 +42,13 @@ intéressés et les représentants des établissements d'enseignement privés ay
 passé un contrat avec l'Etat, dans le respect du caractère propre de ces
 établissements.
 
-III. ― A l'issue du stage, les candidats se voient délivrer, sur proposition
-d'un jury, un contrat ou un agrément définitif par l'inspecteur d'académie,
-directeur des services départementaux de l'éducation nationale du département
-dans le ressort duquel le stage est réalisé. La délivrance du contrat ou de
-l'agrément définitif confère le certificat d'aptitude au professorat des écoles.
+III. ― A l'issue du stage, les candidats admis qui justifient des certificats
+exigés des candidats des concours correspondants de l'enseignement public se
+voient délivrer, sur proposition d'un jury, un contrat ou un agrément définitif
+par l'inspecteur d'académie, directeur des services départementaux de
+l'éducation nationale du département dans le ressort duquel le stage est
+réalisé. La délivrance du contrat ou de l'agrément définitif confère le
+certificat d'aptitude au professorat des écoles.
 
 Les candidats qui n'obtiennent pas le certificat d'aptitude peuvent être
 autorisés, sur proposition du jury et par décision de l'inspecteur d'académie,

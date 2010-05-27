@@ -1,9 +1,9 @@
 Article R914-32
 ----
-Les candidats admis qui remplissent la condition de diplôme exigée dans
-l'enseignement public pour la nomination des lauréats du concours externe
+Les candidats admis qui remplissent les conditions de diplômes et de certificats
+exigées des candidats des concours correspondants de l'enseignement public
 accomplissent un stage d'une durée d'un an, avec l'accord du chef de
-l'établissement dans lequel ils sont affectés. Au cours de leur stage, ils
+l'établissement dans lequel ils sont nommés. Au cours de leur stage, ils
 bénéficient d'une formation dispensée, dans le cadre des conventions mentionnées
 à l'alinéa suivant, sous la forme d'actions organisées dans un établissement
 d'enseignement supérieur, d'un tutorat, ainsi que le cas échéant d'autres types
