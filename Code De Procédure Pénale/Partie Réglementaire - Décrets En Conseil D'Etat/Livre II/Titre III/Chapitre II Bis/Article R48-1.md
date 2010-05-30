@@ -79,7 +79,11 @@ droit de chasse ;
 g) Le titre Ier du livre II et le titre III du livre IV du code de
 l'environnement (partie réglementaire), relatifs au droit de l'eau et des
 milieux aquatiques et de la pêche en eau douce et de la gestion des ressources
-piscicoles.
+piscicoles ;
+
+h) Les articles R. 541-78 (4°), R. 541-79 et R. 541-83 du code de
+l'environnement relatifs aux documents nécessaires aux contrôles des circuits de
+traitement des déchets.
 
 4° Contraventions en matière de protection ou de contrôle des animaux
 domestiques et des animaux sauvages, apprivoisés ou tenus en captivité réprimées
