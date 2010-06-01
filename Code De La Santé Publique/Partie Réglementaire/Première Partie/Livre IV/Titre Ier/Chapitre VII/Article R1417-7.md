@@ -22,7 +22,8 @@ d'immeubles, baux et locations les concernant ;
 seuil qu'il détermine ou comportant des engagements d'une durée supérieure à
 celle qu'il fixe ;
 
-7° Les subventions éventuellement attribuées par l'institut ;
+7° Les subventions éventuellement attribuées par l'institut d'un montant
+supérieur à un seuil qu'il détermine ;
 
 8° Les actions en justice et les transactions ;
 
