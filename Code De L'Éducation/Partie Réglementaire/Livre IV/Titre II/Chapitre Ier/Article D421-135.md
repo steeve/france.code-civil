@@ -10,8 +10,7 @@ leur scolarité.
 
 En fonction des accords conclus avec les pays partenaires, les enseignements
 spécifiques dispensés dans les sections internationales sont pris en compte pour
-le baccalauréat général soit sous la forme d'une option internationale, soit
-sous la forme d'un baccalauréat binational.
+le baccalauréat général sous la forme d'une option internationale.
 
 Pour l'option internationale du baccalauréat, ces enseignements spécifiques
 peuvent être pris en compte dans le cadre de modalités dérogatoires prévues au
@@ -19,6 +18,3 @@ dernier alinéa de l'article D. 334-6 et aux articles D. 334-8, D. 334-10, D.
 334-14 et D. 334-19, précisées par arrêté du ministre. Les épreuves du
 baccalauréat option internationale sont fixées par arrêté du ministre chargé de
 l'éducation.
-
-Les épreuves du baccalauréat binational sont arrêtées conformément aux
-dispositions des articles D. 334-24 et D. 334-25 du code.
