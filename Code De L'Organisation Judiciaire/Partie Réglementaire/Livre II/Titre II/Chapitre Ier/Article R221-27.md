@@ -26,4 +26,9 @@ primaires d'assurance maladie, des caisses générales de sécurité sociale et 
 caisses d'allocations familiales ;
 
 8° Des représentants des assujettis aux assemblées générales des caisses de
-mutualité sociale agricole.
+mutualité sociale agricole ;
+
+9° Des représentants des professionnels de la santé exerçant à titre libéral
+sous le régime des conventions nationales mentionnées au titre VI du livre Ier
+du code de la sécurité sociale, dans les unions régionales des professionnels de
+santé.
