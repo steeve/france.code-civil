@@ -19,6 +19,9 @@ b) Compromettent gravement les principes énoncés aux articles L. 110 et L. 121
 c) Font apparaître des incompatibilités manifestes avec l'utilisation ou
 l'affectation des sols des communes voisines ;
 
+c bis Sont manifestement contraires au programme d'action visé à l'article L.
+141-7 ;
+
 d) Sont de nature à compromettre la réalisation d'une directive territoriale
 d'aménagement, d'un programme local de l'habitat, d'un schéma de cohérence
 territoriale, d'un schéma de secteur ou d'un schéma de mise en valeur de la mer

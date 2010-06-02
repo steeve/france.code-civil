@@ -22,5 +22,5 @@ périmètre provisoire, cet arrêté devient caduc.
 
 Par dérogation à l'article L. 212-2, la date de publication de l'acte délimitant
 le périmètre provisoire de zone d'aménagement différé se substitue à celle de
-l'acte créant la zone d'aménagement différé pour le calcul du délai de quatorze
-ans pendant lequel le droit de préemption peut être exercé.
+l'acte créant la zone d'aménagement différé pour le calcul du délai de six ans
+renouvelable pendant lequel le droit de préemption peut être exercé.
