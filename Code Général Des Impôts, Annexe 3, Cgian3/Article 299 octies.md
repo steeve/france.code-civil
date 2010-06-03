@@ -11,10 +11,11 @@ réduction d'impôt de solidarité sur la fortune prévue au III de l'article 88
 V bis du code général des impôts.
 
 2. La société de gestion du fonds ou le dépositaire des actifs du fonds délivre,
-avant la date limite de dépôt de la déclaration d'impôt de solidarité sur la
-fortune suivant la souscription des parts, aux souscripteurs qui entendent
-bénéficier de la réduction d'impôt de solidarité sur la fortune prévue au III de
-l'article 885-0 V bis du code précité, un état individuel qui mentionne :
+au plus tard dans les trois mois suivant la date limite de dépôt de la
+déclaration d'impôt de solidarité sur la fortune suivant la souscription des
+parts, aux souscripteurs qui entendent bénéficier de la réduction d'impôt de
+solidarité sur la fortune prévue au III de l'article 885-0 V bis du code
+précité, un état individuel qui mentionne :
 
 a. L'objet pour lequel il est établi : application du III de l'article 885-0 V
 bis du code précité ;
@@ -80,5 +81,6 @@ la date et le montant total de la souscription réalisée.
 
 2. Pour bénéficier de la réduction d'impôt prévue au III de l'article 885-0 V
 bis du code précité, le contribuable joint à sa déclaration d'impôt de
-solidarité sur la fortune l'état individuel qui lui est remis conformément au 2
-du I ainsi qu'une copie de l'engagement de conservation mentionné au 1.
+solidarité sur la fortune, ou fournit dans les trois mois suivant la date limite
+de dépôt de ladite déclaration, l'état individuel qui lui est remis conformément
+au 2 du I ainsi qu'une copie de l'engagement de conservation mentionné au 1.
