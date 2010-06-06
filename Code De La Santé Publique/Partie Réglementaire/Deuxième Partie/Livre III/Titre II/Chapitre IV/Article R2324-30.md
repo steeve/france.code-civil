@@ -8,11 +8,12 @@ l'établissement ou du service, et notamment :
 du responsable technique ;
 
 2° Les modalités permettant d'assurer, en toutes circonstances, la continuité de
-la fonction de direction ;
+la fonction de direction, dans les conditions fixées à l'article R. 2324-36-1 de
+la présente section ;
 
 3° Les modalités d'admission des enfants ;
 
-4° Les horaires et les conditions de départ des enfants ;
+4° Les horaires et les conditions d'arrivée et de départ des enfants ;
 
 5° Le mode de calcul des tarifs ;
 

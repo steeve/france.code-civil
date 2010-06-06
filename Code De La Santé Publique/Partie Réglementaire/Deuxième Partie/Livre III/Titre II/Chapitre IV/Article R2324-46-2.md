@@ -1,7 +1,7 @@
 Article R2324-46-2
 ----
-Les dérogations prévues aux articles R. 2324-46, R. 2324-46-1 et au deuxième
-alinéa de l'article R. 2324-47 sont décidées :
+Les dérogations prévues aux articles R. 2324-46, R. 2324-46-1 et aux quatrième
+et cinquième alinéas de l'article R. 2324-47-1 sont décidées :
 
 1° Pour les établissements et services gérés par une personne de droit privé,
 par le président du conseil général, après avis du médecin responsable du

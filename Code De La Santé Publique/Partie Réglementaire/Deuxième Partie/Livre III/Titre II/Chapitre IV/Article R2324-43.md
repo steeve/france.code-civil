@@ -1,6 +1,6 @@
 Article R2324-43
 ----
-L'effectif du personnel placé auprès des enfants présents est d'un professionnel
+L'effectif du personnel encadrant directement les enfants est d'un professionnel
 pour cinq enfants qui ne marchent pas, et d'un professionnel pour huit enfants
 qui marchent.
 
@@ -30,7 +30,8 @@ il dispose, ainsi que la qualification et l'expérience des personnels chargés
 des enfants. Cette possibilité ne peut être cumulée avec celle ouverte par les
 dispositions de l'article R. 2324-37-1.
 
-Pour des raisons de sécurité, l'effectif du personnel présent auprès des enfants
-à tout moment dans la structure d'accueil ne doit pas être inférieur à deux,
-dont au moins un professionnel répondant aux conditions de qualification fixées
-par l'arrêté prévu à l'article R. 2324-42.
+Pour les établissements ou services d'une capacité supérieure à soixante places,
+la personne assurant les fonctions de directeur adjoint peut être partiellement
+prise en compte dans le calcul de l'effectif du personnel encadrant directement
+les enfants dans la limite d'une quotité de travail égale au quart de son temps
+de travail.

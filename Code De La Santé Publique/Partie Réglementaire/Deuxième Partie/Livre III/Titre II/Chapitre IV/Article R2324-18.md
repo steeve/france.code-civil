@@ -24,4 +24,12 @@ personnels ;
 règlement de fonctionnement prévu à l'article R. 2324-30, ou les projets de ces
 documents s'ils n'ont pas encore été adoptés ;
 
-6° Le plan des locaux avec la superficie et la destination des pièces.
+6° Le plan des locaux avec la superficie et la destination des pièces ;
+
+7° Copie de la décision d'autorisation d'ouverture au public prévue à l'article
+L. 111-8-3 du code de la construction et de l'habitat et des pièces justifiant
+l'autorisation prévue à l'article R. 111-19-29 du même code ;
+
+8° Le cas échéant, copie de la déclaration au préfet prévue pour les
+établissements de restauration collective à caractère social et des avis
+délivrés dans le cadre de cette procédure.
