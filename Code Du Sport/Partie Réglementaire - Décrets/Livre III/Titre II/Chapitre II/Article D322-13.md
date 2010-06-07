@@ -11,6 +11,6 @@ figurant sur une liste arrêtée par les ministres chargés de la sécurité civ
 et des sports.
 
 Toute personne désirant assurer la surveillance d'un tel établissement doit en
-faire la déclaration au préfet de son domicile. Le contenu de cette déclaration
-est fixé par arrêté conjoint des ministres chargés de la sécurité civile et des
-sports.
+faire la déclaration au préfet du lieu de sa principale activité. Le contenu de
+cette déclaration est fixé par arrêté conjoint des ministres chargés de la
+sécurité civile et des sports.
