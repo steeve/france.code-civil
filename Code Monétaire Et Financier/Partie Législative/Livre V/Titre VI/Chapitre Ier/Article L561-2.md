@@ -77,4 +77,6 @@ commissaires-priseurs judiciaires, dans les conditions prévues à l'article L.
 14° Les sociétés de ventes volontaires de meubles aux enchères publiques ;
 
 15° Les personnes exerçant l'activité de domiciliation mentionnée aux articles
-L. 123-11-2 et suivants du code de commerce.
+L. 123-11-2 et suivants du code de commerce ;
+
+16° Les agents sportifs.

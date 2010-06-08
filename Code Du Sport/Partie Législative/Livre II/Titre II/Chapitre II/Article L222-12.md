@@ -1,5 +1,8 @@
 Article L222-12
 ----
-Les infractions aux règles de rémunération mentionnées au premier alinéa de
-l'article L. 222-5 sont punies des peines prévues par les articles L. 7124-27 et
-L. 7124-34 du code du travail.
+Sont soumis aux incompatibilités et incapacités prévues aux articles L. 222-9 à
+L. 222-11 les préposés d'un agent sportif ou de la société qu'il a constituée
+pour l'exercice de son activité.
+
+Il est interdit d'être préposé de plus d'un agent sportif ou de plus d'une
+société au sein de laquelle est exercée l'activité d'agent sportif.

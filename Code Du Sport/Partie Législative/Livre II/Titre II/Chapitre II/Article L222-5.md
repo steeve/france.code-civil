@@ -1,19 +1,22 @@
 Article L222-5
 ----
-Les dispositions des articles L. 7124-9 à L. 7124-12 du code du travail
-s'appliquent aux rémunérations de toute nature perçues pour l'exercice d'une
-activité sportive par des enfants de seize ans et moins soumis à l'obligation
-scolaire.
+L'article L. 7124-9 du code du travail s'applique aux rémunérations de toute
+nature perçues pour l'exercice d'une activité sportive par des enfants de seize
+ans et moins soumis à l'obligation scolaire.
 
-La conclusion d'un contrat relatif à l'exercice d'une activité sportive par un
+La conclusion d'un contrat soit relatif à l'exercice d'une activité sportive par
+un mineur, soit dont la cause est l'exercice d'une activité sportive par un
 mineur ne donne lieu à aucune rémunération ou indemnité ni à l'octroi de quelque
-avantage que ce soit au bénéfice :
+avantage que ce soit au bénéfice d'une personne physique ou morale mettant en
+rapport les parties intéressées à la conclusion d'un de ces contrats ou d'une
+personne physique ou morale agissant au nom et pour le compte du mineur.
 
-1° D'une personne exerçant l'activité définie au premier alinéa de l'article L.
-222-6 ;
+Les conventions écrites en exécution desquelles une personne physique ou morale
+met en rapport les parties intéressées à la conclusion d'un de ces contrats ou
+agit au nom et pour le compte du mineur mentionnent l'interdiction prévue au
+deuxième alinéa. La personne physique ou morale partie à une telle convention la
+transmet à la fédération délégataire compétente. Cette fédération édicte
+également les règles relatives à la communication des contrats relatifs à
+l'exercice d'une activité sportive par un mineur.
 
-2° D'une association sportive ou d'une société sportive ;
-
-3° Ou de toute personne agissant au nom et pour le compte du mineur.
-
-Toute convention contraire aux dispositions du présent article est nulle.
+Toute convention contraire au présent article est nulle.

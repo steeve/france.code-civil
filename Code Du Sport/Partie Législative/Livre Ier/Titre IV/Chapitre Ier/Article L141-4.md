@@ -1,9 +1,9 @@
 Article L141-4
 ----
 Le Comité national olympique et sportif français est chargé d'une mission de
-conciliation dans les conflits opposant les licenciés, les associations et
-sociétés sportives et les fédérations sportives agréées, à l'exception des
-conflits mettant en cause des faits de dopage.
+conciliation dans les conflits opposant les licenciés, les agents sportifs, les
+associations et sociétés sportives et les fédérations sportives agréées, à
+l'exception des conflits mettant en cause des faits de dopage.
 
 Il constitue une conférence des conciliateurs dont il nomme les membres.
 
