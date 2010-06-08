@@ -1,17 +1,20 @@
 Article 111 H ter
 ----
-I. - Pour l'application des articles 614 et 614 A du code général des impôts, la
+I.-Pour l'application des articles 614 et 614 A du code général des impôts, la
 validation des documents d'accompagnement mentionnés à l'article 302 M du même
 code est assurée avant l'expédition des produits selon le cas :
 
 1° Au moyen du visa du service des douanes et droits indirects ;
 
 2° Au moyen de la marque fiscale apposée sur les documents susmentionnés,
-numérotés dans une série séquentielle continue, dits "documents prévalidés" ;
+numérotés dans une série séquentielle continue, dits " documents prévalidés " ;
 
 3° Sur délégation de l'administration des douanes et droits indirects, au moyen
 d'un matériel ou logiciel de validation informatique sécurisé, d'une machine à
-timbrer ou de tout autre matériel mécanique.
+timbrer ou de tout autre matériel mécanique ;
+
+4° Au moyen du service de suivi informatique des mouvements de marchandises
+soumises à accise mentionné au III de l'article 302 M du code précité.
 
 La validation des documents d'accompagnement mentionnés au I de l'article 302 M
 du code précité est assurée, à la réception des produits, au moyen du visa du
@@ -25,7 +28,7 @@ régime de la suspension des droits lors de leur prise en charge dans un entrep�
 fiscal suspensif des droits d'accises, dans les conditions déterminées par
 l'administration des douanes et droits indirects.
 
-II. - Le directeur régional des douanes et droits indirects territorialement
+II.-Le directeur régional des douanes et droits indirects territorialement
 compétent peut attribuer à une personne des documents prévalidés mentionnés au
 2° du I, ou l'autoriser à valider les documents mentionnés à l'article 302 M du
 code général des impôts au moyen des différents matériels de validation
@@ -42,7 +45,7 @@ matériel ou logiciel de validation informatique sécurisé, d'une machine à
 timbrer ou de tout autre matériel mécanique sont fixées par arrêté du ministre
 chargé des douanes.
 
-III. - Le directeur régional des douanes et droits indirects territorialement
+III.-Le directeur régional des douanes et droits indirects territorialement
 compétent peut autoriser des groupements d'entrepositaires agréés, des syndicats
 et des organismes professionnels représentant des entrepositaires agréés :
 
@@ -61,7 +64,7 @@ fiscale, fournir un cautionnement pour l'utilisation des documents
 d'accompagnement concernés et présenter une liste des entrepositaires agréés
 bénéficiaires.
 
-IV. - Le directeur régional des douanes et droits indirects territorialement
+IV.-Le directeur régional des douanes et droits indirects territorialement
 compétent peut autoriser les entrepositaires agréés, selon le cas, à faire
 valider les documents mentionnés à l'article 302 M du code général des impôts ou
 à se faire remettre ces documents prévalidés par un groupement d'entrepositaires
@@ -70,7 +73,7 @@ entrepositaires agréés, si ces entrepositaires agréés justifient d'une bonne
 moralité fiscale et fournissent un cautionnement pour l'utilisation des
 documents d'accompagnement concernés.
 
-V. - Les entrepositaires agréés, les groupements d'entrepositaires agréés, les
+V.-Les entrepositaires agréés, les groupements d'entrepositaires agréés, les
 syndicats et organismes professionnels représentant les entrepositaires agréés
 autorisés à valider les documents mentionnés à l'article 302 M du code général
 des impôts au moyen des différents matériels de validation mentionnés au 3° du
@@ -93,7 +96,7 @@ agréé autorisé, précisant selon le cas les numéros d'empreinte, les numéro
 les catégories de documents prévalidés mentionnés à l'article 302 M dudit code
 remis par leurs soins au cours du mois précédent.
 
-VI. - Les entrepositaires agréés auxquels ne sont pas attribués de documents
+VI.-Les entrepositaires agréés auxquels ne sont pas attribués de documents
 prévalidés mentionnés à l'article 302 M du code général des impôts ou auxquels
 n'est pas déléguée la possibilité de valider ces documents d'accompagnement au
 moyen d'un des matériels de validation mentionnés au 3° du I informent
@@ -120,22 +123,16 @@ document mentionné au II de l'article 302 M, pour chaque réception effectuée
 sous le régime des droits acquittés, de l'exemption ou de l'exonération des
 droits d'accises.
 
-VII. - Les personnes et groupements mentionnés du II au VI, qu'ils soient ou non
-bénéficiaires de la délégation mentionnée au 3° du I, informent l'administration
-des douanes et droits indirects des expéditions réalisées sous le régime de la
-suspension des droits d'accises, au moyen d'une transmission électronique
-contenant les informations du document mentionné au I de l'article 302 M du code
-général des impôts ou de tout autre document comportant les mêmes informations.
-Les modalités, délais et conditions de transmission de ces informations sont
-déterminés par arrêté du ministre chargé des douanes.
+VII.-(alinéa abrogé)
 
-VIII. - Les autorisations accordées en vertu des II, III et IV peuvent être
-suspendues ou révoquées par le directeur régional des douanes et droits
-indirects territorialement compétent :
+VIII.-Les autorisations accordées en vertu du III de l'article 302 M du code
+précité et celles accordées en vertu des II, III et IV du présent article
+peuvent être suspendues ou révoquées par le directeur régional des douanes et
+droits indirects territorialement compétent :
 
 1° En cas de manquements du bénéficiaire aux obligations fixées aux I à VI ainsi
-qu'aux articles 302 D à 302 V, 406, 440 bis, 441, 442 et 570 du code général des
-impôts ;
+qu'aux articles 302 D à 302 V bis, 406, 440 bis, 441, 442 et 570 du code général
+des impôts ;
 
 2° En cas d'infraction fiscale ou économique à caractère frauduleux au titre de
 la réglementation des contributions indirectes commise par le bénéficiaire ;
@@ -144,3 +141,8 @@ la réglementation des contributions indirectes commise par le bénéficiaire ;
 l'usage des matériels ou logiciels de validation informatiques sécurisés, des
 machines à timbrer, de tout autre matériel mécanique ou des documents
 d'accompagnement prévalidés mentionnés à l'article 302 M du même code.
+
+IX. Les conditions d'utilisation des machines à timbrer et des matériels ou
+logiciels informatiques sécurisés pour les documents d'accompagnement mentionnés
+au I et au II de l'article 302 M du code général des impôts sont fixées par
+arrêté.
