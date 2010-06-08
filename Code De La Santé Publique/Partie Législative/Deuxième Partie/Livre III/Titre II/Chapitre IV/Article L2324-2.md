@@ -1,5 +1,6 @@
 Article L2324-2
 ----
-Les établissements et services mentionnés à l'article L. 2324-1 sont soumis au
-contrôle et à la surveillance du médecin responsable du service départemental de
-protection maternelle et infantile.
+Le médecin responsable du service départemental de protection maternelle et
+infantile vérifie que les conditions mentionnées au quatrième alinéa de
+l'article L. 2324-1 sont respectées par les établissements et services
+mentionnés au même article.

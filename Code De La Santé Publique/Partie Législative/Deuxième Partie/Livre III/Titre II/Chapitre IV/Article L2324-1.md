@@ -19,11 +19,11 @@ est subordonnée à une autorisation délivrée par le représentant de l'Etat d
 le département, après avis du médecin responsable du service départemental de
 protection maternelle et infantile.
 
-Les conditions de qualification ou d'expérience professionnelle, de moralité et
-d'aptitude physique requises des personnes exerçant leur activité dans les
-établissements ou services mentionnés aux alinéas précédents ainsi que les
-conditions d'installation et de fonctionnement de ces établissements ou services
-sont fixées par voie réglementaire.
+Les seules conditions exigibles de qualification ou d'expérience
+professionnelle, de moralité et d'aptitude physique requises des personnes
+exerçant leur activité dans les établissements ou services mentionnés aux
+alinéas précédents ainsi que les seules conditions exigibles d'installation et
+de fonctionnement de ces établissements ou services sont fixées par décret.
 
 Les dispositions de l'article L. 133-6 du code de l'action sociale et des
 familles s'appliquent aux établissements, services et lieux de vie et d'accueil
