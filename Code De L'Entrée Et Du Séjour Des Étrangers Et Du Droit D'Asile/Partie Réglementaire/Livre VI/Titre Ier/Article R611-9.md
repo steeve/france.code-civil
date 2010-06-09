@@ -7,7 +7,7 @@ prévu à l'article R. 611-8 sont :
 doigts des demandeurs de visas, collectées par les chancelleries consulaires et
 les consulats français équipés du dispositif requis.
 
-Les empreintes digitales des mineurs de six ans ne sont pas collectées.
+Les empreintes digitales des mineurs de douze ans ne sont pas collectées.
 
 L'impossibilité de collecte totale ou partielle des empreintes digitales sera
 mentionnée dans le traitement.

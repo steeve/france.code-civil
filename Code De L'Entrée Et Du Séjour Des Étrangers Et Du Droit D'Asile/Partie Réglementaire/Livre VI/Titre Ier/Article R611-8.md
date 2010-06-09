@@ -4,10 +4,20 @@ Est autorisée la création, sur le fondement de l'article L. 611-6, d'un
 traitement automatisé de données à caractère personnel dénommé VISABIO, relevant
 du ministère des affaires étrangères et du ministère chargé de l'immigration.
 
-Ce traitement a pour finalité de mieux garantir le droit au séjour des personnes
-en situation régulière et de lutter contre l'entrée et le séjour irréguliers des
-étrangers en France, en prévenant les fraudes documentaires et les usurpations
-d'identité. Il vise :
+Ce traitement a pour finalité :
+
+-de mieux garantir le droit au séjour des personnes en situation régulière et de
+lutter contre l'entrée et le séjour irréguliers des étrangers en France, en
+prévenant les fraudes documentaires et les usurpations d'identité ;
+
+-de permettre l'instruction des demandes de visas en procédant notamment à
+l'échange d'informations, d'une part, avec des autorités nationales, d'autre
+part, avec les autorités des Etats Schengen au travers du système d'information
+sur les visas (VIS) pour les données biométriques se rapportant aux visas pour
+un séjour d'une durée inférieure à trois mois délivrés par les autorités
+françaises.
+
+Il vise :
 
 1° A améliorer les conditions de délivrance des visas en permettant de déceler
 les demandes présentées par la même personne sous plusieurs identités ;
