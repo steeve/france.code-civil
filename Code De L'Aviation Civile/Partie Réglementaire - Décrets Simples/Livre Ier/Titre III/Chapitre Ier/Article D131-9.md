@@ -1,25 +1,25 @@
 Article D131-9
 ----
-Les services que rendent au bénéfice de la circulation aérienne générale les
-organismes chargés de cette circulation sont fixés par arrêté du ministre chargé
-de l'aviation civile, pris après accord du directoire de l'espace aérien.
+En dehors des espaces et aérodromes visés à l'article 2 du décret n° 2005-200 du
+28 février 2005 portant création de la direction des services de la navigation
+aérienne, la désignation des prestataires de services de la circulation aérienne
+au bénéfice de la circulation aérienne générale intervient :
 
-Les services que rendent au bénéfice de la circulation aérienne militaire les
-organismes chargés de cette circulation sont fixés par arrêté du ministre de la
-défense, pris après accord du directoire de l'espace aérien.
+- pour tout aérodrome pour lequel ces services sont confiés à un prestataire
+civil autre que la direction des services de la navigation aérienne, par arrêté
+du ministre chargé de l'aviation civile ;
 
-Suivant les modalités précisées par des arrêtés conjoints du ministre chargé de
-l'aviation civile et du ministre de la défense, certains organismes de la
-circulation aérienne militaire peuvent rendre au bénéfice de la circulation
-aérienne générale les services définis par l'arrêté cité au premier alinéa du
-présent article et, réciproquement, certains organismes de la circulation
-aérienne générale peuvent rendre au bénéfice de la circulation aérienne
-militaire les services définis par l'arrêté cité au deuxième alinéa du présent
-article pour autant que ces derniers soient compatibles avec les conditions
+- pour tout aérodrome ou toute portion d'espace pour lesquels ces services sont
+confiés à un prestataire relevant du ministre de la défense, par arrêté conjoint
+du ministre chargé de l'aviation civile et du ministre de la défense.
+
+Pour toutes les portions d'espace aérien où elle rend les services au bénéfice
+de la circulation aérienne générale, la direction des services de la navigation
+aérienne peut rendre des services au bénéfice de la circulation aérienne
+militaire, pour autant que ces services soient compatibles avec les conditions
 habituelles d'exercice du contrôle de la circulation aérienne générale.
 
-Ces services sont rendus, en ce qui concerne la circulation aérienne générale,
-pour le compte du ministre chargé de l'aviation civile, en application de
-l'article D. 131-3 de la présente section, et, en ce qui concerne la circulation
-aérienne militaire, pour le compte du ministre de la défense, en application de
-l'article D. 131-4 de la présente section.
+Ces services sont alors rendus, en ce qui concerne la circulation aérienne
+générale, pour le compte du ministre chargé de l'aviation civile et, en ce qui
+concerne la circulation aérienne militaire, pour le compte du ministre de la
+défense.
