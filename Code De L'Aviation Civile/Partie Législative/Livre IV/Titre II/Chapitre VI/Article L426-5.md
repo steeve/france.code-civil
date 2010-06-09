@@ -17,7 +17,7 @@ Le paiement des cotisations est garanti pendant un an, à dater de leur
 exigibilité :
 
 a) Par un privilège mobilier qui prend rang concurremment avec celui établi par
-l'article 2101 (4°) du code civil ;
+l'article 2331 (4°) du code civil ;
 
 b) Par une hypothèque légale prenant rang du jour de son inscription au bureau
-des hypothèques.
+des hypothèques (1).
