@@ -20,10 +20,7 @@ avis à la région. Ils peuvent bénéficier de ce transfert si, à l'issue d'un
 délai de six mois à compter de la saisine pour avis, la région territorialement
 compétente n'a pas elle-même formulé la demande.
 
-Le transfert est refusé si la cohérence hydraulique ne peut pas être assurée ou,
-dans le cas d'une demande de transfert portant sur un port intérieur situé sur
-une voie non transférable, s'il risque de compromettre le développement du
-transport de fret fluvial.
+Le transfert est refusé si la cohérence hydraulique ne peut pas être assurée.
 
 La collectivité territoriale ou le groupement de collectivités territoriales
 bénéficiaire du transfert succède dans l'ensemble des droits et obligations à

@@ -2,11 +2,11 @@ Article L541-2
 ----
 Lorsqu'un arrêté pris en application de l'article L. 1331-28 du code de la santé
 publique ou des articles L. 123-3, L. 129-2 ou L. 511-2 du présent code a été
-publié à la conservation des hypothèques ou au livre foncier, les propriétaires
-successifs qui ont acquis l'immeuble postérieurement à cette publicité sont
-solidairement tenus avec le propriétaire de l'immeuble à la date de l'arrêté du
-paiement des sommes résultant des mesures exécutées d'office et des frais
-d'hébergement ou de relogement des occupants.
+publié au fichier immobilier ou au livre foncier, les propriétaires successifs
+qui ont acquis l'immeuble postérieurement à cette publicité sont solidairement
+tenus avec le propriétaire de l'immeuble à la date de l'arrêté du paiement des
+sommes résultant des mesures exécutées d'office et des frais d'hébergement ou de
+relogement des occupants.
 
 Lorsqu'un arrêté pris en application de l'article L. 1331-28 du code de la santé
 publique ou des articles L. 123-3 ou L. 511-2 du présent code et portant sur un

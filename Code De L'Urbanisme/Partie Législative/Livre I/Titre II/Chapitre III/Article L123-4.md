@@ -15,5 +15,5 @@ construction dans ces secteurs est fixée par le règlement du plan.
 En cas de transfert, la totalité du terrain dont les possibilités de
 construction sont transférées est frappée de plein droit d'une servitude
 administrative d'interdiction de construire constatée par un acte authentique
-publié au bureau des hypothèques. Cette servitude ne peut être levée que par
-décret pris sur avis conforme du Conseil d'Etat.
+publié au fichier immobilier. Cette servitude ne peut être levée que par décret
+pris sur avis conforme du Conseil d'Etat.

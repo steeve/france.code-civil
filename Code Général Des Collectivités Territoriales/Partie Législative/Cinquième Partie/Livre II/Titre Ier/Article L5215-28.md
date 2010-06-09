@@ -15,4 +15,5 @@ transfert définitif de propriété au plus tard un an après les transferts de
 compétences à la communauté urbaine.
 
 Les transferts de biens, droits et obligations prévus aux alinéas précédents ne
-donnent pas lieu à indemnité, droit, taxe, salaire ou honoraires.
+donnent pas lieu à indemnité, droit, taxe, contribution prévue à l' article 879
+du code général des impôts ou honoraires.

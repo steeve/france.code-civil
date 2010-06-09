@@ -5,9 +5,9 @@ immatriculée à un registre de publicité légale à caractère professionnel o
 exerçant une activité professionnelle agricole ou indépendante peut déclarer
 insaisissables ses droits sur l'immeuble où est fixée sa résidence principale
 ainsi que sur tout bien foncier bâti ou non bâti qu'elle n'a pas affecté à son
-usage professionnel. Cette déclaration, publiée au bureau des hypothèques ou,
-dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, au livre
-foncier, n'a d'effet qu'à l'égard des créanciers dont les droits naissent,
+usage professionnel. Cette déclaration, publiée au fichier immobilier ou, dans
+les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, au livre foncier,
+n'a d'effet qu'à l'égard des créanciers dont les droits naissent,
 postérieurement à la publication, à l'occasion de l'activité professionnelle du
 déclarant.
 

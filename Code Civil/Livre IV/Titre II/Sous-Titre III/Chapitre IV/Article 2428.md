@@ -1,17 +1,18 @@
 Article 2428
 ----
-L'inscription des privilèges et hypothèques est opérée par le conservateur des
-hypothèques sur le dépôt de deux bordereaux datés, signés et certifiés conformes
-entre eux par le signataire du certificat d'identité prévu aux articles 5 et 6
-du décret du 4 janvier 1955 ; un décret en Conseil d'Etat détermine les
-conditions de forme auxquelles le bordereau destiné à être conservé au bureau
-des hypothèques doit satisfaire. Au cas où l'inscrivant ne se serait pas servi
-d'une formule réglementaire, le conservateur accepterait cependant le dépôt,
-sous réserve des dispositions de l'avant-dernier alinéa du présent article.
+L'inscription des privilèges et hypothèques est opérée par le service chargé de
+la publicité foncière sur le dépôt de deux bordereaux datés, signés et certifiés
+conformes entre eux par le signataire du certificat d'identité prévu aux
+articles 5 et 6 du décret du 4 janvier 1955 ; un décret en Conseil d'Etat
+détermine les conditions de forme auxquelles le bordereau destiné à être
+conservé par ce service doit satisfaire. Au cas où l'inscrivant ne se serait pas
+servi d'une formule réglementaire, le service chargé de la publicité foncière
+accepterait cependant le dépôt, sous réserve des dispositions de l'avant-dernier
+alinéa du présent article.
 
 Toutefois, pour l'inscription des hypothèques et sûretés judiciaires, le
-créancier présente en outre, soit par lui-même, soit par un tiers, au
-conservateur des hypothèques :
+créancier présente en outre, soit par lui-même, soit par un tiers, audit service
+:
 
 1° L'original, une expédition authentique ou un extrait littéral de la décision
 judiciaire donnant naissance à l'hypothèque, lorsque celle-ci résulte des
@@ -33,15 +34,15 @@ prescrite par les articles 5 et 6 du décret du 4 janvier 1955, ou si les
 immeubles ne sont pas individuellement désignés, avec indication de la commune
 où ils sont situés.
 
-Si le conservateur, après avoir accepté le dépôt, constate l'omission d'une des
-mentions prescrites, ou une discordance entre, d'une part, les énonciations
-relatives à l'identité des parties ou à la désignation des immeubles contenues
-dans le bordereau, et, d'autre part, ces mêmes énonciations contenues dans les
-bordereaux ou titres déjà publiés depuis le 1er janvier 1956, la formalité est
-rejetée, à moins que le requérant ne régularise le bordereau ou qu'il ne
-produise les justifications établissant son exactitude, auxquels cas la
-formalité prend rang à la date de la remise du bordereau constatée au registre
-de dépôts.
+Si le service chargé de la publicité foncière, après avoir accepté le dépôt,
+constate l'omission d'une des mentions prescrites, ou une discordance entre,
+d'une part, les énonciations relatives à l'identité des parties ou à la
+désignation des immeubles contenues dans le bordereau, et, d'autre part, ces
+mêmes énonciations contenues dans les bordereaux ou titres déjà publiés depuis
+le 1er janvier 1956, la formalité est rejetée, à moins que le requérant ne
+régularise le bordereau ou qu'il ne produise les justifications établissant son
+exactitude, auxquels cas la formalité prend rang à la date de la remise du
+bordereau constatée au registre de dépôts.
 
 La formalité est également rejetée lorsque les bordereaux comportent un montant
 de créance garantie supérieur à celui figurant dans le titre pour les

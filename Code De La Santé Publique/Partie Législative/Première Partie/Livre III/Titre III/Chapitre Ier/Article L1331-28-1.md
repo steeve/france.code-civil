@@ -21,6 +21,5 @@ situation de l'immeuble, ainsi qu'aux gestionnaires du fonds de solidarité pour
 le logement du département.
 
 A la diligence du représentant de l'Etat dans le département et aux frais du
-propriétaire, l'arrêté d'insalubrité est publié à la conservation des
-hypothèques ou au livre foncier dont dépend l'immeuble pour chacun des locaux
-concernés.
+propriétaire, l'arrêté d'insalubrité est publié au fichier immobilier ou au
+livre foncier dont dépend l'immeuble pour chacun des locaux concernés.

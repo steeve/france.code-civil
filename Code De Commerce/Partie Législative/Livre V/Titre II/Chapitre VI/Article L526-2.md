@@ -1,8 +1,8 @@
 Article L526-2
 ----
 La déclaration, reçue par notaire sous peine de nullité, contient la description
-détaillée des biens et l'indication de leur caractère propre, commun ou indivis.
-L'acte est publié au bureau des hypothèques ou, dans les départements du
+détaillée des biens et l'indication de leur caractère propre, commun ou
+indivis.L'acte est publié au fichier immobilier ou, dans les départements du
 Bas-Rhin, du Haut-Rhin et de la Moselle, au livre foncier, de sa situation.
 
 Lorsque la personne est immatriculée dans un registre de publicité légale à

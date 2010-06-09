@@ -12,5 +12,5 @@ déclarée irrémédiable, le représentant de l'Etat dans le département prono
 par arrêté la fin de l'état d'insalubrité de l'immeuble et la mainlevée de
 l'interdiction d'habiter et d'utiliser les lieux.
 
-Ces arrêtés sont publiés, à la diligence du propriétaire, à la conservation des
-hypothèques ou au livre foncier.
+Ces arrêtés sont publiés, à la diligence du propriétaire, au fichier immobilier
+ou au livre foncier.

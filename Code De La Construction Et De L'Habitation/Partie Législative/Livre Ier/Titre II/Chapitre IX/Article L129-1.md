@@ -9,15 +9,14 @@ conditions d'habitation, le maire peut, par arrêté, prescrire leur remise en
 l'exécution de ces mesures.
 
 L'arrêté est notifié aux propriétaires et aux titulaires de droits réels
-immobiliers sur les locaux tels qu'ils figurent au fichier immobilier de la
-conservation des hypothèques. Lorsque l'immeuble est la propriété d'une société
-civile dont les parts donnent droit ou non à l'attribution ou à la jouissance en
-propriété des locaux, la notification est faite au gérant tel qu'il figure au
-registre du commerce où la société est immatriculée. Lorsque les mesures
-prescrites ne portent que sur les parties communes d'un immeuble soumis aux
-dispositions de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la
-copropriété des immeubles bâtis, la notification aux copropriétaires est
-valablement faite au syndicat des copropriétaires.
+immobiliers sur les locaux tels qu'ils figurent au fichier immobilier. Lorsque
+l'immeuble est la propriété d'une société civile dont les parts donnent droit ou
+non à l'attribution ou à la jouissance en propriété des locaux, la notification
+est faite au gérant tel qu'il figure au registre du commerce où la société est
+immatriculée. Lorsque les mesures prescrites ne portent que sur les parties
+communes d'un immeuble soumis aux dispositions de la loi n° 65-557 du 10 juillet
+1965 fixant le statut de la copropriété des immeubles bâtis, la notification aux
+copropriétaires est valablement faite au syndicat des copropriétaires.
 
 A défaut de connaître l'adresse actuelle des personnes mentionnées à l'alinéa
 précédent ou de pouvoir les identifier, la notification les concernant est

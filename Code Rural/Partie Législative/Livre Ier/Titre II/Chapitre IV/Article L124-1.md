@@ -6,9 +6,9 @@ mentionnés au présent chapitre, qui sont assimilés aux échanges réalisés p
 voie d'aménagement foncier agricole et forestier.
 
 En cas d'opposition du titulaire de droits de privilèges, d'hypothèques ou de
-baux, l'acte d'échange est soumis, avant sa publication au bureau des
-hypothèques, à l'homologation du président du tribunal de grande instance
-statuant par voie d'ordonnance sur requête.
+baux, l'acte d'échange est soumis, avant sa publication au fichier immobilier, à
+l'homologation du président du tribunal de grande instance statuant par voie
+d'ordonnance sur requête.
 
 Les dispositions de l'article 708 du code général des impôts sont applicables
 aux échanges effectués conformément aux dispositions des articles L. 124-3 et L.

@@ -11,11 +11,11 @@ judiciaires ou attestations, faite dans les conditions prévues par l'autorité
 compétente de l'Etat.
 
 Pour les actes visés au premier alinéa du I de l'article 647, les deux
-exemplaires de l'extrait sont remis, sous peine de refus du dépôt, à la
-conservation des hypothèques (1), au moment où la formalité fusionnée est
-requise (2). Le dépôt est également refusé s'il existe, entre cet extrait et le
-document à publier, une discordance faisant obstacle à la détermination de
-l'assiette ou au contrôle de l'impôt.
+exemplaires de l'extrait sont remis, sous peine de refus du dépôt, au service
+chargé de la publicité foncière, au moment où la formalité fusionnée est requise
+(2). Le dépôt est également refusé s'il existe, entre cet extrait et le document
+à publier, une discordance faisant obstacle à la détermination de l'assiette ou
+au contrôle de l'impôt.
 
 Pour les actes visés au deuxième alinéa du I du même article, l'un des
 exemplaires de l'extrait d'acte est déposé au service des impôts compétent pour

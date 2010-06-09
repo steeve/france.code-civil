@@ -42,7 +42,8 @@ Les biens immobiliers des établissements mentionnés au premier alinéa
 appartenant à l'Etat à la date d'entrée en vigueur de la loi n° 2004-809 du 13
 août 2004 relative aux libertés et responsabilités locales sont transférés à la
 collectivité territoriale de Corse en pleine propriété à titre gratuit. Ce
-transfert ne donne lieu au versement d'aucun droit, taxe, salaire ou honoraires.
+transfert ne donne lieu au versement d'aucun droit, taxe, contribution prévue à
+l'article 879 du code général des impôts ou honoraires.
 
 Les biens immobiliers des établissements mentionnés au premier alinéa
 appartenant à un département, une commune ou un groupement de communes peuvent
@@ -50,4 +51,5 @@ appartenant à un département, une commune ou un groupement de communes peuvent
 titre gratuit et sous réserve de l'accord des parties. Lorsque la collectivité
 territoriale de Corse effectue sur ces biens des travaux de construction, de
 reconstruction ou d'extension, ce transfert est de droit, à sa demande, et ne
-donne lieu au versement d'aucun droit, taxe, salaire ou honoraires.
+donne lieu au versement d'aucun droit, taxe, contribution prévue à l'article 879
+du code général des impôts ou honoraires.

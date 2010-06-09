@@ -1,7 +1,7 @@
 Article 1704
 ----
 1. La quittance de l'enregistrement est mise sur l'acte enregistré ou sur
-l'extrait de la déclaration du nouveau possesseur (1).
+l'extrait de la déclaration du nouveau possesseur.
 
 Il y est exprimé en toutes lettres la date de l'enregistrement, le folio du
 registre, le numéro et la somme des droits perçus.
@@ -14,6 +14,6 @@ particulier, l'agent compétent les indique sommairement dans sa quittance et y
 
 3. Lorsqu'il s'agit de formalités autres que la formalité fusionnée, la
 quittance de la taxe de publicité foncière est mise au pied des extraits,
-expéditions, copies, bordereaux ou certificats remis ou délivrés par le
-conservateur ; chaque somme y est mentionnée séparément, et le total est inscrit
-en toutes lettres.
+expéditions, copies, bordereaux ou certificats remis ou délivrés par le service
+chargé de la publicité foncière ; chaque somme y est mentionnée séparément, et
+le total est inscrit en toutes lettres.

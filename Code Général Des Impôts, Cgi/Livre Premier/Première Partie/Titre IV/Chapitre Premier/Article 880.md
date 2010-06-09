@@ -1,8 +1,8 @@
 Article 880
 ----
-Hors les cas d'exception visés à l'article 881, les salaires dus pour les
-formalités hypothécaires sont payés d'avance par les requérants.
+La contribution de sécurité immobilière est payée d'avance par les requérants au
+service chargé de la publicité foncière.
 
-Les conservateurs en expédient quittance au pied des actes et certificats par
-eux remis et délivrés; chaque somme y est mentionnée séparément et le total des
-sommes perçues est inscrit en toutes lettres.
+Le service chargé de la publicité foncière en donne quittance au pied des actes
+ou certificats qu'il remet ou qu'il délivre ; chaque somme y est mentionnée
+séparément et le total des sommes perçues est inscrit en toutes lettres.

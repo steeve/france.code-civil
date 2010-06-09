@@ -19,8 +19,7 @@ l'hypothèque ou le privilège.
 Quant aux biens qui sont dans la main d'un tiers détenteur, elle lui est acquise
 par le temps réglé pour la prescription de la propriété à son profit : dans le
 cas où la prescription suppose un titre, elle ne commence à courir que du jour
-où ce titre a été publié au bureau des hypothèques de la situation des
-immeubles.
+où ce titre a été publié au fichier immobilier.
 
 Les inscriptions prises par le créancier n'interrompent pas le cours de la
 prescription établie par la loi en faveur du débiteur ou du tiers détenteur.

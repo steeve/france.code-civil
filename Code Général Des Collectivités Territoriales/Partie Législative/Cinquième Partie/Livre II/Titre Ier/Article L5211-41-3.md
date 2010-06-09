@@ -140,7 +140,8 @@ publics de coopération intercommunale et les communes n'entraîne aucun droit �
 résiliation ou à indemnisation pour le cocontractant.
 
 La fusion d'établissements publics est effectuée à titre gratuit et ne donne
-lieu au paiement d'aucune indemnité, droit, taxe, salaire ou honoraire.
+lieu au paiement d'aucune indemnité, droit, taxe, contribution prévue à
+l'article 879 du code général des impôts ou honoraire.
 
 L'ensemble des personnels des établissements publics de coopération
 intercommunale fusionnés est réputé relever de l'établissement public issu de la

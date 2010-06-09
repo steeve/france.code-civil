@@ -10,8 +10,8 @@ effectivement soumis, à la date du projet d'aliénation, au régime de la
 copropriété, soit à la suite du partage total ou partiel d'une société
 d'attribution, soit depuis dix années au moins dans les cas où la mise en
 copropriété ne résulte pas d'un tel partage, la date de publication du règlement
-de copropriété au bureau des hypothèques constituant le point de départ de ce
-délai ;
+de copropriété au fichier immobilier constituant le point de départ de ce délai
+;
 
 b) A la cession de parts ou d'actions de sociétés visées aux titres II et III de
 la loi n° 71-579 du 16 juillet 1971 et donnant vocation à l'attribution d'un

@@ -1,7 +1,7 @@
 Article 1929
 ----
 1. Pour les recouvrements confiés au service des impôts en vertu de la présente
-codification, l'Etat a, lorsque les dispositions prévues aux articles 1920, 1923
+codification, l'Etat a, lorsque les dispositions prévues aux articles 1920,1923
 à 1928 ne leur sont pas applicables, un privilège sur tous les meubles et effets
 mobiliers des redevables.
 
@@ -10,15 +10,14 @@ d'affaires et des taxes instituées en remplacement de cet impôt.
 
 2. Indépendamment du privilège visé au 1, le Trésor dispose, pour le
 recouvrement des droits de mutation par décès, d'une hypothèque légale sur les
-immeubles de la succession qui prend rang du jour de son inscription à la
-conservation des hypothèques dans la forme et de la manière prescrite par la
-loi.
+immeubles de la succession qui prend rang du jour de son inscription au fichier
+immobilier dans la forme et de la manière prescrite par la loi.
 
 3. Pour la garantie du paiement des droits complémentaires et supplémentaires
 éventuellement exigibles en vertu de l'article 1840 G, le Trésor possède sur les
 immeubles du groupement forestier ou sur l'immeuble objet de la mutation une
-hypothèque légale qui prend rang du jour de son inscription à la conservation
-des hypothèques sur tout ou partie de ces biens dans la forme et de la manière
+hypothèque légale qui prend rang du jour de son inscription au fichier
+immobilier sur tout ou partie de ces biens dans la forme et de la manière
 prescrite par la loi.
 
 En cas de cession à l'Etat ou aux collectivités et organismes mentionnés au I de
@@ -42,6 +41,4 @@ l'établissement d'une servitude d'utilité publique au titre de ladite mutation
 soit d'une interdiction de reboisement après coupe rase en application des
 deuxième à neuvième alinéas de l'article L. 126-1 du code rural et de la pêche
 maritime, soit d'un procès-verbal dressé en application du III de l'article 1840
-G.
-
-4. Abrogé.
+G. 4. Abrogé.

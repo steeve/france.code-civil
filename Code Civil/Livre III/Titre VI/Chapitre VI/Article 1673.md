@@ -9,5 +9,5 @@ de cette augmentation. Il ne peut entrer en possession qu'après avoir satisfait
 Lorsque le vendeur rentre dans son héritage par l'effet du pacte de rachat, il
 le reprend, exempt de toutes les charges et hypothèques dont l'acquéreur
 l'aurait grevé, à la condition que ce pacte ait été régulièrement publié au
-bureau des hypothèques, antérieurement à la publication desdites charges et
+fichier immobilier, antérieurement à la publication desdites charges et
 hypothèques. Il est tenu d'exécuter les baux faits sans fraude par l'acquéreur.

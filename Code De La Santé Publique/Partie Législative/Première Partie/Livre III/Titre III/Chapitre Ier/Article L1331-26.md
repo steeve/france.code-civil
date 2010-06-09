@@ -28,7 +28,7 @@ ou occupant de l'immeuble ou de l'un des immeubles concernés.
 Le maire de la commune ou le président de l'établissement public de coopération
 intercommunale, à l'initiative duquel la procédure a été engagée, doit fournir
 un plan parcellaire de l'immeuble avec l'indication des noms des propriétaires
-tels qu'ils figurent au fichier immobilier de la conservation des hypothèques.
-Lorsque cette initiative a pour objet de faciliter l'assainissement ou
-l'aménagement d'un îlot ou d'un groupe d'îlots, le projet d'assainissement ou
-d'aménagement correspondant est également fourni.
+tels qu'ils figurent au fichier immobilier. Lorsque cette initiative a pour
+objet de faciliter l'assainissement ou l'aménagement d'un îlot ou d'un groupe
+d'îlots, le projet d'assainissement ou d'aménagement correspondant est également
+fourni.

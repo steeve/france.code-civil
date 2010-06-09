@@ -25,18 +25,18 @@ dans le département, aux communes ou aux établissements publics de coopératio
 intercommunale qui ont demandé à assumer la charge de la construction, de la
 reconstruction, de l'extension, des grosses réparations et de l'équipement des
 locaux destinés au logement des étudiants. Ce transfert se fait à titre gratuit
-et ne donne lieu au paiement d'aucune indemnité, droit, taxe, salaire ou
-honoraires. La gestion de ces logements est assurée par le centre régional des
-oeuvres universitaires et scolaires territorialement compétent, dans le cadre
-d'une convention conclue entre celui-ci, d'une part, la commune ou
-l'établissement public de coopération intercommunale bénéficiaire du transfert,
-d'autre part. Dans des conditions fixées par décret en Conseil d'Etat, cette
-convention dresse un diagnostic de l'état des logements et détermine les
-obligations respectives des signataires et notamment les objectifs de gestion
-qui sont assignés au centre régional des oeuvres universitaires et scolaires,
-ainsi que les modalités de la participation des représentants de la commune ou
-de l'établissement public de coopération intercommunale concernés aux décisions
-d'attribution.
+et ne donne lieu au paiement d'aucune indemnité, droit, taxe, contribution
+prévue à l'article 879 du code général des impôts ou honoraires. La gestion de
+ces logements est assurée par le centre régional des oeuvres universitaires et
+scolaires territorialement compétent, dans le cadre d'une convention conclue
+entre celui-ci, d'une part, la commune ou l'établissement public de coopération
+intercommunale bénéficiaire du transfert, d'autre part. Dans des conditions
+fixées par décret en Conseil d'Etat, cette convention dresse un diagnostic de
+l'état des logements et détermine les obligations respectives des signataires et
+notamment les objectifs de gestion qui sont assignés au centre régional des
+oeuvres universitaires et scolaires, ainsi que les modalités de la participation
+des représentants de la commune ou de l'établissement public de coopération
+intercommunale concernés aux décisions d'attribution.
 
 L'exécution des conventions conclues avant la date d'entrée en vigueur de la loi
 n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales

@@ -29,8 +29,9 @@ lesquelles les autorisations prévues aux articles L. 5126-7 et L. 6122-1,
 détenues par le ou les établissements transformés, ainsi que les biens meubles
 et immeubles de leur domaine public et privé sont transférés au nouvel
 établissement et atteste des transferts de propriété immobilière en vue de leur
-publication au bureau des hypothèques. Ces transferts de biens, droits et
-obligations ne donnent lieu à aucune indemnité, taxe, salaire ou honoraire.
+publication au fichier immobilier. Ces transferts de biens, droits et
+obligations ne donnent lieu à aucune indemnité, taxe, contribution prévue à
+l'article 879 du code général des impôts ou honoraire.
 
 Le décret ou l'arrêté mentionnés à l'article L. 6141-1 déterminent la date de la
 transformation et en complètent, en tant que de besoin, les modalités.

@@ -15,7 +15,8 @@ même code.
 
 La cession ou l'échange mentionnés aux 1° et 2° du présent article, ainsi que
 les droits et obligations y afférents, ne donnent lieu à la perception d'aucune
-indemnité, taxe, salaire ou honoraires. Le directeur général de l'agence
-régionale de santé atteste des transferts de propriété immobilière en vue de
-réaliser les formalités de publicité immobilière par une décision qui en
-détermine la date et en précise, en tant que de besoin, les modalités.
+indemnité, taxe, contribution prévue à l'article 879 du code général des impôts
+ou honoraires. Le directeur général de l'agence régionale de santé atteste des
+transferts de propriété immobilière en vue de réaliser les formalités de
+publicité immobilière par une décision qui en détermine la date et en précise,
+en tant que de besoin, les modalités.

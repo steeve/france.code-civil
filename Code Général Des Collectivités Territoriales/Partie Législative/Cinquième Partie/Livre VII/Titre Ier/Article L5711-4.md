@@ -32,7 +32,8 @@ substitution n'entraîne aucun droit à résiliation ou à indemnisation pour le
 cocontractant.
 
 Le transfert est effectué à titre gratuit et ne donne lieu au paiement d'aucune
-indemnité, droit, taxe, salaire ou honoraires.
+indemnité, droit, taxe, contribution prévue à l'article 879 du code général des
+impôts ou honoraires.
 
 L'ensemble des personnels du syndicat mixte dissous est réputé relever du
 syndicat mixte auquel il adhère dans les conditions de statut et d'emploi qui

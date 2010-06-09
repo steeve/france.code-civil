@@ -16,9 +16,10 @@ personnes physiques ou morales auxquelles l'établissement mentionné à l'artic
 L. 621-1 a dû se substituer en vertu de son aval. Il prend rang immédiatement
 après les privilèges fiscaux au profit du Trésor.
 
-Le même privilège est accordé aux sociétés de caution mutuelle lorsqu'elles ont
-donné leur aval aux effets créés par leurs sociétaires dans les conditions
-prévues au deuxième alinéa de l'article L. 666-2.
+Le même privilège est accordé aux sociétés de caution mutuelle des négociants en
+grains agréés en qualité de collecteurs lorsqu'elles ont donné leur aval aux
+effets créés par leurs sociétaires dans les conditions prévues au deuxième
+alinéa de l'article L. 666-2.
 
 Indépendamment de l'exercice du privilège sur les meubles et effets mobiliers,
 l'agent de recouvrement peut requérir, à concurrence du montant en principal de
@@ -31,8 +32,9 @@ copie de l'état exécutoire délivré en vertu de l'article 2 du décret-loi du
 octobre 1935 tendant à améliorer et à faciliter le fonctionnement du service du
 contentieux et de l'Agence judiciaire du Trésor.
 
-La formalité est donnée en débet en ce qui concerne tant la taxe hypothécaire
-proprement dite que le salaire du conservateur.
+Pour l'accomplissement de la formalité, la taxe de publicité foncière et la
+contribution de sécurité immobilière prévue à l'article 879 du code général des
+impôts sont dues lors de la radiation de l'inscription.
 
 L'établissement mentionné à l'article L. 621-1 peut exercer, dans les conditions
 prévues par l'article 1166 du code civil, tous les droits et actions du débiteur

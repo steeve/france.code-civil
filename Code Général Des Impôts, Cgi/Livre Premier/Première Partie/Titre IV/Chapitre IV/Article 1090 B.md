@@ -9,9 +9,9 @@ Lorsqu'elle ne tient pas lieu des droits d'enregistrement, la taxe de publicité
 foncière n'est pas exigible sur les formalités requises par les bénéficiaires de
 l'aide juridictionnelle. Toutefois, la taxe non perçue sur une inscription
 d'hypothèque judiciaire ou conventionnelle doit être acquittée lors de la
-radiation de l'inscription. A cet effet, le conservateur est tenu d'énoncer,
-tant sur le bordereau destiné aux archives que sur le bordereau remis au
-requérant, le montant de la taxe non perçue.
+radiation de l'inscription. A cet effet, le service chargé de la publicité
+foncière est tenu d'énoncer, tant sur le bordereau destiné aux archives que sur
+le bordereau remis au requérant, le montant de la taxe non perçue.
 
 Par dérogation au deuxième alinéa, la taxe tombe en non-valeur lorsque la
 radiation est requise par le bénéficiaire de l'aide juridictionnelle condamné.

@@ -2,7 +2,7 @@ Article 1961 bis
 ----
 Sauf lorsqu'elle tient lieu des droits d'enregistrement en vertu de l'article
 664, la taxe de publicité foncière n'est restituable qu'en cas d'erreur du
-conservateur.
+service chargé de la publicité foncière.
 
 Sauf cette même réserve, en cas de rejet de la formalité de publicité foncière
 prononcé, notamment, en vertu de l'article 2428 du code civil ou de l'article 34

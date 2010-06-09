@@ -1,9 +1,8 @@
 Article 2425
 ----
 Entre les créanciers, l'hypothèque, soit légale, soit judiciaire, soit
-conventionnelle, n'a rang que du jour de l'inscription prise par le créancier à
-la conservation des hypothèques, dans la forme et de la manière prescrites par
-la loi.
+conventionnelle, n'a rang que du jour de l'inscription prise par le créancier au
+fichier immobilier, dans la forme et de la manière prescrites par la loi.
 
 Lorsque plusieurs inscriptions sont requises le même jour relativement au même
 immeuble, celle qui est requise en vertu du titre portant la date la plus

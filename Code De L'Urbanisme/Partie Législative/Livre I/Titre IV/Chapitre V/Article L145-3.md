@@ -1,6 +1,6 @@
 Article L145-3
 ----
-I.-Les terres nécessaires au maintien et au développement des activités
+I. ― Les terres nécessaires au maintien et au développement des activités
 agricoles, pastorales et forestières sont préservées. La nécessité de préserver
 ces terres s'apprécie au regard de leur rôle et de leur place dans les systèmes
 d'exploitation locaux. Sont également pris en compte leur situation par rapport
@@ -20,7 +20,7 @@ sont pas desservis par les voies et réseaux, ou lorsqu'ils sont desservis par
 des voies qui ne sont pas utilisables en période hivernale, l'autorité
 compétente peut subordonner la réalisation des travaux faisant l'objet d'un
 permis de construire ou d'une déclaration de travaux à l'institution d'une
-servitude administrative, publiée au bureau des hypothèques, interdisant
+servitude administrative, publiée au fichier immobilier, interdisant
 l'utilisation du bâtiment en période hivernale ou limitant son usage pour tenir
 compte de l'absence de réseaux. Cette servitude précise que la commune est
 libérée de l'obligation d'assurer la desserte du bâtiment par les réseaux et
@@ -28,16 +28,16 @@ libérée de l'obligation d'assurer la desserte du bâtiment par les réseaux et
 carrossable, la servitude rappelle l'interdiction de circulation des véhicules à
 moteur édictée par l'article L. 362-1 du code de l'environnement.
 
-II.-Les documents et décisions relatifs à l'occupation des sols comportent les
+II. ― Les documents et décisions relatifs à l'occupation des sols comportent les
 dispositions propres à préserver les espaces, paysages et milieux
 caractéristiques du patrimoine naturel et culturel montagnard.
 
-III.-Sous réserve de l'adaptation, du changement de destination, de la réfection
-ou de l'extension limitée des constructions existantes et de la réalisation
-d'installations ou d'équipements publics incompatibles avec le voisinage des
-zones habitées, l'urbanisation doit se réaliser en continuité avec les bourgs,
-villages, hameaux, groupes de constructions traditionnelles ou d'habitations
-existants.
+III. ― Sous réserve de l'adaptation, du changement de destination, de la
+réfection ou de l'extension limitée des constructions existantes et de la
+réalisation d'installations ou d'équipements publics incompatibles avec le
+voisinage des zones habitées, l'urbanisation doit se réaliser en continuité avec
+les bourgs, villages, hameaux, groupes de constructions traditionnelles ou
+d'habitations existants.
 
 Lorsque la commune est dotée d'un plan local d'urbanisme ou d'une carte
 communale, ce document peut délimiter les hameaux et groupes de constructions
@@ -89,7 +89,7 @@ La capacité d'accueil des espaces destinés à l'urbanisation doit être compat
 avec la préservation des espaces naturels et agricoles mentionnés aux I et II du
 présent article.
 
-IV.-Le développement touristique et, en particulier, la création d'une unité
+IV. ― Le développement touristique et, en particulier, la création d'une unité
 touristique nouvelle doivent prendre en compte les communautés d'intérêt des
 collectivités locales concernées et contribuer à l'équilibre des activités
 économiques et de loisirs, notamment en favorisant l'utilisation rationnelle du

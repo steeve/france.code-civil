@@ -1,8 +1,8 @@
 Article 828 bis
 ----
 1. Sont exonérés des droits d'enregistrement, de la taxe de publicité foncière
-et du salaire des conservateurs des hypothèques les transferts de biens, droits
-et obligations résultant de la transformation :
+et de la contribution prévue à l'article 879 les transferts de biens, droits et
+obligations résultant de la transformation :
 
 a) Des sociétés civiles de placement immobilier en organismes de placement
 collectif immobilier ;
