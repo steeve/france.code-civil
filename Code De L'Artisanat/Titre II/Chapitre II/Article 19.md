@@ -50,6 +50,10 @@ IV.-La démission du président, des membres du bureau et des autres membres de 
 chambre est adressée au préfet par lettre recommandée avec accusé de réception
 ou tout autre moyen permettant d'en attester la réception par son destinataire.
 
+La démission d'un membre de la chambre régionale de métiers et de l'artisanat
+entraîne sa démission en qualité de membre de la chambre de métiers et de
+l'artisanat au titre de laquelle il a été élu.
+
 Les membres du bureau qui se sont abstenus, sans motif légitime, d'assister à
 trois séances consécutives auxquelles ils étaient régulièrement convoqués sont
 déclarés démissionnaires du bureau par le préfet, après avis de l'assemblée
