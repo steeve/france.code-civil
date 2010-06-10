@@ -30,3 +30,9 @@ est arrêté par le ministre chargé de l'agriculture.
 Pour les chefs d'exploitation ou d'entreprise agricole bénéficiaires de la
 retraite progressive mentionnée aux articles D. 732-167 et suivants, la date
 limite mentionnée au premier alinéa est reportée au 31 décembre.
+
+Par dérogation aux dispositions du premier alinéa, la date limite de l'option
+mentionnée à l'article L. 731-19 est reportée au 31 juillet 2010 pour le calcul
+des cotisations dues au titre de l'année 2010. La régularisation des cotisations
+dues par les chefs d'exploitation ou d'entreprise agricole qui opteront jusqu'à
+cette date s'effectuera lors du dernier appel de cotisations de l'année 2010.
