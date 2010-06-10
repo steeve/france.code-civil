@@ -1,7 +1,12 @@
 Article R6146-7
 ----
-Un praticien hospitalier dont l'activité est partagée entre deux établissements
-publics de santé en application des dispositions du premier alinéa de l'article
-R. 6152-4 ne peut être nommé responsable de pôle dans l'un ou l'autre de ces
-établissements que sous réserve que l'activité qu'il y exerce soit au moins
-égale à cinq demi-journées hebdomadaires.
+Une indemnité de fonction est versée aux chefs de pôle. Elle est modulée en
+fonction de la réalisation des objectifs figurant dans le contrat de pôle. Le
+montant et les modalités de versement de cette indemnité sont fixés par arrêté
+des ministres chargés de la santé et du budget.
+
+Cette indemnité n'est pas assujettie aux cotisations du régime de retraite
+complémentaire institué par le décret n° 70-1277 du 23 décembre 1970 modifié
+portant création d'un régime de retraites complémentaires des assurances
+sociales en faveur des agents non titulaires de l'Etat et des collectivités
+publiques.

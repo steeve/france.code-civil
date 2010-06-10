@@ -1,8 +1,7 @@
 Article R6146-4
 ----
-La liste nationale d'habilitation à diriger un pôle mentionnée à l'article R.
-6146-3 est établie au 1er janvier pour une période d'un an. Elle est publiée au
-Journal officiel de la République française.
-
-La réalisation des conditions fixées pour l'inscription des praticiens sur cette
-liste est appréciée à cette même date.
+Dans les centres hospitaliers et les centres hospitalo-universitaires, les
+responsables de structure interne, services ou unités fonctionnelles des pôles
+d'activité clinique ou médico-technique sont nommés par le directeur sur
+proposition du chef de pôle, après avis du président de la commission médicale
+d'établissement, selon des modalités fixées par le règlement intérieur.

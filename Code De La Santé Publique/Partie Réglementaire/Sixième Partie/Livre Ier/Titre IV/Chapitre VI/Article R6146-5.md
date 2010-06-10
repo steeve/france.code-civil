@@ -1,7 +1,12 @@
 Article R6146-5
 ----
-Lorsque le praticien est un médecin, les autorités compétentes mentionnées au
-deuxième alinéa de l'article L. 6146-3 s'assurent, avant de procéder à sa
-nomination dans les fonctions de responsable de pôle, qu'il a rempli
-l'obligation d'évaluation des pratiques professionnelles mentionnée à l'article
-L. 4133-1-1 depuis moins de cinq ans.
+Il peut être mis fin, dans l'intérêt du service, aux fonctions de responsable de
+structure interne, service ou unité fonctionnelle par décision du directeur, à
+son initiative, après avis du président de la commission médicale
+d'établissement et du chef de pôle.
+
+Cette décision peut également intervenir sur proposition du chef de pôle, après
+avis du président de la commission médicale d'établissement. Dans ce cas, le
+directeur dispose d'un délai de trente jours à compter de la réception de la
+demande du chef de pôle pour prendre sa décision. A l'expiration de ce délai, la
+proposition est réputée rejetée.
