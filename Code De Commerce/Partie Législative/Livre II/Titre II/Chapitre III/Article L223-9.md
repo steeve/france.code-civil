@@ -8,9 +8,9 @@ diligent.
 
 Toutefois, les futurs associés peuvent décider à l'unanimité que le recours à un
 commissaire aux apports ne sera pas obligatoire, lorsque la valeur d'aucun
-apport en nature n'excède 7 500 euros et si la valeur totale de l'ensemble des
-apports en nature non soumis à l'évaluation d'un commissaire aux apports
-n'excède pas la moitié du capital.
+apport en nature n'excède un montant fixé par décret et si la valeur totale de
+l'ensemble des apports en nature non soumis à l'évaluation d'un commissaire aux
+apports n'excède pas la moitié du capital.
 
 Lorsque la société est constituée par une seule personne, le commissaire aux
 apports est désigné par l'associé unique. Toutefois le recours à un commissaire

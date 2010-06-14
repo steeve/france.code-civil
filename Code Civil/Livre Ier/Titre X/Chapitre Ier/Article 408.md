@@ -11,3 +11,8 @@ tuteur de se désister de l'instance ou de l'action, ou de transiger.
 
 Le tuteur gère les biens du mineur et rend compte de sa gestion conformément aux
 dispositions du titre XII.
+
+Le tuteur, après autorisation du conseil de famille, effectue les actes de
+disposition nécessaires pour les besoins de la création et de la gestion d'une
+entreprise individuelle à responsabilité limitée ou d'une société
+unipersonnelle.

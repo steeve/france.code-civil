@@ -10,16 +10,15 @@ Cet établissement a pour mission :
 des innovations et pour l'enregistrement des entreprises, ainsi que d'engager
 toute action de sensibilisation et de formation dans ces domaines ;
 
-2° D'appliquer les lois et règlements en matière de propriété industrielle, de
-registre du commerce et des sociétés et de répertoire des métiers ; à cet effet,
-l'Institut pourvoit, notamment, à la réception des dépôts de demandes des titres
-de propriété industrielle ou annexes à la propriété industrielle, à leur examen
-et à leur délivrance ou enregistrement et à la surveillance de leur maintien ;
-il centralise le registre du commerce et des sociétés, le répertoire des métiers
-et le Bulletin officiel des annonces civiles et commerciales ; il assure la
-diffusion des informations techniques, commerciales et financières contenues
-dans les titres de propriété industrielle et instruments centralisés de
-publicité légale ;
+2° D'appliquer les lois et règlements en matière de propriété industrielle et de
+registre du commerce et des sociétés ; à cet effet, l'Institut pourvoit,
+notamment, à la réception des dépôts de demandes des titres de propriété
+industrielle ou annexes à la propriété industrielle, à leur examen et à leur
+délivrance ou enregistrement et à la surveillance de leur maintien ; il
+centralise le registre du commerce et des sociétés et le Bulletin officiel des
+annonces civiles et commerciales ; il assure la diffusion des informations
+techniques, commerciales et financières contenues dans les titres de propriété
+industrielle et instruments centralisés de publicité légale ;
 
 3° De prendre toute initiative en vue d'une adaptation permanente du droit
 national et international aux besoins des innovateurs et des entreprises ; à ce

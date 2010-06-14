@@ -6,8 +6,12 @@ l'établissement de crédit qui a l'intention de demander une sûreté réelle s
 bien non nécessaire à l'exploitation ou une sûreté personnelle consentie par une
 personne physique doit informer par écrit l'entrepreneur de la possibilité qui
 lui est offerte de proposer une garantie sur les biens nécessaires à
-l'exploitation de l'entreprise et indique, compte tenu du montant du concours
-financier sollicité, le montant de la garantie qu'il souhaite obtenir.
+l'exploitation de l'entreprise ou de solliciter une garantie auprès d'un autre
+établissement de crédit, d'une entreprise d'assurance habilitée à pratiquer les
+opérations de caution ou d'une société de caution mutuelle mentionnée aux
+articles L. 515-4 à L. 515-12.L'établissement de crédit indique, compte tenu du
+montant du concours financier sollicité, le montant de la garantie qu'il
+souhaite obtenir.
 
 A défaut de réponse de l'entrepreneur individuel dans un délai de quinze jours
 ou en cas de refus par l'établissement de crédit de la garantie proposée par
