@@ -307,7 +307,7 @@ Cour d'appel de Nîmes Gard
 
 Nîmes
 
-Bagnols-sur-Cèze, Nîmes.
+Bagnols-sur-Cèze, Nîmes, Vauvert.
 
 Cour d'appel d'Orléans Indre-et-Loire
 
