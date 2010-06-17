@@ -62,8 +62,3 @@ fins expérimentales ou à d'autres fins scientifiques, de ne pas être en mesur
 de présenter aux agents chargés du contrôle, le registre dûment renseigné,
 permettant d'établir l'origine et la destination des animaux détenus ou qui ont
 été détenus.
-
-III. - Les personnes morales peuvent être reconnues pénalement responsables,
-dans les conditions prévues à l'article 121-2 du code pénal, des contraventions
-prévues aux 1° et 2° du I et au 3° du II ci-dessus, et encourent la peine
-d'amende, dans les conditions prévues à l'article 131-38 du même code.

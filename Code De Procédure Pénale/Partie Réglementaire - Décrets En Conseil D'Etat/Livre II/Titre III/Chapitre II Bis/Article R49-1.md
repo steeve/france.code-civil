@@ -19,7 +19,7 @@ ne permettant pas l'édition immédiate de ces documents, l'avis de contraventio
 et la carte de paiement peuvent également être envoyés au contrevenant ou au
 titulaire du certificat d'immatriculation.
 
-II.-Le procès-verbal peut être dressé au moyen d'un appareil sécurisé dont les
-caractéristiques sont fixées par arrêté du garde des sceaux, ministre de la
-justice, permettant le recours à une signature manuscrite conservée sous forme
-numérique.
+II.-Sans préjudice de l'article R. 249-9, le procès-verbal peut être dressé au
+moyen d'un appareil sécurisé dont les caractéristiques sont fixées par arrêté du
+garde des sceaux, ministre de la justice, permettant le recours à une signature
+manuscrite conservée sous forme numérique.

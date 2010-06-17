@@ -9,11 +9,6 @@ mentionnées au I de l'article L. 752-1 à un organisme assureur. Les intéress�
 disposent d'un délai d'un mois à compter de la réception de la mise en demeure
 pour demander cette affiliation.
 
-Cette affiliation prend effet à compter du jour où le ou les intéressés ont
-rempli les conditions d'affiliation. L'organisme assureur informe le chef du
-service départemental de l'inspection du travail, de l'emploi et de la politique
-sociale agricoles de cette affiliation.
-
 A défaut de réponse de l'intéressé dans le délai d'un mois à cette mise en
 demeure, l'affiliation d'office de la ou des personnes concernées prend effet à
 compter du jour mentionné à l'alinéa précédent.

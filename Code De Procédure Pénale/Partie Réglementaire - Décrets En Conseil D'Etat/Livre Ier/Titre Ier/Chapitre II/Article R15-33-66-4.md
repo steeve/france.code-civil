@@ -1,28 +1,25 @@
 Article R15-33-66-4
 ----
-I.-Conformément à l'article 48-1, la durée de conservation des informations et
-des données à caractère personnel enregistrées dans le cadre d'une procédure
-pénale est de dix ans à compter de leur dernière mise à jour enregistrée ; cette
-durée est portée à :
+Le ministère de la justice est autorisé à mettre en œuvre un traitement
+automatisé de données à caractère personnel dénommé " Cassiopée ", comprenant
+l'application dite " bureau d'ordre national automatisé des procédures
+judiciaires " prévue à l'article 48-1.
 
--vingt ans lorsque la personne a été condamnée à une peine criminelle ou lorsque
-la procédure porte sur une infraction à laquelle s'applique le délai de
-prescription de l'action publique prévu au troisième alinéa de l'article 7 et au
-deuxième alinéa des articles 706-25-1 et 706-31 ;
+Ce traitement a pour objet l'enregistrement d'informations et de données à
+caractère personnel relatives aux procédures judiciaires au sein des tribunaux
+de grande instance, afin de faciliter la gestion et le suivi de ces procédures
+par les magistrats, les greffiers et les personnes habilitées qui en ont la
+charge, de faciliter la connaissance réciproque des procédures entre ces
+juridictions et d'améliorer ainsi l'harmonisation, la qualité et le délai du
+traitement des procédures, ainsi que, dans les affaires pénales, l'information
+des victimes.
 
--trente ans lorsque la procédure porte sur une infraction à laquelle s'applique
-le délai de prescription de l'action publique prévu au premier alinéa des
-articles 706-25-1 et 706-31.
+Les procédures judiciaires concernées sont les procédures pénales, les
+procédures d'assistance éducative et les procédures civiles et commerciales
+enregistrées par les parquets.
 
-II.-La durée de conservation des informations et des données à caractère
-personnel enregistrées dans le cadre des autres procédures, mentionnées à
-l'article R. 15-33-66-1, est, en application de l' article 3-1 de la loi n°
-91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution, de
-dix ans à compter de la date à laquelle la décision a acquis force exécutoire.
+Le traitement a également pour objet, avec les mêmes finalités, les procédures
+autres que pénales relevant du juge des libertés et de la détention.
 
-Toutefois, cette durée court à compter des vingt et un ans de la personne
-concernée ou du dernier enfant de sa fratrie lorsque les données sont
-enregistrées dans le cadre d'une procédure d'assistance éducative ou d'une
-mesure judiciaire d'aide à la gestion du budget familial. Elle court à compter
-des vingt et un ans de la personne concernée lorsqu'elles ont été enregistrées
-dans le cadre d'une mesure de protection judiciaire des jeunes majeurs.
+Il peut enfin avoir pour objet l'exploitation des informations recueillies à des
+fins de recherches statistiques.

@@ -84,15 +84,11 @@ employés de l'absence d'équipement mentionné à l'article R. 121-3, au sein d
 l'entité où ils exercent leurs fonctions lorsque celle-ci livre à d'autres
 établissements des pièces en euros en vue de leur délivrance au public ;
 
-IV.-Les personnes morales peuvent être déclarées responsables pénalement dans
-les conditions prévues à l'article 121-2 du code pénal des infractions définies
-aux I, II et III du présent article. Elles encourent alors les peines suivantes
-:
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 du code pénal ;
-
-2° La confiscation de la chose qui a servi à commettre l'infraction ou de la
-chose qui en est le produit.
+IV.-Les personnes morales déclarées responsables pénalement, dans les conditions
+prévues par l'article 121-2 du code pénal, des infractions définies aux I, II et
+III du présent article encourent, outre l'amende suivant les modalités prévues
+par l'article 131-41 du code pénal, la peine de confiscation de la chose qui a
+servi à commettre l'infraction ou de la chose qui en est le produit.
 
 V.-La récidive des contraventions prévues au présent article est réprimée
 conformément aux articles 132-11 et 132-15 du code pénal.

@@ -1,6 +1,6 @@
 Article R216-12
 ----
-I. - Est puni de l'amende prévue pour la contravention de la 5e classe :
+I.-Est puni de l'amende prévue pour la contravention de la 5e classe :
 
 1° Le fait, lorsqu'une déclaration est requise pour un ouvrage, une
 installation, un travail ou une activité, d'exploiter un ouvrage ou une
@@ -65,15 +65,12 @@ III de l'article L. 214-6 ;
 modalités de répartition prescrites par les arrêtés pris en application des
 articles R. 214-24, R. 214-31-2 ou R. 214-31-3.
 
-II. - Les personnes physiques encourent également la peine complémentaire de
+II.-Les personnes physiques encourent également la peine complémentaire de
 confiscation de la chose qui a servi ou était destinée à commettre l'infraction
 ou de la chose qui en est le produit.
 
-III. - Les personnes morales reconnues pénalement responsables, dans les
+III.-Les personnes morales déclarées responsables pénalement, dans les
 conditions prévues à l'article 121-2 du code pénal, des infractions définies au
-I encourent les peines suivantes :
-
-1° L'amende dans les conditions prévues à l'article 131-41 du même code ;
-
-2° La confiscation de la chose qui a servi ou était destinée à commettre
-l'infraction ou de la chose qui en est le produit.
+I encourent, outre l'amende suivant les modalités prévues par l'article 131-41
+du code pénal, la peine de confiscation de la chose qui a servi ou était
+destinée à commettre l'infraction ou de la chose qui en est le produit.

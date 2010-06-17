@@ -20,8 +20,3 @@ auront participé à ces manifestations ;
 6° Ceux qui auront réalisé des enregistrements d'images ou de données dans le
 champ du spectre visible au-dessus du territoire national sans avoir souscrit
 une déclaration dans les délais et conditions prévus par l'article D. 133-10.
-
-Les personnes morales peuvent être déclarées responsables pénalement, dans les
-conditions prévues par l'article 121-2 du code pénal, des contraventions prévues
-au présent article. La peine encourue par les personnes morales est l'amende,
-selon les modalités prévues par l'article 131-41 du code pénal.

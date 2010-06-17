@@ -13,10 +13,3 @@ publique des ordures, déchets, matériaux ou tout autre objet de quelque nature
 qu'il soit, en vue de leur enlèvement par le service de collecte, sans respecter
 les conditions fixées par l'autorité administrative compétente, notamment en
 matière de jours et d'horaires de collecte ou de tri des ordures.
-
-Les personnes morales peuvent être déclarées responsables pénalement, dans les
-conditions prévues par l'article 121-2, des infractions définies au présent
-article.
-
-La peine encourue par les personnes morales est l'amende, suivant les modalités
-prévues par l'article 131-41.

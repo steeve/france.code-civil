@@ -26,15 +26,10 @@ l'infraction ou de la chose qui en est le produit ;
 
 4° Le travail d'intérêt général pour une durée de vingt à cent vingt heures.
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les
-conditions prévues par l'article 121-2, des infractions définies au présent
-article.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi ou était destinée à commettre
+Les personnes morales déclarées responsables pénalement, dans les conditions
+prévues par l'article 121-2, des infractions définies au présent article
+encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la
+peine de confiscation de la chose qui a servi ou était destinée à commettre
 l'infraction ou de la chose qui en est le produit.
 
 La récidive des contraventions prévues au présent article est reprimée

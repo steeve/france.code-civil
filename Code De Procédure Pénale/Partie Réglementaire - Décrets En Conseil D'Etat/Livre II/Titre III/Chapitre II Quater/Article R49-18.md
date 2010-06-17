@@ -10,8 +10,7 @@ l'amende forfaitaire majorée.
 
 Si l'officier du ministère public classe sans suite la contravention, il notifie
 sa décision à l'auteur de la requête en exonération en l'informant que la
-consignation lui sera remboursée s'il en fait la demande au comptable du Trésor
-public.
+consignation lui sera remboursée.
 
 En cas de condamnation à une peine d'amende ou lorsque le prévenu est déclaré
 redevable de l'amende en application de l'article L. 121-3 du code de la route,
@@ -20,8 +19,7 @@ restant dû après déduction du montant de la consignation.
 
 En cas de décision de relaxe et s'il n'est pas fait application de l'article L.
 121-3 du code de la route, la juridiction ordonne le remboursement de la
-consignation au prévenu si celui-ci en fait la demande au comptable du Trésor
-public.
+consignation au prévenu.
 
 Dans les cas prévus par les troisième et cinquième alinéas, un formulaire
 spécifique est alors adressé à la personne pour lui permettre d'être remboursée

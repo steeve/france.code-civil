@@ -1,16 +1,22 @@
 Article R131-13
 ----
 Le juge de l'application des peines procède à toutes diligences qu'il juge
-utiles. Il consulte le conseil départemental de prévention, qui a trois mois
-pour donner son avis. Il communique ensuite la demande d'habilitation au
-président du tribunal.
+utiles. Il peut, notamment, consulter le conseil départemental de prévention de
+la délinquance, d'aide aux victimes et de lutte contre la drogue, les dérives
+sectaires et les violences faites aux femmes qui dispose alors d'un délai de
+deux mois pour donner son avis. Il communique ensuite au procureur de la
+République la demande d'habilitation et les éléments d'information recueillis
+par lui.
 
-L'assemblée générale des magistrats du siège et du parquet du tribunal statue
-sur la demande d'habilitation, après rapport du juge de l'application des peines
-et à la majorité des membres présents.
+Au vu de l'avis du procureur de la République ou un mois au plus tôt après lui
+avoir communiqué la demande d'habilitation, le juge de l'application des peines
+statue sur celle-ci.
 
-La commission restreinte de l'assemblée générale des magistrats du siège et du
-parquet, dans les tribunaux où sa constitution est obligatoire, exerce les
-attributions mentionnées à l'alinéa précédent.
+Le juge de l'application des peines communique sa décision d'habilitation au
+président du tribunal de grande instance, au procureur de la République et au
+conseil départemental mentionné au premier alinéa. Il informe de cette décision
+l'assemblée générale des magistrats du siège et du parquet du tribunal ou, dans
+les tribunaux où sa constitution est obligatoire, la commission restreinte, lors
+de sa prochaine réunion.
 
-L'habilitation accordée est valable pour une durée de trois ans.
+L'habilitation accordée est valable pour une durée de cinq ans.

@@ -23,8 +23,3 @@ faire réaliser un contrôle technique par un contrôleur agréé ou un prestata
 visé au II de l'article L. 323-1 ne possédant pas la qualification requise pour
 ce contrôle est puni de l'amende prévue pour les contraventions de la cinquième
 classe.
-
-V.-Les personnes morales peuvent être déclarées responsables pénalement, dans
-les conditions prévues à l'article 121-2 du code pénal, des infractions définies
-au présent article. La peine encourue par les personnes morales est l'amende,
-selon les modalités prévues par l'article 131-41 du code pénal.

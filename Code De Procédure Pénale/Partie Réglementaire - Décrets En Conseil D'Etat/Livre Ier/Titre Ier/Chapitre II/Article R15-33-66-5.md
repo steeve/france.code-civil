@@ -1,24 +1,16 @@
 Article R15-33-66-5
 ----
-I.-Peuvent directement accéder aux informations et aux données à caractère
-personnel enregistrées dans le cadre des procédures pénales, pour les nécessités
-liées au seul traitement des infractions ou des procédures dont ils sont saisis,
-les magistrats suivants, ainsi que les agents du greffe et les personnes
-habilitées pour les assister en vertu de l'article R. 123-14 du code de
-l'organisation judiciaire :
+Le traitement Cassiopée est placé sous le contrôle d'un magistrat du parquet
+hors hiérarchie, nommé pour trois ans par arrêté du garde des sceaux, ministre
+de la justice, et assisté par un comité composé de trois membres nommés dans les
+mêmes conditions.
 
--les procureurs de la République et les magistrats du siège exerçant des
-fonctions pénales de l'ensemble des juridictions ;
+Ce magistrat et, à sa demande, les membres du comité disposent d'un accès
+permanent au traitement et au lieu où se trouve celui-ci.
 
--les procureurs de la République et les magistrats du siège exerçant des
-fonctions pénales des juridictions mentionnées aux articles 704, 706-2, 706-17,
-706-75, 706-107 et 706-108 pour le traitement de l'ensemble des procédures
-susceptibles de relever de leur compétence territoriale élargie ;
+Ce magistrat peut ordonner toutes mesures nécessaires à l'exercice de son
+contrôle, telles que saisies ou copies d'informations, ainsi que l'effacement
+d'enregistrements illicites.
 
--les procureurs généraux pour le traitement des procédures en application des
-dispositions des articles 35 et 37.
-
-II.-Peuvent directement accéder aux autres informations et données à caractère
-personnel enregistrées dans le traitement, pour les nécessités des seules
-procédures dont ils sont saisis, les magistrats et les agents des greffes des
-tribunaux de grande instance.
+L'autorité gestionnaire du traitement lui adresse un rapport annuel d'activité
+ainsi que, sur sa demande, toutes informations relatives au traitement.

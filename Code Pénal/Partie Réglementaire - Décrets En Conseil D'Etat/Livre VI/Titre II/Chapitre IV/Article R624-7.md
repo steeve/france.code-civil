@@ -11,10 +11,3 @@ classe.
 
 Le fait de faciliter, par aide ou assistance, la commission de la contravention
 prévue au présent article est puni des mêmes peines.
-
-Les personnes morales peuvent être déclarées responsables pénalement, dans les
-conditions prévues par l'article 121-2, de l'infraction définie au présent
-article.
-
-La peine encourue par les personnes morales est l'amende, suivant les modalités
-prévues par l'article 131-41.
