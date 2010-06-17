@@ -1,7 +1,10 @@
 Article R325-3
 ----
-Le bénéfice du régime local en qualité d'ayant droit tel que défini aux articles
-L. 161-14 et L. 313-3 au cours des cinq années précédant le départ en retraite
-de l'ouvrant droit peut compléter ou remplacer la période de vingt trimestres
-d'assurance au sens de la législation applicable au régime général d'assurance
-vieillesse exigés aux 9° et 10° du II de l'article L. 325-1.
+La durée pendant laquelle un ayant droit, tel que défini aux articles L. 161-14
+et L. 313-3, a bénéficié du régime local peut compléter ou remplacer les
+périodes d'assurance exigées aux 9°, 10° et 11° du II de l'article L. 325-1 à
+condition, soit d'être incluse dans la période des cinq années précédant la date
+de départ en retraite ou de cessation d'activité de l'assuré, soit de totaliser
+dix années au moins et d'être incluse dans la période de quinze années précédant
+cette date, soit de totaliser quinze années au moins avant cette date. Cette
+durée est prise en compte qu'elle ait été continue ou discontinue.

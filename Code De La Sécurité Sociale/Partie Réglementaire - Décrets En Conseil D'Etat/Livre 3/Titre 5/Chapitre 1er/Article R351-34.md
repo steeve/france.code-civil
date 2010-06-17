@@ -15,8 +15,8 @@ La caisse régionale d'assurance vieillesse de Strasbourg a compétence exclusiv
 pour recevoir la demande, procéder à l'étude et à la liquidation des droits et
 servir la pension lorsque l'assuré réside dans les départements du Haut-Rhin, du
 Bas-Rhin ou de la Moselle ou lorsque, résidant hors de ces départements, le
-bénéficiaire relève du régime local d'assurance maladie en vertu des 9° et 10°
-du II de l'article L. 325-1.
+bénéficiaire relève du régime local d'assurance maladie en vertu des 9°, 10° et
+11° du II de l'article L. 325-1.
 
 Il est donné au requérant récépissé de cette demande et des pièces qui
 l'accompagnent.
