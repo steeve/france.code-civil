@@ -1,13 +1,12 @@
 Article A322-84
 ----
-A l'issue d'une formation adaptée, le directeur de plongée peut autoriser les
-plongeurs majeurs de niveau 1 à plonger en équipe dans une zone n'excédant pas
-10 mètres, dans les conditions suivantes : ― cette zone de plongée est dépourvue
-de courant et présente une visibilité verticale égale à la profondeur ; ― aucun
-point de cette zone ne doit être éloigné de plus de 30 mètres d'un point fixe
-d'appui ; ― cette zone est surveillée, en surface, par deux personnes possédant
-au minimum, l'une, le niveau 3 d'encadrement et, l'autre, le niveau 4 de
-plongeur, prêtes à intervenir à tout moment à l'aide d'une embarcation ; ― l'un
-des surveillants se tient en permanence prêt à plonger ; ― l'obligation
-d'embarcation n'est pas applicable aux fosses de plongée ; ― un même groupe de
-deux surveillants ne peut prendre en charge plus de cinq équipes.
+Une palanquée constituée de plongeurs justifiant des aptitudes PE-3 peut évoluer
+dans l'espace de 0 à 40 mètres, sous la responsabilité d'un guide de palanquée.
+En cours de formation technique conduisant à un brevet justifiant des aptitudes
+PE-4 mentionné à l'annexe III-14 b, la palanquée peut évoluer dans l'espace de 0
+à 60 mètres, sous la responsabilité d'un enseignant de niveau 4 (E4) mentionné à
+l'annexe III-15 b.
+
+Si la palanquée est constituée de plongeurs justifiant des aptitudes PE-1 à PE-4
+différentes, celle-ci n'est autorisée à évoluer que dans l'espace d'évolution du
+plongeur justifiant des aptitudes les plus faibles.

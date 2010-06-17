@@ -13,6 +13,6 @@ en immersion depuis la surface, lorsque la plongée se déroule en milieu nature
 au départ d'une embarcation, ainsi que, éventuellement, un aspirateur de
 mucosités. Ils ont en outre le matériel d'assistance suivant : ― une tablette de
 notation ; ― un jeu de tables permettant de vérifier ou de recalculer les
-procédures de remontées des plongées réalisées au-delà de l'espace proche. Les
-matériels et équipements nautiques des plongeurs sont conformes à la
+procédures de remontées des plongées réalisées au-delà de la profondeur de 6
+mètres. Les matériels et équipements nautiques des plongeurs sont conformes à la
 réglementation en vigueur et correctement entretenus.
