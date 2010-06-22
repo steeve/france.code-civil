@@ -19,3 +19,10 @@ dans un délai de quinze jours.
 
 Le mandat donné pour une assemblée vaut pour les assemblées successives
 convoquées avec le même ordre du jour.
+
+Il est révocable dans les mêmes formes que celles requises pour la désignation
+du mandataire.
+
+Les sociétés dont les actions sont admises aux négociations sur un marché
+réglementé permettent la notification de la désignation et de la révocation du
+mandataire par voie électronique.

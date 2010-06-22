@@ -1,30 +1,48 @@
 Article R225-73
 ----
-I. - Les sociétés dont les actions sont admises aux négociations sur un marché
-réglementé ou dont toutes les actions ne revêtent pas la forme nominative sont
-tenues, avant la réunion de l'assemblée des actionnaires, de publier au Bulletin
-des annonces légales obligatoires un avis contenant les indications suivantes :
+I.-Lorsque les actions de la société sont admises aux négociations sur un marché
+réglementé ou ne revêtent pas toutes la forme nominative, la convocation
+mentionnée à l'article R. 225-66 est précédée d'un avis publié au Bulletin des
+annonces légales obligatoires, trente-cinq jours au moins avant la tenue de
+l'assemblée générale. Ce délai est ramené à quinze jours lorsque l'assemblée
+générale est convoquée en application des dispositions de l'article L. 233-32.
+L'avis mentionné à l'alinéa précédent comporte, outre les mentions requises au
+premier alinéa de l'article R. 225-66, les informations suivantes :
 
-1° La dénomination sociale, suivie le cas échéant de son sigle ;
+1° Une description claire et précise des procédures que les actionnaires doivent
+suivre pour participer et voter à l'assemblée, en particulier des modalités de
+vote par procuration, par correspondance ou par voie électronique ;
 
-2° La forme de la société ;
+2° Une description claire et précise des modalités d'exercice des facultés
+définies au deuxième alinéa de l'article L. 225-105 et au troisième alinéa de
+l'article L. 225-108, en particulier l'adresse postale et, le cas échéant,
+l'adresse électronique où peuvent être adressés les projets de résolutions et
+les questions écrites, le délai imparti pour leur transmission, la liste des
+pièces justificatives devant être adressées conformément aux dispositions de la
+présente section ;
 
-3° Le montant du capital social ;
+3° Sauf dans les cas où la société adresse à tous ses actionnaires un formulaire
+de vote par procuration ou par correspondance ou le document unique prévu par le
+troisième alinéa de l'article R. 225-76, les lieux et les conditions, notamment
+de délais, dans lesquels ceux-ci peuvent être obtenus et retournés ;
 
-4° L'adresse du siège social ;
+4° L'adresse du site internet prévu à l'article R. 210-20 sur lequel sont
+diffusées les informations mentionnées à l'article R. 225-73-1 et, le cas
+échéant, celle du site internet prévu à l'article R. 225-61 ;
 
-5° L'ordre du jour de l'assemblée ;
+5° La date d'enregistrement définie à l'article R. 225-85, en précisant que
+seuls pourront participer à l'assemblée les actionnaires remplissant à cette
+date les conditions prévues par cet article ;
 
 6° Le texte des projets de résolution qui seront présentés à l'assemblée par le
 conseil d'administration ou le directoire, selon le cas ;
 
-7° Sauf dans les cas où la société adresse à tous ses actionnaires un formulaire
-de vote par correspondance, les lieux et les conditions dans lesquels peuvent
-être obtenus ces formulaires ;
+7° Le lieu et la date de mise à disposition du texte intégral :
 
-8° L'existence et l'adresse du site mentionné à l'article R. 225-61, ainsi que,
-le cas échéant, l'adresse électronique où peuvent être envoyées les questions
-écrites.
+a) Des documents destinés à être présentés à l'assemblée, conformément notamment
+aux articles L. 225-115 et R. 225-83 ;
+
+b) Des projets de résolution présentés, le cas échéant, par les actionnaires ;
 
 Lorsque la société a émis des actions à dividende prioritaire sans droit de vote
 ou des valeurs mobilières donnant accès au capital, les avis publiés mentionnent
@@ -33,7 +51,7 @@ l'approbation, selon le cas, de l'assemblée spéciale des titulaires d'actions 
 dividende prioritaire sans droit de vote ou des assemblées des masses prévues à
 l'article L. 228-103.
 
-II. - Les demandes d'inscription de projets de résolution à l'ordre du jour sont
+II.-Les demandes d'inscription de projets de résolution à l'ordre du jour sont
 envoyées à compter de la publication de l'avis prévu au I et jusqu'à vingt-cinq
 jours avant l'assemblée générale. Toutefois, ces demandes sont envoyées :
 
@@ -45,8 +63,3 @@ l'assemblée est convoquée en application des dispositions de l'article L.
 233-32.
 
 L'avis mentionne le délai imparti pour l'envoi des demandes.
-
-III. - L'assemblée ne peut être tenue moins de trente-cinq jours après la
-publication de l'avis prévu au I. Toutefois, lorsque l'assemblée est convoquée
-en application des dispositions de l'article L. 233-32, ce délai est ramené à
-quinze jours.
