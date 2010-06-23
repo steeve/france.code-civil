@@ -10,8 +10,9 @@ GROUPEMENTS DE GENDARMERIE DEPARTEMENTALE
 
 Ile-de-France.
 
-Essonne, Hauts-de-Seine, Paris, Seine-et-Marne, Seine-Saint-Denis, Val-d'Oise,
-Val-de-Marne, Yvelines.
+Groupement de gendarmerie interdépartemental de Paris (Paris, Hauts-de-Seine,
+Seine-Saint-Denis et Val-de-Marne), Essonne, Seine-et-Marne, Val-d'Oise,
+Yvelines.
 
 Alsace.
 

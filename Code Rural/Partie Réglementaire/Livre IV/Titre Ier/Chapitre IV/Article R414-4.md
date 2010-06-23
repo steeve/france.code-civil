@@ -1,31 +1,11 @@
 Article R414-4
 ----
-Les dispositions particulières ci-après sont applicables à Paris et dans les
-départements des Hauts-de- Seine, de la Seine-Saint-Denis et du Val-de-Marne.
-
-Si, à Paris ou dans un de ces départements, il ne peut être procédé à l'élection
-de bailleurs et de preneurs conformément aux dispositions réglementaires
-applicables dans les autres départements, des bailleurs et des preneurs pourront
-être désignés directement par le préfet de département sur proposition des
-organisations de preneurs et de bailleurs les plus représentatives au point de
-vue national, parmi les preneurs et les bailleurs de la circonscription et, à
-défaut, des circonscriptions voisines. Les propositions des organisations
-devront comporter un nombre de noms double de celui des sièges à pourvoir.
-
-Le préfet de département ou son représentant préside les commissions ; les
-remplaçants des présidents des organisations représentées dans les commissions
-sont les mêmes.
-
-A la demande conjointe des directeurs départementaux de l'agriculture intéressés
-ou à la demande de l'ingénieur général des ponts, des eaux et des forêts chargé
-de la région d'Ile-de-France, les commissions peuvent tenir des réunions
-communes auxquelles sont appelés à siéger tous les membres de chaque commission
-; les décisions concernant chaque département sont toutefois prises par les
-seuls bailleurs et preneurs ayant voix délibérative dans la commission
-constituée pour le département.
-
-L'ingénieur général des ponts, des eaux et des forêts chargé de la région
-d'Ile-de-France assiste aux réunions communes des commissions ; il désigne la
-direction départementale chargée du secrétariat des réunions en liaison avec les
-autres directions intéressées ; à défaut de désignation, le secrétariat est
-assuré par la direction de l'agriculture de Paris.
+Dans la région d'Ile-de-France, les compétences des commissions départementales
+des départements de l'Essonne, de Paris, des Hauts-de-Seine, de la
+Seine-Saint-Denis, du Val-de-Marne, du Val-d'Oise et des Yvelines sont exercées
+par une commission consultative interdépartementale des baux ruraux. Sa
+composition est établie par décret pris sur le rapport du ministre chargé de
+l'agriculture, par référence aux articles R. 414-1 à R. 414-3. Elle est présidée
+par le préfet de la région d'Ile-de-France, préfet de Paris, ou son
+représentant. Son secrétariat est assuré par la direction régionale et
+interdépartementale de l'alimentation, de l'agriculture et de la forêt.

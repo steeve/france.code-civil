@@ -9,6 +9,6 @@ portant rejet des demandes d'attribution du pécule présentées par des ayants
 cause de prisonniers de guerre décédés en captivité ou après rapatriement, ne
 remplissant pas les conditions exigées.
 
-La même délégation est donnée au fonctionnaire de la préfecture de Paris,
-actuellement chargé de la direction des services de la direction
-interdépartementale de Paris.
+La même délégation est donnée au fonctionnaire de la préfecture de la région
+d'Ile-de-France, préfecture de Paris, actuellement chargé de la direction des
+services de la direction interdépartementale de Paris.

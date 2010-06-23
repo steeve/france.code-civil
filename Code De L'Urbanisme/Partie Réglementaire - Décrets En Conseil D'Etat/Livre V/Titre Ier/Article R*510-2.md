@@ -10,7 +10,7 @@ publié au recueil des actes administratifs de la préfecture ;
 
 2° Par le préfet de la région d'Ile-de-France dans les autres cas. Sa décision
 fait l'objet d'un arrêté publié au recueil des actes administratifs de la
-préfecture de la région d'Ile-de-France.
+préfecture de la région d'Ile-de-France, préfecture de Paris.
 
 Tout refus d'agrément ou agrément sous condition doit être motivé.
 

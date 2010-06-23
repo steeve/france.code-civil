@@ -17,8 +17,8 @@ Seine-Saint-Denis ou des Hauts-de-Seine ou son représentant ;
 siège dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis ou du
 Val-de-Marne ou son représentant ;
 
-4° Le directeur régional et interdépartemental de l'agriculture et de la forêt
-d'Ile-de-France ou son représentant ;
+4° Le directeur régional et interdépartemental de l'alimentation, de
+l'agriculture et de la forêt d'Ile-de-France ou son représentant ;
 
 5° Le trésorier-payeur général de la région d'Ile-de-France ou son représentant
 ;

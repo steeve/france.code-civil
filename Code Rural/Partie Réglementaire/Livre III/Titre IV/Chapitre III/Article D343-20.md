@@ -22,3 +22,11 @@ sont fixées par arrêté du préfet de département.
 
 Il comprend notamment un représentant de la région et un représentant du
 département.
+
+II. - Dans la région d'Ile-de-France, les compétences des comités départementaux
+des départements de l'Essonne, de Paris, des Hauts-de-Seine, de la
+Seine-Saint-Denis, du Val-de-Marne, du Val-d'Oise sont exercées par un comité
+interdépartemental à l'installation.
+
+La composition et les modalités d'organisation et de fonctionnement de ce comité
+sont fixées par arrêté du préfet de la région d'Ile-de-France, préfet de Paris.

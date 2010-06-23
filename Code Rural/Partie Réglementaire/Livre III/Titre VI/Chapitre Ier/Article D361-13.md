@@ -34,3 +34,9 @@ En cas de partage égal des voix, la voix du président est prépondérante.
 Le comité départemental d'expertise se réunit sur convocation du préfet. Son
 secrétariat est assuré par les soins du directeur départemental de l'agriculture
 et de la forêt.
+
+Dans la région d'Ile-de-France, les compétences des comités techniques des
+départements de Paris et des Hauts-de-Seine, du département de la
+Seine-Saint-Denis et de celui du Val-de-Marne sont exercées respectivement par
+les comités départementaux d'expertise des Yvelines, du Val-d'Oise et de
+l'Essonne.
