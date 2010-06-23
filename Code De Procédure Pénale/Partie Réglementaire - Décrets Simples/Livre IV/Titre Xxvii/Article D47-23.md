@@ -13,3 +13,6 @@ examen ou du prévenu et de son avocat, dire qu'il n'y pas lieu de soumettre
 l'intéressé à une expertise, par ordonnance motivée qui peut être prise en même
 temps que l'ordonnance de règlement ou par jugement motivé qui peut être joint
 au jugement sur le fond.
+
+Les dispositions du présent article sont également applicables en matière
+contraventionnelle.

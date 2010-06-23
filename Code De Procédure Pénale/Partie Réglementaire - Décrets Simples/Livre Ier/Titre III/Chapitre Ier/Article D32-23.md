@@ -7,4 +7,4 @@ d'instruction ordonnant le maintien de la mesure.
 
 Dans ce cas, la durée totale de l'assignation à résidence, compte tenu de celle
 exécutée au cours de l'instruction, ne peut excéder la durée de deux ans prévue
-par l'article 147.
+par l'article 142-7.
