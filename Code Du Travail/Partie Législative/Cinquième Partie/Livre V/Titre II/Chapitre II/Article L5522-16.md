@@ -8,4 +8,4 @@ de celles qui concernent la tarification des risques d'accidents du travail et
 de maladies professionnelles.
 
 Toutefois, cette durée est portée à trente mois pour les bénéficiaires du revenu
-minimum d'insertion.
+de solidarité active.
