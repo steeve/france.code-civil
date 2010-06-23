@@ -458,12 +458,12 @@ Cantons d'Acheux-en-Amiénois, Bernaville, Domart-en-Ponthieu et Doullens. (3)]
 Cantons d'Ailly-sur-Noye, Montdidier, Moreuil, Rosières-en-Santerre et Roye.
 (3)]
 
-[Péronne (6)]
+[Péronne (16)]
 
 Cantons d'Albert, Bray-sur-Somme, Chaulnes, Combles, Ham, Nesle, Péronne et
 Roisel.
 
-[Péronne (5)]
+[Péronne (15)]
 
 
 Péronne
@@ -1019,7 +1019,7 @@ Bourges
 
 [Bourges
 
-Cantons de Baugy, Bourges 1er canton, Bourges 2° canton, Bourges 3e canton,
+Cantons de Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton,
 Bourges 4e canton, Bourges 5e canton, Chârost, Les Aix d'Angillon, Levet,
 Mehun-sur-Yèvre, Saint-Doulchard et Saint-Martin-d'Auxigny. (11)]
 
@@ -1575,7 +1575,7 @@ Saint-Léger-sous-Beuvray. (11)]
 
 [Chalon-sur-Saône
 
-Cantons de Buxy, Chagny, Chalon-sur-S aône-Centre, Chalon-sur-Saône-Nord,
+Cantons de Buxy, Chagny, Chalon-sur-Saône-Centre, Chalon-sur-Saône-Nord,
 Chalon-sur-Saône-Ouest, Chalon-sur-Saône-Sud, Givry, Saint-Germain-du-Plain,
 Saint-Martin-en-Bresse, Sennecey-le-Grand et Verdun-sur-le-Doubs. (3)]
 
@@ -1814,7 +1814,7 @@ Cayenne
 
 Cayenne
 
-Cantons d'Approuague-Kaw, Cayenne 1, r canton Nord-Ouest, Cayenne 2e canton
+Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, Cayenne 2e canton
 Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e
 canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana,
 Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura,
@@ -2868,7 +2868,7 @@ Romorantin-Lanthenay-Nord, Romorantin-Lanthenay-Sud, Salbris et Selles-sur-Cher.
 [Vendôme
 
 Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré,
-Savigny-sur-Braye, Selommes, Vendôme 1 ` t canton et Vendôme 2e canton. (3)]
+Savigny-sur-Braye, Selommes, Vendôme 1er canton et Vendôme 2e canton. (3)]
 
 Cour d'appel de Paris
 
@@ -3981,8 +3981,8 @@ Cantons de Cérilly, Commentry, Domérat-Montluçon-Nord-Ouest, Hérisson, Hurie
 Marcillat-en-Combraille, Montluçon-Est 4e canton, Montluçon-Nord-Est 1er canton,
 Montluçon-Ouest 2e canton, Montluçon-Sud 3e canton et Montmarault.
 
-[Moulins ]
 
+Moulins
 
 Moulins
 
@@ -4742,3 +4742,7 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 (13) applicable jusqu'au 30 juin 2009.
 
 (14) applicable à compter du 1er juillet 2009.
+
+(15) Applicable jusqu'au 30 juin 2010.
+
+(16) Applicable à compter du 1er juillet 2010.
