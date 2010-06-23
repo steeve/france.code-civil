@@ -2,14 +2,13 @@ Article D311-18-1
 ----
 Les ressortissants étrangers qui bénéficient de la délivrance d'un premier titre
 de séjour, de son renouvellement ou de la délivrance d'un duplicata versent, au
-profit de l' Office français de l'immigration et de l'intégration ou de
-l'établissement public appelé à lui succéder, les taxes mentionnées aux articles
-L. 311-13 et L. 311-14 selon les modalités suivantes :
+profit de l'Office français de l'immigration et de l'intégration , les taxes
+mentionnées aux articles L. 311-13 et L. 311-14 selon les modalités suivantes :
 
 1. Pour la délivrance d'un premier titre de séjour, le montant de la taxe est
 fixé comme suit :
 
-a) 300 euros pour la délivrance d'un titre figurant parmi ceux mentionnés aux 1°
+a) 340 euros pour la délivrance d'un titre figurant parmi ceux mentionnés aux 1°
 à 3° de l'article L. 311-2, à l'exception des titres mentionnés à la première
 phrase du deuxième alinéa du A de l'article L. 311-13 et, jusqu'au 31 décembre
 2011, des titres délivrés aux conjoints d'étrangers dont la demande de
@@ -32,7 +31,7 @@ autorisée avant le 28 décembre 2008 et ayant acquitté à ce titre la redevanc
 prévue à l'article R. 421-29.
 
 2. Pour le renouvellement d'un titre de séjour ou pour la délivrance d'un
-duplicata, le montant de la taxe est fixé à 70 euros, à l'exception :
+duplicata, le montant de la taxe est fixé à 110 euros, à l'exception :
 
 a) Du renouvellement ou de la délivrance d'un duplicata du titre mentionné aux
 articles L. 313-7-1, au 9° de l'article L. 313-11 et au 3° de l'article L.
