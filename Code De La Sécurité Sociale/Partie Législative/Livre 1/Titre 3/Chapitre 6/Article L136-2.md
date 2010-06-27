@@ -15,7 +15,7 @@ chômage, il est opéré une réduction représentative de frais professionnels
 forfaitairement fixée à 3 % de ce montant.
 
 Elle est également assise sur tous les avantages en nature ou en argent accordés
-aux intéressés en sus des revenus visés au premier alinéa.
+aux intérefssés en sus des revenus visés au premier alinéa.
 
 Pour l'application du présent article, les traitements, salaires et toutes
 sommes versées en contrepartie ou à l'occasion du travail sont évalués selon les
@@ -57,11 +57,12 @@ relative à l'indemnité des représentants au Parlement européen et aux indemn
 versées à ses membres par le Parlement européen ;
 
 c) La rémunération et les indemnités par jour de présence versées aux membres du
-Conseil économique et social en application de l'article 22 de l'ordonnance n°
-58-1360 du 29 décembre 1958 portant loi organique relative au Conseil économique
-et social ainsi que l'indemnité versée au Président et aux membres du Conseil
-constitutionnel en application de l'article 6 de l'ordonnance n° 58-1067 du 7
-novembre 1958 portant loi organique sur le Conseil constitutionnel ;
+Conseil économique, social et environnemental en application de l'article 22 de
+l'ordonnance n° 58-1360 du 29 décembre 1958 portant loi organique relative au
+Conseil économique et social (1) ainsi que l'indemnité versée au Président et
+aux membres du Conseil constitutionnel en application de l'article 6 de
+l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le Conseil
+constitutionnel ;
 
 d) Les indemnités versées par les collectivités locales, leurs groupements ou
 leurs établissements publics aux élus municipaux, cantonaux et régionaux ;
