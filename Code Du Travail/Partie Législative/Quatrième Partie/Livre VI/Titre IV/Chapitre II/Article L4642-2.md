@@ -14,4 +14,4 @@ niveau national ;
 En outre, participent au conseil d'administration, à titre consultatif, un
 représentant de chacune des commissions chargées des affaires sociales au
 Parlement, ainsi qu'un représentant de la section chargée des affaires sociales
-au Conseil économique et social.
+au Conseil économique, social et environnemental.

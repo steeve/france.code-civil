@@ -10,7 +10,8 @@ santé :
 
 3° Deux membres désignés par le président du Sénat ;
 
-4° Deux membres désignés par le président du Conseil économique et social.
+4° Deux membres désignés par le président du Conseil économique, social et
+environnemental.
 
 Les membres du collège sont nommés par décret du Président de la République. Le
 président du collège est nommé dans les mêmes conditions parmi ses membres.

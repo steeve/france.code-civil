@@ -2,7 +2,8 @@ Article L161-1
 ----
 Les régions de Guadeloupe, de Guyane, de Martinique et de La Réunion définissent
 les actions en matière de tourisme et de loisirs, après avis ou sur proposition
-des collectivités territoriales et du Conseil économique et social.
+des collectivités territoriales et du Conseil économique, social et
+environnemental.
 
 Elles peuvent confier à des agences, créées en application des dispositions de
 l'article L. 4433-2 du code général des collectivités territoriales, la mise en

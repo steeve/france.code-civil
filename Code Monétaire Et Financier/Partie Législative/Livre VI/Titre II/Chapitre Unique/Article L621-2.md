@@ -28,7 +28,7 @@ ainsi que de leur expérience en matière d'offre au public de titres financiers
 d'admission d'instruments financiers aux négociations sur un marché réglementé
 et d'investissement de l'épargne dans des instruments financiers, respectivement
 par le Président du Sénat, le Président de l'Assemblée nationale et le président
-du Conseil économique et social ;
+du Conseil économique, social et environnemental ;
 
 8° Six membres désignés, à raison de leur compétence financière et juridique
 ainsi que de leur expérience en matière d'offre au public de titres financiers,

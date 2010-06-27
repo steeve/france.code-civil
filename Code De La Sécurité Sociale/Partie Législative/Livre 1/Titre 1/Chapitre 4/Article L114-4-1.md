@@ -8,7 +8,7 @@ avec le respect de l'objectif national voté par le Parlement. Le comité est
 composé du secrétaire général de la Commission des comptes de la sécurité
 sociale, du directeur général de l'Institut national de la statistique et des
 études économiques et d'une personnalité qualifiée nommée par le président du
-Conseil économique et social.
+Conseil économique, social et environnemental.
 
 Ce comité est placé auprès de la Commission des comptes de la sécurité sociale.
 

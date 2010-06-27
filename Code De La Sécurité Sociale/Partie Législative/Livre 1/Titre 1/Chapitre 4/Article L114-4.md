@@ -5,8 +5,8 @@ mise en oeuvre des dispositions de l'article 5 de la loi n° 2003-775 du 21 aoû
 2003 précitée.
 
 La commission est composée du vice-président du Conseil d'Etat, président, du
-président du Conseil économique et social, du premier président de la Cour des
-comptes et du président du Conseil d'orientation des retraites.
+président du Conseil économique, social et environnemental, du premier président
+de la Cour des comptes et du président du Conseil d'orientation des retraites.
 
 La commission constate l'évolution respective des durées d'assurance ou de
 services nécessaires pour bénéficier d'une pension de retraite à taux plein ou
