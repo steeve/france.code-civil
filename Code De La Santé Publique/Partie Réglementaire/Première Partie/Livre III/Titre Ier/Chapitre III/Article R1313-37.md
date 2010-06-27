@@ -1,0 +1,7 @@
+Article R1313-37
+----
+L'agent comptable est nommé par arrêté des ministres chargés de l'agriculture,
+du budget, de la consommation, de l'environnement, de la santé, et du travail.
+
+Des comptables secondaires peuvent être désignés par le directeur général après
+avis de l'agent comptable et avec l'agrément du ministre chargé du budget.
