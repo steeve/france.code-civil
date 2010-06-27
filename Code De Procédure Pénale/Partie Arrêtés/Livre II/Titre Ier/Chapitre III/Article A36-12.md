@@ -74,12 +74,17 @@ Indre
 
 (Arr. 26 mai 2004, art. 2, 2°) Martinique
 
-400
+550
 
 
 Mayenne
 
 300
+
+
+Meurthe-et-Moselle
+
+600
 
 
 Nièvre
