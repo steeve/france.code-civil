@@ -9,7 +9,7 @@ a pris la décision attaquée ou a signé le contrat litigieux. Lorsque l'acte a
 dans le ressort duquel a son siège la première des autorités dénommées dans cet
 acte.
 
-En cas de recours préalable à celui qui a été introduit devant le tribunal
-administratif, la décision à retenir pour déterminer la compétence territoriale
-est celle qui a fait l'objet du recours administratif ou du pourvoi devant une
-juridiction incompétente.
+Sous les mêmes réserves en cas de recours préalable à celui qui a été introduit
+devant le tribunal administratif, la décision à retenir pour déterminer la
+compétence territoriale est celle qui a fait l'objet du recours administratif ou
+du pourvoi devant une juridiction incompétente.
