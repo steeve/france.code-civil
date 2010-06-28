@@ -1,6 +1,7 @@
 Article R1142-53
 ----
-La dotation globale prévue au septième alinéa de l'article L. 1142-23 est versée
-par la caisse primaire d'assurance maladie du lieu d'implantation de l'office,
-sous forme de versements mensuels, dans des conditions prévues par une
-convention conclue entre cette caisse et l'office.
+Les opérations financières et comptables sont effectuées conformément aux
+dispositions du décret n° 53-1227 du 10 décembre 1953 relatif à la
+réglementation comptable applicable aux établissements publics nationaux à
+caractère administratif et du décret n° 62-1587 du 29 décembre 1962 portant
+règlement général sur la comptabilité publique.
