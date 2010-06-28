@@ -10,9 +10,10 @@ chasse individuel ;
 3° Prélever un nombre d'animaux supérieur au maximum attribué par le plan de
 chasse individuel ;
 
-4° Ne pas munir d'un dispositif de marquage ou de pré-marquage un animal tué en
-application du plan de chasse individuel, sur le lieu même où il a été abattu ou
-retrouvé et préalablement à tout transport ;
+4° Ne pas munir d'un dispositif de marquage ou de pré-marquage conforme aux
+prescriptions des arrêtés pris en application de l'article R. 425-10 un animal
+tué en application du plan de chasse individuel, sur le lieu même où il a été
+abattu ou retrouvé et préalablement à tout transport ;
 
 5° Ne pas dater du jour de la capture le dispositif de marquage ou de
 pré-marquage préalablement à sa pose sur l'animal capturé.

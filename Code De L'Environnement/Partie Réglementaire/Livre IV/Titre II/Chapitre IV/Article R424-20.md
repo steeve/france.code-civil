@@ -8,4 +8,5 @@ dispositif de prémarquage ou de marquage prévu à l'article R. 425-10 ;
 
 2° Des morceaux d'animaux tués au titre d'un plan de chasse qui ne sont pas
 accompagnés de l'attestation justifiant leur origine, prévue au 3e alinéa de
-l'article R. 425-11.
+l'article R. 425-11. Leur transport par les titulaires d'un permis de chasser
+valide est toutefois autorisé pendant la période où la chasse est ouverte.

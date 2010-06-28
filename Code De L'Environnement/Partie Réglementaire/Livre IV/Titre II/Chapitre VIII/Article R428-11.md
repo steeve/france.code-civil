@@ -18,14 +18,17 @@ spécimens sont nés et élevés en captivité ;
 application du II de l'article L. 424-8 et des articles L. 424-12 et L. 424-13 ;
 
 4° Pour les animaux tués au titre du plan de chasse, transporter, détenir pour
-la vente, mettre en vente, vendre et acheter ces animaux non munis du dispositif
-de pré-marquage ou de marquage, ou des morceaux de ces animaux non accompagnés
-de l'attestation justifiant leur origine ;
+la vente ou la naturalisation, mettre en vente, vendre et acheter ces animaux
+non munis du dispositif de pré-marquage ou de marquage, ou des morceaux de ces
+animaux non accompagnés de l'attestation justifiant leur origine sauf lorsque
+ces morceaux sont transportés par le titulaire d'un permis de chasser valide
+pendant la période où la chasse est ouverte ;
 
 5° Pour le grand gibier licitement tué à l'intérieur des enclos définis au I de
-l'article L. 424-3, transporter, détenir pour la vente, mettre en vente, vendre
-et acheter ce grand gibier non muni d'un dispositif de marquage, ou des morceaux
-de ce grand gibier non accompagnés d'une attestation justifiant leur origine ;
+l'article L. 424-3, transporter, détenir pour la vente ou la naturalisation,
+mettre en vente, vendre et acheter ce grand gibier non muni d'un dispositif de
+marquage, ou des morceaux de ce grand gibier non accompagnés d'une attestation
+justifiant leur origine ;
 
 6° En toute saison, mettre en vente, vendre, transporter ou acheter sciemment du
 gibier tué à l'aide d'engins ou d'instruments prohibés ;
