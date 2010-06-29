@@ -7,10 +7,13 @@ de cassation ;
 
 2° Cent vingt-neuf délégués élus par tous les avocats inscrits au tableau ou
 admis au stage, affiliés à la caisse et étant en règle au 31 décembre de l'année
-précédente pour le paiement de leurs cotisations ;
+précédente pour le paiement de leurs cotisations, à l'exception des avocats qui
+bénéficient des dispositions des deuxième, troisième et quatrième alinéas de
+l'article L. 723-11-1 ;
 
 3° Quatorze délégués élus par les bénéficiaires d'une pension de retraite ou
-d'invalidité.
+d'invalidité y compris les avocats qui bénéficient des dispositions des
+deuxième, troisième et quatrième alinéas de l'article L. 723-11-1.
 
 Les délégués sont élus ou désignés pour six ans au scrutin secret. Les candidats
 ayant obtenu le plus grand nombre de suffrages sont proclamés élus. En cas de

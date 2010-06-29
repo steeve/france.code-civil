@@ -6,4 +6,6 @@ charge de l'assuré accomplies à compter du 1er janvier 2004 après l'âge pré
 premier alinéa de l'article L. 351-1 et au-delà de la limite mentionnée au
 deuxième alinéa du même article.
 
-Cette majoration est égale à 0,75 % par trimestre.
+Cette majoration est égale à 0, 75 % par trimestre accompli à compter du 1er
+janvier 2004 et avant le 1er juillet 2010 et à 1, 25 % par trimestre accompli à
+compter du 1er juillet 2010.
