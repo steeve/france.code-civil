@@ -6,7 +6,7 @@ réserve des dispositions de l'article L. 131-78 et dans les conditions prévues
 par cet article, être délivrées au titulaire d'un compte ou à son mandataire à
 compter d'un incident de paiement relevé au nom du titulaire du compte pour
 défaut de provision suffisante lorsque celui-ci n'a pas exécuté les obligations
-prévues par les deuxième à sixième alinéas de l'article L. 131-73.
+prévues par les deuxième à quatrième alinéas de l'article L. 131-73.
 
 Les dispositions du présent article doivent être observées par le banquier qui a
 refusé le paiement d'un chèque pour défaut de provision suffisante et par tout

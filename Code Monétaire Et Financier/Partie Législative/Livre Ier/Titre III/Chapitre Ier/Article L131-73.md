@@ -13,13 +13,9 @@ mandataires de son client.
 
 Toutefois, le titulaire du compte recouvre la possibilité d'émettre des chèques
 lorsqu'il justifie avoir, à la suite de cette injonction adressée après un
-incident de paiement :
-
-1. Réglé le montant du chèque impayé ou constitué une provision suffisante et
-disponible destinée à son règlement par les soins du tiré ;
-
-2. Payé une pénalité libératoire dans les conditions et sous les réserves fixées
-par les articles L. 131-75 à L. 131-77.
+incident de paiement, réglé le montant du chèque impayé ou constitué une
+provision suffisante et disponible destinée à son règlement par les soins du
+tiré.
 
 Un certificat de non-paiement est délivré à la demande du porteur, au terme d'un
 délai de trente jours, à compter de la première présentation d'un chèque impayé
