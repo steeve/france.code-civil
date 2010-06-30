@@ -7,5 +7,5 @@ dispositions du chapitre II relatif au crédit immobilier du présent titre et
 garanties par une hypothèque rechargeable au sens de l'article 2422 du code
 civil.
 
-Les opérations mentionnées à l'article L. 311-9 ne peuvent donner lieu à un
+Les opérations mentionnées à l'article L. 311-16 ne peuvent donner lieu à un
 crédit garanti par une hypothèque rechargeable.

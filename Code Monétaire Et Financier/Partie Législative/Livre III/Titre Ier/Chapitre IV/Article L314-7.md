@@ -24,6 +24,10 @@ celui-ci. Ce récapitulatif distingue, pour chaque catégorie de produits ou
 services liés à la gestion du compte de paiement ou de dépôt, le sous-total des
 frais perçus et le nombre de produits ou services correspondant.
 
+Ces dispositions sont appliquées pour la première fois par les établissements de
+crédit ne tenant pas de comptes de dépôt et les établissements de paiement au
+cours du mois de janvier 2011 au titre de l'année 2010.
+
 IV. - Lorsque le bénéficiaire propose au payeur un service de conversion
 monétaire, il est tenu de l'informer de tous les frais appliqués, ainsi que du
 taux de change qui sera utilisé aux fins de la conversion de l'opération de

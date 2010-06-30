@@ -46,7 +46,6 @@ conditions tarifaires fixées par décret.
 Toute décision de clôture de compte à l'initiative de l'établissement de crédit
 désigné par la Banque de France doit faire l'objet d'une notification écrite et
 motivée adressée au client et à la Banque de France pour information. Un délai
-minimum de quarante-cinq jours doit être consenti obligatoirement au titulaire
-du compte.
+minimum de deux mois doit être consenti obligatoirement au titulaire du compte.
 
 Ces dispositions s'appliquent aux interdits bancaires.

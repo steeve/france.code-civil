@@ -16,7 +16,10 @@ responsabilité de l'entreprise d'assurance ;
 3° Les institutions ou unions régies par le titre III du livre IX du code de la
 sécurité sociale ou relevant du II de l'article L. 727-2 du code rural ;
 
-4° Les mutuelles et unions régies par le livre II du code de la mutualité ;
+4° Les mutuelles et unions réalisant des opérations visées au 1° du I de
+l'article L. 111-1 du code de la mutualité et les mutuelles et unions qui
+procèdent à la gestion des règlements mutualistes et des contrats pour le compte
+des premières ;
 
 5° La Banque de France, l'institut d'émission des départements d'outre-mer
 mentionné à l'article L. 711-2 du présent code et l'institut d'émission

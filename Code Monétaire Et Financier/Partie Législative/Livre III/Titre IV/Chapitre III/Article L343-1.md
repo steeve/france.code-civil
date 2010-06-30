@@ -141,21 +141,19 @@ expresse du consommateur avant que ce dernier n'exerce son droit de rétractatio
 " III.-Le présent article ne s'applique pas aux contrats mentionnés à l'article
 L. 121-60.
 
-" IV.-Pour les contrats de crédit affecté définis à l'article L. 311-20 conclus
-selon une technique de communication à distance, et par dérogation aux
-dispositions de l'article L. 311-24, le délai de rétractation de quatorze jours
-ne peut pas être réduit.
+" IV.-Pour les contrats de crédit affecté définis au 9° de l'article L. 311-1
+conclus selon une technique de communication à distance, le délai de
+rétractation de quatorze jours ne peut pas être réduit.
 
-" Par dérogation aux dispositions de l'article L. 311-25, l'exercice du droit de
-rétractation n'emporte résolution de plein droit du contrat de vente ou de
-prestation de services que s'il intervient dans un délai de sept jours à compter
-de la conclusion du contrat de crédit. De plus, lorsque le consommateur, par une
-demande expresse, sollicite la livraison ou la fourniture immédiate du bien ou
-de la prestation de services, l'exercice du droit de rétractation n'emporte
-résolution de plein droit du contrat de vente ou de prestation de services que
-s'il intervient dans un délai de trois jours à compter de la conclusion du
-contrat de crédit. Toute livraison ou fourniture anticipée est à la charge du
-vendeur qui en supporte tous les risques. "
+" L'exercice du droit de rétractation n'emporte résolution de plein droit du
+contrat de vente ou de prestation de services que s'il intervient dans un délai
+de sept jours à compter de la conclusion du contrat de crédit. De plus, lorsque
+le consommateur, par une demande expresse, sollicite la livraison ou la
+fourniture immédiate du bien ou de la prestation de services, l'exercice du
+droit de rétractation n'emporte résolution de plein droit du contrat de vente ou
+de prestation de services que s'il intervient dans un délai de trois jours à
+compter de la conclusion du contrat de crédit. Toute livraison ou fourniture
+anticipée est à la charge du vendeur qui en supporte tous les risques. "
 
 " Art.L. 121-20-13
 

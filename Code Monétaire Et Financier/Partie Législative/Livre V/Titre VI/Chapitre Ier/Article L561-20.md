@@ -3,12 +3,14 @@ Article L561-20
 Par dérogation à l'article L. 561-19, les personnes mentionnées aux 1° à 6° de
 l'article L. 561-2, les compagnies financières et les compagnies financières
 holding mixtes qui appartiennent à un même groupe, tel que défini au III de
-l'article L. 511-20 du présent code ou à l'article L. 334-2 du code des
-assurances, d'une part, et, d'autre part, les personnes mentionnées aux 12° et
-13° de l'article L. 561-2 du présent code, qui appartiennent au même réseau ou à
-une même structure d'exercice professionnel, s'informent de l'existence et du
-contenu de la déclaration prévue à l'article L. 561-15 lorsque les conditions
-suivantes sont réunies :
+l'article L. 511-20 du présent code, aux articles L. 322-1-2, L. 322-1-3 et L.
+334-2 du code des assurances, aux articles L. 111-4-2 et L. 212-7-1 du code de
+la mutualité et à l'article L. 933-2 du code de la sécurité sociale, d'une part,
+et, d'autre part, les personnes mentionnées aux 12° et 13° de l'article L. 561-2
+du présent code, qui appartiennent au même réseau ou à une même structure
+d'exercice professionnel, s'informent de l'existence et du contenu de la
+déclaration prévue à l'article L. 561-15 lorsque les conditions suivantes sont
+réunies :
 
 a) Les informations ne sont échangées qu'entre personnes d'un même groupe, d'un
 même réseau ou d'une même structure d'exercice professionnel soumises à

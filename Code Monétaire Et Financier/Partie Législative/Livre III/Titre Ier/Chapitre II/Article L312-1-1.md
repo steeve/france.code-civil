@@ -65,6 +65,22 @@ le client qu'au prorata de la période échue à la date de résiliation de la
 convention de compte de dépôt.S'ils ont été payés à l'avance, ces frais sont
 remboursés au prorata.
 
+Avec l'accord du client, la convention de compte peut être adaptée avant
+l'expiration du délai de deux mois mentionné au II lorsqu'il bénéficie de la
+procédure de surendettement afin de faciliter l'exécution des mesures de
+traitement prévue au titre III du livre III du code de la
+consommation.L'Association française des établissements de crédit, mentionnée à
+l'article L. 511-29 du présent code, adopte des normes professionnelles qui
+précisent les modalités et la durée du maintien du compte de dépôt et les
+adaptations, en particulier des moyens de paiement, de nature à en faciliter le
+fonctionnement et à éviter les incidents.
+
+Ces normes, homologuées par le ministre de l'économie, après avis du comité
+consultatif du secteur financier et du comité consultatif de la législation et
+de la réglementation financières, sont applicables par tout établissement de
+crédit. Le contrôle du respect de ces normes est assuré par l'Autorité de
+contrôle prudentiel et relève de la procédure prévue à l'article L. 612-31.
+
 IV.-A tout moment de la relation contractuelle, l'établissement de crédit
 fournit à la demande de l'utilisateur les termes de la convention de compte de
 dépôt sur support papier ou sur un autre support durable.

@@ -38,13 +38,14 @@ d'informations dont la nature est déterminée par arrêté du ministre chargé 
 l'économie.
 
 II.-1° Dans la limite des services de paiement qu'il est habilité à fournir sur
-le territoire d'un Etat membre autre que la France et en fonction de l'agrément
-qu'il y a reçu, tout établissement de paiement peut, sur le territoire de la
-France métropolitaine, dans les départements d'outre-mer, à Saint-Martin ou à
-Saint-Barthélemy, établir une succursale ou utiliser un agent, sous réserve que
-l'Autorité de contrôle prudentiel ait été informé par l'autorité compétente de
-l'Etat membre d'origine, dans des conditions fixées par arrêté du ministre
-chargé de l'économie ;
+le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à
+l'accord sur l'Espace économique européen autre que la France et en fonction de
+l'agrément qu'il y a reçu, tout établissement de paiement peut, sur le
+territoire de la France métropolitaine, dans les départements d'outre-mer, à
+Saint-Martin ou à Saint-Barthélemy, établir une succursale ou utiliser un agent,
+sous réserve que l'Autorité de contrôle prudentiel ait été informé par
+l'autorité compétente de l'Etat membre d'origine, dans des conditions fixées par
+arrêté du ministre chargé de l'économie ;
 
 2° Si l'Autorité de contrôle prudentiel a de bonnes raisons de soupçonner que,
 en liaison avec le projet d'utilisation de l'agent ou d'établissement de la
@@ -55,10 +56,11 @@ blanchiment de capitaux ou de financement du terrorisme, elle en informe les
 autorités compétentes de l'Etat membre d'origine ;
 
 3° Dans la limite des services de paiement qu'il est habilité à fournir sur le
-territoire d'un Etat membre autre que la France et en fonction de l'agrément
-qu'il y a reçu, tout établissement de paiement peut, sur le territoire de la
-France métropolitaine, dans les départements d'outre-mer, à Saint-Martin ou à
-Saint-Barthélemy, intervenir en libre prestation de services, sous réserve que
-l'Autorité de contrôle prudentiel ait été informée par l'autorité compétente de
-l'Etat membre d'origine, dans des conditions fixées par arrêté du ministre
-chargé de l'économie.
+territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à
+l'accord sur l'Espace économique européen autre que la France et en fonction de
+l'agrément qu'il y a reçu, tout établissement de paiement peut, sur le
+territoire de la France métropolitaine, dans les départements d'outre-mer, à
+Saint-Martin ou à Saint-Barthélemy, intervenir en libre prestation de services,
+sous réserve que l'Autorité de contrôle prudentiel ait été informée par
+l'autorité compétente de l'Etat membre d'origine, dans des conditions fixées par
+arrêté du ministre chargé de l'économie.

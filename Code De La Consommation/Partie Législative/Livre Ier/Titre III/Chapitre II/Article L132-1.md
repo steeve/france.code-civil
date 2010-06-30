@@ -6,7 +6,7 @@ créer, au détriment du non-professionnel ou du consommateur, un déséquilibre
 significatif entre les droits et obligations des parties au contrat.
 
 Un décret en Conseil d'Etat, pris après avis de la commission instituée à
-l'article L. 132-2, détermine une liste de clauses présumées abusives ; en cas
+l'article L. 534-1, détermine une liste de clauses présumées abusives ; en cas
 de litige concernant un contrat comportant une telle clause, le professionnel
 doit apporter la preuve du caractère non abusif de la clause litigieuse.
 
@@ -21,8 +21,8 @@ garantie, bordereaux ou bons de livraison, billets ou tickets, contenant des
 stipulations négociées librement ou non ou des références à des conditions
 générales préétablies.
 
-Sans préjudice des règles d'interprétation prévues aux articles 1156 à 1161,
-1163 et 1164 du code civil, le caractère abusif d'une clause s'apprécie en se
+Sans préjudice des règles d'interprétation prévues aux articles 1156 à 1161,1163
+et 1164 du code civil, le caractère abusif d'une clause s'apprécie en se
 référant, au moment de la conclusion du contrat, à toutes les circonstances qui
 entourent sa conclusion, de même qu'à toutes les autres clauses du contrat. Il
 s'apprécie également au regard de celles contenues dans un autre contrat lorsque

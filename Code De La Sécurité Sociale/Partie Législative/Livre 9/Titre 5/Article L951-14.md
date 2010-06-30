@@ -2,8 +2,9 @@ Article L951-14
 ----
 Par dérogation aux articles L. 631-4 et L. 631-5 du code de commerce, une
 procédure de redressement judiciaire ne peut être ouverte à l'égard d'une
-institution qu'à la requête de l'Autorité de contrôle prudentiel. Le tribunal
-peut également se saisir d'office, ou être saisi par le procureur de la
+institution de prévoyance ou union d'institutions de prévoyance mentionnée à
+l'article L. 931-4 qu'à la requête de l'Autorité de contrôle prudentiel. Le
+tribunal peut également se saisir d'office, ou être saisi par le procureur de la
 République, d'une demande d'ouverture de cette procédure après avis conforme de
 l'Autorité. Les dispositions de l'article L. 931-21-1 sont applicables à la
 procédure de sauvegarde ou de redressement judiciaire.

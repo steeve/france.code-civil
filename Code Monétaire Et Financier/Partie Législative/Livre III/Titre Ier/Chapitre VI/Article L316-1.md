@@ -9,7 +9,8 @@ dispositions des articles L. 312-1-1, L. 312-1-2, L. 314-12 et L. 314-13 du
 présent code.
 
 Les fonctionnaires habilités mentionnés au premier alinéa sont compétents pour
-rechercher et constater les infractions aux dispositions de l'article L. 112-11.
+rechercher et constater les infractions aux dispositions des articles L. 112-11
+et L. 112-12.
 
 Les fonctionnaires habilités mentionnés au premier alinéa sont également
 compétents pour rechercher et constater les infractions aux dispositions des

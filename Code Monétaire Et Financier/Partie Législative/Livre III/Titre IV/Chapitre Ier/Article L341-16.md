@@ -57,7 +57,7 @@ démarchage ;
 expresse de la personne démarchée avant que cette dernière n'exerce son droit de
 rétractation.
 
-IV.-En cas de démarchage effectué selon les modalités prévues au septième alinéa
+IV.-En cas de démarchage effectué selon les modalités prévues au huitième alinéa
 de l'article L. 341-1, les personnes mentionnées aux articles L. 341-3 et L.
 341-4 ne peuvent recueillir ni ordres ni fonds de la part des personnes
 démarchées en vue de la fourniture de services de réception-transmission et

@@ -28,7 +28,7 @@ cause, à des opérations habituellement réalisées par cette personne ;
 
 6° Aux démarches effectuées, pour le compte d'un établissement de crédit, en vue
 de proposer un contrat de financement de biens ou de prestations de services
-répondant aux conditions prévues à la section 5 du chapitre Ier du titre Ier du
+répondant aux conditions prévues à la section 9 du chapitre Ier du titre Ier du
 livre III du code de la consommation, ou constituant une location-vente ou une
 location avec option d'achat visées à l'article L. 311-2 dudit code. Il en va de
 même lorsque ces contrats sont destinés aux besoins d'une activité

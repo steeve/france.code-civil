@@ -1,13 +1,13 @@
 Article L133-14
 ----
-.-I. ― La date de valeur d'une somme portée au crédit du compte du bénéficiaire
-ne peut être postérieure à celle du jour ouvrable au cours duquel le montant de
+I. ― La date de valeur d'une somme portée au crédit du compte du bénéficiaire ne
+peut être postérieure à celle du jour ouvrable au cours duquel le montant de
 l'opération de paiement est crédité sur le compte du prestataire de services de
 paiement du bénéficiaire.
 
 Le prestataire de services de paiement du bénéficiaire met le montant de
-l'opération à disposition du bénéficiaire après que son propre compte a été
-crédité.
+l'opération à disposition du bénéficiaire immédiatement après que son propre
+compte a été crédité.
 
 La date de valeur du débit inscrit au compte de paiement du payeur ne peut être
 antérieure au jour où le montant de l'opération de paiement est débité de ce

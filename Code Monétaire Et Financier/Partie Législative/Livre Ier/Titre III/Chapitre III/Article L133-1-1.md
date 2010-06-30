@@ -19,7 +19,9 @@ c) Les dispositions du premier alinéa de l'article L. 133-23 et de l'article L.
 133-24 pour les opérations de paiement par carte non autorisées. Dans ce cas,
 par dérogation à l'article L. 133-24, le délai de treize mois est ramené à
 soixante-dix jours. Il peut être prolongé contractuellement sans pouvoir
-dépasser cent vingt jours.
+dépasser cent vingt jours ;
+
+d) Les dispositions du II de l'article L. 133-26.
 
 II.-Les dispositions du I s'appliquent également si le prestataire de services
 de paiement du payeur est situé sur le territoire de la France métropolitaine,

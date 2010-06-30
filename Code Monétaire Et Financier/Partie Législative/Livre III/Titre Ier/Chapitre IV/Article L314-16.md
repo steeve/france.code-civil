@@ -10,9 +10,9 @@ qu'une indication de l'endroit où les autres informations et conditions défini
 à l'article L. 314-13 sont disponibles de manière aisée.
 
 II.-Le prestataire de services de paiement n'est pas tenu de proposer une
-modification des clauses du contrat-cadre de services de paiement de la manière
-prévue au II de l'article L. 314-13 concernant un instrument mentionné à
-l'article L. 133-28.
+modification des clauses du contrat-cadre de services de paiement sur support
+papier ou support durable concernant un instrument mentionné à l'article L.
+133-28.
 
 III.-Après exécution d'une opération de paiement avec un instrument mentionné à
 l'article L. 133-28, le prestataire de services de paiement peut fournir ou

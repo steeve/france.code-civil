@@ -8,5 +8,5 @@ fourni ou n'ait pas mis à sa disposition les informations relatives à cette
 opération de paiement conformément au chapitre IV du titre 1er du livre III.
 
 Sauf dans les cas où l'utilisateur est une personne physique agissant pour des
-besoins non professionnels, les parties peuvent décider de déroger aux
-dispositions du présent article.
+besoins non professionnels, les parties peuvent convenir d'un délai distinct de
+celui prévu au présent article.

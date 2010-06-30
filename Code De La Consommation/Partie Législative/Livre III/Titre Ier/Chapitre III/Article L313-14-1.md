@@ -1,8 +1,8 @@
 Article L313-14-1
 ----
-Est annexé à l'offre préalable de crédit un document intitulé "situation
-hypothécaire" dont un exemplaire est remis à l'emprunteur dans les mêmes
-conditions que le contrat de crédit lui-même.
+Est annexé au contrat de crédit un document intitulé "situation hypothécaire"
+dont un exemplaire est remis à l'emprunteur dans les mêmes conditions que le
+contrat de crédit lui-même.
 
 Ce document comporte :
 
@@ -23,8 +23,8 @@ garantissant le ou les nouveaux crédits ;
 
 7° Une évaluation par le prêteur du coût total de l'hypothèque ;
 
-8° La mention que, sans préjudice de l'application des articles L. 311-30 et L.
-311-32, s'il s'agit d'un crédit à la consommation, ou des articles L. 312-22 et
+8° La mention que, sans préjudice de l'application des articles L. 311-23 et L.
+311-24, s'il s'agit d'un crédit à la consommation, ou des articles L. 312-22 et
 L. 312-23, s'il s'agit d'un crédit immobilier, la défaillance de l'emprunteur
 peut entraîner la vente du bien hypothéqué selon les dispositions des articles
 2464 et suivants du code civil.

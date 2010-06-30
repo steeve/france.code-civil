@@ -5,7 +5,8 @@ conditions de fonctionnement sont telles que les intérêts des participants et
 bénéficiaires de bulletins d'adhésion à des règlements ou de contrats et ayants
 droit de ceux-ci sont compromis ou susceptibles de l'être, l'Autorité de
 contrôle prudentiel prend les mesures d'urgence nécessaires à la sauvegarde des
-intérêts des participants, des bénéficiaires et des ayants droit de ceux-ci.
+intérêts des participants, des bénéficiaires, des ayants droit de ceux-ci et des
+organismes réassurés.
 
 Elle peut, à ce titre, mettre l'institution sous surveillance spéciale.
 

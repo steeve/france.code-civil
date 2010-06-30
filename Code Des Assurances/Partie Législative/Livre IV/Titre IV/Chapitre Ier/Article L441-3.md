@@ -18,9 +18,11 @@ lettre destiné à faciliter l'exercice de cette faculté ;
 e) Les modalités de la conversion de la convention en rentes viagères selon les
 conditions fixées par arrêté du ministre chargé de l'économie.
 
-Un arrêté du même ministre précise les informations qui doivent figurer dans
-cette notice, notamment les stipulations de la convention qui sont essentielles
-au sens du b.
+Un résumé des caractéristiques essentielles de la convention figure au début de
+cette notice, dans un format précisé par arrêté du même ministre qui en fixe
+également, de façon limitative, le contenu. Cet arrêté précise également
+l'ensemble des informations qui doivent figurer dans la notice, notamment les
+stipulations essentielles au sens du b.
 
 II. ― Pour les opérations à adhésion facultative, le défaut de remise de la
 notice prévue au I du présent article entraîne de plein droit la prorogation du
@@ -42,6 +44,8 @@ c) Le montant total des droits acquis exprimés en nombre d'unité de rente ;
 
 d) La valeur de service de l'unité de rente et l'âge à laquelle elle correspond
 ;
+
+d bis) Le taux moyen de rendement des actifs ;
 
 e) Lorsque la convention prévoit une réduction du nombre d'unités de rente en
 cas de cessation du paiement des primes ou cotisations, les conditions de cette

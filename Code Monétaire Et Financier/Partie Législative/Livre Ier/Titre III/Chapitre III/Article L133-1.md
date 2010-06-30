@@ -19,7 +19,9 @@ Saint-Barthélemy, l'autre sur le territoire de la France métropolitaine, dans
 les départements d'outre-mer, à Saint-Martin, à Saint-Barthélemy ou dans un
 autre Etat membre de la Communauté européenne ou dans un autre Etat partie à
 l'accord sur l'Espace économique européen, et que l'opération est réalisée en
-euros ou dans la devise d'un Etat membre qui n'appartient pas à la zone euro.
+euros ou dans la devise d'un Etat membre de la Communauté européenne ou d'un
+autre Etat partie à l'accord sur l'Espace économique européen qui n'appartient
+pas à la zone euro.
 
 III.-Les dispositions du présent chapitre ne s'appliquent pas aux opérations de
 paiement effectuées entre prestataires de services de paiement pour leur propre
