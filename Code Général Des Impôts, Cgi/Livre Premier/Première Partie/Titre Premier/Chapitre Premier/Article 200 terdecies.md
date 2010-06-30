@@ -17,7 +17,7 @@ L. 311-1 à L. 311-3 du code de la consommation à l'exception :
 a) Des ventes ou prestations de service dont le paiement est échelonné, différé
 ou fractionné ;
 
-b) Des ouvertures de crédit mentionnées à l'article L. 311-9 du même code ;
+b) Des ouvertures de crédit mentionnées à l'article L. 311-16 du même code ;
 
 c) Des découverts en compte ;
 

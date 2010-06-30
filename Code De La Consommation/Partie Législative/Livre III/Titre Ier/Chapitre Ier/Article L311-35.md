@@ -1,25 +1,11 @@
 Article L311-35
 ----
-Sera puni d'une amende de 30 000 euros :
-
-1° Le prêteur ou le vendeur qui, en infraction aux dispositions de l'article L.
-311-17 et de l'article L. 311-27, réclame ou reçoit de l'emprunteur ou de
-l'acheteur un paiement sous quelque forme que ce soit ;
-
-2° Celui qui fait signer des formules de prélèvements sur comptes bancaires ou
-postaux contenant des clauses contraires aux dispositions des articles susvisés
-;
-
-3° Celui qui fait souscrire, ou accepter, ou avaliser par l'emprunteur ou
-l'acheteur des lettres de change ou des billets à ordre ;
-
-4° Celui qui persiste indûment à ne pas payer les sommes visées à
-l'avant-dernier alinéa de l'article L. 311-25 ;
-
-5° Celui qui, en infraction aux dispositions de l'article L. 311-15, enregistre
-ou fait enregistrer sur un fichier le nom des personnes usant de la faculté de
-rétractation ;
-
-6° Celui qui fait signer par un même client plusieurs offres préalables d'un
-montant total en capital supérieur à la valeur payable à crédit du bien acheté
-ou de la prestation de services fournie.
+Tant que le prêteur ne l'a pas avisé de l'octroi du crédit, et tant que
+l'emprunteur peut exercer sa faculté de rétractation, le vendeur n'est pas tenu
+d'accomplir son obligation de livraison ou de fourniture. Toutefois, lorsque par
+une demande expresse rédigée, datée et signée de sa main même, l'acheteur
+sollicite la livraison ou la fourniture immédiate du bien ou de la prestation de
+services, le délai de rétractation ouvert à l'emprunteur par l'article L. 311-12
+expire à la date de la livraison ou de la fourniture, sans pouvoir ni excéder
+quatorze jours ni être inférieur à trois jours. Toute livraison ou fourniture
+anticipée est à la charge du vendeur qui en supporte tous les frais et risques.

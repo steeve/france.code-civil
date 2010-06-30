@@ -3,17 +3,18 @@ Article L121-20-11
 Le consommateur doit recevoir, par écrit ou sur un autre support durable à sa
 disposition et auquel il a accès en temps utile et avant tout engagement, les
 conditions contractuelles ainsi que les informations mentionnées à l'article L.
-121-20-10. Le fournisseur peut remplir ses obligations au titre de l'article L.
-121-20-10 et du présent article par l'envoi au consommateur d'un document
-unique, à la condition qu'il s'agisse d'un support écrit ou d'un autre support
-durable et que les informations mentionnées ne varient pas jusqu'à et y compris
-la conclusion du contrat.
+121-20-10. Elles sont fournies au consommateur conformément aux dispositions
+législatives et réglementaires spécifiques à chaque produit, instrument
+financier ou service proposé.
 
 Le fournisseur exécute ses obligations de communication immédiatement après la
 conclusion du contrat, lorsque celui-ci a été conclu à la demande du
 consommateur en utilisant une technique de communication à distance ne
 permettant pas la transmission des informations précontractuelles et
-contractuelles sur un support papier ou sur un autre support durable.
+contractuelles sur un support papier ou sur un autre support durable. Dans ce
+cas et lorsque le contrat porte sur une opération mentionnée au premier alinéa
+de l'article L. 311-42, le fournisseur n'est tenu de communiquer au consommateur
+que les seules informations contractuelles.
 
 A tout moment au cours de la relation contractuelle, le consommateur a le droit,
 s'il en fait la demande, de recevoir les conditions contractuelles sur un

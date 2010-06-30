@@ -1,9 +1,7 @@
 Article L311-25-1
 ----
-Lorsque le paiement du prix du bien ou du service est totalement ou en partie
-financé par un crédit consenti par le fournisseur ou par un tiers sur la base
-d'un accord conclu entre ce tiers et le fournisseur, l'exercice par le
-consommateur de son droit de rétractation emporte résiliation de plein droit du
-contrat de crédit destiné à en assurer le financement, sans frais ni indemnité,
-à l'exception éventuelle des frais engagés pour l'ouverture du dossier de
-crédit.
+Pour les opérations de crédit visées au présent chapitre, à l'exclusion de la
+location-vente et de la location avec option d'achat, le prêteur est tenu, au
+moins une fois par an, de porter à la connaissance de l'emprunteur le montant du
+capital restant à rembourser. Cette information figure, en caractères lisibles,
+sur la première page du document adressé à l'emprunteur.

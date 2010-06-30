@@ -2,29 +2,39 @@ Article L311-3
 ----
 Sont exclus du champ d'application du présent chapitre :
 
-1° Les prêts, contrats et opérations de crédit passés en la forme authentique
-sauf s'il s'agit de crédits hypothécaires ;
+1° Les opérations de crédit destinées à permettre l'acquisition ou le maintien
+de droits de propriété ou de jouissance d'un terrain ou d'un immeuble existant
+ou à construire, y compris lorsque ces opérations visent également à permettre
+la réalisation de travaux de réparation, d'amélioration ou d'entretien du
+terrain ou de l'immeuble ainsi acquis ;
 
-2° Ceux qui sont consentis pour une durée totale inférieure ou égale à trois
-mois, ainsi que ceux dont le montant est supérieur à une somme qui sera fixée
-par décret ;
+2° Les opérations dont le montant total du crédit est inférieur à 200 € ou
+supérieur à 75 000 €, à l'exception de celles, mentionnées à l'article L.
+313-15, ayant pour objet le regroupement de crédits ;
 
-3° Ceux qui sont destinés à financer les besoins d'une activité professionnelle,
-ainsi que les prêts aux personnes morales de droit public ;
+3° Les opérations consenties sous la forme d'une autorisation de découvert
+remboursable dans un délai d'un mois ;
 
-4° Les opérations de crédit portant sur des immeubles, notamment les opérations
-de crédit-bail immobilier et celles qui sont liées :
+4° Les opérations de crédit comportant un délai de remboursement ne dépassant
+pas trois mois qui ne sont assorties d'aucun intérêt ou d'aucuns frais ou
+seulement de frais d'un montant négligeable ;
 
-a) A l'acquisition d'un immeuble en propriété ou en jouissance ;
+5° Les opérations mentionnées au 3 de l'article L. 511-6 du code monétaire et
+financier ;
 
-b) A la souscription ou à l'achat de parts ou d'actions de sociétés donnant
-vocation à une attribution en jouissance ou en propriété d'un immeuble ;
+6° Les opérations mentionnées au 2 de l'article L. 321-2 du même code ;
 
-c) A des dépenses de construction, de réparation, d'amélioration ou d'entretien
-d'un immeuble, lorsque le montant de ces dépenses est supérieur à un chiffre
-fixé par décret.
+7° Les contrats qui sont l'expression d'un accord intervenu devant une
+juridiction ;
 
-Les dispositions du présent article n'ont pas pour effet d'exclure les prêts,
-contrats et opérations de crédit passés en la forme authentique et les prêts,
-contrats et opérations de crédit d'un montant excédant le seuil fixé en
-application du présent article du champ d'application de l'article L. 311-5.
+8° Les contrats résultant d'un plan conventionnel de redressement mentionné à
+l'article L. 331-6 du présent code conclu devant la commission de surendettement
+des particuliers ;
+
+9° Les accords portant sur des délais de paiement accordés pour le règlement
+amiable d'une dette existante, à condition qu'aucuns frais supplémentaires à
+ceux stipulés dans le contrat ne soient mis à la charge du consommateur ;
+
+10° Les cartes proposant un débit différé n'excédant pas quarante jours et
+n'occasionnant aucuns autres frais que la cotisation liée au bénéfice de ce
+moyen de paiement.

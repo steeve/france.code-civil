@@ -1,9 +1,15 @@
 Article L311-23
 ----
-Chaque fois que le paiement du prix sera acquitté, en tout ou partie, à l'aide
-d'un crédit, et sous peine des sanctions prévues à l'article L. 311-34, le
-contrat de vente ou de prestation de services doit le préciser. Aucun engagement
-ne peut valablement être contracté par l'acheteur à l'égard du vendeur tant
-qu'il n'a pas accepté l'offre préalable du prêteur. Lorsque cette condition
-n'est pas remplie, le vendeur ne peut recevoir aucun paiement, sous quelque
-forme que ce soit, ni aucun dépôt.
+Aucune indemnité ni aucuns frais autres que ceux mentionnés aux articles L.
+311-24 et L. 311-25 ne peuvent être mis à la charge de l'emprunteur dans les cas
+de défaillance prévus par ces articles.
+
+Toutefois, le prêteur pourra réclamer à l'emprunteur, en cas de défaillance de
+celui-ci, le remboursement des frais taxables qui lui auront été occasionnés par
+cette défaillance, à l'exclusion de tout remboursement forfaitaire de frais de
+recouvrement.
+
+En cas de défaillance de l'emprunteur, seuls les modes de réalisation du gage
+autorisés par les articles 2346 et 2347 du code civil sont ouverts aux
+créanciers gagistes, à l'exclusion du pacte commissoire prévu à l'article 2348
+qui est réputé non écrit.

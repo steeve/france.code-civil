@@ -1,10 +1,10 @@
 Article L311-14
 ----
-Aucun vendeur ni prestataire de services ne peut, pour un même bien ou une même
-prestation de services, faire signer par un même client une ou plusieurs offres
-préalables, visées aux articles L. 311-8 à L. 311-13 et L. 311-15 à L. 311-17,
-d'un montant total en capital supérieur à la valeur payable à crédit du bien
-acheté ou de la prestation de services fournie.
-
-Cette disposition ne s'applique pas aux offres préalables d'ouverture de crédit
-permanent définies à l'article L. 311-9.
+Pendant un délai de sept jours à compter de l'acceptation du contrat par
+l'emprunteur, aucun paiement, sous quelque forme et à quelque titre que ce soit,
+ne peut être fait par le prêteur à l'emprunteur ou pour le compte de celui-ci,
+ni par l'emprunteur au prêteur. Pendant ce même délai, l'emprunteur ne peut non
+plus faire, au titre de l'opération en cause, aucun dépôt au profit du prêteur
+ou pour le compte de celui-ci. Si une autorisation du prélèvement sur son compte
+bancaire est signée par l'emprunteur, sa validité et sa prise d'effet sont
+subordonnées à celles du contrat de crédit.

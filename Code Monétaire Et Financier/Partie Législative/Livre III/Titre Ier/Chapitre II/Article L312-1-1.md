@@ -9,6 +9,13 @@ La gestion d'un compte de dépôt des personnes physiques n'agissant pas pour de
 besoins professionnels est réglée par une convention écrite passée entre le
 client et son établissement de crédit ou les services financiers de La Poste.
 
+Lorsqu'un relevé de compte est diffusé en application des stipulations de la
+convention visée à l'alinéa précédent et que celui-ci indique, à titre
+d'information, qu'un montant de découvert est autorisé, il mentionne
+immédiatement après, dans les mêmes caractères, le taux annuel effectif global
+au sens de l'article L. 313-1 du code de la consommation, quelle que soit la
+durée du découvert autorisé considéré.
+
 Jusqu'au 31 décembre 2009, les établissements de crédit et les services
 financiers de La Poste sont tenus d'informer au moins une fois par an les
 clients n'ayant pas de convention de compte de dépôt de la possibilité d'en
@@ -21,7 +28,7 @@ l'économie.
 
 Avant que le client ne soit lié par cette convention, l'établissement de crédit
 l'informe desdites conditions sur support papier ou sur un autre support
-durable.L'établissement de crédit peut s'acquitter de cette obligation en
+durable. L'établissement de crédit peut s'acquitter de cette obligation en
 fournissant au client une copie du projet de convention de compte de dépôt.
 
 Si, à la demande du client, cette convention est conclue par un moyen de
@@ -62,18 +69,18 @@ L'établissement de crédit résilie une convention de compte de dépôt conclue
 une durée indéterminée moyennant un préavis d'au moins deux mois. Les frais
 régulièrement imputés pour la prestation de services de paiement ne sont dus par
 le client qu'au prorata de la période échue à la date de résiliation de la
-convention de compte de dépôt.S'ils ont été payés à l'avance, ces frais sont
+convention de compte de dépôt. S'ils ont été payés à l'avance, ces frais sont
 remboursés au prorata.
 
 Avec l'accord du client, la convention de compte peut être adaptée avant
 l'expiration du délai de deux mois mentionné au II lorsqu'il bénéficie de la
 procédure de surendettement afin de faciliter l'exécution des mesures de
-traitement prévue au titre III du livre III du code de la
-consommation.L'Association française des établissements de crédit, mentionnée à
-l'article L. 511-29 du présent code, adopte des normes professionnelles qui
-précisent les modalités et la durée du maintien du compte de dépôt et les
-adaptations, en particulier des moyens de paiement, de nature à en faciliter le
-fonctionnement et à éviter les incidents.
+traitement prévue au titre III du livre III du code de la consommation.
+L'Association française des établissements de crédit, mentionnée à l'article L.
+511-29 du présent code, adopte des normes professionnelles qui précisent les
+modalités et la durée du maintien du compte de dépôt et les adaptations, en
+particulier des moyens de paiement, de nature à en faciliter le fonctionnement
+et à éviter les incidents.
 
 Ces normes, homologuées par le ministre de l'économie, après avis du comité
 consultatif du secteur financier et du comité consultatif de la législation et

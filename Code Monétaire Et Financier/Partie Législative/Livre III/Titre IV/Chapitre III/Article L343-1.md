@@ -89,17 +89,18 @@ vocale. "
 " Le consommateur doit recevoir, par écrit ou sur un autre support durable à sa
 disposition et auquel il a accès en temps utile et avant tout engagement, les
 conditions contractuelles ainsi que les informations mentionnées à l'article L.
-121-20-10. Le fournisseur peut remplir ses obligations au titre de l'article L.
-121-20-10 et du présent article par l'envoi au consommateur d'un document
-unique, à la condition qu'il s'agisse d'un support écrit ou d'un autre support
-durable et que les informations mentionnées ne varient pas jusqu'à et y compris
-la conclusion du contrat.
+121-20-10. Elles sont fournies au consommateur conformément aux dispositions
+législatives et réglementaires spécifiques à chaque produit, instrument
+financier ou service proposé.
 
 " Le fournisseur exécute ses obligations de communication immédiatement après la
 conclusion du contrat, lorsque celui-ci a été conclu à la demande du
 consommateur en utilisant une technique de communication à distance ne
 permettant pas la transmission des informations précontractuelles et
-contractuelles sur un support papier ou sur un autre support durable.
+contractuelles sur un support papier ou sur un autre support durable. Dans ce
+cas et lorsque le contrat porte sur une opération mentionnée au premier alinéa
+de l'article L. 311-42, le fournisseur n'est tenu de communiquer au consommateur
+que les seules informations contractuelles.
 
 " A tout moment au cours de la relation contractuelle, le consommateur a le
 droit, s'il en fait la demande, de recevoir les conditions contractuelles sur un
@@ -136,7 +137,7 @@ expresse du consommateur avant que ce dernier n'exerce son droit de rétractatio
 
 " 3° Aux contrats de crédit immobilier définis à l'article L. 312-2 ;
 
-" 4° Aux contrats de prêts viagers hypothécaires définis à l'article L. 314-1."
+" 4° Aux contrats de prêts viagers hypothécaires définis à l'article L. 314-1. "
 
 " III.-Le présent article ne s'applique pas aux contrats mentionnés à l'article
 L. 121-60.
@@ -155,7 +156,7 @@ de prestation de services que s'il intervient dans un délai de trois jours à
 compter de la conclusion du contrat de crédit. Toute livraison ou fourniture
 anticipée est à la charge du vendeur qui en supporte tous les risques. "
 
-" Art.L. 121-20-13
+" " Art.L. 121-20-13
 
 " I.-Les contrats pour lesquels s'applique le délai de rétractation mentionné à
 l'article L. 121-20-12 ne peuvent recevoir de commencement d'exécution par les

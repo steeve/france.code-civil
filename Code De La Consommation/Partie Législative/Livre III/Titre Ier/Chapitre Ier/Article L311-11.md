@@ -1,6 +1,9 @@
 Article L311-11
 ----
-Pour les opérations à durée déterminée, l'offre préalable précise en outre pour
-chaque échéance le coût de l'assurance et les perceptions forfaitaires
-éventuellement demandées ainsi que l'échelonnement des remboursements ou, en cas
-d'impossibilité, le moyen de les déterminer.
+L'offre de contrat de crédit est établie par écrit ou sur un autre support
+durable. Elle est remise ou adressée en autant d'exemplaires que de parties et,
+le cas échéant, à chacune des cautions.
+
+La remise ou l'envoi de l'offre de contrat de crédit à l'emprunteur oblige le
+prêteur à en maintenir les conditions pendant une durée minimale de quinze jours
+à compter de cette remise ou de cet envoi.

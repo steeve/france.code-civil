@@ -1,8 +1,8 @@
 Article L351-1
 ----
 Est puni d'une amende fiscale de 75 euros le fait de méconnaître l'une des
-obligations mentionnées aux deuxième, troisième, quatrième et septième alinéas
-du I de l'article L. 312-1-1, et, lorsque le client est une personne physique
+obligations mentionnées aux deuxième, quatrième, cinquième et huitième alinéas
+du I de l'article L. 312-1-1 et, lorsque le client est une personne physique
 agissant pour des besoins non professionnels, à l'article L. 314-12 et au II de
 l'article L. 314-13. Cette amende est prononcée et recouvrée suivant les règles
 applicables à la taxe sur la valeur ajoutée. Le contentieux est suivi par

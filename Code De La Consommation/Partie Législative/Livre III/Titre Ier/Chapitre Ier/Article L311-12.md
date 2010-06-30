@@ -1,10 +1,11 @@
 Article L311-12
 ----
-Lorsque l'offre préalable est assortie d'une proposition d'assurance, une notice
-doit être remise à l'emprunteur, qui comporte les extraits des conditions
-générales de l'assurance le concernant, notamment les nom et adresse de
-l'assureur, la durée, les risques couverts et ceux qui sont exclus. Si
-l'assurance est obligatoire pour obtenir le financement, l'offre préalable
-rappelle que l'emprunteur peut souscrire une assurance équivalente auprès de
-l'assureur de son choix. Si l'assurance est facultative, l'offre préalable
-rappelle les modalités suivant lesquelles l'emprunteur peut ne pas y adhérer.(1)
+L'emprunteur peut se rétracter sans motifs dans un délai de quatorze jours
+calendaires révolus à compter du jour de l'acceptation de l'offre de contrat de
+crédit comprenant les informations prévues à l'article L. 311-18. Afin de
+permettre l'exercice de ce droit de rétractation, un formulaire détachable est
+joint à son exemplaire du contrat de crédit. L'exercice par l'emprunteur de son
+droit de rétractation ne peut donner lieu à enregistrement sur un fichier.
+
+En cas d'exercice de son droit de rétractation, l'emprunteur n'est plus tenu par
+le contrat de service accessoire au contrat de crédit.

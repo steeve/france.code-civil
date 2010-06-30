@@ -1,13 +1,8 @@
 Article L311-37
 ----
-Le tribunal d'instance connaît des litiges nés de l'application du présent
-chapitre. Les actions en paiement engagées devant lui à l'occasion de la
-défaillance de l'emprunteur doivent être formées dans les deux ans de
-l'événement qui leur a donné naissance à peine de forclusion.
-
-Lorsque les modalités de règlement des échéances impayées ont fait l'objet d'un
-réaménagement ou d'un rééchelonnement, le point de départ du délai de forclusion
-est le premier incident non régularisé intervenu après le premier aménagement ou
-rééchelonnement conclu entre les intéressés ou après adoption du plan
-conventionnel de redressement prévu à l'article L. 331-6 ou après décision du
-juge de l'exécution sur les mesures mentionnées à l'article L. 331-7.
+Dans les cas de résolution du contrat de vente ou de prestations de services
+prévus à l'article L. 311-36, le vendeur ou le prestataire de services
+rembourse, sur simple demande, toute somme que l'acheteur aurait versée d'avance
+sur le prix. A compter du huitième jour suivant la demande de remboursement,
+cette somme est productive d'intérêts, de plein droit, au taux de l'intérêt
+légal majoré de moitié.
