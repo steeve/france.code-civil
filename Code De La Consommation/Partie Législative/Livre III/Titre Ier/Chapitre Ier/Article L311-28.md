@@ -1,6 +1,9 @@
 Article L311-28
 ----
-En cas de vente ou de démarchage à domicile, le délai de rétractation est de
-sept jours quelle que soit la date de livraison ou de fourniture du bien ou de
-la prestation de services. Aucun paiement comptant ne peut intervenir avant
-l'expiration de ce délai.
+Lorsqu'une opération de financement comporte une prise en charge totale ou
+partielle des frais au sens des articles L. 311-4 à L. 311-6, le vendeur ne peut
+demander à l'acheteur à crédit ou au locataire une somme d'argent supérieure au
+prix le plus bas effectivement pratiqué pour l'achat au comptant d'un article ou
+d'une prestation similaire, dans le même établissement de vente au détail, au
+cours des trente derniers jours précédant le début de la publicité ou de
+l'offre.

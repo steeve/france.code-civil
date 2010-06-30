@@ -31,12 +31,25 @@ caractère exceptionnel consentis pour des motifs d'ordre social à leurs salari
 4. Abrogé ;
 
 5. Aux associations sans but lucratif et aux fondations reconnues d'utilité
-publique accordant sur ressources propres et sur emprunts contractés auprès
-d'établissements de crédit, ou d'institutions ou services mentionnés à l'article
-L. 518-1, des prêts pour la création et le développement d'entreprises dont
-l'effectif salarié n'excède pas un nombre fixé par décret ou pour la réalisation
-de projets d'insertion par des personnes physiques. Ces organismes sont
-habilités dans des conditions définies par décret en Conseil d'Etat ;
+publique accordant sur ressources propres et sur ressources empruntées des prêts
+pour la création, le développement et la reprise d'entreprises dont l'effectif
+salarié ne dépasse pas un seuil fixé par décret ou pour la réalisation de
+projets d'insertion par des personnes physiques.
+
+Ces associations et fondations ne sont pas autorisées à procéder à l'offre au
+public d'instruments financiers. Elles peuvent financer leur activité par des
+ressources empruntées auprès des établissements de crédit et des institutions ou
+services mentionnés à l'article L. 518-1 ainsi qu'auprès de personnes physiques,
+dûment avisées des risques encourus. Les prêts consentis par les personnes
+physiques sont non rémunérés et ne peuvent être d'une durée inférieure à deux
+ans.
+
+Ces associations et fondations sont habilitées dans des conditions définies par
+décret en Conseil d'Etat. Elles indiquent dans leur rapport annuel le montant et
+les caractéristiques des prêts qu'elles financent ou qu'elles distribuent
+répondant à la définition visée au III de l'article 80 de la loi n° 2005-32 du
+18 janvier 2005 de programmation pour la cohésion sociale et bénéficiant à ce
+titre de garanties publiques.
 
 6. Aux personnes morales pour les prêts participatifs qu'elles consentent en
 vertu des articles L. 313-13 à L. 313-17 et aux personnes morales mentionnées à

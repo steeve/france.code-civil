@@ -1,4 +1,7 @@
 Article L313-16
 ----
-Les dispositions des chapitres Ier et II et des sections 2 à 8 du chapitre III
-du présent titre sont d'ordre public.
+Les conditions d'application du présent titre à l'exception de celles de la
+section 1 du présent chapitre, sont fixées par décret en Conseil d'Etat.
+Toutefois le modèle de l'offre visée aux articles L. 312-7, L. 312-8 et L.
+312-26 pourra, en tant que de besoin, être fixé par le comité de la
+réglementation bancaire.
