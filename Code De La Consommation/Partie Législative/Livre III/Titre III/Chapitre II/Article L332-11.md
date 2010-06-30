@@ -1,5 +1,5 @@
 Article L332-11
 ----
-Les personnes ayant bénéficié de la procédure de rétablissement personnel font
-l'objet, à ce titre, d'une inscription au fichier prévu à l'article L. 333-4,
-pour une période de huit ans.
+Les dettes effacées en application des articles L. 332-5 et L. 332-9 du présent
+code valent régularisation des incidents au sens de l'article L. 131-73 du code
+monétaire et financier.

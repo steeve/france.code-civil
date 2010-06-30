@@ -1,15 +1,22 @@
 Article L332-5
 ----
-A l'occasion des recours exercés devant le juge de l'exécution pour contester
-les décisions de la commission en matière d'orientation du dossier ou en
-application des articles L. 331-4 et L. 332-2, celui-ci peut, avec l'accord du
-débiteur, décider l'ouverture d'une procédure de rétablissement personnel.
+Lorsque la commission recommande un rétablissement personnel sans liquidation
+judiciaire et en l'absence de contestation, le juge de l'exécution confère force
+exécutoire à la recommandation, après en avoir vérifié la régularité et le
+bien-fondé.
 
-Si, au terme d'un délai de neuf mois à compter du dépôt du dossier, la
-commission n'a pas décidé de son orientation, le débiteur peut saisir le juge
-aux fins d'ouverture d'une procédure de rétablissement personnel. Au cours des
-trois mois suivant la date d'expiration du délai visé au premier alinéa de
-l'article L. 331-3, le taux d'intérêt applicable à tous les emprunts en cours
-contractés par le débiteur est le taux d'intérêt légal, sauf décision contraire
-de la commission intervenant au cours de cette période ou décision contraire du
-juge intervenant à son issue.
+Le rétablissement personnel sans liquidation judiciaire rendu exécutoire par le
+juge de l'exécution entraîne l'effacement de toutes les dettes non
+professionnelles du débiteur à l'exception des dettes visées à l'article L.
+333-1, de celles mentionnées à l'article L. 333-1-2 et des dettes dont le prix a
+été payé au lieu et place du débiteur par la caution ou le coobligé, personnes
+physiques. Le rétablissement personnel sans liquidation judiciaire entraîne
+aussi l'effacement de la dette résultant de l'engagement que le débiteur a donné
+de cautionner ou d'acquitter solidairement la dette d'un entrepreneur individuel
+ou d'une société.
+
+Le greffe procède à des mesures de publicité pour permettre aux créanciers qui
+n'auraient pas été avisés de la recommandation de la commission de former tierce
+opposition à l'encontre de la décision du juge lui conférant force exécutoire.
+Les créances dont les titulaires n'auraient pas formé tierce opposition dans un
+délai de deux mois à compter de cette publicité sont éteintes.

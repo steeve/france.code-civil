@@ -14,8 +14,11 @@ entreprises d'investissement et la seconde sur proposition des associations
 familiales ou de consommateurs ou, à défaut, désignée en raison de sa compétence
 en matière de consommation ou d'action familiale.
 
-Un suppléant de ces personnalités est désigné dans les mêmes conditions. Une
-personne justifiant d'un diplôme et d'une expérience dans le domaine juridique
-et une personne justifiant d'une expérience dans le domaine de l'économie
-sociale et familiale sont associées à l'instruction du dossier et assistent aux
-réunions de la commission de surendettement avec voix consultative.
+Un suppléant de ces personnalités est désigné dans les mêmes conditions.
+
+La commission comprend également deux personnes, désignées par l'administrateur
+supérieur, justifiant pour l'une d'une expérience dans le domaine de l'économie
+sociale et familiale, pour l'autre d'un diplôme et d'une expérience dans le
+domaine juridique.
+
+La commission adopte un règlement intérieur rendu public.

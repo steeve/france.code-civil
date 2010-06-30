@@ -1,21 +1,21 @@
 Article L334-2
 ----
-Les articles L. 330-1 et L. 331-2 à L. 333-6, à l'exclusion de l'avant-dernière
-phrase des articles L. 331-7 et L. 331-7-1, sont applicables à Mayotte, sous les
-réserves suivantes :
+I. - Pour l'application du présent titre à Mayotte :
 
-a) A l'article L. 331-2, la référence au revenu minimum garanti mentionné à
+1° En l'absence d'adaptation, les références faites par des dispositions de ce
+titre applicables à Mayotte à des dispositions qui ne sont pas applicables à
+Mayotte, notamment à des dispositions du code du travail, du code de procédure
+civile ou du code de l'action sociale et des familles, sont remplacées par des
+références ayant le même objet applicables localement ;
+
+2° Les mots : "juge de l'exécution" sont remplacés partout où ils figurent par
+les mots : "président du tribunal de première instance ou le juge délégué par
+lui" ;
+
+3° A l'article L. 331-2, la référence au montant forfaitaire mentionné au 2° de
 l'article L. 262-2 du code de l'action sociale et des familles est remplacée par
-la référence à un montant fixé par le préfet ;
+la référence à un montant fixé par le représentant de l'Etat.
 
-b) A l'article L. 333-6, les mots : " Dans les départements d'outre-mer " sont
-remplacés par les mots : " A Mayotte ".
-
-Pour l'application de ces dispositions :
-
-a) Les références aux dispositions législatives du code du travail et au code de
-procédure civile sont remplacées par les références aux dispositions applicables
-localement ayant le même objet ;
-
-b) Les mots : " juge de l'exécution " sont remplacés par les mots : " président
-du tribunal de première instance ou les juges délégués par lui ".
+II. - La troisième phrase du huitième alinéa de l'article L. 331-7 et la
+troisième phrase du 2° de l'article L. 331-7-1 ne sont pas applicables à
+Mayotte.

@@ -1,28 +1,36 @@
 Article L331-7-1
 ----
-Lorsque la commission constate, sans retenir son caractère irrémédiable,
-l'insolvabilité du débiteur caractérisée par l'absence de ressources ou de biens
-saisissables de nature à permettre d'apurer tout ou partie de ses dettes et
-rendant inapplicables les mesures prévues à l'article L. 331-7, elle peut soit
-recommander la suspension de l'exigibilité des créances autres qu'alimentaires
-pour une durée qui ne peut excéder deux ans soit, par une proposition spéciale
-et motivée, recommander l'effacement partiel des créances. En ce cas, les
-mesures prévues à l'article L. 331-7 peuvent être mises en oeuvre dès lors que
-l'effacement partiel des créances les rend possibles. Sauf proposition contraire
-de la commission, la suspension de la créance entraîne la suspension du paiement
-des intérêts dus à ce titre. Durant cette période, seules les sommes dues au
-titre du capital peuvent être de plein droit productives d'intérêts dont le taux
-n'excède pas le taux légal.
+La commission peut recommander, par proposition spéciale et motivée, les mesures
+suivantes :
 
-Dans le cas où la commission recommande la suspension de l'exigibilité des
-créances autres qu'alimentaires, elle réexamine, à l'issue de la période de
-suspension, la situation du débiteur. Si cette situation le permet, elle
-recommande tout ou partie des mesures prévues à l'article L. 331-7. Si le
-débiteur demeure insolvable, elle recommande, par une proposition spéciale et
-motivée, l'effacement partiel des créances éventuellement combiné avec les
-mesures de l'article L. 331-7. Celles dont le prix a été payé au lieu et place
-du débiteur par la caution ou le coobligé ne peuvent faire l'objet d'un
-effacement. Les dettes fiscales font l'objet de remises totales ou partielles
-dans les mêmes conditions que les autres dettes. Aucun nouvel effacement ne peut
-intervenir, dans une période de huit ans, pour des dettes similaires à celles
-qui ont donné lieu à un effacement.
+1° En cas de vente forcée du logement principal du débiteur, grevé d'une
+inscription bénéficiant à un établissement de crédit ayant fourni les sommes
+nécessaires à son acquisition, la réduction du montant de la fraction des prêts
+immobiliers restant due aux établissements de crédit après la vente, après
+imputation du prix de vente sur le capital restant dû, dans des proportions
+telles que son paiement, assorti d'un rééchelonnement calculé conformément au 1°
+de l'article L. 331-7, soit compatible avec les ressources et les charges du
+débiteur.
+
+La même mesure est applicable en cas de vente amiable dont le principe, destiné
+à éviter une saisie immobilière, et les modalités ont été arrêtés d'un commun
+accord entre le débiteur et l'établissement de crédit.
+
+Le bénéfice de ces dispositions ne peut être invoqué plus de deux mois après
+sommation faite au débiteur d'avoir à payer le montant de la fraction des prêts
+immobiliers restant due, à moins que, dans ce délai, la commission n'ait été
+saisie par ce même débiteur.A peine de nullité, la sommation de payer reproduit
+les dispositions du présent alinéa.
+
+Ces mesures peuvent se combiner avec celles prévues à l'article L. 331-7 ;
+
+2° L'effacement partiel des créances combiné avec les mesures mentionnées à
+l'article L. 331-7. Celles de ces créances dont le prix a été payé au lieu et
+place du débiteur par la caution ou le coobligé, personnes physiques, ne peuvent
+faire l'objet d'un effacement. Les dettes fiscales font l'objet de remises
+totales ou partielles dans les mêmes conditions que les autres dettes.
+
+Les créances figurant dans l'état du passif définitivement arrêté par la
+commission ou le juge ne peuvent produire d'intérêts ou générer de pénalités de
+retard jusqu'à ce que les mesures prévues au présent article soient opposables
+au créancier.

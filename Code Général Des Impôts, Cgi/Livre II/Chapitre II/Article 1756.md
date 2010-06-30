@@ -9,8 +9,11 @@ d'ouverture, sont remis, à l'exception des majorations prévues aux b et c du 1
 de l'article 1728 et aux articles 1729 et 1732 et des amendes mentionnées aux
 articles 1737 et 1740 A.
 
-II.-En cas de mise en oeuvre de la procédure de rétablissement personnel prévue
-à l'article L. 332-6 du code de la consommation, les majorations, frais de
-poursuites et pénalités fiscales encourus en matière d'impôts directs dus à la
-date du jugement d'ouverture sont remis, à l'exception des majorations prévues
-aux b et c du 1 de l'article 1728 et à l'article 1729.
+II.-En cas de mise en œuvre de la procédure de rétablissement personnel prévue
+aux articles L. 332-5 et L. 332-6 du code de la consommation, les majorations,
+frais de poursuites et pénalités fiscales encourus en matière d'impôts directs
+dus à la date à laquelle la commission recommande un rétablissement personnel
+sans liquidation judiciaire ou à la date du jugement d'ouverture d'une procédure
+de rétablissement personnel avec liquidation judiciaire sont remis, à
+l'exception des majorations prévues aux b et c du 1 de l'article 1728 et à
+l'article 1729.

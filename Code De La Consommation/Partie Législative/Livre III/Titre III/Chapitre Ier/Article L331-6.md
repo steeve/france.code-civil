@@ -15,7 +15,11 @@ insolvabilité.
 
 Le plan prévoit les modalités de son exécution. Sa durée totale, y compris
 lorsqu'il fait l'objet d'une révision ou d'un renouvellement, ne peut excéder
-dix années. Les mesures du plan peuvent excéder ces délais lorsqu'elles
+huit années. Les mesures du plan peuvent excéder ces délais lorsqu'elles
 concernent le remboursement de prêts contractés pour l'achat d'un bien
 immobilier constituant la résidence principale et dont le plan permet d'éviter
 la cession par le débiteur.
+
+Les créances figurant dans l'état du passif définitivement arrêté par la
+commission ou le juge ne peuvent produire d'intérêts ou générer de pénalités de
+retard jusqu'à la mise en œuvre du plan.
