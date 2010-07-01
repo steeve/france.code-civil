@@ -1,8 +1,12 @@
 Article R4452-18
 ----
-Les contrôles des organismes mentionnés à l'article R. 4452-15 font l'objet de
-rapports écrits, mentionnant la date et la nature des vérifications, les noms et
-qualités de la ou des personnes les ayant réalisés ainsi que les éventuelles
-non-conformités relevées. Ces rapports sont transmis à l'employeur, qui les
-conserve pendant au moins dix ans. Ils sont tenus à la disposition de
-l'inspecteur du travail.
+Lorsqu'en dépit des mesures de prévention mises en œuvre en application de la
+présente section, des expositions dépassant les valeurs limites d'exposition
+sont constatées, l'employeur :
+
+1° Prend immédiatement des mesures pour réduire l'exposition à un niveau
+inférieur à ces valeurs limites ;
+
+2° Détermine les causes du dépassement des valeurs limites d'exposition et
+adapte en conséquence les mesures de protection et de prévention en vue d'éviter
+tout nouveau dépassement.

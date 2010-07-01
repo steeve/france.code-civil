@@ -12,5 +12,5 @@ radioprotection des installations et activités nucléaires intéressant la déf
 ;
 
 2° Par arrêté du ministre de la défense pour l'inspection des autres
-installations intéressant la défense, pour lesquelles s'applique l'article L.
-611-2 du code du travail.
+installations intéressant la défense, pour lesquelles s'applique l'article R.
+8111-12 du code du travail.

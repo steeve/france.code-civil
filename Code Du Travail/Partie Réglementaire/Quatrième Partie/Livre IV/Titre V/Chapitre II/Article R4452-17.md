@@ -1,7 +1,12 @@
 Article R4452-17
 ----
-Une décision de l'Autorité de sûreté nucléaire, homologuée par les ministres
-chargés du travail et de l'agriculture, précise les modalités techniques et la
-périodicité des contrôles prévus aux sous-sections 1 et 2, compte tenu de la
-nature de l'activité exercée et des caractéristiques des appareils et sources
-utilisés.
+Les équipements de protection individuelle sont tels qu'ils réduisent les
+expositions à un niveau qui ne dépasse pas les valeurs limites d'exposition
+définies aux articles R. 4452-5 et R. 4452-6.
+
+Ils sont adoptés après consultation du comité d'hygiène, de sécurité et des
+conditions de travail ou, à défaut, des délégués du personnel, du médecin du
+travail et, éventuellement, avec le concours des agents des services de
+prévention des organismes de sécurité sociale et des organismes de santé, de
+sécurité et des conditions de travail mentionnés à l'article L. 4643-1. Ils sont
+choisis en concertation avec les travailleurs.

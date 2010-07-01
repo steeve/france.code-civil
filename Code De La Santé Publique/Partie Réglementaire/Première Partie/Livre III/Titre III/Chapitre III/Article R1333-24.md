@@ -7,4 +7,4 @@ existe.
 
 Cette demande indique le nom de la personne compétente en radioprotection qui a
 participé à la constitution du dossier, conformément aux dispositions de
-l'article R. 231-106 du code du travail.
+l'article R. 4451-112 du code du travail.

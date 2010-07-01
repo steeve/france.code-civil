@@ -12,13 +12,13 @@ radioprotection.
 
 En cas de constat d'une non-conformité susceptible d'entraîner une exposition
 des personnes au-delà des limites réglementaires prévues à l'article R. 1333-8
-ainsi qu'aux articles R. 231-76 et R. 231-77 du code du travail, l'organisme qui
-a effectué le contrôle doit, sans délai, transmettre une recommandation motivée
-de placer hors service l'appareil ou l'installation contrôlée au titulaire de
-l'autorisation ou au déclarant de cet appareil ou de cette installation ainsi
-qu'au chef d'établissement. Cette recommandation est adressée par le chef
-d'établissement à l'inspecteur du travail, à l'Autorité de sûreté nucléaire, au
-préfet et, pour les établissements de santé et les organismes responsables de
-services de santé, au directeur général de l'agence régionale de santé. Le chef
-d'établissement précise les mesures qu'il compte prendre pour remédier à cette
-non-conformité.
+ainsi qu'aux articles D. 4152-5, D. 4153-34, R. 4451-12 et R. 4451-13 du code du
+travail, l'organisme qui a effectué le contrôle doit, sans délai, transmettre
+une recommandation motivée de placer hors service l'appareil ou l'installation
+contrôlée au titulaire de l'autorisation ou au déclarant de cet appareil ou de
+cette installation ainsi qu'au chef d'établissement. Cette recommandation est
+adressée par le chef d'établissement à l'inspecteur du travail, à l'Autorité de
+sûreté nucléaire, au préfet et, pour les établissements de santé et les
+organismes responsables de services de santé, au directeur général de l'agence
+régionale de santé. Le chef d'établissement précise les mesures qu'il compte
+prendre pour remédier à cette non-conformité.

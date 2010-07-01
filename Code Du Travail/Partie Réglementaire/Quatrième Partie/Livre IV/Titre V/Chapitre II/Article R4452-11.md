@@ -1,8 +1,6 @@
 Article R4452-11
 ----
-Une décision de l'Autorité de sûreté nucléaire, homologuée par les ministres
-chargés du travail et de l'agriculture, précise : 1° Les paramètres d'exposition
-permettant de vérifier le respect des valeurs de dose fixées aux 1° et 2° de
-l'article R. 4452-1 ainsi que les niveaux mentionnés à l'article R. 4452-3
-compte tenu notamment des débits de dose et de la contamination radioactive ; 2°
-Les caractéristiques matérielles des limites de zone.
+Lorsque les résultats de l'évaluation des risques mettent en évidence la moindre
+possibilité de dépassement des valeurs limites d'exposition des travailleurs,
+l'employeur détermine les mesures de prévention, de formation et de suivi
+médical à prendre, conformément aux dispositions des sections 5, 6 et 7.

@@ -1,17 +1,28 @@
 Article R4452-19
 ----
-En cas de constat de non-conformité susceptible d'entraîner une exposition des
-travailleurs au-delà des limites de dose prévues aux articles D. 4152-5, D.
-4153-34, R. 4451-12 et R. 4451-13, l'organisme ayant réalisé les contrôles
-mentionnés à l'article R. 4452-15 en informe sans délai l'employeur, qui prend
-toute mesure appropriée pour remédier à cette situation. L'employeur en informe
-le comité d'hygiène, de sécurité et des conditions de travail ou, à défaut, les
-délégués du personnel, l'inspecteur du travail et, selon le cas, l'Autorité de
-sûreté nucléaire ou le délégué à la sûreté nucléaire et à la radioprotection
-pour les activités et installations intéressant la défense mentionnés à
-l'article R. * 1411-7 du code de la défense. Une décision de l'Autorité de
-sûreté nucléaire, homologuée par les ministres chargés du travail et de
-l'agriculture, définit les cas de non-conformité mentionnés, compte tenu de la
-nature et de l'ampleur du risque. Elle précise, le cas échéant, que les
-documents relatifs à ces cas peuvent être conservés pendant une durée supérieure
-à dix ans.
+Les mesures de formation portent notamment sur :
+
+1° Les sources de rayonnements optiques artificiels se trouvant sur le lieu de
+travail ;
+
+2° Les risques pour la santé et la sécurité pouvant résulter d'une exposition
+excessive aux rayonnements optiques artificiels ainsi que les valeurs limites
+d'exposition applicables ;
+
+3° Les résultats de l'évaluation des risques définie à la section 4 ainsi que
+les mesures prises en application de la section 5 en vue de supprimer ou de
+réduire les risques résultant des rayonnements optiques artificiels ;
+
+4° Les précautions à prendre par les travailleurs pour assurer leur protection
+et celle des autres travailleurs présents sur le lieu de travail ;
+
+5° L'utilisation correcte des équipements de travail et des équipements de
+protection individuelle ;
+
+6° La conduite à tenir en cas d'accident ;
+
+7° La manière de repérer les effets nocifs d'une exposition sur la santé et de
+les signaler ;
+
+8° Les conditions dans lesquelles les travailleurs sont soumis à une
+surveillance médicale.

@@ -1,12 +1,24 @@
 Article R4452-13
 ----
-Afin de permettre l'évaluation de l'exposition externe et interne des
-travailleurs, l'employeur procède ou fait procéder à des contrôles techniques
-d'ambiance. Ces contrôles comprennent notamment : 1° En cas de risques
-d'exposition externe, la mesure des débits de dose externe avec l'indication des
-caractéristiques des rayonnements en cause ; 2° En cas de risques d'exposition
-interne, les mesures de la concentration de l'activité dans l'air et de la
-contamination des surfaces avec l'indication des caractéristiques des substances
-radioactives présentes. Lorsque ces contrôles ne sont pas réalisés de manière
-continue, leur périodicité est définie conformément à une décision de l'Autorité
-de sûreté nucléaire prise en application de l'article R. 4452-17.
+La réduction des risques d'exposition aux rayonnements optiques artificiels se
+fonde notamment sur :
+
+1° La mise en œuvre d'autres procédés de travail n'exposant pas aux rayonnements
+optiques artificiels ou entraînant une exposition moindre ;
+
+2° Le choix d'équipements de travail appropriés émettant, compte tenu du travail
+à effectuer, le moins de rayonnements optiques artificiels possible ;
+
+3° La limitation de la durée et de l'intensité des expositions ;
+
+4° La conception, l'agencement des lieux et postes de travail et leur
+modification ;
+
+5° Des moyens techniques pour réduire l'exposition aux rayonnements optiques
+artificiels en agissant sur leur émission, leur propagation, leur réflexion,
+tels qu'écrans, capotages ;
+
+6° Des programmes appropriés de maintenance des équipements de travail et du
+lieu de travail ;
+
+7° L'information et la formation adéquates des travailleurs.

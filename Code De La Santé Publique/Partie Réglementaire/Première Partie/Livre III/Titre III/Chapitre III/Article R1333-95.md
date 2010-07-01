@@ -1,11 +1,11 @@
 Article R1333-95
 ----
 Sans préjudice des contrôles internes prévus à l'article R. 1333-7 et des
-contrôles prévus aux articles R. 231-84 et R. 231-85 du code du travail et, le
-cas échéant, de ceux réalisés en application de l'article L. 521-21 du code de
-l'environnement, le chef d'établissement est tenu de faire contrôler par
-l'Institut de radioprotection et de sûreté nucléaire ou par un organisme agréé
-par l'Autorité de sûreté nucléaire :
+contrôles prévus aux articles R. 4451-29, R. 4451-30 et R. 4451-32 du code du
+travail et, le cas échéant, de ceux réalisés en application de l'article L.
+521-21 du code de l'environnement, le chef d'établissement est tenu de faire
+contrôler par l'Institut de radioprotection et de sûreté nucléaire ou par un
+organisme agréé par l'Autorité de sûreté nucléaire :
 
 1° L'efficacité de l'organisation et des dispositifs techniques qu'il a mis en
 place en application de l'article R. 1333-7 ;

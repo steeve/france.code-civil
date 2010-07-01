@@ -1,5 +1,5 @@
 Article R4452-5
 ----
-L'employeur consigne, dans le document unique d'évaluation des risques, les
-résultats de l'évaluation des risques retenus pour délimiter les zones
-surveillée ou contrôlée.
+L'exposition des travailleurs ne peut dépasser les valeurs limites d'exposition
+aux rayonnements incohérents autres que ceux émis par les sources naturelles de
+rayonnement optique fixées à l'annexe I figurant à la fin du présent chapitre.

@@ -1,5 +1,8 @@
 Article R4452-14
 ----
-Les contrôles techniques mentionnés aux articles R. 4452-12 et R. 4452-13 sont
-réalisés par la personne ou le service compétent en radioprotection mentionnés à
-l'article R. 4456-1 et suivants.
+Les lieux de travail où, d'après les résultats de l'évaluation des risques
+définie à la section 4, les travailleurs sont susceptibles d'être exposés à des
+rayonnements optiques artificiels dépassant les valeurs limites d'exposition
+définies aux articles R. 4452-5 et R. 4452-6 font l'objet d'une signalisation
+appropriée. Ces lieux sont en outre circonscrits, lorsque cela est techniquement
+possible, et leur accès est limité.

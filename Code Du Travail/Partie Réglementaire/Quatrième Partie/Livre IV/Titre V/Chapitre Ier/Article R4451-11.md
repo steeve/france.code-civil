@@ -5,11 +5,11 @@ Dans le cadre de l'évaluation des risques, l'employeur, en collaboration, le ca
 procède à une analyse des postes de travail qui est renouvelée périodiquement et
 à l'occasion de toute modification des conditions pouvant affecter la santé et
 la sécurité des travailleurs. Lors d'une opération se déroulant dans la zone
-contrôlée définie à l'article R. 4452-1, l'employeur : 1° Fait procéder à une
+contrôlée définie à l'article R. 4451-18, l'employeur : 1° Fait procéder à une
 évaluation prévisionnelle de la dose collective et des doses individuelles que
 les travailleurs sont susceptibles de recevoir lors de l'opération ; 2° Fait
 définir par la personne compétente en radioprotection, désignée en application
-de l'article R. 4456-1, des objectifs de dose collective et individuelle pour
+de l'article R. 4451-103, des objectifs de dose collective et individuelle pour
 l'opération fixés au niveau le plus bas possible compte tenu de l'état des
 techniques et de la nature de l'opération à réaliser et, en tout état de cause,
 à un niveau ne dépassant pas les valeurs limites fixées aux articles D. 4152-5,

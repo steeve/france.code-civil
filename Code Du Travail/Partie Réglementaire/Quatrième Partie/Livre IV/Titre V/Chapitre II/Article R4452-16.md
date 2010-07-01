@@ -1,7 +1,7 @@
 Article R4452-16
 ----
-L'employeur peut confier les contrôles mentionnés aux articles R. 4452-12 et R.
-4452-13 : 1° Soit à un organisme agréé mentionné à l'article R. 1333-95 du code
-de la santé publique, différent de celui procédant aux contrôles mentionnés à
-l'article R. 4452-15 ; 2° Soit à l'Institut de radioprotection et de sûreté
-nucléaire.
+Lorsqu'il n'est pas possible d'éviter les risques dus à l'exposition aux
+rayonnements optiques artificiels par d'autres moyens, des équipements de
+protection individuelle, appropriés et adaptés, sont mis à la disposition des
+travailleurs. Lorsque les niveaux d'exposition fixés aux articles R. 4452-5 et
+R. 4452-6 sont dépassés, l'employeur veille à leur port effectif.

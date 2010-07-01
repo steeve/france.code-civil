@@ -8,6 +8,6 @@ de douze mois consécutifs une dose efficace supérieure à 6 mSv ou des doses
 avant-bras, les pieds et les chevilles ; 2° 150 mSv pour la peau. Cette limite
 s'applique à la dose moyenne sur toute surface de 1 cm ², quelle que soit la
 surface exposée ; 3° 45 mSv pour le cristallin. Conformément aux articles R.
-4453-2 et R. 4453-6, ces travailleurs ne peuvent être affectés à des travaux
+4451-45 et R. 4451-49, ces travailleurs ne peuvent être affectés à des travaux
 requérant un classement en catégorie A et leur formation tient compte des règles
 particulières qui leur sont applicables.

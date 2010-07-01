@@ -1,5 +1,8 @@
 Article R4722-21
 ----
-L'employeur justifie qu'il a saisi l'organisme agréé ou l'Institut de
-radioprotection et de sûreté nucléaire pendant le délai d'exécution. Il transmet
-les résultats à l'agent ayant demandé la vérification dès leur réception.
+L'inspecteur ou le contrôleur du travail peut demander à l'employeur de faire
+procéder à un contrôle technique des valeurs limites d'exposition aux
+rayonnements optiques artificiels définies aux articles R. 4452-5 et R. 4452-6
+par un organisme accrédité.
+
+Il fixe le délai dans lequel l'organisme accrédité doit être saisi.
