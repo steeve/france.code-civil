@@ -8,9 +8,8 @@ du code général des collectivités territoriales, dans leur périmètre
 d'urbanisation défini en application des articles L. 5311-1 et L. 5311-2 de ce
 code ;
 
-b) A l'aménagement de la Défense, dans un périmètre défini par arrêté du
-ministre chargé de l'urbanisme à l'intérieur du périmètre de compétence de
-l'Etablissement public pour l'aménagement de la Défense ;
+b) A l'opération d'aménagement du quartier d'affaires de La Défense, dans un
+périmètre délimité par décret en Conseil d'Etat (4) ;
 
 c) Aux domaines industrialo-portuaires d'Antifer, du Verdon et de Dunkerque,
 dans les périmètres respectifs des ports autonomes du Havre, de Bordeaux et de
@@ -23,8 +22,8 @@ e) A l'opération d'aménagement Euroméditerranée dans la commune de Marseille
 dans le périmètre de compétence de l'Etablissement public d'aménagement
 Euroméditerranée ;
 
-f) A l'opération d'aménagement de Nanterre dans le périmètre de compétence de
-l'Etablissement public d'aménagement de Seine-Arche à Nanterre ;
+f) A l'opération d'aménagement de Nanterre et de La Garenne-Colombes, dans un
+périmètre délimité par décret en Conseil d'Etat (6) ;
 
 g) A l'aménagement et au développement des aérodromes de
 Paris-Charles-de-Gaulle, de Paris-Orly et de Paris-Le Bourget, à l'intérieur des
