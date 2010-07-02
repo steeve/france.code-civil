@@ -17,9 +17,9 @@ valeur ni aux échantillons.
 Cette disposition s'applique à toutes les activités visées au dernier alinéa de
 l'articles L. 113-2.
 
-Pour les établissements de crédit et les organismes mentionnés à l'article L.
-518-1 du code monétaire et financier, les règles relatives aux ventes avec
-primes sont fixées par le 2 du I de l'article L. 312-1-2 du même code. "
+Les règles relatives aux ventes avec primes applicables aux produits et services
+proposés pour la gestion d'un compte de dépôt sont fixées par le 2 du I de
+l'article L. 312-1-2 du code monétaire et financier."
 
 " Art.L. 122-1.-Il est interdit de refuser à un consommateur la vente d'un
 produit ou la prestation d'un service, sauf motif légitime, et de subordonner la
