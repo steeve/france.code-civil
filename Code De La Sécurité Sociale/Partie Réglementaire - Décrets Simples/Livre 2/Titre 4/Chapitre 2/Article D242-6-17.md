@@ -1,22 +1,18 @@
 Article D242-6-17
 ----
-Les caisses régionales d'assurance maladie notifient à chaque employeur, dans
-les conditions fixées par arrêté du ministre chargé de la sécurité sociale, le
-classement des risques et le ou les taux de cotisation afférents aux
-établissements permanents situés dans leur circonscription territoriale, quel
-que soit le lieu du siège de l'entreprise dont relèvent ces établissements.
+Les taux nets collectifs sont applicables aux établissements nouvellement créés
+durant l'année de leur création et les deux années civiles suivantes, quel que
+soit leur effectif ou celui de l'entreprise dont ils relèvent. Toutefois, le
+taux unique est applicable pour les établissements nouvellement créés
+appartenant à la même catégorie de risque que ceux des entreprises bénéficiant
+d'un taux unique.
 
-Toutefois, le taux de cotisation mixte ou réel applicable à chaque établissement
-distinct d'une entreprise du bâtiment et des travaux publics est déterminé par
-la caisse régionale d'assurance maladie dans la circonscription de laquelle se
-trouve le siège social ou le principal siège ou, à défaut, le principal chantier
-sis en France, hors des départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
+A l'expiration de ce délai, les taux nets collectif, mixte ou individuel sont
+applicables à ces établissements en fonction de leur effectif ou de l'effectif
+de l'entreprise dont ils relèvent. Pour les taux individuel ou mixte, il est
+tenu compte des résultats propres à ces établissements et afférents aux années
+civiles, complètes ou non, écoulées depuis leur création.
 
-Tant que cette notification n'a pas été effectuée, l'employeur doit verser, à
-titre provisionnel, les cotisations dues au titre des accidents du travail et
-des maladies professionnelles sur la base du taux antérieurement applicable.
-
-Les dispositions du présent article ne sont pas applicables en ce qui concerne
-certaines catégories de travailleurs énumérées par arrêté du ministre chargé de
-la sécurité sociale, pour lesquelles le taux collectif de cotisation publié est
-directement applicable à l'employeur.
+Ne peut être considéré comme un établissement nouvellement créé celui issu d'un
+précédent établissement dans lequel a été exercée une activité similaire, avec
+les mêmes moyens de production et ayant repris au moins la moitié du personnel.

@@ -1,12 +1,23 @@
 Article D242-6-11
 ----
-Pour les établissements qui cotisent sur la base d'un taux mixte ou d'un taux
-réel, le taux notifié ne peut varier d'une année sur l'autre :
+Les taux nets collectifs sont calculés suivant les règles prévues aux articles
+D. 242-6-1 à D. 242-6-5 et D. 242-6-9, en fonction des résultats statistiques
+des trois dernières années connues.
 
-1° Soit en augmentation de plus de 25 p. 100 si le taux de l'année précédente
-est supérieur à 4, ou de plus d'un point si le taux de l'année précédente est
-inférieur ou égal à 4 ;
+La commission des accidents du travail et des maladies professionnelles fixe
+chaque année, après avis des comités techniques nationaux compétents, les taux
+bruts qu'elle adresse au plus tard le 30 novembre au ministre chargé de la
+sécurité sociale. Celui-ci établit, par arrêté, les taux nets en fonction de ces
+taux bruts et des majorations telles qu'approuvées ou fixées en application de
+l'article D. 242-6-10.
 
-2° Soit en diminution de plus de 20 p. 100 si le taux de l'année précédente est
-supérieur à 4, ou de plus de 0,8 point si le taux de l'année précédente est
-inférieur ou égal à 4.
+Ces tarifs entrent en vigueur à partir du premier jour du trimestre civil
+suivant leur publication au Journal officiel de la République française. En cas
+de publication après le 31 décembre, ce sont les taux nets antérieurs qui
+s'appliquent jusqu'à la publication des nouveaux taux nets.
+
+En ce qui concerne les assurés souscrivant une assurance volontaire individuelle
+visée à l'article L. 743-1, le taux applicable est le taux collectif défini au
+premier alinéa du présent article fixé pour l'activité professionnelle dudit
+assuré, diminué d'un pourcentage forfaitaire fixé par arrêté du ministre chargé
+de la sécurité sociale en tenant compte des résultats statistiques.

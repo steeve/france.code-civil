@@ -1,15 +1,33 @@
 Article D242-6-13
 ----
-Les taux collectifs sont applicables aux établissements nouvellement créés
-durant l'année de leur création et les deux années civiles suivantes, quel que
-soit leur effectif ou celui de l'entreprise dont ils relèvent.
+Les taux nets mixtes de cotisation sont déterminés par les caisses mentionnées à
+l'article L. 215-1 par l'addition des deux éléments suivants :
 
-A l'expiration de ce délai, les taux collectif, mixte ou réel sont applicables à
-ces établissements en fonction de leur effectif ou de l'effectif de l'entreprise
-dont ils relèvent. Pour les taux réel ou mixte, il est tenu compte des résultats
-propres à ces établissements et afférents aux années civiles, complètes ou non,
-écoulées depuis leur création.
+1° Une fraction du taux net collectif fixé pour l'activité professionnelle dont
+relève l'établissement ou l'ensemble des établissements appartenant à la même
+catégorie de risque ;
 
-Ne peut être considéré comme un établissement nouvellement créé celui issu d'un
-précédent établissement dans lequel a été exercée une activité similaire, avec
-les mêmes moyens de production et ayant repris au moins la moitié du personnel.
+2° Une fraction du taux net individuel qui serait attribué à l'établissement ou
+à l'ensemble des établissements appartenant à la même catégorie de risque si ce
+taux leur était applicable.
+
+Les fractions de taux varient en fonction du nombre de salariés de l'entreprise
+dans les proportions fixées par le tableau ci-après :
+
+NOMBRE DE SALARIÉS de l'entreprise (1)
+
+FRACTION du taux individuel (2)
+
+FRACTION du taux collectif (2)
+
+20 à 149
+
+E-19 131
+
+E-19 1-
+
+131
+
+(1) L'entreprise peut comporter un ou plusieurs établissements. (2) E représente
+l'effectif de l'entreprise déterminé conformément aux dispositions de l'arrêté
+prévu à l'article D. 242-6-16.

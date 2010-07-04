@@ -14,8 +14,8 @@ caractère professionnel, sans prise en compte de l'incapacité permanente
 reconnue après révision ou rechute ou du décès survenu après consolidation.
 
 L'accident du travail ou la maladie professionnelle donnant lieu à une
-incapacité temporaire puis à une incapacité permanente est classé dans les
-catégories d'incapacité temporaire et d'incapacité permanente correspondantes.
+incapacité temporaire puis à une incapacité permanente est classé les catégories
+d'incapacité temporaire et d'incapacité permanente correspondantes.
 
 Les maladies professionnelles constatées ou contractées dans des conditions
 fixées par arrêté du ministre chargé de la sécurité sociale et du ministre

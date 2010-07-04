@@ -1,11 +1,5 @@
 Article D242-31
 ----
-Les tarifs de cotisations, dits taux collectifs, sont applicables aux
-établissements dont l'effectif habituel de salariés est inférieur à 50, ou à
-chaque établissement appartenant à une même entreprise des départements susvisés
-lorsque l'effectif global habituel de salariés de ladite entreprise est
-inférieur à 50. Ils sont fixés chaque année par risque ou groupe de risques par
-la caisse régionale d'assurance maladie d'Alsace-Moselle après avis des comités
-techniques régionaux compétents, suivant les règles définies aux articles D.
-242-6-3 et D. 242-6-4 en fonction des résultats statistiques des trois dernières
-années connues.
+Le taux net de cotisation est constitué par le taux brut affecté de trois
+majorations définies à l'article D. 242-6-9 dans les conditions prévues aux
+articles D. 242-30 et D. 242-32 à D. 242-34.

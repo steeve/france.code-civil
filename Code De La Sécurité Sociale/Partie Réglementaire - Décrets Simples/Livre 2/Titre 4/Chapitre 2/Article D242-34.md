@@ -1,11 +1,17 @@
 Article D242-34
 ----
-Le taux notifié ne peut varier d'une année sur l'autre :
+La valeur du risque mentionnée à l'article D. 242-32 pour le calcul du taux brut
+individuel est déterminée en application des articles D. 242-6-6 à D. 242-6-8.
 
-1° Soit en augmentation de plus de 33,33 p. 100 si le taux de l'année précédente
-est supérieur à 3, ou de plus d'un point si le taux de l'année précédente est
-inférieur ou égal à 3 ;
+Toutefois, par dérogation au dernier alinéa de l'article D. 242-6-6, pour les
+entreprises de bâtiment et de travaux publics, les accidents du travail et les
+maladies professionnelles sont classés dans les catégories d'incapacité
+permanente suivantes :
 
-2° Soit en diminution de plus de 25 p. 100 si le taux de l'année précédente est
-supérieur à 3, ou de plus d'un point si le taux de l'année précédente est
-inférieur ou égal à 3.
+-incapacité permanente de moins de 10 % ;
+
+-incapacité de 10 % à 19 % ;
+
+-incapacité permanente de 20 % à 39 % ;
+
+-incapacité permanente de 40 % et plus ou décès de la victime.

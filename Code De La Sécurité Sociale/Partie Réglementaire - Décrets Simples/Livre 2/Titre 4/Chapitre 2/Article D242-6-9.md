@@ -1,43 +1,25 @@
 Article D242-6-9
 ----
-Les taux nets de cotisation, dits taux mixtes, sont applicables aux entreprises
-qui ne comportent qu'un seul établissement et dont l'effectif habituel de
-salariés est compris entre 10 et 199, ou à chaque établissement d'une même
-entreprise lorsque l'effectif global habituel de salariés de cette entreprise
-est compris entre 10 et 199. Ils sont déterminés par les caisses régionales
-d'assurance maladie par l'addition des deux éléments suivants :
+Les trois majorations mentionnées à l'article D. 242-6-3 sont déterminées de la
+façon suivante :
 
-1° Une fraction du taux collectif fixé pour l'activité professionnelle dont
-relève l'établissement ;
+1° Une majoration forfaitaire correspondant à la couverture des accidents du
+trajet est fixée en pourcentage des salaires ;
 
-2° Une fraction du taux net réel qui serait attribué à l'établissement si ce
-taux lui était applicable.
+2° Une majoration couvrant les frais de rééducation professionnelle, les charges
+de gestion du fonds national des accidents du travail, les dépenses liées aux
+prélèvements au profit des fonds visés à l'article R. 252-5, 50 % du montant du
+versement annuel mentionné à l'article L. 176-1, est calculée en pourcentage du
+taux brut augmenté de la majoration visée au 1° ci-dessus ;
 
-Les fractions de taux définies ci-dessus varient en fonction du nombre de
-salariés de l'entreprise dans les proportions fixées par le tableau ci-après :
-
-
-NOMBRE
-
-de salariés de l'entreprise (1)
-
-
-FRACTION
-
-du taux réel propre à l'établissement (2)
-
-
-FRACTION
-
-du taux collectif correspondant à l'activité de l'établissement (2)
-
-10 à 199
-
-E - 9 / 191
-
-1 - (E - 9 / 191)
-
-(1) L'entreprise peut comporter un ou plusieurs établissements.
-
-(2) E représente l'effectif habituel de l'entreprise déterminé conformément aux
-dispositions de l'arrêté prévu à l'article D. 242-6-12.
+3° Une majoration couvrant les dépenses correspondant aux compensations
+inter-régimes visées aux articles L. 134-7 et L. 134-15, les dépenses du fonds
+commun des accidents du travail visé à l'article L. 437-1, le montant des
+contributions de la branche accidents du travail et maladies professionnelles au
+financement du fonds d'indemnisation des victimes de l'amiante mentionné à
+l'article 53 de la loi n° 2000-1257 du 23 décembre 2000 et au fonds de cessation
+anticipée d'activité des travailleurs de l'amiante mentionné à l'article 41 de
+la loi n° 98-1194 du 23 décembre 1998 et la valeur du risque constituée par les
+dépenses inscrites au compte spécial visé à l'article D. 242-6-3 et 50 % du
+montant du versement annuel mentionné à l'article L. 176-1, est fixée en
+pourcentage des salaires.
