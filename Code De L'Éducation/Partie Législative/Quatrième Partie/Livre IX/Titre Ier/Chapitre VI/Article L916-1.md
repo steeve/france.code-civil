@@ -38,12 +38,11 @@ lesquels une aide a été reconnue nécessaire par la commission mentionnée à
 l'article L. 146-9 du code de l'action sociale et des familles.
 
 Les conditions d'application du présent article sont fixées par décret pris
-après avis du comité technique paritaire ministériel du ministère chargé de
-l'éducation. Ce décret précise les conditions dans lesquelles est aménagé le
-temps de travail des assistants d'éducation, en particulier pour ceux qui sont
-astreints à un service de nuit. Il précise également les droits reconnus à ces
-agents au titre des articles L. 970-1 et suivants du code du travail. Il peut
-déroger, dans la mesure justifiée par la nature de leurs missions, aux
-dispositions générales prises pour l'application de l'article 7 de la loi n°
-84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la
-fonction publique de l'Etat.
+après avis du comité technique ministériel du ministère chargé de l'éducation.
+Ce décret précise les conditions dans lesquelles est aménagé le temps de travail
+des assistants d'éducation, en particulier pour ceux qui sont astreints à un
+service de nuit. Il précise également les droits reconnus à ces agents au titre
+des articles L. 970-1 et suivants du code du travail. Il peut déroger, dans la
+mesure justifiée par la nature de leurs missions, aux dispositions générales
+prises pour l'application de l'article 7 de la loi n° 84-16 du 11 janvier 1984
+portant dispositions statutaires relatives à la fonction publique de l'Etat.

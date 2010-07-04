@@ -15,7 +15,7 @@ Ses fonctions sont incompatibles avec celles de directeur d'unité de formation
 et de recherche, d'école ou d'institut et celles de chef de tout établissement
 public à caractère scientifique, culturel et professionnel.
 
-Le président assure la direction de l'université. A ce titre :
+Le président assure la direction de l'université.A ce titre :
 
 1° Il préside le conseil d'administration, prépare et exécute ses délibérations.
 Il prépare et met en oeuvre le contrat pluriannuel d'établissement. Il préside
@@ -43,9 +43,9 @@ administratifs, techniques, ouvriers et de service ;
 publique dans des conditions fixées par décret en Conseil d'Etat ;
 
 7° Il est responsable de la sécurité dans l'enceinte de son établissement et
-assure le suivi des recommandations du comité d'hygiène et de sécurité
-permettant d'assurer la sécurité des personnels et des usagers accueillis dans
-les locaux ;
+assure le suivi des recommandations du comité d'hygiène, de sécurité et des
+conditions de travail permettant d'assurer la sécurité des personnels et des
+usagers accueillis dans les locaux ;
 
 8° Il exerce, au nom de l'université, les compétences de gestion et
 d'administration qui ne sont pas attribuées à une autre autorité par la loi ou

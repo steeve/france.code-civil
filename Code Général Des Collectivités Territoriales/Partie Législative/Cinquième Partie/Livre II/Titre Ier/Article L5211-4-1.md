@@ -12,9 +12,9 @@ l'établissement public de coopération intercommunale. Ils relèvent de cet
 
 Les modalités du transfert prévu aux alinéas précédents font l'objet d'une
 décision conjointe de la commune et de l'établissement public de coopération
-intercommunale, prise respectivement après avis du comité technique paritaire
-compétent pour la commune et, s'il existe, du comité technique paritaire
-compétent pour l'établissement public.
+intercommunale, prise respectivement après avis du comité technique compétent
+pour la commune et, s'il existe, du comité technique compétent pour
+l'établissement public.
 
 Les questions relatives à la situation des fonctionnaires territoriaux exerçant
 pour partie seulement dans un service ou une partie de service transféré sont
