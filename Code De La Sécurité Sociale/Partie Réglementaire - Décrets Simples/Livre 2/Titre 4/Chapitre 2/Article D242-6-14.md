@@ -1,5 +1,9 @@
 Article D242-6-14
 ----
-Pour le calcul des taux de cotisation dus au titre des agents statutaires des
-industries électriques et gazières, les majorations visées aux 1° et 3° de
-l'article D. 242-6-4 sont prises en compte pour le quart de leur valeur.
+I. - Les établissements exerçant une activité dont la liste est fixée par arrêté
+du ministre chargé de la sécurité sociale conservent un taux de cotisation
+collectif quel que soit leur effectif de salariés ou celui de l'entreprise dont
+ils relèvent.
+
+II. - Les travailleurs à domicile des entreprises constituent des établissements
+distincts auxquels sont applicables les taux collectifs.
