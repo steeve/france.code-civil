@@ -1,17 +1,21 @@
 Article R20-34
 ----
-I.-Les personnes physiques qui ont droit au revenu minimum d'insertion ou qui
-perçoivent l'allocation de solidarité spécifique ou l'allocation aux adultes
-handicapés et qui ont souscrit un abonnement au service téléphonique fixe auprès
-de l'opérateur qui les dessert, autorisé selon les conditions fixées au II,
-bénéficient, sur leur demande, d'une réduction de leur facture téléphonique. A
-cette fin, l'organisme gestionnaire de la prestation au titre de laquelle le
-droit à réduction tarifaire est ouvert leur délivre chaque année une
-attestation. L'intéressé transmet ladite attestation accompagnée du nom de
-l'opérateur qui le dessert et du numéro de sa ligne téléphonique au prestataire,
-chargé par les opérateurs de la gestion du dispositif de réduction tarifaire, et
-autorise ce prestataire à communiquer les informations suivantes aux opérateurs
-concernés : nom, prénom, adresse et numéro de téléphone.
+I.-Les personnes physiques qui ont droit au revenu de solidarité active et dont
+les ressources annuelles du foyer, prises en compte pour le calcul du revenu de
+solidarité active conformément à l'article L. 262-3 du code de l'action sociale
+et des familles, n'excèdent pas le montant forfaitaire mentionné au 2° de
+l'article L. 262-2 du même code ou qui perçoivent l'allocation de solidarité
+spécifique ou l'allocation aux adultes handicapés et qui ont souscrit un
+abonnement au service téléphonique fixe auprès de l'opérateur qui les dessert,
+autorisé selon les conditions fixées au II, bénéficient, sur leur demande, d'une
+réduction de leur facture téléphonique.A cette fin, l'organisme gestionnaire de
+la prestation au titre de laquelle le droit à réduction tarifaire est ouvert
+leur délivre chaque année une attestation.L'intéressé transmet ladite
+attestation accompagnée du nom de l'opérateur qui le dessert et du numéro de sa
+ligne téléphonique au prestataire, chargé par les opérateurs de la gestion du
+dispositif de réduction tarifaire, et autorise ce prestataire à communiquer les
+informations suivantes aux opérateurs concernés : nom, prénom, adresse et numéro
+de téléphone.
 
 Peuvent également bénéficier de cette même réduction, majorée de 4 euros hors
 taxes par mois, les invalides de guerre cumulant le bénéfice des articles L. 16
@@ -42,7 +46,7 @@ réception de la demande complète, après avis de l'Autorité de régulation de
 communications électroniques et des postes. Si l'Autorité de régulation des
 communications électroniques et des postes ne se prononce pas dans le délai d'un
 mois à compter de la réception de la demande complète, son avis est réputé
-positif. A défaut de réponse du ministre dans le délai de deux mois, la demande
+positif.A défaut de réponse du ministre dans le délai de deux mois, la demande
 est considérée comme acceptée.
 
 Le montant total des réductions tarifaires accordées au titre du I ainsi que des
