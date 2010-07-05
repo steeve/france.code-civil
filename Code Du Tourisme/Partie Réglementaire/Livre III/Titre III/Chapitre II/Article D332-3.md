@@ -11,9 +11,6 @@ dossier complet de demande de classement ;
 b) La grille de contrôle en format homologué par arrêté du ministre chargé du
 tourisme renseignée par l'organisme évaluateur ;
 
-c) Le projet de règlement intérieur conforme aux modèles arrêtés par le ministre
-chargé du tourisme.
-
 L'organisme évaluateur dispose d'un délai de quinze jours à compter de la date à
 laquelle s'est achevée la visite de l'établissement pour remettre à
 l'exploitant, en deux exemplaires, dont un exemplaire sous forme numérique, le

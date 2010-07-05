@@ -11,8 +11,8 @@ janvier 1986 prévoient expressément :
 1° Une destination et des conditions de jouissance des parties tant privatives
 que communes conformes au mode d'utilisation défini au présent article pour ce
 type de classement et comportant une obligation durable de location d'au moins
-70 % des chambres ou appartements meublés qui ne saurait être inférieure à neuf
-ans, les copropriétaires ou les associés des sociétés d'attribution pouvant
+70 % des locaux d'habitation meublés qui ne saurait être inférieure à neuf ans,
+les copropriétaires ou les associés des sociétés d'attribution pouvant
 bénéficier d'une réservation prioritaire ;
 
 2° Une gestion assurée pour l'ensemble de la résidence de tourisme par une seule

@@ -15,3 +15,8 @@ Le classement est prononcé pour une durée de cinq ans.
 Dès lors que l'exploitant a accompli les formalités nécessaires au contrôle
 mentionnées à l'article D. 333-5-2, son classement demeure jusqu'à la
 notification de la nouvelle décision de classement.
+
+En cas d'augmentation supérieure à 10 % du nombre d'emplacements exploités
+indiqué par la décision de classement, l'exploitant, s'il souhaite disposer d'un
+classement, est tenu de demander un nouveau classement auprès de l'autorité
+administrative compétente.
