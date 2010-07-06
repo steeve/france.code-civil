@@ -1,8 +1,9 @@
 Article R1614-78
 ----
-Ne peuvent bénéficier d'une attribution au titre de la première fraction du
-concours particulier que les communes, les établissements publics de coopération
-intercommunale et les départements qui assurent la maîtrise d'ouvrage d'une
-opération de construction, d'extension ou d'équipement de bibliothèques
-municipales ou de bibliothèques départementales de prêt dans les conditions
-prévues aux articles R. 1614-79 à R. 1614-83.
+Sont des investissements éligibles à une attribution au titre de la première
+fraction du concours particulier, d'une part, les investissements ayant pour
+objet la construction, la rénovation, la restructuration, l'extension ou la mise
+en accessibilité prévue par les articles L. 111-7 à L. 111-7-4 du code de la
+construction et de l'habitation dans les conditions prévues aux articles R.
+1614-79 à R. 1614-82, d'autre part, les investissements ayant pour objet
+l'équipement dans les conditions prévues à l'article R. 1614-83.

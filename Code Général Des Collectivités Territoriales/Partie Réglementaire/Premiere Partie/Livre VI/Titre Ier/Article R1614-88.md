@@ -1,10 +1,18 @@
 Article R1614-88
 ----
-Ne peuvent bénéficier d'une attribution au titre de la seconde fraction du
-concours particulier que les communes, les établissements publics de coopération
-intercommunale et les départements qui assurent la maîtrise d'ouvrage d'une
-opération de construction, d'extension ou d'équipement de bibliothèques
-municipales ou de bibliothèques départementales de prêt dans les conditions
-prévues aux articles R. 1614-89 à R. 1614-91. Ces opérations doivent présenter
-un intérêt régional ou national et permettre le développement d'actions de
-coopération avec les différents organismes en charge du livre et de la lecture.
+Sont des investissements éligibles à une attribution au titre de la seconde
+fraction du concours particulier, d'une part, les investissements ayant pour
+objet la construction, la rénovation, la restructuration, l'extension ou la mise
+en accessibilité prévue par les articles L. 111-7 à L. 111-7-4 du code de la
+construction et de l'habitation dans les conditions prévues aux articles R.
+1614-89 et R. 1614-90, d'autre part, les investissements ayant pour objet
+l'équipement dans les conditions prévues à l'article R. 1614-91.
+
+Ces investissements doivent porter sur des établissements qui, grâce à leur
+rayonnement départemental ou régional, participent à la circulation
+départementale, régionale ou nationale des documents, par l'utilisation
+notamment d'un réseau informatique d'information bibliographique et d'accès aux
+catalogues, et qui mènent des actions de coopération avec les différents
+organismes en charge du livre et de la lecture au niveau départemental, régional
+ou national, en matière d'acquisition, de conservation, d'animation ou de
+formation.

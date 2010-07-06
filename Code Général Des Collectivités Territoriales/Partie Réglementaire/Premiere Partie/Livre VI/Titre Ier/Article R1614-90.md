@@ -1,16 +1,8 @@
 Article R1614-90
 ----
-Les opérations de construction, de restructuration ou d'extension de
-bibliothèques départementales de prêt ne peuvent être prises en compte que si
-elles répondent aux conditions suivantes :
-
-a) Le projet doit favoriser la coopération et la mise en réseau de bibliothèques
-ainsi que le développement des services aux bibliothèques de ce réseau, et
-proposer des fonctions d'expertise et de veille scientifique et technologique ;
-
-b) La bibliothèque doit proposer plusieurs supports documentaires, offrir
-l'accès à internet et faciliter la transmission électronique d'informations et
-de documents ;
-
-c) Les surfaces minimales de la bibliothèque doivent répondre aux conditions
-prévues aux articles R. 1614-81 et R. 1614-82.
+Les investissements ayant pour objet la construction, la rénovation, la
+restructuration, l'extension ou la mise en accessibilité prévu par les articles
+L. 111-7 à L. 111-7-4 du code de la construction et de l'habitation au profit
+des bibliothèques départementales de prêt principales ne peuvent être pris en
+compte que si les surfaces minimales du projet répondent aux conditions prévues
+à l'article R. 1614-81.

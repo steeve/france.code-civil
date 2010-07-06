@@ -1,15 +1,15 @@
 Article R1614-83
 ----
-Peuvent également être prises en compte les opérations d'équipement suivantes :
+Sont également éligibles à une attribution au titre de la première fraction du
+concours particulier les investissements suivants ayant pour objet l'équipement
+:
 
-a) Les opérations d'équipement mobilier accompagnant une mise en réseau ou la
-construction, la restructuration ou l'extension d'une bibliothèque municipale ou
-d'une bibliothèque départementale de prêt répondant aux conditions définies aux
-articles R. 1614-78 à R. 1614-82 ;
+a) L'équipement mobilier accompagnant une mise en réseau ou tout investissement
+éligible en vertu des articles R. 1614-78 à R. 1614-82 ;
 
-b) Les opérations d'équipement mobilier et d'aménagement des locaux destinées à
-améliorer les conditions de préservation et de conservation des collections
-patrimoniales ;
+b) L'équipement mobilier et d'aménagement des locaux destiné à améliorer les
+conditions de préservation et de conservation des collections patrimoniales. Ces
+investissements ne sont éligibles qu'au titre des bibliothèques municipales ;
 
 c) Les opérations d'informatisation ou de renouvellement du matériel
 informatique après cinq ans, à condition qu'elles permettent de travailler dans

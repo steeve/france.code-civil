@@ -1,8 +1,9 @@
 Article R1614-80
 ----
-Les opérations de construction, de restructuration ou d'extension d'annexes des
-bibliothèques municipales principales ne peuvent être prises en compte au titre
-de la première fraction du concours particulier que si :
+Les investissements ayant pour objet la construction, la rénovation, la
+restructuration, l'extension ou la mise en accessibilité prévu par les articles
+L. 111-7 à L. 111-7-4 du code de la construction et de l'habitation, au profit
+d'annexes de bibliothèques municipales ne peuvent être pris en compte que si :
 
 a) Dans les communes ou au sein des établissements publics de coopération
 intercommunale de moins de 10 000 habitants, la surface de la bibliothèque
