@@ -1,6 +1,7 @@
 Article R202-27
 ----
-Tout laboratoire qui souhaite obtenir le renouvellement de sa reconnaissance
-doit en faire la demande au préfet six mois au plus tôt et trois mois au plus
-tard avant l'échéance. Le silence gardé par l'administration pendant trois mois
-sur cette demande vaut acceptation.
+Pour les laboratoires établis hors de France, les attributions conférées au
+préfet de région du lieu d'implantation du laboratoire par les dispositions de
+la présente section sont exercées par le ministre chargé de l'agriculture,
+auquel les demandes de reconnaissance mentionnées à l'article R. 202-24 sont
+adressées.

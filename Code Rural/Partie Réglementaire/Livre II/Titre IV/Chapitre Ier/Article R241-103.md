@@ -1,5 +1,10 @@
 Article R241-103
 ----
-Un associé ne peut exercer la profession de vétérinaire qu'au sein d'une seule
-société d'exercice libéral et ne peut exercer la même profession à titre
-individuel ou au sein d'une société civile professionnelle.
+Sous réserve du respect des dispositions du présent code, notamment du IV et du
+VI de l'article R. 242-48, un vétérinaire peut exercer concomitamment dans
+plusieurs sociétés d'exercice en commun autorisées dans lesquelles il peut
+détenir des parts de capital social ou non.
+
+Il peut également exercer concomitamment à titre individuel et au sein d'une ou
+plusieurs sociétés d'exercice en commun autorisées dans lesquelles il peut
+détenir ou non des parts de capital social.

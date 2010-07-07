@@ -21,9 +21,9 @@ responsabilité civile professionnelle ;
 permanents mentionnés au 1°, en cours de validité, pour chacun des
 établissements de l'organisme ;
 
-4° Le cas échéant, une liste des différents établissements de l'organisme
-distribuant des produits mentionnés à l'article L. 253-1, leur raison sociale,
-leur numéro SIRET et leur adresse complète.
+4° Le cas échéant, une liste des différents établissements en France de
+l'organisme distribuant des produits mentionnés à l'article L. 253-1, leur
+raison sociale, leur numéro SIRET et leur adresse complète.
 
 Lorsque l'organisme demandeur comporte plusieurs établissements, il est présenté
 une demande unique.

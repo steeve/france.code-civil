@@ -16,18 +16,30 @@ tenant compte en particulier des relations affectives qui peuvent exister entre
 le maître et l'animal.
 
 IV. - Il assure lui-même ou par l'intermédiaire d'un de ses confrères la
-continuité des soins aux animaux qui lui sont confiés.
+continuité des soins aux animaux qui lui sont confiés. Chaque domicile
+professionnel d'exercice déclaré auprès de l'ordre des vétérinaires est ouvert
+au moins pendant le temps de travail hebdomadaire prévu par la convention
+collective des vétérinaires salariés. Ce temps de travail tient compte du temps
+de travail effectué lors des visites à domicile du vétérinaire et peut être
+réparti entre plusieurs vétérinaires exerçant dans le domicile professionnel
+d'exercice. La continuité des soins peut également être assurée dans le cadre
+d'une convention établie entre vétérinaires libéraux et déposée auprès du
+conseil régional de l'ordre.
 
 V. - Il informe le public des possibilités qui lui sont offertes de faire
 assurer ce suivi médical par un confrère.
 
-VI. - Il doit répondre dans les limites de ses possibilités à tout appel qui lui
-est adressé pour apporter des soins d'urgence à un animal. S'il ne peut répondre
+VI. - Il doit répondre, dans les limites de ses possibilités, à tout appel qui
+lui est adressé pour apporter des soins d'urgence à un animal d'une espèce pour
+laquelle il possède la compétence, la technicité et l'équipement adapté ainsi
+qu'une assurance de responsabilité civile professionnelle. S'il ne peut répondre
 à cette demande, il doit indiquer le nom d'un confrère susceptible d'y répondre.
 En dehors des cas d'urgence, il peut refuser de prodiguer des soins à un animal
 ou à un lot d'animaux pour des motifs tels qu'injures graves, défaut de
-paiement, pour des raisons justifiées heurtant sa conscience ou lorsqu'il estime
-qu'il ne peut apporter des soins qualifiés.
+paiement, ou pour toute raison justifiée heurtant sa conscience ou lorsqu'il
+estime qu'il ne peut apporter des soins qualifiés. La permanence des soins peut
+également être assurée dans le cadre d'une convention établie entre vétérinaires
+libéraux et déposée auprès du conseil régional de l'ordre.
 
 VII. - Sa responsabilité civile professionnelle doit être couverte par un
 contrat d'assurance adapté à l'activité exercée.
