@@ -13,13 +13,11 @@ b) Deux représentants du ministre chargé de l'économie ;
 
 c) Un représentant du garde des sceaux, ministre de la justice ;
 
-d) Un représentant du ministre de l'intérieur ;
+d) Deux représentants du ministre de l'intérieur ;
 
-e) Un représentant du ministre de la défense ;
+e) Un représentant du ministre chargé de la consommation ;
 
-f) Un représentant du ministre chargé de la consommation ;
-
-g) Un représentant du ministre chargé de l'industrie ;
+f) Un représentant du ministre chargé de l'industrie ;
 
 3° Le gouverneur de la Banque de France ou son représentant ;
 

@@ -14,11 +14,11 @@ soit, ne peuvent bénéficier des dispositions du I. Les titulaires d'un contrat
 d'apprentissage relèvent, quel que soit leur âge, des dispositions du présent
 alinéa.
 
-Un arrêté conjoint du ministre de la défense, du ministre chargé de l'emploi, du
-ministre chargé de l'éducation nationale, du ministre de la justice, du ministre
-chargé des transports, du ministre chargé de la mer, du ministre chargé de la
-santé et du ministre chargé de l'agriculture fixe les modalités d'application du
-I et du II.
+Un arrêté conjoint du ministre de l'intérieur, du ministre chargé de l'emploi,
+du ministre chargé de l'éducation nationale, du ministre de la justice, du
+ministre chargé des transports, du ministre chargé de la mer, du ministre chargé
+de la santé et du ministre chargé de l'agriculture fixe les modalités
+d'application du I et du II.
 
 III. - Le brevet de sécurité routière est délivré aux titulaires d'une
 attestation scolaire de sécurité routière de premier ou de second niveau ou de

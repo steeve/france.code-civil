@@ -14,4 +14,4 @@ conjoint du ministre de l'intérieur et du ministre chargé des communications
 Les données fournies par les opérateurs et personnes mentionnés au I de
 l'article L. 34-1 sont enregistrées et conservées pendant une durée maximale de
 trois ans dans des traitements automatisés mis en oeuvre par le ministère de
-l'intérieur et le ministère de la défense.
+l'intérieur.
