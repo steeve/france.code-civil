@@ -25,10 +25,10 @@ l'organisateur, ou leur matériel.
 
 Les conditions générales de la police précisant les limites et les modalités de
 l'assurance devront être conformes à un modèle approuvé par arrêté des ministres
-de l'intérieur et de la défense et du ministre chargé de l'économie. Ces
-conditions générales d'assurance préciseront notamment, pour chaque sinistre
-survenu au cours d'une manifestation sportive, le montant minimum des garanties
-couvrant respectivement les dommages corporels et les dommages matériels.
+de l'intérieur et du ministre chargé de l'économie. Ces conditions générales
+d'assurance préciseront notamment, pour chaque sinistre survenu au cours d'une
+manifestation sportive, le montant minimum des garanties couvrant respectivement
+les dommages corporels et les dommages matériels.
 
 La police d'assurances devra également comporter une clause aux termes de
 laquelle l'assureur renoncera, en cas de sinistre, à tout recours contre l'Etat

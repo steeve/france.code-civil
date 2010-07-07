@@ -4,9 +4,9 @@ Sur décision du procureur de la République, de l'officier de police judiciaire
 ou, en cours d'information, du juge d'instruction, les scellés relatifs aux
 traces et échantillons mentionnés aux 1°, 3° et 4° de l'article R. 53-10 et
 ayant fait l'objet d'un conditionnement normalisé selon des modalités fixées par
-arrêté conjoint du ministre de la justice, garde des sceaux, du ministre de
-l'intérieur et du ministre de la défense sont adressés au service central de
-préservation des prélèvements biologiques en vue de leur conservation.
+arrêté conjoint du ministre de la justice, garde des sceaux, et du ministre de
+l'intérieur sont adressés au service central de préservation des prélèvements
+biologiques en vue de leur conservation.
 
 Ces scellés sont accompagnés des informations mentionnées à l'article R. 53-11.
 Ils sont conservés pendant le délai de quarante ans prévu par l'article R.

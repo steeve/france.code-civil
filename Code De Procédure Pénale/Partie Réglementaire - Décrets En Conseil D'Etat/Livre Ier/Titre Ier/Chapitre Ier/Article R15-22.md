@@ -8,7 +8,7 @@ dont la compétence s'étend à l'ensemble du territoire national sont les suiva
 1° La sous-direction de la police judiciaire de la direction générale de la
 gendarmerie nationale ;
 
-2° L'inspection de la gendarmerie nationale ;
+2° L'inspection générale de la gendarmerie nationale ;
 
 3° Le service technique de recherches judiciaires et de documentation ;
 

@@ -7,8 +7,7 @@ ministre du budget, qui en établit le modèle et les modalités de délivrance,
 soit par l'envoi au comptable direct du Trésor d'un chèque joint à la carte de
 paiement, soit par télépaiement automatisé ou par timbre dématérialisé, selon
 des modalités fixées par arrêté du garde des sceaux, ministre de la justice, du
-ministère chargé du budget, du ministre chargé de l'intérieur et du ministre de
-la défense.
+ministère chargé du budget et du ministre de l'intérieur.
 
 Un arrêté du ministre du budget fixe les conditions dans lesquelles les amendes
 forfaitaires peuvent être acquittées au moyen d'un chèque libellé à l'ordre du

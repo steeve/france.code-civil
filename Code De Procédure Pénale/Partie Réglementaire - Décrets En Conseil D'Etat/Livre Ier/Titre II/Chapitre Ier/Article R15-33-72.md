@@ -2,9 +2,8 @@ Article R15-33-72
 ----
 Les modalités techniques d'interrogation et de transmission des informations
 sont précisées par un protocole passé par le ministre de la justice et, selon
-les cas, le ministre de l'intérieur, le ministre de la défense ou le ministre
-chargé du budget avec chaque organisme ou personne morale relevant des
-dispositions de l'article R. 15-33-68.
+les cas, le ministre de l'intérieur ou le ministre chargé du budget avec chaque
+organisme ou personne morale relevant des dispositions de l'article R. 15-33-68.
 
 Ce protocole précise notamment :
 

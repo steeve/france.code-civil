@@ -9,11 +9,10 @@ routiers en application des dispositions du présent code sont autorisés, dans
 les conditions fixées aux articles L. 225-4 et L. 225-5, à accéder directement
 aux informations prévues par ces articles.
 
-Des arrêtés conjoints selon le cas soit du ministre de l'intérieur et du
-ministre de la justice, soit du ministre de l'intérieur et du ministre de la
-défense définissent les modalités techniques et financières de l'accès à ces
-informations ouvert par voie téléinformatique aux autorités judiciaires et aux
-militaires de la gendarmerie.
+Un arrêté conjoint du ministre de l'intérieur et du ministre de la justice, ou
+un arrêté du ministre de l'intérieur définit les modalités techniques et
+financières de l'accès à ces informations ouvert par voie téléinformatique aux
+autorités judiciaires et aux militaires de la gendarmerie.
 
 Peuvent en outre accéder aux données mentionnées à l'article L. 225-4, dans les
 conditions fixées aux articles 9 et 33 de la loi n° 2006-64 du 23 janvier 2006

@@ -11,4 +11,4 @@ les épreuves.
 Les conditions d'établissement des listes des candidats admis à se présenter,
 les modalités d'organisation de l'examen technique et le programme des épreuves
 sont fixés par arrêté conjoint du garde des sceaux, ministre de la Justice, et
-du ministre des Armées.
+du ministre de l'intérieur.

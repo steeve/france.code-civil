@@ -20,9 +20,7 @@ d) Deux maires représentant les communes de 100 000 habitants et plus.
 
 - un représentant du ministre de la justice ;
 
-- trois représentants du ministre de l'intérieur ;
-
-- deux représentants du ministre de la défense ;
+- cinq représentants du ministre de l'intérieur ;
 
 - un représentant du ministre chargé des transports ;
 
