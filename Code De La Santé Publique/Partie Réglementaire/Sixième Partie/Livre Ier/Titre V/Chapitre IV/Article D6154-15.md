@@ -13,8 +13,8 @@ des défenseurs.
 
 Si l'un des praticiens membres de la commission est en cause, il ne peut siéger
 pour l'examen de son cas. La commission médicale d'établissement ou, le cas
-échéant, le comité consultatif médical lui désigne un remplaçant pour la durée
-de la procédure.
+échéant, la commission médicale d'établissement locale lui désigne un remplaçant
+pour la durée de la procédure.
 
 La commission arrête sa proposition ou son avis à la majorité de ses membres
 présents. En cas de partage des voix, celle du président est prépondérante.

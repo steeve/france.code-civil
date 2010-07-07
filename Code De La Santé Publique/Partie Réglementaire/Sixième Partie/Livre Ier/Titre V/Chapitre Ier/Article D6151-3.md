@@ -1,12 +1,15 @@
 Article D6151-3
 ----
-Les candidatures et la nature des missions confiées aux consultants, dans ou en
-dehors de l'établissement, sont examinées par le conseil de surveillance et la
-commission médicale d'établissement siégeant en formation restreinte, après avis
-du conseil de l'unité de formation et de recherche de médecine. Ces trois
-instances rendent un avis motivé portant sur l'opportunité et le contenu du
-projet présenté par le candidat.
+Les candidatures et la nature des missions susceptibles d'être confiées aux
+consultants, dans ou en dehors de l'établissement, sont examinées par le
+président de la commission médicale d'établissement. Celui-ci, après avis du
+directeur de l'unité de formation et de recherche, émet un avis motivé sur
+l'opportunité et le contenu du projet présenté par le candidat à l'appui de sa
+demande.
 
+Le directeur du centre hospitalier universitaire transmet la candidature de
+l'intéressé au directeur général de l'agence régionale de santé accompagnée de
+son avis et de l'avis du président de la commission médicale d'établissement.
 Les consultants sont nommés par le directeur général de l'agence régionale de
 santé. Les nominations sont prononcées pour une durée d'un an. Elles sont
 renouvelables deux fois pour une durée d'un an, sur demande de l'intéressé,

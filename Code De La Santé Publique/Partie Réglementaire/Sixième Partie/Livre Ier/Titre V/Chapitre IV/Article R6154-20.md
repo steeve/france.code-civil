@@ -33,7 +33,11 @@ d'établissement des hôpitaux non universitaires dont un choisi parmi les
 praticiens autorisés à exercer une activité libérale et l'autre parmi les
 praticiens n'exerçant pas d'activité libérale ;
 
-7° Deux administrateurs non médecins ou leurs suppléants dont un administrateur
-de centre hospitalier universitaire et un administrateur d'un établissement
-public de santé non universitaire nommés sur proposition de la Fédération
-hospitalière de France.
+7° Deux membres de conseils de surveillance non médecins, ou leurs suppléants,
+dont l'un est membre du conseil de surveillance d'un centre hospitalier
+universitaire et l'autre du conseil de surveillance d'un établissement public de
+santé non universitaire, nommés sur proposition de la Fédération hospitalière de
+France ;
+
+8° Un représentant des usagers du système de santé ou son suppléant choisi parmi
+les membres des associations mentionnées à l'article L. 1114-1.

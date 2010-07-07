@@ -25,8 +25,8 @@ médicale d'établissement ;
 6° Un praticien statutaire à temps plein, n'exerçant pas d'activité libérale,
 désigné par la commission médicale d'établissement ;
 
-7° Un représentant des usagers du système de santé désigné par le directeur de
-l'établissement parmi les usagers membres du conseil de surveillance.
+7° Un représentant des usagers du système de santé choisi parmi les membres des
+associations mentionnées à l'article L. 1114-1.
 
 La commission élit son président parmi ses membres, par vote à bulletin secret,
 à la majorité absolue au premier tour de scrutin, à la majorité relative au
