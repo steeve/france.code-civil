@@ -20,8 +20,7 @@ nécessités des investigations. Cette copie est détruite au plus tard dans un
 délai de cinq ans après le dernier acte de procédure dressé par les enquêteurs.
 
 Les modalités techniques de l'enregistrement audiovisuel sont déterminées par
-arrêté conjoint du ministre de la justice, du ministre de l'intérieur et du
-ministre de la défense.
+arrêté conjoint du ministre de la justice et du ministre de l'intérieur.
 
 Les dispositions des alinéas 2 à 4 du présent article sont applicables aux
 enregistrements des interrogatoires des mineurs en garde à vue réalisés en
