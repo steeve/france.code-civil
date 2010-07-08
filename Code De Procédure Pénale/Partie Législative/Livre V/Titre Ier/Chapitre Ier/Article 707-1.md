@@ -3,8 +3,12 @@ Article 707-1
 Le ministère public et les parties poursuivent l'exécution de la sentence chacun
 en ce qui le concerne.
 
-Néanmoins, les poursuites pour le recouvrement des amendes et confiscations sont
-faites au nom du procureur de la République, par le comptable public compétent.
+Néanmoins, les poursuites pour le recouvrement des amendes et confiscations en
+valeur sont faites au nom du procureur de la République, par le comptable public
+compétent. L'exécution des autres confiscations est réalisée au nom du procureur
+de la République par l'Agence de gestion et de recouvrement des avoirs saisis et
+confisqués qui procède, s'il y a lieu, aux formalités de publication foncière
+aux frais du Trésor.
 
 Le paiement du montant de l'amende doit toujours être recherché. Toutefois, le
 défaut total ou partiel du paiement de ce montant peut entraîner l'incarcération

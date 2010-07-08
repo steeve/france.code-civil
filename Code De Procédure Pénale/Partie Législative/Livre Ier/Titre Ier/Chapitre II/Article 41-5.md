@@ -7,16 +7,18 @@ que le propriétaire ne réclame pas l'objet dans un délai de deux mois à comp
 d'une mise en demeure adressée à son dernier domicile connu, le juge des
 libertés et de la détention peut, sur requête du procureur de la République et
 sous réserve des droits des tiers, autoriser la destruction de ces biens ou leur
-remise au service des domaines aux fins d'aliénation.
+remise à l'Agence de gestion et de recouvrement des avoirs saisis et confisqués
+aux fins d'aliénation.
 
-Le juge des libertés et de la détention peut également autoriser la remise au
-service des domaines, en vue de leur aliénation, des biens meubles saisis dont
-la conservation en nature n'est plus nécessaire à la manifestation de la vérité
-et dont la confiscation est prévue par la loi, lorsque le maintien de la saisie
-serait de nature à diminuer la valeur du bien. S'il est procédé à la vente du
-bien, le produit de celle-ci est consigné. En cas de classement sans suite, de
-non-lieu ou de relaxe, ou lorsque la peine de confiscation n'est pas prononcée,
-ce produit est restitué au propriétaire des objets s'il en fait la demande.
+Le juge des libertés et de la détention peut également autoriser la remise à
+l'Agence de gestion et de recouvrement des avoirs saisis et confisqués, en vue
+de leur aliénation, des biens meubles saisis dont la conservation en nature
+n'est plus nécessaire à la manifestation de la vérité et dont la confiscation
+est prévue par la loi, lorsque le maintien de la saisie serait de nature à
+diminuer la valeur du bien. S'il est procédé à la vente du bien, le produit de
+celle-ci est consigné. En cas de classement sans suite, de non-lieu ou de
+relaxe, ou lorsque la peine de confiscation n'est pas prononcée, ce produit est
+restitué au propriétaire des objets s'il en fait la demande.
 
 Les ordonnances prises en application des deux premiers alinéas sont motivées et
 notifiées au ministère public et, s'ils sont connus, au propriétaire ainsi

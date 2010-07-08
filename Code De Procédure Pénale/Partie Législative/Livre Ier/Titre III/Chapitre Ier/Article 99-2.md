@@ -6,18 +6,19 @@ de la vérité s'avère impossible, soit parce que le propriétaire ne peut êtr
 identifié, soit parce que le propriétaire ne réclame pas l'objet dans un délai
 de deux mois à compter d'une mise en demeure adressée à son domicile, le juge
 d'instruction peut ordonner, sous réserve des droits des tiers, la destruction
-de ces biens ou leur remise au service des domaines aux fins d'aliénation.
+de ces biens ou leur remise à l'Agence de gestion et de recouvrement des avoirs
+saisis et confisqués aux fins d'aliénation.
 
 Le juge d'instruction peut également ordonner, sous réserve des droits des
-tiers, de remettre au service des domaines, en vue de leur aliénation, des biens
-meubles placés sous main de justice appartenant aux personnes poursuivies, dont
-la conservation n'est plus nécessaire à la manifestation de la vérité et dont la
-confiscation est prévue par la loi, lorsque le maintien de la saisie serait de
-nature à diminuer la valeur du bien.S'il est procédé à la vente du bien, le
-produit de celle-ci est consigné pendant une durée de dix ans. En cas de
-non-lieu, de relaxe ou d'acquittement, ou lorsque la peine de confiscation n'est
-pas prononcée, ce produit est restitué au propriétaire des objets s'il en fait
-la demande.
+tiers, de remettre à l'Agence de gestion et de recouvrement des avoirs saisis et
+confisqués, en vue de leur aliénation, des biens meubles placés sous main de
+justice appartenant aux personnes poursuivies, dont la conservation n'est plus
+nécessaire à la manifestation de la vérité et dont la confiscation est prévue
+par la loi, lorsque le maintien de la saisie serait de nature à diminuer la
+valeur du bien.S'il est procédé à la vente du bien, le produit de celle-ci est
+consigné pendant une durée de dix ans. En cas de non-lieu, de relaxe ou
+d'acquittement, ou lorsque la peine de confiscation n'est pas prononcée, ce
+produit est restitué au propriétaire des objets s'il en fait la demande.
 
 Le juge d'instruction peut également ordonner la destruction des biens meubles
 placés sous main de justice dont la conservation n'est plus nécessaire à la
