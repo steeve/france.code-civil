@@ -8,6 +8,5 @@ Lorsqu'il est impossible d'exécuter la décision de gel parce que le bien ou le
 éléments de preuve ont disparu, ont été détruits, n'ont pas été retrouvés à
 l'endroit indiqué dans le certificat ou qu'il n'a pas été possible de les
 localiser, même après consultation de l'autorité judiciaire de l'Etat
-d'émission, le juge d'instruction ou le juge des libertés et de la détention en
-informe sans délai l'autorité judiciaire dudit Etat par tout moyen laissant une
-trace écrite.
+d'émission, le juge d'instruction en informe sans délai l'autorité judiciaire
+dudit Etat par tout moyen laissant une trace écrite.

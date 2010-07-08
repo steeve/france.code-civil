@@ -33,6 +33,9 @@ La confiscation est obligatoire pour les objets qualifiés de dangereux ou
 nuisibles par la loi ou le règlement, ou dont la détention est illicite, que ces
 biens soient ou non la propriété du condamné.
 
+La peine complémentaire de confiscation s'applique dans les mêmes conditions à
+tous les droits incorporels, quelle qu'en soit la nature, divis ou indivis.
+
 Lorsque la chose confisquée n'a pas été saisie ou ne peut être représentée, la
 confiscation est ordonnée en valeur. Pour le recouvrement de la somme
 représentative de la valeur de la chose confisquée, les dispositions relatives à

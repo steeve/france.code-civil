@@ -1,8 +1,8 @@
 Article 695-9-22
 ----
-Lorsque la décision de gel concerne un élément de preuve, celui qui le détient
-ou toute autre personne qui prétend avoir un droit sur ledit élément peut, par
-voie de requête remise au greffe de la chambre de l'instruction de la cour
+Celui qui détient l'élément de preuve ou le bien objet de la décision de gel ou
+toute autre personne qui prétend avoir un droit sur ledit bien ou élément peut,
+par voie de requête remise au greffe de la chambre de l'instruction de la cour
 d'appel territorialement compétente dans les dix jours à compter de la date de
 mise à exécution de la décision considérée, former un recours à l'encontre de
 cette dernière. Les dispositions de l'article 173 sont alors applicables.

@@ -94,6 +94,10 @@ pour celles prévues à l'article 415 du code des douanes et aux articles L. 716
 assistés par les personnes mentionnées aux articles 706 et 706-2 agissant sur
 délégation des magistrats.
 
+Ces agents peuvent également faire application des dispositions du titre XXIX du
+livre IV au cours des enquêtes judiciaires et sur commissions rogatoires qui
+leur sont confiées.
+
 Par dérogation à la règle fixée au 2 de l'article 343 du code des douanes,
 l'action pour l'application des sanctions fiscales peut être exercée par le
 ministère public, en vue de l'application des dispositions du présent article.

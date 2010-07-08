@@ -5,12 +5,19 @@ saisie des papiers, documents, données informatiques ou autres objets en la
 possession des personnes qui paraissent avoir participé au crime ou détenir des
 pièces, informations ou objets relatifs aux faits incriminés, l'officier de
 police judiciaire se transporte sans désemparer au domicile de ces derniers pour
-y procéder à une perquisition dont il dresse procès-verbal.
+y procéder à une perquisition dont il dresse procès-verbal. L'officier de police
+judiciaire peut également se transporter en tous lieux dans lesquels sont
+susceptibles de se trouver des biens dont la confiscation est prévue à l'article
+131-21 du code pénal, pour y procéder à une perquisition aux fins de saisie de
+ces biens ; si la perquisition est effectuée aux seules fins de rechercher et de
+saisir des biens dont la confiscation est prévue par les cinquième et sixième
+alinéas de ce même article, elle doit être préalablement autorisée par le
+procureur de la République.
 
-Il a seul, avec les personnes désignées à l'article 57 et celles auxquelles il a
-éventuellement recours en application de l'article 60, le droit de prendre
-connaissance des papiers, documents ou données informatiques avant de procéder à
-leur saisie.
+Il a seul, avec les personnes désignées à l'article 57 du présent code et celles
+auxquelles il a éventuellement recours en application de l'article 60, le droit
+de prendre connaissance des papiers, documents ou données informatiques avant de
+procéder à leur saisie.
 
 Toutefois, il a l'obligation de provoquer préalablement toutes mesures utiles
 pour que soit assuré le respect du secret professionnel et des droits de la
@@ -34,7 +41,8 @@ l'usage est illégal ou dangereux pour la sécurité des personnes ou des biens.
 
 Avec l'accord du procureur de la République, l'officier de police judiciaire ne
 maintient que la saisie des objets, documents et données informatiques utiles à
-la manifestation de la vérité.
+la manifestation de la vérité, ainsi que des biens dont la confiscation est
+prévue à l'article 131-21 du code pénal.
 
 Le procureur de la République peut également, lorsque la saisie porte sur des
 espèces, lingots, effets ou valeurs dont la conservation en nature n'est pas

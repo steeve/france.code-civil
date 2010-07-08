@@ -22,7 +22,7 @@ peut porter atteinte à la situation de cette personne pour l'une de ces raisons
 
 4° Si la décision de gel a été prise à des fins de confiscation ultérieure d'un
 bien et que les faits qui la justifient ne constituent pas une infraction
-permettant, selon la loi française, d'ordonner une mesure conservatoire.
+permettant, selon la loi française, d'ordonner la saisie de ce bien.
 
 Toutefois, le motif de refus prévu au 4° n'est pas opposable lorsque la décision
 de gel concerne une infraction qui, en vertu de la loi de l'Etat d'émission,

@@ -24,7 +24,8 @@ sécurité des personnes ou des biens.
 
 Avec l'accord du juge d'instruction, l'officier de police judiciaire ne
 maintient que la saisie des objets, documents et données informatiques utiles à
-la manifestation de la vérité.
+la manifestation de la vérité, ainsi que des biens dont la confiscation est
+prévue à l'article 131-21 du code pénal.
 
 Lorsque ces scellés sont fermés, ils ne peuvent être ouverts et les documents
 dépouillés qu'en présence de la personne mise en examen, assistée de son avocat,
