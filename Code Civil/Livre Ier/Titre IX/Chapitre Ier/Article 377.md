@@ -9,8 +9,9 @@ départemental de l'aide sociale à l'enfance.
 En cas de désintérêt manifeste ou si les parents sont dans l'impossibilité
 d'exercer tout ou partie de l'autorité parentale, le particulier,
 l'établissement ou le service départemental de l'aide sociale à l'enfance qui a
-recueilli l'enfant peut également saisir le juge aux fins de se faire déléguer
-totalement ou partiellement l'exercice de l'autorité parentale.
+recueilli l'enfant ou un membre de la famille peut également saisir le juge aux
+fins de se faire déléguer totalement ou partiellement l'exercice de l'autorité
+parentale.
 
 Dans tous les cas visés au présent article, les deux parents doivent être
 appelés à l'instance. Lorsque l'enfant concerné fait l'objet d'une mesure

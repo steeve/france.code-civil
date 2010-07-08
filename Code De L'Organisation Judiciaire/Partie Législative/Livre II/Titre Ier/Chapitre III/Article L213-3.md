@@ -27,4 +27,10 @@ b) A l'exercice de l'autorité parentale ;
 c) A la révision de la prestation compensatoire ou de ses modalités de paiement
 ;
 
-d) Au changement de prénom.
+d) Au changement de prénom ;
+
+e) A la protection à l'encontre du conjoint, du partenaire lié par un pacte
+civil de solidarité ou du concubin violent ou d'un ancien conjoint, partenaire
+lié par un pacte civil de solidarité ou concubin violent ;
+
+f) A la protection de la personne majeure menacée de mariage forcé.

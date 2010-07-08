@@ -23,3 +23,8 @@ continue des personnels enseignants et à la recherche en éducation.
 
 Ils organisent des formations de préparation professionnelle en faveur des
 étudiants.
+
+Les formations mentionnées aux trois alinéas précédents comportent des actions
+de sensibilisation à la lutte contre les discriminations, aux enjeux de
+l'égalité entre les femmes et les hommes, aux violences faites aux femmes et aux
+violences commises au sein du couple.

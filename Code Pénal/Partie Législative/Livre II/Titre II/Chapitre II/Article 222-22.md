@@ -6,9 +6,7 @@ contrainte, menace ou surprise.
 Le viol et les autres agressions sexuelles sont constitués lorsqu'ils ont été
 imposés à la victime dans les circonstances prévues par la présente section,
 quelle que soit la nature des relations existant entre l'agresseur et sa
-victime, y compris s'ils sont unis par les liens du mariage. Dans ce cas, la
-présomption de consentement des époux à l'acte sexuel ne vaut que jusqu'à preuve
-du contraire.
+victime, y compris s'ils sont unis par les liens du mariage.
 
 Lorsque les agressions sexuelles sont commises à l'étranger contre un mineur par
 un Français ou par une personne résidant habituellement sur le territoire

@@ -20,7 +20,7 @@ Les sanctions pénales prononcées en application des articles 131-5 à 131-11 e
 Si le tribunal a ordonné le maintien du contrôle judiciaire et que la personne
 se soustrait aux obligations qui lui sont imposées, les dispositions du deuxième
 alinéa de l'article 141-2 sont applicables. Lorsque le jugement est exécutoire
-et que le condamné est placé sous le régime de la mise à l'épreuve, le juge de
-l'application des peines peut désigner, pour veiller au respect des obligations,
-la personne physique ou morale qui était chargée de suivre l'intéressé dans le
-cadre du contrôle judiciaire.
+et que le condamné est placé sous le régime de la mise à l'épreuve, le tribunal
+correctionnel ou le juge de l'application des peines peut désigner, pour veiller
+au respect des obligations, la personne physique ou morale qui était chargée de
+suivre l'intéressé dans le cadre du contrôle judiciaire.

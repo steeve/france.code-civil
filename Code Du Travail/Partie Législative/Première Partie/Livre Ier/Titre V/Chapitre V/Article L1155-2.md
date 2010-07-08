@@ -1,7 +1,7 @@
 Article L1155-2
 ----
 Les faits de harcèlement moral et sexuel, définis aux articles L. 1152-1 et L.
-1153-1, sont punis d'un emprisonnement d'un an et d'une amende de 3 750 Euros.
+1153-1, sont punis d'un emprisonnement d'un an et d'une amende de 15 000 €.
 
 La juridiction peut également ordonner, à titre de peine complémentaire,
 l'affichage du jugement aux frais de la personne condamnée dans les conditions

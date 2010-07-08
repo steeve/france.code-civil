@@ -27,4 +27,6 @@ prévenu et mentionnée au procès-verbal dont copie lui est remise sur-le-champ
 Si le prévenu placé sous contrôle judiciaire ou sous assignation à résidence
 avec surveillance électronique se soustrait aux obligations qui lui sont
 imposées, les dispositions du deuxième alinéa de l'article 141-2 sont
-applicables.
+applicables, ainsi que celles de l'article 141-4 ; les attributions confiées au
+juge d'instruction par cet article sont alors exercées par le procureur de la
+République.

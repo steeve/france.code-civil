@@ -15,4 +15,6 @@ peut, hors le cas prévu par l'article 272-1, saisir le juge des libertés et de
 la détention pour que celui-ci décerne mandat d'arrêt ou d'amener à son
 encontre. Ce magistrat est également compétent pour ordonner, conformément aux
 dispositions de l'article 135-2, le placement en détention provisoire de
-l'intéressé.
+l'intéressé. Les dispositions de l'article 141-4 sont applicables ; les
+attributions confiées au juge d'instruction par cet article sont alors exercées
+par le procureur de la République.

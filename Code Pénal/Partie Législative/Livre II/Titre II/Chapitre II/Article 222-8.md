@@ -46,6 +46,10 @@ de la victime à une ethnie, une nation, une race ou une religion déterminée ;
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la
 victime par un pacte civil de solidarité ;
 
+6° bis Contre une personne afin de la contraindre à contracter un mariage ou à
+conclure une union ou en raison de son refus de contracter ce mariage ou cette
+union ;
+
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission
 de service public dans l'exercice ou à l'occasion de l'exercice de ses fonctions
 ou de sa mission ;

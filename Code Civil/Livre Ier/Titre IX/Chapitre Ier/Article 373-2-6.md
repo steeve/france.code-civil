@@ -7,6 +7,7 @@ spécialement à la sauvegarde des intérêts des enfants mineurs.
 Le juge peut prendre les mesures permettant de garantir la continuité et
 l'effectivité du maintien des liens de l'enfant avec chacun de ses parents.
 
-Il peut notamment ordonner l'inscription sur le passeport des parents de
-l'interdiction de sortie de l'enfant du territoire français sans l'autorisation
-des deux parents.
+Il peut notamment ordonner l'interdiction de sortie de l'enfant du territoire
+français sans l'autorisation des deux parents. Cette interdiction de sortie du
+territoire sans l'autorisation des deux parents est inscrite au fichier des
+personnes recherchées par le procureur de la République.

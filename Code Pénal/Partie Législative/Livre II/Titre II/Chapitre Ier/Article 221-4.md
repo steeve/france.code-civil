@@ -43,10 +43,13 @@ la victime à une ethnie, une nation, une race ou une religion déterminée ;
 
 7° A raison de l'orientation sexuelle de la victime ;
 
-8° Par plusieurs personnes agissant en bande organisée.
+8° Par plusieurs personnes agissant en bande organisée ;
 
 9° Par le conjoint ou le concubin de la victime ou le partenaire lié à la
-victime par un pacte civil de solidarité.
+victime par un pacte civil de solidarité ;
+
+10° Contre une personne en raison de son refus de contracter un mariage ou de
+conclure une union.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté
 sont applicables aux infractions prévues par le présent article. Toutefois,
