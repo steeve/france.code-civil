@@ -22,4 +22,11 @@ titre du regroupement familial et peut en accorder le renouvellement. En cas de
 violence commise après l'arrivée en France du conjoint mais avant la première
 délivrance de la carte de séjour temporaire, le conjoint se voit délivrer, sauf
 si sa présence constitue une menace pour l'ordre public, une carte de séjour
-temporaire portant la mention "vie privée et familiale".
+temporaire portant la mention " vie privée et familiale ".
+
+Sauf si sa présence constitue une menace pour l'ordre public, l'autorité
+administrative accorde, dans les plus brefs délais, la délivrance ou le
+renouvellement de la carte de séjour temporaire de l'étranger qui bénéfice d'une
+ordonnance de protection en vertu de l'application de l'article 515-9 du code
+civil en raison des violences commises par son conjoint, son partenaire lié par
+un pacte civil de solidarité ou son concubin.

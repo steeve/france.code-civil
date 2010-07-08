@@ -7,6 +7,13 @@ en favorisant notamment leur mobilité.
 Les décisions concernant l'attribution des logements destinés aux étudiants sont
 prises par les centres régionaux des oeuvres universitaires et scolaires.
 
+Une convention passée entre l'Etat et les centres régionaux des œuvres
+universitaires vise à la réservation d'un nombre suffisant de logements à
+destination des personnes majeures victimes de violences inscrites dans un
+établissement scolaire ou universitaire qui sont protégées ou qui ont été
+protégées par l'ordonnance de protection prévue aux articles 515-9 et suivants
+du code civil.
+
 Les communes ou les établissements publics de coopération intercommunale qui en
 font la demande ont la charge de la construction, de la reconstruction, de
 l'extension, des grosses réparations et de l'équipement des locaux destinés au
@@ -36,16 +43,16 @@ n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales
 entre des organismes publics d'habitations à loyer modéré ou des sociétés
 d'économie mixte, l'Etat et un centre régional des oeuvres universitaires et
 scolaires pour la construction ou la réhabilitation de logements sociaux
-étudiants se poursuit jusqu'au terme de celles-ci. A compter de cette date, les
+étudiants se poursuit jusqu'au terme de celles-ci.A compter de cette date, les
 communes ou leurs groupements sont substitués à l'Etat ou, le cas échéant, à
 l'établissement public dans les droits et obligations résultant de ces
-conventions. A compter de la date d'entrée en vigueur de la loi n° 2004-809 du
-13 août 2004 précitée, ils peuvent y mettre fin à condition de supporter les
+conventions.A compter de la date d'entrée en vigueur de la loi n° 2004-809 du 13
+août 2004 précitée, ils peuvent y mettre fin à condition de supporter les
 charges financières afférentes.
 
 Pour la région d'Ile-de-France, la politique de logement des étudiants fait
 l'objet d'un schéma élaboré par le conseil régional. En Ile-de-France, la
-compétence prévue au troisième alinéa est transférée à la région, à sa demande,
+compétence prévue au quatrième alinéa est transférée à la région, à sa demande,
 si la commune ou l'établissement public de coopération intercommunale y renonce
 dans un délai d'un an après avoir été invité à l'exercer.
 

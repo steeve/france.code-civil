@@ -17,11 +17,11 @@ Lorsque le demandeur de logement est l'un des conjoints d'un couple en instance
 de divorce, cette situation étant attestée par une ordonnance de
 non-conciliation, ou lorsque ce demandeur est dans une situation d'urgence
 attestée par une décision du juge prise en application de l'article 257 du code
-civil ou par le prononcé de mesures urgentes ordonnées par le juge des affaires
-familiales en application du troisième alinéa de l'article 220-1 du même code,
-ou lorsque ce demandeur est une personne qui était liée par un pacte civil de
-solidarité dont elle a déclaré la rupture au greffe du tribunal d'instance, les
-seules ressources à prendre en compte sont celles du requérant au titre de
+civil ou par une ordonnance de protection délivrée par le juge aux affaires
+familiales en application du titre XIV du livre Ier du même code, ou lorsque ce
+demandeur est une personne qui était liée par un pacte civil de solidarité dont
+elle a déclaré la rupture au greffe du tribunal d'instance, les seules
+ressources à prendre en compte sont celles du requérant au titre de
 l'avant-dernière année précédant celle de la signature du nouveau contrat. Cette
 disposition est également applicable aux personnes mariées, liées par un pacte
 civil de solidarité ou vivant maritalement lorsque l'une d'elles est victime de
@@ -49,9 +49,9 @@ solidarité justifiant de violences au sein du couple ou entre les partenaires,
 sans que la circonstance que le conjoint ou le partenaire lié par un pacte civil
 de solidarité bénéficie d'un contrat de location au titre du logement occupé par
 le couple puisse y faire obstacle. Cette situation est attestée par une décision
-du juge prise en application de l'article 257 du code civil ou par le prononcé
-de mesures urgentes ordonnées par le juge des affaires familiales en application
-du troisième alinéa de l'article 220-1 du même code.
+du juge prise en application de l'article 257 du code civil ou par une
+ordonnance de protection délivrée par le juge aux affaires familiales en
+application du titre XIV du livre Ier du même code.
 
 Ce décret fixe les conditions dans lesquelles le maire de la commune
 d'implantation des logements est consulté sur les principes régissant ces

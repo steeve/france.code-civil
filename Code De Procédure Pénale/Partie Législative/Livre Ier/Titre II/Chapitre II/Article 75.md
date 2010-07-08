@@ -28,4 +28,10 @@ publiques ou par une association conventionnée d'aide aux victimes ;
 
 5° De saisir, le cas échéant, la commission d'indemnisation des victimes
 d'infraction, lorsqu'il s'agit d'une infraction mentionnée aux articles 706-3 et
-706-14.
+706-14 ;
+
+6° De demander une ordonnance de protection, dans les conditions définies par
+les articles 515-9 à 515-13 du code civil. Les victimes sont également informées
+des peines encourues par le ou les auteurs des violences et des conditions
+d'exécution des éventuelles condamnations qui pourraient être prononcées à leur
+encontre.
