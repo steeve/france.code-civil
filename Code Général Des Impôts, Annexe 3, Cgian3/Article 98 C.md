@@ -1,7 +1,7 @@
 Article 98 C
 ----
-Sont considérés comme des services fournis par voie électronique au sens du 12°
-de l'article 259 B du code général des impôts :
+Sont considérés notamment comme des services fournis par voie électronique au
+sens du 12° de l'article 259 B du code général des impôts :
 
 a. La fourniture et l'hébergement de sites informatiques, la maintenance à
 distance de programmes et d'équipement ;
@@ -15,4 +15,8 @@ d. La fourniture de musique, de films et de jeux, y compris les jeux de hasard
 ou d'argent, et d'émissions ou de manifestations politiques, culturelles,
 artistiques, sportives, scientifiques ou de divertissement ;
 
-e. La fourniture de services d'enseignement à distance.
+e. La fourniture de services d'enseignement à distance ;
+
+Lorsque le prestataire de services et le preneur communiquent par courrier
+électronique, cela ne signifie pas en soi que le service est fourni par voie
+électronique.
