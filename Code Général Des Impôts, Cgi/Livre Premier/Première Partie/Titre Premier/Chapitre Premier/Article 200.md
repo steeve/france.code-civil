@@ -45,11 +45,11 @@ g) De fonds de dotation :
 2° Ou dont la gestion est désintéressée et qui reversent les revenus tirés des
 dons et versements mentionnés au premier alinéa du présent 1 à des organismes
 mentionnés aux a à f ou à la Fondation du patrimoine dans les conditions
-mentionnées aux deux premiers alinéas du 2 bis, ou à une fondation ou
+mentionnées aux quatre premiers alinéas du 2 bis, ou à une fondation ou
 association reconnue d'utilité publique agréée par le ministre chargé du budget
 dans les conditions mentionnées au dernier alinéa du même 2 bis. Ces organismes
 délivrent aux fonds de dotation une attestation justifiant le montant et
-l'affectation des versements effectués à leur profit. »
+l'affectation des versements effectués à leur profit.
 
 Ouvrent également droit à la réduction d'impôt les frais engagés dans le cadre
 d'une activité bénévole et en vue strictement de la réalisation de l'objet
@@ -100,7 +100,19 @@ objet exclusif la gestion et la location nue des immeubles dont elles sont
 propriétaires.
 
 Les immeubles mentionnés au premier alinéa du présent 2 bis ne doivent pas faire
-l'objet d'une exploitation commerciale.
+l'objet d'une exploitation commerciale. Toutefois, ces dispositions ne sont pas
+applicables lorsque la gestion de l'immeuble est désintéressée et que les
+conditions suivantes sont cumulativement remplies :
+
+1° Les revenus fonciers nets, les bénéfices agricoles, les bénéfices industriels
+et commerciaux et les bénéfices des sociétés commerciales, augmentés des charges
+déduites en application du 5° du 1 de l'article 39, générés par l'immeuble au
+cours des trois années précédentes sont affectés au financement des travaux
+prévus par la convention ;
+
+2° Le montant des dons collectés n'excède pas le montant restant à financer au
+titre de ces travaux, après affectation des subventions publiques et des sommes
+visées au 1° du présent 2 bis.
 
 Le donateur ou l'un des membres de son foyer fiscal ne doit pas avoir conclu de
 convention avec la " Fondation du patrimoine " en application de l'article L.
@@ -133,7 +145,7 @@ leur mandataire.
 5. Le bénéfice des dispositions du 1, du 1 ter et du 2 bis est subordonné à la
 condition que soient jointes à la déclaration des revenus des pièces
 justificatives, répondant à un modèle fixé par un arrêté attestant le total du
-montant et la date des versements ainsi que l'identité des bénéficiaires. A
+montant et la date des versements ainsi que l'identité des bénéficiaires.A
 défaut, la réduction d'impôt est refusée sans proposition de rectification
 préalable.
 
