@@ -10,6 +10,11 @@ offrir aux industriels concernés un choix préservant leur indépendance par
 rapport à des entreprises offrant des biens ou services dans le domaine des
 communications électroniques.
 
+Les terminaux radioélectriques destinés à être connectés à un réseau ouvert au
+public pour la fourniture du service de téléphonie ne peuvent être
+commercialisés sans un accessoire permettant de limiter l'exposition de la tête
+aux émissions radioélectriques lors des communications.
+
 Un décret en Conseil d'Etat détermine :
 
 1° Les équipements qui sont dispensés de l'évaluation de conformité ;
