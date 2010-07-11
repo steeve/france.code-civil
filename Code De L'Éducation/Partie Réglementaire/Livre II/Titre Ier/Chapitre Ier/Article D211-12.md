@@ -37,4 +37,6 @@ i) Collège et lycée d'Etat de Font-Romeu (Pyrénées-Orientales) ;
 
 j) Lycée polyvalent d'Etat et lycée professionnel de Saint-Pierre-et-Miquelon ;
 
-k) Lycée-collège d'Etat de Sourdun.
+k) Lycée-collège d'Etat de Sourdun ;
+
+l) Internat d'excellence de Montpellier.
