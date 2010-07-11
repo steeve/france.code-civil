@@ -5,10 +5,13 @@ toutefois, et sous réserve de l'application des dispositions du II du présent
 article, sera seul pris en considération l'usage effectif des immeubles et
 droits réels immobiliers un an avant l'ouverture de l'enquête prévue à l'article
 L. 11-1 ou, dans le cas visé à l'article L. 11-3, un an avant la déclaration
-d'utilité publique. Il est tenu compte des servitudes et des restrictions
-administratives affectant de façon permanente l'utilisation ou l'exploitation
-des biens à la même date, sauf si leur institution révèle, de la part de
-l'expropriant, une intention dolosive.
+d'utilité publique ou, dans le cas des projets ou programmes soumis au débat
+public prévu par l'article L. 121-8 du code de l'environnement ou par l'article
+3 de la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris, au jour de la
+mise à disposition du public du dossier de ce débat. Il est tenu compte des
+servitudes et des restrictions administratives affectant de façon permanente
+l'utilisation ou l'exploitation des biens à la même date, sauf si leur
+institution révèle, de la part de l'expropriant, une intention dolosive.
 
 Quelle que soit la nature des biens, il ne pourra être tenu compte, même
 lorsqu'ils sont constatés par des actes de vente, des changements de valeur
