@@ -1,6 +1,6 @@
 Article L313-1
 ----
-I.-Des secteurs dits " secteurs sauvegardés " peuvent être créés lorsqu'ils
+I. ― Des secteurs dits " secteurs sauvegardés " peuvent être créés lorsqu'ils
 présentent un caractère historique, esthétique ou de nature à justifier la
 conservation, la restauration et la mise en valeur de tout ou partie d'un
 ensemble d'immeubles bâtis ou non.
@@ -10,12 +10,12 @@ l'accord de la commune ou, le cas échéant, de l'établissement public de
 coopération intercommunale compétent en matière de plan local d'urbanisme après
 avis de la Commission nationale des secteurs sauvegardés.
 
-II.-L'acte qui crée le secteur sauvegardé prescrit l'élaboration d'un plan de
+II. ― L'acte qui crée le secteur sauvegardé prescrit l'élaboration d'un plan de
 sauvegarde et de mise en valeur et met en révision le plan local d'urbanisme
 lorsqu'il existe. Jusqu'à l'approbation du plan de sauvegarde et de mise en
-valeur, le plan local d'urbanisme mis en révision peut être modifié ou faire
-l'objet de révisions simplifiées dans les conditions définies par les deux
-derniers alinéas de l'article L. 123-13.
+valeur, le plan local d'urbanisme mis en révision peut être modifié dans les
+conditions prévues à l'article L. 123-13-1 ou faire l'objet de révisions dans
+les conditions définies par le deuxième alinéa du II de l'article L. 123-13.
 
 Le plan de sauvegarde et de mise en valeur est élaboré conjointement par l'Etat
 et la commune ou l'établissement public de coopération intercommunale compétent
@@ -29,10 +29,10 @@ administrative si l'avis du conseil municipal ou de l'organe délibérant de
 l'établissement public de coopération intercommunale compétent est favorable,
 par décret en Conseil d'Etat dans le cas contraire.
 
-III.-Les dispositions applicables aux plans locaux d'urbanisme le sont également
-aux plans de sauvegarde et de mise en valeur à l'exception de l'article L.
-123-1-3, du premier alinéa de l'article L. 123-6, des articles L. 123-7 à L.
-123-16 et des trois derniers alinéas de l'article L. 130-2.
+III. ― Les dispositions applicables aux plans locaux d'urbanisme le sont
+également aux plans de sauvegarde et de mise en valeur à l'exception de
+l'article L. 123-1-3, du premier alinéa de l'article L. 123-6, des articles L.
+123-7 à L. 123-16 et des trois derniers alinéas de l'article L. 130-2.
 
 Le plan de sauvegarde et de mise en valeur peut en outre comporter l'indication
 des immeubles ou parties intérieures ou extérieures d'immeubles :
@@ -43,7 +43,7 @@ modification est soumise à des conditions spéciales ;
 b) Dont la démolition ou la modification pourra être imposée par l'autorité
 administrative à l'occasion d'opérations d'aménagement publiques ou privées.
 
-IV.-Le plan de sauvegarde et de mise en valeur doit être compatible avec le
+IV. ― Le plan de sauvegarde et de mise en valeur doit être compatible avec le
 projet d'aménagement et de développement durables du plan local d'urbanisme
 lorsqu'il existe. Lorsque le projet de plan de sauvegarde et de mise en valeur
 comporte des dispositions qui ne sont pas compatibles avec le projet

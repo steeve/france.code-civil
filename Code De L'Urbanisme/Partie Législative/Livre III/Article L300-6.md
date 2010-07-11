@@ -5,12 +5,12 @@ groupements peuvent, après enquête publique réalisée conformément au chapit
 III du titre II du livre Ier du code de l'environnement, se prononcer, par une
 déclaration de projet, sur l'intérêt général d'une action ou d'une opération
 d'aménagement au sens du présent livre ou de la réalisation d'un programme de
-construction. Les articles L. 122-15 et L. 123-16 sont applicables sauf si la
-déclaration de projet adoptée par l'Etat, un de ses établissements publics, un
-département ou une région a pour effet de porter atteinte à l'économie générale
-du projet d'aménagement et de développement durables du schéma de cohérence
-territoriale et, en l'absence de schéma de cohérence territoriale, du plan local
-d'urbanisme.
+construction. Les articles L. 122-15, L. 122-16-1, L. 123-14 et L. 123-14-2 sont
+applicables sauf si la déclaration de projet adoptée par l'Etat, un de ses
+établissements publics, un département ou une région a pour effet de porter
+atteinte à l'économie générale du projet d'aménagement et de développement
+durables du schéma de cohérence territoriale et, en l'absence de schéma de
+cohérence territoriale, du plan local d'urbanisme.
 
 Lorsque la déclaration de projet est adoptée par l'Etat, elle peut procéder aux
 adaptations nécessaires du schéma directeur de la région d'Ile-de-France, d'un
@@ -24,9 +24,9 @@ effectuées dans le respect des dispositions législatives et réglementaires
 applicables au contenu de ces règlements ou de ces servitudes.
 
 Les adaptations proposées sont présentées dans le cadre des procédures prévues
-par les articles L. 122-15 et L. 123-16, auxquelles les autorités ou services
-compétents pour élaborer les documents mentionnés à l'alinéa précédent sont
-invités à participer.
+par les articles L. 122-15, L. 122-16-1, L. 123-14 et L. 123-14-2, auxquelles
+les autorités ou services compétents pour élaborer les documents mentionnés à
+l'alinéa précédent sont invités à participer.
 
 Lorsque les adaptations proposées portent sur le schéma directeur de la région
 d'Ile-de-France, un schéma d'aménagement régional des régions d'outre-mer ou le
@@ -45,8 +45,8 @@ Lorsque l'action, l'opération d'aménagement ou le programme de construction es
 susceptible d'avoir des incidences notables sur l'environnement, les
 dispositions nécessaires pour mettre en compatibilité les documents d'urbanisme
 ou pour adapter les règlements et servitudes mentionnés au deuxième alinéa font
-l'objet d'une évaluation environnementale, au sens de la directive 2001 / 42 /
-CE du Parlement européen et du Conseil, du 27 juin 2001, relative à l'évaluation
+l'objet d'une évaluation environnementale, au sens de la directive 2001/42/ CE
+du Parlement européen et du Conseil, du 27 juin 2001, relative à l'évaluation
 des incidences de certains plans et programmes sur l'environnement.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent

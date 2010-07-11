@@ -1,12 +1,14 @@
 Article L123-15
 ----
-Lorsque le projet d'élaboration, de modification ou de révision d'un plan local
-d'urbanisme a pour objet ou pour effet de modifier les règles d'urbanisme
-applicables à l'intérieur d'un périmètre de zone d'aménagement concerté créée à
-l'initiative d'une personne publique autre que l'établissement public de
-coopération intercommunale ou, dans le cas prévu par le deuxième alinéa de
-l'article L. 123-6, la commune, l'avis de ladite personne publique est requis
-préalablement à l'approbation du plan local d'urbanisme élaboré, modifié ou
-révisé. Lorsque la zone d'aménagement concerté a été créée à l'initiative d'un
-établissement public de coopération intercommunale, cette approbation ne peut
-intervenir qu'après avis favorable de cet établissement public.
+L'acte révisant, mettant en compatibilité ou modifiant le plan local d'urbanisme
+devient exécutoire dans les conditions définies par l'article L. 123-12.
+
+Lorsqu'une déclaration de projet nécessite à la fois une mise en compatibilité
+du plan local d'urbanisme et du schéma de cohérence territoriale, la mise en
+compatibilité du plan devient exécutoire à la date d'entrée en vigueur de la
+mise en compatibilité du schéma.
+
+Par dérogation au troisième alinéa de l'article L. 123-12, l'acte approuvant une
+modification simplifiée devient exécutoire à compter de sa publication et de sa
+transmission au préfet dans les conditions définies aux articles L. 2131-1 et L.
+2131-2 du code général des collectivités territoriales.
