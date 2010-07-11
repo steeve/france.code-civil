@@ -5,10 +5,9 @@ Le président du conseil régional, le président du conseil général, et, le c
 président de l'établissement public de coopération intercommunale compétent en
 matière de programme local de l'habitat dont la commune est membre, le président
 de l'autorité compétente en matière d'organisation des transports urbains, le
-président de la communauté ou du syndicat d'agglomération nouvelle ainsi que
-ceux des organismes mentionnés à l'article L. 121-4 ou leurs représentants sont
-consultés à leur demande au cours de l'élaboration du projet de plan local
-d'urbanisme.
+président du syndicat d'agglomération nouvelle ainsi que ceux des organismes
+mentionnés à l'article L. 121-4 ou leurs représentants sont consultés à leur
+demande au cours de l'élaboration du projet de plan local d'urbanisme.
 
 Il en est de même des présidents des établissements publics de coopération
 intercommunale voisins compétents, des maires des communes voisines, ainsi que
