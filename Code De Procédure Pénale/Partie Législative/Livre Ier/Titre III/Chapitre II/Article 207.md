@@ -2,12 +2,12 @@ Article 207
 ----
 Lorsque la chambre de l'instruction a statué sur l'appel relevé contre une
 ordonnance du juge des libertés et de la détention en matière de détention
-provisoire, ou à la suite d'une saisine du procureur de la République formée en
-application de l'article 137-5 soit qu'elle ait confirmé la décision du juge des
-libertés et de la détention, soit que, l'infirmant, elle ait ordonné une mise en
-liberté ou maintenu en détention ou décerné un mandat de dépôt ou d'arrêt, le
-procureur général fait sans délai retour du dossier au juge d'instruction après
-avoir assuré l'exécution de l'arrêt.
+provisoire, ou à la suite d'une saisine du procureur de la République soit
+qu'elle ait confirmé la décision du juge des libertés et de la détention, soit
+que, l'infirmant, elle ait ordonné une mise en liberté ou maintenu en détention
+ou décerné un mandat de dépôt ou d'arrêt, le procureur général fait sans délai
+retour du dossier au juge d'instruction après avoir assuré l'exécution de
+l'arrêt.
 
 Lorsque, en toute autre matière, la chambre de l'instruction infirme une
 ordonnance du juge d'instruction ou est saisie en application des articles 81,

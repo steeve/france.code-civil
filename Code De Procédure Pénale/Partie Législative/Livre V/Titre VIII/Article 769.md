@@ -15,8 +15,8 @@ effacées par une amnistie, par la réhabilitation de plein droit ou judiciaire 
 réformées en conformité d'une décision de rectification du casier judiciaire. Il
 en est de même, sauf en ce qui concerne les condamnations prononcées pour des
 faits imprescriptibles, des fiches relatives à des condamnations prononcées
-depuis plus de quarante ans [*délai*] et qui n'ont pas été suivies d'une
-nouvelle condamnation à une peine criminelle ou correctionnelle.
+depuis plus de quarante ans et qui n'ont pas été suivies d'une nouvelle
+condamnation à une peine criminelle ou correctionnelle.
 
 Sont également retirés du casier judiciaire :
 
@@ -44,4 +44,9 @@ et 133-14 du code pénal calculés à compter du jour où les condamnations doiv
 jour où la condamnation est devenue définitive ;
 
 5° Les condamnations pour contravention, à l'expiration d'un délai de trois ans
-à compter du jour où ces condamnations sont devenues définitives.
+à compter du jour où ces condamnations sont devenues définitives ;
+
+6° Les mentions relatives à la composition pénale, à l'expiration d'un délai de
+trois ans à compter du jour où l'exécution de la mesure a été constatée, si la
+personne n'a pas, pendant ce délai, soit subi de condamnation à une peine
+criminelle ou correctionnelle, soit exécuté une nouvelle composition pénale.

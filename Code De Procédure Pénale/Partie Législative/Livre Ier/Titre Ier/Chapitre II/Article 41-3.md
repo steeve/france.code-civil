@@ -1,7 +1,8 @@
 Article 41-3
 ----
 La procédure de composition pénale est également applicable en cas de violences
-ou de dégradations contraventionnelles.
+ou de dégradations contraventionnelles ainsi que pour les contraventions dont la
+liste est fixée par décret en Conseil d'Etat.
 
 Le montant maximum de l'amende de composition ne peut alors excéder 750 euros ni
 la moitié du maximum de l'amende encourue, la durée de la remise du permis de

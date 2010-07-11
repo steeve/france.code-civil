@@ -17,3 +17,6 @@ elle-même, les faits ne peuvent légalement comporter une poursuite ou si, à
 supposer ces faits démontrés, ils ne peuvent admettre aucune qualification
 pénale. Dans le cas où le juge d'instruction passe outre, il doit statuer par
 une ordonnance motivée.
+
+Lorsque le juge d'instruction rend une ordonnance de refus d'informer, il peut
+faire application des dispositions des articles 177-2 et 177-3.

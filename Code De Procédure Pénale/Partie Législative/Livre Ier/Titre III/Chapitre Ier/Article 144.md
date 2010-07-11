@@ -13,7 +13,4 @@ renouvellement ;
 
 3° De mettre fin à un trouble exceptionnel et persistant à l'ordre public
 provoqué par la gravité de l'infraction, les circonstances de sa commission ou
-l'importance du préjudice qu'elle a causé. Toutefois, ce motif ne peut justifier
-la prolongation de la détention provisoire, sauf en matière criminelle ou
-lorsque la peine correctionnelle encourue est supérieure ou égale à dix ans
-d'emprisonnement.
+l'importance du préjudice qu'elle a causé.

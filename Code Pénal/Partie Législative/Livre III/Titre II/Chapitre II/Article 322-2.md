@@ -2,8 +2,8 @@ Article 322-2
 ----
 L'infraction définie au premier alinéa de l'article 322-1 est punie de trois ans
 d'emprisonnement et de 45000 euros d'amende et celle définie au deuxième alinéa
-du même article de 7500 euros d'amende, lorsque le bien détruit, dégradé ou
-détérioré est :
+du même article de 7500 euros d'amende et d'une peine de travail d'intérêt
+général, lorsque le bien détruit, dégradé ou détérioré est :
 
 1° Destiné à l'utilité ou à la décoration publiques et appartient à une personne
 publique ou chargée d'une mission de service public ;
