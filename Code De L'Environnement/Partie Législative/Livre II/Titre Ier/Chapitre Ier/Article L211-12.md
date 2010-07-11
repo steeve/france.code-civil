@@ -31,7 +31,7 @@ IV.-Dans les zones de rétention temporaire des eaux de crues ou de ruissellemen
 mentionnées au 1° du II, l'arrêté préfectoral peut obliger les propriétaires et
 les exploitants à s'abstenir de tout acte de nature à nuire au bon
 fonctionnement, à l'entretien et à la conservation des ouvrages destinés à
-permettre l'inondation de la zone.A cet effet, l'arrêté préfectoral peut
+permettre l'inondation de la zone. A cet effet, l'arrêté préfectoral peut
 soumettre à déclaration préalable, auprès des autorités compétentes en matière
 d'urbanisme, les travaux qui, en raison de leur nature, de leur importance ou de
 leur localisation, sont susceptibles de faire obstacle au stockage ou à
@@ -66,7 +66,7 @@ V.-Dans les zones de mobilité d'un cours d'eau mentionnées au 2° du II, ne
 peuvent être réalisés les travaux de protection des berges, remblais,
 endiguements et affouillements, les constructions ou installations et, d'une
 manière générale, tous les travaux ou ouvrages susceptibles de faire obstacle au
-déplacement naturel du cours d'eau.A cet effet, l'arrêté préfectoral peut
+déplacement naturel du cours d'eau. A cet effet, l'arrêté préfectoral peut
 soumettre à déclaration préalable, auprès des autorités compétentes en matière
 d'urbanisme, les travaux qui, en raison de leur nature, de leur importance ou de
 leur localisation, sont susceptibles de faire obstacle au déplacement naturel du
@@ -132,8 +132,9 @@ l'institution de la servitude grevant la zone.
 
 Les dommages touchant les récoltes, les cultures, les bâtiments et le cheptel
 mort ou vif affectés aux exploitations agricoles sont évalués dans le cadre de
-protocoles d'accords locaux.A défaut, ils sont évalués dans les conditions
-prévues par l'article L. 361-10 du code rural et de la pêche maritime.
+protocoles d'accords locaux. A défaut, ils sont évalués dans les conditions
+prévues en application de l'article L. 361-5 du code rural et de la pêche
+maritime.
 
 X.-Pour une période de dix ans à compter de la date de publication de l'arrêté
 préfectoral constatant l'achèvement des travaux mentionnés au VI ou, si de tels
