@@ -25,6 +25,9 @@ des secteurs urbanisés qui le nécessitent.
 Il peut déterminer des secteurs dans lesquels l'ouverture de nouvelles zones à
 l'urbanisation est subordonnée à leur desserte par les transports collectifs.
 
+Il peut étendre l'application de l'article L. 111-1-4 à d'autres routes que
+celles mentionnées au premier alinéa dudit article.
+
 IV. ― Pour la réalisation des objectifs définis à l'article L. 122-1-4, il peut,
 en fonction des circonstances locales, imposer préalablement à toute ouverture à
 l'urbanisation d'un secteur nouveau :
