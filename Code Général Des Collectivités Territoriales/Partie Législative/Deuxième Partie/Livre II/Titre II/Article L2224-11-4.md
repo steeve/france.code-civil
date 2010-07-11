@@ -6,10 +6,18 @@ détaillé du patrimoine du délégant, d'autre part, sans préjudice des autres
 sanctions prévues au contrat, le versement au budget de l'eau potable ou de
 l'assainissement du délégant d'une somme correspondant au montant des travaux
 stipulés au programme prévisionnel mentionné à l'article L. 2224-11-3 et non
-exécutés. Les supports techniques nécessaires à la facturation de l'eau et les
-plans des réseaux sont remis au délégant au moins dix-huit mois avant l'échéance
-du contrat et, pour les contrats arrivant à échéance dans l'année suivant la
-date de promulgation de la loi n° 2006-1772 du 30 décembre 2006 sur l'eau et les
-milieux aquatiques, à la date d'expiration du contrat et au plus tard dans un
-délai de six mois à compter de cette date de promulgation. Un décret précise les
-prescriptions applicables à ces supports techniques.
+exécutés.
+
+Le fichier des abonnés, constitué des données à caractère personnel pour la
+facturation de l'eau et de l'assainissement, ainsi que les caractéristiques des
+compteurs et les plans des réseaux mis à jour sont remis par le délégataire au
+délégant au moins six mois avant l'échéance du contrat ou, pour les contrats
+arrivant à échéance dans les six mois suivant la date de promulgation de la loi
+n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement,
+à la date d'expiration du contrat et au plus tard dans un délai de six mois à
+compter de cette date de promulgation. Un décret en Conseil d'Etat, pris après
+avis de la Commission nationale de l'informatique et des libertés, définit les
+modalités d'application du présent alinéa, en fixant notamment les modalités de
+transmission des données à caractère personnel au délégant, de traitement et de
+conservation de ces données par celui-ci, et de transmission de ces données au
+service chargé de la facturation.

@@ -26,12 +26,26 @@ Une délégation de service ne peut être prolongée que :
 a) Pour des motifs d'intérêt général. La durée de la prolongation ne peut alors
 excéder un an ;
 
-b) Lorsque le délégataire est contraint, pour la bonne exécution du service
-public ou l'extension de son champ géographique et à la demande du délégant, de
-réaliser des investissements matériels non prévus au contrat initial, de nature
-à modifier l'économie générale de la délégation et qui ne pourraient être
-amortis pendant la durée de la convention restant à courir que par une
-augmentation de prix manifestement excessive.
+b) Lorsque le délégataire est contraint, à la demande du délégant, de réaliser
+des investissements matériels non prévus au contrat initial de nature à modifier
+l'économie générale de la délégation et qui ne pourraient être amortis pendant
+la durée de la convention restant à courir que par une augmentation de prix
+manifestement excessive.
+
+Ces dispositions s'appliquent lorsque les investissements matériels sont motivés
+par :
+
+- la bonne exécution du service public ;
+
+- l'extension du champ géographique de la délégation ;
+
+- l'utilisation nouvelle ou accrue d'énergies renouvelables ou de récupération,
+si la durée de la convention restant à courir avant son terme est supérieure à
+trois ans ;
+
+- la réalisation d'une opération pilote d'injection et de stockage de dioxyde de
+carbone, à la condition que la prolongation n'excède pas la durée restant à
+courir de l'autorisation d'injection et de stockage.
 
 La prolongation mentionnée au a ou au b ne peut intervenir qu'après un vote de
 l'assemblée délibérante.

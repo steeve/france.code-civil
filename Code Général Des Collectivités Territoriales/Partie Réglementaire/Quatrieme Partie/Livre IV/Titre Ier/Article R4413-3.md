@@ -5,7 +5,7 @@ vingt-quatre membres comprenant :
 
 1° Vingt membres des assemblées régionales de la région d'Ile-de-France, élus en
 leur sein, à raison de dix-sept par le conseil régional et de trois par le
-conseil économique et social régional ;
+conseil économique, social et environnemental régional ;
 
 2° Quatre personnes qualifiées dans le domaine de la protection de la nature et
 de l'environnement, désignées par le président du conseil régional.

@@ -18,7 +18,11 @@ déroulement.
 
 Si la commission estime qu'un débat public n'est pas nécessaire, elle peut
 recommander au maître d'ouvrage ou à la personne publique responsable du projet
-l'organisation d'une concertation selon des modalités qu'elle propose.
+l'organisation d'une concertation selon des modalités qu'elle propose. A son
+initiative ou à la demande du maître d'ouvrage ou de la personne publique
+responsable du projet, la Commission nationale du débat public peut désigner un
+garant chargé de veiller à ce que la concertation permette au public de
+présenter ses observations et contre-propositions.
 
 II.-La Commission nationale du débat public se prononce dans un délai de deux
 mois sur la suite à réserver aux saisines prévues aux I et II de l'article L.

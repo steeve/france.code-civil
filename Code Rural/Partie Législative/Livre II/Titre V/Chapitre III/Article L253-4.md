@@ -11,8 +11,12 @@ d'autorisation révèle l'innocuité du produit à l'égard de la santé publiqu
 de l'environnement, son efficacité et sa sélectivité à l'égard des végétaux et
 produits végétaux dans les conditions d'emploi prescrites.
 
-L'autorisation peut être retirée s'il apparaît, après nouvel examen, que le
-produit ne satisfait pas aux conditions définies au premier alinéa.
+Cette autorisation peut être retirée, après avis de l'Agence nationale chargée
+de la sécurité sanitaire de l'alimentation, de l'environnement et du travail, et
+évaluation des effets socio-économiques et environnementaux de ce retrait, sauf
+lorsque celui-ci intervient à la demande du détenteur de l'autorisation s'il
+apparaît, après nouvel examen, que le produit ne satisfait pas aux conditions
+définies au premier alinéa.
 
 Un décret en Conseil d'Etat fixe la durée des différentes phases d'instruction
 des dossiers et les délais maximums pour chacune de ces phases, les conditions

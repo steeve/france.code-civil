@@ -26,6 +26,15 @@ Il doit également prendre en compte les orientations des schémas des services
 collectifs institués à l'article 2 de la loi n° 95-115 du 4 février 1995
 d'orientation pour l'aménagement et le développement du territoire et les
 schémas sectoriels institués par le chapitre V du titre Ier de la même loi.
+Lorsqu'un plan de gestion des risques d'inondation mentionné à l'article L.
+566-7 du code de l'environnement est approuvé, le schéma directeur de la région
+d'Ile-de-France doit également être compatible avec les objectifs de gestion des
+risques d'inondation, les orientations fondamentales et les dispositions de ce
+plan définies en application des 1° et 3° du même article L. 566-7. Lorsqu'un
+plan de gestion des risques d'inondation est approuvé après l'approbation du
+schéma directeur de la région d'Ile-de-France, ce dernier doit, si nécessaire,
+être rendu compatible dans un délai de trois ans avec les éléments mentionnés à
+la phrase précédente.
 
 Ce schéma détermine notamment la destination générale de différentes parties du
 territoire, les moyens de protection et de mise en valeur de l'environnement, la
@@ -35,39 +44,31 @@ ainsi que des activités industrielles, artisanales, agricoles, forestières et
 touristiques.
 
 Pour l'élaboration de ce schéma, le conseil régional recueille les propositions
-des conseils généraux des départementaux intéressés, du conseil économique et
-social régional et des chambres consulaires. A l'issue de cette élaboration, le
-projet leur est soumis pour avis.
+des conseils généraux des départementaux intéressés, du conseil économique,
+social et environnemental régional et des chambres consulaires.A l'issue de
+cette élaboration, le projet leur est soumis pour avis.
 
 Avant son adoption par le conseil régional, le projet de schéma directeur,
-assorti de l'avis des conseils généraux intéressés, du conseil économique et
-social régional et des chambres consulaires, est soumis à enquête publique.
+assorti de l'avis des conseils généraux intéressés, du conseil économique,
+social et environnemental régional et des chambres consulaires, est soumis à
+enquête publique réalisée conformément au chapitre III du titre II du livre Ier
+du code de l'environnement.
 
-Le schéma directeur est approuvé par décret en Conseil d'Etat. L'initiative de
+Le schéma directeur est approuvé par décret en Conseil d'Etat.L'initiative de
 l'élaboration du schéma directeur appartient soit à la région, soit à l'Etat.
 
 La procédure de révision du schéma directeur est ouverte par un décret en
 Conseil d'Etat, qui détermine l'objet de la révision. Cette dernière est
 effectuée par la région d'Ile-de-France, en association avec l'Etat, selon les
-règles fixées aux quatrième et cinquième alinéas du présent article. Elle est
+règles fixées aux sixième et septième alinéas du présent article. Elle est
 approuvée par décret en Conseil d'Etat.
-
-Si la procédure de révision du schéma directeur de la région d'Ile-de-France n'a
-pas abouti dans un délai d'un an à compter de la demande adressée au président
-du conseil régional par le représentant de l'Etat pour assurer sa conformité aux
-règles prévues au deuxième alinéa du présent article, il y est procédé par
-décret en Conseil d'Etat. Toutefois, en cas d'urgence constatée par décret en
-conseil des ministres, il y est procédé sans délai par décret en Conseil d'Etat.
 
 Au plus tard à l'expiration d'un délai de dix ans à compter du décret approuvant
 le schéma directeur de la région d'Ile-de-France, la région procède à une
 analyse des résultats de son application, notamment du point de vue de
 l'environnement.
 
-Le schéma directeur de la région d'Ile-de-France a les mêmes effets que les
-directives territoriales d'aménagement définies en application de l'article L.
-111-1-1. Il doit être compatible avec ces directives lorsqu'elles s'appliquent
-sur tout ou partie du territoire régional. En outre, il tient lieu de schéma
-régional au sens de l'article 34 de la loi n° 83-8 du 7 janvier 1983 relative à
-la répartition de compétences entre les communes, les départements, les régions
-et l'Etat.
+Les schémas de cohérence territoriale et, en l'absence de schéma de cohérence
+territoriale, les plans locaux d'urbanisme, les cartes communales ou les
+documents en tenant lieu doivent être compatibles avec le schéma directeur de la
+région d'Ile-de-France.

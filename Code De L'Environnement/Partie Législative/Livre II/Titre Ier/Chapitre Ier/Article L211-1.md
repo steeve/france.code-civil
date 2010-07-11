@@ -28,7 +28,10 @@ le développement de la production d'électricité d'origine renouvelable ainsi 
 la répartition de cette ressource ;
 
 6° La promotion d'une utilisation efficace, économe et durable de la ressource
-en eau.
+en eau ;
+
+7° Le rétablissement de la continuité écologique au sein des bassins
+hydrographiques.
 
 Un décret en Conseil d'Etat précise les critères retenus pour l'application du
 1°.

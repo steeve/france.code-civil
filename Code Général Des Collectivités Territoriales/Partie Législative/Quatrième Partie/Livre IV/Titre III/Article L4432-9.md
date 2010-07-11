@@ -1,13 +1,13 @@
 Article L4432-9
 ----
 Les conseils régionaux de Guadeloupe, de Guyane, de Martinique et de la Réunion
-sont assistés d'un conseil économique et social régional et d'un conseil de la
-culture, de l'éducation et de l'environnement.
+sont assistés d'un conseil économique, social et environnemental régional et
+d'un conseil de la culture, de l'éducation et de l'environnement.
 
-La composition des conseils économiques et sociaux régionaux et des conseils
-pour la culture, l'éducation et l'environnement, les conditions de nomination de
-leurs membres ainsi que la date de leur installation dans leur nouvelle
-composition sont fixées par un décret en Conseil d'Etat.
+La composition des conseils économiques, sociaux et environnementaux régionaux
+et des conseils pour la culture, l'éducation et l'environnement, les conditions
+de nomination de leurs membres ainsi que la date de leur installation dans leur
+nouvelle composition sont fixées par un décret en Conseil d'Etat.
 
 Ne peuvent être membres de ces conseils les conseillers généraux et les
 conseillers régionaux.

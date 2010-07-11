@@ -116,6 +116,41 @@ catégorie 1.
 L'assiette des prélèvements destinés à l'irrigation gravitaire est fixée
 forfaitairement à 10 000 mètres cubes d'eau par hectare irrigué.
 
+Le taux de la redevance pour l'usage "alimentation en eau potable” figurant au
+tableau ci-dessus est multiplié par deux lorsque le descriptif ou le plan
+d'actions visés à l'article L. 2224-7-1 du code général des collectivités
+territoriales n'a pas été établi dans les délais prescrits.
+
+Cette majoration prend effet à partir de l'année suivant le constat de cette
+carence jusqu'à l'année suivant laquelle :
+
+- soit il est remédié à la non-réalisation du plan d'actions ;
+
+- soit le taux de perte en eau du réseau de la collectivité s'avère inférieur au
+taux fixé par le décret prévu par le même article L. 2224-7-1.
+
+L'agence de l'eau peut verser aux collectivités territoriales des incitations
+financières à la réduction des pertes en eau du réseau.
+
+V bis. - Dans la limite du doublement des tarifs plafonds fixés par le présent
+article, les établissements publics territoriaux de bassin mentionnés à
+l'article L. 213-12 peuvent demander à l'agence de l'eau d'appliquer, dans le
+périmètre du schéma d'aménagement et de gestion des eaux sur lequel ils
+interviennent à la suite soit de la mise en œuvre de la procédure de
+reconnaissance prévue par l'arrêté du 7 février 2005 relatif à la délimitation
+du périmètre d'intervention de l'établissement public territorial de bassin,
+soit d'une création postérieure à l'adoption de la loi n° 2010-788 du 12 juillet
+2010 portant engagement national pour l'environnement, une majoration du tarif
+des redevances pour prélèvement sur la ressource en eau mentionnées au I du
+présent article, les sommes ainsi recouvrées étant reversées à l'établissement
+public territorial de bassin sans frais de gestion.
+
+La majoration du tarif de la redevance ne peut pas être supérieure à 25 % du
+tarif applicable dans l'unité géographique considérée. Les sommes à reverser à
+l'établissement ne peuvent représenter plus de 50 % des dépenses de
+fonctionnement de l'établissement pour le suivi et la mise en œuvre des actions
+à réaliser dans le périmètre du schéma.
+
 VI. - Des modalités spécifiques de calcul de la redevance sont applicables dans
 les cas suivants :
 

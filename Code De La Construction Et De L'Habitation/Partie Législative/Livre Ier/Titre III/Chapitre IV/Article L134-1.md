@@ -7,3 +7,8 @@ partie de bâtiment et une classification en fonction de valeurs de référence
 afin que les consommateurs puissent comparer et évaluer sa performance
 énergétique. Il est accompagné de recommandations destinées à améliorer cette
 performance.
+
+Il est établi par une personne répondant aux conditions prévues par l'article L.
+271-6.
+
+Sa durée de validité est fixée par décret.

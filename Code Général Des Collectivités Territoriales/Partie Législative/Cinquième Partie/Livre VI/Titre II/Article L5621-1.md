@@ -7,8 +7,9 @@ plusieurs régions voisines.
 
 L'entente interrégionale est créée par décret en Conseil d'Etat sur
 délibérations concordantes des conseils régionaux et éventuellement de
-l'Assemblée de Corse, et après avis des conseils économiques et sociaux
-régionaux. La décision institutive détermine le siège de l'entente.
+l'Assemblée de Corse, et après avis des conseils économiques, sociaux et
+environnementaux régionaux. La décision institutive détermine le siège de
+l'entente.
 
 Une région peut adhérer à plusieurs ententes. Dans ce cas, elle définit par
 convention avec chacune de ces ententes les compétences que celles-ci exercent

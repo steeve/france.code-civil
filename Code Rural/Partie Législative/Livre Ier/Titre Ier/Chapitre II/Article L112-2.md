@@ -11,8 +11,10 @@ compétent en matière de schéma de cohérence territoriale après accord du co
 municipal des communes intéressées, après avis de la chambre d'agriculture, de
 l'Institut national de l'origine et de la qualité dans les zones d'appellation
 d'origine contrôlée et de la commission départementale d'orientation de
-l'agriculture et enquête publique.L'existence de parcelles boisées de faible
-étendue au sein d'une telle zone ne fait pas obstacle à cette délimitation.
+l'agriculture et enquête publique réalisée conformément au chapitre III du titre
+II du livre Ier du code de l'environnement.L'existence de parcelles boisées de
+faible étendue au sein d'une telle zone ne fait pas obstacle à cette
+délimitation.
 
 Tout changement d'affectation ou de mode d'occupation du sol qui altère
 durablement le potentiel agronomique, biologique ou économique d'une zone

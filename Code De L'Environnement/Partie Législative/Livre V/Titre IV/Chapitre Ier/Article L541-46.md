@@ -6,7 +6,8 @@ I.-Est puni de deux ans d'emprisonnement et de 75 000 euros d'amende le fait de
 1° Refuser de fournir à l'administration les informations visées à l'article L.
 541-9 ou fournir des informations inexactes ;
 
-2° Méconnaître les prescriptions de l'article L. 541-10 ;
+2° Méconnaître les prescriptions du I de l'article L. 541-10 ou de l'article L.
+541-10-7 ;
 
 3° Refuser de fournir à l'administration les informations visées à l'article L.
 541-7 ou fournir des informations inexactes, ou se mettre volontairement dans

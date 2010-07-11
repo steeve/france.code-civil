@@ -11,10 +11,12 @@ conséquence de porter atteinte aux fonctions de desserte ou de circulation
 assurées par la voie.
 
 A défaut d'enquête relevant d'une autre réglementation et ayant porté sur ce
-classement ou déclassement, l'enquête rendue nécessaire en vertu de l'alinéa
-précédent se déroule selon les modalités prévues aux articles R. 141-4 à R.
-141-10.
+classement ou déclassement, l'enquête rendue nécessaire en vertu du deuxième
+alinéa est ouverte par l'autorité exécutive de la collectivité territoriale ou
+de l'établissement public de coopération intercommunale, propriétaire de la
+voie, et organisée conformément aux dispositions du code de l'expropriation pour
+cause d'utilité publique.
 
-Les enquêtes prévues aux articles L. 123-3-1 et L. 318-3 du code de l'urbanisme
-tiennent lieu de l'enquête prévue à l'alinéa précédent. Il en va de même de
-l'enquête d'utilité publique lorsque l'opération comporte une expropriation.
+L'enquête prévue à l'article L. 318-3 du code de l'urbanisme tient lieu de
+l'enquête prévue à l'alinéa précédent. Il en va de même de l'enquête d'utilité
+publique lorsque l'opération comporte une expropriation.

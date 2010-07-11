@@ -1,6 +1,6 @@
 Article L135 P
 ----
-Conformément au deuxième alinéa de l'article L. 216-4 du code de
+Conformément au troisième alinéa de l'article L. 216-4 du code de
 l'environnement, le secret professionnel ne peut être opposé aux agents
 mentionnés à l'article L. 216-3 du même code qui sont chargés de procéder à la
 recherche et à la constatation des infractions aux dispositions des articles L.

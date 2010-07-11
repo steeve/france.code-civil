@@ -28,6 +28,10 @@ Cette faculté est également ouverte aux communautés urbaines et aux autorité
 organisatrices de transports urbains auxquelles ont adhéré une communauté
 urbaine, une communauté d'agglomération ou une communauté de communes.
 
+Dans les territoires comprenant une ou plusieurs communes classées communes
+touristiques au sens de l'article L. 133-11 du code du tourisme, le taux
+applicable peut être majoré de 0,2 %.
+
 En cas d'extension d'un périmètre de transports urbains résultant de l'extension
 du périmètre d'un établissement public de coopération intercommunale doté de
 fiscalité propre ou d'un syndicat mixte auquel a adhéré un établissement public

@@ -1,54 +1,53 @@
 Article L2333-97
 ----
-La collecte, le transport, le stockage et le traitement des eaux pluviales
-constituent un service public administratif relevant des communes, qui peuvent
-instituer une taxe annuelle dont le produit est affecté à son financement.
+La gestion des eaux pluviales urbaines correspondant à la collecte, au
+transport, au stockage et au traitement des eaux pluviales des aires urbaines
+constitue un service public administratif relevant des communes, qui peuvent
+instituer une taxe annuelle pour la gestion des eaux pluviales urbaines, dont le
+produit est affecté à son financement. Ce service est désigné sous la
+dénomination de service public de gestion des eaux pluviales urbaines.
 
-La taxe pour la collecte, le transport, le stockage et le traitement des eaux
-pluviales est due par les propriétaires des immeubles raccordés au réseau public
-de collecte des eaux pluviales.
+La taxe pour la gestion des eaux pluviales urbaines est due par les
+propriétaires publics ou privés des terrains et des voiries situés dans une zone
+urbaine ou dans une zone à urbaniser ouverte à l'urbanisation du fait de leur
+classement par un plan local d'urbanisme ou par un document d'urbanisme en
+tenant lieu, ou dans une zone constructible délimitée par une carte communale.
 
-Lorsque tout ou partie des missions de collecte, de transport, de stockage ou de
-traitement des eaux pluviales a été transféré à un établissement public de
-coopération intercommunale ou à un syndicat mixte, la taxe est instituée par la
-commune ou le groupement qui déverse les eaux pluviales dans le milieu
-récepteur.
+Lorsque tout ou partie des missions de gestion des eaux pluviales urbaines est
+réalisé par un établissement public de coopération intercommunale ou un syndicat
+mixte, la taxe est instituée par ce groupement. Les communes membres ne peuvent
+alors pas instituer cette taxe.
 
-Lorsque plusieurs communes ou groupements répondent à cette condition, ils
-instituent la taxe et désignent par délibérations concordantes la commune ou le
-groupement chargé de l'assiette, de la liquidation et de l'émission des titres
-de recettes de cette taxe.
+A défaut de son institution par l'établissement public de coopération
+intercommunale ou le syndicat mixte compétent, la taxe peut être instituée par
+leurs membres. Toute délibération du groupement compétent visant à mettre en
+œuvre la taxe rend caduques les délibérations de ses membres ayant le même
+objet.
 
-A défaut d'institution par l'établissement public de coopération intercommunale
-ou le syndicat mixte compétent, la taxe peut être instituée par ses membres.
-Toutefois, la délibération postérieure du groupement compétent rend caduque
-toute délibération d'institution prise antérieurement sur son périmètre.
+L'établissement public de coopération intercommunale ou le syndicat mixte
+instituant la taxe reverse une part du produit de la taxe aux communes,
+établissements publics de coopération intercommunale ou syndicats mixtes
+exerçant partiellement ces missions sur son territoire. La répartition de ce
+produit est réalisée au prorata des dépenses engagées par les différentes
+collectivités assurant conjointement le service public de gestion des eaux
+pluviales urbaines.
 
-Sauf délibération contraire, la commune, l'établissement public de coopération
-intercommunale ou le syndicat mixte exerçant partiellement ces missions mais ne
-bénéficiant pas du produit de la taxe bénéficie d'un reversement partiel de ce
-produit de la part de la commune ou du groupement chargé de ces missions. La
-répartition de ce produit est réalisée en application des modalités arrêtées par
-délibérations concordantes des communes et groupements participant aux missions
-de collecte, de transport, de stockage et de traitement des eaux pluviales.A
-défaut de délibérations concordantes, le plafond dans la limite duquel le tarif
-de la taxe est défini est réduit de moitié.
+La taxe est assise sur la superficie cadastrale des terrains. Lorsque ces
+terrains ne sont pas répertoriés au cadastre, la superficie prise en compte est
+évaluée par la commune ou le groupement qui institue la taxe.
 
-La taxe est assise sur la superficie des immeubles raccordés à un réseau public
-de collecte des eaux pluviales.
+Lorsque le terrain assujetti à la taxe comporte une partie non imperméabilisée,
+la superficie de cette partie, déclarée par le propriétaire dans les conditions
+prévues à l'article L. 2333-98-1, est déduite de l'assiette de la taxe.
 
-L'assiette de la taxe est établie au vu des éléments fournis par le maire de la
-commune ou le président du groupement en charge de la collecte des eaux
-pluviales. Cette information porte notamment sur la liste des immeubles
-raccordés au réseau, sur la superficie et sur l'identité du propriétaire des
-immeubles imposables.
+Le tarif de la taxe est fixé par l'assemblée délibérante de la commune ou du
+groupement compétent, dans la limite de 1 € par mètre carré. Les délibérations
+instituant et fixant le tarif de la taxe sont adoptées dans les conditions
+prévues à l'article 1639 A bis du code général des impôts.
 
-Le tarif de la taxe est fixé par délibération de l'assemblée délibérante de la
-commune ou du groupement compétent pour instituer la taxe, dans la limite de
-0,20 euros par mètre carré. Les délibérations instituant et fixant le tarif de
-la taxe sont adoptées dans les conditions prévues à l'article 1639 A bis du code
-général des impôts.
-
-Toutefois, la taxe n'est pas mise en recouvrement lorsque la superficie des
-immeubles assujettis est inférieure à une superficie minimale au plus égale à
-600 mètres carrés.
+Toutefois, la taxe n'est pas mise en recouvrement lorsque la superficie
+mentionnée au sixième alinéa du présent article, déduction faite des superficies
+non imperméabilisées mentionnées au septième alinéa, est inférieure à une
+superficie minimale fixée par délibération de l'assemblée délibérante de la
+commune ou du groupement compétent pour instituer la taxe. Cette superficie ne
+peut excéder 600 mètres carrés.

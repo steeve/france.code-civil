@@ -18,7 +18,7 @@ globale de fonctionnement ;
 2° Une dotation proportionnelle à la superficie, égale à 3 euros par hectare en
 2005 et à 5 euros par hectare dans les communes situées en zone de montagne.A
 compter de 2006, ce montant évolue selon le taux d'indexation fixé par le comité
-des finances locales pour la dotation de base.A compter de 2005, le montant de
+des finances locales pour la dotation de base. A compter de 2005, le montant de
 cette dotation perçu par les communes de Guyane ne peut excéder le triple du
 montant qu'elles perçoivent au titre de la dotation de base ;
 
@@ -118,17 +118,12 @@ la loi de finances pour 1999 précitée sont identifiés au sein de la dotation
 forfaitaire.
 
 5° Une dotation versée aux communes dont le territoire est pour tout ou partie
-compris dans le coeur d'un parc national, y compris, le cas échéant, les
-communes insulaires situées dans les surfaces maritimes classées en parc naturel
-marin, mentionné à l'article L. 334-3 du code de l'environnement. Elle est
-fonction de la part de la superficie de la commune comprise dans ce coeur, cette
-part étant doublée pour le calcul de la dotation lorsque cette superficie
-dépasse 5 000 kilomètres carrés ou lorsqu'il s'agit de la part d'une commune
-insulaire située dans une surface maritime classée en parc naturel marin,
-mentionné à l'article L. 334-3 du code de l'environnement. Le montant de cette
-dotation est fixé à 3 millions d'euros pour 2007 et évolue chaque année selon le
-taux d'indexation fixé par le Comité des finances locales pour la dotation de
-base et la dotation proportionnelle à la superficie.
+compris dans le coeur d'un parc national. Elle est fonction de la part de la
+superficie de la commune comprise dans ce coeur, cette part étant doublée pour
+le calcul de la dotation lorsque cette superficie dépasse 5 000 kilomètres
+carrés. Le montant de cette dotation est fixé à 3 millions d'euros pour 2007 et
+évolue chaque année selon le taux d'indexation fixé par le Comité des finances
+locales pour la dotation de base et la dotation proportionnelle à la superficie.
 
 Pour les communes et établissements publics de coopération intercommunale à
 fiscalité propre, lorsque le montant de la compensation prévue au D de l'article

@@ -23,7 +23,13 @@ commune a été arrêté, avec l'accord de l'établissement public prévu à l'a
 L. 122-4. La dérogation ne peut être refusée que si les inconvénients éventuels
 de l'urbanisation envisagée pour les communes voisines, pour l'environnement ou
 pour les activités agricoles sont excessifs au regard de l'intérêt que
-représente pour la commune la modification ou la révision du plan.
+représente pour la commune la modification ou la révision du plan. Lorsque le
+préfet statue sur une demande de dérogation aux dispositions du deuxième alinéa
+du présent article, il vérifie en particulier que le projet d'équipement
+commercial envisagé ne risque pas de porter atteinte aux équilibres d'un schéma
+de cohérence territoriale dont le périmètre est limitrophe de la commune
+d'implantation du fait des flux de déplacements de personnes et de marchandises
+qu'il suscite.
 
 Le préfet peut, par arrêté motivé pris après avis de la commission de
 conciliation, constater l'existence d'une rupture géographique due à des

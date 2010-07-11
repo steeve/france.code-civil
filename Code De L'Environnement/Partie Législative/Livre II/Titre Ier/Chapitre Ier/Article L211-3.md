@@ -43,16 +43,51 @@ d'aménagement et de gestion durable de la ressource en eau et des milieux
 aquatiques prévu par l'article L. 212-5-1, des zones où il est nécessaire
 d'assurer la protection quantitative et qualitative des aires d'alimentation des
 captages d'eau potable d'une importance particulière pour l'approvisionnement
-actuel ou futur, ainsi que des zones dans lesquelles l'érosion diffuse des sols
-agricoles est de nature à compromettre la réalisation des objectifs de bon état
-ou, le cas échéant, de bon potentiel prévus par l'article L. 212-1, et y
-établir, dans les conditions prévues au 4° du présent article, un programme
-d'actions à cette fin ;
+actuel ou futur, les bassins versants connaissant d'importantes marées vertes
+sur les plages, tels que définis par le schéma directeur d'aménagement et de
+gestion des eaux, et sont dès lors de nature à compromettre la réalisation des
+objectifs de bon état, tels que prévus par l'article L. 212-1, des eaux côtières
+et de transition, telles que définies par la directive 2000/60/CE du Parlement
+européen et du Conseil du 23 octobre 2000 établissant un cadre pour une
+politique communautaire dans le domaine de l'eau, qu'ils alimentent, ainsi que
+des zones dans lesquelles l'érosion diffuse des sols agricoles est de nature à
+compromettre la réalisation des objectifs de bon état ou, le cas échéant, de bon
+potentiel prévus par l'article L. 212-1, et y établir, dans les conditions
+prévues au 4° du présent article, un programme d'actions à cette fin ;
 
 6° Délimiter des périmètres à l'intérieur desquels les autorisations de
 prélèvement d'eau pour l'irrigation sont délivrées à un organisme unique pour le
 compte de l'ensemble des préleveurs irrigants. Dans les zones de répartition des
 eaux, l'autorité administrative peut constituer d'office cet organisme.
+L'organisme unique peut faire participer les préleveurs irrigants dans son
+périmètre et, le cas échéant, d'autres contributeurs volontaires aux dépenses
+liées à cette mission. Les critères et les modalités générales de mise en œuvre
+de cette participation sont fixés par décret en Conseil d'Etat ;
+
+7° Dans le cas d'une atteinte à la qualité des eaux conduisant ou pouvant
+conduire au non-respect des normes de potabilité, délimiter tout ou partie de
+certaines des aires d'alimentation de captages d'eau potable visées au 5°, pour
+y limiter, dans un délai de trois ans, l'usage agricole des terres à une
+implantation de prairies permanentes extensives ou de cultures ligneuses sans
+intrants ou, à défaut, y soumettre le maintien d'autres cultures au respect de
+conditions limitant ou interdisant l'utilisation d'intrants de synthèse et
+établir à cette fin, dans les conditions prévues à l'article L. 114-1 du code
+rural et de la pêche maritime, un plan d'action comportant, sous réserve du
+respect de la législation européenne, des mesures de compensation ;
+
+8° Délimiter des bassins connaissant d'importantes marées vertes sur les plages,
+tels que définis par le schéma directeur d'aménagement et de gestion des eaux et
+qui sont dès lors de nature à compromettre la réalisation des objectifs de bon
+état des masses d'eau, et y rendre obligatoire une déclaration annuelle des
+quantités d'azote de toutes origines épandues ou cédées ainsi que des lieux
+d'épandage. Cette obligation vise tout utilisateur ou producteur d'azote,
+d'origine organique ou minérale, et notamment les exploitants agricoles exerçant
+les activités mentionnées à l'article L. 311-1 du code rural et de la pêche
+maritime, les gestionnaires publics et privés d'équipements de traitement
+d'effluents et de déchets, les utilisateurs d'engrais ou d'amendements azotés
+dans le cadre de services publics gérés dans les conditions prévues aux articles
+L. 1411-1 et suivants, L. 1412-1 et suivants et L. 1415-1 et suivants du code
+général des collectivités territoriales.
 
 III. - Un décret en Conseil d'Etat détermine :
 

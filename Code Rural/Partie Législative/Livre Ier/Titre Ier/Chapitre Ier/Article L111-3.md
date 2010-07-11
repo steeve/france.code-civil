@@ -13,7 +13,9 @@ différentes de celles qui résultent du premier alinéa peuvent être fixées p
 tenir compte de l'existence de constructions agricoles antérieurement
 implantées. Ces règles sont fixées par le plan local d'urbanisme ou, dans les
 communes non dotées d'un plan local d'urbanisme, par délibération du conseil
-municipal, prise après avis de la chambre d'agriculture et enquête publique.
+municipal, prise après avis de la chambre d'agriculture et enquête publique
+réalisée conformément au chapitre III du titre II du livre Ier du code de
+l'environnement.
 
 Dans les secteurs où des règles spécifiques ont été fixées en application de
 l'alinéa précédent, l'extension limitée et les travaux rendus nécessaires par

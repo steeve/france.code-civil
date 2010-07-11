@@ -10,7 +10,7 @@ mécaniques défini à l'article L. 342-9 est insuffisante pour permettre
 l'amortissement normal d'investissements supplémentaires demandés par la
 personne publique délégante pour moderniser les infrastructures existantes, y
 compris lorsque cette durée peut être prolongée en application des deuxième à
-cinquième alinéas de l'article L. 1411-2 du code général des collectivités
+dixième alinéas de l'article L. 1411-2 du code général des collectivités
 territoriales, les parties peuvent convenir, par voie d'avenant, des conditions
 d'indemnisation du délégataire pour lesdits investissements qui ne seraient pas
 amortis au terme du contrat. La personne publique peut se faire rembourser tout

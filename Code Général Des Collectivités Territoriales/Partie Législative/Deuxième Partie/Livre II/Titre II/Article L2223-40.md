@@ -14,6 +14,6 @@ l'établissement public de coopération intercommunale au terme de la délégati
 
 Toute création ou extension de crématorium ne peut avoir lieu sans
 l'autorisation du représentant de l'Etat dans le département, accordée après une
-enquête publique conduite selon les modalités prévues aux articles L. 123-1 à L.
-123-16 du code de l'environnement et un avis de la commission départementale
-compétente en matière d'environnement, de risques sanitaires et technologiques.
+enquête publique réalisée conformément au chapitre III du titre II du livre Ier
+du code de l'environnement et un avis de la commission départementale compétente
+en matière d'environnement, de risques sanitaires et technologiques.

@@ -27,7 +27,7 @@ participations dans des personnes morales à prépondérance immobilière défin
 au I de l'article 726 représentatives de ces immeubles qui figurent dans un
 périmètre arrêté par l'Etat ou, lorsque la taxe est instituée sur délibération
 du conseil régional, par la région d'Ile-de-France. Ce périmètre ne peut
-s'éloigner de plus de 800 mètres d'une entrée de gare de voyageurs prévue pour
+s'éloigner de plus de 1 200 mètres d'une entrée de gare de voyageurs prévue pour
 le projet d'infrastructure au titre duquel la taxe a été instituée.
 
 Sont exclus du champ de la taxe :

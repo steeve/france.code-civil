@@ -46,4 +46,8 @@ de carrière ou la sécurité et la santé du personnel de la carrière ou d'un
 11° Dans les départements d'outre-mer, de ne pas respecter les prescriptions
 relatives à l'arrêt des travaux prévues par l'autorisation d'exploitation ;
 
-12° De céder, d'amodier ou de louer une autorisation d'exploitation.
+12° De céder, d'amodier ou de louer une autorisation d'exploitation ;
+
+13° D'exploiter une mine soumise à une obligation de constitution de garanties
+financières sans avoir constitué ou communiqué au représentant de l'Etat dans le
+département les garanties financières requises.

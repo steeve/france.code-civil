@@ -57,6 +57,10 @@ En l'absence, lors de la signature de l'acte authentique de vente, du document
 mentionné au 5° du I, l'acquéreur peut poursuivre la résolution du contrat ou
 demander au juge une diminution du prix.
 
+En cas de non-conformité de l'installation d'assainissement non collectif lors
+de la signature de l'acte authentique de vente, l'acquéreur fait procéder aux
+travaux de mise en conformité dans un délai d'un an après l'acte de vente.
+
 L'acquéreur ne peut se prévaloir à l'encontre du propriétaire des informations
 contenues dans le diagnostic de performance énergétique qui n'a qu'une valeur
 informative.

@@ -1,10 +1,12 @@
 Article L2224-34
 ----
-Afin de répondre aux objectifs fixés au titre Ier de la loi n° 2000-108 du 10
-février 2000 précitée et aux objectifs fixés au titre III de la loi n° 2003-8 du
-3 janvier 2003 précitée, les collectivités territoriales, les établissements
-publics de coopération intercommunale ou les syndicats mixtes compétents en
-matière de distribution publique d'énergies de réseau peuvent, de manière non
+Afin de répondre aux objectifs fixés au titre Ier de la loi n° 2009-967 du 3
+août 2009 de programmation relative à la mise en œuvre du Grenelle de
+l'environnement et au titre Ier de la loi n° 2000-108 du 10 février 2000
+précitée et aux objectifs fixés au titre III de la loi n° 2003-8 du 3 janvier
+2003 précitée, les collectivités territoriales, les établissements publics de
+coopération intercommunale ou les syndicats mixtes compétents en matière de
+distribution publique d'énergies de réseau peuvent, de manière non
 discriminatoire, réaliser des actions tendant à maîtriser la demande d'énergies
 de réseau des consommateurs finals ou faire réaliser, dans le cadre des
 dispositions de l'article L. 2224-31, des actions tendant à maîtriser la demande
@@ -25,4 +27,9 @@ Les actions de maîtrise de la demande d'énergies de réseau peuvent donner lie
 délivrance de certificats d'économies d'énergie aux collectivités territoriales
 ou à leurs groupements concernés, dans les conditions prévues aux articles 15 et
 16 de la loi n° 2005-781 du 13 juillet 2005 de programme fixant les orientations
-de la politique énergétique.
+de la politique énergétique. Les communes ou établissements publics de
+coopération intercommunale de moins de 50 000 habitants, les syndicats mixtes,
+notamment les syndicats visés au premier alinéa du présent article et les pays
+prévus par l'article 22 de la loi n° 95-115 du 4 février 1995 d'orientation pour
+l'aménagement et le développement du territoire qui ne sont pas soumis à cette
+obligation peuvent adopter un plan climat-énergie territorial.

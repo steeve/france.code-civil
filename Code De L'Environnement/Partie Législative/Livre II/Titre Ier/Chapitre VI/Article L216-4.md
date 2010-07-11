@@ -10,6 +10,10 @@ passage et de leur communiquer ces documents. Les agents ne peuvent accéder à
 ces locaux qu'entre 8 heures et 20 heures, ou en dehors de ces heures si
 l'établissement est ouvert au public, ou lorsqu'une activité est en cours.
 
+Les agents mentionnés aux 1°, 2° et 5° du I de l'article L. 216-3 ont accès à la
+comptabilité matière, telle que définie au 8° du II de l'article L. 211-3, lors
+de tout contrôle relatif à une mesure de limitation des apports d'azote.
+
 Les administrations de l'Etat et les collectivités territoriales, les
 entreprises concessionnaires d'une personne publique et les organismes de toute
 nature soumis au contrôle de l'autorité administrative doivent lui communiquer,

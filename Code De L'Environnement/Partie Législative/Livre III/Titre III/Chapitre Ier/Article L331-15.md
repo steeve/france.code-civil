@@ -1,6 +1,6 @@
 Article L331-15
 ----
-I. - Lorsque le coeur du parc national représente plus du quart de la surface
+I.-Lorsque le coeur du parc national représente plus du quart de la surface
 totale du département, l'autorisation spéciale prévue à l'article L. 331-4 peut
 notamment être accordée pour :
 
@@ -13,8 +13,12 @@ lorsque des contraintes techniques ou topographiques rendent techniquement ou
 financièrement inacceptable une autre localisation, dans des conditions
 précisées par le décret prévu par l'article L. 331-7.
 
-II. - La charte du parc national doit être compatible avec le schéma
-d'aménagement régional.
+II.-La charte du parc national doit être compatible avec le schéma d'aménagement
+régional. Toutefois, lorsque le schéma d'aménagement régional est mis en
+révision avant l'approbation de la charte, celle-ci doit prendre en compte le
+projet de révision. La charte doit être rendue compatible avec le schéma dans un
+délai de trois ans à compter de l'approbation de celui-ci. Un décret en Conseil
+d'Etat précise les modalités d'application du présent alinéa.
 
 Le conseil d'administration de l'établissement public du parc national procède à
 une analyse des résultats de l'application de la charte précédente et délibère
@@ -30,7 +34,7 @@ national en tant qu'ils s'appliquent aux espaces d'un coeur de parc composé à
 plus de 60 % des forêts, bois et terrains visés à l'article L. 111-1 du code
 forestier.
 
-III. - Sauf mention contraire dans la charte du parc national :
+III.-Sauf mention contraire dans la charte du parc national :
 
 1° L'obligation de compatibilité faite aux documents mentionnés au III de
 l'article L. 331-3 est limitée aux objectifs de protection définis par la charte
@@ -41,6 +45,6 @@ aux travaux ou aménagements mentionnés au II de l'article L. 331-4 est limité
 au coeur du parc national. L'établissement public du parc est consulté pour avis
 pour ceux d'entre eux projetés dans l'aire d'adhésion.
 
-IV. - L'établissement public du parc national peut être également chargé de la
+IV.-L'établissement public du parc national peut être également chargé de la
 mise en oeuvre de toute action en rapport avec ses missions statutaires, y
 compris en dehors du parc national, par les collectivités territoriales.

@@ -1,6 +1,6 @@
 Article L632-1
 ----
-I. - Les groupements constitués à leur initiative par les organisations
+I.-Les groupements constitués à leur initiative par les organisations
 professionnelles les plus représentatives de la production agricole et, selon
 les cas, de la transformation, de la commercialisation et de la distribution
 peuvent faire l'objet d'une reconnaissance en qualité d'organisations
@@ -10,24 +10,24 @@ alimentaire, soit au niveau national, soit au niveau d'une zone de production,
 par produit ou groupe de produits déterminés s'ils visent, en particulier par la
 conclusion d'accords interprofessionnels, à la fois :
 
-- à définir et favoriser des démarches contractuelles entre leurs membres ;
+-à définir et favoriser des démarches contractuelles entre leurs membres ;
 
-- à contribuer à la gestion des marchés par une veille anticipative des marchés,
+-à contribuer à la gestion des marchés par une veille anticipative des marchés,
 par une meilleure adaptation des produits aux plans quantitatif et qualitatif et
 par leur promotion ;
 
-- à renforcer la sécurité alimentaire, en particulier par la traçabilité des
+-à renforcer la sécurité alimentaire, en particulier par la traçabilité des
 produits, dans l'intérêt des utilisateurs et des consommateurs ;
 
 Les organisations interprofessionnelles peuvent également poursuivre d'autres
 objectifs, tendant notamment :
 
-- à favoriser le maintien et le développement du potentiel économique du secteur
+-à favoriser le maintien et le développement du potentiel économique du secteur
 ;
 
-- à favoriser le développement des valorisations non alimentaires des produits ;
+-à favoriser le développement des valorisations non alimentaires des produits ;
 
-- à participer aux actions internationales de développement.
+-à participer aux actions internationales de développement.
 
 Dans les mêmes conditions, pour le secteur de la pêche maritime et de
 l'aquaculture, les groupements constitués notamment par des associations ou des
@@ -68,11 +68,11 @@ contribuant au développement de la forêt et du bois ;
 6° Favoriser la diffusion, y compris par la formation, des techniques de
 fabrication et de mise en oeuvre des produits forestiers ou dérivés du bois.
 
-II. - Il ne peut être reconnu qu'une organisation interprofessionnelle par
-produit ou groupe de produits. Lorsqu'une organisation interprofessionnelle
-nationale est reconnue, les organisations interprofessionnelles régionales
-constituent des comités de cette organisation interprofessionnelle nationale et
-sont représentées au sein de cette dernière.
+II.-Il ne peut être reconnu qu'une organisation interprofessionnelle par produit
+ou groupe de produits. Lorsqu'une organisation interprofessionnelle nationale
+est reconnue, les organisations interprofessionnelles régionales constituent des
+comités de cette organisation interprofessionnelle nationale et sont
+représentées au sein de cette dernière.
 
 Par exception à l'alinéa précédent, des organisations interprofessionnelles à
 compétence régionale peuvent toutefois être reconnues dans le secteur viticole
@@ -91,19 +91,20 @@ Par exception au premier alinéa, des organisations interprofessionnelles
 spécifiques peuvent également être reconnues pour un produit d'appellation
 d'origine contrôlée ou un groupe de produits d'appellation d'origine contrôlée,
 et pour des produits qui bénéficient d'une même indication géographique
-protégée, d'un même label ou d'une même certification de conformité mentionnés
-aux chapitres II et III du titre IV du présent livre ou à l'article L. 13 du
-code forestier. La création de sections ou de commissions consacrées aux
-produits issus de l'agriculture biologique au sein des organisations
-interprofessionnelles de portée générale peut être rendue obligatoire dans des
-conditions fixées par décret. Les interprofessions concernées définissent les
-modalités de fonctionnement de ces sections ou commissions. Des sections ou des
-commissions consacrées aux produits portant la dénomination "montagne" peuvent
-être créées au sein des organisations interprofessionnelles de portée générale.
-Une organisation interprofessionnelle spécifique à compétence nationale peut,
-par ailleurs, être reconnue pour les produits issus de l'agriculture biologique
-et une organisation interprofessionnelle spécifique à compétence nationale pour
-les produits portant la dénomination "montagne". Chaque fois qu'une organisation
+protégée, d'un même label ou d'une même certification de conformité ou
+écocertification de gestion durable mentionnés aux chapitres II et III du titre
+IV du présent livre ou à l'article L. 13 du code forestier. La création de
+sections ou de commissions consacrées aux produits issus de l'agriculture
+biologique au sein des organisations interprofessionnelles de portée générale
+peut être rendue obligatoire dans des conditions fixées par décret. Les
+interprofessions concernées définissent les modalités de fonctionnement de ces
+sections ou commissions. Des sections ou des commissions consacrées aux produits
+portant la dénomination " montagne " peuvent être créées au sein des
+organisations interprofessionnelles de portée générale. Une organisation
+interprofessionnelle spécifique à compétence nationale peut, par ailleurs, être
+reconnue pour les produits issus de l'agriculture biologique et une organisation
+interprofessionnelle spécifique à compétence nationale pour les produits portant
+la dénomination " montagne ". Chaque fois qu'une organisation
 interprofessionnelle de portée générale existe pour les produits ou groupes de
 produits concernés, l'autorité administrative visée au premier alinéa du I
 recueille l'avis de l'organisation générale préalablement à sa décision sur la

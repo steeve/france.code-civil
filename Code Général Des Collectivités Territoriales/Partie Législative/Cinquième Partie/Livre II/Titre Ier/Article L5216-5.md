@@ -13,7 +13,8 @@ territoriale et schéma de secteur ; création et réalisation de zones
 d'aménagement concerté d'intérêt communautaire ; organisation des transports
 urbains au sens du chapitre II du titre II de la loi n° 82-1153 du 30 décembre
 1982 d'orientation des transports intérieurs, sous réserve des dispositions de
-l'article 46 de cette loi ;
+l'article 46 de cette loi.A ce titre, elle peut organiser un service de mise à
+disposition de bicyclettes en libre-service ;
 
 3° En matière d'équilibre social de l'habitat : programme local de l'habitat ;
 politique du logement d'intérêt communautaire ; actions et aides financières en
@@ -35,7 +36,21 @@ communes au moins trois compétences parmi les six suivantes :
 création ou aménagement et gestion de parcs de stationnement d'intérêt
 communautaire ;
 
-2° Assainissement ;
+Lorsque la communauté d'agglomération exerce la compétence " création ou
+aménagement et entretien de voirie communautaire ” et que son territoire est
+couvert par un plan de déplacements urbains, la circulation d'un service de
+transport collectif en site propre entraîne l'intérêt communautaire des voies
+publiques supportant cette circulation et des trottoirs adjacents à ces voies.
+Toutefois, l'organe délibérant de l'établissement public de coopération
+intercommunale peut, sur certaines portions de trottoirs adjacents, limiter
+l'intérêt communautaire aux seuls équipements affectés au service de transport
+collectif ;
+
+2° Assainissement des eaux usées et, si des mesures doivent être prises pour
+assurer la maîtrise de l'écoulement des eaux pluviales ou des pollutions
+apportées au milieu par le rejet des eaux pluviales, la collecte et le stockage
+de ces eaux ainsi que le traitement de ces pollutions dans les zones délimitées
+par la communauté en application des 3° et 4° de l'article L. 2224-10 ;
 
 3° Eau ;
 
@@ -68,7 +83,7 @@ III.-Lorsque l'exercice des compétences mentionnées aux I et II du présent
 article est subordonné à la reconnaissance de leur intérêt communautaire, cet
 intérêt est déterminé à la majorité des deux tiers du conseil de la communauté
 d'agglomération. Il est défini au plus tard deux ans après l'entrée en vigueur
-de l'arrêté prononçant le transfert de compétence. A défaut, la communauté
+de l'arrêté prononçant le transfert de compétence.A défaut, la communauté
 d'agglomération exerce l'intégralité de la compétence transférée.
 
 IV. (Abrogé).
@@ -89,3 +104,15 @@ conseil communautaire et des conseils municipaux concernés.
 
 Le montant total des fonds de concours ne peut excéder la part du financement
 assurée, hors subventions, par le bénéficiaire du fonds de concours.
+
+VII. ― Par convention passée avec le département, une communauté d'agglomération
+dont le plan de déplacements urbains comprend un service de transport collectif
+en site propre empruntant des voiries départementales ou prévoit sa réalisation
+peut, dans le périmètre de transports urbains, exercer en lieu et place du
+département tout ou partie des compétences qui, dans le domaine de la voirie,
+sont attribuées au département en vertu des articles L. 131-1 à L. 131-8 du code
+de la voirie routière. Le refus du conseil général de déléguer tout ou partie de
+ces compétences doit être motivé par délibération. La convention précise
+l'étendue et les conditions financières de la délégation de compétence ainsi que
+les conditions dans lesquelles les services départementaux correspondants sont
+mis à la disposition de la communauté d'agglomération.

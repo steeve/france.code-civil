@@ -4,7 +4,7 @@ A l'intérieur du périmètre d'exposition aux risques, les plans de prévention
 risques technologiques peuvent, en fonction du type de risques, de leur gravité,
 de leur probabilité et de leur cinétique :
 
-I. - Délimiter les zones dans lesquelles la réalisation d'aménagements ou
+I.-Délimiter les zones dans lesquelles la réalisation d'aménagements ou
 d'ouvrages ainsi que les constructions nouvelles et l'extension des
 constructions existantes sont interdites ou subordonnées au respect de
 prescriptions relatives à la construction, à l'utilisation ou à l'exploitation.
@@ -13,29 +13,28 @@ Dans ces zones, les communes ou les établissements publics de coopération
 intercommunale compétents peuvent instaurer le droit de préemption urbain dans
 les conditions définies à l'article L. 211-1 du code de l'urbanisme.
 
-II. - Délimiter, à l'intérieur des zones prévues au I, des secteurs où, en
-raison de l'existence de risques importants d'accident à cinétique rapide
-présentant un danger grave pour la vie humaine, les communes ou les
-établissements publics de coopération intercommunale compétents peuvent
-instaurer un droit de délaissement des bâtiments ou parties de bâtiments
-existant à la date d'approbation du plan qui s'exerce dans les conditions
-définies aux articles L. 230-1 et suivants du code de l'urbanisme. Toutefois,
-pour la détermination du prix d'acquisition, la valeur du bien est appréciée
-sans tenir compte de la dépréciation supplémentaire éventuelle apportée par
-l'intervention de la servitude instituée en application du I. La commune ou
-l'établissement public de coopération intercommunale peut, par convention passée
-avec un établissement public, lui confier le soin de réaliser l'acquisition des
-biens faisant l'objet du délaissement.
+II.-Délimiter, à l'intérieur des zones prévues au I, des secteurs où, en raison
+de l'existence de risques importants d'accident à cinétique rapide présentant un
+danger grave pour la vie humaine, les communes ou les établissements publics de
+coopération intercommunale compétents peuvent instaurer un droit de délaissement
+des bâtiments ou parties de bâtiments existant à la date d'approbation du plan
+qui s'exerce dans les conditions définies aux articles L. 230-1 et suivants du
+code de l'urbanisme. Toutefois, pour la détermination du prix d'acquisition, la
+valeur du bien est appréciée sans tenir compte de la dépréciation supplémentaire
+éventuelle apportée par l'intervention de la servitude instituée en application
+du I. La commune ou l'établissement public de coopération intercommunale peut,
+par convention passée avec un établissement public, lui confier le soin de
+réaliser l'acquisition des biens faisant l'objet du délaissement.
 
-III. - Délimiter, à l'intérieur des zones prévues au I, des secteurs où, en
-raison de l'existence de risques importants d'accident à cinétique rapide
-présentant un danger très grave pour la vie humaine, l'Etat peut déclarer
-d'utilité publique l'expropriation, par les communes ou les établissements
-publics de coopération intercommunale compétents et à leur profit, dans les
-conditions prévues par le code de l'expropriation pour cause d'utilité publique,
-des immeubles et droits réels immobiliers lorsque les moyens de sauvegarde et de
-protection des populations qu'il faudrait mettre en oeuvre s'avèrent impossibles
-ou plus coûteux que l'expropriation.
+III.-Délimiter, à l'intérieur des zones prévues au I, des secteurs où, en raison
+de l'existence de risques importants d'accident à cinétique rapide présentant un
+danger très grave pour la vie humaine, l'Etat peut déclarer d'utilité publique
+l'expropriation, par les communes ou les établissements publics de coopération
+intercommunale compétents et à leur profit, dans les conditions prévues par le
+code de l'expropriation pour cause d'utilité publique, des immeubles et droits
+réels immobiliers lorsque les moyens de sauvegarde et de protection des
+populations qu'il faudrait mettre en oeuvre s'avèrent impossibles ou plus
+coûteux que l'expropriation.
 
 La procédure prévue par les articles L. 15-6 à L. 15-8 du code de
 l'expropriation pour cause d'utilité publique est applicable lorsque la gravité
@@ -45,7 +44,7 @@ Pour la détermination du prix d'acquisition ou du montant des indemnités, il
 n'est pas tenu compte de la dépréciation supplémentaire éventuelle apportée au
 bien par l'intervention de la servitude instituée en application du I.
 
-IV. - Prescrire les mesures de protection des populations face aux risques
+IV.-Prescrire les mesures de protection des populations face aux risques
 encourus, relatives à l'aménagement, l'utilisation ou l'exploitation des
 constructions, des ouvrages, des installations et des voies de communication
 existant à la date d'approbation du plan, qui doivent être prises par les
@@ -59,8 +58,20 @@ précédent, ils ne peuvent porter que sur des aménagements dont le coût n'exc
 pas des limites fixées par le décret en Conseil d'Etat prévu à l'article L.
 515-25.
 
-V. - Définir des recommandations tendant à renforcer la protection des
-populations face aux risques encourus et relatives à l'aménagement,
-l'utilisation ou l'exploitation des constructions, des ouvrages, des voies de
-communication et des terrains de camping ou de stationnement de caravanes,
-pouvant être mises en oeuvre par les propriétaires, exploitants et utilisateurs.
+V.-Définir des recommandations tendant à renforcer la protection des populations
+face aux risques encourus et relatives à l'aménagement, l'utilisation ou
+l'exploitation des constructions, des ouvrages, des voies de communication et
+des terrains de camping ou de stationnement de caravanes, pouvant être mises en
+oeuvre par les propriétaires, exploitants et utilisateurs.
+
+Les plans peuvent par ailleurs prévoir, sans préjudice des obligations mises à
+la charge de l'exploitant par le représentant de l'Etat dans le département en
+application des articles L. 512-1 à L. 512-5 et de l'article L. 512-7, des
+mesures supplémentaires de prévention des risques permettant de réduire le
+périmètre des secteurs susceptibles de faire l'objet des mesures prévues aux II
+et III du présent article lorsque le coût de ces mesures supplémentaires est
+inférieur à celui des mesures prévues à ces mêmes II et III qu'elles permettent
+d'éviter.
+
+De telles mesures supplémentaires doivent faire l'objet de la convention prévue
+au IV de l'article L. 515-19 avant l'approbation des plans.

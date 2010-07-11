@@ -2,12 +2,12 @@ Article R4432-10
 ----
 Un arrêté du préfet de région fixe, par application des règles définies aux
 articles R. 4432-1 à R. 4432-3 et aux articles R. 4432-5 à R. 4432-7, la liste
-des organismes de toute nature représentés au conseil économique et social
-régional et au conseil de la culture, de l'éducation et de l'environnement, le
-nombre de leurs représentants et, le cas échéant, les modalités particulières de
-leur désignation.
+des organismes de toute nature représentés au conseil économique, social et
+environnemental régional et au conseil de la culture, de l'éducation et de
+l'environnement, le nombre de leurs représentants et, le cas échéant, les
+modalités particulières de leur désignation.
 
-La désignation des membres mentionnés aux 1° , 2° et 3° des articles R. 4432-1 à
+La désignation des membres mentionnés aux 1°, 2° et 3° des articles R. 4432-1 à
 R. 4432-7 est constatée par arrêté du préfet.
 
 Si un ou plusieurs sièges ne peuvent être pourvus selon les modalités prévues

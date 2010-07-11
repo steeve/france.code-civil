@@ -11,7 +11,8 @@ l'aménagement du territoire.
 
 La participation du public peut prendre la forme d'un débat public. Celui-ci
 porte sur l'opportunité, les objectifs et les caractéristiques principales du
-projet.
+projet. Il porte aussi sur les modalités d'information et de participation du
+public après le débat.
 
 La participation du public est assurée pendant toute la phase d'élaboration d'un
 projet, depuis l'engagement des études préliminaires jusqu'à la clôture de

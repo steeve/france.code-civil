@@ -1,6 +1,6 @@
 Article L341-19
 ----
-I. - Est puni d'une amende de 9 000 euros :
+I.-Est puni d'une amende de 9 000 euros :
 
 1° Le fait de procéder à des travaux sur un monument naturel ou un site inscrit
 sans en aviser l'administration dans les conditions prévues à l'article L.
@@ -14,7 +14,7 @@ l'administration dans les conditions prévues à l'article L. 341-9 ;
 sans l'agrément de l'administration dans les conditions prévues à l'article L.
 341-14.
 
-II. - Est puni des peines prévues à l'article L. 480-4 du code de l'urbanisme :
+II.-Est puni des peines prévues à l'article L. 480-4 du code de l'urbanisme :
 
 1° Le fait d'apporter des modifications sur un monument naturel ou un site en
 instance de classement en violation des dispositions de l'article L. 341-7 ;
@@ -27,10 +27,10 @@ création d'une zone de protection pris en application de l'article 19 de la loi
 du 2 mai 1930 ayant pour objet de réorganiser la protection des monuments
 naturels et des sites de caractère artistique, historique, scientifique,
 légendaire ou pittoresque et continuant à produire ses effets en application de
-l'article L. 642-6 du code du patrimoine.
+l'article L. 642-9 du code du patrimoine.
 
-III. - Les dispositions des articles L. 480-1, L. 480-2, L. 480-3 et L. 480-5 à
-L. 480-9 du code de l'urbanisme sont applicables aux infractions à l'alinéa 4 de
+III.-Les dispositions des articles L. 480-1, L. 480-2, L. 480-3 et L. 480-5 à L.
+480-9 du code de l'urbanisme sont applicables aux infractions à l'alinéa 4 de
 l'article L. 341-1 du présent code et aux dispositions visées au II, sous la
 seule réserve des conditions suivantes :
 

@@ -2,7 +2,8 @@ Article 98
 ----
 Nul ne peut entreprendre un forage en vue de la recherche de gîtes géothermiques
 à basse température sans une autorisation de recherches accordée par arrêté
-préfectoral après enquête publique.
+préfectoral après enquête publique réalisée conformément au chapitre III du
+titre II du livre Ier du code de l'environnement.
 
 L'autorisation détermine soit l'emplacement du ou des forages à entreprendre,
 soit le tracé d'un périmètre à l'intérieur duquel ces forages peuvent être

@@ -1,8 +1,8 @@
 Article L4433-4-10
 ----
-Dans chacune des régions de la Guadeloupe, de la Guyane, de la Martinique, de
-Mayotte et de la Réunion, il est créé une commission de suivi de l'utilisation
-des fonds européens.
+Dans chacune des régions de la Guadeloupe, de la Guyane, de la Martinique et de
+la Réunion, il est créé une commission de suivi de l'utilisation des fonds
+structurels européens.
 
 Coprésidée par le préfet, le président du conseil régional et le président du
 conseil général, cette commission est en outre composée des parlementaires de la

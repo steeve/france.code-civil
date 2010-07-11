@@ -1,10 +1,10 @@
 Article L4134-7-1
 ----
 Indépendamment des autorisations d'absence dont ils bénéficient en application
-de l'article L. 4134-6, le président et les membres du conseil économique et
-social régional ont droit à un crédit d'heures leur permettant de disposer du
-temps nécessaire à la préparation des réunions du conseil et des commissions
-dont ils font partie.
+de l'article L. 4134-6, le président et les membres du conseil économique,
+social et environnemental régional ont droit à un crédit d'heures leur
+permettant de disposer du temps nécessaire à la préparation des réunions du
+conseil et des commissions dont ils font partie.
 
 Ce crédit d'heures, forfaitaire et trimestriel, est fixé par référence à la
 durée hebdomadaire légale du travail.

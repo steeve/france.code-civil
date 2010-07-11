@@ -1,6 +1,6 @@
 Article L213-10-2
 ----
-I. - Toute personne, à l'exception des propriétaires et occupants d'immeubles à
+I.-Toute personne, à l'exception des propriétaires et occupants d'immeubles à
 usage principal d'habitation ainsi que des abonnés au service d'eau potable dont
 les activités impliquent des utilisations de l'eau assimilables aux utilisations
 à des fins domestiques, dont les activités entraînent le rejet d'un des éléments
@@ -8,10 +8,10 @@ de pollution mentionnés au IV dans le milieu naturel directement ou par un
 réseau de collecte, est assujettie à une redevance pour pollution de l'eau
 d'origine non domestique.
 
-II. - L'assiette de la redevance est la pollution annuelle rejetée dans le
-milieu naturel égale à douze fois la moyenne de la pollution moyenne mensuelle
-et de la pollution mensuelle rejetée la plus forte. Elle est composée des
-éléments mentionnés au IV.
+II.-L'assiette de la redevance est la pollution annuelle rejetée dans le milieu
+naturel égale à douze fois la moyenne de la pollution moyenne mensuelle et de la
+pollution mensuelle rejetée la plus forte. Elle est composée des éléments
+mentionnés au IV.
 
 Elle est déterminée directement à partir des résultats du suivi régulier de
 l'ensemble des rejets, le dispositif de suivi étant agréé et contrôlé par un
@@ -35,10 +35,10 @@ oeuvre. Lorsque la pollution produite provient d'un épandage direct, elle est
 calculée indirectement en prenant en compte la qualité des méthodes de
 récupération des effluents et d'épandage.
 
-III. - Sur demande du redevable, le suivi régulier des rejets visé au II a pour
+III.-Sur demande du redevable, le suivi régulier des rejets visé au II a pour
 objet de mesurer la pollution annuelle ajoutée par l'activité.
 
-IV. - Pour chaque élément constitutif de la pollution, le tarif maximum de la
+IV.-Pour chaque élément constitutif de la pollution, le tarif maximum de la
 redevance et le seuil au-dessous duquel la redevance n'est pas due sont fixés
 comme suit :
 
@@ -132,13 +132,13 @@ souterraine (par kg)
 
 50 kg
 
-Sels dissous (m3 [siemens/centimètre])
+Sels dissous (m3 [siemens/ centimètre])
 
 0,15
 
-2 000 m3*S/cm
+2 000 m3*S/ cm
 
-Chaleur rejetée en mer , excepté en hiver (par mégathermie)
+Chaleur rejetée en mer, excepté en hiver (par mégathermie)
 
 8,5
 
@@ -160,8 +160,8 @@ montagne et, pour les élevages de monogastriques, la conversion des effectifs
 animaux en unités de gros bétail s'effectue en tenant compte des bonnes
 pratiques d'alimentation réduisant les rejets de composés azotés. La redevance
 est perçue à partir de la quarante et unième unité de gros bétail détenue. Son
-montant est multiplié par trois pour les élevages verbalisés au titre des
-réglementations relatives à la protection de la qualité des eaux.
+montant est multiplié par trois pour les élevages condamnés pénalement au titre
+des réglementations relatives à la protection de la qualité des eaux.
 
 Pour chaque élément d'assiette, à l'exception des activités d'élevage, le tarif
 de la redevance est fixé par unité géographique cohérente définie en tenant

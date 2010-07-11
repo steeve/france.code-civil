@@ -1,13 +1,23 @@
 Article L254-9
 ----
-Est puni d'un emprisonnement de six mois et d'une amende de 15000 euros :
+Sans préjudice des poursuites pénales éventuellement encourues, l'autorité
+administrative peut, notamment sur la base des éléments fournis en application
+de l'article L. 254-8 ou de ceux recueillis dans le cadre des contrôles et
+inspections opérés conformément aux dispositions du chapitre préliminaire du
+présent titre, par décision motivée et après avoir invité l'intéressé à faire
+connaître ses observations, suspendre ou retirer :
 
-1° Le fait d'exercer l'une des activités visées aux articles L. 254-1 et L.
-254-2 sans justifier de la détention de l'agrément ;
+1° L'agrément d'une personne exerçant une activité mentionnée à l'article L.
+254-1, pour tout ou partie de ses établissements, lorsque les conditions
+requises pour son obtention ne sont plus remplies ou en cas de non-respect de
+l'article L. 253-1 ;
 
-2° Le fait, pour le détenteur de l'agrément, d'exercer l'une des activités
-visées aux articles L. 254-1 et L. 254-2 sans satisfaire aux conditions exigées
-par l'article L. 254-3 ;
+2° L'agrément d'une personne exerçant une activité de conseil telle que définie
+au 3° du I de l'article L. 254-1, pour tout ou partie de ses établissements, en
+cas de recommandation préconisant l'utilisation d'un produit phytopharmaceutique
+défini à l'article L. 253-1 sans autorisation de mise sur le marché ou dans des
+conditions d'emploi autres que celles prévues dans l'autorisation ou par la
+réglementation en vigueur ;
 
-3° Le fait d'exercer l'une des activités visées aux articles L. 254-1 et L.
-254-2 sans satisfaire aux conditions exigées par l'article L. 254-5.
+3° L'habilitation des organismes mentionnés à l'article L. 254-3 ou le
+certificat mentionné à l'article L. 254-4.

@@ -3,17 +3,19 @@ Article L4211-2-1
 En l'absence de dispositif de collecte de proximité spécifique, les officines de
 pharmacies, les pharmacies à usage intérieur et les laboratoires de biologie
 médicale sont tenus de collecter gratuitement les déchets d'activités de soins à
-risque infectieux produits par les patients en auto-traitement, apportés par les
-particuliers qui les détiennent.
+risque infectieux perforants produits par les patients en autotraitement,
+apportés par les particuliers qui les détiennent. Un décret en Conseil d'Etat
+pris après avis de l'Autorité de la concurrence précise :
 
-Un décret pris après avis du Conseil de la concurrence précise les conditions de
-la précollecte, de la collecte et de la destruction des déchets mentionnés au
-premier alinéa, notamment les conditions du financement de celles-ci par les
-exploitants et les fabricants de médicaments, dispositifs médicaux et
-dispositifs médicaux de diagnostic in vitro conduisant à la production de
-déchets perforants destinés aux patients en auto-traitement, ou les mandataires
-des fabricants.
+― les conditions de la collecte et de l'élimination, au sens de l'article L.
+541-2 du code de l'environnement, des déchets mentionnés au premier alinéa du
+présent article ;
 
-Les modalités de financement prévues au présent article ainsi que les sanctions
-en cas de non-respect de l'obligation visée au premier alinéa sont fixées par
-décret en Conseil d'Etat.
+― les conditions de financement de celles-ci par les exploitants de médicaments
+et les fabricants de dispositifs médicaux et dispositifs médicaux de diagnostic
+in vitro ou leurs mandataires, qui mettent sur le marché des matériels ou
+matériaux, associés ou non à un médicament ou à un dispositif médical et
+destinés aux patients en autotraitement et conduisant à la production de ces
+déchets ;
+
+― les sanctions en cas de non-respect de l'obligation visée au premier alinéa.

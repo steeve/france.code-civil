@@ -1,8 +1,9 @@
 Article 68-9
 ----
 Le permis d'exploitation est accordé par l'autorité administrative, après
-enquête publique et, sauf dans les cas prévus par l'article 68-10, mise en
-concurrence, et sous réserve de l'engagement de respecter des conditions
+enquête publique réalisée conformément au chapitre III du titre II du livre Ier
+du code de l'environnement et, sauf dans les cas prévus par l'article 68-10,
+mise en concurrence, et sous réserve de l'engagement de respecter des conditions
 générales. Ce titre peut être accordé conjointement à plusieurs personnes,
 physiques ou sociétés commerciales. Les modalités d'application du présent
 alinéa sont définies par décret en Conseil d'Etat.

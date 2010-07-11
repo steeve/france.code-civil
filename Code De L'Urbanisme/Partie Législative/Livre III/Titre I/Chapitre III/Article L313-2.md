@@ -20,14 +20,12 @@ plan de sauvegarde et de mise en valeur ou sur les prescriptions imposées au
 propriétaire, le représentant de l'Etat dans la région émet, après consultation
 de la section de la commission régionale du patrimoine et des sites, un avis qui
 se substitue à celui de l'architecte des Bâtiments de France. Le recours du
-pétitionnaire s'exerce à l'occasion du refus d'autorisation de travaux. Les
-délais de saisine du préfet de région et ceux impartis à la section et au préfet
-pour statuer sont fixés par décret en Conseil d'Etat.
+pétitionnaire s'exerce à l'occasion du refus d'autorisation de travaux. En
+l'absence de décision expresse du représentant de l'Etat dans la région dans le
+délai de deux mois à compter de sa saisine, le recours est réputé admis.
 
-Le ministre chargé de la culture peut évoquer tout dossier dont l'architecte des
-Bâtiments de France ou le représentant de l'Etat dans la région est saisi en
-application du présent article. L'autorisation ne peut alors être délivrée
-qu'avec son accord.
+Un décret détermine le délai de saisine du représentant de l'Etat dans la
+région.
 
 Les prescriptions imposées en application du présent article ne peuvent faire
 obstacle à l'application des règles d'accessibilité d'un immeuble bâti aux

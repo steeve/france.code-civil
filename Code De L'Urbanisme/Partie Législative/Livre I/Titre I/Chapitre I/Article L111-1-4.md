@@ -8,18 +8,23 @@ routes classées à grande circulation.
 
 Cette interdiction ne s'applique pas :
 
-- aux constructions ou installations liées ou nécessaires aux infrastructures
+-aux constructions ou installations liées ou nécessaires aux infrastructures
 routières ;
 
-- aux services publics exigeant la proximité immédiate des infrastructures
+-aux services publics exigeant la proximité immédiate des infrastructures
 routières ;
 
-- aux bâtiments d'exploitation agricole ;
+-aux bâtiments d'exploitation agricole ;
 
-- aux réseaux d'intérêt public.
+-aux réseaux d'intérêt public.
 
 Elle ne s'applique pas non plus à l'adaptation, au changement de destination, à
-la réfection ou à l'extension de constructions existantes.
+la réfection ou à l'extension de constructions existantes. Un règlement local de
+publicité pris en application de l'article L. 581-14 du code de l'environnement
+est établi par l'établissement public de coopération intercommunale compétent en
+matière de plan local d'urbanisme ou la commune.L'élaboration et l'approbation
+des dispositions d'urbanisme et du règlement local de publicité font l'objet
+d'une procédure unique et d'une même enquête publique.
 
 Le plan local d'urbanisme, ou un document d'urbanisme en tenant lieu, peut fixer
 des règles d'implantation différentes de celles prévues par le présent article

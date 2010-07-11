@@ -28,11 +28,11 @@ personne qui en fait la demande.
 
 Au terme de la consultation du public, le président du comité de bassin transmet
 pour avis le projet aux conseils régionaux, aux conseils généraux, aux chambres
-consulaires, aux conseils économiques et sociaux régionaux et, lorsqu'ils
-existent, aux établissements publics territoriaux de bassin, ainsi qu'au Comité
-national de l'eau et au Conseil supérieur de l'énergie et du gaz. A défaut de
-réception de l'avis dans le délai de quatre mois à compter de la transmission du
-document, l'avis est réputé donné.
+consulaires, aux conseils économiques, sociaux et environnementaux régionaux et,
+lorsqu'ils existent, aux établissements publics territoriaux de bassin, ainsi
+qu'au Comité national de l'eau et au Conseil supérieur de l'énergie et du gaz. A
+défaut de réception de l'avis dans le délai de quatre mois à compter de la
+transmission du document, l'avis est réputé donné.
 
 Le comité de bassin adopte le projet et le soumet pour approbation au préfet
 coordonnateur de bassin.

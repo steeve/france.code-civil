@@ -2,10 +2,13 @@ Article L222-4
 ----
 I.-Dans toutes les agglomérations de plus de 250 000 habitants, ainsi que dans
 les zones où, dans des conditions précisées par décret en Conseil d'Etat, les
-normes de qualité de l'air mentionnées à l'article L. 221-1 applicables aux
-plans de protection de l'atmosphère ne sont pas respectées ou risquent de ne pas
-l'être, le préfet élabore un plan de protection de l'atmosphère, compatible avec
-les orientations du plan régional pour la qualité de l'air s'il existe.
+normes de qualité de l'air mentionnées à l'article L. 221-1 ou, le cas échéant,
+les normes spécifiques mentionnées au 2° du I de l'article L. 222-1, applicables
+aux plans de protection de l'atmosphère ne sont pas respectées ou risquent de ne
+pas l'être, le préfet élabore un plan de protection de l'atmosphère, compatible
+avec les orientations du plan régional pour la qualité de l'air s'il existe et,
+à compter de son adoption, avec les orientations du schéma régional du climat,
+de l'air et de l'énergie.
 
 Pour les zones mentionnées au premier alinéa, le recours à un plan de protection
 de l'atmosphère n'est pas nécessaire lorsqu'il est démontré que des mesures

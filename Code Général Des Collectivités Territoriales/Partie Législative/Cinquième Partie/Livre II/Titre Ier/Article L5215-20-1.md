@@ -32,7 +32,8 @@ intéressé ;
 5° Services d'incendie et de secours, sous réserve des dispositions du chapitre
 IV du titre II du livre IV de la première partie ;
 
-6° Transports urbains de voyageurs ;
+6° Transports urbains de voyageurs à ce titre, elles peuvent organiser un
+service de mise à disposition de bicyclettes en libre-service ;
 
 7° Lycées et collèges ;
 

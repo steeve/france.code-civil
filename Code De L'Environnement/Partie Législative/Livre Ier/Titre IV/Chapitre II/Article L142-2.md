@@ -7,8 +7,10 @@ défendre et constituant une infraction aux dispositions législatives relatives
 la protection de la nature et de l'environnement, à l'amélioration du cadre de
 vie, à la protection de l'eau, de l'air, des sols, des sites et paysages, à
 l'urbanisme, ou ayant pour objet la lutte contre les pollutions et les
-nuisances, la sûreté nucléaire et la radioprotection, ainsi qu'aux textes pris
-pour leur application.
+nuisances, la sûreté nucléaire et la radioprotection, les pratiques commerciales
+et les publicités trompeuses ou de nature à induire en erreur quand ces
+pratiques et publicités comportent des indications environnementales ainsi
+qu'aux textes pris pour leur application.
 
 Ce droit est également reconnu, sous les mêmes conditions, aux associations
 régulièrement déclarées depuis au moins cinq ans à la date des faits et qui se

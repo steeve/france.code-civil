@@ -1,28 +1,22 @@
 Article L222-2
 ----
-Les commissions départementales compétentes en matière d'environnement, de
-risques sanitaires et technologiques et les représentants des organismes agréés
-prévus à l'article L. 221-3 sont associés à l'élaboration du plan régional pour
-la qualité de l'air.
+Après avoir été mis pendant une durée minimale d'un mois à la disposition du
+public sous des formes, notamment électroniques, de nature à permettre sa
+participation, le projet de schéma régional du climat, de l'air et de l'énergie
+est soumis à l'approbation de l'organe délibérant du conseil régional. Le schéma
+est ensuite arrêté par le préfet de région.
 
-Le projet de plan est mis à la disposition du public pour consultation. Il est
-transmis pour avis aux communes, aux établissements publics de coopération
-intercommunale et aux syndicats mixtes compétents pour l'élaboration d'un schéma
-de cohérence territoriale, aux communes où il existe un plan de déplacements
-urbains ou un plan de protection de l'atmosphère, ainsi qu'aux autorités
-compétentes pour l'organisation des transports urbains et aux conseils généraux.
-Après modifications éventuelles afin de tenir compte des observations du public
-et des avis des collectivités consultées, il est arrêté par délibération du
-conseil régional ou, en Corse, par délibération de l'Assemblée de Corse sur
+En Corse, le schéma est adopté par délibération de l'Assemblée de Corse sur
 proposition du président du conseil exécutif et après avis du représentant de
 l'Etat.
 
-Au terme d'une période de cinq ans, le plan fait l'objet d'une évaluation et est
-révisé, le cas échéant si les normes de qualité de l'air mentionnées à l'article
-L. 222-1 n'ont pas été respectées.
+Les régions peuvent intégrer au schéma régional du climat, de l'air et de
+l'énergie le plan climat-énergie territorial défini par l'article L. 229-26 du
+présent code. Dans ce cas, elles font état de ce schéma dans le rapport prévu
+par l'article L. 4310-1 du code général des collectivités territoriales.
 
-Le plan est alors modifié en fonction des éléments objectifs du bilan
-quinquennal et de l'actualisation des données scientifiques et sanitaires.
-
-En région d'Ile-de-France, le maire de Paris est associé à l'élaboration et à la
-révision du plan.
+Au terme d'une période de cinq ans, le schéma fait l'objet d'une évaluation et
+peut être révisé, à l'initiative conjointe du préfet de région et du président
+du conseil régional ou, en Corse, à l'initiative du président du conseil
+exécutif, en fonction des résultats obtenus dans l'atteinte des objectifs fixés
+et, en particulier, du respect des normes de qualité de l'air.

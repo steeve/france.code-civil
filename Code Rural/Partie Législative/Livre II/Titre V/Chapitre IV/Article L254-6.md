@@ -1,14 +1,10 @@
 Article L254-6
 ----
-L'autorité administrative peut procéder à la suspension ou au retrait de
-l'agrément lorsque les conditions nécessaires à la délivrance de celui-ci ne
-sont plus réunies.
+Les personnes qui exercent les activités mentionnées à l'article L. 254-1 font
+référence dans leurs documents commerciaux à l'agrément et aux certificats
+qu'elles détiennent, selon des modalités définies par arrêté des ministres
+chargés de l'agriculture et de la consommation, et tiennent un registre de leurs
+activités.
 
-Elle peut décider de suspendre ou de retirer le certificat lorsque son titulaire
-a commis un acte contraire aux dispositions législatives et réglementaires
-applicables aux produits phytosanitaires, ou, dans l'exercice de son activité,
-des négligences susceptibles de porter atteinte à la santé des personnes ou à
-l'environnement.
-
-Le titulaire de l'agrément ou du certificat est préalablement mis en mesure de
-présenter ses observations.
+Les personnes qui exercent les activités mentionnées au 1° du I de l'article L.
+254-1 tiennent également un registre de leurs ventes.

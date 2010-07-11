@@ -31,3 +31,20 @@ relatives à l'environnement, y compris celles relatives aux substances et
 activités dangereuses, et le public est associé au processus d'élaboration des
 projets ayant une incidence importante sur l'environnement ou l'aménagement du
 territoire.
+
+III. - L'objectif de développement durable, tel qu'indiqué au II, répond, de
+façon concomitante et cohérente, à cinq finalités :
+
+1° La lutte contre le changement climatique ;
+
+2° La préservation de la biodiversité, des milieux et des ressources ;
+
+3° La cohésion sociale et la solidarité entre les territoires et les générations
+;
+
+4° L'épanouissement de tous les êtres humains ;
+
+5° Une dynamique de développement suivant des modes de production et de
+consommation responsables.
+
+IV. - L'Agenda 21 est un projet territorial de développement durable.

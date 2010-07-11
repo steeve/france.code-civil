@@ -38,13 +38,16 @@ utilisant une source d'énergie renouvelable ;
 minimale du logement ;
 
 3° Soit de travaux de réhabilitation de systèmes d'assainissement non collectif
-par des dispositifs ne consommant pas d'énergie.
+par des dispositifs ne consommant pas d'énergie ;
+
+4° Soit de travaux prescrits aux propriétaires d'habitation au titre du IV de
+l'article L. 515-16 du code de l'environnement.
 
 Les modalités de détermination des travaux mentionnés aux 1°, 2° et 3° sont
 fixées par décret.
 
-3.L'avance remboursable sans intérêt peut être consentie aux personnes suivantes
-:
+3. L'avance remboursable sans intérêt peut être consentie aux personnes
+suivantes :
 
 1° Aux personnes physiques à raison de travaux réalisés dans leur habitation
 principale lorsqu'elles en sont propriétaires ou dans des logements qu'elles
@@ -90,6 +93,9 @@ s'applique pas aux bénéficiaires d'une avance émise avant le 1er janvier 2011
 lorsque le montant des revenus du foyer fiscal tel que défini au IV de l'article
 1417 n'excède pas 45 000 € l'avant-dernière année précédant celle de l'offre de
 l'avance.
+
+8. Les dépenses de travaux financés par une avance remboursable ne peuvent
+ouvrir droit au crédit d'impôt de l'article 200 quater C.
 
 II.-Le montant du crédit d'impôt est égal à la somme actualisée des écarts entre
 les mensualités dues au titre de l'avance remboursable sans intérêt et les

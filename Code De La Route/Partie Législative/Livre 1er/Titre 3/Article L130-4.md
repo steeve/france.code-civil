@@ -25,8 +25,8 @@ terrestres placés sous l'autorité du ministre chargé des transports ;
 
 7° Les agents des douanes ;
 
-8° Les agents des concessionnaires d'une autoroute ou d'un ouvrage routier
-ouvert à la circulation publique et soumis à péage, agréés par le préfet ;
+8° Les agents des exploitants d'une autoroute ou d'un ouvrage routier ouvert à
+la circulation publique et soumis à péage, agréés par le préfet ;
 
 9° Les agents verbalisateurs mentionnés à l'article L. 116-2 du code de la
 voirie routière ;

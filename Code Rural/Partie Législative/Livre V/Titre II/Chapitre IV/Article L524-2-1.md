@@ -3,7 +3,10 @@ Article L524-2-1
 Lors de l'assemblée générale ordinaire chargée de statuer sur les comptes de
 l'exercice, le conseil d'administration ou le directoire présente aux associés
 un rapport détaillé sur la gestion et l'évolution de la coopérative ainsi que
-sur sa stratégie et ses perspectives à moyen terme.
+sur sa stratégie et ses perspectives à moyen terme. Ce rapport comporte
+également les informations mentionnées au cinquième alinéa de l'article L.
+225-102-1 du code de commerce lorsque les conditions prévues au sixième alinéa
+du même article sont remplies.
 
 Après imputation du report à nouveau déficitaire et dotation des réserves
 obligatoires, l'assemblée générale délibère ensuite sur la proposition motivée

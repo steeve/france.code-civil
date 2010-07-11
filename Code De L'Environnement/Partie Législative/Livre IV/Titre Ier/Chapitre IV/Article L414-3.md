@@ -10,11 +10,12 @@ prendre la forme de contrats portant sur des engagements agro-environnementaux.
 Le contrat Natura 2000 comporte un ensemble d'engagements conformes aux
 orientations et aux mesures définies par le document d'objectifs, portant sur la
 conservation et, le cas échéant, le rétablissement des habitats naturels et des
-espèces qui ont justifié la création du site Natura 2000. Il définit la nature
-et les modalités des aides de l'Etat et les prestations à fournir en
-contrepartie par le bénéficiaire. En cas d'inexécution des engagements
-souscrits, les aides de l'Etat font l'objet d'un remboursement selon des
-modalités fixées par décret.
+espèces qui ont justifié la création du site Natura 2000. Il n'est conclu que
+lorsqu'il est exclusivement nécessaire ou directement lié à la gestion d'un site
+Natura 2000. Il définit la nature et les modalités des aides de l'Etat et les
+prestations à fournir en contrepartie par le bénéficiaire. En cas d'inexécution
+des engagements souscrits, les aides de l'Etat font l'objet d'un remboursement
+selon des modalités fixées par décret.
 
 Les litiges relatifs à l'exécution de ce contrat sont portés devant la
 juridiction administrative.

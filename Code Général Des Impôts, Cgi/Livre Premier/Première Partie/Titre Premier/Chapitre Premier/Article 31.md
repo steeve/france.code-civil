@@ -31,29 +31,32 @@ faciliter l'accueil des handicapés, à l'exclusion des frais correspondant à d
 travaux de construction, de reconstruction ou d'agrandissement ;
 
 b ter) Dans les secteurs sauvegardés définis aux articles L. 313-1 à L. 313-3 du
-code de l'urbanisme et les zones de protection du patrimoine architectural,
-urbain et paysager définies à l'article L. 642-1 du code du patrimoine, les
-frais d'adhésion à des associations foncières urbaines de restauration, les
-travaux de démolition imposés par l'autorité qui délivre le permis de construire
-et prévus par les plans de sauvegarde et de mise en valeur rendus publics ou par
-la déclaration d'utilité publique des travaux de restauration, à l'exception des
-travaux de construction, de reconstruction ou d'agrandissement. Toutefois,
-constituent des charges de la propriété déductibles pour la détermination du
-revenu net, les travaux de reconstitution de toiture ou de murs extérieurs
-d'immeubles existants prévus par les mêmes plans de sauvegarde ou imposés par la
-même déclaration d'utilité publique et rendus nécessaires par ces démolitions.
-Il en est de même des travaux de transformation en logement de tout ou partie
-d'un immeuble, dans le volume bâti existant dont la conservation est conforme au
-plan de sauvegarde et de mise en valeur ou à la déclaration d'utilité publique
-des travaux de restauration. Il en est de même des travaux de réaffectation à
-l'habitation de tout ou partie d'un immeuble originellement destiné à
-l'habitation et ayant perdu cet usage, dont la conservation est conforme au plan
-de sauvegarde et de mise en valeur ou à la déclaration d'utilité publique des
-travaux de restauration. Pour l'application de ces dispositions, les conditions
-mentionnées au 3° du I de l'article 156 doivent être remplies. Le présent alinéa
-n'est pas applicable aux dépenses portant sur des immeubles pour lesquels une
-demande de permis de construire ou une déclaration de travaux a été déposée à
-compter du 1er janvier 2009 ;
+code de l'urbanisme, les zones de protection du patrimoine architectural, urbain
+et paysager définies à l'article L. 642-1 du code du patrimoine dans sa
+rédaction applicable avant l'entrée en vigueur de la loi n° 2010-788 du 12
+juillet 2010 portant engagement national pour l'environnement et les aires de
+mise en valeur de l'architecture et du patrimoine définies à l'article L. 642-1
+du même code, les frais d'adhésion à des associations foncières urbaines de
+restauration, les travaux de démolition imposés par l'autorité qui délivre le
+permis de construire et prévus par les plans de sauvegarde et de mise en valeur
+rendus publics ou par la déclaration d'utilité publique des travaux de
+restauration, à l'exception des travaux de construction, de reconstruction ou
+d'agrandissement. Toutefois, constituent des charges de la propriété déductibles
+pour la détermination du revenu net, les travaux de reconstitution de toiture ou
+de murs extérieurs d'immeubles existants prévus par les mêmes plans de
+sauvegarde ou imposés par la même déclaration d'utilité publique et rendus
+nécessaires par ces démolitions. Il en est de même des travaux de transformation
+en logement de tout ou partie d'un immeuble, dans le volume bâti existant dont
+la conservation est conforme au plan de sauvegarde et de mise en valeur ou à la
+déclaration d'utilité publique des travaux de restauration. Il en est de même
+des travaux de réaffectation à l'habitation de tout ou partie d'un immeuble
+originellement destiné à l'habitation et ayant perdu cet usage, dont la
+conservation est conforme au plan de sauvegarde et de mise en valeur ou à la
+déclaration d'utilité publique des travaux de restauration. Pour l'application
+de ces dispositions, les conditions mentionnées au 3° du I de l'article 156
+doivent être remplies. Le présent alinéa n'est pas applicable aux dépenses
+portant sur des immeubles pour lesquels une demande de permis de construire ou
+une déclaration de travaux a été déposée à compter du 1er janvier 2009 ;
 
 b quater) (abrogé)
 
@@ -71,11 +74,10 @@ organisme d'habitations à loyer modéré mentionné à l'article L. 411-2 du co
 la construction et de l'habitation, à une société d'économie mixte ou à un
 organisme disposant de l'agrément prévu à l'article L. 365-1 du même code ;
 
-e) Les frais de gestion, fixés à 20 euros par local, majorés, lorsque ces
-dépenses sont effectivement supportées par le propriétaire, des frais de
-rémunération des gardes et concierges, des frais de procédure et des frais de
-rémunération, honoraire et commission versés à un tiers pour la gestion des
-immeubles ;
+e) Les frais de gestion, fixés à 20 € par local, majorés, lorsque ces dépenses
+sont effectivement supportées par le propriétaire, des frais de rémunération des
+gardes et concierges, des frais de procédure et des frais de rémunération,
+honoraire et commission versés à un tiers pour la gestion des immeubles ;
 
 e bis) Les dépenses supportées par un fonds de placement immobilier mentionné à
 l'article 239 nonies au titre des frais de fonctionnement et de gestion à
@@ -103,7 +105,7 @@ aux logements affectés à la location après réhabilitation dès lors que leur
 acquisition entre dans le champ d'application du I de l'article 257 et aux
 logements que le contribuable fait construire et qui ont fait l'objet, avant le
 31 décembre 1998, de la déclaration d'ouverture de chantier prévue à l'article
-R. 421-40 du code de l'urbanisme. Il en est de même des logements loués après
+R*421-40 du code de l'urbanisme. Il en est de même des logements loués après
 transformation lorsque ces locaux étaient, avant leur acquisition, affectés à un
 usage autre que l'habitation. Dans ce cas, la déduction au titre de
 l'amortissement est calculée sur le prix d'acquisition des locaux augmenté du
@@ -182,7 +184,7 @@ déductions pratiquées au titre des amortissements considérés ;
 g) Pour les logements situés en France, acquis neufs ou en l'état futur
 d'achèvement entre le 1er janvier 1999 et le 2 avril 2003, et à la demande du
 contribuable, une déduction au titre de l'amortissement égale à 8 % du prix
-d'acquisition du logement pour les cinq premières années et à 2, 5 % de ce prix
+d'acquisition du logement pour les cinq premières années et à 2,5 % de ce prix
 pour les quatre années suivantes. La période d'amortissement a pour point de
 départ le premier jour du mois de l'achèvement de l'immeuble ou de son
 acquisition si elle est postérieure.
@@ -190,7 +192,7 @@ acquisition si elle est postérieure.
 La déduction au titre de l'amortissement est applicable, dans les mêmes
 conditions, aux logements que le contribuable fait construire et qui ont fait
 l'objet, entre le 1er janvier 1999 et le 2 avril 2003, de la déclaration
-d'ouverture de chantier prévue à l'article R. 421-40 du code de l'urbanisme. Il
+d'ouverture de chantier prévue à l'article R*421-40 du code de l'urbanisme. Il
 en est de même des locaux affectés à un usage autre que l'habitation acquis
 entre le 1er janvier 1999 et le 2 avril 2003 et que le contribuable transforme
 en logements. Dans ce cas, la déduction au titre de l'amortissement est calculée
@@ -217,13 +219,13 @@ de la déduction.
 A l'issue de la période couverte par l'engagement de location, tant que la
 condition de loyer prévue au troisième alinéa reste remplie, le propriétaire
 peut, par période de trois ans et pendant une durée maximale de six ans,
-bénéficier d'une déduction au titre de l'amortissement égale à 2, 5 % du prix
+bénéficier d'une déduction au titre de l'amortissement égale à 2,5 % du prix
 d'acquisition ou de revient du logement en cas de poursuite, de reconduction ou
 de renouvellement du bail ou, si la condition de ressources prévue au troisième
 alinéa est remplie, en cas de changement de titulaire du bail. En cas de
 non-respect des conditions de location ou de cession du logement, les déductions
 pratiquées pendant l'ensemble de la période triennale sont remises en cause dans
-les conditions de droit commun.A l'issue de cette période, et sous réserve que
+les conditions de droit commun. A l'issue de cette période, et sous réserve que
 les conditions de loyer et de ressources soient remplies, le propriétaire peut
 bénéficier de la déduction prévue au j, qu'il y ait ou non changement de
 titulaire du bail.
@@ -241,19 +243,19 @@ mais les droits suivants sont ouverts :
 
 1. Les dépenses de reconstruction et d'agrandissement ouvrent droit à une
 déduction, au titre de l'amortissement, égale à 8 % du montant des dépenses pour
-les cinq premières années et à 2, 5 % de ce montant pour les quatre années
+les cinq premières années et à 2,5 % de ce montant pour les quatre années
 suivantes. Le propriétaire doit s'engager à louer le logement dans les
-conditions prévues au troisième alinéa pendant une nouvelle durée de neuf ans.A
+conditions prévues au troisième alinéa pendant une nouvelle durée de neuf ans. A
 l'issue de la période couverte par l'engagement de location, tant que la
 condition de loyer prévue au troisième alinéa reste remplie, le propriétaire
 peut, par période de trois ans et pendant une durée maximale de six ans,
-bénéficier d'une déduction au titre de l'amortissement égale à 2, 5 % du montant
+bénéficier d'une déduction au titre de l'amortissement égale à 2,5 % du montant
 des dépenses en cas de poursuite, de reconduction ou de renouvellement du bail
 ou, si la condition de ressources prévue au troisième alinéa est remplie, en cas
 de changement de titulaire du bail. En cas de non-respect des conditions de
 location ou de cession du logement, les déductions pratiquées pendant l'ensemble
 de la période triennale sont remises en cause dans les conditions de droit
-commun.A l'issue de cette période, et sous réserve que les conditions de loyer
+commun. A l'issue de cette période, et sous réserve que les conditions de loyer
 et de ressources soient remplies, le propriétaire peut bénéficier de la
 déduction prévue au j, qu'il y ait ou non changement de titulaire du bail ;
 
@@ -357,7 +359,7 @@ mais les droits suivants sont ouverts :
 déduction, au titre de l'amortissement, égale à 6 % du montant des dépenses pour
 les sept premières années et à 4 % de ce montant pour les deux années suivantes.
 Le propriétaire doit s'engager à louer le logement dans les conditions prévues
-au troisième alinéa pendant une nouvelle durée de neuf ans.A l'issue de la
+au troisième alinéa pendant une nouvelle durée de neuf ans. A l'issue de la
 période couverte par l'engagement de location, et sous réserve que les
 conditions de loyer et de ressources soient remplies, le propriétaire peut
 bénéficier de la déduction prévue au j, qu'il y ait ou non changement de
@@ -476,19 +478,17 @@ logement à usage d'habitation principale de son personnel, à l'exclusion du
 propriétaire du logement, de son conjoint, de membres de son foyer fiscal ou de
 ses descendants ou ascendants, ne fait pas obstacle au bénéfice de la déduction.
 Un décret précise les conditions de cette location, notamment les modalités
-d'appréciation des loyers et des ressources de l'occupant.
-
-En cas de non-respect de l'un des engagements mentionnés au premier alinéa ou de
-cession du logement ou des parts sociales, la déduction fait l'objet d'une
-reprise au titre de l'année de la rupture de l'engagement ou de la cession. En
-cas d'invalidité correspondant au classement dans la deuxième ou la troisième
-des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, de
-licenciement ou de décès du contribuable ou de l'un des époux soumis à
-imposition commune, cette reprise n'est pas appliquée.
-
-Tant que la condition de loyer prévue au premier alinéa demeure remplie, le
-bénéfice de la déduction est prorogé par périodes de trois ans, en cas de
-poursuite, de reconduction ou de renouvellement du contrat de location.
+d'appréciation des loyers et des ressources de l'occupant. En cas de non-respect
+de l'un des engagements mentionnés au premier alinéa ou de cession du logement
+ou des parts sociales, la déduction fait l'objet d'une reprise au titre de
+l'année de la rupture de l'engagement ou de la cession. En cas d'invalidité
+correspondant au classement dans la deuxième ou la troisième des catégories
+prévues à l'article L. 341-4 du code de la sécurité sociale, de licenciement ou
+de décès du contribuable ou de l'un des époux soumis à imposition commune, cette
+reprise n'est pas appliquée. Tant que la condition de loyer prévue au premier
+alinéa demeure remplie, le bénéfice de la déduction est prorogé par périodes de
+trois ans, en cas de poursuite, de reconduction ou de renouvellement du contrat
+de location.
 
 Sous réserve que les conditions de loyer et de ressources du nouveau locataire
 prévues au premier alinéa soient remplies, la déduction demeure également
@@ -508,13 +508,13 @@ engagements prévus aux I ou V de cet article et pendant la durée de ceux-ci.
 
 Pour l'application du premier alinéa, les personnes concernées, les
 investissements éligibles et les conditions d'application de cette déduction
-sont identiques à ceux prévus au h ou à l'article 199 septvicies.L'engagement de
-location doit toutefois prévoir que le locataire est une personne autre qu'un
+sont identiques à ceux prévus au h ou à l'article 199 septvicies. L'engagement
+de location doit toutefois prévoir que le locataire est une personne autre qu'un
 ascendant ou descendant du contribuable et que le loyer et les ressources du
 locataire appréciées à la date de conclusion du bail ne doivent pas excéder des
 plafonds fixés par décret à des niveaux inférieurs, pour les loyers, aux quatre
 cinquièmes de ceux mentionnés au troisième alinéa du h ou au III de l'article
-199 septvicies.L'engagement de location peut être suspendu, à l'issue d'une
+199 septvicies. L'engagement de location peut être suspendu, à l'issue d'une
 période de location d'au moins trois ans, pour mettre le logement à la
 disposition d'un ascendant ou descendant du contribuable. Ce dernier ne
 bénéficie pas, pendant la période de mise à disposition du logement, de la
@@ -531,7 +531,7 @@ lesquels le contribuable a exercé l'option prévue au h, tant que les condition
 de loyer et de ressources du locataire prévues au deuxième alinéa restent
 remplies, le propriétaire peut, par périodes de trois ans et pendant une durée
 maximale de six ans, bénéficier d'un complément de la déduction au titre de
-l'amortissement prévue au h égal à 2, 5 % du prix d'acquisition ou de revient du
+l'amortissement prévue au h égal à 2,5 % du prix d'acquisition ou de revient du
 logement en cas de poursuite, de renouvellement du bail ou de changement de
 titulaire du bail. En cas de non-respect des conditions de location ou de
 cession du logement, les compléments de déductions pratiqués pendant l'ensemble
@@ -621,9 +621,9 @@ n) Une déduction fixée à 30 % des revenus bruts des logements qui ont donné
 lieu, au titre de l'année qui précède celle de la conclusion du bail, au
 versement de la taxe prévue à l'article 232. Cette déduction s'applique aux
 revenus perçus jusqu'au 31 décembre de la deuxième année qui suit celle de la
-conclusion de ce bail, conclu entre le 1er janvier 2006 et le 31 décembre
-2007.L'application du présent n est exclusive de celle des dispositions prévues
-aux f à l.
+conclusion de ce bail, conclu entre le 1er janvier 2006 et le 31 décembre 2007.
+L'application du présent n est exclusive de celle des dispositions prévues aux f
+à l.
 
 2° Pour les propriétés rurales :
 

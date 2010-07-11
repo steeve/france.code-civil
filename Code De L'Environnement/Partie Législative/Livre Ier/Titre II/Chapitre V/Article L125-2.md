@@ -30,12 +30,8 @@ L'exploitant est tenu de participer à l'information générale du public sur le
 mesures prises aux abords des ouvrages ou installations faisant l'objet d'un
 plan particulier d'intervention.
 
-Le préfet crée un comité local d'information et de concertation sur les risques
-pour tout bassin industriel comprenant une ou plusieurs installations figurant
-sur la liste prévue au IV de l'article L. 515-8. Ce comité peut faire appel aux
-compétences d'experts reconnus, notamment pour réaliser des tierces expertises.
-Il est tenu informé de tout incident ou accident touchant à la sécurité des
-installations visées ci-dessus. Il est doté par l'Etat des moyens de remplir sa
-mission. Les conditions d'application du présent alinéa et notamment les règles
-de composition des comités locaux d'information et de concertation sur les
-risques sont fixées par décret.
+Le préfet crée la commission mentionnée à l'article L. 125-2-1 pour tout bassin
+industriel comprenant une ou plusieurs installations figurant sur la liste
+prévue au IV de l'article L. 515-8.Elle est dotée par l'Etat des moyens de
+remplir sa mission. Les conditions d'application du présent alinéa sont fixées
+par décret.

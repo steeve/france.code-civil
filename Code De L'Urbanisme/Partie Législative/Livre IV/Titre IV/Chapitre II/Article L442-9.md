@@ -7,8 +7,9 @@ local d'urbanisme ou un document d'urbanisme en tenant lieu.
 
 Toutefois, lorsqu'une majorité de colotis, calculée comme il est dit à l'article
 L. 442-10, a demandé le maintien de ces règles, elles ne cessent de s'appliquer
-qu'après décision expresse de l'autorité compétente prise après enquête
-publique.
+qu'après décision expresse de l'autorité compétente prise après enquête publique
+réalisée conformément au chapitre III du titre II du livre Ier du code de
+l'environnement.
 
 Les dispositions du présent article ne remettent pas en cause les droits et
 obligations régissant les rapports entre colotis définis dans le cahier des

@@ -17,12 +17,16 @@ I mais dont le coût prévisionnel est d'un montant inférieur au seuil fixé en
 application du I, et qui répondent à des critères techniques ou excèdent des
 seuils fixés par décret en Conseil d'Etat pour chaque nature de projet, sont
 rendus publics par leur maître d'ouvrage ou par la personne publique responsable
-du projet, qui en publie les objectifs et caractéristiques essentielles.
+du projet, qui en publie les objectifs et caractéristiques essentielles et
+indique sa décision de saisir ou de ne pas saisir la Commission nationale du
+débat public. Il précise également les modalités de concertation qu'il s'engage
+à mener dans l'hypothèse où la commission ne serait pas saisie. Il en informe la
+Commission nationale du débat public.
 
-En ce cas, la commission peut être saisie par le maître d'ouvrage ou la personne
-publique responsable du projet et par dix parlementaires ; elle peut également
-être saisie par un conseil régional, un conseil général, un conseil municipal ou
-un établissement public de coopération intercommunale ayant une compétence en
+La commission peut être saisie par le maître d'ouvrage ou la personne publique
+responsable du projet et par dix parlementaires ; elle peut également être
+saisie par un conseil régional, un conseil général, un conseil municipal ou un
+établissement public de coopération intercommunale ayant une compétence en
 matière d'aménagement de l'espace, territorialement intéressés ou par l'une des
 associations agréées de protection de l'environnement mentionnées à l'article L.
 141-1 exerçant leur activité sur l'ensemble du territoire national. Cette

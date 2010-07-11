@@ -1,17 +1,18 @@
 Article L145-7
 ----
-I. - Lorsque les directives territoriales d'aménagement n'y ont pas déjà pourvu,
-des décrets en Conseil d'Etat pris après enquête publique, sur proposition des
-comités de massif prévus à l'article 7 de la loi n° 85-30 du 9 janvier 1985
-précitée, peuvent définir des prescriptions particulières sur tout ou partie des
-massifs définis à l'article 5 de la loi n° 85-30 du 9 janvier 1985 précitée,
-pour :
+I. ― Lorsque les directives territoriales d'aménagement n'y ont pas déjà pourvu,
+des décrets en Conseil d'Etat pris après enquête publique réalisée conformément
+au chapitre III du titre II du livre Ier du code de l'environnement, sur
+proposition des comités de massif prévus à l'article 7 de la loi n° 85-30 du 9
+janvier 1985 précitée, peuvent définir des prescriptions particulières sur tout
+ou partie des massifs définis à l'article 5 de la loi n° 85-30 du 9 janvier 1985
+précitée, pour :
 
 1° Adapter en fonction de la sensibilité des milieux concernés les seuils et
 critères des études d'impact spécifiques aux zones de montagne fixés en
 application des articles L. 122-1 à L. 122-3 du code de l'environnement, ainsi
 que les seuils et critères d'enquête publique spécifiques aux zones de montagne
-fixés en application des articles L. 123-1 à L. 123-3 du même code ;
+fixés en application du chapitre III du titre II du livre Ier du même code ;
 
 2° Désigner les espaces, paysages et milieux les plus remarquables du patrimoine
 naturel et culturel montagnard, notamment les gorges, grottes, glaciers, lacs,
@@ -23,10 +24,10 @@ leur préservation ;
 3° Préciser, en fonction des particularités de tout ou partie de chaque massif,
 les modalités d'application de l'article L. 145-3 du présent code.
 
-II. - Les comités de massif peuvent élaborer des recommandations particulières à
+II. ― Les comités de massif peuvent élaborer des recommandations particulières à
 certaines zones sensibles et, notamment, aux secteurs de haute montagne.
 
-III. - Pour l'élaboration des propositions des prescriptions particulières de
+III. ― Pour l'élaboration des propositions des prescriptions particulières de
 massif visées au I et des recommandations visées au II, les comités de massif
 peuvent recourir gratuitement, en tant que de besoin, aux services techniques de
 l'Etat ainsi qu'aux conseils d'architecture, d'urbanisme et de l'environnement

@@ -1,7 +1,7 @@
 Article L581-26
 ----
 Sans préjudice des dispositions des articles L. 581-30 et L. 581-34, est punie
-d'une amende d'un montant de 750 euros la personne qui a apposé ou fait apposer
+d'une amende d'un montant de 1500 euros la personne qui a apposé ou fait apposer
 un dispositif ou matériel visé à l'article L. 581-6, sans déclaration préalable
 ou non conforme à cette déclaration. Le manquement est constaté par un
 procès-verbal établi par un fonctionnaire ou agent mentionné à l'article L.

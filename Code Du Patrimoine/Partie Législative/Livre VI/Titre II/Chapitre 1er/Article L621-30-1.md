@@ -36,5 +36,5 @@ d'urbanisme dans les conditions prévues à l'article L. 126-1 du code de
 l'urbanisme.
 
 Les enquêtes publiques conduites pour l'application du présent article sont
-menées dans les conditions prévues par les articles L. 123-1 et suivants du code
-de l'environnement.
+réalisées conformément au chapitre III du titre II du livre Ier du code de
+l'environnement du code de l'environnement.

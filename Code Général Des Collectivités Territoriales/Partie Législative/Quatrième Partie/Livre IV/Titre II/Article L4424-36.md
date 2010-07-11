@@ -33,10 +33,10 @@ de Corse, la procédure d'élaboration du schéma directeur.
 En l'absence de transmission du projet de schéma directeur d'aménagement et de
 gestion des eaux dans le délai prévu au troisième alinéa, le représentant de
 l'Etat, après une mise en demeure restée infructueuse, se substitue au comité de
-bassin pour l'ensemble de ses obligations.A l'issue de la consultation du public
-prévue à l'article L. 212-2 du code de l'environnement, il soumet le projet de
-schéma directeur d'aménagement et de gestion des eaux aux assemblées et
-organismes mentionnés au troisième alinéa, qui disposent d'un délai de quatre
+bassin pour l'ensemble de ses obligations. A l'issue de la consultation du
+public prévue à l'article L. 212-2 du code de l'environnement, il soumet le
+projet de schéma directeur d'aménagement et de gestion des eaux aux assemblées
+et organismes mentionnés au troisième alinéa, qui disposent d'un délai de quatre
 mois pour rendre un avis. Le projet arrêté par le représentant de l'Etat est
 approuvé par l'Assemblée de Corse. A défaut d'approbation par l'Assemblée de
 Corse dans un délai de quatre mois, il peut être mis en vigueur par décret en
@@ -93,9 +93,10 @@ Corse, la composition et les règles de fonctionnement de la commission locale d
 l'eau.
 
 Le projet de schéma, éventuellement modifié pour tenir compte des avis
-recueillis, est soumis à enquête publique. A l'issue de l'enquête, le schéma,
-éventuellement modifié pour tenir compte des observations, est approuvé par
-l'Assemblée de Corse. Le schéma est tenu à la disposition du public.
+recueillis, est soumis à enquête publique réalisée conformément au chapitre III
+du titre II du livre Ier du code de l'environnement. A l'issue de l'enquête, le
+schéma, éventuellement modifié pour tenir compte des observations, est approuvé
+par l'Assemblée de Corse. Le schéma est tenu à la disposition du public.
 
 Si le schéma n'est pas élaboré dans le délai imparti, la collectivité
 territoriale de Corse élabore le projet et, après consultation de la commission

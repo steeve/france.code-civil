@@ -15,20 +15,15 @@ réduire les effets nocifs des déchets ;
 
 2° La création, sur tout site d'élimination ou de stockage de déchets, à
 l'initiative, soit du préfet, soit du conseil municipal de la commune
-d'implantation ou d'une commune limitrophe, d'une commission locale
-d'information et de surveillance composée, à parts égales, de représentants des
-administrations publiques concernées, notamment de l'agence régionale de santé,
-de l'exploitant, des collectivités territoriales et des associations de
-protection de l'environnement concernées ; le préfet, qui préside la commission,
-fait effectuer à la demande de celle-ci les opérations de contrôle qu'elle juge
-nécessaires à ses travaux, dans le cadre du titre Ier ou du titre IV (chapitre
-Ier) du livre V ; les documents établis par l'exploitant d'une installation
-d'élimination de déchets pour mesurer les effets de son activité sur la santé
-publique et sur l'environnement sont transmis à la commission ; les frais
-d'établissement et de fonctionnement de la commission locale d'information et de
-surveillance sont pris en charge par le groupement prévu à l'article L. 541-43,
-lorsqu'il existe ; en cas d'absence d'un tel groupement, ces frais sont pris en
-charge à parité par l'Etat, les collectivités territoriales et l'exploitant ;
+d'implantation ou d'une commune limitrophe, de la commission mentionnée à
+l'article L. 125-2-1 ; le préfet, qui préside la commission, fait effectuer à la
+demande de celle-ci les opérations de contrôle qu'elle juge nécessaires à ses
+travaux, dans le cadre du titre Ier ou du titre IV (chapitre Ier) du livre V ;
+les documents établis par l'exploitant d'une installation d'élimination de
+déchets pour mesurer les effets de son activité sur la santé publique et sur
+l'environnement sont transmis à la commission ; les frais d'établissement et de
+fonctionnement de la commission sont pris en charge par le groupement prévu à
+l'article L. 541-43, lorsqu'il existe ;
 
 3° L'établissement, par les communes ou les établissement publics de coopération
 intercommunale ou des syndicats mixtes visés à l'article L. 2224-13 du code

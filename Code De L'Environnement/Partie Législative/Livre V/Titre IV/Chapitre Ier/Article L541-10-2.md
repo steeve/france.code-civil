@@ -3,16 +3,17 @@ Article L541-10-2
 A compter du 1er janvier 2006, toute personne qui fabrique, importe ou introduit
 sur le marché national à titre professionnel des équipements électriques et
 électroniques ménagers relevant des catégories mentionnées à l'annexe I A et à
-l'annexe I B de la directive 2002 / 96 / CE du Parlement européen et du Conseil,
-du 27 janvier 2003, relative aux déchets d'équipements électriques et
-électroniques est tenue de pourvoir ou contribuer à la collecte, à l'enlèvement
-et au traitement des déchets d'équipements électriques et électroniques ménagers
+l'annexe I B de la directive 2002/96/CE du Parlement européen et du Conseil, du
+27 janvier 2003, relative aux déchets d'équipements électriques et électroniques
+est tenue de pourvoir ou contribuer à la collecte, à l'enlèvement et au
+traitement des déchets d'équipements électriques et électroniques ménagers
 indépendamment de leur date de mise sur le marché. Dans le cas où les
 équipements sont vendus sous la seule marque d'un revendeur, ce dernier est tenu
 de pourvoir ou contribuer à la collecte, à l'enlèvement et au traitement des
 déchets d'équipements électriques et électroniques en substitution de la
 personne qui fabrique, importe ou introduit sur le marché national ces
-équipements.
+équipements. Ces dispositions s'appliquent quelle que soit la technique de vente
+utilisée, notamment la vente à distance et la vente électronique.
 
 Les coûts de collecte sélective des déchets d'équipements électriques et
 électroniques ménagers supportés par les collectivités territoriales sont
@@ -31,10 +32,15 @@ déchets collectés sélectivement issus des équipements électriques et
 électroniques ménagers mis sur le marché avant le 13 août 2005.
 
 L'élimination des déchets d'équipements électriques et électroniques ménagers
-issus des collectes sélectives est accomplie par des systèmes auxquels ces
-personnes contribuent financièrement de manière proportionnée et qui sont agréés
-ou approuvés par arrêtés conjoints des ministres chargés de l'économie, de
-l'industrie, de l'écologie et des collectivités territoriales.
+issus des collectes sélectives et de la reprise gratuite par les distributeurs,
+lors de la vente d'un équipement électrique et électronique ménager, des
+équipements électriques et électroniques usagés que lui cède le consommateur,
+dans la limite de la quantité et du type d'équipement vendu, est accomplie par
+des systèmes auxquels ces personnes contribuent financièrement de manière
+proportionnée et qui sont agréés ou approuvés par arrêtés conjoints des
+ministres chargés de l'économie, de l'industrie, de l'écologie et des
+collectivités territoriales. Un décret en Conseil d'Etat détermine la sanction
+applicable en cas d'infraction aux dispositions du présent article.
 
 Ces coûts unitaires n'excédent pas les coûts réellement supportés et ne peuvent
 faire l'objet de réfaction. Les acheteurs répercutent à l'identique ces coûts

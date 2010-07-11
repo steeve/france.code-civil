@@ -1,14 +1,16 @@
 Article L254-3
 ----
-L'agrément est délivré par l'autorité administrative au demandeur qui justifie :
+I. ― L'exercice des fonctions d'encadrement, de vente, d'application ou de
+conseil par les personnels qualifiés mentionnés au 2° de l'article L. 254-2 est
+soumis à l'obtention d'un certificat délivré par l'autorité administrative ou un
+organisme qu'elle habilite au vu de leur qualification.
 
-1° Soit de l'emploi permanent, pour les tâches d'encadrement et de formation
-liées aux activités mentionnées aux articles L. 254-1 et L. 254-2, de personnes
-qualifiées au sens de l'article L. 254-4, en effectif suffisant compte tenu du
-nombre et de la taille de ses établissements ;
+II. ― Les personnes physiques qui utilisent les produits phyto-pharmaceutiques
+définis à l'article L. 253-1 dans le cadre de leur activité professionnelle à
+titre salarié, pour leur propre compte, ou dans le cadre d'un contrat d'entraide
+à titre gratuit au sens de l'article L. 325-1, justifient d'un certificat
+délivré par l'autorité administrative ou un organisme qu'elle habilite
+garantissant l'acquisition des connaissances exigées en adéquation avec les
+fonctions déclarées.
 
-Soit, s'il exerce lui-même ces tâches d'encadrement et de formation, de la
-qualification mentionnée à l'article L. 254-4 ;
-
-2° De la souscription d'une police d'assurance couvrant sa responsabilité civile
-professionnelle.
+III. ― Ces certificats sont renouvelés périodiquement.

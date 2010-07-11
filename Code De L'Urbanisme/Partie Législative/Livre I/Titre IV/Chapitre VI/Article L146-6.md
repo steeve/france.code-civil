@@ -17,11 +17,14 @@ récifs coralliens, les lagons et les mangroves.
 Toutefois, des aménagements légers peuvent y être implantés lorsqu'ils sont
 nécessaires à leur gestion, à leur mise en valeur notamment économique ou, le
 cas échéant, à leur ouverture au public. Un décret définit la nature et les
-modalités de réalisation de ces aménagements.
+modalités de réalisation de ces aménagements qui incluent, selon leur importance
+et leur incidence sur l'environnement, soit une enquête publique, soit une mise
+à disposition du public préalablement à leur autorisation.
 
 En outre, la réalisation de travaux ayant pour objet la conservation ou la
 protection de ces espaces et milieux peut être admise, après enquête publique
-suivant les modalités de la loi n° 83-630 du 12 juillet 1983 précitée.
+réalisée conformément au chapitre III du titre II du livre Ier du code de
+l'environnement.
 
 Le plan local d'urbanisme doit classer en espaces boisés, au titre de l'article
 L. 130-1 du présent code, les parcs et ensembles boisés existants les plus

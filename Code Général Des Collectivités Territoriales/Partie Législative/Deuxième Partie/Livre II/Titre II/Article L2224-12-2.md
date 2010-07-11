@@ -7,8 +7,8 @@ délibération du conseil municipal ou de l'assemblée délibérante du groupeme
 collectivités territoriales.
 
 Lorsque les communes prennent en charge les travaux mentionnés à la deuxième
-phrase du premier alinéa du II et à la première phrase du troisième alinéa du
-III de l'article L. 2224-8, elles se font rembourser intégralement par les
+phrase du premier alinéa du II et à la première phrase du sixième alinéa du III
+de l'article L. 2224-8, elles se font rembourser intégralement par les
 propriétaires les frais de toute nature entraînés par ces travaux, y compris les
 frais de gestion, diminués des subventions éventuellement obtenues.
 

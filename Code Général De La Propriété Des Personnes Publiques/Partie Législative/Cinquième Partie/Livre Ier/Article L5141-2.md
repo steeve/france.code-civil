@@ -13,4 +13,4 @@ sont pas applicables dans les zones identifiées pour l'intérêt de leur
 patrimoine naturel dans le cadre de l'inventaire prévu à l'article L. 411-5 du
 code de l'environnement ou les terres faisant l'objet des mesures de protection
 fixées aux articles L. 331-1 et suivants, L. 332-1 et suivants, L. 341-1 et
-suivants, L. 342-1 et L. 411-2 et suivants du même code.
+suivants et L. 411-2 et suivants du même code.

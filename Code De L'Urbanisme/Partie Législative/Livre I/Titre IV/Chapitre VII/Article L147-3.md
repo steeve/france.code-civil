@@ -15,9 +15,8 @@ l'environnement concernée ;
 -de la commission consultative de l'environnement concernée, lorsqu'elle existe,
 pour les autres aérodromes.
 
-Il est soumis à enquête publique suivant les modalités de la loi n° 83-630 du 12
-juillet 1983 relative à la démocratisation des enquêtes publiques (1) et à la
-protection de l'environnement.
+Il est soumis à enquête publique réalisée conformément au chapitre III du titre
+II du livre Ier du code de l'environnement.
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles il est établi et
 tenu à la disposition du public.

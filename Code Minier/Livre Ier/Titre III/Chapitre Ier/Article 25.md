@@ -1,12 +1,13 @@
 Article 25
 ----
 La concession est accordée par décret en Conseil d'Etat après enquête publique
-et mise en concurrence sous réserve de l'application des dispositions de
-l'article 26 et de l'engagement à respecter des conditions générales. Le cas
-échéant, ces conditions générales sont complétées par des conditions spécifiques
-faisant l'objet d'un cahier des charges. Les conditions générales et spécifiques
-sont définies par décret en Conseil d'Etat et préalablement portées à la
-connaissance des pétitionnaires.
+réalisée conformément au chapitre III du titre II du livre Ier du code de
+l'environnement et mise en concurrence sous réserve de l'application des
+dispositions de l'article 26 et de l'engagement à respecter des conditions
+générales. Le cas échéant, ces conditions générales sont complétées par des
+conditions spécifiques faisant l'objet d'un cahier des charges. Les conditions
+générales et spécifiques sont définies par décret en Conseil d'Etat et
+préalablement portées à la connaissance des pétitionnaires.
 
 Nul ne peut obtenir une concession de mines s'il ne possède les capacités
 techniques et financières nécessaires pour mener à bien les travaux

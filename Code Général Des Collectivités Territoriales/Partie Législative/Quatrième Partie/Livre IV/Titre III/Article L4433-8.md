@@ -17,6 +17,7 @@ matière de protection des monuments classés ou inscrits.
 
 Le schéma d'aménagement régional prend en compte les programmes de l'Etat et
 harmonise ceux des collectivités territoriales et de leurs établissements et
-services publics. Il a les mêmes effets que les directives territoriales
-d'aménagement définies en application de l'article L. 111-1-1 du code de
-l'urbanisme.
+services publics. Les schémas de cohérence territoriale et, en l'absence de
+schéma de cohérence territoriale, les plans locaux d'urbanisme, les cartes
+communales ou les documents en tenant lieu doivent être compatibles avec le
+schéma d'aménagement régional.

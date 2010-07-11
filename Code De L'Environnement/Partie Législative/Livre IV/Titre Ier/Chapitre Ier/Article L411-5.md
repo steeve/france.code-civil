@@ -1,14 +1,17 @@
 Article L411-5
 ----
-I. - L'inventaire du patrimoine naturel est institué pour l'ensemble du
-territoire national terrestre, fluvial et marin. On entend par inventaire du
-patrimoine naturel l'inventaire des richesses écologiques, faunistiques,
-floristiques, géologiques, minéralogiques et paléontologiques.
+I.-L'inventaire du patrimoine naturel est institué pour l'ensemble du territoire
+national terrestre, fluvial et marin. On entend par inventaire du patrimoine
+naturel l'inventaire des richesses écologiques, faunistiques, floristiques,
+géologiques, minéralogiques et paléontologiques.
 
 L'Etat en assure la conception, l'animation et l'évaluation. Les régions peuvent
 être associées à la conduite de cet inventaire dans le cadre de leurs
 compétences. En outre, les collectivités territoriales peuvent contribuer à la
-connaissance du patrimoine naturel par la réalisation d'inventaires locaux.
+connaissance du patrimoine naturel par la réalisation d'inventaires locaux,
+ayant notamment pour objet de réunir les connaissances nécessaires à
+l'élaboration du schéma régional de cohérence écologique mentionné à l'article
+L. 371-3.
 
 Le préfet de région, les préfets de départements et les autres collectivités
 territoriales concernées sont informés de ces élaborations.
@@ -20,14 +23,14 @@ Lors de l'élaboration d'un plan, programme ou projet, le préfet communique à 
 commune ou à l'établissement public de coopération intercommunale compétent
 toutes informations contenues dans ces inventaires utiles à cette élaboration.
 
-II. - Les dispositions de la loi du 29 décembre 1892 sur les dommages causés à
-la propriété privée par l'exécution des travaux publics sont applicables à
+II.-Les dispositions de la loi du 29 décembre 1892 sur les dommages causés à la
+propriété privée par l'exécution des travaux publics sont applicables à
 l'exécution des opérations nécessaires à la conduite de ces inventaires. Ces
 dispositions sont également applicables à la connaissance du sol, de la
 végétation et de tout renseignement d'ordre écologique sur les territoires
 d'inventaires.
 
-III. - Il est institué dans chaque région un conseil scientifique régional du
+III.-Il est institué dans chaque région un conseil scientifique régional du
 patrimoine naturel. Ce conseil est constitué de spécialistes désignés intuitu
 personae pour leur compétence scientifique, en particulier dans les universités,
 les organismes de recherche, les sociétés savantes, les muséums régionaux. Il

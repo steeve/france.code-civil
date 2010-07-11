@@ -13,7 +13,7 @@ des plafonds suivants :
 a) 10 euros par personne majeure qui se livre à l'exercice de la pêche, pendant
 une année, au sein d'une structure mentionnée au I ;
 
-b) 4 euros par personne qui se livre à l'exercice de la pêche, pendant quinze
+b) 4 euros par personne qui se livre à l'exercice de la pêche, pendant sept
 jours consécutifs, au sein d'une structure mentionnée au I ;
 
 c) 1 euro par personne qui se livre à l'exercice de la pêche, à la journée, au

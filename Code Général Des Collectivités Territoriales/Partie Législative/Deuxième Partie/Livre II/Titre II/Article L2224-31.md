@@ -23,7 +23,13 @@ la modernisation et au développement du service public de l'électricité et de
 l'article 9 de la loi n° 2003-8 du 3 janvier 2003 relative aux marchés du gaz et
 de l'électricité et au service public de l'énergie. Il communique chaque année,
 notamment, la valeur brute, la valeur nette comptable et la valeur de
-remplacement des ouvrages concédés.
+remplacement des ouvrages concédés. Ces informations comprennent également, dans
+des conditions fixées par décret, les données permettant d'élaborer et d'évaluer
+les schémas régionaux du climat, de l'air et de l'énergie et les plans
+climat-énergie territoriaux prévus par les articles L. 222-1 à L. 222-3, L.
+229-25 et L. 229-26 du code de l'environnement ainsi qu'un bilan détaillé de la
+contribution du concessionnaire aux plans climat-énergie territoriaux qui le
+concernent.
 
 Des fonctionnaires et agents parmi ceux qui sont chargés des missions de
 contrôle visées aux alinéas précédents sont habilités à cet effet par le maire

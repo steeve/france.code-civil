@@ -48,14 +48,22 @@ agricole et forestier peut demander à la commission communale ou intercommunale
 d'aménagement foncier qu'une superficie équivalente lui soit attribuée dans
 cette aire.
 
+Tout propriétaire de parcelle ayant fait l'objet d'une certification en
+agriculture biologique conformément aux articles 27 et 28 du règlement (CE) n°
+834 / 2007 du Conseil du 28 juin 2007 relatif à la production biologique et à
+l'étiquetage des produits biologiques et abrogeant le règlement (CEE) n° 2092 /
+91 ou en cours de conversion depuis au moins un an est prioritaire pour
+l'attribution nouvelle d'une superficie équivalente de terrains ayant fait
+l'objet d'une même certification.
+
 Le paiement d'une soulte en espèces est autorisé lorsqu'il y a lieu d'indemniser
 le propriétaire du terrain cédé des plus-values transitoires qui s'y trouvent
 incorporées et qui sont définies par la commission. Le montant de la soulte
 n'est versé directement au bénéficiaire que si l'immeuble qu'il cède est libre
 de toute charge réelle, à l'exception des servitudes maintenues. La dépense
 engagée par le département au titre de l'aménagement foncier agricole et
-forestier de la commune comprend, dans la limite de 1 p. 100 de cette dépense,
-les soultes ainsi définies.
+forestier de la commune comprend, dans la limite de 1 % de cette dépense, les
+soultes ainsi définies.
 
 Le paiement de soultes en espèces est également autorisé lorsqu'il y a lieu
 d'indemniser les propriétaires de terrains cédés des plus-values à caractère
@@ -66,16 +74,15 @@ comme en matière de contributions directes. Le versement des soultes aux
 propriétaires des terrains cédés est assuré par le président de l'association
 foncière sur décision de la commission communale.
 
-Le paiement d'une telle soulte est également autorisé lorsqu'il y a lieu
-d'indemniser le propriétaire recevant des terrains n'ayant pas fait l'objet
-d'une certification en agriculture biologique au sens de l'article 8 du
-règlement (CEE) n° 2092/91 du Conseil, du 24 juin 1991, concernant le mode de
-production biologique de produits agricoles et sa présentation sur les produits
-agricoles et les denrées alimentaires ou qui ne sont pas en conversion vers ce
-mode de production depuis au moins un an, en contrepartie de l'apport de
-terrains ayant fait l'objet d'une telle certification ou étant en conversion
-vers ce mode de production depuis au moins un an. Les modalités de calcul et de
-versement de cette soulte sont déterminées par décret.
+Le paiement d'une soulte est mis à la charge du département lorsqu'il y a lieu
+d'indemniser les propriétaires exploitants qui, en contrepartie de parcelles
+d'apport certifiées en agriculture biologique conformément aux articles 27 et 28
+du règlement (CE) n° 834 / 2007 du Conseil du 28 juin 2007 précité, reçoivent
+des parcelles en agriculture conventionnelle ou en conversion ou qui, en
+contrepartie d'apport de parcelles en conversion, reçoivent des parcelles en
+agriculture conventionnelle ou à un stade de conversion différent. Les
+conditions de paiement de cette soulte sont fixées par la délibération du
+conseil général ordonnant l'opération d'aménagement foncier.
 
 Exceptionnellement, une soulte en nature peut être attribuée avec l'accord des
 propriétaires intéressés.

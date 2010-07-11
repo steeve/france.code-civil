@@ -1,9 +1,12 @@
 Article L318-3
 ----
 La propriété des voies privées ouvertes à la circulation publique dans des
-ensembles d'habitations peut, après enquête publique, être transférée d'office
-sans indemnité dans le domaine public de la commune sur le territoire de
-laquelle ces voies sont situées.
+ensembles d'habitations peut, après enquête publique ouverte par l'autorité
+exécutive de la collectivité territoriale ou de l'établissement public de
+coopération intercommunale et réalisée conformément au code de l'expropriation
+pour cause d'utilité publique, être transférée d'office sans indemnité dans le
+domaine public de la commune sur le territoire de laquelle ces voies sont
+situées.
 
 La décision de l'autorité administrative portant transfert vaut classement dans
 le domaine public et éteint, par elle-même et à sa date, tous droits réels et

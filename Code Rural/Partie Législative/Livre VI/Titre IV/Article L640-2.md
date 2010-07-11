@@ -24,4 +24,6 @@ ferme" ;
 
 - les termes "produits pays" dans les départements d'outre-mer ;
 
+- la mention "issus d'une exploitation de haute valeur environnementale” ;
+
 3° La démarche de certification des produits.

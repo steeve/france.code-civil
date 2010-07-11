@@ -42,7 +42,7 @@ décembre 2012 ;
 
 3° Intégrés à un logement acquis en l'état futur d'achèvement ou que le
 contribuable fait construire, achevé entre le 1er janvier 2005 et le 31 décembre
-2012.
+2012 ;
 
 d) Au coût des équipements de raccordement à un réseau de chaleur, alimenté
 majoritairement par des énergies renouvelables ou par une installation de
@@ -56,7 +56,7 @@ décembre 2012 ;
 
 3° Intégrés à un logement acquis en l'état futur d'achèvement ou que le
 contribuable fait construire, achevé entre le 1er janvier 2006 et le 31 décembre
-2012.
+2012 ;
 
 e) Au coût des équipements de récupération et de traitement des eaux pluviales :
 
@@ -68,17 +68,20 @@ décembre 2012 ;
 
 3° Intégrés à un logement acquis en l'état futur d'achèvement ou que le
 contribuable fait construire, achevé entre le 1er janvier 2007 et le 31 décembre
-2012.
+2012 ;
 
 f) Aux dépenses afférentes à un immeuble achevé depuis plus de deux ans, payées
 entre le 1er janvier 2009 et le 31 décembre 2012, au titre de :
 
-1° (Abrogé);
+1° (Abrogé)
 
 2° La réalisation, en dehors des cas où la réglementation le rend obligatoire,
 du diagnostic de performance énergétique défini à l'article L. 134-1 du code de
 la construction et de l'habitation. Pour un même logement, un seul diagnostic de
 performance énergétique ouvre droit au crédit d'impôt par période de cinq ans.
+
+1 bis. Le crédit d'impôt ne s'applique pas aux dépenses payées ouvrant droit au
+bénéfice du crédit d'impôt prévu à l'article 200 quater C.
 
 2. Un arrêté conjoint des ministres chargés de l'énergie, du logement et du
 budget fixe la liste des équipements, matériaux et appareils qui ouvrent droit

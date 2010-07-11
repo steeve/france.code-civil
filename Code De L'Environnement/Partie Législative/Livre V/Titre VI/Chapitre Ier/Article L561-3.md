@@ -17,11 +17,11 @@ mesures de prévention susceptibles de faire l'objet de ce financement sont :
 1° L'acquisition amiable par une commune, un groupement de communes ou l'Etat
 d'un bien exposé à un risque prévisible de mouvements de terrain ou
 d'affaissements de terrain dus à une cavité souterraine ou à une marnière,
-d'avalanches, de crues torrentielles ou à montée rapide menaçant gravement des
-vies humaines ainsi que les mesures nécessaires pour en limiter l'accès et en
-empêcher toute occupation, sous réserve que le prix de l'acquisition amiable
-s'avère moins coûteux que les moyens de sauvegarde et de protection des
-populations ;
+d'avalanches, de crues torrentielles ou à montée rapide, de submersion marine
+menaçant gravement des vies humaines ainsi que les mesures nécessaires pour en
+limiter l'accès et en empêcher toute occupation, sous réserve que le prix de
+l'acquisition amiable s'avère moins coûteux que les moyens de sauvegarde et de
+protection des populations ;
 
 2° L'acquisition amiable, par une commune, un groupement de communes ou l'Etat,
 de biens à usage d'habitation ou de biens utilisés dans le cadre d'activités

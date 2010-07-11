@@ -9,9 +9,10 @@ nouveau projet d'intérêt général, le préfet en informe la commune.
 Dans un délai d'un mois, la commune fait connaître au préfet si elle entend
 opérer la révision ou la modification nécessaire. Dans la négative ou à défaut
 de réponse dans ce délai, le préfet peut engager et approuver, après avis du
-conseil municipal et enquête publique, la révision ou la modification du plan.
-Il en est de même si l'intention exprimée de la commune de procéder à la
-révision ou à la modification n'est pas suivie, dans un délai de six mois à
+conseil municipal et enquête publique réalisée conformément au chapitre III du
+titre II du livre Ier du code de l'environnement, la révision ou la modification
+du plan. Il en est de même si l'intention exprimée de la commune de procéder à
+la révision ou à la modification n'est pas suivie, dans un délai de six mois à
 compter de la notification initiale du préfet, d'une délibération approuvant le
 projet correspondant.
 

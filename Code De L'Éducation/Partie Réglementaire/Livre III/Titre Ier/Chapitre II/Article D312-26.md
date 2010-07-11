@@ -29,5 +29,5 @@ publics de coopération intercommunale sont désignés par accord entre les
 associations départementales des maires ou, à défaut, par le collège des maires
 du département ;
 
-6° Les représentants du conseil économique et social régional sont désignés par
-le conseil.
+6° Les représentants du conseil économique, social et environnemental régional
+sont désignés par le conseil.

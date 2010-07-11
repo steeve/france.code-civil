@@ -22,3 +22,8 @@ est également mis à la disposition du commissaire enquêteur ou de la commissi
 d'enquête lors d'une enquête publique concernant un ouvrage entrant dans le
 champ de cet inventaire. Il est communiqué, à leur demande, aux associations
 départementales agréées de protection de l'environnement concernées.
+
+V. ― L'inventaire du patrimoine naturel du département de la Guyane n'est pas
+soumis aux II et III mais fait l'objet d'un régime spécifique, adapté à ses
+particularités. Après concertation avec les collectivités territoriales
+concernées, un décret définit son contenu et les modalités de sa réalisation.

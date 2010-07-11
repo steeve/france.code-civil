@@ -5,8 +5,8 @@ de coopération intercommunale ou du syndicat mixte comme en matière d'impôts
 directs.
 
 Le produit de la taxe est exclusivement affecté à la création, à l'exploitation,
-au renouvellement, à l'extension des installations de collecte, de transport, de
-stockage et de traitement des eaux pluviales, à l'entretien de ces ouvrages
-ainsi qu'au contrôle des dispositifs évitant ou limitant le déversement de ces
-eaux dans les ouvrages publics. Un état annexe au compte administratif retrace
-les recettes procurées par cette taxe et leur emploi.
+au renouvellement, à l'extension des installations de gestion des eaux pluviales
+urbaines, à l'entretien de ces ouvrages ainsi qu'au contrôle des dispositifs
+évitant ou limitant le déversement de ces eaux dans les ouvrages publics. Un
+état annexe au compte administratif retrace les recettes procurées par cette
+taxe et leur emploi.

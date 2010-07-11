@@ -6,7 +6,7 @@ l'alimentation des collectivités humaines mentionné à l'article L. 215-13 du
 code de l'environnement détermine autour du point de prélèvement un périmètre de
 protection immédiate dont les terrains sont à acquérir en pleine propriété, un
 périmètre de protection rapprochée à l'intérieur duquel peuvent être interdits
-ou réglementés toutes sortes d'installations , travaux, activités, dépôts,
+ou réglementés toutes sortes d'installations, travaux, activités, dépôts,
 ouvrages, aménagement ou occupation des sols de nature à nuire directement ou
 indirectement à la qualité des eaux et, le cas échéant, un périmètre de
 protection éloignée à l'intérieur duquel peuvent être réglementés les
@@ -70,3 +70,8 @@ l'urbanisme. Ce droit peut être délégué à la commune ou à l'établissement
 de coopération intercommunale responsable de la production d'eau destinée à la
 consommation humaine dans les conditions prévues à l'article L. 213-3 du code de
 l'urbanisme.
+
+Le département ou un syndicat mixte constitué en application de l'article L.
+5721-2 du code général des collectivités territoriales peut, à la demande du
+service bénéficiaire du captage, assurer la réalisation des mesures nécessaires
+à l'institution des périmètres de protection mentionnés au premier alinéa.

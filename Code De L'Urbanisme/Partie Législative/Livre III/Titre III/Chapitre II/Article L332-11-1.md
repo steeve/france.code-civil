@@ -21,7 +21,9 @@ voie préexiste, si aucun aménagement supplémentaire de la voie n'est prévu p
 le conseil municipal, ces travaux peuvent ne concerner que les réseaux. Dans ce
 cas, le conseil municipal peut prévoir, avec l'accord du ou des établissements
 publics de coopération intercommunale ou syndicats mixtes compétents pour ces
-réseaux, que la participation leur sera versée directement.
+réseaux, que la participation leur sera versée directement ou par
+l'intermédiaire de la commune, en complément le cas échéant des autres
+financements que celle-ci affecte à la réalisation de ces travaux.
 
 Le conseil municipal arrête la part du coût mise à la charge des propriétaires
 riverains. Cette part est répartie entre les propriétaires au prorata de la

@@ -1,6 +1,6 @@
 Article L253-17
 ----
-I.-Est puni de deux ans d'emprisonnement et de 75000 euros d'amende :
+I.-Est puni de deux ans d'emprisonnement et de 75 000 euros d'amende :
 
 1° Le fait de mettre sur le marché un produit défini à l'article L. 253-1 sans
 bénéficier d'une autorisation ou le fait de ne pas avoir fait une nouvelle
@@ -16,6 +16,28 @@ L. 253-6 ;
 
 4° Le fait de faire la publicité ou de recommander l'utilisation d'un produit
 défini à l'article L. 253-1 ne bénéficiant pas d'une autorisation.
+
+5° Le fait, pour les personnes mentionnées aux I et II de l'article L. 253-9, de
+ne pas procéder aux opérations d'élimination conformément aux prescriptions de
+ce même article et de ses textes d'application. I bis. ― Est puni d'un an
+d'emprisonnement et de 30 000 € d'amende : 1° Le fait de faire la publicité ou
+de recommander l'utilisation d'un produit défini à l'article L. 253-1 en donnant
+une image exagérément sécurisante ou de nature à banaliser l'utilisation du
+produit ;
+
+2° Le fait de faire la publicité ou de recommander l'utilisation d'un produit
+défini à l'article L. 253-1 portant les mentions visées au deuxième alinéa de
+l'article L. 253-7 ou comportant des mentions faisant valoir des propriétés ou
+fonctions du produit autres que celles qui font l'objet de l'autorisation de
+mise sur le marché mentionnée à l'article L. 253-1 ;
+
+3° Le fait de faire la publicité ou de recommander l'utilisation d'un produit
+défini à l'article L. 253-1 sans en présenter les bonnes pratiques d'utilisation
+qui permettent de prévenir leurs éventuels impacts sanitaires ou
+environnementaux ;
+
+4° Le fait de faire la publicité d'un produit défini à l'article L. 253-1 sans
+respecter l'interdiction prévue au quatrième alinéa de l'article L. 253-7.
 
 II.-Est puni de six mois d'emprisonnement et de 30000 euros d'amende :
 

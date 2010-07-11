@@ -11,7 +11,8 @@ n'interviennent pas dans un délai de trois mois après transmission du projet d
 modification.
 
 Le projet de modification, assorti des avis prévus à l'alinéa précédent, est
-soumis à enquête publique par le président du conseil régional.
+soumis à enquête publique, dans les mêmes conditions que celles prévues à
+l'article L. 141-1, par le président du conseil régional.
 
 A l'issue de l'enquête publique, le projet, éventuellement modifié pour tenir
 compte notamment des observations du public et des avis émis par les personnes

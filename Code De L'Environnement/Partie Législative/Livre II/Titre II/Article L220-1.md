@@ -8,4 +8,6 @@ respirer un air qui ne nuise pas à sa santé.
 
 Cette action d'intérêt général consiste à prévenir, à surveiller, à réduire ou à
 supprimer les pollutions atmosphériques, à préserver la qualité de l'air et, à
-ces fins, à économiser et à utiliser rationnellement l'énergie.
+ces fins, à économiser et à utiliser rationnellement l'énergie. La protection de
+l'atmosphère intègre la prévention de la pollution de l'air et la lutte contre
+les émissions de gaz à effet de serre.

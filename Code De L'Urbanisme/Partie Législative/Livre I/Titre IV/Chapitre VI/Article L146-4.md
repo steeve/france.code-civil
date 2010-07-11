@@ -1,6 +1,6 @@
 Article L146-4
 ----
-I - L'extension de l'urbanisation doit se réaliser soit en continuité avec les
+I ― L'extension de l'urbanisation doit se réaliser soit en continuité avec les
 agglomérations et villages existants, soit en hameaux nouveaux intégrés à
 l'environnement.
 
@@ -16,7 +16,7 @@ Les dispositions du premier alinéa ne font pas obstacle à la réalisation de
 travaux de mise aux normes des exploitations agricoles, à condition que les
 effluents d'origine animale ne soient pas accrus.
 
-II - L'extension limitée de l'urbanisation des espaces proches du rivage ou des
+II ― L'extension limitée de l'urbanisation des espaces proches du rivage ou des
 rives des plans d'eau intérieurs désignés à l'article 2 de la loi n° 86-2 du 3
 janvier 1986 précitée doit être justifiée et motivée, dans le plan local
 d'urbanisme, selon des critères liés à la configuration des lieux ou à l'accueil
@@ -36,25 +36,32 @@ connaître leur avis dans un délai de deux mois suivant le dépôt de la demand
 d'accord. Le plan local d'urbanisme doit respecter les dispositions de cet
 accord.
 
-III - En dehors des espaces urbanisés, les constructions ou installations sont
+III ― En dehors des espaces urbanisés, les constructions ou installations sont
 interdites sur une bande littorale de cent mètres à compter de la limite haute
 du rivage ou des plus hautes eaux pour les plans d'eau intérieurs désignés à
 l'article 2 de la loi n° 86-2 du 3 janvier 1986 précitée.
 
 Cette interdiction ne s'applique pas aux constructions ou installations
 nécessaires à des services publics ou à des activités économiques exigeant la
-proximité immédiate de l'eau. Leur réalisation est toutefois soumise à enquête
-publique suivant les modalités de la loi n° 83-630 du 12 juillet 1983 relative à
-la démocratisation des enquêtes publiques et à la protection de l'environnement.
+proximité immédiate de l'eau, et notamment aux ouvrages de raccordement aux
+réseaux publics de transport ou de distribution d'électricité des installations
+marines utilisant les énergies renouvelables. Leur réalisation est toutefois
+soumise à enquête publique réalisée conformément au chapitre III du titre II du
+livre Ier du code de l'environnement. Un décret en Conseil d'Etat fixe les
+conditions de réalisation des ouvrages nécessaires au raccordement aux réseaux
+publics de transport ou de distribution d'électricité des installations marines
+utilisant les énergies renouvelables. Les techniques utilisées pour la
+réalisation de ces raccordements sont souterraines et toujours celles de moindre
+impact environnemental.
 
 Le plan local d'urbanisme peut porter la largeur de la bande littorale visée au
 premier alinéa du présent paragraphe à plus de cent mètres, lorsque des motifs
 liés à la sensibilité des milieux ou à l'érosion des côtes le justifient.
 
-IV - Les dispositions des paragraphes II et III ci-dessus s'appliquent aux rives
+IV ― Les dispositions des paragraphes II et III ci-dessus s'appliquent aux rives
 des estuaires les plus importants, dont la liste est fixée par décret en Conseil
 d'Etat.
 
-V. - Les dispositions des II et III ne s'appliquent pas aux rives des étiers et
+V. ― Les dispositions des II et III ne s'appliquent pas aux rives des étiers et
 des rus, en amont d'une limite située à l'embouchure et fixée par l'autorité
 administrative dans des conditions définies par un décret en Conseil d'Etat.

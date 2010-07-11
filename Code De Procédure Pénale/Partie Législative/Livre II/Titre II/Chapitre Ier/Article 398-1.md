@@ -16,15 +16,15 @@ l'occasion de la conduite d'un véhicule, par les articles 222-19-1, 222-20-1,
 l'article L. 2339-9 du code de la défense ;
 
 5° Les délits prévus par les articles 222-11, 222-12 (1° à 15°), 222-13 (1° à
-15°), 222-16, 222-17, 222-18, 222-32, 225-10-1, 227-3 à 227-11 311-3, 311-4 (1°
+15°), 222-16, 222-17, 222-18, 222-32, 225-10-1, 227-3 à 227-11, 311-3, 311-4 (1°
 à 11°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4-1, 322-12, 322-13, 322-14,
 431-22 à 431-24, 433-3, premier et deuxième alinéas, 433-5, 433-6 à 433-8,
 premier alinéa, 433-10, premier alinéa, et 521-1 du code pénal et L. 628 du code
 de la santé publique ;
 
 6° Les délits prévus par le code de l'environnement en matière de chasse, de
-pêche en eau douce, de pêche maritime et de protection de la faune et de la
-flore ;
+pêche en eau douce, de pêche maritime, de protection de la faune et de la flore,
+ainsi que par le titre VIII du livre V du même code ;
 
 7° Les délits prévus par le code forestier et par le code de l'urbanisme pour la
 protection des bois et forêts ;
@@ -35,12 +35,15 @@ l'habitation ;
 8° Les délits pour lesquels une peine d'emprisonnement n'est pas encourue, à
 l'exception des délits de presse ;
 
-9° Les délits prévus par le code rural en matière de garde et de circulation des
-animaux ;
+9° Les délits prévus par le code rural et de la pêche maritime en matière de
+garde et de circulation des animaux ;
 
 10° Les délits prévus aux articles L. 335-2, L. 335-3 et L. 335-4 du code de la
 propriété intellectuelle, lorsqu'ils sont commis au moyen d'un service de
-communication au public en ligne.
+communication au public en ligne ;
+
+11° Les infractions prévues au deuxième alinéa de l'article L. 152-1 du code de
+la construction et de l'habitation.
 
 Toutefois, le tribunal statue obligatoirement dans les conditions prévues par le
 premier alinéa de l'article 398 lorsque le prévenu est en état de détention

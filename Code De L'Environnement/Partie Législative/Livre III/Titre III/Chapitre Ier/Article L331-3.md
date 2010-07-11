@@ -1,6 +1,6 @@
 Article L331-3
 ----
-I. - La charte du parc national définit un projet de territoire traduisant la
+I.-La charte du parc national définit un projet de territoire traduisant la
 solidarité écologique entre le coeur du parc et ses espaces environnants.
 
 Elle est composée de deux parties :
@@ -33,17 +33,17 @@ groupements concernés.
 Des conventions d'application de la charte peuvent être signées entre
 l'établissement public du parc national et chaque collectivité territoriale
 adhérente pour faciliter la mise en oeuvre des orientations et des mesures de
-protection, de mise en valeur et de développement durable qu'elle prévoit.
-L'établissement public du parc national peut également proposer à d'autres
-personnes morales de droit public intéressées de s'associer à l'application de
-la charte par la signature d'une convention. Des contrats de partenariat
-s'inscrivant dans le cadre d'un projet concourant à la mise en oeuvre de la
-charte peuvent par ailleurs être conclus entre l'établissement public du parc
-national et des personnes morales de droit privé concernées par le parc
-national.
+protection, de mise en valeur et de développement durable qu'elle
+prévoit.L'établissement public du parc national peut également proposer à
+d'autres personnes morales de droit public intéressées de s'associer à
+l'application de la charte par la signature d'une convention. Des contrats de
+partenariat s'inscrivant dans le cadre d'un projet concourant à la mise en
+oeuvre de la charte peuvent par ailleurs être conclus entre l'établissement
+public du parc national et des personnes morales de droit privé concernées par
+le parc national.
 
-II. - L'établissement public du parc national évalue l'application de la charte
-et délibère sur l'opportunité de sa révision douze ans au plus après son
+II.-L'établissement public du parc national évalue l'application de la charte et
+délibère sur l'opportunité de sa révision douze ans au plus après son
 approbation, sa précédente révision ou la dernière décision de ne pas la
 réviser.
 
@@ -66,16 +66,16 @@ révision ou de la dernière décision de ne pas la réviser.
 Le préfet constate, en tant que de besoin, le ou les retraits et actualise le
 périmètre effectif du parc national.
 
-III. - L'établissement public du parc national est associé à l'élaboration et
-aux différentes procédures de révision des schémas de cohérence territoriale et
-des plans locaux d'urbanisme.
+III.-L'établissement public du parc national est associé à l'élaboration et aux
+différentes procédures de révision des schémas de cohérence territoriale et des
+plans locaux d'urbanisme.
 
-Les schémas de cohérence territoriale, les plans locaux d'urbanisme et les
-cartes communales doivent être compatibles avec les objectifs de protection et
-les orientations de la charte du parc national. Lorsque l'un de ces documents
-est approuvé avant l'approbation de la charte, il doit, si nécessaire, être
-rendu compatible dans un délai de trois ans à compter de l'approbation de
-celle-ci.
+Les schémas de cohérence territoriale, les plans locaux d'urbanisme, les cartes
+communales et les règlements locaux de publicité prévus à l'article L. 581-14
+doivent être compatibles avec les objectifs de protection et les orientations de
+la charte du parc national. Lorsque l'un de ces documents est approuvé avant
+l'approbation de la charte, il doit, si nécessaire, être rendu compatible dans
+un délai de trois ans à compter de l'approbation de celle-ci.
 
 Lors de leur élaboration ou de leur révision, les documents de planification,
 d'aménagement et de gestion des ressources naturelles relatifs à l'agriculture,

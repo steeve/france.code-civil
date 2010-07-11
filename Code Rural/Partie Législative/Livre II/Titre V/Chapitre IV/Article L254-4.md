@@ -1,7 +1,9 @@
 Article L254-4
 ----
-La qualification des personnes mentionnées au 1° de l'article L. 254-3 est
-attestée par des certificats délivrés par l'autorité administrative qui statue
-au vu de la formation, et notamment des diplômes, ou de l'expérience
-professionnelle des postulants. Le certificat est accordé pour une période
-limitée à cinq ans et renouvelable à la demande des intéressés.
+En cas de risque particulier pour la santé publique ou l'environnement, le
+ministre chargé de l'agriculture peut, pour l'application de certains produits
+phytopharmaceutiques définis à l'article L. 253-1 ou pour des modalités
+d'application particulières, y compris pour le propre compte de l'utilisateur ou
+dans le cadre de contrats d'entraide à titre gratuit au sens de l'article L.
+325-1, imposer l'obtention de certificats spécifiques, renouvelés
+périodiquement, dont il arrête la procédure de délivrance.

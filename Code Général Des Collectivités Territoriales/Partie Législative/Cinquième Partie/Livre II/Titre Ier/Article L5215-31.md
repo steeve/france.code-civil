@@ -5,6 +5,7 @@ urbaine exerce ses compétences, il peut être procédé à une redistribution d
 voies entre l'Etat, le département et la communauté urbaine.
 
 Les classements et déclassements correspondants interviennent après enquête
+publique réalisée conformément au code de l'expropriation pour cause d'utilité
 publique et consultation du conseil de communauté et du conseil général.
 
 Ils sont prononcés soit par arrêté conjoint du ministre de l'intérieur et du

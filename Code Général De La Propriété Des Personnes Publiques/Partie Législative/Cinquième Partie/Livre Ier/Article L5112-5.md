@@ -9,6 +9,9 @@ professionnel. La cession à une personne morale est soumise pour avis à la
 collectivité territoriale ou au groupement de collectivités territoriales
 concerné, qui dispose de trois mois pour faire connaître son avis.
 
+Les demandes de cession faites en application du présent article doivent, sous
+peine de forclusion, être déposées avant le 1er janvier 2013.
+
 Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la
 date du dépôt de la demande de cession. Il est fixé selon les règles applicables
 à l'aliénation des immeubles du domaine privé.

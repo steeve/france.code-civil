@@ -6,5 +6,6 @@ périmètres de protection autour de ces réserves. En Corse, la décision relè
 l'Assemblée de Corse lorsque la collectivité territoriale a pris la décision de
 classement.
 
-Ces périmètres sont créés après enquête publique sur proposition ou après accord
-des conseils municipaux.
+Ces périmètres sont créés après enquête publique réalisée conformément au
+chapitre III du titre II du livre Ier du présent code sur proposition ou après
+accord des conseils municipaux.

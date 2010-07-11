@@ -11,7 +11,10 @@ tel qu'il est défini par le présent chapitre. Ils demeurent applicables jusqu'
 leur prochaine révision et ont les mêmes effets que les schémas de cohérence
 territoriale. Le schéma devient caduc si cette révision n'est pas intervenue au
 plus tard dix ans après la publication de la loi n° 2000-1208 du 13 décembre
-2000 précitée.
+2000 précitée. Toutefois, si l'établissement public compétent a tenu le débat
+mentionné au premier alinéa de l'article L. 122-8 avant cette date, le schéma
+directeur devient caduc le 1er janvier 2013 si le schéma de cohérence
+territoriale n'a pas été approuvé.
 
 Lorsqu'un schéma directeur est en cours d'élaboration ou de révision et que le
 projet de schéma est arrêté avant l'entrée en vigueur de la loi n° 2000-1208 du
@@ -21,21 +24,13 @@ d'un an à compter de l'entrée en vigueur de la loi. Les dispositions de l'alin
 précédent leur sont applicables à compter de leur approbation.
 
 Lorsqu'un schéma directeur en cours de révision n'a pas pu être arrêté avant la
-date d'entrée en vigueur de la loi n° 2000-1208 du 13 décembre 2000 précitée,
-l'établissement public chargé de la révision peut opter pour l'achèvement de la
-procédure selon le régime antérieur à ladite loi, à condition que le projet de
-révision soit arrêté avant le 1er janvier 2002 et que la révision soit approuvée
-avant le 1er janvier 2003. Les dispositions du présent alinéa ne font pas
-obstacle à la mise en oeuvre des dispositions des articles L. 122-5, L. 122-15
-et L. 122-16, dans leur rédaction issue de la loi n° 2000-1208 du 13 décembre
-2000 précitée, ni la modification du périmètre du schéma directeur dans les
-conditions définies par le onzième alinéa du présent article.
+date d'entrée en vigueur de la loi n° 2000-1208 du 13 décembre 2000 précitée.
 
 Lorsque l'établissement public qui a établi le schéma directeur a été dissous ou
 n'est plus compétent en matière de schéma directeur ou de schéma de cohérence
 territoriale, les communes et les établissements publics de coopération
 intercommunale compétents constituent un établissement public en application de
-l'article L. 122-4. A défaut de la constitution de cet établissement public au
+l'article L. 122-4.A défaut de la constitution de cet établissement public au
 plus tard le 1er janvier 2002, le schéma directeur devient caduc.
 
 Lorsqu'il est fait application de l'article L. 122-15 en l'absence
@@ -50,15 +45,16 @@ qu'un projet de plan local d'urbanisme ne soit arrêté, que ce plan, sans
 remettre en cause les intérêts de l'ensemble des communes concernées, contient
 des dispositions susceptibles d'être incompatibles avec le schéma. Les
 modifications proposées par l'Etat sont soumises par le préfet à enquête
-publique après avoir fait l'objet d'un examen conjoint de l'Etat, de la région,
-du département et des organismes mentionnés à l'article L. 121-4 et avoir été
-soumises, pour avis, aux communes et groupements de communes compétents situés
-dans le périmètre du schéma directeur. En cas d'opposition d'un nombre de
-communes ou d'établissements publics de coopération intercommunale, ceux-ci
-comptant pour autant de communes qu'ils comprennent de communes membres, égal au
-moins au quart des communes du territoire concerné ou regroupant au moins un
-quart de la population totale de ce même territoire, les modifications ne
-peuvent être approuvées que par décret en Conseil d'Etat.
+publique réalisée conformément au chapitre III du titre II du livre Ier du code
+de l'environnement après avoir fait l'objet d'un examen conjoint de l'Etat, de
+la région, du département et des organismes mentionnés à l'article L. 121-4 et
+avoir été soumises, pour avis, aux communes et groupements de communes
+compétents situés dans le périmètre du schéma directeur. En cas d'opposition
+d'un nombre de communes ou d'établissements publics de coopération
+intercommunale, ceux-ci comptant pour autant de communes qu'ils comprennent de
+communes membres, égal au moins au quart des communes du territoire concerné ou
+regroupant au moins un quart de la population totale de ce même territoire, les
+modifications ne peuvent être approuvées que par décret en Conseil d'Etat.
 
 Les actes prescrivant l'élaboration, la modification ou la révision d'un schéma
 directeur en application des articles L. 122-1-1 à L. 122-5 dans leur rédaction
@@ -67,7 +63,7 @@ prescription de l'élaboration ou de la révision du schéma de cohérence
 territoriale en application des articles L. 122-3 et L. 122-13 dans leur
 rédaction issue de cette loi. Lorsque le projet n'a pas été arrêté à la date
 d'entrée en vigueur de ladite loi, l'élaboration ou la révision est soumise au
-régime juridique défini par le présent chapitre. L'organe délibérant de
+régime juridique défini par le présent chapitre.L'organe délibérant de
 l'établissement public de coopération intercommunale délibère, en application de
 l'article L. 300-2, sur les modalités de la concertation avec la population.
 
@@ -86,23 +82,13 @@ l'approbation de la révision du schéma de cohérence territoriale et, au plus
 tard, jusqu'à l'expiration du délai de trois ans mentionné au dernier alinéa de
 l'article L. 122-6 dans sa rédaction antérieure à cette loi.
 
-Jusqu'au 1er janvier 2002, une commune peut, à sa demande, être exclue du
-périmètre d'un schéma directeur approuvé ou en cours de révision pour intégrer
-le périmètre d'un schéma de cohérence territoriale lorsque son inclusion dans le
-périmètre de ce schéma est de nature à lui assurer une meilleure cohérence
-spatiale et économique et à condition que cette modification de périmètre n'ait
-pas pour effet de provoquer une rupture de la continuité territoriale du schéma
-directeur dont elle se retire. La modification du périmètre est décidée par
-arrêté préfectoral, après avis de l'établissement public de coopération
-intercommunale ou du syndicat mixte chargé de l'élaboration du schéma directeur,
-s'il existe.
-
 Lorsqu'un schéma directeur approuvé avant l'entrée en vigueur de la loi n°
 2000-1208 du 13 décembre 2000 précitée ou un schéma directeur approuvé dans le
 délai d'un an à compter de l'entrée en vigueur de ladite loi en application du
 troisième alinéa ou un schéma directeur révisé avant le 1er janvier 2003 en
 application du quatrième alinéa est annulé pour vice de forme ou de procédure,
 l'établissement public prévu à l'article L. 122-4 peut l'approuver à nouveau,
-après enquête publique, dans le délai d'un an à compter de la décision
-juridictionnelle qui l'a annulé, sans mettre le schéma directeur en forme de
-schéma de cohérence territoriale.
+après enquête publique réalisée conformément au chapitre III du titre II du
+livre Ier du code de l'environnement, dans le délai d'un an à compter de la
+décision juridictionnelle qui l'a annulé, sans mettre le schéma directeur en
+forme de schéma de cohérence territoriale.

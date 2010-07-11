@@ -50,7 +50,11 @@ l'article L. 1411-4 ;
 décision portant création de la régie ;
 
 3° Tout projet de partenariat avant que l'assemblée délibérante ou l'organe
-délibérant ne se prononce dans les conditions prévues à l'article L. 1414-2.
+délibérant ne se prononce dans les conditions prévues à l'article L. 1414-2 ;
+
+4° Tout projet de participation du service de l'eau ou de l'assainissement à un
+programme de recherche et de développement, avant la décision d'y engager le
+service.
 
 Le président de la commission consultative des services publics locaux présente
 à son assemblée délibérante ou à son organe délibérant, avant le 1er juillet de

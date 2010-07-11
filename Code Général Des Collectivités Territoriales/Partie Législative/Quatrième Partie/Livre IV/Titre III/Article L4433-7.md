@@ -22,3 +22,15 @@ une mise en révision complète ou partielle.
 
 A défaut d'une telle délibération, le schéma d'aménagement régional devient
 caduc.
+
+Le schéma d'aménagement régional peut être modifié par décret en Conseil d'Etat,
+à condition que la modification ne porte pas atteinte à l'économie générale du
+schéma. Lorsqu'un plan de gestion des risques d'inondation, mentionné à
+l'article L. 566-7 du code de l'environnement, est approuvé, le schéma
+d'aménagement régional doit également être compatible avec les objectifs de
+gestion des risques d'inondation, les orientations fondamentales et les
+dispositions de ce plan définies en application des 1° et 3° du même article L.
+566-7. Lorsqu'un plan de gestion des risques d'inondation est approuvé après
+l'approbation du schéma d'aménagement régional, ce dernier doit, si nécessaire,
+être rendu compatible dans un délai de trois ans avec les éléments mentionnés à
+la phrase précédente.

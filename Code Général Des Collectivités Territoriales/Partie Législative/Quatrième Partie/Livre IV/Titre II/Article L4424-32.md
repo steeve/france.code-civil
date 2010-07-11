@@ -13,8 +13,9 @@ même code est prononcé par délibération de l'Assemblée de Corse à la deman
 la commune ou de l'établissement public de coopération intercommunale compétent
 en matière de tourisme et après consultation de la commission départementale
 compétente en matière d'environnement, de risques sanitaires et technologiques
-et du conseil des sites et après enquête publique. La durée de validité du
-classement est de douze ans.
+et du conseil des sites et après enquête publique réalisée conformément au
+chapitre III du titre II du livre Ier du code de l'environnement. La durée de
+validité du classement est de douze ans.
 
 II.-Par dérogation au deuxième alinéa de l'article L. 121-1 du code du tourisme
 portant répartition des compétences dans le domaine du tourisme, l'Assemblée de

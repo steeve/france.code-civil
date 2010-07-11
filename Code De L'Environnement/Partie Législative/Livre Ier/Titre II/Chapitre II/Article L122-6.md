@@ -2,12 +2,17 @@ Article L122-6
 ----
 L'évaluation environnementale comporte l'établissement d'un rapport qui
 identifie, décrit et évalue les effets notables que peut avoir la mise en oeuvre
-du plan ou du document sur l'environnement. Ce rapport présente les mesures
-prévues pour réduire et, dans la mesure du possible, compenser les incidences
-négatives notables que l'application du plan peut entraîner sur l'environnement.
-Il expose les autres solutions envisagées et les raisons pour lesquelles,
-notamment du point de vue de la protection de l'environnement, le projet a été
-retenu.
+du plan ou du document sur l'environnement ainsi que les solutions de
+substitution raisonnables tenant compte des objectifs et du champ d'application
+géographique du plan ou du document. Ce rapport présente les mesures prévues
+pour réduire et, dans la mesure du possible, compenser les incidences négatives
+notables que l'application du plan peut entraîner sur l'environnement. Il expose
+les autres solutions envisagées et les raisons pour lesquelles, notamment du
+point de vue de la protection de l'environnement, le projet a été retenu. Il
+définit les critères, indicateurs et modalités retenus pour suivre les effets du
+document sur l'environnement afin d'identifier notamment, à un stade précoce,
+les impacts négatifs imprévus et envisager, si nécessaire, les mesures
+appropriées.
 
 Le rapport environnemental contient les informations qui peuvent être
 raisonnablement exigées, compte tenu des connaissances et des méthodes

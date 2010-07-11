@@ -31,6 +31,22 @@ Lorsque les prélèvements sont destinés à une distribution publique, les
 personnes effectuant le prélèvement sont tenues de répartir équitablement le
 coût de cette redevance sur tous les consommateurs.
 
+Le taux de la redevance pour l'usage "alimentation en eau potable” mentionné
+ci-dessus est multiplié par deux lorsque le descriptif ou le plan d'actions
+visés à l'article L. 2224-7-1 du code général des collectivités territoriales
+n'a pas été établi dans les délais prescrits.
+
+Cette majoration prend effet à partir de l'année suivant le constat de cette
+carence jusqu'à l'année suivant laquelle :
+
+- soit il est remédié à la non-réalisation du plan d'actions ;
+
+- soit le taux de perte en eau du réseau de la collectivité s'avère inférieur au
+taux fixé par le décret prévu par le même article L. 2224-7-1.
+
+L'office de l'eau peut verser aux collectivités territoriales des incitations
+financières à la réduction des pertes en eau du réseau.
+
 IV. - Sont exonérés de la redevance :
 
 1° Les prélèvements effectués en mer ;

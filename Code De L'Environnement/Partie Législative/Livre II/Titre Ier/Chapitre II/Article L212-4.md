@@ -1,14 +1,22 @@
 Article L212-4
 ----
-I. - Pour l'élaboration, la révision et le suivi de l'application du schéma
+I.-Pour l'élaboration, la révision et le suivi de l'application du schéma
 d'aménagement et de gestion des eaux, une commission locale de l'eau est créée
 par le préfet.
 
-Elle peut confier l'exécution de certaines de ses missions à un établissement
-public territorial de bassin, à une collectivité territoriale ou à un groupement
-de collectivités territoriales.
+La mise en œuvre du schéma d'aménagement et de gestion des eaux est assurée par
+un établissement public territorial de bassin lorsque celui-ci résulte de la
+procédure de reconnaissance issue de l'arrêté du 7 février 2005 relatif à la
+délimitation du périmètre d'intervention de l'établissement public territorial
+de bassin ou lorsque le périmètre du schéma d'aménagement et de gestion des eaux
+mis en œuvre par cet établissement public territorial de bassin a été délimité
+après l'adoption de la loi n° 2010-788 du 12 juillet 2010 portant engagement
+national pour l'environnement et sous réserve que le périmètre de ce schéma
+d'aménagement et de gestion des eaux ne soit pas inclus dans le périmètre d'un
+groupement de collectivités territoriales mais soit compris dans celui de
+l'établissement public territorial de bassin.
 
-II. - La commission locale de l'eau comprend :
+II.-La commission locale de l'eau comprend :
 
 1° Des représentants des collectivités territoriales et de leurs groupements,
 des établissements publics locaux et, s'il existe, de l'établissement public

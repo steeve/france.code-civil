@@ -1,7 +1,7 @@
 Article R4432-2
 ----
-Le conseil économique et social régional de la Guyane comprend trente-huit
-membres, dont :
+Le conseil économique, social et environnemental régional de la Guyane comprend
+trente-huit membres, dont :
 
 1° Quinze représentants des entreprises et des activités professionnelles non
 salariées de la région, quels que soient la nature de leur activité et leur

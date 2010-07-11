@@ -3,15 +3,15 @@ Article L221-1
 I.-L'Etat assure, avec le concours des collectivités territoriales dans le
 respect de leur libre administration et des principes de décentralisation, la
 surveillance de la qualité de l'air et de ses effets sur la santé et sur
-l'environnement. Il confie à l'Agence de l'environnement et de la maîtrise de
-l'énergie la coordination technique de la surveillance de la qualité de l'air.
-Des normes de qualité de l'air ainsi que des valeurs-guides pour l'air intérieur
-définies par décret en Conseil d'Etat sont fixées, après avis de l'Agence
-nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement
-et du travail, en conformité avec celles définies par l'Union européenne et, le
-cas échéant, par l'Organisation mondiale de la santé. Ces normes sont
-régulièrement réévaluées pour prendre en compte les résultats des études
-médicales et épidémiologiques.
+l'environnement. Un organisme chargé de la coordination technique de la
+surveillance de la qualité de l'air est désigné par arrêté du ministre chargé de
+l'environnement. Des normes de qualité de l'air ainsi que des valeurs-guides
+pour l'air intérieur définies par décret en Conseil d'Etat sont fixées, après
+avis de l'Agence nationale chargée de la sécurité sanitaire de l'alimentation,
+de l'environnement et du travail, en conformité avec celles définies par l'Union
+européenne et, le cas échéant, par l'Organisation mondiale de la santé. Ces
+normes sont régulièrement réévaluées pour prendre en compte les résultats des
+études médicales et épidémiologiques.
 
 II. (Abrogé)
 

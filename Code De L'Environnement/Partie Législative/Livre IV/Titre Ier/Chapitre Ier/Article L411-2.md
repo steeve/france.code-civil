@@ -3,16 +3,16 @@ Article L411-2
 Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont fixées
 :
 
-1° La liste limitative des espèces animales non domestiques ou végétales non
-cultivées ainsi protégées ;
+1° La liste limitative des habitats naturels, des espèces animales non
+domestiques ou végétales non cultivées ainsi que des sites d'intérêt géologique,
+y compris des types de cavités souterraines, ainsi protégés ;
 
-2° La durée des interdictions permanentes ou temporaires prises en vue de
-permettre la reconstitution des populations naturelles en cause ou de leurs
-habitats ainsi que la protection des espèces animales pendant les périodes ou
-les circonstances où elles sont particulièrement vulnérables ;
+2° La durée et les modalités de mise en œuvre des interdictions prises en
+application du I de l'article L. 411-1 ;
 
-3° La partie du territoire national, y compris le domaine public maritime et les
-eaux territoriales, sur laquelle elles s'appliquent ;
+3° La partie du territoire national sur laquelle elles s'appliquent, qui peut
+comprendre le domaine public maritime, les eaux intérieures et la mer
+territoriale ;
 
 4° La délivrance de dérogation aux interdictions mentionnées aux 1°, 2° et 3° de
 l'article L. 411-1, à condition qu'il n'existe pas d'autre solution
@@ -49,10 +49,7 @@ réglementation, ainsi que des espèces protégées en dehors de ces zones ;
 du I de l'article L. 411-1 à des fins de conservation et de reproduction de ces
 espèces ;
 
-7° La liste des sites protégés mentionnés au 4° du I de l'article L. 411-1, les
-mesures conservatoires propres à éviter leur dégradation et la délivrance des
-autorisations exceptionnelles d'enlèvement des fossiles à des fins scientifiques
-ou d'enseignement.
-
-La liste des espèces animales non domestiques prévue au 1° est révisée tous les
-deux ans.
+7° Les mesures conservatoires propres à éviter l'altération, la dégradation ou
+la destruction des sites d'intérêt géologique mentionnés au 1° et la délivrance
+des autorisations exceptionnelles de prélèvement de fossiles, minéraux et
+concrétions à des fins scientifiques ou d'enseignement.

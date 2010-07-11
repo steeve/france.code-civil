@@ -57,13 +57,14 @@ l'article L. 223-1 du code de la route.
 L'officier du ministère public vérifie si les conditions de recevabilité de la
 requête ou de la réclamation prévues par le présent article sont remplies. "
 
-" Art. 529-11-L'avis de contravention prévu par les articles 529-1 et 529-8 peut
-être envoyé à la suite de la constatation d'une contravention au code de la
-route réalisée grâce à un appareil homologué de contrôle automatique. En cas de
-réclamation portée devant la juridiction de proximité, le procès-verbal ou le
-rapport de l'officier ou de l'agent de police judiciaire faisant état du
-résultat de ce contrôle est alors dressé. Ce procès-verbal peut être revêtu
-d'une signature manuelle numérisée. "
+" Art. 529-11-L'avis de contravention prévu par les articles 529-1 et 529-8 ou
+l'avis de paiement de la transaction prévue par l'article 529-6 peut être envoyé
+à la suite de la constatation d'une contravention au code de la route réalisée
+grâce à un appareil homologué de contrôle automatique. En cas de réclamation
+portée devant la juridiction de proximité, le procès-verbal ou le rapport de
+l'officier ou de l'agent de police judiciaire ou de l'agent verbalisateur
+faisant état du résultat de ce contrôle est alors dressé. Ce procès-verbal peut
+être revêtu d'une signature manuelle numérisée. "
 
 " Art. 530-Le titre mentionné au second alinéa de l'article 529-2 ou au second
 alinéa de l'article 529-5 est exécuté suivant les règles prévues par le présent
@@ -90,9 +91,9 @@ qui a pour effet d'annuler le titre exécutoire pour le montant de la majoration
 La réclamation doit être accompagnée de l'avis d'amende forfaitaire majorée
 correspondant à l'amende considérée ainsi que, dans le cas prévu par l'article
 529-10, de l'un des documents exigés par cet article, à défaut de quoi elle est
-irrecevable."
+irrecevable. "
 
-"Art. 530-1-Au vu de la requête faite en application du premier alinéa de
+" Art. 530-1-Au vu de la requête faite en application du premier alinéa de
 l'article 529-2, de la protestation formulée en application du premier alinéa de
 l'article 529-5 ou de la réclamation faite en application du deuxième alinéa de
 l'article 530, le ministère public peut, soit renoncer à l'exercice des
@@ -112,7 +113,7 @@ de la consignation est reversé à la personne à qui avait été adressé l'avi
 paiement de l'amende forfaitaire ou ayant fait l'objet des poursuites. Les
 modalités de ce remboursement sont définies par voie réglementaire. En cas de
 condamnation, l'amende prononcée ne peut être inférieure au montant prévu à
-l'alinéa précédent augmenté d'une somme de 10 %."
+l'alinéa précédent augmenté d'une somme de 10 %. "
 
 " Art. 530-2-Les incidents contentieux relatifs à l'exécution du titre
 exécutoire et à la rectification des erreurs matérielles qu'il peut comporter

@@ -12,6 +12,8 @@ d'urbanisme est applicable aux dispositions ainsi incorporées.
 Lorsque la commune n'est pas dotée d'un plan local d'urbanisme, les dispositions
 des cahiers des charges destinées à assurer l'unité d'urbanisme et
 d'architecture dans la zone peuvent être modifiées par décision de l'autorité
-administrative. Cette décision est prise après enquête publique et délibération
-du conseil municipal ou de l'organe délibérant de l'établissement groupant
-plusieurs communes et ayant compétence en matière d'urbanisme.
+administrative. Cette décision est prise après enquête publique réalisée
+conformément au chapitre III du titre II du livre Ier du code de l'environnement
+et délibération du conseil municipal ou de l'organe délibérant de
+l'établissement groupant plusieurs communes et ayant compétence en matière
+d'urbanisme.

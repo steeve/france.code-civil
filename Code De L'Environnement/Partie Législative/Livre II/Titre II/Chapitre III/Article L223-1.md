@@ -9,7 +9,9 @@ mesures, prises en application du plan de protection de l'atmosphère lorsqu'il
 existe et après information des maires intéressés, comportent un dispositif de
 restriction ou de suspension des activités concourant aux pointes de pollution,
 y compris, le cas échéant, de la circulation des véhicules, et de réduction des
-émissions des sources fixes et mobiles.
+émissions des sources fixes et mobiles. En cas d'épisode de pic de pollution
+prolongé, le ministre chargé de l'aviation civile prend les mesures nécessaires
+pour tenir compte de la pollution due aux mouvements d'aéronefs.
 
 Les normes de qualité de l'air mentionnées au premier alinéa applicables au
 présent chapitre sont fixées par décret en Conseil d'Etat pris après l'avis de

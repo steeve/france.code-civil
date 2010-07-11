@@ -56,10 +56,19 @@ aliments pour animaux contenant des produits d'origine animale ;
 alinéa de l'article L. 213-4, devront être portées à la connaissance des
 acheteurs sur les étiquettes, annonces, réclames, papiers de commerce ;
 
-Les décrets prévus au présent article sont pris après avis de l' Agence
-nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement
-et du travail lorsqu'ils portent sur des produits entrant dans son champ de
-compétence ou qu'ils comportent des dispositions visant à prévenir des risques
-sanitaires ou nutritionnels. Ces avis sont rendus publics.
+Les décrets prévus au présent article sont pris après avis de l'Agence nationale
+chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du
+travail lorsqu'ils portent sur des produits entrant dans son champ de compétence
+ou qu'ils comportent des dispositions visant à prévenir des risques sanitaires
+ou nutritionnels. Ces avis sont rendus publics.
 
 9° La traçabilité des marchandises.
+
+10° Les exigences de précision, de vérification et de prise en compte des
+éléments significatifs du cycle de vie des produits dans l'élaboration des
+allégations à caractère environnemental ou utilisant les termes de développement
+durable ou ses synonymes, lorsque ces allégations sont présentées sur les
+produits destinés à la vente aux consommateurs ou accompagnent leur
+commercialisation sous forme de mentions sur les emballages, les publications,
+la publicité, la télémercatique ou d'insertions sur supports numériques ou
+électroniques.

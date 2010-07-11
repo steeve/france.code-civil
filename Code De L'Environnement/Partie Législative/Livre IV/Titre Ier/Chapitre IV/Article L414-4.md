@@ -21,11 +21,11 @@ prévus par les contrats Natura 2000 ou pratiqués dans les conditions définies
 par une charte Natura 2000 sont dispensés de l'évaluation des incidences Natura
 2000.
 
-III. - Les documents de planification, programmes ou projets ainsi que les
-manifestations ou interventions soumis à un régime administratif d'autorisation,
-d'approbation ou de déclaration au titre d'une législation ou d'une
-réglementation distincte de Natura 2000 ne font l'objet d'une évaluation des
-incidences Natura 2000 que s'ils figurent :
+III. - Sous réserve du IV bis, les documents de planification, programmes ou
+projets ainsi que les manifestations ou interventions soumis à un régime
+administratif d'autorisation, d'approbation ou de déclaration au titre d'une
+législation ou d'une réglementation distincte de Natura 2000 ne font l'objet
+d'une évaluation des incidences Natura 2000 que s'ils figurent :
 
 1° Soit sur une liste nationale établie par décret en Conseil d'Etat ;
 
@@ -37,10 +37,17 @@ manifestation ou intervention qui ne relève pas d'un régime administratif
 d'autorisation, d'approbation ou de déclaration au titre d'une législation ou
 d'une réglementation distincte de Natura 2000 peut être soumis à autorisation en
 application de la présente section et fait alors l'objet d'une évaluation des
-incidences Natura 2000. Une liste locale des documents de planification,
-programmes ou projets ainsi que des manifestations ou interventions concernés
-est arrêtée par l'autorité administrative compétente parmi ceux figurant sur une
-liste nationale de référence établie par décret en Conseil d'Etat.
+incidences Natura 2000. Sans préjudice de l'application du IV bis, une liste
+locale des documents de planification, programmes ou projets ainsi que des
+manifestations ou interventions concernés est arrêtée par l'autorité
+administrative compétente parmi ceux figurant sur une liste nationale de
+référence établie par décret en Conseil d'Etat.
+
+IV bis. ― Tout document de planification, programme ou projet ainsi que
+manifestation ou intervention susceptible d'affecter de manière significative un
+site Natura 2000 et qui ne figure pas sur les listes mentionnées aux III et IV
+fait l'objet d'une évaluation des incidences Natura 2000 sur décision motivée de
+l'autorité administrative.
 
 V. - Les listes arrêtées au titre des III et IV par l'autorité administrative
 compétente sont établies au regard des objectifs de conservation des sites
@@ -56,10 +63,10 @@ ou d'un espace marin.
 
 VI. - L'autorité chargée d'autoriser, d'approuver ou de recevoir la déclaration
 s'oppose à tout document de planification, programme, projet, manifestation ou
-intervention si l'évaluation des incidences requise en application des III et IV
-n'a pas été réalisée, si elle se révèle insuffisante ou s'il en résulte que leur
-réalisation porterait atteinte aux objectifs de conservation d'un site Natura
-2000.
+intervention si l'évaluation des incidences requise en application des III, IV
+et IV bis n'a pas été réalisée, si elle se révèle insuffisante ou s'il en
+résulte que leur réalisation porterait atteinte aux objectifs de conservation
+d'un site Natura 2000.
 
 A défaut pour la législation ou la réglementation applicable au régime
 d'autorisation, d'approbation ou de déclaration concerné de définir les
@@ -87,3 +94,6 @@ Conseil d'Etat, l'accord mentionné au VII ne peut être donné que pour des mot
 liés à la santé ou à la sécurité publique ou tirés des avantages importants
 procurés à l'environnement ou, après avis de la Commission européenne, pour
 d'autres raisons impératives d'intérêt public majeur.
+
+IX. ― L'article L. 122-12 est applicable aux décisions visées aux I à V prises
+sans qu'une évaluation des incidences Natura 2000 ait été faite.

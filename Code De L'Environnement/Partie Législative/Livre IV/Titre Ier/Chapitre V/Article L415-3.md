@@ -1,6 +1,6 @@
 Article L415-3
 ----
-Est puni de six mois d'emprisonnement et de 9 000 euros d'amende :
+Est puni d'un an d'emprisonnement et de 15 000 € d'amende :
 
 1° Le fait, en violation des interdictions prévues par les dispositions de
 l'article L. 411-1et par les règlements pris en application de l'article L.
@@ -11,9 +11,14 @@ l'exception des perturbations intentionnelles ;
 
 b) De porter atteinte à la conservation d'espèces végétales non cultivées ;
 
-c) De détruire des sites contenant des fossiles permettant d'étudier l'histoire
-du monde vivant ainsi que les premières activités humaines, de détruire ou
-d'enlever des fossiles présents sur ces sites ;
+c) De porter atteinte à la conservation d'habitats naturels ;
+
+d) De détruire, altérer ou dégrader des sites d'intérêt géologique, notamment
+les cavités souterraines naturelles ou artificielles, ainsi que de prélever,
+détruire ou dégrader des fossiles, minéraux et concrétions présents sur ces
+sites.
+
+La tentative des délits prévus aux a à d est punie des mêmes peines ;
 
 2° Le fait d'introduire volontairement dans le milieu naturel, de transporter,
 colporter, utiliser, mettre en vente, vendre ou acheter un spécimen d'une espèce
@@ -31,7 +36,7 @@ location ou de transit d'animaux d'espèces non domestiques, soit d'un
 faune, sans être titulaire du certificat de capacité prévu à l'article L. 413-2;
 
 5° Le fait d'ouvrir ou d'exploiter un tel établissement en violation des
-dispositions de l'article L. 413-3ou des règlements pris pour son application.
+dispositions de l'article L. 413-3 ou des règlements pris pour son application.
 
 L'amende est doublée lorsque les infractions visées aux 1° et 2° sont commises
 dans le coeur d'un parc national ou dans une réserve naturelle.

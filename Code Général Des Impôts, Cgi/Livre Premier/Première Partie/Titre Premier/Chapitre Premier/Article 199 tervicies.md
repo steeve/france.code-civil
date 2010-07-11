@@ -4,19 +4,25 @@ I. ― Les contribuables domiciliés en France au sens de l'article 4 B bénéfi
 d'une réduction d'impôt sur le revenu à raison des dépenses qu'ils supportent en
 vue de la restauration complète d'un immeuble bâti :
 
-1° ― situé dans un secteur sauvegardé créé en application du I de l'article L.
+1° - situé dans un secteur sauvegardé créé en application du I de l'article L.
 313-1 du code de l'urbanisme, soit lorsque le plan de sauvegarde et de mise en
 valeur de ce secteur est approuvé, soit lorsque la restauration a été déclarée
 d'utilité publique en application de l'article L. 313-4 du même code ;
 
-2° -jusqu'au 31 décembre 2015, situé dans un quartier ancien dégradé délimité en
-application de l'article 25 de la loi n° 2009-323 du 25 mars 2009 de
+2° - jusqu'au 31 décembre 2015, situé dans un quartier ancien dégradé délimité
+en application de l'article 25 de la loi n° 2009-323 du 25 mars 2009 de
 mobilisation pour le logement et la lutte contre l'exclusion lorsque la
 restauration a été déclarée d'utilité publique ;
 
-3° ― situé dans une zone de protection du patrimoine architectural, urbain et
+3° - situé dans une zone de protection du patrimoine architectural, urbain et
 paysager créée en application des articles L. 642-1 à L. 642-7 du code du
-patrimoine lorsque la restauration a été déclarée d'utilité publique.
+patrimoine dans leur rédaction applicable avant l'entrée en vigueur de la loi n°
+2010-788 du 12 juillet 2010 portant engagement national pour l'environnement
+lorsque la restauration a été déclarée d'utilité publique ;
+
+4° - situé dans une aire de mise en valeur de l'architecture et du patrimoine
+créée en application des articles L. 642-1 à L. 642-7 du code du patrimoine
+lorsque la restauration a été déclarée d'utilité publique.
 
 La réduction d'impôt s'applique aux dépenses effectuées pour des locaux
 d'habitation ou pour des locaux destinés originellement à l'habitation et
@@ -33,9 +39,9 @@ II. ― Les dépenses mentionnées au I s'entendent des charges énumérées aux
 bis, b, b bis, c et e du 1° du I de l'article 31, des frais d'adhésion à des
 associations foncières urbaines de restauration, ainsi que des dépenses de
 travaux imposés ou autorisés en application des dispositions législatives ou
-réglementaires relatives aux secteurs, quartiers et zones mentionnés
-respectivement aux 1°, 2° et 3° du I, y compris les travaux effectués dans des
-locaux d'habitation et ayant pour objet de transformer en logement tout ou
+réglementaires relatives aux secteurs, quartiers, zones ou aires mentionnés
+respectivement aux 1°, 2°, 3° et 4° du I, y compris les travaux effectués dans
+des locaux d'habitation et ayant pour objet de transformer en logement tout ou
 partie de ces locaux, supportées à compter soit de la date de délivrance du
 permis de construire, soit de l'expiration du délai d'opposition à la
 déclaration préalable et jusqu'au 31 décembre de la troisième année suivante
@@ -81,7 +87,7 @@ l'engagement de location.
 La location doit prendre effet dans les douze mois suivant l'achèvement des
 travaux.
 
-IV bis.-1. La réduction d'impôt est applicable, dans les mêmes conditions, au
+IV bis.- 1. La réduction d'impôt est applicable, dans les mêmes conditions, au
 titre de la souscription par les contribuables de parts de sociétés civiles de
 placement immobilier régies par les articles L. 214-50 et suivants du code
 monétaire et financier dont la quote-part de revenu est, en application de
@@ -97,11 +103,10 @@ doit être intégralement affecté dans les dix-huit mois qui suivent la clôtur
 celle-ci.
 
 2. La réduction d'impôt est égale à 30 % du montant de la souscription affecté
-au financement des dépenses relatives à un immeuble mentionné au quatrième
-alinéa du I, retenu dans la limite annuelle de 100 000 euros. Ce taux est majoré
-de dix points lorsque le montant de la souscription est affecté au financement
-de dépenses relatives à un immeuble mentionné au deuxième ou troisième alinéa du
-même I.
+au financement des dépenses relatives à un immeuble mentionné aux 3° et 4° du I,
+retenu dans la limite annuelle de 100 000 euros. Ce taux est majoré de dix
+points lorsque le montant de la souscription est affecté au financement de
+dépenses relatives à un immeuble mentionné au 1° ou 2° du I.
 
 3. La société doit prendre l'engagement de louer l'immeuble au titre duquel les
 dépenses sont réalisées dans les conditions prévues au IV.L'associé doit

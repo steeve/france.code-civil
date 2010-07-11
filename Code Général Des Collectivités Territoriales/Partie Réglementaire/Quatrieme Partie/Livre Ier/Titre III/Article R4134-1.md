@@ -1,7 +1,7 @@
 Article R4134-1
 ----
-Les membres du conseil économique et social régional sont répartis en quatre
-collèges composés comme suit :
+Les membres du conseil économique, social et environnemental régional sont
+répartis en quatre collèges composés comme suit :
 
 1° Le premier collège comprend des représentants des entreprises et activités
 professionnelles non salariées dans la région, quels que soient la nature de
@@ -18,5 +18,5 @@ associations qui participent à la vie collective de la région ;
 qualité ou de leurs activités, concourent au développement de la région.
 
 Un tableau, constituant l'annexe XI du présent code, précise, pour chaque
-conseil économique et social régional, le nombre de ses membres et la
-répartition de ces derniers entre les collèges.
+conseil économique, social et environnemental régional, le nombre de ses membres
+et la répartition de ces derniers entre les collèges.

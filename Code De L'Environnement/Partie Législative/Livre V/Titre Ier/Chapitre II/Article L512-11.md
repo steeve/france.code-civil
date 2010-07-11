@@ -10,5 +10,6 @@ organismes agréés.
 Un décret en Conseil d'Etat précise les conditions d'application du présent
 article. Il fixe notamment la périodicité, les modalités de fonctionnement du
 système de contrôle et, en particulier, les conditions d'agrément des organismes
-contrôleurs et les conditions dans lesquelles les résultats peuvent être tenus à
-la disposition de l'administration.
+contrôleurs et les conditions dans lesquelles les résultats sont tenus à la
+disposition de l'administration ou, lorsque certaines non-conformités sont
+détectées, transmis à l'autorité administrative compétente.

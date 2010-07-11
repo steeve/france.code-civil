@@ -1,7 +1,7 @@
 Article R4432-3
 ----
-Le conseil économique et social régional de La Réunion comprend cinquante-cinq
-membres, dont :
+Le conseil économique, social et environnemental régional de La Réunion comprend
+cinquante-cinq membres, dont :
 
 1° Vingt et un représentants des entreprises et des activités professionnelles
 non salariées de la région, quels que soient la nature de leur activité et leur

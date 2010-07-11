@@ -11,12 +11,12 @@ notamment arrêter ou retirer des autorisations de déversement d'effluents non
 domestiques.
 
 Par dérogation aux dispositions des articles L. 2212-2 et L. 2224-16, lorsqu'un
-établissement public de coopération intercommunale à fiscalité propre est
-compétent en matière d'élimination des déchets ménagers, les maires des communes
-membres de celui-ci peuvent transférer au président de cet établissement des
-attributions lui permettant de réglementer cette activité. Il peut, dans le
-cadre de ce pouvoir, établir des règlements de collecte et mettre en oeuvre leur
-application sous la responsabilité d'agents spécialement assermentés.
+groupement intercommunal est compétent en matière d'élimination des déchets
+ménagers, les maires des communes membres de celui-ci peuvent transférer au
+président de ce groupement des attributions lui permettant de réglementer cette
+activité. Il peut, dans le cadre de ce pouvoir, établir des règlements de
+collecte et mettre en oeuvre leur application sous la responsabilité d'agents
+spécialement assermentés.
 
 Par dérogation à l'article 9 de la loi n° 2000-614 du 5 juillet 2000 relative à
 l'accueil et à l'habitat des gens du voyage, lorsqu'un établissement public de

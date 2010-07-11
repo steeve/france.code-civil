@@ -1,7 +1,7 @@
 Article L331-29
 ----
-Il est créé un établissement public national à caractère administratif dénommé
-"Parcs nationaux de France", placé sous la tutelle du ministre chargé de la
+Il est créé un établissement public national à caractère administratif dénommé "
+Parcs nationaux de France ", placé sous la tutelle du ministre chargé de la
 protection de la nature.
 
 Cet établissement public a pour mission de :
@@ -22,12 +22,12 @@ communication nationale et internationale ;
 dans les enceintes nationales et internationales traitant de sujets d'intérêt
 commun à tout ou partie de ces établissements ;
 
-5° Déposer et administrer, dans les conditions prévues aux articles L. 715-1 à
-L. 715-3 du code de la propriété intellectuelle, sa marque collective
-spécifique, que certifie un organisme de contrôle scientifique indépendant,
-lequel atteste que les produits et les services, issus d'activités exercées dans
-les parcs nationaux, s'inscrivent dans un processus écologique en vue notamment
-de la préservation ou de la restauration de la faune et de la flore ;
+5° De faire déposer et administrer, dans les conditions prévues aux articles L.
+715-1 à L. 715-3 du code de la propriété intellectuelle, les marques collectives
+des parcs nationaux et de Parcs nationaux de France, pour attester que les
+produits et les services, issus d'activités exercées dans les parcs nationaux,
+s'inscrivent dans un processus écologique en vue notamment de la préservation ou
+de la restauration de la faune et de la flore ;
 
 6° Contribuer au rassemblement des données concernant les parcs nationaux et
 l'activité des établissements publics des parcs nationaux ;

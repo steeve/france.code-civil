@@ -2,11 +2,8 @@ Article L631-10
 ----
 A la demande de toutes les organisations signataires, l'accord
 interprofessionnel homologué fait l'objet, en vue de son extension, d'une
-enquête publique ouverte individuellement à tous les producteurs agricoles,
-industriels et négociants intéressés et conduite dans la forme de l'enquête
-préalable à la déclaration d'utilité publique, avec la participation des
-chambres d'agriculture, de commerce et d'industrie concernées par l'extension de
-l'accord.
+enquête publique réalisée conformément au code de l'expropriation pour cause
+d'utilité publique.
 
 Au vu des résultats favorables de cette enquête, qui sont rendus publics, et
 après avis des chambres d'agriculture, de commerce et d'industrie concernées par

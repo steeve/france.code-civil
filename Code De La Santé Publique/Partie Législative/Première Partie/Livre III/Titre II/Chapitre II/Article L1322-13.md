@@ -7,5 +7,6 @@ celles du contrôle de leur exécution ainsi que les conditions dans lesquelles
 les dépenses du contrôle de la qualité de l'eau sont à la charge de l'exploitant
 dans les conditions définies à l'article L. 1321-5 ;
 
-2° Après enquête publique, la déclaration d'intérêt public et le périmètre de
-protection des sources d'eau minérale naturelle.
+2° Après enquête publique réalisée conformément au chapitre III du titre II du
+livre Ier du code de l'environnement, la déclaration d'intérêt public et le
+périmètre de protection des sources d'eau minérale naturelle.

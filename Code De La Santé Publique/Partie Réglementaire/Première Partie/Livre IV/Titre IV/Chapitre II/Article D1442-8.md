@@ -7,7 +7,7 @@ de l'autonomie et au sein de ses différentes formations :
 Saint-Martin ainsi que le préfet délégué chargé des questions relatives à la
 collectivité de Saint-Martin et Saint-Barthélemy ;
 
-2° Le président du conseil économique et social régional ;
+2° Le président du conseil économique, social et environnemental régional ;
 
 3° Les chefs de service de l'Etat en région ;
 

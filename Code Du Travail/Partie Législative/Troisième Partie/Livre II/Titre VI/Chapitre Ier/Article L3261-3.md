@@ -15,7 +15,8 @@ indispensable par des conditions d'horaires de travail particuliers ne
 permettant pas d'emprunter un mode collectif de transport.
 
 Dans les mêmes conditions, l'employeur peut prendre en charge les frais exposés
-pour l'alimentation de véhicules électriques.
+pour l'alimentation de véhicules électriques ou hybrides rechargeables et
+permettre la recharge desdits véhicules sur le lieu de travail.
 
 Le bénéfice de cette prise en charge ne peut être cumulé avec celle prévue à
 l'article L. 3261-2.

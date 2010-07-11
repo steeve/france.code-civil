@@ -17,5 +17,6 @@ I.-Le classement des stations mentionnées aux articles L. 133-13 et L. 134-3 du
 même code est prononcé par délibération de l'Assemblée de Corse à la demande de
 la commune ou de l'établissement public de coopération intercommunale compétent
 en matière de tourisme et après consultation du conseil départemental d'hygiène
-et du conseil des sites et après enquête publique. La durée de validité du
-classement est de douze ans ".
+et du conseil des sites et après enquête publique réalisée conformément au
+chapitre III du titre II du livre Ier du code de l'environnement. La durée de
+validité du classement est de douze ans ".

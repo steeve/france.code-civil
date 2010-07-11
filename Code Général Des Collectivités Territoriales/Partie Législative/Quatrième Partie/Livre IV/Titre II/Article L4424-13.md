@@ -13,9 +13,9 @@ conditions, à son élaboration.
 
 Le représentant de l'Etat porte à la connaissance du conseil exécutif les
 projets d'intérêt général et les opérations d'intérêt national répondant aux
-conditions fixées en application de l'article L. 121-9 du code de l'urbanisme.
-Le plan prend en compte ces projets et ces opérations et comporte, le cas
-échéant, les dispositions nécessaires à leur réalisation.
+conditions fixées en application des articles L. 121-9 et L. 121-9-1 du code de
+l'urbanisme. Le plan prend en compte ces projets et ces opérations et comporte,
+le cas échéant, les dispositions nécessaires à leur réalisation.
 
 Le plan d'aménagement et de développement durable fait l'objet d'une évaluation
 environnementale dans les conditions définies par les articles L. 121-10 à L.
@@ -27,8 +27,8 @@ puis adopté par l'Assemblée de Corse. Les dispositions du projet de plan prise
 en application de l'article L. 4424-10 font l'objet de délibérations
 particulières et motivées de l'Assemblée de Corse. Le projet ainsi adopté,
 assorti des avis du conseil économique, social et culturel de Corse et du
-conseil des sites de Corse, est soumis à enquête publique dans les conditions
-prévues par les articles L. 123-1 à L. 123-16 du code de l'environnement.
+conseil des sites de Corse, est soumis à enquête publique réalisée conformément
+au chapitre III du titre II du livre Ier du code de l'environnement.
 
 Au vu des résultats de l'enquête publique, le plan d'aménagement et de
 développement durable est approuvé par l'Assemblée de Corse selon les mêmes

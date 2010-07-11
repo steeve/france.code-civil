@@ -69,6 +69,10 @@ fourniture d'informations claires, notamment par la transparence des tarifs et
 des conditions d'utilisation des services de communications électroniques
 accessibles au public ;
 
+12° bis. ― A un niveau élevé de protection de l'environnement et de la santé de
+la population, conjointement avec les ministres chargés de la santé et de
+l'environnement ;
+
 13° Au respect de la plus grande neutralité possible, d'un point de vue
 technologique, des mesures qu'ils prennent ;
 

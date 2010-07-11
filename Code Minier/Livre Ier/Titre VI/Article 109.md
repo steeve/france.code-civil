@@ -7,7 +7,8 @@ pour satisfaire les besoins des consommateurs, l'intérêt économique national 
 celui de la région, des décrets en Conseil d'Etat peuvent, au vu d'une
 évaluation de l'impact sur l'environnement des activités envisagées et après
 consultation de la ou des commissions départementales des carrières concernées
-et enquête publique de deux mois, définir les zones où sont accordés :
+et enquête publique réalisée conformément au III du titre II du livre Ier du
+code de l'environnement, définir les zones où sont accordés :
 
 1° Des autorisations de recherches à défaut du consentement du propriétaire du
 sol, le titulaire d'une telle autorisation bénéficiant des dispositions des

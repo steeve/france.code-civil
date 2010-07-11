@@ -1,19 +1,16 @@
 Article L254-5
 ----
-Toute personne dont le domicile professionnel est situé sur le territoire d'un
-autre Etat membre de la Communauté européenne ou d'un autre Etat partie à
-l'accord sur l'Espace économique européen qui entend exercer sur le territoire
-national les activités mentionnées aux articles L. 254-1 et L. 254-2 doit se
-déclarer auprès de l'autorité administrative.
+Pour toute personne physique ou morale dont le domicile professionnel est situé
+sur le territoire d'un autre Etat membre de l'Union européenne, d'un Etat partie
+à l'accord sur l'Espace économique européen ou de la Confédération suisse qui
+entend exercer ou faire exercer par un employé sur le territoire national les
+activités mentionnées à l'article L. 254-1, l'autorité administrative délivre un
+agrément au demandeur qui justifie :
 
-Le certificat est délivré par l'autorité administrative si le demandeur justifie
-de sa souscription à une police d'assurance et de sa qualification soit au vu
-d'un diplôme ou d'un titre, soit au vu d'une expérience professionnelle, et doit
-être attesté par le service officiel de l'Etat membre.
+1° De la souscription d'une police d'assurance couvrant sa responsabilité civile
+professionnelle pour l'exercice de son activité en France ;
 
-Dans le cas où l'activité est exercée de façon temporaire et occasionnelle en
-France, la vérification des qualifications professionnelles du prestataire doit
-permettre à l'autorité compétente de s'assurer que la prestation ne portera pas
-atteinte à la sécurité ou la santé publiques du fait du manque de qualification
-professionnelle du prestataire, dans les conditions définies à l'article L.
-204-1.
+2° De sa qualification ou de celle de l'employé concerné, attestée par le
+service officiel de l'Etat mentionné au premier alinéa où il exerce
+principalement son activité ou, à défaut, dans les conditions prévues aux 2° et
+3° de l'article L. 254-2 et au I de l'article L. 254-3.

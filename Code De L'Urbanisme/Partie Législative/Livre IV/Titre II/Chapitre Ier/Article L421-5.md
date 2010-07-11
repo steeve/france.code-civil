@@ -13,4 +13,7 @@ compte tenu de l'usage auquel ils sont destinés ;
 c) Du fait qu'ils nécessitent le secret pour des raisons de sûreté ;
 
 d) Du fait que leur contrôle est exclusivement assuré par une autre autorisation
-ou une autre législation.
+ou une autre législation ;
+
+e) De leur nature et de leur implantation en mer, sur le domaine public maritime
+immergé au-delà de la laisse de la basse mer.

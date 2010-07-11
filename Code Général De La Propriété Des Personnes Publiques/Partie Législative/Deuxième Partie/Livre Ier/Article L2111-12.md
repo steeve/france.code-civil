@@ -9,9 +9,10 @@ protection contre les inondations, tous les droits des riverains, des
 propriétaires et des tiers demeurant réservés.
 
 Le classement dans le domaine public fluvial est prononcé, après enquête
-publique, par décision de l'autorité administrative compétente. Il est pris
-après avis des assemblées délibérantes des collectivités territoriales sur le
-territoire desquelles se situe le domaine à classer ainsi que du comité de
+publique réalisée conformément au chapitre III du titre II du livre Ier du code
+de l'environnement, par décision de l'autorité administrative compétente. Il est
+pris après avis des assemblées délibérantes des collectivités territoriales sur
+le territoire desquelles se situe le domaine à classer ainsi que du comité de
 bassin compétent, au cas de classement dans le domaine public fluvial d'une
 collectivité territoriale ou d'un groupement.
 

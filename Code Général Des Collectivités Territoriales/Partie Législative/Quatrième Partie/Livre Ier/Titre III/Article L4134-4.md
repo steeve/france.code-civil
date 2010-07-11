@@ -1,3 +1,4 @@
 Article L4134-4
 ----
-Le conseil économique et social régional établit son règlement intérieur.
+Le conseil économique, social et environnemental régional établit son règlement
+intérieur.

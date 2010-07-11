@@ -15,11 +15,12 @@ chaque station les servitudes radioélectriques et détermine les terrains sur
 lesquels s'exercent ces servitudes.
 
 Le plan est soumis pour avis à l'Agence nationale des fréquences et à enquête
-publique. Il est approuvé par le préfet, après avis des conseils municipaux
-concernés et après que les propriétaires ont été informés des motifs qui
-justifient l'institution de la servitude et le choix de l'emplacement, et mis à
-même, dans un délai qui ne peut être inférieur à trois mois, de présenter leurs
-observations.
+publique réalisée conformément au chapitre III du titre II du livre Ier du code
+de l'environnement . Il est approuvé par le préfet, après avis des conseils
+municipaux concernés et après que les propriétaires ont été informés des motifs
+qui justifient l'institution de la servitude et le choix de l'emplacement, et
+mis à même, dans un délai qui ne peut être inférieur à trois mois, de présenter
+leurs observations.
 
 3° Les servitudes comportent l'obligation de tenir le terrain, les plantations
 et les superstructures à un niveau au plus égal à celui prévu par le plan de

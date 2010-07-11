@@ -17,7 +17,8 @@ de l'expropriation pour cause d'utilité publique ;
 
 b) Etablit le projet de remembrement et en saisit l'autorité administrative qui,
 après avoir vérifié sa compatibilité avec la réglementation de l'urbanisme, le
-soumet à une enquête publique.
+soumet à une enquête publique réalisée conformément au code de l'expropriation
+pour cause d'utilité publique.
 
 Après enquête publique, l'autorité administrative prononce les transferts et
 attributions de propriété. L'acte de l'autorité administrative impose, en tant

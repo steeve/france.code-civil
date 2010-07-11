@@ -3,13 +3,13 @@ Article L561-1
 Sans préjudice des dispositions prévues au 5° de l'article L. 2212-2 et à
 l'article L. 2212-4 du code général des collectivités territoriales, lorsqu'un
 risque prévisible de mouvements de terrain, ou d'affaissements de terrain dus à
-une cavité souterraine ou à une marnière, d'avalanches ou de crues torrentielles
-menace gravement des vies humaines, l'Etat peut déclarer d'utilité publique
-l'expropriation par lui-même, les communes ou leurs groupements, des biens
-exposés à ce risque, dans les conditions prévues par le code de l'expropriation
-pour cause d'utilité publique et sous réserve que les moyens de sauvegarde et de
-protection des populations s'avèrent plus coûteux que les indemnités
-d'expropriation.
+une cavité souterraine ou à une marnière, d'avalanches, de crues torrentielles
+ou à montée rapide ou de submersion marine menace gravement des vies humaines,
+l'Etat peut déclarer d'utilité publique l'expropriation par lui-même, les
+communes ou leurs groupements, des biens exposés à ce risque, dans les
+conditions prévues par le code de l'expropriation pour cause d'utilité publique
+et sous réserve que les moyens de sauvegarde et de protection des populations
+s'avèrent plus coûteux que les indemnités d'expropriation.
 
 Ces dispositions ne s'appliquent pas aux cavités souterraines d'origine
 naturelle ou humaine résultant de l'exploitation passée ou en cours d'une mine.

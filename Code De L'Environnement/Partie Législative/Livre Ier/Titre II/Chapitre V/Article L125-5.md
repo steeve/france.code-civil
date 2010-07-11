@@ -19,6 +19,10 @@ modalités prévues à l'article 3-1 de la loi n° 89-462 du 6 juillet 1989 tend
 à améliorer les rapports locatifs et portant modification de la loi n° 86-1290
 du 23 décembre 1986.
 
+L'état des risques naturels et technologiques, fourni par le bailleur, est joint
+aux baux commerciaux mentionnés aux articles L. 145-1 et L. 145-2 du code de
+commerce.
+
 III.-Le préfet arrête la liste des communes dans lesquelles les dispositions du
 I et du II sont applicables ainsi que, pour chaque commune concernée, la liste
 des risques et des documents à prendre en compte.

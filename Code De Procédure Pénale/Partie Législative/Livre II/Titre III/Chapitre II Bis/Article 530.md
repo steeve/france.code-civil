@@ -1,10 +1,11 @@
 Article 530
 ----
-Le titre mentionné au second alinéa de l'article 529-2 ou au second alinéa de
-l'article 529-5 est exécuté suivant les règles prévues par le présent code pour
-l'exécution des jugements de police. La prescription de la peine commence à
-courir à compter de la signature par le ministère public du titre exécutoire,
-qui peut être individuel ou collectif.
+Le titre mentionné au second alinéa de l'article 529-2, au second alinéa de
+l'article 529-5 ou au second alinéa du III de l'article 529-6 est exécuté
+suivant les règles prévues par le présent code pour l'exécution des jugements de
+police. La prescription de la peine commence à courir à compter de la signature
+par le ministère public du titre exécutoire, qui peut être individuel ou
+collectif.
 
 Dans les trente jours de l'envoi de l'avis invitant le contrevenant à payer
 l'amende forfaitaire majorée, l'intéressé peut former auprès du ministère public
@@ -12,7 +13,7 @@ une réclamation motivée qui a pour effet d'annuler le titre exécutoire en ce 
 concerne l'amende contestée. Cette réclamation reste recevable tant que la peine
 n'est pas prescrite, s'il ne résulte pas d'un acte d'exécution ou de tout autre
 moyen de preuve que l'intéressé a eu connaissance de l'amende forfaitaire
-majorée.S'il s'agit d'une contravention au code de la route, la réclamation
+majorée. S'il s'agit d'une contravention au code de la route, la réclamation
 n'est toutefois plus recevable à l'issue d'un délai de trois mois lorsque l'avis
 d'amende forfaitaire majorée est envoyé par lettre recommandée à l'adresse
 figurant sur le certificat d'immatriculation du véhicule, sauf si le

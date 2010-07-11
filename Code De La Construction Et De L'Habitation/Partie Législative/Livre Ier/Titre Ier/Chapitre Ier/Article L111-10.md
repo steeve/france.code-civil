@@ -1,25 +1,25 @@
 Article L111-10
 ----
-Un décret en Conseil d'Etat détermine :
+Un décret en Conseil d'Etat détermine : -les caractéristiques énergétiques et
+environnementales et la performance énergétique et environnementale, notamment
+au regard des émissions de gaz à effet de serre, de la maîtrise de l'énergie, de
+la production d'énergie renouvelable, de la consommation d'eau et de la
+production de déchets, des bâtiments ou parties de bâtiment existants qui font
+l'objet de travaux, en fonction des catégories de bâtiments, du type de travaux
+envisagés ainsi que du rapport entre le coût de ces travaux et la valeur du
+bâtiment au-delà de laquelle le présent alinéa s'applique ; -les catégories de
+bâtiments ou parties de bâtiments existants qui font l'objet, avant le début des
+travaux, d'une étude de faisabilité technique et économique. Cette étude évalue
+les diverses solutions d'approvisionnement en énergie, dont celles qui font
+appel aux énergies renouvelables ;
 
-- les caractéristiques thermiques et la performance énergétique des bâtiments ou
-parties de bâtiments existants qui font l'objet de travaux, en fonction des
-catégories de bâtiments, du type de travaux envisagés ainsi que du rapport entre
-le coût de ces travaux et la valeur du bâtiment au-delà de laquelle ces
-dispositions s'appliquent ;
+-le contenu et les modalités de réalisation de cette étude ;
 
-- les catégories de bâtiments ou parties de bâtiments existants qui font
-l'objet, avant le début des travaux, d'une étude de faisabilité technique et
-économique. Cette étude évalue les diverses solutions d'approvisionnement en
-énergie, dont celles qui font appel aux énergies renouvelables ;
+-les caractéristiques thermiques que doivent respecter les nouveaux équipements,
+ouvrages ou installations mis en place dans des bâtiments existants, en fonction
+des catégories de bâtiments considérées ;
 
-- le contenu et les modalités de réalisation de cette étude ;
-
-- les caractéristiques thermiques que doivent respecter les nouveaux
-équipements, ouvrages ou installations mis en place dans des bâtiments
-existants, en fonction des catégories de bâtiments considérées ;
-
-- les catégories d'équipements, d'ouvrages ou d'installations visés par le
+-les catégories d'équipements, d'ouvrages ou d'installations visés par le
 précédent alinéa.
 
 Les mesures visant à améliorer les caractéristiques thermiques et la performance

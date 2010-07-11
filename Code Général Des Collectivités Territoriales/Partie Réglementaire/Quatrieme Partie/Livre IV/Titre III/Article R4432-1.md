@@ -1,7 +1,7 @@
 Article R4432-1
 ----
-Le conseil économique et social régional de la Guadeloupe comprend quarante-neuf
-membres, dont :
+Le conseil économique, social et environnemental régional de la Guadeloupe
+comprend quarante-neuf membres, dont :
 
 1° Dix-huit représentants des entreprises et des activités professionnelles non
 salariées de la région, quels que soient la nature de leur activité et leur

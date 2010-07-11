@@ -8,8 +8,8 @@ répartition sont fixées compte tenu de la mesure dans laquelle chacune a rendu
 les travaux nécessaires ou y trouve un intérêt. Le programme définit, en outre,
 les modalités de l'entretien ou de l'exploitation des ouvrages qui peuvent être
 confiés à une association syndicale autorisée à créer. Le programme des travaux
-est soumis à enquête publique par le préfet, selon une procédure prévue par
-décret en Conseil d'Etat.
+est soumis à enquête publique réalisée conformément au chapitre III du titre II
+du livre Ier du code de l'environnement.
 
 L'enquête publique mentionnée à l'alinéa précédent vaut enquête préalable à la
 déclaration d'utilité publique des opérations, acquisitions ou expropriations

@@ -7,5 +7,7 @@ compatibles avec le schéma de cohérence territoriale, il ne peut être approuv
 ou créé que si l'établissement public prévu à l'article L. 122-4 a préalablement
 modifié ou révisé le schéma de cohérence territoriale. La modification ou la
 révision du schéma et l'approbation du document ou la création de l'opération
-d'aménagement font alors l'objet d'une enquête publique unique, organisée par le
-président de l'établissement public prévu à l'article L. 122-4.
+d'aménagement font alors l'objet d'une enquête publique unique réalisée
+conformément au chapitre III du titre II du livre Ier du code de
+l'environnement, organisée par le président de l'établissement public prévu à
+l'article L. 122-4.

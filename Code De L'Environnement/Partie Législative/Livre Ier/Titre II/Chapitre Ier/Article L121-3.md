@@ -1,6 +1,6 @@
 Article L121-3
 ----
-La Commission nationale du débat public est composée de vingt et un membres
+La Commission nationale du débat public est composée de vingt-cinq membres
 nommés pour cinq ans ou pour la durée de leur mandat. Outre son président et
 deux vice-présidents, elle comprend :
 
@@ -34,7 +34,13 @@ et du ministre chargé des transports ;
 9° Deux personnalités qualifiées, dont l'une ayant exercé des fonctions de
 commissaire enquêteur, respectivement nommées par arrêté du Premier ministre sur
 proposition du ministre chargé de l'industrie et du ministre chargé de
-l'équipement.
+l'équipement ;
+
+10° Deux représentants des organisations syndicales représentatives de salariés
+et deux représentants des entreprises ou des chambres consulaires, dont un
+représentant des entreprises agricoles, nommés par arrêté du Premier ministre
+sur proposition des organisations professionnelles respectives les plus
+représentatives.
 
 Le président et les vice-présidents sont nommés par décret.
 

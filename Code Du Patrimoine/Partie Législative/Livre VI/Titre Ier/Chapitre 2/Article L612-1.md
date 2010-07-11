@@ -2,7 +2,7 @@ Article L612-1
 ----
 La commission régionale du patrimoine et des sites, placée auprès du
 représentant de l'Etat dans la région, est compétente notamment dans le cas
-prévu à l'article L. 642-2.
+prévu à l'article L. 642-3.
 
 Elle comprend des personnalités titulaires d'un mandat électif national ou
 local, des représentants de l'Etat et des personnalités qualifiées.
@@ -11,8 +11,7 @@ Sa composition, ses attributions et son mode de fonctionnement sont précisés p
 décret en Conseil d'Etat.
 
 Une section de la commission régionale du patrimoine et des sites est instituée
-pour l'examen des recours prévus par les articles L. 621-31, L. 641-1 et L.
-642-3.
+pour l'examen des recours prévus par les articles L. 621-31 et L. 641-1.
 
 Elle est présidée par le préfet de région ou son représentant. Elle comprend en
 outre des représentants de l'Etat, des personnes titulaires d'un mandat électif
