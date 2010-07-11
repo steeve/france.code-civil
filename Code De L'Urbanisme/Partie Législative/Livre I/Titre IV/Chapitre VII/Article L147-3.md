@@ -5,15 +5,15 @@ d'exposition au bruit est établi pour chacun des aérodromes mentionnés à
 l'article L. 147-2. Ce plan est établi par l'autorité administrative, après
 consultation :
 
--des communes intéressées ;
+― des communes intéressées ;
 
--de l'Autorité de contrôle des nuisances sonores aéroportuaires pour les
-aérodromes mentionnés au I de l'article 1609 quatervicies A du code général des
-impôts, qui recueille au préalable l'avis de la commission consultative de
-l'environnement concernée ;
+― de l'Autorité de contrôle des nuisances aéroportuaires pour les aérodromes
+mentionnés au I de l'article 1609 quatervicies A du code général des impôts, qui
+recueille au préalable l'avis de la commission consultative de l'environnement
+concernée ;
 
--de la commission consultative de l'environnement concernée, lorsqu'elle existe,
-pour les autres aérodromes.
+― de la commission consultative de l'environnement concernée, lorsqu'elle
+existe, pour les autres aérodromes.
 
 Il est soumis à enquête publique réalisée conformément au chapitre III du titre
 II du livre Ier du code de l'environnement.

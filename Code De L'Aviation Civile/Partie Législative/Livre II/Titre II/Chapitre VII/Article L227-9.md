@@ -1,7 +1,7 @@
 Article L227-9
 ----
-L'Autorité de contrôle des nuisances sonores aéroportuaires dispose de services
-qui sont placés sous l'autorité de son président.
+L' Autorité de contrôle des nuisances aéroportuaires dispose de services qui
+sont placés sous l'autorité de son président.
 
 Celui-ci nomme le rapporteur permanent et son suppléant.
 

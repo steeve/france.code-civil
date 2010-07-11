@@ -1,7 +1,7 @@
 Article L227-1
 ----
-L'Autorité de contrôle des nuisances sonores aéroportuaires est une autorité
-administrative indépendante, composée de huit membres nommés en raison de leur
+L'Autorité de contrôle des nuisances aéroportuaires est une autorité
+administrative indépendante, composée de dix membres nommés en raison de leur
 compétence dans les domaines économique, juridique ou technique ou de leur
 connaissance en matière d'environnement, de santé humaine ou de transport aérien
 :
@@ -12,23 +12,29 @@ ses fonctions à plein temps ;
 2° Deux membres respectivement désignés par le président de l'Assemblée
 nationale et par le président du Sénat ;
 
-3° Cinq membres, nommés par décret en conseil des ministres, respectivement
+3° Sept membres, nommés par décret en conseil des ministres, respectivement
 compétents en matière :
 
-- d'acoustique, sur proposition du ministre chargé de l'environnement ;
+-d'acoustique, sur proposition du ministre chargé de l'environnement ;
 
-- de nuisances sonores, sur proposition du ministre chargé de l'environnement ;
+-de nuisances sonores, sur proposition du ministre chargé de l'environnement ;
 
-- de santé humaine, sur proposition du ministre chargé de la santé ;
+- d'émissions atmosphériques de l'aviation, sur proposition du ministre chargé
+de l'aviation civile ;
 
-- d'aéronautique, sur proposition du ministre chargé de l'aviation civile ;
+- d'impact de l'activité aéroportuaire sur l'environnement, sur proposition du
+ministre chargé de l'environnement ;
 
-- de navigation aérienne, sur proposition du ministre chargé de l'aviation
+-de santé humaine, sur proposition du ministre chargé de la santé ;
+
+-d'aéronautique, sur proposition du ministre chargé de l'aviation civile ;
+
+-de navigation aérienne, sur proposition du ministre chargé de l'aviation
 civile.
 
 Le mandat des membres de l'autorité est de six ans. Il n'est pas révocable.
 
-Pour assurer un renouvellement par moitié de l'autorité, quatre membres sont
+Pour assurer un renouvellement par moitié de l'autorité, cinq membres sont
 nommés tous les trois ans.
 
 Sauf démission, il ne peut être mis fin aux fonctions de membre qu'en cas
@@ -46,10 +52,10 @@ Le mandat des membres de l'autorité n'est pas renouvelable. Toutefois, cette
 règle n'est pas applicable aux membres dont le mandat, en application de
 l'alinéa ci-dessus, n'a pas excédé deux ans.
 
-L'autorité ne peut délibérer que si quatre au moins de ses membres sont
-présents. Si elle n'a pu délibérer, une réunion doit se tenir dans un délai
-maximum d'un mois. Elle délibère à la majorité des membres présents. En cas de
-partage égal des voix, celle du président est prépondérante.
+L'autorité ne peut délibérer que si cinq au moins de ses membres sont présents.
+Si elle n'a pu délibérer, une réunion doit se tenir dans un délai maximum d'un
+mois. Elle délibère à la majorité des membres présents. En cas de partage égal
+des voix, celle du président est prépondérante.
 
 Les fonctions de président sont rémunérées et les fonctions de membre de
 l'autorité sont indemnisées dans des conditions fixées par arrêté

@@ -1,8 +1,9 @@
 Article L227-5
 ----
 Pour les aérodromes mentionnés au I de l'article 1609 quatervicies A du code
-général des impôts, l'Autorité de contrôle des nuisances sonores aéroportuaires
-:
+général des impôts, l'Autorité de contrôle des nuisances aéroportuaires :
+
+I. ― Dans le domaine des nuisances sonores :
 
 1° Définit :
 
@@ -66,3 +67,13 @@ liées à cette exploitation. Elle rend publics les résultats de ce contrôle ;
 au 8°, d'une demande de médiation par l'une ou l'autre des parties, par la
 commission consultative de l'environnement mentionnée ci-dessus, par le ministre
 chargé de l'aviation civile ou par le ministre chargé de l'environnement.
+
+II. ― Dans le domaine de la pollution atmosphérique générée par l'aviation,
+l'autorité est chargée de contribuer au débat en matière d'environnement
+aéroportuaire.A ce titre, l'autorité peut formuler des propositions d'études
+pour améliorer les connaissances dans ce domaine et diffuser ces études auprès
+du public ou de toute personne physique ou morale qui en fait la demande.
+
+III. ― L'Autorité de contrôle des nuisances aéroportuaires est consultée sur les
+projets de textes réglementaires susceptibles de donner lieu à des amendes
+administratives au sens de l'article L. 227-4.

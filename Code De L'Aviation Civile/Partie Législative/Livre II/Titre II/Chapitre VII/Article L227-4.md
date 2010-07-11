@@ -1,7 +1,7 @@
 Article L227-4
 ----
-I.-L'Autorité de contrôle des nuisances sonores aéroportuaires prononce une
-amende administrative à l'encontre :
+I.-L'Autorité de contrôle des nuisances aéroportuaires prononce une amende
+administrative à l'encontre :
 
 -soit de la personne physique ou morale exerçant une activité de transport
 aérien public au sens du premier alinéa de l'article L. 330-1,
@@ -19,18 +19,20 @@ ne respectant pas les mesures prises par le ministre chargé de l'aviation civil
 sur un aérodrome fixant :
 
 -des restrictions permanentes ou temporaires d'usage de certains types
-d'aéronefs en fonction de la classification acoustique, de leur capacité en
-sièges ou de leur masse maximale certifiée au décollage ;
+d'aéronefs en fonction de leurs émissions atmosphériques polluantes, de la
+classification acoustique, de leur capacité en sièges ou de leur masse maximale
+certifiée au décollage ;
 
 -des restrictions permanentes ou temporaires apportées à l'exercice de certaines
-activités en raison des nuisances sonores qu'elles occasionnent ;
+activités en raison des nuisances environnementales qu'elles occasionnent ;
 
 -des procédures particulières de décollage ou d'atterrissage en vue de limiter
-les nuisances sonores engendrées par ces phases de vol ;
+les nuisances environnementales engendrées par ces phases de vol ;
 
 -des règles relatives aux essais moteurs ;
 
--des valeurs maximales de bruit à ne pas dépasser.
+-des valeurs maximales de bruit ou d'émissions atmosphériques polluantes à ne
+pas dépasser.
 
 II.-Pour l'exercice de son pouvoir de sanction, et dans les conditions fixées
 par son règlement intérieur, l'autorité bénéficie du concours de sept membres
@@ -51,8 +53,8 @@ aéroportuaire ;
 Ces membres associés et leurs deux suppléants respectifs sont nommés par arrêté
 du ministre chargé de l'aviation civile pour une période de trois ans
 renouvelable. Les membres associés titulaires et leurs suppléants perdent leur
-qualité de membre s'ils perdent la qualité en fonction de laquelle ils ont été
-désignés.
+qualité de membre s'ils perdent la qualité en fonction de leurs émissions
+atmosphériques polluantes, de laquelle ils ont été désignés.
 
 III.-Les manquements aux mesures prévues au I sont constatés par les
 fonctionnaires et agents visés à l'article L. 150-13. Ces manquements font

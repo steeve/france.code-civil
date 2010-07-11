@@ -14,4 +14,4 @@ protection existe.
 III.-Un arrêté du ministre chargé de l'aviation civile définit le volume de
 protection environnementale associé à la procédure concernée, les catégories
 d'aéronefs visées et les cas de dérogation, après avis de l'Autorité de contrôle
-des nuisances sonores aéroportuaires.
+des nuisances aéroportuaires.

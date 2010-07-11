@@ -13,8 +13,8 @@ conditions de survol.
 
 Le bilan de l'enquête publique est porté à la connaissance de la commission
 consultative de l'environnement et de l'Autorité de contrôle des nuisances
-sonores aéroportuaires, qui émettent un avis sur la modification de la
-circulation aérienne envisagée.
+aéroportuaires, qui émettent un avis sur la modification de la circulation
+aérienne envisagée.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent
 article.
