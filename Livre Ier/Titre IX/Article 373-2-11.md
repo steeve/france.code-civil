@@ -16,4 +16,7 @@ droits de l'autre ;
 de l'âge de l'enfant ;
 
 5° Les renseignements qui ont été recueillis dans les éventuelles enquêtes et
-contre-enquêtes sociales prévues à l'article 373-2-12.
+contre-enquêtes sociales prévues à l'article 373-2-12 ;
+
+6° Les pressions ou violences, à caractère physique ou psychologique, exercées
+par l'un des parents sur la personne de l'autre.

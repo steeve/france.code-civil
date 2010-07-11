@@ -37,3 +37,9 @@ désaccord.
 Le juge peut décider des modalités de l'accueil de l'enfant en considération de
 l'intérêt de celui-ci. Si l'intérêt de l'enfant le nécessite ou en cas de
 danger, le juge décide de l'anonymat du lieu d'accueil.
+
+Lorsqu'il fait application des articles 375-2, 375-3 ou 375-5, le juge peut
+également ordonner l'interdiction de sortie du territoire de l'enfant. La
+décision fixe la durée de cette interdiction qui ne saurait excéder deux ans.
+Cette interdiction de sortie du territoire est inscrite au fichier des personnes
+recherchées par le procureur de la République.
