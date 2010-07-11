@@ -1,5 +1,5 @@
 Article L322-26-2-2
 ----
-Les dispositions des cinquième et sixième alinéas de l'article L. 225-102-1 et
-des articles L. 225-251, L. 225-253 et L. 225-254 du code de commerce sont
-applicables aux sociétés d'assurance mutuelles.
+Les dispositions du cinquième alinéa de l'article L. 225-102-1 et des articles
+L. 225-251, L. 225-253 et L. 225-254 du code de commerce sont applicables aux
+sociétés d'assurance mutuelles.

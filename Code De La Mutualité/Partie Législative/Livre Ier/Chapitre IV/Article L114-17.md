@@ -36,8 +36,7 @@ modalités de répartition pour l'année écoulée de la participation aux excé
 ;
 
 h) Des informations mentionnées au cinquième alinéa de l'article L. 225-102-1 du
-code de commerce lorsque les conditions prévues au sixième alinéa du même
-article sont remplies.
+code de commerce.
 
 Le conseil d'administration établit, à la clôture de chaque exercice, les
 comptes consolidés ou combinés, lorsque la mutuelle, l'union ou la fédération
