@@ -1,7 +1,7 @@
 Article L122-8
 ----
-L'organe délibérant de l'établissement public prévu aux articles L. 122-4 et L.
-122-4-1 arrête le projet de schéma et le soumet pour avis :
+L'organe délibérant de l'établissement public prévu à l'article L. 122-4 arrête
+le projet de schéma et le soumet pour avis :
 
 1° Aux personnes publiques associées mentionnées à l'article L. 121-4 ;
 
@@ -11,7 +11,7 @@ L'organe délibérant de l'établissement public prévu aux articles L. 122-4 et
 directement intéressés et aux communes limitrophes ;
 
 4° A la commission prévue à l'article L. 112-1-1 du code rural et de la pêche
-maritime, lorsqu'il a pour conséquence une réduction des surfaces des zones
+maritime, lorsqu'il a pour conséquence une réduction des surfaces des espaces
 agricoles ;
 
 5° Lorsqu'il prévoit la création d'une ou plusieurs unités touristiques

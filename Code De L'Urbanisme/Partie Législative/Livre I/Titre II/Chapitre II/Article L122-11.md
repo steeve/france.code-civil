@@ -4,7 +4,7 @@ A l'issue de l'enquête publique, le schéma de cohérence territoriale,
 éventuellement modifié pour tenir compte des avis qui ont été joints au dossier,
 des observations du public et du rapport du commissaire ou de la commission
 d'enquête, est approuvé par l'organe délibérant de l'établissement public prévu
-aux articles L. 122-4 et L. 122-4-1.
+à l'article L. 122-4.
 
 Le chapitre individualisé valant schéma de mise en valeur de la mer ne peut être
 modifié qu'avec l'accord du préfet.

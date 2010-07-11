@@ -8,7 +8,11 @@ entre l'habitat, l'activité économique et artisanale, et la préservation des
 sites naturels, agricoles et forestiers.
 
 II. ― Il détermine les espaces et sites naturels, agricoles, forestiers ou
-urbains à protéger. Il peut en définir la localisation ou la délimitation.
+urbains à protéger. Il peut en définir la localisation ou la délimitation. Il
+transpose les dispositions pertinentes des chartes de parcs naturels régionaux
+et leurs délimitations cartographiques à une échelle appropriée, afin de
+permettre leur déclinaison dans les plans locaux d'urbanisme ou les documents en
+tenant lieu et les cartes communales.
 
 Il précise les modalités de protection des espaces nécessaires au maintien de la
 biodiversité et à la préservation ou à la remise en bon état des continuités
@@ -79,3 +83,6 @@ IX. Le document d'orientation et d'objectifs peut, sous réserve d'une
 justification particulière, définir des secteurs, situés à proximité des
 transports collectifs existants ou programmés, dans lesquels les plans locaux
 d'urbanisme doivent imposer une densité minimale de construction.
+
+X. - Le document d'orientation et d'objectifs peut préciser les objectifs de
+qualité paysagère.

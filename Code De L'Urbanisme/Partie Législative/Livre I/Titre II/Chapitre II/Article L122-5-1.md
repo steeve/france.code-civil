@@ -1,18 +1,18 @@
 Article L122-5-1
 ----
 Lorsque le préfet constate, notamment du fait d'un nombre important de demandes
-de dérogation émises sur le fondement du quatrième alinéa de l'article L. 122-2,
-que l'absence de schéma de cohérence territoriale nuit gravement à la cohérence
-des politiques publiques d'urbanisme, d'habitat, de développement économique, de
-développement rural, de transports et de déplacements et de protection des
-espaces naturels, agricoles et forestiers, ou à la préservation et à la remise
-en bon état des continuités écologiques ou conduit à une consommation excessive
-de l'espace, ou que le périmètre d'un schéma de cohérence territoriale ne permet
-pas d'atteindre les objectifs définis au premier alinéa du IV de l'article L.
-122-3, il demande aux établissements publics de coopération intercommunale
-compétents en matière de schéma de cohérence territoriale ou aux établissements
-publics prévus à l'article L. 122-4 et aux communes non membres d'un tel
-établissement, susceptibles d'être concernés :
+de dérogation émises sur le fondement de l'article L. 122-2-1 que l'absence de
+schéma de cohérence territoriale nuit gravement à la cohérence des politiques
+publiques d'urbanisme, d'habitat, de développement économique, de développement
+rural, de transports et de déplacements et de protection des espaces naturels,
+agricoles et forestiers, ou à la préservation et à la remise en bon état des
+continuités écologiques ou conduit à une consommation excessive de l'espace, ou
+que le périmètre d'un schéma de cohérence territoriale ne permet pas d'atteindre
+les objectifs définis au premier alinéa du IV de l'article L. 122-3, il demande
+aux établissements publics de coopération intercommunale compétents en matière
+de schéma de cohérence territoriale ou aux établissements publics prévus à
+l'article L. 122-4 et aux communes non membres d'un tel établissement,
+susceptibles d'être concernés :
 
 1° Soit de déterminer un périmètre de schéma de cohérence territoriale ;
 

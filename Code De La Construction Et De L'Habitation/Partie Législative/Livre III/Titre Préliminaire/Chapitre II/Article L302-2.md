@@ -8,14 +8,14 @@ locaux à prendre en compte, sur le territoire de l'établissement public de
 coopération intercommunale, en matière de diversité de l'habitat, de répartition
 équilibrée des différents types de logements, de renouvellement du parc
 immobilier et d'accroissement du nombre de logements et de places d'hébergement,
-nécessaires pour l'application du quatrième alinéa de l'article L. 302-1.
+nécessaires pour l'application du second alinéa du II de l'article L. 302-1.
 
 L'établissement public de coopération intercommunale associe à l'élaboration du
 programme local de l'habitat l'Etat, le cas échéant, le président de
-l'établissement public prévu aux articles L. 122-4 et L. 122-4-1 du code de
-l'urbanisme, les communes et établissements publics compétents en matière de
-plan local d'urbanisme directement concernésainsi que toute autre personne
-morale qu'il juge utile.
+l'établissement public prévu à l'article L. 122-4 du code de l'urbanisme, les
+communes et établissements publics compétents en matière de plan local
+d'urbanisme directement concernésainsi que toute autre personne morale qu'il
+juge utile.
 
 Le projet de programme local de l'habitat, arrêté par l'organe délibérant de
 l'établissement public de coopération intercommunale, est transmis aux communes
@@ -26,7 +26,7 @@ deux mois pour faire connaître leur avis.
 Au vu de ces avis, l'organe délibérant de l'établissement public de coopération
 intercommunale délibère à nouveau sur le projet et le transmet au représentant
 de l'Etat. Celui-ci le soumet pour avis, dans un délai de deux mois, au comité
-régional de l'habitat.
+régional de l'habitat et de l'hébergement.
 
 Le représentant de l'Etat, s'il estime que le projet de programme local de
 l'habitat ne répond pas aux objectifs de répartition équilibrée et diversifiée
@@ -36,9 +36,9 @@ délai d'un mois, des demandes motivées de modifications à l'établissement pu
 de coopération intercommunale, qui en délibère.
 
 En cas d'avis défavorable ou de réserves émises par le comité régional de
-l'habitat sur le projet de programme local de l'habitat, le représentant de
-l'Etat peut adresser, dans un délai d'un mois suivant cet avis, des demandes
-motivées de modifications à l'établissement public de coopération
+l'habitat et de l'hébergement sur le projet de programme local de l'habitat, le
+représentant de l'Etat peut adresser, dans un délai d'un mois suivant cet avis,
+des demandes motivées de modifications à l'établissement public de coopération
 intercommunale, qui en délibère.
 
 L'établissement public adopte le programme local de l'habitat. La délibération

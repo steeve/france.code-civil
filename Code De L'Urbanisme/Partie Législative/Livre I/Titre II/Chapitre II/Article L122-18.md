@@ -86,8 +86,8 @@ Lorsqu'un schéma directeur approuvé avant l'entrée en vigueur de la loi n°
 délai d'un an à compter de l'entrée en vigueur de ladite loi en application du
 troisième alinéa ou un schéma directeur révisé avant le 1er janvier 2003 en
 application du quatrième alinéa est annulé pour vice de forme ou de procédure,
-l'établissement public prévu aux articles L. 122-4 et L. 122-4-1 peut
-l'approuver à nouveau, après enquête publique réalisée conformément au chapitre
-III du titre II du livre Ier du code de l'environnement, dans le délai d'un an à
-compter de la décision juridictionnelle qui l'a annulé, sans mettre le schéma
-directeur en forme de schéma de cohérence territoriale.
+l'établissement public prévu à l'article L. 122-4 peut l'approuver à nouveau,
+après enquête publique réalisée conformément au chapitre III du titre II du
+livre Ier du code de l'environnement, dans le délai d'un an à compter de la
+décision juridictionnelle qui l'a annulé, sans mettre le schéma directeur en
+forme de schéma de cohérence territoriale.

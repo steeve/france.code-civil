@@ -1,8 +1,8 @@
 Article L122-14
 ----
 I. ― Le schéma de cohérence territoriale fait l'objet d'une révision lorsque
-l'établissement public prévu aux articles L. 122-4 et L. 122-4-1 envisage des
-changements portant sur :
+l'établissement public prévu à l'article L. 122-4 envisage des changements
+portant sur :
 
 1° Les orientations définies par le projet d'aménagement et de développement
 durables ;
