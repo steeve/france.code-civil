@@ -1904,6 +1904,29 @@ A l'exclusion du secteur du tourisme.
 Sous réserve de la présentation du certificat d'aptitude à l'exercice de la
 fonction d'assistant professeur arts martiaux en cours de validité.
 
+CQP assistant moniteur motonautique.
+
+Animation de séances de découverte et d'initiation à la pratique du motonautisme
+au moyen du support véhicule nautique à moteur (VNM).
+
+Sous l'autorité d'un référent, le titulaire du CQP encadre :
+
+- 2 VNM maximum ;
+
+- ou 4 VNM maximum à vue du référent.
+
+Le référent est titulaire :
+
+- d'un diplôme d'Etat à compétence motonautique de niveau IV ou supérieur ;
+
+- ou du brevet fédéral jet 2e degré délivré par la Fédération française
+motonautique jusqu'au 28 août 2007.
+
+Le nombre de titulaires du CQP placés sous l'autorité du référent ne peut être
+supérieur à deux ou à un, dans le cas où il encadre 4 VNM à vue.
+
+A l'exclusion du temps scolaire contraint pour le public scolaire.
+
 F.-Diplômes délivrés par le ministère chargé de la santé
 
 
