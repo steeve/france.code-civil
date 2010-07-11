@@ -8,3 +8,6 @@ agricoles et forestiers. Il définit les conditions d'un développement urbain
 maîtrisé et les principes de restructuration des espaces urbanisés, de
 revitalisation des centres urbains et ruraux, de mise en valeur des entrées de
 ville, de valorisation des paysages et de prévention des risques.
+
+Le document d'orientation et d'objectifs assure la cohérence d'ensemble des
+orientations arrêtées dans ces différents domaines.
