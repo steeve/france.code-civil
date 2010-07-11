@@ -1,7 +1,11 @@
 Article L123-5
 ----
-A la demande du commissaire enquêteur ou du président de la commission d'enquête
-et lorsque les spécificités de l'enquête l'exigent, le président du tribunal
-administratif ou le magistrat qu'il délègue peut désigner un expert chargé
-d'assister le commissaire enquêteur ou le président de la commission d'enquête.
-Le coût de cette expertise est à la charge du maître d'ouvrage.
+Ne peuvent être désignées commissaire enquêteur ou membre de la commission
+d'enquête les personnes intéressées au projet à titre personnel ou en raison de
+leurs fonctions, notamment au sein de la collectivité, de l'organisme ou du
+service qui assure la maîtrise d'ouvrage, la maîtrise d'œuvre ou le contrôle de
+l'opération soumise à enquête.
+
+Les dispositions du premier alinéa peuvent être étendues, dans les conditions
+fixées par décret en Conseil d'Etat, à des personnes qui ont occupé ces
+fonctions.

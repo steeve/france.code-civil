@@ -1,19 +1,38 @@
 Article L123-14
 ----
-Le maître d'ouvrage prend en charge les frais de l'enquête, notamment
-l'indemnisation des commissaires enquêteurs et des membres des commissions
-d'enquête, ainsi que les frais qui sont entraînés par la mise à la disposition
-du commissaire enquêteur ou de la commission d'enquête des moyens matériels
-nécessaires à l'organisation et au déroulement de la procédure d'enquête.
+I. ― Pendant l'enquête publique, si la personne responsable du projet, plan ou
+programme visé au I de l'article L. 123-2 estime nécessaire d'apporter à
+celui-ci des modifications substantielles, l'autorité compétente pour ouvrir et
+organiser l'enquête peut, après avoir entendu le commissaire enquêteur ou le
+président de la commission d'enquête, suspendre l'enquête pendant une durée
+maximale de six mois. Cette possibilité de suspension ne peut être utilisée
+qu'une seule fois.
 
-Saisi d'une demande en ce sens par le commissaire enquêteur ou le président de
-la commission d'enquête, le président du tribunal administratif ou le magistrat
-qu'il désigne à cet effet ordonne le versement par le maître d'ouvrage d'une
-provision dont il définit le montant. L'enquête publique ne peut être ouverte
-qu'après le versement de cette provision.
+Pendant ce délai, le nouveau projet, plan ou programme, accompagné de l'étude
+d'impact ou du rapport environnemental intégrant ces modifications, est transmis
+pour avis à l'autorité administrative de l'Etat compétente en matière
+d'environnement prévue, selon les cas, aux articles L. 122-1 et L. 122-7 du
+présent code et à l'article L. 121-12 du code de l'urbanisme. A l'issue de ce
+délai et après que le public a été informé des modifications apportées dans les
+conditions définies à l'article L. 123-10 du présent code, l'enquête est
+prolongée d'une durée d'au moins trente jours.
 
-Un décret en Conseil d'Etat détermine les conditions dans lesquelles, aux fins
-de garantir l'indépendance des commissaires enquêteurs et des membres des
-commissions d'enquête, sont fixées les règles d'indemnisation de ceux-ci et les
-modalités de versement par les maîtres d'ouvrage des sommes correspondantes aux
-intéressés.
+II. ― Au vu des conclusions du commissaire enquêteur ou de la commission
+d'enquête, la personne responsable du projet, plan ou programme visé au I de
+l'article L. 123-2 peut, si elle estime souhaitable d'apporter à celui-ci des
+changements qui en modifient l'économie générale, demander à l'autorité
+organisatrice d'ouvrir une enquête complémentaire portant sur les avantages et
+inconvénients de ces modifications pour le projet et pour l'environnement. Dans
+le cas des projets d'infrastructures linéaires, l'enquête complémentaire peut
+n'être organisée que sur les territoires concernés par la modification.
+
+Dans le cas d'enquête complémentaire, le point de départ du délai pour prendre
+la décision après clôture de l'enquête est reporté à la date de clôture de la
+seconde enquête.
+
+Avant l'ouverture de l'enquête publique complémentaire, le nouveau projet, plan
+ou programme, accompagné de l'étude d'impact ou du rapport environnemental
+intégrant ces modifications, est transmis pour avis à l'autorité administrative
+de l'Etat compétente en matière d'environnement prévue, selon les cas, aux
+articles L. 122-1 et L. 122-7 du présent code et à l'article L. 121-12 du code
+de l'urbanisme.

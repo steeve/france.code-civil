@@ -1,12 +1,13 @@
 Article L2124-4
 ----
-I. - L'accès des piétons aux plages et leur usage libre et gratuit par le public
+I.-L'accès des piétons aux plages et leur usage libre et gratuit par le public
 sont régis par les dispositions de l'article L. 321-9 du code de
 l'environnement.
 
-II. - Les concessions de plage sont accordées ou renouvelées après enquête
-publique. Elles respectent les principes énoncés à l'article L. 321-9 du même
-code.
+II.-Les concessions de plage sont accordées ou renouvelées après enquête
+publique réalisée conformément au chapitre III du titre II du livre Ier du code
+de l'environnement. Elles respectent les principes énoncés à l'article L. 321-9
+du même code.
 
 Tout contrat de concession doit déterminer la largeur de l'espace mentionné au
 dernier alinéa de l'article L. 321-9 du même code en tenant compte des
@@ -21,5 +22,5 @@ mise en concurrence préalable.
 Les concessions de plage et les sous-traités d'exploitation sont portés à la
 connaissance du public par le concessionnaire.
 
-III. - Un décret en Conseil d'Etat fixe les modalités d'application du présent
+III.-Un décret en Conseil d'Etat fixe les modalités d'application du présent
 article.
