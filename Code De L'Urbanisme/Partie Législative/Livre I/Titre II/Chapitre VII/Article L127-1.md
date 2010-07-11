@@ -4,7 +4,7 @@ Le conseil municipal ou l'organe délibérant de l'établissement public de
 coopération intercommunale compétent en matière de plan local d'urbanisme peut,
 par délibération motivée, sous réserve de ne pas porter atteinte à l'économie
 générale du plan d'occupation des sols ou du projet d'aménagement et de
-développement durable du plan local d'urbanisme, délimiter des secteurs à
+développement durables du plan local d'urbanisme, délimiter des secteurs à
 l'intérieur desquels la réalisation de programmes de logements comportant des
 logements locatifs sociaux au sens de l'article L. 302-5 du code de la
 construction et de l'habitation bénéficie d'une majoration du volume

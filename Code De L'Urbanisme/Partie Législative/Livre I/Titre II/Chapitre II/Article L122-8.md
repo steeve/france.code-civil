@@ -2,9 +2,9 @@ Article L122-8
 ----
 Un débat a lieu au sein de l'organe délibérant de l'établissement public prévu à
 l'article L. 122-4 sur les orientations générales du projet d'aménagement et de
-développement mentionné à l'article L. 122-1, au plus tard quatre mois avant
-l'examen du projet de schéma. Dans le cas d'une révision, ce débat peut avoir
-lieu lors de la mise en révision du schéma.
+développement durables mentionné à l'article L. 122-1-3, au plus tard quatre
+mois avant l'examen du projet de schéma. Dans le cas d'une révision, ce débat
+peut avoir lieu lors de la mise en révision du schéma.
 
 Le projet de schéma est arrêté par délibération de l'établissement public prévu
 à l'article L. 122-4 puis transmis pour avis aux communes et aux groupements de

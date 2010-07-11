@@ -30,7 +30,7 @@ Lorsque l'établissement public qui a établi le schéma directeur a été disso
 n'est plus compétent en matière de schéma directeur ou de schéma de cohérence
 territoriale, les communes et les établissements publics de coopération
 intercommunale compétents constituent un établissement public en application de
-l'article L. 122-4.A défaut de la constitution de cet établissement public au
+l'article L. 122-4. A défaut de la constitution de cet établissement public au
 plus tard le 1er janvier 2002, le schéma directeur devient caduc.
 
 Lorsqu'il est fait application de l'article L. 122-15 en l'absence
@@ -63,7 +63,7 @@ prescription de l'élaboration ou de la révision du schéma de cohérence
 territoriale en application des articles L. 122-3 et L. 122-13 dans leur
 rédaction issue de cette loi. Lorsque le projet n'a pas été arrêté à la date
 d'entrée en vigueur de ladite loi, l'élaboration ou la révision est soumise au
-régime juridique défini par le présent chapitre.L'organe délibérant de
+régime juridique défini par le présent chapitre. L'organe délibérant de
 l'établissement public de coopération intercommunale délibère, en application de
 l'article L. 300-2, sur les modalités de la concertation avec la population.
 

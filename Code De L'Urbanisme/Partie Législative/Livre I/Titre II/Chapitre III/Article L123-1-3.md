@@ -1,13 +1,15 @@
 Article L123-1-3
 ----
-Il ne peut, nonobstant toute disposition du plan local d'urbanisme, être exigé
-la réalisation de plus d'une aire de stationnement par logement lors de la
-construction de logements locatifs financés avec un prêt aidé par l'Etat. Les
-plans locaux d'urbanisme peuvent en outre ne pas imposer la réalisation d'aires
-de stationnement lors de la construction de ces logements.
+Le projet d'aménagement et de développement durables définit les orientations
+générales des politiques d'aménagement, d'équipement, d'urbanisme, de protection
+des espaces naturels, agricoles et forestiers, et de préservation ou de remise
+en bon état des continuités écologiques.
 
-L'obligation de réaliser des aires de stationnement n'est pas applicable aux
-travaux de transformation ou d'amélioration de bâtiments affectés à des
-logements locatifs financés avec un prêt aidé par l'Etat, y compris dans le cas
-où ces travaux s'accompagnent de la création de surface hors oeuvre nette, dans
-la limite d'un plafond fixé par décret en Conseil d'Etat.
+Le projet d'aménagement et de développement durables arrête les orientations
+générales concernant l'habitat, les transports et les déplacements, le
+développement des communications numériques, l'équipement commercial, le
+développement économique et les loisirs, retenues pour l'ensemble de
+l'établissement public de coopération intercommunale ou de la commune.
+
+Il fixe des objectifs de modération de la consommation de l'espace et de lutte
+contre l'étalement urbain.
