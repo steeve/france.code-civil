@@ -33,16 +33,23 @@ dans toute société par chacun de ces mandataires durant l'exercice. Il compren
 conséquences sociales et environnementales de son activité ainsi que sur ses
 engagements sociétaux en faveur du développement durable et en faveur de la
 lutte contre les discriminations et de la promotion des diversités. Un décret en
-Conseil d'Etat établit la liste de ces informations en cohérence avec les textes
-européens et internationaux, ainsi que les modalités de leur présentation de
-façon à permettre une comparaison des données. L'alinéa précédent s'applique aux
-sociétés dont les titres sont admis aux négociations sur un marché réglementé
-ainsi qu'aux sociétés dont le total de bilan ou le chiffre d'affaires et le
-nombre de salariés excèdent des seuils fixés par décret en Conseil d'Etat.
-Lorsque la société établit des comptes consolidés, les informations fournies
-sont consolidées et portent sur la société elle-même ainsi que sur l'ensemble de
-ses filiales au sens de l'article L. 233-1 ou les sociétés qu'elle contrôle au
-sens de l'article L. 233-3. Lorsque les filiales ou les sociétés contrôlées sont
+Conseil d'Etat établit deux listes précisant les informations visées au présent
+alinéa ainsi que les modalités de leur présentation, de façon à permettre une
+comparaison des données, selon que la société est ou non admise aux négociations
+sur un marché réglementé. L'alinéa précédent s'applique aux sociétés dont les
+titres sont admis aux négociations sur un marché réglementé ainsi qu'aux
+sociétés dont le total de bilan ou le chiffre d'affaires et le nombre de
+salariés excèdent des seuils fixés par décret en Conseil d'Etat. Lorsque la
+société établit des comptes consolidés, les informations fournies sont
+consolidées et portent sur la société elle-même ainsi que sur l'ensemble de ses
+filiales au sens de l'article L. 233-1 ou les sociétés qu'elle contrôle au sens
+de l'article L. 233-3. Les filiales ou sociétés contrôlées qui dépassent les
+seuils mentionnés à la première phrase du présent alinéa ne sont pas tenues de
+publier les informations mentionnées au cinquième alinéa du présent article dès
+lors que ces informations sont publiées par la société qui les contrôle, au sens
+de l'article L. 233-3, de manière détaillée par filiale ou par société contrôlée
+et que ces filiales ou sociétés contrôlées indiquent comment y accéder dans leur
+propre rapport de gestion. Lorsque les filiales ou les sociétés contrôlées sont
 installées sur le territoire national et qu'elles comportent des installations
 classées soumises à autorisation ou à enregistrement, les informations fournies
 portent sur chacune d'entre elles lorsque ces informations ne présentent pas un
@@ -55,16 +62,17 @@ Conseil d'Etat. Cette vérification donne lieu à un avis qui est transmis à
 l'assemblée des actionnaires ou des associés en même temps que le rapport du
 conseil d'administration ou du directoire.
 
-L'alinéa précédent s'applique à partir de l'exercice clos au 31 décembre 2011
-pour les entreprises dont les titres sont admis aux négociations sur un marché
-réglementé. Il s'applique à partir de l'exercice clos au 31 décembre 2016 pour
-l'ensemble des entreprises concernées par le présent article.
+L'alinéa précédent s'applique à partir de l'exercice qui a été ouvert après le
+31 décembre 2011 pour les entreprises dont les titres sont admis aux
+négociations sur un marché réglementé. Il s'applique à partir de l'exercice clos
+au 31 décembre 2016 pour l'ensemble des entreprises concernées par le présent
+article.
 
 L'avis de l'organisme tiers indépendant comporte notamment une attestation sur
 la présence de toutes les informations devant figurer au regard des obligations
-légales ou réglementaires. Cette attestation est due à partir de l'exercice clos
-au 31 décembre 2011 pour l'ensemble des entreprises concernées par le présent
-article.
+légales ou réglementaires. Cette attestation est due à partir de l'exercice qui
+a été ouvert après le 31 décembre 2011 pour l'ensemble des entreprises
+concernées par le présent article.
 
 Les dispositions des deux derniers alinéas de l'article L. 225-102 sont
 applicables aux informations visées au présent article.
@@ -77,7 +85,7 @@ Ces dispositions ne sont, en outre, pas applicables aux mandataires sociaux ne
 détenant aucun mandat dans une société dont les titres sont admis aux
 négociations sur un marché réglementé.
 
-A partir du 1er janvier 2011, le Gouvernement présente tous les trois ans au
+A partir du 1er janvier 2013, le Gouvernement présente tous les trois ans au
 Parlement un rapport relatif à l'application par les entreprises des
 dispositions visées au cinquième alinéa et aux actions qu'il promeut en France,
 en Europe et au niveau international pour encourager la responsabilité sociétale
