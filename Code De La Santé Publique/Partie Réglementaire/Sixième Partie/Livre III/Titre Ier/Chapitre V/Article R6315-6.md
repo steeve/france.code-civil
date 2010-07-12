@@ -26,8 +26,7 @@ mission, le cahier des charges précise la rémunération forfaitaire des person
 participant aux gardes de permanence des soins ambulatoires et à la régulation
 médicale téléphonique. Cette rémunération forfaitaire peut varier en fonction de
 la sujétion et des contraintes géographiques, dans les limites fixées par arrêté
-des ministres chargés de la santé et de la sécurité sociale. Elle est financée
-par le fonds d'intervention régional mentionné à l'article L. 1435-8.
+des ministres chargés de la santé et de la sécurité sociale.
 
 L'arrêté fixant le cahier des charges régional est pris après avis des comités
 départementaux mentionnés à l'article R. 6313-1, de la commission spécialisée de
