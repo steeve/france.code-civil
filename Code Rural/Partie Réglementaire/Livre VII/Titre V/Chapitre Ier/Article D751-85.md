@@ -24,8 +24,8 @@ déclaration incombe à celui-ci, à l'exclusion du bailleur.
 La déclaration à la caisse peut être faite par la victime ou ses représentants
 jusqu'à l'expiration de la deuxième année qui suit l'accident.
 
-Avis de l'accident est donné immédiatement par la caisse à l'inspecteur
-départemental du travail, de l'emploi et de la politique sociale agricoles.
+Avis de l'accident est donné immédiatement par la caisse à l'inspecteur du
+travail.
 
 Dès qu'elle a eu connaissance d'un accident du travail par quelque moyen que ce
 soit, la caisse est tenue de faire procéder aux constatations nécessaires.

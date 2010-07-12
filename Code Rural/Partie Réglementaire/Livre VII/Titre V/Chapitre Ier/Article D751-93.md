@@ -13,5 +13,4 @@ connaissance et dont a été victime un salarié mis à sa disposition par cette
 entreprise est de vingt-quatre heures. Cette information est transmise par
 lettre recommandée et doit être également communiquée par l'entreprise
 utilisatrice, dans le même délai et les mêmes formes, à la caisse de mutualité
-sociale agricole et au service départemental du travail, de l'emploi et de la
-politique sociale agricoles.
+sociale agricole et à l'inspecteur du travail.

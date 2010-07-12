@@ -2,10 +2,8 @@ Article D723-184
 ----
 L'installation de l'agent comptable dans ses fonctions ainsi que la remise de
 service sont constatées par un procès-verbal dressé par le directeur en présence
-des intéressés, du président du conseil d'administration ou de son représentant,
-du directeur du travail, chef du service régional du travail, de l'emploi et de
-la politique sociale agricoles ou de son représentant et du trésorier-payeur
-général du département ou de son représentant.
+des intéressés, du président du conseil d'administration ou de son représentant
+et du trésorier-payeur général du département ou de son représentant.
 
 En ce qui concerne les caisses pluridépartementales, l'installation de l'agent
 comptable est effectuée en présence du trésorier-payeur général du département

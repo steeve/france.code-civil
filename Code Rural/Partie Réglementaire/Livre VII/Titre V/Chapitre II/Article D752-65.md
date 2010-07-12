@@ -22,8 +22,7 @@ fixé par arrêté du ministre chargé de l'agriculture. Il comporte quatre vole
 groupement auprès duquel est assurée la victime ;
 
 2° Deux sont adressés immédiatement, l'un à la caisse de mutualité sociale
-agricole, l'autre au chef du service départemental de l'inspection du travail,
-de l'emploi, de la politique sociale agricoles ;
+agricole, l'autre au ministre chargé de l'agriculture ;
 
 3° Le dernier est remis à la victime.
 
