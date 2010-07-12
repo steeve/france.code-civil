@@ -7,3 +7,8 @@ d'exercice libéral au dispositif d'aide médicale urgente.
 
 La participation de ceux-ci, comme celle des autres intervenants, au dispositif
 d'aide médicale urgente est déterminée par convention.
+
+La participation des médecins d'exercice libéral à la régulation au sein du
+service d'aide médicale urgente peut être organisée par le directeur général de
+l'agence régionale de santé en dehors des périodes de permanence des soins
+définies à l'article R. 6315-1, si les besoins de la population l'exigent.
