@@ -9,8 +9,8 @@ assurances maladie, invalidité et maternité des membres non salariés des
 professions agricoles, par tout représentant de l'organisme intéressé ayant reçu
 délégation de pouvoir à cet effet, conformément aux statuts dudit organisme. La
 décision est prise après consultation de la commission des chefs des services
-financiers prévue par le décret n° 97-656 du 30 mai 1997 instituant dans chaque
+financiers prévue par le décret n° 2007-686 du 4 mai 2007 instituant dans chaque
 département une commission des chefs des services financiers et des
-représentants des organismes de sécurité sociale pour l'examen de la situation
-des débiteurs retardataires. Les frais afférents à ces opérations sont à la
-charge du débiteur.
+représentants des organismes de sécurité sociale et de l'assurance chômage pour
+l'examen de la situation des débiteurs retardataires. Les frais afférents à ces
+opérations sont à la charge du débiteur.

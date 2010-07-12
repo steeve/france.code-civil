@@ -6,6 +6,4 @@ forfaitaire journalière égale à huit fois 130 % du salaire minimum de croissa
 et compte tenu du nombre de journées de travail que le métayer doit fournir pour
 l'exploitation normale de la ou des propriétés prises en métayage.
 
-Ce nombre est fixé d'accord entre les parties, sauf décision contraire de
-l'inspecteur du service du travail, de l'emploi et de la politique sociale
-agricoles, compte tenu des usages locaux.
+Ce nombre est fixé d'accord entre les parties compte tenu des usages locaux.

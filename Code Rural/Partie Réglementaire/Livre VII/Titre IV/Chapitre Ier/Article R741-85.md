@@ -5,10 +5,6 @@ d'établir le montant des avantages de retraite servant de base au calcul des
 cotisations dues, le montant des cotisations est fixé forfaitairement par la
 caisse chargée du recouvrement.
 
-En cas de carence de la caisse créancière, le forfait est établi par le chef du
-service régional de l'inspection du travail, de l'emploi et de la politique
-sociale agricoles.
-
 Lorsque le débiteur de l'avantage de retraite n'a pas satisfait aux obligations
 prévues aux articles R. 741-80 et R. 741-81, la caisse chargée du recouvrement
 peut fixer, à titre provisionnel, le montant desdites cotisations en fonction

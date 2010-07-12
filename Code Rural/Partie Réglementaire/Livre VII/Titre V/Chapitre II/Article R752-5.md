@@ -7,5 +7,5 @@ chacun des organismes assureurs au 1er octobre précédent.
 
 Pour recenser les effectifs, la caisse de mutualité sociale agricole utilise les
 documents mentionnés aux 1° à 4° de l'article R. 752-45. Elle communique l'état
-recensant ces effectifs au chef du service départemental de l'inspection du
-travail, de l'emploi et de la politique sociale agricoles.
+recensant ces effectifs au directeur régional de l'alimentation, de
+l'agriculture et de la forêt.

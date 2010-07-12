@@ -16,6 +16,5 @@ principal établissement, sauf en ce qui concerne le personnel employé d'une
 manière permanente dans un même département.
 
 La déclaration peut être établie indépendamment de l'employeur par le salarié ou
-assimilé, par les agents de contrôle assermentés des caisses de mutualité
-sociale agricole et par les inspecteurs et contrôleurs du service de
-l'inspection du travail, de l'emploi et de la politique sociale agricoles.
+assimilé et par les agents de contrôle assermentés des caisses de mutualité
+sociale agricole.

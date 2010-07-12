@@ -5,10 +5,6 @@ Lorsque la comptabilité du débiteur des avantages mentionnés à l'article R.
 calcul des cotisations dues, le montant des cotisations est fixé forfaitairement
 par l'organisme chargé du recouvrement.
 
-En cas de carence de l'organisme créancier, le forfait est établi par le chef du
-service régional de l'inspection du travail, de l'emploi et de la politique
-sociale agricoles.
-
 Lorsque le débiteur des avantages mentionnés à l'article R. 741-90 n'a pas
 produit dans le délai prescrit la déclaration prévue à l'article R. 741-91,
 l'organisme de recouvrement peut fixer, à titre provisionnel, le montant des

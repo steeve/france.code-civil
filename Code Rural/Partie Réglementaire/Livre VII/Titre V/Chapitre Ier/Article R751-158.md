@@ -19,10 +19,10 @@ activité ou utilisent les mêmes types de machines ou de procédés.
 Ces dispositions sont prises soit à l'initiative des conseils d'administration
 après consultation du comité technique régional de prévention compétent, soit à
 la demande dudit comité. Elles ne peuvent entrer en application qu'après avoir
-été homologuées par le directeur régional des entreprises, de la concurrence, de
-la consommation, du travail et de l'emploi ou, en cas de refus de celui-ci, par
-le ministre chargé du travail. Ces mesures de prévention doivent tenir compte
-des dispositions des règlements sanitaires départementaux.
+été homologuées par le directeur régional du travail, de l'emploi et de la
+formation professionnelle ou, en cas de refus de celui-ci, par le ministre
+chargé du travail. Ces mesures de prévention doivent tenir compte des
+dispositions des règlements sanitaires départementaux.
 
 Les caisses de mutualité sociale agricole peuvent, dans les conditions prévues à
 l'article L. 751-21, imposer une cotisation supplémentaire à tout employeur qui

@@ -1,20 +1,10 @@
 Article R718-12
 ----
-La commission régionale de conciliation comprend une section à compétence
-régionale et, éventuellement, des sections à compétence départementale ou
-interdépartementale.
-
-La section régionale et chaque section départementale ou interdépartementale
-comprennent :
-
-1° Le préfet de région ou de département ou son représentant, président ;
-
-2° Le chef du service régional du travail, de l'emploi et de la politique
-sociale agricoles ;
-
-3° Le directeur régional du travail, de l'emploi et de la formation
-professionnelle ou son représentant ;
-
-4° Cinq représentants des employeurs ;
-
-5° Cinq représentants des salariés.
+Si parmi les membres de la commission régionale de conciliation désignés dans
+les conditions mentionnées à l'article R. 2522-13 du code du travail ne figurent
+pas cinq représentants des employeurs agricoles et cinq représentants des
+salariés agricoles, le préfet de région désigne des membres supplémentaires de
+façon à porter à cinq le nombre de représentants de chacune de ces catégories.
+Dans le cas mentionné à l'article R. 718-11 du présent code, ces membres
+siégeant en lieu et place des membres mentionnés aux 2° et 3° de l'article R.
+2522-9 du code du travail non issus des professions agricoles.

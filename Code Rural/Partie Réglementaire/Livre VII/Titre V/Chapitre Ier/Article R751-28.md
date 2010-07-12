@@ -6,6 +6,6 @@ tout médecin qui peut en connaître l'existence, prévue à l'article L. 461-6 
 code de la sécurité sociale, est établie par décret pris après avis de la
 Commission supérieure des maladies professionnelles en agriculture.
 
-Les déclarations prévues à cet article sont adressées au ministre chargé de
-l'agriculture par l'intermédiaire du chef du service départemental du travail,
-de l'emploi et de la politique sociale agricoles.
+Une copie des déclarations prévues à cet article est adressée à la caisse de
+mutualité sociale agricole compétente ainsi qu'au ministre chargé de
+l'agriculture.

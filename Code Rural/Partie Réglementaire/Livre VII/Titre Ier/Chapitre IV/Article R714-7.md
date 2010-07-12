@@ -5,9 +5,9 @@ jours suivant le dépôt de la demande. A défaut d'une notification dans ce dé
 l'autorisation est réputée accordée.
 
 Le recours hiérarchique formé contre la décision est porté devant le directeur
-régional du travail, de l'emploi et de la formation professionnelle. Ce recours
-doit, à peine de forclusion, être présenté dans les quinze jours suivant la
-notification de la décision contestée.
+régional des entreprises, de la concurrence, de la consommation, du travail et
+de l'emploi. Ce recours doit, à peine de forclusion, être présenté dans les
+quinze jours suivant la notification de la décision contestée.
 
-La décision du directeur départemental est notifiée au demandeur dans les quinze
+La décision du directeur régional est notifiée au demandeur dans les quinze
 jours de la réception du recours.

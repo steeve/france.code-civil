@@ -31,6 +31,6 @@ par ces derniers dans leur circonscription ;
 7° De dresser, dans les conditions déterminées par le ministre de l'agriculture,
 toutes statistiques relatives aux opérations de l'assurance ;
 
-8° De notifier à l'inspecteur du travail, de l'emploi et de la politique sociale
-agricoles les noms et adresses des assujettis non encore immatriculés à
-l'assurance ou qui n'ont pas fait choix d'un assureur.
+8° D'assurer les opérations préparatoires à l'affiliation d'office, notamment de
+transmettre au directeur régional de l'alimentation, de l'agriculture et de la
+forêt les informations nécessaires à cette affiliation.

@@ -27,7 +27,6 @@ groupement.
 
 Lorsqu'une caisse de mutualité sociale agricole constate qu'un assujetti ne
 s'est pas affilié à l'assurance contre les accidents du travail et les maladies
-professionnelles, elle communique les nom et adresse de cette personne au chef
-du service départemental de l'inspection du travail, de l'emploi et de la
-politique sociale agricoles en vue de son affiliation d'office conformément aux
-dispositions de l'article L. 752-13.
+professionnelles, elle communique les nom et adresse de cette personne au
+directeur régional de l'alimentation, de l'agriculture et de la forêt en vue de
+son affiliation d'office conformément aux dispositions de l'article L. 752-13.

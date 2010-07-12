@@ -5,10 +5,9 @@ l'article L. 718-9 sont ceux dont le volume excède 500 mètres cubes. Les
 chantiers de boisement, de reboisement ou de travaux sylvicoles soumis à la même
 déclaration sont ceux portant sur une surface supérieure à 4 hectares.
 
-La déclaration doit parvenir au service départemental de l'inspection du
-travail, de l'emploi et de la politique sociale agricoles dans le ressort duquel
-se trouve le chantier au plus tard le dernier jour ouvrable précédant le début
-des travaux par lettre recommandée avec accusé de réception, par dépôt au
+La déclaration doit parvenir à l'inspecteur du travail compétent du fait de la
+localisation du chantier au plus tard le dernier jour ouvrable précédant le
+début des travaux par lettre recommandée avec accusé de réception, par dépôt au
 service contre récépissé ou par tout moyen électronique comportant une preuve de
 réception. Une copie de cette déclaration doit parvenir dans le même délai à la
 mairie des communes sur le territoire desquelles est situé le chantier.

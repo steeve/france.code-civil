@@ -11,7 +11,6 @@ caisses et, si ces conventions ont pour objet la fourniture de prestations de
 services par les caisses, les modalités de remboursement par les tiers des frais
 engagés par celles-ci.
 
-Ces conventions sont, dès leur signature, soumises, selon le cas, au contrôle du
-préfet de région ou à celui du ministre chargé de l'agriculture dans les
-conditions prévues aux articles R. 152-2 à R. 152-4 du code de la sécurité
-sociale.
+Ces conventions sont, dès leur signature, soumises au contrôle du ministre
+chargé de l'agriculture dans les conditions prévues aux articles R. 152-2 à R.
+152-4 du code de la sécurité sociale.
