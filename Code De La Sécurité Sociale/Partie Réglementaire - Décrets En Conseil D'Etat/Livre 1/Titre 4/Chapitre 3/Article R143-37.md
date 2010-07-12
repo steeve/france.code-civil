@@ -5,8 +5,9 @@ de l'assurance des accidents du travail est assisté de deux secrétaires géné
 adjoints, dont l'un pour la section compétente pour la législation agricole.
 
 Le secrétaire général est nommé par arrêté conjoint des ministres chargés
-respectivement de la sécurité sociale et de l'agriculture ; il est choisi parmi
-les fonctionnaires de catégorie A.
+respectivement de la sécurité sociale et de l'agriculture ; peut être nommé
+secrétaire général un fonctionnaire de catégorie A ou un agent contractuel de
+niveau équivalent.
 
 Les secrétaires généraux adjoints sont nommés par arrêté du ministre intéressé ;
 ils sont choisis parmi les fonctionnaires de catégorie A ou B.
