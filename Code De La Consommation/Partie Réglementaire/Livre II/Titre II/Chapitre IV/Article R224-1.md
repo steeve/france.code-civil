@@ -31,3 +31,8 @@ d'assurance maladie des travailleurs salariés, la cinquième proposée par le
 conseil d'administration du centre scientifique et technique du bâtiment et la
 sixième, composée de médecins compétents en matière d'aide médicale urgente,
 proposée par le président du Conseil national de l'ordre des médecins.
+
+Le directeur général de l'Institut national de la consommation ou son
+représentant peut participer aux séances de la Commission de la sécurité des
+consommateurs. Il ne prend pas part aux votes sur les avis. Il est, ainsi que
+son représentant, astreint aux règles de secret définies à l'article L. 224-6.

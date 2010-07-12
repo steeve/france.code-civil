@@ -7,9 +7,7 @@ communautaires ayant une incidence sur le droit français de la consommation. Le
 conditions d'étude de ces dossiers sont définies dans l'arrêté portant règlement
 intérieur du Conseil national de la consommation.
 
-Le Conseil national de la consommation comporte des collèges ayant voix
-délibérative qui émettent, ensemble ou séparément, de leur propre initiative ou
-à la demande du ministre chargé de la consommation, des avis sur les questions
+Les avis du Conseil national de la consommation portent sur les questions
 intéressant la consommation de biens et de services publics ou privés, sur les
 projets ou propositions de lois et règlements susceptibles d'avoir une incidence
 sur la consommation ainsi que sur les conditions d'application de ces textes, y

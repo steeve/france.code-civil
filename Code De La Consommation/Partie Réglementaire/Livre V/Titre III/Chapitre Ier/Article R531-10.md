@@ -1,10 +1,10 @@
 Article R531-10
 ----
-Le directeur de l'Institut national de la consommation est nommé par décret pris
-sur le rapport du Premier ministre et du ministre chargé de la consommation. Il
-assure la direction et la gestion de l'établissement.
+Le directeur général de l'Institut national de la consommation est nommé par
+décret pris sur le rapport du Premier ministre et du ministre chargé de la
+consommation. Il assure la direction et la gestion de l'établissement.
 
-Le directeur :
+Le directeur général :
 
 1° Prépare et exécute les décisions du conseil d'administration ;
 
