@@ -4,9 +4,7 @@ Le Haut Conseil des biotechnologies est composé d'un comité scientifique et d'
 comité économique, éthique et social.
 
 Le président du haut conseil et les présidents des comités, ainsi que les
-membres des comités, sont nommés par décret. La nomination du président du haut
-conseil intervient après avis des commissions du Parlement compétentes en
-matière d'agriculture et d'environnement. Le président est un scientifique
+membres des comités, sont nommés par décret. Le président est un scientifique
 choisi en fonction de ses compétences et de la qualité de ses publications. Il
 est membre de droit des deux comités.
 
