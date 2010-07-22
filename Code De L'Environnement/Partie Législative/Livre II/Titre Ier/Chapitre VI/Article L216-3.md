@@ -10,7 +10,7 @@ application :
 1° Les fonctionnaires et agents, assermentés et commissionnés à cet effet dans
 les conditions prévues par décret en Conseil d'Etat, appartenant aux services de
 l'Etat chargés de l'environnement, de l'agriculture, de l'industrie, de
-l'équipement, des transports, de la mer, de la santé, de la défense ;
+l'équipement, des transports, de la mer, de la défense ;
 
 2° Les agents mentionnés à l'article L. 514-5 ;
 
