@@ -9,9 +9,7 @@ janvier 1952 et le 2 juillet 1962 :
 
 Les militaires des armées françaises,
 
-Les membres des forces supplétives françaises possédant la nationalité française
-à la date de la présentation de leur demande ou domiciliés en France à la même
-date,
+Les membres des forces supplétives françaises,
 
 Les personnes civiles possédant la nationalité française à la date de la
 présentation de leur demande qui ont pris part à des actions de feu ou de combat
