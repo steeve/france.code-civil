@@ -1,9 +1,9 @@
 Article L7121-10
 ----
-L'activité d'agent artistique peut être exercée par toute personne, à
-l'exclusion des sociétés anonymes et des sociétés en commandite par actions.
+Il est créé un registre national sur lequel les agents artistiques doivent
+s'inscrire, destiné à informer les artistes et le public ainsi qu'à faciliter la
+coopération entre Etats membres de l'Union européenne et autres Etats parties à
+l'Espace économique européen. L'inscription sur ce registre est de droit.
 
-Cette disposition est applicable à ceux qui, sous l'appellation d'imprésario, de
-manager ou sous toute autre dénomination, reçoivent, au cours d'une même année
-civile, mandat de plus de deux artistes du spectacle de leur procurer des
-engagements.
+Un décret en Conseil d'Etat précise les conditions d'inscription sur le registre
+ainsi que les modalités de sa tenue par l'autorité administrative compétente.

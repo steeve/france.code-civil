@@ -24,8 +24,3 @@ d) Le traitement des informations communiquées, lorsqu'il est réalisé dans un
 pays tiers, garantit un niveau de protection suffisant de la vie privée et des
 libertés et droits fondamentaux des personnes, conformément aux articles 68 et
 69 de la loi n° 78-17 du 6 janvier 1978 mentionnée ci-dessus.
-
-Pour l'application du présent article, les personnes mentionnées aux 1° à 6° de
-l'article L. 561-2, à l'exception des établissements de paiement fournissant
-principalement le service mentionné au 6° du II de l'article L. 314-1,
-constituent une seule et même catégorie professionnelle.

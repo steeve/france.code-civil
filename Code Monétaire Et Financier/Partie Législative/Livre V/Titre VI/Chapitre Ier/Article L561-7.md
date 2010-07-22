@@ -7,9 +7,10 @@ obligations prévues au premier alinéa des articles L. 561-5 et L. 561-6 peuven
 a) Le tiers est une personne mentionnée aux 1° à 6° ou aux 12° ou 13° de
 l'article L. 561-2, située ou ayant son siège social en France ou une personne
 appartenant à une catégorie équivalente sur le fondement d'un droit étranger et
-située dans un pays tiers imposant des obligations équivalentes en matière de
-lutte contre le blanchiment et le financement du terrorisme figurant sur la
-liste prévue au 2° du II de l'article L. 561-9 ;
+située dans un autre Etat membre de l'Union européenne ou dans un pays tiers
+imposant des obligations équivalentes en matière de lutte contre le blanchiment
+et le financement du terrorisme figurant sur la liste prévue au 2° du II de
+l'article L. 561-9 ;
 
 b) La personne assujettie a accès aux informations recueillies par le tiers dans
 les conditions prévues par un décret en Conseil d'Etat.

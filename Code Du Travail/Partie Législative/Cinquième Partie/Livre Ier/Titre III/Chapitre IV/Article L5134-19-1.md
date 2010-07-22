@@ -6,8 +6,8 @@ Le contrat unique d'insertion est constitué par :
 sous-sections 2 des sections 2 et 5 entre l'employeur, le bénéficiaire et :
 
 a) Soit, pour le compte de l'Etat, l'institution mentionnée à l'article L.
-5312-1 ou, selon des modalités fixées par décret, un des organismes visés aux
-1°, 3° et 4° de l'article L. 5311-4 ;
+5312-1 ou, selon des modalités fixées par décret, un des organismes visés aux 1°
+et 3° de l'article L. 5311-4 ;
 
 b) Soit le président du conseil général lorsque cette convention concerne un
 bénéficiaire du revenu de solidarité active financé par le département ;

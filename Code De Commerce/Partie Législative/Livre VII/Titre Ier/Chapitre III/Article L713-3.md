@@ -10,12 +10,9 @@ et pour les représenter à titre de mandataire, des fonctions impliquant des
 responsabilités de direction commerciale, technique ou administrative de
 l'entreprise ou de l'établissement.
 
-II.-Les électeurs à titre personnel mentionnés au 1° du II de l'article L. 713-1
-et les représentants des personnes physiques ou morales mentionnées au 2° du II
-du même article doivent être ressortissants d'un Etat membre de la Communauté
-européenne ou d'un Etat partie à l'accord sur l'Espace économique européen.
-
-Ils doivent, en outre, pour prendre part au vote :
+II. - Les électeurs à titre personnel mentionnés au 1° du II de l'article L.
+713-1 et les représentants des personnes physiques ou morales mentionnées au 2°
+du II du même article doivent, pour prendre part au vote :
 
 1° Remplir les conditions fixées à l'article L. 2 du code électoral, à
 l'exception de la nationalité ;
@@ -39,6 +36,5 @@ compte d'autrui, une entreprise commerciale ou industrielle ou une société
 commerciale ;
 
 5° Ne pas avoir été condamnés à des peines, déchéances ou sanctions prononcées
-en vertu de législations en vigueur dans les Etats membres de la Communauté
-européenne ou dans les Etats parties à l'accord sur l'Espace économique européen
-équivalentes à celles visées aux 2°, 3° et 4°.
+en vertu de législations étrangères équivalentes à celles visées aux 2°, 3° et
+4°.

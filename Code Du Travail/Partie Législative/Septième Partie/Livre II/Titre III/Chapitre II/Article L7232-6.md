@@ -1,8 +1,8 @@
 Article L7232-6
 ----
-Les associations, entreprises et établissements publics mentionnés aux articles
-L. 7232-1 et L. 7232-4 peuvent assurer leur activité selon les modalités
-suivantes :
+Les personnes morales ou les entreprises individuelles mentionnées aux articles
+L. 7232-1, L. 7232-1-1 et L. 7232-1-2 peuvent assurer leur activité selon les
+modalités suivantes :
 
 1° Le placement de travailleurs auprès de personnes physiques employeurs ainsi
 que, pour le compte de ces dernières, l'accomplissement des formalités

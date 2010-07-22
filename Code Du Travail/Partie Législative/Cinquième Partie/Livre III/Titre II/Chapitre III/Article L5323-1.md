@@ -1,9 +1,10 @@
 Article L5323-1
 ----
-Toute personne de droit privé dont l'activité principale consiste à fournir des
-services de placement en fait la déclaration préalable à l'autorité
-administrative.
+Les fonctionnaires et agents chargés du contrôle de l'application du droit du
+travail sont habilités à constater les manquements aux dispositions du chapitre
+Ier.
 
-La fourniture de services de placement est exclusive de toute autre activité à
-but lucratif, à l'exception des services ayant pour objet le conseil en
-recrutement ou en insertion professionnelle.
+Lorsque l'activité de placement est exercée en méconnaissance de ces
+dispositions ou en cas d'atteinte à l'ordre public, l'autorité administrative
+peut, après mise en demeure, ordonner la fermeture de l'organisme en cause pour
+une durée n'excédant pas trois mois.

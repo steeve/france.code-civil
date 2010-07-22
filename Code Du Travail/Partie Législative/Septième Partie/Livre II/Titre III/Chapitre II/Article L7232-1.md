@@ -1,9 +1,12 @@
 Article L7232-1
 ----
-Toute association ou entreprise qui exerce des activités de services à la
-personne est soumise à un agrément selon les modalités prévues par l'article L.
-7232-3.
+Toute personne morale ou entreprise individuelle qui exerce les activités de
+service à la personne mentionnées ci-dessous est soumise à agrément délivré par
+l'autorité compétente suivant des critères de qualité :
 
-Sont également soumis à agrément les centres communaux et intercommunaux
-d'action sociale lorsqu'ils assurent une activité de garde d'enfants de moins de
-trois ans à domicile.
+1° La garde d'enfants au-dessous d'une limite d'âge fixée par arrêté conjoint du
+ministre de l'emploi et du ministre chargé de la famille ;
+
+2° Les activités relevant du 2° de l'article L. 7231-1, à l'exception des
+activités dont la liste est définie par décret et qui ne mettent pas en cause la
+sécurité des personnes.

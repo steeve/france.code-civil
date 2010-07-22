@@ -1,4 +1,4 @@
 Article L712-2
 ----
-Il est pourvu aux dépenses ordinaires des chambres de commerce et d'industrie au
-moyen d'une taxe additionnelle à la taxe professionnelle.
+Il est pourvu aux dépenses ordinaires du réseau au moyen des impositions de
+toute nature affectées aux chambres de commerce et d'industrie de région.

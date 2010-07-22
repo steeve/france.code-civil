@@ -15,7 +15,7 @@ bénéfices industriels et commerciaux lorsque ce logement est compris dans :
 1° Un établissement mentionné aux 6° ou 7° du I de l'article L. 312-1 du code de
 l'action sociale et des familles, une résidence avec services pour personnes
 âgées ou handicapées ayant obtenu l'agrément " qualité " visé à l'article L.
-7232-3 du code du travail ou l'ensemble des logements affectés à l'accueil
+7232-1 du code du travail ou l'ensemble des logements affectés à l'accueil
 familial salarié de personnes âgées ou handicapées, prévu par les articles L.
 444-1 à L. 444-9 du codede l'action sociale et des familles géré par un
 groupement de coopération sociale ou médico-sociale ;

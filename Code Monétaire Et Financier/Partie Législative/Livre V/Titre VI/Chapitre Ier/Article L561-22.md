@@ -11,10 +11,10 @@ lorsqu'ils ont communiqué des informations au service mentionné à l'article L
 561-23 en application de l'article L. 561-26 ;
 
 b) Les autorités de contrôle qui ont transmis des informations au service
-mentionné à l'article L. 561-23 en application de l'article L. 561-27 ;
+mentionné à l'article L. 561-23 en application du II de l'article L. 561-30 ;
 
 c) Les personnes qui ont transmis des informations à ce service en application
-de l'article L. 561-30.
+de l'article L. 561-27 et du III de l'article L. 561-30 ;
 
 II.-Aucune action en responsabilité civile ne peut être intentée ni aucune
 sanction professionnelle prononcée contre :
@@ -28,10 +28,10 @@ au service mentionné à l'article L. 561-23 en application de l'article L. 561-
 ;
 
 b) Les autorités de contrôle qui ont transmis des informations au service
-mentionné à l'article L. 561-23 en application de l'article L. 561-27 ;
+mentionné à l'article L. 561-23 en application du II de l'article L. 561-30 ;
 
 c) Les personnes qui ont transmis des informations à ce service en application
-de l'article L. 561-30.
+de l'article L. 561-27 et du III de l'article L. 561-30.
 
 En cas de préjudice résultant directement d'une telle déclaration ou
 communication, l'Etat répond du dommage subi.
@@ -60,5 +60,5 @@ France conformément à l'article L. 312-1 du présent code.
 
 Il en va de même pour des opérations réalisées par la personne ainsi désignée
 lorsque le client a fait l'objet d'une déclaration mentionnée à l'article L.
-561-15 et qu'elle ne respecte pas les obligations de vigilance prévues à
-l'article L. 561-10.
+561-15 et qu'elle a respecté les obligations de vigilance prévues au I de
+l'article L. 561-10-2.

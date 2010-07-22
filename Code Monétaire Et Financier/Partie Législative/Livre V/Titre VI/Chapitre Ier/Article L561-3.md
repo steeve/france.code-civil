@@ -46,3 +46,13 @@ donnent des consultations juridiques, à moins qu'elles n'aient été fournies �
 des fins de blanchiment de capitaux ou de financement du terrorisme ou en
 sachant que le client les demande aux fins de blanchiment de capitaux ou de
 financement du terrorisme.
+
+IV.-Les experts-comptables ainsi que les salariés autorisés à exercer la
+profession d'expert-comptable en application des articles 83 ter et 83 quater de
+l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre des
+experts-comptables et réglementant le titre et la profession d'expert-comptable
+ne sont pas soumis à la section 4 du présent chapitre lorsqu'ils donnent des
+consultations juridiques conformément à l'article 22 de l'ordonnance précitée, à
+moins que ces consultations n'aient été fournies à des fins de blanchiment de
+capitaux ou de financement du terrorisme ou en sachant que le client les demande
+aux fins de blanchiment de capitaux ou de financement du terrorisme.

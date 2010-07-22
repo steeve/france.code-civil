@@ -1,25 +1,22 @@
 Article L713-2
 ----
 I.-Au titre de leur siège social et de l'ensemble de leurs établissements situés
-dans la circonscription de la chambre de commerce et d'industrie, les personnes
-physiques ou morales mentionnées aux 1° et 2° du II de l'article L. 713-1
-disposent :
+dans la circonscription de la chambre de commerce et d'industrie territoriale,
+les personnes physiques ou morales mentionnées aux 1° et 2° du II de l'article
+L. 713-1 disposent d'un représentant supplémentaire lorsqu'elles emploient dans
+la circonscription de la chambre de commerce et d'industrie territoriale de dix
+à quarante-neuf salariés, et d'un deuxième lorsqu'elles emploient dans la même
+circonscription de cinquante à quatre-vingt-dix-neuf salariés.
 
-1° D'un représentant supplémentaire, lorsqu'elles emploient dans la
-circonscription de la chambre de commerce et d'industrie de dix à quarante-neuf
-salariés ;
+S'y ajoutent :
 
-2° De deux représentants supplémentaires, lorsqu'elles emploient dans la
-circonscription de cinquante à cent quatre-vingt-dix-neuf salariés ;
+1° Un représentant supplémentaire à partir du centième salarié par tranche de
+cent salariés lorsqu'elles emploient dans la circonscription de cent à neuf cent
+quatre-vingt-dix-neuf salariés ;
 
-3° De trois représentants supplémentaires, lorsqu'elles emploient dans la
-circonscription de deux cents à quatre cent quatre-vingt-dix-neuf salariés ;
-
-4° De quatre représentants supplémentaires, lorsqu'elles emploient dans la
-circonscription de cinq cents à mille neuf cent quatre-vingt-dix-neuf salariés ;
-
-5° De cinq représentants supplémentaires, lorsqu'elles emploient dans la
-circonscription deux mille salariés ou plus.
+2° A partir du millième salarié, un représentant supplémentaire par tranche de
+deux cent cinquante salariés lorsqu'elles emploient dans la circonscription plus
+de mille salariés.
 
 II.-Toutefois, les personnes physiques énumérées aux a et b du 1° du II de
 l'article L. 713-1 dont le conjoint bénéficie des dispositions du c du 1° du II

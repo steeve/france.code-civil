@@ -1,12 +1,12 @@
 Article L121-18
 ----
-Sans préjudice des informations prévues par les articles L. 111-1 et L. 113-3
-ainsi que de celles prévues pour l'application de l'article L. 214-1, l'offre de
-contrat doit comporter les informations suivantes :
+Sans préjudice des informations prévues par les articles L. 111-1, L. 111-2 et
+L. 113-3 ainsi que de celles prévues pour l'application de l'article L. 214-1,
+l'offre de contrat doit comporter les informations suivantes :
 
 1° Le nom du vendeur du produit ou du prestataire de service, des coordonnées
-téléphoniques permettant d'entrer effectivement en contact avec lui , son
-adresse ou, s'il s'agit d'une personne morale, son siège social et, si elle est
+téléphoniques permettant d'entrer effectivement en contact avec lui, son adresse
+ou, s'il s'agit d'une personne morale, son siège social et, si elle est
 différente, l'adresse de l'établissement responsable de l'offre ;
 
 2° Le cas échéant, les frais de livraison ;

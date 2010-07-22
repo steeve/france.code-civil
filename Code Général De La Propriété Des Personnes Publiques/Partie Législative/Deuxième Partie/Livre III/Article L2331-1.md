@@ -20,4 +20,7 @@ groupements et leurs établissements publics, conformément au 4° de l'article 
 1311-3 du code général des collectivités territoriales ;
 
 6° Aux baux emphytéotiques passés par les établissements publics de santé,
-conformément à l'article L. 6148-2 du code de la santé publique.
+conformément à l'article L. 6148-2 du code de la santé publique ;
+
+7° Aux baux emphytéotiques passés par l'Etat ou ses établissements publics
+conformément à l'article L. 2341-1.

@@ -10,6 +10,11 @@ dans le cadre ainsi tracé, de déterminer leurs conditions de travail,
 d'embaucher du personnel et de se substituer des remplaçants dans leur activité
 à leurs frais et sous leur entière responsabilité.
 
+La mission précise, le cas échéant, les normes de gestion et d'exploitation du
+fonds à respecter et les modalités du contrôle susceptible d'être effectué par
+le mandant. Ces clauses commerciales ne sont pas de nature à modifier la nature
+du contrat.
+
 Le gérant-mandataire est immatriculé au registre du commerce et des sociétés et,
 le cas échéant, au répertoire des métiers. Le contrat est mentionné à ce
 registre ou à ce répertoire et fait l'objet d'une publication dans un journal

@@ -1,5 +1,6 @@
 Article L761-7
 ----
-A titre exceptionnel, l'autorité administrative compétente peut accorder des
-dérogations aux interdictions prévues aux articles L. 761-5 et L. 761-6, dans
-des conditions fixées par décret en Conseil d'Etat.
+L'autorité administrative compétente statue sur les demandes d'autorisation qui
+lui sont présentées en vertu de l'article L. 761-5 en prenant en considération
+les effets du projet en matière d'aménagement du territoire et de développement
+durable.

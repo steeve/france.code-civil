@@ -1,12 +1,12 @@
 Article L561-26
 ----
 I.-Pour l'application du présent chapitre, le service mentionné à l'article L.
-561-23 peut demander que les pièces conservées en application du III de
-l'article L. 561-10 et des articles L. 561-12 et L. 561-13 lui soient
-communiquées quel que soit le support utilisé pour leur conservation et dans les
-délais qu'il fixe. Ce droit s'exerce, sur pièces ou sur place pour les personnes
-mentionnées aux 1° à 7° de l'article L. 561-2 et sur pièces pour les autres
-personnes mentionnées à cet article, dans le but de reconstituer l'ensemble des
+561-23 peut demander que les pièces conservées en application du II de l'article
+L. 561-10-2 et des articles L. 561-12 et L. 561-13 lui soient communiquées quel
+que soit le support utilisé pour leur conservation et dans les délais qu'il
+fixe. Ce droit s'exerce, sur pièces ou sur place pour les personnes mentionnées
+aux 1° à 7° de l'article L. 561-2 et sur pièces pour les autres personnes
+mentionnées à cet article, dans le but de reconstituer l'ensemble des
 transactions faites par une personne physique ou morale liées à une opération
 ayant fait l'objet d'une déclaration mentionnée à l'article L. 561-15 ou à une
 information reçue au titre des articles L. 561-27, L. 561-30 ou L. 561-31, ainsi

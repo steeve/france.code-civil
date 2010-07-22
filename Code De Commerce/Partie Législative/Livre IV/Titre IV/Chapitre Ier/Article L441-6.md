@@ -1,7 +1,7 @@
 Article L441-6
 ----
-Tout producteur, prestataire de services, grossiste ou importateur est tenu de
-communiquer ses conditions générales de vente à tout acheteur de produits ou
+I. - Tout producteur, prestataire de services, grossiste ou importateur est tenu
+de communiquer ses conditions générales de vente à tout acheteur de produits ou
 tout demandeur de prestations de services qui en fait la demande pour une
 activité professionnelle. Celles-ci constituent le socle de la négociation
 commerciale. Elles comprennent :
@@ -67,3 +67,19 @@ paiement mentionnés aux huitième et onzième alinéas, le fait de ne pas indiq
 dans les conditions de règlement les mentions figurant à la première phrase du
 douzième alinéa ainsi que le fait de fixer un taux ou des conditions
 d'exigibilité selon des modalités non conformes aux dispositions du même alinéa.
+
+II. - Lorsque le prix d'un service ou d'un type de service ne peut être
+déterminé a priori ou indiqué avec exactitude, le prestataire de services est
+tenu de communiquer au destinataire qui en fait la demande la méthode de calcul
+du prix permettant de vérifier ce dernier, ou un devis suffisamment détaillé.
+
+III. - Tout prestataire de services est également tenu à l'égard de tout
+destinataire de prestations de services des obligations d'information définies à
+l'article L. 111-2 du code de la consommation.
+
+Cette obligation ne s'applique pas aux services mentionnés aux livres Ier à III
+et au titre V du livre V du code monétaire et financier ainsi qu'aux opérations
+pratiquées par les entreprises régies par le code des assurances, par les
+mutuelles et unions régies par le livre II du code de la mutualité et par les
+institutions de prévoyance et unions régies par le titre III du livre IX du code
+de la sécurité sociale.

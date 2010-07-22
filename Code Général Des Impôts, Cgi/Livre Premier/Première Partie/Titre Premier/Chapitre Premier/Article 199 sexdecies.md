@@ -4,11 +4,13 @@ Article 199 sexdecies
 différentes catégories, ouvrent droit à une aide les sommes versées par un
 contribuable domicilié en France au sens de l'article 4 B pour :
 
-a) L'emploi d'un salarié qui rend des services définis aux articles D. 129-35 et
-D. 129-36 du code du travail ;
+a) L'emploi d'un salarié qui rend des services définis aux articles L. 7231-1 et
+D. 7231-1 du code du travail ;
 
-b) Le recours à une association, une entreprise ou un organisme ayant reçu un
-agrément délivré par l'Etat et qui rend des services mentionnés au a ;
+b) Le recours à une association, une entreprise ou un organisme déclaré en
+application de l'article L. 7232-1-1 du même code et qui rend exclusivement des
+services mentionnés au a du présent 1 ou qui bénéficie d'une dérogation à la
+condition d'activité exclusive selon l'article L. 7232-1-2 du code du travail ;
 
 c) Le recours à un organisme à but non lucratif ayant pour objet l'aide à
 domicile et habilité au titre de l'aide sociale ou conventionné par un organisme
@@ -53,10 +55,10 @@ majorations prévues au présent alinéa et le montant total des dépenses ne pe
 excéder 18 000 €.
 
 4. L'aide prend la forme d'un crédit d'impôt sur le revenu égal à 50 % des
-dépenses mentionnées au 3 au titre des services définis à l'article D. 129-35 du
-code du travail, supportées au titre de l'emploi, à leur résidence, d'un salarié
-ou en cas de recours à une association, une entreprise ou un organisme,
-mentionné aux b ou c du 1 par :
+dépenses mentionnées au 3 au titre des services définis aux articles L. 7231-1
+et D. 7231-1 du code du travail, supportées au titre de l'emploi, à leur
+résidence, d'un salarié ou en cas de recours à une association, une entreprise
+ou un organisme, mentionné aux b ou c du 1 par :
 
 a) Le contribuable célibataire, veuf ou divorcé qui exerce une activité
 professionnelle ou est inscrit sur la liste des demandeurs d'emplois prévue à

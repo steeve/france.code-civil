@@ -1,10 +1,18 @@
 Article L711-11
 ----
-L'assemblée des chambres françaises de commerce et d'industrie représente,
-auprès de l'Etat et de l'Union européenne ainsi qu'au plan international, les
-intérêts nationaux de l'industrie, du commerce et des services.
+Il est créé une chambre de commerce et d'industrie dénommée " chambre de
+commerce et d'industrie de région Paris-Ile-de-France " dont la circonscription
+correspond à l'ensemble de la région d'Ile-de-France.
 
-A ce titre, elle donne des avis soit à la demande des pouvoirs publics, soit de
-sa propre initiative sur toutes les questions relatives à l'industrie, au
-commerce, aux services, au développement économique, à la formation
-professionnelle, à l'aménagement du territoire et à l'environnement.
+Les chambres de commerce et d'industrie ainsi que les délégations existant dans
+la région d'Ile-de-France sont rattachées à la chambre de commerce et
+d'industrie de région Paris-Ile-de-France en tant que chambres de commerce et
+d'industrie départementales d'Ile-de-France ne disposant pas du statut juridique
+d'établissement public.
+
+Toutefois, par dérogation aux dispositions prévues au deuxième alinéa, les
+chambres de commerce et d'industrie de la Seine-et-Marne et de l'Essonne peuvent
+décider de conserver le statut juridique d'établissement public dans des
+conditions définies par décret. Elles deviennent alors des chambres de commerce
+et d'industrie territoriales et exercent la totalité des compétences prévues par
+les articles L. 711-1 à L. 711-4.

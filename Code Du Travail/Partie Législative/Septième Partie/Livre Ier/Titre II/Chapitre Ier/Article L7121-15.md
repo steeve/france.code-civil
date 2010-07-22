@@ -1,5 +1,6 @@
 Article L7121-15
 ----
-Le fonds de commerce d'agent artistique ne peut être cédé, à titre onéreux ou
-gratuit, qu'au profit de personnes qui ont préalablement obtenu la licence
-prévue à l'article L. 7121-9.
+Le fait, pour un agent artistique, de produire un spectacle vivant sans être
+titulaire d'une licence d'entrepreneur de spectacles vivants, en méconnaissance
+des dispositions de l'article L. 7121-12, est puni, en cas de récidive, d'un
+emprisonnement de six mois et d'une amende de 3 750 euros.
