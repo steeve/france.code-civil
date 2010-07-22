@@ -87,7 +87,9 @@ b sexies. (Abrogé) ;
 
 b septies. les travaux sylvicoles et d'exploitation forestière réalisés au
 profit d'exploitants agricoles, y compris les travaux d'entretien des sentiers
-forestiers ;
+forestiers, ainsi que les travaux de prévention des incendies de forêt menés par
+des associations syndicales autorisées ayant pour objet la réalisation de ces
+travaux ;
 
 b octies. les abonnements souscrits par les usagers afin de recevoir :
 
