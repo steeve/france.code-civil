@@ -32,14 +32,15 @@ d'adoption prévu à l'article L. 225-2 du code de l'action sociale et des
 familles ;
 
 6° Aux autorités compétentes désignées par arrêté du ministre de la justice,
-lorsque celles-ci reçoivent, en application des articles 8 et 56 de la directive
-2005 / 36 / CE du Parlement européen et du Conseil du 7 septembre 2005 relative
-à la reconnaissance des qualifications professionnelles, une demande de
-communication des sanctions pénales ou disciplinaires prononcées à l'encontre
-d'un professionnel de la part d'une autorité compétente d'un autre Etat membre
-de la Communauté européenne ou partie à l'accord sur l'Espace économique
-européen chargée d'appliquer, dans celui-ci, des restrictions d'exercice
-concernant cette activité professionnelle.
+lorsque celles-ci reçoivent, en application d'une convention internationale ou
+d'un acte pris sur le fondement du traité sur le fonctionnement de l'Union
+européenne, une demande de communication des sanctions pénales ou disciplinaires
+prononcées à l'encontre d'un professionnel, de la part d'une autorité compétente
+d'un autre Etat partie à ladite convention, d'un Etat membre de l'Union
+européenne ou d'un Etat partie à l'accord sur l'Espace économique européen
+chargée d'appliquer des mesures restreignant l'exercice d'une activité, fondées,
+dans cet Etat, sur l'existence de sanctions pénales ou disciplinaires prononcées
+à l'encontre de ce professionnel.
 
 Les dirigeants de personnes morales de droit public ou privé exerçant auprès des
 mineurs une activité culturelle, éducative ou sociale au sens de l'article L.
@@ -49,9 +50,7 @@ recrutement d'une personne, lorsque ce bulletin ne porte la mention d'aucune
 condamnation. La liste de ces personnes morales est déterminée par décret du
 ministre de la justice et du ou des ministres intéressés.
 
-Le bulletin n° 2 du casier judiciaire est transmis, en application de la
-directive 2005 / 36 / CE précitée, aux autorités compétentes chargées
-d'appliquer, dans un Etat membre de la Communauté européenne ou partie à
-l'accord sur l'Espace économique européen, des restrictions d'exercice d'une
-activité professionnelle fondées, dans cet Etat, sur l'existence de sanctions
-pénales ou disciplinaires.
+Le bulletin n° 2 du casier judiciaire est transmis, en application d'une
+convention internationale ou d'un acte pris sur le fondement du traité sur le
+fonctionnement de l'Union européenne, aux autorités compétentes d'un autre Etat
+visées au 6° du présent article.
