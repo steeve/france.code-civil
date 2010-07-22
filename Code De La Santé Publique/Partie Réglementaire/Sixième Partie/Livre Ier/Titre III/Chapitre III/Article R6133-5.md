@@ -1,24 +1,28 @@
 Article R6133-5
 ----
-Après sa constitution, le groupement peut admettre de nouveaux membres, par
-décision de l'assemblée générale. Cette décision est requise à l'égard de tout
-nouvel établissement de santé constitué par absorption ou par fusion d'un ou
-plusieurs établissements de santé membres du groupement.
+I. - L'assemblée générale vote le budget prévisionnel du groupement de
+coopération sanitaire de droit privé ou l'état des prévisions des recettes et
+des dépenses du groupement de coopération sanitaire de droit public.
 
-En cours d'exécution de la convention, tout membre peut se retirer du groupement
-à l'expiration d'un exercice budgétaire, sous réserve qu'il ait notifié au
-groupement son intention au moins six mois avant la fin de l'exercice et que les
-modalités de ce retrait soient conformes aux stipulations de la convention
-constitutive.
+Lors de la clôture de l'exercice, le résultat de l'exercice est affecté dans les
+conditions définies par le régime comptable auquel est soumis le groupement.
 
-Lorsque le groupement comporte au moins trois membres, l'exclusion de l'un
-d'entre eux peut être prononcée par l'assemblée générale en cas de manquements
-aux obligations définies par la présente section, la convention constitutive
-ainsi que par les délibérations de l'assemblée générale. L'exclusion peut
-également être prononcée en cas d'ouverture d'une procédure de sauvegarde, de
-redressement ou de liquidation judiciaire. L'exclusion ne peut être prononcée
-qu'après audition du représentant du membre concerné selon les modalités fixées
-par la convention constitutive.
+Le compte financier des groupements de coopération sanitaire comportant au moins
+un établissement public de santé parmi ses membres doit être approuvé au plus
+tard le 30 mars de l'année suivant l'exercice suivant l'exercice auquel il se
+rapporte. Ce compte financier est annexé au compte financier de chacun des
+établissements ou services de santé membres.
 
-L'adhésion d'un nouveau membre, le retrait et l'exclusion d'un membre donnent
-lieu à un avenant à la convention constitutive.
+II. - Lorsque le groupement est soumis aux règles de la comptabilité privée, le
+résultat peut être réparti dans des conditions définies par la convention
+constitutive.A défaut, le résultat excédentaire est affecté en tout ou partie à
+la constitution de réserves, à la couverture des charges de fonctionnement de
+l'exercice suivant ou au financement des dépenses d'investissement. Le résultat
+déficitaire est reporté ou prélevé sur les réserves.
+
+III. - A défaut de vote de l'état des prévisions des recettes et des dépenses,
+l'administrateur prend toutes les mesures nécessaires pour qu'ait lieu une
+nouvelle délibération de l'assemblée générale.A défaut d'accord dans un délai
+d'un mois à compter de la première délibération, il saisit le directeur général
+de l'agence régionale de santé qui arrête l'état des prévisions des recettes et
+des dépenses pour l'année à venir.

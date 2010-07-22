@@ -1,18 +1,30 @@
 Article R6133-12
 ----
-L'assemblée générale est composée de l'ensemble des membres du groupement.
+I.-Lorsque le directeur général de l'agence régionale de santé accorde, pour la
+première fois, une autorisation d'activités de soins à un groupement de
+coopération sanitaire dont il a, antérieurement, approuvé et publié la
+convention constitutive, il érige dans la même décision le groupement en
+établissement de santé et inscrit l'échelle tarifaire qui lui est applicable
+dans les conditions prévues respectivement aux articles L. 6133-7 et L. 6133-8.
 
-L'assemblée se réunit sur convocation de l'administrateur du groupement aussi
-souvent que l'intérêt du groupement l'exige et au moins une fois par an. Elle se
-réunit de droit à la demande d'au moins un tiers de ses membres sur un ordre du
-jour déterminé. La convocation indique l'ordre du jour et le lieu de réunion.
+II.-Lorsqu'un groupement de coopération sanitaire se crée en ayant pour objet
+notamment d'être titulaire d'une autorisation d'activités de soins, le directeur
+général de l'agence régionale de santé décide aux termes d'un même acte :
 
-Sauf mention contraire de la convention constitutive, l'assemblée générale est
-convoquée par écrit quinze jours au moins à l'avance et, en cas d'urgence,
-quarante-huit heures au moins à l'avance.
+1° L'approbation de la convention constitutive du groupement ;
 
-Le vote par procuration est autorisé lorsque le groupement compte plus de deux
-membres. Aucun membre ne peut cependant détenir plus d'un mandat à ce titre.
+2° La délivrance d'une autorisation d'activités de soins à ce groupement dans
+les conditions prévues au septième alinéa de l'article L. 1432-2 ;
 
-A défaut de stipulations contraires de la convention constitutive, la présidence
-de l'assemblée générale est assurée par l'administrateur du groupement.
+3° L'érection du groupement de coopération sanitaire titulaire d'une
+autorisation d'activités de soins en établissement de santé ;
+
+4° L'échelle tarifaire applicable au groupement érigé en établissement de santé.
+
+Cette décision porte ses effets de droit, au jour de sa publication au recueil
+des actes administratifs de la région.
+
+III.-Le statut juridique du nouvel établissement de santé est déterminé par la
+nature juridique du groupement de coopération sanitaire de moyens,
+antérieurement ou concomitamment constitué, en application des critères
+mentionnés à l'article L. 6133-3.

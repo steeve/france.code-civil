@@ -1,14 +1,14 @@
 Article R6133-10
 ----
-Lorsque le groupement de coopération sanitaire est une personne morale de droit
-public, les dispositions du décret n° 62-1587 du 29 décembre 1962 portant
-règlement général sur la comptabilité publique relatives aux établissements
-publics à caractère industriel et commercial dotés d'un agent comptable sont
-applicables sauf dispositions particulières de la présente section. Dans ce cas,
-l'agent comptable est nommé par arrêté du ministre chargé du budget. Il assiste
-à l'assemblée générale du groupement.
+Indépendamment de la participation de chacun des membres aux charges de
+fonctionnement du groupement, les actes médicaux et consultations, mentionnés
+aux deuxième et troisième alinéas de l'article L. 6133-6, assurés par les
+professionnels médicaux libéraux sont rémunérés par les établissements publics
+de santé ou les établissements de santé mentionnés aux b ou c de l'article L.
+162-22-6 du code de la sécurité sociale conformément aux dispositions des
+articles L. 162-1-7 et L. 162-14-1 de ce code.
 
-Lorsque le groupement de coopération sanitaire est une personne morale de droit
-privé, la comptabilité du groupement est tenue et sa gestion assurée selon les
-règles du droit privé. Les comptes sont certifiés annuellement par un
-commissaire aux comptes.
+Dans le cas où ces professionnels médicaux participent à la permanence de soins
+dans les établissements mentionnés au premier alinéa du présent article, ces
+derniers leur versent également une rémunération forfaitaire déterminée dans les
+conditions des articles L. 6146-2 et L. 6161-9.

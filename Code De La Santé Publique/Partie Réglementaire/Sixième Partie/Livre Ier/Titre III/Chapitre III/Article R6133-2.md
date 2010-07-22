@@ -1,4 +1,4 @@
 Article R6133-2
 ----
-La dénomination du groupement est suivie de la mention "groupement de
-coopération sanitaire", portée sur tous actes et documents destinés aux tiers.
+Les droits des membres sont définis à proportion de leurs apports au capital ou,
+à défaut de capital, de leurs participations aux charges de fonctionnement.

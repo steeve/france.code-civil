@@ -1,20 +1,85 @@
 Article R6133-21
 ----
-Pour l'application du troisième alinéa de l'article L. 6133-2, les actes
-médicaux pratiqués par les professionnels médicaux au bénéfice de patients pris
-en charge par les établissements privés sont facturés par l'établissement de
-santé dont relève le patient à la caisse mentionnée à l'article L. 174-18 du
-code de la sécurité sociale sur les bordereaux de facturation mentionnés à
-l'article R. 161-40 du même code.
+I.-L'assemblée générale du groupement de coopération sanitaire est compétente
+pour régler les affaires intéressant le groupement.
 
-Ces actes sont pris en charge par les régimes obligatoires d'assurance maladie
-dans les conditions prévues aux articles L. 162-1-7 et L. 162-14-1 du code de la
-sécurité sociale et dans la limite des tarifs fixés en application de ces
-articles. Ces tarifs servent de base à la facturation des prestations au malade
-non couvert par un régime d'assurance maladie, au calcul de la participation
-laissée à la charge de l'assuré et à l'exercice des recours contre tiers.
+L'assemblée générale du groupement de coopération sanitaire délibère notamment
+sur :
 
-Dans le cas où le montant facturé par l'établissement employeur à
-l'établissement dont relève le patient est inférieur à ces tarifs, le montant
-pris en charge par l'assurance maladie ne peut être supérieur au montant
-facturé.
+1° Toute modification de la convention constitutive ;
+
+2° Le transfert du siège du groupement en tout autre lieu de la même région ou
+dans toute autre région dans le ressort géographique de laquelle est situé un
+établissement de santé membre du groupement ;
+
+3° Le contrat pluriannuel d'objectifs et de moyens prévu à l'article L. 6114-1 ;
+
+4° Le budget prévisionnel ou l'état des prévisions des dépenses et des recettes
+;
+
+5° L'approbation des comptes de chaque exercice et l'affectation des résultats ;
+
+6° Le bilan de l'action du comité restreint ;
+
+7° Le règlement intérieur du groupement ;
+
+8° Le choix du commissaire aux comptes, dans le cas où la comptabilité du
+groupement est tenue et sa gestion assurée selon les règles du droit privé ;
+
+9° La participation aux actions de coopération mentionnée à l'article L. 6134-1
+;
+
+10° Les modalités selon lesquelles chacun des membres s'engage à communiquer aux
+autres toutes les informations nécessaires à la réalisation de l'objet du
+groupement ;
+
+11° Les modalités selon lesquelles les droits des membres sont fixés dans la
+convention constitutive du groupement ;
+
+12° L'admission de nouveaux membres ;
+
+13° L'exclusion d'un membre ;
+
+14° La nomination et la révocation de l'administrateur ;
+
+15° Les conditions dans lesquelles peuvent être attribuées à l'administrateur
+les indemnités de mission définies à l'article R. 6133-24 ;
+
+16° La demande de certification prévue à l'article L. 6113-4 ;
+
+17° Lorsque le groupement est une personne morale de droit public, les
+acquisitions, aliénations, échanges d'immeubles et leur affectation ainsi que
+les conditions des baux de plus de dix-huit ans ;
+
+18° La prorogation ou la dissolution du groupement ainsi que les mesures
+nécessaires à sa liquidation ;
+
+19° Le rapport d'activité annuel ainsi que les comptes financiers transmis au
+directeur général de l'agence régionale de santé ;
+
+20° Le protocole définissant les modalités selon lesquelles sont réalisées les
+prestations médicales mentionnées au premier alinéa de l'article L. 6133-6 et
+précisant notamment les mesures visant à assurer l'information des patients et
+la continuité de leur prise en charge ;
+
+21° Le cas échéant, les modalités de facturation et de paiement des actes
+médicaux mentionnés au premier alinéa de l'article L. 6133-6 ;
+
+22° La demande d'autorisation prévue par l'article L. 6122-1 pour l'exercice de
+l'une des missions d'un établissement de santé définies par les articles L.
+6111-1 à L. 6111-7 ou l'une des missions de service public définies à l'article
+L. 6112-1 ;
+
+23° Les conditions dans lesquelles elle délègue certaines de ses compétences au
+comité restreint ou à l'administrateur.
+
+II.-Les délibérations mentionnées au 1°, au 12° et au 22° du I doivent être
+adoptées à l'unanimité des membres présents ou représentés. Dans les autres
+matières, sauf mention contraire de la convention constitutive, les
+délibérations sont adoptées si elles recueillent la majorité des voix des
+membres présents ou représentés.
+
+Toutefois, les délibérations mentionnées au 13° sont valablement prises sans que
+puissent participer au vote les représentants du membre dont l'exclusion est
+demandée, sous réserve que la mesure d'exclusion soit adoptée par un nombre de
+membres représentant au moins la moitié des droits des membres du groupement.

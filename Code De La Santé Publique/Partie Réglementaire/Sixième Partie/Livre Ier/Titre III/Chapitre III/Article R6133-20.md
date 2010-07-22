@@ -1,16 +1,16 @@
 Article R6133-20
 ----
-Les actes médicaux et consultations, mentionnés au deuxième alinéa de l'article
-L. 6133-2, assurés par les professionnels médicaux libéraux sont rémunérés par
-les établissements publics de santé et les établissements de santé mentionnés
-aux b et c de l'article L. 162-22-6 du code de la sécurité sociale conformément
-aux dispositions des articles L. 162-1-7 et L. 162-14-1 de ce code et de leurs
-textes d'application.
+L'assemblée générale est composée de l'ensemble des membres du groupement.
 
-Dans le cas où ces professionnels médicaux participent à la permanence de soins
-dans les établissements mentionnés au premier alinéa du présent article, ces
-derniers leur versent également une rémunération forfaitaire. Un arrêté des
-ministres chargés de la santé et de la sécurité sociale fixe les conditions
-auxquelles est subordonné le versement de cette rémunération et le montant
-maximum des forfaits. L'arrêté peut prévoir les activités pour lesquelles la
-permanence de soins n'est pas rémunérée.
+Elle se réunit sur convocation de l'administrateur du groupement aussi souvent
+que l'intérêt du groupement l'exige et au moins une fois par an. Elle se réunit
+de droit à la demande d'au moins un tiers de ses membres sur un ordre du jour
+déterminé.
+
+Elle ne délibère valablement que si les membres présents ou représentés
+représentent au moins la moitié des droits des membres du groupement. La
+convention constitutive fixe les délais dans lesquels l'assemblée générale est
+convoquée et réunie.
+
+Les délibérations de l'assemblée générale, consignées dans un procès-verbal de
+réunion, sont opposables aux membres.

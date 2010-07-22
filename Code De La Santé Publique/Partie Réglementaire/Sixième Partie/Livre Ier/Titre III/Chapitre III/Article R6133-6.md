@@ -1,25 +1,28 @@
 Article R6133-6
 ----
-Si le groupement de coopération sanitaire n'engendre pas de coût de
-fonctionnement, il peut être créé sans apport ni participation.
+Les personnels mis à disposition du groupement par les établissements membres
+restent régis, selon le cas, par leur contrat de travail, les conventions ou
+accords collectifs qui leur sont applicables ou leur statut.
 
-Lorsque le groupement est constitué avec un capital, les apports ne peuvent être
-ni des apports en industrie ni représentés par des titres négociables. Ils
-peuvent être fournis en espèces sous forme de dotation financière des membres ou
-en nature sous forme de biens mobiliers ou immobiliers, sous réserve des
-dispositions de l'article L. 6148-1.
+Les praticiens attachés associés et les assistants associés des établissements
+publics de santé membres du groupement peuvent exercer leurs fonctions au sein
+du groupement de coopération sanitaire dans les conditions définies par les
+textes qui les régissent.
 
-Les droits des membres sont fixés soit à proportion de leurs apports, soit à
-proportion de leurs participations aux charges de fonctionnement. Dans ce
-dernier cas, la convention constitutive précise les modalités selon lesquelles
-les droits peuvent être modifiés en fonction de l'utilisation effective des
-moyens de fonctionnement par chacun des membres.
+Le décret n° 91-155 du 6 février 1991 modifié relatif aux dispositions générales
+applicables aux agents contractuels des établissements mentionnés à l'article 2
+de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires
+relatives à la fonction publique hospitalière est applicable aux personnes
+autres que celles mentionnées au dernier alinéa du présent article recrutées par
+le groupement de coopération sanitaire constitué en personne morale de droit
+public.
 
-A défaut d'apports ou de participations, la convention constitutive définit les
-règles selon lesquelles les droits des membres sont déterminés.
-
-Le nombre des voix attribuées à chacun des membres lors des votes à l'assemblée
-générale est proportionnel aux droits qui leur sont reconnus.
-
-Les membres sont tenus des dettes du groupement dans la proportion de leurs
-droits.
+Le recrutement par un groupement de coopération sanitaire constitué en personne
+morale de droit public de médecins, pharmaciens et odontologistes est assuré
+conformément aux dispositions des articles R. 6152-401 à R. 6152-537 et R.
+6152-601 à R. 6152-629. Pour l'application de ces dispositions, les compétences
+dévolues aux directeurs des établissements publics de santé sont assurées par
+l'administrateur du groupement. La convention constitutive détermine les
+conditions dans lesquelles s'appliquent, au sein du groupement, ces mêmes
+dispositions dont la mise en œuvre requiert l'existence d'un organe consultatif
+ou d'une structure interne spécifique aux établissements de santé.
