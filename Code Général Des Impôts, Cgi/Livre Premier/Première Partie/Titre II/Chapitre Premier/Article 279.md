@@ -149,8 +149,11 @@ entre une commune ou un établissement public de coopération intercommunale et 
 organisme ou une entreprise agréé au titre de l'article L. 541-2 du code de
 l'environnement ;
 
-i. les prestations de services fournies par des entreprises agréées en
-application des articles L. 7232-1 à L. 7232-4 du code du travail ;
+i Les prestations de services fournies à titre exclusif, ou à titre non exclusif
+pour celles qui bénéficient d'une dérogation à la condition d'activité exclusive
+selon l'article L. 7232-1-2 du code du travail, par des associations, des
+entreprises ou des organismes déclarés en application de l'article L. 7232-1-1
+du même code, et dont la liste est fixée par décret ;
 
 j. Les rémunérations versées par les collectivités territoriales et leurs
 groupements pour la mise en oeuvre d'un contrat d'objectifs et de moyens
