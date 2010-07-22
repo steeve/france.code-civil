@@ -9,7 +9,8 @@ déférer à cette injonction, est puni d'une amende de 3750 euros.
 
 Le tribunal peut, en outre, priver l'intéressé, pendant un temps qui n'excédera
 pas cinq ans, du droit de vote et d'éligibilité aux élections des tribunaux de
-commerce, chambres de commerce et d'industrie et conseils de prud'hommes.
+commerce, chambres de commerce et d'industrie territoriales et conseils de
+prud'hommes.
 
 Le tribunal ordonne que l'immatriculation, les mentions ou la radiation devant
 figurer au registre du commerce et des sociétés y seront portées dans un délai

@@ -12,7 +12,7 @@ La commission nationale de concertation et de proposition est habilitée à fair
 toute proposition à la commission nationale paritaire instituée par la loi n°
 52-1311 du 10 décembre 1952 relative à l'établissement obligatoire d'un statut
 du personnel administratif des chambres d'agriculture, des chambres de commerce
-et d'industrie et des chambres de métiers.
+et d'industrie territoriales et des chambres de métiers.
 
 Les décisions prises par la commission nationale paritaire sont applicables à
 l'ensemble du personnel des chambres d'agriculture. La commission nationale

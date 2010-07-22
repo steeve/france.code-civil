@@ -73,13 +73,13 @@ sont mises en oeuvre par l'Etat et la région dans l'exercice de leurs
 compétences, notamment de celles qui résultent de l'article L. 211-2 du présent
 code et de l'article L. 814-2 du code rural et de la pêche maritime.A défaut
 d'accord, les autorités de l'Etat prennent, pour ce qui les concerne, les
-décisions nécessaires à la continuité du service public de l'éducation.
-S'agissant des demandeurs d'emploi, ces conventions, lorsqu'elles comportent des
-engagements réciproques de l'Etat, de la région et de l'institution mentionnée à
-l'article L. 5312-1 du code du travail, sont également signées par cette
-institution. Elles précisent, en matière d'orientation et de formation
-professionnelles, les conditions de mise en œuvre de la convention prévue à
-l'article L. 5312-11 du même code.
+décisions nécessaires à la continuité du service public de
+l'éducation.S'agissant des demandeurs d'emploi, ces conventions, lorsqu'elles
+comportent des engagements réciproques de l'Etat, de la région et de
+l'institution mentionnée à l'article L. 5312-1 du code du travail, sont
+également signées par cette institution. Elles précisent, en matière
+d'orientation et de formation professionnelles, les conditions de mise en œuvre
+de la convention prévue à l'article L. 5312-11 du même code.
 
 V.-L'Etat, une ou plusieurs régions, une ou plusieurs organisations
 représentatives des milieux socioprofessionnels et, le cas échéant,
@@ -95,8 +95,8 @@ représentation équilibrée des femmes et des hommes dans les métiers auxquels
 préparent les différentes voies de formation professionnelle initiale et
 continue.
 
-Les chambres de métiers, les chambres de commerce et d'industrie et les chambres
-d'agriculture peuvent être associées aux contrats d'objectifs.
+Les chambres de métiers, les chambres de commerce et d'industrie territoriales
+et les chambres d'agriculture peuvent être associées aux contrats d'objectifs.
 
 L'Etat, la région ou la collectivité territoriale de Corse, les chambres
 consulaires, une ou plusieurs organisations représentatives d'employeurs et de

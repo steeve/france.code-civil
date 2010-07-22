@@ -21,8 +21,8 @@ collectivités ont une participation majoritaire ;
 
 4° Les salariés non statutaires des chambres de métiers, des services à
 caractère industriel et commercial gérés par les chambres de commerce et
-d'industrie, des chambres d'agriculture, ainsi que les salariés des
-établissements et services d'utilité agricole de ces chambres ;
+d'industrie territoriales, des chambres d'agriculture, ainsi que les salariés
+des établissements et services d'utilité agricole de ces chambres ;
 
 5° Les fonctionnaires de France Télécom placés hors de la position d'activité
 dans leurs corps en vue d'assurer des fonctions soit dans l'entreprise, en

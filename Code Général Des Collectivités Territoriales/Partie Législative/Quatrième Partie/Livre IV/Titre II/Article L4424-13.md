@@ -6,10 +6,10 @@ exécutif.
 Le représentant de l'Etat dans la collectivité territoriale de Corse, les
 départements, les communes ou leurs groupements compétents en matière
 d'urbanisme, les chambres d'agriculture, les chambres de commerce et d'industrie
-et les chambres de métiers sont associés à l'élaboration du projet de plan selon
-des modalités définies par délibération de l'Assemblée de Corse. Des
-organisations professionnelles peuvent également être associées, dans les mêmes
-conditions, à son élaboration.
+territoriales et les chambres de métiers sont associés à l'élaboration du projet
+de plan selon des modalités définies par délibération de l'Assemblée de Corse.
+Des organisations professionnelles peuvent également être associées, dans les
+mêmes conditions, à son élaboration.
 
 Le représentant de l'Etat porte à la connaissance du conseil exécutif les
 projets d'intérêt général et les opérations d'intérêt national répondant aux

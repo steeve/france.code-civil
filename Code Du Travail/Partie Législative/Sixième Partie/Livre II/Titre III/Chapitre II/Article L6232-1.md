@@ -11,8 +11,8 @@ professionnelles d'employeurs et les syndicats de salariés ;
 
 3° Les établissements publics ;
 
-4° Les chambres de commerce et d'industrie, les chambres des métiers et les
-chambres d'agriculture ;
+4° Les chambres de commerce et d'industrie territoriales, les chambres des
+métiers et les chambres d'agriculture ;
 
 5° Les établissements d'enseignement privés sous contrat ;
 

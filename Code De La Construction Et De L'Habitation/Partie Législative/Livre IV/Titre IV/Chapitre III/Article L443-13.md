@@ -14,8 +14,9 @@ Toutefois, dans le cas d'une vente à un autre organisme d'habitations à loyer
 modéré ou à une société d'économie mixte, les emprunts sont transférés avec
 maintien des garanties y afférentes consenties par des collectivités
 territoriales, par leurs groupements ou par des chambres de commerce et
-d'industrie, sauf opposition des créanciers ou des garants dans les trois mois
-qui suivent la notification du projet de transfert du prêt lié à la vente.
+d'industrie territoriales, sauf opposition des créanciers ou des garants dans
+les trois mois qui suivent la notification du projet de transfert du prêt lié à
+la vente.
 
 Le surplus des sommes perçues est affecté en priorité au financement de
 programmes nouveaux de construction, à des travaux destinés à améliorer de façon

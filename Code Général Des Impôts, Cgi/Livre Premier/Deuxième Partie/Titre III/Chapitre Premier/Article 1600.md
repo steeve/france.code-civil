@@ -45,7 +45,7 @@ bis de l'article 1455 ;
 d'immatriculation au registre du commerce et des sociétés en application de
 l'article L. 123-1-1 du code de commerce.
 
-II.-1.-La taxe additionnelle à la cotisation foncière des entreprises mentionnée
+II.-A.-La taxe additionnelle à la cotisation foncière des entreprises mentionnée
 au I est due par les redevables de cette cotisation proportionnellement à leur
 base d'imposition.
 
@@ -58,14 +58,12 @@ Pour les impositions établies au titre de 2011 et 2012, sont calculés deux tau
 
 1° Un taux régional de taxe additionnelle à la cotisation foncière des
 entreprises applicable dans la circonscription de chaque chambre de commerce et
-d'industrie de région égal au quotient, exprimé en pourcentage : - d'une
-fraction égale à 40 % de la somme des produits de la taxe additionnelle à la
-taxe professionnelle mentionnée au présent article, dans sa rédaction en vigueur
-au 1er janvier 2009, perçus en 2009 par les chambres de commerce et d'industrie
-rattachées à la chambre de commerce et d'industrie de région multipliés par le
-pourcentage mentionné aux troisième à sixième alinéas du III de l'article 3 de
-la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 applicable à
-chacune des chambres de commerce et d'industrie ;
+d'industrie de région égal au quotient, exprimé en pourcentage : -d'une fraction
+égale à 40 % de la somme des produits de la taxe additionnelle à la cotisation
+foncière des entreprises mentionnée au présent article, dans sa rédaction en
+vigueur au 1er janvier 2010, perçus en 2010 par les chambres de commerce et
+d'industrie territoriales rattachées à la chambre de commerce et d'industrie de
+région ;
 
 -par le montant total des bases de cotisation foncière des entreprises imposées
 en 2010 des établissements des entreprises redevables de la taxe additionnelle à
@@ -74,14 +72,11 @@ chambre de commerce et d'industrie de région ;
 
 2° Un taux local de taxe additionnelle à la cotisation foncière des entreprises
 applicable dans la circonscription de chaque chambre de commerce et d'industrie
-territoriale égal au quotient, exprimé en pourcentage :
-
-- d'une fraction égale à 40 % du produit de la taxe additionnelle à la taxe
-professionnelle mentionnée au présent article, dans sa rédaction en vigueur au
-1er janvier 2009, perçu en 2009 par chaque chambre de commerce et d'industrie
-multiplié par le pourcentage mentionné aux troisième à sixième alinéas du III de
-l'article 3 de la loi n° 2009-1673 du 30 décembre 2009 précitée applicable à
-chacune des chambres de commerce et d'industrie ;
+territoriale égal au quotient, exprimé en pourcentage : -d'une fraction égale à
+40 % du produit de la taxe additionnelle à la cotisation foncière des
+entreprises mentionnée au présent article, dans sa rédaction en vigueur au 1er
+janvier 2010, perçu en 2010 par chaque chambre de commerce et d'industrie
+territoriale ;
 
 -par le montant total des bases de cotisation foncière des entreprises imposées
 en 2010 des établissements des entreprises redevables de la taxe additionnelle à
@@ -107,32 +102,28 @@ l'année précédente.A compter de 2013, une convention d'objectifs et de moyens
 est conclue, dans des conditions fixées par décret en Conseil d'Etat, entre
 chaque chambre de commerce et d'industrie de région et l'Etat.
 
-2.-Chaque chambre de commerce et d'industrie de région perçoit le produit de la
-taxe additionnelle à la cotisation foncière des entreprises due au titre des
-établissements situés dans sa circonscription.
+B.-Chaque chambre de commerce et d'industrie de région perçoit le produit de la
+taxe additionnelle à la cotisation foncière des entreprises acquittée au titre
+des établissements situés dans sa circonscription.
 
-III.-1.-La taxe additionnelle à la cotisation sur la valeur ajoutée des
+III.-A.-La taxe additionnelle à la cotisation sur la valeur ajoutée des
 entreprises mentionnée au I est égale à une fraction de la cotisation visée à
 l'article 1586 ter due par les entreprises redevables après application de
 l'article 1586 quater.
 
 Le taux national de cette taxe est égal au quotient, exprimé en pourcentage :
-
-- d'une fraction égale à 60 % de la somme des produits de la taxe additionnelle
-à la taxe professionnelle mentionnée au présent article, dans sa rédaction en
-vigueur au 1er janvier 2009, perçus en 2009 par les chambres de commerce et
-d'industrie multiplié par le pourcentage mentionné aux troisième à sixième
-alinéas du III de l'article 3 de la loi n° 2009-1673 du 30 décembre 2009
-précitée applicable à chacune des chambres de commerce et d'industrie ;
+-d'une fraction égale à 60 % du produit au titre de l'année 2010 de la taxe
+additionnelle à la cotisation foncière des entreprises mentionnée au présent
+article, dans sa rédaction en vigueur au 1er janvier 2010 ;
 
 -par le produit de la cotisation sur la valeur ajoutée des entreprises perçu,
-après application de l'article 1586 quater, en 2010.
+après application de l'article 1586 quater, au titre de 2010.
 
 Ce taux est réduit : -de 4 % pour les impositions établies au titre de 2011 ;
 -de 8 % pour les impositions établies au titre de 2012 ; -de 15 % pour les
 impositions établies à compter de 2013.
 
-2.-Le produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des
+B.-Le produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des
 entreprises est affecté au fonds de financement des chambres de commerce et
 d'industrie de région.
 
@@ -141,43 +132,44 @@ différence entre :
 
 -la somme des produits de la taxe additionnelle à la cotisation foncière des
 entreprises mentionnée au présent article, dans sa rédaction en vigueur au 1er
-janvier 2010, perçus en 2010 par les chambres de commerce et d'industrie
-territoriales rattachées à la chambre de commerce et d'industrie de région,
-minorée de 4 % pour le calcul de cette différence applicable aux versements
-opérés en 2011, de 8 % pour le calcul de cette différence applicable aux
-versements opérés en 2012 et de 15 % pour le calcul de cette différence
+janvier 2010, perçus au titre de l'année 2010 par les chambres de commerce et
+d'industrie territoriales rattachées à la chambre de commerce et d'industrie de
+région, minorée de 4 % pour le calcul de cette différence applicable aux
+versements opérés en 2011, de 8 % pour le calcul de cette différence applicable
+aux versements opérés en 2012 et de 15 % pour le calcul de cette différence
 applicable aux versements opérés à compter de 2013 ;
 
-- une fraction égale à 40 % de la somme des produits de la taxe additionnelle à
+-une fraction égale à 40 % de la somme des produits de la taxe additionnelle à
 la cotisation foncière des entreprises mentionnée au présent article, dans sa
-rédaction en vigueur au 1er janvier 2010, perçus en 2010 par les chambres de
-commerce et d'industrie territoriales rattachées à la chambre de commerce et
-d'industrie de région, minorée du prélèvement mentionné au 5. 3. 5 de l'article
-2 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010.
+rédaction en vigueur au 1er janvier 2010, perçus au titre de l'année 2010 par
+les chambres de commerce et d'industrie territoriales rattachées à la chambre de
+commerce et d'industrie de région, minorée du prélèvement mentionné au 5. 3. 5
+de l'article 2 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010.
 
 Si le produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des
-entreprises affecté, au titre d'une année, au fonds de financement des chambres
-de commerce et d'industrie de région est supérieur ou égal à la somme des
-différences calculées en application des trois alinéas précédents, le fonds de
-financement des chambres de commerce et d'industrie de région verse, à chaque
-chambre de commerce et d'industrie de région, un montant égal à sa différence
-puis verse aux chambres de commerce et d'industrie de région le solde du produit
-qui lui est affecté proportionnellement à la valeur ajoutée imposée dans les
-communes de leur circonscription et retenue pour la détermination de la
+entreprises affecté, au titre d'une année d'imposition, au fonds de financement
+des chambres de commerce et d'industrie de région est supérieur ou égal à la
+somme des différences calculées en application des trois alinéas précédents, le
+fonds de financement des chambres de commerce et d'industrie de région verse, à
+chaque chambre de commerce et d'industrie de région, un montant égal à sa
+différence puis verse aux chambres de commerce et d'industrie de région le solde
+du produit qui lui est affecté proportionnellement à la valeur ajoutée imposée
+dans les communes de leur circonscription et retenue pour la détermination de la
 cotisation sur la valeur ajoutée des entreprises en application du 1 du II de
 l'article 1586 ter.
 
 Si le produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des
-entreprises affecté, au titre d'une année, au fonds de financement des chambres
-de commerce et d'industrie de région est inférieur à la somme des différences
-calculées en application des deuxième à quatrième alinéas du présent B, le fonds
-de financement des chambres de commerce et d'industrie de région verse, à chaque
-chambre de commerce et d'industrie de région, un montant égal au produit de sa
-différence par un coefficient unique d'équilibrage calculé de sorte que la somme
-des versements soit égale au produit de la taxe additionnelle à la cotisation
-sur la valeur ajoutée des entreprises affecté, au titre de l'année, au fonds.
+entreprises affecté, au titre d'une année d'imposition, au fonds de financement
+des chambres de commerce et d'industrie de région est inférieur à la somme des
+différences calculées en application des deuxième à quatrième alinéas du présent
+B, le fonds de financement des chambres de commerce et d'industrie de région
+verse, à chaque chambre de commerce et d'industrie de région, un montant égal au
+produit de sa différence par un coefficient unique d'équilibrage calculé de
+sorte que la somme des versements soit égale au produit de la taxe additionnelle
+à la cotisation sur la valeur ajoutée des entreprises affecté, au titre de
+l'année, au fonds.
 
 IV.-Pour l'application des II et III, les produits de la taxe additionnelle à la
-cotisation foncière des entreprises perçus en 2010 s'entendent de l'ensemble des
-sommes mises en recouvrement en 2010 au titre de la taxe additionnelle à la
-cotisation foncière des entreprises au titre de 2010.
+cotisation foncière des entreprises perçus au titre de 2010 s'entendent de
+l'ensemble des sommes mises en recouvrement en 2010 au titre de la taxe
+additionnelle à la cotisation foncière des entreprises au titre de 2010.

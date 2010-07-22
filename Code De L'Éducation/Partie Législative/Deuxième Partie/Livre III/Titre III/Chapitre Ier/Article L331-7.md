@@ -20,6 +20,6 @@ d'établissement, dans le cadre des projets d'établissement ou de projets commu
 à plusieurs établissements. Elle est conjointement réalisée par les conseillers
 d'orientation-psychologues, les personnels enseignants, les conseillers de
 l'enseignement technologique et les représentants des organisations
-professionnelles et des chambres de commerce et d'industrie, de métiers et
-d'agriculture, en liaison avec les collectivités territoriales. Elle
+professionnelles et des chambres de commerce et d'industrie territoriales, de
+métiers et d'agriculture, en liaison avec les collectivités territoriales. Elle
 s'accompagne de la remise d'une documentation.
