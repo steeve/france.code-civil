@@ -217,7 +217,7 @@ D
 
 -
 
-a) supérieure à 500 kg/j
+a) supérieure à 500 kg / j
 
 
 A
@@ -558,8 +558,7 @@ A
 
 4
 
-2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à
-l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
+2. Procédés utilisant des liquides (sans mise en œuvre
 
 2. Le volume des cuves de traitement étant :
 
@@ -839,19 +838,19 @@ synthétiques) (stockage de).
 
 Le volume susceptible d'être stocké étant :
 
-1. Supérieur ou égal à 40 000 m³ ;
+1. Supérieur ou égal à 40 000 m ³ ;
 
 
 A
 
 2
 
-2. Supérieur ou égal à 1 000 m³ mais inférieur à 40 000 m³ ;
+2. Supérieur ou égal à 1 000 m ³ mais inférieur à 40 000 m ³ ;
 
 
 E
 
-3. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³.
+3. Supérieur ou égal à 100 m ³ mais inférieur à 1 000 m ³.
 
 
 D
@@ -865,19 +864,19 @@ adhésifs synthétiques) (stockage de) :
 1. A l'état alvéolaire ou expansé tels que mousse de latex, de polyuréthane, de
 polystyrène, etc., le volume susceptible d'être stocké étant :
 
-a) Supérieur ou égal à 45 000 m³ ;
+a) Supérieur ou égal à 45 000 m ³ ;
 
 
 A
 
 2
 
-b) Supérieur ou égal à 2 000 m³ mais inférieur à 45 000 m³ ;
+b) Supérieur ou égal à 2 000 m ³ mais inférieur à 45 000 m ³ ;
 
 
 E
 
-c) Supérieur ou égal à 200 m³ mais inférieur à 2 000 m³.
+c) Supérieur ou égal à 200 m ³ mais inférieur à 2 000 m ³.
 
 
 D
@@ -885,19 +884,19 @@ D
 2. Dans les autres cas et pour les pneumatiques, le volume susceptible d'être
 stocké étant :
 
-a) Supérieur ou égal à 80 000 m³ ;
+a) Supérieur ou égal à 80 000 m ³ ;
 
 
 A
 
 2
 
-b) Supérieur ou égal à 10 000 m³ mais inférieur à 80 000 m³ ;
+b) Supérieur ou égal à 10 000 m ³ mais inférieur à 80 000 m ³ ;
 
 
 E
 
-c) Supérieur ou égal à 1 000 m³ mais inférieur à 10 000 m³.
+c) Supérieur ou égal à 1 000 m ³ mais inférieur à 10 000 m ³.
 
 
 D
@@ -922,7 +921,7 @@ Quelle que soit la capacité
 Organismes génétiquement modifiés (installations où sont mis en œuvre dans un
 processus de production industrielle ou commercial des) à l'exclusion de
 l'utilisation de produits contenant des organismes génétiquement modifiés qui
-ont reçu une autorisation de mise sur le marché conformément à la loi n o 92-654
+ont reçu une autorisation de mise sur le marché conformément à la loi n° 92-654
 du 13 juillet 1992 et utilisés dans les conditions prévues par cette
 autorisation de mise sur le marché
 
@@ -1468,19 +1467,26 @@ b) Inférieure à 50 t/j
 2781
 
 Installations de méthanisation de déchets non dangereux ou matière végétale
-brute à l'exclusion des installations de stations d'épuration urbaines
+brute, à l'exclusion des installations de méthanisation d'eaux usées ou de boues
+d'épuration urbaines lorsqu'elles sont méthanisées sur leur site de production.
 
 1. Méthanisation de matière végétale brute, effluents d'élevage, matières
-stercoraires, déchets végétaux d'industries agroalimentaires :
+stercoraires, lactosérum et déchets végétaux d'industries agroalimentaires :
 
-a) La quantité de matières traitées étant supérieure ou égale à 30 t/j
+a) La quantité de matières traitées étant supérieure ou égale à 50 t/j
 
 
 A
 
 2
 
-b) La quantité de matières traitées étant inférieure à 30 t/j
+b) La quantité de matières traitées étant supérieure ou égale à 30 t/j et
+inférieure à 50 t/j
+
+
+E
+
+c) La quantité de matières traitées étant inférieure à 30 t/j
 
 
 DC
@@ -1603,8 +1609,8 @@ DC
 
 2910
 
-Combustion à l'exclusion des installations visées par les rubriques 167C et 322
-B4 (3).
+Combustion à l'exclusion des installations visées par les rubriques 2770 et
+2271.
 
 A. Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz
 naturel, des gaz de pétrole liquéfiés, du fioul domestique, du charbon, des
@@ -1617,7 +1623,7 @@ des matières entrantes, si la puissance thermique maximale de l'installation es
 A. La puissance thermique maximale de l'installation (quantité maximale de
 combustible exprimée en PCI susceptible d'être consommée par seconde), étant :
 
-1. supérieure ou égale à 20 MW
+1. Supérieure ou égale à 20 MW
 
 
 A
@@ -1636,7 +1642,7 @@ supérieure ou égale à 20 MW, mais inférieure à 50 MW
 
 1
 
-2. supérieure à 2 MW, mais inférieure à 20 MW
+2. Supérieure à 2 MW, mais inférieure à 20 MW
 
 
 DC
@@ -1666,32 +1672,34 @@ c) supérieure ou égale à 4 MW mais inférieure à 50 MW
 1
 
 C. Lorsque l'installation consomme exclusivement du biogaz provenant
-d'installation (s) classée (s) sous la rubrique 2781-1 et si la puissance
-thermique maximale de l'installation est supérieure à 0,1 MW :
+d'installation classée sous la rubrique 2781-1 et si la puissance thermique
+maximale de l'installation est supérieure à 0,1 MW :
 
-1. lorsque le biogaz est produit par une installation soumise à autorisation ou
-par plusieurs installations soumises à déclaration au titre de la rubrique
-2781-1
+1. Lorsque le biogaz est produit par une installation soumise à autorisation, ou
+par plusieurs installations classées au titre de la rubrique 2781-1
 
 
 A
 
 3
 
-2. lorsque le biogaz est produit par une seule installation, soumise à
+2. Lorsque le biogaz est produit par une seule installation soumise à
+enregistrement au titre de la rubrique 2781-1
+
+
+E
+
+3. Lorsque le biogaz est produit par une seule installation, soumise à
 déclaration au titre de la rubrique 2781-1
 
 
 DC
 
-Nota.
-
-1. La puissance thermique maximale est définie comme la quantité maximale de
-combustible, exprimée en PCI, susceptible d'être consommée par seconde.
-
-2. La biomasse, au sens du A, de la rubrique 2910, se présente à l'état naturel
-et n'est ni imprégnée ni revêtue d'une substance quelconque. Elle inclut le bois
-sous forme de morceaux bruts, d'écorces, de bois déchiquetés, de sciures, de
+Nota : La puissance thermique maximale est définie comme la quantité maximale de
+combustible, exprimée en PCI, susceptible d'être consommée par seconde. La
+biomasse au sens du A de la rubrique 2910 se présente à l'état naturel et n'est
+ni imprégnée ni revêtue d'une substance quelconque. Elle inclut le bois sous
+forme de morceaux bruts, d'écorces, de bois déchiquetés, de sciures, de
 poussières de ponçage ou de chutes issues de l'industrie du bois, de sa
 transformation ou de son artisanat.
 
@@ -1880,15 +1888,15 @@ Vernis, peinture, apprêt, colle, enduit, etc. (application, cuisson, séchage d
 sur support quelconque (métal, bois, plastique, cuir, papier, textile) à
 l'exclusion :
 
-- des activités de traitement ou d'emploi de goudrons, d'asphaltes, de brais et
+-des activités de traitement ou d'emploi de goudrons, d'asphaltes, de brais et
 de matières bitumineuses, couvertes par la rubrique 1521,
 
-- des activités couvertes par les rubriques 2445 et 2450,
+-des activités couvertes par les rubriques 2445 et 2450,
 
 -des activités de revêtement sur véhicules et engins à moteurs couvertes par la
 rubrique 2930,
 
-- ou de toute autre activité couverte explicitement par une autre rubrique.
+-ou de toute autre activité couverte explicitement par une autre rubrique.
 
 1. Lorsque les produits mis en œuvre sont à base de liquides et lorsque
 l'application est faite par procédé "au trempé". Si la quantité maximale de
