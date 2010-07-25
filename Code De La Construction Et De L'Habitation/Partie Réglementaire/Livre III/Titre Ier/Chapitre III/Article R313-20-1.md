@@ -1,15 +1,15 @@
 Article R313-20-1
 ----
 I.-1° Les prêts mentionnés au I de l'article R. 313-19-1 sont accordés sous
-réserve du respect des conditions fixées par le deuxième alinéa du 3 octies du I
-de l'article 278 sexies du code général des impôts et précisées par l'article 70
-quinquies B de l'annexe III du même code et sous réserve que le prix de vente ou
-de construction du logement n'excède pas les plafonds prévus au II de l'article
-R. 331-76-5-1. Ils sont soumis aux conditions suivantes :
+réserve du respect des conditions fixées par le 9 du I de l'article 278 sexies
+du code général des impôts et précisées par l'article 70 quinquies B de l'annexe
+III du même code et sous réserve que le prix de vente ou de construction du
+logement n'excède pas les plafonds prévus au II de l'article R. 331-76-5-1. Ils
+sont soumis aux conditions suivantes :
 
 a) Le montant de ces prêts est égal à 30 % du coût total de l'opération, au sens
-de l'article R. 318-11, dans la limite de 30 000 € en zone C, 40 000 € en zone
-B2, 45 000 € en zone B1 ou 50 000 € en zone A ;
+de l'article R. 318-11, dans la limite de 10 000 € en zone C, 20 000 € en zone
+B2, 25 000 € en zone B1 ou 30 000 € en zone A ;
 
 b) Le prêt est amortissable après une durée de différé égale à la plus longue
 durée des autres prêts concourant au financement de l'opération, à l'exclusion
@@ -42,15 +42,15 @@ dans les lieux en qualité de locataire mentionnée au b du V de l'article R.
 313-19-3 ne s'applique pas.
 
 2° Les baux à construction mentionnés au I de l'article R. 313-19-1 sont
-accordés sous réserve du respect des conditions fixées par le quinzième alinéa
-du c du 1 du 7° de l'article 257 du code général des impôts et précisées par
-l'article 70 quinquies A de l'annexe III du même code et sous réserve que le
-prix de vente ou de construction du logement n'excède pas les plafonds prévus au
-II de l'article R. 331-76-5-1. Ils sont soumis aux conditions suivantes :
+accordés sous réserve du respect des conditions fixées par le 9 du I de
+l'article 278 sexies du code général des impôts et précisées par l'article 70
+quinquies A de l'annexe III du même code et sous réserve que le prix de vente ou
+de construction du logement n'excède pas les plafonds prévus au II de l'article
+R. 331-76-5-1. Ils sont soumis aux conditions suivantes :
 
 a) Le montant de l'acquisition du terrain faisant l'objet du bail, diminué de
-l'avance versée par l'accédant, est fixé dans la limite de 30 000 € en zone C,
-40 000 € en zone B2, 45 000 € en zone B1 ou 50 000 € en zone A ;
+l'avance versée par l'accédant, est fixé dans la limite de 10 000 € en zone C,
+20 000 € en zone B2, 25 000 € en zone B1 ou 30 000 € en zone A ;
 
 b) Le prix auquel l'accédant peut lever l'option lui permettant de devenir
 propriétaire du terrain est égal au montant mentionné à l'alinéa précédent
