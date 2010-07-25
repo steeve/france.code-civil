@@ -12,24 +12,24 @@ forêt, ainsi que promouvoir ou participer à toute action ayant les mêmes obje
 
 Elles remplissent les missions suivantes :
 
-- elles assurent l'élaboration de la partie départementale du programme régional
+-elles assurent l'élaboration de la partie départementale du programme régional
 de développement agricole et rural ;
 
-- elles contribuent à l'animation et au développement des territoires ruraux ;
+-elles contribuent à l'animation et au développement des territoires ruraux ;
 
-- elles participent à la définition du projet agricole élaboré par le
+-elles participent à la définition du projet agricole élaboré par le
 représentant de l'Etat dans le département mentionné à l'article L. 313-1 ;
 
-- elles sont associées, en application des articles L. 121-4 et L. 122-17 du
-code de l'urbanisme, à l'élaboration des schémas de cohérence territoriale, des
+-elles sont associées, en application des articles L. 121-4 et L. 122-17 du code
+de l'urbanisme, à l'élaboration des schémas de cohérence territoriale, des
 schémas de secteur et des plans locaux d'urbanisme ;
 
-- elles peuvent être consultées, dans leur champ de compétences, par les
+-elles peuvent être consultées, dans leur champ de compétences, par les
 collectivités territoriales, au cours de l'élaboration de leurs projets de
 développement économique.
 
 Dans le domaine de la forêt, elles exercent leurs compétences conformément à
-l'article L. 221-6 du code forestier.
+l'article L. 221-11 du code forestier.
 
 Les chambres départementales d'agriculture sont appelées par l'autorité
 administrative à grouper, coordonner, codifier les coutumes et usages locaux à

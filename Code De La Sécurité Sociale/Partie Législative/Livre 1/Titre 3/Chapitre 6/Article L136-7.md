@@ -1,6 +1,6 @@
 Article L136-7
 ----
-I. - Lorsqu'ils sont payés à des personnes physiques fiscalement domiciliées en
+I.-Lorsqu'ils sont payés à des personnes physiques fiscalement domiciliées en
 France au sens de l'article 4 B du code général des impôts, les produits de
 placements sur lesquels est opéré le prélèvement prévu à l'article 125 A du code
 général des impôts, ainsi que les produits de même nature retenus pour
@@ -132,7 +132,11 @@ lors de leur perception ;
 9° Les gains nets et les produits des placements en valeurs mobilières effectués
 en vertu d'un engagement d'épargne à long terme respectivement visés aux 5 du
 III de l'article 150-0 A et 16° de l'article 157 du code général des impôts,
-lors de l'expiration du contrat.
+lors de l'expiration du contrat ;
+
+10° Les intérêts des comptes épargne d'assurance pour la forêt exonérés d'impôt
+sur le revenu en application du 23° de l'article 157 du code général des impôts,
+lors de leur inscription en compte.
 
 III.-Paragraphe abrogé
 

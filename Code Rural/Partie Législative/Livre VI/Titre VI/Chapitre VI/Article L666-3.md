@@ -16,10 +16,9 @@ personnes physiques ou morales auxquelles l'établissement mentionné à l'artic
 L. 621-1 a dû se substituer en vertu de son aval. Il prend rang immédiatement
 après les privilèges fiscaux au profit du Trésor.
 
-Le même privilège est accordé aux sociétés de caution mutuelle des négociants en
-grains agréés en qualité de collecteurs lorsqu'elles ont donné leur aval aux
-effets créés par leurs sociétaires dans les conditions prévues au deuxième
-alinéa de l'article L. 666-2.
+Le même privilège est accordé aux sociétés de caution mutuelle lorsqu'elles ont
+donné leur aval aux effets créés par leurs sociétaires dans les conditions
+prévues au deuxième alinéa de l'article L. 666-2.
 
 Indépendamment de l'exercice du privilège sur les meubles et effets mobiliers,
 l'agent de recouvrement peut requérir, à concurrence du montant en principal de
