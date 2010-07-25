@@ -1,8 +1,8 @@
 Article R5141-52
 ----
-La commission a la faculté d'entendre toute personne qualifiée et notamment les
-représentants de l'industrie pharmaceutique vétérinaire et des membres de la
-commission de sécurité des consommateurs.
+Le président et le vice-président de la commission sont désignés parmi ses
+membres par les ministres chargés de l'agriculture et de la santé. Le
+vice-président supplée le président en cas d'empêchement.
 
-Le président de la commission désigne un rapporteur dans chaque affaire. La
-commission peut faire appel à des experts.
+En cas d'absence ou d'empêchement temporaire du président et du vice-président,
+la séance est présidée par le doyen d'âge.

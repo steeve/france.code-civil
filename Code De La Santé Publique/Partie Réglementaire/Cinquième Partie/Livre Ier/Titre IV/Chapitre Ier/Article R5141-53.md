@@ -1,6 +1,5 @@
 Article R5141-53
 ----
-Les délibérations de la commission sont confidentielles ; les membres de la
-commission et les personnes lui apportant leur concours sont astreints au secret
-professionnel dans les conditions et sous les peines prévues à l'article 226-13
-du code pénal.
+Des groupes de travail peuvent être créés par le directeur général de l'Agence
+nationale de sécurité sanitaire de l'alimentation, de l'environnement et du
+travail, pour préparer le travail de la commission.

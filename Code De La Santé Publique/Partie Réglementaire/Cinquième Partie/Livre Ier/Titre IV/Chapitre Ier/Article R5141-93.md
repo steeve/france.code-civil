@@ -2,10 +2,11 @@ Article R5141-93
 ----
 Le système national de pharmacovigilance vétérinaire comprend :
 
-1° La Commission nationale de pharmacovigilance vétérinaire mentionnée à
-l'article R. 5141-97 ;
+1° L'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de
+l'environnement et du travail ;
 
-2° L'Agence française de sécurité sanitaire des aliments ;
+2° La commission nationale des médicaments vétérinaires mentionnée à l'article
+R. 5141-48 ;
 
 3° Les centres de pharmacovigilance vétérinaire mentionnés à l'article R.
 5141-101 ;

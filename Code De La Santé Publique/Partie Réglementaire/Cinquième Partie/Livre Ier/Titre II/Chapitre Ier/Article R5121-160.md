@@ -14,8 +14,8 @@ c) Le directeur général de l'offre de soins ou son représentant ;
 d) Le directeur général de l'Institut national de la santé et de la recherche
 médicale ou son représentant ;
 
-e) Le président de la Commission nationale de pharmacovigilance vétérinaire ou
-le membre de la commission qu'il désigne ;
+e) Le président de la commission nationale des médicaments vétérinaires
+mentionnée à l'article R. 5141-48 ou le membre de la commission qu'il désigne ;
 
 f) Le président de la Commission nationale des stupéfiants et des psychotropes
 ou le membre de la commission qu'il désigne.
