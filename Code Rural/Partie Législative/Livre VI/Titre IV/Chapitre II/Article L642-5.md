@@ -33,4 +33,8 @@ fonctionnement, au développement ou à la valorisation d'un signe dans une
 filière ;
 
 8° Contribue à la défense et à la promotion des signes d'identification de la
-qualité et de l'origine tant en France qu'à l'étranger.
+qualité et de l'origine tant en France qu'à l'étranger ;
+
+9° Peut être consulté par les organismes de défense et de gestion sur les
+prescriptions environnementales ou relatives au bien-être animal mentionnées à
+l'article L. 642-22.

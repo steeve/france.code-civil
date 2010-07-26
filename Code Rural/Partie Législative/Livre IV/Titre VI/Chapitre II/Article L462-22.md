@@ -7,6 +7,6 @@ le preneur en a fait, dans les cas prévus à l'article L. 462-23, la demande au
 bailleur ; une demande de conversion ne peut être considérée comme une rupture
 de contrat ni justifier une demande de reprise ;
 
-2° A l'échéance du bail, sauf volonté contraire exprimée par le preneur.
-Toutefois, la conversion n'intervient qu'à compter du premier jour de l'année
-culturale suivant celle de l'échéance du bail.
+2° Au plus tard dans un délai de six mois à compter de la promulgation de la loi
+n° 2010-874 du 27 juillet 2010 relative à la modernisation de l'agriculture et
+de la pêche, pour les baux de métayage en cours à cette date.

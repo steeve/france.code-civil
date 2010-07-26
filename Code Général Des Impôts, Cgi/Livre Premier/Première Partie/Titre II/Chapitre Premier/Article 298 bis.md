@@ -15,7 +15,7 @@ les éléments de liquidation de la taxe sur la valeur ajoutée afférente à l'
 écoulée. Si leur exercice comptable ne coïncide pas avec l'année civile, ils
 peuvent, sur option, déposer une déclaration annuelle correspondant à cet
 exercice avant le cinquième jour du cinquième mois qui suit la clôture de
-celui-ci. L'option doit être formulée avant le début du premier exercice pour
+celui-ci.L'option doit être formulée avant le début du premier exercice pour
 lequel elle est souscrite. Les modalités d'exercice de cette option sont fixées
 par décret en Conseil d'Etat. En outre, les exploitants agricoles doivent, au
 titre de la période comprise entre le 1er janvier et le dernier jour précédant
@@ -109,10 +109,10 @@ intéressées.
 III bis. Les recettes accessoires commerciales et non commerciales, passibles de
 la taxe sur la valeur ajoutée, réalisées par un exploitant agricole soumis pour
 ses opérations agricoles au régime simplifié prévu au I peuvent être imposées
-selon ce régime lorsque le montant total des recettes accessoires taxes
-comprises n'excède pas, au titre de la période annuelle d'imposition précédente,
-50 000 euros et 30 % du montant des recettes taxes comprises provenant de ses
-activités agricoles.
+selon ce régime lorsqu'au titre de la période couvrant les trois années
+d'imposition précédentes, la moyenne annuelle des recettes accessoires, taxes
+comprises, de ces trois années n'excède pas 50 000 euros et 30 % du montant des
+recettes taxes comprises provenant de ses activités agricoles.
 
 Il en est de même des recettes des activités de production d'électricité
 d'origine photovoltaïque ou éolienne, passibles de la taxe sur la valeur

@@ -11,13 +11,14 @@ Ils bénéficient notamment d'une information sur l'évolution de la demande de
 qualification, les professions et les formations qui y préparent.
 
 Les formations assurées par l'enseignement et la formation professionnelle
-agricoles privés sont dispensées suivant des programmes et référentiels
-nationaux, qui en précisent respectivement le contenu et les objectifs et qui
-sont arrêtés soit par le ministre de l'agriculture, soit conjointement par le
-ministre de l'agriculture et le ministre de l'éducation nationale, soit par le
-ministre de l'éducation nationale. Ces formations sont organisées en cycles. Là
-où le besoin existe, des actions permettant la connaissance et la diffusion des
-langues et cultures régionales sont organisées dans les établissements.
+privés aux métiers de l'agriculture, de la forêt, de la nature et des
+territoires sont dispensées suivant des programmes et référentiels nationaux,
+qui en précisent respectivement le contenu et les objectifs et qui sont arrêtés
+soit par le ministre de l'agriculture, soit conjointement par le ministre de
+l'agriculture et le ministre de l'éducation nationale, soit par le ministre de
+l'éducation nationale. Ces formations sont organisées en cycles. Là où le besoin
+existe, des actions permettant la connaissance et la diffusion des langues et
+cultures régionales sont organisées dans les établissements.
 
 Des enseignements artistiques sont assurés à titre obligatoire ou facultatif
 dans les établissements mentionnés au présent article.
@@ -25,25 +26,33 @@ dans les établissements mentionnés au présent article.
 Sous réserve des dispositions des articles L. 6211-1, L. 6211-2, L. 6211-5, L.
 6221-1, L. 6232-6, L. 6232-8 à L. 6232-10, L. 6313-1 à L. 6313-11, L. 6324-5 et
 L. 6325-2 du code du travail, les formations dispensées par l'enseignement
-général, technologique et professionnel et la formation professionnelle
-agricoles privés sont sanctionnées par des diplômes d'Etat ou des diplômes
-nationaux reconnus équivalents aux diplômes de même niveau de l'enseignement
-général, technologique et professionnel.
+général, technologique et professionnel et la formation professionnelle privés
+aux métiers de l'agriculture, de la forêt, de la nature et des territoires sont
+sanctionnées par des diplômes d'Etat ou des diplômes nationaux reconnus
+équivalents aux diplômes de même niveau de l'enseignement général, technologique
+et professionnel.
 
-Chaque établissement privé d'enseignement et de formation professionnelle
-agricoles établit un projet d'établissement qui définit les modalités
-particulières de sa contribution à la mise en oeuvre des missions de
-l'enseignement et de la formation professionnelle agricoles mentionnées à
-l'article L. 813-1. Le projet d'établissement est établi dans le respect du
-schéma prévisionnel national des formations de l'enseignement agricole mentionné
-à l'article L. 814-2, du schéma prévisionnel régional des formations mentionné à
-l'article L. 214-1 du code de l'éducation, du contrat de plan régional de
-développement des formations professionnelles mentionné à l'article L. 214-13 du
-même code et des programmes et référentiels nationaux mentionnés à l'article L.
-811-2 du présent code. Il est défini en cohérence avec le projet régional de
-l'enseignement agricole mentionné à l'article L. 814-5 du présent code. Il
-définit les modalités de la participation de l'établissement au développement
-des territoires dans lesquels celui-ci s'insère.
+Chaque établissement privé d'enseignement et de formation professionnelle aux
+métiers de l'agriculture, de la forêt, de la nature et des territoires établit
+un projet d'établissement qui définit les modalités particulières de sa
+contribution à la mise en oeuvre des missions de l'enseignement et de la
+formation professionnelle agricoles mentionnées à l'article L. 813-1. Le projet
+d'établissement est établi dans le respect du schéma prévisionnel national des
+formations de l'enseignement agricole mentionné à l'article L. 814-2, du schéma
+prévisionnel régional des formations mentionné à l'article L. 214-1 du code de
+l'éducation, du contrat de plan régional de développement des formations
+professionnelles mentionné à l'article L. 214-13 du même code et des programmes
+et référentiels nationaux mentionnés à l'article L. 811-2 du présent code. Il
+est défini en cohérence avec le projet régional de l'enseignement agricole
+mentionné à l'article L. 814-5 du présent code. Il définit les modalités de la
+participation de l'établissement au développement des territoires dans lesquels
+celui-ci s'insère.
+
+Sous réserve de l'autorisation préalable de l'autorité académique, la partie
+pédagogique du projet d'établissement peut prévoir la réalisation
+d'expérimentations, d'une durée maximale de cinq ans, portant sur l'enseignement
+et son organisation et l'organisation pédagogique de la classe ou de
+l'établissement. Ces expérimentations font l'objet d'une évaluation annuelle.
 
 Le projet d'établissement est élaboré sous la responsabilité du chef
 d'établissement. Il est adopté par le conseil d'administration de l'association

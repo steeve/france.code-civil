@@ -4,7 +4,7 @@ La composition et les compétences du Conseil national de l'enseignement agricol
 sont fixées par les dispositions des articles L. 814-1 et L. 814-2 du code rural
 et de la pêche maritime, ci-après reproduites :
 
-" Art.L. 814-1.-Le Conseil national de l'enseignement agricole est présidé par
+" Art. L. 814-1.-Le Conseil national de l'enseignement agricole est présidé par
 le ministre de l'agriculture et composé de soixante-quatre membres ainsi
 répartis :
 
@@ -46,7 +46,7 @@ l'enseignement agricole au sein du Conseil supérieur de l'éducation.
 Les modalités d'application du présent article sont fixées par décret en Conseil
 d'Etat. "
 
-" Art.L. 814-2.-Le Conseil national de l'enseignement agricole peut être saisi
+" Art. L. 814-2.-Le Conseil national de l'enseignement agricole peut être saisi
 pour avis de toute question de son ressort par un quart de ses membres ou par le
 Gouvernement. Il donne obligatoirement son avis sur tout avant-projet de loi ou
 de décret concernant l'enseignement agricole.
@@ -58,8 +58,9 @@ Il donne un avis sur le projet de schéma prévisionnel national des formations 
 l'enseignement agricole. Ce schéma, qui tient compte des besoins de formation
 exprimés par les régions, est arrêté pour une période de cinq années par le
 ministre de l'agriculture. La conduite du dispositif national de l'enseignement
-général, technologique et professionnel et de la formation professionnelle
-agricoles est assurée par l'Etat sur le fondement de ce schéma.
+général, technologique et professionnel et de la formation professionnelle aux
+métiers de l'agriculture, de la forêt, de la nature et des territoires est
+assurée par l'Etat sur le fondement de ce schéma.
 
 En cas de modifications substantielles, au cours de la période de validité du
 schéma, des bases qui ont servi à son établissement, ce schéma peut faire

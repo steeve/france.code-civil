@@ -1,13 +1,13 @@
 Article L946-1
 ----
-Indépendamment des sanctions pénales qui peuvent être prononcées, les
-manquements à la réglementation prévue par les dispositions du présent livre,
-les règlements de l'Union européenne pris au titre de la politique commune de la
-pêche et les textes pris pour leur application, y compris les manquements aux
-obligations déclaratives et de surveillance par satellite qu'ils prévoient, et
-par les engagements internationaux de la France peuvent donner lieu à
-l'application par l'autorité administrative d'une ou plusieurs des sanctions
-suivantes :
+Indépendamment des sanctions pénales qui peuvent être prononcées et sous réserve
+de l'article L. 946-2, les manquements à la réglementation prévue par les
+dispositions du présent livre, les règlements de l'Union européenne pris au
+titre de la politique commune de la pêche et les textes pris pour leur
+application, y compris les manquements aux obligations déclaratives et de
+surveillance par satellite qu'ils prévoient, et par les engagements
+internationaux de la France peuvent donner lieu à l'application par l'autorité
+administrative d'une ou plusieurs des sanctions suivantes :
 
 1° Une amende administrative égale au plus :
 

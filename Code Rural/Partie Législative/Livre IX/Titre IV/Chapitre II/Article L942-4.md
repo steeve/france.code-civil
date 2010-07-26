@@ -23,8 +23,7 @@ conditionnement, de transport ou de commercialisation y est en cours.
 Lorsque les lieux comportent des parties à usage d'habitation, celles-ci ne
 peuvent être visitées afin de rechercher et constater des infractions qu'entre
 huit heures et vingt heures, par des agents mentionnés aux 1°, 2°, 3°, 4°, 5°,
-6° ou 7° du I de l'article L. 942-1, avec accord de l'occupant ou, à défaut, sur
-autorisation du juge des libertés et de la détention et en présence d'un
-officier de police judiciaire agissant conformément aux dispositions du code de
-procédure pénale relatives aux perquisitions, visites domiciliaires et saisies
-des pièces à conviction.
+6° ou 7° du I de l'article L. 942-1, avec accord de l'occupant ou, à défaut, en
+présence d'un officier de police judiciaire agissant conformément aux
+dispositions du code de procédure pénale relatives aux perquisitions, visites
+domiciliaires et saisies des pièces à conviction.

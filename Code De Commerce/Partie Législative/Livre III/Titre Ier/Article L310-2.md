@@ -6,8 +6,11 @@ public de ces marchandises, ainsi qu'à partir de véhicules spécialement amén
 à cet effet.
 
 Les ventes au déballage ne peuvent excéder deux mois par année civile dans un
-même local ou sur un même emplacement. Elles font l'objet d'une déclaration
-préalable auprès du maire de la commune dont dépend le lieu de la vente.
+même local ou sur un même emplacement. Les ventes au déballage de fruits et
+légumes frais effectuées en période de crise conjoncturelle ne sont pas prises
+en compte pour le calcul de cette limite.Les ventes au déballage font l'objet
+d'une déclaration préalable auprès du maire de la commune dont dépend le lieu de
+la vente.
 
 Les particuliers non inscrits au registre du commerce et des sociétés sont
 autorisés à participer aux ventes au déballage en vue de vendre exclusivement

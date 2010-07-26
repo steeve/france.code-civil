@@ -10,6 +10,9 @@ articles L. 411-4 à L. 411-7, L. 411-8 (alinéa 1), L. 411-11 à L. 411-16 et L
 renouvellement de la location sont celles mentionnées dans l'arrêté en vigueur à
 cette date.
 
+La dérogation prévue au premier alinéa ne s'applique pas aux parcelles ayant
+fait l'objet d'une division depuis moins de neuf ans.
+
 Lorsqu'il n'est pas constaté par écrit, le bail des parcelles répondant aux
-conditions de l'alinéa précédent est soumis aux dispositions de l'article 1774
-du code civil.
+conditions du premier alinéa est soumis aux dispositions de l'article 1774 du
+code civil.

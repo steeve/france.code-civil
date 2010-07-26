@@ -1,8 +1,8 @@
 Article L943-1
 ----
-Les agents mentionnés au I de l'article L. 942-1 peuvent, en vue de les remettre
-à l'autorité compétente pour les saisir, procéder à l'appréhension des filets,
-des engins, des matériels, des équipements utilisés en plongée ou en pêche
+Les agents mentionnés à l'article L. 942-1 peuvent, en vue de les remettre à
+l'autorité compétente pour les saisir, procéder à l'appréhension des filets, des
+engins, des matériels, des équipements utilisés en plongée ou en pêche
 sous-marines, de tous instruments utilisés à des fins de pêche, des véhicules,
 des navires ou engins flottants ayant servi à pêcher ou à transporter des
 produits obtenus en infraction ainsi que des produits qui sont susceptibles de
@@ -17,6 +17,6 @@ L'appréhension donne lieu à l'établissement d'un procès-verbal. La remise de
 biens appréhendés à l'autorité compétente pour les saisir doit intervenir dans
 un délai qui ne peut excéder trois jours ouvrés à compter de l'appréhension.
 
-Les agents mentionnés au I de l'article L. 942-1 ont qualité pour procéder à
+Les agents mentionnés à l'article L. 942-1 ont qualité pour procéder à
 l'apposition des scellés et conserver les documents de bord en vue de leur
 remise à l'autorité compétente.

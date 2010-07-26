@@ -8,4 +8,5 @@ de la conchyliculture.
 Cette organisation comprend un comité national et des comités régionaux dotés de
 la personnalité morale et de l'autonomie financière.
 
-Les comités régionaux sont créés dans chaque bassin de production.
+Les comités régionaux sont créés dans chaque bassin de production ou ensemble de
+bassins de production.

@@ -1,7 +1,7 @@
 Article L955-1
 ----
 Sous réserve des dispositions des articles L. 955-3 à L. 955-13, les
-dispositions des articles L. 941-1 à L. 946-5 sont applicables aux eaux sous
+dispositions des articles L. 941-1 à L. 946-6 sont applicables aux eaux sous
 souveraineté ou juridiction française s'étendant au large des îles australes
 françaises et des îles Eparses.
 

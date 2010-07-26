@@ -2,7 +2,9 @@ Article L3262-1
 ----
 Le titre-restaurant est un titre spécial de paiement remis par l'employeur aux
 salariés pour leur permettre d'acquitter en tout ou en partie le prix du repas
-consommé au restaurant ou acheté chez un détaillant en fruits et légumes.
+consommé au restaurant ou acheté auprès d'une personne ou d'un organisme
+mentionné au deuxième alinéa de l'article L. 3262-3. Ce repas peut être composé
+de fruits et légumes, qu'ils soient ou non directement consommables.
 
 Ces titres sont émis :
 

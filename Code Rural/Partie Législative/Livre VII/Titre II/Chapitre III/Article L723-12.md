@@ -2,8 +2,8 @@ Article L723-12
 ----
 I. - La caisse centrale de la mutualité sociale agricole contribue à la mise en
 oeuvre de la politique sociale agricole. Elle soumet à cette fin toutes
-propositions au ministre chargé de l'agriculture et lui communique toutes
-statistiques.
+propositions aux ministres chargés de l'agriculture et de la sécurité sociale et
+leur communique toutes statistiques.
 
 II. - Dans le respect des lois de financement de la sécurité sociale, l'autorité
 compétente de l'Etat conclut avec la caisse centrale de la mutualité sociale

@@ -1,14 +1,37 @@
 Article L914-2
 ----
-Tout homme a le droit de détenir des animaux dans les conditions définies à
-l'article L. 914-1 et de les utiliser dans les conditions prévues à l'article L.
-914-3, sous réserve des droits des tiers et des exigences de la sécurité et de
-l'hygiène publique et des dispositions de la loi n° 76-629 du 10 juillet 1976
-relative à la protection de la nature.
+Il est créé auprès du Conseil supérieur d'orientation des politiques
+halieutique, aquacole et halio-alimentaire un comité de liaison scientifique et
+technique des pêches maritimes et de l'aquaculture.
 
-Les établissements ouverts au public pour l'utilisation d'animaux sont soumis au
-contrôle de l'autorité administrative qui peut prescrire des mesures pouvant
-aller jusqu'à la fermeture de l'établissement, indépendamment des poursuites
-pénales qui peuvent être exercées au titre de la loi précitée. Un décret en
-Conseil d'Etat précise les modalités d'application du présent article et de
-l'article L. 914-1.
+Le comité de liaison scientifique et technique peut être consulté sur toutes
+questions concernant les domaines suivants :
+
+- la conservation et l'exploitation durable des ressources vivantes en tenant
+compte des aspects biologiques, économiques, environnementaux, sociaux et
+techniques ;
+
+- l'analyse conjointe des parties prenantes sur l'évolution des ressources
+halieutiques et des flottilles de pêche ;
+
+- le développement de l'analyse scientifique effectuée à bord des navires de
+pêche en collaboration avec les marins-pêcheurs ;
+
+- les orientations en matière de recherche, de développement et d'expertise,
+notamment s'agissant de la collecte de données.
+
+Le comité examine au moins une fois par an l'état de la ressource halieutique et
+les mesures prises pour sa gestion, et émet des recommandations sur celles-ci.
+
+Le comité examine également au moins une fois par an la situation de la
+recherche dans le domaine de l'aquaculture ainsi que l'évolution des
+implantations en matière d'aquaculture marine.
+
+Il est composé de représentants des ministères et établissements publics
+intéressés, de parlementaires, de représentants des professionnels des pêches
+maritimes et de l'aquaculture, de la recherche et de représentants des
+associations de consommateurs et des associations de protection de
+l'environnement.
+
+La composition et les règles de fonctionnement du comité sont précisées par
+décret.

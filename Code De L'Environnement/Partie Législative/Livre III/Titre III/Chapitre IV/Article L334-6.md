@@ -19,11 +19,11 @@ prises pour leur application ;
 4° Les infractions à la police des biens culturels maritimes définies aux
 articles L. 544-5 à L. 544-7 du code du patrimoine ;
 
-5° Les infractions aux dispositions du décret-loi du 9 janvier 1852 sur
-l'exercice de la pêche maritime et de ses textes d'application. En tant
-qu'agents chargés de la police des pêches, les agents mentionnés au premier
-alinéa disposent pour effectuer les contrôles des prérogatives prévues à
-l'article 14 du décret-loi du 9 janvier 1852 précité ;
+5° Les infractions prévues et réprimées par le livre IX du code rural et de la
+pêche maritime et ses textes d'application. En tant qu'agents chargés de la
+police des pêches, les agents mentionnés au premier alinéa disposent pour
+effectuer les contrôles des prérogatives prévues aux articles L. 942-5, L. 942-6
+et L. 943-1 du code rural et de la pêche maritime ;
 
 6° Les infractions mentionnées à l'article L. 322-10-1 du présent code relatif à
 l'accès aux espaces gérés par le Conservatoire de l'espace littoral et des

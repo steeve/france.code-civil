@@ -12,9 +12,9 @@ utilisés pour les pêches en infraction à la réglementation prévue par les
 dispositions du présent livre, par les règlements de l'Union européenne pris au
 titre de la politique commune de la pêche, par les textes pris pour leur
 application, par les engagements internationaux de la France, ainsi que par les
-délibérations rendues obligatoires en application des articles L. 912-5 et L.
-912-10, ainsi que des produits de ces pêches ou des sommes provenant de leur
-vente ;
+délibérations rendues obligatoires en application des articles L. 912-10 et L.
+921-2-1 et du second alinéa de l'article L. 921-2-2, ainsi que des produits de
+ces pêches ou des sommes provenant de leur vente ;
 
 3° De ne pas donner aux produits saisis la destination décidée par le tribunal
 ou l'autorité compétente.

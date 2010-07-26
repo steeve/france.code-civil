@@ -2,8 +2,8 @@ Article L125-5
 ----
 Sont exclus du champ d'application du présent chapitre les dommages causés aux
 récoltes non engrangées, aux cultures, aux sols et au cheptel vif hors bâtiment,
-dont l'indemnisation reste régie par les dispositions des articles L. 361-1 à L.
-361-21 du code rural et de la pêche maritime.
+dont l'indemnisation reste régie par les dispositions du chapitre Ier du titre
+VI du livre III du code rural et de la pêche maritime.
 
 Sont exclus également du champ d'application du présent chapitre les dommages
 subis par les corps de véhicules aériens, maritimes, lacustres et fluviaux,

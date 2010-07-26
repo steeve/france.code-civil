@@ -9,8 +9,8 @@ sécurité.
 
 Ils ont qualité pour procéder aux prélèvements mentionnés à l'article L. 724-3.
 
-Ont également qualité pour procéder à ces prélèvements les agents agréés et
-assermentés mentionnés à l'article L. 724-7 qui sont chargés du contrôle de la
-prévention instituée par les articles L. 751-48 et L. 752-29. Les dispositions
-de l'avant-dernier alinéa de l'article L. 611-8 du code du travail sont
-applicables à ces prélèvements.
+Ont également qualité pour procéder à ces prélèvements les conseillers en
+prévention qui sont notamment qui sont chargés du contrôle de la prévention
+instituée par les articles L. 751-48 et L. 752-29. Les dispositions de
+l'avant-dernier alinéa de l'article L. 611-8 du code du travail sont applicables
+à ces prélèvements.

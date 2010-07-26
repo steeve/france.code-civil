@@ -1,24 +1,42 @@
 Article L912-3
 ----
-Les organes dirigeants des comités des pêches maritimes et des élevages marins
-sont composés de représentants :
+I.-Dans le respect des règles de l'Union européenne, des accords internationaux
+auxquels la France est partie et des lois et règlements nationaux, les comités
+régionaux mentionnés à l'article L. 912-1 ont pour mission : a) D'assurer la
+représentation et la promotion au niveau régional des intérêts généraux des
+professionnels exerçant une activité de pêche maritime ou d'élevage marin ;
 
-1° Des équipages et salariés des entreprises de pêche maritime et d'élevage
-marin et des chefs de ces entreprises ou de leurs conjoints, à parité et formant
-au moins la moitié des membres de chacun des organes dirigeants ;
+b) De participer à l'élaboration et à l'application des réglementations en
+matière de gestion des ressources halieutiques pour les espèces qui ne sont pas
+soumises à des totaux autorisés de captures ou à des quotas de captures en
+application d'un règlement de l'Union européenne et de récolte des végétaux
+marins ;
 
-2° Des salariés des entreprises de premier achat et de transformation de la
-filière des pêches maritimes et des élevages marins et des chefs de ces
-entreprises, à parité ;
+c) De participer à l'élaboration des réglementations encadrant l'usage des
+engins et la cohabitation des métiers de la mer ;
 
-3° Des coopératives maritimes mentionnées aux articles L. 931-5 et suivants ;
+d) De participer à la réalisation d'actions économiques et sociales en faveur de
+leurs membres ;
 
-4° De plus, siègent, au sein de l'organe dirigeant de chaque comité régional,
-des représentants désignés par les comités locaux situés dans la circonscription
-régionale, dans une proportion qui ne peut excéder un quart des membres de ce
-comité régional. De même, siègent, au sein de l'organe dirigeant du comité
-national, un représentant désigné par chacun des comités régionaux.
+e) De participer aux politiques publiques régionales de protection et de mise en
+valeur de l'environnement, afin notamment de favoriser une gestion durable de la
+pêche maritime et des élevages marins ;
 
-La représentation des chefs d'entreprise et des coopératives mentionnés aux 1°
-et 3° ci-dessus doit comprendre des représentants des organisations de
-producteurs telles que définies aux articles L. 912-11, L. 912-12 et L. 912-13.
+f) D'apporter un appui scientifique et technique à leurs membres, ainsi qu'en
+matière de sécurité, de formation et de promotion des métiers de la mer.
+
+Les comités régionaux situés dans les départements d'outre-mer exercent dans le
+secteur de la pêche maritime et des élevages marins les fonctions prévues à
+l'article L. 342-2 du code de la recherche.
+
+Les comités régionaux peuvent déléguer certaines de leurs compétences aux
+comités départementaux ou interdépartementaux de leur ressort.
+
+II.-Les comités départementaux ou interdépartementaux ont pour mission :
+
+a) D'assurer la représentation et la promotion, au niveau départemental, des
+intérêts généraux des professionnels exerçant une activité de pêche maritime ou
+d'élevage marin ;
+
+b) D'assurer, auprès des entreprises de pêche et des salariés de ces
+entreprises, une mission d'information et de conseil.

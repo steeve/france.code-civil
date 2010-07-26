@@ -1,5 +1,8 @@
 Article L492-7
 ----
+Le tribunal paritaire est regardé comme constitué dès lors qu'il comprend au
+moins deux assesseurs titulaires élus dans chaque catégorie.
+
 Lorsque le tribunal paritaire ne peut être constitué ou ne peut fonctionner pour
 une cause autre que celles prévues à l'article L. 492-6, le juge d'instance qui
 le préside constate cet état de fait par ordonnance.

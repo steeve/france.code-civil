@@ -1,25 +1,36 @@
 Article L361-8
 ----
-En vue de favoriser le développement de l'assurance contre les risques agricoles
-énumérés par décret, le fonds prend en charge, pendant une période minimale de
-sept ans, une part des primes ou cotisations d'assurance afférentes à ces
-risques.
+Il est institué un Comité national de la gestion des risques en agriculture
+compétent en matière de gestion des aléas climatique, sanitaire, phytosanitaire
+et environnemental mentionnés à l'article L. 361-1.
 
-Cette prise en charge est forfaitaire, dégressive et variable suivant
-l'importance du risque et la nature des cultures.
+Le Comité national de la gestion des risques en agriculture est consulté sur
+tous les textes réglementaires pris en application du présent chapitre.
 
-Le décret prévu au premier alinéa détermine également les taux de cette prise en
-charge, sans toutefois que la participation du fonds puisse excéder 50 p. 100 de
-la prime au cours de la première année et 10 p. 100 de la prime au cours de la
-dernière année.
+Il peut être consulté par le ministre chargé de l'agriculture et, lorsqu'ils
+sont compétents, par le ministre chargé de l'environnement, le ministre chargé
+de l'économie et le ministre chargé de l'outre-mer à des fins d'expertise sur :
 
-Pour l'application de ces dispositions, une section particulière du fonds est
-créée en recettes et en dépenses. Cette section est alimentée en recettes par
-une dotation provenant du budget de l'Etat. Une fraction de l'excédent annuel
-des ressources mentionnées à l'article L. 361-5 sur les dépenses d'indemnisation
-peut lui être affectée.
+-la connaissance des risques climatique, sanitaire, phytosanitaire et
+environnemental ainsi que de tout autre risque affectant les exploitations
+agricoles ;
 
-L'aide financière complémentaire, éventuellement consentie par les collectivités
-locales ou toute autre personne morale de droit privé ou de droit public ou
-toute personne physique, ne pourra venir en déduction de celle accordée par
-l'Etat.
+-les modalités de fonctionnement des fonds de mutualisation agréés prévus à
+l'article L. 361-3 ;
+
+-les conditions de développement des produits d'assurance contre les dommages
+causés aux exploitations agricoles, notamment l'impact des seuils de franchise
+et de perte sur ce développement et sur l'attractivité de l'assurance, et
+l'adéquation entre le niveau des primes de ces produits et le niveau de risque
+encouru ;
+
+-les instruments appropriés de gestion de ces risques et aléas, y compris les
+techniques autres que l'assurance ou les fonds de mutualisation.
+
+Selon des modalités fixées par décret, le Comité national de gestion des risques
+en agriculture peut, de sa propre initiative, appeler l'attention du
+Gouvernement sur les sujets relevant de sa compétence.
+
+Un décret fixe la composition du Comité national de la gestion des risques en
+agriculture et de ses comités départementaux d'expertise et précise les missions
+et les modalités de fonctionnement de ces comités.

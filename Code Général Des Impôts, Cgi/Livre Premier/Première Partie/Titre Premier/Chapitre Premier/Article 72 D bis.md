@@ -21,7 +21,7 @@ travaillées pour lesquelles une dépense a été engagée au cours de l'exercic
 un. Le total obtenu est arrondi à l'unité supérieure.
 
 Toutefois, la déduction pour aléas est plafonnée à la différence positive entre
-la somme de 150 000 euros et le montant des déductions pratiquées et non encore
+la somme de 150 000 € et le montant des déductions pratiquées et non encore
 rapportées au résultat, majoré des intérêts capitalisés en application du
 sixième alinéa.
 
@@ -29,13 +29,15 @@ Pour les exploitations agricoles à responsabilité limitée qui n'ont pas opté
 pour le régime fiscal des sociétés de capitaux, les plafonds sont multipliés par
 le nombre des associés exploitants dans la limite de trois.
 
-La déduction pour aléas s'exerce à la condition que, dans les trois mois de la
-clôture de l'exercice, l'exploitant ait inscrit à un compte d'affectation ouvert
-auprès d'un établissement de crédit une somme provenant des recettes de
-l'exploitation de cet exercice égale au montant de la déduction.L'épargne
-professionnelle ainsi constituée doit être inscrite à l'actif du bilan de
-l'exploitation. Les intérêts produits par cette épargne professionnelle et qui
-sont capitalisés dans le compte d'affectation ne sont pas soumis à l'impôt.
+La déduction pour aléas s'exerce à la condition que, dans les six mois de la
+clôture de l'exercice et au plus tard à la date de dépôt de déclaration des
+résultats se rapportant à l'exercice au titre duquel la déduction est pratiquée,
+l'exploitant ait inscrit à un compte d'affectation ouvert auprès d'un
+établissement de crédit une somme provenant des recettes de l'exploitation de
+cet exercice égale au montant de la déduction. L'épargne professionnelle ainsi
+constituée doit être inscrite à l'actif du bilan de l'exploitation. Les intérêts
+produits par cette épargne professionnelle et qui sont capitalisés dans le
+compte d'affectation ne sont pas soumis à l'impôt.
 
 La déduction est pratiquée après application des abattements prévus aux articles
 44 quaterdecies et 73 B et de la déduction pour investissement prévue à
@@ -71,7 +73,10 @@ transferts de charges d'exploitation affectés, du coût d'achat des marchandise
 vendues et de la consommation de l'exercice en provenance de tiers.
 
 Les sommes et intérêts ainsi utilisés sont rapportés au résultat de l'exercice
-au cours duquel leur retrait du compte est intervenu.
+au cours duquel leur retrait du compte est intervenu ou de l'exercice au cours
+duquel est survenu l'aléa visé au d à condition que ce prélèvement soit
+intervenu dans les six mois de la clôture de cet exercice et au plus tard à la
+date de dépôt de la déclaration des résultats s'y rapportant.
 
 Lorsque ces sommes et intérêts ne sont pas utilisés au cours des dix exercices
 qui suivent celui de leur inscription au compte, ils sont rapportés aux

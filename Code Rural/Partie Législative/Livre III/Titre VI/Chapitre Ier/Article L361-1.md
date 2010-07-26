@@ -1,7 +1,10 @@
 Article L361-1
 ----
-Un fonds national de garantie des calamités agricoles est institué afin de
-financer les aides au développement de l'assurance contre les dommages causés
-aux exploitations agricoles. Ce fonds est, en outre, chargé de financer
-l'indemnisation des dommages matériels causés aux exploitations agricoles par
-les calamités telles qu'elles sont définies à l'article L. 361-2.
+Un fonds national de gestion des risques en agriculture est institué afin de
+participer au financement des dispositifs de gestion des aléas climatique,
+sanitaire, phytosanitaire et environnemental dans le secteur agricole. Ses
+recettes et ses dépenses sont réparties entre trois sections, définies aux
+articles L. 361-3 à L. 361-5.
+
+La gestion comptable et financière de ce fonds est assurée dans les conditions
+prévues à l'article L. 431-11 du code des assurances et précisées par décret.

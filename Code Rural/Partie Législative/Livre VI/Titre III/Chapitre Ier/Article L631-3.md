@@ -3,7 +3,7 @@ Article L631-3
 Dans le cadre des objectifs prévus par le plan en ce qui concerne la production
 et pour faciliter l'écoulement régulier des produits en cause, des accords
 interprofessionnels à long terme sont conclus, selon les modalités prévues par
-le présent chapitre, entre les acheteurs ou leurs groupements et les organismes
+la présente section, entre les acheteurs ou leurs groupements et les organismes
 les plus représentatifs des producteurs à l'échelon national ou à l'échelon
 régional.
 

@@ -8,18 +8,23 @@ l'Etat.
 
 Les ressources de ce fonds sont réparties dans les conditions suivantes :
 
-1° Le représentant de l'Etat dans le département dans lequel est installé le
-point de raccordement au réseau public de distribution ou de transport
-d'électricité des installations répartit une moitié du produit de la taxe
-afférent à ces installations entre les communes littorales d'où elles sont
-visibles, en tenant compte de la distance qui sépare les installations de l'un
-des points du territoire des communes concernées et de la population de ces
-dernières. Par exception, lorsque les installations sont visibles de plusieurs
-départements, la répartition est réalisée conjointement par les représentants de
-l'Etat dans les départements concernés ;
+1° 50 % sont affectés aux communes littorales d'où des installations sont
+visibles. Il est tenu compte, dans la répartition de ce produit entre les
+communes, de la distance qui sépare les installations de l'un des points du
+territoire des communes concernées et de la population de ces dernières. Par
+exception, lorsque les installations sont visibles de plusieurs départements, la
+répartition est réalisée conjointement dans les départements concernés ;
 
-2° Le conseil général du département dans lequel est installé le point de
-raccordement au réseau public de distribution ou de transport d'électricité des
-installations gère l'autre moitié du produit de la taxe afférent à ces
-installations, dans le cadre d'un fonds départemental pour les activités
-maritimes de pêche et de plaisance.
+2° 35 % sont affectés au comité national mentionné à l'article L. 912-1 du code
+rural et de la pêche maritime pour le financement de projets concourant à
+l'exploitation durable des ressources halieutiques. Ces projets sont présentés
+par les comités départementaux ou interdépartementaux ou les comités régionaux
+concernés par le développement de l'énergie éolienne en mer ainsi que par le
+comité national lorsque ces projets sont d'intérêt transrégional ;
+
+3° 15 % sont affectés, à l'échelle de la façade maritime, au financement de
+projets concourant au développement durable des autres activités maritimes.
+
+Les modalités de répartition, d'affectation et d'utilisation du produit de la
+taxe, la définition des catégories d'opérations éligibles et l'organisation du
+contrôle par l'Etat sont précisées par décret.

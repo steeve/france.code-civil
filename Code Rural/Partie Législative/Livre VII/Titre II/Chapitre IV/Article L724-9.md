@@ -1,8 +1,8 @@
 Article L724-9
 ----
-Les agents agréés et assermentés mentionnés aux articles L. 724-7 et L. 724-8
-ont les mêmes pouvoirs et bénéficient de la même protection que les inspecteurs
-du travail et les contrôleurs du travail.
+Les agents mentionnés aux articles L. 724-7 et L. 724-8 ont les mêmes pouvoirs
+et bénéficient de la même protection que les inspecteurs du travail et les
+contrôleurs du travail.
 
 Les agents visés à l'alinéa précédent peuvent accéder aux informations détenues
 par les services déconcentrés du ministère chargé de l'agriculture relatives aux

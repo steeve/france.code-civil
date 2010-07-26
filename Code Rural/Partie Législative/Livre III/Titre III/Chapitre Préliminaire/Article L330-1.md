@@ -4,7 +4,10 @@ La politique d'installation favorise la transmission des exploitations dans un
 cadre familial et hors cadre familial ainsi que leur adaptation, au bénéfice des
 candidats à l'installation justifiant de leur capacité à réaliser un projet
 viable à titre individuel ou au sein d'une société mentionnée à l'article L.
-341-2.
+341-2.A cet effet, cette politique comporte un volet spécifique à l'installation
+en société visant notamment à faciliter la recherche et le remplacement
+d'associés grâce au répertoire à l'installation mentionné au second alinéa de
+l'article L. 330-2.
 
 Dans ce cadre, elle prévoit des formes d'installation progressive, permettant
 d'organiser, dans des conditions précisées par décret, des parcours d'accès aux

@@ -1,6 +1,6 @@
 Article L943-2
 ----
-Sont compétents pour décider la saisie des biens appréhendés conformément à
+Sont compétents pour opérer la saisie des biens appréhendés conformément à
 l'article L. 943-1 :
 
 a) Dans les départements littoraux de métropole, le directeur départemental des

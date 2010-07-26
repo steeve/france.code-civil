@@ -1,7 +1,7 @@
 Article L942-5
 ----
-Les agents mentionnés au I de l'article L. 942-1 peuvent donner à tout navire ou
-engin flottant l'ordre de stopper et, le cas échéant, de relever son matériel de
+Les agents mentionnés à l'article L. 942-1 peuvent donner à tout navire ou engin
+flottant l'ordre de stopper et, le cas échéant, de relever son matériel de
 pêche.
 
 Ils peuvent monter à bord et procéder à tout examen des ponts et locaux de

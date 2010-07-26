@@ -22,10 +22,6 @@ groupement.
 Les groupements agricoles d'exploitation en commun ne peuvent réunir plus de dix
 associés.
 
-Un groupement agricole d'exploitation en commun ne peut être constitué de deux
-époux qui en seraient les seuls associés.
-
-Les groupements agricoles d'exploitation en commun constitués à compter de la
-publication de la loi n° 95-95 du 1er février 1995 de modernisation de
-l'agriculture ne peuvent être composés de deux personnes vivant maritalement qui
-en seraient les seuls associés.
+Un groupement agricole d'exploitation en commun peut être constitué de deux
+époux, de deux concubins ou de deux partenaires liés par un pacte civil de
+solidarité, y compris lorsqu'ils en sont les seuls associés.

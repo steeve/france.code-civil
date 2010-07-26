@@ -56,7 +56,7 @@ les articles L. 416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural et de la
 pêche maritime ou à bail cessible dans les conditions prévues par les articles
 L. 418-1 à L. 418-5 du code rural et de la pêche maritime ;
 
-c )Que les parts aient été détenues depuis deux ans au moins par le donateur ou
+c) Que les parts aient été détenues depuis deux ans au moins par le donateur ou
 le défunt.
 
 Ce délai n'est pas exigé lorsque le donateur ou le défunt ont été parties au
@@ -65,9 +65,9 @@ effectué des apports constitués exclusivement par des immeubles ou des droits
 immobiliers à destination agricole.
 
 L'exonération ne s'applique pas aux parts de groupements fonciers agricoles qui
-sont détenues ou qui ont été détenues par une société civile régie par la
-section 3 du chapitre IV du titre premier du livre II du code monétaire et
-financier ou par une entreprise d'assurance ou de capitalisation ;
+sont détenues par une société civile régie par la section 3 du chapitre IV du
+titre premier du livre II du code monétaire et financier ou par une entreprise
+d'assurance ou de capitalisation ;
 
 Conformément aux dispositions de l'article L. 322-18 du code rural et de la
 pêche maritime, le remboursement des avantages fiscaux prévus aux articles L.
@@ -101,10 +101,10 @@ code forestier ;
 b. qu'il contienne l'engagement par l'héritier, le légataire ou le donataire,
 pris pour lui et ses ayants cause :
 
-- soit d'appliquer pendant trente ans aux bois et forêts objets de la mutation
+-soit d'appliquer pendant trente ans aux bois et forêts objets de la mutation
 l'une des garanties de gestion durable prévues à l'article L. 8 dudit code ;
 
-- soit lorsque, au moment de la mutation, aucune garantie de gestion durable
+-soit lorsque, au moment de la mutation, aucune garantie de gestion durable
 n'est appliquée aux bois et forêts en cause, de présenter dans le délai de trois
 ans à compter de la mutation et d'appliquer jusqu'à l'expiration du délai de
 trente ans précité une telle garantie. Dans cette situation, le bénéficiaire

@@ -16,3 +16,6 @@ Si le produit ne satisfait pas aux conditions posées par les règlements
 mentionnés au précédent alinéa et se voit refuser le bénéfice de l'indication
 géographique protégée, il perd le bénéfice de l'homologation de son cahier des
 charges.
+
+Un décret précise les conditions d'application du présent article à
+Saint-Pierre-et-Miquelon.

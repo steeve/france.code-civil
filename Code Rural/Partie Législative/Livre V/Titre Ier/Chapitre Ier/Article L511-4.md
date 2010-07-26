@@ -17,4 +17,10 @@ l'exercice de cette mission sont déterminées par décret ;
 3° Peut remplir, par délégation de l'Etat et dans des conditions fixées par
 décret, des tâches de collecte, de traitement et de conservation des données
 individuelles relatives aux exploitations agricoles aux fins de simplifier les
-procédures administratives qui leur sont applicables.
+procédures administratives qui leur sont applicables ;
+
+4° Assure l'information collective et individuelle sur les questions
+d'installation en agriculture, ainsi que la tenue du répertoire à l'installation
+créé dans chaque département en application de l'article L. 330-2 et participe,
+dans des conditions fixées par décret, à l'instruction des dossiers
+d'installation.

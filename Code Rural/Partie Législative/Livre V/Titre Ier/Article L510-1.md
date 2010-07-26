@@ -4,9 +4,18 @@ Le réseau des chambres d'agriculture se compose des chambres départementales
 d'agriculture, des chambres régionales d'agriculture et de l'Assemblée
 permanente des chambres d'agriculture.
 
-Il comprend également des chambres interdépartementales et des chambres
-interrégionales d'agriculture créées par un décret qui fixe les conditions dans
-lesquelles la nouvelle chambre se substitue aux chambres ainsi réunies.
+Il comprend également des chambres interdépartementales, des chambres
+interrégionales d'agriculture et des chambres d'agriculture de région créées,
+après avis concordants des chambres d'agriculture concernées, de l'Assemblée
+permanente des chambres d'agriculture et des autorités de tutelle, par un décret
+qui fixe la circonscription et les conditions dans lesquelles la nouvelle
+chambre d'agriculture se substitue aux chambres d'agriculture ainsi réunies.
+Lorsque la création d'une chambre interdépartementale, interrégionale ou d'une
+chambre de région intervient entre deux élections générales, ce décret peut
+prévoir des mesures transitoires, notamment les conditions dans lesquelles les
+membres élus des chambres départementales ou régionales restent en fonction
+jusqu'au terme de leur mandat, ainsi que les conditions d'administration de la
+nouvelle chambre jusqu'à cette date.
 
 Les établissements qui composent le réseau des chambres d'agriculture ont, dans
 le respect de leurs compétences respectives, une fonction de représentation des

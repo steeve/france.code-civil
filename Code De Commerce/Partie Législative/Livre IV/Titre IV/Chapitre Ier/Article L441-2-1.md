@@ -24,3 +24,7 @@ type.
 
 Toute infraction aux dispositions du présent article est punie d'une amende de
 15 000 Euros.
+
+Les deuxième et troisième alinéas ne sont pas applicables aux produits pour
+lesquels la conclusion de contrats écrits a été rendue obligatoire en
+application de l'article L. 631-24 du code rural et de la pêche maritime.

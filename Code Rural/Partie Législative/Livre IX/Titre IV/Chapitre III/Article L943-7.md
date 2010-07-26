@@ -15,3 +15,9 @@ saisie au fond ou l'autorité administrative compétente pour prononcer la
 sanction peut prononcer leur confiscation et ordonner qu'ils seront vendus,
 remis aux institutions spécialisées aux fins de l'enseignement maritime, ou
 décider leur destruction ou leur restitution.
+
+Quelle que soit cette destination, l'auteur de l'infraction ou son commettant
+supporte les frais résultant de l'opération correspondante et peut être tenu
+d'en assurer, sous le contrôle de l'autorité compétente, la réalisation
+matérielle, même s'il s'agit d'une vente ou d'une remise à titre gratuit ou
+onéreux.

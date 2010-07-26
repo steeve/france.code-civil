@@ -4,8 +4,8 @@ Lorsque la société d'aménagement foncier et d'établissement rural déclare
 vouloir faire usage de son droit de préemption et qu'elle estime que le prix et
 les conditions d'aliénation sont exagérés, notamment en fonction des prix
 pratiqués dans la région pour des immeubles de même ordre, elle adresse au
-vendeur, après accord des commissaires du Gouvernement, une offre d'achat
-établie à ses propres conditions.
+notaire du vendeur, après accord des commissaires du Gouvernement, une offre
+d'achat établie à ses propres conditions.
 
 Si le vendeur n'accepte pas l'offre de la société d'aménagement foncier et
 d'établissement rural, il peut soit retirer le bien de la vente, soit demander

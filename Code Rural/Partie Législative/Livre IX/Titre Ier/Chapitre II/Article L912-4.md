@@ -1,18 +1,29 @@
 Article L912-4
 ----
-L'autorité administrative arrête la composition des organes dirigeants des
-comités mentionnés à l'article L. 912-3 dans les conditions suivantes :
+I.-Le comité national mentionné à l'article L. 912-1 est administré par un
+conseil composé de représentants des chefs des entreprises de pêche maritime et
+d'élevage marin, de représentants des coopératives maritimes mentionnées aux
+articles L. 931-5 et suivants, de représentants des organisations de producteurs
+telles que définies à la section 3 du présent chapitre et de représentants des
+élevages marins. Il comprend également des représentants des comités régionaux
+mentionnés à l'article L. 912-1. En outre, participent aux travaux de ce comité,
+avec voix consultative, des représentants des entreprises de premier achat et de
+transformation de la filière des pêches maritimes et des élevages marins.
 
-1° Pour les organes dirigeants des comités locaux, les membres représentant les
-catégories professionnelles mentionnées au 1° de l'article L. 912-3 sont élus ;
+II.-Les comités régionaux et les comités départementaux ou interdépartementaux
+sont administrés par un conseil composé de représentants des équipages et
+salariés des entreprises de pêche maritime et d'élevage marin et des chefs de
+ces entreprises, de représentants des coopératives maritimes mentionnées aux
+articles L. 931-5 et suivants, de représentants des organisations de producteurs
+telles que définies à la section 3 du présent chapitre et de représentants des
+chefs d'entreprise d'élevage marin.
 
-2° Pour les organes dirigeants des comités régionaux et ceux du comité national,
-les membres représentant les catégories professionnelles mentionnées au 1° de
-l'article L. 912-3 sont nommés sur la base des résultats des élections locales
-mentionnées au 1° ; lorsque dans une région il n'existe pas de comité local, les
-membres de l'organe dirigeant du comité régional sont élus au niveau régional ;
+Les conseils des comités régionaux comprennent également des représentants des
+comités départementaux ou interdépartementaux.
 
-3° Pour les organes dirigeants des comités représentant les catégories
-professionnelles et les organismes mentionnés aux 2° et 3° de l'article L.
-912-3, les membres sont nommés sur proposition de leurs organisations
-représentatives.
+En outre, participent aux travaux de ces conseils, avec voix consultative, des
+représentants des entreprises de premier achat et de transformation de la
+filière des pêches maritimes et des élevages marins.
+
+III.-Les conseils du comité national, des comités régionaux et départementaux
+élisent en leur sein un bureau.

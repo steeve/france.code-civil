@@ -1,6 +1,6 @@
 Article L942-6
 ----
-Les agents mentionnés au I de l'article L. 942-1 peuvent :
+Les agents mentionnés à l'article L. 942-1 peuvent :
 
 1° Vérifier les documents professionnels de toute nature propres à faciliter
 l'accomplissement de leur mission et en prendre copie ;

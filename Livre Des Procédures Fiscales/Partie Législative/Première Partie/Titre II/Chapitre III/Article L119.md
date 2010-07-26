@@ -1,9 +1,10 @@
 Article L119
 ----
-Les agents de la direction générale de la concurrence et de la consommation, de
-la direction générale des douanes et droits indirects, du service de la
-répression des fraudes et du service des instruments de mesure, peuvent recevoir
-de l'administration des impôts communication sur place de tous les documents
-nécessaires à l'application des dispositions de l'ordonnance n° 45-1484 du 30
-juin 1945 relative à la constatation, la poursuite et la répression des
-infractions à la législation économique.
+L'administration des impôts communique à l'Agence de services et de paiement
+mentionnée à l'article L. 313-1 du code rural et de la pêche maritime, sur sa
+demande, les informations nominatives qui sont nécessaires à l'instruction des
+demandes d'indemnités compensatoires de handicaps naturels prévues par l'article
+37 du règlement (CE) n° 1698 / 2005 du Conseil du 20 septembre 2005 concernant
+le soutien au développement rural par le Fonds européen agricole pour le
+développement rural (FEADER), dans les conditions et selon les modalités fixées
+par décret.

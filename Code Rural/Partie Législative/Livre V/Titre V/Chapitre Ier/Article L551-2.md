@@ -8,7 +8,8 @@ associations d'organisations de producteurs reconnues.
 
 Les associations d'organisations de producteurs peuvent, dans le respect des
 dispositions communautaires applicables au secteur de production considéré,
-exercer toute activité d'une organisation de producteurs.
+exercer toute activité d'une organisation de producteurs et notamment prendre
+des mesures d'adaptation de la production au marché.
 
 Une organisation de producteurs adhère à une association d'organisations de
 producteurs pour un produit, un groupe de produits, une catégorie de produits.

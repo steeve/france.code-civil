@@ -1,15 +1,17 @@
 Article L666-2
 ----
-Les collecteurs agréés peuvent créer, en contrepartie des céréales qu'ils
-détiennent effectivement ou qui sont détenues par leurs mandataires, des effets
-avalisés par l'établissement mentionné à l'article L. 621-1 et remis à tout
-établissement de crédit.
+Les collecteurs de céréales déclarés peuvent créer, en contrepartie des céréales
+qu'ils détiennent effectivement ou qui sont détenues par leurs mandataires, des
+effets avalisés par l'établissement mentionné à l'article L. 621-1 et remis à
+tout établissement de crédit. L'établissement mentionné au même article L. 621-1
+peut exiger, après contrôle et expertise du risque financier, que les
+collecteurs déclarés adhèrent au préalable à une société de caution mutuelle.
 
 Pour les négociants en grains agréés en qualité de collecteurs, l'octroi de
-l'aval est subordonné à la condition qu'ils aient adhéré à une société de
-caution mutuelle et qu'ils soient soumis à des obligations et à des règles de
-contrôle équivalentes à celles applicables aux coopératives en vertu du statut
-juridique de la coopération agricole et des dispositions fixées par décret.
+l'aval est subordonné à la condition qu'ils soient soumis à des obligations et à
+des règles de contrôle équivalentes à celles applicables aux coopératives en
+vertu du statut juridique de la coopération agricole et des dispositions fixées
+par décret.
 
 Les dispositions du premier alinéa sont applicables aux effets créés par les
 coopératives de céréales ou par les organismes assimilés en contrepartie des

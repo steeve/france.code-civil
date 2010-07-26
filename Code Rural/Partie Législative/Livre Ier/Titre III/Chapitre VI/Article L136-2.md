@@ -10,7 +10,8 @@ habituelle à leur exploitation directe ;
 
 2° Assurer ou faire assurer l'exécution de travaux ou d'ouvrages à des fins
 autres qu'agricoles, pastorales ou forestières à la condition que ces travaux ou
-ouvrages contribuent au développement rural dans leur périmètre.
+ouvrages contribuent au développement rural ou à la préservation ou à la remise
+en bon état des continuités écologiques dans leur périmètre.
 
 Elles assurent la gestion des fonds compris dans leur périmètre pour lesquels
 elles ont reçu un mandat du propriétaire ou de son représentant.

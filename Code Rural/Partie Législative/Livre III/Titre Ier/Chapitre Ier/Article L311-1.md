@@ -8,7 +8,15 @@ prolongement de l'acte de production ou qui ont pour support l'exploitation. Les
 activités de cultures marines sont réputées agricoles, nonobstant le statut
 social dont relèvent ceux qui les pratiquent. Il en est de même des activités de
 préparation et d'entraînement des équidés domestiques en vue de leur
-exploitation, à l'exclusion des activités de spectacle.
+exploitation, à l'exclusion des activités de spectacle. Il en est de même de la
+production et, le cas échéant, de la commercialisation, par un ou plusieurs
+exploitants agricoles, de biogaz, d'électricité et de chaleur par la
+méthanisation, lorsque cette production est issue pour au moins 50 % de matières
+provenant de ces exploitations. Les revenus tirés de la commercialisation sont
+considérés comme des revenus agricoles, au prorata de la participation de
+l'exploitant agricole dans la structure exploitant et commercialisant l'énergie
+produite. Les modalités d'application du présent article sont déterminées par
+décret.
 
 Les activités agricoles ainsi définies ont un caractère civil.
 

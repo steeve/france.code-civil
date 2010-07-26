@@ -1,7 +1,7 @@
 Article L955-2
 ----
 Dans les Terres australes et antarctiques françaises l'autorité compétente pour
-décider la saisie est le directeur départemental des affaires maritimes de La
+opérer la saisie est le directeur départemental des affaires maritimes de La
 Réunion et ses adjoints.
 
 Lorsque, en application des articles L. 943-5 ou L. 943-7, il est procédé à la

@@ -1,7 +1,7 @@
 Article L953-1
 ----
 Sous réserve des dispositions des articles 711-3 et 711-4 du code pénal, les
-dispositions des articles L. 941-1 à L. 946-5 s'appliquent aux eaux sous
+dispositions des articles L. 941-1 à L. 946-6 s'appliquent aux eaux sous
 souveraineté ou juridiction française s'étendant au large de la Polynésie
 française en tant qu'elles concernent les compétences de l'Etat.
 

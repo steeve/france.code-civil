@@ -112,12 +112,12 @@ dans les six mois de la conclusion du prêt, au financement de l'acquisition d'u
 immeuble affecté à son habitation principale.
 
 Les intérêts mentionnés au premier alinéa sont ceux correspondant à un montant
-de prêt n'excédant pas 50 000 Euros. Ce plafond est applicable aux prêts
-consentis par un même prêteur à un même emprunteur.
+de prêt n'excédant pas 50 000 €. Ce plafond est applicable aux prêts consentis
+par un même prêteur à un même emprunteur.
 
-Pour les prêts d'un montant supérieur à 50 000 Euros, ces dispositions
-s'appliquent à la part des intérêts correspondant au rapport existant entre le
-plafond mentionné à l'alinéa précédent et le montant du prêt consenti.
+Pour les prêts d'un montant supérieur à 50 000 €, ces dispositions s'appliquent
+à la part des intérêts correspondant au rapport existant entre le plafond
+mentionné à l'alinéa précédent et le montant du prêt consenti.
 
 10° à 13° (Dispositions périmées) ;
 
@@ -197,3 +197,18 @@ de leurs intérêts capitalisés, le cas échéant, est immédiatement versée.
 
 Un décret en Conseil d'Etat précise les modalités d'application ainsi que les
 obligations déclaratives des contribuables et des intermédiaires.
+
+23° Les intérêts des sommes déposées sur un compte épargne d'assurance pour la
+forêt constitué dans les conditions prévues aux articles L. 261-1 à L. 261-7 du
+code forestier. L'exonération s'applique dans la limite de la fraction des
+intérêts correspondant au taux de rémunération de 2 %.
+
+L'exonération mentionnée au précédent alinéa est remise en cause au titre de
+l'année de survenance de l'un des cas mentionnés aux 1° et 2° de l'article L.
+261-6 du même code.
+
+A compter de la cession partielle de la surface de bois et forêts assurée dans
+les conditions définies au 3° du I de l'article L. 261-1 du même code, la
+fraction des intérêts exonérés est celle afférente au plafond de versements
+recalculé après la cession dans les conditions mentionnées au I de l'article L.
+261-2 du même code.

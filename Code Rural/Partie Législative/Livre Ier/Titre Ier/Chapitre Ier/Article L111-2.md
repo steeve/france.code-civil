@@ -29,4 +29,8 @@ faible densité de peuplement ;
 8° Contribuer à la prévention des risques naturels ;
 
 9° Assurer la mise en valeur et la protection du patrimoine rural et des
-paysages.
+paysages ;
+
+10° Préserver les ressources en eau, notamment par une politique de stockage de
+l'eau, la biodiversité sauvage et domestique et les continuités écologiques
+entre les milieux naturels.

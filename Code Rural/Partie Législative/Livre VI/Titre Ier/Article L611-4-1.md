@@ -1,14 +1,34 @@
 Article L611-4-1
 ----
-Pour faire face aux crises conjoncturelles et pour les produits tels que définis
-à l'article L. 611-4, un contrat conclu pour une durée déterminée qui ne peut
-excéder trois mois entre des organisations professionnelles représentatives de
-la production ou des groupements de producteurs reconnus, d'une part, et,
-d'autre part, des organisations professionnelles représentatives de la
-transformation, de la commercialisation ou de la distribution ou des
-distributeurs réalisant 25 % ou plus des ventes sur le marché concerné peut être
-rendu obligatoire, en tout ou partie, par arrêté interministériel signé du
-ministre chargé de l'agriculture et du ministre chargé de l'économie, après
-consultation du Conseil de la concurrence qui dispose d'un délai de huit jours
-ouvrables pour rendre son avis. L'arrêté est pris pour une durée de validité qui
-ne peut excéder celle du contrat.
+Les personnes mentionnées au I de l'article 302 bis ZA du code général des
+impôts peuvent conclure chaque année avec l'Etat des accords de modération des
+marges de distribution des fruits et légumes frais.
+
+Ces personnes doivent, lorsqu'elles sont liées contractuellement à une centrale
+d'achat ou à une centrale de référencement ou associées à un groupement d'achat,
+mandater le responsable de cette centrale ou de ce groupement pour signer en
+leur nom les accords prévus au premier alinéa du présent article.
+
+La marge de distribution visée au premier alinéa s'entend de la différence entre
+le prix de revente hors taxe au consommateur du produit et son prix d'achat hors
+taxe.
+
+Ces accords, dont le contenu est précisé par décret en Conseil d'Etat, sont
+signés avant le 1er mars de chaque année. Pour l'année 2010, ils sont signés au
+plus tard un mois après la publication de ce décret. Ils entrent en application
+dès que la situation de crise conjoncturelle définie à l'article L. 611-4 est
+constituée.
+
+Les personnes mentionnées au I de l'article 302 bis ZA du code général des
+impôts , ou le groupement de distributeurs dont elles dépendent, rendent compte,
+à la demande des ministres chargés de l'agriculture et de l'économie, de
+l'application des accords.
+
+Le non-respect des accords ou le retard dans leur mise en œuvre est sanctionné
+d'une amende civile dont le montant ne peut être supérieur à deux millions
+d'euros. Le montant de l'amende est proportionné à la gravité des faits
+constatés, au vu notamment du volume de produits en cause et de la durée des
+périodes de crise.L'action est introduite devant la juridiction civile
+compétente par le ministère public, par le représentant de l'Etat dans le
+département, par le ministre chargé de l'agriculture ou le ministre chargé du
+commerce.

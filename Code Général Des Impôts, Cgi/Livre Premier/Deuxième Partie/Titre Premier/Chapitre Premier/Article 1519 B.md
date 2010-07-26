@@ -1,8 +1,8 @@
 Article 1519 B
 ----
-Il est institué au profit des communes une taxe annuelle sur les installations
-de production d'électricité utilisant l'énergie mécanique du vent situées dans
-les eaux intérieures ou la mer territoriale.
+Il est institué au profit des communes et des usagers de la mer une taxe
+annuelle sur les installations de production d'électricité utilisant l'énergie
+mécanique du vent situées dans les eaux intérieures ou la mer territoriale.
 
 La taxe est acquittée par l'exploitant de l'unité de production d'électricité
 utilisant l'énergie mécanique du vent.

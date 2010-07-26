@@ -1,6 +1,6 @@
 Article L951-3
 ----
-Sont compétents pour décider la saisie des biens appréhendés conformément à
+Sont compétents pour opérer la saisie des biens appréhendés conformément à
 l'article L. 943-1 :
 
 1° Dans les départements d'outre-mer, le directeur départemental des affaires

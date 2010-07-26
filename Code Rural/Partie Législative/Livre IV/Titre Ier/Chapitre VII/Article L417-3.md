@@ -10,3 +10,7 @@ propriétaire ne peut récupérer le montant par une modification des conditions
 partage.
 
 Les dispositions ci-dessus sont d'ordre public.
+
+Une dérogation au partage des dépenses d'exploitation entre le preneur et le
+bailleur peut être autorisée par le préfet du département après avis de la
+commission consultative paritaire départementale des baux ruraux.

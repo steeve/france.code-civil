@@ -1,6 +1,6 @@
 Article 199 decies H
 ----
-1.A compter de l'imposition des revenus de 2001, il est institué une réduction
+1. A compter de l'imposition des revenus de 2001, il est institué une réduction
 d'impôt sur le revenu pour les contribuables domiciliés en France au sens de
 l'article 4 B qui, jusqu'au 31 décembre 2013, réalisent les opérations
 forestières mentionnées au 2.
@@ -102,24 +102,33 @@ livre V de la partie réglementaire du même code ;
 f) A la rémunération versée par le contribuable, par un groupement forestier ou
 une société d'épargne forestière dont le contribuable est membre, pour la
 réalisation d'un contrat conclu pour la gestion de bois et forêts d'une surface
-inférieure à 25 hectares avec un expert forestier au sens de l'article L. 171-1
-du code rural et de la pêche maritime, avec une coopérative forestière ou une
-organisation de producteurs au sens de l'article L. 551-1 du même code ou avec
-l'Office national des forêts en application de l'article L. 224-6 du code
-forestier, sous réserve des trois conditions suivantes :
+inférieure à vingt-cinq hectares avec un gestionnaire forestier professionnel au
+sens de l'article L. 224-7 du code forestier ou un expert forestier au sens de
+l'article L. 171-1 du code rural et de la pêche maritime, dans le cadre d'un
+mandat de gestion, avec une coopérative forestière ou une organisation de
+producteurs au sens de l'article L. 551-1 du même code ou avec l'Office national
+des forêts en application de l'article L. 224-6 du code forestier, sous réserve
+des trois conditions suivantes (1) :
 
 1° le contrat de gestion doit prévoir la réalisation de programmes de travaux et
 de coupes sur des terrains en nature de bois et forêts dans le respect de l'une
 des garanties de gestion durable prévues à l'article L. 8 du même code ;
 
 2° ces coupes doivent être cédées soit dans le cadre d'un mandat de vente avec
-un expert forestier, soit en exécution d'un contrat d'apport conclu avec une
-coopérative ou une organisation de producteurs, soit dans les conditions
-prescrites à l'article L. 224-6 du même code ;
+un gestionnaire forestier professionnel ou un expert forestier, soit en
+exécution d'un contrat d'apport conclu avec une coopérative ou une organisation
+de producteurs, soit dans les conditions prescrites à l'article L. 224-6 du même
+code (1) ;
 
 3° ces coupes doivent être commercialisées à destination d'unités de
 transformation du bois ou de leurs filiales d'approvisionnement par voie de
 contrats d'approvisionnement annuels reconductibles ou pluriannuels.
+
+g) A la cotisation versée à un assureur par le contribuable, par un groupement
+forestier ou une société d'épargne forestière dont le contribuable est membre
+pour la souscription, dans le cadre prévu par le 3° du I de l'article L. 261-1
+du code forestier, d'un contrat d'assurance répondant à des conditions fixées
+par décret.
 
 Les conditions et les modalités d'application de ces dispositions sont fixées
 par décret.
@@ -148,17 +157,34 @@ f) Des dépenses de rémunération mentionnées au f du 2 et payées par le
 contribuable ou de la fraction de ces dépenses payées par le groupement ou la
 société correspondant aux droits que le contribuable détient dans ces derniers.
 
+g) De la cotisation d'assurance mentionnée au g du 2 et payée par le
+contribuable ou de la fraction de cette cotisation payée par le groupement
+forestier ou la société d'épargne forestière correspondant aux droits que le
+contribuable détient dans ces derniers.
+
+La réduction d'impôt n'est pas applicable aux dépenses mentionnées aux d, e et g
+payées dans le cadre de l'utilisation de sommes prélevées sur un compte épargne
+d'assurance pour la forêt prévu au titre VI du livre II du code forestier.
+
 3 bis. Le prix d'acquisition ou de souscription mentionné aux a et b du 3 et la
 fraction du prix d'acquisition ou de souscription mentionnée au c du 3 sont
 globalement retenus dans la limite de 5 700 € pour une personne célibataire,
 veuve ou divorcée et de 11 400 € pour un couple marié ou les partenaires liés
 par un pacte civil de solidarité, soumis à une imposition commune.
 
-Les dépenses et la fraction des dépenses mentionnées aux d et e du 3 sont
+Les dépenses mentionnées au g du 3 sont retenues dans la limite de 12 € par
+hectare assuré en 2011, de 9, 6 € par hectare assuré en 2012 et de 7, 2 € par
+hectare assuré en 2013.
+
+Les dépenses et la fraction des dépenses mentionnées aux d, e et g du 3 sont
 globalement retenues dans la limite de 6 250 € pour une personne célibataire,
 veuve ou divorcée et de 12 500 € pour un couple marié ou les partenaires liés
-par un pacte civil de solidarité, soumis à une imposition commune. Lorsque ces
-dépenses dépassent cette limite, la fraction excédentaire est retenue :
+par un pacte civil de solidarité, soumis à une imposition commune, sous réserve
+pour les dépenses mentionnées au g du 2 que soit produite avec la déclaration
+prévue à l'article 170 l'attestation d'assurance certifiant que la propriété en
+nature de bois et forêts du bénéficiaire est couverte contre le risque de
+tempête. Lorsque ces dépenses dépassent cette limite, la fraction excédentaire
+des dépenses mentionnées aux d et e du 3 est retenue :
 
 a) Au titre des quatre années suivant celle du paiement des travaux et dans la
 même limite ;
@@ -175,7 +201,9 @@ produites avec la déclaration prévue à l'article 170 la facture du contrat de
 gestion et l'attestation délivrée par l'opérateur certifiant que la cession et
 la commercialisation des coupes sont réalisées dans les conditions du f du 2.
 
-3 ter. Le taux de la réduction d'impôt est de 25 %.
+3 ter. Le taux de la réduction d'impôt est de 25 % à l'exception de la réduction
+d'impôt afférente aux dépenses prévues au g du 2 pour lesquelles ce taux est
+porté à 100 %.
 
 4. La réduction d'impôt s'applique pour le calcul de l'impôt dû :
 
@@ -186,8 +214,8 @@ b) Au titre de l'année du paiement des dépenses mentionnées aux d et e du 2 e
 le cas échéant, des quatre années suivantes ou des huit années suivantes en cas
 de sinistre forestier, conformément au 3 bis ;
 
-c) Au titre de l'année du paiement des dépenses de rémunération mentionnées au f
-du 2.
+c) Au titre de l'année du paiement des dépenses de rémunération ou de la
+cotisation d'assurance mentionnées aux f et g du 2.
 
 5. La réduction d'impôt fait l'objet d'une reprise au titre de l'année où le
 contribuable, le groupement ou la société d'épargne forestière cesse de

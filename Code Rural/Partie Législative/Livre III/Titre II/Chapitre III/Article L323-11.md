@@ -23,5 +23,12 @@ du comité national ci-dessus prévu, et dont les associés justifient qu'ils
 satisfont aux prescriptions légales et réglementaires régissant les groupements
 agricoles d'exploitation en commun.
 
+Le comité départemental mentionné au premier alinéa vérifie, sur la base des
+déclarations des intéressés et des informations dont il dispose, la conformité
+du groupement aux dispositions du présent chapitre. Il vérifie en particulier la
+qualité de chef d'exploitation des associés, l'adéquation entre la dimension de
+l'exploitation commune et le nombre d'associés ainsi que l'effectivité du
+travail en commun.
+
 Un décret détermine les modalités de publicité à l'égard des tiers lors de la
 création de groupements.

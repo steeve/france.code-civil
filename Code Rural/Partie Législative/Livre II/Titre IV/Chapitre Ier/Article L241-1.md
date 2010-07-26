@@ -18,14 +18,13 @@ profession, suivi de la production d'un certificat d'inscription au tableau de
 l'ordre des vétérinaires délivré par le conseil régional de l'ordre des
 vétérinaires.
 
-Dans la limite d'un quota annuel fixé par décret, le ministre chargé de
-l'agriculture peut autoriser à exercer la médecine et la chirurgie des animaux
-les personnes de nationalité française ou ressortissantes d'un autre Etat membre
-de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace
-économique européen qui, titulaires d'un diplôme, certificat ou titre de
-vétérinaire non mentionné aux articles L. 241-2 à L. 241-5, ont satisfait à la
-vérification d'ensemble de leurs connaissances selon les modalités fixées par
-décret.
+Le ministre chargé de l'agriculture peut autoriser à exercer la médecine et la
+chirurgie des animaux les personnes de nationalité française ou ressortissantes
+d'un autre Etat membre de l'Union européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen qui, titulaires d'un diplôme,
+certificat ou titre de vétérinaire non mentionné aux articles L. 241-2 à L.
+241-5, ont satisfait à la vérification d'ensemble de leurs connaissances selon
+les modalités fixées par décret.
 
 Les vétérinaires de nationalité française qui ont fait l'objet d'un arrêté du
 ministre chargé de l'agriculture les autorisant à exercer la médecine et la
@@ -35,4 +34,5 @@ poursuivre leurs activités.
 Préalablement à l'exercice effectif de la profession, les personnes autorisées à
 pratiquer la médecine et la chirurgie des animaux doivent procéder aux
 formalités d'enregistrement et d'inscription prévues au premier alinéa du
-présent article.
+présent article et faire la preuve qu'elles possèdent la connaissance du
+français nécessaire à l'exercice de la profession.

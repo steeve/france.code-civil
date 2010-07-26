@@ -125,7 +125,8 @@ celles-ci ont été payées à l'étranger.
 
 6. Les revenus des comptes d'épargne-logement mentionnés aux articles L. 315-1 à
 L. 315-6 du code de la construction et de l'habitation, des plans d'épargne
-populaire mentionnés au 22° de l'article 157 ainsi que des bons ou contrats de
+populaire et des comptes épargne d'assurance pour la forêt mentionnés
+respectivement aux 22° et 23° de l'article 157 ainsi que des bons ou contrats de
 capitalisation et des placements de même nature, autres que ceux en unités de
 compte, sont réalisés, pour l'application du 4, à la date de leur inscription en
 compte.

@@ -2,7 +2,7 @@ Article L642-13
 ----
 Il est établi au profit de l'Institut national de l'origine et de la qualité,
 ci-après dénommé l'institut, un droit sur les produits bénéficiant d'une
-appellation d'origine ou d'une indication géographique protégée.
+appellation d'origine ou d'une indication géographique.
 
 Les taux des droits sont fixés sur proposition du conseil permanent de
 l'institut et après avis du comité national compétent, par arrêté du ministre
@@ -17,8 +17,8 @@ boissons alcoolisées d'appellation d'origine autres que les vins ;
 indication géographique protégée ;
 
 0,05 euro par hectolitre ou 0,5 euro par hectolitre d'alcool pur pour les
-boissons alcoolisées bénéficiant d'une indication géographique protégée, autres
-que les produits vitivinicoles bénéficiant d'une indication géographique.
+boissons alcoolisées bénéficiant d'une indication géographique autres que les
+produits vitivinicoles bénéficiant d'une indication géographique protégée.
 
 8 euros par tonne pour les produits agroalimentaires ou forestiers d'appellation
 d'origine autres que les vins et les boissons alcoolisées ;
