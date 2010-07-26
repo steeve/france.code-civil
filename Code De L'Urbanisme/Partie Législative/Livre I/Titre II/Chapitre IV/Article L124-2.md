@@ -7,16 +7,28 @@ Elles délimitent les secteurs où les constructions sont autorisées et les
 secteurs où les constructions ne sont pas admises, à l'exception de
 l'adaptation, du changement de destination, de la réfection ou de l'extension
 des constructions existantes ou des constructions et installations nécessaires à
-des équipements collectifs, à l'exploitation agricole ou forestière et à la mise
-en valeur des ressources naturelles.
+des équipements collectifs dès lors qu'elles ne sont pas incompatibles avec
+l'exercice d'une activité agricole, pastorale ou forestière sur le terrain sur
+lequel elles sont implantées et qu'elles ne portent pas atteinte à la sauvegarde
+des espaces naturels et des paysages, à l'exploitation agricole ou forestière et
+à la mise en valeur des ressources naturelles.
 
 Les cartes communales sont approuvées, après enquête publique réalisée
-conformément au chapitre III du titre II du livre Ier du code de l'environnement
-, par le conseil municipal et le préfet. Elles sont approuvées par délibération
-du conseil municipal puis transmises pour approbation au préfet, qui dispose
-d'un délai de deux mois pour les approuver.A l'expiration de ce délai, le préfet
-est réputé les avoir approuvées. Les cartes communales approuvées sont tenues à
-la disposition du public.
+conformément au chapitre III du titre II du livre Ier du code de
+l'environnement, consultation de la chambre d'agriculture et avis de la
+commission départementale de la consommation des espaces agricoles prévue à
+l'article L. 112-1-1 du code rural et de la pêche maritime, par le conseil
+municipal et le préfet. Cette commission rend son avis au plus tard deux mois
+après la transmission du projet de carte par le maire. A défaut, cet avis est
+réputé favorable. Les cartes communales sont approuvées par délibération du
+conseil municipal, puis transmises par le maire au préfet qui dispose d'un délai
+de deux mois pour les approuver. A l'expiration de ce délai, le préfet est
+réputé avoir approuvé la carte. La carte approuvée est tenue à disposition du
+public. Le projet de révision d'une carte communale concernant une commune
+située en dehors du périmètre d'un schéma de cohérence territoriale approuvé et
+ayant pour conséquence une réduction des surfaces des zones agricoles est soumis
+pour avis, par la commune, à la commission départementale de la consommation des
+espaces agricoles.
 
 Elles doivent être compatibles, s'il y a lieu, avec les dispositions du schéma
 de cohérence territoriale, du schéma de secteur, du schéma de mise en valeur de
