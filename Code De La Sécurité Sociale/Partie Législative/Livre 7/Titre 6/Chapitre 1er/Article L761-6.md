@@ -2,9 +2,10 @@ Article L761-6
 ----
 En matière de sécurité sociale, les personnels mentionnés par l'article 2 de la
 loi n° 72-659 du 13 juillet 1972, autres que les fonctionnaires titulaires de
-l'Etat et les magistrats de l'ordre judiciaire qui demeurent soumis aux
-dispositions qui leur sont propres, bénéficient des dispositions suivantes sous
-réserve de l'application des conventions internationales.
+l'Etat, les fonctionnaires des assemblées parlementaires et les magistrats de
+l'ordre judiciaire qui demeurent soumis aux dispositions qui leur sont propres,
+bénéficient des dispositions suivantes sous réserve de l'application des
+conventions internationales.
 
 En ce qui concerne la réparation des accidents du travail et des maladies
 professionnelles, ils sont régis par les dispositions du livre IV du présent
