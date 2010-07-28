@@ -1,6 +1,6 @@
 Article A322-72
 ----
-Les annexes III-14 a à III-16 b au présent code déterminent :
+Les annexes III-14 a à III-17 au présent code déterminent :
 
 -les aptitudes des pratiquants (annexe III-14 a) ;
 
