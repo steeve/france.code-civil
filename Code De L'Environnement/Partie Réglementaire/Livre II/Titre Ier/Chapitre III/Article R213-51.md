@@ -27,5 +27,6 @@ chefs des services déconcentrés des administrations mentionnées au 2° de
 l'article R. 213-50.
 
 V.-Les représentants des milieux socioprofessionnels sont désignés par le préfet
-de région sur proposition du Conseil économique et social et du comité de la
-culture, de l'éducation et de l'environnement de chacune des régions concernées.
+de région sur proposition du Conseil économique, social et environnemental et du
+comité de la culture, de l'éducation et de l'environnement de chacune des
+régions concernées.

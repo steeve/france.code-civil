@@ -9,7 +9,7 @@ ministre chargé de l'immigration. Elle comprend dix-sept membres :
 
 3° Un sénateur ;
 
-4° Un membre du Conseil économique et social ;
+4° Un membre du Conseil économique, social et environnemental ;
 
 5° Le secrétaire général du comité interministériel de contrôle de l'immigration
 ;

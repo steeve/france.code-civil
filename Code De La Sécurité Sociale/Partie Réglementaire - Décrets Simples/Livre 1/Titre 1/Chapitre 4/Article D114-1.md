@@ -7,8 +7,8 @@ ministre chargé de la sécurité sociale, comprend, en outre :
 respectivement par le président de l'Assemblée nationale et par le président du
 Sénat ;
 
-2° Un membre du Conseil économique et social désigné par le président du Conseil
-économique et social ;
+2° Un membre du Conseil économique, social et environnemental désigné par le
+président du Conseil économique, social et environnemental ;
 
 3° Un magistrat de la Cour des comptes désigné par le premier président de la
 Cour des comptes ;

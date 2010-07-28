@@ -37,8 +37,8 @@ hospitalière désignés respectivement sur proposition de la Confédération
 française démocratique du travail, de la Confédération française des
 travailleurs chrétiens, de la Confédération générale du travail, de la
 Confédération générale du travail-Force ouvrière, de la Confédération française
-de l'encadrement-CGC, de la Fédération nationale Sud santé-sociaux
-"solidaires-unitaires-démocratiques", de la Fédération de l'union nationale des
+de l'encadrement-CGC, de la Fédération nationale Sud santé-sociaux "
+solidaires-unitaires-démocratiques ", de la Fédération de l'union nationale des
 syndicats autonomes santé et sociaux public et privé, du Syndicat national des
 cadres hospitaliers ;
 
@@ -104,7 +104,8 @@ b) Sept personnalités désignées par le ministre chargé de la santé en raiso
 leur compétence.
 
 Collège 6 : six représentants des entreprises et des travailleurs salariés
-désignés sur proposition du bureau du Conseil économique et social.
+désignés sur proposition du bureau du Conseil économique, social et
+environnemental.
 
 Le mandat des membres de la conférence est de trois ans, renouvelable une fois.
 

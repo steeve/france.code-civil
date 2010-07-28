@@ -10,12 +10,12 @@ représentant du ministre de l'éducation nationale ; 8° D'un représentant du
 ministre chargé de l'industrie ; 9° De deux représentants de l'Assemblée
 nationale désignés parmi les membres des commissions compétentes ; 10° De deux
 représentants du Sénat désignés parmi les membres des commissions compétentes ;
-11° D'un représentant du Conseil économique et social ; 12° D'un représentant du
-Centre d'analyse stratégique ; 13° De cinq représentants des organisations
-d'employeurs ; 14° De cinq représentants des organisations syndicales de
-salariés ; 15° De dix représentants au maximum d'associations de personnes
-handicapées, à caractère national, désignés par le ministre chargé de l'emploi
-sur proposition de ces associations ; 16° De quatre représentants des
+11° D'un représentant du Conseil économique, social et environnemental ; 12°
+D'un représentant du Centre d'analyse stratégique ; 13° De cinq représentants
+des organisations d'employeurs ; 14° De cinq représentants des organisations
+syndicales de salariés ; 15° De dix représentants au maximum d'associations de
+personnes handicapées, à caractère national, désignés par le ministre chargé de
+l'emploi sur proposition de ces associations ; 16° De quatre représentants des
 institutions gestionnaires des centres de réadaptation et de rééducation
 professionnelle des entreprises adaptées et des établissements ou services
 d'aide par le travail mentionnés au a du 5° du I de l'article L. 312-1 du code
@@ -32,5 +32,5 @@ de main-d'œuvre ; 22° D'un spécialiste des problèmes d'insertion professionn
 des travailleurs handicapés désigné par le ministre chargé de l'emploi ; 23°
 D'un représentant de l'association chargée de la gestion du fonds de
 développement pour l'insertion des personnes handicapées ; 24° D'un représentant
-de l' institution mentionnée à l'article L. 5312-1 du code du travail ; 25° D'un
+de l'institution mentionnée à l'article L. 5312-1 du code du travail ; 25° D'un
 représentant de l'Association pour la formation professionnelle des adultes.

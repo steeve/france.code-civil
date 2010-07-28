@@ -26,7 +26,8 @@ a) Le directeur général du Centre national de la recherche scientifique ;
 
 b) Le doyen de l'inspection générale de l'éducation nationale ;
 
-3° Un membre du Conseil économique et social désigné par celui-ci ;
+3° Un membre du Conseil économique, social et environnemental désigné par
+celui-ci ;
 
 4° Deux représentants des parents d'élèves, désignés par les deux fédérations de
 parents d'élèves les plus représentatives ;

@@ -16,7 +16,8 @@ quatre sur proposition du ministre chargé de la santé ;
 
 4° Sept personnalités désignées selon les modalités suivantes :
 
-a) Une personnalité désignée par le président du Conseil économique et social ;
+a) Une personnalité désignée par le président du Conseil économique, social et
+environnemental ;
 
 b) Un membre du Comité consultatif national d'éthique pour les sciences de la
 vie et de la santé désigné par son président ;

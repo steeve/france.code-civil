@@ -29,7 +29,7 @@ d) Un greffier de tribunal de commerce désigné sur proposition du président d
 Conseil national des greffiers des tribunaux de commerce ;
 
 e) Deux personnalités qualifiées, dont l'une est désignée sur proposition du
-président du Conseil économique et social ;
+président du Conseil économique, social et environnemental ;
 
 f) Dix juges consulaires, dont deux au plus ayant la qualité de juge honoraire,
 ayant exercé leur mandat dans un tribunal de commerce pendant au moins deux ans.
