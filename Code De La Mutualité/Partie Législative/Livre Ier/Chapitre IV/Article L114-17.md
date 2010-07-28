@@ -32,7 +32,12 @@ de la mutuelle, union ou fédération ;
 f) Des transferts financiers entre mutuelles et unions ;
 
 g) Pour les mutuelles ou leurs unions relevant du livre II, le montant et les
-modalités de répartition pour l'année écoulée de la participation aux excédents.
+modalités de répartition pour l'année écoulée de la participation aux excédents
+;
+
+h) Des informations mentionnées au cinquième alinéa de l'article L. 225-102-1 du
+code de commerce lorsque les conditions prévues au sixième alinéa du même
+article sont remplies.
 
 Le conseil d'administration établit, à la clôture de chaque exercice, les
 comptes consolidés ou combinés, lorsque la mutuelle, l'union ou la fédération

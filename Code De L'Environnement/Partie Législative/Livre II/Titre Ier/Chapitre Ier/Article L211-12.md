@@ -21,7 +21,8 @@ géomorphologiques essentiels ;
 gestion de l'eau " délimitées en application de l'article L. 212-5-1.
 
 III.-Les zones soumises aux servitudes visées aux 1° et 2° du II sont délimitées
-par arrêté préfectoral. Celui-ci est pris après enquête publique menée
+par arrêté préfectoral. Celui-ci est pris après enquête publique réalisée
+conformément au chapitre III du titre II du livre Ier du présent code menée
 conformément au code de l'expropriation pour cause d'utilité publique. Les zones
 soumises aux servitudes visées au 3° du II sont délimitées conformément à
 l'article L. 212-5-1.

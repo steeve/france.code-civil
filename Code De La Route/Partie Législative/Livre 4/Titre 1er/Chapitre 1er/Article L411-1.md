@@ -32,7 +32,8 @@ catégories d'entre eux, ainsi que la desserte des immeubles riverains ;
 3° Réserver sur la voie publique ou dans tout autre lieu de stationnement ouvert
 au public des emplacements de stationnement aménagés aux véhicules utilisés par
 les personnes titulaires de la carte de stationnement prévue à l'article L.
-241-3-2 du code de l'action sociale et des familles. "
+241-3-2 du code de l'action sociale et des familles et aux véhicules bénéficiant
+du label "autopartage" tel que défini par décret. "
 
 " Art.L. 2213-3-Le maire peut, par arrêté motivé :
 

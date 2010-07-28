@@ -2,8 +2,8 @@ Article Annexe XI
 ----
 ANNEXE A L'ARTICLE R. 4134-1
 
-
-Nombre des membres des conseils économiques et sociaux régionaux
+Nombre des membres des conseils économiques, sociaux et environnementaux
+régionaux
 
 et répartition de ces derniers entre les collèges
 

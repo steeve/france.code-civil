@@ -26,15 +26,54 @@ Hormis les cas de bonne foi, les versements effectués et les engagements pris e
 méconnaissance des dispositions du présent alinéa peuvent être annulés.
 
 Il comprend également la liste de l'ensemble des mandats et fonctions exercés
-dans toute société par chacun de ces mandataires durant l'exercice.
+dans toute société par chacun de ces mandataires durant l'exercice. Il comprend
+également des informations sur la manière dont la société prend en compte les
+conséquences sociales et environnementales de son activité ainsi que sur ses
+engagements sociétaux en faveur du développement durable. Un décret en Conseil
+d'Etat établit la liste de ces informations en cohérence avec les textes
+européens et internationaux, ainsi que les modalités de leur présentation de
+façon à permettre une comparaison des données.
 
-Il comprend également des informations, dont la liste est fixée par décret en
-Conseil d'Etat, sur la manière dont la société prend en compte les conséquences
-sociales et environnementales de son activité. Le présent alinéa ne s'applique
-pas aux sociétés dont les titres ne sont pas admis aux négociations sur un
-marché réglementé.
+Les institutions représentatives du personnel et les parties prenantes
+participant à des dialogues avec les entreprises peuvent présenter leur avis sur
+les démarches de responsabilité sociale, environnementale et sociétale des
+entreprises en complément des indicateurs présentés.
 
-Les dispositions des deux derniers alinéas de l'article L. 225-102 sont
+A partir du 1er janvier 2011, le Gouvernement présente tous les trois ans au
+Parlement un rapport relatif à l'application de ces dispositions par les
+entreprises et sur les actions qu'il promeut en France, en Europe et au niveau
+international pour encourager la responsabilité sociétale des entreprises.
+
+Les trois alinéas précédents s'appliquent aux sociétés dont les titres sont
+admis aux négociations sur un marché réglementé ainsi qu'aux sociétés dont le
+total de bilan ou le chiffre d'affaires et le nombre de salariés excèdent des
+seuils fixés par décret en Conseil d'Etat. Lorsque la société établit des
+comptes consolidés, les informations fournies sont consolidées et portent sur la
+société elle-même ainsi que sur l'ensemble de ses filiales au sens de l'article
+L. 233-1 ou les sociétés qu'elle contrôle au sens de l'article L. 233-3. Lorsque
+les filiales ou les sociétés contrôlées sont installées sur le territoire
+national et qu'elles comportent des installations classées soumises à
+autorisation ou à enregistrement, les informations fournies portent sur chacune
+d'entre elles lorsque ces informations ne présentent pas un caractère
+consolidable.
+
+Les informations sociales et environnementales figurant ou devant figurer au
+regard des obligations légales et réglementaires font l'objet d'une vérification
+par un organisme tiers indépendant, selon des modalités fixées par décret en
+Conseil d'Etat. Cette vérification donne lieu à un avis qui est transmis à
+l'assemblée des actionnaires ou des associés en même temps que le rapport du
+conseil d'administration ou du directoire.
+
+L'alinéa précédent s'applique à partir de l'exercice clos au 31 décembre 2011
+pour les entreprises dont les titres sont admis aux négociations sur un marché
+réglementé. Il s'applique à partir de l'exercice clos au 31 décembre 2016 pour
+l'ensemble des entreprises concernées par le présent article.
+
+L'avis de l'organisme tiers indépendant comporte notamment une attestation sur
+la présence de toutes les informations devant figurer au regard des obligations
+légales ou réglementaires. Cette attestation est due à partir de l'exercice clos
+au 31 décembre 2011 pour l'ensemble des entreprises concernées par le présent
+article. Les dispositions des deux derniers alinéas de l'article L. 225-102 sont
 applicables aux informations visées au présent article.
 
 Les dispositions des premier à troisième alinéas ne sont pas applicables aux
