@@ -1,6 +1,4 @@
 Article D6323-9
 ----
-Les centres de santé qui n'ont qu'une activité médicale portent l'appellation de
-centres de santé médicaux. Les centres de santé médicaux ont pour objet
-d'assurer des soins et, le cas échéant, des investigations et examens
-complémentaires.
+Les centres de santé établissent un règlement intérieur dont le contenu et les
+conditions d'élaboration sont fixés par arrêté du ministre chargé de la santé.

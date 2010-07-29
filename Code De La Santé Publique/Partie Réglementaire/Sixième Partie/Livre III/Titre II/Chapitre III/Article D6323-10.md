@@ -1,25 +1,13 @@
 Article D6323-10
 ----
-Les centres de santé qui n'ont qu'une activité infirmière portent l'appellation
-de centres de soins infirmiers.
+Lorsque le directeur général de l'agence régionale de santé constate que les
+conditions de fonctionnement du centre de santé ne permettent pas d'assurer la
+qualité et la sécurité des soins, il le notifie par courrier au gestionnaire du
+centre de santé et lui demande de faire connaître, dans les quinze jours suivant
+la date de réception, ses observations ainsi que les mesures correctrices
+adoptées ou envisagées.
 
-Les centres de soins infirmiers ont pour objet d'assurer des soins infirmiers
-dans les conditions prévues à la section 1 du chapitre Ier du titre Ier du livre
-III de la partie IV.
-
-Les centres de soins infirmiers assurent :
-
-1° Des soins sur place ;
-
-2° Des soins à la résidence des usagers, sur prescription d'un médecin attestant
-que le déplacement du malade est contre-indiqué, et à condition que cette
-résidence se situe dans l'aire géographique d'intervention du centre déterminée
-à l'agrément prévu à l'article L. 162-32 du code de la sécurité sociale ;
-
-3° Une permanence pour répondre aux demandes de renseignements et noter les
-appels extérieurs.
-
-Pour rapprocher le service infirmier de la population desservie, un centre peut
-détacher à jours et à heures fixes un infirmier ou une infirmière dans un local.
-Ce local est considéré comme une antenne du centre. L'antenne est soumise à
-agrément.
+En cas d'absence de réponse ou de réponse insuffisante dans ce délai, il enjoint
+le gestionnaire du centre de santé de prendre toutes dispositions nécessaires à
+la cessation des manquements dans un délai déterminé. Il en constate
+l'exécution.
