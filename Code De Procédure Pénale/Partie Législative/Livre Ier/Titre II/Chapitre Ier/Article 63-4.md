@@ -1,11 +1,10 @@
 Article 63-4
 ----
-L'avocat désigné dans les conditions prévues à l'article 63-3-1 peut communiquer
-avec la personne gardée à vue dans des conditions qui garantissent la
-confidentialité de l'entretien.
-
-La durée de l'entretien ne peut excéder trente minutes.
-
-Lorsque la garde à vue fait l'objet d'une prolongation, la personne peut, à sa
-demande, s'entretenir à nouveau avec un avocat dès le début de la prolongation,
-dans les conditions et pour la durée prévues aux deux premiers alinéas.
+Si la personne est gardée à vue pour une infraction mentionnée aux 4°, 6°, 7°,
+8° et 15° de l'article 706-73, l'entretien avec un avocat ne peut intervenir
+qu'à l'issue d'un délai de quarante-huit heures. Si elle est gardée à vue pour
+une infraction mentionnée aux 3° et 11° du même article, l'entretien avec un
+avocat ne peut intervenir qu'à l'issue d'un délai de soixante-douze heures. Le
+procureur de la République est avisé de la qualification des faits retenue par
+les enquêteurs dès qu'il est informé par ces derniers du placement en garde à
+vue.
