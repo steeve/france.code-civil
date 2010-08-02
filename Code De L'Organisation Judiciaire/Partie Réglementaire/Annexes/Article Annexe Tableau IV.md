@@ -1575,7 +1575,7 @@ Saint-Léger-sous-Beuvray. (11)]
 
 [Chalon-sur-Saône
 
-Cantons de Buxy, Chagny, Chalon-sur-Saône-Centre, Chalon-sur-Saône-Nord,
+Cantons de Buxy, Chagny, Chalon-sur-S aône-Centre, Chalon-sur-Saône-Nord,
 Chalon-sur-Saône-Ouest, Chalon-sur-Saône-Sud, Givry, Saint-Germain-du-Plain,
 Saint-Martin-en-Bresse, Sennecey-le-Grand et Verdun-sur-le-Doubs. (3)]
 
@@ -3438,7 +3438,7 @@ Saint-Jean-d'Angély, Saint-Savinien et Tonnay-Boutonne. (3)]
 
 Deux-Sèvres
 
-[Bressuire (5)]
+[Bressuire (17)]
 
 [Bressuire
 
@@ -3460,7 +3460,7 @@ Saint-Loup-Lamairé, Secondigny et Thénezay. (3)]
 
 Niort
 
-[Bressuire (6)]
+[Bressuire (18)]
 
 Cantons d'Airvault, Argenton-les-Vallées, Bressuire, Cerizay, Mauléon,
 Mazières-en-Gâtine, Ménigoute, Moncoutant, Parthenay, Saint-Loup-Lamairé,
@@ -3473,9 +3473,9 @@ Mothe-Saint-Héray, Lezay, Melle et Sauzé-Vaussais. (3)]
 
 [Niort
 
-Cantons de Beauvoir-sur-Niort, Champdeniers-Saint-Denis, Coulonges-sur-1'Autize,
+Cantons de Beauvoir-sur-Niort, Champdeniers-Saint-Denis, Coulonges-sur-l'Autize,
 Frontenay-Rohan-Rohan, Mauzé-sur-le Mignon, Niort-Est, Niort-Nord, Niort-Ouest,
-Prahecq, Saint-Maixent l'Écolc 1er canton et Saint-Maixent-l'École 2e canton.
+Prahecq, Saint-Maixent l'École 1er canton et Saint-Maixent-l'École 2e canton.
 (3)]
 
 [Niort
@@ -4433,8 +4433,8 @@ Saint-Nicolas-de-la-Grave, Valence et Verdun-sur-Garonne. (2)]
 Montauban
 
 Cantons de Caussade, Caylus, Lafrançaise, Molières, Monclar-de-Quercy,
-Montauban, 1er canton, Montauban 2e canton, Montauban 3ème canton, Montauban 4e
-canton, Montauban 5e canton, Montauban 6e canton, Montpezat- de-Quercy,
+Montauban, 1er canton, Montauban 2e canton, Montauban 3ème canton, Montauban
+4ème canton, Montauban 5e canton, Montauban 6e canton, Montpezat- de-Quercy,
 Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier.
 
 Cour d'appel de Versailles
@@ -4746,3 +4746,6 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 (15) Applicable jusqu'au 30 juin 2010.
 
 (16) Applicable à compter du 1er juillet 2010.
+
+(17) Applicable jusqu'au 5 septembre 2010. (18) Applicable à compter du 6
+septembre 2010.
