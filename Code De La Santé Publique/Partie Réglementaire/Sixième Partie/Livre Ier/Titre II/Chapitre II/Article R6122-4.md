@@ -54,4 +54,7 @@ hospitaliers publics ;
 
 15° Trois personnalités qualifiées désignées par les ministres chargés de la
 santé et de la sécurité sociale, dont une sur proposition de la Fédération
-nationale de la mutualité française et un infirmier ou infirmière.
+nationale de la mutualité française et un infirmier ou infirmière ;
+
+16° Un représentant des établissements assurant une activité de soins à
+domicile, désigné par l'organisation la plus représentative dans cette activité.
