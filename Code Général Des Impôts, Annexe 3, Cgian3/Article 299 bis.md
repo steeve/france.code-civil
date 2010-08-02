@@ -1,9 +1,11 @@
 Article 299 bis
 ----
-I. - La personne qui demande le bénéfice pour la première fois des dispositions
-de l'article 885 I ter du code général des impôts au titre d'une souscription
-auprès d'une société donnée produit une attestation émanant de cette société
-précisant :
+I. - 1. La personne qui demande le bénéfice pour la première fois des
+dispositions du 1 du I de l'article 885 I ter du code général des impôts au
+titre d'une souscription au capital d'une société donnée joint à sa déclaration
+d'impôt de solidarité sur la fortune, ou fournit dans les trois mois suivant la
+date limite de dépôt de ladite déclaration, une attestation émanant de cette
+société précisant :
 
 1° Son siège de direction effective et la nature de ses activités au 1er janvier
 de l'année d'imposition ainsi que le nombre et la nature des titres détenus à la
@@ -20,32 +22,82 @@ souscription satisfaisant les conditions prévues par l'article 885 I ter préci
 
 3° Lorsqu'elle a déjà clôturé un exercice à la date mentionnée au 2°, l'ensemble
 des éléments permettant d'établir qu'elle répond, à cette date, à la définition
-des petites et moyennes entreprises mentionnée à l'article 885 I du code général
-des impôts ;
+des petites et moyennes entreprises mentionnée à l'article 885 I ter I du code
+général des impôts ;
 
 4° En cas de souscription en nature, la désignation et la valeur retenue des
 biens éligibles, ainsi que leur affectation.
 
-II. - Les années suivant celle mentionnée au I, la personne qui entend
-bénéficier des dispositions de l'article 885 I ter du code général des impôts
-produit une attestation de la société au capital de laquelle il a été souscrit
-précisant les informations mentionnées au 1° du I.
+2. Les années suivant celle mentionnée au 1, la personne qui entend bénéficier
+des dispositions du 1 de l'article 885 I ter du code général des impôts joint à
+sa déclaration d'impôt de solidarité sur la fortune une attestation de la
+société au capital de laquelle il a été souscrit précisant les informations
+mentionnées au 1° du 1.
 
 Lorsque la personne entend bénéficier du régime de faveur pour des titres reçus
 en contrepartie d'une nouvelle souscription satisfaisant aux conditions prévues
 par l'article 885 I ter précité, l'attestation comprend en outre pour ces titres
-les précisions mentionnées aux 2°, 3° et 4° du I.
+les précisions mentionnées aux 2°, 3° et 4° du 1.
 
-III. - Lorsque les éléments mentionnés au 3° du I n'ont pu être fournis la
-première année, la personne mentionnée au I produit l'année suivant celle au
-titre de laquelle le bénéfice des dispositions de l'article 885 I ter du code
-général des impôts a été demandé pour la première fois et dans les conditions
-mentionnées au IV une attestation de la société au capital de laquelle il a été
-souscrit comprenant ces éléments.
+Lorsque les éléments mentionnés au 3° du 1 n'ont pu être fournis la première
+année, la personne mentionnée au même 1 produit l'année suivant celle au titre
+de laquelle le bénéfice des dispositions de l'article 885 I ter précité a été
+demandé pour la première fois une attestation de la société au capital de
+laquelle il a été souscrit comprenant ces éléments.
 
-IV. - Les attestations mentionnées aux I et II sont adressées à l'administration
-par la personne qui bénéficie des dispositions de l'article 885 I ter du code
-général des impôts lors du dépôt de sa déclaration d'impôt de solidarité sur la
-fortune ou adressés au service des impôts de son domicile, avant le 15 juin de
-l'année au titre de laquelle le bénéfice du régime de faveur est demandé,
-lorsqu'elle n'est pas tenue de déposer une déclaration.
+II.-1. La personne qui demande le bénéfice pour la première fois des
+dispositions du 2 du I de l'article 885 I ter du code général des impôts au
+titre d'une souscription au capital d'une société donnée joint à sa déclaration
+d'impôt de solidarité sur la fortune ou fournit dans les trois mois suivant la
+date limite de dépôt de ladite déclaration une attestation de la société au
+capital de laquelle elle a souscrit précisant les éléments mentionnés aux 1° à
+3° du 1 du I. Elle produit en outre une attestation de cette société précisant,
+pour chacune des souscriptions de cette société au capital de sociétés
+satisfaisant aux conditions du 1 du I de l'article 885 I ter précité, les
+éléments mentionnés aux 1° à 3° du 1 du I ainsi que le détail de la fraction
+mentionnée au quatrième alinéa du 2 du I de l'article 885 I ter précité.
+
+2. Les années suivant celle mentionnée au 1, la personne qui entend bénéficier
+des dispositions du 2 du I de l'article 885 I ter précité joint à sa déclaration
+d'impôt de solidarité sur la fortune une attestation de la société au capital de
+laquelle elle a souscrit précisant les informations mentionnées au 1° du 1 du I.
+Elle produit en outre une attestation de cette société précisant, pour chacune
+des souscriptions de cette société au capital de sociétés satisfaisant aux
+conditions du 1 du I de l'article 885 I ter précité, les éléments mentionnés au
+1° du 1 du I ainsi que le détail de la fraction mentionnée au quatrième alinéa
+du 2 du I de l'article 885 I ter précité.
+
+III.-1. La personne qui demande le bénéfice pour la première fois des
+dispositions du 3 ou du 4 du I de l'article 885 I ter du code général des impôts
+au titre d'une souscription de parts d'un fonds donné joint à sa déclaration
+d'impôt de solidarité sur la fortune, ou fournit dans les trois mois suivant la
+date limite de dépôt de ladite déclaration, une attestation émanant de la
+société de gestion du fonds ou du dépositaire des actifs du fonds précisant :
+
+1° L'objet pour lequel elle est établie : application du 3 ou du 4 du I de
+l'article 885 I ter précité ;
+
+2° Les éléments mentionnés aux b à d du 2 du I de l'article 299 octies ;
+
+3° Le respect par le fonds des conditions mentionnées, selon la nature du fonds
+concerné, aux articles L. 214-36, L. 214-37, L. 214-41 ou L. 214-41-1 du code
+monétaire et financier et au 3 ou au 4 du I de l'article 885 I ter précité ;
+
+4° Le détail de la fraction mentionnée au second alinéa du 4 du I de l'article
+885 I ter précité.
+
+2. Les années suivant celle mentionnée au 1, la personne qui entend bénéficier
+des dispositions du 3 ou du 4 du I de l'article 885 I ter du code général des
+impôts joint à sa déclaration d'impôt de solidarité sur la fortune une
+attestation émanant de la société de gestion du fonds ou du dépositaire des
+actifs du fonds précisant :
+
+1° Le nombre de parts détenues par le demandeur au 1er janvier de l'année
+d'imposition reçues en contrepartie de souscriptions satisfaisant aux conditions
+prévues par l'article 885 I ter précité ;
+
+2° Le respect par le fonds des conditions mentionnées, selon la nature du fonds
+concerné, aux articles L. 214-36, L. 214-37, L. 214-41 ou L. 214-41-1 du code
+monétaire et financier et au 3 ou au 4 du I de l'article 885 I ter précité.
+
+IV.- (Abrogé à compter du 6 août 2010).
