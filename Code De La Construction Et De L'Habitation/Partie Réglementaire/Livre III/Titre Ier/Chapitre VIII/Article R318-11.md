@@ -2,10 +2,9 @@ Article R318-11
 ----
 I.-Le coût total de l'opération, toutes taxes comprises, comprend :
 
--la charge foncière ou la charge immobilière, y compris les frais d'état des
-lieux, les honoraires de géomètre et les taxes afférentes, à l'exclusion des
-frais d'acte notarié et des droits d'enregistrement pour les terrains à bâtir ou
-les immeubles anciens ;
+-la charge foncière ou la charge immobilière, les honoraires de géomètre et les
+taxes afférentes, à l'exclusion des frais d'acte notarié et des droits
+d'enregistrement pour les terrains à bâtir ou les immeubles anciens ;
 
 -les honoraires de négociation restant, le cas échéant, à la charge de
 l'acquéreur ;
