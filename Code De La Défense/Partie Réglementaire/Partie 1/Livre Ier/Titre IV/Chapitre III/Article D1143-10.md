@@ -1,28 +1,27 @@
 Article D1143-10
 ----
-Les conseillers de défense sont choisis principalement parmi les auditeurs des
+I. - Nul ne peut être nommé conseiller de défense et de sécurité sans :
+
+1° Etre de nationalité française ;
+
+2° Jouir de ses droits civiques ;
+
+3° Etre en règle au regard des obligations du service national.
+
+II. - Les conseillers de défense et de sécurité :
+
+1° Sont choisis dans différents secteurs d'activités parmi les auditeurs des
 sessions nationales ou régionales des instituts publics à compétence nationale
-spécialisés dans la formation aux questions de défense et de sécurité ainsi que
-parmi les personnes issues des cadres de réserve. Toutefois, des personnalités
-ne remplissant pas ces conditions peuvent être nommées en raison de leurs
-compétences particulières.
+spécialisés dans la formation aux questions de défense et de sécurité, ainsi que
+parmi les cadres de réserve. Toutefois des personnalités ne remplissant pas ces
+conditions peuvent être nommées à raison de leurs compétences particulières ;
 
-Ils doivent être de nationalité française, jouir de leurs droits civiques et
-être en règle au regard des obligations du service national.
+2° Doivent être volontaires et s'engager à faire preuve d'une disponibilité
+suffisante, de réserve et de discrétion professionnelle dans leurs fonctions ;
 
-Ils doivent être volontaires et s'engager à faire preuve d'une disponibilité
-suffisante, de réserve et de discrétion professionnelle dans leurs fonctions.
-L'âge de nomination ne peut excéder soixante-cinq ans à la date du début du
-premier mandat.
+3° Exercent gratuitement leurs fonctions. Ils peuvent obtenir, dans le cadre de
+la réglementation applicable, le remboursement des frais exposés à l'occasion de
+leurs fonctions.
 
-Les agents publics ne peuvent être nommés conseillers de défense, lorsque la
-mission envisagée relève de leurs fonctions ordinaires.
-
-Les agents publics admis à bénéficier d'une pension de retraite ne peuvent être
-nommés conseillers de défense dans le ressort géographique de leur dernière
-affectation administrative, si leurs fonctions antérieures concernaient l'un des
-domaines d'activité des conseillers de défense.
-
-Les conseillers de défense exercent gratuitement leurs fonctions. Ils peuvent
-obtenir, dans le cadre de la réglementation applicable, le remboursement des
-frais exposés à l'occasion de leurs fonctions.
+III. - Les agents publics ne peuvent être nommés conseillers de défense et de
+sécurité lorsque la mission envisagée relève de leurs fonctions ordinaires.

@@ -1,18 +1,15 @@
 Article D1143-13
 ----
-Les conseillers de défense sont nommés pour une période maximale de trois ans,
-renouvelable une fois au plus.A l'occasion de leur nomination, une mission
-définie leur est impartie.
+I. - Les conseillers de défense et de sécurité sont nommés pour une durée
+maximale de trois ans renouvelable, sans pouvoir excéder six années au total.
 
-Au titre de l'exercice de leurs fonctions, ils peuvent participer à des actions
-ponctuelles de formation et d'information.
+II. - Il peut être mis fin par anticipation aux fonctions de conseiller de
+défense et de sécurité soit par arrêté de l'autorité ayant procédé à la
+nomination, soit sur démission de l'intéressé.
 
-Les fonctions de conseiller de défense prennent fin au terme prévu. Toutefois,
-il peut y être mis fin par anticipation, soit par arrêté du Premier ministre sur
-proposition du secrétaire général de la défense et de la sécurité nationale pour
-les conseillers de défense placés auprès d'un ministre, soit par arrêté du
-préfet ayant procédé à la nomination pour les conseillers placés auprès de lui,
-soit sur démission de l'intéressé.
+III. - Les fonctions prennent fin de plein droit lorsque le conseiller de
+défense et de sécurité atteint l'âge de soixante-dix ans.
 
-Les fonctions prennent fin de plein droit lorsque le conseiller de défense
-atteint l'âge de soixante-dix ans.
+IV. - Le conseiller de défense et de sécurité remet un rapport de fin de mandat
+à l'autorité auprès de laquelle il est en fonctions. Celle-ci en adresse copie
+au secrétariat général de la défense et de la sécurité nationale.

@@ -6,7 +6,7 @@ des stipulations du traité sur l'Antarctique publié par le décret n° 61-1300
 au titre VIII du présent livre :
 
 1° Au livre Ier, les dispositions des articles R. 1132-12 à R. 1132-33-9, R.
-1142-14 à R. 1142-20, R. 1142-35 à R. 1143-8 ;
+1142-14 à R. 1142-20, R. 1142-35 à R. 1143-11 ;
 
 2° Au livre III, les dispositions des articles, R. 1312-1 à R. 1312-6 ; R.
 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R. 1332-37 à R. 1332-38, R. 1332-42,
