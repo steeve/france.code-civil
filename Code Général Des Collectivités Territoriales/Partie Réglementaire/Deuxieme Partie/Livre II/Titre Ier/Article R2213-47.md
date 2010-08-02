@@ -1,4 +1,6 @@
 Article R2213-47
 ----
-L'accomplissement des formalités du transport de corps avant mise en bière est
-soumis au contrôle des fonctionnaires désignés à l'article L. 2213-14.
+Lorsque, dans des circonstances exceptionnelles, certaines dispositions de la
+présente sous-section se heurtent à des difficultés d'application, le ministre
+de l'intérieur et le ministre chargé de la santé y pourvoient par des mesures
+temporaires prises après avis du Haut Conseil de la santé publique.

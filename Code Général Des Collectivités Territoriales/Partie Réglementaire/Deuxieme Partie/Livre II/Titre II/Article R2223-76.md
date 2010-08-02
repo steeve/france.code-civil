@@ -2,18 +2,18 @@ Article R2223-76
 ----
 L'admission en chambre funéraire intervient dans un délai de vingt-quatre heures
 à compter du décès. Le délai est porté à quarante-huit heures lorsque le corps a
-subi les soins de conservation prévus à l'article R. 2213-2.
+subi les soins de conservation prévus à l'article R. 2213-2-1.
 
 Elle a lieu sur la demande écrite :
 
-- soit de toute personne qui a qualité pour pourvoir aux funérailles et justifie
+-soit de toute personne qui a qualité pour pourvoir aux funérailles et justifie
 de son état civil et de son domicile ;
 
-- soit de la personne chez qui le décès a eu lieu, à condition qu'elle atteste
+-soit de la personne chez qui le décès a eu lieu, à condition qu'elle atteste
 par écrit qu'il lui a été impossible de joindre ou de retrouver l'une des
 personnes ayant qualité pour pourvoir aux funérailles ;
 
-- soit du directeur de l'établissement, dans le cas de décès dans un
+-soit du directeur de l'établissement, dans le cas de décès dans un
 établissement de santé public ou privé qui n'entre pas dans la catégorie de ceux
 devant disposer obligatoirement d'une chambre mortuaire conformément à l'article
 L. 2223-39, sous la condition qu'il atteste par écrit qu'il lui a été impossible

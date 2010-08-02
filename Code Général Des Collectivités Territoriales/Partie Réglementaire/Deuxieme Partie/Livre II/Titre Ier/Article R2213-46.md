@@ -1,17 +1,16 @@
 Article R2213-46
 ----
-Dans les cas où il est autorisé, le transport de corps sans mise en bière hors
-de la commune du décès s'effectue sous la surveillance des fonctionnaires
-désignés à l'article L. 2213-14.
+En cas d'exhumation d'un corps, les fonctionnaires désignés à l'article L.
+2213-14 assistent à l'opération, veillent à ce que tout s'accomplisse avec
+respect et décence et à ce que les mesures d'hygiène prévues à l'article R.
+2213-42 soient appliquées. Les exhumations sont toujours réalisées en dehors des
+heures d'ouverture du cimetière au public.
 
-Au départ, ces fonctionnaires munissent le corps d'un bracelet d'identité plombé
-d'un modèle agréé par arrêté du ministre de l'intérieur. Ils apposent leur visa
-sur l'autorisation de transport de corps après y avoir mentionné l'heure de
-départ.
+Lorsque le corps est destiné à être réinhumé dans le même cimetière, la
+réinhumation s'opère sans délai, sous la surveillance des fonctionnaires
+mentionnés au premier alinéa.
 
-A l'arrivée, ils vérifient l'état du bracelet plombé, se font présenter
-l'autorisation régulière de transport et y mentionnent l'heure d'arrivée.
-
-La pose du bracelet et l'apposition du sceau sur l'autorisation de transport
-ainsi que les vérifications à l'arrivée du corps ouvrent droit à vacation
-funéraire dans les conditions prévues aux articles R. 2213-53 et R. 2213-54.
+Lorsque le corps est destiné à être réinhumé dans un autre cimetière de la même
+commune ou dans une autre commune, la translation et la réinhumation s'opèrent
+sans délai, sous la surveillance des fonctionnaires compétents dans la commune
+concernée.
