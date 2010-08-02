@@ -14,7 +14,7 @@ Dans le cas où le ministre chargé de la tutelle des chambres de commerce et
 d'industrie estime que le schéma directeur ne satisfait pas aux conditions
 mentionnées aux articles R. 711-35 et R. 711-36, il fait part au préfet de
 région de son refus d'approuver le schéma en l'état pour que ce dernier demande
-à la chambre régionale de commerce et d'industrie d'en délibérer à nouveau dans
+à la chambre de commerce et d'industrie de région d'en délibérer à nouveau dans
 un délai de quatre mois.
 
 Le schéma directeur entre en vigueur à compter de la publication au Journal

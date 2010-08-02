@@ -1,18 +1,17 @@
 Article R713-56
 ----
-Le jour du dépouillement des votes, le président de la commission d'organisation
-des élections imprime la liste d'émargement à partir du traitement "fichier des
-électeurs". Cette liste constitue la liste d'émargement pour le vote par
-correspondance.
+Le jour du dépouillement du vote, la liste d'émargement établie à partir du
+traitement "fichier des électeurs" constitue la liste d'émargement pour le vote
+par correspondance.
 
-Le président et l'un des membres de la commission reçoivent chacun une clef de
-dépouillement distincte, selon des modalités en garantissant la confidentialité,
-permettant d'accéder aux données du fichier dénommé "contenu de l'urne
-électronique". Le président reçoit également les éléments permettant la
-vérification de l'intégrité du système de vote électronique.
+Le président et l'un des membres de la commission au moins reçoivent chacun une
+clef de dépouillement distincte, selon des modalités en garantissant la
+confidentialité, permettant d'accéder aux données du fichier dénommé " contenu
+de l'urne électronique ". Le président reçoit également les éléments permettant
+la vérification de l'intégrité du système de vote électronique.
 
 Après clôture des opérations de vote et vérification de l'intégrité du fichier
-dénommé "contenu de l'urne électronique", le président de la commission
+dénommé " contenu de l'urne électronique ", le président de la commission
 d'organisation des élections et le membre de celle-ci mentionné à l'alinéa
 précédent procèdent publiquement au dépouillement.
 

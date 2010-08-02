@@ -1,8 +1,8 @@
 Article R711-13
 ----
-Après chaque renouvellement, la chambre de commerce et d'industrie élit un
-bureau composé d'un président, de deux vice-présidents, d'un trésorier, d'un
-trésorier adjoint et d'un ou deux secrétaires.
+Après chaque renouvellement, la chambre de commerce et d'industrie territoriale
+élit un bureau composé d'un président, de deux vice-présidents, d'un trésorier,
+d'un trésorier adjoint et d'un ou deux secrétaires.
 
 Le président et les deux vice-présidents représentent les trois catégories
 professionnelles.

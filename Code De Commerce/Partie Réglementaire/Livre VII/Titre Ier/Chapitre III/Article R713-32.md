@@ -7,4 +7,4 @@ La répartition des délégués entre les catégories correspondant respectiveme
 aux activités commerciales, industrielles ou de services et éventuellement les
 sous-catégories prévues par l'article L. 713-11 se fait dans les mêmes
 conditions que celles qui sont fixées pour les membres des chambres de commerce
-et d'industrie par les articles R. 713-65 à R. 713-68.
+et d'industrie territoriales par les articles R. 711-47 et R. 713-66.

@@ -1,13 +1,13 @@
 Article R713-18
 ----
-Le lundi suivant la date du scrutin, la commission d'organisation des élections,
-composée le cas échéant en sections, procède aux opérations de dépouillement des
-votes par correspondance en séance publique et en présence de scrutateurs
-désignés par le président de la commission et par les candidats ou les
-mandataires des listes en présence.
+Le lundi suivant le dernier jour du scrutin, la commission d'organisation des
+élections, composée le cas échéant en sections, procède aux opérations de
+dépouillement des votes par correspondance en séance publique et en présence de
+scrutateurs désignés par le président de la commission et par les candidats ou
+leurs mandataires.
 
-Le jour du dépouillement, autant d'urnes qu'il y a de sous-catégories sont mises
-en place.
+Le jour du dépouillement, autant d'urnes qu'il y a de catégories ou
+sous-catégories sont mises en place.
 
 La commission vérifie que le nombre des enveloppes d'acheminement des votes
 correspond à celui qui est porté sur l'état récapitulatif mentionné à l'article

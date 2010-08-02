@@ -1,10 +1,10 @@
 Article R711-19
 ----
-Le nombre de membres de la délégation et leur répartition entre catégories et
-sous-catégories professionnelles sont arrêtés par le préfet dans les conditions
-prévues à l'article R. 713-69.
+La délégation est constituée de membres de la chambre de commerce et d'industrie
+territoriale, qui ont été identifiés sur les bulletins de vote parmi les
+candidats aux élections de cette chambre.
 
-Les membres de la délégation sont élus lors des élections de la chambre de
-commerce et d'industrie et répartis entre catégories et sous-catégories selon
-les mêmes règles que celles qui sont applicables aux autres membres de la
-chambre de commerce et d'industrie.
+Le nombre de membres de la délégation et leur répartition entre catégories et,
+le cas échéant, entre sous-catégories professionnelles sont arrêtés par le
+préfet du département du siège de la chambre dans les conditions prévues aux
+articles R. 711-47-1 et R. 713-66.

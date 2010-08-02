@@ -6,7 +6,8 @@ en dresse un état récapitulatif.
 Sous peine de nullité du vote, les enveloppes d'acheminement des votes
 comportent les mentions suivantes :
 
-1° La dénomination de la chambre ;
+1° La dénomination de la chambre de région et de la chambre de commerce et
+d'industrie territoriale ;
 
 2° La mention "Election des membres" ;
 
@@ -16,7 +17,9 @@ comportent les mentions suivantes :
 
 5° Sa signature ;
 
-6° La désignation de la catégorie et, le cas échéant, de la sous-catégorie à
+6° Son numéro d'inscription sur la liste électorale ;
+
+7° La désignation de la catégorie et, le cas échéant, de la sous-catégorie à
 laquelle il appartient.
 
 Les enveloppes d'acheminement des votes peuvent comporter un dispositif
@@ -28,7 +31,8 @@ l'informatique et des libertés.
 II. - Sous peine de nullité du vote, les enveloppes de scrutin comportent
 exclusivement les mentions suivantes :
 
-1° La dénomination de la chambre de commerce et d'industrie ;
+1° La dénomination de la chambre de commerce et d'industrie de région et de la
+chambre de commerce et d'industrie territoriale ;
 
 2° La mention "Election des membres" ;
 

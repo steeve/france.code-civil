@@ -1,20 +1,18 @@
 Article R711-50
 ----
-Les chambres régionales de commerce et d'industrie s'adjoignent des membres
-associés, qui ont voix consultative et dont le nombre ne peut dépasser la moitié
-de celui des membres élus.
+Les chambres de commerce et d'industrie de région peuvent s'adjoindre des
+membres associés, qui ont voix consultative et dont le nombre ne peut dépasser
+la moitié de celui des membres élus.
 
-Ces membres associés sont, dans la limite du tiers du nombre des membres élus,
-des chefs d'entreprise et des cadres dirigeants de l'industrie, du commerce et
-des services désignés, parmi eux, par l'ensemble des membres associés de leur
-catégorie siégeant dans les chambres de commerce et d'industrie de la
-circonscription de la chambre régionale et, pour le reste, des personnalités
-choisies en raison de leur compétence en matière économique.
+Les membres associés sont désignés par la chambre de commerce et d'industrie de
+région après chaque renouvellement parmi les personnalités qualifiées détenant
+des compétences en matière économique utiles à l'établissement.
 
-Un arrêté du préfet de région fixe le nombre total des membres associés et, en
-ce qui concerne le premier groupe défini à l'alinéa précédent, la répartition
-des sièges entre représentants des organisations patronales et représentants des
-cadres dirigeants.
+Les membres associés prennent part aux délibérations avec voix consultative et
+peuvent représenter la chambre dans toutes les instances auxquelles celle-ci
+participe.
 
-Les membres associés sont installés dans leurs fonctions par le préfet de région
-au cours de la deuxième réunion de la chambre régionale.
+La chambre de commerce et d'industrie territoriale dont la circonscription
+s'étend sur deux régions peut désigner, auprès de la chambre de commerce et
+d'industrie de région à laquelle elle n'est pas rattachée, des élus qui y
+siègent en qualité de membre associé.

@@ -1,16 +1,13 @@
 Article R713-27
 ----
-A l'issue du dépouillement, la commission d'organisation des élections dresse un
-procès-verbal signé par son président et ses membres et proclame les résultats
-des élections en public.
+Les candidats ayant obtenu le plus grand nombre de voix à l'élection de la
+chambre de commerce et d'industrie de région sont élus à la chambre de commerce
+et d'industrie de région ainsi qu'à la chambre de commerce et d'industrie
+territoriale et, le cas échéant, dans une délégation. Leur suppléant est élu à
+la chambre de commerce et d'industrie territoriale et, le cas échéant, dans la
+même délégation.
 
-Cette proclamation intervient au plus tard quarante-huit heures après le début
-du dépouillement.
-
-Le procès-verbal est transmis au préfet qui en adresse une copie au ministre
-chargé de la tutelle des chambres de commerce et d'industrie et à la chambre de
-commerce et d'industrie.
-
-Les listes d'émargement sont transmises au préfet. Elles peuvent être consultées
-à la préfecture dans les conditions fixées par l'article L. 68 du code
-électoral.
+Après attribution des sièges pourvus en application de l'alinéa précédent, les
+candidats ayant obtenu le plus grand nombre de voix à l'élection de la chambre
+de commerce et d'industrie territoriale sont élus à la chambre de commerce et
+d'industrie territoriale et, le cas échéant, dans une délégation.

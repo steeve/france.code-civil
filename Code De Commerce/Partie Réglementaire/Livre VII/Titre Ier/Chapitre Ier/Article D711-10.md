@@ -1,7 +1,8 @@
 Article D711-10
 ----
-Les chambres de commerce et d'industrie ont notamment une mission de service aux
-entreprises industrielles, commerciales et de services de leur circonscription.
+Les chambres de commerce et d'industrie territoriales ont notamment une mission
+de service aux entreprises industrielles, commerciales et de services de leur
+circonscription.
 
 Pour l'exercice de cette mission, elles créent et gèrent des centres de
 formalités des entreprises et apportent à celles-ci toutes informations et tous

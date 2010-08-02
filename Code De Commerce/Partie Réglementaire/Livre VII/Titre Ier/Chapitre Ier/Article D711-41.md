@@ -2,8 +2,8 @@ Article D711-41
 ----
 Les schémas sectoriels mentionnés au 3° de l'article L. 711-8 indiquent
 l'implantation de tous les établissements, infrastructures, équipements et
-services gérés par une ou plusieurs chambres de commerce et d'industrie dans
-chaque région dans les domaines suivants :
+services gérés par une ou plusieurs chambres de commerce et d'industrie
+territoriales dans chaque région dans les domaines suivants :
 
 1° Gestion des équipements aéroportuaires et portuaires ;
 
@@ -15,7 +15,7 @@ Ils peuvent également concerner d'autres secteurs, et en particulier les
 secteurs du développement international, de l'intelligence économique, de la
 recherche et de l'innovation.
 
-Ils sont élaborés par les chambres régionales de commerce et d'industrie dans le
+Ils sont élaborés par les chambres de commerce et d'industrie de région dans le
 respect du cahier des charges prévu au 1° de l'article L. 711-12 et en cohérence
 avec le schéma régional de développement économique, s'il a été adopté.
 

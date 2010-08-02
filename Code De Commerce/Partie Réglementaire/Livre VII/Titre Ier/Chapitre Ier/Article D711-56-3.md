@@ -2,13 +2,13 @@ Article D711-56-3
 ----
 L'assemblée des chambres françaises de commerce et d'industrie s'assure du
 respect des normes d'intervention sur la base des relevés transmis par les
-chambres et les chambres régionales concernant leurs propres indicateurs, ainsi
-que des consolidations transmises par les chambres régionales.
+chambres et les chambres de région concernant leurs propres indicateurs, ainsi
+que des consolidations transmises par les chambres de région.
 
 Elle élabore à partir de ces relevés une synthèse nationale annuelle relative à
 l'application de ces normes par les établissements du réseau, qu'elle transmet
 au ministre chargé de la tutelle du réseau des chambres de commerce et
-d'industrie.
+d'industrie territoriales.
 
 Elle examine chaque année en assemblée générale les résultats de cette synthèse.
 

@@ -1,13 +1,14 @@
 Article R713-41
 ----
-Lorsque des élections sont organisées dans une juridiction de première instance
-compétente en matière commerciale comportant des juges élus au cours des quatre
-années suivant celle du renouvellement quinquennal des délégués consulaires, la
-commission d'établissement des listes électorales se réunit sur convocation de
-son président pour examiner les demandes d'inscription sur la liste électorale
-des délégués consulaires présentées par les électeurs justifiant qu'ils
-remplissent les conditions d'éligibilité aux fonctions de délégué consulaire
-fixées à l'article L. 713-10.
+La commission d'établissement des listes électorales est appelée à compléter la
+liste des personnes remplissant la condition fixée par l'article L. 723-4 pour
+être éligibles aux fonctions de juge de tribunal de commerce lors d'élections
+organisées en application des dispositions de l'article L. 723-11.
+
+Elle se réunit sur convocation de son président pour examiner les demandes
+d'inscription sur la liste électorale des délégués consulaires présentées par
+les personnes justifiant qu'elles remplissent les conditions d'éligibilité aux
+fonctions de délégué consulaire fixées à l'article L. 713-10.
 
 Cette demande est présentée au plus tard sept jours après la date de l'arrêté
 préfectoral convoquant le collège électoral des juges consulaires.

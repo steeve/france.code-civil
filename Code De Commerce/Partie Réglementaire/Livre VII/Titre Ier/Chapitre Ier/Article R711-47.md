@@ -1,40 +1,41 @@
 Article R711-47
 ----
-Un arrêté du préfet de région détermine le nombre des membres de la chambre
-régionale de commerce et d'industrie et le nombre des sièges attribués au sein
-de la chambre régionale à chacune des chambres incluses dans la circonscription
-de la chambre régionale dans les conditions suivantes :
+I. - Avant le 20 avril de l'année du renouvellement des chambres, un arrêté du
+préfet de la région où est situé le siège de la chambre de commerce et
+d'industrie de région détermine le nombre des membres de cette chambre et le
+nombre des sièges attribués en son sein aux élus de chacune des chambres de
+commerce et d'industrie territoriales qui lui sont rattachées.
 
-a) Le nombre des membres de la chambre régionale de commerce et d'industrie est
-de 30 au minimum et de 60 au maximum. Ce nombre est déterminé sur proposition de
-la chambre régionale en tenant compte des bases de taxe professionnelle, du
-nombre des ressortissants et de l'effectif des salariés des ressortissants de
-chacune des chambres de commerce et d'industrie relevant de la chambre régionale
-et des bases de taxe professionnelle, du nombre des ressortissants et du nombre
-des salariés des ressortissants de l'ensemble de la chambre régionale.
+Le nombre des membres de la chambre de commerce et d'industrie de région est de
+30 au minimum et de 100 au maximum. Ce nombre est déterminé sur proposition de
+la chambre de commerce et d'industrie de région en tenant compte des éléments
+économiques issus de l'étude prévue à l'article R. 713-66.
 
-b) Le nombre de sièges attribués, au sein de la chambre régionale, à chaque
-chambre de commerce et d'industrie est établi au prorata, arrondi à l'unité la
-plus proche, de la moyenne des rapports entre :
+II. - Au sein de la chambre de commerce et d'industrie de région, la répartition
+des sièges attribués à chaque chambre de commerce et d'industrie territoriale
+est établie à la moyenne, arrondie à l'unité la plus proche, des proportions
+représentées par chacune d'elles au sein de l'ensemble, mesurées par le nombre
+des ressortissants, leurs bases de cotisation foncière des entreprises et leurs
+effectifs salariés. Ces proportions sont fondées sur l'étude économique de
+pondération régie par l'article R. 713-66.
 
-1° La somme des bases d'imposition à la taxe professionnelle des ressortissants
-de la chambre de commerce et d'industrie et la somme des bases d'imposition de
-l'ensemble des ressortissants des chambres composant la chambre régionale de
-commerce et d'industrie ;
+Toutefois, aucune chambre de commerce et d'industrie territoriale ne peut
+disposer de moins de trois sièges, qui doivent être attribués à des
+représentants de chacune des catégories.
 
-2° Le nombre de ressortissants de la chambre de commerce et d'industrie et le
-nombre de l'ensemble des ressortissants des chambres composant la chambre
-régionale de commerce et d'industrie ;
+En outre, aucune chambre de commerce et d'industrie territoriale ne peut
+disposer de plus de 40 % des sièges, sauf lorsque la chambre de commerce et
+d'industrie de région ne comporte que deux chambres territoriales.
 
-3° Le nombre de salariés employés par les ressortissants de la chambre de
-commerce et d'industrie et le nombre de salariés employés par l'ensemble des
-ressortissants des chambres composant la chambre régionale de commerce et
-d'industrie.
+Les effets des dispositions des deux alinéas précédents sont répercutés sur la
+représentation des autres chambres au sein de la chambre de commerce et
+d'industrie de région, en suivant la règle de proportionnalité énoncée au
+premier alinéa.
 
-c) Aucune chambre de commerce et d'industrie ne peut disposer de moins de deux
-sièges dont l'un est occupé par son président.
+III. - Pour tenir compte des particularités locales, le préfet de région peut
+s'écarter, en ce qui concerne le nombre des sièges attribués aux différentes
+catégories, de la moyenne des proportions définie au II ci-dessus, dans la
+limite du dixième des sièges à pourvoir.
 
-d) Aucune chambre de commerce et d'industrie ne peut disposer de plus du tiers
-des sièges de la chambre régionale de commerce et d'industrie. Toutefois,
-lorsque le nombre de chambres incluses dans le ressort de la chambre régionale
-est inférieur ou égal à 4, ce plafond est porté à 45 %.
+Lorsqu'il fait application de l'alinéa précédent, le préfet de région en informe
+les préfets de département intéressés.

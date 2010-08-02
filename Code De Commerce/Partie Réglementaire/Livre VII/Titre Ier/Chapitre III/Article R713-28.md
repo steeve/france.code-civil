@@ -1,8 +1,9 @@
 Article R713-28
 ----
 Les recours en annulation des élections aux chambres de commerce et d'industrie
-peuvent être formés par tout électeur et par le préfet dans les conditions
-prévues aux articles L. 248, et R. 119 à R. 122 du code électoral.
+territoriales et de région peuvent être formés par tout électeur et par le
+préfet dans les conditions prévues aux articles L. 248, et R. 119 à R. 122 du
+code électoral.
 
 Toutefois, le délai de cinq jours prévu au premier alinéa de l'article R. 119 de
 ce code court à compter de la proclamation des résultats.

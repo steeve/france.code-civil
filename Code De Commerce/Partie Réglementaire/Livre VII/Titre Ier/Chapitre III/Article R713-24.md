@@ -1,20 +1,19 @@
 Article R713-24
 ----
-Le jour du dépouillement des votes, le président de la commission d'organisation
-des élections imprime la liste d'émargement à partir du traitement "fichier des
-électeurs". Cette liste constitue la liste d'émargement pour le vote par
-correspondance.
+Le jour du dépouillement du vote, la liste d'émargement établie à partir du
+traitement "fichier des électeurs" constitue la liste d'émargement pour le vote
+par correspondance.
 
-Le président de la commission et l'un des assesseurs reçoivent chacun une clef
-de dépouillement distincte, selon des modalités en garantissant la
-confidentialité, permettant d'accéder aux données du fichier dénommé "contenu de
-l'urne électronique". Le président reçoit également les éléments permettant la
-vérification de l'intégrité du système de vote électronique.
+Le président de la commission et l'un au moins des assesseurs reçoivent chacun
+une clef de dépouillement distincte, selon des modalités en garantissant la
+confidentialité, permettant d'accéder aux données du fichier dénommé " contenu
+de l'urne électronique ". Le président reçoit également les éléments permettant
+la vérification de l'intégrité du système de vote électronique.
 
 Après la clôture des opérations de vote et vérification de l'intégrité du
-fichier dénommé "contenu de l'urne électronique", le président de la commission
-d'organisation des élections et l'assesseur mentionné à l'alinéa précédent
-procèdent publiquement au dépouillement.
+fichier dénommé " contenu de l'urne électronique ", le président de la
+commission d'organisation des élections et l'assesseur mentionné à l'alinéa
+précédent procèdent publiquement au dépouillement.
 
 Les décomptes des voix par candidat apparaissent lisiblement à l'écran et font
 l'objet d'une édition sécurisée afin d'être portés au procès-verbal de

@@ -1,12 +1,13 @@
 Article R711-71
 ----
-Les chambres de commerce et d'industrie ne peuvent se réunir en assemblée
-générale que toutes catégories et sous-catégories professionnelles confondues.
+Les chambres de commerce et d'industrie territoriales ne peuvent se réunir en
+assemblée générale que toutes catégories et sous-catégories professionnelles
+confondues.
 
-Les chambres régionales de commerce et d'industrie, les chambres de commerce et
-d'industrie et les groupements interconsulaires ne peuvent valablement délibérer
-que si le nombre des membres présents dépasse la moitié du nombre des membres en
-exercice.
+Les chambres de commerce et d'industrie de région, les chambres de commerce et
+d'industrie territoriales et les groupements interconsulaires ne peuvent
+valablement délibérer que si le nombre des membres présents dépasse la moitié du
+nombre des membres en exercice.
 
 Lorsque ce nombre n'est pas atteint, il est procédé à une nouvelle convocation
 de l'assemblée générale. Lors de la deuxième réunion, la délibération est

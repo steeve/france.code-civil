@@ -5,5 +5,5 @@ chambre ses propositions et ses voeux. Elle peut être consultée directement pa
 l'administration sur les problèmes particuliers de sa circonscription.
 
 La délégation soumet à l'approbation de la chambre de commerce et d'industrie
-ses règles de fonctionnement, qui sont intégrées au règlement intérieur de la
-chambre.
+territoriale ses règles de fonctionnement, qui sont intégrées au règlement
+intérieur de la chambre.

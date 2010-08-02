@@ -1,7 +1,7 @@
 Article R711-58
 ----
 Dans le mois qui suit l'expiration du délai prévu pour l'installation des
-chambres régionales à la suite du renouvellement quinquennal, le président en
+chambres de région à la suite du renouvellement quinquennal, le président en
 exercice de l'assemblée convoque une première assemblée constitutive. Celle-ci
 se tient sous la présidence du doyen d'âge.
 

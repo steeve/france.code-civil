@@ -1,5 +1,6 @@
 Article R711-12
 ----
-Dans les six semaines qui suivent le jour du scrutin, les membres élus de la
-chambre de commerce et d'industrie sont installés par le préfet, qui dresse
-procès-verbal de la séance.
+Dans les trois semaines qui suivent le dernier jour du scrutin, les membres élus
+de la chambre de commerce et d'industrie territoriale sont installés par le
+préfet du département du siège de la chambre. Le préfet dresse procès-verbal de
+la séance.

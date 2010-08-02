@@ -1,13 +1,6 @@
 Article R711-57
 ----
-Les chambres de commerce et d'industrie, les délégations départementales et les
-chambres régionales de commerce et d'industrie sont représentées à l'assemblée
-par leur président.
-
-Lorsque le président de la chambre régionale est en même temps président d'une
-chambre de commerce et d'industrie, cette dernière désigne un second
-représentant parmi ses membres.
-
-Les chambres de commerce et d'industrie, les délégations départementales et les
-chambres régionales de commerce et d'industrie désignent parmi leurs membres un
-suppléant appelé à remplacer le titulaire en cas d'empêchement.
+Les chambres représentées à l'assemblée des chambres françaises de commerce et
+d'industrie en application du deuxième alinéa de l'article L. 711-15 désignent
+parmi leurs membres un suppléant appelé à remplacer leur représentant titulaire
+en cas d'empêchement.
