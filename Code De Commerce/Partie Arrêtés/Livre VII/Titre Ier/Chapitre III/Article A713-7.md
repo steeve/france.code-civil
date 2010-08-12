@@ -1,39 +1,67 @@
 Article A713-7
 ----
-Les plafonds maxima de dépenses d'impression et d'affichage arrêtés par les
-préfets dans les limites desquels les candidats peuvent prétendre à
-remboursement par référence à l'article L. 52-11 du code électoral sont ceux des
-documents présentant les caractéristiques suivantes : 1° Bulletins de vote sur
-papier blanc ou éventuellement sur papier recyclé, 80 grammes au mètre carré, ne
-pouvant dépasser les formats suivants : a) 74 mm × 105 mm, pour une candidature
-isolée ; b) 148 mm × 210 mm, pour les regroupements de candidats ; c) 210 mm ×
-297 mm, pour le document unique mentionné à l'article A. 713-5. Le nombre de
-bulletins admis à remboursement ne peut excéder celui effectivement remis
-conformément à l'article A. 713-9. Les bulletins de vote précisent : a) Le nom
-et le prénom usuels du ou des candidats ; b) Le cas échéant, leurs titres et
-décorations ; c) Leur profession ; d) La commune de leur activité ; e) L'entité
-sous l'égide de laquelle ils se présentent et la personne soutenant la ou les
-candidatures ; f) Leur sous-catégorie ou, à défaut, leur catégorie
-professionnelle ; g) La mention, le cas échéant, du département. Les formats et
-les mentions des bulletins de vote pour le vote électronique peuvent s'écarter
-des dispositions ci-dessus, à condition de garantir une stricte égalité entre
-les candidats. 2° Circulaires sur papier blanc satiné, 100 grammes au mètre
-carré, d'un format maximum de 297 mm × 420 mm, en quadrichromie. Le nombre de
-circulaires admis à remboursement ne peut excéder celui effectivement remis
-conformément à l'article A. 713-9. 3° Les affiches électorales sur papier
-couleur, 100 grammes au mètre carré, sans travaux de repiquage, d'un format
-maximum de 594 mm × 841 mm. Le nombre d'affiches admises à remboursement ne peut
-excéder une affiche pour cent électeurs inscrits. Conformément à l'article R. 27
-du code électoral, les affiches ne peuvent comporter une combinaison des trois
-couleurs : bleu, blanc, rouge. Par référence à l'article L. 52-11-1 du code
-électoral, le préfet fixe par arrêté un montant maximum de remboursement des
-dépenses engagées par les candidats dans les conditions ci-dessus. Les demandes
-de remboursement sont adressées au président de la chambre de commerce et
-d'industrie. Conformément à l'article R. 39 du code électoral, les tarifs
-d'impression ne peuvent s'appliquer qu'à des documents présentant les
-caractéristiques ci-dessus et excluant tous travaux de photogravure (clichés,
-simili ou trait). Les candidats d'une liste ou un candidat isolé peuvent choisir
-d'utiliser un papier de qualité supérieure, de faire imprimer des photographies
-sur les affiches ou sur les circulaires, d'utiliser un mode d'impression d'un
-coût supérieur à la quadrichromie. Ces dépenses supplémentaires ne sont pas
-soumises à remboursement.
+Les candidats peuvent prétendre à remboursement des documents présentant les
+caractéristiques suivantes :
+
+1° Bulletins de vote imprimés en une seule couleur sur papier tirant sur le
+blanc, d'un grammage de 80 grammes au mètre carré, aux formats suivants :
+
+105 × 148 mm, pour une candidature isolée ;
+
+148 × 210 mm, pour les regroupements de candidats ;
+
+210 mm × 297 mm, pour le document unique mentionné à l'article A. 713-5.
+
+Le nombre de bulletins admis à remboursement ne peut excéder celui effectivement
+remis, conformément à l'article A. 713-9.
+
+Les bulletins de vote, lesquels sont exclusivement recto, précisent, pour chacun
+des candidats, titulaire ou suppléant :
+
+a) Son nom et son prénom usuel ;
+
+b) Le cas échéant, ses titres et décorations ;
+
+c) Sa profession ou son secteur d'activité ;
+
+d) La commune de son activité ;
+
+e) Le cas échéant, l'intitulé du groupement sous l'égide duquel il se présente
+et la personne soutenant la ou les candidatures ;
+
+f) Le siège pour lequel il se présente : mandat de membre titulaire ou de membre
+suppléant de la chambre de région associé au mandat de membre de la chambre
+territoriale, ou mandat de la seule chambre territoriale ;
+
+g) Le cas échéant, en complément de l'une ou l'autre des candidatures
+mentionnées à l'alinéa précédent, mention de la candidature en qualité de membre
+d'une délégation de la chambre territoriale (1) ;
+
+h) La catégorie professionnelle et, le cas échéant, la sous-catégorie
+professionnelle dans lesquelles il se présente.
+
+Les formats et les mentions des bulletins de vote pour le vote électronique
+peuvent s'écarter des dispositions ci-dessus, à condition de garantir une
+stricte égalité entre les candidats.
+
+2° Circulaires sur papier blanc, 100 grammes au mètre carré, d'un format maximum
+de 297 mm × 420 mm, en quadrichromie.
+
+Le nombre de circulaires admis à remboursement ne peut excéder celui
+effectivement remis, conformément à l'article A. 713-9.
+
+3° Affiches électorales sur papier couleur, 100 grammes au mètre carré, sans
+travaux de repiquage, d'un format maximum de 594 mm × 841 mm.
+
+Conformément à l'article R. 27 du code électoral, les affiches ne peuvent
+comporter une combinaison des trois couleurs : bleu, blanc, rouge.
+
+Le nombre d'affiches admises à remboursement ne peut excéder deux affiches par
+emplacement mis à disposition de chaque candidat ou groupement de candidats
+défini par la commission d'organisation des élections.
+
+Les candidats se présentant dans le cadre d'un groupement ou de manière
+individuelle peuvent choisir d'utiliser un papier de qualité supérieure, de
+faire imprimer des photographies sur les affiches ou sur les circulaires,
+d'utiliser un mode d'impression d'un coût supérieur à la quadrichromie. Ces
+dépenses supplémentaires ne sont pas soumises à remboursement.
