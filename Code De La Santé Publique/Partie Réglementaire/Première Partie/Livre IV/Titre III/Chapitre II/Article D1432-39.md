@@ -39,9 +39,10 @@ santé, la prévention ou l'éducation pour la santé ;
 16° Un représentant des organismes œuvrant dans les domaines de l'observation de
 la santé, sanitaire, de l'enseignement et de la recherche ;
 
-17° Cinq représentants des établissements publics de santé, dont deux présidents
-de commissions médicales d'établissement de centres hospitaliers et de centres
-hospitaliers universitaires ;
+17° Cinq représentants des établissements publics de santé, dont trois
+présidents de commissions médicales d'établissement de centres hospitaliers, de
+centres hospitaliers universitaires et de centres hospitaliers spécialisés en
+psychiatrie ;
 
 18° Deux représentants des établissements privés de santé à but lucratif, dont
 un président de conférence médicale d'établissement ;
@@ -65,7 +66,11 @@ structure d'aide médicale d'urgence et de réanimation ;
 
 25° Un représentant des transporteurs sanitaires ;
 
-26° Un représentant de services départementaux d'incendie et de secours ;
+26° Un représentant de services départementaux d'incendie et de secours ou, pour
+la région Ile-de-France, un représentant de la brigade de sapeurs-pompiers de
+Paris désigné par le préfet de police et, pour la région Provence-Alpes-Côte
+d'Azur, un représentant du bataillon de marins-pompiers de Marseille désigné par
+le maire de Marseille ;
 
 27° Un représentant des organisations syndicales représentatives des médecins
 des établissements publics de santé ;

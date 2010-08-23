@@ -123,10 +123,10 @@ de l'agence régionale de santé ;
 7° Un collège des offreurs des services de santé comprenant :
 
 a) Cinq représentants des établissements publics de santé, désignés par le
-directeur général de l'agence régionale de santé, dont au moins deux présidents
-de commissions médicales d'établissement de centres hospitaliers et de centres
-hospitaliers universitaires, sur proposition de la fédération représentant ces
-établissements ;
+directeur général de l'agence régionale de santé, dont au moins trois présidents
+de commissions médicales d'établissement de centres hospitaliers, de centres
+hospitaliers universitaires et de centres hospitaliers spécialisés en
+psychiatrie, sur proposition de la fédération représentant ces établissements ;
 
 b) Deux représentants des établissements privés de santé à but lucratif,
 désignés par le directeur général de l'agence régionale de santé, dont au moins
@@ -135,10 +135,10 @@ fédération représentant ces établissements ;
 
 c) Deux représentants des établissements privés de santé à but non lucratif
 désignés par le directeur général de l'agence régionale de santé, dont au moins
-un président de conférence médicale d'établissement, sur proposition de la
-fédération représentant ces établissements ;
+un président de conférence médicale d'établissement, sur proposition des
+organisations existant en région représentant ces établissements ;
 
-d) Un représentant des établissements assurant des activités de soins à
+d) Un représentant des établissements assurant des activités d'hospitalisation à
 domicile, désigné par le directeur général de l'agence régionale de santé sur
 proposition de l'organisation regroupant, au niveau régional, le nombre le plus
 important de ces établissements ;
@@ -181,7 +181,11 @@ importante dans ce domaine ;
 
 m) Un représentant de services départementaux d'incendie et de secours, désigné
 par le directeur général de l'agence régionale de santé sur proposition des
-présidents des conseils généraux des départements de la région ;
+présidents des conseils généraux des départements de la région ou, pour la
+région Ile-de-France, un représentant de la brigade de sapeurs-pompiers de Paris
+désigné par le préfet de police et, pour la région Provence-Alpes-Côte d'Azur,
+un représentant du bataillon de marins-pompiers de Marseille désigné par le
+maire de Marseille ;
 
 n) Un représentant des organisations syndicales représentatives de médecins des
 établissements publics de santé désigné, de manière conjointe, par les

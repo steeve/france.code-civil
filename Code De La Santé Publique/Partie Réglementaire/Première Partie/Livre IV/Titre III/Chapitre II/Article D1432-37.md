@@ -55,10 +55,10 @@ la santé ;
 
 23° Quatre représentants des offreurs des services de santé :
 
--un représentant mentionné au a ou au b ou au c ou au d du collège des offreurs
-des services de santé ;
+-un représentant mentionné au a, b, c ou d du collège des offreurs des services
+de santé ;
 
--un représentant mentionné au d ou au e du collège des offreurs des services de
+-un représentant mentionné au e ou f du collège des offreurs des services de
 santé ;
 
 -deux membres des unions régionales des professionnels de santé.
