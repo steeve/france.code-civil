@@ -1,16 +1,22 @@
 Article D543-212
 ----
-La contribution financière prévue au I de l'article L. 541-10-1 est fixée, pour
-chaque personne tenue de s'en acquitter, proportionnellement au poids des
-imprimés papiers que cette personne a émis ou a fait émettre dans les conditions
-décrites audit article L. 541-10-1. Son taux, exprimé en euros par kilogramme,
-est inférieur à 0, 15 euro par kilogramme.
+-Le soutien versé aux collectivités en application de l'article D. 543-210 est
+modulé pour tenir compte du mode de traitement des déchets issus des imprimés
+papiers et des papiers à usage graphique, transformés, manufacturés,
+conditionnés et destinés à être imprimés.
 
-La contribution peut être modulée en fonction de la qualité environnementale des
-imprimés émis, selon des critères fixés dans le cahier des charges de
-l'organisme agréé.
+Ce soutien est égal à :
 
-Le produit de cette contribution couvre les soutiens versés aux collectivités
-selon le barème fixé à l'article D. 543-213, le coût des actions d'information
-nationale et les autres frais de fonctionnement de l'organisme mentionné à
-l'article D. 543-207.
+1° 65 euros par tonne de déchets ménagers et assimilés, issus d'imprimés papiers
+et de papiers à usage graphique, transformés, manufacturés, conditionnés et
+destinés à être imprimés, qui font l'objet de recyclage ;
+
+2° 30 euros par tonne de déchets ménagers et assimilés, issus d'imprimés papiers
+et de papiers à usage graphique, transformés, manufacturés, conditionnés et
+destinés à être imprimés, qui font l'objet de traitement thermique avec
+valorisation de l'énergie produite, de compostage à des fins agricoles ou de
+végétalisation ou de méthanisation ;
+
+3° 2 euros par tonne de déchets ménagers et assimilés, issus d'imprimés papiers
+et de papiers à usage graphique, transformés, manufacturés, conditionnés et
+destinés à être imprimés, qui font l'objet d'un autre traitement.
