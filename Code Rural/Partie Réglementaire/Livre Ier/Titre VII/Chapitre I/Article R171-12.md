@@ -19,13 +19,11 @@ couverts et les montants de garanties dans l'exercice des activités mentionnée
 à l'article L. 171-1. Le comité fixe les montants minima des garanties à
 souscrire ;
 
-6. Un extrait de casier judiciaire n° 3 ou, pour les professionnels
-ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat
-partie à l'accord sur l'Espace économique européen, une attestation certifiant
-que le détenteur est légalement établi dans un Etat membre pour y exercer les
-missions d'expertise mentionnées à l'article L. 171-1 et qu'il n'encourt,
-lorsque l'attestation est délivrée, aucune interdiction, même temporaire,
-d'exercer ;
+6. Un extrait de casier judiciaire n° 3 ou pour les professionnels
+ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie
+à l'accord sur l'Espace économique européen, une attestation certifiant que son
+détenteur n'encourt, à la date de sa délivrance, aucune interdiction, même
+temporaire, d'exercer ;
 
 7. Une déclaration sur l'honneur, établie sur papier libre, par laquelle
 l'intéressé justifie que les exigences visées aux 2°, 3° et 4° de l'article R.
