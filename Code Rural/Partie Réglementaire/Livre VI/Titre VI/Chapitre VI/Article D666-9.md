@@ -1,19 +1,21 @@
 Article D666-9
 ----
-L'autorité désignée au premier alinéa de l'article D. 666-4 retire, après avoir
-mis les intéressés à même de présenter leurs observations, l'agrément des
-collecteurs qui ont fait l'objet de condamnations à des peines correctionnelles
-pour vol, escroqueries, abus de confiance ou tous autres faits contraires à la
-probité, ou à des peines criminelles, ou encore qui ont été condamnés pour des
-infractions à l'article 1619 du code général des impôts, ou qui ont été
-sanctionnés en application de l'article L. 621-33 du code rural, ou qui se
-trouvent en état de liquidation judiciaire, ou à l'encontre desquels a été
-prononcée l'une des sanctions prévues au titre V de la loi n° 2005-845 du 26
-juillet 2005 relative à la sauvegarde des entreprises.
+Conformément au dernier alinéa de l'article L. 666-1, l'inobservation par les
+collecteurs de céréales des obligations qui leur incombent, notamment
+l'obligation d'exercer leur activité avec probité et de respecter les
+dispositions des articles D. 666-2 à D. 666-8 du présent code et de l'article
+1619 du code général des impôts , peut, après que les intéressés aient été mis à
+même de présenter leurs observations, entraîner, selon la gravité du manquement
+:
 
-Ce retrait d'agrément, qui doit être motivé et qui emporte de droit
-l'interdiction d'acheter et de livrer des céréales, peut donner lieu, de la part
-des intéressés, à un recours devant le directeur général de l'établissement
-mentionné à l'article L. 621-1. Ce recours, qui est suspensif, doit être formé
-dans un délai maximum de deux mois à compter de la notification de la décision
-attaquée. Le directeur général dispose de deux mois pour se prononcer.
+a) La suspension pendant une durée maximale de six mois du droit de collecter
+des céréales ;
+
+b) L'interdiction d'exercer cette activité.
+
+Dans ce dernier cas, la personne sanctionnée ne peut déposer une nouvelle
+déclaration en qualité de collecteur de céréales qu'à l'issue d'un délai de cinq
+ans.
+
+La décision de suspension ou d'interdiction est prise par le directeur général
+de l'établissement mentionné à l'article L. 621-1. Elle doit être motivée.
