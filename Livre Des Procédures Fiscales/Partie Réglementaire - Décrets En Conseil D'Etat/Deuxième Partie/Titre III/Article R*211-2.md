@@ -7,10 +7,10 @@ comptables du Trésor, chargés du recouvrement. Ces propositions sont portées 
 des états adressés, selon le cas, au directeur des services fiscaux ou au
 directeur régional des douanes et droits indirects pour la suite à donner.
 
-Les agents appartenant au corps des géomètres du cadastre sont également admis,
-dans les conditions fixées par le directeur général des impôts, à proposer
-d'office, en matière de taxe foncière, le dégrèvement des droits formant
-surtaxe.
+Les agents appartenant au corps des géomètres-cadastreurs des finances publiques
+sont également admis, dans les conditions fixées par le directeur général des
+impôts, à proposer d'office, en matière de taxe foncière, le dégrèvement des
+droits formant surtaxe.
 
 Sauf s'il s'agit des dégrèvements d'office prévus au III de l'article 1414 et à
 l'article 1414 A du code général des impôts, les propositions de dégrèvements
