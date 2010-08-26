@@ -26,5 +26,5 @@ police nationale ou de son représentant ayant au moins le grade de commissaire
 de police et d'un fonctionnaire de police ayant également au moins le même
 grade.
 
-Le secrétariat de chaque commission d'examen est assuré par la direction de la
-formation de la police nationale.
+Le secrétariat de chaque commission d'examen est assuré par la direction des
+ressources et des compétences de la police nationale.

@@ -1,8 +1,9 @@
 Article A29
 ----
 L'organisation matérielle des épreuves de l'examen technique qui se déroulent
-dans un ou plusieurs centres est assurée par le directeur de la formation de la
-police nationale conformément aux directives données par circulaire.
+dans un ou plusieurs centres est assurée par le directeur des ressources et des
+compétences de la police nationale conformément aux directives données par
+circulaire.
 
 Il est interdit aux candidats, sous peine d'exclusion, d'avoir pardevers eux des
 documents imprimés ou manuscrits ou des codes annotés et commentés, article par
@@ -20,7 +21,7 @@ L'enveloppe renfermant chaque sujet de composition est décachetée, en présenc
 des candidats, à l'ouverture de la séance affectée à l'épreuve.
 
 Toutes les compositions sont faites sur des feuilles fournies par la direction
-de la formation de la police nationale.
+des ressources et des compétences de la police nationale.
 
 Les membres du jury d'examen peuvent être répartis en plusieurs
 sous-commissions.

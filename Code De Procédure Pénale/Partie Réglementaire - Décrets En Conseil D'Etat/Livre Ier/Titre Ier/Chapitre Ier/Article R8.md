@@ -16,7 +16,8 @@ cassation, président ;
 4° Le directeur, chef de l'inspection générale de la police nationale ou son
 représentant ;
 
-5° Le directeur de la formation de la police nationale ou son représentant ;
+5° Le directeur des ressources et des compétences de la police nationale ou son
+représentant ;
 
 6° Neuf fonctionnaires de la police nationale ayant au moins rang de
 commissaire.
@@ -31,5 +32,5 @@ Les membres de la commission mentionnés aux 2° et 6° ci-dessus sont nommés p
 une durée de quatre ans renouvelable une fois, et ont chacun un suppléant
 désigné dans les mêmes conditions.
 
-Le secrétariat de la commission est assuré par la direction de la formation de
-la police nationale.
+Le secrétariat de la commission est assuré par la direction des ressources et
+des compétences de la police nationale.
