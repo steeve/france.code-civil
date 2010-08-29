@@ -1,22 +1,17 @@
 Article R162-63
 ----
-La décision conjointe est publiée et notifiée dans les conditions prévues par
-l'article R. 710-17-7 du code de la santé publique. Le silence gardé pendant
-plus de quatre mois sur la demande vaut rejet. Ce délai ne court qu'à compter de
-la réception d'un dossier complet comportant les élément suivants :
+La décision de financement est notifiée aux promoteurs du réseau et publiée au
+bulletin des actes administratifs de la préfecture du département dans lequel a
+son siège l'agence auprès de laquelle la demande a été déposée ainsi qu'au
+bulletin des actes administratifs de la préfecture de chacun des départements
+dans lesquels la décision s'applique. Le silence gardé pendant plus de quatre
+mois sur la demande vaut rejet. Ce délai ne court qu'à compter de la réception
+d'un dossier complet comportant les élément mentionnés à l'article D. 6321-6 du
+code de la santé publique.
 
-a) Les conditions dans lesquelles les professionnels de santé et les
-établissements manifestent leur volonté de participer au réseau ;
-
-b) Les modalités par lesquelles les patients manifestent leur volonté d'être
-pris en charge dans le réseau ;
-
-c) Les modalités de suivi des dépenses du réseau.
-
-La décision précise la durée de l'application qui ne peut excéder trois ans.
-Elle peut être prorogée dans les mêmes formes que la décision initiale et au vu
-de l'évaluation.
-
-Pour mettre en oeuvre la décision conjointe, l'organisme désigné, dans la
-circonscription où le réseau a son siège, définit avec le ou les promoteurs du
-réseau les modalités d'application de la décision.
+La décision précise la durée de son application, qui ne peut excéder cinq ans.
+Elle peut être prorogée dans les mêmes formes qu'a été prise la décision
+initiale, au vu de l'évaluation mentionnée à l'article R. 162-65. Le directeur
+général de l'agence régionale de santé ou le comité national de gestion du fonds
+mentionné à l'article L. 221-1-1 définit, selon le cas, les modalités
+d'application de la décision de financement qu'il a prise.

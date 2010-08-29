@@ -1,8 +1,9 @@
 Article D221-21
 ----
-La mission régionale de santé établit chaque année, et modifie le cas échéant
-par décision modificative, un budget prévisionnel en équilibre des recettes et
-des dépenses du fonds. Le budget précise notamment la nature et le montant des
-différentes dépenses prévisionnelles relatives aux frais de gestion du conseil
-régional de la qualité et de la coordination des soins et du bureau du conseil
-qui sont pris en charge sur la dotation régionale du fonds.
+Dès la notification de la dotation régionale déléguée à l'agence régionale de
+santé, le directeur général de l'agence établit un document prévisionnel des
+engagements dont le montant total ne peut être supérieur à la dotation déléguée
+à l'agence. Il actualise ce document au cours de l'exercice compte tenu des
+engagements déjà effectués. Il suit la consommation de la dotation déléguée à
+l'agence au vu des sommes engagées, des paiements effectués et des montants
+recouvrés.
