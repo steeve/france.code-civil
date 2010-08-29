@@ -11,7 +11,7 @@ sont examinées par :
 
 2° La commission médicale d'établissement ;
 
-3° La ou les sous-commissions prévues au II de l'article L. 6144-1 ;
+3° (Abrogé)
 
 4° Le comité d'hygiène et de sécurité et des conditions de travail ;
 
