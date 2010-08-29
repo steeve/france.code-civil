@@ -1,7 +1,6 @@
 Article R4215-1
 ----
-Le maître d'ouvrage conçoit et réalise les bâtiments et les installations
-électriques des lieux de travail de telle façon qu'ils soient conformes aux
-dispositions du décret n° 88-1056 du 14 novembre 1988 relatif à la protection
-des travailleurs dans les établissements qui mettent en œuvre des courants
-électriques.
+Le maître d'ouvrage s'assure que les installations électriques sont conçues et
+réalisées de façon à prévenir les risques de choc électrique, par contact direct
+ou indirect, ou de brûlure et les risques d'incendie ou d'explosion d'origine
+électrique.

@@ -1,8 +1,12 @@
 Article R4215-3
 ----
-Le maître d'ouvrage précise dans un dossier technique, qu'il transmet à
-l'employeur, la description et les caractéristiques des installations
-électriques réalisées, ainsi que tous les éléments permettant à la personne ou à
-l'organisme choisi par l'employeur pour procéder à la vérification initiale des
-installations électriques de donner un avis sur la conformité de celles-ci aux
-dispositions en vigueur.
+Les installations sont conçues et réalisées de telle façon que :
+
+1° Aucune partie active dangereuse ne soit accessible aux travailleurs, sauf
+dans les locaux et emplacements à risques particuliers de choc électrique, qui
+font l'objet de prescriptions particulières fixées aux articles R. 4226-9, R.
+4226-10 et R. 4226-11 ;
+
+2° En cas de défaut d'isolement, aucune masse ne présente, avec une autre masse
+ou un élément conducteur, une différence de potentiel dangereuse pour les
+travailleurs.
