@@ -14,7 +14,9 @@ ou lorsque le greffier estime que la demande n'est pas conforme aux dispositions
 applicables, le greffier prend une décision de refus d'inscription qu'il doit,
 dans le délai mentionné au premier alinéa, soit remettre au demandeur contre
 récépissé, soit adresser à celui-ci par lettre recommandée avec demande d'avis
-de réception. La décision de refus est motivée.
+de réception. La décision de refus est motivée. Dans le même délai, le greffier
+informe, par voie électronique, l'Institut national de la statistique et des
+études économiques de ce refus d'inscription.
 
 Lorsque la complexité du dossier exige un examen particulier de celui-ci, le
 greffier avise le déclarant, dans le délai prévu au premier alinéa et par lettre

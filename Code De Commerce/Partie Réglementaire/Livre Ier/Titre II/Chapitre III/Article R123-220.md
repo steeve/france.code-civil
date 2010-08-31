@@ -9,6 +9,9 @@ registre du commerce et des sociétés, du répertoire des métiers ou qu'ils
 emploient du personnel salarié, sont soumis à des obligations fiscales ou
 bénéficient de transferts financiers publics.
 
+Les personnes morales en formation sont inscrites au répertoire national
+mentionné au premier alinéa ;
+
 Sont également répertoriées les personnes physiques exerçant de manière
 indépendante une profession non salariée et ayant effectué une déclaration
 d'activité en application de l'article L. 123-1-1 ou du V de l'article 19 de la

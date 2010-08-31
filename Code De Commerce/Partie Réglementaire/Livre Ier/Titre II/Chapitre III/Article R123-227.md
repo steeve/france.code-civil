@@ -6,6 +6,10 @@ s'il s'agit d'une personne morale, et en cas de décès ou lors de la cessation 
 toute activité mentionnée à l'article R. 123-220 s'il s'agit d'une personne
 physique.
 
+Une personne morale en formation est radiée et son numéro d'identification est
+supprimé lorsqu'elle fait l'objet d'une décision de refus d'inscription au
+registre du commerce et des sociétés ;
+
 Un établissement est radié et son numéro d'identité est supprimé lors de la
 cessation définitive de l'activité de la personne inscrite dans cet
 établissement.
