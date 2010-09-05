@@ -1,28 +1,15 @@
 Article R217-9
 ----
-Pour les nominations autres que celles prévues à l'article L. 217-3-1, le
-directeur de l'organisme national compétent établit, au vu de l'avis du comité
-des carrières des agents de direction, la liste des trois noms prévue à
-l'article L. 217-3 parmi les candidatures recevables transmises par l'Union des
-caisses nationales de sécurité sociale.
+Pour les nominations mentionnées aux articles L. 217-3 et L. 217-4, le directeur
+de l'organisme national compétent informe, dans les quinze jours suivant
+réception des avis du comité des carrières mentionnés à l'article R. 123-47-8,
+le conseil d'administration de l'organisme local concerné, après concertation
+avec son président, de la candidature retenue parmi celles ayant reçu un avis
+favorable de ce comité.
 
-Cette liste est adressée par le directeur de l'organisme national, dans un délai
-de huit jours à compter de la réception des avis du comité des carrières, au
-président du conseil d'administration de l'organisme dont le poste est à
-pourvoir. Toutefois, pour les postes à pourvoir dans les caisses d'assurance
-retraite et de la santé au travail et les caisses générales de sécurité sociale,
-la liste est établie et adressée conjointement par les directeurs des organismes
-nationaux compétents, dans un délai de douze jours à compter de la réception des
-avis du comité des carrières, au président du conseil d'administration dont le
-poste est à pourvoir.
-
-Le directeur de l'organisme national compétent informe chaque candidat de la
-présence ou de l'absence de son nom sur la liste.
-
-Les trois candidats sont entendus par le président et le premier vice-président
-du conseil d'administration. Le conseil d'administration dispose d'un délai d'un
-mois pour notifier le nom du candidat de son choix au directeur de l'organisme
-national compétent, qui procède alors à la nomination.
+En l'absence d'opposition à la majorité des deux tiers du conseil
+d'administration dans un délai de onze jours suivant cette transmission, le
+directeur de l'organisme national procède à la nomination du candidat retenu.
 
 Le secrétariat du comité des carrières des agents de direction communique aux
 candidats, sur leur demande et chacun pour ce qui le concerne, les avis motivés
