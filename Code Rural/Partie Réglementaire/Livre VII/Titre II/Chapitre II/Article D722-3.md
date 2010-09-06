@@ -3,7 +3,7 @@ Article D722-3
 Les demandes d'affiliation au régime de protection sociale des personnes non
 salariées des professions agricoles en qualité d'entrepreneur de travaux
 forestiers sont transmises par les caisses de mutualité sociale agricole à une
-commission instituée dans chaque département par arrêté du préfet et composée de
+commission instituée dans chaque région par arrêté du préfet et composée de
 représentants du ministre chargé de l'agriculture, des caisses de mutualité
 sociale agricole et des organisations professionnelles représentatives de
 salariés et d'exploitants ou d'entrepreneurs de travaux forestiers ainsi que de

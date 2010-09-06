@@ -5,12 +5,15 @@ d'information de leurs donneurs d'ordre, les personnes qui satisfont aux
 dispositions de l'article D. 722-3 doivent être en possession d'une attestation
 certifiant qu'elles répondent aux conditions de la levée de présomption de
 salariat. Pour la première année, cette attestation est établie par la caisse de
-mutualité sociale agricole et remise à la personne intéressée, sur demande de
-cette dernière. Pour les années suivantes, cette attestation est renouvelée de
-façon automatique par la caisse de mutualité sociale agricole qui la transmet à
-la personne intéressée. Elle est établie dans la limite maximum d'une
-attestation par année civile et fait foi jusqu'au terme de cette année, sous
-réserve des dispositions du troisième alinéa du présent article.
+mutualité sociale agricole et transmise à la personne intéressée, sur demande de
+cette dernière. Toutefois, si la levée de présomption de salariat fait suite à
+l'avis de la commission mentionnée à l'article D. 722-3, la caisse établit
+l'attestation et la transmet spontanément à la personne intéressée. Pour les
+années suivantes, cette attestation est renouvelée de façon automatique par la
+caisse de mutualité sociale agricole qui la transmet à la personne intéressée.
+Elle est établie dans la limite maximum d'une attestation par année civile et
+fait foi jusqu'au terme de cette année, sous réserve des dispositions du
+troisième alinéa du présent article.
 
 La caisse de mutualité sociale agricole remet cette attestation, dans les mêmes
 conditions, aux exploitants agricoles mentionnés au deuxième alinéa de l'article
