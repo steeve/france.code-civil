@@ -1,13 +1,7 @@
 Article 251
 ----
-Le bénéfice des dispositions du A de l'article 1594 F quinquies, du A de
-l'article 1594-0 G, de l'article 730 et du IV de l'article 810 du code général
+Le bénéfice des dispositions du A de l'article 1594 F quinquies du code général
 des impôts est subordonné au paiement de la taxe lors du dépôt de la déclaration
-prévue à l'article 250.
-
-Il est également accordé en cas de justification de la prise en charge de cette
-taxe par le service des impôts compétents.
-
-A défaut d'acte, tout transfert de propriété doit faire l'objet, dans le délai
-d'un mois à compter de sa date, d'une déclaration spéciale souscrite auprès du
-service des impôts du lieu de la situation des immeubles.
+prévue à l'article 250 ou, dans les autres situations, à la justification de la
+prise en charge de la taxe sur la valeur ajoutée par les services des impôts
+compétents.

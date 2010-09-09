@@ -128,9 +128,9 @@ engins mentionnés au premier alinéa du 6° ;
 
 9° Pour les biens acquis ou construits ainsi que les services acquis dont la
 valeur d'achat, de construction ou de livraison à soi-même est prise en compte
-pour l'application des dispositions du 6° de l'article 257 du code général des
-impôts, du e du 1 ou du sixième alinéa du 2 de l'article 266 du code général des
-impôts ainsi que de l'article 297 A du code général des impôts ;
+pour l'application des dispositions du e du 1 ou du sixième alinéa du 2 de
+l'article 266 du code général des impôts ainsi que de l'article 297 A du code
+général des impôts ;
 
 10° Pour les prestations de services de toute nature, notamment la location,
 afférentes aux biens dont le coefficient d'admission est nul en application des
