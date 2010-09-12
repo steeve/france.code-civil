@@ -1936,7 +1936,7 @@ Veynes. (4)]
 
 Isère
 
-[Bourgoin-Jallieu (5)]
+[Bourgoin-Jallieu (19)]
 
 
 Bourgoin-Jallieu
@@ -1978,9 +1978,9 @@ Cantons de Clelles, Corps, La Mure, Mens, Monestier-de-Clermont et Valbonnais.
 Cantons de Pont-en-Royans, Rives, Roybon, Saint-Étienne-de-Saint-Geoirs,
 Saint-Marcellin, Tullins et Vinay. (3)]
 
-Vienne (*)
+[Vienne (19)]
 
-(*) Siège provisoire dans l'attente de la nouvelle localisation du TGI
+[Villefontaine (20)]
 
 
 Vienne
@@ -1989,11 +1989,17 @@ Cantons de Beaurepaire, Heyrieux, La Côte-Saint-André, La Verpillière,
 L'Isle-d'Abeau, Pont-de-Chéruy, Roussillon, Saint-Jean de-Bournay, Vienne-Nord
 et Vienne-Sud.
 
-[Bourgoin-Jallieu (6)]
+[Bourgoin-Jallieu]
 
 Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud, Crémieu, La Tour-du-Pin,
 Le Grand-Lemps, Le Pont-de-Beauvoisin, Morestel, Saint-Geoire-en-Valdaine et
 Virieu.
+
+[Vienne
+
+Cantons de Beaurepaire, Heyrieux, La Côte-Saint-André, La Verpillière,
+L'Isle-d'Abeau, Pont-de-Chéruy, Roussillon, Saint-Jean-de-Bournay, Vienne-Nord
+et Vienne-Sud.
 
 Cour d'appel de Limoges
 
@@ -2588,15 +2594,10 @@ Rambervillers et Xertigny. (11)]
 
 [Epinal
 
-Cantons de Bains-les-Bains, Bruyères, Bulgnéville,
-
-Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est,
-
-Épinal-Ouest, Lamarche, Le Thillot, Neufchâteau,
-
-Plombière-les-Bains, Rambervillers, Remiremont,
-
-Saulxures-sur-Moselotte et Xertigny. (12 et 3)]
+Cantons de Bains-les-Bains, Bruyères, Bulgnéville, Châtel-sur-Moselle,
+Châtenois, Coussey, Épinal-Est, Épinal-Ouest, Lamarche, Le Thillot, Neufchâteau,
+Plombière-les-Bains, Rambervillers, Remiremont, Saulxures-sur-Moselotte et
+Xertigny. (12 et 3)]
 
 [Mirecourt
 
@@ -4433,8 +4434,8 @@ Saint-Nicolas-de-la-Grave, Valence et Verdun-sur-Garonne. (2)]
 Montauban
 
 Cantons de Caussade, Caylus, Lafrançaise, Molières, Monclar-de-Quercy,
-Montauban, 1er canton, Montauban 2e canton, Montauban 3ème canton, Montauban
-4ème canton, Montauban 5e canton, Montauban 6e canton, Montpezat- de-Quercy,
+Montauban, 1er canton, Montauban 2e canton, Montauban 3ème canton, Montauban 4e
+canton, Montauban 5e canton, Montauban 6e canton, Montpezat- de-Quercy,
 Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier.
 
 Cour d'appel de Versailles
@@ -4747,5 +4748,10 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 
 (16) Applicable à compter du 1er juillet 2010.
 
-(17) Applicable jusqu'au 5 septembre 2010. (18) Applicable à compter du 6
-septembre 2010.
+(17) Applicable jusqu'au 5 septembre 2010.
+
+(18) Applicable à compter du 6 septembre 2010.
+
+(19) Applicable jusqu'au 30 juin 2014.
+
+(20) Applicable à compter du 1er juillet 2014.
