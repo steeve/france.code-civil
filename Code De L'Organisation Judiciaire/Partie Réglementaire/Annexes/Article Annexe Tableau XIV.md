@@ -494,17 +494,20 @@ Isère
 
 [Bourgoin-Jallieu
 
-Ressort du tribunal de grande instance de Bourgoin-Jallieu. (3)]
+Ressort du tribunal de grande instance de Bourgoin-Jallieu. (11)]
 
 
 Grenoble
 
 Ressort du tribunal de grande instance de Grenoble.
 
+(Vienne
 
-Vienne
+Ressort du tribunal de grande instance de Vienne.[11])
 
-Ressort du tribunal de grande instance de Vienne.
+(Villefontaine
+
+Ressort du tribunal de grande instance de Villefontaine. [12])
 
 Cour d'appel de Limoges
 
@@ -927,7 +930,7 @@ Ressort du tribunal de grande instance de Guingamp. (3)]
 
 [Saint-Brieuc
 
-Ressort des tribunaux de grande instance de Dinan et Saint-Brieuc. (3)]
+Ressort des tribunaux de grande instance de Dinan et de Saint-Brieuc. (3)]
 
 [Saint-Brieuc
 
@@ -990,13 +993,9 @@ Cour d'appel de Riom
 
 Allier
 
-[Moulins
+Moulins
 
-Ressort des tribunaux de grande instance de Cusset, Montluçon et Moulins. (3)]
-
-[Cusset
-
-Ressort des tribunaux de grande instance de Cusset et Montluçon. (4)]
+Ressort des tribunaux de grande instance de Cusset, Montluçon et Moulins.
 
 
 Cantal
@@ -1161,3 +1160,7 @@ Ressort du tribunal de première instance de Saint-Pierre.
 (5) Applicable jusqu'au 31 décembre 2010.
 
 (6) Applicable à compter du 1er janvier 2011.
+
+(11) Applicable jusqu'au 30 juin 2014.
+
+(12) Applicable à compter du 1er juillet 2014.
