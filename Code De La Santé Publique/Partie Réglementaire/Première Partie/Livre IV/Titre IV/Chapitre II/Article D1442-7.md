@@ -12,11 +12,11 @@ Saint-Martin comprend :
 
 a) Trois conseillers régionaux désignés par le conseil régional ;
 
-b) Le président du conseil territorial de Saint-Barthélemy ou son représentant ;
+b) Le président du conseil territorial de Saint-Barthélemy ;
 
-c) Le président du conseil territorial de Saint-Martin ou son représentant ;
+c) Le président du conseil territorial de Saint-Martin ;
 
-d) Le président du conseil général de Guadeloupe ou son représentant ;
+d) Le président du conseil général de Guadeloupe ;
 
 e) Trois représentants des groupements de communes du ressort territorial de la
 conférence de la santé et de l'autonomie désignés par l'assemblée des
@@ -49,7 +49,7 @@ mentionné au 6°, est ainsi modifié :
 a) Le b est remplacé par les dispositions suivantes :
 
 b) Deux représentants des services de santé au travail, désignés par le chef du
-service régional de l'Etat chargé du travail et de l'emploi ;”
+service régional de l'Etat chargé du travail et de l'emploi ; ”
 
 b) Il est complété par deux alinéas ainsi rédigés :
 

@@ -32,3 +32,13 @@ régionale de santé ;
 
 b) Deux représentants des usagers au sens de l'article L. 1114-1 désignés par le
 représentant de l'Etat dans le département.
+
+A Saint-Barthélemy, le collège des représentants des collectivités territoriales
+est composé de trois conseillers territoriaux, dont un est désigné au sein du
+collège correspondant du conseil de surveillance de l'établissement public de
+santé de Saint-Martin.
+
+A Saint-Martin, le collège des représentants des collectivités territoriales est
+composé de trois conseillers territoriaux, dont un est désigné au sein du
+collège correspondant du conseil de surveillance de l'établissement public de
+santé de Saint-Barthélemy.

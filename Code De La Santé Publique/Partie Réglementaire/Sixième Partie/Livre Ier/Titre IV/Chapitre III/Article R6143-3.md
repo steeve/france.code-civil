@@ -83,7 +83,12 @@ représentant qu'il désigne ;
 -un représentant du conseil régional de la région siège de l'établissement ;
 
 -deux autres membres représentant deux des collectivités territoriales
-mentionnées au présent e, désignées par le ministre chargé de la santé ;
+mentionnées au présent e, désignées par le ministre chargé de la santé.
+
+Dans les départements d'outre-mer, un autre représentant du conseil général du
+département siège de l'établissement principal est désigné en lieu et place du
+représentant du conseil général du principal département d'origine autre que le
+département siège de l'établissement principal.
 
 2° Au titre des représentants du personnel :
 

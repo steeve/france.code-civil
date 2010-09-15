@@ -1,6 +1,6 @@
 Article R1442-1
 ----
-Pour l'application des dispositions du titre III du livre IV à la Guadeloupe, à
+Pour l'application des dispositions du présent code à la Guadeloupe, à
 Saint-Barthélemy et à Saint-Martin :
 
 1° La référence au préfet de la région Guadeloupe et au représentant de l'Etat
@@ -30,4 +30,17 @@ médico-sociale et du programme pluriannuel régional de gestion du risque ;
 
 6° La mention de la politique de santé menée en Guadeloupe, à Saint-Barthélemy
 et à Saint-Martin se substitue à la mention de la politique de santé régionale
-ou de la politique de santé dans la région.
+ou de la politique de santé dans la région ;
+
+7° La référence au directeur général de l'agence régionale de santé est
+remplacée par la référence au directeur général de l'agence de santé de
+Guadeloupe, de Saint-Barthélemy et de Saint-Martin ;
+
+8° La référence à la commission régionale de gestion du risque est remplacée par
+la référence à la commission de gestion du risque de Guadeloupe, de
+Saint-Barthélemy et de Saint-Martin ;
+
+9° Les arrêtés du directeur de l'agence de santé de Guadeloupe, de
+Saint-Barthélemy et de Saint-Martin sont publiés au recueil des actes
+administratifs de la préfecture de région de Guadeloupe et au recueil des actes
+administratifs de la préfecture de Saint-Barthélemy et de Saint-Martin.

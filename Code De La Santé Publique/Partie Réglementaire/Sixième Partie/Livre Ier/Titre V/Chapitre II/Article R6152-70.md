@@ -1,7 +1,7 @@
 Article R6152-70
 ----
-Lorsque le praticien en fonctions dans un département d'outre-mer ou à
-Saint-Pierre-et-Miquelon demande à cumuler ses droits à congés de formation au
+Lorsque le praticien en fonctions dans un département d'outre-mer, à Mayotte ou
+à Saint-Pierre-et-Miquelon demande à cumuler ses droits à congés de formation au
 titre de deux années successives, le congé de formation donne lieu au
 remboursement des frais de déplacement du praticien sur la base du prix du
 voyage par avion en classe la plus économique, sous réserve de l'agrément du
