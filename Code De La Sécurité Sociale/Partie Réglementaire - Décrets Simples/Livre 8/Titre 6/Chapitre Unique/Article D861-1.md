@@ -1,6 +1,6 @@
 Article D861-1
 ----
-Le plafond annuel prévu à l'article L. 861-1 est fixé à 7 521, 11 € pour une
+Le plafond annuel prévu à l'article L. 861-1 est fixé à 7 611, 36 € pour une
 personne seule.
 
 Ce plafond est majoré de 11, 3 % pour les personnes résidant dans les
