@@ -9,11 +9,12 @@ gestion de portefeuille.
 L'Autorité de contrôle prudentiel en informe l'Autorité des marchés financiers
 dans un délai de cinq jours ouvrés.
 
-Lorsque le projet de modification concerne le service mentionné au 4° de
-l'article L. 321-1, l'Autorité des marchés financiers dispose de deux mois pour
-se prononcer sur cette modification. L'Autorité de contrôle prudentiel notifie
-sa décision au requérant dans un délai de deux mois à compter de la date de
-réception de la décision de l'Autorité des marchés financiers.
+Lorsque le projet de modification porte sur le programme d'activité et concerne
+les services mentionnés au 4 ou au 5 de l'article L. 321-1, l'Autorité des
+marchés financiers dispose de deux mois pour se prononcer sur cette
+modification. L'Autorité de contrôle prudentiel notifie sa décision au requérant
+dans un délai de deux mois à compter de la date de réception de la décision de
+l'Autorité des marchés financiers.
 
 Dans les autres cas, l'Autorité des marchés financiers transmet ses observations
 sous un délai d'un mois à l'Autorité de contrôle prudentiel qui dispose d'un
