@@ -23,9 +23,6 @@ l'application de mesures appropriées au-delà des limites transversales de la m
 dans tous les cas où ces mesures seraient nécessaires à une gestion équilibrée
 des poissons migrateurs ;
 
-6° De donner un avis sur les orientations en matière de protection et de gestion
-des milieux aquatiques du bassin telles qu'elles sont prévues par l'article L.
-433-1, en tant qu'elles se rapportent aux poissons migrateurs, ainsi que sur le
-schéma directeur d'aménagement et de gestion des eaux du bassin et sur les
-schémas d'aménagement et de gestion des eaux des groupements de sous-bassins ou
-des sous-bassins de sa circonscription.
+6° De donner un avis sur le schéma directeur d'aménagement et de gestion des
+eaux du bassin et sur les schémas d'aménagement et de gestion des eaux des
+groupements de sous-bassins ou des sous-bassins de sa circonscription.

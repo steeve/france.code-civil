@@ -11,4 +11,5 @@ d'eau ou les cours d'eau de haute montagne.
 
 III.-Les dispositions spécifiques à l'exercice de la pêche des poissons
 appartenant aux espèces vivant alternativement dans les eaux douces et dans les
-eaux salées sont énoncées aux articles R. 436-55 et R. 436-56.
+eaux salées sont énoncées aux articles R. 436-55 à R. 436-58 et R. 436-65-3 à R.
+436-65-5.

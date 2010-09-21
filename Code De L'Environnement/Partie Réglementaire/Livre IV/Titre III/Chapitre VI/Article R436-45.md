@@ -19,4 +19,11 @@ pêche ;
 adaptées en fonction des caractéristiques propres à la pêche professionnelle et
 à la pêche de loisir ;
 
-6° Les conditions dans lesquelles sont délivrés et tenus les carnets de pêche.
+6° Les conditions dans lesquelles sont délivrés et tenus les carnets de pêche,
+sous réserve des dispositions de l'article R. 436-64.
+
+Toutefois, en ce qui concerne l'anguille, le plan de gestion des poissons
+migrateurs contribue à l'exécution du plan national de gestion de l'anguille
+pris pour l'application du règlement (CE) n° 1100 / 2007 du Conseil du 18
+septembre 2007 instituant des mesures de reconstitution du stock d'anguilles
+européennes et des actes pris pour la mise en œuvre de ce plan.

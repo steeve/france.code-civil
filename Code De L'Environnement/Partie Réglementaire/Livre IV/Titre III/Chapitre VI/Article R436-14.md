@@ -11,7 +11,7 @@ douce ;
 lever du soleil jusqu'à deux heures après son coucher dans les eaux mentionnées
 à l'article L. 435-1 ;
 
-3° De l'anguille à toute heure ;
+3° (alinéa abrogé)
 
 4° Des aloses et des lamproies à toute heure dans les zones mentionnées à
 l'article L. 436-10 ;
