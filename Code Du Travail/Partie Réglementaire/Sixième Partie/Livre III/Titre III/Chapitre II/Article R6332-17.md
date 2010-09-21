@@ -8,6 +8,9 @@ contrôle du conseil d'administration paritaire, tout ou partie des décisions d
 gestion des organismes. Ces personnes morales, ainsi que celles mentionnées à
 l'article L. 6332-2, transmettent chaque année au conseil d'administration de
 l'organisme collecteur paritaire agréé avec lequel elles ont conclu une telle
-convention, un rapport retraçant, selon des modalités définies par ce conseil,
-l'exécution des missions qui leur ont été confiées. Cette transmission est faite
-avant le 30 avril.
+convention, ainsi qu'au ministre chargé de la formation professionnelle et au
+conseil d'administration du fonds paritaire de sécurisation des parcours
+professionnels, un rapport retraçant, selon des modalités définies par ce
+conseil, l'exécution des missions qui leur ont été confiées ainsi que les frais
+de gestion, d'information et de mission afférents à celles-ci. Cette
+transmission est faite avant le 30 avril.
