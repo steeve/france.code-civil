@@ -6,7 +6,7 @@ Au sens de la présente sous-section, on entend par :
 présentent à l'état naturel ou tels qu'ils sont produits par l'industrie, que ce
 soit sous forme solide, liquide ou gazeuse ;
 
-2° "Préparation" : un mélange ou une solution se composant de deux substances ou
+2° "Mélange " : un mélange ou une solution se composant de deux substances ou
 plus ;
 
 3° "Composé organique" : tout composé contenant au moins l'élément carbone et un
@@ -31,8 +31,8 @@ premières, des produits ou des déchets, ou utilisé comme agent de nettoyage p
 dissoudre des salissures ou comme dispersant, correcteur de viscosité,
 correcteur de tension superficielle, plastifiant ou agent protecteur ;
 
-7° "Revêtement" : toute préparation, y compris tous les solvants organiques ou
-préparations contenant des solvants organiques nécessaires pour une application
+7° "Revêtement" : tout mélange, y compris tous les solvants organiques ou
+mélanges contenant des solvants organiques nécessaires pour une application
 adéquate, utilisée pour obtenir un film ayant un effet décoratif, un effet
 protecteur ou tout autre effet fonctionnel sur une surface ;
 
