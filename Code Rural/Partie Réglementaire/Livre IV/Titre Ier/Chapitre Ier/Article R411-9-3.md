@@ -1,5 +1,5 @@
 Article R411-9-3
 ----
-L'indice du résultat brut d'exploitation départemental à l'hectare est évalué
-dans des conditions identiques à celles qui sont prévues à l'article R. 411-9-1,
-pour les exploitations dont le siège est situé dans le département.
+L'indice national des fermages de l'année correspond à la moyenne pondérée de
+l'indice du revenu brut d'entreprise agricole et de l'indice du prix du PIB, les
+pondérations respectives de ces indices étant de 60 % et de 40 %.
