@@ -1,10 +1,9 @@
 Article D4221-26
 ----
-Pour l'application de l'article L. 4221-16, la liste des pharmaciens inscrits
-dans la section E est établie à partir des informations contenues dans le
-répertoire mentionné à l'article D. 4113-118. Le contenu de cette liste est
-limité aux pharmaciens en exercice et, pour chacun d'eux, aux données suivantes
-:
+Pour l'application de l'article L. 4221-16, la liste des pharmaciens est établie
+à partir des informations contenues dans le répertoire mentionné à l'article D.
+4113-118. Le contenu de cette liste est limité aux pharmaciens en exercice et,
+pour chacun d'eux, aux données suivantes :
 
 1° L'identifiant personnel dans le répertoire mentionné à l'article D. 4113-118
 ;
