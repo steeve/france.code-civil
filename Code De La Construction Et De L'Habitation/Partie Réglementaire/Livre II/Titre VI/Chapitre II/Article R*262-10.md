@@ -3,12 +3,12 @@ Article R*262-10
 Le prix de l'existant est payé lors de la signature du contrat mentionné au
 premier alinéa de l'article L. 262-1.
 
-Les paiements relatifs au prix des travaux ne peuvent excéder :
+La somme des paiements relatifs au prix des travaux ne peut excéder :
 
-50 % une fois achevés les travaux représentant la moitié du prix total des
-travaux ;
+50 % à l'achèvement des travaux représentant la moitié du prix total des travaux
+;
 
-95 % une fois achevé l'ensemble des travaux.
+95 % à l'achèvement de l'ensemble des travaux.
 
 Le solde est payé à la livraison. Toutefois, il peut être consigné en cas de
 défaut de conformité ou de vices apparents mentionnés sur le procès-verbal de
