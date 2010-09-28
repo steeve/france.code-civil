@@ -1,11 +1,11 @@
 Article R6152-322
 ----
+Sont éligibles au titre du conseil de discipline les praticiens remplissant les
+conditions pour être inscrits sur la liste électorale de cette commission.
+
 Tous les électeurs sont éligibles sous réserve qu'aucune sanction disciplinaire
-ne figure à leur dossier et qu'ils ne soient pas en congé de longue durée.
+énoncée aux 4° et 5° des articles R. 6152-74 et R. 6152-249 ne figure à leur
+dossier et qu'ils ne soient ni en congé de longue durée, ni en congé parental.
 
-Les modalités d'organisation des opérations électorales sont déterminées par
-arrêté du ministre chargé de la santé.
-
-Les membres titulaires et les membres suppléants, autres que le directeur
-général de la santé et le directeur général de l'offre de soins , membres de
-droit, sont désignés pour cinq ans. Leur mandat est renouvelable.
+Les modalités d'organisation des élections sont déterminées par arrêté du
+ministre chargé de la santé.

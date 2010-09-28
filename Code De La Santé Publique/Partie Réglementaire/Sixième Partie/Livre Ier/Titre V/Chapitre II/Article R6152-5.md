@@ -1,16 +1,16 @@
 Article R6152-5
 ----
-Sur proposition des directeurs d'agence régionale de l'hospitalisation, le
-directeur général du Centre national de gestion des praticiens hospitaliers et
-des personnels de direction de la fonction publique hospitalière établit une
-liste de postes à recrutement prioritaire qui, d'une part, sont conformes aux
-objectifs définis par les schémas régionaux d'organisation sanitaire, d'autre
-part, présentent des difficultés particulières de recrutement et d'exercice.
+Sur proposition des directeurs généraux d'agence régionale de santé, le
+directeur général du Centre national de gestion établit une liste de postes à
+recrutement prioritaire qui, d'une part, sont conformes aux objectifs définis
+par les schémas régionaux d'organisation sanitaire, d'autre part, présentent des
+difficultés particulières de recrutement et d'exercice.
 
 Le praticien hospitalier, nommé ou en fonction sur l'un des postes mentionnés à
 l'alinéa précédent, s'engage par convention conclue avec le directeur de
 l'établissement de santé à exercer ses fonctions pendant cinq ans. Un praticien
-ne peut pas signer plus d'un engagement de servir au cours de sa carrière.
+ne peut pas signer plus d'un engagement de servir dans le même établissement au
+cours de sa carrière.
 
 Un arrêté des ministres chargés du budget et de la santé précise les modalités
 d'application de ces dispositions.

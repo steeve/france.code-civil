@@ -1,41 +1,40 @@
 Article R6152-237
 ----
 Les praticiens des hôpitaux à temps partiel en position d'activité dans un
-établissement public de santé peuvent, avec leur accord, et en demeurant dans
-cette position statutaire, être mis à disposition d'une administration de
-l'Etat, d'un établissement public de l'Etat, d'un syndicat interhospitalier ou
-d'un groupement de coopération sanitaire dont est membre leur établissement
-d'affectation, dès lors que ce syndicat ou ce groupement est autorisé à exercer
-les missions d'un établissement de santé ou à gérer une pharmacie à usage
-intérieur ou d'un groupement d'intérêt public entrant dans l'un des cas prévus
-aux articles L. 6115-2 et L. 6134-1.
+établissement public de santé peuvent, avec leur accord et en demeurant dans
+cette position statutaire, être mis à disposition soit d'un établissement
+mentionné à l'article R. 6152-201, d'une administration ou d'un établissement
+public de l'Etat, d'une collectivité territoriale ou d'un établissement public
+en dépendant, d'un syndicat interhospitalier dès lors que ce syndicat est
+autorisé à exercer les missions d'un établissement de santé ou à gérer une
+pharmacie à usage intérieur, d'un groupement d'intérêt public entrant dans l'un
+des cas prévus à l'article L. 6134-1 ou d'un groupement de coopération sanitaire
+ou groupement de coopération sociale et médico-sociale dont est membre leur
+établissement d'affectation.
 
-La mise à disposition est prononcée par arrêté du directeur général du Centre
-national de gestion des praticiens hospitaliers et des personnels de direction
-de la fonction publique hospitalière, après signature d'une convention passée
-entre l'établissement public de santé d'affectation et l'administration de
-l'Etat, l'établissement public de l'Etat, le syndicat interhospitalier, le
-groupement de coopération sanitaire ou le groupement d'intérêt public d'accueil
-après avis de la commission médicale d'établissement et du conseil
-d'administration de l'établissement d'affectation de l'intéressé.
+La mise à disposition est prononcée par le directeur de l'établissement public
+de santé d'affectation, après signature d'une convention passée entre
+l'établissement public de santé d'affectation et l'établissement ou l'organisme
+d'accueil. Une copie de la décision est adressée au Centre national de gestion
+et au directeur général de l'agence régionale de santé.
 
-Cette convention précise notamment la durée de la mise à disposition ainsi que
-les conditions d'emploi et de retour dans l'établissement public de santé
+Cette convention précise notamment la durée de la mise à disposition, sous
+réserve, en ce qui concerne la mise à disposition auprès d'un établissement
+public de santé, des dispositions du dernier alinéa du présent article, ainsi
+que les conditions d'emploi et de retour dans l'établissement public de santé
 d'origine.
 
-Elle prévoit le remboursement par l'administration de l'Etat, par
-l'établissement public de l'Etat, par le syndicat interhospitalier, par le
-groupement de coopération sanitaire ou par le groupement d'intérêt public
-d'accueil, de la rémunération du praticien intéressé et des charges y
-afférentes.
+Elle prévoit le remboursement de la rémunération du praticien intéressé et des
+charges y afférentes, par l'établissement ou l'organisme d'accueil.
 
-Elle peut toutefois prévoir l'exonération totale ou partielle, temporaire ou
-permanente, de ce remboursement sauf lorsque la mise à disposition intervient au
-bénéfice d'un syndicat interhospitalier ou d'un groupement de coopération
-sanitaire.
+Elle peut toutefois prévoir l'exonération, totale ou partielle, temporaire ou
+permanente, de ce remboursement, sauf lorsque la mise à disposition intervient
+au bénéfice d'un syndicat interhospitalier.
 
-La convention est conclue pour la durée de la mise à disposition. Elle peut être
+La convention de mise à disposition auprès d'un établissement mentionné à
+l'article R. 6152-201 est conclue pour une durée de six mois, renouvelable une
+fois pour la même durée. Au terme de la mise à disposition, le praticien doit
+reprendre son affectation initiale ou faire l'objet, dans le cadre d'une
+mutation, d'une nomination dans l'établissement de mise à disposition. Dans les
+autres cas de mise à disposition, la convention en fixe la durée. Elle peut être
 renouvelée.
-
-Le présent article est applicable dans le cas d'une mise à disposition auprès
-d'une collectivité territoriale ou d'un établissement public en dépendant.

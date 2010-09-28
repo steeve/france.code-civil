@@ -12,4 +12,5 @@ l'objet d'un arrêté des ministres chargés du budget et de la santé.
 
 Pour l'application des dispositions du présent article, les praticiens
 hospitaliers sont classés dans le groupe I prévu pour les fonctionnaires de
-l'Etat.
+l'Etat et le temps passé dans la situation de recherche d'affectation est pris
+en compte pour la détermination des durées de service exigées.

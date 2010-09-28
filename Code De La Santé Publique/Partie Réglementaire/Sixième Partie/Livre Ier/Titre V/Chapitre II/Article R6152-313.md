@@ -3,12 +3,10 @@ Article R6152-313
 Pour chaque affaire, le président du conseil de discipline choisit un rapporteur
 soit parmi les membres ou anciens membres de l'inspection générale des affaires
 sociales, docteurs en médecine n'appartenant pas au conseil de discipline, soit
-parmi les directeurs régionaux ou anciens directeurs régionaux des affaires
-sanitaires et sociales, docteurs en médecine, soit parmi les médecins ou
-pharmaciens inspecteurs régionaux de santé publique, exception faite du
-directeur régional des affaires sanitaires et sociales et du médecin ou du
-pharmacien inspecteur régional de santé publique de la région de l'établissement
-où exerce le praticien intéressé.
+parmi les inspecteurs des agences régionales de santé ayant la qualité de
+médecin et de pharmacien, exception faite des médecins ou des pharmaciens
+exerçant dans l'agence régionale de santé de la région de l'établissement où
+exerce le praticien intéressé.
 
 Si le praticien intéressé est odontologiste, le rapporteur est choisi par le
 président du conseil de discipline parmi les personnels titulaires enseignants

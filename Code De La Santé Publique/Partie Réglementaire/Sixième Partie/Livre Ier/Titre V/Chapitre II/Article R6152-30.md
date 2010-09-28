@@ -7,10 +7,11 @@ demi-journées par semaine à des activités intérieures ou extérieures à leu
 caractère d'intérêt général au titre des soins, de l'enseignement, de la
 recherche, d'actions de vigilance, de travail en réseau, de missions de conseil
 ou d'appui auprès d'administrations publiques, auprès d'établissements privés
-participant au service public hospitalier ou auprès d'organismes à but non
-lucratif présentant un caractère d'intérêt général et concourant aux soins ou à
-leur organisation. Cette activité peut donner lieu à rémunération. Une
-convention entre l'établissement de santé et les organismes concernés définit
-les conditions d'exercice et de rémunération de cette activité et prévoit, le
-cas échéant, le remboursement, total ou partiel, des émoluments versés par
-l'établissement de santé.
+assurant une ou plusieurs des missions définies à l'article L. 6112-1 dès lors
+que l'activité envisagée concerne l'une desdites missions ou auprès d'organismes
+à but non lucratif présentant un caractère d'intérêt général et concourant aux
+soins ou à leur organisation. Cette activité peut donner lieu à rémunération.
+Une convention entre l'établissement de santé et les organismes concernés
+définit les conditions d'exercice et de rémunération de cette activité et
+prévoit, le cas échéant, le remboursement, total ou partiel, des émoluments
+versés par l'établissement de santé.

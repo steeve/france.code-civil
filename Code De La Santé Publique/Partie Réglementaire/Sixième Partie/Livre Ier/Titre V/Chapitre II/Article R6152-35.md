@@ -5,20 +5,20 @@ Les praticiens régis par la présente section ont droit :
 1° A un congé annuel de vingt-cinq jours ouvrés ;
 
 2° A un congé au titre de la réduction du temps de travail dans les conditions
-définies à l'article R. 6152-701 ;
+définies à l'article R. 6152-801 ;
 
 3° A des jours de récupération des périodes de temps de travail additionnel, des
 astreintes et des déplacements lorsqu'ils n'ont pas fait l'objet d'une
 indemnisation.
 
-Pendant les congés et les jours de récupération mentionnés aux 1°, 2° et 3° ,
-les praticiens perçoivent la totalité des émoluments mentionnés au 1° de
-l'article R. 6152-23.
+Pendant les congés et les jours de récupération mentionnés aux 1°, 2° et 3°, les
+praticiens perçoivent la totalité des émoluments mentionnés au 1° de l'article
+R. 6152-23.
 
 Le directeur de l'établissement arrête le tableau des congés et jours de
-récupération prévus aux 1°, 2° et 3° ci-dessus après avis du chef de service ou
-du responsable de la structure et en informe la commission médicale
-d'établissement ;
+récupération prévus aux 1°, 2° et 3° ci-dessus après avis du chef de pôle ou, à
+défaut, du responsable du service, de l'unité fonctionnelle ou d'une autre
+structure interne et en informe la commission médicale d'établissement ;
 
 4° A des congés de maladie, longue maladie, longue durée dans des conditions
 fixées aux articles R. 6152-37 à R. 6152-39 ;
@@ -44,7 +44,4 @@ adopté ou confié en vue de son adoption ;
 
 d) Trois jours ouvrables en cas de décès ou de maladie très grave du conjoint,
 des père, mère et enfants du praticien ou d'une personne avec laquelle ce
-dernier est lié par un pacte civil de solidarité ;
-
-9° A un congé de fin d'exercice dans les conditions prévues à l'article R.
-6152-99.
+dernier est lié par un pacte civil de solidarité.

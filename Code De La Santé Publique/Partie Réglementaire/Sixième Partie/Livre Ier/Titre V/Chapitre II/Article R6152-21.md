@@ -27,5 +27,4 @@ L'avancement d'échelon s'effectue selon les durées suivantes :
 12e échelon : quatre ans.
 
 L'avancement d'échelon est prononcé par le directeur général du Centre national
-de gestion des praticiens hospitaliers et des personnels de direction de la
-fonction publique hospitalière.
+de gestion.

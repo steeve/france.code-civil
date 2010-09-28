@@ -1,15 +1,14 @@
 Article R6152-94
 ----
-Les praticiens hospitaliers en position d'activité ou en position de détachement
-au titre des 1°, 2°, 6° et 7° de l'article R. 6152-51 ci-dessus occupant un
-emploi à temps complet dont la limite d'âge est fixée à soixante-cinq ans, qui
-sont âgés de cinquante-sept ans au moins et qui justifient de trente-trois
-années de cotisations à un ou plusieurs régimes de base obligatoires d'assurance
+Les praticiens hospitaliers en position d'activité occupant un emploi à temps
+complet dont la limite d'âge est fixée à soixante-cinq ans, qui sont âgés de
+cinquante-sept ans au moins et qui justifient de trente-trois années de
+cotisations à un ou plusieurs régimes de base obligatoires d'assurance
 vieillesse et qui ont accompli vingt-cinq années de services militaires et de
 services civils effectifs en qualité de fonctionnaire ou d'agent public, peuvent
-être admis, sur leur demande et sous réserve des nécessités de service, en
-tenant compte notamment de la situation des effectifs, à bénéficier d'un régime
-de cessation progressive d'exercice.
+être admis par le directeur de l'établissement, sur leur demande et sous réserve
+des nécessités de service, en tenant compte notamment de la situation des
+effectifs, à bénéficier d'un régime de cessation progressive d'exercice.
 
 La durée des vingt-cinq années de services prévue à l'alinéa précédent est
 réduite, dans la limite de six années, du temps durant lequel les praticiens ont
@@ -32,10 +31,11 @@ pendant les deux premières années, puis 60 %.
 
 Les intéressés perçoivent alors pendant les deux premières années passées en
 cessation progressive d'exercice six septièmes de leurs émoluments hospitaliers
-mentionnés au 1° de l'article R. 6152-23 et, le cas échéant, des indemnités
-prévues aux 7° et 8° du même article. Ils perçoivent ensuite et jusqu'à leur
-sortie du dispositif 70 % des émoluments hospitaliers et des indemnités
-mentionnées au présent alinéa.
+mentionnés au 1° de l'article R. 6152-23 et, le cas échéant, des l'indemnité
+pour activité sur plusieurs établissements et l'indemnité d'engagement de
+service public exclusif. Ils perçoivent ensuite et jusqu'à leur sortie du
+dispositif 70 % des émoluments hospitaliers et des indemnités mentionnées au
+présent alinéa.
 
 2° Fixe avec une quotité de travail à 50 %.
 

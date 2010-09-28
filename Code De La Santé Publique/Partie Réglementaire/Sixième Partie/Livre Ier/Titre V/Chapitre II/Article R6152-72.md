@@ -5,8 +5,8 @@ charge au sens du livre V du code de la sécurité sociale ainsi que les frais d
 déménagement de leur mobilier, afférents à leur changement de résidence sont
 supportés, lors de leur installation et lors de leur retour après affectation
 sur le territoire métropolitain, par l'établissement du département d'outre-mer,
-de Mayotte ou de Saint-Pierre-et-Miquelon dans lequel les praticiens intéressés
-sont ou ont été affectés.
+de Saint-Barthélemy, de Saint-Martin , de Mayotte ou de Saint-Pierre-et-Miquelon
+dans lequel les praticiens intéressés sont ou ont été affectés.
 
 Pour l'application des dispositions de l'alinéa précédent, les praticiens sont
 classés dans le groupe I prévu pour les fonctionnaires de l'Etat.

@@ -7,7 +7,7 @@ médecins, les conditions de l'article R. 4127-98 et, pour les
 chirurgiens-dentistes, celles de l'article R. 4127-251.
 
 Les pharmaciens à temps partiel ne peuvent être titulaires d'une officine,
-exercer les fonctions de directeur ou de directeur adjoint d'un laboratoire
-d'analyse de biologie médicale ou remplir les fonctions de pharmacien
-responsable ou délégué d'un établissement pharmaceutique, ni assurer la gérance
-d'une officine de pharmacie mutualiste ou minière.
+exercer les fonctions de biologiste responsable d'un laboratoire de biologie
+médicale ou remplir les fonctions de pharmacien responsable ou délégué d'un
+établissement pharmaceutique, ni assurer la gérance d'une officine de pharmacie
+mutualiste ou minière.

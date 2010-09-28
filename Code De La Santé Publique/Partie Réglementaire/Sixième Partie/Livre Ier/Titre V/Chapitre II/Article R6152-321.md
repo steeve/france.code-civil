@@ -1,10 +1,6 @@
 Article R6152-321
 ----
-Sont électeurs :
-
-1° Les praticiens à temps plein régis par les dispositions de la section 1 du
-présent chapitre et ayant validé leur période probatoire dans les conditions
-fixées à l'article R. 6152-13, en activité ou en position de détachement ;
-
-2° Les praticiens hospitaliers régis par les dispositions de la section 2 du
-présent chapitre, en activité ou en position de détachement.
+Sont électeurs, par section, au titre de chaque conseil de discipline, pour le
+collège des praticiens hospitaliers à temps plein et des praticiens des hôpitaux
+à temps partiel, les praticiens nommés à titre permanent. Les électeurs doivent
+être en position d'activité ou de détachement.

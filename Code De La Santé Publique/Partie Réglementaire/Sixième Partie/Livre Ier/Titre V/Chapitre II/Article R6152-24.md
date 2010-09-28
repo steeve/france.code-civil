@@ -1,28 +1,8 @@
 Article R6152-24
 ----
-Sous réserve des dispositions des articles L. 6154-1 à L. 6154-6 et des
-dispositions réglementaires prises pour leur application, les praticiens ne
-peuvent recevoir aucun autre émolument au titre d'activités exercées tant à
-l'intérieur qu'à l'extérieur du ou des établissements d'affectation. Cette
-disposition ne s'applique pas :
-
-1° A la production d'oeuvres scientifiques, littéraires ou artistiques ;
-
-2° Aux activités présentant un caractère d'intérêt général exercées une ou deux
-demi-journées par semaine, conformément aux dispositions de l'article R. 6152-30
-;
-
-3° Aux activités d'enseignement et de recherche exercées en qualité d'enseignant
-associé à mi-temps ;
-
-4° Aux activités de formation mutuelle exercées par les psychiatres régis par le
-présent statut, en dehors de leurs obligations de service ;
-
-5° Aux expertises ou consultations que les praticiens hospitaliers peuvent être
-autorisés à effectuer ou à donner sur la demande, soit d'une autorité
-administrative ou judiciaire, soit de personnes ou d'organismes privés, dans des
-conditions fixées par arrêté des ministres chargés du budget, de la santé et de
-la sécurité sociale.
-
-6° Aux activités de chargé de mission d'inspection de pharmacie effectuées par
-les pharmaciens des hôpitaux.
+Sous réserve des dispositions de l'article L. 6154-4 et de l'article R. 6152-30
+ainsi que celles de l'article 9 du décret n° 91-966 du 20 septembre 1991 relatif
+aux personnels associés des centres hospitaliers et universitaires dans les
+disciplines médicales et odontologiques, les praticiens hospitaliers ne peuvent
+recevoir aucun autre émolument au titre d'activités exercées dans leur
+établissement d'affectation ou à l'extérieur de celui-ci.

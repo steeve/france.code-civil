@@ -26,4 +26,5 @@ L'avancement d'échelon s'effectue suivant les durées suivantes :
 
 12e échelon : quatre ans.
 
-L'avancement d'échelon est prononcé par le ministre chargé de la santé.
+L'avancement d'échelon est prononcé par le directeur général du Centre national
+de gestion.

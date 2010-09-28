@@ -12,8 +12,9 @@ dépasser quarante-huit heures.
 
 Le praticien peut accomplir, sur la base du volontariat au-delà de ses
 obligations de service hebdomadaires, un temps de travail additionnel donnant
-lieu soit à récupération, soit à indemnisation, dans les conditions prévues aux
-articles R. 6152-23 et R. 6152-26.
+lieu soit à récupération, soit au versement d'indemnités de participation à la
+continuité des soins et, le cas échéant, d'indemnités de temps de travail
+additionnel.
 
 Il bénéficie d'un repos quotidien d'une durée minimale de onze heures
 consécutives par période de vingt-quatre heures.

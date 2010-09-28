@@ -1,6 +1,6 @@
 Article R6152-318
 ----
-Chaque conseil de discipline comprend :
+Le conseil de discipline comprend :
 
 1° Un président et un président suppléant, conseillers d'Etat, nommés par le
 ministre chargé de la santé sur proposition du vice-président du Conseil d'Etat
@@ -10,45 +10,46 @@ ministre chargé de la santé sur proposition du vice-président du Conseil d'Et
 
 3° Le directeur général de l'offre de soins ou son représentant ;
 
-4° Un membre titulaire et un membre suppléant nommés par le ministre chargé de
+4° Un membre titulaire et un membre suppléant, nommés par le ministre chargé de
 la santé parmi les membres de l'inspection générale des affaires sociales, en
-activité ou honoraires, docteurs en médecine ou pharmaciens, sur proposition du
+activité ou honoraires, docteurs en médecine ou en pharmacie, sur proposition du
 chef de l'inspection générale des affaires sociales ;
 
-5° Un membre titulaire et un membre suppléant nommés par le ministre chargé de
-la santé parmi les médecins inspecteurs régionaux de la santé ;
+5° Un membre titulaire et un membre suppléant, nommés par le ministre chargé de
+la santé parmi les inspecteurs ayant la qualité de médecin ou de pharmacien
+exerçant au sein des agences régionales de santé ;
 
-6° Un membre titulaire et un membre suppléant, membre d'un conseil
-d'administration ou directeur d'un établissement public de santé, désignés par
-le ministre chargé de la santé sur une liste de six noms proposés par la
-Fédération hospitalière de France ;
+6° Un membre titulaire et un membre suppléant directeur d'un établissement
+public de santé, désignés par le ministre chargé de la santé sur une liste de
+six noms proposés par la Fédération hospitalière de France ;
 
-7° Un membre titulaire et un membre suppléant nommés par le ministre chargé de
+7° Un membre titulaire et un membre suppléant, nommés par le ministre chargé de
 la santé parmi les personnels enseignants et hospitaliers titulaires mentionnés
 au 1° de l'article 1er du décret n° 84-135 du 24 février 1984 portant statut des
 personnels enseignants et hospitaliers des centres hospitaliers et
-universitaires, pour chacune des disciplines énumérées au 8° et à l'article R.
-6152-319 ;
+universitaires, pour chacune des sections énumérées au 8° ;
 
-8° Six représentants élus des praticiens à temps plein ou à temps partiel
-relevant du statut au titre duquel siège le conseil de discipline, pour chacune
-des disciplines suivantes :
+8° Six représentants titulaires et suppléants, élus par le collège des
+praticiens à temps plein et des praticiens à temps partiel pour chacune des
+sections suivantes :
 
 a) Médecine et spécialités médicales ;
 
 b) Psychiatrie ;
 
-c) Chirurgie et spécialités chirurgicales et odontologie ;
+c) Chirurgie, spécialités chirurgicales et odontologie ;
 
 d) Radiologie ;
 
 e) Biologie ;
 
-f) Anesthésie-réanimation.
+f) Anesthésie-réanimation ;
 
-Pour chacune de ces disciplines, il est constitué deux collèges électoraux, l'un
-pour les praticiens hospitaliers à temps plein, l'autre pour les praticiens
-exerçant leur activité à temps partiel.
+g) Pharmacie.
 
-Chaque collège élit en son sein six membres titulaires et six membres
-suppléants.
+Pour chacune de ces sections, il est constitué un collège unique des praticiens
+hospitaliers à temps plein et des praticiens des hôpitaux à temps partiel.
+
+Les membres du conseil de discipline sont nommés par arrêté du ministre chargé
+de la santé publié sur le site internet du Centre national de gestion. L'arrêté
+fixe la date d'effet du mandat des membres élus de la commission.

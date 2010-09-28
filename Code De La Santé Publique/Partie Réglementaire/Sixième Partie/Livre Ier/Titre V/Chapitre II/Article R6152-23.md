@@ -1,6 +1,8 @@
 Article R6152-23
 ----
-Les praticiens perçoivent après service fait :
+Les praticiens perçoivent, après service fait, attesté par le tableau mensuel de
+service réalisé, validé par le chef de pôle ou, à défaut, par le responsable du
+service, de l'unité fonctionnelle ou d'une autre structure interne :
 
 1° Des émoluments mensuels variant selon l'échelon des intéressés. Ces
 émoluments sont fixés par arrêté des ministres chargés du budget, de la santé et

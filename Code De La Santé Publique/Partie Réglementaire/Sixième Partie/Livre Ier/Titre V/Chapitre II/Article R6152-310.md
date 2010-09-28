@@ -12,8 +12,8 @@ de discipline ;
 
 4° Le praticien qui fait l'objet de la procédure ;
 
-5° Le médecin inspecteur ou le pharmacien inspecteur de santé publique de la
-région où exerce le praticien concerné ;
+5° Les inspecteurs de l'agence régionale de santé ayant la qualité de médecin ou
+de pharmacien de la région où exerce le praticien concerné ;
 
 6° Toute personne exerçant ses fonctions ou investie d'un mandat dans
 l'établissement où exerce le praticien qui fait l'objet de la procédure.

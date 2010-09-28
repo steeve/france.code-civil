@@ -4,15 +4,16 @@ Les horaires et obligations de service des praticiens régis par la présente
 section sont précisés par le règlement intérieur de l'établissement.
 
 Afin d'assurer la continuité des soins, l'organisation du temps de présence
-médicale, pharmaceutique et odontologique établie en fonctions des
-caractéristiques propres aux différents services ou départements est arrêtée
-annuellement par le directeur d'établissement après avis de la commission
-médicale d'établissement. Un tableau de service nominatif, établi sur cette
-base, est arrêté mensuellement par le directeur d'établissement sur proposition
-du chef de service ou du responsable de la structure dont relève le praticien.
+médicale, pharmaceutique et odontologique établie en fonction des
+caractéristiques propres aux différentes structures est arrêtée annuellement par
+le directeur d'établissement après avis de la commission médicale
+d'établissement. Un tableau de service nominatif, établi sur cette base, est
+arrêté mensuellement par le directeur d'établissement sur proposition du chef de
+pôle ou, à défaut, du responsable du service, de l'unité fonctionnelle ou d'une
+autre structure interne dont relève le praticien.
 
-La décision de nomination fixe le nombre de demi-journées ou, lorsque le
-praticien exerce dans un service organisé en temps médical continu, la durée
+La décision d'affectation fixe le nombre de demi-journées ou, lorsque le
+praticien exerce dans une structure organisée en temps médical continu, la durée
 horaire hebdomadaire que le praticien doit consacrer au service en application
 du règlement intérieur. L'intéressé reçoit du directeur notification du
 règlement intérieur, notamment en ce qui le concerne. Il doit en accuser
@@ -22,12 +23,13 @@ périodes prévues au tableau de service.
 Le tableau de service précise les conditions dans lesquelles est effectuée la
 demi-journée de service qui peut être répartie entre la matinée et la
 contre-visite de l'après-midi, ou être effectuée l'après-midi et éventuellement
-la nuit au titre des services de garde.
+la nuit au titre des services de permanence.
 
 Le praticien peut accomplir, sur la base du volontariat, au-delà de ses
 obligations de service hebdomadaires, un temps de travail additionnel donnant
-lieu à récupération ou à indemnisation, dans les conditions prévues à l'article
-R. 6152-220 et au deuxième alinéa du présent article.
+lieu à récupération ou au versement d'indemnités de participation à la
+continuité des soins et, le cas échéant, d'indemnités de temps de travail
+additionnel et au deuxième alinéa du présent article.
 
 Le praticien bénéficie d'un repos quotidien d'une durée minimale de onze heures
 consécutives par période de vingt-quatre heures.

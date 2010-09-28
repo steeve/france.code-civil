@@ -6,7 +6,7 @@ Les praticiens régis par la présente section ont droit :
 ouvrés, au prorata des obligations de service hebdomadaires ;
 
 2° A un congé accordé au titre de la réduction du temps de travail, dans les
-conditions définies à l'article R. 6152-701 ;
+conditions définies à l'article R. 6152-801 ;
 
 3° A des jours de récupération des périodes de temps de travail additionnelles,
 des astreintes et des déplacements en astreinte, lorsqu'ils n'ont pas fait
@@ -17,8 +17,9 @@ ci-dessus, les praticiens perçoivent la totalité des émoluments mentionnés a
 de l'article R. 6152-220.
 
 Le directeur arrête le tableau des congés prévus aux 1°, 2° et 3° ci-dessus
-après avis du chef de service ou du responsable de la structure dont relève le
-praticien et en informe la commission médicale d'établissement ;
+après avis du chef de pôle ou, à défaut, du responsable du service, de l'unité
+fonctionnelle ou d'une autre structure interne dont relève le praticien et en
+informe la commission médicale d'établissement ;
 
 4° A des congés de maladie, longue maladie, longue durée dans les conditions
 fixées aux articles R. 6152-229 à R. 6152-233 ;
@@ -35,8 +36,8 @@ perçoit l'intégralité des émoluments prévus au 1° de l'article R. 6152-220
 8° A des autorisations spéciales d'absence dans les cas et dans les conditions
 prévus au 8° de l'article R. 6152-35 ;
 
-9° A un congé non rémunéré d'accompagnement d'une personne en fin de vie, dans
-les conditions fixées par l'article R. 6152-35-1 ;
+9° A un congé non rémunéré de solidarité familiale, dans les conditions fixées
+par l'article R. 6152-35-1 ;
 
 10° A un congé de présence parentale non rémunéré, dans les conditions fixées
 par l'article R. 6152-35-2.

@@ -2,10 +2,10 @@ Article R6152-69
 ----
 Nonobstant les dispositions du 1° de l'article R. 6152-35, les praticiens
 exerçant leurs fonctions dans un établissement de santé public situé dans un
-département d'outre-mer, à Mayotte ou à Saint-Pierre-et-Miquelon bénéficient,
-par période de trois ans de services ininterrompus dans l'établissement, d'un
-congé bonifié d'une durée de trente jours ouvrables, délais de route compris,
-pour se rendre en métropole.
+département d'outre-mer, à Saint-Barthélemy, à Saint-Martin, à Mayotte ou à
+Saint-Pierre-et-Miquelon bénéficient, par période de trois ans de services
+ininterrompus dans l'établissement, d'un congé bonifié d'une durée de trente
+jours ouvrables, délais de route compris, pour se rendre en métropole.
 
 Ce congé bonifié doit être pris en une seule fois à la suite du congé annuel de
 l'année au titre de laquelle il est accordé. Toute interruption du congé bonifié

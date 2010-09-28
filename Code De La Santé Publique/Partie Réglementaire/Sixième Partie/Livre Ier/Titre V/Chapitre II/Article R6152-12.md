@@ -2,9 +2,9 @@ Article R6152-12
 ----
 Le praticien doit rejoindre son poste dans le délai de deux mois à compter de la
 réception de la notification prévue au dernier alinéa de l'article R. 6152-8,
-sauf dérogation accordée par le directeur de l'agence régionale de
-l'hospitalisation sur proposition du directeur de l'établissement dans lequel il
-est nommé après avis du responsable du pôle d'affectation.
+sauf dérogation accordée par le directeur général du Centre national de gestion
+sur proposition du directeur de l'établissement dans lequel il est nommé après
+avis du chef du pôle d'affectation.
 
 Si l'intéressé ne rejoint pas son poste, sa nomination est rapportée après mise
 en demeure. Dans le cas d'une première nomination, il perd le bénéfice de son
@@ -13,5 +13,5 @@ une demande de mutation, l'intéressé est réputé avoir obtenu sa mutation.
 
 Le praticien doit établir sa résidence effective à proximité du lieu d'exercice
 de ses fonctions dans des conditions compatibles avec les responsabilités qu'il
-exerce dans le service public hospitalier, après validation du directeur de
-l'agence régionale de l'hospitalisation.
+exerce dans le service public hospitalier, après validation, le cas échéant, du
+directeur général de l'agence régionale de santé.

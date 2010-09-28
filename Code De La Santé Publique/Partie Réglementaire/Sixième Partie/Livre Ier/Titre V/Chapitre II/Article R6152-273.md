@@ -4,13 +4,13 @@ Lorsque le praticien n'opte pas pour l'exercice de fonctions à plein temps, ou
 si sa nomination en qualité de praticien hospitalier à plein temps n'est pas
 prononcée, l'intéressé est :
 
-- soit affecté par priorité à un emploi vacant de praticien à temps partiel de
-même discipline du même établissement ;
+1° Soit affecté sur un emploi vacant de praticien à temps partiel de même
+discipline du même établissement selon la procédure de mutation interne prévue
+au deuxième alinéa de l'article R. 6152-209 ;
 
-- soit muté dans un emploi vacant de praticien à temps partiel de même
-discipline d'un autre établissement, avec l'accord du conseil exécutif de cet
-établissement, et après avis de la commission médicale d'établissement, par
-dérogation aux dispositions du 1° de l'article R. 6152-206.
+2° Soit muté dans un emploi vacant de praticien à temps partiel de même
+discipline d'un autre établissement selon la procédure prévue à l'article R.
+6152-208.
 
 S'il ne peut être pourvu d'une nouvelle affectation, l'intéressé est, soit placé
 d'office dans la position de disponibilité, dans les conditions prévues à

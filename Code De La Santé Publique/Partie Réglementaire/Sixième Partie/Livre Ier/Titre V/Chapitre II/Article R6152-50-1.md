@@ -1,39 +1,31 @@
 Article R6152-50-1
 ----
-La position de recherche d'affectation est la position dans laquelle le
-praticien hospitalier titulaire en activité est placé, compte tenu des
-nécessités du service, auprès de l'établissement public national chargé de la
-gestion des personnels de direction de la fonction publique hospitalière et des
-praticiens hospitaliers, soit sur sa demande, soit d'office, en vue de permettre
-son adaptation ou sa reconversion professionnelle ou de favoriser la
-réorganisation ou la restructuration des structures hospitalières.
+La recherche d'affectation est la situation dans laquelle le praticien
+hospitalier titulaire en activité est placé, compte tenu des nécessités du
+service, auprès du Centre national de gestion, soit sur sa demande, soit
+d'office, en vue de permettre son adaptation ou sa reconversion professionnelle
+ou de favoriser la réorganisation ou la restructuration des structures
+hospitalières.
 
-Le placement d'un praticien hospitalier dans cette position est décidé, pour une
-durée maximale de deux ans, par le directeur général du Centre national de
-gestion des praticiens hospitaliers et des personnels de direction de la
-fonction publique hospitalière après avis motivé de la commission médicale
-d'établissement et du conseil exécutif de l'établissement public de santé dont
-il relève, ainsi que de la commission statutaire nationale.
+Lorsque la demande de placement en recherche d'affectation est présentée par le
+praticien, le directeur transmet celle-ci au directeur général du Centre
+national de gestion, accompagnée de son avis et de celui du président de la
+commission médicale de l'établissement.
 
-Dans cette situation, le praticien hospitalier est tenu d'effectuer toutes les
-actions et démarches, concertées avec lui et arrêtées par l'établissement public
-national, lui permettant soit de retrouver une affectation dans un établissement
-public de santé, soit d'accéder à un autre emploi des secteurs public ou privé.
-Il peut, notamment, à la demande de l'établissement public national ou avec son
-accord, exercer son activité dans un établissement public de santé autre que
-celui dans lequel il était précédemment nommé, dans le cadre d'une convention
-passée entre cet établissement et l'établissement public national. Il peut
-également bénéficier d'un bilan professionnel et suivre des actions de
-formation.
+Lorsque la demande de placement en recherche d'affectation est présentée en
+application de l'article L. 6143-7, le directeur de l'établissement adresse sa
+demande au directeur général du Centre national de gestion. Celle-ci est
+accompagnée de la proposition du chef de pôle ou, à défaut, du responsable du
+service, de l'unité fonctionnelle ou d'une autre structure interne ainsi que de
+l'avis du président de la commission médicale d'établissement.
 
-Il est rémunéré par l'établissement public national, qui exerce à son égard
-toutes les prérogatives de l'autorité investie du pouvoir de nomination.
+Lorsque la demande de placement en recherche d'affectation est présentée en
+application des dispositions de l'article L. 6131-5 par le directeur de
+l'établissement ou, en cas de carence, par le directeur général de l'agence
+régionale de santé, celui-ci saisit le directeur général du Centre national de
+gestion sans que les propositions et avis mentionnés au troisième alinéa soient
+requis.
 
-A l'issue de la période de recherche d'affectation, le praticien est réintégré
-dans les conditions fixées à l'article R. 6152-59.
-
-Le praticien hospitalier peut démissionner durant la période de recherche
-d'affectation, conformément aux dispositions de l'article R. 6152-97, sans qu'il
-puisse lui être imposé de poursuivre ses fonctions pendant une période de six
-mois au plus à compter de la date de notification de l'acceptation de sa
-démission.
+Le placement d'un praticien hospitalier en recherche d'affectation est décidé,
+pour une durée maximale de deux ans, par le directeur général du Centre national
+de gestion après avis de la commission statutaire nationale.

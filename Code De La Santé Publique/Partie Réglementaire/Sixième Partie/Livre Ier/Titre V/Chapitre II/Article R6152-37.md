@@ -20,8 +20,6 @@ défavorable, il est mis en disponibilité.
 
 Au cas où un praticien est atteint d'une affection ou d'une infirmité entraînant
 une incapacité professionnelle, le directeur général du Centre national de
-gestion des praticiens hospitaliers et des personnels de direction de la
-fonction publique hospitalière peut prononcer d'office la mise en disponibilité
-du praticien en cause sur proposition du médecin inspecteur régional de santé
-publique, après avis du comité médical et dans les conditions fixées aux
-articles R. 6152-62, R. 6152-63 et R. 6152-65.
+gestion peut prononcer d'office la mise en disponibilité du praticien en cause,
+après avis du comité médical et dans les conditions fixées aux articles R.
+6152-62, R. 6152-63 et R. 6152-65.

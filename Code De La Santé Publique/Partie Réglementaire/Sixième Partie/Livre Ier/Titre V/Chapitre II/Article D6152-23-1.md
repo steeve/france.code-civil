@@ -36,6 +36,13 @@ coopération mentionnées à l'article L. 6134-1 ;
 b) Une indemnité d'activité sectorielle et de liaison versée aux psychiatres des
 hôpitaux exclusive de l'indemnité prévue au 5° du présent article.
 
+Le versement des indemnités prévues au 4° est maintenu durant les congés et
+jours de récupération mentionnés aux 1°, 2°, 3° et 5° de l'article R. 6152-35.
+Pour les praticiens placés en congé de maladie au titre des articles R. 6152-37
+à R. 6152-39, le versement des indemnités prévues au 4° est maintenu pendant une
+période qui ne peut excéder trois mois. La durée de cette période est portée à
+six mois en cas de congé de maladie accordé au titre de l'article R. 6152-41.
+
 5° Une indemnité correspondant à une part complémentaire variable de la
 rémunération mentionnée au 1° de l'article R. 6152-23 et subordonnée au respect
 d'un engagement contractuel déterminant, dans le respect des dispositions des
@@ -53,6 +60,9 @@ indemnité est maintenu pendant une période qui ne peut excéder trois mois par
 contrat d'engagement de service public exclusif. La durée de cette période est
 portée à six mois en cas de congé de maladie accordé au titre de l'article R.
 6152-41.
+
+Les indemnités mentionnées au b du 4° et aux 5° et 6° du présent article ne
+peuvent être versées qu'aux praticiens nommés à titre permanent.
 
 Le montant, les conditions d'attribution et les modalités de versement des
 indemnités et allocations mentionnées au présent article font fixés par arrêté

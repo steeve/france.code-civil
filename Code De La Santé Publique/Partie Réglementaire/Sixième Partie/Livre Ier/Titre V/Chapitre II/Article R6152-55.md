@@ -1,12 +1,10 @@
 Article R6152-55
 ----
-Aucun praticien ne peut obtenir un détachement sur sa demande avant trois années
-de service dans son emploi.
+Dans les cas prévus aux 2°, 4°, 6° et 8° de l'article R. 6152-51, le praticien
+ne peut obtenir un détachement avant trois années de service dans son emploi.
 
-Cette condition n'est pas applicable aux cas des détachements prononcés en
-application des 1°, 3°, 5°, 6° et 7° de l'article R. 6152-51.
+Seuls les praticiens hospitaliers nommés à titre permanent peuvent bénéficier du
+détachement prévu aux 5° et 9° de l'article précité.
 
 La demande de détachement doit être présentée par le praticien au moins deux
-mois à l'avance. Elle n'est pas non plus applicable aux praticiens dont l'emploi
-a été transformé ou transféré dans le cadre d'une opération de restructuration
-ou de coopération mentionnée à l'article L. 6122-16.
+mois à l'avance.

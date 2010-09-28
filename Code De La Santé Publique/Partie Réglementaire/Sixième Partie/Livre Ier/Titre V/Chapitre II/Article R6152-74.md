@@ -18,17 +18,17 @@ totale ou partielle des émoluments ;
 6° La révocation.
 
 L'avertissement et le blâme sont prononcés par le directeur général du Centre
-national de gestion des praticiens hospitaliers et des personnels de direction
-de la fonction publique hospitalière, après avis du préfet, du conseil
-d'administration et de la commission médicale d'établissement de l'établissement
-où exerce le praticien, ou d'une commission restreinte désignée par cette
-dernière à cet effet, et après communication de son dossier à l'intéressé. Ces
-décisions sont motivées.
+national de gestion, après avis du directeur général de l'agence régionale de
+santé, du directeur de l'établissement, de la commission médicale
+d'établissement siégeant en formation restreinte aux praticiens titulaires, et
+après communication de son dossier à l'intéressé. Ces décisions sont motivées.
+
+L'avis de la commission médicale d'établissement est rendu dans un délai de deux
+mois à compter de la date de sa convocation. A défaut, l'avis motivé du
+président de la commission médicale d'établissement est alors seul requis.
 
 Les autres sanctions sont prononcées par décision motivée du directeur général
-du Centre national de gestion des praticiens hospitaliers et des personnels de
-direction de la fonction publique hospitalière après avis du conseil de
-discipline.
+du Centre national de gestion après avis du conseil de discipline.
 
 La composition et les modalités de fonctionnement du conseil de discipline sont
 fixées par la sous-section 2 de la section 3 du présent chapitre.
