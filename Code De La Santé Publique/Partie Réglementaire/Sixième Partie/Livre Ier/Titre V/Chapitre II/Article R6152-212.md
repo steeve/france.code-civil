@@ -16,5 +16,11 @@ partie à l'accord sur l'Espace économique européen, sous réserve qu'ils
 justifient avoir accompli celles-ci en détenant les titres, diplômes ou
 autorisations exigés en France pour l'exercice de leur profession.
 
-4° De la durée des services effectués par les praticiens visés au 3° de
+4° De la durée des services effectués par les praticiens visés au 4° de
 l'article L. 6152-1.
+
+Pour l'application de ces dispositions, la durée de la formation requise pour
+l'obtention du diplôme de médecin, pharmacien ou odontologiste ou du diplôme de
+spécialité médicale, quels que soient le statut du praticien durant la formation
+et la durée de cette dernière dans le pays d'obtention du diplôme de spécialité,
+n'est pas prise en compte.
