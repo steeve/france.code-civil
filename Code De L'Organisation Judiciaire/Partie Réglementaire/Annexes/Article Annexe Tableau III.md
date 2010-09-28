@@ -31,6 +31,11 @@ Marseille
 Aubagne.
 
 
+Tarascon
+
+Arles
+
+
 Var
 
 Toulon
