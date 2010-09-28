@@ -2,7 +2,7 @@ Article R6152-415
 ----
 Le contrat précise :
 
-1° Les titres, diplômes ou qualifications du praticien concerné ;
+1° Les titres de formation et qualifications professionnelles ;
 
 2° Celles des dispositions de l'article R. 6152-402 au titre desquelles le
 recrutement est effectué ;
@@ -24,8 +24,9 @@ pour un contrat d'une durée égale ou supérieure à six mois ;
 6° L'indication du régime de protection sociale (régime général de la sécurité
 sociale et régime complémentaire de retraite de l'Ircantec) ;
 
-7° La rémunération fixée en fonction des conditions de recrutement prévues à
-l'article R. 6152-402 et des prescriptions de l'article R. 6152-417.
+7° La rémunération fixée en fonction des conditions de recrutement prévues aux
+articles R. 6152-402 et R. 6152-403 et des prescriptions de l'article R.
+6152-416 ainsi que les indemnités qui peuvent s'y ajouter.
 
 Le renouvellement de l'engagement peut être prononcé sous forme d'avenant au
 contrat initial, lorsque le motif du recrutement est inchangé.

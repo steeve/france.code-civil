@@ -37,12 +37,15 @@ développement de la mise en réseau des établissements mentionnés à l'articl
 du titre IV du statut général de la fonction publique et les actions de
 coopération mentionnées à l'article L. 6134-1. Un arrêté des ministres chargés
 du budget, de la santé et de la sécurité sociale détermine les conditions
-d'attribution et le montant de cette indemnité ;
+d'attribution et le montant de cette indemnité. Le versement de cette indemnité
+est maintenu durant les congés et jours de récupération mentionnés à l'article
+R. 6152-613 ainsi qu'à l'article R. 6152-616 pour les praticiens mentionnés au
+deuxième alinéa de cet article. Pour les praticiens attachés placés en congé de
+maladie au titre des articles R. 6152-615, R. 6152-619 et R. 6152-620, le
+versement de cette indemnité est maintenu pendant une période qui ne peut
+excéder trois mois. La durée de cette période peut être portée à six mois en cas
+de congé de maladie accordé au titre de l'article R. 6152-618 ;
 
-7° Des frais de déplacements peuvent être alloués aux praticiens attachés à
-l'occasion des déplacements temporaires effectués pour les besoins du service,
-conformément aux dispositions applicables aux fonctionnaires de l'Etat, sous
-réserve des adaptations rendues nécessaires par les conditions particulières
-d'exercice de leurs fonctions. Un arrêté des ministres chargés du budget, de la
-santé et de la sécurité sociale fixe les modalités selon lesquelles ces frais de
-déplacement sont remboursés.
+7° L'indemnisation des déplacements temporaires accomplis pour les besoins du
+service dans les conditions prévues à l'article R. 6152-32 à l'exclusion des
+frais de changement de résidence.

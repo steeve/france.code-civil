@@ -7,15 +7,16 @@ ouvrés, au prorata des obligations de service hebdomadaires ;
 
 2° A un congé au titre de la réduction du temps de travail, dont la durée est
 définie au prorata des obligations de service hebdomadaires dans les conditions
-définies à l'article R. 6152-701 ;
+définies à l'article R. 6152-801 ;
 
 3° A des jours de récupération des périodes de temps de travail additionnelles,
 des astreintes et des déplacements en astreinte, lorsqu'ils n'ont pas fait
 l'objet d'une indemnisation.
 
 Le directeur arrête le tableau des congés et des jours de récupération
-mentionnés aux 1°, 2° et 3° après avis du responsable de la structure et en
-informe la commission médicale d'établissement.
+mentionnés aux 1°, 2° et 3° après avis du chef de pôle ou, à défaut, du
+responsable du service, de l'unité fonctionnelle ou de toute autre structure
+interne et en informe le président de la commission médicale d'établissement.
 
 Durant ces congés et jours de récupération, les intéressés continuent à
 percevoir les émoluments correspondant à leurs obligations de service.

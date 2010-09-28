@@ -1,5 +1,6 @@
 Article R6152-633
 ----
-Les articles R. 6152-601, à l'exception du second alinéa, R. 6152-603 à R.
-6152-630 sont applicables aux praticiens attachés associés, à l'exception du 4°
-de l'article R. 6152-612.
+Les articles R. 6152-601, à l'exception du second alinéa, R. 6152-602, à
+l'exception des 1° et 2°, R. 6152-603 à R. 6152-611, R. 6152-612, à l'exception
+des 4° et 5°, et R. 6152-613 à R. 6152-630 sont applicables aux praticiens
+attachés associés.

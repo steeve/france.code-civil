@@ -1,10 +1,6 @@
 Article R6152-609
 ----
 Les praticiens attachés sont recrutés par le directeur de l'établissement sur
-proposition du responsable de la structure prévue pour leur affectation.
-
-Les candidats ne peuvent être recrutés qu'après avoir justifié par un certificat
-médical établi par un médecin agréé qu'ils remplissent les conditions d'aptitude
-physique pour l'exercice des fonctions hospitalières auxquelles ils postulent et
-qu'ils sont notamment indemnes d'affections tuberculeuse, mentale ou nerveuse ou
-qu'ils en sont définitivement guéris.
+proposition du chef de pôle ou, à défaut, du responsable du service, de l'unité
+fonctionnelle ou de toute autre structure interne d'affectation après avis du
+président de la commission médicale d'établissement.

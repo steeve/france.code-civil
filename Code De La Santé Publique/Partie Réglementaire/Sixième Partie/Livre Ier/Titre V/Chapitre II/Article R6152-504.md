@@ -3,16 +3,18 @@ Article R6152-504
 Les assistants généralistes et les assistants spécialistes des hôpitaux exercent
 à temps plein ou à temps partiel des fonctions de diagnostic, de soins et de
 prévention ou assurent des actes pharmaceutiques ou biologiques au sein de
-l'établissement, sous l'autorité du praticien hospitalier exerçant les fonctions
-de chef de service ou de responsable de la structure dont ils relèvent.
+l'établissement, sous l'autorité du chef de pôle ou, à défaut, du responsable du
+service, de l'unité fonctionnelle ou de toute autre structure interne dont ils
+relèvent dont ils relèvent.
 
 Afin d'assurer la continuité des soins, l'organisation du temps de présence
-médicale, pharmaceutique et odontologique, établie en fonction des
-caractéristiques propres aux différents services ou départements, est arrêtée
-annuellement par le directeur de l'établissement après avis de la commission
-médicale d'établissement. Un tableau de service nominatif, établi sur cette
-base, est arrêté mensuellement par le directeur sur proposition du chef de
-service ou du responsable de la structure dont relève l'assistant.
+médicale, odontologique et pharmaceutique, établie en fonction des
+caractéristiques propres aux différentes structures, est arrêtée annuellement
+par le directeur de l'établissement après avis de la commission médicale
+d'établissement. Un tableau de service nominatif, établi sur cette base, est
+arrêté mensuellement par le directeur sur proposition du chef de pôle ou, à
+défaut, du responsable du service, de l'unité fonctionnelle ou de toute autre
+structure interne dont relève l'assistant.
 
 Le service hebdomadaire des assistants exerçant à temps plein est fixé à dix
 demi-journées hebdomadaires, sans que la durée de travail puisse excéder

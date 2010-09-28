@@ -14,12 +14,7 @@ prévues par leurs statuts. Le contrat peut être conclu pour une période maxim
 de six mois renouvelable dans la limite d'une durée totale d'engagement d'un an
 ;
 
-3° Pour occuper, en cas de nécessité de service et lorsqu'il s'avère impossible
-d'opérer un tel recrutement en application des dispositions statutaires en
-vigueur, un poste d'interne ou de résident non pourvu à l'issue de chaque
-procédure d'affectation. Le contrat peut être conclu pour une période maximale
-de six mois renouvelable dans la limite d'une durée totale d'engagement d'un an
-;
+3° (Supprimé) ;
 
 4° Pour occuper, en cas de nécessité de service et lorsqu'il s'avère impossible
 d'opérer un tel recrutement en application des dispositions statutaires en
@@ -31,11 +26,8 @@ durée totale d'engagement de deux ans ;
 5° Pour exercer des fonctions temporaires liées à des activités nouvelles ou en
 voie d'évolution nécessitant des connaissances hautement spécialisées. Le
 contrat peut être conclu par périodes maximales de six mois renouvelables dans
-la limite d'une durée totale d'engagement de deux ans, sous réserve d'emploi
-budgétaire disponible ;
+la limite d'une durée totale d'engagement de deux ans.
 
-6° Pour assurer certaines missions spécifiques, temporaires ou non, nécessitant
-une technicité et une responsabilité particulières et dont la liste est définie
-par arrêté des ministres chargés du budget et de la santé. Le contrat peut être
-conclu pour une période de trois ans ou moins, renouvelable par reconduction
-expresse, sous réserve d'emploi budgétaire disponible.
+Un même praticien ne peut bénéficier, au sein du même établissement, de
+recrutements successifs en qualité de praticien contractuel au titre d'un ou de
+plusieurs des alinéas ci-dessus que pour une durée maximale de trois ans.

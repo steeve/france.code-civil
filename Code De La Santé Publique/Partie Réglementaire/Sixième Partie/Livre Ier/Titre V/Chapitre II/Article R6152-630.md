@@ -1,7 +1,8 @@
 Article R6152-630
 ----
-En cas de démission d'un praticien attaché bénéficiant d'un contrat triennal, la
-demande est assortie d'un préavis de trois mois.
+En cas de démission d'un praticien attaché bénéficiant d'un contrat triennal ou
+d'un contrat à durée indéterminée, la demande est assortie d'un préavis de trois
+mois.
 
 Si la démission intervient au cours d'un des contrats mentionnés au deuxième
 alinéa de l'article R. 6152-610, le préavis est d'un mois pour les contrats

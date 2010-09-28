@@ -34,14 +34,21 @@ est fixé par arrêté des ministres mentionnés au 1° ;
 
 6° Une indemnité pour activités dans plusieurs établissements. Un arrêté des
 ministres chargés du budget, de la santé et de la sécurité sociale détermine les
-conditions d'attribution et le montant de cette indemnité.
+conditions d'attribution et le montant de cette indemnité. Le versement de cette
+indemnité est maintenu durant les congés et jours de récupération mentionnés à
+l'article R. 6152-519 ainsi qu'à l'article R. 6152-520. Pour les assistants
+placés en congé de maladie au titre des articles R. 6152-521 à R. 6152-523, le
+versement de cette indemnité est maintenu pendant une période qui ne peut
+excéder trois mois. La durée de cette période peut être portée à six mois en cas
+de congé de maladie accordé au titre de l'article R. 6152-524 ;
 
-Sous réserve des dispositions des articles R. 6152-506 et R. 6152-517, les
-assistants exerçant à temps plein ne peuvent percevoir aucun autre émolument au
-titre d'activités exercées tant à l'intérieur qu'à l'extérieur de
-l'établissement d'affectation. Cette disposition ne s'applique pas à la
-production d'oeuvres scientifiques, littéraires ou artistiques.
+7° Le remboursement des frais de déplacements à l'occasion des déplacements
+temporaires effectués pour les besoins du service dans les conditions prévues à
+l'article R. 6152-32 à l'exclusion des frais de changement de résidence.
 
-Les assistants exerçant leur activité à temps partiel peuvent exercer une
-activité rémunérée en dehors de leurs obligations statutaires fixées par
-l'article R. 6152-504. Ils en informent le directeur de leur établissement.
+Sous réserve des dispositions des articles R. 6152-506, R. 6152-517, de
+l'article 25 de la loi n° 83-634 du 13 juillet 1983 portant droits et
+obligations des fonctionnaires et des dispositions réglementaires prises pour
+son application, les assistants exerçant à temps plein ne peuvent percevoir
+aucun autre émolument au titre d'activités exercées tant à l'intérieur qu'à
+l'extérieur de l'établissement d'affectation.

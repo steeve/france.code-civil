@@ -6,15 +6,18 @@ excéder quarante-huit heures par semaine, cette durée étant calculée en moye
 sur une période de quatre mois. Lorsqu'il est effectué la nuit, il est compté
 pour deux demi-journées.
 
+Le service hebdomadaire des praticiens contractuels à temps partiel correspond à
+une quotité comprise entre quatre et neuf demi-journées hebdomadaires.
+
 Lorsque l'activité médicale est organisée en temps continu, l'obligation de
-service hebdomadaire des praticiens est, par dérogation à l'alinéa ci-dessus,
-calculée en heures, en moyenne sur une période de quatre mois, et ne peut
-dépasser quarante-huit heures.
+service hebdomadaire des praticiens est, par dérogation aux deux alinéas
+ci-dessus, calculée en heures, en moyenne sur une période de quatre mois, et ne
+peut dépasser quarante-huit heures, au prorata de la durée des obligations de
+service hebdomadaires du praticien.
 
 Les praticiens peuvent accomplir, sur la base du volontariat au-delà de leurs
 obligations de service hebdomadaires, un temps de travail additionnel donnant
-lieu soit à récupération, soit à indemnisation, dans les conditions prévues à
-l'article R. 6152-417.
+lieu soit à récupération, soit à indemnisation.
 
 Les praticiens contractuels bénéficient d'un repos quotidien d'une durée
 minimale de onze heures consécutives par période de vingt-quatre heures.

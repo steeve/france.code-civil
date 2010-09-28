@@ -7,7 +7,7 @@ sociale.
 Après un an de fonctions ou immédiatement s'ils sont anciens chefs de clinique
 des universités-assistants des hôpitaux, anciens assistants hospitaliers
 universitaires, anciens assistants des universités-assistants des hôpitaux,
-assistants des services de consultation et de traitement dentaires, anciens
+assistants des structures de consultation et de traitement dentaires, anciens
 assistants spécialistes ou généralistes des hôpitaux, anciens praticiens
 adjoints contractuels, les praticiens attachés qui réalisent au moins trois
 demi-journées hebdomadaires perçoivent la totalité des émoluments correspondant

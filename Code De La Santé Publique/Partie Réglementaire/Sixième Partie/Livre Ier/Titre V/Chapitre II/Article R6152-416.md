@@ -17,8 +17,8 @@ spécialistes en première et deuxième années proportionnellement à la durée
 travail défini au contrat. Ces émoluments ne peuvent être supérieurs à ceux
 applicables aux assistants spécialistes en 3e et 4e années ;
 
-3° Les praticiens contractuels recrutés en application du 6° de l'article R.
-6152-402 sont rémunérés, sur la base des émoluments applicables aux praticiens
+3° Les praticiens contractuels recrutés en application de l'article R. 6152-403
+sont rémunérés, sur la base des émoluments applicables aux praticiens
 hospitaliers ou pour les praticiens à temps partiel, proportionnellement à la
 durée du travail définie au contrat, dans les conditions définies par l'arrêté
-interministériel prévu au 6° de l'article R. 6152-402.
+interministériel prévu à l'article R. 6152-403.

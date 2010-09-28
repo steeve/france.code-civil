@@ -20,16 +20,17 @@ avenant précise la durée et la nature des modifications apportées au contrat
 initial.
 
 A l'issue de cette période de vingt-quatre mois, le renouvellement s'effectue
-par un contrat de trois ans renouvelable de droit, par tacite reconduction.
+par un contrat de trois ans, renouvelable de droit, par décision expresse. A
+l'issue du contrat triennal, le renouvellement s'effectue par un contrat à durée
+indéterminée.
 
-Une modification de la quotité de travail, de la structure ou du lieu
-d'affectation peut être proposée, après avis de la commission médicale
-d'établissement ou, le cas échéant, du comité consultatif médical, à un
-praticien attaché ou praticien attaché associé qui bénéficie d'un contrat
-triennal. La proposition de modification est motivée par le directeur. A compter
-de la proposition de modification, l'intéressé dispose d'un mois pour la
-refuser. En cas de refus, le directeur propose prioritairement à ce praticien
-une nouvelle affectation dans la limite des demi-journées de praticiens attachés
-autorisées conformément aux dispositions de l'article R. 6152-603 et non
-pourvues. A défaut, il est fait application des dispositions prévues au 2° de
-l'article R. 6152-629.
+Lorsque la situation de l'activité dans la structure le justifie, une
+modification de la quotité de travail, de la structure ou du lieu d'affectation
+peut être proposée par le directeur d'établissement, après avis du président de
+la commission médicale d'établissement ou, le cas échéant, de la commission
+médicale locale d'établissement, à un praticien attaché ou praticien attaché
+associé qui bénéficie d'un contrat triennal ou d'un contrat à durée
+indéterminée. A compter de la proposition de modification, l'intéressé dispose
+d'un mois pour la refuser. En cas de refus, le directeur propose prioritairement
+à ce praticien une nouvelle affectation. A défaut, il est fait application des
+dispositions prévues au deuxième alinéa de l'article R. 6152-629.

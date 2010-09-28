@@ -1,11 +1,11 @@
 Article R6152-517
 ----
 Pendant leur première année de fonctions, les assistants peuvent, sur leur
-demande et sous réserve de l'avis favorable du praticien hospitalier exerçant
-les fonctions de chef de service ou de responsable de la structure, être mis en
-congé sans rémunération dans la limite de trente jours par an, en vue d'assurer
-des remplacements de praticiens exerçant soit dans les établissements publics de
-santé ou privés, soit en clientèle de ville.
+demande et sous réserve de l'avis favorable du praticien exerçant les fonctions
+de chef du pôle ou, à défaut, de responsable de la structure interne
+d'affectation, être mis en congé sans rémunération dans la limite de trente
+jours par an, en vue d'assurer des remplacements de praticiens exerçant soit
+dans les établissements publics de santé ou privés, soit en clientèle de ville.
 
 A partir de la deuxième année de fonctions, les assistants peuvent, sur leur
 demande et sous réserve de l'avis mentionné à l'alinéa précédent, être mis en

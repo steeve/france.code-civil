@@ -3,29 +3,47 @@ Article R6152-405
 Pour pouvoir être recruté en qualité de praticien contractuel, le postulant doit
 :
 
-1° Remplir les conditions légales d'exercice de la profession de médecin, de
-pharmacien ou de chirurgien-dentiste en France ;
+1° Remplir les conditions légales d'exercice de la profession de médecin,
+chirurgien-dentiste ou pharmacien en France et :
 
-2° S'il postule en tant que praticien spécialiste, être inscrit au tableau de
-l'ordre dont il relève en qualité de praticien qualifié dans la spécialité
-correspondante ;
+a) Soit remplir les conditions prévues par les articles L. 4111-1 ou L. 4221-1 ;
 
-3° Justifier, par un certificat délivré par un médecin agréé inscrit sur la
-liste d'aptitude établie en application de l'article 1er du décret n° 86-442 du
-14 mars 1986 relatif à la désignation de médecins agréés, à l'organisation des
-comités médicaux et des commissions de réforme, aux conditions d'aptitude
-physique pour l'admission aux emplois publics et au régime de congés de maladie
-des fonctionnaires, qu'il remplit les conditions d'aptitude physique et mentale
-nécessaires à l'exercice des fonctions hospitalières concernées ;
+b) Soit être autorisé à exercer la profession de médecin, chirurgien-dentiste ou
+pharmacien, en application des articles L. 4111-2, L. 4131-1-1, L. 4141-3-1, L.
+4221-12, L. 4221-14-1, L. 4221-14-2, L. 6213-3, de la première phrase du 1° de
+l'article L. 6213-2 ou de l'article 60 de la loi n° 99-641 du 27 juillet 1999
+portant création d'une couverture maladie universelle ;
 
-4° N'avoir fait l'objet l'objet ni d'une privation des droits civiques ni d'une
-interdiction d'exercice de la profession ;
+2° Justifier d'une inscription au tableau de l'ordre dont il relève, le cas
+échéant en qualité de praticien qualifié dans la spécialité correspondante, si
+le candidat postule en tant que praticien spécialiste ;
 
-5° Etre en position régulière au regard de la réglementation du service national
-;
+3° Jouir de ses droits civiques dans l'Etat dont il est ressortissant ;
 
-6° Pour les étrangers autres que les ressortissants communautaires, être en
+4° Ne pas avoir subi une condamnation incompatible avec l'exercice des
+fonctions.
+
+L'absence de condamnation est attestée par :
+
+a) Pour les ressortissants français, un extrait du bulletin n° 2 du casier
+judiciaire datant de moins de trois mois ;
+
+b) Pour les ressortissants d'un Etat étranger, un extrait de casier judiciaire
+ou un document équivalent datant de moins de trois mois, délivré par une
+autorité compétente de l'Etat d'origine ou de provenance ; cette pièce peut être
+remplacée, pour les ressortissants des Etats membres de l'Union européenne ou
+parties à l'accord sur l'Espace économique européen qui exigent une preuve de
+moralité ou d'honorabilité pour l'accès à l'activité de médecin,
+chirurgien-dentiste ou pharmacien, par une attestation datant de moins de trois
+mois de l'autorité compétente de l'Etat d'origine ou de provenance certifiant
+que ces conditions de moralité ou d'honorabilité sont remplies ;
+
+5° Etre en position régulière au regard des obligations du service national de
+l'Etat dont il est ressortissant ;
+
+6° Remplir les conditions d'aptitude exigées pour l'exercice de sa fonction
+compte tenu des possibilités de compensation du handicap ;
+
+7° Pour les étrangers autres que les ressortissants communautaires, être en
 situation régulière au regard de la réglementation relative aux conditions de
-séjour et de travail ;
-
-7° Etre âgé de moins de 65 ans.
+séjour et de travail.

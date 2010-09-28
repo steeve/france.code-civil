@@ -15,13 +15,16 @@ excéder six mois et privative de toute rémunération ;
 5° Le licenciement.
 
 L'avertissement et le blâme sont prononcés par le directeur de l'établissement
-après avis de la commission médicale d'établissement ou, le cas échéant, du
-comité consultatif médical.
+après avis de la commission médicale d'établissement ou, le cas échéant, de la
+commission médicale d'établissement locale.
 
 Les autres sanctions sont prononcées par le directeur de l'établissement après
-avis de la commission médicale d'établissement ou, le cas échéant, du comité
-consultatif médical ainsi que du médecin inspecteur régional ou du pharmacien
-inspecteur régional de santé publique.
+avis de la commission médicale d'établissement ou, le cas échéant, de la
+commission médicale d'établissement locale.
+
+En l'absence d'avis de la commission médicale d'établissement rendu dans un
+délai de deux mois après sa convocation, l'avis de son président est seul
+requis.
 
 L'intéressé est avisé, au moins deux mois avant qu'une décision soit prise, par
 lettre recommandée avec demande d'avis de réception, des griefs qui lui sont

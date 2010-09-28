@@ -14,9 +14,12 @@ Le praticien attaché ou praticien attaché associé qui fait preuve d'insuffisa
 professionnelle fait l'objet soit d'une modification de la nature de ses
 fonctions, soit d'une mesure de licenciement avec indemnité. Ces mesures sont
 prononcées par le directeur de l'établissement après avis de la commission
-médicale d'établissement ou, le cas échéant, du comité consultatif médical,
-ainsi que du médecin inspecteur régional ou du pharmacien inspecteur régional de
-santé publique.
+médicale d'établissement ou, le cas échéant, de la commission médicale
+d'établissement locale.
+
+En l'absence d'avis de la commission médicale d'établissement rendu dans un
+délai de deux mois après sa convocation, l'avis de son président est seul
+requis.
 
 En cas de procédure pour insuffisance professionnelle, la suspension peut être
 prononcée dans les conditions prévues à l'article R. 6152-627.

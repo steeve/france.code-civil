@@ -22,8 +22,6 @@ La durée des congés mentionnés ci-dessus pouvant être pris en une seule fois
 peut excéder trente et un jours consécutifs.
 
 Le directeur de l'établissement arrête le tableau des congés et des jours de
-récupération prévus aux 1°, 2° et 3° après avis du chef de service ou du
-responsable de la structure.
-
-L'assistant peut ouvrir un compte épargne-temps, dont la durée ne peut toutefois
-excéder cinq années.
+récupération prévus aux 1°, 2° et 3° après avis du chef de pôle ou, à défaut, du
+responsable du service, de l'unité fonctionnelle ou de toute autre structure
+interne.

@@ -8,8 +8,8 @@ de diplôme, de titre et de formation fixées par arrêté conjoint des ministre
 chargés de la santé et de l'enseignement supérieur.
 
 Les assistants associés exercent leurs fonctions sous la responsabilité directe
-du chef de service ou du responsable de la structure dans laquelle ils sont
-affectés ou, en cas d'empêchement de celui-ci, de l'un de ses collaborateurs
-médecin, odontologiste ou pharmacien. Ils sont associés à la continuité des
-soins ou à la permanence pharmaceutique assurée sur place, mais ne sont pas
-autorisés à effectuer des remplacements.
+du responsable de la structure dans laquelle ils sont affectés ou, en cas
+d'empêchement de celui-ci, de l'un de ses collaborateurs médecin, odontologiste
+ou pharmacien. Ils sont associés à la continuité des soins ou à la permanence
+pharmaceutique assurée sur place, mais ne sont pas autorisés à effectuer des
+remplacements.

@@ -13,9 +13,8 @@ totale ou partielle des émoluments ;
 
 L'avertissement et le blâme sont prononcés par le directeur de l'établissement
 après avis de la commission médicale d'établissement. Les autres sanctions sont
-prononcées par le préfet du département, sur proposition du médecin inspecteur
-régional de santé publique, après avis de la commission médicale d'établissement
-et du directeur de l'établissement.
+prononcées par le directeur général de l'agence régionale de santé, après avis
+de la commission médicale d'établissement et du directeur de l'établissement.
 
-Les décisions prononcées en application des 3° et 4° ci-dessus sont transmises
-pour information au directeur de l'agence régionale de l'hospitalisation.
+A défaut d'avis rendu par la commission médicale d'établissement dans les deux
+mois de sa convocation, seul l'avis de son président est requis.

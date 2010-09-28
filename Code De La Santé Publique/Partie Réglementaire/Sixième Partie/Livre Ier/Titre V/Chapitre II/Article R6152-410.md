@@ -1,9 +1,9 @@
 Article R6152-410
 ----
-Les médecins, biologistes, pharmaciens et odontologistes relevant des statuts
-énumérés ci-après peuvent, dans la mesure où ces statuts les y autorisent et
-sous réserve d'exercer leurs fonctions dans des établissements distincts, être
-recrutés comme praticiens contractuels :
+Les médecins, pharmaciens et odontologistes relevant des statuts énumérés
+ci-après peuvent, dans la mesure où ces statuts les y autorisent et sous réserve
+d'exercer leurs fonctions dans des établissements distincts, être recrutés comme
+praticiens contractuels :
 
 1° Les praticiens régis par les décrets du 22 septembre 1965 relatif aux centres
 de soins, d'enseignement et de recherche dentaire, n° 72-360 du 20 avril 1972
@@ -29,8 +29,4 @@ associés ou invités dans les établissements d'enseignement supérieur et de
 recherche relevant du ministère de l'éducation nationale, n° 86-380 du 11 mars
 1986 portant statut des assistants des disciplines médicales, biologiques et
 mixtes, du décret n° 86-555 du 14 mars 1986 relatif aux chargés d'enseignement
-et aux attachés d'enseignement dans les disciplines médicales et odontologiques
-;
-
-5° Les personnels régis par les dispositions de la section 1 du chapitre III du
-présent titre.
+et aux attachés d'enseignement dans les disciplines médicales et odontologiques.

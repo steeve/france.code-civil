@@ -22,12 +22,14 @@ différents congés ou absences occasionnelles des praticiens de l'établissemen
 exceptionnels et urgents survenant en dehors de leurs obligations de service.
 
 Toutefois, si l'intérêt du service l'exige, le directeur de l'établissement,
-après avis de la commission médicale d'établissement ou, le cas échéant, du
-comité consultatif médical, peut décider qu'un praticien attaché cesse de
-participer à la continuité des soins ou à la permanence pharmaceutique la nuit,
-le samedi après-midi, le dimanche et les jours fériés pour une durée maximale de
-trois mois. A l'issue de cette période, si le praticien n'est pas autorisé à
-nouveau à participer à la continuité des soins ou à la permanence pharmaceutique
-son cas est soumis au comité médical mentionné à l'article R. 6152-36 ou fait
-l'objet de la procédure relative à l'insuffisance professionnelle ou de la
-procédure disciplinaire prévues par la présente section.
+après avis du président de la commission médicale d'établissement ou, le cas
+échéant, de la commission médicale d'établissement locale, peut décider de
+suspendre la participation d'un praticien attaché à la continuité des soins ou à
+la permanence pharmaceutique la nuit, le samedi après-midi, le dimanche et les
+jours fériés pour une durée maximale de trois mois. Il en informe sans délai le
+directeur général de l'agence régionale de santé. A l'issue de cette période, si
+le praticien n'est pas autorisé à nouveau à participer à la continuité des soins
+ou à la permanence pharmaceutique son cas est soumis au comité médical mentionné
+à l'article R. 6152-36 ou fait l'objet de la procédure relative à l'insuffisance
+professionnelle ou de la procédure disciplinaire prévues par la présente
+section.

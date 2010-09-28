@@ -1,6 +1,6 @@
 Article R6152-420
 ----
-Les praticiens contractuels recrutés au titre du 6° de l'article R. 6152-402 et
+Les praticiens contractuels recrutés au titre de l'article R. 6152-403 et
 exerçant leurs fonctions à temps plein ont droit à un congé de formation dont la
 durée est fixée à huit jours ouvrables par an. Cette durée est fixée à cinq
 jours ouvrables pour les praticiens exerçant à temps partiel.
