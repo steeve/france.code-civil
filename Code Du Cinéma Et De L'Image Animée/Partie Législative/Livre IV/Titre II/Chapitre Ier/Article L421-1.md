@@ -30,6 +30,12 @@ cinématographiques ;
 6° Des dispositions des articles L. 213-9 à L. 213-13 relatives aux conditions
 de concession des droits de représentation cinématographique ;
 
+6° bis Des dispositions du I de l'article L. 213-16 relatives à l'obligation de
+versement de la contribution à l'équipement numérique des établissements de
+spectacles cinématographiques et des dispositions de l'article L. 213-21
+relatives à l'obligation de transmission de données ainsi que des décisions
+prises pour leur application ;
+
 7° Des dispositions des articles L. 214-1 à L. 214-8 relatives à l'organisation
 de certaines séances de spectacles cinématographiques ainsi que des textes et
 décisions pris pour leur application ;

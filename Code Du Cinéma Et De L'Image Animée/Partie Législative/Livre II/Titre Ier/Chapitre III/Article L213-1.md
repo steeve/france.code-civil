@@ -19,4 +19,6 @@ fixé dans les conditions prévues à l'article L. 232-1 ;
 3° A la méconnaissance des engagements contractuels entre un exploitant
 d'établissement de spectacles cinématographiques et un distributeur lorsqu'ils
 ont trait aux conditions de l'exploitation en salle d'une œuvre
-cinématographique.
+cinématographique ;
+
+4° A l'application du 1° du I de l'article L. 213-16 et de l'article L. 213-17.
