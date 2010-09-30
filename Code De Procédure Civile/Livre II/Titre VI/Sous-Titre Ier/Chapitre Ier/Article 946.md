@@ -2,6 +2,9 @@ Article 946
 ----
 La procédure est orale.
 
-Les prétentions des parties ou la référence qu'elles font aux prétentions
-qu'elles auraient formulées par écrit sont notées au dossier ou consignées dans
-un procès-verbal.
+La cour ou le magistrat chargé d'instruire l'affaire qui organise les échanges
+entre les parties comparantes peut dispenser une partie qui en fait la demande
+de se présenter à une audience, conformément au second alinéa de l'article
+446-1. Dans ce cas, la communication entre les parties est faite par lettre
+recommandée avec demande d'avis de réception ou par notification entre avocats
+et il en est justifié auprès de la cour dans les délais qu'elle impartit.

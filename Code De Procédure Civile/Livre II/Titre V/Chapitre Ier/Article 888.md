@@ -8,5 +8,3 @@ Les parties qui n'ont pas été avisées verbalement seront convoquées dans les
 formes et délais prévus à l'article 886. La convocation indique que faute pour
 elles de comparaître, elles s'exposent à ce qu'un jugement soit rendu contre
 elles sur les seuls éléments fournis par leur adversaire.
-
-Le tribunal dispose des pouvoirs prévus à l'article 844.

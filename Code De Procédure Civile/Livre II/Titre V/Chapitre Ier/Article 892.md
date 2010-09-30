@@ -1,6 +1,5 @@
 Article 892
 ----
-Les décisions du tribunal paritaire ne sont pas susceptibles d'opposition.
-
-Lorsqu'elles sont susceptibles d'appel, celui-ci est formé, instruit et jugé
-suivant la procédure sans représentation obligatoire.
+Lorsque les décisions du tribunal paritaire sont susceptibles d'appel, celui-ci
+est formé, instruit et jugé suivant la procédure sans représentation
+obligatoire.

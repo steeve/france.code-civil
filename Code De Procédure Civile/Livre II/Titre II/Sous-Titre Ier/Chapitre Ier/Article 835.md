@@ -1,8 +1,9 @@
 Article 835
 ----
-La demande aux fins de tentative préalable de conciliation n'interrompt la
-prescription que si l'assignation est délivrée dans les deux mois à compter,
-selon le cas, du jour de la tentative de conciliation menée par le juge, de la
-notification prévue au quatrième alinéa de l'article 832-6, de celle prévue au
-troisième alinéa de l'article 832-7 ou de l'expiration du délai accordé par le
-demandeur au débiteur pour exécuter son obligation.
+A défaut de conciliation, l'affaire peut être immédiatement jugée si les parties
+y consentent. Dans ce cas, il est procédé selon les modalités de la présentation
+volontaire.
+
+Dans le cas contraire, les parties comparantes sont avisées que la juridiction
+peut être saisie aux fins de jugement de la demande, en application de l'article
+836 dont les dispositions sont reproduites.

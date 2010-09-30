@@ -8,7 +8,9 @@ rendu ou par celle à laquelle il est déféré, selon ce que le dossier révèl
 Le juge est saisi par simple requête de l'une des parties, ou par requête
 commune ; il peut aussi se saisir d'office.
 
-Le juge statue après avoir entendu les parties ou celles-ci appelées.
+Le juge statue après avoir entendu les parties ou celles-ci appelées. Toutefois,
+lorsqu'il est saisi par requête, il statue sans audience, à moins qu'il n'estime
+nécessaire d'entendre les parties.
 
 La décision rectificative est mentionnée sur la minute et sur les expéditions du
 jugement. Elle est notifiée comme le jugement.

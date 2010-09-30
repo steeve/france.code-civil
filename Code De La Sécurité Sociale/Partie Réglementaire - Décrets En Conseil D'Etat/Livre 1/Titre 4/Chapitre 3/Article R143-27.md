@@ -23,10 +23,13 @@ l'instance.
 Il tranche les difficultés relatives à la communication des pièces. Il procède
 aux jonctions et disjonctions d'instance.
 
+Il peut déclarer l'appel irrecevable et trancher à cette occasion toute question
+ayant trait à la recevabilité de l'appel.
+
 Les décisions du président de section chargé d'instruire l'affaire n'ont pas, au
 principal, l'autorité de la chose jugée. Elles ne sont susceptibles d'aucun
 recours indépendamment de la décision sur le fond. Toutefois, elles peuvent être
 déférées par simple requête à la Cour nationale de l'incapacité et de la
 tarification de l'assurance des accidents du travail dans un délai de quinze
 jours à compter de leur notification lorsqu'elles constatent l'extinction de
-l'instance.
+l'instance ou déclarent l'appel irrecevable.

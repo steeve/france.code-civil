@@ -1,8 +1,8 @@
 Article 1026
 ----
-Le désistement est constaté par ordonnance du premier président ou du président
-de la chambre à laquelle l'affaire a été distribuée. Le premier président ou le
-président de la formation compétente statue, le cas échéant, sur les demandes
+Le désistement est constaté par ordonnance du premier président, de son délégué
+ou du président de la chambre à laquelle l'affaire a été distribuée. Le
+magistrat qui constate le désistement statue, le cas échéant, sur les demandes
 fondées sur l'article 700.
 
 Toutefois, le désistement est constaté par arrêt s'il intervient après le dépôt

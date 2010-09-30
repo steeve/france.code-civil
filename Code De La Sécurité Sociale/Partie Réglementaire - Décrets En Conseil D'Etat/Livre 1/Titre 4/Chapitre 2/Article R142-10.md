@@ -18,3 +18,7 @@ plusieurs sections.
 
 En cas d'empêchement d'un assesseur, il est pourvu à son remplacement par un
 suppléant.
+
+La procédure d'injonction de payer prévue à l'article R. 142-27-1 peut être
+déléguée par ordonnance du président du tribunal des affaires de sécurité
+sociale à un ou plusieurs présidents de formation de jugement du tribunal.

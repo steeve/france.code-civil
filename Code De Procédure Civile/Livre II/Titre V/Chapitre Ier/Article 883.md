@@ -1,6 +1,6 @@
 Article 883
 ----
-Les parties sont tenues de comparaître en personne, sauf à se faire représenter
-en cas de motif légitime.
+Les parties ont la faculté de se faire assister ou représenter.
 
-Elles peuvent se faire assister.
+Toutefois, lors de la tentative préalable de conciliation, elles sont tenues de
+comparaître en personne, sauf à se faire représenter en cas de motif légitime.

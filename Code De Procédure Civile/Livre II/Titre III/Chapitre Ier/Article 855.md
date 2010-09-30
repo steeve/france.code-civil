@@ -9,5 +9,5 @@ l'article 56 :
 personne chez qui il élit domicile en France.
 
 L'acte introductif d'instance mentionne en outre les conditions dans lesquelles
-le défendeur peut se faire assister ou représenter ainsi que, s'il y a lieu, le
-nom du représentant du demandeur.
+le défendeur peut se faire assister ou représenter, s'il y a lieu, le nom du
+représentant du demandeur ainsi que les dispositions de l'article 861-2.
