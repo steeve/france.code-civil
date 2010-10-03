@@ -1,27 +1,59 @@
 Article D6114-3
 ----
-Le contrat pluriannuel d'objectifs et de moyens fixe pour tout titulaire de
-l'autorisation les objectifs relatifs à la sécurité des soins et à
-l'amélioration continue de la qualité, notamment en ce qui concerne :
+Le contrat fixe, pour l'établissement de santé ou le titulaire de l'autorisation
+:
 
-1° La gestion des risques, notamment la lutte contre les infections nosocomiales
-et la lutte contre la iatrogénie médicamenteuse ;
+1° Ses orientations stratégiques, l'évolution de ses activités et, le cas
+échéant, les restructurations afférentes compte tenu des objectifs du projet
+régional de santé dont ceux inscrits dans le programme pluriannuel régional de
+gestion du risque. Il tient compte également des priorités nationales de santé
+publique ;
 
-2° Le respect des recommandations de bonnes pratiques ;
+2° Le service rendu aux patients et les conditions de garantie de la continuité
+des soins ;
 
-3° La mise en oeuvre des référentiels de bonnes pratiques et de prise en charge
-mentionnés au 2° de l'article L. 1415-2, lorsque l'établissement pratique
-l'activité de soins de traitement du cancer ;
+3° Les conditions d'accueil et de prise en charge des patients prévues à
+l'article L. 6112-3 s'il s'agit d'un établissement ou d'une personne chargée
+d'une ou plusieurs missions de service public ;
 
-4° Le développement de l'évaluation des pratiques professionnelles mentionnée
-aux articles L. 4133-1-1 et L. 6113-2 ;
+4° Le cas échéant, sa participation aux réseaux de prise en charge des urgences
+mentionnés à l'article R. 6123-26 ;
 
-5° Les éléments relatifs à la prise en charge en soins palliatifs ;
+5° L'organisation lui permettant de prendre en charge les patients qui lui sont
+adressés par les structures de médecine d'urgence lorsqu'il est titulaire d'une
+autorisation de soins de médecine ou de chirurgie ;
 
-6° La lutte contre la douleur, la nutrition, la prévention et l'éducation pour
-la santé ;
+6° Les actions de coopération dans lesquelles il s'engage et les modalités
+d'exécution de celles qui constituent une condition substantielle de
+l'autorisation de l'activité de soins ou d'équipement matériel lourd prévue à
+l'article L. 6122-1 ;
 
-7° L'évaluation de la satisfaction des patients et des usagers ;
+7° Les conditions de prise en charge des patients nécessitant des soins
+palliatifs ;
 
-8° Le développement du système d'information, en particulier le dossier du
-patient.
+8° Sa participation à la prise en charge des patients atteints de cancer dans
+les conditions prévues par l'article R. 6123-94 ;
+
+9° Le cas échéant, les modalités de mise en œuvre des missions d'enseignement et
+de recherche compte tenu des objectifs du contrat quadriennal mentionné à
+l'article L. 711-1 du code de l'éducation ;
+
+10° Les objectifs assortis des indicateurs de suivi prévus à l'article R.
+6144-2-2 du code de santé publique visant à améliorer la qualité et la sécurité
+des soins ;
+
+11° Les objectifs assortis d'indicateurs de suivi et d'évaluation visant à
+l'amélioration de la maîtrise médicalisée des dépenses et des pratiques
+professionnelles. Il peut prévoir des actions d'accompagnement visant à
+améliorer la performance de sa gestion ainsi que des mesures d'intéressement aux
+résultats constatés ;
+
+12° Les conditions d'exécution et les modalités d'évaluation des activités
+financées au titre des missions d'intérêt général et d'aide à la
+contractualisation prévues à l'article L. 162-22-13 du code de la sécurité
+sociale, assurées par l'établissement de santé ou le titulaire d'autorisation
+prévu à l'article L. 6122-1 ;
+
+13° Les engagements du titulaire en termes de développement des systèmes
+d'information, de transmission des données informatisées et, le cas échéant, des
+activités de télémédecine.

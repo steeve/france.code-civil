@@ -1,8 +1,9 @@
 Article D6114-5
 ----
-Le contrat pluriannuel d'objectifs et de moyens prévoit des engagements précis
-et mesurables du titulaire de l'autorisation en vue d'améliorer le service rendu
-au patient et de renforcer l'efficacité de sa gestion par une meilleure
-utilisation de ses ressources et le développement d'outils de gestion. Le
-contrat peut prévoir des actions d'accompagnement et des mesures d'intéressement
-aux résultats constatés.
+Le contrat identifie les unités de soins intensifs, les unités de surveillance
+continue mentionnées à l'article R. 6123-38 et les unités de surveillance
+continue pédiatriques mentionnées à l'article R. 6123-38-7 dont dispose
+l'établissement.
+
+Il identifie également les prises en charge qui font l'objet de cahiers des
+charges nationaux et pour lesquelles des financements spécifiques sont prévus.

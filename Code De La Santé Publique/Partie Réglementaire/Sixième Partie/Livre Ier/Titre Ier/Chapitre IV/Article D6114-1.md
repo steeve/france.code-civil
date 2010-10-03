@@ -1,21 +1,17 @@
 Article D6114-1
 ----
 Le contrat pluriannuel d'objectifs et de moyens prévu à l'article L. 6114-1
-porte sur l'ensemble de l'activité de l'établissement de santé, du groupement de
-coopération sanitaire ou de tout autre titulaire de l'autorisation délivrée par
-l'agence régionale de l'hospitalisation en application de l'article L. 6122-1.
+porte sur l'ensemble de l'activité de l'établissement de santé ou du titulaire
+de l'autorisation délivrée par l'agence régionale de santé en application de
+l'article L. 6122-1, à l'exception de celle prévue à l'article L. 6322-1.
 
-Lorsque le titulaire de l'autorisation exerce une activité en coopération,
-notamment dans le cadre des territoires de santé, les stipulations propres à
-cette activité, co-signées par chacun des participants, figurent en annexe au
-contrat pluriannuel d'objectifs et de moyens.
+Il est conclu pour une durée maximale de cinq ans.
 
-Figurent également en annexe à ce contrat :
+Lorsque l'établissement de santé est un centre hospitalier universitaire, le
+contrat fait référence aux stipulations issues du contrat quadriennal passé avec
+l'université mentionné à l'article L. 711-1 du code de l'éducation.
 
-1° La liste des accords et contrats en cours de validité signés avec l'agence
-régionale de l'hospitalisation ;
-
-2° Les engagements relatifs à l'information du patient et les documents transmis
-ou mis à disposition de l'agence régionale de l'hospitalisation et des caisses
-d'assurance maladie par les titulaires de l'autorisation, dont la liste est
-fixée par arrêté des ministres chargés de la santé et de la sécurité sociale.
+Figure en annexe au contrat, pour information, la liste des accords et des
+autres contrats en cours de validité signés par le titulaire avec l'agence
+régionale de santé ainsi que les accords financiers signés avec d'autres
+organismes que l'agence régionale de santé.
