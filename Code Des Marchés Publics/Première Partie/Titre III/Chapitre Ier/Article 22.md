@@ -1,18 +1,18 @@
 Article 22
 ----
 I. - Pour les collectivités territoriales et les établissements publics locaux à
-l'exception des établissements publics de santé et les établissements publics
-sociaux ou médico-sociaux, sont constituées une ou plusieurs commissions d'appel
-d'offres à caractère permanent. Une commission spécifique peut aussi être
-constituée pour la passation d'un marché déterminé. Ces commissions d'appel
-d'offres sont composées des membres suivants :
+l'exception des établissements publics sociaux ou médico-sociaux, sont
+constituées une ou plusieurs commissions d'appel d'offres à caractère permanent.
+Une commission spécifique peut aussi être constituée pour la passation d'un
+marché déterminé. Ces commissions d'appel d'offres sont composées des membres
+suivants :
 
 1° Lorsqu'il s'agit d'une région, le président du conseil régional ou son
 représentant, président, et cinq membres du conseil élus en son sein à la
 représentation proportionnelle au plus fort reste ;
 
 Lorsqu'il s'agit de la collectivité territoriale de Corse, le président du
-conseil exécutif ou son représentant, président, et cinq membres de l'assemblée
+conseil exécutif ou son représentant, président, et cinq membres de l'Assemblée
 de Corse élus en son sein à la représentation proportionnelle au plus fort reste
 ;
 

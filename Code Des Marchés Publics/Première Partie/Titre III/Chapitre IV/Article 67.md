@@ -155,9 +155,8 @@ dans les conditions prévues au 1° du I de l'article 35 ;
 l'article 27, une procédure adaptée.
 
 Pour les collectivités territoriales et les établissements publics locaux à
-l'exception des établissements publics de santé et des établissements publics
-sociaux et médico-sociaux, c'est la commission d'appel d'offres qui choisit le
-type de procédure à mettre en oeuvre.
+l'exception des établissements publics sociaux et médico-sociaux, c'est la
+commission d'appel d'offres qui choisit le type de procédure à mettre en oeuvre.
 
 X. - Il peut être prévu dans le règlement de la consultation ou dans l'avis
 d'appel public à la concurrence qu'une prime sera allouée à tous les

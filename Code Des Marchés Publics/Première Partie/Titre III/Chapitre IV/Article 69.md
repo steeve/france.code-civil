@@ -32,8 +32,8 @@ clarifications ou compléments ne peuvent avoir pour effet de modifier des
 
 Le marché est attribué au vu de l'avis du jury. Pour les collectivités
 territoriales et les établissements publics locaux à l'exception des
-établissements publics de santé et des établissements publics sociaux ou
-médico-sociaux, c'est la commission d'appel d'offres qui attribue le marché.
+établissements publics sociaux ou médico-sociaux, c'est la commission d'appel
+d'offres qui attribue le marché.
 
 Le règlement de la consultation prévoit le montant des primes et les modalités
 de réduction ou de suppression des primes des candidats dont le jury a estimé

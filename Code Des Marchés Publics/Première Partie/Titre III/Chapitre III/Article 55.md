@@ -4,10 +4,9 @@ Si une offre paraît anormalement basse, le pouvoir adjudicateur peut la rejeter
 par décision motivée après avoir demandé par écrit les précisions qu'il juge
 utiles et vérifié les justifications fournies. Pour les marchés passés selon une
 procédure formalisée par les collectivités territoriales et les établissements
-publics locaux, à l'exception des établissements publics de santé et des
-établissements publics sociaux ou médico-sociaux, c'est la commission d'appel
-d'offres qui rejette par décision motivée les offres dont le caractère
-anormalement bas est établi.
+publics locaux, à l'exception des établissements publics sociaux ou
+médico-sociaux, c'est la commission d'appel d'offres qui rejette par décision
+motivée les offres dont le caractère anormalement bas est établi.
 
 Peuvent être prises en considération des justifications tenant notamment aux
 aspects suivants :

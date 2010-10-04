@@ -38,8 +38,7 @@ a préalablement déterminés.
 
 III. - Une commission d'appel d'offres du groupement est instaurée dès lors
 qu'une collectivité territoriale ou un établissement public local autres qu'un
-établissement public de santé ou un établissement public social ou médico-social
-participe au groupement.
+établissement public social ou médico-social participe au groupement.
 
 Sont membres de cette commission d'appel d'offres :
 
@@ -71,16 +70,16 @@ d'offres, lorsqu'ils y sont invités. Leurs observations sont consignées au
 procès-verbal.
 
 V. - Pour les groupements dans lesquels les collectivités territoriales ou les
-établissements publics locaux autres qu'un établissement public de santé ou un
-établissement public social ou médico-social sont majoritaires, le titulaire est
-choisi par la commission d'appel d'offres en application des règles prévues par
-le présent code pour les collectivités territoriales.
+établissements publics locaux autres qu'un établissement public social ou
+médico-social sont majoritaires, le titulaire est choisi par la commission
+d'appel d'offres en application des règles prévues par le présent code pour les
+collectivités territoriales.
 
 Pour les groupements dans lesquels les collectivités territoriales ou les
-établissements publics locaux autres qu'un établissement public de santé ou un
-établissement public social ou médico-social ne sont pas majoritaires, le
-titulaire est choisi après avis de la commission d'appel d'offres, selon les
-modalités définies par la convention constitutive du groupement.
+établissements publics locaux autres qu'un établissement public social ou
+médico-social ne sont pas majoritaires, le titulaire est choisi après avis de la
+commission d'appel d'offres, selon les modalités définies par la convention
+constitutive du groupement.
 
 Pour les groupements constitués entre des personnes ne disposant pas de
 commission d'appel d'offres, le titulaire est choisi selon les modalités
@@ -107,7 +106,6 @@ Dans ces deux cas, lorsqu'il est instauré une commission d'appel d'offres, la
 convention constitutive peut prévoir qu'il s'agit de celle du coordonnateur.
 
 Lorsqu'une collectivité territoriale ou un établissement public local autre
-qu'un établissement public de santé ou un établissement public social ou
-médico-social participe au groupement et que le coordonnateur ne dispose pas
-d'une commission d'appel d'offres, il en constitue une pour les besoins du
-fonctionnement du groupement.
+qu'un établissement public social ou médico-social participe au groupement et
+que le coordonnateur ne dispose pas d'une commission d'appel d'offres, il en
+constitue une pour les besoins du fonctionnement du groupement.

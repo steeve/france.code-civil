@@ -77,9 +77,8 @@ Des primes sont allouées aux candidats conformément aux propositions du jury.
 
 VIII. - Le ou les lauréats sont invités à négocier et le marché qui fait suite
 au concours est attribué. Pour les collectivités territoriales et les
-établissements publics locaux à l'exception des établissements publics de santé
-et des établissements publics sociaux ou médico-sociaux, c'est l'assemblée
-délibérante qui attribue le marché.
+établissements publics locaux à l'exception des établissements publics sociaux
+ou médico-sociaux, c'est l'assemblée délibérante qui attribue le marché.
 
 IX. - Si le candidat dont l'offre a été retenue ne peut produire les
 attestations et certificats mentionnés aux I et II de l'article 46, son offre

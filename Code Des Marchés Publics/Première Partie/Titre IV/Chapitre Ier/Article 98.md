@@ -6,7 +6,7 @@ Le délai global de paiement d'un marché public ne peut excéder :
 caractère industriel et commercial et autres que ceux mentionnés au 3° ;
 
 2° 45 jours pour les collectivités territoriales et les établissements publics
-locaux autres que ceux mentionnés au 3° .
+locaux.
 
 Ce délai est ramené à :
 

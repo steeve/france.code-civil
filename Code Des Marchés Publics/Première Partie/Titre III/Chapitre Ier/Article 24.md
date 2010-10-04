@@ -18,9 +18,8 @@ propres à chaque établissement.
 
 b) Pour les collectivités territoriales et les établissements publics locaux,
 les membres du jury sont désignés dans les conditions prévues aux I, II et III
-de l'article 22. Pour les établissements publics de santé et les établissements
-publics sociaux et médico-sociaux, ils sont désignés selon les règles propres à
-chaque établissement.
+de l'article 22. Pour les établissements publics sociaux et médico-sociaux, ils
+sont désignés selon les règles propres à chaque établissement.
 
 c) Pour les groupements de commandes mentionnés à l'article 8, les membres du
 jury sont les membres de la commission d'appel d'offres prévue au III de

@@ -46,9 +46,8 @@ du I de l'article 35 dans le cas d'offres irrégulières ou inacceptables ;
 l'article 27, une procédure adaptée.
 
 Pour les collectivités territoriales et les établissements publics locaux à
-l'exception des établissements publics de santé et des établissements publics
-sociaux et médico-sociaux, c'est la commission d'appel d'offres qui choisit le
-type de procédure à mettre en oeuvre.
+l'exception des établissements publics sociaux et médico-sociaux, c'est la
+commission d'appel d'offres qui choisit le type de procédure à mettre en oeuvre.
 
 IV. - A tout moment, la procédure peut être déclarée sans suite pour des motifs
 d'intérêt général. Les candidats en sont informés.
