@@ -595,18 +595,18 @@ a) supérieure ou égale à 200 t
 
 6
 
-b) supérieure à 1,5 t, mais inférieure à 200 t
+b) supérieure à 1, 5 t, mais inférieure à 200 t
 
 
 A
 
 3
 
-b) supérieure à 1,5 t, mais inférieure à 200 t
+b) supérieure à 1, 5 t, mais inférieure à 200 t
 
 3
 
-c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1,5 t
+c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1, 5 t
 
 
 DC
@@ -2027,7 +2027,7 @@ A
 
 3
 
-b) Supérieure à 100 kg, mais inférieure à 10 t
+b) Supérieure ou égale à 100 kg, mais inférieure à 10 t
 
 6
 
@@ -2036,14 +2036,11 @@ c) Inférieure à 100 kg
 
 DC
 
-c) Inférieure à 200 kg pour les unités mobiles de fabrication d'explosifs et les
-fabrications sur sites d'explosifs destinées à prévenir les avalanches de
-montagne : non soumis à la taxe
-
--
-
 3. Fabrication d'explosif en unité mobile. La quantité totale de matière active
 susceptible d'être présente dans l'installation étant (4) :
+
+3. La quantité totale de matière active susceptible d'être présente dans
+l'installation étant :
 
 a) Supérieure ou égale à 100 kg
 
@@ -2051,6 +2048,10 @@ a) Supérieure ou égale à 100 kg
 A
 
 3
+
+a) Supérieure ou égale à 100 kg
+
+6
 
 b) Inférieure à 100 kg
 
