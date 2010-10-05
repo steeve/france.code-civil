@@ -1,6 +1,6 @@
 Article R*121-14
 ----
-I. - Font l'objet d'une évaluation environnementale dans les conditions prévues
+I.-Font l'objet d'une évaluation environnementale dans les conditions prévues
 par la présente section :
 
 1° Les directives territoriales d'aménagement ;
@@ -11,9 +11,10 @@ par la présente section :
 
 4° Le plan d'aménagement et de développement durable de Corse ;
 
-5° Les schémas de cohérence territoriale.
+5° Les schémas de cohérence territoriale ; 6° Le plan d'aménagement et de
+développement durable de Mayotte.
 
-II. - Font également l'objet d'une évaluation environnementale :
+II.-Font également l'objet d'une évaluation environnementale :
 
 1° Les plans locaux d'urbanisme qui permettent la réalisation de travaux,
 ouvrages ou aménagements mentionnés à l'article L. 414-4 du code de

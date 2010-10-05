@@ -21,5 +21,6 @@ mètre carré de plancher hors oeuvre net des maisons d'habitation individuelle 
 45 euros (T.T.C.) par mètre carré de plancher hors oeuvre net des autres
 constructions à usage d'habitation ;
 
-4. Dans les communes des départements d'outre-mer, 55 euros (T.T.C.) par mètre
-carré de plancher hors oeuvre net des constructions à usage d'habitation.
+4. Dans les communes des départements d'outre-mer et de Mayotte, 55 euros
+(T.T.C.) par mètre carré de plancher hors oeuvre net des constructions à usage
+d'habitation.

@@ -36,7 +36,7 @@ fossiles, les stratotypes, les grottes ou les accidents géologiques remarquable
 ;
 
 i) Les récifs coralliens, les lagons et les mangroves dans les départements
-d'outre-mer.
+d'outre-mer et à Mayotte.
 
 Lorsqu'ils identifient des espaces ou milieux relevant du présent article, les
 documents d'urbanisme précisent, le cas échéant, la nature des activités et
