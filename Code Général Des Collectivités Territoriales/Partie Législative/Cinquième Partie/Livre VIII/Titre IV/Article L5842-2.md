@@ -3,8 +3,8 @@ Article L5842-2
 I.-Les articles L. 5211-1 à L. 5211-4-1 sont applicables en Polynésie française
 sous réserve des adaptations prévues aux II et III.
 
-II.-Pour l'application de l'article L. 5222-2, la dernière phrase du quatrième
-alinéa est supprimée.
+II.-L'article L. 5211-3 est complété par les mots : " dans les conditions fixées
+par l'article L. 2573-12, à compter du 1er janvier 2012 ".
 
 III.-Pour l'application de l'article L. 5211-4-1 :
 
