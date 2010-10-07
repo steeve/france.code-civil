@@ -20,7 +20,7 @@ estimé du besoin est inférieur aux seuils suivants :
 1° 125 000 € HT pour les fournitures et les services de l'Etat ;
 
 2° 193 000 € HT pour les fournitures et les services des collectivités
-territoriales ;
+territoriales et des établissements publics de santé ;
 
 3° 193 000 € HT pour les fournitures acquises par des pouvoirs adjudicateurs
 opérant dans le domaine de la défense autres que celles figurant dans la liste
