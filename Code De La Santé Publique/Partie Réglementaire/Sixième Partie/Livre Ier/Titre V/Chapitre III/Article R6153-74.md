@@ -12,13 +12,13 @@ pédagogiques définis dans le projet pédagogique prévu à l'article R. 6153-6
 
 a) Les modalités pratiques d'organisation des stages ;
 
-b) La liste des services formateurs ;
+b) La liste des entités de stage où se déroulent les formations ;
 
-c) Les modalités de répartition et d'affectation des étudiants dans les services
-et les fonctions qui leur sont confiées ; les étudiants sont obligatoirement
-consultés, dans les conditions fixées par le conseil de l'unité de formation et
-de recherche, sur les modalités suivant lesquelles ils sont appelés à choisir
-leurs services d'affectation ;
+c) Les modalités de répartition et d'affectation des étudiants dans les entités
+de stage et les fonctions qui leur sont confiées ; les étudiants sont
+obligatoirement consultés, dans les conditions fixées par le conseil de l'unité
+de formation et de recherche, sur les modalités suivant lesquelles ils sont
+appelés à choisir leurs entités de stage d'affectation ;
 
 2° Les conditions dans lesquelles les établissements ou organismes autres que le
 centre hospitalier universitaire prennent en charge les rémunérations et les

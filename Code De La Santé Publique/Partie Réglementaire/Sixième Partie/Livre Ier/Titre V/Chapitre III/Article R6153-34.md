@@ -2,7 +2,7 @@ Article R6153-34
 ----
 La deuxième section, compétente à l'égard des internes en pharmacie, comprend :
 
-1° Le préfet de la région, président ;
+1° Le général de l'agence régionale de santé, président ou son représentant ;
 
 2° Un directeur d'établissement public de santé de la région, choisi sur une
 liste de trois noms proposés par la Fédération hospitalière de France ;

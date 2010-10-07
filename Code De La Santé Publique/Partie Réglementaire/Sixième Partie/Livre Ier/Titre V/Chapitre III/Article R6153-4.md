@@ -1,8 +1,8 @@
 Article R6153-4
 ----
-L'interne en pharmacie participe à l'ensemble des activités du service dans
-lequel il est affecté, par délégation et sous la responsabilité du praticien ou
-du pharmacien auprès duquel il est placé.
+L'interne en pharmacie participe à l'ensemble des activités de l'entité dans
+laquelle il accomplit son stage, par délégation et sous la responsabilité du
+praticien ou du pharmacien auprès duquel il est placé.
 
 Il a notamment pour mission :
 
@@ -14,5 +14,5 @@ médicamenteuses et toxiques ;
 2° De participer à l'élaboration et à la validation des analyses biologiques
 concourant à la prévention, au diagnostic et à la surveillance des traitements ;
 
-3° D'assurer la liaison entre le service auquel il est affecté et les services
-de soins.
+3° D'assurer la liaison entre l'entité dans laquelle il accomplit son stage et
+les structures de soins.

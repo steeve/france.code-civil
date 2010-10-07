@@ -1,8 +1,8 @@
 Article R6153-91
 ----
-Chaque chef de service ou responsable de la structure où sont affectés les
-étudiants hospitaliers en pharmacie donne son appréciation sur chacun d'eux. Il
-est établi à cet effet une fiche d'appréciation de stage pour chaque étudiant.
+Chaque responsable de l'entité de stage où sont affectés les étudiants
+hospitaliers en pharmacie donne son appréciation sur chacun d'eux. Il est établi
+à cet effet une fiche d'appréciation de stage pour chaque étudiant.
 
 La fiche comporte une appréciation :
 

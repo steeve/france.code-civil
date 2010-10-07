@@ -1,8 +1,8 @@
 Article R6153-37
 ----
 Le conseil de discipline est saisi par le directeur général du centre
-hospitalier régional de rattachement à la demande, éventuellement, du directeur
-de l'établissement ou de l'organisme où l'interne accomplit son stage.
+hospitalier universitaire de rattachement à la demande, éventuellement, du
+directeur de l'établissement ou de l'organisme où l'interne accomplit son stage.
 
 L'interne poursuivi est avisé qu'il dispose d'un délai de trente jours pour
 prendre connaissance de son dossier, comprenant tous les éléments d'information

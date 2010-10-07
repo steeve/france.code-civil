@@ -3,7 +3,8 @@ Article R6153-33
 La première section, compétente à l'égard des internes et des résidents en
 médecine, comprend :
 
-1° Le préfet de région, président ;
+1° Le directeur général de l'agence régionale de santé, président ou son
+représentant ;
 
 2° Un directeur d'établissement public de santé de la région, choisi sur une
 liste de trois noms proposés par la Fédération hospitalière de France ;
@@ -19,7 +20,7 @@ présent titre parmi les noms proposés par les commissions médicales
 d'établissement de chacun des établissements de la région, chaque commission
 médicale d'établissement ne pouvant proposer qu'un nom ;
 
-5° Six internes en médecine de la discipline de l'intéressé, ou six résidents
-lorsque l'intéressé appartient à cette catégorie ; les six internes ou
-résidents, affectés dans la région, sont proposés par leurs organisations
-syndicales représentatives respectives.
+5° Six internes en médecine relevant en priorité de la discipline de
+l'intéressé, ou six résidents lorsque l'intéressé appartient à cette catégorie ;
+les six internes ou résidents, affectés dans la région, sont proposés par leurs
+organisations syndicales représentatives respectives.

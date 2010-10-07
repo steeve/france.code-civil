@@ -4,7 +4,7 @@ Les dispositions du deuxième et troisième alinéas de l'article R. 6153-2 et
 celles des articles R. 6153-3 à R. 6153-7, R. 6153-12 à R. 6153-19 et R. 6153-21
 à R. 6153-24 sont applicables aux étudiants faisant fonction d'interne et aux
 anciens résidents qui accomplissent un ou deux semestres supplémentaires dans
-les établissements publics de santé autres que les hôpitaux locaux.
+les établissements publics de santé.
 
 Les dispositions des articles R. 6153-29 à R. 6153-42 s'appliquent aux étudiants
 faisant fonction d'interne mentionnés au 1° et au 2° de l'article R. 6153-42 et
@@ -20,6 +20,12 @@ Les modalités de ce tirage au sort sont fixées par arrêté des ministres char
 de l'enseignement supérieur et de la santé.
 
 Les dispositions de l'article R. 6153-10, à l'exception des quatre derniers
-alinéas du 1° et du 4° leur sont applicables ; toutefois, les émoluments
-forfaitaires mensuels mentionnés au 1° de cet article ne varient pas, pour les
-étudiants faisant fonction d'interne, en fonction de leur ancienneté.
+alinéas du 1° et du 4°, leur sont applicables.
+
+Toutefois, les émoluments forfaitaires mensuels mentionnés au 1° de l'article R.
+6153-10 ne varient pas, pour les étudiants faisant fonction d'interne, en
+fonction de leur ancienneté.
+
+Les étudiants nommés faisant fonction d'interne à l'issue de leur internat
+conservent le bénéfice du montant des émoluments qu'ils perçoivent au cours de
+leur dernière année d'internat.

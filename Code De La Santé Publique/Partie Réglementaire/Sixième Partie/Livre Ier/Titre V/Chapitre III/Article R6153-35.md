@@ -3,7 +3,8 @@ Article R6153-35
 La troisième section, compétente à l'égard des internes en odontologie, comprend
 :
 
-1° Le préfet de région, président ;
+1° Le directeur général de l'agence régionale de santé, président ou son
+représentant ;
 
 2° Un directeur d'établissement public de santé de la région, choisi sur une
 liste de trois noms proposés par la Fédération hospitalière de France ;
@@ -27,6 +28,6 @@ d'établissement de la région, chaque commission ne pouvant proposer qu'un nom 
 5° Six internes en odontologie proposés, quel que soit leur centre hospitalier
 universitaire de rattachement, par les organisations représentatives des
 intéressés ou, à défaut de telles propositions, désignés par tirage au sort par
-le préfet de région parmi les internes en fonctions. Les modalités de ce tirage
-au sort sont définies par arrêté des ministres chargés de l'enseignement
-supérieur et de la santé.
+le directeur général de l'agence régionale de santé parmi les internes en
+fonctions. Les modalités de ce tirage au sort sont définies par arrêté des
+ministres chargés de l'enseignement supérieur et de la santé.

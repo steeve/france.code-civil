@@ -6,4 +6,4 @@ notamment leurs obligations à l'égard des malades, du personnel médical et de
 l'administration hospitalière.
 
 Les obligations de présence de ces étudiants sont portées à la connaissance des
-intéressés par le chef du service d'affectation.
+intéressés par le responsable de l'entité où se déroule le stage.

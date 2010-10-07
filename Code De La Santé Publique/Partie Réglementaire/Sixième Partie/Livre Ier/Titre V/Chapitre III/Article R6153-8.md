@@ -1,24 +1,19 @@
 Article R6153-8
 ----
-Les internes sont rattachés administrativement à un centre hospitalier régional,
-selon des modalités fixées par un arrêté des ministres chargés de l'enseignement
-supérieur et de la santé, et dans les conditions suivantes :
+A l'issue de la procédure nationale de choix, les internes sont affectés par
+arrêté du directeur général du Centre national de gestion publié au Journal
+officiel de la République française. Les internes en médecine sont affectés dans
+une subdivision et une discipline. Les internes en odontologie sont affectés
+dans un centre hospitalier universitaire. Les internes en pharmacie sont
+affectés dans une interrégion et une spécialité.
 
-- par décision du directeur régional des affaires sanitaires et sociales ;
+Les affectations semestrielles sont prononcées par le directeur général de
+l'agence régionale de santé.
 
-- pour ce qui concerne la Corse, par décision conjointe du directeur régional
-des affaires sanitaires et sociales de la région Provence-Alpes-Côte d'Azur et
-du directeur de la solidarité et de la santé de Corse et de la Corse-du-Sud ;
+Les internes sont rattachés administrativement par décision du directeur général
+de l'agence régionale de santé à un centre hospitalier universitaire, selon des
+modalités fixées par un arrêté des ministres chargés de l'enseignement supérieur
+et de la santé.
 
-- pour ce qui concerne les Antilles-Guyane, par décision du directeur de la
-santé et du développement social.
-
-Les internes sont nommés par le directeur général du centre hospitalier régional
-auquel ils sont rattachés administrativement.
-
-Les internes sont affectés par le directeur régional des affaires sanitaires et
-sociales dans l'un des établissements ou organismes mentionnés à l'article L.
-632-5 du code de l'éducation, ou auprès d'un praticien agréé conformément aux
-dispositions du même article.
-
-Les internes en odontologie sont affectés par le ministre chargé de la santé.
+Les internes sont nommés par le directeur général du centre hospitalier
+universitaire auquel ils sont rattachés administrativement.

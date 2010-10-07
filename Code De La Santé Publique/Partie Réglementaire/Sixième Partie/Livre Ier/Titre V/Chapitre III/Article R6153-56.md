@@ -2,11 +2,11 @@ Article R6153-56
 ----
 La validation des stages intervient à la fin de chaque stage ou ensemble de
 stages. Elle est prononcée par le directeur de l'unité de formation et de
-recherche médicale, sur avis des responsables des services, départements ou
-structures ayant accueilli l'étudiant, au vu des connaissances dont
-l'acquisition a été validée sur le carnet de stages, et après une épreuve
-clinique organisée dans les conditions fixées par arrêté des ministres chargés
-de l'enseignement supérieur et de la santé.
+recherche médicale, sur avis des responsables des entités ayant accueilli
+l'étudiant, au vu des connaissances dont l'acquisition a été validée sur le
+carnet de stages, et après une épreuve clinique organisée dans les conditions
+fixées par arrêté des ministres chargés de l'enseignement supérieur et de la
+santé.
 
 La validation de la totalité des stages afférents à une année d'études
 conditionne le passage dans l'année supérieure.

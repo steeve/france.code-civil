@@ -1,10 +1,5 @@
 Article R6153-36
 ----
-Le préfet de la région peut se faire remplacer par le directeur régional des
-affaires sanitaires et sociales, ou, pour la première et la troisième section,
-par le médecin inspecteur régional de santé publique et, pour la deuxième
-section, par le pharmacien inspecteur régional de santé publique.
-
 Les membres du conseil autres que le président ont un suppléant qui est désigné
 dans les mêmes conditions que le titulaire.
 
@@ -18,8 +13,9 @@ mandat. Les nouveaux membres siègent jusqu'au renouvellement du conseil.
 Ne peuvent siéger au conseil de discipline pour une affaire déterminée et sont
 remplacés par leur suppléant :
 
-1° Le conjoint de l'interne concerné ou la personne ayant avec ce dernier un
-lien de parenté ou d'alliance jusqu'au quatrième degré inclus ;
+1° Le conjoint de l'interne concerné, une personne avec laquelle il est lié par
+un pacte civil de solidarité ou une personne ayant avec l'interne un lien de
+parenté ou d'alliance jusqu'au quatrième degré inclus ;
 
 2° La personne qui est à l'origine de l'instance disciplinaire ;
 

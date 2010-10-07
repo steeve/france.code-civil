@@ -1,9 +1,10 @@
 Article R6153-67
 ----
-Le ou les chefs de service veillent à la cohérence des enseignements cliniques
-assurés dans le cadre des stages avec les enseignements théoriques, et ils sont
-chargés de coordonner les stages hospitaliers de deuxième et troisième années du
-deuxième cycle et du troisième cycle court.
+Le ou les chefs de pôles ou, à défaut, responsables de l'activité d'odontologie
+veillent à la cohérence des enseignements cliniques assurés dans le cadre des
+stages avec les enseignements théoriques, et ils sont chargés de coordonner les
+stages hospitaliers de deuxième et troisième années du deuxième cycle et du
+troisième cycle court.
 
 Les enseignants sont chargés d'encadrer les étudiants pendant leurs stages et
 d'apprécier les connaissances qu'ils ont acquises au regard des objectifs

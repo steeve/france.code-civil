@@ -7,6 +7,7 @@ qui lui font encourir les sanctions disciplinaires prévues au deuxième alinéa
 l'article R. 6153-6, le stage n'est pas validé.
 
 Un stage semestriel qui, soit en application de ces dispositions, soit par
-décision des autorités universitaires compétentes, n'a pas été validé, ne peut
-entrer en compte pour le calcul de la durée totale de l'internat. Il entraîne
-l'accomplissement d'un stage semestriel supplémentaire.
+décision des autorités universitaires compétentes, n'a pas été validé, est
+comptabilisé au titre de la durée maximale pour effectuer la formation du
+troisième cycle. Il entraîne l'accomplissement d'un stage semestriel
+supplémentaire.
