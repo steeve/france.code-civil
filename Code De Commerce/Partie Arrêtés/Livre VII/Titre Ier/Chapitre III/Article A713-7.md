@@ -53,8 +53,9 @@ effectivement remis, conformément à l'article A. 713-9.
 3° Affiches électorales sur papier couleur, 100 grammes au mètre carré, sans
 travaux de repiquage, d'un format maximum de 594 mm × 841 mm.
 
-Conformément à l'article R. 27 du code électoral, les affiches ne peuvent
-comporter une combinaison des trois couleurs : bleu, blanc, rouge.
+Conformément à l'article R. 27 du code électoral, les affiches et les
+circulaires ne peuvent comporter une combinaison des trois couleurs : bleu,
+blanc, rouge.
 
 Le nombre d'affiches admises à remboursement ne peut excéder deux affiches par
 emplacement mis à disposition de chaque candidat ou groupement de candidats

@@ -1,9 +1,8 @@
 Article A713-22-1
 ----
-Par référence à l'article L. 52-11 du code électoral, le préfet du département
-du siège de la chambre fixe par arrêté un montant maximum de remboursement des
-dépenses engagées par les candidats, dans les conditions fixées à l'article A.
-713-7.
+Par référence à l'article L. 52-11 du code électoral, le préfet fixe par arrêté
+un montant maximum de remboursement des dépenses engagées par les candidats,
+dans les conditions fixées à l'article A. 713-22.
 
 La demande de remboursement est soit adressée au préfet, sous pli recommandé
 avec avis de réception, soit déposée contre décharge à la préfecture, dans le
