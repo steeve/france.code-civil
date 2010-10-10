@@ -12,12 +12,12 @@ techniques dans le domaine du bâtiment et de l'aptitude à établir les différ
 
 Les organismes autorisés à délivrer la certification des compétences sont
 accrédités par un organisme signataire de l'accord européen multilatéral pris
-dans le cadre de la coordination européenne des organismes
-d'accréditation.L'accréditation est accordée en considération de l'organisation
-interne de l'organisme en cause, des exigences requises des personnes chargées
-des missions d'examinateur et de sa capacité à assurer la surveillance des
-organismes certifiés. Un organisme certificateur ne peut pas établir de dossier
-de diagnostic technique.
+dans le cadre de la coordination européenne des organismes d'accréditation.
+L'accréditation est accordée en considération de l'organisation interne de
+l'organisme en cause, des exigences requises des personnes chargées des missions
+d'examinateur et de sa capacité à assurer la surveillance des organismes
+certifiés. Un organisme certificateur ne peut pas établir les documents qui
+doivent être établis dans les conditions prévues à l'article L. 271-6.
 
 Des arrêtés des ministres chargés du logement, de la santé et de l'industrie
 précisent les modalités d'application du présent article.
