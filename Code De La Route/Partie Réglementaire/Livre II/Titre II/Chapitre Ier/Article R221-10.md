@@ -19,6 +19,12 @@ III.-La catégorie B du permis de conduire ne permet la conduite :
 
 3° Des véhicules affectés au ramassage scolaire ;
 
-4° Des véhicules affectés au transport public de personnes, que si le conducteur
-est en possession d'une attestation délivrée par le préfet après vérification
-médicale de l'aptitude physique.
+4° Des véhicules affectés au transport public de personnes,
+
+que si le conducteur est en possession d'une attestation délivrée par le préfet
+après vérification médicale de l'aptitude physique.
+
+IV. - La catégorie A du permis de conduire ne permet la conduite des véhicules
+motorisés à deux ou trois roues utilisés pour le transport à titre onéreux de
+personnes que si le conducteur est en possession d'une attestation délivrée par
+le préfet après vérification médicale de l'aptitude physique.
