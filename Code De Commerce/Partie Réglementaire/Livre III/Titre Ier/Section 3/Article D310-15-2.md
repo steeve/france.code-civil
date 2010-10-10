@@ -7,4 +7,5 @@ du matin ; cette date est avancée au premier mercredi du mois de janvier lorsqu
 le deuxième mercredi intervient après le 12 du mois ;
 
 ― les soldes d'été débutent le dernier mercredi du mois de juin à 8 heures du
-matin.
+matin ; cette date est avancée à l'avant-dernier mercredi du mois de juin
+lorsque le dernier mercredi intervient après le 28 du mois.
