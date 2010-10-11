@@ -17,3 +17,8 @@ Ces opérateurs et prestataires sont également tenus de fournir les documents e
 les copies des documents mentionnés aux troisième et quatrième alinéas de
 l'article L. 331-21 dans un délai de quinze jours suivant la demande qui leur en
 est faite par la commission de protection des droits.
+
+Les opérateurs sont tenus d'adresser par voie électronique à l'abonné chacune
+des recommandations mentionnées respectivement au premier et au deuxième alinéa
+de l'article L. 331-25, dans un délai de vingt-quatre heures suivant sa
+transmission par la commission de protection des droits.
