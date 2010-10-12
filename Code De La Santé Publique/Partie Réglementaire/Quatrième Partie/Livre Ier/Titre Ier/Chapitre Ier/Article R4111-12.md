@@ -6,10 +6,10 @@ d'une demande accompagnée d'un dossier comportant les pièces prévues par arr�
 de ce ministre.
 
 Les demandes présentées en application du I de l'article L. 4111-2 sont formées
-par les lauréats des épreuves soit à l'issue de la période de trois ans de
-fonctions accomplies dans un service ou organisme agréé pour la formation des
-internes, soit avant cette date lorsqu'ils sollicitent la prise en compte de
-fonctions exercées avant la réussite aux épreuves.
+par les lauréats des épreuves soit à l'issue de la période de fonctions prévue,
+selon leur profession, aux quatrième, cinquième ou sixième alinéas du même I,
+soit avant cette date lorsqu'ils sollicitent la prise en compte de fonctions
+exercées avant la réussite aux épreuves.
 
 Le silence gardé par l'autorité ministérielle pendant un an sur les demandes
 présentées en application du I et pendant six mois sur celles présentées en

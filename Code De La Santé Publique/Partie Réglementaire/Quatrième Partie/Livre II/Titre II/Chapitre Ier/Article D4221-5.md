@@ -1,6 +1,10 @@
 Article D4221-5
 ----
-Les lauréats des épreuves de vérification des connaissances et de maîtrise de la
-langue française sont recrutés à temps plein dans un service ou organisme agréé
-pour la formation des internes, dans des conditions déterminées aux articles R.
-6152-542 à R. 6152-544, pour exercer des fonctions d'une durée de trois ans.
+Les fonctions requises, par les dispositions de l'article L. 4221-12, des
+candidats à l'autorisation d'exercice de la profession de pharmacien, lauréats
+des épreuves de vérification des connaissances, sont accomplies dans un service
+ou organisme mentionné au même article à temps plein ou à temps partiel pour une
+durée de trois ans en équivalent temps plein. Les candidats recrutés pour
+accomplir ces fonctions par un établissement public de santé le sont, au choix
+de l'établissement, dans les conditions définies à l'article R. 6152-542 ou à
+l'article R. 6152-635.

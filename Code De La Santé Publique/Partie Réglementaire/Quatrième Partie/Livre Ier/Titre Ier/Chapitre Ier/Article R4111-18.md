@@ -8,9 +8,17 @@ qui ne sont pas couvertes par le ou les titres de formation du demandeur et son
 expérience professionnelle.
 
 Le stage d'adaptation a pour objet de permettre aux intéressés d'acquérir les
-compétences définies à l'alinéa précédent. Il est réalisé dans l'une des
-qualités mentionnées au e du 2° de l'article L. 4131-1 et au e du 3° de
-l'article L. 4141-3 et sous la responsabilité d'un médecin, chirurgien-dentiste
-ou sage-femme selon la profession du demandeur, et est accompagné éventuellement
-d'une formation théorique complémentaire. La durée du stage n'excède pas trois
-ans.
+compétences définies à l'alinéa précédent. Il est accompli sous la
+responsabilité d'un médecin ou d'un chirurgien-dentiste, selon la profession du
+demandeur, et est accompagné éventuellement d'une formation théorique
+complémentaire. Sa durée n'excède pas trois ans.
+
+Les candidats à l'autorisation d'exercice recrutés, pour accomplir le stage
+d'adaptation, par un établissement public de santé le sont :
+
+1° S'ils sont candidats à l'autorisation d'exercice de la profession de médecin
+ou de chirurgien-dentiste, au choix de l'établissement, dans les conditions
+définies à l'article R. 6152-542 ou à l'article R. 6152-635 ;
+
+2° S'ils sont candidats à l'autorisation d'exercice de la profession de
+sage-femme, dans les conditions définies aux articles R. 6152-543 à R. 6152-550.
