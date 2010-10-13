@@ -1,19 +1,32 @@
 Article R6152-701
 ----
-Les personnels médicaux, pharmaceutiques et odontologistes, régis par les
-dispositions des sections 1 à 6 du présent chapitre bénéficient d'une réduction
-annuelle de leur temps de travail de 20 jours.
+Nul ne peut être recruté en tant que médecin, odontologiste ou pharmacien sur le
+fondement du 3° de l'article L. 6152-1 :
 
-Lorsque les fonctions ne sont pas assurées à temps plein, le nombre de jours
-alloués est réduit proportionnellement à la durée d'activité des personnels
-intéressés.
+1° S'il ne jouit de ses droits civiques dans l'Etat dont il est ressortissant ;
 
-Sont exclues de l'application de ces dispositions les périodes suivantes : congé
-bonifié, mission temporaire non rémunérée, congé de longue maladie, congé de
-longue durée ou de grave maladie, congé parental et congé de fin d'exercice.
+2° S'il a subi une condamnation incompatible avec l'exercice des fonctions.
+L'absence de condamnation est attestée par l'une des pièces suivantes :
 
-Les congés accordés au titre de la réduction du temps de travail et les congés
-bonifiés ne peuvent être pris à la suite les uns des autres.
+a) Pour les ressortissants français, un extrait du bulletin n° 2 du casier
+judiciaire datant de moins de trois mois ;
 
-Les modalités d'application du présent article sont fixées par arrêté des
-ministres chargés du budget et de la santé.
+b) Pour les ressortissants d'un Etat étranger, un extrait de casier judiciaire
+ou un document équivalent datant de moins de trois mois, délivré par une
+autorité compétente de l'Etat d'origine ou de provenance ; cette pièce peut être
+remplacée, pour les ressortissants des Etats membres de l'Union européenne ou
+parties à l'accord sur l'Espace économique européen qui exigent une preuve de
+moralité ou d'honorabilité pour l'accès à l'activité de médecin,
+chirurgien-dentiste ou pharmacien, par une attestation datant de moins de trois
+mois de l'autorité compétente de l'Etat d'origine ou de provenance certifiant
+que ces conditions de moralité ou d'honorabilité sont remplies ;
+
+3° S'il ne se trouve en position régulière au regard des obligations de service
+national de l'Etat dont il est ressortissant ;
+
+4° S'il ne remplit les conditions d'aptitude exigées pour l'exercice de sa
+fonction compte tenu des possibilités de compensation du handicap ;
+
+5° Pour les étrangers autres que ressortissants de l'Union européenne, s'il
+n'est pas en situation régulière au regard de la réglementation relative aux
+conditions de séjour et de travail.

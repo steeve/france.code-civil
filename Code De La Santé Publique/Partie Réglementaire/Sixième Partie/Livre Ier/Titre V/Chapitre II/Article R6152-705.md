@@ -1,19 +1,11 @@
 Article R6152-705
 ----
-Le compte épargne-temps est ouvert pour une durée de dix ans.
+Le contrat est conclu pour une durée de trois ans au plus. Il peut être assorti
+d'une période d'essai de deux mois au plus, renouvelable une fois.
 
-Toutefois, pour les praticiens âgés de cinquante-cinq ans à la date d'ouverture
-du compte, cette durée est prolongée jusqu'à la date de départ à la retraite.
+Le contrat est renouvelable par décision expresse.
 
-Les droits à congés acquis par le praticien au titre du compte épargne-temps
-sont, au choix de celui-ci :
+La durée totale d'engagement ne peut excéder six ans, renouvellement compris.
 
-- soit exercés en une seule fois et en totalité à compter de l'expiration du
-délai mentionné au premier alinéa du présent article ;
-
-- soit exercés progressivement ; dans ce cas, les droits acquis au titre du
-compte épargne-temps au cours d'une année sont soldés avant l'expiration d'un
-délai de dix ans à compter de leur année d'acquisition.
-
-En cas de cessation définitive de fonctions, l'intéressé est tenu au préalable
-de solder son compte épargne-temps. A défaut, il perd ses droits.
+En cas de non-renouvellement par l'une ou l'autre des parties au contrat, le
+préavis est de deux mois.

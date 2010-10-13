@@ -1,15 +1,15 @@
 Article R6152-707
 ----
-La demande d'exercice de tout ou partie du droit à congé acquis au titre du
-compte épargne-temps ne peut être rejetée qu'en raison des nécessités du
-service.
+Les praticiens recrutés sur le fondement du 3° de l'article L. 6152-1 employés à
+temps plein consacrent la totalité de leur activité professionnelle au service
+de l'établissement public de santé employeur, sans préjudice des dispositions de
+l'article L. 6152-4 et des dispositions réglementaires prises pour son
+application.
 
-Ce refus ne peut toutefois priver l'intéressé de ses droits au bénéfice du temps
-épargné. En particulier, aucun refus ne peut être opposé lorsque le temps
-épargné est égal ou supérieur au temps de service restant à courir avant la date
-du départ à la retraite sans que l'utilisation des droits puisse entraîner le
-report de la date de cessation des fonctions.
+Lorsqu'ils sont employés à temps partiel pour une durée représentant moins de
+sept demi-journées, ils peuvent, à condition d'en informer le directeur de
+l'établissement, exercer une activité rémunérée en dehors du service accompli
+dans l'établissement public de santé employeur.
 
-Le compte épargne-temps peut être utilisé de plein droit à l'issue d'un congé de
-maternité, d'adoption ou de paternité dès lors que la demande en a été faite
-auprès du directeur de l'établissement.
+Ils ne peuvent en aucun cas exercer une activité libérale au sein de
+l'établissement public de santé employeur.
