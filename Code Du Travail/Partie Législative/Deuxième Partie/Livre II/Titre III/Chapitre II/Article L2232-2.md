@@ -10,8 +10,5 @@ syndicales de salariés représentatives ayant recueilli la majorité des suffra
 exprimés en faveur des mêmes organisations à ces mêmes élections, quel que soit
 le nombre de votants.
 
-Sont également pris en compte les résultats de la mesure de l'audience prévue à
-l'article L. 2122-6, lorsqu'ils sont disponibles.
-
 L'opposition est exprimée dans un délai de quinze jours à compter de la date de
 notification de cet accord, dans les conditions prévues à l'article L. 2231-8.

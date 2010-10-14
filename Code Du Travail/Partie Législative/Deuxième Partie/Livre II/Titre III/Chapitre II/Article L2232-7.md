@@ -10,11 +10,10 @@ catégorie professionnelle déterminée relevant d'un collège électoral, sa
 validité est subordonnée à sa signature par une ou plusieurs organisations
 syndicales de salariés représentatives ayant recueilli, aux élections prises en
 compte pour la mesure de l'audience prévue au 3° de l'article L. 2122-5 ou, le
-cas échéant, dans le cadre de la mesure de l'audience prévue à l'article L.
-2122-6, au moins 30 % des suffrages exprimés dans ce collège en faveur
-d'organisations reconnues représentatives à ce niveau, quel que soit le nombre
-de votants, et à l'absence d'opposition d'une ou plusieurs organisations
-syndicales de salariés représentatives ayant recueilli dans ce collège la
-majorité des suffrages exprimés en faveur des mêmes organisations à ces mêmes
-élections ou, le cas échéant, dans le cadre de la même mesure d'audience, quel
-que soit le nombre de votants.
+cas échéant aux élections visées à l'article L. 2122-6, au moins 30 % des
+suffrages exprimés dans ce collège en faveur d'organisations reconnues
+représentatives à ce niveau, quel que soit le nombre de votants, et à l'absence
+d'opposition d'une ou plusieurs organisations syndicales de salariés
+représentatives ayant recueilli dans ce collège la majorité des suffrages
+exprimés en faveur des mêmes organisations à ces mêmes élections, quel que soit
+le nombre de votants.

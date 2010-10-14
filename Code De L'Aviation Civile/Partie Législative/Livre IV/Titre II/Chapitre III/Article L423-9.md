@@ -13,4 +13,4 @@ Dans les branches qui couvrent les activités de transport et de travail aérien
 sont représentatives, à l'égard du personnel navigant technique, les
 organisations syndicales qui remplissent les conditions prévues à l'article L.
 2122-5 du code du travail dans les collèges électoraux de personnels navigants
-techniques, ou bien les conditions prévues à l'article L. 2122-6 du même code.
+techniques.
