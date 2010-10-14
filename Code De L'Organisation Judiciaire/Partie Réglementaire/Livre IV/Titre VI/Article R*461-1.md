@@ -1,6 +1,9 @@
 Article R*461-1
 ----
-La formation statuant sur le renvoi de la question prioritaire de
-constitutionnalité est constituée conformément aux dispositions de l'article
-23-6 de l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le
-Conseil constitutionnel et aux dispositions du présent titre.
+Dès réception d'une question prioritaire de constitutionnalité transmise par une
+juridiction, l'affaire est distribuée à la chambre qui connaît des pourvois dans
+la matière considérée.
+
+La question peut être examinée par la formation prévue au premier alinéa de
+l'article L. 431-1 du présent code ou à l'article 567-1-1 du code de procédure
+pénale lorsque la solution paraît s'imposer.
