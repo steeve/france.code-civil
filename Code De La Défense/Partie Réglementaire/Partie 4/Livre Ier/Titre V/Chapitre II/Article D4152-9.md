@@ -2,9 +2,11 @@ Article D4152-9
 ----
 La direction de l'enseignement militaire supérieur : 1° Propose au chef
 d'état-major des armées l'orientation de la politique de l'enseignement
-militaire supérieur à caractère interarmées et les conditions de sa mise en
-œuvre, en vue notamment d'en conforter le rayonnement en France et à l'étranger
-;
+militaire supérieur du personnel des armées, services et organismes interarmées,
+ainsi que les conditions de sa mise en œuvre, en vue notamment d'en conforter le
+rayonnement en France et à l'étranger. Elle veille à la cohérence des projets
+pédagogiques entre les différents niveaux de l'enseignement militaire supérieur
+et à celle des parcours de formation depuis la formation initiale ;
 
 2° Soumet aux instances chargées de superviser l'enseignement militaire
 supérieur des recommandations de nature à garantir sa cohérence d'ensemble, en
