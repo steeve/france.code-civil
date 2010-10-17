@@ -1,8 +1,10 @@
 Article R531-9
 ----
-Le commissaire du Gouvernement auprès de l'Institut national de la consommation
-est le directeur général de la concurrence, de la consommation et de la
-répression des fraudes.
+Le commissaire du Gouvernement désigné auprès de la commission instituée à
+l'article L. 534-4 dans les conditions prévues au deuxième alinéa de cet article
+est également commissaire du Gouvernement auprès de l'Institut national de la
+consommation, ainsi que des commissions instituées aux articles L. 534-1 et L.
+534-7.
 
 Pour les séances du conseil d'administration, il peut se faire accompagner par
 tout collaborateur ou personne qualifiée de son choix. Il peut s'y faire
@@ -12,7 +14,7 @@ Les délibérations du conseil d'administration sont exécutoires, sauf si le
 commissaire du Gouvernement demande la suspension de cette exécution dans les
 dix jours qui suivent la délibération. Dans ce cas, le commissaire du
 Gouvernement soumet cette délibération au ministre chargé de la consommation,
-qui se prononce dans un délai d'un mois après la demande de suspension. A défaut
+qui se prononce dans un délai d'un mois après la demande de suspension.A défaut
 d'une décision de rejet expresse et motivée de la part du ministre dans ce
 délai, la délibération est exécutoire.
 

@@ -10,4 +10,7 @@ et essais ;
 c) Mettre en œuvre des actions et des campagnes d'information, de communication,
 de prévention, de formation et d'éducation sur les questions de consommation à
 destination du grand public, ainsi que des publics professionnels ou associatifs
-concernés.
+concernés ;
+
+d) Apporter un appui technique aux commissions placées auprès de lui et
+collaborer à l'instruction de leurs avis et recommandations.

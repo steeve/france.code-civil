@@ -14,9 +14,10 @@ consommation, dans les conditions prévues par la loi n° 83-675 du 26 juillet
 1983 relative à la démocratisation du secteur public ;
 
 4° Le président de la Commission de la sécurité des consommateurs, le président
-de la Commission des clauses abusives, ainsi qu'un représentant du collège des
-professionnels du Conseil national de la consommation, un ingénieur des corps de
-l'Etat et un magistrat désignés par le ministre chargé de la consommation ;
+de la Commission des clauses abusives, le président de la commission de la
+médiation de la consommation, ainsi qu'un représentant du collège des
+professionnels du Conseil national de la consommation et un ingénieur des corps
+de l'Etat désigné par le ministre chargé de la consommation ;
 
 Les membres sont nommés par arrêté du ministre chargé de la consommation pour un
 mandat de trois ans, renouvelable une fois.
@@ -26,7 +27,7 @@ mandat de tout membre qui, sans raison légitime, n'a pas participé à trois
 séances consécutives du conseil d'administration. Cette disposition n'est
 toutefois pas applicable aux membres du conseil d'administration désignés en
 raison de leur fonction de président de l'une des commissions prévues à
-l'article L. 132-2 et à l'article L. 224-1.
+l'article L. 534-1, à l'article L. 534-4 et à l'article L. 534-7.
 
 En cas de vacance survenant, pour quelque cause que ce soit, plus de six mois
 avant l'expiration du mandat, un autre membre est désigné par le ministre chargé
