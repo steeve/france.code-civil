@@ -19,6 +19,14 @@ ou hospitalières auprès d'une pharmacie à usage intérieur ou d'un établisse
 pharmaceutique mentionné à l'article L. 5124-9, autorisés à cet effet dans les
 conditions respectivement prévues aux articles R. 5126-20 et R. 5124-69.
 
+Les établissements de santé délivrant des soins à domicile peuvent également se
+procurer des médicaments réservés à l'usage hospitalier auprès d'une pharmacie à
+usage intérieur.
+
+Une convention précise les modalités d'approvisionnement des médicaments
+réservés à l'usage hospitalier qui doivent permettre de garantir la continuité
+et la sécurité de cet approvisionnement.
+
 Dans les syndicats interhospitaliers et les groupements de coopération
 sanitaire, les produits pharmaceutiques mentionnés aux précédents alinéas
 peuvent être détenus et dispensés sous la responsabilité d'un pharmacien chargé
