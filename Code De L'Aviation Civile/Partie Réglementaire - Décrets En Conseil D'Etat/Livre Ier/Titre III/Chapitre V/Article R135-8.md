@@ -9,8 +9,11 @@ candidats à cette qualification ainsi que les conditions de délivrance et de
 validité de cette qualification sont déterminées par arrêté du ministre chargé
 de l'aviation civile.
 
-Le ministre chargé de l'aviation civile peut déléguer sa signature pour délivrer
-et renouveler la qualification mentionnée au précédent alinéa aux chefs des
-services déconcentrés de l'aviation civile, au directeur de l'aviation civile
-Antilles-Guyane et au directeur du service de l'aviation civile de l'océan
-Indien, ainsi qu'aux fonctionnaires placés sous leur autorité.
+En cas d'incident, la qualification peut être suspendue par l'autorité qui l'a
+délivrée, le temps nécessaire pour assurer la sécurité et pour une durée
+maximale de deux mois.
+
+En cas de négligence grave, la qualification peut être retirée par l'autorité
+qui l'a délivrée. La décision de retrait est prise après que l'intéressé a été
+mis à même de présenter ses observations. Toutefois, en cas d'urgence, la
+décision de retrait peut être prononcée sans formalité.

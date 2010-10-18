@@ -19,3 +19,8 @@ correspondants.
 La licence de contrôleur de la circulation aérienne stagiaire autorise son
 titulaire à assurer les services du contrôle de la circulation aérienne sous la
 surveillance d'un instructeur sur la position.
+
+L'obligation de détention de la licence s'applique également au personnel
+relevant du ministre de la défense qui assure les services du contrôle de la
+circulation aérienne pour des mouvements d'aéronefs en circulation aérienne
+générale.
