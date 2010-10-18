@@ -2,22 +2,25 @@ Article R114-11
 ----
 Lorsqu'il envisage de faire application de l'article L. 114-17, le directeur de
 l'organisme le notifie à l'intéressé en précisant les faits reprochés et le
-montant de la pénalité encourue et en lui indiquant qu'il dispose d'un délai
+montant de la pénalité envisagée et en lui indiquant qu'il dispose d'un délai
 d'un mois à compter de la réception de la notification pour demander à être
 entendu, s'il le souhaite, ou pour présenter des observations écrites.
 
-Si, après réception des observations écrites ou après audition de la personne
-dans les locaux de l'organisme ou à l'issue du délai d'un mois à compter de la
-notification restée sans réponse, le directeur décide de poursuivre la
-procédure, il saisit la commission mentionnée à l'article L. 114-17 et lui
-communique, le cas échéant, les observations écrites de la personne en cause ou
-le procès-verbal de l'audition.
+Si, après réception des observations écrites ou audition de la personne
+concernée dans les locaux de l'organisme ou en l'absence de réponse de cette
+personne à l'expiration du délai mentionné à l'alinéa précédent, le directeur
+décide de poursuivre la procédure, il fixe le montant de la pénalité et le
+notifie à la personne concernée. Celle-ci peut, dans un délai d'un mois à
+compter de la réception de cette notification, former un recours gracieux contre
+la décision fixant le montant de la pénalité auprès du directeur. Dans ce cas,
+le directeur saisit la commission mentionnée au septième alinéa du I de
+l'article L. 114-17 et lui communique, le cas échéant, les observations écrites
+de la personne concernée ou le procès-verbal de son audition.
 
-La commission désigne un rapporteur en son sein. Après que le directeur de
-l'organisme ou son représentant a présenté ses observations, et après avoir
-entendu le rapporteur et la personne en cause, si celle-ci le souhaite, la
-commission rend un avis motivé, portant notamment sur la matérialité et la
-gravité des faits reprochés, sur la responsabilité de la personne et sur le
+Après que le directeur de l'organisme ou son représentant a présenté ses
+observations, et après avoir entendu la personne en cause, si celle-ci le
+souhaite, la commission rend un avis motivé, portant notamment sur la
+matérialité des faits reprochés, sur la responsabilité de la personne et sur le
 montant de la pénalité susceptible d'être appliquée.
 
 La commission doit émettre son avis dans un délai d'un mois à compter de sa
@@ -28,19 +31,20 @@ prononcée au terme du délai qui lui est imparti, l'avis est réputé rendu.
 Le directeur dispose d'un délai de trois semaines à compter de la réception de
 l'avis de la commission ou de la date à laquelle celui-ci est réputé avoir été
 rendu pour fixer le montant définitif de la pénalité et le notifier à la
-personne en cause ou pour l'aviser que la procédure est abandonnée.A défaut, la
+personne en cause ou pour l'aviser que la procédure est abandonnée. A défaut, la
 procédure est réputée abandonnée.
 
 Lors des auditions mentionnées au présent article, la personne en cause peut se
 faire assister ou se faire représenter par la personne de son choix.
 
-La notification de la pénalité s'effectue par lettre recommandée avec demande
-d'avis de réception adressée par le directeur de l'organisme à l'intéressé.
-Copie en est envoyée le même jour par lettre simple.
+Les notifications prévues au présent article s'effectuent par lettre recommandée
+avec demande d'avis de réception adressée par le directeur de l'organisme à
+l'intéressé. Copie en est envoyée le même jour par lettre simple.
 
-Elle précise la cause, la nature et le montant des sommes réclamées et mentionne
-l'existence d'un délai d'un mois à partir de sa réception imparti au débiteur
-pour s'acquitter des sommes réclamées ainsi que les voies et délais de recours.
+La décision fixant le montant définitif de la pénalité précise la cause, la
+nature et le montant des sommes réclamées et mentionne l'existence d'un délai
+d'un mois à partir de sa réception imparti au débiteur pour s'acquitter des
+sommes réclamées ainsi que les voies et délais de recours.
 
 La mise en demeure prévue à l'article L. 114-17 est adressée par lettre
 recommandée avec demande d'avis de réception. Elle comporte les mêmes mentions
