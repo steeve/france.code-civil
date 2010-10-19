@@ -4,7 +4,8 @@ Les services de l'armée de terre sont :
 
 1° Le matériel de l'armée de terre ;
 
-2° (Supprimé).
+2° La structure intégrée du maintien en condition opérationnelle des matériels
+terrestres.
 
 Leurs attributions sont fixées par décret.
 
