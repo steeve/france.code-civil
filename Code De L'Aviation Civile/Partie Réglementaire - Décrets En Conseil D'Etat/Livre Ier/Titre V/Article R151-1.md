@@ -20,3 +20,8 @@ auront participé à ces manifestations ;
 6° Ceux qui auront réalisé des enregistrements d'images ou de données dans le
 champ du spectre visible au-dessus du territoire national sans avoir souscrit
 une déclaration dans les délais et conditions prévus par l'article D. 133-10.
+
+Est puni de l'amende prévue pour les contraventions de la troisième classe le
+fait pour le pilote et pour l'exploitant ou le propriétaire d'un hélicoptère de
+ne pas respecter les limitations fixées par le préfet en application de
+l'article D. 132-6-1.
