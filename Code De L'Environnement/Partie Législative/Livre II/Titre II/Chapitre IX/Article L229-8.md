@@ -1,5 +1,8 @@
 Article L229-8
 ----
+Les dispositions du présent article s'appliquent aux installations mentionnées à
+l'article L. 229-5.
+
 I.-Les quotas d'émission de gaz à effet de serre sont affectés par l'Etat pour
 une durée de trois ans à compter du 1er janvier 2005, puis par périodes de cinq
 ans, dans le cadre d'un plan national établi pour chaque période.

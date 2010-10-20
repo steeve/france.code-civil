@@ -3,8 +3,8 @@ Article L229-30
 Les travaux de recherche de formations souterraines aptes au stockage géologique
 de dioxyde de carbone ne peuvent être entrepris qu'en vertu d'un permis exclusif
 de recherche de formations souterraines aptes au stockage géologique de dioxyde
-de carbone délivré ou prorogé dans les conditions prévues aux articles 9 et 10
-du code minier.
+de carbone délivré ou prorogé, à une unique personne physique ou morale dans les
+conditions prévues aux articles 9 et 10 du code minier.
 
 Si les formations souterraines recherchées sont déjà couvertes par des titres
 miniers ou des titres de stockage souterrain, les recherches sont entreprises

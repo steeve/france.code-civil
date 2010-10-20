@@ -1,6 +1,6 @@
 Article L521-12
 ----
-I.-Outre les officiers et agents de police judiciaire agissant conformément au
+I. - Outre les officiers et agents de police judiciaire agissant conformément au
 code de procédure pénale, sont habilités à procéder aux contrôles nécessaires en
 vue de vérifier le respect des obligations du présent chapitre et, dans
 l'exercice de leurs fonctions, à la recherche et à la constatation des
@@ -8,7 +8,7 @@ infractions au présent chapitre et aux textes pris pour son application :
 
 1° Les agents assermentés et commissionnés dans des conditions déterminées par
 décret en Conseil d'Etat, appartenant aux services de l'Etat chargés de
-l'environnement, de l'agriculture et des transports ;
+l'agriculture et des transports ;
 
 2° Les inspecteurs des installations classées ;
 
@@ -32,6 +32,13 @@ santé mentionnés à l'article L. 5313-1 du code de la santé publique ;
 10° Les agents habilités à effectuer des contrôles techniques à bord des
 aéronefs ;
 
+10° bis Les agents assermentés, désignés à cet effet par le ministre de la
+défense ou par le ministre chargé de l'environnement ;
+
+10° ter Les inspecteurs de la sûreté nucléaire de l'Autorité de sûreté nucléaire
+mentionnés à l'article 40 de loi n° 2006-686 du 13 juin 2006 relative à la
+transparence et à la sécurité en matière nucléaire ;
+
 11° Les administrateurs et les inspecteurs des affaires maritimes, les officiers
 du corps technique et administratif des affaires maritimes, les contrôleurs des
 affaires maritimes et les syndics des gens de mer, les commandants, les
@@ -39,7 +46,7 @@ commandants en second et les officiers en second des bâtiments de l'Etat ainsi
 que les commandants de bord des aéronefs de l'Etat chargés de la surveillance en
 mer.
 
-II.-Les agents mentionnés au I du présent article sont également habilités à
+II. - Les agents mentionnés au I du présent article sont également habilités à
 procéder aux contrôles nécessaires en vue de vérifier le respect des
 dispositions des règlements ci-dessous et des règlements et décisions
 communautaires qui les modifieraient ou seraient pris pour leur application :
@@ -60,9 +67,13 @@ CE et 2000 / 21 / CE de la Commission ;
 2004, concernant les polluants organiques persistants et modifiant la directive
 79 / 117 / CEE ;
 
--Règlement (CE) n° 304 / 2003 du Parlement européen et du Conseil, du 28 janvier
-2003, concernant les exportations et importations de produits chimiques
-dangereux ;
+- Règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre
+2008 concernant la classification, l'étiquetage et l'emballage des substances et
+des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et
+modifiant le règlement (CE) n° 1907/2006 ;
 
--Règlement (CE) n° 2037 / 2000 du Parlement européen et du Conseil, du 29 juin
-2000, relatif à des substances qui appauvrissent la couche d'ozone.
+- Règlement (CE) n° 689/2008 du Parlement européen et du Conseil du 17 juin 2008
+concernant les exportations et importations de produits chimiques dangereux ;
+
+- Règlement (CE) n° 1005/2009 du Parlement européen et du Conseil du 16
+septembre 2009 relatif à des substances qui appauvrissent la couche d'ozone.

@@ -1,16 +1,23 @@
 Article L229-18
 ----
-I. - L'exploitant ne peut céder les quotas qu'il détient, dans la limite de ceux
-qui lui ont été délivrés au titre d'une installation et d'une année déterminée :
+I.-L'exploitant ne peut céder les quotas qu'il détient, dans la limite de ceux
+qui lui ont été délivrés au titre d'une installation ou de ses activités
+aériennes et d'une année déterminée :
 
-- en cas d'absence de déclaration des émissions de l'installation au cours de
-cette année faite par l'exploitant avant une date fixée par décret ;
+-en cas d'absence de déclaration de sa part des émissions de l'installation ou
+résultant de ses activités aériennes au cours de cette année avant une date
+fixée par décret ;
 
-- ou lorsque l'inspection des installations classées constate que la déclaration
+-ou lorsque l'inspection des installations classées constate que la déclaration
 relative aux émissions de l'installation au cours de cette année ne répond pas
-aux conditions fixées par l'arrêté prévu à l'article L. 229-6. La décision, qui
-doit être motivée, intervient alors au plus tard à l'expiration du délai
-mentionné au III de l'article L. 229-14.
+aux conditions fixées par l'arrêté relatif aux installations prévu à l'article
+L. 229-6. La décision, qui doit être motivée, intervient alors au plus tard à
+l'expiration du délai mentionné au III de l'article L. 229-14 ;
+
+-ou lorsque l'autorité compétente constate que la déclaration relative aux
+émissions résultant de ses activités aériennes de l'année, ou la vérification de
+celle-ci, ne répondent pas aux conditions fixées par l'arrêté relatif aux
+exploitants d'aéronef prévu à l'article L. 229-6.
 
 L'exploitant recouvre la disponibilité de ses quotas lorsqu'une déclaration de
 sa part a été jugée satisfaisante ou, à défaut, lorsque le volume des émissions
@@ -20,7 +27,7 @@ insatisfaisant de sa déclaration ou, en cas d'absence de déclaration, au plus
 tard le 31 mai. Un arrêté précise les méthodes utilisées pour ce calcul et les
 conditions dans lesquelles l'exploitant est préalablement consulté.
 
-II. - Chaque année, lorsqu'à une date fixée par décret l'exploitant ou le
+II.-Chaque année, lorsqu'à une date fixée par décret l'exploitant ou le
 mandataire n'a pas restitué un nombre de quotas suffisant pour couvrir ses
 émissions de l'année précédente, et lorsque l'autorité chargée de la tenue du
 registre national a informé l'autorité administrative de l'inobservation de
@@ -45,3 +52,8 @@ matière de créances étrangères à l'impôt et au domaine.
 
 La décision prononçant l'amende peut en outre prévoir que le nom de l'exploitant
 ou du mandataire sera rendu public lorsqu'elle sera devenue définitive.
+
+Au cas où un exploitant d'aéronef mentionné à l'article L. 229-5 ne se conforme
+pas aux exigences du présent II, il peut faire l'objet d'une interdiction
+d'exploitation dans les conditions prévues à l'article 16 de la directive 2003 /
+87 / CE du 13 octobre 2003.

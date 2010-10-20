@@ -23,4 +23,4 @@ pénal, sauf à l'égard des autorités judiciaires agissant dans le cadre d'une
 procédure pénale.
 
 Un décret fixe les conditions permettant la protection du secret de la formule
-intégrale des préparations.
+intégrale des mélanges.

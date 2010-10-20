@@ -6,9 +6,11 @@ permis exclusif de recherches est de droit lorsque le titulaire a satisfait à
 ses obligations.
 
 Si les formations souterraines recherchées sont déjà couvertes par des titres
-miniers, les recherches sont entreprises avec le consentement des détenteurs de
-ces titres miniers. A défaut, le différend est soumis à l'arbitrage du ministre
-chargé des mines, après avis du Conseil général des mines.
+miniers ou une concession de stockage géologique de dioxyde de carbone, les
+recherches sont entreprises avec le consentement des détenteurs de ces titres
+miniers ou du détenteur d'une concession de stockage géologique de dioxyde de
+carbone. A défaut, le différend est soumis à l'arbitrage du ministre chargé des
+mines, après avis du Conseil général des mines.
 
 Le titulaire d'une concession de stockage souterrain ou d'une concession de
 mines d'hydrocarbures liquides ou gazeux peut seul, dans le même périmètre,

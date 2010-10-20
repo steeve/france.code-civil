@@ -5,8 +5,8 @@ les détériorations directes ou indirectes mesurables de l'environnement qui :
 
 1° Créent un risque d'atteinte grave à la santé humaine du fait de la
 contamination des sols résultant de l'introduction directe ou indirecte, en
-surface ou dans le sol, de substances, préparations, organismes ou
-micro-organismes ;
+surface ou dans le sol, de substances, mélanges, organismes ou micro-organismes
+;
 
 2° Affectent gravement l'état écologique, chimique ou quantitatif ou le
 potentiel écologique des eaux, à l'exception des cas prévus au VII de l'article

@@ -5,8 +5,7 @@ rejeter la demande d'une information relative à l'environnement dont la
 consultation ou la communication porte atteinte :
 
 1° Aux intérêts mentionnés à l'article 6 de la loi n° 78-753 du 17 juillet 1978
-précitée, à l'exception de ceux visés aux sixième et dernier alinéas du I de cet
-article ;
+précitée, à l'exception de ceux visés au e et au h du 2° du I de cet article ;
 
 2° A la protection de l'environnement auquel elle se rapporte ;
 
