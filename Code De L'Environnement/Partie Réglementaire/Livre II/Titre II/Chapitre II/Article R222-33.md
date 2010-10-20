@@ -3,12 +3,12 @@ Article R222-33
 Les installations fixes de combustion, définies au tableau annexé au présent
 article, peuvent être soumises à des prescriptions ayant pour objet :
 
-1° De limiter pour chacun des polluants énumérés au tableau annexé à l'article
-R. 221-1 les concentrations de ceux-ci dans les gaz de combustion, cette
-limitation pouvant être différenciée en fonction des caractéristiques de
-l'installation, notamment en fonction de sa puissance, telle que définie au
-tableau annexé au présent article, de son usage, de son entretien, du
-combustible utilisé et des conditions de diffusion des gaz de combustion ;
+1° De limiter pour chacun des polluants énumérés à l'article R. 221-1 les
+concentrations de ceux-ci dans les gaz de combustion, cette limitation pouvant
+être différenciée en fonction des caractéristiques de l'installation, notamment
+en fonction de sa puissance, telle que définie au tableau annexé au présent
+article, de son usage, de son entretien, du combustible utilisé et des
+conditions de diffusion des gaz de combustion ;
 
 2° D'obliger l'exploitant à conserver pendant trois ans les factures de
 combustible ainsi que tous documents permettant aux agents habilités à cet effet

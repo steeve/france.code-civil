@@ -11,10 +11,10 @@ fixés par le tableau annexé à l'article R. 221-1, et de son évolution prévi
 2° Une évaluation des effets de la qualité de l'air sur la santé, sur les
 conditions de vie, sur les milieux naturels et agricoles et sur le patrimoine ;
 
-3° Un inventaire des principales émissions des substances polluantes
-distinguant, chaque fois que possible, pour chaque polluant considéré, les
-différentes catégories de sources et individualisant les sources les plus
-importantes, ainsi qu'une estimation de l'évolution de ces émissions ;
+3° Un inventaire des principales émissions des polluants distinguant, chaque
+fois que possible, pour chaque polluant considéré, les différentes catégories de
+sources et individualisant les sources les plus importantes, ainsi qu'une
+estimation de l'évolution de ces émissions ;
 
 4° Un relevé des principaux organismes qui contribuent, dans la région, à la
 connaissance de la qualité de l'air et de son impact sur l'homme et
