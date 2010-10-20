@@ -73,15 +73,19 @@ destinataires des factures et les montants de redevance correspondants. Ces
 registres sont mis à disposition des agences de l'eau et de l'autorité
 administrative.
 
-V. ― Entre 2012 et 2018, il est effectué un prélèvement annuel sur le produit de
-la redevance au profit de l'Office national de l'eau et des milieux aquatiques
-afin de mettre en œuvre le programme national visant à la réduction de l'usage
-des pesticides dans l'agriculture et à la maîtrise des risques y afférents. Ce
-prélèvement, plafonné à 41 millions d'euros, est réparti entre les agences de
-l'eau proportionnellement au produit annuel qu'elles tirent de cette redevance.
-Ces contributions sont liquidées, ordonnancées et recouvrées, selon les
-modalités prévues pour les recettes des établissements publics de l'Etat, avant
-le 1er septembre de chaque année.
+V.-La fraction du produit annuel de la redevance, comprenant le montant dû au
+titre de l'année précédente et l'acompte versé au titre de l'année en cours,
+excédant le montant de la redevance perçue à raison des ventes réalisées au
+cours de la période du 1er janvier au 31 décembre 2008, est affectée à l'Office
+national de l'eau et des milieux aquatiques au plus tard le 1er septembre de
+chaque année, afin de mettre en œuvre le programme national arrêté par le
+ministre chargé de l'agriculture, visant à la réduction de l'usage des
+pesticides dans l'agriculture et à la maîtrise des risques y afférents, en
+particulier à travers des actions d'information des utilisateurs de produits
+phytopharmaceutiques, des actions de mise au point et de généralisation de
+systèmes agricoles permettant de réduire l'utilisation des pesticides, des
+programmes et réseaux de surveillance sur les bio-agresseurs et sur les effets
+non intentionnels de l'utilisation des pesticides, notamment en zone agricole.
 
 VI.-Un décret en Conseil d'Etat précise les modalités d'application du présent
 article.
