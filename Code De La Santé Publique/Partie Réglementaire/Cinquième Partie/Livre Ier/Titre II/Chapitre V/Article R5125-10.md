@@ -13,7 +13,11 @@ produits classés comme stupéfiants ainsi qu'il est prévu à l'article R. 5132
 l'article L. 4211-2 ;
 
 4° Le cas échéant, un emplacement destiné à l'exécution des analyses de biologie
-médicale autorisées.
+médicale autorisées ;
+
+5° Le cas échéant, un emplacement destiné au stockage des déchets mentionnés à
+l'article R. 1335-8-1, rassemblés dans des collecteurs fermés définitivement,
+conformément aux dispositions de l'article R. 1335-6.
 
 Les activités spécialisées d'optique-lunetterie, d'audioprothèse et d'orthopédie
 font l'objet d'un rayon individualisé et, le cas échéant, d'un espace permettant

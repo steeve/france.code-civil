@@ -7,9 +7,10 @@ communes dans les conditions définies à l'article L. 2224-14 du code général
 collectivités territoriales. Les résidus issus du pré-traitement ne peuvent
 cependant être compostés.
 
-Les appareils de désinfection mentionnés à l'alinéa précédent sont agréés par
-arrêté des ministres chargés de l'environnement, du travail et de la santé. Les
-modalités de l'agrément et les conditions de mise en oeuvre des appareils de
-désinfection sont fixées par arrêté des ministres chargés de l'environnement, de
-l'industrie, du travail et de la santé, après avis du Haut Conseil de la santé
-publique.
+Avant leur première mise sur le marché, les appareils de désinfection doivent
+obtenir une attestation de conformité délivrée par un organisme accrédité. Les
+exigences auxquelles doit satisfaire l'organisme accrédité, les modalités selon
+lesquelles est délivrée l'attestation de conformité et les conditions
+d'utilisation de ces appareils sont fixées par arrêté des ministres chargés de
+l'environnement, de l'industrie, de la santé et du travail pris après avis du
+Haut Conseil de la santé publique.

@@ -10,5 +10,5 @@ dans un tel établissement ;
 2° A la personne morale pour le compte de laquelle un professionnel de santé
 exerce son activité productrice de déchets ;
 
-3° Dans les autres cas, à la personne physique qui exerce l'activité productrice
-de déchets.
+3° Dans les autres cas, à la personne physique qui exerce à titre professionnel
+l'activité productrice de déchets.
