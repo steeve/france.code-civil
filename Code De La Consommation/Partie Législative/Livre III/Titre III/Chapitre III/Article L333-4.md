@@ -15,7 +15,8 @@ des personnes qui sollicitent un crédit. Toutefois, l'inscription d'une personn
 physique au sein du fichier n'emporte pas interdiction de délivrer un crédit.
 
 Le fichier peut fournir un élément d'appréciation à l'usage des établissements
-de crédit dans leurs décisions d'attribution des moyens de paiement.
+de crédit et des établissements de paiement dans leurs décisions d'attribution
+des moyens de paiement.
 
 Les informations qu'il contient peuvent également être prises en compte par les
 mêmes établissements et organismes mentionnés au deuxième alinéa pour la gestion

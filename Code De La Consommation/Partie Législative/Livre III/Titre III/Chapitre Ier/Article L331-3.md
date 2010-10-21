@@ -6,14 +6,14 @@ lui déclare les éléments actifs et passifs de son patrimoine.
 La commission dispose d'un délai de trois mois à compter du dépôt du dossier
 pour examiner la recevabilité de la demande en vérifiant que le demandeur se
 trouve dans la situation définie au premier alinéa de l'article L. 330-1,
-notifier au demandeur, aux créanciers, aux établissements de paiement et aux
-établissements de crédit teneurs de comptes du déposant la décision relative à
-la recevabilité du dossier, procéder à son instruction et décider de son
-orientation. Si, au terme de ce délai, la commission n'a pas décidé de
-l'orientation du dossier, le taux d'intérêt applicable à tous les emprunts en
-cours contractés par le débiteur est, au cours des trois mois suivants, le taux
-de l'intérêt légal, sauf décision contraire de la commission ou du juge
-intervenant au cours de cette période.
+notifier au demandeur la décision d'irrecevabilité du dossier ou notifier au
+demandeur, aux créanciers, aux établissements de paiement et aux établissements
+de crédit teneurs de comptes du déposant la décision de recevabilité du dossier,
+procéder à son instruction et décider de son orientation. Si, au terme de ce
+délai, la commission n'a pas décidé de l'orientation du dossier, le taux
+d'intérêt applicable à tous les emprunts en cours contractés par le débiteur
+est, au cours des trois mois suivants, le taux de l'intérêt légal, sauf décision
+contraire de la commission ou du juge intervenant au cours de cette période.
 
 En cas de rejet d'un avis de prélèvement postérieur à la notification de la
 décision de recevabilité, l'établissement de crédit ou l'établissement de
@@ -32,9 +32,9 @@ Après avoir été informés par la commission de l'état du passif déclaré pa
 débiteur, les créanciers disposent d'un délai de trente jours pour fournir, en
 cas de désaccord sur cet état, les justifications de leurs créances en
 principal, intérêts et accessoires.A défaut, la créance est prise en compte par
-la commission au vu des seuls éléments fournis par le débiteur.L'information des
-créanciers peut être effectuée par télécopie ou par courrier électronique dans
-des conditions fixées par décret. Les créanciers indiquent également si les
+la commission au vu des seuls éléments fournis par le débiteur. L'information
+des créanciers peut être effectuée par télécopie ou par courrier électronique
+dans des conditions fixées par décret. Les créanciers indiquent également si les
 créances en cause ont donné lieu à une caution et si celle-ci a été actionnée.
 
 Lorsque la commission constate que le remboursement d'une ou plusieurs dettes du
@@ -68,7 +68,7 @@ situation irrémédiablement compromise définie au troisième alinéa de l'arti
 L. 330-1 et dispose de biens autres que ceux mentionnés au 1° du même article,
 la commission, après avoir convoqué le débiteur et obtenu son accord, saisit le
 juge de l'exécution aux fins d'ouverture d'une procédure de rétablissement
-personnel avec liquidation judiciaire.L'absence de réponse du débiteur aux
+personnel avec liquidation judiciaire. L'absence de réponse du débiteur aux
 convocations vaut refus de cette saisine. En cas de refus du débiteur, la
 commission reprend sa mission dans les termes des articles L. 331-6, L. 331-7,
 L. 331-7-1 et L. 331-7-2.

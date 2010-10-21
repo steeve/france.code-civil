@@ -22,7 +22,7 @@ justifiant pour l'une d'une expérience dans le domaine de l'économie sociale e
 familiale, pour l'autre d'un diplôme et d'une expérience dans le domaine
 juridique.
 
-Les membres de la commission peuvent se faire représenter par un suppléant selon
-des modalités fixées par décret.
+Les membres de la commission mentionnés aux 1°, 2° et 3° peuvent se faire
+représenter par un suppléant selon des modalités fixées par décret.
 
 La commission adopte un règlement intérieur rendu public.
