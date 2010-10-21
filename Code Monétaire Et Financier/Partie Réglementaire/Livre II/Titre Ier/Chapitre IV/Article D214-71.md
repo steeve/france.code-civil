@@ -2,7 +2,7 @@ Article D214-71
 ----
 Les demandes établies par les entreprises afin d'obtenir la reconnaissance du
 caractère innovant de leurs produits, procédés ou techniques, mentionnée à
-l'article L. 214-41, sont déposées auprès de la société OSEO ANVAR.
+l'article L. 214-41, sont déposées auprès de la société anonyme OSEO.
 
 Elles doivent être accompagnées :
 
@@ -24,12 +24,12 @@ résultats prévisionnels de l'entreprise pour les trois premières années où 
 sera mis en oeuvre.
 
 Ces demandes sont instruites dans les mêmes conditions que les demandes d'aides
-à l'innovation attribuées par la société OSEO ANVAR. Elles font l'objet d'une
+à l'innovation attribuées par la société anonyme OSEO. Elles font l'objet d'une
 décision du directeur général de l'agence ou de son délégué prise après avis de
 la commission territoriale d'attribution des aides à l'innovation.
 
 Pour l'instruction des demandes déposées par les sociétés mentionnées au premier
-alinéa du 1 du I quinquies de l'article L. 214-41, la société OSEO ANVAR peut
+alinéa du 1 du I quinquies de l'article L. 214-41, la société anonyme OSEO peut
 demander en tant que de besoin à ces dernières de lui produire les documents
 prévus aux 1° à 4° pour chaque filiale mentionnée au d du 1 du I quinquies
 précité, ainsi que les documents prévus aux 3° et 4° pour chacune des autres
