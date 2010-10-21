@@ -22,15 +22,15 @@ ou
 Nécessitant des reprises en sous-oeuvre ou des travaux de soutènement d'ouvrages
 voisins, sur une hauteur supérieure à 5 mètres ;
 
-4° Lorsqu'ils sont situés dans les zones de sismicité II et III délimitées par
-l'annexe à l'article R563-4 du code de l'environnement, des immeubles dont le
-plancher bas du dernier niveau est situé à plus de 8 mètres par rapport au
+4° Lorsqu'ils sont situés dans les zones de sismicité 4 ou 5 délimitées
+conformément à l'article R. 563-4 du code de l'environnement, des immeubles dont
+le plancher bas du dernier niveau est situé à plus de 8 mètres par rapport au
 niveau du sol ;
 
-5° Lorsqu'ils sont situés dans les zones de sismicité I a, I b, II et III
-délimitées par l'annexe à l'article R563-4 du code de l'environnement, des
-bâtiments appartenant aux classes C et D au sens de l'article R563-3 du même
-code et des établissements de santé, lorsqu'ils n'y sont pas déjà soumis au
+5° Lorsqu'ils sont situés dans les zones de sismicité 2,3,4 ou 5, délimitées
+conformément à l'article R. 563-4 du code de l'environnement, des bâtiments
+appartenant aux catégories d'importance III et IV au sens de l'article R563-3 du
+même code et des établissements de santé, lorsqu'ils n'y sont pas déjà soumis au
 titre d'une autre disposition du présent article ;
 
 6° d'éoliennes dont la hauteur du mât et de la nacelle au-dessus du sol est

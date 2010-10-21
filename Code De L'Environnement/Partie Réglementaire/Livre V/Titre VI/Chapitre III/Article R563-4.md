@@ -1,18 +1,17 @@
 Article R563-4
 ----
 I. - Pour l'application des mesures de prévention du risque sismique aux
-bâtiments, équipements et installations de la catégorie dite " à risque normal
-", le territoire national est divisé en cinq zones de sismicité croissante :
+bâtiments, équipements et installations de la classe dite "à risque normal", le
+territoire national est divisé en cinq zones de sismicité croissante :
 
-1° Zone 0 ;
+1° Zone de sismicité 1 (très faible) ;
 
-2° Zone I a ;
+2° Zone de sismicité 2 (faible) ;
 
-3° Zone I b ;
+3° Zone de sismicité 3 (modérée) ;
 
-4° Zone II ;
+4° Zone de sismicité 4 (moyenne) ;
 
-5° Zone III.
+5° Zone de sismicité 5 (forte).
 
-II. - La répartition des départements, des arrondissements et des cantons entre
-ces zones est définie à l'annexe du présent article.
+II. - La répartition des communes entre ces zones est effectuée par décret.

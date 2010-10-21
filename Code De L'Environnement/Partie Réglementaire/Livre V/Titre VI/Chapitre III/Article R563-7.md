@@ -2,7 +2,7 @@ Article R563-7
 ----
 Des mesures préventives, notamment des règles de construction, d'aménagement et
 d'exploitation parasismiques, sont appliquées aux bâtiments, aux équipements et
-aux installations de la catégorie dite " à risque spécial ".
+aux installations de la classe dite " à risque spécial ".
 
 Pour l'application de ces mesures, des arrêtés pris, conjointement, par le
 ministre chargé de la prévention des risques majeurs et les ministres concernés
