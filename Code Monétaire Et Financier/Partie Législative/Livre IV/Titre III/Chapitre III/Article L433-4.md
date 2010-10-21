@@ -7,27 +7,28 @@ suivants :
 1° Lorsque le ou les actionnaires majoritaires d'une société dont le siège
 social est établi en France et dont les actions sont admises aux négociations
 sur un marché réglementé ou dont les titres ont cessé d'être négociés sur un
-marché réglementé d'un Etat membre de la Communauté européenne ou d'un autre
-Etat partie à l'accord sur l'Espace économique européen détiennent de concert,
-au sens de l'article L. 233-10 du code de commerce, une fraction déterminée des
+marché réglementé d'un Etat membre de l'Union européenne ou d'un autre Etat
+partie à l'accord sur l'Espace économique européen détiennent de concert, au
+sens de l'article L. 233-10 du code de commerce, une fraction déterminée des
 droits de vote ;
 
 2° Lorsqu'une société dont le siège social est établi en France et dont les
 actions sont admises aux négociations sur un marché réglementé d'un Etat membre
-de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
+de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace
 économique européen prend la forme d'une société en commandite par actions ;
 
 3° Lorsque la ou les personnes physiques ou morales qui contrôlent, au sens de
 l'article L. 233-3 du code de commerce, une société dont le siège est établi en
 France et dont les actions sont admises aux négociations sur un marché
-réglementé d'un Etat membre de la Communauté européenne ou d'un autre Etat
-partie à l'accord sur l'Espace économique européen se proposent de soumettre à
+réglementé d'un Etat membre de l'Union européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen se proposent de soumettre à
 l'approbation d'une assemblée générale extraordinaire une ou plusieurs
 modifications significatives des dispositions statutaires, notamment relatives à
 la forme de la société, aux conditions de cession et de transmission des titres
 de capital ainsi qu'aux droits qui y sont attachés, ou décident le principe de
-la fusion de cette société, de la cession ou de l'apport à une autre société de
-la totalité ou du principal des actifs, de la réorientation de l'activité
+la fusion de cette société avec la société qui la contrôle ou avec une autre
+société contrôlée par celle-ci, de la cession ou de l'apport à une autre société
+de la totalité ou du principal des actifs, de la réorientation de l'activité
 sociale ou de la suppression, pendant plusieurs exercices, de toute rémunération
 de titres de capital. Dans ces cas, l'Autorité des marchés financiers apprécie
 les conséquences de l'opération au regard des droits et des intérêts des
@@ -74,3 +75,11 @@ remboursement, ou de toute autre manière, des titres donnant ou pouvant donner
 accès au capital non présentés, une fois additionnés avec les titres de capital
 existants non présentés, ne représentent pas plus de 5 % de la somme des titres
 de capital existants et susceptibles d'être créés.
+
+V. - Le 1° du I et les II à IV sont également applicables, dans les conditions
+et selon les modalités fixées par le règlement général de l'Autorité des marchés
+financiers, aux instruments financiers négociés sur tout marché d'instruments
+financiers ne constituant pas un marché réglementé d'un Etat membre de l'Union
+européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen, lorsque la personne qui gère ce marché en fait la demande auprès de
+cette autorité.
