@@ -27,4 +27,8 @@ d'investissement ;
 7. Les services et activités assimilables à des services d'investissement ou à
 des services connexes, portant sur l'élément sous-jacent des instruments
 financiers à terme dont la liste est fixée par décret, lorsqu'ils sont liés à la
-prestation de services d'investissement ou de services connexes.
+prestation de services d'investissement ou de services connexes ;
+
+8. Le service de notation de crédit mentionné aux a et o du 1 de l'article 3 du
+règlement (CE) n° 1060/2009 du Parlement européen et du Conseil, du 16 septembre
+2009, sur les agences de notation de crédit.

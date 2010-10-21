@@ -5,11 +5,12 @@ Le règlement général de l'Autorité des marchés financiers détermine notamm
 I.-Les règles de pratique professionnelle qui s'imposent aux émetteurs
 lorsqu'ils procèdent à une offre au public ou dont les instruments financiers
 sont admis aux négociations sur un marché réglementé ainsi que les règles qui
-doivent être respectées lors d'opérations sur des instruments financiers admis
-aux négociations sur un marché réglementé ou sur un système multilatéral de
-négociation qui se soumet aux dispositions législatives ou réglementaires visant
-à protéger les investisseurs contre les opérations d'initiés, les manipulations
-de cours et la diffusion de fausses informations.
+doivent être respectées lors d'opérations sur des instruments financiers et des
+actifs mentionnés au II de l'article L. 421-1 admis aux négociations sur un
+marché réglementé ou sur un système multilatéral de négociation qui se soumet
+aux dispositions législatives ou réglementaires visant à protéger les
+investisseurs contre les opérations d'initiés, les manipulations de cours et la
+diffusion de fausses informations.
 
 II.-Les règles relatives aux offres publiques d'acquisition portant sur des
 titres financiers admis aux négociations sur un marché réglementé.
@@ -40,7 +41,11 @@ leurs adhérents ;
 5° Les conditions dans lesquelles, en application de l'article L. 440-1,
 l'Autorité des marchés financiers approuve les règles des chambres de
 compensation, sans préjudice des compétences conférées à la Banque de France par
-l'article L. 141-4.
+l'article L. 141-4 ;
+
+6° Les conditions d'exercice, par les membres d'un marché réglementé,
+d'activités pour compte propre et pour compte de tiers sur des actifs mentionnés
+au II de l'article L. 421-1.
 
 V.-Concernant les activités de gestion pour le compte de tiers et les placements
 collectifs :
@@ -76,17 +81,18 @@ lesquelles l'Autorité des marchés financiers approuve les règles de
 fonctionnement de ces systèmes, sans préjudice des compétences conférées à la
 Banque de France par l'article L. 141-4.
 
-VII.-Concernant les marchés réglementés d'instruments financiers, les
+VII.-Concernant les marchés réglementés au sens de l'article L. 421-1, les
 entreprises de marché et les systèmes multilatéraux de négociation :
 
 1° Les principes généraux d'organisation et de fonctionnement que doivent
 respecter les marchés réglementés, ainsi que les règles relatives à l'exécution
-des transactions sur instruments financiers admis sur ces marchés ;
+des transactions sur instruments financiers et actifs mentionnés au II de
+l'article L. 421-1 admis sur ces marchés ;
 
 2° Les conditions dans lesquelles l'Autorité des marchés financiers, en
 application des articles L. 421-4, L. 421-5 et L. 421-10, propose la
-reconnaissance, la révision ou le retrait de la qualité de marché réglementé
-d'instruments financiers ;
+reconnaissance, la révision ou le retrait de la qualité de marché réglementé au
+sens de l'article L. 421-1 ;
 
 3° Les principes généraux d'organisation et de fonctionnement des systèmes
 multilatéraux de négociation ;
@@ -99,8 +105,9 @@ entreprise de marché à gérer un système multilatéral de négociation,
 conformément aux dispositions du second alinéa de l'article L. 424-1 ;
 
 6° Les règles relatives à l'information de l'Autorité des marchés financiers et
-du public concernant les ordres et les transactions sur instruments financiers
-admis sur un marché réglementé.
+du public concernant les ordres, les transactions et les positions sur
+instruments financiers et actifs mentionnés au II de l'article L. 421-1 admis
+sur un marché réglementé.
 
 VIII.-Concernant les personnes, autres que celles mentionnées aux 1° et 7° du II
 de l'article L. 621-9, qui produisent et diffusent des analyses financières :
@@ -118,10 +125,15 @@ IX.-Les règles relatives aux recommandations d'investissement destinées au
 public et portant sur tout émetteur dont les instruments financiers sont admis
 aux négociations sur un marché réglementé ou sur un instrument financier qu'il
 émet, lorsqu'elles sont produites ou diffusées par toute personne dans le cadre
-de ses activités professionnelles.
+de ses activités professionnelles, ainsi que les règles applicables aux
+personnes qui réalisent ou diffusent des travaux de recherche ou qui produisent
+ou diffusent d'autres informations recommandant ou suggérant une stratégie
+d'investissement concernant des actifs mentionnés au II de l'article L. 421-1, à
+l'intention de canaux de distribution ou du public.
 
 Un décret en Conseil d'Etat précise les cas dans lesquels une information
-financière donnée au public constitue la production ou la diffusion d'une
+relative à un instrument financier ou à un actif visé au II de l'article L.
+421-1 donnée au public constitue la production ou la diffusion d'une
 recommandation d'investissement telle que mentionnée à l'alinéa précédent.
 
 X.-Les modalités d'exécution, par dépôt ou par diffusion par voie de presse
@@ -130,3 +142,21 @@ d'imprimés, des obligations de publicité et d'information édictées par le
 présent code au titre de la transparence des marchés financiers et dans le cadre
 des opérations d'offre au public de titres financiers ou d'admission
 d'instruments financiers aux négociations sur un marché réglementé.
+
+XI.-Concernant le service de notation de crédit :
+
+1° Les conditions d'enregistrement et d'exercice de l'activité des agences de
+notation de crédit mentionnées à l'article L. 544-4 ;
+
+2° Les obligations relatives à la présentation et à la publication des notations
+ainsi que les exigences de publication qui incombent aux agences de notation de
+crédit mentionnées à l'article L. 544-4 ;
+
+3° Les règles de bonne conduite s'appliquant aux personnes physiques placées
+sous l'autorité ou agissant pour le compte des agences de notation de crédit
+mentionnées à l'article L. 544-4 et les dispositions propres à assurer leur
+indépendance d'appréciation et la prévention des conflits d'intérêts ;
+
+4° Les modalités de publication, chaque année, du régime général de rémunération
+des agences de notation mentionnées à l'article L. 544-4, en fonction des
+catégories d'émetteurs et de produits notés.

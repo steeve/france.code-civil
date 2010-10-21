@@ -1,19 +1,22 @@
 Article L631-2
 ----
-Il est institué un collège des autorités de contrôle des entreprises du secteur
-financier. Ce collège est composé du gouverneur de la Banque de France,
-président de l'Autorité de contrôle prudentiel, du président de l'Autorité des
-marchés financiers ou de leurs représentants. Il est présidé par le ministre
-chargé de l'économie ou son représentant.
+Le conseil de régulation financière et du risque systémique est composé de huit
+membres :
 
-Le collège des autorités de contrôle a pour mission de faciliter les échanges
-d'information entre les autorités de contrôle des groupes financiers ayant à la
-fois des activités de crédit, d'investissement ou d'assurance ainsi que
-d'évoquer toute question d'intérêt commun relative à la coordination du contrôle
-desdits groupes.
+1° Le ministre chargé de l'économie, président ;
 
-Le collège se réunit au minimum trois fois par an. Il peut également être
-consulté pour avis par le ministre chargé de l'économie, le gouverneur de la
-Banque de France, président de l'Autorité de contrôle prudentiel et le président
-de l'Autorité des marchés financiers sur toute question relevant de sa
-compétence.
+2° Le gouverneur de la Banque de France, président de l'Autorité de contrôle
+prudentiel, assisté du vice-président de cette autorité ;
+
+3° Le président de l'Autorité des marchés financiers ;
+
+4° Le président de l'Autorité des normes comptables ;
+
+5° Trois personnalités qualifiées, choisies en raison de leurs compétences dans
+les domaines monétaire, financier ou économique, nommées par le ministre chargé
+de l'économie pour une durée de cinq ans.
+
+Les membres mentionnés aux 1° à 4° peuvent se faire représenter.
+
+Sur convocation de son président, le conseil se réunit au minimum deux fois par
+an et en tant que de besoin.

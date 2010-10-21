@@ -9,8 +9,8 @@ de prestation de services de paiement et l'adéquation de leur situation
 financière à cette activité.
 
 Elle exerce sur ces établissements les pouvoirs de contrôle et de sanction
-définis aux sections 5 à 7 du chapitre II. La radiation prévue au 6 du I de
-l'article L. 613-21 s'entend comme une interdiction faite à l'établissement de
+définis aux sections 5 à 7 du chapitre II. La radiation prévue au 7° de
+l'article L. 612-39 s'entend comme une interdiction faite à l'établissement de
 paiement de fournir des services de paiement sur le territoire de la République
 française.
 

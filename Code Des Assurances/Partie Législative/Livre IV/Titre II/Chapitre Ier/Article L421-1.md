@@ -1,9 +1,9 @@
 Article L421-1
 ----
-I.-Le fonds de garantie des assurances obligatoires de dommages indemnise, dans
-les conditions prévues aux 1 et 2 du présent I, les victimes ou les ayants droit
-des victimes des dommages nés d'un accident survenu en France dans lequel est
-impliqué un véhicule au sens de l'article L. 211-1.
+I. - Le fonds de garantie des assurances obligatoires de dommages indemnise,
+dans les conditions prévues aux 1 et 2 du présent I, les victimes ou les ayants
+droit des victimes des dommages nés d'un accident survenu en France dans lequel
+est impliqué un véhicule au sens de l'article L. 211-1.
 
 1. Le fonds de garantie indemnise les dommages résultant d'atteintes à la
 personne :
@@ -42,8 +42,8 @@ l'article L. 211-1, le fonds de garantie ne peut exercer aucun recours contre
 les assurés et souscripteurs de contrats pour le recouvrement des indemnités
 qu'il a versées.
 
-II.-Le fonds de garantie indemnise également, dans les conditions prévues aux 1
-et 2 du présent II, les victimes ou les ayants droit des victimes de dommages
+II. - Le fonds de garantie indemnise également, dans les conditions prévues aux
+1 et 2 du présent II, les victimes ou les ayants droit des victimes de dommages
 nés d'un accident de la circulation causé, dans les lieux ouverts à la
 circulation publique, par une personne circulant sur le sol ou un animal.
 
@@ -65,15 +65,9 @@ assurée ;
 b) Lorsque la personne responsable du dommage est inconnue, sous réserve que
 l'accident ait causé une atteinte à la personne ;
 
-c) Lorsque le propriétaire de l'animal responsable du dommage n'est pas assuré ;
+c) Lorsque le propriétaire de l'animal responsable du dommage n'est pas assuré.
 
-d) Lorsque l'animal responsable du dommage est identifié mais n'a pas de
-propriétaire ;
-
-e) Lorsque l'animal responsable du dommage n'est pas identifié, sous réserve que
-l'accident ait causé une atteinte à la personne.
-
-III.-Lorsque le fonds de garantie intervient au titre des I et II, les
+III. - Lorsque le fonds de garantie intervient au titre des I et II, les
 indemnités doivent résulter soit d'une décision juridictionnelle exécutoire,
 soit d'une transaction ayant reçu l'assentiment du fonds de garantie.
 
@@ -83,7 +77,7 @@ prises en charge à aucun autre titre lorsque l'accident ouvre droit à
 réparation. Les versements effectués au profit des victimes ou de leurs ayants
 droit et qui ne peuvent pas donner lieu à une action récursoire contre le
 responsable des dommages ne sont pas considérés comme une indemnisation à un
-autre titre. IV.-Le fonds de garantie est également chargé de gérer et de
+autre titre. IV. - Le fonds de garantie est également chargé de gérer et de
 financer, à compter de l'exercice 2003, les majorations de rentes prévues à
 l'article 1er de la loi n° 74-1118 du 27 décembre 1974 relative à la
 revalorisation de certaines rentes allouées en réparation du préjudice causé par
@@ -94,10 +88,10 @@ certifiés. Les créances relatives aux majorations de rentes visées au présen
 alinéa se prescrivent dans un délai de quatre ans à partir du premier jour de
 l'année suivant celle au cours de laquelle les droits ont été acquis. Le fonds
 peut contrôler sur pièces et sur place l'exactitude des renseignements fournis
-par les organismes débirentiers. V.-Le fonds de garantie peut financer, selon
+par les organismes débirentiers. V. - Le fonds de garantie peut financer, selon
 des modalités et dans des limites fixées par décret en Conseil d'Etat, des
 actions visant à réduire le nombre des accidents de la circulation et à prévenir
 l'absence d'assurance de responsabilité civile automobile.
 
-VI.-Le fonds de garantie est l'organisme chargé des missions mentionnées aux
+VI. - Le fonds de garantie est l'organisme chargé des missions mentionnées aux
 articles L. 424-1 à L. 424-7.

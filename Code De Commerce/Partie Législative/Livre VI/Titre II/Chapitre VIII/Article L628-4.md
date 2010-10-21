@@ -1,15 +1,6 @@
 Article L628-4
 ----
-Lors de la clôture des opérations de liquidation judiciaire, le tribunal peut, à
-titre exceptionnel, imposer au débiteur une contribution destinée à l'apurement
-du passif dans les proportions qu'il détermine. Le tribunal désigne dans ce
-jugement un commissaire chargé de veiller à l'exécution de la contribution.
-
-Pour fixer les proportions de la contribution, le tribunal prend en compte les
-facultés contributives du débiteur déterminées au regard de ses ressources et
-charges incompressibles. Le tribunal réduit le montant de la contribution en cas
-de diminution des ressources ou d'augmentation des charges du contributeur.
-
-Son paiement doit être effectué dans un délai de deux ans.
-
-Les modalités d'application du présent article sont fixées par décret.
+Seuls le comité des établissements de crédit prévu à l'article L. 626-30 et,
+s'il y a lieu, l'assemblée générale des obligataires prévue à l'article L.
+626-32 sont constitués. Le délai de quinze jours fixé au troisième alinéa de
+l'article L. 626-30-2 est réduit à huit jours.

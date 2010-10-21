@@ -11,8 +11,9 @@ Il représente la Banque vis-à-vis des tiers ; il signe seul, au nom de la
 Banque, toute convention.
 
 Il nomme à tous les emplois de la Banque, sous réserve des dispositions de
-l'article L. 142-3. Il adopte les mesures nécessaires pour transposer les
-orientations de la Banque centrale européenne.
+l'article L. 142-3. Il adopte les mesures nécessaires pour transposer et mettre
+en œuvre les orientations, décisions et tout autre acte juridique de la Banque
+centrale européenne.
 
 Le gouverneur est assisté d'un premier et d'un second sous-gouverneurs. Les
 sous-gouverneurs exercent les fonctions qui leur sont déléguées par le
@@ -33,7 +34,7 @@ Les fonctions du gouverneur et des sous-gouverneurs sont exclusives de toute
 autre activité professionnelle publique ou privée, rémunérée ou non, à
 l'exception, le cas échéant, après accord du conseil général, d'activités
 d'enseignement ou de fonctions exercées au sein d'organismes internationaux. Ils
-ne peuvent exercer de mandats électifs.S'ils ont la qualité de fonctionnaire,
+ne peuvent exercer de mandats électifs. S'ils ont la qualité de fonctionnaire,
 ils sont placés en position de détachement et ne peuvent recevoir de promotion
 au choix.
 

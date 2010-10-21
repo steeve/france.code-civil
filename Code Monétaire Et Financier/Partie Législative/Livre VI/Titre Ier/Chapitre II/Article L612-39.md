@@ -31,8 +31,8 @@ ou sans nomination d'administrateur provisoire ;
 
 6° Le retrait partiel d'agrément ;
 
-7° La radiation de la liste des personnes agréées, avec ou sans nomination d'un
-liquidateur.
+7° Le retrait total d'agrément ou la radiation de la liste des personnes
+agréées, avec ou sans nomination d'un liquidateur.
 
 Les sanctions mentionnées aux 3° et 4° ne peuvent, dans leur durée, excéder dix
 ans.
@@ -47,7 +47,7 @@ les manquements ou infractions en cause, et la commission des sanctions veille
 au respect à leur égard du caractère contradictoire de la procédure.
 
 La commission des sanctions peut prononcer, soit à la place, soit en sus de ces
-sanctions, une sanction pécuniaire au plus égale à cinquante millions d'euros.
+sanctions, une sanction pécuniaire au plus égale à cent millions d'euros.
 
 La commission des sanctions peut assortir la sanction d'une astreinte, dont elle
 fixe le montant et la date d'effet. Un décret en Conseil d'Etat fixe la
@@ -58,7 +58,14 @@ retard d'exécution, il est procédé à la liquidation de l'astreinte.
 La commission des sanctions peut également prononcer les sanctions mentionnées
 au présent article s'il n'a pas été déféré aux injonctions prévues aux articles
 L. 511-41-3 et L. 522-15-1 et aux exigences complémentaires prévues au second
-alinéa de l'article L. 334-1 du code des assurances.
+alinéa de l'article L. 334-1 du code des assurances, au premier alinéa de
+l'article L. 510-1-1 du code de la mutualité ou au premier alinéa de l'article
+L. 931-18 du code de la sécurité sociale.
 
-L'Autorité peut rendre publique sa décision dans les journaux, publications ou
-supports qu'elle désigne. Les frais sont supportés par la personne sanctionnée.
+La décision de la commission des sanctions est rendue publique dans les
+publications, journaux ou supports qu'elle désigne, dans un format proportionné
+à la faute commise et à la sanction infligée. Les frais sont supportés par les
+personnes sanctionnées. Toutefois, lorsque la publication risque de perturber
+gravement les marchés financiers ou de causer un préjudice disproportionné aux
+parties en cause, la décision de la commission peut prévoir qu'elle ne sera pas
+publiée.

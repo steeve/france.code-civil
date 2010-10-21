@@ -1,4 +1,5 @@
 Article L628-2
 ----
-Sauf dispense ordonnée par le juge-commissaire, il est procédé à l'inventaire
-des biens des personnes visées à l'article L. 628-1.
+Sans préjudice de l'article L. 621-1, le tribunal statue sur l'ouverture de la
+procédure après rapport du conciliateur sur le déroulement de la conciliation et
+sur les perspectives d'adoption du projet de plan par les créanciers concernés.

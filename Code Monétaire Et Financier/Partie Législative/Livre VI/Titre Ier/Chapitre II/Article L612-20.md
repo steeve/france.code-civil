@@ -55,7 +55,9 @@ L. 612-2 et les personnes mentionnées au A du même I ne devant respecter ni
 ratio de couverture au titre des articles L. 511-41 et L. 533-2 ni normes de
 représentation de capital minimal au titre des articles L. 511-11 et L. 532-2,
 acquittent chacun une contribution forfaitaire comprise entre 500 € et 1 500 €,
-fixée par arrêté du ministre chargé de l'économie ;
+fixée par arrêté du ministre chargé de l'économie et, pour les personnes
+mentionnées au 4° du B du I de l'article L. 612-2, par arrêté des ministres
+chargés de l'économie, de la mutualité et de la sécurité sociale ;
 
 2° Les courtiers et sociétés de courtage d'assurance en assurance et en
 réassurance mentionnés à l'article L. 511-1 du code des assurances ainsi que les
@@ -63,30 +65,30 @@ intermédiaires en opération de banque et en services de paiement, les
 associations sans but lucratif et les fondations reconnues d'utilité publique
 mentionnées au 5° de l'article L. 511-6 du présent code et les personnes morales
 mentionnées à l'article L. 313-21-1 acquittent chacun une contribution
-forfaitaire comprise entre 100 € et 300 €, définie par arrêté des ministres
-chargés de l'économie, de la mutualité et de la sécurité sociale. Les personnes
-exerçant simultanément une activité de courtage en assurance et en réassurance
-et une activité d'intermédiaire en opérations de banque et en services de
-paiement ou une autre activité soumise à contribution au profit de l'Autorité de
-contrôle prudentiel n'acquittent qu'une seule contribution.
+forfaitaire comprise entre 100 € et 300 €, définie par arrêté du ministre chargé
+de l'économie. Les personnes exerçant simultanément une activité de courtage en
+assurance et en réassurance et une activité d'intermédiaire en opérations de
+banque et en services de paiement ou une autre activité soumise à contribution
+au profit de l'Autorité de contrôle prudentiel n'acquittent qu'une seule
+contribution.
 
 III. ― Le taux de la contribution visée au A et au B du II du présent article
 est compris entre :
 
 1° 0, 40 et 0, 80 ‰ pour les personnes mentionnées au A du II du présent
-article. Ce taux est fixé par arrêté du ministre chargé de l'économie, après un
-avis consultatif du collège de l'Autorité de contrôle prudentiel en formation
-plénière ;
+article. Ce taux est fixé par arrêté du ministre chargé de l'économie ;
 
 2° 0, 06 et 0, 18 ‰ pour les entreprises mentionnées au B du II du présent
 article. Ce taux est fixé par arrêté des ministres chargés de l'économie, de la
-mutualité et de la sécurité sociale après un avis consultatif du collège de
-l'Autorité de contrôle prudentiel en formation plénière.
+mutualité et de la sécurité sociale.
 
 La contribution acquittée dans ce cadre ne peut être inférieure à une
 contribution minimale, dont le montant, compris entre 500 € et 1 500 €, est
 défini par arrêté des ministres chargés de l'économie, de la mutualité et de la
 sécurité sociale.
+
+Les arrêtés mentionnés au II et au présent III sont pris après avis du collège
+de l'Autorité de contrôle prudentiel en formation plénière.
 
 IV. ― Pour les personnes mentionnées au A et au B du II du présent article,
 l'Autorité de contrôle prudentiel liquide la contribution sur la base des
@@ -100,9 +102,13 @@ V. ― La contribution est recouvrée de la manière suivante :
 
 1° L'Autorité de contrôle prudentiel envoie un appel à contribution à l'ensemble
 des personnes mentionnées au A et au C du II du présent article au plus tard le
-15 avril de chaque année. Les personnes concernées acquittent le paiement
-correspondant auprès de la Banque de France au plus tard le 30 juin de chaque
-année ;
+15 avril de chaque année. L'organisme qui tient le registre unique prévu à
+l'article L. 512-1 du code des assurances transmet à l'Autorité une liste,
+arrêtée au 1er janvier de chaque exercice, des courtiers et sociétés de courtage
+d'assurance, en assurance et en réassurance, mentionnés à l'article L. 511-1 du
+même code ainsi que des intermédiaires en opérations de banque et en services de
+paiement. Les personnes concernées acquittent le paiement correspondant auprès
+de la Banque de France au plus tard le 30 juin de chaque année (1) ;
 
 2° Pour les personnes mentionnées au B du II du présent article, l'Autorité de
 contrôle prudentiel émet un avis demandant le versement d'un acompte
@@ -139,16 +145,15 @@ contribution suivant les procédures mentionnées au V.
 VIII. ― A défaut de paiement dans le délai de trente jours à compter de la date
 de notification au redevable de la lettre de rappel établissant le montant de la
 contribution supplémentaire ou du courrier recommandé établissant le montant
-révisé de la contribution, la Banque de France émet un titre de perception,
-envoyé au comptable compétent de la direction générale des finances publiques.
-Ce dernier émet un titre exécutoire, recouvré selon les mêmes procédures et sous
-les mêmes sanctions, garanties, sûretés et privilèges que les taxes sur le
-chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon
-les règles applicables à cette même taxe. Les sommes ainsi recouvrées sont
-reversées à la Banque de France, qui les réaffecte au budget de l'Autorité de
-contrôle prudentiel.L'Etat prélève des frais de recouvrement dont le taux est
-fixé par voie réglementaire et ne peut être supérieur à 1 % des sommes ainsi
-recouvrées pour le compte de la Banque de France.
+révisé de la contribution, la Banque de France saisit le comptable public qui
+émet un titre exécutoire, recouvré selon les mêmes procédures et sous les mêmes
+sanctions, garanties, sûretés et privilèges que les taxes sur le chiffre
+d'affaires. Les réclamations sont présentées, instruites et jugées selon les
+règles applicables à cette même taxe. Les sommes ainsi recouvrées sont reversées
+à la Banque de France, qui les réaffecte au budget de l'Autorité de contrôle
+prudentiel.L'Etat prélève des frais de recouvrement dont le taux est fixé par
+voie réglementaire et ne peut être supérieur à 1 % des sommes ainsi recouvrées
+pour le compte de la Banque de France.
 
 IX. ― L'ensemble des opérations liées au recouvrement de la contribution pour
 frais de supervision par la Banque de France et au versement de son produit à

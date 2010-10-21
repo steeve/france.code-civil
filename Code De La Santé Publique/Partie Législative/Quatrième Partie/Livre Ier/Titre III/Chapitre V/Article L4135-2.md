@@ -7,7 +7,7 @@ données de nature comptable, prudentielle ou statistique sur ces risques.
 
 Lorsque cette obligation de transmission n'est pas respectée, l'autorité de
 contrôle peut prononcer des sanctions dans les conditions prévues par l'article
-L. 612-43 du code monétaire et financier, à l'exception des 3°, 4°, 5°, 6° et
+L. 612-39 du code monétaire et financier, à l'exception des 3°, 4°, 5°, 6° et
 7°.
 
 L'Autorité de contrôle prudentiel procède à l'analyse de ces données, les

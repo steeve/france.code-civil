@@ -38,7 +38,7 @@ champ d'application comprend cette catégorie d'établissements. Il est contrôl
 par l'Autorité de contrôle prudentiel dans les conditions fixées par les
 articles L. 612-1 et L. 612-23 à L. 612-27 ; il peut faire l'objet des mesures
 et sanctions prévues aux articles L. 511-41-3, L. 612-30 à L. 612-34 et L.
-612-39. La radiation prévue au 7° de l'article L. 612-43 doit être comprise
+612-39. La radiation prévue au 7° de l'article L. 612-39 doit être comprise
 comme le retrait du bénéfice du régime défini au présent article.
 
 Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions

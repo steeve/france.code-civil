@@ -1,11 +1,10 @@
 Article L621-3
 ----
-I. - Le commissaire du Gouvernement auprès de l'Autorité des marchés financiers
-est désigné par le ministre chargé de l'économie. Il siège auprès de toutes les
-formations sans voix délibérative. Les décisions de la commission des sanctions
-sont prises hors de sa présence. Il peut, sauf en matière de sanctions, demander
-une deuxième délibération dans des conditions fixées par décret en Conseil
-d'Etat.
+I. - Le directeur général du Trésor ou son représentant siège auprès de toutes
+les formations de l'Autorité des marchés financiers, sans voix délibérative. Les
+décisions de la commission des sanctions sont prises hors de sa présence. Il
+peut, sauf en matière de sanctions, demander une deuxième délibération dans des
+conditions fixées par décret en Conseil d'Etat.
 
 II. - Les décisions de chaque formation de l'Autorité des marchés financiers
 sont prises à la majorité des voix. En cas de partage égal des voix, sauf en

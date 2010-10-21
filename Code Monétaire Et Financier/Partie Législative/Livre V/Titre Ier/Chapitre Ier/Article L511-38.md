@@ -2,16 +2,13 @@ Article L511-38
 ----
 Le contrôle est exercé dans chaque établissement de crédit ou entreprise
 d'investissement par au moins deux commissaires aux comptes, dans les conditions
-définies au livre VIII du code de commerce. Ces commissaires sont désignés après
-avis de l'Autorité de contrôle prudentiel, dans des conditions fixées par
-décret. L'Autorité de contrôle prudentiel peut en outre, lorsque la situation le
-justifie, procéder à la désignation d'un commissaire aux comptes supplémentaire.
-Ces commissaires aux comptes ne doivent pas représenter ou appartenir à des
-cabinets ayant entre eux des liens de nature juridique, professionnelle, de
-capital ou organisationnelle. Ils exercent leur activité dans des conditions
-prévues par le livre VIII du code de commerce et procèdent à la certification
-des comptes annuels. Ils vérifient la sincérité des informations destinées au
-public, et leur concordance avec lesdits comptes.
+définies au livre VIII du code de commerce. Ces commissaires aux comptes ne
+doivent pas représenter ou appartenir à des cabinets ayant entre eux des liens
+de nature juridique, professionnelle, de capital ou organisationnelle. Ils
+exercent leur activité dans des conditions prévues par le livre VIII du code de
+commerce et procèdent à la certification des comptes annuels. Ils vérifient la
+sincérité des informations destinées au public, et leur concordance avec lesdits
+comptes.
 
 Toutefois, lorsque le total du bilan d'un établissement de crédit ou d'une
 entreprise d'investissement est inférieur à un seuil fixé par l'Autorité des
@@ -22,7 +19,9 @@ est remplie, et que l'établissement est soumis soit aux règles de la
 comptabilité publique, soit à un régime spécifique d'approbation de ses comptes
 présentant des garanties jugées suffisantes par l'Autorité de contrôle
 prudentiel, celle-ci peut décider de lever l'obligation de certification
-mentionnée à l'alinéa précédent.
+mentionnée à l'alinéa précédent. Ces dérogations ne sont pas applicables lorsque
+l'établissement de crédit ou l'entreprise d'investissement est tenu d'établir
+des comptes sur base consolidée.
 
 Les commissaires aux comptes doivent présenter toutes les garanties
 d'indépendance à l'égard des établissements de crédit, des entreprises

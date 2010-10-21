@@ -1,14 +1,15 @@
 Article L741-5
 ----
-I. - La méconnaissance des obligations énoncées à l'article L. 741-4 est punie
+I.-La méconnaissance des obligations énoncées à l'article L. 741-4 est punie
 d'une amende égale au quart de la somme sur laquelle a porté l'infraction ou la
 tentative d'infraction.
 
-II. - En cas de constatation de l'infraction mentionnée au I par les agents des
+II.-En cas de constatation de l'infraction mentionnée au I par les agents des
 douanes, ceux-ci consignent la totalité de la somme sur laquelle a porté
-l'infraction ou la tentative d'infraction, pendant une durée de trois mois,
-renouvelable sur autorisation du procureur de la République territorialement
-compétent, dans la limite de six mois au total.
+l'infraction ou la tentative d'infraction, pendant une durée de six mois,
+renouvelable sur autorisation du procureur de la République du lieu de la
+direction des douanes dont dépend le service chargé de la procédure, dans la
+limite de douze mois au total.
 
 La somme consignée est saisie et sa confiscation peut être prononcée par la
 juridiction compétente si, pendant la durée de la consignation, il est établi
@@ -25,6 +26,6 @@ La décision de non-lieu ou de relaxe emporte de plein droit, aux frais du
 Trésor, mainlevée des mesures de consignation et saisie ordonnées. Il en est de
 même en cas d'extinction de l'action pour l'application des sanctions fiscales.
 
-III. - La recherche, la constatation et la poursuite des infractions mentionnées
+III.-La recherche, la constatation et la poursuite des infractions mentionnées
 au I sont faites dans les conditions fixées par le code des douanes applicable
 en Nouvelle-Calédonie.

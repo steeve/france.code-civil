@@ -32,7 +32,7 @@ Le ministre chargé de la sécurité sociale ou son représentant et le préside
 l'Autorité de contrôle prudentiel ou son représentant peuvent, à leur demande,
 être entendus par le conseil d'administration du fonds.
 
-Préalablement à la mise en oeuvre des dispositions de l'article L. 951-15,
+Préalablement à la mise en oeuvre des dispositions de l'article L. 951-2,
 l'Autorité de contrôle entend le président et le vice-président du fonds de
 garantie.
 

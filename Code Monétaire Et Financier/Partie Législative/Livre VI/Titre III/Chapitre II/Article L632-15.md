@@ -7,10 +7,11 @@ morales étrangères, l'Autorité de contrôle prudentiel peut, en dehors du cad
 des accords mentionnés aux articles L. 632-7 et L. 632-13, transmettre des
 informations aux autorités des Etats non membres de la Communauté européenne et
 non parties à l'accord sur l'Espace économique européen chargées de la
-surveillance des personnes mentionnées au I de l'article L. 612-16 du présent
-code, sous réserve de réciprocité et pour autant que les informations
-communiquées bénéficient de garanties de secret professionnel au moins
-équivalentes à celles auxquelles sont soumises les autorités françaises.
+surveillance des personnes mentionnées aux 1° à 3° du A du I de l'article L.
+612-2 et aux 1° à 4° de l'article L. 612-26 du présent code, sous réserve de
+réciprocité et pour autant que les informations communiquées bénéficient de
+garanties de secret professionnel au moins équivalentes à celles auxquelles sont
+soumises les autorités françaises.
 
 Les dispositions du III de l'article L. 632-7 sont applicables aux activités
 régies par le présent article et par les articles L. 632-12 et L. 632-13.

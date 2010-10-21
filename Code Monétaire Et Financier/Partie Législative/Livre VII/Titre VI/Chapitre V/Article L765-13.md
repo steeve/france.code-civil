@@ -1,13 +1,11 @@
 Article L765-13
 ----
-I. - Le titre VI du livre V ainsi que les articles L. 574-1 à L. 574-4 sont
+I.-Le titre VI du livre V ainsi que les articles L. 574-1 à L. 574-4 sont
 applicables dans les îles Wallis et Futuna dans les conditions prévues au II.
 
-II. - 1° Les références au code des assurances au 2° de l'article L. 561-2 et à
-l'article L. 561-20, au code de la sécurité sociale et au code rural et de la
-pêche maritime au 3° de l'article L. 561-2 et au code de la mutualité au 4° du
-même article sont remplacées par des références à des dispositions applicables
-localement ayant le même objet ;
+II.-1° Aux articles L. 561-2 et L. 561-20, les références aux codes des
+assurances, de la mutualité et de la sécurité sociale sont remplacées par des
+références à des dispositions applicables localement ayant le même objet ;
 
 2° Au 8° de l'article L. 561-2, les références à l'article 1er de la loi n° 70-9
 du 2 janvier 1970 réglementant les conditions d'exercice des activités relatives
@@ -54,5 +52,5 @@ déclarés au service mentionné à l'article L. 561-23 du présent code ;
 
 7° (Abrogé) ;
 
-8° Au II de l'article L. 561-36, les mots : ", des organismes mentionnés à l'
-article L. 134-1 du code des juridictions financières " sont supprimés.
+8° Au II de l'article L. 561-36, les mots : ", des organismes mentionnés à
+l'article L. 134-1 du code des juridictions financières " sont supprimés.

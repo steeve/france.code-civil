@@ -11,16 +11,7 @@ b) Le 1° de l'article L. 341-3 est remplacé par les dispositions suivantes :
 1° Les établissements de crédit définis à l'article L. 511-1, les organismes
 mentionnés à l'article L. 518-1, les établissements de paiement et les
 entreprises d'investissement définies à l'article L. 531-4 ; le 2° de cet
-article est supprimé ;
-
-c) Au premier alinéa de l'article L. 341-6, les mots : "et du Comité des
-entreprises d'assurances" sont supprimés ;
-
-d) A l'article L. 341-7, les mots : "et le Comité des entreprises d'assurances"
-sont supprimés ;
-
-e) A l'article L. 341-17, les mots : "et à l'article L. 310-18 du code des
-assurances" sont supprimés.
+article est supprimé.
 
 II. - Les articles L. 353-1 à L. 353-4 sont également applicables en
 Nouvelle-Calédonie.

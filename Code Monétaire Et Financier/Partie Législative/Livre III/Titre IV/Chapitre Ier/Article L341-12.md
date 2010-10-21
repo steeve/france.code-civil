@@ -4,14 +4,16 @@ En temps utile, avant qu'elle ne soit liée par un contrat, la personne démarch
 reçoit des informations fixées par décret en Conseil d'Etat, portant notamment
 sur :
 
-1° Le nom, l'adresse professionnelle et, le cas échéant, le numéro
-d'enregistrement de la personne physique procédant au démarchage ;
+1° Le nom et l'adresse professionnelle de la personne physique procédant au
+démarchage ;
 
-2° Le nom et l'adresse de la ou des personnes morales pour le compte de laquelle
-ou desquelles le démarchage est effectué ;
+2° Le nom, l'adresse et, le cas échéant, l'immatriculation mentionnée à
+l'article L. 546-1 de la ou des personnes morales pour le compte de laquelle ou
+desquelles le démarchage est effectué ;
 
-3° Le numéro d'enregistrement de la personne morale mandatée en application du I
-de l'article L. 341-4 si le démarchage est effectué pour le compte d'une telle
+3° Le nom, l'adresse et, le cas échéant, l'immatriculation mentionnée à
+l'article L. 546-1 de la personne morale mandatée en application du I de
+l'article L. 341-4 si le démarchage est effectué pour le compte d'une telle
 personne ;
 
 4° Les documents d'information particuliers relatifs aux produits, instruments

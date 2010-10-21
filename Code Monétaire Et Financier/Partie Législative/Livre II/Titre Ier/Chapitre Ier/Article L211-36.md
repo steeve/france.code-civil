@@ -19,3 +19,10 @@ l'alinéa précédent, à l'exception des personnes mentionnées aux alinéas c 
 
 3° Aux obligations financières résultant de tout contrat conclu dans le cadre
 d'un système mentionné à l'article L. 330-1.
+
+II. - Pour l'application de la présente section, sont également des instruments
+financiers les contrats d'option, contrats à terme ferme, contrats d'échange et
+tous autres contrats à terme autres que ceux mentionnés au III de l'article L.
+211-1, à condition que, lorsque ces instruments doivent être réglés par
+livraison physique, ils fassent l'objet d'un enregistrement par une chambre de
+compensation reconnue ou d'appels de couverture périodiques.

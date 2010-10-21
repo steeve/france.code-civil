@@ -8,10 +8,9 @@ celles-ci dans l'intérêt d'une bonne administration.
 
 Cette désignation est faite soit à la demande des dirigeants lorsqu'ils estiment
 ne plus être en mesure d'exercer normalement leurs fonctions, soit à
-l'initiative de l'Autorité de contrôle prudentiel lorsque la gestion de
-l'établissement ou de l'entreprise ne peut plus être assurée dans des conditions
-normales ou en cas de suspension d'un ou plusieurs dirigeants de la personne
-contrôlée.
+l'initiative de l'Autorité de contrôle prudentiel lorsque la gestion de la
+personne contrôlée ne peut plus être assurée dans des conditions normales ou en
+cas de suspension de l'un ou de plusieurs de ses dirigeants.
 
 Dans le cas d'établissements affiliés à un organe central, ce dernier peut
 demander à l'Autorité de contrôle prudentiel de désigner un administrateur

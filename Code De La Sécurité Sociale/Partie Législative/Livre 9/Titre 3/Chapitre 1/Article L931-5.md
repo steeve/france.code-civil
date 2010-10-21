@@ -19,17 +19,13 @@ l'article L. 931-9 ;
 5° L'engagement d'adhérer au fonds paritaire de garantie prévu à l'article L.
 931-35.
 
-L'Autorité de contrôle prudentiel refuse l'agrément, après avis de l' Autorité
-de contrôle prudentiel lorsque l'exercice de la mission de surveillance de
-l'institution ou de l'union est susceptible d'être entravé soit par l'existence
-de liens de contrôle directs ou indirects entre l'institution ou l'union
-requérante et d'autres personnes physiques ou morales, soit par l'existence de
-dispositions législatives, réglementaires ou administratives d'un Etat qui n'est
-pas partie à l'accord sur l'Espace économique européen et dont relèvent une ou
-plusieurs de ces personnes.
-
-La liste des documents à produire à l'appui d'une demande d'agrément est fixée
-par arrêté de l'Autorité de contrôle prudentiel.
+L'Autorité de contrôle prudentiel refuse l'agrément lorsque l'exercice de la
+mission de surveillance de l'institution ou de l'union est susceptible d'être
+entravé soit par l'existence de liens de contrôle directs ou indirects entre
+l'institution ou l'union requérante et d'autres personnes physiques ou morales,
+soit par l'existence de dispositions législatives, réglementaires ou
+administratives d'un Etat qui n'est pas partie à l'accord sur l'Espace
+économique européen et dont relèvent une ou plusieurs de ces personnes.
 
 L'octroi de l'agrément peut être subordonné au respect d'engagements souscrits
 par l'institution ou l'union requérante.

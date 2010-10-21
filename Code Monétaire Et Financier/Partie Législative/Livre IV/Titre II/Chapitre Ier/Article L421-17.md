@@ -36,4 +36,5 @@ d'application du présent article et précise notamment les obligations incomban
 aux membres du marché. Sans préjudice des compétences reconnues à la Banque de
 France par le II de l'article L. 141-4, le règlement général fixe les conditions
 dans lesquelles l'entreprise de marché peut restreindre le choix des systèmes de
-règlement et de livraison d'instruments financiers par les membres du marché.
+règlement et de livraison d'instruments financiers et d'actifs mentionnés au II
+de l'article L. 421-1 par les membres du marché.

@@ -3,8 +3,8 @@ Article L211-7-2
 I.-Les mutuelles et unions mentionnées au II de l'article L. 111-1-1, qui ont
 pour activité exclusive la réassurance et dont le siège social est situé en
 France, ne peuvent commencer leurs opérations qu'après avoir obtenu un agrément
-délivré par l'autorité administrative compétente, après avis du Conseil
-supérieur de la mutualité.
+délivré par l'autorité administrative , après avis du Conseil supérieur de la
+mutualité.
 
 Elles ne peuvent pratiquer que les opérations pour lesquelles elles sont
 agréées.

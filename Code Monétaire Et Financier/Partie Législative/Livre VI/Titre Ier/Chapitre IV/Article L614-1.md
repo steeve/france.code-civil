@@ -21,3 +21,8 @@ d'assurance, d'une part, et de représentants des clientèles, d'autre part.
 La composition du comité, les conditions de désignation de ses membres et de son
 président ainsi que ses règles d'organisation et de fonctionnement sont fixées
 par décret.
+
+Le comité est chargé de suivre l'évolution des pratiques des établissements de
+crédit et des établissements de paiement en matière de tarifs pour les services
+offerts à leurs clients personnes physiques n'agissant pas pour des besoins
+professionnels.

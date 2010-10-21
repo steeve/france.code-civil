@@ -1,8 +1,8 @@
 Article L511-10
 ----
 Avant d'exercer leur activité, les établissements de crédit doivent obtenir
-l'agrément délivré par l'Autorité de contrôle prudentiel mentionné au 1° de
-l'article L. 612-1.
+l'agrément délivré par l'Autorité de contrôle prudentiel mentionné au 1° du II
+de l'article L. 612-1.
 
 L'Autorité de contrôle prudentiel vérifie si l'entreprise satisfait aux
 obligations prévues aux articles L. 511-11, L. 511-13 et L. 511-40 et

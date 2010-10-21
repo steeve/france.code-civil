@@ -5,14 +5,14 @@ effectue des contrôles et des enquêtes.
 
 Elle veille à la régularité des opérations effectuées sur des instruments
 financiers lorsqu'ils sont offerts au public et sur des instruments financiers
-admis aux négociations sur un marché réglementé ou sur un système multilatéral
-de négociation qui se soumet aux dispositions législatives ou réglementaires
-visant à protéger les investisseurs contre les opérations d'initiés, les
-manipulations de cours et la diffusion de fausses informations. Ne sont pas
-soumis au contrôle de l'Autorité des marchés financiers les marchés
-d'instruments créés en représentation des opérations de banque qui, en
-application de l'article L. 214-4, ne peuvent pas être détenus par des
-organismes de placement collectif en valeurs mobilières.
+et actifs mentionnés au II de l'article L. 421-1 admis aux négociations sur un
+marché réglementé ou sur un système multilatéral de négociation qui se soumet
+aux dispositions législatives ou réglementaires visant à protéger les
+investisseurs contre les opérations d'initiés, les manipulations de cours et la
+diffusion de fausses informations. Ne sont pas soumis au contrôle de l'Autorité
+des marchés financiers les marchés d'instruments créés en représentation des
+opérations de banque qui, en application de l'article L. 214-4, ne peuvent pas
+être détenus par des organismes de placement collectif en valeurs mobilières.
 
 II.-L'Autorité des marchés financiers veille également au respect des
 obligations professionnelles auxquelles sont astreintes, en vertu des
@@ -59,11 +59,16 @@ professionnelle collectives mentionnées au I de l'article 8 de l'ordonnance n°
 mentionnés aux articles L. 3334-1 à L. 3334-9 et L. 3334-11 à L. 3334-16 du code
 du travail ;
 
-15° Les agents liés mentionnés à l'article L. 545-1.
+15° Les agents liés mentionnés à l'article L. 545-1 ;
+
+16° Les agences de notation de crédit mentionnées à l'article L. 544-4 ;
+
+17° Les associations professionnelles de conseillers en investissements
+financiers agréées mentionnées à l'article L. 541-4.
 
 Pour les personnes ou entités autres que celles fournissant des services
 mentionnés au 4 de l'article L. 321-1 ou que les personnes ou entités
-mentionnées aux 7°, 8°, 10° et 11° ci-dessus, pour lesquelles l'Autorité des
+mentionnées aux 7°,8°,10°,11° et 16° ci-dessus, pour lesquelles l'Autorité des
 marchés financiers est seule compétente, le contrôle s'exerce sous réserve des
 compétences de l'Autorité de contrôle prudentiel et, pour celles mentionnées aux
 3° et 6°, sans préjudice des compétences conférées à la Banque de France par

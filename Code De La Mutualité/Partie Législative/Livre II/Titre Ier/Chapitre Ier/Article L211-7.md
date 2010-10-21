@@ -2,8 +2,8 @@ Article L211-7
 ----
 Les mutuelles et unions soumises aux dispositions du présent livre ne peuvent
 commencer leurs opérations qu'après avoir obtenu un agrément délivré par
-l'Autorité de contrôle prudentiel compétente, après avis du Conseil supérieur de
-la mutualité mentionné à l'article L. 411-1.
+l'Autorité de contrôle prudentiel , après avis du Conseil supérieur de la
+mutualité mentionné à l'article L. 411-1.
 
 L'agrément est accordé, sur demande de la mutuelle ou de l'union, pour les
 opérations d'une ou plusieurs branches ou sous-branches d'activité. La mutuelle

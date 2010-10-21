@@ -8,9 +8,9 @@ personne morale déterminée, en vue d'obtenir, de sa part, un accord sur :
 d'une opération sur un des instruments financiers énumérés à l'article L. 211-1
 ;
 
-2° La réalisation par une des personnes mentionnées au 1° de l'article L. 341-3
-d'une opération de banque ou d'une opération connexe définies aux articles L.
-311-1 et L. 311-2 ;
+2° La réalisation par une des personnes mentionnées au 1° ou au 4° de l'article
+L. 341-3 d'une opération de banque ou d'une opération connexe définies aux
+articles L. 311-1 et L. 311-2 ;
 
 3° La fourniture par une des personnes mentionnées au 1° de l'article L. 341-3
 d'un service d'investissement ou d'un service connexe définis aux articles L.
@@ -33,7 +33,7 @@ des mêmes fins.
 
 L'activité de démarchage bancaire ou financier est exercée sans préjudice de
 l'application des dispositions particulières relatives à la prestation de
-services d'investissement, à la réalisation d'opérations de banque et à la
-réalisation d'opérations sur biens divers, ainsi que des dispositions de
-l'article 66-4 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de
-certaines professions judiciaires et juridiques.
+services d'investissement, à la réalisation d'opérations de banque et de
+services de paiement et à la réalisation d'opérations sur biens divers, ainsi
+que des dispositions de l'article 66-4 de la loi n° 71-1130 du 31 décembre 1971
+portant réforme de certaines professions judiciaires et juridiques.

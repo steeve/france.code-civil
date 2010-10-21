@@ -5,11 +5,10 @@ un marché réglementé, ainsi que dans les établissements de crédit mentionn�
 l'article L. 511-1 du code monétaire et financier, les entreprises d'assurances
 et de réassurances, les mutuelles régies par le livre II du code de la mutualité
 et les institutions de prévoyance régies par le titre III du livre IX du code de
-la sécurité sociale, un comité spécialisé agissant sous la responsabilité
-exclusive et collective des membres, selon le cas, de l'organe chargé de
-l'administration ou de l'organe de surveillance assure le suivi des questions
-relatives à l'élaboration et au contrôle des informations comptables et
-financières.
+la sécurité sociale, un comité spécialisé agissant sous la responsabilité ,
+selon le cas, de l'organe chargé de l'administration ou de l'organe de
+surveillance assure le suivi des questions relatives à l'élaboration et au
+contrôle des informations comptables et financières.
 
 La composition de ce comité est fixée, selon le cas, par l'organe chargé de
 l'administration ou de la surveillance. Le comité ne peut comprendre que des

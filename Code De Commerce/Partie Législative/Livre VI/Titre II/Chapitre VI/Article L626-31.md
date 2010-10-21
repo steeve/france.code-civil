@@ -14,4 +14,5 @@ comités.
 Par dérogation aux dispositions de l'article L. 626-26, une modification
 substantielle dans les objectifs ou les moyens du plan arrêté par le tribunal en
 application du premier alinéa ne peut intervenir que selon les modalités prévues
-par la présente section.
+par la présente section. Dans ce cas, le commissaire à l'exécution du plan
+exerce les pouvoirs dévolus à l'administrateur judiciaire.

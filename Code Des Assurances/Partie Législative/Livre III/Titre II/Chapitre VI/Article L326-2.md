@@ -1,12 +1,13 @@
 Article L326-2
 ----
 La décision de l'Autorité de contrôle prudentiel prononçant, dans les conditions
-mentionnées à l'article L. 325-1 ou à l'article L. 612-39, le retrait total de
-l'agrément administratif d'une entreprise d'assurance emporte de plein droit, à
-dater de sa publication, si elle concerne une entreprise ayant son siège social
-en France, la dissolution de l'entreprise ou, si elle concerne une entreprise
-n'ayant pas son siège social en France, la liquidation de l'actif et du passif
-du bilan spécial de ses opérations en France.
+mentionnées à l'article L. 325-1 ou à l'article L. 612-39 du code monétaire et
+financier, le retrait total de l'agrément administratif d'une entreprise
+d'assurance emporte de plein droit, à dater de sa publication, si elle concerne
+une entreprise ayant son siège social en France, la dissolution de l'entreprise
+ou, si elle concerne une entreprise n'ayant pas son siège social en France, la
+liquidation de l'actif et du passif du bilan spécial de ses opérations en
+France.
 
 Dans les deux cas, la liquidation judiciaire est ouverte à la requête de
 l'Autorité de contrôle prudentiel. Elle est régie par le chapitre II du titre II

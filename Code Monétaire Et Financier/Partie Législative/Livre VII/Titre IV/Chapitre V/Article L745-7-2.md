@@ -20,4 +20,4 @@ l'exception de l'article L. 563-2, ainsi que le chapitre IV du titre VII du mêm
 livre sont applicables à l'office des postes et télécommunications. En cas de
 méconnaissance par l'office de ses obligations à ce titre, l'inspection générale
 des finances peut saisir l'Autorité de contrôle prudentiel pour faire prononcer
-une des sanctions prévues à l'article L. 613-21.
+une des sanctions prévues à l'article L. 612-39.

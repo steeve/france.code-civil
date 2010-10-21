@@ -14,7 +14,7 @@ change manuel, d'organisation et de contrôle interne propres à en assurer le
 respect.
 
 II.-L'Autorité de contrôle prudentiel exerce le pouvoir disciplinaire sur les
-changeurs manuels dans les conditions prévues au II de l'article L. 612-45.
+changeurs manuels dans les conditions prévues au II de l'article L. 612-41.
 
 L'Autorité de contrôle prudentiel exerce le contrôle, notamment sur place, des
 changeurs manuels dans les conditions prévues aux articles L. 612-17 et L.

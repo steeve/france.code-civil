@@ -13,10 +13,3 @@ par des conventions ou conventions-cadres. Toute opération de résiliation,
 d'évaluation ou de compensation faite en raison d'une procédure civile
 d'exécution ou de l'exercice d'un droit d'opposition est réputée être intervenue
 avant cette procédure.
-
-III. ― Pour l'application du présent article, sont également des instruments
-financiers les contrats d'option, contrats à terme fermes et tous autres
-contrats à terme sur marchandises ou autorisations d'émission autres que ceux
-mentionnés au III de l'article L. 211-1, à condition qu'ils fassent l'objet d'un
-enregistrement par une chambre de compensation reconnue ou d'appels de
-couvertures périodiques.

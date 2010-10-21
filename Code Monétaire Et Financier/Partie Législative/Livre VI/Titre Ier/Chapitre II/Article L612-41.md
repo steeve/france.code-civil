@@ -37,7 +37,7 @@ commission des sanctions veille au respect à leur égard du caractère
 contradictoire de la procédure.
 
 La commission des sanctions peut prononcer, soit à la place, soit en sus de ces
-sanctions, une sanction pécuniaire au plus égale à un million d'euros.
+sanctions, une sanction pécuniaire au plus égale à cent millions d'euros.
 
 La commission des sanctions peut assortir la sanction d'une astreinte, dont elle
 fixe le montant et la date d'effet. Un décret en Conseil d'Etat fixe la
@@ -45,9 +45,13 @@ procédure applicable, le montant journalier maximum de l'astreinte et les
 modalités selon lesquelles, en cas d'inexécution totale ou partielle ou de
 retard d'exécution, il est procédé à la liquidation de l'astreinte.
 
-L'Autorité de contrôle prudentiel peut rendre publique sa décision dans les
-journaux, publications ou supports qu'elle désigne. Les frais sont supportés par
-la personne sanctionnée.
+La décision de la commission des sanctions est rendue publique dans les
+publications, journaux ou supports qu'elle désigne, dans un format proportionné
+à la faute commise et à la sanction infligée. Les frais sont supportés par les
+personnes sanctionnées. Toutefois, lorsque la publication risque de perturber
+gravement les marchés financiers ou de causer un préjudice disproportionné aux
+parties en cause, la décision de la commission peut prévoir qu'elle ne sera pas
+publiée.
 
 II. ― Si un changeur manuel a enfreint une disposition du présent code qui lui
 est applicable, la commission des sanctions peut prononcer l'une des sanctions
@@ -82,6 +86,10 @@ procédure applicable, le montant journalier maximum de l'astreinte et les
 modalités selon lesquelles, en cas d'inexécution totale ou partielle ou de
 retard d'exécution, il est procédé à la liquidation de l'astreinte.
 
-L'Autorité de contrôle prudentiel peut rendre publique sa décision dans les
-journaux, publications ou supports qu'elle désigne. Les frais sont supportés par
-la personne sanctionnée.
+La décision de la commission des sanctions est rendue publique dans les
+publications, journaux ou supports qu'elle désigne, dans un format proportionné
+à la faute commise et à la sanction infligée. Les frais sont supportés par les
+personnes sanctionnées. Toutefois, lorsque la publication risque de perturber
+gravement les marchés financiers ou de causer un préjudice disproportionné aux
+parties en cause, la décision de la commission peut prévoir qu'elle ne sera pas
+publiée.

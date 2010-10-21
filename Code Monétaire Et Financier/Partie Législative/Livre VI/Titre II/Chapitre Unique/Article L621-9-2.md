@@ -12,7 +12,12 @@ l'objet d'un protocole d'accord. Elle peut être retirée à tout moment ;
 2° Recourir, pour ses contrôles et enquêtes, à des corps de contrôle extérieurs,
 à des commissaires aux comptes, à des experts inscrits sur une liste d'experts
 judiciaires ou à des personnes ou autorités compétentes. Ces personnes peuvent
-recevoir une rémunération de l'Autorité des marchés financiers à ce titre.
+recevoir une rémunération de l'Autorité des marchés financiers à ce titre ;
+
+3° Déléguer aux associations de conseillers en investissements financiers
+mentionnées à l'article L. 541-4 le contrôle de l'activité de leurs membres.
+Cette délégation fait l'objet d'un protocole d'accord et peut être retirée à
+tout moment.
 
 Le collège ou le secrétaire général de l'Autorité des marchés financiers peuvent
 demander aux commissaires aux comptes des sociétés dont les titres financiers

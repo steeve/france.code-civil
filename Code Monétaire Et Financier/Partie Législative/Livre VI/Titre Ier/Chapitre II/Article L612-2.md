@@ -44,7 +44,8 @@ ce cadre toute information à la connaissance de l'autorité.
 B. - Dans le secteur de l'assurance :
 
 1° Les entreprises exerçant une activité d'assurance directe mentionnées à
-l'article L. 310-1 du code des assurances ;
+l'article L. 310-1 du code des assurances et les entreprises mentionnées au
+dernier alinéa du même article ;
 
 2° Les entreprises exerçant une activité de réassurance dont le siège social est
 situé en France ;
@@ -73,7 +74,7 @@ assurances.
 
 II. - L'Autorité peut soumettre à son contrôle :
 
-1° Toute personne ayant reçu d'une entreprise pratiquant des opérations
+1° Toute personne ayant reçu d'un organisme pratiquant des opérations
 d'assurance un mandat de souscription ou de gestion ou souscrivant à un contrat
 d'assurance de groupe, ou exerçant, à quelque titre que ce soit, une activité
 d'intermédiation en assurance ou en réassurance mentionnée à l'article L. 511-1

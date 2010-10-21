@@ -7,6 +7,10 @@ morales étrangères, l'Autorité de contrôle prudentiel et l'Autorité des mar
 financiers peuvent conclure, avec des autorités homologues relevant d'un Etat
 non membre de la Communauté européenne et non partie à l'accord sur l'Espace
 économique européen, des accords de coopération prévoyant notamment l'échange
+d'informations. Par dérogation aux mêmes dispositions, la Banque de France peut
+conclure, avec des autorités publiques chargées de la surveillance des systèmes
+de paiement et des systèmes de règlement et de livraison des instruments
+financiers, des accords de coopération prévoyant notamment l'échange
 d'informations. Les informations communiquées doivent bénéficier de garanties de
 secret professionnel au moins équivalentes à celles auxquelles sont soumises les
 autorités françaises parties à ces accords. Cet échange d'informations doit être

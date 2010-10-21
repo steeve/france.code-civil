@@ -1,14 +1,16 @@
 Article L626-5
 ----
-Les propositions pour le règlement des dettes sont, au fur et à mesure de leur
-élaboration et sous surveillance du juge-commissaire, communiquées par
-l'administrateur au mandataire judiciaire, aux contrôleurs ainsi qu'au comité
-d'entreprise ou, à défaut, aux délégués du personnel.
+Les propositions pour le règlement des dettes peuvent porter sur des délais,
+remises et conversions en titres donnant ou pouvant donner accès au capital.
+Elles sont, au fur et à mesure de leur élaboration et sous surveillance du
+juge-commissaire, communiquées par l'administrateur au mandataire judiciaire,
+aux contrôleurs ainsi qu'au comité d'entreprise ou, à défaut, aux délégués du
+personnel.
 
-Le mandataire judiciaire recueille individuellement ou collectivement l'accord
-de chaque créancier qui a déclaré sa créance conformément à l'article L. 622-24,
-sur les délais et remises qui lui sont proposés. En cas de consultation par
-écrit, le défaut de réponse, dans le délai de trente jours à compter de la
+Lorsque la proposition porte sur des délais et remises, le mandataire judiciaire
+recueille, individuellement ou collectivement, l'accord de chaque créancier qui
+a déclaré sa créance conformément à l'article L. 622-24. En cas de consultation
+par écrit, le défaut de réponse, dans le délai de trente jours à compter de la
 réception de la lettre du mandataire judiciaire, vaut acceptation. Ces
 dispositions sont applicables aux institutions visées à l'article L. 143-11-4 du
 code du travail pour les sommes mentionnées au quatrième alinéa de l'article L.
@@ -16,3 +18,14 @@ code du travail pour les sommes mentionnées au quatrième alinéa de l'article 
 également aux créanciers mentionnés au premier alinéa de l'article L. 626-6
 lorsque la proposition qui leur est soumise porte exclusivement sur des délais
 de paiement.
+
+Lorsque la proposition porte sur une conversion en titres donnant ou pouvant
+donner accès au capital, le mandataire judiciaire recueille, individuellement et
+par écrit, l'accord de chaque créancier qui a déclaré sa créance conformément à
+l'article L. 622-24. Le défaut de réponse, dans le délai de trente jours à
+compter de la réception de la lettre du mandataire judiciaire, vaut refus.
+
+Le mandataire judiciaire n'est pas tenu de consulter les créanciers pour
+lesquels le projet de plan ne modifie pas les modalités de paiement ou prévoit
+un paiement intégral en numéraire dès l'arrêté du plan ou dès l'admission de
+leurs créances.

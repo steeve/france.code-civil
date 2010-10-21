@@ -13,11 +13,13 @@ ministre chargé de l'économie.
 Lorsque l'Autorité de contrôle prudentiel est chargée d'exercer la surveillance
 sur un groupe en application du premier alinéa du présent article, elle exerce
 ses compétences à l'égard des entités surveillées sur une base consolidée dans
-l'ensemble de l'Espace économique européen.A ce titre, elle assure en
+l'ensemble de l'Espace économique européen. A ce titre, elle assure en
 particulier :
 
 1. La coordination de la collecte et de la diffusion des informations utiles
 dans la marche normale des affaires comme dans les situations d'urgence ;
 
 2. La planification et la coordination des activités de surveillance
-prudentielle, en coopération avec les autorités compétentes intéressées.
+prudentielle, en coopération avec les autorités compétentes intéressées, y
+compris les banques centrales, dans la marche normale des affaires comme dans
+les situations d'urgence.

@@ -13,8 +13,9 @@ emprisonnement d'un an et d'une amende de 15 000 euros. Les mêmes dispositions
 s'appliquent aux dirigeants des personnes morales et aux personnes physiques que
 l'Autorité de contrôle prudentiel aura décidé de soumettre à son contrôle en en
 application des 1° et 2° du II de l'article L. 612-2 du code monétaire et
-financier. Les entraves à l'action de l'Autorité de contrôle exercée en
-application de l'article L. 323-1-1 sont punies des mêmes peines.
+financier. Les entraves à l'action de l'Autorité de contrôle prudentiel ou à
+l'exécution d'une décision prise en application des articles L. 612-33 et L.
+612-34 du code monétaire et financier sont punies des mêmes peines.
 
 Le fait, pour les mêmes personnes, de faire des déclarations mensongères ou de
 procéder à des dissimulations frauduleuses dans tout document produit au

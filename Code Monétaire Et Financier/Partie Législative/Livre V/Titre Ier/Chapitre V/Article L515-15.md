@@ -44,8 +44,8 @@ l'Autorité de contrôle prudentiel conformément à l'article L. 511-44.
 
 II.-Les expositions sur des personnes publiques comprennent notamment :
 
-1. Les titres de créances émis, ou totalement garantis, par l'une des personnes
-publiques mentionnées aux 1 à 5 du I ;
+1. Les titres de créances émis, ou totalement garantis, par une ou plusieurs des
+personnes publiques mentionnées aux 1 à 5 du I ;
 
 2. Les créances de sommes d'argent, y compris celles résultant d'un contrat à
 exécution successive, sur des personnes publiques mentionnées aux 1 à 5 du I ou

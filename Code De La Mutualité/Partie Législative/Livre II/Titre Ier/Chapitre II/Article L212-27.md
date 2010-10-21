@@ -12,10 +12,10 @@ Les mesures d'assainissement mentionnées au premier alinéa sont, lorsqu'elles
 affectent les droits préexistants des parties autres que l'organisme d'assurance
 lui-même :
 
-1° Les mesures mentionnées aux 2°, 3° et 4° de l'article L. 612-37 du code
+1° Les mesures mentionnées aux 2°, 3° et 4° de l'article L. 612-33 du code
 monétaire et financier ;
 
-2° La sanction prévue au 3° de l'article L. 612-43 du code monétaire et
+2° La sanction prévue au 3° de l'article L. 612-39 du code monétaire et
 financier ou le retrait partiel d'agrément mentionné au 6° du même article ;
 
 3° (abrogé)

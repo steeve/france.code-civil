@@ -1,21 +1,25 @@
 Article L631-1
 ----
-I. - L'Autorité de contrôle prudentiel et l'Autorité des marchés financiers
-coopèrent entre elles. Elles se communiquent les renseignements utiles à
-l'accomplissement de leurs missions respectives.
+I.-La Banque de France, l'Autorité de contrôle prudentiel et l'Autorité des
+marchés financiers coopèrent entre elles. Elles se communiquent les
+renseignements utiles à l'accomplissement de leurs missions respectives.
 
 L'Autorité de contrôle prudentiel, l'Autorité des marchés financiers et le Haut
 Conseil du commissariat aux comptes peuvent également se communiquer les
 renseignements utiles à l'exercice de leurs missions respectives.
 
-II. - Les autorités mentionnées au I, le fonds de garantie des dépôts institué
-par l'article L. 312-4, le fonds de garantie institué par l'article L. 423-1 du
-code des assurances, les entreprises de marché et les chambres de compensation
-sont autorisés à se communiquer les renseignements nécessaires à
-l'accomplissement de leurs missions respectives.
+II.-Les autorités mentionnées au I, le fonds de garantie des dépôts institué par
+l'article L. 312-4, le fonds de garantie institué par l'article L. 423-1 du code
+des assurances, le fonds de garantie des assurances obligatoires de dommages
+institué par l'article L. 421-1 du même code, le fonds paritaire de garantie
+institué par l'article L. 931-35 du code de la sécurité sociale, le fonds de
+garantie institué par l'article L. 431-1 du code de la mutualité, les
+entreprises de marché et les chambres de compensation sont autorisés à se
+communiquer les renseignements nécessaires à l'accomplissement de leurs missions
+respectives.
 
-III. - Les renseignements recueillis conformément aux I et II sont couverts par
-le secret professionnel en vigueur dans les conditions applicables à l'organisme
+III.-Les renseignements recueillis conformément aux I et II sont couverts par le
+secret professionnel en vigueur dans les conditions applicables à l'organisme
 qui les a communiqués et à l'organisme destinataire.
 
 Ces renseignements ne peuvent être utilisés, par les autorités mentionnées aux

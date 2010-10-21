@@ -31,8 +31,9 @@ effectivement ;
 
 3° De veiller au respect par les personnes soumises à son contrôle des règles
 destinées à assurer la protection de leur clientèle, résultant notamment de
-toute disposition législative et réglementaire ou des règles de bonne pratique
-de leur profession, constatées ou résultant de ses recommandations, ainsi qu'à
+toute disposition législative et réglementaire ou des codes de conduite
+approuvés à la demande d'une association professionnelle, ainsi que des bonnes
+pratiques de leur profession qu'elle constate ou recommande, ainsi qu'à
 l'adéquation des moyens et procédures qu'elles mettent en œuvre à cet effet ;
 elle veille également à l'adéquation des moyens et procédures que ces personnes
 mettent en œuvre pour respecter le livre Ier du code de la consommation.

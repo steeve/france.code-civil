@@ -4,11 +4,12 @@ I.-La méconnaissance des obligations énoncées à l'article L. 731-3 est punie
 d'une amende égale au quart de la somme sur laquelle a porté l'infraction ou la
 tentative d'infraction.
 
-II.-En cas de constatation de l'infraction mentionnée au I par les agents des
+II. - En cas de constatation de l'infraction mentionnée au I par les agents des
 douanes, ceux-ci consignent la totalité de la somme sur laquelle a porté
-l'infraction ou la tentative d'infraction, pendant une durée de trois mois,
-renouvelable sur autorisation du procureur de la République territorialement
-compétent, dans la limite de six mois au total.
+l'infraction ou la tentative d'infraction, pendant une durée de six mois,
+renouvelable sur autorisation du procureur de la République du lieu de la
+direction des douanes dont dépend le service chargé de la procédure, dans la
+limite de douze mois au total.
 
 La somme consignée est saisie et sa confiscation peut être prononcée par la
 juridiction compétente si, pendant la durée de la consignation, il est établi

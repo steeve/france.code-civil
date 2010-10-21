@@ -16,11 +16,15 @@ du règlement extrajudiciaire des litiges transfrontaliers.
 
 Elle peut formuler des propositions de modifications des lois et règlements
 concernant l'information des porteurs d'instruments financiers et du public, les
-marchés d'instruments financiers et le statut des prestataires de services
-d'investissement.
+marchés d'instruments financiers et d'actifs mentionnés au II de l'article L.
+421-1 et le statut des prestataires de services d'investissement.
 
 Elle établit chaque année un rapport au Président de la République et au
-Parlement, qui est publié au Journal officiel de la République française.
+Parlement, qui est publié au Journal officiel de la République française. Ce
+rapport présente, en particulier, les évolutions du cadre réglementaire de
+l'Union européenne applicable aux marchés financiers et dresse le bilan de la
+coopération avec les autorités de régulation de l'Union européenne et des autres
+Etats membres.
 
 Le président de l'Autorité des marchés financiers est entendu, sur leur demande,
 par les commissions des finances des deux assemblées et peut demander à être

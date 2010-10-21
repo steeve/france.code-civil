@@ -20,8 +20,9 @@ tout ou partie des actifs de la personne contrôlée ;
 d'arbitrages, le versement d'avances sur contrat ou la faculté de renonciation ;
 
 5° Prononcer le transfert d'office de tout ou partie du portefeuille des
-contrats d'assurance ou de règlements mutualistes des personnes mentionnées aux
-1°, 3° et 5° du B du I de l'article L. 612-2 ;
+contrats d'assurance ou de règlements ou de bulletins d'adhésion à des contrats
+ou règlements des personnes mentionnées aux 1°, 3° et 5° du B du I de l'article
+L. 612-2 ;
 
 6° Décider d'interdire ou de limiter la distribution d'un dividende aux
 actionnaires ou d'une rémunération des parts sociales aux sociétaires de ces

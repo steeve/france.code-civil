@@ -18,7 +18,7 @@ assurances ;
 
 b) Les organismes de placement collectif mentionnés à l'article L. 214-1, ainsi
 que les sociétés chargées de la gestion des organismes de placement collectif
-mentionnés aux 2, 3 et 4 du I de l'article L. 214-1 ;
+mentionnés aux 2,3 et 4 du I de l'article L. 214-1 ;
 
 c) Les institutions de retraites professionnelles mentionnées à l'article L.
 370-1 du code des assurances pour leurs opérations mentionnées à l'article L.
@@ -45,10 +45,7 @@ d'une activité d'expert-comptable, dans la mesure où celle-ci est régie par d
 dispositions législatives ou réglementaires ou par un code de déontologie
 approuvé par une autorité publique qui ne l'interdisent pas formellement ;
 
-h) Les personnes dont l'activité est régie par le chapitre Ier du titre IV du
-livre III à la condition qu'elles soient mandatées, conformément à l'article L.
-341-4, par des personnes habilitées à fournir les mêmes services
-d'investissement ;
+h) (abrogé)
 
 i) Les personnes qui ne fournissent aucun autre service d'investissement que la
 négociation pour compte propre, à moins qu'elles ne soient teneurs de marché ou

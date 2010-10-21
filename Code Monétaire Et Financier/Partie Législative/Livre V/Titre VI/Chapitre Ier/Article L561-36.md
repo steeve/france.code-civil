@@ -13,14 +13,14 @@ et 8° du B du I et au 3° du II de cet article ;
 b) A cette fin, le contrôle de l'Autorité de contrôle prudentiel sur la Caisse
 des dépôts et consignations est exercé, dans les conditions prévues à l'article
 L. 612-17, selon les modalités prévues par les articles L. 612-23 à L. 612-27,
-L. 612-31, L. 612-44, ainsi qu'aux 1° et 2° du I de l'article L. 612-39 ;
+L. 612-31, L. 612-44, ainsi qu'aux 1° et 2° de l'article L. 612-39 ;
 
 L'Autorité de contrôle prudentiel peut adresser à la Caisse des dépôts et
 consignations des recommandations ou des injonctions de prendre les mesures
 appropriées pour améliorer ses procédures ou son organisation.
 
 L'Autorité de contrôle prudentiel peut également prononcer à son encontre, soit
-à la place, soit en sus des sanctions prévues aux 1° et 2° du I de l'article L.
+à la place, soit en sus des sanctions prévues aux 1° et 2° de l'article L.
 612-39, compte tenu de la gravité des manquements, une sanction pécuniaire d'un
 montant maximal égal au décuple du capital minimum auquel sont astreintes les
 banques. Les sommes correspondantes sont recouvrées par le Trésor public et

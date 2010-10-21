@@ -11,11 +11,12 @@ un marché d'instruments financiers admettant aux négociations des actions
 pouvant être inscrites en compte chez un intermédiaire mentionné à l'article L.
 211-3 du code monétaire et financier, toute personne physique ou morale agissant
 seule ou de concert qui vient à posséder un nombre d'actions représentant plus
-du vingtième, du dixième, des trois vingtièmes, du cinquième, du quart, du
-tiers, de la moitié, des deux tiers, des dix-huit vingtièmes ou des dix-neuf
-vingtièmes du capital ou des droits de vote informe la société dans un délai
-fixé par décret en Conseil d'Etat, à compter du franchissement du seuil de
-participation, du nombre total d'actions ou de droits de vote qu'elle possède.
+du vingtième, du dixième, des trois vingtièmes, du cinquième, du quart, des
+trois dixièmes (1), du tiers, de la moitié, des deux tiers, des dix-huit
+vingtièmes ou des dix-neuf vingtièmes du capital ou des droits de vote informe
+la société dans un délai fixé par décret en Conseil d'Etat, à compter du
+franchissement du seuil de participation, du nombre total d'actions ou de droits
+de vote qu'elle possède.
 
 L'information mentionnée à l'alinéa précédent est également donnée dans les
 mêmes délais lorsque la participation en capital ou en droits de vote devient
@@ -29,7 +30,7 @@ a) Le nombre de titres qu'elle possède donnant accès à terme aux actions à
 
 b) Les actions déjà émises que cette personne peut acquérir, en vertu d'un
 accord ou d'un instrument financier mentionné à l'article L. 211-1 du code
-monétaire et financier , sans préjudice des dispositions du 4° du I de l'article
+monétaire et financier, sans préjudice des dispositions du 4° du I de l'article
 L. 233-9 du présent code. Il en est de même pour les droits de vote que cette
 personne peut acquérir dans les mêmes conditions ;
 
@@ -60,11 +61,12 @@ similaire à la possession d'actions.
 III.-Les statuts de la société peuvent prévoir une obligation supplémentaire
 d'information portant sur la détention de fractions du capital ou des droits de
 vote inférieures à celle du vingtième mentionnée au I.L'obligation porte sur la
-détention de chacune de ces fractions, qui ne peuvent être inférieures à 0, 5 %
+détention de chacune de ces fractions, qui ne peuvent être inférieures à 0,5 %
 du capital ou des droits de vote.
 
-IV.-Les obligations d'information prévues aux I, II et III ne s'appliquent pas
-aux actions :
+IV.-Les obligations d'information prévues aux I, II et III du présent article
+ainsi que l'obligation d'information prévue au I de l'article L. 225-126 ne
+s'appliquent pas aux actions :
 
 1° Acquises aux seules fins de la compensation, du règlement ou de la livraison
 d'instruments financiers, dans le cadre habituel du cycle de règlement à court
@@ -74,8 +76,8 @@ terme défini par le règlement général de l'Autorité des marchés financiers
 activité de tenue de compte et de conservation ;
 
 3° Détenues par un prestataire de services d'investissement dans son
-portefeuille de négociation au sens de la directive 2006 / 49 / CE du Parlement
-et du Conseil du 14 juin 2006 sur l'adéquation des fonds propres des entreprises
+portefeuille de négociation au sens de la directive 2006/49/ CE du Parlement et
+du Conseil du 14 juin 2006 sur l'adéquation des fonds propres des entreprises
 d'investissement et des établissements de crédit à condition que ces actions ne
 représentent pas une quotité du capital ou des droits de vote de l'émetteur de
 ces titres supérieure à un seuil fixé par le règlement général de l'Autorité des
@@ -107,7 +109,7 @@ détenant une fraction du capital ou des droits de vote de la société émettri
 au moins égale à la plus petite fraction du capital dont la détention doit être
 déclarée. Cette fraction ne peut toutefois être supérieure à 5 %.
 
-VII. - Lorsque les actions de la société sont admises aux négociations sur un
+VII.-Lorsque les actions de la société sont admises aux négociations sur un
 marché réglementé, la personne tenue à l'information prévue au I est tenue de
 déclarer, à l'occasion des franchissements de seuil du dixième, des trois
 vingtièmes, du cinquième ou du quart du capital ou des droits de vote, les
@@ -135,26 +137,26 @@ En cas de changement d'intention dans le délai de six mois à compter du dépô
 cette déclaration, une nouvelle déclaration motivée doit être adressée à la
 société et à l'Autorité des marchés financiers sans délai et portée à la
 connaissance du public dans les mêmes conditions. Cette nouvelle déclaration
-fait courir à nouveau le délai de six mois mentionné au premier alinéa."
+fait courir à nouveau le délai de six mois mentionné au premier alinéa. "
 
-" Art. L. 233-7-1 - Lorsque les actions de la société ont cessé d'être admises
-aux négociations sur un marché réglementé pour être admises aux négociations sur
-un système multilatéral de négociation qui se soumet aux dispositions
-législatives ou réglementaires visant à protéger les investisseurs contre les
-opérations d'initiés, les manipulations de cours et la diffusion de fausses
-informations, la personne tenue à l'information mentionnée au I de l'article L.
-233-7 informe également l'Autorité des marchés financiers dans un délai et selon
-des modalités fixées par son règlement général, à compter du franchissement du
-seuil de participation, pendant une durée de trois ans à compter de la date à
-laquelle ces actions ont cessé d'être admises aux négociations sur un marché
-réglementé. Cette information est portée à la connaissance du public dans les
-conditions fixées par le règlement général de l'Autorité des marchés financiers.
+" Art.L. 233-7-1-Lorsque les actions de la société ont cessé d'être admises aux
+négociations sur un marché réglementé pour être admises aux négociations sur un
+système multilatéral de négociation qui se soumet aux dispositions législatives
+ou réglementaires visant à protéger les investisseurs contre les opérations
+d'initiés, les manipulations de cours et la diffusion de fausses informations,
+la personne tenue à l'information mentionnée au I de l'article L. 233-7 informe
+également l'Autorité des marchés financiers dans un délai et selon des modalités
+fixées par son règlement général, à compter du franchissement du seuil de
+participation, pendant une durée de trois ans à compter de la date à laquelle
+ces actions ont cessé d'être admises aux négociations sur un marché réglementé.
+Cette information est portée à la connaissance du public dans les conditions
+fixées par le règlement général de l'Autorité des marchés financiers.
 
 L'alinéa précédent est applicable aux sociétés dont la capitalisation boursière
 est inférieure à un milliard d'euros.
 
 Le VII de l'article L. 233-7 est également applicable à la personne mentionnée
-au premier alinéa du présent article."
+au premier alinéa du présent article. "
 
 " Art.L. 233-8-I.-Au plus tard dans les quinze jours qui suivent l'assemblée
 générale ordinaire, toute société par actions informe ses actionnaires du nombre
@@ -166,11 +168,16 @@ informe ses actionnaires.
 
 II.-Les sociétés mentionnées au I de l'article L. 233-7 dont des actions sont
 admises aux négociations sur un marché réglementé d'un Etat partie à l'accord
-sur l'Espace économique européen publient chaque mois le nombre total de droits
+sur l'Espace économique européen ou dont les actions sont admises aux
+négociations sur un système multilatéral de négociation qui se soumet aux
+dispositions législatives ou réglementaires visant à protéger les investisseurs
+contre les opérations d'initiés, les manipulations de cours et la diffusion de
+fausses informations dans les conditions déterminées par le règlement général de
+l'Autorité des marchés financiers publient chaque mois le nombre total de droits
 de vote et le nombre d'actions composant le capital de la société s'ils ont
 varié par rapport à ceux publiés antérieurement, dans des conditions et selon
 des modalités fixées par le règlement général de l'Autorité des marchés
-financiers. Ces sociétés sont réputées remplir l'obligation prévue au I."
+financiers. Ces sociétés sont réputées remplir l'obligation prévue au I. "
 
 " Art.L. 233-9.-I.-Sont assimilés aux actions ou aux droits de vote possédés par
 la personne tenue à l'information prévue au I de l'article L. 233-7 :
@@ -222,17 +229,17 @@ sauf exceptions prévues par ce même règlement ;
 
 3° Les instruments financiers mentionnés au 4° du I détenus par un prestataire
 de services d'investissement dans son portefeuille de négociation au sens de la
-directive 2006 / 49 / CE du Parlement et du Conseil du 14 juin 2006 sur
+directive 2006/49/ CE du Parlement et du Conseil du 14 juin 2006 sur
 l'adéquation des fonds propres des entreprises d'investissement et des
 établissements de crédit à condition que ces instruments ne donnent pas accès à
 une quotité du capital ou des droits de vote de l'émetteur de ces titres
 supérieure à un seuil fixé par le règlement général de l'Autorité des marchés
-financiers."
+financiers. "
 
 " Art.L. 233-10-I.-Sont considérées comme agissant de concert les personnes qui
-ont conclu un accord en vue d'acquérir ou de céder des droits de vote ou en vue
-d'exercer les droits de vote, pour mettre en oeuvre une politique vis-à-vis de
-la société.
+ont conclu un accord en vue d'acquérir, de céder ou d'exercer des droits de
+vote, pour mettre en œuvre une politique commune vis-à-vis de la société ou pour
+obtenir le contrôle de cette société.
 
 II.-Un tel accord est présumé exister :
 
@@ -262,7 +269,7 @@ ont conclu un accord avec la société qui fait l'objet de l'offre afin de faire
 
 " Art.L. 233-11-Toute clause d'une convention prévoyant des conditions
 préférentielles de cession ou d'acquisition d'actions admises aux négociations
-sur un marché réglementé et portant sur au moins 0, 5 % du capital ou des droits
+sur un marché réglementé et portant sur au moins 0,5 % du capital ou des droits
 de vote de la société qui a émis ces actions doit être transmise dans un délai
 de cinq jours de bourse à compter de la signature de la convention ou de
 l'avenant introduisant la clause concernée, à la société et à l'Autorité des
@@ -303,7 +310,7 @@ dix-huit vingtièmes ou des dix-neuf vingtièmes du capital social ou des droits
 de vote aux assemblées générales. Il fait également apparaître les modifications
 intervenues au cours de l'exercice. Il indique le nom des sociétés contrôlées et
 la part du capital de la société qu'elles détiennent. Il en est fait mention, le
-cas échéant, dans le rapport des commissaires aux comptes."
+cas échéant, dans le rapport des commissaires aux comptes. "
 
 " Art.L. 233-14-L'actionnaire qui n'aurait pas procédé régulièrement à la
 déclaration prévue aux I et II de l'article L. 233-7 ou au VII de cet article
@@ -324,4 +331,4 @@ de vote à l'encontre de tout actionnaire qui n'aurait pas procédé aux
 déclarations prévues à l'article L. 233-7 ou qui n'aurait pas respecté le
 contenu de la déclaration prévue au VII de cet article pendant la période de six
 mois suivant sa publication dans les conditions fixées par le règlement général
-de l'Autorité des marchés financiers."
+de l'Autorité des marchés financiers. "

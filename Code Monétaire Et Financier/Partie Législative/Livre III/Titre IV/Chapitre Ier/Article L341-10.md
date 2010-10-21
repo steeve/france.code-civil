@@ -30,4 +30,4 @@ financiers offerts au public après établissement d'un document d'information
 dans les conditions du titre Ier du livre IV du présent code, des titres émis
 par les sociétés de capital-risque mentionnées à l'article 1er-1 de la loi n°
 85-695 du 11 juillet 1985 précitée et des produits proposés dans le cadre d'un
-dispositif relevant du titre IV du livre IV du code du travail.
+dispositif relevant du livre III de la troisième partie du code du travail.

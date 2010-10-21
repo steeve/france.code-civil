@@ -2,5 +2,5 @@ Article L515-29
 ----
 L'Autorité de contrôle prudentiel veille au respect par les sociétés de crédit
 foncier des obligations leur incombant en application de la présente section et
-sanctionne, dans les conditions prévues par les articles L. 613-1 à L. 613-8, L.
-613-10 à L. 613-23, L. 613-25 à L. 613-30, les manquements constatés.
+sanctionne, dans les conditions prévues au chapitre II et aux sections 1 et 2 du
+chapitre III du titre Ier du livre VI, les manquements constatés.

@@ -1,6 +1,6 @@
 Article L628-3
 ----
-Par dérogation à l'article L. 621-102, il n'est pas procédé, en cas de
-liquidation judiciaire, à la vérification des créances s'il apparaît que le
-produit de la réalisation de l'actif sera entièrement absorbé par les frais de
-justice, sauf décision contraire du juge-commissaire.
+Lorsque le conciliateur est inscrit sur la liste prévue à l'article L. 811-2, le
+tribunal le désigne administrateur judiciaire. Par décision spécialement
+motivée, il peut désigner une autre personne dans les conditions prévues à ce
+même article.

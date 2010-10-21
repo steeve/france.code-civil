@@ -12,10 +12,13 @@ expérience professionnelle dans les domaines financier ou économique ;
 chargé de l'économie, compte tenu de leur compétence et de leur expérience
 professionnelle dans les domaines financier ou économique ;
 
-4° Un représentant élu des salariés de la Banque de France.
+4° Un représentant élu des salariés de la Banque de France ;
 
-Le mandat des membres du conseil général est de six ans sous réserve des
-dispositions prévues au huitième alinéa. Ils sont tenus au secret professionnel.
+5° Le vice-président de l'Autorité de contrôle prudentiel.
+
+Le mandat des membres du conseil général mentionnés aux 1° à 4° est de six ans
+sous réserve des dispositions prévues au neuvième alinéa. Ils sont tenus au
+secret professionnel.
 
 A compter du 1er janvier 2009, le renouvellement des membres visés au 2° s'opère
 par moitié tous les trois ans. Lors de chaque renouvellement triennal, un membre
@@ -28,7 +31,7 @@ mandat jusqu'à son terme, il est pourvu immédiatement à son remplacement dans
 les conditions prévues à l'alinéa précédent et il n'exerce ses fonctions que
 pour la durée restant à courir du mandat de la personne qu'il remplace.
 
-Les fonctions des membres nommés en application des 2° et 3° ne sont pas
+Les fonctions des membres nommés en application des 2°, 3° et 5° ne sont pas
 exclusives d'une activité professionnelle, après accord du conseil général à la
 majorité des membres autres que l'intéressé. Le conseil général examine
 notamment l'absence de conflit d'intérêts et le respect du principe de

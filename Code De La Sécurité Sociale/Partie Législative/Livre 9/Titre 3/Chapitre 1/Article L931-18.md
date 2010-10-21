@@ -1,26 +1,5 @@
 Article L931-18
 ----
-Lorsque la situation financière d'une institution de prévoyance ou ses
-conditions de fonctionnement sont telles que les intérêts des participants et
-bénéficiaires de bulletins d'adhésion à des règlements ou de contrats et ayants
-droit de ceux-ci sont compromis ou susceptibles de l'être, l'Autorité de
-contrôle prudentiel prend les mesures d'urgence nécessaires à la sauvegarde des
-intérêts des participants, des bénéficiaires, des ayants droit de ceux-ci et des
-organismes réassurés.
-
-Elle peut, à ce titre, mettre l'institution sous surveillance spéciale.
-
-Elle peut aussi restreindre ou interdire la libre disposition de tout ou partie
-des actifs de l'institution, limiter ou suspendre temporairement certaines
-opérations ou désigner un ou plusieurs administrateurs provisoires à qui sont
-transférés les pouvoirs nécessaires à l'administration et à la direction de
-l'institution. Cette désignation est faite soit à la demande des dirigeants
-lorsqu'ils estiment ne plus être en mesure d'exercer normalement leurs
-fonctions, soit à l'initiative de l'Autorité de contrôle prudentiel lorsque la
-gestion de l'institution ne peut plus être assurée dans des conditions normales,
-ou lorsque a été prise la sanction prévue au 4° de l'article L. 612-39 du code
-monétaire et financier.
-
 L'Autorité de contrôle prudentiel peut exiger de l'organisme une marge de
 solvabilité plus importante que celle prescrite par la réglementation afin que
 l'organisme soit rapidement en mesure de satisfaire à l'ensemble des exigences
@@ -31,9 +10,3 @@ d'Etat.
 L'Autorité de contrôle prudentiel peut, par organisme, revoir à la baisse les
 éléments admis à constituer la marge de solvabilité dans des conditions fixées
 par décret en Conseil d'Etat.
-
-Les mesures mentionnées au troisième alinéa du présent article sont levées ou
-confirmées par l'Autorité de contrôle prudentiel, après procédure
-contradictoire, dans un délai prévu par décret en Conseil d'Etat.
-
-Ce même décret précise les modalités d'application du présent article.

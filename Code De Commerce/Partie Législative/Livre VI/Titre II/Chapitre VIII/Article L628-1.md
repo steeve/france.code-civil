@@ -1,17 +1,18 @@
 Article L628-1
 ----
-Les dispositions du présent titre s'appliquent aux personnes physiques,
-domiciliées dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, et
-à leur succession, qui ne sont ni des commerçants, ni des personnes
-immatriculées au répertoire des métiers, ni des agriculteurs, lorsqu'elles sont
-de bonne foi et en état d'insolvabilité notoire.
+Il est institué une procédure de sauvegarde financière accélérée, soumise aux
+règles applicables à la procédure de sauvegarde sous réserve des dispositions du
+présent chapitre.
 
-Avant qu'il ne soit statué sur l'ouverture de la procédure, le tribunal commet,
-s'il l'estime utile, une personne compétente choisie dans la liste des
-organismes agréés, pour recueillir tous renseignements sur la situation
-économique et sociale du débiteur.
+La procédure de sauvegarde accélérée est ouverte sur demande d'un débiteur,
+engagé dans une procédure de conciliation en cours et satisfaisant aux critères
+mentionnés au premier alinéa des articles L. 620-1 et L. 626-29, qui justifie
+avoir élaboré un projet de plan visant à assurer la pérennité de l'entreprise et
+susceptible de recueillir un soutien suffisamment large de la part des
+créanciers mentionnés à l'alinéa suivant pour rendre vraisemblable son adoption
+dans le délai prévu à l'article L. 628-6.
 
-Les déchéances et interdictions qui résultent de la faillite personnelle ne sont
-pas applicables à ces personnes.
-
-Les modalités d'application du présent article sont fixées par décret.
+L'ouverture de la procédure n'a d'effet qu'à l'égard des créanciers mentionnés à
+l'article L. 626-30 comme ayant la qualité de membres du comité des
+établissements de crédit et, s'il y a lieu, de ceux mentionnés à l'article L.
+626-32.

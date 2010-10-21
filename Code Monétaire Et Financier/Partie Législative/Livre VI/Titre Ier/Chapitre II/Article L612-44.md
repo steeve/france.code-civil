@@ -18,8 +18,8 @@ L'Autorité de contrôle prudentiel peut, en outre, transmettre des observations
 écrites aux commissaires aux comptes qui sont alors tenus d'apporter des
 réponses en cette forme.
 
-Les dispositions prévues au premier alinéa sont applicables aux contrôleurs
-spécifiques des sociétés de crédit foncier mentionnés à l'article L. 515-30.
+Le premier alinéa est applicable aux contrôleurs spécifiques des sociétés de
+crédit foncier et des sociétés de financement de l'habitat.
 
 II. ― Les commissaires aux comptes sont tenus de signaler dans les meilleurs
 délais à l'Autorité de contrôle prudentiel tout fait ou décision concernant la

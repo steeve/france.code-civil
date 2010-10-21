@@ -4,7 +4,9 @@ I. ― Le collège en formation plénière arrête les principes d'organisation 
 fonctionnement, le budget et le règlement intérieur de l'Autorité. Il examine
 toute question de portée générale commune aux secteurs de la banque et de
 l'assurance et analyse les risques de ces secteurs au regard de la situation
-économique. Il délibère sur les priorités de contrôle.
+économique. Il délibère sur les priorités de contrôle. Il établit chaque année
+un rapport au Président de la République et au Parlement, qui est publié au
+Journal officiel.
 
 Les questions individuelles sont examinées par le collège en formation
 restreinte, par l'un des deux sous-collèges sectoriels ou, le cas échéant, par
@@ -30,6 +32,10 @@ II. ― Le président de l'Autorité de contrôle prudentiel arrête l'ordre du 
 des différentes formations du collège.L'ordre du jour du sous-collège sectoriel
 de l'assurance est arrêté par le président de l'Autorité de contrôle prudentiel
 sur proposition du vice-président.
+
+Le président de l'Autorité de contrôle prudentiel est entendu, sur leur demande,
+par les commissions des finances des deux assemblées et peut demander à être
+entendu par elles.
 
 III. ― Le vice-président préside le sous-collège sectoriel de l'assurance. En
 cas d'empêchement du vice-président, le gouverneur ou un sous-gouverneur de la

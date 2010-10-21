@@ -14,6 +14,10 @@ instruments financiers à terme sont fixées par décret en Conseil d'Etat. Ce
 décret fixe également les règles que respecte la composition de l'actif de
 l'organisme.
 
+Pour la réalisation de son objet, un organisme de titrisation peut détenir, à
+titre accessoire, des titres de capital reçus par conversion, échange ou
+remboursement de titres de créances ou de titres donnant accès au capital.
+
 Les parts ou actions et les titres de créances émis par l'organisme peuvent
 donner lieu à des droits différents sur le capital et les intérêts. Le règlement
 ou les statuts de l'organisme et tout contrat conclu pour le compte de

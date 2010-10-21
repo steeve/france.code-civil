@@ -9,5 +9,11 @@ juridiction saisie peut ordonner qu'il soit sursis à l'exécution de la décisi
 contestée si celle-ci est susceptible d'entraîner des conséquences manifestement
 excessives.
 
+Les décisions prononcées par la commission des sanctions peuvent faire l'objet
+d'un recours par les personnes sanctionnées et par le président de l'Autorité
+des marchés financiers, après accord du collège. En cas de recours d'une
+personne sanctionnée, le président de l'autorité peut, dans les mêmes
+conditions, former un recours.
+
 Un décret en Conseil d'Etat précise les modalités d'application du présent
 article.
