@@ -1,6 +1,6 @@
 Article R6147-61
 ----
-Le président du conseil d'administration désigne, parmi les membres appartenant
-aux collèges mentionnés aux 1° et 3° de l'article R. 6147-59 ou de l'article R.
-6147-60, un président suppléant qui le remplace en cas d'absence ou
-d'empêchement.
+Les attributions du directeur général de l'agence régionale de santé sont
+exercées, pour le Centre hospitalier national d'ophtalmologie des Quinze-Vingts
+et l'hôpital national de Saint-Maurice, par le directeur général de l'agence
+régionale de santé d'Ile-de-France.
