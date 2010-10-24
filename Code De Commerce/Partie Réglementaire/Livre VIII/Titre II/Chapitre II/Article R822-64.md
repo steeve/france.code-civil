@@ -1,14 +1,19 @@
 Article R822-64
 ----
-Dans les cas prévus à l'article R. 822-63, après un appel infructueux adressé
-par lettre recommandée avec demande d'avis de réception rappelant les
-obligations de l'intéressé, le conseil régional saisit la commission régionale
-d'inscription.
+Lorsqu'un membre de la compagnie n'a pas payé à leur échéance les cotisations,
+droits et contributions dont il est redevable, le conseil régional met en
+demeure l'intéressé d'avoir à respecter ses obligations dans un délai de trente
+jours à compter de la réception de l'acte.
 
-Cette dernière convoque et entend le commissaire aux comptes intéressé, qui peut
-se faire assister d'un conseil de son choix.
+Faute de régularisation dans ce délai, il saisit la commission régionale
+d'inscription. Cette dernière convoque et entend le commissaire aux comptes dans
+un délai de deux mois.L'intéressé peut se faire assister d'un conseil de son
+choix ou représenter par un avocat.
 
-Elle procède, le cas échéant, à son omission de la liste.
+En l'absence de motif légitime, la commission procède à son omission.
 
 Les décisions en matière d'omission sont prises dans les mêmes formes et donnent
 lieu aux mêmes recours qu'en matière d'inscription.
+
+La réitération de ce comportement constitue un manquement passible de poursuites
+disciplinaires.
