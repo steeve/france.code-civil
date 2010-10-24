@@ -6,9 +6,12 @@ I.-La commission est composée comme suit :
 
 2° Le directeur général de la santé ou son représentant ;
 
-3° Le directeur général de l'enseignement supérieur ou son représentant ;
+3° Le directeur général pour l'enseignement supérieur et l'insertion
+professionnelle ou son représentant ;
 
-4° Deux représentants du Conseil national de l'ordre de la profession concernée.
+4° Le directeur général du centre national de gestion, ou son représentant ;
+
+5° Deux représentants du Conseil national de l'ordre de la profession concernée.
 
 II.-La section compétente pour l'examen des demandes d'autorisation d'exercice
 présentées par les médecins comprend en outre :

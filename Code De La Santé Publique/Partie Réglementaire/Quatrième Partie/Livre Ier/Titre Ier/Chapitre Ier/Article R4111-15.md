@@ -5,13 +5,16 @@ professions.
 
 Elle comprend :
 
-1° Le directeur général de l'offre de soins , président ;
+1° Le directeur général de l'offre de soins, président ;
 
 2° Le directeur général de la santé ;
 
-3° Le directeur général de l'enseignement supérieur ;
+3° Le directeur général pour l'enseignement supérieur et l'insertion
+professionnelle ;
 
-4° Deux représentants du conseil national de l'ordre concerné.
+4° Le directeur général du centre national de gestion, ou son représentant ;
+
+5° Deux représentants du conseil national de l'ordre concerné.
 
 Elle comprend en outre :
 
