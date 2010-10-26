@@ -20,7 +20,9 @@ d'une décision judiciaire ;
 
 3° La copie du réquisitoire définitif et de la décision de condamnation ;
 
-4° Et, s'il y a lieu, les avis indiqués à l'article D. 78.
+4° Et, s'il y a lieu, les avis indiqués à l'article D. 78 ;
+
+5° Le bulletin n° 1 du casier judiciaire du condamné.
 
 Ces pièces doivent être envoyées dans les plus brefs délais possibles.
 
