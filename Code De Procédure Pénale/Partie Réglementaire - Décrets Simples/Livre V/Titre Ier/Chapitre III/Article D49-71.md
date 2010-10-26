@@ -1,9 +1,8 @@
 Article D49-71
 ----
 Le procureur de la République ou le procureur général, lorsqu'il ramène à
-exécution une peine d'emprisonnement dans le cas prévu par l'article 723-16 ou
-après que le juge de l'application des peines lui a retourné l'extrait de
-jugement dans le cas prévu par le dernier alinéa de l'article 723-15, peut en
+exécution une peine d'emprisonnement dans le cas prévu par les deuxième et
+troisième alinéas de l'article 723-15-2 et par l'article 723-16, peut en
 informer la victime, sauf s'il a été fait application des dispositions des
 articles D. 49-72 ou D. 49-73.
 

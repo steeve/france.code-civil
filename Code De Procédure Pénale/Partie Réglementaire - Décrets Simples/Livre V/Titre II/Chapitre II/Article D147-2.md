@@ -39,4 +39,5 @@ mineurs, à l'exception, le cas échéant, de ceux désignés par la décision.
 
 La juridiction peut également ordonner que le condamné sera soumis à l'une ou
 plusieurs des obligations ou interdictions mentionnées aux articles 131-36-2,
-132-44, 132-45 et 132-45-1 du code pénal.
+132-44 et 132-45 du code pénal. Elle peut également ordonner une injonction de
+soins conformément aux dispositions de l'article 131-36-4 du code pénal.

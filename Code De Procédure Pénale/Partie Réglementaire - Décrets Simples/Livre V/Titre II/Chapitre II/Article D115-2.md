@@ -19,4 +19,4 @@ bénéficié ; le retrait du crédit de réduction de peine prévu par les artic
 721 (alinéa 5), 721-2 et 723-35 ne saurait alors être supérieur à ce quantum.
 
 Si le condamné n'était pas écroué, il est procédé conformément aux dispositions
-des articles D. 147-6 et suivants.
+des articles D. 147-10 et suivants.

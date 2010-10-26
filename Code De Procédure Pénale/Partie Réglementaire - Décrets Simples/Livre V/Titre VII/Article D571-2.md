@@ -3,7 +3,9 @@ Article D571-2
 Le ministère public près la juridiction qui a prononcé la condamnation à
 l'interdiction de séjour devenue exécutoire remet ou fait remettre au condamné
 un document lui permettant de justifier de sa situation au regard de
-l'interdiction de séjour. Ce document est remis au condamné incarcéré lors de sa
+l'interdiction de séjour. Lorsque l'interdiction de séjour a été prononcée avec
+exécution provisoire, ce document peut être remis à l'issue de l'audience.
+Lorsque le condamné a été incarcéré, ce document lui est remis lors de sa
 libération. Si le condamné est convoqué par le juge d'application des peines
 alors que ce document n'a pu lui être remis auparavant, ce magistrat en assure
 la remise.

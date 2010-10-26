@@ -1,11 +1,25 @@
 Article D147-12
 ----
-Lorsque le juge des enfants est compétent en application de l'article 20-9 de
-l'ordonnance n° 45-174 du 2 février 1945, il exerce les attributions du juge de
-l'application des peines.
+Si le condamné a déjà été écroué en détention provisoire, le juge de
+l'application des peines qui reçoit la copie de la décision en application de
+l'article 723-15 examine la situation de l'intéressé au regard du crédit de
+réduction de peine dont il bénéficie pour l'intégralité de la peine et des
+éventuelles réductions de peine supplémentaires susceptibles de lui être
+octroyées sur la partie de la condamnation subie en détention provisoire.
 
-Lorsque le secteur public de la protection judiciaire de la jeunesse est
-compétent en application de l'article D. 49-47, le directeur territorial de la
-protection judiciaire de la jeunesse exerce les attributions du directeur du
-service pénitentiaire d'insertion et de probation. Dans ce cadre, il peut
-déléguer sa signature et ses pouvoirs à l'un de ses directeurs de service.
+Il statue alors sans l'avis préalable de la commission de l'application des
+peines, mais, sauf urgence ou impossibilité, après avis du chef d'établissement
+dans lequel le condamné était écroué et au vu d'une synthèse socio-éducative
+établie par le service pénitentiaire d'insertion et de probation compétent de
+cet établissement.
+
+Le chef d'établissement ou le procureur de la République peuvent saisir le juge
+de l'application des peines aux fins de retrait de tout ou partie du bénéfice du
+crédit de réduction de peine, en cas de mauvaise conduite du condamné pendant sa
+détention provisoire.
+
+Si, du fait du crédit de réduction de peine et des réductions de peine
+éventuellement octroyées par le juge de l'application des peines, il ne reste
+plus aucun reliquat d'emprisonnement à accomplir, le juge de l'application des
+peines en informe le procureur de la République après avoir procédé aux
+formalités prévues par l'article D. 147-13.

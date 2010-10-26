@@ -2,7 +2,7 @@ Article D49-23
 ----
 Conformément aux dispositions de l'article 712-21, et sous réserve des
 dispositions des deux derniers alinéas du présent article et de l'article D.
-147-9-1, les mesures de réduction de peine entraînant la libération immédiate du
+147-15, les mesures de réduction de peine entraînant la libération immédiate du
 condamné, de permission de sortir, de placement à l'extérieur, de semi-liberté,
 de fractionnement et suspension des peines, de placement sous surveillance
 électronique fixe, de libération conditionnelle et de relèvement de la période
@@ -16,11 +16,12 @@ suivi socio-judiciaire est encouru :
 2° Les crimes de tortures et d'actes de barbarie prévus par les articles 222-1 à
 222-6 du code pénal ;
 
-3° Les crimes et délits de violences commis par le conjoint ou le concubin de la
-victime ou le partenaire lié à celle-ci par un pacte civil de solidarité, ou par
-son ancien conjoint, son ancien concubin ou l'ancien partenaire lié à celle-ci
-par un pacte civil de solidarité, prévus par les articles 222-8 (6°), 222-10
-(6°), 222-12 (6°) et 222-13 (6°) du code pénal ;
+3° Les crimes et délits de violences ou de menaces commis par le conjoint ou le
+concubin de la victime ou le partenaire lié à celle-ci par un pacte civil de
+solidarité, ou par son ancien conjoint, son ancien concubin ou l'ancien
+partenaire lié à celle-ci par un pacte civil de solidarité, prévus par les
+articles 222-8 (6°),222-10 (6°),222-12 (6°),222-13 (6°),222-14 et 222-18-3 du
+code pénal ;
 
 4° Les crimes et délits de violences commis sur un mineur de quinze ans par un
 ascendant légitime, naturel ou adoptif ou par toute autre personne ayant
@@ -55,7 +56,7 @@ condamné une expertise datant de moins de deux ans, y compris si celle-ci a ét
 réalisée avant la condamnation.
 
 Sauf lorsqu'il s'agit d'une condamnation prononcée pour une infraction
-mentionnée à l'article 706-47 et qui est visée aux 2°, 5°, 6° et 9° ci-dessus ou
+mentionnée à l'article 706-47 et qui est visée aux 2°,5°,6° et 9° ci-dessus ou
 constitue un meurtre ou un assassinat commis sur un mineur ou en récidive
 légale, le juge de l'application des peines peut également, avec l'accord du
 procureur de la République, ordonner par ordonnance motivée une permission de

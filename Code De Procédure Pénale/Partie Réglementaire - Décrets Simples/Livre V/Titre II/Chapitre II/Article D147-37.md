@@ -1,13 +1,16 @@
 Article D147-37
 ----
-Sauf décision contraire du juge de l'application des peines ou, pour les
-personnes condamnées pour des faits commis avant le 14 décembre 2005, du
-tribunal de l'application des peines, la surveillance judiciaire comporte
-l'obligation de respecter l'injonction de soins prévue par l'article 131-36-4 du
-code pénal lorsque l'expertise médicale prévue par l'article 723-31 ou par
-l'article D. 147-36 conclut que le condamné est susceptible de faire l'objet
-d'un traitement. La juridiction constate cette obligation dans sa décision de
-placement sous surveillance judiciaire.
+Conformément aux dispositions du dernier alinéa de l'article 723-29, la
+surveillance judiciaire comporte l'obligation de respecter l'injonction de soins
+prévue par l'article 131-36-4 du code pénal lorsque l'expertise médicale prévue
+par l'article 723-31 ou par l'article D. 147-36 conclut que le condamné est
+susceptible de faire l'objet d'un traitement. Le tribunal de l'application des
+peines constate cette obligation dans sa décision de placement sous surveillance
+judiciaire. Le tribunal de l'application des peines peut toutefois écarter cette
+obligation lorsque, conformément aux dispositions du dernier alinéa de l'article
+723-29, le juge de l'application des peines a indiqué, en saisissant le tribunal
+en application de l'article D. 147-35, qu'une injonction de soins n'était pas
+nécessaire.
 
 Si la surveillance judiciaire comporte une injonction de soins, les dispositions
 du suivi socio-judiciaire relatives à cette injonction sont applicables, sous

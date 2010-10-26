@@ -1,15 +1,21 @@
 Article D147-22
 ----
-Lorsque le juge de l'application des peines est tenu d'ordonner une expertise
-psychiatrique pour les condamnés relevant des dispositions du cinquième alinéa
-de l'article 712-21, il en informe le directeur du service pénitentiaire
-d'insertion et de probation, et le délai de trois semaines prévu par les
-articles 723-21 et 723-24 est suspendu jusqu'à ce que les conclusions de
-l'expertise soient remises à ce magistrat qui en transmet sans délai une copie
-au directeur du service pénitentiaire d'insertion et de probation.
+S'il s'agit de la mesure de placement sous surveillance électronique, le
+condamné est informé qu'il peut être assisté par un avocat, choisi par lui ou
+désigné d'office par le bâtonnier à sa demande, avant de donner son accord. Cet
+avocat peut librement communiquer avec le condamné, le permis de communiquer lui
+étant délivré par le directeur du service pénitentiaire d'insertion et de
+probation.
 
-Il en est de même dans le cas prévu par l'article 763-4.
+Le directeur du service pénitentiaire d'insertion et de probation informe le
+condamné, le cas échéant par l'intermédiaire de son service, qu'il peut demander
+qu'un médecin vérifie que la mise en œuvre du procédé de placement sous
+surveillance électronique ne présente pas d'inconvénient pour sa santé. Le
+directeur du service pénitentiaire d'insertion et de probation peut demander
+qu'il en soit désigné un par le procureur de la République. Cette désignation
+est de droit à la demande du condamné. Le certificat médical est versé au
+dossier.
 
-Le juge de l'application des peines n'est toutefois pas tenu d'ordonner une
-telle expertise s'il décide de refuser l'homologation de la mesure ou dans le
-cas prévu par l'article D. 49-23.
+Le service pénitentiaire d'insertion et de probation procède si nécessaire au
+recueil de l'accord du propriétaire ou du locataire des locaux où devra résider
+le condamné.

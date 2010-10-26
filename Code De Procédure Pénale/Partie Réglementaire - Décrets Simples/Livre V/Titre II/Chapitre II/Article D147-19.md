@@ -1,6 +1,12 @@
 Article D147-19
 ----
-S'il l'estime nécessaire, le juge de l'application des peines peut, avant
-d'ordonner ou de refuser l'homologation de la proposition, procéder à l'audition
-du condamné, le cas échéant en présence de son avocat, et procéder à tout autre
-acte utile conformément aux dispositions de l'article 712-16.
+Pour tous les condamnés visés à l'article 723-19, il est créé une cote
+spécifique dans le dossier individuel du condamné tenu au service pénitentiaire
+d'insertion et de probation.
+
+Cette cote particulière peut être consultée par l'avocat du condamné, selon des
+modalités compatibles avec les exigences du bon fonctionnement du service
+pénitentiaire d'insertion et de probation.
+
+L'avocat du condamné peut se faire délivrer copie de tout ou partie des pièces
+figurant dans cette cote.

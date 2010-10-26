@@ -3,8 +3,7 @@ Article D142
 La permission de sortir est accordée pour une ou plusieurs sorties. Elle
 autorise le condamné à se rendre en un lieu situé sur le territoire national.
 Elle peut être assortie d'une ou plusieurs conditions, et notamment des
-obligations prévues aux articles 131-36-2, 132-44, 132-45 et 132-45-1 du code
-pénal.
+obligations prévues aux articles 131-36-2, 132-44 et 132-45 du code pénal.
 
 Un délai de route peut être accordé au bénéficiaire de la permission de sortir ;
 il est calculé en fonction de la durée du trajet et des horaires des moyens de
