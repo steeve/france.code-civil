@@ -1,7 +1,8 @@
 Article 43
 ----
-Est puni, pour chacune des infractions visées ci-après, d'une amende de 3000 à
-6000 francs tout capitaine qui refuse ou néglige, sans motif légitime :
+Est puni, pour chacune des infractions visées ci-après, de l'amende prévue pour
+les contraventions de la 5e classe, tout capitaine qui refuse ou néglige, sans
+motif légitime :
 
 1° De faire les constatations requises en cas de crime ou de délit commis à bord
 ;
