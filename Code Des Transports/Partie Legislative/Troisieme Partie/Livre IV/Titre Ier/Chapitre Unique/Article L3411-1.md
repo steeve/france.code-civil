@@ -6,12 +6,13 @@ marchandises s'effectuent sous le couvert d'une licence communautaire ou d'une
 licence de transport intérieur.
 
 La licence communautaire est délivrée dans les conditions prévues par le
-règlement (CEE) n° 684/92 du Conseil du 16 mars 1992 établissant des règles
-communes pour les transports internationaux de voyageurs effectués par autocars
-et autobus ou le règlement (CEE) n° 881/92 du Conseil du 26 mars 1992 concernant
-l'accès au marché des transports de marchandises par route dans la Communauté
-exécutés au départ ou à destination du territoire d'un Etat membre, ou
-traversant le territoire d'un ou de plusieurs Etats membres.
+règlement (CE) n° 1073/2009 du Parlement européen et du Conseil du 21 octobre
+2009 établissant des règles communes pour les transports internationaux de
+voyageurs effectués par autocars et autobus ou le règlement (CE) n° 1072/2009 du
+Parlement européen et du Conseil du 21 octobre 2009 concernant l'accès au marché
+des transports de marchandises par route dans la Communauté exécutés au départ
+ou à destination du territoire d'un Etat membre, ou traversant le territoire
+d'un ou de plusieurs Etats membres.
 
 La licence de transport intérieur est délivrée aux entreprises inscrites au
 registre mentionné aux articles L. 3113-1 et L. 3211-1 et qui n'ont pas
