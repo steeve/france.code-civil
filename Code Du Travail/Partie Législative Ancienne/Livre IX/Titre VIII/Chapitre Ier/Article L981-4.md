@@ -13,7 +13,3 @@ prévues au quatrième alinéa de l'article L. 951-1 et au troisième alinéa de
 l'article L. 952-1 est affectée au financement d'actions de formation réalisées
 dans le cadre de l'article L. 124-21 et ayant pour objet la professionnalisation
 des salariés intérimaires ou l'amélioration de leur insertion professionnelle.
-
-Les dispositions relatives au contrat de professionnalisation sont applicables
-aux personnels navigants des entreprises d'armement maritime dans des conditions
-définies par décret.

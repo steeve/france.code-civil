@@ -1,13 +1,13 @@
 Article L342-8
 ----
-Sont applicables aux remontées mécaniques les dispositions du premier alinéa de
-l'article 1er, des articles 5 et 6, du III de l'article 7, des articles 9, 14,
-16 et 17 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports
-intérieurs, les dispositions du titre III de la loi n° 2002-3 du 3 janvier 2002
-relative à la sécurité des infrastructures et systèmes de transport, aux
-enquêtes techniques et au stockage souterrain de gaz naturel, d'hydrocarbures et
-de produits chimiques, les prescriptions prévues aux articles L. 342-1 à L.
-342-5 du présent code ainsi que, le cas échéant, les dispositions du titre Ier
-de l'ordonnance n° 2004-1198 du 12 novembre 2004 portant diverses dispositions
-d'adaptation au droit communautaire dans le domaine des installations à câbles
-transportant des personnes et relatives aux remontées mécaniques en montagne.
+Sont applicables aux remontées mécaniques les articles L. 342-1 à L. 342-5 ainsi
+que les dispositions suivantes du code des transports :
+
+a) Le chapitre Ier du titre Ier du livre V de la première partie ;
+
+b) Le titre II du livre VI de la première partie ;
+
+c) Le titre Ier du livre II de la deuxième partie ;
+
+d) Les articles L. 1000-2, L. 1111-1, L. 1211-4, L. 1211-5, L. 1221-3, L.
+1221-4, L. 1221-9, L. 1311-3, L. 1311-4, L. 1431-2, L. 1521-1 et L. 1611-1.

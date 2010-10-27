@@ -12,7 +12,7 @@ de l'une des infractions suivantes :
 2° Atteinte volontaire à la vie ou à l'intégrité physique, destruction,
 dégradation ou détérioration, menace d'une atteinte aux personnes ou aux biens
 réprimées par les livres II et III du code pénal ou délits définis par l'article
-224-8 de ce code et par l'article L. 331-2 du code des ports maritimes, si
+224-8 de ce code et par l'article L. 5337-2 du code des transports, si
 l'infraction compromet ou est de nature à compromettre la sécurité de la
 navigation maritime ou d'une plate-forme fixe située sur le plateau continental
 ;

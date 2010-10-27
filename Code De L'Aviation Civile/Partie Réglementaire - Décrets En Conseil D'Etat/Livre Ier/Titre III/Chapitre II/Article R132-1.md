@@ -1,9 +1,5 @@
 Article R132-1
 ----
-Hors le cas de force majeure et les cas prévus à l'alinéa suivant, les aéronefs
-ne peuvent atterrir et prendre le départ que sur les aérodromes régulièrement
-établis.
-
 Un décret pris sur le rapport du ministre chargé de l'aviation civile et du
 ministre de l'intérieur fixe les conditions dans lesquelles les aéronefs de
 certains types peuvent atterrir ou décoller ailleurs que sur un aérodrome avec

@@ -1,11 +1,11 @@
 Article L211-3
 ----
-I. - En complément des règles générales mentionnées à l'article L. 211-2, des
+I.-En complément des règles générales mentionnées à l'article L. 211-2, des
 prescriptions nationales ou particulières à certaines parties du territoire sont
 fixées par décret en Conseil d'Etat afin d'assurer la protection des principes
 mentionnés à l'article L. 211-1.
 
-II. - Ces décrets déterminent en particulier les conditions dans lesquelles
+II.-Ces décrets déterminent en particulier les conditions dans lesquelles
 l'autorité administrative peut :
 
 1° Prendre des mesures de limitation ou de suspension provisoire des usages de
@@ -26,12 +26,12 @@ d'eaux minérales naturelles et à leur protection ;
 
 4° A l'intérieur des zones humides définies à l'article L. 211-1 :
 
-a) Délimiter des zones dites "zones humides d'intérêt environnemental
-particulier" dont le maintien ou la restauration présente un intérêt pour la
+a) Délimiter des zones dites " zones humides d'intérêt environnemental
+particulier " dont le maintien ou la restauration présente un intérêt pour la
 gestion intégrée du bassin versant, ou une valeur touristique, écologique,
 paysagère ou cynégétique particulière. Ces zones peuvent englober les zones
-humides dites "zones stratégiques pour la gestion de l'eau" prévues à l'article
-L. 212-5-1 ;
+humides dites " zones stratégiques pour la gestion de l'eau " prévues à
+l'article L. 212-5-1 ;
 
 b) Etablir, dans les conditions prévues à l'article L. 114-1 du code rural et de
 la pêche maritime, un programme d'actions visant à restaurer, préserver, gérer
@@ -47,7 +47,7 @@ actuel ou futur, les bassins versants connaissant d'importantes marées vertes
 sur les plages, tels que définis par le schéma directeur d'aménagement et de
 gestion des eaux, et sont dès lors de nature à compromettre la réalisation des
 objectifs de bon état, tels que prévus par l'article L. 212-1, des eaux côtières
-et de transition, telles que définies par la directive 2000/60/CE du Parlement
+et de transition, telles que définies par la directive 2000/60/ CE du Parlement
 européen et du Conseil du 23 octobre 2000 établissant un cadre pour une
 politique communautaire dans le domaine de l'eau, qu'ils alimentent, ainsi que
 des zones dans lesquelles l'érosion diffuse des sols agricoles est de nature à
@@ -58,11 +58,11 @@ prévues au 4° du présent article, un programme d'actions à cette fin ;
 6° Délimiter des périmètres à l'intérieur desquels les autorisations de
 prélèvement d'eau pour l'irrigation sont délivrées à un organisme unique pour le
 compte de l'ensemble des préleveurs irrigants. Dans les zones de répartition des
-eaux, l'autorité administrative peut constituer d'office cet organisme.
-L'organisme unique peut faire participer les préleveurs irrigants dans son
-périmètre et, le cas échéant, d'autres contributeurs volontaires aux dépenses
-liées à cette mission. Les critères et les modalités générales de mise en œuvre
-de cette participation sont fixés par décret en Conseil d'Etat ;
+eaux, l'autorité administrative peut constituer d'office cet
+organisme.L'organisme unique peut faire participer les préleveurs irrigants dans
+son périmètre et, le cas échéant, d'autres contributeurs volontaires aux
+dépenses liées à cette mission. Les critères et les modalités générales de mise
+en œuvre de cette participation sont fixés par décret en Conseil d'Etat ;
 
 7° Dans le cas d'une atteinte à la qualité des eaux conduisant ou pouvant
 conduire au non-respect des normes de potabilité, délimiter tout ou partie de
@@ -89,7 +89,7 @@ dans le cadre de services publics gérés dans les conditions prévues aux artic
 L. 1411-1 et suivants, L. 1412-1 et suivants et L. 1415-1 et suivants du code
 général des collectivités territoriales.
 
-III. - Un décret en Conseil d'Etat détermine :
+III.-Un décret en Conseil d'Etat détermine :
 
 1° Les règles destinées à assurer la sécurité des ouvrages hydrauliques autres
 que les ouvrages concédés en application de la loi du 16 octobre 1919 relative à
@@ -109,13 +109,4 @@ publique, directement ou indirectement en cas d'accident, que la cause soit
 interne ou externe à l'ouvrage. Cette étude prend en compte la probabilité
 d'occurrence, la cinétique et la gravité des accidents potentiels selon une
 méthodologie qu'elle explicite. Elle définit et justifie les mesures propres à
-réduire la probabilité et les effets de ces accidents ;
-
-4° Les conditions dans lesquelles le propriétaire ou l'exploitant d'un ouvrage
-mentionné au 3° met en place une signalisation adaptée pour assurer la sécurité
-de la circulation des engins nautiques non motorisés ;
-
-5° Les conditions dans lesquelles est établie et actualisée une liste des
-ouvrages mentionnés au 3°, pour lesquels est mis en place un aménagement adapté
-permettant leur franchissement ou leur contournement pour assurer la circulation
-sécurisée des engins nautiques non motorisés.
+réduire la probabilité et les effets de ces accidents.
