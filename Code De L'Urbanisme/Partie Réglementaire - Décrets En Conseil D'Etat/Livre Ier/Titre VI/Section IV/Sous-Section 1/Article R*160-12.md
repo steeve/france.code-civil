@@ -1,21 +1,26 @@
 Article R*160-12
 ----
-En vue de la modification, par application des alinéas 2 et 3 de l'article L.
-160-6, du tracé ainsi que, le cas échéant, des caractéristiques de la servitude,
-le chef du service maritime adresse au préfet, pour être soumis à enquête, un
-dossier qui comprend ;
+A titre exceptionnel, la servitude instituée par l'article L. 160-6 peut être
+suspendue, notamment dans les cas suivants :
 
-a) Une notice explicative exposant l'objet de l'opération prévue ;
+a) Lorsque les piétons peuvent circuler le long du rivage de la mer grâce à des
+voies ou passages ouverts au public ;
 
-b) Le plan parcellaire des terrains sur lesquels le transfert de la servitude
-est envisagé, avec l'indication du tracé à établir et celle de la largeur du
-passage ;
+b) Si le maintien de la servitude de passage fait obstacle au fonctionnement
+soit d'un service public, soit d'un établissement de pêche bénéficiaire d'une
+concession, soit d'une entreprise de construction ou de réparation navale ;
 
-c) La liste par communes des propriétaires concernés par le transfert de la
-servitude, dressée à l'aide d'extraits des documents cadastraux délivrés par le
-service du cadastre ou à l'aide des renseignements délivrés par le conservateur
-des hypothèques au vu du fichier immobilier, ou par tous autres moyens ;
+c) A l'intérieur des limites d'un port maritime ;
 
-d) L'indication des parties de territoire où il est envisagé de suspendre
-l'application de la servitude, notamment dans les cas visés à l'article R.
-160-14.
+d) A proximité des installations utilisées pour les besoins de la défense
+nationale ;
+
+e) Si le maintien de la servitude de passage est de nature à compromettre soit
+la conservation d'un site à protéger pour des raisons d'ordre écologique ou
+archéologique, soit la stabilité des sols ;
+
+f) Si l'évolution prévisible du rivage est susceptible d'entraîner un recul des
+terres émergées.
+
+La suspension de la servitude est prononcée dans les conditions définies par les
+articles R. 160-14, R. 160-15 et R. 160-17 à R. 160-22.

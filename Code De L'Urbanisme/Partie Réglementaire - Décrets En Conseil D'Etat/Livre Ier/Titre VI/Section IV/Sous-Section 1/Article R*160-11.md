@@ -1,9 +1,24 @@
 Article R*160-11
 ----
-Le tracé ainsi que les caractéristiques de la servitude de passage instituée par
-l'article L. 160-6 peuvent être modifiés dans les conditions définies aux
-articles R. 160-12 à R. 160-15 et R. 160-17 à R. 160-22.
+I.-Le tracé ainsi que les caractéristiques de la servitude de passage instituée
+par l'article L. 160-6 peuvent être modifiés notamment pour tenir compte de
+l'évolution prévisible du rivage afin d'assurer la pérennité du sentier
+permettant le cheminement des piétons.
 
-Les dispositions des mêmes articles, à l'exception des articles R. 160-13 et R.
-160-15, sont applicables au cas de suspension, à titre exceptionnel, de ladite
-servitude.
+II.-Le tracé ainsi que les caractéristiques de la servitude de passage sont
+modifiés dans les conditions définies par les articles R. 160-13 à R. 160-15 et
+R. 160-17 à R. 160-22.
+
+Toutefois, dans les départements d'outre-mer, lorsque existent, dans les zones
+classées comme naturelles ou forestières par les documents d'urbanisme ainsi que
+dans les espaces naturels de la zone des cinquante pas géométriques, délimités
+le cas échéant par application de l'article L. 5112-1 du code général de la
+propriété des personnes publiques, des voies situées sur les domaines privés,
+limitrophes du domaine public maritime, de l'Etat, des collectivités
+territoriales ou des établissements publics qui permettent la circulation des
+piétons le long ou à proximité du rivage de la mer, la modification du tracé et
+de ses caractéristiques peut être prononcée par un arrêté préfectoral qui
+constate l'ouverture au public des cheminements existants au titre de la
+servitude de passage des piétons sur le littoral, par voie de convention passée
+avec la collectivité ou l'établissement public propriétaire ou gestionnaire de
+l'espace concerné.

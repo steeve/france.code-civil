@@ -1,6 +1,6 @@
 Article R*160-20
 ----
-Au cas où un projet a donné lieu à enquête en application des articles R. 160-12
+Au cas où un projet a donné lieu à enquête en application des articles R. 160-14
 ou R. 160-16-1, le préfet soumet à la délibération des conseils municipaux des
 communes intéressées le tracé et les caractéristiques du projet de servitude.
 

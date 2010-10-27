@@ -1,20 +1,30 @@
 Article R*160-15
 ----
-Sans préjudice de l'application de l'article L. 160-6 (alinéa 3), la distance de
-quinze mètres par rapport aux bâtiments à usage d'habitation qui est mentionnée
-à l'article L. 160-8 peut être réduite :
+I.-Le dossier soumis à enquête doit comprendre, outre les pièces prévues à
+l'article R*160-14, la justification du bien-fondé du tracé retenu, au regard
+des dispositions des articles L. 160-6, R. 160-12 et R. 160-13 si le tracé
+envisagé pour la servitude a pour effet :
 
-a) Lorsque le bâtiment à usage d'habitation est, en raison de la configuration
-des lieux, situé à un niveau sensiblement plus élevé que celui de l'emprise de
-la servitude ;
+1° Soit de grever des terrains attenants à des maisons d'habitation qui, au 1er
+janvier 1976, étaient clos de murs en matériaux durables et adhérant au sol,
+soit de réduire, par rapport aux bâtiments à usage d'habitation édifiés au 1er
+janvier 1976, la distance de quinze mètres prévue par l'alinéa 5 de l'article L.
+160-6 ;
 
-b) S'il existe déjà, dans cet espace de 15 mètres, un passage ouvert à la libre
-circulation des piétons ;
+2° Dans les départements d'outre-mer, soit de grever des terrains attenants à
+des maisons d'habitation qui, au 1er août 2010, étaient clos de murs en
+matériaux durables et adhérant au sol, soit de réduire, par rapport aux
+bâtiments à usage d'habitation édifiés au 1er août 2010, la distance de dix
+mètres prévue par le I de l'article R. 160-13, sous réserve, dans la zone
+comprise entre la limite du rivage de la mer et la limite supérieure de la zone
+dite des cinquante pas géométriques définie par l'article L. 5111-2 du code
+général de la propriété des personnes publiques, que les terrains d'assiette
+aient été acquis de l'Etat avant le 1er août 2010 ou en vertu d'une demande
+déposée avant cette date.
 
-c) Si le mur clôturant le terrain sur lequel est situé le bâtiment est lui-même
-à moins de 15 mètres dudit bâtiment.
+Dans les cas prévus aux 1° et 2°, la largeur du passage à établir ne peut en
+aucun cas excéder trois mètres.
 
-Dans les autres cas que ceux visés à l'alinéa précédent, la distance de quinze
-mètres peut également être réduite avec l'accord du propriétaire du bâtiment ;
-cet accord doit résulter d'une convention passée avec une collectivité publique
-ou un groupement de collectivités publiques.
+II.-Lorsque le tracé est modifié en application du I de l'article R. 160-11, le
+dossier contient en outre les observations et informations fournies par des
+procédés scientifiques qui motivent le nouveau tracé.
