@@ -1,7 +1,7 @@
 Article D752-23
 ----
 Le gain journalier servant de base au calcul de l'indemnité journalière est égal
-à 1/360 du montant du gain forfaitaire annuel en vigueur mentionné à l'article
+à 1/365 du montant du gain forfaitaire annuel en vigueur mentionné à l'article
 L. 752-5.
 
 Sauf le délai de carence prévu à l'article D. 752-22, l'indemnité journalière
