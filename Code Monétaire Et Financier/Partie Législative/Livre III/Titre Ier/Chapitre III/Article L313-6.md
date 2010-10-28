@@ -4,62 +4,111 @@ Les règles relatives au fichier des incidents de paiement caractérisés sont
 fixées par les articles L. 333-4 et L. 333-5 du code de la consommation,
 ci-après reproduits :
 
-" Art.L. 333-4-Il est institué un fichier national recensant les informations
-sur les incidents de paiement caractérisés liés aux crédits accordés aux
-personnes physiques pour des besoins non professionnels. Ce fichier est géré par
-la Banque de France. Il est soumis aux dispositions de la loi n° 78-17 du 6
-janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+" Art. L. 333-4-I.-Il est institué un fichier national recensant les
+informations sur les incidents de paiement caractérisés liés aux crédits
+accordés aux personnes physiques pour des besoins non professionnels. Ce fichier
+est géré par la Banque de France, laquelle est seule habilitée à centraliser ces
+informations. Il est soumis à la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés.
 
-Les établissements de crédit mentionnés à l'article L. 511-1 du code monétaire
-et financier, les établissements de paiement mentionnés au titre II du livre V
-du même code et les organismes mentionnés au 5 de l'article L. 511-6 du même
-code sont tenus de déclarer à la Banque de France les incidents visés à l'alinéa
-précédent. Les frais afférents à cette déclaration ne peuvent être facturés aux
-personnes physiques concernées.
+Ce fichier a pour finalité de fournir aux établissements de crédit mentionnés au
+titre Ier du livre V du code monétaire et financier, aux établissements de
+paiement mentionnés au titre II du même livre V et aux organismes mentionnés au
+5 de l'article L. 511-6 du même code un élément d'appréciation de la solvabilité
+des personnes qui sollicitent un crédit. Toutefois, l'inscription d'une personne
+physique au sein du fichier n'emporte pas interdiction de délivrer un crédit.
 
-Dès que la commission instituée à l'article L. 331-1 est saisie par un débiteur
-en application du premier alinéa de l'article L. 331-3, elle en informe la
-Banque de France aux fins d'inscription au fichier institué au premier alinéa du
-présent article. La même obligation pèse sur le greffe du juge de l'exécution
-lorsque, sur recours de l'intéressé en application du deuxième alinéa de
-l'article L. 331-3, la situation visée à l'article L. 331-2 est reconnue par ce
-juge ou lorsque le débiteur a bénéficié de l'effacement des dettes résultant de
-la procédure de rétablissement personnel en application de l'article L. 332-9.
+Le fichier peut fournir un élément d'appréciation à l'usage des établissements
+de crédit et des établissements de paiement dans leurs décisions d'attribution
+des moyens de paiement.
+
+Les informations qu'il contient peuvent également être prises en compte par les
+mêmes établissements et organismes mentionnés au deuxième alinéa pour la gestion
+des risques liés aux crédits souscrits par leurs clients.
+
+II.-Les établissements et les organismes visés au deuxième alinéa du I sont
+tenus de déclarer à la Banque de France, dans des conditions précisées par
+arrêté, les incidents de paiement caractérisés définis par l'arrêté mentionné à
+l'article L. 333-5. Dès la réception de cette déclaration, la Banque de France
+inscrit immédiatement les incidents de paiement caractérisés au fichier et, dans
+le même temps, met cette information à la disposition de l'ensemble des
+établissements et des organismes ayant accès au fichier. Les frais afférents à
+cette déclaration ne peuvent être facturés aux personnes physiques concernées.
+
+Les informations relatives à ces incidents sont radiées immédiatement à la
+réception de la déclaration de paiement intégral des sommes dues effectuée par
+l'établissement ou organisme à l'origine de l'inscription au fichier. Elles ne
+peuvent en tout état de cause être conservées dans le fichier pendant plus de
+cinq ans à compter de la date d'enregistrement par la Banque de France de
+l'incident ayant entraîné la déclaration.
+
+III.-Dès que la commission instituée à l'article L. 331-1 est saisie par un
+débiteur, elle en informe la Banque de France aux fins d'inscription au fichier.
+La même obligation pèse sur le greffe du juge de l'exécution lorsque, sur
+recours de l'intéressé en application du IV de l'article L. 331-3, la situation
+visée à l'article L. 331-2 est reconnue par ce juge ou lorsque le débiteur a
+bénéficié de l'effacement des dettes résultant de la procédure de rétablissement
+personnel en application des articles L. 332-9 ou L. 332-5.
 
 Le fichier recense les mesures du plan conventionnel de redressement mentionnées
 à l'article L. 331-6. Ces mesures sont communiquées à la Banque de France par la
 commission.L'inscription est conservée pendant toute la durée de l'exécution du
-plan conventionnel, sans pouvoir excéder dix ans.
+plan conventionnel, sans pouvoir excéder huit ans.
 
-Le fichier recense également les mesures prises en vertu des articles L. 331-7
-et L. 331-7-1 qui sont communiquées à la Banque de France par le greffe du juge
-de l'exécution.S'agissant des mesures définies à l'article L. 331-7 et au
-premier alinéa de l'article L. 331-7-1, l'inscription est conservée pendant
-toute la durée d'exécution de ces mesures, sans pouvoir excéder dix
-ans.S'agissant des mesures définies au troisième alinéa de l'article L. 331-7-1,
-la durée d'inscription est fixée à dix ans.
+Le fichier recense également les mesures prises en vertu des articles L. 331-7,
+L. 331-7-1 et L. 331-7-2 qui sont communiquées à la Banque de France par la
+commission ou le greffe du juge de l'exécution lorsqu'elles sont soumises à son
+homologation.L'inscription est conservée pendant toute la durée d'exécution de
+ces mesures, sans pouvoir excéder huit ans.
 
-La Banque de France est seule habilitée à centraliser les informations visées à
-l'alinéa précédent.
+Lorsque les mesures du plan conventionnel mentionnées à l'article L. 331-6 et
+celles prises en application des articles L. 331-7, L. 331-7-1 et L. 331-7-2
+sont exécutées sans incident, les informations relatives aux mentions qui ont
+entraîné leur déclaration sont radiées à l'expiration d'une période de cinq ans
+à compter de la signature du plan conventionnel ou de la date de la décision de
+la commission qui impose des mesures ou lorsque les mesures recommandées par la
+commission ont acquis force exécutoire. Lorsque, pour une même personne, sont
+prescrits successivement un plan conventionnel mentionné à l'article L. 331-6 et
+des mesures prises en application des articles L. 331-7, L. 331-7-1 et L.
+331-7-2, l'inscription est maintenue pendant la durée globale d'exécution du
+plan et des mesures sans pouvoir excéder huit ans.
 
-Les organismes professionnels ou organes centraux représentant les
-établissements et les organismes visés au deuxième alinéa sont seuls autorisés à
-tenir des fichiers recensant des incidents de paiement.
+Pour les personnes ayant bénéficié de la procédure de rétablissement personnel,
+les informations relatives aux mentions correspondantes sont radiées à
+l'expiration d'une période de cinq ans à compter de la date d'homologation ou de
+clôture de la procédure. La même durée de cinq ans est applicable aux personnes
+physiques ayant fait l'objet d'une liquidation judiciaire en application de
+l'article L. 670-6 du code de commerce.
 
-La Banque de France est déliée du secret professionnel pour la diffusion, aux
-établissements de crédit, aux établissements de paiement et aux organismes
-mentionnés au 5 de l'article L. 511-6 du code monétaire et financier, des
+IV.-La Banque de France est déliée du secret professionnel pour la diffusion,
+aux établissements et aux organismes visés au deuxième alinéa du I, des
 informations nominatives contenues dans le fichier.
 
-Il est interdit à la Banque de France et aux établissements de crédit, aux
-établissements de paiement et aux organismes mentionnés au 5 de l'article L.
-511-6 du code monétaire et financier de remettre à quiconque copie, sous quelque
-forme que ce soit, des informations contenues dans le fichier, même à
-l'intéressé lorsqu'il exerce son droit d'accès conformément à l'article 39 de la
-loi n° 78-17 du 6 janvier 1978 précitée, sous peine des sanctions prévues aux
-articles 226-22 et 226-21 du code pénal.
+Les conditions dans lesquelles la Banque de France, les établissements et les
+organismes visés au deuxième alinéa du I informent les personnes de leur
+inscription et de leur radiation du fichier ainsi que de leurs droits sont
+précisées par arrêté, pris après avis de la Commission nationale de
+l'informatique et des libertés.
+
+Il est interdit à la Banque de France, aux établissements et aux organismes
+visés au deuxième alinéa du I de remettre à quiconque copie des informations
+contenues dans le fichier, sous peine des sanctions prévues aux articles 226-21
+et 226-22 du code pénal. Cette interdiction ne s'applique pas aux intéressés,
+lesquels exercent leur droit d'accès aux informations les concernant contenues
+dans le fichier conformément à l'article 39 de la loi n° 78-17 du 6 janvier 1978
+précitée.
+
+La collecte des informations contenues dans le fichier par des personnes autres
+que la Banque de France, les établissements et les organismes visés au deuxième
+alinéa du I du présent article est punie des peines prévues à l'article 226-18
+du code pénal.
 
 Art.L. 333-5.-Un arrêté du ministre, pris après avis de la Commission nationale
 de l'informatique et des libertés et du Comité consultatif du secteur financier,
 fixe notamment les modalités de collecte, d'enregistrement, de conservation et
-de consultation de ces informations. "
+de consultation de ces informations.
+
+Cet arrêté détermine également les modalités selon lesquelles les établissements
+et organismes mentionnés au deuxième alinéa du I de l'article L. 333-4 peuvent
+justifier qu'ils ont consulté le fichier, notamment en application de l'article
+L. 311-9. "
