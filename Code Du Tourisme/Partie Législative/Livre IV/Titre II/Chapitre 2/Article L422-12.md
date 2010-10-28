@@ -11,8 +11,7 @@ le conseil municipal peut instituer un prélèvement sur le produit brut des jeu
 dans les casinos.
 
 Le taux maximum des prélèvements opérés par les communes sur le produit brut des
-jeux dans les casinos régis par la loi du 15 juin 1907 réglementant le jeu dans
-les cercles et les casinos des stations balnéaires, thermales et climatiques en
+jeux dans les casinos régis par la loi du 15 juin 1907 relative aux casinos en
 vertu des clauses des cahiers des charges de ces établissements ne doit, en
 aucun cas, dépasser 15 %.
 
@@ -101,6 +100,25 @@ clôture de l'exercice.
 
 Dans le cas où la différence mentionnée aux 1° et 2° est négative, la perte
 subie vient en déduction des bénéfices des jours suivants. "
+
+" Art. L. 2333-55-2 du code général des collectivités territoriales.
+
+Les prélèvements opérés au profit de l'Etat, des communes, des établissements
+publics de coopération intercommunale et des organismes sociaux et spécifiques
+aux jeux des casinos exploités en application de la loi du 15 juin 1907 précitée
+sont liquidés et payés mensuellement auprès d'un comptable public.
+
+Les prélèvements sont soldés par saison des jeux qui court du 1er novembre au 31
+octobre de l'année suivante. Aucune compensation n'est admise entre le montant
+des prélèvements dû au titre d'une saison des jeux en cours et celui dont le
+casino est redevable pour une saison des jeux antérieure.
+
+Les prélèvements sont recouvrés et contrôlés selon les mêmes procédures et sous
+les mêmes sanctions, garanties, sûretés et privilèges que les taxes sur le
+chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon
+les règles applicables à ces mêmes taxes.
+
+Un décret fixe les conditions d'application du présent article.
 
 " Art. L. 2333-56 du code général des collectivités territoriales.
 
