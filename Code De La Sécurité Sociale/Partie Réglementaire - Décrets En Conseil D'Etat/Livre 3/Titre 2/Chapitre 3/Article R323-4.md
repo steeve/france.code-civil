@@ -3,23 +3,23 @@ Article R323-4
 Le gain journalier servant de base au calcul de l'indemnité journalière prévue à
 l'article L. 323-4 est déterminé comme suit :
 
-1°) 1/90 du montant des trois ou des six dernières paies antérieures à la date
-de l'interruption de travail suivant que le salaire ou le gain est réglé
+1°) 1 / 91, 25 du montant des trois ou des six dernières paies antérieures à la
+date de l'interruption de travail suivant que le salaire ou le gain est réglé
 mensuellement ou deux fois par mois ;
 
-2°) 1/90 du montant des paies des trois mois antérieurs à la date de
+2°) 1 / 91, 25 du montant des paies des trois mois antérieurs à la date de
 l'interruption de travail lorsque le salaire ou le gain est réglé journellement
 ;
 
-3°) 1/84 du montant des six ou douze dernières paies antérieures à la date de
+3°) 1 / 84 du montant des six ou douze dernières paies antérieures à la date de
 l'interruption de travail suivant que le salaire ou le gain est réglé toutes les
 deux semaines ou chaque semaine ;
 
-4°) 1/90 du montant du salaire ou du gain des trois mois antérieurs à la date de
-l'interruption de travail, lorsque ledit salaire ou gain n'est pas réglé au
-moins une fois par mois, mais l'est au moins une fois par trimestre ;
+4°) 1 / 91, 25 du montant du salaire ou du gain des trois mois antérieurs à la
+date de l'interruption de travail, lorsque ledit salaire ou gain n'est pas réglé
+au moins une fois par mois, mais l'est au moins une fois par trimestre ;
 
-5°) 1/360 du montant du salaire ou du gain des douze mois antérieurs à la date
+5°) 1 / 365 du montant du salaire ou du gain des douze mois antérieurs à la date
 de l'interruption de travail, lorsque le travail n'est pas continu ou présente
 un caractère saisonnier.
 

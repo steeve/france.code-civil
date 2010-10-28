@@ -1,9 +1,9 @@
 Article R751-51
 ----
 En ce qui concerne les ouvriers forestiers rémunérés à la tâche et les gemmeurs,
-le salaire servant de base au calcul de l'indemnité journalière est égal à 1 /
-360 du montant de la rémunération perçue au cours des douze mois civils
-antérieurs à la date de l'arrêt de travail.
+le salaire servant de base au calcul de l'indemnité journalière est égal à 1/365
+du montant de la rémunération perçue au cours des douze mois civils antérieurs à
+la date de l'arrêt de travail.
 
 Toutefois :
 
