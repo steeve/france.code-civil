@@ -2,83 +2,69 @@ Article D133-39
 ----
 Outre le président et le vice-président, la commission comprend :
 
-1. Vingt-deux membres nommés au titre des représentants de l'administration et
-des organismes publics compétents en matière d'environnement, qui se
-répartissent en :
+1° Seize membres de droit au titre des représentants de l'administration et des
+organismes publics compétents en matière d'environnement :
 
-a) Dix-neuf membres représentant les administrations centrales et organismes
-publics :
+- le commissaire général au développement durable ;
 
-- le directeur des études économiques et de l'évaluation environnementale ;
+- le chef du service de l'observation et des statistiques du Commissariat
+général au développement durable ;
 
-- le directeur chargé de l'eau ;
+- le chef du service de l'économie, de l'évaluation et de l'intégration du
+développement durable du Commissariat général au développement durable ;
+
+- le délégué général du Conseil économique pour le développement durable créé
+par le décret n° 2008-1250 du 1er décembre 2008 ;
 
 - le directeur général de la prévention des risques ;
 
-- le directeur chargé de la protection de la nature ;
+- le directeur général de l'aménagement, du logement et de la nature ;
 
-- le délégué à l'aménagement du territoire et à l'action régionale ;
+- le délégué interministériel à l'aménagement du territoire et à l'attractivité
+régionale ;
 
-- le directeur de la prévision ;
+- le directeur général du Trésor ;
 
-- le directeur du budget ;
+- le directeur général des finances publiques ;
 
-- le directeur du service de la législation fiscale ;
-
-- le directeur général des collectivités locales ;
-
-- le directeur des affaires économiques et internationales ;
-
-- le directeur des affaires financières et économiques ;
-
-- le directeur de la technologie ;
+- le directeur du service des affaires financières, sociales et logistiques au
+ministère chargé de l'agriculture ;
 
 - le directeur général de la santé ;
 
-- le directeur général des stratégies industrielles ;
+- le directeur général de la compétitivité, de l'industrie et des services ;
 
 - le directeur général du Centre d'analyse stratégique ;
 
 - le directeur général de l'Institut national de la statistique et des études
 économiques ;
 
-- le directeur général de l'Agence de l'environnement et de la maîtrise de
-l'énergie ;
+- le président de l'Agence de l'environnement et de la maîtrise de l'énergie ;
 
-- le directeur général du Muséum national d'histoire naturelle ;
+- le directeur de l'Office national de l'eau et des milieux aquatiques,
 
-- le commissaire général au développement durable,
+ou leurs représentants ;
 
-ou leur représentant ;
+2° Deux représentants des services déconcentrés du ministère chargé de
+l'environnement, nommés, pour une durée de trois ans, par arrêté du ministre
+chargé de l'environnement ;
 
-b) Trois membres des services ou établissements territoriaux du ministère chargé
-de l'environnement, nommés, pour trois ans, par arrêté du ministre chargé de
-l'environnement :
-
--un représentant des directeurs régionaux de l'environnement ;
-
--un représentant des directeurs régionaux de l'industrie, de la recherche et de
-l'environnement ;
-
--un représentant des agences de l'eau ;
-
-2. Vingt-deux membres choisis en fonction de leur compétence en matière
+3° Vingt et un membres choisis en fonction de leur compétence en matière
 d'économie de l'environnement et nommés, pour trois ans, par arrêté du ministre
 chargé de l'environnement, à raison :
 
--de deux représentants de l'Association des maires de France ;
+- d'un représentant de l'Association des maires de France ;
 
--d'un représentant de l'Association des présidents de conseils généraux ;
+- d'un représentant de l'Assemblée des départements de France ;
 
--d'un représentant de l'Association des présidents de conseils régionaux ;
+- d'un représentant de l'Association des régions de France ;
 
--de deux représentants des associations de protection de l'environnement ;
+- de deux représentants des associations de protection de l'environnement ;
 
--de trois représentants des entreprises ;
+- de deux représentants des associations de consommateurs ;
 
--de trois représentants des organisations syndicales des salariés ;
+- de trois représentants des organisations patronales ;
 
--de deux représentants des associations de consommateurs ;
+- de trois représentants des organisations syndicales des salariés ;
 
--de huit personnalités qualifiées, dont le délégué interministériel au
-développement durable.
+- de huit personnalités qualifiées.
