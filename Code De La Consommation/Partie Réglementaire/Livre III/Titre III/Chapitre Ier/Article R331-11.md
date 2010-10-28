@@ -1,13 +1,21 @@
 Article R331-11
 ----
-Lorsqu'il y a lieu de procéder, en application de l'article L. 331-4, à la
-vérification d'une ou plusieurs créances, la lettre de transmission de la
-commission au juge précise les nom, prénoms, profession et adresse du débiteur
-et ceux des créanciers en cause ou, pour les personnes morales, leur
-dénomination et leur siège social ; elle contient l'exposé de l'objet et les
-motifs de la saisine et indique, le cas échéant, que celle-ci est présentée à la
-demande du débiteur. Y sont annexés les documents nécessaires à la vérification
-des créances.
+La lettre notifiant la décision de recevabilité indique que celle-ci emporte
+suspension et interdiction des procédures d'exécution diligentées à l'encontre
+des biens du débiteur ainsi que des cessions de rémunération qu'il a consenties
+et portant sur les dettes autres qu'alimentaires. Elle précise que la suspension
+ou l'interdiction produit effet, selon les cas, jusqu'à l'approbation du plan
+conventionnel de redressement prévu à l'article L. 331-6, jusqu'à la décision
+imposant les mesures prévues par l'article L. 331-7, jusqu'à l'homologation des
+mesures recommandées en application des articles L. 331-7-1, L. 331-7-2 et L.
+332-5 ou jusqu'au jugement d'ouverture d'une procédure de rétablissement
+personnel avec liquidation judiciaire, sans pouvoir excéder un an. Elle
+reproduit les dispositions des deuxième et troisième alinéas de l'article L.
+331-3-1.
 
-La commission informe les créanciers concernés et le débiteur de la saisine du
-juge.
+La commission ou le greffe du juge de l'exécution, selon le cas, notifie la
+décision de recevabilité par lettre recommandée avec demande d'avis de
+réception, ou remise contre récépissé, aux agents chargés de l'exécution et, le
+cas échéant, au greffier en chef du tribunal d'instance en charge de la
+procédure de saisie des rémunérations ou de la cession des rémunérations, qui en
+informe le tiers saisi ou le cessionnaire.

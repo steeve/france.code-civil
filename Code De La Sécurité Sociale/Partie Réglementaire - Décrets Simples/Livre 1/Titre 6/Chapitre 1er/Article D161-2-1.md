@@ -32,8 +32,8 @@ alinéa de l'article L. 380-2 et par dérogation aux dispositions des trois
 premiers alinéas, le droit aux prestations en nature de l'assurance maladie ne
 peut être suspendu si l'intéressé remplit les conditions de ressources prévues
 par le décret pris en application du premier alinéa de l'article L. 861-1, s'il
-a été admis au bénéfice des dispositions prévues aux articles L. 331-1 à L.
-331-11 du code de la consommation ou des dispositions prévues par le décret n°
-97-656 du 30 mai 1997 instituant une commission des chefs des services
-financiers et des représentants des organismes de sécurité sociale pour l'examen
-de la situation des débiteurs retardataires.
+a été admis au bénéfice d'une procédure de traitement des situations de
+surendettement des particuliers ou s'il a été admis au bénéfice des dispositions
+prévues par le décret n° 97-656 du 30 mai 1997 instituant une commission des
+chefs des services financiers et des représentants des organismes de sécurité
+sociale pour l'examen de la situation des débiteurs retardataires.
