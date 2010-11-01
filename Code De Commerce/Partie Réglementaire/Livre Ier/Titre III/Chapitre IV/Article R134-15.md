@@ -11,8 +11,7 @@ vue de l'immatriculation au registre spécial ;
 2° De ne pas signaler les changements survenus dans les mentions figurant sur
 cette déclaration ;
 
-3° De ne pas demander le renouvellement de son immatriculation en application de
-l'article R. 134-7 ;
+3° Abrogé ;
 
 4° De ne pas demander la radiation de son immatriculation au registre spécial en
 dépit de la cessation d'exercice des activités définies à l'article L. 134-1.
