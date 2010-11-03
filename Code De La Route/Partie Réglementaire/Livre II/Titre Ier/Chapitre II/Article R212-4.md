@@ -104,7 +104,7 @@ usurpation de plaques, modification du dispositif de limitation de vitesse par
 construction des véhicules de transports routiers, absence à bord du véhicule du
 transport routier de certains documents, destruction ou détournement d'un
 véhicule confisqué (art.L. 234-12 (III), L. 317-1 à L. 317-4, L. 317-4-1 et L.
-325-4) ;
+3242-1 du code des transports ;
 
 -conduite d'un véhicule sans être titulaire du permis de conduire correspondant
 à la catégorie du véhicule considéré, conduite d'un véhicule malgré la
