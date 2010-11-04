@@ -14,7 +14,7 @@ II.-Les organismes mentionnés au I qui souhaitent bénéficier gratuitement des
 fruits et légumes retirés du marché doivent demander au préalable l'agrément du
 directeur général de FranceAgriMer. Celui-ci s'assure que l'organisme demandeur
 est en mesure de satisfaire aux obligations mentionnées au 1 de l'article 84 du
-règlement (CE) n° 1580 / 2004 susmentionné.
+règlement (CE) n° 1580/2007 susmentionné.
 
 Un arrêté du ministre chargé de l'agriculture fixe la liste des pièces
 justificatives qui doivent être jointes à la demande d'agrément, ainsi que la
@@ -22,12 +22,13 @@ date limite de dépôt de celle-ci.
 
 III.-Les organismes mentionnés au 1° du I sont agréés pour assurer la
 distribution gratuite des produits, selon les cas, sur le territoire national,
-dans l'ensemble de la communauté européenne, ou dans les pays tiers. Avant de
-les distribuer, ils peuvent faire transformer les produits retirés qui leur ont
-été délivrés.
+dans l'ensemble de l'Union européenne, ou dans les pays tiers. Avant de les
+distribuer, ils peuvent faire transformer les produits retirés qui leur ont été
+délivrés. Dans ce cas, ces organismes sont autorisés à demander une contribution
+symbolique aux bénéficiaires finaux des produits concernés.
 
 IV.-Lorsque l'organisme mentionné au I. souhaite transférer les produits qui lui
 ont été fournis à d'autres organismes de même nature, la liste complète de ces
 organismes est annexée à la décision d'agrément. Dans ce cas, les organismes
 destinataires des produits sont eux-mêmes soumis aux obligations définies au 1
-de l'article 84 du règlement (CE) n° 1580 / 2004 susmentionné.
+de l'article 84 du règlement (CE) n° 1580/2007 susmentionné.
