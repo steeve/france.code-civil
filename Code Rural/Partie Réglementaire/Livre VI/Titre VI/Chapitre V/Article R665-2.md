@@ -1,6 +1,6 @@
 Article R665-2
 ----
-Conformément à l'article 5 du règlement (CE) n° 1493/1999 du Conseil modifié
+Conformément à l'article 5 du règlement (CE) n° 1493/1999 du Conseil modifié (1)
 portant organisation commune du marché vitivinicole, il est institué une réserve
 nationale de droits de plantation, ci-après dénommée réserve. Celle-ci dispose :
 
