@@ -10,7 +10,10 @@ du ministre chargé des affaires sociales et du ministre chargé du logement, do
 les ressources n'excèdent pas des limites fixées pour l'ensemble des personnes
 vivant au foyer, compte tenu des personnes à charge, par arrêté conjoint du
 ministre chargé du logement, du ministre chargé de l'économie et des finances et
-du ministre chargé de la santé ;
+du ministre chargé de la santé. Ces plafonds de ressources sont révisés chaque
+année au 1er janvier en tenant compte de la variation de l'indice de référence
+des loyers appréciée par comparaison entre le troisième trimestre de
+l'antépénultième année et le troisième trimestre de l'année précédente ;
 
 2° Dans les conditions fixées à l'article L. 442-8-1, les associations déclarées
 ayant pour objet de sous-louer ces logements, à titre temporaire, à des
