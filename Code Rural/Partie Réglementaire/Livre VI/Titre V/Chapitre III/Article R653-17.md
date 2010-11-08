@@ -2,7 +2,7 @@ Article R653-17
 ----
 L'établissement est administré par un conseil d'administration.
 
-I. - Le conseil d'administration comprend 21 membres ainsi répartis :
+I. - Le conseil d'administration comprend 22 membres ainsi répartis :
 
 1° Sept représentants de l'Etat :
 
@@ -48,9 +48,7 @@ e) Pour le secteur des sports :
 olympique et sportif français, sur proposition du président de la Fédération
 française d'équitation ;
 
-3° Trois représentants élus du personnel de l'établissement issus respectivement
-des personnels enseignants, des personnels techniques et des personnels
-administratifs.
+3° Quatre représentants élus du personnel de l'établissement.
 
 II. - Les représentants de l'Etat sont nommés par arrêté du ministre intéressé.
 Les personnalités qualifiées sont nommées, par arrêté conjoint du ministre
