@@ -1,7 +1,7 @@
 Article L635-3
 ----
 Les conditions d'attribution et de service des prestations dues aux assurés et à
-leurs conjoints survivants au titre des régimes complémentaires obligatoires
+leurs conjoints survivants au titre du régime complémentaire obligatoire
 d'assurance vieillesse des professions artisanales, industrielles et
 commerciales sont précisées par un règlement de la caisse nationale compétente
 approuvé par arrêté ministériel. Ce règlement détermine notamment les conditions
