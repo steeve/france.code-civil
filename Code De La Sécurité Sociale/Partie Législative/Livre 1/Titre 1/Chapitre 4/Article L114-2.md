@@ -19,15 +19,15 @@ susmentionnés et de suivre l'évolution de ce financement ;
 5° De participer à l'information sur le système de retraite et les effets des
 réformes conduites pour garantir son financement ;
 
-6° De suivre la mise en oeuvre des principes communs aux régimes de retraite et
+6° De suivre la mise en œuvre des principes communs aux régimes de retraite et
 l'évolution des niveaux de vie des actifs et des retraités, ainsi que de
 l'ensemble des indicateurs des régimes de retraite, dont les taux de
 remplacement.
 
 Le conseil formule toutes recommandations ou propositions de réforme qui lui
-paraissent de nature à faciliter la mise en oeuvre des objectifs et principes
+paraissent de nature à faciliter la mise en œuvre des objectifs et principes
 énoncés aux articles 1er à 5 de la loi n° 2003-775 du 21 août 2003 précitée
-ainsi qu'aux trois premiers alinéas de l'article L. 161-17.
+ainsi qu'aux huit premiers alinéas de l'article L. 161-17.
 
 Le Conseil d'orientation des retraites est composé, outre son président nommé en
 conseil des ministres, notamment de représentants des assemblées parlementaires,

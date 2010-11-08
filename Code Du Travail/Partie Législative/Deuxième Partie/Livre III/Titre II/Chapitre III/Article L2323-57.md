@@ -18,10 +18,20 @@ Il est établi à partir d'indicateurs pertinents, reposant notamment sur des
 éléments chiffrés, définis par décret et éventuellement complétés par des
 indicateurs tenant compte de la situation particulière de l'entreprise.
 
-Il recense les mesures prises au cours de l'année écoulée en vue d'assurer
-l'égalité professionnelle, les objectifs prévus pour l'année à venir et la
-définition qualitative et quantitative des actions à mener à ce titre ainsi que
-l'évaluation de leur coût.
+Il établit un plan d'action destiné à assurer l'égalité professionnelle entre
+les femmes et les hommes. Après avoir évalué les objectifs fixés et les mesures
+prises au cours de l'année écoulée, ce plan d'action, fondé sur des critères
+clairs, précis et opérationnels, détermine les objectifs de progression prévus
+pour l'année à venir, la définition qualitative et quantitative des actions
+permettant de les atteindre et l'évaluation de leur coût.
+
+Une synthèse de ce plan d'action, comprenant au minimum des indicateurs et
+objectifs de progression définis par décret, est portée à la connaissance des
+salariés par l'employeur, par voie d'affichage sur les lieux de travail et,
+éventuellement, par tout autre moyen adapté aux conditions d'exercice de
+l'activité de l'entreprise. Elle est également tenue à la disposition de toute
+personne qui la demande et publiée sur le site internet de l'entreprise
+lorsqu'il en existe un.
 
 Les délégués syndicaux reçoivent communication de ce rapport dans les mêmes
 conditions que les membres du comité d'entreprise.
