@@ -21,11 +21,18 @@ c) Sur les allocations et revenus de remplacement mentionnés à l'article L.
 articles L. 136-1, L. 136-6, L. 136-7, L. 136-7-1 du code de la sécurité
 sociale.
 
-II.-Pour l'assurance vieillesse, par une cotisation assise :
+II.-Pour l'assurance vieillesse et veuvage :
+
+1° Par une cotisation assise :
 
 a) Sur les rémunérations ou gains perçus par les assurés dans la limite du
 plafond défini à l'article L. 241-3 du code de la sécurité sociale, à la charge
 des employeurs et des assurés ;
 
 b) Sur la totalité des rémunérations ou gains perçus par les assurés, à la
-charge des employeurs et des salariés.
+charge des employeurs et des salariés ;
+
+2° Par une contribution de la branche Accidents du travail et maladies
+professionnelles couvrant les dépenses supplémentaires engendrées par les
+départs en retraite à l'âge prévu à l'article L. 351-1-4 du code de la sécurité
+sociale.

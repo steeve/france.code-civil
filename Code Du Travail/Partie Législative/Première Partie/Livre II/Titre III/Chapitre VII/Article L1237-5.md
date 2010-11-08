@@ -36,4 +36,5 @@ peut faire usage de la possibilité mentionnée au premier alinéa pendant l'ann
 qui suit la date à laquelle le salarié atteint l'âge fixé au 1° de l'article L.
 351-8 du code de la sécurité sociale.
 
-La même procédure est applicable les quatre années suivantes.
+La même procédure est applicable chaque année jusqu'au soixante-neuvième
+anniversaire du salarié.

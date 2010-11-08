@@ -9,11 +9,12 @@ ministre de l'intérieur, pour les missions qui relèvent de leur autorité, en
 fonction des nécessités de l'encadrement.
 
 L'intéressé perçoit une solde de réserve calculée dans les conditions fixées par
-le code des pensions civiles et militaires de retraite.
+le code des pensions civiles et militaires de retraite jusqu'à l'âge de
+soixante-sept ans. A compter de cet âge, il perçoit une pension militaire.
 
-Le versement de la solde de réserve est suspendu lorsque l'officier général est
-replacé en première section par le ministre de la défense ou, pour l'officier
-général de la gendarmerie nationale, par le ministre de la défense ou le
-ministre de l'intérieur, pour les missions qui relèvent de leur autorité,
-conformément aux dispositions de l'article L. 4141-1, jusqu'au terme du
-placement temporaire en première section.
+Le versement de la solde de réserve ou de pension militaire est suspendu lorsque
+l'officier général est replacé en première section par le ministre de la défense
+ou, pour l'officier général de la gendarmerie nationale, par le ministre de la
+défense ou le ministre de l'intérieur, pour les missions qui relèvent de leur
+autorité, conformément aux dispositions de l'article L. 4141-1, jusqu'au terme
+du placement temporaire en première section.

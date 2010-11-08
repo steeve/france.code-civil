@@ -15,4 +15,4 @@ de mauvaise foi. Cette restitution est, en tant que de besoin, poursuivie par
 l'agent judiciaire du Trésor.
 
 La pension des militaires n'est pas assimilée à un avantage vieillesse avant
-l'âge de soixante ans.
+l'âge mentionné à l'article L. 161-17-2 du code de la sécurité sociale.

@@ -8,7 +8,7 @@ juillet 1982 d'orientation et de programmation pour la recherche et le
 développement technologique de la France et des personnels titulaires de
 l'enseignement supérieur assimilés aux professeurs d'université pour les
 élections à l'instance nationale mentionnée à l'article L. 952-6 est fixée à
-soixante-cinq ans. Toutefois, la limite d'âge des professeurs au Collège de
+soixante-sept ans. Toutefois, la limite d'âge des professeurs au Collège de
 France reste fixée à soixante-dix ans.
 
 Lorsqu'ils atteignent la limite d'âge, les professeurs de l'enseignement

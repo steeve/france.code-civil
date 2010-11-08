@@ -4,7 +4,15 @@ Bénéficient du taux plein même s'ils ne justifient pas de la durée requise
 d'assurance ou de périodes équivalentes dans le régime général et un ou
 plusieurs autres régimes obligatoires :
 
-1°) les assurés qui atteignent un âge déterminé ;
+1° Les assurés qui atteignent l'âge prévu à l'article L. 161-17-2 augmenté de
+cinq années ;
+
+1° bis Les assurés ayant interrompu leur activité professionnelle en raison de
+leur qualité d'aidant familial telle que définie à l'article L. 245-12 du code
+de l'action sociale et des familles qui atteignent l'âge de soixante-cinq ans
+dans des conditions déterminées par décret en Conseil d'Etat ;
+
+1° ter Les assurés handicapés qui atteignent l'âge de soixante-cinq ans ;
 
 2°) les assurés reconnus inaptes au travail dans les conditions prévues à
 l'article L. 351-7 ;

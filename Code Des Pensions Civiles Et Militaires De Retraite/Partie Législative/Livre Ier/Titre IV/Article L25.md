@@ -3,19 +3,25 @@ Article L25
 La liquidation de la pension ne peut intervenir :
 
 1° Pour les fonctionnaires civils autres que ceux mentionnés à l'article L. 24
-avant l'âge de soixante ans, ou avant l'âge de cinquante-cinq ans s'ils ont
-accompli quinze ans de services dans des emplois classés dans la catégorie
-active ;
+avant l'âge mentionné à l'article L. 161-17-2 du code de la sécurité sociale, ou
+avant l'âge de cinquante-sept ans s'ils ont accompli dix-sept ans de services
+dans des emplois classés dans la catégorie active ;
 
-2° Pour les officiers de carrière autres que ceux mentionnés à l'article L. 24
-avant l'âge de cinquante ans ou, pour un officier radié des cadres par mesure
-disciplinaire avant d'avoir accompli vingt-cinq ans de services effectifs, avant
+2° Par dérogation à l'article L. 161-17-2 du code de la sécurité sociale, pour
+les officiers de carrière autres que ceux mentionnés à l'article L. 24 avant
+l'âge de cinquante-deux ans ou, pour un officier radié des cadres par mesure
+disciplinaire avant d'avoir accompli vingt-sept ans de services effectifs, avant
 la date à laquelle il aurait atteint la limite d'âge en vigueur à la date de
 cette radiation et sans que la liquidation puisse être antérieure à l'âge de
-cinquante ans ;
+cinquante-deux ans ;
 
-3° Pour les officiers sous contrat radiés des cadres sans avoir atteint les
-limites de durée de services, avant l'âge de cinquante ans.
+3° Par dérogation à l'article L. 161-17-2 du code de la sécurité sociale, pour
+les officiers sous contrat radiés des cadres sans avoir atteint les limites de
+durée de services, avant l'âge de cinquante-deux ans ;
+
+4° Par dérogation à l'article L. 161-17-2 du code de la sécurité sociale, pour
+les non-officiers autres que ceux mentionnés à l'article L. 24, avant l'âge de
+cinquante-deux ans.
 
 Pour l'application des dispositions du présent article, les règles de
 liquidation de la pension sont celles en vigueur au moment de sa mise en

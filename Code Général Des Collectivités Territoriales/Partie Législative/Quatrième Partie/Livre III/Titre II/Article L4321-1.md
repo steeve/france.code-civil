@@ -16,7 +16,8 @@ articles L. 4135-21 à L. 4135-24 ;
 
 4° La cotisation au Centre national de la fonction publique territoriale ;
 
-5° La rémunération des agents régionaux ;
+5° La rémunération des agents régionaux, les contributions et les cotisations
+sociales afférentes ;
 
 5° bis Dans les conditions prévues à l'article 88-1 de la loi n° 84-53 du 26
 janvier 1984 portant dispositions statutaires relatives à la fonction publique

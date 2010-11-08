@@ -29,4 +29,6 @@ agricoles, de l'application des modalités techniques de la fourniture, de la
 réparation et du renouvellement des appareils de prothèse ou d'orthopédie,
 prévues par les articles L. 431-1 à L. 431-3 du code de la sécurité sociale, en
 faveur des victimes d'accidents du travail survenus antérieurement au 1er
-janvier 1955.
+janvier 1955 ;
+
+6° Le montant de la contribution mentionnée au 2° du II de l'article L. 741-9.

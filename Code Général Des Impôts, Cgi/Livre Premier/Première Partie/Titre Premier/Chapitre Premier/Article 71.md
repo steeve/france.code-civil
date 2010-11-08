@@ -7,13 +7,10 @@ travail personnel :
 1° la moyenne des recettes au-delà de laquelle ces groupements sont soumis à un
 régime d'imposition d'après le bénéfice réel est égale à 60 % de la limite
 prévue pour les exploitants individuels multipliée par le nombre d'associés, à
-l'exception des associés dont l'âge excède, au premier jour de l'exercice, celui
-auquel leur est ouvert le droit à une pension de retraite. Toutefois, elle est
-égale à la limite prévue pour les exploitants individuels multipliée par le
-nombre d'associés, à l'exception des associés dont l'âge excède, au premier jour
-de l'exercice, celui auquel leur est ouvert le droit à une pension de retraite,
-lorsque la moyenne des recettes du groupement est inférieure ou égale à 230 000
-€.
+l'exception des associés âgés de plus de soixante-deux ans au premier jour de
+l'exercice. Toutefois, elle est égale à la limite soixante-deux ans au premier
+jour de l'exercice, lorsque la moyenne des recettes du groupement est inférieure
+ou égale à 230 000 euros.
 
 2° (abrogé)
 

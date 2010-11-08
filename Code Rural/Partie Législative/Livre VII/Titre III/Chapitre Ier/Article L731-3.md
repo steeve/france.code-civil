@@ -23,4 +23,8 @@ les conditions prévues par l'article L. 135-2 de ce code ;
 
 7° Les impôts, taxes et amendes qui sont affectés à la branche ;
 
+7° bis Une contribution de la branche Accidents du travail et maladies
+professionnelles couvrant les dépenses supplémentaires engendrées par les
+départs en retraite à l'âge prévu à l'article L. 732-18-3 ;
+
 8° Toute autre ressource prévue par la loi.
