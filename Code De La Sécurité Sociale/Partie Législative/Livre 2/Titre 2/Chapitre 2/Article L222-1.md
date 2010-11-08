@@ -2,8 +2,8 @@ Article L222-1
 ----
 La Caisse nationale d'assurance vieillesse a pour rôle :
 
-1° D'assurer le financement des prestations d'assurance retraite du régime
-général ;
+1° D'assurer le financement des prestations d'assurance retraite et d'assurance
+veuvage du régime général ;
 
 2° De définir les orientations de la gestion de l'assurance retraite des
 travailleurs salariés, et d'en assurer la coordination ;

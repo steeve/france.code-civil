@@ -9,6 +9,9 @@ par décret.
 Pour les personnes visées aux deuxième à sixième alinéas du I de l'article L.
 732-56, l'assiette des cotisations est égale au minimum précité.
 
+Pour les personnes mentionnées au IV de l'article L. 732-56, l'assiette des
+cotisations est égale à un montant forfaitaire fixé par décret.
+
 Les cotisations sont dues par les chefs d'exploitation ou d'entreprise agricole
 visés au I de l'article L. 732-56 à compter du 1er janvier 2003.
 

@@ -2,7 +2,8 @@ Article L152-1
 ----
 Les décisions des conseils d'administration des organismes d'assurance
 vieillesse des professions libérales et des avocats et des organismes mentionnés
-L. 723-1 du code rural et de la pêche maritime sont soumises au contrôle de
+à l'article L. 723-1 du code rural et de la pêche maritime et de l'organisme
+mentionné à l'article L. 382-12 du présent code sont soumises au contrôle de
 l'Etat dans les conditions fixées au présent chapitre.
 
 L'autorité compétente de l'Etat peut annuler ces décisions lorsqu'elles sont

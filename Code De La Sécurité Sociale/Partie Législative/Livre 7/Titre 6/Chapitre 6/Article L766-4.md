@@ -1,10 +1,13 @@
 Article L766-4
 ----
-Les assurés volontaires relevant des chapitres 2, 3, 4 et 5 du présent titre,
-sont affiliés à la caisse des Français de l'étranger. Cette caisse gère les
+Les assurés volontaires relevant des chapitres II, III, IV et V du présent titre
+sont affiliés à la Caisse des Français de l'étranger. Cette caisse gère les
 risques maladie, maternité, invalidité, accidents du travail et maladies
-professionnelles. Elle assure le recouvrement des cotisations afférentes à ces
-risques, ainsi que celles qui sont afférentes au risque vieillesse.
+professionnelles et assure le recouvrement des cotisations afférentes à ces
+risques. Elle assure les formalités d'adhésion et le recouvrement des
+cotisations pour les catégories de personnes mentionnées à l'article L. 742-1
+qui résident à l'étranger et peuvent s'affilier à l'assurance volontaire au
+titre du risque vieillesse.
 
 Sous réserve des dispositions du présent chapitre, les règles d'organisation et
 de gestion contenues dans les dispositions législatives applicables aux caisses

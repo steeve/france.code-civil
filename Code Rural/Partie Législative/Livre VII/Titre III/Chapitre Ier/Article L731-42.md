@@ -1,8 +1,8 @@
 Article L731-42
 ----
 Les cotisations dues pour la couverture des dépenses de prestations de
-l'assurance vieillesse sont à la charge du chef d'exploitation ou d'entreprise ;
-elles comprennent :
+l'assurance vieillesse et de l'assurance veuvage sont à la charge du chef
+d'exploitation ou d'entreprise ; elles comprennent :
 
 1° Une cotisation due pour chaque personne non salariée âgée d'au moins seize
 ans, à l'exception des personnes mentionnées à l'article L. 732-28 et calculée,

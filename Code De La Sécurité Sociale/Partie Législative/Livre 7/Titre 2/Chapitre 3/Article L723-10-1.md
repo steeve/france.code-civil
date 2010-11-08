@@ -1,6 +1,6 @@
 Article L723-10-1
 ----
-I. - La liquidation de la pension peut être demandée à partir de l'âge prévu au
+I.-La liquidation de la pension peut être demandée à partir de l'âge prévu au
 premier alinéa de l'article L. 351-1.
 
 Lorsque l'intéressé a accompli la durée d'assurance fixée en application du
@@ -19,7 +19,7 @@ lequel la pension est majorée lorsque la liquidation de la pension de retraite
 est ajournée au-delà de l'âge et de la durée d'assurance prévus respectivement
 au premier et au deuxième alinéa du présent I.
 
-II. - L'âge prévu au premier alinéa du I est abaissé pour les assurés qui ont
+II.-L'âge prévu au premier alinéa du I est abaissé pour les assurés qui ont
 commencé leur activité avant un âge et dans des conditions déterminés par décret
 et ont accompli une durée totale d'assurance et de périodes reconnues
 équivalentes dans le régime d'assurance vieillesse de base des avocats et, le
@@ -30,13 +30,15 @@ d'application du présent II, et notamment les conditions dans lesquelles, le ca
 échéant, une partie des périodes de service national peut être réputée avoir
 donné lieu au versement de cotisations.
 
-III. - La condition d'âge prévue au premier alinéa du I est abaissée, dans des
+III.-La condition d'âge prévue au premier alinéa du I est abaissée, dans des
 conditions fixées par décret, pour les assurés handicapés qui ont accompli,
 alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un
-taux fixé par décret, une durée d'assurance dans le régime d'assurance
-vieillesse de base des avocats et, le cas échéant, dans un ou plusieurs autres
-régimes obligatoires au moins égale à une limite définie par décret, tout ou
-partie de cette durée ayant donné lieu à cotisations à la charge de l'assuré.
+taux fixé par décret ou qu'ils bénéficiaient de la reconnaissance de la qualité
+de travailleur handicapé mentionnée à l'article L. 5213-1 du code du travail,
+une durée d'assurance dans le régime d'assurance vieillesse de base des avocats
+et, le cas échéant, dans un ou plusieurs autres régimes obligatoires au moins
+égale à une limite définie par décret, tout ou partie de cette durée ayant donné
+lieu à cotisations à la charge de l'assuré.
 
 La pension des intéressés est majorée en fonction de la durée ayant donné lieu à
 cotisations considérée, dans des conditions précisées par décret.

@@ -1,10 +1,10 @@
 Article L732-56
 ----
-I. - Sont affiliées au régime de l'assurance vieillesse complémentaire
-obligatoire les personnes occupées au 1er janvier 2003, ou postérieurement à
-cette date, en qualité de chef d'exploitation ou d'entreprise agricole, aux
-activités ou dans les exploitations, entreprises ou établissements visés aux 1°
-à 5° de l'article L. 722-1.
+I.-Sont affiliées au régime de l'assurance vieillesse complémentaire obligatoire
+les personnes occupées au 1er janvier 2003, ou postérieurement à cette date, en
+qualité de chef d'exploitation ou d'entreprise agricole, aux activités ou dans
+les exploitations, entreprises ou établissements visés aux 1° à 5° de l'article
+L. 722-1.
 
 Sont affiliés à compter du 1er janvier 2003 et durant toute la période de
 perception de l'allocation de préretraite les titulaires de cette allocation
@@ -21,12 +21,12 @@ l'assurance volontaire vieillesse mentionnée aux articles L. 722-17 et L.
 Sont affiliés à compter du 1er janvier 2003 les chefs d'exploitation ou
 d'entreprise agricole non retraités :
 
-- titulaires de pensions d'invalidité, mentionnés au 6° de l'article L. 722-10 ;
+-titulaires de pensions d'invalidité, mentionnés au 6° de l'article L. 722-10 ;
 
-- titulaires de rentes, mentionnés au 7° de l'article L. 722-10, et au deuxième
+-titulaires de rentes, mentionnés au 7° de l'article L. 722-10, et au deuxième
 alinéa de l'article L. 752-6.
 
-II. - Bénéficient en outre du présent régime les chefs d'exploitation ou
+II.-Bénéficient en outre du présent régime les chefs d'exploitation ou
 d'entreprise agricole dont la retraite servie à titre personnel a pris effet :
 
 1° Avant le 1er janvier 1997 et qui justifient de périodes minimum d'activité
@@ -44,8 +44,14 @@ effectuées en qualité de chef d'exploitation ou d'entreprise agricole à titre
 exclusif ou principal. Un décret détermine les modalités de fixation des minima
 précédemment mentionnés.
 
-III. - Les personnes dont la retraite servie à titre personnel prend effet
+III.-Les personnes dont la retraite servie à titre personnel prend effet
 postérieurement au 31 décembre 2002 et qui remplissent les conditions précisées
 au 2° du II bénéficient du présent régime pour leurs périodes accomplies comme
 chef d'exploitation ou d'entreprise agricole à titre exclusif ou principal avant
 le 1er janvier 2003.
+
+IV.-Sont affiliées au régime de l'assurance vieillesse complémentaire
+obligatoire les personnes ayant, à compter du 1er janvier 2011 ou
+postérieurement à cette date, la qualité d'aide familial telle que définie au 2°
+de l'article L. 722-10 ou la qualité de collaborateur d'exploitation ou
+d'entreprise agricole telle que définie à l'article L. 321-5.

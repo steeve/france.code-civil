@@ -11,3 +11,8 @@ salariés ont sur l'entreprise un droit de créance égal au montant des sommes
 versées.
 
 Ces dispositions sont applicables aux accords conclus après le 1er janvier 2007.
+
+Tout accord de participation existant à la date de promulgation de la loi n°
+2010-1330 du 9 novembre 2010 portant réforme des retraites doit être mis en
+conformité avec le présent article et l'article L. 3323-3 au plus tard le 1er
+janvier 2013.

@@ -9,7 +9,10 @@ situation particulière de l'entreprise. Cette négociation porte notamment sur
 les conditions d'accès à l'emploi, à la formation professionnelle et à la
 promotion professionnelle, les conditions de travail et d'emploi et en
 particulier celles des salariés à temps partiel, et l'articulation entre la vie
-professionnelle et les responsabilités familiales.
+professionnelle et les responsabilités familiales. Cette négociation porte
+également sur l'application de l'article L. 241-3-1 du code de la sécurité
+sociale et sur les conditions dans lesquelles l'employeur peut prendre en charge
+tout ou partie du supplément de cotisations.
 
 Lorsqu'un accord comportant de tels objectifs et mesures est signé dans
 l'entreprise, la périodicité de la négociation est portée à trois ans.

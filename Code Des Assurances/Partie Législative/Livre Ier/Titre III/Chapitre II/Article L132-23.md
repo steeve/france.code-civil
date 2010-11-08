@@ -10,6 +10,10 @@ Les contrats d'assurance de groupe en cas de vie dont les prestations sont liée
 à la cessation d'activité professionnelle, y compris les contrats qui relèvent
 du régime de retraite complémentaire institué par la Caisse nationale de
 prévoyance de la fonction publique, ne comportent pas de possibilité de rachat.
+Les contrats qui relèvent du régime de retraite complémentaire institué par la
+Caisse nationale de prévoyance de la fonction publique peuvent prévoir, à la
+date de cessation d'activité professionnelle, une possibilité de rachat dans la
+limite de 20 % de la valeur des droits individuels résultant de ces contrats.
 Toutefois, ces contrats doivent prévoir une faculté de rachat intervenant
 lorsque se produisent l'un ou plusieurs des événements suivants :
 
@@ -23,11 +27,22 @@ mandat social ou de sa révocation ;
 
 - cessation d'activité non salariée de l'assuré à la suite d'un jugement de
 liquidation judiciaire en application des dispositions du livre VI du code de
-commerce ;
+commerce ou toute situation justifiant ce rachat selon le président du tribunal
+de commerce auprès duquel est instituée une procédure de conciliation telle que
+visée à l'article L. 611-4 du code de commerce, qui en effectue la demande avec
+l'accord de l'assuré ;
 
 - invalidité de l'assuré correspondant au classement dans les deuxième ou
-troisième catégories prévues à l'article L. 341-4 du code de la sécurité
-sociale.
+troisième catégories prévues à l'article L. 341-4 du code de la sécurité sociale
+;
+
+- décès du conjoint ou du partenaire lié par un pacte civil de solidarité ;
+
+- situation de surendettement de l'assuré définie à l'article L. 330-1 du code
+de la consommation, sur demande adressée à l'assureur, soit par le président de
+la commission de surendettement des particuliers, soit par le juge lorsque le
+déblocage des droits individuels résultant de ces contrats paraît nécessaire à
+l'apurement du passif de l'intéressé.
 
 Les droits individuels résultant des contrats d'assurance de groupe en cas de
 vie dont les prestations sont liées à la cessation d'activité professionnelle, y

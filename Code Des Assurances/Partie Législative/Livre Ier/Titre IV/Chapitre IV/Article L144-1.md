@@ -22,4 +22,6 @@ application de l'article L. 351-1 du code de la sécurité sociale ou, pour les
 contrats mentionnés au 1° du présent article, le versement de prestations de
 prévoyance complémentaire ou d'indemnités en cas de perte d'emploi subie. Le
 versement des primes ou cotisations dues au titre des contrats doit présenter un
-caractère régulier dans son montant et sa périodicité.
+caractère régulier dans son montant et sa périodicité et peut être entièrement
+cumulé avec une activité professionnelle, dans les conditions prévues à
+l'article L. 161-22 du code de la sécurité sociale.

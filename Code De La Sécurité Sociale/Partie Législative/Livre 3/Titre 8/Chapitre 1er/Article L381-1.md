@@ -49,9 +49,9 @@ subordonnée à la production de justificatifs, définis par décret.
 
 En outre, est affilié obligatoirement à l'assurance vieillesse du régime général
 de sécurité sociale, pour autant que ses ressources ou celles du ménage ne
-dépassent pas le plafond du complément familial et que cette affiliation ne soit
-pas acquise à un autre titre, la personne et, pour un couple, l'un ou l'autre de
-ses membres :
+dépassent pas le plafond du complément familial et qu'elle n'exerce aucune
+activité professionnelle ou seulement une activité à temps partiel la personne
+et, pour un couple, l'un ou l'autre de ses membres :
 
 1°) ayant la charge d'un enfant handicapé qui n'est pas admis dans un internat,
 dont l'incapacité permanente est au moins égale à un taux fixé par décret et qui

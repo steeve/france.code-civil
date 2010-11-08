@@ -1,8 +1,10 @@
 Article L382-12
 ----
 Les personnes affiliées au régime général en application de l'article L. 382-1
-relèvent des régimes complémentaires d'assurance vieillesse institués en
-application de l'article L. 644-1.
+relèvent de régimes complémentaires d'assurance vieillesse institués en
+application de l'article L. 644-1 dont la gestion est assurée par une caisse de
+retraite complémentaire dotée de la personnalité juridique et de l'autonomie
+financière, dans des conditions fixées par décret.
 
 Lorsque la cotisation à un régime relevant du présent article est due au titre
 de droits perçus en application du contrat visé à l'article L. 132-24 du code de

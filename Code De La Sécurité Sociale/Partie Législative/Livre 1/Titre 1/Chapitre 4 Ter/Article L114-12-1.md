@@ -2,9 +2,10 @@ Article L114-12-1
 ----
 Il est créé un répertoire national commun aux organismes chargés de la gestion
 d'un régime obligatoire de sécurité sociale, aux caisses assurant le service des
-congés payés, ainsi qu'à l'institution mentionnée à l'article L. 311-7 du code
-du travail, relatif aux bénéficiaires des prestations et avantages de toute
-nature qu'ils servent.
+congés payés, aux organismes chargés de la gestion d'un régime de retraite
+complémentaire ou additionnel obligatoire, ainsi qu'à l'institution mentionnée à
+l'article L. 311-7 du code du travail, relatif aux bénéficiaires des prestations
+et avantages de toute nature qu'ils servent.
 
 Ce répertoire est utilisé par ces organismes, notamment pour les échanges
 mentionnés à l'article L. 114-12 du présent code et pour ceux prévus, en
@@ -22,7 +23,8 @@ relatives au répertoire défini au premier alinéa.
 
 Ont également accès aux données de ce répertoire :
 
-1° Les organismes de la branche recouvrement du régime général dans le cadre de
+1° Les organismes de la branche recouvrement du régime général et le Centre de
+liaisons européennes et internationales de sécurité sociale dans le cadre de
 l'exercice de leurs missions ;
 
 2° Les collectivités territoriales pour les procédures d'attribution d'une forme

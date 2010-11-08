@@ -26,3 +26,8 @@ Sont également soumises à cette contribution les rémunérations visées aux
 articles L. 225-44 et L. 225-85 du code de commerce perçues par les
 administrateurs et membres des conseils de surveillance de sociétés anonymes et
 des sociétés d'exercice libéral à forme anonyme.
+
+Sont également soumises à cette contribution les sommes correspondant à la prise
+en charge par l'employeur de la part salariale des cotisations ou contributions
+destinées au financement des régimes de retraite complémentaire mentionnée au
+cinquième alinéa de l'article L. 242-1.

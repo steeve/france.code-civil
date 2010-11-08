@@ -22,4 +22,7 @@ après la liquidation du régime matrimonial ;
 
 - leurs droits existants et prévisibles ;
 
-- leur situation respective en matière de pensions de retraite.
+- leur situation respective en matière de pensions de retraite en ayant estimé,
+autant qu'il est possible, la diminution des droits à retraite qui aura pu être
+causée, pour l'époux créancier de la prestation compensatoire, par les
+circonstances visées au sixième alinéa.

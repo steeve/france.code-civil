@@ -7,10 +7,11 @@ mêmes conditions que celles prévues à l'article L. 816-2.
 Toutefois, la récupération n'est opérée que sur la fraction de l'actif net qui
 excède un seuil dont le montant est fixé par décret.
 
-Lorsque la succession du bénéficiaire, en tout ou partie, comprend un capital
-d'exploitation agricole, ce dernier n'est retenu, pour l'application de l'alinéa
-précédent, que pour 30 % de sa valeur. La liste des éléments constitutifs de ce
-capital est fixée par décret.
+Lorsque la succession du bénéficiaire, en tout ou en partie, comprend un capital
+d'exploitation agricole, ce dernier ainsi que les bâtiments qui en sont
+indissociables ne sont pas pris en compte pour l'application du deuxième alinéa.
+La liste des éléments constitutifs de ce capital et de ces bâtiments est fixée
+par décret.
 
 Le recouvrement est opéré dans des conditions et selon des modalités fixées par
 décret par les organismes ou services assurant le service de l'allocation

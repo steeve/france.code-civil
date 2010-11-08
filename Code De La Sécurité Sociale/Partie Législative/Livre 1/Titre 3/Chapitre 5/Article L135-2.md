@@ -5,11 +5,11 @@ premier alinéa de l'article L. 135-1 sont les suivantes :
 
 1° Le financement des allocations mentionnées :
 
-- au dernier alinéa de l'article L. 643-1 ;
+-au dernier alinéa de l'article L. 643-1 ;
 
-- au chapitre V du titre Ier du livre VIII ;
+-au chapitre V du titre Ier du livre VIII ;
 
-- à l'article 2 de l'ordonnance n° 2004-605 du 24 juin 2004 simplifiant le
+-à l'article 2 de l'ordonnance n° 2004-605 du 24 juin 2004 simplifiant le
 minimum vieillesse ;
 
 2° (Paragraphe supprimé)
@@ -71,10 +71,15 @@ de solidarité ;
 
 9° Les dépenses attachées au service de l'allocation spéciale pour les personnes
 âgées prévue à l'article 28 de l'ordonnance n° 2002-411 du 27 mars 2002 relative
-à la protection sanitaire et sociale à Mayotte.
+à la protection sanitaire et sociale à Mayotte ;
 
-Les sommes mentionnées aux a, b, d, e et f du 4° et au 7° sont calculées sur une
-base forfaitaire dans des conditions fixées par décret en Conseil d'Etat.
+10° Les sommes représentatives de la prise en compte par les régimes d'assurance
+vieillesse de base, dans le salaire de base mentionné à l'article L. 351-1, des
+indemnités journalières mentionnées au même article.
+
+Les sommes mentionnées aux a, b, d, e et f du 4°, au 7° et au 10° sont calculées
+sur une base forfaitaire dans des conditions fixées par décret en Conseil
+d'Etat.
 
 Les sommes mentionnées au c du 4° sont calculées sur une base forfaitaire
 déterminée par arrêté conjoint du ministre chargé de la sécurité sociale et du

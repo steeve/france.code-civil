@@ -1,10 +1,14 @@
 Article L732-60
 ----
-Les personnes affiliées au présent régime bénéficient, à compter de la date
-d'effet de leur retraite mentionnée à l'article L. 732-24 et au plus tôt au 1er
-avril 2003, d'une retraite exprimée en points de retraite complémentaire. Les
-pensions dues au titre de l'assurance vieillesse complémentaire obligatoire par
-répartition sont payées mensuellement.
+Les chefs d'exploitation ou d'entreprise agricole affiliés au présent régime
+bénéficient, à compter de la date d'effet de leur retraite mentionnée à
+l'article L. 732-24 et au plus tôt au 1er avril 2003, d'une retraite exprimée en
+points de retraite complémentaire. Les aides familiaux et les collaborateurs
+d'exploitation ou d'entreprise agricole affiliés au présent régime bénéficient,
+à compter de la date d'effet de leur retraite mentionnée aux articles L. 732-34
+et L. 732-35, et au plus tôt au 1er janvier 2011, d'une retraite exprimée en
+points de retraite complémentaire. Les pensions dues au titre de l'assurance
+vieillesse complémentaire obligatoire par répartition sont payées mensuellement.
 
 Le nombre annuel de points est déterminé selon des modalités fixées par décret,
 en fonction de l'assiette retenue pour le calcul des cotisations prévue à

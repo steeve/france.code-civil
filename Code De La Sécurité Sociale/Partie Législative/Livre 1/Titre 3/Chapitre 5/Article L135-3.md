@@ -30,7 +30,10 @@ l'article L. 134-1 ;
 
 9° Alinéa abrogé
 
-10° Le produit de la contribution instituée à l'article L. 137-11.
+10° Le produit de la contribution instituée à l'article L. 137-11 ;
+
+11° Les sommes versées par les employeurs au titre de l'article L. 2242-5-1 du
+code du travail.
 
 Les recettes et les dépenses du fonds de la première section doivent être
 équilibrées, dans des conditions prévues par les lois de financement de la

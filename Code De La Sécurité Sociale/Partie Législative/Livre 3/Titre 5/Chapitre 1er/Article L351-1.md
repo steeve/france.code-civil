@@ -1,10 +1,10 @@
 Article L351-1
 ----
 L'assurance vieillesse garantit une pension de retraite à l'assuré qui en
-demande la liquidation à partir d'un âge déterminé.
+demande la liquidation à partir de l'âge mentionné à l'article L. 161-17-2.
 
 Le montant de la pension résulte de l'application au salaire annuel de base d'un
-taux croissant, jusqu'à un maximum dit "taux plein", en fonction de la durée
+taux croissant, jusqu'à un maximum dit " taux plein ", en fonction de la durée
 d'assurance, dans une limite déterminée, tant dans le régime général que dans un
 ou plusieurs autres régimes obligatoires, ainsi que de celle des périodes
 reconnues équivalentes, ou en fonction de l'âge auquel est demandée cette
@@ -18,7 +18,9 @@ d'assurance.
 Les modalités de calcul du salaire de base, des périodes d'assurance ou des
 périodes équivalentes susceptibles d'être prises en compte et les taux
 correspondant aux durées d'assurance et à l'âge de liquidation sont définis par
-décret en Conseil d'Etat.
+décret en Conseil d'Etat. Les indemnités journalières mentionnées au 2° de
+l'article L. 330-1 sont incluses dans le salaire de base pour l'application du
+présent article.
 
 Les dispositions des alinéas précédents ne sauraient avoir pour effet de réduire
 le montant de la pension à un montant inférieur à celui qu'elle aurait atteint

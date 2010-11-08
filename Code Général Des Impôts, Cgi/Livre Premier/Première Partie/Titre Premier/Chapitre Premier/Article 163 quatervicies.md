@@ -7,29 +7,11 @@ foyer fiscal :
 a) aux plans d'épargne retraite populaire prévus à l'article L. 144-2 du code
 des assurances ;
 
-b) à titre individuel et facultatif aux contrats souscrits dans le cadre de
+b) A titre individuel et facultatif aux contrats souscrits dans le cadre de
 régimes de retraite supplémentaire, auxquels l'affiliation est obligatoire et
 mis en place dans les conditions prévues à l'article L. 911-1 du code de la
 sécurité sociale, lorsque ces contrats sont souscrits par un employeur ou un
-groupement d'employeurs et non par un groupement d'épargne retraite populaire
-défini à l'article L. 144-2 du code des assurances, et sous réserve, d'une part,
-que ces contrats respectent les règles applicables au plan d'épargne retraite
-populaire défini par le même article, à l'exception du XII du même article, et à
-condition, d'autre part :
-
-1° que le contrat prévoie les modalités de financement des missions du comité de
-surveillance ;
-
-2° que les représentants du ou des employeurs au comité de surveillance ne
-détiennent pas plus de la moitié des voix et qu'au moins deux sièges soient
-réservés, le cas échéant, à un représentant élu des participants retraités et à
-un représentant élu des participants ayant quitté l'employeur ou le groupement
-d'employeurs ;
-
-3° que le contrat prévoie la faculté pour l'adhérent, lorsqu'il n'est plus tenu
-d'y adhérer, de transférer ses droits vers un plan d'épargne retraite populaire
-défini à l'article L. 144-2 précité ou vers un autre contrat respectant les
-règles fixées au b ;
+groupement d'employeurs ;
 
 c) Au régime de retraite complémentaire institué par la Caisse nationale de
 prévoyance de la fonction publique ainsi qu'aux autres régimes de retraite
@@ -40,9 +22,9 @@ et des établissements publics soit auprès d'organismes relevant du code de la
 mutualité, soit auprès d'entreprises régies par le code des assurances, ou
 institués par les organismes mentionnés au VII de l'article 5 de l'ordonnance n°
 2001-350 du 19 avril 2001 relative au code de la mutualité et transposant les
-directives 92 / 49 / CEE et 92 / 96 / CEE du Conseil, des 18 juin et 10 novembre
-1992, pour leurs opérations collectives visées à l'article L. 222-1 du code de
-la mutualité.
+directives 92/49/ CEE et 92/96/ CEE du Conseil, des 18 juin et 10 novembre 1992,
+pour leurs opérations collectives visées à l'article L. 222-1 du code de la
+mutualité.
 
 2.-a) Les cotisations ou les primes mentionnées au 1 sont déductibles pour
 chaque membre du foyer fiscal dans une limite annuelle égale à la différence
@@ -116,7 +98,7 @@ bénéfices agricoles mentionnés à l'article 63 et des bénéfices tirés de
 l'exercice d'une profession non commerciale mentionnés au 1 de l'article 92,
 pour leur montant imposable.
 
-Les revenus exonérés en application des articles 44 sexies à 44 undecies , 44
+Les revenus exonérés en application des articles 44 sexies à 44 undecies,44
 terdecies et 44 quaterdecies ou au 9 de l'article 93 ainsi que l'abattement
 prévu à l'article 73 B sont retenus pour l'appréciation du montant des revenus
 définis au premier alinéa. Sont également retenus les revenus imposés dans les

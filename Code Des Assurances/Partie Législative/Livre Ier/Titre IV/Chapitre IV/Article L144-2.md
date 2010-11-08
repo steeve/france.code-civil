@@ -9,7 +9,9 @@ Le contrat mentionné au premier alinéa a pour objet l'acquisition et la
 jouissance de droits viagers personnels payables à l'adhérent à compter au plus
 tôt de la date de liquidation de sa pension dans un régime obligatoire
 d'assurance vieillesse ou de l'âge fixé en application de l'article L. 351-1 du
-code de la sécurité sociale.
+code de la sécurité sociale. Le contrat peut également prévoir le paiement d'un
+capital à cette même date, à condition que la valeur de rachat de cette garantie
+n'excède pas 20 % de la valeur de rachat du contrat.
 
 Le contrat peut prévoir des garanties complémentaires en cas de décès de
 l'adhérent avant ou après la date de mise en service de la rente viagère acquise

@@ -14,10 +14,7 @@ initialement prévue, il est procédé à un ajustement du coefficient fixé au 
 avril de l'année suivante, égal à la différence entre cette évolution et celle
 initialement prévue.
 
-Par dérogation aux dispositions du premier alinéa et sur proposition d'une
-conférence présidée par les ministres chargés de la sécurité sociale, de la
-fonction publique et du budget et réunissant les organisations syndicales et
-professionnelles représentatives au plan national, dont les modalités
-d'organisation sont fixées par décret, une correction au taux de revalorisation
-de l'année suivante peut être proposée au Parlement dans le cadre du plus
-prochain projet de loi de financement de la sécurité sociale.
+Par dérogation aux dispositions du premier alinéa et sur proposition du Comité
+de pilotage des régimes de retraite, une correction au taux de revalorisation de
+l'année suivante peut être proposée au Parlement dans le cadre du plus prochain
+projet de loi de financement de la sécurité sociale.

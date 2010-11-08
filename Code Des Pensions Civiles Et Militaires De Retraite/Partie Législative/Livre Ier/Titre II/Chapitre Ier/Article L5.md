@@ -35,9 +35,10 @@ fonction publique territoriale et de l'article 46 de la loi n° 86-33 du 9
 janvier 1986 portant dispositions statutaires relatives à la fonction publique
 hospitalière sont comptées pour la totalité de leur durée.
 
-Peuvent également être pris en compte pour la constitution du droit à pension
-les services d'auxiliaire, de temporaire, d'aide ou de contractuel, y compris
-les périodes de congé régulier pour longue maladie, accomplis dans les
+Pour les fonctionnaires titularisés au plus tard le 1er janvier 2013, peuvent
+également être pris en compte pour la constitution du droit à pension les
+services d'auxiliaire, de temporaire, d'aide ou de contractuel, y compris les
+périodes de congé régulier pour longue maladie, accomplis dans les
 administrations centrales de l'Etat, les services extérieurs en dépendant et les
 établissements publics de l'Etat ne présentant pas un caractère industriel et
 commercial, si la validation des services de cette nature a été autorisée pour
@@ -47,3 +48,6 @@ la titularisation ou d'entrée en service pour les militaires sous contrat.
 
 Le délai dont dispose l'agent pour accepter ou refuser la notification de
 validation est d'un an.
+
+Les services validés au titre des dixième et onzième alinéas ne peuvent être
+pris en compte pour parfaire la condition prévue au 1° de l'article L. 4.

@@ -4,7 +4,7 @@ Les cotisations prévues à l'article L. 642-1 sont assises sur le revenu
 professionnel non salarié ou, le cas échéant, sur des revenus forfaitaires.
 Elles ne peuvent être inférieures à un montant fixé par décret.
 
-Le revenu professionnel pris en compte est celui défini aux deuxième , troisième
+Le revenu professionnel pris en compte est celui défini aux deuxième, troisième
 et quatrième alinéas de l'article L. 131-6.
 
 Les cotisations sont calculées, chaque année, à titre provisionnel, en
@@ -31,3 +31,6 @@ applicables aux cotisations prévues par l'article L. 642-1.
 Les dispositions des deux alinéas précédents ne sont pas applicables à raison
 d'une modification des conditions dans lesquelles le professionnel libéral
 exerce son activité.
+
+A la demande de l'assuré, l'assiette des cotisations peut être fixée selon les
+modalités prévues au sixième alinéa de l'article L. 131-6.
