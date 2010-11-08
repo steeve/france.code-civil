@@ -29,3 +29,20 @@ bail et le montant des loyers estimé par le service France Domaine.
 Dans les communes qui s'engagent, par une convention d'action foncière avec
 l'Etat, à créer des réserves foncières destinées à la construction de logements
 sociaux, le taux minimal de la participation des collectivités sera de 10 %.
+
+Pour les subventions attribuées avant le 1er janvier 2012, le représentant de
+l'Etat peut, à titre dérogatoire, réduire ou supprimer la participation des
+collectivités territoriales prévue au premier alinéa, si les conditions
+suivantes sont réunies :
+
+1° Il est établi, au vu d'une analyse financière des comptes des collectivités
+concernées et de leurs perspectives d'évolution transmise par le directeur
+régional des finances publiques, que la situation financière de ces
+collectivités est dégradée ;
+
+2° En Guadeloupe, en Martinique et à La Réunion, l'opération doit se situer sur
+le territoire d'une commune ayant conclu avec l'Etat une convention d'action
+foncière ;
+
+3° En Guyane, l'opération doit se situer sur le territoire d'une commune ayant
+conclu avec l'Etat une convention en faveur du logement social.
