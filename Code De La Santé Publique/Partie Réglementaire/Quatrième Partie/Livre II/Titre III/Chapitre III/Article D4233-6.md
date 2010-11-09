@@ -10,8 +10,8 @@ section et au conseil national. Un pharmacien électeur dans plusieurs collèges
 d'une même section ne peut se porter candidat qu'au titre de l'un de ces
 collèges ;
 
-2° Avoir été inscrit à l'ordre pendant une durée totale d'au moins cinq ans à la
-date de l'élection ;
+2° Avoir été inscrit à l'ordre pendant une durée totale d'au moins trois ans à
+la date de l'élection ;
 
 3° Ne pas avoir été frappé d'une interdiction d'exercice devenue définitive ;
 
