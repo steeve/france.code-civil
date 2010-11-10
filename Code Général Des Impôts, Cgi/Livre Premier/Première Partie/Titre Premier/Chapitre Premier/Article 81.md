@@ -153,7 +153,7 @@ troisième partie du code du travail ;
 
 b) Les sommes versées par le salarié pour alimenter un plan d'épargne pour la
 retraite collectif dans les conditions du dernier alinéa de l'article L. 3153-3
-du code du travail ;
+du code du travail ou du deuxième alinéa de l'article L. 3334-8 du même code ;
 
 18° bis Dans la limite d'un montant égal à la moitié du plafond annuel moyen
 retenu pour le calcul des cotisations de sécurité sociale, les sommes reçues au
