@@ -34,8 +34,8 @@ représentant ;
 
 11° Le président de la chambre de commerce et d'industrie ou son représentant ;
 
-12° Le président de la chambre de métiers et de l'artisanat ou son représentant
-;
+12° Le président de la chambre de métiers et de l'artisanat de région ou son
+représentant ;
 
 13° Le directeur départemental des affaires sanitaires et sociales ou son
 représentant ;

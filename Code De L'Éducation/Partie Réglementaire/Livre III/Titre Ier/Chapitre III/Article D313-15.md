@@ -57,7 +57,7 @@ représentatives ;
 
 3° Un représentant des chambres de commerce et d'industrie ;
 
-4° Un représentant des chambres de métiers et de l'artisanat ;
+4° Un représentant des chambres de métiers et de l'artisanat de région ;
 
 5° Six représentants d'organisations syndicales de salariés représentatives ;
 

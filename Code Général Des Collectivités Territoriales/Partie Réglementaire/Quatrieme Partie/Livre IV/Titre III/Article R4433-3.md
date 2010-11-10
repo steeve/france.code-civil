@@ -9,8 +9,8 @@ de coopération intercommunale et les syndicats mixtes chargés de l'élaboratio
 et de l'approbation des schémas de cohérence territoriale en application de
 l'article L. 122-4 du code de l'urbanisme et, le cas échéant, les chambres
 d'agriculture, les chambres de commerce et d'industrie et les chambres de
-métiers et de l'artisanat à l'élaboration du schéma d'aménagement régional,
-participent aux travaux de cette commission :
+métiers et de l'artisanat de région à l'élaboration du schéma d'aménagement
+régional, participent aux travaux de cette commission :
 
 1° Le préfet de région ou son représentant ;
 
@@ -24,8 +24,8 @@ l'approbation des schémas de cohérence territoriale en application de l'articl
 L. 122-4 du code de l'urbanisme ;
 
 4° Un représentant de chacune des chambres d'agriculture, des chambres de
-commerce et d'industrie, des chambres de métiers et de l'artisanat, si elles en
-font la demande ;
+commerce et d'industrie, des chambres de métiers et de l'artisanat de région, si
+elles en font la demande ;
 
 5° Un représentant de chacune des organisations professionnelles qui en font la
 demande.

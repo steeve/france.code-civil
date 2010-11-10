@@ -9,7 +9,7 @@ registre mentionné à l'article précité.
 
 Il en est de même pour les observations qui seraient présentées par les chambres
 d'agriculture, les chambres de commerce et d'industrie et les chambres de
-métiers et de l'artisanat.
+métiers et de l'artisanat de région.
 
 Indépendamment des dispositions qui précèdent, les observations faites sur
 l'utilité publique de l'opération sont également reçues par le commissaire

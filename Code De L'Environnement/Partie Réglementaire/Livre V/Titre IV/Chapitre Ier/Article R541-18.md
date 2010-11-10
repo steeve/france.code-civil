@@ -1,6 +1,6 @@
 Article R541-18
 ----
-I. - Dans chaque département, hormis ceux de la région Ile-de-France, et, en
+I.-Dans chaque département, hormis ceux de la région Ile-de-France, et, en
 Ile-de-France, dans la région, une commission consultative comprend :
 
 1° Le président du conseil général ou son représentant ou, en Ile-de-France, le
@@ -33,8 +33,8 @@ région ;
 ;
 
 8° Des représentants des chambres de commerce et d'industrie, des chambres
-d'agriculture et des chambres de métiers et de l'artisanat de la zone couverte
-par le plan ;
+d'agriculture et des chambres de métiers et de l'artisanat de région de la zone
+couverte par le plan ;
 
 9° Des représentants des organisations professionnelles concourant à la
 production et à l'élimination des déchets, ainsi que des représentants des
@@ -45,12 +45,12 @@ code ;
 
 11° Des représentants d'associations agréées de consommateurs.
 
-II. - L'autorité compétente fixe la composition de la commission, nomme ceux de
+II.-L'autorité compétente fixe la composition de la commission, nomme ceux de
 ses membres prévus aux 5° à 11° du I et désigne le service chargé de son
 secrétariat.
 
-III. - La commission définit son programme de travail et les modalités de son
+III.-La commission définit son programme de travail et les modalités de son
 fonctionnement.
 
-IV. - Elle est consultée sur le projet de plan et le rapport environnemental
-prévu à l'article L. 122-6.
+IV.-Elle est consultée sur le projet de plan et le rapport environnemental prévu
+à l'article L. 122-6.

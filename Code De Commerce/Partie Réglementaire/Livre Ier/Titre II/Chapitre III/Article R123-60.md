@@ -13,18 +13,18 @@ c) Ses activités principales et si leur nature est civile ou commerciale ;
 d) Sa durée ;
 
 e) Pour chaque personne physique membre du groupement, les renseignements prévus
-aux 1°, 2° et 3° de l'article R. 123-37 et, le cas échéant, les numéros
+aux 1°,2° et 3° de l'article R. 123-37 et, le cas échéant, les numéros
 d'identification de ces personnes avec l'indication du nom du greffe ou de la
-chambre de métiers et de l'artisanat où elles sont immatriculées, ainsi que
-l'indication des personnes exonérées des dettes nées antérieurement à leur
-entrée dans le groupement ;
+chambre de métiers et de l'artisanat de région où elles sont immatriculées,
+ainsi que l'indication des personnes exonérées des dettes nées antérieurement à
+leur entrée dans le groupement ;
 
 f) Pour chaque personne morale membre du groupement, les renseignements prévus
-aux 1°, 2° et 4° de l'article R. 123-53 et, le cas échéant, les numéros
+aux 1°,2° et 4° de l'article R. 123-53 et, le cas échéant, les numéros
 d'identification de ces personnes avec l'indication du nom du greffe ou de la
-chambre de métiers et de l'artisanat où elles sont immatriculées, ainsi que
-l'indication des personnes exonérées des dettes nées antérieurement à leur
-entrée dans le groupement ;
+chambre de métiers et de l'artisanat de région où elles sont immatriculées,
+ainsi que l'indication des personnes exonérées des dettes nées antérieurement à
+leur entrée dans le groupement ;
 
 g) Pour les administrateurs et les personnes chargées du contrôle de la gestion
 et du contrôle des comptes, leurs nom, nom d'usage, pseudonyme, prénoms, date et

@@ -43,7 +43,7 @@ la caisse de compensation pour la décentralisation de l'industrie aéronautique
 
 les chambres d'agriculture ;
 
-les chambres de métiers et de l'artisanat ;
+les chambres de métiers et de l'artisanat de région ;
 
 les sections de l'office de répartition des produits industriels ;
 

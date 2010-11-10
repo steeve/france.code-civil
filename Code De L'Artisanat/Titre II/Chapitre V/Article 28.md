@@ -1,8 +1,8 @@
 Article 28
 ----
-Le budget et les comptes des chambres de métiers et de l'artisanat sont établis
-dans les formes prescrites par le ministre chargé de l'artisanat et le ministre
-chargé du budget.
+Le budget et les comptes des chambres de métiers et de l'artisanat de région
+sont établis dans les formes prescrites par le ministre chargé de l'artisanat et
+le ministre chargé du budget.
 
 Ils doivent faire apparaître dans des sections distinctes les dépenses et les
 recettes ordinaires et celles qui, par leur nature, ne sont pas susceptibles de
@@ -10,11 +10,11 @@ se reproduire tous les ans.
 
 Le budget est voté par l'assemblée générale de la chambre de métiers et de
 l'artisanat avant le 1er décembre de chaque année. Il n'est exécutoire qu'après
-approbation expresse du préfet, lequel en transmet un exemplaire au ministre
-chargé de l'artisanat.
+approbation expresse de l'autorité de tutelle, laquelle en transmet un
+exemplaire au ministre chargé de l'artisanat.
 
-Lorsque le préfet constate la carence de la chambre de métiers et de
-l'artisanat, il procède suivant le cas à :
+Lorsque l'autorité de tutelle constate la carence de la chambre de métiers et de
+l'artisanat, elle procède suivant le cas à :
 
 1° L'établissement d'office du budget de la chambre ;
 

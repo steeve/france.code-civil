@@ -34,4 +34,4 @@ d'industrie de Mayotte " ;
 l'aquaculture de Mayotte " ;
 
 12° " chambre des métiers et de l'artisanat " par " chambre de métiers et de
-l'artisanat de Mayotte ".
+l'artisanat de région de Mayotte ".

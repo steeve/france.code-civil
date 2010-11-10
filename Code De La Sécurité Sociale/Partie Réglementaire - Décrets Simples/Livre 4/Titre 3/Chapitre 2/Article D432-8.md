@@ -19,4 +19,4 @@ et comprenant :
 
 5°) supprimé ;
 
-6°) un représentant de la chambre de métiers et de l'artisanat.
+6°) un représentant de la chambre de métiers et de l'artisanat de région .

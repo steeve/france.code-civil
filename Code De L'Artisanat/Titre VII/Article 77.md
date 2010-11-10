@@ -6,8 +6,8 @@ qu'elles recevraient en application de l'article 26 du présent code.
 
 Elles peuvent, d'autre part, voter en vue de ce fonctionnement des décimes
 additionnels spéciaux au principal de la taxe pour frais de chambre de métiers
-et de l'artisanat, acquittée par les artisans ressortissants à la chambre de
-métiers et de l'artisanat.
+et de l'artisanat de région , acquittée par les artisans ressortissants à la
+chambre de métiers et de l'artisanat de région .
 
 Les décimes additionnels spéciaux sont votés et recouvrés suivant la procédure
 prévue à l'article 25 du présent code.

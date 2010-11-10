@@ -10,8 +10,8 @@ alternance, coordonnés avec les autres voies de formation et d'enseignement
 professionnels.
 
 Les chambres de commerce et d'industrie, les chambres de métiers et de
-l'artisanat et les chambres d'agriculture peuvent être associées aux contrats
-d'objectifs.
+l'artisanat de région et les chambres d'agriculture peuvent être associées aux
+contrats d'objectifs.
 
 Le schéma prévisionnel des formations prévu à l'article L. 214-1 et le schéma
 prévisionnel de l'apprentissage prévu à l'article L. 214-13, paragraphe II,

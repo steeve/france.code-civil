@@ -8,4 +8,4 @@ dans la mesure où il n'y est pas dérogé par les dispositions des articles R.
 dispositions ne sont applicables à ces départements qu'après consultation des
 comités de coordination régionaux de l'emploi et de la formation professionnelle
 ou de leur commission de l'apprentissage ainsi que des chambres de métiers et de
-l'artisanat et des chambres de commerce et d'industrie concernées.
+l'artisanat de région et des chambres de commerce et d'industrie concernées.

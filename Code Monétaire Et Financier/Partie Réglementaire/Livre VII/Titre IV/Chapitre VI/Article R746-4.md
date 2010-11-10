@@ -42,6 +42,7 @@ c) le président de la chambre de commerce et d'industrie ou son représentant ;
 
 d) le président de la chambre d'agriculture ou son représentant ;
 
-e) le président de la chambre de métiers et de l'artisanat ou son représentant ;
+e) le président de la chambre de métiers et de l'artisanat de région ou son
+représentant ;
 
 f) un représentant désigné par le Conseil économique et social ou son suppléant.

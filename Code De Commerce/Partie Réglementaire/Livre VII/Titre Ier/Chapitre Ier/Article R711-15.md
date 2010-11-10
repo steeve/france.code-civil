@@ -6,7 +6,7 @@ frappés d'aucune des incapacités mentionnées à l'article L. 713-3.
 
 Nul ne peut être simultanément membre du bureau d'une chambre de commerce et
 d'industrie territoriale et membre du bureau d'une chambre de métiers et de
-l'artisanat. En cas de cumul, l'intéressé fait connaître au préfet, dans les dix
-jours qui suivent la survenance du cumul, celle des deux fonctions qu'il choisit
-d'exercer.A défaut, il est considéré comme ayant choisi la dernière fonction à
-laquelle il a été élu.
+l'artisanat de région . En cas de cumul, l'intéressé fait connaître au préfet,
+dans les dix jours qui suivent la survenance du cumul, celle des deux fonctions
+qu'il choisit d'exercer.A défaut, il est considéré comme ayant choisi la
+dernière fonction à laquelle il a été élu.

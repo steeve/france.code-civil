@@ -5,7 +5,7 @@ comité départemental de l'emploi prévue à l'article L. 237-2 (1) du présent
 est fixée par les dispositions de l'article D. 910-20 du code du travail
 ci-après reproduites :
 
-" Art. D. 910-20. - Il est institué une section spécialisée prévue au deuxième
+" Art. D. 910-20.-Il est institué une section spécialisée prévue au deuxième
 alinéa de l'article L. 237-2 du code de l'éducation.
 
 " La section spécialisée exerce, au nom du comité de coordination régional de
@@ -33,6 +33,6 @@ représentatives de la région.
 
 " La représentation des employeurs est complétée, selon la nature de l'activité
 de l'établissement dont relèvent les personnels en cause, par un représentant de
-la ou des chambres de métiers et de l'artisanat ou par un représentant de la ou
-des chambres de commerce et d'industrie ou par un représentant de la ou des
-chambres d'agriculture. "
+la ou des chambres de métiers et de l'artisanat de région ou par un représentant
+de la ou des chambres de commerce et d'industrie ou par un représentant de la ou
+des chambres d'agriculture. "

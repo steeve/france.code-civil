@@ -327,8 +327,8 @@ représentant ;
 -le président de l'Assemblée des chambres françaises de commerce et d'industrie
 (ACFCI) ou son représentant ;
 
--le président de l'Assemblée permanente des chambres de métiers (APCM) ou son
-représentant ;
+-le président de l'Assemblée permanente des chambres de métiers et de
+l'artisanat de région (APCM) ou son représentant ;
 
 -le président de l'Union des chambres de commerce et établissements
 gestionnaires d'aéroports (UCCEGA) ;

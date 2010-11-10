@@ -12,8 +12,8 @@ d'instance du ressort des cours d'appel de Colmar et Metz spécialement chargés
 de la tenue du registre du commerce en ce qui concerne toute personne soumise à
 immatriculation au registre du commerce et des sociétés ;
 
-2° Les chambres de métiers et de l'artisanat en ce qui concerne toute personne
-soumise à inscription au répertoire des métiers ;
+2° Les chambres de métiers et de l'artisanat de région en ce qui concerne toute
+personne soumise à inscription au répertoire des métiers ;
 
 3° Les unions de recouvrement des cotisations de sécurité sociale et
 d'allocations familiales, les caisses régionales d'assurance maladie et tout

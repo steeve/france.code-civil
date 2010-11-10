@@ -30,10 +30,10 @@ République française, nommés sur proposition des organismes professionnels, e
 six membres représentant les personnes assujetties à l'obligation d'assurance
 nommés sur proposition des organisations professionnelles à raison de un par
 l'assemblée permanente des présidents de chambres d'agriculture, un par
-l'assemblée permanente des présidents de chambres de métiers et de l'artisanat,
-un par les organismes professionnels les plus représentatifs des transports
-publics routiers de voyageurs ou de marchandises et trois par le collège des
-consommateurs du Conseil national de la consommation ;
+l'assemblée permanente des présidents de chambres de métiers et de l'artisanat
+de région, un par les organismes professionnels les plus représentatifs des
+transports publics routiers de voyageurs ou de marchandises et trois par le
+collège des consommateurs du Conseil national de la consommation ;
 
 3° Lorsqu'il statue en matière d'assurance des engins de remontée mécanique et
 d'assurance des travaux de construction en vertu des articles L. 220-5 et L.

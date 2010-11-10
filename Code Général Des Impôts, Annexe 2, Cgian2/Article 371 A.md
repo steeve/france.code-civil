@@ -4,7 +4,7 @@ Pour bénéficier de l'agrément prévu par l'article 1649 quater C du code gén
 des impôts, les centres de gestion doivent avoir la forme d'une association
 légalement constituée dont les membres fondateurs sont soit des experts
 comptables ou des sociétés membres de l'ordre, soit des chambres de commerce et
-d'industrie, des chambres de métiers et de l'artisanat ou des chambres
+d'industrie, des chambres de métiers et de l'artisanat de région ou des chambres
 d'agriculture, soit des organisations professionnelles légalement constituées
 d'industriels, de commerçants, d'artisans ou d'agriculteurs.
 

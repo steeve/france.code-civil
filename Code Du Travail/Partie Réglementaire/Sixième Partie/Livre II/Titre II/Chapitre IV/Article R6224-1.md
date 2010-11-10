@@ -5,9 +5,9 @@ les cinq jours ouvrables qui suivent celui-ci, l'employeur transmet les
 exemplaires du contrat complet accompagné du visa du directeur du centre de
 formation d'apprentis attestant l'inscription de l'apprenti :
 
-1° A la chambre de métiers et de l'artisanat, lorsque l'employeur est inscrit au
-répertoire des métiers, y compris dans le cas où il est également immatriculé au
-registre du commerce et des sociétés ;
+1° A la chambre de métiers et de l'artisanat de région , lorsque l'employeur est
+inscrit au répertoire des métiers, y compris dans le cas où il est également
+immatriculé au registre du commerce et des sociétés ;
 
 2° A la chambre d'agriculture, lorsqu'il emploie un apprenti mentionné au 7° de
 l'article L. 722-20 du code rural et de la pêche maritime, sauf pour une

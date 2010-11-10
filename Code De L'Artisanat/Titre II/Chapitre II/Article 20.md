@@ -1,24 +1,24 @@
 Article 20
 ----
-Les chambres de métiers et de l'artisanat se réunissent en assemblée générale au
-moins deux fois par an sur convocation du président de la chambre ou, à défaut,
-du préfet. Toutefois, sur proposition du bureau ou sur demande d'un tiers des
-membres, elles sont convoquées pour une assemblée générale extraordinaire par le
-président ou, en cas de refus de celui-ci, par le préfet.
+Les chambres de métiers et de l'artisanat de région se réunissent en assemblée
+générale au moins deux fois par an sur convocation du président de la chambre
+ou, à défaut, de l'autorité de tutelle. Toutefois, sur proposition du bureau ou
+sur demande d'un tiers des membres, elles sont convoquées pour une assemblée
+générale extraordinaire par le président ou, en cas de refus de celui-ci, par
+l'autorité de tutelle.
 
 Les membres de l'assemblée générale sont informés au moins huit jours avant la
 date de la réunion. La convocation, adressée au domicile des intéressés, indique
 l'ordre du jour de la séance.
 
 Participent aux séances de l'assemblée générale de la chambre de métiers et de
-l'artisanat avec voix consultative :
+l'artisanat de région avec voix consultative :
 
-Les ministres chargés de l'artisanat, de l'éducation nationale, du travail, de
-l'emploi, de la formation professionnelle et le ministre chargé de l'outre-mer,
-pour les chambres de métiers et de l'artisanat d'outre-mer ;
+Les ministres chargés de l'artisanat et le ministre chargé de l'outre-mer, pour
+les chambres de métiers et de l'artisanat de région d'outre-mer ;
 
-Le préfet, lequel se fait assister de fonctionnaires appartenant aux
-administrations compétentes.
+L'autorité de tutelle, laquelle se fait assister de fonctionnaires appartenant
+aux administrations compétentes.
 
 L'assemblée générale ne peut délibérer que si le quorum des membres présents
 constaté en début de séance dépasse la moitié du nombre des membres en exercice.
@@ -38,5 +38,5 @@ conservatoires et urgents. La chambre ne peut modifier le règlement intérieur 
 prendre aucune décision concernant le personnel pendant cette période.
 
 Les membres qui se sont abstenus de se rendre à deux assemblées générales
-successives sans motif légitime sont déclarés démissionnaires par le préfet,
-après délibération de l'assemblée générale de la chambre.
+successives sans motif légitime sont déclarés démissionnaires par l'autorité de
+tutelle, après délibération de l'assemblée générale de la chambre.

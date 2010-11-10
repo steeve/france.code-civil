@@ -18,7 +18,7 @@ ou, à défaut de chambre de commerce au chef-lieu, le président d'une chambre 
 commerce désignée par le préfet ;
 
 Soit, lorsque le demandeur est un artisan, le président de la chambre de métiers
-et de l'artisanat ;
+et de l'artisanat de région ;
 
 En cas d'empêchement, le président de la chambre compétente peut se faire
 représenter par un membre de ladite chambre ;
@@ -40,4 +40,4 @@ receveur central des finances de Paris ou son représentant. Les représentants 
 la Banque de France et l'administration des contributions directes et du crédit
 populaire sont désignés respectivement par le gouverneur de la Banque de France,
 le directeur général des impôts et l'organe central des caisses d'épargne et des
-banques populaires .
+banques populaires.

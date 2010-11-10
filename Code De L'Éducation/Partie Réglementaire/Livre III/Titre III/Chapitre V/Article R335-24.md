@@ -46,7 +46,7 @@ niveau national ;
 
 4° Trois représentants élus des assemblées permanentes des chambres
 d'agriculture, des chambres françaises de commerce et d'industrie et des
-chambres de métiers et de l'artisanat ;
+chambres de métiers et de l'artisanat de région ;
 
 5° Trois représentants élus des régions, désignés sur proposition de
 l'Association des régions de France.

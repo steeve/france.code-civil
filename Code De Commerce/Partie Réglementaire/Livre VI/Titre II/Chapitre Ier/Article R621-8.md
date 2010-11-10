@@ -21,10 +21,10 @@ Un avis du jugement est adressé pour insertion au Bulletin officiel des annonce
 civiles et commerciales. Cette insertion contient l'indication du nom du
 débiteur, selon le cas de son siège ou de son adresse professionnelle, de son
 numéro unique d'identification ainsi que, s'il y a lieu, du nom de la ville du
-greffe ou de la chambre de métiers et de l'artisanat où il est immatriculé, de
-l'activité exercée et de la date du jugement qui a ouvert la procédure. Elle
-précise également le nom et l'adresse du mandataire judiciaire et de
-l'administrateur s'il en a été désigné avec, dans ce cas, l'indication des
+greffe ou de la chambre de métiers et de l'artisanat de région où il est
+immatriculé, de l'activité exercée et de la date du jugement qui a ouvert la
+procédure. Elle précise également le nom et l'adresse du mandataire judiciaire
+et de l'administrateur s'il en a été désigné avec, dans ce cas, l'indication des
 pouvoirs qui lui sont conférés. Elle comporte enfin l'avis aux créanciers
 d'avoir à déclarer leurs créances entre les mains du mandataire judiciaire et le
 délai imparti pour cette déclaration.

@@ -13,7 +13,7 @@ tribunaux de commerce, des tribunaux de grande instance statuant commercialement
 et des tribunaux d'instance du ressort de la cour d'appel de Colmar chargés de
 la tenue du registre du commerce et des sociétés, à l'Institut national de la
 propriété industrielle chargé de la tenue du registre national du commerce et
-des sociétés, aux chambres de métiers et de l'artisanat, ainsi qu'aux
+des sociétés, aux chambres de métiers et de l'artisanat de région, ainsi qu'aux
 administrations ou organismes prévus à l'article R. 123-224. Les mêmes
 renseignements sont communiqués aux personnes inscrites, en tant que ces
 renseignements les concernent.

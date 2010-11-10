@@ -5,8 +5,8 @@ officiel des annonces civiles et commerciales. Cette insertion contient
 l'indication du nom du débiteur, de son siège ou, lorsqu'il est une personne
 physique, de l'adresse de son entreprise ou de son activité. Il est également
 mentionné son numéro unique d'identification ainsi que, le cas échéant, le nom
-de la ville où se trouve le greffe ou la chambre de métiers et de l'artisanat où
-il est immatriculé.
+de la ville où se trouve le greffe ou la chambre de métiers et de l'artisanat de
+région où il est immatriculé.
 
 Le même avis est publié dans un journal d'annonces légales du lieu où le
 débiteur a son siège ou, lorsqu'il est une personne physique, l'adresse de son
