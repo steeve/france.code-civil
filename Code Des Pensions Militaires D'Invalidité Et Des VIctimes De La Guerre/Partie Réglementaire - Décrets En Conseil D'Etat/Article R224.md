@@ -267,7 +267,16 @@ période de trente jours consécutifs.
 Les éléments détachés auprès d'une unité reconnue combattante suivent le sort de
 cette unité.
 
-III.-Des arrêtés conjoints des ministres chargés de la défense, du budget et des
+III. - Constituent les actions de feu ou de combat mentionnées aux I et II
+ci-dessus les actions de combat et les actions qui se sont déroulées en
+situation de danger caractérisé au cours d'opérations militaires dont la liste
+est fixée par un arrêté du ministre de la défense.
+
+Lorsque l'action comporte l'exposition au feu ou l'utilisation de la force à
+titre offensif ou défensif, il est compté une action par jour. Dans les autres
+cas, il est attribué une seule action, quelle qu'en soit la durée.
+
+IV.-Des arrêtés conjoints des ministres chargés de la défense, du budget et des
 anciens combattants fixent la liste des opérations ou missions mentionnées au E
 ci-dessus, déterminent les périodes à prendre en compte et définissent les
 bonifications à accorder.
