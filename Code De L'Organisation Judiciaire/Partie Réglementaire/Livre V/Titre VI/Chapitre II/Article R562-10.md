@@ -1,3 +1,4 @@
 Article R562-10
 ----
-Les dispositions de l'article R. 213-8 sont applicables en Nouvelle-Calédonie.
+Les dispositions des articles R. 213-8 et R. 213-9-1 sont applicables en
+Nouvelle-Calédonie.
