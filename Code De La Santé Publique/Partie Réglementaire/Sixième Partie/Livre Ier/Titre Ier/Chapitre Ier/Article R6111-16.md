@@ -8,7 +8,7 @@ d'activité dans lequel le ou les cas sont apparus dans les établissements
 publics ou le médecin responsable du ou des patients dans les autres
 établissements de santé, les syndicats interhospitaliers et les groupements de
 coopération sanitaire et, d'autre part, le praticien de l'équipe opérationnelle
-d'hygiène hospitalière mentionnée à l'article R. 6111-8.
+d'hygiène hospitalière mentionnée à l'article R. 6111-7.
 
 Le praticien de l'équipe opérationnelle d'hygiène hospitalière apprécie si le ou
 les cas dont il a été avisé correspondent aux critères de signalement énoncés à

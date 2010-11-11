@@ -1,42 +1,27 @@
 Article R6111-2
 ----
-L'instance de consultation et de suivi chargée de la lutte contre les infections
-nosocomiales :
+Le représentant légal de l'établissement de santé, après concertation avec le
+président de la commission médicale d'établissement dans les établissements de
+santé publics, ou avec la conférence médicale d'établissement dans les
+établissements de santé privés, arrête l'organisation de la lutte contre les
+événements indésirables associés aux soins. Cette organisation vise :
 
-1° Coordonne l'action des professionnels de l'établissement de santé dans les
-domaines mentionnés à l'article R. 6111-1 ;
+1° A mettre en œuvre des actions de formation des personnels et des actions de
+communication en direction des personnels et des usagers permettant de
+développer la culture de sécurité dans l'établissement ;
 
-2° Prépare, chaque année, avec l'équipe opérationnelle d'hygiène hospitalière le
-programme d'actions de lutte contre les infections nosocomiales ;
+2° A disposer d'une expertise relative à la méthodologie de gestion des risques
+associés aux soins, en particulier l'analyse des événements indésirables ;
 
-3° Elabore le rapport annuel d'activité de la lutte contre les infections
-nosocomiales ; ce rapport d'activité peut être consulté sur place, sur simple
-demande ; il comporte le bilan des activités et un tableau de bord composé
-d'indicateurs ; ce bilan et ce tableau de bord sont transmis annuellement, par
-le représentant légal de l'établissement de santé, à l'agence régionale de santé
-et au centre de coordination de la lutte contre les infections nosocomiales. Le
-bilan et le tableau de bord sont établis selon un modèle défini par arrêté du
-ministre chargé de la santé ;
+3° A permettre à la commission médicale d'établissement ou à la conférence
+médicale d'établissement de disposer des éléments nécessaires pour proposer le
+programme d'actions mentionné aux articles L. 6144-1 et L. 6161-2, assorti
+d'indicateurs de suivi, en vue de lutter contre les événements indésirables
+associés aux soins ;
 
-4° Définit, en relation avec les professionnels de soins, les méthodes et les
-indicateurs adaptés aux activités de l'établissement de santé permettant
-l'analyse et le suivi des risques infectieux liés aux soins ;
+4° A permettre à la commission médicale d'établissement ou à la conférence
+médicale d'établissement de disposer des éléments nécessaires à l'élaboration
+d'un bilan annuel des actions mises en œuvre ;
 
-5° Participe à l'évaluation des pratiques dans les domaines visés à l'article R.
-6111-1 ;
-
-6° Est consultée lors de la programmation de travaux, l'aménagement de locaux ou
-l'acquisition d'équipements susceptibles d'avoir une répercussion sur la
-prévention et la transmission des infections nosocomiales dans l'établissement.
-
-Pour exercer ses missions dans le domaine de la gestion du risque infectieux,
-cette instance s'appuie sur les compétences techniques et l'expertise de
-l'équipe opérationnelle d'hygiène hospitalière.
-
-Dans les établissements publics de santé et les syndicats interhospitaliers,
-cette instance est constituée par la commission mentionnée à l'article L.
-6144-1. Dans les établissements de santé privés ainsi que dans les groupements
-de coopération sanitaire, elle est constituée par un comité de lutte contre les
-infections nosocomiales. Elle se réunit au moins trois fois par an. Elle doit
-disposer des moyens, notamment des informations et données, nécessaires à
-l'exercice de ses missions.
+5° A assurer la cohérence de l'action des personnels qui participent à la lutte
+contre les événements indésirables associés aux soins.
