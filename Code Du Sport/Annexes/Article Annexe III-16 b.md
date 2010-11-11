@@ -26,20 +26,20 @@ Espace de 0 à 6 mètres
 
 Débutants
 
-4
+4 (*)
 
 
-GP
+E1 ou GP
 
 Espace de 0 à 12 mètres
 
 
 PE-1
 
-4
+4 (*)
 
 
-GP
+E2 ou GP
 
 PA-1
 
@@ -50,10 +50,10 @@ Espace de 0 à 20 mètres
 
 PE-2
 
-4
+4 (*)
 
 
-GP
+E2 ou GP
 
 PA-2
 
@@ -64,10 +64,10 @@ Espace de 0 à 40 mètres
 
 PE-3
 
-4
+4 (*)
 
 
-GP
+E3 ou GP
 
 PA-3
 
@@ -78,7 +78,7 @@ Espace de 0 à 60 mètres
 
 PE-4
 
-2
+3 (*)
 
 
 E 4
@@ -86,3 +86,6 @@ E 4
 PA-4
 
 3
+
+(*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au
+minimum titulaire d'une qualification de GP.
