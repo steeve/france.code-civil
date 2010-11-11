@@ -1,17 +1,25 @@
 Article D731-56
 ----
-Pour l'année 2009, le plafond de l'exonération prévue par l'article L. 731-13
-est fixé à : 1. 2 877 € pour les jeunes chefs d'exploitation ou d'entreprise
-agricole bénéficiant d'une exonération de 65 % ;
+Le montant du plafond de l'exonération prévue par l'article L. 731-13 est
+constaté chaque année par arrêté des ministres chargés de l'agriculture, de la
+sécurité sociale et du budget. Il est calculé en pourcentage du plafond annuel
+de la sécurité sociale prévu à l'article D. 242-17 du code de la sécurité
+sociale selon la formule suivante :
 
-2. 2 434 € pour les jeunes chefs d'exploitation ou d'entreprise agricole
-bénéficiant d'une exonération de 55 % ;
+Pe = [T × (40 % PSS)] × Te
 
-3. 1 549 € pour les jeunes chefs d'exploitation ou d'entreprise agricole
-bénéficiant d'une exonération de 35 % ;
+où :
 
-4. 1 106 € pour les jeunes chefs d'exploitation ou d'entreprise agricole
-bénéficiant d'une exonération de 25 % ;
+Pe représente le plafond de l'exonération :
 
-5. 664 € pour les jeunes chefs d'exploitation ou d'entreprise agricole
-bénéficiant d'une exonération de 15 %.
+T représente le taux des cotisations relatives aux prestations familiales, à
+l'assurance maladie, invalidité, maternité et à l'assurance vieillesse ;
+
+PSS représente le plafond annuel de la sécurité sociale ;
+
+Te représente le taux d'exonération de l'année considérée.
+
+Le plafond annuel de la sécurité sociale de référence est celui en vigueur au
+1er janvier de l'année au titre de laquelle les cotisations sont dues.
+
+Le montant de chaque plafond d'exonération est arrondi à l'euro le plus proche.

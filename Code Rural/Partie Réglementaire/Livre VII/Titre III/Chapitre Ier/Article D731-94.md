@@ -13,10 +13,21 @@ deux tiers de la cotisation du chef d'exploitation déterminée en application d
 l'alinéa précédent. Cette proportion est d'un tiers pour les aides familiaux de
 moins de dix-huit ans.
 
-Pour l'année 2009, la cotisation affectée à la couverture des dépenses
+Le montant de la cotisation affectée à la couverture des dépenses
 complémentaires des assurances maladie, invalidité et maternité pour les chefs
-d'exploitation ou d'entreprise agricole exerçant à titre secondaire est fixée à
-41,55 €.
+d'exploitation ou d'entreprise agricole exerçant à titre secondaire est constaté
+chaque année par arrêté des ministres chargés de l'agriculture, de la sécurité
+sociale et du budget.
+
+Le montant de cette cotisation est revalorisé annuellement en fonction de
+l'évolution du SMIC à partir du montant de la cotisation applicable au cours de
+l'année précédente.
+
+La valeur du SMIC en fonction de laquelle le montant de la cotisation est
+revalorisé est celle fixée au 1er janvier de l'année au titre de laquelle les
+cotisations sont dues.
+
+Le montant de cette cotisation est arrondi à l'euro le plus proche.
 
 La cotisation affectée à la couverture des dépenses complémentaires des
 assurances maladie, invalidité et maternité dont sont redevables les chefs
