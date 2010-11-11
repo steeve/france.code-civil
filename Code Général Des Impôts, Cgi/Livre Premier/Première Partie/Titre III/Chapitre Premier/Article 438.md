@@ -2,7 +2,7 @@ Article 438
 ----
 Il est perçu un droit de circulation dont le tarif est fixé, par hectolitre, à :
 
-1° 8, 77 € pour les vins mousseux ;
+1° 8, 78 € pour les vins mousseux ;
 
 2° 3, 55 € :
 
@@ -14,7 +14,7 @@ a bis) pour les vins qui ont un titre alcoométrique acquis excédant 15 p. 100
 vol., mais n'excédant pas 18 p. 100 vol. pour autant qu'ils aient été obtenus
 sans aucun enrichissement et que l'alcool contenu dans le produit fini résulte
 entièrement d'une fermentation. Un décret définit les conditions d'application
-du présent a bis (1) ;
+du présent a bis ;
 
 b) Pour les autres produits fermentés, autres que le vin et la bière, et les
 produits visés au 3°, dont l'alcool contenu dans le produit résulte entièrement
