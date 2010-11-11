@@ -1,15 +1,15 @@
 Article D211-57
 ----
-Le mandat des membres du conseil d'administration est de trois ans,
-renouvelable.
+Les mandats des membres du conseil d'administration et des conseils
+d'orientation sont de trois ans renouvelables.
 
-Lorsqu'un membre du conseil cesse pour quelque cause que ce soit de pouvoir
-exercer son mandat, il est remplacé pour la durée du mandat restant à courir,
-sauf si la vacance survient moins d'un mois avant la date prévue pour le
-renouvellement.
+En cas de vacance du siège d'un membre du conseil d'administration et des
+conseils d'orientation survenant plus de six mois avant l'expiration de son
+mandat, un autre membre est nommé dans les mêmes conditions pour la durée du
+mandat à courir, sauf pour les membres élus qui sont remplacés par un suppléant
+jusqu'à la fin du mandat détenu par le titulaire.
 
-Les fonctions de membre du conseil d'administration sont exercées à titre
-gratuit. Elles ouvrent droit, toutefois, au remboursement des frais de
-déplacement et de séjour dans les conditions prévues le décret n° 2006-781 du 3
-juillet 2006 fixant les conditions et les modalités de règlement des frais
-occasionnés par les déplacements temporaires des personnels civils de l'Etat.
+Les fonctions de membre du conseil d'administration et des conseils
+d'orientation sont exercées à titre gratuit. Elles ouvrent droit, toutefois, au
+remboursement des frais de déplacement et de séjour dans les conditions prévues
+par la réglementation applicable aux personnels civils de l'Etat.
