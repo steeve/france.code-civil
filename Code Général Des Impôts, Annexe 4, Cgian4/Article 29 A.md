@@ -4,74 +4,127 @@ La liste des biens négociés sur un marché à terme international pouvant êtr
 stockés dans un entrepôt fiscal mentionné au d du 2° du I de l'article 277 A du
 code général des impôts est fixée ainsi qu'il suit :
 
-CODE N.C. : DESCRIPTION DES BIENS.
+CODE N.C.
 
-8001 : Etain.
 
-7402 : Cuivre.
+DESCRIPTION DES BIENS
 
-7403 : -
+8001
 
-7405 : -
+Etain.
 
-7408 : -
+7402
 
-7901 : Zinc.
+Cuivre.
 
-7502 : Nickel.
+7403
 
-7601 : Aluminium.
+7405
 
-7801 : Plomb.
+7408
 
-Ex 8112.91 : Indium.
+7901
 
-Ex 8112.99 : -
+Zinc.
 
-1001 à 1005 : Céréales.
+7502
+
+Nickel.
+
+7601
+
+Aluminium.
+
+7801
+
+Plomb.
+
+Ex 8112.92
+
+Indium.
+
+Ex 8112.99
+
+1001 à 1005
+
+Céréales.
 
 1006 : uniquement le riz brut
 
 1007 à 1008
 
-1201 à 1207 : Graines et fruits oléagineux.
+1201 à 1207
 
-0801 : Noix de coco, noix du Brésil et noix de cajou.
+Graines et fruits oléagineux.
 
-0802 : Autres fruits à coques.
+0801
 
-0711.20 : Olives.
+Noix de coco, noix du Brésil et noix de cajou.
 
-1201 à 1207 : Graines et semences (y compris les graines de soya). &lt;R&gt;
-0901.11.00 : Café non torréfié.
+0802
 
-0901.12.00 : -
+Autres fruits à coques.
 
-0902 : Thé.
+0711.20
 
-1801 : Cacao, en fèves et brisures de fèves, brut ou torréfié.
+Olives.
 
-1701.11 : Sucre brut.
+1201 à 1207
 
-1701.12 : -
+Graines et semences (y compris les graines de soya).
 
-4001 : Caoutchouc, sous formes primaires ou en plaques, feuilles ou bandes.
+0901.11.00
 
-4002 : -
+Café non torréfié.
 
-5101 : Laine.
+0901.12.00
 
-Chapitres 28 et 29 : Produits chimiques en vrac.
+0902
 
-7106 : Argent.
+Thé.
 
-7110.11.00 : Platine (palladium, rhodium).
+1801
 
-7110.21.00 : -
+Cacao, en fèves et brisures de fèves, brut ou torréfié.
 
-7110.31.00 : -
+1701.11
 
-0701 : Pommes de terre.
+Sucre brut.
 
-1507 à 1515 : Graisses et huiles végétales et leurs fractions, brutes,
-raffinées, mais non chimiquement modifiées.
+1701.12
+
+4001
+
+Caoutchouc, sous formes primaires ou en plaques, feuilles ou bandes.
+
+4002
+
+5101
+
+Laine.
+
+
+Chapitres 28 et 29
+
+Produits chimiques en vrac.
+
+7106
+
+Argent.
+
+7110.11.00
+
+Platine (palladium, rhodium).
+
+7110.21.00
+
+7110.31.00
+
+0701
+
+Pommes de terre.
+
+1507 à 1515
+
+Graisses et huiles végétales et leurs fractions, brutes, raffinées, mais non
+chimiquement modifiées.
