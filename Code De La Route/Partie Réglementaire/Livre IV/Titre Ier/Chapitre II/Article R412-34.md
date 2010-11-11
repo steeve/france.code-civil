@@ -2,11 +2,13 @@ Article R412-34
 ----
 I. - Lorsqu'une chaussée est bordée d'emplacements réservés aux piétons ou
 normalement praticables par eux, tels que trottoirs ou accotements, les piétons
-sont tenus de les utiliser, à l'exclusion de la chaussée. Les enfants de moins
-de huit ans qui conduisent un cycle peuvent également les utiliser, sauf
-dispositions différentes prises par l'autorité investie du pouvoir de police, à
-la condition de conserver l'allure du pas et de ne pas occasionner de gêne aux
-piétons.
+sont tenus de les utiliser, à l'exclusion de la chaussée. Ces dispositions ne
+s'appliquent pas aux aires piétonnes et aux zones de rencontre.
+
+I bis . - Les enfants de moins de huit ans qui conduisent un cycle peuvent
+utiliser les trottoirs ou accotements, sauf dispositions contraires prises par
+l'autorité investie du pouvoir de police, à la condition de conserver l'allure
+du pas et de ne pas occasionner de gêne aux piétons.
 
 II. - Sont assimilés aux piétons :
 

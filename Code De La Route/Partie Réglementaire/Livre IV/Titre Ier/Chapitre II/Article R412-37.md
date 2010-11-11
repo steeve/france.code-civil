@@ -9,3 +9,6 @@ passages prévus à leur intention.
 Aux intersections à proximité desquelles n'existe pas de passage prévu à leur
 intention, les piétons doivent emprunter la partie de la chaussée en
 prolongement du trottoir.
+
+Les dispositions du présent article ne s'appliquent pas aux aires piétonnes et
+aux zones de rencontre.

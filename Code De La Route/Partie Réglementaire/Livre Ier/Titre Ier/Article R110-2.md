@@ -33,10 +33,10 @@ du réseau routier ;
 -carrefour à sens giratoire : place ou carrefour comportant un terre-plein
 central matériellement infranchissable, ceinturé par une chaussée mise à sens
 unique par la droite sur laquelle débouchent différentes routes et annoncé par
-une signalisation spécifique. Toutefois, en agglomération exclusivement, les
-carrefours à sens giratoire peuvent comporter un terre-plein central
-matériellement franchissable, qui peut être chevauché par les conducteurs
-lorsque l'encombrement de leur véhicule rend cette manoeuvre indispensable ;
+une signalisation spécifique. Toutefois, , les carrefours à sens giratoire
+peuvent comporter un terre-plein central matériellement franchissable, qui peut
+être chevauché par les conducteurs lorsque l'encombrement de leur véhicule rend
+cette manoeuvre indispensable ;
 
 -chaussée : partie (s) de la route normalement utilisée (s) pour la circulation
 des véhicules ;
@@ -60,7 +60,7 @@ motorisés, des piétons et des cavaliers ;
 constituant une zone affectée à la circulation de tous les usagers. Dans cette
 zone, les piétons sont autorisés à circuler sur la chaussée sans y stationner et
 bénéficient de la priorité sur les véhicules. La vitesse des véhicules y est
-limitée à 20 km / h. Toutes les chaussées sont à double sens pour les cyclistes,
+limitée à 20 km/ h. Toutes les chaussées sont à double sens pour les cyclistes,
 sauf dispositions différentes prises par l'autorité investie du pouvoir de
 police. Les entrées et sorties de cette zone sont annoncées par une
 signalisation et l'ensemble de la zone est aménagé de façon cohérente avec la
@@ -68,7 +68,7 @@ limitation de vitesse applicable.
 
 -zone 30 : section ou ensemble de sections de voies constituant une zone
 affectée à la circulation de tous les usagers. Dans cette zone, la vitesse des
-véhicules est limitée à 30 km / h. Toutes les chaussées sont à double sens pour
+véhicules est limitée à 30 km/ h. Toutes les chaussées sont à double sens pour
 les cyclistes, sauf dispositions différentes prises par l'autorité investie du
 pouvoir de police. Les entrées et sorties de cette zone sont annoncées par une
 signalisation et l'ensemble de la zone est aménagé de façon cohérente avec la

@@ -15,7 +15,11 @@ justice et du ministre de l'intérieur ;
 
 3° L'original ou la copie du certificat constatant l'achèvement d'une formation
 de conducteur de transport par route quand celui-ci est exigé en application de
-l'article R. 221-6.
+l'article R. 221-6. ;
+
+4° Dans les cas mentionnés aux II et III de l'article R. 221-8, une attestation
+de la formation pratique ou le document attestant d'une expérience de la
+conduite conforme aux conditions prévues par ces dispositions.
 
 II.-En cas de perte ou de vol du titre justifiant de l'autorisation de conduire
 le récépissé de déclaration de perte ou de vol tient lieu de titre pendant un

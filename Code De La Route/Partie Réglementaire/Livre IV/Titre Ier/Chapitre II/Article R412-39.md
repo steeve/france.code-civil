@@ -9,3 +9,6 @@ permettant la traversée directe.
 
 Ils doivent contourner la place ou l'intersection en traversant autant de
 chaussées qu'il est nécessaire.
+
+Les dispositions du présent article ne s'appliquent pas aux aires piétonnes et
+aux zones de rencontre.

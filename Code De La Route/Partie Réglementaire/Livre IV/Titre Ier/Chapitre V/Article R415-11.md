@@ -1,8 +1,9 @@
 Article R415-11
 ----
-Tout conducteur est tenu de céder le passage aux piétons régulièrement engagés
-dans la traversée d'une chaussée et à ceux circulant dans une zone de rencontre
-ou une aire piétonne.
+Tout conducteur est tenu de céder le passage, au besoin en s'arrêtant, au piéton
+s'engageant régulièrement dans la traversée d'une chaussée ou manifestant
+clairement l'intention de le faire ou circulant dans une aire piétonne ou une
+zone de rencontre.
 
 Le fait, pour tout conducteur, de ne pas respecter les règles de priorité fixées
 au présent article est puni de l'amende prévue pour les contraventions de la
