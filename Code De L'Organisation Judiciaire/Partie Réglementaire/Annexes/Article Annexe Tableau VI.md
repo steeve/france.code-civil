@@ -10,48 +10,43 @@ SIÈGE
 
 RESSORT
 
-
-Bordeaux
+Bordeaux.
 
 Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse.
 
-
-Lille
+Lille.
 
 Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen.
 
-
-Lyon
+Lyon.
 
 Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom.
 
-
-Marseille
+Marseille.
 
 Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes.
 
-
-Nanterre
+Nanterre.
 
 Ressort de la cour d'appel de Versailles.
 
+Nancy.
 
-Nancy
+Ressort des cours d'appel de Besançon, Dijon, Metz et Nancy.
 
-Ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy.
-
-
-Paris
+Paris.
 
 Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete,
 Saint-Denis et des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre.
 
-
-Rennes
+Rennes.
 
 Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes.
 
+Strasbourg.
 
-Fort-de-France
+Ressort de la cour d'appel de Colmar.
 
-Ressort des cours d'appel de Basse-terre et Fort-de-France.
+Fort-de-France.
+
+Ressort des cours d'appel de Basse-Terre et Fort-de-France.
