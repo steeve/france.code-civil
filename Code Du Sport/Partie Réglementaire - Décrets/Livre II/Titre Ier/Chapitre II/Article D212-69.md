@@ -1,9 +1,8 @@
 Article D212-69
 ----
-Le contrôle de l'encadrement et de l'enseignement des sports de montagne est
-assuré par les directeurs régionaux et départementaux de la jeunesse, des sports
-et de la vie associative, assistés à cet effet de contrôleurs du ski et de
-l'alpinisme nommés par le ministre chargé des sports.
+Ces diplômes sont délivrés à l'issue d'une formation comprenant :
 
-Les conditions de nomination des contrôleurs et les modalités de ce contrôle
-sont fixées par arrêté du ministre chargé des sports.
+1° Une formation générale commune aux métiers d'enseignement, d'encadrement et
+d'entraînement des sports de montagne ;
+
+2° Une formation spécifique à chacun d'entre eux.

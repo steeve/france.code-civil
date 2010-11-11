@@ -1,12 +1,19 @@
 Article D212-67
 ----
-Le brevet d'Etat d'alpinisme et le brevet d'Etat de ski pour l'encadrement et
-l'enseignement des sports de montagne constituent les diplômes prévus à
-l'article L. 212-2 conférant à leur titulaire le droit d'exercer contre
-rémunération dans la spécialité correspondante.
+Les diplômes permettant l'enseignement, l'encadrement et l'entraînement contre
+rémunération des sports de montagne, chacun dans la spécialité correspondante,
+sont les suivants :
 
-Ils sanctionnent :
+1° Le diplôme d'Etat de ski-moniteur national de ski alpin ;
 
--une formation générale commune aux métiers sportifs de la montagne ;
+2° Le diplôme d'Etat de ski-moniteur national de ski alpin spécialisé en
+entraînement ;
 
--une formation spécifique à chacun d'eux pouvant comporter des options.
+3° Le diplôme d'Etat de ski-moniteur national de ski nordique de fond ;
+
+4° Le diplôme d'Etat de ski-moniteur national de ski nordique de fond spécialisé
+en entraînement ;
+
+5° Le diplôme d'Etat d'alpinisme-guide de haute montagne ;
+
+6° Le diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne.
