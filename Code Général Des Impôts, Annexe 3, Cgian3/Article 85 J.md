@@ -1,6 +1,6 @@
 Article 85 J
 ----
-La suspension du paiement de la taxe sur la valeur ajoutée prévue aux 5°, 6° et
+La suspension du paiement de la taxe sur la valeur ajoutée prévue aux 5°,6° et
 7° du I de l'article 277 A du code général des impôts s'applique aux prestations
 de services ci-après :
 
@@ -26,8 +26,8 @@ vigueur et portant sur des marchandises soumises à l'un des régimes douaniers
 communautaires mentionnés aux 1° et 7° du I de l'article 277 A du code précité ;
 
 8° Manipulations et ouvraisons identiques à celles mentionnées au 7° portant sur
-des biens placés en entrepôt national d'importation ou d'exportation ou sous
-perfectionnement actif national ;
+des biens placés sous le régime du régime fiscal suspensif prévu au a du 2° du I
+de l'article 277 A du code général des impôts ;
 
 9° Manipulations usuelles destinées à assurer la conservation des marchandises
 placées en entrepôt de stockage de biens négociés sur un marché à terme

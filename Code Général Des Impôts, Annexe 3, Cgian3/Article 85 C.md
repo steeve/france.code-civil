@@ -1,12 +1,15 @@
 Article 85 C
 ----
-La fermeture de l'entrepôt fiscal peut être prononcée à la demande du titulaire
-de l'autorisation d'ouverture, formulée deux mois au moins avant la date
-d'effet.
+La fermeture d'un régime fiscal suspensif mentionné au 2° du I de l'article 277
+A du code général des impôts peut être prononcée à la demande du titulaire de
+l'autorisation d'ouverture, formulée deux mois au moins avant la date d'effet.
 
-Elle peut également être prononcée à l'initiative de l'administration, en cas
-d'inactivité de l'entrepôt durant un an. Dans ce cas, elle prend effet le
-premier jour du mois qui suit celui au cours duquel elle est intervenue.
+Elle peut également être prononcée sur l'initiative de l'administration :
 
-La décision de fermeture de l'entrepôt fiscal est prise dans les mêmes
-conditions que l'autorisation d'ouverture.
+1. En cas d'inactivité du régime durant un an. La fermeture du régime prend
+effet le premier jour du mois qui suit celui au cours duquel la décision de
+l'administration est intervenue.
+
+2. Lorsque les règles de fonctionnement du régime ou l'exécution des formalités
+et obligations liées audit régime ne sont pas respectées. La fermeture prend
+effet dès la notification des constatations effectuées.
