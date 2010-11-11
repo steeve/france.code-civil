@@ -1,46 +1,59 @@
 Article R821-4
 ----
-Sous réserve des dispositions des alinéas suivants, le revenu dont il est tenu
-compte pour l'application de la condition de ressources prévue à l'article L.
-821-3 est évalué selon les modalités fixées aux articles R. 532-3 à R. 532-7
-après application d'un coefficient de 0, 8 aux revenus déterminés par les règles
-de l'article R. 532-3 relevant des catégories de revenus suivantes :
+Lorsque le demandeur ou le bénéficiaire de l'allocation aux adultes handicapés
+ne perçoit pas de revenu d'activité professionnelle ou est admis dans un
+établissement ou un service d'aide par le travail mentionnés à l'article L.
+344-2 du code de l'action sociale et des familles, la condition de ressources
+prévue à l'article L. 821-3 s'applique conformément aux dispositions du présent
+article.
 
-1° Les revenus d'activités commerciales, artisanales, libérales ou agricoles ;
+II.-La condition de ressources s'apprécie au regard des revenus perçus au cours
+de l'année civile de référence mentionnée à l'article R. 532-3.
 
-2° Les traitements et salaires, les pensions, les rentes viagères à titre
-gratuit et les rémunérations des gérants et associés de sociétés visées à
+Les revenus pris en compte sont ceux définis aux articles R. 532-3 à R. 532-7,
+sous réserve de l'application des articles R. 821-4-3, R. 821-4-4, D. 821-9 et
+D. 821-10, ainsi que des dispositions suivantes :
+
+1° Ne sont pas pris en compte les revenus appartenant aux catégories suivantes :
+
+a) Les rentes viagères mentionnées aux 1° et 2° du I de l'article 199 septies du
+code général des impôts lorsqu'elles ont été constituées en faveur d'une
+personne handicapée ou, dans la limite d'un montant fixé par décret,
+lorsqu'elles ont été constituées par une personne handicapée pour elle-même ;
+
+b) Le salaire perçu en application du deuxième alinéa de l'article L. 245-12 du
+code de l'action sociale et des familles par le conjoint, concubin ou partenaire
+lié par un pacte civil de solidarité ;
+
+c) La prime d'intéressement à l'excédent d'exploitation versée à une personne
+handicapée admise dans un établissement ou service d'aide par le travail
+mentionnée à l'article R. 243-6 du code de l'action sociale et des familles ;
+
+2° Il est appliqué un abattement de 20 % aux pensions et rentes viagères à titre
+gratuit perçues par l'allocataire ainsi qu'aux revenus perçus par le conjoint,
+concubin ou partenaire lié par un pacte civil de solidarité qui n'est pas
+allocataire de l'allocation aux adultes handicapés, lorsque ces revenus relèvent
+des catégories suivantes :
+
+a) Les revenus d'activités commerciales, artisanales, libérales ou agricoles ;
+
+b) Les traitements et les salaires, les pensions, les rentes viagères à titre
+gratuit et les rémunérations des gérants et associés de sociétés mentionnées à
 l'article 62 du code général des impôts ;
 
-3° Les bénéfices agricoles soumis à l'évaluation forfaitaire prévue aux articles
-64 et suivants du code général des impôts.
+c) Les bénéfices agricoles soumis à l'évaluation forfaitaire prévue aux articles
+64 et suivants du code général des impôts ;
 
-N'entrent pas en compte pour l'attribution de cette allocation les rentes
-viagères mentionnées aux 1° et 2° du I de l'article 199 septies du code général
-des impôts lorsqu'elles ont été constituées en faveur d'une personne handicapée
-ou, dans la limite d'un montant fixé par décret, lorsqu'elles ont été
-constituées par une personne handicapée pour elle-même. Il n'est également pas
-tenu compte dans ce calcul de la prime de retour à l'emploi.
+d) La rémunération garantie mentionnée à l'article L. 243-4 du code de l'action
+sociale et des familles ;
 
-En cas de suspension de l'un de ces contrats, et lorsque le salarié ne remplit
-pas la condition requise pour une prise en charge par un régime de sécurité
-sociale et que le maintien de son salaire n'est pas assuré, il perçoit son
-allocation augmentée d'un montant journalier égal à un trentième du montant
-mensuel de l'allocation de revenu minimum d'insertion garantie à une personne
-isolée.
+3° L'abattement prévu à l'article 157 bis du code général des impôts en faveur
+des personnes âgées ou invalides n'est pas applicable aux revenus d'activité
+professionnelle perçus par l'allocataire.
 
-Dans le cas où le bénéficiaire d'un contrat insertion-revenu minimum d'activité
-ou d'un contrat d'avenir exerce une autre activité, il est fait application,
-pour les revenus procurés par cette activité, des dispositions du premier alinéa
-du présent article et du deuxième alinéa de l'article L. 821-3 du présent code.
-
-En cas de rupture d'un contrat insertion-revenu minimum d'activité pour un motif
-autre que celui prévu au premier alinéa de l'article L. 322-4-15-5 du code du
-travail, ou en cas de rupture d'un contrat d'avenir pour un motif autre que
-celui mentionné au IV de l'article L. 322-4-12 du même code, ou lorsque le
-contrat n'est pas renouvelé et que son bénéficiaire n'exerce pas d'activité
-professionnelle rémunérée, la diminution du montant de l'aide à l'employeur
-définie au troisième alinéa du I de l'article L. 322-4-15-6 pour le contrat
-insertion-revenu minimum d'activité et au premier alinéa du II de l'article L.
-322-4-12 pour le contrat d'avenir n'est plus opérée à compter du premier jour du
-mois au cours duquel intervient la rupture ou la fin du contrat.
+III.-Les ressources déterminées conformément au II sont prises en compte pour
+déterminer le droit à l'allocation servie au titre de chaque période de douze
+mois commençant le 1er janvier, sous réserve de l'application des articles R.
+532-4 à R. 532-7, R. 821-4-3, R. 821-4-4, D. 821-9 et D. 821-10, ainsi que, en
+cas de modification de la situation familiale en cours de période de paiement,
+des dispositions prévues à l'article L. 552-1.
