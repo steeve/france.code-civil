@@ -9,14 +9,21 @@ pour les quatre années à venir. Ces prévisions sont établies de manière
 cohérente avec les perspectives d'évolution des recettes, des dépenses et du
 solde de l'ensemble des administrations publiques présentées dans le rapport
 joint au projet de loi de finances de l'année en application de l'article 50 de
-la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances.
+la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances. Le
+rapport précise les hypothèses sur lesquelles repose la prévision de l'objectif
+national de dépenses d'assurance maladie pour les quatre années à venir. Ces
+hypothèses prennent en compte les perspectives d'évolution des dépenses et les
+mesures nouvelles envisagées.
 
 II.-Le projet de loi de financement de la sécurité sociale de l'année est
 accompagné d'un rapport décrivant les mesures prévues pour l'affectation des
 excédents ou la couverture des déficits constatés à l'occasion de l'approbation
 des tableaux d'équilibre relatifs au dernier exercice clos dans la partie de la
 loi de financement de l'année comprenant les dispositions relatives au dernier
-exercice clos.
+exercice clos. Ce rapport présente également un tableau, établi au 31 décembre
+du dernier exercice clos, retraçant la situation patrimoniale des régimes
+obligatoires de base et des organismes concourant à leur financement, à
+l'amortissement de leur dette ou à la mise en réserve de recettes à leur profit.
 
 III.-Sont jointes au projet de loi de financement de la sécurité sociale de
 l'année des annexes :
@@ -84,15 +91,25 @@ national de dépenses d'assurance maladie ou de la composition des
 sous-objectifs, en indiquant l'évolution à structure constante de l'objectif ou
 des sous-objectifs concernés par les modifications de périmètre. Elle précise
 les modalités de passage des objectifs de dépenses des différentes branches à
-l'objectif national de dépenses d'assurance maladie. Cette annexe indique
-également l'évolution de la dépense nationale de santé ainsi que les modes de
-prise en charge de cette dépense. Elle rappelle, le cas échéant, l'alerte émise
-par une autorité indépendante désignée par la loi ;
+l'objectif national de dépenses d'assurance maladie. Elle fournit des éléments
+précis sur l'exécution de l'objectif national au cours de l'exercice clos et de
+l'exercice en cours ainsi que sur les modalités de construction de l'objectif
+pour l'année à venir en détaillant, le cas échéant, les mesures correctrices
+envisagées. Cette annexe indique également l'évolution de la dépense nationale
+de santé ainsi que les modes de prise en charge de cette dépense. Elle rappelle,
+le cas échéant, l'alerte émise par une autorité indépendante désignée par la
+loi. Elle fournit également le montant des objectifs d'engagement inscrits pour
+l'année à venir pour les établissements et services médico-sociaux relevant de
+l'objectif de dépenses. Elle présente en outre le taux prévisionnel de
+consommation pluriannuel se rattachant aux objectifs d'engagement inscrits pour
+l'année à venir, ainsi que le bilan des taux de consommation des objectifs
+d'engagement arrivés à échéance au cours des deux derniers exercices clos et de
+l'exercice en cours ;
 
 8° Présentant, pour le dernier exercice clos, le compte définitif et, pour
-l'année en cours et l'année suivante, les comptes prévisionnels, justifiant
-l'évolution des recettes et des dépenses et détaillant l'impact, au titre de
-l'année à venir et, le cas échéant, des années ultérieures, des mesures
+l'année en cours et les trois années suivantes, les comptes prévisionnels,
+justifiant l'évolution des recettes et des dépenses et détaillant l'impact, au
+titre de l'année à venir et, le cas échéant, des années ultérieures, des mesures
 contenues dans le projet de loi de financement de l'année sur les comptes :
 
 a) Des organismes concourant au financement des régimes obligatoires de base, à
@@ -106,6 +123,14 @@ relevant d'un régime obligatoire de base ;
 
 d) Des organismes qui financent et gèrent des dépenses relevant de l'objectif
 national de dépenses d'assurance maladie ;
+
+Lorsqu'un projet de loi de financement de la sécurité sociale prévoit le
+transfert d'actifs à la Caisse d'amortissement de la dette sociale ou
+l'augmentation de ses ressources par la réalisation d'actifs publics, cette
+annexe fournit les éléments permettant d'apprécier l'intérêt financier de cette
+opération. Elle indique notamment la rentabilité passée et la rentabilité
+prévisionnelle des actifs concernés et le coût de la dette amortie par la Caisse
+d'amortissement de la dette sociale ;
 
 9° Justifiant, d'une part, les besoins de trésorerie des régimes et organismes
 habilités par le projet de loi de financement de l'année à recourir à des

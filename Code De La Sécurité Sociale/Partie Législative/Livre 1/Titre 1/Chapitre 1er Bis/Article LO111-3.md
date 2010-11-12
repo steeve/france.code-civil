@@ -1,19 +1,19 @@
 Article LO111-3
 ----
-I.-La loi de financement de la sécurité sociale de l'année comprend quatre
+I. - La loi de financement de la sécurité sociale de l'année comprend quatre
 parties :
 
--une partie comprenant les dispositions relatives au dernier exercice clos ;
+- une partie comprenant les dispositions relatives au dernier exercice clos ;
 
--une partie comprenant les dispositions relatives à l'année en cours ;
+- une partie comprenant les dispositions relatives à l'année en cours ;
 
--une partie comprenant les dispositions relatives aux recettes et à l'équilibre
+- une partie comprenant les dispositions relatives aux recettes et à l'équilibre
 général pour l'année à venir ;
 
--une partie comprenant les dispositions relatives aux dépenses pour l'année à
+- une partie comprenant les dispositions relatives aux dépenses pour l'année à
 venir.
 
-A.-Dans sa partie comprenant les dispositions relatives au dernier exercice
+A. - Dans sa partie comprenant les dispositions relatives au dernier exercice
 clos, la loi de financement de la sécurité sociale :
 
 1° Approuve les tableaux d'équilibre par branche du dernier exercice clos des
@@ -34,7 +34,7 @@ excédents ou de couverture des déficits du dernier exercice clos, tels que ces
 excédents ou ces déficits éventuels sont constatés dans les tableaux d'équilibre
 prévus au 1°.
 
-B.-Dans sa partie comprenant les dispositions relatives à l'année en cours, la
+B. - Dans sa partie comprenant les dispositions relatives à l'année en cours, la
 loi de financement de la sécurité sociale :
 
 1° Rectifie les prévisions de recettes et les tableaux d'équilibre des régimes
@@ -50,7 +50,7 @@ loi de financement de la sécurité sociale ;
 dette des régimes obligatoires de base et les prévisions de recettes affectées
 aux fins de mise en réserve à leur profit.
 
-C.-Dans sa partie comprenant les dispositions relatives aux recettes et à
+C. - Dans sa partie comprenant les dispositions relatives aux recettes et à
 l'équilibre général pour l'année à venir, la loi de financement de la sécurité
 sociale :
 
@@ -86,7 +86,7 @@ concourant à leur financement habilités à recourir à des ressources non
 permanentes, ainsi que les limites dans lesquelles leurs besoins de trésorerie
 peuvent être couverts par de telles ressources.
 
-D.-Dans sa partie comprenant les dispositions relatives aux dépenses pour
+D. - Dans sa partie comprenant les dispositions relatives aux dépenses pour
 l'année à venir, la loi de financement de la sécurité sociale :
 
 1° Fixe les charges prévisionnelles des organismes concourant au financement des
@@ -107,7 +107,7 @@ sociale sont consultées sur la liste des sous-objectifs et la définition des
 composantes de ces sous-objectifs. Le nombre de sous-objectifs ne peut être
 inférieur à cinq.
 
-II.-La loi de financement de l'année et les lois de financement rectificatives
+II. - La loi de financement de l'année et les lois de financement rectificatives
 ont le caractère de lois de financement de la sécurité sociale.
 
 La loi de financement rectificative comprend deux parties distinctes. Sa
@@ -119,7 +119,7 @@ comprenant les dispositions relatives aux dépenses.
 Seules des lois de financement peuvent modifier les dispositions prises en vertu
 du I.
 
-III.-L'affectation, totale ou partielle, d'une recette exclusive des régimes
+III. - L'affectation, totale ou partielle, d'une recette exclusive des régimes
 obligatoires de base de sécurité sociale, des organismes concourant à leur
 financement, à l'amortissement de leur dette ou à la mise en réserve de recettes
 à leur profit ou des organismes finançant et gérant des dépenses relevant de
@@ -130,7 +130,7 @@ l'article 36 de la loi organique n° 2001-692 du 1er août 2001 relative aux loi
 de finances, à l'affectation d'une ressource établie au profit de ces mêmes
 régimes et organismes à toute autre personne morale que l'Etat.
 
-IV.-Seules des lois de financement peuvent créer ou modifier des mesures de
+IV. - Seules des lois de financement peuvent créer ou modifier des mesures de
 réduction ou d'exonération de cotisations de sécurité sociale non compensées aux
 régimes obligatoires de base.
 
@@ -149,7 +149,7 @@ et contributions ;
 vigueur de la loi organique n° 2005-881 du 2 août 2005 relative aux lois de
 financement de la sécurité sociale.
 
-V.-A.-Peuvent figurer dans la partie de la loi de financement de la sécurité
+V. - A. - Peuvent figurer dans la partie de la loi de financement de la sécurité
 sociale de l'année comprenant les dispositions relatives à l'année en cours,
 outre celles prévues au B du I, les dispositions ayant un effet sur les recettes
 des régimes obligatoires de base ou des organismes concourant à leur
@@ -158,23 +158,28 @@ financement, à l'amortissement de leur dette ou à la mise en réserve de recet
 dispositions de l'article 36 de la loi organique n° 2001-692 du 1er août 2001
 précitée, ou ayant un effet sur les dépenses de ces régimes ou organismes.
 
-B.-Peuvent figurer dans la partie de la loi de financement de l'année comprenant
-les dispositions relatives aux recettes et à l'équilibre général pour l'année à
-venir, outre celles prévues au C du I, les dispositions :
+B. - Peuvent figurer dans la partie de la loi de financement de l'année
+comprenant les dispositions relatives aux recettes et à l'équilibre général pour
+l'année à venir, outre celles prévues au C du I, les dispositions :
 
 1° Ayant un effet sur les recettes de l'année des régimes obligatoires de base
-ou des organismes concourant à leur financement, ou relatives, sous réserve des
-dispositions de l'article 36 de la loi organique n° 2001-692 du 1er août 2001
-précitée, à l'affectation de ces recettes ;
+ou des organismes concourant à leur financement, à l'amortissement de leur dette
+ou à la mise en réserve de recettes à leur profit, ou relatives, sous réserve
+des dispositions de l'article 36 de la loi organique n° 2001-692 du 1er août
+2001 précitée, à l'affectation de ces recettes ;
 
 2° Ayant un effet sur les recettes de l'année ou des années ultérieures des
-régimes obligatoires de base ou des organismes concourant à leur financement, ou
-relatives, sous réserve des dispositions de l'article 36 de la loi organique n°
-2001-692 du 1er août 2001 précitée, à l'affectation de ces recettes, à la
+régimes obligatoires de base ou des organismes concourant à leur financement, à
+l'amortissement de leur dette ou à la mise en réserve de recettes à leur profit,
+ou relatives, sous réserve des dispositions de l'article 36 de la loi organique
+n° 2001-692 du 1er août 2001 précitée, à l'affectation de ces recettes, à la
 condition qu'elles présentent un caractère permanent ;
 
-3° Modifiant les règles relatives aux cotisations et contributions affectées aux
-régimes obligatoires de base ou aux organismes concourant à leur financement ;
+3° Relatives à l'assiette, au taux et aux modalités de recouvrement des
+cotisations modifiant les règles relatives aux cotisations et contributions
+affectées aux régimes obligatoires de base ou aux organismes concourant à leur
+financement, à l'amortissement de leur dette ou à la mise en réserve de recettes
+à leur profit ;
 
 4° Relatives à la trésorerie et à la comptabilité des régimes obligatoires de
 base ou des organismes concourant à leur financement, à l'amortissement de leur
@@ -188,7 +193,7 @@ une incidence sur les recettes de l'année ou, si elles ont également une
 incidence sur les recettes des années ultérieures, que ces opérations présentent
 un caractère permanent.
 
-C.-Peuvent figurer dans la partie de la loi de financement de la sécurité
+C. - Peuvent figurer dans la partie de la loi de financement de la sécurité
 sociale de l'année comprenant les dispositions relatives aux dépenses pour
 l'année à venir, outre celles prévues au D du I, les dispositions :
 
@@ -210,12 +215,12 @@ financier de la sécurité sociale ;
 4° Améliorant l'information et le contrôle du Parlement sur l'application des
 lois de financement de la sécurité sociale.
 
-D.-Peuvent également figurer dans la loi de financement, dans les conditions et
-sous les réserves prévues au A et aux 1°, 2° et 3° du B et du C du présent V,
+D. - Peuvent également figurer dans la loi de financement, dans les conditions
+et sous les réserves prévues au A et aux 1°, 2° et 3° du B et du C du présent V,
 les dispositions relatives aux organismes qui financent et gèrent des dépenses
 relevant de l'objectif national de dépenses d'assurance maladie.
 
-VI.-Lorsque des dispositions législatives ou réglementaires sont susceptibles
+VI. - Lorsque des dispositions législatives ou réglementaires sont susceptibles
 d'avoir un effet sur les recettes ou les dépenses des régimes obligatoires de
 base de sécurité sociale, des organismes concourant à leur financement ou des
 organismes chargés de l'amortissement de leur dette, les conséquences de chacune
@@ -225,20 +230,22 @@ les objectifs de dépenses de la plus prochaine loi de financement.
 [Dispositions déclarées non conformes à la Constitution par la décision du
 Conseil constitutionnel n° 2005-519 DC du 29 juillet 2005.]
 
-VII.-Les comptes des régimes et organismes de sécurité sociale doivent être
+VII. - Les comptes des régimes et organismes de sécurité sociale doivent être
 réguliers, sincères et donner une image fidèle de leur patrimoine et de leur
 situation financière.
 
-VIII.-La mission d'assistance du Parlement et du Gouvernement, confiée à la Cour
-des comptes par le dernier alinéa de l'article 47-1 de la Constitution, comporte
-notamment :
+VIII. - La mission d'assistance du Parlement et du Gouvernement, confiée à la
+Cour des comptes par le dernier alinéa de l'article 47-1 de la Constitution,
+comporte notamment :
 
 1° La production du rapport sur l'application des lois de financement de la
 sécurité sociale, prévu à l'article LO 132-3 du code des juridictions
 financières ;
 
 2° La production d'un avis sur la cohérence des tableaux d'équilibre par branche
-du dernier exercice clos, mentionnés au I du présent article ;
+du dernier exercice clos, mentionnés au I du présent article, ainsi que sur la
+cohérence du tableau patrimonial du dernier exercice clos, mentionné au II de
+l'article LO 111-4 ;
 
 3° La production du rapport, mentionné à l'article LO 132-2-1 du code des
 juridictions financières, de certification de la régularité, de la sincérité et

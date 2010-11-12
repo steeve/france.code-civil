@@ -20,5 +20,5 @@ texte soumis au Sénat, modifié, le cas échéant, par les amendements votés p
 Sénat et acceptés par lui.
 
 Le projet de loi de financement de la sécurité sociale est ensuite examiné selon
-la procédure d'urgence dans les conditions prévues à l'article 45 de la
+la procédure accélérée dans les conditions prévues à l'article 45 de la
 Constitution.
