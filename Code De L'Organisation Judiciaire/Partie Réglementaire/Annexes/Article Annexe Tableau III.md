@@ -298,7 +298,7 @@ Agde.
 
 Montpellier
 
-Lunel, Montpellier (La Paillade).
+Lodève, Lunel, Montpellier (La Paillade).
 
 Cour d'appel de Nancy Meurthe-et-Moselle
 
