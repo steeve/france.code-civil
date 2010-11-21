@@ -21,3 +21,10 @@ III. ― Le volume d'alcool pur revendiqué sur la déclaration de revendication
 détermine le volume d'alcool pur maximum pouvant être commercialisé sous
 l'appellation d'origine concernée. Ce volume figure sur la comptabilité matière
 de l'opérateur.
+
+IV. - La déclaration de revendication mentionne, le cas échéant, le volume
+d'eau-de-vie soumis à des mesures de gestion interprofessionnelle rendues
+obligatoires. Ce volume ne peut sortir des chais des opérateurs habilités et
+être commercialisé sous l'appellation d'origine contrôlée concernée qu'en
+application des modalités et dans les délais fixés par l'organisation
+interprofessionnelle.
