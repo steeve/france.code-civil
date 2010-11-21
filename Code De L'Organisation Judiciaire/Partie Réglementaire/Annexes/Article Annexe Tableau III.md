@@ -255,8 +255,15 @@ Limoges
 
 Limoges.
 
-Cour d'appel de Lyon Loire
+Cour d'appel de Lyon Ain
 
+
+Bourg-en-Bresse
+
+Bourg-en-Bresse
+
+
+Loire
 
 Saint-Etienne
 
@@ -454,8 +461,10 @@ Rouen
 
 Elbeuf-sur-Seine, Canteleu, Rouen, Saint-Etienne-du-Rouvray.
 
-Cour d'appel de Toulouse Haute-Garonne
+Cour d'appel de Toulouse
 
+
+Haute-Garonne
 
 Toulouse
 
