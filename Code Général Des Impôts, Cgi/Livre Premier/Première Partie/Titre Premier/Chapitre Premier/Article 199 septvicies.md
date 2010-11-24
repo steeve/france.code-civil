@@ -225,7 +225,7 @@ dans les conditions définies au septième alinéa du VIII pour le financement d
 tels logements ouvrent droit à la réduction d'impôt prévue au présent article
 dans les mêmes conditions, sous réserve des adaptations prévues au présent XI.
 
-Pour ces investissements, le taux de la réduction est égal :
+a) Pour ces investissements, le taux de la réduction est égal :
 
 1° A 40 % pour les logements acquis ou construits et pour les souscriptions
 réalisées entre la date de promulgation de la loi n° 2009-594 du 27 mai 2009
@@ -237,8 +237,26 @@ réalisées entre le 1er janvier 2012 et le 31 décembre 2013 ;
 3° A 35 % pour les logements acquis ou construits et pour les souscriptions
 réalisées entre le 1er janvier 2014 et le 31 décembre 2017, dès lors que le
 propriétaire s'engage à ce que les logements restent loués à l'issue de la
-période couverte par l'engagement mentionné au I selon les conditions prévues au
-V.
+période couverte par l'engagement mentionné au I ou au 1° du b du présent XI,
+selon les conditions prévues au V.
+
+b) Pour les investissements réalisés à compter du 1er janvier 2011 afférents à
+des logements situés en Nouvelle-Calédonie, en Polynésie française ou dans les
+îles Wallis et Futuna :
+
+1° La durée minimale de l'engagement de location prévu au premier alinéa du I
+est fixée à cinq ans ;
+
+2° Le nombre d'années, mentionné, selon le cas, au dixième alinéa du IV ou au
+neuvième alinéa du VIII, sur lequel est répartie la réduction d'impôt, est fixé
+à cinq ;
+
+3° La réduction d'impôt accordée, selon le cas, au titre de l'année d'achèvement
+du logement ou de son acquisition si elle est postérieure, comme mentionné au
+dixième alinéa du IV, ou au titre de la souscription, comme mentionné au
+neuvième alinéa du VIII, est imputée sur l'impôt dû au titre de cette même année
+puis sur l'impôt dû au titre de chacune des quatre années suivantes à raison
+d'un cinquième de son montant total au titre de chacune de ces années.
 
 Pour l'application du présent XI, le plafond de loyer mentionné au III ainsi que
 les conditions mentionnées au deuxième alinéa du l du 1° du I de l'article 31
