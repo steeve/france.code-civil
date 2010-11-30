@@ -82,6 +82,13 @@ Le Mans
 
 Allonnes.
 
+Cour d'appel de Bastia Corse-du-Sud
+
+
+Ajaccio
+
+Porto-Vecchio.
+
 Cour d'appel de Bordeaux Charente
 
 
@@ -260,7 +267,7 @@ Cour d'appel de Lyon Ain
 
 Bourg-en-Bresse
 
-Bourg-en-Bresse
+Bourg-en-Bresse.
 
 
 Loire
@@ -461,10 +468,8 @@ Rouen
 
 Elbeuf-sur-Seine, Canteleu, Rouen, Saint-Etienne-du-Rouvray.
 
-Cour d'appel de Toulouse
+Cour d'appel de Toulouse Haute-Garonne
 
-
-Haute-Garonne
 
 Toulouse
 
