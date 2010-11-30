@@ -25,7 +25,13 @@ Les dispositions prévues au 2° ci-dessus ne peuvent pas être modifiées dans
 l'année d'un renouvellement.
 
 Les règlements intérieurs peuvent prévoir l'adoption de certaines délibérations
-par des majorités qualifiées.
+par des majorités qualifiées sous réserve des dispositions du présent code
+précisant les conditions de majorité requises pour certaines matières.
 
 Ils ne peuvent ni limiter le nombre de mandats que peut exercer un membre ni
 subordonner l'élection d'un membre au bureau à une durée antérieure de mandat.
+
+Les règlements intérieurs des chambres de commerce et d'industrie de région
+prévoient les conditions dans lesquelles une mission peut être confiée au
+président d'une délégation d'une chambre de la circonscription, lui-même non
+membre de la chambre régionale.

@@ -40,7 +40,7 @@ titulaire et est accompagnée d'une acceptation écrite de la qualité de
 suppléant.
 
 IV.-Les candidatures peuvent être présentées dans le cadre d'un groupement.
-Celui-ci est assorti d'une déclaration commune signée des candidats qui y
+Celles-ci sont assorties d'une déclaration commune signée des candidats qui y
 adhèrent, et publiée avec les candidatures en application du deuxième alinéa de
 l'article R. 713-10. Le nombre de membres du groupement ne peut être supérieur
 au nombre des sièges à pourvoir dans les sous-catégories ou catégories dans

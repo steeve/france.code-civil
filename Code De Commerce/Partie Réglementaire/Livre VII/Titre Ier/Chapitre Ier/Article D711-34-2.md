@@ -1,7 +1,7 @@
 Article D711-34-2
 ----
-En application du 1° de l'article L. 711-8, les chambres de commerce et
-d'industrie de région favorisent la mutualisation des actions des chambres de
+En application du premier alinéa de l'article L. 711-8, les chambres de commerce
+et d'industrie de région favorisent la mutualisation des actions des chambres de
 commerce et d'industrie territoriales de leur circonscription, notamment par le
 biais des conventions prévues à l'article D. 711-67-5.
 

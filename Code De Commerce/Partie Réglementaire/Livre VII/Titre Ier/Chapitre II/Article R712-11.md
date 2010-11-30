@@ -11,13 +11,16 @@ leurs suppléants ;
 d'immeubles ou décidant d'un bail de plus de dix-huit ans ;
 
 3° La délibération d'abondement du budget d'une chambre de commerce et
-d'industrie prévue à l'article L. 712-5 par une chambre régionale de commerce et
-d'industrie ;
+d'industrie territoriale prévue à l'article L. 712-5 par une chambre de commerce
+et d'industrie de région ;
 
 4° Les délibérations relatives aux marchés publics passés selon les procédures
 du code des marchés publics ;
 
-5° Les décisions relatives aux recrutements et aux licenciements.
+5° Les décisions relatives aux recrutements et aux licenciements ;
+
+6° Les transactions. La condition de seuil prévue à l'article R. 711-74-1 ne
+s'applique pas.
 
 Les délibérations mentionnées à l'article R. 712-7 sont soumises à approbation
 quel que soit le montant sur lequel elles portent.

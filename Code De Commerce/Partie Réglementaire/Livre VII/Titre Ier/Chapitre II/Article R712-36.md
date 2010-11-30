@@ -1,10 +1,10 @@
 Article R712-36
 ----
-1° A compter de la conclusion d'une convention de délégation de service public
-leur confiant la gestion d'un service ou d'un équipement public, les
-établissements du réseau ne peuvent pas utiliser le produit de la taxe
-additionnelle à la taxe professionnelle ou des ressources provenant de leurs
-autres activités pour assurer l'équilibre de cette gestion.
+1° Les établissements du réseau ne peuvent pas utiliser le produit des
+impositions de toute nature qui leur sont affectées ou des ressources provenant
+de leurs autres activités pour assurer l'équilibre d'une convention de
+délégation de service public leur confiant la gestion d'un service ou d'un
+équipement public.
 
 Toutefois cette interdiction ne s'applique pas :
 

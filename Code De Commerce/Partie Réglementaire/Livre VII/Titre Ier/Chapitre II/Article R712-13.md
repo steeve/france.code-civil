@@ -1,11 +1,13 @@
 Article R712-13
 ----
-Le président de l'établissement est chargé de l'exécution du budget. Il émet, à
-destination du trésorier, les titres de perception des recettes et des produits,
-ainsi que les mandats des dépenses et des charges, préalablement à leur
-encaissement ou à leur paiement.
+Le président de l'établissement public est chargé, dans le respect de la
+séparation de ses fonctions et de celles de trésorier, de l'exécution du budget.
+Il émet, à destination du trésorier les factures et titres de recettes, ainsi
+que les mandats des dépenses et des charges, préalablement à leur encaissement
+ou à leur paiement.
 
-Le trésorier est chargé de la tenue de la comptabilité, de l'exécution des
+Le trésorier est chargé dans le respect de la séparation de ses fonctions et de
+celles du président de la tenue de la comptabilité, de l'exécution des
 opérations de dépenses et de recettes, ainsi que de la gestion de la trésorerie.
 Il est assisté en tant que de besoin par les services comptables et les régies
 mentionnées au dernier alinéa.

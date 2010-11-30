@@ -17,7 +17,10 @@ exécuté, qui retrace les conditions dans lesquelles le budget primitif et les
 budgets rectificatifs ont été exécutés, et, d'autre part, un bilan, un compte de
 résultat et une annexe établis dans les conditions prévues à l'article R. 612-2
 applicable aux personnes morales de droit privé non commerçantes ayant une
-activité économique.
+activité économique. Lorsque plusieurs chambres de commerce et d'industrie
+territoriales s'unissent en une seule chambre, l'assemblée générale de la
+nouvelle chambre vote le budget exécuté du dernier exercice clos de chacune des
+chambres qui ont fusionné.
 
 Le plan comptable applicable aux documents mentionnés ci-dessus est fixé par
 arrêté conjoint du ministre chargé de la tutelle des chambres de commerce et

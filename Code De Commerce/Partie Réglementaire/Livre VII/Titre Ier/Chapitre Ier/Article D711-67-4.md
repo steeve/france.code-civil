@@ -6,9 +6,6 @@ avec l'Institut national de la statistique et des études économiques, les
 chambres de commerce et d'industrie territoriales créent et tiennent à jour un
 fichier des entreprises de leur circonscription.
 
-Les chambres de commerce et d'industrie territoriales peuvent constituer des
-bases de données et d'informations économiques dans le cadre de leurs missions.
-
 Ces fichiers et bases de données sont alimentés par les informations que les
 chambres recueillent, produisent, reproduisent, détiennent ou diffusent dans le
 cadre de leurs missions, notamment celle relative à la création et à la gestion

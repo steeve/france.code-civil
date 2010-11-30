@@ -1,9 +1,15 @@
 Article R711-49
 ----
-Entre deux renouvellements, il est pourvu lors de l'assemblée générale la plus
-proche au remplacement de tout membre du bureau dont le siège est devenu vacant.
-Cette élection doit être inscrite à l'ordre du jour de l'assemblée, lequel peut
-être complété à cette fin au plus tard cinq jours avant la tenue de sa réunion.
+Entre deux renouvellements, il est pourvu, lors de l'assemblée générale la plus
+proche et au plus tard dans les deux mois suivant la démission du membre du
+bureau, au remplacement de tout membre du bureau dont le siège est devenu
+vacant, même si ce point n'a pas été inscrit à l'ordre du jour de cette
+assemblée, sous réserve d'une information préalable des membres de l'assemblée
+générale au plus tard cinq jours avant la tenue de la réunion de cette
+assemblée.
 
-Si la moitié des sièges deviennent vacants, le bureau est réélu dans sa
-totalité.
+En cas de vacance de la moitié des postes, le bureau est réélu dans sa totalité.
+
+Si l'ensemble du bureau de la chambre de commerce et d'industrie de région a
+démissionné, l'autorité de tutelle assure l'expédition des affaires courantes
+jusqu'à l'élection du nouveau bureau.

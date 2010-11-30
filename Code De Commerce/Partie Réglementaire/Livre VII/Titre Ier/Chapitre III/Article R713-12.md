@@ -11,9 +11,9 @@ sont considérés comme ayant obtenu 5 % des suffrages exprimés dès lors qu'un
 d'entre eux au moins a atteint ce pourcentage.
 
 Un arrêté conjoint du ministre de la justice et du ministre chargé de la tutelle
-des chambres de commerce et d'industrie définit les frais de propagande et fixe
-le nombre et les caractéristiques des documents admis à remboursement ainsi que
-les conditions de celui-ci.
+des chambres de commerce et d'industrie définit les frais de campagne et fixe le
+nombre et les caractéristiques des documents admis à remboursement ainsi que les
+conditions de celui-ci.
 
 Le préfet fixe, par référence aux tarifs fixés en application de l'article L.
 52-11-1 du code électoral, les tarifs maximaux d'impression et d'affichage dans

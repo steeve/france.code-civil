@@ -2,14 +2,18 @@ Article R711-60
 ----
 Le comité directeur se compose :
 
-Des présidents des chambres de commerce et d'industrie de région.
+1° Du président de l'assemblée des chambres françaises de commerce et
+d'industrie ;
 
-Des membres du bureau non présidents de chambres de commerce et d'industrie de
-région ;
+2° Des présidents des chambres de commerce et d'industrie de région ;
 
-Du président de la chambre de commerce et d'industrie territoriale de Paris, de
-l'un des présidents des trois délégations départementales qui en dépendent ;
+3° Des membres du bureau non présidents des chambres de commerce et d'industrie
+de région ;
 
-Des présidents des commissions de l'assemblée désignées par le règlement
+4° Des présidents des commissions de l'assemblée désignés par le règlement
 intérieur, lorsqu'ils ne sont pas déjà membres du comité directeur au titre de
-l'une des dispositions précédentes.
+l'une des dispositions précédentes ;
+
+5° D'un président d'une chambre des collectivités d'outre-mer régies par
+l'article 74 de la Constitution et de la Nouvelle-Calédonie représentant ces
+dernières.

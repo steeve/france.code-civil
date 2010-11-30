@@ -10,7 +10,7 @@ des compétences en matière économique utiles à l'établissement.
 
 Les membres associés prennent part aux délibérations avec voix consultative et
 peuvent représenter la chambre dans toutes les instances auxquelles celle-ci
-participe.
+participe, sans pouvoir les engager sur le plan financier ou contractuel.
 
 La chambre de commerce et d'industrie territoriale dont la circonscription
 s'étend sur deux régions peut désigner, auprès de la chambre de commerce et

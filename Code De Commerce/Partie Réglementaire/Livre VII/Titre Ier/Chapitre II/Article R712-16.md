@@ -2,10 +2,10 @@ Article R712-16
 ----
 1° La transmission de la délibération adoptant le budget primitif, les budgets
 rectificatifs et le budget exécuté est accompagnée du rapport transmis à
-l'assemblée générale par le ou les commissaires aux comptes, d'un rapport
-portant sur l'évolution de la masse salariale, des informations relatives à
-l'emploi de la taxe additionnelle à la taxe professionnelle, du tableau
-d'amortissement des emprunts contractés par l'établissement, d'un état
+l'assemblée générale par le ou les commissaires aux comptes pour ce qui concerne
+le budget exécuté, d'un rapport portant sur l'évolution de la masse salariale,
+des informations relatives à l'emploi de la taxe pour frais de chambre, du
+tableau d'amortissement des emprunts contractés par l'établissement, d'un état
 prévisionnel des contributions au fonctionnement des organismes autres que les
 sociétés civiles ou commerciales pour les budgets primitifs ou rectificatifs,
 d'un bilan de ces mêmes contributions pour le budget exécuté, ainsi que des

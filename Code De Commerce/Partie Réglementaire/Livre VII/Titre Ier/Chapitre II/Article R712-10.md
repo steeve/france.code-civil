@@ -19,10 +19,17 @@ charges nécessite de prendre des mesures de gestion correctrices ;
 comptes ;
 
 5° Lorsque est constaté un dysfonctionnement grave dans l'exercice d'une mission
-de service public de l'établissement.
+de service public de l'établissement ;
 
-Dans ce cas, l'autorité de tutelle institue un suivi renforcé de la gestion de
-l'établissement et en informe le ministre chargé de la tutelle des chambres de
-commerce et d'industrie. Elle lui rend compte régulièrement de l'évolution de sa
-situation et l'informe de sa décision de mettre fin à la tutelle renforcée,
-lorsqu'elle estime remplies les conditions du retour à l'équilibre.
+6° Lorsqu'il apparaît que la gestion de la chambre territoriale risque
+d'entraîner l'obligation de solidarité financière de la chambre de région en
+application du 7° de l'article L. 711-8 ;
+
+7° Lorsque le budget de la chambre n'a pas été adopté au 1er février ou n'a pas
+été approuvé par l'autorité de tutelle au 1er avril de l'exercice concerné.
+
+Quand l'autorité de tutelle met en œuvre une tutelle renforcée de la gestion
+d'une chambre de commerce et d'industrie territoriale, elle informe la chambre
+de commerce et d'industrie de région de l'évolution de la situation et l'informe
+de sa décision de mettre fin à la tutelle renforcée, lorsqu'elle estime remplies
+les conditions du retour à l'équilibre.

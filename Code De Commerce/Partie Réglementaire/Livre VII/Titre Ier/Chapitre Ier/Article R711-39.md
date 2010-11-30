@@ -1,9 +1,8 @@
 Article R711-39
 ----
-Pour l'application du II de l'article 1600 du code général des impôts, le projet
-de schéma directeur, adopté dans les conditions prévues à l'article R. 711-38,
-est transmis, avec le rapport mentionné au troisième alinéa de l'article R.
-711-35, au préfet de région.
+Le projet de schéma directeur, adopté dans les conditions prévues à l'article R.
+711-38, est transmis, avec le rapport mentionné au troisième alinéa de l'article
+R. 711-35, au préfet de région.
 
 Le préfet de région transmet le projet de schéma directeur et le rapport y
 afférent au ministre chargé de la tutelle des chambres de commerce et

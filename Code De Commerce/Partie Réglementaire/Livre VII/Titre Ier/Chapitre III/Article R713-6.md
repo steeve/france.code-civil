@@ -4,8 +4,8 @@ I.-Le 1er septembre au plus tard, un arrêté conjoint du ministre de la justice
 et du ministre chargé de la tutelle des chambres de commerce et d'industrie fixe
 la période de dépôt des candidatures, la composition des dossiers de candidature
 et la date de clôture du scrutin, qui ne peut être postérieure au premier
-mercredi de novembre, à minuit. Des dates distinctes de début du scrutin sont
-fixées pour le vote par correspondance et pour le vote électronique.
+mercredi de novembre, à minuit. Les dates de début de scrutin sont identiques
+pour le vote par correspondance et pour le vote électronique.
 
 En cas de circonstances particulières, les dates fixées dans l'arrêté mentionné
 à l'alinéa précédent peuvent être modifiées après le 1er septembre par arrêté
