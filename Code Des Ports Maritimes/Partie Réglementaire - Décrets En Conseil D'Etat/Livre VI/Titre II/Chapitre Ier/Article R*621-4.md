@@ -14,6 +14,7 @@ l'Etat à la disposition du département est représenté par un seul membre ;
 a) La constitution d'un seul comité local des usagers permanents des
 installations portuaires de plaisance pour l'ensemble de ces installations ;
 
-b) La désignation conjointe par les chambres de commerce et d'industrie et par
-les comités locaux des pêches intéressés des membres représentant les usagers
-des ports aux titres respectifs du commerce et de la pêche.
+b) La désignation conjointe par les chambres de commerce et d'industrie
+territoriales et par les comités locaux des pêches intéressés des membres
+représentant les usagers des ports aux titres respectifs du commerce et de la
+pêche.

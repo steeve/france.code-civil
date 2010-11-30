@@ -12,5 +12,5 @@ l'article 10 de l'arrêté du 30 août 1983 relatif à l'organisation et à la t
 du répertoire des métiers.
 
 La justification de la non-inscription sur la liste électorale de la chambre de
-commerce et d'industrie consiste en une attestation délivrée par le greffe du
-tribunal de commerce.
+commerce et d'industrie territoriale consiste en une attestation délivrée par le
+greffe du tribunal de commerce.

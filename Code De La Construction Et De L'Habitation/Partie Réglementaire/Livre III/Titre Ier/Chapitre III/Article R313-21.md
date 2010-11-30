@@ -6,8 +6,8 @@ agrément accordé par un arrêté conjoint des ministres chargés de la constru
 et de l'habitation et de l'économie et des finances qui tient compte notamment
 des politiques locales de l'habitat. Cet arrêté est contresigné par le ministre
 chargé du commerce lorsque l'agrément concerne une chambre de commerce et
-d'industrie, ou par le ministre chargé des affaires sociales lorsqu'il concerne
-une caisse d'allocations familiales.
+d'industrie territoriale, ou par le ministre chargé des affaires sociales
+lorsqu'il concerne une caisse d'allocations familiales.
 
 L'arrêté d'agrément est pris après avis de l'Agence nationale pour la
 participation des employeurs à l'effort de construction en ce qui concerne les
@@ -29,7 +29,7 @@ la politique du logement.
 
 Le contrôle des organismes mentionnés au 2° (c) de l'article R. 313-9 est exercé
 par le ministre chargé de l'économie et des finances et par le ministre chargé
-du logement. A ce titre, sans préjudice des pouvoirs dévolus à l'inspection
+du logement.A ce titre, sans préjudice des pouvoirs dévolus à l'inspection
 générale des finances et à la mission interministérielle d'inspection du
 logement social, le contrôle sur place de ces organismes est assuré dans chaque
 département par le trésorier payeur général et par le directeur départemental de

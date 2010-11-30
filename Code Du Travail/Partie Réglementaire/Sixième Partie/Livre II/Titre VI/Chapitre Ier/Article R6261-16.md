@@ -7,4 +7,4 @@ l'artisanat de région des départements de la Moselle, du Bas-Rhin et du
 Haut-Rhin. Le contrôle de la formation dispensée aux apprentis dans les
 entreprises relevant des secteurs de l'industrie et du commerce est assuré par
 des inspecteurs de l'apprentissage qui relèvent des chambres de commerce et
-d'industrie de ces mêmes départements.
+d'industrie territoriales de ces mêmes départements.

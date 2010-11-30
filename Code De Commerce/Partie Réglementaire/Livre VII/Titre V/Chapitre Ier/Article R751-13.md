@@ -10,8 +10,8 @@ commerce :
 
 2° De représentants des activités commerciales et artisanales ;
 
-3° De représentants des chambres de commerce et d'industrie et des chambres de
-métiers et d'artisanat ;
+3° De représentants des chambres de commerce et d'industrie territoriales et des
+chambres de métiers et d'artisanat ;
 
 4° De représentants des consommateurs ;
 

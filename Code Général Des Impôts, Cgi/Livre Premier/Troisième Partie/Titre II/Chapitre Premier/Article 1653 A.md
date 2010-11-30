@@ -17,11 +17,11 @@ son suppléant ;
 5° De trois représentants des contribuables, savoir :
 
 a. Un titulaire et deux suppléants désignés par la ou les chambres de commerce
-et d'industrie parmi les commerçants ou industriels, ou anciens commerçants ou
-industriels, éligibles aux tribunaux de commerce ; si ce titulaire n'appartient
-pas à la profession exercée par le contribuable dont la situation est examinée,
-celui-ci peut demander son remplacement par un représentant de l'une des
-organisations professionnelles dont il fait partie ;
+et d'industrie territoriales parmi les commerçants ou industriels, ou anciens
+commerçants ou industriels, éligibles aux tribunaux de commerce ; si ce
+titulaire n'appartient pas à la profession exercée par le contribuable dont la
+situation est examinée, celui-ci peut demander son remplacement par un
+représentant de l'une des organisations professionnelles dont il fait partie ;
 
 b. Un titulaire et deux suppléants désignés par les fédérations départementales
 des syndicats d'exploitants agricoles du département, parmi les propriétaires

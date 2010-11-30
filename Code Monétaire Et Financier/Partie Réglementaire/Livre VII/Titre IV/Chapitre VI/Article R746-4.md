@@ -38,7 +38,8 @@ b) un représentant des établissements de crédit non membres de la Fédératio
 bancaire française, ou son suppléant, nommés par le haut-commissaire de la
 République après avis du président du gouvernement de la Nouvelle-Calédonie ;
 
-c) le président de la chambre de commerce et d'industrie ou son représentant ;
+c) le président de la chambre de commerce et d'industrie territoriale ou son
+représentant ;
 
 d) le président de la chambre d'agriculture ou son représentant ;
 

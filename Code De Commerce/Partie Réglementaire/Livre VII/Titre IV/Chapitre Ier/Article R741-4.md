@@ -1,14 +1,14 @@
 Article R741-4
 ----
 Lorsqu'un centre de formalités des entreprises a été créé par une chambre de
-commerce et d'industrie ou une chambre de métiers et de l'artisanat de région ,
-le greffier peut, à la demande de la chambre de commerce et d'industrie ou de la
-chambre de métiers et de l'artisanat de région , être autorisé par arrêté du
-garde des sceaux, ministre de la justice, à exercer tout ou partie des activités
-dévolues aux centres de formalités des entreprises par les articles R. 123-1 et
-suivants lorsque, dans l'intérêt des usagers, l'ouverture d'une annexe de ces
-centres apparaît nécessaire dans la ville où la juridiction commerciale a son
-siège.
+commerce et d'industrie territoriale ou une chambre de métiers et de l'artisanat
+de région, le greffier peut, à la demande de la chambre de commerce et
+d'industrie territoriale ou de la chambre de métiers et de l'artisanat de
+région, être autorisé par arrêté du garde des sceaux, ministre de la justice, à
+exercer tout ou partie des activités dévolues aux centres de formalités des
+entreprises par les articles R. 123-1 et suivants lorsque, dans l'intérêt des
+usagers, l'ouverture d'une annexe de ces centres apparaît nécessaire dans la
+ville où la juridiction commerciale a son siège.
 
 En vue de cette autorisation, le greffier soumet au garde des sceaux, ministre
 de la justice, une convention conclue avec la chambre de commerce ou de métiers

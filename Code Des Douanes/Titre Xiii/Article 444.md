@@ -9,8 +9,9 @@ classées pour chaque chapitre selon leur qualification.
 Un décret en Conseil d'Etat, pris sur le rapport du ministre de l'économie et
 des finances, fixera les modalités d'établissement des listes en précisant
 notamment les conditions dans lesquelles les chambres de commerce et d'industrie
-et les chambres d'agriculture ainsi que les organismes qualifiés qui seront
-désignés par arrêté interministériel seront appelés à formuler des propositions.
+territoriales et les chambres d'agriculture ainsi que les organismes qualifiés
+qui seront désignés par arrêté interministériel seront appelés à formuler des
+propositions.
 
 2. Dans chaque affaire, le président désigne les deux assesseurs appelés à la
 commission et leurs suppléants.

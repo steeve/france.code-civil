@@ -9,6 +9,6 @@ sont redevables au titre des prélèvements prévus aux articles L. 313-10 et L.
 313-12 ainsi que, dans les limites fixées par le ministre chargé du logement,
 leurs frais de gestion peuvent être imputés sur les fonds qu'ils ont collectés
 au titre de la participation des employeurs. Les chambres de commerce et
-d'industrie peuvent également imputer sur ces fonds le prélèvement prévu à
-l'article L. 313-25 et les contributions prévues au deuxième alinéa de l'article
-R. 313-33.
+d'industrie territoriales peuvent également imputer sur ces fonds le prélèvement
+prévu à l'article L. 313-25 et les contributions prévues au deuxième alinéa de
+l'article R. 313-33.

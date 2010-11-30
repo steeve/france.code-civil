@@ -29,8 +29,8 @@ ci-après qui sont effectuées simultanément :
 
 3° Consultation du concessionnaire, lorsqu'il n'est pas maître d'ouvrage ;
 
-4° Consultation de la chambre de commerce et d'industrie compétente, lorsqu'elle
-n'est pas le concessionnaire ;
+4° Consultation de la chambre de commerce et d'industrie territoriale
+compétente, lorsqu'elle n'est pas le concessionnaire ;
 
 5° Consultation, s'il y a lieu, de la commission nautique dont les conditions de
 fonctionnement sont fixées par arrêté conjoint du ministre chargé de la marine
@@ -52,6 +52,6 @@ simultanément avec celle prévue par les articles R. 214-6 à R. 214-56 dudit
 code.
 
 III.-Le délai imparti aux collectivités, établissements publics, commissions et
-services consultés en application des 1°, 2°, 3°, 4° et 5° du II du présent
-article pour faire connaître leur avis est de deux mois à compter du jour où ils
-y sont invités.L'absence de réponse dans ce délai vaut avis favorable.
+services consultés en application des 1°,2°,3°,4° et 5° du II du présent article
+pour faire connaître leur avis est de deux mois à compter du jour où ils y sont
+invités.L'absence de réponse dans ce délai vaut avis favorable.

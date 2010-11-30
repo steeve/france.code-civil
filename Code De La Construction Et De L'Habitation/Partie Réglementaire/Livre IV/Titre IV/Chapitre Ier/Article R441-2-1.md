@@ -23,9 +23,9 @@ intercommunale compétents lorsqu'ils ont pris une délibération à cet effet ;
 f) Lorsqu'ils sont bénéficiaires de réservations de logements en application de
 l'article R. 441-5, les employeurs, les collecteurs de la participation des
 employeurs à l'effort de construction, les chambres de commerce et d'industrie
-et les organismes à caractère désintéressé, qui ont conclu avec le préfet ou, en
-Ile-de-France, le préfet de région la convention prévue au III de l'article R.
-441-2-5.
+territoriales et les organismes à caractère désintéressé, qui ont conclu avec le
+préfet ou, en Ile-de-France, le préfet de région la convention prévue au III de
+l'article R. 441-2-5.
 
 Les services d'enregistrement mentionnés aux alinéas précédents peuvent confier
 à l'un d'entre eux ou à un mandataire commun sur lequel ils ont autorité la

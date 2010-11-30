@@ -37,7 +37,7 @@ l'aquaculture en eau de mer ;
 
 15° Un représentant des transports maritimes ;
 
-16° Deux représentants des chambres de commerce et d'industrie ;
+16° Deux représentants des chambres de commerce et d'industrie territoriales ;
 
 17° Trois représentants des riverains industriels ;
 

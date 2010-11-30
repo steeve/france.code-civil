@@ -7,5 +7,5 @@ prévue à l'article D. 6233-63, au chef du service académique de l'inspection 
 l'apprentissage ou au directeur régional de l'alimentation, de l'agriculture et
 de la forêt ou au directeur régional de la jeunesse, des sports et de la
 cohésion sociale, après avoir recueilli l'avis de la chambre de métiers et de
-l'artisanat de région ou de la chambre de commerce et d'industrie dont relèvent
-les entreprises concernées.
+l'artisanat de région ou de la chambre de commerce et d'industrie territoriale
+dont relèvent les entreprises concernées.

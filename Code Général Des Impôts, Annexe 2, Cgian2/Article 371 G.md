@@ -19,7 +19,7 @@ d. un membre de l'ordre des experts-comptables désigné par le conseil régiona
 de l'ordre ;
 
 e. un industriel, un commerçant et un artisan désignés respectivement par le
-président de la chambre régionale de commerce et d'industrie et par le président
+président de la chambre de commerce et d'industrie de région et par le président
 de la chambre régionale de métiers et de l'artisanat.
 
 Lorsque la demande d'agrément est présentée par un centre de gestion apportant

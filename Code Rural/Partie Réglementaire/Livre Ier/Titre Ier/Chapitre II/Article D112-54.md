@@ -12,11 +12,11 @@ La commission comporte en outre quinze membres désignés par le préfet :
 
 a) Trois représentants de l'Etat :
 
-- le trésorier-payeur général ;
+-le trésorier-payeur général ;
 
-- le directeur départemental de l'agriculture et de la forêt ;
+-le directeur départemental de l'agriculture et de la forêt ;
 
-- le directeur régional de l'environnement ;
+-le directeur régional de l'environnement ;
 
 b) Trois représentants des communes ou des groupements de communes ou du
 département ;
@@ -29,7 +29,7 @@ gestionnaires de milieux naturels, de la faune et de la flore ;
 
 e) Deux représentants des autres partenaires économiques, l'un sur proposition
 de la chambre des métiers et de l'artisanat, l'autre de la chambre de commerce
-et d'industrie.
+et d'industrie territoriale.
 
 Les membres de la commission mentionnés à l'alinéa précédent sont désignés pour
 trois ans, ainsi que leurs suppléants. Ils sont remplacés lorsqu'ils perdent la

@@ -17,7 +17,7 @@ l'article R. *142-5, à raison de :
 Un tiers au plus, désigné par le préfet ;
 
 Les autres membres désignés, selon l'activité représentée, par la chambre de
-commerce et d'industrie, le comité local des pêches et le comité local des
-usagers permanents des installations portuaires de plaisance constitué dans les
-mêmes conditions que celles prévues à l'article R. *622-3 ; ce dernier est réuni
-au moins une fois par an par le préfet ou son représentant.
+commerce et d'industrie territoriale, le comité local des pêches et le comité
+local des usagers permanents des installations portuaires de plaisance constitué
+dans les mêmes conditions que celles prévues à l'article R. *622-3 ; ce dernier
+est réuni au moins une fois par an par le préfet ou son représentant.

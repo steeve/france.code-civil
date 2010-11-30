@@ -1,7 +1,7 @@
 Article R*622-2
 ----
 Le conseil portuaire est complété par un représentant désigné par la chambre de
-commerce et d'industrie quand elle n'est pas concessionnaire.
+commerce et d'industrie territoriale quand elle n'est pas concessionnaire.
 
 Dans les ports dont les installations s'étendent sur plusieurs communes, le
 conseil portuaire est complété par un représentant désigné en son sein par le

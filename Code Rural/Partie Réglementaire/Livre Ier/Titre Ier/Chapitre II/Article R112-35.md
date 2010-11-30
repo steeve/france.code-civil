@@ -22,7 +22,8 @@ Corse ;
 
 d) Un membre désigné par le syndicat des irrigants ;
 
-4° Un membre désigné par les chambres de commerce et d'industrie de Corse ;
+4° Un membre désigné par les chambres de commerce et d'industrie territoriales
+de Corse ;
 
 5° Un représentant de l'office de développement agricole et rural de Corse,
 désigné par le conseil d'administration de cet office ;

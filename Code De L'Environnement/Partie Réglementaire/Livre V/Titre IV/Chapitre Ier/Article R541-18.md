@@ -32,9 +32,9 @@ région ;
 7° Un représentant de l'Agence de l'environnement et de la maîtrise de l'énergie
 ;
 
-8° Des représentants des chambres de commerce et d'industrie, des chambres
-d'agriculture et des chambres de métiers et de l'artisanat de région de la zone
-couverte par le plan ;
+8° Des représentants des chambres de commerce et d'industrie territoriales, des
+chambres d'agriculture et des chambres de métiers et de l'artisanat de région de
+la zone couverte par le plan ;
 
 9° Des représentants des organisations professionnelles concourant à la
 production et à l'élimination des déchets, ainsi que des représentants des

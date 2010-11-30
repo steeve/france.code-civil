@@ -5,10 +5,10 @@ autonome commence à la date fixée pour la substitution au régime précédemme
 vigueur, du régime de l'autonomie défini par le présent titre. Il se termine au
 31 décembre de l'année pendant laquelle cette substitution a eu lieu.
 
-Les comptes des services portuaires des chambres de commerce et d'industrie de
-la circonscription du port autonome relatifs à l'exercice précédant la date de
-mise en vigueur de l'autonomie sont arrêtés par le préfet sur rapport du chef du
-service maritime.
+Les comptes des services portuaires des chambres de commerce et d'industrie
+territoriales de la circonscription du port autonome relatifs à l'exercice
+précédant la date de mise en vigueur de l'autonomie sont arrêtés par le préfet
+sur rapport du chef du service maritime.
 
 L'état prévisionnel visé à l'article R. *113-14 doit être fourni, sous forme
 sommaire, dans les six semaines suivant le début du premier exercice.

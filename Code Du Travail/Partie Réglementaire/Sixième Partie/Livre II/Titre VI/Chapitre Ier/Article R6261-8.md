@@ -10,6 +10,6 @@ première section du registre des entreprises ;
 l'article L. 722-20 du code rural et de la pêche maritime, sauf si cet employeur
 relève du 6° de l'article L. 722-1 du même code ;
 
-3° A la chambre de commerce et d'industrie, dans les autres cas à l'exception de
-ceux où l'employeur relève du secteur public au sens du chapitre II de la loi n°
-92-675 du 17 juillet 1992.
+3° A la chambre de commerce et d'industrie territoriale, dans les autres cas à
+l'exception de ceux où l'employeur relève du secteur public au sens du chapitre
+II de la loi n° 92-675 du 17 juillet 1992.

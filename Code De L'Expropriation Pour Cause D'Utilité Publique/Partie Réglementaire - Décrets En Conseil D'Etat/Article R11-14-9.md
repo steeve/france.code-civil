@@ -10,8 +10,8 @@ président de la commission d'enquête ; elles sont tenues à la disposition du
 public.
 
 Il en est de même pour les observations qui seraient présentées par les chambres
-d'agriculture, les chambres de commerce et d'industrie et les chambres de
-métiers.
+d'agriculture, les chambres de commerce et d'industrie territoriales et les
+chambres de métiers.
 
 En outre, les observations faites sur l'utilité publique de l'opération sont
 également reçues par le commissaire enquêteur ou par un des membres de la

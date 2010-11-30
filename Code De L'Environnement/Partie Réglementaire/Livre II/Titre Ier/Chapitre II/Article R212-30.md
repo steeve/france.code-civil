@@ -13,15 +13,15 @@ bassin désignés sur proposition de leurs conseils respectifs.
 2° Le collège des usagers, des propriétaires fonciers, des organisations
 professionnelles et des associations concernées comprend au moins un
 représentant des chambres d'agriculture, un représentant des chambres de
-commerce et d'industrie, un représentant des associations syndicales de
-propriétaires ou des représentants de la propriété foncière ou forestière, un
-représentant des fédérations des associations agréées pour la pêche et la
-protection du milieu aquatique, un représentant des associations de protection
-de l'environnement et un représentant des associations de consommateurs ainsi
-que, s'il y a lieu, un représentant des producteurs d'hydroélectricité, un
-représentant des organismes uniques bénéficiant d'autorisations de prélèvement
-de l'eau pour l'irrigation et un représentant des associations de pêche
-professionnelle.
+commerce et d'industrie territoriales, un représentant des associations
+syndicales de propriétaires ou des représentants de la propriété foncière ou
+forestière, un représentant des fédérations des associations agréées pour la
+pêche et la protection du milieu aquatique, un représentant des associations de
+protection de l'environnement et un représentant des associations de
+consommateurs ainsi que, s'il y a lieu, un représentant des producteurs
+d'hydroélectricité, un représentant des organismes uniques bénéficiant
+d'autorisations de prélèvement de l'eau pour l'irrigation et un représentant des
+associations de pêche professionnelle.
 
 3° Le collège des représentants de l'Etat et de ses établissements publics
 intéressés comprend notamment un représentant du préfet coordonnateur de bassin

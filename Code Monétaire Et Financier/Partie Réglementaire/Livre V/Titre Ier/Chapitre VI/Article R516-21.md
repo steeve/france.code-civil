@@ -10,9 +10,10 @@ quelle qu'en soit la forme juridique ; elles peuvent en outre donner leur
 garantie aux emprunts à deux ans et plus que contractent ces entreprises. Elles
 sont également autorisées à consentir, dans les conditions fixées par le
 ministre chargé de l'économie, des prêts aux collectivités locales, aux sociétés
-d'économie mixte et aux chambres de commerce et d'industrie pour contribuer soit
-au financement d'équipements touristiques collectifs, soit à celui de bâtiments
-à usage industriel ou commercial réalisés pour des entrepreneurs dénommés.
+d'économie mixte et aux chambres de commerce et d'industrie territoriales pour
+contribuer soit au financement d'équipements touristiques collectifs, soit à
+celui de bâtiments à usage industriel ou commercial réalisés pour des
+entrepreneurs dénommés.
 
 Elles peuvent également, dans les limites et conditions définies aux alinéas
 précédents, contribuer au financement d'investissements réalisés par des

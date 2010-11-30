@@ -9,7 +9,7 @@ conseillers généraux, président ;
 
 2° Un représentant du concessionnaire ou de chacun des concessionnaires et dans
 le cas où elle n'est pas concessionnaire, un membre désigné par la chambre de
-commerce et d'industrie ;
+commerce et d'industrie territoriale ;
 
 3° Un représentant désigné en son sein par le conseil municipal de chacune des
 communes sur le territoire desquelles s'étend le port ;
@@ -33,8 +33,8 @@ les plus représentatives des personnels concernés au plan local ;
 
 Six membres représentant des usagers du port choisis parmi les catégories
 d'usagers mentionnées à l'article R. *142-5 1°, à raison de trois membres
-désignés par la chambre de commerce et d'industrie et trois membres désignés par
-le président du conseil général ;
+désignés par la chambre de commerce et d'industrie territoriale et trois membres
+désignés par le président du conseil général ;
 
 b) Dans les ports de pêche :
 

@@ -8,11 +8,11 @@ première au domaine public, la deuxième au domaine privé.
 
 Il est également dressé contradictoirement un état des éléments d'actif autres
 que ceux visés à l'alinéa précédent et détenus par les chambres de commerce et
-d'industrie au titre du compte des droits de port, des services organisés et des
-concessions ainsi que de la totalité des éléments d'actif de cette nature
-détenus par le port autonome existant. Ces éléments d'actif comportent notamment
-les fonds libres, les dépôts, les valeurs en portefeuille et les créances de
-toute nature.
+d'industrie territoriales au titre du compte des droits de port, des services
+organisés et des concessions ainsi que de la totalité des éléments d'actif de
+cette nature détenus par le port autonome existant. Ces éléments d'actif
+comportent notamment les fonds libres, les dépôts, les valeurs en portefeuille
+et les créances de toute nature.
 
 Cet inventaire porte également sur les charges et obligations attachées aux
 biens remis et aux activités transférées.

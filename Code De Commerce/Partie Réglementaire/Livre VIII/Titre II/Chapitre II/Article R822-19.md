@@ -6,9 +6,9 @@ dans les locaux du greffe de la cour d'appel, par le greffier en chef.
 
 Dans le même délai, le greffier en chef adresse copie de la liste au greffier de
 chaque tribunal de grande instance ou tribunal de commerce et au président de
-chaque chambre de commerce et d'industrie du ressort de la cour d'appel, aux
-fins d'affichage dans les locaux du greffe et de la chambre ainsi qu'au
-président de la Compagnie nationale et de la compagnie régionale des
+chaque chambre de commerce et d'industrie territoriale du ressort de la cour
+d'appel, aux fins d'affichage dans les locaux du greffe et de la chambre ainsi
+qu'au président de la Compagnie nationale et de la compagnie régionale des
 commissaires aux comptes. Copie de la liste est également immédiatement adressée
 au Haut Conseil du commissariat aux comptes. Les modifications faites en
 application du deuxième alinéa de l'article R. 822-18 sont communiquées sans

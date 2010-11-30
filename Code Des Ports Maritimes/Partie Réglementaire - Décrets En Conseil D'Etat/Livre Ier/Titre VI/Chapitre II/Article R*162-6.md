@@ -2,10 +2,11 @@ Article R*162-6
 ----
 Le conseil d'administration du port autonome comprend :
 
-I. - 1. a) Deux membres désignés par la chambre de commerce et d'industrie de
-Pointe-à-Pitre ;
+I.-1. a) Deux membres désignés par la chambre de commerce et d'industrie
+territoriale de Pointe-à-Pitre ;
 
-b) Un membre désigné par la chambre de commerce et d'industrie de Basse-Terre ;
+b) Un membre désigné par la chambre de commerce et d'industrie territoriale de
+Basse-Terre ;
 
 2. a) Un membre désigné par le conseil régional de la Guadeloupe ;
 
@@ -21,7 +22,7 @@ techniques assimilés sur le plan de la classification ;
 
 4. Un membre représentant les ouvriers dockers du port.
 
-II. - 1. Trois membres représentant l'Etat, dont :
+II.-1. Trois membres représentant l'Etat, dont :
 
 a) Un représentant du ministre chargé de l'économie et des finances choisi parmi
 les fonctionnaires en activité de son département ;
@@ -34,8 +35,8 @@ titre permanent ;
 
 2. a) Deux personnalités choisies sur une liste de quatre usagers du port
 appartenant aux catégories énumérées à l'article R. *112-2, établie
-conjointement par les chambres de commerce et d'industrie de Basse-terre et de
-pointe-à-pitre ;
+conjointement par les chambres de commerce et d'industrie territoriales de
+Basse-terre et de pointe-à-pitre ;
 
 b) Une personnalité choisie sur une liste de quatre usagers du port appartenant
 aux catégories énumérées à l'article R. *112-2, établie par la chambre

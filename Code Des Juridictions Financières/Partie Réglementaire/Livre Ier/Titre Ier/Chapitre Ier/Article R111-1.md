@@ -34,7 +34,7 @@ catégorie ;
 10° Les établissements créés en application de l'article L. 321-1 du code de
 l'urbanisme ;
 
-11° Les chambres de commerce et d'industrie et leurs groupements ;
+11° Les chambres de commerce et d'industrie territoriales et leurs groupements ;
 
 12° Les chambres de métiers et de l'artisanat de région et leurs groupements ;
 

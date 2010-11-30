@@ -56,8 +56,8 @@ régionales ;
 c) Un représentant des organisations syndicales représentatives des artisans,
 des commerçants et des professions libérales, désigné par le directeur général
 de l'agence régionale de santé sur la proposition conjointe de la chambre
-régionale de métiers et de l'artisanat, de la chambre régionale de commerce et
-d'industrie et d'une organisation représentative des professions libérales ;
+régionale de métiers et de l'artisanat, de la chambre de commerce et d'industrie
+de région et d'une organisation représentative des professions libérales ;
 
 d) Un représentant des organisations syndicales représentatives des exploitants
 agricoles, désigné par la chambre régionale de l'agriculture ;

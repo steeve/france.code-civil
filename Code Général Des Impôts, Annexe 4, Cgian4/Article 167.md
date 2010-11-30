@@ -6,7 +6,7 @@ voies navigables de France ;
 
 la caisse nationale du crédit agricole ;
 
-les chambres de commerce et d'industrie et ports autonomes ;
+les chambres de commerce et d'industrie territoriales et ports autonomes ;
 
 le comité national interprofessionnel des viandes ;
 

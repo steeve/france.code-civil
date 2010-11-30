@@ -21,11 +21,11 @@ qualité en laquelle ils étaient désignés ou nommés. Sous réserve des
 dispositions de l'article 16 de la loi du 26 juillet 1983, il est pourvu à leur
 remplacement jusqu'à l'expiration normale de leur mandat.
 
-Dans le cas où une chambre de commerce et d'industrie n'a pas désigné son ou ses
-représentants dans un délai d'un mois à dater du jour où elle y a été invitée
-par le ministre chargé des ports maritimes, il est pourvu à cette désignation
-par un décret pris sur le rapport conjoint de ce ministre et du ministre chargé
-des chambres de commerce.
+Dans le cas où une chambre de commerce et d'industrie territoriale n'a pas
+désigné son ou ses représentants dans un délai d'un mois à dater du jour où elle
+y a été invitée par le ministre chargé des ports maritimes, il est pourvu à
+cette désignation par un décret pris sur le rapport conjoint de ce ministre et
+du ministre chargé des chambres de commerce.
 
 Le nombre des membres du conseil d'administration nommés par décret qui ont
 dépassé l'âge de soixante-cinq ans ne peut excéder le tiers du nombre total de

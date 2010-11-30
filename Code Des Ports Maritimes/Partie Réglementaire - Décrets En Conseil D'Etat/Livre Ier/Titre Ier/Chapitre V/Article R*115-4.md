@@ -13,17 +13,17 @@ même décret.
 
 En outre, lorsqu'il y a lieu, le dossier :
 
-- mentionne la ou les rubriques de la nomenclature, annexée au décret n° 93-743
+-mentionne la ou les rubriques de la nomenclature, annexée au décret n° 93-743
 du 29 mars 1993 relatif à la nomenclature des opérations soumises à autorisation
 ou à déclaration en application des articles L. 214-1 à L. 214-6 du code de
 l'environnement, dont relèvent les travaux ;
 
-- comporte le document prévu au 4° de l'article 2 du décret n° 93-742 du 29 mars
+-comporte le document prévu au 4° de l'article 2 du décret n° 93-742 du 29 mars
 1993 relatif aux procédures d'autorisation et de déclaration prévues par les
 articles L. 214-1 à L. 214-6 du code de l'environnement. Lorsque l'étude
 d'impact fournit les informations requises, elle tient lieu de ce document.
 
-II. L'instruction, menée par le directeur du port autonome, comprend, outre la
+II.L'instruction, menée par le directeur du port autonome, comprend, outre la
 consultation du conseil d'administration, les formalités ci-après qui sont
 effectuées simultanément :
 
@@ -31,7 +31,8 @@ effectuées simultanément :
 
 2° Consultation des collectivités et des services locaux intéressés ;
 
-3° Consultation de la ou des chambres de commerce et d'industrie concernées ;
+3° Consultation de la ou des chambres de commerce et d'industrie territoriales
+concernées ;
 
 4° Consultation, s'il y a lieu, de la commission nautique dont les conditions de
 fonctionnement sont fixées par arrêté conjoint du ministre chargé de la marine
@@ -52,7 +53,7 @@ articles L. 214-1 à L. 214-6 du code de l'environnement, l'instruction est men�
 simultanément avec celle prévue par le décret n° 93-742 du 29 mars 1993
 susmentionné.
 
-III. - Le délai imparti aux collectivités, établissements publics, commissions
-et services consultés en application des 1°, 2°, 3° et 4° du II du présent
-article pour faire connaître leur avis est de deux mois à compter du jour où ils
-y sont invités. L'absence de réponse dans ce délai vaut avis favorable.
+III.-Le délai imparti aux collectivités, établissements publics, commissions et
+services consultés en application des 1°,2°,3° et 4° du II du présent article
+pour faire connaître leur avis est de deux mois à compter du jour où ils y sont
+invités.L'absence de réponse dans ce délai vaut avis favorable.

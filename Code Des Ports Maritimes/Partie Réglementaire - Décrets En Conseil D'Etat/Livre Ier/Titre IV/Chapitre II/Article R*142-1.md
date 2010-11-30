@@ -38,7 +38,8 @@ Huit membres représentant les usagers du port, choisis parmi les catégories
 
 a) Quatre membres désignés par le préfet ;
 
-b) Quatre membres désignés par la chambre de commerce et d'industrie ;
+b) Quatre membres désignés par la chambre de commerce et d'industrie
+territoriale ;
 
 7° Dans les ports de pêche :
 

@@ -3,10 +3,10 @@ Article R*112-1
 Le conseil d'administration d'un port autonome dont la composition est fixée par
 le décret en Conseil d'Etat qui en porte création comprend :
 
-I. - 1° Deux membres désignés par les chambres de commerce et d'industrie de la
-circonscription du port, dont un au moins doit être choisi, dans ces chambres ou
-en dehors d'elles, parmi les catégories d'usagers énumérées à l'article R.
-*112-2.
+I.-1° Deux membres désignés par les chambres de commerce et d'industrie
+territoriales de la circonscription du port, dont un au moins doit être choisi,
+dans ces chambres ou en dehors d'elles, parmi les catégories d'usagers énumérées
+à l'article R. *112-2.
 
 2° a) Un membre désigné par le conseil régional de la région dans laquelle se
 trouve la principale ville de la circonscription du port ;
@@ -29,7 +29,7 @@ techniques assimilés sur le plan de la classification.
 
 4° Un membre représentant les ouvriers dockers du port.
 
-II. - 1° Trois membres représentant l'Etat, dont :
+II.-1° Trois membres représentant l'Etat, dont :
 
 a) Un membre du Conseil d'Etat, présenté par le vice-président du Conseil d'Etat
 ;
@@ -44,8 +44,8 @@ permanent.
 
 2° a) Trois personnalités choisies sur une liste de cinq usagers du port
 appartenant aux catégories énumérées à l'article R. *112-2, établie
-conjointement par les chambres de commerce et d'industrie représentées au
-conseil ;
+conjointement par les chambres de commerce et d'industrie territoriales
+représentées au conseil ;
 
 b) Sept personnalités choisies en raison de leur compétence dans les problèmes
 intéressant les ports, la navigation maritime, les transports, l'économie

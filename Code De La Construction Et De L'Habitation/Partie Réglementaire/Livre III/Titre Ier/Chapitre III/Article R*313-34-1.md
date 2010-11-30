@@ -1,8 +1,8 @@
 Article R*313-34-1
 ----
 Une commission consultative est créée dans chaque chambre de commerce et
-d'industrie habilitée à collecter la participation des employeurs à l'effort de
-construction.
+d'industrie territoriale habilitée à collecter la participation des employeurs à
+l'effort de construction.
 
 1° La composition de cette commission est la suivante :
 

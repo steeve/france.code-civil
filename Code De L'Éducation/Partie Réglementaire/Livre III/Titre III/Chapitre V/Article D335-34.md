@@ -14,8 +14,9 @@ du Centre d'études et de recherches sur les qualifications ;
 3° Des personnalités qualifiées appartenant soit au secteur public, soit au
 secteur privé, choisies en raison de leurs activités professionnelles ou de
 leurs travaux, parmi lesquelles des représentants des personnels enseignants
-ainsi que des représentants des chambres de commerce et d'industrie, des
-chambres de métiers et de l'artisanat de région ou des chambres d'agriculture.
+ainsi que des représentants des chambres de commerce et d'industrie
+territoriales, des chambres de métiers et de l'artisanat de région ou des
+chambres d'agriculture.
 
 Chaque commission peut instituer, pour l'examen de certains problèmes, des
 sous-commissions ou des groupes de travail, permanents ou temporaires, auxquels
