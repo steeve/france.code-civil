@@ -1,8 +1,8 @@
 Article 266 quater
 ----
 1. Il est institué dans les départements d'outre-mer de la Guadeloupe, de la
-Guyane, de la Martinique et de la Réunion, une taxe spéciale de consommation sur
-les produits désignés ci-après :
+Guyane, de la Martinique, de Mayotte et de la Réunion, une taxe spéciale de
+consommation sur les produits désignés ci-après :
 
 
 Numéro du tarif des douanes
@@ -38,19 +38,19 @@ Ex 3824-90 :
 
 Hectolitre
 
--émulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la
+- émulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la
 teneur en eau est égale ou supérieure à 7 % en volume sans dépasser 20 % en
 volume
 
 
 Hectolitre
 
--autre, destinée à être utilisée comme carburant
+- autre, destinée à être utilisée comme carburant
 
 
 Hectolitre
 
-2. Le taux de cette taxe est fixé par le conseil régional et, à Mayotte, par le
+2. Le taux de cette taxe est fixé par le conseil régional, et, à Mayotte, par le
 conseil général. Ce taux ne peut excéder :
 
 a) pour les essences et supercarburants, le taux de la taxe intérieure de
@@ -67,7 +67,7 @@ le taux de la taxe intérieure de consommation visé au tableau B annexé au 1 d
 l'article 265 applicable au gazole identifié à l'indice 20.
 
 2 bis. Les produits visés au 1 ci-dessus peuvent être admis en exonération
-totale ou partielle de la taxe par le conseil régional et, à Mayotte, par le
+totale ou partielle de la taxe par le conseil régional, et, à Mayotte, par le
 conseil général aux conditions qu'il fixe.
 
 3. En cas de relèvement des taux de la taxe spéciale dans les conditions prévues
