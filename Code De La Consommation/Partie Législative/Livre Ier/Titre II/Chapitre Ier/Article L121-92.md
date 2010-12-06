@@ -11,3 +11,8 @@ contrat unique, demander à bénéficier de toutes les prestations techniques
 proposées par le gestionnaire du réseau. Le fournisseur ne peut facturer au
 consommateur d'autres frais que ceux que le gestionnaire du réseau lui a imputés
 au titre d'une prestation.
+
+Le consommateur accède gratuitement à ses données de consommation. Un décret
+pris après avis du Conseil national de la consommation et de la Commission de
+régulation de l'énergie précise les modalités d'accès aux données et aux relevés
+de consommation.

@@ -41,18 +41,27 @@ des dispositions de l'article L. 115-3 du code de l'action sociale et des
 familles ;
 
 12° Les conditions de la responsabilité contractuelle du fournisseur et du
-gestionnaire du réseau de distribution ;
+gestionnaire du réseau de distribution et les modalités de remboursement ou de
+compensation en cas d'erreur ou de retard de facturation ou lorsque les niveaux
+de qualité des services prévus dans le contrat ne sont pas atteints ;
 
 13° L'existence du droit de rétractation prévu aux articles L. 121-20 et L.
 121-25 du présent code ;
 
 14° Les conditions et modalités de résiliation du contrat ;
 
-15° Les modes de règlement amiable des litiges ;
+15° Les modes de règlement amiable et contentieux des litiges ;
 
 16° Les conditions d'accès à la tarification spéciale " produit de première
 nécessité " pour l'électricité et au tarif spécial de solidarité pour le gaz
-naturel.
+naturel ;
+
+17° Les coordonnées du site internet qui fournit gratuitement aux consommateurs
+soit directement, soit par l'intermédiaire de liens avec des sites internet
+d'organismes publics ou privés, les informations contenues dans l'aide-mémoire
+du consommateur d'énergie établi par la Commission européenne ou, à défaut, dans
+un document équivalent établi par les ministres chargés de la consommation et de
+l'énergie.
 
 Ces informations sont mises à la disposition du consommateur par écrit ou sur
 support durable préalablement à la conclusion du contrat. Le consommateur n'est
