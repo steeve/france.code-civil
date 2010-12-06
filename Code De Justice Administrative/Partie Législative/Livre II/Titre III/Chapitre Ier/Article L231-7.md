@@ -16,10 +16,6 @@ de président et de membre du gouvernement de la Polynésie française et le man
 de représentant à l'assemblée de la Polynésie française sont incompatibles avec
 les fonctions de magistrat des juridictions administratives.
 
-Conformément à l'article LO 465 du code électoral, le mandat de conseiller
-général de Mayotte est incompatible avec les fonctions de magistrat des
-juridictions administratives.
-
 Conformément aux articles LO 493, LO 520 et LO 548 du même code, le mandat de
 conseiller territorial de Saint-Barthélemy, de Saint-Martin ou de
 Saint-Pierre-et-Miquelon est incompatible avec les fonctions de magistrat des

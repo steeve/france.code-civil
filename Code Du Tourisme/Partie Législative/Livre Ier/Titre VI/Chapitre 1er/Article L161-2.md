@@ -8,7 +8,7 @@ territoriales ci-après reproduit :
 
 " Art.L. 4433-2 du code général des collectivités territoriales.
 
-Les conseils régionaux de Guadeloupe, de Guyane, de Martinique et de La Réunion
-peuvent créer des établissements publics dénommés agences, chargés d'assurer la
-réalisation des projets intéressant la région ainsi que le fonctionnement des
-services publics régionaux. "
+Les conseils régionaux de Guadeloupe, de Guyane, de Martinique, de Mayotte et de
+La Réunion peuvent créer des établissements publics dénommés agences, chargés
+d'assurer la réalisation des projets intéressant la région ainsi que le
+fonctionnement des services publics régionaux. "

@@ -1,9 +1,9 @@
 Article L4433-27
 ----
-Les régions de Guadeloupe, de Guyane, de Martinique et de la Réunion définissent
-les actions qu'elles entendent mener en matière culturelle, après avis ou, le
-cas échéant, sur proposition des collectivités territoriales et du conseil de la
-culture, de l'éducation et de l'environnement.
+Les régions de Guadeloupe, de Guyane, de Martinique, de Mayotte et de la Réunion
+définissent les actions qu'elles entendent mener en matière culturelle, après
+avis ou, le cas échéant, sur proposition des collectivités territoriales et du
+conseil de la culture, de l'éducation et de l'environnement.
 
 A cette fin, le conseil régional élabore un programme culturel régional,
 notamment dans le domaine des langues régionales, de la littérature, des arts

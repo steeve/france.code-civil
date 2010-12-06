@@ -1,18 +1,18 @@
 Article L4433-17
 ----
-Les régions de Guadeloupe, de Guyane, de Martinique et de la Réunion sont
-associées, par convention avec l'Etat et les établissements publics spécialisés,
-à l'élaboration et à la mise en oeuvre de l'inventaire minier. Elles sont
-consultées par l'Etat sur les programmes de prospection et d'exploitation des
-ressources minières.
+Les régions de Guadeloupe, de Guyane, de Martinique, de Mayotte et de la Réunion
+sont associées, par convention avec l'Etat et les établissements publics
+spécialisés, à l'élaboration et à la mise en oeuvre de l'inventaire minier.
+Elles sont consultées par l'Etat sur les programmes de prospection et
+d'exploitation des ressources minières.
 
 Toutefois, l'inventaire minier en mer est élaboré et mis en oeuvre par les
 régions.
 
 Dans le respect des droits de souveraineté et de propriété de l'Etat sur son
-domaine public maritime, les régions de Guadeloupe, Guyane, Martinique et de la
-Réunion exercent les compétences définies aux articles L. 611-31 et L. 611-32 du
-code minier.
+domaine public maritime, les régions de Guadeloupe, Guyane, Martinique, de
+Mayotte et de la Réunion exercent les compétences définies aux articles L.
+611-31 et L. 611-32 du code minier.
 
 Les services de l'Etat qui participent à l'exercice des compétences transférées
 aux régions en application du présent article sont, en tant que de besoin, mis à

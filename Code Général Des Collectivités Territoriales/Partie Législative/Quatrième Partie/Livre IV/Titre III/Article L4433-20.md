@@ -1,7 +1,7 @@
 Article L4433-20
 ----
-Les régions de Guadeloupe, de Guyane, de Martinique et de la Réunion sont
-consultées sur les programmes d'exploitation et les modifications de tarifs
+Les régions de Guadeloupe, de Guyane, de Martinique, de Mayotte et de la Réunion
+sont consultées sur les programmes d'exploitation et les modifications de tarifs
 soumis par les compagnies françaises à l'approbation de l'Etat pour les liaisons
 aériennes et maritimes desservant ces régions.
 

@@ -9,7 +9,7 @@ Cantons de : Melun Nord, Melun Sud, Perthes
 2e circonscription
 
 Cantons de : La Chapelle-la-Reine, Château-Landon, Fontainebleau,
-Lorrez-le-Bocage-Préaux, Nemours.
+Lorrez-le-Bocage-Préaux, Nemours
 
 3e circonscription
 
@@ -19,7 +19,7 @@ Mormant
 4e circonscription
 
 Cantons de : Bray-sur-Seine, Donnemarie-Dontilly, La Ferté-Gaucher, Nangis,
-Provins, Rebais, Rozay-en-Brie, Villiers-Saint-Georges.
+Provins, Rebais, Rozay-en-Brie, Villiers-Saint-Georges
 
 5e circonscription
 
@@ -88,11 +88,11 @@ Les Clayes-sous-Bois
 
 4e circonscription
 
-Cantons de : Chatou, Houilles, Marly-le-Roi.
+Cantons de : Chatou, Houilles, Marly-le-Roi
 
 5e circonscription
 
-Cantons de Maisons-Laffitte, Sartrouville, Le Vésinet.
+Cantons de : Maisons-Laffitte, Sartrouville, Le Vésinet
 
 6e circonscription
 
@@ -102,18 +102,18 @@ Communes de Carrières-sous-Poissy, Médan et Villennes-sur-Seine
 
 7e circonscription
 
-Cantons de: Andrésy, Conflans-Sainte-Honorine, Meulan (moins les communes des
-Mureaux et de Chapet), Triel-sur-Seine.
+Cantons de : Andrésy, Conflans-Sainte-Honorine, Meulan (moins les communes des
+Mureaux et de Chapet), Triel-sur-Seine
 
 8e circonscription
 
-Cantons de: Limay, Mantes-la-Jolie, Mantes-la-Ville.
+Cantons de : Limay, Mantes-la-Jolie, Mantes-la-Ville
 
 9e circonscription
 
-Cantons de: Aubergenville, Bonnières-sur-Seine, Guerville, Houdan.
+Cantons de : Aubergenville, Bonnières-sur-Seine, Guerville, Houdan
 
-Communes de : Les Mureaux, Chapet.
+Communes de : Les Mureaux, Chapet
 
 10e circonscription
 
@@ -223,7 +223,7 @@ Saint-Antonin-Noble-Val, Villebrumier)
 
 Cantons de : Auvillar, Beaumont-de-Lomagne, Bourg-de-Visa, Castelsarrasin I,
 Castelsarrasin II, Grisolles, Lauzerte, Lavit, Moissac I, Moissac II, Montech,
-Montaigu-de-Quercy, Saint-Nicolas-de-la-Grave, Valence, Verdun-sur-Garonne.
+Montaigu-de-Quercy, Saint-Nicolas-de-la-Grave, Valence, Verdun-sur-Garonne
 
 
 Var
@@ -271,7 +271,7 @@ Vaucluse
 
 1re circonscription
 
-Cantons de : Avignon Est, Avignon Nord, Avignon Ouest, Avignon Sud.
+Cantons de : Avignon Est, Avignon Nord, Avignon Ouest, Avignon Sud
 
 2e circonscription
 
@@ -284,7 +284,7 @@ Cantons de : Bédarrides, Carpentras Sud, Pernes-les-Fontaines
 4e circonscription
 
 Cantons de : Beaumes-de-Venise, Bollène, Malaucène, Orange Est, Orange Ouest,
-Vaison-la-Romaine, Valréas.
+Vaison-la-Romaine, Valréas
 
 5e circonscription
 
@@ -296,27 +296,27 @@ Vendée
 1re circonscription
 
 Cantons de : Challans, Les Essarts, Palluau, Le Poiré-sur-Vie, Rocheservière, La
-Roche-sur-Yon Nord.
+Roche-sur-Yon Nord
 
 2e circonscription
 
 Cantons de : Chantonnay, Mareuil-sur-Lay-Dissais, La Mothe-Achard,
-Moutiers-les-Mauxfaits, La Roche-sur-Yon Sud, Talmont-Saint-Hilaire.
+Moutiers-les-Mauxfaits, La Roche-sur-Yon Sud, Talmont-Saint-Hilaire
 
 3e circonscription
 
 Cantons de : Beauvoir-sur-Mer, L'Ile-d'Yeu, Noirmoutier-en-l'Ile, Les
-Sables-d'Olonne, Saint-Gilles-Croix-de-Vie, Saint-Jean-de-Monts.
+Sables-d'Olonne, Saint-Gilles-Croix-de-Vie, Saint-Jean-de-Monts
 
 4e circonscription
 
 Cantons de : Les Herbiers, Montaigu, Mortagne-sur-Sèvre, Pouzauges,
-Saint-Fulgent.
+Saint-Fulgent
 
 5e circonscription
 
 Cantons de : Chaillé-les-Marais, La Châtaigneraie, Fontenay-le-Comte,
-L'Hermenault, Luçon, Maillezais, Sainte-Hermine, Saint-Hilaire-des-Loges.
+L'Hermenault, Luçon, Maillezais, Sainte-Hermine, Saint-Hilaire-des-Loges
 
 
 Vienne
@@ -329,7 +329,7 @@ VII, Saint-Georges-lès-Baillargeaux, Saint-Julien-l'Ars
 2e circonscription
 
 Cantons de : Poitiers III, Poitiers IV, Poitiers V, Poitiers VI, La
-Villedieu-du-Clain, Vivonne, Vouillé.
+Villedieu-du-Clain, Vivonne, Vouillé
 
 3e circonscription
 
@@ -342,7 +342,7 @@ Trimouille, Vouneuil-sur-Vienne, commune de La Puye
 Cantons de : Châtellerault Nord, Châtellerault Ouest, Châtellerault Sud,
 Dangé-Saint-Romain, Lencloître, Loudun, Moncontour, Monts-sur-Guesnes,
 Pleumartin (moins la commune de La Puye), Saint-Gervais-les-Trois-Clochers, Les
-Trois-Moutiers.
+Trois-Moutiers
 
 
 Haute-Vienne
@@ -373,22 +373,22 @@ Vosges
 1re circonscription
 
 Cantons de : Châtel-sur-Moselle, Epinal Est, Epinal Ouest, RamberviIlers,
-Xertigny.
+Xertigny
 
 2e circonscription
 
 Cantons de : Brouvelieures, Bruyères, Corcieux, Fraize, Provenchères-sur-Fave,
-Raon-l'Etape, Saint-Dié Est, Saint-Dié Ouest, Senones.
+Raon-l'Etape, Saint-Dié Est, Saint-Dié Ouest, Senones
 
 3e circonscription
 
 Cantons de : Gérardmer, Plombières-les-Bains, Remiremont,
-Saulxures-sur-Moselotte, Le Thillot.
+Saulxures-sur-Moselotte, Le Thillot
 
 4e circonscription
 
 Cantons de : Bains-les-Bains, Bulgnéville, Charmes, Châtenois, Coussey, Darney,
-Dompaire, Lamarche, Mirecourt, Monthureux-sur-Saône, Neufchâteau, Vittel.
+Dompaire, Lamarche, Mirecourt, Monthureux-sur-Saône, Neufchâteau, Vittel
 
 
 Yonne
@@ -399,8 +399,8 @@ Cantons de : Aillant-sur-Tholon, Auxerre Est, Auxerre Nord, Auxerre Nord-Ouest,
 Auxerre Sud, Auxerre Sud-Ouest, Bléneau, Charny, Coulanges-la-Vineuse,
 Courson-les-Carrières, Saint-Fargeau, Saint-Sauveur-en-Puisaye, Toucy
 
-Communes de : Andryes, Etais-la-Sauvin (issues du canton de Coulanges-sur-Yonne)
-Monéteau (issue du canton de Seignelay)
+Communes de : Andryes, Etais-la-Sauvin (issues du canton de
+Coulanges-sur-Yonne), Monéteau (issue du canton de Seignelay)
 
 2e circonscription
 
@@ -422,23 +422,23 @@ Territoire de Belfort
 1re circonscription
 
 Cantons : Beaucourt, Belfort Centre, Belfort Est, Danjoutin, Delle, Fontaine,
-Grandvillars.
+Grandvillars
 
 2e circonscription
 
 Cantons : Belfort Nord, Belfort Ouest, Belfort Sud, Châtenois-les-Forges,
-Giromagny, Offemont, Rougemont-le-Château, Valdoie.
+Giromagny, Offemont, Rougemont-le-Château, Valdoie
 
 
 Essonne
 
 1re circonscription
 
-Cantons de : Corbeil-Essonnes Est, Corbeil-Essonnes Ouest, Evry Nord, Evry Sud.
+Cantons de : Corbeil-Essonnes Est, Corbeil-Essonnes Ouest, Evry Nord, Evry Sud
 
 2e circonscription
 
-Cantons de : Etampes, La Ferté-Alais, Mennecy, Méréville, Milly-la-Forêt.
+Cantons de : Etampes, La Ferté-Alais, Mennecy, Méréville, Milly-la-Forêt
 
 3e circonscription
 
@@ -453,28 +453,28 @@ Communes de : Bruyères-le-Châtel, Ollainville
 
 5e circonscription
 
-Cantons de : Bièvres, Gif-sur-Yvette, Orsay, Les Ulis.
+Cantons de : Bièvres, Gif-sur-Yvette, Orsay, Les Ulis
 
 6e circonscription
 
-Cantons de : Chilly-Mazarin, Massy Est, Massy Ouest, Palaiseau.
+Cantons de : Chilly-Mazarin, Massy Est, Massy Ouest, Palaiseau
 
 7e circonscription
 
-Cantons de : Athis-Mons, Juvisy-sur-Orge, Savigny-sur-Orge, Viry-Châtillon.
+Cantons de : Athis-Mons, Juvisy-sur-Orge, Savigny-sur-Orge, Viry-Châtillon
 
 8e circonscription
 
-Cantons de : Brunoy, Montgeron, Vigneux-sur-Seine, Yerres.
+Cantons de : Brunoy, Montgeron, Vigneux-sur-Seine, Yerres
 
 9e circonscription
 
-Cantons de: Draveil, Epinay-sous-Sénart, Ris-Orangis, Saint-Germain-lès-Corbeil.
+Cantons de : Draveil, Epinay-sous-Sénart, Ris-Orangis, Saint-Germain-lès-Corbeil
 
 10e circonscription
 
-Cantons de: Grigny, Morsang-sur-Orge, Sainte-Geneviève-des-Bois,
-Saint-Michel-sur-Orge.
+Cantons de : Grigny, Morsang-sur-Orge, Sainte-Geneviève-des-Bois,
+Saint-Michel-sur-Orge
 
 
 Hauts-de-Seine
@@ -482,11 +482,11 @@ Hauts-de-Seine
 1re circonscription
 
 Cantons de : Colombes Nord-Est, Colombes Nord-Ouest, Gennevilliers Nord,
-Gennevilliers Sud, Villeneuve-la-Garenne.
+Gennevilliers Sud, Villeneuve-la-Garenne
 
 2e circonscription
 
-Cantons de : Asnières-sur-Seine Nord, Asnières-sur-Seine Sud, Colombes Sud.
+Cantons de : Asnières-sur-Seine Nord, Asnières-sur-Seine Sud, Colombes Sud
 
 3e circonscription
 
@@ -499,11 +499,11 @@ Courbevoie Nord jusqu'à la limite de la commune de Puteaux), La Garenne-Colombe
 
 4e circonscription
 
-Cantons de : Nanterre Nord, Nanterre Sud-Est, Nanterre Sud-Ouest, Suresnes.
+Cantons de : Nanterre Nord, Nanterre Sud-Est, Nanterre Sud-Ouest, Suresnes
 
 5e circonscription
 
-Cantons de : Clichy, Levallois-Perret Nord, Levallois-Perret Sud.
+Cantons de : Clichy, Levallois-Perret Nord, Levallois-Perret Sud
 
 6e circonscription
 
@@ -512,47 +512,46 @@ Neuilly-sur-Seine Nord, Neuilly-sur-seine Sud, Puteaux
 
 7e circonscription
 
-Cantons de : Garches, Rueil-Malmaison, Saint-Cloud.
+Cantons de : Garches, Rueil-Malmaison, Saint-Cloud
 
 8e circonscription
 
-Cantons de: Chaville, Meudon, Sèvres.
+Cantons de : Chaville, Meudon, Sèvres
 
 9e circonscription
 
 Cantons de : Boulogne-Billancourt Nord-Est, Boulogne-Billancourt Nord-Ouest,
 Boulogne-Billancourt Sud (partie située au nord d'une ligne définie par l'axe
 des voies ci-après : rue Yves-Kermen, avenue Pierre-Grenier, boulevard de la
-République jusqu'au pont d'Issy).
+République jusqu'au pont d'Issy)
 
 10e circonscription
 
 Cantons de : Boulogne-Billancourt Sud (partie non comprise dans la 9
-circonscription), Issy-les-Moulineaux Est, Issy-les-Moulineaux Ouest, Vanves.
+circonscription), Issy-les-Moulineaux Est, Issy-les-Moulineaux Ouest, Vanves
 
 11e circonscription
 
-Cantons de : Bagneux, Malakoff, Montrouge.
+Cantons de : Bagneux, Malakoff, Montrouge
 
 12e circonscription
 
-Cantons de : Châtillon, Clamart, Fontenay-aux-Roses, Le Plessis-Robinson.
+Cantons de : Châtillon, Clamart, Fontenay-aux-Roses, Le Plessis-Robinson
 
 13e circonscription
 
-Cantons de : Antony, Bourg-la-Reine, Châtenay-Malabry, Sceaux.
+Cantons de : Antony, Bourg-la-Reine, Châtenay-Malabry, Sceaux
 
 
 Seine-Saint-Denis
 
 1re circonscription
 
-Cantons de : Epinay-sur-Seine, Saint-Denis Sud, Saint Ouen.
+Cantons de : Epinay-sur-Seine, Saint-Denis Sud, Saint Ouen
 
 2e circonscription
 
-Cantons de : Pierrefitte-sur-Seine, Saint-Denis Nord-Est, Saint-Denis
-Nord-Ouest.
+Cantons de : Pierrefitte-sur-Seine, Saint-Denis Nord-Est, Saint-Denis Nord-Ouest
 
 3e circonscription
 
@@ -576,7 +575,7 @@ Cantons de : Bagnolet, Montreuil Est, Montreuil Nord, Montreuil Ouest
 
 8e circonscription
 
-Cantons de : Gagny, Rosny-sous-Bois, Villemomble.
+Cantons de : Gagny, Rosny-sous-Bois, Villemomble
 
 9e circonscription
 
@@ -589,11 +588,11 @@ Pavillons-sous-Bois
 
 11e circonscription
 
-Cantons de : Sevran, Tremblay-en-France, Villepinte.
+Cantons de : Sevran, Tremblay-en-France, Villepinte
 
 12e circonscription
 
-Cantons de : Livry-Gargan, Montfermeil, Le Raincy.
+Cantons de : Livry-Gargan, Montfermeil, Le Raincy
 
 
 Val-de-Marne
@@ -605,17 +604,17 @@ Saint-Maur-des-Fossés Centre, Saint-Maur-des-Fossés Ouest, Saint-Maur-la-Varen
 
 2e circonscription
 
-Cantons de : Choisy-le-Roi, Créteil Ouest, Créteil Sud, Orly.
+Cantons de : Choisy-le-Roi, Créteil Ouest, Créteil Sud, Orly
 
 3e circonscription
 
 Cantons de : Boissy-Saint-Léger, Valenton, Villecresnes, Villeneuve-le-Roi,
-Villeneuve-Saint-Georges.
+Villeneuve-Saint-Georges
 
 4e circonscription
 
 Cantons de : Chennevières-sur-Marne, Ormesson-sur-Marne, Sucy-en-Brie,
-Villiers-sur-Marne.
+Villiers-sur-Marne
 
 5e circonscription
 
@@ -625,7 +624,7 @@ Nogent-sur-Marne, Le Perreux-sur-Marne
 6e circonscription
 
 Cantons de : Fontenay-sous-Bois Est, Fontenay-sous-Bois Ouest, Saint-Mandé,
-Vincennes Est, Vincennes Ouest.
+Vincennes Est, Vincennes Ouest
 
 7e circonscription
 
@@ -639,23 +638,23 @@ Maisons-Alfort Sud
 9e circonscription
 
 Cantons de : Alfortville Nord, Alfortville Sud, Vitry-sur-Seine Est,
-Vitry-sur-Seine Ouest.
+Vitry-sur-Seine Ouest
 
 10e circonscription
 
 Cantons de : Ivry-sur-Seine Est, Ivry-sur-Seine Ouest, Le Kremlin-Bicêtre,
-Vitry-sur-Seine Nord.
+Vitry-sur-Seine Nord
 
 11e circonscription
 
-Cantons de : Arcueil, Cachan, Villejuif Est, Villejuif Ouest.
+Cantons de : Arcueil, Cachan, Villejuif Est, Villejuif Ouest
 
 Val-d'Oise
 
 1re circonscription
 
 Cantons de : Beaumont-sur-Oise, Magny-en-Vexin, Marines, Pontoise, La
-Vallée-du-Sausseron, Vigny.
+Vallée-du-Sausseron, Vigny
 
 2e circonscription
 
@@ -664,19 +663,19 @@ Neuville-sur-Oise
 
 3e circonscription
 
-Cantons de : Beauchamp, Cormeilles-en-Parisis, Herblay, Taverny.
+Cantons de : Beauchamp, Cormeilles-en-Parisis, Herblay, Taverny
 
 4e circonscription
 
-Cantons de : Eaubonne, Ermont, Franconville, Saint-Leu-la-Forêt.
+Cantons de : Eaubonne, Ermont, Franconville, Saint-Leu-la-Forêt
 
 5e circonscription
 
-Cantons de : Argenteuil Est, Argenteuil Nord, Argenteuil Ouest, Bezons.
+Cantons de : Argenteuil Est, Argenteuil Nord, Argenteuil Ouest, Bezons
 
 6e circonscription
 
-Cantons de : Enghien-les-Bains, Saint-Gratien, Sannois, Soisy-sous-Montmorency.
+Cantons de : Enghien-les-Bains, Saint-Gratien, Sannois, Soisy-sous-Montmorency
 
 7e circonscription
 
@@ -685,11 +684,11 @@ Cantons de : Domont, Ecouen, Montmorency, Sarcelles Sud-Ouest
 8e circonscription
 
 Cantons de : Garges-lès-Gonesse Est, Garges-lès-Gonesse Ouest, Sarcelles
-Nord-Est, Villiers-le-Bel.
+Nord-Est, Villiers-le-Bel
 
 9e circonscription
 
-Cantons de : Gonesse, Goussainville, Luzarches.
+Cantons de : Gonesse, Goussainville, Luzarches
 
 10e circonscription
 
@@ -762,7 +761,20 @@ Rivière-Salée, Saint-Esprit, Sainte-Anne, Sainte-Luce, Les Trois-Ilets, Le
 Vauclin
 
 
-Réunion
+Mayotte
+
+1re circonscription
+
+Cantons de : Acoua, Bandraboua, Dzaoudzi, Koungou, Mamoudzou I, Mamoudzou II,
+Mtsamboro, Pamandzi
+
+2e circonscription
+
+Cantons de : Bandrele, Bouéni, Chiconi, Chirongui, Dembeni, Kani-Kéli, Mamoudzou
+III, M'Tsangamouji, Ouangani, Sada, Tsingoni
+
+
+La Réunion
 
 1re circonscription
 

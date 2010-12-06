@@ -1,6 +1,6 @@
 Article L4433-12
 ----
-Les régions de Guadeloupe, de Guyane, de Martinique et de la Réunion
+Les régions de Guadeloupe, de Guyane, de Martinique, de Mayotte et de la Réunion
 définissent, en liaison avec les collectivités publiques et les organisations
 professionnelles, leurs orientations en matière de développement de
 l'agriculture et de la forêt, notamment à l'occasion de l'élaboration du plan.

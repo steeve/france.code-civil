@@ -16,9 +16,9 @@ ordinaires en deçà duquel le jugement des comptes et l'examen de la gestion de
 Dans les conditions définies au deuxième alinéa, le jugement des comptes et
 l'examen de la gestion de tout ou partie des établissements publics nationaux
 relevant d'une même catégorie et ayant leur siège en Polynésie française, en
-Nouvelle-Calédonie, à Mayotte, à Saint-Barthélemy, à Saint-Martin ou à
+Nouvelle-Calédonie, à Saint-Barthélemy, à Saint-Martin ou à
 Saint-Pierre-et-Miquelon peuvent être délégués aux chambres territoriales des
-comptes de Polynésie française, de Nouvelle-Calédonie, de Mayotte, de
-Saint-Barthélemy, de Saint-Martin ou de Saint-Pierre-et-Miquelon par arrêté du
-premier président de la Cour des comptes pris après avis du procureur général
-près la Cour des comptes et du président de la chambre territoriale des comptes.
+comptes de Polynésie française, de Nouvelle-Calédonie, de Saint-Barthélemy, de
+Saint-Martin ou de Saint-Pierre-et-Miquelon par arrêté du premier président de
+la Cour des comptes pris après avis du procureur général près la Cour des
+comptes et du président de la chambre territoriale des comptes.

@@ -1,4 +1,7 @@
 Article L3521-1
 ----
-Les articles L. 3112-2, L. 3113-1 et L. 3113-2 sont applicables à la
-collectivité départementale de Mayotte.
+Le Département de Mayotte comprend la Grande-Terre la Petite-Terre ainsi que les
+autres îles et îlots situés dans le récif les entourant.
+
+Il fait partie de la République et ne peut cesser d'y appartenir sans le
+consentement de sa population.
