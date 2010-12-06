@@ -28,8 +28,9 @@ locatif, l'accession à la propriété de logements sociaux et le développement
 l'offre foncière.
 
 Pour l'application du présent I, le coût des services assurés dans le cadre d'un
-contrat d'entreprise correspond à la dépense, toutes taxes comprises, acquittée
-par le bailleur.
+contrat d'entreprise ou d'un contrat d'achat d'électricité, d'énergie
+calorifique ou de gaz naturel combustible, distribués par réseaux correspond à
+la dépense, toutes taxes comprises, acquittée par le bailleur.
 
 II.-Lorsque des travaux d'économie d'énergie sont réalisés par le bailleur dans
 les parties privatives d'un logement ou dans les parties communes de l'immeuble,

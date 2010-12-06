@@ -28,4 +28,8 @@ d'industrie, des chambres d'agriculture, ainsi que les salariés des
 dans leurs corps en vue d'assurer des fonctions soit dans l'entreprise, en
 application du cinquième alinéa de l'article 29 de la loi n° 90-568 du 2 juillet
 1990 relative à l'organisation du service public de la poste et des
-télécommunications, soit dans l'une de ses filiales.
+télécommunications, soit dans l'une de ses filiales ;
+
+6° Les salariés des entreprises de la branche professionnelle des industries
+électriques et gazières soumis au statut national du personnel des industries
+électriques et gazières.

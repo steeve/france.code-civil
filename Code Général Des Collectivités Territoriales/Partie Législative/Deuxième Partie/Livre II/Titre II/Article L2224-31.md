@@ -29,7 +29,17 @@ les schémas régionaux du climat, de l'air et de l'énergie et les plans
 climat-énergie territoriaux prévus par les articles L. 222-1 à L. 222-3, L.
 229-25 et L. 229-26 du code de l'environnement ainsi qu'un bilan détaillé de la
 contribution du concessionnaire aux plans climat-énergie territoriaux qui le
-concernent.
+concernent. Chaque organisme de distribution d'électricité et de gaz transmet à
+chacune des autorités concédantes précitées un compte rendu de la politique
+d'investissement et de développement des réseaux prévue au 1° du II de l'article
+13 de la loi n° 2004-803 du 9 août 2004 relative au service public de
+l'électricité et du gaz et aux entreprises électriques et gazières. Sur la base
+de ce compte rendu, les autorités organisatrices établissent un bilan détaillé
+de la mise en œuvre du programme prévisionnel de tous les investissements
+envisagés sur le réseau de distribution. Ce programme prévisionnel, qui précise
+notamment le montant et la localisation des travaux, est élaboré à l'occasion
+d'une conférence départementale réunie sous l'égide du préfet et transmis à
+chacune des autorités concédantes.
 
 Des fonctionnaires et agents parmi ceux qui sont chargés des missions de
 contrôle visées aux alinéas précédents sont habilités à cet effet par le maire
@@ -165,3 +175,13 @@ est assurée par des organismes de distribution distincts, l'autorité
 organisatrice de la distribution peut, nonobstant toutes dispositions
 contraires, confier à l'un de ces organismes la distribution sur tout le
 territoire de la commune à la date de son choix.
+
+Si la compétence d'autorité organisatrice de la distribution d'électricité ou de
+gaz a été transférée, dans une de ces communes, à un établissement public de
+coopération intercommunale avant la publication de la loi n° 2004-803 du 9 août
+2004 précitée, cette commune peut, nonobstant toutes dispositions contraires,
+être autorisée par le représentant de l'Etat dans le département, après avis de
+la commission départementale de la coopération intercommunale réunie dans la
+formation prévue au second alinéa de l'article L. 5211-45, à se retirer de
+l'établissement public de coopération intercommunale lorsque cet établissement
+ne décide pas d'exercer le droit prévu au premier alinéa du présent V.
