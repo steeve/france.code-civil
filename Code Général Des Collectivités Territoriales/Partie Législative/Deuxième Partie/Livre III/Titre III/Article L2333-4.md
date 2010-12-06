@@ -1,48 +1,31 @@
 Article L2333-4
 ----
-Le taux de cette taxe ne peut dépasser 8 %.
+La taxe mentionnée à l'article L. 2333-2 est assise selon les mêmes règles que
+celles mentionnées à l'article L. 3333-3.
 
-Les communes qui bénéficient à la date de promulgation de la loi de finances
-rectificative pour 1984 (n° 84-1209 du 29 décembre 1984) de la possibilité de
-dépasser le taux de 8 % conservent cette possibilité si elles peuvent justifier
-de charges d'électrification non couvertes par le taux maximum de la taxe
-mentionnée ci-dessus.
+Lorsque la taxe est instituée au profit de la commune, le conseil municipal en
+fixe le tarif en appliquant aux montants mentionnés à l'article L. 3333-3 un
+coefficient multiplicateur unique compris entre 0 et 8. A partir de l'année
+2012, la limite supérieure du coefficient multiplicateur est actualisée en
+proportion de l'indice moyen des prix à la consommation hors tabac établi pour
+l'année précédente par rapport au même indice établi pour l'année 2009. Les
+montants qui en résultent sont arrondis à la deuxième décimale la plus proche.
 
-La taxe est recouvrée par le gestionnaire du réseau de distribution pour les
-factures d'acheminement d'électricité acquittées par un consommateur final et
-par le fournisseur pour les factures portant sur la seule fourniture
-d'électricité ou portant à la fois sur l'acheminement et la fourniture
-d'électricité.
+La décision du conseil municipal doit être adoptée avant le 1er octobre pour
+être applicable l'année suivante. Le maire la transmet, s'il y a lieu, au
+comptable public assignataire de la commune au plus tard quinze jours après la
+date limite prévue pour son adoption.
 
-Le fournisseur d'électricité non établi en France redevable de la taxe est tenu
-de faire accréditer auprès du ministre chargé des collectivités territoriales un
-représentant établi en France, qui se porte garant du paiement de la taxe en cas
-de défaillance du redevable.
+La décision ainsi communiquée demeure applicable tant qu'elle n'est pas
+rapportée ou modifiée par une nouvelle décision.
 
-Les gestionnaires de réseaux de distribution et les fournisseurs tiennent à
-disposition des agents habilités à cet effet par le maire, assermentés dans les
-conditions prévues par l'article L. 2224-31, tous documents nécessaires au
-contrôle de la liquidation et du recouvrement de la taxe, sans que puisse leur
-être opposé le secret professionnel ou les dispositions de l'article 20 de la
-loi n° 2000-108 du 10 février 2000 précitée.
+Pour 2011, le coefficient multiplicateur mentionné au deuxième alinéa est, sous
+réserve du respect des limites qui y sont fixées, égal à la multiplication par
+100 du taux en valeur décimale appliqué au 31 décembre 2010 conformément à
+l'article L. 2333-4 dans sa rédaction antérieure à la promulgation de la loi n°
+2010-1488 du 7 décembre 2010 portant nouvelle organisation du marché de
+l'électricité.
 
-Un arrêté des ministres chargés des collectivités territoriales et de l'énergie
-précise les documents à produire à la commune par le gestionnaire de réseau ou
-par le fournisseur, à l'appui du reversement de la taxe.
-
-Le défaut, l'insuffisance ou le retard dans le reversement de la taxe
-effectivement perçue donne lieu au versement, par le gestionnaire de réseau ou
-par le fournisseur, d'un intérêt de retard au taux légal, indépendamment de
-toute sanction.
-
-En cas de non-facturation de la taxe ou d'entrave à l'exercice du contrôle par
-les agents mentionnés ci-dessus, le montant de la taxe due est reconstitué
-d'office par la commune et majoré d'une pénalité égale à 80 % de ce montant.
-
-Les communes qui, avant le 30 décembre 1984, bénéficiaient de la possibilité de
-dépasser le taux de 8 % peuvent majorer ce taux pour obtenir des ressources
-équivalentes à celles que leur procuraient, avant le 27 décembre 1969, la taxe
-sur l'électricité et les surtaxes ou majorations de tarifs.
-
-Un décret en Conseil d'Etat fixe les conditions d'application du présent
-article.
+En cas de changement du tarif de la taxe au cours d'une période de facturation,
+les quantités d'électricité concernées sont réparties en fonction des tarifs
+proportionnellement au nombre de jours de chaque période.

@@ -1,6 +1,6 @@
 Article 265 C
 ----
-I.- Les produits énergétiques mentionnés à l'article 265 ne sont pas soumis aux
+I.-Les produits énergétiques mentionnés à l'article 265 ne sont pas soumis aux
 taxes intérieures de consommation :
 
 1° Lorsqu'il s'agit de produits repris aux codes NC 4401 et 4402 de la
@@ -11,18 +11,17 @@ utilisés à la fois comme combustible et pour des usages autres que carburant o
 combustible.
 
 Sont notamment considérés comme produits à double usage les combustibles
-utilisés dans des procédés métallurgiques ou de réduction chimique. Le bénéfice
-de la présente mesure est limité aux seules quantités de produits énergétiques
-utilisés pour ce double usage ;
+utilisés dans des procédés métallurgiques, d'électrolyse ou de réduction
+chimique. Le bénéfice de la présente mesure est limité aux seules quantités de
+produits énergétiques utilisés pour ce double usage ;
 
 3° Lorsqu'ils sont utilisés dans un procédé de fabrication de produits minéraux
 non métalliques, classé dans la nomenclature statistique des activités
 économiques dans la Communauté européenne, telle qu'elle résulte du règlement
-(CE) n° 1893 / 2006 du Parlement européen et du Conseil du 20 décembre 2006
+(CE) n° 1893/2006 du Parlement européen et du Conseil du 20 décembre 2006
 établissant la nomenclature statistique des activités économiques NACE Rév. 2 et
-modifiant le règlement (CEE) n° 3037 / 90 du Conseil ainsi que certains
-règlements (CE) relatifs à des domaines statistiques spécifiques, sous la
-division 23.
+modifiant le règlement (CEE) n° 3037/90 du Conseil ainsi que certains règlements
+(CE) relatifs à des domaines statistiques spécifiques, sous la division 23.
 
 II.-Les modalités d'application du I ainsi que les modalités du contrôle de la
 destination des produits et de leur affectation aux usages qui y sont mentionnés

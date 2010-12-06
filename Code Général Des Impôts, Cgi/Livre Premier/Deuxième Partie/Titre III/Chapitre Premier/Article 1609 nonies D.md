@@ -15,9 +15,6 @@ c) La taxe de séjour, lorsqu'elle répond aux conditions fixées aux articles L
 
 d) (Abrogé).
 
-e) la taxe sur les fournitures d'électricité dans les conditions prévues aux
-articles L. 2333-2 à L. 2333-5 du code général des collectivités territoriales,
-au lieu et place des communes membres dont la population est inférieure ou égale
-à 2 000 habitants. Dans ce cas, celle-ci est recouvrée sans frais par le
-gestionnaire du réseau de distribution ou le fournisseur. Le taux de la taxe ne
-peut dépasser 8 p. 100.
+e) La taxe communale sur la consommation finale d'électricité prévue à l'article
+L. 2333-2 du code général des collectivités territoriales en lieu et place des
+communes membres dont la population est inférieure ou égale à 2 000 habitants.

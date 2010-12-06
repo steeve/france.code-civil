@@ -1,8 +1,8 @@
 Article 266 quinquies B
 ----
-1. Les houilles, les lignites et les cokes repris aux codes NC 2701, 2702 et
-2704 et destinés à être utilisés comme combustible sont soumis à une taxe
-intérieure de consommation.
+1. Les houilles, les lignites et les cokes repris aux codes NC 2701,2702 et 2704
+et destinés à être utilisés comme combustible sont soumis à une taxe intérieure
+de consommation.
 
 2. Le fait générateur de la taxe intervient et la taxe est exigible lors de la
 livraison de ces produits par un fournisseur à un utilisateur final. Le fait
@@ -25,7 +25,7 @@ produits sur la déclaration en douane d'importation.
 
 3° Par l'utilisateur final mentionné au dernier alinéa du 2.
 
-4. 1° Les produits mentionnés au 1 ne sont pas soumis à la taxe intérieure de
+4.1° Les produits mentionnés au 1 ne sont pas soumis à la taxe intérieure de
 consommation lorsqu'ils sont utilisés :
 
 a) Autrement que comme combustible ;
@@ -34,7 +34,7 @@ b) A un double usage au sens du 2° du I de l'article 265 C ;
 
 c) Dans un procédé de fabrication de produits minéraux non métalliques, classé
 dans la nomenclature statistique des activités économiques dans la Communauté
-européenne, telle qu'elle résulte du règlement (CE) n° 1893 / 2006 du Parlement
+européenne, telle qu'elle résulte du règlement (CE) n° 1893/2006 du Parlement
 européen et du Conseil du 20 décembre 2006 précité, sous la division 23 ;
 
 2° Les houilles, lignites et cokes ne sont pas soumis à la taxe intérieure de
@@ -49,7 +49,9 @@ mentionnés sont fixées par décret.
 consommation lorsqu'ils sont utilisés :
 
 1° Pour la production d'électricité, à l'exclusion des produits utilisés dans
-des installations mentionnées à l'article 266 quinquies A ;
+des installations mentionnées à l'article 266 quinquies A et des produits
+utilisés pour leurs besoins par les petits producteurs d'électricité au sens du
+4° du V de l'article L. 3333-2 du code général des collectivités territoriales ;
 
 2° Pour les besoins de leur extraction et de leur production ;
 
@@ -66,9 +68,9 @@ objectifs environnementaux équivalents ou d'accroître leur rendement
 
 6. La taxe intérieure de consommation est assise sur la quantité d'énergie
 livrée, exprimée en mégawattheures, après arrondissement au mégawattheure le
-plus voisin. Le tarif de la taxe est fixé à 1, 19 par mégawattheure.
+plus voisin. Le tarif de la taxe est fixé à 1,19 par mégawattheure.
 
-7. 1° Les fournisseurs de houilles, de lignites ou de cokes établis en France
+7.1° Les fournisseurs de houilles, de lignites ou de cokes établis en France
 sont tenus de se faire enregistrer auprès de l'administration des douanes et
 droits indirects chargée du recouvrement de la taxe intérieure de consommation
 préalablement au commencement de leur activité.

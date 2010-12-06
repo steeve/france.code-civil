@@ -31,7 +31,4 @@ assurés ;
 
 8° Le produit du versement destiné aux transports en commun prévu à l'article L.
 2333-64, lorsque la communauté est compétente pour l'organisation des transports
-urbains ;
-
-9° La dotation de compensation de la réforme de la taxe professionnelle et le
-reversement du Fonds national de garantie individuelle des ressources.
+urbains.

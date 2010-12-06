@@ -30,7 +30,4 @@ assurés ;
 7° Le produit des emprunts ;
 
 8° Le produit du versement destiné aux transports en commun prévu à l'article L.
-2333-64 ;
-
-9° La dotation de compensation de la réforme de la taxe professionnelle et le
-reversement du Fonds national de garantie individuelle des ressources.
+2333-64.

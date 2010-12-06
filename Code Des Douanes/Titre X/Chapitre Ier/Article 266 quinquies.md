@@ -48,7 +48,9 @@ l'article 265 C.
 5. Le gaz naturel est exonéré de la taxe intérieure de consommation prévue au 1
 lorsqu'il est utilisé :
 
-a) Pour la production d'électricité.
+a) Pour la production d'électricité, à l'exclusion du gaz naturel utilisé par
+les petits producteurs d'électricité au sens du 4° du V de l'article L. 3333-2
+du code général des collectivités territoriales.
 
 Cette exonération ne s'applique pas au gaz naturel destiné à être utilisé dans
 les installations visées à l'article 266 quinquies A. Toutefois, les producteurs
@@ -79,7 +81,7 @@ les gaz repris au code NC 2705.
 
 8. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité
 d'énergie livrée, exprimée en mégawattheures, après arrondissement au
-mégawattheure le plus voisin et le tarif de la taxe est fixé à 1, 19 euros par
+mégawattheure le plus voisin et le tarif de la taxe est fixé à 1,19 euros par
 mégawattheure.
 
 9. a. Les fournisseurs de gaz naturel établis sur le territoire douanier de la

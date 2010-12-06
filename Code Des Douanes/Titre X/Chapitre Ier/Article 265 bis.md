@@ -28,10 +28,7 @@ exonération est accordée par voie de remboursement pour les produits consommé
 du 1er janvier 2006 au 1er janvier 2009. Toutefois, cette exonération ne
 s'applique pas aux produits pétroliers utilisés dans le cadre des actions n° s
 01,02,03 et 04 du programme n° 152 " Gendarmerie nationale " de la mission
-interministérielle " Sécurité ";
-
-e) Comme carburant ou combustible pour le transport de marchandises sur les
-voies navigables intérieures .
+interministérielle " Sécurité ".
 
 2. Les carburants destinés aux moteurs d'avions sont exonérés de la taxe
 intérieure de consommation lorsqu'ils sont utilisés dans le cadre de la
