@@ -1,32 +1,25 @@
 Article R621-40
 ----
-I.-La séance est publique à la demande de l'une des personnes mises en cause.
-Toutefois, le président de la formation peut interdire au public l'accès de la
-salle pendant tout ou partie de la séance dans l'intérêt de l'ordre public ou
-lorsque la publicité est susceptible de porter atteinte au secret des affaires
-ou à tout autre secret protégé par la loi.
-
-Le président de la formation assure la police de la séance.
-
-I bis.-Lors de la séance, le collège est représenté par une personne désignée à
-cette fin par le président de l'Autorité des marchés financiers, qu'elle soit ou
-non membre du collège ou des services.
+I.-En application du IV bis de l'article L. 621-15, le président de la formation
+saisie de l'affaire assure la police de la séance.
 
 II.-Lors de la séance, le rapporteur présente son rapport. Le commissaire du
-Gouvernement peut présenter des observations. Le représentant du collège peut
-présenter des observations au soutien des griefs notifiés. La personne mise en
-cause et, le cas échéant, son conseil présentent la défense de celle-ci. Le
-président de la formation saisie peut faire entendre toute personne dont il
-estime l'audition utile. Dans tous les cas, la personne mise en cause et, le cas
-échéant, son conseil doivent pouvoir prendre la parole en dernier. Lorsque la
-formation s'estime insuffisamment éclairée, elle demande au rapporteur de
-poursuivre ses diligences selon la procédure définie aux II et III de l'article
-R. 621-39.
+Gouvernement peut présenter des observations. Le membre du collège mentionné au
+troisième alinéa du I de l'article L. 621-15 ou son représentant désigné en
+application de cette disposition peut présenter des observations au soutien des
+griefs notifiés et proposer une sanction. La personne mise en cause et, le cas
+échéant, son conseil présentent la défense de celle-ci. Le président de la
+formation saisie peut faire entendre toute personne dont il estime l'audition
+utile. Dans tous les cas, la personne mise en cause et, le cas échéant, son
+conseil doivent pouvoir prendre la parole en dernier. Lorsque la formation
+s'estime insuffisamment éclairée, elle demande au rapporteur de poursuivre ses
+diligences selon la procédure définie aux II et III de l'article R. 621-39.
 
 III.-La formation statue en la seule présence de ses membres et d'un agent des
 services de l'Autorité des marchés financiers faisant office de secrétaire de
-séance, hors la présence du rapporteur du représentant du collège et du
-commissaire du Gouvernement.
+séance, hors la présence du rapporteur du membre du collège mentionné au
+troisième alinéa du I de l'article L. 621-15 ou son représentant désigné en
+application de cette disposition et du commissaire du Gouvernement.
 
 IV.-Le secrétaire de séance établit un compte rendu de la séance. Le compte
 rendu est signé par le président de la formation, le rapporteur et le secrétaire

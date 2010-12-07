@@ -21,3 +21,10 @@ qui lui ont été notifiés. La notification des griefs mentionne ce délai et
 précise que la personne mise en cause peut prendre connaissance et copie des
 autres pièces du dossier auprès de la commission des sanctions et se faire
 assister ou représenter par tout conseil de son choix.
+
+Le membre du collège mentionné au troisième alinéa du I de l'article L. 621-15
+ou son représentant désigné en application de cette disposition, qui a accès à
+l'ensemble des pièces du dossier, reçoit, de la part du secrétariat de la
+commission, une copie des observations écrites de la personne mise en cause sur
+les griefs qui lui ont été notifiés et peut y répondre par écrit. Ces
+observations écrites sont communiquées à la personne mise en cause.
