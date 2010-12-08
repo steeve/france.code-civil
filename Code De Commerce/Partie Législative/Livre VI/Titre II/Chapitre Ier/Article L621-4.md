@@ -22,7 +22,7 @@ désigner plusieurs mandataires judiciaires ou plusieurs administrateurs
 judiciaires.
 
 Toutefois, le tribunal n'est pas tenu de désigner un administrateur judiciaire
-lorsque la procédure est ouverte au bénéfice d'une personne dont le nombre de
+lorsque la procédure est ouverte au bénéfice d'un débiteur dont le nombre de
 salariés et le chiffre d'affaires hors taxes sont inférieurs à des seuils fixés
 par décret en Conseil d'Etat. Dans ce cas, les dispositions du chapitre VII du
 présent titre sont applicables. Jusqu'au jugement arrêtant le plan, le tribunal

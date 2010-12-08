@@ -6,14 +6,16 @@ tribunal peut charger le juge-commissaire ou, à défaut, un membre de la
 juridiction qu'il désigne d'obtenir, nonobstant toute disposition législative
 contraire, communication de tout document ou information sur la situation
 patrimoniale des dirigeants et des représentants permanents des dirigeants
-personnes morales mentionnées à l'article L. 651-1 de la part des
-administrations et organismes publics, des organismes de prévoyance et de
-sécurité sociale, des établissements de paiement et des établissements de
-crédit.
+personnes morales mentionnées à l'article L. 651-1 ou encore sur les revenus et
+le patrimoine non affecté de l'entrepreneur individuel à responsabilité limitée
+de la part des administrations et organismes publics, des organismes de
+prévoyance et de sécurité sociale, des établissements de paiement et des
+établissements de crédit.
 
 Le président du tribunal peut, dans les mêmes conditions, ordonner toute mesure
 conservatoire utile à l'égard des biens des dirigeants ou de leurs représentants
-visés à l'alinéa qui précède.
+visés à l'alinéa qui précède ou encore des biens de l'entrepreneur individuel à
+responsabilité limitée compris dans son patrimoine non affecté.
 
 Les dispositions du présent article sont également applicables aux personnes
 membres ou associées de la personne morale en procédure de sauvegarde, de

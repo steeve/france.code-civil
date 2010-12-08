@@ -6,8 +6,9 @@ personne physique exerçant une activité professionnelle indépendante y compri
 une profession libérale soumise à un statut législatif ou réglementaire ou dont
 le titre est protégé, ainsi qu'à toute personne morale de droit privé.
 
-Il ne peut être ouvert de nouvelle procédure de redressement judiciaire à
-l'égard d'une personne soumise à une telle procédure, à une procédure de
-sauvegarde ou à une procédure de liquidation judiciaire, tant qu'il n'a pas été
-mis fin aux opérations du plan qui en résulte ou que la procédure de liquidation
-n'a pas été clôturée.
+A moins qu'il ne s'agisse de patrimoines distincts d'un entrepreneur individuel
+à responsabilité limitée, il ne peut être ouvert de nouvelle procédure de
+redressement judiciaire à l'égard d'un débiteur soumis à une telle procédure, à
+une procédure de sauvegarde ou à une procédure de liquidation judiciaire, tant
+qu'il n'a pas été mis fin aux opérations du plan qui en résulte ou que la
+procédure de liquidation n'a pas été clôturée.

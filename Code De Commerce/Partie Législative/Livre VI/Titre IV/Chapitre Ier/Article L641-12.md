@@ -1,7 +1,7 @@
 Article L641-12
 ----
 Sans préjudice de l'application du I et du II de l'article L. 641-11-1, la
-résiliation du bail des immeubles affectés à l'activité de l'entreprise
+résiliation du bail des immeubles utilisés pour l'activité de l'entreprise
 intervient dans les conditions suivantes :
 
 1° Au jour où le bailleur est informé de la décision du liquidateur de ne pas

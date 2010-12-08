@@ -9,9 +9,9 @@ paiement des créanciers et qui présente les meilleures garanties d'exécution.
 arrête un ou plusieurs plans de cession.
 
 Les débats doivent avoir lieu en présence du ministère public lorsque la
-procédure est ouverte au bénéfice de personnes physiques ou morales dont le
-nombre de salariés ou le chiffre d'affaires hors taxes est supérieur à un seuil
-fixé par décret en Conseil d'Etat.
+procédure est ouverte au bénéfice d'un débiteur dont le nombre de salariés ou le
+chiffre d'affaires hors taxes est supérieur à un seuil fixé par décret en
+Conseil d'Etat.
 
 Le jugement qui arrête le plan en rend les dispositions applicables à tous.
 

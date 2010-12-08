@@ -7,7 +7,10 @@ soit le destinataire du courrier adressé au débiteur.
 Le débiteur, préalablement informé, peut assister à l'ouverture du courrier.
 Toutefois, une convocation devant une juridiction, une notification de décisions
 ou tout autre courrier ayant un caractère personnel doit être immédiatement
-remis ou restitué au débiteur.
+remis ou restitué au débiteur. Lorsque le débiteur est un entrepreneur
+individuel à responsabilité limitée, il y a également lieu à remise ou
+restitution immédiate du courrier intéressant un patrimoine autre que celui visé
+par la procédure.
 
 Le juge-commissaire peut autoriser l'accès du liquidateur et de
 l'administrateur, lorsqu'il en a été désigné, au courrier électronique reçu par

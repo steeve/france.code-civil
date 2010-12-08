@@ -1,6 +1,6 @@
 Article L632-1
 ----
-I. - Sont nuls, lorsqu'ils sont intervenus depuis la date de cessation des
+I.-Sont nuls, lorsqu'ils sont intervenus depuis la date de cessation des
 paiements, les actes suivants :
 
 1° Tous les actes à titre gratuit translatifs de propriété mobilière ou
@@ -37,7 +37,13 @@ concomitamment contractée ;
 
 10° Tout avenant à un contrat de fiducie affectant des droits ou biens déjà
 transférés dans un patrimoine fiduciaire à la garantie de dettes contractées
-antérieurement à cet avenant.
+antérieurement à cet avenant ;
 
-II. - Le tribunal peut, en outre, annuler les actes à titre gratuit visés au 1°
-du I faits dans les six mois précédant la date de cessation des paiements.
+11° Lorsque le débiteur est un entrepreneur individuel à responsabilité limitée,
+toute affectation ou modification dans l'affectation d'un bien, sous réserve du
+versement des revenus mentionnés à l'article L. 526-18, dont il est résulté un
+appauvrissement du patrimoine visé par la procédure au bénéfice d'un autre
+patrimoine de cet entrepreneur.
+
+II.-Le tribunal peut, en outre, annuler les actes à titre gratuit visés au 1° du
+I faits dans les six mois précédant la date de cessation des paiements.

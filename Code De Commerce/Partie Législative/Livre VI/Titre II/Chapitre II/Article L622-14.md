@@ -1,7 +1,7 @@
 Article L622-14
 ----
 Sans préjudice de l'application du I et du II de l'article L. 622-13, la
-résiliation du bail des immeubles donnés à bail au débiteur et affectés à
+résiliation du bail des immeubles donnés à bail au débiteur et utilisés pour
 l'activité de l'entreprise intervient dans les conditions suivantes :
 
 1° Au jour où le bailleur est informé de la décision de l'administrateur de ne

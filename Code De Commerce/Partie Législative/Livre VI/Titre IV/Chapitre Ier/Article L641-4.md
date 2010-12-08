@@ -7,8 +7,9 @@ relèvent de la compétence du mandataire judiciaire.
 Il n'est pas procédé à la vérification des créances chirographaires s'il
 apparaît que le produit de la réalisation de l'actif sera entièrement absorbé
 par les frais de justice et les créances privilégiées, à moins que, s'agissant
-d'une personne morale, il n'y ait lieu de mettre à la charge des dirigeants
-sociaux de droit ou de fait tout ou partie du passif conformément à l'article L.
+d'une personne morale ou d'un entrepreneur individuel à responsabilité limitée,
+il n'y ait lieu de mettre à la charge des dirigeants sociaux de droit ou de fait
+ou de cet entrepreneur tout ou partie du passif conformément à l'article L.
 651-2.
 
 Le liquidateur exerce les missions dévolues à l'administrateur et au mandataire

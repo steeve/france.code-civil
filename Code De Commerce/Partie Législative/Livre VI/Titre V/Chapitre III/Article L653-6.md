@@ -1,4 +1,5 @@
 Article L653-6
 ----
 Le tribunal peut prononcer la faillite personnelle du dirigeant de la personne
-morale qui n'a pas acquitté les dettes de celle-ci mises à sa charge.
+morale ou de l'entrepreneur individuel à responsabilité limitée qui n'ont pas
+acquitté les dettes mises à leur charge en application de l'article L. 651-2.

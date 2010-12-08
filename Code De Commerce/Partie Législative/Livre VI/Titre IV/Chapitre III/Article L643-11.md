@@ -18,9 +18,10 @@ cas suivants :
 
 2° Le débiteur a été reconnu coupable de banqueroute ;
 
-3° Le débiteur ou une personne morale dont il a été le dirigeant a été soumis à
-une procédure de liquidation judiciaire antérieure clôturée pour insuffisance
-d'actif moins de cinq ans avant l'ouverture de celle à laquelle il est soumis ;
+3° Le débiteur, au titre de l'un quelconque de ses patrimoines, ou une personne
+morale dont il a été le dirigeant a été soumis à une procédure de liquidation
+judiciaire antérieure clôturée pour insuffisance d'actif moins de cinq ans avant
+l'ouverture de celle à laquelle il est soumis ;
 
 4° La procédure a été ouverte en tant que procédure territoriale au sens du
 paragraphe 2 de l'article 3 du règlement (CE) n° 1346/2000 du Conseil du 29 mai
@@ -42,3 +43,12 @@ président du tribunal, saisi à cette fin, statue par ordonnance.
 Les créanciers qui recouvrent l'exercice individuel de leurs actions et dont les
 créances n'ont pas été vérifiées peuvent le mettre en œuvre dans les conditions
 du droit commun.
+
+VI. - Lorsque la clôture de liquidation judiciaire pour insuffisance d'actif est
+prononcée à l'issue d'une procédure ouverte à raison de l'activité d'un débiteur
+entrepreneur individuel à responsabilité limitée à laquelle un patrimoine est
+affecté, le tribunal, en cas de fraude à l'égard d'un ou de plusieurs
+créanciers, autorise les actions individuelles de tout créancier sur les biens
+compris dans le patrimoine non affecté de cet entrepreneur. Il statue dans les
+conditions prévues au IV. Les créanciers exercent les droits qui leur sont
+conférés par les présentes dispositions dans les conditions prévues au V.

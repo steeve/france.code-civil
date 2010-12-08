@@ -9,3 +9,11 @@ ou d'office, la procédure ouverte peut être étendue à une ou plusieurs autre
 personnes en cas de confusion de leur patrimoine avec celui du débiteur ou de
 fictivité de la personne morale.A cette fin, le tribunal ayant ouvert la
 procédure initiale reste compétent.
+
+Dans les mêmes conditions, un ou plusieurs autres patrimoines du débiteur
+entrepreneur individuel à responsabilité limitée peuvent être réunis au
+patrimoine visé par la procédure, en cas de confusion avec celui-ci. Il en va de
+même lorsque le débiteur a commis un manquement grave aux règles prévues au
+deuxième alinéa de l'article L. 526-6 ou aux obligations prévues à l'article L.
+526-13 ou encore une fraude à l'égard d'un créancier titulaire d'un droit de
+gage général sur le patrimoine visé par la procédure.

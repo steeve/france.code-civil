@@ -17,7 +17,9 @@ l'article L. 623-2. Il peut se faire assister de tout expert de son choix.
 
 L'ouverture d'une procédure de sauvegarde à l'égard d'un débiteur qui bénéficie
 ou a bénéficié d'un mandat ad hoc ou d'une procédure de conciliation dans les
-dix-huit mois qui précèdent doit être examinée en présence du ministère public.
+dix-huit mois qui précèdent doit être examinée en présence du ministère public,
+à moins qu'il ne s'agisse de patrimoines distincts d'un entrepreneur individuel
+à responsabilité limitée.
 
 Dans ce cas, le tribunal peut, d'office ou à la demande du ministère public,
 obtenir communication des pièces et actes relatifs au mandat ad hoc ou à la
