@@ -1,15 +1,29 @@
 Article L225-106
 ----
-Un actionnaire peut se faire représenter par un autre actionnaire ou par son
-conjoint.
+I.-Un actionnaire peut se faire représenter par un autre actionnaire, par son
+conjoint ou par le partenaire avec lequel il a conclu un pacte civil de
+solidarité.
 
-Tout actionnaire peut recevoir les pouvoirs émis par d'autres actionnaires en
-vue d'être représentés à une assemblée, sans autres limites que celles résultant
-des dispositions légales ou statutaires fixant le nombre maximal des voix dont
-peut disposer une même personne, tant en son nom personnel que comme mandataire.
+Il peut en outre se faire représenter par toute autre personne physique ou
+morale de son choix :
 
-Avant chaque réunion de l'assemblée générale des actionnaires, le président du
-conseil d'administration ou le directoire, selon le cas, peut organiser la
+1° Lorsque les actions de la société sont admises aux négociations sur un marché
+réglementé ;
+
+2° Lorsque les actions de la société sont admises aux négociations sur un
+système multilatéral de négociation qui se soumet aux dispositions législatives
+ou réglementaires visant à protéger les investisseurs contre les opérations
+d'initiés, les manipulations de cours et la diffusion de fausses informations
+dans les conditions prévues par le règlement général de l'Autorité des marchés
+financiers, figurant sur une liste arrêtée par l'autorité dans des conditions
+fixées par son règlement général, et que les statuts le prévoient.
+
+II.-Le mandat ainsi que, le cas échéant, sa révocation sont écrits et
+communiqués à la société. Les conditions d'application du présent alinéa sont
+précisées par décret en Conseil d'Etat.
+
+III.-Avant chaque réunion de l'assemblée générale des actionnaires, le président
+du conseil d'administration ou le directoire, selon le cas, peut organiser la
 consultation des actionnaires mentionnés à l'article L. 225-102 afin de leur
 permettre de désigner un ou plusieurs mandataires pour les représenter à
 l'assemblée générale conformément aux dispositions du présent article.
