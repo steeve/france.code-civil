@@ -29,7 +29,7 @@ trois mois sur les panneaux réservés à l'affichage des publications officiell
 de la commune où les contribuables ont leur domicile ainsi que sur la porte
 extérieure de l'immeuble du ou des établissements professionnels de ces
 contribuables. Les frais de la publication et de l'affichage dont il s'agit sont
-intégralement à la charge du condamné.
+intégralement à la charge du condamné (1).
 
 Les poursuites sont engagées dans les conditions prévues aux articles L. 229 à
 L. 231 du livre des procédures fiscales.
