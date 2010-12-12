@@ -16,9 +16,9 @@ sein de l'établissement ;
 
 5° Autres personnels exerçant leurs fonctions au sein de l'établissement ;
 
-6° Représentants des étudiants qui suivent une formation doctorale au sein du
-pôle de recherche et d'enseignement supérieur.
+6° Représentants des étudiants qui suivent une formation au sein du pôle de
+recherche et d'enseignement supérieur.
 
 Les membres mentionnés aux 1° et 2° représentent au moins la moitié de
-l'effectif du conseil et ceux mentionnés aux 1°, 2° et 3°, au moins les deux
+l'effectif du conseil et ceux mentionnés aux 1°,2° et 3°, au moins les deux
 tiers de cet effectif.

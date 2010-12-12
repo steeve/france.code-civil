@@ -15,7 +15,10 @@ celui-ci a pu conclure pour l'aménagement, l'entretien et la conservation des
 biens remis ainsi que pour le fonctionnement des services. Elle est également
 substituée à l'Etat dans les droits et obligations dérivant pour celui-ci, à
 l'égard de tiers, de l'octroi de concessions ou d'autorisations de toute nature
-sur tout ou partie des biens remis.
+sur tout ou partie des biens remis. La collectivité territoriale de Corse peut
+confier aux établissements d'enseignement supérieur visés à l'article L. 4424-4
+les droits et obligations du propriétaire sur le patrimoine immobilier, dont
+l'exercice de la maîtrise d'ouvrage de constructions universitaires.
 
 Lorsque les biens mis à la disposition de la collectivité territoriale de Corse
 étaient pris à bail par l'Etat, la collectivité territoriale de Corse succède à

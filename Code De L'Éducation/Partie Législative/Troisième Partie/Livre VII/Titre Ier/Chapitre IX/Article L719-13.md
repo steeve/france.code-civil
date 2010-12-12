@@ -19,6 +19,12 @@ publication de cette autorisation. Ces fondations partenariales bénéficient de
 plein droit de toutes les prérogatives reconnues aux fondations universitaires
 créées en application de l'article L. 719-12 du présent code.
 
+Les fondations partenariales peuvent recevoir, en vue de la réalisation d'une
+œuvre d'intérêt général et à but non lucratif se rattachant à leurs missions,
+l'affectation irrévocable de biens, droits ou ressources, sans que soit créée à
+cet effet une personne morale nouvelle. Cette affectation peut être dénommée
+fondation.
+
 En cas de dissolution de la fondation partenariale, les ressources non employées
 et la dotation, si celle-ci a été constituée et n'a pas fait l'objet de
 l'affectation prévue à l'article 19-6 de la loi n° 87-571 du 23 juillet 1987
