@@ -20,7 +20,7 @@ suivantes, au titre de leur mission de contrôle ou de régulation :
 
 - l'Agence française de lutte contre le dopage ;
 
-- l'Autorité de contrôle des assurances et des mutuelles ;
+- L'Autorité de contrôle prudentiel ;
 
 - l'Autorité de la concurrence ;
 
@@ -35,10 +35,6 @@ suivantes, au titre de leur mission de contrôle ou de régulation :
 - l'Autorité de sûreté nucléaire ;
 
 - la Commission de régulation de l'énergie ;
-
-- la Commission bancaire ;
-
-- le Comité des établissements de crédit et des entreprises d'investissement ;
 
 - le Conseil supérieur de l'audiovisuel ;
 

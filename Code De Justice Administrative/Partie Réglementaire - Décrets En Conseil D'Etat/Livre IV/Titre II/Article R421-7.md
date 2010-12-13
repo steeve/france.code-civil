@@ -1,9 +1,10 @@
 Article R421-7
 ----
 Lorsque la demande est portée devant un tribunal administratif qui a son siège
-en France métropolitaine, le délai de recours prévu à l'article R. 421-1 est
-augmenté d'un mois pour les personnes qui demeurent en Guadeloupe, en Guyane, à
-la Martinique, à La Réunion, à Saint-Barthélemy, à Saint-Martin, à Mayotte, à
+en France métropolitaine ou devant le Conseil d'Etat statuant en premier et
+dernier ressort, le délai de recours prévu à l'article R. 421-1 est augmenté
+d'un mois pour les personnes qui demeurent en Guadeloupe, en Guyane, à la
+Martinique, à La Réunion, à Saint-Barthélemy, à Saint-Martin, à Mayotte, à
 Saint-Pierre-et-Miquelon, en Polynésie française, dans les îles Wallis et
 Futuna, en Nouvelle-Calédonie et dans les Terres australes et antarctiques
 françaises.
