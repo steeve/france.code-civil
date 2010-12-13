@@ -1,6 +1,6 @@
 Article R811-10-1
 ----
-Par dérogation aux dispositions de l'article R. 811-10, le préfet présente
+I.-Par dérogation aux dispositions de l'article R. 811-10, le préfet présente
 devant la cour administrative d'appel les mémoires et observations produits au
 nom de l'Etat lorsque le litige est né de l'activité des services de la
 préfecture dans les matières suivantes :
@@ -30,5 +30,25 @@ fonds ;
 n° 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du
 voyage.
 
-Les dispositions du présent article ne sont pas applicables dans la collectivité
-départementale de Mayotte.
+II.-Les dispositions du présent article sont applicables dans les départements
+et collectivités d'outre-mer dans les conditions suivantes :
+
+1° Les 7°, 8° et 10° du I ne sont pas applicables en Nouvelle-Calédonie, en
+Polynésie française et à Wallis-et-Futuna ;
+
+2° L'administrateur supérieur des Terres australes et antarctiques françaises
+présente devant la cour administrative d'appel les mémoires et observations
+produits au nom de l'Etat ou de la collectivité lorsque le litige est né de
+l'activité de ses services ;
+
+3° Pour l'application de ces dispositions en Nouvelle-Calédonie, en Polynésie
+française, à Wallis-et-Futuna et dans les Terres australes et antarctiques
+françaises, la référence au préfet est remplacée par la référence au
+représentant de l'Etat dans la collectivité, et la référence aux services de la
+préfecture est remplacée par la référence aux services de l'Etat dans la
+collectivité.
+
+III.-Le ministre chargé de l'outre-mer est habilité à présenter des observations
+au nom de l'Etat, devant la cour administrative d'appel, à l'appui des mémoires
+produits par les représentants de l'Etat dans les départements et collectivités
+d'outre-mer.
