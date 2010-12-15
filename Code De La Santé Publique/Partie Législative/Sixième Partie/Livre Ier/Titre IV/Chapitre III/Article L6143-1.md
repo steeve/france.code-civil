@@ -66,5 +66,8 @@ réglementaires ;
 
 17° Les hommages publics ;
 
-18° La création avec un ou plusieurs établissements publics de santé d'un
-établissement public de santé interhospitalier.
+18° Les baux emphytéotiques mentionnés à l'article L. 6148-2 et les conventions
+conclues en application de l'article L. 6148-3 et de l'article L. 1311-4-1 du
+code général des collectivités territoriales, lorsqu'elles répondent aux besoins
+d'un établissement public de santé ou d'une structure de coopération sanitaire
+dotée de la personnalité morale publique.

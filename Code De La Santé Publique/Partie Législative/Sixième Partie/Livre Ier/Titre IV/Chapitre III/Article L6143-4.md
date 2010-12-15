@@ -31,16 +31,17 @@ représentant de l'Etat dans le département.
 
 2° Les délibérations portant sur les matières mentionnées aux 1°, à l'exclusion
 du contrat pluriannuel mentionné aux articles L. 6114-1 et L. 6114-2, 2°, 3°, à
-l'exception du rapport prévu à l'article L. 6143-3, 6° et 7° , sont soumises au
-directeur de l'agence régionale de l'hospitalisation en vue de leur approbation.
+l'exception du rapport prévu à l'article L. 6143-3, 6° et 7°, 18°, sont soumises
+au directeur de l'agence régionale de l'hospitalisation en vue de leur
+approbation.
 
 A l'exception de celles mentionnées au 3° et sans préjudice de l'application de
 l'article L. 6122-1, elles sont réputées approuvées si le directeur de l'agence
 régionale de l'hospitalisation n'a pas fait connaître son opposition dans un
 délai déterminé. Le délai est de six mois pour les délibérations indiquées au
-1°, de deux mois pour les délibérations indiquées au 2° et de trente jours pour
-les délibérations indiquées aux 6° et 7°. Ces délais courent à compter de la
-date de réception des délibérations par le directeur de l'agence régionale de
+1°, de deux mois pour les délibérations indiquées aux 2°, 18° et de trente jours
+pour les délibérations indiquées aux 6° et 7°. Ces délais courent à compter de
+la date de réception des délibérations par le directeur de l'agence régionale de
 l'hospitalisation.
 
 Les délibérations mentionnées au 3° sont soumises au directeur de l'agence

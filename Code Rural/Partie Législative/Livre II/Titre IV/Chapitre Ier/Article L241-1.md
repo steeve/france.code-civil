@@ -4,14 +4,19 @@ Tout vétérinaire de nationalité française ou ressortissant d'un autre Etat
 membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace
 économique européen qui remplit les conditions d'exercice prévues aux articles
 L. 241-2 à L. 241-5 et qui désire exercer sa profession est tenu, au préalable,
-de faire enregistrer sans frais son diplôme à la préfecture de son département
-et au greffe du tribunal de grande instance de son arrondissement.
+de faire enregistrer sans frais son diplôme auprès du service de l'Etat
+compétent ou de l'organisme désigné à cette fin.
+
+Il est établi pour chaque département, par le service de l'Etat compétent ou
+l'organisme désigné à cette fin, une liste de cette profession portée à la
+connaissance du public.
+
+Les modalités d'application du présent article sont fixées par décret.
 
 L'enregistrement du diplôme doit être, préalablement à l'exercice de la
 profession, suivi de la production d'un certificat d'inscription au tableau de
 l'ordre des vétérinaires délivré par le conseil régional de l'ordre des
-vétérinaires. Le fait de porter son domicile dans un autre département oblige à
-un nouvel enregistrement du diplôme.
+vétérinaires.
 
 Dans la limite d'un quota annuel fixé par décret en Conseil d'Etat, le ministre
 chargé de l'agriculture peut autoriser à exercer la médecine et la chirurgie des

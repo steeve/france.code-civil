@@ -10,12 +10,10 @@ reconnue comme incurable au moment du diagnostic.
 Lorsque l'interruption de grossesse est envisagée au motif que la poursuite de
 la grossesse met en péril grave la santé de la femme, l'équipe
 pluridisciplinaire chargée d'examiner la demande de la femme comprend au moins
-trois personnes qui sont un médecin qualifié en gynécologie obstétrique, un
+trois personnes qui sont un médecin qualifié en gynécologie-obstétrique, un
 médecin choisi par la femme et une personne qualifiée tenue au secret
 professionnel qui peut être un assistant social ou un psychologue. Les deux
-médecins précités doivent exercer leur activité dans un établissement public de
-santé ou dans un établissement de santé privé satisfaisant aux conditions de
-l'article L. 2322-1.
+médecins précités doivent exercer leur activité dans un établissement de santé.
 
 Lorsque l'interruption de grossesse est envisagée au motif qu'il existe une
 forte probabilité que l'enfant à naître soit atteint d'une affection d'une

@@ -4,9 +4,9 @@ Les médecins, les chirurgiens-dentistes et les sages-femmes qui exercent dans u
 département sont inscrits sur un tableau établi et tenu à jour par le conseil
 départemental de l'ordre dont ils relèvent.
 
-Ce tableau est déposé à la préfecture ainsi qu'au parquet du tribunal de grande
-instance. Dans le courant du mois de janvier de chaque année, il est publié
-conformément à l'article L. 4113-2.
+Ce tableau est transmis au représentant de l'Etat dans le département ainsi
+qu'au parquet du tribunal de grande instance. Il est porté à la connaissance du
+public, dans des conditions fixées par décret.
 
 Nul ne peut être inscrit sur ce tableau s'il ne remplit pas les conditions
 requises par le présent titre.

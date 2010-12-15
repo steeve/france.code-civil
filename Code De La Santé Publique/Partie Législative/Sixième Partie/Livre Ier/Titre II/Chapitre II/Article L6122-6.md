@@ -1,57 +1,21 @@
 Article L6122-6
 ----
-Le regroupement mentionné à l'article L. 6122-1 consiste, pour un ou plusieurs
-établissements de santé, à réunir en un même lieu tout ou partie des lits ou des
-places précédemment autorisés sur des sites distincts à l'intérieur de la même
-région sanitaire.
+Le regroupement mentionné à l'article L. 6122-1 consiste à réunir en un même
+lieu tout ou partie des activités de soins précédemment autorisées sur des sites
+distincts à l'intérieur de la même région ou réparties entre plusieurs régions.
 
-La conversion mentionnée à l'article L. 6122-1 consiste, pour un établissement
-de santé, à transformer pour tout ou partie de ses lits ou places, la nature de
-ses installations ou activités de soins, au sens de l'article L. 6121-2.
+La conversion mentionnée à l'article L. 6122-1 consiste à transformer pour tout
+ou partie la nature de ses activités de soins au sens de l'article L. 6121-2.
 
-Par dérogation au 1° de l'article L. 6122-2, l'autorisation de regroupement ou
-de conversion peut être accordée à des établissements situés dans une zone
-sanitaire dont les moyens excèdent les besoins de la population tels qu'ils sont
-pris en compte par la carte sanitaire. Cette autorisation, outre les conditions
-prévues aux 2° et 3° de l'article L. 6122-2, est subordonnée aux conditions
-suivantes :
+Par dérogation aux 1° des articles L. 6122-2 et L. 6121-2, l'autorisation de
+regroupement ou de conversion peut être accordée à des titulaires d'autorisation
+situés dans un territoire de santé dont les moyens excèdent ceux qui sont prévus
+par le schéma d'organisation sanitaire.
 
-1° Chaque opération de regroupement ou de conversion, même simultanée, doit être
-assortie d'une réduction du nombre des lits ou des places autorisés. Cette
-réduction tient compte des excédents de moyens constatés dans la zone considérée
-; elle ne peut dépasser un plafond. Elle est plus importante lorsque le
-regroupement concerne des lits ou des places ne relevant pas tous du même
-secteur ou groupe de secteurs sanitaires ou psychiatriques.
-
-Lorsque, dans la zone sanitaire où s'opère le regroupement ou la conversion,
-l'excédent de moyens constaté dépasse un certain seuil, le plafond est majoré.
-Un décret fixe les modalités de calcul de la réduction et du plafond.
-
-2° L'opération ne peut être autorisée si elle a pour effet, dans une des zones
-sanitaires concernées, de rendre les moyens déficitaires dans la ou les
-disciplines en cause.
-
-3° Lorsque le projet tend à réunir des lits ou des places précédemment autorisés
-dans des secteurs ou groupes de secteurs sanitaires ou psychiatriques
-différents, le regroupement doit se réaliser dans celui de ces secteurs ou
-groupes de secteurs qui présente le taux d'excédent le moins élevé ou dans tout
-autre secteur ou groupe de secteurs de la région sanitaire présentant un taux
-d'excédent inférieur.
-
-Lorsqu'un tel projet porte sur des installations de nature différente, le
-secteur ou groupe de secteurs pris en considération pour l'application de cette
-condition est celui qui présente le taux d'excédent le plus bas à l'égard de
-celle des installations à regrouper qui est la plus importante en nombre de lits
-ou de places.
-
-Le regroupement ou la conversion est subordonné, s'il y a lieu, au retrait de
-l'autorisation relative à la partie des installations ou activités de soins
-insuffisamment occupées, utilisées ou mises en oeuvre dans les conditions
-d'appréciation prévues à l'article L. 6122-12. Dans ce cas, le directeur de
-l'agence régionale de l'hospitalisation ou, en application du deuxième alinéa de
-l'article L. 6122-10, le ministre chargé de la santé, informe le titulaire de
-l'autorisation de son intention de procéder à son retrait partiel dans le
-respect d'une procédure contradictoire définie par voie réglementaire.
+Dans ce cas, cette autorisation, outre les autres conditions prévues à l'article
+L. 6122-2, est subordonnée à une adaptation de l'activité négociée dans le cadre
+d'un avenant au contrat d'objectifs et de moyens délibéré par la commission
+exécutive de l'agence régionale de l'hospitalisation.
 
 Les dispositions du présent article ne sont pas applicables aux cessions
 d'établissements ne donnant pas lieu à une augmentation de capacité ou à un

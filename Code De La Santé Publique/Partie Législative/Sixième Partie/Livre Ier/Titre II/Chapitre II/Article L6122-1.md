@@ -1,16 +1,10 @@
 Article L6122-1
 ----
-Sont soumis à l'autorisation du ministre chargé de la santé ou de l'agence
-régionale de l'hospitalisation les projets relatifs à :
+Sont soumis à l'autorisation de l'agence régionale de l'hospitalisation les
+projets relatifs à la création de tout établissement de santé, la création, la
+conversion et le regroupement des activités de soins, y compris sous la forme
+d'alternatives à l'hospitalisation, et l'installation des équipements matériels
+lourds.
 
-1° La création, l'extension, la conversion totale ou partielle de tout
-établissement de santé, public ou privé, ainsi que le regroupement de tels
-établissements ;
-
-2° La création, l'extension, la transformation des installations mentionnées à
-l'article L. 6121-2, y compris les équipements matériels lourds définis à
-l'article L. 6122-14 et les structures de soins alternatives à l'hospitalisation
-;
-
-3° La mise en oeuvre ou l'extension des activités de soins mentionnées au 2° de
-l'article L. 6121-2.
+La liste des activités de soins et des équipements matériels lourds soumis à
+autorisation est fixée par décret en Conseil d'Etat.

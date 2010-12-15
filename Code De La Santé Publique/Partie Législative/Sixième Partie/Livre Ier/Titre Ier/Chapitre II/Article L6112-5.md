@@ -16,3 +16,7 @@ conventions sont passées à cet effet dans des conditions fixées par décret.
 Les centres de réception et de régulation des appels sont interconnectés dans le
 respect du secret médical avec les dispositifs de réception des appels destinés
 aux services de police et aux services d'incendie et de secours.
+
+Le directeur de l'agence régionale de l'hospitalisation arrête la liste des
+établissements de santé dotés d'unités participant à l'aide médicale urgente
+appelées SAMU et détermine le champ de compétence territoriale de ces unités.

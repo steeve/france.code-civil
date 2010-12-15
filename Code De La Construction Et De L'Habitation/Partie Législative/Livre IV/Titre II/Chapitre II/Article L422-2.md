@@ -93,6 +93,10 @@ l'article 116 de la loi de finances pour 2002 précitée ou aux sociétés civil
 immobilières dont les parts sont détenues à au moins 99 % par cette association,
 des immeubles à usage principal d'habitation destinés à la location.
 
+- réaliser des opérations de conception, réalisation, entretien ou maintenance
+d'équipements hospitaliers ou médico-sociaux pour les besoins d'un établissement
+public de santé.
+
 Elles peuvent aussi réaliser des prestations de service pour le compte de
 l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002
 précitée, ou des sociétés civiles immobilières dont les parts sont détenues à au
