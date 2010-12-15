@@ -34,7 +34,8 @@ siennes.
 
 La transformation d'un syndicat intercommunal en communauté de communes ou en
 communauté d'agglomération est effectuée à titre gratuit et ne donne lieu au
-paiement d'aucune indemnité, droit, taxe, salaire ou honoraire.
+paiement d'aucune indemnité, droit, taxe, contribution prévue à l' article 879
+du code général des impôts ou honoraire.
 
 Le nombre et la répartition des membres de l'organe délibérant de la communauté
 de communes ou de la communauté d'agglomération sont déterminés dans les
