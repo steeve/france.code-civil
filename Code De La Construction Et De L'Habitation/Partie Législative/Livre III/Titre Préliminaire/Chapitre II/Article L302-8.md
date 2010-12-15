@@ -4,19 +4,18 @@ Le conseil municipal définit un objectif de réalisation de logements locatifs
 sociaux qui ne peut être inférieur au nombre de logements locatifs sociaux
 nécessaires pour atteindre 20 % du total des résidences principales.
 
-Toutefois, lorsqu'une commune appartient à une communauté urbaine, une
-communauté d'agglomération, une communauté d'agglomération nouvelle, une
-communauté de communes ou à un syndicat d'agglomération nouvelle compétents en
-matière de programme local de l'habitat, celui-ci fixe, de façon à favoriser la
-mixité sociale en assurant entre les communes une répartition équilibrée et
-diversifiée de l'offre de logements, l'objectif de réalisation de logements
-locatifs sociaux sur le territoire de la commune de manière à accroître la part
-de ces logements par rapport au nombre de résidences principales. L'objectif de
-réalisation de logements locatifs sociaux pour l'ensemble des communes de la
-communauté ne peut être inférieur au nombre total de logements locatifs sociaux
-dont la réalisation serait nécessaire, dans les communes soumises au prélèvement
-prévu par le premier alinéa de l'article L. 302-7, pour atteindre 20 % du total
-des résidences principales de ces communes, chacune de ces dernières devant se
+Toutefois, lorsqu'une commune appartient à un établissement public de
+coopération intercommunale à fiscalité propre compétent en matière de programme
+local de l'habitat, celui-ci fixe, de façon à favoriser la mixité sociale en
+assurant entre les communes une répartition équilibrée et diversifiée de l'offre
+de logements, l'objectif de réalisation de logements locatifs sociaux sur le
+territoire de la commune de manière à accroître la part de ces logements par
+rapport au nombre de résidences principales. L'objectif de réalisation de
+logements locatifs sociaux pour l'ensemble des communes de la communauté ne peut
+être inférieur au nombre total de logements locatifs sociaux dont la réalisation
+serait nécessaire, dans les communes soumises au prélèvement prévu par le
+premier alinéa de l'article L. 302-7, pour atteindre 20 % du total des
+résidences principales de ces communes, chacune de ces dernières devant se
 rapprocher de l'objectif de 20 %. Les communes non soumises à ce prélèvement ne
 peuvent se voir imposer la construction de logements sociaux supplémentaires
 sans leur accord.

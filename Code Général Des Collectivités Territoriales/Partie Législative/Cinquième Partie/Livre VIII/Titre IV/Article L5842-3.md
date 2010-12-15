@@ -10,4 +10,4 @@ II.-Pour l'application de l'article L. 5211-5 :
 par arrêté conjoint des représentants de l'Etat dans les départements concernés
 dans le cas contraire " sont supprimés ;
 
-2° Au II, les mots : " ou d'une communauté urbaine " sont supprimés.
+2° Abrogé.

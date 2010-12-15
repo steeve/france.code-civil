@@ -20,8 +20,8 @@ le collège des présidents d'établissements publics de coopération intercommu
 communes ayant opté pour le régime fiscal de l'article 1609 nonies C du code
 général des impôts, de deux pour les communautés de communes n'ayant pas opté
 pour les dispositions du même article, d'un pour les communautés
-d'agglomération, d'un pour les syndicats et d'un pour les organismes institués
-en vue de la création d'une agglomération nouvelle ;
+d'agglomération, d'un pour les syndicats et d'un pour les syndicats institués en
+vue de la création d'une agglomération nouvelle ;
 
 -quinze maires élus par le collège des maires de France, dont un au moins pour
 les départements d'outre-mer, un pour les collectivités d'outre-mer ainsi que la

@@ -32,7 +32,7 @@ Faute pour le tribunal administratif d'avoir statué dans ce délai, la
 candidature doit être enregistrée.
 
 Nul ne peut être candidat au deuxième tour s'il ne s'est présenté au premier
-tour et s'il n'a obtenu un nombre de suffrages au moins égal à 10 % du nombre
+tour et s'il n'a obtenu un nombre de suffrages égal au moins à 12,5 % du nombre
 des électeurs inscrits.
 
 Dans le cas où un seul candidat remplit ces conditions, le candidat ayant obtenu

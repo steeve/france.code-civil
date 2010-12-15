@@ -7,6 +7,6 @@ d'intercommunalité calculée selon les modalités définies aux articles L. 521
 à L. 5211-35-1.
 
 Pour les communautés de communes, les communautés d'agglomération, les
-communautés urbaines et les syndicats ou communautés d'agglomération nouvelle,
+communautés urbaines, les métropoles et les syndicats d'agglomération nouvelle,
 les ressources de la dotation d'intercommunalité sont prélevées sur la dotation
 d'aménagement prévue à l'article L. 2334-13.

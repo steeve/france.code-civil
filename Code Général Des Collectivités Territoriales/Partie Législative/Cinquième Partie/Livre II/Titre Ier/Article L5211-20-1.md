@@ -1,9 +1,8 @@
 Article L5211-20-1
 ----
-Sans préjudice des dispositions de l'article L. 5215-8, le nombre des sièges de
-l'organe délibérant de l'établissement public de coopération intercommunale, ou
-leur répartition entre les communes membres, peuvent être modifiés à la demande
-:
+Le nombre des sièges de l'organe délibérant de l'établissement public de
+coopération intercommunale, ou leur répartition entre les communes membres,
+peuvent être modifiés à la demande :
 
 1° Soit de l'organe délibérant de l'établissement public ;
 

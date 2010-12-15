@@ -25,7 +25,7 @@ ou de la moitié au moins des conseils municipaux de ces communes représentant
 les deux tiers de la population. Cette majorité doit nécessairement comprendre
 le conseil municipal de la commune dont la population est supérieure à la moitié
 de la population totale concernée ou, à défaut, de la commune dont la population
-est la plus importante.A défaut de délibération dans le délai de trois mois à
+est la plus importante. A défaut de délibération dans le délai de trois mois à
 compter de la notification du projet d'extension du périmètre, l'accord est
 réputé donné.
 
@@ -36,11 +36,11 @@ coopération intercommunale dont elles sont membres. Dans le cas particulier de
 syndicats de communes ou de syndicats mixtes, le retrait s'effectue dans les
 conditions fixées à l'article L. 5216-7.
 
-L'extension du périmètre entraîne une nouvelle répartition des sièges au conseil
-de la communauté d'agglomération conformément à l'article L. 5216-3. Elle
-entraîne l'application à l'ensemble des biens, équipements et services publics
-nécessaires à l'exercice des compétences transférées, ainsi que des droits et
-obligations attachés à ces biens, équipements et services à la date du
+L'extension du périmètre entraîne l'attribution de sièges, conformément au 1° de
+l'article L. 5211-6-2, à chaque commune intégrant la communauté d'agglomération.
+Elle entraîne l'application à l'ensemble des biens, équipements et services
+publics nécessaires à l'exercice des compétences transférées, ainsi que des
+droits et obligations attachés à ces biens, équipements et services à la date du
 transfert, des dispositions prévues au II de l'article L. 5211-18.
 
 La procédure peut être renouvelée tous les douze ans à compter de l'expiration

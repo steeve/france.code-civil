@@ -1,33 +1,60 @@
 Article L5211-26
 ----
-En cas de dissolution d'un établissement public de coopération intercommunale,
-ses communes membres corrigent leurs résultats de la reprise des résultats de
-l'établissement dissous, par délibération budgétaire, dans les conditions
-définies par la répartition consécutive au vote du compte administratif. Le
-détail des opérations non budgétaires justifiant cette reprise est joint en
-annexe au budget de reprise des résultats.
+I.-Un décret ou, selon le cas, un arrêté met fin à l'exercice des compétences de
+l'établissement public de coopération intercommunale dont la dissolution est
+demandée ou requise et, le cas échéant, au régime fiscal de cet établissement et
+à ses droits à percevoir les dotations de l'Etat. Ce décret ou, selon le cas,
+cet arrêté entraîne la mise en œuvre consécutive de l'article L. 5211-25-1.
+Lorsque les conditions de la liquidation sont réunies, la dissolution de
+l'établissement public de coopération intercommunale peut être prononcée, par le
+même décret ou arrêté selon le cas, dans les conditions prévues au III du
+présent article.
 
-Lorsque l'organe délibérant d'un établissement public de coopération
-intercommunale ne s'est pas prononcé sur l'adoption du compte administratif et
-sur les conditions de transfert de l'actif et du passif à ses communes membres
-avant la dissolution dudit établissement, l'arrêté ou le décret de dissolution
-prévoit la nomination d'un liquidateur, dans des conditions fixées par décret en
-Conseil d'Etat, et détermine, sous la réserve des droits des tiers, les
-conditions dans lesquelles il est chargé d'apurer les dettes et les créances et
-de céder les actifs. En ce qui concerne l'exercice en cours, les pouvoirs du
-liquidateur sont limités aux seuls actes de pure administration conservatoire et
-urgente. A cette fin, le liquidateur a la qualité d'ordonnateur accrédité auprès
-du comptable de l'établissement public de coopération intercommunale.
+II.-En cas d'obstacle à la liquidation de l'établissement public, l'autorité
+administrative compétente sursoit à la dissolution, qui est prononcée dans un
+second décret ou arrêté selon le cas.L'établissement public conserve alors sa
+personnalité morale pour les seuls besoins de sa dissolution. Le président de
+l'établissement public rend compte, tous les trois mois, de l'état d'avancement
+des opérations de liquidation à l'autorité administrative compétente.
 
-Le liquidateur est placé sous la responsabilité du représentant de l'Etat dans
-le département du siège de l'établissement dissous.
+Les budgets et les comptes administratifs de l'établissement public en cours de
+liquidation sont soumis aux articles L. 1612-1 à L. 1612-20. En cas d'absence
+d'adoption du compte administratif au 30 juin de l'année suivant celle où la fin
+de l'exercice des compétences a été prononcée, le représentant de l'Etat dans le
+département arrête les comptes à l'appui du compte de gestion, après avis rendu
+dans un délai d'un mois par la chambre régionale des comptes.
 
-Il prépare le compte administratif de l'exercice qu'il adresse au représentant
-de l'Etat dans le département, du siège de l'établissement, appuyé du compte de
-gestion. Le représentant de l'Etat arrête les comptes. Les collectivités membres
-de l'établissement public de coopération intercommunale dissous corrigent leurs
-résultats de la reprise des résultats de l'établissement dissous, par
-délibération budgétaire, dans les conditions définies par la répartition
-consécutive à l'arrêté du compte administratif. Le détail des opérations non
-budgétaires justifiant cette reprise est joint en annexe au budget de reprise
-des résultats.
+Lorsque la trésorerie disponible de l'établissement public est insuffisante pour
+couvrir l'ensemble des charges liées à la dissolution, son assemblée délibérante
+prévoit, par délibération, la répartition entre les membres des contributions
+budgétaires. Ces contributions constituent des dépenses obligatoires.
+
+A la demande du président de l'établissement public de coopération
+intercommunale ou s'il constate, au vu des comptes rendus d'avancement prévus au
+premier alinéa du présent II, que les conditions de la liquidation sont réunies,
+l'autorité administrative compétente prononce la dissolution de l'établissement
+public dans les conditions prévues au III.
+
+Au plus tard au 30 juin de l'année suivant celle où elle a prononcé la fin de
+l'exercice des compétences, l'autorité administrative compétente nomme, dans des
+conditions prévues par décret en Conseil d'Etat, un liquidateur chargé, sous
+réserve du droit des tiers, d'apurer les dettes et les créances et de céder les
+actifs. La mission du liquidateur, d'une durée initiale d'une année, peut être
+prolongée pour une même période jusqu'au terme de la liquidation. Dès sa
+nomination, le liquidateur a la qualité d'ordonnateur accrédité auprès du
+comptable de l'établissement public de coopération intercommunale en lieu et
+place du président de ce dernier. Après l'arrêt des comptes par le représentant
+de l'Etat dans le département dans les conditions prévues au deuxième alinéa du
+présent II, le liquidateur détermine la répartition de l'actif et du passif dans
+le respect des dispositions de l'article L. 5211-25-1.
+
+III.-L'autorité administrative compétente prononce la dissolution de
+l'établissement public de coopération intercommunale par arrêté ou décret et
+constate, sous réserve des droits des tiers, la répartition entre les membres de
+l'ensemble de l'actif et du passif figurant au dernier compte administratif de
+l'établissement public de coopération intercommunale dissous.
+
+Les membres de l'établissement public de coopération intercommunale dissous
+corrigent leurs résultats de la reprise des résultats de l'établissement
+dissous, par délibération budgétaire, conformément à l'arrêté ou au décret de
+dissolution.

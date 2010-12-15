@@ -7,7 +7,9 @@ rurale.
 
 Le montant de la dotation d'aménagement est égal à la différence entre
 l'ensemble des ressources affectées à la dotation globale de fonctionnement des
-communes et la dotation forfaitaire prévue à l'article L. 2334-7.
+communes et l'ensemble formé par la dotation forfaitaire prévue à l'article L.
+2334-7 et la dotation forfaitaire des communes nouvelles prévue à l'article L.
+2113-20.
 
 Après prélèvement de la dotation d'intercommunalité prévue aux articles L.
 5211-28 et L. 5842-8, de la dotation de compensation prévue à l'article L.

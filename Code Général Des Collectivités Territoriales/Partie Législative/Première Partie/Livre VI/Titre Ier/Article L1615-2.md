@@ -2,7 +2,7 @@ Article L1615-2
 ----
 Les ressources destinées au Fonds de compensation pour la taxe sur la valeur
 ajoutée, visé à l'article L. 1615-1, sont réparties entre les régions, les
-départements, les communes, leurs groupements, leurs régies, les organismes
+départements, les communes, leurs groupements, leurs régies, les syndicats
 chargés de la gestion des agglomérations nouvelles, les services départementaux
 d'incendie et de secours, les centres communaux d'action sociale, les caisses
 des écoles, le Centre national de la fonction publique territoriale et les
@@ -30,7 +30,7 @@ titre des dépenses d'investissement exposées sur des biens dont ils n'ont pas 
 propriété, dès lors qu'elles concernent des travaux de lutte contre les
 avalanches, glissements de terrains, inondations, incendies, ainsi que des
 travaux de défense contre la mer, des travaux pour la prévention des incendies
-de forêt, présentant un caractère d'intérêt général ou d'urgence.S'agissant des
+de forêt, présentant un caractère d'intérêt général ou d'urgence. S'agissant des
 travaux effectués sur le domaine public de l'Etat, seules ouvrent droit aux
 attributions du fonds les dépenses d'investissement réalisées par les
 collectivités territoriales ou leurs groupements ayant conclu une convention

@@ -35,12 +35,11 @@ conditions prévues au premier alinéa du I. Elle vaut substitution de la
 communauté d'agglomération aux communes pour les compétences transférées et dans
 les conditions prévues au second alinéa du même paragraphe.
 
-III.-Lorsque le périmètre d'une communauté d'agglomération est étendu,
-conformément à l'article L. 5211-18, par adjonction d'une ou de plusieurs
-communes membres d'un ou de plusieurs syndicats de communes ou syndicats mixtes,
-cette extension vaut retrait des communes des syndicats ou substitution de la
-communauté d'agglomération aux communes au sein des syndicats dans les cas et
-conditions prévus aux I et II.
+III.-Lorsque le périmètre d'une communauté d'agglomération est étendu par
+adjonction d'une ou de plusieurs communes membres d'un ou de plusieurs syndicats
+de communes ou syndicats mixtes, cette extension vaut retrait des communes des
+syndicats ou substitution de la communauté d'agglomération aux communes au sein
+des syndicats dans les cas et conditions prévus aux I et II.
 
 Lorsque les compétences d'une communauté d'agglomération sont étendues,
 conformément à l'article L. 5211-17, à des compétences antérieurement déléguées

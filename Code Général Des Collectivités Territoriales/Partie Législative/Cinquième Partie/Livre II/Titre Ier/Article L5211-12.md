@@ -2,7 +2,7 @@ Article L5211-12
 ----
 Les indemnités maximales votées par le conseil ou comité d'un syndicat de
 communes, d'une communauté de communes, d'une communauté urbaine, d'une
-communauté d'agglomération et d'une communauté ou d'un syndicat d'agglomération
+communauté d'agglomération, d'une métropole et d'un syndicat d'agglomération
 nouvelle pour l'exercice effectif des fonctions de président et de
 vice-président sont déterminées par un décret en Conseil d'Etat par référence au
 montant du traitement correspondant à l'indice brut terminal de l'échelle

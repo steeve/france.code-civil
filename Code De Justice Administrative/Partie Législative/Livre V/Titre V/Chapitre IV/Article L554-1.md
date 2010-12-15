@@ -13,8 +13,8 @@ mois. "
 Les demandes de suspension assortissant les requêtes du représentant de l'Etat
 dirigées contre les actes d'autres collectivités ou établissements suivent, de
 même, les règles fixées par les articles L. 2541-22, L. 2561-1, L. 3132-1, L.
-4142-1, L. 4411-1, L. 4421-1, L. 4431-1, L. 5211-3, L. 5331-3, L. 5332-1, L.
-5421-2, L. 5711-1 et L. 5721-4 du code général des collectivités territoriales.
+4142-1, L. 4411-1, L. 4421-1, L. 4431-1, L. 5211-3, L. 5332-1, L. 5421-2, L.
+5711-1 et L. 5721-4 du code général des collectivités territoriales.
 
 Il en va de même pour les actes des collectivités visés aux articles LO 6152-1,
 LO 6242-1, LO 6342-1 et LO 6452-1 du code général des collectivités

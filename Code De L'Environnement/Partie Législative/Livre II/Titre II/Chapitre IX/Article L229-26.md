@@ -2,10 +2,10 @@ Article L229-26
 ----
 I. ― Les régions et la collectivité territoriale de Corse, si elles ne l'ont pas
 intégré dans le schéma régional du climat, de l'air et de l'énergie mentionné à
-l'article L. 222-1, les départements, les communautés urbaines, les communautés
-d'agglomération ainsi que les communes et les communautés de communes de plus de
-50 000 habitants doivent avoir adopté un plan climat-énergie territorial pour le
-31 décembre 2012.
+l'article L. 222-1, les départements, les métropoles, les communautés urbaines,
+les communautés d'agglomération ainsi que les communes et les communautés de
+communes de plus de 50 000 habitants doivent avoir adopté un plan climat-énergie
+territorial pour le 31 décembre 2012.
 
 Lorsque ces collectivités publiques s'engagent dans l'élaboration d'un projet
 territorial de développement durable ou Agenda 21 local, le plan climat-énergie
@@ -43,9 +43,9 @@ Les départements intègrent ce plan dans le rapport sur la situation en matièr
 de développement durable prévu par l'article L. 3311-2 du code général des
 collectivités territoriales.
 
-Les communautés urbaines, les communautés d'agglomération et les communes ou
-communautés de communes de plus de 50 000 habitants l'intègrent dans le rapport
-prévu par l'article L. 2311-1-1 du même code.
+Les métropoles, les communautés urbaines, les communautés d'agglomération et les
+communes ou communautés de communes de plus de 50 000 habitants l'intègrent dans
+le rapport prévu par l'article L. 2311-1-1 du même code.
 
 Un décret en Conseil d'Etat définit les modalités d'application de la présente
 section et peut déterminer, notamment, des méthodes de référence pour la

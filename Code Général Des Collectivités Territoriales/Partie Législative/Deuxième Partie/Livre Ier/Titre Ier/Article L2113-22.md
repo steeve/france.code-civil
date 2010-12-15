@@ -1,8 +1,12 @@
 Article L2113-22
 ----
-Le maire de l'ancienne commune en fonction au moment de la fusion devient de
-droit maire délégué jusqu'au prochain renouvellement du conseil municipal.
+Les communes nouvelles sont éligibles aux dotations de péréquation communale
+dans les conditions de droit commun.
 
-Après ce renouvellement ou en cas de vacance, le maire délégué est choisi par le
-conseil municipal parmi les conseillers élus dans la section correspondante ou,
-à défaut, parmi les membres du conseil.
+Toutefois, elles perçoivent à compter de l'année de leur création une
+attribution au titre de la dotation de solidarité rurale au moins égale à la
+somme des attributions perçues au titre de chacune des deux fractions de la
+dotation de solidarité rurale par les communes anciennes, l'année précédant la
+création de la commune nouvelle. Cette attribution évolue selon un taux égal au
+taux d'évolution de la dotation de solidarité rurale mentionnée à l'article L.
+2334-13.

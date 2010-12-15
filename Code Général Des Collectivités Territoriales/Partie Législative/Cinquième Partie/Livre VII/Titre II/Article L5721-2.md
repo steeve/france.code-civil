@@ -12,6 +12,11 @@ personnes morales.
 Le syndicat mixte doit comprendre au moins une collectivité territoriale ou un
 groupement de ces collectivités.
 
+Lorsque le syndicat mixte qui adhère à un autre syndicat mixte lui transfère la
+totalité des compétences qu'il exerce, l'adhésion du syndicat mixte entraîne sa
+dissolution dans les conditions prévues aux troisième à neuvième alinéas de
+l'article L. 5711-4.
+
 La répartition des sièges au sein du comité syndical entre les collectivités
 locales et les établissements publics membres du syndicat mixte est fixée par
 les statuts. A défaut de dispositions particulières dans les statuts, le nombre
@@ -23,19 +28,11 @@ au nombre de sièges dont disposaient les communes avant la substitution.
 Le président du syndicat mixte est élu par le comité syndical ou, si les statuts
 le prévoient, par le bureau qu'il a constitué.
 
-La création du syndicat mixte est autorisée par arrêté du représentant de l'Etat
-dans le département siège du syndicat.
+La création du syndicat mixte peut être autorisée par arrêté du représentant de
+l'Etat dans le département siège du syndicat.
 
 La décision d'autorisation approuve les modalités de fonctionnement du syndicat
 mixte.
-
-Les syndicats mixtes peuvent être autorisés à fusionner. La fusion est opérée
-dans les conditions prévues par l'article L. 5211-41-3, à l'exception des
-dispositions relatives à la continuité territoriale.
-
-Pour l'application du II de cet article, l'accord sur la fusion est exprimé par
-délibérations concordantes des organes délibérants des syndicats mixtes
-intéressés et des membres les constituant.
 
 Lorsqu'un établissement public de coopération intercommunale à fiscalité propre
 dont la population est supérieure à 400 000 habitants a transféré sa compétence

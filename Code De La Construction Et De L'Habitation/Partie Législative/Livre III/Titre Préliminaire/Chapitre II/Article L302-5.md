@@ -9,9 +9,9 @@ le nombre total de logements locatifs sociaux représente, au 1er janvier de
 l'année précédente, moins de 20 % des résidences principales. En sont exemptées
 les communes comprises dans une agglomération dont le nombre d'habitants a décru
 entre les deux derniers recensements de la population et qui appartiennent à une
-communauté urbaine, une communauté d'agglomération ou une communauté de communes
-compétentes en matière de programme local de l'habitat, dès lors que celui-ci a
-été adopté.
+communauté urbaine, une métropole, une communauté d'agglomération ou une
+communauté de communes compétentes en matière de programme local de l'habitat,
+dès lors que celui-ci a été adopté.
 
 A compter du 1er janvier 2008, ces dispositions s'appliquent également, dans les
 conditions prévues au premier alinéa, aux communes membres d'un établissement
@@ -47,7 +47,7 @@ sociétés à participation majoritaire de l'Entreprise minière et chimique, le
 logements appartenant aux houillères de bassin, aux sociétés à participation
 majoritaire des houillères de bassin ainsi qu'aux sociétés à participation
 majoritaire des Charbonnages de France et à l'établissement public de gestion
-immobilière du Nord - Pas-de-Calais ;
+immobilière du Nord-Pas-de-Calais ;
 
 4° Les logements ou les lits des logements-foyers de personnes âgées, de
 personnes handicapées, de jeunes travailleurs, de travailleurs migrants et des

@@ -1,11 +1,11 @@
 Article L5832-21
 ----
-I.-Les articles L. 5216-1 à l'exception de sa deuxième phrase, L. 5216-3, L.
-5216-4, L. 5216-4-1, L. 5216-4-2, L. 5216-5, à l'exception du 1° du I et du II
-bis, L. 5216-6, L. 5216-7, L. 5216-7-1, L. 5216-8, à l'exception du 8°, L.
-5216-9 et L. 5216-10 sont applicables à Mayotte à compter de la date d'entrée en
-vigueur du code général des impôts à Mayotte prévue par l'article 68 de la loi
-n° 2001-616 du 11 juillet 2001.
+I.-Les articles L. 5216-1 à l'exception de sa deuxième phrase, L. 5216-4, L.
+5216-4-1, L. 5216-4-2, L. 5216-5, à l'exception du 1° du I et du II bis, L.
+5216-6, L. 5216-7, L. 5216-7-1, L. 5216-8, à l'exception du 8°, L. 5216-9 et L.
+5216-10 sont applicables à Mayotte à compter de la date d'entrée en vigueur du
+code général des impôts à Mayotte prévue par l'article 68 de la loi n° 2001-616
+du 11 juillet 2001.
 
 II.-Le 1° du I de l'article L. 5216-5 est applicable à Mayotte à compter du
 renouvellement des conseils municipaux en 2007.

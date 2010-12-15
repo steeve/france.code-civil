@@ -12,7 +12,7 @@ l'article 1609 nonies C du code général des impôts ;
 3° Les communautés de communes faisant application des dispositions de l'article
 1609 nonies C du code général des impôts ;
 
-4° Les syndicats ou communautés d'agglomération nouvelle ;
+4° Les syndicats d'agglomération nouvelle ;
 
 5° Les communautés d'agglomération créées avant le 1er janvier 2005 ;
 
@@ -65,16 +65,6 @@ communautés de communes ne faisant pas application de ces dispositions.
 A compter du 1er janvier 2003, le montant de la dotation d'intercommunalité
 affecté aux communautés urbaines est celui qui résulte de l'application du
 deuxième alinéa du I de l'article L. 5211-30.
-
-La dotation par habitant des communautés d'agglomération, issues d'une
-transformation de syndicats ou communautés d'agglomération nouvelle en
-application des dispositions des articles L. 5341-1 et L. 5341-2, ne peut être
-inférieure à celle fixée pour les syndicats ou communautés d'agglomération
-nouvelle.
-
-La majoration de la dotation des communautés d'agglomération, constituée en
-application de l'alinéa précédent, est répartie selon les modalités de l'article
-L. 5211-30.
 
 A compter de 2002, la dotation moyenne par habitant des communautés de communes
 ne faisant pas application des dispositions de l'article 1609 nonies C du code

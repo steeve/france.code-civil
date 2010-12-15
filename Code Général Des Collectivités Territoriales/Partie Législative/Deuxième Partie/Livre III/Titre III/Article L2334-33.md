@@ -51,3 +51,13 @@ Sont ouverts en outre, en 1996, 972 millions de francs en autorisations de
 programme et 821 millions de francs en crédits de paiement pour l'achèvement des
 opérations antérieures au titre de la première part de la dotation globale
 d'équipement des communes.
+
+Lorsqu'un établissement public de coopération intercommunale était éligible à la
+dotation globale d'équipement des communes l'année précédant sa transformation
+en commune nouvelle, cette dernière est réputée remplir, pendant les trois
+premiers exercices à compter de sa création, les conditions de population posées
+aux deuxième et troisième alinéas du présent article. Les crédits revenant, en
+application du troisième alinéa de l'article L. 2334-34, au département dans
+lequel se trouve la commune nouvelle sont adaptés en conséquence. Au terme de ce
+délai, l'éligibilité de cette commune nouvelle est appréciée suivant les
+conditions de droit commun applicables aux communes.

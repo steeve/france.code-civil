@@ -13,8 +13,8 @@ administrative visée au premier alinéa de l'article L. 3132-26 [Dispositions
 résultant de la décision du Conseil constitutionnel n° 2009-588 DC du 6 août
 2009], après avis du comité départemental du tourisme, des syndicats
 d'employeurs et de salariés intéressés, ainsi que des communautés de communes,
-des communautés d'agglomération et des communautés urbaines, lorsqu'elles
-existent.
+des communautés d'agglomération, des métropoles et des communautés urbaines,
+lorsqu'elles existent.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent
 article.

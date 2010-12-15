@@ -41,7 +41,7 @@ l'offre de logements, en précisant :
 -les objectifs d'offre nouvelle ;
 
 -les actions à mener en vue de l'amélioration et de la réhabilitation du parc
-existant, qu'il soit public ou privé.A cette fin, il précise les opérations
+existant, qu'il soit public ou privé. A cette fin, il précise les opérations
 programmées d'amélioration de l'habitat et les actions de lutte contre l'habitat
 indigne ;
 
@@ -86,8 +86,8 @@ et 16° de l'article L. 123-1 et de l'article L. 127-1 du code de l'urbanisme.
 
 Un programme local de l'habitat est élaboré dans les communautés de communes
 compétentes en matière d'habitat de plus de 30 000 habitants comprenant au moins
-une commune de plus de 10 000 habitants, dans les communautés d'agglomération et
-dans les communautés urbaines.
+une commune de plus de 10 000 habitants, dans les communautés d'agglomération,
+dans les métropoles et dans les communautés urbaines.
 
 Lorsque les périmètres des établissements publics de coopération intercommunale
 compétents en matière de programme local de l'habitat diffèrent de ceux des

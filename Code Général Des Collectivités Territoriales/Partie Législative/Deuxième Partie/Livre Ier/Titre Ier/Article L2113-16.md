@@ -1,7 +1,7 @@
 Article L2113-16
 ----
-Le représentant de l'Etat dans le département peut prononcer la suppression de
-la commune associée si la population de cette commune, consultée à la demande du
-conseil municipal dans les conditions prévues à l'article L. 2113-2, se prononce
-en faveur de cette suppression à la majorité absolue des suffrages exprimés
-correspondant à un nombre de voix au moins égal au quart des électeurs inscrits.
+Le conseil de la commune déléguée est présidé par le maire délégué.
+
+Le maire de l'ancienne commune en fonction au moment de la création de la
+commune nouvelle devient de droit maire délégué jusqu'au prochain renouvellement
+du conseil municipal.

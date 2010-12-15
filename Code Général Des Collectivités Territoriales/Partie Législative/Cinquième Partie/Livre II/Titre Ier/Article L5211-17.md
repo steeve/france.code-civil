@@ -33,13 +33,18 @@ et obligations qui leur sont attachés à la date du transfert, des dispositions
 des trois premiers alinéas de l'article L. 1321-1, des deux premiers alinéas de
 l'article L. 1321-2 et des articles L. 1321-3, L. 1321-4 et L. 1321-5.
 
-Toutefois, lorsque l'établissement public est compétent en matière de zones
-d'activité économique, les conditions financières et patrimoniales du transfert
-des biens immobiliers nécessaires à l'exercice de cette compétence sont décidées
+Toutefois, lorsque l'établissement public de coopération intercommunale est
+compétent en matière de zones d'activité économique, les biens immeubles des
+communes membres peuvent lui être transférés en pleine propriété, dans la mesure
+où ils sont nécessaires à l'exercice de cette compétence. Les conditions
+financières et patrimoniales du transfert des biens immobiliers sont décidées
 par délibérations concordantes de l'organe délibérant et des conseils municipaux
 des communes membres se prononçant dans les conditions de majorité qualifiée
-requise pour la création de l'établissement. Il en va de même lorsque
-l'établissement public est compétent en matière de zones d'aménagement concerté.
+requise pour la création de l'établissement, au plus tard un an après le
+transfert de compétences. Dans les cas où l'exercice de la compétence est
+subordonné à la définition de l'intérêt communautaire, ce délai court à compter
+de sa définition. Il en va de même lorsque l'établissement public est compétent
+en matière de zones d'aménagement concerté.
 
 L'établissement public de coopération intercommunale est substitué de plein
 droit, à la date du transfert de compétences, aux communes qui le composent dans

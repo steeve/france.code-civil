@@ -1,9 +1,10 @@
 Article L2113-11
 ----
-Lorsqu'une fusion est envisagée, le conseil municipal d'une ou de plusieurs des
-communes concernées, à l'exception de celle sur le territoire de laquelle doit
-être fixé le chef-lieu de la nouvelle commune, peut demander que le territoire
-correspondant à sa commune soit maintenu en qualité de commune associée et
-conserve son nom.
+La création au sein d'une commune nouvelle de communes déléguées entraîne de
+plein droit pour chacune d'entre elles :
 
-Il est fait droit à cette demande dans l'acte prononçant la fusion.
+1° L'institution d'un maire délégué, désigné par le conseil municipal de la
+commune nouvelle ;
+
+2° La création d'une annexe de la mairie dans laquelle sont établis les actes de
+l'état civil concernant les habitants de la commune déléguée.

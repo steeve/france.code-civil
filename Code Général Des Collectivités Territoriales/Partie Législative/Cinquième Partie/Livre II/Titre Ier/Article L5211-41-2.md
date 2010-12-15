@@ -11,10 +11,10 @@ requises pour la création de l'établissement public de coopération
 intercommunale. Le comité syndical et le conseil municipal de chaque commune
 membre se prononcent dans un délai de trois mois à compter de la notification au
 maire et au président du syndicat de la délibération proposant la
-transformation. A défaut de délibération dans ce délai, leur décision est
-réputée favorable. La transformation peut être prononcée par arrêté du
-représentant de l'Etat dans le département lorsque les communes appartiennent au
-même département et par arrêté conjoint des représentants de l'Etat dans les
+transformation.A défaut de délibération dans ce délai, leur décision est réputée
+favorable. La transformation peut être prononcée par arrêté du représentant de
+l'Etat dans le département lorsque les communes appartiennent au même
+département et par arrêté conjoint des représentants de l'Etat dans les
 départements concernés dans le cas contraire.
 
 L'ensemble des biens, droits et obligations du syndicat transformé sont
@@ -36,7 +36,11 @@ La transformation d'un syndicat intercommunal en communauté de communes ou en
 communauté d'agglomération est effectuée à titre gratuit et ne donne lieu au
 paiement d'aucune indemnité, droit, taxe, salaire ou honoraire.
 
-La transformation entraîne une nouvelle répartition entre toutes les communes
-des sièges au sein de l'organe délibérant du nouvel établissement, dans les
-conditions qui lui sont applicables, ainsi qu'une nouvelle élection de
-l'ensemble des délégués des communes.
+Le nombre et la répartition des membres de l'organe délibérant de la communauté
+de communes ou de la communauté d'agglomération sont déterminés dans les
+conditions prévues à l'article L. 5211-6-1.
+
+Jusqu'au prochain renouvellement général des conseils municipaux suivant la
+transformation en communauté de communes ou communauté d'agglomération, les
+délégués des communes sont désignés dans les conditions prévues au 1° de
+l'article L. 5211-6-2.

@@ -31,8 +31,7 @@ voies livrées à la circulation publique qui incombe aux propriétaires riverai
 4° Taxe forfaitaire sur la cession à titre onéreux de terrains devenus
 constructibles.
 
-III. Les communes membres d'une communauté ou d'un syndicat d'agglomération
-nouvelle visés à l'article 1609 nonies B perçoivent le produit des taxes
-foncières, de la taxe d'habitation et des autres droits et taxes, à l'exclusion
-de la taxe professionnelle, conformément aux dispositions applicables aux
-communes.
+III. Les communes membres d'un syndicat d'agglomération nouvelle visés à
+l'article 1609 nonies B perçoivent le produit des taxes foncières, de la taxe
+d'habitation et des autres droits et taxes, à l'exclusion de la taxe
+professionnelle, conformément aux dispositions applicables aux communes.

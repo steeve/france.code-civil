@@ -36,8 +36,8 @@ coopération intercommunale dont elles sont membres. Dans le cas particulier de
 syndicats de communes ou de syndicats mixtes, le retrait s'effectue dans les
 conditions fixées à l'article L. 5215-22.
 
-L'extension du périmètre entraîne une nouvelle répartition des sièges au conseil
-de la communauté urbaine conformément aux articles L. 5215-6 et L. 5215-7. Elle
+L'extension du périmètre entraîne l'attribution de sièges, conformément au 1° de
+l'article L. 5211-6-2, à chaque commune intégrant la communauté urbaine. Elle
 entraîne l'application à l'ensemble des biens, équipements et services publics
 nécessaires à l'exercice des compétences transférées, ainsi que des droits et
 obligations attachés à ces biens, équipements et services à la date du

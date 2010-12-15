@@ -1,22 +1,24 @@
 Article L2334-4
 ----
-Le potentiel fiscal d'une commune est déterminé par application aux bases
-communales des quatre taxes directes locales du taux moyen national d'imposition
-à chacune de ces taxes. Il est majoré du montant perçu l'année précédente au
-titre de la part de la dotation forfaitaire prévue au sixième alinéa (3°) de
-l'article L. 2334-7, hors montant correspondant à la compensation prévue au 2°
-bis du II de l'article 1648 B du code général des impôts dans sa rédaction
-antérieure à la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003), ou
-des montants ventilés en application du treizième alinéa du présent article.
+Le potentiel fiscal d'une commune ou d'une commune nouvelle est déterminé par
+application aux bases communales ou aux bases de la commune nouvelle, telles que
+définies à l'article L. 2113-21, des quatre taxes directes locales du taux moyen
+national d'imposition à chacune de ces taxes. Il est majoré du montant perçu
+l'année précédente au titre de la part de la dotation forfaitaire prévue au
+sixième alinéa (3°) de l'article L. 2334-7, hors montant correspondant à la
+compensation prévue au 2° bis du II de l'article 1648 B du code général des
+impôts dans sa rédaction antérieure à la loi de finances pour 2004 (n° 2003-1311
+du 30 décembre 2003), ou des montants ventilés en application du treizième
+alinéa du présent article.
 
-Le potentiel financier d'une commune est égal à son potentiel fiscal, majoré du
-montant de la dotation forfaitaire perçu par la commune l'année précédente, hors
-la part prévue au sixième alinéa (3°) de l'article L. 2334-7. Il est minoré le
-cas échéant des prélèvements sur le produit des impôts directs locaux mentionnés
-au dernier alinéa de l'article L. 2334-7 subis l'année précédente. Pour la
-commune de Paris, il est minoré du montant de sa participation obligatoire aux
-dépenses d'aide et de santé du département constaté dans le dernier compte
-administratif.
+Le potentiel financier d'une commune ou d'une commune nouvelle est égal à son
+potentiel fiscal, majoré du montant de la dotation forfaitaire perçu par la
+commune ou par la commune nouvelle l'année précédente, hors la part prévue au
+sixième alinéa (3°) de l'article L. 2334-7. Il est minoré le cas échéant des
+prélèvements sur le produit des impôts directs locaux mentionnés au dernier
+alinéa de l'article L. 2334-7 subis l'année précédente. Pour la commune de
+Paris, il est minoré du montant de sa participation obligatoire aux dépenses
+d'aide et de santé du département constaté dans le dernier compte administratif.
 
 Pour l'application du premier alinéa :
 
@@ -63,14 +65,14 @@ intercommunale faisant application du régime fiscal prévu au II de l'article
 
 Pour les communes membres d'un établissement public de coopération
 intercommunale faisant application du régime fiscal prévu à l'article 1609
-nonies C du code général des impôts, issu de la transformation d'un syndicat ou
-d'une communauté d'agglomération nouvelle et qui faisaient antérieurement partie
-de ce syndicat ou de cette communauté, il est ajouté à leurs bases de taxe
-professionnelle, calculées selon les modalités prévues à l'article L. 5334-16
-l'année précédant la transformation, une quote-part déterminée au prorata de
-leur population, de l'augmentation ou de la diminution totale des bases de taxe
-professionnelle de l'ensemble des communes membres de l'ancien syndicat
-d'agglomération nouvelle par rapport à l'année précédente.
+nonies C du code général des impôts, issu de la transformation d'un syndicat
+d'agglomération nouvelle et qui faisaient antérieurement partie de ce syndicat,
+il est ajouté à leurs bases de taxe professionnelle, calculées selon les
+modalités prévues à l'article L. 5334-16 l'année précédant la transformation,
+une quote-part déterminée au prorata de leur population, de l'augmentation ou de
+la diminution totale des bases de taxe professionnelle de l'ensemble des
+communes membres de l'ancien syndicat d'agglomération nouvelle par rapport à
+l'année précédente.
 
 2° La différence entre les bases de taxe professionnelle d'un établissement
 ayant opté pour le régime fiscal prévu à l'article 1609 nonies C du code général
@@ -102,14 +104,14 @@ de l'article 29 de la loi de finances pour 2003 précitée, réparti entre les
 communes au prorata de leur population.
 
 Pour les établissements publics de coopération intercommunale issus de la
-transformation d'un syndicat ou d'une communauté d'agglomération nouvelle, le
-potentiel financier des communes qui étaient membres du syndicat ou de la
-communauté et qui font partie du nouvel établissement public de coopération
-intercommunale est calculé à compter de 2006 conformément aux premier à
-treizième alinéas. Pour le calcul du potentiel fiscal de ces communes, la part
-de la dotation de compensation répartie entre les communes membres en
-application du treizième alinéa est prise en compte à hauteur d'un seuil de 20 %
-en 2006. Ce seuil augmente de 20 points par an pour atteindre 100 % en 2010.
+transformation d'un syndicat d'agglomération nouvelle, le potentiel financier
+des communes qui étaient membres du syndicat et qui font partie du nouvel
+établissement public de coopération intercommunale est calculé à compter de 2006
+conformément aux premier à treizième alinéas. Pour le calcul du potentiel fiscal
+de ces communes, la part de la dotation de compensation répartie entre les
+communes membres en application du treizième alinéa est prise en compte à
+hauteur d'un seuil de 20 % en 2006. Ce seuil augmente de 20 points par an pour
+atteindre 100 % en 2010.
 
 Lorsque, à compter de l'année de promulgation de la loi n° 99-1126 du 28
 décembre 1999 modifiant le code général des collectivités territoriales et

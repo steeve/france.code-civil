@@ -1,20 +1,10 @@
 Article L2113-17
 ----
-Il est créé un conseil consultatif pour chaque commune associée.
+Les articles L. 2511-9, L. 2511-10-1 à L. 2511-24, le quatrième alinéa de
+l'article L. 2511-25, les articles L. 2511-26, L. 2511-28 à L. 2511-33 et
+l'article 36 de la loi n° 82-1169 du 31 décembre 1982 relative à l'organisation
+administrative de Paris, Marseille, Lyon et des établissements publics de
+coopération intercommunale sont applicables aux communes déléguées.
 
-Le nombre des membres du conseil consultatif de la commune associée est
-déterminé selon les mêmes critères de population que ceux prévus par l'article
-L. 2121-2 pour la composition des conseils municipaux.
-
-Le conseil consultatif est élu à la même date que le conseil municipal de la
-commune.L'élection a lieu dans les mêmes conditions et selon le même mode de
-scrutin que ceux applicables à l'élection du conseil municipal d'une commune de
-même importance que la commune associée. Toutefois, jusqu'au premier
-renouvellement du conseil municipal qui suit la fusion, le conseil consultatif
-est composé de plein droit des conseillers municipaux en exercice au moment de
-la fusion dans la commune associée.
-
-Le conseil consultatif se réunit à l'annexe de la mairie.
-
-Le mandat de membre du conseil consultatif de la commune associée et le mandat
-de conseiller municipal ne sont pas incompatibles.
+Les articles L. 2511-36 à L. 2511-45 sont applicables aux communes déléguées
+dotées d'un conseil.

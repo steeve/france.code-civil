@@ -8,10 +8,10 @@ Sont tenus d'établir un bilan de leurs émissions de gaz à effet de serre :
 privé employant plus de deux cent cinquante personnes exerçant les activités
 définies au 1° ;
 
-3° L'Etat, les régions, les départements, les communautés urbaines, les
-communautés d'agglomération et les communes ou communautés de communes de plus
-de 50 000 habitants ainsi que les autres personnes morales de droit public
-employant plus de deux cent cinquante personnes.
+3° L'Etat, les régions, les départements, les métropoles, les communautés
+urbaines, les communautés d'agglomération et les communes ou communautés de
+communes de plus de 50 000 habitants ainsi que les autres personnes morales de
+droit public employant plus de deux cent cinquante personnes.
 
 L'Etat et les personnes mentionnées aux 1° à 3° joignent à ce bilan une synthèse
 des actions envisagées pour réduire leurs émissions de gaz à effet de serre.

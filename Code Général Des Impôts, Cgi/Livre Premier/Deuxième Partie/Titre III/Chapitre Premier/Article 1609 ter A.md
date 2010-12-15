@@ -12,8 +12,8 @@ ou, à défaut, de la commune dont la population est la plus importante.
 Toutefois, en cas de délibération contraire prise dans les conditions prévues au
 premier alinéa, le conseil d'une communauté urbaine existant à la date de
 publication de la loi n° 99-586 du 12 juillet 1999 précitée peut, à la majorité
-simple de ses membres, décider de percevoir la taxe professionnelle selon les
-dispositions de l'article 1609 nonies C. Cette décision doit être prise avant le
-31 décembre pour être applicable au 1er janvier de l'année suivante ; elle ne
-peut être rapportée pendant la période d'unification des taux prévue au 1° du
-III de l'article 1609 nonies C.
+simple de ses membres, décider de percevoir la cotisation foncière des
+entreprises selon les dispositions de l'article 1609 nonies C. Cette décision
+doit être prise avant le 31 décembre pour être applicable au 1er janvier de
+l'année suivante ; elle ne peut être rapportée pendant la période d'unification
+des taux prévue au 1° du III de l'article 1609 nonies C.

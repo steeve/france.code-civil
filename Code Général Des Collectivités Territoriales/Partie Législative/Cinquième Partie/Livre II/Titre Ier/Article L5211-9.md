@@ -16,7 +16,13 @@ du bureau. Il peut également donner, sous sa surveillance et sa responsabilité
 par arrêté, délégation de signature au directeur général des services, au
 directeur général adjoint des services, au directeur général des services
 techniques, au directeur des services techniques et aux responsables de service.
-Ces délégations subsistent tant qu'elles ne sont pas rapportées.
+La délégation de signature donnée au directeur général des services, au
+directeur général adjoint des services, au directeur général des services
+techniques, au directeur des services techniques et aux responsables de service
+peut être étendue aux attributions confiées par l'organe délibérant au président
+en application de l'article L. 5211-10, sauf si cet organe en a décidé autrement
+dans la délibération délégant ces attributions au président. Ces délégations
+subsistent tant qu'elles ne sont pas rapportées.
 
 Il est le chef des services de l'établissement public de coopération
 intercommunale.

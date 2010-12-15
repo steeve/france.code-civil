@@ -1,7 +1,7 @@
 Article L2113-12
 ----
-Les modalités de la fusion, autres que celles qui sont fixées par les articles
-L. 2113-13, L. 2113-15, le premier alinéa de l'article L. 2113-19, les articles
-L. 2113-21 à L. 2113-24 et L. 2123-21, peuvent être déterminées par une
-convention qui fait l'objet d'une ratification par les conseils municipaux
-intéressés.
+Le conseil municipal d'une commune nouvelle peut décider, à la majorité des deux
+tiers de ses membres, la création dans une ou plusieurs communes déléguées d'un
+conseil de la commune déléguée, composé d'un maire délégué et de conseillers
+communaux, dont il fixe le nombre, désignés par le conseil municipal parmi ses
+membres.

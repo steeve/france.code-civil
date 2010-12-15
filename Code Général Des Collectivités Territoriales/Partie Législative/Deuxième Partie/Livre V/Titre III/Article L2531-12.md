@@ -20,10 +20,9 @@ Le comité comprend :
 3° Le maire de Paris ;
 
 4° Trois présidents d'établissement public de coopération intercommunale, dont
-deux au titre des communautés ou syndicats d'agglomération nouvelle, élus par le
-collège des présidents d'établissement public de coopération intercommunale de
-la région d'Ile-de-France à la représentation proportionnelle au plus fort reste
-;
+deux au titre des syndicats d'agglomération nouvelle, élus par le collège des
+présidents d'établissement public de coopération intercommunale de la région
+d'Ile-de-France à la représentation proportionnelle au plus fort reste ;
 
 5° Treize maires élus par le collège des maires de la région d'Ile-de-France à
 la représentation proportionnelle au plus fort reste.

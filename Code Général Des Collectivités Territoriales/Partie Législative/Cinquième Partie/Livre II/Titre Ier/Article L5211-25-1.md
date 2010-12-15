@@ -24,7 +24,10 @@ intercommunale ou, le cas échéant, entre la commune et le syndicat de communes
 A défaut d'accord entre l'organe délibérant de l'établissement public de
 coopération intercommunale et les conseils municipaux des communes concernés,
 cette répartition est fixée par arrêté du ou des représentants de l'Etat dans le
-ou les départements concernés.
+ou les départements concernés. Cet arrêté est pris dans un délai de six mois
+suivant la saisine du ou des représentants de l'Etat dans le ou les départements
+concernés par l'organe délibérant de l'établissement public de coopération
+intercommunale ou de l'une des communes concernées.
 
 Les contrats sont exécutés dans les conditions antérieures jusqu'à leur
 échéance, sauf accord contraire des parties. La substitution de personne morale

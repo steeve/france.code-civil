@@ -13,3 +13,11 @@ coopération intercommunale à fiscalité propre peut transférer toute compéte
 un syndicat de communes ou un syndicat mixte sur tout ou partie de son
 territoire ou à plusieurs syndicats situés chacun sur des parties distinctes de
 son territoire.
+
+Lorsque par application des alinéas précédents ou des articles L. 5214-21, L.
+5215-22 ou L. 5216-7, un établissement public de coopération intercommunale à
+fiscalité propre n'est membre que pour une partie de son territoire d'un
+syndicat mixte, la population prise en compte dans le cadre de la majorité
+prévue aux articles L. 5211-17 à L. 5211-20 et L. 5212-27 au titre de cet
+établissement est la population correspondant à la partie de son territoire
+incluse dans le syndicat mixte.

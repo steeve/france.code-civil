@@ -1,11 +1,11 @@
 Article L5334-8
 ----
 Une dotation de coopération est instituée en faveur de chacune des communes
-membres de la communauté ou du syndicat d'agglomération nouvelle. Elle se
-substitue à la dotation de référence à compter de 1992.
+membres du syndicat d'agglomération nouvelle. Elle se substitue à la dotation de
+référence à compter de 1992.
 
-Le versement de cette dotation constitue pour la communauté ou le syndicat
-d'agglomération nouvelle une dépense obligatoire.
+Le versement de cette dotation constitue pour le syndicat d'agglomération
+nouvelle une dépense obligatoire.
 
 La dotation de coopération d'une commune comporte trois attributions servies
 dans l'ordre de priorité qui suit sous réserve des dispositions prévues à
@@ -38,9 +38,8 @@ enfants scolarisés et des logements sociaux sous réserve des dispositions
 prévues à l'article L. 5334-8-2.
 
 La pondération entre les différents critères ci-dessus énumérés est fixée par le
-conseil d'agglomération ou le comité syndical à la majorité des deux tiers de
-ses membres.A défaut, la pondération entre ces différents critères est la
-suivante :
+comité syndical à la majorité des deux tiers de ses membres. A défaut, la
+pondération entre ces différents critères est la suivante :
 
 65 % au titre de l'écart de potentiel fiscal ;
 
@@ -64,14 +63,13 @@ diminuée de la population fictive ;
 -le potentiel fiscal, calculé sur la base des données fiscales de la dernière
 année connue, qui est égal au montant des bases pondérées de la taxe
 d'habitation et des deux taxes foncières, le coefficient de pondération étant le
-taux moyen d'imposition, à chacune de ces trois taxes, des communes membres de
-la communauté ou du syndicat d'agglomération nouvelle ; ce montant est majoré
-des compensations versées par l'Etat au titre des mesures temporaires
-d'exonération de la taxe foncière des propriétés bâties pour les constructions
-nouvelles ; il y est ajouté, pour les communes en bénéficiant, le montant de
-l'attribution de garantie de ressources, ou retranché, pour les communes visées
-par l'article L. 5334-10, le montant du reversement tel que défini par cet
-article ;
+taux moyen d'imposition, à chacune de ces trois taxes, des communes membres du
+syndicat d'agglomération nouvelle ; ce montant est majoré des compensations
+versées par l'Etat au titre des mesures temporaires d'exonération de la taxe
+foncière des propriétés bâties pour les constructions nouvelles ; il y est
+ajouté, pour les communes en bénéficiant, le montant de l'attribution de
+garantie de ressources, ou retranché, pour les communes visées par l'article L.
+5334-10, le montant du reversement tel que défini par cet article ;
 
 -l'écart de potentiel fiscal d'une commune qui est égal à la différence entre
 deux fois le potentiel fiscal moyen par habitant et le potentiel fiscal par

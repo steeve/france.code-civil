@@ -6,8 +6,9 @@ conseils municipaux des communes intéressées représentant plus de la moitié 
 la population totale de celles-ci, ou de la moitié au moins des conseils
 municipaux des communes représentant les deux tiers de la population, cette
 majorité devant en outre nécessairement comprendre le conseil municipal dont la
-population est supérieure à la moitié de la population totale concernée. La
-dissolution est prononcée par décret en conseil des ministres.
+population est supérieure à la moitié de la population totale concernée. Elle
+est dissoute de plein droit lorsqu'elle ne compte plus qu'une seule commune
+membre. La dissolution est prononcée par décret en conseil des ministres.
 
 Un décret en Conseil d'Etat détermine, conformément aux dispositions de
 l'article L. 5211-25-1 et sous réserve des droits des tiers, les conditions dans

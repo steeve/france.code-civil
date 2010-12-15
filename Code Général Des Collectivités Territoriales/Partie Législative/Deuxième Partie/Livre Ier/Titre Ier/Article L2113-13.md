@@ -1,13 +1,9 @@
 Article L2113-13
 ----
-La création d'une commune associée entraîne de plein droit :
+Le maire délégué remplit dans la commune déléguée les fonctions d'officier
+d'état civil et d'officier de police judiciaire. Il peut être chargé, dans la
+commune déléguée, de l'exécution des lois et règlements de police et recevoir du
+maire les délégations prévues aux articles L. 2122-18 à L. 2122-20.
 
-1° L'institution d'un maire délégué ;
-
-2° La création d'une annexe de la mairie dans laquelle sont notamment établis
-les actes de l'état civil concernant les habitants de la commune associée ;
-
-3° La création d'une section du centre d'action sociale dotée de la personnalité
-juridique à laquelle est dévolu le patrimoine du centre d'action sociale ayant
-existé dans l'ancienne commune et dont les conditions de fonctionnement sont
-fixées par décret.
+Sans préjudice du second alinéa de l'article L. 2113-16, les fonctions de maire
+de la commune nouvelle et de maire délégué sont incompatibles.

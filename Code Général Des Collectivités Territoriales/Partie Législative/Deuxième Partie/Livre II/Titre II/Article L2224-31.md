@@ -142,17 +142,20 @@ les réseaux publics de distribution d'électricité, exercées ni par le
 département ni, au terme d'un délai d'un an suivant la date de publication de la
 loi n° 2006-1537 du 7 décembre 2006 relative au secteur de l'énergie, par un
 unique syndicat de communes ou syndicat mixte sur l'ensemble du territoire
-départemental ou sur un ensemble de territoires départementaux contigus, le ou
-les représentants de l'Etat dans le ou les départements engagent, dans le cadre
-des dispositions prévues au 2° du I de l'article L. 5211-5, la procédure de
-création d'un syndicat de communes ou d'un syndicat mixte pour l'exercice de ces
-compétences sur l'ensemble du territoire départemental ou sur un ensemble de
-territoires départementaux contigus.A défaut d'autorité organisatrice unique sur
-le territoire départemental, l'évaluation de la qualité de l'électricité
-réalisée en application de l'article 21-1 de la loi n° 2000-108 du 10 février
-2000 précitée est transmise par le ou les gestionnaires de réseaux publics
-concernés à une conférence, lorsque celle-ci a été constituée entre l'ensemble
-des autorités organisatrices du département dans les conditions prévues par
+départemental ou sur un ensemble de territoires départementaux contigus ni par
+un groupement de collectivités territoriales dont la population est au moins
+égale à un million d'habitants, le ou les représentants de l'Etat dans le ou les
+départements engagent, dans le cadre des dispositions prévues au 2° du I de
+l'article L. 5211-5 ou à l'article 61 de la loi n° 2010-1563 du 16 décembre 2010
+de réforme des collectivités territoriales, la procédure de création d'un
+syndicat de communes ou d'un syndicat mixte pour l'exercice de ces compétences
+sur l'ensemble du territoire départemental ou sur un ensemble de territoires
+départementaux contigus. A défaut d'autorité organisatrice unique sur le
+territoire départemental, l'évaluation de la qualité de l'électricité réalisée
+en application de l'article 21-1 de la loi n° 2000-108 du 10 février 2000
+précitée est transmise par le ou les gestionnaires de réseaux publics concernés
+à une conférence, lorsque celle-ci a été constituée entre l'ensemble des
+autorités organisatrices du département dans les conditions prévues par
 l'article L. 5221-2.
 
 Sous réserve des dispositions des articles 12 et 24 de la loi n° 2000-108 du 10

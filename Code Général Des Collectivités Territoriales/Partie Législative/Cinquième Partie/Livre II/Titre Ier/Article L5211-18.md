@@ -5,12 +5,7 @@ l'établissement public de coopération intercommunale peut être ultérieuremen
 étendu, par arrêté du ou des représentants de l'Etat dans le ou les départements
 concernés, par adjonction de communes nouvelles :
 
-1° Soit à la demande des conseils municipaux des communes nouvelles. Par
-dérogation à l'obligation de former un ensemble d'un seul tenant et sans enclave
-prévue par les articles L. 5214-1, L. 5215-1 et L. 5216-1, le représentant de
-l'Etat peut autoriser l'adhésion d'une ou plusieurs communes à un établissement
-public de coopération intercommunale à fiscalité propre, dès lors que ces
-communes sont empêchées d'adhérer par le refus d'une seule commune. La
+1° Soit à la demande des conseils municipaux des communes nouvelles. La
 modification est alors subordonnée à l'accord de l'organe délibérant de
 l'établissement public de coopération intercommunale ;
 
@@ -40,13 +35,18 @@ exercice, ainsi qu'à l'ensemble des droits et obligations qui leur sont attach�
 L. 1321-1, des deux premiers alinéas de l'article L. 1321-2 et des articles L.
 1321-3, L. 1321-4 et L. 1321-5.
 
-Toutefois, lorsque l'établissement public est compétent en matière de zones
-d'activité économique, les conditions financières et patrimoniales du transfert
-des biens immobiliers nécessaires à l'exercice de cette compétence sont décidées
+Toutefois, lorsque l'établissement public de coopération intercommunale est
+compétent en matière de zones d'activité économique, les biens immeubles des
+communes membres peuvent lui être transférés en pleine propriété, dans la mesure
+où ils sont nécessaires à l'exercice de cette compétence. Les conditions
+financières et patrimoniales du transfert des biens immobiliers sont décidées
 par délibérations concordantes de l'organe délibérant et des conseils municipaux
 des communes membres se prononçant dans les conditions de majorité qualifiée
-requise pour la création de l'établissement. Il en va de même lorsque
-l'établissement public est compétent en matière de zones d'aménagement concerté.
+requise pour la création de l'établissement, au plus tard un an après le
+transfert de compétences. Dans les cas où l'exercice de la compétence est
+subordonné à la définition de l'intérêt communautaire, ce délai court à compter
+de sa définition. Il en va de même lorsque l'établissement public est compétent
+en matière de zones d'aménagement concerté.
 
 L'établissement public de coopération intercommunale est substitué de plein
 droit, à la date du transfert de compétences, aux communes qui le composent dans

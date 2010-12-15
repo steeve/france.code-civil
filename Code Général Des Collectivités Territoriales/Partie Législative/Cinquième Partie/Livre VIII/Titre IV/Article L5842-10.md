@@ -20,12 +20,10 @@ supprimés ;
 2° Au troisième alinéa, les mots : " ou à l'article L. 5215-22 selon le cas "
 sont supprimés.
 
-IV.-Pour l'application de l'article L. 5211-41-3, les mots : " et, le cas
-échéant, selon les modalités prévues à l'article 1638 quinquies du code général
-des impôts " figurant au I sont supprimés et, au dernier alinéa du III, les mots
-: " à l'article 111 de la loi n° 84-53 du 26 janvier 1984 portant dispositions
-statutaires relatives à la fonction publique territoriale " sont remplacés par
-les mots : " lorsqu'il s'agit d'avantages collectivement acquis ayant le
-caractère de complément de rémunération que les communes et leurs établissements
-publics ont mis en place et qui sont pris en compte dans le budget de la commune
-ou de l'établissement ".
+IV.-Pour l'application de l'article L. 5211-41-3, au dernier alinéa du III, les
+mots : " à l'article 111 de la loi n° 84-53 du 26 janvier 1984 portant
+dispositions statutaires relatives à la fonction publique territoriale " sont
+remplacés par les mots : " lorsqu'il s'agit d'avantages collectivement acquis
+ayant le caractère de complément de rémunération que les communes et leurs
+établissements publics ont mis en place et qui sont pris en compte dans le
+budget de la commune ou de l'établissement ".

@@ -3,7 +3,7 @@ Article L5214-28
 La communauté de communes est dissoute :
 
 a) Soit de plein droit à l'expiration de la durée fixée par la décision
-institutive ;
+institutive ou lorsqu'elle ne compte plus qu'une seule commune membre ;
 
 b) Soit par le consentement de tous les conseils municipaux intéressés.
 

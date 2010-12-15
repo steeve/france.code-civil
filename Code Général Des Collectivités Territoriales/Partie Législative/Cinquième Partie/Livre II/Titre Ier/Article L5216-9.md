@@ -1,6 +1,7 @@
 Article L5216-9
 ----
-La communauté d'agglomération est dissoute, par décret en Conseil d'Etat, sur la
+La communauté d'agglomération est dissoute, par décret en Conseil d'Etat de
+plein droit lorsqu'elle ne compte plus qu'une seule commune membre ou, sur la
 demande des conseils municipaux des communes membres acquise par un vote des
 deux tiers au moins des conseils municipaux des communes intéressées
 représentant plus de la moitié de la population totale de celles-ci, ou de la

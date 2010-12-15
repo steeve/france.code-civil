@@ -7,10 +7,10 @@ entre quatre catégories d'actionnaires :
 
 2° Lorsqu'ils n'ont pas la qualité d'actionnaire de référence, les communautés
 de communes de plus de 50 000 habitants comprenant au moins une commune de plus
-de 15 000 habitants, les communautés urbaines, les communautés d'agglomération,
-les syndicats d'agglomération nouvelle, les départements et les régions sur le
-territoire desquels la société anonyme d'habitations à loyer modéré possède des
-logements ;
+de 15 000 habitants, les communautés urbaines, les métropoles, les communautés
+d'agglomération, les syndicats d'agglomération nouvelle, les départements et les
+régions sur le territoire desquels la société anonyme d'habitations à loyer
+modéré possède des logements ;
 
 3° Les représentants des locataires, élus sur des listes de candidats présentés
 par des associations oeuvrant dans le domaine du logement, indépendantes de tout

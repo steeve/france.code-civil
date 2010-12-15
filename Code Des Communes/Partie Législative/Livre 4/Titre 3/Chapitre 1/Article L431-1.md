@@ -3,8 +3,9 @@ Article L431-1
 Les personnels soumis aux dispositions de la loi n° 84-53 du 26 janvier 1984
 portant dispositions statutaires relatives à la fonction publique territoriale
 et les personnels soumis aux dispositions du code du travail qui remplissent
-leurs fonctions dans les communes fusionnées sont pris en charge par la nouvelle
-commune à compter de l'acte prononçant la fusion et demeurent soumis aux
+leurs fonctions dans les communes concernées par une fusion de communes ou la
+création d'une commune nouvelle sont pris en charge par la nouvelle commune à
+compter de l'acte prononçant la fusion ou la création et demeurent soumis aux
 dispositions de leur statut.
 
 Jusqu'au règlement définitif de leur situation, ils sont maintenus dans leur

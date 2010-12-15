@@ -18,4 +18,4 @@ abrogées.
 
 Les dispositions des alinéas précédents ne sont pas applicables lorsque
 l'établissement public prévu à l'article L. 122-4 est une communauté urbaine,
-une communauté d'agglomérations ou une communauté de communes.
+une métropole, une communauté d'agglomérations ou une communauté de communes.

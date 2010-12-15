@@ -21,21 +21,25 @@ seuils de population nécessaires pour une transformation en communauté
 d'agglomération, si les deux tiers au moins des communes du groupement comptent
 moins de 5 000 habitants, ainsi que les syndicats mixtes composés uniquement
 d'établissements publics de coopération intercommunale à fiscalité propre
-répondant aux mêmes règles d'éligibilité. Les communes éligibles au titre d'une
-année à la seconde fraction de la dotation de solidarité rurale prévue à
-l'article L. 2334-22 bénéficient l'année suivante de la seconde part de la
-dotation de développement rural.
+répondant aux mêmes règles d'éligibilité et les communes nouvelles, pendant les
+trois premiers exercices à compter de leur création, lorsque le ou les
+établissements publics de coopération intercommunale dont elles sont issues
+étaient éligibles à la dotation l'année précédant leur transformation en commune
+nouvelle. Les communes éligibles au titre d'une année à la seconde fraction de
+la dotation de solidarité rurale prévue à l'article L. 2334-22 bénéficient
+l'année suivante de la seconde part de la dotation de développement rural.
 
 Les crédits de la première part de la dotation de développement rural sont
 répartis entre les départements en tenant compte du nombre de communes
-regroupées et du nombre d'établissements publics de coopération intercommunale,
-de la population regroupée, du potentiel fiscal et, le cas échéant, du
-coefficient d'intégration fiscale de ces établissements. La répartition peut
-également tenir compte du nombre de communes regroupées et d'établissements
-publics de coopération intercommunale situés en zone de montagne. Les crédits de
-la seconde part sont répartis entre les départements en proportion du rapport
-entre la densité moyenne de population de l'ensemble des départements et la
-densité de population du département.
+nouvelles, du nombre de communes regroupées et du nombre d'établissements
+publics de coopération intercommunale, de la population regroupée, du potentiel
+fiscal et, le cas échéant, du coefficient d'intégration fiscale de ces
+établissements. La répartition peut également tenir compte du nombre de communes
+nouvelles, du nombre de communes regroupées et d'établissements publics de
+coopération intercommunale situés en zone de montagne. Les crédits de la seconde
+part sont répartis entre les départements en proportion du rapport entre la
+densité moyenne de population de l'ensemble des départements et la densité de
+population du département.
 
 Les attributions sont arrêtées par le représentant de l'Etat dans le
 département, sous forme de subventions, après avis de la commission d'élus

@@ -1,27 +1,33 @@
 Article L1615-6
 ----
-I.-Jusqu'au 31 décembre 2001, les attributions du Fonds de compensation pour la
-taxe sur la valeur ajoutée sont déterminées en appliquant aux dépenses réelles
-d'investissement, définies par décret en Conseil d'Etat, un taux de compensation
-forfaitaire de 16, 176 %. En 2002, le taux de compensation forfaitaire est fixé
-à 15, 656 %.A compter de 2003, ce taux est fixé à 15, 482 %.
+I. - Jusqu'au 31 décembre 2001, les attributions du Fonds de compensation pour
+la taxe sur la valeur ajoutée sont déterminées en appliquant aux dépenses
+réelles d'investissement, définies par décret en Conseil d'Etat, un taux de
+compensation forfaitaire de 16, 176 %. En 2002, le taux de compensation
+forfaitaire est fixé à 15, 656 %.A compter de 2003, ce taux est fixé à 15, 482
+%.
 
 Le taux de compensation forfaitaire de 15, 482 % est applicable aux dépenses
 d'investissement éligibles réalisées à compter du 1er avril 2000 par les
 communautés de communes, les communautés de villes et les communautés
 d'agglomération.
 
-II.-Pour les bénéficiaires du Fonds de compensation pour la taxe sur la valeur
+II. - Pour les bénéficiaires du Fonds de compensation pour la taxe sur la valeur
 ajoutée mentionnés à l'article L. 1615-2, autres que ceux mentionnés aux
-deuxième, troisième et sixième alinéas du présent II, les dépenses réelles
-d'investissement à prendre en considération pour la détermination des
-attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au
-titre d'une année déterminée sont celles afférentes à la pénultième année.
+deuxième, troisième, sixième, neuvième, dixième et onzième alinéas du présent
+II, les dépenses réelles d'investissement à prendre en considération pour la
+détermination des attributions du Fonds de compensation pour la taxe sur la
+valeur ajoutée au titre d'une année déterminée sont celles afférentes à la
+pénultième année.
 
 Pour les communautés de communes et les communautés d'agglomération instituées
-respectivement aux articles L. 5214-1 et L. 5216-1, les dépenses réelles
+respectivement aux articles L. 5214-1 et L. 5216-1 et pour les communes
+nouvelles mentionnées à l'article L. 2113-1, les dépenses réelles
 d'investissement à prendre en considération sont celles afférentes à l'exercice
-en cours.
+en cours. Les communes nouvelles mentionnées au même article L. 2113-1 sont
+subrogées dans les droits des communes auxquelles elles se substituent pour les
+attributions du fonds de compensation pour la taxe sur la valeur ajoutée au
+titre de leurs dépenses d'investissement.
 
 Pour les bénéficiaires du fonds qui s'engagent, avant le 15 mai 2009 et, après
 autorisation de leur assemblée délibérante, par convention avec le représentant
@@ -75,7 +81,26 @@ réelles d'investissement de 2009 ayant déjà donné lieu à attribution.
 Une même dépense réelle d'investissement ne peut donner lieu à plus d'une
 attribution du Fonds de compensation pour la taxe sur la valeur ajoutée.
 
-III.-Les dépenses réelles d'investissement réalisées par les bénéficiaires du
+Pour les métropoles qui se substituent à des communautés d'agglomération, les
+dépenses réelles d'investissement à prendre en considération sont celles
+afférentes à l'exercice en cours.
+
+Pour les métropoles autres que celles visées à l'alinéa précédent, qui se
+substituent à des communautés urbaines relevant des troisième ou sixième alinéas
+du présent II, les dépenses réelles d'investissement à prendre en considération
+sont celles afférentes à l'exercice précédent.
+
+Pour les communes membres d'établissements publics de coopération intercommunale
+qui appliquent le régime prévu à l'article L. 5211-28-2, les dépenses réelles
+d'investissement à prendre en considération sont celles afférentes à l'exercice
+précédent. La première année d'application de ce régime, pour les communes
+membres qui ne relevaient pas des régimes prévus aux troisième ou sixième
+alinéas du présent II, les dépenses réelles d'investissement éligibles de la
+pénultième année s'ajoutent à celles afférentes à l'exercice précédent pour le
+calcul des attributions du Fonds de compensation pour la taxe sur la valeur
+ajoutée.
+
+III. - Les dépenses réelles d'investissement réalisées par les bénéficiaires du
 Fonds de compensation pour la taxe sur la valeur ajoutée et visant à réparer les
 dommages directement causés par des intempéries exceptionnelles reconnues par
 décret, et situés dans des communes ayant fait l'objet d'une constatation de

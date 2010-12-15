@@ -7,20 +7,16 @@ ou aux régions de telle sorte que chaque domaine de compétences ainsi que les
 ressources correspondantes soient affectés en totalité soit à l'Etat, soit aux
 communes, soit aux départements, soit aux régions.
 
-Afin d'étudier et débattre de tous sujets concernant l'exercice de compétences
-pour lesquelles une concertation est prévue par la loi et de tous domaines
-nécessitant une harmonisation entre les deux niveaux de collectivités, il est
-créé une instance de concertation entre la région et les départements dénommée
-"conférence des exécutifs". Cette instance est composée du président du conseil
-régional, des présidents des conseils généraux, des présidents des communautés
-urbaines et des présidents des communautés d'agglomération situées sur le
-territoire régional. Elle se réunit à l'initiative du président du conseil
-régional au moins une fois par an.
-
 Les communes, les départements et les régions financent par priorité les projets
 relevant des domaines de compétences qui leur ont été dévolus par la loi. Les
-décisions prises par les collectivités locales d'accorder ou de refuser une aide
-financière à une autre collectivité locale ne peuvent avoir pour effet
-l'établissement ou l'exercice d'une tutelle, sous quelque forme que ce soit, sur
-celle-ci. Ces dispositions s'appliquent aux décisions prises après le 1er avril
-1991.
+décisions prises par les collectivités territoriales d'accorder ou de refuser
+une aide financière à une autre collectivité territoriale ne peuvent avoir pour
+effet l'établissement ou l'exercice d'une tutelle, sous quelque forme que ce
+soit, sur celle-ci. Ces dispositions s'appliquent aux décisions prises après le
+1er avril 1991.
+
+L'attribution par une collectivité territoriale à une autre collectivité
+territoriale d'une aide financière ne peut être subordonnée à des conditions
+tenant à l'appartenance de la collectivité bénéficiaire à une association, à un
+établissement public de coopération intercommunale ou à un syndicat mixte,
+existant ou à créer.

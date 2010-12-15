@@ -11,20 +11,20 @@ prononçant dans les conditions requises pour la création de l'établissement
 public de coopération intercommunale. Le conseil municipal de chaque commune
 membre dispose d'un délai de trois mois à compter de la notification au maire de
 la délibération de l'organe délibérant de l'établissement public de coopération
-intercommunale pour se prononcer sur la transformation proposée. A défaut de
-délibération dans ce délai, sa décision est réputée favorable. La transformation
-est alors prononcée par arrêté du représentant de l'Etat dans le département
-lorsque les communes appartiennent au même département et par arrêté conjoint
-des représentants de l'Etat dans les départements concernés dans le cas
-contraire.
+intercommunale pour se prononcer sur la transformation proposée.A défaut de
+délibération dans ce délai, sa décision est réputée favorable. Sans préjudice
+des dispositions de l'article L. 5217-2, la transformation est alors prononcée
+par arrêté du représentant de l'Etat dans le département lorsque les communes
+appartiennent au même département et par arrêté conjoint des représentants de
+l'Etat dans les départements concernés dans le cas contraire.
 
 L'ensemble des biens, droits et obligations de l'établissement public de
 coopération intercommunale transformé sont transférés au nouvel établissement
 public qui est substitué de plein droit à l'ancien établissement dans toutes les
-délibérations et tous les actes de ce dernier à la date de l'arrêté de
-transformation. L'ensemble des personnels de l'établissement transformé est
-réputé relever du nouvel établissement dans les conditions de statut et d'emploi
-qui sont les siennes.
+délibérations et tous les actes de ce dernier à la date de l'acte duquel la
+transformation est issue.L'ensemble des personnels de l'établissement transformé
+est réputé relever du nouvel établissement dans les conditions de statut et
+d'emploi qui sont les siennes.
 
 Sans préjudice des dispositions des articles L. 2121-33 et L. 2122-10, les
 délégués des communes à l'organe délibérant de l'ancien établissement conservent

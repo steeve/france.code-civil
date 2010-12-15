@@ -34,13 +34,15 @@ propre mentionné au premier alinéa perçoit, par prélèvement sur le montant 
 des sommes affectées à la catégorie d'établissement à laquelle il appartient :
 
 a) Une dotation de base, calculée en fonction de la population totale des
-communes regroupées et pondérée, le cas échéant, par le coefficient
-d'intégration fiscale de l'établissement public de coopération intercommunale ;
+communes et des communes nouvelles regroupées et pondérée, le cas échéant, par
+le coefficient d'intégration fiscale de l'établissement public de coopération
+intercommunale ;
 
 b) Une dotation de péréquation calculée en fonction de la population totale des
-communes regroupées, du potentiel fiscal de l'établissement public de
-coopération intercommunale et pondérée, le cas échéant, par le coefficient
-d'intégration fiscale de l'établissement public de coopération intercommunale.
+communes et des communes nouvelles regroupées, du potentiel fiscal de
+l'établissement public de coopération intercommunale et pondérée, le cas
+échéant, par le coefficient d'intégration fiscale de l'établissement public de
+coopération intercommunale.
 
 La majoration prévue au onzième alinéa de l'article L. 5211-29 est affectée aux
 communautés de communes visées à l'article L. 5214-23-1. Elle s'ajoute à leur
@@ -66,22 +68,21 @@ moyen national et le taux appliqué dans la communauté de communes entre 1998 a
 titre des bases hors zone d'activités économiques.
 
 Par dérogation également, le potentiel fiscal des communautés d'agglomération
-issues de la transformation de syndicats ou de communautés d'agglomération
-nouvelle est pondéré par le rapport entre les bases brutes par habitant de taxe
-professionnelle des communautés d'agglomération et la somme des bases brutes par
-habitant des syndicats ou communautés d'agglomération nouvelle et de ceux
-d'entre eux qui se sont transformés en communautés d'agglomération, sous réserve
-que ce rapport soit inférieur à un.
+issues de la transformation de syndicats d'agglomération nouvelle est pondéré
+par le rapport entre les bases brutes par habitant de taxe professionnelle des
+communautés d'agglomération et la somme des bases brutes par habitant des
+syndicats d'agglomération nouvelle et de ceux d'entre eux qui se sont
+transformés en communautés d'agglomération, sous réserve que ce rapport soit
+inférieur à un.
 
-Le potentiel fiscal des syndicats ou communautés d'agglomération nouvelle est
-déterminé par application à leurs bases brutes de taxe professionnelle du taux
-moyen national d'imposition à cette taxe constaté pour la catégorie
-d'établissement à laquelle ils appartiennent. Il est majoré du montant, pour la
-dernière année connue, de la dotation de compensation prévue au premier alinéa
-de l'article L. 5211-28-1, hors les montants correspondant à la compensation
-prévue au 2° bis du II de l'article 1648 B du code général des impôts dans sa
-rédaction antérieure à la loi de finances pour 2004 (n° 2003-1311 du 30 décembre
-2003).
+Le potentiel fiscal des syndicats d'agglomération nouvelle est déterminé par
+application à leurs bases brutes de taxe professionnelle du taux moyen national
+d'imposition à cette taxe constaté pour la catégorie d'établissement à laquelle
+ils appartiennent. Il est majoré du montant, pour la dernière année connue, de
+la dotation de compensation prévue au premier alinéa de l'article L. 5211-28-1,
+hors les montants correspondant à la compensation prévue au 2° bis du II de
+l'article 1648 B du code général des impôts dans sa rédaction antérieure à la
+loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003).
 
 III.-1° Le coefficient d'intégration fiscale, qui est défini pour les
 communautés urbaines de 2000 à 2002 et les communautés d'agglomération, est
@@ -93,8 +94,9 @@ perçues par l'établissement public minorées des dépenses de transfert ;
 
 b) Les recettes provenant des quatre taxes directes locales, de la taxe ou de la
 redevance d'enlèvement des ordures ménagères et de la redevance d'assainissement
-perçues par les communes regroupées et l'ensemble des établissements publics de
-coopération intercommunale sur le territoire de celles-ci ;
+perçues par les communes et les communes nouvelles regroupées et l'ensemble des
+établissements publics de coopération intercommunale sur le territoire de
+celles-ci ;
 
 Les recettes de taxe professionnelle prévues au a et au b ci-dessus perçues par
 les communautés d'agglomération et les communautés urbaines faisant application
@@ -121,9 +123,9 @@ l'article 1609 nonies C du code général des impôts, ces recettes sont minoré
 des dépenses de transfert ;
 
 b) Les recettes provenant des quatre taxes directes locales et de la taxe ou de
-la redevance d'enlèvement des ordures ménagères perçues par les communes
-regroupées et l'ensemble des établissements publics de coopération
-intercommunale sur le territoire de celles-ci ;
+la redevance d'enlèvement des ordures ménagères perçues par les communes et les
+communes nouvelles regroupées et l'ensemble des établissements publics de
+coopération intercommunale sur le territoire de celles-ci ;
 
 Les recettes de taxe professionnelle prévues au a et au b ci-dessus perçues par
 les communautés de communes faisant application des dispositions de l'article
@@ -141,8 +143,8 @@ décembre 1994 précitée.
 d'établissement public de coopération intercommunale, sont prises en compte les
 sommes des recettes et le cas échéant des dépenses de transfert de l'ensemble
 des établissements publics percevant depuis plus de deux ans la dotation
-d'intercommunalité dans cette catégorie et la somme des recettes des communes
-regroupées dans ces établissements publics.
+d'intercommunalité dans cette catégorie et la somme des recettes des communes et
+des communes nouvelles regroupées dans ces établissements publics.
 
 IV.-Les dépenses de transfert retenues pour déterminer le coefficient
 d'intégration fiscale des communautés de communes faisant application des

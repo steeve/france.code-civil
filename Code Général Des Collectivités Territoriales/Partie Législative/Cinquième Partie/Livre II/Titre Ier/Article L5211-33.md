@@ -77,10 +77,9 @@ l'application des 2° et 3° du présent II, percevoir une attribution par habit
 inférieure, respectivement, à 95 %, 90 % et 85 % de la dotation par habitant
 perçue l'année précédente.
 
-Les syndicats ou communautés d'agglomération nouvelle perçoivent une attribution
-qui progresse chaque année selon un taux fixé par le comité des finances locales
-au plus égal au taux d'évolution de la dotation forfaitaire prévue à l'article
-L. 2334-7.
+Les syndicats d'agglomération nouvelle perçoivent une attribution qui progresse
+chaque année selon un taux fixé par le comité des finances locales au plus égal
+au taux d'évolution de la dotation forfaitaire prévue à l'article L. 2334-7.
 
 A compter de 2005, les communautés d'agglomération, les communautés de communes
 ne faisant pas application des dispositions de l'article 1609 nonies C du code

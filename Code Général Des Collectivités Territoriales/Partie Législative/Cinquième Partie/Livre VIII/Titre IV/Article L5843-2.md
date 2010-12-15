@@ -1,8 +1,8 @@
 Article L5843-2
 ----
-I.-Les articles L. 5721-1, L. 5721-2, à l'exception de son dernier alinéa, L.
-5721-2-1, L. 5721-3 et L. 5721-5 à L. 5721-9 sont applicables en Polynésie
-française sous réserve des adaptations prévues aux II, III et IV.
+I.-Les articles L. 5721-1, L. 5721-2, L. 5721-2-1, L. 5721-3 et L. 5721-5 à L.
+5721-9 sont applicables en Polynésie française sous réserve des adaptations
+prévues aux II, III et IV.
 
 II.-Pour l'application de l'article L. 5721-2 :
 

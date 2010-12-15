@@ -1,7 +1,7 @@
 Article L5334-19
 ----
-La communauté, le syndicat d'agglomération nouvelle ou la commune créée en
-application des 1° et 2° de l'article L. 5321-1 bénéficient :
+Le syndicat d'agglomération nouvelle ou la commune créée en application des 1°
+et 2° de l'article L. 5321-1 bénéficient :
 
 1° De dotations en capital de l'Etat, notamment pour alléger la charge de la
 dette et, le cas échéant, pour faire face aux dépenses exceptionnelles liées à
@@ -27,7 +27,7 @@ En cas de création d'une commune nouvelle ou d'un syndicat en application de
 l'article L. 5321-1 ci-dessus, les majorations de subventions prévues aux
 articles L. 2335-6 à L. 2335-8 ne sont pas applicables.
 
-La communauté ou le syndicat d'agglomération nouvelle ou la commune unique
-support d'une agglomération nouvelle est habilité à recevoir la garantie de
-l'Etat et des collectivités publiques pour les opérations engageant sa propre
-responsabilité vis-à-vis des établissements publics de crédit.
+Le syndicat d'agglomération nouvelle ou la commune unique support d'une
+agglomération nouvelle est habilité à recevoir la garantie de l'Etat et des
+collectivités publiques pour les opérations engageant sa propre responsabilité
+vis-à-vis des établissements publics de crédit.

@@ -1,10 +1,16 @@
 Article L5211-10
 ----
 Le bureau de l'établissement public de coopération intercommunale est composé du
-président, d'un ou de plusieurs vice-présidents et, éventuellement, d'un ou de
-plusieurs autres membres. Le nombre de vice-présidents est librement déterminé
-par l'organe délibérant, sans que ce nombre puisse excéder 30 % de l'effectif de
-celui-ci.
+président, d'un ou plusieurs vice-présidents et, éventuellement, d'un ou de
+plusieurs autres membres.
+
+Le nombre de vice-présidents est déterminé par l'organe délibérant, sans que ce
+nombre puisse être supérieur à 20 % de l'effectif total de l'organe délibérant
+ni qu'il puisse excéder quinze vice-présidents.
+
+Toutefois, si l'application de la règle définie à l'alinéa précédent conduit à
+fixer à moins de quatre le nombre des vice-présidents, ce nombre peut être porté
+à quatre.
 
 Le mandat des membres du bureau prend fin en même temps que celui des membres de
 l'organe délibérant.
