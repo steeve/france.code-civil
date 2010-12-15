@@ -8,9 +8,10 @@ cette activité.
 
 Sans préjudice de l'article L. 2212-2 et par dérogation à l'article L. 2224-16,
 lorsqu'un groupement de collectivités est compétent en matière de gestion des
-déchets ménagers, les maires des communes membres de celui-ci transfèrent au
-président de cet établissement les attributions lui permettant de réglementer
-cette activité.
+déchets ménagers, les maires des communes membres de celui-ci ou membres d'un
+établissement public de coopération intercommunale à fiscalité propre membre du
+groupement de collectivités transfèrent au président de ce groupement les
+attributions lui permettant de réglementer cette activité.
 
 Par dérogation à l'article 9 de la loi n° 2000-614 du 5 juillet 2000 relative à
 l'accueil et à l'habitat des gens du voyage, lorsqu'un établissement public de
@@ -45,21 +46,24 @@ transmet pour information aux maires des communes concernées dans les meilleurs
 délais.
 
 III.-Dans un délai de six mois suivant la date de l'élection du président de
-l'établissement public de coopération intercommunale, un ou plusieurs maires
-peuvent s'opposer, dans chacun des domaines énumérés aux trois premiers alinéas
-du I, au transfert des pouvoirs de police. A cette fin, ils notifient leur
-opposition au président de l'établissement public de coopération intercommunale.
-Il est alors mis fin au transfert pour les communes dont le maire a notifié son
-opposition.
+l'établissement public de coopération intercommunale ou du groupement de
+collectivités territoriales ou suivant la date à laquelle les compétences
+mentionnées aux trois premiers alinéas du I ont été transférées à
+l'établissement ou au groupement, un ou plusieurs maires peuvent s'opposer, dans
+chacun de ces domaines, au transfert des pouvoirs de police. A cette fin, ils
+notifient leur opposition au président de l'établissement public de coopération
+intercommunale ou du groupement de collectivités territoriales. Il est alors mis
+fin au transfert pour les communes dont les maires ont notifié leur opposition.
 
-Dans un délai de six mois suivant son élection, si un ou plusieurs maires des
-communes concernées se sont opposés au transfert de leurs pouvoirs de police, le
-président de l'établissement public de coopération intercommunale peut refuser,
-dans chacun des domaines énumérés aux trois premiers alinéas du I, que les
-pouvoirs de police spéciale des maires des communes membres lui soient
-transférés de plein droit. A cette fin, il notifie son opposition à chacun des
-maires des communes membres. Dans ce cas, le transfert des pouvoirs de police
-n'a pas lieu.
+Si un ou plusieurs maires des communes concernées se sont opposés au transfert
+de leurs pouvoirs de police, le président de l'établissement public de
+coopération intercommunale ou du groupement de collectivités territoriales peut
+renoncer, dans chacun des domaines mentionnés aux trois premiers alinéas du I, à
+ce que les pouvoirs de police spéciale des maires des communes membres lui
+soient transférés de plein droit. Il notifie sa renonciation à chacun des maires
+des communes membres dans un délai de six mois à compter de la réception de la
+première notification d'opposition. Dans ce cas, le transfert des pouvoirs de
+police prend fin à compter de cette notification.
 
 IV.-Dans les cas prévus aux trois derniers alinéas du I, sur proposition d'un ou
 de plusieurs maires de communes intéressées, le transfert est décidé par arrêté
