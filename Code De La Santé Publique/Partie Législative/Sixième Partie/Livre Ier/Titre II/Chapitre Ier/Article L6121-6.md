@@ -28,3 +28,9 @@ Une charte fixe les objectifs de la communauté et indique les modalités
 juridiques de mise en oeuvre choisies par les établissements parmi celles fixées
 à l'article L. 6134-1. La charte est agréée par le directeur de l'agence
 régionale de l'hospitalisation.
+
+A compter de la publication de l'ordonnance n° 2003-850 du 4 septembre 2003
+portant simplification de l'organisation et du fonctionnement du système de
+santé ainsi que des procédures de création d'établissements ou de services
+sociaux ou médico-sociaux soumis à autorisation, aucune communauté
+d'établissements de santé ne peut être créée.
