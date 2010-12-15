@@ -2,7 +2,8 @@ Article L1111-8
 ----
 Une collectivité territoriale peut déléguer à une collectivité territoriale
 relevant d'une autre catégorie ou à un établissement public de coopération
-intercommunale à fiscalité propre une compétence dont elle est attributaire.
+intercommunale à fiscalité propre une compétence dont elle est attributaire,
+qu'il s'agisse d'une compétence exclusive ou d'une compétence partagée.
 
 Les compétences déléguées en application de l'alinéa précédent sont exercées au
 nom et pour le compte de la collectivité territoriale délégante.
