@@ -34,15 +34,10 @@ transport d'autres hydrocarbures prévue à l'article 1519 HA ;
 2. Du produit de la taxe additionnelle à la taxe foncière sur les propriétés non
 bâties, prévue à l'article 1519 I.
 
-3. Le cas échéant, sur délibérations concordantes des communes membres et de
-l'établissement public de coopération intercommunale, du reversement du Fonds
-national de garantie individuelle des ressources communales et intercommunales
-prévu au 2.1 de l'article 78 de la loi n° 2009-1673 du 30 décembre 2009 de
-finances pour 2010.
-
 II.-Le conseil des établissements publics de coopération intercommunale
-mentionnés au I vote les taux de la taxe d'habitation, de la taxe foncière sur
-les propriétés bâties et de la taxe foncière sur les propriétés non bâties.
+mentionnés au I du présent article vote les taux de la taxe d'habitation, de la
+taxe foncière sur les propriétés bâties et de la taxe foncière sur les
+propriétés non bâties.
 
 La première année d'application du présent article, ainsi que l'année qui suit
 celle au titre de laquelle l'établissement public de coopération intercommunale
@@ -64,7 +59,8 @@ ne peut augmenter plus ou diminuer moins que le taux de la taxe d'habitation
 jusqu'à la date de la prochaine révision.
 
 III.-1° a) Le taux de la cotisation foncière des entreprises est voté par le
-conseil mentionné au II dans les limites fixées à l'article 1636 B decies.
+conseil mentionné au II du présent article dans les limites fixées à l'article
+1636 B decies.
 
 La première année d'application du présent article, le taux de cotisation
 foncière des entreprises voté par le conseil de l'établissement public de
@@ -78,10 +74,10 @@ de ces dispositions, le taux moyen pondéré mentionné au premier alinéa est
 majoré du taux de la cotisation foncière des entreprises perçue l'année
 précédente par cet établissement public de coopération intercommunale.
 
-Les deuxième et troisième alinéas s'appliquent également la première année de
-perception de la cotisation foncière des entreprises par un établissement public
-de coopération intercommunale faisant application des régimes déterminés à
-l'article 1609 quinquies C.
+Les deuxième et troisième alinéas du présent III s'appliquent également la
+première année de perception de la cotisation foncière des entreprises par un
+établissement public de coopération intercommunale faisant application des
+régimes déterminés à l'article 1609 quinquies C.
 
 b) Le taux de cotisation foncière des entreprises applicable dans chaque commune
 membre est rapproché du taux de l'établissement public de coopération
@@ -107,17 +103,17 @@ simple de ses membres, modifier la durée de la période de réduction des écar
 de taux résultant du b, sans que cette durée puisse excéder douze ans.
 
 La délibération doit intervenir dans les conditions prévues à l'article 1639 A,
-au cours des deux premières années d'application du I.
+au cours des deux premières années d'application du I du présent article.
 
 Cette délibération ne peut être modifiée ultérieurement, sauf en cas de retrait
 d'une ou plusieurs communes en application des articles L. 5211-41-1, L.
 5215-40-1 et L. 5216-10 du code général des collectivités territoriales.
 
-Pour l'application du présent c, la réduction des écarts de taux s'opère, chaque
-année, par parts égales ; dans le cas où le dispositif de réduction des écarts
-de taux est déjà en cours, l'écart est réduit chaque année, par parts égales en
-proportion du nombre d'années restant à courir conformément à la durée fixée par
-la délibération.
+Pour l'application de cette disposition, la réduction des écarts de taux
+s'opère, chaque année, par parts égales ; dans le cas où le dispositif de
+réduction des écarts de taux est déjà en cours, l'écart est réduit chaque année,
+par parts égales en proportion du nombre d'années restant à courir conformément
+à la durée fixée par la délibération.
 
 d) Lorsqu'un établissement public de coopération intercommunale faisant
 application du I de l'article 1609 quinquies C opte pour le régime prévu au
@@ -164,7 +160,7 @@ Le coût des dépenses liées à des équipements concernant les compétences
 transférées est calculé sur la base d'un coût moyen annualisé. Ce coût intègre
 le coût de réalisation ou d'acquisition de l'équipement ou, en tant que de
 besoin, son coût de renouvellement. Il intègre également les charges financières
-et les dépenses d'entretien. L'ensemble de ces dépenses est pris en compte pour
+et les dépenses d'entretien.L'ensemble de ces dépenses est pris en compte pour
 une durée normale d'utilisation et ramené à une seule année.
 
 Le coût des dépenses transférées est réduit, le cas échéant, des ressources
@@ -190,7 +186,7 @@ Lorsque l'attribution de compensation est négative, l'établissement public de
 coopération intercommunale peut demander à la commune d'effectuer, à due
 concurrence, un versement à son profit.
 
-Les attributions de compensation fixées conformément aux 2°, 4°, 5° ou, le cas
+Les attributions de compensation fixées conformément aux 2°,4°,5° ou, le cas
 échéant, au 1° bis constituent une dépense obligatoire pour l'établissement
 public de coopération intercommunale ou, le cas échéant, les communes membres.
 Le conseil de l'établissement public de coopération intercommunale communique
@@ -212,7 +208,7 @@ l'unanimité, en tenant compte du rapport de la commission locale d'évaluation
 des transferts de charges.
 
 A défaut d'accord unanime, le montant de l'attribution est fixé dans les
-conditions figurant aux 2°, 4° et 5° ;
+conditions figurant aux 2°,4° et 5° ;
 
 2° L'attribution de compensation est égale à la somme des produits mentionnés
 aux I et I bis et du produit de la taxe sur les surfaces commerciales prévue à
@@ -272,10 +268,10 @@ cette modification, par l'établissement public de coopération intercommunale
 auquel elle a cessé d'appartenir, au titre de la part de la dotation de
 compensation prévue à l'article L. 5211-28-1 du code général des collectivités
 territoriales correspondant au montant antérieurement versé en application du I
-du D de l'article 44 de la loi de finances pour 1999 précitée. L'organe
+du D de l'article 44 de la loi de finances pour 1999 précitée.L'organe
 délibérant de l'établissement public de coopération intercommunale transmet
 chaque année au représentant de l'Etat dans le département un rapport sur
-l'application de la première phrase du septième alinéa.
+l'application de la deuxième phrase du premier alinéa.
 
 L'attribution de compensation est recalculée, dans les conditions prévues au IV,
 lors de chaque transfert de charge.
@@ -310,7 +306,7 @@ formules d'amortissement des investissements et les procédures comptables.
 Lorsque la fusion s'accompagne d'un transfert ou d'une restitution de
 compétences, cette attribution de compensation est respectivement diminuée ou
 majorée du montant net des charges transférées calculé dans les conditions
-définies au IV. A titre dérogatoire, les établissements publics de coopération
+définies au IV.A titre dérogatoire, les établissements publics de coopération
 intercommunale issus d'une fusion ou d'une modification de périmètre au 1er
 janvier 2010 et les conseils municipaux de leurs communes membres peuvent, par
 délibérations concordantes prises à la majorité qualifiée prévue au premier
@@ -379,21 +375,21 @@ relais perçue en 2010 par la commune, conformément au II de l'article 1640 B,
 est substitué aux produits mentionnés au premier alinéa du 2° du V pour le
 calcul de l'attribution de compensation.
 
-VI. L'établissement public de coopération intercommunale, autre qu'une
-communauté urbaine ou qu'un établissement public de coopération intercommunale
-mentionné au 5° du I de l'article 1379-0 bis, soumis aux dispositions du I peut
-instituer au bénéfice de ses communes membres et, le cas échéant,
-d'établissements publics de coopération intercommunale à fiscalité propre
-limitrophes une dotation de solidarité communautaire, dont le principe et les
-critères de répartition sont fixés par le conseil communautaire statuant à la
-majorité des deux tiers. Le montant de cette dotation est fixé librement par le
-conseil de l'établissement public de coopération intercommunale. Elle est
-répartie en tenant compte prioritairement de l'importance de la population et du
-potentiel fiscal ou financier par habitant, les autres critères étant fixés
-librement par le conseil. Lorsqu'une zone d'activités économiques d'intérêt
-départemental est située en tout ou partie sur le territoire de l'établissement
-public de coopération intercommunale, celui-ci peut étendre le versement de la
-dotation de solidarité communautaire aux établissements publics de coopération
+VI.L'établissement public de coopération intercommunale, autre qu'une communauté
+urbaine ou qu'un établissement public de coopération intercommunale mentionné au
+5° du I de l'article 1379-0 bis, soumis aux dispositions du I peut instituer au
+bénéfice de ses communes membres et, le cas échéant, d'établissements publics de
+coopération intercommunale à fiscalité propre limitrophes une dotation de
+solidarité communautaire, dont le principe et les critères de répartition sont
+fixés par le conseil communautaire statuant à la majorité des deux tiers. Le
+montant de cette dotation est fixé librement par le conseil de l'établissement
+public de coopération intercommunale. Elle est répartie en tenant compte
+prioritairement de l'importance de la population et du potentiel fiscal ou
+financier par habitant, les autres critères étant fixés librement par le
+conseil. Lorsqu'une zone d'activités économiques d'intérêt départemental est
+située en tout ou partie sur le territoire de l'établissement public de
+coopération intercommunale, celui-ci peut étendre le versement de la dotation de
+solidarité communautaire aux établissements publics de coopération
 intercommunale à fiscalité propre constituant un ensemble sans discontinuité
 territoriale et limitrophe de son territoire.
 
@@ -424,33 +420,4 @@ la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986) leur restent
 acquises lorsqu'elles deviennent membres d'un établissement public de
 coopération intercommunale soumis aux dispositions du présent article.
 
-2° (1) Les établissements publics de coopération intercommunale soumis aux
-dispositions du présent article bénéficient de la compensation prévue au IV bis
-de l'article 6 de la loi de finances pour 1987 précitée au lieu et place de
-leurs communes membres.
-
-Pour les établissements publics de coopération intercommunale soumis en 2011 aux
-dispositions du présent article, le taux de taxe professionnelle à retenir est
-le taux moyen pondéré de taxe professionnelle constaté en 1986 dans l'ensemble
-des communes membres de l'établissement public de coopération intercommunale ;
-ce taux est, le cas échéant, majoré du taux de taxe professionnelle voté en 1986
-par l'établissement public de coopération intercommunale qui a opté pour le
-régime fiscal prévu au présent article ou dont la communauté de communes est
-issue ; ces taux sont multipliés par 0,960.
-
-Pour les établissements publics de coopération intercommunale soumis pour la
-première fois à compter de 2012 aux dispositions du présent article, la
-compensation est calculée en retenant le taux moyen pondéré des communes membres
-de l'établissement public de coopération intercommunale.
-
-Pour l'application de l'avant-dernier alinéa du présent 2°, le taux moyen
-pondéré est déterminé par le rapport de la somme des compensations au titre de
-la réduction pour création d'établissement versées aux communes membres au titre
-de l'année précédant la première année d'application du présent article et de la
-somme des bases exonérées ou des abattements appliqués au titre de l'année
-précédant cette même première année d'application.
-
-IX. Les dispositions des I à VIII sont applicables aux communautés de communes
-ayant, avant le 31 décembre 2010, opté, en application du III de l'article 1609
-quinquies C dans sa rédaction en vigueur jusqu'à cette date, pour l'application
-du présent article.
+2° (Abrogé)

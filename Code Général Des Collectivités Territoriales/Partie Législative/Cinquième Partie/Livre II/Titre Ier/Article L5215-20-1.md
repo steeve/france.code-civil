@@ -69,4 +69,6 @@ l'article L. 5215-1.
 
 Cet élargissement est acquis par délibérations concordantes du conseil de
 communauté et d'au moins la moitié des conseils municipaux des communes membres
-représentant plus de la moitié de la population totale de la communauté.
+représentant plus de la moitié de la population totale de la communauté. Il
+emporte application du régime fiscal prévu à l'article 1609 nonies C du code
+général des impôts.

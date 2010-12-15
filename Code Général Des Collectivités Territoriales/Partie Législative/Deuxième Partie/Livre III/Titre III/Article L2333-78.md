@@ -9,7 +9,7 @@ institué la redevance prévue à l'article L. 2333-76 peuvent instituer la
 redevance prévue au présent article sur un périmètre strictement limité à celui
 de leurs communes et établissements publics de coopération intercommunale à
 fiscalité propre membres qui, en application respectivement du II de l'article
-1520 et du a de l'article 1609 nonies A ter du code général des impôts, ont
+1520 et du a du 2 du VI de l'article 1379-0 bis du code général des impôts, ont
 institué et perçoivent pour leur propre compte la taxe d'enlèvement des ordures
 ménagères. Cette redevance se substitue pour les déchets concernés à celle
 prévue à l'article L. 2333-77. Cette redevance est calculée en fonction de

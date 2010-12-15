@@ -10,6 +10,8 @@ selon le régime fiscal prévu à l'article 1609 nonies C :
 
 1° Les communautés urbaines, à l'exception de celles mentionnées au 1° du II ;
 
+1° bis Les métropoles ;
+
 2° Les communautés d'agglomération ;
 
 3° Les communautés de communes issues de communautés de villes dans les
@@ -99,6 +101,8 @@ relatives à la taxe d'enlèvement des ordures ménagères :
 
 1° Les communautés urbaines ;
 
+1° bis Les métropoles ;
+
 2° Les communautés de communes, les communautés d'agglomération ainsi que les
 communautés ou les syndicats d'agglomération nouvelle bénéficiant du transfert
 de la compétence prévue à l'article L. 2224-13 du code général des collectivités
@@ -129,3 +133,17 @@ sa délibération ;
 
 b) Soit de percevoir cette taxe en lieu et place du syndicat mixte qui l'aurait
 instituée sur l'ensemble du périmètre syndical.
+
+VII. - Les communautés urbaines et les communautés d'agglomération peuvent
+percevoir la taxe de balayage lorsqu'elles assurent le balayage de la superficie
+des voies livrées à la circulation publique, qui incombe aux propriétaires
+riverains.
+
+VIII. - Les communautés d'agglomération peuvent percevoir la taxe de séjour,
+lorsqu'elle répond aux conditions fixées aux articles L. 5211-21 et L. 5722-6 du
+code général des collectivités territoriales, et la taxe sur les fournitures
+d'électricité dans les conditions prévues aux articles L. 2333-2 à L. 2333-5 du
+même code, en lieu et place des communes membres dont la population est
+inférieure ou égale à 2 000 habitants. Dans ce cas, celle-ci est recouvrée sans
+frais par le gestionnaire du réseau de distribution ou le fournisseur. Le taux
+de la taxe ne peut dépasser 8 %.
