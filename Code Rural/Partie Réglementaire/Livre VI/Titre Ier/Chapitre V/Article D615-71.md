@@ -1,19 +1,16 @@
 Article D615-71
 ----
-I. - En application du 3 de l'article 46 du règlement (CE) n° 1782/2003 du
-Conseil du 29 septembre 2003 susmentionné et de l'article 9 du règlement (CE) n°
-795/2004 de la Commission du 21 avril 2004 susmentionné, pendant les trois
-premières années d'application du régime de paiement unique, un prélèvement de
-50 % est appliqué sur la valeur de chacun des droits à paiement unique
-transférés à titre définitif sans terres. Ce prélèvement est ensuite ramené à 30
-%.
+I.-En application du 3 de l'article 43 du règlement (CE) n° 73/2009 du Conseil
+du 19 janvier 2009 et de l'article 16 du règlement (CE) n° 1120/2009 de la
+Commission du 29 octobre 2009 susmentionnés, un prélèvement de 30 % est appliqué
+sur la valeur de chacun des droits à paiement unique transférés à titre
+définitif sans terre.
 
-Ce prélèvement n'est pas appliqué aux droits à paiement unique transférés au
-profit d'un agriculteur commençant à exercer une activité agricole au sens du k
-de l'article 2 du règlement (CE) n° 795/2004 de la Commission du 21 avril 2004
-susmentionné.
+Ce prélèvement n'est pas appliqué aux droits transférés au profit d'un
+agriculteur commençant à exercer une activité agricole au sens du l de l'article
+2 du règlement (CE) n° 1120/2009 du 29 octobre 2009 susmentionné.
 
-II. - Par dérogation au I, les dispositions de l'article D. 615-69 sont
+II.-Par dérogation au I, les dispositions de l'article D. 615-69 sont
 applicables lorsque l'acquéreur des droits exploite dans le département de
 localisation de ces droits des terres agricoles admissibles que le cédant des
 droits exploitait avant le transfert de ceux-ci. Toutefois, lorsque les terres
@@ -34,7 +31,7 @@ pour un transfert donné, les droits transférés sont de valeurs unitaires
 différentes, ce prélèvement s'applique sur les droits ayant les valeurs
 unitaires les plus faibles.
 
-III. - Pour l'application du présent article, le nombre de droits à paiement
+III.-Pour l'application du présent article, le nombre de droits à paiement
 unique considérés comme transférés à titre définitif sans terres correspond à la
 différence entre le nombre de droits cédés localisés dans un département et le
 nombre d'hectares de terres agricoles admissibles transférées conjointement et
