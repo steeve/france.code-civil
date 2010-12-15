@@ -51,8 +51,6 @@ magazine.
 
 Fédération française de longue paume : Longue paume infos.
 
-Fédération française de motocyclisme : France moto magazine.
-
 Fédération française motonautique : La lettre motonautique.
 
 Fédération française de natation : Natation infos.
