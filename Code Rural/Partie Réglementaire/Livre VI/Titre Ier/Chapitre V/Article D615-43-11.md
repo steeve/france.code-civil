@@ -1,8 +1,8 @@
 Article D615-43-11
 ----
-En application de l'article 110 unvicies du règlement n° 1782 / 2003
-susmentionné, les cultures éligibles au paiement supplémentaire mentionné à
-l'article 68 ter du même règlement sont les suivantes :
+En application de l'article 96 du règlement (CE) n° 73/2009 du Conseil du 19
+janvier 2009 susmentionné, les cultures éligibles au paiement supplémentaire
+mentionné à l'article 54 du même règlement (CE) n° 73/2009 sont les suivantes :
 
 - toute variété de tomates destinées à la transformation ;
 

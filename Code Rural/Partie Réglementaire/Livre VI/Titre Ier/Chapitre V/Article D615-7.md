@@ -1,6 +1,6 @@
 Article D615-7
 ----
-Pour l'application des dispositions de l'article 70 du règlement (CE) n°
-796/2004 de la Commission du 21 avril 2004 susmentionné, un arrêté conjoint des
-ministres chargés de l'agriculture et du budget fixe, dans la limite de 100
-euros, le montant minimal d'aide à verser.
+Pour l'application des dispositions du a du 1 de l'article 28 du règlement (CE)
+n° 73/2009 du Conseil du 19 janvier 2009 susmentionné, un arrêté du ministre
+chargé de l'agriculture fixe le montant de paiements directs annuels demandé ou
+à octroyer en deçà duquel aucun paiement n'est versé à l'agriculteur.
