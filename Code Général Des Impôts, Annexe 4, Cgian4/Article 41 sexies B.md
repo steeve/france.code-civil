@@ -1,12 +1,14 @@
 Article 41 sexies B
 ----
-I. - Le montant annuel en valeur du seuil d'assimilation est fixé à 150 000
-euros à l'introduction comme à l'expédition.
+I.-Le montant annuel en valeur du seuil statistique mentionné à l'article 96 L
+de l'annexe III au code général des impôts est fixé à 460 000 € hors taxes à
+l'introduction comme à l'expédition.
 
-II. - Le montant annuel en valeur du seuil de simplification est fixé à 230 000
-euros à l'introduction et à 460 000 euros à l'expédition.
+II.-Le seuil statistique est atteint pour l'année en cours et pour le flux
+considéré lorsque l'assujetti se trouve dans l'une des deux situations suivantes
+:
 
-III. - Un seuil annuel de 2 300 000 euros est institué au-delà duquel les
-déclarations d'échanges de biens entre Etats membres doivent comporter
-l'ensemble des données prévues par l'article 96 L de l'annexe III au code
-général des impôts.
+a. l'assujetti a réalisé au cours de l'année civile précédente des expéditions
+ou des introductions d'un montant hors taxes supérieur à 460 000 € ;
+
+b. l'assujetti dépasse le seuil de 460 000 € en cours d'année.
