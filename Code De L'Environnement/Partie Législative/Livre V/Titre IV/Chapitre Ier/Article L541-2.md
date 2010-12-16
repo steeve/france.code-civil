@@ -1,15 +1,11 @@
 Article L541-2
 ----
-Toute personne qui produit ou détient des déchets dans des conditions de nature
-à produire des effets nocifs sur le sol, la flore et la faune, à dégrader les
-sites ou les paysages, à polluer l'air ou les eaux, à engendrer des bruits et
-des odeurs et, d'une façon générale, à porter atteinte à la santé de l'homme et
-à l'environnement, est tenue d'en assurer ou d'en faire assurer l'élimination
-conformément aux dispositions du présent chapitre, dans des conditions propres à
-éviter lesdits effets.
+Tout producteur ou détenteur de déchets est tenu d'en assurer ou d'en faire
+assurer la gestion, conformément aux dispositions du présent chapitre.
 
-L'élimination des déchets comporte les opérations de collecte, transport,
-stockage, tri et traitement nécessaires à la récupération des éléments et
-matériaux réutilisables ou de l'énergie, ainsi qu'au dépôt ou au rejet dans le
-milieu naturel de tous autres produits dans des conditions propres à éviter les
-nuisances mentionnées à l'alinéa précédent.
+Tout producteur ou détenteur de déchets est responsable de la gestion de ces
+déchets jusqu'à leur élimination ou valorisation finale, même lorsque le déchet
+est transféré à des fins de traitement à un tiers.
+
+Tout producteur ou détenteur de déchets s'assure que la personne à qui il les
+remet est autorisée à les prendre en charge.

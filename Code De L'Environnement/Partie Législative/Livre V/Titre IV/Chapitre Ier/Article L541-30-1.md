@@ -15,4 +15,4 @@ d'une valorisation dans un endroit différent, ou entreposés pour une durée
 inférieure à un an avant leur transport sur un lieu de stockage définitif ;
 
 3° A l'utilisation de déchets inertes pour la réalisation de travaux
-d'aménagement, de remblai, de réhabilitation ou à des fins de construction.
+d'aménagement, de réhabilitation ou à des fins de construction.

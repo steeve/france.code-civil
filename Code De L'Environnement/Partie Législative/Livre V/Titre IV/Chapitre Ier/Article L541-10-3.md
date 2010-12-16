@@ -11,7 +11,7 @@ Les personnes visées au premier alinéa accomplissent cette obligation :
 - soit en contribuant financièrement à un organisme agréé par arrêté conjoint
 des ministres chargés de l'écologie et de l'industrie qui passe convention avec
 les opérateurs de tri et les collectivités territoriales ou leurs groupements en
-charge de l'élimination des déchets et leur verse un soutien financier pour les
+charge de la gestion des déchets et leur verse un soutien financier pour les
 opérations de recyclage et de traitement des déchets visés au premier alinéa
 qu'ils assurent ;
 

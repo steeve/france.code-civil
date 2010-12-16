@@ -8,7 +8,7 @@ cette activité.
 
 Sans préjudice de l'article L. 2212-2 et par dérogation à l'article L. 2224-16,
 lorsqu'un établissement public de coopération intercommunale à fiscalité propre
-est compétent en matière d'élimination des déchets ménagers, les maires des
+est compétent en matière de gestion des déchets ménagers, les maires des
 communes membres de celui-ci transfèrent au président de cet établissement les
 attributions lui permettant de réglementer cette activité.
 

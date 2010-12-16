@@ -3,7 +3,7 @@ Article L541-10-2
 A compter du 1er janvier 2006, toute personne qui fabrique, importe ou introduit
 sur le marché national à titre professionnel des équipements électriques et
 électroniques ménagers relevant des catégories mentionnées à l'annexe I A et à
-l'annexe I B de la directive 2002/96/CE du Parlement européen et du Conseil, du
+l'annexe I B de la directive 2002/96/ CE du Parlement européen et du Conseil, du
 27 janvier 2003, relative aux déchets d'équipements électriques et électroniques
 est tenue de pourvoir ou contribuer à la collecte, à l'enlèvement et au
 traitement des déchets d'équipements électriques et électroniques ménagers
@@ -31,7 +31,7 @@ taxe, en pied de factures de vente de tout nouvel équipement électrique et
 déchets collectés sélectivement issus des équipements électriques et
 électroniques ménagers mis sur le marché avant le 13 août 2005.
 
-L'élimination des déchets d'équipements électriques et électroniques ménagers
+Le traitement des déchets d'équipements électriques et électroniques ménagers
 issus des collectes sélectives et de la reprise gratuite par les distributeurs,
 lors de la vente d'un équipement électrique et électronique ménager, des
 équipements électriques et électroniques usagés que lui cède le consommateur,

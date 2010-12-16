@@ -13,7 +13,7 @@ la mise en demeure.
 Le recouvrement est effectué au profit du Trésor public comme en matière de
 créances étrangères à l'impôt et au domaine. Le produit de l'amende est affecté
 à l'Agence de l'environnement et de la maîtrise de l'énergie pour des opérations
-de réaménagement ou de surveillance de centres de stockage de déchets ultimes.
+de réaménagement ou de surveillance d'installations de stockage de déchets.
 
 Un décret en Conseil d'Etat précise les garanties de procédure visant à assurer
 les droits de la défense lors du prononcé de l'amende.

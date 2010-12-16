@@ -10,5 +10,5 @@ de la collectivité départementale de Mayotte.
 Ces ressources sont destinées à financer des projets d'investissements communaux
 ou intercommunaux dans les domaines de la voirie, de l'éclairage public, des
 grosses réparations des écoles, de l'adduction d'eau potable, de la collecte et
-de l'élimination des déchets, de l'assainissement et des équipements culturels
-et sportifs.
+du traitement des déchets, de l'assainissement et des équipements culturels et
+sportifs.

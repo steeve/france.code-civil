@@ -1,21 +1,34 @@
 Article L541-11
 ----
-Des plans nationaux d'élimination doivent être établis, par le ministre chargé
-de l'environnement, pour certaines catégories de déchets dont la liste est
-établie par décret en Conseil d'Etat, à raison de leur degré de nocivité ou de
-leurs particularités de traitement et de stockage.
+I.-Un plan national de prévention des déchets est établi par le ministre chargé
+de l'environnement.
 
-Des représentants des collectivités territoriales concernées, des organisations
-professionnelles concourant à la production et à l'élimination des déchets et
-des associations de protection de l'environnement agréées au titre de l'article
-L. 141-1 participent à l'élaboration de ces plans avec les représentants de
-l'Etat et des organismes publics concernés, au sein d'une commission du plan.
+II.-Pour atteindre les objectifs visés à l'article L. 541-1, le plan comprend :
 
-Les plans ainsi élaborés sont mis à la disposition du public pendant deux mois.
+1° Les objectifs nationaux et les orientations des politiques de prévention des
+déchets ;
 
-Ils sont ensuite modifiés, pour tenir compte, le cas échéant, des observations
-formulées et publiés.
+2° L'inventaire des mesures de prévention mises en œuvre ;
 
-Ces plans tendent à la création d'ensembles coordonnés d'installations
-d'élimination des déchets et énoncent les priorités à retenir pour atteindre les
-objectifs définis à l'article L. 541-1.
+3° Une évaluation de l'impact de ces mesures sur la conception, la production et
+la distribution de produits générateurs de déchets, ainsi que sur la
+consommation et l'utilisation de ces produits ;
+
+4° L'énoncé des mesures de prévention qui doivent être poursuivies et des
+mesures nouvelles à mettre en œuvre ;
+
+5° La détermination des situations de référence, des indicateurs associés aux
+mesures de prévention des déchets et la méthode d'évaluation utilisée.
+
+III.-Le plan national de prévention des déchets est établi par le ministre en
+charge de l'environnement en concertation avec les ministres et des organismes
+publics intéressés, les représentants des organisations professionnelles
+concernées, des collectivités territoriales responsables de la gestion des
+déchets, des associations nationales de protection de l'environnement agréées au
+titre des dispositions de l'article L. 141-1, des organisations syndicales
+représentatives et des associations nationales de défense des consommateurs
+agréés au titre de l'article L. 411-1 du code de la consommation.
+
+IV.-Le projet de plan est mis à la disposition du public pendant deux mois. Il
+est le cas échéant modifié pour tenir compte des observations formulées,
+approuvé par le ministre en charge de l'environnement et publié.

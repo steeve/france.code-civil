@@ -1,56 +1,74 @@
 Article L541-3
 ----
-En cas de pollution des sols, de risque de pollution des sols, ou au cas où des
-déchets sont abandonnés, déposés ou traités contrairement aux prescriptions du
-présent chapitre et des règlements pris pour leur application, l'autorité
-titulaire du pouvoir de police peut, après mise en demeure, assurer d'office
-l'exécution des travaux nécessaires aux frais du responsable.L'exécution des
-travaux ordonnés d'office peut être confiée par le ministre chargé de
-l'environnement à l'Agence de l'environnement et de la maîtrise de
-l'énergie.L'autorité titulaire du pouvoir de police peut également obliger le
-responsable à consigner entre les mains d'un comptable public une somme
-répondant du montant des travaux à réaliser, laquelle sera restituée au fur et à
-mesure de l'exécution des travaux. Les sommes consignées peuvent, le cas
-échéant, être utilisées pour régler les dépenses entraînées par l'exécution
-d'office. Lorsque l'Agence de l'environnement et de la maîtrise de l'énergie
-intervient pour exécuter des travaux ordonnés d'office, les sommes consignées
-lui sont réservées à sa demande.
+I.-Lorsque des déchets sont abandonnés, déposés ou gérés contrairement aux
+prescriptions du présent chapitre et des règlements pris pour leur application,
+l'autorité titulaire du pouvoir de police compétente avise le producteur ou
+détenteur de déchets des faits qui lui sont reprochés ainsi que des sanctions
+qu'il encourt et, après l'avoir informé de la possibilité de présenter ses
+observations, écrites ou orales, dans un délai d'un mois, le cas échéant assisté
+par un conseil ou représenté par un mandataire de son choix, peut le mettre en
+demeure d'effectuer les opérations nécessaires au respect de cette
+réglementation dans un délai déterminé.
 
-Il est procédé, le cas échéant, au recouvrement de ces sommes comme en matière
-de créances étrangères à l'impôt et au domaine. Pour ce recouvrement, l'Etat
-bénéficie d'un privilège de même rang que celui prévu à l'article 1920 du code
-général des impôts.
+Au terme de cette procédure, si la personne concernée n'a pas obtempéré à cette
+injonction dans le délai imparti par la mise en demeure, l'autorité titulaire du
+pouvoir de police compétente peut, par une décision motivée qui indique les
+voies et délais de recours :
 
-Lorsque l'état exécutoire pris en application d'une mesure de consignation
-ordonnée par l'autorité administrative fait l'objet d'une opposition devant le
-juge administratif, le président du tribunal administratif ou le magistrat qu'il
-délègue, statuant en référé, peut, nonobstant cette opposition, à la demande de
-l'autorité titulaire du pouvoir de police ou de toute personne intéressée,
-décider que le recours ne sera pas suspensif dès lors que les moyens avancés par
-l'exploitant ne lui paraissent pas sérieux. Le président du tribunal statue dans
-les quinze jours de sa saisine.
+1° L'obliger à consigner entre les mains d'un comptable public une somme
+correspondant au montant des mesures prescrites, laquelle est restituée au fur
+et à mesure de l'exécution de ces mesures.
 
-Est réputé abandon tout acte tendant, sous le couvert d'une cession à titre
+Cette somme bénéficie d'un privilège de même rang que celui prévu à l'article
+1920 du code général des impôts. Il est procédé à son recouvrement comme en
+matière de créances de l'Etat étrangères à l'impôt et au domaine. Le comptable
+peut engager la procédure d'avis à tiers détenteur prévue par l'article L. 263
+du livre des procédures fiscales.
+
+L'opposition à l'état exécutoire pris en application d'une mesure de
+consignation ordonnée par l'autorité administrative devant le juge administratif
+n'a pas de caractère suspensif ;
+
+2° Faire procéder d'office, en lieu et place de la personne mise en demeure et à
+ses frais, à l'exécution des mesures prescrites. Les sommes consignées en
+application du 1° peuvent être utilisées pour régler les dépenses ainsi engagées
+;
+
+3° Suspendre le fonctionnement des installations et ouvrages, la réalisation des
+travaux et des opérations, ou l'exercice des activités qui sont à l'origine des
+infractions constatées jusqu'à l'exécution complète des mesures imposées et
+prendre les mesures conservatoires nécessaires, aux frais de la personne mise en
+demeure ;
+
+4° Ordonner le versement d'une astreinte journalière au plus égale à 1 500 €
+courant à compter d'une date fixée par la décision jusqu'à ce qu'il ait été
+satisfait aux mesures prescrites par la mise en demeure. Le montant maximal de
+l'astreinte mise en recouvrement ne peut être supérieur au montant maximal de
+l'amende applicable pour l'infraction considérée ;
+
+5° Ordonner le paiement d'une amende au plus égale à 150 000 €. La décision
+mentionne le délai de paiement de l'amende et ses modalités.
+
+L'exécution des travaux ordonnés d'office peut être confiée par le ministre
+chargé de l'environnement à l'Agence de l'environnement et de la maîtrise de
+l'énergie ou à un autre établissement public compétent. Les sommes consignées
+leur sont alors reversées à leur demande.
+
+II.-En cas d'urgence, l'autorité titulaire du pouvoir de police compétente fixe
+les mesures nécessaires pour prévenir les dangers graves et imminents pour la
+santé, la sécurité publique ou l'environnement.
+
+III.-Est réputé abandon tout acte tendant, sous le couvert d'une cession à titre
 gratuit ou onéreux, à soustraire son auteur aux prescriptions du présent
 chapitre et des règlements pris pour son application.
 
-Lorsque l'exploitant d'une installation d'élimination de déchets fait l'objet
-d'une mesure de consignation en application du présent article ou de l'article
-L. 514-1, il ne peut obtenir d'autorisation pour exploiter une autre
-installation d'élimination de déchets avant d'avoir versé la somme consignée.
+IV.-Lorsque l'exploitant d'une installation de traitement de déchets fait
+l'objet d'une mesure de consignation en application du présent article ou de
+l'article L. 514-1, il ne peut obtenir d'autorisation pour exploiter une autre
+installation de traitement de déchets avant d'avoir versé la somme consignée.
 
-Lorsque, en raison de la disparition ou de l'insolvabilité du producteur ou du
-détenteur de déchets, la mise en oeuvre des dispositions du premier alinéa n'a
-pas permis d'obtenir la remise en état du site pollué par ces déchets, l'Etat
-peut, avec le concours financier éventuel des collectivités territoriales,
-confier cette remise en état à l'Agence de l'environnement et de la maîtrise de
-l'énergie.
-
-Les travaux mentionnés à l'alinéa précédent et, le cas échéant, l'acquisition
-des immeubles peuvent être déclarés d'utilité publique à la demande de l'Etat.
-La déclaration d'utilité publique est prononcée après consultation des
-collectivités territoriales intéressées et enquête publique réalisée
-conformément au chapitre III du titre II du livre Ier. Lorsque l'une des
-collectivités territoriales intéressées, le commissaire enquêteur ou la
-commission d'enquête a émis un avis défavorable, la déclaration d'utilité
-publique est prononcée par décret en Conseil d'Etat.
+V.-Si le producteur ou le détenteur des déchets ne peut être identifié ou s'il
+est insolvable, l'Etat peut, avec le concours financier éventuel des
+collectivités territoriales, confier la gestion des déchets et la remise en état
+du site pollué par ces déchets à l'Agence de l'environnement et de la maîtrise
+de l'énergie ou à un autre établissement public compétent.
