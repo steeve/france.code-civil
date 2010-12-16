@@ -6,15 +6,7 @@ procureur de la République soit qu'elle ait confirmé cette décision, soit que
 l'infirmant, elle ait ordonné une mise en liberté ou maintenu en détention ou
 décerné un mandat de dépôt ou d'arrêt, le procureur général fait sans délai
 retour du dossier au juge d'instruction après avoir assuré l'exécution de
-l'arrêt. Lorsque la chambre de l'instruction décerne mandat de dépôt ou qu'elle
-infirme une ordonnance de mise en liberté ou de refus de prolongation de
-détention provisoire, les décisions en matière de détention provisoire
-continuent de relever de la compétence du juge d'instruction et du juge des
-libertés et de la détention sauf mention expresse de la part de la chambre de
-l'instruction disant qu'elle est seule compétente pour statuer sur les demandes
-de mise en liberté et prolonger le cas échéant la détention provisoire. Il en
-est de même lorsque la chambre de l'instruction ordonne ou modifie un contrôle
-judiciaire ou une assignation à résidence avec surveillance électronique.
+l'arrêt.
 
 Lorsque, en toute autre matière, la chambre de l'instruction infirme une
 ordonnance du juge d'instruction ou est saisie en application des articles 81,
