@@ -55,5 +55,10 @@ préalable prévue au I, de s'engager à atteindre un objectif de réduction des
 prescriptions ou réalisations en cause dans un certain délai. En cas de refus du
 médecin, le directeur poursuit la procédure prévue au I.
 
+II bis. - La décision mentionnée au premier alinéa du I est notifiée après avis
+conforme du directeur de l'Union nationale des caisses d'assurance maladie ou de
+son représentant désigné à cet effet. Son avis est réputé conforme dans un délai
+précisé par voie réglementaire.
+
 III. - Les modalités d'application du présent article sont fixées par décret en
 Conseil d'Etat.

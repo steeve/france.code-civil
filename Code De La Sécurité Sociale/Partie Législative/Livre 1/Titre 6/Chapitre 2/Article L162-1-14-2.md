@@ -17,10 +17,10 @@ l'article L. 162-22-6.
 
 En cas de constat de sommes indûment versées par l'organisme local d'assurance
 maladie, le directeur de l'organisme local d'assurance maladie peut alors
-prononcer une pénalité selon la procédure prévue à l'article L. 162-1-14, dont
-le montant est fixé par dérogation aux dispositions de cet article.
+prononcer une pénalité selon la procédure prévue à l'article L. 162-1-14,
+pénalité qui est notifiée dans les conditions prévues au même article.
 
-Le montant de la pénalité est alors fonction du pourcentage des sommes indûment
+Le montant de cette pénalité est fonction du pourcentage des sommes indûment
 perçues par rapport aux sommes dues. Il est calculé sur la base des dépenses
 prises en charge par l'organisme local d'assurance maladie au cours de la
 période contrôlée ou, si le contrôle porte sur un ou plusieurs éléments

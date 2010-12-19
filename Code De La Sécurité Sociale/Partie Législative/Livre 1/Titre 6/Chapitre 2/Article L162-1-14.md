@@ -1,7 +1,8 @@
 Article L162-1-14
 ----
 I. - Peuvent faire l'objet d'une pénalité prononcée par le directeur de
-l'organisme local d'assurance maladie :
+l'organisme local d'assurance maladie ou de la caisse mentionnée aux articles L.
+215-1 ou L. 215-3 :
 
 1° Les bénéficiaires des régimes obligatoires des assurances maladie, maternité,
 invalidité, décès, accidents du travail et maladies professionnelles, de la
@@ -46,9 +47,9 @@ premier alinéa de l'article L. 251-1 du même code ;
 fausse, incomplète ou abusivement tardive à toute demande de pièce
 justificative, d'information, d'accès à une information ou à une convocation
 émanant de l'organisme local d'assurance maladie ou du service du contrôle
-médical dans le cadre d'un contrôle, d'une enquête ou d'une mise sous accord
-préalable prévus aux articles L. 114-9 à L. 114-21, L. 162-1-15, L. 162-1-17 et
-L. 315-1 ;
+médical ou de la caisse mentionnée aux articles L. 215-1 ou L. 215-3 dans le
+cadre d'un contrôle, d'une enquête ou d'une mise sous accord préalable prévus
+aux articles L. 114-9 à L. 114-21, L. 162-1-15, L. 162-1-17 et L. 315-1 ;
 
 6° Une récidive après deux périodes de mise sous accord préalable en application
 de l'article L. 162-1-15 ou lorsque le médecin n'atteint pas l'objectif de
@@ -61,9 +62,9 @@ personnel les éléments issus de chaque acte ou consultation, dès lors que le
 patient ne s'est pas explicitement opposé au report de cet acte ou consultation
 dans son dossier médical personnel ;
 
-9° Le non-respect par les employeurs des obligations relatives à la déclaration
-d'accident du travail à l'organisme local d'assurance maladie et à la remise de
-la feuille d'accident à la victime ;
+9° Toute fausse déclaration portée sur la déclaration d'accident du travail ou
+tout non-respect par les employeurs des obligations relatives à ladite
+déclaration ou à la remise de la feuille d'accident à la victime ;
 
 10° Le fait d'organiser ou de participer au fonctionnement d'une fraude en bande
 organisée.
@@ -80,10 +81,11 @@ pour la fixation de la pénalité.
 Le montant de la pénalité est doublé en cas de récidive dans un délai fixé par
 voie réglementaire.
 
-IV. - Le directeur de l'organisme local d'assurance maladie notifie les faits
-reprochés à la personne physique ou morale en cause afin qu'elle puisse
-présenter ses observations dans un délai fixé par voie réglementaire.A
-l'expiration de ce délai, le directeur :
+IV. - Le directeur de l'organisme local d'assurance maladie ou de la caisse
+mentionnée aux articles L. 215-1 ou L. 215-3 notifie les faits reprochés à la
+personne physique ou morale en cause afin qu'elle puisse présenter ses
+observations dans un délai fixé par voie réglementaire. A l'expiration de ce
+délai, le directeur :
 
 1° Décide de ne pas poursuivre la procédure ;
 
@@ -115,9 +117,10 @@ mêmes faits.
 
 V. - La pénalité ne peut être prononcée qu'après avis d'une commission composée
 et constituée au sein du conseil ou du conseil d'administration de l'organisme
-local d'assurance maladie. Lorsqu'est en cause une des personnes mentionnées au
-3° du I, des représentants de la même profession ou des établissements concernés
-participent à cette commission.
+local d'assurance maladie ou de la caisse mentionnée aux articles L. 215-1 ou L.
+215-3. Lorsqu'est en cause une des personnes mentionnées au 3° du I, des
+représentants de la même profession ou des établissements concernés participent
+à cette commission.
 
 La commission mentionnée au premier alinéa du présent V apprécie la
 responsabilité de la personne physique ou morale dans la réalisation des faits
@@ -127,19 +130,22 @@ dont elle évalue le montant.
 L'avis de la commission est adressé simultanément au directeur de l'organisme et
 à l'intéressé.
 
-VI. - Lorsque plusieurs organismes locaux d'assurance maladie sont concernés par
-les mêmes faits mettant en cause une des personnes mentionnées au 3° ou au 4° du
-I, ils peuvent mandater le directeur de l'un d'entre eux pour instruire la
+VI. - Lorsque plusieurs organismes locaux d'assurance maladie ou plusieurs
+caisses mentionnées aux articles L. 215-1 ou L. 215-3 sont concernés par les
+mêmes faits mettant en cause une des personnes mentionnées au 3° ou au 4° du I,
+ils peuvent mandater le directeur de l'un d'entre eux pour instruire la
 procédure ainsi que pour prononcer et recouvrer la pénalité en leur nom.
 
 La constitution et la gestion de la commission mentionnée au V peuvent être
-déléguées à un autre organisme local d'assurance maladie par une convention qui
-doit être approuvée par les conseils d'administration des organismes concernés.
+déléguées à un autre organisme local d'assurance maladie ou une autre caisse
+mentionnée aux articles L. 215-1 ou L. 215-3 par une convention qui doit être
+approuvée par les conseils d'administration des organismes concernés.
 
 VII. - En cas de fraude établie dans des cas définis par voie réglementaire :
 
-1° Le directeur de l'organisme local d'assurance maladie peut prononcer une
-pénalité sans solliciter l'avis de la commission mentionnée au V ;
+1° Le directeur de l'organisme local d'assurance maladie ou les caisses
+mentionnées aux articles L. 215-1 ou L. 215-3 peut prononcer une pénalité sans
+solliciter l'avis de la commission mentionnée au V ;
 
 2° Les plafonds prévus au premier alinéa du III sont portés respectivement à 200
 % et quatre fois le plafond mensuel de la sécurité sociale. Dans le cas
@@ -152,8 +158,13 @@ moitié du plafond s'agissant des personnes physiques mentionnées au 3° du mê
 et au montant de ce plafond pour les personnes mentionnées au 2° du même I et
 les personnes morales mentionnées au 3° du même I ;
 
-4° Le délai mentionné au dernier alinéa du III est majoré par voie réglementaire
-;
+4° Le délai mentionné au dernier alinéa du III est majoré par voie
+réglementaire.
+
+VII bis. - Les pénalités prononcées en application du présent article sont
+notifiées après avis conforme du directeur de l'Union nationale des caisses
+d'assurance maladie ou de son représentant désigné à cet effet. Son avis est
+réputé conforme dans un délai précisé par voie réglementaire.
 
 VIII. - Les modalités d'application du présent article sont déterminées par
 décret en Conseil d'Etat.

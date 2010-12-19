@@ -32,6 +32,11 @@ dépassements en cause ;
 suspension de la participation des caisses au financement des cotisations
 sociales telle que prévue au 5° du I de l'article L. 162-14-1.
 
+Les sanctions prononcées en application du présent article sont notifiées après
+avis conforme du directeur de l'Union nationale des caisses d'assurance maladie
+ou de son représentant désigné à cet effet. Son avis est réputé conforme dans un
+délai précisé par voie réglementaire.
+
 Les sanctions prononcées en vertu du présent article peuvent faire l'objet d'un
 affichage au sein des locaux de l'organisme local d'assurance maladie et peuvent
 être rendues publiques, en cas de récidive et après épuisement des voies de
