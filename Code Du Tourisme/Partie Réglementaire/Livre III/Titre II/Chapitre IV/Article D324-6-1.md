@@ -11,7 +11,7 @@ l'article D. 324-8 dans sa rédaction en vigueur à la date du 22 juillet 2009 ;
 aux dispositions de l'article R. 324-9 dans sa rédaction en vigueur à la date du
 22 juillet 2009.
 
-Au plus tard à compter du 1er janvier 2011, les visites de contrôle effectuées
+Au plus tard à compter du 1er avril 2011, les visites de contrôle effectuées
 dans ce cadre doivent être réalisées selon une procédure bénéficiant d'un niveau
 de certification fixé par arrêté du ministre chargé du tourisme.
 
