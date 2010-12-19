@@ -14,22 +14,26 @@ République s'il s'agit d'infractions pénalement sanctionnées.
 
 Les organismes chargés du recouvrement des cotisations du régime général sont
 également habilités dans le cadre de leurs contrôles à vérifier l'assiette, le
-taux et le calcul, d'une part, des cotisations destinées au financement des
-régimes de retraites complémentaires obligatoires mentionnés au chapitre Ier du
-titre II du livre IX du présent code pour le compte des institutions
-gestionnaires de ces régimes et, d'autre part, des contributions d'assurance
-chômage et des cotisations prévues par l'article L. 143-11-6 du code du travail
-pour le compte des institutions gestionnaires mentionnées à l'article L. 351-21
-du même code. Le résultat de ces vérifications est transmis auxdites
-institutions aux fins de recouvrement.
+taux et le calcul des cotisations destinées au financement des régimes de
+retraites complémentaires obligatoires mentionnés au chapitre Ier du titre II du
+livre IX pour le compte des institutions gestionnaires de ces régimes, des
+cotisations et contributions recouvrées pour le compte de l'organisme
+gestionnaire du régime d'assurance chômage par les organismes mentionnésaux c et
+e de l'article L. 5427-1 du code du travail et des cotisations destinées au
+financement des régimes mentionnés au titre Ier du livre VII du présent code. Le
+résultat de ces vérifications est transmis auxdites institutions aux fins de
+recouvrement.
 
-Des conventions conclues entre l'Agence centrale des organismes de sécurité
-sociale et, d'une part, les organismes nationaux qui fédèrent les institutions
-relevant du chapitre Ier du titre II du livre IX du présent code et, d'autre
-part, l'organisme national qui fédère les institutions gestionnaires mentionnées
-à l'article L. 351-21 du code du travail fixent notamment les modalités de
-transmission du résultat des vérifications et la rémunération du service rendu
-par les organismes chargés du recouvrement des cotisations du régime général.
+Pour la mise en œuvre de l'alinéa précédent, des conventions conclues entre,
+d'une part, l'Agence centrale des organismes de sécurité sociale et, d'autre
+part, les organismes nationaux qui fédèrent les institutions relevant du
+chapitre Ier du titre II du livre IX du présent code, les organismes mentionnés
+aux c et e de l'article L. 5427-1 du code du travail, l'organisme gestionnaire
+du régime d'assurance chômage et les organismes nationaux chargés de la gestion
+des régimes prévus au titre Ier du livre VII du présent code qui en font la
+demande fixent notamment les modalités de transmission du résultat des
+vérifications et la rémunération du service rendu par les organismes chargés du
+recouvrement des cotisations du régime général.
 
 Le contrôle de l'application de la législation de sécurité sociale au titre des
 cotisations et contributions sociales dont les services déconcentrés de l'Etat

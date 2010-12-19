@@ -43,11 +43,18 @@ la comptabilité des mutuelles et institutions de prévoyance.
 
 Pour les redevables mentionnés aux deux alinéas précédents, ne sont comprises
 dans le chiffre d'affaires retenu pour asseoir la contribution ni les
-cotisations, primes et acceptations provenant de contrats exonérés de la taxe
-sur les conventions d'assurances en application des 15° et 16° de l'article 995
-du code général des impôts, ni les remises qui leur sont versées dans le cadre
-de leur participation à la gestion d'un régime légal d'assurance maladie et
-maternité.
+cotisations, primes et acceptations provenant de contrats d'assurance maladie
+relatifs à des opérations individuelles et collectives à adhésion facultative à
+la condition que l'organisme ne recueille pas d'informations médicales auprès de
+l'assuré au titre de ce contrat ou des personnes souhaitant bénéficier de cette
+couverture, que les cotisations ou les primes ne soient pas fixées en fonction
+de l'état de santé de l'assuré et que ces garanties respectent les conditions
+mentionnées à l'article L. 871-1, ou de contrats d'assurance maladie relatifs à
+des opérations collectives à adhésion obligatoire à la condition que les
+cotisations ou les primes ne soient pas fixées en fonction de l'état de santé de
+l'assuré et que ces garanties respectent les conditions mentionnées au même
+article L. 871-1, ni les remises qui leur sont versées dans le cadre de leur
+participation à la gestion d'un régime légal d'assurance maladie et maternité.
 
 Pour les redevables mentionnés au cinquième alinéa, ne sont pas comprises dans
 le chiffre d'affaires retenu pour asseoir la contribution des subventions
