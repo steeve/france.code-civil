@@ -1,97 +1,41 @@
 Article L131-8
 ----
-I.-Par dérogation aux dispositions des articles L. 131-7 et L. 139-2, le
-financement des mesures définies aux articles L. 241-13 et L. 241-6-4, à
-l'article 3 de la loi n° 98-461 du 13 juin 1998 d'orientation et d'incitation
-relative à la réduction du temps de travail, aux articles 1er et 3 de la loi n°
-96-502 du 11 juin 1996 tendant à favoriser l'emploi par l'aménagement et la
-réduction conventionnels du temps de travail et à l'article 13 de la loi n°
-2003-47 du 17 janvier 2003 relative aux salaires, au temps de travail et au
-développement de l'emploi, est assuré par une affectation d'impôts et de taxes
-aux régimes de sécurité sociale.
+Les organismes de sécurité sociale perçoivent le produit d'impôts et taxes dans
+les conditions fixées ci-dessous :
 
-II.-Les impôts et taxes mentionnés au I sont :
+1° Le produit de la taxe sur les salaires mentionnée à l'article 231 du code
+général des impôts, nette des frais d'assiette et de recouvrement déterminés
+dans les conditions prévues au III de l'article 1647 du même code, est versé :
 
-1° La taxe sur les salaires, mentionnée à l'article 231 du code général des
-impôts, nette des frais d'assiette et de recouvrement déterminés dans les
-conditions prévues au III de l'article 1647 du même code ;
+-à la branche mentionnée au 3° de l'article L. 200-2 du présent code, pour une
+fraction correspondant à 59,9 % ;
 
-2° abrogé ;
+-à la branche mentionnée au 4° du même article, pour une fraction correspondant
+à 23,4 % ;
 
-3° abrogé ;
+-au fonds mentionné à l'article L. 135-1, pour une fraction correspondant à 16,7
+% ;
 
-4° abrogé ;
+2° Le produit de la taxe sur les contributions patronales au financement de la
+prévoyance complémentaire, mentionnée à l'article L. 137-1, est versé à la
+branche mentionnée au 1° de l'article L. 200-2 ;
 
-5° abrogé ;
+3° Le produit de la taxe sur les primes d'assurance automobile, mentionnée à
+l'article L. 137-6, est versé à la branche mentionnée au 4° du même article L.
+200-2 ;
 
-6° La taxe sur les contributions patronales au financement de la prévoyance
-complémentaire, mentionnée à l'article L. 137-1 du présent code ;
+4° Le produit de la taxe sur la valeur ajoutée brute collectée par les
+commerçants de gros en produits pharmaceutiques est versé à la branche
+mentionnée au 1° du même article L. 200-2 ;
 
-7° La taxe sur les primes d'assurance automobile, mentionnée à l'article L.
-137-6 du présent code ;
+5° Le produit de la taxe sur la valeur ajoutée brute collectée par les
+fournisseurs de tabacs, dans des conditions fixées par décret, est versé à la
+branche mentionnée au même 1° ;
 
-8° La taxe sur la valeur ajoutée brute collectée par les commerçants de gros en
-produits pharmaceutiques, dans des conditions fixées par décret ;
+6° Le produit du droit de licence sur la rémunération des débitants de tabacs
+mentionné à l'article 568 du code général des impôts est versé à la branche
+mentionnée au même 1°.
 
-9° La taxe sur la valeur ajoutée brute collectée par les fournisseurs de tabacs,
-dans des conditions fixées par décret ;
-
-10° Une fraction égale à 33,36 % du droit de consommation sur les tabacs
-mentionné à l'article 575 du code général des impôts ;
-
-11° Le droit de licence sur la rémunération des débitants de tabacs mentionné à
-l'article 568 du même code.
-
-III.-1. Bénéficient de l'affectation des impôts et taxes définis au II les
-caisses et régimes de sécurité sociale suivants :
-
-1° La Caisse nationale de l'assurance maladie des travailleurs salariés ;
-
-2° La Caisse nationale d'allocations familiales ;
-
-3° La Caisse nationale d'assurance vieillesse des travailleurs salariés ;
-
-4° La Caisse centrale de la mutualité sociale agricole ;
-
-5° L'Etablissement national des invalides de la marine ;
-
-6° La Caisse de retraite et de prévoyance des clercs et employés de notaires ;
-
-7° La Caisse autonome nationale de sécurité sociale dans les mines ;
-
-8° Les régimes de sécurité sociale d'entreprise de la Société nationale des
-chemins de fer français et de la Régie autonome des transports parisiens.
-
-Les régimes et caisses de sécurité sociale concernés par les mesures
-d'allégement général de cotisations sociales mentionnées au I bénéficient d'une
-quote-part des recettes mentionnées au II au prorata de la part relative de
-chacun d'entre eux dans la perte de recettes liée aux mesures d'allégement
-général de cotisations sociales mentionnées au I.
-
-2.L'Agence centrale des organismes de sécurité sociale est chargée de
-centraliser le produit des taxes et des impôts mentionnés au II et d'effectuer
-sa répartition entre les caisses et régimes de sécurité sociale mentionnés au
-présent III conformément au dernier alinéa du au 1.
-
-3. Un arrêté des ministres chargés du budget, de la sécurité sociale et de
-l'agriculture adapte les règles comptables prises en application de l'article L.
-114-5 du présent code pour le rattachement des impôts et des taxes mentionnés au
-II.
-
-IV. Abrogé
-
-V.-Le Gouvernement remet chaque année au Parlement un rapport retraçant, au
-titre de l'année précédente, d'une part, les recettes des impôts et taxes
-affectés aux caisses et régimes mentionnés au III en application du présent
-article et, d'autre part, le montant constaté de la perte de recettes liée aux
-mesures d'allégements de cotisations sociales mentionnées au I. En cas d'écart
-supérieur à 2 % entre ces deux montants, ce rapport est transmis par le
-Gouvernement à une commission présidée par un magistrat de la Cour des comptes,
-désigné par le Premier président de la Cour des comptes et comportant des
-membres de l'Assemblée nationale, du Sénat, des représentants des ministres en
-charge de la sécurité sociale et du budget, ainsi que des personnalités
-qualifiées, qui lui donne un avis sur d'éventuelles mesures d'ajustement.
-
-En cas de modification du champ ou des modalités de calcul des mesures
-d'allégement général des cotisations sociales mentionnées au I, cette commission
-donne également son avis au Gouvernement sur d'éventuelles mesures d'ajustement.
+L'Agence centrale des organismes de sécurité sociale est chargée de centraliser
+et répartir le produit des taxes et des impôts mentionnés, dans les conditions
+prévues au présent article.

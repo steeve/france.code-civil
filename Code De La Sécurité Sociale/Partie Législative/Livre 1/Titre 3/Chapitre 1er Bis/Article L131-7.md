@@ -4,7 +4,10 @@ Toute mesure de réduction ou d'exonération de cotisations de sécurité social
 instituée à compter de la date d'entrée en vigueur de la loi n° 94-637 du 25
 juillet 1994 relative à la sécurité sociale, donne lieu à compensation intégrale
 aux régimes concernés par le budget de l'Etat pendant toute la durée de son
-application.
+application, à l'exception des mesures prévues aux articles L. 241-13 et L.
+241-6-4 dans leur rédaction en vigueur au 1er janvier 2011 et dans les
+conditions d'éligibilité en vigueur à cette date compte tenu des règles de cumul
+fixées par ces articles.
 
 Cette compensation s'effectue sans préjudice des compensations appliquées à la
 date d'entrée en vigueur de ladite loi.
