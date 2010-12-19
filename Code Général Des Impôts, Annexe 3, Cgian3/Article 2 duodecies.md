@@ -5,13 +5,11 @@ général des impôts, les plafonds de loyer et de ressources du locataire sont 
 suivants :
 
 a) Pour les baux conclus en 2010, les plafonds de loyer mensuel, charges non
-comprises, sont fixés à 17,37 euros par mètre carré en zone A, 11,35 euros en
-zone B et 8,22 euros en zone C. Les plafonds sont relevés chaque année, au 1er
-janvier, dans la même proportion que la variation de l'indice de référence des
-loyers publié par l'Institut national de la statistique et des études
-économiques, prise en pourcentage et deux chiffres après la virgule, à un niveau
-arrondi au centime d'euro supérieur. L'indice mentionné ci-dessus est le dernier
-indice connu au 1er novembre qui précède la date de référence.
+comprises, sont fixés à 17,37 euros par mètre carré en zone A,11,35 euros en
+zone B et 8,22 euros en zone C. Ces plafonds sont révisés au 1er janvier de
+chaque année selon les modalités prévues au premier alinéa de l'article L.
+353-9-2 du code de la construction et de l'habitation, et arrondis au centime
+d'euro le plus proche.
 
 Pour l'application du présent article, les zones A, B et C sont définies par
 arrêté des ministres chargés du budget et du logement.
@@ -104,10 +102,9 @@ Majoration par personne à charge à partir de la cinquième
 
 + 8 774 €
 
-Ces plafonds sont révisés chaque année, au 1er janvier, en fonction de
-l'évolution annuelle du salaire minimum de croissance. Cette variation est
-appréciée entre le 1er octobre de l'avant-dernière année et le 1er octobre de
-l'année précédente.
+Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités
+prévues au dernier alinéa de l'article L. 441-1 du code de la construction et de
+l'habitation et arrondis à l'euro le plus proche.
 
 Les personnes à charge pour l'application des présentes dispositions s'entendent
 des personnes mentionnées aux articles 196 à 196 B du code général des impôts.
