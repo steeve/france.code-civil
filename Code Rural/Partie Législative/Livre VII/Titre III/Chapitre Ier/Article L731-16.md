@@ -31,7 +31,9 @@ soient le motif et les modalités, les cotisations dues par le conjoint
 poursuivant la mise en valeur de l'exploitation ou de l'entreprise sont assises
 sur la totalité des revenus professionnels agricoles du foyer fiscal au cours de
 la période visée, selon le cas, au premier alinéa de l'article L. 731-15 ou au
-premier alinéa de l'article L. 731-19.
+premier alinéa de l'article L. 731-19. Le présent alinéa est également
+applicable à la personne liée par un pacte civil de solidarité au chef
+d'exploitation ou d'entreprise agricole.
 
 Les dispositions des deux alinéas précédents ne sont applicables que si la
 consistance de l'exploitation ou de l'entreprise n'est pas affectée à l'occasion

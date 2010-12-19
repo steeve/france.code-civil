@@ -149,7 +149,10 @@ l'existence d'un lien de subordination avec le donneur d'ouvrage ne peut être
 au chapitre II du titre Ier bis du livre Ier du code du service national ;
 
 29° Les arbitres et juges, mentionnés à l'article L. 223-1 du code du sport, au
-titre de leur activité d'arbitre ou de juge.
+titre de leur activité d'arbitre ou de juge ;
 
 30° Les présidents des sociétés coopératives de banque, mentionnées aux articles
-L. 512-61 à L. 512-67 du code monétaire et financier.
+L. 512-61 à L. 512-67 du code monétaire et financier ;
+
+31° Les salariés au titre des sommes ou avantages mentionnés au premier alinéa
+de l'article L. 242-1-4.

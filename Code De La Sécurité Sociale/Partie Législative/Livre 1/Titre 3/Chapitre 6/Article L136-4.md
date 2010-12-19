@@ -35,6 +35,16 @@ partiel de troupeaux en application des articles L. 221-2 ou L. 234-4 du code
 rural et de la pêche maritime et la valeur en stock ou en compte d'achats des
 animaux abattus sont exclus de ces revenus.
 
+Les revenus professionnels sont également majorés des revenus perçus par le chef
+d'exploitation ou d'entreprise agricole en contrepartie de la location des
+terres, biens immobiliers à utilisation agricole et biens mobiliers qui leur
+sont attachés lorsque ces terres et ces biens sont mis à la disposition d'une
+exploitation ou d'une entreprise agricole sous forme individuelle ou sociétaire
+aux travaux de laquelle il participe effectivement. Cette majoration ne
+s'applique pas lorsque le chef d'exploitation ou d'entreprise agricole ne
+procède pas à la déduction du revenu cadastral des terres prévue au cinquième
+alinéa de l'article L. 731-14 du code rural et de la pêche maritime.
+
 Lorsque les personnes mentionnées à l'article L. 722-4 du code rural et de la
 pêche maritime estiment que les revenus professionnels pris en compte pour le
 calcul de la contribution subissent une variation, cette contribution peut, sur

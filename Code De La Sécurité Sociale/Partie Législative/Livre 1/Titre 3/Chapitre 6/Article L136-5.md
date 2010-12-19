@@ -14,7 +14,13 @@ disposition expresse contraire, précomptée par les entreprises ou par les
 organismes débiteurs de ces revenus et versée aux organismes chargés du
 recouvrement des cotisations du régime général selon les règles et sous les
 garanties et sanctions applicables au recouvrement des cotisations du régime
-général assises sur les salaires.
+général assises sur les salaires. La contribution portant sur l'allocation
+mentionnée à l'article L. 632-6 du code de l'éducation est précomptée par le
+Centre national de gestion des praticiens hospitaliers et des personnels de
+direction de la fonction publique hospitalière ; elle est recouvrée et contrôlée
+selon les règles et sous les garanties et sanctions applicables au recouvrement
+des cotisations du régime général de la sécurité sociale assises sur les
+rémunérations.
 
 Pour les personnes exerçant les professions artisanales, industrielles et
 commerciales, la contribution portant sur les revenus mentionnés à l'article L.

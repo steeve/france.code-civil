@@ -12,7 +12,11 @@ premier alinéa de l'article L. 135-1 sont les suivantes :
 -à l'article 2 de l'ordonnance n° 2004-605 du 24 juin 2004 simplifiant le
 minimum vieillesse ;
 
-2° (Paragraphe supprimé)
+2° Une partie, fixée par la loi de financement de la sécurité sociale, des
+sommes correspondant au service par le régime général, le régime des salariés
+agricoles et les régimes d'assurance vieillesse des professions artisanales,
+industrielles et commerciales de la majoration mentionnée à l'article L. 351-10
+;
 
 3° Les sommes correspondant au service, par les régimes d'assurance vieillesse
 de base mentionnés au titre V du livre III, aux 1° et 2° de l'article L. 621-3

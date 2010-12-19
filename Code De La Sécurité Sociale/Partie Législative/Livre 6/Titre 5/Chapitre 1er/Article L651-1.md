@@ -1,10 +1,6 @@
 Article L651-1
 ----
-Il est institué, au profit du régime social des indépendants mentionné à
-l'article L. 611-1, ainsi qu'au profit du Fonds de solidarité vieillesse
-mentionné à l'article L. 135-1 et du Fonds de réserve pour les retraites
-mentionné à l'article L. 135-6, une contribution sociale de solidarité à la
-charge :
+Il est institué une contribution sociale de solidarité à la charge :
 
 1°) Des sociétés anonymes et des sociétés par actions simplifiées, quelles que
 soient, le cas échéant, la nature et la répartition de leur capital ;

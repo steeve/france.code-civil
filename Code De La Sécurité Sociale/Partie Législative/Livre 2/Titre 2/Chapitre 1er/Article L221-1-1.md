@@ -78,11 +78,16 @@ qualité et de la coordination des soins.
 
 Le comité national de gestion présente chaque année ses orientations ainsi que
 le bilan de son activité au Conseil national de la qualité et de la coordination
-des soins.
+des soins. Ce bilan d'activité est transmis au Parlement avant le 1er septembre.
 
 VI.-L'attribution des aides peut être déconcentrée et confiée aux agences
 régionales de santé dans des conditions fixées par décret. Les aides peuvent
 être attribuées sur une base pluriannuelle.
+
+Les aides du fonds déconcentrées aux agences régionales de santé peuvent être
+affectées au financement des actions mentionnées au V bis de l'article 40 de la
+loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre
+2000).
 
 VII.-La composition et les modalités de fonctionnement du comité national de
 gestion, du Conseil national de la qualité et de la coordination des soins et du

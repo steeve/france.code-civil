@@ -24,12 +24,17 @@ leurs déclarations sociales, au titre des sommes dont ils sont redevables
 l'année suivante, par voie électronique, dans les conditions prévues à l'article
 L. 133-5.
 
-III. - Le non-respect de l'obligation prévue au I entraîne l'application d'une
-majoration de 0,2 % du montant des sommes dont le versement a été effectué selon
-un autre mode de paiement.
+III. - Le non-respect des obligations prévues aux I et II entraîne l'application
+d'une majoration de 0,2 % du montant des sommes dont le versement ou la
+déclaration a été effectué selon un autre mode de paiement ou de déclaration.
+
+Le non-respect de l'obligation prévue au II bis entraîne l'application d'une
+majoration correspondant à 0,2 % du montant des sommes dont la déclaration a été
+effectuée par une autre voie que la voie électronique.
 
 IV. - Les règles et les garanties et sanctions attachées au recouvrement des
-cotisations de sécurité sociale sont applicables à la majoration prévue au III.
+cotisations de sécurité sociale sont applicables aux majorations et pénalités
+prévues au III.
 
 Les modalités d'application du présent article sont, en tant que de besoin,
 fixées par décret en Conseil d'Etat.

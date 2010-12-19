@@ -12,6 +12,12 @@ Conseil économique, social et environnemental.
 
 Ce comité est placé auprès de la Commission des comptes de la sécurité sociale.
 
+Chaque année, au plus tard le 15 avril, le comité rend un avis public dans
+lequel il analyse les anticipations de réalisation de l'objectif national de
+dépenses d'assurance maladie de l'année précédente en se fondant sur les données
+statistiques disponibles. Il en déduit les conséquences sur le respect de
+l'objectif de l'exercice en cours.
+
 Chaque année, au plus tard le 1er juin, et en tant que de besoin, le comité rend
 un avis sur le respect de l'objectif national de dépenses d'assurance maladie
 pour l'exercice en cours. Il analyse notamment l'impact des mesures
@@ -31,3 +37,12 @@ délai d'un mois au comité par l'Union nationale des caisses d'assurance maladi
 Le comité notifie également le risque sérieux de dépassement à l'Union nationale
 des organismes d'assurance maladie complémentaire qui propose des mesures de
 redressement.
+
+Le comité rend un avis, au plus tard le 15 octobre, dans lequel il contrôle les
+éléments ayant permis l'élaboration de l'objectif national de dépenses
+d'assurance maladie envisagé pour l'année à venir et présente ses réserves s'il
+constate, compte tenu des données dont il dispose, que cet objectif ne peut pas
+être respecté au vu de l'évolution prévisionnelle des dépenses d'assurance
+maladie.
+
+Cet avis est rendu public et transmis au Parlement.

@@ -10,9 +10,11 @@ missions ou d'activités relatives à la gestion des organismes, au service des
 prestations et au recouvrement.
 
 Les modalités de mise en oeuvre sont fixées par convention établie entre
-l'organisme national et les organismes locaux ou régionaux. Les directeurs
-signent la convention, après avis des conseils d'administration des organismes
-locaux ou régionaux concernés.
+l'organisme national et les organismes locaux ou régionaux, sauf en ce qui
+concerne le traitement des litiges et des contentieux y afférents ainsi que de
+leurs suites qui sont précisés par décret. Les directeurs signent la convention,
+après avis des conseils d'administration des organismes locaux ou régionaux
+concernés.
 
 II. - Pour les missions liées au service des prestations, l'organisme désigné
 peut, pour le compte des autres organismes locaux ou régionaux, participer à

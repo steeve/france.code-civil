@@ -51,5 +51,14 @@ exerçant des activités numériquement déficitaires dans ces zones. Les
 obligations auxquelles sont soumis les centres de santé qui bénéficient de ces
 aides peuvent être adaptées par les agences régionales de santé après
 consultation des organisations représentatives des centres de santé mentionnées
-au premier alinéa du présent article pour tenir compte de la situation
-régionale.
+au premier alinéa du présent article pour tenir compte de la situation régionale
+;
+
+9° Le cas échéant, la rémunération versée en contrepartie du respect
+d'engagements individualisés. Ces engagements individualisés du centre de santé
+peuvent porter sur la prescription, la participation à des actions de dépistage
+et de prévention, la prise en charge des patients atteints de pathologies
+chroniques, des actions destinées à favoriser la continuité et la coordination
+des soins, ainsi que toute action d'amélioration des pratiques, de formation et
+d'information des professionnels. Le versement de la contrepartie financière au
+centre de santé est fonction de l'atteinte des objectifs par celui-ci.

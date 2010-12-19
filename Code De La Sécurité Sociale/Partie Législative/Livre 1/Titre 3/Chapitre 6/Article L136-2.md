@@ -8,14 +8,15 @@ exercées par les personnes mentionnées aux articles L. 311-2 et L.
 311-3.L'assiette de la contribution due par les artistes-auteurs est celle
 prévue au troisième alinéa de l'article L. 382-3.
 
-Sur le montant brut des traitements, indemnités autres que celles visées au 7°
-du II ci-dessous, émoluments, salaires, des revenus des artistes-auteurs
-assimilés fiscalement à des traitements et salaires et des allocations de
-chômage, il est opéré une réduction représentative de frais professionnels
-forfaitairement fixée à 3 % de ce montant.
+Sur le montant brut inférieur à quatre fois la valeur du plafond mentionné à
+l'article L. 241-3 des traitements, indemnités autres que celles visées au 7° du
+II ci-dessous, émoluments, salaires, des revenus des artistes-auteurs assimilés
+fiscalement à des traitements et salaires et des allocations de chômage, il est
+opéré une réduction représentative de frais professionnels forfaitairement fixée
+à 3 % de ce montant.
 
 Elle est également assise sur tous les avantages en nature ou en argent accordés
-aux intérefssés en sus des revenus visés au premier alinéa.
+aux intéressés en sus des revenus visés au premier alinéa.
 
 Pour l'application du présent article, les traitements, salaires et toutes
 sommes versées en contrepartie ou à l'occasion du travail sont évalués selon les
@@ -72,10 +73,9 @@ par l'article L. 1621-2 du code général des collectivités territoriales.
 
 4° Les contributions des employeurs destinées au financement des prestations
 complémentaires de retraite et de prévoyance, à l'exception de celles visées au
-cinquième alinéa de l'article L. 242-1 du présent code et au cinquième alinéa de
-l'article L. 741-10 du code rural et de la pêche maritime et de celles destinées
-au financement des régimes de retraite visés au I de l'article L. 137-11 du
-présent code ;
+cinquième alinéa de l'article L. 242-1 du présent code et de celles destinées au
+financement des régimes de retraite visés au I de l'article L. 137-11 et au
+cinquième alinéa de l'article L. 741-10 du code rural et de la pêche maritime ;
 
 5° Les indemnités de licenciement ou de mise à la retraite et toutes autres
 sommes versées à l'occasion de la rupture du contrat de travail pour la fraction
@@ -83,8 +83,8 @@ qui excède le montant prévu par la convention collective de branche, l'accord
 professionnel ou interprofessionnel ou à défaut par la loi, ou, en l'absence de
 montant légal ou conventionnel pour ce motif, pour la fraction qui excède
 l'indemnité légale ou conventionnelle de licenciement. En tout état de cause,
-cette fraction ne peut être inférieure au montant assujetti à l'impôt sur le
-revenu en application de l'article 80 duodecies du code général des impôts.
+cette fraction ne peut être inférieure au montant assujetti aux cotisations de
+sécurité sociale en application du douzième alinéa de l'article L. 242-1.
 Toutefois, les indemnités d'un montant supérieur à trente fois le plafond annuel
 défini par l'article L. 241-3 du présent code sont assujetties dès le premier
 euro ; pour l'application des présentes dispositions, il est fait masse des
@@ -96,8 +96,9 @@ du contrat de travail ;
 5° bis Les indemnités versées à l'occasion de la cessation de leurs fonctions
 aux mandataires sociaux, dirigeants et personnes visées à l'article 80 ter du
 code général des impôts, ou, en cas de cessation forcée de ces fonctions, la
-fraction de ces indemnités qui excède les montants définis au deuxième alinéa du
-1 de l'article 80 duodecies du même code ; Toutefois, en cas de cessation forcée
+fraction de ces indemnités qui excède la part des indemnités exclue de
+l'assiette des cotisations de sécurité sociale en application du douzième alinéa
+de l'article L. 242-1 du présent code ; Toutefois, en cas de cessation forcée
 des fonctions, les indemnités d'un montant supérieur à trente fois le plafond
 annuel défini par l'article L. 241-3 du présent code sont assujetties dès le
 premier euro ; pour l'application des présentes dispositions, il est fait masse
@@ -135,10 +136,10 @@ l'article L. 814-5. Ces conditions de ressources sont celles qui sont
 applicables pour l'attribution de l'allocation supplémentaire du fonds national
 de solidarité ;
 
-3° Les revenus visés aux 2°,2° bis,3°,4°,7°,9°,9° bis,9° quater,9°
-quinquies,10°,12°,13°,14°,14° bis,14° ter,15°,17°,19° et b du 19° ter de
-l'article 81 du code général des impôts ainsi que ceux visés aux articles L.
-961-1, deuxième alinéa, et L. 961-5 du code du travail ;
+3° Les revenus visés aux 2°, 2° bis, 3°, 4°, 7°, 9°, 9° bis, 9° quater, 9°
+quinquies, 10°, 12°, 13°, 14°, 14° bis, 14° ter, 15°, a à d et f du 17°, 19° et
+b du 19° ter de l'article 81 du code général des impôts ainsi que ceux visés aux
+articles L. 961-1, deuxième alinéa, et L. 961-5 du code du travail ;
 
 4° Les pensions alimentaires répondant aux conditions fixées par les articles
 205 à 211 du code civil, les rentes prévues à l'article 276 du code civil et les

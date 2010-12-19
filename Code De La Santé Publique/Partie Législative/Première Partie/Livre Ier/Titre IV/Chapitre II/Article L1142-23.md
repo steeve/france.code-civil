@@ -28,7 +28,7 @@ et interrégionales ;
 
 6° Les frais résultant des expertises diligentées par les commissions régionales
 et interrégionales ainsi que des expertises prévues pour l'application des
-articles L. 3131-4, L. 3111-9 et L. 3122-2.
+articles L. 1221-14, L. 3131-4, L. 3111-9 et L. 3122-2.
 
 Les recettes de l'office sont constituées par :
 
@@ -39,12 +39,12 @@ l'article L. 174-2 du code de la sécurité sociale. Le montant de cette dotatio
 est fixé chaque année par la loi de financement de la sécurité sociale ;
 
 2° Le produit des remboursements des frais d'expertise prévus aux articles L.
-1142-14 et L. 1142-15 ;
+1221-14, L. 1142-14 et L. 1142-15 ;
 
-3° Le produit des pénalités prévues aux mêmes articles ;
+3° Le produit des pénalités prévues aux articles L. 1142-14 et L. 1142-15 ;
 
-4° Le produit des recours subrogatoires mentionnés aux articles L. 1142-15, L.
-1142-17, L. 3131-4, L. 3111-9 et L. 3122-4 ;
+4° Le produit des recours subrogatoires mentionnés aux articles L. 1221-14, L.
+1142-15, L. 1142-17, L. 3131-4, L. 3111-9 et L. 3122-4 ;
 
 5° Une dotation versée par l'Etat en application de l'article L. 3111-9 ;
 

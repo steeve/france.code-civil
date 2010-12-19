@@ -42,3 +42,8 @@ de santé publique par arrêté pris après avis de la Haute Autorité de santé
 ce cas, il fixe la hiérarchisation de l'acte ou de la prestation dans le respect
 des règles mentionnées ci-dessus. Les tarifs de ces actes et prestations sont
 publiés au Journal officiel de la République française.
+
+Tout acte ou prestation nouvellement inscrit fait l'objet d'un examen en vue
+d'une nouvelle hiérarchisation dans les cinq ans qui suivent l'entrée en vigueur
+de la décision de l'Union nationale des caisses d'assurance maladie mentionnée
+au troisième alinéa.

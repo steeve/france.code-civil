@@ -17,9 +17,9 @@ péril lorsque, dans les conditions définies au premier alinéa de l'article L.
 521-2, elles reprennent le paiement du loyer ou de toute autre somme versée en
 contrepartie de l'occupation de ce logement ou lorsqu'elles sont relogées.
 
-Lorsque les conditions d'ouverture du droit sont réunies antérieurement à la
-date de la demande, l'aide n'est due que dans la limite des trois mois précédant
-celui au cours duquel la demande est déposée.
+Lorsque les conditions d'ouverture du droit sont réunies antérieurement au mois
+de la demande, l'aide n'est due qu'à compter du premier jour du mois au cours
+duquel la demande est déposée.
 
 II. - L'aide personnalisée au logement cesse d'être due à partir du premier jour
 du mois civil au cours duquel les conditions d'ouverture du droit cessent d'être

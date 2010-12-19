@@ -59,12 +59,12 @@ personnes âgées ou handicapées, les centres communaux et intercommunaux d'act
 sociale et les organismes habilités au titre de l'aide sociale ou ayant passé
 convention avec un organisme de sécurité sociale sont exonérées des cotisations
 patronales d'assurances sociales et d'allocations familiales pour la fraction
-versée en contrepartie de l'exécution des tâches effectuées chez les personnes
-visées au I ou bénéficiaires de prestations d'aide ménagère aux personnes âgées
-ou handicapées au titre de l'aide sociale légale ou dans le cadre d'une
-convention conclue entre ces associations ou organismes et un organisme de
-sécurité sociale, dans la limite, pour les personnes visées au a du I, du
-plafond prévu par ce a.
+versée en contrepartie de l'exécution des tâches effectuées au domicile à usage
+privatif des personnes visées au I ou bénéficiaires de prestations d'aide
+ménagère aux personnes âgées ou handicapées au titre de l'aide sociale légale ou
+dans le cadre d'une convention conclue entre ces associations ou organismes et
+un organisme de sécurité sociale, dans la limite, pour les personnes visées au a
+du I, du plafond prévu par ce a.
 
 Un décret détermine les modalités d'application de l'exonération prévue par
 l'alinéa ci-dessus et notamment :

@@ -12,7 +12,8 @@ au premier alinéa de l'article L. 162-17 auprès des pharmacies d'officine, des
 pharmacies mutualistes et des pharmacies de sociétés de secours minières, à
 l'exception des médicaments orphelins désignés comme tels en application des
 dispositions du règlement (CE) n° 141/2000 du Parlement européen et du Conseil,
-du 16 décembre 1999, concernant les médicaments orphelins.
+du 16 décembre 1999, concernant les médicaments orphelins dont le chiffre
+d'affaires hors taxes n'excède pas 30 millions d'euros.
 
 Pour la détermination de l'assiette de la contribution, il n'est tenu compte que
 de la partie du prix de vente hors taxes aux officines inférieure à un montant

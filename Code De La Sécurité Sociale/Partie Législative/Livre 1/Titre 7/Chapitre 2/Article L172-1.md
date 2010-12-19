@@ -6,7 +6,11 @@ salariés, soit d'un régime de salariés et d'un régime de non salariés, soit
 plusieurs régimes de travailleurs non salariés.
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles sont ouverts et
-maintenus les droits à pension d'invalidité dans les régimes en cause.
+maintenus les droits à pension d'invalidité dans les régimes en cause, ainsi que
+les conditions dans lesquelles sont calculés ces droits, lorsque le montant de
+la pension servie par le régime représente une fraction annuelle des revenus
+moyens correspondant aux cotisations versées au cours des dix années civiles
+d'assurance les plus avantageuses.
 
 Les dispositions du présent article s'appliquent également au régime d'assurance
 invalidité des ministres des cultes et membres des congrégations et

@@ -28,13 +28,15 @@ les conditions et limites fixées par arrêté interministériel. Il ne pourra
 conditions et limites fixées par arrêté ministériel.
 
 Ne seront pas comprises dans la rémunération les prestations de sécurité sociale
-versées par l'entremise de l'employeur.
+versées au bénéfice de leurs salariés, anciens salariés et de leurs ayants droit
+par l'entremise de l'employeur.
 
 Sont exclues de l'assiette des cotisations mentionnées au premier alinéa les
 contributions mises à la charge des employeurs en application d'une disposition
 législative ou réglementaire ou d'un accord national interprofessionnel
 mentionné à l'article L. 921-4, destinées au financement des régimes de retraite
-complémentaire mentionnés au chapitre Ier du titre II du livre IX ou versées en
+complémentaire mentionnés au chapitre Ier du titre II du livre IX ou versées au
+bénéfice de leurs salariés, anciens salariés et de leurs ayants droit en
 couverture d'engagements de retraite complémentaire souscrits antérieurement à
 l'adhésion des employeurs aux institutions mettant en oeuvre les régimes
 institués en application de l'article L. 921-4 et dues au titre de la part
@@ -43,15 +45,19 @@ retraite complémentaire.
 
 Sont exclues de l'assiette des cotisations mentionnées au premier alinéa les
 contributions des employeurs destinées au financement des prestations
-complémentaires de retraite et de prévoyance versées par les organismes régis
-par les titres III et IV du livre IX du présent code ou le livre II du code de
-la mutualité, par des entreprises régies par le code des assurances ainsi que
-par les institutions mentionnées à l'article L. 370-1 du code des assurances et
+complémentaires de retraite et de prévoyance versées au bénéfice de leurs
+salariés, anciens salariés et de leurs ayants droit par les organismes régis par
+les titres III et IV du livre IX du présent code ou le livre II du code de la
+mutualité, par des entreprises régies par le code des assurances ainsi que par
+les institutions mentionnées à l'article L. 370-1 du code des assurances et
 proposant des contrats mentionnés à l'article L. 143-1 dudit code, à la section
 9 du chapitre II du titre III du livre IX du code de la sécurité sociale ou au
-chapitre II bis du titre II du livre II du code de la mutualité, lorsqu'elles
-revêtent un caractère collectif et obligatoire déterminé dans le cadre d'une des
-procédures mentionnées à l'article L. 911-1 du présent code :
+chapitre II bis du titre II du livre II du code de la mutualité lorsque ces
+garanties entrent dans le champ des articles L. 911-1 et L. 911-2 du présent
+code, revêtent un caractère obligatoire et bénéficient à titre collectif à
+l'ensemble des salariés ou à une partie d'entre eux sous réserve qu'ils
+appartiennent à une catégorie établie à partir de critères objectifs déterminés
+par décret en Conseil d'Etat :
 
 1° Dans des limites fixées par décret, pour les contributions au financement
 d'opérations de retraite déterminées par décret ; l'abondement de l'employeur à
@@ -85,21 +91,18 @@ incorporels du fonds de commerce ou d'industrie, lorsque ces revenus sont perçu
 par une personne qui réalise des actes de commerce au titre de l'entreprise
 louée ou y exerce une activité.
 
-Sont aussi prises en compte les indemnités versées à l'occasion de la rupture du
-contrat de travail à l'initiative de l'employeur ou à l'occasion de la cessation
-forcée des fonctions des mandataires sociaux, dirigeants et personnes visées à
-l'article 80 ter du code général des impôts, ainsi que les indemnités versées à
-l'occasion de la rupture conventionnelle du contrat de travail, au sens de
-l'article L. 1237-13 du code du travail, et les indemnités de départ volontaire
-versées aux salariés dans le cadre d'un accord collectif de gestion
-prévisionnelle des emplois et des compétences, à hauteur de la fraction de ces
-indemnités qui est assujettie à l'impôt sur le revenu en application de
-l'article 80 duodecies du même code. Toutefois, les indemnités d'un montant
-supérieur à trente fois le plafond annuel défini par l'article L. 241-3 du
-présent code sont intégralement assimilées à des rémunérations pour le calcul
-des cotisations visées au premier alinéa du présent article. Pour l'application
-du présent alinéa, il est fait masse des indemnités liées à la rupture du
-contrat de travail et de celles liées à la cessation forcée des fonctions.
+Est exclue de l'assiette des cotisations mentionnées au premier alinéa, dans la
+limite d'un montant fixé à trois fois la valeur annuelle du plafond mentionné à
+l'article L. 241-3, la part des indemnités versées à l'occasion de la rupture du
+contrat de travail ou de la cessation forcée des fonctions de mandataires
+sociaux, dirigeants et personnes visées à l'article 80 ter du code général des
+impôts qui n'est pas imposable en application de l'article 80 duodecies du même
+code. Toutefois, les indemnités d'un montant supérieur à trente fois le plafond
+annuel défini par l'article L. 241-3 du présent code sont intégralement
+assimilées à des rémunérations pour le calcul des cotisations visées au premier
+alinéa du présent article. Pour l'application du présent alinéa, il est fait
+masse des indemnités liées à la rupture du contrat de travail et de celles liées
+à la cessation forcée des fonctions.
 
 Les attributions gratuites d'actions effectuées conformément aux dispositions
 des articles L. 225-197-1 à L. 225-197-3 du code de commerce sont exclues de

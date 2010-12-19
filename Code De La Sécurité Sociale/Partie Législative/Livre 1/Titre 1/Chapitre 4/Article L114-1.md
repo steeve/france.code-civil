@@ -25,6 +25,11 @@ l'organisation de ses travaux ainsi que l'établissement de ses rapports.
 Les rapports de la Commission des comptes de la sécurité sociale sont
 communiqués au Parlement.
 
+La Commission des comptes de la sécurité sociale inclut chaque année dans ses
+rapports un bilan d'évaluation du respect des engagements financiers contenus
+dans les conventions conclues par les professions de santé avec l'assurance
+maladie.
+
 Un décret détermine les modalités d'application du présent article et précise
 notamment les périodes au cours desquelles se tiendront les deux réunions
 annuelles obligatoires de la commission.

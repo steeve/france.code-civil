@@ -40,7 +40,9 @@ sur les biens qui ont fait l'objet d'une saisie avant l'expiration de ce délai.
 
 En cas de procédure de sauvegarde ou de redressement ou de liquidation
 judiciaires, les pénalités, majorations de retard et frais de poursuites dus par
-le redevable à la date du jugement d'ouverture sont remis.
+le redevable à la date du jugement d'ouverture sont remis, sauf si le passif
+déclaré résulte en tout ou partie du constat de l'infraction mentionnée à
+l'article L. 8221-1 du code du travail.
 
 La règle d'antériorité du rang de l'inscription hypothécaire fixée à
 l'avant-dernier alinéa de l'article 2425 du code civil et à l'article 45-5 de la

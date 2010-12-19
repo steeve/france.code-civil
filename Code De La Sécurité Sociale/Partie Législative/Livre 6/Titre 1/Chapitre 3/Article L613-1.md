@@ -33,8 +33,13 @@ L. 311-3, le conjoint associé qui participe à l'activité de l'entreprise
 artisanale ou commerciale ;
 
 5°) l'associé unique des entreprises unipersonnelles à responsabilité limitée
-sauf si l'activité qu'il exerce est de nature agricole au sens de l'article 1144
-du code rural ;
+sauf si l'activité qu'il exerce est de nature agricole au sens de l'article L.
+722-1 du code rural et de la pêche maritime ;
 
 6° Les personnes bénéficiaires de l'agrément prévu à l'article L. 472-1 du code
-de l'action sociale et des familles.
+de l'action sociale et des familles ; 7° Sous réserve des dispositions du 1° de
+l'article L. 722-1 du code rural et de la pêche maritime, les loueurs de
+chambres d'hôtes mentionnées à l'article L. 324-3 du code du tourisme dont le
+revenu imposable de l'activité est supérieur au seuil d'exonération de faibles
+revenus professionnels non salariés non agricoles applicable en matière de
+cotisations d'allocations familiales.

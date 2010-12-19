@@ -37,15 +37,25 @@ l'efficacité du système de santé.
 
 A ce titre :
 
-a) Elles contribuent à évaluer et à promouvoir la qualité des formations des
-professionnels de santé ;
+a) Elles contribuent à évaluer et à promouvoir les formations des professionnels
+de santé, des personnels qui apportent au domicile des personnes âgées
+dépendantes et des personnes handicapées ou dans les établissements mentionnés
+aux 1° et 3° de l'article L. 314-3-1 du code de l'action sociale et des familles
+une assistance dans les actes quotidiens de la vie, ainsi que les formations des
+aidants et des accueillants familiaux mentionnés aux articles L. 441-1 et L.
+444-1 du même code ;
 
-b) Elles autorisent la création et les activités des établissements et services
-de santé ainsi que des établissements et services médico-sociaux mentionnés aux
-2°, 3°, 5°, 6°, 7°, 11° et 12° du I de l'article L. 312-1 du code de l'action
-sociale et des familles et à l'article L. 314-3-3 du même code ; elles
-contrôlent leur fonctionnement et leur allouent les ressources qui relèvent de
-leur compétence ;
+b) Elles autorisent la création et les activités des établissements de santé et
+des installations mentionnées aux articles L. 6322-1 à L. 6322-3 ainsi que des
+établissements et services médico-sociaux au b de l'article L. 313-3 du code de
+l'action sociale et des familles ; elles contrôlent leur fonctionnement et leur
+allouent les ressources qui relèvent de leur compétence ; elles attribuent
+également les financements aux maisons pour l'autonomie et l'intégration des
+malades d'Alzheimer mentionnées à l'article L. 113-3 du même code ainsi qu'aux
+groupes d'entraide mutuelle mentionnés aux articles L. 114-1-1 et L. 114-3 du
+même code et s'assurent du respect des cahiers des charges mentionnés
+respectivement à l'article L. 113-3 et au I de l'article L. 14-10-5 du même code
+;
 
 c) Elles veillent à ce que la répartition territoriale de l'offre de soins
 permette de satisfaire les besoins de santé de la population.A ce titre, elles
@@ -75,10 +85,9 @@ modalités de recours aux soins et des pratiques des professionnels de santé en
 médecine ambulatoire et dans les établissements et services de santé et
 médico-sociaux ;
 
-h) En relation avec les directions régionales des affaires culturelles mais
-aussi avec les collectivités territoriales qui le souhaitent, elles encouragent
-et favorisent, au sein des établissements, l'élaboration et la mise en œuvre
-d'un volet culturel ;
+h) En relation avec les autorités compétentes de l'Etat et les collectivités
+territoriales qui le souhaitent, elles encouragent et favorisent, au sein des
+établissements, l'élaboration et la mise en œuvre d'un volet culturel ;
 
 i) Elles évaluent et identifient les besoins sanitaires des personnes en
 détention. Elles définissent et régulent l'offre de soins en milieu

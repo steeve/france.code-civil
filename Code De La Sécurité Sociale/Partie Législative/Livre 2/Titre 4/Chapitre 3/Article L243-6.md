@@ -19,4 +19,6 @@ Toutefois, lorsque la demande de remboursement des cotisations indûment versée
 n'a pas été formulée dans le délai de trois ans prévu au premier alinéa
 ci-dessus, le bénéfice des prestations servies ainsi que les droits à
 l'assurance vieillesse restent acquis à l'assuré, sauf cas de fraude ou de
-fausse déclaration.
+fausse déclaration. Les organismes mentionnés aux articles L. 213-1 et L. 752-1
+effectuent le remboursement des cotisations indues dans un délai de quatre mois
+à compter de la demande mentionnée au premier alinéa.

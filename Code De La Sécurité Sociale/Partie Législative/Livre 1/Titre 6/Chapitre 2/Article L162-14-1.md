@@ -46,10 +46,13 @@ la ou les conventions fixent l'assiette et le niveau de cette participation et
 les modalités de sa modulation, notamment en fonction du lieu d'installation ou
 d'exercice ; elles fixent également les modalités de calcul et de répartition
 entre régimes de cette participation ; la participation ne peut être allouée que
-si le professionnel de santé a versé la cotisation à sa charge dans un délai
-fixé par décret ; elle peut être en outre partiellement ou totalement suspendue,
-dans les conditions prévues par les conventions, pour les professionnels de
-santé ne respectant pas tout ou partie des obligations qu'elles déterminent ;
+si le professionnel de santé est à jour du versement des cotisations et
+contributions sociales dues aux organismes mentionnés aux articles L. 213-1 et
+L. 752-4, ou a souscrit et respecte un plan d'apurement accordé par eux dans des
+conditions fixées par décret ; elle peut être en outre partiellement ou
+totalement suspendue, dans les conditions prévues par les conventions, pour les
+professionnels de santé ne respectant pas tout ou partie des obligations
+qu'elles déterminent ;
 
 6° Les modalités d'organisation et de fonctionnement des commissions mentionnées
 à l'article L. 162-1-7.

@@ -11,11 +11,11 @@ indépendants représentatives, de représentants de l'Etat et de personnalités
 qualifiées.
 
 Sur proposition du directoire, le conseil de surveillance fixe les orientations
-générales de la politique de placement des actifs du fonds en respectant, d'une
-part, l'objectif et l'horizon d'utilisation des ressources du fonds et, d'autre
-part, les principes de prudence et de répartition des risques. Il contrôle les
-résultats, approuve les comptes annuels et établit un rapport annuel public sur
-la gestion du fonds.
+générales de la politique de placement des actifs du fonds en respectant les
+principes de prudence et de répartition des risques compte tenu de l'objectif et
+de l'horizon d'utilisation des ressources du fonds, notamment les obligations de
+versements prévues à l'article L. 135-6. Il contrôle les résultats, approuve les
+comptes annuels et établit un rapport annuel public sur la gestion du fonds.
 
 Lorsque la proposition du directoire n'est pas approuvée, le directoire présente
 une nouvelle proposition au conseil de surveillance. Si cette proposition n'est
@@ -29,7 +29,8 @@ une durée de six ans, après consultation du conseil de surveillance.
 
 Le directoire assure la direction de l'établissement et est responsable de sa
 gestion. Il met en oeuvre les orientations de la politique de placement. Il
-contrôle le respect de celles-ci. Il en rend compte régulièrement au conseil de
-surveillance et retrace notamment, à cet effet, la manière dont les orientations
-générales de la politique de placement du fonds ont pris en compte des
-considérations sociales, environnementales et éthiques.
+contrôle le respect de celles-ci et en particulier leur adéquation avec les
+obligations de versements prévues à l'article L. 135-6. Il en rend compte
+régulièrement au conseil de surveillance et retrace notamment, à cet effet, la
+manière dont les orientations générales de la politique de placement du fonds
+ont pris en compte des considérations sociales, environnementales et éthiques.

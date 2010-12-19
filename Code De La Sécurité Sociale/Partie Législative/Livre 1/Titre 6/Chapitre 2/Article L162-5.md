@@ -129,4 +129,17 @@ du niveau de l'offre en soins au sein de chaque région dans les zones au sens d
 2° de l'article L. 162-47. Ces modalités sont définies après concertation des
 organisations les plus représentatives des étudiants en médecine, des internes,
 des chefs de clinique et des médecins récemment diplômés ou installés avec
-l'Union nationale des caisses d'assurance maladie.
+l'Union nationale des caisses d'assurance maladie ;
+
+21° Le cas échéant, le montant et les conditions d'attribution d'une aide à
+l'utilisation ou à l'acquisition d'un logiciel d'aide à la prescription certifié
+suivant la procédure prévue à l'article L. 161-38 ;
+
+22° Le cas échéant, la rémunération versée en contrepartie du respect
+d'engagements individualisés. Ces engagements peuvent porter sur la
+prescription, la participation à des actions de dépistage, de prévention, la
+prise en charge de patients atteints de pathologies chroniques, des actions
+destinées à favoriser la continuité et la coordination des soins, ainsi que
+toute action d'amélioration des pratiques, de formation et d'information des
+professionnels. La contrepartie financière est fonction de l'atteinte des
+objectifs par le professionnel de santé.

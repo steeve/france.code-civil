@@ -4,7 +4,6 @@ Il est institué une compensation entre les régimes obligatoires de sécurité
 sociale comportant un effectif minimum, autres que les régimes complémentaires
 au sens des articles L. 635-1, L. 644-1 et L. 921-4 du présent code et du I de
 l'article 1050 du code rural. Cette compensation porte sur les charges de
-l'assurance maladie et maternité au titre des prestations en nature et de
 l'assurance vieillesse au titre des droits propres.
 
 La compensation entre les régimes spéciaux d'assurance vieillesse de salariés

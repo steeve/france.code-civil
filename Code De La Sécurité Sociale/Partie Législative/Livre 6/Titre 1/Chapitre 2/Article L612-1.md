@@ -12,8 +12,7 @@ de certaines sociétés instituées par l'article L. 651-1 ;
 4°) une fraction du produit de la contribution de solidarité instituée par
 l'article L. 651-10 ;
 
-5°) les versements à intervenir au titre de la compensation instituée par
-l'article L. 134-1 ;
+5°) (abrogé)
 
 6°) une fraction du produit des contributions sociales mentionnées aux articles
 L. 136-1, L. 136-6, L. 136-7, L. 136-7-1 ;

@@ -21,5 +21,13 @@ personnes salariées et non-salariées des régimes agricoles ;
 
 4°) une fraction du produit des contributions sociales mentionnées aux articles
 L. 136-1, L. 136-6, L. 136-7 et L. 136-7-1, à concurrence d'un montant
-correspondant à l'application d'une taxe de 1, 1 % à l'assiette des
-contributions.
+correspondant à l'application d'une taxe de 1,1 % à l'assiette des contributions
+; 5° Le produit de la taxe mentionnée au second alinéa du 2° bis de l'article
+1001 du code général des impôts ;
+
+6° La taxe exceptionnelle sur les sommes placées sur la réserve de
+capitalisation des entreprises d'assurance ;
+
+7° Le prélèvement résultant de l'aménagement des règles d'imposition aux
+prélèvements sociaux de la part en euros des contrats d'assurance vie
+multisupports.

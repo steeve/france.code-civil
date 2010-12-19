@@ -3,9 +3,8 @@ Article L135-12
 Deux commissaires aux comptes sont désignés pour six exercices par le conseil de
 surveillance.
 
-Ils certifient les comptes annuels et émettent un rapport d'examen limité sur
-les comptes intermédiaires semestriels du fonds avant qu'ils soient soumis par
-le directoire au conseil de surveillance et qu'ils soient publiés.
+Ils certifient les comptes annuels avant qu'ils soient soumis par le directoire
+au conseil de surveillance et qu'ils soient publiés.
 
 Les dispositions des articles L. 822-9 à L. 820-3-1, L. 823-6, L. 823-7, L.
 823-13 à L. 823-17, des deux derniers alinéas de l'article L. 823-12 et des

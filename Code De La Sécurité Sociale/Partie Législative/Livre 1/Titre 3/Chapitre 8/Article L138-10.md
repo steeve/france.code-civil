@@ -2,21 +2,29 @@ Article L138-10
 ----
 I.-Lorsque le chiffre d'affaires hors taxes réalisé en France, au cours de
 l'année civile, au titre des médicaments inscrits sur la liste mentionnée au
-premier alinéa de l'article L. 162-17, à l'exception des médicaments orphelins
-désignés comme tels en application des dispositions du règlement (CE) n° 141 /
-2000 précité, par l'ensemble des entreprises assurant l'exploitation d'une ou
-plusieurs spécialités pharmaceutiques au sens de l'article L. 596 du code de la
-santé publique et n'ayant pas passé convention avec le Comité économique des
-produits de santé, dans les conditions mentionnées au troisième alinéa ci-après,
-s'est accru, par rapport au chiffre d'affaires réalisé l'année précédente, au
-titre des médicaments inscrits sur ladite liste, à l'exception des médicaments
-orphelins désignés comme tels en application des dispositions du règlement (CE)
-n° 141 / 2000 précité, par l'ensemble de ces mêmes entreprises, d'un pourcentage
-excédant le taux de progression de l'objectif national de dépenses d'assurance
-maladie tel qu'il résulte du rapprochement des lois de financement de la
-sécurité sociale de l'année et de l'année précédente compte tenu, le cas
-échéant, des lois de financement rectificatives, ces entreprises sont
-assujetties à une contribution.
+premier alinéa de l'article L. 162-17, par l'ensemble des entreprises assurant
+l'exploitation d'une ou plusieurs spécialités pharmaceutiques au sens des
+articles L. 5124-1 et L. 5124-2 du code de la santé publique, s'est accru, par
+rapport au chiffre d'affaires réalisé l'année précédente, au titre des
+médicaments inscrits sur ladite liste, par l'ensemble de ces mêmes entreprises,
+d'un pourcentage excédant le taux de progression de l'objectif national de
+dépenses d'assurance maladie tel qu'il résulte du rapprochement des lois de
+financement de la sécurité sociale de l'année et de l'année précédente compte
+tenu, le cas échéant, des lois de financement rectificatives, ces entreprises
+sont assujetties à une contribution.
+
+Ne sont pas pris en compte, pour la détermination de l'assiette de la
+contribution :
+
+- le chiffre d'affaires hors taxes réalisé par les entreprises mentionnées au
+premier alinéa ayant passé convention avec le Comité économique des produits de
+santé dans les conditions définies au septième alinéa du présent I ;
+
+- lorsqu'il n'excède pas 30 millions d'euros, le chiffre d'affaires hors taxes
+réalisé au titre de tout médicament orphelin au sens du règlement (CE) n°
+141/2000 du Parlement européen et du Conseil du 16 décembre 1999 concernant les
+médicaments orphelins, inscrit sur la liste mentionnée au premier alinéa de
+l'article L. 162-17.
 
 Le montant total de cette contribution est calculé comme suit :
 
@@ -66,24 +74,28 @@ précédente.
 II.-Lorsque le chiffre d'affaires hors taxes réalisé en France, au cours de
 l'année civile, au titre des spécialités pharmaceutiques inscrites sur les
 listes mentionnées aux articles L. 162-22-7 du présent code et L. 5126-4 du code
-de la santé publique, à l'exception des médicaments orphelins désignés comme
-tels en application des dispositions du règlement (CE) n° 141 / 2000 du
-Parlement européen et du Conseil, du 16 décembre 1999, concernant les
-médicaments orphelins, par l'ensemble des entreprises assurant l'exploitation
+de la santé publique, par l'ensemble des entreprises assurant l'exploitation
 d'une ou plusieurs spécialités pharmaceutiques au sens des articles L. 5124-1 et
-L. 5124-2 du code de la santé publique et n'ayant pas passé convention avec le
-Comité économique des produits de santé, dans les conditions mentionnées au
-quatrième alinéa ci-après, s'est accru, par rapport au chiffre d'affaires
-réalisé l'année précédente, au titre des médicaments inscrits sur ces listes, à
-l'exception des médicaments orphelins désignés comme tels en application des
-dispositions du règlement (CE) n° 141 / 2000 du Parlement européen et du
-Conseil, du 16 décembre 1999, précité, par l'ensemble de ces mêmes entreprises,
-d'un pourcentage excédant le taux de progression de l'objectif national de
-dépenses d'assurance maladie tel qu'il résulte du rapprochement des lois de
-financement de la sécurité sociale de l'année et de l'année précédente compte
-tenu, le cas échéant, des lois de financement rectificatives, ces entreprises
-sont assujetties à une contribution. Le montant total de cette contribution est
-calculé comme suit :
+L. 5124-2 du code de la santé publique s'est accru, par rapport au chiffre
+d'affaires réalisé l'année précédente, au titre des médicaments inscrits sur ces
+listes, par l'ensemble de ces mêmes entreprises, d'un pourcentage excédant le
+taux de progression de l'objectif national de dépenses d'assurance maladie tel
+qu'il résulte du rapprochement des lois de financement de la sécurité sociale de
+l'année et de l'année précédente compte tenu, le cas échéant, des lois de
+financement rectificatives, ces entreprises sont assujetties à une contribution.
+
+Ne sont pas pris en compte, pour la détermination de l'assiette de la
+contribution :
+
+- le chiffre d'affaires hors taxes réalisé par les entreprises mentionnées au
+premier alinéa ayant passé convention avec le Comité économique des produits de
+santé dans les conditions définies au septième alinéa du présent II ;
+
+- lorsqu'il n'excède pas 30 millions d'euros, le chiffre d'affaires hors taxes
+réalisé au titre de tout médicament orphelin au sens du règlement (CE) n°
+141/2000 du Parlement européen et du Conseil du 16 décembre 1999 précité inscrit
+sur une des listes mentionnées au premier alinéa du présent II. Le montant total
+de cette contribution est calculé comme suit :
 
 Taux d'accroissement du chiffre d'affaires T de l'ensemble des entreprises
 redevables

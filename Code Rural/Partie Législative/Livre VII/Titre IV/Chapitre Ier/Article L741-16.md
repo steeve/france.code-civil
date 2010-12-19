@@ -1,6 +1,6 @@
 Article L741-16
 ----
-I.-Les employeurs relevant du régime de protection sociale des professions
+I. - Les employeurs relevant du régime de protection sociale des professions
 agricoles sont exonérés des cotisations patronales dues au titre des assurances
 sociales pour les travailleurs occasionnels qu'ils emploient.
 
@@ -19,20 +19,21 @@ et devienne nulle pour une rémunération mensuelle égale ou supérieure au sal
 minimum de croissance majoré de 200 %. Pour le calcul de l'exonération, la
 rémunération mensuelle et le salaire minimum de croissance sont définis dans les
 conditions prévues aux quatrième et cinquième phrases du premier alinéa du III
-de l'article L. 241-13 du code de la sécurité sociale.
+de l'article L. 241-13 du code de la sécurité sociale dans leur rédaction en
+vigueur au 31 décembre 2010.
 
-II.-Les demandeurs d'emploi inscrits à ce titre sur la liste mentionnée au 3° de
-l'article L. 5312-1 du code du travail depuis une durée fixée par décret sont
+II. - Les demandeurs d'emploi inscrits à ce titre sur la liste mentionnée au 3°
+de l'article L. 5312-1 du code du travail depuis une durée fixée par décret sont
 assimilés à des travailleurs occasionnels lorsqu'ils sont recrutés par contrat à
 durée indéterminée par un groupement d'employeurs exerçant des activités
 mentionnées au I.
 
-III.-Les rémunérations et gains des travailleurs occasionnels embauchés par les
-employeurs mentionnés au I du présent article dans le cadre du contrat de
+III. - Les rémunérations et gains des travailleurs occasionnels embauchés par
+les employeurs mentionnés au I du présent article dans le cadre du contrat de
 travail défini à l'article L. 718-4 ne donnent pas lieu à cotisations
 d'assurances sociales à la charge du salarié.
 
-IV.-Les rémunérations et gains des jeunes travailleurs occasionnels âgés de
+IV. - Les rémunérations et gains des jeunes travailleurs occasionnels âgés de
 moins de vingt-six ans embauchés par les employeurs mentionnés au I du présent
 article ne donnent pas lieu à cotisations d'assurances sociales à la charge du
 salarié pendant une période n'excédant pas un mois par an et par salarié. Pour
@@ -41,12 +42,12 @@ produit du salaire minimum de croissance par le nombre d'heures rémunérées.
 Cette exonération ne s'applique pas pour les salariés employés dans le cadre du
 contrat défini à l'article L. 718-4.
 
-V.-Les coopératives d'utilisation du matériel agricole mettant des salariés à la
-disposition de leurs adhérents ne bénéficient pas des dispositions du présent
+V. - Les coopératives d'utilisation du matériel agricole mettant des salariés à
+la disposition de leurs adhérents ne bénéficient pas des dispositions du présent
 article.
 
-VI.-Un décret fixe les modalités d'application du présent article, notamment la
-durée maximale d'exonération par année civile.
+VI. - Un décret fixe les modalités d'application du présent article, notamment
+la durée maximale d'exonération par année civile.
 
 Au-delà de la période maximale d'application de l'exonération mentionnée à
 l'alinéa précédent, l'employeur déclare à la caisse de mutualité sociale
@@ -55,7 +56,7 @@ période où elle s'est appliquée, au profit de la réduction prévue par l'art
 L. 241-13 du code de la sécurité sociale sur l'ensemble de la période de
 travail.
 
-VII.-Le bénéfice des dispositions du présent article ne peut être cumulé avec
+VII. - Le bénéfice des dispositions du présent article ne peut être cumulé avec
 celui d'une autre exonération totale ou partielle de cotisations patronales ou
 l'application de taux spécifiques, d'assiettes ou montants forfaitaires de
 cotisations, à l'exception des exonérations prévues aux articles L. 741-5 et L.

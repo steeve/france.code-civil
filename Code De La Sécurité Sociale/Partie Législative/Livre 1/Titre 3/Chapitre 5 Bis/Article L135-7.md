@@ -2,9 +2,7 @@ Article L135-7
 ----
 Les ressources du fonds sont constituées par :
 
-1° Une fraction, fixée par arrêté des ministres chargés de la sécurité sociale
-et du budget, du solde du produit de la contribution sociale de solidarité à la
-charge des sociétés visé au deuxième alinéa de l'article L. 651-2-1 ;
+1° Abrogé ;
 
 2° Tout ou partie du résultat excédentaire du Fonds de solidarité vieillesse
 mentionné à l'article L. 135-1, dans des conditions fixées par arrêté des
@@ -19,25 +17,17 @@ budget détermine les montants à verser ainsi que les dates de versement ;
 
 4° Les montants résultant de l'application de l'article L. 251-6-1 ;
 
-5° Une fraction égale à 65 % du produit des prélèvements visés aux articles L.
-245-14 à L. 245-16 ;
+5° Abrogé ;
 
-6° Paragraphe abrogé
+6° Abrogé
 
-7° Les sommes issues de l'application du titre IV du livre IV du code du travail
-et reçues en consignation par la Caisse des dépôts et consignations ou résultant
-de la liquidation des parts de fond commun de placement par les organismes
-gestionnaires, des titres émis par des SICAV, des actions émises par les
-sociétés créées par les salariés en vue de la reprise de leur entreprise ou des
-actions ou coupures d'actions de l'entreprise, n'ayant fait l'objet de la part
-des ayants droit d'aucune opération ou réclamation depuis trente années. ;
+7° Abrogé ;
 
-8° Le produit de la contribution instituée à l'article L. 137-5 ;
+8° Abrogé ;
 
 9° Toute autre ressource affectée au Fonds de réserve pour les retraites ;
 
 10° Le produit des placements effectués au titre du Fonds de réserve pour les
 retraites ;
 
-11° Les sommes acquises à l'Etat conformément au 5° de l'article L. 1126-1 du
-code général de la propriété des personnes publiques.
+11° Abrogé.

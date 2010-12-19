@@ -35,3 +35,6 @@ chapitre.
 
 III.-Les bénéficiaires de l'assurance prévue au présent chapitre peuvent
 contracter librement toutes assurances complémentaires ou supplémentaires.
+
+IV. - L'obligation d'assurance prévue au I n'est pas applicable aux bailleurs à
+métayage.

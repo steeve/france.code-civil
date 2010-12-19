@@ -14,9 +14,12 @@ Haute Autorité de santé ;
 
 4° De s'abstenir de toute activité non autorisée.
 
-En cas d'inobservation volontaire des obligations ci-dessus indiquées, la caisse
-peut retenir, à titre de pénalité, tout ou partie des indemnités journalières
-dues.
+En cas d'inobservation volontaire de ces obligations, le bénéficiaire restitue à
+la caisse les indemnités versées correspondantes.
+
+En outre, si l'activité mentionnée au 4° a donné lieu à une rémunération, à des
+revenus professionnels ou à des gains, il peut être prononcé une sanction
+financière dans les conditions prévues à l'article L. 162-1-14.
 
 En cas de recours formé contre les décisions de la caisse, les juridictions
 visées à l'article L. 142-2 contrôlent l'adéquation du montant de la sanction

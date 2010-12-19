@@ -9,3 +9,6 @@ au 1° de l'article L. 162-22-6 dans les conditions fixées à l'article L.
 remboursement à l'établissement s'effectue sur la base du montant de la facture
 majoré d'une partie de la différence entre ces deux éléments définie par arrêté
 conjoint des ministres chargés de la santé et de la sécurité sociale.
+
+En aucun cas la différence entre le tarif de responsabilité et le prix de vente
+aux établissements ne peut être facturée aux patients.

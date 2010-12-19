@@ -31,9 +31,11 @@ d'attribution par le conseil d'administration ou le directoire. Ce choix est
 exercé par l'employeur pour la durée de l'exercice pour l'ensemble des
 attributions gratuites d'actions ; il est irrévocable durant cette période.
 
-II. ― Le taux de cette contribution est fixé à 10 %. Elle est exigible le mois
-suivant la date de la décision d'attribution des options ou des actions visées
-au I.
+II. ― Le taux de cette contribution est fixé à 14 %. Toutefois, ce taux est fixé
+à 10 % sur les attributions d'actions mentionnées au I dont la valeur annuelle
+par salarié est inférieure à la moitié du plafond annuel mentionné à l'article
+L. 241-3. Elle est exigible le mois suivant la date de la décision d'attribution
+des options ou des actions visées au I.
 
 III. ― Ces dispositions sont également applicables lorsque l'option est
 consentie ou l'attribution est effectuée, dans les mêmes conditions, par une

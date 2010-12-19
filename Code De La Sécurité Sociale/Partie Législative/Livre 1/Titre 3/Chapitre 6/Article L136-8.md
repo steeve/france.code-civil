@@ -30,7 +30,7 @@ seuils déterminés en application des dispositions des I et III du même articl
 IV. - Le produit des contributions mentionnées au I est versé :
 
 1° A la Caisse nationale des allocations familiales pour la part correspondant à
-un taux de 1,1 % et, par dérogation, de 1,08 % pour les revenus visés à
+un taux de 0,82 % et, par dérogation, de 0,8 % pour les revenus visés à
 l'article L. 136-2 soumis à la contribution au taux de 7,5 % ;
 
 2° Au fonds institué par l'article L. 135-1 pour la part correspondant à un taux
@@ -62,8 +62,8 @@ contribution au taux de 7,5 %.
 
 5° A la Caisse d'amortissement de la dette sociale instituée par l'ordonnance n°
 96-50 du 24 janvier 1996 relative au remboursement de la dette sociale, pour la
-part correspondant au taux de 0,2 %, à l'exception de la contribution mentionnée
-au 3° du I .
+part correspondant au taux de 0,48 %, à l'exception de la contribution
+mentionnée au 3° du I pour laquelle le taux est fixé à 0,28 %.
 
 V. - Le produit de la contribution mentionnée au III de l'article L. 136-7-1 est
 ainsi réparti :

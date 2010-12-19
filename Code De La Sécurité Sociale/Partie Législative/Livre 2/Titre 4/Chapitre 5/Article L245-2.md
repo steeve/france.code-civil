@@ -50,7 +50,8 @@ règlement (CE) n° 141 / 2000 du Parlement européen et du Conseil, du 16 déce
 1999, concernant les médicaments orphelins, bénéficiant d'une autorisation de
 mise sur le marché et inscrits sur la liste mentionnée au premier alinéa de
 l'article L. 162-17 du présent code ou sur la liste mentionnée à l'article L.
-5123-2 du code de la santé publique.
+5123-2 du code de la santé publique à l'exception de ceux dont le chiffre
+d'affaires hors taxes excède 30 millions d'euros.
 
 Pour les entreprises appartenant à un groupe, les abattements mentionnés aux 2°
 et 3° sont reportés, lorsqu'ils sont supérieurs à l'assiette de la contribution,
@@ -72,7 +73,7 @@ définies ci-après, le taux applicable est fixé comme suit :
 
 PART DE L'ASSIETTE
 
-correspondant au rapport R » entre l'assiette définie aux 1° à 3° du I après
+correspondant au rapport R entre l'assiette définie aux 1° à 3° du I après
 déduction, le cas échéant, des abattements et le chiffre d'affaires hors taxes
 
 

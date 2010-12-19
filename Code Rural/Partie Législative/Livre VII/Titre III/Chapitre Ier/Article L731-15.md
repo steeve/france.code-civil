@@ -30,3 +30,13 @@ l'article 72 D ou de l'article 72 D bis du code général des impôts. Ces reven
 sont également majorés du montant des plus-values à court terme exonérées
 d'impôt sur le revenu en application de l'article 151 septies A du code général
 des impôts.
+
+Les revenus mentionnés aux alinéas précédents sont également majorés des revenus
+perçus par le chef d'exploitation ou d'entreprise agricole en contrepartie de la
+location des terres, biens immobiliers à utilisation agricole et biens mobiliers
+qui leur sont attachés lorsque ces terres et ces biens sont mis à la disposition
+d'une exploitation ou d'une entreprise agricole sous forme individuelle ou
+sociétaire aux travaux de laquelle il participe effectivement. Cette majoration
+ne s'applique pas lorsque le chef d'exploitation ou d'entreprise agricole ne
+procède pas à la déduction du revenu cadastral des terres prévue au cinquième
+alinéa de l'article L. 731-14.

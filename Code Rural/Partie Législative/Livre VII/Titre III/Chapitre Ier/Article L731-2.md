@@ -19,7 +19,7 @@ et L. 138-10 du même code, déterminée dans les conditions fixées à l'articl
 4° Le produit du droit de consommation sur les produits intermédiaires mentionné
 à l'article 402 bis du code général des impôts ;
 
-5° Une fraction égale à 65, 6 % du produit du droit de circulation sur les vins,
+5° Une fraction égale à 65,6 % du produit du droit de circulation sur les vins,
 cidres, poirés et hydromels mentionné à l'article 438 du même code ;
 
 6° Le produit du droit sur les bières et les boissons non alcoolisées mentionné
@@ -32,12 +32,11 @@ l'article L. 245-7 du code de la sécurité sociale ;
 code général des impôts, déterminée par l'article 61 de la loi n° 2004-1484 du
 30 décembre 2004 de finances pour 2005 ;
 
-9° Le produit des taxes mentionnées aux articles 1010, 1609 vicies et 1618
+9° Le produit des taxes mentionnées aux articles 1010,1609 vicies et 1618
 septies du code général des impôts ;
 
-10° Le versement du solde de compensation résultant, pour l'assurance maladie et
-maternité, de l'application de l'article L. 134-1 du code de la sécurité sociale
-;
+10° Une fraction égale à 30,89 % du produit de la contribution sociale de
+solidarité mentionnée à l'article L. 651-1 du code de la sécurité sociale ;
 
 11° Les subventions du fonds spécial d'invalidité mentionné à l'article L.
 815-26 du même code ;

@@ -1,9 +1,11 @@
 Article L243-7
 ----
 Le contrôle de l'application des dispositions du présent code par les
-employeurs, personnes privées ou publiques, et par les travailleurs indépendants
-est confié aux organismes chargés du recouvrement des cotisations du régime
-général. Les agents chargés du contrôle sont assermentés et agréés dans des
+employeurs, personnes privées ou publiques et, dans le respect des dispositions
+prévues à l'article L. 133-6-5, par les travailleurs indépendants ainsi que par
+toute personne qui verse des cotisations ou contributions auprès des organismes
+chargés du recouvrement des cotisations du régime général est confié à ces
+organismes. Les agents chargés du contrôle sont assermentés et agréés dans des
 conditions définies par arrêté du ministre chargé de la sécurité sociale. Ces
 agents ont qualité pour dresser en cas d'infraction auxdites dispositions des
 procès-verbaux faisant foi jusqu'à preuve du contraire. Les unions de

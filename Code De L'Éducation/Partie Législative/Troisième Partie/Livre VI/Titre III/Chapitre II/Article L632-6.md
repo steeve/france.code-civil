@@ -4,7 +4,7 @@ Chaque année, un arrêté du ministre chargé de la santé et du ministre charg
 la sécurité sociale détermine le nombre d'étudiants qui, admis à poursuivre des
 études médicales à l'issue de la première année du premier cycle ou
 ultérieurement au cours de ces études, peuvent signer avec le Centre national de
-gestion mentionné à l' article 116 de la loi n° 86-33 du 9 janvier 1986 portant
+gestion mentionné à l'article 116 de la loi n° 86-33 du 9 janvier 1986 portant
 dispositions statutaires relatives à la fonction publique hospitalière un
 contrat d'engagement de service public.
 
@@ -45,13 +45,16 @@ de l'agence régionale de santé dans le ressort duquel ils exercent leurs
 fonctions, leur proposer un lieu d'exercice dans une zone dépendant d'une autre
 agence régionale de santé.
 
-Les médecins ayant signé un contrat d'engagement de service public avec le
-centre national de gestion peuvent se dégager de leur obligation d'exercice
-prévue au deuxième alinéa du présent article, moyennant le paiement d'une
-indemnité dont le montant égale les sommes perçues au titre de ce contrat ainsi
-qu'une fraction des frais d'études engagés. Les modalités de remboursement et de
-calcul de cette somme sont fixées par un arrêté conjoint des ministres chargés
-de la santé et de la sécurité sociale.
+Les médecins ou les étudiants ayant signé un contrat d'engagement de service
+public avec le centre national de gestion peuvent se dégager de leur obligation
+d'exercice prévue au deuxième alinéa du présent article, moyennant le paiement
+d'une indemnité dont le montant dégressif égale au plus les sommes perçues au
+titre de ce contrat ainsi qu'une fraction des frais d'études engagés. Les
+modalités de remboursement et de calcul de cette somme sont fixées par un arrêté
+conjoint des ministres chargés de la santé et de la sécurité sociale. Le
+recouvrement de cette indemnité est assuré, pour les médecins, par la caisse
+primaire d'assurance maladie dans le ressort de laquelle le médecin exerce à
+titre principal et, pour les étudiants, par le centre national de gestion.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent
 article.

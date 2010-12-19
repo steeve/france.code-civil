@@ -1,11 +1,13 @@
 Article L161-1-4
 ----
-Les organismes de sécurité sociale demandent, pour le service d'une prestation,
-toutes pièces justificatives utiles pour apprécier les conditions du droit à la
-prestation, notamment la production d'avis d'imposition ou de déclarations
-déposées auprès des administrations fiscales compétentes. Les organismes peuvent
-se dispenser de cette demande lorsqu'ils sont en mesure d'effectuer des
-contrôles par d'autres moyens mis à leur disposition.
+Les organismes de sécurité sociale demandent, pour le service d'une prestation
+ou le contrôle de sa régularité, toutes pièces justificatives utiles pour
+vérifier l'identité du demandeur ou du bénéficiaire d'une prestation ainsi que
+pour apprécier les conditions du droit à la prestation, notamment la production
+d'avis d'imposition ou de déclarations déposées auprès des administrations
+fiscales compétentes. Les organismes peuvent se dispenser de ces demandes
+lorsqu'ils sont en mesure d'effectuer des contrôles par d'autres moyens mis à
+leur disposition.
 
 Les organismes de sécurité sociale peuvent notamment se dispenser de solliciter
 la production de pièces justificatives par le demandeur ou le bénéficiaire d'une

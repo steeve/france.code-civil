@@ -8,14 +8,14 @@ continuent à assumer.
 
 Dans les limites de la couverture prévue au premier alinéa de l'article L. 134-4
 susmentionné, la caisse nationale de l'assurance maladie des travailleurs
-salariés rembourse à l'établissement national des invalides de la marine, à la
-caisse autonome nationale de la sécurité sociale dans les mines et à la Régie
-autonome des transports parisiens les dépenses afférentes aux soins et aux
-prestations en nature. Elle rembourse, dans les mêmes limites, à la caisse de
-prévoyance de la Société nationale des chemins de fer français les prestations
-en nature versées par cet organisme pour le compte du régime général et à la
-Société nationale des chemins de fer français les dépenses afférentes aux soins
-médicaux et paramédicaux dispensés aux agents en activité.
+salariés rembourse à la caisse autonome nationale de la sécurité sociale dans
+les mines et à la Régie autonome des transports parisiens les dépenses
+afférentes aux soins et aux prestations en nature. Elle rembourse, dans les
+mêmes limites, à la caisse de prévoyance de la Société nationale des chemins de
+fer français les prestations en nature versées par cet organisme pour le compte
+du régime général et à la Société nationale des chemins de fer français les
+dépenses afférentes aux soins médicaux et paramédicaux dispensés aux agents en
+activité.
 
 Les soldes qui en résultent entre les divers régimes et la caisse nationale de
 l'assurance maladie sont fixés dans les conditions définies par le dernier

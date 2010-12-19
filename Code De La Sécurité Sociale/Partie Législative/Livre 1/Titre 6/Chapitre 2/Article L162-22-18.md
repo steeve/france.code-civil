@@ -19,12 +19,13 @@ lesquelles le directeur général n'a pas suivi l'avis de la commission de
 contrôle. La sanction est notifiée à l'établissement.
 
 Son montant est fonction du pourcentage des sommes indûment perçues par rapport
-aux sommes dues. Il est calculé sur la base des recettes annuelles d'assurance
-maladie de l'établissement ou, si le contrôle porte sur une activité, une
-prestation en particulier ou des séjours présentant des caractéristiques
-communes, sur la base des recettes annuelles d'assurance maladie afférentes à
-cette activité, cette prestation ou ces séjours, dans la limite de 5 % des
-recettes annuelles d'assurance maladie de l'établissement.
+aux sommes dues et du caractère réitéré des manquements. Il est calculé sur la
+base des recettes annuelles d'assurance maladie de l'établissement ou, si le
+contrôle porte sur une activité, une prestation en particulier ou des séjours
+présentant des caractéristiques communes, sur la base des recettes annuelles
+d'assurance maladie afférentes à cette activité, cette prestation ou ces
+séjours, dans la limite de 5 % des recettes annuelles d'assurance maladie de
+l'établissement.
 
 Les établissements qui font obstacle à la préparation et à la réalisation du
 contrôle sont passibles d'une sanction dont le montant ne peut excéder la limite
