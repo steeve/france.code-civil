@@ -2,8 +2,8 @@ Article R6147-59
 ----
 Par dérogation aux dispositions du 3° de l'article R. 6143-3, le collège de
 personnalités qualifiées du conseil de surveillance du Centre hospitalier
-national d'ophtalmologie des Quinze-Vingts et de l'hôpital national de
-Saint-Maurice comporte cinq membres désignés comme suit :
+national d'ophtalmologie des Quinze-Vingts comporte cinq membres désignés comme
+suit :
 
 1° Un membre de l'Assemblée nationale et un membre du Sénat désignés par la
 commission chargée des affaires sociales de leur assemblée respective ;
