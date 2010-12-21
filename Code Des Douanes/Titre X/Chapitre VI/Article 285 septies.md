@@ -30,15 +30,14 @@ marchandises les véhicules d'intérêt général prioritaires et les véhicules
 matériels agricoles définis par voie réglementaire, ainsi que les véhicules
 militaires.
 
-II. ― La taxe est due solidairement par le propriétaire, le conducteur ou tout
-utilisateur des véhicules mentionnés au 3 du I.
+II. ― La taxe est due par le propriétaire des véhicules mentionnés au 3 du I.
 
 Toutefois, lorsque le véhicule de transport de marchandises fait l'objet soit
-d'un contrat de crédit-bail, soit d'un contrat de location, la taxe est due
-solidairement par le locataire ou le sous-locataire, le conducteur ou tout
-utilisateur. Le propriétaire est solidairement responsable du paiement de la
-taxe ainsi que, le cas échéant, de la majoration de retard applicable. Un décret
-précise les conditions particulières qui en découlent pour le loueur.
+d'un contrat de crédit-bail, soit d'un contrat de location, la taxe est due par
+le locataire ou le sous-locataire. Le propriétaire est solidairement responsable
+du paiement de la taxe ainsi que, le cas échéant, de la majoration de retard
+applicable. Un décret précise les conditions particulières qui en découlent pour
+le loueur.
 
 III. ― Le fait générateur intervient et la taxe devient exigible lors du
 franchissement, par un véhicule de transport de marchandises défini au 3 du I,
@@ -50,7 +49,8 @@ arrondissement à la centaine de mètres la plus proche.
 
 2. Pour chaque section de tarification, le taux kilométrique de la taxe est
 fonction de la catégorie du véhicule. Les catégories, qui reposent sur le nombre
-d'essieux des véhicules, sont déterminées par décret en Conseil d'Etat.
+d'essieux des véhicules, sont déterminées par arrêté conjoint des ministres
+chargés des transports et du budget.
 
 Le taux kilométrique est modulé en fonction de la classe d'émission EURO du
 véhicule, au sens de l'annexe 0 de la directive 1999 / 62 / CE du Parlement
@@ -90,9 +90,6 @@ I.
 informations collectées automatiquement au moyen de l'équipement électronique
 embarqué mentionné au 1 du présent V.
 
-Les informations collectées au moyen des équipements électroniques embarqués
-homologués font foi jusqu'à preuve du contraire.
-
 3. Lorsque le redevable a passé un contrat avec une société habilitée lui
 fournissant un service de télépéage, la taxe est liquidée et son montant est
 communiqué à cette société au plus tard le dixième jour de chaque mois, sur le
@@ -100,20 +97,10 @@ fondement de l'ensemble des trajets taxables réalisés par le redevable au cour
 du mois précédent et pour lesquels il a utilisé l'équipement électronique
 embarqué fourni par la société habilitée.
 
-4. Dans les autres cas, préalablement à l'emprunt du réseau taxable, le
-redevable est tenu de constituer une avance sur taxe.
-
-La taxe est liquidée et son montant est communiqué au redevable au plus tard le
-dixième jour de chaque mois, sur le fondement de l'ensemble des trajets taxables
-réalisés par le redevable au cours du mois précédent et pour lesquels il a
-utilisé l'équipement électronique embarqué.
-
-La liquidation de la taxe et la communication du montant dû par le redevable
-sont effectuées lors de la restitution de l'équipement électronique embarqué, ou
-dès que l'avance est insuffisante pour couvrir les trajets taxables réalisés.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil
-d'Etat.
+4. Dans les autres cas, la taxe est liquidée et son montant est communiqué au
+redevable au plus tard le dixième jour de chaque mois, sur le fondement de
+l'ensemble des trajets taxables réalisés par le redevable au cours du mois
+précédent et pour lesquels il a utilisé l'équipement électronique embarqué.
 
 5. 1° Un décret en Conseil d'Etat définit les modalités de communication du
 montant de la taxe aux sociétés habilitées fournissant un service de télépéage
@@ -144,11 +131,8 @@ un avis de rappel, prévoyant une majoration de 10 % du montant de la taxe non
 acquitté, est adressé à la société habilitée lui fournissant un service de
 télépéage avant la notification du titre exécutoire.
 
-2. Dans les cas prévus au 4 du V, la taxe est acquittée par le redevable lors de
-la restitution de l'équipement électronique embarqué ou dès que l'avance est
-insuffisante ou au plus tard le dixième jour du mois suivant la liquidation.
-
-Le paiement s'effectue par imputation de l'avance.
+2. Dans les cas prévus au 4 du V, la taxe est acquittée par le redevable au plus
+tard le dixième jour du mois suivant la liquidation.
 
 Un décret en Conseil d'Etat précise les conditions dans lesquelles la taxe est
 acquittée. Il peut prévoir des mécanismes particuliers pour les redevables
@@ -166,28 +150,23 @@ VII. ― 1. Les manquements au regard de la taxe sont réprimés, les poursuites
 sont effectuées et les instances sont instruites et jugées comme en matière de
 douane.
 
-Est constitutive d'un manquement toute irrégularité ayant pour but ou pour
-résultat d'éluder ou de compromettre le recouvrement de la taxe.
-
-La circulation du redevable sur le réseau taxable, alors que l'avance sur taxe
-est insuffisante, est constitutive d'un manquement.
-
 Les propriétaires, utilisateurs ou conducteurs de véhicules doivent présenter, à
 première réquisition, aux agents des douanes, de la police nationale, de la
 gendarmerie nationale et du contrôle des transports terrestres, tous les
 éléments et documents susceptibles de justifier la régularité de la circulation
 desdits véhicules sur le réseau taxable.
 
-2. Lorsqu'il est constaté un manquement, le redevable fait l'objet d'une
-taxation forfaitaire égale au produit du taux défini aux 2 à 4 du IV par une
-distance forfaitaire de 130 kilomètres. Le montant de la taxe forfaitaire ou au
-réel est doublé en cas d'existence d'un autre manquement au cours des trente
-derniers jours.
+2. Lorsqu'il est constaté une irrégularité ou une omission ayant pour but ou
+pour résultat d'éluder ou de compromettre le recouvrement de la taxe, le
+redevable en manquement au regard de ses obligations fait l'objet d'une taxation
+forfaitaire égale au produit du taux défini aux 2 à 4 du IV par une distance
+forfaitaire de 130 kilomètres. Le montant de la taxe forfaitaire est doublé en
+cas d'existence d'une autre irrégularité au cours des trente derniers jours.
 
-Le montant de la taxe forfaitaire ou au réel prévue au premier alinéa est
-communiqué au redevable selon les modalités fixées par arrêté conjoint des
-ministres chargés des transports et du budget. Elle est exigible dès sa
-communication au redevable.
+Le montant de la taxe forfaitaire prévue au premier alinéa est communiqué au
+redevable selon les modalités fixées par arrêté conjoint des ministres chargés
+des transports et du budget. Elle est exigible dès sa communication au
+redevable.
 
 Lorsque l'irrégularité est constatée par des agents de la police nationale, de
 la gendarmerie nationale ou du contrôle des transports terrestres, ces derniers
@@ -199,15 +178,16 @@ réellement parcourue sur le réseau taxable par le véhicule en manquement.
 Lorsque cette preuve est apportée, la taxation forfaitaire est abandonnée pour
 une taxation réelle.
 
-3. Sans préjudice des dispositions du 2, tout manquement mentionné au 1 est
-passible d'une amende maximale de 750 EUR.
+3. Sans préjudice des dispositions du 2, est passible d'une amende maximale de
+750 € toute omission ou irrégularité ayant pour but ou pour résultat d'éluder ou
+de compromettre le recouvrement de la taxe.
 
 4. Les agents mentionnés au deuxième alinéa du 1 et habilités par les textes
 particuliers qui leur sont applicables disposent des pouvoirs d'investigation et
 de constatation nécessaires à la mise en œuvre des contrôles prévus au même
 alinéa. Ces agents peuvent immobiliser le véhicule en manquement pour mettre en
-œuvre et percevoir l'amende mentionnée au 3 dans les conditions fixées par
-décret en Conseil d'Etat.
+œuvre l'amende mentionnée au 3 dans les conditions fixées par décret en Conseil
+d'Etat.
 
 5. Les constatations d'irrégularités effectuées par des appareils de contrôle
 automatique homologués font foi jusqu'à preuve du contraire.
