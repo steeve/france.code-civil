@@ -40,11 +40,11 @@ l'incident ayant entraîné la déclaration.
 
 III.-Dès que la commission instituée à l'article L. 331-1 est saisie par un
 débiteur, elle en informe la Banque de France aux fins d'inscription au fichier.
-La même obligation pèse sur le greffe du juge de l'exécution lorsque, sur
-recours de l'intéressé en application du IV de l'article L. 331-3, la situation
-visée à l'article L. 331-2 est reconnue par ce juge ou lorsque le débiteur a
-bénéficié de l'effacement des dettes résultant de la procédure de rétablissement
-personnel en application des articles L. 332-9 ou L. 332-5.
+La même obligation pèse sur le greffe du juge du tribunal d'instance lorsque,
+sur recours de l'intéressé en application du IV de l'article L. 331-3, la
+situation visée à l'article L. 331-2 est reconnue par ce juge ou lorsque le
+débiteur a bénéficié de l'effacement des dettes résultant de la procédure de
+rétablissement personnel en application des articles L. 332-9 ou L. 332-5.
 
 Le fichier recense les mesures du plan conventionnel de redressement mentionnées
 à l'article L. 331-6. Ces mesures sont communiquées à la Banque de France par la
@@ -53,9 +53,9 @@ plan conventionnel, sans pouvoir excéder huit ans.
 
 Le fichier recense également les mesures prises en vertu des articles L. 331-7,
 L. 331-7-1 et L. 331-7-2 qui sont communiquées à la Banque de France par la
-commission ou le greffe du juge de l'exécution lorsqu'elles sont soumises à son
-homologation.L'inscription est conservée pendant toute la durée d'exécution de
-ces mesures, sans pouvoir excéder huit ans.
+commission ou le greffe du juge du tribunal d'instance lorsqu'elles sont
+soumises à son homologation.L'inscription est conservée pendant toute la durée
+d'exécution de ces mesures, sans pouvoir excéder huit ans.
 
 Lorsque les mesures du plan conventionnel mentionnées à l'article L. 331-6 et
 celles prises en application des articles L. 331-7, L. 331-7-1 et L. 331-7-2

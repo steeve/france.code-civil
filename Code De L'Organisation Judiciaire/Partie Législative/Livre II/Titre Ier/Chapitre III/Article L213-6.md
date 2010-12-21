@@ -12,11 +12,8 @@ Le juge de l'exécution connaît, sous la même réserve, de la procédure de sa
 immobilière, des contestations qui s'élèvent à l'occasion de celle-ci et des
 demandes nées de cette procédure ou s'y rapportant directement, même si elles
 portent sur le fond du droit ainsi que de la procédure de distribution qui en
-découle (1).
+découle.
 
 Il connaît, sous la même réserve, des demandes en réparation fondées sur
 l'exécution ou l'inexécution dommageables des mesures d'exécution forcée ou des
 mesures conservatoires.
-
-Il connaît des mesures de traitement des situations de surendettement des
-particuliers et de la procédure de rétablissement personnel.

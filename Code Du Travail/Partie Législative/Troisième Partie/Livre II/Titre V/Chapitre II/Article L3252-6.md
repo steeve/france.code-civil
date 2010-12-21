@@ -1,4 +1,4 @@
 Article L3252-6
 ----
-Un décret en Conseil d'Etat détermine la juridiction compétente pour connaître
-de la saisie des rémunérations.
+Le juge du tribunal d'instance connaît de la saisie des rémunérations dans les
+conditions prévues à l'article L. 221-8 du code de l'organisation judiciaire.

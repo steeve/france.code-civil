@@ -1,12 +1,12 @@
 Article L332-5
 ----
 Lorsque la commission recommande un rétablissement personnel sans liquidation
-judiciaire et en l'absence de contestation, le juge de l'exécution confère force
-exécutoire à la recommandation, après en avoir vérifié la régularité et le
-bien-fondé.
+judiciaire et en l'absence de contestation, le juge du tribunal d'instance
+confère force exécutoire à la recommandation, après en avoir vérifié la
+régularité et le bien-fondé.
 
 Le rétablissement personnel sans liquidation judiciaire rendu exécutoire par le
-juge de l'exécution entraîne l'effacement de toutes les dettes non
+juge du tribunal d'instance entraîne l'effacement de toutes les dettes non
 professionnelles du débiteur à l'exception des dettes visées à l'article L.
 333-1, de celles mentionnées à l'article L. 333-1-2 et des dettes dont le prix a
 été payé au lieu et place du débiteur par la caution ou le coobligé, personnes

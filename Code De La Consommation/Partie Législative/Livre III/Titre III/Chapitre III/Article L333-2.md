@@ -17,6 +17,6 @@ l'article L. 331-7 ou de l'article L. 331-7-1.
 
 La déchéance du bénéfice de la procédure de traitement du surendettement est
 prononcée à l'encontre du débiteur par la commission, par une décision
-susceptible de recours, ou par le juge de l'exécution à l'occasion des recours
-exercés devant lui ainsi que dans le cadre de la procédure de rétablissement
-personnel avec liquidation judiciaire.
+susceptible de recours, ou par le juge du tribunal d'instance à l'occasion des
+recours exercés devant lui ainsi que dans le cadre de la procédure de
+rétablissement personnel avec liquidation judiciaire.

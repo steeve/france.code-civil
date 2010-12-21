@@ -32,9 +32,9 @@ Après avoir été informés par la commission de l'état du passif déclaré pa
 débiteur, les créanciers disposent d'un délai de trente jours pour fournir, en
 cas de désaccord sur cet état, les justifications de leurs créances en
 principal, intérêts et accessoires.A défaut, la créance est prise en compte par
-la commission au vu des seuls éléments fournis par le débiteur. L'information
-des créanciers peut être effectuée par télécopie ou par courrier électronique
-dans des conditions fixées par décret. Les créanciers indiquent également si les
+la commission au vu des seuls éléments fournis par le débiteur.L'information des
+créanciers peut être effectuée par télécopie ou par courrier électronique dans
+des conditions fixées par décret. Les créanciers indiquent également si les
 créances en cause ont donné lieu à une caution et si celle-ci a été actionnée.
 
 Lorsque la commission constate que le remboursement d'une ou plusieurs dettes du
@@ -67,12 +67,12 @@ III.-Si l'instruction de la demande fait apparaître que le débiteur est dans l
 situation irrémédiablement compromise définie au troisième alinéa de l'article
 L. 330-1 et dispose de biens autres que ceux mentionnés au 1° du même article,
 la commission, après avoir convoqué le débiteur et obtenu son accord, saisit le
-juge de l'exécution aux fins d'ouverture d'une procédure de rétablissement
-personnel avec liquidation judiciaire. L'absence de réponse du débiteur aux
-convocations vaut refus de cette saisine. En cas de refus du débiteur, la
-commission reprend sa mission dans les termes des articles L. 331-6, L. 331-7,
-L. 331-7-1 et L. 331-7-2.
+juge du tribunal d'instance aux fins d'ouverture d'une procédure de
+rétablissement personnel avec liquidation judiciaire.L'absence de réponse du
+débiteur aux convocations vaut refus de cette saisine. En cas de refus du
+débiteur, la commission reprend sa mission dans les termes des articles L.
+331-6, L. 331-7, L. 331-7-1 et L. 331-7-2.
 
 IV.-Les décisions rendues par la commission en matière de recevabilité et
-d'orientation du dossier sont susceptibles de recours devant le juge de
-l'exécution.
+d'orientation du dossier sont susceptibles de recours devant le juge du tribunal
+d'instance .

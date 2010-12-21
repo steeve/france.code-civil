@@ -1,8 +1,8 @@
 Article L332-5-1
 ----
-Une partie peut contester devant le juge de l'exécution le rétablissement
-personnel sans liquidation judiciaire recommandé par la commission dans les
-quinze jours de la notification qui lui en est faite.
+Une partie peut contester devant le juge du tribunal d'instance le
+rétablissement personnel sans liquidation judiciaire recommandé par la
+commission dans les quinze jours de la notification qui lui en est faite.
 
 Avant de statuer, le juge peut faire publier un appel aux créanciers. Il peut
 vérifier, même d'office, la validité des créances, des titres qui les constatent

@@ -15,8 +15,8 @@ celles fondées sur un jugement d'adjudication rendu en matière de saisie
 immobilière ainsi que de celles ordonnées sur le fondement du troisième alinéa
 de l'article 2198 du code civil.
 
-Le juge de l'exécution peut désigner un mandataire figurant sur une liste
-établie dans des conditions fixées par décret en Conseil d'Etat et faire
+Le juge du tribunal d'instance peut désigner un mandataire figurant sur une
+liste établie dans des conditions fixées par décret en Conseil d'Etat et faire
 procéder à une enquête sociale. Si la situation du débiteur l'exige, il l'invite
 à solliciter une mesure d'aide ou d'action sociale, notamment une mesure
 d'accompagnement social personnalisé, dans les conditions prévues par le livre

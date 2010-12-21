@@ -25,8 +25,8 @@ nées antérieurement à la suspension ou à l'interdiction, de faire un acte de
 disposition étranger à la gestion normale du patrimoine ; elles emportent aussi
 interdiction de prendre toute garantie ou sûreté.
 
-Le débiteur peut toutefois saisir le juge de l'exécution afin qu'il l'autorise à
-accomplir l'un des actes mentionnés à l'alinéa précédent.
+Le débiteur peut toutefois saisir le juge du tribunal d'instance afin qu'il
+l'autorise à accomplir l'un des actes mentionnés à l'alinéa précédent.
 
 La décision déclarant la recevabilité de la demande emporte rétablissement des
 droits à l'aide personnalisée au logement. Le déblocage des aides s'effectue au
