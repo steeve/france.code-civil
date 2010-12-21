@@ -7,7 +7,7 @@ sont assurés :
 1° a) Par l'Autorité de contrôle prudentiel sur les intermédiaires habilités
 mentionnés à l'article L. 211-4, sur la Caisse des dépôts et consignations, et
 sur les organismes et les personnes qui lui sont soumis en vertu de l'article L.
-612-2, à l'exception des personnes mentionnées aux 4°, 6° et 7° du A, aux 6°, 7°
+612-2, à l'exception des personnes mentionnées aux 4°,6° et 7° du A, aux 6°,7°
 et 8° du B du I et au 3° du II de cet article ;
 
 b) A cette fin, le contrôle de l'Autorité de contrôle prudentiel sur la Caisse
@@ -53,9 +53,9 @@ l'article 21-1 de la même loi ;
 à l'article 4 de l'ordonnance n° 45-2590 du 2 novembre 1945 relative au statut
 du notariat ;
 
-6° Par les chambres départementales des huissiers de justice sur les huissiers
-de justice de leur ressort, conformément à l'article 6 de l'ordonnance n°
-45-2592 du 2 novembre 1945 relative au statut des huissiers de justice ;
+6° Par les chambres régionales des huissiers de justice sur les huissiers de
+justice de leur ressort, conformément à l'article 7 de l'ordonnance n° 45-2592
+du 2 novembre 1945 relative au statut des huissiers de justice ;
 
 7° Par la chambre de discipline des commissaires-priseurs judiciaires sur les
 commissaires-priseurs judiciaires de leur ressort, conformément à l'article 8 de
@@ -87,7 +87,7 @@ les sociétés de ventes volontaires de meubles aux enchères publiques,
 conformément aux articles L. 321-18 et L. 321-22 du code de commerce.
 
 II.-Le contrôle des obligations prévues aux chapitres Ier et II du présent titre
-est exercé sur les personnes mentionnées aux 8°, 9° et 15° de l'article L. 561-2
+est exercé sur les personnes mentionnées aux 8°,9° et 15° de l'article L. 561-2
 par des inspections conduites par l'autorité administrative compétente telle que
 désignée par décret en Conseil d'Etat. Le contrôle des obligations prévues aux
 chapitres Ier et II du présent titre est exercé sur les personnes mentionnées au
