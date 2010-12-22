@@ -1,49 +1,63 @@
 Article R313-35-2
 ----
-Elle est administrée par un conseil d'administration dont la composition est la
-suivante :
+Le conseil d'administration détermine les orientations de l'activité de
+l'agence. Il règle par ses délibérations les affaires de l'agence.
 
-a) Deux représentants du ministre chargé de la construction et de l'habitation ;
+Le conseil d'administration :
 
-- un représentant du ministre chargé des affaires sociales ;
+-adopte l'état prévisionnel des recettes et des dépenses annuelles et ses
+modificatifs ;
 
-- un représentant du ministre chargé de l'économie ;
+-arrête les comptes annuels, l'affectation des résultats et les règles générales
+d'emploi des disponibilités et réserves ;
 
-- un représentant du ministre chargé du budget,
+-adopte son règlement intérieur ;
 
-nommés respectivement, ainsi que leur suppléant, par chacun des ministres
-intéressés ;
+-approuve le rapport annuel d'activité de l'agence ;
 
-b) Cinq représentants des salariés désignés respectivement par :
+-détermine les conditions générales de passation, de financement et de contrôle
+des marchés, conventions et contrats de toute nature conclus par l'agence et
+approuve lesdits marchés, conventions et contrats dont le montant excède un
+seuil qu'il fixe ;
 
-- la confédération générale du travail (CGT) ;
+-détermine les conditions générales de recrutement, d'emploi et de rémunération
+des personnels de l'agence.
 
-- la confédération française démocratique du travail (CFDT) ;
+Au titre des missions particulières de l'agence, le conseil d'administration :
 
-- la confédération générale du travail-force ouvrière (CGT-FO) ;
+1° Délibère sur les avis de l'agence concernant l'agrément aux fins de collecter
+mentionné à l'article L. 313-1 ;
 
-- la confédération française des travailleurs chrétiens (CFTC) ;
+2° Délibère sur les décisions de mise en demeure, les avis et les propositions
+mentionnés aux articles L. 313-13 à L. 313-16-3 ;
 
-- la confédération française de l'encadrement confédération générale des cadres
-(CFE-CGC) ;
+3° Approuve le programme annuel de contrôle et est informé de son exécution
+ainsi que, le cas échéant, des compléments qui lui sont apportés en application
+de l'article R. 313-35-6 ou sur demande du ministre chargé du logement ;
 
-c) Cinq représentants des employeurs :
+4° Approuve le rapport annuel d'activité de contrôle ;
 
-- quatre désignés par le conseil national du patronat français (CNPF) ;
+5° Approuve le programme annuel d'études et est informé de son exécution ainsi
+que, le cas échéant, des compléments qui lui sont apportés par décision du
+directeur général ou sur demande du ministre chargé du logement, du ministre
+chargé de l'économie ou du ministre chargé du budget ;
 
-- un désigné par la confédération générale des petites et moyennes entreprises
-(CGPME) ;
+6° Approuve le rapport annuel sur les emplois de la participation des employeurs
+à l'effort de construction et sur la situation financière des organismes
+gestionnaires de la participation des employeurs à l'effort de construction ;
 
-d) Cinq représentants des associés collecteurs de l'Union d'économie sociale du
-logement désignés par elle.
+7° Approuve les indicateurs et les objectifs permettant d'apprécier la
+performance des collecteurs en termes de gestion ; ces indicateurs peuvent être
+complétés à la demande du ministre chargé du logement, du ministre chargé de
+l'économie ou du ministre chargé du budget ;
 
-Les administrateurs mentionnés aux b, c et d ci-dessus sont, ainsi que leur
-suppléant désigné dans les mêmes conditions, nommés pour une période de trois
-ans renouvelable par arrêté du ministre chargé du logement. Les membres
-démissionnaires, décédés ou qui perdent la qualité au titre de laquelle ils ont
-été nommés sont remplacés. Leurs remplaçants sont désignés pour la durée du
-mandat restant à courir.
+8° Approuve le rapport annuel de suivi des indicateurs permettant d'apprécier la
+performance des collecteurs en termes de gestion ;
 
-Participent, avec voix consultative, aux travaux du conseil d'administration le
-directeur général et le membre du corps du contrôle général économique et
-financier de l'agence nationale.
+9° Autorise le directeur général à saisir l'Autorité des normes comptables pour
+la mise en place des adaptations comptables sectorielles applicables aux
+organismes mentionnés au deuxième alinéa de l'article L. 313-18 ;
+
+10° Détermine le montant du prélèvement annuel opéré au profit du fonds de
+garantie mentionné à l'article L. 313-10 et décide d'accorder des concours à
+partir de ce fonds.

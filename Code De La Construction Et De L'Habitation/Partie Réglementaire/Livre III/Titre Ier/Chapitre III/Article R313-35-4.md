@@ -1,16 +1,38 @@
 Article R313-35-4
 ----
-Les délibérations relatives à l'état prévisionnel des recettes et des dépenses
-et à ses modificatifs sont exécutoires après avoir été approuvées par le
-ministre chargé de la construction et de l'habitation et par le ministre chargé
-de l'économie et des finances.
+Le conseil d'administration se réunit au moins une fois par trimestre sur
+convocation de son président. Il est également réuni de plein droit, sur
+convocation du président, à la demande d'au moins un tiers de ses membres ou
+d'au moins un des ministres représentés au conseil d'administration.
 
-Les délibérations relatives aux conditions générales qui régissent les marchés,
-au règlement intérieur et au programme d'emploi annuel des fonds mentionnés au
-troisième alinéa de l'article L. 313-1, conformément aux dispositions prévues à
-l'article R. 313-36, sont exécutoires dans le délai d'un mois à compter de la
-date de leur transmission aux ministres représentés au conseil d'administration,
-à moins que l'un de ces ministres n'y fasse opposition ou ne demande qu'il soit
-sursis à leur application.
+L'ordre du jour est arrêté par le président et peut être complété par toute
+question dont un ou plusieurs membres du conseil demandent l'inscription. La
+convocation comportant l'ordre du jour et les documents nécessaires à l'examen
+des points qui y sont inscrits sont transmis aux administrateurs dix jours au
+moins avant la date de la réunion du conseil.
 
-Les autres délibérations sont exécutoires de plein droit.
+En cas d'urgence, notamment dans le cas prévu au III de l'article L. 313-13, le
+délai de transmission de la convocation peut être réduit à cinq jours et le
+délai de transmission des documents nécessaires à l'examen des points qui y sont
+inscrits peut être réduit à deux jours.
+
+Un administrateur peut, en cas d'empêchement, donner mandat à un autre
+administrateur pour le représenter. Un administrateur ne peut disposer que d'un
+seul mandat de représentation.
+
+Le conseil délibère valablement si au moins quatre de ses membres sont présents
+ou représentés. Si ce quorum n'est pas atteint, le conseil est convoqué avec le
+même ordre du jour dans un délai minimum de quinze jours ; il délibère alors
+sans condition de quorum.
+
+Les délibérations sont prises à la majorité des membres présents ou représentés.
+En cas de partage égal des voix, celle du président est prépondérante.
+
+Les membres du conseil d'administration sont tenus au secret des délibérations.
+
+Le directeur général et le membre du corps du contrôle général économique et
+financier participent avec voix consultative aux réunions du conseil
+d'administration.
+
+Peuvent être entendues par le conseil d'administration des personnalités
+invitées par le président en raison de leur compétence.

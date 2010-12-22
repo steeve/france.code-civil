@@ -1,21 +1,15 @@
 Article R313-35-3
 ----
-Le conseil d'administration règle par ses délibérations les affaires de
-l'agence. Ces délibérations portent sur les matières comprises dans les
-attributions de l'agence nationale en application des articles L. 313-7, L.
-313-9, L. 313-10 et L. 313-12 à L. 313-15 et, en outre, sur les objets suivants
-:
+Les délibérations relatives à l'état prévisionnel des recettes et des dépenses
+et à ses modificatifs sont exécutoires dans les conditions fixées à l'article
+1er du décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de
+certaines décisions financières des établissements publics de l'Etat.
 
-L'approbation de l'état prévisionnel des recettes et des dépenses annuelles et
-de ses modificatifs ;
+Les délibérations relatives aux conditions générales qui régissent les marchés,
+conventions et contrats de toute nature conclus par l'agence et au règlement
+intérieur sont exécutoires dans le délai d'un mois à compter de la date de leur
+transmission aux ministres représentés au conseil d'administration, à moins que
+l'un de ces ministres n'y fasse opposition ou ne demande qu'il soit sursis à
+leur application.
 
-L'approbation des comptes annuels ;
-
-Les conditions générales applicables aux marchés et aux contrats de toute nature
-conclus par l'agence et l'approbation desdits marchés et contrats dont le
-montant excède une somme fixée par le règlement intérieur ;
-
-Le choix des prestataires d'études et de travaux statistiques nécessaires à
-l'information de l'agence ;
-
-L'approbation du règlement intérieur.
+Les autres délibérations sont exécutoires de plein droit.

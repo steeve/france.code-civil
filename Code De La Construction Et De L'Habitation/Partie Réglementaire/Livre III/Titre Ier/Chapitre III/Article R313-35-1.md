@@ -1,25 +1,27 @@
 Article R313-35-1
 ----
-L'Agence nationale pour la participation des employeurs à l'effort de
-construction remplit les missions prévues aux articles L. 313-7 à L. 313-16. A
-ce titre, elle propose aux ministres chargés de la construction et de
-l'habitation et de l'économie :
+L'agence est administrée par un conseil d'administration dont la composition est
+la suivante :
 
-a) Les dispositions relatives aux clauses type et aux obligations comptables de
-nature réglementaire des associations mentionnées à l'article L. 313-7 ;
+1° Cinq représentants de l'Etat :
 
-b) Les dispositions réglementaires permettant le bon emploi des fonds collectés
-par les associations et organismes mentionnés aux articles L. 313-7 et L.
-313-16.
+a) Deux représentants du ministre chargé du logement nommés par ce dernier ;
 
-c) Les dispositions relatives aux obligations comptables de nature réglementaire
-des organismes mentionnés au 2° (b et d) de l'article R. 313-9 pour ce qui
-concerne la collecte et l'utilisation par ceux-ci du produit de la participation
-des employeurs.
+b) Un représentant du ministre chargé de l'économie nommé par ce dernier ;
 
-Les ministres peuvent la consulter sur les mesures destinées à favoriser le
-logement des salariés des entreprises assujetties de moins de cinquante
-salariés.
+c) Un représentant du ministre chargé du budget nommé par ce dernier ;
 
-Elle établit un rapport annuel sur l'évolution de l'ensemble des sommes
-investies par les employeurs au titre de l'article L. 313-1.
+d) Le chef de la mission interministérielle d'inspection du logement social ;
+
+2° Trois personnalités désignées par le ministre chargé du logement en raison de
+leurs compétences en matière de logement.
+
+Le mandat des administrateurs est de trois ans. Les membres démissionnaires,
+décédés ou qui perdent la qualité au titre de laquelle ils ont été nommés sont
+remplacés. Leurs remplaçants sont désignés pour la durée du mandat restant à
+courir.
+
+Les administrateurs mentionnés au 1° peuvent disposer d'un suppléant désigné
+dans les mêmes conditions ou, pour l'administrateur mentionné au d du 1°,
+proposé par ce dernier parmi ses collaborateurs et nommé conjointement par le
+ministre chargé du logement et le ministre chargé de l'économie.
