@@ -1,10 +1,8 @@
-Article R1211-21
+Article R1211-22
 ----
-Le médecin peut déroger à l'interdiction mentionnée au premier alinéa de
-l'article R. 1211-14 lorsqu'en dépit du risque de transmission d'un virus par le
-donneur les alternatives thérapeutiques à la greffe ou à l'utilisation à des
-fins thérapeutiques de produits du corps humain sont inappropriées et que le
-pronostic vital est engagé.
+Dans les situations d'urgence vitale et en l'absence d'alternatives
+thérapeutiques, le médecin peut également déroger à l'interdiction mentionnée au
+premier alinéa de l'article R. 1211-14.
 
 Un arrêté du ministre chargé de la santé précise les cas dans lesquels, malgré
 le risque de transmission d'un virus par le donneur, la greffe ou l'utilisation
@@ -16,5 +14,5 @@ La greffe ou l'utilisation à des fins thérapeutiques de produits du corps huma
 mentionnée au premier alinéa du présent article est effectuée dans le respect
 des protocoles édictés par arrêté du ministre chargé de la santé pris après avis
 de l'Agence de la biomédecine et de l'Agence française de sécurité sanitaire des
-produits de santé. Ces protocoles incluent les modalités de mise en œuvre de ces
-greffes et notamment des recommandations de suivi thérapeutique adapté.
+produits de santé. Ces recommandations incluent les modalités de mise en œuvre
+de ces greffes et notamment de suivi thérapeutique adapté.

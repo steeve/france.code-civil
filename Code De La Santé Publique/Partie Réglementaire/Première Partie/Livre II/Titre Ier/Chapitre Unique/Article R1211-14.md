@@ -1,24 +1,30 @@
 Article R1211-14
 ----
-Si aucune contre-indication n'est décelée, la sélection clinique réalisée en
-application de l'article R. 1211-13 est complétée pour tout prélèvement ou
-collecte d'éléments et produits du corps humain à des fins thérapeutiques, par
-des analyses de biologie médicale destinées à faire le diagnostic de maladies
-infectieuses transmissibles dont le résultat, lorsqu'il fait ressortir un risque
-de transmission, interdit la greffe ou l'utilisation à des fins thérapeutiques
-des produits du corps humain. La liste des maladies infectieuses ainsi que les
-conditions de réalisation des analyses de biologie médicale sont fixées par un
-arrêté du ministre chargé de la santé.
+La sélection clinique du donneur mentionnée à l'article R. 1211-13 est complétée
+pour tout prélèvement ou collecte d'éléments et produits du corps humain à des
+fins thérapeutiques par des analyses de biologie médicale destinées à faire le
+diagnostic de certaines maladies infectieuses transmissibles. En cas de
+diagnostic positif, la greffe ou l'utilisation à des fins thérapeutiques des
+produits du corps humain est interdite.
 
-Toutefois, dans les cas définis par ledit arrêté, le médecin peut dans l'intérêt
-du receveur déroger à cette interdiction en cas d'urgence vitale et en l'absence
-d'alternatives thérapeutiques. Cette dérogation ne peut être mise en oeuvre que
-si le risque prévisible encouru par le receveur en l'état des connaissances
-scientifiques n'est pas hors de proportion avec le bénéfice escompté.
+La liste des maladies infectieuses mentionnées à l'alinéa précédent est fixée
+par un arrêté du ministre chargé de la santé. Cet arrêté énonce également les
+cas dans lesquels le médecin peut, dans l'intérêt du receveur, procéder à la
+greffe ou à l'utilisation à des fins thérapeutiques des produits du corps humain
+en dépit de la présence de certains marqueurs infectieux révélés par les
+analyses de biologie médicale, si le risque prévisible encouru par le receveur
+en l'état des connaissances scientifiques n'est pas hors de proportion avec le
+bénéfice escompté.
 
-Avant de prendre la décision de greffer, le médecin informe le receveur
-potentiel des risques encourus et recueille son consentement. Cette information
-est communiquée à sa famille s'il n'est pas en état de la recevoir et, pour les
-mineurs et pour les majeurs faisant l'objet d'une mesure de protection légale,
-aux titulaires de l'autorité parentale ou au représentant légal, sous réserve
-des dispositions de l'article L. 1111-5.
+Le médecin peut procéder à la greffe d'organes lorsque le résultat de l'analyse
+mentionnée au 3° de l'article R. 1211-17 n'a pu être obtenu dans les délais
+compatibles avec la réalisation de la greffe.
+
+La délivrance de l'information au receveur est effectuée dans le respect de
+bonnes pratiques édictées dans les conditions fixées par le sixième alinéa de
+l'article L. 1111-2.
+
+Lorsque le don n'est pas anonyme, le médecin qui prend en charge le donneur
+l'informe que la présence de marqueurs infectieux dans les résultats des
+analyses de biologie médicale auxquelles il s'est soumis sera nécessairement
+connue du receveur.
