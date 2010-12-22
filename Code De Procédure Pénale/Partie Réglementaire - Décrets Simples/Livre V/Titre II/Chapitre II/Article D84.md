@@ -1,12 +1,12 @@
 Article D84
 ----
-Dans les maisons d'arrêt cellulaires, ou dans les quartiers cellulaires de ces
-établissements, il ne peut être dérogé à la règle de l'emprisonnement individuel
-qu'à titre temporaire, en raison de leur encombrement ou, pendant la journée, en
-raison des nécessités de l'organisation du travail.
+Le directeur interrégional des services pénitentiaires ordonne tous les
+transfèrements utiles à l'intérieur de la circonscription territoriale dont il
+assure la direction concernant les condamnés relevant de sa compétence
+d'affectation, les personnes détenues soumises à la contrainte judiciaire et les
+condamnés mis à sa disposition.
 
-Le chef de l'établissement peut cependant décider, sur avis médical motivé, de
-suspendre l'emprisonnement individuel d'un détenu, notamment pour des motifs
-d'ordre psychologique, à charge d'en rendre compte au directeur régional et,
-selon qu'il s'agit d'un prévenu ou d'un condamné, au magistrat saisi du dossier
-de l'information ou au juge de l'application des peines.
+Si les mesures qui lui paraissent nécessaires concernent d'autres personnes
+détenues, excèdent sa compétence ou soulèvent des difficultés particulières, il
+adresse dans les plus brefs délais un rapport au garde des sceaux, ministre de
+la justice.

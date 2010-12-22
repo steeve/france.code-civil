@@ -1,14 +1,7 @@
 Article D403
 ----
-Les permis de visite sont délivrés pour les prévenus par les autorités visées à
-l'article D. 64.
+Le permis délivré en application des articles R. 57-8-8 et R. 57-8-10 est soit
+permanent, soit valable pour un nombre limité de visites.
 
-Pour les condamnés, ils sont délivrés par le chef de l'établissement. A l'égard
-des condamnés hospitalisés dans les conditions prévues aux articles D. 391 et
-suivants, les permis de visite sont délivrés par le préfet de police à Paris,
-les préfets délégués pour la police auprès des préfets des départements des
-Bouches-du-Rhône, du Rhône, du Nord, de la Corse-du-Sud et de la Haute-Corse,
-les préfets et les sous-préfets dans les départements.
-
-Ces permis sont, soit permanents, soit valables seulement pour un nombre limité
-de visites.
+Il précise, le cas échéant, les modalités particulières prévues pour son
+application, notamment en ce qui concerne le lieu et l'heure de la visite.

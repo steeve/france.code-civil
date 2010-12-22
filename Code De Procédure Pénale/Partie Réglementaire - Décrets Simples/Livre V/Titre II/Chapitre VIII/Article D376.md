@@ -5,5 +5,5 @@ rapport annuel d'activité incluant la présentation des actions de prévention 
 d'éducation pour la santé.
 
 Ce rapport est transmis aux signataires des protocoles. Il est présenté devant
-l'instance de concertation constituée en application de l'article R. 711-16
+l'instance de concertation constituée en application de l'article R. 6112-23
 (10°) du code de la santé publique ainsi qu'à la commission de surveillance.

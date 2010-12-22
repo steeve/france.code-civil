@@ -1,8 +1,9 @@
 Article D358
 ----
-Les détenus prennent une douche à leur arrivée à l'établissement. Dans toute la
-mesure du possible, ils doivent pouvoir se doucher au moins trois fois par
-semaine ainsi qu'après les séances de sport et au retour du travail.
+A l'issue de l'accomplissement des formalités d'écrou, il est proposé une douche
+à chaque personne détenue. Dans toute la mesure du possible, elle doit pouvoir
+se doucher au moins trois fois par semaine ainsi qu'après les séances de sport,
+le travail et la formation professionnelle.
 
 Les conditions de l'utilisation des douches sont fixées par le règlement
 intérieur de l'établissement.

@@ -8,4 +8,8 @@ communication entre les uns et les autres.
 
 Les femmes détenues ne sont surveillées que par des personnes de leur sexe ; les
 agents masculins du personnel ont seulement accès aux locaux qu'elles occupent
-dans les conditions déterminées à l'article D222.
+dans les conditions déterminées à l'article D. 222.
+
+Les dispositions du présent article ne sont pas applicables aux activités mixtes
+organisées sur le fondement de l'article 28 de la loi n° 2009-1436 du 24
+novembre 2009.

@@ -1,9 +1,9 @@
 Article D382
 ----
-Les médecins intervenant dans les structures visées aux articles D. 368, D. 371
-et D. 372 délivrent au détenu, à sa demande, des certificats ou attestations
-relatifs à son état de santé et, sous réserve de son accord exprès, à sa famille
-ou à son conseil.
+Les médecins intervenant dans les structures visées aux articles D. 368 et D.
+372 délivrent au détenu, à sa demande, des certificats ou attestations relatifs
+à son état de santé et, sous réserve de son accord exprès, à sa famille ou à son
+conseil.
 
 Ils lui fournissent les attestations ou documents indispensables pour bénéficier
 des avantages qui lui sont reconnus par la sécurité sociale, et notamment de

@@ -6,9 +6,9 @@ l'intermédiaire d'un mandataire, celui-ci devant être étranger à
 l'administration pénitentiaire.
 
 Les procurations éventuelles sont envoyées dans les conditions fixées aux
-articles D. 414 et suivants et, lorsqu'elles émanent de prévenus, sont notamment
-soumises au contrôle du magistrat saisi du dossier de l'information dans les
-conditions que celui-ci détermine ; l'apposition d'un visa en vue de
+articles R. 57-8-16 et suivants et, lorsqu'elles émanent de prévenus, sont
+notamment soumises au contrôle du magistrat saisi du dossier de l'information
+dans les conditions que celui-ci détermine ; l'apposition d'un visa en vue de
 l'acheminement de ces documents ne saurait faire préjuger de la capacité du
 signataire.
 

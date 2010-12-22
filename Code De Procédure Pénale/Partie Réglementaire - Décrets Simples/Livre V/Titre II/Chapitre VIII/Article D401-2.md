@@ -15,7 +15,7 @@ infantile ;
 5° Un chef d'établissement pénitentiaire spécialement affecté à la détention des
 femmes ;
 
-6° Un travailleur social.
+6° Un personnel d'insertion et de probation.
 
 Les membres de la commission sont nommés par le directeur interrégional pour une
 période de deux ans renouvelable.

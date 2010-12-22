@@ -1,10 +1,10 @@
 Article D391
 ----
 L'hospitalisation des détenus pour des pathologies autres que des troubles
-mentaux est assurée conformément au 2° de l'article R. 711-19 du code de la
+mentaux est assurée conformément au 2° de l'article R. 6112-26 du code de la
 santé publique :
 
-a) Par l'établissement de santé mentionné à l'article R. 711-7 du code de la
+a) Par l'établissement de santé mentionné à l'article R. 6112-14 du code de la
 santé publique lorsque cette hospitalisation présente un caractère d'urgence ou
 de très courte durée ;
 

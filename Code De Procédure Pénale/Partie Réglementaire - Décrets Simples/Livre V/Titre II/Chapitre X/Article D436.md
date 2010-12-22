@@ -1,10 +1,13 @@
 Article D436
 ----
-A son arrivée dans l'établissement, chaque détenu est avisé qu'il lui est
-loisible de recevoir la visite du ministre d'un culte et d'assister aux offices
-religieux.
+L'enseignement primaire est assuré dans tous les établissements pénitentiaires.
 
-Le nom des détenus arrivants qui ont déclaré leur intention de pratiquer leur
-religion est communiqué à l'aumônier dès sa première visite à l'établissement.
-Il en est de même pour les détenus qui, au cours de la détention, auraient
-manifesté semblable intention.
+Les condamnés qui ne savent pas lire, écrire ou calculer couramment doivent
+bénéficier de cet engagement. Les autres détenus peuvent y être admis sur leur
+demande.
+
+Des cours spéciaux sont organisés pour les illettrés ainsi que pour ceux qui ne
+parlent ni n'écrivent la langue française.
+
+Le règlement intérieur détermine les horaires et les modalités dudit
+enseignement.

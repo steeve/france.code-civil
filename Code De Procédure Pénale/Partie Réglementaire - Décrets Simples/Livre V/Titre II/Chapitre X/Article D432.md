@@ -1,7 +1,4 @@
 Article D432
 ----
-Chaque détenu doit satisfaire aux exigences de sa vie religieuse, morale ou
-spirituelle.
-
-Il peut à ce titre participer aux offices ou réunions organisés par les
-personnes agréées à cet effet.
+Les personnes détenues, quelle que soit leur catégorie pénale, peuvent demander
+qu'il leur soit proposé un travail.

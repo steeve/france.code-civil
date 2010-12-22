@@ -1,12 +1,13 @@
 Article D427
 ----
-Au cas où un détenu vient à décéder, à être frappé d'une maladie mettant ses
-jours en danger, ou victime d'un accident grave, ou à être placé dans un
-établissement psychiatrique, sa proche famille doit en être immédiatement
-informée.
+Au cas où une personne détenue vient à décéder, à être frappée d'une maladie
+mettant ses jours en danger, ou victime d'un accident grave, ou à être placée
+dans un établissement psychiatrique, sa famille ou ses proches sont informés
+sans délai par le chef d'établissement des circonstances dans lesquelles est
+survenu le décès, la maladie, l'accident ou le placement.
 
-A cet effet, chaque détenu est invité, lors de son écrou, à indiquer la ou les
-personnes qui seraient à prévenir.
+A cet effet, chaque personne détenue est invitée, lors de son écrou, à indiquer
+le nom et les coordonnées de la ou des personnes qui seraient à prévenir.
 
-L'aumonier et le visiteur de prison qui suivent ce détenu sont également avisés,
-s'il y a lieu.
+Le conseil, l'aumonier et le visiteur de prison qui suivent cette personne
+détenue sont également avisés, s'il y a lieu.

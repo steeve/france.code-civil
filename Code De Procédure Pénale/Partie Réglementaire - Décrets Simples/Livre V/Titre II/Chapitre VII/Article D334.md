@@ -9,8 +9,7 @@ ses condamnations pécuniaires ;
 2° Les pièces justificatives du paiement des sommes versées pour l'indemnisation
 des parties civiles ;
 
-3° Un état des sommes prélevées au titre de la participation aux frais
-d'entretien ;
+3° (Supprimé)
 
 4° Un état des sommes épargnées au titre du pécule de libération ;
 

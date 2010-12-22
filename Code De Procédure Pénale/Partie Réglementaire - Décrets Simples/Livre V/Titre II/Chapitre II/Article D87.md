@@ -1,5 +1,5 @@
 Article D87
 ----
-Si la nature des travaux à exécuter l'exige, ou s'il n'a pas été possible de
-trouver des tâches susceptibles d'être effectuées individuellement en cellule
-les détenus peuvent travailler en commun.
+La personne détenue dont le comportement se révèle incompatible avec
+l'application du régime propre à l'établissement pour peines au sein duquel elle
+est placée peut faire l'objet d'une procédure de changement d'affectation.

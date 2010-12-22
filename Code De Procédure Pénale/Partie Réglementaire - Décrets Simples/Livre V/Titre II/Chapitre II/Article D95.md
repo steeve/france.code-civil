@@ -1,15 +1,6 @@
 Article D95
 ----
-Le régime des maisons centrales et des centres de détention comporte l'isolement
-de nuit. Il n'y est dérogé que sur indication médicale ou, à titre exceptionnel
-et provisoire, en raison de la distribution des locaux.
-
-Pendant la journée, les condamnés sont réunis pour le travail et les activités
-physiques et sportives. Ils peuvent l'être aussi pour les besoins de
-l'enseignement ou de la formation, de même que pour des activités culturelles ou
-de loisirs.
-
-Le contenu de l'emploi du temps, et notamment la part faite à ces diverses
-activités, doit permettre aux condamnés de conserver ou de développer leurs
-aptitudes intellectuelles, psychologiques et physiques pour préparer leur
-réinsertion ultérieure.
+La règle de l'encellulement individuel ne fait pas obstacle à ce que, pendant la
+journée, les personnes détenues soient réunies pour le travail, les activités
+physiques et sportives, l'enseignement, la formation professionnelle ou les
+activités religieuses, culturelles ou de loisirs.

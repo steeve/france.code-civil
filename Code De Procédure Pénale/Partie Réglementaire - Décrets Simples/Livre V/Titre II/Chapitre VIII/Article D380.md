@@ -1,7 +1,7 @@
 Article D380
 ----
-Le médecin responsable des structures visées aux articles D. 368 et D. 371
-veille à l'observation des règles d'hygiène collective et individuelle dans
+Le médecin responsable des structures visées à l'article D. 368 veille à
+l'observation des règles d'hygiène collective et individuelle dans
 l'établissement pénitentiaire.
 
 A ce titre, il est habilité à visiter l'ensemble des locaux de l'établissement

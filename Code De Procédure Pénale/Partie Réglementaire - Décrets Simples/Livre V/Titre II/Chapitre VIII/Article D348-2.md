@@ -7,7 +7,7 @@ comprend en outre :
 
 1. Le directeur général de la santé ou son représentant ;
 
-2. Le directeur des hôpitaux ou son représentant ;
+2. Le directeur général de l'offre de soins ou son représentant ;
 
 3. Le directeur de l'administration pénitentiaire ou son représentant ;
 
@@ -26,10 +26,10 @@ directeur général de la santé ;
 9. Un chef d'établissement pénitentiaire désigné par le directeur de
 l'administration pénitentiaire ;
 
-10. Un travailleur social désigné par le directeur de l'administration
-pénitentiaire ;
+10. Un membre du personnel d'un service pénitentiaire d'insertion et de
+probation désigné par le directeur de l'administration pénitentiaire ;
 
 11. Un médecin exerçant dans un établissement pénitentiaire désigné par le
 directeur des hôpitaux ;
 
-12. Un directeur d'hôpital désigné par le directeur des hôpitaux.
+12. Un directeur d'hôpital désigné par le directeur général de l'offre de soins.

@@ -1,8 +1,8 @@
 Article D464
 ----
-Pendant toute la durée de leur incarcération, les détenus peuvent être reçus par
-un travailleur social du service pénitentiaire d'insertion et de probation soit
-à la suite de leur demande, soit sur convocation.
+Pendant toute la durée de leur incarcération, les personnes détenues peuvent
+être reçues par un membre du service pénitentiaire d'insertion et de probation
+soit à la suite de leur demande, soit sur convocation.
 
-Le travailleur social apprécie l'opportunité de recevoir un détenu ou
-d'effectuer les démarches qu'il sollicite.
+Le personnel d'insertion et de probation apprécie l'opportunité de recevoir une
+personne détenue ou d'effectuer les démarches qu'elle sollicite.

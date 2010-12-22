@@ -1,9 +1,9 @@
 Article D435
 ----
-Les aumôniers fixent en accord avec le chef d'établissement les jours et heures
-des offices en respectant les calendriers religieux.
+Les détenus doivent acquérir ou développer les connaissances qui leur seront
+nécessaires après leur libération en vue d'une meilleure adaptation sociale.
 
-Les membres du personnel et les détenus ont seuls le droit d'assister aux
-offices. A la demande de l'aumônier, ceux-ci peuvent être célébrés ou des
-prêches peuvent être faits par d'autres ministres du culte sur autorisation
-délivrée par le chef de l'établissement.
+Toutes facilités compatibles avec les exigences de la discipline et de la
+sécurité doivent être données à cet effet aux détenus aptes à profiter d'un
+enseignement scolaire et professionnel et, en particulier, aux plus jeunes et
+aux moins instruits.

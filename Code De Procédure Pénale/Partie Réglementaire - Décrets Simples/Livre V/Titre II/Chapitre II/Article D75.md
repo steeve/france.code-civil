@@ -1,7 +1,7 @@
 Article D75
 ----
 La procédure d'orientation est obligatoirement mise en oeuvre pour les condamnés
-dont le temps d'incarcération restant à subir est supérieur à un an. Pour les
+dont le temps d'incarcération restant à subir est supérieur à deux ans. Pour les
 condamnés mineurs, elle est obligatoire si le temps d'incarcération à subir est
 supérieur à trois mois.
 

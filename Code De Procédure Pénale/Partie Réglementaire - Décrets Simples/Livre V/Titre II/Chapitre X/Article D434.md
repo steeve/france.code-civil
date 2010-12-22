@@ -1,8 +1,5 @@
 Article D434
 ----
-Les aumôniers ont pour mission de célébrer les offices religieux, d'administrer
-les sacrements et d'apporter aux détenus une assistance pastorale.
-
-Ils ne doivent exercer auprès des détenus qu'un rôle spirituel et moral en se
-conformant aux dispositions du présent titre et au règlement intérieur de
-l'établissement.
+La rémunération du travail est répartie conformément aux dispositions des
+articles D. 320 à D. 320-3, après qu'ont été précomptées les cotisations à
+caractère social mises à la charge des personnes détenues.

@@ -1,9 +1,10 @@
 Article D433
 ----
-Le service religieux est assuré, pour les différents cultes, par des aumôniers
-désignés par le directeur régional qui consulte à cet effet l'autorité
-religieuse compétente, et après avis du préfet.
+Aucun genre de travail ne peut être adopté à titre définitif s'il n'a été
+préalablement autorisé par le directeur interrégional des services
+pénitentiaires.
 
-Ces aumôniers consacrent tout ou partie de leur temps à cette fonction selon le
-nombre des détenus de leur profession qui se trouvent dans l'établissement
-auprès duquel ils sont nommés.
+L'organisation, les méthodes et les rémunérations du travail doivent se
+rapprocher autant que possible de celles des activités professionnelles
+extérieures afin notamment de préparer les détenus aux conditions normales du
+travail libre.

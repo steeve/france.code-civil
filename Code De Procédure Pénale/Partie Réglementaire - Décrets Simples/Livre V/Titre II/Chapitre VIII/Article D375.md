@@ -2,12 +2,10 @@ Article D375
 ----
 Le dossier médical du détenu est conservé sous la responsabilité de
 l'établissement de santé visé au deuxième alinéa de l'article D. 368 et à
-l'article D. 372 ou du service médical pour les établissements pénitentiaires
-dont le fonctionnement est régi par une convention passée en application de la
-loi n° 87-432 du 22 juin 1987 relative au service public pénitentiaire.
+l'article D. 372.
 
 Quand le dossier est établi par l'établissement de santé, il est soumis aux
-dispositions des articles R. 710-2-1 et suivants du code de la santé publique.
+dispositions des articles R. 1112-2 et suivants du code de la santé publique.
 
 Seul le personnel soignant peut avoir accès au dossier médical.
 

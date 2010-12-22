@@ -1,9 +1,9 @@
 Article D575
 ----
 Sous l'autorité du directeur du service pénitentiaire d'insertion et de
-probation, les travailleurs sociaux s'assurent que la personne confiée au
-service se soumet aux mesures de contrôle et respecte les obligations qui lui
-sont imposées.
+probation, les personnels du service pénitentiaire d'insertion et de probation
+s'assurent que la personne confiée au service se soumet aux mesures de contrôle
+et respecte les obligations qui lui sont imposées.
 
 Ils mettent en oeuvre les mesures propres à favoriser sa réinsertion sociale.
 Ils fournissent au magistrat mandant, à sa demande ou de leur propre initiative,

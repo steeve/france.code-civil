@@ -8,4 +8,4 @@ moins d'ordre exprès donné, dans des circonstances exceptionnelles et pour une
 intervention strictement définie, par le chef de l'établissement.
 
 En toute hypothèse, il ne peut être fait usage des armes que dans les cas
-déterminés à l'article D. 283-6.
+déterminés aux articles R. 57-7-83 et R. 57-7-84.
