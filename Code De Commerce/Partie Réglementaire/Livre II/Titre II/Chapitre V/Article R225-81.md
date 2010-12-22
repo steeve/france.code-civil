@@ -7,8 +7,10 @@ voie électronique dans les conditions définies à l'article R. 225-61 :
 1° L'ordre du jour de l'assemblée ;
 
 2° Le texte des projets de résolution présentés par le conseil d'administration
-ou le directoire, selon le cas, et par des actionnaires dans les conditions
-prévues aux articles R. 225-71 à R. 225-74 ;
+ou le directoire, selon le cas, ainsi que le texte des projets de résolution
+présentés par des actionnaires et les points ajoutés le cas échéant à l'ordre du
+jour à leur demande dans les conditions prévues aux articles R. 225-71 à R.
+225-74 ;
 
 3° Un exposé sommaire de la situation de la société pendant l'exercice écoulé,
 accompagné d'un tableau, dont un modèle figure en annexe 2-2 au présent livre,
@@ -24,13 +26,13 @@ des dispositions du troisième alinéa de l'article R. 225-88 ;
 5° Un formulaire de vote par correspondance comportant le rappel des
 dispositions de l'article L. 225-107 ;
 
-6° Le rappel de manière très apparente des dispositions de l'article L. 225-106
-;
+6° Le rappel de manière très apparente des dispositions des articles L. 225-106
+à L. 225-106-4 ;
 
 7° L'indication que l'actionnaire, à défaut d'assister personnellement à
 l'assemblée, peut choisir entre l'une des trois formules suivantes :
 
-a) Donner une procuration à un autre actionnaire ou à son conjoint ;
+a) Donner une procuration dans les conditions de l'article L. 225-106 ;
 
 b) Voter par correspondance ;
 

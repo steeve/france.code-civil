@@ -1,11 +1,12 @@
 Article R225-73
 ----
-I.-Lorsque les actions de la société sont admises aux négociations sur un marché
-réglementé ou ne revêtent pas toutes la forme nominative, la convocation
+I. - Lorsque les actions de la société sont admises aux négociations sur un
+marché réglementé ou ne revêtent pas toutes la forme nominative, la convocation
 mentionnée à l'article R. 225-66 est précédée d'un avis publié au Bulletin des
 annonces légales obligatoires, trente-cinq jours au moins avant la tenue de
 l'assemblée générale. Ce délai est ramené à quinze jours lorsque l'assemblée
 générale est convoquée en application des dispositions de l'article L. 233-32.
+
 L'avis mentionné à l'alinéa précédent comporte, outre les mentions requises au
 premier alinéa de l'article R. 225-66, les informations suivantes :
 
@@ -16,10 +17,10 @@ vote par procuration, par correspondance ou par voie électronique ;
 2° Une description claire et précise des modalités d'exercice des facultés
 définies au deuxième alinéa de l'article L. 225-105 et au troisième alinéa de
 l'article L. 225-108, en particulier l'adresse postale et, le cas échéant,
-l'adresse électronique où peuvent être adressés les projets de résolutions et
-les questions écrites, le délai imparti pour leur transmission, la liste des
-pièces justificatives devant être adressées conformément aux dispositions de la
-présente section ;
+l'adresse électronique où peuvent être adressés les points ou projets de
+résolutions et les questions écrites, le délai imparti pour leur transmission,
+la liste des pièces justificatives devant être adressées conformément aux
+dispositions de la présente section ;
 
 3° Sauf dans les cas où la société adresse à tous ses actionnaires un formulaire
 de vote par procuration ou par correspondance ou le document unique prévu par le
@@ -42,7 +43,9 @@ conseil d'administration ou le directoire, selon le cas ;
 a) Des documents destinés à être présentés à l'assemblée, conformément notamment
 aux articles L. 225-115 et R. 225-83 ;
 
-b) Des projets de résolution présentés, le cas échéant, par les actionnaires ;
+b) Des projets de résolution présentés, le cas échéant, par les actionnaires,
+ainsi que de la liste des points ajoutés, le cas échéant, à l'ordre du jour à
+leur demande ;
 
 Lorsque la société a émis des actions à dividende prioritaire sans droit de vote
 ou des valeurs mobilières donnant accès au capital, les avis publiés mentionnent
@@ -51,15 +54,13 @@ l'approbation, selon le cas, de l'assemblée spéciale des titulaires d'actions 
 dividende prioritaire sans droit de vote ou des assemblées des masses prévues à
 l'article L. 228-103.
 
-II.-Les demandes d'inscription de projets de résolution à l'ordre du jour sont
-envoyées à compter de la publication de l'avis prévu au I et jusqu'à vingt-cinq
-jours avant l'assemblée générale. Toutefois, ces demandes sont envoyées :
+II. - Les demandes d'inscription de points ou de projets de résolution à l'ordre
+du jour doivent parvenir à la société au plus tard le vingt-cinquième jour qui
+précède la date de l'assemblée, sans pouvoir être adressées plus de vingt jours
+après la date de l'avis mentionné au I.
 
-1° Dans un délai de vingt jours à compter de la publication de l'avis, lorsque
-celui-ci est publié plus de quarante-cinq jours avant l'assemblée générale ;
-
-2° Dans un délai de cinq jours à compter de la publication de l'avis, lorsque
-l'assemblée est convoquée en application des dispositions de l'article L.
-233-32.
+Lorsque l'assemblée est convoquée en application des dispositions de l'article
+L. 233-32, ces demandes doivent parvenir à la société au plus tard le dixième
+jour avant l'assemblée.
 
 L'avis mentionne le délai imparti pour l'envoi des demandes.

@@ -8,5 +8,5 @@ commerce pour les sociétés dont les titres financiers ne sont pas admis aux
 négociations sur un marché réglementé ou dont toutes les actions revêtent la
 forme nominative.
 
-L'article R. 225-73 du code de commerce n'est pas applicable aux sociétés
-d'investissement à capital variable.
+Les articles R. 225-73 et R. 225-73-1 du code de commerce ne sont pas
+applicables aux sociétés d'investissement à capital variable.

@@ -13,7 +13,8 @@ des fonctions de gestion, de direction, d'administration ou de surveillance ;
 ou le directoire, selon le cas ;
 
 3° Le cas échéant, le texte et l'exposé des motifs des projets de résolution
-présentés par des actionnaires ;
+présentés par des actionnaires ainsi que la liste des points ajoutés à l'ordre
+du jour à leur demande ;
 
 4° Le rapport du conseil d'administration ou du directoire, selon le cas, qui
 sera présenté à l'assemblée ainsi que, le cas échéant, les observations du
