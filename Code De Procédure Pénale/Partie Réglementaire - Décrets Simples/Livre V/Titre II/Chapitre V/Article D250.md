@@ -1,11 +1,21 @@
 Article D250
 ----
-Les sanctions disciplinaires sont, sous réserve des dispositions de l'article D.
-250-3, prononcées en commission de discipline par le chef d'établissement ou
-l'un de ses adjoints ou membres du personnel de direction ayant reçu à cet effet
-une délégation écrite.
+L'habilitation délivrée par le président du tribunal de grande instance est
+retirée à la demande de la personne habilitée ou lorsque celle-ci ne remplit
+plus les conditions posées à l'article R. 57-7-10.
 
-La commission de discipline comprend, outre le chef d'établissement ou son
-délégué, président, deux membres du personnel de surveillance dont un
-appartenant au grade de surveillant. Les membres du personnel sont désignés par
-le chef d'établissement. Ils ont voix consultative.
+Le président du tribunal de grande instance peut également, d'office ou à la
+demande du chef d'établissement ou du procureur de la République, et après que
+la personne concernée a été mise en mesure de présenter ses observations écrites
+et, sur sa demande, des observations orales, procéder au retrait de
+l'habilitation :
+
+1° Lorsque le titulaire de l'habilitation s'abstient de déférer à plusieurs
+convocations successives sans motif légitime ;
+
+2° Lorsque le titulaire de l'habilitation adopte un comportement ou des propos
+incompatibles avec les obligations prévues à l'article R. 57-7-9.
+
+Le retrait de l'habilitation entraîne la radiation de la personne habilitée, par
+le président du tribunal de grande instance, de la liste prévue au troisième
+alinéa de l'article R. 57-7-8.
