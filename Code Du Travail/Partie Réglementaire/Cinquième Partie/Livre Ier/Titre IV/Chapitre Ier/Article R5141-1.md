@@ -21,5 +21,6 @@ d'indemnisation au titre de l'allocation d'assurance, le bénéfice de
 l'allocation de solidarité spécifique prévue à l'article L. 5423-1 est maintenu
 jusqu'au terme du bénéfice de ces exonérations ;
 
-4° Le financement partiel par l'Etat des actions de conseil, de formation ou
-d'accompagnement au bénéfice des créateurs ou repreneurs d'entreprises.
+4° Le financement partiel par l'Etat des actions de conseil et d'accompagnement
+au bénéfice des créateurs ou repreneurs d'entreprises en application de
+l'article L. 5141-5 du code du travail.
