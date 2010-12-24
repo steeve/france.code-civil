@@ -11,4 +11,6 @@ sont remplies, pendant la minorité de l'enfant et dans les deux ans suivant sa
 majorité.
 
 S'il a plus de treize ans, l'adopté doit consentir personnellement à son
-adoption plénière.
+adoption plénière. Ce consentement est donné selon les formes prévues au premier
+alinéa de l'article 348-3. Il peut être rétracté à tout moment jusqu'au prononcé
+de l'adoption.
