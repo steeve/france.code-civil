@@ -9,8 +9,8 @@ pas constitué avoué dans un délai d'un mois à compter de l'envoi de la lettr
 notification, le greffier en avise l'avoué de l'appelant afin que celui-ci
 procède par voie de signification de la déclaration d'appel.
 
-A peine de caducité de l'appel, la signification doit être effectuée dans le
-mois de l'avis adressé par le greffe.
+A peine de caducité de la déclaration d'appel, la signification doit être
+effectuée dans le mois de l'avis adressé par le greffe.
 
 A peine de nullité, l'acte de signification indique à l'intimé que, faute pour
 lui de constituer avoué dans un délai de quinze jours à compter de celle-ci, il

@@ -9,4 +9,5 @@ l'instance, lorsqu'elles constatent son extinction, lorsqu'elles ont trait à de
 mesures provisoires en matière de divorce ou de séparation de corps,
 lorsqu'elles statuent sur une exception de procédure, un incident mettant fin à
 l'instance, la fin de non-recevoir tirée de l'irrecevabilité de l'appel ou la
-caducité de celui-ci.
+caducité de celui-ci ou lorsqu'elles prononcent l'irrecevabilité des conclusions
+en application des articles 909 et 910.
