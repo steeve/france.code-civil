@@ -1,80 +1,40 @@
 Article 302 bis ZC
 ----
-I. Il est institué une contribution annuelle sur les logements à usage locatif
-qui entrent dans le champ d'application du supplément de loyer prévu à l'article
-L. 441-3 du code de la construction et de l'habitation.
+I.-Il est institué une taxe dénommée : " contribution de solidarité territoriale
+", exigible le 1er janvier de chaque année.
 
-Cette contribution est due lorsque, au titre de l'avant-dernière année précédant
-l'année d'imposition, les revenus nets imposables de l'ensemble des personnes
-vivant au foyer au 1er janvier de l'année d'imposition excèdent de 40 p. 100 les
-plafonds de ressources pour l'attribution des logements sociaux prévus à
-l'article L. 441-1 du code de la construction et de l'habitation.
+La taxe est due par les entreprises de transport ferroviaire autorisées au 1er
+janvier de l'année en cours à exploiter des services de transport mentionnées
+aux articles L. 2121-12 et L. 2141-1 du code des transports.
 
-II. Le tarif de la contribution est fixé par logement à :
+Ne sont pas soumis à la taxe les services de transport ferroviaire conventionnés
+par des autorités organisatrices de transports en France au titre des articles
+L. 1241-1 ou L. 2121-3 du code des transports, ainsi que ceux conventionnés par
+l'Etat.
 
-2 500 F pour les logements situés à Paris et dans les communes limitrophes ;
+II.-La taxe est assise sur le montant total, hors taxe sur la valeur ajoutée et
+déduction faite des contributions versées par l'Etat en compensation des tarifs
+sociaux et conventionnés, du chiffre d'affaires encaissé au cours du dernier
+exercice clos à la date d'exigibilité de la taxe afférent aux opérations situées
+dans le champ d'application de la taxe sur la valeur ajoutée réalisé au titre
+des prestations de transport ferroviaire de voyageurs, et des prestations
+commerciales qui leur sont directement liées, effectuées entre deux gares du
+réseau ferré national.
 
-2 100 F pour les logements situés dans les autres communes de l'agglomération de
-Paris, les communes des zones d'urbanisation et des villes nouvelles de la
-région d'Ile-de-France ;
+III.-Le taux de la taxe, compris entre 2 % et 5 %, est fixé par arrêté conjoint
+des ministres chargés respectivement des transports, de l'économie et du budget.
 
-1 700 F pour les logements situés dans le reste de la région d'Ile-de-France,
-les agglomérations et communautés urbaines de plus de 100 000 habitants, les
-zones d'urbanisation et les villes nouvelles hors de la région d'Ile-de-France ;
+IV.-Lorsqu'une entreprise non établie en France est redevable de la taxe
+mentionnée au I, elle est tenue de désigner un représentant fiscal établi en
+France qui s'engage à remplir les formalités incombant à cette entreprise et à
+acquitter la taxe à sa place ainsi que, le cas échéant, les pénalités qui s'y
+rapportent.
 
-400 F pour les logements situés dans les départements d'outre-mer et sur le
-reste du territoire national.
+V.-La taxe est déclarée et liquidée dans les trois mois de son exigibilité sur
+une déclaration dont le modèle est fixé par l'administration. Elle est acquittée
+lors du dépôt de cette déclaration.
 
-Le tarif de la contribution est majoré de 50 p. 100 pour les logements occupés
-au 1er janvier de l'année d'imposition lorsque les revenus nets imposables au
-titre de l'avant-dernière année précédant l'année d'imposition de l'ensemble des
-personnes vivant au foyer excèdent de plus de 60 p. 100 les plafonds visés au I.
-Lorsque ces revenus excèdent de plus de 80 p. 100 les plafonds visés au I, le
-tarif de la contribution est majoré de 100 p. 100.
-
-III. Les bailleurs sont tenus de demander chaque année avant le 28 février, aux
-locataires de logements mentionnés au I, les avis d'imposition à l'impôt sur le
-revenu de l'ensemble des personnes vivant au foyer et les renseignements
-permettant de déterminer si les ressources du locataire cumulées avec celles des
-autres personnes vivant au foyer excèdent le plafond de ressources d'au moins 40
-p. 100 et, le cas échéant, de calculer l'importance du dépassement du plafond de
-ressources. Le locataire est tenu de répondre à leur demande dans le délai d'un
-mois.
-
-((Les bailleurs ne sont tenus de présenter cette demande ni aux locataires
-bénéficiant de l'aide personnalisée au logement mentionnée à l'article L. 351-1
-du code de la construction et de l'habitation, ni aux locataires bénéficiant de
-l'allocation de logement prévue à l'article L. 542-1 du code de la sécurité
-sociale ou de l'allocation de logement prévue à l'article L. 831-1 du même
-code.)) (M)
-
-Faute d'avoir demandé dans les délais les renseignements visés au premier
-alinéa, les bailleurs acquittent la contribution au tarif majoré de 100 p. 100.
-
-Lorsque la demande de renseignements a été adressée dans les délais au locataire
-mais que ce dernier n'y a pas répondu, le bailleur acquitte la contribution au
-tarif normal à titre de provision. Lorsque le supplément de loyer de solidarité
-est définitivement liquidé dans les conditions fixées à l'article L. 441-9 du
-code de la construction et de l'habitation, le bailleur procède à la
-régularisation de la contribution par la présentation d'une demande de
-remboursement au cours du mois suivant chaque trimestre civil.
-
-IV. La contribution est acquittée par les organismes d'habitations à loyer
-modéré et les sociétés d'économie mixte ou toute autre personne morale qui
-donnent en location ces logements. Les redevables sont tenus de déposer, au plus
-tard le 1er août de chaque année, une déclaration auprès de la recette des
-impôts du lieu du siège de ces organismes.
-
-La contribution est recouvrée et contrôlée selon les mêmes procédures et sous
-les mêmes sanctions, garanties et privilèges que la taxe sur la valeur ajoutée.
-Dans le cadre de la procédure de redressement, l'administration est autorisée à
-faire connaître à l'organisme redevable les informations qu'elle détient
-concernant ses locataires et les autres personnes vivant au foyer, qui sont
-utiles à la motivation du redressement. Les réclamations sont présentées,
-instruites et jugées selon les règles applicables à la taxe sur la valeur
-ajoutée.
-
-V. Un décret fixe les conditions d'application du présent article, notamment les
-obligations déclaratives des organismes bailleurs.
-
-(M) Modification.
+VI.-La taxe est recouvrée et contrôlée selon les mêmes procédures et sous les
+mêmes sanctions, garanties et privilèges que la taxe sur la valeur ajoutée. Les
+réclamations sont présentées, instruites et jugées selon les règles applicables
+à cette même taxe.

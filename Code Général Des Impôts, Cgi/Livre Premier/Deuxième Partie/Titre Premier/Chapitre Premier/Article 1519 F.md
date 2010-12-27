@@ -1,6 +1,6 @@
 Article 1519 F
 ----
-I.-L'imposition forfaitaire mentionnée à l'article 1635-0 quinquies s'applique
+I. - L'imposition forfaitaire mentionnée à l'article 1635-0 quinquies s'applique
 aux centrales de production d'énergie électrique d'origine photovoltaïque ou
 hydraulique, à l'exception de celles mentionnées à l'article 1519 D, dont la
 puissance électrique installée au sens de la loi n° 2000-108 du 10 février 2000
@@ -12,14 +12,18 @@ exploitées pour son propre usage par un consommateur final d'électricité ou
 exploitées sur le site de consommation par un tiers auquel le consommateur final
 rachète l'électricité produite pour son propre usage.
 
-II.-L'imposition forfaitaire est due chaque année par l'exploitant de la
+II. - L'imposition forfaitaire est due chaque année par l'exploitant de la
 centrale de production d'énergie électrique d'origine photovoltaïque ou
 hydraulique au 1er janvier de l'année d'imposition.
 
-Le montant de l'imposition forfaitaire est fixé à 2, 913 euros par kilowatt de
-puissance électrique installée au 1er janvier de l'année d'imposition.
+Le montant de l'imposition forfaitaire est fixé à 2, 913 € par kilowatt de
+puissance électrique installée au 1er janvier de l'année d'imposition pour les
+centrales de production d'énergie électrique d'origine hydraulique et à 7 € par
+kilowatt de puissance électrique installée au 1er janvier de l'année
+d'imposition pour les centrales de production d'énergie électrique d'origine
+photovoltaïque.
 
-III.-Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré
+III. - Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré
 suivant le 1er mai de l'année d'imposition, le nombre de centrales de production
 d'énergie électrique d'origine photovoltaïque ou hydraulique par commune et,
 pour chacune d'elles, la puissance électrique installée.

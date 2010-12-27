@@ -98,4 +98,8 @@ z. Des crédits d'impôt dégagés par chaque société du groupe en application
 l'article 220 quaterdecies ; les dispositions de l'article 220 Z bis
 s'appliquent à la somme des crédits d'impôt.
 
+z bis) Des crédits d'impôt dégagés par chaque société du groupe en application
+de l'article 244 quater V ; les dispositions de l'article 220 Z ter s'appliquent
+à la somme de ces crédits d'impôt.
+
 2. (abrogé).

@@ -1,8 +1,10 @@
 Article 1730
 ----
-1. Tout retard dans le paiement de tout ou partie des impositions qui doivent
-être versées aux comptables du Trésor donne lieu à l'application d'une
-majoration de 10 %.
+1. Donne lieu à l'application d'une majoration de 10 % tout retard dans le
+paiement des sommes dues au titre de l'impôt sur le revenu, des contributions
+sociales recouvrées comme en matière d'impôt sur le revenu, de la taxe
+d'habitation, des taxes foncières sur les propriétés bâties et non bâties et des
+impositions recouvrées comme les impositions précitées.
 
 2. La majoration prévue au 1 s'applique :
 
@@ -21,15 +23,12 @@ application du b.
 acomptes provisionnels prévus à l'article 1664, elle peut être reportée d'un
 mois par arrêté du ministre chargé du budget.
 
-b. Pour la cotisation foncière des entreprises mise en recouvrement durant la
-première quinzaine de novembre, la majoration prévue au 1 s'applique aux sommes
-non versées le 30 décembre au plus tard.
+b. (Abrogé)
 
 4. La majoration prévue au 1 s'applique au contribuable qui s'est dispensé du
-second acompte dans les conditions prévues au 4 de l'article 1664 ou du paiement
-de la totalité de l'acompte dans les conditions prévues au quatrième alinéa de
-l'article 1679 quinquies lorsqu'à la suite de la mise en recouvrement du rôle
-les versements effectués sont inexacts de plus du dixième.
+second acompte dans les conditions prévues au 4 de l'article 1664 lorsqu'à la
+suite de la mise en recouvrement du rôle les versements effectués sont inexacts
+de plus du dixième.
 
 Toutefois, aucune majoration n'est appliquée lorsque la différence constatée
 résulte d'une loi intervenue postérieurement à la date du dépôt de la

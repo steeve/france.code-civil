@@ -13,12 +13,11 @@ apprécié en prenant en compte la population telle que définie à l'article L.
 2334-2, à la double condition que cette dernière excède ce seuil d'au moins 20 %
 et qu'elle excède la population totale de plus de 50 %. Le périmètre d'une
 communauté d'agglomération ne peut comprendre une commune qui est déjà membre
-d'un autre établissement public de coopération intercommunale percevant la taxe
-professionnelle selon les dispositions de l'article 1609 nonies C du code
-général des impôts au 1er janvier 1999, si le conseil municipal de la commune
-intéressée a émis une délibération défavorable à l'arrêté dressant la liste des
-communes ou si plus du quart des conseils municipaux des communes membres de
-l'établissement existant s'opposent au retrait de ladite commune. Ces communes
-s'associent au sein d'un espace de solidarité, en vue d'élaborer et conduire
-ensemble un projet commun de développement urbain et d'aménagement de leur
-territoire.
+d'un autre établissement public de coopération intercommunale soumis au régime
+prévu par les dispositions de l'article 1609 nonies C du code général des impôts
+au 1er janvier 1999, si le conseil municipal de la commune intéressée a émis une
+délibération défavorable à l'arrêté dressant la liste des communes ou si plus du
+quart des conseils municipaux des communes membres de l'établissement existant
+s'opposent au retrait de ladite commune. Ces communes s'associent au sein d'un
+espace de solidarité, en vue d'élaborer et conduire ensemble un projet commun de
+développement urbain et d'aménagement de leur territoire.

@@ -48,8 +48,9 @@ généraux établis au titre de cette même année.
 Pour l'application du premier alinéa aux communes et établissements publics de
 coopération intercommunale dont le territoire se situe au moins en partie dans
 la région Ile-de-France, le taux régional s'entend pour cette région du taux de
-l'année 2009 de la taxe additionnelle à la taxe professionnelle prévue à
-l'article 1599 quinquies dans sa rédaction en vigueur au 1er janvier 2009.
+l'année 2010 de la taxe additionnelle à la taxe foncière sur les propriétés non
+bâties prévue à l'article 1599 quinquies dans sa rédaction en vigueur au 1er
+janvier 2011.
 
 V. ― Le contrôle, le recouvrement, le contentieux, les garanties et sanctions
 sont régis comme en matière de taxe foncière sur les propriétés non bâties.

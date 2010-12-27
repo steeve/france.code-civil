@@ -15,8 +15,8 @@ prises dans les conditions prévues au premier alinéa.
 
 II.-1. Les délibérations des communes et de leurs établissements publics de
 coopération intercommunale instituant la taxe d'enlèvement des ordures ménagères
-conformément à l'article 1520, au VII de l'article 1379-0 bis et à l'article
-1609 quater et les décisions visées au III de l'article 1521 et à l'article 1522
+conformément à l'article 1520, au VI de l'article 1379-0 bis et à l'article 1609
+quater et les décisions visées au III de l'article 1521 et à l'article 1522
 doivent être prises avant le 15 octobre d'une année pour être applicables à
 compter de l'année suivante. Elles sont soumises à la notification prévue à
 l'article 1639 A au plus tard quinze jours après la date limite prévue pour leur
@@ -25,10 +25,10 @@ adoption.
 Toutefois, les établissements publics de coopération intercommunale à fiscalité
 propre ne résultant pas d'une substitution ou d'une transformation de groupement
 préexistant peuvent prendre les délibérations afférentes à la taxe d'enlèvement
-des ordures ménagères conformément au VII de l'article 1379-0 bis ainsi qu'au
-III de l'article 1521 et à l'article 1522 jusqu'au 15 janvier de l'année qui
-suit celle de leur création.A défaut, les délibérations prises par les communes
-et par les établissements publics de coopération intercommunale dissous restent
+des ordures ménagères conformément au VI de l'article 1379-0 bis ainsi qu'au III
+de l'article 1521 et à l'article 1522 jusqu'au 15 janvier de l'année qui suit
+celle de leur création. A défaut, les délibérations prises par les communes et
+par les établissements publics de coopération intercommunale dissous restent
 applicables l'année qui suit celle de la création ; dans ce cas, le nouvel
 établissement public de coopération intercommunale perçoit la taxe d'enlèvement
 des ordures ménagères aux lieu et place des établissements publics de
@@ -41,7 +41,7 @@ territoriales par un arrêté préfectoral pris postérieurement au 15 octobre d
 année peuvent prendre, jusqu'au 15 janvier de l'année qui suit celle du
 transfert, la délibération afférente à l'institution de la taxe d'enlèvement des
 ordures ménagères à l'exclusion des délibérations prévues aux articles 1521 et
-1522 et au 2 du III de l'article 1636 B sexies.A défaut, les délibérations
+1522 et au 2 du III de l'article 1636 B sexies. A défaut, les délibérations
 prises en matière de taxe d'enlèvement des ordures ménagères par les communes
 restent applicables l'année qui suit celle du transfert.
 
@@ -54,14 +54,14 @@ intercommunale rattaché, de l'article 1636 B undecies ; toutefois, ces
 délibérations ne peuvent pas délimiter des zones infracommunales ou
 supracommunales différentes de celles définies sur le territoire de la commune
 ou de l'établissement public de coopération intercommunale antérieurement au
-rattachement.A défaut de délibération, les zones définies sur le territoire de
+rattachement. A défaut de délibération, les zones définies sur le territoire de
 la commune ou de l'établissement public de coopération intercommunale avant le
 rattachement sont supprimées.
 
 2. Au 15 octobre 2005, les communes ou les établissements publics de coopération
 intercommunale devront s'être mis en conformité avec la loi pour pouvoir
 continuer à percevoir la taxe d'enlèvement des ordures ménagères au 1er janvier
-2006.A défaut, ces collectivités perdront le bénéfice de la perception de cette
+2006. A défaut, ces collectivités perdront le bénéfice de la perception de cette
 taxe.
 
 III.-L'établissement public de coopération intercommunale issu de la fusion en

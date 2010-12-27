@@ -36,20 +36,18 @@ et de leur versement ;
 2° Les intérêts des plans d'épargne-logement, exonérés d'impôt sur le revenu en
 application du 9° bis de l'article 157 du code général des impôts :
 
-a) Au 1er janvier 2006, pour les plans de plus de dix ans à cette date et pour
-ceux ouverts avant le 1er avril 1992 dont le terme est échu avant le 1er janvier
-2006 ;
+a) A la date du dixième anniversaire du plan pour les plans ouverts du 1er avril
+1992 au 28 février 2011 ou, pour ceux ouverts avant le 1er avril 1992, à leur
+date d'échéance ;
 
-b) A la date du dixième anniversaire du plan ou, pour les plans ouverts avant le
-1er avril 1992, à leur date d'échéance ;
+b) Lors du dénouement du plan, pour les plans ouverts du 1er avril 1992 au 28
+février 2011, si ce dénouement intervient antérieurement au dixième anniversaire
+ou antérieurement à leur date d'échéance pour ceux ouverts avant le 1er avril
+1992 ;
 
-c) Lors du dénouement du plan, s'il intervient antérieurement au dixième
-anniversaire ou antérieurement à leur date d'échéance pour les plans ouverts
-avant le 1er avril 1992 ;
-
-d) Lors de leur inscription en compte, pour les intérêts courus à compter du 1er
-janvier 2006 sur des plans de plus de dix ans ou sur des plans ouverts avant le
-1er avril 1992 dont le terme est échu ;
+c) Lors de leur inscription en compte, pour les intérêts courus sur des plans de
+plus de dix ans ouverts avant le 1er mars 2011 et sur les plans ouverts à
+compter de cette même date ;
 
 2° bis Les primes d'épargne des plans d'épargne-logement lors de leur versement
 ;
@@ -57,14 +55,24 @@ janvier 2006 sur des plans de plus de dix ans ou sur des plans ouverts avant le
 3° Les produits attachés aux bons ou contrats de capitalisation, ainsi qu'aux
 placements de même nature mentionnés à l'article 125-0 A du code général des
 impôts, quelle que soit leur date de souscription, à l'exception des produits
-attachés aux contrats mentionnés à l'article 199 septies du même code :
+attachés aux contrats mentionnés à l'article 199 septies du même code : a) Lors
+de leur inscription au bon ou contrat pour : ― les bons ou contrats dont les
+droits sont exprimés en euros ou en devises ;
 
-a) Lors de leur inscription au contrat ou, pour les bons ou contrats en unités
-de compte mentionnés au dernier alinéa de l'article L. 131-1 du code des
-assurances, lors de leur dénouement ;
+― la part des produits attachés aux droits exprimés en euros ou en devises dans
+les bons ou contrats en unités de compte mentionnées au second alinéa de
+l'article L. 131-1 du code des assurances ;
 
-b) Lors du décès de l'assuré, à l'exception de ceux ayant déjà supporté la
-contribution au titre du a ;
+b) Lors du dénouement des bons ou contrats ou lors du décès de
+l'assuré.L'assiette de la contribution est calculée déduction faite des produits
+ayant déjà supporté la contribution au titre du a nets de cette contribution.
+
+En cas de rachat partiel d'un bon ou contrat en unités de compte qui a été
+soumis à la contribution au titre du a, l'assiette de la contribution due au
+titre du rachat est égale au produit de l'assiette définie au premier alinéa du
+présent b par le rapport existant entre les primes comprises dans ledit rachat
+partiel et le montant total des primes versées net des primes comprises, le cas
+échéant, dans un rachat partiel antérieur.
 
 4° Les produits des plans d'épargne populaire, ainsi que les rentes viagères et
 les primes d'épargne visés au premier alinéa du 22° de l'article 157 du code
@@ -105,7 +113,7 @@ conditions prévues à l'article L. 442-4 du même code ;
 
 7° Lorsque les intéressés demandent la délivrance des sommes ou valeurs
 provenant d'un plan d'épargne entreprise au sens du chapitre III du titre IV du
-livre IV du code du travail, le revenu constitué par la différence entre le
+livre IV du code du travail (1), le revenu constitué par la différence entre le
 montant de ces sommes ou valeurs et le montant des sommes versées dans le plan
 augmentées, le cas échéant, des sommes attribuées au titre de la réserve
 spéciale de la participation des salariés aux résultats de l'entreprise et des
@@ -138,7 +146,42 @@ lors de l'expiration du contrat ;
 sur le revenu en application du 23° de l'article 157 du code général des impôts,
 lors de leur inscription en compte.
 
-III.-Paragraphe abrogé
+III.-1. Lorsqu'un plan d'épargne-logement est résilié dans les deux ans à
+compter de son ouverture ou transformé en compte épargne-logement à la demande
+de son titulaire, la contribution calculée dans les conditions du c du 2° du II
+est restituée à hauteur du montant qui excède celui de la contribution due sur
+les intérêts recalculés, en appliquant à l'ensemble des dépôts du plan concerné
+le taux de rémunération du compte épargne-logement en vigueur à la date de sa
+résiliation ou de sa transformation.
+
+2. L'établissement payeur reverse au titulaire du plan l'excédent de la
+contribution déterminé dans les conditions du 1, à charge pour cet établissement
+d'en demander la restitution.
+
+La restitution s'effectue par voie d'imputation sur la contribution due par
+l'établissement payeur à raison des autres produits de placements. A défaut
+d'une base d'imputation suffisante, l'excédent de contribution non imputé est
+reporté ou remboursé.
+
+III bis. ― 1. Lorsque, au dénouement d'un bon ou contrat mentionné au 3° du II
+ou lors du décès de l'assuré, le montant de la contribution acquittée dans les
+conditions du a du même 3° est supérieur au montant de celle calculée sur
+l'ensemble des produits attachés au bon ou contrat, l'excédent est reversé au
+contrat.
+
+En cas de rachat partiel, cet excédent n'est reversé qu'à proportion du rapport
+existant entre les primes comprises dans ce rachat et le montant total des
+primes versées net des primes comprises, le cas échéant, dans un rachat partiel
+antérieur.
+
+2.L'établissement payeur reverse au contrat l'excédent de la contribution
+déterminé dans les conditions du 1 lors du dénouement du bon ou du contrat ou du
+décès de l'assuré, à charge pour cet établissement d'en demander la restitution.
+
+La restitution s'effectue par voie d'imputation sur la contribution due par
+l'établissement payeur à raison des autres produits de placements.A défaut d'une
+base d'imputation suffisante, l'excédent de contribution non imputé est reporté
+ou remboursé.
 
 IV.-1. La contribution sociale généralisée due par les établissements payeurs au
 titre des mois de décembre et janvier sur les revenus de placement mentionnés au

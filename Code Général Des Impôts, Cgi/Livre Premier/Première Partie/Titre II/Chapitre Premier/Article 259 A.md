@@ -37,13 +37,14 @@ assujetties autres que les transports intracommunautaires de biens et les
 prestations de transport de passagers, en fonction des distances parcourues en
 France ;
 
-5° Lorsqu'elles sont matériellement exécutées ou exercées en France :
+5° Lorsqu'elles sont matériellement exécutées ou ont effectivement lieu en
+France :
 
-a) Les prestations de services ayant pour objet des activités culturelles,
-artistiques, sportives, scientifiques, éducatives, de divertissement ou
-similaires, telles que les foires et les expositions, y compris les prestations
-de services des organisateurs de telles activités, ainsi que les prestations de
-services accessoires à ces activités ;
+a) Les prestations de services fournies à une personne non assujettie ayant pour
+objet des activités culturelles, artistiques, sportives, scientifiques,
+éducatives, de divertissement ou similaires, telles que les foires et les
+expositions, y compris les prestations de services des organisateurs de telles
+activités, ainsi que les prestations de services accessoires à ces activités ;
 
 b) Les ventes à consommer sur place ;
 
@@ -69,6 +70,12 @@ la Communauté européenne.
 
 Dans le cas d'un transport aller-retour, le trajet de retour est considéré comme
 un transport distinct ;
+
+5° bis Les prestations de services fournies à un assujetti, ainsi que celles qui
+leur sont accessoires, consistant à donner accès à des manifestations
+culturelles, artistiques, sportives, scientifiques, éducatives, de
+divertissement ou similaires, telles que les foires et les expositions lorsque
+ces manifestations ont effectivement lieu en France ;
 
 6° Lorsqu'elles sont matériellement exécutées en France au profit d'une personne
 non assujettie :

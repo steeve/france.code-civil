@@ -38,9 +38,9 @@ avaient permis l'obtention du prêt.
 En outre, les emprunts peuvent être transférés aux personnes morales
 bénéficiaires des ventes mentionnées au premier alinéa, avec maintien des
 garanties y afférentes consenties par des collectivités territoriales, par leurs
-groupements ou par des chambres de commerce et d'industrie, sauf opposition des
-créanciers ou des garants dans les trois mois qui suivent la notification du
-projet de transfert du prêt lié à la vente.
+groupements ou par des chambres de commerce et d'industrie territoriales, sauf
+opposition des créanciers ou des garants dans les trois mois qui suivent la
+notification du projet de transfert du prêt lié à la vente.
 
 En cas de vente d'un logement-foyer ayant fait l'objet de travaux d'amélioration
 financés avec l'aide de l'Etat depuis moins de cinq ans, l'organisme vendeur est

@@ -11,9 +11,9 @@ compétence d'élimination à un établissement public de coopération intercomm
 établir un reversement partiel du produit de la taxe d'enlèvement des ordures
 ménagères au profit de ce dernier.
 
-II. - Par dérogation au I, les dispositions du a de l'article 1609 nonies A ter
-sont applicables aux communes qui adhèrent, pour l'ensemble de cette compétence,
-à un syndicat mixte.
+II.-Par dérogation au I, les dispositions du a du 2 du VI de l'article 1379-0
+bis sont applicables aux communes qui adhèrent, pour l'ensemble de cette
+compétence, à un syndicat mixte.
 
 III. En cas d'institution par les communes de la redevance mentionnée à
 l'article L. 2333-77 du code général des collectivités territoriales, la taxe
@@ -27,7 +27,7 @@ redevance prévue à l'article L. 2333-77.
 
 Cette suppression prend effet :
 
-- à compter du 1er janvier de l'année où est intervenue la décision si cette
+-à compter du 1er janvier de l'année où est intervenue la décision si cette
 dernière est antérieure au 1er mars ;
 
-- à compter du 1er janvier de l'année suivante dans les autres cas.
+-à compter du 1er janvier de l'année suivante dans les autres cas.

@@ -10,18 +10,22 @@ personnes à charge à titre exclusif ou principal à 10 % de la valeur locative
 moyenne des habitations de la commune pour chacune des deux premières personnes
 à charge et à 15 % pour chacune des suivantes.
 
-Ces taux peuvent être majorés de 5 ou 10 points par le conseil municipal.
+Ces taux peuvent être majorés d'un ou plusieurs points sans excéder 10 points
+par le conseil municipal.
 
 2. L'abattement facultatif à la base, que le conseil municipal peut instituer,
-est égal à 5,10 ou 15 % de la valeur locative moyenne des habitations de la
-commune.
+est à un certain pourcentage, ce pourcentage pouvant varier de un pour cent à
+plusieurs pour cent sans excéder 15 % de la valeur locative moyenne des
+habitations de la commune.
 
 3. Sans préjudice de l'application de l'abattement prévu au 2, le conseil
-municipal peut accorder un abattement à la base de 5,10 ou 15 % aux
-contribuables dont le montant des revenus de l'année précédente n'excède pas la
-limite prévue à l'article 1417 et dont l'habitation principale a une valeur
-locative inférieure à 130 % de la moyenne communale. Ce pourcentage est augmenté
-de 10 points par personne à charge à titre exclusif ou principal.
+municipal peut accorder un abattement à la base aux contribuables dont le
+montant des revenus de l'année précédente n'excède pas la limite prévue à
+l'article 1417 et dont l'habitation principale a une valeur locative inférieure
+à 130 % de la moyenne communale. Cet abattement est égal à un pourcentage de la
+valeur locative moyenne des habitations de la commune, ce pourcentage pouvant
+varier de un pour cent à plusieurs pour cent sans excéder 15 % ; il peut être
+augmenté de 10 points par personne à charge à titre exclusif ou principal.
 
 3 bis Sans préjudice de l'abattement prévu aux 2 et 3, les conseils municipaux
 peuvent, par une délibération prise dans les conditions prévues à l'article 1639
@@ -88,18 +92,39 @@ En l'absence de délibération, les abattements applicables sont ceux résultant
 des votes des conseils municipaux, calculés sur la valeur locative moyenne de la
 commune.
 
-II ter.-1. Les taux de 10 % et 15 % visés au 1 du II et leurs majorations de 5
-ou 10 points votées par les conseils municipaux et les organes délibérants des
-établissements publics de coopération intercommunale à fiscalité propre, la
-majoration de 10 points visée au 3 du II ainsi que le montant de l'abattement
-obligatoire pour charges de famille fixé en valeur absolue conformément au 5 du
-II sont divisés par deux pour les enfants réputés à charge égale de l'un et
-l'autre de leurs parents.
+II ter. - 1. Les taux visés au 1 du II et leurs majorations votées par les
+conseils municipaux et les organes délibérants des établissements publics de
+coopération intercommunale à fiscalité propre, la majoration visée au 3 du II
+ainsi que le montant de l'abattement obligatoire pour charges de famille fixé en
+valeur absolue conformément au 5 du II sont divisés par deux pour les enfants
+réputés à charge égale de l'un et l'autre de leurs parents.
 
 2. Lorsque le nombre total de personnes à charge est supérieur à deux, les
 enfants réputés à charge égale de l'un et l'autre de leurs parents sont
 décomptés en premier pour le calcul de l'abattement obligatoire pour charges de
 famille.
+
+II quater. - Pour les communes et établissements publics de coopération
+intercommunale à fiscalité propre bénéficiaires en 2011 du transfert de la taxe
+d'habitation départementale, le montant de chacun des abattements mentionnés au
+II est, à compter de 2011, corrigé d'un montant égal à la différence entre :
+
+1° D'une part, la somme de l'abattement en 2010 de la commune ou de
+l'établissement public de coopération intercommunale à fiscalité propre
+bénéficiaire du transfert et de l'abattement départemental en 2010, chacun de
+ces abattements étant affecté du rapport entre le taux de la collectivité
+territoriale ou de l'établissement public de coopération intercommunale concerné
+et la somme des taux de la commune ou de l'établissement public de coopération
+intercommunale et du département en 2010 ;
+
+2° Et, d'autre part, le montant en 2010 de l'abattement de la commune ou de
+l'établissement public de coopération intercommunale à fiscalité propre
+bénéficiaire du transfert.
+
+Lorsque le territoire d'un établissement public de coopération intercommunale se
+situe sur plusieurs départements, la correction de l'abattement intercommunal
+est effectuée pour chaque partie de son territoire appartenant à chacun des
+départements.
 
 III. Sont considérés comme personnes à la charge du contribuable :
 
@@ -119,5 +144,6 @@ Les abattements, fixés en valeur absolue conformément au 5 du II, sont majoré
 proportionnellement à la variation des valeurs locatives des logements résultant
 de l'application des articles 1518 et 1518 bis.
 
-V. La valeur locative moyenne ainsi que les abattements sont arrondis à l'euro
-le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1.
+V. La valeur locative moyenne ainsi que les abattements, le cas échéant après
+application du II quater, sont arrondis à l'euro le plus proche. La fraction
+d'euro égale à 0,50 est comptée pour 1.

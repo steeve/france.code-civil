@@ -1,11 +1,11 @@
 Article Annexe Tableau XIII
 ----
-Siège et ressort des tribunaux d'instance, des tribunaux de première instance et
-des sections détachées compétents pour recevoir et enregistrer les déclarations
-de nationalité française et délivrer les certificats de nationalité française
+SIÈGE ET RESSORT DES TRIBUNAUX D'INSTANCE, DES TRIBUNAUX DE PREMIÈRE INSTANCE ET
+DES SECTIONS DÉTACHÉES COMPÉTENTS POUR RECEVOIR ET ENREGISTRER LES DÉCLARATIONS
+DE NATIONALITÉ FRANÇAISE ET DÉLIVRER LES CERTIFICATS DE NATIONALITÉ FRANÇAISE
 
 
-SIEGE
+SIÈGE
 
 RESSORT
 
@@ -1093,7 +1093,7 @@ Côtes-d'Armor
 
 Saint-Brieuc
 
-Ressort des tribunaux d'instance de Dinan, Guingamp et Saint-Brieuc.
+Ressort des tribunaux d'instance de Guingamp et Saint-Brieuc.
 
 
 Finistère
@@ -1112,7 +1112,7 @@ Ille-et-Vilaine
 
 Rennes
 
-Ressort des tribunaux d'instance de Redon, Rennes et Saint-Malo.
+Ressort des tribunaux d'instance de Redon, Rennes, Dinan et Saint-Malo.
 
 
 Loire-Atlantique

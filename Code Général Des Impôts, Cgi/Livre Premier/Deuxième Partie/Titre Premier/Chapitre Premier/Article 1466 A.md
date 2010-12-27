@@ -1,27 +1,27 @@
 Article 1466 A
 ----
-I.-A compter du 1er janvier 2005, les communes sur le territoire desquelles sont
-situés un ou plusieurs quartiers classés en zones urbaines sensibles définies au
-3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
-l'aménagement et le développement du territoire ou leurs établissements publics
-de coopération intercommunale dotés d'une fiscalité propre peuvent exonérer de
-la cotisation foncière des entreprises par délibération prise dans les
-conditions de l'article 1639 A bis les créations ou extensions d'établissement
-réalisées dans une ou plusieurs de ces zones urbaines sensibles, dans la limite
-d'un montant de base nette imposable fixé pour 2005 à 122 863 Euros et actualisé
-chaque année en fonction de la variation des prix. Seuls les établissements
-employant moins de 150 salariés peuvent bénéficier de cette mesure.
+I.- Les communes sur le territoire desquelles sont situés un ou plusieurs
+quartiers classés en zones urbaines sensibles définies au 3 de l'article 42 de
+la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
+développement du territoire ou leurs établissements publics de coopération
+intercommunale dotés d'une fiscalité propre peuvent exonérer de la cotisation
+foncière des entreprises par délibération prise dans les conditions de l'article
+1639 A bis les créations ou extensions d'établissement réalisées dans une ou
+plusieurs de ces zones urbaines sensibles, dans la limite d'un montant de base
+nette imposable fixé pour 2011 à 26 955 € et actualisé chaque année en fonction
+de la variation des prix. Seuls les établissements employant moins de 150
+salariés peuvent bénéficier de cette mesure.
 
-Pour les opérations réalisées à compter du 1er janvier 2005, l'exonération
-s'applique aux entreprises qui ont employé moins de 250 salariés au cours de la
-période de référence retenue pour le calcul de la base d'imposition et dont soit
-le chiffre d'affaires annuel réalisé au cours de la même période n'excède pas 50
-millions d'euros, soit le total de bilan, au terme de la même période, n'excède
-pas 43 millions d'euros. L'effectif à retenir est apprécié par référence au
-nombre moyen de salariés au cours de la période. Le chiffre d'affaires à prendre
-en compte est éventuellement corrigé pour correspondre à une année pleine et,
-pour une société mère d'un groupe mentionné à l'article 223 A, s'entend de la
-somme des chiffres d'affaires de chacune des sociétés membres de ce groupe.
+L'exonération s'applique aux entreprises qui ont employé moins de 250 salariés
+au cours de la période de référence retenue pour le calcul de la base
+d'imposition et dont soit le chiffre d'affaires annuel réalisé au cours de la
+même période n'excède pas 50 millions d'euros, soit le total de bilan, au terme
+de la même période, n'excède pas 43 millions d'euros. L'effectif à retenir est
+apprécié par référence au nombre moyen de salariés au cours de la période. Le
+chiffre d'affaires à prendre en compte est éventuellement corrigé pour
+correspondre à une année pleine et, pour une société mère d'un groupe mentionné
+à l'article 223 A, s'entend de la somme des chiffres d'affaires de chacune des
+sociétés membres de ce groupe.
 
 L'exonération prévue n'est pas applicable aux entreprises dont 25 % ou plus du
 capital ou des droits de vote sont contrôlés, directement ou indirectement, par
@@ -135,10 +135,9 @@ le 31 décembre 2011 dans les zones franches urbaines mentionnées à l'article
 zones franches urbaines mentionnées au deuxième alinéa du B du 3 de l'article 42
 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
 développementdu territoire sont exonérés de cotisation foncière des entreprises
-dans la limite du montant de base nette imposable fixé, pour 2006, à 337 713
-Euros et actualisé chaque année en fonction de la variation de l'indice des
-prix. Les exonérations s'appliquent lorsque les conditions suivantes sont
-remplies :
+dans la limite du montant de base nette imposable fixé, pour 2011, à 72 709 € et
+actualisé chaque année en fonction de la variation de l'indice des prix. Les
+exonérations s'appliquent lorsque les conditions suivantes sont remplies :
 
 1° L'entreprise doit employer au plus cinquante salariés au 1er janvier 2006 ou
 à la date de sa création ou de son implantation si elle est postérieure et, soit
@@ -197,10 +196,9 @@ Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'
 des exonérations prévues aux articles 1464 A, 1464 B, 1464 D, 1464 I, 1465, 1465
 A, 1465 B, 1466 C, 1466 D ou 1466 E et de celles prévues aux I, I quinquies A, I
 quinquies B ou I sexies le contribuable doit opter pour l'un ou l'autre de ces
-régimes. L'option qui est irrévocable doit être exercée, selon le cas, dans le
-délai prévu pour le dépôt de la déclaration annuelle afférente à la première
-année au titre de laquelle l'exonération prend effet ou de la déclaration
-provisoire de cotisation foncière des entreprises visée à l'article 1477.
+régimes. L'option qui est irrévocable doit être exercée dans le délai prévu pour
+le dépôt de la déclaration afférente à la première année au titre de laquelle
+l'exonération prend effet.
 
 Pour l'application des I, I quinquies A, I quinquies B et I sexies :
 

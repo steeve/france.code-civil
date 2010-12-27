@@ -1,6 +1,6 @@
 Article 1414 A
 ----
-I.-Les contribuables autres que ceux mentionnés à l'article 1414, dont le
+I. - Les contribuables autres que ceux mentionnés à l'article 1414, dont le
 montant des revenus de l'année précédente n'excède pas la limite prévue au II de
 l'article 1417, sont dégrevés d'office de la taxe d'habitation afférente à leur
 habitation principale pour la fraction de leur cotisation qui excède 3,44 % de
@@ -25,7 +25,7 @@ supérieure de la première tranche du barème de l'impôt sur le revenu.
 Les majorations d'abattements mentionnées aux a, b et c sont divisées par deux
 pour les quarts de part.
 
-II.-1. Pour l'application du I :
+II. - 1. Pour l'application du I :
 
 a. Le revenu s'entend du revenu du foyer fiscal du contribuable au nom duquel la
 taxe est établie ;
@@ -59,7 +59,12 @@ Pour l'application du premier alinéa :
 
 a. Lorsque les bases nettes imposables au profit de la commune, et de
 l'établissement public de coopération intercommunale à fiscalité propre sont
-différentes, la base la moins élevée est retenue ;
+différentes, la base la moins élevée est retenue. Toutefois, lorsque les
+abattements départementaux en vigueur en 2010 étaient plus favorables que les
+abattements de la commune ou de l'établissement public de coopération
+intercommunale bénéficiaire du transfert de la part départementale de la taxe
+d'habitation, la base retenue est celle déterminée en fonction des abattements
+du département en 2010 ;
 
 b. Le taux global de taxe d'habitation comprend le taux des taxes spéciales
 d'équipement additionnelles à la taxe d'habitation ;
@@ -82,6 +87,10 @@ Cette disposition est également applicable lorsque les abattements sont fixés 
 valeur absolue conformément au 5 du II de l'article 1411. Dans ce cas, les
 abattements afférents à l'année 2003 sont majorés dans les conditions prévues au
 deuxième alinéa du IV dudit article.
+
+Pour le calcul de la réduction prévue aux deux premiers alinéas, le montant de
+l'abattement de 2003 tient compte de la correction opérée en 2011 en application
+du II quater de l'article 1411.
 
 3. Lorsque la cotisation de taxe d'habitation du contribuable résulte
 exclusivement de l'application des dispositions prévues aux 1 et 2, le

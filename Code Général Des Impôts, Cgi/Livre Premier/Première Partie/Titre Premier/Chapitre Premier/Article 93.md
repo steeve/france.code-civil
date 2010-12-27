@@ -75,7 +75,7 @@ excéder 10 % du montant brut des commissions.
 
 La demande doit être adressée au service des impôts du lieu d'exercice de la
 profession avant le 1er mars de l'année au titre de laquelle l'imposition est
-établie. L'option demeure valable tant qu'elle n'a pas été expressément dénoncée
+établie.L'option demeure valable tant qu'elle n'a pas été expressément dénoncée
 dans les mêmes conditions.
 
 Les contribuables ayant demandé l'application de ce régime doivent joindre à
@@ -119,9 +119,9 @@ commerciale ou artisanale en raison de son activité au profit du cessionnaire
 pendant la période de trois mois précédant la cession sont soumises à l'impôt
 sur le revenu sous déduction d'un abattement de 1 550 euros.
 
-Cette disposition s'applique si le cédant est âgé de soixante ans au moins et
-soixante-cinq ans au plus à la date de la cession et s'il cesse d'exercer une
-activité de chef d'entreprise.
+Cette disposition s'applique si l'âge du cédant à la date de cession excède,
+dans la limite de cinq ans, celui auquel lui est ouvert le droit à une pension
+de retraite et si le cédant cesse d'exercer une activité de chef d'entreprise.
 
 8 . Sur demande expresse des contribuables soumis au régime de la déclaration
 contrôlée qui exercent une activité professionnelle au sens du 1 de l'article

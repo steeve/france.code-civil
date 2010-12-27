@@ -67,6 +67,13 @@ réserve naturelle au sens de l'article L. 332-1 du même code ;
 l'élaboration et à la mise en oeuvre de la politique de protection et de gestion
 des espaces naturels sensibles destinés à être ouverts au public.
 
+-pour l'acquisition de sites destinés à la préservation de la ressource en eau,
+leur aménagement et leur gestion,
+
+-pour les travaux contribuant à la préservation ou à la remise en bon état des
+continuités écologiques identifiées dans les schémas prévus à l'article L. 371-3
+du code de l'environnement.
+
 Cette taxe est perçue sur la totalité du territoire du département.
 
 Elle est établie sur la construction, la reconstruction et l'agrandissement des
@@ -134,14 +141,14 @@ services ;
 
 Lorsque des constructions de logements sont acquises par les organismes et
 sociétés mentionnés à l'alinéa précédent, dans le cadre d'un contrat prévu par
-l'article 1601-3 du code civil et régi par les L. 261-10 à L. 261-22 du code de
-la construction et de l'habitation, elles peuvent bénéficier, sur demande du
-constructeur, de l'exonération décidée, le cas échéant, en application de
-l'alinéa précédent. Dans ce cas, la fraction de la taxe éventuellement recouvrée
-en excès est remboursée. La demande du constructeur peut être formulée dès la
-conclusion d'un contrat prévu à l'article L. 261-10 ou L. 261-15 du même code,
-sans excéder un délai de trente-six mois à compter de la demande de permis de
-construire.
+l'article 1601-3 du code civil et régi par les articles L. 261-10 à L. 261-22 du
+code de la construction et de l'habitation, elles peuvent bénéficier, sur
+demande du constructeur, de l'exonération décidée, le cas échéant, en
+application de l'alinéa précédent. Dans ce cas, la fraction de la taxe
+éventuellement recouvrée en excès est remboursée. La demande du constructeur
+peut être formulée dès la conclusion d'un contrat prévu à l'article L. 261-10 ou
+L. 261-15 du même code, sans excéder un délai de trente-six mois à compter de la
+demande de permis de construire.
 
 -les logements à vocation très sociale.
 
@@ -155,14 +162,14 @@ suivant les catégories de construction, sans pouvoir excéder 2 %.
 
 Lorsqu'elle est établie sur les aménagements, la taxe est assise sur la
 superficie des terrains faisant l'objet de l'autorisation. Son taux est fixé par
-délibération du conseil général dans la limite de 1, 52 euro par mètre carré.
+délibération du conseil général dans la limite de 1,52 euro par mètre carré.
 Cette limite et le taux fixé par la délibération du conseil général sont
 modifiés au 1er juillet de chaque année en fonction de l'évolution de l'indice
 du coût de la construction publié par l'Institut national de la statistique et
-des études économiques.L'indice de référence est, pour la réévaluation de la
-limite de 1, 52 euro, celui du quatrième trimestre de l'année 1994 et, pour
-celle du taux, l'indice du trimestre précédant la délibération du conseil
-général ayant fixé le taux.
+des études économiques. L'indice de référence est, pour la réévaluation de la
+limite de 1,52 euro, celui du quatrième trimestre de l'année 1994 et, pour celle
+du taux, l'indice du trimestre précédant la délibération du conseil général
+ayant fixé le taux.
 
 La taxe constitue, du point de vue fiscal, un élément du prix de revient de
 l'ensemble immobilier.

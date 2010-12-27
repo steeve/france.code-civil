@@ -18,11 +18,14 @@ industrielles et commerciales, dans les conditions prévues aux articles L.
 4° Le recouvrement d'une partie de la contribution sociale généralisée selon les
 dispositions des articles L. 136-1 et suivants ;
 
-5° Le contrôle et le contentieux du recouvrement prévus aux 1°, 2° et 3° ;
+5° Le recouvrement des contributions et cotisations mentionnées aux articles L.
+321-4-2, L. 351-3-1 et L. 143-11-6 du code du travail ;
 
 5° bis Le calcul et l'encaissement des cotisations sociales mentionnées aux
 articles L. 642-1, L. 644-1, L. 644-2, et au c du 1° de l'article L. 613-1 pour
 l'application des dispositions prévues à l'article L. 133-6-8.
+
+6° Le contrôle et le contentieux du recouvrement prévu aux 1°,2°,3° et 5°.
 
 Les unions sont constituées et fonctionnent conformément aux prescriptions de
 l'article L. 216-1.

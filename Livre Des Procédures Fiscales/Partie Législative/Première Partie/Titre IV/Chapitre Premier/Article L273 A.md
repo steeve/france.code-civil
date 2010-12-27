@@ -1,7 +1,9 @@
 Article L273 A
 ----
-I. - Les créances de l'Etat qui font l'objet d'un titre de perception visé à
-l'article L. 252 A peuvent être recouvrées par voie de saisie à tiers détenteur.
+I. - Les créances de l'Etat ou celles qu'il est chargé de recouvrer pour le
+compte de tiers sur la base d'un titre de perception délivré par lui en
+application de l'article L. 252 A peuvent être recouvrées par voie de saisie à
+tiers détenteur.
 
 La saisie à tiers détenteur est notifiée, avec mention des délais et voies de
 recours, au débiteur ainsi qu'aux personnes physiques ou morales qui détiennent
