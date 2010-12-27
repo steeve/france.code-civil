@@ -16,7 +16,8 @@ propriété intellectuelle ;
 
 5° Les produits des aliénations ou immobilisations ;
 
-6° Les emprunts et avances ;
+6° Les emprunts et avances, dans les limites et sous les réserves fixées par
+décret ;
 
 7° Les libéralités, dons, legs et leurs revenus ;
 
