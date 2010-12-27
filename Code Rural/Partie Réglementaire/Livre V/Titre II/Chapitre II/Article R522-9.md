@@ -5,5 +5,5 @@ les statuts des sociétés coopératives agricoles et de leurs unions prévoient
 des tiers non coopérateurs peuvent être admis à bénéficier de leurs services
 dans la limite de 20 p. 100 du chiffre d'affaires annuel, les sociétés
 intéressées doivent prévoir statutairement de soumettre leur gestion à révision
-périodique, effectuée par une fédération de coopératives agréée pour la révision
-conformément à l'article L. 527-1.
+au moins une fois tous les cinq ans, effectuée par une fédération de
+coopératives agréée pour la révision conformément à l'article L. 527-1.
