@@ -40,11 +40,15 @@ pédagogique ;
 
 15° Le rapport annuel d'activité.
 
+Le Centre de ressources et d'information sur les multimédias pour l'enseignement
+supérieur, le Centre de liaison de l'enseignement et des moyens d'information et
+le Musée national de l'éducation sont des services du Centre national de
+documentation pédagogique.
+
 Par dérogation aux dispositions du 2°, les paragraphes 4 et 5 de la présente
 sous-section définissent l'organisation et le fonctionnement du Centre de
 ressources et d'information sur les multimédias pour l'enseignement supérieur et
-du Centre de liaison de l'enseignement et des médias d'information, qui
-constituent des services de l'établissement.
+du Centre de liaison de l'enseignement et des médias d'information.
 
 Dans les limites qu'il détermine, le conseil d'administration peut déléguer au
 directeur général les pouvoirs prévus aux 6°,7° et 13°. Celui-ci lui rend
