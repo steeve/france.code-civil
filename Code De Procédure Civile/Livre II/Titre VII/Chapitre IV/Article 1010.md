@@ -12,7 +12,9 @@ pour la remise du mémoire en réponse ;
 - être notifié dans le même délai aux avocats des autres parties au pourvoi
 incident. Si, dans les matières où la représentation est obligatoire, le
 défendeur n'a pas constitué avocat, le mémoire doit lui être signifié au plus
-tard dans le mois suivant l'expiration de ce délai.
+tard dans le mois suivant l'expiration de ce délai ; cependant, si, entre-temps,
+le défendeur constitue avocat avant la signification du mémoire, il est procédé
+par voie de notification à son avocat.
 
 Le défendeur à un tel pourvoi dispose d'un délai d'un mois à compter de la
 notification pour remettre, et s'il y a lieu notifier, son mémoire en réponse.

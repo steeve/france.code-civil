@@ -6,10 +6,12 @@ mois à compter du pourvoi, remettre au greffe de la Cour de cassation un mémoi
 contenant les moyens de droit invoqués contre la décision attaquée. Le mémoire
 doit, sous la même sanction, être notifié dans le même délai aux avocats des
 autres parties. Si le défendeur n'a pas constitué avocat, le mémoire doit lui
-être signifié au plus tard dans le mois suivant l'expiration de ce délai.
+être signifié au plus tard dans le mois suivant l'expiration de ce délai ;
+cependant, si, entre-temps, le défendeur constitue avocat avant la signification
+du mémoire, il est procédé par voie de notification à son avocat.
 
 A peine d'être déclaré d'office irrecevable un moyen ou un élément de moyen ne
-doit mettre en oeuvre qu'un seul cas d'ouverture. Chaque moyen ou chaque élément
+doit mettre en œuvre qu'un seul cas d'ouverture. Chaque moyen ou chaque élément
 de moyen doit préciser, sous la même sanction :
 
 - le cas d'ouverture invoqué ;

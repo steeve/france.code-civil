@@ -26,4 +26,4 @@ ou représenter par un avocat.
 
 La procédure est orale.
 
-Les dispositions des articles 1231, 1232 et 1239 sont applicables.
+Les dispositions des articles 1231 et 1239 sont applicables.
