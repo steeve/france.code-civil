@@ -16,8 +16,8 @@ prêt effectivement octroyé et le montant du crédit d'impôt correspondant au 
 qui aurait dû être octroyé à l'emprunteur est reversée par l'établissement de
 crédit ou la société de financement. En cas d'absence de déclaration spontanée,
 dans un délai fixé par décret, de l'événement justifiant le reversement par
-l'établissement à la société de gestion mentionnée à l'article L. 31-10-14 du
-même code, le montant du crédit d'impôt reversé est majoré de 40 %.
+l'établissement ou la société à la société de gestion mentionnée à l'article L.
+31-10-14 du même code, le montant du crédit d'impôt reversé est majoré de 40 %.
 
 III. ― Si, pendant la durée du prêt, et tant que celui-ci n'est pas
 intégralement remboursé, les conditions de son maintien mentionnées à l'article
@@ -25,7 +25,7 @@ L. 31-10-6 du code de la construction et de l'habitation ne sont plus respectée
 ou en cas de remboursement anticipé du prêt, les fractions de crédit d'impôt
 restant à imputer ne peuvent plus être utilisées par l'établissement de crédit
 ou la société de financement. En cas d'absence de déclaration spontanée, dans un
-délai fixé par décret, de ces événements par l'établissement à la société de
-gestion mentionnée à l'article L. 31-10-14 du même code, l'établissement de
-crédit ou la société de financement reverse par ailleurs une somme égale à 40 %
-du montant des fractions de crédit d'impôt restant à imputer.
+délai fixé par décret, de ces événements par l'établissement ou la société à la
+société de gestion mentionnée à l'article L. 31-10-14 du même code,
+l'établissement de crédit ou la société de financement reverse par ailleurs une
+somme égale à 40 % du montant des fractions de crédit d'impôt restant à imputer.
