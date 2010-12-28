@@ -1,11 +1,8 @@
 Article 151 septies
 ----
-I.-Sous réserve des dispositions du VII, les dispositions du présent article
-s'appliquent aux activités commerciales, industrielles, artisanales, libérales
-ou agricoles, exercées à titre professionnel.
-
-L'exercice à titre professionnel implique la participation personnelle, directe
-et continue à l'accomplissement des actes nécessaires à l'activité.
+I.-Les dispositions du présent article s'appliquent aux activités commerciales,
+industrielles, artisanales, libérales ou agricoles, exercées à titre
+professionnel.
 
 II.-Les plus-values de cession soumises au régime des articles 39 duodecies à 39
 quindecies, à l'exception de celles afférentes aux biens entrant dans le champ
@@ -99,36 +96,7 @@ déterminées après compensation avec les moins-values de même nature.
 VII.-Les articles 150 U à 150 VH sont applicables aux plus-values réalisées lors
 de la cession de locaux d'habitation meublés ou destinés à être loués meublés et
 faisant l'objet d'une location directe ou indirecte lorsque cette activité n'est
-pas exercée à titre professionnel.L'activité de location directe ou indirecte de
-locaux d'habitation meublés ou destinés à être loués meublés est exercée à titre
-professionnel lorsque les trois conditions suivantes sont réunies :
-
-1° Un membre du foyer fiscal au moins est inscrit au registre du commerce et des
-sociétés en qualité de loueur professionnel ;
-
-2° Les recettes annuelles retirées de cette activité par l'ensemble des membres
-du foyer fiscal excèdent 23 000 € ;
-
-3° Ces recettes excèdent les revenus du foyer fiscal soumis à l'impôt sur le
-revenu dans les catégories des traitements et salaires au sens de l'article 79,
-des bénéfices industriels et commerciaux autres que ceux tirés de l'activité de
-location meublée, des bénéfices agricoles, des bénéfices non commerciaux et des
-revenus des gérants et associés mentionnés à l'article 62.
-
-Pour l'application de la troisième condition, les recettes afférentes à une
-location ayant commencé avant le 1er janvier 2009 ou portant sur un local
-d'habitation acquis ou réservé avant cette date dans les conditions prévues aux
-articles L. 261-2, L. 261-3, L. 261-15 ou L. 262-1 du code de la construction et
-de l'habitation sont comptées pour un montant quintuple de leur valeur, diminué
-de deux cinquièmes de cette valeur par année écoulée depuis le début de la
-location, dans la limite de dix années à compter du début de celle-ci.
-
-La location du local d'habitation est réputée commencer à la date de son
-acquisition ou, si l'acquisition a eu lieu avant l'achèvement du local, à la
-date de cet achèvement.L'année où commence la location, les recettes y
-afférentes sont, le cas échéant, ramenées à douze mois pour l'appréciation des
-seuils mentionnés aux 2° et 3°. Il en est de même l'année de cessation totale de
-l'activité de location.
+pas exercée à titre professionnel.
 
 VIII.-Les dispositions du présent article ne s'appliquent pas aux transferts de
 biens ou de droits dans un patrimoine fiduciaire effectués dans le cadre d'une
