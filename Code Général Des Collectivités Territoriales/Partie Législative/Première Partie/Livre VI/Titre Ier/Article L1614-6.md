@@ -2,8 +2,8 @@ Article L1614-6
 ----
 Ne figurent pas dans le bilan financier prévu à l'article L. 1614-3 :
 
--les crédits inclus dans la dotation globale d'équipement des communes et des
-départements ;
+-les crédits inclus dans la dotation d'équipement des territoires ruraux des
+communes et la dotation globale d'équipement des départements ;
 
 -les ressources prévues à l'article 113 de la loi n° 83-8 du 7 janvier 1983
 précitée ;

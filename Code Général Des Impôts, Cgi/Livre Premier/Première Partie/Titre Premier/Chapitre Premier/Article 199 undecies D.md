@@ -9,12 +9,12 @@ d'une même année d'imposition, ne peut excéder un montant de 40 000 €.
 titre des investissements mentionnés à la première phrase des vingt-sixième et
 vingt-septième alinéas du I de l'article 199 undecies B ainsi que les reports
 résultant d'une réduction d'impôt au titre des mêmes investissements sont
-retenus pour 40 % de leur montant.
+retenus pour 37,5 % de leur montant.
 
 3. Pour l'appréciation de la limite mentionnée au 1, la réduction d'impôt au
 titre des investissements mentionnés à la deuxième phrase du vingt-sixième
 alinéa du I de l'article 199 undecies B ainsi que les reports résultant d'une
-réduction d'impôt au titre des mêmes investissements sont retenus pour la moitié
+réduction d'impôt au titre des mêmes investissements sont retenus pour 47,37 %
 de leur montant.
 
 3 bis. Pour l'appréciation de la limite mentionnée au 1, la réduction d'impôt
@@ -25,13 +25,14 @@ investissements sont retenus pour 35 % de leur montant.
 4. Les fractions des réductions d'impôt et des reports qui ne sont pas retenues
 en application des 2, 3 et 3 bis peuvent être imputées dans la limite annuelle :
 
--d'une fois et demie le montant mentionné au 1 pour la fraction non retenue en
+-de cinq fois le tiers du montant mentionné au 1 pour la fraction non retenue en
 application du 2 ;
 
 -de treize fois le septième du montant mentionné au 1 pour la fraction non
 retenue en application du 3 bis ;
 
--du montant mentionné au 1 pour la fraction non retenue en application du 3.
+- de dix fois le neuvième du montant mentionné au 1 pour la fraction non retenue
+en application du 3.
 
 II. ― Lorsque le contribuable personne physique réalise directement des
 investissements mentionnés au I de l'article 199 undecies B au titre et pour les

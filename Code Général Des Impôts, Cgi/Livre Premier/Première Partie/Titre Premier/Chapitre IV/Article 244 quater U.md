@@ -40,8 +40,7 @@ minimale du logement ;
 3° Soit de travaux de réhabilitation de systèmes d'assainissement non collectif
 par des dispositifs ne consommant pas d'énergie ;
 
-4° Soit de travaux prescrits aux propriétaires d'habitation au titre du IV de
-l'article L. 515-16 du code de l'environnement.
+4° (alinéa supprimé)
 
 Les modalités de détermination des travaux mentionnés aux 1°, 2° et 3° sont
 fixées par décret.
@@ -94,8 +93,7 @@ lorsque le montant des revenus du foyer fiscal tel que défini au IV de l'articl
 1417 n'excède pas 45 000 € l'avant-dernière année précédant celle de l'offre de
 l'avance.
 
-8. Les dépenses de travaux financés par une avance remboursable ne peuvent
-ouvrir droit au crédit d'impôt de l'article 200 quater C.
+8. (alinéa supprimé)
 
 II.-Le montant du crédit d'impôt est égal à la somme actualisée des écarts entre
 les mensualités dues au titre de l'avance remboursable sans intérêt et les

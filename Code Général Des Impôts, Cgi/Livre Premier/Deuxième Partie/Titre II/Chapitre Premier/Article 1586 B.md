@@ -29,3 +29,14 @@ verser en 2009 au titre de l'ensemble des compensations mentionnées aux I à VI
 de l'article 47 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010
 et le montant total de ces mêmes compensations prévu à cette fin pour 2010 par
 le IX de ce même article.
+
+A compter de l'année 2011, les taux à prendre en compte pour les départements
+pour le calcul de la compensation mentionnée au troisième alinéa du présent
+article sont majorés en fonction des taux retenus pour déterminer les
+allocations compensatrices versées en 2010 au profit des régions.
+
+Au titre de 2011, la compensation calculée selon les dispositions qui précèdent
+et à laquelle sont appliqués le taux d'évolution fixé au titre de 2009 et le
+taux d'évolution fixé au titre de 2010 est minorée par application du taux
+défini au IV de l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de
+finances pour 2011.

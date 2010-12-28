@@ -1,8 +1,9 @@
 Article 199 terdecies-0 A
 ----
 I. 1° Les contribuables domiciliés fiscalement en France peuvent bénéficier
-d'une réduction de leur impôt sur le revenu égale à 25 % des souscriptions en
-numéraire au capital initial ou aux augmentations de capital de sociétés.
+d'une réduction de leur impôt sur le revenu égale à 25 % des versements
+effectués au titre de souscriptions en numéraire au capital initial ou aux
+augmentations de capital de sociétés.
 
 2° Le bénéfice de l'avantage fiscal prévu au 1° est subordonné au respect, par
 la société bénéficiaire de la souscription, des conditions suivantes :
@@ -20,20 +21,41 @@ c) La société est soumise à l'impôt sur les sociétés dans les conditions d
 droit commun ou y serait soumise dans les mêmes conditions si l'activité était
 exercée en France ;
 
+c bis) La société compte au moins deux salariés à la clôture de son premier
+exercice ou un salarié si elle est soumise à l'obligation de s'inscrire à la
+chambre de métiers et de l'artisanat ;
+
 d) La société exerce une activité commerciale, industrielle, artisanale,
-libérale, agricole ou financière, à l'exception de la gestion de son propre
-patrimoine mobilier ou immobilier ;
+libérale ou agricole, à l'exclusion des activités procurant des revenus garantis
+en raison de l'existence d'un tarif réglementé de rachat de la production, des
+activités financières, des activités de gestion de patrimoine mobilier définie à
+l'article 885 O quater et des activités immobilières. Toutefois, les exclusions
+relatives à l'exercice d'une activité financière ou immobilière ne sont pas
+applicables aux entreprises solidaires mentionnées à l'article L. 3332-17-1 du
+code du travail.
+
+La société n'exerce pas une activité de production d'électricité utilisant
+l'énergie radiative du soleil (1) ;
+
+d bis) Les actifs de la société ne sont pas constitués de façon prépondérante de
+métaux précieux, d'œuvres d'art, d'objets de collection, d'antiquités, de
+chevaux de course ou de concours ou, sauf si l'objet même de son activité
+consiste en leur consommation ou en leur vente au détail, de vins ou d'alcools ;
+
+d ter) Les souscriptions au capital de la société confèrent aux souscripteurs
+les seuls droits résultant de la qualité d'actionnaire ou d'associé, à
+l'exclusion de toute autre contrepartie notamment sous la forme de tarifs
+préférentiels ou d'accès prioritaire aux biens produits ou aux services rendus
+par la société ;
 
 e) La société doit être une petite et moyenne entreprise qui satisfait à la
 définition des petites et moyennes entreprises qui figure à l'annexe I au
-règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant certaines
+règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines
 catégories d'aide compatibles avec le marché commun en application des articles
-87 et 88 du traité (Règlement général d'exemption par catégorie).
+87 et 88 du traité (Règlement général d'exemption par catégorie) ;
 
-Les conditions tenant à la composition du capital prévue au e et à la nature de
-l'activité exercée prévue au d ne sont pas exigées en cas de souscription au
-capital d'entreprises solidaires au sens de l'article L. 443-3-2 du code du
-travail ;
+f) La société n'accorde aucune garantie en capital à ses associés ou
+actionnaires en contrepartie de leurs souscriptions.
 
 3° L'avantage fiscal prévu au 1° trouve également à s'appliquer lorsque la
 société bénéficiaire de la souscription remplit les conditions suivantes :
@@ -42,7 +64,21 @@ a) La société vérifie l'ensemble des conditions prévues au 2°, à l'excepti
 celle tenant à son activité ;
 
 b) La société a pour objet social exclusif de détenir des participations dans
-des sociétés exerçant les activités mentionnées au d du 2°.
+des sociétés exerçant les activités mentionnées au d du 2° ;
+
+c) La société ne compte pas plus de cinquante associés ou actionnaires ;
+
+d) La société a exclusivement pour mandataires sociaux des personnes physiques ;
+
+e) La société communique à chaque investisseur, avant la souscription de ses
+titres, un document d'information précisant notamment la période de conservation
+des titres pour bénéficier de l'avantage fiscal mentionné au 1°, les modalités
+prévues pour assurer la liquidité de l'investissement au terme de la durée de
+blocage, les risques de l'investissement et la politique de diversification des
+risques, les règles d'organisation et de prévention des conflits d'intérêt, les
+modalités de calcul et la décomposition de tous les frais et commissions,
+directs et indirects, ainsi que le nom du ou des prestataires de services
+d'investissement chargés du placement des titres.
 
 Le montant de la souscription réalisée par le contribuable est pris en compte,
 pour l'assiette de la réduction d'impôt, dans la limite de la fraction
@@ -63,6 +99,22 @@ La réduction d'impôt sur le revenu est accordée au titre de l'année de la
 clôture de l'exercice de la société mentionnée au premier alinéa au cours duquel
 le contribuable a procédé à la souscription.
 
+Un décret fixe les conditions dans lesquelles les investisseurs sont informés
+annuellement du montant détaillé des frais et commissions, directs et indirects,
+qu'ils supportent et celles dans lesquelles ces frais sont encadrés. Pour
+l'application de la phrase précédente, sont assimilées aux sociétés mentionnées
+au présent 3° les sociétés dont la rémunération provient principalement de
+mandats de conseil ou de gestion obtenus auprès de redevables effectuant les
+versements mentionnés au 2° ou au présent 3°, lorsque ces mandats sont relatifs
+à ces mêmes versements.
+
+La société adresse à l'administration fiscale, à des fins statistiques, au titre
+de chaque année, avant le 30 avril de l'année suivante et dans des conditions
+définies par arrêté conjoint des ministres chargés de l'économie et du budget,
+un état récapitulatif des sociétés financées, des titres détenus ainsi que des
+montants investis durant l'année. Les informations qui figurent sur cet état
+sont celles arrêtées au 31 décembre de l'année.
+
 II. Les versements ouvrant droit à la réduction d'impôt mentionnée au I sont
 ceux effectués jusqu'au 31 décembre 2012. Ils sont retenus dans la limite
 annuelle de 20 000 euros pour les contribuables célibataires, veufs ou divorcés
@@ -78,7 +130,7 @@ et à 100 000 € pour les contribuables mariés soumis à imposition commune po
 les souscriptions ouvrant droit à la réduction d'impôt mentionnée au I au
 capital initial ou aux augmentations de capital des sociétés vérifiant les
 conditions mentionnées au I du présent article, aux 2° et 3° du II de l'article
-239 bis AB et aux f et g du 1 du I de l'article 885-0 V bis.
+239 bis AB et aux b et c du VI quinquies.
 
 Le second alinéa du II n'est pas applicable au titre des souscriptions
 mentionnées au premier alinéa.
@@ -91,18 +143,7 @@ laquelle le contribuable entend bénéficier de la réduction d'impôt dans la
 limite prévue au II ne peut ouvrir droit à la réduction d'impôt dans la limite
 prévue au II bis, et inversement.
 
-III. Les souscriptions donnant lieu aux déductions prévues au 2° quater de
-l'article 83, et à l'article 163 duovicies ou aux réductions d'impôt prévues aux
-articles 199 undecies A et 199 unvicies ainsi que les souscriptions financées au
-moyen de l'aide financière de l'Etat exonérée en application du 35° de l'article
-81 et les souscriptions au capital de sociétés uni-personnelles d'investissement
-à risque visées à l'article 208 D n'ouvrent pas droit à la réduction d'impôt
-mentionnée au I.
-
-Les actions ou parts dont la souscription a ouvert droit à la réduction d'impôt
-ne peuvent pas figurer dans un plan d'épargne en actions défini à l'article 163
-quinquies D ou dans un plan d'épargne prévu au chapitre III du titre IV du livre
-IV du code du travail.
+III. Abrogé.
 
 IV. Les dispositions du 5 du I de l'article 197 sont applicables.
 
@@ -114,17 +155,20 @@ société mentionnée au premier alinéa du 3° du I cède les parts ou actions 
 en contrepartie de sa souscription au capital de sociétés vérifiant l'ensemble
 des conditions prévues au 2° et prises en compte pour le bénéfice de la
 réduction d'impôt sur le revenu. Les mêmes dispositions s'appliquent en cas de
-remboursement des apports en numéraire aux souscripteurs.
+remboursement des apports aux souscripteurs avant le 31 décembre de la dixième
+année suivant celle de la souscription.
 
 Les dispositions du deuxième alinéa ne s'appliquent pas en cas de licenciement,
 d'invalidité correspondant au classement dans la deuxième ou la troisième des
-catégories prévues à l'article L. 341-4 du code de la sécurité sociale ou du
-décès du contribuable ou de l'un des époux soumis à une imposition commune. Il
-en est de même en cas de donation à une personne physique des titres reçus en
-contrepartie de la souscription au capital de la société si le donataire reprend
-l'obligation de conservation des titres transmis prévue au deuxième alinéa.A
-défaut, la reprise de la réduction d'impôt sur le revenu obtenue est effectuée
-au nom du donateur.
+catégories prévues à l'article L. 341-4 du code de la sécurité sociale, du décès
+du contribuable ou de l'un des époux soumis à une imposition commune ou de la
+liquidation judiciaire de la société. Il en est de même en cas de donation à une
+personne physique des titres reçus en contrepartie de la souscription au capital
+de la société si le donataire reprend l'obligation de conservation des titres
+transmis prévue au deuxième alinéa et s'il ne bénéficie pas du remboursement des
+apports avant le terme mentionné à la dernière phrase du même alinéa.A défaut,
+la reprise de la réduction d'impôt sur le revenu obtenue est effectuée au nom du
+donateur.
 
 Lorsque le contribuable opte pour l'exonération mentionnée au 7 du III de
 l'article 150-0 A, une reprise des réductions d'impôt obtenues pour cette même
@@ -134,10 +178,10 @@ V. Un décret fixe les modalités d'application du présent article, notamment l
 obligations déclaratives incombant aux contribuables et aux sociétés.
 
 VI. 1. Les contribuables domiciliés fiscalement en France peuvent bénéficier
-d'une réduction de leur impôt sur le revenu égale à 25 % des souscriptions en
-numéraire de parts de fonds communs de placement dans l'innovation mentionnés à
-l'article L. 214-41 du code monétaire et financier lorsque les conditions
-suivantes sont remplies :
+d'une réduction de leur impôt sur le revenu égale à 25 % des versements
+effectués au titre de souscriptions en numéraire de parts de fonds communs de
+placement dans l'innovation mentionnés à l'article L. 214-41 du code monétaire
+et financier lorsque les conditions suivantes sont remplies :
 
 a. les personnes physiques prennent l'engagement de conserver les parts de
 fonds, pendant cinq ans au moins à compter de leur souscription ;
@@ -161,10 +205,14 @@ du 30 décembre 2009 de finances pour 2010 et à hauteur de 100 % au plus tard l
 dernier jour du huitième mois suivant.
 
 2. Les versements ouvrant droit à la réduction d'impôt mentionnée au 1 sont ceux
-effectués jusqu'au 31 décembre 2010. Les versements sont retenus dans les
-limites annuelles de 12 000 euros pour les contribuables célibataires, veufs ou
-divorcés et de 24 000 euros pour les contribuables mariés soumis à imposition
-commune.
+effectués jusqu'au 31 décembre 2012. Ils sont retenus, après imputation des
+droits ou frais d'entrée, dans les limites annuelles de 12 000 euros pour les
+contribuables célibataires, veufs ou divorcés et de 24 000 euros pour les
+contribuables mariés soumis à imposition commune.
+
+2 bis. Un décret fixe les conditions dans lesquelles les porteurs de parts sont
+informés annuellement du montant détaillé des frais et commissions, directs et
+indirects, qu'ils supportent et celles dans lesquelles ces frais sont encadrés.
 
 3. Les réductions d'impôt obtenues font l'objet d'une reprise au titre de
 l'année au cours de laquelle le fonds ou le contribuable cesse de remplir les
@@ -176,14 +224,20 @@ troisième des catégories prévues à l'article L. 341-4 du code de la sécurit
 sociale ou de décès du contribuable ou de l'un des époux soumis à une imposition
 commune.
 
-VI bis.-Les dispositions du 1 et du 3 du VI s'appliquent aux souscriptions en
-numéraire de parts de fonds d'investissement de proximité mentionnés à l'article
-L. 214-41-1 du code monétaire et financier. Les versements ouvrant droit à la
-réduction d'impôt sont ceux effectués jusqu'au 31 décembre 2010. Ils sont
-retenus dans les limites annuelles de 12 000 euros pour les contribuables
-célibataires, veufs ou divorcés et de 24 000 euros pour les contribuables mariés
-soumis à imposition commune. Les réductions d'impôt prévues au VI et au VI bis
-sont exclusives l'une de l'autre pour les souscriptions dans un même fonds.
+4. Le présent VI ne s'applique pas aux parts de fonds communs de placement dans
+l'innovation donnant lieu à des droits différents sur l'actif net ou sur les
+produits du fonds, attribuées en fonction de la qualité de la personne.
+
+VI bis.-Les dispositions du 1, du 2 bis et du 3 du VI s'appliquent aux
+versements effectués au titre de souscriptions en numéraire de parts de fonds
+d'investissement de proximité mentionnés à l'article L. 214-41-1 du code
+monétaire et financier. Les versements ouvrant droit à la réduction d'impôt sont
+ceux effectués jusqu'au 31 décembre 2012. Ils sont retenus, après imputation des
+droits ou frais d'entrée, dans les limites annuelles de 12 000 euros pour les
+contribuables célibataires, veufs ou divorcés et de 24 000 euros pour les
+contribuables mariés soumis à imposition commune. Les réductions d'impôt prévues
+au VI et au VI bis sont exclusives l'une de l'autre pour les souscriptions dans
+un même fonds.
 
 Les présentes dispositions ne s'appliquent pas aux parts de fonds
 d'investissement de proximité donnant lieu à des droits différents sur l'actif
@@ -191,24 +245,82 @@ net ou sur les produits du fonds, attribuées en fonction de la qualité de la
 personne.
 
 VI ter.-Les contribuables domiciliés fiscalement en France peuvent bénéficier
-d'une réduction de leur impôt sur le revenu égale à 50 % des souscriptions en
-numéraire de parts de fonds d'investissement de proximité, mentionnés à
-l'article L. 214-41-1 du code monétaire et financier, dont l'actif est constitué
-pour 60 % au moins de valeurs mobilières, parts de société à responsabilité
-limitée et avances en compte courant émises par des sociétés qui exercent leurs
-activités exclusivement dans des établissements situés en Corse.
+d'une réduction de leur impôt sur le revenu égale à 50 % des versements
+effectués au titre de souscriptions en numéraire de parts de fonds
+d'investissement de proximité, mentionnés à l'article L. 214-41-1 du code
+monétaire et financier, dont l'actif est constitué pour 60 % au moins de valeurs
+mobilières, parts de société à responsabilité limitée et avances en compte
+courant émises par des sociétés qui exercent leurs activités exclusivement dans
+des établissements situés en Corse.
 
-Les dispositions des a à c du 1 et du 3 du VI sont applicables.
+Les dispositions du 1, du 2 bis et du 3 du VI sont applicables.
 
 Les versements ouvrant droit à réduction d'impôt sont ceux effectués jusqu'au 31
-décembre 2010. Ils sont retenus dans les limites annuelles de 12 000 euros pour
-les contribuables célibataires, veufs ou divorcés et de 24 000 euros pour les
-contribuables mariés soumis à imposition commune. Les réductions d'impôts
-prévues aux VI, VI bis et au présent VI ter sont exclusives les unes des autres
-pour les souscriptions dans un même fonds. Les présentes dispositions ne
-s'appliquent pas aux parts de fonds d'investissement de proximité donnant lieu à
-des droits différents sur l'actif net ou sur les produits du fonds, attribuées
-en fonction de la qualité de la personne.
+décembre 2012. Ils sont retenus, après imputation des droits ou frais d'entrée,
+dans les limites annuelles de 12 000 euros pour les contribuables célibataires,
+veufs ou divorcés et de 24 000 euros pour les contribuables mariés soumis à
+imposition commune. Les réductions d'impôts prévues aux VI, VI bis et au présent
+VI ter sont exclusives les unes des autres pour les souscriptions dans un même
+fonds. Les présentes dispositions ne s'appliquent pas aux parts de fonds
+d'investissement de proximité donnant lieu à des droits différents sur l'actif
+net ou sur les produits du fonds, attribuées en fonction de la qualité de la
+personne.
+
+VI quater.-Les réductions d'impôt mentionnées aux I, VI, VI bis et VI ter ne
+s'appliquent pas aux titres figurant dans un plan d'épargne en actions mentionné
+à l'article 163 quinquies D ou dans un plan d'épargne salariale mentionné au
+titre III du livre III de la troisième partie du code du travail, ni à la
+fraction des versements effectués au titre de souscriptions ayant ouvert droit
+aux réductions d'impôt prévues aux f, g ou h du 2 de l'article 199 undecies A,
+aux articles 199 undecies B,199 terdecies-0 B,199 unvicies,199 quatervicies ou
+885-0 V bis du présent code. La fraction des versements effectués au titre de
+souscriptions donnant lieu aux déductions prévues aux 2° quater et 2° quinquies
+de l'article 83 n'ouvre pas droit à ces réductions d'impôt.
+
+Les souscriptions réalisées par un contribuable au capital d'une société dans
+les douze mois suivant le remboursement, total ou partiel, par cette société de
+ses apports précédents n'ouvrent pas droit à la réduction d'impôt mentionnée au
+I du présent article.
+
+Les souscriptions réalisées au capital d'une société holding animatrice ouvrent
+droit à l'avantage fiscal mentionné au I lorsque la société est constituée et
+contrôle au moins une filiale depuis au moins douze mois. Pour l'application du
+présent alinéa, une société holding animatrice s'entend d'une société qui, outre
+la gestion d'un portefeuille de participations, participe activement à la
+conduite de la politique de leur groupe et au contrôle de leurs filiales et rend
+le cas échéant et à titre purement interne des services spécifiques,
+administratifs, juridiques, comptables, financiers et immobiliers.
+
+VI quinquies.-Le bénéfice des I à II ter, VI, VI bis et VI ter est subordonné au
+respect, selon le cas par les sociétés bénéficiaires des versements mentionnées
+au 1 du I ou par les sociétés éligibles au quota mentionné au I de l'article L.
+214-41 du code monétaire et financier ou au 1 de l'article L. 214-41-1 du même
+code, du règlement (CE) n° 1998/2006 de la Commission, du 15 décembre 2006,
+concernant l'application des articles 87 et 88 du traité CE aux aides de minimis
+ou du règlement (CE) n° 1535/2007 de la Commission, du 20 décembre 2007,
+concernant l'application des articles 87 et 88 du traité CE aux aides de minimis
+dans le secteur de la production de produits agricoles. Toutefois, cette
+disposition n'est pas applicable lorsque les conditions suivantes sont
+cumulativement satisfaites par les sociétés mentionnées à la phrase précédente :
+
+a) La société répond à la condition prévue au e du 2° du I du présent article ;
+
+b) La société est en phase d'amorçage, de démarrage ou d'expansion au sens des
+lignes directrices communautaires concernant les aides d'Etat visant à
+promouvoir les investissements en capital-investissement dans les petites et
+moyennes entreprises (2006/ C 194/02) ;
+
+c) La société n'est pas qualifiable d'entreprise en difficulté au sens des
+lignes directrices communautaires concernant les aides d'Etat au sauvetage et à
+la restructuration d'entreprises en difficulté (2004/ C 244/02) et ne relève pas
+des secteurs de la construction navale, de l'industrie houillère ou de la
+sidérurgie ;
+
+d) Les versements au titre de souscriptions mentionnés au 1° du I n'excèdent
+pas, par entreprise cible, un montant fixé par décret et qui ne peut dépasser le
+plafond autorisé par la Commission européenne s'agissant des aides d'Etat visant
+à promouvoir les investissements en capital-investissement dans les petites et
+moyennes entreprises ou les entreprises innovantes.
 
 VII. Un décret fixe les modalités d'application du VI et du VI bis, notamment
 les obligations déclaratives incombant aux porteurs de parts ainsi qu'aux

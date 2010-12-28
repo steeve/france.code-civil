@@ -78,10 +78,11 @@ au 1 de l'article 92.
 Les revenus exonérés en application de l'article 81 quater sont retenus pour
 l'appréciation du montant des revenus définis au a.
 
-Les revenus exonérés en application des articles 44 sexies à 44 undecies ou du 9
-de l'article 93 sont retenus pour l'appréciation du montant des revenus définis
-aux c, d et e. Il n'est pas tenu compte des déficits des années antérieures
-ainsi que des plus-values et moins-values professionnelles à long terme.
+Les revenus exonérés en application des articles 44 sexies à 44 undecies , 44
+terdecies à 44 quindecies ou du 9 de l'article 93 sont retenus pour
+l'appréciation du montant des revenus définis aux c, d et e. Il n'est pas tenu
+compte des déficits des années antérieures ainsi que des plus-values et
+moins-values professionnelles à long terme.
 
 Pour l'appréciation du montant des revenus définis aux c et e, les revenus
 soumis aux versements libératoires prévus par l'article 151-0 sont retenus pour

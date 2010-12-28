@@ -17,7 +17,7 @@ en vue de lutter contre la fraude et l'évasion fiscales et qui seraient imposé
 dans les conditions prévues au 5 de l'article 206 s'ils avaient leur siège en
 France ;
 
--18 % pour les revenus de la nature de ceux éligibles à l'abattement prévu au 2°
+-19 % pour les revenus de la nature de ceux éligibles à l'abattement prévu au 2°
 du 3 de l'article 158 lorsqu'ils bénéficient à des personnes physiques qui ont
 leur domicile fiscal hors de France dans un Etat membre de la Communauté
 européenne ou dans un autre Etat partie à l'accord sur l'Espace économique

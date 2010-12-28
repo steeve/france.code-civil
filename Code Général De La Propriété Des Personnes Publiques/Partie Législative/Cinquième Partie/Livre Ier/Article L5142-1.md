@@ -20,10 +20,11 @@ articles L. 221-1 et L. 221-2 du code de l'urbanisme, à condition que les biens
 soient libres de toute occupation ou ne soient pas confiés en gestion à des
 tiers. La superficie globale cédée en une ou plusieurs fois ne peut excéder sur
 chaque commune une superficie de référence égale à dix fois la superficie des
-parties agglomérées de la commune de situation des biens cédés à la date de la
-première cession gratuite. Lorsque les cessions gratuites sont consenties à un
-autre acquéreur que la commune, elles doivent faire l'objet d'un accord
-préalable de la commune de situation des biens cédés.
+parties agglomérées de la commune de situation des biens cédés pour chaque
+période de dix années à compter de la date de la première cession gratuite.
+Lorsque les cessions gratuites sont consenties à un autre acquéreur que la
+commune, elles doivent faire l'objet d'un accord préalable de la commune de
+situation des biens cédés.
 
 Peuvent également être cédés gratuitement aux collectivités territoriales et à
 leurs groupements les immeubles dépendant du domaine privé de l'Etat dont

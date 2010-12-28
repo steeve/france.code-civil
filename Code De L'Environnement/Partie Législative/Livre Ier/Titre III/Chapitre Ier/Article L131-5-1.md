@@ -12,6 +12,5 @@ vers une telle installation située dans un autre Etat ;
 raison des quantités de poussières totales en suspension émises dans
 l'atmosphère ;
 
-3° De la fraction due par les redevables autres que ceux mentionnés aux 1° et 2°
-du présent article, à concurrence de 363 millions d'euros en 2009, 445 millions
-d'euros en 2010 et 441 millions d'euros en 2011.
+3° D'une fraction due par les redevables autres que ceux mentionnés aux 1° et
+2°.

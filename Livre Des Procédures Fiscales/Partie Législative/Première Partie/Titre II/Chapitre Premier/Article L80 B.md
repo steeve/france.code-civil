@@ -19,7 +19,7 @@ a. Disposition devenue sans objet ;
 b. a notifié à l'administration sa volonté de bénéficier des dispositions des
 articles 39 AB, 39 AC, 39 quinquies A, 39 quinquies D, 39 quinquies DA ou des
 articles 39 quinquies E, 39 quinquies F, 39 quinquies FA, 39 quinquies FC, 44
-sexies ou 44 octies A du code général des impôts.
+sexies, 44 octies A ou 44 quindecies du code général des impôts.
 
 La notification doit être préalable à l'opération en cause et effectuée à partir
 d'une présentation écrite précise et complète de la situation de fait.

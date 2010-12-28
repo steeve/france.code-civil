@@ -19,17 +19,19 @@ Le bénéfice de l'exonération est réservé aux contribuables exerçant une ac
 industrielle, commerciale ou artisanale au sens de l'article 34 et du 5° du I de
 l'article 35, à l'exception des activités de crédit-bail mobilier et de location
 d'immeubles à usage d'habitation, ou agricole au sens de l'article 63, dans les
-conditions et limites fixées par le présent article.L'exonération s'applique
+conditions et limites fixées par le présent article. L'exonération s'applique
 dans les mêmes conditions et limites aux sociétés soumises à l'impôt sur les
 sociétés exerçant une activité professionnelle non commerciale au sens du 1 de
-l'article 92. L'exonération ne s'applique pas aux créations d'activité dans les
-zones de restructuration de la défense consécutives au transfert d'une activité
+l'article 92.
+
+L'exonération ne s'applique pas aux créations d'activité dans les zones de
+restructuration de la défense consécutives au transfert d'une activité
 précédemment exercée par un contribuable ayant bénéficié au titre d'une ou
 plusieurs des cinq années précédant celle du transfert des articles 44 sexies,
-44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies et 44
-duodecies, de la prime d'aménagement du territoire, de la prime d'aménagement du
-territoire pour l'industrie et les services ou de la prime d'aménagement du
-territoire pour la recherche, le développement et l'innovation.
+44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies, 44
+duodecies et 44 quindecies, de la prime d'aménagement du territoire, de la prime
+d'aménagement du territoire pour l'industrie et les services ou de la prime
+d'aménagement du territoire pour la recherche, le développement et l'innovation.
 
 L'exonération ne s'applique pas aux contribuables qui créent une activité dans
 le cadre d'un transfert, d'une concentration ou d'une restructuration
@@ -89,12 +91,12 @@ location d'immeubles n'est exonéré qu'à raison des bénéfices provenant des 
 immeubles situés dans une zone de restructuration de la défense. Cette
 disposition s'applique quel que soit le lieu d'établissement du bailleur.
 
-Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998
-/ 2006 de la Commission du 15 décembre 2006 concernant l'application des
+Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n°
+1998/2006 de la Commission du 15 décembre 2006 concernant l'application des
 articles 87 et 88 du traité aux aides de minimis. Toutefois, sur option des
 entreprises qui procèdent aux opérations mentionnées au I dans une zone d'aide à
 finalité régionale, le bénéfice de l'exonération est subordonné au respect de
-l'article 13 du règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008
+l'article 13 du règlement (CE) n° 800/2008 de la Commission du 6 août 2008
 déclarant certaines catégories d'aides compatibles avec le marché commun en
 application des articles 87 et 88 du traité (règlement général d'exemption par
 catégorie).
@@ -110,9 +112,9 @@ d'ensemble du groupe.
 
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de
 l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 septies, 44
-octies A ou 44 duodecies et du régime prévu au présent article, le contribuable
-peut opter pour ce dernier régime dans les six mois suivant celui du début
-d'activité.L'option est irrévocable.
+octies A, 44 duodecies ou 44 quindecies et du régime prévu au présent article,
+le contribuable peut opter pour ce dernier régime dans les six mois suivant
+celui du début d'activité. L'option est irrévocable.
 
 IV. ― Les obligations déclaratives des personnes et organismes concernés par
 l'exonération prévue au présent article sont fixées par décret.

@@ -20,8 +20,10 @@ produit. Son produit est majoré de la somme correspondant aux exonérations don
 ont bénéficié, en application de l'article 1394 du code général des impôts, les
 terrains des universités et les terrains affectés aux armées ainsi que, dans la
 mesure où elles sont compensées par l'Etat, des sommes correspondant aux
-exonérations sur les propriétés non bâties prévues à l'article 1586 D du même
-code ;
+exonérations sur les propriétés non bâties classées dans les première, deuxième,
+troisième, quatrième, cinquième, sixième, huitième et neuvième catégories
+définies à l'article 18 de l'instruction ministérielle du 31 décembre 1908, non
+exonérées en application des articles 1395 à 1395 B du même code ;
 
 3° La taxe d'habitation majorée de la somme correspondant aux exonérations
 permanentes dont ont bénéficié, en application de l'article 1408 du code général

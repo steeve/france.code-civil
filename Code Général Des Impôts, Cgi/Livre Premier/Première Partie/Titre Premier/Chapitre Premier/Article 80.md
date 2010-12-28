@@ -15,4 +15,6 @@ Sont également imposées comme des traitements et salaires les rémunérations
 perçues par les dirigeants d'organismes mentionnés au troisième alinéa du d du
 1° du 7 de l'article 261 lorsque le versement de ces rémunérations s'effectue
 dans le respect des conditions prévues par les troisième à dixième alinéas du d
-du 1° du 7 de l'article 261.
+du 1° du 7 de l'article 261. Sont également imposées comme des traitements et
+salaires les indemnités, au-delà d'un million d'euros, perçues au titre du
+préjudice moral fixées par décision de justice.

@@ -50,4 +50,7 @@ d) Produits antiparasitaires, sous réserve qu'ils aient fait l'objet soit d'une
 homologation, soit d'une autorisation de vente délivrée par le ministre chargé
 de l'agriculture ;
 
-6° Livres, y compris leur location.
+6° Livres, y compris leur location. Dans le cas des opérations dont le fait
+générateur intervient à compter du 1er janvier 2012, cette disposition
+s'applique aux livres sur tout type de support physique, y compris ceux fournis
+par téléchargement.

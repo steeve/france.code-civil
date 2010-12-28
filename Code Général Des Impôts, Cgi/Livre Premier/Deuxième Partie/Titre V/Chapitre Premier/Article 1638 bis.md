@@ -1,11 +1,11 @@
 Article 1638 bis
 ----
-I. Chaque commune membre d'un syndicat d'agglomération nouvelle visé à l'article
-1609 nonies B peut décider d'appliquer la procédure d'intégration fiscale
-progressive prévue à l'article 1638, afin de réduire les écarts de taux de taxe
-d'habitation ou de l'une des taxes foncières constatés l'année précédant la
-constitution du nouveau syndicat entre la zone d'agglomération nouvelle et la
-portion de son territoire située hors de cette zone.
+I. Chaque commune membre d'un syndicat d'agglomération nouvelle peut décider
+d'appliquer la procédure d'intégration fiscale progressive prévue à l'article
+1638, afin de réduire les écarts de taux de taxe d'habitation ou de l'une des
+taxes foncières constatés l'année précédant la constitution du nouveau syndicat
+entre la zone d'agglomération nouvelle et la portion de son territoire située
+hors de cette zone.
 
 Toutefois, cette procédure doit être précédée d'une homogénéisation des
 abattements pratiqués en matière de calcul de la taxe d'habitation.
@@ -15,14 +15,4 @@ différents peuvent être appliqués pour l'établissement des dix premiers budg
 Les différences qui affectent les taux d'imposition appliqués sont réduites
 chaque année d'un onzième et supprimées à partir de la onzième année.
 
-II. Le syndicat d'agglomération nouvelle visé à l'article 1609 nonies B peut
-décider de réduire progressivement les écarts de taux de taxe professionnelle
-constatés l'année précédant la mise en application de l'article 1609 nonies B
-entre d'une part, le taux pratiqué en zone d'agglomération nouvelle et les taux
-des territoires des communes membres situés hors zone d'agglomération nouvelle
-et, d'autre part, le taux moyen pondéré de référence qui aurait été applicable à
-l'organisme d'agglomération nouvelle compte tenu notamment des dotations de
-référence visées à l'article L. 5334-6 du code général des collectivités
-territoriales. Cette réduction des écarts de taux s'effectue à raison d'un
-onzième par année pendant dix ans. Dans ce cas les dispositions de l'article
-1638 ne sont pas applicables.
+II. Abrogé.

@@ -65,8 +65,9 @@ XIV.-Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement 
 2 % sur le montant de la taxe mentionnée à l'article 1011 bis.
 
 XV.-L'Etat perçoit au titre des frais d'assiette, de recouvrement, de
-dégrèvements et de non-valeurs un prélèvement de 1 % en sus du montant, après
-application de l'article 1586 quater.
+dégrèvements et de non-valeurs un prélèvement de 1 % en sus du montant de la
+cotisation sur la valeur ajoutée des entreprises, après application de l'article
+1586 quater.
 
 XVI.-Pour frais de recouvrement, l'Etat prélève 1 % des sommes recouvrées au
 titre de la contribution de supervision pour le compte de la Banque de France

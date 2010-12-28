@@ -15,10 +15,21 @@ les impositions mentionnées aux a, b et e, qu'elles aient été régulièrement
 déclarées, les impositions à prendre en compte pour la détermination du droit à
 restitution sont :
 
-a) l'impôt sur le revenu dû au titre des revenus mentionnés au 4 ;
-
-b) l'impôt de solidarité sur la fortune établi au titre de l'année qui suit
-celle de la réalisation des revenus mentionnés au 4 ;
+a) l'impôt sur le revenu dû au titre des revenus mentionnés au 4, à l'exception
+de la fraction supplémentaire d'impôt résultant de l'augmentation de 40 % à 41 %
+du taux prévu au dernier alinéa du 1 du I de l'article 197 et du taux prévu à la
+première phrase du premier alinéa du 6 de l'article 200 A, de l'augmentation de
+18 % à 19 % du taux prévu au premier alinéa du 1 du I de l'article 117 quater,
+au premier alinéa du 1°, au 1° bis, au premier alinéa du 6°, au 7°, aux premier
+et second alinéas du 8° et au premier alinéa du 9° du III bis de l'article 125
+A, au premier alinéa du I de l'article 125 C, au quatrième alinéa du 1 de
+l'article 187 et au 2 de l'article 200 A, ainsi que de l'augmentation de 16 % à
+19 % du taux prévu à la fin de la première phrase du premier alinéa de l'article
+200 B ; L'impôt sur le revenu défini à l'alinéa précédent est retenu pour un
+montant calculé sans appliquer la diminution de 10 % de certains avantages
+fiscaux prévus au I de l'article 105 de la loi n° 2010-1657 du 29 décembre 2010
+de finances pour 2011. b) l'impôt de solidarité sur la fortune établi au titre
+de l'année qui suit celle de la réalisation des revenus mentionnés au 4 ;
 
 c) la taxe foncière sur les propriétés bâties et la taxe foncière sur les
 propriétés non bâties, établies au titre de l'année qui suit celle de la
@@ -41,8 +52,9 @@ du code de la sécurité sociale et à l'article 15 de l'ordonnance n° 96-50 du
 janvier 1996 relative au remboursement de la dette sociale, ainsi que les
 contributions additionnelles à ces prélèvements, prévues au 2° de l'article L.
 14-10-4 et au III de l'article L. 262-24 du code de l'action sociale et des
-familles, sur les revenus du patrimoine compris dans les revenus mentionnés au 4
-;
+familles, sur les revenus du patrimoine compris dans les revenus mentionnés au
+4. Le prélèvement prévu à l'article L. 245-14 du code de la sécurité sociale est
+retenu dans la limite du taux de 2 % ;
 
 f) Les contributions et prélèvements, prévus aux articles L. 136-1 à L. 136-5,
 L. 136-7 et L. 245-15 du code de la sécurité sociale et aux articles 14 et 16 de
@@ -50,11 +62,18 @@ l'ordonnance n° 96-50 du 24 janvier 1996 précitée, ainsi que les contribution
 additionnelles à ces prélèvements, prévues au 2° de l'article L. 14-10-4 et au
 III de l'article L. 262-24 du code de l'action sociale et des familles, sur les
 revenus d'activité et de remplacement et les produits de placement compris dans
-les revenus mentionnés au 4.
+les revenus mentionnés au 4. Le prélèvement prévu à l'article L. 245-15 du code
+de la sécurité sociale est retenu dans la limite du taux de 2 %.
 
-3. Les impositions mentionnées au 2 sont diminuées des restitutions de l'impôt
-sur le revenu perçues ou des dégrèvements obtenus au cours de l'année suivant
-celle de la réalisation des revenus mentionnés au 4.
+3. Les impositions mentionnées au 2 sont diminuées : Les restitutions et les
+dégrèvements d'impôt sont retenus pour des montants calculés sans appliquer la
+diminution de 10 % de certains avantages fiscaux prévus au I de l'article 105 de
+la loi n° 2010-1657 du 29 décembre 2010 précitée. a) De la restitution prévue au
+III bis de l'article L. 136-7 du code de la sécurité sociale perçue au cours de
+l'année de la réalisation des revenus mentionnés au 4 ;
+
+b) Des restitutions de l'impôt sur le revenu perçues ou des dégrèvements obtenus
+au cours de l'année suivant celle de la réalisation des revenus mentionnés au 4.
 
 Lorsque les impositions mentionnées au c du 2 sont établies au nom des sociétés
 et groupements non soumis à l'impôt sur les sociétés dont le contribuable est
@@ -89,17 +108,17 @@ articles 150 U à 150 UC sont retenues dans les conditions prévues aux articles
 l'abattement prévu au 1 de l'article 50-0 ou de la réfaction forfaitaire prévue
 au 1 de l'article 102 ter. Par dérogation au premier alinéa du présent 4, les
 revenus soumis à l'impôt sur le revenu, sur option du contribuable, selon une
-base moyenne, notamment en application des articles 75-0 B, 84 A ou 100 bis, ou
-fractionnée, notamment en application des articles 75-0 A, 163 A ou 163 bis,
-sont pris en compte, pendant la période d'application de ces dispositions, pour
-le montant ayant effectivement supporté l'impôt au titre de chaque année ;
+base moyenne, notamment en application des articles 75-0 B,84 A ou 100 bis, ou
+fractionnée, notamment en application des articles 75-0 A,163 A ou 163 bis, sont
+pris en compte, pendant la période d'application de ces dispositions, pour le
+montant ayant effectivement supporté l'impôt au titre de chaque année ;
 
 b) Des produits soumis à un prélèvement libératoire ;
 
 c) Des revenus exonérés d'impôt sur le revenu réalisés au cours de la même année
 en France ou hors de France, à l'exception des plus-values mentionnées aux II et
-III de l'article 150 U et des prestations mentionnées aux 2°, 2° bis, 9°, 9° ter
-et 33° bis de l'article 81. Lorsqu'un contribuable précédemment domicilié à
+III de l'article 150 U et des prestations mentionnées aux 2°,2° bis,9°,9° ter et
+33° bis de l'article 81. Lorsqu'un contribuable précédemment domicilié à
 l'étranger transfère son domicile en France, les revenus réalisés hors de France
 et exonérés d'impôt sur le revenu ne sont pris en compte pour la détermination
 du droit à restitution que du jour de ce transfert.
@@ -123,19 +142,26 @@ application du 4.
 d) Des impositions équivalentes à celles mentionnées aux a, e et f du 2 lorsque
 celles-ci ont été payées à l'étranger.
 
-6. Les revenus des comptes d'épargne-logement mentionnés aux articles L. 315-1 à
-L. 315-6 du code de la construction et de l'habitation, des plans d'épargne
-populaire et des comptes épargne d'assurance pour la forêt mentionnés
-respectivement aux 22° et 23° de l'article 157 ainsi que des bons ou contrats de
-capitalisation et des placements de même nature, autres que ceux en unités de
-compte, sont réalisés, pour l'application du 4, à la date de leur inscription en
-compte.
+6. Pour l'application du 4 :
 
-7. Les gains retirés des cessions de valeurs mobilières, droits sociaux et
-titres assimilés qui n'excèdent pas le seuil fixé par le 1 du I de l'article
-150-0 A sont pris en compte pour leur montant net soumis à la contribution
-sociale généralisée en application du I de l'article L. 136-6 du code de la
-sécurité sociale.
+a) Les revenus des comptes d'épargne-logement mentionnés aux articles L. 315-1 à
+L. 315-6 du code de la construction et de l'habitation, des comptes d'épargne
+d'assurance pour la forêt mentionnés au 23° de l'article 157 du présent code
+ainsi que les revenus des plans d'épargne populaire mentionnés au 22° du même
+article, autres que ceux exprimés en unités de compte, sont réalisés à la date
+de leur inscription en compte ;
+
+b) Les revenus des plans d'épargne populaire mentionnés au 22° de l'article 157
+du présent code exprimés en unités de compte s'entendent de ceux soumis à la
+contribution sociale généralisée dans les conditions prévues au 4° du II de
+l'article L. 136-7 du code de la sécurité sociale ;
+
+c) Les revenus des bons ou contrats de capitalisation et des placements de même
+nature mentionnés à l'article 125-0 A du présent code s'entendent de ceux soumis
+à la contribution sociale généralisée dans les conditions prévues au 3° du II de
+l'article L. 136-7 du code de la sécurité sociale.
+
+7. (Abrogé)
 
 8. Les demandes de restitution doivent être déposées avant le 31 décembre de la
 deuxième année suivant celle de la réalisation des revenus mentionnés au 4. Les

@@ -92,4 +92,5 @@ abondement supplémentaire de 12 millions d'euros réparti entre les départemen
 en fonction du rapport entre le nombre de sapeurs-pompiers volontaires au sein
 du corps départemental de chaque département au 31 décembre 2003 et le nombre de
 sapeurs-pompiers volontaires présents dans les corps départementaux au niveau
-national à cette même date.
+national à cette même date. En 2011, le montant de la dotation de compensation
+est égal, pour chaque département, au montant perçu en 2010.

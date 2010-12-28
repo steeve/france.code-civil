@@ -12,7 +12,7 @@ hasard et d'argent ;
 
 b. l'agriculture ainsi que la transformation ou la commercialisation de produits
 agricoles, sauf lorsque le contribuable peut bénéficier des aides à
-l'investissement au titre du règlement (CE) n° 1257 / 1999 du Conseil, du 17 mai
+l'investissement au titre du règlement (CE) n° 1257/1999 du Conseil, du 17 mai
 1999, concernant le soutien au développement rural par le Fonds européen
 d'orientation et de garantie agricole (FEOGA) et modifiant et abrogeant certains
 règlements, la production ou la transformation de houille et lignite, la
@@ -77,8 +77,8 @@ commun.
 II.-Les dispositions du présent article s'appliquent sur option de l'entreprise
 à compter du premier jour de l'exercice ou de l'année au titre duquel elle est
 exercée. Cette option emporte renonciation au bénéfice des régimes prévus aux
-articles 44 sexies,44 sexies A,44 septies,208 sexies et 208 quater A. Elle est
-irrévocable.
+articles 44 sexies, 44 sexies A, 44 septies, 44 quindecies, 208 sexies et 208
+quater A. Elle est irrévocable.
 
 Lorsque les investissements sont réalisés par les sociétés soumises au régime
 d'imposition de l'article 8 ou par les groupements mentionnés aux articles 239
@@ -97,7 +97,7 @@ l'exercice ou de l'année où interviennent les événements précités.
 
 Toutefois, les dispositions de l'alinéa précédent ne sont pas applicables
 lorsque le bien est transmis dans le cadre d'opérations placées sous les régimes
-prévus aux articles 41,151 octies,210 A ou 210 B si le bénéficiaire de la
+prévus aux articles 41, 151 octies, 210 A ou 210 B si le bénéficiaire de la
 transmission s'engage à exploiter les biens en Corse dans le cadre d'une
 activité répondant aux conditions mentionnées au I pendant la fraction du délai
 de conservation restant à courir. L'engagement est pris dans l'acte constatant
@@ -109,7 +109,7 @@ d'imposition prévu à l'article 8 ou un groupement mentionné aux articles 239
 quater ou 239 quater C, les associés ou membres mentionnés au deuxième alinéa du
 II doivent, en outre, conserver les parts ou actions de cette société ou ce
 groupement pendant un délai de cinq ans à compter de la réalisation de
-l'investissement. A défaut, le crédit d'impôt qu'ils ont imputé fait l'objet
+l'investissement.A défaut, le crédit d'impôt qu'ils ont imputé fait l'objet
 d'une reprise au titre de l'exercice ou de l'année de la cession, du rachat ou
 de l'annulation de ces parts ou actions.
 
@@ -118,8 +118,8 @@ réalisés à compter du 1er janvier 2002 au cours d'un exercice clos à compter
 la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la
 Corse.
 
-V. - Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect de
-l'article 13 du règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008
+V.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect de
+l'article 13 du règlement (CE) n° 800/2008 de la Commission du 6 août 2008
 déclarant certaines catégories d'aides compatibles avec le marché commun en
 application des articles 87 et 88 du traité (Règlement général d'exemption par
 catégorie).

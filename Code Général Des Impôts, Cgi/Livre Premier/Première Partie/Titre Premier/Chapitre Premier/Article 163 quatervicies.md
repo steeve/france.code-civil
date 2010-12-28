@@ -45,9 +45,10 @@ des cotisations ou primes déductibles au titre du 1° du II de l'article 154 bi
 de l'article 154 bis-0 A et du 13° du II de l'article 156 compte non tenu de
 leur fraction correspondant à 15 % de la quote-part du bénéfice comprise entre
 une fois et huit fois le plafond mentionné à l'article L. 241-3 du code de la
-sécurité sociale, ainsi que des sommes versées par l'entreprise au plan
-d'épargne pour la retraite collectif défini aux articles L. 3334-1 à L. 3334-16
-du code du travail et exonérées en application du 18° de l'article 81.
+sécurité sociale, ainsi que des sommes versées par l'entreprise ou le salarié
+(1) au plan d'épargne pour la retraite collectif défini aux articles L. 3334-1 à
+L. 3334-16 du code du travail et exonérées en application du 18° de l'article
+81.
 
 Les membres d'un couple marié ou les partenaires liés par un pacte civil de
 solidarité défini à l'article 515-1 du code civil, soumis à imposition commune,
@@ -99,9 +100,9 @@ l'exercice d'une profession non commerciale mentionnés au 1 de l'article 92,
 pour leur montant imposable.
 
 Les revenus exonérés en application des articles 44 sexies à 44 undecies,44
-terdecies et 44 quaterdecies ou au 9 de l'article 93 ainsi que l'abattement
-prévu à l'article 73 B sont retenus pour l'appréciation du montant des revenus
-définis au premier alinéa. Sont également retenus les revenus imposés dans les
+terdecies à 44 quindecies ou au 9 de l'article 93 ainsi que l'abattement prévu à
+l'article 73 B sont retenus pour l'appréciation du montant des revenus définis
+au premier alinéa. Sont également retenus les revenus imposés dans les
 conditions prévues à l'article 151-0 pour leur montant diminué, selon le cas, de
 l'abattement prévu au 1 de l'article 50-0 ou de la réfaction forfaitaire prévue
 au 1 de l'article 102 ter. Il n'est pas tenu compte des plus-values et

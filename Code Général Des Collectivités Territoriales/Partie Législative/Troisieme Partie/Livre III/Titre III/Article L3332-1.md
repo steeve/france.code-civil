@@ -5,8 +5,9 @@ Les recettes fiscales de la section de fonctionnement comprennent :
 a) Le produit des impôts et taxes dont l'assiette est établie et le recouvrement
 a lieu dans les formes prévues par le code général des impôts, à savoir :
 
-1° La taxe foncière sur les propriétés bâties, la taxe foncière sur les
-propriétés non bâties, la taxe d'habitation et la taxe professionnelle ;
+1° La taxe foncière sur les propriétés bâties, la cotisation sur la valeur
+ajoutée des entreprises et l'imposition forfaitaire sur les entreprises de
+réseaux ;
 
 2° La redevance des mines ;
 
@@ -20,7 +21,9 @@ d'enregistrement ;
 6° La surtaxe sur les eaux minérales ;
 
 7° Le produit de la taxe destinée au financement des dépenses des conseils
-d'architecture, d'urbanisme et de l'environnement.
+d'architecture, d'urbanisme et de l'environnement ;
+
+8° Le reversement du Fonds national de garantie individuelle des ressources.
 
 b) Le produit des autres contributions et taxes prévues par la législation en
 vigueur, en particulier :

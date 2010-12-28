@@ -23,11 +23,12 @@ l'immeuble n'est pas achevé dans les deux ans suivant la date de l'achèvement
 des fondations, la somme déduite est rapportée au résultat imposable au titre de
 l'exercice au cours duquel intervient le terme de ce délai. La déduction
 s'applique également aux investissements réalisés par une société soumise au
-régime d'imposition prévu à l'article 8 ou un groupement mentionné aux articles
-239 quater ou 239 quater C, dont les parts sont détenues directement par des
-entreprises soumises à l'impôt sur les sociétés. Dans ce cas, la déduction est
-pratiquée par les associés ou membres dans une proportion correspondant à leurs
-droits dans la société ou le groupement.
+régime d'imposition prévu à l'article 8, à l'exclusion des sociétés en
+participation, ou un groupement mentionné aux articles 239 quater ou 239 quater
+C, dont les parts sont détenues directement par des entreprises soumises à
+l'impôt sur les sociétés. Dans ce cas, la déduction est pratiquée par les
+associés ou membres dans une proportion correspondant à leurs droits dans la
+société ou le groupement.
 
 La déduction prévue au premier alinéa ne s'applique qu'à la fraction du prix de
 revient des investissements réalisés par les entreprises qui excède le montant
@@ -46,7 +47,9 @@ La déduction prévue au premier alinéa s'applique à la réalisation
 d'investissements nécessaires à l'exploitation d'une concession de service
 public local à caractère industriel et commercial et réalisés dans des secteurs
 éligibles définis par ce même alinéa, quelles que soient la nature des biens et
-leur affectation finale.
+leur affectation finale. La déduction prévue au premier alinéa ne s'applique pas
+aux investissements portant sur des installations de production d'électricité
+utilisant l'énergie radiative du soleil.
 
 La déduction prévue au premier alinéa s'applique aux investissements mentionnés
 au premier alinéa du I ter de l'article 199 undecies B à hauteur de la moitié de
@@ -160,7 +163,7 @@ l'habitation ;
 3° Les trois quarts de l'avantage en impôt procuré par la déduction pratiquée au
 titre de l'acquisition ou la construction de l'immeuble sont rétrocédés à la
 personne physique signataire du contrat mentionné au 1° sous forme de diminution
-de la redevance prévue à l' article 5 de la loi n° 84-595 du 12 juillet 1984
+de la redevance prévue à l'article 5 de la loi n° 84-595 du 12 juillet 1984
 précitée et du prix de cession de l'immeuble.
 
 II. Les entreprises mentionnées au I peuvent, d'autre part, déduire de leurs

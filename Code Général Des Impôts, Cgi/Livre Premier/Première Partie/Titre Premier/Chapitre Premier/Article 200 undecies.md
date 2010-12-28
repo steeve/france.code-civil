@@ -4,7 +4,7 @@ I.-Les contribuables, personnes physiques, qui ont leur domicile fiscal en
 France au sens de l'article 4 B et qui exercent une activité dont les revenus
 sont imposés dans la catégorie des bénéfices agricoles bénéficient d'un crédit
 d'impôt au titre des dépenses engagées pour assurer leur remplacement pour congé
-entre le 1er janvier 2006 et le 31 décembre 2010 par l'emploi direct de salariés
+entre le 1er janvier 2006 et le 31 décembre 2012 par l'emploi direct de salariés
 ou par le recours à des personnes mises à disposition par un tiers. Le bénéfice
 du crédit d'impôt est subordonné à la condition que l'activité exercée requière
 la présence du contribuable sur l'exploitation chaque jour de l'année et que son
@@ -30,3 +30,9 @@ III.-Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputatio
 réductions d'impôt mentionnées aux articles 199 quater B à 200 bis, des crédits
 d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt
 dû, l'excédent est restitué.
+
+IV. ― Le bénéfice du crédit d'impôt au titre des dépenses engagées entre le 1er
+janvier 2011 et le 31 décembre 2012 est subordonné au respect du règlement (CE)
+n° 1535/2007 de la Commission, du 20 décembre 2007, concernant l'application des
+articles 87 et 88 du traité CE aux aides de minimis dans le secteur de la
+production de produits agricoles.

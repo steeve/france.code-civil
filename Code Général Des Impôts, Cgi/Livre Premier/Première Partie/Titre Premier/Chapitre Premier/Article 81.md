@@ -39,10 +39,10 @@ et de la pêche maritime ;
 militaires d'invalidité et des victimes de guerre ainsi que la retraite du
 combattant mentionnée aux articles L. 255 à L. 257 du même code ;
 
-b.L'allocation de reconnaissance prévue aux I et I bis de l'article 47 de la loi
-de finances rectificative pour 1999 (n° 99-1173 du 30 décembre 1999) en faveur
-respectivement des personnes désignées au premier alinéa de l'article 2 de la
-loi n° 94-488 du 11 juin 1994 relative aux rapatriés anciens membres des
+b. L'allocation de reconnaissance prévue aux I et I bis de l'article 47 de la
+loi de finances rectificative pour 1999 (n° 99-1173 du 30 décembre 1999) en
+faveur respectivement des personnes désignées au premier alinéa de l'article 2
+de la loi n° 94-488 du 11 juin 1994 relative aux rapatriés anciens membres des
 formations supplétives et assimilés ou victimes de la captivité en Algérie et de
 leurs conjoints ou ex-conjoints survivants non remariés ;
 
@@ -70,8 +70,7 @@ l'article L. 245-1 du code de l'action sociale et des familles ;
 9° quater La prime forfaitaire instituée par l'article L. 5425-3 du code du
 travail ;
 
-9° quinquies La prime de retour à l'emploi instituée par l'article L. 5133-1 du
-code du travail ;
+9° quinquies (Abrogé) ;
 
 9° septies L'aide à la réinsertion familiale et sociale des anciens migrants
 dans leur pays d'origine instituée par l'article L. 117-3 du code de l'action
@@ -117,24 +116,24 @@ l'indemnité forfaitaire d'entretien allouées, en application de l'article L. 1
 du code du service national, au personnel accomplissant le service national
 actif dans le service de la coopération ou dans le service de l'aide technique ;
 
-b.L'indemnité mensuelle et l'indemnité supplémentaire versées dans le cadre de
+b. L'indemnité mensuelle et l'indemnité supplémentaire versées dans le cadre de
 l'accomplissement d'un volontariat international en application de l'article L.
 122-12 du code du service national ;
 
-c. l'allocation et la prime versées dans le cadre du contrat de volontariat pour
+c. L'allocation et la prime versées dans le cadre du contrat de volontariat pour
 l'insertion conformément à l'article L. 130-3 du code du service national ;
 
-d. l'indemnité versée dans le cadre d'un contrat de volontariat de solidarité
+d. L'indemnité versée dans le cadre d'un contrat de volontariat de solidarité
 internationale en application de l'article 7 de la loi n° 2005-159 du 23 février
 2005 relative au contrat de volontariat de solidarité internationale ;
 
-e.L'indemnité versée, les prestations de subsistance, d'équipement et de
+e. L'indemnité versée, les prestations de subsistance, d'équipement et de
 logement ainsi que l'avantage résultant de la contribution de la personne morale
 agréée au financement des titres-repas dans le cadre d'un engagement de service
 civique en application des articles L. 120-21 et L. 120-22 du code du service
 national ;
 
-f. l'avantage résultant pour le bénévole de la contribution de l'association au
+f. L'avantage résultant pour le bénévole de la contribution de l'association au
 financement de chèques-repas en application de l'article 12 de la loi n°
 2006-586 du 23 mai 2006 relative à l'engagement éducatif ;
 
@@ -187,13 +186,13 @@ obligations qui sont mises à sa charge par le même chapitre II ;
 des chèques-vacances dans les conditions et limite prévues à la section 1 du
 chapitre Ier du titre Ier du livre IV du code du tourisme ;
 
-19° ter a.L'avantage résultant de la prise en charge obligatoire par l'employeur
-du prix des titres d'abonnement souscrits par les salariés pour les déplacements
-effectués au moyen de transports publics de voyageurs ou de services publics de
-location de vélos entre leur résidence habituelle et leur lieu de travail,
-conformément à l'article L. 3261-2 du code du travail ;
+19° ter a. L'avantage résultant de la prise en charge obligatoire par
+l'employeur du prix des titres d'abonnement souscrits par les salariés pour les
+déplacements effectués au moyen de transports publics de voyageurs ou de
+services publics de location de vélos entre leur résidence habituelle et leur
+lieu de travail, conformément à l'article L. 3261-2 du code du travail ;
 
-b.L'avantage résultant de la prise en charge par l'employeur des frais de
+b. L'avantage résultant de la prise en charge par l'employeur des frais de
 carburant ou des frais exposés pour l'alimentation de véhicules électriques
 engagés par les salariés dans les conditions prévues à l'article L. 3261-3 du
 code du travail et dans la limite de la somme de 200 € par an ;

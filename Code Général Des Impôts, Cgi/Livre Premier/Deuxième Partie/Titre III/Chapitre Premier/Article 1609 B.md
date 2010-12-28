@@ -10,7 +10,7 @@ et les activités économiques dans les départements d'outre-mer, à
 Saint-Pierre-et-Miquelon et à Mayotte.
 
 Le montant de cette taxe est arrêté chaque année par le conseil d'administration
-de l'établissement public dans la limite de 1 875 000 euros.
+de l'établissement public dans la limite de 2 365 000 euros.
 
 Ce montant est réparti, dans les conditions définies au I de l'article 1636 B
 octies, entre toutes les personnes physiques ou morales assujetties aux taxes

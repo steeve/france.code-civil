@@ -27,3 +27,16 @@ année dont les résultats sont connus.
 Le potentiel financier par habitant est égal au potentiel financier du
 département divisé par le nombre d'habitants constituant la population de ce
 département, tel que défini à l'article L. 3334-2.
+
+Pour l'année 2011, les bases et le taux moyen de taxe professionnelle retenus
+sont ceux utilisés pour le calcul du potentiel fiscal en 2010.
+
+A compter de 2012, les impositions prises en compte pour le calcul du potentiel
+fiscal sont celles mentionnées au I de l'article 1586 du code général des
+impôts, à l'exception des impositions prévues au 2° de cet article. Le potentiel
+fiscal d'un département est déterminé par application aux bases départementales
+des impositions directes locales du taux moyen national d'imposition de chacune
+de ces impositions.
+
+Le potentiel fiscal est majoré des montants prévus aux 1.2 et 2.2 de l'article
+78 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010.

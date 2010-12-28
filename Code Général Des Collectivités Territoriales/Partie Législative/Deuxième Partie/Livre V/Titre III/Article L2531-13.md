@@ -76,12 +76,12 @@ celui du prélèvement prévu au I.
 Pour les communes dont les bases totales d'imposition à la taxe professionnelle
 divisées par le nombre d'habitants sont inférieures à 3 fois la moyenne des
 bases de taxe professionnelle par habitant de la région d'Ile-de-France, le
-montant du prélèvement visé au premier alinéa du II ne peut excéder 1, 1 fois
+montant du prélèvement visé au premier alinéa du II ne peut excéder 1,1 fois
 celui du prélèvement prévu au I.
 
 2° Sont soumis à un prélèvement les établissements publics de coopération
 intercommunale de la région d'Ile-de-France ayant opté pour les dispositions du
-II de l'article l609 quinquies C du code général des impôts, dont les bases
+II de l'article 1609 quinquies C du code général des impôts, dont les bases
 totales d'imposition à la taxe professionnelle divisées par le nombre
 d'habitants excèdent 3,5 fois la moyenne des bases de taxe professionnelle par
 habitant constatée au niveau national. Ce prélèvement est égal au produit du
@@ -91,7 +91,7 @@ coopération intercommunale par 75 % des bases dépassant le seuil précité.
 Sont également soumis à ce prélèvement les établissements publics de coopération
 intercommunale de la région d'Ile-de-France faisant application de l'article
 1609 nonies C du code général des impôts, dont les bases totales d'imposition à
-la taxe professionnelle divisées par le nombre d'habitants excèdent 2, 5 fois la
+la taxe professionnelle divisées par le nombre d'habitants excèdent 2,5 fois la
 moyenne des bases de taxe professionnelle par habitant constatée au niveau
 national. Ce prélèvement est égal au produit du taux de taxe professionnelle
 calculé dans les conditions prévues au III du présent article par 75 % des bases
@@ -106,7 +106,7 @@ Pour les établissements publics de coopération intercommunale dont les bases
 totales d'imposition à la taxe professionnelle divisées par le nombre
 d'habitants sont inférieures à 2, 5 fois la moyenne des bases de taxe
 professionnelle par habitant de la région d'Ile-de-France, le montant du
-prélèvement ne peut excéder 1, 1 fois la somme des prélèvements des communes
+prélèvement ne peut excéder 1,1 fois la somme des prélèvements des communes
 membres prévus au I.
 
 3° Lorsque la commune ou l'établissement public de coopération intercommunale
@@ -157,6 +157,9 @@ répartition du fonds ;
 -le revenu à prendre en compte est le dernier revenu imposable connu. Pour les
 établissements publics de coopération intercommunale, il correspond à la somme
 des derniers revenus imposables connus des communes membres.
+
+En 2011, les bases et les taux de taxe professionnelle retenus sont ceux
+utilisés pour l'application du II en 2010.
 
 IV.-Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article.

@@ -13,14 +13,14 @@ quaterdecies fait l'objet d'un abattement dans la limite d'un montant de 150 000
 
 II.-Le taux de l'abattement mentionné au I est égal à 80 % de la base nette
 imposable pour la cotisation foncière des entreprises due au titre de chacune
-des années 2009 à 2015 et respectivement à 70 %, 65 % et 60 % de la base nette
+des années 2010 à 2015 et respectivement à 70 %, 65 % et 60 % de la base nette
 imposable pour les années d'imposition 2016, 2017 et 2018.
 
 III.-Le taux de l'abattement mentionné au II est majoré dans les cas suivants :
 
 1° Pour les établissements situés en Guyane, dans les îles des Saintes, à
-Marie-Galante, à La Désirade et dans les communes de La Réunion définies par l'
-article 2 du décret n° 78-690 du 23 juin 1978 portant création d'une zone
+Marie-Galante, à La Désirade et dans les communes de La Réunion définies par
+l'article 2 du décret n° 78-690 du 23 juin 1978 portant création d'une zone
 spéciale d'action rurale dans le département de La Réunion ;
 
 2° Pour les établissements situés dans des communes de Guadeloupe ou de
@@ -44,7 +44,7 @@ dans l'un des secteurs mentionnés au 3° du III de l'article 44 quaterdecies ;
 l'article 44 quaterdecies.
 
 Le montant de cet abattement est égal à 100 % de la base nette imposable pour la
-cotisation foncière des entreprises due au titre de chacune des années 2009 à
+cotisation foncière des entreprises due au titre de chacune des années 2010 à
 2015 et respectivement à 90 %, 80 % et 70 % de la base nette imposable pour les
 années d'imposition 2016, 2017 et 2018.
 

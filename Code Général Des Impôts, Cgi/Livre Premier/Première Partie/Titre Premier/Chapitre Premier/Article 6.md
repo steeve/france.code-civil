@@ -56,28 +56,34 @@ autorisés à avoir des résidences séparées ;
 c. Lorsqu'en cas d'abandon du domicile conjugal par l'un ou l'autre des époux,
 chacun dispose de revenus distincts.
 
-5. Chacun des époux est personnellement imposable pour les revenus dont il a
-disposé pendant l'année de son mariage jusqu'à la date de celui-ci.
+5. Les personnes mariées et les partenaires liés par un pacte civil de
+solidarité sont soumis à une imposition commune pour les revenus dont ils ont
+disposé pendant l'année du mariage ou de la conclusion du pacte.
 
-6. En cas de décès de l'un des conjoints, l'impôt afférent aux bénéfices et
-revenus non encore taxés est établi au nom des époux. Le conjoint survivant est
-personnellement imposable pour la période postérieure au décès.
+Les époux et les partenaires liés par un pacte civil de solidarité peuvent
+toutefois opter pour l'imposition distincte des revenus dont chacun a
+personnellement disposé pendant l'année du mariage ou de la conclusion du pacte,
+ainsi que de la quote-part des revenus communs lui revenant.A défaut de
+justification de cette quote-part, ces revenus communs sont partagés en deux
+parts égales entre les époux ou partenaires liés par un pacte civil de
+solidarité. Cette option est exercée de manière irrévocable dans les délais
+prévus pour le dépôt de la déclaration initiale des revenus mentionnée à
+l'article 170. Elle n'est pas applicable lorsque les partenaires liés par un
+pacte civil de solidarité, conclu au titre d'une année antérieure, se marient
+entre eux.
 
-7. Chacun des partenaires liés par un pacte civil de solidarité est
-personnellement imposable pour les revenus dont il a disposé à compter de la
-date à laquelle le pacte a pris fin dans les conditions prévues à l'article
-515-7 du code civil.
+6. Chacun des époux, partenaires, anciens époux ou anciens partenaires liés par
+un pacte civil de solidarité est personnellement imposable pour les revenus dont
+il a disposé pendant l'année de la réalisation de l'une des conditions du 4, du
+divorce ou de la dissolution du pacte, ainsi que pour la quote-part des revenus
+communs lui revenant.A défaut de justification de cette quote-part, ces revenus
+communs sont partagés en deux parts égales entre les époux, partenaires, anciens
+époux ou anciens partenaires liés par un pacte civil de solidarité.
 
-8. a. Lorsque le pacte prend fin au cours de l'année civile de sa conclusion ou
-de l'année suivante pour un motif autre que le mariage entre les partenaires ou
-le décès de l'un d'entre eux, chaque membre du pacte fait l'objet d'une
-imposition distincte au titre de l'année de sa conclusion et de celle de sa
-rupture, et souscrit à cet effet une déclaration rectificative pour les revenus
-dont il a disposé au cours de l'année de souscription du pacte.
+Les revenus communs sont, sauf preuve contraire, réputés partagés en deux parts
+égales entre les époux ou partenaires liés par un pacte civil de solidarité.
 
-b. Lorsque les personnes liées par un pacte civil de solidarité se marient entre
-elles, les dispositions du 5 ne s'appliquent pas. Lorsque leur mariage
-intervient au cours de l'année civile de la rupture du pacte ou de l'année
-suivante, les contribuables font l'objet d'une imposition commune au titre de
-l'année de sa rupture et de celle du mariage. Ils procèdent, le cas échéant, à
-la régularisation des déclarations effectuées au titre de l'année de la rupture.
+7. Abrogé 8. En cas de décès de l'un des conjoints ou partenaires liés par un
+pacte civil de solidarité, l'impôt afférent aux bénéfices et revenus non encore
+taxés est établi au nom des époux ou partenaires. Le conjoint ou le partenaire
+survivant est personnellement imposable pour la période postérieure au décès.

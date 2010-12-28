@@ -16,23 +16,15 @@ mentionnées au II.
 
 IV.-1. La taxe est calculée en appliquant un taux de 3 % à la fraction du
 montant des versements annuels, hors taxe sur la valeur ajoutée, afférent à
-chaque service de télévision, qui excède 11 millions d'euros.
+chaque service de télévision, qui excède 11 millions d'euros. Toutefois, à
+compter de 2010 et jusqu'à la mise en œuvre de la disposition mentionnée à la
+deuxième phrase du premier alinéa du VI de l'article 53 de la loi n° 86-1067 du
+30 septembre 1986 relative à la liberté de communication, ce taux est fixé à 0,5
+%.
 
-Toutefois, pour l'année 2009, ce taux est fixé à 0, 75 % en cas de baisse de
-l'assiette de la taxe, telle que définie au II, constatée pour l'année civile au
-titre de laquelle la taxe est due par rapport à 2008.
-
-Pour l'ensemble des redevables, jusqu'à l'année d'extinction en métropole de la
-diffusion par voie hertzienne terrestre en mode analogique des services de
-télévision, la taxe est plafonnée à 50 % de l'accroissement de son assiette,
-telle que définie au II, constaté pour l'année civile au titre de laquelle la
-taxe est due par rapport à 2008. En tout état de cause, à partir de l'année
-2010, le montant de la taxe ne peut être inférieur à 1, 5 % de l'assiette telle
-que définie au II.
-
-2. Pour les services de télévision autres que ceux diffusés par voie hertzienne
-terrestre en mode analogique, le taux est fixé à 0, 5 % en 2009, 2 % en 2010 et
-2, 5 % en 2011.
+Pour les services de télévision autres que ceux diffusés par voie hertzienne
+terrestre en mode analogique, le taux est fixé à 0,25 % en 2010 et en 2011. 2.
+(alinéa abrogé)
 
 3. Pour les éditeurs de services de télévision dont l'audience quotidienne
 réalisée en dehors de la France métropolitaine est supérieure à 90 % de leur

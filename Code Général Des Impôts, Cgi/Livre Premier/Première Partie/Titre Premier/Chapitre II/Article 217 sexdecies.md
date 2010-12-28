@@ -1,6 +1,6 @@
 Article 217 sexdecies
 ----
-I. - Les entreprises soumises à l'impôt sur les sociétés peuvent, l'année de
+I.-Les entreprises soumises à l'impôt sur les sociétés peuvent, l'année de
 réalisation de l'investissement, déduire de leurs résultats imposables le
 montant des sommes versées entre le 1er janvier 2006 et le 31 décembre 2007 pour
 la souscription en numéraire au capital de sociétés qui exercent ou créent des
@@ -12,7 +12,7 @@ la société bénéficiaire des versements à la clôture de l'exercice au cours
 duquel les sommes sont versées. Le bénéfice de cette déduction est subordonné à
 la détention durant au moins trois ans du capital ainsi souscrit.
 
-II. - La société bénéficiaire des versements doit répondre cumulativement aux
+II.-La société bénéficiaire des versements doit répondre cumulativement aux
 conditions suivantes :
 
 a) Elle doit exercer ou créer une activité dans une ou plusieurs zones franches
@@ -23,8 +23,9 @@ exercée ou créée consécutivement au transfert d'une activité précédemment
 exercée par un contribuable ayant bénéficié, au titre d'une ou plusieurs des
 cinq années précédant celle du transfert, des dispositions de l'article 44
 sexies dans les zones de revitalisation rurale définies à l'article 1465 A ou
-dans les zones de redynamisation urbaine définies aux I bis et I ter de
-l'article 1466 A, ou de la prime d'aménagement du territoire ;
+dans les zones de redynamisation urbaine définies au A du 3 de l'article 42 de
+la loi n° 95-115 du 4 février 1995 précitée, ou de la prime d'aménagement du
+territoire ;
 
 b) Elle doit utiliser, dans le délai prévu au a et pour son activité implantée
 dans la ou les zones franches urbaines, des sommes d'un montant égal à celui du
@@ -75,7 +76,7 @@ membres de ce groupe.
 Les conditions prévues aux c, d et e s'apprécient à la clôture de l'exercice au
 cours duquel les sommes sont versées.
 
-III. - En cas de cession de tout ou partie des titres dans les trois ans du
+III.-En cas de cession de tout ou partie des titres dans les trois ans du
 versement du montant des souscriptions, le montant de la déduction est réintégré
 au résultat imposable de l'entreprise ayant souscrit au capital, au titre de
 l'exercice au cours duquel intervient la cession.
@@ -88,12 +89,12 @@ prévue au b du II n'est pas remplie, le montant rapporté est limité à la
 fraction du montant qui n'a pas été utilisé conformément aux dispositions du
 même b.
 
-IV. - Le bénéfice de la déduction mentionnée au I est subordonné au respect du
-règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant
+IV.-Le bénéfice de la déduction mentionnée au I est subordonné au respect du
+règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant
 l'application des articles 87 et 88 du traité aux aides de minimis.
 
-V. - Lorsque l'entreprise versante a choisi de bénéficier des dispositions
-prévues au présent article, les sommes versées ne peuvent ouvrir droit à une
-autre déduction, à une réduction d'impôt ou à un crédit d'impôt.
+V.-Lorsque l'entreprise versante a choisi de bénéficier des dispositions prévues
+au présent article, les sommes versées ne peuvent ouvrir droit à une autre
+déduction, à une réduction d'impôt ou à un crédit d'impôt.
 
 Un décret fixe les obligations déclaratives.

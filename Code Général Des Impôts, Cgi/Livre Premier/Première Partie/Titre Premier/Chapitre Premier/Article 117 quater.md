@@ -3,7 +3,7 @@ Article 117 quater
 I.-1. Les personnes physiques fiscalement domiciliées en France au sens de
 l'article 4 B qui bénéficient de revenus éligibles à l'abattement prévu au 2° du
 3 de l'article 158 peuvent opter pour leur assujettissement à un prélèvement au
-taux de 18 %, qui libère les revenus auxquels il s'applique de l'impôt sur le
+taux de 19 %, qui libère les revenus auxquels il s'applique de l'impôt sur le
 revenu.
 
 Pour le calcul de ce prélèvement, les revenus mentionnés au premier alinéa sont

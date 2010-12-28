@@ -9,5 +9,5 @@ habitants éligibles à la dotation est égale au produit de leur population par
 montant moyen par habitant perçu l'année précédente par les communes éligibles
 de cette catégorie, indexé selon le taux d'évolution pour l'année de répartition
 du montant moyen par habitant de l'ensemble des communes éligibles à la
-dotation. A titre dérogatoire, cette disposition ne s'applique pas en 2009 et en
-2010.
+dotation. A titre dérogatoire, le présent alinéa ne s'applique pas de 2009 à
+2011.

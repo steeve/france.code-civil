@@ -3,7 +3,7 @@ Article 200 A
 1. (Abrogé).
 
 2. Les gains nets obtenus dans les conditions prévues à l'article 150-0 A sont
-imposés au taux forfaitaire de 18 % (1).
+imposés au taux forfaitaire de 19 % (1).
 
 3. et 4. (Abrogés).
 
@@ -15,12 +15,8 @@ retrait ou le rachat intervient avant l'expiration de la deuxième année.
 les règles applicables aux traitements et salaires, l'avantage mentionné au I de
 l'article 163 bis C, le cas échéant diminué du montant mentionné au II de
 l'article 80 bis imposé selon les règles applicables aux traitements et
-salaires, est imposé lorsque le montant des cessions du foyer fiscal excède le
-seuil mentionné au premier alinéa du 1 du I de l'article 150-0 A au taux de 30 %
-à concurrence de la fraction annuelle qui n'excède pas 152 500 euros et de 40 %
-au-delà. Pour l'appréciation du montant des cessions et du seuil mentionnés à la
-phrase précédente, il est tenu compte des cessions visées aux articles 80
-quaterdecies, 150-0 A et 163 bis C.
+salaires, est imposé au taux de 30 % à concurrence de la fraction annuelle qui
+n'excède pas 152 500 € et de 41 % au-delà.
 
 Pour les actions acquises avant le 1er janvier 1990, le prix d'acquisition est
 réputé égal à la valeur de l'action à la date de la levée de l'option.

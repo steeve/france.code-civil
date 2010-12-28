@@ -6,8 +6,7 @@ sanctions prévues en matière de contributions directes.
 
 Elles donnent lieu au versement d'un acompte, égal à 50 % du montant des taxes
 mises en recouvrement au titre de l'année précédente, avant le 1er avril de
-l'année courante.L'acompte n'est pas dû si ce montant est inférieur à 3 000
-euros.
+l'année courante.L'acompte n'est pas dû si ce montant est inférieur à 3 000 €.
 
 L'acompte est exigible le 31 mai et il est fait application des dispositions du
 2 et du 3 de l'article 1664 pour son recouvrement et celui du solde de la taxe.
@@ -28,6 +27,3 @@ cotisation foncière des entreprises du montant du dégrèvement attendu du
 plafonnement de la contribution économique territoriale due au titre de la même
 année, en remettant au comptable public chargé du recouvrement de la cotisation
 foncière des entreprises une déclaration datée et signée.
-
-Les contribuables doivent, un mois au moins avant l'échéance, être informés par
-l'administration du montant de l'acompte qu'ils auront à verser.

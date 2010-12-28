@@ -28,15 +28,14 @@ II. Toutefois :
 dispositions de l'article 1609 nonies C du code général des impôts dont le
 coefficient d'intégration fiscale est supérieur à 0,5 perçoivent une dotation
 par habitant progressant au moins comme la dotation forfaitaire prévue à
-l'article L. 2334-7 du présent code.
+l'article L. 2334-7 du présent code. A compter de 2011, cette garantie
+s'applique lorsque leur coefficient d'intégration fiscale est supérieur à 0,6.
 
 Les communautés d'agglomération et les communautés de communes faisant
 application des dispositions de l'article 1609 nonies C du code général des
-impôts dont le coefficient d'intégration fiscale est supérieur à 0,5 en 2005
-perçoivent une dotation par habitant progressant au moins comme la dotation
-forfaitaire prévue à l'article L. 2334-7 du présent code. A compter de 2006,
-cette garantie s'applique lorsque leur coefficient d'intégration fiscale est
-supérieur à 0,4 ;
+impôts dont le coefficient d'intégration fiscale est supérieur à 0,5 perçoivent
+une dotation par habitant progressant au moins comme la dotation forfaitaire
+prévue à l'article L. 2334-7 du présent code.
 
 2° Les établissements publics de coopération intercommunale mentionnés au
 premier alinéa du I dont la dotation par habitant perçue au titre des dotations

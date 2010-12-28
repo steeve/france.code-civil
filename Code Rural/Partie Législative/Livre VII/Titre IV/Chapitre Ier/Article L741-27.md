@@ -6,7 +6,7 @@ d'allocations familiales dues pour l'emploi d'accueillants familiaux mentionnés
 à l'article L. 441-1 du code de l'action sociale et des familles par les
 groupements professionnels agricoles mentionnés au 6° de l'article L. 722-20 du
 présent code qui ont passé un contrat conforme aux articles L. 442-1 et L. 444-3
-du code de l'action sociale et des familles .
+du code de l'action sociale et des familles.
 
 II.-Les dispositions prévues au III de l'article L. 241-10 du code de la
 sécurité sociale sont applicables aux cotisations patronales d'assurances
@@ -29,11 +29,3 @@ et organismes affiliés au régime agricole et bénéficiant de l'exonération p
 caisses de sécurité sociale auprès des associations et organismes relevant du
 régime général, afin de s'assurer de la régularité des opérations financières et
 comptables et d'apprécier la qualité des prestations servies.
-
-IV.-(alinéa supprimé)
-
-V.-Les dispositions du III bis de l'article L. 241-10 du code de la sécurité
-sociale sont applicables aux cotisations patronales d'assurances sociales et
-d'allocations familiales dues sur les rémunérations des salariés affiliés au
-régime de protection sociale agricole, par les personnes et dans les conditions
-mentionnées à cet article.

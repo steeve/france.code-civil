@@ -15,8 +15,8 @@ de cohésion sociale prévue à l'article L. 2334-15 ou à la première fraction
 la dotation de solidarité rurale prévue à l'article L. 2334-21.
 
 Pour les communes qui répondent aux cinq conditions cumulatives mentionnées aux
-six alinéas suivants, la population à prendre en compte en 2009 et en 2010 pour
-l'application de la présente section est celle ayant servi au calcul de la
+six alinéas suivants, la population à prendre en compte en 2009,2010 et 2011
+pour l'application de la présente section est celle ayant servi au calcul de la
 dotation globale de fonctionnement au titre de l'exercice 2008.
 
 Sont concernées par cette disposition les communes répondant aux conditions

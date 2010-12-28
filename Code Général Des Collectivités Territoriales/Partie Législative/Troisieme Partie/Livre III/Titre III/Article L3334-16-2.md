@@ -2,19 +2,18 @@ Article L3334-16-2
 ----
 Il est institué un fonds de mobilisation départementale pour l'insertion sous la
 forme d'un prélèvement sur les recettes de l'Etat et dont bénéficient les
-départements. Il est doté, en 2006, 2007, 2008, 2009 et 2010 de 500 millions
-d'euros par an.
+départements. Il est doté de 2006 à 2011 de 500 millions d'euros par an.
 
 I.-Ce fonds est constitué de trois parts :
 
 1° Une première part au titre de la compensation. Son montant est égal à 50 % du
-montant total du fonds en 2006 et à 40 % en 2007, 2008, 2009 et 2010 ;
+montant total du fonds en 2006 et à 40 % de 2007 à 2011 ;
 
 2° Une deuxième part au titre de la péréquation. Son montant est égal à 30 % du
-montant total du fonds en 2006, 2007, 2008, 2009 et 2010 ;
+montant total du fonds de 2006 à 2011 ;
 
 3° Une troisième part au titre de l'insertion. Son montant est égal à 20 % du
-montant total du fonds en 2006 et à 30 % en 2007, 2008, 2009 et 2010.
+montant total du fonds en 2006 et à 30 % de 2007 à 2011.
 
 II.-Les crédits de la première part sont répartis entre les départements pour
 lesquels un écart positif est constaté entre la dépense exposée par le
@@ -74,12 +73,12 @@ forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale 
 des familles est constaté au 31 décembre de l'année qui précède l'année au titre
 de laquelle le versement est opéré par le ministre chargé de l'action sociale.
 
-IV. - Les crédits de la troisième part sont répartis entre les départements dans
+IV.-Les crédits de la troisième part sont répartis entre les départements dans
 les conditions précisées par le présent IV, après prélèvement des sommes
 nécessaires à la quote-part destinée aux départements d'outre-mer.
 
 Le montant de cette quote-part est égal au montant cumulé des crédits attribués
-à chaque département d'outre-mer en 2009 au titre de la répartition de la
+à chaque département d'outre-mer en 2010 au titre de la répartition de la
 troisième part réalisée cette même année. Cette quote-part est répartie entre
 les départements d'outre-mer proportionnellement au rapport entre le nombre
 total des contrats d'avenir mentionnés à l'article L. 5134-35 du code du
@@ -95,20 +94,15 @@ sociale dans chaque département d'outre-mer, et le même nombre total constaté
 la même date pour l'ensemble des départements d'outre-mer.
 
 Le solde de la troisième part est réparti entre les départements de métropole
-proportionnellement au rapport entre le nombre des contrats d'avenir mentionnés
-à l'article L. 5134-35 du code du travail, des contrats d'insertion-revenu
-minimum d'activité mentionnés à l'article L. 5134-74 du même code, des primes
-mentionnées à l'article L. 262-11 du code de l'action sociale et des familles
-dans sa rédaction antérieure à l'entrée en vigueur de la loi n° 2008-1249 du 1er
-décembre 2008 précitée, ainsi que des contrats conclus dans le cadre des
-expérimentations conduites sur le fondement de l'article 142 de la loi n°
-2006-1666 du 21 décembre 2006 précitée, constatés au 31 décembre de l'année qui
-précède l'année au titre de laquelle le versement est opéré par le ministre
-chargé de l'action sociale dans chaque département de métropole, et le même
-nombre total constaté à la même date pour l'ensemble des départements de
-métropole. ;
+proportionnellement au rapport entre le nombre des contrats d'accompagnement
+dans l'emploi mentionnés à l'article L. 5134-20 du code du travail et des
+contrats initiative-emploi mentionnés à l'article L. 5134-65 du même code,
+constatés au 31 décembre de l'année qui précède l'année au titre de laquelle le
+versement est opéré par le ministre chargé de l'action sociale dans chaque
+département de métropole, et le même nombre total constaté à la même date pour
+l'ensemble des départements de métropole.
 
-V. - Lorsqu'il est constaté un écart positif entre l'addition de la dotation
+V.-Lorsqu'il est constaté un écart positif entre l'addition de la dotation
 calculée dans les conditions prévues aux II, III et IV et de la compensation
 résultant du transfert de compétence réalisé par la loi n° 2003-1200 du 18
 décembre 2003 précitée et de l'extension de compétence opérée par la loi n°

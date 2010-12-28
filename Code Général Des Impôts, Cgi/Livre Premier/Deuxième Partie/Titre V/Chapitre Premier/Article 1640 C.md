@@ -96,40 +96,29 @@ multipliés par un coefficient de 1,0485.
 
 7. Pour l'application des 1 à 3 à des établissements publics de coopération
 intercommunale dotés d'une fiscalité propre dont le territoire se situe sur
-celui de plusieurs départements, le taux départemental de 2009 à prendre en
-compte s'entend, pour chaque taxe, de la moyenne des taux départementaux de 2009
-concernés, pondérés par l'importance relative des bases notifiées aux
-départements au titre de l'année 2009 et situées dans le territoire de
-l'établissement public de coopération intercommunale. Pour l'application des 1 à
-3 à des établissements publics de coopération intercommunale dotés d'une
-fiscalité propre dont le territoire se situe sur celui de plusieurs régions, le
-taux régional de 2009 à prendre en compte s'entend, pour chaque taxe, de la
-moyenne des taux régionaux de 2009 concernés, pondérés par l'importance relative
-des bases notifiées aux régions au titre de l'année 2009 et situées dans le
-territoire de l'établissement public de coopération intercommunale.
+celui de plusieurs départements, le taux départemental de taxe professionnelle
+de 2009 à prendre en compte s'entend de la moyenne des taux départementaux de
+taxe professionnelle de 2009 concernés, pondérés par l'importance relative des
+bases de cette taxe notifiées aux départements au titre de l'année 2009 et
+situées dans le territoire de l'établissement public de coopération
+intercommunale. (1)
 
-II. - Pour l'application du I à des établissements publics de coopération
+Pour l'application des 1 à 3 à des établissements publics de coopération
 intercommunale dotés d'une fiscalité propre dont le territoire se situe sur
-celui de plusieurs départements, le taux départemental 2010 à prendre en compte
-s'entend, pour chaque taxe, de la moyenne des taux départementaux 2010
-concernés, pondérés par l'importance relative des bases notifiées aux
-départements au titre de l'année 2010 et situées dans le territoire de cet
-établissement public de coopération intercommunale.
+celui de plusieurs régions, le taux régional de taxe professionnelle de 2009 à
+prendre en compte s'entend de la moyenne des taux régionaux de taxe
+professionnelle de 2009 concernés, pondérés par l'importance relative des bases
+de cette taxe notifiées aux régions au titre de l'année 2009 et situées dans le
+territoire de l'établissement public de coopération intercommunale. (1)
 
-Pour l'application du I à des établissements publics de coopération
-intercommunale dotés d'une fiscalité propre dont le territoire se situe sur
-celui de plusieurs régions, le taux régional 2010 à prendre en compte s'entend,
-pour chaque taxe, de la moyenne des taux régionaux 2010 concernés, pondérés par
-l'importance relative des bases notifiées aux régions au titre de l'année 2010
-et situées dans le territoire de cet établissement public de coopération
-intercommunale.
+II. - Abrogé (1).
 
-III. - Pour l'application des I et II aux communes, établissements publics de
+III. - Pour l'application du I aux communes, établissements publics de
 coopération intercommunale dotés d'une fiscalité propre et départements dont le
 territoire se situe au moins en partie dans la région Ile-de-France, les taux
 régionaux s'entendent pour cette région des taux de l'année 2009 de la taxe
 additionnelle à la taxe professionnelle prévue à l'article 1599 quinquies dans
-sa rédaction en vigueur au 31 décembre 2009.
+sa rédaction en vigueur au 31 décembre 2009. (1)
 
 IV. - Pour l'application au titre de l'année 2010 du 4° du II de l'article 1635
 sexies, le taux moyen pondéré national de cotisation foncière des entreprises de
@@ -173,7 +162,7 @@ a) D'une part, du taux communal de l'année 2010 ;
 
 b) D'autre part, du taux départemental de taxe d'habitation appliqué en 2010 sur
 le territoire de la commune, déterminé, le cas échéant, dans les conditions
-prévues au VIII.
+prévues au V bis.
 
 Ce taux de référence est corrigé dans les conditions prévues au IX.
 
@@ -189,7 +178,7 @@ l'année 2010 est la somme :
 a) D'une part, du taux intercommunal de l'année 2010 ;
 
 b) D'autre part, du taux départemental de taxe d'habitation appliqué en 2010 sur
-son territoire, déterminé, le cas échéant, dans les conditions prévues au VIII.
+son territoire, déterminé, le cas échéant, dans les conditions prévues au V bis.
 
 Ce taux de référence est corrigé dans les conditions prévues au IX ;
 
@@ -200,7 +189,7 @@ a) D'une part, du taux intercommunal de l'année 2010 ;
 
 b) D'autre part, d'une fraction du taux départemental de taxe d'habitation
 appliqué en 2010 sur le territoire de l'établissement public de coopération
-intercommunale, déterminé, le cas échéant, dans les conditions prévues au VIII.
+intercommunale, déterminé, le cas échéant, dans les conditions prévues au V bis.
 
 Ce taux de référence est corrigé dans les conditions prévues au IX.
 
@@ -213,12 +202,27 @@ c) D'une part, du taux communal de l'année 2010 ;
 d) D'autre part, de la fraction complémentaire du taux départemental de taxe
 d'habitation appliqué en 2010 sur le territoire de l'établissement public de
 coopération intercommunale, déterminé, le cas échéant, dans les conditions
-prévues au VIII.
+prévues au V bis.
 
 Ce taux de référence est corrigé dans les conditions prévues au IX.
 
-Les fractions mentionnées aux b et d sont celles définies respectivement aux
-huitième et neuvième alinéas du 1° du 3 du I.
+La fraction mentionnée au b est celle définie au huitième alinéa du 1° du 3 du
+I. Toutefois, pour les établissements publics de coopération intercommunale
+faisant application des dispositions du II de l'article 1609 quinquies C dans sa
+rédaction en vigueur au 31 décembre 2009, cette fraction est égale au rapport,
+exprimé en pourcentage, entre, d'une part, la compensation relais versée à
+l'établissement public de coopération intercommunale en application des 1 et 2
+du II de l'article 1640 B et, d'autre part, la somme de cette compensation
+relais et de celles versées aux communes en application de ces mêmes alinéas.
+
+La fraction complémentaire destinée aux communes membres d'un établissement
+public de coopération intercommunale à fiscalité additionnelle, mentionnée au d
+du présent 3, est le complémentaire à 100 % de la fraction définie au neuvième
+alinéa du 1° du 3 du I et celle destinée aux communes membres d'un établissement
+public de coopération intercommunale faisant application des dispositions du II
+de l'article 1609 quinquies C dans sa rédaction en vigueur au 31 décembre 2009
+est le complémentaire à 100 % de la fraction définie à la seconde phrase du
+neuvième alinéa du présent 3.
 
 D. - Les taux de référence de taxe foncière sur les propriétés non bâties sont
 calculés de la manière suivante :
@@ -236,6 +240,22 @@ taux de référence est corrigé dans les conditions prévues au IX ;
 propre, le taux de référence relatif à l'année 2010 est le taux intercommunal de
 cette même année. Ce taux de référence est corrigé dans les conditions prévues
 au IX.
+
+V bis. - Pour l'application du V à des établissements publics de coopération
+intercommunale à fiscalité propre dont le territoire se situe sur celui de
+plusieurs départements, le taux départemental 2010 à prendre en compte s'entend,
+pour chaque taxe, de la moyenne des taux départementaux 2010 concernés, pondérés
+par l'importance relative des bases notifiées aux départements au titre de
+l'année 2010 et situées dans le territoire de cet établissement public de
+coopération intercommunale.
+
+Pour l'application du V à des établissements publics de coopération
+intercommunale à fiscalité propre dont le territoire se situe sur celui de
+plusieurs régions, le taux régional 2010 à prendre en compte s'entend, pour
+chaque taxe, de la moyenne des taux régionaux 2010 concernés, pondérés par
+l'importance relative des bases notifiées aux régions au titre de l'année 2010
+et situées dans le territoire de cet établissement public de coopération
+intercommunale.
 
 VI. - A. - Les taux de référence définis au V sont également retenus pour
 l'application en 2011 des articles 1636 B septies, 1636 B decies, 1638-0 bis,
@@ -273,12 +293,19 @@ taux unique ;
 taux sont calculés à partir des taux de référence relatifs à l'année 2010
 définis au I.
 
-VII. - Pour l'application au titre de l'année 2011 du IV, les taux de cotisation
-foncière des entreprises appliqués l'année précédente par l'ensemble des
-collectivités s'entendent des taux de référence définis au I pour ces
-collectivités.
+C. - Pour les établissements publics de coopération intercommunale qui font
+application de l'article 1609 nonies C pour la première fois en 2011 ou qui
+avaient voté en 2010 des taux nuls pour la taxe d'habitation et les taxes
+foncières, le taux de référence défini au C du V est ajouté au taux de taxe
+d'habitation déterminé conformément aux deuxième et troisième alinéas du II du
+même article 1609 nonies C.
 
-VIII. - Le II est applicable pour la mise en œuvre des III et IV.
+VII. - Pour l'application au titre de l'année 2011 du 4° du II de l'article 1635
+sexies, les taux de cotisation foncière des entreprises appliqués l'année
+précédente par l'ensemble des collectivités s'entendent des taux de référence
+définis au I pour ces collectivités.
+
+VIII. - Abrogé.
 
 IX. - Une correction des taux de référence est opérée :
 
@@ -324,8 +351,9 @@ fiscalité propre pour les impositions au titre de la même année.
 taxe foncière sur les propriétés bâties et de taxe foncière sur les propriétés
 non bâties des communes membres en 2011 des établissements visés au 3°.
 
-X. - Pour l'application du présent article aux communes, établissements publics
-de coopération intercommunale à fiscalité propre et départements dont le
-territoire se situe au moins en partie dans la région Ile-de-France, les taux
-régionaux s'entendent des taux de l'année 2009 de la taxe additionnelle prévue à
-l'article 1599 quinquies dans sa rédaction en vigueur au 31 décembre 2009.
+X. - Pour l'application des V et V bis aux communes, établissements publics de
+coopération intercommunale à fiscalité propre et départements dont le territoire
+se situe au moins en partie dans la région d'Ile-de-France, les taux régionaux
+de taxe foncière sur les propriétés bâties s'entendent des taux de l'année 2010
+de la taxe additionnelle à la taxe foncière sur les propriétés bâties prévue à
+l'article 1599 quinquies dans sa rédaction en vigueur au 1er janvier 2010.

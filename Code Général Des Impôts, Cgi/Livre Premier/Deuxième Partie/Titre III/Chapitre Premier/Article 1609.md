@@ -3,7 +3,7 @@ Article 1609
 Il est institué une taxe spéciale d'équipement au profit de l'établissement
 public foncier de Lorraine.
 
-Le montant de cette taxe est arrêté chaque année dans la limite de 15 millions
+Le montant de cette taxe est arrêté chaque année dans la limite de 25 millions
 d'euros par le conseil d'administration de l'établissement public et notifié au
 ministre de l'économie et des finances. Le montant maximum ne peut être modifié
 que par une loi de finances.

@@ -5,8 +5,8 @@ Les recettes de la section de fonctionnement comprennent notamment :
 a) Le produit des contributions et taxes prévues par le code général des impôts
 parmi lesquelles figurent :
 
-1° La taxe foncière sur les propriétés bâties, la taxe foncière sur les
-propriétés non bâties et la taxe professionnelle ;
+1° La cotisation sur la valeur ajoutée des entreprises et l'imposition
+forfaitaire sur les entreprises de réseaux ;
 
 2° La taxe sur les permis de conduire ;
 
@@ -28,6 +28,8 @@ l'article 285 ter du code des douanes ;
 8° Les droits assimilés au droit d'octroi de mer auxquels sont soumis les rhums
 et spiritueux ;
 
+9° Le reversement du Fonds national de garantie individuelle des ressources ;
+
 Les taxes ou droits assimilés aux 5°, 6°, 7° et 8° ne concernent que les régions
 d'outre-mer ;
 
@@ -44,4 +46,6 @@ e) Le produit ou le revenu des biens appartenant à la région ;
 
 f) Les recettes pour services rendus ;
 
-g) Les dons et legs en espèces hormis ceux visés au c de l'article L. 4331-3.
+g) Les dons et legs en espèces hormis ceux visés au c de l'article L. 4331-3;
+
+h) La dotation de compensation de la réforme de la taxe professionnelle.

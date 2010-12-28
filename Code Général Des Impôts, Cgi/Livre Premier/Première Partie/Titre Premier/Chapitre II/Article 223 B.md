@@ -21,7 +21,11 @@ société mère apporte la preuve qu'ils proviennent de produits de participatio
 versés par une société membre du groupe depuis plus d'un exercice (3) et n'ayant
 pas déjà justifié des rectifications effectuées en application du présent alinéa
 ou du deuxième alinéa sont retranchés du résultat d'ensemble s'ils n'ouvrent pas
-droit à l'application du régime mentionné au 1 de l'article 145 (2).
+droit à l'application du régime mentionné au 1 de l'article 145 (2). Lorsque les
+titres n'ont pas été conservés pendant un délai de deux ans, leur prix de
+revient est diminué, pour la détermination de la plus-value ou moins-value de
+cession, du montant des produits de participation y afférents dont le montant a
+été retranché du résultat d'ensemble en application du présent alinéa.
 
 Il est majoré du montant des dotations complémentaires aux provisions
 constituées par une société après son entrée dans le groupe, à raison des

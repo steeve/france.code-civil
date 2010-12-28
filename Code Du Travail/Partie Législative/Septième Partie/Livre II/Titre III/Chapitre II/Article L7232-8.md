@@ -3,7 +3,8 @@ Article L7232-8
 Lorsqu'il est constaté qu'une personne morale ou une entreprise individuelle
 mentionnée aux articles L. 7232-1 et L. 7232-1-1 ne se livre pas à titre
 exclusif à une activité prévue à l'article L. 7231-1, elle perd le bénéfice des
-1° et 2° de l'article L. 7233-2 et de l'article L. 7233-3.
+1° et 2° de l'article L. 7233-2 et de l'article L. 241-10 du code de la sécurité
+sociale.
 
 Elle ne peut bénéficier de nouveau de ces avantages à l'occasion d'une nouvelle
 déclaration qu'après une période de douze mois.

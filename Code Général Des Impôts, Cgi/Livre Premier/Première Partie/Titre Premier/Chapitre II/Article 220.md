@@ -1,12 +1,31 @@
 Article 220
 ----
 1. a) Sur justifications, la retenue à la source à laquelle ont donné ouverture
-les revenus des capitaux mobiliers, visés aux articles 108 à 119, 238 septies B
+les revenus des capitaux mobiliers, visés aux articles 108 à 119,238 septies B
 et 1678 bis, perçus par la société ou la personne morale est imputée sur le
 montant de l'impôt à sa charge en vertu du présent chapitre.
 
 Toutefois, la déduction à opérer de ce chef ne peut excéder la fraction de ce
 dernier impôt correspondant au montant desdits revenus.
+
+Lorsque ces revenus sont perçus à raison de biens ou droits préalablement
+détenus par la personne, ou une autre personne qui lui est liée au sens du 12 de
+l'article 39, qui, dans le contrat ayant conféré au contribuable la détention de
+ces biens ou droits ou dans un contrat y afférent, s'est engagée à en retrouver
+ou s'est réservé la possibilité d'en retrouver ultérieurement la détention, ce
+montant est diminué des charges engagées pour l'acquisition de ces revenus par
+le contribuable et les personnes qui lui sont liées, y compris :
+
+― les moins-values de cession de ces biens ou droits ;
+
+― les sommes, autres que le prix d'acquisition de ces biens ou droits, versées à
+cette autre personne ou aux personnes qui lui sont liées, au sens du 12 de
+l'article 39.
+
+Toutefois, les troisième à cinquième alinéas du présent a ne s'appliquent pas si
+le contribuable apporte la preuve que la conclusion du contrat n'avait pas
+principalement pour objet ou pour effet de lui faire bénéficier du crédit
+d'impôt.
 
 b) En ce qui concerne les revenus de source étrangère visés aux articles 120 à
 123, l'imputation est limitée au montant du crédit correspondant à l'impôt

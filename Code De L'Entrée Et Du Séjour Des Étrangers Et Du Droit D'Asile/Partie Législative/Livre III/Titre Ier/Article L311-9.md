@@ -18,10 +18,9 @@ titre ou un diplôme reconnus par l'Etat. L'étranger bénéficie d'une session
 d'information sur la vie en France et d'un bilan de compétences
 professionnelles. Toutes ces formations et prestations sont dispensées
 gratuitement et financées par l'Office français de l'immigration et de
-l'intégration ou par l'établissement public appelé à lui succéder. Lorsque
-l'étranger est âgé de seize à dix-huit ans, le contrat d'accueil et
-d'intégration doit être cosigné par son représentant légal régulièrement admis
-au séjour en France.
+l'intégration. Lorsque l'étranger est âgé de seize à dix-huit ans, le contrat
+d'accueil et d'intégration doit être cosigné par son représentant légal
+régulièrement admis au séjour en France.
 
 Lors du premier renouvellement de la carte de séjour, l'autorité administrative
 tient compte du non-respect, manifesté par une volonté caractérisée, par

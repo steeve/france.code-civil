@@ -5,9 +5,9 @@ général des impôts, le potentiel fiscal de chaque commune membre est calculé
 la façon suivante :
 
 a) Pour la première année de fonctionnement du syndicat d'agglomération
-nouvelle, le potentiel fiscal de chaque commune intègre, au titre de la taxe
-professionnelle, une quote-part des bases d'imposition de l'ensemble de
-l'agglomération, proportionnelle à la population de la commune ;
+nouvelle, le potentiel fiscal de chaque commune intègre, au titre de la
+cotisation foncière des entreprises , une quote-part des bases d'imposition de
+l'ensemble de l'agglomération, proportionnelle à la population de la commune ;
 
 b) A compter de la seconde année de fonctionnement du syndicat d'agglomération
 nouvelle, le potentiel fiscal de chaque commune est celui qui est défini à

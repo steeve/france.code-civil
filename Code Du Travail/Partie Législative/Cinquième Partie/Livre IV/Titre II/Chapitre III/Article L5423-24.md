@@ -2,7 +2,7 @@ Article L5423-24
 ----
 Le fonds de solidarité gère les moyens de financement :
 
-1° De la prime de retour à l'emploi prévue à l'article L. 5133-1 ;
+1° (Abrogé) ;
 
 2° (Abrogé) ;
 

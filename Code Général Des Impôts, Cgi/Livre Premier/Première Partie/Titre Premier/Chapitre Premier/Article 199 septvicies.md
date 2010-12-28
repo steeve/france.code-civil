@@ -121,7 +121,9 @@ l'engagement de location mentionnée au I, dans les conditions mentionnées au
 deuxième alinéa du l du 1° du I de l'article 31, par période de trois ans, le
 contribuable continue à bénéficier de la réduction d'impôt prévue au présent
 article pendant au plus six années supplémentaires. Dans ce cas, la réduction
-d'impôt annuelle est égale à 2 % du prix de revient du logement.
+d'impôt annuelle est égale à 6 % du prix de revient du logement par période
+triennale, imputée à raison d'un tiers de son montant sur l'impôt dû au titre de
+chacune des années comprises dans ladite période.
 
 VI. ― Un contribuable ne peut, pour un même logement ou une même souscription de
 parts, bénéficier à la fois de l'une des réductions d'impôt prévues aux articles

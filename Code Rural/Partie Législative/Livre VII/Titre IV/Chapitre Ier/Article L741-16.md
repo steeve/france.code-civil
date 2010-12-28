@@ -33,14 +33,7 @@ les employeurs mentionnés au I du présent article dans le cadre du contrat de
 travail défini à l'article L. 718-4 ne donnent pas lieu à cotisations
 d'assurances sociales à la charge du salarié.
 
-IV. - Les rémunérations et gains des jeunes travailleurs occasionnels âgés de
-moins de vingt-six ans embauchés par les employeurs mentionnés au I du présent
-article ne donnent pas lieu à cotisations d'assurances sociales à la charge du
-salarié pendant une période n'excédant pas un mois par an et par salarié. Pour
-chaque salarié, le montant des rémunérations et gains exonérés est limité au
-produit du salaire minimum de croissance par le nombre d'heures rémunérées.
-Cette exonération ne s'applique pas pour les salariés employés dans le cadre du
-contrat défini à l'article L. 718-4.
+IV. -Abrogé. (1)
 
 V. - Les coopératives d'utilisation du matériel agricole mettant des salariés à
 la disposition de leurs adhérents ne bénéficient pas des dispositions du présent

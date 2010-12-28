@@ -22,8 +22,9 @@ logement, tels que définis à l'article L. 2334-17, dans le nombre total de
 logements du département et cette même proportion constatée dans l'ensemble des
 départements urbains ;
 
-3° Du rapport entre la proportion du total des bénéficiaires du revenu minimum
-d'insertion dans le département et cette même proportion constatée dans
+3° Du rapport entre la proportion du total des bénéficiaires du montant
+forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et
+des famillesdans le département et cette même proportion constatée dans
 l'ensemble des départements urbains, calculé en prenant en compte la population
 définie à l'article L. 3334-2 ;
 
@@ -34,7 +35,7 @@ le dernier revenu imposable connu.
 
 Les départements sont classés en fonction de la valeur décroissante de leur
 indice synthétique, selon des modalités définies par décret en Conseil d'Etat et
-tenant compte des montants visés aux 1°, 2°, 3° et 4°. L'attribution revenant à
+tenant compte des montants visés aux 1°,2°,3° et 4°.L'attribution revenant à
 chaque département urbain éligible est déterminée en fonction de sa population
 et de son indice synthétique.
 

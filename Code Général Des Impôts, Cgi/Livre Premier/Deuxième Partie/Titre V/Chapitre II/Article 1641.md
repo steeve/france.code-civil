@@ -1,51 +1,65 @@
 Article 1641
 ----
-I. 1. En contrepartie des frais de dégrèvement et de non-valeurs qu'il prend à
-sa charge, l'Etat perçoit 3,60 % du montant des taxes suivantes :
+I.-A.-En contrepartie des frais de dégrèvement et de non-valeurs qu'il prend à
+sa charge, l'Etat perçoit 2 % du montant des taxes suivantes : a) Taxe foncière
+sur les propriétés bâties ;
 
-a. taxe foncière sur les propriétés bâties ;
+b) Taxe foncière sur les propriétés non bâties ;
 
-b. taxe foncière sur les propriétés non bâties ;
-
-c. taxe d'habitation due pour les locaux meublés non affectés à l'habitation
+c) Taxe d'habitation due pour les locaux meublés non affectés à l'habitation
 principale ;
 
-d. taxe professionnelle ;
+d) Cotisation foncière des entreprises ;
 
-e. taxe d'enlèvement des ordures ménagères ;
+e) Imposition forfaitaire sur les entreprises de réseaux prévue aux articles
+1519 D, 1519 E, 1519 F, 1519 G, 1519 H, 1519 HA, 1599 quater A, 1599 quater A
+bis et 1599 quater B ;
 
-f. taxe de balayage ;
+f) Taxe additionnelle à la taxe foncière sur les propriétés non bâties prévue à
+l'article 1519 I.
 
-g. taxe pour frais de chambres d'agriculture ;
+B.-1. En contrepartie des frais de dégrèvement visés au A, l'Etat perçoit 3,6 %
+du montant des taxes suivantes :
 
-h. taxe pour frais de chambres de commerce et d'industrie ;
+a) Taxe pour frais de chambres d'agriculture ;
 
-i. taxe pour frais de chambres de métiers et de l'artisanat.
+b) Taxe pour frais de chambres de commerce et d'industrie ;
+
+c) Taxe pour frais de chambres de métiers et de l'artisanat ;
+
+d) Taxe d'enlèvement des ordures ménagères ;
+
+e) Taxe de balayage.
 
 2. Sauf dispositions contraires, il en est de même pour les contributions et
 taxes qui sont établies et recouvrées comme en matière de contributions directes
-au profit de toutes collectivités, fonds ou organismes divers.
+au profit des collectivités territoriales, de leurs établissements publics de
+coopération intercommunale et de fonds, établissements ou organismes divers.
 
-3. En contrepartie des dégrèvements prévus à l'article 1414 A, l'Etat perçoit un
-prélèvement assis sur les valeurs locatives servant de base à la taxe
+3. En contrepartie des dégrèvements prévus à l'article 1414 A, l'Etat perçoit :
+
+1° Un prélèvement assis sur les valeurs locatives servant de base à la taxe
 d'habitation diminuées des abattements votés par la commune en application de
 l'article 1411. Les redevables visés aux articles 1414 et 1414 A en sont
 toutefois exonérés pour leur habitation principale.
 
 Le taux de ce prélèvement est fixé comme suit :
 
-Locaux d'habitation non affectés à l'habitation principale dont la valeur
+a) Locaux d'habitation non affectés à l'habitation principale dont la valeur
 locative est :
 
-Supérieure à 7 622 euros : 1,7 %
+-supérieure à 7 622 € : 1,7 % ;
 
-Inférieure ou égale à 7 622 euros et supérieure à 4 573 euros :
+-inférieure ou égale à 7 622 € et supérieure à 4 573 € : 1,2 % ;
 
-1,2 %
+b) Autres locaux dont la valeur locative est supérieure à 4 573 € : 0,2 % ;
 
-Autres locaux dont la valeur locative est supérieure à 4 573 euros : 0,2 %.
+2° Un prélèvement égal à 1,5 % en sus du montant de la taxe d'habitation due
+pour les locaux meublés non affectés à l'habitation principale.
 
-II. Pour frais d'assiette et de recouvrement, l'Etat perçoit 5, 4 % du montant
-des taxes visées au I, ainsi que de la taxe d'habitation due pour les locaux
-meublés affectés à l'habitation principale. Ce taux est réduit à 4,4 % pour les
-impositions perçues au profit des collectivités locales et de leurs groupements.
+II.-Pour les frais d'assiette et de recouvrement, l'Etat perçoit 1 % du montant
+des taxes visées au A du I, ainsi que de la taxe d'habitation due pour les
+locaux meublés affectés à l'habitation principale, et 5,4 % du montant de celles
+visées au même B du I. Pour les impositions visées au même B et perçues au
+profit des collectivités locales et de leurs groupements, ce taux est réduit à
+4,4 %.

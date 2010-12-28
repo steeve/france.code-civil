@@ -48,4 +48,6 @@ déterminées par les communes.
 Les communes sont tenues d'informer le public des conditions d'application du
 premier alinéa du présent 15° sur leur territoire, par un affichage approprié en
 mairie et, le cas échéant, dans tous les lieux où sont apposées les consignes
-relatives à la sécurité.
+relatives à la sécurité ;
+
+16° La dotation de compensation de la réforme de la taxe professionnelle.

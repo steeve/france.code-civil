@@ -1,6 +1,6 @@
 Article 212
 ----
-I. - Les intérêts afférents aux sommes laissées ou mises à disposition d'une
+I.-Les intérêts afférents aux sommes laissées ou mises à disposition d'une
 entreprise par une entreprise liée directement ou indirectement au sens du 12 de
 l'article 39 sont déductibles dans la limite de ceux calculés d'après le taux
 prévu au premier alinéa du 3° du 1 de l'article 39 ou, s'ils sont supérieurs,
@@ -8,7 +8,7 @@ d'après le taux que cette entreprise emprunteuse aurait pu obtenir
 d'établissements ou d'organismes financiers indépendants dans des conditions
 analogues.
 
-II. - 1. Lorsque le montant des intérêts servis par une entreprise à l'ensemble
+II.-1. Lorsque le montant des intérêts servis par une entreprise à l'ensemble
 des entreprises liées directement ou indirectement au sens du 12 de l'article 39
 et déductibles conformément au I excède simultanément au titre d'un même
 exercice les trois limites suivantes :
@@ -60,14 +60,65 @@ servis à ces entreprises ou ces établissements pour les opérations prévues a
 cinquième alinéa du 1 et pour la détermination des limites fixées aux a et c du
 1 ainsi que de la majoration d'intérêts indiquée au b du 1.
 
-III. - Les dispositions du II ne s'appliquent pas si l'entreprise apporte la
+3. Pour l'application du 1 du présent II, sont assimilés à des intérêts servis à
+une entreprise liée directement ou indirectement au sens du 12 de l'article 39
+et admis en déduction en vertu du I du présent article, les intérêts qui
+rémunèrent des sommes laissées ou mises à disposition dont le remboursement est
+garanti par une sûreté accordée par une entreprise liée au débiteur, ou par une
+entreprise dont l'engagement est garanti par une sûreté accordée par une
+entreprise liée au débiteur, à proportion de la part de ces sommes dont le
+remboursement est ainsi garanti. Toutefois, les intérêts rémunérant des sommes
+dont le remboursement est garanti directement ou indirectement par une sûreté
+accordée par une entreprise ne sont pas pris en compte pour la détermination de
+la limite mentionnée au c du 1 du présent II applicable à l'entreprise ayant
+accordé cette sûreté.
+
+Lorsque le remboursement est garanti par une sûreté réelle, la part des sommes
+dont le remboursement est garanti est réputée égale au rapport entre, d'une
+part, un montant égal à la valeur du bien à la date où la sûreté a été
+constituée sur lui ou, si le bien n'existe pas encore, à sa valeur estimée à
+cette même date et, d'autre part, le montant initial des sommes laissées ou
+mises à disposition. Ce rapport est révisé en cas de modification de la
+convention constituant la sûreté.
+
+Pour l'application du a du 1 du présent II, les sommes dont le remboursement est
+garanti dans les conditions définies au premier alinéa du présent 3 sont
+assimilées, pour leur fraction ainsi garantie, à des sommes laissées ou mises à
+disposition par une entreprise liée directement ou indirectement au sens du 12
+de l'article 39.
+
+Les intérêts mentionnés à la première phrase du premier alinéa du présent 3 sont
+assimilés à des intérêts versés à une société liée directement ou indirectement
+au sens du 12 de l'article 39 n'appartenant pas au groupe pour l'application des
+seizième et dix-septième alinéas de l'article 223 B.
+
+Le présent 3 n'est pas applicable aux sommes laissées ou mises à disposition :
+
+1° A raison d'obligations émises dans le cadre d'une offre au public au sens de
+l'article L. 411-1 du code monétaire et financier ou d'une réglementation
+étrangère équivalente ;
+
+2° Pour leur fraction dont le remboursement est exclusivement garanti par le
+nantissement des titres du débiteur, ou de créances sur ce débiteur, ou des
+titres d'une société détenant directement ou indirectement le débiteur lorsque
+le détenteur de ces titres et le débiteur sont membres d'un même groupe
+mentionné à l'article 223 A ;
+
+3° A la suite du remboursement d'une dette préalable, rendu obligatoire par la
+prise de contrôle du débiteur, dans la limite du capital remboursé et des
+intérêts échus à cette occasion ;
+
+4° A raison d'emprunts contractés antérieurement au 1er janvier 2011 à
+l'occasion d'une opération d'acquisition de titres ou de son refinancement.
+
+III.-Les dispositions du II ne s'appliquent pas si l'entreprise apporte la
 preuve que le ratio d'endettement du groupe auquel elle appartient est supérieur
 ou égal à son propre ratio d'endettement au titre de l'exercice mentionné au II.
 
 Pour l'application des dispositions du premier alinéa, le groupe s'entend de
 l'ensemble des entreprises françaises ou étrangères placées sous le contrôle
 exclusif d'une même société ou personne morale, au sens du II de l'article L.
-233-16 du code de commerce. L'appréciation des droits de vote détenus
+233-16 du code de commerce.L'appréciation des droits de vote détenus
 indirectement par la société ou personne morale s'opère en additionnant les
 pourcentages de droits de vote détenus par chaque entreprise du groupe.
 
@@ -80,6 +131,6 @@ entreprises contrôlées et retraités des opérations réciproques réalisées 
 les entreprises appartenant au groupe, figurant au bilan du dernier exercice
 clos de l'ensemble des entreprises appartenant au groupe.
 
-IV. - Les dispositions du deuxième alinéa du 3° du 1 de l'article 39 ne sont pas
+IV.-Les dispositions du deuxième alinéa du 3° du 1 de l'article 39 ne sont pas
 applicables aux sociétés régies par la loi n° 47-1775 du 10 septembre 1947
 portant statut de la coopération.

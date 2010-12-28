@@ -11,8 +11,8 @@ leur habitation principale, sous réserve que les pièces louées constituent po
 le locataire ou le sous-locataire en meublé sa résidence principale, et que le
 prix de location demeure fixé dans des limites raisonnables ;
 
-3° Sauf délibération contraire des collectivités territoriales et de leurs
-groupements dotés d'une fiscalité propre :
+3° Sauf délibération contraire de la commune ou de l'établissement public de
+coopération intercommunale doté d'une fiscalité propre :
 
 a) Les personnes qui louent tout ou partie de leur habitation personnelle à
 titre de gîte rural ;

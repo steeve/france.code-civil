@@ -2,11 +2,11 @@ Article 244 quater N
 ----
 I.-Les entreprises imposées d'après leur bénéfice réel ou exonérées en
 application des articles 44 sexies, 44 sexies A, 44 octies, 44 octies A, 44
-decies , 44 undecies , 44 terdecies et 44 quaterdecies qui emploient des
-salariés réservistes ayant souscrit un engagement à servir dans la réserve
-opérationnelle au titre des articles 8 et 9 de la loi n° 99-894 du 22 octobre
-1999 portant organisation de la réserve militaire et du service de défense
-peuvent bénéficier d'un crédit d'impôt.
+decies, 44 undecies, 44 terdecies à 44 quindecies qui emploient des salariés
+réservistes ayant souscrit un engagement à servir dans la réserve opérationnelle
+au titre des articles 8 et 9 de la loi n° 99-894 du 22 octobre 1999 portant
+organisation de la réserve militaire et du service de défense peuvent bénéficier
+d'un crédit d'impôt.
 
 Ce crédit d'impôt est égal à 25 % de la différence entre :
 

@@ -27,8 +27,11 @@ d) Comme carburant ou combustible par le ministère de la défense. Cette
 exonération est accordée par voie de remboursement pour les produits consommés
 du 1er janvier 2006 au 1er janvier 2009. Toutefois, cette exonération ne
 s'applique pas aux produits pétroliers utilisés dans le cadre des actions n° s
-01, 02, 03 et 04 du programme n° 152 " Gendarmerie nationale " de la mission
-interministérielle " Sécurité ".
+01,02,03 et 04 du programme n° 152 " Gendarmerie nationale " de la mission
+interministérielle " Sécurité ";
+
+e) Comme carburant ou combustible pour le transport de marchandises sur les
+voies navigables intérieures .
 
 2. Les carburants destinés aux moteurs d'avions sont exonérés de la taxe
 intérieure de consommation lorsqu'ils sont utilisés dans le cadre de la
@@ -39,7 +42,9 @@ l'entretien des aéronefs et de leurs moteurs.
 :
 
 a) Pour la production d'électricité, à l'exclusion des produits utilisés dans
-des installations mentionnées à l'article 266 quinquies A ;
+des installations mentionnées à l'article 266 quinquies A et des produits
+utilisés pour leurs besoins par les petits producteurs d'électricité au sens du
+4° du V de l'article L. 3333-2 du code général des collectivités territoriales ;
 
 b) Pour les besoins de l'extraction et de la production de gaz naturel.
 

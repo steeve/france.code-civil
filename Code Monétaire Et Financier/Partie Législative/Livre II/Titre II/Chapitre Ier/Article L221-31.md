@@ -69,7 +69,12 @@ bénéficier des avantages fiscaux résultant des dispositions des 2° quater et
 quinquies de l'article 83, des articles 83 ter, 199 unvicies, 199 undecies (1),
 199 undecies A et 199 terdecies A, du I bis de l'article 163 bis C du code
 général des impôts, ainsi que du deuxième alinéa du II de l'article 726 du même
-code ne peuvent figurer dans le plan ;
+code ne peuvent figurer dans le plan. Ne peuvent pas non plus figurer dans le
+plan les parts de fonds communs de placement à risques, les actions de sociétés
+de capital-risque et les titres des entités mentionnées au dernier alinéa du 8
+du II de l'article 150-0 A du code général des impôts, donnant lieu à des droits
+différents sur l'actif net ou sur les produits du fonds, de la société ou de
+l'entité et attribués en fonction de la qualité de la personne ;
 
 3° Le titulaire du plan, son conjoint et leurs ascendants et descendants ne
 doivent pas, pendant la durée du plan, détenir ensemble, directement ou

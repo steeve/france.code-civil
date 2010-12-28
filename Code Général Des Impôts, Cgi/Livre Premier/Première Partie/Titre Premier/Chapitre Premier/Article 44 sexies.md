@@ -25,9 +25,11 @@ dans l'une de ces zones :
 
 1° A compter du 1er janvier 1995 et jusqu'au 31 décembre 2010, dans les zones de
 revitalisation rurale mentionnées à l'article 1465 A ou dans les zones de
-redynamisation urbaine définies au I ter de l'article 1466 A ;
+redynamisation urbaine définies au A du 3 de l'article 42 de la loi n° 95-115 du
+4 février 1995 d'orientation pour l'aménagement et le développement du
+territoire ;
 
-2° A compter du 1er janvier 2007 et jusqu'au 31 décembre 2010, dans les zones
+2° A compter du 1er janvier 2007 et jusqu'au 31 décembre 2013, dans les zones
 d'aide à finalité régionale.
 
 Lorsqu'une entreprise exerce une activité non sédentaire, réalisée en partie en
@@ -66,6 +68,11 @@ bancaire, financière, d'assurances, de gestion ou de location d'immeubles sauf
 dans les cas prévus au premier alinéa, ni aux entreprises exerçant une activité
 de pêche maritime créées à compter du 1er janvier 1997.
 
+L'exonération reste applicable pour sa durée restant à courir lorsque la commune
+d'implantation de l'entreprise sort de la liste des communes classées en zone de
+revitalisation rurale, d'aide à finalité régionale ou de redynamisation urbaine
+après la date de sa création.
+
 II. Le capital des sociétés nouvellement créées ne doit pas être détenu,
 directement ou indirectement, pour plus de 50 % par d'autres sociétés.
 
@@ -100,6 +107,6 @@ mois. Ces dispositions s'appliquent aux exercices clos jusqu'au 31 décembre
 2006.
 
 Pour les exercices clos à compter du 1er janvier 2007, le bénéfice de
-l'exonération est subordonné au respect du règlement (CE) n° 1998 / 2006 de la
+l'exonération est subordonné au respect du règlement (CE) n° 1998/2006 de la
 Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du
 traité aux aides de minimis.

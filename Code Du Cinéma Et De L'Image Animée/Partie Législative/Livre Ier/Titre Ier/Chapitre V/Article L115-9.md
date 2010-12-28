@@ -58,4 +58,4 @@ i) 4,5 % pour la fraction supérieure à 530 000 000 euros ;
 3° Dans le cas mentionné au deuxième alinéa de l'article L. 115-6, la taxe due
 en tant qu'éditeur de services est calculée selon les modalités mentionnées au
 1° et la taxe due en tant que distributeur de services selon les modalités
-mentionnées au 2°.
+mentionnées au 2°. Toutefois, le taux mentionné au i du 2° est majoré de 2,2.

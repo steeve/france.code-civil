@@ -35,7 +35,7 @@ g) Toutes activités immobilières ;
 h) La navigation de croisière, la réparation automobile, les locations sans
 opérateurs, à l'exception de la location directe de navires de plaisance ou au
 profit des personnes physiques utilisant pour une durée n'excédant pas deux mois
-des véhicules automobiles mentionnés au premier alinéa de l'article 1010 ;
+des véhicules de tourisme au sens de l'article 1010 ;
 
 i) Les services fournis aux entreprises, à l'exception de la maintenance, des
 activités de nettoyage et de conditionnement à façon et des centres d'appel ;
@@ -55,15 +55,18 @@ de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de
 village de vacances classés et aux logiciels qui sont nécessaires à
 l'utilisation des investissements éligibles, lorsque ces travaux et logiciels
 constituent des éléments de l'actif immobilisé. La réduction d'impôt ne
-s'applique pas à l'acquisition de véhicules de tourisme qui ne sont pas
-strictement indispensables à l'activité de l'exploitant. Les conditions
-d'application de la phrase précédente sont fixées par arrêté du ministre chargé
-du budget et du ministre chargé de l'outre-mer.
+s'applique pas à l'acquisition de véhicules de tourisme au sens de l'article
+1010 qui ne sont pas strictement indispensables à l'activité de l'exploitant.
+Les conditions d'application de la phrase précédente sont fixées par arrêté du
+ministre chargé du budget et du ministre chargé de l'outre-mer.
 
 La réduction d'impôt prévue au premier alinéa s'applique également aux
 investissements nécessaires à l'exploitation d'une concession de service public
 local à caractère industriel et commercial réalisés dans des secteurs éligibles,
-quelles que soient la nature des biens et leur affectation finale.
+quelles que soient la nature des biens et leur affectation finale. La réduction
+d'impôt prévue au premier alinéa ne s'applique pas aux investissements portant
+sur des installations de production d'électricité utilisant l'énergie radiative
+du soleil.
 
 La réduction d'impôt est de 50 % du montant, hors taxes et hors frais de toute
 nature, notamment les commissions d'acquisition, à l'exception des frais de
@@ -92,13 +95,13 @@ classés dans les départements d'outre-mer. Le bénéfice de cette mesure est
 accordé à l'exploitant lorsqu'il prend en charge ces travaux.
 
 Les dispositions du premier alinéa s'appliquent aux investissements réalisés par
-une société soumise au régime d'imposition prévu à l'article 8 ou un groupement
-mentionné aux articles 239 quater ou 239 quater C, dont les parts sont détenues
-directement, ou par l'intermédiaire d'une entreprise unipersonnelle à
-responsabilité limitée, par des contribuables domiciliés en France au sens de
-l'article 4 B. En ce cas, la réduction d'impôt est pratiquée par les associés ou
-membres dans une proportion correspondant à leurs droits dans la société ou le
-groupement.
+une société soumise au régime d'imposition prévu à l'article 8, à l'exclusion
+des sociétés en participation, ou un groupement mentionné aux articles 239
+quater ou 239 quater C, dont les parts sont détenues directement, ou par
+l'intermédiaire d'une entreprise unipersonnelle à responsabilité limitée, par
+des contribuables domiciliés en France au sens de l'article 4 B. En ce cas, la
+réduction d'impôt est pratiquée par les associés ou membres dans une proportion
+correspondant à leurs droits dans la société ou le groupement.
 
 La réduction d'impôt prévue au premier alinéa est pratiquée au titre de l'année
 au cours de laquelle l'investissement est réalisé. Toutefois, en cas
@@ -159,9 +162,9 @@ alinéa.
 La réduction d'impôt prévue au présent I s'applique aux investissements
 productifs mis à la disposition d'une entreprise dans le cadre d'un contrat de
 location si les conditions mentionnées aux quinzième à dix-huitième alinéas du I
-de l'article 217 undecies sont remplies et si 60 % de la réduction d'impôt sont
-rétrocédés à l'entreprise locataire sous forme de diminution du loyer et du prix
-de cession du bien à l'exploitant. Ce taux est ramené à 50 % pour les
+de l'article 217 undecies sont remplies et si 62,5 % de la réduction d'impôt
+sont rétrocédés à l'entreprise locataire sous forme de diminution du loyer et du
+prix de cession du bien à l'exploitant. Ce taux est ramené à 52,63 % pour les
 investissements dont le montant par programme et par exercice est inférieur à
 300 000 euros par exploitant. Si, dans le délai de cinq ans de la mise à
 disposition du bien loué ou pendant sa durée normale d'utilisation si elle est
@@ -204,7 +207,7 @@ budget dans les conditions prévues au III de l'article 217 undecies ;
 
 2° Les investissements sont mis à la disposition d'une entreprise dans le cadre
 d'un contrat de location respectant les conditions mentionnées aux quinzième à
-dix-huitième alinéas du I de l'article 217 undecies et 60 % de la réduction
+dix-huitième alinéas du I de l'article 217 undecies et 62,5 % de la réduction
 d'impôt sont rétrocédés à l'entreprise locataire sous forme de diminution du
 loyer et du prix de cession du bien à l'exploitant. Les dispositions du
 trente-troisième alinéa sont applicables ;
@@ -230,7 +233,22 @@ supérieure à sept ans, et qui sont loués dans les conditions prévues au
 vingt-sixième alinéa, la réduction d'impôt prévue est applicable lorsque
 l'entreprise locataire prend l'engagement d'utiliser effectivement pendant sept
 ans au moins ces investissements dans le cadre de l'activité pour laquelle ils
-ont été acquis ou créés.
+ont été acquis ou créés. Lorsque la réduction d'impôt mentionnée au présent I
+est acquise dans les conditions prévues aux vingt-sixième et vingt-neuvième
+alinéas et que la fraction de la réduction d'impôt rétrocédée à l'entreprise
+locataire est de 62,5 %, les taux de 50 % et 60 % mentionnés au dix-septième
+alinéa sont respectivement ramenés à 48 % et 57,6 % et la majoration de dix
+points mentionnée au même alinéa est ramenée à 9,6 points. Dans les mêmes
+conditions, le taux de 70 % mentionné au dix-huitième alinéa est ramené à 67,2
+%.
+
+Lorsque la réduction d'impôt mentionnée au présent I est acquise dans les
+conditions prévues aux vingt-sixième et vingt-neuvième alinéas et que la
+fraction de la réduction d'impôt rétrocédée à l'entreprise locataire est de
+52,63 %, les taux de 50 % et 60 % mentionnés au dix-septième alinéa sont
+respectivement ramenés à 47,5 % et 57 % et la majoration de dix points
+mentionnée au même alinéa est ramenée à 9,5 points. Dans les mêmes conditions,
+le taux de 70 % mentionné au dix-huitième alinéa est ramené à 66,5 %.
 
 I bis.-1. En cas de location, dans les conditions mentionnées au vingt-sixième
 alinéa du I, d'un hôtel, d'une résidence de tourisme ou d'un village de vacances
@@ -242,11 +260,11 @@ bis du I de l'article 156 ne sont pas applicables.
 
 2. Les dispositions du 1 sont applicables sur agrément préalable du ministre
 chargé du budget dans les conditions prévues aux 1 et 2 du III de l'article 217
-undecies et si 60 % de l'avantage en impôt procuré par l'imputation des déficits
-provenant de la location d'un hôtel, d'une résidence de tourisme ou d'un village
-de vacances classés et par la réduction d'impôt visée au dix-huitième alinéa du
-I sont rétrocédés à l'entreprise locataire sous forme de diminution de loyer et
-du prix de cession du bien à l'exploitant.
+undecies et si 62,5 % de l'avantage en impôt procuré par l'imputation des
+déficits provenant de la location d'un hôtel, d'une résidence de tourisme ou
+d'un village de vacances classés et par la réduction d'impôt visée au
+dix-huitième alinéa du I sont rétrocédés à l'entreprise locataire sous forme de
+diminution de loyer et du prix de cession du bien à l'exploitant.
 
 3. Les dispositions du 1 sont applicables, pour une durée de cinq ans à compter
 de la date de clôture de l'exercice de livraison ou d'achèvement, aux opérations

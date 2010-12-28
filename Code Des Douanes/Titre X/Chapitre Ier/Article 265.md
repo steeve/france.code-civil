@@ -43,9 +43,9 @@ combustibles.
 
 1
 
-100 kg net.
+100 kg net
 
-1, 50.
+1,50
 
 
 Ex 2707-50
@@ -87,9 +87,10 @@ constituent l'élément de base, autres que les déchets :
 
 4 bis
 
-Hectolitre.
 
-5, 66.
+Hectolitre
+
+5,66
 
 ----autres essences spéciales :
 
@@ -97,15 +98,17 @@ Hectolitre.
 
 6
 
-Hectolitre.
 
-58, 92.
+Hectolitre
+
+58,92
 
 -----autres.
 
 9
 
-Exemption.
+
+Exemption
 
 ---autres huiles légères et préparations :
 
@@ -115,20 +118,22 @@ Exemption.
 
 10
 
-Hectolitre.
 
-35, 90.
+Hectolitre
 
------supercarburant d'une teneur en plomb n'excédant pas 0, 005 g / litre, autre
+35,90
+
+-----supercarburant d'une teneur en plomb n'excédant pas 0,005 g/litre, autre
 que le supercarburant correspondant à l'indice d'identi-fication n° 11 bis ;
 
 11
 
-Hectolitre.
 
-60, 69.
+Hectolitre
 
------supercarburant d'une teneur en plomb n'excédant pas 0, 005 g / litre,
+60,69
+
+-----supercarburant d'une teneur en plomb n'excédant pas 0,005 g/litre,
 contenant un additif spécifique améliorant les caractéristiques antirécession de
 soupape (ARS), à base de potassium, ou tout autre additif reconnu de qualité
 équivalente dans un autre Etat membre de la Communauté européenne ou dans un
@@ -136,22 +141,23 @@ autre Etat membre de l'Espace économique européen.
 
 11 bis
 
-Hectolitre.
 
-63, 96.
+Hectolitre
 
-Supercarburant d'une teneur en plomb n'excédant pas 0, 005 g / litre, autre que
-les supercarburants correspondant aux indices d'identification 11 et 11 bis, et
-contenant jusqu'à 10 % v / v d'éthanol, 22 % v / v d'éthers contenant 5 d'atomes
-de carbone, ou plus, par molécule et d'une teneur en oxygène maximum de 4 % en m
-/ m d'oxygène. Ce super-carburant est dénommé E10.
+63,96
+
+Supercarburant d'une teneur en plomb n'excédant pas 0,005 g/litre, autre que les
+supercarburants correspondant aux indices d'identification 11 et 11 bis, et
+contenant jusqu'à 10 % v/v d'éthanol, 22 % v/v d'éthers contenant 5 d'atomes de
+carbone, ou plus, par molécule et d'une teneur en oxygène maximum de 4 % en m /
+m d'oxygène. Ce super-carburant est dénommé E10.
 
 11 ter
 
 
 Hectolitre
 
-60, 69
+60,69
 
 ----carburéacteurs, type essence :
 
@@ -159,33 +165,37 @@ Hectolitre
 
 13
 
-Hectolitre.
 
-2, 54.
+Hectolitre
+
+2,54
 
 -----carburant pour moteurs d'avions ;
 
 13 bis
 
-Hectolitre.
 
-30, 20.
+Hectolitre
+
+30,20
 
 -----autres.
 
 13 ter
 
-Hectolitre.
 
-58, 92.
+Hectolitre
+
+58,92
 
 ----autres huiles légères.
 
 15
 
-Hectolitre.
 
-58, 92.
+Hectolitre
+
+58,92
 
 --huiles moyennes :
 
@@ -195,17 +205,19 @@ Hectolitre.
 
 15 bis
 
-Hectolitre.
 
-5, 66.
+Hectolitre
+
+5,66
 
 -----autres.
 
 16
 
-Hectolitre.
 
-41, 69.
+Hectolitre
+
+41,69
 
 ---carburéacteurs, type pétrole lampant :
 
@@ -213,33 +225,37 @@ Hectolitre.
 
 17
 
-Hectolitre.
 
-2, 54.
+Hectolitre
+
+2,54
 
 ----carburant pour moteurs d'avions.
 
 17 bis
 
-Hectolitre.
 
-30, 2.
+Hectolitre
+
+30,2
 
 ---autres.
 
 17 ter
 
-Hectolitre.
 
-41, 69.
+Hectolitre
+
+41,69
 
 ---autres huiles moyennes.
 
 18
 
-Hectolitre.
 
-41, 69.
+Hectolitre
+
+41,69
 
 --huiles lourdes :
 
@@ -249,39 +265,43 @@ Hectolitre.
 
 20
 
-Hectolitre.
 
-5, 66.
+Hectolitre
+
+5,66
 
 ----fioul domestique ;
 
 21
 
-Hectolitre.
 
-5, 66.
+Hectolitre
+
+5,66
 
 ----autres ;
 
 22
 
-Hectolitre.
 
-42, 84.
+Hectolitre
+
+42,84
 
 ----fioul lourd.
 
 24
 
-100 kg net.
+100 kg net
 
-1, 85.
+1,85
 
 ---huiles lubrifiantes et autres.
 
 29
 
-Hectolitre.
+
+Hectolitre
 
 Taxe intérieure applicable conformément au 3 du présent article.
 
@@ -296,23 +316,24 @@ et de propane dans lequel le propane représente plus de 50 % en poids) :
 
 30 bis
 
-100 kg net.
+100 kg net
 
-4, 68.
+4,68
 
 --autres ;
 
 30 ter
 
-100 kg net.
+100 kg net
 
-10, 76.
+10,76
 
 --destiné à d'autres usages.
 
 31
 
-Exemption.
+
+Exemption
 
 2711-13
 
@@ -325,23 +346,24 @@ butane et de propane dans lequel le butane représente au moins 50 % en poids) :
 
 31 bis
 
-100 kg net.
+100 kg net
 
-4, 68.
+4,68
 
 ---autres.
 
 31 ter
 
-100 kg net.
+100 kg net
 
-10, 76.
+10,76
 
 --destinés à d'autres usages.
 
 32
 
-Exemption.
+
+Exemption
 
 2711-14
 
@@ -363,17 +385,17 @@ Taxe intérieure applicable conformément au 3 du présent article.
 
 33 bis
 
-100 kg net.
+100 kg net
 
-4, 68.
+4,68
 
 ---autres.
 
 34
 
-100 kg net.
+100 kg net
 
-10, 76.
+10,76
 
 2711-21
 
@@ -383,18 +405,18 @@ Taxe intérieure applicable conformément au 3 du présent article.
 
 36
 
-100 m ³.
+100 m³
 
-0.
+0
 
 --destiné, sous condition d'emploi, à alimenter des moteurs stationnaires, y
 compris dans le cadre d'essais.
 
 36 bis
 
-100 m ³.
+100 m³
 
-0.
+0
 
 2711-29
 
@@ -402,7 +424,7 @@ compris dans le cadre d'essais.
 
 38 bis
 
-100 m ³.
+100 m³
 
 Taxe intérieure applicable aux produits visés aux indices 36 et 36 bis, selon
 qu'il est ou non utilisé sous condition d'emploi.
@@ -413,7 +435,8 @@ qu'il est ou non utilisé sous condition d'emploi.
 
 39
 
-Exemption.
+
+Exemption
 
 2712-10
 
@@ -425,7 +448,7 @@ Taxe intérieure applicable conformément au 3 du présent article.
 
 2712-20
 
--Paraffine contenant en poids moins de 0, 75 % d'huile.
+-Paraffine contenant en poids moins de 0,75 % d'huile.
 
 41
 
@@ -508,17 +531,19 @@ volume, destinée à être utilisée comme carburant :
 
 52
 
-Hectolitre.
 
-2, 1.
+Hectolitre
+
+2,1
 
 -autres.
 
 53
 
-Hectolitre.
 
-28, 71
+Hectolitre
+
+28,71
 
 
 Ex 3824-90-98
@@ -527,10 +552,10 @@ Ex 3824-90-98
 
 55
 
-Hectolitre.
 
-23, 24 à compter du 1er janvier 2009, puis 20, 69 à compter du 1er janvier 2010,
-puis 17, 29 à compter du 1er janvier 2011.
+Hectolitre
+
+17,29 à compter du 1er janvier 2011
 
 2. Règles d'application.
 
@@ -566,80 +591,84 @@ NUMÉROS DU TARIF DES DOUANES
 
 DÉSIGNATION DES PRODUITS
 
-1507 à 1518.
+1507 à 1518
 
 Huiles végétales, graisses et huiles animales, fractions d'huiles végétales et
 animales.
 
-2705-00.
+2705-00
 
 Gaz de houille, gaz à l'eau, gaz pauvre et gaz similaires, à l'exclusion des gaz
 de pétrole et autres hydrocarbures gazeux.
 
-2707.
+2707
 
 Huiles et autres produits provenant de la distillation des goudrons de houille
 de haute température ; produits analogues dans lesquels les constituants
 aromatiques prédominent en poids par rapport aux constituants non aromatiques.
 
-Ex 2710.
+
+Ex 2710
 
 Déchets d'huile.
 
-2708.
+2708
 
 Brai et coke de brai de goudron de houille ou d'autres goudrons minéraux.
 
-Ex 2711-12.
+
+Ex 2711-12
 
 Propane liquéfié d'une pureté égale ou supérieure à 99 %.
 
-Ex 2712.
+
+Ex 2712
 
 Slack wax, ozokérite, cire de lignite, cire de tourbe, autres cires minérales et
 produits similaires obtenus par synthèse ou par d'autres procédés, même colorés.
 
-Ex 2713.
+
+Ex 2713
 
 Coke de pétrole.
 
-2714.
+2714
 
 Bitumes et asphaltes, naturels, schistes et sables bitumineux ; asphaltites et
 roches asphaltiques.
 
-2901.
+2901
 
 Hydrocarbures acycliques.
 
-2902.
+2902
 
 Hydrocarbures cycliques.
 
-2905 11.
+2905 11
 
 Méthanol (alcool méthylique) qui n'est pas d'origine synthétique.
 
-3403.
+3403
 
 Préparations lubrifiantes et préparations des types utilisés pour l'ensimage des
 matières textiles, l'huilage ou le graissage du cuir, des pelleteries ou
 d'autres matières, à l'exclusion de celles contenant comme constituants de base
 moins de 70 % en poids d'huiles de pétrole ou de minéraux bitumeux.
 
-3811.
+3811
 
 Préparations antidétonantes, inhibiteurs d'oxydation, additifs peptisants,
 améliorants de viscosité, additifs anticorrosifs et autres additifs préparés
 pour huiles minérales (y compris l'essence) ou autres liquides utilisés aux même
 fins que les huiles minérales.
 
-3817.
+3817
 
 Alkylbenzènes, en mélanges et alkylnaphtalène en mélange, autres que ceux des
 positions 2707 ou 2902.
 
-3824-90-98.
+3824-90-98
 
 Tous produits de la position.
 
@@ -647,8 +676,8 @@ Tous produits de la position.
 consommation applicable au supercarburant repris aux indices d'identification 11
 et 11 ter et au gazole repris à l'indice d'identification 22.
 
-A compter du 1er janvier 2006, le montant de cette réfaction est de 1, 77 euro
-par hectolitre pour le supercarburant et de 1, 15 euro par hectolitre pour le
+A compter du 1er janvier 2006, le montant de cette réfaction est de 1,77 euro
+par hectolitre pour le supercarburant et de 1,15 euro par hectolitre pour le
 gazole.
 
 A compter du 1er janvier 2007, les conseils régionaux et l'assemblée de Corse
@@ -658,7 +687,7 @@ finals sur leur territoire dans la double limite de la fraction de tarif
 affectée à chaque région et à la collectivité territoriale de Corse en vertu du
 I de l'article 40 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour
 2006 relatif à la compensation financière des transferts de compétences aux
-régions et de respectivement 1, 77 euro par hectolitre pour le supercarburant
+régions et de respectivement 1,77 euro par hectolitre pour le supercarburant
 mentionné aux indices d'identification 11 et 11 ter et 1, 15 euro par hectolitre
 pour le gazole mentionné à l'indice d'identification 22.
 

@@ -22,12 +22,12 @@ titre des navires de plaisance titulaires d'un passeport délivré par le servic
 des douanes en Corse et qui ont stationné dans un port corse au moins une fois
 au cours de l'année écoulée, au profit de la collectivité territoriale de Corse.
 Sont exonérées de droit de passeport les sociétés propriétaires d'un navire de
-plaisance ou de sport d'une valeur inférieure à 500 000 euros hors taxes faisant
-l'objet d'un contrat de location avec option d'achat ou de crédit-bail conclu
-avec une personne physique n'ayant pas sa résidence principale en France ou avec
-une personne morale ne disposant pas d'établissement en France, à l'exclusion de
-celles qui seraient contrôlées directement ou indirectement par une personne
-physique ayant sa résidence principale en France.
+plaisance ou de sport faisant l'objet d'un contrat de location avec option
+d'achat ou de crédit-bail conclu avec une personne physique n'ayant pas sa
+résidence principale en France ou avec une personne morale ne disposant pas
+d'établissement en France, à l'exclusion de celles qui seraient contrôlées
+directement ou indirectement par une personne physique ayant sa résidence
+principale en France.
 
 L'Etat perçoit sur le produit du droit de passeport perçu au profit de la
 collectivité territoriale de Corse un prélèvement pour frais d'assiette et de

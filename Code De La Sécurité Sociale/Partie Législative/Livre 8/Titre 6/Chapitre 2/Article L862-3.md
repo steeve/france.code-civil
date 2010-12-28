@@ -2,7 +2,7 @@ Article L862-3
 ----
 Les recettes du fonds sont constituées par :
 
-a) Le produit de la contribution mentionnée au I de l'article L. 862-4 ;
+a) Le produit de la taxe mentionnée au I de l'article L. 862-4 ;
 
 b) Une dotation budgétaire de l'Etat destinée à équilibrer le fonds ;
 

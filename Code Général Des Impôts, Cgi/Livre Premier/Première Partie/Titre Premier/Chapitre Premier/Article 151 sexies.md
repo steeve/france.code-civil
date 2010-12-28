@@ -30,7 +30,4 @@ sont constitués par la somme des gains nets relatifs aux périodes de détentio
 dans le patrimoine privé, calculés suivant les règles des articles 150-0 A à
 150-0 E.
 
-Le seuil d'imposition prévu au 1 du I de l'article 150-0 A s'apprécie au moment
-de la cession des titres ou droits.
-
 Un décret en Conseil d'Etat fixe les conditions d'application du présent II.

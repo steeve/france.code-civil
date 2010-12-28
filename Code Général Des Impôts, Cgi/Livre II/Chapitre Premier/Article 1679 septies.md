@@ -1,13 +1,13 @@
 Article 1679 septies
 ----
 Les entreprises dont la cotisation sur la valeur ajoutée des entreprises de
-l'année précédant celle de l'imposition est supérieure à 3 000 euros doivent
-verser :
+l'année précédant celle de l'imposition est supérieure à 3 000 € doivent verser
+:
 
-- au plus tard le 15 juin de l'année d'imposition, un premier acompte égal à 50
-% de la cotisation sur la valeur ajoutée des entreprises ;
+-au plus tard le 15 juin de l'année d'imposition, un premier acompte égal à 50 %
+de la cotisation sur la valeur ajoutée des entreprises ;
 
-- au plus tard le 15 septembre de l'année d'imposition, un second acompte égal à
+-au plus tard le 15 septembre de l'année d'imposition, un second acompte égal à
 50 % de la cotisation sur la valeur ajoutée des entreprises.
 
 La cotisation sur la valeur ajoutée des entreprises retenue pour le paiement des
@@ -27,24 +27,24 @@ l'article 1586 ter et du dégrèvement prévu à l'article 1586 quater.
 
 Pour l'application des exonérations ou des abattements de cotisations sur la
 valeur ajoutée des entreprises prévus à l'article 1586 nonies, les entreprises
-sont autorisées à limiter le paiement des acomptes et du solde de leur
-cotisation sur la valeur ajoutée des entreprises dans la proportion entre :
+sont autorisées à limiter le paiement des acomptes de leur cotisation sur la
+valeur ajoutée des entreprises dans la proportion entre :
 
-- d'une part, le montant total correspondant aux exonérations et abattements de
+-d'une part, le montant total correspondant aux exonérations et abattements de
 cotisations foncières des entreprises au titre de l'année précédente, en
 application du 3° de l'article 1459, des articles 1464 à 1464 I et des articles
 1465 à 1466 F ;
 
-- et, d'autre part, le montant visé au septième alinéa majoré du montant total
+-et, d'autre part, le montant visé au septième alinéa majoré du montant total
 des cotisations foncières des entreprises dû au titre de l'année précédente.
 
 Un décret précise les conditions d'application des sixième à huitième alinéas.
 
 L'année suivant celle de l'imposition, le redevable doit procéder à la
 liquidation définitive de la cotisation sur la valeur ajoutée des entreprises
-sur la déclaration visée à l'article 1586 octies. Cette dernière est
-accompagnée, le cas échéant, du versement du solde correspondant. Si la
-liquidation définitive fait apparaître que l'acompte versé est supérieur à la
-cotisation effectivement due, l'excédent, déduction faite des autres impôts
-directs dus par le redevable, est restitué dans les soixante jours de la date de
-dépôt de la déclaration.
+sur une déclaration à souscrire au plus tard le deuxième jour ouvré suivant le
+1er mai. Cette dernière est accompagnée, le cas échéant, du versement du solde
+correspondant. Si la liquidation définitive fait apparaître que les acomptes
+versés sont supérieurs à la cotisation effectivement due, l'excédent, déduction
+faite des autres impôts directs dus par le redevable, est restitué dans les
+soixante jours suivant le deuxième jour ouvré suivant le 1er mai.

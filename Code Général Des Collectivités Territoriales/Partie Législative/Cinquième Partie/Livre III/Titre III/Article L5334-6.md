@@ -14,7 +14,7 @@ comptes administratifs des communes membres en tenant compte des mesures
 nouvelles et des transferts de recettes et de charges qui auront été
 effectivement décidés au cours de la première année au titre de laquelle le
 syndicat d'agglomération nouvelle est substitué aux communes membres pour la
-perception de la taxe professionnelle.
+perception de la cotisation foncière des entreprises .
 
 Son montant devra être communiqué aux communes dans un délai de trois mois
 suivant la constatation de l'inventaire prévu à l'article L. 5333-4. Un décret

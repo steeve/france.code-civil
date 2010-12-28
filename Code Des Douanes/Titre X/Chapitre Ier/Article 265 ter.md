@@ -25,15 +25,17 @@ territoriales et de leurs groupements, bénéficient d'une exonération de la ta
 intérieure de consommation.
 
 3. Les huiles végétales pures définies au 2 peuvent être utilisées, pures ou en
-mélange, comme carburant dans les véhicules des flottes captives des
-collectivités territoriales ou de leurs groupements ayant conclu un protocole
-avec le préfet et le directeur régional des douanes territorialement compétents.
-A cet effet, ils concluent un protocole avec le préfet et le directeur régional
-des douanes territorialement compétents. Les huiles végétales sont utilisées
-dans ce cadre sous l'entière responsabilité des utilisateurs. Elles sont
-soumises à la taxe intérieure de consommation au tarif applicable au gazole
-identifié à l'indice 22 et mentionné au tableau B du 1 de l'article 265. Ce
-tarif est diminué de la valeur de la réduction appliquée aux esters méthyliques
-d'huile végétale mentionnés au 1 du tableau du 1 de l'article 265 bis A.
+mélange, comme carburant dans les véhicules, y compris ceux des transports en
+commun des personnes, des flottes captives des collectivités territoriales ou de
+leurs groupements qu'ils gèrent soit directement, soit par l'intermédiaire d'un
+contrat de délégation de service public, ayant conclu un protocole avec le
+préfet et le directeur régional des douanes territorialement compétents. A cet
+effet, ils concluent un protocole avec le préfet et le directeur régional des
+douanes territorialement compétents. Les huiles végétales sont utilisées dans ce
+cadre sous l'entière responsabilité des utilisateurs. Elles sont soumises à la
+taxe intérieure de consommation au tarif applicable au gazole identifié à
+l'indice 22 et mentionné au tableau B du 1 de l'article 265. Ce tarif est
+diminué de la valeur de la réduction appliquée aux esters méthyliques d'huile
+végétale mentionnés au 1 du tableau du 1 de l'article 265 bis A.
 
 Un décret détermine les conditions d'application du 2.

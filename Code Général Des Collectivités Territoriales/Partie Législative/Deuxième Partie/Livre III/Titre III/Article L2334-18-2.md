@@ -14,32 +14,15 @@ la commune, et l'autre égal à un, augmenté du rapport entre la population des
 zones franches urbaines et la population totale de la commune.
 
 L'accroissement de la dotation de chaque commune ne peut excéder 4 millions
-d'euros par an.
-
-Pour les années 2005 à 2007, les communes éligibles au titre de l'article L.
-2334-16 perçoivent une dotation calculée en application du présent article au
-moins égale à la dotation perçue l'année précédente, augmentée de 5 %. En 2008,
-ce dernier taux est égal à la prévision d'évolution des prix à la consommation
-hors tabac.
-
-En 2009, les communes éligibles au titre de l'article L. 2334-16 perçoivent une
-dotation égale à celle perçue en 2008, majorée le cas échéant de l'augmentation
-prévue à l'article L. 2334-18-4. Pour les communes situées dans la première
-moitié des communes de la catégorie des communes de 10 000 habitants et plus,
-classées en fonction de l'indice synthétique de ressources et de charges défini
-à l'article L. 2334-17, la dotation est égale à celle perçue en 2008, augmentée
-de 2 % et majorée le cas échéant de l'augmentation prévue à l'article L.
-2334-18-4. Les communes qui n'étaient pas éligibles à la dotation en 2008 mais
-le deviennent en 2009 bénéficient d'une attribution calculée en application du
-présent article.
-
-En 2010, les communes éligibles au titre de l'article L. 2334-16 perçoivent une
-dotation égale à celle perçue en 2009, majorée, le cas échéant, de
-l'augmentation prévue à l'article L. 2334-18-4. Pour les communes situées dans
-la première moitié des communes de la catégorie des communes de 10 000 habitants
-et plus, classées en fonction de l'indice synthétique de ressources et de
-charges défini à l'article L. 2334-17, la dotation est égale à celle perçue en
-2009, augmentée de 1,2 % et majorée, le cas échéant, de l'augmentation prévue à
-l'article L. 2334-18-4. Les communes qui n'étaient pas éligibles à la dotation
-en 2009 mais le deviennent en 2010 bénéficient d'une attribution calculée en
-application du présent article.
+d'euros par an. A compter de 2009, les communes éligibles au titre de l'article
+L. 2334-16 perçoivent une dotation égale à celle perçue l'année précédente,
+majorée, le cas échéant, de l'augmentation prévue à l'article L. 2334-18-4. Pour
+les communes situées dans la première moitié des communes de la catégorie des
+communes de 10 000 habitants et plus, classées en fonction de l'indice
+synthétique de ressources et de charges défini à l'article L. 2334-17, la
+dotation est égale à celle perçue l'année précédente, augmentée du taux
+prévisionnel, associé au projet de loi de finances de l'année de versement,
+d'évolution des prix à la consommation des ménages hors tabac et majorée, le cas
+échéant, de l'augmentation prévue à l'article L. 2334-18-4. Les communes qui
+n'étaient pas éligibles à la dotation l'année précédant l'année de versement
+bénéficient d'une attribution calculée en application du présent article.

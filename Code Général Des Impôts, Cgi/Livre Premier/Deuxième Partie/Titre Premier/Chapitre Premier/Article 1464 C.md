@@ -2,10 +2,10 @@ Article 1464 C
 ----
 I. L'exonération de la taxe foncière sur les propriétés bâties et de la
 cotisation foncière des entreprises prévue aux articles 1383 A et 1464 B est
-subordonnée à une décision de l'organe délibérant de chacune des communes ou de
-leurs établissements publics de coopération intercommunal dotés d'une fiscalité
-propre dans le ressort desquels sont situés les établissements des entreprises
-en cause.
+subordonnée à une décision de l'organe délibérant des collectivités
+territoriales ou des établissements publics de coopération intercommunal dotés
+d'une fiscalité propre dans le ressort desquels sont situés les établissements
+des entreprises en cause.
 
 La délibération porte sur la totalité de la part revenant à chaque commune ou
 établissement public de coopération intercommunale.

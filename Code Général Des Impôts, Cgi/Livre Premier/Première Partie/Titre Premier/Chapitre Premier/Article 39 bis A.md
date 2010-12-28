@@ -6,7 +6,7 @@ politique et générale, soit un service de presse en ligne reconnu en applicati
 de l'article 1er de la loi n° 86-897 du 1er août 1986 portant réforme du régime
 juridique de la presse, consacré pour une large part à l'information politique
 et générale, sont autorisées à constituer une provision déductible du résultat
-imposable des exercices 1997 à 2010, en vue de faire face aux dépenses suivantes
+imposable des exercices 1997 à 2011, en vue de faire face aux dépenses suivantes
 :
 
 a) Acquisitions de matériels, mobiliers, terrains, constructions, dans la mesure
@@ -19,7 +19,7 @@ l'activité principale est d'assurer pour ces entreprises des prestations de
 services dans les domaines de l'information, de l'approvisionnement en papier,
 de l'impression ou de la distribution ;
 
-b. constitution de bases de données et acquisition du matériel nécessaire à leur
+b) constitution de bases de données et acquisition du matériel nécessaire à leur
 exploitation ou à la transmission de ces données ;
 
 c) Dépenses immobilisées imputables à la recherche, au développement
@@ -35,10 +35,9 @@ presse en ligne reconnus et à 60 % pour les quotidiens. Pour l'application de l
 phrase précédente, la limite est calculée, pour les entreprises exploitant un
 service de presse en ligne reconnu et exerçant d'autres activités, à partir du
 seul bénéfice retiré de ce service de presse en ligne. Ce pourcentage est porté
-à 80 p. 100 pour les quotidiens dont le chiffre d'affaires est inférieur à 7 600
-000 euros. Les sommes rapportées au bénéfice imposable en application du 7 ne
-sont pas prises en compte pour le calcul de la limite fixée à la phrase
-précédente.
+à 80 % pour les quotidiens dont le chiffre d'affaires est inférieur à 7 600 000
+euros. Les sommes rapportées au bénéfice imposable en application du 7 ne sont
+pas prises en compte pour le calcul de la limite fixée à la phrase précédente.
 
 Sont assimilées à des quotidiens les publications à diffusion départementale ou
 régionale consacrées principalement à l'information politique et générale,
@@ -55,8 +54,8 @@ l'information politique et générale.
 peuvent être utilisées qu'au financement d'une fraction du prix de revient des
 immobilisations qui y sont définies.
 
-Cette fraction est égale à 40 p. 100 pour la généralité des publications et pour
-les services de presse en ligne reconnus et à 90 % pour les quotidiens et les
+Cette fraction est égale à 40 % pour la généralité des publications et pour les
+services de presse en ligne reconnus et à 90 % pour les quotidiens et les
 publications assimilées définies au deuxième alinéa du 2.
 
 4. Les publications pornographiques, perverses ou incitant à la violence

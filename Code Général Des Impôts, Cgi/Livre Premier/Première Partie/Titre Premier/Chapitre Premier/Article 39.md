@@ -455,27 +455,27 @@ amortissements.
 
 Sauf justifications, les dispositions du premier alinéa sont applicables :
 
-a) A l'amortissement des véhicules immatriculés dans la catégorie des voitures
-particulières pour la fraction de leur prix d'acquisition qui dépasse 18 300
-euros. Lorsque ces véhicules ont un taux d'émission de dioxyde de carbone
-supérieur à 200 grammes par kilomètre, cette somme est ramenée à 9 900 Euros ;
+a) A l'amortissement des véhicules de tourisme au sens de l'article 1010 pour la
+fraction de leur prix d'acquisition qui dépasse 18 300 euros. Lorsque ces
+véhicules ont un taux d'émission de dioxyde de carbone supérieur à 200 grammes
+par kilomètre, cette somme est ramenée à 9 900 Euros ;
 
 b) En cas d'opérations de crédit bail ou de location, à l'exception des
 locations de courte durée n'excédant pas trois mois non renouvelables, portant
-sur des voitures particulières, à la part du loyer supportée par le locataire et
-correspondant à l'amortissement pratiqué par le bailleur pour la fraction du
-prix d'acquisition du véhicule qui excède les limites déterminées conformément
-au a.
+sur des véhicules de tourisme au sens de l'article 1010, à la part du loyer
+supportée par le locataire et correspondant à l'amortissement pratiqué par le
+bailleur pour la fraction du prix d'acquisition du véhicule qui excède les
+limites déterminées conformément au a.
 
 c) Aux dépenses de toute nature résultant de l'achat, de la location ou de toute
 autre opération faite en vue d'obtenir la disposition de yachts ou de bateaux de
 plaisance à voile ou à moteur ainsi que de leur entretien ; les amortissements
 sont regardés comme faisant partie de ces dépenses.
 
-La fraction de l'amortissement des véhicules de tourisme exclue des charges
-déductibles par les limitations ci-dessus est néanmoins retenue pour la
-détermination des plus-values ou moins-values résultant de la vente ultérieure
-des véhicules ainsi amortis.
+La fraction de l'amortissement des véhicules de tourisme au sens de l'article
+1010 exclue des charges déductibles par les limitations ci-dessus est néanmoins
+retenue pour la détermination des plus-values ou moins-values résultant de la
+vente ultérieure des véhicules ainsi amortis.
 
 Les dispositions du premier alinéa ne sont pas applicables aux charges exposées
 pour les besoins de l'exploitation et résultant de l'achat, de la location ou de
@@ -566,12 +566,13 @@ Toutefois, pour les opérations concernant les immeubles achevés après le 31
 décembre 1995 et affectés à titre principal à usage de bureaux entrant dans le
 champ d'application de la taxe prévue à l'article 231 ter, autres que ceux
 situés dans les zones d'aide à finalité régionale et dans les zones de
-redynamisation urbaine, définis au I ter de l'article 1466 A, la quote-part de
-loyer prise en compte pour la détermination du prix de cession de l'immeuble à
-l'issue du contrat n'est déductible du résultat imposable du crédit-preneur que
-dans la limite des frais d'acquisition de l'immeuble et de l'amortissement que
-le crédit-preneur aurait pu pratiquer s'il avait été propriétaire du bien objet
-du contrat.
+redynamisation urbaine, définis au A du 3 de l'article 42 de la loi n° 95-115 du
+4 février 1995 d'orientation pour l'aménagement et le développement du
+territoire, la quote-part de loyer prise en compte pour la détermination du prix
+de cession de l'immeuble à l'issue du contrat n'est déductible du résultat
+imposable du crédit-preneur que dans la limite des frais d'acquisition de
+l'immeuble et de l'amortissement que le crédit-preneur aurait pu pratiquer s'il
+avait été propriétaire du bien objet du contrat.
 
 Pour l'application du premier alinéa, le loyer est réputé affecté au financement
 des différents éléments dans l'ordre suivant :
@@ -595,7 +596,7 @@ Lorsque le contrat de crédit-bail est cédé, les quotes-parts de loyers non
 déductibles sont considérées comme un élément du prix de revient du contrat pour
 le calcul de la plus-value dans les conditions de l'article 39 duodecies A.
 
-11. 1° Pour ouvrir droit à l'exonération prévue au 31° de l'article 81, les
+11.1° Pour ouvrir droit à l'exonération prévue au 31° de l'article 81, les
 charges engagées par une entreprise à l'occasion de l'attribution ou de la mise
 à disposition gratuite à ses salariés de matériels informatiques neufs, de
 logiciels et de la fourniture gratuite de prestations de services liées
@@ -612,14 +613,20 @@ d'un accord conclu, selon les modalités prévues aux articles L. 3322-6 et L.
 exercée dans le document formalisant l'accord.L'attribution, la mise à
 disposition ou la fourniture effective aux bénéficiaires des biens ou
 prestations de services doit s'effectuer dans les douze mois de la conclusion de
-l'accord précité .
+l'accord précité.
 
 12. Lorsqu'il existe des liens de dépendance entre l'entreprise concédante et
-l'entreprise concessionnaire, le montant des redevances prises en compte pour le
-calcul du résultat net imposable selon le régime mentionné au 1 de l'article 39
-terdecies n'est déductible du résultat imposable de l'entreprise concessionnaire
-que dans le rapport existant entre le taux réduit d'imposition applicable à ce
-résultat net et le taux normal prévu au deuxième alinéa du I de l'article 219.
+l'entreprise concessionnaire et que l'entreprise concessionnaire n'exploite pas
+de manière effective, notamment dans les cas prévus aux a et b de l'article L.
+613-11 du code de la propriété intellectuelle, les brevets, inventions
+brevetables, y compris les perfectionnements qui y ont été apportés, ou les
+procédés de fabrication industriels satisfaisant aux conditions prévues aux a à
+c du 1 de l'article 39 terdecies qui lui ont été concédés, le montant des
+redevances n'est déductible du résultat imposable de l'entreprise
+concessionnaire que dans le rapport existant entre le taux réduit prévu au
+cinquième alinéa du I de l'article 219 et le taux normal prévu au deuxième
+alinéa du même I. La concession par le concessionnaire constitue un mode
+d'exploitation effective d'une licence.
 
 Des liens de dépendance sont réputés exister entre deux entreprises :
 

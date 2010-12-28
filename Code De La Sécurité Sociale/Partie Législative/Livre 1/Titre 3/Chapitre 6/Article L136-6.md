@@ -18,8 +18,8 @@ e) Des plus-values, gains en capital et profits réalisés sur les marchés à t
 d'instruments financiers et de marchandises, ainsi que sur les marchés d'options
 négociables, soumis à l'impôt sur le revenu à un taux proportionnel, de même que
 des distributions définies aux 7 et 8 du II de l'article 150-0 A du code général
-des impôts , des avantages définis aux 6 et 6 bis de l'article 200 A du même
-code et du gain défini à l'article 150 duodecies du même code ;
+des impôts, des avantages définis aux 6 et 6 bis de l'article 200 A du même code
+et du gain défini à l'article 150 duodecies du même code ;
 
 f) De tous revenus qui entrent dans la catégorie des bénéfices industriels et
 commerciaux, des bénéfices non commerciaux ou des bénéfices agricoles au sens du
@@ -35,12 +35,11 @@ vue de l'acquisition et de la conservation du revenu.
 
 Sont également soumis à cette contribution :
 
-1° Les gains nets exonérés en application du 1 du I de l'article 150-0 A du code
-général des impôts ;
+1° (Abrogé)
 
-2° Les gains nets exonérés en application du I bis de l'article 150-0 A du même
-code ainsi que les plus-values exonérées en application du 7 du III du même
-article ;
+2° Les gains nets exonérés en application du 3 du I et du I bis de l'article
+150-0 A du même code ainsi que les plus-values exonérées en application du 3 du
+I et du 7 du III du même article ;
 
 3° Les plus-values à long terme exonérées en application de l'article 151
 septies A du même code ;
@@ -48,19 +47,11 @@ septies A du même code ;
 4° Les revenus, produits et gains exonérés en application du II de l'article 155
 B du même code.
 
-Pour la détermination des revenus mentionnés aux e et 1° du présent I, à
-l'exception des plus-values professionnelles à long terme et des avantages
-définis aux 6 et 6 bis de l'article 200 A du code général des impôts, les
-moins-values subies au cours d'une année sont imputables sur les plus-values de
-même nature réalisées au cours de la même année ou des dix années suivantes quel
-que soit le montant des cessions réalisées par le foyer fiscal au titre des
-années concernées.
-
 II.-Sont également assujettis à la contribution, dans les conditions et selon
 les modalités prévues au I ci-dessus :
 
-a) Les sommes soumises à l'impôt sur le revenu en application des articles 168,
-1649 A , 1649 quater A et 1649 quater-0 B bis à 1649 quater-0 B ter, du code
+a) Les sommes soumises à l'impôt sur le revenu en application des articles
+168,1649 A,1649 quater A et 1649 quater-0 B bis à 1649 quater-0 B ter, du code
 général des impôts, ainsi que de l'article L. 69 du livre des procédures
 fiscales ;
 

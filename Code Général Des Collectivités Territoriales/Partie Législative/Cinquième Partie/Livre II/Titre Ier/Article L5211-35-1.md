@@ -14,9 +14,9 @@ En contrepartie, les communes membres d'un établissement public de coopération
 intercommunale soumis au régime fiscal de l'article 1609 nonies C du code
 général des impôts et les établissements publics de coopération intercommunale
 préexistants ne perçoivent plus les douzièmes, à hauteur de ceux versés au
-nouvel établissement public de coopération intercommunale au titre de la taxe
-professionnelle transférée, mais bénéficient mensuellement de l'attribution de
-compensation versée par celui-ci.
+nouvel établissement public de coopération intercommunale au titre de la
+cotisation foncière des entreprises transférée, mais bénéficient mensuellement
+de l'attribution de compensation versée par celui-ci.
 
 La régularisation est effectuée dès que le montant des taxes, impositions et
 attributions de compensation prévues au budget de l'année en cours est connu,

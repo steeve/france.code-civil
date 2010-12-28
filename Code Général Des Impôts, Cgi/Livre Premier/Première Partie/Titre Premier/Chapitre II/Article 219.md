@@ -1,9 +1,9 @@
 Article 219
 ----
 I. Pour le calcul de l'impôt, le bénéfice imposable est arrondi à l'euro le plus
-proche. La fraction d'euro égale à 0, 50 est comptée pour 1.
+proche. La fraction d'euro égale à 0,50 est comptée pour 1.
 
-Le taux normal de l'impôt est fixé à 33, 1 / 3 %.
+Le taux normal de l'impôt est fixé à 33,1/3 %.
 
 Toutefois :
 
@@ -27,7 +27,7 @@ exercices ouverts à compter du 1er janvier 1994 sont imputées sur les
 plus-values à long terme imposées au taux de 19 %.L'excédent des moins-values à
 long terme subies au cours d'un exercice ouvert à compter du 1er janvier 1994
 peut être déduit des bénéfices de l'exercice de liquidation d'une entreprise à
-raison des 19 / 33, 33e de son montant.
+raison des 19/33,33 de son montant.
 
 Les moins-values à long terme existant à l'ouverture du premier des exercices
 ouverts à compter du 1er janvier 2005 sont imputées sur les plus-values à long
@@ -35,7 +35,7 @@ terme imposées au taux de 15 %.L'excédent des moins-values à long terme subie
 au cours d'un exercice ouvert à compter du 1er janvier 2005 et afférentes à des
 éléments autres que les titres de participations définis au troisième alinéa du
 a quinquies peut être déduit des bénéfices de l'exercice de liquidation d'une
-entreprise à raison des 15 / 33, 33 de son montant ;
+entreprise à raison des 15/33,33 de son montant ;
 
 a ter. Le régime des plus-values et moins-values à long terme cesse de
 s'appliquer au résultat de la cession de titres du portefeuille réalisée au
@@ -100,7 +100,7 @@ Les titres inscrits au compte de titres de participation ou à l'une des
 subdivisions spéciales mentionnées au troisième alinéa qui cessent de remplir
 les conditions mentionnées à ce même alinéa doivent être transférés hors de ce
 compte ou de cette subdivision à la date à laquelle ces conditions ne sont plus
-remplies.A défaut d'un tel transfert, les titres maintenus à ce compte ou à
+remplies. A défaut d'un tel transfert, les titres maintenus à ce compte ou à
 cette subdivision sont réputés transférés pour l'application des cinquième,
 sixième et dixième alinéas ; les dispositions prévues au douzième alinéa en cas
 d'omission s'appliquent.
@@ -144,17 +144,16 @@ du régime des plus et moins-values à long terme en application du premier
 alinéa, et restant à reporter à l'ouverture du premier exercice ouvert à compter
 du 1er janvier 1997, peuvent, après compensation avec les plus-values et les
 résultats nets de la concession de licences d'exploitation continuant à
-bénéficier de ce régime, s'imputer à raison des 19 / 33, 33e de leur montant sur
-les bénéfices imposables. Cette imputation n'est possible que dans la limite des
+bénéficier de ce régime, s'imputer à raison des 19/33,33 de leur montant sur les
+bénéfices imposables. Cette imputation n'est possible que dans la limite des
 gains nets retirés de la cession des éléments d'actifs exclus du régime des plus
 et moins-values à long terme en application du premier alinéa ;
 
 Par dérogation au premier alinéa, le régime des plus ou moins-values à long
-terme s'applique à la plus ou moins-value résultant de la cession d'un brevet,
-d'une invention brevetable ou d'un procédé de fabrication industriel qui
-satisfait aux conditions prévues aux a, b et c du 1 de l'article 39 terdecies,
-sous réserve qu'il n'existe pas de liens de dépendance entre l'entreprise
-cédante et l'entreprise cessionnaire au sens du 12 de l'article 39.
+terme s'applique, dans les conditions prévues au 1 de l'article 39 terdecies, à
+la plus ou moins-value résultant de la cession d'un brevet, d'une invention
+brevetable ou d'un procédé de fabrication industriel qui satisfait aux
+conditions prévues aux troisième, quatrième et cinquième alinéas du même 1.
 
 a quinquies. Pour les exercices ouverts à compter du 1er janvier 2006, le
 montant net des plus-values à long terme afférentes à des titres de
@@ -208,7 +207,7 @@ Les moins-values à long terme afférentes à ces titres exclus du régime des p
 et moins-values à long terme en application du premier alinéa, et restant à
 reporter à l'ouverture du premier exercice clos à compter du 31 décembre 2006,
 peuvent, après compensation avec les plus-values à long terme et produits
-imposables au taux visé au a, s'imputer à raison des 15 / 33, 33 de leur montant
+imposables au taux visé au a, s'imputer à raison des 15/33,33 de leur montant
 sur les bénéfices imposables, dans la limite des gains nets retirés de la
 cession de titres de même nature.
 
@@ -235,9 +234,19 @@ Les moins-values à long terme afférentes aux titres exclus du régime des plus
 moins-values à long terme en application du premier alinéa, restant à reporter à
 l'ouverture du premier exercice clos à compter du 26 septembre 2007 ou réalisées
 au cours du même exercice, peuvent, après compensation avec les plus-values à
-long terme et produits imposables au taux visé au a, s'imputer à raison des 15 /
-33, 33èmes de leur montant sur les bénéfices imposables, dans la limite des
-gains nets retirés de la cession de titres de même nature.
+long terme et produits imposables au taux visé au a, s'imputer à raison des
+15/33,33 de leur montant sur les bénéfices imposables, dans la limite des gains
+nets retirés de la cession de titres de même nature.
+
+a sexies-0 ter)-Pour les exercices ouverts à compter du 1er janvier 2011, le
+régime des plus et moins-values à long terme cesse de s'appliquer à la plus ou
+moins-value provenant de la cession de titres de sociétés établies dans un Etat
+ou territoire non coopératif au sens de l'article 238-0 A.
+
+Les moins-values afférentes à des titres exclus du régime des plus et
+moins-values à long terme en application du premier alinéa peuvent s'imputer
+exclusivement sur des plus-values exclues du régime des plus et moins-values à
+long terme en application du même alinéa.
 
 a sexies. 1. Pour les exercices ouverts à compter du 1er janvier 2006, les
 sommes réparties par un fonds commun de placement à risques et les distributions
@@ -246,10 +255,10 @@ terme en application du 2° du 5 de l'article 38 ou du 5 de l'article 39
 terdecies sont soumises à l'impôt au taux de 8 % pour la fraction des sommes ou
 distributions afférentes aux cessions d'actions ou de parts de sociétés, à
 l'exception des titres des sociétés à prépondérance immobilière mentionnées au a
-sexies-0 bis, détenues depuis deux ans au moins et si le fonds ou la société a
-détenu au moins 5 % du capital de la société émettrice pendant deux ans au
-moins. Le taux de 8 % est fixé à 0 % pour les exercices ouverts à compter du 1er
-janvier 2007.
+sexies-0 bis et des titres des sociétés mentionnées au a sexies-0 ter, détenues
+depuis deux ans au moins et si le fonds ou la société a détenu au moins 5 % du
+capital de la société émettrice pendant deux ans au moins. Le taux de 8 % est
+fixé à 0 % pour les exercices ouverts à compter du 1er janvier 2007.
 
 Pour l'appréciation du seuil de 5 % prévu au premier alinéa, sont également pris
 en compte les titres détenus par d'autres fonds communs de placement à risques
@@ -260,6 +269,53 @@ Lorsque les actions ou parts cédées ont été reçues dans le cadre d'un écha
 d'une conversion ou d'un remboursement d'un titre donnant accès au capital de la
 société, le délai de deux ans de détention des actions est décompté à partir de
 l'acquisition du titre donnant accès au capital de la société.
+
+2. Pour les exercices ouverts à compter du 1er janvier 2006, la plus-value
+réalisée sur la cession de parts de fonds communs de placement à risques ou
+d'actions de sociétés de capital-risque mentionnées au premier alinéa du a ter
+est soumise au taux de 8 % à hauteur du rapport existant à la date de la cession
+entre la valeur des actions ou parts de sociétés mentionnées au premier alinéa
+du 1 inscrites à l'actif du fonds ou de la société augmentée des sommes en
+instance de distribution depuis moins de six mois représentative de la cession
+d'actions ou de parts de sociétés mentionnées au premier alinéa du 1 et la
+valeur de l'actif total de ce fonds ou de cette société. Ce taux est fixé à 0 %
+pour les exercices ouverts à compter du 1er janvier 2007.
+
+Un décret en Conseil d'Etat fixe les modalités d'appréciation du rapport
+précité.
+
+a septies) Lorsqu'il existe des liens de dépendance entre l'entreprise cédante
+et l'entreprise cessionnaire au sens du 12 de l'article 39, l'imposition des
+plus-values et moins-values de cession de titres de participation définis au
+dix-huitième alinéa du 5° du 1 de l'article 39, autres que ceux mentionnés au a
+sexies-0 bis du présent article, et détenus depuis moins de deux ans, intervient
+à la première des dates suivantes :
+
+a) La date à laquelle l'entreprise cédante cesse d'être soumise à l'impôt sur
+les sociétés ou est absorbée par une entreprise qui, à l'issue de l'absorption,
+n'est pas liée à l'entreprise détenant les titres cédés ;
+
+b) La date à laquelle les titres cédés cessent d'être détenus par une entreprise
+liée à l'entreprise cédante, à l'exception du cas où la société dont les titres
+ont été cédés a été absorbée par une autre entreprise liée ou qui le devient à
+cette occasion et pour toute la période où elle demeure liée ;
+
+c) La date correspondant à l'expiration d'un délai de deux ans, décompté à
+partir du jour où l'entreprise cédante a acquis les titres.
+
+L'imposition est établie au nom de l'entreprise cédante ou, en cas d'absorption
+dans des conditions autres que celles mentionnées au a, de l'entreprise
+absorbante, selon le régime de plus-value ou moins-value qui aurait été
+applicable si l'entreprise avait cédé les titres à cette date et, le cas
+échéant, les avait détenus depuis la date d'acquisition par l'entreprise
+absorbée.
+
+Toutefois, le présent a septies ne s'applique aux plus-values que si
+l'entreprise joint à sa déclaration de résultat au titre de chaque exercice
+concerné un état conforme au modèle fourni par l'administration, faisant
+apparaître les éléments nécessaires au calcul des plus-values et ceux relatifs à
+l'identification de l'entreprise qui détient les titres, explicitant les liens
+de dépendance qui les unissent.
 
 2. Pour les exercices ouverts à compter du 1er janvier 2006, la plus-value
 réalisée sur la cession de parts de fonds communs de placement à risques ou

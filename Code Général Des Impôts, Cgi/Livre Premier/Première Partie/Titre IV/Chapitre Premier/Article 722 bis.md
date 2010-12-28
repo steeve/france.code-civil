@@ -2,10 +2,10 @@ Article 722 bis
 ----
 Le taux de 2 % du droit de mutation prévu à l'article 719 est réduit à 0 % pour
 les acquisitions de fonds de commerce et de clientèles réalisées dans les zones
-de redynamisation urbaine définies au I ter de l'article 1466 A, dans les zones
-franches urbaines mentionnées aux I quater, I quinquies et I sexies de l'article
-1466 A, ainsi que dans les zones de revitalisation rurale mentionnées à
-l'article 1465 A.
+de redynamisation urbaine et dans les zones franches urbaines définies
+respectivement aux A et B du 3 de l'article 42 de la loi n° 95-115 du 4 février
+1995 d'orientation pour l'aménagement et le développement du territoire, ainsi
+que dans les zones de revitalisation rurale mentionnées à l'article 1465 A.
 
 Pour bénéficier du taux réduit, l'acquéreur doit prendre, lors de la mutation,
 l'engagement de maintenir l'exploitation du bien acquis pendant une période

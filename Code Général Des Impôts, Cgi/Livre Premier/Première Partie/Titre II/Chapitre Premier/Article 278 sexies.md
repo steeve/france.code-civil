@@ -1,8 +1,9 @@
 Article 278 sexies
 ----
 La taxe sur la valeur ajoutée est perçue au taux réduit de 5,5 % en ce qui
-concerne : I. - Les opérations suivantes réalisées dans le cadre de la politique
-sociale :
+concerne :
+
+I. - Les opérations suivantes réalisées dans le cadre de la politique sociale :
 
 1. Les livraisons de terrains à bâtir consenties aux organismes d'habitations à
 loyer modéré visés à l'article L. 411-2 du code de la construction et de
@@ -89,7 +90,9 @@ territoriales ou un groupement de collectivités territoriales du lieu
 d'implantation du logement et si la somme des revenus fiscaux de référence, au
 sens du 1° du IV de l'article 1417, des personnes destinées à occuper ce
 logement ne dépasse pas les plafonds de ressources prévus pour les titulaires de
-contrats de location-accession mentionnés au 4 du présent I ;
+contrats de location-accession mentionnés au 4 du présent I. Ces dispositions
+s'appliquent aux opérations engagées, définies par décret, jusqu'au 31 décembre
+2010 ;
 
 10. Les cessions de droits immobiliers démembrés de logements sociaux neufs à
 usage locatif mentionnés aux 3° et 5° de l'article L. 351-2 du code de la

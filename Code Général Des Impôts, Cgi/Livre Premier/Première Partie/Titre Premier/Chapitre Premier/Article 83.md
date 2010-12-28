@@ -19,7 +19,7 @@ par l'article 76 de la loi n° 2003-775 du 21 août 2003 portant réforme des
 retraites ;
 
 1° 0 bis Les cotisations versées conformément aux dispositions du règlement CEE
-n° 1408 / 71 du Conseil du 14 juin 1971 relatif à l'application des régimes de
+n° 1408/71 du Conseil du 14 juin 1971 relatif à l'application des régimes de
 sécurité sociale aux travailleurs salariés et aux membres de leur famille qui se
 déplacent à l'intérieur de la Communauté ou conformément aux stipulations d'une
 convention ou d'un accord international relatif à l'application des régimes de
@@ -60,9 +60,9 @@ du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale. En
 d'excédent, celui-ci est ajouté à la rémunération ;
 
 La limite mentionnée au deuxième alinéa est réduite, le cas échéant, des sommes
-versées par l'entreprise au plan d'épargne pour la retraite collectif défini aux
-articles L. 3334-1 à L. 3334-16 du code du travail et exonérées en application
-du 18° de l'article 81 ;
+versées par l'entreprise ou le salarié (1) au plan d'épargne pour la retraite
+collectif défini aux articles L. 3334-1 à L. 3334-16 du code du travail et
+exonérées en application du 18° de l'article 81 ;
 
 2°-0 bis Par dérogation aux 1° quater et 2° et jusqu'à l'imposition des revenus
 de 2008, les dispositions du 2° dans leur rédaction en vigueur jusqu'à
@@ -75,10 +75,10 @@ avant le 25 septembre 2003, pour leur taux en vigueur avant la même date ;
 cotisations versées aux régimes de prévoyance complémentaire et, dans les
 limites prévues aux deuxième et troisième alinéas du 2°, les cotisations versées
 aux régimes de retraite complémentaire répondant aux conditions fixées à
-l'article 3 de la directive 98 / 49 / CE du Conseil du 29 juin 1998 relative à
-la sauvegarde des droits à pension complémentaire des travailleurs salariés et
-non salariés qui se déplacent à l'intérieur de la Communauté ou à celles prévues
-par les conventions ou accords internationaux de sécurité sociale, auxquels les
+l'article 3 de la directive 98/49/ CE du Conseil du 29 juin 1998 relative à la
+sauvegarde des droits à pension complémentaire des travailleurs salariés et non
+salariés qui se déplacent à l'intérieur de la Communauté ou à celles prévues par
+les conventions ou accords internationaux de sécurité sociale, auxquels les
 personnes désignées au I de l'article 81 B ou au 1 du I de l'article 155 B
 étaient affiliées ès qualités dans un autre Etat avant leur prise de fonctions
 en France. Les cotisations sont déductibles jusqu'au 31 décembre de la cinquième
@@ -94,7 +94,7 @@ privés d'emploi, prévue à l'article L. 5423-26 du code du travail ;
 2° quater Les intérêts des emprunts contractés, à compter du 1er janvier 1984,
 pour souscrire au capital d'une société nouvelle exerçant une activité
 industrielle, commerciale, artisanale ou libérale. Cette souscription doit
-intervenir l'année de la création de la société ou au cours de deux années
+intervenir l'année de la création de la société ou au cours des deux années
 suivantes.
 
 La déduction ne peut excéder 50 % du salaire versé à l'emprunteur par la société
@@ -104,7 +104,7 @@ La société nouvelle doit être soumise à l'impôt sur les sociétés dans les
 conditions de droit commun, exercer une activité mentionnée aux articles 34 et
 92 et répondre aux conditions suivantes :
 
-a.A la clôture de l'exercice, le prix de revient des biens d'équipement
+a. A la clôture de l'exercice, le prix de revient des biens d'équipement
 amortissables selon le mode dégressif en application des dispositions du 1 de
 l'article 39 A doit représenter au moins les deux tiers du prix de revient total
 des immobilisations corporelles amortissables ; les entreprises qui ne
@@ -117,10 +117,11 @@ b. Pour les entreprises constituées sous forme de société, les droits de vote
 attachés aux actions ou aux parts ne doivent pas être détenus, directement ou
 indirectement, pour plus de 50 % par d'autres sociétés ;
 
-c. Les entreprises créées dans le cadre d'une concentration ou restructuration
-d'activités préexistantes, ou pour la reprise de telles activités, ne peuvent
-bénéficier du dispositif ci-dessus. Toutefois, cette disposition ne s'applique
-pas aux entreprises créées pour la reprise d'établissements en difficulté.
+c. Les entreprises créées dans le cadre d'une concentration ou d'une
+restructuration d'activités préexistantes, ou pour la reprise de telles
+activités, ne peuvent bénéficier du dispositif ci-dessus. Toutefois, cette
+disposition ne s'applique pas aux entreprises créées pour la reprise
+d'établissements en difficulté.
 
 Les actions souscrites doivent obligatoirement revêtir la forme nominative.
 
@@ -200,10 +201,11 @@ l'acquisition ou à la conservation de ses revenus. Les intérêts admis en
 déduction sont ceux qui correspondent à la part de l'emprunt dont le montant est
 proportionné à la rémunération annuelle perçue ou escomptée au moment où
 l'emprunt est contracté. La rémunération prise en compte s'entend des revenus
-mentionnés à l'article 79 et imposés sur le fondement de cet article. Les
-souscriptions ou les acquisitions de titres donnant lieu aux réductions d'impôt
-prévues aux articles 199 terdecies-0 A, 199 terdecies-0 B ou 885-0 V bis, ainsi
-que les souscriptions et acquisitions de titres figurant dans un plan d'épargne
-en actions défini à l'article 163 quinquies D ou dans un plan d'épargne
-salariale prévu au titre III du livre III de la troisième partie du code du
-travail, ne peuvent donner lieu à aucune déduction d'intérêts d'emprunt.
+mentionnés à l'article 79 et imposés sur le fondement de cet article. La
+fraction des versements effectués au titre des souscriptions ou acquisitions de
+titres donnant lieu aux réductions d'impôt prévues aux articles 199 terdecies-0
+A, 199 terdecies-0 B ou 885-0 V bis, ainsi que les souscriptions et acquisitions
+de titres figurant dans un plan d'épargne en actions défini à l'article 163
+quinquies D ou dans un plan d'épargne salariale prévu au titre III du livre III
+de la troisième partie du code du travail, ne peuvent donner lieu à aucune
+déduction d'intérêts d'emprunt.

@@ -1,11 +1,12 @@
 Article 1477
 ----
-I. Les contribuables doivent déclarer les bases de cotisation foncière des
-entreprises l'année précédant celle de l'imposition jusqu'à une date fixée par
-décret et au plus tard le deuxième jour ouvré suivant le 1er mai ou, en cas de
-création d'établissement ou de changement d'exploitant ou d'activité en cours
-d'année, l'année suivant celle de la création ou du changement jusqu'à une date
-fixée par décret et au plus tard le deuxième jour ouvré suivant le 1er mai.
+I. Les contribuables doivent déclarer les éléments servant à l'établissement de
+la cotisation foncière des entreprises l'année précédant celle de l'imposition
+jusqu'à une date fixée par décret et au plus tard le deuxième jour ouvré suivant
+le 1er mai ou, en cas de création d'établissement ou de changement d'exploitant
+ou d'activité en cours d'année, l'année suivant celle de la création ou du
+changement jusqu'à une date fixée par décret et au plus tard le deuxième jour
+ouvré suivant le 1er mai.
 
 II. a) En cas de création d'établissement ou de changement d'exploitant ou
 d'activité en cours d'année, une déclaration provisoire doit être fournie avant

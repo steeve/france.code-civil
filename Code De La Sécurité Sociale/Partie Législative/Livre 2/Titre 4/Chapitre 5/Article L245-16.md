@@ -1,7 +1,7 @@
 Article L245-16
 ----
 I.-Le taux des prélèvements sociaux mentionnés aux articles L. 245-14 et L.
-245-15 est fixé à 2 %. II. ― Le produit des prélèvements mentionnés au I est
+245-15 est fixé à 2,2 %. II. ― Le produit des prélèvements mentionnés au I est
 ainsi réparti :
 
 ― une part correspondant à un taux de 0,3 % au fonds mentionné à l'article L.

@@ -6,8 +6,9 @@ a) Le produit des impôts et taxes dont l'assiette et le recouvrement ont lieu
 dans les formes prévues au code général des impôts, à savoir :
 
 1° Le produit de la taxe foncière sur les propriétés bâties, de la taxe foncière
-sur les propriétés non bâties, de la taxe d'habitation et de la taxe
-professionnelle ;
+sur les propriétés non bâties, de la taxe d'habitation de la cotisation foncière
+des entreprises, de la cotisation sur la valeur ajoutée des entreprises et de
+l'imposition forfaitaire sur les entreprises de réseaux ;
 
 2° Le produit de la taxe d'enlèvement des ordures ménagères ;
 
@@ -41,7 +42,7 @@ d'après les tarifs dûment établis ;
 
 7° Le versement destiné aux transports en commun ;
 
-8° Abrogé ;
+8° Le reversement du Fonds national de garantie individuelle des ressources ;
 
 9° Le produit des taxes sur les convois, les inhumations et les crémations
 prévus à l'article L. 2223-22.

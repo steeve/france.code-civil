@@ -1,9 +1,10 @@
 Article 200-0 A
 ----
 1. Le total des avantages fiscaux mentionnés au 2 ne peut pas procurer une
-réduction du montant de l'impôt dû supérieure à la somme d'un montant de 20 000
-€ et d'un montant égal à 8 % du revenu imposable servant de base au calcul de
-l'impôt sur le revenu dans les conditions prévues au I de l'article 197.
+réduction du montant de l'impôt dû supérieure à la somme d'un montant de 18 000
+€ (2) et d'un montant égal à 6 % (2) du revenu imposable servant de base au
+calcul de l'impôt sur le revenu dans les conditions prévues au I de l'article
+197.
 
 2. Les avantages fiscaux retenus pour l'application du plafonnement mentionné au
 1, au titre d'une année d'imposition, sont les suivants :
@@ -24,10 +25,10 @@ décote en tenant lieu, tel qu'il est prévu par les conventions internationales
 3. La réduction d'impôt acquise au titre des investissements mentionnés à la
 première phrase des vingt-sixième et vingt-septième alinéas du I de l'article
 199 undecies B est retenue pour l'application du plafonnement mentionné au 1
-pour 40 % de son montant. La réduction d'impôt acquise au titre des
+pour 37,5 % (1) de son montant. La réduction d'impôt acquise au titre des
 investissements mentionnés à la deuxième phrase du vingt-sixième alinéa du I de
 l'article 199 undecies B est retenue pour l'application du plafonnement
-mentionné au 1 pour la moitié de son montant. La réduction d'impôt acquise au
+mentionné au 1 pour 47,37 % (1) de son montant. La réduction d'impôt acquise au
 titre des investissements mentionnés à l'article 199 undecies C est retenue pour
 l'application du plafonnement mentionné au 1 pour 35 % de son montant.
 

@@ -4,9 +4,10 @@ Article 39 ter
 recherche et l'exploitation des hydrocarbures liquides ou gazeux en France
 métropolitaine ou dans les départements d'outre-mer sont autorisés à déduire de
 leur bénéfice net d'exploitation, dans la limite de 50 % de ce bénéfice, une
-provision pour reconstitution des gisements d'hydrocarbures égale à 23, 50 % du
+provision pour reconstitution des gisements d'hydrocarbures égale à 23,50 % du
 montant des ventes des produits marchands extraits des gisements qu'ils
-exploitent en métropole ou dans ces départements.
+exploitent en métropole ou dans ces départements. Aucune déduction n'est
+autorisée au titre d'exercices clos à compter du 31 décembre 2010.
 
 Les bénéfices affectés à cette provision à la clôture de chaque exercice doivent
 être employés, dans un délai de deux ans à partir de la date de cette clôture,

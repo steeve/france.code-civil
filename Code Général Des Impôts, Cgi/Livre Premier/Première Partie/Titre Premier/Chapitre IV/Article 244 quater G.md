@@ -2,10 +2,10 @@ Article 244 quater G
 ----
 I.-Les entreprises imposées d'après leur bénéfice réel ou exonérées en
 application des articles 44 sexies, 44 sexies A, 44 octies, 44 decies, 44
-terdecies et 44 quaterdecies peuvent bénéficier d'un crédit d'impôt égal au
-produit du montant de 1 600 euros par le nombre moyen annuel d'apprentis dont le
-contrat est régi par les dispositions des articles L. 6221-1 à L. 6225-8 du code
-du travail. Ce montant est porté à 2 200 euros dans les cas suivants :
+terdecies à 44 quindecies peuvent bénéficier d'un crédit d'impôt égal au produit
+du montant de 1 600 € par le nombre moyen annuel d'apprentis dont le contrat est
+régi par les dispositions des articles L. 6221-1 à L. 6225-8 du code du travail.
+Ce montant est porté à 2 200 € dans les cas suivants :
 
 1° lorsque la qualité de travailleur handicapé est reconnue à l'apprenti en
 application des articles L. 5213-1 et L. 5213-2 du code du travail ;
@@ -42,8 +42,8 @@ condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de
 personnes physiques participant à l'exploitation au sens du 1° bis du I de
 l'article 156.
 
-IV.-Lorsque l'entreprise accueille un élève en stage dans l e cadre du parcours
+IV.-Lorsque l'entreprise accueille un élève en stage dans le cadre du parcours
 d'initiation aux métiers prévu à l'article L. 337-3 du code de l'éducation, elle
-bénéficie d'un crédit d'impôt dont le montant est égal à 100 Euros par élève
+bénéficie d'un crédit d'impôt dont le montant est égal à 100 € par élève
 accueilli et par semaine de présence dans l'entreprise, dans la limite annuelle
 de vingt-six semaines.

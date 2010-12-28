@@ -59,7 +59,7 @@ b) Ou 2, 5 % du montant annuel du plafond mentionné à l'article L. 241-3 du co
 de la sécurité sociale.
 
 Les revenus exonérés en application des articles 44 sexies à 44 undecies, 44
-terdecies et 44 quaterdecies ou au 9 de l'article 93 sont retenus pour
+terdecies à 44 quindecies ou au 9 de l'article 93 sont retenus pour
 l'appréciation du montant du bénéfice imposable mentionné aux 1°, 2° et 3°. Il
 n'est pas tenu compte des plus-values et moins-values professionnelles à long
 terme.

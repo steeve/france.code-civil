@@ -2,20 +2,22 @@ Article L214-41
 ----
 I.-Les fonds communs de placement dans l'innovation sont des fonds communs de
 placement à risques dont l'actif est constitué, pour 60 % au moins, de titres
-financiers , parts de société à responsabilité limitée et avances en compte
-courant, dont au moins 6 % dans des entreprises dont le capital est compris
-entre 100 000 euros et deux millions d'euros, telles que définies par le 1° et
-le a du 2° de l'article L. 214-36, émises par des sociétés ayant leur siège dans
-un Etat membre de la Communauté européenne, ou dans un autre Etat partie à
-l'accord sur l'Espace économique européen ayant conclu avec la France une
-convention fiscale qui contient une clause d'assistance administrative en vue de
-lutter contre la fraude ou l'évasion fiscale, qui sont soumises à l'impôt sur
-les sociétés dans les conditions de droit commun ou en seraient passibles dans
-les mêmes conditions si l'activité était exercée en France, qui comptent moins
-de deux mille salariés, dont le capital n'est pas détenu majoritairement,
-directement ou indirectement, par une ou plusieurs personnes morales ayant des
-liens de dépendance avec une autre personne morale au sens du III et qui
-remplissent l'une des conditions suivantes ;
+financiers, parts de société à responsabilité limitée et avances en compte
+courant, tels que définis par le 1° et le a du 2° de l'article L. 214-36, émis
+par des sociétés ayant leur siège dans un Etat membre de la Communauté
+européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique
+européen ayant conclu avec la France une convention fiscale qui contient une
+clause d'assistance administrative en vue de lutter contre la fraude ou
+l'évasion fiscale, qui sont soumises à l'impôt sur les sociétés dans les
+conditions de droit commun ou en seraient passibles dans les mêmes conditions si
+l'activité était exercée en France, qui comptent au moins deux et au plus deux
+mille salariés, dont le capital n'est pas détenu majoritairement, directement ou
+indirectement, par une ou plusieurs personnes morales ayant des liens de
+dépendance avec une autre personne morale au sens du III, qui respectent les
+conditions définies aux b à b ter et au f du 1 du I de l'article 885-0 V bis du
+code général des impôts, qui n'ont pas procédé au cours des douze derniers mois
+au remboursement, total ou partiel, d'apports et qui remplissent l'une des
+conditions suivantes ;
 
 a) Avoir réalisé, au cours de l'exercice précédent, des dépenses de recherche,
 définies aux a à g du II de l'article 244 quater B du code général des impôts,
@@ -44,7 +46,9 @@ titres qui sont admis aux négociations sur un marché réglementé, de 20 % de
 l'actif du fonds, sous réserve que la société émettrice réponde aux conditions
 prévues au I, à l'exception de celle tenant à la non-cotation.
 
-I ter.-Abrogé.
+I ter. - L'actif du fonds est constitué pour 40 % au moins de titres reçus en
+contrepartie de souscriptions au capital ou de titres reçus en contrepartie
+d'obligations converties de sociétés respectant les conditions définies au I.
 
 I quater.-Abrogé.
 

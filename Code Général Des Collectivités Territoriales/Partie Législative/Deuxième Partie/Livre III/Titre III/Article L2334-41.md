@@ -1,41 +1,25 @@
 Article L2334-41
 ----
-Il est institué une dotation budgétaire intitulée dotation de développement
-urbain.
+Les communes des départements d'outre-mer perçoivent une quote-part de la
+dotation de développement urbain prévue à l'article L. 2334-41. Cette quote-part
+est calculée en appliquant au montant total de la dotation de développement
+urbain le rapport, majoré de 33 %, existant, d'après le dernier recensement,
+entre la population totale des communes des départements d'outre-mer et la
+population totale des communes des départements de métropole et d'outre-mer.
 
-Peuvent bénéficier de cette dotation les communes de métropole éligibles l'année
-précédente à la dotation de solidarité urbaine et de cohésion sociale prévue à
-l'article L. 2334-15 qui figurent parmi les cent premières d'un classement de
-ces communes établi chaque année en fonction de critères tirés notamment de la
-proportion de population résidant dans des quartiers inclus dans les zones
-prioritaires de la politique de la ville, du revenu fiscal moyen des habitants
-de ces quartiers et du potentiel financier. Ces critères sont appréciés l'année
-précédant celle au titre de laquelle est répartie la dotation de développement
-urbain.
+Sont éligibles à cette quote-part les communes des départements d'outre-mer de
+plus de 5 000 habitants sur le territoire desquelles il existe au moins une
+convention pluriannuelle conclue avec l'Agence nationale pour la rénovation
+urbaine, telle que visée à l'article 10 de la loi n° 2003-710 du 1er août 2003
+d'orientation et de programmation pour la ville et la rénovation urbaine, au 1er
+janvier de l'année de la répartition.
 
-Lorsque la compétence en matière de politique de la ville a été transférée par
-une commune éligible à un établissement public de coopération intercommunale,
-celui-ci peut bénéficier, sur décision du représentant de l'Etat dans le
-département, de la dotation de développement urbain pour le compte de cette
-commune.
+La quote-part est répartie entre les départements d'outre-mer au prorata de la
+population des communes éligibles de leur territoire.L'enveloppe de chaque
+département est plafonnée à 1 000 000 € par commune éligible.
 
-Après constitution de la quote-part définie à l'article L. 2334-42, les crédits
-de la dotation de développement urbain sont répartis entre les départements en
-tenant compte du nombre de communes éligibles dans chaque département et de leur
-classement selon les critères prévus au deuxième alinéa.
+L'utilisation de ces crédits se fait dans les conditions prévues au cinquième
+alinéa de l'article L. 2334-40.
 
-Pour l'utilisation de ces crédits, le représentant de l'Etat dans le département
-conclut une convention avec la commune ou l'établissement public de coopération
-intercommunale. Ces crédits sont attribués en vue de la réalisation de projets
-d'investissement ou d'actions dans le domaine économique et social. La
-subvention accordée ne doit pas avoir pour effet de faire prendre en charge tout
-ou partie des dépenses de personnel de la commune. Le représentant de l'Etat
-dans le département arrête les attributions de dotations sur la base d'objectifs
-prioritaires fixés chaque année par le Premier ministre après avis du Conseil
-national des villes.
-
-La population à prendre en compte pour l'application du présent article est
-celle définie à l'article L. 2334-2.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil
-d'Etat.
+La population à prendre en compte pour l'application des deuxième et troisième
+alinéas du présent article est celle définie à l'article L. 2334-2.

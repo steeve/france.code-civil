@@ -32,3 +32,6 @@ fonctionnement des départements, le montant de la dotation globale de
 fonctionnement de 2008 calculé dans les conditions définies ci-dessus est minoré
 du montant de dotation globale de fonctionnement calculé au profit de la
 collectivité de Saint-Barthélemy en 2008.
+
+En 2011, le montant de la dotation globale de fonctionnement des départements
+mise en répartition est augmenté de 67 millions d'euros par rapport à 2010.

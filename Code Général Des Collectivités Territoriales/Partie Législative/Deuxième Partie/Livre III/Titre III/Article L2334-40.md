@@ -1,104 +1,41 @@
 Article L2334-40
 ----
 Il est institué une dotation budgétaire intitulée dotation de développement
-rural. Le montant de cette dotation est fixé à 116,104 millions d'euros pour
-2004. A compter de 2005, chaque année, la loi de finances détermine le montant
-de cette dotation par application du taux de croissance de la formation brute de
-capital fixe des administrations publiques prévu pour l'année à venir, tel qu'il
-est estimé dans la projection économique associée présentée en annexe au projet
-de loi de finances.A compter de 2006, la dotation de développement rural
-comporte deux parts. En 2006, le montant de la première part est fixé à 104 370
-000 euros et celui de la seconde part à 20 000 000 euros. A compter de 2007, le
-montant des deux parts est fixé par application du taux de croissance défini
-ci-dessus. A titre dérogatoire, cette évolution ne s'applique pas en 2009 ni en
-2010.
+urbain.
 
-Bénéficient de la première et de la seconde part de la dotation de développement
-rural les groupements de communes à fiscalité propre exerçant une compétence en
-matière d'aménagement de l'espace et de développement économique dont la
-population regroupée n'excède pas 60 000 habitants et qui ne satisfont pas aux
-seuils de population nécessaires pour une transformation en communauté
-d'agglomération, si les deux tiers au moins des communes du groupement comptent
-moins de 5 000 habitants, ainsi que les syndicats mixtes composés uniquement
-d'établissements publics de coopération intercommunale à fiscalité propre
-répondant aux mêmes règles d'éligibilité et les communes nouvelles, pendant les
-trois premiers exercices à compter de leur création, lorsque le ou les
-établissements publics de coopération intercommunale dont elles sont issues
-étaient éligibles à la dotation l'année précédant leur transformation en commune
-nouvelle. Les communes éligibles au titre d'une année à la seconde fraction de
-la dotation de solidarité rurale prévue à l'article L. 2334-22 bénéficient
-l'année suivante de la seconde part de la dotation de développement rural.
+Peuvent bénéficier de cette dotation les communes de métropole éligibles l'année
+précédente à la dotation de solidarité urbaine et de cohésion sociale prévue à
+l'article L. 2334-15 qui figurent parmi les cent premières d'un classement de
+ces communes établi chaque année en fonction de critères tirés notamment de la
+proportion de population résidant dans des quartiers inclus dans les zones
+prioritaires de la politique de la ville, du revenu fiscal moyen des habitants
+de ces quartiers et du potentiel financier. Ces critères sont appréciés l'année
+précédant celle au titre de laquelle est répartie la dotation de développement
+urbain.
 
-Les crédits de la première part de la dotation de développement rural sont
-répartis entre les départements en tenant compte du nombre de communes
-nouvelles, du nombre de communes regroupées et du nombre d'établissements
-publics de coopération intercommunale, de la population regroupée, du potentiel
-fiscal et, le cas échéant, du coefficient d'intégration fiscale de ces
-établissements. La répartition peut également tenir compte du nombre de communes
-nouvelles, du nombre de communes regroupées et d'établissements publics de
-coopération intercommunale situés en zone de montagne. Les crédits de la seconde
-part sont répartis entre les départements en proportion du rapport entre la
-densité moyenne de population de l'ensemble des départements et la densité de
-population du département.
+Lorsque la compétence en matière de politique de la ville a été transférée par
+une commune éligible à un établissement public de coopération intercommunale,
+celui-ci peut bénéficier, sur décision du représentant de l'Etat dans le
+département, de la dotation de développement urbain pour le compte de cette
+commune.
 
-Les attributions sont arrêtées par le représentant de l'Etat dans le
-département, sous forme de subventions, après avis de la commission d'élus
-prévue au présent article. Ces subventions sont attribuées, au titre de la
-première part, en vue de la réalisation de projets de développement économique
-et social ou d'actions en faveur des espaces naturels et, au titre de la seconde
-part, en vue de la réalisation de projets destinés à maintenir et développer les
-services publics en milieu rural.
+Après constitution de la quote-part définie à l'article L. 2334-41, les crédits
+de la dotation de développement urbain sont répartis entre les départements en
+tenant compte du nombre de communes éligibles dans chaque département et de leur
+classement selon les critères prévus au deuxième alinéa.
 
-La commission évalue les attributions au titre de la première part en fonction
-de critères comprenant notamment l'augmentation attendue des bases de fiscalité
-directe locale ou les créations d'emplois prévues sur le territoire des
-établissements publics de coopération intercommunale considérés.
-
-Dans chaque département, il est institué auprès du représentant de l'Etat une
-commission composée des représentants des présidents des établissements publics
-de coopération intercommunale dont la population n'excède pas 60 000 habitants.
-A compter du renouvellement général des conseils des établissements publics de
-coopération intercommunale mentionné au II de l'article 54 de la loi de finances
-pour 2004 (n° 2003-1311 du 30 décembre 2003), les représentants des maires de
-communes éligibles à la seconde part sont également membres de la commission et
-se prononcent sur les projets présentés au titre de cette part.
-
-Les membres de la commission sont désignés par l'association des maires du
-département.
-
-Si, dans le département, il n'existe pas d'association de maires ou s'il en
-existe plusieurs, les membres de la commission sont élus à la représentation
-proportionnelle au plus fort reste par un collège regroupant les présidents
-d'établissements publics de coopération intercommunale ou les maires.
-
-A chacune de ses réunions, la commission désigne un bureau de séance. Le
-secrétariat de la commission est assuré par les services du représentant de
-l'Etat dans le département. Le préfet ou son représentant assiste aux travaux de
-la commission.
-
-Le mandat des membres de la commission expire à chaque renouvellement général
-des conseils des établissements publics de coopération intercommunale.
-
-Le préfet arrête chaque année, après avis de la commission, les opérations à
-subventionner ainsi que le montant de l'aide de l'Etat qui leur est attribuée.
-Il en informe la commission ainsi que la conférence départementale
-d'harmonisation des investissements instituée par l'article L. 3142-1.
+Pour l'utilisation de ces crédits, le représentant de l'Etat dans le département
+conclut une convention avec la commune ou l'établissement public de coopération
+intercommunale. Ces crédits sont attribués en vue de la réalisation de projets
+d'investissement ou d'actions dans le domaine économique et social. La
+subvention accordée ne doit pas avoir pour effet de faire prendre en charge tout
+ou partie des dépenses de personnel de la commune. Le représentant de l'Etat
+dans le département arrête les attributions de dotations sur la base d'objectifs
+prioritaires fixés chaque année par le Premier ministre après avis du Conseil
+national des villes.
 
 La population à prendre en compte pour l'application du présent article est
 celle définie à l'article L. 2334-2.
 
 Les modalités d'application du présent article sont fixées par décret en Conseil
-d'Etat. A défaut, le décret n° 85-260 du 22 février 1985 relatif aux modalités
-de répartition des ressources du fonds national de péréquation de la taxe
-professionnelle et du fonds national de péréquation, le décret n° 85-1314 du 11
-décembre 1985 relatif aux modalités de répartition des ressources du fonds
-national de péréquation de la taxe professionnelle et du Fonds national de
-péréquation dans les départements d'outre-mer et le décret n° 93-289 du 5 mars
-1993 pris pour l'application des articles 126 et 130 de la loi n° 92-125 du 6
-février 1992 et relatif aux modalités de répartition de la quote-part de la
-dotation de développement rural entre les communes des départements d'outre-mer,
-entre les communes de la collectivité territoriale de Saint-Pierre-et-Miquelon,
-entre les circonscriptions territoriales des îles Wallis et Futuna et entre les
-communes des territoires d'outre-mer et de la collectivité territoriale de
-Mayotte et leurs groupements s'appliquent, en ce qui concerne le présent
-article.
+d'Etat.

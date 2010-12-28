@@ -28,6 +28,8 @@ A la fourniture de logement et de nourriture dans les lieux de vie et d'accueil
 mentionnés au III de l'article L. 312-1 du code de l'action sociale et des
 familles ;
 
+A la location d'aires d'accueil ou de terrains de passage des gens du voyage ;
+
 a bis. Les recettes provenant de la fourniture des repas dans les cantines
 d'entreprises et répondant aux conditions qui sont fixées par décret ;
 
@@ -91,22 +93,22 @@ forestiers, ainsi que les travaux de prévention des incendies de forêt menés 
 des associations syndicales autorisées ayant pour objet la réalisation de ces
 travaux ;
 
-b octies. les abonnements souscrits par les usagers afin de recevoir :
+b octies. Les abonnements souscrits par les usagers afin de recevoir les
+services de télévision mentionnés à l'article 2 de la loi n° 86-1067 du 30
+septembre 1986 relative à la liberté de communication.
 
-1° les services de télévision prévus à l'article 79 de la loi n° 82-652 du 29
-juillet 1982 sur la communication audiovisuelle ;
-
-2° les services de télévision prévus à l'article 1er de la loi n° 84-743 du 1er
-août 1984 relative à l'exploitation des services de radiotélévision mis à la
-disposition du public sur un réseau câblé ;
-
-3° les services autorisés de télévision par voie hertzienne et les services de
-télévision mis à la disposition du public sur un réseau de communications
-électroniques prévus par les chapitres 1er et 2 du titre II de la loi n° 86-1067
-du 30 septembre 1986 modifiée relative à la liberté de la communication. Lorsque
-ces services sont compris dans une offre composite pour un prix forfaitaire
-comprenant d'autres services fournis par voie électronique, le taux réduit
-s'applique à hauteur de 50 % de ce prix ;
+Le taux réduit n'est pas applicable lorsque la distribution de services de
+télévision est comprise dans une offre unique qui comporte pour un prix
+forfaitaire l'accès à un réseau de communications électroniques au sens du 2° de
+l'article L. 32 du code des postes et des communications électroniques.
+Néanmoins, lorsque les droits de distribution des services de télévision ont été
+acquis en tout ou partie contre rémunération par le fournisseur des services, le
+taux réduit est applicable à la part de l'abonnement correspondante. Cette part
+est égale, en fonction du choix opéré par le distributeur des services, soit aux
+sommes payées, par usager, pour l'acquisition des droits susmentionnés, soit au
+prix auquel les services correspondant aux mêmes droits sont distribués
+effectivement par ce distributeur dans une offre de services de télévision
+distincte de l'accès à un réseau de communications électroniques.
 
 b nonies. les droits d'entrée perçus pour la visite des parcs à décors animés
 qui illustrent un thème culturel et pour la pratique des activités directement
@@ -133,9 +135,7 @@ maximales souscrites par un même abonné sur un même site ;
 
 c, d, e. (Abrogés à compter du 1er janvier 1993) ;
 
-f. les prestations pour lesquelles les avocats, les avocats au Conseil d'Etat et
-à la Cour de cassation et les avoués sont indemnisés totalement ou partiellement
-par l'Etat dans le cadre de l'aide juridictionnelle ;
+f. (Abrogé)
 
 g. Les cessions des droits patrimoniaux reconnus par la loi aux auteurs des
 oeuvres de l'esprit et aux artistes-interprètes ainsi que de tous droits portant

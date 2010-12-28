@@ -33,7 +33,14 @@ l'économie et des finances, pris après avis de l'Union des habitations à loye
 modéré regroupant les fédérations d'organismes d'habitations à loyer modéré et
 avis de la fédération groupant les sociétés d'économie mixte. Le montant de la
 part variable est calculé en appliquant à la base ainsi déterminée un taux fixé,
-dans les limites de 15 %, par un arrêté pris dans les mêmes formes.
+dans les limites de 15 %, par un arrêté pris dans les mêmes formes. Une fraction
+de ce montant, plafonnée à 70 millions d'euros par an, alimente le fonds prévu à
+l'article L. 452-1-1 pour les années 2011, 2012 et 2013. La fraction mentionnée
+à l'alinéa précédent est fixée par arrêté du ministre de l'économie et des
+finances et du ministre chargé de la politique de la ville, pour le financement
+des opérations conduites dans le cadre du programme national de rénovation
+urbaine visé par l'article 6 de la loi n° 2003-710 du 1er août 2003
+d'orientation et de programmation pour la ville et la rénovation urbaine.
 
 Les dispositions des articles L. 452-5 et L. 452-6 sont applicables à la
 cotisation additionnelle.

@@ -68,7 +68,7 @@ p. Au titre de 1996, à 1 pour les propriétés non bâties et pour les immeuble
 industriels ne relevant pas de l'article 1500 et à 1,01 pour l'ensemble des
 autres propriétés bâties ;
 
-q. au titre de 1997, à 1 pour les propriétés non bâties, pour les immeubles
+q. Au titre de 1997, à 1 pour les propriétés non bâties, pour les immeubles
 industriels ne relevant pas de l'article 1500 et à 1,01 pour l'ensemble des
 autres propriétés bâties ;
 
@@ -116,10 +116,14 @@ zb) Au titre de 2008, à 1,016 pour les propriétés non bâties, à 1,016 pour 
 immeubles industriels ne relevant pas de l'article 1500 et pour l'ensemble des
 autres propriétés bâties ;
 
-zc) Au titre de 2009, à 1, 015 pour les propriétés non bâties, à 1, 025 pour les
+zc) Au titre de 2009, à 1,015 pour les propriétés non bâties, à 1,025 pour les
 immeubles industriels ne relevant pas de l'article 1500 et pour l'ensemble des
 autres propriétés bâties ;
 
-zd) Au titre de 2010, à 1, 012 pour les propriétés non bâties, à 1, 012 pour les
+zd) Au titre de 2010, à 1,012 pour les propriétés non bâties, à 1,012 pour les
 immeubles industriels relevant du 1° de l'article 1500 et à 1, 012 pour
-l'ensemble des autres propriétés bâties.
+l'ensemble des autres propriétés bâties ;
+
+ze) Au titre de 2011, à 1,02 pour les propriétés non bâties, à 1,02 pour les
+immeubles industriels relevant du 1° de l'article 1500 et à 1,02 pour l'ensemble
+des autres propriétés bâties.

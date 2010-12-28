@@ -12,7 +12,7 @@ décembre 2010 pour les contribuables qui y exercent déjà une activité au 1er
 janvier 2006 ou, dans le cas contraire, jusqu'au terme du cinquante-neuvième
 mois suivant celui du début de leur activité dans l'une de ces zones. Ces
 bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à
-concurrence de 40 %, 60 % ou 80 % de leur montant selon qu'ils sont réalisés
+concurrence de 40 %,60 % ou 80 % de leur montant selon qu'ils sont réalisés
 respectivement au cours des cinq premières, de la sixième et septième ou de la
 huitième et neuvième périodes de douze mois suivant cette période d'exonération.
 
@@ -63,10 +63,11 @@ prévues au premier alinéa en déduisant de la durée qu'il fixe la durée
 d'exonération déjà écoulée au titre de ces articles avant le transfert, la
 reprise, la concentration ou la restructuration. Si les activités sont créées
 par un contribuable ayant bénéficié au titre d'une ou plusieurs des cinq années
-précédant celle du transfert des dispositions de l'article 44 sexies dans les
-zones de revitalisation rurale définies à l'article 1465 A ou dans les zones de
-redynamisation urbaine définies aux I bis et I ter de l'article 1466 A, ou de la
-prime d'aménagement du territoire, l'exonération ne s'applique pas.
+précédant celle du transfert des dispositions des articles 44 sexies ou 44
+quindecies dans les zones de revitalisation rurale définies à l'article 1465 A
+ou dans les zones de redynamisation urbaine définies au A du 3 de l'article 42
+de la loi n° 95-115 du 4 février 1995 précitée, ou de la prime d'aménagement du
+territoire, l'exonération ne s'applique pas.
 
 Lorsque l'activité non sédentaire d'un contribuable est implantée dans une zone
 franche urbaine mais est exercée en tout ou partie en dehors d'une telle zone,
@@ -76,8 +77,8 @@ affectés à l'activité, ou si ce contribuable réalise au moins 25 % de son
 chiffre d'affaires auprès de clients situés dans les zones franches urbaines.
 
 II.-L'exonération s'applique au bénéfice d'un exercice ou d'une année
-d'imposition, déclaré selon les modalités prévues aux articles 50-0, 53 A, 96 à
-100, 102 ter et 103, diminué des produits bruts ci-après qui restent imposables
+d'imposition, déclaré selon les modalités prévues aux articles 50-0,53 A,96 à
+100,102 ter et 103, diminué des produits bruts ci-après qui restent imposables
 dans les conditions de droit commun :
 
 a) Produits des actions ou parts de sociétés, résultats de sociétés ou
@@ -109,7 +110,7 @@ est déterminée conformément à l'article 1467, au 1er janvier de l'année au 
 de laquelle est clos l'exercice ou au 1er janvier de l'année d'imposition des
 bénéfices.
 
-Par exception aux dispositions du sixième alinéa , le contribuable exerçant une
+Par exception aux dispositions du sixième alinéa, le contribuable exerçant une
 activité de location d'immeubles n'est exonéré qu'à raison des bénéfices
 provenant des seuls immeubles situés dans une zone franche urbaine. Cette
 disposition s'applique quel que soit le lieu d'établissement du bailleur.
@@ -124,9 +125,9 @@ d'imposition au titre duquel ou de laquelle l'exonération s'applique.
 Pour les contribuables qui exercent des activités avant le 1er janvier 2006 dans
 les zones franches urbaines définies au deuxième alinéa du B du 3 de l'article
 42 de la loi n° 95-115 du 4 février 1995 précitée, le bénéfice de l'exonération
-est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du
-15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux
-aides de minimis.
+est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission du 15
+décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides
+de minimis.
 
 III.-Lorsque le contribuable mentionné au I est une société membre d'un groupe
 fiscal mentionné à l'article 223 A, le bénéfice exonéré est celui de cette
@@ -137,13 +138,14 @@ Pour l'ensemble des sociétés d'un même groupe, le montant de l'exonération
 accordée ne peut excéder le montant total calculé conformément aux dispositions
 du huitième alinéa du II, dans la limite du résultat d'ensemble du groupe.
 
-Lorsqu'il répond aux conditions requises pour bénéficier des dispositions du
-régime prévu à l'article 44 sexies et du régime prévu au présent article, le
-contribuable peut opter pour ce dernier régime dans les six mois qui suivent la
-publication du décret en Conseil d'Etat procédant à la délimitation de la zone
-conformément à l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, s'il
-y exerce déjà son activité ou, dans le cas contraire, dans les six mois suivant
-celui du début d'activité.L'option est irrévocable.
+Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de
+l'un des régimes prévus aux articles 44 sexies et 44 quindecies et du régime
+prévu au présent article, le contribuable peut opter pour ce dernier régime dans
+les six mois qui suivent la publication du décret en Conseil d'Etat procédant à
+la délimitation de la zone conformément à l'article 42 de la loi n° 95-115 du 4
+février 1995 précitée, s'il y exerce déjà son activité ou, dans le cas
+contraire, dans les six mois suivant celui du début d'activité.L'option est
+irrévocable.
 
 IV.-Les obligations déclaratives des personnes et organismes auxquels s'applique
 l'exonération sont fixées par décret.

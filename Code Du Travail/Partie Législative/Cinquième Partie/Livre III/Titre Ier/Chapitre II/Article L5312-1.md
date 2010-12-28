@@ -26,11 +26,9 @@ les conditions prévues au chapitre VI du titre II du livre IV ;
 chômage, le service de l'allocation d'assurance et, pour le compte de l'Etat ou
 du Fonds de solidarité prévu à l'article L. 5423-24, le service des allocations
 de solidarité prévues à la section 1 du chapitre III du titre II du livre IV de
-la présente partie, de la prime de retour à l'emploi mentionnée à l'article L.
-5133-1 pour les bénéficiaires de l'allocation de solidarité spécifique, de la
-prime forfaitaire mentionnée à l'article L. 5425-3, des allocations mentionnées
-à l'article L. 5424-21 ainsi que de toute autre allocation ou aide dont l'Etat
-lui confierait le versement par convention ;
+la présente partie, de la prime forfaitaire mentionnée à l'article L. 5425-3,
+des allocations mentionnées à l'article L. 5424-21 ainsi que de toute autre
+allocation ou aide dont l'Etat lui confierait le versement par convention ;
 
 5° Recueillir, traiter, diffuser et mettre à la disposition des services de
 l'Etat et de l'organisme gestionnaire du régime d'assurance chômage les données

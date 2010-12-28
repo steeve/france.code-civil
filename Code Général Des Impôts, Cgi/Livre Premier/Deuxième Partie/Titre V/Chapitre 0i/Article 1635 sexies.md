@@ -13,8 +13,8 @@ bâties et les taxes additionnelles à ces impôts, les bases d'imposition sont
 1396, 1402 à 1406, 1415 et 1520 à 1528 ;
 
 2° En ce qui concerne la cotisation foncière des entreprises, l'imposition est
-établie conformément au I de l'article 1447, au 1° de l'article 1467, à
-l'article 1467 A, au I de l'article 1478 et à l'article 1647 B sexies ;
+établie conformément au I de l'article 1447, aux articles 1467 et 1467 A, au I
+de l'article 1478 et à l'article 1647 B sexies ;
 
 3° Les bases d'imposition de La Poste font l'objet d'un abattement égal à 85 %
 de leur montant, en raison des contraintes de desserte de l'ensemble du

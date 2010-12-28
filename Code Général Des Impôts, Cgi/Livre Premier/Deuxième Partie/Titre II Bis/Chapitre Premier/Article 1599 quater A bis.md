@@ -62,8 +62,7 @@ suivant le 1er mai de l'année d'imposition, le nombre de matériels roulants pa
 catégorie.
 
 Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et
-privilèges sont régis comme en matière de taxe foncière sur les propriétés
-bâties.
+privilèges sont régis comme en matière de cotisation foncière des entreprises .
 
 V.-La composante de l'imposition forfaitaire sur les entreprises de réseaux
 prévue au présent article est affectée au budget de l'établissement public "

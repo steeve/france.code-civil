@@ -22,14 +22,11 @@ résidentes en France, ressortissantes d'un Etat membre de la Communauté
 européenne, ou d'un autre Etat partie à l'accord sur l'Espace économique
 européen ayant conclu avec la France une convention fiscale qui contient une
 clause d'assistance administrative en vue de lutter contre la fraude ou
-l'évasion fiscale, dans la limite, par contribuable, des deux premières
-cessions, à la double condition que le cédant ait été fiscalement domicilié en
-France de manière continue pendant au moins deux ans à un moment quelconque
-antérieurement à la cession et qu'il ait la libre disposition du bien au moins
-depuis le 1er janvier de l'année précédant celle de cette cession. En outre, la
-seconde cession bénéficie de ces dispositions à la double condition que le
-contribuable ne dispose pas d'une autre propriété en France au jour de cette
-cession et qu'elle intervienne au moins cinq ans après la première ;
+l'évasion fiscale, dans la limite d'une résidence par contribuable, à la double
+condition que le cédant ait été fiscalement domicilié en France de manière
+continue pendant au moins deux ans à un moment quelconque antérieurement à la
+cession et qu'il ait la libre disposition du bien au moins depuis le 1er janvier
+de l'année précédant celle de cette cession ;
 
 3° Qui constituent les dépendances immédiates et nécessaires des biens
 mentionnés aux 1° et 2°, à la condition que leur cession intervienne

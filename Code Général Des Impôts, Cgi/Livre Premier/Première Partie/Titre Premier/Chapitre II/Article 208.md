@@ -6,8 +6,9 @@ Sont également exonérés de l'impôt sous réserve des dispositions de l'artic
 1° (Abrogé à compter du 1er janvier 1993) ;
 
 1° bis-Les sociétés d'investissement qui sont constituées et fonctionnent dans
-les conditions prévues au titre II de l'ordonnance n° 45-2710 du 2 novembre
-1945, pour la partie des bénéfices provenant des produits nets de leur
+les conditions prévues au titre II de l'ordonnance n° 45-2710 du 2 novembre 1945
+ou qui sont régies par les articles L. 214-147 et suivants du code monétaire et
+financier, pour la partie des bénéfices provenant des produits nets de leur
 portefeuille ou des plus-values qu'elles réalisent sur la vente des titres ou
 parts sociales faisant partie de ce portefeuille. Ces sociétés cesseront de
 bénéficier des dispositions du présent alinéa trois ans après leur création, si
@@ -28,9 +29,10 @@ vente des titres ou parts sociales faisant partie de ce portefeuille ;
 
 2° Les sociétés ayant pour objet exclusif la gestion d'un portefeuille de
 valeurs mobilières et constituées dans les conditions prévues au titre II de
-l'ordonnance du 2 novembre 1945 susvisée, pour les plus-values qu'elles
-réalisent sur la cession de titres ou de parts sociales faisant partie de ce
-portefeuille ;
+l'ordonnance du 2 novembre 1945 susvisée ou qui sont régies par les articles L.
+214-147 et suivants du code monétaire et financier, pour les plus-values
+qu'elles réalisent sur la cession de titres ou de parts sociales faisant partie
+de ce portefeuille ;
 
 3° et 3° bis (Abrogés) ;
 

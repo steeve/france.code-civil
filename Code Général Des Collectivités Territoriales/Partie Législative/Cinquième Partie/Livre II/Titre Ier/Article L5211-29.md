@@ -19,35 +19,26 @@ l'article 1609 nonies C du code général des impôts ;
 6° Pour la période de 2000 à 2002, la catégorie mentionnée au 1° est divisée en
 deux catégories distinctes :
 
-- les communautés urbaines ne faisant pas application des dispositions de
+-les communautés urbaines ne faisant pas application des dispositions de
 l'article 1609 nonies C du code général des impôts ;
 
-- les communautés urbaines faisant application des dispositions de l'article
-1609 nonies C du code général des impôts.
+-les communautés urbaines faisant application des dispositions de l'article 1609
+nonies C du code général des impôts.
 
-II. L'évolution de la dotation par habitant de la catégorie des communautés
-d'agglomération est au plus égale à l'évolution prévisionnelle des prix à la
-consommation hors tabac associée au projet de loi de finances.
+II.A compter de 2011, la dotation moyenne par habitant de la catégorie des
+communautés d'agglomération est égale à 45,40 €.
 
-A compter de 2005, la dotation par habitant de la catégorie des communautés de
-communes ne faisant pas application des dispositions de l'article 1609 nonies C
-du code général des impôts évolue chaque année selon un taux fixé par le comité
-des finances locales, compris entre 130 % et 160 % du taux fixé pour la dotation
-par habitant des communautés d'agglomération.
+A compter de 2011, la dotation moyenne par habitant de la catégorie des
+communautés de communes ne faisant pas application de l'article 1609 nonies C du
+code général des impôts est égale à 20,05 € par habitant.
 
-A compter de 2005, la dotation par habitant de la catégorie des communautés de
-communes faisant application des dispositions de l'article 1609 nonies C du code
-général des impôts évolue chaque année selon un taux fixé par le comité des
-finances locales, compris entre 130 % et 160 % du taux fixé pour la dotation par
-habitant des communautés d'agglomération.
+A compter de 2011, la dotation moyenne par habitant de la catégorie des
+communautés de communes faisant application des dispositions du même article
+1609 nonies C est égale à 24,48 € par habitant.
 
-La dotation par habitant de la catégorie des communautés de communes qui
-remplissent les conditions visées à l'article L. 5214-23-1 est majorée d'une
-somme lui permettant d'atteindre 175 F au 1er janvier 2000. Pour les années
-suivantes, ce montant, fixé par le comité des finances locales, évolue au moins
-comme l'évolution prévisionnelle des prix à la consommation hors tabac associée
-au projet de loi de finances. A compter de 2005, ce montant évolue selon le taux
-fixé par le comité des finances locales en application du précédent alinéa.
+A compter de 2011, la dotation par habitant de la catégorie des communautés de
+communes qui remplissent les conditions visées à l'article L. 5214-23-1 du
+présent code est majorée d'une somme lui permettant d'atteindre 34,06 €.
 
 Les modalités de répartition de la majoration prévue au précédent alinéa sont
 précisées à l'article L. 5211-30.
@@ -75,10 +66,8 @@ habitant qui leur a été notifiée l'année précédente, augmentée comme la d
 forfaitaire visée à l'article L. 2334-7. Pour l'application de ces dispositions
 en 2002, la dotation moyenne par habitant prise en compte au titre de 2001
 intègre la quote-part de la régularisation de la dotation globale de
-fonctionnement prévue par l'article L. 1613-2-1.A compter de 2005, le montant
-moyen par habitant correspondant à la majoration évolue au moins selon le taux
-fixé par le comité des finances locales en application du deuxième alinéa du
-présent II.
+fonctionnement prévue par l'article L. 1613-2-1.A compter de 2011, le montant
+moyen par habitant correspondant à la majoration est égal à celui perçu en 2010.
 
 Cette majoration est répartie entre les établissements publics de coopération
 intercommunale bénéficiaires comme les dotations de base et de péréquation

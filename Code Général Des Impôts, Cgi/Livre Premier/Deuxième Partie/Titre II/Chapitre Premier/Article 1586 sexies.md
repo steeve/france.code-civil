@@ -10,8 +10,8 @@ II à VI :
 -des redevances pour concessions, brevets, licences, marques, procédés,
 logiciels, droits et valeurs similaires ;
 
--des plus-values de cession d'éléments d'immobilisations corporelles et
-incorporelles, lorsqu'elles se rapportent à une activité normale et courante ;
+-des plus-values de cession d'immobilisations corporelles et incorporelles,
+lorsqu'elles se rapportent à une activité normale et courante ;
 
 -des refacturations de frais inscrites au compte de transfert de charges.
 
@@ -22,7 +22,7 @@ rétrocessions, ainsi que des gains divers.
 
 3. Le chiffre d'affaires des personnes dont les revenus imposables à l'impôt sur
 le revenu relèvent de la catégorie des revenus fonciers définie à l'article 14
-comprend les recettes brutes au sens de l'article 29.
+comprend les recettes brutes hors taxes au sens de l'article 29.
 
 4. La valeur ajoutée est égale à la différence entre :
 
@@ -50,6 +50,9 @@ sur le revenu ou à l'impôt sur les sociétés de l'entreprise qui les consent 
 
 -des transferts de charges déductibles de la valeur ajoutée, autres que ceux
 pris en compte dans le chiffre d'affaires ;
+
+- des rentrées sur créances amorties lorsqu'elles se rapportent au résultat
+d'exploitation ;
 
 b) Et, d'autre part :
 
@@ -87,9 +90,7 @@ sociétés ;
 corporels donnés en location ou sous-location pour une durée de plus de six
 mois, donnés en crédit-bail ou faisant l'objet d'un contrat de location-gérance,
 en proportion de la seule période de location, de sous-location, de crédit-bail
-ou de location-gérance ; ces dispositions ne s'appliquent pas en cas de contrats
-de sous-location de plus de six mois lorsque le dernier sous-locataire n'est pas
-assujetti à la cotisation foncière des entreprises ;
+ou de location-gérance ;
 
 -les moins-values de cession d'éléments d'immobilisations corporelles et
 incorporelles, lorsqu'elles se rapportent à une activité normale et courante.
@@ -112,6 +113,9 @@ chiffre d'affaires mentionné respectivement aux 1, 2 et 3 égal à :
 
 85 % pour les contribuables dont le chiffre d'affaires est supérieur à 7, 6
 millions d'euros.
+
+Pour l'application du présent 7, la période retenue pour le chiffre d'affaires
+est la même que celle retenue pour la valeur ajoutée.
 
 II.-Par exception au I, les produits et les charges mentionnés au même I et se
 rapportant à une activité de location ou de sous-location d'immeubles nus
@@ -144,7 +148,8 @@ e) Quotes-parts de résultat sur opérations faites en commun.
 2. La valeur ajoutée est égale à la différence entre :
 
 a) D'une part, le chiffre d'affaires tel qu'il est défini au 1, majoré des
-reprises de provisions spéciales ;
+reprises de provisions spéciales et des récupérations sur créances amorties
+lorsqu'elles se rapportent aux produits d'exploitation bancaire ;
 
 b) Et, d'autre part :
 
@@ -161,7 +166,10 @@ de cette sous-location ;
 
 -les charges diverses d'exploitation, à l'exception des moins-values de cession
 sur immobilisations autres que celles portant sur les autres titres détenus à
-long terme et des quotes-parts de résultat sur opérations faites en commun.
+long terme et des quotes-parts de résultat sur opérations faites en commun ;
+
+- les pertes sur créances irrécouvrables lorsqu'elles se rapportent aux produits
+d'exploitation bancaire.
 
 IV.-Pour les entreprises, autres que celles mentionnées aux III et VI, qui ont
 pour activité principale la gestion d'instruments financiers au sens de
@@ -172,20 +180,23 @@ l'article L. 211-1 du code monétaire et financier :
 -le chiffre d'affaires tel qu'il est déterminé pour la généralité des
 entreprises au 1 du I ;
 
--les produits financiers, à l'exception des reprises sur provisions pour
-dépréciation de titres et de 95 % des dividendes sur titres de participation ;
+-les produits financiers, à l'exception des reprises sur provisions et de 95 %
+des dividendes sur titres de participation ;
 
--et les produits sur cession des titres, à l'exception des plus-values de
+-et les plus-values sur cession des titres, à l'exception des plus-values de
 cession de titres de participation.
 
 2. La valeur ajoutée est égale à la différence entre :
 
--d'une part, le chiffre d'affaires tel qu'il est défini au 1 ;
+-d'une part, le chiffre d'affaires tel qu'il est défini au 1, majoré des
+rentrées sur créances amorties lorsqu'elles se rapportent au chiffre d'affaires
+défini au 1 ;
 
 -et, d'autre part, les services extérieurs mentionnés au 4 du I ; les charges
-financières, à l'exception des dotations aux amortissements et des provisions
-pour dépréciation de titres, et les charges sur cession de titres autres que les
-titres de participation.
+financières, à l'exception des dotations aux amortissements et aux provisions ;
+les moins-values de cession de titres autres que les titres de participation ;
+les pertes sur créances irrécouvrables lorsqu'elles se rapportent au chiffre
+d'affaires défini au 1 (1).
 
 Les entreprises ayant pour activité principale la gestion d'instruments
 financiers sont celles qui remplissent au moins une des deux conditions
@@ -208,15 +219,15 @@ conditions mentionnées aux cinquième et sixième alinéas s'apprécient, le ca
 appartient la société au sens de l'article L. 233-16 du code de commerce sur la
 base des comptes consolidés prévus au I du même article.
 
-V.-Pour les sociétés créées pour la réalisation d'une opération unique de
-financement d'immobilisations corporelles :
+V.-Pour les sociétés et groupements créés pour la réalisation d'une opération
+unique de financement d'immobilisations corporelles :
 
-a) Qui sont détenues à 95 % au moins par un établissement de crédit et qui
+a) Qui sont détenus à 95 % au moins par un établissement de crédit et qui
 réalisent l'opération pour le compte de l'établissement de crédit ou d'une
 société elle-même détenue à 95 % au moins par l'établissement de crédit ;
 
-b) Ou qui sont soumises au 1 du II de l'article 39 C ou aux articles 217
-undecies ou 217 duodecies :
+b) Ou qui sont soumis au 1 du II de l'article 39 C ou aux articles 217 undecies
+ou 217 duodecies :
 
 1. Le chiffre d'affaires comprend :
 
@@ -229,12 +240,15 @@ au premier alinéa du présent V.
 
 2. La valeur ajoutée est égale à la différence entre :
 
--d'une part, le chiffre d'affaires tel qu'il est défini au 1 ;
+-d'une part, le chiffre d'affaires tel qu'il est défini au 1, majoré des
+rentrées sur créances amorties lorsqu'elles se rapportent au chiffre d'affaires
+défini au 1 ;
 
 -et, d'autre part, les services extérieurs et les dotations aux amortissements
 mentionnés au 4 du I, les charges financières et les moins-values résultant de
 la cession au crédit-preneur des immobilisations financées dans le cadre de
-l'opération visée au premier alinéa du présent V.
+l'opération visée au premier alinéa du présent V et les pertes sur créances
+irrécouvrables lorsqu'elles se rapportent au chiffre d'affaires défini au 1.
 
 VI.-Pour les mutuelles et unions régies par le livre II du code de la mutualité,
 les institutions de prévoyance régies par le titre III du livre IX du code de la

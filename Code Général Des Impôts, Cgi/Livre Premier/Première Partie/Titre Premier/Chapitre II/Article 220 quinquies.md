@@ -8,13 +8,13 @@ et, le cas échéant, de celui de l'avant-dernier exercice puis de celui de
 l'exercice précédent, dans la limite de la fraction non distribuée de ces
 bénéfices et à l'exclusion des bénéfices exonérés en application des articles 44
 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 undecies, 44
-terdecies, 44 quaterdecies et 207 à 208 sexies ou qui ont bénéficié des
-dispositions du premier alinéa du f du I de l'article 219 ou qui ont ouvert
-droit au crédit d'impôt prévu aux articles 220 quater et 220 quater A ou qui ont
-donné lieu à un impôt payé au moyen de crédits d'impôts. Cette option porte,
-pour les exercices ouverts à compter du 1er janvier 1985, sur les déficits
-reportables à la clôture d'un exercice en application du troisième alinéa du I
-de l'article 209.
+terdecies, 44 quaterdecies, 44 quindecies et 207 à 208 sexies ou qui ont
+bénéficié des dispositions du premier alinéa du f du I de l'article 219 ou qui
+ont ouvert droit au crédit d'impôt prévu aux articles 220 quater et 220 quater A
+ou qui ont donné lieu à un impôt payé au moyen de crédits d'impôts. Cette option
+porte, pour les exercices ouverts à compter du 1er janvier 1985, sur les
+déficits reportables à la clôture d'un exercice en application du troisième
+alinéa du I de l'article 209.
 
 Le déficit imputé dans les conditions prévues au premier alinéa cesse d'être
 reportable sur les résultats des exercices suivant celui au titre duquel il a

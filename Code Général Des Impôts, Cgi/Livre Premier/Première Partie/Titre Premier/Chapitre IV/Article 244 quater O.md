@@ -2,7 +2,7 @@ Article 244 quater O
 ----
 I.-Les entreprises mentionnées au III et imposées d'après leur bénéfice réel ou
 exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44
-octies, 44 octies A, 44 decies , 44 undecies , 44 terdecies et 44 quaterdecies
+octies, 44 octies A, 44 decies, 44 undecies, 44 terdecies à 44 quindecies
 peuvent bénéficier d'un crédit d'impôt égal à 10 % de la somme :
 
 1° Des salaires et charges sociales afférents aux salariés directement chargés
@@ -17,8 +17,8 @@ mentionnés au 1° et à la réalisation de prototypes ;
 3° Des frais de dépôt des dessins et modèles relatifs aux nouveaux produits
 mentionnés au 1° ;
 
-4° Des frais de défense des dessins et modèles, dans la limite de 60 000 euros
-par an ;
+4° Des frais de défense des dessins et modèles, dans la limite de 60 000 € par
+an ;
 
 5° Des autres dépenses de fonctionnement exposées à raison des opérations de
 conception de nouveaux produits et à la réalisation de prototypes ; ces dépenses
@@ -57,16 +57,20 @@ VI.-Les mêmes dépenses ne peuvent entrer à la fois dans la base de calcul du
 crédit d'impôt mentionné au I et dans celle d'un autre crédit d'impôt.
 
 VII.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du
-règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant
+règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant
 l'application des articles 87 et 88 du traité aux aides de minimis.
 
 Pour l'application du premier alinéa, les sociétés de personnes et groupements
-mentionnés aux articles 8,, 238 bis L, 239 quater, 239 quater A, 239 quater B et
+mentionnés aux articles 8, 238 bis L, 239 quater, 239 quater A, 239 quater B et
 239 quater C qui ne sont pas soumis à l'impôt sur les sociétés doivent également
-respecter le règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006
+respecter le règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006
 précité. Le crédit d'impôt peut être utilisé par les associés de ces sociétés ou
 les membres de ces groupements proportionnellement à leurs droits dans ces
 sociétés ou groupements s'ils satisfont aux conditions d'application de ce même
 règlement et sous réserve qu'il s'agisse de redevables soumis à l'impôt sur les
 sociétés ou de personnes physiques participant à l'exploitation au sens du 1°
 bis du I de l'article 156.
+
+VIII.-Le présent article s'applique aux crédits d'impôt calculés au titre des
+dépenses exposées par les entreprises mentionnées au III jusqu'au 31 décembre
+2012.

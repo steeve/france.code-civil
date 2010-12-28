@@ -31,6 +31,11 @@ des services de communication audiovisuelle ;
 3° Les sommes acquittées au titre de l'utilisation de services universels de
 renseignements téléphoniques mentionnés à l'article R. 10-7 du même code.
 
+Lorsque les services de communications électroniques fournis sont compris dans
+une offre composite comprenant des services de télévision, le 2° n'est pas
+applicable et les sommes versées au titre de la présente taxe font l'objet d'un
+abattement de 50 %.
+
 III.-L'exigibilité de la taxe est constituée par l'encaissement du produit des
 abonnements et autres sommes mentionnées au II.
 

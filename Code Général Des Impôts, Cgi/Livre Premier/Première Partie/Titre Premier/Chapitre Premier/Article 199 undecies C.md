@@ -1,6 +1,6 @@
 Article 199 undecies C
 ----
-I. - Les contribuables domiciliés en France au sens de l'article 4 B peuvent
+I.-Les contribuables domiciliés en France au sens de l'article 4 B peuvent
 bénéficier d'une réduction d'impôt sur le revenu à raison de l'acquisition ou de
 la construction de logements neufs dans les départements d'outre-mer, à
 Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie
@@ -10,13 +10,13 @@ si les conditions suivantes sont réunies :
 1° Les logements sont donnés en location nue, dans les six mois de leur
 achèvement ou de leur acquisition si elle est postérieure et pour une durée au
 moins égale à cinq ans, à un organisme d'habitations à loyer modéré mentionné à
-l' article L. 411-2 du code de la construction et de l'habitation , à
-l'exception des sociétés anonymes coopératives d'intérêt collectif pour
-l'accession à la propriété, à une société d'économie mixte exerçant une activité
-immobilière outre-mer, à un organisme mentionné à l'article L. 365-1 du même
-code ou, dans les collectivités d'outre-mer, à tout organisme de logement social
-agréé conformément à la réglementation locale par l'autorité publique
-compétente. L'opération peut prendre la forme d'un crédit-bail immobilier ;
+l'article L. 411-2 du code de la construction et de l'habitation, à l'exception
+des sociétés anonymes coopératives d'intérêt collectif pour l'accession à la
+propriété, à une société d'économie mixte exerçant une activité immobilière
+outre-mer, à un organisme mentionné à l'article L. 365-1 du même code ou, dans
+les collectivités d'outre-mer, à tout organisme de logement social agréé
+conformément à la réglementation locale par l'autorité publique
+compétente.L'opération peut prendre la forme d'un crédit-bail immobilier ;
 
 2° Les logements sont donnés en sous-location nue ou meublée par l'organisme
 mentionné au 1° et pour une durée au moins égale à cinq ans à des personnes
@@ -75,7 +75,7 @@ La condition mentionnée au 5° n'est pas applicable aux logements dont la
 convention mentionnée au 7° prévoit la cession à des personnes physiques à
 l'issue de la période de location.
 
-II. - La réduction d'impôt est égale à 50 % d'un montant égal au prix de revient
+II.-La réduction d'impôt est égale à 50 % d'un montant égal au prix de revient
 des logements minoré, d'une part, des taxes et des commissions d'acquisition
 versées et, d'autre part, des subventions publiques reçues. Ce montant est
 retenu dans la limite de 2 194 € hors taxes par mètre carré de surface habitable
@@ -91,7 +91,7 @@ pour l'appréciation du prix de revient mentionné au premier alinéa.
 Le III de l'article 199 undecies B est applicable aux investissements ouvrant
 droit à la réduction d'impôt prévue au présent article.
 
-III. - La réduction d'impôt est accordée au titre de l'année d'achèvement du
+III.-La réduction d'impôt est accordée au titre de l'année d'achèvement du
 logement ou de son acquisition si elle est postérieure.
 
 Lorsque le montant de la réduction d'impôt excède l'impôt dû par le contribuable
@@ -99,27 +99,34 @@ ayant réalisé l'investissement, le solde peut être reporté, dans les mêmes
 conditions, sur l'impôt sur le revenu des années suivantes jusqu'à la cinquième
 inclusivement.
 
-IV. - La réduction d'impôt est également acquise au titre des investissements
+IV.-La réduction d'impôt est également acquise au titre des investissements
 réalisés par une société civile de placement immobilier régie par les articles
 L. 214-50 et suivants du code monétaire et financier ou par toute autre société
-mentionnée à l'article 8 du présent code dont les parts ou les actions sont
-détenues, directement ou par l'intermédiaire d'une entreprise unipersonnelle à
-responsabilité limitée, par des contribuables domiciliés en France au sens de
-l'article 4 B, dont la quote-part du revenu de la société est soumise en leur
-nom à l'impôt sur le revenu , sous réserve des parts détenues, conformément à
-l'article L. 472-1-9 du code de la construction et de l'habitation, par les
-sociétés d'habitations à loyer modéré. Dans ce cas, la réduction d'impôt est
-pratiquée par les associés ou membres dans une proportion correspondant à leurs
-droits dans la société au titre de l'année au cours de laquelle les parts ou
-actions sont souscrites.
+mentionnée à l'article 8 du présent code, à l'exclusion des sociétés en
+participation, dont les parts ou les actions sont détenues, directement ou par
+l'intermédiaire d'une entreprise unipersonnelle à responsabilité limitée, par
+des contribuables domiciliés en France au sens de l'article 4 B, dont la
+quote-part du revenu de la société est soumise en leur nom à l'impôt sur le
+revenu, sous réserve des parts détenues par les sociétés d'économie mixte de
+construction et de gestion de logements sociaux visées à l'article L. 481-1 du
+code de la construction et de l'habitation, conformément à l'article L. 472-1-9
+du code de la construction et de l'habitation, par les sociétés d'habitations à
+loyer modéré. Dans ce cas, la réduction d'impôt est pratiquée par les associés
+ou membres dans une proportion correspondant à leurs droits dans la société au
+titre de l'année au cours de laquelle les parts ou actions sont souscrites.
 
 La réduction d'impôt est acquise, dans les mêmes conditions, au titre des
 investissements réalisés par une société soumise de plein droit à l'impôt sur
 les sociétés dont les actions sont détenues intégralement et directement par des
 contribuables, personnes physiques, domiciliés en France au sens de l'article 4
-B. En ce cas, la réduction d'impôt est pratiquée par les associés dans une
-proportion correspondant à leurs droits dans la société.L'application de cette
-disposition est subordonnée au respect des conditions suivantes :
+B, sous réserve des parts détenues par les sociétés d'économie mixte de
+construction et de gestion de logements sociaux visées à l'article L. 481-1 du
+code de la construction et de l'habitation, sous réserve des parts détenues,
+conformément à l'article L. 472-1-9 du code de la construction et de
+l'habitation, par les sociétés d'habitations à loyer modéré. En ce cas, la
+réduction d'impôt est pratiquée par les associés dans une proportion
+correspondant à leurs droits dans la société.L'application de cette disposition
+est subordonnée au respect des conditions suivantes :
 
 1° Les investissements ont reçu un agrément préalable du ministre chargé du
 budget dans les conditions prévues au III de l'article 217 undecies ;
@@ -140,15 +147,13 @@ les associés lors de la cession des titres des sociétés. Le 2° du 3 de l'art
 La réduction d'impôt, qui n'est pas applicable aux parts ou actions dont le
 droit de propriété est démembré, est subordonnée à la condition que 95 % de la
 souscription serve exclusivement à financer un investissement pour lequel les
-conditions d'application du présent article sont réunies, sous réserve des parts
-détenues, conformément à l'article L. 472-1-9 du code de la construction et de
-l'habitation, par les sociétés d'habitations à loyer modéré. L'associé doit
+conditions d'application du présent article sont réunies.L'associé doit
 s'engager à conserver la totalité de ses parts ou actions jusqu'au terme de la
 location prévue au 1° du I. Le produit de la souscription doit être
 intégralement investi dans les dix-huit mois qui suivent la clôture de celle-ci.
 
-V. - La réduction d'impôt fait l'objet d'une reprise au titre de l'année au
-cours de laquelle :
+V.-La réduction d'impôt fait l'objet d'une reprise au titre de l'année au cours
+de laquelle :
 
 1° Les conditions mentionnées au I ou, le cas échéant, au IV ne sont pas
 respectées ;
@@ -164,7 +169,7 @@ imposition commune et que l'attributaire du bien ou le titulaire de son usufruit
 s'engage à respecter les engagements prévus, dans les mêmes conditions et selon
 les mêmes modalités, pour la période restant à courir à la date du décès.
 
-VI. - La réduction d'impôt prévue au présent article est également ouverte au
+VI.-La réduction d'impôt prévue au présent article est également ouverte au
 titre de l'acquisition de logements achevés depuis plus de vingt ans faisant
 l'objet de travaux de réhabilitation définis par décret permettant aux logements
 d'acquérir des performances techniques voisines de celles des logements neufs.
@@ -173,20 +178,20 @@ logements majoré du coût des travaux de réhabilitation et minoré, d'une part
 des taxes et des commissions d'acquisition versées et, d'autre part, des
 subventions publiques reçues. La limite mentionnée au II est applicable.
 
-VII. - Lorsque le montant par programme des investissements est supérieur à deux
+VII.-Lorsque le montant par programme des investissements est supérieur à deux
 millions d'euros, le bénéfice de la réduction d'impôt prévue au présent article
 est conditionné à l'obtention d'un agrément préalable délivré par le ministre
 chargé du budget dans les conditions prévues au III de l'article 217 undecies.
 
-VIII. - Un contribuable ne peut, pour un même logement ou une même souscription
-de parts ou d'actions, bénéficier à la fois de l'une des réductions d'impôt
-prévues aux articles 199 undecies A, 199 tervicies ou 199 septvicies et des
-dispositions du présent article.
+VIII.-Un contribuable ne peut, pour un même logement ou une même souscription de
+parts ou d'actions, bénéficier à la fois de l'une des réductions d'impôt prévues
+aux articles 199 undecies A,199 tervicies ou 199 septvicies et des dispositions
+du présent article.
 
 Les dépenses de travaux retenues pour le calcul de la réduction d'impôt prévue
 au présent article ne peuvent faire l'objet d'une déduction pour la
 détermination des revenus fonciers.
 
-IX. - Le présent article est applicable aux acquisitions ou constructions de
+IX.-Le présent article est applicable aux acquisitions ou constructions de
 logements réalisées entre la date de promulgation de la loi n° 2009-594 du 27
 mai 2009 pour le développement économique des outre-mer et le 31 décembre 2017.

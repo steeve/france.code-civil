@@ -24,7 +24,9 @@ servant une grande cause nationale ou d'intérêt général ;
 
 2° Pour les distributeurs de services de télévision, des abonnements et autres
 sommes acquittés par les usagers en rémunération d'un ou plusieurs services de
-télévision. Lorsqu'une offre donne également accès à d'autres catégories de
-services, la taxe est assise sur la seule part de cette offre correspondant aux
-services de télévision. Le produit des abonnements et autres sommes précités
-fait l'objet d'une déduction de 10 %.
+télévision, ainsi que des abonnements à des offres composites pour un prix
+forfaitaire incluant des services de télévision. Le produit de ces abonnements
+et autres sommes fait l'objet d'une déduction de 10 %. Lorsqu'une offre
+composite inclut également, pour un prix forfaitaire, un accès à des services de
+communication au public en ligne ou à des services de téléphonie, cette
+déduction est portée à 55 %.

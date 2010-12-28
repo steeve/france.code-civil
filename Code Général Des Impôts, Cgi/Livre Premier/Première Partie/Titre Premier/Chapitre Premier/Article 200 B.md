@@ -1,7 +1,7 @@
 Article 200 B
 ----
 Les plus-values réalisées dans les conditions prévues aux articles 150 U à 150
-UC sont imposées au taux forfaitaire de 16 %. Elles sont imposées au taux d'un
+UC sont imposées au taux forfaitaire de 19 %. Elles sont imposées au taux d'un
 tiers lorsqu'elles sont dues :
 
 a. par des associés de sociétés ou groupements dont le siège est situé en France

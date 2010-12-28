@@ -7,10 +7,10 @@ fixe, des compléments de ressources.
 Le montant total de ces compléments de ressources ne peut excéder un plafond.
 Celui-ci est calculé en appliquant au prélèvement prévu au 1° de l'article L.
 5334-7 et afférent à l'année précédente un pourcentage égal à 30 % de la
-variation du produit de la taxe professionnelle perçu par le syndicat
-d'agglomération nouvelle, augmenté des compensations versées en contrepartie de
-l'application des dispositions prévues aux articles 1472, 1472 A et 1472 A bis,
-au troisième alinéa du II de l'article 1478 du code général des impôts.
+variation du produit de la cotisation foncière des entreprises perçu par le
+syndicat d'agglomération nouvelle, augmenté des compensations versées en
+contrepartie de l'application des dispositions prévues au troisième alinéa du II
+de l'article 1478 du code général des impôts.
 
 Pour l'application du présent article en 1992, le montant du prélèvement
 mentionné ci-dessus est remplacé par la somme des dotations de référence versées
@@ -25,8 +25,8 @@ remboursables accordées par l'Etat afin d'équilibrer son budget de
 fonctionnement.
 
 Lorsqu'il est fait application des dispositions de l'article 1609 nonies BA du
-code général des impôts, le produit de la taxe professionnelle perçu par le
-syndicat d'agglomération nouvelle, augmenté des compensations, mentionné au
-deuxième alinéa, s'entend après répartition du produit de la taxe
-professionnelle et des compensations y afférentes perçus dans la zone
-d'activités économiques.
+code général des impôts, le produit de la cotisation foncière des entreprises
+perçu par le syndicat d'agglomération nouvelle, augmenté des compensations,
+mentionné au deuxième alinéa, s'entend après répartition du produit de la
+cotisation foncière des entreprises et des compensations y afférentes perçus
+dans la zone d'activités économiques.

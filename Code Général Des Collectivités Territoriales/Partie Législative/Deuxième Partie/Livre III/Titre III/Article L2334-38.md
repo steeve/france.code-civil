@@ -1,3 +1,6 @@
 Article L2334-38
 ----
-La dotation est inscrite à la section d'investissement du budget de la commune.
+Les investissements pour lesquels les communes et leurs groupements à fiscalité
+propre sont susceptibles de recevoir des subventions de l'Etat dont la liste est
+fixée par voie réglementaire ne peuvent être subventionnés au titre de la
+dotation d'équipement des territoires ruraux.

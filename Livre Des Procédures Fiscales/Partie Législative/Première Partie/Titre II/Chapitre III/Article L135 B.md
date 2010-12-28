@@ -27,6 +27,9 @@ supplémentaire et nécessaires à l'appréciation des montants figurant sur ce
 rôle, à l'exclusion des informations tenant à l'origine des rectifications
 opérées ;
 
+a bis) Le montant par impôt et par redevable des impôts directs non recouvrés
+par voie de rôle perçus à leur profit ;
+
 b) Le montant total, pour chaque impôt perçu à leur profit, des dégrèvements
 dont les contribuables de la collectivité ont bénéficié, à l'exception de ceux
 accordés en application de l'article L. 190.
@@ -57,7 +60,11 @@ implantés sur leur territoire qui appartiennent à une entreprise bénéficiair
 des dispositions du I de l'article 1647 B sexies du code général des impôts et
 dont les bases sont retenues pour la détermination du plafond de participation
 défini au 2 du C du III de l'article 85 de la loi n° 2005-1719 du 30 décembre
-2005 de finances pour 2006.
+2005 de finances pour 2006. Elle transmet également à l'établissement public de
+coopération intercommunale la liste des locaux à usage de logement soumis à la
+taxe sur les logements vacants au sens de l'article 232 du code général des
+impôts ou ceux relevant de la taxe d'habitation sur les logements vacants visés
+à l'article 1407 bis du même code.
 
 Les informations transmises aux collectivités locales et à leurs groupements
 dotés d'une fiscalité propre sont couvertes par le secret professionnel, et

@@ -34,4 +34,4 @@ suit le début de l'exercice de la profession d'avocat ;
 
 9° Les membres du corps de réserve sanitaire constitué dans les conditions
 prévues au titre III du livre Ier de la troisième partie du code de la santé
-publique pour leurs recettes perçues à ce titre.
+publique pour leurs activités exercées à ce titre.

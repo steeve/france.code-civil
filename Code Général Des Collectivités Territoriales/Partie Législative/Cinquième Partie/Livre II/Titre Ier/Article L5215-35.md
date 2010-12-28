@@ -34,4 +34,5 @@ par application d'un taux correspondant à l'écart entre le montant total à
 verser en 2009 au titre de l'ensemble des compensations mentionnées aux I à VIII
 de l'article 47 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010
 et le montant total de ces mêmes compensations prévu à cette fin pour 2010 par
-le IX de ce même article.
+le IX de ce même article. A compter de 2011, les compensations définies aux
+alinéas précédents sont calculées conformément à l'article L. 2335-3.

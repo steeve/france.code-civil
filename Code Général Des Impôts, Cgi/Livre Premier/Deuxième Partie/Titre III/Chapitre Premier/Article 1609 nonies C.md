@@ -1,104 +1,113 @@
 Article 1609 nonies C
 ----
-I . - 1° Les communautés d'agglomération définies aux articles L. 5216-1 et L.
-5216-2 du code général des collectivités territoriales ou issues de la
-transformation d'un syndicat d'agglomération nouvelle conformément aux
-dispositions de l'article L. 5341-2 du code général des collectivités
-territoriales, les communautés urbaines soumises de plein droit ou après option
-aux dispositions du présent article sont substituées aux communes membres pour
-l'application des dispositions relatives à la taxe professionnelle, à
-l'exception des I et II des articles 1648 A et 1648 AA, et perçoivent le produit
-de cette taxe.
+I.-Les établissements publics de coopération intercommunale mentionnés au I de
+l'article 1379-0 bis sont substitués aux communes membres pour l'application des
+dispositions relatives à la cotisation foncière des entreprises et la cotisation
+sur la valeur ajoutée des entreprises et pour la perception du produit de ces
+taxes.
 
-2° Les communautés de communes faisant application des dispositions fiscales
-prévues au III de l'article 1609 quinquies C sont substituées aux communes
-membres pour l'application des dispositions relatives à la taxe professionnelle,
-à l'exception des I et II des articles 1648 A et 1648 AA, et perçoivent le
-produit de cette taxe.
+I bis.-Ils sont également substitués aux communes membres pour la perception :
 
-II. 1° Les établissements publics de coopération intercommunale visés au I
-peuvent décider, par délibération du conseil de l'établissement public de
-coopération intercommunale statuant à la majorité simple de ses membres, de
-percevoir la taxe d'habitation et les taxes foncières. Cette délibération est
-applicable à compter du 1er janvier de l'année suivant celle au cours de
-laquelle elle est intervenue.
+1. Du produit des composantes de l'imposition forfaitaire sur les entreprises de
+réseaux relatives :
 
-L'année où intervient le renouvellement général des conseils municipaux, cette
-délibération doit être renouvelée par le nouveau conseil pour être applicable à
-compter du 1er janvier de l'année suivante. Dans ce cas, ils perçoivent le
-produit de la taxe professionnelle et celui de la taxe d'habitation et des taxes
-foncières.
+a) Aux installations de production d'électricité utilisant l'énergie mécanique
+du vent et aux installations de production d'électricité utilisant l'énergie
+mécanique hydraulique situées dans les eaux intérieures ou dans la mer
+territoriale, prévue à l'article 1519 D ;
 
-2° La première année de perception du produit de la taxe d'habitation et des
-taxes foncières en application des dispositions du 1°, ainsi que l'année qui
-suit celle au titre de laquelle l'établissement public de coopération
-intercommunale a voté un taux égal à zéro pour ces trois taxes, les rapports
-entre les taux de taxe d'habitation et des taxes foncières établis par
-l'établissement public de coopération intercommunale sont égaux aux rapports
-constatés l'année précédente entre les taux moyens pondérés de chaque taxe dans
-l'ensemble des communes membres.
+b) Aux installations de production d'électricité d'origine nucléaire ou
+thermique à flamme, prévue à l'article 1519 E ;
 
-Par dérogation aux dispositions du premier alinéa, dans les établissements
-publics de coopération intercommunale qui décident d'appliquer les dispositions
-du 1°, et lorsqu'ils percevaient une fiscalité additionnelle l'année précédant
-celle de l'application de ces dispositions, les rapports entre les taux de taxe
-d'habitation et des taxes foncières établis par l'établissement public de
-coopération intercommunale peuvent être égaux aux rapports entre les taux de
-taxe d'habitation et de taxes foncières votés par lui l'année précédente.
+c) Aux centrales de production d'énergie électrique d'origine photovoltaïque ou
+hydraulique, prévue à l'article 1519 F ;
+
+d) Aux transformateurs électriques, prévue à l'article 1519 G ;
+
+e) Aux stations radioélectriques, prévue à l'article 1519 H ;
+
+f) Aux installations de gaz naturel liquéfié, aux stockages souterrains de gaz
+naturel, aux canalisations de transport de gaz naturel, aux stations de
+compression du réseau de transport de gaz naturel et aux canalisations de
+transport d'autres hydrocarbures prévue à l'article 1519 HA ;
+
+2. Du produit de la taxe additionnelle à la taxe foncière sur les propriétés non
+bâties, prévue à l'article 1519 I.
+
+II.-Le conseil des établissements publics de coopération intercommunale
+mentionnés au I du présent article vote les taux de la taxe d'habitation, de la
+taxe foncière sur les propriétés bâties et de la taxe foncière sur les
+propriétés non bâties.
+
+La première année d'application du présent article, ainsi que l'année qui suit
+celle au titre de laquelle l'établissement public de coopération intercommunale
+a voté un taux égal à zéro pour ces trois taxes, les rapports entre les taux de
+taxe d'habitation et des taxes foncières votés par le conseil de l'établissement
+public de coopération intercommunale sont égaux aux rapports constatés l'année
+précédente entre les taux moyens pondérés de chaque taxe dans l'ensemble des
+communes membres.
+
+Par dérogation, lorsque l'établissement public de coopération intercommunale
+percevait une fiscalité additionnelle l'année précédant celle de l'application
+de ces dispositions, les rapports entre les taux de taxe d'habitation et des
+taxes foncières établis par l'établissement public de coopération intercommunale
+peuvent être égaux aux rapports entre les taux de taxe d'habitation et de taxes
+foncières votés par lui l'année précédente.
 
 Les années suivantes, le taux de la taxe foncière sur les propriétés non bâties
 ne peut augmenter plus ou diminuer moins que le taux de la taxe d'habitation
 jusqu'à la date de la prochaine révision.
 
-III. 1° a. La première année d'application des dispositions du I, le taux de
-taxe professionnelle voté par le conseil de l'établissement public de
-coopération intercommunale ne peut excéder le taux moyen de la taxe
-professionnelle des communes membres constaté l'année précédente, pondéré par
-l'importance relative des bases de ces communes.
+III.-1° a) Le taux de la cotisation foncière des entreprises est voté par le
+conseil mentionné au II du présent article dans les limites fixées à l'article
+1636 B decies.
 
-Lorsqu'il est fait application à un établissement public de coopération
-intercommunale doté d'une fiscalité propre additionnelle des dispositions du
-présent article, le taux moyen pondéré mentionné au premier alinéa est majoré du
-taux de la taxe professionnelle perçue l'année précédente par cet établissement
-public de coopération intercommunale.
+La première année d'application du présent article, le taux de cotisation
+foncière des entreprises voté par le conseil de l'établissement public de
+coopération intercommunale ne peut excéder le taux moyen de la cotisation
+foncière des entreprises des communes membres constaté l'année précédente,
+pondéré par l'importance relative des bases de ces communes.
 
-Le nouveau taux s'applique dans toutes les communes dès la première année,
-lorsque le taux de taxe professionnelle de la commune la moins imposée était,
-l'année précédente, égal ou supérieur à 90 % du taux de taxe professionnelle de
-la commune la plus imposée. Lorsque ce taux était supérieur à 80 % et inférieur
-à 90 %, l'écart entre le taux applicable dans chaque commune membre et le taux
-communautaire est réduit de moitié la première année et supprimé la seconde. La
-réduction s'opère par tiers lorsque le taux était supérieur à 70 % et inférieur
-à 80 %, par quart lorsqu'il était supérieur à 60 % et inférieur à 70 %, par
-cinquième lorsqu'il était supérieur à 50 % et inférieur à 60 %, par sixième
-lorsqu'il était supérieur à 40 % et inférieur à 50 %, par septième lorsqu'il
-était supérieur à 30 % et inférieur à 40 %, par huitième lorsqu'il était
-supérieur à 20 % et inférieur à 30 %, par neuvième lorsqu'il était supérieur à
-10 % et inférieur à 20 %, par dixième lorsqu'il était inférieur à 10 %.
+Par dérogation, lorsque l'établissement public de coopération intercommunale
+percevait une fiscalité additionnelle l'année précédant celle de l'application
+de ces dispositions, le taux moyen pondéré mentionné au premier alinéa est
+majoré du taux de la cotisation foncière des entreprises perçue l'année
+précédente par cet établissement public de coopération intercommunale.
 
-b. Le conseil de l'établissement public de coopération intercommunale peut, par
-une délibération adoptée à la majorité simple de ses membres, modifier la durée
-de la période de réduction des écarts de taux résultant des dispositions du a,
-sans que cette durée puisse excéder douze ans.
+Les deuxième et troisième alinéas du présent III s'appliquent également la
+première année de perception de la cotisation foncière des entreprises par un
+établissement public de coopération intercommunale faisant application des
+régimes déterminés à l'article 1609 quinquies C.
 
-Pour les établissements publics de coopération intercommunale soumis de plein
-droit ou sur option aux dispositions du présent article, la délibération doit
-intervenir dans les conditions prévues à l'article 1639 A, au cours des deux
-premières années où l'établissement public de coopération intercommunale se
-substitue aux communes pour la perception de la taxe professionnelle. Toutefois,
-pour les établissements publics de coopération intercommunale qui font déjà
-application du dispositif de réduction des écarts de taux, la délibération doit
-intervenir dans les conditions prévues à l'article 1639 A, l'année suivant celle
-de la publication de la loi n° 99-586 du 12 juillet 1999 relative au
-renforcement et à la simplification de la coopération intercommunale ; cette
-délibération ne peut avoir pour effet de supprimer l'écart dans un délai plus
-court que celui résultant des dispositions du a.
+b) Le taux de cotisation foncière des entreprises applicable dans chaque commune
+membre est rapproché du taux de l'établissement public de coopération
+intercommunale, jusqu'à application d'un taux unique, l'écart étant réduit
+chaque année par parts égales, dans des proportions dépendant du rapport
+observé, l'année précédant la première année d'application du I, entre le taux
+de la commune la moins taxée et celui de la commune la plus taxée.
 
-Cette délibération ne peut être modifiée ultérieurement, sauf pour les
-établissements publics de coopération intercommunale soumis aux dispositions du
-présent article qui ont fait l'objet d'un retrait d'une ou plusieurs communes en
-application des dispositions des articles L. 5211-41-1, L. 5215-40-1 et L.
-5216-10 du code général des collectivités territoriales.
+Lorsque ce rapport est supérieur à 90 % et inférieur à 100 %, le taux de
+l'établissement public de coopération intercommunale s'applique dès la première
+année. Lorsque ce rapport est supérieur à 80 % et inférieur à 90 %, l'écart est
+réduit de moitié la première année et supprimé la seconde. La réduction s'opère
+par tiers lorsque le rapport est supérieur à 70 % et inférieur à 80 %, par quart
+lorsqu'il est supérieur à 60 % et inférieur à 70 %, par cinquième lorsqu'il est
+supérieur à 50 % et inférieur à 60 %, par sixième lorsqu'il est supérieur à 40 %
+et inférieur à 50 %, par septième lorsqu'il est supérieur à 30 % et inférieur à
+40 %, par huitième lorsqu'il est supérieur à 20 % et inférieur à 30 %, par
+neuvième lorsqu'il est supérieur à 10 % et inférieur à 20 %, et par dixième
+lorsqu'il est inférieur à 10 %.
+
+c) Le conseil mentionné au II peut, par une délibération adoptée à la majorité
+simple de ses membres, modifier la durée de la période de réduction des écarts
+de taux résultant du b, sans que cette durée puisse excéder douze ans.
+
+La délibération doit intervenir dans les conditions prévues à l'article 1639 A,
+au cours des deux premières années d'application du I du présent article.
+
+Cette délibération ne peut être modifiée ultérieurement, sauf en cas de retrait
+d'une ou plusieurs communes en application des articles L. 5211-41-1, L.
+5215-40-1 et L. 5216-10 du code général des collectivités territoriales.
 
 Pour l'application de cette disposition, la réduction des écarts de taux
 s'opère, chaque année, par parts égales ; dans le cas où le dispositif de
@@ -106,40 +115,30 @@ réduction des écarts de taux est déjà en cours, l'écart est réduit chaque 
 par parts égales en proportion du nombre d'années restant à courir conformément
 à la durée fixée par la délibération.
 
-c. Lorsqu'un établissement public de coopération intercommunale faisant
-application de la première phrase du premier alinéa du II de l'article 1609
-quinquies C opte pour le régime prévu au présent article ou devient soumis à ce
-régime, le taux constaté dans une commune l'année précédente est le taux
-appliqué en dehors des zones d'activités économiques existant sur son territoire
-antérieurement au changement de régime ; le taux constaté l'année précédente
-dans chaque zone ou fraction de zone si celle-ci est implantée sur le territoire
-de plusieurs communes est alors assimilé à celui d'une commune membre
-supplémentaire pour l'application des dispositions du présent III. Ce dispositif
-est applicable dans les mêmes conditions lorsque l'établissement public de
-coopération intercommunale fait application de la deuxième phrase du premier
-alinéa du II de l'article 1609 quinquies C.
+d) Lorsqu'un établissement public de coopération intercommunale faisant
+application du I de l'article 1609 quinquies C opte pour le régime prévu au
+présent article ou devient soumis à ce régime, le taux constaté dans une commune
+l'année précédente est le taux appliqué en dehors des zones d'activités
+économiques existant sur son territoire antérieurement au changement de régime ;
+le taux constaté l'année précédente dans chaque zone ou fraction de zone si
+celle-ci est implantée sur le territoire de plusieurs communes est alors
+assimilé à celui d'une commune membre supplémentaire pour l'application du
+présent III. Ce dispositif est applicable dans les mêmes conditions lorsque
+l'établissement public de coopération intercommunale fait application du II de
+l'article 1609 quinquies C.
 
-2° Au titre des années suivant la première année d'application des dispositions
-du 1°, le taux de taxe professionnelle est fixé par le conseil de
-l'établissement public de coopération intercommunale dans les conditions prévues
-au II de l'article 1636 B decies lorsqu'il est fait application du I du présent
-article.
-
-3° En cas de rattachement d'une commune à un établissement public de coopération
-intercommunale faisant application du présent article, les dispositions des I,
-II, II bis et V de l'article 1638 quater sont applicables.
-
-Pour le rattachement de toute nouvelle commune à une communauté d'agglomération
-issue de la transformation d'un syndicat d'agglomération nouvelle, les
-dispositions de l'article 1638 quater sont applicables.
+2° En cas de rattachement d'une commune à un établissement public de coopération
+intercommunale faisant application du présent article, les I, II, II bis et VI
+de l'article 1638 quater sont applicables.
 
 IV. Il est créé entre l'établissement public de coopération intercommunale
-soumis aux dispositions fiscales du I du présent article et les communes membres
-une commission locale chargée d'évaluer les transferts de charges. Cette
-commission est créée par l'organe délibérant de l'établissement public qui en
-détermine la composition à la majorité des deux tiers. Elle est composée de
-membres des conseils municipaux des communes concernées ; chaque conseil
-municipal dispose d'au moins un représentant.
+soumis aux dispositions fiscales du présent article, à l'exclusion de ceux
+mentionnés au 5° du I de l'article 1379-0 bis, et les communes membres une
+commission locale chargée d'évaluer les transferts de charges. Cette commission
+est créée par l'organe délibérant de l'établissement public qui en détermine la
+composition à la majorité des deux tiers. Elle est composée de membres des
+conseils municipaux des communes concernées ; chaque conseil municipal dispose
+d'au moins un représentant.
 
 La commission élit son président et un vice-président parmi ses membres. Le
 président convoque la commission et détermine son ordre du jour ; il en préside
@@ -147,9 +146,9 @@ les séances. En cas d'absence ou d'empêchement, il est remplacé par le
 vice-président.
 
 La commission peut faire appel, pour l'exercice de sa mission, à des experts.
-Elle rend ses conclusions l'année de l'adoption de la taxe professionnelle
-unique par l'établissement public de coopération intercommunale et lors de
-chaque transfert de charges ultérieur.
+Elle rend ses conclusions l'année de l'adoption de la cotisation foncière des
+entreprises unique par l'établissement public de coopération intercommunale et
+lors de chaque transfert de charges ultérieur.
 
 Les dépenses de fonctionnement, non liées à un équipement, sont évaluées d'après
 leur coût réel dans les budgets communaux lors de l'exercice précédant le
@@ -161,7 +160,7 @@ Le coût des dépenses liées à des équipements concernant les compétences
 transférées est calculé sur la base d'un coût moyen annualisé. Ce coût intègre
 le coût de réalisation ou d'acquisition de l'équipement ou, en tant que de
 besoin, son coût de renouvellement. Il intègre également les charges financières
-et les dépenses d'entretien. L'ensemble de ces dépenses est pris en compte pour
+et les dépenses d'entretien.L'ensemble de ces dépenses est pris en compte pour
 une durée normale d'utilisation et ramené à une seule année.
 
 Le coût des dépenses transférées est réduit, le cas échéant, des ressources
@@ -180,15 +179,15 @@ qui étaient déjà transférées à l'établissement public de coopération
 intercommunale et celui de la fiscalité ou des contributions des communes qui
 étaient perçues pour les financer.
 
-V. - 1° L'établissement public de coopération intercommunale verse à chaque
+V.-1° L'établissement public de coopération intercommunale verse à chaque
 commune membre une attribution de compensation. Elle ne peut être indexée.
 
 Lorsque l'attribution de compensation est négative, l'établissement public de
 coopération intercommunale peut demander à la commune d'effectuer, à due
 concurrence, un versement à son profit.
 
-Les attributions de compensation fixées conformément aux 2°, 3°, 4°, 5° ou, le
-cas échéant, au 1° bis constituent une dépense obligatoire pour l'établissement
+Les attributions de compensation fixées conformément aux 2°,4°,5° ou, le cas
+échéant, au 1° bis constituent une dépense obligatoire pour l'établissement
 public de coopération intercommunale ou, le cas échéant, les communes membres.
 Le conseil de l'établissement public de coopération intercommunale communique
 aux communes membres, avant le 15 février de chaque année, le montant
@@ -198,10 +197,10 @@ Le conseil de l'établissement public de coopération intercommunale ne peut
 procéder à une réduction des attributions de compensation qu'après accord des
 conseils municipaux des communes intéressées.
 
-Toutefois, dans le cas où une diminution des bases imposables de taxe
-professionnelle réduit le produit disponible, le conseil de l'établissement
-public de coopération intercommunale peut décider de réduire les attributions de
-compensation dans la même proportion.
+Toutefois, dans le cas où une diminution des bases imposables réduit le produit
+global disponible des impositions mentionnées au premier alinéa du 2°, l'organe
+délibérant de l'établissement public de coopération intercommunale peut décider
+de réduire les attributions de compensation ;
 
 1° bis Le montant de l'attribution de compensation et les conditions de sa
 révision peuvent être fixés librement par le conseil communautaire statuant à
@@ -209,114 +208,77 @@ l'unanimité, en tenant compte du rapport de la commission locale d'évaluation
 des transferts de charges.
 
 A défaut d'accord unanime, le montant de l'attribution est fixé dans les
-conditions figurant aux 2°, 3°, 4° et 5° ;
+conditions figurant aux 2°,4° et 5° ;
 
-2° L'attribution de compensation est égale au produit de taxe professionnelle
-perçu par elle l'année précédant celle de l'institution du taux de taxe
-professionnelle communautaire diminué du coût net des charges transférées
-calculé dans les conditions définies au IV ; ce produit de taxe professionnelle
-est majoré du montant perçu la même année au titre de la part de la dotation
-forfaitaire prévue à l'article L. 2334-7 du code général des collectivités
-territoriales correspondant au montant antérieurement versé en application du I
-du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre
-1998), de la compensation prévue au B de l'article 26 de la loi de finances pour
-2003 (n° 2002-1575 du 30 décembre 2002) ainsi que, sous réserve d'une
-délibération du conseil de l'établissement public de coopération intercommunale
-statuant à l'unanimité, de la compensation prévue à l'article 53 de la loi de
-finances pour 2004 (n° 2003-1311 du 30 décembre 2003) et, le cas échéant, des
-compensations prévues au B de l'article 4 de la loi n° 96-987 du 14 novembre
-1996 relative à la mise en oeuvre du pacte de relance pour la ville ou au B de
-l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la zone franche
-de Corse, versées antérieurement aux communes, mais hors compensation prévue au
-IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre
-1986). L'attribution de compensation est majorée d'une fraction de la
-contribution d'une commune définie à l'article L302-8 du code de la construction
-et de l'habitation, à condition que l'établissement public de coopération
-intercommunale ait, dans les conditions prévues à l'article L. 302-7 du même
-code, perçu le prélèvement visé à cet article et que cette fraction soit
+2° L'attribution de compensation est égale à la somme des produits mentionnés
+aux I et I bis et du produit de la taxe sur les surfaces commerciales prévue à
+l'article 3 de la loi n° 72-657 du 13 juillet 1972 instituant des mesures en
+faveur de certaines catégories de commerçants et artisans âgés, perçus par la
+commune l'année précédant celle de la première application du présent article,
+diminuée du coût net des charges transférées calculé dans les conditions
+définies au IV.
+
+L'attribution de compensation est majorée du montant perçu par la commune la
+même année, d'une part, au titre de la part de la dotation forfaitaire prévue à
+l'article L. 2334-7 du code général des collectivités territoriales
+correspondant au montant antérieurement versé en application du I du D de
+l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998)
+et, d'autre part, au titre du montant des compensations, hors celui de la
+compensation prévue au IV bis de l'article 6 de la loi de finances pour 1987 (n°
+86-1317 du 30 décembre 1986), allouées :
+
+-en application du B de l'article 26 de la loi de finances pour 2003 (n°
+2002-1575 du 30 décembre 2002) ;
+
+-en application de l'article 53 de la loi de finances pour 2004 (n° 2003-1311 du
+30 décembre 2003), sous réserve d'une délibération du conseil de l'établissement
+public de coopération intercommunale statuant à l'unanimité ;
+
+-et, le cas échéant, en application du B de l'article 4 de la loi n° 96-987 du
+14 novembre 1996 relative à la mise en œuvre du pacte de relance pour la ville
+ou du B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la
+zone franche de Corse.
+
+L'attribution de compensation est minorée, le cas échéant, du montant des
+reversements, autorisés par l'article 11 de la loi n° 80-10 du 10 janvier 1980
+portant aménagement de la fiscalité directe locale, perçus au profit de
+l'établissement public de coopération intercommunale l'année précédant celle de
+la première application de ces dispositions.
+
+L'attribution de compensation est également majorée d'une fraction de la
+contribution d'une commune définie à l'article L. 302-8 du code de la
+construction et de l'habitation, à condition que l'établissement public de
+coopération intercommunale ait, dans les conditions prévues à l'article L. 302-7
+du même code, perçu le prélèvement visé à cet article et que cette fraction soit
 affectée à la réalisation d'opérations de logements locatifs sociaux. Cette
-fraction est égale à la part du potentiel fiscal de la taxe professionnelle dans
-le potentiel fiscal de la commune. Cette attribution est recalculée, dans les
-conditions prévues au IV, lors de chaque nouveau transfert de charges.
+fraction est égale à la part du potentiel fiscal de la cotisation foncière des
+entreprises dans le potentiel fiscal de la commune.
+
+L'attribution de compensation est majorée, le cas échéant, du produit de la
+réduction de taux de taxe d'habitation prévue au VII de l'article 1638 quater
+par les bases de taxe d'habitation de la commune l'année précédant celle de son
+rattachement à l'établissement public de coopération intercommunale.
 
 Toutefois, lorsqu'une commune cesse d'appartenir à un établissement public de
 coopération intercommunale faisant application du régime fiscal du présent
 article pour adhérer à un autre établissement public de coopération
-intercommunale faisant application du même régime fiscal, le produit de taxe
-professionnelle est majoré du montant perçu, l'année de cette modification, par
-l'établissement public de coopération intercommunale auquel elle a cessé
-d'appartenir, au titre de la part de la dotation de compensation prévue à
-l'article L. 5211-28-1 du code général des collectivités territoriales
-correspondant au montant antérieurement versé en application du I du D de
-l'article 44 de la loi de finances pour 1999 précitée. L'organe délibérant de
-l'établissement public de coopération intercommunale transmet chaque année au
-représentant de l'Etat dans le département un rapport sur l'application de la
-deuxième phrase du premier alinéa.
+intercommunale faisant application du même régime fiscal, le produit de
+cotisation foncière des entreprises est majoré du montant perçu, l'année de
+cette modification, par l'établissement public de coopération intercommunale
+auquel elle a cessé d'appartenir, au titre de la part de la dotation de
+compensation prévue à l'article L. 5211-28-1 du code général des collectivités
+territoriales correspondant au montant antérieurement versé en application du I
+du D de l'article 44 de la loi de finances pour 1999 précitée.L'organe
+délibérant de l'établissement public de coopération intercommunale transmet
+chaque année au représentant de l'Etat dans le département un rapport sur
+l'application de la deuxième phrase du premier alinéa.
 
-Lorsque des communes ont décidé soit directement, soit dans le cadre d'un
-syndicat intercommunal ou mixte, de répartir entre elles les recettes de taxe
-professionnelle générées par les entreprises implantées sur une zone d'activités
-intercommunale en application de la loi n° 80-10 du 10 janvier 1980 portant
-aménagement de la fiscalité directe locale, la communauté bénéficiaire de la
-taxe professionnelle d'agglomération se trouve substituée de plein droit à ses
-communes membres dans ces accords de partage de ressources fiscales.
-L'attribution de compensation versée par la communauté est donc majorée ou
-diminuée, selon le cas, de ces recettes de taxe professionnelle.
+L'attribution de compensation est recalculée, dans les conditions prévues au IV,
+lors de chaque transfert de charge.
 
 2° bis Abrogé
 
-3° Lorsqu'il est fait application à un établissement public de coopération
-intercommunale doté d'une fiscalité propre des dispositions du présent article,
-l'attribution de compensation versée chaque année aux communes membres est égale
-à la différence constatée l'année précédant celle de la première application de
-ces dispositions, entre :
-
-a. D'une part, le produit de la taxe professionnelle perçu par la commune, y
-compris les compensations visées au 2°, dans les conditions prévues par ce
-paragraphe ;
-
-b. Et, d'autre part, le produit de la taxe d'habitation, de la taxe foncière sur
-les propriétés bâties et de la taxe foncière sur les propriétés non bâties perçu
-dans la commune au profit de l'établissement public de coopération
-intercommunale.
-
-L'attribution de compensation ainsi déterminée est diminuée :
-
-a. Du montant des compensations perçues par l'établissement public de
-coopération intercommunale sur le territoire de la commune l'année précédant
-celle de la première application des dispositions du présent article, en
-contrepartie des exonérations prévues aux articles 1383 B, 1390, 1391 et au I de
-l'article 1414 ;
-
-b. Du montant net des charges transférées, lorsque la décision de
-l'établissement public de coopération intercommunale de faire application des
-dispositions du présent article s'accompagne d'un transfert de compétences ; ce
-montant est calculé dans les conditions définies au IV.
-
-c. Du montant des reversements autorisés par l'article 11 de la loi n° 80-10 du
-10 janvier 1980 portant aménagement de la fiscalité directe locale, de tout ou
-partie de la part communale de taxe professionnelle au profit de l'établissement
-public de coopération intercommunale l'année précédant celle de la première
-application de ces dispositions. Cette disposition est également applicable à
-compter du 1er janvier 2005 aux établissements publics de coopération
-intercommunale soumis au présent article depuis la loi n° 99-586 du 12 juillet
-1999 précitée.
-
-Lorsque des communes ont décidé soit directement, soit dans le cadre d'un
-syndicat intercommunal, de répartir entre elles les recettes de taxe
-professionnelle générées par les entreprises implantées sur une zone d'activités
-intercommunale, en application de la loi n° 80-10 du 10 janvier 1980 précitée,
-la communauté bénéficiaire de la taxe professionnelle d'agglomération se trouve
-substituée de plein droit à ces accords de partage de ressources fiscales.
-L'attribution de compensation versée par la communauté est donc majorée ou
-diminuée selon le cas de ces recettes de taxe professionnelle.
-
-Lorsque l'attribution de compensation est négative, la commune est tenue
-d'effectuer un versement à due concurrence à l'établissement public de
-coopération intercommunale.
-
-Cette attribution est recalculée dans les conditions prévues au IV lors de
-chaque nouveau transfert de charges. Elle ne peut être indexée.
+3° Abrogé.
 
 4° Lorsqu'il est fait application des dispositions du présent article à une
 communauté d'agglomération issue de la transformation d'un syndicat
@@ -344,7 +306,7 @@ formules d'amortissement des investissements et les procédures comptables.
 Lorsque la fusion s'accompagne d'un transfert ou d'une restitution de
 compétences, cette attribution de compensation est respectivement diminuée ou
 majorée du montant net des charges transférées calculé dans les conditions
-définies au IV. A titre dérogatoire, les établissements publics de coopération
+définies au IV.A titre dérogatoire, les établissements publics de coopération
 intercommunale issus d'une fusion ou d'une modification de périmètre au 1er
 janvier 2010 et les conseils municipaux de leurs communes membres peuvent, par
 délibérations concordantes prises à la majorité qualifiée prévue au premier
@@ -356,7 +318,7 @@ de l'attribution de compensation.
 L'attribution de compensation versée chaque année aux communes membres qui
 étaient antérieurement membres d'un établissement public de coopération
 intercommunale ne faisant pas application des dispositions du présent article
-est calculée conformément au 3°. Lorsque la fusion s'accompagne d'un transfert
+est calculée conformément au 2°. Lorsque la fusion s'accompagne d'un transfert
 ou d'une restitution de compétences, cette attribution de compensation est
 respectivement diminuée ou majorée du montant net des charges tranférées calculé
 dans les conditions définies au IV.
@@ -382,59 +344,54 @@ est calculée dans les conditions prévues au 2°.
 Cette attribution est recalculée dans les conditions prévues au IV lors de
 chaque nouveau transfert de charges. Elle ne peut être indexée.
 
-6° Dans les trois ans qui suivent l'année du renouvellement général des conseils
-municipaux, le montant de l'attribution de compensation et les conditions de sa
-révision peuvent être fixés librement par le conseil communautaire statuant à
-l'unanimité, en tenant compte du rapport de la commission locale d'évaluation
-des transferts de charges. A titre exceptionnel, cette faculté est suspendue à
-compter du 1er janvier 2011 jusqu'au prochain renouvellement général des
-conseils municipaux.
+6° Abrogé.
 
 7° A titre dérogatoire, les établissements publics de coopération intercommunale
-soumis à cette date aux dispositions du présent article dans sa rédaction en
-vigueur au 31 décembre 2009 et les conseils municipaux de leurs communes membres
-peuvent, par délibérations concordantes prises à la majorité qualifiée prévue au
-premier alinéa du II de l'article L. 5211-5 du code général des collectivités
-territoriales, procéder, dans les cinq ans qui suivent la publication de la loi
-n° 2009-1673 du 30 décembre 2009 de finances pour 2010, à la révision du montant
-de l'attribution de compensation et de la dotation de solidarité communautaire.
+soumis au 1er janvier 2010 au présent article dans sa rédaction en vigueur à
+cette date et les conseils municipaux de leurs communes membres peuvent
+procéder, par délibérations concordantes prises à la majorité qualifiée prévue
+au premier alinéa du II de l'article L. 5211-5 du code général des collectivités
+territoriales, à la révision dans les mêmes proportions du montant de
+l'attribution de compensation de l'ensemble des communes membres.
 
-VI. L'établissement public de coopération intercommunale, autre qu'une
-communauté urbaine, soumis aux dispositions du I peut instituer au bénéfice de
-ses communes membres et, le cas échéant, d'établissements publics de coopération
-intercommunale à fiscalité propre limitrophes une dotation de solidarité
-communautaire, dont le principe et les critères de répartition sont fixés par le
-conseil communautaire statuant à la majorité des deux tiers. Le montant de cette
-dotation est fixé librement par le conseil de l'établissement public de
-coopération intercommunale. Elle est répartie en tenant compte prioritairement
-de l'importance de la population et du potentiel fiscal ou financier par
-habitant, les autres critères étant fixés librement par le conseil. Toutefois,
-en cas d'application par l'établissement public de coopération intercommunale
-des dispositions du II, cette dotation ne peut être augmentée, sauf pour assurer
-le respect d'accords conventionnels de partage de fiscalité avec d'autres
-établissements publics de coopération intercommunale. Lorsqu'une zone
-d'activités économiques d'intérêt départemental est située en tout ou partie sur
-le territoire de l'établissement public de coopération intercommunale, celui-ci
-peut étendre le versement de la dotation de solidarité communautaire aux
-établissements publics de coopération intercommunale à fiscalité propre
-constituant un ensemble sans discontinuité territoriale et limitrophe de son
-territoire.
+Cette révision dérogatoire, dans les conditions définies à l'alinéa précédent,
+peut réduire les attributions de compensation d'une partie des communes membres
+lorsque les communes concernées disposent d'un potentiel financier par habitant
+supérieur de plus de 20 % au potentiel financier par habitant moyen des communes
+du groupement. Cette réduction de leurs attributions de compensation ne peut
+excéder 5 % de leur montant.
 
-L'établissement public de coopération intercommunale autre qu'une communauté
-urbaine créé sans être issu d'une transformation et soumis dès la première année
-aux dispositions des I et II du présent article ne peut instituer de dotation de
-solidarité sauf pour assurer le respect d'accords conventionnels de partage de
-fiscalité avec d'autres établissements publics de coopération intercommunale.
+V bis.-1. Pour les établissements publics de coopération intercommunale qui
+faisaient application au 31 décembre 2010 du présent article dans sa rédaction
+en vigueur à cette date, l'attribution de compensation versée chaque année aux
+communes qui en étaient membres à cette même date est égale à celle qui leur
+était versée en 2010, sans préjudice des dispositions prévues au V relatives à
+l'évolution de leur montant.
 
-L'établissement public de coopération intercommunale à fiscalité additionnelle
-qui se transforme en établissement public de coopération intercommunale soumis
-de plein droit ou après option aux dispositions du I du présent article, à
-l'exclusion des communautés urbaines, et fait application dès la première année
-des dispositions du II du présent article, ne peut instituer une dotation de
-solidarité supérieure au montant de celle qu'il avait établie avant sa
-transformation. Ce montant peut toutefois être augmenté afin d'assurer le
-respect d'accords conventionnels de partage de fiscalité avec d'autres
-établissements publics de coopération intercommunale.
+2. Pour les établissements publics de coopération intercommunale, à l'exception
+de ceux mentionnés au 5° du I de l'article 1379-0 bis, qui font application pour
+la première fois en 2011 du présent article, le montant de la compensation
+relais perçue en 2010 par la commune, conformément au II de l'article 1640 B,
+est substitué aux produits mentionnés au premier alinéa du 2° du V pour le
+calcul de l'attribution de compensation.
+
+VI.L'établissement public de coopération intercommunale, autre qu'une communauté
+urbaine ou qu'un établissement public de coopération intercommunale mentionné au
+5° du I de l'article 1379-0 bis, soumis aux dispositions du I peut instituer au
+bénéfice de ses communes membres et, le cas échéant, d'établissements publics de
+coopération intercommunale à fiscalité propre limitrophes une dotation de
+solidarité communautaire, dont le principe et les critères de répartition sont
+fixés par le conseil communautaire statuant à la majorité des deux tiers. Le
+montant de cette dotation est fixé librement par le conseil de l'établissement
+public de coopération intercommunale. Elle est répartie en tenant compte
+prioritairement de l'importance de la population et du potentiel fiscal ou
+financier par habitant, les autres critères étant fixés librement par le
+conseil. Lorsqu'une zone d'activités économiques d'intérêt départemental est
+située en tout ou partie sur le territoire de l'établissement public de
+coopération intercommunale, celui-ci peut étendre le versement de la dotation de
+solidarité communautaire aux établissements publics de coopération
+intercommunale à fiscalité propre constituant un ensemble sans discontinuité
+territoriale et limitrophe de son territoire.
 
 Lorsqu'il s'agit d'une communauté urbaine, elle institue une dotation de
 solidarité communautaire dont le montant et les critères de répartition sont
@@ -452,39 +409,15 @@ territoire de l'établissement public de coopération intercommunale.
 Des critères complémentaires peuvent être choisis par le conseil.
 
 VII. Pour les communes membres d'un établissement public de coopération
-intercommunale soumis aux dispositions du présent article, le taux à prendre en
-compte pour le calcul de la compensation visée au II de l'article 21 de la loi
-de finances pour 1992 (n° 91-1322 du 30 décembre 1991) est majoré, le cas
-échéant, du taux voté en 1991 par l'établissement public de coopération
-intercommunale précité ; les dispositions du II de l'article 21 de la loi de
-finances pour 1992 précitée ne sont pas applicables aux établissements publics
-de coopération intercommunale soumis aux dispositions du II du présent article.
+intercommunale soumis aux dispositions du présent article, à l'exclusion de ceux
+mentionnés au 5° du I de l'article 1379-0 bis, le taux à prendre en compte pour
+le calcul de la compensation visée au II de l'article 21 de la loi de finances
+pour 1992 (n° 91-1322 du 30 décembre 1991) est majoré, le cas échéant, du taux
+voté en 1991 par l'établissement public de coopération intercommunale précité.
 
 VIII. 1° Les sommes versées aux communes en application du IV de l'article 6 de
 la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986) leur restent
 acquises lorsqu'elles deviennent membres d'un établissement public de
 coopération intercommunale soumis aux dispositions du présent article.
 
-2° Les établissements publics de coopération intercommunale soumis aux
-dispositions du présent article bénéficient de la compensation prévue au IV bis
-de l'article 6 de la loi de finances pour 1987 précitée au lieu et place de
-leurs communes membres.
-
-Pour le calcul de cette compensation :
-
-a. Le taux de taxe professionnelle à retenir est le taux moyen pondéré de taxe
-professionnelle constaté en 1986 dans l'ensemble des communes membres de
-l'établissement public de coopération intercommunale ; ce taux est, le cas
-échéant, majoré du taux de taxe professionnelle voté en 1986 par l'établissement
-public de coopération intercommunale qui a opté pour le régime fiscal prévu au
-présent article ou dont la communauté de communes est issue ; ces taux sont
-multipliés par 0,960 ;
-
-b. Les recettes fiscales à retenir, la première année d'application des
-dispositions du présent article, pour le calcul de la réfaction de 2 % prévue au
-IV bis de l'article 6 de la loi de finances pour 1987 précitée, s'entendent du
-produit des rôles généraux de taxe professionnelle émis, l'année précédente, au
-profit des communes membres de l'établissement public de coopération
-intercommunale et, le cas échéant, au profit de l'établissement public de
-coopération intercommunale qui a opté pour le régime fiscal prévu au présent
-article ou dont la communauté de communes est issue.
+2° (Abrogé)

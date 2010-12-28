@@ -1,52 +1,50 @@
 Article L2334-35
 ----
-Dans chaque département, il est institué auprès du représentant de l'Etat une
-commission composée :
+Après constitution de la quote-part au profit des circonscriptions territoriales
+de Wallis-et-Futuna, des communes ainsi que des groupements de communes des
+collectivités d'outre-mer, de Nouvelle-Calédonie et de la collectivité
+territoriale de Mayotte mentionnée à l'article L. 2334-34, les crédits de la
+dotation d'équipement des territoires ruraux sont répartis entre les
+départements :
 
-1° Des représentants des maires des communes dont la population n'excède pas 20
-000 habitants ;
+1° Pour 70 % du montant total de la dotation :
 
-2° Des représentants des présidents des établissements publics de coopération
-intercommunale dont la population n'excède pas 20 000 habitants.
+a) A raison de 50 % en fonction de la population regroupée des établissements
+publics de coopération intercommunale à fiscalité propre éligibles ;
 
-Pour chacune de ces catégories, les membres de la commission sont désignés par
-l'association des maires du département.
+b) A raison de 50 % en fonction du rapport, pour chaque établissement public de
+coopération intercommunale à fiscalité propre éligible, entre le potentiel
+fiscal moyen par habitant des établissements publics de coopération
+intercommunale à fiscalité propre de sa catégorie et son potentiel fiscal moyen
+par habitant ;
 
-Si, dans le département, il n'existe pas d'association de maires ou s'il en
-existe plusieurs, les membres de la commission sont élus à la représentation
-proportionnelle au plus fort reste par deux collèges regroupant respectivement
-les maires ou les présidents d'établissements publics de coopération
-intercommunale appartenant à chacune des deux catégories mentionnées aux 1° et
-2° ci-dessus.
+2° Pour 30 % du montant total de la dotation :
 
-Les représentants des maires élus ou désignés en application du 1° ci-dessus
-doivent détenir la majorité des sièges au sein de la commission.
+a) A raison de 50 % répartis entre les départements, en proportion du rapport
+entre la densité moyenne de population de l'ensemble des départements et la
+densité de population du département, le rapport pris en compte étant plafonné à
+10 ;
 
-A chacune de ses réunions, la commission désigne un bureau de séance. Le
-secrétariat de la commission est assuré par les services du représentant de
-l'Etat dans le département. Le secrétaire général de la préfecture assiste aux
-travaux de la commission.
+b) A raison de 50 % en fonction du rapport, pour chaque commune éligible, entre
+le potentiel financier moyen par habitant de l'ensemble des communes appartenant
+au même groupe démographique et son potentiel financier moyen par habitant.
 
-Le mandat des membres de la commission expire à chaque renouvellement général
-des conseils municipaux.
+La population à prendre en compte pour l'application du présent article est
+celle définie à l'article L. 2334-2.
 
-La commission fixe chaque année les catégories d'opérations prioritaires et,
-dans des limites fixées par décret en Conseil d'Etat, les taux minima et maxima
-de subvention applicables à chacune d'elles. Elle est également consultée par le
-représentant de l'Etat sur les montants respectifs de la fraction de la dotation
-globale d'équipement répartie entre les communes et établissements publics de
-coopération intercommunale éligibles dont la population n'excède pas 2 000
-habitants et de la fraction répartie entre les communes et établissements
-publics de coopération intercommunale éligibles dont la population est
-supérieure à 2 000 habitants.
+Les données servant à la détermination des collectivités éligibles à la dotation
+d'équipement des territoires ruraux ainsi qu'à la répartition des crédits de
+cette dotation sont relatives à la dernière année précédant l'année de
+répartition.
 
-Le représentant de l'Etat dans le département arrête chaque année, suivant les
-catégories et dans les limites fixées par la commission, la liste des opérations
-à subventionner ainsi que le montant de l'aide de l'Etat qui leur est attribuée.
-Il en informe la commission ainsi que la conférence départementale
-d'harmonisation des investissements instituée par l'article L. 3142-1.
-
-La commission n'est pas instituée dans la collectivité territoriale de
-Saint-Pierre-et-Miquelon.
-
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+Le montant de l'enveloppe calculée selon les critères définis aux 1° et 2° doit
+être au moins égal à 90 % et au plus égal à 110 % du montant de l'enveloppe
+versée au département l'année précédente. Dans le cas contraire, ce montant est
+soit majoré à hauteur de 90 %, soit diminué à hauteur de 110 % du montant de
+l'enveloppe versée l'année précédente. Ces modalités de calcul sont opérées sur
+la masse globale répartie au titre de la dotation d'équipement des territoires
+ruraux, après constitution de la quote-part mentionnée à l'article L. 2334-34.
+En 2011, elles sont basées sur la somme des crédits répartis entre les
+départements en 2010, en application des articles L. 2334-34 et L. 2334-40 dans
+leur rédaction antérieure à l'entrée en vigueur de la loi n° 2010-1657 du 29
+décembre 2010 de finances pour 2011.

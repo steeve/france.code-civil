@@ -12,3 +12,11 @@ aux deux tiers de la pension définie ci-dessus.
 Toutefois, la pension au taux de réversion des conjoints survivants d'invalides,
 bénéficiaires de l'article L. 18, est portée au taux prévu au premier alinéa du
 présent article.
+
+La pension de conjoint survivant mentionnée aux alinéas précédents est majorée
+de l'indice de pension 360 lorsque le bénéficiaire du droit à pension était, à
+son décès, titulaire d'une pension dont l'indice était égal ou supérieur à 12
+000 points.
+
+La pension calculée dans les conditions prévues à l'article L. 51 est majorée de
+360 points.

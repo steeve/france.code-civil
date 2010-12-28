@@ -16,7 +16,8 @@ Les organismes qui adhèrent à une association en application du premier aliné
 du présent article notifient ce choix à l'organisme chargé du recouvrement des
 cotisations du régime général compétent.
 
-Le fonds et les organismes chargés du recouvrement de la contribution disposent,
-à l'égard des associations constituées en application du présent article, des
-mêmes pouvoirs de contrôle qu'à l'égard des organismes mentionnés au I de
+Le fonds et les organismes chargés du recouvrement des cotisations du régime
+général de sécurité sociale territorialement compétents disposent, à l'égard des
+associations constituées en application du présent article, des mêmes pouvoirs
+de contrôle qu'à l'égard des organismes mentionnés au deuxième alinéa du I de
 l'article L. 862-4.

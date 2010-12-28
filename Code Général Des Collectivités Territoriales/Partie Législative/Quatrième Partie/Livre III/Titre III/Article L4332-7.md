@@ -19,4 +19,5 @@ dotation globale de fonctionnement.
 A compter de 2005, la dotation forfaitaire de chaque région évolue chaque année
 selon un taux de progression fixé par le comité des finances locales entre 60 %
 et 90 % du taux de progression de l'ensemble des ressources de la dotation
-globale de fonctionnement.
+globale de fonctionnement. En 2011, le montant de la dotation forfaitaire de
+chaque région est égal au montant perçu en 2010 diminué d'un taux de 0,12 %.

@@ -5,32 +5,26 @@ A compter de 2005, la dotation forfaitaire comprend :
 1° Une dotation de base destinée à tenir compte des charges liées à l'importance
 de sa population.
 
-Pour 2005, cette dotation de base est égale pour chaque commune au produit de sa
-population par un montant de 60 euros par habitant à 120 euros par habitant en
-fonction croissante de la population de la commune, dans des conditions définies
-par décret en Conseil d'Etat.
+Pour 2011, cette dotation de base est égale pour chaque commune au produit de sa
+population par un montant de 64,46 euros par habitant à 128,93 euros par
+habitant en fonction croissante de la population de la commune, dans des
+conditions définies par décret en Conseil d'Etat.
 
-A compter de 2006, la dotation par habitant perçue au titre de la dotation de
-base augmente selon un taux fixé par le comité des finances locales, égal au
-plus à 75 % du taux de progression de l'ensemble des ressources de la dotation
-globale de fonctionnement ;
-
-2° Une dotation proportionnelle à la superficie, égale à 3 euros par hectare en
-2005 et à 5 euros par hectare dans les communes situées en zone de montagne.A
-compter de 2006, ce montant évolue selon le taux d'indexation fixé par le comité
-des finances locales pour la dotation de base. A compter de 2005, le montant de
-cette dotation perçu par les communes de Guyane ne peut excéder le triple du
-montant qu'elles perçoivent au titre de la dotation de base ;
+2° Une dotation proportionnelle à la superficie, égale à 3,22 euros par hectare
+en 2011 et à 5,37 euros par hectare dans les communes situées en zone de
+montagne. A compter de 2005, le montant de cette dotation perçu par les communes
+de Guyane ne peut excéder le triple du montant qu'elles perçoivent au titre de
+la dotation de base ;
 
 3° Les montants correspondant aux montants antérieurement perçus au titre du I
 du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre
 1998) et du 2° bis du II de l'article 1648 B du code général des impôts dans sa
 rédaction antérieure à la loi de finances pour 2004 (n° 2003-1311 du 30 décembre
 2003). En 2005, ces montants sont indexés pour les communes qui en bénéficient
-selon un taux de 1 %.A compter de 2006, ces montants progressent selon un taux
-fixé par le comité des finances locales, égal au plus à 50 % du taux de
-croissance de l'ensemble des ressources de la dotation globale de fonctionnement
-;
+selon un taux de 1 %. En 2011, ces montants sont identiques à ceux perçus au
+titre de 2010, après minoration, le cas échéant, en application du 1.2.4.2 de
+l'article 77 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 et
+majoration, le cas échéant, en application du II du 6 du même article.
 
 Lorsqu'une commune cesse, à compter de 2005, d'appartenir à un groupement de
 communes faisant application des dispositions de l'article 1609 nonies C du code
@@ -59,23 +53,35 @@ a. Le montant de dotation forfaitaire perçue en 2004 et indexée selon un taux 
 b. Et la somme de la dotation de base et de la dotation proportionnelle à la
 superficie calculées en application des 1° et 2°.
 
-A compter de 2006, cette garantie évolue selon un taux égal au plus à 25 % du
-taux de progression de l'ensemble des ressources de la dotation globale de
-fonctionnement. Toutefois, pour les communes dont la garantie par habitant est
-supérieure à 1, 5 fois la garantie par habitant moyenne constatée l'année
-précédente, le taux de progression de la garantie est nul. En 2009, le
-complément de garantie dû à chaque commune correspond à son montant de 2008
-diminué de 2 %. En 2010, le complément de garantie dû à chaque commune
-correspond à son montant de 2009 diminué de 2 %.
+En 2011, les communes dont le potentiel fiscal par habitant est inférieur à 0,75
+fois le potentiel fiscal moyen par habitant constaté au niveau national
+bénéficient d'une attribution au titre de leur complément de garantie égale à
+celle perçue en 2010. La somme des attributions au titre du complément de
+garantie des communes dont le potentiel fiscal par habitant est supérieur ou
+égal à 0,75 fois le potentiel fiscal moyen par habitant constaté au niveau
+national est minorée de 130 millions d'euros en 2011 par rapport à 2010. Cette
+minoration des attributions est répartie parmi les communes concernées en
+proportion de leur population et de l'écart relatif entre le potentiel fiscal
+par habitant de la commune et le potentiel fiscal moyen par habitant constaté au
+niveau national. Cette minoration ne peut être supérieure à 6 % du complément de
+garantie perçu l'année précédente.
+
+Une dotation versée aux communes dont le territoire est pour tout ou partie
+compris dans le coeur d'un parc national. Elle est fonction de la part de la
+superficie de la commune comprise dans ce coeur, cette part étant doublée pour
+le calcul de la dotation lorsque cette superficie dépasse 5 000 kilomètres
+carrés. Le montant de cette dotation est fixé à 3 millions d'euros pour 2007. A
+compter de 2011, le montant de cette dotation est égal à son montant versé au
+titre de 2010.
 
 Le taux de croissance de la dotation forfaitaire est égal au taux d'évolution de
 la somme des composantes de cette dotation par rapport à la somme des montants
 versés l'année précédente en application des alinéas précédents, hors les
-montants prévus au 3°. Pour l'application de cette disposition en 2005, le
-montant de la dotation forfaitaire pris en compte au titre de 2004 est égal au
-montant total de la dotation forfaitaire versée en 2004, hors les montants
-correspondant à la compensation antérieurement perçue en application du I du D
-de l'article 44 de la loi de finances pour 1999.
+montants prévus au 3°. A compter de 2011, pour le calcul de ce taux de
+référence, il n'est pas tenu compte de l'évolution de la dotation forfaitaire
+liée aux variations de la population telle que définie par l'article L. 2334-2,
+ni des évolutions liées aux éventuelles minorations des composantes de la
+dotation forfaitaire prévues aux 3° et 4°
 
 La dotation forfaitaire comprend également les sommes reçues en 1993 au titre de
 la dotation supplémentaire aux communes et groupements touristiques ou thermaux
@@ -117,13 +123,21 @@ compensation antérieurement perçue en application du I du D de l'article 44 de
 la loi de finances pour 1999 précitée sont identifiés au sein de la dotation
 forfaitaire.
 
-5° Une dotation versée aux communes dont le territoire est pour tout ou partie
-compris dans le coeur d'un parc national. Elle est fonction de la part de la
-superficie de la commune comprise dans ce coeur, cette part étant doublée pour
-le calcul de la dotation lorsque cette superficie dépasse 5 000 kilomètres
-carrés. Le montant de cette dotation est fixé à 3 millions d'euros pour 2007 et
-évolue chaque année selon le taux d'indexation fixé par le Comité des finances
-locales pour la dotation de base et la dotation proportionnelle à la superficie.
+5° Une dotation en faveur des parcs nationaux et des parcs naturels marins. Sa
+première fraction est versée aux communes dont le territoire est pour tout ou
+partie compris dans le cœur d'un parc national. Sa seconde fraction est versée
+aux communes insulaires situées dans les surfaces maritimes classées en parc
+naturel marin, mentionné à l'article L. 334-3 du code de
+l'environnement.L'attribution individuelle est fonction de la part de la
+superficie de la commune comprise dans le cœur de parc, cette part étant doublée
+pour le calcul de la dotation lorsque cette superficie dépasse 5 000 kilomètres
+carrés.
+
+Le montant de la première fraction de cette dotation est fixé à 3,2 millions
+d'euros pour 2011. Celui de la deuxième fraction est fixé à 150 000 € pour 2011.
+Ces montants évoluent chaque année selon le taux d'indexation fixé par le comité
+des finances locales pour la dotation de base et la dotation proportionnelle à
+la superficie.
 
 Pour les communes et établissements publics de coopération intercommunale à
 fiscalité propre, lorsque le montant de la compensation prévue au D de l'article
