@@ -18,8 +18,8 @@ particulièrement bas ;
 2° Les routes appartenant à des collectivités territoriales, lorsque ces routes
 supportent ou sont susceptibles de supporter un report significatif de trafic en
 provenance des autoroutes à péages, des routes mentionnées au 1° ou des
-autoroutes ou routes situées hors du territoire douanier et soumises à péages,
-redevances ou taxation.
+autoroutes ou routes situées hors du territoire métropolitain et soumises à
+péages, redevances ou taxation.
 
 II. ― Les routes et autoroutes mentionnées au I sont découpées en sections de
 tarification correspondant aux portions de voie situées entre deux intersections

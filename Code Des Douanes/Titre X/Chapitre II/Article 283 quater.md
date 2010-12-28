@@ -9,5 +9,4 @@ L'Etat rétrocède aux collectivités territoriales le produit de la taxe
 correspondant aux sommes perçues pour l'usage du réseau routier dont elles sont
 propriétaires, déduction faite des coûts exposés y afférents. Un arrêté conjoint
 des ministres chargés des transports et du budget fixe le montant de cette
-retenue qui est affectée à l'Agence de financement des infrastructures de
-transport de France.
+retenue.
