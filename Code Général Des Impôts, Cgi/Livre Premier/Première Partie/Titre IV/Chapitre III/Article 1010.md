@@ -1,12 +1,16 @@
 Article 1010
 ----
-Les sociétés sont soumises à une taxe annuelle à raison des véhicules qu'elles
-utilisent en France quel que soit l'Etat dans lequel ils sont immatriculés, ou
-qu'elles possèdent et qui sont immatriculés en France, lorsque ces véhicules
-sont immatriculés dans la catégorie des voitures particulières au sens du 1 du C
-de l'annexe II à la directive 70/156/CEE du Conseil, du 6 février 1970,
-concernant le rapprochement des législations des Etats membres relatives à la
-réception des véhicules à moteur et de leurs remorques.
+Les sociétés sont soumises à une taxe annuelle à raison des véhicules de
+tourisme qu'elles utilisent en France, quel que soit l'Etat dans lequel ils sont
+immatriculés, ou qu'elles possèdent et qui sont immatriculés en France. Sont
+considérés comme véhicules de tourisme les voitures particulières au sens du 1
+du C de l'annexe II à la directive 2007/46/CE du Parlement européen et du
+Conseil, du 5 septembre 2007, établissant un cadre pour la réception des
+véhicules à moteur, de leurs remorques et des systèmes, des composants et des
+entités techniques destinés à ces véhicules, ainsi que les véhicules à usages
+multiples qui, tout en étant classés en catégorie N1 au sens de cette même
+annexe, sont destinés au transport de voyageurs et de leurs bagages ou de leurs
+biens.
 
 a) Pour les véhicules ayant fait l'objet d'une réception communautaire au sens
 de la même directive et dont la première mise en circulation intervient à

@@ -3,14 +3,12 @@ Article 1011 ter
 I.-Il est institué une taxe annuelle sur la détention de véhicules répondant aux
 conditions suivantes :
 
-1° Le véhicule est immatriculé dans la catégorie des voitures particulières au
-sens du 1 du C de l'annexe II à la directive 70 / 156 / CEE du Conseil du 6
-février 1970 concernant le rapprochement des législations des Etats membres
-relatives à la réception des véhicules à moteur et de leurs remorques ;
+1° Le véhicule est un véhicule de tourisme au sens de l'article 1010 ;
 
 2° a) S'il a fait l'objet d'une réception communautaire au sens de la directive
-mentionnée au 1°, son taux d'émission de dioxyde de carbone, tel qu'indiqué sur
-le certificat d'immatriculation, excède la limite suivante :
+2007/46/CE du Parlement européen et du Conseil, du 5 septembre 2007, précitée ,
+son taux d'émission de dioxyde de carbone, tel qu'indiqué sur le certificat
+d'immatriculation, excède la limite suivante :
 
 ANNÉE DE LA PREMIÈRE immatriculation
 
@@ -47,8 +45,7 @@ d'invalidité mentionnée à l'article L. 241-3 du code de l'action sociale et d
 familles ou une personne dont au moins un enfant mineur ou à charge, et du même
 foyer fiscal, est titulaire de cette carte.
 
-Sont également exonérées les sociétés soumises à la taxe sur les véhicules des
-sociétés prévue à l'article 1010.
+Sont également exonérés les véhicules soumis à la taxe prévue à l'article 1010.
 
 II.-La taxe est due par toutes les personnes propriétaires ou locataires, dans
 le cadre d'un contrat de location avec option d'achat ou d'un contrat souscrit
