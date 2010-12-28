@@ -66,9 +66,10 @@ Le montant total des ressources à prendre en compte ne doit pas excéder 64 875
 
 Le montant de l'avance remboursable sans intérêt est plafonné à 32 500 €.
 
-Ce dernier montant est majoré de 50 % dans les zones urbaines sensibles et dans
-les zones franches urbaines mentionnées à l'article 42 de la loi n° 95-115 du 4
-février 1995 d'orientation pour l'aménagement et le développement du territoire.
+Ce dernier montant est majoré de 50 % dans les quartiers prioritaires de la
+politique de la ville et dans les zones franches urbaines - territoires
+entrepreneurs mentionnées à l'article 42 de la loi n° 95-115 du 4 février 1995
+d'orientation pour l'aménagement et le développement du territoire.
 
 Jusqu'au 31 décembre 2010, le montant plafond de l'avance remboursable sans
 intérêt est majoré d'un montant de 15 000 € pour les opérations d'accession

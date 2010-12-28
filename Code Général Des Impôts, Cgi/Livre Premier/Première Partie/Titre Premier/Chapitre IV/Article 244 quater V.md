@@ -16,9 +16,8 @@ conditions prévues aux articles L. 31-10-1 et suivants du code de la
 construction et de l'habitation. Une étude d'impact jointe au décret fait
 apparaître les mesures prises pour que le montant des crédits d'impôt afférents
 aux prêts ne portant pas intérêt émis sur une même période de douze mois ne
-dépasse pas 820 millions d'euros. Ce montant s'entend du montant brut des
-crédits d'impôt accordés, diminué de l'impôt sur les bénéfices correspondant.
-(1)
+dépasse pas un milliard d'euros. Ce montant s'entend du montant brut des crédits
+d'impôt accordés, diminué de l'impôt sur les bénéfices correspondant. (1)
 
 II. ― Le montant du crédit d'impôt est égal à l'écart entre la somme actualisée
 des mensualités dues au titre du prêt ne portant pas intérêt et la somme

@@ -55,3 +55,8 @@ Au titre de 2014, la même compensation, à laquelle sont appliqués les taux
 d'évolution fixés au titre de 2009, 2010, 2011, 2012 et 2013, est minorée par
 application du taux prévu pour 2014 au IV de l'article 37 de la loi n° 2013-1278
 du 29 décembre 2013 de finances pour 2014.
+
+Au titre de 2015, la même compensation, à laquelle sont appliqués les taux
+d'évolution fixés depuis 2009, est minorée par application du taux prévu pour
+2015 au III de l'article 23 de la loi n° 2014-1654 du 29 décembre 2014 de
+finances pour 2015.

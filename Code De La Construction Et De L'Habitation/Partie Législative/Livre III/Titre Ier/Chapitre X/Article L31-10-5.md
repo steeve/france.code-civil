@@ -15,4 +15,4 @@ sont corrigés afin de ne tenir compte que des personnes mentionnées au même b
 le cas échéant de manière forfaitaire ;
 
 b) Le coût total de l'opération mentionné au a de l'article L. 31-10-4, divisé
-par dix.
+par neuf.

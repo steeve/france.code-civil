@@ -16,7 +16,7 @@ l'ensemble des compensations mentionnées aux I à X de l'article 48 de la loi n
 mêmes compensations prévu à cette fin pour 2009 par le XI de ce même article.
 
 Pour les logements locatifs sociaux bénéficiant d'une décision d'octroi de
-subvention ou de prêt aidé entre le 1er décembre 2005 et le 31 décembre 2014, à
+subvention ou de prêt aidé entre le 1er décembre 2005 et le 31 décembre 2018, à
 l'exception des constructions neuves financées (1) au moyen de prêts visés à la
 sous-section 3 de la section 1 du chapitre unique du titre III du livre III du
 code de la construction et de l'habitation, les pertes de recettes pour les
@@ -58,3 +58,8 @@ Au titre de 2014, les mêmes compensations, auxquelles sont appliqués les taux
 d'évolution fixés au titre de 2009, 2010, 2011, 2012 et 2013, sont minorées par
 application du taux prévu pour 2014 au IV de l'article 37 de la loi n° 2013-1278
 du 29 décembre 2013 de finances pour 2014.
+
+Au titre de 2015, les mêmes compensations, auxquelles sont appliqués les taux
+d'évolution fixés depuis 2009, sont minorées par application du taux prévu pour
+2015 au III de l'article 23 de la loi n° 2014-1654 du 29 décembre 2014 de
+finances pour 2015.
