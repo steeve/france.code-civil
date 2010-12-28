@@ -1,8 +1,8 @@
 Article R123-3
 ----
 1° Sous réserve des dispositions des 2° et 3°, les chambres de commerce et
-d'industrie créent et gèrent les centres de formalités des entreprises
-compétents pour :
+d'industrie territoriales créent et gèrent les centres de formalités des
+entreprises compétents pour :
 
 a) Les commerçants ;
 
@@ -69,6 +69,15 @@ commerciaux ;
 
 d) Les redevables de l'impôt sur les sociétés.
 
+La compétence des centres de formalités des entreprises des services des impôts
+pour les activités exercées par les assujettis ou les redevables susmentionnés
+peut être transférée aux organismes mentionnés aux 1° à 6° par convention
+conclue entre le directeur général des finances publiques et le représentant de
+la personne morale placée à la tête du réseau des organismes destinataires de ce
+transfert. Cette convention est approuvée par arrêté conjoint du ministre chargé
+du budget et du ministre assurant la tutelle des organismes destinataires de ce
+transfert.
+
 Les déclarations des personnes bénéficiant de la dispense d'immatriculation au
 registre du commerce et des sociétés prévue à l'article L. 123-1-1 ainsi que les
 déclarations des personnes physiques exerçant une activité artisanale et ayant
@@ -83,4 +92,4 @@ d'immatriculation au répertoire des métiers sans formalité additionnelle.
 
 Les personnes souhaitant exercer ou exerçant une activité de restauration à
 titre principal relèvent des centres de formalités des entreprises gérés par les
-chambres de commerce et d'industrie mentionnés au 1°.
+chambres de commerce et d'industrie territoriales mentionnés au 1°.

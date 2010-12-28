@@ -7,7 +7,7 @@ et signés par elle ou en son nom :
 
 1° Le numéro unique d'identification de l'entreprise délivré conformément à
 l'article D. 123-235, suivi immédiatement et lisiblement des mots : " dispensé
-d'immatriculation en application de l'article L. 123-1-1 du code de commerce" ;
+d'immatriculation en application de l'article L. 123-1-1 du code de commerce " ;
 
 2° Son adresse ;
 
@@ -15,8 +15,14 @@ d'immatriculation en application de l'article L. 123-1-1 du code de commerce" ;
 création ou la reprise d'une activité économique au sens de l'article L. 127-1
 du code de commerce, la dénomination sociale de la personne morale responsable
 de l'appui, le lieu de son siège social, ainsi que son numéro unique
-d'identification.
+d'identification ;
+
+4° Si elle a constitué un patrimoine affecté en application de l'article L.
+526-6, l'objet de l'activité commerciale à laquelle le patrimoine est affecté et
+sa dénomination incorporant son nom ou son nom d'usage précédé ou suivi
+immédiatement des mots : " entrepreneur individuel à responsabilité limitée " ou
+des initiales : " EIRL ".
 
 Toute personne ayant déclaré son activité en application de l'article L. 123-1-1
 et disposant d'un site internet y fait figurer les renseignements mentionnés aux
-1° et 2°.
+1°, 2° et 4°.

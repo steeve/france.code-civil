@@ -15,16 +15,19 @@ de remploi des fonds dans les conditions prévues à l'article L. 526-3 ou la
 renonciation à la déclaration d'insaisissabilité ou de remploi prévue au même
 article ;
 
-3° La désignation et la cessation de fonctions de la personne ayant le pouvoir
+3° Les événements et décisions mentionnés par les articles L. 526-7, L. 526-8
+(2°), L. 526-15, L. 526-16 et L. 526-17 ;
+
+4° La désignation et la cessation de fonctions de la personne ayant le pouvoir
 d'engager à titre habituel par sa signature la personne immatriculée ;
 
-4° La cessation partielle de l'activité exercée ;
+5° La cessation partielle de l'activité exercée ;
 
-5° La cessation totale d'activité, qu'elle soit temporaire ou définitive, avec
+6° La cessation totale d'activité, qu'elle soit temporaire ou définitive, avec
 possibilité de déclarer le maintien de l'immatriculation pour une période qui,
 lorsque la cessation est définitive, ne peut dépasser un an ;
 
-6° Le décès de la personne immatriculée avec possibilité de déclarer le maintien
+7° Le décès de la personne immatriculée avec possibilité de déclarer le maintien
 provisoire, pendant un délai maximum d'un an, de l'immatriculation, et, si
 l'exploitation se poursuit, les conditions d'exploitation, nom, nom d'usage,
 pseudonyme, prénoms, domicile personnel et qualité des héritiers et ayants cause
@@ -32,5 +35,5 @@ pseudonyme, prénoms, domicile personnel et qualité des héritiers et ayants ca
 personnes assurant l'exploitation ; dans ce dernier cas, la déclaration est
 faite par la ou les personnes poursuivant l'exploitation ;
 
-7° Le renouvellement, limité à une période supplémentaire d'un an, du maintien
+8° Le renouvellement, limité à une période supplémentaire d'un an, du maintien
 provisoire de l'immatriculation dans les cas prévus aux 6° et 7°.
