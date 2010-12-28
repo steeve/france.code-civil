@@ -1,8 +1,5 @@
 Article L2323-5
 ----
-Si, pour les produits et redevances mentionnés à l'article L. 2321-3, la lettre
-de rappel n'a pas été suivie de paiement, le comptable public compétent peut, à
-l'expiration d'un délai de vingt jours suivant cette formalité, engager des
-poursuites, dans les conditions fixées par les 5° et 6° de l'article L. 1617-5
-du code général des collectivités territoriales, ainsi que par les articles L.
-258 et L. 259 du livre des procédures fiscales.
+A défaut de paiement des produits mentionnés à l'article L. 2321-3, le comptable
+public compétent met en œuvre les 4° à 8° de l'article L. 1617-5 du code général
+des collectivités territoriales.

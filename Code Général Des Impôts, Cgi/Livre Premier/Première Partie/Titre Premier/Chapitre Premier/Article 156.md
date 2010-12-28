@@ -80,20 +80,20 @@ versement d'acomptes au moins égaux à 50 % de leur prix ;
 
 1° ter Des déficits du foyer fiscal provenant de l'activité de location directe
 ou indirecte de locaux d'habitation meublés ou destinés à être loués meublés
-lorsque l'activité n'est pas exercée à titre professionnel au sens du VII de
-l'article 151 septies. Ces déficits s'imputent exclusivement sur les revenus
-provenant d'une telle activité au cours de celles des dix années suivantes
-pendant lesquelles l'activité n'est pas exercée à titre professionnel au sens
-des mêmes dispositions.
+lorsque l'activité n'est pas exercée à titre professionnel au sens du IV de
+l'article 155. Ces déficits s'imputent exclusivement sur les revenus provenant
+d'une telle activité au cours de celles des dix années suivantes pendant
+lesquelles l'activité n'est pas exercée à titre professionnel au sens des mêmes
+dispositions.
 
 Toutefois, lorsque l'activité est exercée, dès le commencement de la location, à
 titre professionnel au sens des mêmes dispositions, la part des déficits qui n'a
 pu être imputée en application du premier alinéa et qui provient des charges
 engagées en vue de la location directe ou indirecte d'un local d'habitation
 avant le commencement de cette location, tel que déterminé conformément au
-sixième alinéa du VII de l'article 151 septies, peut être imputée par tiers sur
-le revenu global des trois premières années de location du local, tant que
-l'activité reste exercée à titre professionnel.
+sixième alinéa du IV de l'article 155, peut être imputée par tiers sur le revenu
+global des trois premières années de location du local, tant que l'activité
+reste exercée à titre professionnel.
 
 2° Des déficits provenant d'activités non commerciales au sens de l'article 92,
 autres que ceux qui proviennent de l'exercice d'une profession libérale ou des
@@ -141,10 +141,10 @@ l'application de la dispense de l'intérêt de retard mentionnée au 4° du II d
 l'article 1727.
 
 L'imputation exclusive sur les revenus fonciers n'est pas non plus applicable
-aux déficits fonciers résultant de dépenses autres que les intérêts d'emprunt.
-L'imputation est limitée à 10 700 euros. La fraction du déficit supérieure à 10
-700 euros et la fraction du déficit non imputable résultant des intérêts
-d'emprunt sont déduites dans les conditions prévues au premier alinéa.
+aux déficits fonciers résultant de dépenses autres que les intérêts
+d'emprunt.L'imputation est limitée à 10 700 euros. La fraction du déficit
+supérieure à 10 700 euros et la fraction du déficit non imputable résultant des
+intérêts d'emprunt sont déduites dans les conditions prévues au premier alinéa.
 
 La limite mentionnée au cinquième alinéa est portée à 15 300 euros pour les
 contribuables qui constatent un déficit foncier sur un logement pour lequel est
@@ -218,14 +218,14 @@ départemental de l'architecture et du patrimoine ;
 
 2° Arrérages de rentes payés par lui à titre obligatoire et gratuit constituées
 avant le 2 novembre 1959 ; pensions alimentaires répondant aux conditions fixées
-par les articles 205 à 211,367 et 767 du code civil à l'exception de celles
+par les articles 205 à 211, 367 et 767 du code civil à l'exception de celles
 versées aux ascendants quand il est fait application des dispositions prévues
 aux 1 et 2 de l'article 199 sexdecies ; versements de sommes d'argent mentionnés
 à l'article 275 du code civil lorsqu'ils sont effectués sur une période
 supérieure à douze mois à compter de la date à laquelle le jugement de divorce,
 que celui-ci résulte ou non d'une demande conjointe, est passé en force de chose
-jugée et les rentes versées en application des articles 276,278 ou 279-1 du même
-code en cas de séparation de corps ou de divorce, ou en cas d'instance en
+jugée et les rentes versées en application des articles 276, 278 ou 279-1 du
+même code en cas de séparation de corps ou de divorce, ou en cas d'instance en
 séparation de corps ou en divorce et lorsque le conjoint fait l'objet d'une
 imposition séparée, les pensions alimentaires versées en vertu d'une décision de
 justice et en cas de révision amiable de ces pensions, le montant effectivement
@@ -246,7 +246,7 @@ au profit du parent qui justifie qu'il participe seul à l'entretien du ménage.
 
 Un contribuable ne peut, au titre d'une même année et pour un même enfant,
 bénéficier à la fois de la déduction d'une pension alimentaire et du
-rattachement. L'année où l'enfant atteint sa majorité, le contribuable ne peut à
+rattachement.L'année où l'enfant atteint sa majorité, le contribuable ne peut à
 la fois déduire une pension pour cet enfant et le considérer à charge pour le
 calcul de l'impôt ;
 

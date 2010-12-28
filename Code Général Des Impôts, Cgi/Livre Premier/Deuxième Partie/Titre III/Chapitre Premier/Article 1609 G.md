@@ -5,7 +5,8 @@ par l'article 7 de la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris,
 une taxe spéciale d'équipement destinée à financer l'exercice, par cet
 organisme, des missions définies au même article.
 
-Le produit de cette taxe est fixé à 117 millions d'euros par an.
+Le produit de cette taxe est fixé annuellement au montant prévu au I de
+l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
 
 Ce produit est réparti entre toutes les personnes physiques ou morales
 assujetties aux taxes foncières sur les propriétés bâties et non bâties, à la

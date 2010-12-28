@@ -54,7 +54,7 @@ Année d'acquisition
 2012
 
 
-Taux ≤ 150
+Taux ≤ 140
 
 0
 
@@ -65,6 +65,30 @@ Taux ≤ 150
 0
 
 0
+
+141 ≤ taux ≤ 145
+
+0
+
+0
+
+0
+
+0
+
+200
+
+146 ≤ taux ≤150
+
+0
+
+0
+
+0
+
+0
+
+200
 
 151 ≤ taux ≤ 155
 
@@ -76,7 +100,7 @@ Taux ≤ 150
 
 200
 
-200
+500
 
 156 ≤ taux ≤ 160
 
@@ -102,7 +126,7 @@ Taux ≤ 150
 
 750
 
-166 ≤ taux ≤ 190
+166 ≤ taux ≤ 180
 
 750
 
@@ -113,6 +137,18 @@ Taux ≤ 150
 750
 
 750
+
+181≤ taux ≤ 190
+
+750
+
+750
+
+750
+
+750
+
+1 100
 
 191 ≤ taux ≤ 195
 
@@ -122,7 +158,7 @@ Taux ≤ 150
 
 750
 
-1 600
+1600
 
 1 600
 
@@ -138,7 +174,7 @@ Taux ≤ 150
 
 1 600
 
-201 ≤ taux ≤ 240
+201 ≤ taux ≤ 230
 
 1 600
 
@@ -149,6 +185,30 @@ Taux ≤ 150
 1 600
 
 1 600
+
+231 ≤ taux ≤ 235
+
+1 600
+
+1 600
+
+1 600
+
+1 600
+
+2 600
+
+236 ≤ taux ≤ 240
+
+1 600
+
+1 600
+
+1 600
+
+1 600
+
+2 600
 
 241 ≤ taux ≤ 245
 
@@ -204,18 +264,28 @@ justificatives à produire.
 b) Pour les véhicules de tourisme au sens de l'article 1010 mentionnés au b du
 II :
 
-PUISSANCE FISCALE (en chevaux-vapeur)
 
-MONTANT DE LA TAXE (en euros)
+PUISSANCE FISCALE
+
+(en chevaux-vapeur)
+
+
+MONTANT DE LA TAXE
+
+(en euros)
 
 
 Puissance fiscale ≤ 7
 
 0
 
-8 ≤ puissance fiscale ≤11
+8 ≤ puissance fiscale ≤ 9
 
 750
+
+10 ≤ puissance totale ≤ 11
+
+1 100
 
 12 ≤ puissance fiscale ≤ 16
 

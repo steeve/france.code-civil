@@ -19,7 +19,7 @@ II. ― L'application du I est subordonnée aux conditions suivantes :
 
 1° L'apporteur est une personne physique qui exerce une activité commerciale,
 industrielle, artisanale, libérale ou agricole à titre professionnel au sens du
-I de l'article 151 septies ;
+IV de l'article 155 ;
 
 2° L'apport porte sur l'intégralité des droits ou parts nécessaires à l'exercice
 de l'activité, détenus par le contribuable et inscrits à l'actif de son bilan ou
@@ -44,8 +44,8 @@ l'exercice de l'activité de l'apporteur.
 III. ― Le report d'imposition prend fin lorsque :
 
 1° L'apporteur cesse d'exercer une activité commerciale, industrielle,
-artisanale, libérale ou agricole à titre professionnel au sens du I de l'article
-151 septies ;
+artisanale, libérale ou agricole à titre professionnel au sens du IV de
+l'article 155 ;
 
 2° Les droits ou parts reçus en rémunération de l'apport ou les droits ou parts
 apportés sont cédés, rachetés ou annulés ;
@@ -77,4 +77,4 @@ reportée. Un décret précise le contenu de cet état.
 
 L'option pour le bénéfice du régime défini au présent article est exclusive de
 celui des régimes prévus au II de l'article 93 quater et aux articles 151
-septies, 151 septies A ,151 octies, 151 octies A et 238 quindecies.
+septies, 151 septies A, 151 octies, 151 octies A et 238 quindecies.

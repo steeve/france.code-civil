@@ -19,6 +19,13 @@ l'impôt sur les sociétés, l'imposition forfaitaire annuelle et les pénalité
 correspondantes, sur les montants dont elle serait redevable en l'absence
 d'appartenance à un groupe.
 
+Pour l'assujetti membre d'un groupe mentionné à l'article 1693 ter du code
+général des impôts, l'information prévue au premier alinéa du présent article
+porte, en ce qui concerne la taxe sur la valeur ajoutée, les taxes,
+contributions et redevances mentionnées au 1 du même article 1693 ter et les
+pénalités correspondantes, sur les montants dont il serait redevable en
+l'absence d'appartenance au groupe.
+
 Lorsqu'elle envisage d'accorder un échelonnement des mises en recouvrement des
 rappels de droits et pénalités consécutifs aux rectifications ou le bénéfice des
 dispositions visées au 3° de l'article L. 247, l'administration en informe les
