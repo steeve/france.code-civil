@@ -46,7 +46,7 @@ exploitants d'hôtels de tourisme saisonniers classés dans les conditions fixé
 par le ministre chargé du tourisme, les restaurants, les cafés, les
 discothèques, les établissements de spectacles ou de jeux ainsi que les
 établissements thermaux, exerçant une activité à caractère saisonnier, telle que
-définie par décret. Sur décision de l'organe délibérant de la commune ou de
+définie par décret. Sur décision de l'organe délibérant de la commune et de
 l'établissement public de coopération intercommunale, les dispositions du
 premier alinéa s'appliquent également aux parcs d'attractions et de loisirs
 exerçant une activité saisonnière. VI. Les organismes mentionnés au II de
