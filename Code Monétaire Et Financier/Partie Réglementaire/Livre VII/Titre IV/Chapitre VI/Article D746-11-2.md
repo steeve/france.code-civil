@@ -1,3 +1,3 @@
 Article D746-11-2
 ----
-L'article D. 632-4 est applicable en Nouvelle-Calédonie.
+Les articles D. 632-4 et D. 632-5 sont applicables en Nouvelle-Calédonie.

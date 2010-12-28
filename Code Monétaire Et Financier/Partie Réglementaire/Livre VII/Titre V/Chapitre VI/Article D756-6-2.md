@@ -1,3 +1,3 @@
 Article D756-6-2
 ----
-L'article D. 632-4 est applicable en Polynésie française.
+Les articles D. 632-4 et D. 632-5 sont applicables en Polynésie française.
