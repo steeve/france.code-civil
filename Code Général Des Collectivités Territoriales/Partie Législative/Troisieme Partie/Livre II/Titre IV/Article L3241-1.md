@@ -15,6 +15,6 @@ L. 3321-1 et de l'article L. 3321-2 ;
 
 2° Par les chapitres II et V du titre III du livre III de la troisième partie, à
 l'exception de l'article L. 3332-1, du 2° au 6° et du 10° de l'article L. 3332-2
-et des 2°, 4° et 10° de l'article L. 3332-3 ;
+et des 4° et 10° de l'article L. 3332-3 ;
 
 3° Par le titre IV du livre III de la troisième partie.

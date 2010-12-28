@@ -10,11 +10,10 @@ mise à la charge de l'aménageur.
 
 Lorsqu'un équipement doit être réalisé pour répondre aux besoins des futurs
 habitants ou usagers des constructions à édifier dans plusieurs opérations
-successives devant faire l'objet de zones d'aménagement concerté , de
-conventions de projet urbain partenarial ou de programmes d'aménagement
-d'ensemble, la répartition du coût de cet équipement entre différentes
-opérations peut être prévue dès la première, à l'initiative de l'autorité
-publique qui approuve l'opération.
+successives devant faire l'objet de zones d'aménagement concerté ou de
+conventions de projet urbain partenarial, la répartition du coût de cet
+équipement entre différentes opérations peut être prévue dès la première, à
+l'initiative de l'autorité publique qui approuve l'opération.
 
 Lorsqu'une construction est édifiée sur un terrain n'ayant pas fait l'objet
 d'une cession, location ou concession d'usage consentie par l'aménageur de la

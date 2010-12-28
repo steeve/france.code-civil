@@ -42,7 +42,7 @@ participation sont notifiés au bénéficiaire de la cession par le préfet.
 
 Les équipements financés par la participation prévue par le présent article ne
 peuvent faire l'objet des participations prévues aux articles L. 311-4, L.
-332-9, L. 332-11-1 et L. 332-11-3 du code de l'urbanisme.
+332-11-1 et L. 332-11-3 du code de l'urbanisme.
 
 Le produit de la participation est versé à l'agence pour la mise en valeur des
 espaces urbains de la zone dite des cinquante pas géométriques. Les sommes

@@ -44,13 +44,4 @@ deuxième à neuvième alinéas de l'article L. 126-1 du code rural et de la pê
 maritime, soit d'un procès-verbal dressé en application du III de l'article 1840
 G.
 
-4. Sont tenus solidairement au paiement de la taxe locale d'équipement :
-
-a. Les établissements de crédit ou sociétés de caution mutuelle qui sont garants
-de l'achèvement de la construction ;
-
-b. Les titulaires successifs de l'autorisation de construire ainsi que leurs
-ayants cause autres que les personnes qui ont acquis les droits sur l'immeuble à
-construire en vertu d'un contrat régi par le titre VI du livre II de la première
-partie du code de la construction et de l'habitation relatif aux ventes
-d'immeubles à construire.
+4. Abrogé.

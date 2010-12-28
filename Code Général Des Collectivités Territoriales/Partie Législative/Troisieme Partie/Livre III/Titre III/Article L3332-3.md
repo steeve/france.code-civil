@@ -4,7 +4,7 @@ Les recettes de la section d'investissement se composent notamment :
 
 1° Du produit des emprunts ;
 
-2° Du versement pour dépassement du plafond légal de densité ;
+2° abrogé ;
 
 3° De la dotation globale d'équipement ;
 

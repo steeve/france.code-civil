@@ -28,8 +28,8 @@ dans les entreprises et des sommes qu'elle reçoit en échange de services rendu
 8° Le produit des contributions aux dépenses d'équipements publics prévus au 2°
 de l'article L. 332-6-1 du code de l'urbanisme ;
 
-9° Le produit de la taxe locale d'équipement ou de toute autre taxe de
-remplacement pour les compétences transférées ;
+9° Le produit de la part intercommunale de la taxe d'aménagement ou de toute
+autre taxe de remplacement pour les compétences transférées ;
 
 10° Le produit des surtaxes locales temporaires pour les compétences transférées
 ;
@@ -41,8 +41,7 @@ et des syndicats mixtes ;
 
 13° Le produit des emprunts ;
 
-14° Le produit de la participation instituée dans les secteurs d'aménagement en
-vertu des dispositions de l'article L. 332-9 du code de l'urbanisme ;
+14° Abrogé ;
 
 15° Le produit du versement destiné aux transports en commun prévu à l'article
 L. 2333-64 ;

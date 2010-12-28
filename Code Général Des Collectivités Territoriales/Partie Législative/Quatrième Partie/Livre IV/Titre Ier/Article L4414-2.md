@@ -4,6 +4,5 @@ La région d'Ile-de-France bénéficie notamment de la ressource suivante :
 
 1° Abrogé ;
 
-2° Le produit de la taxe complémentaire à la taxe locale d'équipement prévue à
-l'article 1599 octies du code général des impôts imputé en section
-d'investissement.
+2° Le produit de la part régionale de la taxe d'aménagement prévue à l'article L
+331-4 du code de l'urbanisme imputé en section d'investissement.
