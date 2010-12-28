@@ -1,11 +1,11 @@
 Article L260
 ----
-Dans le cas où une majoration de droit ou des intérêts de retard ont été
-appliqués au contribuable pour non-déclaration ou déclaration tardive ou
-insuffisante des revenus et bénéfices imposables, le comptable du Trésor peut
-faire signifier un commandement au contribuable dès l'exigibilité de l'impôt
-sans que la lettre de rappel prévue à l'article L. 255 soit préalablement
-notifiée.
+Dans les cas mentionnés au 2 de l'article 1663 du code général des impôts, le
+comptable public compétent peut faire signifier une mise en demeure de payer au
+contribuable dès l'exigibilité de l'impôt sur le revenu, des contributions
+sociales recouvrées comme en matière d'impôt sur le revenu, de la taxe
+d'habitation, des taxes foncières sur les propriétés bâties et non bâties et des
+impositions recouvrées comme les impositions précitées.
 
-La saisie peut alors être pratiquée un jour après la signification du
-commandement.
+La saisie peut alors être pratiquée un jour franc après la signification de la
+mise en demeure de payer.

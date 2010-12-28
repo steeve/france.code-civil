@@ -8,8 +8,7 @@ contribuable et par tous autres actes interruptifs de la prescription.
 Les poursuites sont exercées par l'agent comptable dans les formes de droit
 commun. Toutefois, les commandements de payer sont, à l'initiative de l'agent
 comptable, notifiés au contribuable, par lettre recommandée avec accusé de
-réception, dans les conditions prévues au deuxième alinéa de l'article L. 259 du
-livre des procédures fiscales.
+réception.
 
 Le recouvrement par le comptable de l'agence peut être assuré par voie
 d'opposition à tiers détenteur adressée aux personnes qui détiennent des fonds
