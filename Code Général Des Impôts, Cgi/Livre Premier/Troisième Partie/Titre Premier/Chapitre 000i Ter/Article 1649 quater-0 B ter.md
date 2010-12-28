@@ -1,11 +1,14 @@
 Article 1649 quater-0 B ter
 ----
-1. Lorsque l'administration fiscale est informée, dans les conditions prévues à
-l'article L. 135 L du livre des procédures fiscales, qu'un contribuable dispose
-des éléments mentionnés ci-après, elle peut, en cas de disproportion marquée
-entre son train de vie et ses revenus, porter la base d'imposition à l'impôt sur
-le revenu à une somme forfaitaire déterminée en appliquant à ces éléments le
-barème ci-après, compte tenu, le cas échéant, de la majoration prévue au 2.
+1. Lorsque l'administration fiscale est informée, dans le cadre de la lutte
+contre les activités lucratives non déclarées portant atteinte à l'ordre public
+et à la sécurité publique et dans les conditions prévues aux articles L. 82 C,
+L. 101 ou L. 135 L du livre des procédures fiscales, qu'un contribuable dispose
+d'éléments mentionnés ci-après, elle peut, en cas de disproportion marquée entre
+son train de vie et ses revenus, porter la base d'imposition à l'impôt sur le
+revenu à une somme forfaitaire déterminée en appliquant à ce ou ces éléments de
+train de vie le barème ci-après, compte tenu, le cas échéant, de la majoration
+prévue au 2 du présent article.
 
 
 ÉLÉMENTS DU TRAIN DE VIE
@@ -24,9 +27,11 @@ Cinq fois la valeur locative cadastrale.
 
 3. Voitures automobiles destinées au transport des personnes.
 
-La valeur de la voiture neuve avec abattement de 50 % après trois ans d'usage.
+La valeur de la voiture neuve avec abattement de 50 % après trois ans d'usage
+ou, dans le cas d'une prise en location, cinq fois le prix toutes taxes
+comprises de cette location.
 
-4. Motocyclettes de plus de 450 cm ³.
+4. Motocyclettes de plus de 450 cm³.
 
 La valeur de la motocyclette neuve avec abattement de 50 % après trois ans
 d'usage.

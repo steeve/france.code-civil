@@ -2,8 +2,13 @@ Article 285 quinquies
 ----
 1. Une redevance pour contrôle vétérinaire est perçue lors de l'importation sur
 le territoire douanier, sous tous régimes douaniers, de produits animaux ou
-d'origine animale et d'animaux vivants, de statut non communautaire, en
-provenance d'un Etat n'appartenant pas à la Communauté européenne.
+d'origine animale, d'animaux vivants et d'aliments pour animaux d'origine non
+animale visés par le règlement (CE) n° 669/2009 du 24 juillet 2009 portant
+modalités d'exécution du règlement (CE) n° 882/2004 du Parlement européen et du
+Conseil en ce qui concerne les contrôles officiels renforcés à l'importation de
+certains aliments pour animaux et certaines denrées alimentaires d'origine non
+animale et modifiant la décision 2006/504/CE, de statut non communautaire, en
+provenance d'un Etat n'appartenant pas à l'Union européenne.
 
 Elle est également perçue sur les produits animaux ou d'origine animale,
 originaires d'un Etat n'appartenant pas à la Communauté européenne, importés sur
@@ -19,7 +24,7 @@ le contrôle documentaire est effectué par les services d'inspection français.
 2. La redevance pour contrôle vétérinaire est due par l'importateur, son
 représentant légal ou le commissionnaire en douane agréé.
 
-Elles est recouvrée par le service des douanes selon les mêmes règles, sous les
+Elle est recouvrée par le service des douanes selon les mêmes règles, sous les
 mêmes garanties et privilèges qu'en matière de droits de douane. Les infractions
 sont constatées et réprimées, et les instances instruites et jugées conformément
 aux dispositions du code des douanes.

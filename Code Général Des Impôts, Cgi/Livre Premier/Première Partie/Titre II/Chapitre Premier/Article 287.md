@@ -13,27 +13,26 @@ Ces redevables peuvent, sur leur demande, être autorisés, dans des conditions
 qui sont fixées par arrêté du ministre de l'économie et des finances, à disposer
 d'un délai supplémentaire d'un mois.
 
-Lorsque la taxe exigible annuellement est inférieure à 4 000 euros, ils sont
-admis à déposer leurs déclarations par trimestre civil.
+Lorsque la taxe exigible annuellement est inférieure à 4 000 €, ils sont admis à
+déposer leurs déclarations par trimestre civil.
 
 3. Les redevables placés sous le régime simplifié d'imposition prévu à l'article
-302 septies A déposent au titre de chaque année ou exercice une déclaration qui
-détermine la taxe due au titre de la période et le montant des acomptes
-trimestriels pour la période ultérieure.
+302 septies A déposent au titre de chaque exercice une déclaration qui détermine
+la taxe due au titre de la période et le montant des acomptes trimestriels pour
+la période ultérieure.
 
 Des acomptes trimestriels sont versés en avril, juillet, octobre et décembre.
-Ils sont égaux au quart de la taxe due au titre de l'année ou de l'exercice
-précédent avant déduction de la taxe sur la valeur ajoutée relative aux biens
-constituant des immobilisations, à l'exception de l'acompte dû en décembre qui
-est égal au cinquième de cette taxe. Le complément d'impôt éventuellement
-exigible est versé lors du dépôt de la déclaration annuelle mentionnée au
-premier alinéa.
+Ils sont égaux au quart de la taxe due au titre de l'exercice précédent avant
+déduction de la taxe sur la valeur ajoutée relative aux biens constituant des
+immobilisations, à l'exception de l'acompte dû en décembre qui est égal au
+cinquième de cette taxe. Le complément d'impôt éventuellement exigible est versé
+lors du dépôt de la déclaration annuelle mentionnée au premier alinéa.
 
-S'il estime que le montant des acomptes déjà versés au titre de l'année ou de
-l'exercice est égal ou supérieur au montant de la taxe qui sera finalement due,
-le redevable peut se dispenser de nouveaux versements en remettant au comptable
-chargé du recouvrement de ladite taxe, avant la date d'exigibilité du prochain
-versement à effectuer, une déclaration datée et signée.
+S'il estime que le montant des acomptes déjà versés au titre de l'exercice est
+égal ou supérieur au montant de la taxe qui sera finalement due, le redevable
+peut se dispenser de nouveaux versements en remettant au comptable chargé du
+recouvrement de ladite taxe, avant la date d'exigibilité du prochain versement à
+effectuer, une déclaration datée et signée.
 
 S'il estime que la taxe due à raison des opérations réalisées au cours d'un
 trimestre, après imputation de la taxe sur la valeur ajoutée relative aux biens
@@ -50,10 +49,10 @@ S'il estime que la taxe sera supérieure d'au moins 10 % à celle qui a servi de
 base aux acomptes, il peut modifier le montant de ces derniers.
 
 Les redevables sont dispensés du versement d'acomptes lorsque la taxe due au
-titre de l'année ou de l'exercice précédent, avant déduction de la taxe sur la
-valeur ajoutée relative aux biens constituant des immobilisations, est
-inférieure à 1 000 euros. Dans ce cas, le montant total de l'impôt exigible est
-acquitté lors du dépôt de la déclaration annuelle mentionnée au premier alinéa.
+titre de l'exercice précédent, avant déduction de la taxe sur la valeur ajoutée
+relative aux biens constituant des immobilisations, est inférieure à 1 000 €.
+Dans ce cas, le montant total de l'impôt exigible est acquitté lors du dépôt de
+la déclaration annuelle mentionnée au premier alinéa.
 
 Les nouveaux redevables sont autorisés, lors de leur première année
 d'imposition, à acquitter la taxe sur la valeur ajoutée par acomptes
@@ -74,10 +73,10 @@ placées sous le régime simplifié d'imposition.
 a) D'une part, le montant total, hors taxe sur la valeur ajoutée, des livraisons
 de bien exonérées en vertu du I de l'article 262 ter, des livraisons de biens
 installés ou montés sur le territoire d'un autre Etat membre de la Communauté
-européenne, des livraisons de gaz naturel ou d'électricité imposables sur le
-territoire d'un autre Etat membre de la Communauté européenne et des livraisons
-dont le lieu n'est pas situé en France en application des dispositions de
-l'article 258 A ;
+européenne, des livraisons de gaz naturel, d'électricité, de chaleur ou de froid
+imposables sur le territoire d'un autre Etat membre de la Communauté européenne
+et des livraisons dont le lieu n'est pas situé en France en application des
+dispositions de l'article 258 A ;
 
 b) D'autre part, le montant total, hors taxe sur la valeur ajoutée, des
 acquisitions intracommunautaires mentionnées au I de l'article 256 bis, et, le
@@ -87,9 +86,9 @@ livraisons de biens dont le lieu est situé en France en application des
 dispositions de l'article 258 B, des livraisons de biens effectuées en France
 pour lesquelles le destinataire de la livraison est désigné comme redevable de
 la taxe en application des dispositions du 2 ter de l'article 283 et des
-livraisons de gaz naturel ou d'électricité pour lesquelles l'acquéreur est
-désigné comme redevable de la taxe conformément aux dispositions du 2 quinquies
-de ce dernier article ;
+livraisons de gaz naturel, d'électricité, de chaleur ou de froid pour lesquelles
+l'acquéreur est désigné comme redevable de la taxe conformément aux dispositions
+du 2 quinquies de ce dernier article ;
 
 b bis) Le montant hors taxes des opérations mentionnées au 2 sexies de l'article
 283 réalisées ou acquises par l'assujetti ;

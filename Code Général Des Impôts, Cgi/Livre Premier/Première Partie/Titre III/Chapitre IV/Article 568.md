@@ -30,9 +30,9 @@ l'activité de vente de tabac antérieur à l'extension de l'objet social ;
 -chacun des associés doit remplir l'ensemble des conditions d'agrément fixées
 par décret.
 
-Le droit de licence mentionné au premier alinéa est de 20, 44 % de la remise
+Le droit de licence mentionné au premier alinéa est de 20,44 % de la remise
 mentionnée au 3° du I de l'article 570 pour les cigares et cigarillos et de
-21,40 % de la même remise pour les autres produits du tabac.. Le droit de
+21,09 % de la même remise pour les autres produits du tabac.. Le droit de
 licence est exigible à la livraison des tabacs manufacturés au débitant. Il est
 liquidé par les fournisseurs mentionnés au 1 de l'article 565, au plus tard le
 25 de chaque mois, sur la base d'une déclaration des quantités livrées au

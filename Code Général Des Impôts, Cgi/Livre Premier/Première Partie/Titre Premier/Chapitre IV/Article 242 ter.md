@@ -21,23 +21,23 @@ ter, 9° quater et 9° sexies de l'article 157 ;
 Pour l'établissement de cette déclaration, les personnes qui en assurent le
 paiement individualisent les intérêts des créances de toute nature et produits
 assimilés tels qu'énumérés par un décret transposant l'article 6 de la directive
-2003 / 48 / CE du Conseil du 3 juin 2003 en matière de fiscalité des revenus de
+2003/48/CE du Conseil du 3 juin 2003 en matière de fiscalité des revenus de
 l'épargne sous forme de paiements d'intérêts.
 
 Les revenus de cette nature provenant de la cession, du remboursement ou du
 rachat de parts ou actions d'organismes de placements collectifs ou entités
-assimilées investis à plus de 40 % en créances ou produits assimilés sont
+assimilées investis à plus de 25 % en créances ou produits assimilés sont
 déterminés et déclarés dans des conditions prévues par décret.
 
 Pour l'application des dispositions du septième alinéa, l'organisme ou l'entité
 ou, à défaut de personnalité morale, son gérant ou représentant à l'égard des
 tiers, fournit aux personnes mentionnées au premier alinéa, dans des conditions
 prévues par décret, les informations nécessaires à l'appréciation de la
-situation de l'organisme ou entité au regard du pourcentage de 40 %. Cette
+situation de l'organisme ou entité au regard du pourcentage de 25 %. Cette
 situation est précisée dans les documents constitutifs ou le règlement de
 l'organisme ou entité ou, à défaut, dans leurs inventaires prévus à l'article L.
 214-8 du code monétaire et financier.A défaut d'information, les personnes
-mentionnées au premier alinéa considèrent que le pourcentage de 40 % est
+mentionnées au premier alinéa considèrent que le pourcentage de 25 % est
 dépassé.
 
 Pour l'établissement de la déclaration mentionnée au premier alinéa, les

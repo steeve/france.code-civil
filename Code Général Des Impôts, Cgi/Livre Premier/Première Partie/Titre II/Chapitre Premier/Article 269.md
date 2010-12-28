@@ -60,8 +60,10 @@ c) Pour les prestations de services autres que celles visées au b bis, lors de
 l'encaissement des acomptes, du prix, de la rémunération ou, sur option du
 redevable, d'après les débits.
 
-En cas d'escompte d'un effet de commerce, la taxe est exigible à la date du
-paiement de l'effet par le client.
+En cas d'escompte d'effet de commerce ou de transmission de créance,
+l'exigibilité intervient respectivement à la date du paiement de l'effet par le
+client ou à celle du paiement de la dette transmise entre les mains du
+bénéficiaire de la transmission.
 
 Les entrepreneurs de travaux immobiliers peuvent, dans des conditions et pour
 les travaux qui sont fixés par décret, opter pour le paiement de la taxe sur les

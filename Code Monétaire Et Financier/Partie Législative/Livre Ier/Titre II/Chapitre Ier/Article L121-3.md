@@ -12,10 +12,10 @@ collection françaises ayant cours légal et pouvoir libératoire ;
 3° De lutter contre la contrefaçon des pièces métalliques et procéder à leur
 expertise et à leur contrôle, dans les conditions prévues à l'article L. 162-2 ;
 
-4° De fabriquer et commercialiser les instruments de marque, tous les poinçons
-de garantie des matières d'or, d'argent et de platine, les monnaies métalliques
-courantes étrangères, les monnaies de collection étrangères ainsi que les
-décorations ;
+4° De fabriquer et commercialiser les instruments de marque, les poinçons de
+garantie métalliques des matières d'or, d'argent et de platine, les monnaies
+métalliques courantes étrangères, les monnaies de collection étrangères ainsi
+que les décorations ;
 
 5° De conserver, protéger, restaurer et présenter au public ses collections
 historiques et mettre en valeur le patrimoine immobilier historique dont il a la

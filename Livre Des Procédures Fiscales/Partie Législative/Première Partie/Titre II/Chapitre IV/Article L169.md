@@ -19,7 +19,7 @@ des entreprises a reçu une copie du compte rendu de mission prévu aux articles
 1649 quater E et 1649 quater H du code général des impôts. Cette réduction de
 délai ne s'applique pas aux contribuables pour lesquels des pénalités autres que
 les intérêts de retard auront été appliquées sur les périodes d'imposition non
-prescrites.
+prescrites visées au présent alinéa.
 
 Par exception aux dispositions du premier alinéa, le droit de reprise de
 l'administration s'exerce jusqu'à la fin de la dixième année qui suit celle au

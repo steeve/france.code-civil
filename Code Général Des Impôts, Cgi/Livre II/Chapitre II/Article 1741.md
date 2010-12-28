@@ -22,14 +22,9 @@ Toute personne condamnée en application des dispositions du présent article pe
 être privée des droits civiques, civils et de famille, suivant les modalités
 prévues par l'article 131-26 du code pénal.
 
-Le tribunal ordonnera dans tous les cas la publication intégrale ou par extraits
-des jugements dans le Journal officiel de la République française ainsi que dans
-les journaux désignés par lui et leur affichage intégral ou par extraits pendant
-trois mois sur les panneaux réservés à l'affichage des publications officielles
-de la commune où les contribuables ont leur domicile ainsi que sur la porte
-extérieure de l'immeuble du ou des établissements professionnels de ces
-contribuables. Les frais de la publication et de l'affichage dont il s'agit sont
-intégralement à la charge du condamné (1).
+La juridiction peut, en outre, ordonner l'affichage de la décision prononcée et
+la diffusion de celle-ci dans les conditions prévues aux articles 131-35 ou
+131-39 du code pénal.
 
 Les poursuites sont engagées dans les conditions prévues aux articles L. 229 à
 L. 231 du livre des procédures fiscales.

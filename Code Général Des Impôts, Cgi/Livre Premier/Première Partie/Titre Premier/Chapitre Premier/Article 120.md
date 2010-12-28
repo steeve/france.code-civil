@@ -48,6 +48,14 @@ attachés aux bons ou contrats de capitalisation ainsi qu'aux placements de mêm
 nature souscrits auprès d'entreprises d'assurance établies hors de France, lors
 du dénouement du contrat, et les gains de cessions de ces mêmes placements ;
 
+6° bis Les produits attachés aux prestations de retraite versées sous forme de
+capital et perçues en exécution d'un contrat souscrit auprès d'une entreprise
+établie hors de France, lorsque le bénéficiaire justifie que les sommes versées
+durant la phase de constitution des droits, y compris le cas échéant par
+l'employeur, n'étaient pas déductibles du revenu imposable et n'étaient pas
+afférentes à un revenu exonéré dans l'Etat auquel était attribué le droit
+d'imposer celui-ci ;
+
 7° Les intérêts, arrérages, et tous autres produits de rentes, obligations et
 autres effets publics des gouvernements étrangers ainsi que des corporations,
 villes, provinces étrangères et de tout autre établissement public étranger ;
@@ -55,8 +63,8 @@ villes, provinces étrangères et de tout autre établissement public étranger 
 8° Les lots et primes de remboursement payés aux créanciers et aux porteurs des
 titres visés aux 6° et 7° ;
 
-9° Les produits des "trusts" quelle que soit la consistance des biens composant
-ces trusts ;
+9° Les produits des " trusts " quelle que soit la consistance des biens
+composant ces trusts ;
 
 10° Les redevances (royalties) ou fractions de redevances dues pour
 l'exploitation des nappes de pétrole ou de gaz naturel ;

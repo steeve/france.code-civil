@@ -63,7 +63,7 @@ ministre du budget ;
 
 9° (Abrogé à compter du 1er janvier 1995).
 
-10° Les importations de gaz naturel ou d'électricité.
+10° Les importations de gaz naturel, d'électricité, de chaleur ou de froid .
 
 III Sont également exonérées de la taxe sur la valeur ajoutée :
 

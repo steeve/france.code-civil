@@ -34,7 +34,7 @@ mentionné aux articles 575 et 575 A du code général des impôts, pour le droi
 consommation sur les cigarettes dans leur circonscription administrative. Ce
 minimum de perception ne peut être supérieur au droit de consommation résultant
 de l'application du taux fixé par le conseil général au prix de vente au détail
-en France continentale des cigarettes de la classe de prix la plus demandée.
+en France continentale des cigarettes de la classe de prix de référence.
 
 Les conseils généraux des départements d'outre-mer peuvent également établir un
 minimum de perception fixé pour 1 000 grammes pour les tabacs fine coupe
@@ -58,8 +58,6 @@ Les conseils généraux des départements d'outre-mer peuvent fixer, par
 délibération, un prix de détail des cigarettes exprimé aux 1 000 unités et un
 prix de détail des tabacs fine coupe destinés à rouler des cigarettes exprimé
 aux 1 000 grammes, en deçà duquel ces différents produits du tabac ne peuvent
-être vendus dans leur circonscription administrative en raison de leur prix de
-nature promotionnelle au sens de l'article L. 3511-3 du code de la santé
-publique. Pour chacun de ces produits, ce prix est supérieur à 66 % et au plus
-égal à 110 % du prix de vente au détail déterminé pour la France continentale en
-application du premier alinéa du même article L. 3511-3.
+être vendus dans leur circonscription administrative. Pour chacun de ces
+produits, ce prix est supérieur à 66 % et au plus égal à 110 % de la moyenne
+pondérée des prix homologués mentionnée au 1.

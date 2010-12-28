@@ -90,6 +90,16 @@ substituent à des communautés urbaines relevant des troisième ou sixième ali
 du présent II, les dépenses réelles d'investissement à prendre en considération
 sont celles afférentes à l'exercice précédent.
 
+Toutefois restent soumis aux dispositions du sixième alinéa du présent II les
+bénéficiaires du fonds visés au même sixième alinéa dont les dépenses réelles
+d'équipement constatées conformément au septième alinéa, ajoutées aux restes à
+réaliser de dépenses d'équipement résultant d'un engagement du bénéficiaire
+intervenu entre le 1er janvier et le 31 décembre 2010, atteignent la moyenne de
+référence inscrite dans la convention signée avec le représentant de l'Etat. La
+sincérité des restes à réaliser est contrôlée au vu d'un état déclaratif
+transmis par l'ordonnateur accompagné des pièces justifiant le rattachement à
+l'année 2010 des restes à réaliser.
+
 Pour les communes membres d'établissements publics de coopération intercommunale
 qui appliquent le régime prévu à l'article L. 5211-28-2, les dépenses réelles
 d'investissement à prendre en considération sont celles afférentes à l'exercice

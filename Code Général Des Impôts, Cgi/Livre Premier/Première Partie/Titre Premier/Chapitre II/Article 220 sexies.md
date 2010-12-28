@@ -54,8 +54,7 @@ III.-1. Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 
 du montant total des dépenses suivantes effectuées en France :
 
 a) Les rémunérations versées aux auteurs énumérés à l'article L. 113-7 du code
-de la propriété intellectuelle sous forme d'avances à valoir sur les recettes
-d'exploitation des oeuvres, ainsi que les charges sociales afférentes ;
+de la propriété intellectuelle , ainsi que les charges sociales afférentes ;
 
 b) Les rémunérations versées aux artistes-interprètes mentionnés à l'article L.
 212-4 du code précité, par référence pour chacun d'eux, à la rémunération
@@ -100,9 +99,9 @@ VI.-1. La somme des crédits d'impôt calculés au titre d'une même oeuvre
 cinématographique ne peut excéder 1 million d'euros.
 
 2. La somme des crédits d'impôt calculés au titre d'une même oeuvre
-audiovisuelle ne peut excéder 1 150 Euros par minute produite et livrée pour une
-oeuvre de fiction ou documentaire et 1 200 Euros par minute produite et livrée
-pour une oeuvre d'animation.
+audiovisuelle ne peut excéder 1 150 € par minute produite et livrée pour une
+oeuvre de fiction ou documentaire et 1 200 € par minute produite et livrée pour
+une oeuvre d'animation.
 
 3. En cas de coproduction déléguée, le crédit d'impôt est accordé à chacune des
 entreprises de production proportionnellement à sa part dans les dépenses

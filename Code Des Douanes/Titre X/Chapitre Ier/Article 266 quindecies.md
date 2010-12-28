@@ -20,7 +20,9 @@ exprimées en pouvoir calorifique inférieur, de produits mentionnés au tableau
 
 Toutefois, les biocarburants désignés au 2 du tableau précité sont pris en
 compte pour le double de leur valeur réelle en pouvoir calorifique inférieur,
-dans des conditions précisées par arrêté du ministre chargé du budget.
+dans des conditions précisées par arrêté du ministre chargé du budget et dans la
+limite de la moitié des quantités agréées spécifiquement pour les esters
+méthyliques d'huile animale.
 
 Les modalités d'émission et de cession éventuelle des certificats sont précisées
 par décret.

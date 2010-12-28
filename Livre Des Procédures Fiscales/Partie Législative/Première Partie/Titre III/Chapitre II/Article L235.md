@@ -8,11 +8,12 @@ L'administration instruit et défend sur l'instance portée devant le tribunal. 
 cas d'infraction touchant à la fois au régime fiscal et au régime économique de
 l'alcool, le service désigné par décret est seul chargé des poursuites.
 
-Pour les affaires dans lesquelles des agents de l'administration des douanes ont
-été requis en application des I et II de l'article 28-1 du code de procédure
-pénale, le ministère public exerce l'action publique et l'action pour
-l'application des sanctions fiscales. Dans ce cas, les dispositions de l'article
-L. 248 relatives au droit de transaction ne sont pas applicables.
+Dans les procédures dont les agents des douanes ont été saisis en application
+des I et II de l'article 28-1 du code de procédure pénale, le ministère public
+exerce l'action publique et l'action pour l'application des sanctions fiscales.
+Sur autorisation du ministère public, l'action pour l'application des sanctions
+fiscales peut être exercée par l'administration des douanes et, dans ce cas, le
+3° de l'article L. 247 et l'article L. 248 du présent livre sont applicables.
 
 Dans ces mêmes procédures, l'administration des douanes exerce l'action en
 paiement des droits et taxes compromis ou éludés, prévue par l'article 1804 B du

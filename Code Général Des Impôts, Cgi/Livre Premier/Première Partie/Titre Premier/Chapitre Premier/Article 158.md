@@ -12,8 +12,8 @@ des bénéfices imposables ne sont pas applicables.
 2. Le revenu net foncier est déterminé conformément aux dispositions des
 articles 14 à 33 quinquies.
 
-3. 1° Les revenus de capitaux mobiliers comprennent tous les revenus visés au
-VII de la 1ère sous-section de la présente section, à l'exception des revenus
+3.1° Les revenus de capitaux mobiliers comprennent tous les revenus visés au VII
+de la 1ère sous-section de la présente section, à l'exception des revenus
 expressément affranchis de l'impôt en vertu de l'article 157 et des revenus
 ayant supporté les prélèvements visés aux articles 117 quater et 125 A.
 
@@ -77,11 +77,11 @@ de cette Communauté partie à l'accord sur l'Espace économique européen ayant
 conclu une convention fiscale qui contient une clause d'assistance
 administrative en vue de lutter contre la fraude ou l'évasion fiscale, qui
 bénéficient de la procédure de reconnaissance mutuelle des agréments prévue par
-la directive 85 / 611 / CE du Conseil du 20 décembre 1985 portant coordination
-des dispositions législatives, réglementaires et administratives concernant
-certains organismes de placement collectif en valeurs mobilières (OPCVM) ;
+la directive 85/611/ CE du Conseil du 20 décembre 1985 portant coordination des
+dispositions législatives, réglementaires et administratives concernant certains
+organismes de placement collectif en valeurs mobilières (OPCVM) ;
 
-c. Les sociétés mentionnées aux 1° bis, 1° ter et 3° septies de l'article 208.
+c. Les sociétés mentionnées aux 1° bis,1° ter et 3° septies de l'article 208.
 
 d. Les fonds de placement immobilier mentionnés à l'article 239 nonies.
 
@@ -102,7 +102,7 @@ acquisition ou conservation.
 
 4. Les bénéfices des professions industrielles, commerciales, artisanales et
 ceux de l'exploitation minière sont déterminés conformément aux dispositions des
-articles 34 à 61 A, 237 ter A, et 302 septies A bis ; les rémunérations
+articles 34 à 61 A,237 ter A, et 302 septies A bis ; les rémunérations
 mentionnées à l'article 62 sont déterminées conformément aux dispositions de cet
 article ; les bénéfices de l'exploitation agricole sont déterminées conformément
 aux dispositions des articles 63 à 78 et des articles L1 à L4 du livre des
@@ -164,6 +164,13 @@ b quater. Les dispositions du a sont applicables aux pensions servies au titre
 des plans d'épargne retraite populaire prévus à l'article L. 144-2 du code des
 assurances ;
 
+b quinquies. Sous réserve de l'application du 6° bis de l'article 120, le a est
+applicable aux prestations de retraite versées sous forme de capital, à
+l'exception de celles versées en exercice des facultés de rachat prévues aux
+troisième à septième alinéas de l'article L. 132-23 du code des assurances. Le
+bénéficiaire peut toutefois demander le bénéfice des dispositions du II de
+l'article 163 bis du présent code.
+
 c. Lorsque, étant en instance de séparation de corps ou de divorce, les époux
 font l'objet d'impositions distinctes par application des dispositions du b du 4
 de l'article 6, la provision alimentaire qui est allouée à l'un d'eux pour son
@@ -192,13 +199,13 @@ revenu, pour l'application de l'impôt sur le revenu dû par le crédirentier, q
 pour une fraction de leur montant. Cette fraction, déterminée d'après l'âge du
 crédirentier lors de l'entrée en jouissance de la rente, est fixée à :
 
-- 70 % si l'intéressé est âgé de moins de 50 ans ;
+-70 % si l'intéressé est âgé de moins de 50 ans ;
 
-- 50 % s'il est âgé de 50 à 59 ans inclus ;
+-50 % s'il est âgé de 50 à 59 ans inclus ;
 
-- 40 % s'il est âgé de 60 à 69 ans inclus ;
+-40 % s'il est âgé de 60 à 69 ans inclus ;
 
-- 30 % s'il est âgé de plus de 69 ans.
+-30 % s'il est âgé de plus de 69 ans.
 
 La fraction de rentes viagères définie ci-dessus est imposée dans les mêmes
 conditions que les revenus énumérés à l'article 124.
@@ -208,8 +215,8 @@ cotisations ayant fait l'objet de la déduction prévue au I de l'article 163
 quatervicies.
 
 7. Le montant des revenus et charges énumérés ci-après, retenu pour le calcul de
-l'impôt selon les modalités prévues à l'article 197, est multiplié par 1, 25.
-Ces dispositions s'appliquent :
+l'impôt selon les modalités prévues à l'article 197, est multiplié par 1,25. Ces
+dispositions s'appliquent :
 
 1° Aux titulaires de revenus passibles de l'impôt sur le revenu, dans la
 catégorie des bénéfices industriels et commerciaux ou des bénéfices non

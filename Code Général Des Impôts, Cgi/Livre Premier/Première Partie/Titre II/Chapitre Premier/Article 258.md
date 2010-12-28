@@ -1,6 +1,6 @@
 Article 258
 ----
-I. - Le lieu de livraison de biens meubles corporels est réputé se situer en
+I.-Le lieu de livraison de biens meubles corporels est réputé se situer en
 France lorsque le bien se trouve en France :
 
 a) Au moment de l'expédition ou du transport par le vendeur, par l'acquéreur, ou
@@ -23,12 +23,12 @@ l'importateur ou pour son compte ainsi que le lieu d'éventuelles livraisons
 subséquentes est réputé se situer en France, lorsque les biens sont importés en
 France.
 
-II. - Le lieu des opérations visées au I de l'article 257 et au 5° bis de
+II.-Le lieu des opérations visées au I de l'article 257 et au 5° bis de
 l'article 260 se situe en France lorsqu'elles portent sur des immeubles situés
 en France.
 
-III. - Le lieu de livraison du gaz naturel ou de l'électricité est situé en
-France :
+III.-Le lieu de livraison du gaz naturel, de l'électricité, de la chaleur ou du
+froid est situé en France :
 
 a. lorsqu'ils sont consommés en France ;
 

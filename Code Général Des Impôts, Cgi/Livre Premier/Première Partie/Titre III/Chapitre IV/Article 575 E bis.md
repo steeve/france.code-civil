@@ -5,11 +5,12 @@ qui y sont importés sont soumis à un droit de consommation.
 
 Pour les cigarettes, ce droit de consommation, par dérogation au taux normal
 mentionné à l'article 575 A, et dans la limite d'un contingent de 1 200 tonnes
-par an, est déterminé conformément au dispositions des deuxième, quatrième et
-cinquième alinéas de l'article 575.
+par an, est déterminé conformément au dispositions des deuxième à cinquième,
+septième et huitième alinéas de l'article 575. La classe de prix de référence
+est calculée sur la base des mises à la consommation réalisées en Corse.
 
-La part spécifique est égale à 5 % de la charge fiscale totale afférente aux
-cigarettes de la classe de prix la plus demandée et comprenant le droit de
+La part spécifique est égale à 6,5 % de la charge fiscale totale afférente aux
+cigarettes de la classe de prix de référence et comprenant le droit de
 consommation et la taxe sur la valeur ajoutée.
 
 Les tabacs manufacturés autres que les cigarettes sont soumis à un taux normal
@@ -19,29 +20,40 @@ Pour les différents groupes de produits mentionnés aux alinéas précédents, 
 taux normal du droit de consommation applicable dans les départements de Corse
 est fixé conformément au tableau ci-après :
 
-GROUPE DE PRODUITS : Cigarettes
 
-TAUX NORMAL (en %) : 44
+GROUPE DE PRODUITS
 
-GROUPE DE PRODUITS : Cigares
+TAUX NORMAL (en %)
 
-TAUX NORMAL (en %) : 10
 
-GROUPE DE PRODUITS : Tabacs fine coupe destinés à rouler les cigarettes
+Cigarettes
 
-TAUX NORMAL (en %) : 27
+45
 
-GROUPE DE PRODUITS : Autres tabacs à fumer
 
-TAUX NORMAL (en %) : 22
+Cigares
 
-GROUPE DE PRODUITS : Tabacs à priser
+10
 
-TAUX NORMAL (en %) : 15
 
-GROUPE DE PRODUITS : Tabacs à mâcher
+Tabacs fine coupe destinés à rouler les cigarettes
 
-TAUX NORMAL (en %) : 13.
+27
+
+
+Autres tabacs à fumer
+
+22
+
+
+Tabacs à priser
+
+15
+
+
+Tabacs à mâcher
+
+13
 
 II.-Pour les cigarettes, le prix de vente au détail appliqué dans les
 départements de Corse est au moins égal à 75 % des prix de vente continentaux

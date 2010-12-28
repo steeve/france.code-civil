@@ -1,9 +1,9 @@
 Article 1727
 ----
-I. - Toute somme, dont l'établissement ou le recouvrement incombe à la direction
-générale des impôts, qui n'a pas été acquittée dans le délai légal donne lieu au
-versement d'un intérêt de retard. A cet intérêt s'ajoutent, le cas échéant, les
-sanctions prévues au présent code.
+I. - Toute créance de nature fiscale, dont l'établissement ou le recouvrement
+incombe aux administrations fiscales, qui n'a pas été acquittée dans le délai
+légal donne lieu au versement d'un intérêt de retard. A cet intérêt s'ajoutent,
+le cas échéant, les sanctions prévues au présent code.
 
 II. - L'intérêt de retard n'est pas dû :
 
@@ -68,8 +68,8 @@ groupes mentionnés à l'article 223 A, l'insuffisance des chiffres déclarés
 s'apprécie pour chaque société.
 
 III. - Le taux de l'intérêt de retard est de 0,40 % par mois. Il s'applique sur
-le montant des sommes mises à la charge du contribuable ou dont le versement a
-été différé.
+le montant des créances de nature fiscale mises à la charge du contribuable ou
+dont le versement a été différé.
 
 IV. - 1. L'intérêt de retard est calculé à compter du premier jour du mois
 suivant celui au cours duquel l'impôt devait être acquitté jusqu'au dernier jour
@@ -96,15 +96,15 @@ retard est arrêté au dernier jour du mois de la proposition de rectification o
 en cas d'échelonnement des impositions supplémentaires, du mois au cours duquel
 le rôle doit être mis en recouvrement.
 
-5. En cas de retard de paiement d'une somme devant être acquittée auprès d'un
-comptable de la direction générale des impôts, l'intérêt de retard est calculé à
-compter du premier jour du mois qui suit la date limite de dépôt de la
-déclaration ou de l'acte comportant reconnaissance par le contribuable de sa
-dette ou, à défaut, la réception de l'avis de mise en recouvrement émis par le
-comptable. Pour toute somme devant être acquittée sans déclaration préalable,
-l'intérêt est calculé à partir du premier jour du mois suivant celui au cours
-duquel le principal aurait dû être acquitté jusqu'au dernier jour du mois du
-paiement.
+5. En cas de retard de paiement d'une créance de nature fiscale devant être
+acquittée auprès d'un comptable des administrations fiscales, l'intérêt de
+retard est calculé à compter du premier jour du mois qui suit la date limite de
+dépôt de la déclaration ou de l'acte comportant reconnaissance par le
+contribuable de sa dette ou, à défaut, la réception de l'avis de mise en
+recouvrement émis par le comptable. Pour toute créance de nature fiscale devant
+être acquittée sans déclaration préalable, l'intérêt est calculé à partir du
+premier jour du mois suivant celui au cours duquel le principal aurait dû être
+acquitté jusqu'au dernier jour du mois du paiement.
 
 6. Lorsqu'il est fait application de l'article L. 188 A du livre des procédures
 fiscales, le décompte de l'intérêt de retard est arrêté au dernier jour du mois

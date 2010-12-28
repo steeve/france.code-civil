@@ -5,9 +5,10 @@ principale, et les locaux visés au troisième alinéa de l'article L. 315-1 son
 accordés pour le financement des dépenses de construction, d'acquisition,
 d'extension ou de certaines dépenses de réparation et d'amélioration.
 
-Les prêts d'épargne-logement concernant les logements ayant une autre
-destination sont accordés pour le financement des dépenses de construction,
-d'extension ou de certaines dépenses de réparation et d'amélioration.
+Pour les comptes d'épargne-logement ouverts avant le 1er mars 2011, les prêts
+d'épargne-logement concernant les logements ayant une autre destination sont
+accordés pour le financement des dépenses de construction, d'extension ou de
+certaines dépenses de réparation et d'amélioration.
 
 Les prêts d'épargne-logement accordés entre le 1er janvier 1996 et le 31
 décembre 1996 peuvent être affectés au financement des dépenses d'acquisition de

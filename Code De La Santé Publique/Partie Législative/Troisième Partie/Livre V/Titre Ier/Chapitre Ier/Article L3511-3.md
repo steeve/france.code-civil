@@ -3,7 +3,7 @@ Article L3511-3
 La propagande ou la publicité, directe ou indirecte, en faveur du tabac, des
 produits du tabac ou des ingrédients définis au deuxième alinéa de l'article L.
 3511-1 ainsi que toute distribution gratuite ou vente d'un produit du tabac à un
-prix de nature promotionnelle contraire aux objectifs de santé publique sont
+prix inférieur à celui mentionné à l'article 572 du code général des impôts sont
 interdites.
 
 Ces dispositions ne s'appliquent pas aux enseignes des débits de tabac, ni aux

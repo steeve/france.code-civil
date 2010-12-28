@@ -40,7 +40,7 @@ France ou pour leur compte ;
 2° Les opérations de livraison, de réparation, de transformation, d'entretien,
 d'affrètement et de location portant sur :
 
-- les navires de commerce maritime ;
+- les navires de commerce maritime affectés à la navigation en haute mer ;
 
 - les bateaux utilisés pour l'exercice d'une activité industrielle en haute mer
 ;
@@ -66,7 +66,9 @@ pour leur exploitation en vol ;
 
 6° Les livraisons de biens destinés à l'avitaillement des bateaux et des
 aéronefs désignés aux 2° et 4°, ainsi que des bateaux de guerre, tels qu'ils
-sont définis à la sous-position 89-01 du tarif douanier commun ;
+sont définis à la sous-position 89-01 du tarif douanier commun, à l'exclusion
+des provisions de bord destinées aux bateaux affectés à la petite pêche côtière
+;
 
 7° Les prestations de services effectuées pour les besoins directs des bateaux
 ou des aéronefs désignés aux 2° et 4° et de leur cargaison ;

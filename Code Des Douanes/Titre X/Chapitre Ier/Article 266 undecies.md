@@ -6,7 +6,7 @@ compter de l'année 2009 sous la forme d'une déclaration annuelle et de trois
 acomptes. Ces acomptes font l'objet d'un paiement au plus tard les 30 avril, 31
 juillet et 31 octobre de l'année au titre de laquelle la taxe est due. Chaque
 acompte est égal à un tiers du montant obtenu en appliquant à la base des
-opérations mentionnées aux 1, 1 bis, 2, 4, 5 et 6 de l'article 266 septies
+opérations mentionnées aux 1, 1 bis, 2, 4, 5, 6 et 10 de l'article 266 septies
 réalisées l'année précédente les tarifs en vigueur à compter du 1er janvier de
 l'année au titre de laquelle la taxe est due.
 

@@ -25,8 +25,10 @@ héritiers pour l'établissement de l'impôt sur le revenu dont ces derniers son
 passibles.
 
 2. La déclaration des revenus imposables en vertu du présent article est
-produite par les ayants droit du défunt dans les six mois de la date du décès.
-Elle est soumise aux règles et sanctions prévues à l'égard des déclarations
+produite par les ayants droit du défunt. Le cas échéant, le notaire chargé de la
+succession peut produire cette déclaration à la demande des ayants droit si la
+succession n'est pas liquidée à la date de production de la déclaration. Elle
+est soumise aux règles et sanctions prévues à l'égard des déclarations
 annuelles. Les demandes d'éclaircissements et de justifications prévues par les
 articles L 10 et L 16 du livre des procédures fiscales ainsi que les
 propositions de rectification mentionnées à l'article L 57 du même livre peuvent

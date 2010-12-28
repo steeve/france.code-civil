@@ -22,15 +22,15 @@ prévu aux articles 298 quater et 298 quinquies.
 Ces dispositions ne sont applicables que lorsque le montant des acquisitions
 réalisées par les personnes mentionnées ci-dessus n'a pas excédé, au cours de
 l'année civile précédente, ou n'excède pas, pendant l'année civile en cours au
-moment de l'acquisition, le seuil de 10 000 euros.
+moment de l'acquisition, le seuil de 10 000 €.
 
 Ce montant est égal à la somme, hors taxe sur la valeur ajoutée, des
 acquisitions de biens, autres que des moyens de transport neufs, les alcools,
 les boissons alcooliques, les huiles minérales et les tabacs manufacturés, ayant
 donné lieu à une livraison de biens située dans un autre Etat membre de la
 Communauté européenne, en application des dispositions de la législation de cet
-Etat prise pour la mise en oeuvre des articles 31 à 39 de la directive 2006 /
-112 / CE du Conseil du 28 novembre 2006.
+Etat prise pour la mise en oeuvre des articles 31 à 39 de la directive 2006/112/
+CE du Conseil du 28 novembre 2006.
 
 2° bis Les acquisitions intracommunautaires de biens d'occasion d'oeuvres d'art,
 d'objets de collection ou d'antiquité effectuées à titre onéreux par un
@@ -39,7 +39,7 @@ sont pas soumises à la taxe sur la valeur ajoutée lorsque le vendeur ou
 l'assujetti est un assujetti revendeur qui a appliqué dans l'Etat membre de
 départ de l'expédition ou du transport du bien les dispositions de la
 législation de cet Etat prises pour la mise en oeuvre des articles 312 à 325 ou
-333 à 341 de la directive 2006 / 112 / CE du Conseil du 28 novembre 2006.
+333 à 341 de la directive 2006/112/ CE du Conseil du 28 novembre 2006.
 
 3° Est considérée comme acquisition intracommunautaire l'obtention du pouvoir de
 disposer comme un propriétaire d'un bien meuble corporel expédié ou transporté
@@ -69,9 +69,9 @@ d) A faire l'objet de livraisons à bord des moyens de transport, effectués par
 l'assujetti, dans les conditions mentionnées au d du I de l'article 258.
 
 N'est pas assimilée à une acquisition intracommunautaire l'affectation en France
-de gaz naturel ou d'électricité à partir d'un autre Etat membre pour les besoins
-d'une livraison imposable dans les conditions mentionnées au III de l'article
-258.
+de gaz naturel, d'électricité, de chaleur ou de froid à partir d'un autre Etat
+membre pour les besoins d'une livraison imposable dans les conditions
+mentionnées au III de l'article 258.
 
 3° La réception en France, par une personne morale non assujettie, d'un bien
 qu'elle a importé sur le territoire d'un autre Etat membre de la Communauté

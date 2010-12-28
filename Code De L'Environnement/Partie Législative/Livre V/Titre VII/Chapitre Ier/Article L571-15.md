@@ -5,8 +5,3 @@ aérodrome mentionné au I de l'article 1609 quatervicies A du code général de
 impôts, un plan de gêne sonore, constatant la gêne réelle subie autour de ces
 aérodromes, dont les modalités d'établissement et de révision sont définies par
 décret.
-
-Un plan de gêne sonore commun est institué pour deux ou plusieurs aérodromes
-dont les zones de bruit se recouvrent partiellement et dont l'un au moins est
-soumis à l'obligation d'instituer un plan de gêne sonore en application de
-l'alinéa précédent.

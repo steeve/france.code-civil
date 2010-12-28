@@ -50,7 +50,7 @@ f bis. Pour les prestations effectuées par un fiduciaire, par la rémunération
 versée par le constituant ou retenue sur les recettes de l'exploitation des
 droits et biens du patrimoine fiduciaire ;
 
-g. (abrogé) ;
+g. (Abrogé) ;
 
 h. (Abrogé à compter du 1er janvier 2001).
 
@@ -63,7 +63,7 @@ celui du dernier taux déterminé par référence au cours publié par la Banque
 France à partir du cours fixé par la Banque centrale européenne, connu au jour
 de l'exigibilité de la taxe prévue au 2 de l'article 269.
 
-1 ter a. (abrogé).
+1 ter a. (Abrogé).
 
 b. (dispositions devenues sans objet).
 
@@ -83,23 +83,7 @@ l'article L17 du livre des procédures fiscales, si cette valeur vénale est
 supérieure au prix, au montant de l'indemnité ou à la valeur des droits sociaux,
 augmenté des charges.
 
-Toutefois, dans le cas de cession de droits sociaux, un décret peut diminuer la
-base d'imposition ainsi définie du montant des sommes investies par le cédant
-pour la souscription ou l'acquisition desdits droits. Dans cette hypothèse, les
-dispositions de l'article 271 cessent de s'appliquer ;
-
-b bis. Pour la cession du bénéfice d'un contrat de location-attribution ou de
-location-vente entrant dans les prévisions de l'article 1378 quinquies, sur la
-différence entre :
-
-D'une part, le prix exprimé et les charges qui peuvent s'y ajouter ;
-
-D'autre part, les sommes versées par le cédant en vue de l'acquisition du
-logement.
-
-Ces dispositions s'appliquent aux offices publics de l'habitat pour les
-opérations faites en application de la législation sur les habitations à loyer
-modéré.
+b bis. (Abrogé).
 
 3. (dispositions devenues sans objet).
 

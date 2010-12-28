@@ -34,3 +34,10 @@ en faveur des agriculteurs dans le cadre de la politique agricole commune et
 établissant certains régimes de soutien en faveur des agriculteurs, modifiant
 les règlements (CE) n° 1290 / 2005, (CE) n° 247 / 2006 et (CE) n° 378 / 2007, et
 abrogeant le règlement (CE) n° 1782 / 2003.
+
+Sont aussi considérés comme bénéfices de l'exploitation agricole les revenus qui
+proviennent des activités de courses en attelage, d'enseignement de la conduite
+et du travail avec les chiens et de prestations de transports en traîneaux ou de
+louage de traîneaux quand elles sont réalisées par des conducteurs de chiens
+attelés titulaires du diplôme d'Etat de la jeunesse, de l'éducation populaire et
+du sport mention "attelages canins”.

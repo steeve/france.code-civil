@@ -111,8 +111,16 @@ la taxe sur la valeur ajoutée, réalisées par un exploitant agricole soumis po
 ses opérations agricoles au régime simplifié prévu au I peuvent être imposées
 selon ce régime lorsqu'au titre de la période couvrant les trois années
 d'imposition précédentes, la moyenne annuelle des recettes accessoires, taxes
-comprises, de ces trois années n'excède pas 50 000 euros et 30 % du montant des
-recettes taxes comprises provenant de ses activités agricoles.
+comprises, de ces trois années n'excède pas 50 000 euros et 30 % de la moyenne
+annuelle des recettes, taxes comprises, provenant de ses activités agricoles, au
+titre desdites années.
+
+Par dérogation au précédent alinéa, les recettes accessoires commerciales et non
+commerciales, passibles de la taxe sur la valeur ajoutée, réalisées au titre des
+trois premières années d'activité par un exploitant agricole soumis pour ses
+opérations agricoles au régime simplifié prévu au I peuvent être imposées selon
+ce régime sous réserve du respect des dispositions visées au deuxième alinéa de
+l'article 75.
 
 Il en est de même des recettes des activités de production d'électricité
 d'origine photovoltaïque ou éolienne, passibles de la taxe sur la valeur

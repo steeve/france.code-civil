@@ -7,13 +7,13 @@ Elle est assise sur le message publicitaire selon les tarifs suivants :
 
 a) abrogé
 
-b) 3,80 euros par message dont le prix est supérieur à 150 euros et au plus égal
-à 1 520 euros ;
+b) 3,80 € par message dont le prix est supérieur à 500 € et au plus égal à 1 520
+€ ;
 
-c) 20,60 euros par message dont le prix est supérieur à 1 520 euros et au plus
-égal à 9 150 euros ;
+c) 20,60 € par message dont le prix est supérieur à 1 520 € et au plus égal à 9
+150 € ;
 
-d) 34,30 euros par message dont le prix est supérieur à 9 150 euros.
+d) 34,30 € par message dont le prix est supérieur à 9 150 €.
 
 Ces prix s'entendent hors taxes.
 

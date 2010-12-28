@@ -47,4 +47,7 @@ du 8 du I de l'article 266 sexies ;
 
 9. L'émission d'imprimés papiers et la mise sur le marché des papiers à usage
 graphique par les personnes et dans les conditions mentionnées au 9 du I de
-l'article 266 sexies.
+l'article 266 sexies ;
+
+10. La première livraison ou la première utilisation des sacs de caisse à usage
+unique en matière plastique mentionnés au 10 du I de l'article 266 sexies.

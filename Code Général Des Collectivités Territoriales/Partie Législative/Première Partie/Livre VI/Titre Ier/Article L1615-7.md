@@ -34,7 +34,7 @@ immobilisations affectées à l'usage d'alpage.
 
 Les collectivités territoriales et leurs groupements bénéficient des
 attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au
-titre de leurs dépenses d'investissement réalisées sur la période 2003-2010,
+titre de leurs dépenses d'investissement réalisées sur la période 2003-2014,
 sous maîtrise d'ouvrage publique, en matière d'infrastructures passives
 intégrant leur patrimoine dans le cadre du plan d'action relatif à l'extension
 de la couverture du territoire par les réseaux de téléphonie mobile et d'accès à

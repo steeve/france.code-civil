@@ -32,8 +32,8 @@ professionnelle ou un droit mentionné au présent article.
 
 11° Services de radiodiffusion et de télévision ;
 
-12° Services fournis par voie électronique fixés par décret .
+12° Services fournis par voie électronique fixés par décret.
 
 13° accès aux réseaux de transport et de distribution d'électricité ou de gaz
-naturel, acheminement par ces réseaux et tous les autres services qui lui sont
-directement liés.
+naturel, accès aux réseaux de chauffage ou de refroidissement, acheminement par
+ces réseaux et tous les autres services qui lui sont directement liés.

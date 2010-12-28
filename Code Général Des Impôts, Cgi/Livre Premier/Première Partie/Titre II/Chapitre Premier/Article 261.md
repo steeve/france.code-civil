@@ -124,6 +124,10 @@ sont rémunérées directement par leurs élèves ;
 établissements visés aux deux premiers alinéas de l'article L. 2324-1 du code de
 la santé publique et assurant l'accueil des enfants de moins de trois ans ; (1)
 
+8° ter Les prestations de services réalisées par les mandataires judiciaires à
+la protection des majeurs au sens de l'article L. 471-2 du code de l'action
+sociale et des familles ;
+
 9° les prestations de services et les livraisons de biens qui leur sont
 étroitement liées fournies à leurs membres, moyennant une cotisation fixée
 conformément aux statuts, par des organismes légalement constitués agissant sans
