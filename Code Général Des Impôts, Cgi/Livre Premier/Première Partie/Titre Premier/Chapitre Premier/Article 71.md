@@ -10,9 +10,10 @@ prévue pour les exploitants individuels multipliée par le nombre d'associés, 
 l'exception des associés dont l'âge excède, au premier jour de l'exercice, celui
 auquel leur est ouvert le droit à une pension de retraite. Toutefois, elle est
 égale à la limite prévue pour les exploitants individuels multipliée par le
-nombre d'associés, à l'exception des associés âgés de plus de soixante ans au
-premier jour de l'exercice, lorsque la moyenne des recettes du groupement est
-inférieure ou égale à 230 000 euros.
+nombre d'associés, à l'exception des associés dont l'âge excède, au premier jour
+de l'exercice, celui auquel leur est ouvert le droit à une pension de retraite,
+lorsque la moyenne des recettes du groupement est inférieure ou égale à 230 000
+€.
 
 2° (abrogé)
 
