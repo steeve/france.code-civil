@@ -32,3 +32,6 @@ remplie.
 
 La valeur de service du point est égale à 0,493 euros pour les prestations
 servies au titre de l'année 2005.
+
+Le versement de cotisations effectué en application de l'article L. 643-2-1
+n'ouvre pas droit à l'attribution de points de retraite supplémentaires.
