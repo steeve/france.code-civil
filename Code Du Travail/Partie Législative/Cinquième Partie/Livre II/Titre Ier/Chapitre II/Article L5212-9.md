@@ -10,6 +10,6 @@ l'entreprise et des emplois, déterminés par décret, exigeant des conditions
 d'aptitude particulières, occupés par des salariés de l'entreprise. Il tient
 également compte de l'effort consenti par l'entreprise en matière de maintien
 dans l'emploi ou de recrutement direct des bénéficiaires mentionnés à l'article
-L. 5212-13, notamment ceux pour lesquels l'autorité administrative, après avis
-éventuel de l'inspection du travail, a reconnu la lourdeur du handicap, ou de
-ceux rencontrant des difficultés particulières d'accès à l'emploi.
+L. 5212-13, notamment ceux pour lesquels l'association mentionnée à l'article L.
+5214-1, a reconnu la lourdeur du handicap, ou de ceux rencontrant des
+difficultés particulières d'accès à l'emploi.

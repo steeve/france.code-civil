@@ -3,7 +3,7 @@ Article L5213-11
 Pour l'application des dispositions de l'article L. 5213-7 relatives au salaire
 du travailleur handicapé, une aide financée par le fonds de développement pour
 l'insertion professionnelle des handicapés peut être attribuée sur décision de
-l'autorité administrative, après avis éventuel de l'inspecteur du travail.
+l'association mentionnée à l'article L. 5214-1.
 
 Cette aide, demandée par l'employeur, peut être allouée en fonction des
 caractéristiques des bénéficiaires.

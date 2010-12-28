@@ -12,7 +12,10 @@ l'Etat. Ce fonds est réparti en trois sections dénommées ainsi qu'il suit :
 
 Ce fonds a pour mission de favoriser l'insertion professionnelle des personnes
 handicapées au sein des trois fonctions publiques, ainsi que la formation et
-l'information des agents en prise avec elles.
+l'information des agents en prise avec elles. Il assure le financement et la
+mise en œuvre des parcours de formation professionnelle préqualifiante et
+certifiante des demandeurs d'emploi handicapés qui sont recrutés dans la
+fonction publique.
 
 Peuvent bénéficier du concours de ce fonds les employeurs publics mentionnés à
 l'article 2 du titre Ier du statut général des fonctionnaires et l'exploitant
