@@ -13,7 +13,7 @@ de conservation et de vente de produits agricoles, à l'exception des
 rétrocessions que ces coopératives consentent à leurs sociétaires non redevables
 pour les besoins de leur consommation familiale ;
 
-4°,4° bis,4° ter et 5° (Abrogés) ;
+4°, 4° bis, 4° ter et 5° (Abrogés) ;
 
 6° Sous réserve du 7° :
 
@@ -110,20 +110,19 @@ représentant de l'Etat dans le département et destinées aux personnes visées
 II de l'article L. 301-1 du code de la construction et de l'habitation.
 
 de logements sociaux à usage locatif construits par l'association mentionnée à
-l'article 116 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre
-2001), ou par les sociétés civiles immobilières dont cette association détient
-la majorité des parts lorsqu'elles ont conclu avec l'Etat une convention en
-application du 4° de l'article L. 351-2 du code de la construction et de
-l'habitation.
+l'article L. 313-34 du code de la construction et de l'habitation, ou par les
+sociétés civiles immobilières dont cette association détient la majorité des
+parts lorsqu'elles ont conclu avec l'Etat une convention en application du 4° de
+l'article L. 351-2 du code de la construction et de l'habitation.
 
 de logements à usage locatif construits par l'association mentionnée à l'article
-116 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre 2001) ou par
-les sociétés civiles immobilières dont cette association détient la majorité des
-parts, dans des quartiers faisant l'objet d'une convention prévue à l'article 10
-de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la
-ville et la rénovation urbaine et destinés à être occupés par des ménages dont
-le total des ressources n'excède pas le montant mentionné à l'article R. 391-8
-du code de la construction et de l'habitation.
+L. 313-34 du code de la construction et de l'habitation ou par les sociétés
+civiles immobilières dont cette association détient la majorité des parts, dans
+des quartiers faisant l'objet d'une convention prévue à l'article 10 de la loi
+n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et
+la rénovation urbaine et destinés à être occupés par des ménages dont le total
+des ressources n'excède pas le montant mentionné à l'article R. 391-8 du code de
+la construction et de l'habitation.
 
 de locaux d'établissements mentionnés aux 6° et 7° du I de l'article L. 312-1 du
 code de l'action sociale et des familles, agissant sans but lucratif et dont la
@@ -165,8 +164,8 @@ pris en compte pour l'application du 2.
 3. abrogé
 
 7° bis Sous réserve de l'application du 7°, et dans la mesure où ces travaux
-portent sur des logements sociaux à usage locatif mentionnés aux 2°,3°,4° et 5°
-de l'article L. 351-2 du code de la construction et de l'habitation, les
+portent sur des logements sociaux à usage locatif mentionnés aux 2°, 3°, 4° et
+5° de l'article L. 351-2 du code de la construction et de l'habitation, les
 livraisons à soi-même :
 
 a. De travaux d'amélioration mentionnés à l'article R. 323-3 du code de la
@@ -185,9 +184,9 @@ travaux de nettoyage.
 
 d) De travaux d'amélioration, de transformation, d'aménagement ou d'entretien,
 autres que l'entretien des espaces verts et les travaux de nettoyage, par
-l'association mentionnée à l'article 116 de la loi de finances pour 2002
-précitée ou par les sociétés civiles immobilières dont cette association détient
-la majorité des parts.
+l'association mentionnée à l'article L. 313-34 du code de la construction et de
+l'habitation précitée ou par les sociétés civiles immobilières dont cette
+association détient la majorité des parts.
 
 Un décret en Conseil d'Etat définit les conditions d'application des b et c ;
 
@@ -211,13 +210,13 @@ bénéficiant du taux réduit de taxe sur la valeur ajoutée prévu par l'articl
 7° quinquies Sous réserve de l'application du 7°, les livraisons à soi-même de
 travaux d'amélioration, de transformation, d'aménagement ou d'entretien, autres
 que l'entretien des espaces verts et les travaux de nettoyage, réalisés par
-l'association mentionnée à l'article 116 de la loi de finances pour 2002
-précitée ou par les sociétés civiles immobilières dont cette association détient
-la majorité des parts, et portant sur des logements à usage locatif situés dans
-des quartiers faisant l'objet d'une convention prévue à l'article 10 de la loi
-n° 2003-710 du 1er août 2003 précitée et destinés à être occupés par des ménages
-dont le total des ressources n'excède pas le montant mentionné à l'article R.
-391-8 du code de la construction et de l'habitation ;
+l'association mentionnée à l'article L. 313-34 du code de la construction et de
+l'habitation précitée ou par les sociétés civiles immobilières dont cette
+association détient la majorité des parts, et portant sur des logements à usage
+locatif situés dans des quartiers faisant l'objet d'une convention prévue à
+l'article 10 de la loi n° 2003-710 du 1er août 2003 précitée et destinés à être
+occupés par des ménages dont le total des ressources n'excède pas le montant
+mentionné à l'article R. 391-8 du code de la construction et de l'habitation ;
 
 7° sexies Sous réserve de l'application du 7°, les livraisons à soi-même de
 travaux d'amélioration, de transformation, d'aménagement ou d'entretien, autres

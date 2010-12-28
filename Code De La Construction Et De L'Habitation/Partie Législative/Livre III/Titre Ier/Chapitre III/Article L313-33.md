@@ -1,11 +1,16 @@
 Article L313-33
 ----
-Un décret en Conseil d'Etat détermine les modalités d'application du présent
-chapitre. Il fixe notamment les conditions dans lesquelles les délibérations du
-conseil d'administration de l'Agence nationale pour la participation des
-employeurs à l'effort de construction sont rendues exécutoires ainsi que les
-conditions de dépôt et de placement des disponibilités financières du fonds
-d'intervention de l'Union d'économie sociale du logement en attente de l'emploi
-fixé par les conventions prévues au 2° de l'article L. 313-19. Il fixe enfin le
-délai à l'expiration duquel, faute de réponse de l'union, l'avis prévu au 4° de
-l'article L. 313-19 est réputé rendu.
+Les statuts de l'association pour l'accès aux garanties locatives sont approuvés
+par décret.
+
+Sont commissaires du Gouvernement auprès de l'association les commissaires du
+Gouvernement auprès de l'Union d'économie sociale du logement. Ils disposent des
+mêmes pouvoirs au sein de l'association que ceux mentionnés à l'article L.
+313-23.L'article L. 313-22 s'applique également à l'association.
+
+L'objet de l'association, soumise au contrôle de la Cour des comptes et de
+l'inspection générale des finances et au titre II de la loi n° 91-3 du 3 janvier
+1991 relative à la transparence et à la régularité des procédures de marchés et
+soumettant la passation de certains contrats à des règles de publicité et de
+mise en concurrence, est d'organiser le dispositif de garantie des risques
+locatifs mentionné au IV de l'article L. 313-20.

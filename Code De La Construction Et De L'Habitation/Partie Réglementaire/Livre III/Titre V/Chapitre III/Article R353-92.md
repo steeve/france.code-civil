@@ -9,13 +9,13 @@ programmes concernés.
 
 Toutefois :
 
-- lorsque l'opération est financée dans les conditions prévues au premier alinéa
+-lorsque l'opération est financée dans les conditions prévues au premier alinéa
 de l'article R. 353-90 ou aux articles R. 331-17 à R. 331-21, cette durée ne
 peut être ni inférieure à quinze ans, ni supérieure à trente ans ;
 
-- lorsque l'opération est réalisée par l'association foncière mentionnée à
-l'article 116 de la loi de finances pour 2002 (loi n° 2001-1275 du 28 décembre
-2001) ou par l'une de ses filiales, cette durée est égale à vingt ans.
+-lorsque l'opération est réalisée par l'association foncière mentionnée à
+l'article L. 313-34 du code de la construction et de l'habitation ou par l'une
+de ses filiales, cette durée est égale à vingt ans.
 
 Les conventions sont renouvelées par tacite reconduction par périodes triennales
 prenant effet à compter de leur date d'expiration, sauf résiliation expresse

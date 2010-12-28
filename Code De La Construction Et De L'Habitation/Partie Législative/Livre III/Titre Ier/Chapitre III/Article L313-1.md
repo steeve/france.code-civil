@@ -1,69 +1,33 @@
 Article L313-1
 ----
-Les employeurs, occupant au minimum vingt salariés, à l'exception de l'Etat, des
-collectivités locales et de leurs établissements publics administratifs,
+Les employeurs occupant au minimum vingt salariés, à l'exception de l'Etat, des
+collectivités territoriales et de leurs établissements publics administratifs,
 assujettis à la taxe sur les salaires prévue à l'article 231 du code général des
 impôts, autres que ceux qui appartiennent à des professions relevant du régime
 agricole au regard des lois sur la sécurité sociale pour lesquelles des règles
-spéciales ont été édictées en application du a du 3 dudit article 231, doivent
-consacrer des sommes représentant 0,45 % au moins du montant, entendu au sens
+spéciales ont été édictées en application du a du 3 du même article 231, doivent
+consacrer des sommes représentant 0, 45 % au moins du montant, entendu au sens
 des règles prévues aux chapitres Ier et II du titre IV du livre II du code de la
 sécurité sociale, des rémunérations versées par eux au cours de l'exercice
-écoulé au financement :
+écoulé au financement d'actions dans le domaine du logement, en particulier du
+logement des salariés.
 
-a) De construction, d'acquisition ou de démolition de logements, d'aménagement
-ou de remise en état de logements anciens, d'acquisition et d'aménagement de
-terrains destinés exclusivement à la construction de logements sociaux ;
+L'obligation mentionnée au premier alinéa prend la forme d'un versement à un
+organisme agréé par le ministre chargé du logement aux fins de collecter la
+participation des employeurs à l'effort de construction. Les conditions de cet
+agrément sont définies par décret en Conseil d'Etat.
 
-b) De prise en charge temporaire, en cas de difficultés exceptionnelles des
-emprunteurs, d'une partie des remboursements de prêts immobiliers destinés à
-l'accession sociale à la propriété ;
-
-c) D'aides directes à des personnes physiques pour le changement de logement ou
-le maintien dans celui-ci et l'accès au logement locatif, de garanties de loyer
-et charges apportées aux bailleurs ;
-
-d) De dépenses d'accompagnement social dans le domaine du logement ;
-
-e) D'aides à des organismes agréés d'information du public sur le logement.
-
-f) De subventions à l'Agence nationale pour la rénovation urbaine.
-
-g) De compensations versées aux entreprises d'assurance de dommages qui
-proposent la souscription de contrats d'assurance contre le risque de loyers
-impayés respectant un cahier des charges social établi par l'Union d'économie
-sociale du logement et approuvé par décret.
-
-Ces dispositions sont applicables aux établissements publics ayant un caractère
-industriel ou commercial, ainsi qu'aux organismes de l'Etat, des collectivités
-locales et de leurs établissements publics ayant le même caractère.
+Un employeur peut se libérer de cette obligation en investissant directement en
+faveur du logement de ses salariés, dans des conditions fixées par décret en
+Conseil d'Etat.
 
 Les employeurs qui, au moyen de leurs ressources propres, ont investi au cours
 d'un exercice une somme supérieure à celle prévue au premier alinéa peuvent
 reporter l'excédent sur les exercices postérieurs.
 
-Une fraction de la somme à investir doit, dans la limite d'un neuvième, être
-réservée par priorité aux logements des travailleurs immigrés et de leurs
-familles.
+Le présent article est applicable aux établissements publics industriels et
+commerciaux ainsi qu'aux organismes à caractère industriel et commercial de
+l'Etat, des collectivités territoriales et de leurs groupements.
 
-Les modalités d'application du présent article sont fixées par décret en Conseil
-d'Etat.
-
-Les employeurs qui, en raison de l'accroissement de leur effectif atteignent ou
-dépassent l'effectif de vingt salariés, sont dispensés pendant trois ans du
-paiement de la cotisation relative à la participation. Le montant de leur
-participation est réduit de 75 p. 100, 50 p. 100 et 25 p. 100, respectivement
-chacune des trois années suivant la dernière année de dispense. Les employeurs
-ayant dépassé l'effectif de vingt salariés avant le 1er septembre 2005 et qui,
-en 2005, bénéficient d'une dispense ou d'une réduction du montant de leur
-participation continuent à bénéficier de cette dispense ou de cette réduction
-dans les conditions antérieures.
-
-Les dispositions de l'alinéa précédent ne sont pas applicables lorsque
-l'accroissement de l'effectif résulte de la reprise ou de l'absorption d'une
-entreprise ayant employé vingt salariés ou plus au cours de l'une des trois
-années précédentes.
-
-Dans ce cas, l'obligation visée au premier alinéa du présent article est due
-dans les conditions de droit commun dés l'année au cours de laquelle l'effectif
-de vingt salariés est atteint ou dépassé.
+L'article L. 1111-2 du code du travail s'applique au calcul de l'effectif
+mentionné au premier alinéa du présent article.

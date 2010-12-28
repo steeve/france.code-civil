@@ -22,4 +22,9 @@ supérieure à trois mois ;
 
 5° Au retour et à la réinsertion des étrangers dans leur pays d'origine ;
 
-6° A l'emploi des Français à l'étranger.
+6° A l'intégration en France des étrangers, pendant une période de cinq années
+au plus à compter de la délivrance d'un premier titre de séjour les autorisant à
+séjourner durablement en France ou, pour la mise en œuvre des dispositifs
+d'apprentissage de la langue française adaptés à leurs besoins, le cas échéant
+en partenariat avec d'autres opérateurs, quelle que soit la durée de leur
+séjour.
