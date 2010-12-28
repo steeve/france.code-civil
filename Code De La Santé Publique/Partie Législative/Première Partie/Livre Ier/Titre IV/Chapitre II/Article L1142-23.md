@@ -48,7 +48,7 @@ est fixé chaque année par la loi de financement de la sécurité sociale ;
 
 5° Une dotation versée par l'Etat en application de l'article L. 3111-9 ;
 
-6° Une dotation versée par le fonds mentionné à l'article L. 3131-5 ;
+6° Une dotation versée par l'Etat en application de l'article L. 3131-4 ;
 
 7° Une dotation versée par l'Etablissement français du sang couvrant l'ensemble
 des dépenses exposées en application de l'article L. 1221-14. Un décret fixe les
