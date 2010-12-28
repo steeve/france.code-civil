@@ -189,7 +189,8 @@ a) a donné lieu au versement de la prime d'aménagement du territoire ;
 
 b) ou a bénéficié, pour l'imposition des bases afférentes aux biens transférés,
 de l'exonération prévue, selon le cas, à l'article 1465 A ou aux I bis, I ter, I
-quater, I quinquies ou I sexies du présent article.
+quater, I quinquies ou I sexies du présent article ou de l'abattement prévu à
+l'article 1466 F .
 
 I quinquies. Sauf délibération contraire de la collectivité territoriale ou de
 l'établissement public de coopération intercommunale doté d'une fiscalité
@@ -286,7 +287,7 @@ a) A donné lieu au versement de la prime d'aménagement du territoire ;
 b) Ou a bénéficié, pour l'imposition des bases afférentes aux biens transférés,
 de l'exonération prévue, selon le cas, aux articles 1465,1465 A et 1465 B ou aux
 I bis, I ter, I quater, I quinquies ou I sexies du présent article ou au présent
-I quinquies A.
+I quinquies A ou de l'abattement prévu à l'article 1466 F.
 
 Pour l'application des dispositions ci-dessus, les délibérations des
 collectivités territoriales et de leurs groupements dotés d'une fiscalité propre
