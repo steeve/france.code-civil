@@ -19,5 +19,5 @@ collectivités territoriales ou établissements publics de coopération
 intercommunale bénéficiaires pour les montants indûment reversés. Le comptable
 peut recouvrer ce titre par voie de compensation avec le produit de la taxe
 qu'il répartit par ailleurs ou par voie de prélèvement sur les avances prévues
-par les articles L. 2336-1 et suivants du code général des collectivités
-territoriales.
+par le chapitre VII du titre III du livre III de la deuxième partie du code
+général des collectivités territoriales.
