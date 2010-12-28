@@ -3,13 +3,15 @@ Article L2334-41
 Il est institué une dotation budgétaire intitulée dotation de développement
 urbain.
 
-Peuvent bénéficier de cette dotation les communes éligibles à la dotation de
-solidarité urbaine et de cohésion sociale prévue à l'article L. 2334-15 qui
-figurent parmi les cent premières d'un classement de ces communes établi chaque
-année en fonction de critères tirés notamment de la proportion de population
-résidant dans des quartiers inclus dans les zones prioritaires de la politique
-de la ville, du revenu fiscal moyen des habitants de ces quartiers et du
-potentiel financier.
+Peuvent bénéficier de cette dotation les communes de métropole éligibles l'année
+précédente à la dotation de solidarité urbaine et de cohésion sociale prévue à
+l'article L. 2334-15 qui figurent parmi les cent premières d'un classement de
+ces communes établi chaque année en fonction de critères tirés notamment de la
+proportion de population résidant dans des quartiers inclus dans les zones
+prioritaires de la politique de la ville, du revenu fiscal moyen des habitants
+de ces quartiers et du potentiel financier. Ces critères sont appréciés l'année
+précédant celle au titre de laquelle est répartie la dotation de développement
+urbain.
 
 Lorsque la compétence en matière de politique de la ville a été transférée par
 une commune éligible à un établissement public de coopération intercommunale,
@@ -17,9 +19,10 @@ celui-ci peut bénéficier, sur décision du représentant de l'Etat dans le
 département, de la dotation de développement urbain pour le compte de cette
 commune.
 
-Les crédits de la dotation de développement urbain sont répartis entre les
-départements en tenant compte du nombre de communes éligibles dans chaque
-département et de leur classement selon les critères prévus au deuxième alinéa.
+Après constitution de la quote-part définie à l'article L. 2334-42, les crédits
+de la dotation de développement urbain sont répartis entre les départements en
+tenant compte du nombre de communes éligibles dans chaque département et de leur
+classement selon les critères prévus au deuxième alinéa.
 
 Pour l'utilisation de ces crédits, le représentant de l'Etat dans le département
 conclut une convention avec la commune ou l'établissement public de coopération
