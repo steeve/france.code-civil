@@ -5,13 +5,13 @@ A sont exonérées de l'imposition forfaitaire annuelle prévue à l'article 223
 septies.
 
 2. Sont également exonérées de l'imposition forfaitaire annuelle prévue à
-l'article 223 septies les entreprises qui participent à un projet de recherche
-et de développement mentionné au I de l'article 24 de la loi de finances pour
-2005 (n° 2004-1484 du 30 décembre 2004), et dont le siège social ainsi que
-l'ensemble de l'activité et des moyens d'exploitation afférents à ce projet sont
-implantés dans une zone de recherche et de développement telle que mentionnée au
-I de l'article 24 précité et qui bénéficient du régime prévu à l'article 44
-undecies.
+l'article 223 septies les entreprises qui participent, au 16 novembre 2009, à un
+projet de recherche et de développement mentionné au I de l'article 24 de la loi
+de finances pour 2005 (n° 2004-1484 du 30 décembre 2004), et dont le siège
+social ainsi que l'ensemble de l'activité et des moyens d'exploitation afférents
+à ce projet sont implantés dans une zone de recherche et de développement telle
+que mentionnée au I de l'article 24 précité et qui bénéficient du régime prévu à
+l'article 44 undecies.
 
 3. L'entreprise mentionnée au 1 est redevable de l'imposition forfaitaire
 annuelle prévue à l'article 223 septies le 1er janvier de l'année suivant celle
