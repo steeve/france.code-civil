@@ -11,7 +11,6 @@ mentionnés à l'alinéa précédent, la valeur de réalisation de cet instrumen
 dénouement est prise en compte dans le prix de vente de ce titre ou de ce groupe
 de titres.
 
-Le montant de ces versements ou prélèvements, calculé dans les conditions fixées
-par arrêté du ministre chargé de l'économie et des finances, doit être tel que
-le rendement actuariel des titres soit, après prélèvement ou versement, égal à
-celui qui en était attendu lors de l'acquisition de ces mêmes titres.
+Le montant de ces versements ou prélèvements est calculé, selon des modalités
+précisées par arrêté du ministre chargé de l'économie, en fonction du prix de
+vente des titres et de l'incidence fiscale potentielle de la cession.
