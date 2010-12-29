@@ -6,17 +6,11 @@ siège de la direction de l'entreprise, ou, à défaut, du principal établissem
 Toutefois, les redevables mentionnés à l'article 344-0 A acquittent le droit
 fixe au service chargé des grandes entreprises.
 
-II. ― Les redevables établis dans un autre Etat membre de la Communauté
-européenne acquittent le droit fixe auprès de la recette de la direction des
-résidents à l'étranger et des services généraux.
+II. ― Les redevables établis dans un autre Etat membre de l'Union européenne
+acquittent le droit fixe auprès du service des impôts des entreprises
+étrangères.
 
-Par dérogation aux dispositions du premier alinéa, les redevables établis dans
-un autre Etat membre de la Communauté européenne, qui ont désigné en France,
-avant le 1er janvier 2002, un représentant mentionné à l'article 289 A du code
-général des impôts, acquittent le droit fixe auprès du service des impôts dont
-dépend le lieu d'imposition de ce représentant.
-
-III. ― Les redevables non établis dans la Communauté européenne acquittent le
-droit fixe auprès du service des impôts des entreprises dont dépend le lieu
+III. ― Les redevables non établis dans l'Union européenne acquittent le droit
+fixe auprès du service des impôts des entreprises dont dépend le lieu
 d'imposition du représentant désigné en application de l'article 289 A du code
 général des impôts, ou à défaut, de l'article 302 bis ZN du même code.
