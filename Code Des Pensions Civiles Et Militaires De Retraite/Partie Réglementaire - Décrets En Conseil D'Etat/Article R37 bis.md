@@ -1,7 +1,7 @@
 Article R37 bis
 ----
-Pour les fonctionnaires handicapés mentionnés au 5° du I de l'article L. 24, la
-condition d'âge de 60 ans est abaissée :
+Pour les fonctionnaires handicapés mentionnés au 5° du I de l'article L. 24,
+l'âge d'ouverture du droit à pension est abaissé :
 
 1° A cinquante-cinq ans s'ils justifient alors qu'ils étaient atteints d'une
 incapacité permanente au moins égale à un taux de 80 %, d'une durée d'assurance
