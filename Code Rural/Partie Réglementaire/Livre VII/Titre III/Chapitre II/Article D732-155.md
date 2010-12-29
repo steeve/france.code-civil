@@ -1,7 +1,8 @@
 Article D732-155
 ----
-Le minimum prévu à l'article L. 732-59 est fixé à 1820 fois le montant du
-salaire minimum de croissance en vigueur au 1er janvier de l'année considérée.
+I.-Pour les personnes mentionnées au I de l'article L. 732-56, le minimum prévu
+à l'article L. 732-59 est fixé à 1 820 fois le montant du salaire minimum de
+croissance en vigueur au 1er janvier de l'année considérée.
 
 Au titre des périodes postérieures au 31 décembre 2002, le nombre de points
 porté au compte de l'assuré mentionné au I de l'article L. 732-56 est déterminé
@@ -16,7 +17,7 @@ obligatoire est égal à 100 par an ;
 L. 732-59 est supérieure à l'assiette minimale susmentionnée, le nombre annuel
 de points porté au compte de l'assuré est calculé selon la formule suivante :
 
-P = 100 x RP / 1820 SMIC
+P = 100 x RP/1820 SMIC
 
 où :
 
@@ -30,7 +31,13 @@ considérée ;
 
 1820 SMIC est l'assiette minimale prévue en application de l'article L. 732-59.
 
-Le nombre annuel de points est porté au compte de l'intéressé, lorsque la
+II.-Pour les personnes mentionnées au IV de l'article L. 732-56, l'assiette des
+cotisations prévue au troisième alinéa de l'article L. 732-59 est fixée à 1 200
+fois le montant du salaire minimum de croissance en vigueur au 1er janvier de
+l'année considérée et le nombre de points de retraite complémentaire obligatoire
+est égal à 66 par an.
+
+III.-Le nombre annuel de points est porté au compte de l'intéressé, lorsque la
 cotisation de l'année considérée est acquittée dans sa totalité, après
 application, le cas échéant, des dispositions législatives du chapitre V du
 titre II du présent livre relatives au recouvrement des cotisations et créances.

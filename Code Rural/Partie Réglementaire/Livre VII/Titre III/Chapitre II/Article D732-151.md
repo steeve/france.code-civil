@@ -17,18 +17,18 @@ La durée reconstituée d'assurance en qualité de chef d'exploitation ou
 d'entreprise agricole à titre exclusif ou principal est déterminée en divisant
 par seize le nombre de points de retraite proportionnelle inscrits, avant
 application, le cas échéant, des dispositions du sous paragraphe 1 du paragraphe
-5 de la sous-section 1 de la présente section, au compte de l'assuré. Lorsque
-l'intéressé a exercé une partie de sa carrière simultanément en qualité de chef
-d'exploitation ou d'entreprise agricole à titre secondaire et de salarié à titre
-principal, une minoration forfaitaire de quinze points est appliquée pour chaque
-année qui n'a pas donné lieu à versement des cotisations ouvrant droit à la
-retraite forfaitaire ou à validation au titre de périodes assimilées pour
-l'obtention de cette même retraite. Lorsque au terme de cette reconstitution
-l'intéressé totalise un nombre d'annuités de chef d'exploitation ou d'entreprise
-agricole supérieur à sa durée de carrière non salariée agricole telle que
-définie au deuxième alinéa du présent article, ce nombre est ramené à la durée
-de carrière de non-salarié agricole dans la limite de trente-sept années et
-demie.
+5 de la sous-section 1 de la présente section dans sa rédaction antérieure au
+1er janvier 2009, au compte de l'assuré. Lorsque l'intéressé a exercé une partie
+de sa carrière simultanément en qualité de chef d'exploitation ou d'entreprise
+agricole à titre secondaire et de salarié à titre principal, une minoration
+forfaitaire de quinze points est appliquée pour chaque année qui n'a pas donné
+lieu à versement des cotisations ouvrant droit à la retraite forfaitaire ou à
+validation au titre de périodes assimilées pour l'obtention de cette même
+retraite. Lorsque au terme de cette reconstitution l'intéressé totalise un
+nombre d'annuités de chef d'exploitation ou d'entreprise agricole supérieur à sa
+durée de carrière non salariée agricole telle que définie au deuxième alinéa du
+présent article, ce nombre est ramené à la durée de carrière de non-salarié
+agricole dans la limite de trente-sept années et demie.
 
 Les personnes mentionnées au 2° du II de l'article L. 732-56 bénéficient du
 régime d'assurance vieillesse complémentaire obligatoire pour les non-salariés

@@ -16,3 +16,9 @@ du salaire minimum de croissance en vigueur au 1er janvier 2010.
 mentionnées au premier alinéa du I de l'article L. 732-56, l'assiette
 forfaitaire de la cotisation d'assurance vieillesse complémentaire obligatoire
 mentionnée à l'article L. 732-59 est égale à l'assiette minimum définie au 1°.
+
+4° Pour la cotisation mentionnée à l'article L. 732-59 et due pour les personnes
+mentionnées au IV de l'article L. 732-56, le taux est fixé à 3 % de l'assiette
+forfaitaire, prévue au II de l'article D. 732-155, égale à 1 200 fois le montant
+du salaire minimum de croissance en vigueur au 1er janvier de l'année au titre
+de laquelle la cotisation est due.
