@@ -9,6 +9,3 @@ Les personnes mentionnées à l'alinéa précédent sont admises, si elles le
 demandent, à opérer des versements de rachat pour l'assurance vieillesse, au
 titre des périodes de détention provisoire comprises entre le 1er juillet 1930
 et le 1er janvier 1977.
-
-Aucune forclusion ne sera opposée aux demandes de rachat présentées avant le 1er
-janvier 2003.

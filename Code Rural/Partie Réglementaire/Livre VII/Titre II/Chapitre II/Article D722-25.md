@@ -3,9 +3,10 @@ Article D722-25
 Peuvent adhérer à l'assurance volontaire vieillesse gérée par le régime de
 protection sociale des travailleurs non salariés de l'agriculture :
 
-1° Les personnes de nationalité française mentionnées à l'article L. 722-18,
-exerçant une des professions visées aux articles L. 722-4 et L. 722-9 et
-résidant hors du territoire français ;
+1° Les personnes mentionnées à l'article L. 722-18, exerçant une des professions
+visées aux articles L. 722-4 et L. 722-9, résidant hors du territoire français
+et ayant été à la charge, à quelque titre que ce soit, d'un régime obligatoire
+français d'assurance maladie pendant une durée de cinq ans ;
 
 2° Les personnes, mentionnées à l'article L. 722-17, qui, ayant exercé en
 dernier lieu une des professions mentionnées au 1° ci-dessus et ne pouvant
