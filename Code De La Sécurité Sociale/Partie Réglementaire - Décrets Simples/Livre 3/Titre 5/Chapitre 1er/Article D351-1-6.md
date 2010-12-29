@@ -7,5 +7,7 @@ pour la délivrance de la carte d'invalidité.
 L'assuré qui demande le bénéfice des dispositions de l'article L. 351-1-3
 produit, à l'appui de sa demande, les pièces justifiant de la décision relative
 à son taux d'incapacité permanente prononcée par l'autorité chargée d'apprécier
-l'incapacité ouvrant droit à la carte d'invalidité. La liste de ces pièces est
-fixée par arrêté du ministre chargé de la sécurité sociale.
+l'incapacité ouvrant droit à la carte d'invalidité ou de la reconnaissance de la
+qualité de travailleur handicapé prévue par l'article L. 5213-2 du code du
+travail. La liste de ces pièces est fixée par arrêté du ministre chargé de la
+sécurité sociale.
