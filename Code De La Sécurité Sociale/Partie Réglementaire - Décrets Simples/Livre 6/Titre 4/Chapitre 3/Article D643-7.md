@@ -18,7 +18,9 @@ NP x V x C x (D-1) x E x (1 + 10 %) ;
 
 b) Au titre du 2° de l'article D. 643-5 :
 
-NP x V x [1 + C x (D-1)] x E x (1 + 10 %), où :
+NP x V x [1 + C x (D-1)] x E x (1 + 10 %),
+
+où :
 
 NP est le nombre trimestriel moyen de points de retraite égal au quart du nombre
 de points de retraite, revalorisé pour les années postérieures à 2004 par
@@ -36,8 +38,11 @@ D est la durée maximale d'assurance fixée au 4° de l'article D. 351-9 ;
 
 E est le terme actuariel défini comme correspondant à la rente viagère
 trimestrielle à terme échu égale à une unité pour un intéressé d'âge B et un
-différé égal à A-B, déterminé selon la formule suivante : (formule non
-reproduite) où :
+différé égal à A-B, déterminé selon la formule suivante :
+
+(formule non reproduite)
+
+où :
 
 i est le taux d'actualisation fixé en application de l'article D. 351-8 et du a
 du 4° de l'article D. 643-6 ;
@@ -45,20 +50,20 @@ du 4° de l'article D. 643-6 ;
 k est un coefficient dont la valeur varie en fonction de l'âge de l'assuré à la
 date à laquelle il présente sa demande :
 
+de 0 à 51 pour les assurés âgés de 66 ans ;
+
 de 0 à 52 pour les assurés âgés de 65 ans ;
 
 de 0 à 53 pour les assurés âgés de 64 ans ;
 
 de 0 à 54 pour les assurés âgés de 63 ans ;
 
-de 0 à 55 pour les assurés âgés de 62 ans ;
-
-de 0 à 56 pour les assurés âgés de 61 ans ;
-
-de 0 à 57 pour les assurés âgés de 60 ans ou moins ;
+de 0 à 55 pour les assurés âgés de 62 ans ou moins ;
 
 A est l'âge de référence fixé, en fonction de l'âge de l'assuré à la date à
 laquelle il présente sa demande, à :
+
+66 ans pour les assurés âgés de 66 ans ;
 
 65 ans pour les assurés âgés de 65 ans ;
 
@@ -66,11 +71,7 @@ laquelle il présente sa demande, à :
 
 63 ans pour les assurés âgés de 63 ans ;
 
-62 ans pour les assurés âgés de 62 ans ;
-
-61 ans pour les assurés âgés de 61 ans ;
-
-60 ans pour les assurés âgés de 60 ans ou moins ;
+62 ans pour les assurés âgés de 62 ans ou moins ;
 
 B est l'âge atteint par l'assuré à la date à laquelle il présente sa demande ;
 

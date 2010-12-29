@@ -61,9 +61,9 @@ Pour l'application du présent 3°, les modalités prévues au I de l'article D.
 4° Les règles d'actualisation prévues au II de l'article D. 351-8 sont
 applicables à l'actualisation prévue au présent article, sous réserve :
 
-a) De la prise en compte, pour les assurés âgés de plus de soixante ans, d'un
-taux diminué de 0, 05 point par année d'âge à partir du taux fixé au c dudit II
-;
+a) De la prise en compte, pour les assurés âgés de plus de soixante-deux ans,
+d'un taux diminué de 0, 05 point par année d'âge à partir du taux fixé au c
+dudit II ;
 
 b) De la division du barème prévu au dernier alinéa dudit II en sept tranches de
 revenus et salaires ainsi déterminées :
@@ -86,7 +86,4 @@ inférieurs à une limite égale à 95 % du plafond précité ;
 -revenus et salaires égaux ou supérieurs à la limite précitée de 95 % et
 inférieurs à une limite égale au plafond précité ;
 
--revenus et salaires égaux ou supérieurs au plafond précité ;
-
-c) De la substitution de la mention, au dernier alinéa dudit II, de l'âge de
-soixante-cinq ans à la mention de l'âge de soixante ans.
+-revenus et salaires égaux ou supérieurs au plafond précité.

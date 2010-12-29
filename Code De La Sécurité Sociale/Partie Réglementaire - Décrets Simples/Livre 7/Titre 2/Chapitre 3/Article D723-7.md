@@ -12,9 +12,13 @@ déterminés en application du 3° de l'article D. 351-9 ;
 3° La valeur d'un trimestre est déterminée, selon l'option prévue à l'article D.
 723-5 précité, par l'application de la formule suivante :
 
-a) Au titre du 1° de l'article D. 723-5 : (Formule non reproduite)
+a) Au titre du 1° de l'article D. 723-5 :
 
-b) Au titre du 2° de l'article D. 723-5 : (Formule non reproduite)
+(Formule non reproduite)
+
+b) Au titre du 2° de l'article D. 723-5 :
+
+(Formule non reproduite)
 
 où :
 
@@ -29,8 +33,9 @@ D est la durée maximale d'assurance fixée au c du 4° de l'article D. 351-9 ;
 
 E est le terme actuariel défini comme correspondant à la rente viagère
 trimestrielle à terme échu égale à une unité pour un intéressé d'âge B et un
-différé égal à A-B, déterminé selon la formule suivante : (Formule non
-reproduite)
+différé égal à A-B, déterminé selon la formule suivante :
+
+(Formule non reproduite)
 
 i est le taux d'actualisation fixé en application du II de l'article D. 351-8 et
 du a du 3° de l'article D. 723-6 ;
@@ -38,20 +43,20 @@ du a du 3° de l'article D. 723-6 ;
 k est un coefficient dont la valeur varie en fonction de l'âge de l'assuré à la
 date à laquelle il présente sa demande :
 
+de 0 à 51 pour les assurés âgés de 66 ans ;
+
 de 0 à 52 pour les assurés âgés de 65 ans ;
 
 de 0 à 53 pour les assurés âgés de 64 ans ;
 
 de 0 à 54 pour les assurés âgés de 63 ans ;
 
-de 0 à 55 pour les assurés âgés de 62 ans ;
-
-de 0 à 56 pour les assurés âgés de 61 ans ;
-
-de 0 à 57 pour les assurés âgés de 60 ans ou moins ;
+de 0 à 55 pour les assurés âgés de 62 ans ou moins ;
 
 A est l'âge de référence fixé, en fonction de l'âge de l'assuré à la date à
 laquelle il présente sa demande, à :
+
+66 ans pour les assurés âgés de 66 ans ;
 
 65 ans pour les assurés âgés de 65 ans ;
 
@@ -59,11 +64,7 @@ laquelle il présente sa demande, à :
 
 63 ans pour les assurés âgés de 63 ans ;
 
-62 ans pour les assurés âgés de 62 ans ;
-
-61 ans pour les assurés âgés de 61 ans ;
-
-60 ans pour les assurés âgés de 60 ans ou moins ;
+62 ans pour les assurés âgés de 62 ans ou moins ;
 
 B est l'âge atteint par l'assuré à la date à laquelle il présente sa demande ;
 
