@@ -13,18 +13,19 @@ bénéficie pas de la franchise prévue à l'article 293 B du code général des
 impôts ;
 
 2° A l'introduction ou à l'acquisition si elle réalise, dans les conditions
-prévues à l'article 7-1 du règlement (CE) n° 638 / 2004 du Parlement européen et
+prévues à l'article 7-1 du règlement (CE) n° 638/2004 du Parlement européen et
 du Conseil du 31 mars 2004, un montant annuel d'introduction ou d'acquisition
 égal ou supérieur à un seuil fixé par arrêté du ministre chargé des douanes.
 
-Lorsque la personne établie hors de la communauté européenne est dispensée de
-désigner un représentant en application du deuxième alinéa du I de l'article 289
-A du code général des impôts ou lorsque la personne établie dans un autre Etat
-membre de la Communauté européenne n'est pas tenue de s'identifier à la taxe sur
-la valeur ajoutée en France conformément au II de l'article 95, la déclaration
-afférente aux acquisitions intracommunautaires visées au 4° du I de l'article
-277 A du même code est souscrite par la personne mentionnée à l'article 85 D.
+Lorsque la personne établie hors de l'Union européenne est dispensée de désigner
+un représentant en application du deuxième alinéa du I de l'article 289 A du
+code général des impôts ou lorsque la personne établie dans un autre Etat membre
+de l'Union européenne n'est pas tenue de s'identifier à la taxe sur la valeur
+ajoutée en France conformément au II de l'article 95, la déclaration afférente
+aux acquisitions intracommunautaires visées au 4° du I de l'article 277 A du
+même code est souscrite par la personne mentionnée à l'article 85 D.
 
-Pour les opérations portant sur l'électricité ou le gaz naturel acheminé par
-conduite, la déclaration est souscrite par la personne chargée de la gestion du
-réseau de transport permettant l'échange entre la France et les autres pays.
+Pour les opérations portant sur l'électricité, le gaz naturel, la chaleur ou le
+froid acheminé par conduite, la déclaration est souscrite par la personne
+chargée de la gestion du réseau de transport permettant l'échange entre la
+France et les autres pays.
