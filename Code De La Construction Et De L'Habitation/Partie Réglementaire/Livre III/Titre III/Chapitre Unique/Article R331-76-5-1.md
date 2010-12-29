@@ -15,7 +15,7 @@ refinancement conclue sous l'égide de l'Etat entre les établissements de créd
 distributeurs et la Caisse des dépôts et consignations.
 
 L'accédant peut, au moment de la levée d'option, bénéficier des dispositions du
-présent article et de celles des articles R. 318-1 et suivants.
+présent article et de celles des articles R. 31-10-1 et suivants.
 
 II.-Pour obtenir la décision d'agrément, le vendeur conclut avec l'Etat une
 convention qui prévoit le respect des conditions suivantes :

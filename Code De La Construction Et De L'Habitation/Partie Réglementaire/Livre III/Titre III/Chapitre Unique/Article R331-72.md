@@ -3,7 +3,7 @@ Article R331-72
 Les prêts conventionnés sont exclusifs de tout autre prêt à l'exception des
 prêts suivants :
 
-1. L'avance aidée par l'Etat mentionnée aux articles R. 317-1 et R. 318-1 ;
+1.L'avance aidée par l'Etat mentionnée aux articles R. 317-1 et R. 318-1 ;
 
 2. Les prêts d'épargne logement prévus aux articles L. 315-1 et L. 315-2 ;
 
@@ -25,4 +25,6 @@ titulaires de titres d'indemnisation prévus par la loi n° 78-1 du 2 janvier 19
 relative à l'indemnisation des Français rapatriés d'outre-mer dépossédés de
 leurs biens ;
 
-8. L'avance aidée par l'Etat mentionnée à l'article R. 319-1.
+8.L'avance aidée par l'Etat mentionnée à l'article R. 319-1 ;
+
+9. Le prêt ne portant pas intérêt mentionné à l'article R. 31-10-1.
