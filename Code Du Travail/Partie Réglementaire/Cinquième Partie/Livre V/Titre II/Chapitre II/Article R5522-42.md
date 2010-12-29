@@ -1,6 +1,6 @@
 Article R5522-42
 ----
-Lorsque la convention ou un avenant à celle-ci prévoit une formation, la durée
-de celle-ci est au minimum de deux cents heures. Cette formation est dispensée
-dans le cadre d'une convention avec un organisme de formation mentionné à
-l'article L. 6351-1.
+Une formation prévue par la convention ou par un avenant à celle-ci peut faire
+l'objet d'une aide de l'Etat sous réserve d'avoir une durée de 200 heures au
+minimum et d'être dispensée dans le cadre d'une convention avec un organisme de
+formation mentionné à l'article L. 6351-1.
