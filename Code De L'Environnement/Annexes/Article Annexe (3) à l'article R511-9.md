@@ -471,26 +471,26 @@ D
 Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs
 suivantes exprimées en animaux-équivalents :
 
-1. caille = 0, 125
+1. caille = 0,125
 
-2. pigeon, perdrix = 0, 25
+2. pigeon, perdrix = 0,25
 
-3. coquelet = 0, 75
+3. coquelet = 0,75
 
-4. poulet léger = 0, 85
+4. poulet léger = 0,85
 
 5. poule, poulet standard, poulet label, poulet biologique, poulette, poule
 pondeuse, poule reproductrice, faisan, pintade, canard colvert = 1
 
-6. poulet lourd = 1, 15
+6. poulet lourd = 1,15
 
 7. canard à rôtir, canard prêt à gaver, canard reproducteur = 2
 
-8. dinde légère = 2, 20
+8. dinde légère = 2,20
 
 9. dinde médium, dinde reproductrice, oie = 3
 
-10. dinde lourde = 3, 50
+10. dinde lourde = 3,50
 
 11. palmipèdes gras en gavage = 7
 
@@ -627,15 +627,15 @@ DC
 Engrais, amendements et supports de culture (fabrication des) à partir de
 matières organiques, à l'exclusion des rubriques 2780 et 2781 :
 
-1. Lorsque la capacité de production est supérieure ou égale à 10 t / j
+1. Lorsque la capacité de production est supérieure ou égale à 10 t/j
 
 
 A
 
 3
 
-2. Lorsque la capacité de production est supérieure à 1 t / j et inférieure à 10
-t / j
+2. Lorsque la capacité de production est supérieure à 1 t/j et inférieure à 10
+t/j
 
 
 D
@@ -645,7 +645,7 @@ D
 Fumiers, engrais et supports de culture (dépôts de) renfermant des matières
 organiques et n'étant pas l'annexe d'une exploitation agricole
 
-Le dépôt étant supérieur à 200 m ³
+Le dépôt étant supérieur à 200 m³
 
 
 D
@@ -655,14 +655,14 @@ D
 Engrais liquide (dépôt d') en récipients de capacité unitaire supérieure ou
 égale à 3 000 l, lorsque la capacité totale est :
 
-1. Supérieure ou égale à 500 m ³
+1. Supérieure ou égale à 500 m³
 
 
 A
 
 1
 
-2. Supérieure à 100 m ³ mais inférieure à 500 m³
+2. Supérieure à 100 m³ mais inférieure à 500 m³
 
 
 D
@@ -885,27 +885,35 @@ D
 
 2250
 
-Alcools d'origine agricole, eaux-de-vie et liqueurs (production par distillation
-des)
+Production par distillation d'alcools de bouche d'origine agricole
 
-La capacité de production exprimée en alcool absolu étant :
+La capacité de production exprimée en équivalent alcool pur étant :
 
-1. supérieure à 500 l/j
+1. Supérieure à 1 300 hl/ j
 
 
 A
 
-1
+3
 
 1. La capacité de production exprimée en alcool absolu étant supérieure à 30 000
 l/j
 
 5
 
-2. supérieure à 50 l/j, mais inférieure ou égale à 500 l/j
+2. Supérieure à 30 hl/ j et inférieure ou égale à 1 300 hl/ j
+
+
+E
+
+3. Supérieure à 0,5 hl/ j et inférieure ou égale à 30 hl/ j
 
 
 D
+
+Nota. - Pour les installations de distillation discontinue, le seuil, prévu aux
+points 2 et 3 ci-dessus, de 30 hl/ j de capacité de production d'alcool pur est
+remplacé par un seuil de 50 hl de capacité totale de charge des alambics.
 
 2251
 
@@ -966,7 +974,7 @@ A
 
 1
 
-1. La capacité de l'installation étant supérieure à 50 000 hl/an
+1. La capacité de l'installation étant supérieure à 50 000 hl / an
 
 1
 
@@ -1191,19 +1199,15 @@ D
 
 2340
 
-Blanchisseries, laveries de linge à l'exclusion du nettoyage à sec visé par la
-rubrique 2345
+Blanchisserie, laverie de linge à l'exclusion du nettoyage à sec visé par la
+rubrique 2345. La capacité de lavage de linge étant :
 
-La capacité de lavage de linge étant :
-
-1. supérieure à 5 t/j
+1. Supérieure à 5 t/ j
 
 
-A
+E
 
-1
-
-2. supérieure à 500 kg/j, mais inférieure ou égale à 5 t/j
+2. Supérieure à 500 kg/ j, mais inférieure ou égale à 5 t/ j
 
 
 D
@@ -1628,7 +1632,7 @@ c) supérieure ou égale à 50 000 t/an mais inférieure à 150 000 t/an.
 haldes et terrils de mines et par les déchets d'exploitation de carrières (à
 l'exception des cas visés à l'article 1er du décret n° 79-1109 du 20 décembre
 1979 pris pour l'application de l'article 130 du code minier), lorsque la
-superficie d'exploitation est supérieure à 1 000 m 2 ou lorsque la quantité de
+superficie d'exploitation est supérieure à 1 000 m2 ou lorsque la quantité de
 matériaux à extraire est supérieure à 2 000 t par an
 
 
@@ -1653,7 +1657,7 @@ c) supérieure ou égale à 50 000 t/an mais inférieure à 150 000 t/an.
 5. Carrières de marne, de craie et de tout matériau destiné au marnage des sols
 ou d'arène granitique, à ciel ouvert, sans but commercial, distantes d'au moins
 500 m d'une carrière soumise à autorisation ou à déclaration, lorsque la
-superficie d'extraction est inférieure à 500 m 2 et lorsque la quantité de
+superficie d'extraction est inférieure à 500 m2 et lorsque la quantité de
 matériaux à extraire est inférieure à 250 t par an et que la quantité totale
 d'extraction n'excède pas 1 000 t, lesdites carrières étant exploitées soit par
 l'exploitant agricole dans ses propres champs, soit par la commune, le
@@ -1677,7 +1681,7 @@ d'origine.
 
 lorsqu'elles sont distantes de plus de 500 mètres d'une exploitation de carrière
 soumise à autorisation ou à déclaration et lorsque la quantité de matériaux à
-extraire est inférieure à 100 m³ par an et que la quantité totale d'extraction
+extraire est inférieure à 100 m ³ par an et que la quantité totale d'extraction
 n'excède pas 500 m³
 
 

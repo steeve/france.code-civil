@@ -57,10 +57,10 @@ Nitrate d'ammonium (stockage de).
 1. Nitrate d'ammonium et préparations à base de nitrate d'ammonium dans lesquels
 la teneur en azote due au nitrate d'ammonium est :
 
--comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0,4 % de
+-comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0, 4 % de
 substances combustibles ;
 
--supérieure à 28 % en poids et qui contiennent au plus 0,2 % de substances
+-supérieure à 28 % en poids et qui contiennent au plus 0, 2 % de substances
 combustibles.
 
 La quantité totale susceptible d'être présente dans l'installation étant :
@@ -131,7 +131,7 @@ DC
 1331
 
 Engrais solides simples et composés à base de nitrate d'ammonium correspondant
-aux spécifications du règlement européen n o 2003/2003 du Parlement européen et
+aux spécifications du règlement européen n° 2003/2003 du Parlement européen et
 du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme française
 équivalente NF U 42-001 (stockage de) :
 
@@ -153,7 +153,7 @@ le test en auge défini dans le cadre de l'Organisation des Nations unies (ONU)
 dangereuses : Manual of Tests and Criteria, partie III, sous-section 38.2).
 
 II.-Engrais simples et composés solides à base de nitrate d'ammonium (un engrais
-composé contient du nitrate d'ammonium avec du phosphate et/ou de la potasse)
+composé contient du nitrate d'ammonium avec du phosphate et /ou de la potasse)
 dans lesquels la teneur en azote due au nitrate d'ammonium est :
 
 - supérieure à 24,5 % en poids, et qui sont conformes aux exigences de l'annexe
@@ -258,7 +258,7 @@ rubriques 1330 et 1331-II ;
 azote due au nitrate d'ammonium est supérieure à 28 % qui ne satisfont pas aux
 exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ;
 
-- aux engrais visés dans les rubriques 1331-I, deuxième alinéa, 1331-II qui ne
+-aux engrais visés dans les rubriques 1331-I, deuxième alinéa, 1331-II qui ne
 satisfont pas aux exigences de l'annexe III-2 (**).
 
 La quantité totale susceptible d'être présente dans l'installation étant :
@@ -404,7 +404,7 @@ l'exception de ceux visés explicitement par d'autres rubriques de la
 nomenclature ;
 
 Les gaz sont maintenus liquéfiés à une température telle que la pression absolue
-de vapeur correspondante n'excède pas 1, 5 bar (stockages réfrigérés ou
+de vapeur correspondante n'excède pas 1,5 bar (stockages réfrigérés ou
 cryogéniques) ou sous pression quelle que soit la température
 
 La quantité totale susceptible d'être présente dans l'installation étant :
@@ -867,7 +867,7 @@ A
 2
 
 b) représentant une capacité équivalente totale supérieure à 10 m³ mais
-inférieure ou égale à 100 m ³
+inférieure ou égale à 100 m³
 
 
 DC
@@ -931,21 +931,21 @@ l'exception des stations-service visées à la rubrique 1435) :
 
 1. Installations de chargement de véhicules citernes, de remplissage de
 récipients mobiles, le débit maximum équivalent de l'installation, pour les
-liquides inflammables de la catégorie de référence (coefficient 1 étant) :
+liquides inflammables de la catégorie de référence (coefficient 1) étant :
 
-a) supérieur ou égal à 20 m³/h
+a) Supérieur ou égal à 20 m³/h
 
 
 A
 
 1
 
-b) supérieur ou égal à 1 m³/h, mais inférieur à 20 m³/h
+b) Supérieur ou égal à 1 m³/h mais inférieur à 20 m³/h
 
 
 DC
 
-2. installations de chargement ou de déchargement desservant un dépôt de
+2. Installations de chargement ou de déchargement desservant un stockage de
 liquides inflammables soumis à autorisation
 
 

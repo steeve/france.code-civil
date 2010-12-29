@@ -217,7 +217,7 @@ D
 
 -
 
-a) supérieure à 500 kg / j
+a) supérieure à 500 kg/j
 
 
 A
@@ -558,7 +558,8 @@ A
 
 4
 
-2. Procédés utilisant des liquides (sans mise en œuvre
+2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à
+l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
 
 2. Le volume des cuves de traitement étant :
 
@@ -582,7 +583,7 @@ b) supérieur à 200 l, mais inférieur ou égal à 1 500 l
 
 DC
 
-3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de
+3. Traitement en phase gazeuse ou autres traitements sans mise en oeuvre de
 cadmium
 
 
@@ -692,22 +693,25 @@ Quelle que soit la capacité
 
 2630
 
-Détergents et savons (fabrication industrielle de ou à base de)
+Détergents et savons (fabrication de ou à base de) :
 
-La capacité de production étant :
+1. Fabrication industrielle par transformation chimique
 
-a) supérieure ou égale à 5 t/j
+
+A
+
+3
+
+2. Autres fabrications industrielles
 
 
 A
 
 2
 
-a) La capacité de production étant supérieure ou égale à 5 t/j
+3. Fabrications non industrielles
 
-2
-
-b) supérieure ou égale à 1 t/j, mais inférieure à 5 t/j
+La capacité de production étant supérieure ou égale à 1 t/ j
 
 
 D
@@ -838,19 +842,19 @@ synthétiques) (stockage de).
 
 Le volume susceptible d'être stocké étant :
 
-1. Supérieur ou égal à 40 000 m ³ ;
+1. Supérieur ou égal à 40 000 m³ ;
 
 
 A
 
 2
 
-2. Supérieur ou égal à 1 000 m ³ mais inférieur à 40 000 m ³ ;
+2. Supérieur ou égal à 1 000 m³ mais inférieur à 40 000 m³ ;
 
 
 E
 
-3. Supérieur ou égal à 100 m ³ mais inférieur à 1 000 m ³.
+3. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³.
 
 
 D
@@ -864,19 +868,19 @@ adhésifs synthétiques) (stockage de) :
 1. A l'état alvéolaire ou expansé tels que mousse de latex, de polyuréthane, de
 polystyrène, etc., le volume susceptible d'être stocké étant :
 
-a) Supérieur ou égal à 45 000 m ³ ;
+a) Supérieur ou égal à 45 000 m³ ;
 
 
 A
 
 2
 
-b) Supérieur ou égal à 2 000 m ³ mais inférieur à 45 000 m ³ ;
+b) Supérieur ou égal à 2 000 m³ mais inférieur à 45 000 m³ ;
 
 
 E
 
-c) Supérieur ou égal à 200 m ³ mais inférieur à 2 000 m ³.
+c) Supérieur ou égal à 200 m³ mais inférieur à 2 000 m³.
 
 
 D
@@ -884,19 +888,19 @@ D
 2. Dans les autres cas et pour les pneumatiques, le volume susceptible d'être
 stocké étant :
 
-a) Supérieur ou égal à 80 000 m ³ ;
+a) Supérieur ou égal à 80 000 m³ ;
 
 
 A
 
 2
 
-b) Supérieur ou égal à 10 000 m ³ mais inférieur à 80 000 m ³ ;
+b) Supérieur ou égal à 10 000 m³ mais inférieur à 80 000 m³ ;
 
 
 E
 
-c) Supérieur ou égal à 1 000 m ³ mais inférieur à 10 000 m ³.
+c) Supérieur ou égal à 1 000 m³ mais inférieur à 10 000 m³.
 
 
 D
@@ -1025,7 +1029,7 @@ Transit, regroupement, tri, désassemblage, remise en état d'équipements
 
 Le volume susceptible d'être entreposé étant :
 
-1. Supérieur ou égal à 1 000 m ³
+1. Supérieur ou égal à 1 000 m³
 
 
 A
@@ -1696,10 +1700,11 @@ déclaration au titre de la rubrique 2781-1
 DC
 
 Nota : La puissance thermique maximale est définie comme la quantité maximale de
-combustible, exprimée en PCI, susceptible d'être consommée par seconde. La
-biomasse au sens du A de la rubrique 2910 se présente à l'état naturel et n'est
-ni imprégnée ni revêtue d'une substance quelconque. Elle inclut le bois sous
-forme de morceaux bruts, d'écorces, de bois déchiquetés, de sciures, de
+combustible, exprimée en PCI, susceptible d'être consommée par seconde.
+
+La biomasse au sens du A de la rubrique 2910 se présente à l'état naturel et
+n'est ni imprégnée ni revêtue d'une substance quelconque. Elle inclut le bois
+sous forme de morceaux bruts, d'écorces, de bois déchiquetés, de sciures, de
 poussières de ponçage ou de chutes issues de l'industrie du bois, de sa
 transformation ou de son artisanat.
 
@@ -1737,37 +1742,14 @@ D
 
 2920
 
-Réfrigération ou compression (installations de) fonctionnant à des pressions
-effectives supérieures à 10 5 Pa.
-
-1. comprimant ou utilisant des fluides inflammables ou toxiques, la puissance
-absorbée étant :
-
-a) supérieure à 300 kW
+Installation de compression fonctionnant à des pressions effectives supérieures
+à 10 5 Pa et comprimant ou utilisant des fluides inflammables ou toxiques, la
+puissance absorbée étant supérieure à 10 MW
 
 
 A
 
 1
-
-b) supérieure à 20 kW, mais inférieure ou égale à 300 kW
-
-
-DC
-
-2. dans tous les autres cas :
-
-a) supérieure à 500 kW
-
-
-A
-
-1
-
-b) supérieure à 50 kW, mais inférieure ou égale à 500 kW
-
-
-D
 
 2921
 
@@ -1888,15 +1870,15 @@ Vernis, peinture, apprêt, colle, enduit, etc. (application, cuisson, séchage d
 sur support quelconque (métal, bois, plastique, cuir, papier, textile) à
 l'exclusion :
 
--des activités de traitement ou d'emploi de goudrons, d'asphaltes, de brais et
+- des activités de traitement ou d'emploi de goudrons, d'asphaltes, de brais et
 de matières bitumineuses, couvertes par la rubrique 1521,
 
--des activités couvertes par les rubriques 2445 et 2450,
+- des activités couvertes par les rubriques 2445 et 2450,
 
--des activités de revêtement sur véhicules et engins à moteurs couvertes par la
+- des activités de revêtement sur véhicules et engins à moteurs couvertes par la
 rubrique 2930,
 
--ou de toute autre activité couverte explicitement par une autre rubrique.
+- ou de toute autre activité couverte explicitement par une autre rubrique.
 
 1. Lorsque les produits mis en œuvre sont à base de liquides et lorsque
 l'application est faite par procédé "au trempé". Si la quantité maximale de
@@ -1923,7 +1905,7 @@ DC
 (pulvérisation, enduction). Si la quantité maximale de produits susceptible
 d'être mise en œuvre est :
 
-2. La quantité maximale de produits susceptible d'être mise en œuvre est :
+2. La quantité maximale de produits susceptible d'être mise en oeuvre est :
 
 a) supérieure à 100 kg/j
 
@@ -1950,8 +1932,8 @@ b) supérieure à 10 kg/j, mais inférieure ou égale à 100 kg/j
 DC
 
 3. Lorsque les produits mis en œuvre sont des poudres à base de résines
-organiques. Si la quantité maximale de produits susceptible d'être mise en œuvre
-est :
+organiques. Si la quantité maximale de produits susceptible d'être mise en
+oeuvre est :
 
 a) supérieure à 200 kg/j
 
