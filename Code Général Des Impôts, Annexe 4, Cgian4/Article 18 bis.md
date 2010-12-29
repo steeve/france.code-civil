@@ -12,52 +12,54 @@ d'eau chaude ;
 
 b) Acquisition de matériaux d'isolation thermique :
 
-1° Matériaux d'isolation thermique des parois opaques :
+1° Matériaux d'isolation thermique des parois opaques, dans la limite d'un
+plafond de dépenses fixé respectivement à 150 € et 100 €, toutes taxes
+comprises, par mètre carré de parois isolées par l'extérieur et par mètre carré
+de parois isolées par l'intérieur :
 
 Planchers bas sur sous-sol, sur vide sanitaire ou sur passage ouvert, murs en
 façade ou en pignon, possédant une résistance supérieure ou égale à 2, 8 mètres
-carrés Kelvin par watt (m2.K / W) ;
+carrés Kelvin par watt (m2.K/W) ;
 
-Toitures-terrasses possédant une résistance supérieure ou égale à 3 m2.K / W ;
+Toitures-terrasses possédant une résistance supérieure ou égale à 3 m2.K/W ;
 
 Planchers de combles perdus possédant une résistance thermique supérieure ou
-égale à 5 m2.K / W ;
+égale à 5 m2.K/W ;
 
 Rampants de toiture et plafonds de combles possédant une résistance thermique
-supérieure ou égale à 5 m2.K / W ;
+supérieure ou égale à 5 m2.K/W ;
 
 2° Matériaux d'isolation thermique des parois vitrées :
 
 Fenêtres ou portes-fenêtres composées en tout ou partie de polychlorure de
 vinyle (PVC), avec un coefficient de transmission thermique (Uw) inférieur ou
-égal à 1, 6 watt par mètre carré Kelvin (W / m2.K) ; cette valeur est ramenée à
-1, 4 W / m2.K à partir du 1er janvier 2009 ;
+égal à 1,6 watt par mètre carré Kelvin (W/m2.K) ; cette valeur est ramenée à 1,4
+W/m2.K à partir du 1er janvier 2009 ;
 
 Fenêtres ou portes-fenêtres composées en tout ou partie de bois, autres que
 celles mentionnées ci-dessus, avec un coefficient de transmission thermique (Uw)
-inférieur ou égal à 1, 8 W / m2.K ; cette valeur est ramenée à 1, 6 W / m2.K à
-partir du 1er janvier 2009 ;
+inférieur ou égal à 1,8 W/m2.K ; cette valeur est ramenée à 1,6 W/m2.K à partir
+du 1er janvier 2009 ;
 
 Fenêtres ou portes-fenêtres métalliques avec un coefficient de transmission
-thermique (Uw) inférieur ou égal à 2 W / m2.K ; cette valeur est ramenée à 1, 8
-W / m2.K à partir du 1er janvier 2009 ;
+thermique (Uw) inférieur ou égal à 2 W/m2.K ; cette valeur est ramenée à 1,8
+W/m2.K à partir du 1er janvier 2009 ;
 
 Vitrages de remplacement à isolation renforcée dénommés également vitrages à
 faible émissivité, installés sur une menuiserie existante et dont le coefficient
-de transmission thermique du vitrage (Ug) est inférieur ou égal à 1, 5 W / m2.K
-;
+de transmission thermique du vitrage (Ug) est inférieur ou égal à 1,5 W/m2.K ;
 
 Doubles fenêtres, consistant en la pose sur la baie existante d'une seconde
 fenêtre à double vitrage renforcé, dont le coefficient de transmission thermique
-(Uw) est inférieur ou égal à 2 W / m2.K ;
+(Uw) est inférieur ou égal à 2 W/m2.K ;
 
 3° Volets isolants : volets isolants caractérisés par une résistance thermique
-additionnelle apportée par l'ensemble volet-lame d'air ventilé supérieure à 0,
-20 m2.K / W ;
+additionnelle apportée par l'ensemble volet-lame d'air ventilé supérieure à 0,20
+m2.K /W ;
 
 4° Calorifugeage de tout ou partie d'une installation de production ou de
 distribution de chaleur ou d'eau chaude sanitaire avec une résistance thermique
-supérieure ou égale à 1 m2.K / W ;
+supérieure ou égale à 1 m2.K/W ;
 
 5° Portes d'entrée donnant sur l'extérieur présentant un coefficient Ud
 inférieur ou égal à 1,8 W/m².K ;
@@ -151,9 +153,54 @@ selon le référentiel de la norme d'essai 14511-2 ;
 
 5° (Paragraphe abrogé) ;
 
-6° Les pompes à chaleur dédiées à la production d'eau chaude sanitaire ayant un
-coefficient de performance supérieur à 2,2 selon le référentiel de la norme
-d'essai EN 255-3 ;
+6° Les pompes à chaleur dédiées à la production d'eau chaude sanitaire
+répondant, selon le référentiel de la norme d'essai EN 255-3, aux critères
+suivants en fonction de la technologie utilisée :
+
+TECHNOLOGIE UTILISÉE (source)
+
+
+COP SUPÉRIEUR À
+
+TEMPÉRATURE D'ESSAI (source)
+
+TEMPÉRATURE de consigne de l'eau
+
+
+Air ambiant
+
+2,5
+
++ 7° C
+
++ 50°
+
+
+Air extérieur
+
+2,5
+
++ 7° C
+
++ 50°
+
+
+Air extrait
+
+2,9
+
++ 20° C
+
++ 50°
+
+
+Géothermie
+
+2,5
+
+-
+
++ 50°
 
 c) Equipements de raccordement à un réseau de chaleur, alimenté majoritairement
 par des énergies renouvelables ou par une installation de cogénération, qui
