@@ -5,7 +5,7 @@ l'article L. 732-41 est fixé à 2080 fois le montant horaire du salaire minimum
 de croissance en vigueur au 1er janvier.
 
 Le plafond annuel de ressources du ménage prévu au même alinéa du même article
-est fixé à 1, 6 fois le plafond fixé à l'alinéa ci-dessus.
+est fixé à 1,6 fois le plafond fixé à l'alinéa ci-dessus.
 
 La pension de réversion est attribuée lorsque le conjoint de l'assuré décédé ou
 disparu ne dispose pas de ressources dépassant le montant fixé au premier ou au
@@ -43,9 +43,9 @@ date d'effet de la dernière révision ne peut être postérieure :
 entré en jouissance de l'ensemble des avantages personnels de retraite de base
 et complémentaire lorsqu'il peut prétendre à de tels avantages ;
 
-2° A la date de son soixantième anniversaire, dans le cas où le conjoint
-survivant ne peut prétendre à aucun avantage personnel de retraite de base et
-complémentaire.
+2° A la date à laquelle le conjoint survivant atteint l'âge prévu à l'article L.
+732-18, dans le cas où il ne peut prétendre à aucun avantage personnel de
+retraite de base et complémentaire.
 
 Le conjoint survivant et le conjoint divorcé doivent obligatoirement joindre à
 leur demande de retraite de réversion la copie de l'acte de naissance de

@@ -10,7 +10,8 @@ calcul de l'avantage de réversion.
 
 Toutefois, la limite prévue à l'alinéa ci-dessus ne peut être inférieure à 73 %
 du montant maximum de la pension de vieillesse du régime général liquidée à
-soixante-cinq ans.
+l'âge prévu par les 1°,1° bis,1° ter de l'article L. 351-8 et aux III et IV de
+l'article 20 de la loi n° 2010-1330 du 9 novembre 2010.
 
 L'application des limites prévues aux deux alinéas ci-dessus ne peut conduire à
 verser une pension d'invalidité de veuve ou de veuf, ou une pension de

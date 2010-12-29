@@ -15,7 +15,7 @@ b) 4 % par année au-delà de cent soixante-quatre trimestres ou 1 % par trimest
 dans le cas où la durée d'assurance mentionnée à l'article L. 732-25-1, au titre
 d'une année civile, est inférieure à quatre trimestres ;
 
-c) 5 % par année après le soixante-cinquième anniversaire de l'assuré ou 1, 25 %
+c) 5 % par année après le soixante-cinquième anniversaire de l'assuré ou 1,25 %
 par trimestre dans le cas où la durée d'assurance mentionnée à l'article L.
 732-25-1, au titre d'une année civile, est inférieure à quatre trimestres ;
 
@@ -37,18 +37,18 @@ c) 5 % par année après le soixante-cinquième anniversaire de l'assuré ou 1,2
 par trimestre dans le cas où la durée d'assurance mentionnée à l'article L.
 732-25-1, au titre d'une année civile, est inférieure à quatre trimestres ;
 
-B. Pour les trimestres accomplis à compter du 1er janvier 2009, 5 % par année
-après le soixantième anniversaire de l'assuré ou 1, 25 % par trimestre dans le
+B. Pour les trimestres accomplis à compter du 1er janvier 2009,5 % par année
+au-delà de l'âge prévu par l'article L. 732-18 ou 1,25 % par trimestre dans le
 cas où la durée d'assurance mentionnée à l'article L. 732-25-1, au titre d'une
 année civile, est inférieure à quatre trimestres.
 
 La durée d'assurance mentionnée au présent article est celle accomplie à compter
-du 1er janvier 2004, postérieurement au soixantième anniversaire de l'assuré et
-au-delà de la durée minimale prévue à l'article L. 732-25.
+du 1er janvier 2004, au-delà de l'âge fixé à l'article L. 732-18 et au-delà de
+la durée minimale prévue à l'article L. 732-25.
 
 La durée d'assurance prise en compte au-delà de la durée minimale prévue à
 l'article L. 732-25 ne peut excéder quatre trimestres par année.
 
-Il est retenu au titre de l'année du soixantième anniversaire un nombre de
-trimestres égal au nombre de trimestres civils entiers suivant celui au cours
-duquel est survenu cet anniversaire.
+Il est retenu au titre de l'année au cours de laquelle l'assuré a atteint l'âge
+prévu par l'article L. 732-18 un nombre de trimestres égal au nombre de
+trimestres civils entiers suivant celui au cours duquel cet âge a été atteint.

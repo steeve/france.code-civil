@@ -15,9 +15,10 @@ des pensions civiles et militaires de retraite, ont droit aux prestations en
 nature de l'assurance invalidité selon les modalités fixées à l'alinéa
 précédent.
 
-Lorsque les retraités mentionnés à l'alinéa précédent atteignent l'âge de
-soixante ans, ils ont le droit, sans limitation de durée, aux prestations en
-nature de l'assurance maladie pour l'affection ayant donné lieu à l'attribution
-de la pension d'invalidité ou de prestations d'invalidité temporaire. Les mêmes
-avantages sont accordés aux fonctionnaires retraités pour invalidité au titre du
-régime général des pensions civiles de l'Etat à l'âge de soixante ans au moins.
+Lorsque les retraités mentionnés à l'alinéa précédent atteignent l'âge prévu par
+l'article L. 161-17-2, ils ont le droit, sans limitation de durée, aux
+prestations en nature de l'assurance maladie pour l'affection ayant donné lieu à
+l'attribution de la pension d'invalidité ou de prestations d'invalidité
+temporaire. Les mêmes avantages sont accordés aux fonctionnaires retraités pour
+invalidité au titre du régime général des pensions civiles de l'Etat à l'âge
+prévu par l'article L. 161-17-2 au moins.

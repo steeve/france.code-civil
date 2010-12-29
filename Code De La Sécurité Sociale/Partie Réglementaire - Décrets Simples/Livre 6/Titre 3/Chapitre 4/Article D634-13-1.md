@@ -1,11 +1,11 @@
 Article D634-13-1
 ----
-L'assuré qui transmet son entreprise entre soixante et soixante-cinq ans est
-autorisé, en application de l'article L. 634-6-1, à y poursuivre une activité
-rémunérée, tout en percevant ses prestations de vieillesse liquidées au titre
-d'un régime obligatoire, pendant une durée de six mois . Ce délai prend effet au
-premier jour du mois civil suivant celui au cours duquel est intervenue la
-transmission.
+L'assuré qui transmet son entreprise entre l'âge prévu par l'article L. 161-17-2
+et celui prévu par ce même article augmenté de cinq années est autorisé, en
+application de l'article L. 634-6-1, à y poursuivre une activité rémunérée, tout
+en percevant ses prestations de vieillesse liquidées au titre d'un régime
+obligatoire, pendant une durée de six mois. Ce délai prend effet au premier jour
+du mois civil suivant celui au cours duquel est intervenue la transmission.
 
 L'assuré atteste la transmission par tous moyens. Celle-ci ne peut être
 antérieure, notamment, à la vente ou à la promesse de vente du fonds par acte
