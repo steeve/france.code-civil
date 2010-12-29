@@ -19,3 +19,10 @@ Lorsque le prix de vente est supérieur à la valeur actuelle, diminuée le cas
 inférieur à la valeur actuelle, diminuée le cas échéant de la dépréciation
 mentionnée au dernier alinéa du I du même article, la différence est prélevée
 sur la réserve de capitalisation, dans la limite du montant de celle-ci.
+
+La charge ou le produit théorique d'impôts lié à la non-prise en compte, dans le
+résultat imposable de l'entreprise, des versements ou prélèvements mentionnées à
+l'alinéa précédent donne lieu à respectivement une reprise non technique sur la
+réserve de capitalisation ou à une dotation non technique à la réserve de
+capitalisation, pour un montant équivalent. Cette reprise ou cette dotation
+contribue au résultat non technique de l'entreprise.
