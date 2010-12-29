@@ -29,7 +29,11 @@ suivantes :
 
 -le numéro de facture et la date de facturation, s'il y a lieu ;
 
--le code postal de l'utilisateur final.
+-le code postal de l'utilisateur final ;
+
+- les références attestant de sa qualité d'utilisateur professionnel, fixées
+dans un arrêté du ministre chargé de l'agriculture, et dans les conditions qu'il
+détermine.
 
 Un bilan est établi pour l'année civile précédente ou, en cas de changement de
 taux en cours d'année, d'une part, pour la période comprise entre le 1er janvier

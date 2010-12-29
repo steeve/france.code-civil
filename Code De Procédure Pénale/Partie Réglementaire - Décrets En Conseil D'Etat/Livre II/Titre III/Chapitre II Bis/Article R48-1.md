@@ -135,5 +135,7 @@ publique ;
 
 Contraventions en matière de collecte et de destruction de médicaments à usage
 humain non utilisés réprimées par les articles R. 4212-1 et R. 4212-2 du code de
-la santé publique. 6° (1) Contraventions réprimées par les 1° et 3° de l'article
-R. 254-20 du code rural et de la pêche maritime.
+la santé publique.
+
+7° Contraventions réprimées par les 1°,3° et 4° du II de l'article R. 254-20 du
+code rural et de la pêche maritime.
