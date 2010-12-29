@@ -29,10 +29,7 @@ d'outre-mer.
 II. ― Ce montant minimum annuel est calculé de manière différenciée :
 
 1° Pour tout ou partie des périodes d'assurance validées en qualité de chef
-d'exploitation ou d'entreprise agricole à titre exclusif ou principal par les
-personnes qui justifient d'une durée d'assurance en qualité de chef
-d'exploitation ou d'entreprise agricole à titre exclusif ou principal au moins
-égale à dix-sept années et demie ;
+d'exploitation ou d'entreprise agricole à titre exclusif ou principal ;
 
 2° Pour tout ou partie des périodes d'assurance non salariée agricole à titre
 exclusif ou principal validées par les personnes susceptibles de bénéficier
@@ -54,13 +51,9 @@ janvier 2009 ;
 4° Pour tout ou partie des périodes d'assurance à titre exclusif ou principal
 validées en qualité de collaborateur d'exploitation ou d'entreprise agricole
 mentionné à l'article L. 732-35 ou en qualité de conjoint participant aux
-travaux mentionné à l'article L. 732-34, autres que celles définies au 3°, pour
-tout ou partie des périodes d'assurance validées en qualité d'aide familial au
-sens de l'article L. 732-34, ainsi que pour tout ou partie des périodes
-d'assurance validées en qualité de chef d'exploitation ou d'entreprise agricole
-à titre exclusif ou principal par les personnes qui justifient d'une durée
-d'assurance en qualité de chef d'exploitation ou d'entreprise agricole à titre
-exclusif ou principal inférieure à dix-sept années et demie.
+travaux mentionné à l'article L. 732-34, autres que celles définies au 3°, et
+pour tout ou partie des périodes d'assurance validées en qualité d'aide familial
+au sens de l'article L. 732-34.
 
 III. ― Pour les personnes dont la pension de retraite servie à titre personnel a
 pris effet avant le 1er janvier 1997, la durée d'assurance en qualité de chef
