@@ -1,9 +1,9 @@
 Article R1411-50
 ----
-Le président du Haut Conseil de la santé publique est élu par les membres du
-collège et des commissions spécialisées parmi les personnalités qualifiées, au
-scrutin uninominal à deux tours, pour une durée de trois ans. A égalité de voix
-au deuxième tour, le candidat le plus âgé est déclaré élu.
+Le président du Haut Conseil de la santé publique est élu par les personnalités
+qualifiées des commissions spécialisées parmi elles, au scrutin uninominal à
+deux tours, pour une durée de quatre ans renouvelable une fois. A égalité de
+voix au deuxième tour, le candidat le plus âgé est déclaré élu.
 
 Un vice-président, chargé de suppléer temporairement le président, est élu dans
 les mêmes conditions.
