@@ -62,7 +62,8 @@ accidents du travail et des maladies professionnelles ;
 
 28° L'Institut Pasteur ;
 
-29° Le laboratoire central des ponts et chaussées ;
+29° L'institut français des sciences et technologies des transports, de
+l'aménagement et des réseaux ;
 
 30° Le Laboratoire national de métrologie et d'essais ;
 

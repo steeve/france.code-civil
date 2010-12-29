@@ -161,7 +161,7 @@ avril 1988 modifié.
 
 -Professeurs, maîtres-assistants et assistants des écoles nationales supérieures
 des mines et des écoles nationales supérieures des techniques industrielles et
-des mines régis par le décret n° 2007-468 du 28 mars 2007 .
+des mines régis par le décret n° 2007-468 du 28 mars 2007.
 
 -Techniciens de laboratoire affectés dans les écoles nationales supérieures des
 mines et dans les écoles nationales supérieures des techniques industrielles et
@@ -171,7 +171,7 @@ des mines et régis par le décret n° 96-273 du 26 mars 1996 modifié.
 régis par le décret n° 67-715 du 16 août 1967.
 
 -Fonctionnaires de l'Etat détachés sur des emplois de l'Institut Télécom en
-vertu du 1° de l'article 36 du décret n° 96-1177 du 27 décembre 1996 .
+vertu du 1° de l'article 36 du décret n° 96-1177 du 27 décembre 1996.
 
 
 Agents non titulaires
@@ -207,7 +207,7 @@ Equipement, transports et logement.
 
 Corps de fonctionnaires :
 
-- ingénieurs des ponts, des eaux et des forêts régis par le décret n° 59-358 du
+-ingénieurs des ponts, des eaux et des forêts régis par le décret n° 59-358 du
 20 février 1959 modifié ;
 
 -chargés de recherche et directeurs de recherche régis par le décret n° 94-943
@@ -232,7 +232,7 @@ décret n° 71-907 du 8 novembre 1971 modifié ;
 du 8 novembre 1990 modifié ;
 
 -ingénieurs électroniciens des systèmes de la sécurité aérienne régis par le
-décret n° 91-56 du 16 janvier 1991 , modifié par le décret n° 94-278 du 11 avril
+décret n° 91-56 du 16 janvier 1991, modifié par le décret n° 94-278 du 11 avril
 1994 ;
 
 -ingénieurs de la météorologie régis par le décret n° 63-1376 du 24 décembre
@@ -250,9 +250,9 @@ dispositions suivantes :
 et de la modernisation de l'administration, du ministre de l'équipement, du
 logement, des transports et de l'espace et du ministre délégué au budget ;
 
--règlement du 14 mai 1973 régissant les personnels non titulaires du laboratoire
-central des ponts et chaussées et des centres d'études techniques de
-l'équipement ;
+-règlement du 14 mai 1973 régissant les personnels non titulaires du institut
+français des sciences et technologies des transports, de l'aménagement et des
+réseaux et des centres d'études techniques de l'équipement ;
 
 -règlement intérieur du 30 octobre 1969 modifié relatif aux personnels non
 titulaires employés au service d'études techniques des routes et autoroutes ;
