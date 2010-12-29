@@ -10,7 +10,7 @@ publique mentionnée au 2° ;
 3° 1 000 euros pour tout dépôt d'un document de référence ou d'un document de
 base mentionné au 3° ;
 
-4° 1 000 euros pour toute autorisation d'un organisme de placements collectifs
+4° 2 000 euros pour toute autorisation d'un organisme de placements collectifs
 en valeurs mobilières ou d'un compartiment d'un tel organisme, soumis à la
 législation d'un Etat étranger ;
 
@@ -22,4 +22,4 @@ contrats financiers à terme et mentionnés au 5° ;
 article ;
 
 7° 8 000 euros par dépôt d'un document d'information ou d'un projet de contrat
-type mentionné au 7° .
+type mentionné au 7°.
