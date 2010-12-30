@@ -1,60 +1,77 @@
 Article D241-7
 ----
-I. - La réduction prévue à l'article L. 241-13 est égale au produit de la
-rémunération mensuelle brute versée au salarié par le coefficient mentionné au
-III de l'article L. 241-13. Ce coefficient est déterminé par application de la
-formule suivante :
+I.-Le coefficient mentionné au III de l'article L. 241-13 est déterminé par
+application de la formule suivante :
 
-Coefficient =
-
-(0,260/0,6) x (1,6 x montant mensuel du SMIC/rémunération mensuelle brute hors
-heures supplémentaires et complémentaires - 1)
+Coefficient = (0,26/0,6) × (1,6 × SMIC calculé pour un an/ rémunération annuelle
+brute-1).
 
 Pour les employeurs de un à dix-neuf salariés mentionnés au quatrième alinéa du
 III de l'article L. 241-13, le coefficient fixé au premier alinéa est déterminé
 par application de la formule suivante :
 
-Coefficient =
+Coefficient = (0,281/0,6) × (1,6 × SMIC calculé pour un an/ rémunération
+annuelle brute-1)
 
-(0,281/0,6) x (1,6 x montant mensuel du SMIC/rémunération mensuelle brute hors
-heures supplémentaires et complémentaires - 1)
+Le résultat obtenu par application de l'une ou l'autre de ces formules est
+arrondi à quatre décimales, au dix millième le plus proche. Pour les entreprises
+de un à dix-neuf salariés, il est pris en compte pour une valeur égale à 0,2810
+s'il est supérieur à 0,2810. Pour les entreprises de plus de dix-neuf salariés,
+il est pris en compte pour une valeur égale à 0,2600 s'il est supérieur à
+0,2600.
 
-1. Le montant mensuel du salaire minimum de croissance à prendre en compte est
-égal à la valeur de 151,67 fois le salaire minimum de croissance prévu par
-l'article L. 141-2 du code du travail. Pour les salariés dont la rémunération
-contractuelle n'est pas fixée pour l'ensemble du mois considéré sur la base
-d'une durée hebdomadaire, ou rapportée à la durée du cycle, de 35 heures ou
-d'une durée annuelle de 1 607 heures, le montant mensuel du salaire minimum de
-croissance ainsi déterminé est corrigé à proportion de la durée de travail ou de
-la durée équivalente au sens du cinquième alinéa de l'article L. 212-4 du code
-du travail, hors heures supplémentaires et complémentaires au sens de l'article
-81 quater du code général des impôts, inscrite à leur contrat de travail au
-titre de la période où ils sont présents dans l'entreprise et rapportée à celle
-correspondant à la durée légale du travail.
+Le montant de la rémunération annuelle brute à prendre en compte est défini
+selon les modalités prévues au III de l'article L. 241-13.
 
-2. La rémunération mensuelle brute hors heures supplémentaires et
-complémentaires est constituée des gains et rémunérations tels que définis à
-l'article L. 242-1, versés au salarié au cours du mois civil, à l'exclusion de
-la rémunération des heures complémentaires et supplémentaires dans la limite, en
-ce qui concerne la majoration salariale correspondante, des taux de 25 % ou de
-50 %, selon le cas, prévus au I de l'article L. 212-5 du code du travail et à
-l'article L. 713-6 du code rural et de la pêche maritime.
+Sous réserve des dispositions prévues par les aliénas suivants, le montant
+annuel du salaire minimum de croissance à prendre en compte est égal à 1 820
+fois le salaire minimum de croissance prévu par l'article L. 3231-2 du code du
+travail ou à la somme de douze fractions identiques correspondant à sa valeur
+multipliée par les 52/12 de la durée légale hebdomadaire.
 
-3. En cas de suspension du contrat de travail avec maintien partiel de la
-rémunération mensuelle brute du salarié, le montant mensuel du salaire minimum
-de croissance pris en compte pour le calcul du coefficient est réduit selon le
-pourcentage de la rémunération demeurée à la charge de l'employeur et soumise à
-cotisations.
+Pour les salariés travaillant à temps partiel ou dont la rémunération
+contractuelle n'est pas fixée sur la base de la durée légale ainsi que pour les
+salariés n'entrant pas dans le champ d'application de l'article L. 3242-1 du
+code du travail, le montant du salaire minimum de croissance ainsi déterminé est
+corrigé à proportion de la durée de travail ou de la durée équivalente au sens
+de l'article L. 3121-9 du code du travail ou de l'article L. 713-5 du code rural
+et de la pêche maritime, hors heures supplémentaires et complémentaires au sens
+de l'article 81 quater du code général des impôts, inscrite à leur contrat de
+travail au titre de la période où ils sont présents dans l'entreprise et
+rapportée à celle correspondant à la durée légale du travail.
 
-4. Le résultat obtenu par application de l'une ou l'autre de ces formules est
-arrondi à trois décimales, au millième le plus proche. Pour les entreprises de
-un à dix-neuf salariés, il est pris en compte pour une valeur égale à 0,281 s'il
-est supérieur à 0,281. Pour les entreprises de plus de dix-neuf salariés, il est
-pris en compte pour une valeur égale à 0,260 s'il est supérieur à 0,260.
+En cas de suspension du contrat de travail avec paiement intégral de la
+rémunération brute du salarié, la fraction du montant du salaire minimum de
+croissance correspondant au mois où le contrat est suspendu est prise en compte
+pour sa valeur déterminée dans les conditions ci-dessus.
 
-II. - Pour les salariés d'une entreprise de travail temporaire mis à disposition
-au cours d'un mois civil auprès de plusieurs entreprises utilisatrices, le
-montant mensuel de la réduction est la somme des réductions appliquées à la
-rémunération brute versée au salarié au titre de chaque mission effectuée au
-cours de ce mois. Le coefficient mentionné au I est déterminé pour chaque
-mission.
+Pour les salariés entrant dans le champ d'application de l'article L. 3242-1
+susmentionné qui ne sont pas présents toute l'année ou dont le contrat de
+travail est suspendu sans paiement de la rémunération ou avec paiement partiel
+de celle-ci, la fraction du montant du salaire minimum de croissance
+correspondant au mois où a lieu l'absence est corrigée selon le rapport entre la
+rémunération versée et celle qui aurait été versée si le salarié avait été
+présent tout le mois, hors éléments de rémunération qui ne sont pas affectés par
+l'absence. Le salaire minimum de croissance est corrigé selon les mêmes
+modalités pour les salariés n'entrant pas dans le champ d'application de
+l'article L. 3242-1 susmentionné dont le contrat de travail est suspendu avec
+paiement partiel de la rémunération.
+
+Si un des paramètres de détermination du montant annuel du salaire minimum de
+croissance à prendre en compte évolue en cours d'année, sa valeur annuelle est
+égale à la somme des valeurs déterminées par application des règles précédentes
+pour les périodes antérieure et postérieure à l'évolution.
+
+II.-Pour les salariés en contrat de travail temporaire mis à disposition au
+cours d'une année auprès de plusieurs entreprises utilisatrices, le coefficient
+mentionné au I est déterminé pour chaque mission.
+
+Pour les salariés en contrat à durée déterminée auprès d'un même employeur, le
+coefficient mentionné au I est déterminé pour chaque contrat.
+
+III.-Pour l'application du cinquième alinéa du III de l'article L. 241-13, le
+temps de travail effectué sur l'année auprès des membres de ces groupements qui
+ont un effectif de dix-neuf salariés au plus s'apprécie en fonction du rapport
+entre la durée du travail auprès de ces membres inscrite à leur contrat ou à
+leur convention de mise à disposition et la durée totale du travail effectuée
+sur l'année.
