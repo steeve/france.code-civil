@@ -17,14 +17,14 @@ La durée reconstituée d'assurance en qualité de chef d'exploitation ou
 d'entreprise agricole à titre exclusif ou principal est déterminée en divisant
 par seize le nombre de points de retraite proportionnelle inscrits, avant
 application au compte de l'assuré, le cas échéant, des dispositions des articles
-D. 732-109 à D. 732-140. Lorsque l'intéressé a exercé une partie de sa carrière
-simultanément en qualité de chef d'exploitation ou d'entreprise agricole à titre
-secondaire et de salarié à titre principal, une minoration forfaitaire de quinze
-points est appliquée pour chaque année qui n'a pas donné lieu à versement des
-cotisations ouvrant droit à la retraite forfaitaire ou à validation au titre de
-périodes assimilées pour l'obtention de cette même retraite. Lorsque au terme de
-cette reconstitution l'intéressé totalise un nombre d'annuités de chef
-d'exploitation ou d'entreprise agricole supérieur à sa durée de carrière non
-salariée agricole telle que définie au deuxième alinéa, ce nombre est ramené à
-la durée de carrière de non-salarié agricole dans la limite de trente-sept
-années et demie.
+D. 732-109 à D. 732-140 dans leur rédaction antérieure au 1er janvier 2009.
+Lorsque l'intéressé a exercé une partie de sa carrière simultanément en qualité
+de chef d'exploitation ou d'entreprise agricole à titre secondaire et de salarié
+à titre principal, une minoration forfaitaire de quinze points est appliquée
+pour chaque année qui n'a pas donné lieu à versement des cotisations ouvrant
+droit à la retraite forfaitaire ou à validation au titre de périodes assimilées
+pour l'obtention de cette même retraite. Lorsque au terme de cette
+reconstitution l'intéressé totalise un nombre d'annuités de chef d'exploitation
+ou d'entreprise agricole supérieur à sa durée de carrière non salariée agricole
+telle que définie au deuxième alinéa, ce nombre est ramené à la durée de
+carrière de non-salarié agricole dans la limite de trente-sept années et demie.

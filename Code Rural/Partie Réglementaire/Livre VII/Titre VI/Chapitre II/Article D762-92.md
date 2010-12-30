@@ -20,11 +20,11 @@ d'effet de la pension de retraite complémentaire obligatoire est par dérogatio
 à l'alinéa précédent fixée au premier jour du mois suivant celui au cours duquel
 l'assuré demande la liquidation de sa retraite complémentaire obligatoire.
 
-Pour les personnes mentionnées à l'article D. 762-84 et au deuxième alinéa de
-l'article D. 732-154, sont seules prises en considération au titre des années
-postérieures à 2002, pour le calcul de la pension de la retraite complémentaire
-obligatoire, les cotisations qui ont été acquittées avant la date de leur
-prescription.
+Pour les personnes mentionnées aux 1° et 2° de l'article D. 762-84 et au
+deuxième alinéa de l'article D. 732-154, sont seules prises en considération au
+titre des années postérieures à 2002, pour le calcul de la pension de la
+retraite complémentaire obligatoire, les cotisations qui ont été acquittées
+avant la date de leur prescription.
 
 Pour les personnes mentionnées au premier alinéa de l'article D. 732-154, la
 date d'effet de la pension de retraite complémentaire obligatoire est fixée au
@@ -33,7 +33,7 @@ date d'effet de la pension de retraite complémentaire obligatoire est fixée au
 Les dispositions des articles L. 732-39 et L. 732-40 sont applicables à la
 pension de retraite complémentaire obligatoire.
 
-Les dispositions des huitième à quatorzième et dernier alinéas de l'article D.
+Les dispositions des huitième à onzième et dernier alinéas de l'article D.
 732-157 sont applicables dans les départements d'outre-mer.
 
 La décision d'attribution ou de rejet de la pension de retraite complémentaire

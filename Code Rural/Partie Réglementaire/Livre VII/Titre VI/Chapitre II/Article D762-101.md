@@ -21,4 +21,17 @@ hectares pondérés ;
 
 2° Pour les affiliés mentionnés au 2° de l'article D. 762-84, le taux de la
 cotisation est égal à 0, 4242 % de l'assiette forfaitaire fixée à l'article D.
-762-88.
+762-88 ;
+
+3° Pour les affiliés mentionnés au 3° de l'article D. 762-84 :
+
+a) Lorsque la superficie réelle pondérée de l'exploitation est comprise entre 2
+et 14 hectares, le taux de la cotisation est égal à 0,4242 % de l'assiette
+forfaitaire fixée à 1 200 fois le montant du salaire minimum de croissance en
+vigueur au 1er janvier de l'année considérée par l'article D. 762-88, majoré de
+0,2121 point par hectare au-delà de 2 hectares pondérés ;
+
+b) Lorsque la superficie réelle pondérée de l'exploitation est supérieure à 14
+hectares, le taux de la cotisation est égal à 3 % de l'assiette forfaitaire
+fixée à 1 200 fois le montant du salaire minimum de croissance en vigueur au 1er
+janvier de l'année considérée par l'article D. 762-88.
