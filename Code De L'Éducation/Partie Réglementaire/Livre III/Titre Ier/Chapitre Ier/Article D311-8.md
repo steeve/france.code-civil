@@ -12,6 +12,7 @@ régionaux d'enseignement adapté, par l'enseignant de référence de chaque
 division, après consultation de l'équipe pédagogique de la classe ;
 
 c) Dans les centres de formation d'apprentis, pour les apprentis juniors, par le
-tuteur mentionné à l'article D. 337-166 et, pour les autres apprentis encore
-soumis à la scolarité obligatoire, par un formateur désigné par le directeur du
-centre.
+tuteur mentionné à l'article D. 337-166, pour les élèves relevant du dispositif
+d'initiation aux métiers en alternance, par le référent mentionné à l'article D.
+337-178 et, pour les autres apprentis encore soumis à la scolarité obligatoire,
+par un formateur désigné par le directeur du centre.
