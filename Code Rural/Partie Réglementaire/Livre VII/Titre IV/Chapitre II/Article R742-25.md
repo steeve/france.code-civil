@@ -19,10 +19,9 @@ intervenues postérieurement au 13 juillet 1962.
 
 Les demandes de rachat doivent être présentées avant le 1er janvier 2003.
 
-Les personnes mentionnées au 3° ci-dessus doivent présenter leur demande de
-rachat dans le délai de six mois à compter de la date d'effet de leur
-immatriculation à l'assurance obligatoire ; toutefois, ce délai ne pourra venir
-à expiration avant le 1er janvier 2003.
+Par dérogation à l'alinéa précédent, les personnes mentionnées au 3° ci-dessus
+doivent présenter leur demande de rachat dans le délai de dix ans à compter de
+la date d'effet de leur immatriculation à l'assurance obligatoire.
 
 Les demandes de rachat doivent être présentées, dans des conditions fixées par
 arrêté du ministre chargé de l'agriculture et du ministre chargé de la sécurité

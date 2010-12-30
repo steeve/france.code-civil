@@ -28,3 +28,9 @@ l'article L. 351-11.
 
 Les arrêtés mentionnés à l'article L. 351-11 sont pris par le ministre chargé de
 la sécurité sociale et le ministre chargé du budget.
+
+Ne sont pas prises en compte pour la détermination du salaire annuel moyen
+défini au présent article les années comprenant une période au titre de laquelle
+un versement de cotisations a été effectué en application de l'article L.
+351-14-1 ou en application, en ce qui concerne des demandes de rachat déposées à
+compter du 1er janvier 2011, des articles L. 351-14 ou L. 742-2.

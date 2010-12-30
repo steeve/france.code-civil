@@ -1,18 +1,22 @@
 Article R742-6
 ----
-Le montant des cotisations trimestrielles exigibles de chacune des catégories
-d'assurés sociaux volontaires, telles que mentionnées à l'article R. 742-1 pour
-la couverture des risques prévus à l'article R. 742-4 est fixé par arrêté du
-ministre chargé de la sécurité sociale et ministre chargé du budget.
+L'assiette des cotisations trimestrielles exigibles de chacune des catégories
+d'assurés sociaux volontaires mentionnées à l'article R. 742-4, pour la
+couverture des risques prévus à l'article R. 742-5, est fixée par arrêté du
+ministre chargé de la sécurité sociale et du ministre chargé du budget. Le taux
+de ces cotisations est égal, pour le risque vieillesse, à la somme des taux de
+cotisations, à la charge de l'employeur et du salarié, prévues aux deuxième et
+quatrième alinéas de l'article L. 241-3, à laquelle il convient d'ajouter 0,9 %
+pour le risque invalidité.
 
 Les cotisations sont payables d'avance à l'union pour le recouvrement des
 cotisations de sécurité sociale et d'allocations familiales, dans les quinze
-premiers jours de chaque trimestre civil *période*. Elles sont exigibles à
-compter du premier jour du trimestre civil qui suit la demande d'affiliation à
-l'assurance sociale volontaire. Toutefois, les intéressés peuvent demander que
-l'affiliation prenne effet à compter du premier jour du trimestre civil au cours
-duquel la demande est présentée. Dans ce cas, les cotisations sont dues à partir
-de la même date.
+premiers jours de chaque trimestre civil. Elles sont exigibles à compter du
+premier jour du trimestre civil qui suit la demande d'affiliation à l'assurance
+sociale volontaire. Toutefois, les intéressés peuvent demander que l'affiliation
+prenne effet à compter du premier jour du trimestre civil au cours duquel la
+demande est présentée. Dans ce cas, les cotisations sont dues à partir de la
+même date.
 
 Le règlement des cotisations donne lieu à l'envoi ou à la remise par l'union de
 recouvrement d'une quittance valant attestation de paiement pour l'ouverture des

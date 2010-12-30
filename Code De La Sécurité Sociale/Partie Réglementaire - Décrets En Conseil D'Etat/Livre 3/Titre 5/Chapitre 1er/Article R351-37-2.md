@@ -1,11 +1,8 @@
 Article R351-37-2
 ----
-Les demandes de rachat doivent être présentées avant le 1er janvier 2003.
-
-Les personnes mentionnées au d de l'article R. 351-37-1 doivent présenter leur
-demande de rachat dans le délai de six mois à compter de la date d'effet de leur
-immatriculation à l'assurance obligatoire ; toutefois, ce délai ne pourra venir
-à expiration avant le 1er janvier 2003.
+Les personnes mentionnées à l'article R. 351-37-1 doivent présenter leur demande
+de rachat dans le délai de dix ans à compter de la date d'effet de leur
+immatriculation à l'assurance obligatoire.
 
 Les demandes de rachat doivent être présentées dans les conditions fixées par
 arrêté du ministre chargé de la sécurité sociale aux organismes suivants :
