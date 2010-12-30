@@ -5,8 +5,10 @@ Le classement des cours d'eau, canaux et plans d'eau mentionnés à l'article L.
 arrêté du préfet ou par arrêté conjoint des préfets concernés lorsque le
 classement porte sur un cours d'eau, un canal ou un plan d'eau mitoyen ou commun
 à plusieurs départements, après avis des services géographiquement compétents de
-l'Office national de l'eau et des milieux aquatiques et de la fédération
-départementale des associations agréées de pêche et de pisciculture.
+l'Office national de l'eau et des milieux aquatiques, de la fédération
+départementale des associations agréées de pêche et de protection du milieu
+aquatique et de l'association agréée départementale ou interdépartementale des
+pêcheurs professionnels en eau douce.
 
 Les dispositions du décret n° 58-873 du 16 septembre 1958 modifié déterminant le
 classement des cours d'eau en deux catégories ainsi que les arrêtés de
