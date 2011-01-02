@@ -1,33 +1,16 @@
 Article D762-43
 ----
-Pour l'année 2009, la cotisation affectée à la couverture des dépenses
-complémentaires des assurances maladie, invalidité et maternité est fixée ainsi
-qu'il suit :
+La cotisation affectée à la couverture des dépenses complémentaires des
+assurances maladie, invalidité et maternité est fixée forfaitairement par arrêté
+des ministres chargés de l'agriculture, de la sécurité sociale, du budget et de
+l'outre-mer.
 
-Chef d'exploitation agricole ou membre non salarié des sociétés visées à
-l'article L. 722-10 (5°)
+Le montant de la cotisation est revalorisé annuellement en fonction de
+l'évolution du SMIC à partir du montant de la cotisation applicable au cours de
+l'année précédente.
 
-224, 05 €
+La valeur du SMIC en fonction de laquelle le montant de la cotisation est
+revalorisé est celle fixée au 1er janvier de l'année au titre de laquelle les
+cotisations sont dues.
 
-Aide familial âgé de dix-huit ans au moins ou associé d'exploitation
-
-149, 37 €
-
-
-Aide familial âgé de moins de dix-huit ans
-
-74, 68 €
-
-Chef d'exploitation à titre secondaire
-
-29, 77 €
-
-Aide familial d'un chef d'exploitation à titre secondaire, âgé de dix-huit ans
-au moins
-
-19, 85 €
-
-Aide familial d'un chef d'exploitation à titre secondaire, âgé de moins de
-dix-huit ans
-
-9, 92 €
+Le montant de cette cotisation est arrondi au centième d'euro le plus proche.

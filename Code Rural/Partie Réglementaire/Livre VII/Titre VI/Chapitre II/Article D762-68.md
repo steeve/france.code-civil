@@ -1,19 +1,17 @@
 Article D762-68
 ----
-Pour l'année 2009, le montant de la cotisation prévue au premier alinéa de
-l'article L. 762-33 est fixé comme suit :
+La cotisation prévue au premier alinéa de l'article L. 762-33 est calculée en
+fonction de la surface pondérée des exploitations.
 
--lorsque la superficie réelle pondérée de l'exploitation est comprise entre 2
-hectares pondérés et 28 hectares pondérés, la cotisation est égale à 34, 01 €
-jusqu'à 20 hectares pondérés, et à 64, 10 € entre 20, 01 et 28 hectares ;
+Le montant de cette cotisation est fixé chaque année par arrêté des ministres
+chargés de l'agriculture, de la sécurité sociale, du budget et de l'outre-mer.
 
--lorsque la superficie réelle pondérée de l'exploitation est comprise entre 28,
-01 hectares pondérés et 80 hectares pondérés, la cotisation est égale à 150, 92
-€ ;
+Le montant de la cotisation est revalorisé annuellement en fonction de
+l'évolution du SMIC à partir du montant de la cotisation applicable au cours de
+l'année précédente.
 
--lorsque la superficie réelle pondérée de l'exploitation est comprise entre 80,
-01 et 120 hectares, la cotisation est égale à 150, 92 € majorés de 3, 16 € par
-hectare au-delà de 80 hectares ;
+La valeur du SMIC en fonction de laquelle le montant de la cotisation est
+revalorisé est celle fixée au 1er janvier de l'année au titre de laquelle les
+cotisations sont dues.
 
--lorsque la superficie réelle pondérée de l'exploitation est supérieure à 120
-hectares, la cotisation est égale à 277, 32 €.
+Le montant de cette cotisation est arrondi au centième d'euro le plus proche.

@@ -1,9 +1,18 @@
 Article D762-69
 ----
-Pour l'année 2009, la cotisation prévue au deuxième alinéa de l'article L.
-762-33 au titre du chef d'exploitation est égale à 2, 13 € par hectare jusqu'à
-20 hectares pondérés, et à 11, 81 € par hectare au-delà de 20 hectares et
-jusqu'à 100 hectares pondérés.
+La cotisation prévue au deuxième alinéa de l'article L. 762-33 au titre du chef
+d'exploitation est calculée en fonction de la surface pondérée des
+exploitations.
 
-Lorsque la superficie réelle pondérée de l'exploitation est supérieure à 100
-hectares, la cotisation est égale à 987, 40 €.
+Le montant de cette cotisation est fixé chaque année par arrêté des ministres
+chargés de l'agriculture, de la sécurité sociale, du budget et de l'outre-mer.
+
+Le montant de la cotisation est revalorisé annuellement en fonction de
+l'évolution du SMIC à partir du montant de la cotisation applicable au cours de
+l'année précédente.
+
+La valeur du SMIC en fonction de laquelle le montant de la cotisation est
+revalorisé est celle fixée au 1er janvier de l'année au titre de laquelle les
+cotisations sont dues.
+
+Le montant de cette cotisation est arrondi au centième d'euro le plus proche.

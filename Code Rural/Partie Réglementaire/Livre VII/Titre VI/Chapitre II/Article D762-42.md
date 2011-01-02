@@ -1,25 +1,22 @@
 Article D762-42
 ----
-Pour l'année 2009, la cotisation mentionnée à l'article D. 762-40 dont sont
-redevables pour eux-mêmes les chefs d'exploitation qui bénéficient des
-prestations d'assurance maladie d'un régime autre que celui des personnes non
-salariées agricoles est calculée suivant les modalités fixées ci après :
+La cotisation mentionnée à l'article D. 762-40 dont sont redevables pour
+eux-mêmes les chefs d'exploitation qui bénéficient des prestations d'assurance
+maladie d'un régime autre que celui des personnes non salariées agricoles est
+calculée en fonction de la superficie pondérée des exploitations.
 
--lorsque la superficie réelle pondérée de l'exploitation est comprise entre 2
-hectares pondérés et 40 hectares, la cotisation est égale à 238, 83 € jusqu'à 20
-hectares, majorés de 58, 54 € par hectare au-delà de 20 hectares ;
+Le montant de cette cotisation est fixé chaque année par arrêté des ministres
+chargés de l'agriculture, de la sécurité sociale, du budget et de l'outre-mer.
 
--lorsque la superficie réelle pondérée de l'exploitation est comprise entre 40,
-01 et 120 hectares, la cotisation est égale à 1 409, 65 € majorés de 46, 06 €
-par hectare au-delà de 40 hectares ;
+Le montant de la cotisation est revalorisé annuellement en fonction de
+l'évolution du SMIC à partir du montant de la cotisation applicable au cours de
+l'année précédente.
 
--lorsque la superficie réelle pondérée de l'exploitation est comprise entre 120,
-01 et 800 hectares, la cotisation est égale à 5 094, 74 € majorés de 21, 78 €
-par hectare au-delà de 120 hectares ;
+La valeur du SMIC en fonction de laquelle le montant de la cotisation est
+revalorisé est celle fixée au 1er janvier de l'année au titre de laquelle les
+cotisations sont dues.
 
--lorsque la superficie réelle pondérée de l'exploitation est supérieure à 800
-hectares, la cotisation est égale à 19 904, 12 € majorés de 0, 31 € par hectare
-au-delà de 800 hectares.
+Le montant de cette cotisation est arrondi au centième d'euro le plus proche.
 
 La cotisation dont sont redevables les chefs d'exploitation qui bénéficient des
 prestations d'assurance maladie d'un régime autre que celui des personnes non
