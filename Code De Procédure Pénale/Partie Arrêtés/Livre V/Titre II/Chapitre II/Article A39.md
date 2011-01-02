@@ -21,8 +21,6 @@ Quartier maison centrale du centre pénitentiaire de Moulins-Yzeure (Allier).
 
 Maison centrale de Poissy (Yvelines).
 
-Quartier maison centrale du centre pénitentiaire de Remire-Montjoly (Guyane).
-
 Maison centrale de Saint-Martin-de-Ré (Charente-Maritime).
 
 Maison centrale de Saint-Maur (Indre).
