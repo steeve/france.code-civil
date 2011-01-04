@@ -10,7 +10,8 @@ réparation et la représentation de véhicules à moteur et des pièces accesso
 
 3° L'exercice de la profession d'assureur ;
 
-4° L'accomplissement d'actes de nature à porter atteinte à son indépendance.
+I bis. - Les conditions dans lesquelles un expert en automobile exerce sa
+profession ne doivent pas porter atteinte à son indépendance.
 
 II. - Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article et notamment les règles professionnelles que doivent respecter les
