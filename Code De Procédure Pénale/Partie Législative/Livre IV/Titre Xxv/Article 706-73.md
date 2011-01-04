@@ -53,11 +53,14 @@ revenus, des choses provenant des infractions mentionnées aux 1° à 13° ;
 
 15° Délits d'association de malfaiteurs prévus par l'article 450-1 du code
 pénal, lorsqu'ils ont pour objet la préparation de l'une des infractions
-mentionnées aux 1° à 14° ;
+mentionnées aux 1° à 14° et 17° ;
 
 16° Délit de non-justification de ressources correspondant au train de vie,
 prévu par l'article 321-6-1 du code pénal, lorsqu'il est en relation avec l'une
-des infractions mentionnées aux 1° à 15°.
+des infractions mentionnées aux 1° à 15° et 17° ;
+
+17° Crime de détournement d'aéronef, de navire ou de tout autre moyen de
+transport commis en bande organisée prévu par l'article 224-6-1 du code pénal.
 
 Pour les infractions visées aux 3°, 6° et 11°, sont applicables, sauf précision
 contraire, les dispositions du présent titre ainsi que celles des titres XV, XVI
