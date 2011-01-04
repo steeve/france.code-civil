@@ -4,7 +4,7 @@ Pour chaque tunnel de plus de 500 mètres situé sur le réseau routier
 transeuropéen, le maître de l'ouvrage désigne, après accord du représentant de
 l'Etat, un agent de sécurité qui coordonne les mesures de prévention et de
 sauvegarde visant à assurer la sécurité des usagers et du personnel
-d'exploitation. L'autonomie fonctionnelle de l'agent de sécurité est garantie
+d'exploitation.L'autonomie fonctionnelle de l'agent de sécurité est garantie
 pour l'exercice de ses attributions.
 
 Le maître de l'ouvrage transmet au représentant de l'Etat, à l'agent de sécurité
