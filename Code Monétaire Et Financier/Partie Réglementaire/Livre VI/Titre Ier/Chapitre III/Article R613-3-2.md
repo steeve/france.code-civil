@@ -1,9 +1,9 @@
 Article R613-3-2
 ----
 Lorsque l'Autorité de contrôle prudentiel est saisie d'une demande
-d'autorisation en application de l'article L. 613-20-4, elle se prononce au plus
-tard dans un délai de six mois à compter de la réception du dossier complet de
-demande.
+d'autorisation en application du premier et du troisième alinéas de l'article L.
+613-20-4, elle se prononce au plus tard dans un délai de six mois à compter de
+la réception du dossier complet de demande.
 
 L'Autorité de contrôle prudentiel transmet, dans les meilleurs délais, la
 demande aux autres autorités compétentes intéressées des Etats membres de la
