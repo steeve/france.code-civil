@@ -3,8 +3,9 @@ Article L123-19
 Les plans d'occupation des sols approuvés avant l'entrée en vigueur de la loi n°
 2000-1208 du 13 décembre 2000 précitée ont les mêmes effets que les plans locaux
 d'urbanisme. Ils sont soumis au régime juridique des plans locaux d'urbanisme
-défini par les articles L. 123-1-1 à L. 123-18. Les dispositions de l'article L.
-123-1, dans leur rédaction antérieure à cette loi, leur demeurent applicables.
+défini par les articles L. 123-1-11 à L. 123-18. Les dispositions de l'article
+L. 123-1, dans leur rédaction antérieure à cette loi, leur demeurent
+applicables.
 
 Ils peuvent faire l'objet :
 
@@ -76,8 +77,8 @@ approuvé dans le délai d'un an à compter de l'entrée en vigueur de ladite lo
 application du septième alinéa est annulé pour vice de forme ou de procédure, la
 commune ou l'établissement public de coopération intercommunale compétent peut
 l'approuver à nouveau, après enquête publique réalisée conformément au chapitre
-III du titre II du livre Ier du code de l'environnement , dans le délai d'un an
-à compter de la décision juridictionnelle qui l'a annulé, sans mettre le plan
+III du titre II du livre Ier du code de l'environnement, dans le délai d'un an à
+compter de la décision juridictionnelle qui l'a annulé, sans mettre le plan
 d'occupation des sols en forme de plan local d'urbanisme.
 
 Lorsque plusieurs communes sont dotées sur une partie de leur territoire d'un

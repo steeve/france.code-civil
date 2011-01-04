@@ -18,6 +18,5 @@ entreprises, pendant la durée de cette peine.
 2° Justifier de la capacité à la gestion d'un établissement d'enseignement de la
 conduite ;
 
-3° Remplir les conditions d'âge, d'ancienneté du permis de conduire,
-d'expérience professionnelle et de réactualisation des connaissances fixées par
-décret en Conseil d'Etat.
+3° Remplir les conditions d'âge, d'ancienneté du permis de conduire et de
+réactualisation des connaissances fixées par décret en Conseil d'Etat.

@@ -10,11 +10,11 @@ d'urbanisme, dans la limite de 30 % et dans le respect des autres règles
 performance énergétique élevée ou alimentées à partir d'équipements performants
 de production d'énergie renouvelable ou de récupération.
 
-Le premier alinéa n'est pas applicable dans un secteur sauvegardé, dans une zone
-de protection du patrimoine architectural, urbain et paysager créée en
-application de l'article L. 642-1 du code du patrimoine, dans le périmètre de
-protection d'un immeuble classé ou inscrit au titre des monuments historiques
-défini par l'article L. 621-30-1 du même code, dans un site inscrit ou classé en
+Ce dépassement ne peut excéder 20 % dans un secteur sauvegardé, dans une zone de
+protection du patrimoine architectural, urbain et paysager créée en application
+de l'article L. 642-1 du code du patrimoine, dans le périmètre de protection
+d'un immeuble classé ou inscrit au titre des monuments historiques défini par
+l'article L. 621-30-1 du même code, dans un site inscrit ou classé en
 application des articles L. 341-1 et L. 341-2 du code de l'environnement, à
 l'intérieur du cœur d'un parc national délimité en application de l'article L.
 331-2 du même code, ni aux travaux portant sur un immeuble classé ou inscrit au

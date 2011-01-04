@@ -9,7 +9,7 @@ justification spéciale motivée par la protection du patrimoine bâti, des
 paysages ou des perspectives monumentales et urbaines.
 
 Le projet de la délibération du conseil municipal ou de l'organe délibérant de
-l'établissement public de coopération intercommunale prévue au premier alinéa
+l'établissement public de coopération intercommunale prévue à l'article L. 128-1
 est mis à disposition du public afin de recueillir ses observations, pendant une
 durée d'un mois.
 

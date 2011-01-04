@@ -21,11 +21,11 @@ l'aéronef lui-même ;
 
 -un exploitant d'aéronef dont la France est l'Etat membre responsable est un
 exploitant d'aéronef détenteur d'une licence d'exploitation délivrée par
-l'autorité administrative française conformément à l'article L. 330-1 du code de
-l'aviation civile, ou, si ce n'est pas le cas, un exploitant dont les émissions
+l'autorité administrative française conformément à l'article L. 6412-2 du code
+des transports, ou, si ce n'est pas le cas, un exploitant dont les émissions
 attribuées à la France sont les plus élevées parmi celles attribuées aux Etats
 membres de l'Union européenne figurant sur la liste, visée à l'article 18 bis de
-la directive 2003 / 87 / CE du 13 octobre 2003, établie et publiée par la
+la directive 2003/87/ CE du 13 octobre 2003, établie et publiée par la
 Commission européenne.
 
 Les dispositions du présent article ne s'appliquent pas aux exploitants
