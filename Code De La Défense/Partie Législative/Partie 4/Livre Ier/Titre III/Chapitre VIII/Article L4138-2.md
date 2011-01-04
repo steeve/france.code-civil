@@ -18,6 +18,8 @@ e) D'un congé de reconversion ;
 
 f) De congés de présence parentale ;
 
+g) D'un congé pour création ou reprise d'entreprise ;
+
 2° Qui est affecté, pour une durée limitée, dans l'intérêt du service, auprès
 d'une administration de l'Etat, d'un établissement public à caractère
 administratif ne relevant pas de la tutelle du ministre de la défense, d'un
