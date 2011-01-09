@@ -1,8 +1,8 @@
 Article R4532-34
 ----
-La formation du coordonnateur est assurée par des organismes de formation
-préalablement agréés par arrêté conjoint des ministres chargés du travail et de
-l'agriculture. Le silence gardé pendant plus de quatre mois sur une demande
-d'agrément vaut décision de rejet. Sont dispensés d'agrément, l'Organisme
-professionnel de prévention dans le bâtiment et les travaux publics ainsi que
-les services de prévention des organismes de sécurité sociale.
+Peuvent assurer la formation de coordonnateurs prévue aux articles R. 4532-25 et
+R. 4532-26 l'Organisme professionnel de prévention dans le bâtiment et les
+travaux publics et les organismes de formation certifiés, au vu d'un référentiel
+garantissant qu'ils satisfont aux exigences issues du présent code, par un
+organisme bénéficiant à cette fin d'une accréditation délivrée par un organisme
+mentionné au premier alinéa de l'article R. 4724-1.
