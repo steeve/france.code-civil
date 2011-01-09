@@ -85,5 +85,5 @@ Lorsque plusieurs communes sont dotées sur une partie de leur territoire d'un
 plan d'occupation des sols partiel couvrant un secteur d'aménagement et de
 développement touristique d'intérêt intercommunal, elles peuvent conserver ce
 régime et élaborer des plans locaux d'urbanisme partiels dans les conditions
-définies par la dernière phrase du troisième alinéa de l'article L. 123-1 à
+définies par la dernière phrase du cinquième alinéa de l'article L. 123-1 à
 condition de s'engager dans l'élaboration d'un schéma de cohérence territoriale.

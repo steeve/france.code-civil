@@ -7,8 +7,8 @@ l'ouverture des installations classées appartenant aux catégories déterminée
 dans le plan.
 
 Ces travaux ou opérations doivent en outre être compatibles, lorsqu'elles
-existent, avec les orientations d'aménagement mentionnées au troisième alinéa de
-l'article L. 123-1 et avec leurs documents graphiques.
+existent, avec les orientations d'aménagement mentionnées à l'article L. 123-1-4
+et avec leurs documents graphiques.
 
 L'autorité compétente pour délivrer le permis de construire peut, par décision
 motivée, accorder des dérogations à une ou plusieurs règles du plan local

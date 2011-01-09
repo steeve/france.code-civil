@@ -1,24 +1,19 @@
 Article L123-1-2
 ----
-Lorsque le plan local d'urbanisme impose la réalisation d'aires de
-stationnement, celles-ci peuvent être réalisées sur le terrain d'assiette ou
-dans son environnement immédiat.
+Le rapport de présentation explique les choix retenus pour établir le projet
+d'aménagement et de développement durables, les orientations d'aménagement et de
+programmation et le règlement.
 
-Lorsque le bénéficiaire du permis ou de la décision de non-opposition à une
-déclaration préalable ne peut pas satisfaire aux obligations résultant de
-l'alinéa précédent, il peut être tenu quitte de ces obligations en justifiant,
-pour les places qu'il ne peut réaliser lui-même, soit de l'obtention d'une
-concession à long terme dans un parc public de stationnement existant ou en
-cours de réalisation et situé à proximité de l'opération, soit de l'acquisition
-de places dans un parc privé de stationnement répondant aux mêmes conditions.
+Il s'appuie sur un diagnostic établi au regard des prévisions économiques et
+démographiques et des besoins répertoriés en matière de développement
+économique, de surfaces agricoles, de développement forestier, d'aménagement de
+l'espace, d'environnement, d'équilibre social de l'habitat, de transports, de
+commerce, d'équipements et de services.
 
-En l'absence d'un tel parc, le bénéficiaire du permis ou de la décision de
-non-opposition à une déclaration préalable peut être tenu de verser à la commune
-une participation en vue de la réalisation de parcs publics de stationnement
-dans les conditions définies par l'article L. 332-7-1.
+Il présente une analyse de la consommation d'espaces naturels, agricoles et
+forestiers.
 
-Lorsqu'une aire de stationnement a été prise en compte dans le cadre d'une
-concession à long terme ou d'un parc privé de stationnement, au titre des
-obligations prévues aux premier et deuxième alinéas ci-dessus, elle ne peut plus
-être prise en compte, en tout ou en partie, à l'occasion d'une nouvelle
-autorisation.
+Il justifie les objectifs compris dans le projet d'aménagement et de
+développement durables au regard des objectifs de consommation de l'espace
+fixés, le cas échéant, par le schéma de cohérence territoriale et au regard des
+dynamiques économiques et démographiques.

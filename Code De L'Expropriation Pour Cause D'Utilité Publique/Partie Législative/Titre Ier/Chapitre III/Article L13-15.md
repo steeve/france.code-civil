@@ -75,7 +75,7 @@ en tenant compte exclusivement de la destination sportive de l'immeuble et des
 installations qu'il comporte. "
 
 4° Lorsqu'il s'agit de l'expropriation d'un terrain réservé par un plan
-d'occupation des sols au sens du 8° de l'article L. 123-1 du code de
+d'occupation des sols au sens du 8° de l'article L. 123-1-5 du code de
 l'urbanisme, le terrain est considéré, pour son évaluation, comme ayant cessé
 d'être compris dans un emplacement réservé ; la date de référence prévue
 ci-dessus est alors celle à laquelle est devenu opposable aux tiers le plus
