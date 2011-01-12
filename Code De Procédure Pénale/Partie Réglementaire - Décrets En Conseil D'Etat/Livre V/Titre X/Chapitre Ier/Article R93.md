@@ -40,7 +40,8 @@ juridictionnelle rectifiant ou interprétant une précédente décision ;
 
 11° Des frais exposés devant la commission prévue par l'article 16-2 ;
 
-12° Des enquêtes ordonnées en matière d'exercice de l'autorité parentale ;
+12° Des enquêtes ordonnées en matière d'exercice de l'autorité parentale et en
+matière d'adoption ;
 
 13° Des indemnités de transport et de séjour des magistrats, des greffiers et
 des secrétaires des juridictions de l'ordre judiciaire, sans préjudice des
@@ -83,7 +84,7 @@ l'article 23-1 du code de procédure civile ;
 
 24° La rémunération et les indemnités des interprètes désignés par le tribunal
 de grande instance pour l'exécution d'une mesure d'instruction à la demande
-d'une juridiction étrangère en application du règlement (CE) n° 1206 / 2001 du
+d'une juridiction étrangère en application du règlement (CE) n° 1206/2001 du
 Conseil du 28 mai 2001 relatif à la coopération entre les juridictions des Etats
 membres dans le domaine de l'obtention des preuves en matière civile et
 commerciale ;
@@ -93,4 +94,4 @@ procédure civile relative à son application dans les départements du Bas-Rhin
 du Haut-Rhin et de la Moselle ;
 
 26° La rémunération de la personne désignée par le juge pour entendre le mineur,
-en application de l' article 388-1 du code civil.
+en application de l'article 388-1 du code civil.
