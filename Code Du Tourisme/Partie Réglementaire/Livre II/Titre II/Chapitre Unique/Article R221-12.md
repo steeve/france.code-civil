@@ -10,8 +10,9 @@ supérieurs sanctionnant une formation de quatre années dans les conditions
 fixées par le même arrêté.
 
 La carte professionnelle de conférencier national est également délivrée sur
-leur demande aux conférenciers recrutés par la Réunion des musées nationaux, aux
-conférenciers ayant été inscrits sur la liste d'aptitude des musées nationaux,
-aux conférenciers du service des visites-conférences du Centre des monuments
+leur demande aux conférenciers recrutés par l'Etablissement public de la Réunion
+des musées nationaux et du Grand Palais des Champs Elysées, aux conférenciers
+ayant été inscrits sur la liste d'aptitude des musées nationaux, aux
+conférenciers du service des visites-conférences du Centre des monuments
 nationaux et aux animateurs du patrimoine des villes et pays d'art et
 d'histoire.

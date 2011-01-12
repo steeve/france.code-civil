@@ -6,5 +6,6 @@ réception, dans les trois mois suivant la présentation de l'offre. A défaut d
 notification d'une décision dans ce délai, l'offre est réputée rejetée.
 
 Lorsque l'offre est acceptée, l'entreprise procède au versement auprès de
-l'agent comptable de la Réunion des musées nationaux, dans les conditions
-définies par la décision. Il en est délivré récépissé.
+l'agent comptable de l'Etablissement public de la Réunion des musées nationaux
+et du Grand Palais des Champs-Elysées, dans les conditions définies par la
+décision. Il en est délivré récépissé.

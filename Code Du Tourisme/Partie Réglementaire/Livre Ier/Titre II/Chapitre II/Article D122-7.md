@@ -193,7 +193,8 @@ territoires :
 -le président du Centre national des monuments nationaux (CMN) ou son
 représentant ;
 
--le président de la Réunion des musées nationaux (RMN) ou son représentant ;
+-le président de l'Etablissement public de la Réunion des musées nationaux et du
+Grand Palais des Champs-Elysées ou son représentant ;
 
 -le président de la Fédération des écomusées et des musées de société (FEMS) ou
 son représentant ;
