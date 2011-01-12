@@ -1,3 +1,4 @@
 Article 1446
 ----
-Lorsqu'elle est nulle, la clause compromissoire est réputée non écrite.
+Les parties peuvent compromettre même au cours d'une instance déjà engagée
+devant une juridiction.
