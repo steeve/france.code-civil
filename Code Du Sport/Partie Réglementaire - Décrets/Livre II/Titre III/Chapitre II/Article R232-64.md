@@ -10,3 +10,15 @@ Celle-ci est de droit à la demande de l'intéressé. Elle est effectuée à ses
 frais et en présence éventuellement d'un expert convoqué par ses soins et choisi
 par lui, le cas échéant, sur une liste arrêtée par l'agence et transmise à
 l'intéressé.
+
+L'utilisation d'une substance interdite est établie :
+
+-soit au vu de la présence de cette substance, de l'un de ses métabolites ou de
+ses marqueurs, dans l'échantillon A lorsque le sportif ne demande pas l'analyse
+de l'échantillon B ;
+
+-soit, lorsque l'analyse de l'échantillon B est demandée par le sportif ou, dans
+le cadre de leur compétence disciplinaire respective, par la fédération ou par
+l'agence, si les résultats de cette analyse confirment la présence de la
+substance décelée dans l'échantillon A, ou de l'un de ses métabolites ou de ses
+marqueurs.

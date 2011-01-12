@@ -8,10 +8,19 @@ types de méthodes utilisées.
 Le département des analyses transmet le rapport d'analyse au président de
 l'agence et à la fédération.
 
-Le sportif contrôlé et, le cas échéant, la ou les personnes investies de
-l'autorité parentale ou le représentant légal doivent recevoir dans tous les cas
-communication du résultat de l'analyse de la part de la fédération ou, lorsque
-le sportif n'est pas titulaire d'une licence, de l'agence.
+Seul le résultat d'analyse positif est notifié au sportif contrôlé et, le cas
+échéant, à la ou aux personnes investies de l'autorité parentale ou au
+représentant légal par la fédération ou, lorsque le sportif n'est pas titulaire
+d'une licence, par l'agence.
+
+Le sportif contrôlé peut demander par écrit à la fédération, ou à l'agence
+lorsqu'il n'est pas licencié, la notification du résultat de l'analyse lorsque
+celui-ci est négatif.
+
+Lorsqu'une des personnes mentionnées au 2° de l'article L. 232-13 demande que
+l'agence diligente un contrôle, l'agence informe ces personnes de la présence
+d'une substance interdite dans les prélèvements qu'elle a effectués, ainsi que
+des décisions éventuellement prises.
 
 L'agence informe, le cas échéant, la personne chargée du contrôle de la présence
 d'une substance interdite dans les prélèvements qu'elle a effectués, ainsi que

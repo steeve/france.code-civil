@@ -13,9 +13,18 @@ Le sportif contrôlé vérifie l'identité entre les numéros de code des
 échantillons mentionnés au 5° de l'article R. 232-51 et ceux qui sont inscrits
 sur le procès-verbal. Cette vérification est consignée au procès-verbal.
 
-Le procès-verbal mentionne la production de l'autorisation d'usage à des fins
-thérapeutiques et des autres éléments fournis par le sportif à l'appui de ses
-déclarations.
+Le sportif contrôlé peut préciser sur le procès-verbal s'il a récemment utilisé
+une spécialité pharmaceutique ou suivi un traitement médical.
+
+Le sportif y fait également état :
+
+-de toute autorisation d'usage à des fins thérapeutiques ;
+
+-de toute déclaration d'usage effectuée auprès de l'agence ;
+
+-de toute demande d'autorisation d'usage à des fins thérapeutiques ;
+
+-de tout autre élément à l'appui de ses déclarations.
 
 Le procès-verbal est signé par la personne chargée du contrôle et par le
 sportif. Le refus de signer de ce dernier ne fait pas obstacle à la transmission

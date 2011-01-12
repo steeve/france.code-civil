@@ -1,7 +1,7 @@
 Article R232-69
 ----
 Les personnes chargées du contrôle reçoivent une formation initiale théorique et
-pratique, préalablement à leur agrément. Ils suivent également une formation
+pratique, préalablement à leur agrément. Elles suivent également une formation
 continue.
 
 Ces formations, destinées à leur permettre de pratiquer les contrôles prévus à
