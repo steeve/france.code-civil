@@ -21,18 +21,18 @@ ceux qui sont mentionnés au 1° ci-dessus ;
 5° De 35 à 45 % pour les frais d'analyses ou de laboratoires, sauf pour ceux qui
 sont mentionnés au 1° ci-dessus ;
 
-6° De 60 à 70 % pour les médicaments principalement destinés au traitement des
+6° De 70 à 75 % pour les médicaments principalement destinés au traitement des
 troubles ou affections sans caractère habituel de gravité et pour les
 médicaments dont le service médical rendu, tel que défini au I de l'article R.
 163-3, a été classé comme modéré en application du 6° de l'article R. 163-18 ;
 
-7° De 60 à 70 % pour les spécialités homéopathiques, dès lors qu'elles sont
+7° De 70 à 75 % pour les spécialités homéopathiques, dès lors qu'elles sont
 inscrites sur la liste établie en application du premier alinéa de l'article L.
 162-17 et pour les préparations homéopathiques répondant aux conditions définies
 au 11° de l'article L. 5121-1 du code de la santé publique prises en charge par
 l'assurance maladie ;
 
-8° de 30 à 40 % pour les frais de produits et prestations figurant sur la liste
+8° de 40 à 50 % pour les frais de produits et prestations figurant sur la liste
 mentionnée à l'article L. 165-1 ;
 
 9° de 30 à 40 % pour les frais de transport prévus au 2° de l'article L. 321-1 ;
@@ -42,7 +42,7 @@ mentionnée à l'article L. 165-1 ;
 
 11° de 30 à 40 % pour tous les autres frais ;
 
-12° De 15 à 25 % pour les forfaits mentionnés aux 2°, 4° et 5° de l'article R.
+12° De 15 à 25 % pour les forfaits mentionnés aux 2°,4° et 5° de l'article R.
 162-32 ;
 
 13° De 15 à 25 % pour les consultations et les actes mentionnés au 3° de
