@@ -40,8 +40,8 @@ marchandises transportées par voie maritime.
 
 Cette autorisation ne peut bénéficier qu'à des véhicules ou ensembles de
 véhicules mis en première circulation postérieurement à des dates fixées par
-arrêté du ministre chargé des transports et satisfaisant aux prescriptions
-techniques définies par cet arrêté ;
+arrêté du ministre chargé des transports et satisfaisant à un nombre minimal
+d'essieux et à des prescriptions techniques définis par cet arrêté ;
 
 2° Un arrêté du représentant de l'Etat dans le département où est situé le port
 maritime ou un arrêté conjoint des représentants de l'Etat dans les départements
@@ -80,12 +80,28 @@ gestionnaires des voiries empruntées. Cet arrêté peut préciser les restricti
 à la circulation destinées à préserver la sécurité routière et l'état de la
 voirie.
 
+III quater. - La circulation des véhicules dont les caractéristiques sont
+définies au III peut également être autorisée sur le territoire national, afin
+d'assurer exclusivement le transport des produits agricoles et agroalimentaires
+dont la liste est fixée par arrêté du ministre chargé des transports.
+
+Cette autorisation ne concerne que les véhicules ou ensembles de véhicules
+mentionnés au deuxième alinéa du 1° du III bis du présent article.
+
+Un arrêté du représentant de l'Etat dans le département ou un arrêté conjoint
+des représentants de l'Etat dans les départements intéressés fixe, le cas
+échéant, la liste des itinéraires autorisés, après avis des autorités
+gestionnaires des voiries empruntées. Cet arrêté peut préciser les restrictions
+à la circulation destinées à préserver la sécurité routière et l'état de la
+voirie.
+
 IV.-Les véhicules à gazogène, gaz comprimé et accumulateurs électriques
 bénéficient, dans la limite maximale d'une tonne, de dérogations correspondant
 au poids en ordre de marche soit du gazogène et de ses accessoires, soit des
 accumulateurs et de leurs accessoires. Il en est de même, dans la limite
-maximale de 0, 5 tonne, pour les poids des ralentisseurs des véhicules qui en
-sont munis.
+maximale d'une tonne, pour les ensembles routiers comportant au moins six
+essieux, et dans la limite maximale de 0,5 tonne, pour les poids des
+ralentisseurs des véhicules qui en sont munis.
 
 V.-Le poids à vide des cyclomoteurs à trois roues ne peut excéder 270
 kilogrammes et leur charge utile ne peut excéder 300 kilogrammes.
