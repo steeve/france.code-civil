@@ -4,6 +4,11 @@ Le conseil se réunit au moins deux fois par an sur convocation de son présiden
 La convocation du conseil est de droit, lorsqu'elle est demandée par un tiers au
 moins des membres dudit conseil.
 
+Si, dans le cadre de l'indemnisation des dommages mentionnés à l'article L.
+3131-4, l'urgence le requiert, le ministre chargé de la santé peut demander une
+réunion exceptionnelle du conseil d'orientation, qui se tient dans un délai qui
+ne peut être inférieur à huit jours à compter de la demande ;
+
 Le président fixe l'ordre du jour où figurent obligatoirement les points ayant
 fait l'objet d'une demande formulée par un tiers au moins des membres du
 conseil.

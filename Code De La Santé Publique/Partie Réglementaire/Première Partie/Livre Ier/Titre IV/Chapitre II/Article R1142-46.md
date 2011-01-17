@@ -3,7 +3,8 @@ Article R1142-46
 Le conseil d'administration définit les principes généraux relatifs aux offres
 d'indemnisation incombant à l'office. En ce qui concerne les dommages mentionnés
 aux articles L. 1221-14, L. 3111-9 et L. 3122-1, il le fait sur la base des
-propositions du conseil mentionné aux articles L. 3111-9 et L. 3122-1.
+propositions du conseil mentionné aux articles L. 3111-9, L. 3122-1 et L.
+3131-4.
 
 Il délibère en outre sur les matières suivantes :
 
