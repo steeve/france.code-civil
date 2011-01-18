@@ -6,69 +6,67 @@ participation des assurés sociaux aux tarifs servant de base au calcul des
 prestations en nature de l'assurance maladie, en application du 3° de l'article
 L. 322-3, est établie ainsi qu'il suit :
 
-- accident vasculaire cérébral invalidant ;
+-accident vasculaire cérébral invalidant ;
 
-- insuffisances médullaires et autres cytopénies chroniques ;
+-insuffisances médullaires et autres cytopénies chroniques ;
 
-- artériopathies chroniques avec manifestations ischémiques ;
+-artériopathies chroniques avec manifestations ischémiques ;
 
-- bilharziose compliquée ;
+-bilharziose compliquée ;
 
-- insuffisance cardiaque grave, troubles du rythme graves, cardiopathies
+-insuffisance cardiaque grave, troubles du rythme graves, cardiopathies
 valvulaires graves ; cardiopathies congénitales graves ;
 
-- maladies chroniques actives du foie et cirrhoses ;
+-maladies chroniques actives du foie et cirrhoses ;
 
-- déficit immunitaire primitif grave nécessitant un traitement prolongé,
+-déficit immunitaire primitif grave nécessitant un traitement prolongé,
 infection par le virus de l'immuno-déficience humaine ;
 
-- diabète de type 1 et diabète de type 2 ;
+-diabète de type 1 et diabète de type 2 ;
 
-- formes graves des affections neurologiques et musculaires (dont myopathie),
+-formes graves des affections neurologiques et musculaires (dont myopathie),
 épilepsie grave ;
 
-- hémoglobinopathies, hémolyses, chroniques constitutionnelles et acquises
+-hémoglobinopathies, hémolyses, chroniques constitutionnelles et acquises
 sévères ;
 
-- hémophilies et affections constitutionnelles de l'hémostase graves ;
+-hémophilies et affections constitutionnelles de l'hémostase graves ;
 
-- hypertension artérielle sévère ;
+-hypertension artérielle sévère ;
 
-- maladie coronaire ;
+-maladie coronaire ;
 
-- insuffisance respiratoire chronique grave ;
+-insuffisance respiratoire chronique grave ;
 
-- maladie d'Alzheimer et autres démences ;
+-maladie d'Alzheimer et autres démences ;
 
-- maladie de Parkinson ;
+-maladie de Parkinson ;
 
-- maladies métaboliques héréditaires nécessitant un traitement prolongé
+-maladies métaboliques héréditaires nécessitant un traitement prolongé
 spécialisé ;
 
-- mucoviscidose ;
+-mucoviscidose ;
 
-- néphropathie chronique grave et syndrome néphrotique primitif ;
+-néphropathie chronique grave et syndrome néphrotique primitif ;
 
-- paraplégie ;
+-paraplégie ;
 
-- périartérite noueuse, lupus érythémateux aigu disséminé, sclérodermie
-généralisée évolutive ;
+-vascularites, lupus érythématheux systémique, sclérodermie systémique ;
 
-- polyarthrite rhumatoïde évolutive grave ;
+-polyarthrite rhumatoïde évolutive ;
 
-- affections psychiatriques de longue durée ;
+-affections psychiatriques de longue durée ;
 
-- rectocolite hémorragique et maladie de Crohn évolutives ;
+-rectocolite hémorragique et maladie de Crohn évolutives ;
 
-- sclérose en plaques ;
+-sclérose en plaques ;
 
-- scoliose structurale évolutive (dont l'angle est égal ou supérieur à 25
-degrés) jusqu'à maturation rachidienne ;
+-scoliose idiopathique structurale évolutive ;
 
-- spondylarthrite ankylosante grave ;
+-spondylarthrite grave ;
 
-- suites de transplantation d'organe ;
+-suites de transplantation d'organe ;
 
-- tuberculose active, lèpre ;
+-tuberculose active, lèpre ;
 
-- tumeur maligne, affection maligne du tissu lymphatique ou hématopoïétique.
+-tumeur maligne, affection maligne du tissu lymphatique ou hématopoïétique.
