@@ -67,3 +67,6 @@ lesquelles doivent être réalisés ces actes et prestations, notamment leur
 fréquence de réalisation, la durée de validité du protocole de soins et les
 actes et prestations que ne nécessite pas, de manière générale, le traitement
 des affections en cause.
+
+d) Sur les actes médicaux et examens biologiques que requiert le suivi des
+affections relevant du 10° de l'article L. 322-3.
