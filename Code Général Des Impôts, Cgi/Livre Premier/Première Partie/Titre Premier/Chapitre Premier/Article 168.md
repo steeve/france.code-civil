@@ -8,21 +8,30 @@ lorsque cette somme est supérieure ou égale à 44 111 € ; cette limite est
 relevée chaque année dans la même proportion que la limite supérieure de la
 première tranche du barème de l'impôt sur le revenu :
 
-ELEMENTS DU TRAIN DE VIE / BASE.
+
+ELEMENTS DU TRAIN DE VIE
+
+BASE
 
 1. Valeur locative cadastrale de la résidence principale, déduction faite de
-celle s'appliquant aux locaux ayant un caractère professionnel / cinq fois la
-valeur locative cadastrale.
+celle s'appliquant aux locaux ayant un caractère professionnel
+
+Cinq fois la valeur locative cadastrale.
 
 2. Valeur locative cadastrale des résidences secondaires, déduction faite de
-celle s'appliquant aux locaux ayant un caractère professionnel / cinq fois la
-valeur locative cadastrale.
+celle s'appliquant aux locaux ayant un caractère professionnel
+
+Cinq fois la valeur locative cadastrale.
 
 3. Employés de maison, précepteurs, préceptrices, gouvernantes :
 
--pour la première personne âgée de moins de 60 ans / 4 600 euros
+- pour la première personne âgée de moins de 60 ans
 
--pour chacune des autres personnes / 5 700 euros
+4 600 euros
+
+- pour chacune des autres personnes
+
+5 700 euros
 
 La base ainsi déterminée est réduite de moitié en ce qui concerne les personnes
 employées principalement pour l'exercice d'une profession.
@@ -33,8 +42,9 @@ Il est fait abstraction du second employé de maison lorsque le nombre des
 personnes âgées de 65 ans ou infirmes vivant sous le même toit est de quatre au
 moins.
 
-4. Voitures automobiles destinées au transport des personnes / La valeur de la
-voiture neuve avec abattement de 50 % après trois ans d'usage.
+4. Voitures automobiles destinées au transport des personnes
+
+La valeur de la voiture neuve avec abattement de 50 % après trois ans d'usage.
 
 Toutefois, la base ainsi déterminée est réduite de moitié en ce qui concerne les
 voitures appartenant aux pensionnés de guerre bénéficiaires du statut des grands
@@ -46,21 +56,31 @@ Elle est également réduite de moitié pour les voitures qui sont affectées
 principalement à un usage professionnel. Cette réduction est limitée à un seul
 véhicule.
 
-5. Motocyclettes de plus de 450 cm3 / La valeur de la motocyclette neuve avec
-abattement de 50 % après trois ans d'usage.
+5. Motocyclettes de plus de 450 cm3
+
+La valeur de la motocyclette neuve avec abattement de 50 % après trois ans
+d'usage.
 
 6. Yachts ou bateaux de plaisance à voiles avec ou sans moteur auxiliaire
 jaugeant au moins 3 tonneaux de jauge internationale :
 
--pour les trois premiers tonneaux / 1 140 euros
+- pour les trois premiers tonneaux
 
--pour chaque tonneau supplémentaire :
+1 140 euros
 
--de 4 à 10 tonneaux / 340 euros
+- pour chaque tonneau supplémentaire :
 
--de 10 à 25 tonneaux / 460 euros
+- de 4 à 10 tonneaux
 
--au-dessus de 25 tonneaux / 910 euros
+340 euros
+
+- de 10 à 25 tonneaux
+
+460 euros
+
+- au-dessus de 25 tonneaux
+
+910 euros
 
 Ce barème est quintuplé pour les bateaux de plaisance battant pavillon d'un pays
 ou territoire qui n'a pas conclu avec la France de convention d'assistance
@@ -76,9 +96,13 @@ l'unité immédiatement inférieure.
 7. Bateaux de plaisance à moteur fixe ou hors-bord d'une puissance réelle d'au
 moins 20 CV :
 
--pour les vingt premiers chevaux / 910 euros
+- pour les vingt premiers chevaux
 
--par cheval-vapeur supplémentaire / 69 euros
+910 euros
+
+- par cheval-vapeur supplémentaire
+
+69 euros
 
 Toutefois, la puissance n'est comptée que pour 75 %, 50 % ou 25 %, en ce qui
 concerne les bateaux construits respectivement depuis plus de cinq ans, quinze
@@ -89,25 +113,34 @@ ou territoire qui n'a pas conclu avec la France de convention d'assistance
 administrative en vue de lutter contre la fraude et l'évasion fiscales.
 
 8. Avions de tourisme : par cheval-vapeur de la puissance réelle de chaque avion
-/ 69 euros
+
+69 euros
 
 9. Chevaux de course âgés au moins de deux ans au sens de la réglementation
 concernant les courses :
 
--par cheval de pur sang / 4 600 euros
+- par cheval de pur sang
 
--par cheval autre que de pur sang et par trotteur / 2 700 euros
+4 600 euros
+
+- par cheval autre que de pur sang et par trotteur
+
+2 700 euros
 
 10. Chevaux de selle : par cheval âgé au moins de deux ans à compter du second
-cheval / 1 370 euros
+cheval
 
-11. Location de droits de chasse et participation dans les sociétés de chasse /
+1 370 euros
+
+11. Location de droits de chasse et participation dans les sociétés de chasse
+
 Deux fois le montant des loyers payés ou des participations versées lorsqu'il
 dépasse 4 600 euros.
 
 12. Clubs de golf : participation dans les clubs de golf et abonnements payés en
-vue de disposer de leurs installations / Deux fois le montant des sommes versées
-lorsqu'il dépasse 4 600 euros.
+vue de disposer de leurs installations
+
+Deux fois le montant des sommes versées lorsqu'il dépasse 4 600 euros.
 
 Les éléments dont il est fait état pour la détermination de la base d'imposition
 sont ceux dont ont disposé, pendant l'année de l'imposition, les membres du
@@ -119,10 +152,7 @@ fixée proportionnellement aux droits de chacune d'entre elles.
 Les revenus visés au présent article sont ceux qui résultent de la déclaration
 du contribuable et, en cas d'absence de déclaration, ils sont comptés pour zéro.
 
-2. La somme forfaitaire déterminée en application du barème est majorée de 50 %
-lorsqu'elle est supérieure ou égale à deux fois la limite mentionnée au 1 et
-lorsque le contribuable a disposé de plus de six éléments du train de vie
-figurant au barème.
+2. (Abrogé).
 
 2 bis. La disproportion marquée entre le train de vie d'un contribuable et ses
 revenus est établie lorsque la somme forfaitaire qui résulte de l'application du
