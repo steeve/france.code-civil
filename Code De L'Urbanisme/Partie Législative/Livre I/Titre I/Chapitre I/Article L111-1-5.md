@@ -12,7 +12,7 @@ gazeux ou de produits chimiques à destination industrielle.
 Ces dispositions ne sont pas applicables aux installations classées bénéficiant
 de l'application des articles L. 515-8 à L. 515-12 du code de l'environnement
 ainsi qu'aux stockages souterrains visés à l'alinéa précédent bénéficiant de
-l'application du II de l'article 104-3 du code minier.
+l'application du deuxième alinéa de l'article L. 264-1 du code minier.
 
 Le permis de construire mentionne explicitement, le cas échéant, les servitudes
 instituées en application des dispositions précitées du code de l'environnement

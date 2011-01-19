@@ -9,8 +9,10 @@ l'autorité administrative parmi :
 1° Les agents de l'Autorité de sûreté nucléaire ayant des compétences en matière
 de radioprotection ;
 
-2° Les agents chargés de la police des mines et des carrières en application des
-articles 77, 85 et 107 du code minier ;
+2° Les agents chargés de la surveillance administrative et de la police des
+mines en application du chapitre V du titre VII du livre Ier du code minier et
+les agents chargés de la police des carrières en application du chapitre IV du
+titre Ier du livre V du code de l'environnement ;
 
 3° Les agents mentionnés à l'article L. 1421-1 du présent code.
 

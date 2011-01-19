@@ -35,7 +35,7 @@ d'un établissement public de coopération interrégionale ;
 7° (Supprimé) ;
 
 8° Les décisions prises par les régions d'outre-mer en application des articles
-68-21 et 68-22 du code minier ;
+L. 611-31 et L. 611-32 du code minier ;
 
 9° Les décisions prises par les régions d'outre-mer en application de l'article
 L. 4433-15-1.

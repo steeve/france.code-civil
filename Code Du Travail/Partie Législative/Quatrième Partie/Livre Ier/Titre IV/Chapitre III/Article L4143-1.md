@@ -14,4 +14,5 @@ d'accueil de ces salariés à ces postes ;
 
 2° Sur la formation prévue à l'article L. 4142-3 dans les établissements
 comprenant une installation figurant sur la liste prévue au IV de l'article L.
-515-8 du code de l'environnement ou mentionnée à l'article 3-1 du code minier.
+515-8 du code de l'environnement ou mentionnée à l'article L. 211-2 du code
+minier.

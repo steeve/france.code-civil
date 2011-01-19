@@ -1,6 +1,8 @@
 Article L2124-27
 ----
 L'autorisation domaniale nécessaire pour la recherche et l'exploitation des
-substances minérales non visées à l'article 2 du code minier et contenues dans
-les fonds marins appartenant au domaine public est délivrée en application des
-règles fixées à l'article 1er de la loi n° 76-646 du 16 juillet 1976.
+substances minérales autres que celles mentionnées à l'article L. 111-1 du code
+minier lorsqu'elles sont contenues dans les fonds marins du domaine public est
+délivrée en application des règles fixées à la section 1 du chapitre III du
+titre II et à la section 1 du chapitre II du titre III du livre 1er du code
+minier.

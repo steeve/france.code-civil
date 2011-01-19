@@ -11,8 +11,8 @@ régions.
 
 Dans le respect des droits de souveraineté et de propriété de l'Etat sur son
 domaine public maritime, les régions de Guadeloupe, Guyane, Martinique et de la
-Réunion exercent les compétences définies aux articles 68-21 et 68-22 du code
-minier.
+Réunion exercent les compétences définies aux articles L. 611-31 et L. 611-32 du
+code minier.
 
 Les services de l'Etat qui participent à l'exercice des compétences transférées
 aux régions en application du présent article sont, en tant que de besoin, mis à

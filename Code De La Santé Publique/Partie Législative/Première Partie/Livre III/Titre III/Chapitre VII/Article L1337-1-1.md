@@ -5,10 +5,12 @@ judiciaire, aux agents chargés de l'inspection du travail et à ceux chargés d
 la police des mines, les infractions prévues au présent chapitre, celles prévues
 par les règlements pris en application du chapitre III du présent titre, ainsi
 que les infractions aux articles L. 4451-1 et L. 4451-2 du code du travail et
-celles concernant la radioprotection prévues aux 2°, 7° et 10° de l'article 141
-du code minier sont recherchées et constatées par les agents mentionnés aux
-articles L. 1333-17 et L. 1333-18, habilités et assermentés dans les conditions
-fixées par décret en Conseil d'Etat.
+celles concernant la radioprotection prévues aux 2° et 9° du I de l'article L.
+512-1 du code minier ainsi qu'à l'article 141 du code minier dans sa rédaction
+issue du décret n° 56-838 du 16 août 1956 portant code minier et des textes qui
+l'ont complété ou modifié sont recherchées et constatées par les agents
+mentionnés aux articles L. 1333-17 et L. 1333-18, habilités et assermentés dans
+les conditions fixées par décret en Conseil d'Etat.
 
 Ils disposent à cet effet du droit d'accéder à tous les lieux et toutes les
 installations à usage professionnel, ainsi qu'à tous les moyens de transport, à
@@ -30,7 +32,9 @@ Leurs procès-verbaux font foi jusqu'à preuve du contraire. Ils sont transmis
 dans les cinq jours de leur clôture au procureur de la République et une copie
 est en outre adressée au représentant de l'Etat dans le département duquel une
 infraction aux articles L. 4451-1 et L. 4451-2 du code du travail ou prévue aux
-2°, 7° ou 10° de l'article 141 du code minier est constatée.
+2° et 9° du I de l'article L. 512-1 du code minier ainsi qu'à l'article 141 du
+code minier dans sa rédaction issue du décret n° 56-838 du 16 août 1956 portant
+code minier et des textes qui l'ont complété ou modifié est constatée.
 
 Le procureur de la République est préalablement informé des opérations
 envisagées en vue de la recherche des infractions par les agents mentionnés aux

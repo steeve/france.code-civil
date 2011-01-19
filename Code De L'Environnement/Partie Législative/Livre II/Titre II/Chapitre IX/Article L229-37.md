@@ -7,12 +7,13 @@ nouveaux produits et procédés, est soumise à l'obtention d'une autorisation
 délivrée en application de l'article L. 512-1 et des dispositions particulières
 prévues par la présente section.
 
-Les dispositions de l'article 26 du code minier sont applicables au titulaire du
-permis exclusif de recherche de formations souterraines aptes au stockage
-géologique de dioxyde de carbone mentionné à l'article L. 229-30 qui sollicite
-une autorisation d'exploiter, sous réserve que l'exploration soit achevée dans
-le périmètre ayant fait l'objet d'une demande de concession et que toutes les
-conditions prévues dans ce permis exclusif de recherche aient été respectées.
+Les dispositions des articles L. 132-6, L. 132-12 et L. 142-4 du code minier
+sont applicables au titulaire du permis exclusif de recherche de formations
+souterraines aptes au stockage géologique de dioxyde de carbone mentionné à
+l'article L. 229-30 qui sollicite une autorisation d'exploiter, sous réserve que
+l'exploration soit achevée dans le périmètre ayant fait l'objet d'une demande de
+concession et que toutes les conditions prévues dans ce permis exclusif de
+recherche aient été respectées.
 
 Une demande d'autorisation ne peut être examinée que si le demandeur justifie
 être détenteur d'une concession de stockage géologique de dioxyde de carbone

@@ -4,7 +4,7 @@ Le licenciement d'un représentant du personnel d'une entreprise extérieure
 désigné au comité d'hygiène, de sécurité et des conditions de travail d'un
 établissement comprenant au moins une installation classée figurant sur la liste
 prévue au IV de l'article L. 515-8 du code de l'environnement ou mentionnée à
-l'article 3-1 du code minier ne peut intervenir qu'après autorisation de
+l'article L. 211-2 du code minier ne peut intervenir qu'après autorisation de
 l'inspecteur du travail.
 
 Cette autorisation est également requise pour le salarié ayant siégé en qualité

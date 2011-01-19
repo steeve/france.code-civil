@@ -6,7 +6,8 @@ tel qu'aucune atteinte ne puisse être portée à l'objectif de gestion équilib
 de la ressource en eau défini par l'article L. 211-1. Il informe l'autorité
 administrative de la cessation de l'activité et des mesures prises. Cette
 autorité peut à tout moment lui imposer des prescriptions pour la remise en état
-du site, sans préjudice de l'application des articles 91 et 92 du code minier.
+du site, sans préjudice de l'application des articles L. 163-1 à L. 163-9 et L.
+163-11 du code minier.
 
 Les dispositions visées au présent article ne sont pas applicables aux
 installations, ouvrages et travaux des entreprises hydrauliques concédées au

@@ -7,7 +7,7 @@ constructions principalement affectées à leur habitation.
 Ces personnes ne doivent pas être déjà, directement ou par personnes
 interposées, propriétaires d'un bien immobilier ou titulaires d'un droit réel
 immobilier, à moins que ce droit n'entre dans le champ d'application des
-dispositions de l'article 68-13 du code minier.
+dispositions de l'article L. 611-17 du code minier.
 
 A la date de leur demande de cession, les mêmes personnes doivent :
 

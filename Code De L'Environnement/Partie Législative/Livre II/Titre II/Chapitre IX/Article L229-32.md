@@ -5,7 +5,7 @@ contribuer à la lutte contre le réchauffement climatique et l'accès des tiers
 ces sites et au réseau de transport qui les desservent sont régis par les
 dispositions de la présente section. Celle-ci ne s'applique pas au stockage
 souterrain de dioxyde de carbone à destination industrielle régi par l'article
-3-1 du code minier.
+L. 211-2 du code minier.
 
 La présente section s'applique sur le territoire national, le plateau
 continental et dans la zone économique exclusive sous juridiction française,

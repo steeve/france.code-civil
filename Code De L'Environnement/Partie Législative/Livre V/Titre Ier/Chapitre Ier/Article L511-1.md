@@ -10,4 +10,4 @@ l'utilisation rationnelle de l'énergie, soit pour la conservation des sites et
 des monuments ainsi que des éléments du patrimoine archéologique.
 
 Les dispositions du présent titre sont également applicables aux exploitations
-de carrières au sens des articles 1er et 4 du code minier.
+de carrières au sens des articles L. 100-2 et L. 311-1 du code minier.

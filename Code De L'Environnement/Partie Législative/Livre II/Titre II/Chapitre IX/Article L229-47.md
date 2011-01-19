@@ -52,8 +52,9 @@ Il emporte la fin de la validité de la concession de stockage géologique de
 dioxyde de carbone.
 
 Après intervention de la décision de transfert, l'Etat peut recourir aux
-dispositions des articles 71 et 72 du code minier pour assurer l'exécution des
-obligations découlant du a et du b.
+dispositions des articles L. 153-3 à L. 153-13 du code minier et aux décrets
+pris pour leur application pour assurer l'exécution des obligations découlant du
+a et du b.
 
 III. ― Une période minimale de surveillance de trente ans doit en principe
 s'écouler entre l'arrêt définitif mentionné à l'article L. 229-46 et la décision

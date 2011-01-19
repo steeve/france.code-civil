@@ -7,8 +7,8 @@ de l'autorité administrative qui précise les zones et la période de survenanc
 des dommages auxquels sont applicables les dispositions du présent chapitre.
 
 Les mêmes dispositions sont applicables aux accidents liés au transport de
-matières dangereuses ou causés par les installations mentionnées à l'article 3-1
-du code minier.
+matières dangereuses ou causés par les installations mentionnées à l'article L.
+211-2 du code minier.
 
 Le présent chapitre ne s'applique pas aux accidents nucléaires définis par la
 convention sur la responsabilité civile dans le domaine de l'énergie nucléaire

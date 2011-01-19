@@ -5,9 +5,9 @@ intercommunale dotés d'une fiscalité propre peuvent, par une délibération pr
 dans les conditions prévues au I de l'article 1639 A bis, exonérer de taxe
 foncière sur les propriétés bâties, à concurrence de 25 % ou de 50 %, les
 constructions affectées à l'habitation achevées antérieurement à la mise en
-place d'un plan de prévention des risques miniers mentionné à l'article 94 du
-code minier et situées dans les zones exposées aux risques, définies au 1° du II
-de l'article L. 562-1 du code de l'environnement, et délimitées par le plan.
+place d'un plan de prévention des risques miniers mentionné à l'article L. 174-5
+du code minier et situées dans les zones exposées aux risques, définies au 1° du
+II de l'article L. 562-1 du code de l'environnement, et délimitées par le plan.
 
 La délibération porte sur la part revenant à chaque collectivité territoriale ou
 établissement public de coopération intercommunale à fiscalité propre et fixe un

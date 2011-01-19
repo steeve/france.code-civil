@@ -2,11 +2,11 @@ Article L515-26
 ----
 Tout exploitant d'un établissement comportant au moins une installation figurant
 sur la liste prévue au IV de l'article L. 515-8 du présent code ou visée à
-l'article 3-1 du code minier est tenu de faire procéder à une estimation de la
-probabilité d'occurrence et du coût des dommages matériels potentiels aux tiers
-en cas d'accident survenant dans cette installation et de transmettre le rapport
-d'évaluation au préfet ainsi qu'au président de la commission de suivi de site
-créée en application de l'article L. 125-2-1 du présent code.
+l'article L. 211-2 du code minier est tenu de faire procéder à une estimation de
+la probabilité d'occurrence et du coût des dommages matériels potentiels aux
+tiers en cas d'accident survenant dans cette installation et de transmettre le
+rapport d'évaluation au préfet ainsi qu'au président de la commission de suivi
+de site créée en application de l'article L. 125-2-1du présent code.
 
 Cette estimation est réalisée pour chacun des accidents majeurs identifiés dans
 l'étude de dangers de l'établissement réalisée au titre de la réglementation des

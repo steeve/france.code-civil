@@ -1,0 +1,13 @@
+Article L333-7
+----
+Le titulaire d'un permis exclusif de carrières est tenu de verser au
+propriétaire de la surface, indépendamment de l'indemnité d'occupation prévue à
+l'article L. 153-12, une redevance ayant pour assiette le tonnage extrait. A
+défaut d'accord amiable, son montant est fixé par le juge judiciaire, à la
+requête de la partie la plus diligente, en tenant compte notamment des contrats
+passés pour la cession du droit d'exploitation de carrières similaires, de la
+consistance du gîte, de la valeur des matériaux susceptibles d'en être extraits,
+des conditions d'exploitation et du préjudice subi. La valeur que présente pour
+le propriétaire de la surface la redevance mentionnée à l'alinéa précédent
+demeure réunie à la valeur de cette surface et est affectée avec elle aux
+hypothèques prises par les créanciers de ce propriétaire.

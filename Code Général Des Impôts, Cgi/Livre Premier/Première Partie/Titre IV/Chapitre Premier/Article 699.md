@@ -7,7 +7,8 @@ l'article 708, à la condition que l'acte d'échange porte la mention expresse
 qu'il est fait sous le bénéfice des dispositions du décret n° 54-944 du 14
 septembre 1954.
 
-Conformément aux dispositions de l'article 119-5 du code minier, les échanges
-prévus au premier alinéa ne pourront être réalisés qu'après autorisation donnée
-par le ministre chargé des mines. Cette autorisation devra préciser que
-l'opération bénéficie du régime d'exonération fixé par le présent article.
+Conformément aux dispositions des articles L. 143-1, L. 143-3, L. 143-9, L.
+143-13 du code minier, les échanges prévus au premier alinéa ne pourront être
+réalisés qu'après autorisation donnée par le ministre chargé des mines. Cette
+autorisation devra préciser que l'opération bénéficie du régime d'exonération
+fixé par le présent article.
