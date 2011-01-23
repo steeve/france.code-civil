@@ -26,22 +26,20 @@ de l'agriculture ou son représentant ;
 -Le directeur général de l'Institut national de la statistique et des études
 économiques ou son représentant ;
 
-2° Dix-huit représentants des secteurs agricoles et agroalimentaires :
+2° Dix-neuf représentants des secteurs agricoles et agroalimentaires :
 
--Un représentant de l'Assemblée permanente des chambres d'agriculture ;
+-un représentant de l'Assemblée permanente des chambres d'agriculture ;
 
--Quatre représentants des organisations syndicales d'exploitations agricoles à
+-cinq représentants des organisations syndicales d'exploitations agricoles à
 vocation générale habilitées en application de l'article 3 du décret n° 90-187
 du 28 février 1990 relatif à la représentation des organisations syndicales
-d'exploitations agricoles au sein de certains organismes ou commissions ;
+d'exploitants agricoles au sein de certains organismes ou commissions ;
 
--Trois représentants de la pêche maritime et de l'aquaculture ;
+-trois représentants de la pêche maritime et de l'aquaculture ;
 
--Un représentant du secteur coopératif agricole ;
+-sept représentants des industries de transformation ;
 
--Six représentants des industries de transformation ;
-
--Trois représentants du commerce et de la distribution.
+-trois représentants du commerce et de la distribution ;
 
 3° Deux représentants des associations nationales de consommateurs ;
 
