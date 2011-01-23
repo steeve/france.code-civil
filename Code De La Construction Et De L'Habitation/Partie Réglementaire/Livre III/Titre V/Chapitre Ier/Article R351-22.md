@@ -7,6 +7,5 @@ son versement.
 
 Les organismes payeurs définis à l'article R. 351-26 sont autorisés à abandonner
 la mise en recouvrement des sommes indûment payées lorsque leur montant est
-inférieur à une somme fixée par arrêté conjoint des ministres chargés des
-finances, de la construction et de l'habitation, de l'agriculture et de la
-sécurité sociale.
+inférieur à une somme égale à 0,68 % du plafond mentionné à l'article L. 241-3
+du code de la sécurité sociale, arrondie à l'euro supérieur.
