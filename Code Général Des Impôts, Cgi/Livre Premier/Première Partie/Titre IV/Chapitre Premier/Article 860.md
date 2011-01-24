@@ -1,6 +1,6 @@
 Article 860
 ----
-Les notaires, huissiers, greffiers, avoués, avocats et autorités administratives
+Les notaires, huissiers, greffiers, avocats et autorités administratives
 doivent, pour les actes et décisions judiciaires qui contiennent des
 dispositions soumises à publicité foncière et pour les attestations après décès,
 établir en double exemplaire un extrait, dit extrait d'acte modèle n° 1 ou
@@ -12,10 +12,10 @@ compétente de l'Etat.
 
 Pour les actes visés au premier alinéa du I de l'article 647, les deux
 exemplaires de l'extrait sont remis, sous peine de refus du dépôt, à la
-conservation des hypothèques, au moment où la formalité fusionnée est requise
-(2). Le dépôt est également refusé s'il existe, entre cet extrait et le document
-à publier, une discordance faisant obstacle à la détermination de l'assiette ou
-au contrôle de l'impôt.
+conservation des hypothèques (1), au moment où la formalité fusionnée est
+requise (2). Le dépôt est également refusé s'il existe, entre cet extrait et le
+document à publier, une discordance faisant obstacle à la détermination de
+l'assiette ou au contrôle de l'impôt.
 
 Pour les actes visés au deuxième alinéa du I du même article, l'un des
 exemplaires de l'extrait d'acte est déposé au service des impôts compétent pour

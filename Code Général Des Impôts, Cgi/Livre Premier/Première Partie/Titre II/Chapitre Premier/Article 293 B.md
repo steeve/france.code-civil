@@ -38,9 +38,9 @@ dépassés.
 III.-Le chiffre d'affaires limite de la franchise prévue au I est fixé à 42 300
 € :
 
-1. Pour les opérations réalisées par les avocats, les avocats au Conseil d'Etat
-et à la Cour de cassation et les avoués, dans le cadre de l'activité définie par
-la réglementation applicable à leur profession ;
+1. Pour les opérations réalisées par les avocats et les avocats au Conseil
+d'Etat et à la Cour de cassation, dans le cadre de l'activité définie par la
+réglementation applicable à leur profession ;
 
 2. Pour la livraison de leurs oeuvres désignées aux 1° à 12° de l'article L.
 112-2 du code de la propriété intellectuelle et la cession des droits
@@ -67,6 +67,6 @@ le chiffre d'affaires de l'année en cours dépasse respectivement 52 000 € et
 prestations de services et pour les livraisons de biens effectuées à compter du
 premier jour du mois au cours duquel ces chiffres d'affaires sont dépassés.
 
-VI. - Les seuils mentionnés aux I à V sont actualisés chaque année dans la même
+VI.-Les seuils mentionnés aux I à V sont actualisés chaque année dans la même
 proportion que la limite supérieure de la première tranche du barème de l'impôt
 sur le revenu et arrondis à la centaine d'euros la plus proche.

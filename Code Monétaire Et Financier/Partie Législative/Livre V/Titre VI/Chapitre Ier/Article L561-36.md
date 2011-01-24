@@ -144,7 +144,6 @@ les obligations découlant du présent titre, l'autorité de contrôle engage un
 procédure sur le fondement des règlements professionnels ou administratifs et en
 avise le procureur de la République.
 
-Par dérogation, pour les avocats au Conseil d'Etat et à la Cour de cassation,
-les avocats et les avoués près les cours d'appel, cet avis est adressé, selon le
-cas, au procureur général près la Cour de cassation ou au procureur général près
-la cour d'appel.
+Par dérogation, pour les avocats au Conseil d'Etat et à la Cour de cassation et
+les avocats, cet avis est adressé, selon le cas, au procureur général près la
+Cour de cassation ou au procureur général près la cour d'appel.

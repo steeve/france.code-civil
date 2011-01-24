@@ -22,5 +22,5 @@ l'expiration du délai donné aux créanciers pour requérir la mise aux enchèr
 et, en outre, si cette mise aux enchères est requise, jusqu'à l'adjudication qui
 suivra ;
 
-5° Constitution d'un avoué près le tribunal de grande instance dans le ressort
+5° Constitution d'un avocat près le tribunal de grande instance dans le ressort
 duquel se trouve le bateau.

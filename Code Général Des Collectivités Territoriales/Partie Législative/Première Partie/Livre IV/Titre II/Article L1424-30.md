@@ -18,8 +18,8 @@ pris dans le cadre de cette délégation. Il peut être chargé de prendre toute
 décision concernant la préparation, la passation, l'exécution et le règlement
 des marchés de travaux, de fournitures et de services pouvant être passés selon
 une procédure adaptée. Il peut être chargé de fixer les rémunérations et de
-régler les frais et honoraires des avocats, notaires, avoués, huissiers de
-justice et experts.
+régler les frais et honoraires des avocats, notaires, huissiers de justice et
+experts.
 
 Il peut déléguer, par arrêté, sous sa surveillance et sa responsabilité,
 l'exercice d'une partie de ses fonctions aux membres du bureau du conseil

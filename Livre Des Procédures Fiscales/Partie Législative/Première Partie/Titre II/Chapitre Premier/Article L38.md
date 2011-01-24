@@ -90,7 +90,7 @@ acte d'huissier de justice.
 Le délai et la voie de recours sont mentionnés dans l'ordonnance.
 
 L'ordonnance peut faire l'objet d'un appel devant le premier président de la
-cour d'appel. Les parties ne sont pas tenues de constituer avoué.
+cour d'appel. Les parties ne sont pas tenues de constituer avocat.
 
 Suivant les règles prévues par le code de procédure civile, cet appel doit être
 exclusivement formé par déclaration remise ou adressée, par pli recommandé ou, à
@@ -134,7 +134,7 @@ au premier alinéa du 3 ci-dessus ; en cas de refus de signer, mention en est
 faite au procès-verbal.
 
 Si l'inventaire sur place présente des difficultés, les pièces, documents, biens
-et avoirs saisis sont placés sous scellés.L'occupant des lieux ou son
+et avoirs saisis sont placés sous scellés. L'occupant des lieux ou son
 représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu
 en présence de l'officier de police judiciaire ; l'inventaire est alors établi.
 
@@ -160,7 +160,7 @@ Le premier président de la cour d'appel connaît des recours contre le
 déroulement des opérations de visite ou de saisie autorisées en application du
 2. Le procès-verbal et l'inventaire rédigés à l'issue de ces opérations
 mentionnent le délai et la voie de recours. Les parties ne sont pas tenues de
-constituer avoué.
+constituer avocat.
 
 Suivant les règles prévues par le code de procédure civile, ce recours doit être
 exclusivement formé par déclaration remise ou adressée, par pli recommandé ou, à

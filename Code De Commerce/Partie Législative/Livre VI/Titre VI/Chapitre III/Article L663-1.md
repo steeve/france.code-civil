@@ -3,10 +3,9 @@ Article L663-1
 I.-Lorsque les fonds disponibles du débiteur n'y peuvent suffire immédiatement,
 le Trésor public, sur ordonnance motivée du juge-commissaire, fait l'avance des
 droits, taxes, redevances ou émoluments perçus par les greffes des juridictions,
-des débours tarifés et des émoluments dus aux avoués et des rémunérations des
-avocats dans la mesure où elles sont réglementées, des frais de signification et
-de publicité et de la rémunération des techniciens désignés par la juridiction
-après accord du ministère public, afférents :
+des rémunérations des avocats dans la mesure où elles sont réglementées, des
+frais de signification et de publicité et de la rémunération des techniciens
+désignés par la juridiction après accord du ministère public, afférents :
 
 1° Aux décisions qui interviennent au cours de la procédure de sauvegarde, de
 redressement judiciaire ou de liquidation judiciaire rendues dans l'intérêt

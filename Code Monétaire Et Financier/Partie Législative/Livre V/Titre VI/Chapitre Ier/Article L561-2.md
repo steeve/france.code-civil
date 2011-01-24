@@ -72,10 +72,9 @@ experts-comptables et réglementant les titres et la profession
 d'expert-comptable ainsi que les commissaires aux comptes ;
 
 13° Les avocats au Conseil d'Etat et à la Cour de cassation, les avocats, les
-avoués près les cours d'appel, les notaires, les huissiers de justice, les
-administrateurs judiciaires, les mandataires judiciaires et les
-commissaires-priseurs judiciaires, dans les conditions prévues à l'article L.
-561-3 ;
+notaires, les huissiers de justice, les administrateurs judiciaires, les
+mandataires judiciaires et les commissaires-priseurs judiciaires, dans les
+conditions prévues à l'article L. 561-3 ;
 
 14° Les opérateurs de ventes volontaires de meubles aux enchères publiques ;
 

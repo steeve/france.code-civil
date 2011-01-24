@@ -14,34 +14,30 @@ que dans le but de renseigner, dans les conditions prévues à l'article L.
 561-31, des cellules de renseignement financier homologues étrangères.
 
 II.-Par dérogation au I, les demandes de communication de pièces effectuées
-auprès des avocats au Conseil d'Etat et à la Cour de cassation, des avocats et
-des avoués près les cours d'appel sont présentées par le service, selon le cas,
-au président de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation,
-au bâtonnier de l'ordre auprès duquel l'avocat est inscrit ou au président de la
-compagnie dont relève l'avoué.
+auprès des avocats au Conseil d'Etat et à la Cour de cassation et des avocats
+sont présentées par le service, selon le cas, au président de l'ordre des
+avocats au Conseil d'Etat et à la Cour de cassation ou au bâtonnier de l'ordre
+auprès duquel l'avocat est inscrit.
 
-L'avocat au Conseil d'Etat et à la Cour de cassation, l'avocat ou l'avoué près
-la cour d'appel, communique à l'autorité dont il relève les pièces qu'elle lui
-demande.L'autorité les transmet au service selon les modalités prévues à
-l'article L. 561-17.
+L'avocat au Conseil d'Etat et à la Cour de cassation ou l'avocat, communique à
+l'autorité dont il relève les pièces qu'elle lui demande.L'autorité les transmet
+au service selon les modalités prévues à l'article L. 561-17.
 
 A défaut du respect de cette procédure, l'avocat au Conseil d'Etat et à la Cour
-de cassation, l'avocat ou l'avoué près la cour d'appel est en droit de s'opposer
-à la communication des pièces demandées par le service mentionné à l'article L.
-561-23.
+de cassation ou l'avocat est en droit de s'opposer à la communication des pièces
+demandées par le service mentionné à l'article L. 561-23.
 
 Cette dérogation ne s'applique pas à l'avocat agissant en qualité de fiduciaire.
 
 III.-Il est interdit, sous peine des sanctions prévues à l'article L. 574-1, aux
 dirigeants et aux personnes mentionnées à l'article L. 561-2, au président de
-l'ordre des avocats au Conseil d'Etat et à la Cour de cassation, au bâtonnier de
-l'ordre auprès duquel l'avocat est inscrit ou au président de la compagnie dont
-relève l'avoué de porter à la connaissance du propriétaire des sommes ou de
-l'auteur de l'une des opérations mentionnées à l'article L. 561-15 ou à des
-tiers, autres que les autorités de contrôle, ordres professionnels et instances
-représentatives nationales visées à l'article L. 561-36, les informations
-provenant de l'exercice par le service mentionné à l'article L. 561-23 du droit
-de communication prévu à l'article L. 561-26.
+l'ordre des avocats au Conseil d'Etat et à la Cour de cassation ou au bâtonnier
+de l'ordre auprès duquel l'avocat est inscrit de porter à la connaissance du
+propriétaire des sommes ou de l'auteur de l'une des opérations mentionnées à
+l'article L. 561-15 ou à des tiers, autres que les autorités de contrôle, ordres
+professionnels et instances représentatives nationales visées à l'article L.
+561-36, les informations provenant de l'exercice par le service mentionné à
+l'article L. 561-23 du droit de communication prévu à l'article L. 561-26.
 
 Le fait pour les personnes mentionnées au 13° de l'article L. 561-2 de
 s'efforcer de dissuader leur client de prendre part à une activité illégale ne

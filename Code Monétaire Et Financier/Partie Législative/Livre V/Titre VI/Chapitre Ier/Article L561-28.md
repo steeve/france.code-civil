@@ -6,10 +6,9 @@ République, il en informe selon des modalités fixées par décret la personne
 mentionnée à l'article L. 561-2 qui a effectué la déclaration.
 
 Lorsque la déclaration lui a été transmise par le président de l'ordre des
-avocats au Conseil d'Etat et à la Cour de cassation, le bâtonnier de l'ordre des
-avocats ou le président de la compagnie des avoués, en application de l'article
-L. 561-17, le service informe ces autorités de la transmission de la déclaration
-au procureur de la République.
+avocats au Conseil d'Etat et à la Cour de cassation ou le bâtonnier de l'ordre
+des avocats, en application de l'article L. 561-17, le service informe ces
+autorités de la transmission de la déclaration au procureur de la République.
 
 Les modalités de cette information sont fixées par décret.
 

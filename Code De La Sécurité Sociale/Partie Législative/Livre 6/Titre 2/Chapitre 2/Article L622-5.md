@@ -7,7 +7,7 @@ de l'une de ces professions :
 1°) médecin, chirurgien-dentiste, sage-femme, pharmacien, architecte,
 expert-comptable, vétérinaire ;
 
-2°) notaire, avoué, huissier de justice, personne ayant la qualité de
+2°) notaire, huissier de justice, personne ayant la qualité de
 commissaire-priseur judiciaire habilité à diriger les ventes dans les conditions
 prévues à l'article L. 321-4 du code de commerce, syndic ou administrateur et
 liquidateur judiciaire, agréé, greffier, expert devant les tribunaux, personne

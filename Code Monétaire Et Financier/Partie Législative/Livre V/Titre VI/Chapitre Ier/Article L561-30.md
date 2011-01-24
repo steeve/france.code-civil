@@ -14,9 +14,8 @@ Ce service en accuse réception et peut, sur leur demande, les tenir informés d
 suites qui ont été réservées à ces informations.
 
 III.-Par dérogation au II, lorsque, dans l'accomplissement de ses missions, le
-conseil de l'ordre des avocats ou la chambre de la compagnie des avoués a
-connaissance de faits susceptibles d'être liés au blanchiment des capitaux ou au
-financement du terrorisme, le bâtonnier ou le président, selon le cas, en
+conseil de l'ordre des avocats a connaissance de faits susceptibles d'être liés
+au blanchiment des capitaux ou au financement du terrorisme, le bâtonnier en
 informe le procureur général près la cour d'appel qui transmet cette information
 sans délai au service mentionné à l'article L. 561-23.
 

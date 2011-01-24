@@ -78,7 +78,7 @@ acte d'huissier de justice.
 Le délai et la voie de recours sont mentionnés dans l'ordonnance.
 
 L'ordonnance peut faire l'objet d'un appel devant le premier président de la
-cour d'appel. Les parties ne sont pas tenues de constituer avoué.
+cour d'appel. Les parties ne sont pas tenues de constituer avocat.
 
 Suivant les règles prévues par le code de procédure civile, cet appel doit être
 exclusivement formé par déclaration remise ou adressée, par pli recommandé ou, à
@@ -158,7 +158,7 @@ Le procès-verbal et l'inventaire mentionnent le délai et la voie de recours.
 
 Le premier président de la cour d'appel connaît des recours contre le
 déroulement des opérations de visite ou de saisie. Les parties ne sont pas
-tenues de constituer avoué.
+tenues de constituer avocat.
 
 Suivant les règles prévues par le code de procédure civile, ce recours doit être
 exclusivement formé par déclaration remise ou adressée, par pli recommandé ou, à

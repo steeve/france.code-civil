@@ -11,7 +11,7 @@ dans les procès-verbaux d'audition.
 Lorsque des poursuites pénales sont exercées, les assureurs appelés à garantir
 le dommage sont admis à intervenir et peuvent être mis en cause devant la
 juridiction répressive, même pour la première fois en cause d'appel ; ils
-doivent se faire représenter par un avocat ou un avoué.
+doivent se faire représenter par un avocat.
 
 En ce qui concerne les débats et les voies de recours, les règles concernant les
 personnes civilement responsables et les parties civiles sont applicables

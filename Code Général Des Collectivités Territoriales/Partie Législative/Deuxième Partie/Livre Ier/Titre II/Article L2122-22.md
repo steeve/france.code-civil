@@ -43,7 +43,7 @@ municipaux ;
 ;
 
 11° De fixer les rémunérations et de régler les frais et honoraires des avocats,
-notaires, avoués, huissiers de justice et experts ;
+notaires, huissiers de justice et experts ;
 
 12° De fixer, dans les limites de l'estimation des services fiscaux (domaines),
 le montant des offres de la commune à notifier aux expropriés et de répondre à
@@ -93,7 +93,7 @@ l'urbanisme ;
 23° De prendre les décisions mentionnées aux articles L. 523-4 et L. 523-5 du
 code du patrimoine relatives à la réalisation de diagnostics d'archéologie
 préventive prescrits pour les opérations d'aménagement ou de travaux sur le
-territoire de la commune ;
+territoire de la commune.
 
 24° D'autoriser, au nom de la commune, le renouvellement de l'adhésion aux
 associations dont elle est membre.

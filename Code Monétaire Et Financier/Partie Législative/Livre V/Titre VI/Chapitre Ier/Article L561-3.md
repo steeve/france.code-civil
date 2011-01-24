@@ -27,17 +27,16 @@ structure similaire ;
 
 g) La constitution ou la gestion de fonds de dotation.
 
-II.-Les avocats au Conseil d'Etat et à la Cour de cassation, les avocats et les
-avoués près les cours d'appel, dans l'exercice d'une activité relative aux
-transactions mentionnées au I, ne sont pas soumis aux dispositions du présent
-chapitre lorsque l'activité se rattache à une procédure juridictionnelle, que
-les informations dont ils disposent soient reçues ou obtenues avant, pendant ou
-après cette procédure, y compris dans le cadre de conseils relatifs à la manière
-d'engager ou d'éviter une telle procédure, non plus que lorsqu'ils donnent des
-consultations juridiques, à moins qu'elles n'aient été fournies à des fins de
-blanchiment de capitaux ou de financement du terrorisme ou en sachant que le
-client les demande aux fins de blanchiment de capitaux ou de financement du
-terrorisme.
+II.-Les avocats au Conseil d'Etat et à la Cour de cassation et les avocats, dans
+l'exercice d'une activité relative aux transactions mentionnées au I, ne sont
+pas soumis aux dispositions du présent chapitre lorsque l'activité se rattache à
+une procédure juridictionnelle, que les informations dont ils disposent soient
+reçues ou obtenues avant, pendant ou après cette procédure, y compris dans le
+cadre de conseils relatifs à la manière d'engager ou d'éviter une telle
+procédure, non plus que lorsqu'ils donnent des consultations juridiques, à moins
+qu'elles n'aient été fournies à des fins de blanchiment de capitaux ou de
+financement du terrorisme ou en sachant que le client les demande aux fins de
+blanchiment de capitaux ou de financement du terrorisme.
 
 III.-Les autres personnes mentionnées au 13° de l'article L. 561-2, dans
 l'exercice d'une activité relative aux transactions mentionnées au I, ne sont

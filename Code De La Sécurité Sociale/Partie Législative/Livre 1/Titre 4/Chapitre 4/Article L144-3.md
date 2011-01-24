@@ -20,9 +20,4 @@ employé d'un autre organisme de sécurité sociale ;
 4° Un délégué des associations de mutilés et invalides du travail les plus
 représentatives.
 
-Devant la Cour nationale de l'incapacité et de la tarification de l'assurance
-des accidents du travail, les parties peuvent également se faire assister ou
-représenter par un avoué.
-
-Le représentant doit, s'il n'est avocat ou avoué, justifier d'un pouvoir
-spécial.
+Le représentant doit, s'il n'est avocat justifier d'un pouvoir spécial.
