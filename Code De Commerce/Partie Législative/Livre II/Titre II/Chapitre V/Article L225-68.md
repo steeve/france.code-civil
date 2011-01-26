@@ -31,12 +31,14 @@ de l'exercice.
 Dans les sociétés dont les titres financiers sont admis aux négociations sur un
 marché réglementé, le président du conseil de surveillance rend compte, dans un
 rapport joint au rapport mentionné à l'alinéa précédent et aux articles L.
-225-102, L. 225-102-1 et L. 233-26, de la composition, des conditions de
-préparation et d'organisation des travaux du conseil, ainsi que des procédures
-de contrôle interne et de gestion des risques mises en place par la société, en
-détaillant notamment celles de ces procédures qui sont relatives à l'élaboration
-et au traitement de l'information comptable et financière pour les comptes
-sociaux et, le cas échéant, pour les comptes consolidés.
+225-102, L. 225-102-1 et L. 233-26, de la composition du conseil et de
+l'application du principe de représentation équilibrée des femmes et des hommes
+en son sein, des conditions de préparation et d'organisation des travaux du
+conseil, ainsi que des procédures de contrôle interne et de gestion des risques
+mises en place par la société, en détaillant notamment celles de ces procédures
+qui sont relatives à l'élaboration et au traitement de l'information comptable
+et financière pour les comptes sociaux et, le cas échéant, pour les comptes
+consolidés.
 
 Lorsqu'une société se réfère volontairement à un code de gouvernement
 d'entreprise élaboré par les organisations représentatives des entreprises, le

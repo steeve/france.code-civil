@@ -16,14 +16,16 @@ exercé.
 Ce rapport décrit en les distinguant les éléments fixes, variables et
 exceptionnels composant ces rémunérations et avantages ainsi que les critères en
 application desquels ils ont été calculés ou les circonstances en vertu
-desquelles ils ont été établis. Il indique également les engagements de toutes
-natures, pris par la société au bénéfice de ses mandataires sociaux,
-correspondant à des éléments de rémunération, des indemnités ou des avantages
-dus ou susceptibles d'être dus à raison de la prise, de la cessation ou du
-changement de ces fonctions ou postérieurement à celles-ci.L'information donnée
-à ce titre doit préciser les modalités de détermination de ces engagements.
-Hormis les cas de bonne foi, les versements effectués et les engagements pris en
-méconnaissance des dispositions du présent alinéa peuvent être annulés.
+desquelles ils ont été établis. Il fait mention, s'il y a lieu, de l'application
+du second alinéa, selon le cas, de l'article L. 225-45 ou de l'article L.
+225-83. Il indique également les engagements de toutes natures, pris par la
+société au bénéfice de ses mandataires sociaux, correspondant à des éléments de
+rémunération, des indemnités ou des avantages dus ou susceptibles d'être dus à
+raison de la prise, de la cessation ou du changement de ces fonctions ou
+postérieurement à celles-ci. L'information donnée à ce titre doit préciser les
+modalités de détermination de ces engagements. Hormis les cas de bonne foi, les
+versements effectués et les engagements pris en méconnaissance des dispositions
+du présent alinéa peuvent être annulés.
 
 Il comprend également la liste de l'ensemble des mandats et fonctions exercés
 dans toute société par chacun de ces mandataires durant l'exercice. Il comprend

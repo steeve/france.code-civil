@@ -4,6 +4,9 @@ La société anonyme est administrée par un conseil d'administration composé d
 trois membres au moins. Les statuts fixent le nombre maximum des membres du
 conseil, qui ne peut dépasser dix-huit.
 
+Le conseil d'administration est composé en recherchant une représentation
+équilibrée des femmes et des hommes.
+
 Toutefois, en cas de décès, de démission ou de révocation du président du
 conseil d'administration et si le conseil n'a pu le remplacer par un de ses
 membres, il peut nommer, sous réserve des dispositions de l'article L. 225-24,

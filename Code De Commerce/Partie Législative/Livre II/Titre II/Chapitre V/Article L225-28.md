@@ -33,7 +33,10 @@ exprimés, au second tour la majorité relative.
 
 Dans les autres cas, l'élection a lieu au scrutin de liste à la représentation
 proportionnelle au plus fort reste et sans panachage. Chaque liste doit
-comporter un nombre de candidats double de celui des sièges à pourvoir.
+comporter un nombre de candidats double de celui des sièges à pourvoir et être
+composée alternativement d'un candidat de chaque sexe. Sur chacune des listes,
+l'écart entre le nombre des candidats de chaque sexe ne peut être supérieur à
+un.
 
 En cas d'égalité des voix, les candidats dont le contrat de travail est le plus
 ancien sont déclarés élus.
