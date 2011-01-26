@@ -3,34 +3,27 @@ Article Annexe XI
 ANNEXE A L'ARTICLE R. 4134-1
 
 Nombre des membres des conseils économiques, sociaux et environnementaux
-régionaux
-
-et répartition de ces derniers entre les collèges
+régionaux et répartition de ces derniers entre les collèges
 
 
-REGIONS
+RÉGIONS
 
-PREMIER
+PREMIER collège
 
-collège
-
-
-DEUXIEME
-
-collège
+DEUXIÈME collège
 
 
-TROISIEME
+TROISIÈME COLLÈGE
 
-collège
-
-
-QUATRIEME
-
-collège
+QUATRIÈME collège
 
 
 TOTAL
+
+Total troisième collège
+
+Dont au titre du deuxième alinéa de l'article L. 4134-2 du CGCT
+
 
 Alsace
 
@@ -38,11 +31,13 @@ Alsace
 
 25
 
-21
+25
+
+4
 
 3
 
-74
+78
 
 
 Aquitaine
@@ -51,11 +46,13 @@ Aquitaine
 
 38
 
-32
+38
+
+6
 
 5
 
-113
+119
 
 
 Auvergne
@@ -64,11 +61,13 @@ Auvergne
 
 24
 
-20
+24
+
+4
 
 3
 
-71
+75
 
 
 Basse-Normandie
@@ -77,11 +76,13 @@ Basse-Normandie
 
 25
 
-21
+25
+
+4
 
 3
 
-74
+78
 
 
 Bourgogne
@@ -90,11 +91,13 @@ Bourgogne
 
 25
 
-21
+25
+
+4
 
 3
 
-74
+78
 
 
 Bretagne
@@ -103,11 +106,13 @@ Bretagne
 
 38
 
-32
+38
+
+6
 
 5
 
-113
+119
 
 
 Centre
@@ -116,24 +121,28 @@ Centre
 
 32
 
-27
+32
+
+5
 
 4
 
-95
+100
 
 
-Champagne-Ardennes
+Champagne-Ardenne
+
+25
 
 25
 
 25
 
-21
+4
 
 3
 
-74
+78
 
 
 Franche-Comté
@@ -142,11 +151,13 @@ Franche-Comté
 
 22
 
-18
+22
+
+4
 
 3
 
-65
+69
 
 
 Haute-Normandie
@@ -155,11 +166,13 @@ Haute-Normandie
 
 25
 
-21
+25
+
+4
 
 3
 
-74
+78
 
 
 Ile-de-France
@@ -168,11 +181,13 @@ Ile-de-France
 
 41
 
-35
+41
+
+6
 
 5
 
-122
+128
 
 
 Languedoc-Roussillon
@@ -181,11 +196,13 @@ Languedoc-Roussillon
 
 30
 
-25
+30
+
+5
 
 4
 
-89
+94
 
 
 Limousin
@@ -194,11 +211,13 @@ Limousin
 
 22
 
-18
+22
+
+4
 
 3
 
-65
+69
 
 
 Lorraine
@@ -207,11 +226,13 @@ Lorraine
 
 31
 
-26
+31
+
+5
 
 4
 
-92
+97
 
 
 Midi-Pyrénées
@@ -220,24 +241,28 @@ Midi-Pyrénées
 
 38
 
-32
+38
+
+6
 
 5
 
-113
+119
 
 
-Nord-Pas-de-Calais
+Nord - Pas-de-Calais
 
 38
 
 38
 
-32
+38
+
+6
 
 5
 
-113
+119
 
 
 Pays de la Loire
@@ -246,11 +271,13 @@ Pays de la Loire
 
 38
 
-32
+38
+
+6
 
 5
 
-113
+119
 
 
 Picardie
@@ -259,24 +286,28 @@ Picardie
 
 25
 
-21
+25
+
+4
 
 3
 
-74
+78
 
 
-Poitou Charentes
+Poitou-Charentes
 
 25
 
 25
 
-21
+25
+
+4
 
 3
 
-74
+78
 
 Provence-Alpes-Côte d'Azur
 
@@ -284,21 +315,25 @@ Provence-Alpes-Côte d'Azur
 
 39
 
-33
+39
+
+6
 
 5
 
-116
+122
 
 
-Rhônes-Alpes
+Rhône-Alpes
 
 39
 
 39
 
-33
+39
+
+6
 
 5
 
-116
+122
