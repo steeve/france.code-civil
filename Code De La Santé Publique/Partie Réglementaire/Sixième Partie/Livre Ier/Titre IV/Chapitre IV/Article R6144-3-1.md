@@ -46,7 +46,10 @@ médico-techniques ;
 
 5° Le représentant du comité technique d'établissement, élu en son sein ;
 
-6° Le praticien responsable de l'équipe opérationnelle d'hygiène.
+6° Le praticien responsable de l'équipe opérationnelle d'hygiène ;
+
+7° Un représentant des pharmaciens hospitaliers désigné par le directeur de
+l'établissement.
 
 Le président du directoire peut se faire assister de toute personne de son
 choix.
