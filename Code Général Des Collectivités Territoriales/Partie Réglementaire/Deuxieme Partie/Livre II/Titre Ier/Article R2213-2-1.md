@@ -1,19 +1,25 @@
 Article R2213-2-1
 ----
-Il ne peut être procédé à une opération tendant à la conservation du corps d'une
-personne décédée sans une autorisation délivrée par le maire de la commune du
-lieu de décès ou de la commune où sont pratiquées les opérations de
-conservation.
+Un arrêté du ministre chargé de la santé, pris après avis du Haut Conseil de la
+santé publique, fixe :
 
-Pour obtenir cette autorisation, il y a lieu de produire :
+a) La liste des infections transmissibles qui imposent une mise en bière
+immédiate dans un cercueil hermétique, répondant aux caractéristiques définies à
+l'article R. 2213-27, et sa fermeture ;
 
-1° L'expression écrite des dernières volontés de la personne décédée ou une
-demande de toute personne qui a qualité pour pourvoir aux funérailles et
-justifie de son état civil et de son domicile ;
+b) La liste des infections transmissibles qui imposent une mise en bière
+immédiate dans un cercueil simple, répondant aux caractéristiques définies à
+l'article R. 2213-25, et sa fermeture ;
 
-2° Une déclaration indiquant le mode opératoire, le produit que l'on se propose
-d'employer, le lieu et l'heure de l'opération ainsi que le nom et l'adresse de
-la personne ou de l'entreprise qui procédera à celle-ci ;
+c) La liste des infections transmissibles pour lesquelles, si elles sont
+suspectées, il peut être dérogé, dans les conditions prévues à l'article R.
+2213-14, au délai maximum de transport de corps avant mise en bière, afin de
+permettre une autopsie médicale au sens de l'article L. 1211-2 du code de la
+santé publique ;
 
-3° Le certificat du médecin chargé par l'officier d'état civil de s'assurer du
-décès et attestant que celui-ci ne pose pas de problème médico-légal.
+d) La liste des infections transmissibles imposant, le cas échéant, la mise en
+bière pour le transport du corps s'il a lieu avant l'expiration du délai
+mentionné à l'article R. 2213-11 ;
+
+e) La liste des infections transmissibles qui interdisent la pratique des soins
+de conservation.

@@ -1,5 +1,5 @@
 Article R2213-10
 ----
-Lorsque la commune du lieu du décès n'est pas celle où le corps est transporté,
-avis de l'autorisation de transport est adressé sans délai au maire de cette
-dernière commune.
+Lorsque le corps est transporté avant mise en bière hors de la commune du lieu
+de décès ou de dépôt, une copie de la déclaration de transport est immédiatement
+adressée, par tout moyen, au maire de la commune où le corps est transporté.

@@ -12,20 +12,15 @@ celui-ci s'engage à porter en permanence.
 L'exemplaire de la déclaration qui était détenu par le défunt est remis à
 l'officier d'état civil lors de la déclaration de décès.
 
-Après le décès, le transport du corps est autorisé par le maire de la commune du
-lieu de décès.
+Après le décès, le transport est déclaré préalablement, par tout moyen écrit,
+auprès du maire de la commune du lieu de décès ou de dépôt. La déclaration est
+subordonnée à la détention d'un extrait du certificat de décès prévu à l'article
+L. 2223-42 attestant que le décès ne pose pas de problème médico-légal et que le
+défunt n'était pas atteint d'une des infections transmissibles figurant sur
+l'une des listes mentionnées à l'article R. 2213-2-1.
 
-L'autorisation est accordée sur production d'un extrait du certificat médical
-prévu à l'article L. 2223-42 attestant que le décès ne pose pas de problème
-médico-légal et n'est pas causé par l'une des maladies contagieuses définies par
-l'arrêté du ministère de la santé prévu à l'article R. 2213-9.
-
-Les opérations de transport sont achevées dans un délai maximum de vingt-quatre
+Les opérations de transport sont achevées dans un délai maximum de quarante-huit
 heures à compter du décès.
-
-Lorsque le décès survient dans un établissement de santé public ou privé
-disposant d'équipements permettant la conservation des corps, ce délai est porté
-à quarante-huit heures.
 
 L'établissement assure à ses frais l'inhumation ou la crémation du corps
 réalisée sans qu'il soit nécessaire de respecter les conditions prévues à
