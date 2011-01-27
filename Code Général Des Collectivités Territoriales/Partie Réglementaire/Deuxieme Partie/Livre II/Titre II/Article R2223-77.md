@@ -1,8 +1,8 @@
 Article R2223-77
 ----
 Lorsque le décès a eu lieu sur la voie publique ou dans un lieu ouvert au
-public, l'admission du corps en chambre funéraire est autorisée par les
-autorités de police ou de gendarmerie.
+public, l'admission du corps en chambre funéraire est requise par les autorités
+de police ou de gendarmerie.
 
 Un médecin est commis pour s'assurer auparavant de la réalité et de la cause du
 décès.

@@ -1,7 +1,7 @@
 Article R2213-34
 ----
-La crémation est autorisée par le maire de la commune du lieu du décès ou, s'il
-y a eu transport du corps, du lieu de la mise en bière.
+La crémation est autorisée par le maire de la commune de décès ou, s'il y a eu
+transport du corps avant mise en bière, du lieu de fermeture du cercueil.
 
 Cette autorisation est accordée sur les justifications suivantes :
 
@@ -9,8 +9,8 @@ Cette autorisation est accordée sur les justifications suivantes :
 de toute personne qui a qualité pour pourvoir aux funérailles et justifie de son
 état civil et de son domicile ;
 
-2° Un certificat du médecin chargé par l'officier d'état civil de s'assurer du
-décès et affirmant que celui-ci ne pose pas de problème médico-légal ;
+2° Un certificat de décès établi par le médecin ayant constaté le décès,
+affirmant que celui-ci ne pose pas de problème médico-légal ;
 
 3° Le cas échéant, l'attestation du médecin ou du thanatopracteur prévue au
 troisième alinéa de l'article R. 2213-15.
@@ -21,6 +21,6 @@ préalable, effectuée par un médecin légiste choisi sur la liste des experts 
 aux frais de la famille.
 
 Lorsque le décès a eu lieu à l'étranger, la crémation est autorisée par le maire
-de la commune où elle est pratiquée. L'autorisation de transport de corps prévue
+de la commune où elle est pratiquée.L'autorisation de transport de corps prévue
 par un arrangement international tient lieu, dans ce cas, de certificat du
 médecin.

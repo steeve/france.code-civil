@@ -1,6 +1,10 @@
 Article R2223-2
 ----
 Les terrains les plus élevés et exposés au nord sont choisis de préférence.
+Ceux-ci doivent être choisis sur la base d'un rapport établi par
+l'hydrogéologue. Ce rapport se prononce sur le risque que le niveau des plus
+hautes eaux de la nappe libre superficielle puisse se situer à moins d'un mètre
+du fond des sépultures.
 
 Ils sont entourés d'une clôture ayant au moins 1,50 mètre de haut.
 

@@ -14,5 +14,5 @@ reste inférieur au seuil défini au même alinéa pendant trois années civiles
 
 Pour l'application du présent article, il est tenu compte des décès intervenus
 dans les établissements d'hébergement pour personnes âgées gérés par les
-établissements de santé dans les conditions définies à l'article L. 711-2-1 du
+établissements de santé dans les conditions définies à l'article L. 6111-3 du
 code de la santé publique.

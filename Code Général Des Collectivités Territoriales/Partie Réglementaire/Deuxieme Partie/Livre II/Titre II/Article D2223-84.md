@@ -27,7 +27,5 @@ siphons de sol sont munis de paniers démontables et désinfectables.
 
 Les thanatopracteurs qui procèdent à des soins de conservation au sein des
 chambres funéraires doivent recueillir les déchets issus de ces activités et
-procéder à leur élimination conformément aux dispositions du décret n° 97-1048
-du 6 novembre 1997 relatif à l'élimination des déchets d'activités de soins à
-risques infectieux et assimilés et des pièces anatomiques et modifiant le code
-de la santé publique.
+procéder à leur élimination conformément aux dispositions des articles R. 1335-1
+à R. 1335-14 du code de la santé publique.

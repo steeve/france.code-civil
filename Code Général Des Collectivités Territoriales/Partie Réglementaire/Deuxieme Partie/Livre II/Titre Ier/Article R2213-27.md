@@ -13,5 +13,6 @@ ministre chargé de la santé après avis de l'Agence française de sécurité
 sanitaire de l'environnement et du travail et du Conseil national des opérations
 funéraires.
 
-Lorsque le défunt était atteint d'une maladie contagieuse, le corps est
-enveloppé dans un linceul imbibé d'une solution antiseptique.
+Lorsque le défunt était atteint de l'une des infections transmissibles dont la
+liste est fixée au a de l'article R. 2213-2-1, le corps est enveloppé dans un
+linceul imbibé d'une solution antiseptique.

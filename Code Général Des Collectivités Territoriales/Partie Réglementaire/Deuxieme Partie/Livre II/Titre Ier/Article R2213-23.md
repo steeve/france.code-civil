@@ -1,10 +1,10 @@
 Article R2213-23
 ----
-L'entrée en France du corps d'une personne décédée à l'étranger ou dans un
-territoire d'outre-mer et son transfert au lieu de sépulture ou de crémation,
-ainsi que le passage en transit sur le territoire français, sont effectués au vu
-d'une autorisation délivrée par le représentant consulaire français ou par le
-délégué du Gouvernement.
+L'entrée en France du corps d'une personne décédée dans les collectivités
+d'outre-mer, en Nouvelle-Calédonie ou à l'étranger et son transfert au lieu de
+sépulture ou de crémation, ainsi que le passage en transit sur le territoire
+français, sont effectués au vu d'une autorisation délivrée par le représentant
+consulaire français ou par le délégué du Gouvernement.
 
 Cependant, quand le décès s'est produit dans un pays étranger adhérent à un
 arrangement international pour le transport des corps, l'entrée du corps en

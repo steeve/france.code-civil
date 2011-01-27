@@ -1,7 +1,9 @@
 Article R2223-13
 ----
 L'état d'abandon est constaté par un procès-verbal dressé par le maire ou son
-délégué après transport sur les lieux.
+délégué après transport sur les lieux, en présence d'un fonctionnaire de police
+délégué par le chef de circonscription ou, à défaut de ce dernier, d'un
+garde-champêtre ou d'un policier municipal.
 
 Les descendants ou successeurs des concessionnaires, lorsque le maire a
 connaissance qu'il en existe encore, sont avisés un mois à l'avance, par lettre
@@ -15,6 +17,3 @@ l'entretien de la concession.
 Dans le cas où la résidence des descendants ou successeurs des concessionnaires
 n'est pas connue, l'avis mentionné ci-dessus est affiché à la mairie ainsi qu'à
 la porte du cimetière.
-
-Le maire ou son délégué se rend au cimetière accompagné par le commissaire de
-police ou, à défaut de ce dernier, par le garde champêtre.

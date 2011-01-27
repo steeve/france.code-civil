@@ -4,7 +4,7 @@ Lorsque le transfert du corps en chambre mortuaire nécessite de sortir de
 l'enceinte d'un établissement de santé ou d'un établissement d'hébergement pour
 personnes âgées ou de l'un de leurs sites d'implantation, le transport sans mise
 en bière s'effectue après accord du chef d'établissement, dans les conditions
-prévues aux 4° et 5° de l'article R. 2213-8 et aux 1° à 3° de l'article R.
+prévues aux 2° et 3° de l'article R. 2213-8-1 et aux 1° à 3° de l'article R.
 2213-9.
 
 Lorsque le transfert visé à l'alinéa précédent s'effectue vers une chambre

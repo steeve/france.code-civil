@@ -1,6 +1,5 @@
 Article R2213-11
 ----
-Lorsque le corps n'a pas subi les soins de conservation prévus au paragraphe 1,
-les opérations de transport sont achevées dans un délai maximum de vingt-quatre
-heures à compter du décès. Lorsque le corps a subi les soins de conservation, le
-délai est porté à quarante-huit heures.
+Sauf dispositions dérogatoires, les opérations de transport de corps avant mise
+en bière du corps d'une personne décédée sont achevées dans un délai maximum de
+quarante-huit heures à compter du décès.
