@@ -6,5 +6,6 @@ conformément aux règles de répartition fixées au deuxième alinéa de l'arti
 départementale de la coopération intercommunale ainsi que le nombre de sièges
 attribués respectivement aux représentants des communes pour chacun des collèges
 visés à l'article R. 5211-20 et aux représentants des établissements publics de
-coopération intercommunale. Le nombre de sièges ainsi obtenus est arrondi au
-nombre entier le plus proche.
+coopération intercommunale à fiscalité propre, et à ceux des syndicats de
+communes et des syndicats mixtes. Le nombre de sièges ainsi obtenus est arrondi
+au nombre entier le plus proche.

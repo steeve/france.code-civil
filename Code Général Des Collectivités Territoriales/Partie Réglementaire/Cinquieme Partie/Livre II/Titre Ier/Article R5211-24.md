@@ -1,10 +1,10 @@
 Article R5211-24
 ----
-Les listes de candidats doivent comprendre un nombre de candidats double du
-nombre de sièges à pourvoir.
+Lorsqu'il y a lieu à élection pour la désignation des représentants des collèges
+mentionnés aux 1°,2° ou 3° de l'article L. 5211-43, le vote a lieu sans
+adjonction ou suppression de noms et sans modification de l'ordre de
+présentation.
 
-Les membres de la commission sont élus à la représentation proportionnelle à la
-plus forte moyenne. Le vote a lieu sur des listes complètes sans adjonction ou
-suppression de noms et sans modification de l'ordre de présentation.
-
-Nul ne peut être candidat au titre de catégories différentes.
+Lorsqu'il n'y a pas lieu à élection en application du septième alinéa du même
+article, les représentants sont désignés par le représentant de l'Etat dans le
+département dans l'ordre de présentation de la liste.

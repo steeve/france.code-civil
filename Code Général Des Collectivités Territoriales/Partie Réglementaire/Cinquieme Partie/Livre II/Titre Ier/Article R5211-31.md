@@ -5,7 +5,8 @@ coopération intercommunale sont élus lors de la séance d'installation de cett
 commission et après chaque renouvellement général des conseils municipaux. Les
 représentants des communes sont élus au sein de chacun des collèges électoraux
 visés à l'article R. 5211-20. Les représentants des établissements publics de
-coopération intercommunale sont élus au sein de ce collège.
+coopération intercommunale à fiscalité propre et ceux des syndicats de communes
+et des syndicats mixtes sont élus au sein de ce collège.
 
 Les candidatures sont déposées auprès du président de la commission
 départementale de la coopération intercommunale. Les membres de la formation

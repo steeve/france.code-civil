@@ -11,10 +11,17 @@ tranche de 300 000 habitants ;
 b) Par commune de plus de 100 000 habitants dans le département ;
 
 c) A partir d'un seuil de 400 communes dans le département, puis par tranche de
-100 communes.
+100 communes ;
+
+d) Par établissement public de coopération intercommunale à fiscalité propre de
+plus de 50 000 habitants dans le département ;
+
+e) A partir d'un seuil de vingt-cinq établissements publics de coopération
+intercommunale à fiscalité propre dans le département, puis par tranche de dix
+établissements.
 
 Un arrêté préfectoral constate dans chaque département le nombre total de
 membres de la commission ainsi que le nombre de sièges attribués à chaque
 catégorie de collectivité territoriale ou d'établissement public par
 l'application des règles de répartition fixées à l'article L. 5211-43,
-éventuellement arrondi au nombre entier supérieur.
+éventuellement arrondi au nombre entier le plus proche.
