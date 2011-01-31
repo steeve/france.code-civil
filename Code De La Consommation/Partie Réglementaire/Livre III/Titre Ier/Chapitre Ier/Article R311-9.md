@@ -1,7 +1,13 @@
 Article R311-9
 ----
-Le vendeur ou le prestataire de services qui fera souscrire lui-même ou par un
-préposé agissant pour son compte une demande de livraison ou de fourniture
-immédiate par l'acheteur, en méconnaissance des dispositions de l'article R.
-311-8, sera puni de la peine d'amende prévue pour les contraventions de la
-troisième classe.
+L'acheteur qui sollicite la livraison ou la fourniture immédiate du bien ou de
+la prestation de services en application de l'article L. 311-35 doit apposer sur
+le contrat de vente une demande rédigée de sa main dans les termes suivants :
+
+"Je demande à être livré immédiatement (ou à bénéficier immédiatement de la
+prestation de services).
+
+"Je reconnais avoir été informé que cette demande a pour effet de réduire le
+délai légal de rétractation. Celui-ci expirera le jour de la livraison du bien
+(ou de l'exécution de la prestation), sans pouvoir être inférieur à trois jours
+ni supérieur à sept jours".
