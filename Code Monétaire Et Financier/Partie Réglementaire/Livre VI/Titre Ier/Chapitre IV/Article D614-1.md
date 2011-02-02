@@ -1,15 +1,16 @@
 Article D614-1
 ----
-I. - Le comité consultatif du secteur financier comprend trente membres et leurs
-suppléants nommés par arrêté du ministre chargé de l'économie :
+I. - Le comité consultatif du secteur financier comprend trente-deux membres et
+leurs suppléants nommés par arrêté du ministre chargé de l'économie :
 
 1° Un député, désigné par le président de l'Assemblée nationale ;
 
 2° Un sénateur, désigné par le président du Sénat ;
 
-3° Dix représentants des établissements de crédit, des entreprises
-d'investissement, des entreprises d'assurance, des agents généraux et courtiers
-d'assurance, dont :
+3° Onze représentants des établissements de crédit, des entreprises
+d'investissement, des entreprises d'assurance, des agents généraux, des
+courtiers d'assurance et des intermédiaires en opérations de banque et en
+services de paiement, dont :
 
 a) Quatre représentants des établissements de crédit ;
 
@@ -21,14 +22,17 @@ d) Un représentant des agents généraux ;
 
 e) Un représentant des courtiers d'assurance ;
 
+f) Un représentant des intermédiaires en opérations de banque et en services de
+paiement.
+
 4° Cinq représentants du personnel des établissements de crédit, des entreprises
 d'assurance et des entreprises d'investissement, désignés après consultation des
 organisations syndicales représentatives au plan national ;
 
-5° Dix représentants des clientèles des établissements de crédit, des
+5° Onze représentants des clientèles des établissements de crédit, des
 entreprises d'assurance et des entreprises d'investissement, dont :
 
-a) Six représentants de la clientèle de particuliers ;
+a) Sept représentants de la clientèle de particuliers ;
 
 b) Quatre représentants de la clientèle de professionnels et d'entreprises ;
 
