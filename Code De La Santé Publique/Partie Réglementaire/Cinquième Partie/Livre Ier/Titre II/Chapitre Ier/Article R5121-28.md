@@ -1,6 +1,8 @@
 Article R5121-28
 ----
-Par dérogation à l'article R. 5121-25 :
+Par dérogation au 2° de l'article R. 5121-25, pour les médicaments mentionnés au
+présent article, le dossier joint à la demande d'autorisation de mise sur le
+marché est constitué dans les conditions suivantes :
 
 1° Lorsque la demande porte sur une spécialité générique d'une spécialité de
 référence qui est ou a été autorisée depuis au moins huit ans en France, le
