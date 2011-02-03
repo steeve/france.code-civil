@@ -3,26 +3,15 @@ Article R543-165
 Le cahier des charges mentionné à l'article R. 543-162 impose aux broyeurs,
 notamment :
 
-1° De prendre en charge les véhicules hors d'usage qui leur sont remis en
-application de l'article R. 543-156 ou qui ont été préalablement traités par un
-démolisseur agréé ;
+1° De ne prendre en charge que les véhicules hors d'usage qui ont été
+préalablement traités par un centre VHU agréé ;
 
-2° De procéder au traitement des véhicules pris en charge dans un ordre
-déterminé, en commençant par la dépollution lorsque celle-ci n'a pas été
-effectuée par un démolisseur agréé ;
+2° De broyer les véhicules hors d'usage ;
 
-3° D'extraire certains matériaux et composants ;
+3° De ne remettre les déchets issus du broyage des véhicules hors d'usage qu'à
+des installations respectant les dispositions de l'article R. 543-161 ;
 
-4° De contrôler l'état des composants démontés en vue de leur réemploi et
-d'assurer, le cas échéant, leur traçabilité par l'apposition d'un marquage
-approprié, lorsqu'il est techniquement possible ;
-
-5° De découper ou de broyer les véhicules hors d'usage ;
-
-6° De ne remettre les déchets issus du traitement des véhicules hors d'usage
-qu'à des installations respectant les dispositions de l'article R. 543-161 ;
-
-7° De communiquer au ministre chargé de l'environnement :
+4° De communiquer au ministre chargé de l'environnement :
 
 a) Des informations sur les modalités juridiques et financières de prise en
 charge des véhicules hors d'usage ainsi que les conditions techniques,
@@ -34,15 +23,38 @@ b) Le nombre et le tonnage de véhicules pris en charge ;
 c) Le tonnage de produits ou déchets issus du traitement des véhicules hors
 d'usage remis à des tiers ;
 
-d) Pour chaque véhicule traité, le contenu du certificat de destruction
-correspondant, dans un délai de quinze jours à compter de la date de découpage
-ou broyage du véhicule ;
+d) Les résultats de l'évaluation prévue au 9° ;
 
-8° De se conformer, lorsque le véhicule est pris en charge pour destruction, aux
-prescriptions de l'article R. 322-9 du code de la route ;
+5° De tenir à la disposition des opérateurs économiques avec lesquels ils
+collaborent leurs performances en matière de réutilisation et recyclage et de
+réutilisation et valorisation des véhicules hors d'usage ;
 
-9° De constituer, le cas échéant, une garantie financière, dans les conditions
-prévues à l'article L. 516-1 du présent code ;
+6° De tenir à la disposition de l'instance définie à l'article R. 543-157-1 les
+données comptables et financières lui permettant d'évaluer l'équilibre
+économique de la filière ;
 
-10° De se conformer aux dispositions relatives au stockage des véhicules et des
-fluides, matériaux ou composants extraits de ces véhicules.
+7° De constituer, le cas échéant, une garantie financière, dans les conditions
+prévues à l'article L. 516-1 ;
+
+8° De se conformer aux dispositions relatives au stockage des véhicules et des
+matériaux issus du broyage de ces véhicules ;
+
+9° De procéder, au moins tous les trois ans, à une évaluation de la performance
+de leur processus industriel de traitement des résidus de broyage issus de
+véhicules hors d'usage, en distinguant, le cas échéant, les opérations réalisées
+en aval de leur installation ;
+
+10° De justifier de l'atteinte d'un taux de réutilisation et de recyclage
+minimal et d'un taux de réutilisation et de valorisation minimal des véhicules
+hors d'usage en distinguant, le cas échéant, les opérations réalisées en aval de
+leur installation ;
+
+11° De se conformer aux prescriptions définies en vue de l'atteinte des
+objectifs fixés à l'article R. 543-160, y compris par le biais d'une coopération
+avec les autres opérateurs économiques ;
+
+12° De se conformer aux prescriptions imposées en matière de traçabilité des
+véhicules hors d'usage, et notamment de confirmer au centre VHU agréé ayant
+assuré la prise en charge initiale des véhicules hors d'usage la destruction
+effective des véhicules, dans un délai de quinze jours à compter de la date de
+leur broyage.

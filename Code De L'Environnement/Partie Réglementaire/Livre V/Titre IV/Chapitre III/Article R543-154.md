@@ -14,4 +14,5 @@ fournis par le producteur ou d'autres composants ou équipements supplémentaire
 quel qu'en soit le fournisseur.
 
 Pour l'application de la présente section, est regardé comme hors d'usage un
-véhicule que son détenteur remet à un tiers pour qu'il le détruise.
+véhicule que son détenteur remet à un tiers pour qu'il le détruise ou qu'il a
+l'obligation de détruire.

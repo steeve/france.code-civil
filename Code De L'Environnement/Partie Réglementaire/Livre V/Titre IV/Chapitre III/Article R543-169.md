@@ -7,16 +7,16 @@ sur le marché des nouveaux véhicules et dans tout autre document approprié
 destiné au public :
 
 1° Les actions entreprises en matière de construction des véhicules afin de
-limiter l'utilisation de substances dangereuses, au sens de la directive 67/548
-du Conseil du 27 juin 1967 concernant le rapprochement des dispositions
-législatives, réglementaires et administratives relatives à la classification,
-l'emballage et l'étiquetage des substances dangereuses, de faciliter le
-démontage et la dépollution des véhicules hors d'usage, le réemploi et la
-valorisation, en particulier le recyclage, de leurs composants et matériaux et
-de limiter la quantité et la nocivité pour l'environnement des déchets provenant
-des véhicules ;
+limiter l'utilisation de substances dangereuses, de faciliter le démontage et la
+dépollution des véhicules hors d'usage, la réutilisation et la valorisation, en
+particulier le recyclage, de leurs composants et matériaux et de limiter la
+quantité et la nocivité pour l'environnement des déchets provenant des véhicules
+;
 
 2° Le pourcentage de matériaux recyclés intégrés aux véhicules et les actions
 engagées pour accroître la part de ces matériaux dans les véhicules ;
 
 3° Les informations relatives à l'application de l'article R. 543-160.
+
+Les substances dangereuses au sens du présent article sont les substances
+dangereuses visées à l'article R. 318-10 du code de la route.

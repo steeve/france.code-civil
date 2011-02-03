@@ -1,6 +1,6 @@
 Article R543-161
 ----
-Les opérations d'élimination des véhicules hors d'usage, de leurs composants et
+Les opérations de gestion des véhicules hors d'usage, de leurs composants et
 matériaux doivent être effectuées dans des installations exploitées conformément
 aux dispositions du titre Ier du présent livre ou dans toute autre installation
 de traitement autorisée à cet effet dans un autre Etat membre de la Communauté

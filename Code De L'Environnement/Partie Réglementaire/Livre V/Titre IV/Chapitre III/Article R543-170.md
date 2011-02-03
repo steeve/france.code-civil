@@ -4,16 +4,18 @@ Une commission composée de représentants de l'administration et des opérateur
 économiques veille au bon fonctionnement des filières de traitement des
 véhicules hors d'usage.
 
-Elle établit un bilan annuel sur le fonctionnement des filières et peut, en tant
-que de besoin, proposer aux pouvoirs publics toute modification utile de leur
+Chaque producteur ou groupement de producteurs présente annuellement pour
+information à cette commission le réseau qu'il a mis en place en application de
+l'article R. 543-156-1.
+
+Elle établit un bilan annuel sur le fonctionnement des filières et des réseaux
+de centres VHU agréés constitués par les producteurs pour répondre à leurs
+obligations au titre de l'article R. 543-156-1. Elle peut, en tant que de
+besoin, proposer aux pouvoirs publics toute modification utile de leur
 organisation.
 
 Elle élabore chaque année un rapport, destiné à être rendu public, sur la mise
-en oeuvre des dispositions prévues par la présente section.
-
-En cas de différend portant sur l'application de l'article R. 543-158, la
-commission est saisie par l'un ou l'autre des opérateurs économiques concernés
-avant toute action contentieuse. Elle élabore une proposition de règlement.
+en œuvre des dispositions prévues par la présente section.
 
 La composition et les modalités de fonctionnement de cette commission sont
 déterminées par un arrêté conjoint des ministres chargés, respectivement, de

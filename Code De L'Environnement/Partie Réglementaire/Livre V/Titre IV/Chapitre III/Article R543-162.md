@@ -10,7 +10,7 @@ l'article R. 515-37.
 Est annexé à cet agrément un cahier des charges qui fixe les obligations du
 bénéficiaire.
 
-Ce cahier des charges est défini à l'article R. 543-164 pour les démolisseurs et
+Ce cahier des charges est défini à l'article R. 543-164 pour les centres VHU et
 à l'article R. 543-165 pour les broyeurs.
 
 Un arrêté conjoint des ministres chargés, respectivement, de l'environnement, de
