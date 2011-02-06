@@ -26,6 +26,12 @@ présent chapitre ;
 g) Fonds social de l'assurance maladie des exploitants agricoles, institué à
 l'article L. 726-2 ;
 
+h) Commission nationale de prévention des accidents du travail mentionnée à
+l'article R. 751-154 ;
+
+i) Commissions paritaires d'hygiène, de sécurité et des conditions de travail en
+agriculture mentionnées à l'article R. 717-83.
+
 2° Régimes agricoles de prévoyance : organismes de prévoyance et de retraite
 créés en application de l'article L. 727-2 ;
 
