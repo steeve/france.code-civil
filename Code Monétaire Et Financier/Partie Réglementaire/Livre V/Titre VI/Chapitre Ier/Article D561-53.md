@@ -1,6 +1,6 @@
 Article D561-53
 ----
-I. ― Le conseil d'orientation comprend, outre son président, les vingt-deux
+I. ― Le conseil d'orientation comprend, outre son président, les vingt-trois
 membres suivants :
 
 1° Au titre des services de l'Etat :
@@ -36,6 +36,9 @@ des fraudes ou son représentant ;
 ;
 
 ― le chef du service central des courses et jeux ou son représentant ;
+
+― le directeur général de l'Autorité de régulation des jeux en ligne ou son
+représentant ;
 
 ― un représentant du Conseil national des barreaux ;
 
