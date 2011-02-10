@@ -446,6 +446,170 @@ Extrait d'inscription de la déclaration.
 
 2
 
+C. - Registre du commerce et des sociétés
+
+
+Dépôt effectué par les entrepreneurs individuels à responsabilité limitée
+
+230
+
+Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert
+(7) et mentions RCS (8) (9) (art. L. 526-7, L. 526-16 et L. 526-17-II)
+
+32
+
+231
+
+Dépôt de la déclaration modificative ou complémentaire de la déclaration
+d'affectation du patrimoine, entraînant mentions au RCS (10)
+
+28
+
+232
+
+Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L.
+526-9, L. 526-10 et L. 526-11) ou des actes ou décisions de modification sans
+mentions RCS (10)
+
+14
+
+233
+
+Dépôt des comptes annuels au RCS ou du document comptable simplifié (art. L.
+526-14)
+
+5
+
+234
+
+Notification à un autre registre en cas de double immatriculation ou
+d'immatriculation secondaire
+
+6
+
+235
+
+Mise à jour des renseignements figurant dans les immatriculations principales
+aux immatriculations secondaires ou reçus d'un autre registre ou répertoire aux
+fins de mentions
+
+18
+
+236
+
+Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art.
+L. 526-17)
+
+7
+
+237
+
+Copie des comptes annuels ou du document comptable simplifié ou de la
+déclaration d'affectation
+
+6
+
+D. - Registre des agents commerciaux
+
+
+Dépôt effectué par les entrepreneurs individuels à responsabilité limitée
+
+240
+
+Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert
+(7) et mentions au RSAC (8) (art. L. 526-7, L. 526-16 et L. 526-17-II)
+
+32
+
+241
+
+Dépôt de la déclaration modificative ou complémentaire de la déclaration
+d'affectation du patrimoine entraînant mentions au RSAC (11)
+
+28
+
+242
+
+Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L.
+526-9, L. 526-10 et L. 526-11) ou des actes ou décisions de modification sans
+mentions au RSAC (11)
+
+14
+
+243
+
+Dépôt des comptes annuels ou du document comptable simplifié (art. L. 526-14)
+
+5
+
+244
+
+Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art.
+L. 526-17)
+
+7
+
+245
+
+Copie des comptes annuels ou du document comptable simplifié ou de la
+déclaration d'affectation
+
+6
+
+E. - Registre des entrepreneurs individuels
+
+à responsabilité limitée visés au 3° de l'article L. 526-7
+
+250
+
+Immatriculation y compris après reprise ou transfert (7) (art. L. 526-7, L.
+526-16 et L. 526-17-II) comprenant le dépôt de la déclaration d'affectation du
+patrimoine et les émoluments de radiation
+
+36
+
+251
+
+Dépôt de la déclaration modificative ou complémentaire de la déclaration
+d'affectation du patrimoine, entraînant mentions au registre (11)
+
+28
+
+252
+
+Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L.
+526-9, L. 526-10 et L. 526-11) ou des actes ou décisions de modification sans
+mentions au registre (11)
+
+14
+
+253
+
+Dépôt des comptes annuels ou du document comptable simplifié (art. L. 526-14)
+
+5
+
+254
+
+Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art.
+L. 526-17)
+
+7
+
+255
+
+Copie des comptes annuels ou du document comptable simplifié ou de la
+déclaration d'affectation
+
+6
+
+256
+
+
+Extrait du registre des entrepreneurs individuels à responsabilité limitée
+
+2
+
 (1) Le greffier réclame distinctement le montant des taxes perçues pour le
 compte de l'Institut national de la propriété industrielle et des frais
 d'insertion au BODACC.
@@ -478,6 +642,20 @@ au greffe.
 (6) Lorsque l'immatriculation ou la radiation est effectuée en application des
 articles R. 743-162 et R. 743-168 du code de commerce, les émoluments ainsi
 prévus sont réduits de moitié.
+
+(7) Hors coût de l'insertion au BODACC.
+
+(8) Il n'est perçu aucun émolument pour le dépôt de la déclaration d'affectation
+du patrimoine lorsqu'il intervient simultanément à la demande d'immatriculation
+(art. L. 526-19).
+
+(9) Y compris la transmission à l'INPI.
+
+(10) Y compris la transmission des documents visés à l'article R. 123-121-3 au
+service des impôts et la transmission à l'INPI.
+
+(11) Y compris la transmission des documents visés à l'article R. 123-121-3 au
+service des impôts.
 
 TABLEAU III ANNEXÉ À L'ARTICLE R. 743-140
 
