@@ -4,17 +4,22 @@ Le siège des cours d'assises énumérées ci-dessous est exceptionnellement fix
 dans une ville autre que le chef-lieu de la cour d'appel s'il en existe une ou
 dans le cas contraire autre que le chef-lieu du département.
 
-COUR D'ASSISES :
+Cour d'assises
 
 
-DEPARTEMENTS
+DÉPARTEMENTS
 
-SIEGES
+SIÈGES
 
 
 Charente-Maritime
 
 Saintes
+
+
+Corrèze
+
+Brive-la-Gaillarde (à titre temporaire)
 
 
 Manche
