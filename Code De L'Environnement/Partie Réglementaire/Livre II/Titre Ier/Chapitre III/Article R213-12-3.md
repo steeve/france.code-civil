@@ -1,6 +1,6 @@
 Article R213-12-3
 ----
-I. - Le conseil d'administration de l'Office national de l'eau et des milieux
+I.-Le conseil d'administration de l'Office national de l'eau et des milieux
 aquatiques comprend trente-deux membres :
 
 1° Dix représentants de l'Etat et de ses établissements publics, désignés, ainsi
@@ -45,9 +45,9 @@ milieu aquatique, proposé par cette fédération ;
 
 7° Deux représentants du personnel, élus par le personnel de l'établissement sur
 des listes présentées par les organisations syndicales habilitées à désigner des
-représentants au comité technique paritaire de l'établissement.
+représentants au comité technique de l'établissement.
 
-II. - Les membres du conseil d'administration qui ne représentent pas l'Etat ou
+II.-Les membres du conseil d'administration qui ne représentent pas l'Etat ou
 qui ne siègent pas en raison des fonctions qu'ils occupent sont nommés par
 arrêté du ministre de tutelle pour une durée de trois ans renouvelable.
 
@@ -55,7 +55,7 @@ L'administrateur qui, au cours de son mandat, décède, démissionne ou perd la
 qualité au titre de laquelle il a été désigné est remplacé pour la durée du
 mandat restant à courir par une personne désignée dans les mêmes conditions.
 
-III. - Le président du conseil d'administration est choisi parmi les membres du
+III.-Le président du conseil d'administration est choisi parmi les membres du
 conseil d'administration représentant l'Etat et ses établissements publics.
 
 Il est assisté par deux vice-présidents qui sont désignés, pour le premier, par

@@ -14,4 +14,4 @@ l'exception de ses articles 4 à 8, leur sont applicables. Un état annuel des
 effectifs du groupement est transmis au commissaire du Gouvernement et au membre
 du corps du contrôle général économique et financier. Un état des effectifs et
 un bilan des activités du groupement sont présentés chaque année au comité
-technique paritaire académique.
+technique académique.

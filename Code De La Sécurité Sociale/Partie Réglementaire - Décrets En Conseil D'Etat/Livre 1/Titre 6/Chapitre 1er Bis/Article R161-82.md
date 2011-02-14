@@ -19,7 +19,7 @@ domaine de la santé publique ou de la sécurité sanitaire, à l'exception des
 dispositions de l'article 3. Pour l'application du décret du 7 mars 2003, le
 directeur et le collège de la Haute Autorité exercent les compétences dévolues
 respectivement au directeur général et au conseil d'administration. Le comité
-d'entreprise exerce les attributions dévolues au comité technique paritaire et à
-la commission consultative paritaire. Les modalités particulières de mise en
-oeuvre du décret du 7 mars 2003 font, en tant que de besoin, l'objet d'une
-délibération du collège après avis du comité d'entreprise.
+d'entreprise exerce les attributions dévolues au comité technique et à la
+commission consultative paritaire. Les modalités particulières de mise en oeuvre
+du décret du 7 mars 2003 font, en tant que de besoin, l'objet d'une délibération
+du collège après avis du comité d'entreprise.

@@ -4,8 +4,7 @@ Participent aux travaux du conseil d'administration avec voix consultative :
 
 a) Le commissaire du Gouvernement ;
 
-b) Un représentant de chacun des syndicats représentés au comité technique
-paritaire ;
+b) Un représentant de chacun des syndicats représentés au comité technique ;
 
 c) Le président de l'Association des régions de France ou son représentant ;
 

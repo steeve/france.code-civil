@@ -5,4 +5,4 @@ Le nombre moyen d'élèves accueillis par classe et le nombre des emplois par
 services départementaux de l'éducation nationale, compte tenu des orientations
 générales fixées par le ministre chargé de l'éducation, en fonction des
 caractéristiques des classes, des effectifs et des postes budgétaires qui lui
-sont délégués, et après avis du comité technique paritaire départemental.
+sont délégués, et après avis du comité technique départemental.

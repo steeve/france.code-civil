@@ -10,5 +10,5 @@ général et, le cas échéant, par un directeur adjoint.
 
 Ils sont organisés en départements, unités de recherche et services.
 
-Un comité technique paritaire central et un comité d'hygiène et de sécurité sont
-institués dans chaque établissement.
+Un comité technique central et un comité d'hygiène et de sécurité sont institués
+dans chaque établissement.

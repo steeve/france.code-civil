@@ -33,8 +33,8 @@ et un représentant d'organisations de propriétaires ruraux ;
 10° Deux représentants titulaires et deux suppléants élus, pour six ans, par le
 personnel de l'Office national de la chasse et de la faune sauvage sur des
 listes présentées par les organisations syndicales habilitées à désigner des
-représentants au comité technique paritaire central de l'Office national de la
-chasse et de la faune sauvage ;
+représentants au comité technique central de l'Office national de la chasse et
+de la faune sauvage ;
 
 Les membres prévus aux 5° à 9° ci-dessus sont désignés, en même temps qu'un
 nombre égal de suppléants appelés à les remplacer en cas d'absence ou

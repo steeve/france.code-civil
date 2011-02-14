@@ -2,12 +2,12 @@ Article D312-34
 ----
 Le conseil académique des langues régionales participe à la réflexion sur la
 définition des orientations de la politique académique des langues régionales
-qui sont arrêtées après consultation des comités techniques paritaires
-départementaux, des comités techniques paritaires académiques, des conseils
-départementaux de l'éducation nationale et des conseils académiques de
-l'éducation nationale. A ce titre, il est consulté sur les conditions du
-développement de l'enseignement de ces langues et cultures régionales dans le
-cadre de l'élaboration d'un plan pluriannuel.
+qui sont arrêtées après consultation des comités techniques départementaux, des
+comités techniques académiques, des conseils départementaux de l'éducation
+nationale et des conseils académiques de l'éducation nationale. A ce titre, il
+est consulté sur les conditions du développement de l'enseignement de ces
+langues et cultures régionales dans le cadre de l'élaboration d'un plan
+pluriannuel.
 
 Il examine le suivi de cette politique. Il donne son avis sur les moyens propres
 à garantir la spécificité de l'apprentissage du bilinguisme. Il veille notamment

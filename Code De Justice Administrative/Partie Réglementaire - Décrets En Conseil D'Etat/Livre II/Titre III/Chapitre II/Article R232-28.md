@@ -25,9 +25,9 @@ paritaires nationales des corps de l'intérieur et de l'outre-mer lorsque l'ordr
 du jour appelle l'examen de questions intéressant la situation administrative
 des fonctionnaires de ces corps affectés dans un greffe de tribunal ou de cour ;
 
-6° Il participe avec voix consultative aux comités techniques paritaires
-centraux du ministère de l'intérieur lorsque l'ordre du jour appelle l'examen de
-questions intéressant les personnels affectés dans les greffes des tribunaux
+6° Il participe avec voix consultative aux comités techniques centraux du
+ministère de l'intérieur lorsque l'ordre du jour appelle l'examen de questions
+intéressant les personnels affectés dans les greffes des tribunaux
 administratifs et des cours administratives d'appel ;
 
 7° Il réalise, à la demande du Conseil supérieur ou de son président, toutes

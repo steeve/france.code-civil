@@ -77,4 +77,4 @@ c) Un représentant de l'Agence nationale de sécurité sanitaire de
 l'alimentation, de l'environnement et du travail.
 
 Peuvent être invités à titre d'observateurs un représentant de chacun des
-syndicats représentés au comité technique paritaire de l'établissement.
+syndicats représentés au comité technique de l'établissement.
