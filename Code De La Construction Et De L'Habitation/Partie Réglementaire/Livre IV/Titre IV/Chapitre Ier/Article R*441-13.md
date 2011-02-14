@@ -41,8 +41,11 @@ prépondérante en cas de partage égal des voix.
 Un ou plusieurs suppléants sont désignés, dans les mêmes conditions que le
 titulaire, pour chaque membre, à l'exception de la personnalité qualifiée.
 
-Le préfet nomme par arrêté, pour une durée de trois ans renouvelable une fois,
-les membres titulaires et suppléants de la commission.
+Les membres de la commission et leurs suppléants sont nommés par arrêté du
+préfet pour une durée de trois ans, renouvelable une seule fois. Les membres
+titulaires ou suppléants démissionnaires ou décédés sont remplacés par de
+nouveaux membres nommés, selon les mêmes modalités, pour la durée du mandat
+restant à courir.
 
 Les fonctions de président et de membre de la commission de médiation sont
 gratuites. Les frais de déplacement sont remboursés dans les conditions prévues

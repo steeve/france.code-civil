@@ -11,3 +11,7 @@ Sauf en cas d'insuffisance du nombre des candidats, les commissions examinent au
 moins trois demandes pour un même logement à attribuer. Il est fait exception à
 cette obligation quand elles examinent les candidatures de personnes désignées
 par le préfet en application du septième alinéa du II de l'article L. 441-2-3.
+
+La commission d'attribution peut attribuer le logement en classant les candidats
+par ordre de priorité, l'attribution du logement étant prononcée au profit du
+candidat suivant en cas de refus du logement par le candidat classé devant lui.

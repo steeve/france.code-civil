@@ -8,10 +8,14 @@ Ces informations permettent notamment de connaître, pour chaque bailleur :
 
 -le nombre total de logements locatifs gérés, ainsi que le nombre total de
 logements réservés, au sens de l'article R. 441-5 au bénéfice respectivement de
-l'Etat, des collectivités territoriales et des autres réservataires ;
+l'Etat, des collectivités territoriales, des organismes collecteurs habilités à
+recueillir la participation des employeurs à l'effort de construction et des
+autres réservataires ;
 
--le nombre de logements mis en service ou remis en location dans l'année et le
-nombre de logements restés vacants plus de trois mois pendant l'année ;
+-le nombre de logements mis en service, le nombre de logements remis en location
+dans l'année et le nombre de logements restés vacants plus de trois mois pendant
+l'année, en distinguant les logements non réservés et les logements réservés et,
+pour ces derniers, en faisant apparaître leur répartition par réservataire ;
 
 -le nombre de demandes de logement reçues directement ou indirectement dans
 l'année ;
@@ -19,12 +23,18 @@ l'année ;
 -les objectifs quantifiés annuels d'attribution en vertu de l'accord collectif
 départemental prévu à l'article L. 441-1-2 et le cas échéant de l'accord
 collectif intercommunal prévu à l'article L. 441-1-1, et le nombre
-d'attributions prononcées en application de ces objectifs ;
+d'attributions prononcées en application de ces objectifs en distinguant les
+attributions de logements non réservés et de logements réservés et, pour ces
+derniers, en les répartissant par réservataire ;
 
 -le nombre total des attributions prononcées dans l'année, réparties par
 réservataires de logement bénéficiant des droits mentionnés à l'article L.
 441-1, et, parmi celles-ci, celles qui ont été proposées mais refusées par les
-demandeurs.
+demandeurs ;
+
+- le nombre total des attributions prononcées dans l'année au profit de
+personnes déjà logées dans le parc du bailleur et, parmi celles-ci, celles qui
+ont été proposées puis refusées par le demandeur.
 
 Le préfet transmet ces informations à la commission de médiation prévue à
 l'article L. 441-2-3, ainsi qu'au comité responsable du plan départemental

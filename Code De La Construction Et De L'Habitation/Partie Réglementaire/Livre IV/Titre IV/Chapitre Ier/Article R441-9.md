@@ -54,7 +54,10 @@ service chargé de l'action sanitaire et sociale du département du lieu
 d'implantation des logements.
 
 Le préfet du département du siège de l'office ou de la société, ou l'un de ses
-représentants, assiste, sur sa demande, à toute réunion de la commission.
+représentants, assiste, sur sa demande, à toute réunion de la commission. Le
+préfet est destinataire de la convocation à toute réunion de la commission
+d'attribution, de son ordre du jour et du procès-verbal des décisions prises
+lors de la réunion précédente.
 
 III.-Dans le cas d'une commission unique, les six membres mentionnés au 1° du II
 sont désignés, parmi ses membres, par le conseil d'administration ou le conseil
