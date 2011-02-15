@@ -7,9 +7,13 @@ activité saisonnière commune à différents membres d'une même profession doi
 être déposées avant une date fixée par l'arrêté précité et peuvent être
 regroupées.
 
-A compter du 1er janvier 2011, les périmètres délimités ne pourront inclure des
-zones de répartition des eaux et aucune autorisation temporaire correspondant à
-une activité saisonnière commune ne pourra être délivrée dans ces zones.
+A compter du 1er janvier 2012, les périmètres délimités ne pourront inclure des
+zones de répartition des eaux et aucune autorisation temporaire de prélèvement
+en eau correspondant à une activité saisonnière commune ne pourra être délivrée
+dans ces zones. Toutefois, jusqu'au 31 décembre 2014, ils pourront inclure des
+zones de répartition des eaux délimitées après le 1er janvier 2009 et des
+autorisations temporaires de prélèvement en eau correspondant à une activité
+saisonnière commune pourront être accordées dans ces zones.
 
 La présentation des demandes regroupées se fait par l'intermédiaire d'un
 mandataire, ou par l'organisme consulaire représentant la profession. Sous
