@@ -7,7 +7,8 @@ dans les mêmes conditions que lui et qui assure la suppléance ou l'intérim. S
 l'établissement public n'est pas doté d'un directeur adjoint, un fonctionnaire
 de l'établissement est désigné, sur proposition du directeur, par le directeur
 régional de l'alimentation, de l'agriculture et de la forêt, pour assurer, en
-cas de besoin, cette suppléance ou cet intérim.L'agent comptable en est informé.
+cas de besoin, cette suppléance ou cet intérim. L'agent comptable en est
+informé.
 
 Le directeur est l'organe exécutif de l'établissement public ; en cette qualité
 :
@@ -23,11 +24,13 @@ local ;
 4° Il prépare les travaux du conseil d'administration et notamment le projet de
 budget de l'établissement public local en fonction des orientations relatives à
 l'équipement et au fonctionnement matériel fixées par la collectivité de
-rattachement et dans la limite des ressources dont dispose l'établissement ;
+rattachement et dans la limite des ressources dont dispose l'établissement. Il
+prépare également, le cas échéant, les travaux de la commission permanente ;
 
-5° Il exécute les délibérations du conseil d'administration, et notamment le
-budget adopté par le conseil d'administration, dans les conditions fixées aux
-articles L. 421-11 à L. 421-13 du code de l'éducation ;
+5° Il exécute les délibérations du conseil d'administration, et le cas échéant,
+celles de la commission permanente, et notamment le budget adopté par le conseil
+d'administration, dans les conditions fixées aux articles L. 421-11 à L. 421-13
+du code de l'éducation ;
 
 6° Il soumet au conseil d'administration le projet d'établissement conformément
 à l'article L. 811-8.

@@ -52,3 +52,8 @@ rémunération fixées dans le respect des lois et règlements en vigueur ;
 17° L'acceptation ou le refus de dons et legs ;
 
 18° Les actions en justice.
+
+Le conseil d'administration peut déléguer à la commission permanente qu'il met
+en place ses attributions mentionnées aux 7°, 12°, 14°, 15°, 17° et 18°. Une
+délibération du conseil d'administration prévoit le champ de cette délégation,
+ainsi que sa durée.

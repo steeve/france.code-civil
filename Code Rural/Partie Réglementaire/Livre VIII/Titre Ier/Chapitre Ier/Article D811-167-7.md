@@ -10,9 +10,10 @@ spécialisés.
 
 Les membres du jury sont choisis paritairement parmi :
 
--des membres de l'enseignement et de la formation professionnelle agricole. Les
-membres de l'enseignement et de la formation professionnelle agricoles publics
-doivent représenter au moins la moitié de cette catégorie ;
+-des membres de l'enseignement et de la formation professionnelle aux métiers de
+l'agriculture, de la forêt, de la nature et des territoires . Les membres de
+l'enseignement et de la formation professionnelle agricoles publics doivent
+représenter au moins la moitié de cette catégorie ;
 
 -des professionnels du secteur d'activité concerné par le certificat de
 spécialisation agricole, à parité employeurs ou exploitants agricoles et

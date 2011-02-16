@@ -4,9 +4,11 @@ Le jury est désigné par le ministre de l'agriculture. Il est présidé par un
 fonctionnaire de catégorie A du ministère de l'agriculture et est composé
 paritairement :
 
-a) De membres de l'enseignement et de la formation professionnelle agricoles ;
-les membres de l'enseignement et de la formation professionnelle agricoles
-publics doivent représenter au moins la moitié de cette catégorie ;
+a) De membres de l'enseignement et de la formation professionnelle aux métiers
+de l'agriculture, de la forêt, de la nature et des territoires ; les membres de
+l'enseignement et de la formation professionnelle publics aux métiers de
+l'agriculture, de la forêt, de la nature et des territoires doivent représenter
+au moins la moitié de cette catégorie ;
 
 b) De professionnels du secteur d'activité concerné par l'option du brevet
 professionnel, à parité employeurs ou responsables d'exploitation et salariés,
