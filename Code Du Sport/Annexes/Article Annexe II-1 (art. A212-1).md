@@ -76,10 +76,9 @@ DEUST " animation et gestion des activités physiques, sportives ou culturelles
 Animation auprès de tout public par la découverte des activités physiques,
 sportives ou culturelles et par l'initiation à ces activités.
 
-Animation auprès de tout public, à l'exclusion :
-
--des groupes constitués de personnes ayant un handicap physique ou sensoriel,
-une déficience intellectuelle ou un trouble psychique ;
+Animation auprès de tout public, à l'exclusion : -des groupes constitués de
+personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle
+ou un trouble psychique ;
 
 -des pratiques compétitives.
 
@@ -106,10 +105,9 @@ social et médiation par le sport ".
 Encadrement et animation auprès de tout public, des activités physiques et
 sportives.
 
-Encadrement et animation auprès de tout public, à l'exclusion :
-
--des groupes constitués de personnes ayant un handicap physique ou sensoriel,
-une déficience intellectuelle ou un trouble psychique ;
+Encadrement et animation auprès de tout public, à l'exclusion : -des groupes
+constitués de personnes ayant un handicap physique ou sensoriel, une déficience
+intellectuelle ou un trouble psychique ;
 
 -des pratiques compétitives.
 
@@ -220,10 +218,8 @@ Enseignement des activités physiques ou sportives adaptées auprès des personn
 handicapées physiques et sensorielles.
 
 Enseignement de la natation dans les seuls établissements spécialisés, sous la
-surveillance d'un maître nageur sauveteur ;
-
-Enseignement du ski alpin et du ski nordique réservé aux personnes ayant choisi
-ces disciplines en option.
+surveillance d'un maître nageur sauveteur ; Enseignement du ski alpin et du ski
+nordique réservé aux personnes ayant choisi ces disciplines en option.
 
 BEES, option " activités de la natation ".
 
@@ -243,9 +239,8 @@ BEES, option " canoë-kayak et disciplines associées ".
 Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout
 établissement.
 
-Dans les rivières jusqu'à la classe 3.
-
-En mer jusqu'à un mille d'un abri et par vent jusqu'à 3 Beaufort.
+Dans les rivières jusqu'à la classe 3. En mer jusqu'à un mille d'un abri et par
+vent jusqu'à 3 Beaufort.
 
 BEES, option " canoë-kayak et disciplines associées " assorti du certificat de
 qualification complémentaire (CQC) " entraînement à la compétition ".
@@ -253,9 +248,8 @@ qualification complémentaire (CQC) " entraînement à la compétition ".
 Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout
 établissement. Organisation et encadrement de séances ou stages d'entraînement.
 
-Dans les rivières jusqu'à la classe 3.
-
-En mer jusqu'à un mille d'un abri et par vent jusqu'à 3 Beaufort.
+Dans les rivières jusqu'à la classe 3. En mer jusqu'à un mille d'un abri et par
+vent jusqu'à 3 Beaufort.
 
 BEES, option " canoë-kayak et disciplines associées " assorti du CQC " mer ".
 
@@ -439,9 +433,8 @@ Enseignement du tir à l'arc dans tout établissement.
 
 BEES, option " tir sportif ".
 
-Enseignement du tir sportif dans tout établissement :
-
--plateau : double trap, fosse olympique, skeet olympique, fosse américaine ;
+Enseignement du tir sportif dans tout établissement : -plateau : double trap,
+fosse olympique, skeet olympique, fosse américaine ;
 
 -cible : arbalète, carabine, pistolet, sanglier courant.
 
@@ -530,10 +523,8 @@ dans les canyons à caractéristiques verticales et aquatiques nécessitant l'us
 d'agrès à toute altitude et sur des sites naturels d'escalade situés à une
 altitude inférieure à 1 500 mètres.
 
-A l'exclusion :
-
--des sites enneigés ou de ceux dont l'accès ne peut s'effectuer qu'en traversant
-des zones enneigées ;
+A l'exclusion : -des sites enneigés ou de ceux dont l'accès ne peut s'effectuer
+qu'en traversant des zones enneigées ;
 
 -des sites dont la fréquentation fait appel aux techniques de la neige et de la
 glace.
@@ -544,7 +535,6 @@ stage de recyclage.
 Diplôme d'aspirant guide du brevet d'Etat d'alpinisme.
 
 Encadrement et conduite de personnes dans des excursions ou des ascensions :
-
 -alpinisme (randonnée, rocher, neige, glace et mixte) : randonnées à toutes
 altitudes ; courses faciles et peu difficiles ; courses AD, D, TD ; courses
 hivernales
@@ -557,9 +547,7 @@ Enseignement des techniques d'alpinisme, de ski de randonnée, de ski alpinisme
 et ski hors pistes et entraînement aux pratiques de compétition dans ces
 disciplines.
 
-Alpinisme :
-
--courses faciles et peu difficiles jusqu'à 5 000 mètres ;
+Alpinisme : -courses faciles et peu difficiles jusqu'à 5 000 mètres ;
 
 -courses AD, D, TD jusqu'à 3 500 mètres ;
 
@@ -627,10 +615,9 @@ Conduite et encadrement de personnes en espace rural montagnard. Animation de
 groupes et enseignement des connaissances et savoir-faire propres à l'activité
 et au milieu.
 
-A l'exclusion :
-
--des rochers, des glaciers, des canyons et des terrains nécessitant, pour la
-progression l'utilisation du matériel ou des techniques de l'alpinisme ;
+A l'exclusion : -des rochers, des glaciers, des canyons et des terrains
+nécessitant, pour la progression l'utilisation du matériel ou des techniques de
+l'alpinisme ;
 
 -de toute pratique de la moyenne montagne enneigée.
 
@@ -642,15 +629,13 @@ Diplôme d'AMM du brevet d'Etat d'alpinisme délivré en application de l'arrêt
 
 Conduite et encadrement de personnes en espace rural montagnard ainsi que sur
 des terrains enneigés faciles, vallonnés, de type nordique, excluant tout
-accident de terrain et situés en moyenne montagne.
+accident de terrain et situés en moyenne montagne. Animation de groupes et
+enseignement des connaissances et savoir-faire propres à l'activité et au
+milieu.
 
-Animation de groupes et enseignement des connaissances et savoir-faire propres à
-l'activité et au milieu.
-
-A l'exclusion :
-
--des rochers, des glaciers, des canyons et des terrains nécessitant pour la
-progression, l'utilisation du matériel ou des techniques de l'alpinisme ;
+A l'exclusion : -des rochers, des glaciers, des canyons et des terrains
+nécessitant pour la progression, l'utilisation du matériel ou des techniques de
+l'alpinisme ;
 
 -de la pratique du ski et activités assimilées.
 
@@ -662,15 +647,13 @@ pratique de la moyenne montagne enneigée ".
 
 Conduite et encadrement de personnes en espace rural montagnard ainsi que sur
 des terrains enneigés faciles, vallonnés, de type nordique, excluant tout
-accident de terrain et situés en moyenne montagne.
+accident de terrain et situés en moyenne montagne. Animation de groupes et
+enseignement des connaissances et savoir-faire propres à l'activité et au
+milieu.
 
-Animation de groupes et enseignement des connaissances et savoir-faire propres à
-l'activité et au milieu.
-
-A l'exclusion :
-
--des rochers, des glaciers, des canyons et des terrains nécessitant, pour la
-progression, l'utilisation du matériel ou des techniques de l'alpinisme ;
+A l'exclusion : -des rochers, des glaciers, des canyons et des terrains
+nécessitant, pour la progression, l'utilisation du matériel ou des techniques de
+l'alpinisme ;
 
 -de la pratique du ski et activités assimilées.
 
@@ -683,15 +666,13 @@ pisteur-secouriste 2e degré ou option ski alpin 2e degré ou option ski nordiqu
 
 Conduite et encadrement de personnes en espace rural montagnard ainsi que sur
 des terrains enneigés faciles, vallonnés, de type nordique, excluant tout
-accident de terrain et situés en moyenne montagne.
+accident de terrain et situés en moyenne montagne. Animation de groupes et
+enseignement des connaissances et savoir-faire propres à l'activité et au
+milieu.
 
-Animation de groupes et enseignement des connaissances et savoir-faire propres à
-l'activité et au milieu.
-
-A l'exclusion :
-
--des rochers, des glaciers, des canyons et des terrains nécessitannt pour la
-progression, l'utilisation du matériel ou des techniques de l'alpinisme ;
+A l'exclusion : -des rochers, des glaciers, des canyons et des terrains
+nécessitannt pour la progression, l'utilisation du matériel ou des techniques de
+l'alpinisme ;
 
 -de la pratique du ski et activités assimilées.
 
@@ -703,18 +684,16 @@ Diplôme d'AMM du brevet d'Etat d'alpinisme assorti du BEES du 1er degré, optio
 
 Conduite et encadrement de personnes en espace rural montagnard ainsi que sur
 des terrains enneigés faciles, vallonnés, de type nordique, excluant tout
-accident de terrain et situés en moyenne montagne.
-
-Animation de groupes et enseignement des connaissances et savoir-faire propres à
-l'activité et au milieu.
+accident de terrain et situés en moyenne montagne. Animation de groupes et
+enseignement des connaissances et savoir-faire propres à l'activité et au
+milieu.
 
 Prérogatives conférées aux titulaires du BEES option " ski alpin " ou " ski
 nordique " selon la spécialité.
 
-A l'exclusion :
-
--des rochers, des glaciers, des canyons et des terrains nécessitant, pour la
-progression, l'utilisation du matériel ou des techniques de l'alpinisme ;
+A l'exclusion : -des rochers, des glaciers, des canyons et des terrains
+nécessitant, pour la progression, l'utilisation du matériel ou des techniques de
+l'alpinisme ;
 
 -de la pratique du ski et activités assimilées.
 
@@ -790,9 +769,8 @@ BEES, option " rugby à XIII ".
 
 Enseignement du rugby à XIII dans tout établissement.
 
-Brevet d'aptitude professionnelle d'assistant animateur
-
-technicien de la jeunesse et des sports (BAPAAT)
+Brevet d'aptitude professionnelle d'assistant animateur technicien de la
+jeunesse et des sports (BAPAAT)
 
 BAPAAT, options " loisirs du jeune et de l'enfant " ; " loisirs tout public dans
 les sites et structures d'accueil collectif " ; " loisirs de pleine nature ".
@@ -895,9 +873,8 @@ brevet d'études professionnelles agricoles, option " activités hippiques " et
 fixant les modalités de certification conjointe avec le BAPAAT, support
 technique " randonnée équestre ".
 
-Brevet professionnel de la jeunesse,
-
-de l'éducation populaire et du sport (BP JEPS)
+Brevet professionnel de la jeunesse, de l'éducation populaire et du sport (BP
+JEPS)
 
 BP JEPS, spécialité " activités équestres ".
 
@@ -1134,9 +1111,8 @@ premiers niveaux de compétition en parachutisme ascensionnel nautique.
 Avec des voitures hémisphériques à tuyères, dans tous les modes de pratique,
 pour tout public et sur tout lieu de pratique de l'activité.
 
-Unités capitalisables complémentaires (UCC) associées
-
-à la spécialité " activités nautiques "
+Unités capitalisables complémentaires (UCC) associées à la spécialité "
+activités nautiques "
 
 UCC " aviron de mer ".
 
@@ -1304,9 +1280,7 @@ BP JEPS, spécialité " golf ".
 
 Encadrement et animation de l'activité golf.
 
-Unités capitalisables complémentaires (UCC)
-
-associées à la spécialité " golf "
+Unités capitalisables complémentaires (UCC) associées à la spécialité " golf "
 
 UCC " squash ".
 
@@ -1376,9 +1350,8 @@ Toute activité physique ou sportive auprès de tout public, à l'exclusion des
 groupes constitués de personnes ayant un handicap physique ou sensoriel, une
 déficience intellectuelle ou un trouble psychique.
 
-Unités capitalisables complémentaires (UCC)
-
-associées à la spécialité " activités physiques pour tous "
+Unités capitalisables complémentaires (UCC) associées à la spécialité "
+activités physiques pour tous "
 
 UCC " baseball et softball ".
 
@@ -1454,9 +1427,8 @@ UCC " billard à poches ".
 Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en
 billard à poches.
 
-Certificats de spécialisation (CS)
-
-associés à la spécialité " activités physiques pour tous "
+Certificats de spécialisation (CS) associés à la spécialité " activités
+physiques pour tous "
 
 CS " cerf-volant ".
 
@@ -1507,18 +1479,15 @@ Conduite de cycles d'animation en escrime.
 
 CS " accompagnement et intégration des personnes en situation de handicap ".
 
-Animation des activités physiques ou sportives :
-
--auprès de groupes intégrant des personnes déficientes motrices, sensorielles ou
-intellectuelles ; des personnes présentant une souffrance psychique ou éprouvant
-des difficultés d'adaptation du fait de carences affectives ou éducatives ;
+Animation des activités physiques ou sportives : -auprès de groupes intégrant
+des personnes déficientes motrices, sensorielles ou intellectuelles ; des
+personnes présentant une souffrance psychique ou éprouvant des difficultés
+d'adaptation du fait de carences affectives ou éducatives ;
 
 -auprès de groupes constitués exclusivement de ces publics.
 
 Auprès de groupes constitués exclusivement de ces publics, cette intervention
-est réalisée :
-
--à titre ponctuel ;
+est réalisée : -à titre ponctuel ;
 
 -et en qualité de prestataire pour le compte de la structure employeuse.
 
@@ -1562,10 +1531,8 @@ Haltère, musculation et forme sur plateau.
 Encadrement et animation d'activités de loisir, d'initiation et de découverte
 des activités haltère, musculation et forme sur plateau.
 
-
-Unités capitalisables complémentaires
-
-associées à la spécialité " activités gymniques de la forme et de la force "
+Unités capitalisables complémentaires associées à la spécialité " activités
+gymniques de la forme et de la force "
 
 UCC " gymnastique artistique féminine ".
 
@@ -1622,10 +1589,8 @@ UCC " haltérophilie ".
 Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de
 compétition en haltérophilie.
 
-
-Certificats de spécialisation associés à la spécialité
-
-" activités gymniques de la forme et de la force "
+Certificats de spécialisation associés à la spécialité " activités gymniques de
+la forme et de la force "
 
 CS " activités d'escalade ".
 
@@ -1751,10 +1716,8 @@ tout public en milieu aquatique.
 Sous réserve de la présentation du certificat quinquennal d'aptitude à
 l'exercice de la profession de maître nageur sauveteur en cours de validité.
 
-
-Unités capitalisables complémentaires associées
-
-à la spécialité " activités de randonnée " du BP JEPS
+Unités capitalisables complémentaires associées à la spécialité " activités de
+randonnée " du BP JEPS
 
 UCC " cyclisme traditionnel ".
 
@@ -1805,10 +1768,8 @@ CS " course d'orientation ".
 
 Conduite de cycles d'animation en course d'orientation.
 
-
-Certificats de spécialisation associés
-
-à la spécialité " animation culturelle " du BP JEPS
+Certificats de spécialisation associés à la spécialité " animation culturelle "
+du BP JEPS
 
 CS " tir sportif ".
 
@@ -1825,9 +1786,8 @@ CS " tir à l'arc ".
 
 Conduite de cycles d'animation en tir à l'arc.
 
-Diplôme d'Etat et diplôme d'Etat supérieur de la jeunesse,
-
-de l'éducation populaire et du sport (DE JEPS et DES JEPS)
+Diplôme d'Etat et diplôme d'Etat supérieur de la jeunesse, de l'éducation
+populaire et du sport (DE JEPS et DES JEPS)
 
 Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport, spécialité
 " perfectionnement sportif ", toutes mentions.
@@ -1849,30 +1809,23 @@ pratiquants.
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un
 stage de recyclage.
 
-
-Unités capitalisables complémentaires associées
-
-aux DE JEPS et aux DES JEPS
+Unités capitalisables complémentaires associées aux DE JEPS et aux DES JEPS
 
 UCC " baby et mini-volley " associée au DE JEPS, spécialité " perfectionnement
 sportif ", mention " volley-ball ".
 
 Enseignement, animation, encadrement du baby et du mini-volley.
 
-
-Certificats de spécialisation associés
-
-aux DE JEPS et aux DES JEPS
+Certificats de spécialisation associés aux DE JEPS et aux DES JEPS
 
 CS " beach-volley " associé au DES JEPS, spécialité " performance sportive ",
 mention " volley-ball ".
 
 Encadrement du beach-volley et entraînement de ses pratiquants.
 
-CS " cerf-volant " associé :
-
--au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS, spécialité
-" performance sportive ", mention " glisses aérotractées nautiques " ;
+CS " cerf-volant " associé : -au DE JEPS, spécialité " perfectionnement sportif
+" et au DES JEPS, spécialité " performance sportive ", mention " glisses
+aérotractées nautiques " ;
 
 -au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS, spécialité
 " performance sportive ", mention " voile ".
@@ -1880,11 +1833,9 @@ CS " cerf-volant " associé :
 Découverte, animation et initiation, jusqu'au premier niveau de compétition en
 cerf-volant.
 
-CS " canoë-kayak et disciplines associées en mer " associé :
-
--au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS, spécialité
-" performance sportive ", mention " canoë-kayak et disciplines associées en eau
-calme " ;
+CS " canoë-kayak et disciplines associées en mer " associé : -au DE JEPS,
+spécialité " perfectionnement sportif " et au DES JEPS, spécialité " performance
+sportive ", mention " canoë-kayak et disciplines associées en eau calme " ;
 
 -au DE JEPS, spécialité " perfectionnement sportif ", mention " canoë-kayak et
 disciplines associées en eau vive ".
@@ -1904,10 +1855,9 @@ course ".
 
 Encadrement de la nage avec palmes et entraînement de ses pratiquants.
 
-CS " sauvetage et sécurité en milieu aquatique " associé :
-
--au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS, spécialité
-" performance sportive ", mention " natation course " ;
+CS " sauvetage et sécurité en milieu aquatique " associé : -au DE JEPS,
+spécialité " perfectionnement sportif " et au DES JEPS, spécialité " performance
+sportive ", mention " natation course " ;
 
 -au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS, spécialité
 " performance sportive ", mention " natation synchronisée " ;
@@ -2008,12 +1958,20 @@ d'animation en équitation cheval, en équitation poney ou en tourisme équestre
 Pour les mentions " équitation public poney " et " équitation public cheval ",
 sous le contrôle d'un titulaire du brevet d'Etat d'éducateur sportif option "
 équitation " ou du brevet professionnel de la jeunesse, de l'éducation populaire
-et du sport spécialité " activités équestres " mention équitation.
-
-Pour la mention " tourisme équestre ", sous le contrôle d'un titulaire du brevet
+et du sport spécialité " activités équestres " mention équitation. Pour la
+mention " tourisme équestre ", sous le contrôle d'un titulaire du brevet
 professionnel de la jeunesse, de l'éducation populaire et du sport spécialité "
 activités équestres " mention " tourisme équestre " ou du brevet de guide de
 tourisme équestre.
+
+CQP " enseignant animateur d'équitation ".
+
+Conduite en autonomie de séances d'initiation aux pratiques équestres.
+
+CQP " organisateur de randonnées équestres ".
+
+Initiation aux techniques de la randonnée équestre et conduite de promenades et
+de randonnées équestres en autonomie.
 
 E-2. Certificats de qualification délivrés par la Commission paritaire nationale
 
@@ -2033,9 +1991,8 @@ Encadrement en autonomie d'excursions en quad pour des publics titulaires d'un
 permis ou d'un brevet délivré par l'Etat permettant la conduite d'un quad,
 conformément à l'article R. 213 du code de la route.
 
-A l'exclusion de toute activité d'enseignement ou d'entraînement ;
-
-Dans la limite de 6 personnes accompagnées ;
+A l'exclusion de toute activité d'enseignement ou d'entraînement ; Dans la
+limite de 6 personnes accompagnées ;
 
 Sur des parcours connus et reconnus ;
 
@@ -2045,11 +2002,10 @@ CQP " animateur de tir à l'arc ".
 
 Encadrement en autonomie du tir à l'arc, par la découverte et l'animation.
 
-Dans la limite de 12 pratiquants ;
-
-Durant la période allant du début des vacances de printemps à la fin des
-vacances d'été, conformément aux dates du calendrier des vacances scolaires fixé
-par les ministères de l'enseignement supérieur et de l'éducation nationale ;
+Dans la limite de 12 pratiquants ; Durant la période allant du début des
+vacances de printemps à la fin des vacances d'été, conformément aux dates du
+calendrier des vacances scolaires fixé par les ministères de l'enseignement
+supérieur et de l'éducation nationale ;
 
 A l'exclusion du temps scolaire contraint ;
 
@@ -2063,10 +2019,8 @@ Sous l'autorité d'un titulaire d'une certification professionnelle des activit�
 physiques ou sportives de niveau IV ou supérieur, le nombre de titulaires du CQP
 AMV placés sous cette autorité ne pouvant être supérieur à 10, dans la limite de
 140 pratiquants encadrés par titulaire d'une certification de niveau IV ou
-supérieur ;
-
-Durant les périodes de congés scolaires et universitaires fixées par les
-ministères de l'enseignement supérieur et de l'éducation nationale.
+supérieur ; Durant les périodes de congés scolaires et universitaires fixées par
+les ministères de l'enseignement supérieur et de l'éducation nationale.
 
 CQP " animateur de savate ".
 
@@ -2079,10 +2033,9 @@ CQP " animateur des activités gymniques ", mention " activités gymniques
 acrobatiques ".
 
 Encadrement en autonomie, par la découverte et l'initiation, des activités
-gymniques acrobatiques, à visée compétitive ou non :
-
--activités gymniques au sol, aux agrès ou sur supports élastiques (piste
-gonflable, fast track, mini-trampoline, trampoline) ;
+gymniques acrobatiques, à visée compétitive ou non : -activités gymniques au
+sol, aux agrès ou sur supports élastiques (piste gonflable, fast track,
+mini-trampoline, trampoline) ;
 
 -activités gymniques acrobatiques de groupe.
 
@@ -2092,9 +2045,8 @@ CQP " animateur des activités gymniques ", mention " activités d'éveil gymniq
 pour la petite enfance ".
 
 Encadrement en autonomie, par la découverte et l'initiation, des activités
-d'éveil gymnique pour la petite enfance :
-
--activités gymniques sous forme de parcours de motricité ;
+d'éveil gymnique pour la petite enfance : -activités gymniques sous forme de
+parcours de motricité ;
 
 -activités gymniques d'expression avec ou sans engins ;
 
@@ -2106,9 +2058,8 @@ CQP " animateur des activités gymniques ", mention " activités gymniques
 d'expression et d'entretien ".
 
 Encadrement en autonomie, par la découverte et l'initiation, des activités
-gymniques d'expression et d'entretien :
-
--activités gymniques à dominante cardio-vasculaire ;
+gymniques d'expression et d'entretien : -activités gymniques à dominante
+cardio-vasculaire ;
 
 -activités gymniques dansées de groupe avec ou sans engins ;
 
@@ -2124,9 +2075,7 @@ CQP " animateur de loisirs sportifs ", option " activités gymniques d'entretien
 et d'expression ".
 
 Encadrement en autonomie par la découverte et l'animation des activités
-gymniques d'entretien et d'expression :
-
--techniques cardio ;
+gymniques d'entretien et d'expression : -techniques cardio ;
 
 -renforcement musculaire ;
 
@@ -2134,9 +2083,8 @@ gymniques d'entretien et d'expression :
 
 -activités d'expression.
 
-Activité exercée à titre secondaire ;
-
-Sans recours à des appareils de musculation ;
+Activité exercée à titre secondaire ; Sans recours à des appareils de
+musculation ;
 
 Sous réserve de la présentation du certificat d'aptitude à l'exercice de la
 fonction d'animateur de loisirs sportifs en cours de validité.
@@ -2145,17 +2093,14 @@ CQP " animateur de loisirs sportifs ", option " jeux sportifs et jeux
 d'opposition ".
 
 Encadrement en autonomie par la découverte et l'animation des jeux sportifs et
-des jeux d'opposition :
-
--arts et éducation par les activités physiques d'opposition ;
+des jeux d'opposition : -arts et éducation par les activités physiques
+d'opposition ;
 
 -jeux de raquettes ;
 
 -jeux de ballons, petits et grands terrains
 
-Activité exercée à titre secondaire ;
-
-A l'exclusion des pratiques compétitives ;
+Activité exercée à titre secondaire ; A l'exclusion des pratiques compétitives ;
 
 A l'exclusion de la délivrance de niveaux, de ceintures ou de grades ;
 
@@ -2169,9 +2114,8 @@ maximum.L'assistant moniteur de tennis bénéficie du suivi pédagogique d'un
 référent titulaire d'un diplôme d'Etat de niveau IV ou supérieur.
 
 Activité exercée le mercredi et le samedi, excepté dans le cas où la structure
-ne dispose pas d'équipement permanent ;
-
-A l'exclusion du temps scolaire contraint ;
+ne dispose pas d'équipement permanent ; A l'exclusion du temps scolaire
+contraint ;
 
 A l'exclusion des cours individuels.
 
@@ -2186,9 +2130,7 @@ CQP " technicien sportif régional de basket-ball ".
 Entraînement et encadrement en compétition d'équipes évoluant majoritairement
 aux niveaux régional et départemental.
 
-Activité exercée à titre secondaire ;
-
-A l'exclusion des équipes évoluant :
+Activité exercée à titre secondaire ; A l'exclusion des équipes évoluant :
 
 -en pro A et en pro B ;
 
@@ -2209,9 +2151,8 @@ Initiation à la pratique du char à voile de loisirs dans le support certifié
 
 Sous l'autorité d'un titulaire d'un diplôme de niveau IV ou supérieur dans la
 discipline du char à voile, le nombre de titulaires du CQP " assistant moniteur
-char à voile " placés sous cette autorité, ne pouvant être supérieur à 3 ;
-
-Dans la limite de 8 chars ;
+char à voile " placés sous cette autorité, ne pouvant être supérieur à 3 ; Dans
+la limite de 8 chars ;
 
 Vent de force 6 Beaufort maximum ;
 
@@ -2225,10 +2166,8 @@ chinois externes, arts énergétiques chinois, judo-jujitsu, karaté et discipli
 associées, kendo et disciplines associées, taekwondo et disciplines associées).
 
 Les mercredis et les samedis pendant l'année scolaire, dans les structures de
-plus de 200 adhérents ;
-
-A raison de 4 séances maximum par semaine pendant l'année scolaire, dans les
-structures de moins de 200 adhérents ;
+plus de 200 adhérents ; A raison de 4 séances maximum par semaine pendant
+l'année scolaire, dans les structures de moins de 200 adhérents ;
 
 A l'exclusion du temps scolaire contraint ;
 
@@ -2242,9 +2181,7 @@ CQP " assistant moniteur motonautique ".
 Animation de séances de découverte et d'initiation à la pratique du motonautisme
 au moyen du support véhicule nautique à moteur (VNM).
 
-Sous l'autorité d'un référent, le titulaire du CQP encadre :
-
--2 VNM maximum ;
+Sous l'autorité d'un référent, le titulaire du CQP encadre : -2 VNM maximum ;
 
 -ou 4 VNM à vue du référent.
 
