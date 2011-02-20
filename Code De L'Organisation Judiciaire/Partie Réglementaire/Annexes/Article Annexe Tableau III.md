@@ -237,7 +237,15 @@ Valence
 Romans-sur-Isère.
 
 
+Hautes-Alpes
+
+Gap
+
+
+Briançon
+
 Isère
+
 
 Grenoble
 
@@ -511,6 +519,5 @@ Versailles
 
 Les Mureaux, Saint-Quentin-en-Yvelines.
 
-(3) Applicable jusqu'au 31 décembre 2010.
-
-(4) Applicable à compter du 1er janvier 2011.
+(3) Applicable jusqu'au 31 décembre 2010. (4) Applicable à compter du 1er
+janvier 2011.
