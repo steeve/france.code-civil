@@ -21,5 +21,4 @@ en exécution de conventions passées avec eux ;
 
 7° Les dons et legs ;
 
-8° Le produit de la taxe sur les passagers maritimes prévue à l'article 285
-quater du code des douanes.
+8° Toute taxe affectée au budget de l'établissement.

@@ -30,7 +30,7 @@ l'aménagement et à la gestion des biens immobiliers, conformément à la
 détermination du niveau de prise en compte des besoins arrêtée par le conseil
 d'administration.
 
-Il représente le conservatoire en justice.
+Il représente le conservatoire en justice et engage toute action en justice.
 
 Il peut déléguer sa signature.
 

@@ -1,9 +1,9 @@
 Article R322-17
 ----
-I.-Le conseil d'administration du conservatoire de l'espace littoral et des
-rivages lacustres comprend trente membres :
+I. - Le conseil d'administration du conservatoire de l'espace littoral et des
+rivages lacustres comprend trente-quatre membres :
 
-1° Deux représentants du ministre chargé de la protection de la nature ;
+1° Un représentant du ministre chargé de la protection de la nature ;
 
 2° Un représentant du ministre chargé de l'aménagement du territoire ;
 
@@ -30,23 +30,24 @@ rivages lacustres comprend trente membres :
 13° Trois députés et trois sénateurs désignés par l'assemblée à laquelle ils
 appartiennent ;
 
-14° Trois personnalités qualifiées choisies par le ministre chargé de la
-protection de la nature dont deux parmi les responsables des associations de
-protection de la nature et une parmi les représentants des collectivités et
-organismes gestionnaires d'espaces naturels littoraux.
+14° Cinq personnalités qualifiées choisies par le ministre chargé de la
+protection de la nature, dont une représentant l'Agence des aires marines
+protégées, trois représentant les associations de protection de la nature et une
+représentant les organisations d'usagers du littoral ;
 
-II.-Outre le directeur du conservatoire, le membre du corps du contrôle général
-économique et financier et l'agent comptable, siègent au conseil
-d'administration avec voix consultative :
+15° Deux représentants des communes ou de leurs groupements gestionnaires
+d'espaces naturels littoraux, désignés par l'Association des maires de France ;
 
-1° Deux représentants du personnel élus par le personnel du conservatoire sur
-des listes présentées par les organisations syndicales habilitées à désigner des
-représentants au comité technique central du conservatoire ;
+16° Un représentant du personnel élu par le personnel du conservatoire sur des
+listes présentées par les organisations syndicales habilitées à désigner des
+représentants au comité technique paritaire central du conservatoire.
 
-2° Le président du conseil scientifique du conservatoire.
+II. - Siègent au conseil d'administration avec voix consultative le directeur du
+conservatoire, le contrôleur financier, l'agent comptable et le président du
+conseil scientifique du conservatoire.
 
-III.-Les membres du conseil d'administration sont nommés par arrêté du ministre
-chargé de la protection de la nature.
+III. - Les membres du conseil d'administration sont nommés par arrêté du
+ministre chargé de la protection de la nature.
 
-IV.-Un suppléant est désigné pour chacun des membres du conseil d'administration
-à l'exception des personnalités qualifiées.
+IV. - Un suppléant est désigné pour chacun des membres du conseil
+d'administration à l'exception des personnalités qualifiées.
