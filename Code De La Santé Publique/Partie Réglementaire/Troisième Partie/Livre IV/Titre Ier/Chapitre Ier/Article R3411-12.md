@@ -49,4 +49,8 @@ Le comité comprend, sous la présidence du Premier ministre :
 D'autres ministres peuvent être appelés à siéger à ce comité, selon les
 questions inscrites à l'ordre du jour.
 
+Le Premier ministre peut confier la présidence du comité interministériel au
+ministre de l'intérieur lorsque ce comité examine des questions relatives à la
+lutte contre le trafic de drogue.
+
 Le secrétariat du comité est assuré par le secrétariat général du Gouvernement.
