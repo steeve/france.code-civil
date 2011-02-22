@@ -5,10 +5,11 @@ et liquides les titres, valeurs et dépôts dont sont débiteurs des établissem
 de crédit ou entreprises d'investissement bénéficiant du meilleur échelon de
 qualité de crédit établi par un organisme externe d'évaluation de crédit reconnu
 par l'Autorité de contrôle prudentiel en application des dispositions de
-l'article L. 511-44. Le montant total de ces valeurs de remplacement ne peut
-excéder 15 % du montant nominal des obligations foncières et autres ressources
-bénéficiant du privilège mentionné au 2 du I de l'article L. 515-13, émises par
-la société de crédit foncier.
+l'article L. 511-44 ou qui sont garantis par des établissements de crédit ou
+entreprises d'investissement du même échelon de qualité de crédit. Le montant
+total de ces valeurs de remplacement ne peut excéder 15 % du montant nominal des
+obligations foncières et autres ressources bénéficiant du privilège mentionné au
+2 du I de l'article L. 515-13, émises par la société de crédit foncier.
 
 Les créances liées au paiement ou à la gestion des sommes dues au titre des
 prêts, contrats ou des différents titres, valeurs, parts et instruments
@@ -25,4 +26,5 @@ européen sont également reconnues comme titres, valeurs et dépôts suffisamme
 sûrs et liquides lorsqu'elles bénéficient du second meilleur échelon de qualité
 de crédit établi par un organisme externe d'évaluation de crédit reconnu par
 l'Autorité de contrôle prudentiel en application des dispositions de l'article
-L. 511-44.
+L. 511-44 ou qu'elles sont garanties par des établissements de crédit ou
+entreprises d'investissement du même échelon de qualité de crédit.
