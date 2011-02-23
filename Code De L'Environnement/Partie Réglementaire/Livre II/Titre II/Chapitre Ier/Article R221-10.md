@@ -7,10 +7,9 @@ remplissent les conditions suivantes :
 
 a) Des représentants des services de l'Etat, notamment de la direction régionale
 de l'industrie, de la recherche et de l'environnement, de la direction régionale
-de l'environnement, de la direction départementale ou régionale des affaires
-sanitaires et sociales, de la direction départementale ou régionale de
-l'équipement, et un représentant de l'Agence de l'environnement et de la
-maîtrise de l'énergie ;
+de l'environnement, de la direction départementale ou régionale de l'équipement,
+un représentant de l'agence régionale de santé et un représentant de l'Agence de
+l'environnement et de la maîtrise de l'énergie ;
 
 b) Des représentants de la région, des départements, des communes et des
 groupements de communes adhérant à l'organisme ;

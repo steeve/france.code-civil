@@ -41,3 +41,11 @@ départements sur le territoire desquels est situé le projet, ainsi que, le cas
 échéant, le préfet maritime au titre des compétences en matière de protection de
 l'environnement qu'il tient du décret n° 2004-112 du 6 février 2004 relatif à
 l'organisation de l'action de l'Etat en mer.
+
+Pour l'élaboration de leur avis, ces autorités consultent en outre le ministre
+chargé de la santé dans les cas mentionnés aux I et II ou le directeur général
+de l'agence régionale de santé dans les cas mentionnés au III. La consultation
+est réputée réalisée en l'absence de réponse dans le délai d'un mois à compter
+de la réception par le ministre ou l'agence de la demande de l'autorité
+compétente en matière d'environnement ; en cas d'urgence, cette autorité peut
+réduire ce délai sans que celui-ci puisse être inférieur à dix jours ouvrés.

@@ -18,7 +18,9 @@ dragage donnant lieu à immersion ;
 
 5° Au directeur de l'établissement public du parc national si l'opération pour
 laquelle l'autorisation est sollicitée est située dans le périmètre d'un parc
-national.
+national ;
+
+6° Au directeur général de chacune des agences régionales de santé concernées.
 
 L'avis est réputé favorable s'il n'intervient pas dans un délai de quarante-cinq
 jours à compter de la transmission du dossier.

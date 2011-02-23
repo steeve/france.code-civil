@@ -35,3 +35,13 @@ s'il n'est pas émis dans un délai de trois mois.
 IV.-Lorsque cette autorité est le préfet, celui-ci saisit le service régional de
 l'environnement concerné qui prépare l'avis en liaison avec les autres services
 de l'Etat compétents.
+
+V. - Lorsque les aménagements qui font l'objet des plans, schémas, programmes et
+documents de planification cités au I sont susceptibles d'avoir des effets sur
+la santé, les autorités compétentes en matière d'environnement consultent le
+ministre chargé de la santé dans les cas mentionnés au 1° du II ou le directeur
+général de l'agence régionale de santé dans les autres cas. La consultation est
+réputée réalisée en l'absence de réponse dans le délai d'un mois à compter de la
+réception par le ministre ou l'agence de la demande de l'autorité compétente ;
+en cas d'urgence, cette autorité peut réduire ce délai sans que celui-ci puisse
+être inférieur à dix jours ouvrés.

@@ -3,8 +3,8 @@ Article R512-21
 Dès qu'il a saisi le président du tribunal administratif conformément à
 l'article R. 512-14, le préfet communique, pour avis, un exemplaire de la
 demande d'autorisation aux services déconcentrés de l'Etat chargés de
-l'équipement, de l'agriculture, de l'action sanitaire et sociale, de la sécurité
-civile, des milieux naturels et, s'il y a lieu, aux services de l'inspection du
+l'équipement, de l'agriculture, de la sécurité civile, des milieux naturels, à
+l'agence régionale de santé et, s'il y a lieu, aux services de l'inspection du
 travail, aux services chargés de la police des eaux, à l'architecte des
 Bâtiments de France, à l'Institut national de l'origine et de la qualité, à
 l'établissement public du parc national concerné dans les conditions prévues par

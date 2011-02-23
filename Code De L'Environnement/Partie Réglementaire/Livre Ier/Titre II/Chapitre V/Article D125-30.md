@@ -21,22 +21,22 @@ l'équipement ;
 6° Un représentant du ou des services chargés de l'inspection du travail, de
 l'emploi et de la formation professionnelle.
 
-III.-Le collège " collectivités territoriales " comprend un ou plusieurs
+III.-Le collège "collectivités territoriales" comprend un ou plusieurs
 représentants des collectivités territoriales ou des établissements publics de
 coopération intercommunale concernés, nommés sur proposition de leurs organes
 délibérants.
 
-IV.-Le collège " exploitants " comprend un ou plusieurs représentants de la
+IV.-Le collège "exploitants" comprend un ou plusieurs représentants de la
 direction des établissements exploitant des installations visées à l'article D.
 125-29 et, le cas échéant, un représentant des autorités gestionnaires des
 ouvrages d'infrastructure routière, ferroviaire, portuaire ou de navigation
 intérieure ou des installations multimodales situés dans le périmètre du comité.
 
-V.-Le collège " riverains " comprend une ou plusieurs personnes choisies parmi
-les riverains situés à l'intérieur de la zone couverte par le comité local, les
+V.-Le collège "riverains" comprend une ou plusieurs personnes choisies parmi les
+riverains situés à l'intérieur de la zone couverte par le comité local, les
 représentants des associations locales ou des personnalités qualifiées.
 
-VI.-Le collège " salariés " comprend un ou plusieurs représentants des salariés
+VI.-Le collège "salariés" comprend un ou plusieurs représentants des salariés
 proposés par la délégation du personnel du comité interentreprises de santé et
 de sécurité au travail, constitué en application de l'article L. 4524-1 du code
 du travail, parmi ses membres.A défaut, il comprend des représentants des
@@ -51,3 +51,6 @@ trois ans renouvelable.
 VIII.-Ce comité est présidé par un des membres, nommé par le ou les préfets sur
 proposition du comité, ou, à défaut, par un des préfets ou de leurs
 représentants.
+
+IX. - Le directeur général de l'agence régionale de santé ou son représentant
+siège au comité.
