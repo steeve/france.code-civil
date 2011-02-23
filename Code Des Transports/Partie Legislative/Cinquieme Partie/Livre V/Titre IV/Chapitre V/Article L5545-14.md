@@ -12,5 +12,4 @@ premier alinéa est complété par les mots : " à bord " ; b) Le deuxième alin
 est complété par les mots : " ou des délégués de bord " ; c) Au quatrième
 alinéa, les mots : " le montant annuel moyen des cotisations d'accidents du
 travail prélevé " sont remplacés par les mots : " la moitié du montant annuel
-moyen des cotisations dues à l'Etablissement national des invalides de la marine
-au titre de la caisse générale de prévoyance des marins ".
+moyen des cotisations dues au titre du régime de prévoyance des marins ".
