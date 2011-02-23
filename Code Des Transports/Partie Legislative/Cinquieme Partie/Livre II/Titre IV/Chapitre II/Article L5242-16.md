@@ -9,8 +9,8 @@ le contentieux du droit à l'indemnité.
 Lorsque le propriétaire, l'armateur, l'exploitant ou leurs représentants, dûment
 mis en demeure de mettre fin, dans le délai qui leur est imparti, aux dangers
 que présente le navire ou l'engin flottant abandonné, refuse ou néglige de
-prendre les mesures nécessaires, l'Etat ou l'autorité portuaire mentionnée à
-l'article L. 5331-5, selon le cas peut intervenir aux frais et risques du
-propriétaire, de l'armateur ou de l'exploitant.
+prendre les mesures nécessaires, l'autorité administrative compétente peut
+intervenir aux frais et risques du propriétaire, de l'armateur ou de
+l'exploitant.
 
 En cas d'urgence, l'intervention peut être exécutée d'office sans délai.

@@ -1,6 +1,6 @@
 Article L5542-14
 ----
-Les dispositions des articles L. 5542-8, L. 5542-11 et L. 5542-13 ne sont pas
+Les dispositions des articles L. 5542-8, L. 5542-11 et L. 5542-12 ne sont pas
 applicables aux contrats conclus : 1° Au titre des dispositions légales
 destinées à favoriser l'embarquement de certaines catégories de demandeurs
 d'emploi ; 2° Pour une durée et dans des conditions fixées par voie

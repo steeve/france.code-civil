@@ -4,5 +4,5 @@ En cas de déchéance, le navire ou autre engin flottant abandonné ne peut êtr
 vendu au profit de l'Etat qu'à l'expiration d'un délai de deux mois et sous
 réserve des droits des créanciers privilégiés et hypothécaires. Les créances
 afférentes aux frais exposés par l'autorité compétente au titre des mesures
-d'intervention prises en application des dispositions de l'article L. 5242-16
-sont imputées en priorité sur le produit de la vente.
+d'intervention prises en application des dispositions des articles L. 5242-16 et
+L. 5242-18 sont imputées en priorité sur le produit de la vente.
