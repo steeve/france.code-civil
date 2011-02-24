@@ -14,16 +14,20 @@ mentionnée à l'alinéa précédent est attribuée aux souscripteurs d'un plan
 d'épargne logement qui donne lieu à l'octroi du prêt mentionné à l'article R.
 315-34, lors du versement de ce prêt.
 
+Pour les plans ouverts à compter du 1er mars 2011, la prime d'épargne mentionnée
+à l'alinéa précédent est, en outre, subordonnée à l'octroi d'un prêt d'un
+montant minimum de 5 000 euros.
+
 En outre, il est versé au souscripteur d'un plan d'épargne-logement bénéficiaire
 d'un prêt prévu à l'article R. 315-34 pour le financement des dépenses de
 construction, d'acquisition ou d'amélioration d'un logement destiné à son
 habitation personnelle une majoration de prime égale à un pourcentage par
 personne à charge du montant des intérêts acquis pris en compte pour le calcul
-du montant du prêt, déterminé par arrêté du ministre chargé des finances et du
-ministre chargé de la construction et de l'habitation. Seules ouvrent droit au
-bénéfice de cette majoration les personnes à charge vivant habituellement au
-foyer du bénéficiaire.
+du montant du prêt, déterminé par arrêté du ministre chargé de l'économie, du
+ministre chargé du budget et du ministre chargé du logement. Seules ouvrent
+droit au bénéfice de cette majoration les personnes à charge vivant
+habituellement au foyer du bénéficiaire.
 
 La prime d'épargne et le montant de la majoration ne peuvent pas dépasser un
-montant fixé par arrêté du ministre chargé des finances et du ministre chargé de
-la construction et de l'habitation.
+montant fixé par arrêté du ministre chargé de l'économie, du ministre chargé du
+budget et du ministre chargé du logement.
