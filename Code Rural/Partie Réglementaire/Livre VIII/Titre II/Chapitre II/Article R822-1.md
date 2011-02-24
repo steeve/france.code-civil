@@ -29,6 +29,11 @@ régie par une convention qui précise en particulier les modalités d'évaluati
 des actions ainsi que les conditions dans lesquelles l'Etat peut désigner auprès
 de l'organisme un représentant chargé de contrôler l'emploi de la subvention.
 
+L'établissement mentionné à l'article L. 621-1 élabore un programme pluriannuel
+tendant à favoriser le progrès génétique animal. Les actions relevant de ce
+programme peuvent faire l'objet d'une subvention financée par le compte
+d'affectation spéciale " développement agricole et rural ".
+
 Les conditions de mise en oeuvre du présent article, notamment le contenu des
 contrats d'objectifs et des conventions, les modalités d'évaluation ou
 d'expertise et la nature des consultations auxquelles il peut être procédé, sont
