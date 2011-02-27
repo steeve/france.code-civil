@@ -7,7 +7,7 @@ de sécurité sociale, en sus des prestations mentionnées au 1° des mêmes
 articles, sont les suivantes :
 
 1° L'installation dans une chambre particulière, en l'absence de prescription
-médicale imposant l'isolement, en cas d'hospitalisation avec l'hébergement ;
+médicale imposant l'isolement, en cas d'hospitalisation ;
 
 2° L'hébergement, ainsi que les repas et les boissons des personnes qui
 accompagnent la personne hospitalisée ;

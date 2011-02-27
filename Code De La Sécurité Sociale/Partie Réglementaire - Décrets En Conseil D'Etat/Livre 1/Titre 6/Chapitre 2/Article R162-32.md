@@ -63,4 +63,15 @@ l'utilisation d'un secteur opératoire ou l'observation du patient dans un
 environnement hospitalier. La prise en charge des frais résultant de
 l'utilisation de ces moyens est assurée par des forfaits facturés pour chaque
 passage à l'exception des cas où le passage est réalisé dans les conditions du
-2° du présent article.
+2° du présent article ;
+
+6° Les soins non suivis d'une hospitalisation dispensés dans les établissements
+de santé, représentatifs de la mise à disposition de l'ensemble des moyens
+nécessaires à l'administration, en environnement hospitalier, de produits et
+prestations mentionnés à l'article L. 165-1 et inscrits sur la liste mentionnée
+à l'article L. 162-22-7, à l'exception des moyens faisant l'objet d'une prise en
+charge distincte en application des dispositions de l'article R. 162-32-1.
+
+La prise en charge des frais occasionnés par ces prestations est assurée par des
+forfaits facturés pour chaque administration d'un ou plusieurs produits ou
+prestations mentionnés au précédent alinéa.

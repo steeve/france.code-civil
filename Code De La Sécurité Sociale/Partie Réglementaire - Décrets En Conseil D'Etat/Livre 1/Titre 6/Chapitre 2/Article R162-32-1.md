@@ -17,9 +17,9 @@ prennent en charge directement ;
 -les honoraires des auxiliaires médicaux, à l'exclusion de ceux afférents aux
 soins infirmiers.
 
-3° Sont exclus des forfaits mentionnés aux 2°,4° et 5° de l'article R. 162-32
-des établissements de santé mentionnés aux a, b et c de l'article L. 162-22-6
-les frais afférents aux consultations et aux actes réalisés dans ces
+3° Sont exclus des forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R.
+162-32 des établissements de santé mentionnés aux a, b et c de l'article L.
+162-22-6 les frais afférents aux consultations et aux actes réalisés dans ces
 établissements.
 
 4° Sont exclus des forfaits mentionnés au 1° de l'article R. 162-32 couvrant
