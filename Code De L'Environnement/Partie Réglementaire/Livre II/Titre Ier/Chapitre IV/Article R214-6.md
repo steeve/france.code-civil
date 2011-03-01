@@ -33,9 +33,11 @@ lors que cette première analyse conclut à l'absence d'incidence significative
 sur tout site Natura 2000 ;
 
 c) Justifiant, le cas échéant, de la compatibilité du projet avec le schéma
-directeur ou le schéma d'aménagement et de gestion des eaux et de sa
-contribution à la réalisation des objectifs visés à l'article L. 211-1 ainsi que
-des objectifs de qualité des eaux prévus par l'article D. 211-10 ;
+directeur ou le schéma d'aménagement et de gestion des eaux et avec les
+dispositions du plan de gestion des risques d'inondation mentionné à l'article
+L. 566-7 et de sa contribution à la réalisation des objectifs visés à l'article
+L. 211-1 ainsi que des objectifs de qualité des eaux prévus par l'article D.
+211-10 ;
 
 d) Précisant s'il y a lieu les mesures correctives ou compensatoires envisagées.
 
@@ -111,7 +113,7 @@ pluviométriques d'intensité supérieure ou égale à ce niveau ;
 3° Une estimation des flux de pollution déversés au milieu récepteur en fonction
 des événements pluviométriques retenus au 2° et l'étude de leur impact.
 
-V.-Lorsqu'il s'agit d'ouvrages mentionnés à la rubrique 3. 2. 5. 0 du tableau de
+V.-Lorsqu'il s'agit d'ouvrages mentionnés à la rubrique 3.2.5.0 du tableau de
 l'article R. 214-1 :
 
 1° En complément des informations prévues au 5° du II, des consignes de
@@ -122,8 +124,8 @@ d'exploitation en période de crue ;
 
 3° Une étude de dangers si l'ouvrage est de classe A ou B.
 
-VI.-Lorsqu'il s'agit d'ouvrages mentionnés à la rubrique 3. 2. 6. 0 du tableau
-de l'article R. 214-1 :
+VI.-Lorsqu'il s'agit d'ouvrages mentionnés à la rubrique 3.2.6.0 du tableau de
+l'article R. 214-1 :
 
 1° En complément des informations prévues au 5° du II, des consignes de
 surveillance de l'ouvrage en toutes circonstances et des consignes
