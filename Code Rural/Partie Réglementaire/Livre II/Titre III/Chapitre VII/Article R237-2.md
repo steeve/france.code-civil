@@ -83,4 +83,10 @@ contrôle médical régulier ;
 une personne susceptible de la contaminer ;
 
 20° De ne pas tenir, ni mettre à jour le registre d'élevage dans les conditions
-prévues aux articles L. 214-9 et L. 234-1.
+prévues aux articles L. 214-9 et L. 234-1 ;
+
+21° D'exploiter un centre de rassemblement non agréé au titre de l'article L.
+233-3 ou dont l'agrément a été suspendu ou retiré ;
+
+22° Pour tout opérateur commercial, de ne pas se conformer à l'obligation de
+déclaration prévue à l'article R. 233-7.
