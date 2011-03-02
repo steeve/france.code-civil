@@ -20,9 +20,9 @@ de chacun d'entre eux et le montant du chiffre d'affaires, défini conformément
 aux dispositions du cinquième alinéa de l'article R. 123-200, apprécié à la date
 de clôture du dernier exercice comptable ;
 
-5° L'état chiffré des créances et des dettes avec l'indication des noms et du
-domicile des créanciers et, pour les salariés, le montant global des sommes
-impayées ;
+5° L'état chiffré des créances et des dettes avec l'indication selon le cas, du
+nom ou de la dénomination et du domicile ou siège des créanciers et, pour les
+salariés, le montant global des sommes impayées ;
 
 6° L'état actif et passif des sûretés ainsi que celui des engagements hors bilan
 ;

@@ -25,10 +25,10 @@ chiffre d'affaires, défini conformément aux dispositions du cinquième alinéa
 l'article R. 123-200, apprécié à la date de clôture du dernier exercice
 comptable ;
 
-5° L'état chiffré des créances et des dettes avec l'indication des noms et du
-domicile des créanciers ainsi que, par créancier ou débiteur, le montant total
-des sommes à payer et à recouvrer au cours d'une période de trente jours à
-compter de la demande ;
+5° L'état chiffré des créances et des dettes avec l'indication selon le cas, du
+nom ou de la dénomination et du domicile ou siège des créanciers ainsi que, par
+créancier ou débiteur, le montant total des sommes à payer et à recouvrer au
+cours d'une période de trente jours à compter de la demande ;
 
 6° L'état actif et passif des sûretés ainsi que celui des engagements hors bilan
 ;
