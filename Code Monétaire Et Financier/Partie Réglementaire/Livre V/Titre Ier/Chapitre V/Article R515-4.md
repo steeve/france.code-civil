@@ -25,32 +25,47 @@ ou de l'entité similaire, le cas échéant lors d'un rechargement ultérieur ou
 lors de l'inscription des parts ou titres à l'actif de la société de crédit
 foncier.
 
-II.-L'acquisition des parts ou titres mentionnés à l'article L. 515-16 émis par
-des organismes de titrisation ou entités similaires mentionnées audit article,
-dont l'actif est constitué à au moins 90 % de prêts consentis à des personnes
-physiques pour financer la construction ou l'acquisition de logement ou pour
-financer à la fois l'acquisition d'un terrain à bâtir et le coût des travaux de
-construction de logement tels que mentionnés au troisième alinéa de l'article R.
-515-2, est limitée à 20 % du montant nominal des obligations foncières, et
-autres ressources bénéficiant du privilège mentionnées au 2 du I de l'article L.
-515-13, émises par la société de crédit foncier.
+II.-Les parts ou titres mentionnés à l'article L. 515-16 émis par des organismes
+de titrisation ou entités similaires mentionnées audit article, dont l'actif est
+constitué à au moins 90 % de prêts consentis à des personnes physiques pour
+financer la construction ou l'acquisition de logement ou pour financer à la fois
+l'acquisition d'un terrain à bâtir et le coût des travaux de construction de
+logement tels que mentionnés au troisième alinéa de l'article R. 515-2, ne
+peuvent être refinancés par des obligations foncières, et autres ressources
+bénéficiant du privilège mentionnées au 2 du I de l'article L. 515-13, émises
+par la société de crédit foncier, que dans la limite de 10 % du montant nominal
+des obligations foncières et autres ressources privilégiées.
 
-III.-L'acquisition des parts ou titres mentionnés à l'article L. 515-16 émis par
-des organismes de titrisation ou entités similaires mentionnées audit article,
-dont l'actif est constitué à au moins 90 % de prêts mentionnés à l'article L.
-515-14 et qui ne relèvent pas du II ci-dessus, est limitée à 20 % du montant
-nominal des obligations foncières et autres ressources bénéficiant du privilège
-mentionnées au 2 du I de l'article L. 515-13, émises par la société de crédit
-foncier.
+III.-Les parts ou titres mentionnés à l'article L. 515-16 émis par des
+organismes de titrisation ou entités similaires mentionnées audit article, dont
+l'actif est constitué à au moins 90 % de prêts mentionnés à l'article L. 515-14
+et qui ne relèvent pas du II ci-dessus, ne peuvent être refinancés par des
+obligations foncières et autres ressources bénéficiant du privilège mentionnées
+au 2 du I de l'article L. 515-13, émises par la société de crédit foncier, que
+dans la limite de 10 % du montant nominal des obligations foncières et autres
+ressources privilégiées.
 
-IV.-Les parts ou titres de créances qui bénéficient de la meilleure évaluation
-de crédit établie par un organisme externe d'évaluation de crédit reconnu par
-l'Autorité de contrôle prudentiel conformément à l'article L. 511-44 pour les
-obligations foncières ou autres ressources bénéficiant du privilège mentionnées
-au 2° du I de l'article L. 515-13 du code monétaire et financier peuvent
-représenter 100 % du montant nominal des obligations foncières, et autres
-ressources bénéficiant du privilège mentionnées au 2° du I de l'article L.
-515-13, émises par la société de crédit foncier.
+IV.-Jusqu'au 31 décembre 2013, la limite de 10 %, mentionnée aux II et III
+ci-dessus, n'est pas applicable à la double condition que :
 
-Au plus tard le 31 décembre 2010, les conditions d'éligibilité de ces actifs
-font l'objet d'un nouvel examen.
+a) Les prêts qui constituent au moins 90 % de l'actif de l'organisme de
+titrisation ou de l'entité similaire visée à l'article L. 515-16 aient été cédés
+par une société appartenant au même groupe, ou par un organisme affilié au même
+organe central, que la société de crédit foncier émettrice des obligations
+foncières, cette participation ou affiliation étant déterminée au moment où les
+parts ou titres mentionnés à l'article L. 515-16 sont constitués en sûreté pour
+les obligations foncières ;
+
+b) Une société appartenant au même groupe ou un organisme affilié au même organe
+central que la société de crédit foncier émettrice des obligations foncières
+conserve la totalité des parts subordonnées aux autres types de parts,
+conformément aux modalités prévues à l'article L. 214-43.
+
+V.-Au cas où les parts ou titres de créances émis par un organisme de
+titrisation ou une entité similaire mentionnés à l'article L. 515-16 ont été
+financés par la société de crédit foncier au moyen de ressources privilégiées,
+le contrôleur spécifique mentionné à l'article L. 515-30 veille à ce que les
+actifs sous-jacents à ces parts ou titres de créances soient, à tout moment,
+constitués, à hauteur de 90 % au moins, de créances de même nature que celles
+mentionnées aux articles L. 515-14 et L. 515-15 et à ce que ces parts ou titres
+de créances ne dépassent pas les limites fixées aux II et III.
