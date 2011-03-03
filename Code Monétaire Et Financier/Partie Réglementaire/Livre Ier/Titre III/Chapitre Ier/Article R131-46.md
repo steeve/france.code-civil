@@ -6,8 +6,7 @@ de rejet de ce chèque.
 
 Cette attestation indique que le tireur est privé de la faculté d'émettre des
 chèques et qu'il ne la recouvrera qu'à l'issue d'un délai de cinq ans si le
-montant du chèque n'est pas payé et, le cas échéant, la pénalité libératoire
-acquittée.
+montant du chèque n'est pas payé.
 
 Elle précise que le tiré n'est pas tenu de payer le chèque en application des 1
 et 2 du I de l'article L. 131-81 et de l'article L. 131-82. Si le chèque a été

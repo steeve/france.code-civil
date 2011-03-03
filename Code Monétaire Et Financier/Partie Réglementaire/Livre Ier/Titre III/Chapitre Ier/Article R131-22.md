@@ -3,8 +3,7 @@ Article R131-22
 Dans les cas autres que ceux prévus par les articles R. 131-20, R. 131-21 et R.
 131-21-1, la régularisation de l'incident est acquise lorsqu'est constituée, à
 la demande du tireur, une provision bloquée affectée au paiement effectif du
-chèque et que le tireur justifie auprès du tiré du paiement de la pénalité
-libératoire s'il en est redevable.
+chèque.
 
 La provision mentionnée au premier alinéa redevient disponible à l'issue d'un
 délai d'un an, si elle n'a pas été utilisée par l'effet d'une nouvelle

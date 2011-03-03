@@ -1,10 +1,9 @@
 Article R131-23
 ----
-Lorsqu'il a été procédé, selon les modalités prévues par le présent paragraphe,
-à la régularisation de tous les incidents survenus sur le compte, une
-attestation est remise ou adressée par le tiré au titulaire. Dans cette
-attestation sont mentionnés la régularisation et, le cas échéant, le montant des
-pénalités libératoires payées.
+Lorsqu'il a été procédé, selon les modalités prévues par la présente
+sous-section, à la régularisation de tous les incidents survenus sur le compte,
+un document attestant de cette régularisation est remis ou adressé par le tiré
+au titulaire.
 
 Le titulaire du compte est également informé de la situation dans laquelle il se
 trouve au regard des dispositions applicables en matière de prévention et de
