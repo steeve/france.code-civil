@@ -1,7 +1,7 @@
 Article R1111-15
 ----
 L'agrément est délivré aux hébergeurs de données de santé à caractère personnel
-pour une durée de trois ans.
+sur support informatique pour une durée de trois ans.
 
 La demande de renouvellement doit être déposée au plus tard six mois avant le
 terme de la période d'agrément. Elle comprend les documents mentionnés au 8° de

@@ -1,9 +1,9 @@
 Article R*1111-10
 ----
 L'agrément nécessaire à l'activité d'hébergement de données de santé à caractère
-personnel est délivré par le ministre chargé de la santé, qui se prononce après
-avis de la Commission nationale de l'informatique et des libertés et d'un comité
-d'agrément placé auprès de lui.
+personnel sur support informatique est délivré par le ministre chargé de la
+santé, qui se prononce après avis de la Commission nationale de l'informatique
+et des libertés et d'un comité d'agrément placé auprès de lui.
 
 A cet effet, la personne intéressée adresse au ministre chargé de la santé un
 dossier de demande d'agrément comprenant les éléments mentionnés à l'article R.
@@ -25,5 +25,5 @@ transmis par la Commission nationale de l'informatique et des libertés. Il peut
 toutefois demander un délai supplémentaire d'un mois.
 
 Le ministre chargé de la santé dispose, pour prendre sa décision, d'un délai de
-deux mois suivant l'avis du comité d'agrément. A l'issue de ce délai, son
-silence vaut décision de rejet.
+deux mois suivant l'avis du comité d'agrément.A l'issue de ce délai, son silence
+vaut décision de rejet.

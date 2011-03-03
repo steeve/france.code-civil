@@ -1,8 +1,9 @@
 Article R1111-9
 ----
 Toute personne physique ou morale souhaitant assurer l'hébergement de données de
-santé à caractère personnel, mentionné à l'article L. 1111-8, et bénéficier d'un
-agrément à ce titre doit remplir les conditions suivantes :
+santé à caractère personnel sur support informatique, mentionné à l'article L.
+1111-8, et bénéficier d'un agrément à ce titre doit remplir les conditions
+suivantes :
 
 1° Offrir toutes les garanties pour l'exercice de cette activité, notamment par
 le recours à des personnels qualifiés en matière de sécurité et d'archivage des
