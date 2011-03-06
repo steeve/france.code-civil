@@ -53,7 +53,7 @@ Fédération française de longue paume : Longue paume infos.
 
 Fédération française motonautique : La lettre motonautique.
 
-Fédération française de natation : Natation infos.
+Fédération française de natation : Natation magazine.
 
 Fédération française de parachutisme : FFP contacts.
 
