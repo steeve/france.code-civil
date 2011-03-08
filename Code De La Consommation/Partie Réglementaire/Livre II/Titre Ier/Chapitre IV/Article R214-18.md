@@ -13,10 +13,9 @@ certains dérivés époxydiques dans les matériaux et objets destinés à entre
 contact avec des denrées alimentaires ;
 
 3° Les dispositions des articles 1er à 7 du règlement (CE) n° 2023 / 2006 de la
-Commission du 22 décembre 2006 relatif aux bonnes pratiques de fabrication des
-matériaux et objets destinés à entrer en contact avec des denrées alimentaires
-et de son annexe, modifié par le règlement (CE) n° 282 / 2008 de la Commission
-du 27 mars 2008 ;
+Commission du 22 décembre 2006 modifié relatif aux bonnes pratiques de
+fabrication des matériaux et objets destinés à entrer en contact avec des
+denrées alimentaires et de son annexe ;
 
 4° Les dispositions des articles 2 et 3 du règlement (CE) n° 282 / 2008 de la
 Commission du 27 mars 2008 relatif aux matériaux et aux objets en matière
