@@ -6,7 +6,7 @@ prélèvements prévus à la convention mentionnée au premier alinéa de l'arti
 
 Un prélèvement de 5 % sur le résultat net de l'exercice est ensuite affecté à
 une réserve spécifique qui cesse d'être dotée lorsqu'elle atteint un montant
-égal au capital de la Banque de France.
+égal au double du capital de la Banque de France.
 
 Le conseil général décide enfin de la proposition d'affectation du solde du
 résultat net à toutes réserves extraordinaires ou spéciales, au report à nouveau
