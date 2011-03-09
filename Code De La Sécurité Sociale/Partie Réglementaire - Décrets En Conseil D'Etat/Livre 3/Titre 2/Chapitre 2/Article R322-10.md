@@ -10,7 +10,8 @@ a) Transports liés à une hospitalisation ;
 
 b) Transports liés aux traitements ou examens prescrits en application de
 l'article L. 324-1 pour les malades reconnus atteints d'une affection de longue
-durée ;
+durée et présentant l'une des déficiences ou incapacités définies par le
+référentiel de prescription mentionné à l'article R. 322-10-1 ;
 
 c) Transports par ambulance justifiés par l'état du malade dans les conditions
 prévues par l'arrêté mentionné à l'article R. 322-10-1 ;
@@ -27,7 +28,7 @@ kilomètres.
 sécurité sociale dans les cas suivants :
 
 a) Pour se rendre chez un fournisseur d'appareillage agréé pour la fourniture
-d'appareils mentionnés aux chapitres 5, 6 et 7 du titre II de la liste des
+d'appareils mentionnés aux chapitres 5,6 et 7 du titre II de la liste des
 produits et prestations établie en application de l'arrêté prévu à l'article R.
 165-1 ;
 
