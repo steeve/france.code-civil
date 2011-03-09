@@ -1,7 +1,7 @@
 Article D654-112-1
 ----
-I.-Conformément à l'article 18, paragraphe 1 sous b du règlement (CE) n° 1788 /
-2003 susvisé, un arrêté conjoint du ministre chargé de l'agriculture et du
+I.-Conformément à l'article 18, paragraphe 1 sous b du règlement (CE) n°
+1788/2003 susvisé, un arrêté conjoint du ministre chargé de l'agriculture et du
 ministre chargé du budget, pris après avis du conseil spécialisé compétent de
 FranceAgriMer, peut déterminer pour chaque campagne les modalités d'application
 d'un dispositif de transfert de quantités de référence laitière sans terre entre
@@ -23,15 +23,23 @@ barèmes fixés au litre de lait par l'arrêté mentionné au I du présent arti
 
 III.-(Abrogé).
 
-IV.-L'arrêté mentionné au I du présent article détermine pour chaque campagne
-les catégories de producteurs susceptibles d'accéder à ce dispositif ou définit
-les modalités de détermination au niveau départemental de ces catégories.
+IV.-Dans chaque bassin laitier, les catégories de producteurs susceptibles de
+bénéficier en priorité des transferts, parmi les catégories de producteurs
+définies au niveau national en application du I de l'article D. 654-61, sont
+arrêtées par le préfet coordonnateur mentionné à l'article R. * 654-114-1, après
+avis de la conférence de bassin laitier.
 
-Le préfet du département transmet à FranceAgriMer, après avis de la commission
-départementale d'orientation de l'agriculture, la liste nominative des
-producteurs au bénéfice desquels une attribution est proposée ainsi que le
-montant des quantités qui peut leur être attribué, compte tenu des
-disponibilités.
+Les producteurs demandeurs de quotas adressent au préfet du département du siège
+de leur exploitation une demande écrite, selon des modalités fixées par l'arrêté
+mentionné au I.
+
+Le préfet de département instruit les demandes au regard des critères de
+priorité définis au premier alinéa.
+
+Le préfet coordonnateur mentionné à l'article R.* 654-114-1 transmet à
+FranceAgriMer, après avis de la conférence de bassin laitier, la liste
+nominative des producteurs attributaires ainsi que le montant des quantités qui
+peut leur être attribué, compte tenu des disponibilités.
 
 V.-Le transfert ne devient effectif qu'après encaissement par FranceAgriMer du
 paiement du producteur attributaire.
