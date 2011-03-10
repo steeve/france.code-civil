@@ -1,34 +1,54 @@
 Article 266 bis
 ----
-I. Au plus tard dans les trois mois qui suivent l'expiration du délai de quatre
-ans visé au II du A de l'article 1594-0 G du code général des impôts l'acquéreur
-doit produire un certificat du maire de la commune de la situation des biens
-attestant que les immeubles créés achevés ou construits en surélévation sont en
-situation d'être habités ou utilisés dans toutes leurs parties. Le certificat
-précise si les immeubles sont ou non affectés à l'habitation pour les trois
-quarts au moins de leur superficie totale. Il mentionne en outre la date de
-délivrance du permis de construire la date d'achèvement des travaux et la date
-de délivrance du certificat de conformité.
+I.-La justification de l'exécution des travaux prévus au I du A de l'article
+1594-0 G du code général des impôts résulte du dépôt de la déclaration spéciale
+mentionnée au I de l'article 244 de l'annexe II au même code.
 
-II. Lorsque le terrain acquis est destiné à la construction d'une maison
-individuelle et que sa superficie excède 2 500 mètres carrés l'exonération
-prévue au A de l'article 1594-0 G du code général des impôts s'applique à une
-fraction du prix d'acquisition égale au rapport existant entre 2 500 mètres
-carrés et la superficie totale du terrain.
+II.-Lorsque l'engagement mentionné au I du A de l'article 1594-0 G du code
+général des impôts porte sur la construction de maisons individuelles et que la
+superficie du terrain acquis excède celle pour laquelle l'exonération est
+applicable aux termes du premier alinéa du III du A de l'article précité,
+l'exonération s'applique à une fraction du prix d'acquisition égale au rapport
+entre la superficie pour laquelle elle est applicable et celle du terrain
+acquis.
 
-En cas d'acquisition d'un terrain destiné à la construction d'un ensemble de
-maisons individuelles la limite de 2 500 mètres carrés prévue ci-dessus
-s'applique à chaque maison.
+Lorsque l'engagement mentionné à l'alinéa précédent porte sur la surélévation
+d'un immeuble bâti existant, l'exonération s'applique à une fraction du prix
+d'acquisition égale au rapport entre, d'une part, la surface hors œuvre brute
+des locaux résultant de la surélévation et, d'autre part, la somme de cette
+dernière surface et de la surface hors œuvre brute de l'immeuble acquis.
 
-III. - La demande de prolongation du délai prévue au IV et au IV bis du A de
-l'article 1594-0 G du code général des impôts doit être formulée au plus tard
-dans le mois qui suit l'expiration du délai précédemment imparti. Elle doit être
-motivée et énoncer le délai supplémentaire normalement nécessaire à la bonne fin
-des travaux entrepris.
+III.-L'engagement mentionné au I du A de l'article 1594-0 G du code général des
+impôts précise l'objet et la consistance des travaux sur lesquels il porte. La
+demande de prorogation du délai prévue au IV du A de l'article précité doit être
+formulée au plus tard dans le mois qui suit l'expiration du délai précédemment
+imparti. Elle doit être adressée par pli recommandé avec demande d'avis de
+réception postale, être motivée et préciser la consistance des travaux prévus
+dans l'engagement primitif sur lesquels porte la prorogation demandée ainsi que
+le montant des droits dont l'exonération est subordonnée à leur exécution.
 
-La prorogation susceptible d'être accordée peut être renouvelée dans les mêmes
-conditions.
+IV.-La demande de prorogation du délai prévue au IV bis du A de l'article 1594-0
+G du code général des impôts doit être formulée au plus tard dans le mois qui
+suit l'expiration du délai précédemment imparti. Elle doit être adressée par pli
+recommandé avec demande d'avis de réception postale, être motivée et préciser la
+consistance des immeubles sur lesquels porte la prorogation demandée ainsi que
+le montant des droits dont l'exonération est subordonnée à leur revente.
 
-Lorsqu'une prolongation a été accordée, le certificat prévu au I doit être
-fourni dans les trois mois qui suivent l'expiration du délai finalement imparti
-pour la construction.
+V.-La substitution d'un engagement de construire à un engagement de revendre
+telle que prévue au troisième alinéa du II du A de l'article 1594-0 G du code
+général des impôts résulte de l'envoi au service des impôts par pli recommandé
+avec demande d'avis de réception postale d'une déclaration faisant référence à
+la date et au numéro d'enregistrement et de publication de l'acte de mutation
+comportant l'engagement de revendre auquel se substitue le nouvel engagement. La
+déclaration précise l'objet et la consistance des travaux prévus par cet
+engagement ainsi que le montant des droits dont l'exonération est subordonnée à
+leur exécution.
+
+VI.-La substitution d'un engagement de revendre à un engagement de construire
+telle que prévue au deuxième alinéa du II du A de l'article 1594-0 G du code
+général des impôts résulte de l'enregistrement dans les conditions mentionnées
+au 1° du 1 de l'article 635 du code précité d'un acte complémentaire à l'acte de
+mutation comportant l'engagement d'origine auquel se substitue le nouvel
+engagement. Cet acte précise l'objet et la consistance des travaux auxquels il
+est renoncé ainsi que la valeur de l'acquisition pour laquelle est sollicité le
+bénéfice des dispositions de l'article 1115 du même code.
