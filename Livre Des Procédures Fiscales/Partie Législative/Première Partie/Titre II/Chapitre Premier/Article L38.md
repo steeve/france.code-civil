@@ -4,10 +4,18 @@ Article L38
 titre III de la première partie du livre Ier du code général des impôts et aux
 législations édictant les mêmes règles en matière de procédure et de
 recouvrement, les agents habilités à cet effet par le ministre chargé des
-douanes, peuvent effectuer des visites en tous lieux, même privés, où les
-pièces, documents, objets ou marchandises se rapportant à ces infractions sont
+douanes peuvent procéder à des visites en tous lieux, même privés, où les
+pièces, documents, objets ou marchandises se rapportant à ces infractions ainsi
+que les biens et avoirs en provenant directement ou indirectement sont
 susceptibles d'être détenus et procéder à leur saisie, quel qu'en soit le
 support. Ils sont accompagnés d'un officier de police judiciaire.
+
+Les agents habilités peuvent procéder, à l'occasion de la visite, à la saisie
+des pièces et documents, quel qu'en soit le support, ainsi que des objets ou des
+marchandises se rapportant aux infractions précitées. Ils peuvent saisir les
+biens et avoirs provenant directement ou indirectement des infractions précitées
+uniquement dans le cas de visites autorisées en application du 2 du présent
+article.
 
 2. Hormis les cas de flagrance, chaque visite doit être autorisée par une
 ordonnance du juge des libertés et de la détention du tribunal de grande
@@ -36,7 +44,9 @@ visite et de saisie.
 
 Le juge motive sa décision par l'indication des éléments de fait et de droit
 qu'il retient et qui laissent présumer, en l'espèce, l'existence des infractions
-dont la preuve est recherchée.
+dont la preuve est recherchée. Il se prononce par une mention expresse sur la
+saisie de biens et avoirs pouvant provenir directement ou indirectement des
+infractions dont la preuve est recherchée.
 
 Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un
 coffre dans un établissement de crédit dont la personne occupant les lieux
@@ -46,7 +56,18 @@ peuvent, sur autorisation délivrée par tout moyen par le juge qui a pris
 l'ordonnance, procéder immédiatement à la visite de ce coffre. Mention de cette
 autorisation est portée au procès-verbal prévu au 4.
 
+Si, à l'occasion de la visite, les agents habilités découvrent des éléments
+révélant l'existence en d'autres lieux de biens ou avoirs se rapportant aux
+infractions visées au 1, ils peuvent, sur autorisation délivrée par tout moyen
+par le juge qui a pris l'ordonnance, procéder immédiatement à la visite de ces
+lieux aux fins de saisir ces biens et avoirs. Mention de cette autorisation est
+portée au procès-verbal prévu au 4.
+
 La visite s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée.
+Lorsqu'elle a lieu en dehors du ressort de son tribunal de grande instance, il
+délivre une commission rogatoire, pour exercer ce contrôle, au juge des libertés
+et de la détention du tribunal de grande instance dans le ressort duquel
+s'effectue la visite.
 
 Il peut se rendre dans les locaux pendant l'intervention.
 
@@ -104,16 +125,18 @@ applicable.
 
 4. Le procès-verbal de visite relatant les modalités et le déroulement de
 l'opération est dressé sur-le-champ par les agents de l'administration des
-douanes et droits indirects. Un inventaire des pièces et documents saisis lui
-est annexé. Le procès-verbal et l'inventaire sont signés par les agents de
-l'administration des douanes et droits indirects et par l'officier de police
-judiciaire ainsi que par les personnes mentionnées au premier alinéa du 3
-ci-dessus ; en cas de refus de signer, mention en est faite au procès-verbal.
+douanes et droits indirects. Un inventaire des pièces et documents saisis, ainsi
+que des biens et avoirs provenant directement ou indirectement des infractions
+dont la preuve est recherchée, lui est annexé. Le procès-verbal et l'inventaire
+sont signés par les agents de l'administration des douanes et droits indirects
+et par l'officier de police judiciaire ainsi que par les personnes mentionnées
+au premier alinéa du 3 ci-dessus ; en cas de refus de signer, mention en est
+faite au procès-verbal.
 
-Si l'inventaire sur place présente des difficultés, les pièces et documents
-saisis sont placés sous scellés. L'occupant des lieux ou son représentant est
-avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de
-l'officier de police judiciaire ; l'inventaire est alors établi.
+Si l'inventaire sur place présente des difficultés, les pièces, documents, biens
+et avoirs saisis sont placés sous scellés.L'occupant des lieux ou son
+représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu
+en présence de l'officier de police judiciaire ; l'inventaire est alors établi.
 
 5. Les originaux du procès-verbal de visite et de l'inventaire sont, dès qu'ils
 ont été établis, adressés au juge qui a délivré l'ordonnance ; une copie de ces
@@ -121,6 +144,11 @@ mêmes documents est remise à l'occupant des lieux ou à son représentant. Une
 copie est également adressée par lettre recommandée avec demande d'avis de
 réception à l'auteur présumé des infractions mentionnées au 1, nonobstant les
 dispositions de l'article L. 103.
+
+Si le juge constate que les biens et avoirs saisis ne proviennent pas
+directement ou indirectement des infractions dont la preuve est recherchée, il
+ordonne la mainlevée de la saisie et la restitution des biens et avoirs
+concernés.
 
 Les pièces et documents saisis sont restitués à l'occupant des lieux après
 exécution de la transaction consécutive à la rédaction du procès-verbal de

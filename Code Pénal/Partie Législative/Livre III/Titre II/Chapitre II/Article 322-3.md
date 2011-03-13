@@ -38,9 +38,17 @@ dans les lieux par ruse, effraction ou escalade ;
 de la défense nationale ;
 
 7° Lorsqu'elle est commise par une personne dissimulant volontairement en tout
-ou partie son visage afin de ne pas être identifiée.
+ou partie son visage afin de ne pas être identifiée ;
+
+8° Lorsque le bien détruit, dégradé ou détérioré est destiné à l'utilité ou à la
+décoration publique et appartient à une personne publique ou chargée d'une
+mission de service public.
 
 Lorsque l'infraction définie au premier alinéa de l'article 322-1 est commise à
 l'encontre d'un établissement scolaire, éducatif ou de loisirs ou d'un véhicule
 transportant des enfants, les peines encourues sont également portées à cinq ans
 d'emprisonnement et à 75 000 euros d'amende.
+
+Les peines sont portées à sept ans d'emprisonnement et 100 000 € d'amende
+lorsque l'infraction définie au premier alinéa de l'article 322-1 est commise
+dans deux des circonstances prévues aux 1° et suivants du présent article.

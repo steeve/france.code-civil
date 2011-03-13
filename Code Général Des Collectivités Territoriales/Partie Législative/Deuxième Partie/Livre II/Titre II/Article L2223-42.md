@@ -20,3 +20,11 @@ et l'Institut de veille sanitaire ;
 2° Pour l'établissement de la statistique nationale des causes de décès et pour
 la recherche en santé publique par l'Institut national de la santé et de la
 recherche médicale.
+
+En outre, si lors de l'établissement de l'acte de décès mentionné à l'article 87
+du code civil l'identité du défunt n'a pu être établie, l'autorisation de
+fermeture du cercueil ne peut être délivrée qu'après exécution, dans un délai
+compatible avec les délais régissant l'inhumation et la crémation, des
+réquisitions éventuellement prises par le procureur de la République aux fins de
+faire procéder aux constatations et opérations nécessaires en vue d'établir
+l'identité du défunt.

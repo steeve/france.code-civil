@@ -20,13 +20,6 @@ mission d'intérêt général ;
 
 c) Le bien est confié à titre gratuit à l'Etat.
 
-Constituent également des opérations ouvrant droit à une attribution du Fonds de
-compensation pour la taxe sur la valeur ajoutée les constructions mises en
-chantier, acquises à l'état neuf ou ayant fait l'objet d'une rénovation,
-mentionnées à l'article L. 1311-4-1, pour lesquelles les travaux ont reçu un
-commencement d'exécution au plus tard le 31 décembre 2007 et qui sont mises à
-disposition de l'Etat à titre gratuit.
-
 Les communes et les établissements publics de coopération intercommunale
 bénéficient des attributions du Fonds de compensation pour la taxe sur la valeur
 ajoutée au titre des dépenses d'investissement exposées sur leurs

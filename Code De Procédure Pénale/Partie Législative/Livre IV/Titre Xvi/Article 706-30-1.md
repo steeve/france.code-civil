@@ -1,6 +1,6 @@
 Article 706-30-1
 ----
-Lorsqu'il est fait application des dispositions du troisième alinéa de l'article
+Lorsqu'il est fait application des dispositions du quatrième alinéa de l'article
 99-2 à des substances stupéfiantes saisies au cours de la procédure, le juge
 d'instruction doit conserver un échantillon de ces produits afin de permettre,
 le cas échéant, qu'ils fassent l'objet d'une expertise. Cet échantillon est

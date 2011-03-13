@@ -31,7 +31,7 @@ charge des usagers ;
 
 ― les acquisitions, aliénations, échanges d'immeubles et leur affectation, les
 baux de plus de dix-huit ans, les baux emphytéotiques et les contrats de
-partenariat mentionnés aux articles L. 6148-2 et L. 6148-3 ;
+partenariat mentionnés à l'article L. 6148-2 ;
 
 ― le règlement intérieur de l'établissement.
 

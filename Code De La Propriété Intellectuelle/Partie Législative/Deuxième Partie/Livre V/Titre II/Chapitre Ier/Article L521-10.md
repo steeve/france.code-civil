@@ -2,9 +2,10 @@ Article L521-10
 ----
 Toute atteinte portée sciemment aux droits garantis par le présent livre est
 punie de trois ans d'emprisonnement et de 300 000 euros d'amende. Lorsque le
-délit a été commis en bande organisée ou lorsque les faits portent sur des
-marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les
-peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+délit a été commis en bande organisée ou sur un réseau de communication au
+public en ligne ou lorsque les faits portent sur des marchandises dangereuses
+pour la santé, la sécurité de l'homme ou l'animal, les peines sont portées à
+cinq ans d'emprisonnement et à 500 000 euros d'amende.
 
 En outre, la juridiction peut ordonner la fermeture totale ou partielle,
 définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement

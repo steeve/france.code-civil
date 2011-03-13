@@ -1,7 +1,7 @@
 Article 67 bis
 ----
-I. - Sans préjudice de l'application des dispositions des articles 60, 61, 62,
-63, 63 bis, 63 ter et 64, afin de constater les délits douaniers, si la peine
+I.-Sans préjudice de l'application des dispositions des articles 60, 61, 62, 63,
+63 bis, 63 ter et 64, afin de constater les délits douaniers, si la peine
 encourue est égale ou supérieure à deux ans d'emprisonnement, les agents des
 douanes habilités par le ministre chargé des douanes dans des conditions fixées
 par décret procèdent sur l'ensemble du territoire national, après en avoir
@@ -20,17 +20,26 @@ instance dans le ressort duquel les opérations de surveillance sont susceptible
 de débuter ou au procureur de la République saisi en application des
 dispositions de l'article 706-76 du code de procédure pénale.
 
-II. - Lorsque les investigations le justifient et afin de constater les
+II.-Lorsque les investigations le justifient et afin de constater les
 infractions douanières d'importation, d'exportation ou de détention de
 substances ou plantes classées comme stupéfiants, de contrebande de tabac
-manufacturé, d'alcool et spiritueux, et de contrefaçon de marque, ainsi que
-celles prévues à l'article 415 du présent code et aux articles L. 716-9 à L.
-716-11 du code de la propriété intellectuelle, d'identifier les auteurs et
-complices de ces infractions ainsi que ceux qui y ont participé comme intéressés
-au sens de l'article 399 du présent code et d'effectuer les saisies prévues par
-le présent code, le procureur de la République peut autoriser qu'il soit
-procédé, sous son contrôle, à une opération d'infiltration dans les conditions
-prévues par le présent article.
+manufacturé, d'alcool et spiritueux, ainsi que celles prévues à l'article 415 du
+présent code, d'identifier les auteurs et complices de ces infractions ainsi que
+ceux qui y ont participé comme intéressés au sens de l'article 399 du présent
+code et d'effectuer les saisies prévues par le présent code, le procureur de la
+République peut autoriser qu'il soit procédé, sous son contrôle, à une opération
+d'infiltration dans les conditions prévues par le présent article.
+
+Le premier alinéa est applicable aux fins de constatation des infractions visées
+à l'article 414 lorsqu'elles portent sur des marchandises présentées sous une
+marque contrefaisante ou incorporant un dessin ou modèle tel que mentionné à
+l'article L. 513-4 du code de la propriété intellectuelle et tel que visé par
+l'article 19 du règlement (CE) n° 6/2002 du Conseil, du 12 décembre 2001, sur
+les dessins ou modèles communautaires, sur des marchandises contrefaisant un
+droit d'auteur, des droits voisins ou un brevet tels que mentionnés aux articles
+L. 335-2 à L. 335-4, L. 613-3 et L. 613-5 du code de la propriété intellectuelle
+ainsi que des infractions prévues aux articles L. 716-9 à L. 716-11 du même
+code.
 
 L'infiltration consiste, pour un agent des douanes spécialement habilité dans
 des conditions fixées par décret, agissant sous la responsabilité d'un agent de
@@ -47,9 +56,9 @@ coordonné l'opération qui comprend les éléments strictement nécessaires à 
 constatation des infractions et ne mettant pas en danger la sécurité de l'agent
 infiltré et des personnes requises au sens du III.
 
-III. - Les agents des douanes autorisés à procéder à une opération
-d'infiltration peuvent, sans être pénalement responsables de ces actes et sur
-l'ensemble du territoire national :
+III.-Les agents des douanes autorisés à procéder à une opération d'infiltration
+peuvent, sans être pénalement responsables de ces actes et sur l'ensemble du
+territoire national :
 
 a) Acquérir, détenir, transporter, livrer ou délivrer des substances, biens,
 produits, documents ou informations tirés de la commission des infractions ;
@@ -63,8 +72,8 @@ applicable, pour les actes commis à seule fin de procéder à l'opération
 d'infiltration, aux personnes requises par les agents des douanes pour permettre
 la réalisation de cette opération.
 
-IV. - A peine de nullité, l'autorisation donnée en application du II est
-délivrée par écrit et doit être spécialement motivée.
+IV.-A peine de nullité, l'autorisation donnée en application du II est délivrée
+par écrit et doit être spécialement motivée.
 
 Elle mentionne la ou les infractions qui justifient le recours à cette procédure
 et l'identité de l'agent des douanes sous la responsabilité duquel se déroule
@@ -78,25 +87,25 @@ moment, ordonner son interruption avant l'expiration de la durée fixée.
 L'autorisation est versée au dossier de la procédure après achèvement de
 l'opération d'infiltration.
 
-V. - L'identité réelle des agents des douanes ayant effectué l'infiltration sous
+V.-L'identité réelle des agents des douanes ayant effectué l'infiltration sous
 une identité d'emprunt ne doit apparaître à aucun stade de la procédure.
 
 La révélation de l'identité de ces agents est punie de cinq ans d'emprisonnement
-et de 75000 euros d'amende.
+et de 75 000 euros d'amende.
 
 Lorsque cette révélation a causé des violences, coups et blessures à l'encontre
 de ces personnes ou de leurs conjoints, enfants et ascendants directs, les
-peines sont portées à sept ans d'emprisonnement et à 100000 euros d'amende.
+peines sont portées à sept ans d'emprisonnement et à 100 000 euros d'amende.
 
 Lorsque cette révélation a causé la mort de ces personnes ou de leurs conjoints,
 enfants et ascendants directs, les peines sont portées à dix ans
-d'emprisonnement et à 150000 euros d'amende, sans préjudice, le cas échéant, de
+d'emprisonnement et à 150 000 euros d'amende, sans préjudice, le cas échéant, de
 l'application des dispositions du chapitre Ier du titre II du livre II du code
 pénal.
 
-VI. - En cas de décision d'interruption de l'opération ou à l'issue du délai
-fixé par la décision autorisant l'opération et en l'absence de prolongation,
-l'agent infiltré peut poursuivre les activités mentionnées au III, sans en être
+VI.-En cas de décision d'interruption de l'opération ou à l'issue du délai fixé
+par la décision autorisant l'opération et en l'absence de prolongation, l'agent
+infiltré peut poursuivre les activités mentionnées au III, sans en être
 pénalement responsable, afin de lui permettre de cesser sa surveillance dans des
 conditions assurant sa sécurité sans que cette durée puisse excéder quatre mois.
 Le magistrat ayant délivré l'autorisation prévue au II en est informé dans les
@@ -104,7 +113,7 @@ meilleurs délais. Si, à l'issue du délai de quatre mois, l'agent infiltré ne
 peut cesser sa surveillance dans des conditions assurant sa sécurité, ce
 magistrat en autorise la prolongation pour une durée de quatre mois au plus.
 
-VII. - L'agent des douanes sous la responsabilité duquel se déroule l'opération
+VII.-L'agent des douanes sous la responsabilité duquel se déroule l'opération
 d'infiltration peut seul être entendu en qualité de témoin sur l'opération.
 
 Toutefois, s'il ressort du rapport mentionné au II que la personne mise en
@@ -118,7 +127,7 @@ Les questions posées à l'agent infiltré à l'occasion de cette confrontation 
 doivent pas avoir pour objet ni pour effet de révéler, directement ou
 indirectement, sa véritable identité.
 
-VIII. - Lorsque la surveillance prévue au I doit être poursuivie dans un Etat
+VIII.-Lorsque la surveillance prévue au I doit être poursuivie dans un Etat
 étranger, elle est autorisée par le procureur de la République. Les
 procès-verbaux d'exécution de l'observation ou rapports y afférents ainsi que
 l'autorisation d'en poursuivre l'exécution sur le territoire d'un Etat étranger
@@ -143,7 +152,7 @@ conformément aux dispositions du présent article, participer sous la direction
 d'agents des douanes français à des opérations d'infiltration conduites sur le
 territoire de la République dans le cadre d'une procédure douanière nationale.
 
-IX. - Aucune condamnation ne peut être prononcée sur le seul fondement de
+IX.-Aucune condamnation ne peut être prononcée sur le seul fondement de
 déclarations faites par des agents des douanes ayant procédé à une infiltration.
 
 Les dispositions du présent IX ne sont cependant pas applicables lorsque les

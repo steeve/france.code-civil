@@ -19,8 +19,8 @@ l'article L. 2339-9 du code de la défense ;
 15°), 222-16, 222-17, 222-18, 222-32, 225-10-1, 227-3 à 227-11, 311-3, 311-4 (1°
 à 11°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4-1, 322-12, 322-13, 322-14,
 431-22 à 431-24, 433-3, premier et deuxième alinéas, 433-5, 433-6 à 433-8,
-premier alinéa, 433-10, premier alinéa, et 521-1 du code pénal et L. 628 du code
-de la santé publique ;
+premier alinéa, 433-10, premier alinéa, 446-1, 446-2 et 521-1 du code pénal et
+L. 628 du code de la santé publique ;
 
 6° Les délits prévus par le code de l'environnement en matière de chasse, de
 pêche en eau douce, de pêche maritime, de protection de la faune et de la flore,

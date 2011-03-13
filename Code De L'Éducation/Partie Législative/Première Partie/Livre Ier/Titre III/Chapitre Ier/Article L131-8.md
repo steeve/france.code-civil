@@ -33,9 +33,8 @@ d'accompagnement que le président du conseil général pourrait proposer aux
 familles en application de l'article L. 222-4-1 du code de l'action sociale et
 des familles.
 
-Il communique trimestriellement au maire la liste des élèves domiciliés dans la
-commune pour lesquels un avertissement tel que défini au présent article a été
-notifié.
+Il communique au maire la liste des élèves domiciliés dans la commune pour
+lesquels un avertissement tel que défini au présent article a été notifié.
 
 Les informations communiquées au maire en application du présent article sont
 enregistrées dans le traitement prévu à l'article L. 131-6.

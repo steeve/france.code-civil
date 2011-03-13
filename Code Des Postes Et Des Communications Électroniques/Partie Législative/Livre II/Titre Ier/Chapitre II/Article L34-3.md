@@ -5,7 +5,10 @@ public ou fournissant des services de radiocommunication au public sont tenus de
 mettre en oeuvre les dispositifs techniques destinés à interdire, à l'exception
 des numéros d'urgence, l'accès à leurs réseaux ou à leurs services des
 communications émises au moyen de terminaux mobiles, identifiés et qui leur ont
-été déclarés volés.
+été déclarés volés. Ces terminaux doivent être bloqués dans un délai de quatre
+jours ouvrés à compter de la réception par l'opérateur concerné de la
+déclaration officielle de vol, transmise par les services de police ou de
+gendarmerie.
 
 Toutefois, l'officier de police judiciaire peut requérir des opérateurs, après
 accord donné par le procureur de la République ou le juge d'instruction, de ne

@@ -20,7 +20,13 @@ eu connaissance de la citation, sauf s'il est jugé en son absence dans les
 conditions prévues par les premier et deuxième alinéas de l'article 411 du code
 de procédure pénale. Cette majoration ne s'applique pas si le condamné
 s'acquitte volontairement du montant du droit fixe de procédure dans un délai
-d'un mois à compter de la date où il a eu connaissance de la décision ;
+d'un mois à compter de la date où il a eu connaissance de la décision. Lorsque
+la personne a été condamnée pour le délit de conduite sous l'influence de
+produits stupéfiants prévu par l'article L. 235-1 du code de la route, le droit
+fixe de procédure est augmenté d'une somme fixée par décret en Conseil d'Etat,
+afin que le montant total du droit fixe soit égal au montant, arrondi à la
+dizaine inférieure, des indemnités maximales allouées aux personnes effectuant
+des analyses toxicologiques ;
 
 4° 120 euros pour les décisions des cours d'appel statuant en matière
 correctionnelle et de police ;

@@ -19,3 +19,6 @@ La réalité d'une infraction entraînant retrait de points est établie par le
 paiement d'une amende forfaitaire ou l'émission du titre exécutoire de l'amende
 forfaitaire majorée, l'exécution d'une composition pénale ou par une
 condamnation définitive.
+
+Le premier alinéa de l'article L. 223-6 n'est pas applicable pendant le délai
+probatoire mentionné au deuxième alinéa du présent article.

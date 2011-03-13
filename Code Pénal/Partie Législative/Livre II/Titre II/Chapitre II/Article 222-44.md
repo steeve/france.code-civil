@@ -55,7 +55,27 @@ commettre l'infraction, s'il en est le propriétaire ;
 
 11° La confiscation de l'animal ayant été utilisé pour commettre l'infraction ;
 
-12° L'interdiction, à titre définitif ou temporaire, de détenir un animal.
+12° L'interdiction, à titre définitif ou temporaire, de détenir un animal ;
+
+13° Dans les cas prévus par les articles 222-19-1 et 222-20-1, la confiscation
+du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en
+est le propriétaire. La confiscation du véhicule est obligatoire dans les cas
+prévus par les 4° et dernier alinéa de ces articles ainsi que, dans les cas
+prévus par les 2°,3° et 5° des mêmes articles, en cas de récidive ou si la
+personne a déjà été définitivement condamnée pour un des délits prévus par les
+articles L. 221-2, L. 224-16, L. 234-1, L. 234-8, L. 235-1, L. 235-3, L. 413-1
+du code de la route ou pour la contravention mentionnée à ce même article L.
+413-1. La juridiction peut toutefois ne pas prononcer cette peine, par une
+décision spécialement motivée ;
+
+14° Dans les cas prévus par les 2° et dernier alinéa des articles 222-19-1 et
+222-20-1 du présent code, l'interdiction, pendant une durée de cinq ans au plus,
+de conduire un véhicule qui ne soit pas équipé par un professionnel agréé ou par
+construction d'un dispositif d'anti-démarrage par éthylotest électronique,
+homologué dans les conditions prévues à l'article L. 234-17 du code de la route.
+Lorsque cette interdiction est prononcée en même temps que la peine d'annulation
+ou de suspension du permis de conduire, elle s'applique, pour la durée fixée par
+la juridiction, à l'issue de l'exécution de cette peine.
 
 Toute condamnation pour les délits prévus par les 1° à 6° et le dernier alinéa
 de l'article 222-19-1 donne lieu de plein droit à l'annulation du permis de

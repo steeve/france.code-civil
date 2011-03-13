@@ -6,4 +6,7 @@ décès, quel que soit le temps écoulé entre le décès et la découverte du c
 
 Si le défunt ne peut être identifié, l'acte de décès doit comporter son
 signalement le plus complet ; en cas d'identification ultérieure, l'acte est
-rectifié dans les conditions prévues à l'article 99 du présent code.
+rectifié dans les conditions prévues à l'article 99 du présent code. L'officier
+d'état civil informe sans délai le procureur de la République du décès, afin
+qu'il puisse prendre les réquisitions nécessaires aux fins d'établir l'identité
+du défunt.

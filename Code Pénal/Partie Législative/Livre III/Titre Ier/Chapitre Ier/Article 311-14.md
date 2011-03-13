@@ -14,7 +14,7 @@ diriger, d'administrer, de gérer ou de contrôler à un titre quelconque,
 directement ou indirectement, pour son propre compte ou pour le compte d'autrui,
 une entreprise commerciale ou industrielle ou une société commerciale, cette
 interdiction étant définitive ou provisoire dans les cas prévus aux articles
-311-6 à 311-10 et pour une durée de cinq ans au plus dans les cas prévus aux
+311-5 à 311-10 et pour une durée de cinq ans au plus dans les cas prévus aux
 articles 311-3 à 311-5. Ces interdictions d'exercice peuvent être prononcées
 cumulativement ;
 
@@ -26,7 +26,7 @@ l'infraction ou de la chose qui en est le produit, à l'exception des objets
 susceptibles de restitution ;
 
 5° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31,
-dans les cas prévus par les articles 311-6 à 311-10 ;
+dans les cas prévus par les articles 311-5 à 311-10 ;
 
 6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues
 par l'article 131-5-1.

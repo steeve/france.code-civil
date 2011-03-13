@@ -1,6 +1,6 @@
 Article L234-2
 ----
-I. - Toute personne coupable de l'un des délits prévus à l'article L. 234-1
+I.-Toute personne coupable de l'un des délits prévus à l'article L. 234-1
 encourt également les peines complémentaires suivantes :
 
 1° La suspension, pour une durée de trois ans au plus, du permis de conduire,
@@ -23,7 +23,14 @@ ceux pour la conduite desquels le permis de conduire n'est pas exigé, pour une
 durée de cinq ans au plus ;
 
 6° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la
-sécurité routière.
+sécurité routière ;
 
-II. - La suspension du permis de conduire prévue au présent article ne peut être
+7° L'interdiction, pendant une durée de cinq ans au plus, de conduire un
+véhicule qui ne soit pas équipé par un professionnel agréé ou par construction
+d'un dispositif homologué d'anti-démarrage par éthylotest électronique. Lorsque
+cette interdiction est prononcée en même temps que la peine d'annulation ou de
+suspension du permis de conduire, elle s'applique, pour la durée fixée par la
+juridiction, à l'issue de l'exécution de cette peine.
+
+II.-La suspension du permis de conduire prévue au présent article ne peut être
 assortie du sursis, même partiellement.

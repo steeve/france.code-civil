@@ -1,9 +1,9 @@
 Article 1810
 ----
 Indépendamment des pénalités prévues aux articles 1791 à 1794, les infractions
-visées ci-après sont punies d'une peine de six mois d'emprisonnement, et les
-moyens de transport sont saisis et confisqués, ainsi que les récipients,
-emballages, ustensiles, mécaniques, machines ou appareil :
+visées ci-après sont punies d'une peine d'un an d'emprisonnement, et les moyens
+de transport sont saisis et confisqués, ainsi que les récipients, emballages,
+ustensiles, mécaniques, machines ou appareil :
 
 1° fabrication, transport, vente et détention sans déclaration d'alambic ou
 portion d'alambic.

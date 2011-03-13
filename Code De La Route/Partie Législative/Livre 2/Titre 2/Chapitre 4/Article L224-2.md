@@ -24,3 +24,13 @@ se soumettre aux épreuves de vérification prévues par l'article L. 235-2.
 Lorsque le dépassement de 40 km/h ou plus de la vitesse maximale autorisée est
 établi au moyen d'un appareil homologué et lorsque le véhicule est intercepté,
 les dispositions du présent article sont applicables au conducteur.
+
+Elles sont également applicables lorsque le permis a été retenu à la suite d'un
+accident de la circulation ayant entraîné la mort d'une personne, en application
+du dernier alinéa de l'article L. 224-1, en cas de procès-verbal constatant que
+le conducteur a commis une infraction en matière de respect des vitesses
+maximales autorisées ou des règles de croisement, de dépassement, d'intersection
+et de priorités de passage.
+
+En cas d'accident de la circulation ayant entraîné la mort d'une personne, la
+durée de la suspension du permis de conduire peut être portée à un an.

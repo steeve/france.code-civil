@@ -14,6 +14,7 @@ c) De donner des instructions ou des ordres pour la commission des actes visés
 aux a et b.
 
 Lorsque les délits prévus au présent article ont été commis en bande organisée
-ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la
-sécurité de l'homme ou l'animal, les peines sont portées à cinq ans
-d'emprisonnement et à 500 000 euros d'amende.
+ou sur un réseau de communication au public en ligne ou lorsque les faits
+portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme
+ou l'animal, les peines sont portées à cinq ans d'emprisonnement et à 500 000
+euros d'amende.

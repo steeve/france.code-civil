@@ -1,11 +1,19 @@
 Article 41
 ----
 1. Pour la recherche et la constatation des délits douaniers visés aux articles
-282 à 291 et 321 du présent code, les agents des douanes habilités à cet effet
-par le ministre chargé des douanes peuvent procéder à des visites en tous lieux,
-même privés, où les marchandises et documents se rapportant à ces délits sont
-susceptibles d'être détenus et procéder à leur saisie quel qu'en soit le
-support. Ils sont accompagnés d'un officier de police judiciaire.
+282 à 291 et 321, les agents des douanes habilités à cet effet par le ministre
+chargé des douanes peuvent procéder à des visites en tous lieux, même privés, où
+les marchandises et documents se rapportant à ces délits ainsi que les biens et
+avoirs en provenant directement ou indirectement sont susceptibles d'être
+détenus. Ils sont accompagnés d'un officier de police judiciaire.
+
+Les agents des douanes habilités peuvent procéder, à l'occasion de la visite, à
+la saisie des marchandises et des documents, quel qu'en soit le support, se
+rapportant aux délits précités. Si, à l'occasion d'une visite autorisée en
+application du 2 du présent article, les agents habilités découvrent des biens
+et avoirs provenant directement ou indirectement des délits précités, ils
+peuvent procéder à leur saisie après en avoir informé par tout moyen le juge qui
+a pris l'ordonnance et qui peut s'y opposer.
 
 2. a) Hormis le cas de flagrant délit, chaque visite doit être autorisée par une
 ordonnance du juge de la liberté et de la détention du tribunal de grande
@@ -28,7 +36,9 @@ visite et de saisie.
 
 Le juge motive sa décision par l'indication des éléments de fait et de droit
 qu'il retient et qui laissent présumer, en l'espèce, l'existence des agissements
-frauduleux dont la preuve est recherchée.
+frauduleux dont la preuve est recherchée. Il se prononce par une mention
+expresse sur la saisie de biens et avoirs pouvant provenir directement ou
+indirectement des délits dont la preuve est recherchée.
 
 Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un
 coffre dans un établissement de crédit dont la personne occupant les lieux
@@ -37,6 +47,13 @@ rapportant aux agissements visés au 1 sont susceptibles de se trouver, ils
 peuvent, sur autorisation délivrée par tout moyen par le juge qui a pris
 l'ordonnance, procéder immédiatement à la visite de ce coffre. Mention de cette
 autorisation est portée au procès-verbal prévu au b du 2.
+
+Si, à l'occasion de la visite, les agents habilités découvrent des éléments
+révélant l'existence en d'autres lieux de biens ou avoirs se rapportant aux
+agissements visés au 1, ils peuvent, sur autorisation délivrée par tout moyen
+par le juge qui a pris l'ordonnance, procéder immédiatement à la visite de ces
+lieux aux fins de saisir ces biens et avoirs. Mention de cette autorisation est
+portée au procès-verbal prévu au b du présent 2.
 
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui
 est soumise est bien fondée ; cette demande doit comporter tous les éléments
@@ -104,14 +121,16 @@ l'article 56 du code de procédure pénale ; l'article 58 de ce code est
 applicable.
 
 Le procès-verbal, auquel est annexé un inventaire des marchandises et documents
-saisis, est signé par les agents des douanes, l'officier de police judiciaire et
-par les personnes mentionnées au premier alinéa du présent b ; en cas de refus
-de signer, mention en est faite au procès-verbal.
+saisis ainsi que des biens et avoirs provenant directement ou indirectement des
+délits dont la preuve est recherchée, est signé par les agents des douanes,
+l'officier de police judiciaire et par les personnes mentionnées au premier
+alinéa du présent b ; en cas de refus de signer, mention en est faite au
+procès-verbal.
 
-Si l'inventaire sur place présente des difficultés, les pièces et documents
-saisis sont placés sous scellés.L'occupant des lieux ou son représentant est
-avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de
-l'officier de police judiciaire ; l'inventaire est alors établi.
+Si l'inventaire sur place présente des difficultés, les pièces, documents, biens
+et avoirs saisis sont placés sous scellés.L'occupant des lieux ou son
+représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu
+en présence de l'officier de police judiciaire ; l'inventaire est alors établi.
 
 Une copie du procès-verbal et de l'inventaire est remise à l'occupant des lieux
 ou à son représentant. Une copie est également adressée par lettre recommandée
@@ -119,7 +138,10 @@ avec demande d'avis de réception à l'auteur présumé des délits douaniers
 mentionnés au 1, nonobstant les dispositions de l'article 33.
 
 Un exemplaire du procès-verbal et de l'inventaire est adressé au juge qui a
-délivré l'ordonnance dans les trois jours de son établissement.
+délivré l'ordonnance dans les trois jours de son établissement. Si le juge
+constate que les biens et avoirs saisis ne proviennent pas directement ou
+indirectement des délits dont la preuve est recherchée, il ordonne la mainlevée
+de la saisie et la restitution des biens et avoirs concernés.
 
 Le président du tribunal supérieur d'appel connaît des recours contre le
 déroulement des opérations de visite ou de saisie autorisées en application du

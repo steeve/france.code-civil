@@ -22,3 +22,9 @@ Pour l'application des dispositions relatives à l'amende forfaitaire, le lieu d
 traitement automatisé des informations nominatives concernant les constatations
 effectuées par les appareils de contrôle automatisé est considéré comme le lieu
 de constatation de l'infraction.
+
+Lorsque l'excès de vitesse est constaté par le relevé d'une vitesse moyenne,
+entre deux points d'une voie de circulation, supérieure à la vitesse maximale
+autorisée entre ces deux points, le lieu de commission de l'infraction est celui
+où a été réalisée la deuxième constatation, sans préjudice des dispositions du
+précédent alinéa.

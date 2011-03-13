@@ -20,4 +20,7 @@ sociale agricole agréés à cet effet et assermentés ;
 cet effet et assermentés ;
 
 8° Les fonctionnaires ou agents de l'Etat chargés du contrôle des transports
-terrestres.
+terrestres ;
+
+9° Les agents de l'institution mentionnée à l'article L. 5312-1 chargés de la
+prévention des fraudes, agréés et assermentés à cet effet.

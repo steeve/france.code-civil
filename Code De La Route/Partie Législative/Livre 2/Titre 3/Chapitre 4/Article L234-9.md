@@ -1,11 +1,13 @@
 Article L234-9
 ----
-Les officiers de police judiciaire, soit sur instruction du procureur de la
-République, soit à leur initiative, et, sur l'ordre et sous la responsabilité
-des officiers de police judiciaire, les agents de police judiciaire peuvent,
-même en l'absence d'infraction préalable ou d'accident, soumettre toute personne
-qui conduit un véhicule ou qui accompagne un élève conducteur à des épreuves de
-dépistage de l'imprégnation alcoolique par l'air expiré.
+Les officiers de police judiciaire de la gendarmerie ou de la police nationales
+territorialement compétents soit sur l'instruction du procureur de la
+République, soit à leur initiative et, sur l'ordre et sous la responsabilité de
+ceux-ci, les agents de police judiciaire et les agents de police judiciaire
+adjoints peuvent, même en l'absence d'infraction préalable ou d'accident,
+soumettre toute personne qui conduit un véhicule ou qui accompagne un élève
+conducteur à des épreuves de dépistage de l'imprégnation alcoolique par l'air
+expiré.
 
 Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état
 alcoolique, les officiers ou agents de police judiciaire font procéder aux
@@ -19,3 +21,10 @@ attestée par le médecin requis, les officiers ou agents de police judiciaire
 font procéder aux vérifications destinées à établir la preuve de l'état
 alcoolique au moyen d'analyses et examens médicaux, cliniques et biologiques,
 dans les conditions prévues par les articles L. 234-4 et L. 234-5.
+
+Lorsque la constatation est faite par un agent de police judiciaire adjoint
+mentionné aux 1° bis,1° ter,1° quater ou 2° de l'article 21 du code de procédure
+pénale, il rend compte immédiatement de la présomption de l'existence d'un état
+alcoolique ou du refus du conducteur ou de l'accompagnateur de l'élève
+conducteur de subir les épreuves de dépistage dans les conditions prévues à
+l'article L. 234-4 du présent code.

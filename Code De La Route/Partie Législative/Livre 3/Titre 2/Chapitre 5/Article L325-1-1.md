@@ -8,9 +8,13 @@ faire procéder à l'immobilisation et à la mise en fourrière du véhicule.
 
 Si la juridiction ne prononce pas la peine de confiscation du véhicule, celui-ci
 est restitué à son propriétaire, sous réserve des dispositions du troisième
-alinéa. Si la confiscation est ordonnée, le véhicule est remis au service des
-domaines en vue de sa destruction ou de son aliénation. Les frais d'enlèvement
-et de garde en fourrière sont à la charge de l'acquéreur.
+alinéa. Si la confiscation est ordonnée, le véhicule est remis à l'Agence de
+gestion et de recouvrement des avoirs saisis et confisqués en vue de sa
+destruction ou de son aliénation. Les frais d'enlèvement et de garde en
+fourrière sont à la charge de l'acquéreur. Le produit de la vente est tenu, le
+cas échéant, à la disposition du créancier gagiste pouvant justifier de ses
+droits, pendant un délai de deux ans. A l'expiration de ce délai, ce produit est
+acquis à l'Etat.
 
 Si la juridiction prononce la peine d'immobilisation du véhicule, celui-ci n'est
 restitué au condamné qu'à l'issue de la durée de l'immobilisation fixée par la

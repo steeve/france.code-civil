@@ -28,5 +28,19 @@ suivent la notification de la décision. Cet appel est suspensif. Le propriétai
 et les tiers peuvent être entendus par la chambre de l'instruction. Les tiers ne
 peuvent toutefois pas prétendre à la mise à disposition de la procédure.
 
+Lorsque le maintien de la saisie serait de nature à diminuer la valeur du bien,
+le juge des libertés et de la détention peut également ordonner, sous réserve
+des droits des tiers, de remettre au service des domaines, en vue de leur
+affectation à titre gratuit par l'autorité administrative et après que leur
+valeur a été expertisée, à des services de police, des unités de gendarmerie ou
+des services de l'administration des douanes qui effectuent des missions de
+police judiciaire, des biens meubles placés sous main de justice appartenant aux
+personnes poursuivies dont la conservation n'est plus nécessaire à la
+manifestation de la vérité et dont la confiscation est prévue par la loi. En cas
+de classement sans suite, de non-lieu, de relaxe ou d'acquittement, ou lorsque
+la peine de confiscation n'est pas prononcée, le propriétaire qui en fait la
+demande obtient la restitution du bien, assortie s'il y a lieu d'une indemnité
+compensant la perte de valeur qui a pu résulter de l'usage du bien.
+
 Un décret en Conseil d'Etat détermine les modalités d'application du présent
 article.

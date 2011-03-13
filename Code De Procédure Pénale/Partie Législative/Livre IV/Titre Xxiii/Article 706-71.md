@@ -14,7 +14,10 @@ alinéas de l'article 706-52 sont alors applicables.
 
 Les dispositions de l'alinéa précédent prévoyant l'utilisation d'un moyen de
 télécommunication audiovisuelle sont applicables devant la juridiction de
-jugement pour l'audition des témoins, des parties civiles et des experts.
+jugement pour l'audition des témoins, des parties civiles et des experts. Elles
+sont également applicables, avec l'accord du procureur de la République et de
+l'ensemble des parties, pour la comparution du prévenu devant le tribunal
+correctionnel si celui-ci est détenu.
 
 Ces dispositions sont également applicables à l'audition ou à l'interrogatoire
 par un juge d'instruction d'une personne détenue, au débat contradictoire
@@ -30,6 +33,11 @@ l'interrogatoire par le procureur ou le procureur général d'une personne arrê
 en vertu d'un mandat d'amener, d'un mandat d'arrêt ou d'un mandat d'arrêt
 européen, ou à l'interrogatoire du prévenu devant le tribunal de police ou
 devant la juridiction de proximité si celui-ci est détenu pour une autre cause.
+Lorsqu'il s'agit d'une audience au cours de laquelle il doit être statué sur le
+placement en détention provisoire ou la prolongation de la détention provisoire,
+la personne détenue peut refuser l'utilisation d'un moyen de télécommunication
+audiovisuelle, sauf si son transport paraît devoir être évité en raison des
+risques graves de trouble à l'ordre public ou d'évasion.
 
 Elles sont de même applicables devant la commission d'indemnisation des victimes
 d'infractions, devant le premier président de la cour d'appel statuant sur les
@@ -45,6 +53,11 @@ confidentielle, en utilisant le moyen de télécommunication audiovisuelle. Dans
 le second cas, une copie de l'intégralité du dossier doit être mise à sa
 disposition dans les locaux de détention sauf si une copie de ce dossier a déjà
 été remise à l'avocat.
+
+Lorsqu'une personne est détenue, la notification d'une expertise par une
+juridiction doit se faire par l'utilisation d'un moyen de télécommunication
+audiovisuelle, sauf décision contraire motivée ou s'il doit être procédé
+concomitamment à un autre acte.
 
 En cas de nécessité, résultant de l'impossibilité pour un interprète de se
 déplacer, l'assistance de l'interprète au cours d'une audition, d'un

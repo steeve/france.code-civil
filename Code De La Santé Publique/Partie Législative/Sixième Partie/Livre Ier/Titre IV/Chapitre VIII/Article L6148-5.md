@@ -1,9 +1,6 @@
 Article L6148-5
 ----
-Les contrats passés en application de l'article L. 1311-2 du code général des
-collectivités territoriales, lorsqu'ils répondent aux besoins d'un établissement
-public de santé ou d'une structure de coopération sanitaire dotée de la
-personnalité morale publique et de l'article L. 6148-2, respectent les
+Les contrats passés en application de l'article L. 6148-2, respectent les
 dispositions du présent article et des articles L. 6148-5-1 à L. 6148-5-3.
 
 La passation d'un contrat visé au premier alinéa est soumise aux principes de

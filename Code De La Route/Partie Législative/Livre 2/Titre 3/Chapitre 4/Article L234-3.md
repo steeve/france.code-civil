@@ -1,11 +1,13 @@
 Article L234-3
 ----
-Les officiers ou agents de police judiciaire soumettent à des épreuves de
-dépistage de l'imprégnation alcoolique par l'air expiré l'auteur présumé d'une
-infraction punie par le présent code de la peine complémentaire de suspension du
-permis de conduire ou le conducteur ou l'accompagnateur de l'élève conducteur
-impliqué dans un accident de la circulation ayant occasionné un dommage
-corporel.
+Les officiers ou agents de police judiciaire de la gendarmerie ou de la police
+nationales territorialement compétents et, sur l'ordre et sous la responsabilité
+desdits officiers de police judiciaire, les agents de police judiciaire adjoints
+soumettent à des épreuves de dépistage de l'imprégnation alcoolique par l'air
+expiré l'auteur présumé d'une infraction punie par le présent code de la peine
+complémentaire de suspension du permis de conduire ou le conducteur ou
+l'accompagnateur de l'élève conducteur impliqué dans un accident de la
+circulation ayant occasionné un dommage corporel.
 
 Ils peuvent soumettre aux mêmes épreuves tout conducteur ou tout accompagnateur
 d'élève conducteur impliqué dans un accident quelconque de la circulation ou

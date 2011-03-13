@@ -20,6 +20,20 @@ consigné pendant une durée de dix ans. En cas de non-lieu, de relaxe ou
 d'acquittement, ou lorsque la peine de confiscation n'est pas prononcée, ce
 produit est restitué au propriétaire des objets s'il en fait la demande.
 
+Lorsque le maintien de la saisie serait de nature à diminuer la valeur du bien,
+le juge d'instruction peut également ordonner, sous réserve des droits des
+tiers, de remettre au service des domaines, en vue de leur affectation à titre
+gratuit par l'autorité administrative et après que leur valeur a été expertisée,
+à des services de police, des unités de gendarmerie ou des services de
+l'administration des douanes qui effectuent des missions de police judiciaire,
+des biens meubles placés sous main de justice appartenant aux personnes
+poursuivies, dont la conservation n'est plus nécessaire à la manifestation de la
+vérité et dont la confiscation est prévue par la loi. En cas de non-lieu, de
+relaxe ou d'acquittement, ou lorsque la peine de confiscation n'est pas
+prononcée, le propriétaire qui en fait la demande obtient la restitution du
+bien, assortie s'il y a lieu d'une indemnité compensant la perte de valeur qui a
+pu résulter de l'usage du bien.
+
 Le juge d'instruction peut également ordonner la destruction des biens meubles
 placés sous main de justice dont la conservation n'est plus nécessaire à la
 manifestation de la vérité, lorsqu'il s'agit d'objets qualifiés par la loi de

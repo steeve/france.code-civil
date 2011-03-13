@@ -4,35 +4,21 @@ Sont agents de police judiciaire :
 
 1° Les gendarmes n'ayant pas la qualité d'officier de police judiciaire ;
 
-2° Les fonctionnaires titulaires du corps d'encadrement et d'application de la
-police nationale n'ayant pas la qualité d'officier de police judiciaire, sous
-réserve des dispositions concernant les fonctionnaires visés aux 4° et 5°
-ci-après ;
+2° Les fonctionnaires des services actifs de la police nationale, titulaires et
+stagiaires, n'ayant pas la qualité d'officier de police judiciaire ;
 
-3° (Abrogé)
+3° (Abrogé) ;
 
-4° Les gardiens de la paix issus de l'ancien corps des gradés et gardiens de la
-police nationale nommés stagiaires avant le 31 décembre 1985, lorsqu'ils
-comptent au moins deux ans de services en qualité de titulaires et ont satisfait
-aux épreuves d'un examen technique dans des conditions fixées par décret en
-Conseil d'Etat ou détiennent les qualifications professionnelles permettant
-l'accès au grade supérieur ;
+4° (Abrogé) ;
 
-5° Les gardiens de la paix issus de l'ancien corps des enquêteurs de police,
-nommés stagiaires avant le 1er mars 1979, lorsqu'ils comptent au moins deux ans
-de services en qualité de titulaires et remplissent les conditions d'aptitude
-prévues par la loi n° 78-788 du 28 juillet 1978 portant réforme de la procédure
-pénale sur la police judiciaire et le jury d'assises ou ont satisfait aux
-épreuves d'un examen technique dans des conditions fixées par décret en Conseil
-d'Etat ou détiennent les qualifications professionnelles permettant l'accès au
-grade supérieur.
+5° (Abrogé).
 
-Toutefois, les fonctionnaires mentionnés aux 1° à 5° ci-dessus ne peuvent
-exercer effectivement les attributions attachées à leur qualité d'agent de
-police judiciaire et se prévaloir de cette qualité que s'ils sont affectés à un
-emploi comportant cet exercice ; l'exercice de ces attributions est
-momentanément suspendu pendant le temps où ils participent, en unité constituée,
-à une opération de maintien de l'ordre.
+Toutefois, les fonctionnaires mentionnés aux 1° à 3° ne peuvent exercer
+effectivement les attributions attachées à leur qualité d'agent de police
+judiciaire et se prévaloir de cette qualité que s'ils sont affectés à un emploi
+comportant cet exercice ; l'exercice de ces attributions est momentanément
+suspendu pendant le temps où ils participent, en unité constituée, à une
+opération de maintien de l'ordre.
 
 Les agents de police judiciaire ont pour mission :
 

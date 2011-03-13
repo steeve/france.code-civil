@@ -1,4 +1,5 @@
 Article L163-4-2
 ----
-La tentative des délits prévus au 1° de l'article L. 163-3, au 1° de l'article
-L. 163-4 et à l'article L. 163-4-1 est punie des mêmes peines.
+Les peines encourues sont portées à dix ans d'emprisonnement et un million
+d'euros d'amende lorsque les infractions prévues aux articles L. 163-3, L. 163-4
+et L. 163-4-1 sont commises en bande organisée.

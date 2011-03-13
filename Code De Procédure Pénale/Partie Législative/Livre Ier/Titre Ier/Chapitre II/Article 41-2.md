@@ -24,6 +24,10 @@ d'immobilisation ;
 4° Remettre au greffe du tribunal de grande instance son permis de conduire,
 pour une période maximale de six mois ;
 
+4° bis Suivre un programme de réhabilitation et de sensibilisation comportant
+l'installation à ses frais d'un éthylotest anti-démarreur sur son véhicule, pour
+une période minimale de six mois et maximale de trois ans ;
+
 5° Remettre au greffe du tribunal de grande instance son permis de chasser, pour
 une période maximale de six mois ;
 

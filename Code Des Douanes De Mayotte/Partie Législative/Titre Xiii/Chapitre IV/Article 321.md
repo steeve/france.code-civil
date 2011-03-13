@@ -7,9 +7,10 @@ les procédures prescrites ou les formalités exigées, soit en ne se munissant 
 des autorisations requises ou en ne satisfaisant pas aux conditions dont ces
 autorisations sont assorties, sera puni d'une peine d'emprisonnement de un an à
 cinq ans, de la confiscation du corps du délit, de la confiscation des moyens de
-transport utilisés pour la fraude et d'une amende égale au minimum au montant et
-au maximum au double de la somme sur laquelle a porté l'infraction ou la
-tentative d'infraction.
+transport utilisés pour la fraude, de la confiscation des biens et avoirs qui
+sont le produit direct ou indirect de l'infraction et d'une amende égale au
+minimum au montant et au maximum au double de la somme sur laquelle a porté
+l'infraction ou la tentative d'infraction.
 
 2. Lorsque, pour une cause quelconque, les objets passibles de confiscation
 n'ont pu être saisis ou ne sont pas représentés par le délinquant ou lorsque le
