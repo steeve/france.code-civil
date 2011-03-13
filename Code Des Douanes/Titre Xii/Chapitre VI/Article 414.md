@@ -8,6 +8,12 @@ ainsi que tout fait d'importation ou d'exportation sans déclaration lorsque ces
 infractions se rapportent à des marchandises de la catégorie de celles qui sont
 prohibées ou fortement taxées au sens du présent code.
 
+La peine d'emprisonnement est portée à une durée maximale de cinq ans et
+l'amende peut aller jusqu'à trois fois la valeur de l'objet de fraude lorsque
+les faits de contrebande, d'importation ou d'exportation portent sur des biens à
+double usage, civil et militaire, dont la circulation est soumise à restriction
+par la réglementation européenne.
+
 La peine d'emprisonnement est portée à une durée maximale de dix ans et l'amende
 peut aller jusqu'à cinq fois la valeur de l'objet de la fraude soit lorsque les
 faits de contrebande, d'importation ou d'exportation portent sur des

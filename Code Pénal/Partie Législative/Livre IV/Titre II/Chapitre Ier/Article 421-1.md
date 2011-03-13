@@ -19,10 +19,12 @@ définies par les articles 431-13 à 431-17 et les infractions définies par les
 articles 434-6 et 441-2 à 441-5 ;
 
 4° Les infractions en matière d'armes, de produits explosifs ou de matières
-nucléaires définies par les 2°, 4° et 5° du I de l'article L. 1333-9, les
-articles L. 2339-2, L. 2339-5, L. 2339-8 et L. 2339-9 à l'exception des armes de
-la 6e catégorie, L. 2341-1, L. 2341-4, L. 2342-57 à L. 2342-62, L. 2353-4, le 1°
-de l'article L. 2353-5, et l'article L. 2353-13 du code de la défense ;
+nucléaires définies par le I de l'article L. 1333-9, les articles L. 1333-11 et
+L. 1333-13-2, le II des articles L. 1333-13-3 et L. 1333-13-4, les articles L.
+1333-13-6, L. 2339-2, L. 2339-5, L. 2339-8 et L. 2339-9 à l'exception des armes
+de la 6e catégorie, L. 2339-14, L. 2339-16, L. 2341-1, L. 2341-4, L. 2341-5, L.
+2342-57 à L. 2342-62, L. 2353-4, le 1° de l'article L. 2353-5 et l'article L.
+2353-13 du code de la défense ;
 
 5° Le recel du produit de l'une des infractions prévues aux 1° à 4° ci-dessus ;
 

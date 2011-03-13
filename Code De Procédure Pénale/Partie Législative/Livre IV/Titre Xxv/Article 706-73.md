@@ -60,7 +60,11 @@ prévu par l'article 321-6-1 du code pénal, lorsqu'il est en relation avec l'un
 des infractions mentionnées aux 1° à 15° et 17° ;
 
 17° Crime de détournement d'aéronef, de navire ou de tout autre moyen de
-transport commis en bande organisée prévu par l'article 224-6-1 du code pénal.
+transport commis en bande organisée prévu par l'article 224-6-1 du code pénal ;
+
+18° Crimes et délits punis de dix ans d'emprisonnement, contribuant à la
+prolifération des armes de destruction massive et de leurs vecteurs entrant dans
+le champ d'application de l'article 706-167.
 
 Pour les infractions visées aux 3°, 6° et 11°, sont applicables, sauf précision
 contraire, les dispositions du présent titre ainsi que celles des titres XV, XVI

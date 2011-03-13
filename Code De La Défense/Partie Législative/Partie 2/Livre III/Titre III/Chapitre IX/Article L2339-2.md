@@ -15,8 +15,8 @@ La confiscation du matériel fabriqué ou du matériel à vendre, ainsi que sa v
 aux enchères publiques, est ordonnée par le même jugement.
 
 L'autorité administrative peut prescrire ou faire effectuer la mise hors
-d'usage, aux frais du délinquant, du matériel avant sa mise aux enchères
-publiques.
+d'usage, aux frais de l'auteur de l'infraction, du matériel avant sa mise aux
+enchères publiques.
 
 II.-Les personnes morales déclarées responsables pénalement, dans les conditions
 prévues par l'article 121-2 du code pénal, des infractions définies au présent

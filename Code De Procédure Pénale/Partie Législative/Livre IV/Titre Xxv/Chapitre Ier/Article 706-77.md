@@ -2,12 +2,12 @@ Article 706-77
 ----
 Le procureur de la République près un tribunal de grande instance autre que ceux
 visés à l'article 706-75 peut, pour les infractions entrant dans le champ
-d'application des articles 706-73, à l'exception du 11°, et 706-74, requérir le
-juge d'instruction de se dessaisir au profit de la juridiction d'instruction
-compétente en application de l'article 706-75. Les parties sont préalablement
-avisées et invitées à faire connaître leurs observations par le juge
-d'instruction. L'ordonnance est rendue huit jours au plus tôt et un mois au plus
-tard à compter de cet avis.
+d'application des articles 706-73, à l'exception du 11° et du 18°, et 706-74,
+requérir le juge d'instruction de se dessaisir au profit de la juridiction
+d'instruction compétente en application de l'article 706-75. Les parties sont
+préalablement avisées et invitées à faire connaître leurs observations par le
+juge d'instruction. L'ordonnance est rendue huit jours au plus tôt et un mois au
+plus tard à compter de cet avis.
 
 Lorsque le juge d'instruction décide de se dessaisir, son ordonnance ne prend
 effet qu'à compter du délai de cinq jours prévu par l'article 706-78 ; lorsqu'un
