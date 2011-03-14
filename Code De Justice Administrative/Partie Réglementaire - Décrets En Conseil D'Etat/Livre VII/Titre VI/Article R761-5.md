@@ -1,8 +1,9 @@
 Article R761-5
 ----
-Les parties, ainsi que, le cas échéant, l'expert, peuvent contester l'ordonnance
-mentionnée à l'article R. 761-4 devant la juridiction à laquelle appartient
-l'auteur de l'ordonnance.
+Les parties, l'Etat lorsque les frais d'expertise sont avancés au titre de
+l'aide juridictionnelle ainsi que, le cas échéant, l'expert, peuvent contester
+l'ordonnance mentionnée à l'article R. 761-4 devant la juridiction à laquelle
+appartient l'auteur de l'ordonnance.
 
 Sauf lorsque l'ordonnance émane du président de la section du contentieux du
 Conseil d'Etat, la requête est transmise sans délai par le président de la

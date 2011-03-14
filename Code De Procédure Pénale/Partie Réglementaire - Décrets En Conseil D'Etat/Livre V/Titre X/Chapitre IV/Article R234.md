@@ -7,5 +7,5 @@ régisseur entre les mains de ce comptable, peuvent adresser une réclamation au
 ministère public qui saisit de ses réquisitions le magistrat taxateur.
 
 En matière d'aide juridictionnelle, le délai d'un mois imparti au comptable
-assignataire court à compter de la transmission qui lui est faite par le greffe
-du mémoire ou de l'état certifié.
+assignataire court à compter de la transmission qui lui est faite par
+l'ordonnateur compétent du mémoire ou de l'état certifié.
