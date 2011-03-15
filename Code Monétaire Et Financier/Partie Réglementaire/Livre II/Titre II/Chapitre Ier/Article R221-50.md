@@ -1,5 +1,5 @@
 Article R221-50
 ----
-Au 31 décembre de chaque année l'intérêt et, éventuellement, le complément de
-rémunération acquis s'ajoutent au capital et deviennent eux-mêmes productifs
-d'intérêts et, le cas échéant, de complément de rémunération.
+La rémunération du compte sur livret d'épargne populaire comprend un intérêt
+fixé par arrêté du ministre chargé de l'économie. Au 31 décembre de chaque
+année, l'intérêt s'ajoute au capital et devient lui-même productif d'intérêts.
