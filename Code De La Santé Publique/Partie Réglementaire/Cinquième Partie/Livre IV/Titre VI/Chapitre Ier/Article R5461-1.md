@@ -1,24 +1,18 @@
 Article R5461-1
 ----
-Est puni de l'amende prévue pour les contraventions de la cinquième classe le
-fait :
+Est puni de l'amende prévue pour les contraventions de cinquième classe le fait
+:
 
-1° De mettre sur le marché un dispositif médical non revêtu du marquage CE dans
-les cas où l'apposition de ce marquage est requise ;
+1° Pour le fabricant d'un dispositif médical ou son mandataire, de ne pas tenir
+à la disposition du directeur général de l'Agence française de sécurité
+sanitaire des produits de santé les déclarations de conformité et les
+documentations techniques établies dans le cadre des procédures de
+certification, ainsi que les décisions et rapports des organismes habilités
+ayant participé à ces procédures, tels que mentionnés à l'article R. 5211-26 ;
 
-2° De ne pas être en mesure de présenter les documents justifiant avoir accompli
-les procédures de certification de conformité prévues par les dispositions du
-chapitre Ier du titre Ier du livre II de la présente partie ;
-
-3° De mettre en service sur le territoire national un dispositif médical de
-classe II b ou III, ou un dispositif médical implantable actif sans procéder à
-la communication prévue à l'article R. 5211-66 ;
-
-4° De mettre sur le marché un dispositif médical non conforme aux exigences
-essentielles de sécurité mentionnées à la section 5 du chapitre Ier du titre Ier
-du livre II de la présente partie ;
-
-5° De présenter, lors de réunions scientifiques ou techniques, d'expositions ou
-de démonstrations, des dispositifs médicaux non conformes aux dispositions du
-chapitre Ier du titre Ier du livre II de la présente partie, sans se conformer
-aux prescriptions de l'article R. 5211-13.
+2° Pour le fabricant d'un dispositif médical ou son mandataire, de ne pas
+présenter, sur demande des agents mentionnés à l'article L. 5431-1, les
+déclarations de conformité et les documentations techniques établies dans le
+cadre des procédures de certification, ainsi que les décisions et rapports des
+organismes habilités ayant participé à ces procédures, tels que mentionnés à
+l'article R. 5211-27.
