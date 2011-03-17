@@ -1,16 +1,15 @@
 Article R725-2
 ----
-En application de l'article L. 725-2, toute personne physique ou morale doit
-justifier, au 1er janvier de l'année au titre de laquelle l'aide est sollicitée,
-qu'elle s'est acquittée de la totalité des cotisations légalement exigibles aux
-régimes de protection sociale agricole pour obtenir le bénéfice des avantages
-économiques suivants :
+En application de l'article L. 725-2, toute personne physique ou morale doit,
+pour obtenir le bénéfice des subventions en vue de favoriser les investissements
+de modernisation matériels et immatériels dans les exploitations et entreprises
+agricoles, être quitte, au 1er janvier de l'année au titre de laquelle l'aide
+est sollicitée, de ses obligations concernant le paiement des cotisations et
+contributions légalement exigibles aux régimes de protection sociale agricole.
+Les personnes bénéficiant d'un échéancier de paiements sont réputées s'être
+acquittées de leurs obligations.
 
-1° Subvention pour la restauration de l'habitat rural (art. R. 346-1, R. 346-5
-et R. 346-8) ;
-
-2° Indemnités compensatoires des handicaps naturels permanents (art. D. 113-18 à
-D. 113-25) ;
-
-3° Subventions en vue de favoriser l'équipement des exploitations en matière
-agricole dans les zones de montagne.
+La justification de l'acquittement est apportée par la Caisse centrale de la
+mutualité sociale agricole et les organismes mentionnés aux articles L. 731-31
+et L. 752-14 selon les modalités définies par les articles R. 723-116 à R.
+723-118.

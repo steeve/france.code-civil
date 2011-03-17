@@ -1,10 +1,8 @@
 Article R723-116
 ----
-Les caisses de mutualité sociale agricole et les organismes tels que définis à
-l'article L. 731-30, habilités à gérer l'assurance maladie, invalidité et
-maternité des membres non salariés des professions agricoles, communiquent
-chaque année avant le 1er mars au préfet du département les informations en leur
-possession, telles qu'elles figurent dans leurs fichiers, relatives à la
-situation des membres non salariés des professions agricoles au 1er janvier de
-l'année en cours et qui sont nécessaires au contrôle des conditions
-d'attribution des aides à caractère économique.
+La Caisse centrale de la mutualité sociale agricole et les organismes mentionnés
+aux articles L. 731-31 et L. 752-14 communiquent chaque année au ministre chargé
+de l'agriculture, au plus tard le 15 mars, pour les besoins de l'instruction, de
+la mise en œuvre et du contrôle des conditions d'attribution des aides
+économiques en faveur de l'agriculture, les informations mentionnées à l'article
+L. 723-43.
