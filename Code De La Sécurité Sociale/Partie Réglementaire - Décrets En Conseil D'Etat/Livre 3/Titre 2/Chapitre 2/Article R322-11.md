@@ -1,5 +1,6 @@
 Article R322-11
 ----
-Les dispositions des 1°, 2°, 4° et 5° de l'article R. 322-10, des articles R.
-322-10-1, R. 322-10-4, R. 322-10-5, R. 322-10-6 et R. 322-10-7 sont applicables
-au remboursement des frais de transports non sanitaires.
+Le taux prévisionnel d'évolution mentionné au premier alinéa de l'article L.
+322-5-5 est fixé, pour chaque année, par arrêté des ministres chargés de la
+santé et de la sécurité sociale pris sur recommandation du conseil de
+l'hospitalisation et publié au plus tard le 31 décembre de l'année précédente.

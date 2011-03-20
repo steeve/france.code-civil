@@ -30,4 +30,7 @@ L. 162-22-7 ;
 7° La liste des structures, des programmes et des actions ainsi que des actes et
 produits pris en charge par la dotation nationale de financement des missions
 d'intérêt général et d'aide à la contractualisation mentionnée à l'article L.
-162-22-13.
+162-22-13 ;
+
+8° Le taux prévisionnel d'évolution des dépenses de transports mentionné au
+premier alinéa de l'article L. 322-5-5.
