@@ -19,3 +19,9 @@ directeur des services fiscaux ou le directeur régional des douanes en ce qui
 concerne, pour ce dernier, le recouvrement des contributions indirectes, droits,
 taxes, redevances et impositions obéissant aux mêmes règles et de la
 contribution prévue par l'article 527 du code général des impôts.
+
+Les avis de mise en recouvrement résultant de l'engagement par la direction
+nationale des vérifications de situations fiscales d'une procédure de
+rectification ou d'une procédure d'imposition d'office sont établis, signés et
+rendus exécutoires par le comptable chargé du pôle de recouvrement spécialisé de
+Paris Sud-Ouest.
