@@ -1,11 +1,9 @@
 Article L3331-1
 ----
-Les débits de boissons à consommer sur place sont répartis en quatre catégories
+Les débits de boissons à consommer sur place sont répartis en trois catégories
 selon l'étendue de la licence dont ils sont assortis :
 
-1° La licence de 1re catégorie, dite " licence de boissons sans alcool ", ne
-comporte l'autorisation de vente à consommer sur place que pour les boissons du
-premier groupe ;
+1° (Abrogé)
 
 2° La licence de 2e catégorie, dite " licence de boissons fermentées ", comporte
 l'autorisation de vendre pour consommer sur place les boissons des deux premiers

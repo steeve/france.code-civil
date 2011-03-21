@@ -1,6 +1,6 @@
 Article L3332-5
 ----
-Les articles L. 3332-3 et L. 3332-4 ne sont pas applicables dans les
+Les articles L. 3332-3 à L. 3332-4-1 ne sont pas applicables dans les
 départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
 
 Dans ces départements, l'article 33 du code local des professions du 26 juillet

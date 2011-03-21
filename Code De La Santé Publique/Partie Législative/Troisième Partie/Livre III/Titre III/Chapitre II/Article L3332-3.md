@@ -1,8 +1,8 @@
 Article L3332-3
 ----
 Une personne qui veut ouvrir un café, un cabaret, un débit de boissons à
-consommer sur place est tenue de faire, quinze jours au moins à l'avance et par
-écrit, une déclaration indiquant :
+consommer sur place et y vendre de l'alcool est tenue de faire, quinze jours au
+moins à l'avance et par écrit, une déclaration indiquant :
 
 1° Ses nom, prénoms, lieu de naissance, profession et domicile ;
 
@@ -27,6 +27,3 @@ cas, exercer la profession de débitant de boissons.
 Dans les trois jours de la déclaration, le maire de la commune où elle a été
 faite en transmet copie intégrale au procureur de la République ainsi qu'au
 représentant de l'Etat dans le département.
-
-La délivrance du récépissé est passible d'une taxe dont le taux est fixé par
-l'article 960 du code général des impôts.
