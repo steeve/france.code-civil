@@ -1,6 +1,6 @@
 Article L47-1
 ----
-L'autorisation d'occuper les réseaux publics visés à l'article L. 45-1 et
+L'autorisation d'occuper les réseaux publics visés à l'article L. 45-9 et
 appartenant au domaine public routier ou non routier est refusée lorsque
 l'occupation est incompatible avec l'affectation desdits réseaux ou avec les
 capacités disponibles.
@@ -9,7 +9,7 @@ Est seule incompatible avec l'affectation du réseau public l'occupation qui en
 empêche le fonctionnement, qui ne permet pas sa remise en état ou qui n'est pas
 réversible.
 
-Le droit de passage dans les réseaux publics visés à l'article L. 45-1 et
+Le droit de passage dans les réseaux publics visés à l'article L. 45-9 et
 relevant du domaine public routier ou non routier s'exerce dans le cadre d'une
 convention et dans les conditions du cinquième alinéa de l'article L. 47.
 

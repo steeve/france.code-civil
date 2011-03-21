@@ -8,7 +8,7 @@ un opérateur à l'intérieur d'un immeuble de logements ou à usage mixte et
 permettant de desservir un ou plusieurs utilisateurs finals font l'objet d'une
 convention entre cet opérateur et le propriétaire ou le syndicat de
 copropriétaires, que l'opérateur bénéficie ou non de la servitude mentionnée aux
-articles L. 45-1 et L. 48.
+articles L. 45-9 et L. 48.
 
 La convention prévoit en particulier que les opérations d'installation,
 d'entretien et de remplacement mentionnées à l'alinéa précédent se font aux

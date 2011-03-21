@@ -1,6 +1,6 @@
 Article L48
 ----
-La servitude mentionnée à l'article L. 45-1 est instituée en vue de permettre
+La servitude mentionnée à l'article L. 45-9 est instituée en vue de permettre
 l'installation et l'exploitation des équipements du réseau, y compris les
 équipements des réseaux à très haut débit fixes et mobiles :
 
@@ -42,7 +42,7 @@ En cas de litige entre opérateurs, l'Autorité de régulation des communication
 électroniques et des postes peut être saisie, dans les conditions fixées à
 l'article L. 36-8. Dès lors qu'elle résulte du partage d'une installation déjà
 autorisée au titre d'une autre servitude et qu'elle n'accroît pas l'atteinte
-portée à la propriété privée, la servitude prévue à l'article L. 45-1 est
+portée à la propriété privée, la servitude prévue à l'article L. 45-9 est
 exonérée de la procédure prévue au cinquième alinéa. Elle fait l'objet d'une
 indemnisation dans les conditions prévues au neuvième alinéa.
 
