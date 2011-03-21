@@ -47,4 +47,8 @@ produits de santé autorise l'importation des médicaments prévue à l'article 
 
 13° Les sections de l'ordre auxquelles appartient le pharmacien mentionné à
 l'article L. 5124-15 et les conditions dans lesquelles ce pharmacien doit être
-assisté ou remplacé.
+assisté ou remplacé ;
+
+14° Les conditions dans lesquelles les organismes à but non lucratif et les
+établissements publics autres que les établissements de santé peuvent bénéficier
+de l'autorisation visée à l'article L. 5124-3.

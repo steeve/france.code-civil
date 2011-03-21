@@ -24,3 +24,13 @@ personnes handicapées afin de favoriser les échanges et les rencontres avec le
 L'enseignement d'éducation civique sensibilise également les élèves de collège
 et de lycée au service civique prévu au titre Ier bis du livre Ier du code du
 service national.
+
+Dans le cadre de l'enseignement d'éducation civique, les élèves sont formés afin
+de développer une attitude critique et réfléchie vis-à-vis de l'information
+disponible et d'acquérir un comportement responsable dans l'utilisation des
+outils interactifs lors de leur usage des services de communication au public en
+ligne. Ils sont informés des moyens de maîtriser leur image publique, des
+dangers de l'exposition de soi et d'autrui, des droits d'opposition, de
+suppression, d'accès et de rectification prévus par la loi n° 78-17 du 6 janvier
+1978 relative à l'informatique, aux fichiers et aux libertés, ainsi que des
+missions de la Commission nationale de l'informatique et des libertés.

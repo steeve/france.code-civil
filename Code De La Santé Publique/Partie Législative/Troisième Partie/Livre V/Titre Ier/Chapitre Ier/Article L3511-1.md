@@ -12,3 +12,8 @@ feuilles et autres parties naturelles ou non transformées de la plante du tabac
 utilisés dans la fabrication ou la préparation d'un produit du tabac et encore
 présents dans le produit fini, même sous une forme modifiée, y compris le
 papier, le filtre, les encres et les colles.
+
+Les fabricants et importateurs de produits du tabac doivent soumettre au
+ministère chargé de la santé une liste de tous les ingrédients et de leurs
+quantités utilisés dans la fabrication des produits du tabac, par marque et
+type, dans des conditions définies par arrêté du ministre chargé de la santé.

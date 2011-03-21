@@ -40,6 +40,10 @@ d'interconnexion de ces réseaux qui garantissent la possibilité pour tous les
 utilisateurs de communiquer librement et l'égalité des conditions de la
 concurrence ;
 
+4° bis A l'absence de discrimination, dans des circonstances analogues, dans les
+relations entre opérateurs et fournisseurs de services de communications au
+public en ligne pour l'acheminement du trafic et l'accès à ces services ;
+
 5° Au respect par les opérateurs de communications électroniques du secret des
 correspondances et du principe de neutralité au regard du contenu des messages
 transmis, ainsi que de la protection des données à caractère personnel ;

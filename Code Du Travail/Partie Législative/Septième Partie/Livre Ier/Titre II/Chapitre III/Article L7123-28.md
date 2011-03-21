@@ -10,4 +10,4 @@ mois et d'une amende de 75 000 euros.
 Est puni des mêmes peines le fait de ne pas délivrer un exemplaire du contrat de
 mise à disposition au mannequin avant toute acceptation par celui-ci de la
 mission qui lui est proposée, en méconnaissance des dispositions du troisième
-alinéa de l'article L. 7123-11.
+alinéa de l'article L. 7123-17.

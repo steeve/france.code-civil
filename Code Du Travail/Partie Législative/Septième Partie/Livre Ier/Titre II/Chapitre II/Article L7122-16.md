@@ -1,8 +1,10 @@
 Article L7122-16
 ----
 Le fait d'exercer l'activité d'entrepreneur de spectacles vivants sans être
-titulaire de la licence prévue à l'article L. 7122-3, est puni d'un
-emprisonnement de deux ans et d'une amende de 30 000 euros.
+titulaire de la licence prévue à l'article L. 7122-3 ou au 2° de l'article L.
+7122-11 ou d'un titre d'effet équivalent conformément à l'article L. 7122-10 ou
+sans avoir procédé à la déclaration prévue aux 1° ou 2° de l'article L. 7122-11,
+est puni d'un emprisonnement de deux ans et d'une amende de 30 000 euros.
 
 La juridiction peut également prononcer à titre de peine complémentaire :
 

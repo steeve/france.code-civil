@@ -26,3 +26,6 @@ toute nature et des cotisations sociales ;
 5° De la conformité des véhicules à des prescriptions fixées par décret.
 
 L'habilitation est valable sur l'ensemble du territoire national.
+
+Le contrôle de la conformité aux prescriptions mentionnées aux 3° et 5° est
+assuré par des organismes accrédités dans des conditions fixées par décret.

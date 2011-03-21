@@ -12,12 +12,9 @@ exploitants des dispositifs.
 La personne physique ou morale responsable de la revente d'un dispositif médical
 d'occasion figurant sur une liste fixée par arrêté du ministre chargé de la
 santé, pris sur proposition du directeur général de l'Agence française de
-sécurité sanitaire des produits de santé, fait établir préalablement par un
-organisme agréé à cet effet par décision du directeur général de l'Agence
-française de sécurité sanitaire des produits de santé une attestation technique
-justifiant d'une maintenance régulière et du maintien des performances du
-dispositif médical concerné. Les modalités de l'agrément des organismes et de
-l'attestation technique sont définies par décret.
+sécurité sanitaire des produits de santé, établit, selon des modalités fixées
+par décret en Conseil d'Etat, une attestation justifiant de la maintenance
+régulière et du maintien des performances du dispositif médical concerné.
 
 Le non-respect des dispositions du présent article peut entraîner la mise hors
 service provisoire ou définitive du dispositif médical, prononcée par l'Agence
