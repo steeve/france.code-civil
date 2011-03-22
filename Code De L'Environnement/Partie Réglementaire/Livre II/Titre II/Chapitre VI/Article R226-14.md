@@ -1,5 +1,5 @@
 Article R226-14
 ----
-La récidive des contraventions de la 5e classe prévues par la présente section
-est réprimée conformément aux dispositions des articles 132-11 et 132-15 du code
-pénal.
+Est puni de la peine d'amende prévue pour les contraventions de la cinquième
+classe le fait de mettre à disposition sur le marché des produits ne respectant
+pas les prescriptions de l'article R. 221-24.
