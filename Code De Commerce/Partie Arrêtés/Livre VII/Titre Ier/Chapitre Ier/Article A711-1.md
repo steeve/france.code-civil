@@ -6,40 +6,45 @@ administratif des chambres d'agriculture, des chambres de commerce et des
 chambres de métiers et chargée d'établir le statut du personnel administratif
 des chambres de commerce et d'industrie est composée comme suit :
 
-1° Un représentant du ministre chargé de leur tutelle, président de la
+a) Un représentant du ministre chargé de leur tutelle, président de la
 commission ;
 
-2° Six présidents de chambres de commerce et d'industrie territoriales désignés
-par le bureau de l'assemblée de leurs présidents dont :
+b) Une délégation patronale composée comme suit :
 
-a) Le président de cette assemblée ;
+-cinq présidents de chambres de commerce et d'industrie territoriales ou de
+région, désignés par le bureau de l'assemblée des chambres françaises de
+commerce et d'industrie ;
 
-b) Trois présidents de chambre de commerce et d'industrie territoriale gérant
-des services publics ;
+-le président de l'assemblée des chambres françaises de commerce et d'industrie
+;
 
-c) Deux présidents de chambres de commerce et d'industrie territoriales qui ne
-gèrent aucun service public ;
+c) Une délégation du personnel composée de six représentants du personnel et
+répartie en trois collèges : cadres, agents de maîtrise et employés. Les membres
+de la délégation sont désignés à l'issue de la consolidation des résultats du
+premier tour aux élections des commissions paritaires des établissements du
+réseau, en application de l'article R. 712-11-1, par les organisations
+syndicales représentatives appelées à siéger à la commission paritaire
+nationale, parmi leurs candidats aux élections des commissions paritaires des
+établissements du réseau des chambres de commerce et d'industrie.
 
-3° Six représentants du personnel des chambres de commerce et d'industrie
-territoriales désignés par les organisations syndicales les plus représentatives
-et choisis dans les catégories suivantes, à raison de :
+Le nombre de sièges attribué à chaque collège s'établit selon la règle du
+quotient électoral et du plus fort reste.
 
-a) Trois pour les cadres dont un secrétaire général au moins ;
+Chaque délégation peut être accompagnée de conseillers techniques dans les
+conditions prévues par les règles de fonctionnement de la commission paritaire
+nationale annexées au statut du personnel administratif des chambres de commerce
+et d'industrie.
 
-b) Trois pour le personnel d'exécution.
-
-L'assemblée des présidents et les organisations syndicales désignent également
-des membres suppléants appelés à remplacer, le cas échéant, les membres
-titulaires.
-
-La désignation des délégués à la commission, titulaires et suppléants, est
-approuvée par le ministre chargé de leur tutelle.
+Le bureau de l'assemblée des chambres françaises de commerce et d'industrie et
+les organisations syndicales désignent également des membres suppléants qui ne
+peuvent siéger en commission paritaire nationale qu'en remplacement d'un
+titulaire.
 
 Le secrétariat de la commission paritaire est assuré par la direction chargée de
 la tutelle des chambres de commerce et d'industrie.
 
 Le ministre chargé de leur tutelle peut convoquer aux réunions de la commission
-paritaire, à titre consultatif, des personnalités spécialisées dans certaines
-questions techniques ou administratives, notamment pour ce qui concerne
+paritaire, à titre consultatif, des personnalités qualifiées pour certaines
+questions techniques ou administratives, notamment en ce qui concerne
 l'application du statut au personnel des chambres de commerce et d'industrie des
 départements d'outre-mer.
