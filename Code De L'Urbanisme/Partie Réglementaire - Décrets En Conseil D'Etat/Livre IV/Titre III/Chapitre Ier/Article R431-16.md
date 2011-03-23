@@ -31,8 +31,8 @@ définis par l'article R. 146-2, lorsque la demande concerne un projet de
 construction visé au d de cet article et situé dans un espace remarquable ou
 dans un milieu à préserver d'une commune littorale ;
 
-f) L'étude de sécurité publique, lorsqu'elle est exigée en application de
-l'article R. 111-48 ;
+f) L'étude de sécurité publique, lorsqu'elle est exigée en application des
+articles R. 111-48 et R. 111-49 ;
 
 g) Lorsque le projet est tenu de respecter les dispositions mentionnées à
 l'article R. 111-20 du code de la construction et de l'habitation, un document
