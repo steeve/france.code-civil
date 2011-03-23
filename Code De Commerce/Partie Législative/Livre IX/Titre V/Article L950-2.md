@@ -18,4 +18,6 @@ officiel du territoire" ;
 
 6° "Préfet" ou "sous-préfet" par "représentant de l'Etat dans le territoire" ;
 
-7° "Maire" par "chef de circonscription".
+7° "Maire" par "chef de circonscription" ;
+
+8° " Bureau des hypothèques " par " greffe du tribunal de première instance ".

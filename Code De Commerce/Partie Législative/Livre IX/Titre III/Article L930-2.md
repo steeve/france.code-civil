@@ -18,4 +18,7 @@ officiel de la Nouvelle-Calédonie " ;
 province " ;
 
 6° " Préfet " ou " sous-préfet " par " représentant de l'Etat en
-Nouvelle-Calédonie ".
+Nouvelle-Calédonie " ;
+
+7° " Bureau des hypothèques " par " service de la conservation des hypothèques
+".

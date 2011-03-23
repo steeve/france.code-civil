@@ -14,4 +14,7 @@ instance statuant en matière commerciale " ;
 4° " Département " ou " arrondissement " par " collectivité territoriale " ;
 
 5° " Bulletin officiel des annonces civiles et commerciales " par " Recueil des
-actes administratifs de la collectivité territoriale ".
+actes administratifs de la collectivité territoriale " ;
+
+6° " Bureau des hypothèques " par " service de la conservation de la propriété
+immobilière ".
