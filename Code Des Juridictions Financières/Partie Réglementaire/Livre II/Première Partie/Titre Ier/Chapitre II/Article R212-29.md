@@ -14,3 +14,15 @@ Les conseillers désignés en application des deux précédents alinéas sont
 délégués à la chambre régionale des comptes par ordonnance du premier président
 de la Cour d'appel prise sur requête du président de la chambre régionale des
 comptes.
+
+Pour l'application à Mayotte de la première partie du livre II du présent code :
+
+1° La référence à la région, à la région d'outre-mer ou au département est
+remplacée par la référence au Département de Mayotte ;
+
+2° La référence aux conseils régionaux ou aux conseils généraux est remplacée
+par la référence au conseil général de Mayotte ;
+
+3° La référence au président du conseil régional ou au président du conseil
+général est remplacée par la référence au président du conseil général de
+Mayotte.

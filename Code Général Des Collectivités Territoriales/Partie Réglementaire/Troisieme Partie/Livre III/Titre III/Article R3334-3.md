@@ -16,4 +16,4 @@ collectivité territoriale de Saint-Pierre-et-Miquelon, la collectivité de
 Saint-Martin et la collectivité départementale de Mayotte dans les conditions
 fixées respectivement à l'article R. 3443-2-1, à l'article 35 de la loi n°
 85-1268 du 29 novembre 1985 relative à la dotation globale de fonctionnement, à
-l'article R. 3443-1 et à l'article R. 3563-2.
+l'article R. 3443-1 et à l'article R. 3543-3.

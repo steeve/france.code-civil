@@ -1,16 +1,13 @@
 Article R285
 ----
-Pour l'application des dispositions des livres I et II à Mayotte, il y a lieu de
-lire :
+Pour l'application du présent code à Mayotte il y a lieu de lire :
 
-1° " collectivité départementale de Mayotte " , au lieu de : " département " ou
-" arrondissement " ;
+1° "Département de Mayotte" au lieu de : "département" ;
 
-2° " représentant de l'Etat " et " services du représentant de l'Etat ", au lieu
-respectivement de : " préfet " ou " sous-préfet " et de " Institut national de
-la statistique et des études économiques " ou " préfecture " ;
+2° "tribunal de première instance" au lieu de : "tribunal de grande instance" ou
+"tribunal d'instance" ;
 
-3° " tribunal de première instance ", au lieu de : " tribunal de grande instance
-" ou de " tribunal d'instance " ;
+3° "tribunal supérieur d'appel" au lieu de : "cour d'appel" ;
 
-4° " tribunal supérieur d'appel ", au lieu de : " cour d'appel ".
+4° "directeur de La Poste" au lieu de : "directeur départemental des postes et
+télécommunications" ;
