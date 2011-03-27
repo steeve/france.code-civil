@@ -7,7 +7,7 @@ d'incendie et de secours et la commune de Marseille sur la base d'un montant
 départements d'outre-mer, par département. Cette répartition tient compte, à
 compter du 1er janvier 2005, de la subvention à verser au service d'incendie et
 de secours de la collectivité départementale de Mayotte, conformément aux
-dispositions de l'article L. 1752-2.
+dispositions de l'article L. 1711-4.
 
 Le montant des crédits affecté à chaque zone de défense est fixé en fonction de
 la population des départements composant chaque zone, définie selon les
