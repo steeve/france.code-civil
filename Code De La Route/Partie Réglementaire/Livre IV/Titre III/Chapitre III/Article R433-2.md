@@ -17,3 +17,9 @@ domaine public et, le cas échéant, l'itinéraire à suivre. S'il y a lieu, il 
 communiqué par le préfet du lieu de départ aux préfets des départements
 traversés afin de permettre à ces derniers de prendre toutes mesures de police
 nécessaires.
+
+Le fait pour tout usager de contrevenir aux indications des conducteurs de
+véhicules de guidage mentionnés à l'article R. 433-17 et mettant en œuvre les
+mesures de circulation précisées par l'arrêté du préfet autorisant le transport
+exceptionnel est puni de l'amende prévue pour les contraventions de la quatrième
+classe.
