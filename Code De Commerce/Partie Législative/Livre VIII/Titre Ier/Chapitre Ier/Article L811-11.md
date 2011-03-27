@@ -29,3 +29,10 @@ renseignement ou document utiles à la connaissance des mouvements de fonds
 intervenus sur les comptes ouverts dans ses livres au nom de chaque
 administrateur judiciaire et de sommes qui y sont déposées au titre des mandats
 sur lesquels porte l'inspection ou le contrôle.
+
+Les administrateurs judiciaires établissent, au terme de chaque exercice, une
+situation financière qu'ils communiquent au Conseil national des administrateurs
+judiciaires et des mandataires judiciaires, au plus tard dans les six mois de la
+clôture de l'exercice. Le contenu de cette situation financière, défini par
+décret, est adapté selon que l'administrateur tient une comptabilité
+d'encaissement ou d'engagement.
