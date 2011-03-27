@@ -7,8 +7,8 @@ parents et de l'entourage.
 
 L'intéressé est assisté de son tuteur lors de la signature de la convention.
 Aucune assistance ni représentation ne sont requises lors de la déclaration
-conjointe au greffe du tribunal d'instance prévue au premier alinéa de l'article
-515-3.
+conjointe au greffe du tribunal d'instance ou devant le notaire instrumentaire
+prévue au premier alinéa de l'article 515-3.
 
 Les dispositions des alinéas précédents sont applicables en cas de modification
 de la convention.

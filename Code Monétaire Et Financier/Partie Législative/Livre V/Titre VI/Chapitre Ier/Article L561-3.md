@@ -56,3 +56,11 @@ consultations juridiques conformément à l'article 22 de l'ordonnance précité
 moins que ces consultations n'aient été fournies à des fins de blanchiment de
 capitaux ou de financement du terrorisme ou en sachant que le client les demande
 aux fins de blanchiment de capitaux ou de financement du terrorisme.
+
+V. - Dans l'exercice des missions dont ils sont chargés par décision de justice,
+les administrateurs judiciaires, les mandataires judiciaires et les
+commissaires-priseurs judiciaires sont soumis aux dispositions du présent
+chapitre, sous réserve que celles-ci soient compatibles avec leur mandat. Le
+client s'entend alors de la personne visée par la procédure et, le cas échéant,
+de la personne qui se porte acquéreur du bien offert à la vente ou qui dépose
+une offre de reprise partielle ou totale de l'entreprise.

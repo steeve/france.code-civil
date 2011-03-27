@@ -3,7 +3,8 @@ Article 461
 La personne en curatelle ne peut, sans l'assistance du curateur, signer la
 convention par laquelle elle conclut un pacte civil de solidarité. Aucune
 assistance n'est requise lors de la déclaration conjointe au greffe du tribunal
-d'instance prévue au premier alinéa de l'article 515-3.
+d'instance ou devant le notaire instrumentaire prévue au premier alinéa de
+l'article 515-3.
 
 Les dispositions de l'alinéa précédent sont applicables en cas de modification
 de la convention.

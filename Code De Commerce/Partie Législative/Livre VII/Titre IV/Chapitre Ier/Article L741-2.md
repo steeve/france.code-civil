@@ -5,6 +5,10 @@ pouvoirs publics par un Conseil national des greffiers des tribunaux de
 commerce, doté de la personnalité morale et chargé d'assurer la défense de ses
 intérêts collectifs.
 
+Le conseil national peut, devant toutes les juridictions, exercer tous les
+droits réservés à la partie civile relativement aux faits portant un préjudice
+direct ou indirect à l'intérêt collectif de la profession.
+
 Les modes d'élection et de fonctionnement du Conseil national sont fixés par
 décret en Conseil d'Etat.
 
@@ -27,3 +31,7 @@ A défaut de paiement de cette cotisation dans un délai d'un mois à compter d'
 mise en demeure, le conseil national délivre, à l'encontre du redevable, un acte
 assimilé à une décision au sens du 6° de l'article 3 de la loi n° 91-650 du 9
 juillet 1991 portant réforme des procédures civiles d'exécution.
+
+Le conseil national peut établir, en ce qui concerne les usages de la profession
+à l'échelon national, un règlement qui est soumis à l'approbation du garde des
+sceaux, ministre de la justice.
