@@ -40,8 +40,8 @@ Besançon, Colmar, Dijon, Metz, Nancy.
 
 Paris
 
-Bourges, Paris, Orléans, Versailles, Mamoudzou, Nouméa, Papeete,
-Saint-Denis-de-la-Réunion, Saint-Pierre-et-Miquelon.
+Bourges, Paris, Orléans, Versailles, Nouméa, Papeete, Saint-Denis-de-la-Réunion,
+Saint-Pierre-et-Miquelon.
 
 
 Rennes
