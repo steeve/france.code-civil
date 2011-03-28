@@ -2,7 +2,7 @@ Article L3814-6
 ----
 L'article L. 3223-1 applicable à Mayotte est ainsi rédigé :
 
-" Art. L. 3223-1. - La commission prévue à l'article L. 3222-5 :
+" Art.L. 3223-1.-La commission prévue à l'article L. 3222-5 :
 
 1° Est informée, dans les conditions prévues aux chapitres II et III du titre
 Ier du livre II de la présente partie, de toute hospitalisation sans le
@@ -26,10 +26,10 @@ réclamations des personnes hospitalisées ou de leur conseil, vérifie les
 informations transcrites sur le registre prévu à l'article L. 3212-11 et
 s'assure que toutes les mentions prescrites par la loi y sont portées ;
 
-6° Peut proposer au président du tribunal supérieur d'appel de Mamoudzou
-d'ordonner la sortie immédiate, en les formes et modalités prévues à l'article
-L. 3211-12, de toute personne hospitalisée sans son consentement ou retenue dans
-un établissement défini à l'article L. 3222-1.
+6° Peut proposer au président de la chambre d'appel de Mamoudzou d'ordonner la
+sortie immédiate, en les formes et modalités prévues à l'article L. 3211-12, de
+toute personne hospitalisée sans son consentement ou retenue dans un
+établissement défini à l'article L. 3222-1.
 
 Les personnels des établissements hospitaliers sont tenus de répondre à toutes
 demandes d'information formulées par la commission et de lui fournir toutes

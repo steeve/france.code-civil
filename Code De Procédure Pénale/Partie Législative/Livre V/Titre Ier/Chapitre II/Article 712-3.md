@@ -12,9 +12,9 @@ l'application des peines est juge de l'application des peines. Dans le ressort
 de la cour d'appel de Fort-de-France, un tribunal de l'application des peines
 est également établi au tribunal de grande instance de Cayenne et est composé
 d'au moins un juge de l'application des peines. En Nouvelle-Calédonie, en
-Polynésie française et dans les collectivités de Mayotte et de
-Saint-Pierre-et-Miquelon, le tribunal de l'application des peines peut être
-composé d'un seul membre, juge de l'application des peines.
+Polynésie française et dans la collectivité de Saint-Pierre-et-Miquelon, le
+tribunal de l'application des peines peut être composé d'un seul membre, juge de
+l'application des peines.
 
 Les débats contradictoires auxquels procède cette juridiction ont lieu au siège
 des différents tribunaux de grande instance du ressort de la cour d'appel ou

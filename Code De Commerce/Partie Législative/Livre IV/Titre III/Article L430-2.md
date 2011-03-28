@@ -34,11 +34,12 @@ physiques ou morales concernés est supérieur à 15 millions d'euros ;
 2004 du Conseil, du 20 janvier 2004, précité.
 
 III.-Lorsque au moins une des parties à la concentration exerce tout ou partie
-de son activité dans un ou plusieurs départements d'outre-mer ou dans les
-collectivités d'outre-mer de Mayotte, Saint-Pierre-et-Miquelon, Saint-Martin et
-Saint-Barthélemy, est soumise aux dispositions des articles L. 430-3 et suivants
-du présent titre toute opération de concentration, au sens de l'article L.
-430-1, lorsque sont réunies les trois conditions suivantes :
+de son activité dans un ou plusieurs départements d'outre-mer, dans le
+Département de Mayotte ou dans les collectivités d'outre-mer de
+Saint-Pierre-et-Miquelon, Saint-Martin et Saint-Barthélemy, est soumise aux
+dispositions des articles L. 430-3 et suivants du présent titre toute opération
+de concentration, au sens de l'article L. 430-1, lorsque sont réunies les trois
+conditions suivantes :
 
 -le chiffre d'affaires total mondial hors taxes de l'ensemble des entreprises ou
 groupes de personnes physiques ou morales parties à la concentration est

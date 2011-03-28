@@ -6,19 +6,19 @@ applicables en Polynésie française, dans les îles Wallis et Futuna et en
 Nouvelle-Calédonie, les mots suivants énumérés ci-dessous sont respectivement
 remplacés par les mots suivants :
 
-- "tribunal de grande instance" et "juges d'instances" par "tribunal de première
-instance" ;
+-" tribunal de grande instance " et " juges d'instances " par " tribunal de
+première instance " ;
 
-- "région" par "territoire" et, en ce qui concerne Mayotte, par "collectivité
-territoriale" ;
+-" région " par " territoire " et, en ce qui concerne Mayotte, par "
+collectivité territoriale " ;
 
-- "cour d'appel" par "tribunal supérieur d'appel de Mamoudzou" et "commissaire
-de police" par "officier de police judiciaire" pour ce qui concerne Mayotte ;
+-" cour d'appel " par " chambre d'appel de Mamoudzou" et " commissaire de police
+" par " officier de police judiciaire " pour ce qui concerne Mayotte ;
 
-- "tribunal de commerce" par "tribunal de première instance statuant en matière
-commerciale" ;
+-" tribunal de commerce " par " tribunal de première instance statuant en
+matière commerciale " ;
 
-- "conseil de prud'hommes" par "tribunal du travail".
+-" conseil de prud'hommes " par " tribunal du travail ".
 
 De même, les références à des dispositions législatives non applicables dans les
 îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises et

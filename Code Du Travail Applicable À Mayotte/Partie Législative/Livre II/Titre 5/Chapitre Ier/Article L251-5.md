@@ -15,5 +15,5 @@ totale ou partielle, définitive ou temporaire de l'établissement dans lequel
 n'auraient pas été faits les travaux de sécurité ou de salubrité imposés par la
 loi ou les règlements.
 
-Le jugement est susceptible d'appel, le tribunal supérieur d'appel statue
+Le jugement est susceptible d'appel, la chambre d'appel de Mamoudzou statue
 d'urgence.

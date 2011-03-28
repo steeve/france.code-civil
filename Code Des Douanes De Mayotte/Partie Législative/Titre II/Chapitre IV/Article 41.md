@@ -88,22 +88,23 @@ acte d'huissier de justice.
 
 Le délai et la voie de recours sont mentionnés dans l'ordonnance.
 
-L'ordonnance peut faire l'objet d'un appel devant le président du tribunal
-supérieur d'appel. Les parties ne sont pas tenues de constituer avoué.
+L'ordonnance peut faire l'objet d'un appel devant le président de la chambre
+d'appel de Mamoudzou. Les parties ne sont pas tenues de constituer avoué.
 
 Suivant les règles prévues par le code de procédure civile, cet appel doit être
 exclusivement formé par déclaration remise ou adressée, par pli recommandé ou
-par voie électronique, au greffe du tribunal supérieur d'appel dans un délai de
-quinze jours. Ce délai court à compter soit de la remise, soit de la réception,
-soit de la signification de l'ordonnance. Cet appel n'est pas suspensif.
+par voie électronique, au greffe de la chambre d'appel de Mamoudzou dans un
+délai de quinze jours. Ce délai court à compter soit de la remise, soit de la
+réception, soit de la signification de l'ordonnance. Cet appel n'est pas
+suspensif.
 
 Le greffe du tribunal de première instance transmet sans délai le dossier de
-l'affaire au greffe du tribunal supérieur d'appel où les parties peuvent le
+l'affaire au greffe de la chambre d'appel de Mamoudzou où les parties peuvent le
 consulter.
 
-L'ordonnance du président du tribunal supérieur d'appel est susceptible d'un
-pourvoi en cassation selon les règles prévues par le code de procédure civile.
-Le délai de pourvoi en cassation est de quinze jours.
+L'ordonnance du président de la chambre d'appel de Mamoudzou est susceptible
+d'un pourvoi en cassation selon les règles prévues par le code de procédure
+civile. Le délai de pourvoi en cassation est de quinze jours.
 
 b) La visite ne peut être commencée avant six heures ni après vingt et une
 heures. Elle est effectuée en présence de l'occupant des lieux ou de son
@@ -128,7 +129,7 @@ alinéa du présent b ; en cas de refus de signer, mention en est faite au
 procès-verbal.
 
 Si l'inventaire sur place présente des difficultés, les pièces, documents, biens
-et avoirs saisis sont placés sous scellés.L'occupant des lieux ou son
+et avoirs saisis sont placés sous scellés. L'occupant des lieux ou son
 représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu
 en présence de l'officier de police judiciaire ; l'inventaire est alors établi.
 
@@ -143,7 +144,7 @@ constate que les biens et avoirs saisis ne proviennent pas directement ou
 indirectement des délits dont la preuve est recherchée, il ordonne la mainlevée
 de la saisie et la restitution des biens et avoirs concernés.
 
-Le président du tribunal supérieur d'appel connaît des recours contre le
+Le président de la chambre d'appel de Mamoudzou connaît des recours contre le
 déroulement des opérations de visite ou de saisie autorisées en application du
 a. Le procès-verbal et l'inventaire rédigés à l'issue de ces opérations
 mentionnent le délai et la voie de recours. Les parties ne sont pas tenues de
@@ -151,18 +152,18 @@ constituer avoué.
 
 Suivant les règles prévues par le code de procédure civile, ce recours doit être
 exclusivement formé par déclaration remise ou adressée, par pli recommandé ou
-par voie électronique, au greffe du tribunal supérieur d'appel dans un délai de
-quinze jours. Ce délai court à compter de la remise ou de la réception soit du
-procès-verbal, soit de l'inventaire. Ce recours n'est pas suspensif.
+par voie électronique, au greffe de la chambre d'appel de Mamoudzou dans un
+délai de quinze jours. Ce délai court à compter de la remise ou de la réception
+soit du procès-verbal, soit de l'inventaire. Ce recours n'est pas suspensif.
 
-L'ordonnance du président du tribunal supérieur d'appel est susceptible d'un
-pourvoi en cassation selon les règles prévues par le code de procédure civile.
-Le délai de pourvoi en cassation est de quinze jours.
+L'ordonnance du président de la chambre d'appel de Mamoudzou est susceptible
+d'un pourvoi en cassation selon les règles prévues par le code de procédure
+civile. Le délai de pourvoi en cassation est de quinze jours.
 
 3. Les agents des douanes peuvent intervenir sans l'assistance d'un officier de
 police judiciaire pour la recherche des marchandises qui, poursuivies à vue sans
 interruption dans les conditions prévues par l'article 208 ci-après, sont
 introduites dans une maison ou autre bâtiment.
 
-4.S'il y a refus d'ouverture des portes, les agents des douanes peuvent les
+4. S'il y a refus d'ouverture des portes, les agents des douanes peuvent les
 faire ouvrir en présence d'un officier de police judiciaire.

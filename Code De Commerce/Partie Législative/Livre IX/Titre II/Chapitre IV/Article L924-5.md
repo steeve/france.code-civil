@@ -13,7 +13,7 @@ saisie du dossier. La mesure cesse d'avoir effet en cas de décision de non-lieu
 ou de relaxe.
 
 Les décisions statuant sur les demandes de mainlevée peuvent faire l'objet d'un
-recours devant le tribunal supérieur d'appel.
+recours devant la chambre d'appel de Mamoudzou.
 
-Le tribunal supérieur d'appel statue dans un délai de dix jours à compter de la
-réception des pièces. "
+La chambre d'appel de Mamoudzou statue dans un délai de dix jours à compter de
+la réception des pièces. "

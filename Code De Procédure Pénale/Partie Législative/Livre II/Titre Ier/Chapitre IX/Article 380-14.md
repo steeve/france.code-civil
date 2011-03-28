@@ -16,11 +16,11 @@ d'appel d'une décision de la cour d'assises d'un département d'outre-mer, de l
 Nouvelle-Calédonie, de la Polynésie française et des îles Wallis-et-Futuna, la
 chambre criminelle peut désigner la même cour d'assises, autrement composée,
 pour connaître de l'appel. Les dispositions du présent alinéa sont également
-applicables en cas d'appel des décisions de la cour criminelle de Mayotte ou du
+applicables en cas d'appel des décisions de la cour d'assises de Mayotte ou du
 tribunal criminel de Saint-Pierre-et-Miquelon. En cas de vacance de poste,
 d'absence, d'empêchement ou d'incompatibilité légale, les fonctions de président
 de la juridiction criminelle statuant en appel et, le cas échéant, des
 magistrats assesseurs qui la composent, sont exercées par des conseillers
 désignés, sur une liste arrêtée pour chaque année civile, par le premier
-président de la cour d'appel de Paris, ou, pour la cour criminelle de Mayotte,
+président de la cour d'appel de Paris, ou, pour la cour d'assises de Mayotte,
 par le premier président de la cour d'appel de Saint-Denis-de-la-Réunion.
