@@ -28,10 +28,6 @@ Lot-et-Garonne
 
 [Agen
 
-Ressort des tribunaux de grande instance d'Agen et Marmande. (3)]
-
-[Agen
-
 Ressort du tribunal de grande instance d'Agen. (4)]
 
 Cour d'appel d'Aix-en-Provence
@@ -125,20 +121,12 @@ Somme
 
 [Amiens
 
-Ressort des tribunaux de grande instance d'Abbeville, Amiens et Péronne. (3)]
-
-[Amiens
-
 Ressort du tribunal de grande instance d'Amiens. (4)]
 
 Cour d'appel d'Angers
 
 
 Maine-et-Loire
-
-[Angers
-
-Ressort des tribunaux de grande instance d'Angers et Saumur. (3)]
 
 [Angers
 
@@ -207,18 +195,10 @@ Haute-Saône
 
 [Vesoul
 
-Ressort des tribunaux de grande instance de Lure et Vesoul. (3)]
-
-[Vesoul
-
 Ressort du tribunal de grande instance de Vesoul. (4)]
 
 
 Jura
-
-[Lons-le-Saunier
-
-Ressort des tribunaux de grande instance de Dole et Lons-le-Saunier. (3)]
 
 [Lons-le-Saunier
 
@@ -302,10 +282,6 @@ Manche
 Cherbourg-Octeville
 
 Ressort du tribunal de grande instance de Cherbourg-Octeville.
-
-[Coutances
-
-Ressort des tribunaux de grande instance d'Avranches et Coutances. (3)]
 
 [Coutances
 
@@ -419,10 +395,6 @@ Ressort du tribunal de grande instance de Douai.
 
 [Dunkerque
 
-Ressort des tribunaux de grande instance de Dunkerque et Hazebrouck. (3)]
-
-[Dunkerque
-
 Ressort du tribunal de grande instance de Dunkerque. (4)]
 
 
@@ -516,10 +488,6 @@ Corrèze
 
 [Brive-la-Gaillarde
 
-Ressort des tribunaux de grande instance de Brive-la-Gaillarde et Tulle. (3)]
-
-[Brive-la-Gaillarde
-
 Ressort du tribunal de grande instance de Brive-la-Gaillarde. (4)]
 
 
@@ -543,10 +511,6 @@ Ain
 
 [Bourg-en-Bresse
 
-Ressort des tribunaux de grande instance de Belley et Bourg-en-Bresse. (3)]
-
-[Bourg-en-Bresse
-
 Ressort du tribunal de grande instance de Bourg-en-Bresse. (4)]
 
 
@@ -555,10 +519,6 @@ Loire
 Roanne
 
 Ressort du tribunal de grande instance de Roanne.
-
-[Saint-Etienne
-
-Ressort des tribunaux de grande instance de Montbrison et Saint-Etienne. (3)]
 
 [Saint-Etienne
 
@@ -614,10 +574,6 @@ Aveyron
 
 [Rodez
 
-Ressort des tribunaux de grande instance de Millau et Rodez. (3)]
-
-[Rodez
-
 Ressort du tribunal de grande instance de Rodez. (4)]
 
 
@@ -662,10 +618,6 @@ Ressort des tribunaux de grande instance de Bar-le-Duc et Verdun.
 
 
 Vosges
-
-[Epinal
-
-Ressort des tribunaux de grande instance d'Epinal et Saint-Dié-des-Vosges. (3)]
 
 [Epinal
 
@@ -848,15 +800,7 @@ Charente-Maritime
 
 [La Rochelle
 
-Ressort du tribunal de grande instance de La Rochelle. (5)]
-
-[La Rochelle
-
 Ressort des tribunaux de grande instance de La Rochelle et Saintes. (4)]
-
-[Rochefort
-
-Ressort des tribunaux de grande instance de Rochefort et Saintes. (5)]
 
 [La Rochelle
 
@@ -868,10 +812,6 @@ Ressort du tribunal de grande instance de Saintes. (6)]
 
 
 Deux-Sèvres
-
-[Niort
-
-Ressort des tribunaux de grande instance de Bressuire et Niort. (3)]
 
 [Niort
 
@@ -924,24 +864,12 @@ Cour d'appel de Rennes
 
 Côtes-d'Armor
 
-[Guingamp
-
-Ressort du tribunal de grande instance de Guingamp. (3)]
-
-[Saint-Brieuc
-
-Ressort des tribunaux de grande instance de Dinan et de Saint-Brieuc. (3)]
-
 [Saint-Brieuc
 
 Ressort du tribunal de grande instance de Saint-Brieuc. (4)]
 
 
 Finistère
-
-[Brest
-
-Ressort des tribunaux de grande instance de Brest et Morlaix. (3)]
 
 [Brest
 
@@ -1016,20 +944,12 @@ Puy-de-Dôme
 
 [Clermont-Ferrand
 
-Ressort des tribunaux de grande instance de Clermont-Ferrand et Riom. (3)]
-
-[Clermont-Ferrand
-
 Ressort du tribunal de grande instance de Clermont-Ferrand. (4)]
 
 Cour d'appel de Rouen
 
 
 Eure
-
-[Evreux
-
-Ressort des tribunaux de grande instance de Bernay et Evreux. (3)]
 
 [Evreux
 
@@ -1066,6 +986,14 @@ Saint-Pierre
 
 Ressort du tribunal de grande instance de Saint-Pierre.
 
+
+Mayotte
+
+Mamoudzou
+
+
+Ressort du tribunal de grande instance de Mamoudzou
+
 Cour d'appel de Toulouse
 
 
@@ -1077,10 +1005,6 @@ Ressort du tribunal de grande instance de Foix.
 
 
 Haute-Garonne
-
-[Toulouse
-
-Ressort des tribunaux de grande instance de Saint-Gaudens et Toulouse. (3)]
 
 [Toulouse
 
@@ -1135,15 +1059,6 @@ Versailles
 
 Ressort du tribunal de grande instance de Versailles.
 
-Tribunal supérieur d'appel de Mamoudzou
-
-
-Mayotte
-
-Mamoudzou
-
-Ressort du tribunal de première instance de Mamoudzou.
-
 Tribunal supérieur d'appel de Saint-Pierre
 
 
@@ -1151,13 +1066,10 @@ Saint-Pierre-et-Miquelon
 
 Saint-Pierre
 
-Ressort du tribunal de première instance de Saint-Pierre.
 
-(3) Applicable jusqu'au 31 décembre 2010.
+Ressort du tribunal de grande instance de Saint-Pierre
 
 (4) Applicable à compter du 1er janvier 2011.
-
-(5) Applicable jusqu'au 31 décembre 2010.
 
 (6) Applicable à compter du 1er janvier 2011.
 

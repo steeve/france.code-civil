@@ -21,5 +21,4 @@ Paris
 Agen, Amiens, Angers, Basse-Terre, Besançon, Bordeaux, Bourges, Caen, Colmar,
 Dijon, Douai, Fort-de-France, Limoges, Metz, Nancy, Nouméa, Orléans, Papeete,
 Paris, Pau, Poitiers, Reims, Rennes, Riom, Rouen, Saint-Denis-de-la-Réunion,
-Toulouse, Versailles, et tribunaux supérieurs d'appel de Mamoudzou et
-Saint-Pierre-et-Miquelon
+Toulouse, Versailles, et tribunal supérieur d'appel de Saint-Pierre-et-Miquelon

@@ -50,7 +50,7 @@ Ressort des cours d'appel de Besançon, Dijon, Metz et Nancy.
 Paris
 
 Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete,
-Saint-Denis et des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre.
+Saint-Denis et du tribunal supérieur d'appel de Saint-Pierre.
 
 
 Rennes

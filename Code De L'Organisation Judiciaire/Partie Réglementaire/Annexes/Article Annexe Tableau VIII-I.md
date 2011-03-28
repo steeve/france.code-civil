@@ -6,7 +6,7 @@ actions aux fins de reconnaissance des jugements d'adoption rendus à l'étrange
 lorsque l'enfant résidant habituellement à l'étranger a été, est ou doit être
 déplacé vers la France
 
-(annexe de l'article D. 211-11)
+(annexe de l'article D. 211-10-1)
 
 
 SIÈGE
@@ -257,13 +257,6 @@ Cour d'appel de Versailles
 Nanterre
 
 Ressort de la cour d'appel de Versailles.
-
-Tribunal supérieur d'appel de Mamoudzou
-
-
-Mamoudzou
-
-Ressort du tribunal supérieur d'appel de Mamoudzou.
 
 Tribunal supérieur d'appel de Saint-Pierre
 

@@ -1579,6 +1579,13 @@ Ressort du tribunal d'instance de Rouen. (4)]
 Cour d'appel de Saint-Denis
 
 
+Mayotte
+
+Mamoudzou
+
+Ressort du tribunal d'instance de Mamoudzou
+
+
 Réunion
 
 Saint-Benoît
@@ -1775,15 +1782,6 @@ Saint-Pierre-et-Miquelon
 Saint-Pierre
 
 Ressort du tribunal de Première instance de Saint-Pierre.
-
-Tribunal supérieur d'appel de Mamoudzou
-
-
-Mayotte
-
-Mamoudzou
-
-Ressort du tribunal de Première instance de Mamoudzou.
 
 (2) applicable à compter du 1er janvier 2009.
 

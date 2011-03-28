@@ -1,8 +1,9 @@
 Article Annexe 9-2
 ----
-JURIDICTIONS COMPÉTENTES DANS LES COLLECTIVITÉS D'OUTRE-MER ET EN
-NOUVELLE-CALÉDONIE POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 610-1, DES
-PROCÉDURES APPLICABLES AUX COMMERCANTS ET ARTISANS
+Juridictions compétentes dans les collectivités d'outre-mer et en
+Nouvelle-Calédonie pour connaître en application de l'article L. 610-1 ou de
+l'article L. 621-5 dans sa version applicable à la Polynésie française des
+procédures applicables aux commerçants et artisans
 
 
 COLLECTIVITÉ
@@ -11,12 +12,6 @@ JURIDICTION
 
 
 RESSORT
-
-Mayotte.
-
-Tribunal de première instance de Mamoudzou.
-
-La collectivité territoriale.
 
 Saint-Pierre-et-Miquelon.
 

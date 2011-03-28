@@ -2,8 +2,8 @@ Article R381
 ----
 Les deux premiers alinéas de l'article R. 70 sont rédigés comme suit :
 
-" Art. R. 70. - Les fiches sont retirées du casier judiciaire et détruites par
-le greffier du tribunal de première instance dans les cas suivants :
+" Art. R. 70.-Les fiches sont retirées du casier judiciaire et détruites par le
+greffier du tribunal de grande instance dans les cas suivants :
 
 " 1° Au décès du titulaire de la fiche, établi notamment par la mention au
 registre de l'état civil des naissances en application de l'article 79 du code

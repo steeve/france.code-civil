@@ -1814,7 +1814,7 @@ Cayenne
 
 Cayenne
 
-Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, Cayenne 2e canton
+Cantons d'Approuague-Kaw, Cayenne 1, r canton Nord-Ouest, Cayenne 2e canton
 Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e
 canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana,
 Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura,
@@ -2063,18 +2063,11 @@ Saint-Sulpice-les Champs et Saint-Vaury. (9)]
 
 [Guéret
 
-Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche,
-
-Bénévent-l'Abbaye, Bonnat, Bourganeuf, Boussac, Chambon-sur-Voueize,
-
-Châtelus-Malvaleix, Chénérailles, Crocq, Dun-le-Palestel,
-
-Évaux-les-Bains, Felletin, Gentioux-Pigerolles, Guéret-Nord,
-
-Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La Courtine,
-
-La Souterraine, Le Grand-Bourg, Pontarion, Royère-de-Vassière,
-
+Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche, Bénévent-l'Abbaye,
+Bonnat, Bourganeuf, Boussac, Chambon-sur-Voueize, Châtelus-Malvaleix,
+Chénérailles, Crocq, Dun-le-Palestel, Évaux-les-Bains, Felletin,
+Gentioux-Pigerolles, Guéret-Nord, Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La
+Courtine, La Souterraine, Le Grand-Bourg, Pontarion, Royère-de-Vassière,
 Saint-Sulpice-les Champs et Saint-Vaury. (10)]
 
 
@@ -4291,6 +4284,18 @@ canton, Saint-Leu 2e canton, Saint-Louis 1er canton, Saint-Louis 2e canton,
 Saint-Louis 3e canton, Saint-Philippe, Saint-Pierre 1er canton, Saint-Pierre 2e
 canton, Saint-Pierre 3e canton et Saint-Pierre 4e canton.
 
+
+Mayotte
+
+Mamoudzou
+
+
+Mamoudzou
+
+Cantons de Acoua, Bandraboua, Bandrele, Bouéni, Chiconi, Chirongui, Dembeni,
+Dzaoudzi, Kani-Kéli, Koungou, Mamoudzou-I-, Mamoudzou-II, Mamoudzou-III,
+Mtsamboro, M'Tsangamouji, Ouangani, Pamandzi, Sada, Tsingoni.
+
 Cour d'appel de Toulouse
 
 
@@ -4698,15 +4703,6 @@ Siège du tribunal de première instance et de la juridiction de proximité
 
 
 Ressort
-
-Tribunal supérieur d'appel de Mamoudzou
-
-
-Mayotte
-
-Mamoudzou
-
-Collectivité départementale de Mayotte.
 
 Tribunal supérieur d'appel de Saint-Pierre
 

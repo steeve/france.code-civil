@@ -1,9 +1,9 @@
 Article R336-1
 ----
-I. - Les articles R. 331-1, R. 331-3 et R. 335-4 ne sont pas applicables à
+I.-Les articles R. 331-1, R. 331-3 et R. 335-4 ne sont pas applicables à
 Mayotte.
 
-II. - Pour l'application du présent titre à Mayotte :
+II.-Pour l'application du présent titre à Mayotte :
 
 1° Le représentant local de la Banque de France à la commission est le directeur
 de l'agence locale de l'Institut d'émission des départements d'outre-mer. Il
@@ -17,11 +17,11 @@ références au trésorier-payeur général de Mayotte ;
 tribunal de première instance ;
 
 4° Les références au " juge de l'exécution " sont remplacées par les références
-au " président du tribunal de première instance ou le juge délégué par lui " ,
+au " président du tribunal de première instance ou le juge délégué par lui ",
 les références au " juge " sont remplacées par les références au " président du
 tribunal de première instance ou le juge délégué par lui " et les références au
 " premier président de la cour d'appel " sont remplacées par les références au "
-président du tribunal supérieur d'appel " ;
+président de la chambre d'appel de Mamoudzou " ;
 
 5° Les mots : " Bulletin officiel des annonces civiles et commerciales " sont
 remplacés par les mots : " Bulletin officiel de Mayotte " ;

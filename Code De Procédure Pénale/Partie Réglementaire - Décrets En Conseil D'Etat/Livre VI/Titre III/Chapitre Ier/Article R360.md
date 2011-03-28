@@ -1,5 +1,5 @@
 Article R360
 ----
-Pour l'application du présent code (règlements d'administration publique et
-décrets en Conseil d'Etat) à Mayotte, il est tenu compte des adaptations prévues
-par le présent titre.
+Pour l'application du présent code (deuxième partie : décrets en Conseil d'Etat)
+dans le Département de Mayotte, il est tenu compte des adaptations prévues par
+le présent titre.

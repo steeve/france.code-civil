@@ -255,13 +255,6 @@ Nanterre
 
 Ressort de la cour d'appel de Versailles.
 
-Tribunal supérieur d'appel de Mamoudzou
-
-
-Mamoudzou
-
-Ressort du tribunal supérieur d'appel de Mamoudzou.
-
 Tribunal supérieur d'appel de Saint-Pierre
 
 

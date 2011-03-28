@@ -63,8 +63,3 @@ Ressort de la cour d'appel de Saint-Denis.
 Saint-Pierre-et-Miquelon
 
 Ressort du tribunal supérieur d'appel de Saint-Pierre.
-
-
-Mamoudzou
-
-Ressort du tribunal supérieur d'appel de Mamoudzou.

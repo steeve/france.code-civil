@@ -32,8 +32,8 @@ mots : " chef du service des affaires maritimes " ;
 9° Les mots : " tribunal d'instance " ou " tribunal de grande instance " sont
 remplacés par les mots : " tribunal de première instance " ;
 
-10° Les mots : " cour d'appel " sont remplacés par les mots : " tribunal
-supérieur d'appel " ;
+10° Les mots : " cour d'appel " sont remplacés par les mots : "chambre d'appel
+de Mamoudzou" ;
 
 11° La référence au conseil départemental de l'environnement, des risques
 sanitaires et technologiques est remplacée par la référence au conseil d'hygiène
