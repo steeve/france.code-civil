@@ -1,6 +1,6 @@
 Article LO489
 ----
-I. - Sont inéligibles au conseil territorial :
+I.-Sont inéligibles au conseil territorial :
 
 1° Pendant un an à compter de la décision juridictionnelle constatant
 l'inéligibilité, le président du conseil territorial et les membres de celui-ci
@@ -25,12 +25,11 @@ qui a refusé, sans excuse valable, d'exercer les fonctions qui lui sont dévolu
 par la loi, conformément à l'article LO 6221-3 du code général des collectivités
 territoriales ;
 
-6° Le Médiateur de la République et le défenseur des enfants, sauf s'ils
-exerçaient le même mandat antérieurement à leur nomination.
+6° Le Défenseur des droits (1).
 
-II. - En outre, ne peuvent être élus membres du conseil territorial s'ils
-exercent leurs fonctions à Saint-Barthélemy ou s'ils les ont exercées depuis
-moins de six mois :
+II.-En outre, ne peuvent être élus membres du conseil territorial s'ils exercent
+leurs fonctions à Saint-Barthélemy ou s'ils les ont exercées depuis moins de six
+mois :
 
 1° Les magistrats des juridictions administratives et des juridictions
 judiciaires ; les juges de proximité ; le secrétaire général de la chambre
@@ -62,7 +61,7 @@ l'hospitalisation ; les directeurs des organismes régionaux et locaux de la
 sécurité sociale ; les directeurs des caisses primaires et des caisses
 régionales de sécurité sociale.
 
-III. - Les agents salariés de la collectivité ne peuvent être élus au conseil
+III.-Les agents salariés de la collectivité ne peuvent être élus au conseil
 territorial. Ne sont pas compris dans cette catégorie ceux qui, étant
 fonctionnaires ou exerçant une profession indépendante, ne reçoivent une
 indemnité de la collectivité qu'à raison des services qu'ils lui rendent dans

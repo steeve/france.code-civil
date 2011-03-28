@@ -1,12 +1,7 @@
 Article LO130
 ----
-Les individus dont la condamnation empêche temporairement l'inscription sur une
-liste électorale sont inéligibles pendant une période double de celle durant
-laquelle ils ne peuvent être inscrits sur la liste électorale.
+Sont inéligibles pendant la durée de leurs fonctions :
 
-Sont en outre inéligibles :
+1° Le Défenseur des droits et ses adjoints (1) ;
 
-1° les individus privés par décision judiciaire de leur droit d'éligibilité, en
-application des lois qui autorisent cette privation;
-
-2° les personnes pourvues d'un conseil judiciaire.
+2° Le contrôleur général des lieux de privation de liberté.
