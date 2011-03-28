@@ -1,29 +1,29 @@
 Article R213-48-14
 ----
-I. - Un ensemble d'installations, captages, forages ou puits reliés entre eux
-pour assurer la mise à disposition de la ressource en eau par des prélèvements
+I.-Un ensemble d'installations, captages, forages ou puits reliés entre eux pour
+assurer la mise à disposition de la ressource en eau par des prélèvements
 réalisés par une même personne dans une même masse d'eau est considéré comme une
 source unique de prélèvements.
 
-II. - L'assiette de la redevance pour prélèvement sur la ressource en eau est,
-en ce qui concerne l'alimentation en eau potable, le volume prélevé par les
+II.-L'assiette de la redevance pour prélèvement sur la ressource en eau est, en
+ce qui concerne l'alimentation en eau potable, le volume prélevé par les
 services d'eau potable au sens du I de l'article L. 2224-7 du code général des
 collectivités territoriales.
 
 Les usages pour l'irrigation mentionnés au tableau du V de l'article L. 213-10-9
 sont ceux réalisés par des exploitants agricoles pour l'irrigation des cultures.
 
-III. - L'organisme unique mentionné au 6° du II de l'article L. 211-3 peut être
+III.-L'organisme unique mentionné au 6° du II de l'article L. 211-3 peut être
 assujetti à sa demande dans son périmètre aux redevances pour prélèvement sur la
 ressource en eau pour les usages liés à l'irrigation définis par l'article L.
 213-10-9. Dans ce cas, les redevances sont récupérées par l'organisme unique
 auprès de chaque bénéficiaire des répartitions de prélèvements.
 
 En zone de répartition des eaux, le taux de la redevance en vigueur pour une
-ressource de catégorie 1 s'applique à partir de l'année où l'organisme unique
-bénéficie de l'autorisation de prélèvement.
+ressource de catégorie 1 s'applique à partir de l'année au cours de laquelle est
+pris l'arrêté désignant l'organisme unique.
 
-IV. - En application du 1° du VI de l'article L. 213-10-9, la redevance due pour
+IV.-En application du 1° du VI de l'article L. 213-10-9, la redevance due pour
 un prélèvement d'eau destiné à l'alimentation d'un canal est calculée au prorata
 des volumes utilisés pour chaque usage mentionné au tableau du V du même
 article, après déduction, d'une part, des volumes turbinés par une ou plusieurs
@@ -38,15 +38,22 @@ notifie au gestionnaire le montant des redevances dues en application du tableau
 du V de l'article L. 213-10-9, le gestionnaire en répercutant le montant sur les
 usagers du canal.
 
-V. - En l'absence de mesure ou de communication des résultats de la mesure, le
-volume d'eau prélevé est calculé forfaitairement en multipliant le nombre
-d'unités de la grandeur caractéristique de l'activité à l'origine du prélèvement
-par un volume forfaitaire prélevé par unité. Un arrêté du ministre chargé de
-l'environnement définit pour chaque grandeur caractéristique d'une activité le
-volume forfaitaire d'eau prélevé déterminé à partir de résultats de mesures des
-prélèvements des activités concernées.
+V.-En cas d'impossibilité avérée d'installer et de mettre en œuvre un dispositif
+de mesure des volumes prélevés, le volume d'eau prélevé est calculé en
+multipliant le nombre d'unités de la grandeur caractéristique de l'activité à
+l'origine du prélèvement par un volume forfaitaire d'eau prélevé par unité. Un
+arrêté du ministre chargé de l'environnement fixe pour chaque grandeur
+caractéristique d'une activité le volume forfaitaire d'eau prélevé déterminé à
+partir de résultats de mesures de prélèvements des activités en cause.
 
-VI. - Pour l'application du 3° du VI de l'article L. 213-10-9, les installations
+Lorsque la fixation d'un volume forfaitaire d'eau prélevé par unité n'est pas
+possible, le volume d'eau prélevé est déterminé à partir des caractéristiques et
+des conditions de fonctionnement de l'ouvrage ou du dispositif de prélèvement
+communiquées par le gestionnaire de l'ouvrage avant le 31 mars de chaque année
+ou, en l'absence de communication de ces données, à partir du volume du
+prélèvement mentionné dans l'acte administratif relatif à ce prélèvement.
+
+VI.-Pour l'application du 3° du VI de l'article L. 213-10-9, les installations
 hydroélectriques ne fonctionnant pas au fil de l'eau sont celles dont le titre
 administratif autorise le fonctionnement par éclusées. En l'absence de mention
 dans le titre administratif, sont réputées fonctionner au fil de l'eau les

@@ -1,8 +1,12 @@
 Article R213-48-34
 ----
-I. - Pour être habilité à exécuter les contrôles techniques mentionnés au
-dernier alinéa de l'article L. 213-11-1, l'organisme de contrôle doit déposer un
-dossier auprès du préfet coordonnateur de bassin.
+I.-Pour être habilité à exécuter les contrôles techniques mentionnés au dernier
+alinéa de l'article L. 213-11-1, l'organisme de contrôle doit déposer un dossier
+auprès du préfet coordonnateur de bassin. Lorsqu'en application de l'article L.
+213-11-15-1 une agence de l'eau a été désignée pour établir le titre de recette
+et assurer le recouvrement d'une redevance, le préfet coordonnateur du bassin
+correspondant à la circonscription de cette agence de l'eau est l'autorité
+compétente pour statuer sur la demande d'habilitation.
 
 Le dossier indique le domaine des contrôles pour lequel l'habilitation est
 demandée. Il comporte la description de l'ensemble des moyens humains et
@@ -18,9 +22,11 @@ garantir la confidentialité des informations recueillies au cours ou à
 l'occasion de ses analyses ou contrôles, sauf à l'égard de l'autorité
 administrative qui les a demandés et de la personne contrôlée.
 
-II. - L'habilitation est prononcée par le préfet coordonnateur de bassin pour
-une période de trois ans, renouvelable selon la même procédure. Elle précise les
-catégories d'analyses et de contrôles pour lesquels elle est accordée.
+II.-L'habilitation est prononcée par le préfet coordonnateur de bassin pour une
+période de trois ans, renouvelable selon la même procédure. Elle précise les
+catégories d'analyses et de contrôles pour lesquels elle est
+accordée.L'habilitation ainsi accordée est applicable pour la durée de sa
+validité dans les circonscriptions de toutes les agences de l'eau.
 
 Le silence gardé par le préfet coordonnateur de bassin pendant plus de quatre
 mois sur une demande d'habilitation vaut décision de rejet.

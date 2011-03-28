@@ -20,8 +20,13 @@ seule déclaration pour l'ensemble de ses établissements secondaires au sens de
 l'article R. 123-40 du code de commerce, situés dans le ressort de l'agence ;
 
 Les distributeurs commercialisant exclusivement des produits portant la mention
-"emploi autorisé dans les jardins" adressent leur déclaration à l'agence dans le
-ressort de laquelle est situé leur établissement principal ;
+" emploi autorisé dans les jardins " adressent leur déclaration à l'agence dans
+le ressort de laquelle est situé leur établissement principal ;
 
 4° Le siège de l'organisme chargé de collecter la redevance mentionnée à
 l'article L. 213-10-12.
+
+Lorsqu'une agence de l'eau a été désignée en application de l'article L.
+213-11-15-1 pour l'établissement du titre de recette et le recouvrement d'une
+redevance, la déclaration relative à cette redevance est remise ou retournée à
+cette agence.
