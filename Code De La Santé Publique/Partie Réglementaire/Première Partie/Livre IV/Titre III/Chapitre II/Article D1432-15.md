@@ -1,6 +1,6 @@
 Article D1432-15
 ----
-I. - Le conseil de surveillance est composé de vingt-cinq membres.
+I.-Le conseil de surveillance est composé de vingt-cinq membres.
 
 Outre le représentant de l'Etat dans la région qui le préside, le conseil de
 surveillance comprend les membres suivants qui ont voix délibérative :
@@ -72,7 +72,7 @@ c) Un représentant d'une association œuvrant en faveur des personnes âgées ;
 désignées par les ministres chargés de la santé, de l'assurance maladie, des
 personnes âgées et des personnes handicapées.
 
-II. - Un suppléant est désigné pour chaque membre titulaire mentionné aux 2°, 3°
+II.-Un suppléant est désigné pour chaque membre titulaire mentionné aux 2°, 3°
 et 4° du I dans les mêmes conditions que celui-ci, à l'exception :
 
 1° Du suppléant du membre titulaire au titre du régime social des indépendants,
@@ -91,8 +91,16 @@ dans l'empêchement de siéger. Il le remplace jusqu'à l'expiration du mandat e
 cours lorsque le membre titulaire cesse de faire partie du conseil de
 surveillance.
 
-III. - Les personnes physiques ou morales, mentionnées aux 2°, 3° et 4° du I du
+III.-Les personnes physiques ou morales, mentionnées aux 2°, 3° et 4° du I du
 présent article, chargées de désigner des représentants titulaires et suppléants
 communiquent leurs noms aux ministres chargés de la santé, de l'assurance
 maladie, des personnes âgées et handicapées à une date fixée par arrêté
 interministériel.
+
+IV.-Siègent avec voix consultative au conseil de surveillance :
+
+1° Deux représentants du personnel élus par leurs pairs au sein du comité
+d'agence prévu à l'article L. 1432-10 du code de la santé publique ;
+
+2° Le directeur général, celui-ci peut se faire assister des personnes de son
+choix.
