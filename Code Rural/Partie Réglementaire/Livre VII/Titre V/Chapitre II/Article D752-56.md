@@ -10,11 +10,12 @@ L'arrêté mentionné à l'article L. 752-17 détermine sur la base des prévisi
 présentées par la Caisse centrale de la mutualité sociale agricole le montant
 des cotisations qui sera affecté, en application des articles L. 752-17, L.
 752-18 et L. 752-29, au financement des prestations, aux frais de contrôle
-médical, aux dépenses de prévention et au financement du fonds de réserve des
-rentes. Ce même arrêté fixe le montant des cotisations affecté, en application
-de l'article L. 752-17, aux frais de gestion sur la base des prévisions
-budgétaires présentées respectivement par la Caisse centrale de la mutualité
-sociale agricole et le groupement mentionné à l'article L. 752-14.
+médical, aux dépenses de prévention, au financement du fonds de réserve des
+rentes et au financement du dispositif de compensation de la pénibilité. Ce même
+arrêté fixe le montant des cotisations affecté, en application de l'article L.
+752-17, aux frais de gestion sur la base des prévisions budgétaires présentées
+respectivement par la Caisse centrale de la mutualité sociale agricole et le
+groupement mentionné à l'article L. 752-14.
 
 Ces montants sont fixés après consultation de la section des accidents du
 travail du Conseil supérieur des prestations sociales agricoles.

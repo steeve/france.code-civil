@@ -1,6 +1,6 @@
 Article D242-6-9
 ----
-Les trois majorations mentionnées à l'article D. 242-6-3 sont déterminées de la
+Les quatre majorations mentionnées à l'article D. 242-6-3 sont déterminées de la
 façon suivante :
 
 1° Une majoration forfaitaire correspondant à la couverture des accidents du
@@ -8,7 +8,7 @@ trajet est fixée en pourcentage des salaires ;
 
 2° Une majoration couvrant les frais de rééducation professionnelle, les charges
 de gestion du fonds national des accidents du travail, les dépenses liées aux
-prélèvements au profit des fonds visés à l'article R. 252-5, 50 % du montant du
+prélèvements au profit des fonds visés à l'article R. 252-5,50 % du montant du
 versement annuel mentionné à l'article L. 176-1, est calculée en pourcentage du
 taux brut augmenté de la majoration visée au 1° ci-dessus ;
 
@@ -23,3 +23,8 @@ la loi n° 98-1194 du 23 décembre 1998 et la valeur du risque constituée par l
 dépenses inscrites au compte spécial visé à l'article D. 242-6-3 et 50 % du
 montant du versement annuel mentionné à l'article L. 176-1, est fixée en
 pourcentage des salaires.
+
+4° Une majoration correspondant au montant de la contribution mentionnée à
+l'article L. 241-3 couvrant les dépenses supplémentaires engendrées par les
+départs en retraite à l'âge fixé en application de l'article L. 351-1-4 est
+fixée en pourcentage des salaires.
