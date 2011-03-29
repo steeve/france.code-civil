@@ -1,7 +1,5 @@
 Article R353-160
 ----
-Dans la mesure où le gestionnaire ne peut justifier par la comptabilité de
-l'établissement les éléments entrant dans le calcul du montant de l'équivalence
-de loyer et des charges locatives, la convention peut prévoir qu'à titre
-transitoire ce montant est établi en appliquant à la redevance un abattement
-forfaitaire dont elle précise le taux.
+Les conventions types mentionnées au III de l'article R. 353-159 déterminent,
+dans les conditions prévues à l'article L. 353-2, la durée et les conditions de
+renouvellement et de dénonciation des conventions.

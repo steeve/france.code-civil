@@ -1,10 +1,8 @@
 Article R353-161
 ----
-La durée de la convention ne peut être inférieure à un an. La convention est
-renouvelable par tacite reconduction pour la même durée sous réserve de
-dénonciation expresse par l'une ou l'autre partie dans les conditions fixées par
-la convention.
-
-La convention conclue par application de l'article L. 353-2 du code de la
-construction et de l'habitation doit être conforme à l'une des conventions types
-annexées au présent article.
+Pendant la durée de la convention ouvrant droit à l'aide personnalisée au
+logement, le préfet du département d'implantation du logement-foyer est tenu
+informé des modifications apportées à la convention de location conclue entre le
+propriétaire et le gestionnaire de l'établissement. Ces modifications ne peuvent
+conduire à remettre en cause les engagements pris dans la convention ouvrant
+droit à l'aide personnalisée au logement.

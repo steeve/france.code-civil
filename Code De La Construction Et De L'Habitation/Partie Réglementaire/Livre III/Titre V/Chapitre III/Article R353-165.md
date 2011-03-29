@@ -1,6 +1,13 @@
 Article R353-165
 ----
-Les articles L. 353-1 à L. 353-13 sont applicables aux résidences sociales
-mentionnées à l'article R. 351-55 et assimilées à des logements à usage locatif
-en application du 5° de l'article L. 351-2 et de la section IV du chapitre Ier
-du présent titre sous réserve des dispositions de la présente sous-section.
+I.-Sans préjudice des dispositions des articles L. 353-6 et L. 353-12, en cas de
+non-respect par le bailleur au sens du I de l'article R. 353-159, des
+engagements prévus par la convention, le préfet peut, après avoir mis le
+gestionnaire en mesure de présenter ses observations, prononcer des pénalités,
+dans les conditions précisées par la convention.
+
+II.-En cas de non-respect par le gestionnaire d'un logement-foyer dénommé
+résidence sociale des engagements prévus dans la convention conditionnant le
+bénéfice de l'aide personnalisée au logement, l'autorité administrative
+compétente peut retirer l'agrément d'intermédiation locative et de gestion
+locative sociale mentionné aux articles L. 365-4 et R. 365-8.
