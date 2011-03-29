@@ -4,7 +4,8 @@ Afin d'identifier l'ensemble des comptes détenus par les personnes mentionnées
 l'article L. 131-72 :
 
 1° L'Institut d'émission des départements d'outre-mer consulte les déclarations
-mentionnées aux articles R. 721-1 et R. 731-1.
+mentionnées aux articles R. 721-1, R. 731-1 et à l'article 1er du décret n°
+2011-358 du 30 mars 2011.
 
 2° L'Institut d'émission des départements d'outre-mer reçoit, par
 l'intermédiaire de la Banque de France, les informations détenues par
