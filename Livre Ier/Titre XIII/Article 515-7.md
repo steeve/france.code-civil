@@ -5,26 +5,28 @@ par le mariage des partenaires ou de l'un d'eux. En ce cas, la dissolution prend
 effet à la date de l'événement.
 
 Le greffier du tribunal d'instance du lieu d'enregistrement du pacte civil de
-solidarité, informé du mariage ou du décès par l'officier de l'état civil
-compétent, enregistre la dissolution et fait procéder aux formalités de
-publicité.
+solidarité ou le notaire instrumentaire qui a procédé à l'enregistrement du
+pacte, informé du mariage ou du décès par l'officier de l'état civil compétent,
+enregistre la dissolution et fait procéder aux formalités de publicité.
 
 Le pacte civil de solidarité se dissout également par déclaration conjointe des
 partenaires ou décision unilatérale de l'un d'eux.
 
 Les partenaires qui décident de mettre fin d'un commun accord au pacte civil de
 solidarité remettent ou adressent au greffe du tribunal d'instance du lieu de
-son enregistrement une déclaration conjointe à cette fin.
+son enregistrement ou au notaire instrumentaire qui a procédé à l'enregistrement
+du pacte une déclaration conjointe à cette fin.
 
 Le partenaire qui décide de mettre fin au pacte civil de solidarité le fait
 signifier à l'autre. Une copie de cette signification est remise ou adressée au
-greffe du tribunal d'instance du lieu de son enregistrement.
+greffe du tribunal d'instance du lieu de son enregistrement ou au notaire
+instrumentaire qui a procédé à l'enregistrement du pacte.
 
-Le greffier enregistre la dissolution et fait procéder aux formalités de
-publicité.
+Le greffier ou le notaire enregistre la dissolution et fait procéder aux
+formalités de publicité.
 
 La dissolution du pacte civil de solidarité prend effet, dans les rapports entre
-les partenaires, à la date de son enregistrement au greffe.
+les partenaires, à la date de son enregistrement.
 
 Elle est opposable aux tiers à partir du jour où les formalités de publicité ont
 été accomplies.
