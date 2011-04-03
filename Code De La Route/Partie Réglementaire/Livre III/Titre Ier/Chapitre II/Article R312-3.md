@@ -23,14 +23,9 @@ vitesse réduite et aux matériels de travaux publics et aux véhicules agricole
 
 Toute infraction aux dispositions du présent article ou à celles prises pour son
 application est punie de l'amende prévue pour les contraventions de la quatrième
-classe.
-
-Toutefois, lorsque les dépassements excèdent les limites réglementaires de plus
-de 20 %, l'amende encourue est celle prévue pour les contraventions de la
-cinquième classe.
-
-Dans ce dernier cas, la récidive de cette contravention est réprimée
-conformément à l'article 132-11 du code pénal.
+classe pour le dépassement jusqu'à 0,1 du coefficient autorisé et, pour un
+dépassement supérieur, de la même amende prononcée autant de fois qu'il y a de
+tranches de dépassement de 0,1 du coefficient autorisé.
 
 En cas de dépassement du poids autorisé excédant 5 %, l'immobilisation peut être
 prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.

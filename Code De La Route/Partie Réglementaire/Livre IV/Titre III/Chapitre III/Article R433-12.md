@@ -16,15 +16,9 @@ des limites des poids totaux roulants autorisés précités.
 En outre, les véhicules et ensembles de véhicules concernés sont soumis aux
 dispositions de l'article R. 321-17.
 
-Toute infraction à ces dispositions est punie de l'amende prévue pour les
-contraventions de la quatrième classe.
-
-Toutefois, lorsque le dépassement du poids autorisé excède les limites
-réglementaires de plus de 20 %, l'amende encourue est celle prévue pour les
-contraventions de la cinquième classe.
-
-La récidive de la contravention prévue à l'alinéa précédent est réprimée
-conformément à l'article 132-11 du code pénal.
+Toute infraction aux dispositions du présent article ou à celles prises pour son
+application est punie conformément aux dispositions du VII de l'article R.
+312-4.
 
 En cas de dépassement excédant 5 % du poids autorisé, l'immobilisation du
 véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à

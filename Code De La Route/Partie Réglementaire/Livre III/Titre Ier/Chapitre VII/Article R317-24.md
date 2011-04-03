@@ -14,4 +14,9 @@ pour son application relatives à la solidité des véhicules, à leur poids, à
 mode de chargement, au nombre et à la sûreté des voyageurs, à l'indication, à
 l'intérieur des voitures, des places qu'elles contiennent et du prix des places,
 à l'indication, à l'extérieur, du nom du propriétaire est puni de l'amende
-prévue pour les contraventions de la deuxième classe.
+prévue pour les contraventions de la deuxième classe et, s'il s'agit de
+transport en commun de personnes, de l'amende prévue pour les contraventions de
+la quatrième classe.
+
+L'immobilisation du véhicule de transport en commun de personnes peut être
+prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.

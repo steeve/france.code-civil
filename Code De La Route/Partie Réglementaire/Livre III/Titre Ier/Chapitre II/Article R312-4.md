@@ -3,9 +3,7 @@ Article R312-4
 I.-Le poids total autorisé en charge d'un véhicule ne doit pas dépasser les
 limites suivantes :
 
-1° Véhicule à moteur à deux essieux, ou remorque à deux essieux :
-
-19 tonnes ;
+1° Véhicule à moteur à deux essieux, ou remorque à deux essieux : 19 tonnes ;
 
 2° Véhicule à moteur à trois essieux, ou véhicule remorqué à trois essieux ou
 plus : 26 tonnes ;
@@ -14,9 +12,7 @@ plus : 26 tonnes ;
 
 4° Autobus articulé comportant une seule section articulée : 32 tonnes ;
 
-5° Autobus articulé comportant au moins deux sections articulées :
-
-38 tonnes ;
+5° Autobus articulé comportant au moins deux sections articulées : 38 tonnes ;
 
 6° Autocar articulé : 28 tonnes.
 
@@ -80,10 +76,10 @@ gestionnaires des voiries empruntées. Cet arrêté peut préciser les restricti
 à la circulation destinées à préserver la sécurité routière et l'état de la
 voirie.
 
-III quater. - La circulation des véhicules dont les caractéristiques sont
-définies au III peut également être autorisée sur le territoire national, afin
-d'assurer exclusivement le transport des produits agricoles et agroalimentaires
-dont la liste est fixée par arrêté du ministre chargé des transports.
+III quater.-La circulation des véhicules dont les caractéristiques sont définies
+au III peut également être autorisée sur le territoire national, afin d'assurer
+exclusivement le transport des produits agricoles et agroalimentaires dont la
+liste est fixée par arrêté du ministre chargé des transports.
 
 Cette autorisation ne concerne que les véhicules ou ensembles de véhicules
 mentionnés au deuxième alinéa du 1° du III bis du présent article.
@@ -110,16 +106,20 @@ VI.-Le ministre chargé des transports détermine par arrêté les modalités
 d'application du présent article et fixe le poids total autorisé en charge des
 engins de service hivernal.
 
-VII.-Toute infraction aux dispositions du présent article ou à celles prises
-pour son application est punie de l'amende prévue pour les contraventions de la
-quatrième classe.
+VII.-Toute infraction aux dispositions du I au IV ou à celles prises pour leur
+application est punie de l'amende prévue pour les contraventions de la quatrième
+classe pour le dépassement jusqu'à une tonne du poids autorisé et, pour un
+dépassement supérieur, de la même amende prononcée autant de fois qu'il y a de
+tranches de dépassement d'une tonne du poids total autorisé.
 
-VIII.-Toutefois, lorsque les dépassements excèdent les limites réglementaires de
-plus de 20 %, l'amende encourue est celle prévue pour les contraventions de la
-cinquième classe.
+VIII.-Toute infraction aux dispositions du V ou à celles prises pour leur
+application est punie de l'amende prévue pour les contraventions de la quatrième
+classe.
 
-IX.-Dans ce dernier cas, la récidive de cette contravention est réprimée
-conformément à l'article 132-11 du code pénal.
+IX.-Toutefois, lorsque les dépassements excèdent de plus de 20 % les limites
+réglementaires prévues au V, l'amende encourue est celle prévue pour les
+contraventions de la cinquième classe.
 
-X.-En cas de dépassement du poids autorisé excédant 5 %, l'immobilisation peut
-être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+X.-En cas de dépassement excédant 5 % des poids autorisés au présent article,
+l'immobilisation peut être prescrite dans les conditions prévues aux articles L.
+325-1 à L. 325-3.

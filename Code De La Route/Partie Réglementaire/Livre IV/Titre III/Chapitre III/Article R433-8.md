@@ -16,7 +16,7 @@ ou de véhicules.
 Le fait, pour tout conducteur, de faire circuler un ensemble de véhicules sans
 respecter les conditions fixées par le présent article ou sans l'autorisation
 préfectorale exigée ou sans en respecter les prescriptions est puni de l'amende
-prévue pour les contraventions de la troisième classe.
+prévue pour les contraventions de la quatrième classe.
 
 L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux
 articles L. 325-1 à L. 325-3.

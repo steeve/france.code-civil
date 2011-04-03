@@ -10,7 +10,7 @@ présent article.
 
 Le fait de contrevenir aux dispositions du présent article ou à celles prises
 pour son application est puni de l'amende prévue pour les contraventions de la
-troisième classe.
+quatrième classe.
 
 L'immobilisation peut être prescrite dans les conditions prévues aux articles L.
 325-1 à L. 325-3.

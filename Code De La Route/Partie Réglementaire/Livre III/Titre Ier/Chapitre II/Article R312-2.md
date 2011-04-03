@@ -27,15 +27,47 @@ dérogations peuvent être accordées à certains ensembles de véhicules circul
 vitesse réduite et aux matériels de travaux publics.
 
 Toute infraction aux dispositions du présent article ou à celles prises pour son
-application est punie de l'amende prévue pour les contraventions de la quatrième
-classe.
+application est punie :
 
-Toutefois, lorsque les dépassements excèdent les limites réglementaires de plus
-de 20 %, l'amende encourue est celle prévue pour les contraventions de la
-cinquième classe.
+a) Pour un véhicule ou un élément de véhicule d'un poids total autorisé en
+charge inférieur ou égal à 3,5 tonnes : de l'amende prévue pour les
+contraventions de la quatrième classe pour le dépassement jusqu'à 0,5 tonne du
+poids autorisé et, pour un dépassement supérieur, de la même amende prononcée
+autant de fois qu'il y a de tranches de dépassement de 0,5 tonne ;
 
-Dans ce dernier cas, la récidive de cette contravention est réprimée
-conformément à l'article 132-11 du code pénal.
+b) Pour un ensemble de véhicules d'un poids total roulant autorisé inférieur ou
+égal à 3,5 tonnes : de l'amende prévue pour les contraventions de la quatrième
+classe pour le dépassement jusqu'à 0,5 tonne du poids autorisé et, pour un
+dépassement supérieur, de la même amende prononcée autant de fois qu'il y a de
+tranches de dépassement de 0,5 tonne ;
+
+c) Pour un véhicule ou un élément de véhicule d'un poids total autorisé en
+charge supérieur à 3,5 tonnes : de l'amende prévue pour les contraventions de la
+quatrième classe pour le dépassement jusqu'à une tonne du poids autorisé et,
+pour un dépassement supérieur, de la même amende prononcée autant de fois qu'il
+y a de tranches de dépassement d'une tonne ;
+
+d) Pour un ensemble de véhicules d'un poids total roulant autorisé supérieur à
+3,5 tonnes : de l'amende prévue pour les contraventions de la quatrième classe
+pour le dépassement jusqu'à une tonne du poids autorisé et, pour un dépassement
+supérieur, de la même amende prononcée autant de fois qu'il y a de tranches de
+dépassement d'une tonne ;
+
+e) Pour chaque essieu, de l'amende prévue pour les contraventions de la
+quatrième classe pour le dépassement jusqu'à 0,3 tonne du poids maximal autorisé
+pour cet essieu et, pour un dépassement supérieur, de la même amende prononcée
+autant de fois qu'il y a de tranches de dépassement de 0,3 tonne.
+
+Toutefois, lorsqu'il est constaté une infraction aux dispositions du présent
+article en ce qui concerne le poids total autorisé en charge ou le poids total
+roulant autorisé, et qu'il est constaté concomitamment une infraction aux
+dispositions de l'article R. 312-4 similaire, seule l'infraction la plus grave
+est retenue et réprimée.
+
+Lorsqu'il est constaté une infraction aux dispositions du présent article en ce
+qui concerne la charge à l'essieu, et qu'il est constaté concomitamment pour le
+même essieu une infraction aux dispositions des articles R. 312-5 ou R. 312-6,
+seule l'infraction la plus grave est retenue et réprimée.
 
 En cas de dépassement du poids autorisé excédant 5 %, l'immobilisation peut être
 prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
