@@ -1,15 +1,17 @@
 Article R5141-39
 ----
 L'autorisation de mise sur le marché est renouvelable sur demande du titulaire
-adressée au directeur général de l'Agence française de sécurité sanitaire des
-aliments au plus tard six mois avant sa date d'expiration.
+adressée au directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail au plus tard six mois avant sa
+date d'expiration.
 
 La demande de renouvellement est accompagnée de la liste récapitulative des
 documents présentés relatifs à la qualité, à la sécurité et à l'efficacité
 comprenant toutes les modifications autorisées depuis la délivrance de
-l'autorisation initiale ou du dernier renouvellement. L'Agence française de
-sécurité sanitaire des aliments peut à tout moment demander la communication des
-documents mentionnés dans cette liste ;
+l'autorisation initiale ou du dernier renouvellement. L'Agence nationale de
+sécurité sanitaire de l'alimentation, de l'environnement et du travail peut à
+tout moment demander la communication des documents mentionnés dans cette liste
+;
 
 L'autorisation n'est pas renouvelée si le rapport entre les bénéfices et les
 risques liés à l'utilisation du médicament vétérinaire évalué par le directeur

@@ -5,6 +5,6 @@ Les dispositifs de protection et de traitement mentionnés aux articles R.
 doivent être vérifiés et entretenus.
 
 Un arrêté des ministres chargés de la santé et de la construction, pris après
-avis de l'Agence française de sécurité sanitaire des aliments, définit les
-fréquences et les modalités de la vérification et de l'entretien des dispositifs
-de protection.
+avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail, définit les fréquences et les modalités de la
+vérification et de l'entretien des dispositifs de protection.

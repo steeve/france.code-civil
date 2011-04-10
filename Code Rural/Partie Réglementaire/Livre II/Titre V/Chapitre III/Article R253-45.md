@@ -5,9 +5,9 @@ domaine agricole, les organisations agricoles professionnelles et les
 utilisateurs professionnels peuvent demander au ministre chargé de l'agriculture
 une extension d'emploi d'un produit phytopharmaceutique autorisé pour d'autres
 usages que ceux pour lesquels le produit phytopharmaceutique a été autorisé. La
-demande est adressée à l'Agence française de sécurité sanitaire des aliments qui
-adresse au demandeur un accusé de réception dont elle envoie copie au ministre
-chargé de l'agriculture.
+demande est adressée à l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail qui adresse au demandeur un
+accusé de réception dont elle envoie copie au ministre chargé de l'agriculture.
 
 Lorsque cette extension présente un intérêt public, le ministre chargé de
 l'agriculture peut l'accorder si :

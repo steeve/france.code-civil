@@ -73,7 +73,8 @@ a) Un représentant de l'Institut national de la recherche agronomique ;
 b) Un représentant de l'Institut national de la statistique et des études
 économiques ;
 
-c) Un représentant de l'Agence française de sécurité sanitaire des aliments.
+c) Un représentant de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail.
 
 Peuvent être invités à titre d'observateurs un représentant de chacun des
 syndicats représentés au comité technique paritaire de l'établissement.

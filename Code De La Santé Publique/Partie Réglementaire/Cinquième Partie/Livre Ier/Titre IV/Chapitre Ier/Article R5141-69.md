@@ -1,8 +1,8 @@
 Article R5141-69
 ----
 Le changement du titulaire de l'enregistrement est subordonné à une autorisation
-du directeur général de l'Agence française de sécurité sanitaire des aliments.
-La demande comporte :
+du directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail. La demande comporte :
 
 1° Une copie de l'enregistrement ;
 
@@ -18,7 +18,7 @@ notamment, de respecter les méthodes de fabrication et de contrôle ;
 5° La description du dispositif de pharmacovigilance que le futur titulaire
 envisage de mettre en place.
 
-Le directeur général de l'Agence française de sécurité sanitaire des aliments se
-prononce dans un délai de soixante jours à compter de la date de réception de la
-demande complète. Le silence du directeur général vaut autorisation à
-l'expiration de ce délai.
+Le directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail se prononce dans un délai de
+soixante jours à compter de la date de réception de la demande complète. Le
+silence du directeur général vaut autorisation à l'expiration de ce délai.

@@ -1,10 +1,11 @@
 Article R5141-41
 ----
-Le directeur général de l'Agence française de sécurité sanitaire des aliments
-peut modifier d'office une autorisation de mise sur le marché d'un médicament
-vétérinaire pour en restreindre les indications, en limiter les conditions de
-délivrance, en modifier la posologie, ajouter une contre-indication ou toute
-autre mesure préventive lorsqu'il apparaît :
+Le directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail peut modifier d'office une
+autorisation de mise sur le marché d'un médicament vétérinaire pour en
+restreindre les indications, en limiter les conditions de délivrance, en
+modifier la posologie, ajouter une contre-indication ou toute autre mesure
+préventive lorsqu'il apparaît :
 
 1° Soit, notamment à la suite de l'évaluation des données mentionnées à
 l'article R. 5141-90, que le médicament ne satisfait plus aux conditions

@@ -1,7 +1,8 @@
 Article R5141-49
 ----
-La commission nationale des médicaments vétérinaires comprend : 1° Cinq membres
-de droit :
+La commission nationale des médicaments vétérinaires comprend :
+
+1° Cinq membres de droit :
 
 a) Le directeur général de l'alimentation au ministère chargé de l'agriculture
 ou son représentant ;
@@ -9,8 +10,8 @@ ou son représentant ;
 b) Le directeur général de la santé au ministère chargé de la santé ou son
 représentant ;
 
-c) Le directeur général de l'Agence nationale chargée de la sécurité sanitaire
-de l'alimentation, de l'environnement et du travail, ayant comme suppléant le
+c) Le directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail, ayant comme suppléant le
 directeur de l'Agence nationale du médicament vétérinaire ou son représentant ;
 
 d) Le président de la commission nationale de pharmacovigilance mentionnée à

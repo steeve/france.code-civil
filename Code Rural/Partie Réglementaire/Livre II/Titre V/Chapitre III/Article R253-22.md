@@ -1,8 +1,8 @@
 Article R253-22
 ----
 Les demandes d'autorisation de distribution pour expérimentation doivent être
-adressées avant le début de l'expérimentation, à l'Agence française de sécurité
-sanitaire des aliments.
+adressées avant le début de l'expérimentation, à l'Agence nationale de sécurité
+sanitaire de l'alimentation, de l'environnement et du travail.
 
 Chaque demande doit comprendre un dossier contenant les informations
 indispensables à l'évaluation des effets éventuels sur la santé humaine ou
@@ -19,4 +19,5 @@ réception.
 Si le titulaire de l'autorisation se propose d'apporter des modifications aux
 conditions dans lesquelles il procède à son expérimentation ou s'il a
 connaissance d'éléments nouveaux il est tenu d'en informer le ministre chargé de
-l'agriculture et à l'Agence française de sécurité sanitaire des aliments.
+l'agriculture et à l'Agence nationale de sécurité sanitaire de l'alimentation,
+de l'environnement et du travail.

@@ -18,9 +18,9 @@ répression des fraudes ou son représentant ;
 e) Le directeur de la technologie au ministère chargé de la recherche ou son
 représentant ;
 
-f) Le directeur général de l'Agence française de sécurité sanitaire des aliments
-ayant comme suppléant le directeur de l'Agence nationale du médicament
-vétérinaire ou son représentant ;
+f) Le directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail ayant comme suppléant le
+directeur de l'Agence nationale du médicament vétérinaire ou son représentant ;
 
 g) Le président du Conseil national de l'ordre des pharmaciens ou son
 représentant ;

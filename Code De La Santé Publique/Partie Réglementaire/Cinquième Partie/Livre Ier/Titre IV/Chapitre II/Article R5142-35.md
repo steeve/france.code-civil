@@ -32,5 +32,5 @@ il donne son agrément à leur engagement et est consulté sur leur licenciement
 Dans le cas où un désaccord portant sur l'application des règles édictées dans
 l'intérêt de la santé publique oppose un organe de gestion, d'administration, de
 direction ou de surveillance au pharmacien ou au vétérinaire responsable,
-celui-ci en informe le directeur général de l'Agence française de sécurité
-sanitaire des aliments.
+celui-ci en informe le directeur général de l'Agence nationale de sécurité
+sanitaire de l'alimentation, de l'environnement et du travail.

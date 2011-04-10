@@ -14,11 +14,12 @@ les préfets de ces départements choisissent le préfet coordonnateur de la
 procédure.
 
 II.-Le préfet adresse le dossier de la demande au ministre chargé de la santé
-qui le transmet pour avis à l'Agence française de sécurité sanitaire des
-aliments lorsque la demande d'autorisation porte sur l'utilisation d'une eau
-prélevée dans le milieu naturel ne respectant pas une des limites de qualité,
-portant sur certains des paramètres microbiologiques et physico-chimiques,
-définis par arrêté du ministre chargé de la santé.
+qui le transmet pour avis à l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail lorsque la demande
+d'autorisation porte sur l'utilisation d'une eau prélevée dans le milieu naturel
+ne respectant pas une des limites de qualité, portant sur certains des
+paramètres microbiologiques et physico-chimiques, définis par arrêté du ministre
+chargé de la santé.
 
 Le préfet peut également transmettre le dossier au ministre en cas de risque ou
 de situation exceptionnels.

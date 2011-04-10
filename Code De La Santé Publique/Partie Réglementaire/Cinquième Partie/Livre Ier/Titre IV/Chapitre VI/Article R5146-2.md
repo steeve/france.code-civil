@@ -8,20 +8,22 @@ que cet établissement respecte les bonnes pratiques prévues à l'article L.
 
 Les établissements des entreprises mentionnées à l'article R. 5142-1 font
 l'objet d'une inspection, selon une périodicité fixée par le directeur général
-de l'Agence française de sécurité sanitaire des aliments.
+de l'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail.
 
 Chaque inspection donne lieu à un rapport qui est communiqué, selon le cas, au
 pharmacien ou vétérinaire responsable ou à la direction de l'établissement
 concerné ; ce dernier peut faire valoir ses observations dans le délai fixé par
-l'Agence française de sécurité sanitaire des aliments, qui lui est notifié lors
-de la transmission du rapport et qui ne peut être inférieur à quinze jours. Ce
-rapport et les observations qui en découlent sont adressés au directeur général
-de l'Agence française de sécurité sanitaire des aliments.
+l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement
+et du travail, qui lui est notifié lors de la transmission du rapport et qui ne
+peut être inférieur à quinze jours. Ce rapport et les observations qui en
+découlent sont adressés au directeur général de l'Agence française de sécurité
+sanitaire des aliments.
 
 Lorsqu'il est saisi d'une demande motivée, le directeur général de l'Agence
-française de sécurité sanitaire des aliments communique immédiatement à
-l'autorité compétente d'un autre Etat membre le rapport visé à l'alinéa
-précédent.
+nationale de sécurité sanitaire de l'alimentation, de l'environnement et du
+travail communique immédiatement à l'autorité compétente d'un autre Etat membre
+le rapport visé à l'alinéa précédent.
 
 Le directeur général de l'agence peut demander à l'autorité compétente d'un
 autre Etat membre de lui communiquer les conclusions d'un rapport élaboré dans

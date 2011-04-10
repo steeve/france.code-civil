@@ -34,7 +34,8 @@ oeuvre ;
 
 Les informations figurant au dossier ainsi que le seuil du débit de prélèvement
 mentionné au 4° sont précisés par arrêté du ministre chargé de la santé, pris
-après avis de l'Agence française de sécurité sanitaire des aliments.
+après avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail.
 
 Les frais de constitution du dossier sont à la charge du demandeur.
 

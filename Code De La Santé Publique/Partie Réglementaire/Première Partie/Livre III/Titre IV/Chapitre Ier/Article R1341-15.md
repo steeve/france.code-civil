@@ -9,8 +9,8 @@ a) Le directeur général de la santé ;
 b) Le directeur général de l'Agence française de sécurité sanitaire des produits
 de santé ;
 
-c) Le directeur général de l'Agence française de sécurité sanitaire des aliments
-;
+c) Le directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail ;
 
 d) Le directeur de l'Institut de veille sanitaire ;
 

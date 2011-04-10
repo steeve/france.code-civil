@@ -32,9 +32,9 @@ toxicomanie ou son représentant ;
 k) Le directeur de l'Observatoire français des drogues et toxicomanies ou son
 représentant ;
 
-l) Le directeur général de l'Agence française de sécurité sanitaire des
-aliments, ayant comme suppléant le directeur de l'Agence nationale du médicament
-vétérinaire ou son représentant ;
+l) Le directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail, ayant comme suppléant le
+directeur de l'Agence nationale du médicament vétérinaire ou son représentant ;
 
 m) Le président du Conseil national de l'ordre des médecins ou son représentant
 ;

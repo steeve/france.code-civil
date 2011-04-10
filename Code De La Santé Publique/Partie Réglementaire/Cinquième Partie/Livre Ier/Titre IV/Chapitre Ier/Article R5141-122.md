@@ -9,13 +9,14 @@ dans l'une des catégories soumises à prescription restreinte par l'article R.
 sanitaires spécifiques.
 
 Une liste de ces médicaments est établie, sur proposition du directeur général
-de l'Agence française de sécurité sanitaire des aliments après avis du directeur
-général de l'Agence française de sécurité sanitaire des produits de santé, par
-arrêté des ministres chargés de l'agriculture et de la santé. Cette liste peut,
-pour des motifs de sécurité ou de santé publique, réserver l'emploi de tout ou
-partie des médicaments qu'elle mentionne aux vétérinaires exerçant dans
-certaines des catégories de domiciles professionnels autorisés par l'article R.
-242-54 du code rural et de la pêche maritime.
+de l'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail après avis du directeur général de l'Agence
+française de sécurité sanitaire des produits de santé, par arrêté des ministres
+chargés de l'agriculture et de la santé. Cette liste peut, pour des motifs de
+sécurité ou de santé publique, réserver l'emploi de tout ou partie des
+médicaments qu'elle mentionne aux vétérinaires exerçant dans certaines des
+catégories de domiciles professionnels autorisés par l'article R. 242-54 du code
+rural et de la pêche maritime.
 
 Un médicament à usage humain mentionné au premier alinéa est retiré de la liste
 établie par arrêté :

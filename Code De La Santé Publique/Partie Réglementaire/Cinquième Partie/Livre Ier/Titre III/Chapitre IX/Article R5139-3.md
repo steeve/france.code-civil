@@ -25,11 +25,11 @@ l'autorisation est demandée et les éléments nécessaires à cette analyse.
 
 Le contenu du dossier technique ainsi défini est précisé par décision du
 directeur général de l'Agence française de sécurité sanitaire des produits de
-santé, après avis du directeur général de l'Agence nationale chargée de la
-sécurité sanitaire de l'alimentation, de l'environnement et du travail.
+santé, après avis du directeur général de l'Agence nationale de sécurité
+sanitaire de l'alimentation, de l'environnement et du travail.
 
 En outre, lorsque la nature des opérations envisagées l'exige, le directeur
 général de l'Agence française de sécurité sanitaire des produits de santé, après
-avis du directeur général de l'Agence nationale chargée de la sécurité sanitaire
-de l'alimentation, de l'environnement et du travail peut fixer par décision les
+avis du directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail peut fixer par décision les
 autres éléments d'information nécessaires.

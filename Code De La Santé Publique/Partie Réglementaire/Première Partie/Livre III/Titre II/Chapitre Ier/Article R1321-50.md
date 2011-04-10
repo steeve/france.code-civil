@@ -53,11 +53,11 @@ III.-La demande tendant à obtenir la modification d'un arrêté pris en
 application du I est adressée au ministre chargé de la santé.
 
 La composition du dossier de la demande est fixée par arrêté du ministre chargé
-de la santé, pris après avis de l'Agence française de sécurité sanitaire des
-aliments.
+de la santé, pris après avis de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail.
 
-Le ministre se prononce après avis de l'Agence française de sécurité sanitaire
-des aliments.
+Le ministre se prononce après avis de l'Agence nationale de sécurité sanitaire
+de l'alimentation, de l'environnement et du travail.
 
 IV.-La personne responsable de la mise sur le marché d'un produit ou d'un
 procédé de traitement ne correspondant pas à un groupe ou à un usage prévus au I
@@ -67,11 +67,11 @@ la santé.
 Les preuves de l'innocuité et de l'efficacité du produit ou du procédé de
 traitement fournies par le responsable de la première mise sur le marché sont
 jointes au dossier de la demande, dont la composition est fixée par arrêté du
-ministre chargé de la santé, pris après avis de l'Agence française de sécurité
-sanitaire des aliments.
+ministre chargé de la santé, pris après avis de l'Agence nationale de sécurité
+sanitaire de l'alimentation, de l'environnement et du travail.
 
-Le ministre soumet la demande à l'avis de l'Agence française de sécurité
-sanitaire des aliments.
+Le ministre soumet la demande à l'avis de l'Agence nationale de sécurité
+sanitaire de l'alimentation, de l'environnement et du travail.
 
 En l'absence d'avis favorable, la mise sur le marché de ces produits et procédés
 de traitement pour l'eau destinée à la consommation humaine est interdite.

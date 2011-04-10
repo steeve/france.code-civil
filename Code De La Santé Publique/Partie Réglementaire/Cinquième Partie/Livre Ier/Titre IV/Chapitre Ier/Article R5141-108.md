@@ -4,7 +4,8 @@ Une entreprise assurant l'exploitation de médicaments vétérinaires dispose, e
 permanence, des services d'une personne, pharmacien ou vétérinaire, chargée de
 la pharmacovigilance vétérinaire résidant dans la Communauté européenne. Le nom
 de cette personne, sa qualité et ses coordonnées sont communiqués au directeur
-général de l'Agence française de sécurité sanitaire des aliments.
+général de l'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail.
 
 Cette personne est chargée de :
 

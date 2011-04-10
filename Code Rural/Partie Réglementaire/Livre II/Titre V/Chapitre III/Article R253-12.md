@@ -10,10 +10,10 @@ prise en application de décisions communautaires ;
 
 2° Et selon des protocoles communautaires ou internationaux ou, à défaut, selon
 des lignes directrices dont la reconnaissance est acceptée par le ministre
-chargé de l'agriculture après avis de l'Agence française de sécurité sanitaire
-des aliments et par le Haut Conseil des biotechnologies lorsqu'il s'agit de
-produits phytopharmaceutiques composés en tout ou partie d'organismes
-génétiquement modifiés.
+chargé de l'agriculture après avis de l'Agence nationale de sécurité sanitaire
+de l'alimentation, de l'environnement et du travail et par le Haut Conseil des
+biotechnologies lorsqu'il s'agit de produits phytopharmaceutiques composés en
+tout ou partie d'organismes génétiquement modifiés.
 
 II.-Sont considérées comme officielles au sens de l'article R. 253-13 les
 analyses et études réalisées par des services et organismes publics définis par

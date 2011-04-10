@@ -1,10 +1,11 @@
 Article R5141-26
 ----
 L'autorisation de mise sur le marché est accordée par le directeur général de
-l'Agence française de sécurité sanitaire des aliments. Elle est accompagnée du
-résumé des caractéristiques du produit mentionné à l'article R. 5141-15 tel
-qu'il est approuvé par le directeur général de l'Agence française de sécurité
-sanitaire des aliments.
+l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement
+et du travail. Elle est accompagnée du résumé des caractéristiques du produit
+mentionné à l'article R. 5141-15 tel qu'il est approuvé par le directeur général
+de l'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail.
 
 L'autorisation indique, le cas échéant, si le médicament relève des dispositions
 de l'article L. 5143-5.

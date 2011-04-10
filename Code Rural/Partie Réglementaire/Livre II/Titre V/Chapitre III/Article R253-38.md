@@ -2,7 +2,8 @@ Article R253-38
 ----
 L'autorisation de mise sur le marché d'un produit phytopharmaceutique est
 délivrée pour dix ans par le ministre chargé de l'agriculture, après avis de
-l'Agence française de sécurité sanitaire des aliments.
+l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement
+et du travail.
 
 Par dérogation aux dispositions de l'alinéa précédent, les autorisations de mise
 sur le marché en vigueur ou ayant fait l'objet d'une demande de renouvellement

@@ -4,9 +4,9 @@ Les obligations spécifiques pouvant être imposées en application du 1° de
 l'article L. 5141-5-1 sont notamment les suivantes :
 
 1° Le demandeur doit mener à terme un programme d'essais dans un délai fixé par
-l'Agence française de sécurité sanitaire des aliments, dont les résultats
-serviront à une réévaluation du rapport entre les bénéfices et les risques liés
-à l'utilisation du médicament vétérinaire ;
+l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement
+et du travail, dont les résultats serviront à une réévaluation du rapport entre
+les bénéfices et les risques liés à l'utilisation du médicament vétérinaire ;
 
 2° Le médicament vétérinaire en question ne doit pouvoir être délivré que sur
 prescription et être administré sous la responsabilité du vétérinaire ;

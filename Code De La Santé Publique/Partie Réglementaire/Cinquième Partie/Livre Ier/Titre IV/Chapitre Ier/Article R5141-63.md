@@ -2,11 +2,11 @@ Article R5141-63
 ----
 La demande d'enregistrement d'un médicament homéopathique vétérinaire ou d'une
 série de médicaments mentionnés à l'article L. 5141-9 est adressée à l'Agence
-française de sécurité sanitaire des aliments. On entend par série de médicaments
-au sens de l'article L. 5141-9 susceptible de donner lieu à un seul
-enregistrement un ensemble de médicaments, constitués du ou des mêmes
-composants, se présentant, le cas échéant, sous plusieurs formes pharmaceutiques
-ou différentes dilutions.
+nationale de sécurité sanitaire de l'alimentation, de l'environnement et du
+travail. On entend par série de médicaments au sens de l'article L. 5141-9
+susceptible de donner lieu à un seul enregistrement un ensemble de médicaments,
+constitués du ou des mêmes composants, se présentant, le cas échéant, sous
+plusieurs formes pharmaceutiques ou différentes dilutions.
 
 La demande d'enregistrement mentionne :
 

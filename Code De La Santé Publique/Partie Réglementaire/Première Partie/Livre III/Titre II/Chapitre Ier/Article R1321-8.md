@@ -1,7 +1,7 @@
 Article R1321-8
 ----
-I. - La décision statuant sur la demande d'autorisation d'utilisation d'eau en
-vue de la consommation humaine est prise par arrêté préfectoral. Cet arrêté est
+I.-La décision statuant sur la demande d'autorisation d'utilisation d'eau en vue
+de la consommation humaine est prise par arrêté préfectoral. Cet arrêté est
 motivé.
 
 L'arrêté préfectoral d'autorisation indique notamment l'identification du
@@ -35,9 +35,10 @@ Le silence gardé par le préfet pendant plus de quatre mois sur la demande
 d'autorisation d'utilisation d'eau en vue de la consommation humaine vaut
 décision de rejet. Ce délai est suspendu pendant le délai imparti pour la
 production de pièces réclamées par le préfet ou porté à six mois lorsque l'avis
-de l'Agence française de sécurité sanitaire des aliments est requis.
+de l'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail est requis.
 
-II. - Lorsque l'eau distribuée ne respecte pas les dispositions de l'article R.
+II.-Lorsque l'eau distribuée ne respecte pas les dispositions de l'article R.
 1321-2 et que la mise en service d'un nouveau captage permet la distribution
 d'une eau conforme à ces dispositions, une demande de dérogation à la procédure
 définie au I de l'article R. 1321-7 peut être déposée auprès du préfet afin

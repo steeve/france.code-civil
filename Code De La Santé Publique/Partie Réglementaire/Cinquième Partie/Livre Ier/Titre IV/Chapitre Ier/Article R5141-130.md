@@ -1,8 +1,8 @@
 Article R5141-130
 ----
-I. - La personne qualifiée adresse la demande d'autorisation prévue à l'article
-L. 5141-12 au directeur général de l'Agence française de sécurité sanitaire des
-aliments. La demande comporte :
+I.-La personne qualifiée adresse la demande d'autorisation prévue à l'article L.
+5141-12 au directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail. La demande comporte :
 
 1° Le nom du demandeur ;
 
@@ -14,7 +14,7 @@ les installations, le cas échéant ;
 4° La liste des agents pathogènes par espèces de destination et les formes
 pharmaceutiques envisagées.
 
-II. - A la demande est joint un dossier comprenant :
+II.-A la demande est joint un dossier comprenant :
 
 1° Les documents justifiant de la qualification du demandeur et de son
 inscription à l'un des ordres professionnels mentionnés à l'article R. 5141-129

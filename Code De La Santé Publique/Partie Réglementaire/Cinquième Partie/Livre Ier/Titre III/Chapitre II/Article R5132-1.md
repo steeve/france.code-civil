@@ -15,8 +15,8 @@ santé, sur les listes I ou II ou comme stupéfiants.
 Lorsque les substances, préparations ou médicaments mentionnés aux 1° et 2° sont
 utilisés en médecine vétérinaire, le directeur général de l'Agence française de
 sécurité sanitaire des produits de santé sollicite, préalablement à sa
-proposition, l'avis du directeur général de l'Agence française de sécurité
-sanitaire des aliments.
+proposition, l'avis du directeur général de l'Agence nationale de sécurité
+sanitaire de l'alimentation, de l'environnement et du travail.
 
 Les médicaments mentionnés aux alinéas précédents peuvent faire l'objet d'un
 classement autre que celui de la ou des substances ou préparations classées

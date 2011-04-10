@@ -6,7 +6,7 @@ recommandée avec demande d'avis de réception.
 
 Elle est également notifiée au directeur départemental des services vétérinaires
 du département dans lequel exerce le vétérinaire, au président du Conseil
-supérieur de l'ordre, ainsi qu'au directeur général de l'Agence française de
-sécurité sanitaire des aliments pour les vétérinaires exerçant dans une
-entreprise ou un établissement mentionné à l'article L. 5142-1 du code de la
-santé publique.
+supérieur de l'ordre, ainsi qu'au directeur général de l'Agence nationale de
+sécurité sanitaire de l'alimentation, de l'environnement et du travail pour les
+vétérinaires exerçant dans une entreprise ou un établissement mentionné à
+l'article L. 5142-1 du code de la santé publique.

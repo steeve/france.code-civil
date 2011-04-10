@@ -19,4 +19,5 @@ santé, par arrêté du ministre chargé de la santé.
 Lorsque ces médicaments ou produits sont utilisés en médecine vétérinaire, le
 directeur de l'Agence française de sécurité sanitaire des produits de santé
 sollicite, préalablement à sa proposition, l'avis du directeur général de
-l'Agence française de sécurité sanitaire des aliments.
+l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement
+et du travail.

@@ -6,7 +6,8 @@ complémentaire de la qualité de l'eau, sous réserve que le consommateur final
 dispose également d'une eau froide non soumise à ce traitement complémentaire.
 
 Un arrêté des ministres chargés de la construction et de la santé, pris après
-avis de l'Agence française de sécurité sanitaire des aliments, définit :
+avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail, définit :
 
 1° Les modalités d'application des dispositions du premier alinéa pour les
 installations réalisées avant le 22 décembre 2001 ;

@@ -22,9 +22,10 @@ distribution en gros ou de stockage ;
 pharmaceutiques de fabrication, d'importation, de distribution en gros ou de
 stockage.
 
-Le directeur général de l'Agence française de sécurité sanitaire des aliments
-notifie sa décision au demandeur dans un délai de trente jours à compter de la
-date de réception de la demande accompagnée d'un dossier complet.
+Le directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail notifie sa décision au
+demandeur dans un délai de trente jours à compter de la date de réception de la
+demande accompagnée d'un dossier complet.
 
 Il peut procéder à une enquête sur place pour lui permettre de se prononcer sur
 la demande. Il peut, à ces fins, prolonger le délai prévu à l'alinéa précédent
@@ -45,7 +46,8 @@ ci-dessus, courant à compter de la date de réception de la demande accompagné
 du dossier complet.
 
 Les modifications autres que celles visées au premier alinéa sont déclarées dans
-le mois qui suit leur mise en œuvre à l'Agence française de sécurité sanitaire
-des aliments. Le directeur général de l'Agence française de sécurité sanitaire
-des aliments fait connaître son opposition motivée à cette modification ou
+le mois qui suit leur mise en œuvre à l'Agence nationale de sécurité sanitaire
+de l'alimentation, de l'environnement et du travail. Le directeur général de
+l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement
+et du travail fait connaître son opposition motivée à cette modification ou
 procède à l'actualisation de l'autorisation dans un délai de deux mois.

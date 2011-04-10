@@ -1,6 +1,6 @@
 Article R1321-48
 ----
-I. - Les matériaux et objets mis sur le marché et destinés aux installations de
+I.-Les matériaux et objets mis sur le marché et destinés aux installations de
 production, de distribution et de conditionnement qui entrent en contact avec
 l'eau destinée à la consommation humaine doivent être conformes à des
 dispositions spécifiques définies par arrêté du ministre chargé de la santé,
@@ -31,20 +31,20 @@ groupes de constituants dans l'eau ;
 utiliser et aux méthodes d'analyse à mettre en oeuvre en vue du contrôle du
 respect des dispositions prévues aux 1° à 5°.
 
-II. - L'arrêté mentionné au I précise les conditions d'attestation du respect
-des dispositions de ce I. Cette attestation est produite, selon les groupes de
+II.-L'arrêté mentionné au I précise les conditions d'attestation du respect des
+dispositions de ce I. Cette attestation est produite, selon les groupes de
 matériaux et objets et en fonction de leurs usages :
 
 1° Soit par le responsable de la première mise sur le marché ;
 
 2° Soit par un laboratoire habilité par le ministre chargé de la santé.
 
-III. - La demande tendant à obtenir la modification d'un arrêté pris en
+III.-La demande tendant à obtenir la modification d'un arrêté pris en
 application du I est adressée au ministre chargé de la santé.
 
 La composition du dossier de la demande est fixée par arrêté du ministre chargé
-de la santé, pris après avis de l'Agence française de sécurité sanitaire des
-aliments.
+de la santé, pris après avis de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail.
 
-Le ministre se prononce après avis de l'Agence française de sécurité sanitaire
-des aliments.
+Le ministre se prononce après avis de l'Agence nationale de sécurité sanitaire
+de l'alimentation, de l'environnement et du travail.

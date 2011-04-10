@@ -15,8 +15,8 @@ essais et les rapports d'experts, accompagnés de résumés détaillés et criti
 3° La description du système de pharmacovigilance prévu par le futur titulaire
 de l'autorisation ou par l'entreprise exploitant le médicament vétérinaire et,
 le cas échéant, du plan de gestion de risque. Le modèle type de plan de gestion
-de risque est fixé par décision du directeur général de l'Agence française de
-sécurité sanitaire des aliments ;
+de risque est fixé par décision du directeur général de l'Agence nationale de
+sécurité sanitaire de l'alimentation, de l'environnement et du travail ;
 
 4° Les indications thérapeutiques, contre-indications et effets indésirables ;
 
@@ -60,6 +60,7 @@ une attestation certifiant le dépôt d'une demande valide d'établissement de
 limites maximales de résidus auprès de l'Agence conformément audit règlement.
 
 Un arrêté des ministres chargés de l'agriculture et de la santé pris sur
-proposition du directeur de l'Agence française de sécurité sanitaire des
-aliments précise les modalités selon lesquelles sont établis et présentés les
-informations et les documents prévus par le présent article.
+proposition du directeur de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail précise les modalités selon
+lesquelles sont établis et présentés les informations et les documents prévus
+par le présent article.

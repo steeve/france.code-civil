@@ -12,9 +12,10 @@ importés.
 
 Lorsque l'inspection fait apparaître que les bonnes pratiques de fabrication ne
 sont pas respectées par un établissement, et qu'un certificat lui avait été
-préalablement délivré, l'Agence française de sécurité sanitaire des aliments met
-fin à sa validité. Les exemplaires de ce certificat détenus par le titulaire
-sont immédiatement retournés à l'Agence.
+préalablement délivré, l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail met fin à sa validité. Les
+exemplaires de ce certificat détenus par le titulaire sont immédiatement
+retournés à l'Agence.
 
 Ce certificat, ou, à défaut, l'information selon laquelle l'inspection a abouti
 à la conclusion que l'établissement ne respecte pas les bonnes pratiques de

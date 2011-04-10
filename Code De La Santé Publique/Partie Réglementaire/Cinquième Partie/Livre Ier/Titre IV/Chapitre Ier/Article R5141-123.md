@@ -8,20 +8,20 @@ L. 5141-10 doit, avant son importation, faire l'objet d'une autorisation
 d'importation.
 
 L'autorisation d'importation est délivrée par le directeur général de l'Agence
-française de sécurité sanitaire des aliments. Cette autorisation est accordée
-soit dans les conditions prévues aux articles R. 5141-123-2 à R. 5141-123-5,
-soit au titre de l'autorisation d'importation parallèle définie aux articles R.
-5141-123-6 à R. 5141-123-19. Elle est refusée si le médicament vétérinaire
-présente ou est susceptible de présenter un risque pour la santé humaine ou la
-santé animale.
+nationale de sécurité sanitaire de l'alimentation, de l'environnement et du
+travail. Cette autorisation est accordée soit dans les conditions prévues aux
+articles R. 5141-123-2 à R. 5141-123-5, soit au titre de l'autorisation
+d'importation parallèle définie aux articles R. 5141-123-6 à R. 5141-123-19.
+Elle est refusée si le médicament vétérinaire présente ou est susceptible de
+présenter un risque pour la santé humaine ou la santé animale.
 
 L'autorisation d'importation accordée dans les conditions prévues aux articles
 R. 5141-123-2 à R. 5141-123-5 est suspendue ou supprimée par le directeur
-général de l'Agence française de sécurité sanitaire des aliments si le
-médicament vétérinaire présente ou est susceptible de présenter un risque pour
-la santé humaine ou la santé animale. Sauf en cas d'urgence, ces décisions
-n'interviennent qu'après que le titulaire de l'autorisation a été mis à même de
-présenter ses observations.
+général de l'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail si le médicament vétérinaire présente ou est
+susceptible de présenter un risque pour la santé humaine ou la santé animale.
+Sauf en cas d'urgence, ces décisions n'interviennent qu'après que le titulaire
+de l'autorisation a été mis à même de présenter ses observations.
 
 Sauf dans le cas de recours à une procédure d'autorisation d'importation
 parallèle ou en cas d'importation d'un médicament vétérinaire en vue d'un essai

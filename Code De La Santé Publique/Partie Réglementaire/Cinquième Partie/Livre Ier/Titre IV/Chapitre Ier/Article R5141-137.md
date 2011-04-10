@@ -1,8 +1,9 @@
 Article R5141-137
 ----
 Le titulaire de l'autorisation adresse la demande de renouvellement au directeur
-général de l'Agence française de sécurité sanitaire des aliments
-quatre-vingt-dix jours avant la date d'expiration de l'autorisation.
+général de l'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail quatre-vingt-dix jours avant la date d'expiration
+de l'autorisation.
 
 Cette demande de renouvellement comporte :
 

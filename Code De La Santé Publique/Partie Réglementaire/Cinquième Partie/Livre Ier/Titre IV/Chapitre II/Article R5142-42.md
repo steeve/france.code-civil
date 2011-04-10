@@ -10,8 +10,9 @@ pharmaceutiques qui y sont effectuées ;
 2° Les moyens en personnels et matériels nécessaires à l'exercice de ces
 activités.
 
-Ils adressent chaque année au directeur général de l'Agence française de
-sécurité sanitaire des aliments un état de leur établissement dont la forme et
-le contenu sont fixés sur proposition du directeur général de l'Agence française
-de sécurité sanitaire des aliments, par arrêté des ministres chargés de
+Ils adressent chaque année au directeur général de l'Agence nationale de
+sécurité sanitaire de l'alimentation, de l'environnement et du travail un état
+de leur établissement dont la forme et le contenu sont fixés sur proposition du
+directeur général de l'Agence nationale de sécurité sanitaire de l'alimentation,
+de l'environnement et du travail, par arrêté des ministres chargés de
 l'agriculture et de la santé.

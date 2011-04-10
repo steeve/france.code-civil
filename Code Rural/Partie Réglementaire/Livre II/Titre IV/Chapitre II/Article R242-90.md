@@ -35,8 +35,9 @@ l'article R. 242-85.
 Les conseils régionaux intéressés informent le Conseil supérieur de l'ordre et,
 pour les vétérinaires exerçant dans une entreprise ou un établissement mentionné
 à l'article L. 5142-1 du code de la santé publique, le directeur général de
-l'Agence française de sécurité sanitaire des aliments de tout changement de
-domicile professionnel administratif ou d'exercice ou de siège social.
+l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement
+et du travail de tout changement de domicile professionnel administratif ou
+d'exercice ou de siège social.
 
 Les transferts d'inscription prévus aux alinéas précédents sont effectués sans
 délai.

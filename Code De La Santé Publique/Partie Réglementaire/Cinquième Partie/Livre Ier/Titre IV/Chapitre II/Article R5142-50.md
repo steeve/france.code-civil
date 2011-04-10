@@ -24,8 +24,8 @@ par an, compare la liste des médicaments entrés et sortis avec les médicament
 en stock, toute divergence devant être consignée dans un rapport.
 
 Les informations conservées ou enregistrées sont tenues pendant cinq ans à la
-disposition de l'inspection compétente et de l'Agence française de sécurité
-sanitaire des aliments.
+disposition de l'inspection compétente et de l'Agence nationale de sécurité
+sanitaire de l'alimentation, de l'environnement et du travail.
 
 Tout établissement pharmaceutique vétérinaire mentionné au premier alinéa
 s'assure que les personnes morales ou physiques destinataires de sa livraison

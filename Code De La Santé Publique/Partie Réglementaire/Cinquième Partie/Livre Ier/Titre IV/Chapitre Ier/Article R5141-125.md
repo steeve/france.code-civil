@@ -3,8 +3,8 @@ Article R5141-125
 Le certificat accompagnant les aliments médicamenteux fabriqués dans un autre
 Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace
 économique européen lors de leur importation correspond à un modèle fixé par
-décision du directeur général de l'Agence française de sécurité sanitaire des
-aliments et qui mentionne :
+décision du directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail et qui mentionne :
 
 1° Le nom ou la raison sociale et l'adresse du fabricant agréé et, s'ils sont
 distincts, ceux du distributeur ;

@@ -61,13 +61,13 @@ outre, être rédigées dans d'autres langues, à condition que les mêmes
 indications figurent dans toutes les langues utilisées.
 
 Pour les médicaments qui ont obtenu une autorisation de mise sur le marché en
-vertu du règlement (CE) n° 726 / 2004 du Parlement européen et du Conseil du 31
-mars 2004, l'Agence française de sécurité sanitaire des aliments peut autoriser
-ou exiger que le conditionnement extérieur porte des informations
-supplémentaires en ce qui concerne la distribution, la détention, la vente ou
-les mesures de précaution éventuelles, à condition que ces informations ne
-soient pas contraires à la législation communautaire ou aux termes de
-l'autorisation de mise sur le marché.
+vertu du règlement (CE) n° 726/2004 du Parlement européen et du Conseil du 31
+mars 2004, l'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail peut autoriser ou exiger que le conditionnement
+extérieur porte des informations supplémentaires en ce qui concerne la
+distribution, la détention, la vente ou les mesures de précaution éventuelles, à
+condition que ces informations ne soient pas contraires à la législation
+communautaire ou aux termes de l'autorisation de mise sur le marché.
 
 Ces informations supplémentaires doivent figurer dans un encadré à liseré bleu
 de manière à être clairement séparées des informations mentionnées aux 1° à 14°

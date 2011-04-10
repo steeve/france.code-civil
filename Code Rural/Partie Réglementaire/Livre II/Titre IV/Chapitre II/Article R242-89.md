@@ -10,5 +10,6 @@ du Conseil supérieur de l'ordre des vétérinaires, au directeur départemental
 services vétérinaires du département du domicile professionnel administratif du
 vétérinaire, et, pour les vétérinaires exerçant dans une entreprise ou un
 établissement mentionné à l'article L. 5142-1 du code de la santé publique, au
-directeur général de l'Agence française de sécurité sanitaire des aliments. Elle
-entre en vigueur huit jours après sa notification à l'intéressé.
+directeur général de l'Agence nationale de sécurité sanitaire de l'alimentation,
+de l'environnement et du travail. Elle entre en vigueur huit jours après sa
+notification à l'intéressé.

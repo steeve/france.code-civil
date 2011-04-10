@@ -1,8 +1,9 @@
 Article R5141-65
 ----
-Lorsque le directeur général de l'Agence française de sécurité sanitaire des
-aliments estime que la demande ou le dossier qui l'accompagne est incomplet, il
-invite le demandeur à compléter cette demande ou ce dossier.
+Lorsque le directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail estime que la demande ou le
+dossier qui l'accompagne est incomplet, il invite le demandeur à compléter cette
+demande ou ce dossier.
 
 Le directeur général notifie sa décision au demandeur dans un délai de deux cent
 dix jours à compter de la présentation d'une demande et d'un dossier complets.

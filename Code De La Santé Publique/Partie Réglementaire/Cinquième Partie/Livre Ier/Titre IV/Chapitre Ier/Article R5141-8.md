@@ -2,9 +2,9 @@ Article R5141-8
 ----
 Dans un délai de deux mois précédant l'essai clinique d'un médicament
 vétérinaire, le promoteur fait connaître son intention au directeur général de
-l'Agence française de sécurité sanitaire des aliments en lui adressant par envoi
-recommandé avec demande d'avis de réception un dossier comportant les
-informations suivantes :
+l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement
+et du travail en lui adressant par envoi recommandé avec demande d'avis de
+réception un dossier comportant les informations suivantes :
 
 1° L'identité du promoteur ;
 
@@ -97,6 +97,7 @@ références des principaux travaux exploités pour cette synthèse ;
 8° Le cas échéant, une copie des autorisations accordées en application de
 l'article R. 5132-74 ou de l'article R. 5132-83.
 
-Le directeur général de l'Agence française de sécurité sanitaire des aliments
-peut, dans un délai de deux mois après réception des informations mentionnées
-ci-dessus, s'opposer à la mise en oeuvre de cet essai par une décision motivée.
+Le directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail peut, dans un délai de deux
+mois après réception des informations mentionnées ci-dessus, s'opposer à la mise
+en oeuvre de cet essai par une décision motivée.

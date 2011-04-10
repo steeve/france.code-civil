@@ -9,6 +9,6 @@ Dans ce cas, la période de douze mois prévue à l'article R. 522-8 est suspend
 complémentaires jusqu'à la date à laquelle un accusé de réception de ces
 informations lui est délivré par le ministre chargé de l'environnement lorsque
 ces informations ont été jugées suffisantes après avis, le cas échéant, de
-l'Agence française de sécurité sanitaire de l'environnement et du travail et, au
-plus tard, au terme d'un délai de trois mois après la réception des informations
-demandées.
+l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement
+et du travail et, au plus tard, au terme d'un délai de trois mois après la
+réception des informations demandées.

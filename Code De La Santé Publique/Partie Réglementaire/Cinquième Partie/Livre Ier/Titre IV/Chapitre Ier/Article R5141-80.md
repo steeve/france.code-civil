@@ -1,9 +1,9 @@
 Article R5141-80
 ----
-Un prélèvement comporte deux échantillons. L'un est destiné à l'Agence française
-de sécurité sanitaire des aliments, l'autre est conservé par l'établissement
-détenteur du stock, pour être éventuellement soumis à une analyse
-contradictoire.
+Un prélèvement comporte deux échantillons. L'un est destiné à l'Agence nationale
+de sécurité sanitaire de l'alimentation, de l'environnement et du travail,
+l'autre est conservé par l'établissement détenteur du stock, pour être
+éventuellement soumis à une analyse contradictoire.
 
 Les prélèvements sont effectués de manière que les échantillons soient autant
 que possible identiques.
@@ -16,4 +16,5 @@ nom et l'adresse du détenteur du stock, la date du prélèvement, le nom et la
 qualité de l'agent.
 
 Ces prélèvements ne donnent lieu à aucun paiement à la charge de l'Etat ou de
-l'Agence française de sécurité sanitaire des aliments.
+l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement
+et du travail.

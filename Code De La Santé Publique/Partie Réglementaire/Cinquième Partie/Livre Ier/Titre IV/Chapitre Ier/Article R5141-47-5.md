@@ -1,8 +1,8 @@
 Article R5141-47-5
 ----
 En cas d'accord au sein du groupe de coordination, saisi par le directeur
-général de l'Agence française de sécurité sanitaire des aliments ou par un autre
-Etat :
+général de l'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail ou par un autre Etat :
 
 1° Dans le cas prévu à l'article R. 5141-47-2, le directeur général de l'agence
 notifie l'accord aux Etats concernés et au titulaire. Conformément au rapport

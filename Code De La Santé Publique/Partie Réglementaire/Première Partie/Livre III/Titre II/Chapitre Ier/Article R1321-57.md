@@ -9,8 +9,8 @@ sont raccordés ou engendrer une contamination de l'eau distribuée dans les
 installations privées de distribution.
 
 Un arrêté des ministres chargés de la santé et de la construction, pris après
-avis de l'Agence française de sécurité sanitaire des aliments, définit les cas
-où il y a lieu de mettre en place des dispositifs de protection et les
-prescriptions techniques applicables à ces dispositifs. Il appartient aux
-propriétaires des installations de mettre en place et d'entretenir ces
-dispositifs.
+avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail, définit les cas où il y a lieu de mettre en place
+des dispositifs de protection et les prescriptions techniques applicables à ces
+dispositifs. Il appartient aux propriétaires des installations de mettre en
+place et d'entretenir ces dispositifs.

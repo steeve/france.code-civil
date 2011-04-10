@@ -1,7 +1,8 @@
 Article R5141-39-1
 ----
-L'autorisation de mise sur le marché délivrée par l'Agence française de sécurité
-sanitaire des aliments devient caduque s'il apparaît :
+L'autorisation de mise sur le marché délivrée par l'Agence nationale de sécurité
+sanitaire de l'alimentation, de l'environnement et du travail devient caduque
+s'il apparaît :
 
 1° Qu'elle n'est pas suivie d'une mise sur le marché du médicament vétérinaire
 sur le territoire national dans les trois années qui suivent sa délivrance ;

@@ -14,7 +14,7 @@ choix.
 
 Le conseil scientifique comprend, outre son président :
 
-1° Sept membres de droit :
+1° Six membres de droit :
 
 a) Le président du conseil scientifique de l'Ecole nationale de santé publique
 ou son représentant ;
@@ -25,16 +25,14 @@ représentant ;
 c) Le président du conseil scientifique de l'Agence française de sécurité
 sanitaire des produits de santé ou son représentant ;
 
-d) Le président du conseil scientifique de l'Agence française de sécurité
-sanitaire des aliments ou son représentant ;
+d) Le président du conseil scientifique de l'Agence nationale de sécurité
+sanitaire de l'alimentation, de l'environnement et du travail, ou son
+représentant ;
 
-e) Le président du conseil scientifique de l'Agence française de sécurité
-sanitaire de l'environnement et du travail ou son représentant ;
-
-f) Le président du conseil scientifique de la Caisse nationale de l'assurance
+e) Le président du conseil scientifique de la Caisse nationale de l'assurance
 maladie des travailleurs salariés ou son représentant ;
 
-g) Le directeur général de l'Institut national de la santé et de la recherche
+f) Le directeur général de l'Institut national de la santé et de la recherche
 médicale ou son représentant ;
 
 2° Quatre membres du Haut Conseil de la santé publique nommés, sur proposition
@@ -49,7 +47,7 @@ en raison de leurs compétences dans les domaines de la santé publique, des
 sciences sociales, des sciences de l'éducation, des sciences de la communication
 et de l'éducation pour la santé.
 
-Le président et les membres du conseil scientifique mentionnés aux 2° , 3° et 4°
+Le président et les membres du conseil scientifique mentionnés aux 2°, 3° et 4°
 du présent article sont nommés par arrêté du ministre chargé de la santé pour
 une durée de trois ans renouvelable.
 

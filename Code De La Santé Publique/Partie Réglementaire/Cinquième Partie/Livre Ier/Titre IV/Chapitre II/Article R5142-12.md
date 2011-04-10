@@ -4,4 +4,5 @@ Si, dans le délai de deux ans qui suit la notification des autorisations prévu
 aux articles R. 5142-8 à R. 5142-10, l'établissement ne fonctionne pas, ces
 autorisations deviennent caduques. Toutefois, sur justification produite avant
 l'expiration de ce délai, celui-ci peut être prorogé par le directeur général de
-l'Agence française de sécurité sanitaire des aliments.
+l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement
+et du travail.

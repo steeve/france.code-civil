@@ -2,17 +2,19 @@ Article R5141-66
 ----
 L'enregistrement comporte le numéro d'enregistrement et les données mentionnées
 à l'article R. 5141-63 telles qu'elles ont été approuvées par le directeur
-général de l'Agence française de sécurité sanitaire des aliments.
+général de l'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail.
 
 L'enregistrement est valable pour une durée de cinq ans. Il est renouvelable sur
-demande du titulaire adressée au directeur général de l'Agence française de
-sécurité sanitaire des aliments au plus tard six mois avant sa date
-d'expiration. La demande de renouvellement est accompagnée d'une liste
-récapitulative de tous les documents présentés relatifs à la qualité et à la
-sécurité comprenant toutes les modifications autorisées depuis la délivrance de
-l'enregistrement initial ou du dernier renouvellement. L'Agence française de
-sécurité sanitaire des aliments peut à tout moment demander la communication des
-documents mentionnés dans cette liste.
+demande du titulaire adressée au directeur général de l'Agence nationale de
+sécurité sanitaire de l'alimentation, de l'environnement et du travail au plus
+tard six mois avant sa date d'expiration. La demande de renouvellement est
+accompagnée d'une liste récapitulative de tous les documents présentés relatifs
+à la qualité et à la sécurité comprenant toutes les modifications autorisées
+depuis la délivrance de l'enregistrement initial ou du dernier renouvellement.
+L'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement
+et du travail peut à tout moment demander la communication des documents
+mentionnés dans cette liste.
 
 L'enregistrement n'est pas renouvelé si le rapport entre les bénéfices et les
 risques liés à l'utilisation du médicament homéopathique vétérinaire évalué par

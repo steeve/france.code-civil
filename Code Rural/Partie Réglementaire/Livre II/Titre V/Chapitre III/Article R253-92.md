@@ -9,7 +9,8 @@ chargé de l'agriculture :
 d'autorisation.
 
 Le ministre chargé de l'agriculture peut, avant de prendre sa décision,
-consulter l'Agence française de sécurité sanitaire des aliments.
+consulter l'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail.
 
 Dès l'abrogation ou le retrait de l'autorisation, toute mise sur le marché des
 préparations naturelles peu préoccupantes obtenues à partir d'un procédé

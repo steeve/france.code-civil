@@ -17,5 +17,5 @@ avis sanitaire favorable des services départementaux concernés.
 Si les centres mettent en oeuvre des systèmes de traitement et de désinfection
 de l'eau de mer d'approvisionnement, ces systèmes doivent être autorisés par
 arrêté conjoint du ministre chargé des pêches maritimes et des cultures marines
-et du ministre chargé de la santé, pris après avis de l'Agence française de
-sécurité sanitaire des aliments.
+et du ministre chargé de la santé, pris après avis de l'Agence nationale de
+sécurité sanitaire de l'alimentation, de l'environnement et du travail.

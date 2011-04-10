@@ -1,8 +1,8 @@
 Article R*253-57
 ----
 La demande d'autorisation de mise sur le marché est adressée par le responsable
-de la mise sur le marché à l'Agence française de sécurité sanitaire des
-aliments.
+de la mise sur le marché à l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail.
 
 Outre le dossier technique mentionné à l'article R. 533-26 du code de
 l'environnement, la demande d'autorisation doit comprendre :

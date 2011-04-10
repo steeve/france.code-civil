@@ -12,7 +12,8 @@ pour l'alimentation de l'homme et des animaux.
 Les modalités d'emploi de ces produits et les procédés physiques de nettoyage et
 de désinfection des installations font l'objet de prescriptions particulières
 édictées par arrêté des ministres chargés de la consommation et de la santé,
-pris après avis de l'Agence française de sécurité sanitaire des aliments.
+pris après avis de l'Agence nationale de sécurité sanitaire de l'alimentation,
+de l'environnement et du travail.
 
 L'évacuation des eaux utilisées pour le nettoyage et le rinçage des
 installations ainsi que l'élimination des produits issus du traitement des eaux

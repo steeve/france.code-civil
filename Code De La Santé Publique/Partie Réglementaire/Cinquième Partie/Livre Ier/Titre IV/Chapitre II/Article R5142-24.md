@@ -6,8 +6,9 @@ service national ou de rappel à ce service. Dans ce cas, ce dernier est prolong
 jusqu'à la cessation de l'empêchement.
 
 Lorsque le remplacement excède trente jours consécutifs, l'intéressé fait
-connaître au directeur général de l'Agence française de sécurité sanitaire des
-aliments les nom, adresse et qualité de son remplaçant.
+connaître au directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail les nom, adresse et qualité de
+son remplaçant.
 
 L'identité des pharmaciens ou vétérinaires assurant des remplacements, les dates
 et durées de ces remplacements sont conservées dans l'établissement pendant une

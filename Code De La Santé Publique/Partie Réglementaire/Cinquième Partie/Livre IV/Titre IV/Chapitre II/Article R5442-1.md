@@ -26,6 +26,6 @@ des animaux ;
 
 8° Pour le titulaire d'une autorisation mentionnée à l'article L. 5141-12, de ne
 pas avoir déclaré, immédiatement après en avoir eu connaissance, au directeur
-général de l'Agence française de sécurité sanitaire des aliments, tout effet
-indésirable grave et tout effet indésirable sur l'être humain susceptibles
-d'être dus aux autovaccins.
+général de l'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail, tout effet indésirable grave et tout effet
+indésirable sur l'être humain susceptibles d'être dus aux autovaccins.

@@ -1,8 +1,9 @@
 Article R5141-28
 ----
-Le directeur général de l'Agence française de sécurité sanitaire des aliments se
-prononce dans un délai de deux cent dix jours à compter de la présentation d'un
-dossier de demande complet.
+Le directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail se prononce dans un délai de
+deux cent dix jours à compter de la présentation d'un dossier de demande
+complet.
 
 Le silence gardé par le directeur général vaut refus d'autorisation à
 l'expiration d'un délai de deux cent dix jours à compter de la présentation d'un

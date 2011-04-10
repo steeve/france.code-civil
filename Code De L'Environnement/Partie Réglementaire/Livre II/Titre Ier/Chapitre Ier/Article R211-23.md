@@ -7,7 +7,7 @@ exigences de protection de la santé publique et de l'environnement.
 
 Les conditions d'épuration et les modalités d'irrigation ou d'arrosage requises,
 ainsi que les programmes de surveillance à mettre en oeuvre, sont définis, après
-avis de l'Agence française de sécurité sanitaire de l'environnement et du
-travail et de la mission interministérielle de l'eau, par un arrêté du ministre
-chargé de la santé, du ministre chargé de l'environnement et du ministre chargé
-de l'agriculture.
+avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail et de la mission interministérielle de l'eau, par
+un arrêté du ministre chargé de la santé, du ministre chargé de l'environnement
+et du ministre chargé de l'agriculture.

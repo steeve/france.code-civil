@@ -23,14 +23,15 @@ demande d'autorisation de mise sur le marché conformément à l'article R.
 nécessitant pas d'évaluation mais une simple vérification de conformité de la
 modification proposée aux critères et conditions prévus pour ce type de
 modification par arrêté des ministres chargés de l'agriculture et de la santé
-pris sur proposition du directeur général de l'Agence française de sécurité
-sanitaire des aliments ;
+pris sur proposition du directeur général de l'Agence nationale de sécurité
+sanitaire de l'alimentation, de l'environnement et du travail ;
 
 3° Modification de type IB : toute modification nécessitant une évaluation
 technique de la modification proposée et répondant aux critères et conditions
 prévus pour ce type de modification par arrêté des ministres chargés de
 l'agriculture et de la santé pris sur proposition du directeur général de
-l'Agence française de sécurité sanitaire des aliments ;
+l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement
+et du travail ;
 
 4° Modification de type II : toute modification qui ne répond pas aux critères
 et conditions mentionnés au 2° ou 3°.

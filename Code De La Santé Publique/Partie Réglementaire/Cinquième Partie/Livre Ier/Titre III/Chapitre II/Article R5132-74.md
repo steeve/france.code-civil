@@ -12,5 +12,5 @@ psychotropes, par arrêté du ministre chargé de la santé.
 Lorsque ces substances ou préparations et ces plantes ou parties de plantes sont
 utilisées en médecine vétérinaire, le directeur général de l'Agence française de
 sécurité sanitaire des produits de santé sollicite, préalablement à sa
-proposition, l'avis du directeur général de l'Agence française de sécurité
-sanitaire des aliments.
+proposition, l'avis du directeur général de l'Agence nationale de sécurité
+sanitaire de l'alimentation, de l'environnement et du travail.

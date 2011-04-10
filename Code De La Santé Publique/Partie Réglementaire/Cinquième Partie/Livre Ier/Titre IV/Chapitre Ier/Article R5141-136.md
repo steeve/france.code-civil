@@ -1,8 +1,8 @@
 Article R5141-136
 ----
 L'autorisation peut être modifiée, suspendue pour une durée maximale d'un an ou
-retirée par le directeur général de l'Agence française de sécurité sanitaire des
-aliments lorsqu'il apparaît :
+retirée par le directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail lorsqu'il apparaît :
 
 1° Qu'il existe un ou des médicaments vétérinaires immunologiques possédant une
 autorisation de mise sur le marché pour l'espèce considérée contenant un ou
@@ -24,10 +24,10 @@ retrait ne peuvent intervenir qu'après que le titulaire de l'autorisation a ét
 mis à même de présenter ses observations dans un délai déterminé.
 
 La décision ne peut faire l'objet d'un recours contentieux qu'après l'exercice
-d'un recours gracieux auprès du directeur général de l'Agence française de
-sécurité sanitaire des aliments.
+d'un recours gracieux auprès du directeur général de l'Agence nationale de
+sécurité sanitaire de l'alimentation, de l'environnement et du travail.
 
 Indépendamment des décisions de suspension ou de retrait précitées, le directeur
-général de l'Agence française de sécurité sanitaire des aliments peut, à titre
-conservatoire, demander à la personne titulaire de l'autorisation de procéder au
-rappel de certains lots.
+général de l'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail peut, à titre conservatoire, demander à la
+personne titulaire de l'autorisation de procéder au rappel de certains lots.

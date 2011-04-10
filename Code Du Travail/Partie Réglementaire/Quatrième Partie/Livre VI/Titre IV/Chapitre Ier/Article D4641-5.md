@@ -38,7 +38,8 @@ professionnelles représentatives au plan national ;
 3° Au titre du collège des organismes nationaux d'expertise et de prévention, le
 directeur de :
 
-a) L'Agence française de sécurité sanitaire de l'environnement et du travail ;
+a) L'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail ;
 
 b) L'Institut de veille sanitaire ;
 
@@ -52,9 +53,7 @@ f) La Caisse centrale de la mutualité sociale agricole ;
 
 g) L'Organisme professionnel de prévention du bâtiment et des travaux publics ;
 
-h) L'Institut de radioprotection et de sécurité nucléaire ;
-
-i) L'Agence française de sécurité sanitaire des aliments.
+h) L'Institut de radioprotection et de sécurité nucléaire.
 
 4° Au titre du collège des personnes qualifiées et des représentants
 d'associations ou des organisations professionnelles de la prévention :

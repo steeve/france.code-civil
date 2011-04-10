@@ -1,13 +1,13 @@
 Article R5141-13
 ----
 La demande d'autorisation de mise sur le marché d'un médicament vétérinaire est
-adressée au directeur général de l'Agence française de sécurité sanitaire des
-aliments.
+adressée au directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail.
 
 Dans le cas de médicaments vétérinaires destinés à une ou plusieurs espèces
 animales productrices de denrées alimentaires, mais dont la ou les substances
 pharmacologiquement actives ne figurent pas encore, pour l'espèce ou les espèces
-considérées, à l'annexe I, II ou III du règlement (CEE) n° 2377 / 90, la demande
+considérées, à l'annexe I, II ou III du règlement (CEE) n° 2377/90, la demande
 d'autorisation de mise sur le marché ne peut être introduite qu'après le dépôt
 d'une demande valide pour l'établissement de limites maximales de résidus
 conformément audit règlement. Le délai entre la demande valide d'établissement

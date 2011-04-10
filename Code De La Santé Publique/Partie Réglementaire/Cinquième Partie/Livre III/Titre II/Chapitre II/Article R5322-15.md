@@ -8,8 +8,9 @@ siégeant auprès de l'agence ;
 2° Le président du conseil scientifique de l'Institut de veille sanitaire ou son
 représentant ;
 
-3° Le président du conseil scientifique de l'Agence française de sécurité
-sanitaire des aliments ou son représentant ;
+3° Le président du conseil scientifique de l'Agence nationale de sécurité
+sanitaire de l'alimentation, de l'environnement et du travail, ou son
+représentant ;
 
 4° Un chercheur de l'Institut national de la santé et de la recherche médicale,
 spécialiste de la recherche clinique, désigné par son directeur général ;
@@ -18,10 +19,7 @@ spécialiste de la recherche clinique, désigné par son directeur général ;
 recherche scientifique ;
 
 6° Douze personnalités scientifiques reconnues pour leur compétence dans l'un
-des domaines d'activité de l'agence ;
-
-7° Le président du conseil scientifique de l'Agence française de sécurité
-sanitaire de l'environnement et du travail, ou son représentant.
+des domaines d'activité de l'agence.
 
 Le directeur général de la santé ou son représentant et le directeur de la
 recherche, des études, de l'évaluation et des statistiques au ministère chargé

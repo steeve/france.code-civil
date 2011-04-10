@@ -9,14 +9,14 @@ Ces expérimentations comprennent :
 
 a) Pour les médicaments non immunologiques :
 
-- des essais pharmaceutiques, à savoir les essais physico-chimiques, biologiques
+-des essais pharmaceutiques, à savoir les essais physico-chimiques, biologiques
 ou microbiologiques ;
 
-- des essais non cliniques, à savoir les essais d'innocuité, y compris les
-essais évaluant le risque pour l'environnement, l'étude des résidus, les essais
+-des essais non cliniques, à savoir les essais d'innocuité, y compris les essais
+évaluant le risque pour l'environnement, l'étude des résidus, les essais
 précliniques ;
 
-- des essais cliniques ;
+-des essais cliniques ;
 
 b) Pour les médicaments immunologiques :
 
@@ -34,7 +34,8 @@ dispositions de la sous-section 3 de la section 5 du chapitre IV du titre Ier du
 livre II du code rural et de la pêche maritime relatives aux expérimentations
 pratiquées sur les animaux.
 
-Le directeur général de l'Agence française de sécurité sanitaire des aliments
-peut, sur demande, attester de la conformité, d'une part, des essais non
-cliniques aux bonnes pratiques de laboratoire et des établissements qui les
-réalisent et, d'autre part, des essais cliniques aux bonnes pratiques cliniques.
+Le directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail peut, sur demande, attester de
+la conformité, d'une part, des essais non cliniques aux bonnes pratiques de
+laboratoire et des établissements qui les réalisent et, d'autre part, des essais
+cliniques aux bonnes pratiques cliniques.

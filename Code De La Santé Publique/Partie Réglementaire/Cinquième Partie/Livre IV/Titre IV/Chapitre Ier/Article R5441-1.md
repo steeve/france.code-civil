@@ -37,16 +37,17 @@ soit, ou utilisant des attestations ou des expertises ;
 
 11° De diffuser, sous quelque forme que ce soit, une publicité en faveur de
 médicaments vétérinaires sans avoir effectué, préalablement à sa diffusion, le
-dépôt auprès du directeur général de l'Agence française de sécurité sanitaire
-des aliments prévu au dernier alinéa de l'article R. 5141-85 ;
+dépôt auprès du directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail prévu au dernier alinéa de
+l'article R. 5141-85 ;
 
 12° De diffuser, sous quelque forme que ce soit, une publicité en faveur de
 médicaments vétérinaires présentés comme favorisant le diagnostic, la prévention
 ou le traitement des maladies contagieuses prévues à l'article L. 223-2 du code
 rural et de la pêche maritime ou dans les textes pris en application de
 l'article L. 223-3 du même code, sans avoir obtenu l'autorisation préalable du
-directeur général de l'Agence française de sécurité sanitaire des aliments
-mentionnée à l'article R. 5141-86 ;
+directeur général de l'Agence nationale de sécurité sanitaire de l'alimentation,
+de l'environnement et du travail mentionnée à l'article R. 5141-86 ;
 
 13° Pour une entreprise mentionnée à l'article R. 5142-1, de remettre
 directement ou indirectement aux utilisateurs et aux personnes habilitées à

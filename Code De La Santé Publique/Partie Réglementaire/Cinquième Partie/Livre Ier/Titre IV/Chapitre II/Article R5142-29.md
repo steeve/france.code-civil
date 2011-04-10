@@ -8,4 +8,5 @@ l'exploitation.
 Il est choisi parmi les pharmaciens ou vétérinaires mentionnés à l'article R.
 5142-27 et se déclare, dès qu'il a accepté les fonctions qui lui sont confiées,
 par le conjoint ou les héritiers, auprès du directeur général de l'Agence
-française de sécurité sanitaire des aliments.
+nationale de sécurité sanitaire de l'alimentation, de l'environnement et du
+travail.

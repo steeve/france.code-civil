@@ -9,5 +9,6 @@ Lorsque l'autorisation est suspendue, supprimée ou modifiée d'office, le
 titulaire informe les détenteurs de stocks afin que ceux-ci puissent prendre les
 dispositions utiles pour faire cesser la distribution du médicament vétérinaire
 concerné. Si ces dispositions n'interviennent pas dans des délais compatibles
-avec l'intérêt de la santé publique, le directeur général de l'Agence française
-de sécurité sanitaire des aliments prend les mesures appropriées.
+avec l'intérêt de la santé publique, le directeur général de l'Agence nationale
+de sécurité sanitaire de l'alimentation, de l'environnement et du travail prend
+les mesures appropriées.

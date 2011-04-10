@@ -16,6 +16,6 @@ déclarant de manière visible pour les usagers.
 
 Les méthodes d'analyse employées par les laboratoires doivent être soit les
 méthodes de référence fixées par un arrêté du ministre chargé de la santé dont
-il peut saisir pour avis l'Agence française de sécurité sanitaire de
-l'environnement et du travail, soit des méthodes conduisant à des résultats
-équivalents.
+il peut saisir pour avis l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail, soit des méthodes conduisant à
+des résultats équivalents.

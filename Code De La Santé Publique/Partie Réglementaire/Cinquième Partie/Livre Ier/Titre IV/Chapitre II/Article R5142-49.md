@@ -6,4 +6,5 @@ soumis à des essais cliniques a connaissance, après la commercialisation d'un
 lot de médicaments vétérinaires, d'un incident ou d'un accident survenu lors de
 la fabrication ou de la distribution de ce lot et susceptible d'entraîner un
 risque pour la santé publique, il en fait immédiatement la déclaration au
-directeur général de l'Agence française de sécurité sanitaire des aliments.
+directeur général de l'Agence nationale de sécurité sanitaire de l'alimentation,
+de l'environnement et du travail.

@@ -3,9 +3,10 @@ Article R242-109
 Lorsqu'une décision de suspension du droit d'exercer est devenue définitive, le
 conseil régional de l'ordre détermine les conditions d'exécution de cette
 décision et en particulier les dates de cette suspension, et en informe sans
-délai le directeur général de l'Agence française de sécurité sanitaire des
-aliments pour les vétérinaires exerçant dans une entreprise ou un établissement
-mentionné à l'article L. 5142-1 du code de la santé publique.
+délai le directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail pour les vétérinaires exerçant
+dans une entreprise ou un établissement mentionné à l'article L. 5142-1 du code
+de la santé publique.
 
 Pendant la période de suspension, le vétérinaire ne peut se faire remplacer, à
 l'exception des vétérinaires responsables, délégués ou adjoints exerçant dans

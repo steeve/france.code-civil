@@ -22,6 +22,6 @@ dispositions. Les formes ou voies d'administration de ces médicaments, leur
 composition, les doses ou concentrations maximales de substances qu'ils
 renferment et les espèces animales concernées sont fixées, sur proposition du
 directeur général de l'Agence française de sécurité sanitaire des produits de
-santé après avis du directeur général de l'Agence française de sécurité
-sanitaire des aliments, par arrêté des ministres chargés de l'agriculture et de
-la santé.
+santé après avis du directeur général de l'Agence nationale de sécurité
+sanitaire de l'alimentation, de l'environnement et du travail, par arrêté des
+ministres chargés de l'agriculture et de la santé.

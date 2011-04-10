@@ -1,8 +1,9 @@
 Article R253-46
 ----
 L'autorisation de mise sur le marché peut être retirée ou modifiée par le
-ministre chargé de l'agriculture, le cas échéant après avis de l'Agence
-française de sécurité sanitaire des aliments.
+ministre chargé de l'agriculture, le cas échéant après avis de l' Agence
+nationale de sécurité sanitaire de l'alimentation, de l'environnement et du
+travail .
 
 L'autorisation de mise sur le marché d'un produit phytopharmaceutique est
 retirée :

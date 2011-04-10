@@ -1,6 +1,6 @@
 Article R5145-6
 ----
-Le directeur général de l'Agence nationale chargée de la sécurité sanitaire de
+Le directeur général de l'Agence nationale de sécurité sanitaire de
 l'alimentation, de l'environnement et du travail adresse à l'entreprise en cause
 une mise en garde assortie du rapport d'inspection ou des résultats des
 contrôles ou des vérifications, en lui indiquant les faits de nature à justifier

@@ -14,10 +14,10 @@ Si la sanction prononcée est la peine de suspension temporaire du droit
 d'exercer, la décision est notifiée par le président du conseil régional de
 l'ordre au ministre chargé de l'agriculture, au préfet du département du
 domicile professionnel administratif et d'exercice, à tous les conseils
-régionaux de l'ordre, ainsi qu'au directeur général de l'Agence française de
-sécurité sanitaire des aliments pour les vétérinaires exerçant dans une
-entreprise ou un établissement mentionné à l'article L. 5142-1 du code de la
-santé publique.
+régionaux de l'ordre, ainsi qu'au directeur général de l'Agence nationale de
+sécurité sanitaire de l'alimentation, de l'environnement et du travail pour les
+vétérinaires exerçant dans une entreprise ou un établissement mentionné à
+l'article L. 5142-1 du code de la santé publique.
 
 La chambre régionale de discipline peut décider de ne pas faire figurer dans les
 copies de la décision les mentions, notamment patronymiques, qui pourraient

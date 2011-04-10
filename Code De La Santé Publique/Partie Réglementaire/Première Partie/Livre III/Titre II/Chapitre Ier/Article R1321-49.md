@@ -12,6 +12,7 @@ canalisations en plomb ou de tout élément en plomb dans les installations de
 production, de distribution ou de conditionnement d'eau destinée à la
 consommation humaine est interdite.
 
-Un arrêté du ministre chargé de la santé, pris après avis de l'Agence française
-de sécurité sanitaire des aliments, définit les modalités d'évaluation du
-potentiel de dissolution du plomb dans l'eau.
+Un arrêté du ministre chargé de la santé, pris après avis de l'Agence nationale
+de sécurité sanitaire de l'alimentation, de l'environnement et du travail,
+définit les modalités d'évaluation du potentiel de dissolution du plomb dans
+l'eau.

@@ -16,4 +16,5 @@ médicaments. Elle exerce personnellement ses fonctions. Elle contrôle les
 activités de préparation, de stockage, de transport et de suivi des autovaccins
 à usage vétérinaire dans le respect des bonnes pratiques définies par arrêté des
 ministres chargés de l'agriculture et de la santé, pris sur proposition du
-directeur général de l'Agence française de sécurité sanitaire des aliments.
+directeur général de l'Agence nationale de sécurité sanitaire de l'alimentation,
+de l'environnement et du travail.

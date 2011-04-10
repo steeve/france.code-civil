@@ -23,7 +23,8 @@ consommation humaine, une information doit être apposée afin de signaler le
 danger encouru.
 
 Des arrêtés des ministres chargés de la santé et de la construction, pris après
-avis de l'Agence française de sécurité sanitaire des aliments, définissent :
+avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail, définissent :
 
 1° Les modalités techniques d'application des dispositions du présent article
 ainsi que les délais éventuellement nécessaires pour mettre en conformité les

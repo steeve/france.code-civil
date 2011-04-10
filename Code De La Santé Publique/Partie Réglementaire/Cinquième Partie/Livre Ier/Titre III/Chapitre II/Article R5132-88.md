@@ -11,8 +11,8 @@ ministre chargé de la santé.
 
 Lorsque ces substances ou préparations sont utilisées en médecine vétérinaire,
 le directeur général de l'agence sollicite, préalablement à sa proposition,
-l'avis du directeur général de l'Agence française de sécurité sanitaire des
-aliments.
+l'avis du directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail.
 
 Cette autorisation est donnée ou retirée dans les conditions prévues aux
 articles R. 5132-75 à R. 5132-77. L'autorisation est également subordonnée à la

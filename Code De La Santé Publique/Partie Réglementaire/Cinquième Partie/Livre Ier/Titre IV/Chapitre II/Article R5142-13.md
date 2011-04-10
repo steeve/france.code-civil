@@ -3,8 +3,8 @@ Article R5142-13
 En cas de changement de propriété d'un établissement pharmaceutique vétérinaire,
 l'autorisation d'ouverture est transférée au nouveau propriétaire sur demande
 adressée conjointement par les deux pharmaciens ou vétérinaires responsables
-concernés au directeur général de l'Agence française de sécurité sanitaire des
-aliments.
+concernés au directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail.
 
 En cas de mise en location-gérance de l'établissement, l'autorisation
 d'ouverture est transférée dans les mêmes conditions au locataire-gérant pour la
@@ -19,4 +19,5 @@ demande à l'expiration de ce délai.
 Lorsque le transfert concerne un établissement mentionné aux articles R. 5142-6
 ou R. 5142-7, le directeur général de l'Agence française de sécurité sanitaire
 des produits de santé ou le préfet est informé de la décision du directeur
-général de l'Agence française de sécurité sanitaire des aliments.
+général de l'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail.

@@ -1,7 +1,7 @@
 Article R5141-66-1
 ----
-L'enregistrement délivré par l'Agence française de sécurité sanitaire des
-aliments devient caduc s'il apparaît :
+L'enregistrement délivré par l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail devient caduc s'il apparaît :
 
 1° Qu'il n'est pas suivi d'une mise sur le marché du médicament homéopathique
 vétérinaire sur le territoire national dans les trois années qui suivent sa

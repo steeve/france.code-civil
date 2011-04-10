@@ -6,7 +6,8 @@ départemental des services vétérinaires, du président du Conseil supérieur 
 l'ordre, d'un autre conseil régional de l'ordre ou de tout intéressé. En outre,
 pour les vétérinaires exerçant dans une entreprise ou un établissement mentionné
 à l'article L. 5142-1 du code de la santé publique, il peut être saisi par le
-directeur général de l'Agence française de sécurité sanitaire des aliments.
+directeur général de l'Agence nationale de sécurité sanitaire de l'alimentation,
+de l'environnement et du travail.
 
 Le président du conseil régional peut également, agissant d'office, déclencher
 la procédure disciplinaire.

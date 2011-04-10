@@ -1,8 +1,8 @@
 Article R5141-40
 ----
 Le changement du titulaire de l'autorisation de mise sur le marché est
-subordonné à une autorisation du directeur général de l'Agence française de
-sécurité sanitaire des aliments.
+subordonné à une autorisation du directeur général de l'Agence nationale de
+sécurité sanitaire de l'alimentation, de l'environnement et du travail.
 
 En vue d'obtenir cette autorisation, le titulaire de l'autorisation de mise sur
 le marché adresse un dossier comprenant, outre le résumé des caractéristiques du
@@ -31,9 +31,10 @@ avant que la fusion ou l'apport ne soit définitivement réalisé. Elles
 fournissent, à l'appui de leur demande, le protocole d'accord de principe
 concernant la fusion ou l'apport. Le transfert est accordé sous la condition
 suspensive de sa réalisation définitive qui est notifiée au directeur général de
-l'Agence française de sécurité sanitaire des aliments.
+l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement
+et du travail.
 
-Le directeur général de l'Agence française de sécurité sanitaire des aliments se
-prononce dans un délai de soixante jours à compter de la date de réception de la
-demande complète. Le silence du directeur général vaut autorisation à
-l'expiration de ce délai.
+Le directeur général de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail se prononce dans un délai de
+soixante jours à compter de la date de réception de la demande complète. Le
+silence du directeur général vaut autorisation à l'expiration de ce délai.
