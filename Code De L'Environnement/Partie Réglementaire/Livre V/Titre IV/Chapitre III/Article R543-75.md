@@ -22,3 +22,14 @@ HCFC-124...)
 
 (exemple : CH2FCF3 = HFC-134a, CH2F2 = HFC-32, CHF2CF3 = HFC-125, CHF3 = HFC-23,
 CH3CHF2 = HFC-152a...)
+
+4° Catégorie des perfluorocarbones (PFC) (exemple : CF4 = PFC-14, C2 F6 =
+PFC-116...).
+
+La présente section ne s'applique pas :
+
+- aux navires battant pavillon d'un Etat tiers à l'Union européenne ;
+
+- aux navires battant pavillon d'un Etat membre de l'Union européenne en dehors
+des ports français et des eaux intérieures maritimes et territoriales
+françaises.

@@ -3,24 +3,24 @@ Article R543-122
 Est puni de l'amende prévue pour les contraventions de la 3e classe le fait :
 
 1° Pour un détenteur, lorsque les opérations d'entretien ou de réparation
-nécessitent une intervention quelconque sur le circuit contenant des fluides
-frigorigènes, de faire charger, mettre en service, entretenir, ou réparer un
-équipement sans recourir à un opérateur titulaire d'une attestation de capacité
-délivrée par un organisme agréé, contrairement aux dispositions de l'article R.
-543-78 ;
+nécessitent une intervention quelconque sur le circuit frigorifique, de faire
+charger, mettre en service, entretenir ou réparer un équipement sans recourir à
+un opérateur titulaire d'une attestation de capacité prévue à l'article R.
+543-99 ou d'un certificat équivalent délivré dans un des Etats membres de
+l'Union européenne et traduit en français, contrairement aux dispositions de
+l'article R. 543-78 ;
 
-2° Pour un distributeur, de céder à titre onéreux ou gratuit des fluides
-frigorigènes à un opérateur ne disposant pas de l'attestation de capacité,
-contrairement aux dispositions de l'article R. 543-84 ;
+2° (Supprimé)
 
 3° Pour un opérateur :
 
 a) De ne pas établir de fiche d'intervention, contrairement aux dispositions des
 articles R. 543-82 et R. 543-83 ;
 
-b) D'acquérir à titre onéreux ou gratuit des fluides frigorigènes sans remplir
-les conditions prévues aux articles R. 543-99 à R. 543-105, en méconnaissance de
-l'article R. 543-84 ;
+b) D'acquérir à titre onéreux ou gratuit des fluides frigorigènes sans être
+titulaire de l'attestation de capacité prévue à l'article R. 543-99, ni d'un
+certificat équivalent délivré dans un des Etats membres de l'Union européenne et
+traduit en français, contrairement aux dispositions de l'article R. 543-84 ;
 
 c) De ne pas adresser à l'organisme agréé les informations prévues à l'article
 R. 543-100 ;

@@ -11,6 +11,7 @@ La décision est notifiée au demandeur.
 
 La décision précise l'identité de la substance, du mélange ou de l'article
 concerné, la durée de l'exemption et, le cas échéant, les conditions de son
-renouvellement. Un arrêté conjoint du ministre chargé de l'environnement et du
-ministre de la défense précise les conditions de présentation et d'instruction
-des demandes.
+renouvellement. En l'absence de décision explicite à l'issue d'un délai de six
+mois à compter de la réception de la demande, celle-ci est réputée rejetée. Un
+arrêté conjoint du ministre chargé de l'environnement et du ministre de la
+défense précise les conditions de présentation et d'instruction des demandes.

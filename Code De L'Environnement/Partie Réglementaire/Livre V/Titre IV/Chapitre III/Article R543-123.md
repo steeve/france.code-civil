@@ -37,13 +37,20 @@ articles R. 543-92 et R. 543-93 ;
 distributeurs, de ne pas procéder aux opérations de reprise sans frais
 supplémentaires, de collecte, de retraitement pour mise en conformité avec leurs
 spécifications d'origine permettant leur réutilisation ou de destruction
-intégrale des fluides frigorigènes ou de leurs emballages, contrairement aux
-dispositions des articles R. 543-94 à R. 543-96 ;
+intégrale des fluides frigorigènes ou de leurs emballages, contrairement à
+l'article R. 543-91 et aux articles R. 543-94 à R. 543-96 ;
 
 9° Pour un opérateur de procéder à la mise en service, à l'entretien, la
 réparation ou la maintenance, lorsque ces opérations nécessitent une
-intervention quelconque sur le circuit contenant des fluides frigorigènes, au
-contrôle d'étanchéité ou au démantèlement des équipements, à la récupération et
-à la charge des fluides frigorigènes ou à toute autre opération nécessitant la
-manipulation de fluides frigorigènes, sans être titulaire de l'attestation de
-capacité prévue aux articles R. 543-99 à R. 543-105.
+intervention quelconque sur le circuit frigorifique, au contrôle d'étanchéité ou
+au démantèlement des équipements, à la récupération et à la charge des fluides
+frigorigènes, ou à toute autre opération nécessitant la manipulation de fluides
+frigorigènes, sans être titulaire de l'attestation de capacité prévue à
+l'article R. 543-99, ni d'un certificat équivalent délivré dans un des Etats
+membres de l'Union européenne et traduit en français ;
+
+10° Pour un distributeur, de céder à titre onéreux ou gratuit des fluides
+frigorigènes à un opérateur ne disposant ni de l'attestation de capacité, ni
+d'un certificat équivalent délivré dans un des Etats membres de l'Union
+européenne et traduit en français, contrairement aux dispositions de l'article
+R. 543-84.

@@ -3,10 +3,9 @@ Article R543-79
 Le détenteur d'un équipement dont la charge en fluide frigorigène est supérieure
 à deux kilogrammes fait procéder, lors de sa mise en service, à un contrôle
 d'étanchéité des éléments assurant le confinement du fluide frigorigène par un
-opérateur remplissant les conditions aux articles R. 543-99 à R. 543-107. Ce
-contrôle est ensuite périodiquement renouvelé. Il est également renouvelé à
-chaque fois que des modifications ayant une incidence sur le circuit contenant
-les fluides frigorigènes sont apportées à l'équipement.
+opérateur disposant de l'attestation de capacité prévue à l'article R. 543-99 ou
+d'un certificat équivalent délivré dans un des Etats membres de l'Union
+européenne et traduit en français.
 
 Si des fuites de fluides frigorigènes sont constatées lors de ce contrôle,
 l'opérateur responsable du contrôle en dresse le constat par un document qu'il
