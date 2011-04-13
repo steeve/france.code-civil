@@ -18,7 +18,8 @@ de l'Etat, les directeurs du cabinet du représentant de l'Etat en exercice ou
 qui ont exercé leurs fonctions à Saint-Pierre-et-Miquelon depuis moins de trois
 ans ;
 
-4° Les personnes déclarées inéligibles en application de l'article L. 118-3 ;
+4° Les personnes déclarées inéligibles en application des articles L. 118-3, L.
+118-4, LO 136-1 ou LO 136-3 ;
 
 5° Pendant un an à compter de la décision devenue définitive du juge
 administratif prononçant sa démission d'office, le membre du conseil territorial
@@ -26,7 +27,7 @@ qui a refusé, sans excuse valable, d'exercer certaines des fonctions qui lui
 sont dévolues par la loi, conformément à l'article LO 6431-3 du code général des
 collectivités territoriales ;
 
-6° Le Défenseur des droits(1).
+6° Le Défenseur des droits (1).
 
 II.-En outre, ne peuvent être élus membres du conseil territorial s'ils exercent
 leurs fonctions à Saint-Pierre-et-Miquelon ou s'ils les ont exercées depuis

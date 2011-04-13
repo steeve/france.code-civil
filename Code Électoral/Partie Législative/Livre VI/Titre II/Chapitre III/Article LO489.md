@@ -17,7 +17,8 @@ généraux adjoints et les sous-préfets chargés de mission auprès du représe
 de l'Etat, les directeurs du cabinet du représentant de l'Etat en exercice ou
 qui ont exercé leurs fonctions à Saint-Barthélemy depuis moins de trois ans ;
 
-4° Les personnes déclarées inéligibles en application de l'article L. 118-3 ;
+4° Les personnes déclarées inéligibles en application des articles L. 118-3, L.
+118-4, LO 136-1 ou LO 136-3 ;
 
 5° Pendant un an à compter de la décision devenue définitive du juge
 administratif prononçant sa démission d'office, le membre du conseil territorial

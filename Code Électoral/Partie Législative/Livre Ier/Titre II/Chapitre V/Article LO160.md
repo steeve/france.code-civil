@@ -1,12 +1,13 @@
 Article LO160
 ----
-Est interdit l'enregistrement de la candidature d'une personne inéligible.
+Est interdit l'enregistrement de la candidature d'une personne inéligible. Le
+refus d'enregistrement est motivé.
 
-S'il apparaît qu'une déclaration de candidature a été déposée par une personne
-inéligible, le préfet doit surseoir à l'enregistrement de la candidature et
-saisir, dans les vingt-quatre heures, le tribunal administratif qui statue dans
-les trois jours. La décision du tribunal ne peut être contestée que devant le
-conseil constitutionnel saisi de l'élection.
+Le candidat ou la personne qu'il désigne à cet effet peut, dans les vingt-quatre
+heures qui suivent la notification du refus d'enregistrement, le contester
+devant le tribunal administratif. Celui-ci rend sa décision au plus tard le
+troisième jour suivant le jour de sa saisine. La décision du tribunal ne peut
+être contestée que devant le conseil constitutionnel saisi de l'élection.
 
-Si les délais mentionnés à l'alinéa précédent ne sont pas respectés, la
-candidature doit être enregistrée.
+Si le tribunal ne s'est pas prononcé dans le délai imparti, la candidature est
+enregistrée.

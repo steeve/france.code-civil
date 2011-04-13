@@ -1,7 +1,7 @@
 Article LO495
 ----
 Le conseiller territorial qui, lors de son élection, se trouve dans l'un des cas
-d'incompatibilité visés à l'article LO 493 doit, dans les trente jours qui
+d'incompatibilité visés à l'article LO. 493 doit, dans les trente jours qui
 suivent son entrée en fonction ou, en cas de contestation de l'élection, la
 décision du Conseil d'Etat, démissionner de son mandat de conseiller territorial
 ou mettre fin à la situation incompatible avec l'exercice de celui-ci. Si la
@@ -9,9 +9,14 @@ cause d'incompatibilité survient postérieurement à l'élection, le droit d'op
 est ouvert dans les mêmes conditions.
 
 A l'expiration du délai prévu au premier alinéa, le conseiller territorial qui
-se trouve dans un des cas d'incompatibilité visés à l'article LO 493 est déclaré
-démissionnaire d'office par le Conseil d'Etat à la requête du représentant de
-l'Etat ou de tout électeur.
+se trouve dans un des cas d'incompatibilité visés au I de l'article LO. 493 est
+déclaré démissionnaire d'office par le Conseil d'Etat à la requête du
+représentant de l'Etat ou de tout électeur.
+
+A l'expiration du délai prévu au premier alinéa du présent article, les deuxième
+et troisième alinéas de l'article LO. 151 sont applicables au conseiller
+territorial qui se trouve dans un des cas d'incompatibilité visés au II de
+l'article LO. 493.
 
 Dans le délai prévu au premier alinéa, tout conseiller territorial est tenu
 d'adresser au représentant de l'Etat une déclaration certifiée sur l'honneur
