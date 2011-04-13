@@ -2,7 +2,7 @@ Article 696-10
 ----
 Toute personne appréhendée à la suite d'une demande d'extradition doit être
 conduite dans les quarante-huit heures devant le procureur général
-territorialement compétent. Les articles 63-1 à 63-5 sont applicables durant ce
+territorialement compétent. Les articles 63-1 à 63-7 sont applicables durant ce
 délai.
 
 Après avoir vérifié l'identité de la personne réclamée, le procureur général

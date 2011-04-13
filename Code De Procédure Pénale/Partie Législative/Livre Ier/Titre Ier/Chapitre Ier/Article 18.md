@@ -7,14 +7,14 @@ Les officiers de police judiciaire, mis temporairement à disposition d'un
 service autre que celui dans lequel ils sont affectés, ont la même compétence
 territoriale que celle des officiers de police judiciaire du service d'accueil.
 
-En cas de crime ou délit flagrant, les officiers de police judiciaire peuvent se
-transporter dans le ressort des tribunaux de grande instance limitrophes du
-tribunal ou des tribunaux auxquels ils sont rattachés, à l'effet d'y poursuivre
-leurs investigations et de procéder à des auditions, perquisitions et saisies.
-Pour l'application du présent alinéa, les ressorts des tribunaux de grande
-instance situés dans un même département sont considérés comme un seul et même
-ressort. Les ressorts des tribunaux de grande instance de Paris, Nanterre,
-Bobigny et Créteil sont considérés comme un seul et même ressort.
+Les officiers de police judiciaire peuvent se transporter dans le ressort des
+tribunaux de grande instance limitrophes du tribunal ou des tribunaux auxquels
+ils sont rattachés, à l'effet d'y poursuivre leurs investigations et de procéder
+à des auditions, perquisitions et saisies. Pour l'application du présent alinéa,
+les ressorts des tribunaux de grande instance situés dans un même département
+sont considérés comme un seul et même ressort. Les ressorts des tribunaux de
+grande instance de Paris, Nanterre, Bobigny et Créteil sont considérés comme un
+seul et même ressort.
 
 Les officiers de police judiciaire peuvent, sur commission rogatoire expresse du
 juge d'instruction ou sur réquisitions du procureur de la République, prises au

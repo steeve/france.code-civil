@@ -15,8 +15,8 @@ première comparution devant cette juridiction.
 
 La chambre de l'instruction peut également, lorsqu'elle ordonne la mise en
 liberté de la personne recherchée et à titre de mesure de sûreté, astreindre
-l'intéressé à se soumettre à une ou plusieurs des obligations énumérées à
-l'article 138.
+l'intéressé à se soumettre à une ou plusieurs des obligations énumérées aux
+articles 138 et 142-5.
 
 Préalablement à sa mise en liberté, la personne recherchée doit signaler à la
 chambre de l'instruction ou au chef de l'établissement pénitentiaire son

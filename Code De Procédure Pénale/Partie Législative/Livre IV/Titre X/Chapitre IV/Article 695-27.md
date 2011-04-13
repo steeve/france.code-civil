@@ -3,7 +3,7 @@ Article 695-27
 Toute personne appréhendée en exécution d'un mandat d'arrêt européen doit être
 conduite dans les quarante-huit heures devant le procureur général
 territorialement compétent. Pendant ce délai, les dispositions des articles 63-1
-à 63-5 sont applicables.
+à 63-7 sont applicables.
 
 Après avoir vérifié l'identité de cette personne, le procureur général
 l'informe, dans une langue qu'elle comprend, de l'existence et du contenu du

@@ -30,3 +30,7 @@ l'objet dans un délai raisonnable.
 
 Toute personne condamnée a le droit de faire examiner sa condamnation par une
 autre juridiction.
+
+En matière criminelle et correctionnelle, aucune condamnation ne peut être
+prononcée contre une personne sur le seul fondement de déclarations qu'elle a
+faites sans avoir pu s'entretenir avec un avocat et être assistée par lui.

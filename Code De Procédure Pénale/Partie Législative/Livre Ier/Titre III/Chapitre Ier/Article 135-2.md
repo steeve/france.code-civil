@@ -34,10 +34,10 @@ la cour d'assises.
 Si la personne a été arrêtée à plus de 200 kilomètres du siège de la juridiction
 de jugement et qu'il n'est pas possible de la conduire dans le délai de
 vingt-quatre heures devant le procureur de la République mentionné au troisième
-alinéa, elle est conduite devant le procureur de la République du lieu de son
-arrestation, qui vérifie son identité, lui notifie le mandat et reçoit ses
-éventuelles déclarations après l'avoir avertie qu'elle est libre de ne pas en
-faire. Ce magistrat met alors le mandat à exécution en faisant conduire la
+alinéa, elle est conduite devant le juge des libertés et de la détention du lieu
+de son arrestation, qui vérifie son identité, lui notifie le mandat et reçoit
+ses éventuelles déclarations après l'avoir avertie qu'elle est libre de ne pas
+en faire. Ce magistrat met alors le mandat à exécution en faisant conduire la
 personne à la maison d'arrêt et il en avise le procureur de la République du
 tribunal de grande instance dans le ressort duquel siège la juridiction de
 jugement. Celui-ci ordonne le transfèrement de la personne, qui doit comparaître
@@ -46,10 +46,10 @@ porté à six jours en cas de transfèrement entre un département d'outre-mer e
 France métropolitaine ou un autre département d'outre-mer. Il est alors procédé
 conformément aux dispositions des troisième et quatrième alinéas.
 
-La présentation devant le juge des libertés et de la détention prévue par les
-dispositions ci-dessus n'est pas nécessaire si, dans les délais prévus pour
-cette présentation, la personne peut comparaître devant la juridiction de
-jugement saisie des faits.
+La présentation devant le juge des libertés et de la détention prévue par le
+quatrième alinéa n'est pas nécessaire si, dans les délais prévus pour cette
+présentation, la personne peut comparaître devant la juridiction de jugement
+saisie des faits.
 
 Les dispositions du présent article sont également applicables aux mandats
 d'arrêt délivrés après l'ordonnance de règlement. Elles ne sont toutefois pas

@@ -1,5 +1,7 @@
 Article 63-5
 ----
-Lorsqu'il est indispensable pour les nécessités de l'enquête de procéder à des
-investigations corporelles internes sur une personne gardée à vue, celles-ci ne
-peuvent être réalisées que par un médecin requis à cet effet.
+La garde à vue doit s'exécuter dans des conditions assurant le respect de la
+dignité de la personne.
+
+Seules peuvent être imposées à la personne gardée à vue les mesures de sécurité
+strictement nécessaires.

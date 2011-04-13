@@ -32,41 +32,27 @@ d'instruction peuvent décider, selon les modalités prévues au deuxième alin�
 que la garde à vue fera l'objet d'une seule prolongation supplémentaire de
 quarante-huit heures.
 
-La personne dont la garde à vue est prolongée en application des dispositions du
-présent article peut demander à s'entretenir avec un avocat, selon les modalités
-prévues par l'article 63-4, à l'issue de la quarante-huitième heure puis de la
-soixante-douzième heure de la mesure ; elle est avisée de ce droit lorsque la ou
-les prolongations lui sont notifiées et mention en est portée au procès-verbal
-et émargée par la personne intéressée ; en cas de refus d'émargement, il en est
-fait mention. Toutefois, lorsque l'enquête porte sur une infraction entrant dans
-le champ d'application des 3° et 11° de l'article 706-73, l'entretien avec un
-avocat ne peut intervenir qu'à l'issue de la soixante-douzième heure.
+Par dérogation aux dispositions des articles 63-4 à 63-4-2, lorsque la personne
+est gardée à vue pour une infraction entrant dans le champ d'application de
+l'article 706-73, l'intervention de l'avocat peut être différée, en
+considération de raisons impérieuses tenant aux circonstances particulières de
+l'enquête ou de l'instruction, soit pour permettre le recueil ou la conservation
+des preuves, soit pour prévenir une atteinte aux personnes, pendant une durée
+maximale de quarante-huit heures ou, s'il s'agit d'une infraction mentionnée aux
+3° ou 11° du même article 706-73, pendant une durée maximale de soixante-douze
+heures.
 
-S'il ressort des premiers éléments de l'enquête ou de la garde à vue elle-même
-qu'il existe un risque sérieux de l'imminence d'une action terroriste en France
-ou à l'étranger ou que les nécessités de la coopération internationale le
-requièrent impérativement, le juge des libertés peut, à titre exceptionnel et
-selon les modalités prévues au deuxième alinéa, décider que la garde à vue en
-cours d'une personne, se fondant sur l'une des infractions visées au 11° de
-l'article 706-73, fera l'objet d'une prolongation supplémentaire de vingt-quatre
-heures, renouvelable une fois.
+Le report de l'intervention de l'avocat jusqu'à la fin de la vingt-quatrième
+heure est décidé par le procureur de la République, d'office ou à la demande de
+l'officier de police judiciaire. Le report de l'intervention de l'avocat au-delà
+de la vingt-quatrième heure est décidé, dans les limites fixées au sixième
+alinéa, par le juge des libertés et de la détention statuant à la requête du
+procureur de la République. Lorsque la garde à vue intervient au cours d'une
+commission rogatoire, le report est décidé par le juge d'instruction. Dans tous
+les cas, la décision du magistrat, écrite et motivée, précise la durée pour
+laquelle l'intervention de l'avocat est différée.
 
-A l'expiration de la quatre-vingt-seizième heure et de la cent-vingtième heure,
-la personne dont la prolongation de la garde à vue est ainsi décidée peut
-demander à s'entretenir avec un avocat, selon les modalités prévues par
-l'article 63-4. La personne gardée à vue est avisée de ce droit dès la
-notification de la prolongation prévue au présent article.
-
-Outre la possibilité d'examen médical effectué à l'initiative du gardé à vue,
-dès le début de chacune des deux prolongations supplémentaires, il est
-obligatoirement examiné par un médecin désigné par le procureur de la
-République, le juge d'instruction ou l'officier de police judiciaire. Le médecin
-requis devra se prononcer sur la compatibilité de la prolongation de la mesure
-avec l'état de santé de l'intéressé.
-
-S'il n'a pas été fait droit à la demande de la personne gardée à vue de faire
-prévenir, par téléphone, une personne avec laquelle elle vit habituellement ou
-l'un de ses parents en ligne directe, l'un de ses frères et soeurs ou son
-employeur, de la mesure dont elle est l'objet, dans les conditions prévues aux
-articles 63-1 et 63-2, elle peut réitérer cette demande à compter de la
-quatre-vingt-seizième heure.
+Lorsqu'il est fait application des sixième et septième alinéas du présent
+article, l'avocat dispose, à partir du moment où il est autorisé à intervenir en
+garde à vue, des droits prévus aux articles 63-4 et 63-4-1, au premier alinéa de
+l'article 63-4-2 et à l'article 63-4-3.

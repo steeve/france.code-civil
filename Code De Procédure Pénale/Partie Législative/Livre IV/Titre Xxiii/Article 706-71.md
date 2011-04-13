@@ -30,14 +30,19 @@ application de l'article 272, à la comparution d'une personne à l'audience au
 cours de laquelle est rendu un jugement ou un arrêt qui avait été mis en
 délibéré ou au cours de laquelle il est statué sur les seuls intérêts civils, à
 l'interrogatoire par le procureur ou le procureur général d'une personne arrêtée
-en vertu d'un mandat d'amener, d'un mandat d'arrêt ou d'un mandat d'arrêt
-européen, ou à l'interrogatoire du prévenu devant le tribunal de police ou
-devant la juridiction de proximité si celui-ci est détenu pour une autre cause.
-Lorsqu'il s'agit d'une audience au cours de laquelle il doit être statué sur le
-placement en détention provisoire ou la prolongation de la détention provisoire,
-la personne détenue peut refuser l'utilisation d'un moyen de télécommunication
-audiovisuelle, sauf si son transport paraît devoir être évité en raison des
-risques graves de trouble à l'ordre public ou d'évasion.
+en vertu d'un mandat d'amener, d'un mandat d'arrêt, d'un mandat d'arrêt
+européen, d'une demande d'arrestation provisoire, d'une demande d'extradition ou
+d'une demande d'arrestation aux fins de remise, à la présentation au juge des
+libertés et de la détention, au premier président de la cour d'appel ou au
+magistrat désigné par lui en application des articles 627-5,695-28,696-11 et
+696-23 si la personne est détenue pour une autre cause, ou à l'interrogatoire du
+prévenu devant le tribunal de police ou devant la juridiction de proximité si
+celui-ci est détenu pour une autre cause. Lorsqu'il s'agit d'une audience au
+cours de laquelle il doit être statué sur le placement en détention provisoire
+ou la prolongation de la détention provisoire, la personne détenue peut refuser
+l'utilisation d'un moyen de télécommunication audiovisuelle, sauf si son
+transport paraît devoir être évité en raison des risques graves de trouble à
+l'ordre public ou d'évasion.
 
 Elles sont de même applicables devant la commission d'indemnisation des victimes
 d'infractions, devant le premier président de la cour d'appel statuant sur les
