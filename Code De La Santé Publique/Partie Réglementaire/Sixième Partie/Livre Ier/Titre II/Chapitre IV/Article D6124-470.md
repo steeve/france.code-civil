@@ -2,7 +2,7 @@ Article D6124-470
 ----
 Toute maison de santé pour maladies mentales doit comporter :
 
-1° Des salles de réunion et de jeu ;
+1° Des salles d'activités thérapeutiques ;
 
 2° Des locaux permettant l'application des thérapeutiques rééducatives.
 
