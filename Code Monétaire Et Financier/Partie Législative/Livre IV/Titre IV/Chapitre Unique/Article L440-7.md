@@ -13,4 +13,4 @@ prestataire ou à l'adhérent, soit à cette chambre.
 Aucun créancier d'un adhérent d'une chambre de compensation, d'un prestataire
 mentionné à l'alinéa précédent, ou selon le cas, de la chambre elle-même, ne
 peut se prévaloir d'un droit quelconque sur ces dépôts même sur le fondement du
-titre Ier ou du titre II du livre VI du code de commerce.
+livre VI du code de commerce.
