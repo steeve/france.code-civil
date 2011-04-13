@@ -129,8 +129,9 @@ De plus de 60 000 habitants
 alinéa de l'article L. 52-11 est de 4 545 000 francs CFP ; il est majoré de 20
 francs CFP par habitant de la circonscription.
 
-6° Dans l'article L. 52-11, la référence à l'indice du coût de la vie de
-l'Institut national de la statistique et des études économiques est remplacée :
+6° Aux articles L. 52-8 et L. 52-11, la référence à l'indice du coût de la vie
+de l'Institut national de la statistique et des études économiques est remplacée
+:
 
 a) En Nouvelle-Calédonie, par la référence à l'indice du coût de la vie (hors
 tabac) de l'Institut territorial de la statistique et des études économiques ;

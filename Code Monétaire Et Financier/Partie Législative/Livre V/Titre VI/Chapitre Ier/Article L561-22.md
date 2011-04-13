@@ -1,6 +1,6 @@
 Article L561-22
 ----
-I.-Aucune poursuite fondée sur les articles 226-10, 226-13 et 226-14 du code
+I.-Aucune poursuite fondée sur les articles 226-10,226-13 et 226-14 du code
 pénal ne peut être intentée contre :
 
 a) Les personnes mentionnées à l'article L. 561-2 ou leurs dirigeants et
@@ -47,16 +47,17 @@ IV.-Lorsque l'opération a été exécutée comme il est prévu aux articles L. 
 ou L. 561-25 et sauf concertation frauduleuse avec le propriétaire des sommes ou
 l'auteur de l'opération, les personnes mentionnées à l'article L. 561-2 sont
 dégagées de toute responsabilité et aucune poursuite pénale ne peut être engagée
-à leur encontre de ce chef par application des articles 222-34 à 222-41, 321-1,
-321-2, 321-3, 324-1, 324-2 et 421-2-2 du code pénal ou de l'article 415 du code
-des douanes.
+à leur encontre de ce chef par application des articles 222-34 à
+222-41,321-1,321-2,321-3,324-1,324-2 et 421-2-2 du code pénal ou de l'article
+415 du code des douanes.
 
 V.-Sauf concertation frauduleuse avec le propriétaire des sommes ou l'auteur de
 l'opération, la responsabilité pénale des personnes mentionnées au 1° de
 l'article L. 561-2 ne peut être engagée, par application des articles 222-34 à
-222-41, 321-1, 321-2, 321-3, 324-1 et 324-2 du code pénal ou de l'article 415 du
+222-41,321-1,321-2,321-3,324-1 et 324-2 du code pénal ou de l'article 415 du
 code des douanes, lorsqu'elles ouvrent un compte sur désignation de la Banque de
-France conformément à l'article L. 312-1 du présent code.
+France conformément à l'article L. 312-1 du présent code et à l'article L. 52-6
+du code électoral.
 
 Il en va de même pour des opérations réalisées par la personne ainsi désignée
 lorsque le client a fait l'objet d'une déclaration mentionnée à l'article L.

@@ -10,9 +10,34 @@ financier du candidat tête de la liste sur laquelle il figure.
 Le mandataire financier est tenu d'ouvrir un compte bancaire ou postal unique
 retraçant la totalité de ses opérations financières. L'intitulé du compte
 précise que le titulaire agit en qualité de mandataire financier du candidat,
-nommément désigné. Les comptes du mandataire sont annexés au compte de campagne
-du candidat qui l'a désigné ou au compte de campagne du candidat tête de liste
-lorsque le candidat qui l'a désigné figure sur cette liste.
+nommément désigné.
+
+Tout mandataire financier a droit à l'ouverture de ce compte, ainsi qu'à la mise
+à disposition des moyens de paiement nécessaires à son fonctionnement, dans
+l'établissement de crédit de son choix. L'ouverture de ce compte intervient sur
+présentation d'une attestation sur l'honneur du mandataire qu'il ne dispose pas
+déjà d'un compte en tant que mandataire financier du candidat.
+
+En cas de refus de la part de l'établissement choisi, le mandataire peut saisir
+la Banque de France afin qu'elle lui désigne un établissement de crédit situé
+dans la circonscription dans laquelle se déroule l'élection ou à proximité d'un
+autre lieu de son choix, dans un délai d'un jour ouvré à compter de la réception
+de la demande du mandataire et des pièces requises. Toute décision de clôture de
+compte à l'initiative de l'établissement de crédit désigné par la Banque de
+France doit faire l'objet d'une notification écrite et motivée adressée au
+mandataire et à la Banque de France pour information. Un délai minimal de deux
+mois doit être obligatoirement consenti au mandataire. En cas de clôture, le
+mandataire peut à nouveau exercer son droit au compte dans les conditions
+prévues au présent article. Dans ce cas, l'existence de comptes successifs ne
+constitue pas une violation de l'obligation de disposer d'un compte bancaire ou
+postal unique prévue au deuxième alinéa. Les modalités de mise en œuvre de ce
+droit sont précisées par décret. Le contrôle du respect de ce droit est assuré
+par l'Autorité de contrôle prudentiel et relève de la procédure prévue à
+l'article L. 612-31 du code monétaire et financier.
+
+Les comptes du mandataire sont annexés au compte de campagne du candidat qui l'a
+désigné ou au compte de campagne du candidat tête de liste lorsque le candidat
+qui l'a désigné figure sur cette liste.
 
 Le mandataire financier ne peut recueillir de fonds que pendant la période
 prévue au deuxième alinéa de l'article L. 52-4.

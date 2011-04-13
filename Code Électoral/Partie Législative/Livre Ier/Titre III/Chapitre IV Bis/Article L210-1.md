@@ -13,6 +13,12 @@ A cette déclaration sont jointes les pièces propres à prouver que le candidat
 son remplaçant répondent aux conditions d'éligibilité prévues par l'article L.
 194.
 
+Pour le premier tour de scrutin dans les cantons de 9 000 habitants et plus,
+sont également jointes les pièces de nature à prouver que le candidat a procédé
+à la déclaration d'un mandataire conformément aux articles L. 52-5 et L. 52-6
+ou, s'il n'a pas procédé à cette déclaration, les pièces prévues au premier
+alinéa de ces mêmes articles.
+
 Si la déclaration de candidature n'est pas conforme aux dispositions du premier
 alinéa, qu'elle n'est pas accompagnée des pièces mentionnées au deuxième alinéa
 ou si ces pièces n'établissent pas que le candidat et son remplaçant répondent

@@ -18,3 +18,8 @@ chacun des candidats.
 Pour chaque tour de scrutin, la déclaration comporte la signature de chaque
 candidat, sauf, pour le second tour, lorsque la composition d'une liste n'a pas
 été modifiée.
+
+Pour le premier tour de scrutin, sont également jointes les pièces de nature à
+prouver que le candidat a procédé à la déclaration d'un mandataire conformément
+aux articles L. 52-5 et L. 52-6 ou, s'il n'a pas procédé à cette déclaration,
+les pièces prévues au premier alinéa de ces mêmes articles.

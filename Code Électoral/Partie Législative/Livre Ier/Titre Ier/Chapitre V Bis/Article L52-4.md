@@ -1,9 +1,10 @@
 Article L52-4
 ----
-Tout candidat à une élection désigne un mandataire au plus tard à la date à
-laquelle sa candidature est enregistrée. Ce mandataire peut être une association
-de financement électoral, ou une personne physique dénommée "le mandataire
-financier". Un même mandataire ne peut être commun à plusieurs candidats.
+Tout candidat à une élection déclare un mandataire conformément aux articles L.
+52-5 et L. 52-6 au plus tard à la date à laquelle sa candidature est
+enregistrée. Ce mandataire peut être une association de financement électoral,
+ou une personne physique dénommée " le mandataire financier ". Un même
+mandataire ne peut être commun à plusieurs candidats.
 
 Le mandataire recueille, pendant l'année précédant le premier jour du mois de
 l'élection et jusqu'à la date du dépôt du compte de campagne du candidat, les

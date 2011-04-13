@@ -1,5 +1,4 @@
 Article L197
 ----
-Peut être déclaré inéligible pendant un an celui qui n'a pas déposé son compte
-de campagne dans les conditions et le délai prescrits par l'article L. 52-12 et
-celui dont le compte de campagne a été rejeté à bon droit.
+Ne peuvent pas faire acte de candidature les personnes déclarées inéligibles en
+application des articles L. 118-3, L. 118-4, LO 136-1 ou LO 136-3.
