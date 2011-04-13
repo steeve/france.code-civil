@@ -9,7 +9,8 @@ Pour l'application de ces dispositions à l'élection des députés par les Fran
 établis hors de France :
 
 1° Il y a lieu de lire : " liste électorale consulaire " au lieu de : " liste
-électorale " et " circonscription " au lieu de : " commune " ;
+électorale " et, aux articles L. 71 et L. 72, " circonscription consulaire " au
+lieu de : " commune " ;
 
 2° Un décret en Conseil d'Etat détermine les attributions conférées au préfet et
 au maire qui sont exercées par le ministre des affaires étrangères, par le
