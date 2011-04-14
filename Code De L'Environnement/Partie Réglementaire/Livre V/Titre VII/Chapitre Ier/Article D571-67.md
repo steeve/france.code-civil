@@ -1,9 +1,9 @@
 Article D571-67
 ----
-Le préfet coordonnateur pour l'élaboration du plan de gêne pour chaque aérodrome
-est le suivant :
+Le préfet coordonnateur pour l'élaboration du plan de gêne sonore pour chaque
+aérodrome est le suivant :
 
-1° Le préfet du Val-d'Oise pour Paris - Charles-de-Gaulle ;
+1° Le préfet du Val-d'Oise pour Paris-Charles-de-Gaulle ;
 
 2° Le préfet du Val-de-Marne pour Paris-Orly ;
 
@@ -19,4 +19,8 @@ est le suivant :
 
 8° Le préfet de la Gironde pour Bordeaux-Mérignac ;
 
-9° Le préfet du Bas-Rhin pour Strasbourg-Entzheim.
+9° Le préfet du Bas-Rhin pour Strasbourg-Entzheim ;
+
+10° Le préfet de l'Oise pour Beauvais-Tillé ;
+
+11° Le préfet de la Seine-Saint-Denis pour Paris-Le Bourget (1).
