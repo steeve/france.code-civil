@@ -1,9 +1,9 @@
 Article R351-29
 ----
-Pour l'application de l'article L. 351-1, et sous réserve des dispositions des
-articles R. 173-4-3 et R. 351-29-1 le salaire servant de base au calcul de la
-pension est le salaire annuel moyen correspondant aux cotisations permettant la
-validation d'au moins un trimestre d'assurance selon les règles définies par
+I.-Pour l'application de l'article L. 351-1, et sous réserve des dispositions
+des articles R. 173-4-3 et R. 351-29-1 le salaire servant de base au calcul de
+la pension est le salaire annuel moyen correspondant aux cotisations permettant
+la validation d'au moins un trimestre d'assurance selon les règles définies par
 l'article R. 351-9 et versées au cours des vingt-cinq années civiles d'assurance
 accomplies postérieurement au 31 décembre 1947 dont la prise en considération
 est la plus avantageuse pour l'assuré.
@@ -15,7 +15,10 @@ servant de base au calcul de la pension est celui correspondant, pour chaque
 année prise en compte, aux cotisations versées par le salarié au titre des gains
 et rémunérations perçus au cours de cette année, sans que ce salaire puisse
 excéder, le cas échéant tous emplois confondus, le montant du plafond mentionné
-au premier alinéa de l'article L. 241-3 en vigueur au cours de cette année.
+au premier alinéa de l'article L. 241-3 en vigueur au cours de cette année. Les
+indemnités journalières mentionnées au 2° de l'article L. 330-1 sont assimilées
+à un salaire au sens du présent alinéa et prises en compte à hauteur de 125 % de
+leur montant.
 
 Lorsque l'assuré ne justifie pas de vingt-cinq années civiles d'assurance
 postérieurement au 31 décembre 1947, les années antérieures sont prises en
@@ -34,3 +37,9 @@ défini au présent article les années comprenant une période au titre de laqu
 un versement de cotisations a été effectué en application de l'article L.
 351-14-1 ou en application, en ce qui concerne des demandes de rachat déposées à
 compter du 1er janvier 2011, des articles L. 351-14 ou L. 742-2.
+
+II.-Les caisses primaires assurant le service des indemnités journalières
+mentionnées au 2° de l'article L. 330-1 fournissent aux caisses chargées de la
+gestion de l'assurance vieillesse les renseignements permettant de prendre en
+compte, pour la détermination du salaire servant de base au calcul de la
+pension, les indemnités journalières mentionnées au deuxième alinéa du I.
