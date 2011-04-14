@@ -8,4 +8,4 @@ portant règlement général sur la comptabilité publique. Le contrôle économ
 et financier de l'agence est exercé dans les conditions prévues par le décret n°
 2005-436 du 9 mai 2005 portant statut particulier du corps du contrôle général
 économique et financier. L'agent comptable est nommé par arrêté conjoint des
-ministres chargés de l'emploi et du budget.
+ministres chargés de l'emploi, des services et du budget.
