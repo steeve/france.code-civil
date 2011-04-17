@@ -23,7 +23,7 @@ dans le périmètre de compétence de l'Etablissement public d'aménagement
 Euroméditerranée ;
 
 f) A l'opération d'aménagement de Nanterre et de La Garenne-Colombes, dans un
-périmètre délimité par décret en Conseil d'Etat (6) ;
+périmètre délimité par décret en Conseil d'Etat (5) ;
 
 g) A l'aménagement et au développement des aérodromes de
 Paris-Charles-de-Gaulle, de Paris-Orly et de Paris-Le Bourget, à l'intérieur des
@@ -47,4 +47,7 @@ par décret en Conseil d'Etat (2) ;
 
 m) A l'opération d'aménagement Bordeaux-Euratlantique dans les communes de
 Bordeaux, Bègles et Floirac dans le périmètre défini par décret en Conseil
-d'Etat (3).
+d'Etat (3) ;
+
+n) A l'opération d'aménagement dite d'Alzette-Belval, dans le périmètre défini
+par décret en Conseil d'Etat (6).
