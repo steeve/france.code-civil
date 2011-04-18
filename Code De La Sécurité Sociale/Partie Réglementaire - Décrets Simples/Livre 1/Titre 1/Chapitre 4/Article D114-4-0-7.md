@@ -1,6 +1,6 @@
 Article D114-4-0-7
 ----
-Le seuil prévu à l'article L. 114-4-1 est fixé à 0,75 %.
+Le seuil prévu à l'article L. 114-4-1 est fixé à 0,5 %.
 
 Les caisses nationales d'assurance maladie disposent d'un délai d'un mois à
 compter de la notification par le comité d'alerte d'un risque sérieux de
