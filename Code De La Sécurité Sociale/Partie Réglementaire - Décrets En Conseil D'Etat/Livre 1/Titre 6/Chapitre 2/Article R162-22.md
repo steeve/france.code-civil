@@ -33,4 +33,7 @@ d'intérêt général et d'aide à la contractualisation mentionnée à l'articl
 162-22-13 ;
 
 8° Le taux prévisionnel d'évolution des dépenses de transports mentionné au
-premier alinéa de l'article L. 322-5-5.
+premier alinéa de l'article L. 322-5-5 ;
+
+9° Le taux prévisionnel d'évolution des dépenses de médicaments et de certains
+produits et prestations mentionné au premier alinéa de l'article L. 162-30-2.
