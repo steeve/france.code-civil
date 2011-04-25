@@ -1,4 +1,4 @@
-Article D4371-6
+Article D4371-1-1
 ----
 Les articles D. 4333-1 à D. 4333-6 sont applicables aux diététiciens, sous
 réserve des adaptations suivantes :
