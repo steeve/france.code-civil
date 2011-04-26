@@ -10,7 +10,7 @@ comprend :
 3° Les états d'analyse des comptes énumérés à l'article A. 931-11-17 ;
 
 4° Les états statistiques relatifs à la protection sociale complémentaire
-énumérés à l'article A. 931-11-22.
+énumérés à l'article D. 931-37.
 
 Il est établi dans la même monnaie que les comptes annuels mentionnés au 2° du I
 de l'article A. 931-11-13.

@@ -9,7 +9,7 @@ Le compte rendu détaillé annuel visé au 1° du I de l'article A. 344-6 compre
 3° Les états d'analyse des comptes énumérés à l'article A. 344-10 ;
 
 4° Les états statistiques relatifs à la protection sociale complémentaire
-énumérés à l'article A. 344-16.
+énumérés à l'article D. 344-5.
 
 Il est certifié par le président du directoire ou le directeur général unique
 dans les sociétés anonymes, les sociétés d'assurance mutuelles et leurs unions,
