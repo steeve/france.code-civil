@@ -1,7 +1,7 @@
 Article D514-7
 ----
 Le conseil d'orientation et de surveillance détermine la durée des prêts.
-Celle-ci ne peut excéder deux ans, y incluant la reconduction des prêts.
+Celle-ci ne peut excéder deux ans, y incluant la prolongation des prêts.
 
 Les emprunteurs ont toutefois la faculté de dégager leurs objets avant le terme
 du prêt, ou de solliciter à l'échéance de ce dernier le renouvellement de leur
