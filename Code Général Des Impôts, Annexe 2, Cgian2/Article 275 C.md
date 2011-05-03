@@ -2,10 +2,16 @@ Article 275 C
 ----
 Les produits constitués partiellement de substances autres que le tabac et
 répondant aux autres critères de l'article 275 B sont considérés comme cigares
-ou cigarillos à condition toutefois qu'ils soient munis :
+ou cigarillos.
 
-D'une cape en tabac naturel ;
+Les produits constitués exclusivement ou partiellement de substances autres que
+le tabac mais répondant aux autres critères de l'article 275 D sont considérés
+comme des cigarettes.
 
-Ou d'une cape et d'une sous-cape, toutes deux en tabac reconstitué ;
+Les produits constitués exclusivement ou partiellement de substances autres que
+le tabac mais répondant aux autres critères de l'article 275 E sont considérés
+comme des tabacs fine coupe destinés à rouler les cigarettes.
 
-Ou d'une cape en tabac reconstitué.
+Les produits constitués exclusivement ou partiellement de substances autres que
+le tabac mais répondant aux autres critères de l'article 275 E bis sont
+considérés comme des tabacs à fumer.
