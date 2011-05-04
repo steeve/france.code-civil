@@ -56,4 +56,6 @@ l'exception des documents régis par le code de l'urbanisme ;
 16° Schéma d'ensemble du réseau de transport public du Grand Paris prévu par les
 articles 2 et 3 de la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris ;
 
-17° Plans de gestion des risques d'inondation prévus par l'article L. 566-7.
+17° Plans de gestion des risques d'inondation prévus par l'article L. 566-7 ;
+
+18° Le plan d'action pour le milieu marin.
