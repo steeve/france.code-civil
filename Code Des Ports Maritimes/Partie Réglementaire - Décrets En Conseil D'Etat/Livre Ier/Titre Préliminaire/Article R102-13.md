@@ -12,6 +12,11 @@ d'intervalle, délibère valablement quel que soit le nombre des membres présen
 Les délibérations sont prises à la majorité des suffrages exprimés. En cas de
 partage, la voix du président est prépondérante.
 
+Tout membre du conseil de surveillance peut, par procuration spéciale écrite,
+déléguer à un autre membre du même conseil la faculté de voter en ses lieu et
+place sur les questions portées à l'ordre du jour. Nul membre ne peut détenir
+plus d'une procuration.
+
 Le vote a lieu au scrutin secret en cas de nomination ou d'avis sur une
 désignation. Dans ces deux cas, si, après deux tours de scrutin, aucun candidat
 n'a obtenu la majorité absolue, il est procédé à un troisième tour de scrutin et

@@ -3,9 +3,9 @@ Article R*212-21
 I. - Tout navire faisant escale dans un port est assujetti au paiement d'une
 redevance au titre des prestations de réception et de traitement des déchets
 d'exploitation du navire, lorsque celles-ci sont réalisées en tout ou en partie
-par les organismes mentionnés aux a, b et c de l'article R. *211-10. Cette
-redevance, qui est perçue au profit de ces organismes, constitue un droit de
-port qui doit être payé ou garanti avant le départ du navire.
+par les organismes mentionnés à l'article R. 211-10. Cette redevance, qui est
+perçue au profit de ces organismes, constitue un droit de port qui doit être
+payé ou garanti avant le départ du navire.
 
 II. - Les tarifs de la redevance sur les déchets d'exploitation des navires,
 arrêtés par chaque port en fonction de la catégorie, du type et de la taille des
