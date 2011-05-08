@@ -1,16 +1,17 @@
 Article D1411-40
 ----
-Le bureau de la conférence est composé du président de la conférence, qui dirige
-les travaux du bureau, et d'au moins un représentant de chacun des collèges pour
-une durée de trois ans. Pour chacun de ces représentants, un membre suppléant
-est élu dans les mêmes conditions.
+La Conférence nationale de santé organise ses travaux au sein des formations
+suivantes :
 
-Toute vacance de siège donne lieu à un remplacement pour la durée du mandat
-restant à accomplir.
+-l'assemblée plénière prévue à l'article D. 1411-41 ;
 
-L'élection des membres du bureau a lieu lors de la première réunion de la
-conférence, au scrutin uninominal majoritaire à deux tours, par et parmi les
-membres de chacun des collèges. Sont élus le ou les candidats les mieux placés,
-ayant obtenu au premier tour au moins un tiers des suffrages exprimés ou, à
-défaut, au second tour, le ou les candidats ayant obtenu le plus de voix. A
-égalité de voix, le candidat le plus âgé est proclamé élu.
+-la commission permanente prévue à l'article D. 1411-42 ;
+
+-la commission spécialisée dans le domaine des droits des usagers du système de
+santé prévue à l'article D. 1411-43.
+
+La Conférence nationale de santé peut, en outre, constituer des groupes de
+travail. Ces groupes réunissent des membres de la Conférence nationale de santé
+et des personnes choisies en raison de leur compétence ou de leur qualification
+au regard des sujets à traiter. Ils peuvent recueillir tous avis utiles dans les
+domaines dont ils sont chargés.

@@ -1,117 +1,186 @@
 Article D1411-37
 ----
-La Conférence nationale de santé est composée de cent treize membres nommés par
-arrêté du ministre chargé de la santé et répartis en six collèges. Elle réunit :
+La Conférence nationale de santé est composée de cent vingt membres ayant voix
+délibérative.
 
-Collège 1 : vingt représentants des malades et des usagers du système de santé
-désignés sur la proposition des associations agréées au niveau national.
+Ses membres sont répartis en huit collèges composés comme suit :
 
-Collège 2 : trente-neuf membres représentant les professionnels de santé et les
-établissements de santé ou autres structures de soins et de prévention dont :
+1° Un collège des représentants des collectivités territoriales comprenant six
+membres :
 
-1° Treize représentants des professionnels de santé exerçant à titre libéral,
-désignés sur proposition de l'Union nationale des professionnels de santé,
-comprenant :
+a) Deux représentants des régions, désignés sur proposition de l'Association des
+régions de France ;
 
-a) Un représentant des médecins généralistes et un représentant des médecins
-spécialistes ;
+b) Deux représentants des départements, désignés sur proposition de l'Assemblée
+des départements de France ;
 
-b) Deux représentants des infirmiers ;
+c) Deux représentants des communes et des communautés d'agglomération, désignés
+sur proposition de l'Association des maires de France ;
 
-c) Au moins un représentant de chacune des professions suivantes :
+2° Un collège des représentants des usagers du système de santé comprenant
+dix-huit membres, désignés sur proposition des associations agréées au titre de
+l'article L. 1114-1 du code de la santé publique, incluant celles œuvrant dans
+le champ médico-social, à l'issue d'un appel à candidatures organisé dans des
+conditions fixées par arrêté des ministres chargés de la santé, de l'assurance
+maladie, des personnes âgées et des personnes handicapées ;
 
-chirurgiens-dentistes, sages-femmes, pharmaciens, masseurs-kinésithérapeutes,
-orthoptistes, orthophonistes, audioprothésistes, pédicures-podologues,
-directeurs de laboratoire d'analyses médicales ;
+3° Un collège des représentants des conférences régionales de la santé et de
+l'autonomie comprenant vingt-sept membres, désignés par les commissions
+permanentes de ces conférences, conformément au dernier alinéa de l'article D.
+1432-34 ;
 
-2° Treize représentants des professionnels salariés comprenant :
+4° Un collège des partenaires sociaux comprenant dix membres :
 
-a) Quatre représentants des médecins hospitaliers publics désignés
-respectivement par l'Intersyndicat national des praticiens hospitaliers, par le
-Syndicat national des médecins, chirurgiens, spécialistes et biologistes des
-hôpitaux publics, par la Confédération des hôpitaux généraux et par la
-Coordination médicale hospitalière ;
+a) Un représentant de chacune des cinq organisations syndicales de salariés les
+plus représentatives au niveau national, désigné sur proposition de chacune de
+ces organisations ;
 
-b) huit représentants des personnels non médicaux de la fonction publique
-hospitalière désignés respectivement sur proposition de la Confédération
-française démocratique du travail, de la Confédération française des
-travailleurs chrétiens, de la Confédération générale du travail, de la
-Confédération générale du travail-Force ouvrière, de la Confédération française
-de l'encadrement-CGC, de la Fédération nationale Sud santé-sociaux "
-solidaires-unitaires-démocratiques ", de la Fédération de l'union nationale des
-syndicats autonomes santé et sociaux public et privé, du Syndicat national des
-cadres hospitaliers ;
+b) Un représentant de chacune des trois organisations d'employeurs les plus
+représentatives au niveau national, désigné sur proposition de chacune de ces
+organisations ;
 
-c) Quatre représentants des médecins de prévention désignés sur proposition de
-l'Union confédérale des médecins salariés, dont au moins un représentant de la
-médecine scolaire, un représentant de la médecine du travail, un représentant
-des médecins de centres de santé et un représentant des médecins des services
-départementaux de protection maternelle et infantile ;
+c) Un représentant des employeurs de l'économie sociale œuvrant dans le secteur
+sanitaire, social et médico-social privé à but non lucratif, désigné sur
+proposition d'une organisation professionnelle représentative dans ce secteur ;
 
-3° Dix représentants des institutions et établissements publics et privés de
-santé et autres structures de soins et de prévention comprenant :
+d) Un représentant des organisations les plus représentatives des exploitants
+agricoles, désigné sur proposition du président de l'assemblée permanente des
+chambres d'agriculture ;
 
-a) Deux représentants des organisations de l'hospitalisation publique et privée,
-dont un désigné sur proposition de la Fédération hospitalière de France et un
-désigné sur proposition conjointe de la Fédération des établissements
-hospitaliers et d'assistance privés à but non lucratif et de la Fédération de
-l'hospitalisation privée ;
+5° Un collège des acteurs de la cohésion et de la protection sociales comprenant
+seize membres :
 
-b) Deux représentants des conférences des présidents de commissions médicales
-d'établissement, dont un désigné sur proposition conjointe de la conférence des
-présidents de commissions médicales d'établissement de centres hospitaliers
-universitaires, de la conférence des présidents de commissions médicales
-d'établissement des centres hospitaliers et de la Conférence nationale des
-présidents de commissions médicales d'établissement de centres hospitaliers
-spécialisés, et un désigné sur proposition conjointe de la Conférence nationale
-des présidents de commissions médicales d'établissement des établissements
-privés à but non lucratif et de la Conférence nationale des conférences
-médicales des établissements de l'hospitalisation privée ;
+a) Trois représentants des organismes d'assurance maladie obligatoire, désignés
+sur proposition du président de l'Union nationale des caisses d'assurance
+maladie ;
 
-c) Quatre représentants des structures de soins et de prévention et des
-institutions sociales et médico-sociales, désignés respectivement sur
-proposition de l'Union nationale interfédérale des oeuvres et des organismes
-privés sanitaires et sociaux, de la Croix-Rouge française, de la Fédération
-nationale des associations d'accueil et de réadaptation sociale et du Centre
-technique d'appui et de formation des centres d'examens de santé ;
+b) Un représentant de la branche vieillesse, désigné sur proposition du
+président du conseil d'administration de la Caisse nationale d'assurance
+vieillesse ;
 
-d) Deux représentants des industries des produits de santé, dont un désigné sur
-proposition des entreprises du médicament.
+c) Un représentant de la branche accidents du travail-maladies professionnelles,
+désigné sur proposition du président de la commission des accidents du travail
+et des maladies professionnelles mentionnée à l'article L. 221-5 du code de la
+sécurité sociale ;
 
-Collège 3 : douze membres, dont :
+d) Un représentant de la branche famille, désigné sur proposition du président
+du conseil d'administration de la Caisse nationale d'allocations familiales ;
 
-a) Six représentants des organismes d'assurance maladie obligatoire ou
-complémentaire, dont trois désignés sur proposition de l'Union nationale des
-caisses d'assurance maladie et trois désignés sur proposition de l'Union
-nationale des organismes d'assurance maladie complémentaire ;
+e) Deux représentants des organismes d'assurance maladie complémentaire,
+désignés sur proposition du président du conseil de l'Union nationale des
+organismes d'assurance maladie complémentaire ;
 
-b) Six représentants des collectivités territoriales, dont deux désignés sur
-proposition de l'Association des maires de France, deux désignés sur proposition
-de l'Assemblée des départements de France et deux désignés sur proposition de
-l'Association des régions de France.
+f) Deux représentants des associations œuvrant en faveur des personnes
+handicapées, désignés sur proposition du Conseil national consultatif des
+personnes handicapées ;
 
-Collège 4 : vingt-six membres représentant chacune des conférences régionales de
-la santé et de l'autonomie.
+g) Deux représentants des associations œuvrant en faveur des personnes âgées,
+désignés sur proposition du Comité national des retraités et des personnes âgées
+;
 
-Collège 5 : dix membres dont :
+h) Deux représentants des associations œuvrant dans le champ de la lutte contre
+la précarité, désignés sur proposition du Conseil national des politiques de
+lutte contre la pauvreté et l'exclusion sociale ;
 
-a) Trois représentants d'organismes de recherche désignés sur proposition
-respective de l'Institut national de la santé et de la recherche médicale, du
-Centre national de la recherche scientifique et de l'Ecole des hautes études en
-santé publique ;
+i) Deux représentants des associations œuvrant dans les champs de la santé, de
+l'action sociale et du secteur médico-social, désignés sur proposition
+d'associations représentatives dans ce secteur ;
 
-b) Sept personnalités désignées par le ministre chargé de la santé en raison de
-leur compétence.
+6° Un collège des acteurs de la prévention comprenant onze membres :
 
-Collège 6 : six représentants des entreprises et des travailleurs salariés
-désignés sur proposition du bureau du Conseil économique, social et
-environnemental.
+a) Quatre représentants des médecins de prévention : un représentant de la
+médecine scolaire, un représentant de la médecine universitaire, un représentant
+des services de santé au travail et un représentant des services départementaux
+de protection et de promotion de la santé maternelle et infantile, désignés sur
+proposition d'une organisation professionnelle représentative des médecins
+salariés ;
 
-Le mandat des membres de la conférence est de trois ans, renouvelable une fois.
+b) Trois représentants des organismes œuvrant dans le champ de la promotion de
+la santé, la prévention ou l'éducation pour la santé, désignés par le ministre
+chargé de la santé ;
 
-Toute vacance d'un siège ou perte de la qualité au titre de laquelle un membre a
-été désigné donne lieu à remplacement, pour la durée du mandat restant à
-accomplir.
+c) Deux représentants des organismes œuvrant dans les domaines de l'observation
+de la santé et de l'autonomie, désignés par les ministres chargés de la santé,
+de l'assurance maladie, des personnes âgées et des personnes handicapées ;
 
-Le président de la conférence peut appeler à participer à ses travaux, à titre
-consultatif et temporaire, toute personne dont le concours apparaît souhaitable.
+d) Deux représentants des associations de protection de l'environnement agréées
+au titre de l'article L. 141-1 du code de l'environnement, désignés à l'issue
+d'un appel à candidature organisé dans des conditions fixées par les ministres
+chargés de la santé, de l'assurance maladie, des personnes âgées et des
+personnes handicapées ;
+
+7° Un collège des offreurs des services de santé comprenant vingt-six membres :
+
+a) Treize représentants des institutions et établissements de santé et
+médico-sociaux comprenant :
+
+i) Un représentant des organisations de l'hospitalisation publique, un
+représentant des organisations de l'hospitalisation privée à but lucratif et un
+représentant des organisations de l'hospitalisation privée à but non lucratif,
+désignés sur proposition, dans chaque secteur, d'une organisation représentative
+;
+
+ii) Trois représentants des conférences des présidents de commissions et
+conférences médicales d'établissement, dont un désigné sur proposition conjointe
+de la Conférence des présidents de commissions médicales d'établissement de
+centres hospitaliers universitaires, la Conférence des présidents de commissions
+médicales d'établissement des centres hospitaliers et la Conférence nationale
+des présidents de commissions médicales d'établissement de centres hospitaliers
+spécialisés, un désigné sur proposition de la Conférence nationale des
+présidents de conférences médicales d'établissement des établissements privés à
+but non lucratif et un désigné sur proposition de la Conférence nationale des
+conférences médicales des établissements de l'hospitalisation privée ;
+
+iii) Un représentant des établissements assurant une activité d'hospitalisation
+à domicile, désigné sur proposition d'une organisation représentative dans cette
+activité ;
+
+iv) Un représentant des services de soins infirmiers à domicile, désigné sur
+proposition d'une organisation représentative de ces services ;
+
+v) Deux représentants des personnes morales gestionnaires d'institutions
+accompagnant des personnes handicapées, dont l'une dans le champ de l'enfance
+handicapée, désignés sur proposition du Conseil national consultatif des
+personnes handicapées ;
+
+vi) Un représentant des personnes morales gestionnaires d'institutions
+accompagnant des personnes âgées, désigné sur proposition de la section sociale
+du Comité national de l'organisation sanitaire et sociale ;
+
+vii) Un représentant des personnes morales gestionnaires d'institutions
+accompagnant des personnes en difficultés sociales, désigné sur proposition de
+la section sociale du Comité national de l'organisation sanitaire et sociale ;
+
+viii) Un représentant des personnes morales gestionnaires d'institutions
+assurant l'accueil et l'accompagnement de personnes confrontées à des
+difficultés spécifiques mentionnées au 9° de l'article L. 312-1 du code de
+l'action sociale et des familles, désigné sur proposition d'une organisation
+représentative de cette activité ;
+
+b) Dix représentants des professionnels de santé exerçant à titre libéral,
+désignés sur proposition de l'Union nationale des professionnels de santé, dont
+au moins un représentant des médecins généralistes, un représentant des médecins
+spécialistes et un représentant des infirmiers ;
+
+c) Un représentant des réseaux de santé, désigné sur proposition d'une
+organisation représentative de ces réseaux ;
+
+d) Un représentant des maisons et pôles de santé, désigné sur proposition d'une
+organisation représentative de ces structures ;
+
+e) Un représentant des centres de santé, désigné sur proposition d'une
+organisation représentative de ces structures ;
+
+8° Un collège des représentants des organismes de recherche, des industries des
+produits de santé et des personnalités qualifiées comprenant six membres :
+
+a) Deux représentants d'organismes de recherche œuvrant dans les domaines des
+sciences de la vie et de la santé et des sciences humaines et sociales, désignés
+sur proposition des organisations regroupant ces organismes ;
+
+b) Deux représentants des industries des produits de santé, désignés sur
+proposition des organisations les plus représentatives ;
+
+c) Deux personnalités désignées par les ministres chargés de la santé, de
+l'assurance maladie, des personnes âgées et des personnes handicapées à raison
+de leur qualification dans les domaines de compétence de la conférence

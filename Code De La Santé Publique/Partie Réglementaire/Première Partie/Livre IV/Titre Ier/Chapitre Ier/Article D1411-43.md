@@ -1,10 +1,12 @@
 Article D1411-43
 ----
-Le rapport annuel sur le respect des droits des usagers du système de santé est
-rédigé par une commission constituée au sein de la conférence et travaillant
-sous la direction du président de celle-ci. Cette commission comporte cinq
-membres du collège des représentants des malades et des usagers du système de
-santé et un à deux membres de chacun des autres collèges, désignés au sein de
-chaque collège à la majorité simple. Le rapport est adopté par la conférence
-selon les modalités prévues à l'article D. 1411-42, avant transmission au
-ministre.
+Chaque année, la commission spécialisée dans le domaine des droits des usagers
+du système de santé est chargée de l'élaboration d'un rapport spécifique sur
+l'évaluation des conditions dans lesquelles sont appliqués et respectés les
+droits des usagers du système de santé, de l'égalité d'accès aux services de
+santé et de la qualité des prises en charge dans les domaines sanitaire et
+médico-social. Ce rapport est établi sur la base des rapports transmis
+annuellement par les conférences régionales de la santé et de l'autonomie.
+
+La composition de cette commission et les modalités d'élection de ses membres
+sont précisées par arrêté du ministre chargé de la santé.
