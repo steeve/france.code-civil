@@ -1,6 +1,6 @@
 Article R2334-38
 ----
-I.-Pour l'application des cinquième et sixième alinéas de l'article L. 2334-41,
+I.-Pour l'application des cinquième et sixième alinéas de l'article L. 2334-40,
 chaque convention signée entre le représentant de l'Etat dans le département et
 la commune ou l'établissement public de coopération intercommunale précise
 l'objet et le montant des dépenses pouvant donner lieu à subvention, le taux de

@@ -9,5 +9,6 @@ est répartie entre les communes de plus de 20 000 habitants proportionnellement
 à leur population, sous forme d'une dotation annuelle versée au cours du premier
 trimestre de l'année.
 
-Cette dotation est inscrite à la section d'investissement du budget de la
-commune qui l'affecte au financement des investissements de son choix.
+Cette dotation est inscrite à la section d'investissement ou de fonctionnement
+du budget de la commune, selon la nature du projet. La commune affecte la
+subvention au financement des projets de son choix.

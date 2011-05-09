@@ -7,5 +7,5 @@ demande.
 Elle peut entendre toute personne dont l'audition lui paraît utile.
 
 Le préfet fait chaque année rapport à la commission, lors de sa première
-réunion, de la répartition de la dotation globale d'équipement des communes, au
-titre de l'exercice écoulé.
+réunion, de la répartition de la dotation d'équipement des territoires ruraux
+des communes, au titre de l'exercice écoulé.

@@ -1,6 +1,6 @@
 Article R234-6
 ----
-Les crédits restants de la quote-part mentionnée à l'article L. 2334-37 du code
+Les crédits restants de la quote-part mentionnée à l'article L. 2334-34 du code
 général des collectivités territoriales sont délégués aux représentants de
 l'Etat en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et à
 Mayotte, proportionnellement à la population des communes et des

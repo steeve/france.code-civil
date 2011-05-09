@@ -1,6 +1,6 @@
 Article R2334-34
 ----
-Lorsqu'il est fait application du troisième alinéa de l'article L. 2334-35, le
+Lorsqu'il est fait application du troisième alinéa de l'article L. 2334-37, le
 vote a lieu sur des listes complètes sans adjonction ou suppression de noms et
 sans modification de l'ordre de présentation.
 
@@ -15,7 +15,7 @@ pourvoir par chaque collège.
 Chaque bulletin est mis sous double enveloppe ; l'enveloppe intérieure ne doit
 comporter aucune mention ou signe distinctif ; l'enveloppe extérieure doit
 porter la mention : " Election des membres de la commission prévue à l'article
-L. 2334-35 du code général des collectivités territoriales ", l'indication du
+L. 2334-37 du code général des collectivités territoriales ", l'indication du
 collège auquel appartient l'intéressé, son nom, sa qualité et sa signature.
 
 Les bulletins de vote sont recensés par une commission présidée par le préfet ou
