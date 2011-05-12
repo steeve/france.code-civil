@@ -108,7 +108,7 @@ l'article L. 171-1 du code rural et de la pêche maritime, dans le cadre d'un
 mandat de gestion, avec une coopérative forestière ou une organisation de
 producteurs au sens de l'article L. 551-1 du même code ou avec l'Office national
 des forêts en application de l'article L. 224-6 du code forestier, sous réserve
-des trois conditions suivantes (1) :
+des trois conditions suivantes :
 
 1° le contrat de gestion doit prévoir la réalisation de programmes de travaux et
 de coupes sur des terrains en nature de bois et forêts dans le respect de l'une
@@ -118,7 +118,7 @@ des garanties de gestion durable prévues à l'article L. 8 du même code ;
 un gestionnaire forestier professionnel ou un expert forestier, soit en
 exécution d'un contrat d'apport conclu avec une coopérative ou une organisation
 de producteurs, soit dans les conditions prescrites à l'article L. 224-6 du même
-code (1) ;
+code ;
 
 3° ces coupes doivent être commercialisées à destination d'unités de
 transformation du bois ou de leurs filiales d'approvisionnement par voie de
@@ -173,7 +173,7 @@ veuve ou divorcée et de 11 400 € pour un couple marié ou les partenaires li�
 par un pacte civil de solidarité, soumis à une imposition commune.
 
 Les dépenses mentionnées au g du 3 sont retenues dans la limite de 12 € par
-hectare assuré en 2011, de 9, 6 € par hectare assuré en 2012 et de 7, 2 € par
+hectare assuré en 2011, de 9,6 € par hectare assuré en 2012 et de 7,2 € par
 hectare assuré en 2013.
 
 Les dépenses et la fraction des dépenses mentionnées aux d, e et g du 3 sont
@@ -201,9 +201,9 @@ produites avec la déclaration prévue à l'article 170 la facture du contrat de
 gestion et l'attestation délivrée par l'opérateur certifiant que la cession et
 la commercialisation des coupes sont réalisées dans les conditions du f du 2.
 
-3 ter. Le taux de la réduction d'impôt est de 25 % à l'exception de la réduction
+3 ter. Le taux de la réduction d'impôt est de 22 % à l'exception de la réduction
 d'impôt afférente aux dépenses prévues au g du 2 pour lesquelles ce taux est
-porté à 100 %.
+porté à 90 %.
 
 4. La réduction d'impôt s'applique pour le calcul de l'impôt dû :
 

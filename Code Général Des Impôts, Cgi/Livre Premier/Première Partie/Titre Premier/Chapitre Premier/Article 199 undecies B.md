@@ -68,7 +68,7 @@ d'impôt prévue au premier alinéa ne s'applique pas aux investissements portan
 sur des installations de production d'électricité utilisant l'énergie radiative
 du soleil.
 
-La réduction d'impôt est de 50 % du montant, hors taxes et hors frais de toute
+La réduction d'impôt est de 45 % du montant, hors taxes et hors frais de toute
 nature, notamment les commissions d'acquisition, à l'exception des frais de
 transport, d'installation et de mise en service amortissables, des
 investissements productifs, diminué de la fraction de leur prix de revient
@@ -78,18 +78,19 @@ d'énergie renouvelable sont pris en compte dans la limite d'un montant par watt
 installé fixé par arrêté conjoint des ministres chargés du budget, de
 l'outre-mer et de l'énergie pour chaque type d'équipement. Ce montant prend en
 compte les coûts d'acquisition et d'installation directement liés à ces
-équipements. Le taux de la réduction d'impôt est porté à 60 % pour les
+équipements. Le taux de la réduction d'impôt est porté à 54 % pour les
 investissements réalisés en Guyane dans les limites définies par les règles
 communautaires relatives aux aides d'Etat, à Mayotte, à Saint-Pierre-et-Miquelon
-ou à Wallis-et-Futuna. Ces taux sont majorés de dix points pour les
-investissements réalisés dans le secteur de la production d'énergie
-renouvelable. Le taux de la réduction d'impôt est porté à 60 % pour les travaux
-de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de
-village de vacances classés réalisés en Polynésie française, dans les îles
-Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, à
-Mayotte, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie.
+ou à Wallis-et-Futuna. Les taux de 45 % et 54 % susmentionnés sont
+respectivement portés à 54 % et 63 % pour les investissements réalisés dans le
+secteur de la production d'énergie renouvelable. Le taux de la réduction d'impôt
+est porté à 54 % pour les travaux de rénovation et de réhabilitation d'hôtel, de
+résidence de tourisme et de village de vacances classés réalisés en Polynésie
+française, dans les îles Wallis-et-Futuna, dans les Terres australes et
+antarctiques françaises, à Mayotte, à Saint-Pierre-et-Miquelon et en
+Nouvelle-Calédonie.
 
-Le taux de la réduction d'impôt est porté à 70 % pour les travaux de rénovation
+Le taux de la réduction d'impôt est porté à 63 % pour les travaux de rénovation
 et de réhabilitation d'hôtel, de résidence de tourisme et de village de vacances
 classés dans les départements d'outre-mer. Le bénéfice de cette mesure est
 accordé à l'exploitant lorsqu'il prend en charge ces travaux.
@@ -139,18 +140,18 @@ Toutefois, la reprise de la réduction d'impôt n'est pas effectuée lorsque les
 biens ayant ouvert droit à réduction d'impôt sont transmis dans le cadre des
 opérations mentionnées aux articles 41 et 151 octies, si le bénéficiaire de la
 transmission s'engage à conserver ces biens et à maintenir leur affectation
-initiale pendant la fraction du délai de conservation restant à
-courir.L'engagement est pris dans l'acte constatant la transmission ou, à
-défaut, dans un acte sous seing privé ayant date certaine, établi à cette
-occasion. En cas de non-respect de cet engagement, le bénéficiaire de la
-transmission doit, au titre de l'exercice au cours duquel cet événement est
-intervenu, ajouter à son résultat une somme égale au triple du montant de la
-réduction d'impôt à laquelle les biens transmis ont ouvert droit.
+initiale pendant la fraction du délai de conservation restant à courir.
+L'engagement est pris dans l'acte constatant la transmission ou, à défaut, dans
+un acte sous seing privé ayant date certaine, établi à cette occasion. En cas de
+non-respect de cet engagement, le bénéficiaire de la transmission doit, au titre
+de l'exercice au cours duquel cet événement est intervenu, ajouter à son
+résultat une somme égale au triple du montant de la réduction d'impôt à laquelle
+les biens transmis ont ouvert droit.
 
 Lorsque l'investissement est réalisé par une société ou un groupement visés aux
 dix-neuvième et vingt-septième alinéas, les associés ou membres doivent, en
 outre, conserver les parts ou actions de cette société ou de ce groupement
-pendant un délai de cinq ans à compter de la réalisation de l'investissement.A
+pendant un délai de cinq ans à compter de la réalisation de l'investissement. A
 défaut, la réduction d'impôt qu'ils ont pratiquée fait l'objet d'une reprise au
 titre de l'année de la cession. Le revenu global de cette même année est alors
 majoré des déficits indûment imputés en application du I bis. Les montants de
@@ -199,7 +200,7 @@ plein droit à l'impôt sur les sociétés dont les actions sont détenues
 intégralement et directement par des contribuables, personnes physiques,
 domiciliés en France au sens de l'article 4 B. En ce cas, la réduction d'impôt
 est pratiquée par les associés dans une proportion correspondant à leurs droits
-dans la société.L'application de cette disposition est subordonnée au respect
+dans la société. L'application de cette disposition est subordonnée au respect
 des conditions suivantes :
 
 1° Les investissements ont reçu un agrément préalable du ministre chargé du
@@ -236,19 +237,18 @@ ans au moins ces investissements dans le cadre de l'activité pour laquelle ils
 ont été acquis ou créés. Lorsque la réduction d'impôt mentionnée au présent I
 est acquise dans les conditions prévues aux vingt-sixième et vingt-neuvième
 alinéas et que la fraction de la réduction d'impôt rétrocédée à l'entreprise
-locataire est de 62,5 %, les taux de 50 % et 60 % mentionnés au dix-septième
-alinéa sont respectivement ramenés à 48 % et 57,6 % et la majoration de dix
-points mentionnée au même alinéa est ramenée à 9,6 points. Dans les mêmes
-conditions, le taux de 70 % mentionné au dix-huitième alinéa est ramené à 67,2
-%.
-
-Lorsque la réduction d'impôt mentionnée au présent I est acquise dans les
-conditions prévues aux vingt-sixième et vingt-neuvième alinéas et que la
-fraction de la réduction d'impôt rétrocédée à l'entreprise locataire est de
-52,63 %, les taux de 50 % et 60 % mentionnés au dix-septième alinéa sont
-respectivement ramenés à 47,5 % et 57 % et la majoration de dix points
-mentionnée au même alinéa est ramenée à 9,5 points. Dans les mêmes conditions,
-le taux de 70 % mentionné au dix-huitième alinéa est ramené à 66,5 %.
+locataire est de 62,5 %, les taux de 45 % et 54 % mentionnés au dix-septième
+alinéa sont respectivement portés à 48 % et 57,6 % et les taux de 54 % et 63 %
+mentionnés à la cinquième phrase du même alinéa sont respectivement portés à
+57,6 % et 67,2 %. Dans les mêmes conditions, le taux de 63 % mentionné au
+dix-huitième alinéa est porté à 67,2 %. Lorsque la réduction d'impôt mentionnée
+au présent I est acquise dans les conditions prévues aux vingt-sixième et
+vingt-neuvième alinéas et que la fraction de la réduction d'impôt rétrocédée à
+l'entreprise locataire est de 52,63 %, les taux de 45 % et 54 % mentionnés au
+dix-septième alinéa sont respectivement portés à 47,5 % et 57 % et les taux de
+54 % et 63 % mentionnés à la cinquième phrase du même alinéa sont respectivement
+portés à 57 % et 66,5 %. Dans les mêmes conditions, le taux de 63 % mentionné au
+dix-huitième alinéa est porté à 66,5 %.
 
 I bis.-1. En cas de location, dans les conditions mentionnées au vingt-sixième
 alinéa du I, d'un hôtel, d'une résidence de tourisme ou d'un village de vacances
@@ -308,7 +308,7 @@ La base éligible de la réduction d'impôt est égale à la moitié du coût de
 revient hors taxes et hors frais de toute nature, notamment les commissions
 d'acquisition, à l'exception des frais de transport de ces équipements et
 opérations, diminuée du montant des subventions publiques accordées pour leur
-financement. Le taux de la réduction d'impôt est de 50 %. Le montant de l'aide
+financement. Le taux de la réduction d'impôt est de 45 %. Le montant de l'aide
 fiscale peut être réduit de moitié au plus, compte tenu du besoin de financement
 de la société exploitante pour la réalisation de ce projet et de l'impact de
 l'aide sur les tarifs. Par dérogation au présent I ter, le I s'applique

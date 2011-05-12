@@ -61,13 +61,13 @@ d'impôt, dans les conditions et limites prévues au présent article, est celui
 correspondant au prix des travaux devant être réalisés par le vendeur et
 effectivement payés par l'acquéreur selon l'échéancier prévu au contrat.
 
-III. ― La réduction d'impôt est égale à 30 % du montant des dépenses mentionnées
+III. ― La réduction d'impôt est égale à 27 % du montant des dépenses mentionnées
 au II, retenues dans la limite annuelle de 100 000 €.
 
-Ce taux est majoré de dix points lorsque les dépenses sont effectuées pour des
-immeubles situés dans un secteur sauvegardé créé en application du I de
-l'article L. 313-1 du code de l'urbanisme ou dans un quartier ancien dégradé
-délimité en application de l'article 25 de la loi n° 2009-323 du 25 mars 2009 de
+Ce taux est porté à 36 % lorsque les dépenses sont effectuées pour des immeubles
+situés dans un secteur sauvegardé créé en application du I de l'article L. 313-1
+du code de l'urbanisme ou dans un quartier ancien dégradé délimité en
+application de l'article 25 de la loi n° 2009-323 du 25 mars 2009 de
 mobilisation pour le logement et la lutte contre l'exclusion lorsque la
 restauration a été déclarée d'utilité publique.
 
@@ -102,11 +102,11 @@ l'acquisition d'immeubles mentionnés au même I. Le produit de la souscription
 doit être intégralement affecté dans les dix-huit mois qui suivent la clôture de
 celle-ci.
 
-2. La réduction d'impôt est égale à 30 % du montant de la souscription affecté
+2. La réduction d'impôt est égale à 27 % du montant de la souscription affecté
 au financement des dépenses relatives à un immeuble mentionné aux 3° et 4° du I,
-retenu dans la limite annuelle de 100 000 euros. Ce taux est majoré de dix
-points lorsque le montant de la souscription est affecté au financement de
-dépenses relatives à un immeuble mentionné au 1° ou 2° du I.
+retenu dans la limite annuelle de 100 000 euros. Ce taux est porté à 36 %
+lorsque le montant de la souscription est affecté au financement de dépenses
+relatives à un immeuble mentionné au 1° ou 2° du I.
 
 3. La société doit prendre l'engagement de louer l'immeuble au titre duquel les
 dépenses sont réalisées dans les conditions prévues au IV.L'associé doit

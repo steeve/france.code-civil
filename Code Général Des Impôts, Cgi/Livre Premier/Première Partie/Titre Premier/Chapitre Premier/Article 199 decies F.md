@@ -38,10 +38,10 @@ réduction d'impôt ne peut excéder, au titre d'une année, 50 000 Euros pour u
 personne célibataire, veuve ou divorcée et 100 000 Euros pour un couple marié.
 Son taux est égal à :
 
-a) 20 % du montant des dépenses afférentes à des logements mentionnés aux a et b
+a) 18 % du montant des dépenses afférentes à des logements mentionnés aux a et b
 du 1 ;
 
-b) 40 % du montant des dépenses afférentes à des logements mentionnés au c du 1,
+b) 36 % du montant des dépenses afférentes à des logements mentionnés au c du 1,
 sans qu'il y ait toutefois lieu de le diminuer des subventions publiques
 accordées aux contribuables.
 

@@ -17,10 +17,10 @@ améliorer les rapports locatifs et portant modification de la loi n° 86-1290 d
 23 décembre 1986 et qui font l'objet, entre le 1er janvier 2009 et le 31
 décembre 2012, de travaux de réhabilitation définis par décret permettant aux
 logements d'acquérir des performances techniques voisines de celles des
-logements neufs.L'achèvement de la construction ou des travaux de transformation
-doit intervenir au plus tard au 31 décembre de la deuxième année qui suit celle
-de la demande de permis de construire ou celle de l'acquisition du local destiné
-à être transformé.
+logements neufs. L'achèvement de la construction ou des travaux de
+transformation doit intervenir au plus tard au 31 décembre de la deuxième année
+qui suit celle de la demande de permis de construire ou celle de l'acquisition
+du local destiné à être transformé.
 
 L'application de la présente réduction d'impôt est, au titre de l'acquisition ou
 de la construction d'un logement, exclusive, pour le même logement, de la
@@ -46,7 +46,7 @@ reçu le label délivré par la Fondation du patrimoine, mentionnés au premier
 alinéa du 3° du I de l'article 156, et aux logements financés au moyen d'un prêt
 mentionné à l'article R. 331-1 du code de la construction et de l'habitation
 ayant fait l'objet d'un dépôt de permis de construire à compter du 1er janvier
-2010 .
+2010.
 
 II. ― La réduction d'impôt n'est applicable qu'aux logements dont les
 caractéristiques thermiques et la performance énergétique sont conformes aux
@@ -67,17 +67,18 @@ retenu pour sa fraction inférieure à 300 000 €.
 
 Le taux de la réduction d'impôt est de :
 
-- 25 % pour les logements acquis ou construits en 2009 et en 2010 ;
+-25 % pour les logements acquis ou construits en 2009 et en 2010 ;
 
-- 15 % pour les logements acquis ou construits en 2011 ;
+-13 % pour les logements acquis ou construits en 2011 ;
 
-- 10 % pour les logements acquis ou construits en 2012.
+-9 % pour les logements acquis ou construits en 2012.
 
 Toutefois, lorsque le contribuable acquiert ou fait construire un logement neuf
 dont le niveau de performance énergétique globale, déterminé dans des conditions
 fixées par décret et justifié par le bénéficiaire, est supérieur à celui
-qu'impose la législation en vigueur, le taux de la réduction d'impôt est majoré
-de dix points pour les logements acquis ou construits en 2011 et 2012.
+qu'impose la législation en vigueur, les taux de la réduction d'impôt mentionnés
+aux quatrième et cinquième alinéas sont respectivement portés à 22 % et 18 %
+pour les logements acquis ou construits en 2011 et 2012.
 
 Lorsque le logement est détenu en indivision, chaque indivisaire bénéficie de la
 réduction d'impôt dans la limite de la quote-part du prix de revient
@@ -103,7 +104,7 @@ Lorsque la fraction de la réduction d'impôt imputable au titre d'une année
 d'imposition excède l'impôt dû par le contribuable au titre de cette même année,
 le solde peut être imputé sur l'impôt sur le revenu dû au titre des années
 suivantes jusqu'à la sixième année inclusivement pour autant que l'immeuble soit
-maintenu à la location pendant lesdites années .
+maintenu à la location pendant lesdites années.
 
 Lorsque la réduction d'impôt est acquise au titre d'un local affecté à un usage
 autre que l'habitation et que le contribuable transforme en logement ou d'un
@@ -121,7 +122,7 @@ l'engagement de location mentionnée au I, dans les conditions mentionnées au
 deuxième alinéa du l du 1° du I de l'article 31, par période de trois ans, le
 contribuable continue à bénéficier de la réduction d'impôt prévue au présent
 article pendant au plus six années supplémentaires. Dans ce cas, la réduction
-d'impôt annuelle est égale à 6 % du prix de revient du logement par période
+d'impôt annuelle est égale à 5 % du prix de revient du logement par période
 triennale, imputée à raison d'un tiers de son montant sur l'impôt dû au titre de
 chacune des années comprises dans ladite période.
 
@@ -157,22 +158,23 @@ dans la catégorie des revenus fonciers.
 
 Le taux de la réduction d'impôt est de :
 
-- 25 % pour les souscriptions réalisées en 2009 et en 2010 ;
+-25 % pour les souscriptions réalisées en 2009 et en 2010 ;
 
-- 15 % pour les souscriptions réalisées en 2011 ;
+-13 % pour les souscriptions réalisées en 2011 ;
 
-- 10 % pour les souscriptions réalisées en 2012.
+-9 % pour les souscriptions réalisées en 2012.
 
 Toutefois, lorsque 95 % de la souscription sert exclusivement à financer les
-logements mentionnés au sixième alinéa du IV, la réduction d'impôt est majorée
-de dix points pour les logements acquis ou construits en 2011 et 2012.
+logements mentionnés au sixième alinéa du IV, les taux de la réduction d'impôt
+mentionnés aux quatrième et cinquième alinéas sont respectivement portés à 22 %
+et 18 % pour les logements acquis ou construits en 2011 et 2012.
 
 La réduction d'impôt, qui n'est pas applicable aux titres dont le droit de
 propriété est démembré, est subordonnée à la condition que 95 % de la
 souscription serve exclusivement à financer un investissement pour lequel les
 conditions d'application du présent article sont réunies. En outre, la société
 doit prendre l'engagement de louer le logement dans les conditions prévues au
-présent article.L'associé doit s'engager à conserver la totalité de ses titres
+présent article. L'associé doit s'engager à conserver la totalité de ses titres
 jusqu'au terme de l'engagement de location souscrit par la société. Le produit
 de la souscription doit être intégralement investi dans les dix-huit mois qui
 suivent la clôture de celle-ci.
@@ -229,14 +231,14 @@ dans les mêmes conditions, sous réserve des adaptations prévues au présent X
 
 a) Pour ces investissements, le taux de la réduction est égal :
 
-1° A 40 % pour les logements acquis ou construits et pour les souscriptions
+1° A 36 % pour les logements acquis ou construits et pour les souscriptions
 réalisées entre la date de promulgation de la loi n° 2009-594 du 27 mai 2009
 pour le développement économique des outre-mer et le 31 décembre 2011 ;
 
-2° A 35 % pour les logements acquis ou construits et pour les souscriptions
+2° A 31 % pour les logements acquis ou construits et pour les souscriptions
 réalisées entre le 1er janvier 2012 et le 31 décembre 2013 ;
 
-3° A 35 % pour les logements acquis ou construits et pour les souscriptions
+3° A 31 % pour les logements acquis ou construits et pour les souscriptions
 réalisées entre le 1er janvier 2014 et le 31 décembre 2017, dès lors que le
 propriétaire s'engage à ce que les logements restent loués à l'issue de la
 période couverte par l'engagement mentionné au I ou au 1° du b du présent XI,

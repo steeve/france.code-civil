@@ -1,7 +1,7 @@
 Article 199 quatervicies
 ----
 I.-Les contribuables domiciliés en France au sens de l'article 4 B peuvent
-bénéficier d'une réduction d'impôt sur le revenu égale à 40 % du montant des
+bénéficier d'une réduction d'impôt sur le revenu égale à 36 % du montant des
 sommes effectivement versées entre le 1er janvier 2009 et le 31 décembre 2011
 pour les souscriptions en numéraire au capital des sociétés mentionnées à
 l'article 238 bis HO, retenues dans la limite annuelle de 25 % du revenu net
@@ -19,6 +19,6 @@ catégories prévues à l'article L. 341-4 du code de la sécurité sociale ou d
 décès du contribuable ou de l'un des époux soumis à une imposition commune. Il
 en est de même en cas de donation à une personne physique des titres reçus en
 contrepartie de la souscription au capital de la société si le donataire reprend
-l'obligation de conservation des titres transmis prévue au premier alinéa.A
+l'obligation de conservation des titres transmis prévue au premier alinéa. A
 défaut, la reprise de la réduction d'impôt sur le revenu obtenue est effectuée
 au nom du donateur.

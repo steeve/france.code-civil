@@ -6,7 +6,7 @@ l'habitation bénéficient d'un crédit d'impôt sur le revenu lorsqu'elles
 concluent un contrat d'assurance contre les impayés de loyer respectant le
 cahier des charges mentionné au g de l'article L. 313-3 du même code.
 
-Ce crédit d'impôt est égal à 50 % du montant de la prime d'assurance payée au
+Ce crédit d'impôt est égal à 45 % du montant de la prime d'assurance payée au
 cours de l'année d'imposition.
 
 Les personnes mentionnées au premier alinéa ne peuvent bénéficier, pour un même

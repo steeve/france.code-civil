@@ -36,7 +36,7 @@ de réhabilitation, elle est calculée sur le prix d'acquisition majoré du mont
 de ces travaux.
 
 Le taux de la réduction d'impôt est de 25 % pour les logements acquis en 2009 et
-en 2010, et de 20 % pour les logements acquis à compter de l'année 2011.
+en 2010, et de 18 % pour les logements acquis à compter de l'année 2011.
 
 Lorsque le logement est détenu en indivision, chaque indivisaire bénéficie de la
 réduction d'impôt dans la limite de la quote-part du prix de revient, majoré le
