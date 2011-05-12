@@ -1,33 +1,20 @@
 Article A37-11
 ----
-L'avis de contravention adressé par voie postale au contrevenant ou, lorsque son
-identité n'a pu être établie, au titulaire du certificat d'immatriculation
-comprend :
+Par dérogation aux articles A. 37-7 à A. 37-10, les caractéristiques des
+formulaires utilisés pour les contraventions réprimées par les articles R.
+413-14 et R. 413-17 du code de la route en ce qu'ils concernent les dépassements
+de la vitesse maximale autorisée de moins de 50 km/ h (dépassement de la vitesse
+maximale autorisée pour les véhicules à moteur), lorsqu'elles sont soumises à la
+procédure de l'amende forfaitaire, sont les mêmes que celles décrites aux
+articles précités sous réserve des différences suivantes :
 
-I. - Les mentions relatives au service verbalisateur, à la nature, au lieu et à
-la date de la contravention, les références des textes réprimant ladite
-contravention, les éléments d'identification du véhicule et l'identité du
-contrevenant ou, lorsque celle-ci n'a pu être relevée, celle du titulaire du
-certificat d'immatriculation.
+-avis de contravention : outre les mentions prévues à l'article A. 37-9,
+figurent les indications relatives à la vitesse maximale autorisée, à celle
+enregistrée à l'aide d'un appareil de contrôle et à celle retenue par le service
+verbalisateur, les informations sur le moyen de contrôle utilisé et sur le type
+de voie empruntée ;
 
-II. - Le montant de l'amende forfaitaire encourue ainsi que le montant de cette
-amende en cas de minoration ou de majoration en considération du délai ou du
-mode de paiement.
-
-III. - Une rubrique intitulée Retrait de points où est indiqué si la
-contravention poursuivie est susceptible d'entraîner un retrait de point (s) du
-permis de conduire.
-
-IV. - Le cas échéant, une rubrique relative à l'obligation de procéder à
-l'échange du permis de conduire.
-
-V. - Une information sur les droits du destinataire de cet avis et sur les modes
-d'exercice des recours concernant :
-
-- le traitement automatisé des données à caractère personnel ;
-
-- le droit d'accès au cliché éventuellement pris par des appareils de contrôle
-automatiques ;
-
-- l'infraction elle-même lorsque les modalités de contestation ne sont pas
-portées sur un formulaire distinct de requête en exonération.
+-procès-verbal de contravention : ce volet est de couleur jaune ; outre les
+mentions prévues à l'article A. 37-10, ce volet comporte au recto, sur la partie
+gauche, les informations obtenues par duplication du second volet décrit au
+paragraphe précédent.

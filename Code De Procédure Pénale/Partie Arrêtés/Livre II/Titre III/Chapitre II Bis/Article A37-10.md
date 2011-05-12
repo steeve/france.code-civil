@@ -1,28 +1,27 @@
 Article A37-10
 ----
-Lorsque, conformément aux dispositions du troisième alinéa du I de l'article R.
-49-1 ou du dernier alinéa de l'article R. 49-10, la contravention est constatée
-par l'agent verbalisateur dans des conditions ne permettant pas l'édition
-immédiate de l'avis de contravention et de la carte de paiement, notamment parce
-que le procès-verbal de constatation est dressé avec l'appareil prévu par
-l'article A. 37-14, il est adressé, par voie postale au domicile du contrevenant
-ou, lorsque son identité n'a pu être établie, au domicile du titulaire du
-certificat d'immatriculation, les documents suivants :
+Le procès-verbal de contravention mentionné à l'article A. 37-1 est de couleur
+orange et ses caractéristiques sont les suivantes :
 
--un avis de contravention ;
+I.-Au recto, sur la partie gauche, sont portées les mentions prévues par le I de
+l'article A. 37-9, qui sont établies par duplication de la partie gauche du
+deuxième volet.
 
--une notice de paiement ;
+II.-Le procès-verbal de contravention comporte la mention : " Cette
+contravention entraîne un retrait de point (s) du permis de conduire ".
 
--un formulaire de requête en exonération sur un feuillet distinct, lorsque les
-informations relatives aux modalités de contestation et de recours ne figurent
-pas sur l'avis de contravention.
+III.-Sur la partie droite figurent les emplacements destinés à la signature de
+l'agent verbalisateur et, le cas échéant, aux éléments chiffrés permettant le
+traitement de la contravention relevée, à l'établissement d'une fiche
+d'immobilisation, à la signature et aux déclarations du contrevenant indiquant
+s'il reconnaît ou ne reconnaît pas l'infraction et précisant qu'il reconnaît
+avoir reçu la carte de paiement et l'avis de contravention sur lequel figurent
+les informations prévues au III de l'article A. 37-9 et reproduites au verso du
+formulaire.
 
-Les caractéristiques de ces documents sont fixées par les articles A. 37-11 à A.
-37-13.
+IV.-Au verso, sur la partie gauche, est reproduite l'intégralité des
+informations prévues au III de l'article A. 37-9 et il est indiqué que le
+contrevenant a reçu l'avis de contravention comportant ces informations.
 
-Si le procès-verbal constatant la contravention est dressé à la suite de
-l'interception du véhicule, il est remis au contrevenant un document l'informant
-qu'il recevra à son domicile un avis de contravention. Lorsque la contravention
-est relevée en l'absence du contrevenant, ce document est laissé sur le
-véhicule. La non-remise de ce document ne constitue toutefois pas une cause de
-nullité de la procédure.
+V.-Sur la partie droite figurent les informations relatives au contrevenant
+ainsi que, le cas échéant, au titulaire du certificat d'immatriculation.

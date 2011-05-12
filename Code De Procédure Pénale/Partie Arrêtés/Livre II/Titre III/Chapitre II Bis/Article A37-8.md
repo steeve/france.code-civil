@@ -1,20 +1,30 @@
 Article A37-8
 ----
-Par dérogation aux articles A. 37-1, A. 37-2 et A. 37-4, lorsque les
-contraventions mentionnées à l'article L. 121-3 du code de la route sont
-constatées sans interception du véhicule et à l'aide d'un système de contrôle
-automatisé enregistrant les données en numérique, les mentions exigées par les
-articles A. 37-2 et A. 37-4 relatives à l'avis de contravention figurent sur le
-recto et le verso d'un formulaire unique d'avis de contravention, de format 210
-mm x 297 mm, de couleur verte, qui comprend en bas de page une partie
-détachable, de couleur blanche intitulée " carte de paiement ", sur laquelle
-sont reproduites au recto et au verso les mentions exigées par l'article A.
-37-1.
+Les caractéristiques de la carte de paiement mentionnée à l'article A. 37-1 sont
+les suivantes :
 
-La carte de paiement prévue à l'alinéa précédent peut être remplacée par une
-notice de paiement figurant sur un feuillet séparé qui est joint à l'envoi,
-conformément aux dispositions de l'article A. 37-13.
+I.-Au recto, sur la partie gauche, figurent les informations relatives au
+service verbalisateur, à la date de l'infraction, au montant de l'amende à payer
+et, le cas échéant, le numéro d'immatriculation du véhicule.
 
-Le formulaire d'avis de contravention comporte également des mentions rappelant
-au titulaire de la carte grise les conditions de recevabilité de la requête en
-exonération prévue par les 1° et 2° de l'article 529-10.
+Il est également mentionné que le paiement de l'amende forfaitaire entraîne
+reconnaissance de la réalité de l'infraction et réduction du nombre de points du
+permis de conduire.
+
+II.-La partie droite comporte l'emplacement où peut être apposée la partie à
+envoyer du timbre-amende en cas de non-paiement par chèque, et l'indication du
+destinataire de la carte de paiement.
+
+III.-Au verso sont mentionnées les modalités de paiement ainsi que les
+possibilités de requête avec l'indication de l'autorité compétente pour recevoir
+la réclamation. Il est en outre prévu un emplacement où sont portées des
+informations relatives à l'auteur de la requête en exonération.
+
+IV.-Sur ce volet sont également indiquées les conséquences du défaut de paiement
+et de l'absence de requête en exonération dans les délais impartis.
+
+V.-Conformément aux dispositions de l'article R. 49-3-1, ce volet peut également
+comporter une mention précisant que le paiement de l'amende forfaitaire peut
+être réalisé par télépaiement automatisé ou par timbre dématérialisé, et
+indiquant que le contrevenant dispose d'un délai supplémentaire de quinze jours
+pour s'acquitter de cette amende s'il utilise ce mode de paiement.

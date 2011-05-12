@@ -1,16 +1,18 @@
 Article A37-12
 ----
-Lorsqu'un formulaire spécifique de requête en exonération est adressé au
-contrevenant, il comprend les mentions suivantes :
+Dans le cas prévu par l'article R. 49-14, la consignation s'effectue par
+l'apposition, sur le formulaire de requête en exonération, du timbre prévu au
+premier alinéa de l'article R. 49-3.
 
--les voies de recours ouvertes au contrevenant et les modalités de leur exercice
-;
+Lorsqu'il est fait application des dispositions de l'article 529-10, le
+contrevenant peut s'acquitter du paiement de la consignation soit par
+timbre-amende dans les conditions définies à l'alinéa précédent, soit par chèque
+libellé à l'ordre du Trésor public, soit par télépaiement automatisé ou par
+timbre dématérialisé.
 
--une information sur l'examen de la requête et les suites susceptibles de lui
-être données.
-
-Lorsque la contravention poursuivie est l'une de celles mentionnées à l'article
-L. 121-3 du code de la route, le formulaire détaille chacun des cas de requête
-en exonération et précise si une consignation préalable est exigible ou non. Une
-carte de consignation est insérée au bas du recto du formulaire lorsque ce
-document est adressé au titulaire du certificat d'immatriculation.
+Dans le cas prévu par l'article R. 49-15, la consignation est acquittée soit par
+espèces, soit par chèque libellé à l'ordre du Trésor public, soit par
+télépaiement automatisé, soit par carte bancaire auprès du comptable public
+compétent mentionné sur l'avis d'amende forfaitaire majorée. Ce dernier délivre
+alors au redevable une attestation du paiement de la consignation qui doit être
+jointe à la réclamation adressée au ministère public.
