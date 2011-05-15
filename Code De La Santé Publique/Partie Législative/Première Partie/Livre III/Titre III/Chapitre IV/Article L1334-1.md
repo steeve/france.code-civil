@@ -49,6 +49,3 @@ lorsqu'il a été directement informé du risque d'exposition. Les résultats du
 diagnostic sont communiqués au représentant de l'Etat dans le département ainsi
 qu'au directeur général de l'agence régionale de santé lorsque le diagnostic a
 été réalisé par le directeur du service communal d'hygiène et de santé.
-
-Le directeur général de l'agence régionale de santé peut agréer des opérateurs
-pour réaliser les diagnostics et contrôles prévus au présent chapitre.
