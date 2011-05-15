@@ -8,6 +8,12 @@ régie par les dispositions des articles 8 et 9 du décret n° 2006-665 du 7 jui
 
 Elle est notamment chargée :
 
+-d'assister le préfet de région pour l'élaboration du plan régional de
+l'agriculture durable prévu par l'article L. 111-2-1 ainsi que pour
+l'établissement du bilan de sa mise en œuvre, et, dans l'intervalle, de dresser
+les états annuels de cette mise en œuvre et de proposer s'il y a lieu les
+modifications pouvant être apportées au plan ;
+
 -de veiller à la cohérence des actions menées en matière de recherche,
 d'expérimentation, de développement et de formation dans les secteurs agricoles
 et agro-industriels ;
