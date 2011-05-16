@@ -2,10 +2,9 @@ Article R228-12
 ----
 Est puni de la peine prévue pour les contraventions de la 5e classe le fait :
 
-1° S'agissant d'établissements chargés du service public de l'équarrissage ou du
-traitement de sous-produits animaux, de faire usage d'un local mal aménagé ou
-mal entretenu, susceptible de contaminer les produits finis ou de créer un
-danger pour le personnel ;
+1° S'agissant d'établissements d'équarrissage ou du traitement de sous-produits
+animaux, de faire usage d'un local mal aménagé ou mal entretenu, susceptible de
+contaminer les produits finis ou de créer un danger pour le personnel ;
 
 2° S'agissant des établissements visés au 1°, de mettre en oeuvre des
 traitements de cadavres ou de sous-produits animaux pour obtenir des produits

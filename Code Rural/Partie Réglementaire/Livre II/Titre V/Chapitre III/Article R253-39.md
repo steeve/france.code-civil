@@ -5,8 +5,7 @@ phytopharmaceutiques est adressée à l'Agence nationale de sécurité sanitaire
 l'alimentation, de l'environnement et du travail par le responsable de la
 première mise sur le marché ou pour son compte.
 
-Tout demandeur doit avoir un siège permanent au sein de la Communauté
-européenne.
+Tout demandeur doit avoir un siège permanent au sein de l'Union européenne.
 
 La demande d'autorisation doit comprendre :
 

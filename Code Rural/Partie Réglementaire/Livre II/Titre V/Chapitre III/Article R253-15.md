@@ -2,8 +2,8 @@ Article R253-15
 ----
 Les informations fournies par le demandeur constituant un secret industriel et
 commercial sont confidentielles si le demandeur en fait la demande auprès du
-ministre chargé de l'agriculture et si celui-ci ou la Commission des Communautés
-européennes acceptent la justification fournie par le demandeur.
+ministre chargé de l'agriculture et si celui-ci ou la Commission européenne
+acceptent la justification fournie par le demandeur.
 
 La confidentialité ne s'applique pas :
 

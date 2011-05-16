@@ -3,20 +3,20 @@ Article R214-51
 Tout transporteur effectuant un transport d'animaux vivants sur le territoire
 national doit être titulaire de l'agrément prévu par l'article L. 214-12. Est
 réputé titulaire de cet agrément tout transporteur titulaire de l'agrément prévu
-par la directive 91/628/CEE du 19 novembre 1991, modifiée, relative à la
+par la directive 91/628/ CEE du 19 novembre 1991, modifiée, relative à la
 protection des animaux en cours de transport et délivré par un autre Etat membre
-de la Communauté européenne.
+de l'Union européenne.
 
 Pour les transporteurs établis sur le territoire national, cet agrément est
-délivré par les services vétérinaires du département de leur siège social ou de
-leur principal établissement.
+délivré par le préfet du département de leur siège social ou de leur principal
+établissement.
 
 Pour tout transporteur établi dans un pays tiers effectuant des transports sur
-le territoire de la Communauté européenne et ayant choisi d'être agréé par les
-autorités françaises, l'agrément est attribué par les services vétérinaires du
-département d'un point d'entrée ou de sortie du territoire national ou, le cas
-échéant, par les services vétérinaires du département dans lequel des animaux
-importés ou exportés doivent être respectivement déchargés ou chargés.
+le territoire de l'Union européenne et ayant choisi d'être agréé par les
+autorités françaises, l'agrément est attribué par le préfet du département d'un
+point d'entrée ou de sortie du territoire national ou, le cas échéant, par les
+services vétérinaires du département dans lequel des animaux importés ou
+exportés doivent être respectivement déchargés ou chargés.
 
 L'agrément est accordé pour cinq ans et est renouvelable sur demande de son
 titulaire.

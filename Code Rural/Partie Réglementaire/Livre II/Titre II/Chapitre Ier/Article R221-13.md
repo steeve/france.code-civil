@@ -6,15 +6,16 @@ derniers dans l'exercice de leur mandat et de proposer des sanctions au préfet.
 
 Cette commission est ainsi composée :
 
-1. L'inspecteur général de la santé publique vétérinaire chargé d'inspection
-interrégionale territorialement compétent ou son représentant, président ;
+1. Le directeur régional de l'alimentation, de l'agriculture et de la forêt ou
+son représentant, président ;
 
-2. Le directeur départemental chargé de la protection des populations ;
+2. Le directeur chargé de la protection des populations du département ou son
+représentant ;
 
-3. Le directeur départemental chargé de la protection des populations d'un
-département limitrophe à l'un de ceux dans lequel le vétérinaire sanitaire
-intéressé dispose d'un mandat sanitaire mais dans lequel il ne détient pas de
-mandat, désigné par le préfet en accord avec le préfet de ce département ;
+3. Le directeur chargé de la protection des populations d'un département
+limitrophe à l'un de ceux dans lequel le vétérinaire sanitaire intéressé dispose
+d'un mandat sanitaire mais dans lequel il ne détient pas de mandat, désigné par
+le préfet en accord avec le préfet de ce département ;
 
 4. Trois vétérinaires titulaires d'un mandat sanitaire dans le département,
 désignés respectivement par le président du conseil régional de l'ordre des

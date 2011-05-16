@@ -17,16 +17,14 @@ ou caprins non identifiés ou non accompagnés du document de circulation en
 méconnaissance de l'article D. 212-30 ;
 
 5° De ne pas respecter la restriction partielle ou totale de mouvement décidée
-par le directeur départemental chargé de la protection des populations en
-application de l'article D. 212-28 ;
+par le préfet en application de l'article D. 212-28 ;
 
 6° De ne pas s'assurer de la conformité de l'identification et des documents
 accompagnant le ou les animaux qu'il introduit dans son exploitation ou qu'il
 transporte en méconnaissance de l'article D. 212-31 ;
 
-7° De ne pas signaler toute anomalie d'identification au directeur départemental
-chargé de la protection des populations de son département d'implantation en
-méconnaissance de l'article D. 212-31 ;
+7° De ne pas signaler toute anomalie d'identification au préfet de son
+département d'implantation en méconnaissance de l'article D. 212-31 ;
 
 8° De ne pas procéder ou de ne pas être en mesure de justifier qu'il a été
 procédé, dans les conditions prévues à l'article D. 212-30-1, à la notification

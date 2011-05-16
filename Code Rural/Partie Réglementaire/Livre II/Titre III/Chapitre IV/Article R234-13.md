@@ -1,9 +1,7 @@
 Article R234-13
 ----
-Les résultats de l'analyse sont adressés au directeur départemental chargé de la
-protection des populations dont relève l'agent qui a réalisé le prélèvement. Le
-propriétaire ou le détenteur de l'animal ou du produit analysé est informé des
-résultats.
+Le propriétaire ou le détenteur de l'animal ou du produit analysé est informé
+des résultats par le préfet du département du lieu de prélèvement
 
 Si le détenteur de l'animal ou du produit conteste le résultat de l'analyse, il
 peut faire analyser l'échantillon qui lui a été confié. Il ne peut se prévaloir

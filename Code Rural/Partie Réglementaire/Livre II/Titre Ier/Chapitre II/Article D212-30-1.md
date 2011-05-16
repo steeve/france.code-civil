@@ -17,8 +17,8 @@ auprès des services compétents du ministère de l'agriculture afin que ceux-ci
 procèdent à son enregistrement.
 
 Le détenteur d'un ou plusieurs ovins ou caprins doit être en mesure de
-justifier, sur demande des agents mentionnés aux articles L. 221-5 et L. 221-6,
-de la notification effectuée par la personne chargée de sa réalisation.
+justifier, sur demande des agents mentionnés à l'article L. 221-5, de la
+notification effectuée par la personne chargée de sa réalisation.
 
 Le ministre chargé de l'agriculture précise, par arrêté, les conditions et les
 modalités de transmission des notifications de mouvements des animaux au

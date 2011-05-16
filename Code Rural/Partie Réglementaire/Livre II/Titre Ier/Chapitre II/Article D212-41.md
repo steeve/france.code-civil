@@ -9,9 +9,8 @@ européen et du Conseil du 28 janvier 2002 pour les porcins qui quittent un site
 ou un centre de rassemblement mais demeurent sur le territoire métropolitain ou
 dans un département d'outre-mer ;
 
-2° Un certificat sanitaire établi par un vétérinaire officiel au sens du 4 de
-l'article D. 212-34 pour les porcins à destination d'un Etat membre ou d'un pays
-tiers ;
+2° Un certificat sanitaire établi par un vétérinaire officiel pour les porcins à
+destination d'un Etat membre ou d'un pays tiers ;
 
 3° Un certificat sanitaire établi par un vétérinaire officiel du pays de
 provenance pour les porcins en provenance soit d'un Etat membre soit d'un pays

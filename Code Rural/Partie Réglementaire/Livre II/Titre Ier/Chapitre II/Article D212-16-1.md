@@ -5,6 +5,5 @@ bovine, ovine et caprine prévus par les règlements de la Commission n° 1082/2
 du 23 juin 2003 et n° 1505/2006 du 11 octobre 2006 peuvent être effectués, à
 l'exception de la constatation par procès-verbal des infractions, par les agents
 de l'Agence de services et de paiement, conformément au plan de contrôle
-communiqué par le directeur départemental chargé de la protection des
-populations. Ils transmettent à celui-ci leurs constatations afin qu'il décide
-des suites à leur donner.
+communiqué par le préfet . Ils transmettent à celui-ci leurs constatations afin
+qu'il décide des suites à leur donner.

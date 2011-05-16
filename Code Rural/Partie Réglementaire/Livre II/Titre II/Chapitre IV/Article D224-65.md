@@ -8,10 +8,9 @@ par les agents des services publics intéressés ;
 
 2° Non-observation des conditions fixées les articles R. 224-61 à D. 224-64 ;
 dès que cette éventualité se produit, le propriétaire doit sans délai cesser de
-se prévaloir de la patente et aviser, suivant le cas, le directeur départemental
-chargé de la protection des populations ou le médecin inspecteur de la santé ;
-ce dernier avertit alors immédiatement le directeur des services vétérinaires.
+se prévaloir de la patente et aviser, suivant le cas, le préfet ou le médecin
+inspecteur de la santé ; ce dernier avertit alors immédiatement le directeur des
+services vétérinaires.
 
-Aussitôt informé, le directeur départemental chargé de la protection des
-populations provoque la suspension immédiate de la patente et, éventuellement,
-son retrait.
+Aussitôt informé, le préfet provoque la suspension immédiate de la patente et,
+éventuellement, son retrait.

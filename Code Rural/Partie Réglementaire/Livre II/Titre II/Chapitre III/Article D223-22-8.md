@@ -6,8 +6,7 @@ animal suspect, ou d'avoir été contaminées à partir de celle-ci, le préfet 
 prendre également un arrêté de mise sous surveillance de ces exploitations, dans
 les conditions prévues aux articles D. 223-22-7 et D. 223-22-9.
 
-Le directeur départemental chargé de la protection des populations peut exiger
-de la part de l'éleveur, des personnes et des organismes disposant
-d'informations utiles de répondre à toute demande dans le cadre de l'enquête
-épidémiologique mise en place pour déterminer les exploitations visées à
-l'alinéa précédent.
+Le préfet peut exiger de la part de l'éleveur, des personnes et des organismes
+disposant d'informations utiles de répondre à toute demande dans le cadre de
+l'enquête épidémiologique mise en place pour déterminer les exploitations visées
+à l'alinéa précédent.

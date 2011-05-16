@@ -37,8 +37,10 @@ immatriculé au fichier central ;
 
 11° Pour tout détenteur de faire circuler un équidé non identifié ;
 
-12° (alinéa supprimé) ;
+12° Pour toute personne détenant un ou plusieurs équidés domestiques, de ne pas
+se déclarer conformément aux dispositions de l'article D. 212-50-1 ou de ne pas
+signaler, conformément aux dispositions de l'article D. 212-50-2, toute
+modification des informations déclarées ;
 
-13° Pour toute personne en charge de l'exécution du service public de
-l'équarrissage de ne pas avoir respecté ses obligations prévues au 3° du V de
-l'article R. 653-48.
+13° Pour toute personne responsable d'un établissement d'équarrissage, de ne pas
+avoir respecté ses obligations prévues au 3° du V de l'article D. 212-53.

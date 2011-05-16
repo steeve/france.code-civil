@@ -7,17 +7,15 @@ provenance d'un pays tiers, est remis par le détenteur de l'animal :
 l'établissement, lequel doit avant l'abattage s'assurer que le numéro national
 d'identification de l'animal, son sexe et son type racial correspondent aux
 mentions portées sur le passeport ou le document d'accompagnement, et le
-transmettre, en signalant les différences éventuelles, à l'agent responsable du
-service d'inspection sanitaire mentionné à l'article L. 231-2 ou à son
-représentant ;
+transmettre, en signalant les différences éventuelles, au vétérinaire officiel
+de l'abattoir ;
 
 2° En cas d'enlèvement du cadavre par un établissement d'équarrissage, à
 l'exploitant de cet établissement, lequel doit s'assurer que le numéro national
 d'identification de l'animal, son sexe et son type racial correspondent aux
 mentions portées sur le passeport ou le document d'accompagnement et le
-transmettre, en signalant les différences éventuelles, au directeur
-départemental chargé de la protection des populations du département dans lequel
-l'établissement est situé ;
+transmettre, en signalant les différences éventuelles, au préfet du département
+dans lequel l'établissement est situé ;
 
-3° En cas d'exportation vers un pays tiers, au directeur départemental chargé de
-la protection des populations qui délivre le certificat sanitaire.
+3° En cas d'exportation vers un pays tiers, au préfet du département où a été
+délivré le certificat sanitaire.

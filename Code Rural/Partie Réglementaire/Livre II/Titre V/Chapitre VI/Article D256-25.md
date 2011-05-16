@@ -8,10 +8,10 @@ compte des ministres chargés de l'agriculture et de l'environnement :
 2° De tenir à jour la liste des organismes d'inspection, des centres de
 formation agréés et des inspecteurs détenant un certificat ;
 
-3° D'instruire les dossiers des ressortissants de la Communauté européenne ou
-d'Etats partie à l'Espace économique européen et notamment les dossiers de
-déclaration de prestation de services occasionnelle ou de demande de
-reconnaissance de qualification prévus aux articles D. 256-27 et D. 256-28 ;
+3° D'instruire les dossiers des ressortissants de l'Union européenne ou d'Etats
+partie à l'Espace économique européen et notamment les dossiers de déclaration
+de prestation de services occasionnelle ou de demande de reconnaissance de
+qualification prévus aux articles D. 256-27 et D. 256-28 ;
 
 4° D'assurer une veille technologique, normative et réglementaire et de
 proposer, en fonction des évolutions constatées, des adaptations des méthodes de

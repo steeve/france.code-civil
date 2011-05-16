@@ -14,11 +14,11 @@ chaque médicament, prévu par l'autorisation de mise sur le marché ou fixé, l
 cas échéant, par le vétérinaire dans sa prescription, est écoulé ;
 
 2° Les additifs contenus dans l'alimentation des animaux sont autorisés
-conformément aux dispositions du décret du 28 novembre 1973 portant application
-de la loi du 1er août 1905 sur la répression des fraudes dans la vente des
-marchandises et des falsifications des denrées alimentaires, en ce qui concerne
-les additifs destinés à l'alimentation des animaux et le délai de retrait prévu,
-le cas échéant, par l'autorisation est écoulé.
+conformément aux dispositions du règlement (CE) n° 1831/2003 du Parlement
+européen et du Conseil du 22 décembre 2003 relatif aux additifs destinés à
+l'alimentation des animaux, en ce qui concerne les additifs destinés à
+l'alimentation des animaux et le délai de retrait prévu, le cas échéant, par
+l'autorisation est écoulé.
 
 II. - Toutefois, pendant l'écoulement du temps d'attente pour les médicaments ou
 du délai de retrait pour les additifs, les animaux mentionnés au I, s'ils ne
@@ -41,10 +41,9 @@ médicament ou de la période de retrait de l'additif pour des raisons de santé
 publique ou de protection de la santé animale.
 
 Dans ce cas, lors de la présentation à l'abattoir, le détenteur des animaux
-informe le représentant des services vétérinaires de l'abattoir ou le directeur
-départemental chargé de la protection des populations, le cas échéant par une
-mention portée sur le certificat vétérinaire d'information, de ce que les
-conditions prévues au I ne sont pas remplies.
+informe le vétérinaire officiel de l'abattoir, le cas échéant par une mention
+portée sur le certificat vétérinaire d'information, de ce que les conditions
+prévues au I ne sont pas remplies.
 
 Les denrées issues de ces animaux sont consignées dans l'attente des résultats
 des contrôles. Les denrées contenant une quantité de résidus excédant les

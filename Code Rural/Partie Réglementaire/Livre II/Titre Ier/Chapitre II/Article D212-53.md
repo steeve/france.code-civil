@@ -29,10 +29,9 @@ carte d'immatriculation ou, le cas échéant, l'attestation provisoire
 d'identification doivent être remis à l'exploitant ou au gestionnaire de
 l'abattoir. Celui-ci doit, avant l'abattage, s'assurer que le document
 correspond aux caractéristiques de l'équidé ou à son numéro de transpondeur
-électronique. Il transmet le document, en signalant les anomalies éventuelles, à
-l'agent assurant les fonctions d'inspection sanitaire mentionnées à l'article L.
-231-2 ou à son représentant. Le document est ensuite transmis par l'inspection
-sanitaire au gestionnaire du fichier central.
+électronique. Il transmet le document, en signalant les anomalies éventuelles,
+au vétérinaire officiel de l'abattoir. Le document est ensuite transmis par
+l'inspection sanitaire au gestionnaire du fichier central.
 
 2° Ces dispositions ne sont pas applicables aux équidés destinés directement à
 l'abattoir en vue d'un abattage immédiat, introduits sur le territoire
@@ -42,9 +41,9 @@ documents et certificats sanitaires conformes à la réglementation communautair
 
 3° En cas d'enlèvement d'un cadavre en dehors d'un abattoir, le document
 d'identification et la carte d'immatriculation ou, le cas échéant, l'attestation
-provisoire d'identification sont remis à la personne en charge de l'exécution du
-service public de l'équarrissage, laquelle transmet le document, en signalant
-les anomalies éventuelles, au préfet du département dans lequel l'établissement
-est situé. Le document est transmis par le préfet au gestionnaire du fichier
-central. Le cas échéant, la personne en charge de l'exécution du service public
-de l'équarrissage signale au préfet l'absence de document d'identification.
+provisoire d'identification sont remis au représentant de l'établissement
+d'équarrissage, lequel transmet le document, en signalant les anomalies
+éventuelles, au préfet du département dans lequel l'établissement est situé. Le
+document est transmis par le préfet au gestionnaire du fichier central. Le cas
+échéant, le représentant de l'établissement d'équarrissage signale au préfet
+l'absence de document d'identification.

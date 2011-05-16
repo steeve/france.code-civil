@@ -2,15 +2,14 @@ Article R223-34
 ----
 Un animal éventuellement contaminé de rage est :
 
-1° Soumis aux mêmes mesures de surveillance que l'animal suspect de rage à
-l'origine de l'éventuelle contamination, dans le cas où ce dernier est soumis
+1° Soumis à des mesures de surveillance définies par le préfet dans le cas où,
+l'animal suspect de rage à l'origine de l'éventuelle contamination est soumis
 aux mesures de surveillance prescrites au deuxième alinéa de l'article L. 223-9
 ;
 
-2° Ou soumis à des mesures appropriées déterminées par le directeur
-départemental chargé de la protection des populations, si l'animal suspect de
-rage à l'origine d'une éventuelle contamination est inconnu ou en fuite, ou s'il
-s'agit du cas énoncé au c du 4° de l'article R. 223-25.
+2° Ou soumis à des mesures appropriées déterminées par le préfet , si l'animal
+suspect de rage à l'origine d'une éventuelle contamination est inconnu ou en
+fuite, ou s'il s'agit du cas énoncé au c ou au d du 4° de l'article R. 223-25.
 
 Le maire peut ordonner par arrêté l'abattage de l'animal éventuellement
 contaminé de rage dans le cas où il présente un danger pour les personnes ou
@@ -26,4 +25,4 @@ L'animal éventuellement contaminé de rage dont la conservation par son
 propriétaire a été autorisée ne peut faire l'objet d'aucune transaction à titre
 gratuit ou onéreux pendant une période fixée par arrêté du ministre chargé de
 l'agriculture. Il ne peut être transporté ni abattu pendant cette période sans
-autorisation du directeur départemental chargé de la protection des populations.
+autorisation du préfet .

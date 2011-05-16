@@ -27,5 +27,5 @@ recherche ;
 
 -les personnes chargées de l'équarrissage ;
 
--les agents et organismes mentionnés aux articles L. 214-19, L. 214-20, L. 231-2
-et L. 231-4.
+-les agents et organismes mentionnés aux articles L. 221-5, L. 231-2 et L.
+231-4.

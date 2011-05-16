@@ -1,9 +1,7 @@
 Article D224-64
 ----
 La patente vétérinaire et médicale est accordée sur demande de l'intéressé, par
-arrêté préfectoral pris sur la proposition du directeur départemental chargé de
-la protection des populations et après avis favorable du médecin inspecteur de
-la santé.
+arrêté préfectoral.
 
 Sa validité ne peut excéder une année.
 

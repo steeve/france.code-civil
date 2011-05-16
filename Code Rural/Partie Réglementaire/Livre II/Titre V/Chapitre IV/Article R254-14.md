@@ -15,6 +15,5 @@ présenter ses observations au préfet de région.
 
 Le préfet de région statue sur le retrait de l'agrément.
 
-Durant cette période, le directeur régional de l'alimentation, de l'agriculture
-et de la forêt ou le directeur de l'agriculture et de la forêt pour les
-départements d'outre-mer peut suspendre l'agrément de l'organisme.
+Durant cette période, le préfet de région peut suspendre l'agrément de
+l'organisme.

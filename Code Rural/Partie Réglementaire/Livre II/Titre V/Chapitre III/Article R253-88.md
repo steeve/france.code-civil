@@ -2,7 +2,7 @@ Article R253-88
 ----
 Les demandes d'autorisation ou de modification d'autorisation sont adressées au
 ministre chargé de l'agriculture par toute personne physique ou morale disposant
-d'un siège permanent au sein de la Communauté européenne.
+d'un siège permanent au sein de l'Union européenne.
 
 La composition et les modalités de présentation des dossiers de demande
 d'autorisation ou de modification d'autorisation ainsi que la liste des pièces

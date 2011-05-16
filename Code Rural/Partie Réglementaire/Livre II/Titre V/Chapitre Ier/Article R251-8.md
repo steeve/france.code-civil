@@ -1,8 +1,8 @@
 Article R251-8
 ----
 Lorsque les résultats des contrôles prévus à l'article D. 251-22 ne sont pas
-satisfaisants, les agents mentionnés au I de l'article L. 251-18 peuvent
-prescrire, outre les mesures mentionnées au II de l'article L. 251-14 :
+satisfaisants, les agents mentionnés à l'article L. 250-2 peuvent prescrire,
+outre les mesures mentionnées au II de l'article L. 251-14 :
 
 1° Le retrait des produits infectés ou infestés de l'envoi ;
 

@@ -24,11 +24,11 @@ l'agriculture fixe par arrêté les modalités des épreuves.
 
 Le certificat est également attribué, selon des modalités fixées par arrêté du
 ministre chargé de l'agriculture, aux professionnels, autres que ceux mentionnés
-à l'article L. 204-1, ressortissants d'un Etat membre de la Communauté
-européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
-qui justifient d'un titre de formation ou d'une attestation de compétence d'un
+à l'article L. 204-1, ressortissants d'un Etat membre de l'Union européenne ou
+d'un autre Etat partie à l'accord sur l'Espace économique européen qui
+justifient d'un titre de formation ou d'une attestation de compétence d'un
 niveau équivalent ou immédiatement inférieur, au sens des articles 11 et 13 de
-la directive 2005 / 36 / CE du 7 septembre 2005, à celui exigé en France pour
+la directive 2005/36/ CE du 7 septembre 2005, à celui exigé en France pour
 exercer les activités mentionnées aux articles L. 254-1 et L. 254-2. Si l'accès
 ou l'exercice de cette activité n'est pas réglementé dans l'Etat membre
 d'origine, les professionnels doivent en outre justifier de deux années

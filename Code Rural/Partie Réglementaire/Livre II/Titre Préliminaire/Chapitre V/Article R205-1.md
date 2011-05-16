@@ -1,7 +1,7 @@
 Article R205-1
 ----
-Les agents mentionnés aux articles L. 212-13, L. 214-21, L. 221-7, au III de
-l'article L. 231-2 et, le cas échéant, au I de l'article L. 251-18 prêtent,
+Les agents mentionnés au I de l'article L. 205-1 et à l'article L. 212-13, qui
+ne sont pas assermentés pour l'exercice d'une autre mission judiciaire, prêtent,
 devant le tribunal de grande instance de leur résidence administrative, le
 serment suivant : " Je jure et promets de bien et loyalement remplir mes
 fonctions et d'observer en tout les devoirs qu'elles m'imposent. Je jure

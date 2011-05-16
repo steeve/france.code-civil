@@ -13,5 +13,4 @@ Les animaux suspects de rage dont la conservation par leur propriétaire a été
 autorisée par arrêté préfectoral ne peuvent faire l'objet d'aucune transaction à
 titre gratuit ou onéreux, aussi longtemps qu'ils sont soumis aux mesures de
 surveillance prescrites au deuxième alinéa de l'article L. 223-9. Ils ne peuvent
-être transportés ni abattus pendant cette période sans autorisation du directeur
-départemental chargé de la protection des populations.
+être transportés ni abattus pendant cette période sans autorisation du préfet .

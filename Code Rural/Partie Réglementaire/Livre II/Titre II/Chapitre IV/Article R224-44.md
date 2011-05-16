@@ -8,6 +8,5 @@ l'article R. 224-38.
 Le ministre chargé de l'agriculture pour plusieurs départements ou pour
 l'ensemble du territoire national et les préfets pour leur département peuvent
 réglementer la circulation et le transport des bovins dont il n'est pas établi
-par une attestation de provenance délivrée par le directeur départemental chargé
-de la protection des populations qu'ils sont indemnes de leucose bovine
+par une attestation de provenance qu'ils sont indemnes de leucose bovine
 enzootique, ainsi que leur accès à tout lieu fréquenté par d'autres bovins.

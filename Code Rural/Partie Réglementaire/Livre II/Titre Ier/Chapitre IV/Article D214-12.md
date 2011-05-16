@@ -13,9 +13,9 @@ généalogique désignera un jury d'appel composé d'au minimum trois experts
 choisis dans la liste visée à l'alinéa précédent du présent article, dont un
 accepté par l'appelant.
 
-Le directeur départemental des territoires dans le département duquel doivent
-avoir lieu les opérations de confirmation est informé des dates et des lieux de
-rassemblement. Il peut y assister ou s'y faire représenter.
+Le préfet du département dans lequel doivent avoir lieu les opérations de
+confirmation est informé des dates et des lieux de rassemblement. Il peut y
+assister ou s'y faire représenter.
 
 A titre exceptionnel, le ministre chargé de l'agriculture peut désigner une
 commission composée de deux ou trois personnalités chargées d'examiner si les

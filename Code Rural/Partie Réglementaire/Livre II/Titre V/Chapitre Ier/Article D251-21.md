@@ -1,9 +1,9 @@
 Article D251-21
 ----
-I. - Lorsque les végétaux, produits végétaux et autres objets figurant sur la
+I.-Lorsque les végétaux, produits végétaux et autres objets figurant sur la
 liste mentionnée au A du V de l'article D. 251-1 doivent être accompagnés d'un
-passeport phytosanitaire, les agents habilités en vertu du I de l'article L.
-251-18 vérifient que :
+passeport phytosanitaire, les agents mentionnés à l'article L. 250-2 vérifient
+que :
 
 1° Le passeport phytosanitaire accompagne les végétaux, produits végétaux ou
 autres objets et qu'il est fixé, de façon qu'il ne puisse être réutilisé ;
@@ -12,18 +12,18 @@ autres objets et qu'il est fixé, de façon qu'il ne puisse être réutilisé ;
 phytosanitaire de remplacement qui accompagnent les végétaux, produits végétaux
 ou autres objets sont dûment remplies, en application de l'article D. 251-17 ;
 
-3° Le passeport phytosanitaire comporte la marque "ZP" lorsque les végétaux,
+3° Le passeport phytosanitaire comporte la marque " ZP " lorsque les végétaux,
 produits végétaux et autres objets sont autorisés pour une ou plusieurs zones
 spécifiques protégées ;
 
-4° Le passeport phytosanitaire, qui en remplace un autre, comporte la marque
-"RP" ;
+4° Le passeport phytosanitaire, qui en remplace un autre, comporte la marque "
+RP " ;
 
 5° Le passeport phytosanitaire comporte l'indication du nom du pays d'origine ou
 du pays d'expédition lorsqu'il est délivré pour des végétaux, produits végétaux
 ou autres objets originaires de pays tiers à la Communauté européenne.
 
-II. - Les contrôles portent sur la conformité du passeport phytosanitaire et le
+II.-Les contrôles portent sur la conformité du passeport phytosanitaire et le
 respect des exigences mentionnées au IV de l'article D. 251-1. Ils sont réalisés
 de manière aléatoire et sans discrimination en ce qui concerne l'origine des
 végétaux, produits végétaux ou autres objets originaires de pays tiers à la

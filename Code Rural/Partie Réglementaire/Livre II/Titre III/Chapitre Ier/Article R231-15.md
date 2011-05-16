@@ -31,7 +31,7 @@ nuisibles soient source de contamination ;
 éviter toute contamination ;
 
 7° S'assurer que les denrées respectent les normes fixées par la législation
-alimentaire mentionnée à l'article L. 231-2 ;
+alimentaire mentionnée à l'article L. 231-1 ;
 
 8° Conserver les denrées à des températures qui n'affectent pas leurs
 caractéristiques en matière de sécurité.

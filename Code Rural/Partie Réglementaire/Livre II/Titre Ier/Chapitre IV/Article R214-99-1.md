@@ -1,7 +1,7 @@
 Article R214-99-1
 ----
 Les demandeurs d'une autorisation d'expérimenter, ressortissants d'un Etat
-membre de la Communauté européenne, d'un Etat partie à l'accord sur l'Espace
+membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace
 économique européen, qui effectuent sur le territoire national, à titre
 temporaire et occasionnel, des prestations de services sont réputés remplir les
 conditions de qualification professionnelle requises sous réserve d'être
@@ -14,9 +14,9 @@ Lorsqu'ils effectuent pour la première fois leur prestation en France, ils
 doivent en informer au préalable l'autorité administrative par une déclaration
 écrite.
 
-La déclaration doit être adressée à la direction départementale chargée de la
-protection des populations du département dans laquelle la prestation est
-effectuée. Elle comporte les éléments prévus par l'article R. 204-1.
+La déclaration doit être adressée au préfet du département dans laquelle la
+prestation est effectuée. Elle comporte les éléments prévus par l'article R.
+204-1.
 
 Lorsque la vérification des qualifications professionnelles du prestataire fait
 apparaître une différence substantielle entre ces qualifications et la formation

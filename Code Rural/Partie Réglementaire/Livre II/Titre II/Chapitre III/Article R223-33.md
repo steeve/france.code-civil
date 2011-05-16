@@ -19,5 +19,4 @@ Les animaux contaminés de rage dont la conservation par leur propriétaire a é
 autorisée ne peuvent faire l'objet d'aucune transaction à titre gratuit ou
 onéreux pendant une période fixée par arrêté du ministre chargé de
 l'agriculture. Ils ne peuvent être transportés ni abattus pendant cette période
-sans autorisation du directeur départemental chargé de la protection des
-populations.
+sans autorisation du préfet .

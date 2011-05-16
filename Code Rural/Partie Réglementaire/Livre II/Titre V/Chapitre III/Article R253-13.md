@@ -11,4 +11,4 @@ du produit phytopharmaceutique sur l'environnement.
 
 L'intéressé ou le ministre, s'il s'agit d'un produit composé en tout ou partie
 d'organismes génétiquement modifiés transmet ces informations à la Commission
-des Communautés européennes et aux autres Etats membres.
+européenne et aux autres Etats membres.

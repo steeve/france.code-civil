@@ -9,5 +9,5 @@ Les établissements et équipes de transplantation agréés reçoivent un numér
 d'enregistrement vétérinaire.
 
 Les établissements, équipes de transplantation et vétérinaires responsables
-agréés sont soumis à des inspections régulières par les agents mentionnés aux
-articles L. 221-5 et L. 221-6.
+agréés sont soumis à des inspections régulières par les agents mentionnés à
+l'article L. 221-5.

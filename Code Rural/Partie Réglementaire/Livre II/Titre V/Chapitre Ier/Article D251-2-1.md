@@ -1,14 +1,11 @@
 Article D251-2-1
 ----
 Le registre officiel du contrôle phytosanitaire mentionné au II de l'article L.
-251-12 est tenu dans chaque région par la direction régionale de l'alimentation,
-de l'agriculture et de la forêt (service régional de la protection des végétaux)
-et par la direction de l'agriculture et de la forêt (service de la protection
-des végétaux) dans les départements d'outre-mer.
+251-12 est tenu dans chaque région par le préfet de région.
 
-La demande d'inscription sur ce registre est adressée par chaque établissement à
-la direction régionale de l'alimentation, de l'agriculture et de la forêt ou à
-la direction de l'agriculture et de la forêt dont il dépend.
+La demande d'inscription sur ce registre est adressée par chaque établissementau
+préfet de la région ou à la direction de l'agriculture et de la forêt dont il
+dépend.
 
 Elle doit être accompagnée d'une déclaration sur l'activité du demandeur, la
 nature, la quantité, l'origine et la destination des végétaux, produits végétaux

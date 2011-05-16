@@ -1,8 +1,8 @@
 Article R221-4
 ----
-I. - Le mandat sanitaire est attribué par le préfet du département dans lequel
-le demandeur entend exécuter les opérations mentionnées aux articles L. 221-11,
-L. 222-1 et L. 231-3.
+I.-Le mandat sanitaire est attribué par le préfet du département dans lequel le
+demandeur entend exécuter les opérations mentionnées aux articles L. 221-11, L.
+222-1 et L. 231-3.
 
 La candidature à un mandat sanitaire est adressée au préfet par le
 pétitionnaire, accompagnée d'un dossier comprenant :
@@ -25,27 +25,26 @@ dispositions de l'article R. 221-12 ;
 
 4° L'engagement :
 
-- de respecter les prescriptions techniques édictées par le ministre chargé de
+-de respecter les prescriptions techniques édictées par le ministre chargé de
 l'agriculture et ses représentants pour l'exécution des opérations mentionnées
 au premier alinéa du présent article ;
 
-- de respecter les tarifs de rémunération y afférents ;
+-de respecter les tarifs de rémunération y afférents ;
 
-- de tenir à jour ses connaissances nécessaires à l'exercice du mandat ;
+-de tenir à jour ses connaissances nécessaires à l'exercice du mandat ;
 
-- de rendre compte au directeur départemental chargé de la protection des
-populations de l'exécution des missions et des difficultés éventuellement
-rencontrées à cette occasion.
+-de rendre compte au préfet de l'exécution des missions et des difficultés
+éventuellement rencontrées à cette occasion.
 
-II. - Le mandat sanitaire est attribué pour l'ensemble du département dans
-lequel le vétérinaire a établi son domicile professionnel administratif tel que
-défini à l'article R. 242-52 ; des mandats sanitaires peuvent également être
-attribués, sur demande du vétérinaire, par les préfets d'un ou plusieurs autres
+II.-Le mandat sanitaire est attribué pour l'ensemble du département dans lequel
+le vétérinaire a établi son domicile professionnel administratif tel que défini
+à l'article R. 242-52 ; des mandats sanitaires peuvent également être attribués,
+sur demande du vétérinaire, par les préfets d'un ou plusieurs autres
 départements. Le nombre total de mandats détenus ne peut être supérieur à quatre
 et ces mandats doivent être attribués dans des départements limitrophes entre
 eux.
 
-III. - Pour l'exécution des opérations mentionnées à l'article L. 221-11,
+III.-Pour l'exécution des opérations mentionnées à l'article L. 221-11,
 l'exercice du mandat sanitaire peut être limité à un nombre maximum
 d'exploitations ou d'animaux, dans les conditions définies par arrêté du
 ministre chargé de l'agriculture.

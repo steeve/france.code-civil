@@ -1,11 +1,7 @@
 Article R254-2
 ----
-Sur proposition du directeur régional de l'alimentation, de l'agriculture et de
-la forêt ou du directeur de l'agriculture et de la forêt pour les départements
-d'outre-mer, le préfet de région délivre l'agrément à l'organisme et lui
-attribue un numéro.L'agrément est notifié à l'organisme par le directeur
-régional de l'alimentation, de l'agriculture et de la forêt ou le directeur de
-l'agriculture et de la forêt pour les départements d'outre-mer.
+L'agrément est délivré par le préfet de région à l'organisme, auquel il attribue
+un numéro.
 
 Dans le cas d'un refus d'agrément, le directeur régional de l'alimentation, de
 l'agriculture et de la forêt ou le directeur de l'agriculture et de la forêt

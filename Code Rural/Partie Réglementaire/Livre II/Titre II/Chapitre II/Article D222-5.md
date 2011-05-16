@@ -11,7 +11,6 @@ et de conservation de ce matériel.
 
 Les centres de collecte de sperme ou de stockage de semence ne peuvent recevoir,
 détenir et utiliser que de la semence qui provient d'un centre de collecte ou de
-stockage agréé en France ou dans un autre Etat membre de la Communauté ou dans
-un Etat tiers figurant dans la liste établie par la Commission de la Communauté
-et qui est conservée et transportée dans des conditions offrant toute garantie
-sanitaire.
+stockage agréé en France ou dans un autre Etat membre de l'Union ou dans un Etat
+tiers figurant dans la liste établie par la Commission de l'Union et qui est
+conservée et transportée dans des conditions offrant toute garantie sanitaire.

@@ -11,5 +11,4 @@ moins aux mesures prescrites par les services vétérinaires aux fins de
 prophylaxie.
 
 Les adhésions reçues par les organismes de défense sanitaire mentionnées à
-l'article R. 224-48 sont transmises au directeur départemental chargé de la
-protection des populations.
+l'article R. 224-48 sont transmises au préfet .

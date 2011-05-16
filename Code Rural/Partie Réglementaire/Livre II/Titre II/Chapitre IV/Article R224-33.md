@@ -8,7 +8,7 @@ sommes perçues au titre des articles R. 224-31 et R. 224-32 ; ce remboursement
 ne peut être prescrit par le préfet qu'après avis d'une commission siégeant sous
 sa présidence ou celle de son représentant et comprenant une personnalité
 désignée par la chambre départementale d'agriculture, le directeur départemental
-chargé de la protection des populations et un représentant des organismes de
-défense sanitaire. Le directeur départemental des territoires participe, avec
-voix consultative, aux délibérations de cette commission, ou s'y fait
-représenter.
+chargé de la protection des populations ou son représentant et un représentant
+des organismes de défense sanitaire. Le directeur départemental des territoires
+ou son représentant participe, avec voix consultative, aux délibérations de
+cette commission, ou s'y fait représenter.

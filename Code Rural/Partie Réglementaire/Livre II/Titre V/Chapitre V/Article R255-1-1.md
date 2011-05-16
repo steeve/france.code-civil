@@ -13,9 +13,9 @@ ministres chargés de la santé, du travail, de la consommation et de
 l'environnement.
 
 Dans le cas de produits bénéficiant déjà d'une homologation ou d'une
-autorisation de mise sur le marché délivrée par un autre Etat membre de la
-Communauté européenne ou partie à l'accord instituant l'Espace économique
-européen, ce délai est de trois mois.
+autorisation de mise sur le marché délivrée par un autre Etat membre de l'Union
+européenne ou partie à l'accord instituant l'Espace économique européen, ce
+délai est de trois mois.
 
 Dans le cas de produits bénéficiant déjà d'une homologation ou d'une
 autorisation provisoire de vente ou d'importation en France, ce délai est de

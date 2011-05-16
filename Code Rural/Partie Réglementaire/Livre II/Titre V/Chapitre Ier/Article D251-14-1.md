@@ -4,10 +4,10 @@ Sont considérés comme mécanismes de solidarité au sens de l'article L. 251-9
 systèmes d'indemnisation qui visent à couvrir tout ou partie du préjudice
 financier résultant de la destruction des végétaux, produits végétaux et autres
 objets mentionnés au I de l'article L. 251-12 ordonnée en application des
-articles L. 251-8 ou L. 251-14 par les agents mentionnés au I de l'article L.
-251-18. Le préjudice financier est entendu comme la perte de la valeur nette
-comptable des végétaux, produits végétaux et autres objets mentionnés au I de
-l'article L. 251-12.
+articles L. 251-8 ou L. 251-14 par les agents mentionnés à l'article L. 250-2.
+Le préjudice financier est entendu comme la perte de la valeur nette comptable
+des végétaux, produits végétaux et autres objets mentionnés au I de l'article L.
+251-12.
 
 Les organismes gestionnaires de ces mécanismes doivent présenter des capacités
 financières suffisantes et sont agréés par le préfet, selon des modalités

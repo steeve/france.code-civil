@@ -8,10 +8,10 @@ du code du travail , à l'exclusion des machines mentionnées à l'article R.
 phytopharmaceutiques énumérés à l'article L. 253-1 du présent code ;
 
 2° Matériel " neuf " : tout pulvérisateur n'ayant pas été utilisé dans un Etat
-membre de la Communauté européenne ;
+membre de l'Union européenne ;
 
 3° Matériel " d'occasion " : tout pulvérisateur ayant déjà été utilisé dans un
-Etat membre de la Communauté européenne ;
+Etat membre de l'Union européenne ;
 
 4° Professionnels du machinisme : tout responsable de la première mise sur le
 marché national d'un pulvérisateur ou toute personne vendant un pulvérisateur

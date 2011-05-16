@@ -1,8 +1,7 @@
 Article D223-2
 ----
-Sont notamment tenus de déclarer au préfet (directeur départemental chargé de la
-protection des populations) l'apparition d'une maladie figurant à l'article D.
-223-1 :
+Sont notamment tenus de déclarer au préfet l'apparition d'une maladie figurant à
+l'article D. 223-1 :
 
 - les propriétaires ou détenteurs d'animaux ;
 

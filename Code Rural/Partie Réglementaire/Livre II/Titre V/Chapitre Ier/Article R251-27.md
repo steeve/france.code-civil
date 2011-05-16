@@ -1,11 +1,8 @@
 Article R251-27
 ----
 Les demandes d'agrément et, une fois l'agrément accordé, les demandes de lettre
-officielle d'autorisation sont adressées par le responsable des activités à la
-direction régionale de l'alimentation, de l'agriculture et de la forêt, service
-régional de la protection des végétaux, ou à la direction de l'agriculture et de
-la forêt, service de la protection des végétaux, pour les départements
-d'outre-mer, dans le ressort de laquelle s'exercent ses activités.
+officielle d'autorisation sont adressées par le responsable des activités au
+préfet de la région, dans le ressort de laquelle s'exercent ses activités.
 
 La demande d'agrément comporte les éléments suivants :
 

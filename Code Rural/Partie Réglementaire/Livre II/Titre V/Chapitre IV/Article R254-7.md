@@ -8,8 +8,8 @@ adapté au nombre de candidats ayant déposé une demande.
 Il est constitué d'une façon paritaire :
 
 1° D'une part, de membres de l'enseignement et de la formation professionnelle
-publics et privés et d'agents des services régionaux de la protection des
-végétaux, ou départementaux pour les départements d'outre-mer ;
+publics et privés et d'agents de directions régionales de l'alimentation, de
+l'agriculture et de la forêt ;
 
 2° D'autre part, de professionnels des secteurs d'activité mentionnés à
 l'article R. 254-1.

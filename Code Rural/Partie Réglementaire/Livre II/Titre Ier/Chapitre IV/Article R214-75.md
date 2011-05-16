@@ -14,4 +14,4 @@ est situé l'abattoir utilisé pour l'abattage rituel peut accorder des
 autorisations individuelles sur demande motivée des intéressés.
 
 Les sacrificateurs doivent être en mesure de justifier de cette habilitation aux
-agents mentionnés aux articles L. 214-19 et L. 214-20.
+agents mentionnés à l'article L. 221-5.

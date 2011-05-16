@@ -3,8 +3,8 @@ Article R251-9
 Lorsque les résultats des contrôles prévus aux articles D. 251-15 et D. 251-21
 ne sont pas satisfaisants ou lorsque la présence d'un organisme nuisible au sens
 de la deuxième phrase du premier alinéa de l'article L. 251-3 est constatée, les
-agents mentionnés au I de l'article L. 251-18 peuvent, en fonction de la nature
-de l'organisme nuisible, des végétaux, produits végétaux ou autres objets
+agents mentionnés à l'article L. 250-2 peuvent, en fonction de la nature de
+l'organisme nuisible, des végétaux, produits végétaux ou autres objets
 contaminés et de l'ampleur de la contamination, ordonner, outre les mesures
 mentionnées au II de l'article L. 251-14 :
 

@@ -5,5 +5,5 @@ le préfet dans les conditions prévues à l'article R. 221-9, est habilité à
 procéder aux opérations de police sanitaire.
 
 Pour effectuer les opérations prévues à l'article L. 231-3, les vétérinaires
-titulaires d'un mandat sanitaire sont choisis par le directeur départemental
-chargé de la protection des populations et placés sous son autorité.
+titulaires d'un mandat sanitaire sont nommés par le préfet et placés sous son
+autorité.
