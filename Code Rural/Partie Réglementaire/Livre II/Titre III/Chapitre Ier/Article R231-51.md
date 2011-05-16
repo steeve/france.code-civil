@@ -6,10 +6,9 @@ fonctionnement et d'hygiène fixées par arrêté conjoint du ministre chargé d
 l'agriculture et du ministre chargé des pêches maritimes et des cultures
 marines, et qui font l'objet d'un agrément. L'agrément est accordé par le
 préfet, sur demande du responsable du centre, sur proposition du directeur
-départemental chargé de la protection des populations et après avis du directeur
-départemental des territoires et de la mer. L'arrêté interministériel fixe les
-conditions de délivrance de l'agrément ainsi que les modalités du contrôle
-officiel exercé sur les activités et les installations.
+départemental chargé de la protection des populations. L'arrêté interministériel
+fixe les conditions de délivrance de l'agrément ainsi que les modalités du
+contrôle officiel exercé sur les activités et les installations.
 
 Toute construction d'un centre de purification doit recevoir préalablement un
 avis sanitaire favorable des services départementaux concernés.
