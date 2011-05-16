@@ -1814,7 +1814,7 @@ Cayenne
 
 Cayenne
 
-Cantons d'Approuague-Kaw, Cayenne 1, r canton Nord-Ouest, Cayenne 2e canton
+Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, Cayenne 2e canton
 Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e
 canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana,
 Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura,
@@ -3789,8 +3789,9 @@ Rennes
 
 [Fougères
 
-Cantons d'Antrain, Fougères-Nord, Fougères-Sud, Louvigné-du-Désert,
-Saint-Aubin-du-Cormier et Saint-Brice-en-Coglès. (3)]
+Cantons d'Antrain, Argentré-du-Plessis, Châteaubourg, Fougères-Nord,
+Fougères-Sud, La Guerche-de-Bretagne, Louvigné-du-Désert, Retiers,
+Saint-Aubin-du-Cormier, Saint-Brice-en-Coglès, Vitré-Est, Vitré-Ouest (22)]
 
 [Montfort-sur-Meu
 
@@ -3805,22 +3806,23 @@ Maure-de-Bretagne, Pipriac et Redon.
 
 [Rennes
 
-Cantons de Betton, Bruz, Cesson-Sévigné, Châteaugiron, Hédé, Janzé, Liffré,
-Mordelles, Rennes-Brequigny, Rennes-Centre, Rennes-Centre Ouest,
-Rennes-Centre-Sud, Rennes-Est, Rennes-le-Blosne, Rennes Nord, Rennes-Nord-Est,
-Rennes-Nord-Ouest, Rennes-Sud-Est, Rennes-Sud-Ouest et Saint-Aubin-d'Aubigné.
-(3)]
-
-[Rennes
-
 Cantons d'Antrain, Argentré-du-Plessis, Bécherel, Betton, Bruz, Cesson-Sévigné,
 Châteaubourg, Châteaugiron, Fougères-Nord, Fougères-Sud, Hédé, Janzé, La
 Guerche-de-Bretagne, Liffré, Louvigné-du-Désert, Montauban-de-Bretagne,
 Montfort-sur-Meu, Mordelles, Plélan-le-Grand, Rennes-Brequigny, Rennes-Centre,
-Rennes-Centre-Ouest, Rennes-Centre-Sud, Rennes-Est, Rennes-le Blosne,
-Rennes-Nord, Rennes-Nord-Est, Rennes-Nord-Ouest, Rennes Sud-Est,
+Rennes-Centre-Ouest, Rennes-Centre-Sud, Rennes-Est, Rennes-le-Blosne,
+Rennes-Nord, Rennes-Nord-Est, Rennes-Nord-Ouest, Rennes-Sud-Est,
 Rennes-Sud-Ouest, Retiers, Saint-Aubin-d'Aubigné, Saint-Aubin-du-Cormier,
-Saint-Brice-en-Coglès, Saint-Méen-le-Grand, Vitré-Est et Vitré-Ouest. (4)]
+Saint-Brice-en-Coglès, Saint-Méen-le-Grand, Vitré-Est et Vitré-Ouest (21)]
+
+[Rennes
+
+Cantons de Bécherel, Betton, Bruz, Cesson-Sévigné, Châteaugiron, Hédé, Janzé,
+Liffré, Montauban-de-Bretagne, Montfort-sur-Meu, Mordelles, Plélan-le-Grand,
+Rennes-Brequigny, Rennes-Centre, Rennes-Centre-Ouest, Rennes-Centre-Sud,
+Rennes-Est, Rennes-le-Blosne, Rennes-Nord, Rennes-Nord-Est, Rennes-Nord-Ouest,
+Rennes-Sud-Est, Rennes-Sud-Ouest, Saint-Aubin-d'Aubigné, Saint-Méen-le-Grand
+(22)]
 
 [Vitré
 
@@ -4440,7 +4442,7 @@ Montauban
 
 Cantons de Caussade, Caylus, Lafrançaise, Molières, Monclar-de-Quercy,
 Montauban, 1er canton, Montauban 2e canton, Montauban 3ème canton, Montauban 4e
-canton, Montauban 5e canton, Montauban 6e canton, Montpezat- de-Quercy,
+canton, Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy,
 Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier.
 
 Cour d'appel de Versailles
@@ -4751,3 +4753,7 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 (19) Applicable jusqu'au 30 juin 2014.
 
 (20) Applicable à compter du 1er juillet 2014.
+
+(21) Applicable jusqu'au 31 décembre 2011.
+
+(22) Applicable à compter du 1er janvier 2012.
