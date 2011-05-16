@@ -29,3 +29,12 @@ par l'élection " sont substitués respectivement aux termes : " nombres
 d'assesseurs " et " la dénomination du tribunal intéressé par l'élection " ; et
 pour l'application des dispositions de l'article R. 492-28, les termes : "
 nombre de membres " sont substitués aux termes : " nombres d'assesseurs ".
+
+En l'absence de candidats ou lorsque l'élection des représentants des bailleurs
+non preneurs et des preneurs non bailleurs n'a pas permis la désignation du
+nombre de membres requis, ceux-ci sont désignés, dans la limite des sièges
+restant à pourvoir, par le préfet sur proposition respective des organisations
+départementales de bailleurs et de preneurs les plus représentatives au plan
+national. Les propositions des organisations comportent un nombre de noms double
+de celui des sièges à pourvoir. Les membres ainsi désignés ont voix
+délibérative.
