@@ -13,8 +13,8 @@ l'alimentation, de l'environnement et du travail dans son domaine de compétence
 3° Les vétérinaires officiels mentionnés au V de l'article L. 231-2 du code
 rural et de la pêche maritime ;
 
-4° Les agents de la direction générale de la concurrence, de la consommation et
-de la répression des fraudes.
+4° Les agents de la concurrence, de la consommation et de la répression des
+fraudes.
 
 Les agents mentionnés aux 1° et 3° du présent article agissent conformément aux
 articles L. 1421-1, L. 1421-2, L. 1421-2-1, L. 1421-3 et L. 5127-2.

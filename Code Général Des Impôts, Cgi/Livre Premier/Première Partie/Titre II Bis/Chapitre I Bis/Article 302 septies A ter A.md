@@ -10,6 +10,13 @@ périodicité n'excède pas un an (1) ; les stocks et les travaux en cours peuve
 être évalués selon une méthode simplifiée définie par un arrêté du ministre
 chargé du budget (2).
 
+1 bis. A l'exception de celles ayant la qualité de commerçant qui sont
+contrôlées par une société qui établit des comptes en application de l'article
+L. 233-16 du code de commerce, les personnes morales soumises au régime défini à
+l'article 302 septies A bis du présent code et qui ne sont pas visées au 1 du
+présent article peuvent n'enregistrer les créances et les dettes qu'à la clôture
+de l'exercice.
+
 2. Les frais relatifs aux carburants consommés lors des déplacements
 professionnels de l'exploitant peuvent être enregistrés forfaitairement d'après
 un barème qui est publié chaque année.

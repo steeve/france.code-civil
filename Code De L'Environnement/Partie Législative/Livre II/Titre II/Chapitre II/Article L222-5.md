@@ -13,7 +13,7 @@ protection de l'atmosphère peut renforcer les normes de qualité de l'air
 mentionnées à l'article L. 221-1 ou, le cas échéant, les normes spécifiques
 mentionnées au 2° du I de l'article L. 222-1, et préciser les orientations
 permettant de les respecter. Il peut, également, renforcer les mesures
-techniques mentionnées aux articles L. 224-1, L. 224-2 et L. 224-4.
+techniques mentionnées aux L. 224-1 et L. 224-2.
 
 Le décret mentionné à l'article L. 222-7 précise les mesures qui peuvent être
 mises en oeuvre pour atteindre les objectifs fixés par le plan de protection de

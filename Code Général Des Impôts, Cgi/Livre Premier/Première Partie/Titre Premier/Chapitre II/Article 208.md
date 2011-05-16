@@ -5,15 +5,13 @@ Sont également exonérés de l'impôt sous réserve des dispositions de l'artic
 
 1° (Abrogé à compter du 1er janvier 1993) ;
 
-1° bis-Les sociétés d'investissement qui sont constituées et fonctionnent dans
-les conditions prévues au titre II de l'ordonnance n° 45-2710 du 2 novembre 1945
-ou qui sont régies par les articles L. 214-147 et suivants du code monétaire et
-financier, pour la partie des bénéfices provenant des produits nets de leur
-portefeuille ou des plus-values qu'elles réalisent sur la vente des titres ou
-parts sociales faisant partie de ce portefeuille. Ces sociétés cesseront de
-bénéficier des dispositions du présent alinéa trois ans après leur création, si
-leurs actions ne sont pas admises aux négociations sur un marché réglementé
-avant ce délai ;
+1° bis-Les sociétés d'investissement qui sont régies par les articles L. 214-147
+et suivants du code monétaire et financier, pour la partie des bénéfices
+provenant des produits nets de leur portefeuille ou des plus-values qu'elles
+réalisent sur la vente des titres ou parts sociales faisant partie de ce
+portefeuille. Ces sociétés cesseront de bénéficier des dispositions du présent
+alinéa trois ans après leur création, si leurs actions ne sont pas admises aux
+négociations sur un marché réglementé avant ce délai ;
 
 1° bis A-Les sociétés d'investissement à capital variable régies par les
 articles L. 214-2 et suivants du code monétaire et financier pour les bénéfices
@@ -28,11 +26,9 @@ vente des titres ou parts sociales faisant partie de ce portefeuille ;
 1° quater et 1° quinquies (Abrogés à compter du 1er janvier 1993) ;
 
 2° Les sociétés ayant pour objet exclusif la gestion d'un portefeuille de
-valeurs mobilières et constituées dans les conditions prévues au titre II de
-l'ordonnance du 2 novembre 1945 susvisée ou qui sont régies par les articles L.
-214-147 et suivants du code monétaire et financier, pour les plus-values
-qu'elles réalisent sur la cession de titres ou de parts sociales faisant partie
-de ce portefeuille ;
+valeurs mobilières qui sont régies par les articles L. 214-147 et suivants du
+code monétaire et financier, pour les plus-values qu'elles réalisent sur la
+cession de titres ou de parts sociales faisant partie de ce portefeuille ;
 
 3° et 3° bis (Abrogés) ;
 

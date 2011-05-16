@@ -3,9 +3,9 @@ Article L215-1
 I.-Sont qualifiés pour procéder dans l'exercice de leurs fonctions à la
 recherche et à la constatation des infractions au présent livre :
 
-1° Les agents de la direction générale de la concurrence, de la consommation et
-de la répression des fraudes, de la direction générale des douanes et de la
-direction générale des finances publiques ;
+1° Les agents de la concurrence, de la consommation et de la répression des
+fraudes, de la direction générale des douanes et de la direction générale des
+finances publiques ;
 
 2° Les inspecteurs du travail ;
 
@@ -19,8 +19,8 @@ publique ayant la qualité de médecin ou de pharmacien ;
 ;
 
 6° Les agents de la sous-direction de la métrologie au ministère chargé de
-l'industrie ainsi que ceux des directions régionales de l'industrie, de la
-recherche et de l'environnement ;
+l'industrie ainsi que ceux des services déconcentrés de l'Etat chargés des
+contrôles dans le domaine de la métrologie ;
 
 7° Les agents de l'Etat agréés et commissionnés par le ministre de l'agriculture
 ;

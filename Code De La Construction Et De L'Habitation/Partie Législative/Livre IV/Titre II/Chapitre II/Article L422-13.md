@@ -13,6 +13,6 @@ qui concerne les sociétés anonymes coopératives d'habitations à loyer modér
 existant au 16 juillet 1971 et toutes dispositions transitoires nécessaires.
 
 Les dispositions des alinéas précédents sont également applicables aux sociétés
-anonymes coopératives de production d'habitations à loyer modéré mentionnées à
-l'article L. 422-3 désireuses de transférer leurs réserves au profit d'autres
-sociétés anonymes coopératives de production d'habitations à loyer modéré.
+anonymes coopératives d'habitations à loyer modéré mentionnées aux articles L.
+422-3 et L. 422-3-2 désireuses de transférer leurs réserves au profit d'autres
+sociétés anonymes coopératives d'habitations à loyer modéré.

@@ -19,11 +19,13 @@ défini à l'article L. 253-1 ne bénéficiant pas d'une autorisation.
 
 5° Le fait, pour les personnes mentionnées aux I et II de l'article L. 253-9, de
 ne pas procéder aux opérations d'élimination conformément aux prescriptions de
-ce même article et de ses textes d'application. I bis. ― Est puni d'un an
-d'emprisonnement et de 30 000 € d'amende : 1° Le fait de faire la publicité ou
-de recommander l'utilisation d'un produit défini à l'article L. 253-1 en donnant
-une image exagérément sécurisante ou de nature à banaliser l'utilisation du
-produit ;
+ce même article et de ses textes d'application.
+
+I bis. ― Est puni d'un an d'emprisonnement et de 30 000 € d'amende :
+
+1° Le fait de faire la publicité ou de recommander l'utilisation d'un produit
+défini à l'article L. 253-1 en donnant une image exagérément sécurisante ou de
+nature à banaliser l'utilisation du produit ;
 
 2° Le fait de faire la publicité ou de recommander l'utilisation d'un produit
 défini à l'article L. 253-1 portant les mentions visées au deuxième alinéa de
@@ -53,13 +55,11 @@ pas les mentions portées sur l'étiquette ;
 4° Le fait de ne pas respecter les conditions d'utilisation d'un produit fixées
 par l'autorité administrative ;
 
-5° Le fait de ne pas respecter les prescriptions édictées en application de
-l'article L. 253-16 ordonnées par les agents habilités en vertu du I de
-l'article L. 253-14.
+5° Le fait de ne pas respecter les prescriptions édictées en application des
+articles L. 250-6, L. 250-7 et L. 253-16 par les agents mentionnés à l'article
+L. 250-2.
 
-III.-Est puni de six mois d'emprisonnement et de 7500 euros d'amende le fait de
-mettre obstacle à l'exercice des fonctions des agents habilités en vertu de
-l'article L. 253-14.
+III. (Abrogé)
 
 IV.-Les personnes physiques coupables de l'une des infractions prévues au
 présent article encourent également la peine complémentaire de l'affichage et de

@@ -14,6 +14,6 @@ journaliste et, si l'accord le prévoit, du titre de presse dans lequel l'œuvre
 été initialement publiée.
 
 Ces exploitations hors du titre de presse tel que défini à l'article L. 132-35
-du présent code donnent lieu à rémunération, sous forme de droits d'auteur ou de
-salaire, dans des conditions déterminées par l'accord d'entreprise mentionné au
-premier alinéa du présent article.
+du présent code donnent lieu à rémunération complémentaire, sous forme de droits
+d'auteur ou de salaire, dans des conditions déterminées par l'accord
+d'entreprise mentionné au premier alinéa du présent article.

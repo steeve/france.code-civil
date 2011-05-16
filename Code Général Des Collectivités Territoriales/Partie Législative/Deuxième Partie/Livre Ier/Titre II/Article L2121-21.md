@@ -18,3 +18,9 @@ l'élection est acquise au plus âgé.
 Le conseil municipal peut décider, à l'unanimité, de ne pas procéder au scrutin
 secret aux nominations ou aux présentations, sauf disposition législative ou
 réglementaire prévoyant expressément ce mode de scrutin.
+
+Si une seule candidature a été déposée pour chaque poste à pourvoir au sein des
+commissions municipales ou dans les organismes extérieurs, ou si une seule liste
+a été présentée après appel de candidatures, les nominations prennent effet
+immédiatement, dans l'ordre de la liste le cas échéant, et il en est donné
+lecture par le maire.

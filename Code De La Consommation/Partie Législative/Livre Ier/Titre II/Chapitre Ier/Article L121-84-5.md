@@ -12,7 +12,9 @@ L. 32 précité.
 Les services mentionnés au premier alinéa sont accessibles depuis le territoire
 métropolitain, les départements d'outre-mer et les collectivités territoriales
 de Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon, par un
-numéro d'appel non géographique, fixe et non surtaxé.
+numéro d'appel non géographique, fixe et non surtaxé. Aucun coût complémentaire
+autre que celui de la communication téléphonique ne peut être facturé pour ces
+services au titre de cette communication téléphonique.
 
 Lorsque le consommateur appelle depuis les territoires énumérés au deuxième
 alinéa les services mentionnés au premier alinéa en ayant recours au service

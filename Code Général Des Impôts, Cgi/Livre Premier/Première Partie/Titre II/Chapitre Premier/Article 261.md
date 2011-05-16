@@ -86,8 +86,8 @@ de l'enseignement primaire, secondaire et supérieur dispensé dans les
 à L. 731-16 du code de l'éducation ;
 
 de l'enseignement universitaire dispensé dans les établissements publics et dans
-les établissements privés visés aux articles L. 613-7, L. 714-2, L. 719-10 et L.
-719-11 du code de l'éducation ;
+les établissements privés visés aux articles L. 613-7, L. 714-2 et L. 719-10 du
+code de l'éducation ;
 
 de l'enseignement technique ou professionnel réglementé par les articles L.
 441-10 à L. 441-13, L. 443-1 à L. 443-4 et L. 424-1 à L. 424-4 du code de

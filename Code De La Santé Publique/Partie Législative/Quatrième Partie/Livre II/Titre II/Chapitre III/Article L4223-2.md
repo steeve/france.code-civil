@@ -1,8 +1,9 @@
 Article L4223-2
 ----
-L'usage sans droit de la qualité de pharmacien ou d'un diplôme, certificat ou
-autre titre légalement requis pour l'exercice de cette profession est puni comme
-le délit d'usurpation de titre prévu à l'article 433-17 du code pénal.
+L'usage de la qualité de pharmacien, sans remplir les conditions exigées par
+l'article L. 4221-1, ou l'usage sans droit d'un diplôme, certificat ou autre
+titre légalement requis pour l'exercice de cette profession, sont passibles des
+sanctions prévues à l'article 433-17 du code pénal.
 
 Les personnes physiques encourent également la peine complémentaire de fermeture
 définitive ou pour une période de cinq ans au plus de l'établissement dans

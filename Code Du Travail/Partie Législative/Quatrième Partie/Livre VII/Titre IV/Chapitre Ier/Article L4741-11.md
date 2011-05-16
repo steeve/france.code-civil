@@ -12,11 +12,11 @@ qu'elle fixe, un plan de réalisation de ces mesures, accompagné de l'avis moti
 du comité d'entreprise et du comité d'hygiène et de sécurité ou, à défaut, des
 délégués du personnel.
 
-La juridiction adopte le plan présenté après avis du directeur départemental du
-travail, de l'emploi et de la formation professionnelle. A défaut de
-présentation ou d'adoption d'un tel plan, elle condamne l'entreprise à exécuter,
-pendant une période qui ne peut excéder cinq ans, un plan de nature à faire
-disparaître les manquements mentionnés au premier alinéa.
+La juridiction adopte le plan présenté après avis du directeur régional des
+entreprises, de la concurrence, de la consommation, du travail et de l'emploi. A
+défaut de présentation ou d'adoption d'un tel plan, elle condamne l'entreprise à
+exécuter, pendant une période qui ne peut excéder cinq ans, un plan de nature à
+faire disparaître les manquements mentionnés au premier alinéa.
 
 Dans ce dernier cas, les dépenses mises à la charge de l'entreprise ne peuvent
 annuellement dépasser le montant annuel moyen des cotisations d'accidents du

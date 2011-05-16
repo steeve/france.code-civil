@@ -30,3 +30,6 @@ La commission prend en compte, dans le cas où la requête est fondée sur le
 dernier alinéa (4°) de l'article 622, l'ensemble des faits nouveaux ou éléments
 inconnus sur lesquels ont pu s'appuyer une ou des requêtes précédemment
 rejetées.
+
+Lorsque la demande en révision est manifestement irrecevable, le président de la
+commission de révision ou son délégué peut la rejeter par ordonnance motivée.

@@ -1,6 +1,6 @@
 Article 225-7
 ----
-Le proxénétisme est puni de dix ans d'emprisonnement et de 1500000 euros
+Le proxénétisme est puni de dix ans d'emprisonnement et de 1 500 000 euros
 d'amende lorsqu'il est commis :
 
 1° A l'égard d'un mineur ;
@@ -31,7 +31,7 @@ public ;
 qu'elles constituent une bande organisée ;
 
 10° Grâce à l'utilisation, pour la diffusion de messages à destination d'un
-public non déterminé, d'un réseau de télécommunications.
+public non déterminé, d'un réseau de communication électronique.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté
 sont applicables aux infractions prévues par le présent article.

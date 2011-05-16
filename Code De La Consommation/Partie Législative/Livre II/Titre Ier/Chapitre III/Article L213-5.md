@@ -1,81 +1,44 @@
 Article L213-5
 ----
-Sera considéré comme étant en état de récidive légale quiconque ayant été
-condamné à des peines correctionnelles par application des chapitres II à VI du
-présent titre ou des textes énumérés ci-après aura, dans les cinq ans qui
-suivront la date à laquelle cette condamnation sera devenue définitive, commis
-un nouveau délit tombant sous l'application des chapitres II à VII du présent
-titre ou des textes énumérés ci-après :
+Sont considérés, au regard de la récidive, comme une même infraction, les délits
+prévus et réprimés par :
 
-- les articles L. 141, L. 142 et L. 144, les chapitres Ier et IV du titre Ier,
-les chapitres II et III du titre II et les chapitres Ier et VIII du titre III du
-livre V du code de la santé publique (1) ;
+― les articles L. 115-3, L. 115-16, L. 115-18, L. 115-20, L. 115-22, L. 115-24,
+L. 115-26, L. 115-30, L. 121-6, L. 121-14, L. 213-1 à L. 213-2-1, L. 213-3, L.
+213-4, L. 214-1 à L. 214-3 et L. 217-1 à L. 217-11 du présent code ;
 
-- les articles L. 231-6 et L. 231-7 du chapitre Ier du titre III et l'article L.
-263-2 du chapitre III du titre VI du livre II du code du travail ;
+― les articles L. 716-9 à L. 716-11 du code de la propriété intellectuelle ;
 
-- le chapitre VII du présent titre, la section 1 du chapitre V du titre Ier du
-livre Ier, la section 1 du chapitre Ier du titre II du livre Ier, l'article L.
-115-30 du présent code ;
+― les articles L. 1343-2 à L. 1343-4, L. 3322-11, L. 3351-1, L. 3351-2, L.
+4212-1, L. 4212-2, L. 4212-3, L. 4212-4, L. 4212-5, L. 4212-7, L. 4223-1, L.
+4223-4, L. 4323-2, L. 5421-1, L. 5421-2, L. 5421-3, L. 5421-4, L. 5421-5, L.
+5421-6, L. 5421-6-1, L. 5424-1, L. 5424-3, L. 5424-6, L. 5424-11, L. 5431-2, L.
+5431-5, L. 5431-6, L. 5431-7, L. 5432-1, L. 5441-1, L. 5441-2, L. 5441-3, L.
+5441-4, L. 5441-5, L. 5441-6, L. 5441-8, L. 5441-9, L. 5442-1, L. 5442-2, L.
+5442-4, L. 5442-9, L. 5442-10, L. 5442-11, L. 5461-3 et L. 5462-3 du code de la
+santé publique ;
 
-- loi du 14 août 1889 sur les vins ;
+― les articles L. 237-1, L. 237-2, L. 237-3, L. 253-17, L. 254-9, L. 255-8, L.
+671-9 et L. 671-10 du code rural et de la pêche maritime ;
 
-- loi du 11 juillet 1891 tendant à réprimer les fraudes dans la vente des vins ;
+― la loi du 30 décembre 1931 tendant à réprimer la fraude dans le commerce de
+l'essence de térébenthine et des produits provenant des végétaux résineux ;
 
-- loi du 24 juillet 1894 relative aux fraudes commises dans la vente des vins ;
-
-- loi du 6 avril 1897 concernant la fabrication, la circulation et la vente des
-vins artificiels ;
-
-- les articles L. 253-12 et L. 253-13 du code rural et de la pêche maritime ;
-
-- loi du 11 juillet 1906 relative à la protection des conserves de sardines, de
-légumes et de prunes contre la fraude étrangère, dont les dispositions ont été
-rendues applicables à toutes les conserves étrangères de poissons entrant en
-France par la loi du 28 juin 1913 ;
-
-- loi du 4 août 1929 réglementant le sucrage des vins ;
-
-- loi du 1er janvier 1930 sur les vins ;
-
-- loi du 26 mars 1930 réprimant les fausses indications d'origine des
-marchandises ;
-
-- loi du 30 décembre 1931 tendant à réprimer la fraude dans le commerce de
-l'essence térébenthine et des produits provenant des végétaux résineux ;
-
-- loi du 29 juin 1934 tendant à assurer la loyauté du commerce des fruits et
+― la loi du 29 juin 1934 tendant à assurer la loyauté du commerce des fruits et
 légumes et à réprimer la vente des fruits véreux ;
 
-- loi du 3 juillet 1934 modifiée tendant à réglementer la fabrication des pâtes
+― la loi du 3 juillet 1934 tendant à réglementer la fabrication des pâtes
 alimentaires ;
 
-- loi du 2 juillet 1935 tendant à l'organisation et à l'assainissement des
+― la loi du 2 juillet 1935 tendant à l'organisation et à l'assainissement des
 marchés du lait et des produits résineux ;
 
-- loi du 25 juin 1936 tendant à la définition légale et à la protection du cuir
-et à la répression de la fraude dans la vente du cuir et des produits ouvrés du
-cuir ;
+― la loi du 25 juin 1936 tendant à la définition légale et à la protection du
+cuir et à la répression de la fraude dans la vente du cuir et des produits
+ouvrés en cuir ;
 
-- loi du 21 avril 1939 tendant à réprimer les fraudes dans la vente des objets
-en écaille et en ivoire ;
+― la loi du 21 avril 1939 tendant à réprimer les fraudes dans la vente des
+objets en écaille et en ivoire ;
 
-- loi du 3 février 1940 tendant à réglementer le commerce des produits destinés
-à l'alimentation des animaux ;
-
-- les articles L. 253-1 à L. 253-11 et les articles L. 253-14 à L. 253-17 du
-code rural et de la pêche maritime ;
-
-- loi n° 60-808 du 5 août 1960 d'orientation agricole ;
-
-- les articles L. 711-1 et suivants du code de la propriété intellectuelle ;
-
-- loi n° 71-383 du 22 mai 1971 relative à l'amélioration des essences
-forestières ;
-
-- loi n° 73-1097 du 12 décembre 1973 sur les appellations d'origine en matière
-viticole ;
-
-- les articles L. 255-1 à L. 255-11 du code rural et de la pêche maritime ;
-
-- les articles L. 645-1 et L. 671-7 du code rural et de la pêche maritime ;
+― la loi du 3 février 1940 tendant à réglementer le commerce des produits
+destinés à l'alimentation des animaux.

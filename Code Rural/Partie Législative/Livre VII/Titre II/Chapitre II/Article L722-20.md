@@ -54,12 +54,14 @@ dans les exploitations, entreprises, organismes et groupements ci-dessus
 énumérés ;
 
 8° Lorsque les sociétés dont ils sont les dirigeants relèvent des dispositions
-des 1° à 4° de l'article L. 722-1, présidents-directeurs généraux et directeurs
-généraux des sociétés anonymes, ainsi que gérants de sociétés à responsabilité
+des 1° à 4° de l'article L. 722-1, présidents du conseil d'administration,
+présidents-directeurs généraux, directeurs généraux et directeurs généraux
+délégués des sociétés anonymes, ainsi que gérants de sociétés à responsabilité
 limitée, à condition que lesdits gérants ne possèdent pas, ensemble, plus de la
 moitié du capital social, étant entendu que les parts appartenant, en toute
-propriété ou en usufruit, au conjoint et aux enfants mineurs non émancipés d'un
-gérant sont considérées comme possédées par ce dernier ;
+propriété ou en usufruit, au conjoint, au partenaire lié par un pacte civil de
+solidarité et aux enfants mineurs non émancipés d'un gérant sont considérées
+comme possédées par ce dernier ;
 
 9° Présidents et dirigeants des sociétés par actions simplifiées lorsque ces
 sociétés relèvent des 1° à 4° de l'article L. 722-1 ;

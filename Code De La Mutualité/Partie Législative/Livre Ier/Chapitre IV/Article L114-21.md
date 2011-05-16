@@ -1,7 +1,7 @@
 Article L114-21
 ----
-I. - Nul ne peut directement ou indirectement administrer ou diriger un
-organisme mutualiste :
+I.-Nul ne peut directement ou indirectement administrer ou diriger un organisme
+mutualiste :
 
 1° S'il a fait l'objet depuis moins de dix ans d'une condamnation définitive
 pour crime ;
@@ -9,8 +9,8 @@ pour crime ;
 2° S'il a fait l'objet depuis moins de dix ans d'une condamnation définitive à
 une peine d'au moins trois mois d'emprisonnement sans sursis pour :
 
-a) L'un des délits prévus aux articles 432-11, 433-1, 433-2, 433-3, 441-1, 441-8
-du code pénal, L. 152-6 du code du travail et L. 443-2 du code de commerce ;
+a) L'un des délits prévus aux articles 432-11,433-1,433-2,433-3,441-1 du code
+pénal, L. 152-6 du code du travail et L. 443-2 du code de commerce ;
 
 b) Vol, escroquerie, abus de confiance ;
 
@@ -68,11 +68,11 @@ ministère public la régularité et la légalité de cette décision et statue 
 chambre du conseil, l'intéressé dûment appelé, sur l'application en France de
 l'interdiction.
 
-II. - Les dispositions du I du présent article ne sont pas applicables aux
+II.-Les dispositions du I du présent article ne sont pas applicables aux
 personnes qui bénéficient d'une dispense d'inscription de la condamnation au
 bulletin n° 2 du casier judiciaire ou d'une réhabilitation.
 
-III. - Les personnes exerçant l'une des activités mentionnées au I du présent
+III.-Les personnes exerçant l'une des activités mentionnées au I du présent
 article doivent cesser leur activité dans un délai de trois mois à compter de la
 date à laquelle la décision de justice est devenue définitive.
 

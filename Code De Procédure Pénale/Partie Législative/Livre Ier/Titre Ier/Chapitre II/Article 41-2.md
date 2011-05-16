@@ -86,7 +86,8 @@ habilitées à mettre en oeuvre une telle mesure ;
 17° Se soumettre à une mesure d'injonction thérapeutique, selon les modalités
 définies aux articles L. 3413-1 à L. 3413-4 du code de la santé publique,
 lorsqu'il apparaît que l'intéressé fait usage de stupéfiants ou fait une
-consommation habituelle et excessive de boissons alcooliques.
+consommation habituelle et excessive de boissons alcooliques. La durée de la
+mesure est de vingt-quatre mois au plus.
 
 Lorsque la victime est identifiée, et sauf si l'auteur des faits justifie de la
 réparation du préjudice commis, le procureur de la République doit également

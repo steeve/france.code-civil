@@ -53,7 +53,7 @@ aux dispositions du chapitre III du titre II du livre Ier du code de
 l'environnement, après accord de la commune ou de l'établissement public de
 coopération intercommunale compétent, a porté à la fois sur le projet de plan de
 sauvegarde et de mise en valeur et sur la modification ou la révision du plan
-local d'urbanisme.L'approbation du plan de sauvegarde et de mise en valeur
+local d'urbanisme. L'approbation du plan de sauvegarde et de mise en valeur
 emporte alors modification ou révision du plan local d'urbanisme.
 
 La révision du plan de sauvegarde et de mise en valeur a lieu dans les formes
@@ -63,9 +63,9 @@ Le plan de sauvegarde et de mise en valeur peut également être modifié à
 condition que la modification envisagée ne porte pas atteinte à son économie
 générale ou ne réduise pas un espace boisé classé.
 
-La modification est décidée par l'autorité administrative, à la demande ou après
-consultation du conseil municipal de la commune ou de l'organe délibérant de
-l'établissement public de coopération intercommunale compétent, après avis de la
-commission locale du secteur sauvegardé et enquête publique réalisée
+La modification est approuvée par l'autorité administrative, à la demande ou
+après consultation du conseil municipal de la commune ou de l'organe délibérant
+de l'établissement public de coopération intercommunale compétent, après avis de
+la commission locale du secteur sauvegardé et enquête publique réalisée
 conformément aux dispositions du chapitre III du titre II du livre Ier du code
 de l'environnement.

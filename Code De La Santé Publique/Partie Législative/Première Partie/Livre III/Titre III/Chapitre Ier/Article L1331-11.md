@@ -12,8 +12,8 @@ territoriales ;
 réalisation des installations d'assainissement non collectif en application du
 même III ;
 
-4° Pour assurer le contrôle des déversements d'eaux usées autres que
-domestiques.
+4° Pour assurer le contrôle des déversements d'eaux usées autres que domestiques
+et des utilisations de l'eau assimilables à un usage domestique.
 
 En cas d'obstacle mis à l'accomplissement des missions visées aux 1°, 2° et 3°
 du présent article, l'occupant est astreint au paiement de la somme définie à

@@ -17,9 +17,9 @@ dispositions du code de la voirie routière ;
 4° Les fonctionnaires et agents publics habilités à constater les infractions au
 code de l'urbanisme ;
 
-5° Les ingénieurs des ponts et chaussées, les ingénieurs des travaux publics de
-l'Etat et les agents des services des ports maritimes commissionnés à cet effet
-;
+5° Les ingénieurs des ponts , des eaux et des forêts, les ingénieurs des travaux
+publics de l'Etat et les agents des services des ports maritimes commissionnés à
+cet effet ;
 
 6° Les agents habilités par les collectivités locales à constater les
 infractions au code de la route en matière d'arrêt et de stationnement des

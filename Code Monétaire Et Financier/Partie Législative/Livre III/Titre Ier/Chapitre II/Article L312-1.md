@@ -2,7 +2,9 @@ Article L312-1
 ----
 Toute personne physique ou morale domiciliée en France, dépourvue d'un compte de
 dépôt, a droit à l'ouverture d'un tel compte dans l'établissement de crédit de
-son choix.
+son choix. Toute personne physique de nationalité française résidant hors de
+France, dépourvue d'un compte de dépôt, bénéficie également du droit à
+l'ouverture d'un tel compte dans l'établissement de crédit de son choix.
 
 L'ouverture d'un tel compte intervient après remise auprès de l'établissement de
 crédit d'une déclaration sur l'honneur attestant le fait que le demandeur ne

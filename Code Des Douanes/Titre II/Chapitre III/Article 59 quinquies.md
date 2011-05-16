@@ -10,7 +10,7 @@ concurrence prévues aux articles 81 et 82 du traité, sans que puisse être
 opposée l'obligation de secret professionnel.
 
 Les agents de la direction générale des douanes et des droits indirects, les
-agents de la direction générale de la concurrence, de la consommation et de la
-répression des fraudes, ainsi que les officiers et agents de police judiciaire
-peuvent se communiquer spontanément tous les renseignements et documents détenus
-ou recueillis dans le cadre de leur mission de lutte contre la contrefaçon.
+agents de la concurrence, de la consommation et de la répression des fraudes,
+ainsi que les officiers et agents de police judiciaire peuvent se communiquer
+spontanément tous les renseignements et documents détenus ou recueillis dans le
+cadre de leur mission de lutte contre la contrefaçon.

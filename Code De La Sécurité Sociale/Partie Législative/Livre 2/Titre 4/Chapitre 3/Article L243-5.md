@@ -2,15 +2,16 @@ Article L243-5
 ----
 Dès lors qu'elles dépassent un montant fixé par décret, les créances
 privilégiées en application du premier alinéa de l'article L. 243-4, dues par un
-commerçant, un artisan ou une personne morale de droit privé même non
-commerçante, doivent être inscrites à un registre public tenu au greffe du
-tribunal de commerce ou du tribunal de grande instance dans le délai de neuf
-mois suivant leur date limite de paiement ou, le cas échéant, la date de
-notification de l'avertissement ou de la mise en demeure prévus à l'article L.
-244-2, lorsque la créance est constatée lors d'un contrôle organisé en
-application des dispositions de l'article L. 243-7. Le montant mentionné au
-présent alinéa est fixé en fonction de la catégorie à laquelle appartient le
-cotisant et de l'effectif de son entreprise.
+commerçant, une personne immatriculée au répertoire des métiers, une personne
+physique exerçant une activité professionnelle indépendante, y compris une
+profession libérale, ou une personne morale de droit privé, doivent être
+inscrites à un registre public tenu au greffe du tribunal de commerce ou du
+tribunal de grande instance dans le délai de neuf mois suivant leur date limite
+de paiement ou, le cas échéant, la date de notification de l'avertissement ou de
+la mise en demeure prévus à l'article L. 244-2, lorsque la créance est constatée
+lors d'un contrôle organisé en application des dispositions de l'article L.
+243-7. Le montant mentionné au présent alinéa est fixé en fonction de la
+catégorie à laquelle appartient le cotisant et de l'effectif de son entreprise.
 
 Toutefois, l'organisme créancier n'est pas tenu d'inscrire ces créances lorsque
 le débiteur respecte un plan d'apurement échelonné de sa dette. Dès que le plan

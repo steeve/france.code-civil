@@ -21,9 +21,7 @@ relative à certaines dispositions concernant les sociétés ;
 
 6°) (Abrogé) ;
 
-7°) les sociétés d'investissements régies par les titres Ier à III de
-l'ordonnance n° 45-2710 du 2 novembre 1945 et la loi n° 79-12 du 3 janvier 1979
-;
+7°) (Abrogé) ;
 
 8°) les sociétés d'aménagement foncier et d'établissement rural régies par
 l'article 15 de la loi n° 60-808 du 5 août 1960 dite loi d'orientation agricole

@@ -8,7 +8,10 @@ Bruxelles du 29 novembre 1969 sur l'intervention en haute mer en cas d'accident
 entraînant ou pouvant entraîner une pollution par les hydrocarbures, l'armateur
 ou le propriétaire du navire, le propriétaire ou l'exploitant de l'aéronef,
 engin ou plate-forme peuvent être mis en demeure de prendre toutes les mesures
-nécessaires pour mettre fin à ce danger.
+nécessaires pour mettre fin à ce danger. Il en est de même dans le cas de la
+perte d'éléments de la cargaison d'un navire, transportée en conteneurs, en
+colis, en citernes ou en vrac, susceptibles de créer un danger grave, direct ou
+indirect, pour l'environnement.
 
 Dans le cas où cette mise en demeure reste sans effet ou n'a pas produit les
 effets attendus dans le délai imparti, ou d'office en cas d'urgence, l'Etat peut

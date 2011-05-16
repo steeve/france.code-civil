@@ -8,13 +8,15 @@ respect des objectifs du développement durable :
 
 a) Le renouvellement urbain, le développement urbain maîtrisé, la
 restructuration des espaces urbanisés, la revitalisation des centres urbains et
-ruraux, la mise en valeur des entrées de ville et le développement rural ;
+ruraux ;
 
 b) L'utilisation économe des espaces naturels, la préservation des espaces
 affectés aux activités agricoles et forestières, et la protection des sites, des
 milieux et paysages naturels ;
 
 c) La sauvegarde des ensembles urbains et du patrimoine bâti remarquables ;
+
+1° bis La qualité urbaine, architecturale et paysagère des entrées de ville ;
 
 2° La diversité des fonctions urbaines et rurales et la mixité sociale dans
 l'habitat, en prévoyant des capacités de construction et de réhabilitation

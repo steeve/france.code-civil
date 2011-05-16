@@ -4,7 +4,8 @@ Les chiens et chats, préalablement à leur cession, à titre gratuit ou onéreu
 sont identifiés par un procédé agréé par le ministre chargé de l'agriculture mis
 en œuvre par les personnes qu'il habilite à cet effet. Il en est de même, en
 dehors de toute cession, pour les chiens nés après le 6 janvier 1999 âgés de
-plus de quatre mois.L'identification est à la charge du cédant.
+plus de quatre mois et pour les chats de plus de sept mois nés après le 1er
+janvier 2012. L'identification est à la charge du cédant.
 
 Dans les départements officiellement déclarés infectés de rage, l'identification
 est obligatoire pour tous les carnivores domestiques.

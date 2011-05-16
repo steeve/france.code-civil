@@ -17,9 +17,9 @@ sous-section :
 6° Les agents de la police de la navigation et de la surveillance des pêches
 maritimes ;
 
-7° Les ingénieurs des ponts et chaussées et les ingénieurs des travaux publics
-de l'Etat affectés aux services maritimes ainsi que les agents desdits services
-commissionnés à cet effet ;
+7° Les ingénieurs des ponts , des eaux et des forêts et les ingénieurs des
+travaux publics de l'Etat affectés aux services maritimes ainsi que les agents
+desdits services commissionnés à cet effet ;
 
 8° Les agents des douanes ;
 

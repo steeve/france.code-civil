@@ -1,6 +1,8 @@
 Article 1839
 ----
-Dans le cas de fausse mention d'enregistrement ou de formalité fusionnée, soit
-dans une minute, soit dans une expédition, le délinquant est poursuivi par la
-partie publique, sur la dénonciation du préposé de la régie, et condamné aux
-peines prononcées pour le faux.
+La fausse mention d'enregistrement ou de formalité fusionnée soit dans une
+minute, soit dans une expédition, est punie des peines prévues pour le faux par
+l'article 441-4 du code pénal.
+
+Les poursuites sont engagées par le ministère public sur la dénonciation du
+préposé de la régie.

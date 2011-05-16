@@ -19,5 +19,6 @@ sur l'arbitrage,
 
 de solliciter ou d'agréer, sans droit, à tout moment, directement ou
 indirectement, des offres, des promesses, des dons, des présents ou des
-avantages quelconques, pour lui-même ou pour autrui, en vue de l'accomplissement
-ou de l'abstention d'un acte de sa fonction ou facilité par sa fonction.
+avantages quelconques, pour lui-même ou pour autrui, pour accomplir ou avoir
+accompli, pour s'abstenir ou s'être abstenu d'accomplir un acte de sa fonction
+ou facilité par sa fonction.

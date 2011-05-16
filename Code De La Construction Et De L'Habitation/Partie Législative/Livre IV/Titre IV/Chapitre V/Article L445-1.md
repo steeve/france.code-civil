@@ -69,3 +69,24 @@ pour une fraction de son patrimoine au cours du dernier exercice connu.
 La pénalité est recouvrée au bénéfice de la Caisse de garantie du logement
 locatif social, dans les conditions prévues à l'avant-dernier alinéa de
 l'article L. 452-5.
+
+Nonobstant la date fixée au premier alinéa, les conventions globales de
+patrimoine qui ont été conclues entre l'Etat et les organismes d'habitations à
+loyer modéré avant le 27 mars 2009 peuvent faire l'objet d'un avenant qui
+intègre les dispositions propres des conventions d'utilité sociale. Le projet
+d'avenant est adressé par l'organisme d'habitations à loyer modéré au
+représentant de l'Etat dans le département où l'organisme a son siège dans un
+délai de trois mois à compter de la promulgation de la loi n° 2011-525 du 17 mai
+2011 de simplification et d'amélioration de la qualité du droit et signé dans un
+délai de six mois à compter de la même date. A compter de la date de signature
+de l'avenant susvisé, les conventions globales de patrimoine sont qualifiées de
+conventions d'utilité sociale. Si l'organisme d'habitations à loyer modéré n'a
+pas transmis le projet d'avenant dans un délai de trois mois à compter de la
+promulgation de la loi n° 2011-525 du 17 mai 2011 précitée, les sanctions
+prévues au neuvième alinéa du présent article sont applicables.
+
+Dans un délai de six mois à compter de la promulgation de la loi n° 2011-525 du
+17 mai 2011 précitée, les organismes d'habitations à loyer modéré n'ayant pas de
+patrimoine locatif concluent avec l'Etat une convention d'utilité sociale "
+accession " d'une durée de six ans renouvelable selon des modalités définies par
+décret.

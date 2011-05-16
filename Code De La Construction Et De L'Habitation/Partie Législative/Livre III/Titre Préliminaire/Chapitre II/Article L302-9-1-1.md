@@ -33,13 +33,13 @@ chargé du logement.
 
 II.-La commission nationale, présidée par un membre du Conseil d'Etat, est
 composée de deux membres de l'Assemblée nationale et de deux membres du Sénat,
-d'un membre de la Cour des comptes, d'un membre du Conseil général des ponts et
-chaussées, de représentants des associations nationales représentatives des élus
-locaux, de l'Union nationale des fédérations d'organismes d'habitations à loyer
-modéré et du Haut Comité pour le logement des personnes défavorisées, ainsi que
-de représentants des associations et organisations oeuvrant dans le domaine du
-logement des personnes défavorisées désignés par le Conseil national de
-l'habitat.
+d'un membre de la Cour des comptes, d'un membre du Conseil général de
+l'environnement et du développement durable, de représentants des associations
+nationales représentatives des élus locaux, de l'Union nationale des fédérations
+d'organismes d'habitations à loyer modéré et du Haut Comité pour le logement des
+personnes défavorisées, ainsi que de représentants des associations et
+organisations oeuvrant dans le domaine du logement des personnes défavorisées
+désignés par le Conseil national de l'habitat.
 
 Cette commission entend le maire de la commune concernée ainsi que le
 représentant de l'Etat du département dans lequel la commune est située.

@@ -3,13 +3,13 @@ Article L1211-4-2
 Il est créé au sein du comité des finances locales une formation restreinte
 dénommée commission consultative d'évaluation des normes. Composée de
 représentants des administrations compétentes de l'Etat, du Parlement et des
-collectivités territoriales, elle est présidée par un représentant élu des
-collectivités territoriales.
+collectivités territoriales, la commission est présidée par un représentant élu
+des collectivités territoriales.
 
-Elle est consultée préalablement à leur adoption sur l'impact financier des
-mesures règlementaires créant ou modifiant des normes à caractère obligatoire
-concernant les collectivités territoriales, leurs groupements et leurs
-établissements publics.
+Elle est consultée préalablement à leur adoption sur l'impact financier, qu'il
+soit positif, négatif ou neutre, des mesures règlementaires créant ou modifiant
+des normes à caractère obligatoire concernant les collectivités territoriales,
+leurs groupements et leurs établissements publics.
 
 Sont exclues de cette consultation préalable les normes justifiées directement
 par la protection de la sûreté nationale.

@@ -8,10 +8,10 @@ Toutefois, peuvent être saisis dans la limite d'un montant mensuel déterminé
 dans les conditions prévues au troisième alinéa de l'article L. 553-2 :
 
 1°) pour le paiement des dettes alimentaires ou l'exécution de la contribution
-aux charges du mariage et liées à l'entretien des enfants : l'allocation pour
-jeune enfant, les allocations familiales, le complément familial, l'allocation
-de rentrée scolaire, l'allocation de soutien familial et l'allocation parentale
-d'éducation ;
+aux charges du mariage et liées à l'entretien des enfants : l'allocation de base
+et le complément de libre choix d'activité de la prestation d'accueil du jeune
+enfant, les allocations familiales, le complément familial, l'allocation de
+rentrée scolaire, l'allocation de soutien familial ;
 
 2°) pour le paiement des frais entraînés par les soins, l'hébergement,
 l'éducation ou la formation notamment dans les établissements mentionnés à

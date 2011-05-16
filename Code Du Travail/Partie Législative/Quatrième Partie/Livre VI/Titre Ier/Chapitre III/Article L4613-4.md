@@ -13,4 +13,5 @@ travail.
 En cas de désaccord avec l'employeur, le nombre des comités distincts ainsi que
 les mesures de coordination sont fixés par l'inspecteur du travail. Cette
 décision est susceptible d'un recours hiérarchique devant le directeur régional
-du travail, de l'emploi et de la formation professionnelle.
+des entreprises, de la concurrence, de la consommation, du travail et de
+l'emploi.

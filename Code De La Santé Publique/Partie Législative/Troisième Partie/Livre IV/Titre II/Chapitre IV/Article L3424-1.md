@@ -4,7 +4,7 @@ Les personnes mises en examen pour les délits prévus par les articles L. 3421-
 et L. 3425-2 peuvent se voir notifier, par ordonnance du juge d'instruction, du
 juge des enfants ou du juge des libertés et de la détention, une mesure
 d'injonction thérapeutique selon les modalités définies aux articles L. 3413-1 à
-L. 3413-4.
+L. 3413-4. La durée de la mesure est de vingt-quatre mois au plus.
 
 L'exécution de cette ordonnance se poursuit, s'il y a lieu, après la clôture de
 l'information, les règles fixées par les deuxième à quatrième alinéas de

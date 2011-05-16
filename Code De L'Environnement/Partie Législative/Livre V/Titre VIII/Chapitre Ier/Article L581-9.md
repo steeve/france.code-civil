@@ -18,7 +18,7 @@ alinéa sont déterminées par le décret mentionné au premier alinéa.
 
 L'installation des dispositifs de publicité lumineuse autres que ceux qui
 supportent des affiches éclairées par projection ou par transparence est soumise
-à l'autorisation du maire.
+à l'autorisation de l'autorité compétente.
 
 Tout système de mesure automatique de l'audience d'un dispositif publicitaire ou
 d'analyse de la typologie ou du comportement des personnes passant à proximité

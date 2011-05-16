@@ -12,8 +12,9 @@ personnes spécialement désignées par le juge aux affaires familiales, ainsi q
 d'entrer en relation avec elles, de quelque façon que ce soit ;
 
 2° Interdire à la partie défenderesse de détenir ou de porter une arme et, le
-cas échéant, lui ordonner de remettre au greffe contre récépissé les armes dont
-elle est détentrice ;
+cas échéant, lui ordonner de remettre au service de police ou de gendarmerie
+qu'il désigne les armes dont elle est détentrice en vue de leur dépôt au greffe
+;
 
 3° Statuer sur la résidence séparée des époux en précisant lequel des deux
 continuera à résider dans le logement conjugal et sur les modalités de prise en

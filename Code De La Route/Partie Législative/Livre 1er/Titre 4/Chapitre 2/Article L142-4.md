@@ -11,8 +11,8 @@ b) Les agents de police municipale ;
 
 2° Sur les voies publiques ressortissant à leurs attributions :
 
-a) Les ingénieurs des ponts et chaussées et les ingénieurs des travaux publics
-de l'Etat, assermentés ;
+a) Les ingénieurs des ponts, des eaux et des forêts et les ingénieurs des
+travaux publics de l'Etat, assermentés ;
 
 b) Les techniciens des travaux publics de l'Etat, les contrôleurs principaux des
 travaux publics de l'Etat et les agents des travaux publics de l'Etat, quand ils

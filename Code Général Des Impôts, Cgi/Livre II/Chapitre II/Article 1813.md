@@ -1,10 +1,10 @@
 Article 1813
 ----
-a. Est puni d'une amende pénale de 6 000 euros, quiconque, n'étant pas titulaire
-de la dérogation prévue à l'article 311 bis, a, à titre professionnel, utilisé
-un appareil de distillation ambulant ;
+a. Est puni d'une amende de 6 000 €, quiconque, n'étant pas titulaire de la
+dérogation prévue à l'article 311 bis, a, à titre professionnel, utilisé un
+appareil de distillation ambulant ;
 
-b. Toute infraction aux dispositions de l'article 306 est punie des mêmes peines
+b. Toute infraction aux dispositions de l'article 306 est punie de la même peine
 ;
 
 c. En cas de récidive des infractions prévues aux a et b, une peine

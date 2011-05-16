@@ -12,8 +12,3 @@ même objectif ;
 3° Elle compare objectivement une ou plusieurs caractéristiques essentielles,
 pertinentes, vérifiables et représentatives de ces biens ou services, dont le
 prix peut faire partie.
-
-Toute publicité comparative faisant référence à une offre spéciale doit
-mentionner clairement les dates de disponibilité des biens ou services offerts,
-le cas échéant la limitation de l'offre à concurrence des stocks disponibles et
-les conditions spécifiques applicables.

@@ -4,7 +4,10 @@ Le conseil municipal se réunit au moins une fois par trimestre.
 
 Lors du renouvellement général des conseils municipaux, la première réunion se
 tient de plein droit au plus tôt le vendredi et au plus tard le dimanche suivant
-le tour de scrutin à l'issue duquel le conseil a été élu au complet.
+le tour de scrutin à l'issue duquel le conseil a été élu au complet. Par
+dérogation aux dispositions de l'article L. 2121-12, dans les communes de 3 500
+habitants et plus, la convocation est adressée aux membres du conseil municipal
+trois jours francs au moins avant celui de cette première réunion.
 
 Le conseil municipal se réunit et délibère à la mairie de la commune. Il peut
 également se réunir et délibérer, à titre définitif, dans un autre lieu situé

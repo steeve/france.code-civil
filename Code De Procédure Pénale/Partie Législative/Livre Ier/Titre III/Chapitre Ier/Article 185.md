@@ -12,6 +12,6 @@ accusation prévue par l'article 181, le procureur de la République dispose d'u
 délai d'appel incident de cinq jours supplémentaires à compter de l'appel de la
 personne mise en examen.
 
-Le droit d'appel appartient également dans tous les cas au procureur général. Il
-doit signifier son appel aux parties dans les dix jours qui suivent l'ordonnance
-du juge d'instruction ou du juge des libertés et de la détention.
+Le droit d'appel appartient également dans tous les cas au procureur général.
+Celui-ci forme cet appel dans les dix jours qui suivent l'ordonnance du juge par
+déclaration au greffe du tribunal.

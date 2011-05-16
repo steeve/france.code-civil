@@ -4,7 +4,8 @@ Est interdite toute vente ou offre de vente de produits ou de biens ou toute
 prestation ou offre de prestation de services faite aux consommateurs et donnant
 droit, à titre gratuit, immédiatement ou à terme, à une prime consistant en
 produits, biens ou services sauf s'ils sont identiques à ceux qui font l'objet
-de la vente ou de la prestation.
+de la vente ou de la prestation dès lors que la pratique en cause revêt un
+caractère déloyal au sens de l'article L. 120-1.
 
 Cette disposition ne s'applique pas aux menus objets ou services de faible
 valeur ni aux échantillons. Dans le cas où ces menus objets sont distribués dans

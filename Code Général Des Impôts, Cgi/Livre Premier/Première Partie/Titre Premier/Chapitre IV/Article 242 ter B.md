@@ -9,20 +9,19 @@ quinquies.
 
 2. Pour l'application des dispositions du 1, la société de gestion du fonds de
 placement immobilier, mentionnée à l'article L. 214-119 du code monétaire et
-financier, fournit aux personnes mentionnées au 1, dans des conditions prévues
-par décret, les informations nécessaires à l'identification des porteurs et à la
-détermination de la fraction des revenus distribués et de la fraction du revenu
-net imposable correspondant à leurs droits.
+financier, fournit aux personnes mentionnées au 1 les informations nécessaires à
+l'identification des porteurs et à la détermination de la fraction des revenus
+distribués et de la fraction du revenu net imposable correspondant à leurs
+droits.
 
-3. La déclaration mentionnée au 1 doit être faite dans des conditions et délais
-fixés par décret. Une copie de cette déclaration doit être adressée aux
+3. Une copie de la déclaration mentionnée au 1 doit être adressée aux
 bénéficiaires des revenus concernés.
 
 Elle est obligatoirement transmise à l'administration fiscale selon un procédé
 informatique par le déclarant qui a souscrit au moins cent déclarations au cours
 de l'année précédente ou qui a souscrit, au titre de cette même année, une ou
 plusieurs déclarations pour un montant imposable global de revenus, tels que
-définis au 1, égal ou supérieur à 15 000 euros.
+définis au 1, égal ou supérieur à 15 000 €.
 
 II.-Les personnes qui assurent la mise en paiement des plus-values distribuées
 mentionnées à l'article 150-0 F et des revenus et profits mentionnés au III de

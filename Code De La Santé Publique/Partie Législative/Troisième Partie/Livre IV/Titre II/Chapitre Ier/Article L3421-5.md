@@ -23,8 +23,10 @@ police judiciaire et agents de police judiciaire adjoints font procéder aux
 vérifications destinées à établir la preuve de l'usage de produits stupéfiants.
 
 Les vérifications visées au quatrième alinéa sont faites au moyen d'analyses et
-examens médicaux, cliniques et biologiques. Les modalités de conservation des
-échantillons prélevés sont définies par décret.
+examens médicaux, cliniques et biologiques. Les échantillons prélevés sont
+conservés dans les conditions fixées par un arrêté du ministre chargé de la
+santé, pris après avis du directeur général de l'Agence française de sécurité
+sanitaire des produits de santé.
 
 Les réquisitions du procureur de la République sont écrites, présentées aux
 personnes intéressées à leur demande et précisent qu'elles ont pour but la

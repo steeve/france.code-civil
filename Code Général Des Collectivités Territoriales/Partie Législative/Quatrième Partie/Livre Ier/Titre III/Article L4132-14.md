@@ -11,3 +11,9 @@ scrutin secret aux nominations.
 
 Le résultat des scrutins publics, énonçant les noms des votants, est reproduit
 au procès-verbal.
+
+Si une seule candidature a été déposée pour chaque poste à pourvoir au sein des
+commissions régionales ou dans les organismes extérieurs, ou si une seule liste
+a été présentée après appel de candidatures, les nominations prennent effet
+immédiatement, dans l'ordre de la liste le cas échéant, et il en est donné
+lecture par le président du conseil régional.

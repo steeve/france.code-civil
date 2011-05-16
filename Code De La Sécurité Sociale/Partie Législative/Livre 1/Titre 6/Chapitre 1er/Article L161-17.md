@@ -27,12 +27,11 @@ retraités, il est institué un groupement d'intérêt public doté de la
 personnalité morale et de l'autonomie financière composé de l'ensemble des
 organismes assurant la gestion des régimes mentionnés au premier alinéa ainsi
 que des services de l'Etat chargés de la liquidation des pensions en application
-du code des pensions civiles et militaires de retraite. Les dispositions de
-l'article 21 de la loi n° 82-610 du 15 juillet 1982 d'orientation et de
-programmation pour la recherche et le développement technologique de la France
-sont applicables à ce groupement d'intérêt public. La mise en oeuvre progressive
-des obligations définies par le présent article sera effectuée selon un
-calendrier défini par décret en Conseil d'Etat.
+du code des pensions civiles et militaires de retraite. Les dispositions du
+chapitre II de la loi n° 2011-525 du 17 mai 2011 de simplification et
+d'amélioration de la qualité du droit sont applicables à ce groupement d'intérêt
+public. La mise en oeuvre progressive des obligations définies par le présent
+article sera effectuée selon un calendrier défini par décret en Conseil d'Etat.
 
 Pour la mise en oeuvre des droits prévus aux trois premiers alinéas, les membres
 du groupement mettent notamment à la disposition de celui-ci, dans des

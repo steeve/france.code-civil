@@ -20,7 +20,7 @@ Tout vétérinaire mentionne sur ce registre les éléments relatifs à ses
 interventions dans l'élevage.
 
 Le registre est tenu à la disposition des agents mentionnés aux articles L.
-214-19, L. 205-1, L. 214-20, L. 221-5 et L. 231-2.
+205-1, L. 214-20, L. 221-5et L. 231-2.
 
 La durée minimale pendant laquelle les ordonnances doivent être conservées est
 fixée par arrêté du ministre chargé de l'agriculture.

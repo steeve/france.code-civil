@@ -1,8 +1,8 @@
 Article L112-3
 ----
-Par dérogation aux dispositions de l'article L. 112-1 et du premier alinéa de
-l'article L. 112-2 et selon des modalités définies par décret, peuvent être
-indexés sur le niveau général des prix :
+Par dérogation aux dispositions de l'article L. 112-1 et des premier et deuxième
+alinéas de l'article L. 112-2 et selon des modalités définies par décret,
+peuvent être indexés sur le niveau général des prix :
 
 1° (Abrogé) ;
 
@@ -25,5 +25,8 @@ l'article 80 de la loi de finances pour 1977 (n° 76-1232 du 29 décembre 1976) 
 pour les besoins de leur activité professionnelle ;
 
 9° Les loyers prévus par les conventions portant sur un local d'habitation ou
-sur un local affecté à des activités commerciales relevant du décret prévu au
-premier alinéa de l'article L. 112-2.
+sur un local affecté à des activités commerciales ou artisanales relevant du
+décret prévu au premier alinéa de l'article L. 112-2 ;
+
+10° Les loyers prévus par les conventions portant sur un local à usage des
+activités prévues au deuxième alinéa de l'article L. 112-2.

@@ -18,7 +18,7 @@ ou de complice ;
 
 6° Lorsque la victime a été mise en contact avec l'auteur des faits grâce à
 l'utilisation, pour la diffusion de messages à destination d'un public non
-déterminé, d'un réseau de télécommunications ;
+déterminé, d'un réseau de communication électronique ;
 
 7° Lorsqu'elle est commise par le conjoint ou le concubin de la victime ou le
 partenaire lié à la victime par un pacte civil de solidarité ;

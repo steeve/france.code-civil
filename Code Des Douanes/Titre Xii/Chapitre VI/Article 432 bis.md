@@ -1,17 +1,14 @@
 Article 432 bis
 ----
-1. Le tribunal peut, à titre de peine complémentaire, prononcer à l'encontre des
-personnes condamnées pour infractions prévues aux articles 414 et 459 du présent
-code, l'interdiction temporaire d'exercer, directement ou par personne
-interposée, pour leur compte ou le compte d'autrui, toute profession
-industrielle, commerciale ou libérale ; la suspension du permis de conduire un
-véhicule automobile peut être prononcée dans les mêmes conditions. La durée de
-l'interdiction ou de la suspension ne peut excéder trois ans ; cette durée
-pourra être doublée en cas de récidive. Le tribunal peut autoriser le condamné à
-faire usage de son permis de conduire pour l'exercice d'une activité
-professionnelle selon les modalités prévues pour l'application du 1° de
-l'article 131-6 du code pénal.
+Les personnes physiques coupables des infractions prévues aux articles 414 et
+459 encourent les peines complémentaires suivantes :
 
-2. Quiconque contreviendra aux interdictions prévues au 1 ci-dessus sera puni
-d'un emprisonnement de deux ans et d'une amende de 15000 euros ou de l'une de
-ces deux peines seulement.
+1° L'interdiction, suivant les modalités prévues par l'article 131-27 du code
+pénal, d'exercer une profession commerciale ou industrielle, de diriger,
+d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou
+indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise
+commerciale ou industrielle ou une société commerciale ;
+
+2° La suspension, pour une durée de trois ans au plus, ou de six ans au plus en
+cas de récidive, du permis de conduire, la juridiction pouvant limiter cette
+peine à la conduite en dehors de l'activité professionnelle.

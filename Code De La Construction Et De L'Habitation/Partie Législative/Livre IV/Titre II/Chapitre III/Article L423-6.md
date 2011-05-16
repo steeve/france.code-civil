@@ -1,17 +1,33 @@
 Article L423-6
 ----
-L'autorisation prévue aux articles L. 423-4 et L. 423-5 est réputée accordée à
-l'expiration d'un délai de deux mois en ce qui concerne les immeubles non bâtis,
-et de quatre mois en ce qui concerne les immeubles bâtis, à dater de la
-communication à l'autorité compétente précisée par décret de la délibération du
-conseil d'administration desdits organismes relative a l'opération envisagée.
+I. ― En vue de renforcer l'efficacité de leur action dans le cadre d'une bonne
+organisation, des organismes d'habitations à loyer modéré peuvent créer entre
+eux et, le cas échéant, avec leurs filiales, des sociétés d'économie mixte de
+construction et de gestion de logements sociaux, ainsi qu'avec des organismes
+collecteurs agréés aux fins de participer à la collecte de la participation des
+employeurs à l'effort de construction mentionnée à l'article L. 313-1 ou les
+filiales de ces organismes, une structure de coopération ayant pour seul objet
+la mise en commun de moyens au profit de ses membres.
 
-Les dispositions des articles L. 423-4 et L. 423-5 et de l'alinéa ci-dessus ne
-sont pas applicables aux opérations entreprises en vue de l'accession à la
-propriété, ni aux cessions gratuites de terrains imposées par décision de
-l'autorité administrative.
+La structure de coopération fonctionne en l'absence de rémunération moyennant
+une répartition des coûts entre ses membres en fonction de l'utilisation des
+services.
 
-En outre, pendant toute la durée de remboursement des prêts, les sociétés de
-crédit immobilier ne peuvent consentir de cessions de créances hypothécaires
-qu'après y avoir été autorisées par l'autorité compétente, dans les mêmes
-conditions que pour les aliénations d'immeubles bâtis.
+Chacune des personnes morales mentionnées au premier alinéa peut adhérer à une
+structure déjà constituée conformément à ce même alinéa.
+
+Les sociétés d'économie mixte de construction et de gestion de logements sociaux
+peuvent, dans les mêmes conditions, créer une structure de coopération entre
+elles et, le cas échéant, les personnes morales mentionnées au premier alinéa du
+présent I.
+
+Peuvent également adhérer à ces structures, dans les mêmes conditions, les
+organismes bénéficiant de l'agrément délivré au titre de l'article L. 365-1.
+
+II. ― Une convention conclue entre la structure de coopération et chacun de ses
+membres fixe les modalités de la mise en commun des moyens. Cette convention
+prévoit notamment la compensation par le membre bénéficiaire du coût exact de
+l'utilisation des services de la structure.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent
+article.

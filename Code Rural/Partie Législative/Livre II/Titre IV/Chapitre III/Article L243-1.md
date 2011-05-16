@@ -22,6 +22,6 @@ expertises, rédige des ordonnances, délivre des prescriptions ou certificats, 
 procède à des implantations sous-cutanées ;
 
 2° Le vétérinaire ou l'élève des écoles vétérinaires françaises relevant des
-articles L. 241-6 à L. 241-13, qui exerce la médecine ou la chirurgie des
+articles L. 241-6 à L. 241-12, qui exerce la médecine ou la chirurgie des
 animaux alors qu'il est frappé de suspension du droit d'exercer ou qu'il fait
 l'objet d'une interdiction d'exercer.

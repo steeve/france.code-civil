@@ -6,6 +6,3 @@ prononce l'arrêt portant condamnation, absolution ou acquittement.
 
 Les textes de loi dont il est fait application sont lus à l'audience par le
 président ; il est fait mention de cette lecture dans l'arrêt.
-
-Au cas de condamnation ou d'absolution, l'arrêt se prononce sur la contrainte
-judiciaire.

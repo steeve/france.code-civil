@@ -6,8 +6,11 @@ du recouvrement mentionnés à l'article L. 5427-1 pour le compte de l'organisme
 gestionnaire du régime d'assurance chômage mentionné à ce même article, selon
 les règles et sous les garanties et sanctions applicables au recouvrement des
 cotisations du régime général de la sécurité sociale assises sur les
-rémunérations. Les différends relatifs au recouvrement de ces contributions
-relèvent du contentieux de la sécurité sociale.
+rémunérations. Pour l'application des dispositions prévues aux a et e de
+l'article L. 5427-1, le directeur de l'institution mentionnée à l'article L.
+5312-1 dispose de la faculté prévue à l'article L. 244-9 du code de la sécurité
+sociale. Les différends relatifs au recouvrement de ces contributions relèvent
+du contentieux de la sécurité sociale.
 
 Par dérogation à l'alinéa précédent :
 

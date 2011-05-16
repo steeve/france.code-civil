@@ -3,7 +3,7 @@ Article L241-1
 Tout vétérinaire de nationalité française ou ressortissant d'un autre Etat
 membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace
 économique européen qui remplit les conditions d'exercice prévues aux articles
-L. 241-2 à L. 241-5 et qui désire exercer sa profession est tenu, au préalable,
+L. 241-2 à L. 241-4 et qui désire exercer sa profession est tenu, au préalable,
 de faire enregistrer sans frais son diplôme auprès du service de l'Etat
 compétent ou de l'organisme désigné à cette fin.
 

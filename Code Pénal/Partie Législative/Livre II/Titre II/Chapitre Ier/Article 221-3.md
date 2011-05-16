@@ -1,7 +1,7 @@
 Article 221-3
 ----
-Le meurtre commis avec préméditation constitue un assassinat. Il est puni de la
-réclusion criminelle à perpétuité.
+Le meurtre commis avec préméditation ou guet-apens constitue un assassinat. Il
+est puni de la réclusion criminelle à perpétuité.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté
 sont applicables à l'infraction prévue par le présent article. Toutefois,

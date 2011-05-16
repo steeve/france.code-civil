@@ -7,9 +7,9 @@ l'article L. 1343-4 en ce qu'elles concernent les substances et préparations
 dangereuses utilisées à des fins autres que médicales, ainsi qu'aux mesures
 réglementaires prises pour l'application de ces dispositions :
 
-1° Les agents de la direction générale de la concurrence, de la consommation et
-de la répression des fraudes, de la direction générale des douanes et de la
-direction générale des finances publiques ;
+1° Les agents de la concurrence, de la consommation et de la répression des
+fraudes, de la direction générale des douanes et de la direction générale des
+finances publiques ;
 
 2° Les officiers de police judiciaire, dans les conditions fixées par l'article
 16 du code de procédure pénale, et les agents de police judiciaire désignés à
@@ -25,8 +25,8 @@ santé publique ;
 ;
 
 6° Les agents de la sous-direction de la métrologie au ministère chargé de
-l'industrie ainsi que ceux des directions régionales de l'industrie, de la
-recherche et de l'environnement ;
+l'industrie ainsi que ceux des services déconcentrés de l'Etat chargés des
+contrôles dans le domaine de la métrologie ;
 
 7° Les agents de l'Etat agréés et commissionnés par le ministre de l'agriculture
 ;

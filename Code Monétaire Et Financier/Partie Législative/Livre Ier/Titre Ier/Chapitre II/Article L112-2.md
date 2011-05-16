@@ -8,12 +8,19 @@ de la convention ou avec l'activité de l'une des parties. Est réputée en
 relation directe avec l'objet d'une convention relative à un immeuble bâti toute
 clause prévoyant une indexation sur la variation de l'indice national du coût de
 la construction publié par l'Institut national des statistiques et des études
-économiques ou, pour des activités commerciales définies par décret, sur la
-variation de l'indice trimestriel des loyers commerciaux publié dans des
-conditions fixées par ce même décret par l'Institut national de la statistique
-et des études économiques.
+économiques ou, pour des activités commerciales ou artisanales définies par
+décret, sur la variation de l'indice trimestriel des loyers commerciaux publié
+dans des conditions fixées par ce même décret par l'Institut national de la
+statistique et des études économiques.
 
-Les dispositions du précédent alinéa ne s'appliquent pas aux dispositions
+Est également réputée en relation directe avec l'objet d'une convention relative
+à un immeuble toute clause prévoyant, pour les activités autres que celles
+visées au premier alinéa ainsi que pour les activités exercées par les
+professions libérales, une indexation sur la variation de l'indice trimestriel
+des loyers des activités tertiaires publié par l'Institut national de la
+statistique et des études économiques dans des conditions fixées par décret.
+
+Les dispositions des précédents alinéas ne s'appliquent pas aux dispositions
 statutaires ou conventionnelles concernant des dettes d'aliments.
 
 Doivent être regardées comme dettes d'aliments les rentes viagères constituées

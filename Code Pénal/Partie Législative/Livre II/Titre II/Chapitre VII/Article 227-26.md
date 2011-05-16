@@ -14,7 +14,7 @@ ou de complice ;
 
 4° Lorsque le mineur a été mis en contact avec l'auteur des faits grâce à
 l'utilisation, pour la diffusion de messages à destination d'un public non
-déterminé, d'un réseau de télécommunications ;
+déterminé, d'un réseau de communication électronique ;
 
 5° Lorsqu'elle est commise par une personne agissant en état d'ivresse manifeste
 ou sous l'emprise manifeste de produits stupéfiants.

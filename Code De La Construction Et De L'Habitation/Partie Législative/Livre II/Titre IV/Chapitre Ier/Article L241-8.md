@@ -7,5 +7,5 @@ l'exécution des travaux sans avoir conclu un contrat écrit ou sans avoir obten
 la garantie de livraison définie à l'article L. 231-6.
 
 Ces infractions peuvent être constatées et poursuivies dans les conditions
-fixées par les articles L. 450-1, premier et troisième alinéa, L. 450-2, L.
-450-3 et L. 450-8 du code de commerce.
+fixées par les articles L. 450-1, L. 450-2, L. 450-3, L. 450-7 et L. 450-8 du
+code de commerce.

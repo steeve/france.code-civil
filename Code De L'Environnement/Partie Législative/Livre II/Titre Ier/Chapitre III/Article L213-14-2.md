@@ -16,5 +16,9 @@ fraction du produit annuel de la redevance mentionnée au V de l'article L.
 Les taux des redevances sont fixés par délibération du conseil d'administration
 de l'office de l'eau sur avis conforme du comité de bassin.
 
-Les obligations de déclaration auxquelles sont assujettis les redevables sont
-fixées par le décret visé au II de l'article L. 213-14-1.
+Les redevables sont tenus de souscrire chaque année, selon les modalités prévues
+par le décret mentionné au II de l'article L. 213-14-1, les déclarations
+permettant le calcul des redevances auxquelles ils sont assujettis. Toutefois,
+les redevables de la redevance pour obstacle sur les cours d'eau sont, en
+l'absence de modification des caractéristiques de l'ouvrage, dispensés de
+renouveler chaque année leur déclaration.

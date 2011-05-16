@@ -22,14 +22,12 @@ compensés par un organisme coordonnateur agréé qui leur reverse la fraction
 au premier alinéa.
 
 Pendant une période transitoire courant à compter du 1er janvier 2006 et
-jusqu'au 13 février 2011, et au 13 février 2013 pour certains de ces équipements
-figurant sur une liste fixée par arrêté des ministres chargés de l'écologie, de
-l'économie, de l'industrie et de la consommation, les personnes mentionnées au
-premier alinéa ainsi que leurs acheteurs font apparaître, en sus du prix hors
-taxe, en pied de factures de vente de tout nouvel équipement électrique et
-électronique ménager, les coûts unitaires supportés pour l'élimination des
-déchets collectés sélectivement issus des équipements électriques et
-électroniques ménagers mis sur le marché avant le 13 août 2005.
+jusqu'au 13 février 2013 , les personnes mentionnées au premier alinéa ainsi que
+leurs acheteurs font apparaître, en sus du prix hors taxe, en pied de factures
+de vente de tout nouvel équipement électrique et électronique ménager, les coûts
+unitaires supportés pour l'élimination des déchets collectés sélectivement issus
+des équipements électriques et électroniques ménagers mis sur le marché avant le
+13 août 2005.
 
 Le traitement des déchets d'équipements électriques et électroniques ménagers
 issus des collectes sélectives et de la reprise gratuite par les distributeurs,

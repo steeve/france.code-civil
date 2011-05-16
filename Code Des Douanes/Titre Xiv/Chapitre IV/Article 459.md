@@ -10,16 +10,7 @@ de la confiscation du corps du délit, de la confiscation des moyens de transpor
 utilisés pour la fraude, de la confiscation des biens et avoirs qui sont le
 produit direct ou indirect de l'infraction et d'une amende égale au minimum au
 montant et au maximum au double de la somme sur laquelle a porté l'infraction ou
-la tentative d'infraction. En outre, les personnes physiques encourent à titre
-de peines complémentaires l'interdiction, suivant les modalités prévues par
-l'article 131-27 du code pénal, soit d'exercer une fonction publique ou
-d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion
-de l'exercice de laquelle l'infraction a été commise, soit d'exercer une
-profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou
-de contrôler à un titre quelconque, directement ou indirectement, pour leur
-propre compte ou pour le compte d'autrui, une entreprise commerciale ou
-industrielle ou une société commerciale. Ces interdictions d'exercice peuvent
-être prononcées cumulativement.
+la tentative d'infraction.
 
 1 bis. Est puni des mêmes peines le fait, pour toute personne, de contrevenir ou
 de tenter de contrevenir aux mesures de restriction des relations économiques et
@@ -40,8 +31,8 @@ ministre du budget ou son représentant en fait la demande, le tribunal doit,
 pour tenir lieu de la confiscation, prononcer une condamnation au paiement d'une
 somme égale à la valeur de ces objets.
 
-3. Sera punie d'un emprisonnement de cinq ans et d'une amende de 450 euros à
-225000 euros toute personne qui aura incité par écrit, propagande ou publicité à
+3. Sera punie d'un emprisonnement de cinq ans et d'une amende de 450 euros à 225
+000 euros toute personne qui aura incité par écrit, propagande ou publicité à
 commettre une des infractions visées au 1 ci-dessus, que cette incitation ait
 été ou non suivie d'effet.
 

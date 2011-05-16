@@ -13,9 +13,4 @@ risque ;
 3° Le contenu et les modalités de réalisation du constat de risque d'exposition
 au plomb, ainsi que les conditions auxquelles doivent satisfaire leurs auteurs ;
 
-4° Les modalités d'établissement du relevé mentionné à l'article L. 1334-5 ;
-
-5° Les conditions auxquelles doivent répondre les organismes qui réalisent le
-diagnostic, les travaux et le contrôle prévus aux articles L. 1334-1, L.
-1334-1-1 et L. 1334-4, ainsi que les modalités selon lesquelles ils sont
-effectués.
+4° Les modalités d'établissement du relevé mentionné à l'article L. 1334-5 .

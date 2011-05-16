@@ -2,9 +2,9 @@ Article L4383-3
 ----
 La création des instituts ou écoles de formation des professionnels mentionnés
 aux titres Ier à VII du présent livre, des aides-soignants, des auxiliaires de
-puériculture et des ambulanciers fait l'objet d'une autorisation délivrée par le
-président du conseil régional, après avis du directeur général de l'agence
-régionale de santé.
+puériculture, des ambulanciers et des cadres de santé fait l'objet d'une
+autorisation délivrée par le président du conseil régional, après avis du
+directeur général de l'agence régionale de santé.
 
 Le président du conseil régional agrée, après avis du directeur général de
 l'agence régionale de santé, les directeurs des instituts ou écoles de formation

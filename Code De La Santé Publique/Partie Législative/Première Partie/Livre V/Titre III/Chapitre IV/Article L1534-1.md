@@ -1,13 +1,10 @@
 Article L1534-1
 ----
-Conformément à l'article 711-1 du code pénal, les dispositions suivantes du
-livre Ier de la présente partie sont applicables dans les Terres australes et
-antarctiques françaises, sous réserve des adaptations des articles L. 1533-2 à
-L. 1533-6 :
+Sont applicables dans les Terres australes et antarctiques françaises les
+dispositions suivantes du livre Ier de la présente partie :
 
-1° Les dispositions des articles L. 1126-1 et L. 1126-2 du chapitre VI du titre
-II ;
+1° Les articles L. 1126-1 et L. 1126-2 ;
 
-2° Les dispositions du chapitre II du titre III ;
+2° Le chapitre III du titre III ;
 
-3° Les dispositions des articles L. 1115-1 et L. 1115-2.
+3° Les articles L. 1115-1 et L. 1115-2.

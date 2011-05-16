@@ -1,19 +1,20 @@
 Article L256-2-1
 ----
-Un groupement d'intérêt public, constitué dans les conditions prévues aux
-articles L. 341-1 à L. 341-4 du code de la recherche, apporte à l'autorité
-administrative son appui technique dans la définition et la mise en oeuvre des
-procédures de contrôle et d'agrément prévues à l'article L. 256-2 du présent
-code et son expertise pour la recherche et la constatation des infractions aux
-prescriptions mentionnées à l'article L. 256-1.
+Un groupement d'intérêt public, constitué dans les conditions prévues au
+chapitre II de la loi n° 2011-525 du 17 mai 2011 de simplification et
+d'amélioration de la qualité du droit, apporte à l'autorité administrative son
+appui technique dans la définition et la mise en oeuvre des procédures de
+contrôle et d'agrément prévues à l'article L. 256-2 du présent code et son
+expertise pour la recherche et la constatation des infractions aux prescriptions
+mentionnées à l'article L. 256-1.
 
 Les organismes d'inspection mentionnés à l'article L. 256-2 s'acquittent
 annuellement auprès de ce groupement d'intérêt public d'une somme forfaitaire
 fixée par arrêté conjoint des ministres chargés de l'agriculture, de
 l'environnement et du budget, dans la limite de 4 euros par contrôle effectué.
 Le montant exigible peut être modulé si l'organisme d'inspection est accrédité
-dans des conditions fixées par le décret prévu à l'article L. 256-3. Il est
-versé dans les deux mois suivant l'année civile concernée.
+dans des conditions fixées par décret. Il est versé dans les deux mois suivant
+l'année civile concernée.
 
 Les organismes d'inspection non accrédités s'acquittent d'une somme fixée par
 arrêté conjoint des ministres chargés de l'agriculture, de l'environnement et du

@@ -44,7 +44,3 @@ certifier, lors de l'établissement des documents nécessaires au remboursement 
 à la prise en charge, qu'il a pris connaissance du protocole et de se conformer
 aux dispositions réglementant la limitation ou la suppression de la
 participation de l'assuré.
-
-Les modalités de mise en oeuvre du présent article, notamment les conditions
-dans lesquelles l'assuré prend connaissance du protocole de soins et le
-communique au médecin lors de la prescription, sont fixées par décret.

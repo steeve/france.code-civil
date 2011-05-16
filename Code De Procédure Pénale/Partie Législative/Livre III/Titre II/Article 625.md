@@ -1,7 +1,7 @@
 Article 625
 ----
 Si la cour de révision estime que l'affaire n'est pas en état, elle procède
-comme il est dit à l'avant-dernier alinéa de l'article 623.
+comme il est dit au sixième alinéa de l'article 623.
 
 Lorsque l'affaire est en état, la cour l'examine au fond et statue, par arrêt
 motivé non susceptible de voie de recours, à l'issue d'une audience publique au

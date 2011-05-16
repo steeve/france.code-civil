@@ -39,7 +39,7 @@ b) L'immatriculation du navire a été retirée ;
 c) Le navire est inscrit sur une des listes mentionnées aux articles 27 et 30 du
 règlement (CE) n° 1005 / 2008 du 29 septembre 2008 ou sur une liste issue d'une
 organisation régionale de gestion des pêches recensant les navires qui
-pratiquent la pêche illicite, non déclarée et non autorisée ;
+pratiquent la pêche illicite, non déclarée et non réglementée ;
 
 d) L'Etat de pavillon du navire est inscrit sur la liste mentionnée à l'article
 33 du même règlement.

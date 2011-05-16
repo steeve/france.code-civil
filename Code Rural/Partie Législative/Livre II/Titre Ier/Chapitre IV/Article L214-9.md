@@ -7,8 +7,8 @@ agricoles doit tenir un registre d'élevage, conservé sur place et régulièrem
 mis à jour, sur lequel il recense chronologiquement les données sanitaires,
 zootechniques et médicales relatives aux animaux.
 
-Le registre est tenu à disposition des agents mentionnés aux articles L. 221-5,
-L. 221-6, L. 214-19 ou L. 214-20.
+Le registre est tenu à disposition des agents mentionnés aux articles L. 221-5
+ou L. 214-20.
 
 Tout vétérinaire mentionne sur ce registre les éléments relatifs à ses
 interventions dans l'élevage.

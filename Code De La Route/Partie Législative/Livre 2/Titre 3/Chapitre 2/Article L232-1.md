@@ -5,8 +5,8 @@ conduite d'un véhicule terrestre à moteur sont fixées par les articles 221-6-
 et 221-8 du code pénal ci-après reproduits :
 
 Art. 221-6-1.-Lorsque la maladresse, l'imprudence, l'inattention, la négligence
-ou le manquement à une obligation législative ou réglementaire de sécurité ou de
-prudence prévu par l'article 221-6 est commis par le conducteur d'un véhicule
+ou le manquement à une obligation législative ou réglementaire de prudence ou de
+sécurité prévu par l'article 221-6 est commis par le conducteur d'un véhicule
 terrestre à moteur, l'homicide involontaire est puni de cinq ans
 d'emprisonnement et de 75 000 euros d'amende.
 
@@ -14,7 +14,7 @@ Les peines sont portées à sept ans d'emprisonnement et à 100 000 euros d'amen
 lorsque :
 
 1° Le conducteur a commis une violation manifestement délibérée d'une obligation
-particulière de sécurité ou de prudence prévue par la loi ou le règlement autre
+particulière de prudence ou de sécurité prévue par la loi ou le règlement autre
 que celles mentionnées ci-après ;
 
 2° Le conducteur se trouvait en état d'ivresse manifeste ou était sous l'empire

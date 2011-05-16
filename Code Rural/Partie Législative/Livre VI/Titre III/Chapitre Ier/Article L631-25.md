@@ -11,7 +11,11 @@ L. 551-1 et par an, le fait pour un acheteur :
 ― ou de ne pas inclure dans la proposition de contrat écrit une ou plusieurs
 clauses obligatoires ;
 
-― ou de rédiger ces clauses en méconnaissance du I de l'article L. 631-24.
+― ou de rédiger ces clauses en méconnaissance du I de l'article L. 631-24 ;
+
+― ou, pour les produits soumis à accises, de ne pas exécuter le contrat
+conformément à ces clauses obligatoires, incluant celles relatives aux délais de
+paiement tels que définis au 3° de l'article L. 443-1 du code de commerce.
 
 Est sanctionné de la même manière le fait pour une société mentionnée à
 l'article L. 521-1 de ne pas remettre à un associé coopérateur un exemplaire des

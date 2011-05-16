@@ -1,15 +1,14 @@
 Article L1271-1
 ----
-Le chèque emploi-service universel est un chèque, régi par les dispositions du
-chapitre Ier du titre III du livre Ier du code monétaire et financier, ou un
-titre spécial de paiement permettant à un particulier :
+Le chèque emploi-service universel est un titre-emploi ou un titre spécial de
+paiement permettant à un particulier :
 
-1° Soit de rémunérer et de déclarer des salariés occupant des emplois entrant
-dans le champ des services à la personne mentionnés à l'article L. 7231-1 ou des
-assistants maternels agréés en application de l'article L. 421-1 du code de
-l'action sociale et des familles ;
-
-2° Soit d'acquitter tout ou partie du montant :
+1° Soit de déclarer et, lorsqu'il comporte une formule de chèque régie par le
+chapitre Ier du titre III du livre Ier du code monétaire et financier, de
+rémunérer des salariés occupant des emplois entrant dans le champ des services à
+la personne mentionnés à l'article L. 7231-1 du présent code ou des assistants
+maternels agréés en application de l'article L. 421-1 du code de l'action
+sociale et des familles ; 2° Soit d'acquitter tout ou partie du montant :
 
 a) Des prestations de services fournies par les organismes agréés ou déclarés au
 titre des articles L. 7232-1 et L. 7232-1-1 du présent code ;

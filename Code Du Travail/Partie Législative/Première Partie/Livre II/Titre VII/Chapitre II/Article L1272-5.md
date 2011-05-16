@@ -1,5 +1,8 @@
 Article L1272-5
 ----
-Les chèques-emploi associatifs sont émis et délivrés par les établissements de
+Le chèque-emploi associatif peut être émis et délivré par les établissements de
 crédit ou par les institutions ou services énumérés à l'article L. 518-1 du code
-monétaire et financier qui ont passé convention avec l'Etat.
+monétaire et financier qui ont passé une convention avec l'Etat. Lorsque ce
+titre-emploi ne comprend pas de formule de chèque, il est délivré par les
+organismes de recouvrement du régime général de sécurité sociale mentionnés à
+l'article L. 133-8-3 du code de la sécurité sociale.

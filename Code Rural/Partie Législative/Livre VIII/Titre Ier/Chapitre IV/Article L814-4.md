@@ -7,6 +7,11 @@ d'enseignement supérieur relevant du ministre chargé de l'agriculture
 compétentes à l'égard des enseignants-chercheurs, enseignants et usagers de ces
 établissements.
 
+Toutefois, il est appelé à statuer en premier et dernier ressort lorsqu'une
+section disciplinaire n'a pas été constituée ou lorsqu'aucun jugement n'est
+intervenu six mois après la date à laquelle les poursuites disciplinaires ont
+été engagées devant la juridiction disciplinaire compétente.
+
 Le Conseil national de l'enseignement supérieur et de la recherche agricole,
 agroalimentaire et vétérinaire est également compétent pour examiner les
 demandes en relèvement des exclusions, déchéances et incapacités prononcées par

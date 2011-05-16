@@ -29,6 +29,10 @@ l'affectation des sols des communes voisines ;
 c bis) Sont manifestement contraires au programme d'action visé à l'article L.
 141-7 ;
 
+c bis a) Comprennent des dispositions applicables aux entrées de ville
+incompatibles avec la prise en compte des nuisances, de la sécurité, de la
+qualité urbaine, architecturale et paysagère ;
+
 d) Sont de nature à compromettre la réalisation d'une directive territoriale
 d'aménagement maintenue en vigueur après la publication de la loi n° 2010-788 du
 12 juillet 2010 précitée, d'un programme local de l'habitat, d'un schéma de

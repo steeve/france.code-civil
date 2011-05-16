@@ -31,14 +31,6 @@ alinéa sont établies conjointement par le président de la commission médical
 d'établissement et le directeur de l'unité de formation et de recherche médicale
 ou le président du comité de coordination de l'enseignement médical.
 
-Dans les centres hospitaliers ayant passé une convention avec une université
-pour être associés à l'exercice des missions mentionnées à l'article L. 6142-1,
-les chefs de pôles d'activité sont nommés par le directeur, sur une liste
-élaborée par le président de la commission médicale d'établissement pour les
-pôles d'activité clinique ou médico-technique, après avis du directeur de
-l'unité de formation et de recherche médicale ou du président du comité de
-coordination de l'enseignement médical.
-
 Peuvent exercer les fonctions de chef de pôle d'activité clinique ou
 médico-technique les praticiens mentionnés à l'article L. 6151-1 et aux 1°, 2°
 et 3° de l'article L. 6152-1.

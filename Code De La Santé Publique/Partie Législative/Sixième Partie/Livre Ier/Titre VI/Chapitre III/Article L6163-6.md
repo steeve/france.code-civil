@@ -5,8 +5,7 @@ coopérateurs est partagé en deux fractions distinguant les parts des associés
 coopérateurs et celles des associés non coopérateurs.
 
 Le capital des sociétés coopératives hospitalières de médecins est représenté
-par des parts sociales nominatives. Leur valeur nominale est uniforme et ne peut
-être inférieure à un montant fixé par décret.
+par des parts sociales nominatives. Leur valeur nominale est uniforme.
 
 Le capital est variable. Le capital ne peut être rémunéré, sauf disposition
 expresse des statuts, dans le cadre fixé par le présent chapitre, et qui ne

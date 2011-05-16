@@ -22,3 +22,7 @@ Lorsque le certificat d'immatriculation du véhicule est établi au nom d'une
 personne morale, la responsabilité pécuniaire prévue au premier alinéa incombe,
 sous les réserves prévues au premier alinéa de l'article L. 121-2, au
 représentant légal de cette personne morale.
+
+Lorsque le véhicule était loué à un tiers, la responsabilité pécuniaire prévue
+au premier alinéa incombe au locataire, sous les réserves prévues au premier
+alinéa de l'article L. 121-2.

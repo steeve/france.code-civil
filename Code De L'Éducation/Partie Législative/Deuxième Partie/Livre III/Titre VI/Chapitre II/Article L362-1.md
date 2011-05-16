@@ -12,11 +12,8 @@ d'aptitude aux fonctions de professeur de danse ;
 l'expérience confirmée en matière d'enseignement de la danse, dont il peut se
 prévaloir.
 
-La reconnaissance ou la dispense visée aux deux alinéas précédents résulte d'un
-arrêté du ministre chargé de la culture pris après avis d'une commission
-nationale composée pour moitié de représentants de l'Etat et des collectivités
-territoriales, et pour moitié de professionnels désignés par leurs organisations
-représentatives, de personnalités qualifiées et de représentants des usagers.
+La reconnaissance ou la dispense mentionnée aux deux alinéas précédents est
+prononcée par arrêté du ministre chargé de la culture.
 
 Les artistes chorégraphiques justifiant d'une activité professionnelle d'au
 moins trois ans au sein du ballet de l'Opéra national de Paris, des ballets des
@@ -27,8 +24,7 @@ européen, dont la liste est fixée par arrêté du ministre chargé de la cultu
 qui ont suivi une formation pédagogique bénéficient de plein droit du diplôme de
 professeur de danse délivré par l'Etat.
 
-La composition de la commission nationale prévue au présent article ainsi que
-les modalités de délivrance du diplôme sont fixées par arrêté du ministre chargé
+Les modalités de délivrance du diplôme sont fixées par arrêté du ministre chargé
 de la culture.
 
 Le présent article s'applique aux danses classique, contemporaine et jazz.

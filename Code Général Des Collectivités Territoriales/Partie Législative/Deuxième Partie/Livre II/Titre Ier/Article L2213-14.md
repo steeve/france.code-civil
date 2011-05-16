@@ -3,8 +3,10 @@ Article L2213-14
 Afin d'assurer l'exécution des mesures de police prescrites par les lois et
 règlements, les opérations de fermeture du cercueil lorsque le corps est
 transporté hors de la commune de décès ou de dépôt et dans tous les cas
-lorsqu'il y a crémation, ainsi que les opérations d'exhumation, de réinhumation
-et de translation de corps s'effectuent :
+lorsqu'il y a crémation, ainsi que les opérations d'exhumation à l'exclusion de
+celles réalisées par les communes pour la reprise des concessions et des
+sépultures échues ou abandonnées, de réinhumation et de translation de corps
+s'effectuent :
 
 - dans les communes dotées d'un régime de police d'Etat, sous la responsabilité
 du chef de circonscription, en présence d'un fonctionnaire de police délégué par

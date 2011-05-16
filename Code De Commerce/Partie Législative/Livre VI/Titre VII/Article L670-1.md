@@ -16,5 +16,3 @@ organismes agréés, pour recueillir tous renseignements sur la situation
 
 Les déchéances et interdictions qui résultent de la faillite personnelle ne sont
 pas applicables à ces personnes.
-
-Les modalités d'application du présent article sont fixées par décret.

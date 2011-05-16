@@ -37,7 +37,3 @@ l'équilibre financier de l'opération, au vu desquels a été prise la décisio
 prêt. L'inobservation des dispositions du présent article entraîne la nullité du
 contrat. Cette nullité ne peut être invoquée que par l'acquéreur et avant
 l'achèvement des travaux.
-
-Lorsque la vente a été précédée d'un contrat préliminaire prévu à l'article L.
-261-15, seul le contrat de vente est soumis aux dispositions des articles L.
-312-15 à L. 312-17 du code de la consommation.

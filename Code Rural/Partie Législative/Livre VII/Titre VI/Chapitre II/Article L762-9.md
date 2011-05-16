@@ -1,7 +1,7 @@
 Article L762-9
 ----
 Les cotisations varient en fonction de la superficie pondérée de l'exploitation
-; un décret fixe chaque année, pour chaque département, le taux des cotisations.
+; un décret fixe les modalités de calcul de ces cotisations.
 
 Dans le bail à métayage, le preneur et le bailleur sont tenus l'un et l'autre au
 paiement de ces cotisations qui sont partagées entre eux selon une proportion

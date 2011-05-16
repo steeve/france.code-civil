@@ -9,6 +9,11 @@ l'agence de l'eau les éléments nécessaires au calcul des redevances mentionn�
 laquelle ces redevances sont dues. Ces personnes sont les contribuables
 mentionnés aux articles L. 213-11-1 à L. 213-11-13.
 
+Pour la redevance pour obstacle sur les cours d'eau prévue à l'article L.
+213-10-11, les éléments d'assiette déclarés sont reconduits, sans obligation de
+déclaration annuelle, sauf en cas de modification des caractéristiques de
+l'ouvrage.
+
 En cas de cession ou de cessation d'entreprise, les redevances qui sont dues
 sont immédiatement établies. Les contribuables déclarent les éléments mentionnés
 au premier alinéa dans un délai de soixante jours à compter de la cession ou de

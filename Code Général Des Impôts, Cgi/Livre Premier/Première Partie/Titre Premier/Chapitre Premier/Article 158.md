@@ -36,10 +36,9 @@ administrative en vue de lutter contre la fraude ou l'évasion fiscale ;
 
 3° Les dispositions du 2° ne s'appliquent pas :
 
-a. Aux produits des actions des sociétés d'investissement mentionnées au 1° bis
-et au 1° ter de l'article 208 et des sociétés de capital-risque mentionnées au
-3° septies du même article prélevés sur des bénéfices exonérés d'impôt sur les
-sociétés ;
+a. Aux produits des actions des sociétés d'investissement mentionnées au 1° ter
+de l'article 208 et des sociétés de capital-risque mentionnées au 3° septies du
+même article prélevés sur des bénéfices exonérés d'impôt sur les sociétés ;
 
 b. Aux produits des actions des sociétés mentionnées au 1° bis A de l'article
 208 et des sociétés d'investissement de même nature établies hors de France et
@@ -81,7 +80,7 @@ la directive 85/611/ CE du Conseil du 20 décembre 1985 portant coordination des
 dispositions législatives, réglementaires et administratives concernant certains
 organismes de placement collectif en valeurs mobilières (OPCVM) ;
 
-c. Les sociétés mentionnées aux 1° bis,1° ter et 3° septies de l'article 208.
+c. Les sociétés mentionnées aux 1° ter et 3° septies de l'article 208.
 
 d. Les fonds de placement immobilier mentionnés à l'article 239 nonies.
 

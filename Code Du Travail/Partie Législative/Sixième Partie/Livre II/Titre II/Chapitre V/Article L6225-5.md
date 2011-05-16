@@ -1,9 +1,9 @@
 Article L6225-5
 ----
 Dans le délai de quinze jours à compter du constat de l'agent de contrôle, le
-directeur départemental du travail, de l'emploi et de la formation
-professionnelle ou le chef de service assimilé se prononce sur la reprise de
-l'exécution du contrat d'apprentissage.
+directeur régional des entreprises, de la concurrence, de la consommation, du
+travail et de l'emploi se prononce sur la reprise de l'exécution du contrat
+d'apprentissage.
 
 Le refus d'autoriser la reprise de l'exécution du contrat d'apprentissage
 entraîne la rupture de ce contrat à la date de notification du refus aux

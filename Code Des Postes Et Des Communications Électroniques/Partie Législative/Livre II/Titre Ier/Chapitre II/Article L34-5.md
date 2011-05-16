@@ -43,9 +43,8 @@ précitée. A cette fin, elle peut notamment recevoir, par tous moyens, les
 plaintes relatives aux infractions aux dispositions du présent article.
 
 Les infractions aux dispositions du présent article sont recherchées et
-constatées dans les conditions fixées par les premier, troisième et quatrième
-alinéas de l'article L. 450-1 et les articles L. 450-2, L. 450-3, L. 450-4, L.
-450-7, L. 450-8, L. 470-1 et L. 470-5 du code de commerce.
+constatées dans les conditions fixées par les articles L. 450-1, L. 450-2, L.
+450-3, L. 450-4, L. 450-7, L. 450-8, L. 470-1 et L. 470-5 du code de commerce.
 
 Un décret en Conseil d'Etat précise en tant que de besoin les conditions
 d'application du présent article, notamment eu égard aux différentes

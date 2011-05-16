@@ -187,5 +187,4 @@ les contribuables peuvent adresser ces indications à l'administration fiscale a
 plus tard le 31 décembre de la deuxième année suivant celle de la mise en
 recouvrement du rôle.
 
-VI.-Un décret précise, en tant que de besoin, les modalités d'application du
-présent article, et notamment celles relatives aux obligations des employeurs.
+VI.(Abrogé)

@@ -8,15 +8,10 @@ Le produit de cette taxe est arrêté avant le 31 décembre de chaque année, po
 l'année suivante, par le conseil d'administration de l'établissement public dans
 la limite d'un plafond fixé, sous réserve de l'application des dispositions
 prévues au deuxième alinéa de l'article 1607 bis, dans les mêmes conditions que
-celles prévues au même article, à 20 euros par habitant résidant sur le
-territoire relevant de sa compétence. Le nombre des habitants à prendre en
-compte est celui qui résulte du dernier recensement publié. La décision du
-conseil d'administration est notifiée au ministre chargé de l'économie et des
-finances. Pour la première année au titre de laquelle l'établissement public
-foncier perçoit la taxe, le montant de celle-ci est arrêté et notifié avant le
-31 mars de la même année.
-
-La taxe est répartie et recouvrée dans la zone de compétence de l'établissement
-suivant les règles définies aux troisième à sixième alinéas de l'article 1607
-bis. Les conditions d'application du présent article sont fixées par décret en
-Conseil d'Etat.
+celles prévues au même article, à 20 € par habitant résidant sur le territoire
+relevant de sa compétence. Le nombre des habitants à prendre en compte est celui
+qui résulte du dernier recensement publié. La décision du conseil
+d'administration est notifiée au ministre chargé de l'économie et des finances.
+Pour la première année au titre de laquelle l'établissement public foncier
+perçoit la taxe, le montant de celle-ci est arrêté et notifié avant le 31 mars
+de la même année.

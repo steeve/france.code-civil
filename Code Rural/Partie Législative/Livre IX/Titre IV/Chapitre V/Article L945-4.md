@@ -67,13 +67,13 @@ connaissance de cause, acheter des produits de la pêche et de l'aquaculture
 marine pratiquées dans les conditions visées aux 1°, 3°, 5°, 8°, 10°, 12° et 13°
 ;
 
-15° De pêcher, transborder, transférer, débarquer, transporter, exposer, vendre,
-stocker ou, en connaissance de cause, acheter des produits de la pêche et de
-l'aquaculture marine en quantité ou en poids supérieur à celui autorisé ou dont
-la pêche est interdite ou qui n'ont pas la taille, le calibre ou le poids requis
-ou enfreindre les obligations relatives à l'arrimage, au tri, à la pesée, au
-rejet, au marquage, à la mutilation, à la préparation et à la transformation des
-captures ;
+15° De pêcher, détenir à bord, transborder, transférer, débarquer, transporter,
+exposer, vendre, stocker ou, en connaissance de cause, acheter des produits de
+la pêche et de l'aquaculture marine en quantité ou en poids supérieur à celui
+autorisé ou dont la pêche est interdite ou qui n'ont pas la taille, le calibre
+ou le poids requis ou enfreindre les obligations ou interdictions relatives à
+l'arrimage, au tri, à la pesée, au rejet, au marquage, à la mutilation, à la
+préparation et à la transformation des captures ;
 
 16° De ne pas respecter l'obligation de débarquement d'espèces capturées au
 cours d'une opération de pêche lorsque la réglementation l'exige ;

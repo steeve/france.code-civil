@@ -9,5 +9,4 @@ Le défenseur ne peut être choisi ou désigné que parmi les avocats inscrits �
 barreau, ou parmi les avoués admis à plaider devant le tribunal.
 
 L'assistance d'un défenseur est obligatoire quand le prévenu est atteint d'une
-infirmité de nature à compromettre sa défense, ou quand il encourt la peine de
-la tutelle pénale (1).
+infirmité de nature à compromettre sa défense.

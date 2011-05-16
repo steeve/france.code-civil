@@ -1,18 +1,17 @@
 Article L671-1-1
 ----
-I. - Outre les officiers et agents de police judiciaire agissant conformément
-aux dispositions du code de procédure pénale, les agents des services de l'Etat
+I.-Outre les officiers et agents de police judiciaire agissant conformément aux
+dispositions du code de procédure pénale, les agents des services de l'Etat
 chargés de l'agriculture, habilités et assermentés à cet effet dans les
 conditions fixées par décret en Conseil d'Etat, sont chargés de rechercher et de
 constater les infractions aux dispositions des articles L. 611-4-2, L. 632-12,
 L. 654-29, L. 654-30, L. 654-31 et des textes pris pour leur application.
 
-Les agents de la direction générale de la concurrence, de la consommation et de
-la répression des fraudes sont également chargés de rechercher et de constater
-les infractions aux dispositions de l'article L. 611-4-2 et aux textes pris pour
-son application.
+Les agents de la concurrence, de la consommation et de la répression des fraudes
+sont également chargés de rechercher et de constater les infractions aux
+dispositions de l'article L. 611-4-2 et aux textes pris pour son application.
 
-II. - Pour la recherche et la constatation de ces infractions, les agents
+II.-Pour la recherche et la constatation de ces infractions, les agents
 mentionnés au I ont accès aux locaux, installations et lieux, véhicules de
 transport à usage professionnel, à l'exclusion des locaux à usage d'habitation,
 entre 8 heures et 20 heures ou en dehors de ces heures lorsqu'une activité

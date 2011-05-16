@@ -24,4 +24,5 @@ française, par une ou plusieurs autres publications de presse, ou par un ou
 plusieurs services de communication au public par voie électronique. Les
 publications ou les services de communication au public par voie électronique
 chargés de cette diffusion sont désignés par la juridiction. Ils ne peuvent
-s'opposer à cette diffusion.
+s'opposer à cette diffusion. L'affichage et la diffusion peuvent être ordonnés
+cumulativement.

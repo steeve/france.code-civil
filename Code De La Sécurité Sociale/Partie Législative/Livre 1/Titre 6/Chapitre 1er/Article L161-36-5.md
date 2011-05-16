@@ -1,11 +1,11 @@
 Article L161-36-5
 ----
 Un groupement d'intérêt public dénommé " Institut des données de santé ", régi
-par les dispositions du chapitre Ier du titre IV du livre III du code de la
-recherche, est constitué notamment entre l'Etat, les caisses nationales
-d'assurance maladie, l'Union nationale des organismes d'assurance maladie
-complémentaire et l'Union nationale des professionnels de santé, mentionnées au
-chapitre II bis du titre VIII du livre Ier.
+par le chapitre II de la loi n° 2011-525 du 17 mai 2011 de simplification et
+d'amélioration de la qualité du droit, est constitué notamment entre l'Etat, les
+caisses nationales d'assurance maladie, l'Union nationale des organismes
+d'assurance maladie complémentaire et l'Union nationale des professionnels de
+santé, mentionnées au chapitre II bis du titre VIII du livre Ier.
 
 L'Institut des données de santé a pour mission d'assurer la cohérence et de
 veiller à la qualité des systèmes d'information utilisés pour la gestion du

@@ -13,18 +13,14 @@ employeur. Ils ont droit au maintien de leur rémunération.
 Lorsqu'ils accomplissent, sur leur temps de travail, les périodes d'emploi ou de
 formation pour lesquelles ils ont été appelés, les réservistes fonctionnaires
 sont placés en position d'accomplissement des activités dans la réserve
-sanitaire, lorsque la durée de ces activités est inférieure ou égale à
-quarante-cinq jours par année civile, et en position de détachement auprès de
-l'établissement public mentionné à l'article L. 3135-1 pour la période excédant
-cette durée.
+sanitaire pendant toute la durée des périodes considérées.
 
 L'établissement public mentionné à l'article L. 3135-1 rembourse à l'employeur
-les rémunérations ainsi que les cotisations et contributions lui incombant
-d'origine légale ou conventionnelle afférentes aux périodes d'emploi ou de
-formation accomplies dans la réserve par le réserviste salarié ou agent public,
-ainsi que, le cas échéant, la rémunération ou le traitement restant à la charge
-de l'employeur en cas d'accident ou de maladie imputables au service dans la
-réserve.
+les rémunérations ou traitements ainsi que les cotisations et contributions lui
+incombant d'origine légale ou conventionnelle afférentes aux périodes d'emploi
+ou de formation accomplies dans la réserve par le réserviste, ainsi que, le cas
+échéant, la rémunération ou le traitement restant à la charge de l'employeur en
+cas d'accident ou de maladie imputables au service dans la réserve.
 
 Les périodes d'emploi ou de formation dans la réserve des personnes exerçant
 habituellement leur activité à titre libéral sont rémunérées.

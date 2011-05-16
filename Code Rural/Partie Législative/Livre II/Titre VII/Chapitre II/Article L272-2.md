@@ -4,8 +4,7 @@ Pour l'application à Mayotte des dispositions du présent livre :
 
 I.-Les mots " décret en Conseil d'Etat ", "décret" et "arrêté du ministre chargé
 de l'agriculture" sont remplacés par les mots " arrêté du représentant du
-Gouvernement " aux articles L. 223-3, L. 223-4, L. 223-7, L. 223-18, L. 231-5 et
-L. 232-3.
+Gouvernement " aux articles L. 223-3, L. 223-4, L. 223-7, L. 223-18 et L. 231-5.
 
 II.-Les pouvoirs conférés aux ministres par les articles L. 201-1, L. 202-1, L.
 202-2, L. 202-3, L. 202-4, L. 221-1, L. 223-9, L. 223-13, L. 223-14, L. 223-16,

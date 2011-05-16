@@ -15,8 +15,9 @@ huitième alinéas de l'article 116.
 
 Cette lettre recommandée peut être adressée en même temps que l'avis de fin
 d'information prévu par l'article 175. Elle informe alors la personne de son
-droit de formuler des demandes d'actes ou des requêtes en annulation pendant une
-durée de vingt jours.
+droit de formuler des demandes d'actes ou des requêtes en annulation dans un
+délai d'un mois si une personne mise en examen est détenue et de trois mois dans
+les autres cas.
 
 Dans les cas visés aux deuxième et troisième alinéas du présent article, la
 personne est également informée que si elle demande à être à nouveau entendue

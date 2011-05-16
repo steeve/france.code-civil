@@ -51,8 +51,8 @@ soumises ;
 11°) Les gérants de sociétés à responsabilité limitée et de sociétés d'exercice
 libéral à responsabilité limitée à condition que lesdits gérants ne possèdent
 pas ensemble plus de la moitié du capital social, étant entendu que les parts
-appartenant, en toute propriété ou en usufruit, au conjoint, partenaire lié par
-un pacte civil de solidarité compris, et aux enfants mineurs non émancipés d'un
+appartenant, en toute propriété ou en usufruit, au conjoint, au partenaire lié
+par un pacte civil de solidarité et aux enfants mineurs non émancipés d'un
 gérant sont considérées comme possédées par ce dernier ;
 
 12°) Les présidents du conseil d'administration, les directeurs généraux et les

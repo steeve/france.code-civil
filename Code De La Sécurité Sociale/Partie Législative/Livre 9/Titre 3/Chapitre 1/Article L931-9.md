@@ -6,8 +6,8 @@ Nul ne peut administrer ou diriger une institution de prévoyance :
 
 a) Pour crime,
 
-b) Pour délits prévus aux articles 432-11, 433-1, 433-2, 433-3, 441-1, 441-8 du
-code pénal, L. 152-6 du code du travail et L. 443-2 du code de commerce,
+b) Pour délits prévus aux articles 432-11, 433-1, 433-2, 433-3, 441-1 du code
+pénal, L. 152-6 du code du travail et L. 443-2 du code de commerce,
 
 c) Pour vol, escroquerie, abus de confiance,
 

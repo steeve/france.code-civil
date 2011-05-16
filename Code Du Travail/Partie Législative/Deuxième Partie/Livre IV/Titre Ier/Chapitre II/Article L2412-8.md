@@ -5,10 +5,10 @@ personnel d'une entreprise extérieure, désigné au comité d'hygiène, de séc
 et des conditions de travail d'un établissement comprenant au moins une
 installation classée figurant sur la liste prévue au IV de l'article L. 515-8 du
 code de l'environnement ou mentionnée à l'article L. 211-2 du code minier, avant
-l'échéance du terme en raison d'une faute grave, ou à l'arrivée du terme lorsque
-l'employeur n'envisage pas de renouveler un contrat comportant une clause de
-renouvellement, ne peut intervenir qu'après autorisation de l'inspecteur du
-travail.
+l'échéance du terme en raison d'une faute grave ou de l'inaptitude constatée par
+le médecin du travail, ou à l'arrivée du terme lorsque l'employeur n'envisage
+pas de renouveler un contrat comportant une clause de renouvellement, ne peut
+intervenir qu'après autorisation de l'inspecteur du travail.
 
 Cette procédure s'applique également à l'ancien représentant ou au candidat
 durant les délais prévus aux articles L. 2411-8 et L. 2411-10.

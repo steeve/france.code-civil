@@ -7,7 +7,6 @@ supérieur de la prévention des risques technologiques. Ce décret soumet les
 installations à autorisation, à enregistrement ou à déclaration suivant la
 gravité des dangers ou des inconvénients que peut présenter leur exploitation.
 
-Les projets de décrets de nomenclature concernant les installations enregistrées
-font l'objet d'une publication, éventuellement par voie électronique, avant
-transmission pour avis au Conseil supérieur de la prévention des risques
-technologiques.
+Les projets de décrets de nomenclature font l'objet d'une publication,
+éventuellement par voie électronique, avant transmission pour avis au Conseil
+supérieur de la prévention des risques technologiques.

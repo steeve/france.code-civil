@@ -14,3 +14,9 @@ ces jours ne peut être fractionné.
 La durée initiale du congé est celle définie dans le certificat médical
 mentionné à l'article L. 544-2 du code de la sécurité sociale. Cette durée fait
 l'objet d'un nouvel examen selon une périodicité définie par décret.
+
+Au-delà de la période déterminée au premier alinéa, le salarié peut à nouveau
+bénéficier d'un congé de présence parentale, en cas de rechute ou de récidive de
+la pathologie de l'enfant au titre de laquelle un premier congé a été accordé,
+dans le respect des dispositions du présent article et des articles L. 1225-63 à
+L. 1225-65.

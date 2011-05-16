@@ -55,6 +55,9 @@ départementaux ;
 14° De prendre les décisions mentionnées aux articles L. 523-4 et L. 523-5 du
 code du patrimoine relatives à la réalisation de diagnostics d'archéologie
 préventive prescrits pour les opérations d'aménagement ou de travaux sur le
-territoire du département.
+territoire du département ;
+
+15° D'autoriser, au nom du département, le renouvellement de l'adhésion aux
+associations dont il est membre.
 
 Le président informe le conseil des actes pris dans le cadre de ces délégations.

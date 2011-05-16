@@ -7,10 +7,10 @@ président de cet établissement les attributions lui permettant de réglementer
 cette activité.
 
 Sans préjudice de l'article L. 2212-2 et par dérogation à l'article L. 2224-16,
-lorsqu'un établissement public de coopération intercommunale à fiscalité propre
-est compétent en matière de gestion des déchets ménagers, les maires des
-communes membres de celui-ci transfèrent au président de cet établissement les
-attributions lui permettant de réglementer cette activité.
+lorsqu'un groupement de collectivités est compétent en matière de gestion des
+déchets ménagers, les maires des communes membres de celui-ci transfèrent au
+président de cet établissement les attributions lui permettant de réglementer
+cette activité.
 
 Par dérogation à l'article 9 de la loi n° 2000-614 du 5 juillet 2000 relative à
 l'accueil et à l'habitat des gens du voyage, lorsqu'un établissement public de
@@ -32,6 +32,13 @@ fiscalité propre est compétent en matière de voirie, les maires des communes
 membres peuvent transférer au président de cet établissement leurs prérogatives
 en matière de police de la circulation et du stationnement.
 
+Sans préjudice de l'article L. 2212-2 et par dérogation aux dispositions de
+l'article L. 2213-32, lorsqu'un établissement public de coopération
+intercommunale à fiscalité propre est compétent en matière de défense extérieure
+contre l'incendie, les maires des communes membres de celui-ci peuvent
+transférer au président de cet établissement des attributions lui permettant de
+réglementer cette activité.
+
 II.-Lorsque le président de l'établissement public de coopération intercommunale
 prend un arrêté de police dans les cas prévus au I du présent article, il le
 transmet pour information aux maires des communes concernées dans les meilleurs
@@ -50,14 +57,14 @@ communes concernées se sont opposés au transfert de leurs pouvoirs de police, 
 président de l'établissement public de coopération intercommunale peut refuser,
 dans chacun des domaines énumérés aux trois premiers alinéas du I, que les
 pouvoirs de police spéciale des maires des communes membres lui soient
-transférés de plein droit.A cette fin, il notifie son opposition à chacun des
+transférés de plein droit. A cette fin, il notifie son opposition à chacun des
 maires des communes membres. Dans ce cas, le transfert des pouvoirs de police
 n'a pas lieu.
 
-IV.-Dans les cas prévus aux quatrième et dernier alinéas du I, sur proposition
-d'un ou de plusieurs maires de communes intéressées, le transfert est décidé par
-arrêté du ou des représentants de l'Etat dans le ou les départements concernés,
-après accord de tous les maires des communes membres et du président de
+IV.-Dans les cas prévus aux trois derniers alinéas du I, sur proposition d'un ou
+de plusieurs maires de communes intéressées, le transfert est décidé par arrêté
+du ou des représentants de l'Etat dans le ou les départements concernés, après
+accord de tous les maires des communes membres et du président de
 l'établissement public de coopération intercommunale. Il y est mis fin dans les
 mêmes conditions.
 

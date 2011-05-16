@@ -20,4 +20,4 @@ officines de pharmacie ;
 
 6° Les modalités d'application des deuxième et troisième alinéas de l'article L.
 5125-1, notamment les catégories de préparations concernées, et les modalités
-d'application de l'article L. 5125-1-1.
+d'application des articles L. 5125-1-1 et L. 5125-1-2.

@@ -6,13 +6,12 @@ d'utilisation de ces matériels et procédés ainsi que les conditions dans
 lesquelles ces matériels et ceux qui les fabriquent sont agréés par l'autorité
 administrative.
 
-Lorsqu'un agent mentionné aux articles L. 221-5 et L. 221-6 constate qu'un
-fabricant ne respecte pas les règles prévues au précédent alinéa, ce fabricant
-est mis en demeure par l'autorité administrative de cesser la production des
-matériels non conformes, de ne pas vendre le stock qu'il détient, le cas
-échéant, de rappeler la production déjà vendue et de tout mettre en oeuvre, dans
-un délai fixé, pour respecter ces règles. La vente des matériels peut être
-interdite.
+Lorsqu'un agent mentionné à l'article L. 221-5 constate qu'un fabricant ne
+respecte pas les règles prévues au précédent alinéa, ce fabricant est mis en
+demeure par l'autorité administrative de cesser la production des matériels non
+conformes, de ne pas vendre le stock qu'il détient, le cas échéant, de rappeler
+la production déjà vendue et de tout mettre en oeuvre, dans un délai fixé, pour
+respecter ces règles. La vente des matériels peut être interdite.
 
 Lorsqu'un agent mentionné à l'alinéa précédent constate qu'un matériel
 d'identification n'est pas agréé ou ne provient pas d'un fabricant agréé, il

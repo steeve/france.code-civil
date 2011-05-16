@@ -15,7 +15,7 @@ d'un seul patrimoine affecté.
 Par dérogation à l'alinéa précédent, l'entrepreneur individuel exerçant une
 activité agricole au sens de l'article L. 311-1 du code rural et de la pêche
 maritime peut ne pas affecter les terres utilisées pour l'exercice de son
-exploitation dans son patrimoine personnel. Cette faculté s'applique à la
+exploitation à son activité professionnelle. Cette faculté s'applique à la
 totalité des terres dont l'exploitant est propriétaire.
 
 Pour l'exercice de l'activité professionnelle à laquelle le patrimoine est

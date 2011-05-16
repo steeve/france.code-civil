@@ -2,7 +2,7 @@ Article 113-11
 ----
 Sous réserve des dispositions de l'article 113-9, la loi pénale française est
 applicable aux crimes et délits commis à bord ou à l'encontre des aéronefs non
-immatriculés en France :
+immatriculés en France ou des personnes se trouvant à bord :
 
 1° Lorsque l'auteur ou la victime est de nationalité française ;
 

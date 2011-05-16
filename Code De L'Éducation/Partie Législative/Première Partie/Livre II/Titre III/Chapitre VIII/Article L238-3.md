@@ -9,7 +9,11 @@ recherche agricole, agroalimentaire et vétérinaire statue en appel et en derni
 ressort sur les décisions prises par les instances disciplinaires des
 établissements d'enseignement supérieur relevant du ministre chargé de
 l'agriculture compétentes à l'égard des enseignants-chercheurs, enseignants et
-usagers de ces établissements.
+usagers de ces établissements. Toutefois, il est appelé à statuer en premier et
+dernier ressort lorsqu'une section disciplinaire n'a pas été constituée ou
+lorsqu'aucun jugement n'est intervenu six mois après la date à laquelle les
+poursuites disciplinaires ont été engagées devant la juridiction disciplinaire
+compétente.
 
 Le Conseil national de l'enseignement supérieur et de la recherche agricole,
 agroalimentaire et vétérinaire est également compétent pour examiner les
@@ -39,6 +43,4 @@ compétente ne comprend que des enseignants-chercheurs et enseignants d'un rang
 
 La composition, les modalités et la durée de désignation des membres des
 formations compétentes à l'égard des enseignants-chercheurs, des enseignants et
-des usagers et leur fonctionnement sont définies par décret en Conseil d'Etat
-
-. "
+des usagers et leur fonctionnement sont définies par décret en Conseil d'Etat. "

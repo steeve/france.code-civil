@@ -11,7 +11,7 @@ règlements mentionnés à l'article L. 6322-3.
 Les dispositions des articles L. 1421-3, L. 5411-2 et L. 5411-3 sont applicables
 à l'exercice de cette mission.
 
-Les agents de la direction générale de la concurrence, de la consommation et de
-la répression des fraudes sont habilités à rechercher et constater les
-infractions définies au II de l'article L. 6324-2.A cet effet, ils disposent des
-pouvoirs prévus à l'article L. 141-1 du code de la consommation.
+Les agents de la concurrence, de la consommation et de la répression des fraudes
+sont habilités à rechercher et constater les infractions définies au II de
+l'article L. 6324-2. A cet effet, ils disposent des pouvoirs prévus à l'article
+L. 141-1 du code de la consommation.

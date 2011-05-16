@@ -1,10 +1,9 @@
 Article L541-43
 ----
 Un groupement d'intérêt public peut être constitué dans les conditions prévues
-par l'article 21 de la loi n° 82-610 du 15 juillet 1982 d'orientation et de
-programmation pour la recherche et le développement technologique de la France,
-en vue de faciliter l'installation et l'exploitation de toute nouvelle
-installation de traitement de déchets.
+par le chapitre II de la loi n° 2011-525 du 17 mai 2011 de simplification et
+d'amélioration de la qualité du droit, en vue de faciliter l'installation et
+l'exploitation de toute nouvelle installation de traitement de déchets.
 
 Ce groupement d'intérêt public peut, à ce titre, mener des actions
 d'accompagnement, comprenant notamment la réalisation d'aménagements paysagers,

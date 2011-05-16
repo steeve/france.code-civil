@@ -7,5 +7,5 @@ Les peines prévues pour le président, les administrateurs ou les directeurs
 généraux des sociétés anonymes sont applicables au président et aux dirigeants
 des sociétés par actions simplifiées.
 
-Les articles L. 242-20, L. 242-26, et L. 242-27 s'appliquent aux commissaires
-aux comptes des sociétés par actions simplifiées.
+Les articles L. 242-20, L. 820-6 et L. 820-7 s'appliquent aux commissaires aux
+comptes des sociétés par actions simplifiées.

@@ -9,6 +9,12 @@ sont pas applicables.
 Si l'employeur justifie de son impossibilité de proposer un emploi, dans les
 conditions prévues aux articles L. 1226-10 et L. 1226-11, au salarié déclaré
 inapte titulaire d'un tel contrat ou si le salarié refuse un emploi offert dans
-ces conditions, l'employeur est en droit de demander la résolution judiciaire du
-contrat. La juridiction saisie prononce la résolution après vérification des
-motifs invoqués et fixe le montant de la compensation financière due au salarié.
+ces conditions, l'employeur est en droit de procéder à la rupture du contrat.
+
+Les dispositions visées aux articles L. 1226-10 et L. 1226-11 s'appliquent
+également aux salariés en contrat de travail à durée déterminée.
+
+La rupture du contrat ouvre droit, pour le salarié, à une indemnité dont le
+montant ne peut être inférieur au double de celui de l'indemnité prévue à
+l'article L. 1234-9. Cette indemnité de rupture est versée selon les mêmes
+modalités que l'indemnité de précarité prévue à l'article L. 1243-8.

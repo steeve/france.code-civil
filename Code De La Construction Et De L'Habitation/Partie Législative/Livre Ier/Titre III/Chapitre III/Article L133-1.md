@@ -7,3 +7,9 @@ nécessaires.
 
 Les propriétaires justifient du respect de cette obligation dans les conditions
 fixées par décret en Conseil d'Etat.
+
+Si l'immeuble est soumis à la loi n° 65-557 du 10 juillet 1965 fixant le statut
+de la copropriété des immeubles bâtis, la notification de l'injonction aux
+copropriétaires est valablement faite au seul syndicat des copropriétaires pris
+en la personne du syndic qui doit en informer sans délai chaque copropriétaire
+par lettre recommandée avec demande d'avis de réception.

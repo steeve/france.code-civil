@@ -11,9 +11,9 @@ l'alimentation, de l'environnement et du travail ;
 3° Les vétérinaires officiels mentionnés au V de l'article L. 231-2 du code
 rural et de la pêche maritime ;
 
-4° Les agents de la direction générale de la concurrence, de la consommation et
-de la répression des fraudes, qui disposent à cet effet des pouvoirs prévus au
-livre II du code de la consommation.
+4° Les agents de la concurrence, de la consommation et de la répression des
+fraudes, qui disposent à cet effet des pouvoirs prévus au livre II du code de la
+consommation.
 
 Les articles L. 1421-2, L. 1421-2-1, L. 1421-3, L. 5411-2 et L. 5411-3 du
 présent code sont applicables aux agents mentionnés aux 1° et 3° du présent

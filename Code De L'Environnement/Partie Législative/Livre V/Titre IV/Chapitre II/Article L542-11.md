@@ -29,22 +29,23 @@ et hors de la zone de proximité définie au 2°, dans la mesure où lesdits
 communes ou groupements justifient d'être effectivement concernés par la vie
 quotidienne du laboratoire ou du centre de stockage.
 
-Les dispositions des articles L. 341-2 à L. 341-4 du code de la recherche sont
-applicables au groupement.
+Les dispositions du chapitre II de la loi n° 2011-525 du 17 mai 2011 de
+simplification et d'amélioration de la qualité du droit sont applicables au
+groupement.
 
 Pour financer les actions visées aux 1° et 2° du présent article, le groupement
-bénéficie d'une partie du produit de la taxe additionnelle dite
-"d'accompagnement" à la taxe sur les installations nucléaires de base prévue au
+bénéficie d'une partie du produit de la taxe additionnelle dite "
+d'accompagnement " à la taxe sur les installations nucléaires de base prévue au
 V de l'article 43 de la loi de finances pour 2000 (n° 99-1172 du 30 décembre
 1999), à laquelle il peut, pour les exercices budgétaires des années 2007 à
 2016, ajouter une fraction, dans la limite de 80 %, de la partie du produit de
-la taxe additionnelle dite de "diffusion technologique" à ladite taxe sur les
+la taxe additionnelle dite de " diffusion technologique " à ladite taxe sur les
 installations nucléaires de base dont il bénéficie. Pour financer les actions
 visées au 3° du présent article, le groupement bénéficie d'une partie du produit
-de la taxe additionnelle dite de "diffusion technologique", à laquelle il peut,
-pour les exercices budgétaires des années 2007 à 2016, ajouter une fraction,
-dans la limite de 80 %, de la partie du produit de la taxe additionnelle dite
-"d'accompagnement".
+de la taxe additionnelle dite de " diffusion technologique ", à laquelle il
+peut, pour les exercices budgétaires des années 2007 à 2016, ajouter une
+fraction, dans la limite de 80 %, de la partie du produit de la taxe
+additionnelle dite " d'accompagnement ".
 
 Les personnes redevables de ces taxes additionnelles publient un rapport annuel
 sur les activités économiques qu'elles conduisent dans les départements visés au

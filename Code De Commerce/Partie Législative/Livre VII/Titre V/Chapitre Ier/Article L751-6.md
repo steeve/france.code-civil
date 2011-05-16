@@ -11,8 +11,9 @@ des comptes ;
 3° Un membre de l'inspection générale des finances désigné par le chef de ce
 service ;
 
-4° Un membre du corps des inspecteurs généraux de l'équipement désigné par le
-vice-président du Conseil général des ponts et chaussées ;
+4° Un membre du corps des inspecteurs généraux de l'administration du
+développement durable désigné par le vice-président du Conseil général de
+l'environnement et du développement durable ;
 
 5° Quatre personnalités désignées pour leur compétence en matière de
 distribution, de consommation, d'urbanisme, de développement durable,

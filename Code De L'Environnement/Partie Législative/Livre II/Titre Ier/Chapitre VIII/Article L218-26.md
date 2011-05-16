@@ -26,7 +26,8 @@ maritimes, des ports autonomes maritimes et des grands ports maritimes ;
 7° Les ingénieurs des mines, les ingénieurs de l'industrie et des mines, les
 ingénieurs des ponts, des eaux et des forêts et les ingénieurs des travaux
 publics de l'Etat affectés dans les services déconcentrés du ministère chargé de
-l'environnement ;
+l'environnement ou à la direction régionale de l'environnement, de l'aménagement
+et du logement ;
 
 8° Les officiers de port, officiers de port adjoints et surveillants de port
 ayant la qualité de fonctionnaire ;

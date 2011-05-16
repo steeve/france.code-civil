@@ -1,8 +1,8 @@
 Article L4741-1
 ----
-Est puni d'une amende de 3 750 euros, le fait pour l'employeur ou le préposé de
-méconnaître par sa faute personnelle les dispositions suivantes et celles des
-décrets en Conseil d'Etat pris pour leur application :
+Est puni d'une amende de 3 750 euros, le fait pour l'employeur ou son
+délégataire de méconnaître par sa faute personnelle les dispositions suivantes
+et celles des décrets en Conseil d'Etat pris pour leur application :
 
 1° Titres Ier, III et IV ainsi que section 2 du chapitre IV du titre V du livre
 Ier ;
@@ -21,5 +21,5 @@ La récidive est punie d'un emprisonnement d'un an et d'une amende de 9 000
 euros.
 
 L'amende est appliquée autant de fois qu'il y a de salariés de l'entreprise
-concernés par la ou les infractions relevées dans le procès-verbal prévu à
-l'article L. 8113-7.
+concernés indépendamment du nombre d'infractions relevées dans le procès-verbal
+prévu à l'article L. 8113-7.

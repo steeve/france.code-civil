@@ -19,6 +19,18 @@ demande peut également porter sur l'identification des titres composant une
 famille cohérente de presse au sein du groupe, en application de l'article L.
 132-39.
 
+En l'absence d'engagement de négociation, sont considérés comme des parties à la
+négociation de l'accord d'entreprise l'employeur et le délégué syndical. En
+l'absence de délégué syndical, peuvent saisir la commission :
+
+― les institutions représentatives du personnel ;
+
+― à défaut, tout salarié mandaté par une organisation syndicale de journalistes
+professionnels au sens de l'article L. 7111-3 du code du travail ;
+
+― à défaut, tout journaliste professionnel au sens du même article L. 7111-3
+collaborant de manière régulière à l'entreprise de presse.
+
 Pour les accords d'entreprise conclus pour une durée déterminée qui arrivent à
 échéance ou pour ceux qui sont dénoncés par l'une des parties, la commission
 peut être saisie dans les mêmes conditions et sur les mêmes questions qu'au
@@ -42,7 +54,7 @@ parties et au ministre chargé de la communication, qui en assure la publicité.
 
 L'intervention de la décision de la commission ne fait pas obstacle à ce que
 s'engage dans les entreprises de presse concernées une nouvelle négociation
-collective.L'accord collectif issu de cette négociation se substitue à la
+collective. L'accord collectif issu de cette négociation se substitue à la
 décision de la commission, après son dépôt par la partie la plus diligente
 auprès de l'autorité administrative, conformément à l'article L. 2231-6 du code
 du travail.

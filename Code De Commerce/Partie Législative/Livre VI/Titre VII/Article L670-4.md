@@ -11,5 +11,3 @@ charges incompressibles. Le tribunal réduit le montant de la contribution en ca
 de diminution des ressources ou d'augmentation des charges du contributeur.
 
 Son paiement doit être effectué dans un délai de deux ans.
-
-Les modalités d'application du présent article sont fixées par décret.

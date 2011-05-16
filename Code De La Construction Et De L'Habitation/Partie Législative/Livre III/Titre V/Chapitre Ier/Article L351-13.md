@@ -7,8 +7,7 @@ sécurité sociale. Le tribunal ordonne, en outre, le remboursement des sommes
 indûment versées.
 
 S'il s'agit d'un administrateur de biens, les peines applicables sont un
-emprisonnement de six mois et une amende de 18 000 euros ou l'un de ces deux
-peines seulement.
+emprisonnement de six mois et une amende de 18 000 euros.
 
 Le tribunal peut, en outre, dans les cas prévus aux deux alinéas qui précèdent,
 prononcer, pour une durée n'excédant pas deux ans, l'interdiction de passer les

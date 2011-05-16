@@ -6,10 +6,11 @@ les articles L. 121-35 et L. 122-1 du code de la consommation reproduits
 ci-après :
 
 " Art.L. 121-35.-Est interdite toute vente ou offre de vente de produits ou de
-biens ou toute prestation ou offre de prestation de services, faite aux
-consommateurs et donnant droit à titre gratuit, immédiatement ou à terme, à une
+biens ou toute prestation ou offre de prestation de services faite aux
+consommateurs et donnant droit, à titre gratuit, immédiatement ou à terme, à une
 prime consistant en produits, biens ou services sauf s'ils sont identiques à
-ceux qui font l'objet de la vente ou de la prestation.
+ceux qui font l'objet de la vente ou de la prestation dès lors que la pratique
+en cause revêt un caractère déloyal au sens de l'article L. 120-1.
 
 Cette disposition ne s'applique pas aux menus objets ou services de faible
 valeur ni aux échantillons. Dans le cas où ces menus objets sont distribués dans
@@ -31,7 +32,7 @@ ligne, notamment prévues aux articles L. 3511-3, L. 3511-4 et L. 3323-2 à L.
 sont définies par décret.
 
 Cette disposition s'applique à toutes les activités visées au dernier alinéa de
-l'articles L. 113-2.
+l'article L. 113-2.
 
 Les règles relatives aux ventes avec primes applicables aux produits et services
 proposés pour la gestion d'un compte de dépôt sont fixées par le 2 du I de

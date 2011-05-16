@@ -11,7 +11,12 @@ affectées aux dotations mentionnées aux articles L. 1211-5, L. 1613-5 et L.
 Le Gouvernement peut le consulter sur tout projet de loi, tout projet
 d'amendement du Gouvernement ou sur toutes dispositions réglementaires à
 caractère financier concernant les collectivités locales. Pour les décrets,
-cette consultation est obligatoire.
+cette consultation est obligatoire. Lorsqu'un décret à caractère financier
+concernant les collectivités territoriales crée ou modifie une norme à caractère
+obligatoire, la consultation du comité des finances locales porte également sur
+l'impact financier de la norme. La consultation de la commission consultative
+d'évaluation des normes mentionnée à l'article L. 1211-4-2 est alors réputée
+satisfaite.
 
 Chaque année, avant le 31 juillet, les comptes du dernier exercice connu des
 collectivités locales lui sont présentés ainsi qu'aux commissions des finances

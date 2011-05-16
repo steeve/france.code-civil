@@ -6,8 +6,7 @@ ferme privative de liberté couverte par la détention provisoire, il est mis
 immédiatement en liberté s'il n'est retenu pour autre cause.
 
 Dans les autres cas, tant que l'arrêt n'est pas définitif et, le cas échéant,
-pendant l'instance d'appel, le mandat de dépôt délivré contre l'accusé continue
-de produire ses effets ou la cour décerne mandat de dépôt contre l'accusé,
+pendant l'instance d'appel, l'arrêt de la cour d'assises vaut titre de détention
 jusqu'à ce que la durée de détention ait atteint celle de la peine prononcée,
 sans préjudice pour l'accusé de son droit à demander sa mise en liberté
 conformément aux dispositions des articles 148-1 et 148-2.

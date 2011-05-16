@@ -19,7 +19,7 @@ l'état à la consommation humaine ou animale ;
 4° Pour procéder à la saisie ou au retrait de la consommation des produits, des
 denrées alimentaires ou des aliments pour animaux d'origine animale ou contenant
 des produits d'origine animale, qu'ils ont reconnus comme dangereux au sens du
-règlement (CE) n° 178 / 2002 du Parlement européen et du Conseil du 28 janvier
+règlement (CE) n° 178/2002 du Parlement européen et du Conseil du 28 janvier
 2002 établissant les principes généraux et les prescriptions générales de la
 législation alimentaire, instituant l'Autorité européenne de sécurité des
 aliments et fixant les procédures relatives à la sécurité des denrées
@@ -29,7 +29,7 @@ II.-Les vétérinaires officiels et les agents mentionnés au 9° du I de l'arti
 L. 231-2 sont habilités pour consigner tous produits d'origine animale, toutes
 denrées alimentaires ou tous aliments pour animaux d'origine animale ou
 contenant des produits d'origine animale, suspectés d'être dangereux au sens du
-même règlement (CE) n° 178 / 2002 du 28 janvier 2002 et pour effectuer, sur ces
+même règlement (CE) n° 178/2002 du 28 janvier 2002 et pour effectuer, sur ces
 produits, denrées alimentaires ou aliments pour animaux, tous prélèvements
 d'échantillons nécessaires à une analyse en laboratoire.
 
@@ -53,6 +53,6 @@ sanitaire concernant la production des coquillages vivants ;
 peuvent être livrés en l'état à la consommation humaine ;
 
 3° Procéder à l'appréhension, s'ils sont susceptibles de saisie, des coquillages
-vivants, récoltés ou pêchés en infraction aux dispositions mentionnées à
-l'article L. 231-2, ainsi qu'à l'appréhension des sommes provenant de la vente
-de ces produits, dans les conditions prévues à l'article L. 943-8.
+vivants, récoltés ou pêchés en infraction, ainsi qu'à l'appréhension des sommes
+provenant de la vente de ces produits, dans les conditions prévues à l'article
+L. 943-8.

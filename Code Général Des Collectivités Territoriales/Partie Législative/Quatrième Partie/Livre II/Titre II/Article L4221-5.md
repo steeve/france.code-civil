@@ -44,6 +44,9 @@ de la collectivité à notifier aux expropriés et de répondre à leurs demande
 11° De prendre les décisions mentionnées aux articles L. 523-4 et L. 523-5 du
 code du patrimoine relatives à la réalisation de diagnostics d'archéologie
 préventive prescrits pour les opérations d'aménagement ou de travaux sur le
-territoire de la région.
+territoire de la région ;
+
+12° D'autoriser, au nom de la région, le renouvellement de l'adhésion aux
+associations dont elle est membre.
 
 Le président informe le conseil des actes pris dans le cadre de ces délégations.

@@ -2,9 +2,9 @@ Article L4383-1
 ----
 L'Etat fixe les conditions d'accès aux formations des professionnels mentionnés
 aux titres Ier à VII du présent livre des aides-soignants, des auxiliaires de
-puériculture et des ambulanciers. Il détermine les programmes de formation,
-l'organisation des études, les modalités d'évaluation des étudiants ou élèves.
-Il délivre les diplômes.
+puériculture, des ambulanciers et des cadres de santé. Il détermine les
+programmes de formation, l'organisation des études, les modalités d'évaluation
+des étudiants ou élèves. Il délivre les diplômes.
 
 Le directeur général de l'agence régionale de santé contrôle le suivi des
 programmes et la qualité de la formation.

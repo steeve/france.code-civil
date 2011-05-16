@@ -1,4 +1,4 @@
 Article 1819
 ----
-Sont punies des sanctions applicables à l'auteur principal de l'infraction, les
-personnes désignées à l'article 1799.
+Sont punies des peines applicables aux infractions prévues par les articles 1810
+à 1818 les personnes désignées à l'article 1799.
