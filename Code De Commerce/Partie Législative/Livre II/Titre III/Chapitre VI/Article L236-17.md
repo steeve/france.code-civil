@@ -6,8 +6,8 @@ que celui de la société scindée.
 
 En ce cas, et si les actions de chacune des sociétés nouvelles sont attribuées
 aux actionnaires de la société scindée proportionnellement à leurs droits dans
-le capital de cette société, il n'y a pas lieu à l'établissement du rapport
-mentionné à l'article L. 236-10.
+le capital de cette société, il n'y a pas lieu à l'établissement des rapports
+mentionnés aux articles L. 236-9 et L. 236-10.
 
 Dans tous les cas, les projets de statuts des sociétés nouvelles sont approuvés
 par l'assemblée générale extraordinaire de la société scindée. Il n'y a pas lieu
