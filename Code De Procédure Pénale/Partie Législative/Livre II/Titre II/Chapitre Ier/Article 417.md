@@ -8,7 +8,7 @@ sa demande, bénéficier d'un avocat commis d'office. Si le prévenu formule cet
 demande, le président commet un défenseur d'office.
 
 Le défenseur ne peut être choisi ou désigné que parmi les avocats inscrits à un
-barreau, ou parmi les avoués admis à plaider devant le tribunal.
+barreau.
 
 L'assistance d'un défenseur est obligatoire quand le prévenu est atteint d'une
 infirmité de nature à compromettre sa défense.
