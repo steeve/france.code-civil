@@ -32,4 +32,12 @@ construction visé au d de cet article et situé dans un espace remarquable ou
 dans un milieu à préserver d'une commune littorale ;
 
 f) L'étude de sécurité publique, lorsqu'elle est exigée en application de
-l'article R. 111-48.
+l'article R. 111-48 ;
+
+g) Lorsque le projet est tenu de respecter les dispositions mentionnées à
+l'article R. 111-20 du code de la construction et de l'habitation, un document
+établi par le maître d'ouvrage attestant la prise en compte de la réglementation
+thermique, en application de l'article R. 111-20-1 de ce code, et pour les
+projets concernés par le cinquième alinéa de l'article L. 111-9 du même code la
+réalisation de l'étude de faisabilité relative aux approvisionnements en énergie
+en application de l'article R. 111-20-2 dudit code.
