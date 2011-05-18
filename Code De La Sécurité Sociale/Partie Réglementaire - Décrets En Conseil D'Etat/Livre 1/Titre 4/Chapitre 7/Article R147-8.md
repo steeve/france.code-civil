@@ -114,4 +114,8 @@ prononcée au titre de l'alinéa précédent, il est constaté un niveau de
 prescription ou de réalisation du même acte, produit ou prestation ou groupe
 d'actes, produits ou prestations, à nouveau significativement supérieur à la
 moyenne régionale et pour une activité comparable, les faits sont considérés
-réalisés en état de récidive telle que prévue à l'article R. 147-5.
+réalisés en état de récidive telle que prévue à l'article R. 147-5 ;
+
+6° Pour lesquels il aura été constaté, dans les conditions prévues à l'article
+R. 148-6, que l'objectif de réduction des prescriptions ou réalisations prévu à
+l'article L. 162-1-15 n'a pas été atteint.
