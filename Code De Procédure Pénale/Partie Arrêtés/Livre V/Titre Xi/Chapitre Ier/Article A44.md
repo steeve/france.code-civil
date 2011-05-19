@@ -903,11 +903,9 @@ Lille.
 
 Antenne de Lille-Loos-Sequedin.
 
-Circonscription judiciaire de Lille.
-
-Centre pénitentiaire de Lille-Loos-Sequedin (quartier maison d'arrêt de
-Sequedin, quartier maison d'arrêt de Loos, quartier centre de détention de Loos,
-quartier de semi-liberté d'Haubourdin).
+Circonscription judiciaire de Lille. Centre pénitentiaire de Lille-Loos-Sequedin
+(quartier maison d'arrêt de Sequedin, quartier maison d'arrêt de Loos et
+quartier centre de détention de Loos, quartier de semi-liberté d'Haubourdin.
 
 Antenne d'Avesnes-sur-Helpe-Maubeuge.
 
@@ -929,9 +927,11 @@ Antenne de Dunkerque.
 
 Circonscription judiciaire de Dunkerque.
 
-Maison d'arrêt de Dunkerque.
-
 Circonscription judiciaire d'Hazebrouck.
+
+Antenne de Lille Annœullin.
+
+Centre pénitentiaire de Lille Annœullin.
 
 Antenne de Valenciennes.
 
@@ -1050,7 +1050,7 @@ Circonscription judiciaire de Tarbes.
 
 Maison d'arrêt de Tarbes.
 
-Antenne de Lannemazan.
+Antenne de Lannemezan.
 
 (Arr. 17 sept. 2003, art. 5) Centre pénitentiaire de Lannemazan.
 
