@@ -15,7 +15,9 @@ Maison centrale d'Ensisheim (Haut-Rhin).
 Quartier maison centrale du centre pénitentiaire de Lannemezan
 (Hautes-Pyrénées).
 
-Quartier maison centrale du centre pénitentiaire de Lille-Loos-Sequedin (Nord)
+Quartier maison centrale du centre pénitentiaire de Lille-Annœullin (Nord).
+
+Quartier maison centrale du centre pénitentiaire de Lille-Loos-Sequedin (Nord).
 
 Quartier maison centrale du centre pénitentiaire de Moulins-Yzeure (Allier).
 
