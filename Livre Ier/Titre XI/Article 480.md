@@ -7,7 +7,7 @@ et des familles.
 
 Le mandataire doit, pendant toute l'exécution du mandat, jouir de la capacité
 civile et remplir les conditions prévues pour les charges tutélaires par
-l'article 395 et le dernier alinéa de l'article 445 du présent code.
+l'article 395 et les deux derniers alinéas de l'article 445 du présent code.
 
 Il ne peut, pendant cette exécution, être déchargé de ses fonctions qu'avec
 l'autorisation du juge des tutelles.

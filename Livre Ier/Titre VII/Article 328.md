@@ -5,8 +5,8 @@ minorité de l'enfant, seul qualité pour exercer l'action en recherche de
 maternité ou de paternité.
 
 Si aucun lien de filiation n'est établi ou si ce parent est décédé ou dans
-l'impossibilité de manifester sa volonté, l'action est intentée conformément aux
-dispositions de l'article 464, alinéa 3.
+l'impossibilité de manifester sa volonté, l'action est intentée par le tuteur
+conformément aux dispositions du deuxième alinéa de l'article 408.
 
 L'action est exercée contre le parent prétendu ou ses héritiers. A défaut
 d'héritiers ou si ceux-ci ont renoncé à la succession, elle est dirigée contre

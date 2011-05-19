@@ -9,5 +9,6 @@ autre, le tribunal de grande instance de Paris est compétent.
 
 Si plusieurs personnes ont disparu au cours du même événement, une requête
 collective peut être présentée au tribunal du lieu de la disparition, à celui du
-port d'attache du bâtiment ou de l'aéronef ou, à défaut, au tribunal de grande
-instance de Paris.
+port d'attache du bâtiment ou de l'aéronef, au tribunal de grande instance de
+Paris ou à tout autre tribunal de grande instance que l'intérêt de la cause
+justifie.
