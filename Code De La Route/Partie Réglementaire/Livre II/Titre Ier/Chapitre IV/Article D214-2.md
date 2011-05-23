@@ -5,17 +5,17 @@ comprend vingt-huit membres :
 
 1° Cinq représentants de l'Etat :
 
-- le délégué à la sécurité et à la circulation routières et le vice-président du
-Conseil général de l'environnement et du développement durable, en tant que
-représentants du ministre chargé des transports ;
+- le délégué à la sécurité et à la circulation routières et le directeur de la
+modernisation et de l'action territoriale ou leurs représentants, pour le
+ministre de l'intérieur ;
 
-- le directeur de la modernisation et de l'action territoriale, en tant que
-représentant du ministre de l'intérieur ;
+- le vice-président du Conseil général de l'environnement et du développement
+durable ou son représentant, pour le ministre chargé des transports ;
 
-- le directeur général de l'enseignement scolaire, en tant que représentant du
+- le directeur général de l'enseignement scolaire ou son représentant, pour le
 ministre chargé de l'éducation nationale ;
 
-- le directeur général du travail, en tant que représentant du ministre chargé
+- le directeur général du travail ou son représentant, pour le ministre chargé
 du travail ;
 
 2° Trois représentants des collectivités territoriales :
@@ -36,17 +36,16 @@ d'établissements et six représentants des salariés ;
 consommateurs et après avis du ministre chargé de la consommation ;
 
 - un représentant des associations œuvrant pour la sécurité routière désigné par
-le ministre chargé des transports ;
+le ministre chargé de la sécurité routière ;
 
 - un membre du Conseil national de la jeunesse désigné par celui-ci ;
 
 5° Cinq personnalités qualifiées choisies en raison de leurs activités
 professionnelles ou de leurs travaux en matière d'éducation routière désignées
-par le ministre chargé des transports.
+par le ministre chargé de la sécurité routière.
 
 Les membres du Conseil supérieur mentionnés aux 2°, 3°, 4° et 5° sont nommés par
-arrêté du ministre chargé des transports pour une durée de cinq ans.
+arrêté du ministre chargé de la sécurité routière pour une durée de cinq ans.
 
-Un arrêté du ministre chargé des transports, pris après avis du ministre de
-l'intérieur, fixe les modalités d'organisation des élections des membres du
-conseil supérieur mentionnés au 3°.
+Un arrêté du ministre chargé de la sécurité routière fixe les modalités
+d'organisation des élections des membres du conseil supérieur mentionnés au 3°.
