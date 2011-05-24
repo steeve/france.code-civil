@@ -27,5 +27,5 @@ l'article L. 522-7 sont délivrées, aux conditions d'utilisation qu'elles
 déterminent, pour une durée maximale de 120 jours par le ministre chargé de
 l'environnement, lequel, sauf en cas d'urgence, sollicite préalablement l'avis
 de l'Agence nationale de sécurité sanitaire de l'alimentation, de
-l'environnement et du travail et de la commission des produits chimiques et
-biocides.
+l'environnement et du travail et, le cas échéant, avis de la commission des
+produits chimiques et biocides.
