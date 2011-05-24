@@ -1,8 +1,14 @@
 Article R563-3
 ----
-Le premier président de la cour d'appel et le procureur général près cette cour,
-après avis du président du tribunal de première instance, du procureur de la
-République près ce tribunal et du directeur de greffe de la cour d'appel,
-répartissent le personnel assurant le service des greffes entre le greffe de la
-cour d'appel et celui du tribunal de première instance et désignent un
-fonctionnaire responsable du greffe du tribunal de première instance.
+Selon les besoins du service, les agents des greffes peuvent être délégués dans
+les services d'une autre juridiction du ressort de la cour d'appel.
+
+Cette délégation est prononcée par décision du premier président de la cour
+d'appel et du procureur général près cette cour. Elle ne peut excéder une durée
+de six mois. Les chefs de cour peuvent la renouveler une fois. A l'issue de
+cette période, le garde des sceaux peut renouveler la délégation ou lui assigner
+une durée supérieure.
+
+Les agents délégués dans une autre juridiction perçoivent les indemnités dans
+les mêmes conditions que les fonctionnaires de leur catégorie et suivant les
+mêmes taux.
