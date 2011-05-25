@@ -32,7 +32,10 @@ d) Trois représentants des organisations spécialisées de producteurs des
 filières de productions animales ;
 
 e) Deux représentants des organisations spécialisées de producteurs de la
-filière vitivinicole.
+filière vitivinicole ;
+
+f) Deux représentants des organisations spécialisées de producteurs de la
+filière forestière.
 
 III.-Les membres de la Commission nationale technique autres que ceux mentionnés
 aux a et b du 1° du II sont nommés pour une durée de trois ans, renouvelable,
