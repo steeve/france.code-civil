@@ -3,7 +3,7 @@ Article R6144-69
 Les réunions du comité ont lieu sur convocation de son président, à l'initiative
 de celui-ci ou sur demande écrite de la moitié au moins des représentants
 titulaires du personnel. Dans ce dernier cas, le comité est réuni dans un délai
-d'un mois.
+de quinze jours.
 
 La convocation est accompagnée de l'ordre du jour de la séance.
 

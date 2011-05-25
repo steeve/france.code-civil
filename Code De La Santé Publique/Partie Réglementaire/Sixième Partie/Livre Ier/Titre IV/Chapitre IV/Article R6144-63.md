@@ -9,7 +9,7 @@ vote qui lui sont transmis par celles-ci accompagnés d'un procès-verbal établ
 dans les conditions prévues à l'article R. 6144-65 ;
 
 3° A la détermination du nombre total de suffrages valablement exprimés obtenus
-par chaque liste.
+par chaque candidature.
 
 Il détermine en outre le quotient électoral en divisant le nombre de suffrages
 valablement exprimés par le nombre de représentants titulaires à élire dans

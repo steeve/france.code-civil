@@ -13,7 +13,9 @@ A l'expiration du délai de seize jours suivant l'affichage, la liste électoral
 est close.
 
 La liste électorale ainsi close est transmise, sur leur demande, aux
-organisations syndicales déclarées dans l'établissement.
+organisations syndicales remplissant, dans la fonction publique hospitalière,
+les conditions fixées à l'article 9 bis de la loi n° 83-634 du 13 juillet 1983
+modifiée portant droits et obligations des fonctionnaires.
 
 Aucune modification n'est alors admise, sauf si un événement postérieur et
 prenant effet au plus tard la veille du scrutin entraîne, pour un agent,
