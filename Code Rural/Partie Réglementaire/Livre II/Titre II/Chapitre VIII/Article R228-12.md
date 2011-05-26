@@ -24,4 +24,5 @@ pas respecter les prescriptions prévues au II de l'article R. 226-1 ;
 
 6° S'agissant de toute personne qui expédie, transporte ou reçoit des
 sous-produits animaux, de ne pas procéder à l'établissement du relevé visé à
-l'article R. 226-5.
+l'article R. 226-5 ou de ne pas transmettre à l'administration les données
+mentionnées à l'article D. 226-4.
