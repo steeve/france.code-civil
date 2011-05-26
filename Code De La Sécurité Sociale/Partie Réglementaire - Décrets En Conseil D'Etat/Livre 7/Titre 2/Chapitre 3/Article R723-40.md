@@ -17,7 +17,15 @@ application des articles L. 723-5-l et R. 723-23 ;
 l'article R. 723-56 ;
 
 4° Les périodes mentionnées à l'article L. 161-19 et les périodes assimilées
-définies par les mesures réglementaires d'application de cet article.
+définies par les mesures réglementaires d'application de cet article ;
+
+5° Les périodes attribuées au titre des majorations de durée d'assurance pour
+enfants mentionnées à l'article L. 351-4, lorsque l'assuré n'a relevé d'aucun
+autre régime que celui de la Caisse nationale des barreaux français, ou lorsque
+celle-ci a compétence pour attribuer ces majorations en application de l'article
+R. 173-15. Ces périodes ne peuvent avoir pour effet de porter le total des
+périodes d'assurance au-delà de la durée d'assurance mentionnée au 1° de
+l'article R. 723-37.
 
 Les périodes mentionnées aux 3° et 4° du présent article sont comptées de date à
 date au titre de l'année civile et ouvrent droit à la validation d'un trimestre
