@@ -1,11 +1,10 @@
 Article R45
 ----
-Tous les trois ans, dans la première quinzaine de décembre et chaque fois qu'il
-est nécessaire, le préfet fait parvenir au président du tribunal des pensions
-les listes présentées par les associations de mutilés ou de réformés. A l'effet
-de pouvoir procéder au tirage au sort sur une liste de vingt membres, notamment
-lorsqu'il y a plusieurs sections dans le département ou qu'un membre délégué n'a
-pas été agréé par le tribunal, les associations désignent un nombre
-supplémentaire de pensionnés égal au double de celui des sections augmenté de
-six unités. Un tirage au sort spécial détermine l'ordre dans lequel les jurés
-supplémentaires sont appelés à figurer sur la liste définitive.
+A l'effet de pouvoir procéder au tirage au sort du pensionné composant le
+tribunal et de son suppléant, conformément au cinquième alinéa de l'article 1er
+du décret n° 59-327 du 20 février 1959 modifié relatif aux juridictions des
+pensions, tous les trois ans, dans la première quinzaine de décembre et chaque
+fois qu'il est nécessaire, le préfet du département où siège le tribunal des
+pensions fait parvenir au président de ce tribunal la liste des cinq membres
+présentés par les associations de mutilés et réformés des départements du
+ressort de la cour d'appel.

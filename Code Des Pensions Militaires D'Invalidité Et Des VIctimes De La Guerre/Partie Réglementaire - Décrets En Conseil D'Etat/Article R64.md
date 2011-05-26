@@ -1,7 +1,7 @@
 Article R64
 ----
 Le greffier de la cour régionale tient dans les conditions fixées par l'article
-R. 51 pour le greffier du tribunal départemental :
+R. 51 pour le greffier du tribunal :
 
 1° Un registre général comprenant l'indication pour chaque affaire de tous les
 actes de procédure ;

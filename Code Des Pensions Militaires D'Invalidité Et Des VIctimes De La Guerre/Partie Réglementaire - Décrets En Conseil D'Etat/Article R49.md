@@ -10,5 +10,5 @@ Au cas où une association ou groupement ne procède pas dans les délais impart
 nomination à d'autres associations ou groupements proportionnellement au nombre
 de leurs adhérents.
 
-Enfin, si la liste de vingt membres ne peut être établie, le pensionné est
+Enfin, si la liste de cinq membres ne peut être établie, le pensionné est
 désigné par le tribunal.

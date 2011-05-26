@@ -1,7 +1,7 @@
 Article R51
 ----
-Le greffier du tribunal départemental tient sur papier libre les registres
-suivants, qui sont cotés et paraphés par le président :
+Le greffier du tribunal tient sur papier libre les registres suivants, qui sont
+cotés et paraphés par le président :
 
 1° Un registre sur lequel sont inscrits, par date d'entrée, toutes les affaires
 concernant les demandes de pension ainsi que, sous la rubrique de chaque
