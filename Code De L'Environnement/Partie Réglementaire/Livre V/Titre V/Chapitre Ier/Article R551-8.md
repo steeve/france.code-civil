@@ -6,5 +6,7 @@ de wagons de matières dangereuses supérieur à 50 sont soumis à la présente
 section.
 
 Pour l'application du présent article, les matières dangereuses prises en compte
-sont celles qui sont définies par l'arrêté du 5 juin 2001 modifié relatif au
-transport des marchandises dangereuses par chemin de fer, dit " arrêté RID ".
+sont celles qui sont définies par le règlement concernant le transport
+international ferroviaire des marchandises dangereuses (règlement dit "RID").
+
+L'étude de dangers est réalisée par le gestionnaire de l'infrastructure.

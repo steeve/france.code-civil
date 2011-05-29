@@ -1,9 +1,15 @@
 Article R551-4
 ----
-Le gestionnaire d'une infrastructure de transport existante ou ayant fait
-l'objet d'une autorisation au 5 mai 2007 et qui entre dans le champ
-d'application de la présente section doit adresser l'étude de dangers au préfet
-du département où est situé l'ouvrage, avant le 5 mai 2010.
+Lorsqu'un ouvrage d'infrastructure existant est nouvellement soumis aux
+dispositions de la présente section suite à des modifications substantielles de
+l'ouvrage ou à la modification du trafic dans l'infrastructure au sein de
+laquelle il se trouve, l'étude de dangers mentionnée à l'article R. 551-3 est
+adressée six mois avant le démarrage des travaux de modification ou le démarrage
+du nouveau trafic.
 
-Le gestionnaire de l'infrastructure met à jour l'étude de dangers au moins tous
-les cinq ans.
+Lorsqu'un ouvrage d'infrastructure soumis aux dispositions de la présente
+section accueille un trafic nouveau susceptible de modifier la nature des
+risques au sein de cette infrastructure ou fait l'objet de travaux de
+modifications substantielles, l'étude de dangers mentionnée à l'article R.
+551-3, ou sa révision, est adressée six mois avant le démarrage des travaux de
+modification ou le démarrage du nouveau trafic.
