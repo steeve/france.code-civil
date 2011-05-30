@@ -1,8 +1,8 @@
 Article R331-70
 ----
-Pour pouvoir bénéficier d'un prêt conventionné, le demandeur doit s'engager à ce
-que, pendant toute la durée d'amortissement du prêt, le logement financé au
-moyen de ce prêt ne soit :
+En ce qui concerne les opérations mentionnées à l'article R. 331-67, le
+demandeur doit s'engager à ce que, pendant toute la durée d'amortissement du
+prêt, le logement financé au moyen de ce prêt ne soit :
 
 a) Ni transformé en local commercial et professionnel ;
 

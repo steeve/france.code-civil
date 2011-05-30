@@ -23,24 +23,9 @@ de ressources mentionnés à l'article R. 312-3-1 ne peuvent bénéficier de ces
 prêts que si la garantie de l'Etat mentionnée au troisième alinéa de l'article
 L. 312-1 est accordée à ces derniers.
 
-Ces bénéficiaires doivent destiner le logement à leur résidence principale,
-c'est-à-dire l'occupation personnelle du logement au moins huit mois par an,
-sauf obligation professionnelle, raison de santé ou cas de force majeure, soit
-par elles-mêmes, soit par leur conjoint, soit par leurs ascendants, descendants
-ou ceux de leur conjoint.
-
-Cette occupation doit être effective dans le délai maximum d'un an suivant soit
-la déclaration d'achèvement des travaux, soit l'acquisition des logements si
-celle-ci est postérieure à ladite déclaration. Ce délai peut être porté à six
-ans lorsque le logement est destiné à être occupé par le bénéficiaire du prêt
-dès sa mise à la retraite ou dès son retour d'un département ou territoire
-d'outre-mer ou de l'étranger.
-
-Toutefois, lorsque les bénéficiaires de prêts conventionnés ne peuvent plus
-destiner le logement à leur résidence principale, ils peuvent le donner en
-location pour une période maximale de six ans. Ils informent l'établissement de
-crédit de ce changement de destination et, le cas échéant, l'organisme payeur de
-l'aide personnalisée au logement.
+Pour pouvoir bénéficier d'un prêt conventionné, le demandeur doit s'engager à ce
+que, pendant toute la durée d'amortissement du prêt, le logement respecte les
+conditions prévues aux articles L. 31-10-6 et R. 31-10-6.
 
 Les personnes physiques accédant à la propriété au moyen d'un prêt conventionné
 peuvent passer un contrat conforme à l'article L. 443-1 du code de l'action

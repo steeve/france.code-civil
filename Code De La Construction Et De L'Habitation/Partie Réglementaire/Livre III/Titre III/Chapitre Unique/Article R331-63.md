@@ -7,10 +7,7 @@ présente section, pour financer :
 construction de logements, la construction de ces logements ou leur acquisition
 ; sont assimilés à la construction de logements l'aménagement à usage de
 logement de locaux non destinés à l'habitation et l'agrandissement de logements
-existants, par extension ou surélévation si les terrains destinés à la
-construction ont été acquis depuis moins de trois ans à la date d'émission de
-l'offre de prêt, leur valeur peut être prise en compte dans le coût de
-l'opération ou refinancée par un prêt conventionné ;
+existants, par extension ou surélévation ;
 
 2° (abrogé)
 
