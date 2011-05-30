@@ -28,8 +28,8 @@ Chevreuil
 Dernier jour de février
 
 Avant la date d'ouverture générale, ces espèces ne peuvent être chassées qu'à
-l'approche ou à l'affût par les détenteurs d'une autorisation préfectorale
-individuelle.
+l'approche ou à l'affût, après autorisation préfectorale délivrée au détenteur
+du droit de chasse.
 
 
 Cerf
@@ -53,7 +53,14 @@ Mouflon
 
 Dernier jour de février
 
-Chamois, isard lorsqu'ils sont soumis au plan de chasse légal
+Chamois
+
+1er septembre
+
+
+Dernier jour de février
+
+Isard
 
 1er septembre
 
@@ -67,9 +74,13 @@ Sanglier
 
 Dernier jour de février
 
-Du 1er juin au 14 août, la chasse du sanglier ne peut être pratiquée qu'à
-l'affût ou à l'approche par les détenteurs d'une autorisation préfectorale
-individuelle et dans les conditions fixées par l'arrêté du préfet.
+Du 1er juin au 14 août, la chasse du sanglier ne peut être pratiquée qu'en
+battue, à l'affût ou à l'approche, après autorisation préfectorale délivrée au
+détenteur du droit de chasse et dans les conditions fixées par l'arrêté du
+préfet.
+
+Le bénéficiaire de l'autorisation adresse au préfet, avant le 15 septembre de la
+même année, le bilan des effectifs prélevés.
 
 Du 15 août à l'ouverture générale et de la clôture générale au dernier jour de
 février, la chasse du sanglier ne peut être pratiquée qu'en battue, ou à
@@ -123,22 +134,6 @@ Marmotte
 Ouverture générale
 
 11 novembre
-
-Chamois, isard lorsqu'ils ne sont pas soumis au plan de chasse légal :
-
-- Chaîne alpine
-
-
-Deuxième dimanche de septembre
-
-11 novembre
-
-- reste du territoire
-
-
-Troisième dimanche de septembre
-
-1er novembre
 
 
 Perdrix grise de plaine
