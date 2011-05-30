@@ -1,13 +1,9 @@
 Article R341-16
 ----
-N'est pas considérée comme activité professionnelle non salariée, pour
-l'application de l'article L. 341-10, l'activité qui procure au titulaire de la
-pension d'invalidité un gain dont le montant ajouté à celui de la pension,
-n'excède pas un montant fixé par décret.
+La suspension ou la suppression de la pension prévue à l'article L. 341-13
+intervient lorsque la capacité de gain de l'invalide pensionné devient
+supérieure à 50 %.
 
-Lorsque le total du gain et de la pension dépasse ce chiffre, la pension est
-réduite en conséquence.
-
-Pour l'application des premier et deuxième alinéas du présent article, le
-montant de la pension se substitue au chiffre limite défini au premier alinéa,
-lorsqu'il lui est supérieur.
+Pour l'application de ces dispositions la caisse primaire d'assurance maladie
+peut, à tout moment, provoquer une expertise médicale sur la capacité de gain
+qui reste à l'intéressé.

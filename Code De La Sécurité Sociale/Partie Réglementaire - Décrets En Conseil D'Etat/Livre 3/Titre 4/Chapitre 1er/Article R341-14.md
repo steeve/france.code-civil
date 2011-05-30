@@ -1,9 +1,7 @@
 Article R341-14
 ----
-La suspension ou la suppression de la pension prévue à l'article L. 341-13
-intervient lorsque la capacité de gain de l'invalide pensionné devient
-supérieure à 50 %.
+Un contrôle des droits des titulaires d'une pension d'invalidité est effectué
+chaque année.
 
-Pour l'application de ces dispositions la caisse primaire d'assurance maladie
-peut, à tout moment, provoquer une expertise médicale sur la capacité de gain
-qui reste à l'intéressé.
+Toutefois, le contrôle des droits est effectué trimestriellement lorsque le
+titulaire d'une pension d'invalidité exerce une activité salariée.

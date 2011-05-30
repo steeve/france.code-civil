@@ -20,7 +20,7 @@ maternité, invalidité et décès et calculée dans la limite du plafond mentio
 l'article L. 241-3.
 
 A compter du 1er janvier 1980, les salaires pris en considération pour le calcul
-du salaire annuel moyen sont ceux qui ont donné lieu, lors de chaque paie, au
+du salaire annuel moyen sont ceux qui donnent lieu, lors de chaque paie, au
 versement de la fraction de cotisation d'assurances sociales afférente aux
 risques maladie, maternité, invalidité et décès, dans la limite du plafond prévu
 à l'alinéa précédent.
