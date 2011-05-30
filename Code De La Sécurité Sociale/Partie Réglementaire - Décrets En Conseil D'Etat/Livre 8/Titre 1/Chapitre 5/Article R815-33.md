@@ -11,10 +11,11 @@ si celle-ci est postérieure à son soixante-cinquième anniversaire ;
 l'intéressé si ce dernier jouissait déjà à cette date d'un avantage de
 vieillesse ;
 
-3° Au premier jour du mois qui suit leur soixante-cinquième anniversaire, pour
-les personnes mentionnées à l'article R. 815-15.
+3° Au premier jour du mois qui suit l'âge prévu par l'article L. 161-17-2
+anniversaire, pour les personnes mentionnées à l'article R. 815-15.
 
 Pour les personnes mentionnées au second alinéa de l'article R. 815-1, les mêmes
 règles s'appliquent, compte tenu de la date à laquelle elles ont été reconnues
 inaptes au travail ou sont entrées en jouissance d'un avantage de vieillesse
-entre leur soixantième et leur soixante-cinquième anniversaire.
+entre l'âge prévu par l'article L. 161-17-2 et leur soixante-cinquième
+anniversaire.

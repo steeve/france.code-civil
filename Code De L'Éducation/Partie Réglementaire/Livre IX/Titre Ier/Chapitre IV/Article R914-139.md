@@ -18,8 +18,8 @@ Un arrêté des ministres chargés de l'éducation, de l'agriculture, de la séc
 sociale et du budget précise les modalités de présentation de cette demande.
 
 Les maîtres qui ne bénéficiaient pas au 31 août 2005 d'un avantage temporaire de
-retraite servi par l'Etat et qui ne justifient pas de quinze années de service
-en qualité de maître au sens de l'article R. 914-138 perçoivent, à la date à
+retraite servi par l'Etat et qui ne justifient pas de l'ancienneté de service en
+qualité de maître au sens de l'article R. 914-138 perçoivent, à la date à
 laquelle ils sont admis au bénéfice d'une pension de vieillesse du régime
 général de la sécurité sociale ou de celui des assurances sociales agricoles, un
 capital égal au montant des cotisations salariales qu'ils ont acquittées au

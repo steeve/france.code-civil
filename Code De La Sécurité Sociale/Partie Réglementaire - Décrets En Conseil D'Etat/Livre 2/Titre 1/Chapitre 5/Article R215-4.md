@@ -8,4 +8,4 @@ amiable constituée au sein du conseil d'administration de la caisse nationale.
 II.-Les caisses d'assurance retraite et de la santé au travail informent la
 Caisse nationale d'assurance vieillesse de toutes les décisions rendues par les
 juridictions mentionnées aux chapitres II, III et IV du titre IV du livre Ier en
-matière d'assurance vieillesse.
+matière d'assurance vieillesse et d'assurance veuvage.

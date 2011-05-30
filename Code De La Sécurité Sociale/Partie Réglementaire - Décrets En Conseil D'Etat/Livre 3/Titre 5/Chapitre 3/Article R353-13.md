@@ -13,5 +13,5 @@ révision ne peut plus intervenir :
 conjoint survivant est entré en jouissance de l'ensemble des avantages
 personnels de retraite de base et complémentaire auxquels il peut prétendre ;
 
-2° Après la date de son soixante-cinquième anniversaire lorsqu'il ne peut
-prétendre à de tels avantages.
+2° Après la date à laquelle il atteint l'âge prévu par le 1° de l'article L.
+351-8 lorsqu'il ne peut prétendre à de tels avantages.

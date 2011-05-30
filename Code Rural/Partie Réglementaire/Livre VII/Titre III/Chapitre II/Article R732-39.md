@@ -1,10 +1,12 @@
 Article R732-39
 ----
-L'âge à partir duquel l'assuré peut, en application de l'article L. 732-18,
-demander la liquidation de sa pension de retraite est fixé à soixante ans.
+L'assuré peut demander la liquidation de sa pension de retraite à partir de
+l'âge prévu à l'article L. 732-18.
 
-L'âge mentionné à l'article L. 732-25 en deçà duquel s'applique un coefficient
-de minoration au montant de la pension de retraite est fixé à soixante-cinq ans.
+Un coefficient de minoration s'applique au montant de la pension lorsque
+l'assuré demande la liquidation de sa pension de retraite avant l'âge prévu à
+l'article L. 732-25 et ne justifie pas de la durée d'assurance et de périodes
+reconnues équivalentes mentionnée à ce même article.
 
 La durée minimale d'assurance ou de périodes reconnues équivalentes mentionnée
 au même article et en deçà de laquelle s'applique ce coefficient de minoration

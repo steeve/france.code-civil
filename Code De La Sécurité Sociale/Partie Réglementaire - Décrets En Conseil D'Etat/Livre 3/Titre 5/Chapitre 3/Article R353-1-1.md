@@ -10,5 +10,5 @@ a) A un délai de trois mois après la date à laquelle le conjoint survivant es
 entré en jouissance de l'ensemble des avantages personnels de retraite de base
 et complémentaire lorsqu'il peut prétendre à de tels avantages ;
 
-b) A la date de son soixantième anniversaire, lorsqu'il ne peut pas prétendre à
-de tels avantages.
+b) A la date à laquelle il atteint l'âge prévu par l'article L. 161-17-2,
+lorsqu'il ne peut pas prétendre à de tels avantages.

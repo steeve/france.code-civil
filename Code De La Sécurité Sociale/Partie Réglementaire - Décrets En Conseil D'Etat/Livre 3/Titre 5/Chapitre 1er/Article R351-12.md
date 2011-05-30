@@ -25,28 +25,30 @@ garantie de ressources auquel se réfère la loi n° 72-635 du 5 juillet 1972, s
 de l'allocation spéciale créée par l'article 3 de la loi n° 63-1240 du 18
 décembre 1963 ;
 
-c. des périodes postérieures au 31 décembre 1979 durant lesquelles l'assuré âgé
-de moins de soixante-cinq ans a bénéficié de l'un des revenus de remplacement
-prévus à l'article L. 351-5 du code du travail en vigueur avant le 1er avril
-1984 ou à l'article L. 351-2 du même code ou de l'une des allocations
-mentionnées aux articles L. 351-6, L. 351-6-1, L. 351-6-2, L. 351-16, L. 351-17
-du même code en vigueur avant cette dernière date, à l'article L. 322-3 et aux
-2° et 4° du deuxième alinéa de l'article L. 322-4 du même code ;
+c. des périodes postérieures au 31 décembre 1979 durant lesquelles l'assuré dont
+l'âge est inférieur à celui prévu au 1° de l'article L. 351-8 a bénéficié de
+l'un des revenus de remplacement prévus à l'article L. 351-5 du code du travail
+en vigueur avant le 1er avril 1984 ou à l'article L. 351-2 du même code ou de
+l'une des allocations mentionnées aux articles L. 351-6, L. 351-6-1, L. 351-6-2,
+L. 351-16, L. 351-17 du même code en vigueur avant cette dernière date, à
+l'article L. 322-3 et aux 2° et 4° du deuxième alinéa de l'article L. 322-4 du
+même code ;
 
-d. des périodes postérieures au 31 décembre 1979 pendant lesquelles l'assuré âgé
-de moins de soixante-cinq ans et en état de chômage involontaire n'a pu
-bénéficier ou a cessé de bénéficier de l'un des revenus de remplacement ou de
-l'une des allocations susmentionnés. Toutefois, ces périodes ne sont prises en
-compte que dans les conditions et limites suivantes :
+d. des périodes postérieures au 31 décembre 1979 pendant lesquelles l'assuré
+dont l'âge est inférieur à celui prévu au 1° de l'article L. 351-8 et en état de
+chômage involontaire n'a pu bénéficier ou a cessé de bénéficier de l'un des
+revenus de remplacement ou de l'une des allocations susmentionnés. Toutefois,
+ces périodes ne sont prises en compte que dans les conditions et limites
+suivantes :
 
-- la première période de chômage non indemnisé, qu'elle soit continue ou non,
-est prise en compte dans la limite d'un an ;
+-la première période de chômage non indemnisé, qu'elle soit continue ou non, est
+prise en compte dans la limite d'un an ;
 
-- chaque période ultérieure de chômage non indemnisé est prise en compte à
+-chaque période ultérieure de chômage non indemnisé est prise en compte à
 condition qu'elle succède sans solution de continuité à une période de chômage
 indemnisé, dans la limite d'un an ;
 
-- cette dernière limite est portée à cinq ans lorsque l'assuré justifie d'une
+-cette dernière limite est portée à cinq ans lorsque l'assuré justifie d'une
 durée de cotisation d'au moins vingt ans, est âgé d'au moins cinquante-cinq ans
 à la date où il cesse de bénéficier de l'un des revenus de remplacement ou de
 l'une des allocations susmentionnés, et ne relève pas à nouveau d'un régime

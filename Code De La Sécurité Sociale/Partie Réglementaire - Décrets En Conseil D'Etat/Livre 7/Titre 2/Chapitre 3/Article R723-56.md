@@ -4,14 +4,14 @@ Les avocats en état d'incapacité permanente d'exercer leur profession et qui n
 peuvent prétendre au bénéfice d'une pension de retraite bénéficient, à
 l'expiration du délai de trois ans durant lequel ils ont perçu l'allocation
 temporaire et jusqu'au dernier jour du trimestre civil au cours duquel ils
-atteignent leur soixantième anniversaire, d'une pension d'invalidité égale à la
-moitié de la pension de retraite entière telle que fixée par l'assemblée
+atteignent l'âge prévu à l'article L. 161-17-2, d'une pension d'invalidité égale
+à la moitié de la pension de retraite entière telle que fixée par l'assemblée
 générale annuelle.
 
 Toutefois, le montant de la pension d'invalidité ne peut être inférieur à celui
 de la retraite proportionnelle qui aurait été attribuée aux intéressés s'ils
-avaient atteint l'âge de soixante ans lors de la date de prise d'effet de leur
-pension d'invalidité.
+avaient atteint l'âge prévu à l'article L. 161-17-2 lors de la date de prise
+d'effet de leur pension d'invalidité.
 
 Le temps d'invalidité permanente est pris en compte au titre des trimestres
 validés pour la retraite de base.

@@ -9,12 +9,12 @@ de leur dernière résidence.
 
 Par dérogation à l'alinéa précédent, les anciens assurés sociaux qui
 transportent leur domicile à l'étranger et qui souhaitent s'affilier à
-l'assurance volontaire au titre du seul risque vieillesse, adressent leur
-demande à la Caisse des Français de l'étranger. Pour la mise en œuvre en ce qui
-les concerne des dispositions de la présente sous-section, la Caisse des
-Français de l'étranger est substituée à la caisse primaire d'assurance maladie
-et à l'union pour le recouvrement des cotisations de sécurité sociale et
-d'allocations familiales.
+l'assurance volontaire au titre des seuls risques vieillesse et veuvage,
+adressent leur demande à la Caisse des Français de l'étranger. Pour la mise en
+œuvre en ce qui les concerne des dispositions de la présente sous-section, la
+Caisse des Français de l'étranger est substituée à la caisse primaire
+d'assurance maladie et à l'union pour le recouvrement des cotisations de
+sécurité sociale et d'allocations familiales.
 
 La demande d'adhésion doit être formulée dans le délai de six mois.
 

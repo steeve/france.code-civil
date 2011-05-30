@@ -12,12 +12,13 @@ résultant chaque année du rapport entre le montant maximal de l'allocation aux
 vieux travailleurs salariés, et trente-sept fois et demie la valeur du point,
 selon la formule suivante :
 
-M = PM - AVTS / 37,5 x VP
+M = PM-AVTS/37,5 x VP
 
 où :
 
 PM représente le montant maximal de la pension de vieillesse du régime général
-de la sécurité sociale, qui peut être liquidée à soixante-cinq ans ;
+de la sécurité sociale, qui peut être liquidée à l'âge prévu à l'article L.
+732-25 ;
 
 AVTS représente le montant de l'allocation aux vieux travailleurs salariés ;
 

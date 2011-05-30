@@ -14,5 +14,5 @@ opérations mentionnées à l'article R. 215-2 ;
 l'article R. 226-6 ;
 
 4°) un exemplaire des comptes de résultats de la gestion de l'assurance
-vieillesse, de l'action sanitaire et sociale en faveur des personnes âgées et de
-la gestion administrative.
+vieillesse et de l'assurance veuvage, de l'action sanitaire et sociale en faveur
+des personnes âgées et de la gestion administrative.
