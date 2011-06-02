@@ -1,4 +1,4 @@
-Article R211-64
+Article R211-82-1
 ----
 Par dérogation à l'article 157 du décret n° 62-1587 du 29 décembre 1962 portant
 règlement général sur la comptabilité publique, l'agent comptable est nommé par
