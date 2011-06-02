@@ -1,23 +1,25 @@
 Article R1334-22
 ----
-Les propriétaires constituent, conservent et actualisent un dossier technique
-regroupant notamment les informations relatives à la recherche et à
-l'identification des flocages, calorifugeages et faux plafonds ainsi qu'à
-l'évaluation de leur état de conservation. Ce dossier doit préciser la date, la
-nature, la localisation et les résultats des contrôles périodiques, des mesures
-d'empoussièrement et, le cas échéant, des travaux effectués à l'issue du
-diagnostic prévu à l'article R. 1334-16. Il est tenu à la disposition des
-occupants de l'immeuble bâti concerné. Il est communiqué, sur leur demande et
-dans le cadre de leurs attributions respectives, aux agents ou services
-mentionnés au premier alinéa de l'article L. 1312-1, à l'article L. 1421-1 et au
-deuxième alinéa de l'article L. 1422-1, ainsi qu'aux inspecteurs et contrôleurs
-du travail, aux agents du service de prévention des organismes de sécurité
-sociale, aux agents du ministère chargé de la construction mentionnés à
-l'article L. 151-1 du code de la construction et de l'habitation, aux
-inspecteurs de la jeunesse et des sports ainsi qu'aux personnes chargées de
-l'inspection des installations classées et des installations nucléaires de base
-mentionnées à l'article L. 514-5 du code de l'environnement. Il est aussi
-communiqué, à la demande de cette instance, à la commission consultative
-départementale de sécurité et d'accessibilité. Les propriétaires communiquent ce
-dossier à toute personne physique ou morale appelée à effectuer des travaux dans
-l'immeuble bâti et conservent une attestation écrite de cette communication.
+I.-On entend par " repérage des matériaux et produits de la liste C contenant de
+l'amiante " la mission qui consiste à :
+
+1° Rechercher la présence des matériaux et produits de la liste C ;
+
+2° Rechercher la présence de tout autre matériau et produit réputé contenir de
+l'amiante dont la personne qui effectue le repérage aurait connaissance ;
+
+3° Identifier et localiser les matériaux et produits qui contiennent de
+l'amiante.
+
+II.-Lorsque la recherche révèle la présence de matériaux ou produits de la liste
+C ou de tout autre matériau et produit réputé contenir de l'amiante et si un
+doute persiste sur la présence d'amiante dans ces matériaux ou produits, un ou
+plusieurs prélèvements de matériaux ou produits sont effectués par la personne
+réalisant la recherche. Ces prélèvements font l'objet d'analyses selon les
+modalités définies à l'article R. 1334-24.
+
+III.-A l'issue du repérage, la personne qui l'a réalisé établit un rapport de
+repérage qu'elle remet au propriétaire contre accusé de réception.
+
+IV.-Un arrêté conjoint des ministres chargés de la construction, de la santé et
+du travail précise notamment le contenu du rapport de repérage.

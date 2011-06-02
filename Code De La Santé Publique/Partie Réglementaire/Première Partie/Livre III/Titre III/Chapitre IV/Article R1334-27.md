@@ -1,14 +1,22 @@
 Article R1334-27
 ----
-Les propriétaires des immeubles mentionnés à l'article R. 1334-23 sont tenus,
-préalablement à la démolition de ces immeubles, d'effectuer un repérage des
-matériaux et produits contenant de l'amiante et de transmettre les résultats de
-ce repérage à toute personne physique ou morale appelée à concevoir ou à
-réaliser les travaux.
+Le propriétaire met en œuvre les préconisations mentionnées à l'article R.
+1334-20 selon les modalités suivantes :
 
-Ce repérage est réalisé selon les modalités prévues au septième alinéa de
-l'article R. 1334-26.
+1° L'évaluation périodique de l'état de conservation des matériaux et produits
+de la liste A contenant de l'amiante est effectuée dans un délai maximal de
+trois ans à compter de la date de remise au propriétaire du rapport de repérage
+ou des résultats de la dernière évaluation de l'état de conservation ou à
+l'occasion de toute modification substantielle de l'ouvrage ou de son usage. La
+personne ayant réalisé cette évaluation en remet les résultats au propriétaire
+contre accusé de réception ;
 
-Un arrêté des ministres chargés de la construction, du travail et de la santé
-définit les catégories de matériaux et produits devant faire l'objet de ce
-repérage ainsi que les modalités d'intervention.
+2° La mesure d'empoussièrement dans l'air est effectuée dans les conditions
+définies à l'article R. 1334-25, dans un délai de trois mois à compter de la
+date de remise au propriétaire du rapport de repérage ou des résultats de la
+dernière évaluation de l'état de conservation. L'organisme qui réalise les
+prélèvements d'air remet les résultats des mesures d'empoussièrement au
+propriétaire contre accusé de réception ;
+
+3° Les travaux de confinement ou de retrait de l'amiante sont mis en œuvre selon
+les modalités prévues à l'article R. 1334-29.

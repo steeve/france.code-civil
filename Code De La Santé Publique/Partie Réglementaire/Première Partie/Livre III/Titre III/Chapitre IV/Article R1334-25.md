@@ -1,20 +1,13 @@
 Article R1334-25
 ----
-Les propriétaires des immeubles mentionnés aux deux alinéas suivants constituent
-le dossier technique " Amiante " défini à l'article R. 1334-26 avant les dates
-limites suivantes :
+Les mesures d'empoussièrement dans l'air comprennent l'activité de prélèvement
+d'air et celle d'analyse et de comptage des fibres d'amiante. Elles sont
+réalisées selon des modalités définies par arrêté des ministres chargés de la
+construction, de la santé et du travail.
 
-- le 31 décembre 2003 pour les immeubles de grande hauteur mentionnés à
-l'article R. 122-2 du code de la construction et de l'habitation et les
-établissements recevant du public définis à l'article R. 123-2 de ce même code,
-classés de la première à la quatrième catégorie au sens de l'article R. 123-19
-du même code à l'exception des parties privatives des immeubles collectifs
-d'habitation ;
-
-- le 31 décembre 2005 pour les immeubles de bureaux, les établissements recevant
-du public et classés dans la cinquième catégorie, les immeubles destinés à
-l'exercice d'une activité industrielle ou agricole, les locaux de travail et les
-parties à usage commun des immeubles collectifs d'habitation.
-
-Les propriétaires des immeubles mentionnés aux deux précédents alinéas tiennent
-à jour le dossier technique " Amiante ".
+Ces mesures sont réalisées par des organismes accrédités qui adressent au
+ministre chargé de la santé un rapport annuel d'activité. Un arrêté des
+ministres chargés de la santé et du travail définit les modalités et conditions
+d'accréditation de ces organismes, notamment les compétences des personnes
+chargées d'effectuer les mesures ainsi que le contenu et les conditions de
+transmission du rapport annuel d'activité.

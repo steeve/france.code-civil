@@ -1,12 +1,12 @@
 Article R1334-24
 ----
-Les propriétaires des immeubles mentionnés à l'article R. 1334-23 produisent, au
-plus tard à la date de toute promesse de vente ou, à défaut de promesse, à la
-date de l'acte authentique de vente, un constat précisant la présence ou, le cas
-échéant, l'absence de matériaux et produits contenant de l'amiante mentionnés à
-l'annexe 13-9. Ce constat indique la localisation et l'état de conservation de
-ces matériaux et produits.
+Les analyses de matériaux et produits susceptibles de contenir de l'amiante sont
+réalisées par un organisme accrédité répondant aux exigences définies par un
+arrêté du ministre chargé de la santé. Cet arrêté précise notamment les
+compétences des personnes chargées d'effectuer les analyses et les méthodes qui
+doivent être mises en œuvre pour vérifier la présence d'amiante dans le matériau
+ou le produit.
 
-Ce constat ou, lorsque le dossier technique "Amiante" existe, la fiche
-récapitulative contenue dans ce dossier constitue l'état mentionné à l'article
-L. 1334-13.
+Les organismes accrédités adressent au ministre chargé de la santé un rapport
+d'activité portant sur l'année écoulée, dont les modalités et le contenu sont
+définis par arrêté du ministre chargé de la santé.
