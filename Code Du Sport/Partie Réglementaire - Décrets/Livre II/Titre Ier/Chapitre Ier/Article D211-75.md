@@ -1,19 +1,24 @@
 Article D211-75
 ----
-Les délibérations portant sur le budget et ses modifications ainsi que sur le
-compte financier sont approuvées par le ministre chargé des sports dans les
-conditions déterminées par le décret n° 99-575 du 8 juillet 1999 relatif aux
-modalités d'approbation de certaines décisions financières des établissements
-publics de l'Etat.
+Le conseil d'administration se réunit au moins deux fois par an sur convocation
+de son président qui fixe l'ordre du jour.
 
-Sont exécutoires de plein droit les délibérations du conseil d'administration et
-les décisions prises par le directeur agissant par délégation du conseil
-d'administration qui, dans le délai de dix jours après la réception du
-procès-verbal ou de la décision par le ministre chargé des sports et le préfet
-n'ont pas fait l'objet de la part de ce dernier soit d'une demande de réexamen
-adressée à l'organe ayant pris la délibération ou la décision, soit d'une
-opposition.
+Il peut également être convoqué par le directeur à la demande du ministre chargé
+des sports ou de la majorité de ses membres, sur un ordre du jour déterminé.
 
-Dans ce dernier cas, le préfet en réfère au ministre chargé des sports, à défaut
-de décision de rejet dans un délai de quinze jours. La délibération devient
-exécutoire.
+Le directeur, le ou les directeurs adjoints, l'agent comptable, l'autorité
+chargée du contrôle financier, ainsi que toute personne dont la présence est
+jugée utile par le président, assistent aux séances avec voix consultative.
+
+Les présidents des établissements publics de coopération intercommunale dotés
+d'une compétence en matière sportive des lieux d'implantation des sites autres
+que le siège du centre, ou à défaut les maires des communes concernés, ou leurs
+représentants, assistent au conseil d'administration avec voix consultative.
+
+Les présidents des conseils régionaux des régions où se situent des sites du
+centre, autres que celle où se situe le siège du centre, ou leurs représentants,
+assistent au conseil d'administration avec voix consultative.
+
+Les présidents des conseils généraux des départements où se situent des sites du
+centre, autres que celui où se situe le siège du centre, ou leurs représentants,
+assistent au conseil d'administration avec voix consultative.

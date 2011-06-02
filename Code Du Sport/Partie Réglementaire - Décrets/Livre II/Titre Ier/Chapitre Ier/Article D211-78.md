@@ -1,13 +1,9 @@
 Article D211-78
 ----
-Le conseil intérieur, dont la composition est fixée par arrêté du ministre
-chargé des sports, est présidé par le directeur de l'établissement.
+Le préfet de la région dans laquelle est situé le siège du centre reçoit copie
+des ordres du jour et des procès-verbaux des séances du conseil
+d'administration.
 
-Le conseil intérieur assiste le directeur dans l'organisation de la vie
-matérielle et morale de l'établissement.
-
-Il favorise au sein du centre d'éducation populaire et de sport le développement
-de toutes les activités sociales et culturelles.
-
-Le conseil intérieur est consulté en cas de procédure d'exclusion définitive
-d'un stagiaire.
+Il peut recevoir délégation du ministre chargé des sports pour exercer le
+pouvoir de tutelle mentionné au I de l'article D. 211-77, sauf si le centre
+dispose d'un site implanté dans une autre région que celle de son siège.

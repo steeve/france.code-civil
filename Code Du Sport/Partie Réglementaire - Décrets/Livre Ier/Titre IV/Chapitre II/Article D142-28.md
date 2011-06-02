@@ -42,8 +42,8 @@ avalanches ;
 
 18° Le directeur de l'Ecole nationale de ski et d'alpinisme de Chamonix ;
 
-19° Le directeur technique du centre d'éducation populaire et de sport de
-Franche-Comté ;
+19° Le directeur technique du centre de ressources, d'expertise et de
+performance sportives de Franche-Comté ;
 
 20° Le directeur des sports ;
 

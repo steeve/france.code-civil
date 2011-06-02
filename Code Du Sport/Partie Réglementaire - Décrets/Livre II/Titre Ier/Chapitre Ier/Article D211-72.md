@@ -1,78 +1,65 @@
 Article D211-72
 ----
-Le conseil d'administration comprend :
+Le conseil d'administration comprend vingt membres :
 
-1° Six représentants de l'Etat, dont :
+1° Six membres de droit :
 
-a) Deux directeurs départementaux de la jeunesse, des sports et de la vie
-associative désignés par le ministre chargé des sports ;
+a) Le directeur régional de la jeunesse, des sports et de la cohésion sociale de
+la région où se situe le siège du centre de ressources, d'expertise et de
+performance sportives ou son représentant ;
 
-b) Un membre désigné par le ministre chargé de l'éducation ;
+b) Le recteur de l'académie où se situe le siège du centre de ressources,
+d'expertise et de performance sportives ou son représentant ;
 
-c) Trois membres désignés par le ministre chargé des sports après avis du
-directeur régional de la jeunesse, des sports et de la cohésion sociale ;
+c) Le président du comité régional olympique et sportif de la région où se situe
+le siège du centre de ressources, d'expertise et de performance sportives ou son
+représentant ;
 
-2° Six personnalités représentatives des collectivités territoriales dont :
+d) Le président du conseil régional de la région où se situe le siège du centre
+de ressources, d'expertise et de performance sportives ou son représentant ;
 
-a) Le président du conseil régional de la région dans laquelle est situé le
-centre d'éducation populaire et de sport ou son représentant ;
+e) Le président du conseil général du département où se situe le siège du centre
+de ressources, d'expertise et de performance sportives ou son représentant ;
 
-b) Le président du conseil général du département dans lequel est situé le
-centre d'éducation populaire et de sport ou son représentant ;
+f) Le président de l'établissement public de coopération intercommunale doté
+d'une compétence en matière sportive, ou à défaut le maire de la commune
+d'implantation du siège du centre de ressources, d'expertise et de performance
+sportives, ou leur représentant ;
 
-c) Le maire de la commune dans laquelle est situé le centre d'éducation
-populaire et de sport ou son représentant ;
+2° Quatre membres désignés par le ministre chargé des sports, dont un conseiller
+technique sportif ;
 
-d) Trois conseillers régionaux désignés par le conseil régional ;
+3° Trois personnalités qualifiées, dont un chef d'entreprise ou cadre dirigeant
+d'entreprise, désignées par le ministre chargé des sports ;
 
-3° Trois personnalités choisies pour leur compétence dans le domaine du sport :
+4° Un président de fédération sportive désigné par le président du Comité
+national olympique et sportif français ;
 
-a) Le président du comité régional olympique et sportif ;
+5° Un directeur technique national désigné par le ministre chargé des sports ;
 
-b) Un représentant du mouvement sportif, désigné par le ministre chargé des
-sports sur proposition du président du comité régional olympique et sportif ;
+6° Cinq membres élus au sein de l'établissement :
 
-c) Un représentant des cadres techniques, désigné par le ministre chargé des
-sports sur proposition du directeur régional de la jeunesse, des sports et de la
-cohésion sociale ;
+a) Un représentant des personnels pédagogiques ;
 
-4° Trois personnalités choisies pour leur compétence dans le domaine de la
-jeunesse, de l'éducation populaire et du loisir désignées par le ministre chargé
-des sports sur proposition du directeur régional de la jeunesse, des sports et
-de la cohésion sociale , dont un représentant des cadres techniques ;
+b) Un représentant des personnels administratifs et des personnels médicaux et
+paramédicaux ;
 
-5° Six représentants des personnels en fonctions dans l'établissement, élus
-selon des modalités fixées par arrêté ministériel :
+c) Un représentant des personnels ouvriers, techniques et de service ;
 
-a) Deux représentants des personnels enseignants ou leurs suppléants ;
+d) Un représentant des sportifs accueillis dans les " pôles France " ou les "
+pôles Espoirs " ;
 
-b) Deux représentants des personnels administratifs et médicaux ou leurs
-suppléants ;
+e) Un représentant des stagiaires en formation.
 
-c) Deux représentants des personnels ouvriers et des personnels de service et
-techniques ou leurs suppléants ;
+Pour chacun des membres titulaires à l'exception des membres de droit et des
+personnalités qualifiées, un suppléant est désigné dans les mêmes conditions,
+sous réserve des dispositions de l'alinéa suivant.
 
-6° Une personnalité qualifiée désignée par le ministre chargé des sports.
+Le suppléant du président de fédération sportive est soit un président de
+fédération sportive, soit un membre d'une instance dirigeante de fédération
+sportive. Le suppléant du directeur technique national est soit un directeur
+technique national, soit un entraîneur national.
 
-Les membres du conseil d'administration et leurs suppléants, autres que les
-membres de droit et les membres élus, sont nommés par arrêté du ministre chargé
-des sports pour une durée de trois ans renouvelable. Le président du conseil
-d'administration est nommé par le ministre chargé des sports parmi les membres
-du conseil d'administration.
-
-Le directeur, le ou les chefs de département, l'agent comptable et l'autorité
-chargée du contrôle financier assistent aux réunions du conseil d'administration
-avec voix consultative.
-
-Le préfet du département dans lequel est situé le centre assiste en tant que
-commissaire du Gouvernement à toutes les séances du conseil d'administration ;
-il est entendu à sa demande et reçoit copie des ordres du jour et des
-procès-verbaux ; il est assisté dans cette mission par le directeur régional de
-la jeunesse, des sports et de la cohésion sociale , qui le représente, en cas
-d'absence, au conseil d'administration.
-
-En cas de vacance, pour quelque cause que ce soit, du siège d'un membre du
-conseil d'administration survenant plus de six mois avant l'expiration de son
-mandat, un autre membre est nommé dans les mêmes conditions pour la durée du
-mandat restant à courir, sauf pour les membres élus qui sont remplacés par leur
-suppléant jusqu'à la fin du mandat détenu par le titulaire.
+Les personnalités qualifiées empêchées d'assister à une séance du conseil
+d'administration peuvent donner pouvoir à un autre membre du conseil. Nul ne
+peut détenir plus de deux pouvoirs.
