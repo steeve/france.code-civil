@@ -88,23 +88,28 @@ Lorsque l'activité est implantée dans des zones éligibles dont les taux
 d'intensité d'aide diffèrent, le bénéfice exonéré ne peut excéder la somme des
 limites calculées pour chacune des zones éligibles.
 
+5. Ces dispositions s'appliquent aux entreprises créées à compter du 1er janvier
+2007 et jusqu'au 31 décembre 2013 dans les zones d'aide à finalité régionale et
+dans les conditions et limites prévues par le règlement (CE) n° 1628/2006 de la
+Commission, du 24 octobre 2006, concernant l'application des articles 87 et 88
+du traité CE aux aides nationales à l'investissement à finalité régionale.
+
 III. - 1. Sur agrément du ministre chargé du budget, les petites et moyennes
 entreprises peuvent bénéficier de l'exonération prévue au I dans les limites
 prévues par le règlement (CE) n° 70/2001 de la Commission, du 12 janvier 2001,
 concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat en
 faveur des petites et moyennes entreprises.
 
-2. Lorsque les entreprises visées au 1 sont situées en dehors des zones
-éligibles à la prime d'aménagement du territoire classées pour les projets
-industriels, l'exonération est appliquée à leurs bénéfices réalisés dans la
-limite de 21 % du montant des coûts éligibles définis au 2 du II. Cette limite
-est portée à 42 % du montant des coûts éligibles pour les petites entreprises.
+2. Lorsque les entreprises visées au 1 sont situées en dehors des zones d'aide à
+finalité régionale, l'exonération est appliquée à leurs bénéfices réalisés dans
+la limite de 21 % du montant des coûts éligibles définis au 2 du II. Cette
+limite est portée à 43 % du montant des coûts éligibles pour les petites
+entreprises.
 
-3. Les petites et moyennes entreprises créées dans les zones éligibles à la
-prime d'aménagement du territoire classées pour les projets industriels peuvent
-bénéficier de l'exonération prévue au I dans les conditions prévues au II. Dans
-ce cas, le montant du bénéfice exonéré ne peut dépasser les limites fixées au 1
-du II majorées de 28 points de pourcentage.
+3. Ces dispositions s'appliquent aux petites et moyennes entreprises créées à
+compter du 1er janvier 2007 et jusqu'au 31 décembre 2013 dans les zones d'aide à
+finalité régionale dans les conditions et limites prévues par le règlement (CE)
+n° 1628/2006 de la Commission, du 24 octobre 2006, précité.
 
 4. Le bénéfice exonéré des entreprises en application des 1, 2 et 3 ne peut
 dépasser 42 000 000 Euros.
@@ -153,12 +158,12 @@ condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 3
 entre la société en cause et ces dernières sociétés ou ces fonds. Cette
 condition s'apprécie de manière continue au cours de l'exercice.
 
-VI. - Sans préjudice de l'application des II et III, les sociétés créées pour
-reprendre une entreprise industrielle en difficulté visées au I peuvent
-bénéficier d'une exonération d'impôt sur les sociétés dans les limites prévues
-par le règlement (CE) n° 69/2001 de la Commission, du 12 janvier 2001,
-concernant l'application des articles 87 et 88 du traité CE aux aides de
-minimis.
+VI. - Lorsqu'elles ne remplissent pas les conditions mentionnées aux II et III,
+les sociétés créées pour reprendre une entreprise industrielle en difficulté
+visées au I peuvent bénéficier d'une exonération d'impôt sur les sociétés dans
+les limites prévues par le règlement (CE) n° 69/2001 de la Commission, du 12
+janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux
+aides de minimis.
 
 VII. - 1. Les limites prévues au II s'appliquent à l'ensemble des aides à
 finalité régionale au sens des a et c du paragraphe 3 de l'article 87 du traité
@@ -173,8 +178,8 @@ Les limites prévues au VI s'appliquent à l'ensemble des aides perçues en
 application du règlement (CE) n° 69/2001 précité.
 
 2. Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions
-du régime prévu à l'article 44 octies et du régime prévu au présent article, la
-société peut opter pour ce dernier régime dans les six mois suivant celui du
+du régime prévu à l'article 44 octies A et du régime prévu au présent article,
+la société peut opter pour ce dernier régime dans les six mois suivant celui du
 début d'activité. Cette option est irrévocable.
 
 VIII. - L'agrément prévu aux II et III est accordé lorsque sont remplies les

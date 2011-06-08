@@ -33,7 +33,7 @@ fonds, au titre de l'année au cours de laquelle cette distribution intervient.
 l'article 31 bis, au premier alinéa du 3° du I de l'article 156 relatives aux
 immeubles classés monuments historiques, inscrits à l'inventaire supplémentaire
 ou ayant fait l'objet d'un agrément ministériel ou ayant reçu le label délivré
-par la Fondation du patrimoine, aux deuxième et troisième alinéas du 3° du I de
+par la Fondation du patrimoine, aux troisième et quatrième alinéas du 3° du I de
 l'article 156, aux articles 199 decies E à 199 decies H et à l'article 199
 undecies A ne sont pas applicables lorsque les immeubles, droits immobiliers ou
 parts sont détenus directement ou indirectement par des fonds de placement

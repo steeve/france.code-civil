@@ -27,7 +27,7 @@ ayant leur siège dans un Etat de la Communauté européenne ou dans un Etat ou
 territoire ayant conclu avec la France une convention fiscale en vue d'éviter
 les doubles impositions en matière d'impôt sur les revenus et résultant d'une
 décision régulière des organes compétents, sont retenus, pour le calcul de
-l'impôt sur le revenu, pour 50 % de leur montant. A compter du 1er janvier 2009
+l'impôt sur le revenu, pour 60 % de leur montant. A compter du 1er janvier 2009
 pour les sociétés étrangères n'ayant pas leur siège dans un Etat de la
 Communauté européenne, cette disposition est réservée aux revenus distribués par
 des sociétés établies dans un Etat ou territoire ayant conclu une convention
@@ -50,7 +50,11 @@ en sa qualité d'associé ou d'actionnaire. Pour l'application de cette
 disposition, est considéré comme actionnaire ou associé le preneur bénéficiaire
 de revenus mentionnés au 2° distribués par la société dont il loue les actions
 ou parts sociales en application des articles L. 239-1 à L. 239-5 du code de
-commerce ;
+commerce. De même, en cas d'acquisition d'actions sur un marché d'instruments
+financiers, dont le fonctionnement est assuré par une entreprise de marché ou un
+prestataire de services d'investissement ou tout autre organisme similaire, est
+considéré comme actionnaire ou associé, dès le jour de l'exécution de l'ordre,
+l'acheteur bénéficiaire de revenus mentionnés au 2° ;
 
 d. Aux revenus distribués mentionnés au a de l'article 111 ;
 
@@ -76,17 +80,19 @@ organismes de placement collectif en valeurs mobilières (OPCVM) ;
 
 c. Les sociétés mentionnées aux 1° bis, 1° ter et 3° septies de l'article 208.
 
+d. Les fonds de placement immobilier mentionnés à l'article 239 nonies.
+
 Pour la détermination de cette part, il est également tenu compte des revenus
 mentionnés au premier alinéa distribués ou répartis au profit de l'organisme ou
 de la société concerné par l'intermédiaire d'autres organismes ou sociétés
-mentionnés aux a, b et c.
+mentionnés aux a à d.
 
 L'application de ces dispositions est conditionnée à la ventilation par les
 organismes ou sociétés en cause de leurs distributions ou répartitions en
 fonction de leur nature et origine ;
 
-5° Il est opéré un abattement annuel de 1 220 Euros pour les contribuables
-célibataires, divorcés ou veufs et de 2 440 Euros pour les contribuables mariés
+5° Il est opéré un abattement annuel de 1 525 Euros pour les contribuables
+célibataires, divorcés ou veufs et de 3 050 Euros pour les contribuables mariés
 soumis à une imposition commune sur le montant net des revenus déterminé dans
 les conditions du 2° et après déduction des dépenses effectuées en vue de leur
 acquisition ou conservation.
@@ -111,34 +117,7 @@ provenant d'exploitations situées hors de France, il est fait état de ces
 résultats d'ensemble sans qu'il y ait lieu de les décomposer entre leurs divers
 éléments dans la déclaration prévue à l'article 170.
 
-4 bis. Les adhérents des centres de gestion et associations agréés définis aux
-articles 1649 quater C à 1649 quater H ainsi que les membres d'un groupement ou
-d'une société visés aux articles 8 à 8 quinquies et chacun des conjoints
-exploitants agricoles de fonds séparés ou associés d'une même société ou
-groupement adhérant à l'un de ces organismes bénéficient d'un abattement de 20 %
-sur leurs bénéfices déclarés soumis à un régime réel d'imposition.
-
-Aucun abattement n'est appliqué sur la fraction du bénéfice qui excède la limite
-fixée au cinquième alinéa du a du 5 ;
-
-La limitation du montant de l'abattement résultant de l'application du deuxième
-alinéa est opérée sur la totalité du revenu net professionnel déclaré par une
-même personne physique, dans une même catégorie de revenus.
-
-Aucun abattement n'est appliqué à la partie des bénéfices résultant d'une
-rectification, sauf lorsque cette rectification fait suite à une déclaration
-rectificative souscrite spontanément par l'adhérent.
-
-L'abattement n'est pas appliqué lorsque la déclaration professionnelle, la
-déclaration d'ensemble des revenus ou les déclarations de chiffre d'affaires
-n'ont pas été souscrites dans les délais et qu'il s'agit de la deuxième
-infraction successive concernant la même catégorie de déclaration.
-
-L'établissement de la mauvaise foi d'un adhérent à l'occasion d'une
-rectification relative à l'impôt sur le revenu ou à la taxe sur la valeur
-ajoutée auxquels il est soumis du fait de son activité professionnelle entraîne
-la perte de l'abattement et de la réduction d'impôt prévue à l'article 199
-quater B, pour l'année au titre de laquelle la rectification est effectuée.
+4 bis. (abrogé)
 
 4 ter. (disposition devenue sans objet).
 
@@ -159,20 +138,6 @@ s'applique au montant des pensions ou retraites perçu par chaque retraité ou
 pensionné membre du foyer fiscal. La somme de 323 euros est révisée chaque année
 dans la même proportion que la limite supérieure de la première tranche du
 barème de l'impôt sur le revenu.
-
-Le revenu net obtenu en application de l'article 83 et, en ce qui concerne les
-pensions et retraites après application des dispositions des deuxième et
-troisième alinéas ci-dessus, n'est retenu dans les bases de l'impôt sur le
-revenu que pour 80 % de son montant déclaré spontanément.
-
-Aucun abattement n'est pratiqué sur la fraction du montant des salaires, net de
-frais professionnels, et pensions qui excède 111 900 euros pour l'imposition des
-revenus de 2001.
-
-La limite mentionnée au cinquième alinéa est relevée chaque année dans la même
-proportion que la limite supérieure de la première tranche du barème de l'impôt
-sur le revenu. Le montant obtenu est arrondi, s'il y a lieu, à la centaine
-d'euros supérieure.
 
 b. Les dispositions du a sont applicables aux allocations mentionnées aux
 premier et troisième alinéas de l'article 231 bis D, aux participations en
@@ -237,3 +202,27 @@ conditions que les revenus énumérés à l'article 124.
 Ces dispositions ne sont pas applicables aux arrérages correspondant aux
 cotisations ayant fait l'objet de la déduction prévue au I de l'article 163
 quatervicies.
+
+7. Le montant des revenus et charges énumérés ci-après, retenu pour le calcul de
+l'impôt selon les modalités prévues à l'article 197, est multiplié par 1,25. Ces
+dispositions s'appliquent :
+
+1° Aux titulaires de revenus passibles de l'impôt sur le revenu, dans la
+catégorie des bénéfices industriels et commerciaux ou des bénéfices non
+commerciaux ou des bénéfices agricoles, réalisés par des contribuables soumis à
+un régime réel d'imposition qui ne sont pas adhérents d'un centre de gestion ou
+association agréé défini aux articles 1649 quater C à 1649 quater H, à
+l'exclusion des membres d'un groupement ou d'une société mentionnés aux articles
+8 à 8 quinquies et des conjoints exploitants agricoles de fonds séparés ou
+associés d'une même société ou groupement adhérant à l'un de ces organismes ;
+
+2° Aux revenus distribués mentionnés aux c à e de l'article 111, aux bénéfices
+ou revenus mentionnés à l'article 123 bis et aux revenus distribués mentionnés à
+l'article 109 résultant d'une rectification des résultats de la société
+distributrice ;
+
+3° Aux sommes mentionnées au 2° du II de l'article 156 versées en vertu d'une
+décision de justice devenue définitive avant le 1er janvier 2006 ;
+
+4° Aux revenus soumis à l'évaluation forfaitaire définie aux articles 64 et
+suivants.

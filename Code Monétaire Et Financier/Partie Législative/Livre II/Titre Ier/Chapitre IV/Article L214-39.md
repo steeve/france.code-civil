@@ -8,10 +8,12 @@ société de gestion doit recueillir l'avis de ce conseil.
 
 Le conseil de surveillance est composé de salariés représentant les porteurs de
 parts, eux-mêmes porteurs de parts et, pour moitié au plus, de représentants de
-l'entreprise ou, si le fonds réunit les valeurs acquises avec des sommes
+l'entreprise. Lorsque le fonds réunit les valeurs acquises avec des sommes
 provenant de réserves de participation ou versées dans des plans d'épargne
-d'entreprise constitués dans plusieurs entreprises, des représentants de ces
-entreprises.
+d'entreprise constitués dans plusieurs entreprises, le règlement détermine, dans
+des conditions fixées par décret, les modalités de représentation des
+entreprises dans le conseil de surveillance et de désignation de leurs
+représentants.
 
 Le règlement précise les modalités de désignation des représentants des porteurs
 de parts soit par élection, soit par choix opéré par le ou les comités
@@ -81,12 +83,12 @@ retraite collectif mentionné à l'article L. 443-1-2 du même code. L'actif de 
 fonds solidaires est composé :
 
 a) Pour une part, comprise entre 5 et 10 %, de titres émis par des entreprises
-solidaires agréées en application de l'article L. 443-3-1 du code du travail ou
+solidaires agréées en application de l'article L. 443-3-2 du code du travail ou
 par des sociétés de capital-risque visées à l'article 1er-1 de la loi n° 85-695
 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier
 ou par des fonds communs de placements à risques, visés à l'article L. 214-36,
 sous réserve que leur actif soit composé d'au moins 40 % de titres émis par des
-entreprises solidaires mentionnées à l'article L. 443-3-1 du code du travail ;
+entreprises solidaires mentionnées à l'article L. 443-3-2 du code du travail ;
 
 b) Pour le surplus, de valeurs mobilières admises aux négociations sur un marché
 réglementé, de parts d'organismes de placement collectif en valeurs mobilières

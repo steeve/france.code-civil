@@ -78,12 +78,19 @@ le prix d'acquisition à retenir est égal au prix convenu pour l'acceptation de
 la promesse unilatérale de vente compte non tenu des sommes correspondant aux
 versements effectués à titre de loyers.
 
-9. En cas de vente ultérieure de titres reçus à l'occasion d'une opération
-mentionnée à l'article 150-0 B, au quatrième alinéa de l'article 150 A bis en
-vigueur avant la publication de la loi de finances pour 2004 (n° 2003-1311 du 30
-décembre 2003) et au II de l'article 150 UB le gain net est calculé à partir du
-prix ou de la valeur d'acquisition des titres échangés, diminué de la soulte
-reçue ou majoré de la soulte versée lors de l'échange.
+8 ter - Le gain net mentionné au 6 du II de l'article 150-0 A est égal à la
+différence entre le montant du remboursement et le prix ou la valeur
+d'acquisition ou de souscription des titres rachetés, diminuée du montant du
+revenu distribué imposable à l'impôt sur le revenu au titre du rachat dans les
+conditions prévues aux articles 109, 112, 120 et 161.
+
+9. En cas de vente ultérieure ou de rachat mentionné au 6 du II de l'article
+150-0 A de titres reçus à l'occasion d'une opération mentionnée à l'article
+150-0 B, au quatrième alinéa de l'article 150 A bis en vigueur avant la
+publication de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003)
+et au II de l'article 150 UB le gain net est calculé à partir du prix ou de la
+valeur d'acquisition des titres échangés, diminué de la soulte reçue ou majoré
+de la soulte versée lors de l'échange.
 
 10. En cas d'absorption d'une société d'investissement à capital variable par un
 fonds commun de placement réalisée conformément à la réglementation en vigueur,
@@ -114,8 +121,7 @@ le jugement ordonnant la cession de l'entreprise en application de l'article L.
 631-22 du code de commerce, en l'absence de tout plan de continuation, ou
 prononçant sa liquidation judiciaire. L'option porte sur l'ensemble des valeurs
 mobilières, droits sociaux ou titres assimilés détenus dans la société faisant
-l'objet de la procédure collective et s'exerce concomitamment à celle prévue au
-I de l'article 163 octodecies A. En cas d'infirmation du jugement ou de
+l'objet de la procédure collective. En cas d'infirmation du jugement ou de
 résolution du plan de cession, la perte imputée ou reportée est reprise au titre
 de l'année au cours de laquelle intervient cet événement.
 
@@ -149,9 +155,10 @@ concernés, du montant :
 a. Des sommes ou valeurs remboursées dans la limite du prix d'acquisition des
 titres correspondants.
 
-b. De la déduction prévue à l'article 163 septdecies ;
+b. Des sommes ayant ouvert droit à la réduction d'impôt en application de
+l'article 199 unvicies.
 
-c. De la déduction opérée en application de l'article 163 octodecies A.
+c. abrogé
 
 14. Par voie de réclamation présentée dans le délai prévu au livre des
 procédures fiscales en matière d'impôt sur le revenu, le prix de cession des

@@ -13,7 +13,7 @@ partie ;
 3° Emis par la Banque centrale européenne ou la banque centrale d'un Etat partie
 à l'accord sur l'Espace économique européen ;
 
-4° Emis par un organisme mentionné au 1 du I de l'article L. 214-1.
+4° Emis par un organisme mentionné au 1 ou au 5 du I de l'article L. 214-1.
 
 II. - Ne constitue pas une opération par appel public à l'épargne l'émission ou
 la cession d'instruments financiers lorsque :

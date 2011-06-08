@@ -96,15 +96,9 @@ c) aux aides familiaux et associés d'exploitation de l'artisanat.
 Il en est de même de la prime versée au travailleur manuel qui procède
 effectivement à la création ou au rachat d'une entreprise artisanale ;
 
-9° quater Le produit des dépôts effectués sur un compte pour le développement
-industriel ouvert par les personnes physiques ayant leur domicile fiscal en
-France dans les établissements et organismes autorisés à recevoir des dépôts.
-
-Il ne peut être ouvert qu'un compte par contribuable ou un pour chacun des époux
-soumis à une imposition commune.
-
-Les sommes déposées sur le compte prévu au premier alinéa ne peuvent excéder un
-plafond fixé par décret dans la limite de 4 600 euros par compte.
+9° quater Le produit des dépôts effectués sur un livret de développement durable
+ouvert et fonctionnant dans les conditions et limites prévues aux articles L.
+221-27 et L. 221-28 du code monétaire et financier ;
 
 9° quinquies Les intérêts des sommes inscrites sur les livrets
 d'épargne-entreprise ouverts dans les conditions fixées par l'article 1er de la

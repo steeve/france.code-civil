@@ -71,6 +71,9 @@ fixé par décret, ne peut être supérieur à 0,20 pour mille lorsque l'opérat
 porte sur des titres donnant accès ou pouvant donner accès au capital et à 0,05
 pour mille lorsque l'opération est réalisée sur des titres de créance.
 
+La même contribution est due en cas de rachat de titres dans le cadre du
+programme de rachat que l'émetteur met en oeuvre.
+
 Cette contribution est exigible le jour de la clôture de l'opération ou, dans le
 cas d'un rachat de titres, le jour de la publication du résultat de l'opération.
 Son montant ne peut être inférieur à 1 000 euros lorsque l'opération porte sur
@@ -84,7 +87,7 @@ a) Pour les personnes mentionnées aux 1° et 2° du II de l'article L. 621-9, l
 contribution est fixée à un montant par service d'investissement pour lequel
 elles sont agréées autre que le service d'investissement mentionné au 4 de
 l'article L. 321-1, et par service connexe pour lequel elles sont habilitées
-fixé par décret et supérieur à 2 000 euros et inférieur ou égal à 3 000 euros.
+fixé par décret et supérieur à 3 000 euros et inférieur ou égal à 5 000 euros.
 Ce montant est multiplié par deux si les fonds propres de la personne concernée
 sont supérieurs à 45 millions d'euros et inférieurs ou égaux à 75 millions
 d'euros, par trois s'ils sont supérieurs à 75 millions d'euros et inférieurs ou
@@ -94,7 +97,8 @@ supérieurs à 750 millions d'euros et inférieurs ou égaux à 1,5 milliard d'e
 et par huit s'ils sont supérieurs à 1,5 milliard d'euros ; la contribution due
 par l'ensemble des personnes relevant d'un même groupe ou par l'ensemble
 constitué par les personnes affiliées à un organe central au sens de l'article
-L. 511-30 et par cet organe ne peut excéder 250 000 euros ;
+L. 511-30 et par cet organe ne peut excéder un montant fixé par décret et
+supérieur à 250 000 Euros et inférieur ou égal à 1,5 million d'euros ;
 
 b) Pour les personnes mentionnées au 4° du II de l'article L. 621-9, la
 contribution est égale à un montant fixé par décret et supérieur à 500 euros et
@@ -104,7 +108,7 @@ c) Pour les personnes mentionnées aux 3°, 5° et 6° du II de l'article L. 621
 la contribution est fixée à un montant égal à leur produit d'exploitation
 réalisé au cours de l'exercice précédent et déclaré au plus tard dans les trois
 mois suivant sa clôture, multiplié par un taux fixé par décret qui ne peut
-dépasser 0,3 % ;
+dépasser 0,9 % ;
 
 d) Pour les prestataires de services d'investissement habilités à exercer le
 service d'investissement mentionné au 4 de l'article L. 321-1 ainsi que pour les

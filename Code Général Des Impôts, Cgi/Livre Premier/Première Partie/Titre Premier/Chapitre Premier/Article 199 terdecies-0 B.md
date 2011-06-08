@@ -12,7 +12,7 @@ remplies :
 a) L'acquéreur prend l'engagement de conserver les titres de la société reprise
 jusqu'au 31 décembre de la cinquième année suivant celle de l'acquisition ;
 
-b) L'acquisition confère à l'acquéreur la majorité des droits de vote attachés
+b) L'acquisition confère à l'acquéreur 50 % au moins des droits de vote attachés
 aux titres de la société reprise ;
 
 c) A compter de l'acquisition, l'acquéreur exerce dans la société reprise l'une

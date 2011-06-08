@@ -43,14 +43,30 @@ décembre 2009 ;
 contribuable fait construire, achevé entre le 1er janvier 2006 et le 31 décembre
 2009.
 
+e) Au coût des équipements de récupération et de traitement des eaux pluviales :
+
+1° Payés entre le 1er janvier 2007 et le 31 décembre 2009 dans le cadre de
+travaux réalisés dans un logement achevé ;
+
+2° Intégrés à un logement acquis neuf entre le 1er janvier 2007 et le 31
+décembre 2009 ;
+
+3° Intégrés à un logement acquis en l'état futur d'achèvement ou que le
+contribuable fait construire, achevé entre le 1er janvier 2007 et le 31 décembre
+2009.
+
 2. Un arrêté du ministre chargé du budget fixe la liste des équipements,
 matériaux et appareils qui ouvrent droit au crédit d'impôt. Il précise les
 caractéristiques techniques et les critères de performances minimales requis
-pour l'application du crédit d'impôt.
+pour l'application du crédit d'impôt. Pour les équipements mentionnés au e du 1,
+un arrêté des ministres chargés de l'environnement et du logement fixe la liste
+de ces derniers qui ouvrent droit au crédit d'impôt et précise les conditions
+d'usage de l'eau de pluie dans l'habitat et les conditions d'installation,
+d'entretien et de surveillance de ces équipements.
 
 3. Le crédit d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année
 du paiement de la dépense par le contribuable ou, dans les cas prévus aux 2° et
-3° des c et d du 1, au titre de l'année d'achèvement du logement ou de son
+3° des c, d et e du 1, au titre de l'année d'achèvement du logement ou de son
 acquisition si elle est postérieure.
 
 4. Pour une même résidence, le montant des dépenses ouvrant droit au crédit
@@ -72,11 +88,11 @@ deuxième année suivant celle de son acquisition à titre onéreux ou gratuit ;
 
 c. 50 % du montant des équipements mentionnés au c du 1.
 
-d. 25 % du montant des équipements mentionnés au d du 1.
+d. 25 % du montant des équipements mentionnés aux d et e du 1.
 
 6. Les équipements, matériaux et appareils mentionnés au 1 s'entendent de ceux
 figurant sur la facture d'une entreprise ou, le cas échéant, dans les cas prévus
-aux 2° et 3° des c et d du 1, des équipements figurant sur une attestation
+aux 2° et 3° des c, d et e du 1, des équipements figurant sur une attestation
 fournie par le vendeur ou le constructeur du logement.
 
 Le crédit d'impôt est accordé sur présentation de l'attestation mentionnée à

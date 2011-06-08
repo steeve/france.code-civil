@@ -8,23 +8,35 @@ prélèvement égal au produit du montant des bases excédentaires par le taux e
 vigueur dans la commune. Le seuil d'écrêtement résultant de cette disposition
 est, pour 1991, divisé par 0,960.
 
+Par exception au premier alinéa, lorsque dans une commune les bases d'imposition
+de l'établissement visé au premier alinéa augmentent d'au moins 5 % par rapport
+à l'année précédente, l'augmentation des bases excédentaires de l'établissement
+est imposée à hauteur des deux tiers au profit du fonds départemental de la taxe
+professionnelle et à hauteur d'un tiers au profit de la commune d'implantation
+lorsque le montant des bases prévisionnelles notifiées afférentes à des
+établissements ayant bénéficié, au cours de l'avant-dernière année précédant
+celle de l'imposition, d'un dégrèvement en application de l'article 1647 B
+sexies est supérieur à 75 % du montant total des bases prévisionnelles notifiées
+à la commune.
+
 Pour la détermination du potentiel fiscal, chaque fois qu'il est fait référence
 à cette notion, est prise en compte la valeur nette des bases de taxe
 professionnelle après écrêtement ou après déduction de l'équivalent en bases du
 prélèvement versé au fonds départemental de la taxe professionnelle au titre des
 deuxième à quatrième alinéas du b du 2 du I ter.
 
-Dans le cas où une commune visée par les dispositions des premier et deuxième
-alinéas appartient à un établissement public de coopération intercommunale
-auquel elle versait, avant le 1er mai 1991, une contribution budgétaire calculée
-par référence au produit global de sa taxe professionnelle ou de ses quatre
-taxes ou s'était engagée, par accord conventionnel, à reverser une partie de ce
-produit à une ou plusieurs communes voisines, il est appliqué sur les bases de
-cette commune, pour l'application des premier et deuxième alinéas, une réduction
-de bases correspondant au montant des sommes en cause.
+Dans le cas où une commune visée par les dispositions des premier, deuxième et
+troisième alinéas appartient à un établissement public de coopération
+intercommunale auquel elle versait, avant le 1er mai 1991, une contribution
+budgétaire calculée par référence au produit global de sa taxe professionnelle
+ou de ses quatre taxes ou s'était engagée, par accord conventionnel, à reverser
+une partie de ce produit à une ou plusieurs communes voisines, il est appliqué
+sur les bases de cette commune, pour l'application des premier, deuxième et
+troisième alinéas, une réduction de bases correspondant au montant des sommes en
+cause.
 
 La réduction appliquée aux bases des communes bénéficiant des dispositions du
-troisième alinéa est maintenue en cas de transformation, à compter de la date de
+quatrième alinéa est maintenue en cas de transformation, à compter de la date de
 publication de la loi n° 99-586 du 12 juillet 1999 relative au renforcement et à
 la simplification de la coopération intercommunale, du groupement auquel elles
 appartiennent en établissement public de coopération intercommunale à fiscalité
@@ -59,10 +71,22 @@ Ce prélèvement est égal au montant des bases excédentaires de l'établisseme
 pondérées par le taux de taxe professionnelle perçue par le groupement sur la
 zone d'activités économiques.
 
-Les dispositions des premier et deuxième alinéas sont applicables dans les mêmes
-conditions lorsque l'établissement public de coopération intercommunale fait
-application de la deuxième phrase du premier alinéa du II de l'article 1609
-quinquies C.
+Par exception au premier alinéa, lorsque dans un établissement de coopération
+intercommunale visé au même alinéa les bases d'imposition de l'établissement
+visé audit alinéa augmentent d'au moins 5 % par rapport à l'année précédente,
+l'augmentation des bases excédentaires de l'établissement est imposée à hauteur
+des deux tiers au profit du fonds départemental de la taxe professionnelle et à
+hauteur d'un tiers au profit de l'établissement de coopération intercommunale
+doté d'une fiscalité propre lorsque le montant des bases prévisionnelles
+notifiées afférentes à des établissements ayant bénéficié, au cours de
+l'avant-dernière année précédant celle de l'imposition, d'un dégrèvement en
+application de l'article 1647 B sexies est supérieur à 75 % du montant total des
+bases prévisionnelles notifiées à l'établissement de coopération intercommunale.
+
+Les dispositions des premier, deuxième et troisième alinéas sont applicables
+dans les mêmes conditions lorsque l'établissement public de coopération
+intercommunale fait application de la deuxième phrase du premier alinéa du II de
+l'article 1609 quinquies C.
 
 2 a. Lorsque, dans un établissement public de coopération intercommunale soumis
 de plein droit ou après option au régime fiscal prévu à l'article 1609 nonies C,
@@ -78,21 +102,33 @@ conserve, sur le territoire de la commune sur lequel est implanté
 l'établissement, au moins 80 % du montant divisé par 0,960 des bases de taxe
 professionnelle qui étaient imposables en 1979 au profit de cette commune. Pour
 les établissements publics de coopération intercommunale résultant de la
-transformation d'un groupement de communes mentionné au troisième alinéa du I,
+transformation d'un groupement de communes mentionné au quatrième alinéa du I,
 postérieure à la date de publication de la loi n° 99-586 du 12 juillet 1999
 précitée, l'assiette du prélèvement, au profit du fonds, sur les bases du
 groupement qui se substitue à une commune qui bénéficiait des dispositions du
-troisième alinéa du I, est diminuée, à compter de la date de la transformation,
+quatrième alinéa du I, est diminuée, à compter de la date de la transformation,
 du montant de la réduction de bases qui était accordée à cette commune l'année
 précédant la perception de la taxe professionnelle en application du régime
 fiscal prévu à l'article 1609 nonies C par l'établissement public de coopération
 intercommunale issu de la transformation.
 
+Par exception au premier alinéa, lorsque dans cet établissement public de
+coopération intercommunale les bases d'imposition de l'établissement augmentent
+d'au moins 5 % par rapport à l'année précédente, l'augmentation des bases
+excédentaires de l'établissement est imposée à hauteur des deux tiers au profit
+du fonds départemental de la taxe professionnelle et à hauteur d'un tiers au
+profit de l'établissement de coopération intercommunale doté d'une fiscalité
+propre lorsque le montant des bases prévisionnelles notifiées afférentes à des
+établissements ayant bénéficié, au cours de l'avant-dernière année précédant
+celle de l'imposition, d'un dégrèvement en application de l'article 1647 B
+sexies est supérieur à 75 % du montant total des bases prévisionnelles notifiées
+à l'établissement de coopération intercommunale.
+
 L'assiette du prélèvement direct au profit du fonds, opéré sur les bases de
 l'établissement public de coopération intercommunale soumis, à compter du 1er
 janvier 2003, au régime fiscal prévu à l'article 1609 nonies C, est diminuée du
 montant de la réduction de bases dont bénéficiaient ses communes membres en
-application du troisième alinéa du I, l'année précédant la première application
+application du quatrième alinéa du I, l'année précédant la première application
 du régime fiscal de l'article 1609 nonies C.
 
 Ce prélèvement est égal au montant des bases excédentaires de l'établissement
@@ -159,14 +195,26 @@ prélèvement au profit du fonds départemental de péréquation de la taxe
 professionnelle égal au produit du montant des bases excédentaires par le taux
 de taxe professionnelle de la communauté de communes.
 
+Par exception au premier alinéa, lorsque dans un établissement de coopération
+intercommunale visé au premier alinéa les bases d'imposition de l'établissement
+visé au même alinéa augmentent d'au moins 5 % par rapport à l'année précédente,
+l'augmentation des bases excédentaires de l'établissement est imposée à hauteur
+des deux tiers au profit du fonds départemental de la taxe professionnelle et à
+hauteur d'un tiers au profit de l'établissement de coopération intercommunale
+doté d'une fiscalité propre lorsque le montant des bases prévisionnelles
+notifiées afférentes à des établissements ayant bénéficié, au cours de
+l'avant-dernière année précédant celle de l'imposition, d'un dégrèvement en
+application de l'article 1647 B sexies est supérieur à 75 % du montant total des
+bases prévisionnelles notifiées à l'établissement de coopération intercommunale.
+
 Pour les communautés de communes issues, à compter de la date de publication de
 la loi n° 99-586 du 12 juillet 1999 précitée, de districts créés avant la date
 de promulgation de la loi n° 92-125 du 6 février 1992 d'orientation relative à
-l'administration territoriale de la République, le prélèvement mentionné au
-premier alinéa est égal au produit du montant des bases excédentaires par la
-différence, lorsqu'elle est positive, entre le taux voté par la communauté de
-communes l'année précédant l'année considérée et le taux voté par le district en
-1998.
+l'administration territoriale de la République, le prélèvement mentionné aux
+premier et deuxième alinéas est égal au produit du montant des bases
+excédentaires par la différence, lorsqu'elle est positive, entre le taux voté
+par la communauté de communes l'année précédant l'année considérée et le taux
+voté par le district en 1998.
 
 I quinquies. La moyenne des bases de taxe professionnelle par habitant à retenir
 pour l'application en Corse du I, du 1 et du a du 2 du I ter et du I quater est

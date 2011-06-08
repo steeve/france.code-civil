@@ -9,13 +9,13 @@ l'administration s'exerce jusqu'à la fin de la sixième année qui suit celle a
 titre de laquelle l'imposition est due, lorsque le contribuable n'a pas déposé
 dans le délai légal les déclarations qu'il était tenu de souscrire et n'a pas
 fait connaître son activité à un centre de formalités des entreprises ou au
-greffe du tribunal de commerce (1).
+greffe du tribunal de commerce.
 
 Le droit de reprise mentionné au deuxième alinéa ne s'applique qu'aux seules
 catégories de revenus que le contribuable n'a pas fait figurer dans une
 quelconque des déclarations qu'il a déposées dans le délai légal. Il ne
 s'applique pas lorsque des revenus ou plus-values ont été déclarés dans une
-catégorie autre que celle dans laquelle ils doivent être imposés (1).
+catégorie autre que celle dans laquelle ils doivent être imposés.
 
 Si le déficit d'ensemble ou la moins-value nette à long terme d'ensemble subis
 par un groupe mentionné à l'article 223 A du code général des impôts sont
@@ -30,7 +30,4 @@ dispositions prévues au premier alinéa.
 
 Si le groupe a cessé d'exister, les règles définies au quatrième alinéa
 demeurent applicables au déficit ou à la moins-value nette à long terme définis
-au quatrième alinéa de l'article 223 S du code général des impôts.
-
-(1) Ces dispositions s'appliquent aux délais venant à expiration postérieurement
-au 31 décembre 1996.
+au cinquième alinéa de l'article 223 S du code général des impôts.

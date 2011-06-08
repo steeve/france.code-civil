@@ -12,7 +12,7 @@ Sur le montant brut des traitements, indemnités autres que celles visées au 7�
 du II ci-dessous, émoluments, salaires, des revenus des artistes-auteurs
 assimilés fiscalement à des traitements et salaires et des allocations de
 chômage, il est opéré une réduction représentative de frais professionnels
-forfaitairement fixée à 3 p. 100 de ce montant.
+forfaitairement fixée à 3 % de ce montant.
 
 Elle est également assise sur tous les avantages en nature ou en argent accordés
 aux intéressés en sus des revenus visés au premier alinéa.
@@ -47,7 +47,7 @@ frais de mandat, au plus égale au montant brut cumulé des deux précédentes e
 versée à titre d'allocation spéciale pour frais par les assemblées à tous leurs
 membres, ainsi que, la plus élevée d'entre elles ne pouvant être supérieure de
 plus de la moitié à ce montant, les indemnités de fonction complémentaires
-versées, au même titre, en vertu d'une décision prise par le Bureau desdites
+versées, au même titre, en vertu d'une décision prise par le bureau desdites
 assemblées, à certains de leurs membres exerçant des fonctions particulières ;
 
 b) Les indemnités versées aux représentants français au Parlement européen dans
@@ -123,9 +123,9 @@ applicables pour l'attribution de l'allocation supplémentaire du fonds national
 de solidarité ;
 
 3° Les revenus visés aux 2°, 2° bis, 3°, 4°, 7°, 9°, 9° bis, 9° quater, 9°
-quinquies, 10°, 12°, 13°, 14°, 14° bis, 14° ter, 15°, 17° et 19° de l'article 81
-du code général des impôts ainsi que ceux visés aux articles L. 961-1, deuxième
-alinéa, et L. 961-5 du code du travail ;
+quinquies, 10°, 12°, 13°, 14°, 14° bis, 14° ter, 15°, 17°, 19° et b du 19° ter
+de l'article 81 du code général des impôts ainsi que ceux visés aux articles L.
+961-1, deuxième alinéa, et L. 961-5 du code du travail ;
 
 4° Les pensions alimentaires répondant aux conditions fixées par les articles
 205 à 211 du code civil, les rentes prévues à l'article 276 du code civil et les

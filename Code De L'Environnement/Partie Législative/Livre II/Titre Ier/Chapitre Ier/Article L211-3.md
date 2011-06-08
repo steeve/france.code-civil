@@ -31,19 +31,55 @@ particulier" dont le maintien ou la restauration présente un intérêt pour la
 gestion intégrée du bassin versant, ou une valeur touristique, écologique,
 paysagère ou cynégétique particulière. Ces zones peuvent englober les zones
 humides dites "zones stratégiques pour la gestion de l'eau" prévues à l'article
-L. 212-5 ;
+L. 212-5-1 ;
 
-b) Etablir, en concertation notamment avec les collectivités territoriales et
-leurs groupements, les représentants des propriétaires ou leurs groupements, les
-exploitants des terrains ou leurs représentants, les associations agréées de
-protection de la nature, les fédérations des associations agréées de pêche, les
-fédérations des chasseurs, les associations agréées de pêcheurs professionnels,
-réunis en comité de gestion de la zone humide, sous l'égide de la commission
-locale de l'eau lorsqu'elle existe, un programme d'actions visant à restaurer,
-préserver, gérer et mettre en valeur de façon durable les zones définies au a ;
+b) Etablir, dans les conditions prévues à l'article L. 114-1 du code rural, un
+programme d'actions visant à restaurer, préserver, gérer et mettre en valeur de
+façon durable les zones définies au a du présent article ;
 
-c) Préciser dans ce programme les pratiques à promouvoir ainsi que les moyens
-prévus pour favoriser leur généralisation, rendre obligatoires certaines de ces
-pratiques et préciser les modalités selon lesquelles ces pratiques peuvent, le
-cas échéant, bénéficier d'aides lorsqu'elles induisent des surcoûts ou des
-pertes de revenus.
+5° Délimiter, le cas échéant après qu'elles ont été identifiées dans le plan
+d'aménagement et de gestion durable de la ressource en eau et des milieux
+aquatiques prévu par l'article L. 212-5-1, des zones où il est nécessaire
+d'assurer la protection quantitative et qualitative des aires d'alimentation des
+captages d'eau potable d'une importance particulière pour l'approvisionnement
+actuel ou futur, ainsi que des zones dans lesquelles l'érosion diffuse des sols
+agricoles est de nature à compromettre la réalisation des objectifs de bon état
+ou, le cas échéant, de bon potentiel prévus par l'article L. 212-1, et y
+établir, dans les conditions prévues au 4° du présent article, un programme
+d'actions à cette fin ;
+
+6° Délimiter des périmètres à l'intérieur desquels les autorisations de
+prélèvement d'eau pour l'irrigation sont délivrées à un organisme unique pour le
+compte de l'ensemble des préleveurs irrigants. Dans les zones de répartition des
+eaux, l'autorité administrative peut constituer d'office cet organisme.
+
+III. - Un décret en Conseil d'Etat détermine :
+
+1° Les règles destinées à assurer la sécurité des ouvrages hydrauliques autres
+que les ouvrages concédés en application de la loi du 16 octobre 1919 relative à
+l'utilisation de l'énergie hydraulique. Ces règles portent sur les modalités de
+surveillance des ouvrages par le propriétaire ou l'exploitant et peuvent
+prévoir, pour certains ouvrages, l'intervention, aux frais du propriétaire ou de
+l'exploitant, d'organismes agréés ;
+
+2° Les modalités selon lesquelles l'autorité administrative procède à l'agrément
+des organismes et assure le contrôle du respect des règles visées au 1° ;
+
+3° Les conditions dans lesquelles l'autorité administrative peut demander au
+propriétaire ou à l'exploitant d'un ouvrage visé à l'article L. 214-2 du présent
+code ou soumis à la loi du 16 octobre 1919 précitée la présentation d'une étude
+de dangers qui expose les risques que présente l'ouvrage pour la sécurité
+publique, directement ou indirectement en cas d'accident, que la cause soit
+interne ou externe à l'ouvrage. Cette étude prend en compte la probabilité
+d'occurrence, la cinétique et la gravité des accidents potentiels selon une
+méthodologie qu'elle explicite. Elle définit et justifie les mesures propres à
+réduire la probabilité et les effets de ces accidents ;
+
+4° Les conditions dans lesquelles le propriétaire ou l'exploitant d'un ouvrage
+mentionné au 3° met en place une signalisation adaptée pour assurer la sécurité
+de la circulation des engins nautiques non motorisés ;
+
+5° Les conditions dans lesquelles est établie et actualisée une liste des
+ouvrages mentionnés au 3°, pour lesquels est mis en place un aménagement adapté
+permettant leur franchissement ou leur contournement pour assurer la circulation
+sécurisée des engins nautiques non motorisés.

@@ -29,6 +29,12 @@ effet de reporter de plus de cinq ans l'application du régime de droit commun
 aux bases exonérées et ne peut s'appliquer au-delà du 31 décembre 2012. Deux
 périodes d'exonération ne peuvent courir simultanément.
 
+Pour les créations d'établissement et les augmentations de bases intervenues à
+compter du 1er janvier 2007, l'exonération s'applique dans les conditions et
+limites prévues par le règlement (CE) n° 1628/2006 de la Commission, du 24
+octobre 2006, concernant l'application des articles 87 et 88 du traité CE aux
+aides nationales à l'investissement à finalité régionale.
+
 En cas de changement d'exploitant, l'exonération est maintenue pour la période
 restant à courir.
 

@@ -32,3 +32,9 @@ préparation et d'organisation des travaux du conseil ainsi que des procédures 
 contrôle interne mises en place par la société. Sans préjudice des dispositions
 de l'article L. 225-56, le rapport indique en outre les éventuelles limitations
 que le conseil d'administration apporte aux pouvoirs du directeur général.
+
+Dans les sociétés dont les titres sont admis aux négociations sur un marché
+réglementé, ce rapport présente les principes et les règles arrêtés, selon le
+cas, par le conseil d'administration ou le conseil de surveillance pour
+déterminer les rémunérations et avantages de toute nature accordés aux
+mandataires sociaux.

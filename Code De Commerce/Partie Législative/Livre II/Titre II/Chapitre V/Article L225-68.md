@@ -33,3 +33,9 @@ surveillance rend compte, dans un rapport à l'assemblée générale joint au
 rapport mentionné à l'alinéa précédent et à l'article L. 233-26, des conditions
 de préparation et d'organisation des travaux du conseil ainsi que des procédures
 de contrôle interne mises en place par la société.
+
+Dans les sociétés dont les titres sont admis aux négociations sur un marché
+réglementé, ce rapport présente les principes et les règles arrêtés, selon le
+cas, par le conseil d'administration ou le conseil de surveillance pour
+déterminer les rémunérations et avantages de toute nature accordés aux
+mandataires sociaux.

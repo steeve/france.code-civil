@@ -25,8 +25,8 @@ produits mentionnés aux b et c du 1 de l'article 265 bis A inscrites dans les
 certificats produits à l'administration et les quantités, exprimées en pouvoir
 calorifique inférieur, de ces carburants, soumises au prélèvement ;
 
-2° Pour le gazole, du rapport entre les quantités de produits mentionnés au a du
-1 de l'article précité inscrites dans les certificats produits à
+2° Pour le gazole, du rapport entre les quantités de produits mentionnés aux a
+et d du 1 de l'article précité inscrites dans les certificats produits à
 l'administration et les quantités, exprimées en pouvoir calorifique inférieur,
 de ce carburant, soumises au prélèvement.
 

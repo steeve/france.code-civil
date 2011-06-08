@@ -14,7 +14,7 @@ artisanale, touristique, portuaire ou aéroportuaire d'intérêt communautaire s
 inclus dans cette compétence ;
 
 II. - La communauté de communes doit par ailleurs exercer dans les mêmes
-conditions des compétences relevant d'au moins un des cinq groupes suivants :
+conditions des compétences relevant d'au moins un des six groupes suivants :
 
 1° Protection et mise en valeur de l'environnement, le cas échéant dans le cadre
 de schémas départementaux et soutien aux actions de maîtrise de la demande
@@ -32,7 +32,9 @@ et d'équipements de l'enseignement préélémentaire et élémentaire ;
 Lorsque la communauté de communes exerce la compétence action sociale d'intérêt
 communautaire, elle peut en confier la responsabilité pour tout ou partie à un
 centre intercommunal d'action sociale constitué dans les conditions fixées à
-l'article L. 123-5 du code de l'action sociale et des familles.
+l'article L. 123-5 du code de l'action sociale et des familles ;
+
+6° Tout ou partie de l'assainissement.
 
 III. - La définition des compétences transférées au sein de chacun des groupes
 est fixée par la majorité qualifiée requise pour la création de la communauté.

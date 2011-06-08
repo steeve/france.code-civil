@@ -60,8 +60,8 @@ bis du code général des impôts ;
 
 2° Les titres ou parts dont la souscription a permis au titulaire du plan de
 bénéficier des avantages fiscaux résultant des dispositions des 2° quater et 2°
-quinquies de l'article 83, des articles 83 ter, 163 septdecies, 199 undecies
-(1), 199 undecies A et 199 terdecies A, du I bis de l'article 163 bis C du code
+quinquies de l'article 83, des articles 83 ter, 199 unvicies, 199 undecies (1),
+199 undecies A et 199 terdecies A, du I bis de l'article 163 bis C du code
 général des impôts, ainsi que du deuxième alinéa du II de l'article 726 du même
 code ne peuvent figurer dans le plan ;
 

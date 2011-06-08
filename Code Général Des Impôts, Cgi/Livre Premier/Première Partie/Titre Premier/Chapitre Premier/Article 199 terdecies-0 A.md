@@ -32,7 +32,7 @@ règlement (CE) n° 364/2004 du 25 février 2004 ;
 
 La condition tenant à la composition du capital prévu au e n'est pas exigée en
 cas de souscription au capital d'entreprises solidaires au sens de l'article L.
-443-3-1 du code du travail.
+443-3-2 du code du travail.
 
 3° L'avantage fiscal prévu au 1° trouve également à s'appliquer lorsque la
 société bénéficiaire de la souscription remplit les conditions suivantes :
@@ -149,8 +149,8 @@ VI bis. - Les dispositions du 1 et du 3 du VI s'appliquent aux souscriptions en
 numéraire de parts de fonds d'investissement de proximité mentionnés à l'article
 L. 214-41-1 du code monétaire et financier. Les versements ouvrant droit à la
 réduction d'impôt sont ceux effectués jusqu'au 31 décembre 2010. Ils sont
-retenus dans les limites annuelles de 12 000 euros pour les contribuables
-célibataires, veufs ou divorcés et de 24 000 euros pour les contribuables mariés
+retenus dans les limites annuelles de 12 000 Euros pour les contribuables
+célibataires, veufs ou divorcés et de 24 000 Euros pour les contribuables mariés
 soumis à imposition commune. Les réductions d'impôt prévues au VI et au VI bis
 sont exclusives l'une de l'autre pour les souscriptions dans un même fonds.
 

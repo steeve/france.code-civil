@@ -1,18 +1,33 @@
 Article L1331-10
 ----
-Tout déversement d'eaux usées, autres que domestiques, dans les égouts publics
-doit être préalablement autorisé par la collectivité à laquelle appartiennent
-les ouvrages qui seront empruntés par ces eaux usées avant de rejoindre le
-milieu naturel.
+Tout déversement d'eaux usées autres que domestiques dans le réseau public de
+collecte doit être préalablement autorisé par le maire ou le président de
+l'établissement public compétent en matière de collecte à l'endroit du
+déversement si les pouvoirs de police des maires des communes membres lui ont
+été transférés dans les conditions prévues par l'article L. 5211-9-2 du code
+général des collectivités territoriales, après avis délivré par la personne
+publique en charge du transport et de l'épuration des eaux usées ainsi que du
+traitement des boues en aval, si cette collectivité est différente. Pour
+formuler un avis, celle-ci dispose d'un délai de deux mois, prorogé d'un mois si
+elle sollicite des informations complémentaires. A défaut d'avis rendu dans le
+délai imparti, celui-ci est réputé favorable.
 
-L'autorisation fixe, suivant la nature du réseau à emprunter ou des traitements
-mis en oeuvre, les caractéristiques que doivent présenter ces eaux usées pour
-être reçues.
+L'absence de réponse à la demande d'autorisation plus de quatre mois après la
+date de réception de cette demande vaut rejet de celle-ci.
 
-Cette autorisation peut être subordonnée à la participation de l'auteur du
-déversement aux dépenses de premier établissement, d'entretien et d'exploitation
-entraînées par la réception de ces eaux.
+L'autorisation prévue au premier alinéa fixe notamment sa durée, les
+caractéristiques que doivent présenter les eaux usées pour être déversées et les
+conditions de surveillance du déversement.
 
-Cette participation s'ajoute à la perception des sommes pouvant être dues par
-les intéressés au titre des articles L. 1331-2, L. 1331-3, L. 1331-6 et L.
-1331-7 ; les dispositions de l'article L. 1331-9 lui sont applicables.
+Toute modification ultérieure dans la nature ou la quantité des eaux usées
+déversées dans le réseau est autorisée dans les mêmes conditions que celles
+prévues au premier alinéa.
+
+L'autorisation peut être subordonnée à la participation de l'auteur du
+déversement aux dépenses d'investissement entraînées par la réception de ces
+eaux.
+
+Cette participation s'ajoute, le cas échéant, aux redevances mentionnées à
+l'article L. 2224-12-2 du code général des collectivités territoriales et aux
+sommes pouvant être dues par les intéressés au titre des articles L. 1331-2, L.
+1331-3, L. 1331-6, L. 1331-7 et L. 1331-8 du présent code.

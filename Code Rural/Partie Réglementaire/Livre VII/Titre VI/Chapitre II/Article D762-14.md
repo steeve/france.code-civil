@@ -1,18 +1,14 @@
 Article D762-14
 ----
-Pour l'année 2005, le plafond de l'exonération prévue à l'article L. 731-13 est
+Pour l'année 2006, le plafond de l'exonération prévue à l'article L. 731-13 est
 fixé à :
 
-1618,06 euros pour les jeunes agriculteurs bénéficiant d'une exonération de 65 %
-;
+- 1 647,26 pour les jeunes agriculteurs bénéficiant d'une exonération de 65 % ;
 
-1369,13 euros pour les jeunes agriculteurs bénéficiant d'une exonération de 55 %
-;
+- 1 393,83 pour les jeunes agriculteurs bénéficiant d'une exonération de 55 % ;
 
-871,27 euros pour les jeunes agriculteurs bénéficiant d'une exonération de 35 %
-;
+- 886,98 pour les jeunes agriculteurs bénéficiant d'une exonération de 35 % ;
 
-622,33 euros pour les jeunes agriculteurs bénéficiant d'une exonération de 25 %
-;
+- 633,56 pour les jeunes agriculteurs bénéficiant d'une exonération de 25 % ;
 
-373,40 euros pour les jeunes agriculteurs bénéficiant d'une exonération de 15 %.
+- 380,14 pour les jeunes agriculteurs bénéficiant d'une exonération de 15 %.

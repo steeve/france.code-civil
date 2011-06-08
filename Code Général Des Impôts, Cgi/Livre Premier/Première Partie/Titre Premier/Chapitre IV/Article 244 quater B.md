@@ -28,7 +28,7 @@ société bénéficiaire de l'apport.
 
 A l'exception du crédit d'impôt imputable par la société mère dans les
 conditions prévues à l'article 223 O, le crédit d'impôt est plafonné pour chaque
-entreprise, y compris les sociétés de personnes, à 10 000 000 euros. Il
+entreprise, y compris les sociétés de personnes, à 16 000 000 euros. Il
 s'apprécie en prenant en compte la fraction de la part en accroissement et de la
 part en volume du crédit d'impôt correspondant aux parts des associés de
 sociétés de personnes mentionnées aux articles 8 et 238 bis L et aux droits des
@@ -125,13 +125,12 @@ deuxième à quatrième alinéas du 12 de l'article 39 entre l'entreprise qui
 bénéficie du crédit d'impôt et ces organismes ;
 
 e) Les frais de prise et de maintenance de brevets et de certificats d'obtention
-végétale (1) ;
+végétale ;
 
-e bis) Les frais de défense de brevets et de certificats d'obtention végétale
-(1) ;
+e bis) Les frais de défense de brevets et de certificats d'obtention végétale ;
 
 f) Les dotations aux amortissements des brevets et des certificats d'obtention
-végétale (1) acquis en vue de réaliser des opérations de recherche et de
+végétale acquis en vue de réaliser des opérations de recherche et de
 développement expérimental ;
 
 g) Les dépenses de normalisation afférentes aux produits de l'entreprise,

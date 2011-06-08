@@ -13,7 +13,7 @@ subventions indirectes, les subventions directes et les abandons de créances,
 l'un des cinq exercices précédant celui de la sortie s'il a été ouvert à compter
 du 1er janvier 1992.
 
-Les dispositions prévues au deuxième alinéa de l'article 223 F et au premier
+Les dispositions prévues au troisième alinéa de l'article 223 F et au premier
 alinéa ne sont pas applicables lorsque la sortie du groupe résulte d'une fusion
 de l'une des sociétés mentionnées à ces alinéas avec une autre société membre du
 groupe et placée sous le régime prévu à l'article 210 A. Les sommes mentionnées

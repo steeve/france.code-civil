@@ -36,3 +36,18 @@ présent code.
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles les dispositions
 du présent chapitre sont applicables aux entreprises publiques et aux sociétés
 nationales ne répondant pas à la condition fixée au deuxième alinéa.
+
+Dans les entreprises ou les groupes disposant d'un accord d'intéressement et
+concourant avec d'autres entreprises à une activité caractérisée et coordonnée,
+un accord peut être conclu pour prévoir que tout ou partie des salariés
+bénéficie d'un intéressement de projet.
+
+Cet accord d'intéressement de projet est négocié dans les conditions prévues au
+présent article s'il n'implique que tout ou partie des salariés d'une même
+entreprise ou d'un même groupe. Il est négocié selon des modalités identiques à
+celles prévues au premier alinéa de l'article L. 443-1-1 s'il concerne tout ou
+partie des salariés d'entreprises qui ne constituent pas un groupe. Dans les
+deux cas, la majorité des deux tiers requise pour la ratification s'entend sur
+les personnels entrant dans le champ d'application du projet. L'accord définit
+un champ d'application et une période de calcul spécifiques, qui peuvent
+différer de ceux visés au premier alinéa, sans pouvoir excéder trois ans.

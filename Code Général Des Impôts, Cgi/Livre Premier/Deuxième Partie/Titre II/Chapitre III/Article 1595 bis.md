@@ -42,6 +42,5 @@ le recouvrement des droits ou de la taxe auxquels elle s'ajoute.
 Les ressources provenant de ce fonds de péréquation seront réparties entre les
 communes de moins de 5.000 habitants suivant un barème établi par le conseil
 général. Le système de répartition adopté devra tenir compte notamment de
-l'importance de la population, des charges de voirie de la commune, de la valeur
-du centime, du pourcentage officiel de sinistre et de l'effort fiscal fourni par
-la collectivité bénéficiaire.
+l'importance de la population, du montant des dépenses d'équipement brut et de
+l'effort fiscal fourni par la collectivité bénéficiaire.

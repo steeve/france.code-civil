@@ -44,12 +44,12 @@ diffusant des analyses financières ;
 
 12° Les dépositaires d'organismes de placement collectif ;
 
-12° Les personnes morales administrant des institutions de retraite
+13° Les personnes morales administrant des institutions de retraite
 professionnelle collectives mentionnées au I de l'article 8 de l'ordonnance n°
 2006-344 du 23 mars 2006 ou des plans d'épargne pour la retraite collectifs
 mentionnés à l'article L. 443-1-2 du code du travail ;
 
-13° Les évaluateurs immobiliers.
+14° Les évaluateurs immobiliers.
 
 Pour les personnes ou entités autres que celles fournissant des services
 mentionnés au 4 de l'article L. 321-1 ou que les personnes ou entités

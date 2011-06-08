@@ -1,31 +1,19 @@
 Article L212-6
 ----
-Le projet de schéma d'aménagement et de gestion des eaux est élaboré et révisé
-par la commission locale de l'eau, le cas échéant dans le délai fixé par le
-schéma directeur d'aménagement et de gestion des eaux en application du X de
-l'article L. 212-1. Toutefois, si le projet n'a pas été élaboré ou révisé à
-l'expiration de ce délai, il peut l'être par l'autorité administrative. Le
-projet est soumis à l'avis des conseils généraux, des conseils régionaux, des
-établissements publics territoriaux de bassin, des chambres consulaires et du
-comité de bassin intéressés. Le comité de bassin assure l'harmonisation des
-schémas d'aménagement et de gestion des eaux entrant dans le champ de sa
-compétence.
+La commission locale de l'eau soumet le projet de schéma d'aménagement et de
+gestion des eaux à l'avis des conseils généraux, des conseils régionaux, des
+chambres consulaires, des communes, de leurs groupements compétents et, s'il
+existe, de l'établissement public territorial de bassin ainsi que du comité de
+bassin intéressés. Hormis celui du comité de bassin, ces avis sont réputés
+favorables s'ils n'interviennent pas dans un délai de quatre mois.
 
-Le projet est rendu public par l'autorité administrative avec, en annexe, les
-avis des personnes consultées. Ce dossier est mis à la disposition du public
-pendant deux mois.
+Le projet de schéma, éventuellement modifié pour tenir compte des avis
+recueillis, est soumis à enquête publique. A l'issue de l'enquête, le schéma,
+éventuellement modifié pour tenir compte des observations, est approuvé par le
+représentant de l'Etat dans le département et son arrêté d'approbation est
+publié. Le schéma est tenu à la disposition du public.
 
-A l'issue de ce délai, le schéma d'aménagement et de gestion des eaux,
-éventuellement modifié pour tenir compte des observations du public, des avis
-des communes, des conseils généraux, des conseils régionaux et du comité de
-bassin, est approuvé par l'autorité administrative. Il est tenu à la disposition
-du public.
-
-Lorsque le schéma a été approuvé, les décisions prises dans le domaine de l'eau
-par les autorités administratives et applicables dans le périmètre qu'il définit
-doivent être compatibles ou rendues compatibles avec ce schéma. Les autres
-décisions administratives doivent prendre en compte les dispositions du schéma.
-
-La commission locale de l'eau connaît des réalisations, documents ou programmes
-portant effet dans le périmètre du schéma d'aménagement et de gestion des eaux
-et des décisions visées au précédent alinéa.
+Si le schéma n'a pas été élaboré dans le délai imparti en application du X de
+l'article L. 212-1, le représentant de l'Etat dans le département élabore le
+projet et, après consultation de la commission locale de l'eau, met en oeuvre la
+procédure prévue aux deux alinéas qui précèdent.

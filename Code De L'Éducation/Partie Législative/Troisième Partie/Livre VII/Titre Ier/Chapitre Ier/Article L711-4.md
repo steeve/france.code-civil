@@ -20,19 +20,20 @@ et des usagers. Elles ne peuvent porter atteinte au principe de l'élection des
 représentants de ces différentes catégories au sein de l'organe délibérant.
 
 Les expérimentations prévues à l'alinéa précédent font l'objet d'une évaluation
-par le Comité national d'évaluation des établissements publics à caractère
-scientifique, culturel et professionnel. Le comité établit, pour chaque
-établissement, un rapport qu'il adresse au Parlement et au ministre chargé de
-l'enseignement supérieur au plus tard six mois avant la fin de
-l'expérimentation.
+par l'Agence d'évaluation de la recherche et de l'enseignement supérieur
+mentionnée à l'article L. 114-3-1 du code de la recherche. L'agence établit,
+pour chaque établissement, un rapport qu'elle adresse au Parlement et au
+ministre chargé de l'enseignement supérieur au plus tard six mois avant la fin
+de l'expérimentation.
 
 Dans le cas où un établissement entend mettre fin à l'expérimentation avant
 l'expiration du délai de cinq ans susmentionné, l'autorité exécutive de
 l'établissement demande au ministre chargé de l'enseignement supérieur de faire
-procéder à l'évaluation par le Comité national d'évaluation ; ce dernier adresse
-son rapport au ministre et à l'autorité exécutive de l'établissement dans un
-délai de six mois à compter de la date de la demande de l'autorité exécutive ;
-il émet notamment un avis sur l'opportunité de la poursuite de l'expérimentation
-; au vu de cet avis, il appartient à l'établissement de prendre la décision de
-poursuivre l'expérimentation jusqu'au terme du délai de cinq ans ou de
-l'arrêter.
+procéder à l'évaluation par l'Agence d'évaluation de la recherche et de
+l'enseignement supérieur mentionnée à l'article L. 114-3-1 du code de la
+recherche ; cette dernière adresse son rapport au ministre et à l'autorité
+exécutive de l'établissement dans un délai de six mois à compter de la date de
+la demande de l'autorité exécutive ; elle émet notamment un avis sur
+l'opportunité de la poursuite de l'expérimentation ; au vu de cet avis, il
+appartient à l'établissement de prendre la décision de poursuivre
+l'expérimentation jusqu'au terme du délai de cinq ans ou de l'arrêter.

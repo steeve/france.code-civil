@@ -43,4 +43,6 @@ européenne.
 
 IV. - Les dispositions du présent chapitre s'appliquent également aux adjuvants
 vendus seuls ou en mélange et destinés à améliorer les conditions d'utilisation
-des produits phytopharmaceutiques.
+des produits phytopharmaceutiques. Ces dispositions ne s'appliquent pas aux
+préparations naturelles peu préoccupantes, qui relèvent d'une procédure
+simplifiée, fixée, ainsi que la définition de ces préparations, par décret.

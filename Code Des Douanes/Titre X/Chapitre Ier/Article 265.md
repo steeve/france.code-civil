@@ -295,8 +295,9 @@ des positions 27 07 ou 29 02.
 consommation applicable au supercarburant repris à l'indice d'identification 11
 et au gazole repris à l'indice d'identification 22.
 
-Pour l'année 2006, le montant de cette réfaction est de 1,77 euro par hectolitre
-pour le supercarburant et de 1,15 euro par hectolitre pour le gazole.
+A compter du 1er janvier 2006, le montant de cette réfaction est de 1,77 euro
+par hectolitre pour le supercarburant et de 1,15 euro par hectolitre pour le
+gazole.
 
 A compter du 1er janvier 2007, les conseils régionaux et l'assemblée de Corse
 peuvent réduire ou augmenter le montant de la réfaction du taux de la taxe

@@ -168,6 +168,19 @@ l'acquisition des chèques-vacances par les salariés est exonéré de l'impôt 
 le revenu, dans la limite du salaire minimum de croissance apprécié sur une base
 mensuelle" ;
 
+19° ter a. L'avantage résultant de la prise en charge obligatoire par
+l'employeur du prix des titres d'abonnement souscrits par les salariés pour les
+déplacements effectués au moyen de transports publics de voyageurs entre leur
+résidence habituelle et leur lieu de travail, conformément à l'article 1er de la
+loi n° 82-684 du 4 août 1982 relative à la participation des employeurs au
+financement des transports publics urbains et des chèques-transport.
+
+b. La part contributive de l'employeur dans le chèque-transport prévu à
+l'article 3 de la loi n° 82-684 du 4 août 1982 précitée, dans la limite de 50 %
+du prix des abonnements de transport collectif pour les chèques-transport
+mentionnés au 1° du I du même article ou de la somme de 100 par an pour les
+chèques-transport mentionnés au 2° du même I ;
+
 20° Les attributions gratuites d'actions :
 
 a. (Abrogé);

@@ -27,7 +27,11 @@ alinéa du I du même article ;
 6° Le diagnostic de performance énergétique prévu à l'article L. 134-1 du
 présent code ;
 
-7° L'état de l'installation intérieure d'électricité prévu à l'article L. 134-7.
+7° L'état de l'installation intérieure d'électricité prévu à l'article L. 134-7
+;
+
+8° Le document établi à l'issue du contrôle des installations d'assainissement
+non collectif mentionné à l'article L. 1331-11-1 du code de la santé publique.
 
 Les documents mentionnés aux 1°, 4° et 7° ne sont requis que pour les immeubles
 ou parties d'immeuble à usage d'habitation.
@@ -45,8 +49,9 @@ logement et les documents mentionnés au 3°, 4° et 7° sur la partie privative
 lot.
 
 II. - En l'absence, lors de la signature de l'acte authentique de vente, d'un
-des documents mentionnés aux 1°, 2°, 3°, 4° et 7° du I en cours de validité, le
-vendeur ne peut pas s'exonérer de la garantie des vices cachés correspondante.
+des documents mentionnés aux 1°, 2°, 3°, 4°, 7° et 8° du I en cours de validité,
+le vendeur ne peut pas s'exonérer de la garantie des vices cachés
+correspondante.
 
 En l'absence, lors de la signature de l'acte authentique de vente, du document
 mentionné au 5° du I, l'acquéreur peut poursuivre la résolution du contrat ou

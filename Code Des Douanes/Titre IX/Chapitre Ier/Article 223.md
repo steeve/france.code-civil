@@ -29,33 +29,34 @@ De 8 mètres inclus à 9 mètres exclus, 131 euros.
 
 De 9 mètres inclus à 10 mètres exclus, 223 euros.
 
-De 10 mètres inclus à 12 mètres exclus, 342 euros.
+De 10 mètres inclus à 11 mètres exclus, 300 euros.
+
+De 11 mètres inclus à 12 mètres exclus, 342 euros.
 
 De 12 mètres inclus à 15 mètres exclus, 573 euros.
 
 De 15 mètres et plus, 1108 euros.
 
-b) Droit sur le moteur des navires de 7 mètres et plus (puissance
-administrative) :
+b) Droit sur le moteur des navires (puissance administrative) :
 
 Jusqu'à 5 CV inclusivement, exonération.
 
-De 6 à 8 CV, 10 euros par CV au-dessus du cinquième.
+De 6 à 8 CV, 13 euros par CV au-dessus du cinquième.
 
-De 9 à 10 CV, 12 euros par CV au-dessus du cinquième.
+De 9 à 10 CV, 15 euros par CV au-dessus du cinquième.
 
-De 11 à 20 CV, 25 euros par CV au-dessus du cinquième.
+De 11 à 20 CV, 32 euros par CV au-dessus du cinquième.
 
-De 21 à 25 CV, 28 euros par CV au-dessus du cinquième.
+De 21 à 25 CV, 36 euros par CV au-dessus du cinquième.
 
-De 26 à 50 CV, 31 euros par CV au-dessus du cinquième.
+De 26 à 50 CV, 40 euros par CV au-dessus du cinquième.
 
-De 51 à 99 CV, 35 euros par CV au-dessus du cinquième.
+De 51 à 99 CV, 45 euros par CV au-dessus du cinquième.
 
 c) Taxe spéciale :
 
 Pour les moteurs ayant une puissance administrative égale ou supérieure à 100
-CV, le droit prévu au b est remplacé par une taxe spéciale de 45,28 euros par
+CV, le droit prévu au b est remplacé par une taxe spéciale de 57,96 euros par
 CV.
 
 Toutefois, pour les navires de plaisance francisés dont le port d'attache est

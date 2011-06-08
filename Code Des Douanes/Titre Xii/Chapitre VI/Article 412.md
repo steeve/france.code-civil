@@ -35,4 +35,7 @@ sommaires ; toute différence dans la nature des marchandises manifestées ou
 déclarées sommairement ;
 
 9° toute contravention à l'interdiction d'habiter en zone franche, d'y vendre au
-détail ou d'y effectuer des manipulations non autorisées.
+détail ou d'y effectuer des manipulations non autorisées ;
+
+10° Toute omission ou irrégularité qui a pour but ou pour résultat d'éluder ou
+de compromettre le recouvrement de la taxe visée à l'article 285 septies.

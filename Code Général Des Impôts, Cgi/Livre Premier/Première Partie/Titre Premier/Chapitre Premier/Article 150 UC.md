@@ -1,6 +1,6 @@
 Article 150 UC
 ----
-I. - Les dispositions du I et des 4° à 7° du II de l'article 150 U s'appliquent
+I. - Les dispositions du I et des 4° à 8° du II de l'article 150 U s'appliquent
 :
 
 a) Aux plus-values réalisées lors de la cession de biens mentionnés au a du 1°

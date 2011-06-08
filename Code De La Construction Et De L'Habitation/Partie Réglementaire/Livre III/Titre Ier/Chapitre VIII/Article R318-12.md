@@ -14,10 +14,7 @@ totalité de son montant. Dans ce dernier cas, les sommes ayant fait l'objet d'u
 différé sont remboursées au cours de la seconde période. Pour chaque période, le
 remboursement s'effectue par mensualités constantes. La fraction de l'avance
 faisant l'objet du différé et la durée de la seconde période de remboursement
-sont fixées en fonction des ressources de l'emprunteur et des personnes
-destinées à occuper le logement, conformément au tableau suivant :
-
-(Tableau non reproduit)
+sont fixées par décret en fonction des ressources de l'emprunteur.
 
 Lorsque l'emprunteur bénéficie d'une avance assortie d'un différé de
 remboursement, la durée de ce différé ne peut excéder la plus longue des durées

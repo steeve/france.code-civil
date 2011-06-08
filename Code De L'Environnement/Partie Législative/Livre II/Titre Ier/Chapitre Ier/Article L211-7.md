@@ -1,14 +1,12 @@
 Article L211-7
 ----
-I. - Sous réserve du respect des dispositions des articles 5 et 25 du code du
-domaine public fluvial et de la navigation intérieure, les collectivités
-territoriales et leurs groupements ainsi que les syndicats mixtes créés en
-application de l'article L. 5721-2 du code général des collectivités
-territoriales et la communauté locale de l'eau sont habilités à utiliser les
-articles L. 151-36 à L. 151-40 du code rural pour entreprendre l'étude,
-l'exécution et l'exploitation de tous travaux, actions, ouvrages ou
-installations présentant un caractère d'intérêt général ou d'urgence, dans le
-cadre du schéma d'aménagement et de gestion des eaux s'il existe, et visant :
+I. - Les collectivités territoriales et leurs groupements ainsi que les
+syndicats mixtes créés en application de l'article L. 5721-2 du code général des
+collectivités territoriales sont habilités à utiliser les articles L. 151-36 à
+L. 151-40 du code rural pour entreprendre l'étude, l'exécution et l'exploitation
+de tous travaux, actions, ouvrages ou installations présentant un caractère
+d'intérêt général ou d'urgence, dans le cadre du schéma d'aménagement et de
+gestion des eaux s'il existe, et visant :
 
 1° L'aménagement d'un bassin ou d'une fraction de bassin hydrographique ;
 
@@ -42,9 +40,13 @@ protection de la ressource en eau et des milieux aquatiques dans un sous-bassin
 ou un groupement de sous-bassins, ou dans un système aquifère, correspondant à
 une unité hydrographique.
 
+Les compétences visées aux alinéas précédents peuvent être exercées par
+l'établissement public Voies navigables de France sur le domaine dont la gestion
+lui a été confiée.
+
 I bis. - Lorsqu'un projet visé aux 1°, 2° et 5° du I dépassant un seuil
 financier fixé par décret est situé dans le périmètre d'un établissement public
-territorial de bassin visé à l'article L. 213-10, le préfet saisit pour avis le
+territorial de bassin visé à l'article L. 213-12, le préfet saisit pour avis le
 président de cet établissement. A défaut de réponse dans un délai de deux mois,
 l'avis est réputé favorable.
 

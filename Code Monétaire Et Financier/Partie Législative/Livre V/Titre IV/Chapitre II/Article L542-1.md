@@ -16,10 +16,10 @@ membres ou associés soient des établissements ou entreprises mentionnées aux 
 et 3° habilités en vue de l'administration ou de la conservation d'instruments
 financiers ;
 
-5° Les personnes morales établies en France exerçant le service de conservation
-ou d'administration d'instruments financiers, y compris dans le cadre des plans
-mentionnés aux articles L. 443-1, L. 443-1-1 et L. 443-1-2 du code du travail et
-des accords mentionnés aux articles L. 442-5 du code du travail ;
+5° Les personnes morales établies en France ayant pour objet principal ou unique
+l'activité de conservation ou d'administration d'instruments financiers, ainsi
+que celles ayant pour objet exclusif d'administrer une ou plusieurs institutions
+de retraite professionnelle collective ;
 
 6° Les institutions mentionnées à l'article L. 518-1 ;
 

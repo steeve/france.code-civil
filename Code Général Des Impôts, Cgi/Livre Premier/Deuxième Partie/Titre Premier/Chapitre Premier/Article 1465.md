@@ -4,23 +4,22 @@ Dans les zones définies par l'autorité compétente où l'aménagement du terri
 le rend utile, les collectivités locales et leurs groupements dotés d'une
 fiscalité propre peuvent, par une délibération de portée générale, exonérer de
 la taxe professionnelle en totalité ou en partie les entreprises qui procèdent
-sur leur territoire, soit à des décentralisations, extensions ou créations
-d'activités industrielles ou de recherche scientifique et technique, ou de
-services de direction, d'études, d'ingénierie et d'informatique, soit à une
-reconversion dans le même type d'activités, soit à la reprise d'établissements
-en difficulté exerçant le même type d'activités. Cette délibération ne peut
-avoir pour effet de reporter de plus de cinq ans l'application du régime
-d'imposition de droit commun. Pour les opérations réalisées à compter du 1er
-janvier 1995, l'exonération s'applique dans les zones éligibles à la prime
-d'aménagement du territoire et dans les territoires ruraux de développement
-prioritaire définis par décret.
+sur leur territoire, soit à des extensions ou créations d'activités
+industrielles ou de recherche scientifique et technique, ou de services de
+direction, d'études, d'ingénierie et d'informatique, soit à une reconversion
+dans le même type d'activités, soit à la reprise d'établissements en difficulté
+exerçant le même type d'activités. Cette délibération ne peut avoir pour effet
+de reporter de plus de cinq ans l'application du régime d'imposition de droit
+commun. Pour les opérations réalisées à compter du 1er janvier 2007 et jusqu'au
+31 décembre 2013, les exonérations s'appliquent dans les zones d'aide à finalité
+régionale.
 
-Lorsqu'il s'agit de décentralisations, extensions ou créations d'établissements
-industriels ou de recherche scientifique et technique répondant à des conditions
-fixées par décret en tenant compte notamment du volume des investissements et du
-nombre des emplois créés, l'exonération est acquise sans autre formalité. Dans
-les autres cas, elle est soumise à agrément dans les conditions prévues à
-l'article 1649 nonies.
+Lorsqu'il s'agit d'extensions ou de créations d'établissements industriels ou de
+recherche scientifique et technique répondant à des conditions fixées par décret
+en tenant compte notamment du volume des investissements et du nombre des
+emplois créés, l'exonération est acquise sans autre formalité. Dans les autres
+cas, elle est soumise à agrément dans les conditions prévues à l'article 1649
+nonies.
 
 Quand l'agrément est nécessaire pour des entreprises petites ou moyennes, il est
 accordé par une procédure décentralisée.
@@ -67,6 +66,18 @@ toute entreprise qui cesse volontairement son activité pendant une période
 d'exonération prévue au présent article, ou dans les cinq années suivant la fin
 de celle-ci, est tenue de verser les sommes qu'elle n'a pas acquittées au titre
 de la taxe professionnelle.
+
+Ces dispositions s'appliquent dans les conditions et limites prévues par le
+règlement (CE) n° 1628/2006 de la Commission, du 24 octobre 2006, concernant
+l'application des articles 87 et 88 du traité CE aux aides nationales à
+l'investissement à finalité régionale.
+
+Lorsque l'entreprise ne remplit pas les conditions mentionnées au deuxième
+alinéa de l'article 1465 B et que l'opération est réalisée dans une zone d'aide
+à finalité régionale limitée aux petites et moyennes entreprises, l'exonération
+s'applique dans les conditions et limites prévues par le règlement (CE) n°
+69/2001 de la Commission, du 12 janvier 2001, concernant l'application des
+articles 87 et 88 du traité CE aux aides de minimis.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article.

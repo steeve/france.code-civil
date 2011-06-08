@@ -33,20 +33,20 @@ trimestriels dont ils déterminent eux-mêmes le montant mais dont chacun doit
 représenter plus de 70 % de l'impôt réellement dû pour le trimestre
 correspondant.
 
-III. - Lorsqu'en application du II de l'article 73, la durée d'un exercice n'est
-pas égale à douze mois et que les exploitants agricoles ont opté pour une
-déclaration annuelle telle que définie à la deuxième phrase du 1° du I de
-l'article 298 bis, cette dernière ne peut couvrir une période excédant douze
-mois. Si l'exercice est supérieur à douze mois, ils doivent, au titre de cet
-exercice, déposer deux déclarations. La première doit couvrir la période
-comprise entre le premier jour de l'exercice et le dernier jour du douzième mois
-qui suit, et est déposée avant le cinquième jour du cinquième mois qui suit le
-dernier jour de la période couverte. La seconde déclaration doit couvrir la
-période comprise entre le premier jour du mois qui suit la période couverte par
-la première déclaration et le dernier jour de l'exercice concerné, et doit être
-déposée avant le cinquième jour du cinquième mois qui suit la clôture de
-l'exercice. Si l'exercice considéré a une durée inférieure à douze mois, elle
-est déposée avant le cinquième jour du cinquième mois qui suit la date de
-clôture de l'exercice. Les taxes dues en vertu des articles 298 bis et 302 bis
-MB, calculées ainsi qu'il est dit au III et le cas échéant au 1° ou 2° du IV de
-ce dernier article, sont liquidées lors du dépôt de ces déclarations.
+III. - Lorsque la durée d'un exercice n'est pas égale à douze mois et que les
+exploitants agricoles ont opté pour une déclaration annuelle telle que définie à
+la deuxième phrase du 1° du I de l'article 298 bis, cette dernière ne peut
+couvrir une période excédant douze mois. Si l'exercice est supérieur à douze
+mois, ils doivent, au titre de cet exercice, déposer deux déclarations. La
+première doit couvrir la période comprise entre le premier jour de l'exercice et
+le dernier jour du douzième mois qui suit, et est déposée avant le cinquième
+jour du cinquième mois qui suit le dernier jour de la période couverte. La
+seconde déclaration doit couvrir la période comprise entre le premier jour du
+mois qui suit la période couverte par la première déclaration et le dernier jour
+de l'exercice concerné, et doit être déposée avant le cinquième jour du
+cinquième mois qui suit la clôture de l'exercice. Si l'exercice considéré a une
+durée inférieure à douze mois, elle est déposée avant le cinquième jour du
+cinquième mois qui suit la date de clôture de l'exercice. Les taxes dues en
+vertu des articles 298 bis et 302 bis MB, calculées ainsi qu'il est dit au III
+et le cas échéant au 1° ou 2° du IV de ce dernier article, sont liquidées lors
+du dépôt de ces déclarations.

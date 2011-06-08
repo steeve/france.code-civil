@@ -1,48 +1,33 @@
 Article L443-3-1
 ----
-Sont considérées comme entreprises solidaires, au sens du présent article, les
-entreprises dont les titres de capital, s'ils existent, ne sont pas admis aux
-négociations sur un marché réglementé et qui :
+Un plan d'épargne d'entreprise établi en vertu d'un accord avec le personnel
+peut prévoir l'affectation des sommes versées à un fonds dédié au rachat des
+titres de cette entreprise ou d'actions émises par des sociétés créées dans les
+conditions prévues à l'article 220 nonies du code général des impôts, ainsi que
+de titres d'une entreprise du même groupe au sens du second alinéa de l'article
+L. 444-3 du présent code, dans le cadre d'une opération de rachat réservée aux
+salariés.
 
-a) Ou bien emploient des salariés dont un tiers au moins a été recruté dans le
-cadre des contrats de travail visés à l'article L. 322-4-20 ou parmi des
-personnes mentionnées au premier alinéa du I de l'article L. 322-4-8 ou pouvant
-invoquer une décision les déclarant, en application de l'article L. 241-6 du
-code de l'action sociale et des familles, relever d'un établissement ou service
-mentionné au a du 5° du I de l'article L. 312-1 de ce même code ; dans le cas
-d'une entreprise individuelle, les conditions précitées s'appliquent à la
-personne de l'entrepreneur individuel ;
+Les sommes ou valeurs inscrites aux comptes des participants, sur décision
+individuelle de ces derniers, doivent être détenues jusqu'au terme de
+l'opération de rachat mentionnée au 2° du présent article, sans que la durée de
+détention puisse être inférieure à cinq ans. Toutefois, un décret précise les
+cas dans lesquels les sommes ou valeurs mentionnées ci-dessus peuvent être
+exceptionnellement débloquées avant l'expiration de ce délai.
 
-b) Ou bien sont constituées sous forme d'associations, de coopératives, de
-mutuelles, d'institutions de prévoyance ou de sociétés dont les dirigeants sont
-élus directement ou indirectement par les salariés, les adhérents ou les
-sociétaires, à condition que l'ensemble des sommes perçues de l'entreprise par
-l'un de ceux-ci, à l'exception des remboursements de frais dûment justifiés,
-n'excède pas, au titre de l'année pour un emploi à temps complet, quarante-huit
-fois la rémunération mensuelle perçue par un salarié à temps plein sur la base
-du salaire minimum de croissance ; toutefois, cette condition doit être
-respectée dans les entreprises d'au moins vingt salariés, adhérents ou
-sociétaires, par dix-neuf salariés, adhérents ou sociétaires, sur vingt. En
-aucun cas, la rémunération du ou des salariés, adhérents ou sociétaires
-concernés ne peut excéder, pour un emploi au titre de l'année ou pour un emploi
-à temps complet, quatre-vingt-quatre fois la rémunération mensuelle perçue par
-un salarié à temps plein sur la base du salaire minimum de croissance ; pour les
-sociétés, les dirigeants s'entendent au sens des personnes mentionnées au
-premier alinéa du 1° de l'article 885 O bis du code général des impôts.
+Par dérogation à l'article L. 443-4 du présent code, l'actif de ce fonds peut
+être investi à 95 % en titres de l'entreprise.
 
-Les entreprises solidaires répondant aux conditions fixées ci-dessus sont
-agréées par l'autorité administrative.
+Par dérogation à l'article L. 214-40 du code monétaire et financier, les membres
+du conseil de surveillance sont élus par l'ensemble des salariés porteurs de
+parts.
 
-Sont assimilés à ces entreprises les organismes dont l'actif est composé pour au
-moins 40 % de titres émis par des entreprises solidaires ou les établissements
-de crédit, dont 80 % de l'ensemble des prêts et des investissements sont
-effectués en faveur des entreprises solidaires.
+La mise en place de ce fonds est subordonnée aux conditions suivantes :
 
-Les titres émis par des entreprises solidaires mentionnés à l'alinéa précédent
-s'entendent des titres de capital, des titres obligataires, des billets à ordre,
-des bons de caisse, des avances en comptes courants et des prêts participatifs
-émis ou consentis par ces mêmes entreprises.
+1° Au moins quinze salariés, ou au moins 30 % des salariés si les effectifs de
+l'entreprise n'excèdent pas cinquante salariés, sont impliqués dans l'opération
+de rachat réservée aux salariés ;
 
-Les entreprises solidaires indiquent dans l'annexe de leurs comptes annuels les
-informations qui attestent du respect des conditions fixées par le présent
-article.
+2° L'accord avec le personnel précise l'identité des salariés impliqués dans
+l'opération, le contrôle final de l'entreprise au sens de l'article L. 233-16 du
+code de commerce et le terme de l'opération.

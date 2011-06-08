@@ -40,7 +40,7 @@ de mettre obstacle à l'exercice des fonctions des agents habilités en vertu de
 l'article L. 253-14.
 
 IV. - Les personnes physiques coupables de l'une des infractions prévues au
-présent article encourent également la peine complémentaire de l'affichage ou de
+présent article encourent également la peine complémentaire de l'affichage et de
 la diffusion de la décision prononcée dans les conditions prévues par l'article
 131-35 du code pénal.
 

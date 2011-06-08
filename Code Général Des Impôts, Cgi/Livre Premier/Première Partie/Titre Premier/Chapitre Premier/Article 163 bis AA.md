@@ -8,9 +8,8 @@ L'exonération porte seulement sur la moitié des sommes en cause lorsque la dur
 de l'indisponibilité a été fixée à trois ans. Toutefois, l'exonération est
 totale lorsque les sommes reçues sont, à la demande des salariés, affectées aux
 plans d'épargne constitués conformément au chapitre III du titre IV du livre IV
-du code du travail dans les conditions prévues au dixième alinéa de l'article L.
-442-5 du code précité. Les dispositions de l'article L443-6 de ce code sont
-alors applicables.
+du code du travail dans les conditions prévues à l'article L. 442-5 du code
+précité. Les dispositions de l'article L443-6 de ce code sont alors applicables.
 
 Les revenus provenant de sommes attribuées au titre de la participation et
 recevant la même affectation qu'elles, sont exonérés dans les mêmes conditions.

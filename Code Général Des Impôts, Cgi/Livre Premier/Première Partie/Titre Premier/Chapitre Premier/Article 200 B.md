@@ -5,7 +5,7 @@ UC sont imposées au taux forfaitaire de 16 %. Elles sont imposées au taux d'un
 tiers lorsqu'elles sont dues :
 
 a. par des associés de sociétés ou groupements dont le siège est situé en France
-et qui relèvent des articles 8 à 8 ter, et par des porteurs de parts de fonds de
+et qui relèvent des articles 8 à 8 ter et par des porteurs de parts de fonds de
 placement immobilier mentionnés à l'article 239 nonies qui ne sont pas
 fiscalement domiciliés ou n'ont pas leur siège social dans un Etat membre de la
 Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace

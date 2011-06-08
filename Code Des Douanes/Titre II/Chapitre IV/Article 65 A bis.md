@@ -4,13 +4,14 @@ Article 65 A bis
 des douanes est habilitée à contrôler la quantité, la qualité, les marquages,
 les emballages, la destination ou l'utilisation des marchandises ayant le statut
 national ou communautaire, pour lesquelles un avantage quelconque alloué par le
-fonds européen d'orientation et de garantie agricole, section garantie, est
-sollicité.
+fonds européen d'orientation et de garantie agricole, section garantie, ou par
+le fonds européen agricole de garantie, est sollicité.
 
 En outre, elle est habilitée à délivrer les agréments conformément à la
 réglementation communautaire en vigueur, lorsque ceux-ci sont nécessaires pour
 l'attribution des avantages sollicités, quelle qu'en soit la nature, auprès du
-fonds européen d'orientation et de garantie agricole, section garantie.
+fonds européen d'orientation et de garantie agricole, section garantie ou du
+fonds européen agricole de garantie.
 
 2° Les marchandises ayant le statut national ou communautaire, exportées vers un
 autre Etat membre de la Communauté européenne, importées d'un autre Etat membre
@@ -46,6 +47,7 @@ dans l'impossibilité d'exercer les contrôles prévus aux 3 et 4 ci-dessus.
 sanctions figurant au premier alinéa de l'article 414 et les dispositions du
 titre XV sont applicables en cas d'acte frauduleux ayant pour but ou pour effet
 d'obtenir, en tout ou partie, un avantage quelconque alloué par le fonds
-européen d'orientation et de garantie agricole, section garantie, lorsqu'il
-s'agit de marchandises faisant l'objet d'opérations à l'intérieur du territoire
-douanier de la Communauté européenne.
+européen d'orientation et de garantie agricole, section garantie, ou par le
+fonds européen agricole de garantie, lorsqu'il s'agit de marchandises faisant
+l'objet d'opérations à l'intérieur du territoire douanier de la Communauté
+européenne.

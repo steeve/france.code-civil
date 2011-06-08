@@ -1,9 +1,12 @@
 Article 1465 B
 ----
-Les dispositions de l'article 1465 s'appliquent également aux opérations visées
-au premier alinéa de cet article, réalisées à compter du 1er janvier 1995, dans
-les zones éligibles à la prime d'aménagement du territoire pour les seules
-activités tertiaires.
+L'article 1465 s'applique également pour les opérations réalisées à compter du
+1er janvier 2007 et jusqu'au 31 décembre 2013 dans les zones d'aide à
+l'investissement des petites et moyennes entreprises et dans les limites prévues
+par le règlement (CE) n° 70/2001 de la Commission, du 12 janvier 2001,
+concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat en
+faveur des petites et moyennes entreprises, modifié par le règlement (CE) n°
+364/2004 du 25 février 2004.
 
 Les dispositions du premier alinéa s'appliquent aux entreprises qui ont employé
 moins de 250 salariés au cours de la période de référence retenue pour le calcul
@@ -23,4 +26,4 @@ sociétés de capital-risque, des fonds communs de placement à risques, des
 sociétés de développement régional et des sociétés financières d'innovation ne
 sont pas prises en compte à la condition qu'il n'existe pas de lien de
 dépendance au sens du 12 de l'article 39 entre la société en cause et ces
-dernières sociétés ou ces fonds (1).
+dernières sociétés ou ces fonds.

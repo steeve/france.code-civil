@@ -16,7 +16,8 @@ d) (Abrogé)
 
 e) Des plus-values, gains en capital et profits réalisés sur les marchés à terme
 d'instruments financiers et de marchandises, ainsi que sur les marchés d'options
-négociables, soumis à l'impôt sur le revenu à un taux proportionnel.
+négociables, soumis à l'impôt sur le revenu à un taux proportionnel, de même que
+de l'avantage défini au 6 bis de l'article 200 A du code général des impôts.
 
 Pour l'application de l'alinéa précédent, le gain net retiré de la cession
 d'actions acquises dans les conditions prévues aux articles L. 225-177 à L.

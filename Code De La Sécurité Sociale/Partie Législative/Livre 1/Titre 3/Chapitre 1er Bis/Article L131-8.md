@@ -92,23 +92,16 @@ l'objet d'une régularisation, au titre de l'année 2006, par la plus prochaine
 loi de finances suivant la connaissance du montant définitif de la perte.
 
 Toute modification en 2006 du champ ou des modalités de calcul des mesures
-d'allégement général de cotisations sociales mentionnées au I donnera lieu, si
+d'allégement général de cotisations sociales mentionnées au I donne lieu, si
 besoin, à un ajustement de la liste des impôts et taxes affectés en application
 du présent article.
 
-A compter de l'exercice 2007, en cas d'écart positif entre le produit des impôts
-et taxes mentionnées au II et le montant de la perte de recettes liée aux
-allégements généraux mentionnés au I, le montant correspondant à cet écart est
-affecté à la sécurité sociale, dans les conditions fixées par la loi de
-financement de la sécurité sociale. En 2007, il est affecté à la Caisse
-nationale d'assurance maladie des travailleurs salariés et fixé par arrêté des
-ministres chargés du budget et de la sécurité sociale.
-
-A compter de l'exercice 2007, en cas d'écart négatif entre le produit des impôts
-et taxes mentionnées au II et le montant de la perte de recettes liée aux
-allégements généraux mentionnés au I, le montant correspondant à cet écart fait
-l'objet d'une régularisation par la plus prochaine loi de finances suivant la
-connaissance du montant définitif de la perte.
+En cas d'écart positif constaté entre le produit en 2007 des impôts et taxes
+affectés mentionnés au II et le montant définitif de la perte de recettes liée
+aux allégements de cotisations sociales mentionnés au I pour cette même année,
+le montant correspondant à cet écart est affecté à la Caisse nationale
+d'assurance maladie des travailleurs salariés, selon des modalités fixées par
+arrêté des ministres chargés du budget et de la sécurité sociale.
 
 V. - Le Gouvernement remettra au Parlement en 2008 et 2009 un rapport retraçant,
 au titre de l'année précédente, d'une part, les recettes des impôts et taxes

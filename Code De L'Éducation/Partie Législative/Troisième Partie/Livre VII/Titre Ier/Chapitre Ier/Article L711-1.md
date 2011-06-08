@@ -25,8 +25,9 @@ certaines obligations des établissements et prévoient les moyens et emplois
 correspondants pouvant être mis à leur disposition par l'Etat. L'attribution de
 ces moyens s'effectue annuellement dans les limites prévues par la loi de
 finances. Les établissements rendent compte périodiquement de l'exécution de
-leurs engagements ; leurs rapports sont soumis au comité national d'évaluation
-prévu à l'article L. 242-1.
+leurs engagements ; leurs rapports sont soumis à l'Agence d'évaluation de la
+recherche et de l'enseignement supérieur mentionnée à l'article L. 114-3-1 du
+code de la recherche (1).
 
 Dans le cadre des missions qui leur sont dévolues par le présent code et afin de
 faire connaître leurs réalisations, tant sur le plan national qu'international,
@@ -42,3 +43,9 @@ et créer des filiales dans des conditions fixées par décret en Conseil d'Etat
 Ils peuvent recourir à l'arbitrage en cas de litiges nés de l'exécution de
 contrats passés avec des organismes étrangers. Ils peuvent transiger au sens de
 l'article 2044 du code civil, dans des conditions définies par décret.
+
+L'État tient compte des résultats de l'évaluation réalisée par l'Agence
+d'évaluation de la recherche et de l'enseignement supérieur, en particulier des
+résultats obtenus en application des dispositions de l'article L. 114-3-2 du
+code de la recherche, pour déterminer les engagements financiers qu'il prend
+envers les établissements dans le cadre des contrats pluriannuels susmentionnés.

@@ -67,15 +67,14 @@ aux seuils indicatifs fixés par l'article 9, point 2, de la directive 92/12/CEE
 du Conseil, du 25 février 1992, relative au régime général, à la détention, à la
 circulation et aux contrôles des produits soumis à accises.
 
-Toutefois, les cigarettes en provenance de l'Estonie, de la Hongrie, de la
-Lettonie, de la Lituanie, de la Pologne, de la Slovaquie, de la Slovénie et de
-la République tchèque, ainsi que les autres produits du tabac en provenance de
-la République tchèque, les tabacs destinés à rouler les cigarettes et les autres
-tabacs à fumer en provenance d'Estonie, acquis aux conditions du marché
-intérieur de ces Etats membres et introduits en France, sont soumis au droit de
-consommation mentionné à l'article 575, pour toutes les quantités excédant
-celles qui seraient admises en franchise si les produits provenaient de pays
-tiers à la Communauté européenne.
+Toutefois, les cigarettes en provenance de la Bulgarie, de l'Estonie, de la
+Hongrie, de la Lettonie, de la Lituanie, de la Pologne, de la Slovaquie, de la
+Slovénie, de la République tchèque et de la Roumanie, ainsi que les tabacs
+destinés à rouler les cigarettes et les autres tabacs à fumer en provenance
+d'Estonie, acquis aux conditions du marché intérieur de ces Etats membres et
+introduits en France, sont soumis au droit de consommation mentionné à l'article
+575, pour toutes les quantités excédant celles qui seraient admises en franchise
+si les produits provenaient de pays tiers à la Communauté européenne.
 
 Les dispositions du septième alinéa s'appliquent pour chaque pays de provenance
 et chaque type de produit mentionnés dans le tableau ci-dessous, jusqu'à la fin
@@ -94,6 +93,13 @@ DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
 provenance : 31 décembre 2009
 
 CATEGORIE de produits : Tabacs à fumer (tabacs à rouler, tabacs à pipe)
+
+DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
+provenance : 31 décembre 2009
+
+ETAT MEMBRE de provenance : Bulgarie
+
+CATEGORIE de produits : Cigarettes
 
 DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
 provenance : 31 décembre 2009
@@ -147,10 +153,12 @@ CATEGORIE de produits : Cigarettes
 DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
 provenance : 31 décembre 2007
 
-CATEGORIE de produits : Autres produits du tabac
+ETAT MEMBRE de provenance : Roumanie
+
+CATEGORIE de produits : Cigarettes
 
 DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
-provenance : 31 décembre 2006.
+provenance : 31 décembre 2009
 
 2. L'impôt est dû :
 

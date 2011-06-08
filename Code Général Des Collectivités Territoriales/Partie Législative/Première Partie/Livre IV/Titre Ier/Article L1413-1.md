@@ -6,7 +6,9 @@ et les syndicats mixtes comprenant au moins une commune de plus de 10 000
 habitants créent une commission consultative des services publics locaux pour
 l'ensemble des services publics qu'ils confient à un tiers par convention de
 délégation de service public ou qu'ils exploitent en régie dotée de l'autonomie
-financière.
+financière. Les établissements publics de coopération intercommunale dont la
+population est comprise entre 20 000 et 50 000 habitants peuvent créer une
+commission consultative des services publics locaux dans les mêmes conditions.
 
 Cette commission, présidée par le maire, le président du conseil général, le
 président du conseil régional, le président de l'organe délibérant, ou leur
@@ -49,3 +51,8 @@ décision portant création de la régie.
 
 3° Tout projet de partenariat avant que l'assemblée délibérante ou l'organe
 délibérant ne se prononce dans les conditions prévues à l'article L. 1414-2.
+
+Le président de la commission consultative des services publics locaux présente
+à son assemblée délibérante ou à son organe délibérant, avant le 1er juillet de
+chaque année, un état des travaux réalisés par cette commission au cours de
+l'année précédente (1).

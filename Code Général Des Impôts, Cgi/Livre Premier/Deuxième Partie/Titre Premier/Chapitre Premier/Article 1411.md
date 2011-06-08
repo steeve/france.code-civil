@@ -6,9 +6,9 @@ est diminuée d'un abattement obligatoire pour charges de famille.
 Elle peut également être diminuée d'abattements facultatifs à la base.
 
 II. 1. L'abattement obligatoire pour charges de famille est fixé, pour les
-personnes à charge à titre exclusif ou principal (1) à 10 % de la valeur
-locative moyenne des habitations de la commune pour chacune des deux premières
-personnes à charge et à 15 % pour chacune des suivantes.
+personnes à charge à titre exclusif ou principal à 10 % de la valeur locative
+moyenne des habitations de la commune pour chacune des deux premières personnes
+à charge et à 15 % pour chacune des suivantes.
 
 Ces taux peuvent être majorés de 5 ou 10 points par le conseil municipal.
 
@@ -21,7 +21,44 @@ municipal peut accorder un abattement à la base de 5, 10 ou 15 % aux
 contribuables dont le montant des revenus de l'année précédente n'excède pas la
 limite prévue à l'article 1417 et dont l'habitation principale a une valeur
 locative inférieure à 130 % de la moyenne communale. Ce pourcentage est augmenté
-de 10 points par personne à charge à titre exclusif ou principal (1).
+de 10 points par personne à charge à titre exclusif ou principal.
+
+3 bis Sans préjudice de l'abattement prévu aux 2 et 3, les conseils municipaux
+peuvent, par une délibération prise dans les conditions prévues à l'article 1639
+A bis, instituer un abattement de 10 % de la valeur locative moyenne des
+habitations de la commune aux contribuables qui sont :
+
+1° Titulaires de l'allocation supplémentaire mentionnée à l'article L. 815-3 du
+code de la sécurité sociale ;
+
+2° Titulaires de l'allocation aux adultes handicapés mentionnée aux articles L.
+821-1 et suivants du code de la sécurité sociale ;
+
+3° Atteints d'une infirmité ou d'une invalidité les empêchant de subvenir par
+leur travail aux nécessités de l'existence ;
+
+4° Titulaires de la carte d'invalidité mentionnée à l'article L. 241-3 du code
+de l'action sociale et des familles ;
+
+5° Ou qui occupent leur habitation avec des personnes visées aux 1° à 4°.
+
+Pour l'application du présent article, le contribuable adresse au service des
+impôts de sa résidence principale, avant le 1er janvier de la première année au
+titre de laquelle il peut bénéficier de l'abattement, une déclaration comportant
+tous les éléments justifiant de sa situation ou de l'hébergement de personnes
+mentionnées au 5°. Lorsque la déclaration est souscrite hors délai, l'abattement
+s'applique à compter du 1er janvier de l'année suivant celle au cours de
+laquelle la déclaration est déposée.
+
+Au titre des années suivantes, les justificatifs sont adressés à la demande de
+l'administration. En l'absence de réponse ou en cas de réponse insuffisante,
+l'abattement est supprimé à compter de l'année au cours de laquelle les
+justificatifs ont été demandés.
+
+Lorsque le contribuable ne remplit plus les conditions requises pour bénéficier
+de l'abattement, il doit en informer l'administration au plus tard le 31
+décembre de l'année au cours de laquelle il ne satisfait plus à ces conditions.
+L'abattement est supprimé à compter de l'année suivante.
 
 4. La valeur locative moyenne est déterminée en divisant le total des valeurs
 locatives d'habitation de la commune, abstraction faite des locaux
@@ -63,7 +100,7 @@ conformément au 5 du II sont divisés par deux pour les enfants réputés à ch
 2. Lorsque le nombre total de personnes à charge est supérieur à deux, les
 enfants réputés à charge égale de l'un et l'autre de leurs parents sont
 décomptés en premier pour le calcul de l'abattement obligatoire pour charges de
-famille (1).
+famille.
 
 III. Sont considérés comme personnes à la charge du contribuable :
 

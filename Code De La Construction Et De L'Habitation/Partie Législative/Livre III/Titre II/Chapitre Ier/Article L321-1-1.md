@@ -15,4 +15,6 @@ géographiques.
 
 Elle prévoit les conditions dans lesquelles le président du conseil général ou
 de l'établissement public de coopération intercommunale signe au nom de l'agence
-les conventions mentionnées à l'article L. 321-4.
+les conventions mentionnées à l'article L. 321-4 lorsque ces conventions
+permettent l'octroi d'une aide publique mentionnée au premier alinéa de
+l'article L. 301-3.

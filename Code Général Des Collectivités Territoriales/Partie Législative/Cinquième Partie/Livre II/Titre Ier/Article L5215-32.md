@@ -2,14 +2,10 @@ Article L5215-32
 ----
 Les recettes du budget de la communauté urbaine comprennent :
 
-1° Le produit des impôts directs mentionnés au 1° du a de l'article L. 2331-3
-et, le cas échéant, aux articles 1609 quinquies C ou 1609 nonies C du code
-général des impôts ;
-
 1° Soit, de plein droit ou après option, le produit des impôts mentionnés au I
 et au II de l'article 1609 nonies C du code général des impôts ;
 
-- soit le produit des impôts directs mentionnés au 2° du I de l'article 1609 bis
+-soit le produit des impôts directs mentionnés au 2° du I de l'article 1609 bis
 du code général des impôts et, le cas échéant, au II de l'article 1609 quinquies
 C du même code ;.
 
@@ -18,16 +14,14 @@ redevance d'enlèvement des ordures ménagères sur les terrains de camping, de 
 redevance spéciale, soit le produit de la redevance pour enlèvement des ordures,
 déchets et résidus ;
 
-3° Le produit des redevances de raccordement des effluents privés aux réseaux
-d'assainissement ou aux installations d'épuration, prévues à l'article L.
-1331-14 du code de la santé publique ;
+3° Abrogé
 
 4° Les attributions imputées sur la dotation globale de fonctionnement ;
 
 5° Le revenu de ses biens meubles ou immeubles ;
 
 6° Le produit des taxes correspondant aux compétences qui lui ont été
-transférées ;.
+transférées ;
 
 7° Le produit des redevances et droits divers correspondant aux services assurés
 en régie, concédés ou affermés par la communauté urbaine, de sa participation
@@ -51,7 +45,7 @@ et des syndicats mixtes ;
 13° Le produit des emprunts ;
 
 14° Le produit de la participation instituée dans les secteurs d'aménagement en
-vertu des dispositions de l'article L. 332-9 du code de l'urbanisme.
+vertu des dispositions de l'article L. 332-9 du code de l'urbanisme ;
 
 15° Le produit du versement destiné aux transports en commun prévu à l'article
 L. 2333-64.

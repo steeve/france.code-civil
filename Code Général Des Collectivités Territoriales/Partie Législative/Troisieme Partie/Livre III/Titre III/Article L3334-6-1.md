@@ -15,7 +15,7 @@ ressources et de charges des départements urbains éligibles en tenant compte :
 
 1° Du rapport entre le potentiel financier par habitant de l'ensemble des
 départements urbains et le potentiel financier par habitant du département, tel
-que défini à l'article L. 3334-4 ;
+que défini à l'article L. 3334-6 ;
 
 2° Du rapport entre la proportion du total des bénéficiaires d'aides au
 logement, tels que définis à l'article L. 2334-17, dans le nombre total de
@@ -69,7 +69,7 @@ en application de ces alinéas.
 
 Pour 2005, lorsque l'attribution revenant à un département diminue par rapport à
 celle perçue en 2004 au titre de la dotation de péréquation prévue à l'article
-L. 3334-4 dans sa rédaction antérieure à la loi de finances pour 2005 précitée,
+L. 3334-6 dans sa rédaction antérieure à la loi de finances pour 2005 précitée,
 ce département reçoit, à titre de garantie non renouvelable, une attribution
 égale au montant de dotation de péréquation perçu en 2004. Les sommes
 nécessaires sont prélevées sur les crédits affectés à la dotation de péréquation

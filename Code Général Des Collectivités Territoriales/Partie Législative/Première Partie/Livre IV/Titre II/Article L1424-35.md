@@ -26,7 +26,7 @@ d'administration du service départemental d'incendie et de secours, est notifi�
 aux maires et aux présidents des établissements publics de coopération
 intercommunale.
 
-A compter du 1er janvier 2008, les contributions des communes et des
+A compter du 1er janvier 2010, les contributions des communes et des
 établissements publics de coopération intercommunale sont supprimées. Leur
 participation au financement des services d'incendie et de secours est réalisée
 dans les conditions prévues à l'article L. 2334-7-3.

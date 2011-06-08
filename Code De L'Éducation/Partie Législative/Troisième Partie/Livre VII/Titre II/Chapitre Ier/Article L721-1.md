@@ -7,11 +7,10 @@ dispositions, à des écoles faisant partie des universités.
 Des conventions peuvent être conclues, en tant que de besoin, avec d'autres
 établissements d'enseignement supérieur.
 
-D'ici 2010, le Comité national d'évaluation des établissements publics à
-caractère scientifique, culturel et professionnel procède à une évaluation des
-modalités et des résultats de l'intégration des instituts universitaires de
-formation des maîtres au sein des universités, notamment au regard des objectifs
-qui leur sont fixés.
+D'ici 2010, l'Agence d'évaluation de la recherche et de l'enseignement supérieur
+procède à une évaluation des modalités et des résultats de l'intégration des
+instituts universitaires de formation des maîtres au sein des universités,
+notamment au regard des objectifs qui leur sont fixés.
 
 Dans le cadre des orientations définies par l'Etat, ces instituts universitaires
 de formation des maîtres conduisent les actions de formation professionnelle

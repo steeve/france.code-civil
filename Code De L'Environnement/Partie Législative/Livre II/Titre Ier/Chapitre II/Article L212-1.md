@@ -24,12 +24,12 @@ potable.
 
 III. - Chaque bassin ou groupement de bassins hydrographiques est doté d'un ou
 de plusieurs schémas directeurs d'aménagement et de gestion des eaux fixant les
-orientations fondamentales d'une gestion équilibrée de la ressource en eau telle
-que prévue à l'article L. 211-1 et des objectifs de qualité et de quantité des
-eaux. Le schéma prend en compte l'évaluation, par zone géographique, du
-potentiel hydroélectrique établi en application du I de l'article 6 de la loi n°
-2000-108 du 10 février 2000 relative à la modernisation et au développement du
-service public de l'électricité.
+objectifs visés au IV du présent article et les orientations permettant de
+satisfaire aux principes prévus aux articles L. 211-1 et L. 430-1. Le schéma
+prend en compte l'évaluation, par zone géographique, du potentiel
+hydroélectrique établi en application du I de l'article 6 de la loi n° 2000-108
+du 10 février 2000 relative à la modernisation et au développement du service
+public de l'électricité.
 
 IV. - Les objectifs de qualité et de quantité des eaux que fixent les schémas
 directeurs d'aménagement et de gestion des eaux correspondent :
@@ -80,7 +80,9 @@ IX. - Le schéma directeur détermine les aménagements et les dispositions
 nécessaires pour prévenir la détérioration et assurer la protection et
 l'amélioration de l'état des eaux et milieux aquatiques, pour atteindre et
 respecter les objectifs de qualité et de quantité des eaux mentionnées aux IV à
-VII.
+VII. En particulier, le schéma directeur identifie les sous-bassins ou parties
+de sous-bassins dans lesquels une gestion coordonnée des ouvrages, notamment
+hydroélectriques, est nécessaire.
 
 X. - Le schéma directeur d'aménagement et de gestion des eaux détermine les eaux
 maritimes intérieures et territoriales et les sous-bassins ou groupements de

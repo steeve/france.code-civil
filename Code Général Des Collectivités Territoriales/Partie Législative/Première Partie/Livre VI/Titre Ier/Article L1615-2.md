@@ -28,14 +28,14 @@ Par dérogation, les collectivités territoriales et leurs groupements bénéfic
 des attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au
 titre des dépenses d'investissement exposées sur des biens dont ils n'ont pas la
 propriété, dès lors qu'elles concernent des travaux de lutte contre les
-avalanches, glissements de terrains, inondations, ainsi que des travaux de
-défense contre la mer, des travaux pour la prévention des incendies de forêt,
-présentant un caractère d'intérêt général ou d'urgence. S'agissant des travaux
-effectués sur le domaine public de l'Etat, seules ouvrent droit aux attributions
-du fonds les dépenses d'investissement réalisées par les collectivités
-territoriales ou leurs groupements ayant conclu une convention avec l'Etat
-précisant notamment les équipements à réaliser, le programme technique des
-travaux et les engagements financiers des parties.
+avalanches, glissements de terrains, inondations, incendies, ainsi que des
+travaux de défense contre la mer, des travaux pour la prévention des incendies
+de forêt, présentant un caractère d'intérêt général ou d'urgence.S'agissant des
+travaux effectués sur le domaine public de l'Etat, seules ouvrent droit aux
+attributions du fonds les dépenses d'investissement réalisées par les
+collectivités territoriales ou leurs groupements ayant conclu une convention
+avec l'Etat précisant notamment les équipements à réaliser, le programme
+technique des travaux et les engagements financiers des parties.
 
 Les collectivités territoriales et leurs groupements bénéficient, par
 dérogation, des attributions du Fonds de compensation pour la taxe sur la valeur
@@ -48,6 +48,11 @@ d'investissement prises en compte pour le calcul de l'attribution du Fonds de
 compensation pour la taxe sur la valeur ajoutée de la collectivité territoriale
 ou de l'établissement public de coopération intercommunale à fiscalité propre
 qui réalise les travaux.
+
+Toutefois, le cinquième alinéa n'est pas applicable aux fonds de concours versés
+à compter du 1er janvier 2005 par les communes dans le cadre de conventions
+signées avant le 1er janvier 2005 et afférentes à des opérations relevant d'un
+plan qualité route au sein des contrats de plan Etat-régions.
 
 Les collectivités territoriales et leurs groupements, dès lors qu'ils sont
 compétents en matière de voirie, bénéficient, par dérogation, des attributions

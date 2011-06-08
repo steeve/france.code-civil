@@ -4,11 +4,12 @@ Les transferts de propriété du domaine public fluvial au profit d'une
 collectivité territoriale ou d'un groupement de collectivités territoriales de
 la part de l'Etat ou d'une autre personne publique peuvent être opérés à la
 demande de l'assemblée délibérante de la collectivité territoriale ou du
-groupement. Ils le sont à titre gratuit. Toutefois, les parties de cours d'eau,
-canaux, lacs ou plans d'eau inclus dans le périmètre d'une concession accordée
-par l'Etat au titre de l'utilisation de l'énergie hydraulique ne peuvent pas
-faire l'objet d'un transfert de propriété au profit des collectivités
-territoriales ou de leurs groupements.
+groupement. Ils le sont à titre gratuit et ne donnent lieu au paiement d'aucune
+indemnité, droit, taxe, salaire ou honoraires. Toutefois, les parties de cours
+d'eau, canaux, lacs ou plans d'eau inclus dans le périmètre d'une concession
+accordée par l'Etat au titre de l'utilisation de l'énergie hydraulique ne
+peuvent pas faire l'objet d'un transfert de propriété au profit des
+collectivités territoriales ou de leurs groupements.
 
 Ces transferts s'opèrent en priorité au profit de la région ou du groupement de
 régions territorialement compétent qui en fait la demande. Lorsque d'autres

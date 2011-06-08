@@ -1,8 +1,8 @@
 Article L214-10
 ----
 Sont habilités à rechercher et constater les infractions aux dispositions du
-premier alinéa de l'article L. 214-7, des articles L. 214-8 et L. 214-9 et des
-textes pris pour leur application :
+premier alinéa de l'article L. 214-7, des articles L. 214-8 et L. 214-9 (1) et
+des textes pris pour leur application :
 
 1° Les officiers et les agents de police judiciaire agissant dans les conditions
 prévues au code de procédure pénale ;
@@ -16,4 +16,4 @@ des activités mentionnées au IV de l'article L. 214-6, au premier alinéa de
 l'article L. 214-7 et à l'article L. 214-8 ;
 
 4° Les agents assermentés et commissionnés de l'Office national de la chasse et
-de la faune sauvage et du Conseil supérieur de la pêche.
+de la faune sauvage.

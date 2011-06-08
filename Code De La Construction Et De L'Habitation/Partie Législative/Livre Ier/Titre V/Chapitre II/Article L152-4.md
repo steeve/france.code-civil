@@ -4,8 +4,8 @@ Est puni d'une amende de 45 000 euros le fait, pour les utilisateurs du sol, les
 bénéficiaires des travaux, les architectes, les entrepreneurs ou toute autre
 personne responsable de l'exécution de travaux, de méconnaître les obligations
 imposées par les articles L. 111-4, L. 111-7, L. 111-8, L. 111-9, L. 111-10, L.
-111-10-1, L. 112-17, L. 112-18, L. 112-19, L. 125-3 et L. 131-4, par les
-règlements pris pour leur application ou par les autorisations délivrées en
+111-10-1, L. 112-17, L. 112-18, L. 112-19, L. 125-3, L. 131-4 et L. 135-1, par
+les règlements pris pour leur application ou par les autorisations délivrées en
 conformité avec leurs dispositions. En cas de récidive, la peine est portée à
 six mois d'emprisonnement et 75 000 euros d'amende.
 
@@ -22,12 +22,12 @@ son ancien usage.
 
 Ainsi qu'il est dit à l'article L. 480-12 du code de l'urbanisme :
 
-"Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues
-aux articles 433-7 et 433-8 du code pénal, quiconque aura mis obstacle à
+" Sans préjudice de l'application, le cas échéant, des peines plus fortes
+prévues aux articles 433-7 et 433-8 du code pénal, quiconque aura mis obstacle à
 l'exercice du droit de visite prévu à l'article L. 461-1 sera puni d'une amende
 de 3 750 euros.
 
-"En outre, un emprisonnement d'un mois pourra être prononcé."
+" En outre, un emprisonnement d'un mois pourra être prononcé. "
 
 Les personnes physiques coupables de l'un des délits prévus au présent article
 encourent également la peine complémentaire d'affichage ou de diffusion, par la

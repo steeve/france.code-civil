@@ -21,7 +21,7 @@ L. 321-4-1 du même code ;
 3° La nouvelle habitation principale doit se situer à plus de 200 kilomètres de
 celle précédemment occupée avant le début de l'activité mentionnée au 1°.
 
-II. - Le crédit d'impôt sur le revenu est égal à 1 500 euros. Il est accordé au
+II. - Le crédit d'impôt sur le revenu est égal à 2 000 euros. Il est accordé au
 titre de l'année au cours de laquelle s'achève la période de six mois mentionnée
 au 1° du I et s'impute sur l'impôt afférent aux revenus de l'année considérée,
 après prise en compte des réductions d'impôt mentionnées aux articles 199 quater
@@ -33,4 +33,4 @@ Le crédit d'impôt sur le revenu est accordé une seule fois par bénéficiaire
 titre de la période d'activité qui a débuté entre le 1er juillet 2005 et le 31
 décembre 2007.
 
-III. - Un décret précise les modalités d'application du présent article.
+III. - (abrogé)

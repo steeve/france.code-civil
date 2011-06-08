@@ -18,3 +18,8 @@ public dans des conditions fixées par décret.
 
 Les autorisations d'exploitation de carrières délivrées en application du
 présent titre doivent être compatibles avec ce schéma.
+
+Le schéma départemental des carrières doit être compatible ou rendu compatible
+dans un délai de trois ans avec les dispositions du schéma directeur
+d'aménagement et de gestion des eaux et du schéma d'aménagement et de gestion
+des eaux, s'il existe.

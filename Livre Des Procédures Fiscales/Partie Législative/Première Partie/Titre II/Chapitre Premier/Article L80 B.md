@@ -13,7 +13,7 @@ a. Disposition devenue sans objet ;
 b. a notifié à l'administration sa volonté de bénéficier des dispositions des
 articles 39 AB, 39 AC, 39 quinquies A, 39 quinquies D, 39 quinquies DA ou des
 articles 39 quinquies E, 39 quinquies F, 39 quinquies FA, 39 quinquies FC, 44
-sexies ou 44 octies (1) du code général des impôts.
+sexies ou 44 octies A du code général des impôts.
 
 La notification doit être préalable à l'opération en cause et effectuée à partir
 d'une présentation écrite précise et complète de la situation de fait.
@@ -52,10 +52,9 @@ précise et complète de la situation de fait, l'assurance qu'il ne dispose pas 
 France d'un établissement stable ou d'une base fixe au sens de la convention
 fiscale liant la France à l'État dans lequel ce contribuable est résident.
 
-Un décret en Conseil d'État précise les modalités d'application du présent 6°
-(1) ;
+Un décret en Conseil d'État précise les modalités d'application du présent 6° ;
 
 7° Lorsque l'administration a conclu un accord préalable portant sur la méthode
 de détermination des prix mentionnés au 2° de l'article L. 13 B, soit avec
 l'autorité compétente désignée par une convention fiscale bilatérale destinée à
-éliminer les doubles impositions, soit avec le contribuable. (2)
+éliminer les doubles impositions, soit avec le contribuable.

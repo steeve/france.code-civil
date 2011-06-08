@@ -18,7 +18,10 @@ ces revenus.
 Il n'est pas tenu compte des reports déficitaires, des plus-values et
 moins-values professionnelles à long terme, des modalités d'assiette qui
 résultent d'une option du contribuable et du coefficient multiplicateur
-mentionné au 7 de l'article 158 du code général des impôts.
+mentionné au 7 de l'article 158 du code général des impôts. Les contribuables
+qui ont exercé l'option mentionnée au c du 2 de l'article 75-0 A du code général
+des impôts peuvent demander à bénéficier de cette option pour la détermination
+des revenus mentionnés au présent article.
 
 Les revenus mentionnés aux alinéas précédents sont majorés des déductions et
 abattements qui ne correspondent pas à des dépenses nécessitées par l'exercice

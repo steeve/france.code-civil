@@ -24,7 +24,7 @@ constatée.
 
 Les organismes mentionnés au quatrième alinéa reversent au comptable de la
 direction générale des impôts les sommes perçues en application du même alinéa
-au plus tard le 31 mars de la même année.
+au plus tard le 30 avril de la même année.
 
 II. - Les dépenses visées aux articles 226 bis, 227 et 227 bis ne sont pas
 admises en exonération de la contribution mentionnée au I.

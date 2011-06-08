@@ -18,6 +18,13 @@ efficacement la préservation de la qualité de l'eau par des mesures de
 protection limitées au voisinage immédiat du captage, l'acte portant déclaration
 d'utilité publique peut n'instaurer qu'un périmètre de protection immédiate.
 
+Lorsque des terrains situés dans un périmètre de protection immédiate
+appartiennent à une collectivité publique, il peut être dérogé à l'obligation
+d'acquérir les terrains visée au premier alinéa par l'établissement d'une
+convention de gestion entre la ou les collectivités publiques propriétaires et
+l'établissement public de coopération intercommunale ou la collectivité publique
+responsable du captage.
+
 Toutefois, pour les points de prélèvement existant à la date du 18 décembre 1964
 et bénéficiant d'une protection naturelle permettant d'assurer efficacement la
 préservation de la qualité des eaux, l'autorité administrative dispose d'un

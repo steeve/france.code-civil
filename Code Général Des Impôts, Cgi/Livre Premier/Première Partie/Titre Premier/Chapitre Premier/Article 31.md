@@ -390,8 +390,8 @@ contribuable ou de l'un des époux soumis à imposition commune, cette majoratio
 ne s'applique pas.
 
 Pour un même logement, les dispositions du présent h sont exclusives de
-l'application des dispositions du deuxième alinéa du 3° du I de l'article 156 et
-des articles 199 undecies ou 199 undecies A. Elles ne s'appliquent pas aux
+l'application des dispositions du troisième alinéa du 3° du I de l'article 156
+et des articles 199 undecies ou 199 undecies A. Elles ne s'appliquent pas aux
 monuments classés monuments historiques, inscrits à l'inventaire supplémentaire
 ou ayant fait l'objet d'un agrément ministériel ou ayant reçu le label délivré
 par la Fondation du patrimoine, mentionnés au premier alinéa du 3° du I de
@@ -558,6 +558,11 @@ l'habitation, pendant la durée d'application de cette convention.
 Cette déduction est portée à 45 % des revenus bruts des logements donnés en
 location dans le cadre d'une convention mentionnée à l'article L. 321-8 du même
 code, pendant la durée d'application de cette convention.
+
+Lorsque les conventions prévues à l'article L. 321-4 du code de la construction
+et de l'habitation ne permettent pas l'octroi d'une aide publique mentionnée au
+premier alinéa de l'article L. 301-3 du même code, elles sont signées par
+l'Agence nationale de l'habitat.
 
 Le contribuable ou la société propriétaire doit louer le logement nu pendant
 toute la durée de la convention à des personnes qui en font leur habitation

@@ -96,10 +96,9 @@ l'article 80 duodecies du même code.
 
 Les attributions gratuites d'actions effectuées conformément aux dispositions
 des articles L. 225-197-1 à L. 225-197-3 du code de commerce sont exclues de
-l'assiette des cotisations mentionnées au premier alinéa si sont respectées les
-conditions d'attribution fixées par le conseil d'administration ou, le cas
-échéant, le directoire, en application des dispositions du sixième alinéa de
-l'article L. 225-197-1 du même code et si l'employeur notifie à son organisme de
+l'assiette des cotisations mentionnées au premier alinéa si elles sont
+conservées dans les conditions mentionnées au I de l'article 80 quaterdecies du
+code général des impôts et si l'employeur notifie à son organisme de
 recouvrement l'identité de ses salariés ou mandataires sociaux auxquels des
 actions gratuites ont été attribuées définitivement au cours de l'année civile
 précédente, ainsi que le nombre et la valeur des actions attribuées à chacun
