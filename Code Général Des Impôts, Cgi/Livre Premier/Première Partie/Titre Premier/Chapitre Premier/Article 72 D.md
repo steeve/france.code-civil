@@ -4,16 +4,15 @@ I.-Les exploitants agricoles soumis à un régime réel d'imposition peuvent
 pratiquer une déduction pour investissement dont le montant est plafonné, pour
 chaque exercice :
 
-a) A 4 000 euros dans la limite du bénéfice imposable, s'il est inférieur à 10
-000 euros ;
+a) A 4 000 € dans la limite du bénéfice imposable, s'il est inférieur à 10 000 €
+;
 
-b) A 40 % de ce bénéfice lorsqu'il est compris entre 10 000 euros et 40 000
-euros ;
+b) A 40 % de ce bénéfice lorsqu'il est compris entre 10 000 € et 40 000 € ;
 
-c) A la somme de 8 000 euros majorée de 20 % de ce bénéfice lorsqu'il est
-compris entre 40 000 euros et 60 000 euros ;
+c) A la somme de 8 000 € majorée de 20 % de ce bénéfice lorsqu'il est compris
+entre 40 000 € et 60 000 € ;
 
-d) A 20 000 euros lorsque ce bénéfice excède 60 000 euros.
+d) A 20 000 € lorsque ce bénéfice excède 60 000 €.
 
 Pour les exploitations agricoles à responsabilité limitée qui n'ont pas opté
 pour le régime fiscal des sociétés de capitaux, le plafond est multiplié par le
@@ -27,7 +26,8 @@ de sa réalisation pour l'acquisition et la création d'immobilisations
 amortissables strictement nécessaires à l'activité ou pour l'acquisition et pour
 la production de stocks de produits ou animaux dont le cycle de rotation est
 supérieur à un an ou pour l'acquisition de parts sociales de sociétés
-coopératives agricoles visées à l'article L521-1 du code rural.
+coopératives agricoles visées à l'article L521-1 du code rural et de la pêche
+maritime.
 
 Lorsque la déduction est utilisée à l'acquisition ou à la création
 d'immobilisations amortissables, la base d'amortissement de celles-ci est
