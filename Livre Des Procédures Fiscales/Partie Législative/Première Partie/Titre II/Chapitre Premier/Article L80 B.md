@@ -45,8 +45,8 @@ L'avis est notifié au contribuable et à l'administration des impôts. Lorsqu'i
 est favorable, celle-ci ne peut rejeter la demande du contribuable que pour un
 motif tiré de ce qu'une autre des conditions mentionnées à l'article 244 quater
 B du code général des impôts n'est pas remplie. Les personnes consultées en
-application du deuxième alinéa du 3° sont tenues au secret professionnel dans
-les conditions prévues à l'article L. 103.
+application du deuxième alinéa sont tenues au secret professionnel dans les
+conditions prévues à l'article L. 103.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent 3° ;
 

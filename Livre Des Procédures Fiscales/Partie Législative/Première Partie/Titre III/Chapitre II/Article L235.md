@@ -13,7 +13,7 @@ des I et II de l'article 28-1 du code de procédure pénale, le ministère publi
 exerce l'action publique et l'action pour l'application des sanctions fiscales.
 Sur autorisation du ministère public, l'action pour l'application des sanctions
 fiscales peut être exercée par l'administration des douanes et, dans ce cas, le
-3° de l'article L. 247 et l'article L. 248 du présent livre sont applicables.
+3° de l'article L. 247 et l'article L. 248 sont applicables.
 
 Dans ces mêmes procédures, l'administration des douanes exerce l'action en
 paiement des droits et taxes compromis ou éludés, prévue par l'article 1804 B du
