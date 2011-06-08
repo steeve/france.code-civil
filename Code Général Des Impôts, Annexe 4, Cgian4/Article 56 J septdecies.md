@@ -16,7 +16,7 @@ registre, est autorisée pour de tels ouvrages. Dans ce cas, les indications
 reprises à l'article 56 J quindecies devront y figurer.
 
 Le registre prévu à l'article 56 J quaterdecies, pour les ouvrages confiés pour
-réparation peut être remplacé par un contrat de dépôt, les fiches "
+réparation peut être remplacé par un contrat de dépôt ou par des fiches "
 réparation-facture-horlogerie ". Ce contrat et ces fiches doivent indiquer le
 nom et l'adresse du déposant et du dépositaire, la date et le numéro de contrat
 ou de la fiche dans une série continue, la désignation complète et détaillée des

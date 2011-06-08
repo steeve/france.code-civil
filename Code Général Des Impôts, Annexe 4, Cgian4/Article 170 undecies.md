@@ -9,7 +9,7 @@ augmenté :
 1. pour la ville de Paris :
 
 a) jusqu'à cent cinquante, en ce qui concerne les représentants des
-contribuables désignés par la chambre de commerce et d'industrie ;
+contribuables désignés par la chambre de commerce et d'industrie territoriale ;
 
 b) jusqu'à cinquante, en ce qui concerne les représentants des contribuables
 désignés par la chambre des métiers et de l'artisanat et par les organisations

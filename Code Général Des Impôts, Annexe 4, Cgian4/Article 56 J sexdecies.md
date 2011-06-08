@@ -65,10 +65,10 @@ soit leur valeur, avec une encre de couleur différente de celle utilisée pour
 les autres objets ;
 
 c. Ou le registre établi au moyen du logiciel assurant la gestion permanente des
-stocks prévu au c du 1 du présent article, sous réserve que les enregistrements
-informatiques créés pour les ouvrages d'occasion ne puissent être modifiés que
-par création d'un nouvel enregistrement avec indication de son motif et que le
-répertoire contenant ces informations soit spécifique et comprenne un système
+stocks prévu au c du 1, sous réserve que les enregistrements informatiques créés
+pour les ouvrages d'occasion ne puissent être modifiés que par création d'un
+nouvel enregistrement avec indication de son motif et que le répertoire
+contenant ces informations soit spécifique et comprenne un système
 d'identification des pages par chiffre de contrôle, contenant un algorithme ou
 un système fondé notamment sur la date de l'opération, reporté en fin et en tête
 des pages imprimées quotidiennement.
