@@ -24,7 +24,7 @@ délégués régionaux à la recherche et à la technologie ;
 
 2° L'Agence nationale de la recherche ;
 
-3° La société anonyme OSEO INNOVATION ;
+3° La société anonyme OSEO ;
 
 d) La demande d'éléments complémentaires prévue à l'article R. * 80 B-3 peut
 être faite par :
@@ -38,7 +38,7 @@ l'établissement où sera réalisé le projet de dépenses de recherche ;
 
 3° Le directeur général de l'Agence nationale de la recherche ;
 
-4° Le directeur général de la société anonyme OSEO INNOVATION ;
+4° Le directeur général de la société anonyme OSEO ;
 
 e) Le service ou l'organisme consulté en application du c notifie son avis
 simultanément par pli recommandé avec demande d'avis de réception postal au

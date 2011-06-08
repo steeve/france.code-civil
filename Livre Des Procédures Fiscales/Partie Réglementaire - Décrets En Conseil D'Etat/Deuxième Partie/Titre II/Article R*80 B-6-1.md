@@ -19,8 +19,8 @@ services relevant du ministre chargé de la recherche ;
 2° Ou à l'Agence nationale de la recherche si le demandeur entend obtenir une
 prise de position de celle-ci ;
 
-3° Ou à la société anonyme OSEO INNOVATION si le demandeur entend obtenir une
-prise de position de celle-ci.
+3° Ou à la société anonyme OSEO si le demandeur entend obtenir une prise de
+position de celle-ci.
 
 La demande peut également faire l'objet d'un dépôt contre décharge auprès des
 services ou organismes mentionnés aux 1°, 2° et 3° ;
@@ -39,8 +39,8 @@ lorsqu'il a été fait application du 1° du c ;
 2° Par le directeur général de l'Agence nationale de la recherche, lorsqu'il a
 été fait application du 2° du c ;
 
-3° Par le directeur général de la société anonyme OSEO INNOVATION, lorsqu'il a
-été fait application du 3° du c.
+3° Par le directeur général de la société anonyme OSEO, lorsqu'il a été fait
+application du 3° du c.
 
 Les éléments complémentaires sont transmis par le demandeur par pli recommandé
 avec demande d'avis de réception postal. Ils peuvent également faire l'objet
