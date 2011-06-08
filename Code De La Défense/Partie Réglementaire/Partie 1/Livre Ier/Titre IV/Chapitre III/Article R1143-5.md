@@ -37,5 +37,6 @@ communication électronique gouvernementale et des outils de situation d'urgence
 l'application de celle-ci ;
 
 9° Ils peuvent participer, dans le cadre fixé par le ministre dont ils relèvent
-et sous l'égide du secrétariat général de la défense nationale, à la mise en
-oeuvre de la politique nationale en matière d'intelligence économique.
+et sous l'égide du secrétariat général de la défense et de la sécurité
+nationale, à la mise en oeuvre de la politique nationale en matière
+d'intelligence économique.

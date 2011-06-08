@@ -1,8 +1,9 @@
 Article R*1411-4
 ----
-En exécution des décisions arrêtées en conseil de défense, des mesures générales
-prises par le Premier ministre et des directives du ministre de la défense, le
-chef d'état-major des armées est chargé pour l'ensemble des forces nucléaires :
+En exécution des décisions arrêtées en conseil de défense et de sécurité
+nationale, des mesures générales prises par le Premier ministre et des
+directives du ministre de la défense, le chef d'état-major des armées est chargé
+pour l'ensemble des forces nucléaires :
 
 1° De préparer les plans d'emploi et les directives opérationnelles ;
 
@@ -10,4 +11,4 @@ chef d'état-major des armées est chargé pour l'ensemble des forces nucléaire
 communications associées ;
 
 3° De tenir informé le ministre de la défense et de rendre compte en conseil de
-défense de l'état de ces moyens.
+défense et de sécurité nationale de l'état de ces moyens.

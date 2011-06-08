@@ -10,5 +10,5 @@ sécurité.
 Ils peuvent assister plusieurs ministres et disposer d'un ou de plusieurs hauts
 fonctionnaires adjoints.
 
-Ils sont en liaison permanente avec le secrétaire général de la défense
-nationale et avec leurs homologues des autres ministères.
+Ils sont en liaison permanente avec le secrétaire général de la défense et de la
+sécurité nationale et avec leurs homologues des autres ministères.

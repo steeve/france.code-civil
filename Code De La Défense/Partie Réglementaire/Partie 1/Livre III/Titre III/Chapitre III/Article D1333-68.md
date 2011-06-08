@@ -11,8 +11,8 @@ mesures à prendre.
 
 Il comprend les ministres chargés des affaires étrangères, de la défense, de
 l'environnement, de l'industrie, de l'intérieur, de la santé et des transports
-ou leurs représentants ainsi que le secrétaire général de la défense nationale,
-qui en assure le secrétariat.
+ou leurs représentants ainsi que le secrétaire général de la défense et de la
+sécurité nationale, qui en assure le secrétariat.
 
 D'autres administrations ou établissements intéressés ainsi que des exploitants
 nucléaires concernés peuvent y être invités, en tant que de besoin.

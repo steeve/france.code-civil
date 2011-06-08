@@ -28,7 +28,8 @@ besoin, de ceux d'autres départements ministériels ;
 
 c) Du représentant du directeur général du centre d'analyse stratégique ;
 
-d) Du représentant du secrétaire général de la défense nationale.
+d) Du représentant du secrétaire général de la défense et de la sécurité
+nationale.
 
 Le ministre chargé de l'outre-mer est représenté lorsque la commission examine
 des affaires intéressant les départements, les régions et les collectivités

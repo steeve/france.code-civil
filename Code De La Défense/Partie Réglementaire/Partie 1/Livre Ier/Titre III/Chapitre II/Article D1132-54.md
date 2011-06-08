@@ -1,7 +1,7 @@
 Article D1132-54
 ----
-Le secrétaire général de la défense nationale assure le secrétariat du comité
-interministériel aux crises nucléaires ou radiologiques.
+Le secrétaire général de la défense et de la sécurité nationale assure le
+secrétariat du comité interministériel aux crises nucléaires ou radiologiques.
 
 Les règles relatives aux attributions, à la composition et à l'organisation de
 ce comité sont définies par la section 3 du chapitre 3 " Installations et

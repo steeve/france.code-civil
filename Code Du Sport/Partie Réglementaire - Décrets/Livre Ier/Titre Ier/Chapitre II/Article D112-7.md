@@ -23,6 +23,6 @@ d'acquérir, le ministre chargé des sports se prononce.
 
 Les collections conservées sont placées, en application de l'article L. 442-11
 du code du patrimoine, sous le contrôle scientifique et conservatoire de la
-direction des musées de France du ministère chargé de la culture, qui vérifie la
-tenue des inventaires et le respect des règles applicables à la gestion
-conservatoire des collections publiques.
+direction générale des patrimoines du ministère chargé de la culture, qui
+vérifie la tenue des inventaires et le respect des règles applicables à la
+gestion conservatoire des collections publiques.

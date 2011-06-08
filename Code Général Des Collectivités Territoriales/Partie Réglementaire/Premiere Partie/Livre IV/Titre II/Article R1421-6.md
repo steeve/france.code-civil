@@ -9,4 +9,4 @@ collectivité territoriale concernée. Les travaux ne peuvent commencer avant la
 transmission de cet avis.
 
 Toute attribution de subvention en application de l'article L. 1421-5 est
-subordonnée au visa technique de la direction des Archives de France.
+subordonnée au visa technique de la direction générale des patrimoines.

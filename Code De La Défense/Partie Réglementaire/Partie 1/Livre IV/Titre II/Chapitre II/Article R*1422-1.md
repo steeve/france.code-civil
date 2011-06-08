@@ -1,10 +1,10 @@
 Article R*1422-1
 ----
-Sur la base des décisions prises en conseil de défense, le Premier ministre ou,
-en cas de délégation, le ministre de la défense, établit les directives
-générales relatives à la préparation et à la mise en oeuvre des mesures de
-défense opérationnelle du territoire à prendre en cas de menace extérieure,
-d'agression ou d'invasion.
+Sur la base des décisions prises en conseil de défense et de sécurité nationale,
+le Premier ministre ou, en cas de délégation, le ministre de la défense, établit
+les directives générales relatives à la préparation et à la mise en oeuvre des
+mesures de défense opérationnelle du territoire à prendre en cas de menace
+extérieure, d'agression ou d'invasion.
 
 Le ministre de la défense a la responsabilité de l'organisation, de la mise en
 condition et de la détermination des missions des forces prévues pour assurer la

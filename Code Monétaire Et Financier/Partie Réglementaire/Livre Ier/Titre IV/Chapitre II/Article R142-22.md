@@ -6,7 +6,8 @@ Sont membres de l'Observatoire de la sécurité des cartes de paiement :
 
 2° Huit représentants des administrations concernées :
 
-a) Un représentant du secrétariat général de la défense nationale ;
+a) Un représentant du secrétariat général de la défense et de la sécurité
+nationale ;
 
 b) Deux représentants du ministre chargé de l'économie ;
 
@@ -50,7 +51,7 @@ Sur proposition du ministre dont ils relèvent, pour les représentants de l'Eta
 Sur proposition du gouverneur de la Banque de France pour les représentants des
 émetteurs ;
 
-Sur proposition du collège "consommateurs" du Conseil national de la
+Sur proposition du collège " consommateurs " du Conseil national de la
 consommation, pour les représentants des consommateurs ;
 
 Sur proposition de l'Assemblée des chambres françaises de commerce et

@@ -1,7 +1,7 @@
 Article D1333-69
 ----
-I.-Le secrétaire général de la défense nationale est chargé dans les domaines
-mentionnés au premier alinéa de l'article D. 1333-68 :
+I.-Le secrétaire général de la défense et de la sécurité nationale est chargé
+dans les domaines mentionnés au premier alinéa de l'article D. 1333-68 :
 
 1° De veiller à la cohérence interministérielle des mesures planifiées en cas
 d'accident, d'attentat ou pour prévenir les menaces d'attentat ou la
@@ -18,11 +18,11 @@ en cas d'événements précités ;
 4° De veiller à l'évaluation par les services concernés de ces exercices en vue
 d'apporter les améliorations jugées nécessaires.
 
-II.-Le secrétaire général de la défense nationale est informé sans délai de la
-survenance d'un accident, attentat ou d'une menace de nature nucléaire ou
-radiologique. Il assure alors la synthèse de l'information destinée au Président
-de la République et au Premier ministre.
+II.-Le secrétaire général de la défense et de la sécurité nationale est informé
+sans délai de la survenance d'un accident, attentat ou d'une menace de nature
+nucléaire ou radiologique. Il assure alors la synthèse de l'information destinée
+au Président de la République et au Premier ministre.
 
 III.-Les ministères concernés ainsi que les établissements, organismes
 consultatifs ou exploitants nucléaires intéressés prêtent leur concours au
-secrétaire général de la défense nationale à cet effet.
+secrétaire général de la défense et de la sécurité nationale à cet effet.

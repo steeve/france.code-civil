@@ -1,6 +1,6 @@
 Article R1111-11
 ----
-I. - Le comité d'agrément mentionné à l'article R. 1111-10 comprend :
+I.-Le comité d'agrément mentionné à l'article R. 1111-10 comprend :
 
 1° Un membre de l'inspection générale des affaires sociales nommé sur
 proposition du chef de l'inspection générale des affaires sociales ;
@@ -24,12 +24,12 @@ c) Une personne choisie en raison de ses compétences dans le domaine économiqu
 et financier.
 
 Le directeur général de la santé, le directeur de l'hospitalisation et de
-l'organisation des soins, le directeur des Archives de France, le directeur
+l'organisation des soins, le directeur général des patrimoines, le directeur
 général des entreprises et le directeur général de la concurrence, de la
 consommation et de la répression des fraudes, ou leurs représentants, assistent
 aux séances du comité avec voix consultative.
 
-II. - Les membres du comité d'agrément, dont celui qui, parmi eux, exercera la
+II.-Les membres du comité d'agrément, dont celui qui, parmi eux, exercera la
 présidence du comité, sont nommés pour cinq ans par arrêté du ministre chargé de
 la santé. Leur mandat est renouvelable une fois.
 
@@ -59,7 +59,7 @@ Les fonctions de membre du comité ouvrent droit à des indemnités pour frais d
 déplacement et de séjour dans les conditions prévues par les dispositions
 législatives et réglementaires applicables aux fonctionnaires civils de l'Etat.
 
-III. - Le comité d'agrément ne peut délibérer que si deux tiers au moins de ses
+III.-Le comité d'agrément ne peut délibérer que si deux tiers au moins de ses
 membres sont présents. Dans le cas contraire, une nouvelle séance peut se tenir
 sans obligation de quorum après un délai de quinze jours.
 
@@ -67,5 +67,5 @@ Les avis rendus par le comité sont motivés. Ils sont pris à la majorité des 
 exprimées des membres présents. En cas de partage égal des voix, celle du
 président est prépondérante.
 
-IV. - Le comité d'agrément peut être saisi par le ministre chargé de la santé de
+IV.-Le comité d'agrément peut être saisi par le ministre chargé de la santé de
 tout sujet entrant dans son domaine de compétence.

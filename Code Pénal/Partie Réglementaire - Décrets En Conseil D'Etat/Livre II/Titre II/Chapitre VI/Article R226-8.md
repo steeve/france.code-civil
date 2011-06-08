@@ -1,7 +1,8 @@
 Article R226-8
 ----
-La demande d'autorisation est déposée auprès du secrétaire général de la défense
-nationale. Elle comporte pour chaque type d'appareil :
+La demande d'autorisation est déposée auprès du directeur général de l'Agence
+nationale de la sécurité des systèmes d'information. Elle comporte pour chaque
+type d'appareil :
 
 1° Le nom et l'adresse du demandeur, s'il est une personne physique, ou sa
 dénomination et son siège, s'il est une personne morale ;

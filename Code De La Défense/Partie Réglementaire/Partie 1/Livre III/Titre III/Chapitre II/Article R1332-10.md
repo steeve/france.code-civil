@@ -2,7 +2,7 @@ Article R1332-10
 ----
 La commission interministérielle de défense et de sécurité des secteurs
 d'activités d'importance vitale est présidée par le secrétaire général de la
-défense nationale ou son représentant.
+défense et de la sécurité nationale ou son représentant.
 
 Cette commission comprend :
 

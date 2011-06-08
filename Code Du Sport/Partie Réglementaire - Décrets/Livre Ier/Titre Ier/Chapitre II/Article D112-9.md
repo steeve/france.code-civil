@@ -8,7 +8,7 @@ a) Le directeur des sports ou son représentant ;
 
 b) Un autre représentant du ministre chargé des sports ;
 
-c) Le directeur des musées de France ou son représentant ;
+c) Le directeur général des patrimoines ou son représentant ;
 
 2° Trois représentants respectivement désignés par une région, un département et
 une commune. Ces collectivités sont choisies par le ministre chargé des sports

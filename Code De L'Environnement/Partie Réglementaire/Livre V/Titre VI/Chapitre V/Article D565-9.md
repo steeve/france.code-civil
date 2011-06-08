@@ -6,7 +6,8 @@ comprend :
 1° Un représentant de l'Etat proposé par chacun des ministres membres du comité
 interministériel pour le développement durable mentionné à l'article D. 134-8 ;
 
-2° Le secrétaire général de la défense nationale ou son représentant ;
+2° Le secrétaire général de la défense et de la sécurité nationale ou son
+représentant ;
 
 3° Dix personnalités qualifiées, dont deux représentants des compagnies
 d'assurance désignés par le ministre chargé des finances, une personnalité

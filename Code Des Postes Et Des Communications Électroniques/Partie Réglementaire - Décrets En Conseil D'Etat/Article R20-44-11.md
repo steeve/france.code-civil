@@ -4,8 +4,8 @@ Les missions de l'agence sont les suivantes :
 
 1° Elle prépare la position française et coordonne l'action de la représentation
 française dans les négociations internationales dans le domaine des fréquences
-radioélectriques. A ce titre, elle prépare notamment les conférences mondiales
-et régionales des radiocommunications organisées par l'Union internationale des
+radioélectriques.A ce titre, elle prépare notamment les conférences mondiales et
+régionales des radiocommunications organisées par l'Union internationale des
 télécommunications ainsi que les réunions de la Conférence européenne des postes
 et communications électroniques et de la Communauté européenne traitant des
 sujets de son domaine de compétence.
@@ -15,7 +15,7 @@ commissions, groupes d'experts et groupes de travail créés par ces instances,
 avec lesquelles elle assure des liaisons permanentes.
 
 Elle entretient des relations avec les administrations étrangères chargées de la
-gestion du spectre. A ce titre, elle peut notamment procéder à des échanges
+gestion du spectre.A ce titre, elle peut notamment procéder à des échanges
 d'experts.
 
 2° L'agence mène des analyses prospectives du spectre des fréquences
@@ -34,7 +34,7 @@ fréquences.
 
 4° Elle établit et tient à jour l'ensemble des documents relatifs à l'emploi des
 fréquences, notamment le fichier national des fréquences qui récapitule les
-assignations de fréquences. A cet effet, l'ensemble des administrations et
+assignations de fréquences.A cet effet, l'ensemble des administrations et
 autorités affectataires lui transmettent les données nécessaires, dans le
 respect des dispositions relatives à la protection du secret de défense.
 
@@ -48,7 +48,7 @@ dont elle est, pour ce domaine, l'interlocuteur unique.
 
 Les dossiers de demande d'assignation ou de tenue à jour des fichiers
 d'assignation peuvent être transmis directement par l'utilisateur à l'agence si
-l'administration ou l'autorité affectataire en est d'accord. L'agence informe
+l'administration ou l'autorité affectataire en est d'accord.L'agence informe
 alors directement l'utilisateur et l'administration ou l'autorité affectataire
 du résultat de la procédure.
 
@@ -63,8 +63,8 @@ installations.
 
 Le dossier de demande d'avis ou d'accord peut être transmis directement par
 l'utilisateur à l'agence si l'administration ou l'autorité affectataire en est
-d'accord. L'agence informe alors directement l'utilisateur et l'administration
-ou l'autorité affectataire de l'avis ou de l'accord.
+d'accord.L'agence informe alors directement l'utilisateur et l'administration ou
+l'autorité affectataire de l'avis ou de l'accord.
 
 Devant le silence gardé par l'agence, l'avis ou l'accord est réputé acquis au
 terme d'un délai de deux mois après la saisine de l'agence. Les avis et accords
@@ -88,11 +88,11 @@ public aux champs électromagnétiques, et de normes propres à assurer une bonn
 utilisation des systèmes radioélectriques.
 
 7° Dans son domaine de compétence, elle est chargée de prévoir, en liaison avec
-le secrétariat général de la défense nationale et selon ses directives, la mise
-en oeuvre des mesures entraînées par l'application de l'article L. 1111-2 du
-code de la défense. Dans les circonstances prévues à ces articles, elle est
-également chargée d'assister de ses conseils le ministre chargé des
-communications électroniques et les autres ministres concernés.
+le secrétariat général de la défense et de la sécurité nationale et selon ses
+directives, la mise en oeuvre des mesures entraînées par l'application de
+l'article L. 1111-2 du code de la défense. Dans les circonstances prévues à ces
+articles, elle est également chargée d'assister de ses conseils le ministre
+chargé des communications électroniques et les autres ministres concernés.
 
 8° Elle est responsable de la coordination internationale des fréquences aux
 frontières et de celle des systèmes de communications électroniques par

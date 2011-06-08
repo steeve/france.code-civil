@@ -9,5 +9,5 @@ bilan de la mise en oeuvre de ce programme.
 
 En matière de défense aérienne, la commission coordonne l'élaboration des
 mesures interministérielles de mise en oeuvre des plans et des décisions arrêtés
-en conseil de défense. Elle veille à la prise en compte des contraintes liées
-aux opérations de défense aérienne.
+en conseil de défense et de sécurité nationale. Elle veille à la prise en compte
+des contraintes liées aux opérations de défense aérienne.
