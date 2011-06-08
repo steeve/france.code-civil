@@ -4,7 +4,7 @@ Article 168
 ses revenus, la base d'imposition à l'impôt sur le revenu est portée à une somme
 forfaitaire déterminée en appliquant à certains éléments de ce train de vie le
 barème ci-après, compte tenu, le cas échéant, de la majoration prévue au 2,
-lorsque cette somme est supérieure ou égale à 44 111 € ; cette limite est
+lorsque cette somme est supérieure ou égale à 44 772 € ; cette limite est
 relevée chaque année dans la même proportion que la limite supérieure de la
 première tranche du barème de l'impôt sur le revenu :
 
@@ -27,11 +27,11 @@ Cinq fois la valeur locative cadastrale.
 
 - pour la première personne âgée de moins de 60 ans
 
-4 600 euros
+4 600 €
 
 - pour chacune des autres personnes
 
-5 700 euros
+5 700 €
 
 La base ainsi déterminée est réduite de moitié en ce qui concerne les personnes
 employées principalement pour l'exercice d'une profession.
@@ -66,21 +66,21 @@ jaugeant au moins 3 tonneaux de jauge internationale :
 
 - pour les trois premiers tonneaux
 
-1 140 euros
+1 140 €
 
 - pour chaque tonneau supplémentaire :
 
 - de 4 à 10 tonneaux
 
-340 euros
+340 €
 
 - de 10 à 25 tonneaux
 
-460 euros
+460 €
 
 - au-dessus de 25 tonneaux
 
-910 euros
+910 €
 
 Ce barème est quintuplé pour les bateaux de plaisance battant pavillon d'un pays
 ou territoire qui n'a pas conclu avec la France de convention d'assistance
@@ -98,11 +98,11 @@ moins 20 CV :
 
 - pour les vingt premiers chevaux
 
-910 euros
+910 €
 
 - par cheval-vapeur supplémentaire
 
-69 euros
+69 €
 
 Toutefois, la puissance n'est comptée que pour 75 %, 50 % ou 25 %, en ce qui
 concerne les bateaux construits respectivement depuis plus de cinq ans, quinze
@@ -114,33 +114,33 @@ administrative en vue de lutter contre la fraude et l'évasion fiscales.
 
 8. Avions de tourisme : par cheval-vapeur de la puissance réelle de chaque avion
 
-69 euros
+69 €
 
 9. Chevaux de course âgés au moins de deux ans au sens de la réglementation
 concernant les courses :
 
 - par cheval de pur sang
 
-4 600 euros
+4 600 €
 
 - par cheval autre que de pur sang et par trotteur
 
-2 700 euros
+2 700 €
 
 10. Chevaux de selle : par cheval âgé au moins de deux ans à compter du second
 cheval
 
-1 370 euros
+1 370 €
 
 11. Location de droits de chasse et participation dans les sociétés de chasse
 
 Deux fois le montant des loyers payés ou des participations versées lorsqu'il
-dépasse 4 600 euros.
+dépasse 4 600 €.
 
 12. Clubs de golf : participation dans les clubs de golf et abonnements payés en
 vue de disposer de leurs installations
 
-Deux fois le montant des sommes versées lorsqu'il dépasse 4 600 euros.
+Deux fois le montant des sommes versées lorsqu'il dépasse 4 600 €.
 
 Les éléments dont il est fait état pour la détermination de la base d'imposition
 sont ceux dont ont disposé, pendant l'année de l'imposition, les membres du

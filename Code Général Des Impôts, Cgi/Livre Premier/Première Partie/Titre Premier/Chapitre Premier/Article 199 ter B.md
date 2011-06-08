@@ -3,25 +3,25 @@ Article 199 ter B
 I. ― Le crédit d'impôt pour dépenses de recherche défini à l'article 244 quater
 B est imputé sur l'impôt sur le revenu dû par le contribuable au titre de
 l'année au cours de laquelle les dépenses de recherche prises en compte pour le
-calcul du crédit d'impôt ont été exposées.L'excédent de crédit d'impôt constitue
-au profit de l'entreprise une créance sur l'Etat d'égal montant. Cette créance
-est utilisée pour le paiement de l'impôt sur le revenu dû au titre des trois
-années suivant celle au titre de laquelle elle est constatée puis, s'il y a
-lieu, la fraction non utilisée est remboursée à l'expiration de cette période.
+calcul du crédit d'impôt ont été exposées. L'excédent de crédit d'impôt
+constitue au profit de l'entreprise une créance sur l'Etat d'égal montant. Cette
+créance est utilisée pour le paiement de l'impôt sur le revenu dû au titre des
+trois années suivant celle au titre de laquelle elle est constatée puis, s'il y
+a lieu, la fraction non utilisée est remboursée à l'expiration de cette période.
 
 La créance est inaliénable et incessible, sauf dans les cas et conditions prévus
 par les articles L. 313-23 à L. 313-35 du code monétaire et financier.
 
 En cas de fusion ou d'opération assimilée intervenant au cours de la période
-mentionnée à la dernière phrase du premier alinéa du présent I, la fraction de
-la créance qui n'a pas encore été imputée par la société apporteuse est
-transférée à la société bénéficiaire de l'apport.
+mentionnée à la dernière phrase du premier alinéa, la fraction de la créance qui
+n'a pas encore été imputée par la société apporteuse est transférée à la société
+bénéficiaire de l'apport.
 
 La fraction du crédit d'impôt recherche correspondant aux parts des personnes
 physiques autres que celles mentionnées au I de l'article 151 nonies n'est ni
 imputable ni restituable.
 
-II . ― La créance mentionnée au premier alinéa du I est immédiatement
+II. ― La créance mentionnée au premier alinéa du I est immédiatement
 remboursable lorsqu'elle est constatée par l'une des entreprises suivantes :
 
 1° Les entreprises, autres que celles mentionnées au III de l'article 44 sexies,
@@ -52,7 +52,7 @@ qui a ouvert ces procédures ;
 3° Les jeunes entreprises innovantes mentionnées à l'article 44 sexies-0 A ;
 
 4° Les entreprises qui satisfont à la définition des micro, petites et moyennes
-entreprises donnée à l'annexe I au règlement (CE) n° 800/2008 de la Commission,
+entreprises donnée à l' annexe I au règlement (CE) n° 800/2008 de la Commission,
 du 6 août 2008, déclarant certaines catégories d'aide compatibles avec le marché
 commun en application des articles 87 et 88 du traité (règlement général
 d'exemption par catégorie).

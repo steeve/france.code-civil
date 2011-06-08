@@ -2,7 +2,7 @@ Article 244 quater B
 ----
 I. Les entreprises industrielles et commerciales ou agricoles imposées d'après
 leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies
-A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies , 44 duodecies, 44
+A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies, 44 duodecies, 44
 terdecies à 44 quindecies peuvent bénéficier d'un crédit d'impôt au titre des
 dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit
 d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou
@@ -83,12 +83,19 @@ soit pas inférieur à celui de l'année précédente.
 d) Les dépenses exposées pour la réalisation d'opérations de même nature
 confiées à :
 
-1° Des organismes de recherche publics ; 2° Des établissements d'enseignement
-supérieur délivrant un diplôme conférant un grade de master ; 3° Des fondations
-de coopération scientifique agréées conformément au d bis ; 4° Des
-établissements publics de coopération scientifique ; 5° Des fondations reconnues
-d'utilité publique du secteur de la recherche agréées conformément au d bis ; 6°
-Des associations régies par la loi du 1er juillet 1901 relative au contrat
+1° Des organismes de recherche publics ;
+
+2° Des établissements d'enseignement supérieur délivrant un diplôme conférant un
+grade de master ;
+
+3° Des fondations de coopération scientifique agréées conformément au d bis ;
+
+4° Des établissements publics de coopération scientifique ;
+
+5° Des fondations reconnues d'utilité publique du secteur de la recherche
+agréées conformément au d bis ;
+
+6° Des associations régies par la loi du 1er juillet 1901 relative au contrat
 d'association ayant pour fondateur et membre l'un des organismes mentionnés aux
 1° ou 2° ou des sociétés de capitaux dont le capital ou les droits de vote sont
 détenus pour plus de 50 % par l'un de ces mêmes organismes. Ces associations et
@@ -152,7 +159,7 @@ définies comme suit, pour la moitié de leur montant :
 les salariés participent aux réunions officielles de normalisation ;
 
 2° Les autres dépenses exposées à raison de ces mêmes opérations ; ces dépenses
-sont fixées forfaitairement à 30 p. 100 des salaires mentionnés au 1° ;
+sont fixées forfaitairement à 30 % des salaires mentionnés au 1° ;
 
 3° Dans des conditions fixées par décret, les dépenses exposées par le chef
 d'une entreprise individuelle, les personnes mentionnées au I de l'article 151
@@ -199,19 +206,19 @@ Communauté européenne ou dans un autre Etat partie à l'accord sur l'espace
 une clause d'assistance administrative en vue de lutter contre la fraude ou
 l'évasion fiscale.
 
-Les dépenses visées aux a et 2° du h du II ne sont pas retenues pour le calcul
-du crédit d'impôt recherche lorsque les immobilisations concernées ont bénéficié
-du crédit d'impôt prévu à l'article 220 septies.
+Les dépenses visées aux a et 2° du h ne sont pas retenues pour le calcul du
+crédit d'impôt recherche lorsque les immobilisations concernées ont bénéficié du
+crédit d'impôt prévu à l'article 220 septies.
 
 Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte
-des dépenses prévues aux h et i du II est subordonné au respect du règlement
-(CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant
-l'application des articles 87 et 88 du traité aux aides de minimis.
+des dépenses prévues aux h et i est subordonné au respect du règlement (CE) n°
+1998/2006 de la Commission du 15 décembre 2006 concernant l'application des
+articles 87 et 88 du traité aux aides de minimis.
 
 Pour l'application du précédent alinéa, les sociétés de personnes et groupements
-mentionnés aux articles 8, 238 bis L, 239 quater, 239 quater B et 239 quater C
+mentionnés aux articles 8,238 bis L, 239 quater, 239 quater B et 239 quater C
 qui ne sont pas soumis à l'impôt sur les sociétés doivent également respecter le
-règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 précité. La
+règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 précité. La
 fraction du crédit d'impôt mentionnée à l'alinéa précédent peut être utilisée
 par les associés de ces sociétés ou les membres de ces groupements
 proportionnellement à leurs droits dans ces sociétés ou groupements s'ils

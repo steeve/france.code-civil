@@ -4,10 +4,10 @@ Pour l'application du troisième alinéa du g du 1° du I de l'article 31 du cod
 général des impôts, les plafonds de loyer et de ressources du locataire sont les
 suivants :
 
-a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2010 les
-plafonds de loyer mensuel, charges non comprises, sont fixés à 15,56 euros par
-mètre carré en zone I bis, 13,78 euros en zone I, 10,64 euros en zone II et
-10,04 euros en zone III. Les plafonds sont relevés chaque année, au 1er janvier,
+a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2011 les
+plafonds de loyer mensuel, charges non comprises, sont fixés à 15,65 euros par
+mètre carré en zone I bis, 13,86 euros en zone I, 10,70 euros en zone II et
+10,10 euros en zone III. Les plafonds sont relevés chaque année, au 1er janvier,
 selon les mêmes modalités que les plafonds de loyer prévus à l'article 2
 duodecies.
 

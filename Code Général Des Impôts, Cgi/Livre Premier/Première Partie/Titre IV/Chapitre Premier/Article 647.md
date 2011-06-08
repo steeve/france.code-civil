@@ -5,7 +5,7 @@ fusionnées pour les actes publiés au fichier immobilier. La nouvelle formalit�
 prend nom de "formalité fusionnée".
 
 Sont exclus de ce régime : les décisions judiciaires, les mutations à titre
-gratuit, les baux de plus de douze ans à durée limitée, et les actes (1) pour
+gratuit, les baux de plus de douze ans à durée limitée, et les actes pour
 lesquels il est impossible de procéder à la formalité fusionnée.
 
 II. L'enregistrement des actes soumis à cette formalité et assujettis
@@ -17,10 +17,7 @@ III. La formalité fusionnée doit être requise dans les deux mois de la date d
 l'acte. Toutefois, en ce qui concerne les actes dont la publication est
 facultative, les formalités de l'enregistrement et de la publicité foncière
 demeurent distinctes si la formalité fusionnée n'a pas été requise dans le délai
-prévu aux articles 634 et 635 pour la formalité de l'enregistrement.
+prévu à l'article 635 pour la formalité de l'enregistrement.
 
 IV. En cas de rejet de la formalité de publicité foncière l'acte est néanmoins
 réputé enregistré à la date du dépôt.
-
-(1) Ces dispositions s'appliquent aux actes établis à compter du 1er juillet
-1999).

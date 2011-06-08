@@ -26,8 +26,7 @@ supplémentaire d'invalidité mentionnée à l'article L. 815-24 du même code ;
 
 3° Les titulaires de l'allocation aux adultes handicapés mentionnée aux articles
 L. 821-1 et suivants dudit code, lorsque le montant de leurs revenus de l'année
-précédente n'excède pas la limite prévue au I de l'article 1417 du présent code
-;
+précédente n'excède pas la limite prévue au I de l'article 1417 ;
 
 4° Les personnes atteintes d'une infirmité ou d'une invalidité les empêchant de
 subvenir par leur travail aux nécessités de l'existence lorsque le montant de

@@ -1,27 +1,27 @@
 Article 50-0
 ----
 1. Les entreprises dont le chiffre d'affaires annuel, ajusté s'il y a lieu au
-prorata du temps d'exploitation au cours de l'année civile, n'excède pas 80 300
-euros (1) hors taxes s'il s'agit d'entreprises dont le commerce principal est de
-vendre des marchandises, objets, fournitures et denrées à emporter ou à
-consommer sur place, ou de fournir le logement, à l'exclusion de la location
-directe ou indirecte de locaux d'habitation meublés ou destinés à être loués
-meublés, autres que ceux mentionnés aux 1° à 3° du III de l'article 1407, ou 32
-100 euros (1) hors taxes s'il s'agit d'autres entreprises, sont soumises au
-régime défini au présent article pour l'imposition de leurs bénéfices.
+prorata du temps d'exploitation au cours de l'année civile, n'excède pas 81 500
+€ hors taxes s'il s'agit d'entreprises dont le commerce principal est de vendre
+des marchandises, objets, fournitures et denrées à emporter ou à consommer sur
+place, ou de fournir le logement, à l'exclusion de la location directe ou
+indirecte de locaux d'habitation meublés ou destinés à être loués meublés,
+autres que ceux mentionnés aux 1° à 3° du III de l'article 1407, ou 32 600 €
+hors taxes s'il s'agit d'autres entreprises, sont soumises au régime défini au
+présent article pour l'imposition de leurs bénéfices.
 
 Lorsque l'activité d'une entreprise se rattache aux deux catégories définies au
 premier alinéa, le régime défini au présent article n'est applicable que si son
-chiffre d'affaires hors taxes global annuel n'excède pas 80 300 euros (1) et si
-le chiffre d'affaires hors taxes annuel afférent aux activités de la 2e
-catégorie ne dépasse pas 32 100 euros (1).
+chiffre d'affaires hors taxes global annuel n'excède pas 81 500 € et si le
+chiffre d'affaires hors taxes annuel afférent aux activités de la 2e catégorie
+ne dépasse pas 32 600 €.
 
 Le résultat imposable, avant prise en compte des plus ou moins-values provenant
 de la cession des biens affectés à l'exploitation, est égal au montant du
 chiffre d'affaires hors taxes diminué d'un abattement de 71 % pour le chiffre
 d'affaires provenant d'activités de la 1re catégorie et d'un abattement de 50 %
 pour le chiffre d'affaires provenant d'activités de la 2e catégorie. Ces
-abattements ne peuvent être inférieurs à 305 euros.
+abattements ne peuvent être inférieurs à 305 €.
 
 Les plus ou moins-values mentionnées au troisième alinéa sont déterminées et
 imposées dans les conditions prévues aux articles 39 duodecies à 39 quindecies,
@@ -39,8 +39,8 @@ changement d'activité.
 
 Les seuils mentionnés aux deux premiers alinéas sont actualisés chaque année
 dans la même proportion que la limite supérieure de la première tranche du
-barème de l'impôt sur le revenu et arrondis à la centaine d'euros la plus proche
-(2).
+barème de l'impôt sur le revenu et arrondis à la centaine d'euros la plus
+proche.
 
 2. Sont exclus de ce régime :
 
@@ -74,7 +74,7 @@ sont compris dans un patrimoine fiduciaire en application d'une opération de
 fiducie définie à l'article 2011 du code civil ;
 
 i) Les contribuables qui exercent une activité occulte au sens du troisième
-alinéa de l'article L. 169 du livre des procédures fiscales (3).
+alinéa de l'article L. 169 du livre des procédures fiscales.
 
 3. Les contribuables concernés portent directement le montant du chiffre
 d'affaires annuel et des plus ou moins-values réalisées ou subies au cours de

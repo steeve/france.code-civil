@@ -9,5 +9,5 @@ excluant les déductions précitées.
 
 En présence d'un déficit foncier dont le montant excède la limite d'imputation
 sur le revenu global, la base de l'avantage en impôt mentionné au premier alinéa
-est limitée au montant mentionné, selon le cas, au sixième ou au septième alinéa
-du 3° du I de l'article 156 du code précité.
+est limitée au montant mentionné, selon le cas, au cinquième ou au sixième
+alinéa du 3° du I de l'article 156 du code précité.

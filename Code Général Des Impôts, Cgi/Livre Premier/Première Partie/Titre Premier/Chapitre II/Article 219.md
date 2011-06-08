@@ -285,23 +285,23 @@ a septies) Lorsqu'il existe des liens de dépendance entre l'entreprise cédante
 et l'entreprise cessionnaire au sens du 12 de l'article 39, l'imposition des
 plus-values et moins-values de cession de titres de participation définis au
 dix-huitième alinéa du 5° du 1 de l'article 39, autres que ceux mentionnés au a
-sexies-0 bis du présent article, et détenus depuis moins de deux ans, intervient
-à la première des dates suivantes :
+sexies-0 bis du présent I, et détenus depuis moins de deux ans, intervient à la
+première des dates suivantes :
 
-a) La date à laquelle l'entreprise cédante cesse d'être soumise à l'impôt sur
+1°) La date à laquelle l'entreprise cédante cesse d'être soumise à l'impôt sur
 les sociétés ou est absorbée par une entreprise qui, à l'issue de l'absorption,
 n'est pas liée à l'entreprise détenant les titres cédés ;
 
-b) La date à laquelle les titres cédés cessent d'être détenus par une entreprise
-liée à l'entreprise cédante, à l'exception du cas où la société dont les titres
-ont été cédés a été absorbée par une autre entreprise liée ou qui le devient à
-cette occasion et pour toute la période où elle demeure liée ;
+2°) La date à laquelle les titres cédés cessent d'être détenus par une
+entreprise liée à l'entreprise cédante, à l'exception du cas où la société dont
+les titres ont été cédés a été absorbée par une autre entreprise liée ou qui le
+devient à cette occasion et pour toute la période où elle demeure liée ;
 
-c) La date correspondant à l'expiration d'un délai de deux ans, décompté à
+3°) La date correspondant à l'expiration d'un délai de deux ans, décompté à
 partir du jour où l'entreprise cédante a acquis les titres.
 
 L'imposition est établie au nom de l'entreprise cédante ou, en cas d'absorption
-dans des conditions autres que celles mentionnées au a, de l'entreprise
+dans des conditions autres que celles mentionnées au 1°, de l'entreprise
 absorbante, selon le régime de plus-value ou moins-value qui aurait été
 applicable si l'entreprise avait cédé les titres à cette date et, le cas
 échéant, les avait détenus depuis la date d'acquisition par l'entreprise

@@ -66,21 +66,20 @@ l'immeuble, le droit réel ou les droits afférents à un contrat de crédit-bai
 portant sur un immeuble mentionné au même II bis pendant cinq ans à compter de
 l'acquisition. Elle est également subordonnée à ce que la société cessionnaire
 demeure liée à la société cédante dans ce délai ; à défaut, les sommes dues sont
-majorées de l'intérêt de retard prévu à l'article 1727.
-
-Il est précisé que l'obligation de conservation est réputée être respectée en
-cas de cession de l'immeuble acquis sous les dispositions du I à une entreprise
-effectuant des opérations visées au 2 de l'article L. 313-7 du code monétaire et
-financier dont elle concède immédiatement la jouissance au vendeur par un
-contrat de crédit-bail, à la double condition que ce dernier fasse l'objet d'une
-publication si cette formalité est obligatoire en application des dispositions
-de l'article 28 du décret n° 55-22 du 4 janvier 1955 précité et que l'engagement
-de conservation initialement pris sur l'immeuble soit reporté dans le contrat de
-crédit-bail sur les droits afférents audit contrat. La valeur des immeubles pris
-à bail ne peut excéder un pourcentage fixé par décret de la valeur des immeubles
-inscrits au bilan de la société crédit-preneuse. Lorsqu'il est fait application
-de ces dispositions, la plus-value de cession à la société de crédit-bail ne
-peut être exonérée d'impôt sur les sociétés en application de l'article 208 C.
+majorées de l'intérêt de retard prévu à l'article 1727. L'obligation de
+conservation est réputée être respectée en cas de cession de l'immeuble acquis
+sous les dispositions du I à une entreprise effectuant des opérations visées au
+2 de l'article L. 313-7 du code monétaire et financier dont elle concède
+immédiatement la jouissance au vendeur par un contrat de crédit-bail, à la
+double condition que ce dernier fasse l'objet d'une publication si cette
+formalité est obligatoire en application des dispositions de l'article 28 du
+décret n° 55-22 du 4 janvier 1955 précité et que l'engagement de conservation
+initialement pris sur l'immeuble soit reporté dans le contrat de crédit-bail sur
+les droits afférents audit contrat. La valeur des immeubles pris à bail ne peut
+excéder un pourcentage fixé par décret de la valeur des immeubles inscrits au
+bilan de la société crédit-preneuse. Lorsqu'il est fait application de ces
+dispositions, la plus-value de cession à la société de crédit-bail ne peut être
+exonérée d'impôt sur les sociétés en application de l'article 208 C.
 
 L'application du second alinéa du I est subordonnée à la condition que la
 société crédit-preneuse intervienne à l'acte de cession de l'immeuble ou du
@@ -93,19 +92,20 @@ placée sous le régime prévu au II de cet article pendant une durée minimale 
 cinq ans à compter de l'exercice d'acquisition.
 
 Le non-respect de ces conditions par la société crédit-preneuse entraîne
-l'application de l'amende prévue au II de l'article 1764. III.-Les plus-values
-nettes dégagées lors de la cession de biens immobiliers bâtis ou non bâtis ou de
-titres de sociétés à prépondérance immobilière au sens du a sexies-0 bis du I de
-l'article 219 par une personne morale soumise à l'impôt sur les sociétés dans
-les conditions de droit commun au profit d'un organisme d'habitations à loyer
-modéré, d'une société d'économie mixte gérant des logements sociaux, de
-l'association mentionnée à l'article L. 313-34 du code de la construction et de
-l'habitation, des sociétés civiles immobilières dont cette association détient
-la majorité des parts pour les logements visés au 4° de l'article L. 351-2 du
-code de la construction et de l'habitation ou d'un organisme bénéficiant de
-l'agrément relatif à la maîtrise d'ouvrage prévu à l'article L. 365-2 du code de
-la construction et de l'habitation sont soumises à l'impôt sur les sociétés au
-taux visé au IV de l'article 219.
+l'application de l'amende prévue au II de l'article 1764.
+
+III.-Les plus-values nettes dégagées lors de la cession de biens immobiliers
+bâtis ou non bâtis ou de titres de sociétés à prépondérance immobilière au sens
+du a sexies-0 bis du I de l'article 219 par une personne morale soumise à
+l'impôt sur les sociétés dans les conditions de droit commun au profit d'un
+organisme d'habitations à loyer modéré, d'une société d'économie mixte gérant
+des logements sociaux, de l'association mentionnée à l'article L. 313-34 du code
+de la construction et de l'habitation, des sociétés civiles immobilières dont
+cette association détient la majorité des parts pour les logements visés au 4°
+de l'article L. 351-2 du code de la construction et de l'habitation ou d'un
+organisme bénéficiant de l'agrément relatif à la maîtrise d'ouvrage prévu à
+l'article L. 365-2 du code de la construction et de l'habitation sont soumises à
+l'impôt sur les sociétés au taux visé au IV de l'article 219.
 
 IV.-Les plus-values nettes dégagées par les organismes et sociétés mentionnés au
 4° du 1 de l'article 207 à l'occasion de cessions d'immeubles bâtis et qui

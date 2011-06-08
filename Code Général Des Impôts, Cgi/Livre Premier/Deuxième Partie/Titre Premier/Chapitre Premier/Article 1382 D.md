@@ -10,5 +10,5 @@ code de l'éducation conclus avec des sociétés dont le capital est entièremen
 détenu par des personnes publiques.
 
 Pour bénéficier de cette exonération, le titulaire du contrat doit joindre à la
-déclaration prévue à l'article 1406 du présent code une copie du contrat et tout
-document justifiant de l'affectation de l'immeuble.
+déclaration prévue à l'article 1406 une copie du contrat et tout document
+justifiant de l'affectation de l'immeuble.

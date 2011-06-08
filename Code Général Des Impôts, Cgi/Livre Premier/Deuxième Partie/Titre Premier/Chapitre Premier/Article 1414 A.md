@@ -1,23 +1,23 @@
 Article 1414 A
 ----
-I. - Les contribuables autres que ceux mentionnés à l'article 1414, dont le
+I.-Les contribuables autres que ceux mentionnés à l'article 1414, dont le
 montant des revenus de l'année précédente n'excède pas la limite prévue au II de
 l'article 1417, sont dégrevés d'office de la taxe d'habitation afférente à leur
 habitation principale pour la fraction de leur cotisation qui excède 3,44 % de
 leur revenu au sens du IV de l'article 1417 diminué d'un abattement fixé à :
 
-a. 5 038 euros pour la première part de quotient familial, majoré de 1 456 euros
-pour les quatre premières demi-parts et de 2 575 euros pour chaque demi-part
+a. 5 113 € pour la première part de quotient familial, majoré de 1 478 € pour
+les quatre premières demi-parts et de 2 614 € pour chaque demi-part
 supplémentaire à compter de la cinquième, en France métropolitaine ;
 
-b. 6 046 euros pour la première part de quotient familial, majoré de 1 456 euros
-pour les deux premières demi-parts et de 2 575 euros pour chaque demi-part
-supplémentaire à compter de la troisième, dans les départements de la
-Martinique, de la Guadeloupe et de la Réunion ;
+b. 6 137 € pour la première part de quotient familial, majoré de 1 478 € pour
+les deux premières demi-parts et de 2 614 € pour chaque demi-part supplémentaire
+à compter de la troisième, dans les départements de la Martinique, de la
+Guadeloupe et de la Réunion ;
 
-c. 6 716 euros pour la première part de quotient familial, majoré de 1 119 euros
-pour les deux premières demi-parts et de 2 684 euros pour chaque demi-part
-supplémentaire à compter de la troisième, dans le département de la Guyane.
+c. 6 817 € pour la première part de quotient familial, majoré de 1 136 € pour
+les deux premières demi-parts et de 2 724 € pour chaque demi-part supplémentaire
+à compter de la troisième, dans le département de la Guyane.
 
 Ces montants d'abattements sont, chaque année, indexés comme la limite
 supérieure de la première tranche du barème de l'impôt sur le revenu.
@@ -25,7 +25,7 @@ supérieure de la première tranche du barème de l'impôt sur le revenu.
 Les majorations d'abattements mentionnées aux a, b et c sont divisées par deux
 pour les quarts de part.
 
-II. - 1. Pour l'application du I :
+II.-1. Pour l'application du I :
 
 a. Le revenu s'entend du revenu du foyer fiscal du contribuable au nom duquel la
 taxe est établie ;
@@ -53,7 +53,7 @@ montant égal au produit de la base nette imposable au profit des communes et de
 leurs établissements publics de coopération intercommunale par la différence
 entre le taux global de taxe d'habitation constaté dans la commune au titre de
 l'année d'imposition et ce même taux global constaté en 2000, multiplié par un
-coefficient de 1, 034.
+coefficient de 1,034.
 
 Pour l'application du premier alinéa :
 
@@ -69,7 +69,7 @@ du département en 2010 ;
 b. Le taux global de taxe d'habitation comprend le taux des taxes spéciales
 d'équipement additionnelles à la taxe d'habitation ;
 
-c. La réduction n'est pas applicable si elle est inférieure à 15 euros.
+c. La réduction n'est pas applicable si elle est inférieure à 15 €.
 
 2. Lorsqu'une commune ou un établissement public de coopération intercommunale
 au profit desquels l'imposition est établie ont supprimé un ou plusieurs des
@@ -79,9 +79,9 @@ dégrèvement calculé dans les conditions prévues au II et au 1 du présent II
 réduit d'un montant égal à la différence positive entre, d'une part, le montant
 du dégrèvement ainsi déterminé et, d'autre part, le montant de celui calculé
 dans les mêmes conditions en tenant compte de la cotisation déterminée en
-faisant application des taux d'abattement prévus aux 1, 2 et 3 du II de
-l'article 1411 et en vigueur en 2003 pour le calcul de la part revenant à la
-commune ou à l'établissement public de coopération intercommunale.
+faisant application des taux d'abattement prévus aux 1,2 et 3 du II de l'article
+1411 et en vigueur en 2003 pour le calcul de la part revenant à la commune ou à
+l'établissement public de coopération intercommunale.
 
 Cette disposition est également applicable lorsque les abattements sont fixés en
 valeur absolue conformément au 5 du II de l'article 1411. Dans ce cas, les

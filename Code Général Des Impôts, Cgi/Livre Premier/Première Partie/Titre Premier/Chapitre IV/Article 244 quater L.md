@@ -41,7 +41,7 @@ condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de
 personnes physiques participant à l'exploitation au sens du 1° bis du I de
 l'article 156.
 
-IV. ― Le bénéfice du crédit d'impôt mentionné au I du présent article est
-subordonné au respect du règlement (CE) n° 1535/2007 de la Commission, du 20
-décembre 2007, concernant l'application des articles 87 et 88 du traité CE aux
-aides de minimis dans le secteur de la production de produits agricoles.
+IV. ― Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du
+règlement (CE) n° 1535/2007 de la Commission, du 20 décembre 2007, concernant
+l'application des articles 87 et 88 du traité CE aux aides de minimis dans le
+secteur de la production de produits agricoles.

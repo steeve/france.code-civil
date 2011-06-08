@@ -13,5 +13,5 @@ Les fonctions dont il s'agit sont :
 impôts pour la fixation des bases d'imposition ou la proposition des
 rectifications ;
 
-- celles prévues par les articles R. 81-1 et R. 81-2 du livre des procédures
-fiscales relatifs au droit de communication.
+- celles prévues par le I de l'article R.* 81-1 et l'article R.* 81-2 du livre
+des procédures fiscales relatifs au droit de communication.

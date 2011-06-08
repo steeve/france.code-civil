@@ -57,10 +57,10 @@ fonds commun de placement dans l'innovation ne respecte pas les obligations
 établies au 2 bis du VI de l'article 199 terdecies-0 A et au dernier alinéa du 1
 du III de l'article 885-0 V bis, le fonds est redevable d'une amende égale à 1 %
 du montant de la souscription qui a ouvert droit, pour chaque souscripteur, à la
-réduction d'impôt prévue par le 1 du III de l'article 885-0 V bis, pour
-l'exercice concerné. Le montant de cette amende est toutefois limité au montant
-des sommes qui lui sont dues au titre des frais de gestion pour l'exercice
-concerné.
+réduction d'impôt prévue par le 1 du VI de l'article 199 terdecies-0 A ou le 1
+du III de l'article 885-0 V bis, pour l'exercice concerné. Le montant de cette
+amende est toutefois limité au montant des sommes qui lui sont dues au titre des
+frais de gestion pour l'exercice concerné.
 
 Lorsque l'administration établit qu'une société n'a pas respecté l'obligation
 d'information préalable des souscripteurs prévue au e du 3° du I de l'article

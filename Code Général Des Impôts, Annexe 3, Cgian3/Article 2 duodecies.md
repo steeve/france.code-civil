@@ -4,9 +4,9 @@ Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code
 général des impôts, les plafonds de loyer et de ressources du locataire sont les
 suivants :
 
-a) Pour les baux conclus en 2010, les plafonds de loyer mensuel, charges non
-comprises, sont fixés à 17,37 euros par mètre carré en zone A,11,35 euros en
-zone B et 8,22 euros en zone C. Ces plafonds sont révisés au 1er janvier de
+a) Pour les baux conclus en 2011, les plafonds de loyer mensuel, charges non
+comprises, sont fixés à 17,47 euros par mètre carré en zone A, 11,41 euros en
+zone B et 8,27 euros en zone C. Ces plafonds sont révisés au 1er janvier de
 chaque année selon les modalités prévues au premier alinéa de l'article L.
 353-9-2 du code de la construction et de l'habitation, et arrondis au centime
 d'euro le plus proche.
@@ -25,7 +25,7 @@ du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avi
 d'imposition établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location.
 
-Pour les baux conclus en 2010, les plafonds annuels de ressources sont les
+Pour les baux conclus en 2011, les plafonds annuels de ressources sont les
 suivants :
 
 
@@ -33,74 +33,74 @@ COMPOSITION DU FOYER LOCATAIRE
 
 LIEU DE LOCATION
 
-Zone A (en €)
+Zone A (en euros)
 
-Zone B (en €)
+Zone B (en euros)
 
-Zone C (en €)
+Zone B (en euros)
 
 
 Personne seule
 
-44 306 €
+44 793
 
-34 243 €
+34 620
 
-29 964 €
+30 294
 
 
 Couple
 
-66 215 €
+66 943
 
-45 726 €
+46 229
 
-40 274 €
+40 717
 
 
 Personne seule ou couple ayant une personne à charge
 
-79 595 €
+80 471
 
-54 988 €
+55 593
 
-48 214 €
+48 744
 
 
 Personne seule ou couple ayant deux personnes à charge
 
-95 342 €
+96 391
 
-66 381 €
+67 111
 
-58 350 €
+58 992
 
 
 Personne seule ou couple ayant trois personnes à charge
 
-112 867 €
+114 109
 
-78 087 €
+78 946
 
-68 484 €
+69 237
 
 
 Personne seule ou couple ayant quatre personnes à charge
 
-127 005 €
+128 402
 
-88 000 €
+88 968
 
-77 251 €
+78 101
 
 
 Majoration par personne à charge à partir de la cinquième
 
-+ 14 156 €
++ 14 312
 
-+ 9 816 €
++ 9 924
 
-+ 8 774 €
++ 8 871
 
 Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités
 prévues au dernier alinéa de l'article L. 441-1 du code de la construction et de

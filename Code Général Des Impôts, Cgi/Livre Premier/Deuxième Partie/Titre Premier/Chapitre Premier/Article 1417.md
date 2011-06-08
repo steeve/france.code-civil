@@ -3,30 +3,30 @@ Article 1417
 I.-Les dispositions des articles 1391 et 1391 B, du 3 du II et du III de
 l'article 1411, des 1° bis, 2° et 3° du I de l'article 1414 sont applicables aux
 contribuables dont le montant des revenus de l'année précédant celle au titre de
-laquelle l'imposition est établie n'excède pas la somme de 9 876 euros, pour la
-première part de quotient familial, majorée de 2 637 euros pour chaque demi-part
+laquelle l'imposition est établie n'excède pas la somme de 10 024 €, pour la
+première part de quotient familial, majorée de 2 676 € pour chaque demi-part
 supplémentaire, retenues pour le calcul de l'impôt sur le revenu afférent
 auxdits revenus. Pour la Martinique, la Guadeloupe et la Réunion, les montants
-des revenus sont fixés à 11 686 euros, pour la première part, majorés de 2 791
-euros pour la première demi-part et 2 637 euros pour chaque demi-part
-supplémentaire à compter de la deuxième. Pour la Guyane, ces montants sont fixés
-respectivement à 12 219 euros, 3 364 euros et 2 637 euros.
+des revenus sont fixés à 11 861 €, pour la première part, majorés de 2 833 €
+pour la première demi-part et 2 676 € pour chaque demi-part supplémentaire à
+compter de la deuxième. Pour la Guyane, ces montants sont fixés respectivement à
+12 402 €, 3 414 € et 2 676 €.
 
 I bis (abrogé à compter des impositions établies au titre de 2000).
 
 II.-Les dispositions de l'article 1414 A sont applicables aux contribuables dont
 le montant des revenus de l'année précédant celle au titre de laquelle
-l'imposition est établie n'excède pas la somme de 23 224 euros, pour la première
-part de quotient familial, majorée de 5 426 euros pour la première demi-part et
-4 270 euros à compter de la deuxième demi-part supplémentaire, retenues pour le
-calcul de l'impôt sur le revenu afférent auxdits revenus. Pour la Martinique, la
-Guadeloupe et la Réunion, les montants des revenus sont fixés à 28 068 euros,
-pour la première part, majorés de 5 954 euros pour la première demi-part, 5 677
-euros pour la deuxième demi-part et 4 270 euros pour chaque demi-part
-supplémentaire à compter de la troisième. Pour la Guyane, ces montants sont
-fixés à 30 758 euros pour la première part, majorés de 5 954 euros pour chacune
-des deux premières demi-parts, 5 070 euros pour la troisième demi-part et 4 270
-euros pour chaque demi-part supplémentaire à compter de la quatrième.
+l'imposition est établie n'excède pas la somme de 23 572 €, pour la première
+part de quotient familial, majorée de 5 507 € pour la première demi-part et 4
+334 € à compter de la deuxième demi-part supplémentaire, retenues pour le calcul
+de l'impôt sur le revenu afférent auxdits revenus. Pour la Martinique, la
+Guadeloupe et la Réunion, les montants des revenus sont fixés à 28 488 €, pour
+la première part, majorés de 6 043 € pour la première demi-part, 5 762 € pour la
+deuxième demi-part et 4 334 € pour chaque demi-part supplémentaire à compter de
+la troisième. Pour la Guyane, ces montants sont fixés à 31 219 € pour la
+première part, majorés de 6 043 € pour chacune des deux premières demi-parts, 5
+146 € pour la troisième demi-part et 4 334 € pour chaque demi-part
+supplémentaire à compter de la quatrième.
 
 III.-Les montants de revenus prévus aux I et II sont indexés, chaque année,
 comme la limite supérieure de la première tranche du barème de l'impôt sur le
@@ -52,7 +52,7 @@ fraction qui excède l'abattement non utilisé prévu au 5° du 3 du même artic
 du montant de l'abattement mentionné à l'article 150-0 D bis ;
 
 b) du montant des bénéfices exonérés en application des articles 44 sexies, 44
-sexies A,44 octies,44 octies A,44 decies,44 undecies,44 terdecies à 44
+sexies A, 44 octies, 44 octies A, 44 decies, 44 undecies, 44 terdecies à 44
 quindecies, ainsi que de l'article 93-0 A et du 9 de l'article 93 ;
 
 c) du montant des revenus soumis aux prélèvements libératoires prévus aux
@@ -69,7 +69,7 @@ application des articles 163 quinquies B à 163 quinquies C bis ;
 
 d) Du montant des gains nets exonérés en application du I bis de l'article 150-0
 A ainsi que du montant des plus-values exonérées en application du 3 du I et des
-1, 1 bis et 7 du III du même article ;
+1,1 bis et 7 du III du même article ;
 
 e) Des sommes correspondant aux droits visés au dernier alinéa de l'article L.
 3153-3 du code du travail.

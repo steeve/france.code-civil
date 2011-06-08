@@ -9,7 +9,7 @@ cet article ;
 soit au montant des soultes ou récompenses payables à terme s'il s'agit des cas
 prévus au 2° du même article.
 
-Les dispositions de l'article 404 A, premier alinéa sont applicables.
+Les dispositions du premier alinéa de l'article 404 A sont applicables.
 
 Par dérogation à l'article 401, le bénéficiaire du paiement différé peut, dans
 le cas prévu au 1° de l'article 397 être dispensé du paiement des intérêts à la

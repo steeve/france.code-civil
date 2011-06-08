@@ -129,15 +129,15 @@ mentionnées au 6 sont déterminés conformément aux dispositions des articles 
 90.
 
 Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut
-excéder 3 606 €. Ce plafond s'applique au montant total des pensions et
+excéder 3 660 €. Ce plafond s'applique au montant total des pensions et
 retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il
 est révisé selon les mêmes modalités que la limite supérieure de la première
 tranche du barème de l'impôt sur le revenu.
 
-L'abattement indiqué au deuxième alinéa ne peut être inférieur à 368 €, sans
+L'abattement indiqué au deuxième alinéa ne peut être inférieur à 374 €, sans
 pouvoir excéder le montant brut des pensions et retraites. Cette disposition
 s'applique au montant des pensions ou retraites perçu par chaque retraité ou
-pensionné membre du foyer fiscal. La somme de 368 € est révisée chaque année
+pensionné membre du foyer fiscal. La somme de 374 € est révisée chaque année
 dans la même proportion que la limite supérieure de la première tranche du
 barème de l'impôt sur le revenu.
 
@@ -168,7 +168,7 @@ applicable aux prestations de retraite versées sous forme de capital, à
 l'exception de celles versées en exercice des facultés de rachat prévues aux
 troisième à septième alinéas de l'article L. 132-23 du code des assurances. Le
 bénéficiaire peut toutefois demander le bénéfice des dispositions du II de
-l'article 163 bis du présent code.
+l'article 163 bis.
 
 c. Lorsque, étant en instance de séparation de corps ou de divorce, les époux
 font l'objet d'impositions distinctes par application des dispositions du b du 4

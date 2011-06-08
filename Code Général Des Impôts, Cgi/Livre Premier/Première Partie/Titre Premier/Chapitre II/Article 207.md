@@ -55,8 +55,8 @@ coopération agricole ;
 d'économie sociale, les coopératives artisanales et leurs unions, les
 coopératives d'entreprises de transports, les coopératives artisanales de
 transport fluvial ainsi que les coopératives maritimes et leurs unions, visées
-au chapitre Ier du titre III de la même loi, sauf pour les affaires effectuées
-avec des non-sociétaires ;
+aux articles L. 931-5 à L. 931-27 du code rural et de la pêche maritime, sauf
+pour les affaires effectuées avec des non-sociétaires ;
 
 4° Les organismes d'habitations à loyer modéré mentionnés à l'article L. 411-2
 du code de la construction et de l'habitation, à l'exception des sociétés

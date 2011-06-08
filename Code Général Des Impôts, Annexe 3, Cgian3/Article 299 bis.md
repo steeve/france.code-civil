@@ -22,8 +22,8 @@ souscription satisfaisant les conditions prévues par l'article 885 I ter préci
 
 3° Lorsqu'elle a déjà clôturé un exercice à la date mentionnée au 2°, l'ensemble
 des éléments permettant d'établir qu'elle répond, à cette date, à la définition
-des petites et moyennes entreprises mentionnée à l'article 885 I ter I du code
-général des impôts ;
+des petites et moyennes entreprises mentionnée au I de l'article 885 I ter du
+code général des impôts ;
 
 4° En cas de souscription en nature, la désignation et la valeur retenue des
 biens éligibles, ainsi que leur affectation.

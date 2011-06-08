@@ -2,9 +2,9 @@ Article 1379-0 bis
 ----
 I. ― Perçoivent la cotisation foncière des entreprises, la cotisation sur la
 valeur ajoutée des entreprises, les composantes de l'imposition forfaitaire sur
-les entreprises de réseaux, prévues aux articles 1519 D, 1519 E, 1519 F, 1519 G
-et 1519 H, la taxe foncière sur les propriétés bâties, la taxe foncière sur les
-propriétés non bâties, la taxe additionnelle à la taxe foncière sur les
+les entreprises de réseaux, prévues aux articles 1519 D, 1519 E, 1519 F, 1519 G,
+1519 H et 1519 HA, la taxe foncière sur les propriétés bâties, la taxe foncière
+sur les propriétés non bâties, la taxe additionnelle à la taxe foncière sur les
 propriétés non bâties prévue à l'article 1519 I, ainsi que la taxe d'habitation
 selon le régime fiscal prévu à l'article 1609 nonies C :
 
@@ -84,10 +84,10 @@ l'établissement public et des communes concernées prises dans les conditions
 prévues au I de l'article 1639 A bis.
 
 Les établissements publics de coopération intercommunale mentionnés aux II et
-III peuvent, selon les modalités prévues au premier alinéa , se substituer à
+III peuvent, selon les modalités prévues au premier alinéa, se substituer à
 leurs communes membres pour les dispositions relatives aux composantes de
 l'imposition forfaitaire sur les entreprises de réseaux prévues aux articles
-1519 E, 1519 F, 1519 G et 1519 H.
+1519 E, 1519 F, 1519 G, 1519 H et 1519 HA.
 
 Les établissements publics de coopération intercommunale mentionnés au deuxième
 alinéa peuvent se substituer à leurs communes membres pour les dispositions
@@ -95,6 +95,17 @@ relatives à la taxe additionnelle à la taxe foncière sur les propriétés non
 bâties prévue à l'article 1519 I et la perception de son produit, sur
 délibérations concordantes de l'établissement public et des communes concernées
 prises dans les conditions prévues au I de l'article 1639 A bis.
+
+V bis.-Sans préjudice des dispositions du 2 du II de l'article 1609 quinquies C
+et du I bis de l'article 1609 nonies C, les établissements publics de
+coopération intercommunale à fiscalité propre perçoivent :
+
+1° 50 % de l'imposition forfaitaire sur les entreprises de réseaux relative aux
+installations de production d'électricité utilisant l'énergie mécanique du vent
+;
+
+2° 50 % de la composante de l'imposition forfaitaire sur les entreprises de
+réseaux relative aux stockages souterrains de gaz naturel.
 
 VI. ― 1. Sont substitués aux communes pour l'application des dispositions
 relatives à la taxe d'enlèvement des ordures ménagères :
@@ -120,7 +131,7 @@ nouvelle qui exercent la totalité de la compétence prévue à l'article L. 222
 du code général des collectivités territoriales et qui adhèrent, pour l'ensemble
 de cette compétence, à un syndicat mixte, peuvent décider :
 
-a) Soit d'instituer, avant le 1er octobre d'une année conformément à l'article
+a) Soit d'instituer, avant le 15 octobre d'une année conformément à l'article
 1639 A bis, et de percevoir la taxe d'enlèvement des ordures ménagères pour leur
 propre compte, en déterminant, le cas échéant, les différentes zones de
 perception, dans le cas où le syndicat mixte ne l'aurait pas instituée avant le
@@ -134,12 +145,13 @@ sa délibération ;
 b) Soit de percevoir cette taxe en lieu et place du syndicat mixte qui l'aurait
 instituée sur l'ensemble du périmètre syndical.
 
-VII. - Les communautés urbaines et les communautés d'agglomération peuvent
-percevoir la taxe de balayage lorsqu'elles assurent le balayage de la superficie
-des voies livrées à la circulation publique, qui incombe aux propriétaires
-riverains.
+VII.-Les communautés d'agglomération peuvent se substituer à leurs communes
+membres dont la population est inférieure ou égale à 2 000 habitants pour la
+perception de la taxe communale sur la consommation finale d'électricité
+mentionnée à l'article L. 2333-2 du code général des collectivités
+territoriales.
 
-VIII. - Les communautés d'agglomération peuvent percevoir la taxe de séjour,
+VIII.-Les communautés d'agglomération peuvent percevoir la taxe de séjour,
 lorsqu'elle répond aux conditions fixées aux articles L. 5211-21 et L. 5722-6 du
 code général des collectivités territoriales, et la taxe sur les fournitures
 d'électricité dans les conditions prévues aux articles L. 2333-2 à L. 2333-5 du

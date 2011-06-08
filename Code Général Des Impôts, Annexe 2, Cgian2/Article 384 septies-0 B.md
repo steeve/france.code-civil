@@ -32,6 +32,5 @@ de la commission ou son suppléant.
 Lorsqu'un représentant du président, présidant une section, ou son suppléant,
 assure la présidence de la section temporaire, il exerce, pour le fonctionnement
 de celle-ci, les attributions dévolues au président de la commission par les
-articles 384 septies-0 C et 384 septies-0 D de la présente annexe et, le cas
-échéant, par les articles R. * 228-3 et R. * 228-6 du livre des procédures
-fiscales.
+articles 384 septies-0 C et 384 septies-0 D et, le cas échéant, par les articles
+R. * 228-3 et R. * 228-6 du livre des procédures fiscales.

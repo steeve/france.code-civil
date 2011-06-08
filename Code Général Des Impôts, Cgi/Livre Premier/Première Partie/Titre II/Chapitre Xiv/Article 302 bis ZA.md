@@ -40,12 +40,9 @@ de fruits et légumes mentionnés au deuxième alinéa de ce même I et le chiff
 d'affaires total.
 
 V.-La taxe est déclarée et acquittée lors du dépôt de la déclaration relative à
-la taxe sur les surfaces commerciales, et due au titre de l'année. Toutefois,
-pour l'année 2010, la taxe est déclarée sur une déclaration conforme à un modèle
-fixé par l'administration et déposée au plus tard le 31 décembre 2010.
-
-VI.-La taxe est liquidée, recouvrée et contrôlée sous les mêmes sanctions,
-garanties, sûretés et privilèges que la taxe sur la valeur ajoutée.
+la taxe sur les surfaces commerciales, et due au titre de l'année. VI.-La taxe
+est liquidée, recouvrée et contrôlée sous les mêmes sanctions, garanties,
+sûretés et privilèges que la taxe sur la valeur ajoutée.
 
 Les réclamations sont présentées, instruites et jugées selon les règles
 applicables à cette même taxe.

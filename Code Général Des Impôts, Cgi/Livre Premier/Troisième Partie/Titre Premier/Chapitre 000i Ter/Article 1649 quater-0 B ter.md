@@ -8,7 +8,7 @@ d'éléments mentionnés ci-après, elle peut, en cas de disproportion marquée 
 son train de vie et ses revenus, porter la base d'imposition à l'impôt sur le
 revenu à une somme forfaitaire déterminée en appliquant à ce ou ces éléments de
 train de vie le barème ci-après, compte tenu, le cas échéant, de la majoration
-prévue au 2 du présent article.
+prévue au 2.
 
 
 ÉLÉMENTS DU TRAIN DE VIE
@@ -31,7 +31,7 @@ La valeur de la voiture neuve avec abattement de 50 % après trois ans d'usage
 ou, dans le cas d'une prise en location, cinq fois le prix toutes taxes
 comprises de cette location.
 
-4. Motocyclettes de plus de 450 cm³.
+4. Motocyclettes de plus de 450 cm ³.
 
 La valeur de la motocyclette neuve avec abattement de 50 % après trois ans
 d'usage.
@@ -47,7 +47,7 @@ Le montant des dépenses.
 7. Appareils électroménagers, équipements son-hifi-vidéo, matériels
 informatiques.
 
-La valeur du bien neuf, lorsque celle-ci est supérieure à 1 000 euros.
+La valeur du bien neuf, lorsque celle-ci est supérieure à 1 000 €.
 
 8. Articles de joaillerie et métaux précieux.
 

@@ -11,12 +11,12 @@ cours de laquelle le contribuable en a disposé et les quatre années suivantes.
 L'exercice de cette option est incompatible avec celui de l'option prévue au I
 de l'article 163-0 A.
 
-II. - Pour l'établissement de l'impôt sur le revenu, le montant des prestations
-de retraite versées sous forme de capital imposées sur le fondement du b
-quinquies du 5 de l'article 158 peut, sur demande expresse du bénéficiaire, être
-divisé par quinze. Le résultat obtenu est ajouté au revenu net global du
-contribuable afférent à l'année du paiement du capital.L'impôt correspondant est
-égal au produit de la cotisation supplémentaire ainsi obtenue par quinze.
+II.-Pour l'établissement de l'impôt sur le revenu, le montant des prestations de
+retraite versées sous forme de capital imposées sur le fondement du b quinquies
+du 5 de l'article 158 peut, sur demande expresse du bénéficiaire, être divisé
+par quinze. Le résultat obtenu est ajouté au revenu net global du contribuable
+afférent à l'année du paiement du capital.L'impôt correspondant est égal au
+produit de la cotisation supplémentaire ainsi obtenue par quinze.
 
 Le premier alinéa est applicable aux prestations de retraite dont le montant est
 supérieur à 6 000 € lorsque le versement n'est pas fractionné et que le

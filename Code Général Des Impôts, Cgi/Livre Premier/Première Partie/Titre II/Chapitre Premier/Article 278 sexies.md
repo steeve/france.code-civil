@@ -1,9 +1,8 @@
 Article 278 sexies
 ----
 La taxe sur la valeur ajoutée est perçue au taux réduit de 5,5 % en ce qui
-concerne :
-
-I. - Les opérations suivantes réalisées dans le cadre de la politique sociale :
+concerne : I.-Les opérations suivantes réalisées dans le cadre de la politique
+sociale :
 
 1. Les livraisons de terrains à bâtir consenties aux organismes d'habitations à
 loyer modéré visés à l'article L. 411-2 du code de la construction et de
@@ -22,13 +21,13 @@ l'Etat une convention en application des 3° ou 5° de l'article L. 351-2 du mê
 code ;
 
 3. Le premier apport de logements sociaux à usage locatif dont la construction a
-fait l'objet d'une livraison à soi-même mentionnée au II du présent article,
-réalisé dans les cinq ans de l'achèvement de la construction au profit d'un
-organisme d'habitations à loyer modéré visé à l'article L. 411-2 du code de la
-construction et de l'habitation, à la condition que l'acte d'apport prévoie le
-transfert de la société cédante à la société bénéficiaire de l'apport, du prêt
-prévu à l'article R. 331-1 du même code et de la convention mentionnée aux 3° ou
-5° de l'article L. 351-2 du même code ;
+fait l'objet d'une livraison à soi-même mentionnée au II, réalisé dans les cinq
+ans de l'achèvement de la construction au profit d'un organisme d'habitations à
+loyer modéré visé à l'article L. 411-2 du code de la construction et de
+l'habitation, à la condition que l'acte d'apport prévoie le transfert de la
+société cédante à la société bénéficiaire de l'apport, du prêt prévu à l'article
+R. 331-1 du même code et de la convention mentionnée aux 3° ou 5° de l'article
+L. 351-2 du même code ;
 
 4. Les livraisons de logements destinés à être occupés par des titulaires de
 contrats de location-accession conclus dans les conditions prévues par la loi n°
@@ -60,12 +59,12 @@ construction et de l'habitation ;
 l'article L. 312-1 du code de l'action sociale et des familles, agissant sans
 but lucratif et dont la gestion est désintéressée, de même pour la seule partie
 des locaux dédiée à l'hébergement s'agissant des établissements mentionnés au 2°
-du I du même article L. 312-1, lorsqu'ils hébergent à titre permanent ou
-temporaire des personnes handicapées, ou des personnes âgées remplissant les
-critères d'éligibilité au prêt prévu à l'article R. 331-1 du code de la
-construction et de l'habitation, et que ces locaux font l'objet d'une convention
-entre le propriétaire ou le gestionnaire des locaux et le représentant de l'Etat
-dans le département ;
+du I du même article, lorsqu'ils hébergent à titre permanent ou temporaire des
+personnes handicapées, ou des personnes âgées remplissant les critères
+d'éligibilité au prêt prévu à l'article R. 331-1 du code de la construction et
+de l'habitation, et que ces locaux font l'objet d'une convention entre le
+propriétaire ou le gestionnaire des locaux et le représentant de l'Etat dans le
+département ;
 
 9. Les livraisons de terrains à bâtir et les cessions de droit au bail à
 construction en vue de l'acquisition de logements neufs à titre de première
@@ -84,15 +83,14 @@ s'applique pas.
 Les logements mentionnés à l'alinéa précédent s'entendent des logements neufs,
 destinés à être affectés à l'habitation principale de personnes physiques, si
 ces personnes accèdent pour la première fois à la propriété au sens du I de
-l'article 244 quater J du présent code, si elles bénéficient d'une aide à
-l'accession sociale à la propriété attribuée par une ou plusieurs collectivités
-territoriales ou un groupement de collectivités territoriales du lieu
-d'implantation du logement et si la somme des revenus fiscaux de référence, au
-sens du 1° du IV de l'article 1417, des personnes destinées à occuper ce
-logement ne dépasse pas les plafonds de ressources prévus pour les titulaires de
-contrats de location-accession mentionnés au 4 du présent I. Ces dispositions
-s'appliquent aux opérations engagées, définies par décret, jusqu'au 31 décembre
-2010 ;
+l'article 244 quater J, si elles bénéficient d'une aide à l'accession sociale à
+la propriété attribuée par une ou plusieurs collectivités territoriales ou un
+groupement de collectivités territoriales du lieu d'implantation du logement et
+si la somme des revenus fiscaux de référence, au sens du 1° du IV de l'article
+1417, des personnes destinées à occuper ce logement ne dépasse pas les plafonds
+de ressources prévus pour les titulaires de contrats de location-accession
+mentionnés au 4. Ces dispositions s'appliquent aux opérations engagées, définies
+par décret, jusqu'au 31 décembre 2010 ;
 
 10. Les cessions de droits immobiliers démembrés de logements sociaux neufs à
 usage locatif mentionnés aux 3° et 5° de l'article L. 351-2 du code de la
@@ -116,11 +114,11 @@ mètres de la limite de ces quartiers ;
 d'accession progressive à la propriété effectués dans les conditions prévues aux
 articles L. 443-6-2 et suivants du code de la construction et de l'habitation ;
 
-II. - Les livraisons à soi-même d'immeubles dont l'acquisition aurait bénéficié
-du taux réduit en application du I ;
+II.-Les livraisons à soi-même d'immeubles dont l'acquisition aurait bénéficié du
+taux réduit en application du I ;
 
-III. - Les livraisons à soi-même de travaux d'amélioration, de transformation,
+III.-Les livraisons à soi-même de travaux d'amélioration, de transformation,
 d'aménagement ou d'entretien, autres que l'entretien des espaces verts et les
 travaux de nettoyage, lorsqu'ils ne bénéficient pas du taux réduit de la taxe
 sur la valeur ajoutée en application de l'article 279-0 bis et dans la mesure où
-ces travaux portent sur les locaux mentionnés aux 2 à 8 du I du présent article.
+ces travaux portent sur les locaux mentionnés aux 2 à 8 du I.

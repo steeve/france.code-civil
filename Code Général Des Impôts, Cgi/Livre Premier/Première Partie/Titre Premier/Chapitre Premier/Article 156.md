@@ -15,7 +15,7 @@ revenu global des années suivantes jusqu'à la sixième année inclusivement.
 Toutefois, n'est pas autorisée l'imputation :
 
 1° des déficits provenant d'exploitations agricoles lorsque le total des revenus
-nets d'autres sources excède 104 665 euros ; ces déficits peuvent cependant être
+nets d'autres sources excède 106 225 euros ; ces déficits peuvent cependant être
 admis en déduction des bénéfices de même nature des années suivantes jusqu'à la
 sixième inclusivement.
 
@@ -141,12 +141,12 @@ l'application de la dispense de l'intérêt de retard mentionnée au 4° du II d
 l'article 1727.
 
 L'imputation exclusive sur les revenus fonciers n'est pas non plus applicable
-aux déficits fonciers résultant de dépenses autres que les intérêts
-d'emprunt.L'imputation est limitée à 10 700 euros. La fraction du déficit
-supérieure à 10 700 euros et la fraction du déficit non imputable résultant des
-intérêts d'emprunt sont déduites dans les conditions prévues au premier alinéa.
+aux déficits fonciers résultant de dépenses autres que les intérêts d'emprunt.
+L'imputation est limitée à 10 700 euros. La fraction du déficit supérieure à 10
+700 euros et la fraction du déficit non imputable résultant des intérêts
+d'emprunt sont déduites dans les conditions prévues au premier alinéa.
 
-La limite mentionnée au sixième alinéa est portée à 15 300 euros pour les
+La limite mentionnée au cinquième alinéa est portée à 15 300 euros pour les
 contribuables qui constatent un déficit foncier sur un logement pour lequel est
 pratiquée la déduction prévue au f du 1° du I de l'article 31.
 
@@ -218,14 +218,14 @@ départemental de l'architecture et du patrimoine ;
 
 2° Arrérages de rentes payés par lui à titre obligatoire et gratuit constituées
 avant le 2 novembre 1959 ; pensions alimentaires répondant aux conditions fixées
-par les articles 205 à 211, 367 et 767 du code civil à l'exception de celles
+par les articles 205 à 211,367 et 767 du code civil à l'exception de celles
 versées aux ascendants quand il est fait application des dispositions prévues
 aux 1 et 2 de l'article 199 sexdecies ; versements de sommes d'argent mentionnés
 à l'article 275 du code civil lorsqu'ils sont effectués sur une période
 supérieure à douze mois à compter de la date à laquelle le jugement de divorce,
 que celui-ci résulte ou non d'une demande conjointe, est passé en force de chose
-jugée et les rentes versées en application des articles 276, 278 ou 279-1 du
-même code en cas de séparation de corps ou de divorce, ou en cas d'instance en
+jugée et les rentes versées en application des articles 276,278 ou 279-1 du même
+code en cas de séparation de corps ou de divorce, ou en cas d'instance en
 séparation de corps ou en divorce et lorsque le conjoint fait l'objet d'une
 imposition séparée, les pensions alimentaires versées en vertu d'une décision de
 justice et en cas de révision amiable de ces pensions, le montant effectivement
@@ -246,7 +246,7 @@ au profit du parent qui justifie qu'il participe seul à l'entretien du ménage.
 
 Un contribuable ne peut, au titre d'une même année et pour un même enfant,
 bénéficier à la fois de la déduction d'une pension alimentaire et du
-rattachement.L'année où l'enfant atteint sa majorité, le contribuable ne peut à
+rattachement. L'année où l'enfant atteint sa majorité, le contribuable ne peut à
 la fois déduire une pension pour cet enfant et le considérer à charge pour le
 calcul de l'impôt ;
 
@@ -259,7 +259,7 @@ pas le plafond de ressources mentionné à l'article L. 815-9 du code de la
 sécurité sociale pour l'octroi de l'allocation de solidarité aux personnes âgées
 mentionnée à l'article L. 815-1 du même code et de l'allocation supplémentaire
 d'invalidité mentionnée à l'article L. 815-24 du même code. La déduction opérée
-par le contribuable ne peut excéder, par bénéficiaire, la somme de 3 309 euros.
+par le contribuable ne peut excéder, par bénéficiaire, la somme de 3 359 euros.
 
 Le montant de la déduction mentionnée au premier alinéa est relevé chaque année
 dans la même proportion que la limite supérieure de la première tranche du

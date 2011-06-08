@@ -15,7 +15,7 @@ ceux donnés à bail cessible dans les conditions prévues par les articles L.
 418-1 à L. 418-5 du même code, qui ne sont pas en totalité qualifiés de biens
 professionnels en application de l'article 885 P, sont exonérés d'impôt de
 solidarité sur la fortune à concurrence des trois quarts lorsque la valeur
-totale des biens loués quel que soit le nombre de baux n'excède pas 100 393 € et
+totale des biens loués quel que soit le nombre de baux n'excède pas 101 897 € et
 pour moitié au-delà de cette limite, sous réserve que la durée du bail soit au
 minimum de dix-huit ans et que les descendants du preneur ne soient pas
 contractuellement privés de la faculté de bénéficier des dispositions de
@@ -29,7 +29,7 @@ groupements fonciers agricoles, qui ne sont pas en totalité qualifiés de biens
 professionnels en application de l'article 885 Q sont, sous réserve que les baux
 à long terme ou les baux cessibles consentis par le groupement répondent aux
 conditions prévues au troisième alinéa, exonérées à concurrence des trois
-quarts, si la valeur totale des parts détenues n'excède pas 100 393 € et pour
+quarts, si la valeur totale des parts détenues n'excède pas 101 897 € et pour
 moitié au-delà de cette limite.
 
 Les montants mentionnés aux troisième et quatrième alinéas sont révisés chaque

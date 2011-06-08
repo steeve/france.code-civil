@@ -1,8 +1,8 @@
 Article 302 bis K
 ----
 I. 1. A compter du 1er janvier 2006, une taxe de l'aviation civile au profit du
-budget annexe "Contrôle et exploitation aériens" et du budget général de l'Etat
-est due par les entreprises de transport aérien public.
+budget annexe " Contrôle et exploitation aériens " et du budget général de
+l'Etat est due par les entreprises de transport aérien public.
 
 La taxe est assise sur le nombre de passagers et la masse de fret et de courrier
 embarqués en France, quelles que soient les conditions tarifaires accordées par
@@ -33,15 +33,15 @@ a) Les évacuations sanitaires d'urgence ;
 b) Les vols locaux au sens du 2 de l'article 1er du règlement (CEE) n° 2407/92
 du Conseil du 23 juillet 1992 concernant les licences des transporteurs aériens.
 
-II. - Le tarif de la taxe est le suivant :
+II.-Le tarif de la taxe est le suivant :
 
-4,11 euros par passager embarqué à destination de la France, d'un autre Etat
+4,17 euros par passager embarqué à destination de la France, d'un autre Etat
 membre de la Communauté européenne, d'un autre Etat partie à l'accord sur
 l'Espace économique européen, ou de la Confédération suisse ;
 
-7,38 euros par passager embarqué vers d'autres destinations ;
+7,49 euros par passager embarqué vers d'autres destinations ;
 
-1,23 euro par tonne de courrier ou de fret embarquée.
+1,25 euro par tonne de courrier ou de fret embarquée.
 
 A compter de l'année 2011, ces tarifs sont revalorisés chaque année dans une
 proportion égale au taux prévisionnel de croissance de l'indice des prix à la
@@ -57,19 +57,19 @@ fret et de courrier embarqués le mois précédent pour les vols effectués au
 départ de la France.
 
 Cette déclaration, accompagnée du paiement de la taxe due, est adressée aux
-comptables du budget annexe "Contrôle et exploitation aériens.
+comptables du budget annexe " Contrôle et exploitation aériens.
 
-III. - Les quotités du produit de la taxe affectées respectivement au budget
-annexe "Contrôle et exploitation aériens" et au budget général sont déterminées
-par la loi de finances.
+III.-Les quotités du produit de la taxe affectées respectivement au budget
+annexe " Contrôle et exploitation aériens " et au budget général sont
+déterminées par la loi de finances.
 
 Les sommes encaissées au titre du budget général par les comptables du budget
-annexe "Contrôle et exploitation aériens" sont transférées mensuellement aux
+annexe " Contrôle et exploitation aériens " sont transférées mensuellement aux
 comptables publics assignataires.
 
-IV. - 1. - La déclaration visée au II est contrôlée par les services de la
-direction générale de l'aviation civile. A cette fin, les agents assermentés
-peuvent examiner sur place les documents utiles.
+IV.-1.-La déclaration visée au II est contrôlée par les services de la direction
+générale de l'aviation civile. A cette fin, les agents assermentés peuvent
+examiner sur place les documents utiles.
 
 Préalablement, un avis de vérification est adressé à l'entreprise afin qu'elle
 puisse se faire assister d'un conseil.
@@ -131,20 +131,20 @@ notamment par le dépôt d'une déclaration dans les conditions visées au 2.
 
 4. (abrogé à compter du 1er janvier 2001).
 
-V. - Sous réserve des dispositions qui précèdent, le recouvrement de la taxe est
-assuré par les agents comptables du budget annexe "contrôle et exploitation
-aériens" selon les procédures, sûretés, garanties et sanctions applicables en
+V.-Sous réserve des dispositions qui précèdent, le recouvrement de la taxe est
+assuré par les agents comptables du budget annexe " contrôle et exploitation
+aériens " selon les procédures, sûretés, garanties et sanctions applicables en
 matière de taxes sur le chiffre d'affaires.
 
 Le contentieux est suivi par la direction générale de l'aviation civile. Les
 réclamations sont présentées, instruites et jugées comme en matière de taxes sur
 le chiffre d'affaires.
 
-VI. - Les montants mentionnés aux deuxième et troisième alinéas du II font
-l'objet d'une majoration au profit du fonds de solidarité pour le développement.
-Un décret fixe le montant de cette majoration, dans la limite respectivement de
-1 euros et de 4 euros, ou, lorsque le passager peut bénéficier sans supplément
-de prix à bord de services auxquels l'ensemble des passagers ne pourrait accéder
+VI.-Les montants mentionnés aux deuxième et troisième alinéas du II font l'objet
+d'une majoration au profit du fonds de solidarité pour le développement. Un
+décret fixe le montant de cette majoration, dans la limite respectivement de 1
+euros et de 4 euros, ou, lorsque le passager peut bénéficier sans supplément de
+prix à bord de services auxquels l'ensemble des passagers ne pourrait accéder
 gratuitement, de 10 euros et de 40 euros.
 
 La majoration est perçue selon la destination finale du passager. Elle n'est pas

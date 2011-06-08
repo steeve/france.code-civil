@@ -82,8 +82,7 @@ du diagnostic de performance énergétique défini à l'article L. 134-1 du code
 la construction et de l'habitation. Pour un même logement, un seul diagnostic de
 performance énergétique ouvre droit au crédit d'impôt par période de cinq ans.
 
-1 bis. Le crédit d'impôt ne s'applique pas aux dépenses payées ouvrant droit au
-bénéfice du crédit d'impôt prévu à l'article 200 quater C.
+1 bis.(Sans objet).
 
 2. Un arrêté conjoint des ministres chargés de l'énergie, du logement et du
 budget fixe la liste des équipements, matériaux et appareils qui ouvrent droit

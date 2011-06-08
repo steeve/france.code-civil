@@ -53,9 +53,7 @@ n. Des crédits d'impôt dégagés par chaque société du groupe en application
 l'article 244 quater L ; les dispositions de l'article 220 M s'appliquent à la
 somme de ces crédits.
 
-o. Des crédits d'impôt dégagés par chaque société du groupe en application de
-l'article 244 quater N ; les dispositions de l'article 220 O s'appliquent à la
-somme de ces crédits d'impôt ;
+o. (Périmé) (1)
 
 p. Des crédits d'impôt dégagés par chaque société du groupe en application de
 l'article 244 quater O ; les dispositions de l'article 220 P s'appliquent à la
@@ -69,11 +67,7 @@ r. Des crédits d'impôt dégagés par chaque société du groupe en application
 l'article 220 nonies, les dispositions de l'article 220 R s'appliquent à la
 somme de ces crédits d'impôt ;
 
-s. De la réduction d'impôt calculée en application de l'article 220 decies ;
-
-t. Des crédits d'impôt dégagés par chaque société du groupe en application de
-l'article 244 quater P ; les dispositions de l'article 220 T s'appliquent à la
-somme de ces crédits d'impôt ;
+s. et t (Périmés) (1)
 
 u. Des crédits d'impôt dégagés par chaque société du groupe en application de
 l'article 244 quater Q ; l'article 220 U s'applique à la somme de ces crédits

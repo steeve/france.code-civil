@@ -53,36 +53,6 @@ installations de production d'électricité utilisant l'énergie mécanique du v
 à un établissement public de coopération intercommunale faisant application du
 II.
 
-2 bis. Les établissements publics de coopération intercommunale mentionnés au
-III de l'article 1379-0 bis bénéficient de la compensation prévue au IV bis de
-l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), au
-lieu et place de leurs communes membres, pour les pertes de bases de la
-cotisation foncière des entreprises résultant, dans la zone d'activités
-économiques ou pour les installations de production d'électricité utilisant
-l'énergie mécanique du vent, de l'application du dernier alinéa du II de
-l'article 1478.
-
-Pour les établissements publics de coopération intercommunale soumis en 2011 aux
-dispositions du présent article, le taux de taxe professionnelle à retenir est
-le taux moyen pondéré de taxe professionnelle constaté en 1986 dans l'ensemble
-des communes membres de l'établissement public de coopération intercommunale ;
-ce taux est, le cas échéant, majoré du taux de taxe professionnelle voté en 1986
-par l'établissement public de coopération intercommunale qui a opté pour le
-régime fiscal prévu au 2° du 1 ou au 2 du III de l'article 1379-0 bis ou dont la
-communauté de communes est issue ; ces taux sont multipliés par 0,960.
-
-Pour les établissements publics de coopération intercommunale soumis pour la
-première fois à compter de 2012 aux dispositions du présent article, la
-compensation est calculée en retenant le taux moyen pondéré des communes membres
-de l'établissement public de coopération intercommunale.
-
-Pour l'application de l'avant-dernier alinéa du présent 2 bis, le taux moyen
-pondéré est déterminé par le rapport de la somme des compensations au titre de
-la réduction pour création d'établissement versées aux communes membres au titre
-de l'année précédant la première année d'application du présent article et de la
-somme des bases exonérées ou des abattements appliqués au titre de l'année
-précédant cette même première année d'application.
-
 3. L'établissement public de coopération intercommunale peut verser à la ou les
 communes dont la ou les zones d'activités économiques lui sont transférées une
 attribution de compensation égale au plus au produit de la cotisation foncière

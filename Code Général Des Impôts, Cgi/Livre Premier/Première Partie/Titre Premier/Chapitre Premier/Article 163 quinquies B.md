@@ -5,9 +5,10 @@ ans au moins à compter de leur souscription, des parts de fonds communs de
 placement à risques sont exonérées de l'impôt sur le revenu à raison des sommes
 ou valeurs auxquelles donnent droit les parts concernées.
 
-Cette disposition ne s'applique pas aux porteurs de parts de fonds communs de
-placement à risques donnant lieu à des droits différents sur l'actif net ou sur
-les produits du fonds et attribuées en fonction de la qualité de la personne.
+Les dispositions du premier alinéa ne s'appliquent pas aux porteurs de parts de
+fonds communs de placement à risques donnant lieu à des droits différents sur
+l'actif net ou sur les produits du fonds et attribuées en fonction de la qualité
+de la personne.
 
 II. L'exonération est subordonnée aux conditions suivantes :
 

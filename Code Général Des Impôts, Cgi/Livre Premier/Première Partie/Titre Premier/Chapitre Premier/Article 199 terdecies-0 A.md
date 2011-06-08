@@ -35,7 +35,7 @@ applicables aux entreprises solidaires mentionnées à l'article L. 3332-17-1 du
 code du travail.
 
 La société n'exerce pas une activité de production d'électricité utilisant
-l'énergie radiative du soleil (1) ;
+l'énergie radiative du soleil ;
 
 d bis) Les actifs de la société ne sont pas constitués de façon prépondérante de
 métaux précieux, d'œuvres d'art, d'objets de collection, d'antiquités, de
@@ -129,8 +129,8 @@ respectivement à 50 000 € pour les contribuables célibataires, veufs ou divo
 et à 100 000 € pour les contribuables mariés soumis à imposition commune pour
 les souscriptions ouvrant droit à la réduction d'impôt mentionnée au I au
 capital initial ou aux augmentations de capital des sociétés vérifiant les
-conditions mentionnées au I du présent article, aux 2° et 3° du II de l'article
-239 bis AB et aux b et c du VI quinquies.
+conditions mentionnées au I, aux 2° et 3° du II de l'article 239 bis AB et aux b
+et c du VI quinquies.
 
 Le second alinéa du II n'est pas applicable au titre des souscriptions
 mentionnées au premier alinéa.
@@ -166,7 +166,7 @@ liquidation judiciaire de la société. Il en est de même en cas de donation à
 personne physique des titres reçus en contrepartie de la souscription au capital
 de la société si le donataire reprend l'obligation de conservation des titres
 transmis prévue au deuxième alinéa et s'il ne bénéficie pas du remboursement des
-apports avant le terme mentionné à la dernière phrase du même alinéa.A défaut,
+apports avant le terme mentionné à la dernière phrase du même alinéa. A défaut,
 la reprise de la réduction d'impôt sur le revenu obtenue est effectuée au nom du
 donateur.
 
@@ -280,7 +280,7 @@ de l'article 83 n'ouvre pas droit à ces réductions d'impôt.
 Les souscriptions réalisées par un contribuable au capital d'une société dans
 les douze mois suivant le remboursement, total ou partiel, par cette société de
 ses apports précédents n'ouvrent pas droit à la réduction d'impôt mentionnée au
-I du présent article.
+I.
 
 Les souscriptions réalisées au capital d'une société holding animatrice ouvrent
 droit à l'avantage fiscal mentionné au I lorsque la société est constituée et
@@ -303,7 +303,7 @@ dans le secteur de la production de produits agricoles. Toutefois, cette
 disposition n'est pas applicable lorsque les conditions suivantes sont
 cumulativement satisfaites par les sociétés mentionnées à la phrase précédente :
 
-a) La société répond à la condition prévue au e du 2° du I du présent article ;
+a) La société répond à la condition prévue au e du 2° du I ;
 
 b) La société est en phase d'amorçage, de démarrage ou d'expansion au sens des
 lignes directrices communautaires concernant les aides d'Etat visant à

@@ -14,6 +14,5 @@ Par exception aux dispositions du premier alinéa, sont classés dans la catégo
 des salaires les revenus correspondant aux rémunérations dites " à la part "
 perçues au titre de leur travail personnel par les artisans pêcheurs, ainsi que,
 lorsqu'ils sont embarqués, par le ou les pêcheurs associés d'une société de
-pêche artisanale, telle que définie au I de l'article 21 de la loi n° 97-1051 du
-18 novembre 1997 d'orientation sur la pêche maritime et les cultures marines et
-soumise au régime d'imposition prévu à l'article 8.
+pêche artisanale, telle que définie à l'article L. 931-2 du code rural et de la
+pêche maritime et soumise au régime d'imposition prévu à l'article 8.

@@ -52,7 +52,7 @@ d'approvisionnement, de modalités de gestion administrative, contentieuse,
 commerciale ou technique, dans des conditions telles que cette entreprise est
 placée dans une situation de dépendance.
 
-III. ― L'exonération ne s'applique pas aux créations et aux reprises d'activités
+III. L'exonération ne s'applique pas aux créations et aux reprises d'activités
 dans les zones de revitalisation rurale mentionnées au I consécutives au
 transfert d'une activité précédemment exercée par un contribuable ayant
 bénéficié, au titre d'une ou plusieurs des cinq années précédant celle du
@@ -62,7 +62,7 @@ quaterdecies ou d'une prime d'aménagement du territoire.
 
 L'exonération ne s'applique pas non plus dans les situations suivantes :
 
-― si, à l'issue de l'opération de reprise ou de restructuration, le cédant, son
+a) si, à l'issue de l'opération de reprise ou de restructuration, le cédant, son
 conjoint, le partenaire auquel il est lié par un pacte civil de solidarité
 défini à l'article 515-1 du code civil, leurs ascendants et descendants, leurs
 frères et sœurs détiennent ensemble, directement ou indirectement, plus de 50 %
@@ -76,7 +76,7 @@ droits de vote ou des droits dans les bénéfices sociaux de la société, de la
 personne morale ou du groupement qui a fait l'objet de l'une de ces opérations,
 soit y exerçait, en droit ou en fait, la direction effective ;
 
-― si l'entreprise individuelle a fait l'objet d'une opération de reprise ou de
+b) si l'entreprise individuelle a fait l'objet d'une opération de reprise ou de
 restructuration au profit du conjoint de l'entrepreneur individuel, du
 partenaire auquel il est lié par un pacte civil de solidarité défini à l'article
 515-1 du code civil, de leurs ascendants et descendants ou de leurs frères et

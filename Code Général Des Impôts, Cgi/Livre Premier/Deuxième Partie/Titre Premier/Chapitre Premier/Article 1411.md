@@ -14,8 +14,8 @@ Ces taux peuvent être majorés d'un ou plusieurs points sans excéder 10 points
 par le conseil municipal.
 
 2. L'abattement facultatif à la base, que le conseil municipal peut instituer,
-est à un certain pourcentage, ce pourcentage pouvant varier de un pour cent à
-plusieurs pour cent sans excéder 15 % de la valeur locative moyenne des
+est égal à un certain pourcentage, ce pourcentage pouvant varier de un pour cent
+à plusieurs pour cent sans excéder 15 % de la valeur locative moyenne des
 habitations de la commune.
 
 3. Sans préjudice de l'application de l'abattement prévu au 2, le conseil

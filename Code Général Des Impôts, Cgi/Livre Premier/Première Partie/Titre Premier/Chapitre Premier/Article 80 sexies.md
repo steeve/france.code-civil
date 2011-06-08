@@ -21,3 +21,8 @@ Le montant de l'abattement retenu pour déterminer la rémunération imposable d
 assistants maternels et des assistants familiaux ne peut excéder le total des
 sommes versées tant à titre de rémunération que d'indemnités pour l'entretien et
 l'hébergement des enfants.
+
+Les dispositions du présent article sont applicables aux revenus professionnels
+des assistants maternels exerçant leur activité dans les conditions prévues aux
+articles L. 424-1 à L. 424-7 du code de l'action sociale et des familles, sauf
+si ces derniers sont salariés d'une personne morale de droit privé.

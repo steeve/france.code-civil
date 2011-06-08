@@ -274,9 +274,10 @@ disposition n'est pas applicable si, à la date de la cession ou du rachat, le
 fonds a cessé de remplir les conditions énumérées au II ou au III bis de
 l'article 163 quinquies B ;
 
-Cette disposition ne s'applique pas aux parts de fonds communs de placement à
-risques donnant lieu à des droits différents sur l'actif net ou sur les produits
-du fonds et attribuées en fonction de la qualité de la personne.
+Les dispositions du premier alinéa ne s'appliquent pas aux parts de fonds
+communs de placement à risques donnant lieu à des droits différents sur l'actif
+net ou sur les produits du fonds et attribuées en fonction de la qualité de la
+personne.
 
 1 bis. Aux cessions d'actions de sociétés de capital-risque mentionnées au 2 du
 II de l'article 163 quinquies C souscrites ou acquises à compter du 1er janvier
@@ -286,9 +287,9 @@ au 2° du 2 du même II. Cette disposition n'est pas applicable si, à la date d
 la cession, la société a cessé de remplir les conditions énumérées à l'article
 1er-1 de la loi n° 85-695 du 11 juillet 1985 ;
 
-Cette disposition ne s'applique pas aux actions de sociétés de capital-risque
-donnant lieu à des droits différents sur l'actif net ou sur les produits du
-fonds et attribuées en fonction de la qualité de la personne.
+Les dispositions du premier alinéa ne s'appliquent pas aux actions de sociétés
+de capital-risque donnant lieu à des droits différents sur l'actif net ou sur
+les produits du fonds et attribuées en fonction de la qualité de la personne.
 
 2. Aux titres cédés dans le cadre de leur gestion par les fonds communs de
 placement sous réserve qu'aucune personne physique agissant directement, par

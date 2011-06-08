@@ -47,14 +47,15 @@ par le ministre chargé du tourisme, les restaurants, les cafés, les
 discothèques, les établissements de spectacles ou de jeux ainsi que les
 établissements thermaux, exerçant une activité à caractère saisonnier, telle que
 définie par décret. Sur décision de l'organe délibérant de la commune ou de
-l'établissement public de coopération intercommunale, cette disposition
-s'applique également aux parcs d'attractions et de loisirs exerçant une activité
-saisonnière. VI. Les organismes mentionnés au II de l'article 1447 deviennent
-imposables dans les conditions prévues au II, à compter de l'année au cours de
-laquelle l'une des trois conditions prévues au premier alinéa du 1 bis de
-l'article 206 n'est plus remplie. Lorsque l'organisme se livrait à une activité
-lucrative l'année précédant celle au cours de laquelle il devient imposable, la
-réduction de base prévue au troisième alinéa du II n'est pas applicable.
+l'établissement public de coopération intercommunale, les dispositions du
+premier alinéa s'appliquent également aux parcs d'attractions et de loisirs
+exerçant une activité saisonnière. VI. Les organismes mentionnés au II de
+l'article 1447 deviennent imposables dans les conditions prévues au II, à
+compter de l'année au cours de laquelle l'une des trois conditions prévues au
+premier alinéa du 1 bis de l'article 206 n'est plus remplie. Lorsque l'organisme
+se livrait à une activité lucrative l'année précédant celle au cours de laquelle
+il devient imposable, la réduction de base prévue au troisième alinéa du II
+n'est pas applicable.
 
 Sous réserve des dispositions du deuxième alinéa du I, l'organisme reste
 redevable de la cotisation foncière des entreprises au titre de l'année au cours

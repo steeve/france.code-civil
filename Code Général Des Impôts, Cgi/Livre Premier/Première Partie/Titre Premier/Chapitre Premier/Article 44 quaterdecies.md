@@ -22,14 +22,14 @@ prévue au 3° doit être satisfaite pour chaque exercice au titre duquel cet
 abattement est pratiqué.
 
 II.-Les bénéfices mentionnés au I, réalisés et déclarés selon les modalités
-prévues aux articles 50-0, 53 A, 72, 74 à 74 B, 96 à 100, 102 ter et 103 par les
+prévues aux articles 50-0,53 A, 72,74 à 74 B, 96 à 100,102 ter et 103 par les
 entreprises répondant aux conditions prévues au I, à l'exception des plus-values
 constatées lors de la réévaluation des éléments d'actifs, font l'objet, dans la
 limite de 150 000 €, d'un abattement au titre de chaque exercice ouvert à
 compter du 1er janvier 2008.
 
 Le taux de l'abattement est fixé à 50 % au titre des exercices ouverts entre le
-1er janvier 2008 et le 31 décembre 2014 et respectivement à 40 %,35 % et 30 %
+1er janvier 2008 et le 31 décembre 2014 et respectivement à 40 %, 35 % et 30 %
 pour les exercices ouverts en 2015,2016 et 2017.
 
 III.-La limite et le taux de l'abattement mentionné au II sont majorés dans les
@@ -91,7 +91,7 @@ marchandises ayant bénéficié de ce régime.
 La limite de l'abattement est fixée à 300 000 €. Le taux de l'abattement est
 fixé à 80 % au titre des exercices ouverts entre le 1er janvier 2008 et le 31
 décembre 2014 et respectivement à 70 %, 60 % et 50 % au titre des exercices
-ouverts en 2015, 2016 et 2017.
+ouverts en 2015,2016 et 2017.
 
 IV.-Par dérogation au III, pour les bénéfices provenant des exploitations
 situées dans les îles des Saintes, à Marie-Galante et à La Désirade, le taux de
@@ -101,12 +101,16 @@ exercices ouverts entre le 31 décembre 2008 et le 31 décembre 2011.
 IV bis.-Lorsque le contribuable mentionné au I est une société membre d'un
 groupe fiscal mentionné à l'article 223 A, le bénéfice qui fait l'objet d'un
 abattement est celui déterminé comme si la société était imposée séparément,
-sans excéder celui déterminé dans les conditions du 4 de l'article 223-I. Pour
-l'ensemble des sociétés d'un même groupe, le montant cumulé des abattements ne
-peut excéder : 1° Ni le résultat d'ensemble du groupe ; 2° Ni le montant
-mentionné au premier alinéa du II du présent article. Pour l'appréciation de
-cette condition, les abattements dont le montant est limité par le dernier
-alinéa du III sont retenus pour la moitié de leur montant.
+sans excéder celui déterminé dans les conditions du 4 de l'article 223 I.
+
+Pour l'ensemble des sociétés d'un même groupe, le montant cumulé des abattements
+ne peut excéder :
+
+1° Ni le résultat d'ensemble du groupe ;
+
+2° Ni le montant mentionné au premier alinéa du II. Pour l'appréciation de cette
+condition, les abattements dont le montant est limité par le dernier alinéa du
+III sont retenus pour la moitié de leur montant.
 
 V.-Le bénéfice des abattements mentionnés aux II et III est subordonné :
 
@@ -131,7 +135,7 @@ d'appui aux expérimentations en faveur des jeunes.
 A défaut de la réalisation de ces deux conditions, la quote-part exonérée est
 réintégrée au résultat imposable de l'exercice au cours duquel les dépenses
 auraient dû être exposées. Ces dépenses ne sont pas prises en compte pour
-l'application des articles 244 quater M et 244 quater P.
+l'application de l'article 244 quater M.
 
 Ces deux obligations sont cumulatives. Elles doivent représenter ensemble au
 moins 5 % de la quote-part des bénéfices exonérée en application des abattements

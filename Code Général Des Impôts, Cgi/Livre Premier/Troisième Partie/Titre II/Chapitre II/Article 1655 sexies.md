@@ -1,7 +1,7 @@
 Article 1655 sexies
 ----
 Pour l'application du présent code et de ses annexes, à l'exception du 2 de
-l'article 206 et du 5° du 1 de l'article 635 et de l'article 638 A, l'entreprise
+l'article 206, du 5° du 1 de l'article 635 et de l'article 638 A, l'entreprise
 individuelle à responsabilité limitée ne bénéficiant pas des régimes définis aux
 articles 50-0,64 et 102 ter est assimilée à une entreprise unipersonnelle à
 responsabilité limitée ou à une exploitation agricole à responsabilité limitée

@@ -60,18 +60,17 @@ servis à ces entreprises ou ces établissements pour les opérations prévues a
 cinquième alinéa du 1 et pour la détermination des limites fixées aux a et c du
 1 ainsi que de la majoration d'intérêts indiquée au b du 1.
 
-3. Pour l'application du 1 du présent II, sont assimilés à des intérêts servis à
-une entreprise liée directement ou indirectement au sens du 12 de l'article 39
-et admis en déduction en vertu du I du présent article, les intérêts qui
-rémunèrent des sommes laissées ou mises à disposition dont le remboursement est
-garanti par une sûreté accordée par une entreprise liée au débiteur, ou par une
-entreprise dont l'engagement est garanti par une sûreté accordée par une
-entreprise liée au débiteur, à proportion de la part de ces sommes dont le
-remboursement est ainsi garanti. Toutefois, les intérêts rémunérant des sommes
-dont le remboursement est garanti directement ou indirectement par une sûreté
-accordée par une entreprise ne sont pas pris en compte pour la détermination de
-la limite mentionnée au c du 1 du présent II applicable à l'entreprise ayant
-accordé cette sûreté.
+3. Pour l'application du 1, sont assimilés à des intérêts servis à une
+entreprise liée directement ou indirectement au sens du 12 de l'article 39 et
+admis en déduction en vertu du I du présent article, les intérêts qui rémunèrent
+des sommes laissées ou mises à disposition dont le remboursement est garanti par
+une sûreté accordée par une entreprise liée au débiteur, ou par une entreprise
+dont l'engagement est garanti par une sûreté accordée par une entreprise liée au
+débiteur, à proportion de la part de ces sommes dont le remboursement est ainsi
+garanti. Toutefois, les intérêts rémunérant des sommes dont le remboursement est
+garanti directement ou indirectement par une sûreté accordée par une entreprise
+ne sont pas pris en compte pour la détermination de la limite mentionnée au c du
+1 applicable à l'entreprise ayant accordé cette sûreté.
 
 Lorsque le remboursement est garanti par une sûreté réelle, la part des sommes
 dont le remboursement est garanti est réputée égale au rapport entre, d'une
@@ -81,16 +80,15 @@ cette même date et, d'autre part, le montant initial des sommes laissées ou
 mises à disposition. Ce rapport est révisé en cas de modification de la
 convention constituant la sûreté.
 
-Pour l'application du a du 1 du présent II, les sommes dont le remboursement est
-garanti dans les conditions définies au premier alinéa du présent 3 sont
-assimilées, pour leur fraction ainsi garantie, à des sommes laissées ou mises à
-disposition par une entreprise liée directement ou indirectement au sens du 12
-de l'article 39.
+Pour l'application du a du 1, les sommes dont le remboursement est garanti dans
+les conditions définies au premier alinéa sont assimilées, pour leur fraction
+ainsi garantie, à des sommes laissées ou mises à disposition par une entreprise
+liée directement ou indirectement au sens du 12 de l'article 39.
 
-Les intérêts mentionnés à la première phrase du premier alinéa du présent 3 sont
-assimilés à des intérêts versés à une société liée directement ou indirectement
-au sens du 12 de l'article 39 n'appartenant pas au groupe pour l'application des
-seizième et dix-septième alinéas de l'article 223 B.
+Les intérêts mentionnés à la première phrase du premier alinéa sont assimilés à
+des intérêts versés à une société liée directement ou indirectement au sens du
+12 de l'article 39 n'appartenant pas au groupe pour l'application des seizième
+et dix-septième alinéas de l'article 223 B.
 
 Le présent 3 n'est pas applicable aux sommes laissées ou mises à disposition :
 

@@ -1,7 +1,7 @@
 Article 790 F
 ----
 Pour la perception des droits de mutation à titre gratuit entre vifs, il est
-effectué un abattement de 79 533 € sur la part du partenaire lié au donateur par
+effectué un abattement de 80 724 € sur la part du partenaire lié au donateur par
 un pacte civil de solidarité.
 
 Le bénéfice de cet abattement est remis en cause lorsque le pacte prend fin au

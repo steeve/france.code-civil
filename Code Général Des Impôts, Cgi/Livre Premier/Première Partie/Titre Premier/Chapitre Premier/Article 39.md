@@ -636,5 +636,4 @@ capital social de l'autre ou y exerce en fait le pouvoir de décision ;
 b-lorsqu'elles sont placées l'une et l'autre, dans les conditions définies au a,
 sous le contrôle d'une même tierce entreprise.
 
-Les modalités d'application du présent 12 sont fixées par décret en Conseil
-d'Etat.
+(Alinéa disjoint).

@@ -2,9 +2,9 @@ Article 102 ter
 ----
 1. Le bénéfice imposable des contribuables qui perçoivent des revenus non
 commerciaux d'un montant annuel, ajusté s'il y a lieu au prorata du temps
-d'activité au cours de l'année civile, n'excédant pas 32 100 euros (1) hors
-taxes est égal au montant brut des recettes annuelles diminué d'une réfaction
-forfaitaire de 34 % avec un minimum de 305 euros.
+d'activité au cours de l'année civile, n'excédant pas 32 600 € hors taxes est
+égal au montant brut des recettes annuelles diminué d'une réfaction forfaitaire
+de 34 % avec un minimum de 305 €.
 
 Les plus ou moins-values provenant de la cession des biens affectés à
 l'exploitation sont prises en compte distinctement pour l'assiette de l'impôt
@@ -15,7 +15,7 @@ des amortissements pratiqués selon le mode linéaire.
 
 Le seuil mentionné au premier alinéa est actualisé chaque année dans la même
 proportion que la limite supérieure de la première tranche du barème de l'impôt
-sur le revenu et arrondi à la centaine d'euros la plus proche (2).
+sur le revenu et arrondi à la centaine d'euros la plus proche.
 
 2. Les contribuables visés au 1 portent directement sur la déclaration prévue à
 l'article 170 le montant des recettes annuelles et des plus ou moins-values
@@ -64,4 +64,4 @@ sont compris dans un patrimoine fiduciaire en application d'une opération de
 fiducie définie à l'article 2011 du code civil ;
 
 d Les contribuables qui exercent une activité occulte au sens du troisième
-alinéa de l'article L. 169 du livre des procédures fiscales (3).
+alinéa de l'article L. 169 du livre des procédures fiscales.

@@ -1,6 +1,6 @@
 Article 1395 D
 ----
-I. - Les propriétés non bâties classées dans les deuxième et sixième catégories
+I.-Les propriétés non bâties classées dans les deuxième et sixième catégories
 définies à l'article 18 de l'instruction ministérielle du 31 décembre 1908 et
 situées dans les zones humides définies au 1° du I de l'article L. 211-1 du code
 de l'environnement sont exonérées de la taxe foncière sur les propriétés non
@@ -25,7 +25,7 @@ Pour bénéficier de l'exonération, le propriétaire doit fournir au service de
 impôts avant le 1er janvier de la première année au titre de laquelle
 l'exonération est applicable ou renouvelable, l'engagement souscrit pour les
 parcelles lui appartenant inscrites sur la liste dressée par le maire. Pour les
-parcelles données à bail en application des articles L. 411-l et suivants du
+parcelles données à bail en application des articles L. 411-1 et suivants du
 code rural et de la pêche maritime, l'engagement doit être cosigné par le
 preneur. Les modalités de cet engagement sont définies par décret en Conseil
 d'Etat.
@@ -35,10 +35,10 @@ bénéficier de l'exonération ne sont pas respectées, les impositions en résu
 sont établies au profit de l'Etat dans les conditions prévues à l'article L. 173
 du livre des procédures fiscales.
 
-II. - L'exonération des propriétés non bâties prévue au I est portée à 100 %
-pour les propriétés non bâties situées dans les zones naturelles relevant des
-articles L. 211-3, L. 322-1 à L. 322-14, L. 331-l à L. 333-4, L. 341-1 à L.
-342-l, L. 411-l à L. 411-7 et L. 414-l à L. 414-7 du code de l'environnement.
+II.-L'exonération des propriétés non bâties prévue au I est portée à 100 % pour
+les propriétés non bâties situées dans les zones naturelles relevant des
+articles L. 211-3, L. 322-1 à L. 322-14, L. 331-1 à L. 333-3, L. 341-1 à L.
+342-1, L. 411-1 à L. 411-7 et L. 414-1 à L. 414-7 du code de l'environnement.
 L'engagement de gestion pendant cinq ans porte sur le non-retournement des
 parcelles en cause et sur le respect des chartes et documents de gestion ou
 d'objectifs approuvés au titre des réglementations visées précédemment.

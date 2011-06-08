@@ -11,7 +11,7 @@ portant pas intérêt mentionnés à l'article L. 31-10-1 du code de la construc
 et de l'habitation.
 
 Les conditions d'attribution et les modalités des prêts ne portant pas intérêt
-mentionnés à l'alinéa précédent sont fixées chaque année par décret dans les
+mentionnés au premier alinéa sont fixées chaque année par décret dans les
 conditions prévues aux articles L. 31-10-1 et suivants du code de la
 construction et de l'habitation. Une étude d'impact jointe au décret fait
 apparaître les mesures prises pour que le montant des crédits d'impôt afférents
@@ -26,11 +26,11 @@ remboursement, consenti à des conditions normales de taux à la date d'émissio
 de l'offre de prêt ne portant pas intérêt.
 
 La période de mise à disposition des fonds mentionnée au dernier alinéa de
-l'article L. 31-10-11 du même code n'est pas prise en compte pour le calcul du
-crédit d'impôt.
+l'article L. 31-10-11 du code de la construction et de l'habitation n'est pas
+prise en compte pour le calcul du crédit d'impôt.
 
 Les modalités de calcul du crédit d'impôt et de détermination du taux mentionné
-au premier alinéa du présent II sont fixées par décret.
+au premier alinéa sont fixées par décret.
 
 Le crédit d'impôt fait naître au profit de l'établissement de crédit une
 créance, inaliénable et incessible, d'égal montant. Cette créance constitue un
@@ -53,9 +53,9 @@ intérêt versés par chaque établissement de crédit, au montant total des cr�
 d'impôt correspondants obtenus ainsi qu'à leur suivi.
 
 IV. ― Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L
-du présent code ou les groupements mentionnés aux articles 239 quater,239 quater
-B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit
-d'impôt peut être utilisé par les associés proportionnellement à leurs droits
-dans ces sociétés ou ces groupements, à la condition que les associés soient
-redevables de l'impôt sur les sociétés ou soient des personnes physiques
-participant à l'exploitation au sens du 1° bis du I de l'article 156.
+ou les groupements mentionnés aux articles 239 quater, 239 quater B et 239
+quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut
+être utilisé par les associés proportionnellement à leurs droits dans ces
+sociétés ou ces groupements, à la condition que les associés soient redevables
+de l'impôt sur les sociétés ou soient des personnes physiques participant à
+l'exploitation au sens du 1° bis du I de l'article 156.

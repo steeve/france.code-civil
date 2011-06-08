@@ -81,8 +81,8 @@ b) Lorsque le bien a fait l'objet d'une ou plusieurs livraisons mentionnées aux
 6° et 7° du I pendant son placement sous le régime, la taxe doit être acquittée
 par le destinataire de la dernière de ces livraisons.
 
-c) Dans les cas visés aux a et b du présent 2, la personne qui a obtenu
-l'autorisation du régime est solidairement tenue au paiement de la taxe.
+c) Dans les cas visés aux a et b, la personne qui a obtenu l'autorisation du
+régime est solidairement tenue au paiement de la taxe.
 
 3. La taxe due est, selon le cas :
 
@@ -99,14 +99,13 @@ cette dernière livraison soit avant cette dernière livraison si le preneur est
 la personne mentionnée au b du 2 ;
 
 3° Lorsque le bien ne représente qu'une partie des biens placés sous le régime,
-la taxe afférente, selon le cas, aux opérations visées aux 1° et 2° ci-dessus,
-pour leur quote-part se rapportant audit bien ;
+la taxe afférente, selon le cas, aux opérations visées aux 1° et 2°, pour leur
+quote-part se rapportant audit bien ;
 
-4° La taxe due conformément aux 1° à 3° du présent 3 est assortie de l'intérêt
-de retard mentionné au III de l'article 1727 lorsque les biens placés sous un
-régime fiscal suspensif, mentionné au a du 2° du I du présent article, en vue de
-leur expédition ou de leur exportation hors de France, sont reversés sur le
-marché national.
+4° La taxe due conformément aux 1° à 3° est assortie de l'intérêt de retard
+mentionné au III de l'article 1727 lorsque les biens placés sous un régime
+fiscal suspensif, mentionné au a du 2° du I, en vue de leur expédition ou de
+leur exportation hors de France, sont reversés sur le marché national.
 
 L'intérêt de retard est calculé à compter du premier jour du mois suivant celui
 au cours duquel la taxe devenue exigible a été suspendue conformément au I,

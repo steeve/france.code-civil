@@ -64,11 +64,12 @@ application des articles L. 225-25 et L. 225-72 du code de commerce ;
 
 6° Les coopératives artisanales et leurs unions, les coopératives d'entreprises
 de transports, les coopératives artisanales de transport fluvial ainsi que les
-coopératives maritimes et leurs unions, visées aux titres I et II et au chapitre
-Ier du titre III de la loi n° 83-657 du 20 juillet 1983 relative au
-développement de certaines activités d'économie sociale, lorsque ces sociétés
-fonctionnent conformément aux dispositions de la loi précitée, pour la
-souscription ou la cession de leurs parts ou actions ;
+coopératives maritimes et leurs unions, mentionnées aux titres Ier et II de la
+loi n° 83-657 du 20 juillet 1983 relative au développement de certaines
+activités d'économie sociale et aux articles L. 931-5 à L. 931-27 du code rural
+et de la pêche maritime, lorsque ces sociétés fonctionnent conformément aux
+dispositions de la loi et du code précités, pour la souscription ou la cession
+de leurs parts ou actions ;
 
 7° Les sociétés coopératives agricoles et leurs unions régies par les articles
 L. 521-1 à L. 526-2 du code rural et de la pêche maritime pour la souscription

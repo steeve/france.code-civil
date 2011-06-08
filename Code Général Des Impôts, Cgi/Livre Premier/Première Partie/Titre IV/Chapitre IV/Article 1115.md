@@ -10,9 +10,7 @@ En cas d'acquisitions successives par des personnes mentionnées au premier
 alinéa, le délai imparti au premier acquéreur s'impose à chacune de ces
 personnes.
 
-Pour les biens acquis avant le 1er janvier 1993, le délai mentionné aux
-troisième et quatrième alinéas et en cours à cette date est prorogé jusqu'au 31
-décembre 1998.
+(Alinéa périmé)
 
 Pour l'application de l'engagement de revendre, les transferts de droits ou de
 biens dans un patrimoine fiduciaire et les apports purs et simples effectués à

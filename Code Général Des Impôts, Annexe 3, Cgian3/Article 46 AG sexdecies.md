@@ -63,8 +63,8 @@ même article dans le département de La Réunion ;
 
 IV.-La fraction mentionnée au 6° du I de l'article 199 undecies C du code
 général des impôts est égale à 4, 5 % du coût de la construction au sens des 4°
-et 5° du VI du présent décret lorsque tous les logements sont équipés d'une
-installation d'eau chaude sanitaire et à 3, 5 % dans les autres cas.
+et 5° du VI lorsque tous les logements sont équipés d'une installation d'eau
+chaude sanitaire et à 3, 5 % dans les autres cas.
 
 V.-Les plafonds annuels de ressources mentionnés au 7° du I de l'article 199
 undecies C du code général des impôts sont ceux prévus pour l'application dans

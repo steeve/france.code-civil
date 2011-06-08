@@ -3,7 +3,7 @@ Article 1594-0 G
 Sous réserve de l'article 691 bis, sont exonérés de taxe de publicité foncière
 ou de droits d'enregistrement :
 
-A.I.-Les acquisitions d'immeubles réalisées par une personne assujettie au sens
+A. I.-Les acquisitions d'immeubles réalisées par une personne assujettie au sens
 de l'article 256 A, lorsque l'acte d'acquisition contient l'engagement, pris par
 l'acquéreur, d'effectuer dans un délai de quatre ans les travaux conduisant à la
 production d'un immeuble neuf au sens du 2° du 2 du I de l'article 257, ou
@@ -23,9 +23,8 @@ cette même date.
 
 L'acquéreur d'un bien qui a pris l'engagement de revendre prévu à l'article 1115
 peut y substituer, avant son échéance, un engagement de construire tel que prévu
-au I du présent article. Cet engagement prend effet à compter de la date à
-laquelle il est souscrit auprès de l'administration et vaut accomplissement de
-l'engagement de revendre.
+au I. Cet engagement prend effet à compter de la date à laquelle il est souscrit
+auprès de l'administration et vaut accomplissement de l'engagement de revendre.
 
 III. Cette exonération n'est applicable aux terrains destinés à la construction
 de maisons individuelles qu'à concurrence d'une superficie de 2 500 mètres
@@ -43,9 +42,9 @@ et par les dépendances nécessaires à l'exploitation de ces constructions.
 
 IV.-Sur demande de l'acquéreur, une prolongation annuelle renouvelable du délai
 de quatre ans fixé au I peut être accordée par l'autorité compétente de l'Etat
-du lieu de la situation des immeubles dans des conditions fixées par
-décret.L'absence de notification d'un refus motivé de l'administration dans les
-deux mois de la réception de la demande vaut acceptation.
+du lieu de la situation des immeubles dans des conditions fixées par décret.
+L'absence de notification d'un refus motivé de l'administration dans les deux
+mois de la réception de la demande vaut acceptation.
 
 IV bis.-Une prolongation annuelle renouvelable du délai mentionné au premier
 alinéa de l'article 1115 peut être accordée, dans des conditions fixées par

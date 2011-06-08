@@ -50,9 +50,9 @@ le greffier en chef de la juridiction et ceux des huissiers, par le président d
 la chambre départementale des huissiers ou son délégué.
 
 IV. Les dispositions relatives à la tenue des répertoires sont applicables aux
-commissaires-priseurs et aux courtiers de commerce, mais seulement pour les
-procès-verbaux de ventes de meubles et de marchandises, et pour les actes faits
-en conséquence de ces ventes.
+commissaires-priseurs judiciaires et aux courtiers de commerce, mais seulement
+pour les procès-verbaux de ventes de meubles et de marchandises, et pour les
+actes faits en conséquence de ces ventes.
 
 V. Les seuls actes dont il doit être tenu répertoire, dans les préfectures et
 sous-préfectures, sont ceux des autorités administratives et des établissements

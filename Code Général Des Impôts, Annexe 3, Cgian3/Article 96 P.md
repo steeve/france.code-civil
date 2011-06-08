@@ -11,8 +11,7 @@ attribué s'il est établi en France ;
 b. Le numéro d'identification à la taxe sur la valeur ajoutée qui lui a été
 attribué en France s'il est établi dans un autre Etat membre de l'Union
 européenne ou, le cas échéant, le numéro attribué à son mandataire ponctuel
-désigné conformément au I de l'article 95 B de l'annexe 3 au code général des
-impôts ;
+désigné conformément au I de l'article 95 B ;
 
 c. Le numéro d'identification à la taxe sur la valeur ajoutée qui lui a été
 attribué et sous lequel agit son représentant fiscal, désigné conformément au I

@@ -12,5 +12,5 @@ la cinquième année civile suivant celle de cette prise de fonctions, au titre
 des années à raison desquelles elles sont fiscalement domiciliées en France au
 sens des a et b du 1 de l'article 4 B.
 
-Les salariés et personnes mentionnées au premier alinéa du présent article ne
-peuvent se prévaloir de l'article 155 B.
+Les salariés et personnes mentionnées au premier alinéa ne peuvent se prévaloir
+de l'article 155 B.

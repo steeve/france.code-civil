@@ -52,7 +52,7 @@ leurs conjoints ou ex-conjoints survivants non remariés ;
 
 8° Les indemnités temporaires, à hauteur de 50 % de leur montant, ainsi que les
 prestations et rentes viagères, servies aux victimes d'accidents du travail ou à
-leurs ayants droit (2) ;
+leurs ayants droit ;
 
 9° Les allocations, indemnités et prestations servies, sous quelque forme que ce
 soit, par l'Etat, les collectivités et les établissements publics, en
@@ -169,7 +169,7 @@ conditions et limites aux dividendes des actions de travail attribuées aux
 salariés des sociétés anonymes à participation ouvrière régies par la loi du 26
 avril 1917, à compter du 1er janvier 1991 ;
 
-19° Dans la limite de 5,21 euros par titre, le complément de rémunération
+19° Dans la limite de 5,29 euros par titre, le complément de rémunération
 résultant de la contribution de l'employeur à l'acquisition par le salarié des
 titres-restaurant émis conformément aux dispositions du chapitre II du titre VI
 du livre II de la troisième partie du code du travail, lorsque cette
@@ -211,7 +211,7 @@ d. (disjoint) ;
 
 21° (Abrogé) ;
 
-22° (Abrogé) (3)
+22° (Abrogé)
 
 23° L'indemnité compensatoire pour frais de transport attribuée aux magistrats,
 militaires, fonctionnaires et agents de la fonction publique de l'Etat, aux
@@ -311,4 +311,4 @@ travail ;
 38° Le revenu supplémentaire temporaire d'activité versé, en application du
 décret n° 2009-602 du 27 mai 2009 relatif au revenu supplémentaire temporaire
 d'activité, dans les départements de la Guadeloupe, de la Guyane, de la
-Martinique et de La Réunion (1).
+Martinique et de La Réunion.

@@ -22,7 +22,7 @@ les music-halls et cirques à l'exclusion des établissements où il est d'usage
 consommer pendant les séances.
 
 L'exonération ne bénéficie pas aux entreprises donnant des représentations
-visées au 2 de l'article 279 bis.
+mentionnées au 2° de l'article 279 bis.
 
 La délibération peut porter sur une ou plusieurs catégories. Les délibérations
 prises par les communes et leurs établissements publics de coopération

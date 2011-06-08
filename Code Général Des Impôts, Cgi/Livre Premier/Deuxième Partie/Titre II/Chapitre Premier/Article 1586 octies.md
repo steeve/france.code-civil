@@ -1,6 +1,6 @@
 Article 1586 octies
 ----
-I. - 1. La cotisation sur la valeur ajoutée des entreprises est due par le
+I.-1. La cotisation sur la valeur ajoutée des entreprises est due par le
 redevable qui exerce l'activité au 1er janvier de l'année d'imposition.
 
 2. Toutefois, en cas d'apport, de cession d'activité, de scission d'entreprise
@@ -10,7 +10,7 @@ code civil, la cotisation sur la valeur ajoutée des entreprises est due
 de l'année et auquel l'activité est transmise lorsque l'opération intervient au
 cours de l'année d'imposition. (1)
 
-II. - 1. Le montant de la valeur ajoutée fait l'objet, au plus tard le deuxième
+II.-1. Le montant de la valeur ajoutée fait l'objet, au plus tard le deuxième
 jour ouvré suivant le 1er mai de l'année suivant celle au titre de laquelle la
 cotisation sur la valeur ajoutée des entreprises est due, d'une déclaration par
 les entreprises mentionnées au I de l'article 1586 ter auprès du service des
@@ -39,7 +39,7 @@ doivent être souscrites dans un délai de soixante jours décompté dans les
 conditions prévues, selon le cas, aux 1 ou 4 de l'article 201 ou au 1 de
 l'article 202. (1)
 
-III. - La valeur ajoutée est imposée dans la commune où le contribuable la
+III.-La valeur ajoutée est imposée dans la commune où le contribuable la
 produisant dispose de locaux ou emploie des salariés exerçant leur activité plus
 de trois mois.
 
@@ -48,7 +48,7 @@ activité plus de trois mois dans plusieurs communes, la valeur ajoutée qu'il
 produit est imposée dans chacune de ces communes et répartie entre elles au
 prorata, pour le tiers, des valeurs locatives des immobilisations imposées à la
 cotisation foncière des entreprises et, pour les deux tiers, de l'effectif qui y
-est employé, réparti selon les modalités définies au II du présent article.
+est employé, réparti selon les modalités définies au II.
 
 Pour l'application du deuxième alinéa, l'effectif employé dans un établissement
 pour lequel les valeurs locatives des immobilisations industrielles évaluées
@@ -77,8 +77,8 @@ ajoutée afférente aux autres établissements du contribuable est répartie sel
 les règles définies aux deuxième et troisième alinéas. Les modalités
 d'application de ces dispositions sont définies par décret.
 
-Le quatrième alinéa du présent article, à l'exception de sa troisième phrase,
-est également applicable aux contribuables disposant, dans plus de dix communes,
+Le quatrième alinéa, à l'exception de sa troisième phrase, est également
+applicable aux contribuables disposant, dans plus de dix communes,
 d'établissements comprenant des installations de production d'électricité
 utilisant l'énergie mécanique du vent mentionnées à l'article 1519 D ou des
 installations de production d'électricité d'origine photovoltaïque mentionnées à

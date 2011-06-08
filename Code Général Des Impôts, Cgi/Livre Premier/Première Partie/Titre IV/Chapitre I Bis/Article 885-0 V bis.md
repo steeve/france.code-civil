@@ -28,8 +28,8 @@ relatives à l'exercice d'une activité financière ou immobilière ne sont pas
 applicables aux entreprises solidaires mentionnées à l'article L. 3332-17-1 du
 code du travail ;
 
-Ne pas exercer une activité de production d'électricité utilisant l'énergie
-radiative du soleil ;
+0 b bis) Ne pas exercer une activité de production d'électricité utilisant
+l'énergie radiative du soleil ;
 
 b bis) Ses actifs ne sont pas constitués de façon prépondérante de métaux
 précieux, d'œuvres d'art, d'objets de collection, d'antiquités, de chevaux de
@@ -59,18 +59,16 @@ un salarié si elle est soumise à l'obligation de s'inscrire à la chambre de
 métiers et de l'artisanat ;
 
 f) N'accorder aucune garantie en capital à ses associés ou actionnaires en
-contrepartie de leurs souscriptions ;
+contrepartie de leurs souscriptions ; g) (Abrogé) ; h) (Abrogé).
 
-g) (Abrogé) ;
+2.L'avantage fiscal prévu au 1 s'applique également aux souscriptions effectuées
+par des personnes physiques en indivision. Chaque membre de l'indivision peut
+bénéficier de l'avantage fiscal à concurrence de la fraction de la part de sa
+souscription représentative de titres reçus en contrepartie de souscriptions au
+capital de sociétés vérifiant les conditions prévues au 1.
 
-h) (Abrogé). 2.L'avantage fiscal prévu au 1 s'applique également aux
-souscriptions effectuées par des personnes physiques en indivision. Chaque
-membre de l'indivision peut bénéficier de l'avantage fiscal à concurrence de la
-fraction de la part de sa souscription représentative de titres reçus en
-contrepartie de souscriptions au capital de sociétés vérifiant les conditions
-prévues au 1. 3.L'avantage fiscal prévu au 1 s'applique également aux
-souscriptions en numéraire au capital d'une société satisfaisant aux conditions
-suivantes :
+3.L'avantage fiscal prévu au 1 s'applique également aux souscriptions en
+numéraire au capital d'une société satisfaisant aux conditions suivantes :
 
 a) La société vérifie l'ensemble des conditions prévues au 1, à l'exception de
 celle prévue au b ;
@@ -225,15 +223,14 @@ ou dans un plan d'épargne salariale mentionné au titre III du livre III de la
 troisième partie du code du travail, ni à la fraction des versements effectués
 au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux
 f, g ou h du 2 de l'article 199 undecies A, aux articles 199 undecies B,199
-terdecies-0 A,199 terdecies-0 B,199 unvicies ou 199 quatervicies. La fraction
-des versements effectués au titre de souscriptions donnant lieu aux déductions
-prévues aux 2° quater et 2° quinquies de l'article 83 n'ouvre pas droit à
-l'avantage fiscal.
+terdecies-0 A,199 terdecies-0 B,199 unvicies ou 199 quatervicies du présent
+code. La fraction des versements effectués au titre de souscriptions donnant
+lieu aux déductions prévues aux 2° quater et 2° quinquies de l'article 83
+n'ouvre pas droit à l'avantage fiscal.
 
 Les souscriptions réalisées par un contribuable au capital d'une société dans
 les douze mois suivant le remboursement, total ou partiel, par cette société de
-ses apports précédents n'ouvrent pas droit à l'avantage fiscal mentionné au I du
-présent article.
+ses apports précédents n'ouvrent pas droit à l'avantage fiscal mentionné au I.
 
 Les souscriptions réalisées au capital d'une société holding animatrice ouvrent
 droit à l'avantage fiscal mentionné au I lorsque la société est constituée et
