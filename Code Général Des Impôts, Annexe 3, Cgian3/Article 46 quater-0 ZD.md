@@ -38,9 +38,9 @@ qui permettent de fonder les critères de sélection des entreprises dont les
 comptes sont combinés, ainsi que l'indication des motifs qui justifient la
 non-combinaison de certaines entreprises ;
 
-d) Le cas échéant, la référence de l'agrément collectif délivré par le Comité
-des établissements de crédit et des entreprises d'investissement pour elle-même
-et pour les caisses locales qui la détiennent.
+d) Le cas échéant, la référence de l'agrément collectif délivré par l'Autorité
+de contrôle prudentiel pour elle-même et pour les caisses locales qui la
+détiennent.
 
 3. En même temps que la déclaration du résultat d'ensemble de l'exercice au
 cours duquel le capital de la société mère vient à être détenu à hauteur de 95 %
