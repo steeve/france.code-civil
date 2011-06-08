@@ -1,8 +1,16 @@
 Article L5132-10
 ----
-L'action en paiement de la rémunération se prescrit par deux ans à compter du
-jour où les opérations d'assistance sont terminées. Toutefois, ce délai de
-prescription ne court pas lorsque le navire assisté n'a pu être saisi dans les
-eaux soumises à la juridiction française. Les dispositions du présent alinéa ne
-sont pas applicables aux navires ou bateaux de l'Etat ou affectés à un service
-public.
+L'assistant a l'obligation :
+
+1° D'exécuter les opérations d'assistance avec le soin voulu ;
+
+2° Lorsqu'il s'acquitte de l'obligation mentionnée à l'alinéa précédent, d'agir
+avec le soin voulu pour prévenir ou limiter les dommages à l'environnement ;
+
+3° Chaque fois que les circonstances l'exigent raisonnablement, de chercher à
+obtenir l'aide d'autres assistants ;
+
+4° D'accepter l'intervention d'autres assistants lorsqu'il est raisonnablement
+prié de le faire par le capitaine ou le propriétaire du navire ou des autres
+biens en danger ; le montant de sa rémunération n'est pas affecté s'il s'avère
+que cette demande n'était pas raisonnable.

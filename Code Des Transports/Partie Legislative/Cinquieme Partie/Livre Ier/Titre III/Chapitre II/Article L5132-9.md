@@ -1,14 +1,10 @@
 Article L5132-9
 ----
-Pour fixer le montant de la rémunération et la proportion dans laquelle elle est
-répartie, la juridiction compétente se fonde, selon les circonstances : 1° Sur
-le succès obtenu, les efforts et le mérite de ceux qui ont prêté secours, le
-danger couru par le navire assisté, par ses passagers et son équipage, par sa
-cargaison, par les sauveteurs et par le navire assistant, le temps employé, les
-frais et dommages subis et les risques de responsabilité et autres encourus par
-les sauveteurs, la valeur du matériel exposé par eux, en tenant compte, le cas
-échéant, de l'appropriation spéciale du navire assistant ; 2° Sur la valeur des
-choses sauvées, le fret et le prix du passage. La juridiction compétente peut
-réduire ou supprimer la rémunération s'il apparaît que les sauveteurs ont, par
-leur faute, rendu l'assistance nécessaire ou qu'ils se sont rendus coupables de
-vols, recels ou autres actes frauduleux.
+I. - Toute action en paiement intentée en application du présent chapitre est
+prescrite si une procédure judiciaire ou arbitrale n'a pas été engagée dans un
+délai de deux ans. Le délai de prescription court du jour où les opérations
+d'assistance ont été terminées.
+
+II. - La personne contre laquelle une créance a été formée peut à tout moment,
+pendant le délai de prescription, prolonger celui-ci par une déclaration
+adressée au créancier. Le délai peut, de la même façon, être à nouveau prolongé.

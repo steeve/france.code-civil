@@ -1,6 +1,10 @@
 Article L5132-7
 ----
-La convention des parties, et, à défaut, la juridiction compétente, détermine le
-montant de la rémunération et la proportion dans laquelle cette rémunération est
-répartie, soit entre les sauveteurs, soit entre les propriétaires, le capitaine
-et l'équipage de chacun des navires assistants.
+I.-La répartition entre assistants de la rémunération se fait sur la base des
+critères mentionnés à l'article L. 5132-4.
+
+II.-La répartition entre le propriétaire, le capitaine et les autres personnes
+au service de chaque navire assistant est déterminée par la législation du
+pavillon du navire assistant. Si l'assistance n'a pas été réalisée à partir d'un
+navire, la répartition s'opère selon la législation régissant le contrat conclu
+entre l'assistant et ses préposés.

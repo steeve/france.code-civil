@@ -1,6 +1,6 @@
 Article L5242-9
 ----
-Est puni de 15 000 € d'amende le fait, pour le capitaine d'un navire français
+Est puni de 75 000 € d'amende le fait, pour le capitaine d'un navire français
 transportant en colis une cargaison constituée de tout ou partie de marchandises
 dangereuses au sens de la convention internationale pour la sauvegarde de la vie
 humaine en mer, faite à Londres le 1er novembre 1974, qui a subi un événement de
