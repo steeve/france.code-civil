@@ -3,7 +3,9 @@ Article R5121-167
 Les centres régionaux de pharmacovigilance sont chargés :
 
 1° De recueillir les déclarations que leur adressent les professionnels de santé
-en application de l'article R. 5121-170 ;
+en application de l'article R. 5121-170 ainsi que les signalements que peuvent
+leur adresser les autres professionnels de santé, les patients et les
+associations agréées de patients ;
 
 2° De recueillir les informations relatives aux effets indésirables des
 médicaments ou produits mentionnés à l'article R. 5121-150 qui doivent leur être
