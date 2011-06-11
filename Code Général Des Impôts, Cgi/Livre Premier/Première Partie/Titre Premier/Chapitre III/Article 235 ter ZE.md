@@ -16,21 +16,21 @@ prestation de services ;
 
 2° Les personnes auxquelles s'appliquent des exigences minimales en fonds
 propres permettant d'assurer le respect des ratios de couverture ou du niveau de
-fonds propres adéquat prévus par les mêmes articles L. 511-41, L. 522-14 et L.
-533-2, définies au cours de l'exercice clos l'année civile précédente,
-inférieures à 500 millions d'euros ;
+fonds propres adéquat prévus par les articles L. 511-41, L. 522-14 et L. 533-2
+du code monétaire et financier, définies au cours de l'exercice clos l'année
+civile précédente, inférieures à 500 millions d'euros ;
 
 3° L'Agence française de développement.
 
 II. ― L'assiette de la taxe de risque systémique est constituée par les
 exigences minimales en fonds propres permettant d'assurer le respect des ratios
-de couverture ou du niveau de fonds propres adéquat prévus par les mêmes
-articles L. 511-41, L. 522-14 et L. 533-2, définies au cours de l'exercice clos
-l'année civile précédente. Les exigences minimales en fonds propres sont
-appréciées sur base consolidée pour les personnes relevant des articles L.
-511-41-2, L. 533-4-1, L. 517-5 et L. 517-9 du même code. Aucune contribution
-additionnelle sur base sociale n'est versée par les personnes mentionnées au I
-du présent article qui appartiennent à un groupe pour lequel une assiette est
+de couverture ou du niveau de fonds propres adéquat prévus par les articles L.
+511-41, L. 522-14 et L. 533-2 du code monétaire et financier, définies au cours
+de l'exercice clos l'année civile précédente. Les exigences minimales en fonds
+propres sont appréciées sur base consolidée pour les personnes relevant des
+articles L. 511-41-2, L. 533-4-1, L. 517-5 et L. 517-9 du même code. Aucune
+contribution additionnelle sur base sociale n'est versée par les personnes
+mentionnées au I qui appartiennent à un groupe pour lequel une assiette est
 calculée sur base consolidée. Les autres personnes versent une contribution
 calculée sur base sociale.
 
@@ -76,18 +76,18 @@ lequel la taxe de risque systémique est assise suivent le régime applicable au
 contestations prévues au 3° du V de l'article L. 612-20 du code monétaire et
 financier.
 
-VIII. ― 1. Lorsque, en application du VII du même article L. 612-20, l'Autorité
-de contrôle prudentiel révise le montant des exigences en fonds propres de la
-personne assujettie à la taxe de risque systémique, elle communique au comptable
-public compétent l'appel à contribution rectificatif accompagné de l'avis de
-réception par la personne assujettie.
+VIII. ― 1. Lorsque, en application du VII de l'article L. 612-20 du code
+monétaire et financier, l'Autorité de contrôle prudentiel révise le montant des
+exigences en fonds propres de la personne assujettie à la taxe de risque
+systémique, elle communique au comptable public compétent l'appel à contribution
+rectificatif accompagné de l'avis de réception par la personne assujettie.
 
 2. Lorsque le montant des exigences minimales en fonds propres est révisé à la
 hausse, le complément de taxe de risque systémique qui en résulte est exigible à
 la date de réception de l'appel à contribution rectificatif. Le complément de
 taxe est acquitté auprès du comptable public compétent, dans les deux mois de
 son exigibilité, sous réserve, le cas échéant, d'une révision à la hausse du
-montant du crédit d'impôt mentionné au VI du présent article.
+montant du crédit d'impôt mentionné au VI.
 
 3. Lorsque le montant des exigences minimales en fonds propres est révisé à la
 baisse, la personne assujettie peut adresser au comptable public compétent, dans
@@ -95,7 +95,7 @@ un délai d'un mois après réception de l'appel à contribution rectificatif, u
 demande écrite de restitution du montant correspondant. Il est procédé à cette
 restitution dans un délai d'un mois après réception de ce courrier, sous
 réserve, le cas échéant, d'une révision à la baisse du montant du crédit d'impôt
-mentionné au même VI.
+mentionné au VI.
 
 IX. ― A défaut de paiement ou en cas de paiement partiel de la taxe de risque
 systémique dans le délai de trente jours suivant la date limite de paiement, le
