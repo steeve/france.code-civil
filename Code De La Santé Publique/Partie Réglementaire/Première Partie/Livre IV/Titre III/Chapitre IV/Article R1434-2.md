@@ -4,7 +4,7 @@ Le plan stratégique régional de santé comporte :
 
 1° Une évaluation des besoins de santé et de leur évolution, tenant compte :
 
-a) De la situation démographique ;
+a) De la situation démographique et de ses perspectives d'évolution ;
 
 b) De l'état de santé de la population et des données sur les risques sanitaires
 ;

@@ -11,8 +11,12 @@ la société ; si la personne morale est en cours de constitution, le dossier
 indique les nom, adresse et qualité de la personne qui la représente pour la
 demande ;
 
-b) La délibération du conseil de surveillance ou de l'organe délibérant relative
-au projet d'activités, lorsque le demandeur est une personne morale constituée ;
+b) Soit les éléments du projet d'établissement sur lesquels se fonde la demande
+d'autorisation d'activités de soins ou d'équipement matériel lourd lorsque le
+demandeur est un établissement public de santé ou un centre de lutte contre le
+cancer, soit la délibération de l'organe délibérant relative au projet objet de
+la demande d'autorisation lorsque le demandeur est une personne morale de droit
+privé autre qu'un tel centre ;
 
 c) La présentation de l'opération projetée ou la mise en oeuvre des activités de
 soins envisagée, notamment au regard du schéma d'organisation des soins ;
