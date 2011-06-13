@@ -1,11 +1,15 @@
 Article R6144-5
 ----
 La commission élit son président et son vice-président parmi les praticiens
-titulaires.
+titulaires qui en sont membres. Toutefois, lorsque les praticiens titulaires ne
+forment pas la majorité des personnels médicaux, odontologiques et
+pharmaceutiques de l'établissement, le règlement intérieur peut prévoir que le
+président et le vice-président sont élus parmi l'ensemble des membres de la
+commission.
 
-Pour les centres hospitaliers universitaires, le président est élu parmi les
-représentants des personnels enseignants et hospitaliers et le vice-président
-parmi les représentants des praticiens de l'établissement.
+Pour les centres hospitaliers universitaires, la commission élit, en son sein,
+son président parmi les personnels enseignants et hospitaliers et son
+vice-président parmi les praticiens titulaires.
 
 Le vote a lieu au scrutin uninominal secret et à la majorité absolue. Si cette
 majorité n'est pas atteinte aux deux premiers tours, un troisième tour est
