@@ -13,12 +13,12 @@ loi mentionnée au premier alinéa continuent d'être instruites conformément a
 dispositions antérieures à l'entrée en vigueur de celle-ci.
 
 Les zones de protection du patrimoine architectural, urbain et paysager en cours
-de révision à la date d'entrée en vigueur de la loi n° 2010-788 du 12 juillet
-2010 précitée sont instruites conformément aux dispositions du présent chapitre
-lorsqu'elles n'ont pas encore fait l'objet d'une enquête publique. Dans ce cas,
-la commission régionale du patrimoine et des sites est consultée sur le projet
-d'aire de mise en valeur de l'architecture et du patrimoine avant l'engagement
-de l'enquête.
+d'élaboration ou de révision à la date d'entrée en vigueur de la loi n° 2010-788
+du 12 juillet 2010 précitée sont instruites conformément aux dispositions du
+présent chapitre lorsqu'elles n'ont pas encore fait l'objet d'une enquête
+publique. Dans ce cas, la commission régionale du patrimoine et des sites est
+consultée sur le projet d'aire de mise en valeur de l'architecture et du
+patrimoine avant l'engagement de l'enquête.
 
 La révision d'une zone de protection du patrimoine architectural, urbain et
 paysager créée antérieurement à la date d'entrée en vigueur de la loi n°
