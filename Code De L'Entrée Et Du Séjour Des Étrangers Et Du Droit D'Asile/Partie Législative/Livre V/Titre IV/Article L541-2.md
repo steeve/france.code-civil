@@ -9,4 +9,4 @@ Toutefois, cette disposition ne s'applique pas :
 d'emprisonnement ferme ;
 
 2° Lorsque l'étranger fait l'objet d'un arrêté d'assignation à résidence pris en
-application des articles L. 513-4, L. 523-3, L. 523-4 ou L. 523-5.
+application des articles L. 523-3, L. 523-4, L. 523-5 ou L. 561-1.

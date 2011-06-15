@@ -1,7 +1,7 @@
 Article L531-1
 ----
-Par dérogation aux articles L. 213-2 et L. 213-3, L. 511-1 à L. 511-3, L. 512-2
-à L. 512-4 (1), L. 513-1 et L. 531-3, l'étranger non ressortissant d'un Etat
+Par dérogation aux articles L. 213-2 et L. 213-3, L. 511-1 à L. 511-3, L. 512-1,
+L. 512-3, L. 512-4, L. 513-1 et L. 531-3, l'étranger non ressortissant d'un Etat
 membre de l'Union européenne qui a pénétré ou séjourné en France sans se
 conformer aux dispositions des articles L. 211-1, L. 211-2, L. 311-1 et L. 311-2
 peut être remis aux autorités compétentes de l'Etat membre qui l'a admis à

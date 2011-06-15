@@ -1,7 +1,16 @@
 Article L513-1
 ----
-L'arrêté de reconduite à la frontière qui n'a pas été contesté devant le
-président du tribunal administratif ou le magistrat désigné à cette fin dans le
-délai prévu au premier alinéa de l'article L. 512-2 ou qui n'a pas fait l'objet
-d'une annulation dans les conditions fixées au même article (1) peut être
-exécuté d'office par l'administration.
+I. ― L'obligation de quitter sans délai le territoire français, qui n'a pas été
+contestée devant le président du tribunal administratif dans le délai prévu au
+II de l'article L. 512-1 ou qui n'a pas fait l'objet d'une annulation, peut être
+exécutée d'office.
+
+L'obligation de quitter le territoire français avec un délai de départ
+volontaire, qui n'a pas été contestée devant le tribunal administratif dans le
+délai prévu au I du même article L. 512-1 ou qui n'a pas fait l'objet d'une
+annulation, peut être exécutée d'office à l'expiration du délai de départ
+volontaire.
+
+II. ― Sous réserve des dispositions de l'article L. 512-3, l'étranger faisant
+l'objet d'une interdiction de retour sur le territoire français peut être
+d'office reconduit à la frontière.

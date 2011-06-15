@@ -1,10 +1,13 @@
 Article L512-3
 ----
-Les dispositions du titre V du présent livre peuvent être appliquées dès
-l'intervention de la mesure de reconduite à la frontière.
+Les articles L. 551-1 et L. 561-2 sont applicables à l'étranger faisant l'objet
+d'une obligation de quitter le territoire français dès l'expiration du délai de
+départ volontaire qui lui a été accordé ou, si aucun délai n'a été accordé, dès
+la notification de l'obligation de quitter le territoire français.
 
-L'arrêté de reconduite à la frontière pris en application des articles L. 511-1
-à L. 511-3 ne peut être exécuté avant l'expiration d'un délai de quarante-huit
-heures suivant sa notification par voie administrative (1) ou, si le président
-du tribunal administratif ou le magistrat désigné à cet fin est saisi, avant
-qu'il n'ait statué.
+L'obligation de quitter le territoire français ne peut faire l'objet d'une
+exécution d'office ni avant l'expiration du délai de départ volontaire ou, si
+aucun délai n'a été accordé, avant l'expiration d'un délai de quarante-huit
+heures suivant sa notification par voie administrative, ni avant que le tribunal
+administratif n'ait statué s'il a été saisi. L'étranger en est informé par la
+notification écrite de l'obligation de quitter le territoire français.

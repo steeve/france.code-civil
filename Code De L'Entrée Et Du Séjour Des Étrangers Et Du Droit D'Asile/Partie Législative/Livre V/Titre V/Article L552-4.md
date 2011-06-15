@@ -7,6 +7,8 @@ du passeport et de tout document justificatif de son identité, en échange d'un
 récépissé valant justification de l'identité et sur lequel est portée la mention
 de la mesure d'éloignement en instance d'exécution. L'assignation à résidence
 concernant un étranger qui s'est préalablement soustrait à l'exécution d'une
-mesure de reconduite à la frontière en vigueur, d'une interdiction du territoire
-dont il n'a pas été relevé, ou d'une mesure d'expulsion en vigueur doit faire
-l'objet d'une motivation spéciale.
+obligation de quitter le territoire français en vigueur, d'une interdiction de
+retour sur le territoire français en vigueur, d'une mesure de reconduite à la
+frontière en vigueur, d'une interdiction du territoire dont il n'a pas été
+relevé, ou d'une mesure d'expulsion en vigueur doit faire l'objet d'une
+motivation spéciale.
