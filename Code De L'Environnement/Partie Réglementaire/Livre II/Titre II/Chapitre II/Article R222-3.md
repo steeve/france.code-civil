@@ -1,32 +1,31 @@
 Article R222-3
 ----
-I. - Le plan régional pour la qualité de l'air fixe, en tenant compte du coût et
-de l'efficacité des différentes actions possibles, des orientations visant à
-prévenir ou à réduire la pollution atmosphérique afin d'atteindre les objectifs
-de qualité de l'air ou afin que les niveaux des concentrations de polluants
-atmosphériques restent inférieurs aux niveaux retenus comme objectifs de qualité
-de l'air.
+I.-Le préfet de région et le président du conseil régional s'appuient pour
+l'élaboration du schéma régional du climat, de l'air et de l'énergie sur un
+comité de pilotage, qu'ils président conjointement, auprès duquel est placé un
+comité technique. Ils en arrêtent ensemble la composition, l'organisation et le
+fonctionnement.
 
-II. - Ces orientations portent notamment sur :
+II.-Au sein du comité de pilotage, les membres représentant le conseil régional
+et ceux représentant l'Etat et ses établissements publics sont en nombre égal.
 
-1° La surveillance de la qualité de l'air et de ses effets sur la santé humaine
-et les conditions de vie, sur les milieux naturels et agricoles et sur le
-patrimoine ;
+La liste des membres du comité de pilotage est publiée simultanément au recueil
+des actes administratifs de la préfecture de région et au recueil des actes
+administratifs du conseil régional.
 
-2° La maîtrise des pollutions atmosphériques dues aux sources fixes d'origine
-agricole, industrielle, tertiaire ou domestique. Le plan peut formuler des
-recommandations relatives à l'utilisation des meilleures techniques disponibles
-et des énergies renouvelables, ainsi qu'au développement des réseaux de chaleur
-et des réseaux de froid ;
+Le comité de pilotage propose le projet de schéma au président du conseil
+régional et au préfet de région. A ce titre, il suit et coordonne la réalisation
+des études nécessaires à l'état des lieux et aux évaluations définies à
+l'article R. 222-2 et propose les orientations, les objectifs. Après l'adoption
+du schéma, il est chargé du suivi de son avancement et de sa mise en œuvre.
 
-3° La maîtrise des émissions de polluants atmosphériques dues aux sources
-mobiles, notamment aux moyens de transport. Le plan peut formuler des
-recommandations relatives à l'offre de transport, aux modes de transport
-individuel, à la maîtrise des déplacements collectifs et individuels et à
-l'organisation intermodale des transports ;
+III.-Les membres du comité technique sont nommés par le préfet de région et le
+président du conseil régional.
 
-4° L'information du public sur la qualité de l'air et sur les moyens dont il
-peut disposer pour concourir à son amélioration.
+A la demande du comité de pilotage, le comité technique prépare les éléments
+nécessaires à la définition des orientations et des objectifs du schéma.
 
-III. - Des orientations spécifiques peuvent être fixées pour les zones
-mentionnées à l'article R. 222-2.
+IV.-Le préfet de région tient régulièrement informés les gestionnaires des
+réseaux de transport et de distribution d'électricité et de gaz de l'avancement
+de la procédure d'élaboration du schéma régional du climat, de l'air et de
+l'énergie.

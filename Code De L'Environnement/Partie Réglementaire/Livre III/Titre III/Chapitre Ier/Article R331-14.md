@@ -34,7 +34,8 @@ caisses d'épargne ;
 8° Les règlements types de gestion prévus par les articles L. 4, L. 133-1 et L.
 143-1 du même code ;
 
-9° Le schéma régional éolien prévu par l'article L. 553-4 du présent code ;
+9° Le schéma régional du climat, de l'air et de l'énergie prévu par l'article L.
+222-1 du présent code ;
 
 10° Le schéma départemental des carrières prévu par l'article L. 515-3 ;
 

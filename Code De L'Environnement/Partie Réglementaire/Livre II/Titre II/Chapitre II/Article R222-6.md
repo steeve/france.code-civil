@@ -1,25 +1,19 @@
 Article R222-6
 ----
-I. - Dès l'ouverture de la consultation du public, le président du conseil
-régional soumet le projet de plan pour avis :
+L'évaluation de la mise en œuvre du schéma régional du climat, de l'air et de
+l'énergie au terme d'une période de cinq années après la publication de l'arrêté
+du préfet de région prévu à l'article R. 222-5 est réalisée par le comité de
+pilotage à la demande conjointe du préfet de région et du président du conseil
+régional.
 
-1° Aux conseils départementaux de l'environnement et des risques sanitaires et
-technologiques ;
+La synthèse de cette évaluation fait l'objet d'un rapport publié sur les sites
+internet de la préfecture de région et du conseil régional.
 
-2° Aux conseils généraux des départements de la région ;
-
-3° Aux conseils municipaux des communes de la région couvertes par un plan de
-déplacements urbains ou un plan de protection de l'atmosphère ;
-
-4° Aux conseils municipaux des communes et aux organes délibérants des
-établissements publics de coopération intercommunale et des syndicats mixtes
-compétents pour l'élaboration d'un schéma de cohérence territoriale ;
-
-5° Au comité de massif pour les zones où s'applique la convention alpine du 7
-novembre 1991 ;
-
-6° Aux autorités organisatrices des transports urbains concernés.
-
-II. - Ces avis sont réputés favorables s'ils n'interviennent pas dans un délai
-de trois mois après transmission du projet de plan régional pour la qualité de
-l'air.
+A l'issue de cette évaluation, le préfet de région et le président du conseil
+régional peuvent décider de mettre le schéma régional du climat, de l'air et de
+l'énergie en révision, selon une procédure identique à celle suivie pour son
+élaboration. Lorsque les indicateurs de suivi de la mise en œuvre des
+orientations font apparaître que tout ou partie des objectifs ne pourra être
+raisonnablement atteint à l'horizon retenu, le préfet de région et le président
+du conseil régional engagent la révision du schéma, sur tout ou partie de
+celui-ci.

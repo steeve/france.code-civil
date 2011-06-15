@@ -10,4 +10,6 @@ protection de l'atmosphère ;
 3° Un résumé non technique de présentation du projet ;
 
 4° Le projet de plan, tel que défini aux articles R. 222-14 à R. 222-19, ainsi
-qu'un résumé non technique du plan régional pour la qualité de l'air.
+qu'un résumé non technique du plan régional pour la qualité de l'air, s'il
+existe, et du schéma régional du climat, de l'air et de l'énergie prévu à
+l'article L. 222-1 et suivants.
