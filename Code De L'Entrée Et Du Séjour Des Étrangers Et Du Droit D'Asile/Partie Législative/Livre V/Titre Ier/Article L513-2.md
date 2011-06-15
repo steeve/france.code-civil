@@ -1,12 +1,11 @@
 Article L513-2
 ----
-L'étranger qui est obligé de quitter le territoire français ou qui doit être
-reconduit à la frontière est éloigné :
+L'étranger qui fait l'objet d'une mesure d'éloignement est éloigné :
 
 1° A destination du pays dont il a la nationalité, sauf si l'Office français de
 protection des réfugiés et apatrides ou la Cour nationale du droit d'asile lui a
-reconnu le statut de réfugié ou s'il n'a pas encore été statué sur sa demande
-d'asile ;
+reconnu le statut de réfugié ou lui a accordé le bénéfice de la protection
+subsidiaire ou s'il n'a pas encore été statué sur sa demande d'asile ;
 
 2° Ou à destination du pays qui lui a délivré un document de voyage en cours de
 validité ;

@@ -6,11 +6,15 @@ cartes de séjour mentionnées aux articles L. 313-6, L. 313-8 et L. 313-9, aux
 1°, 2° et 3° de l'article L. 313-10, aux articles L. 313-11, L. 313-11-1, L.
 313-14 et L. 314-9, aux 2°, 3°, 4°, 5°, 6°, 7° et 9° de l'article L. 314-11 et
 aux articles L. 314-12 et L. 315-1 peut obtenir une carte de résident portant la
-mention "résident de longue durée-CE" s'il dispose d'une assurance maladie. La
-décision d'accorder ou de refuser cette carte est prise en tenant compte des
-faits qu'il peut invoquer à l'appui de son intention de s'établir durablement en
-France, notamment au regard des conditions de son activité professionnelle s'il
-en a une, et de ses moyens d'existence.
+mention " résident de longue durée-CE " s'il dispose d'une assurance maladie.
+Les années de résidence, sous couvert d'une carte de séjour temporaire portant
+la mention " vie privée et familiale ” retirée par l'autorité administrative sur
+le fondement d'un mariage ayant eu pour seules fins d'obtenir un titre de séjour
+ou d'acquérir la nationalité française, ne peuvent être prises en compte pour
+obtenir la carte de résident. La décision d'accorder ou de refuser cette carte
+est prise en tenant compte des faits qu'il peut invoquer à l'appui de son
+intention de s'établir durablement en France, notamment au regard des conditions
+de son activité professionnelle s'il en a une, et de ses moyens d'existence.
 
 Les moyens d'existence du demandeur sont appréciés au regard de ses ressources
 qui doivent être stables et suffisantes pour subvenir à ses besoins. Sont prises

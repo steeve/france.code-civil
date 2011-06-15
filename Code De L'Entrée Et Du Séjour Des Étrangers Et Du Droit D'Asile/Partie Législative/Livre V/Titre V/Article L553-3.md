@@ -5,3 +5,6 @@ des libertés et de la détention peut se transporter sur les lieux, vérifier l
 conditions du maintien et se faire communiquer le registre prévu à l'article L.
 553-1. Le procureur de la République visite les lieux de rétention chaque fois
 qu'il l'estime nécessaire et au moins une fois par an.
+
+Un décret en Conseil d'Etat détermine les conditions d'exercice du droit d'accès
+des associations humanitaires aux lieux de rétention.

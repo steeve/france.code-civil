@@ -14,8 +14,10 @@ Il en est de même de ceux qui sont en situation irrégulière en France, qui fo
 l'objet d'une mesure d'éloignement du territoire français ou qui, ayant été
 contrôlés à l'occasion du franchissement de la frontière en provenance d'un pays
 tiers aux Etats parties à la convention signée à Schengen le 19 juin 1990, ne
-remplissent pas les conditions d'entrée prévues à l'article 5 de cette
-convention ou à l'article L. 211-1.
+remplissent pas les conditions d'entrée prévues à l'article 5 du règlement (CE)
+n° 562/2006 du Parlement européen et du Conseil, du 15 mars 2006, établissant un
+code communautaire relatif au régime de franchissement des frontières par les
+personnes (code frontières Schengen) ou à l'article L. 211-1.
 
-Il en est de même des bénéficiaires de l'aide au retour mentionnée au dernier
-alinéa du I de l'article L. 511-1.
+Il en est de même des étrangers bénéficiaires de l'aide au retour mentionnée à
+l'article L. 512-5.

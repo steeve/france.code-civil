@@ -35,15 +35,21 @@ séjour temporaire portant la mention " salarié en mission " doit résider en
 France dans les conditions définies au dernier alinéa du 5° de l'article L.
 313-10 ;
 
+La carte de séjour temporaire portant la mention " vie privée et familiale "
+délivrée dans les conditions prévues à l'alinéa précédent a une durée de
+validité identique à la durée de la carte de séjour du parent ou du conjoint
+titulaire d'une carte de séjour portant la mention " carte bleue européenne ", "
+compétences et talents " ou " salarié en mission ". La carte de séjour est
+renouvelée dès lors que son titulaire continue à remplir les conditions définies
+par le présent code.
+
 4° A l'étranger ne vivant pas en état de polygamie, marié avec un ressortissant
 de nationalité française, à condition que la communauté de vie n'ait pas cessé
 depuis le mariage, que le conjoint ait conservé la nationalité française et,
 lorsque le mariage a été célébré à l'étranger, qu'il ait été transcrit
 préalablement sur les registres de l'état civil français ;
 
-5° A l'étranger ne vivant pas en état de polygamie, marié à un ressortissant
-étranger titulaire d'une carte de séjour temporaire portant la mention "
-scientifique " ;
+5° (Abrogé) ;
 
 6° A l'étranger ne vivant pas en état de polygamie, qui est père ou mère d'un
 enfant français mineur résidant en France, à la condition qu'il établisse
@@ -85,14 +91,15 @@ l'article L. 311-7 soit exigée ;
 
 11° A l'étranger résidant habituellement en France dont l'état de santé
 nécessite une prise en charge médicale dont le défaut pourrait entraîner pour
-lui des conséquences d'une exceptionnelle gravité, sous réserve qu'il ne puisse
-effectivement bénéficier d'un traitement approprié dans le pays dont il est
-originaire, sans que la condition prévue à l'article L. 311-7 soit exigée. La
-décision de délivrer la carte de séjour est prise par l'autorité administrative,
-après avis du médecin de l'agence régionale de santé de la région de résidence
-de l'intéressé, désigné par le directeur général de l'agence, ou, à Paris, du
-médecin, chef du service médical de la préfecture de police. Le médecin de
-l'agence régionale de santé ou, à Paris, le chef du service médical de la
-préfecture de police peut convoquer le demandeur pour une consultation médicale
-devant une commission médicale régionale dont la composition est fixée par
-décret en Conseil d'Etat.
+lui des conséquences d'une exceptionnelle gravité, sous réserve de l'absence
+d'un traitement approprié dans le pays dont il est originaire, sauf circonstance
+humanitaire exceptionnelle appréciée par l'autorité administrative après avis du
+directeur général de l'agence régionale de santé, sans que la condition prévue à
+l'article L. 311-7 soit exigée. La décision de délivrer la carte de séjour est
+prise par l'autorité administrative, après avis du médecin de l'agence régionale
+de santé de la région de résidence de l'intéressé, désigné par le directeur
+général de l'agence, ou, à Paris, du médecin, chef du service médical de la
+préfecture de police. Le médecin de l'agence régionale de santé ou, à Paris, le
+chef du service médical de la préfecture de police peut convoquer le demandeur
+pour une consultation médicale devant une commission médicale régionale dont la
+composition est fixée par décret en Conseil d'Etat.

@@ -15,7 +15,9 @@ président du conseil général en vue de la mise en oeuvre du contrat de
 responsabilité parentale prévue à l'article L. 222-4-1 du code de l'action
 sociale et des familles.
 
-Lors du renouvellement de leur carte de séjour, l'autorité administrative tient
+Lors du renouvellement de la carte de séjour intervenant au cours de l'exécution
+du contrat d'accueil et d'intégration pour la famille, ou lors du premier
+renouvellement consécutif à cette exécution, l'autorité administrative tient
 compte du non-respect manifesté par une volonté caractérisée, par l'étranger et
 son conjoint, des stipulations du contrat d'accueil et d'intégration pour la
 famille et, le cas échéant, des mesures prises en application du deuxième

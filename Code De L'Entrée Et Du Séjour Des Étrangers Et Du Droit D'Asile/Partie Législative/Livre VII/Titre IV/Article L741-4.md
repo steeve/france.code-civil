@@ -31,7 +31,10 @@ demandes d'admission au séjour au titre de l'asile sous des identités
 différentes. Constitue également un recours abusif aux procédures d'asile la
 demande d'asile présentée dans une collectivité d'outre-mer s'il apparaît qu'une
 même demande est en cours d'instruction dans un autre Etat membre de l'Union
-européenne.
+européenne. Constitue une demande d'asile reposant sur une fraude délibérée la
+demande présentée par un étranger qui fournit de fausses indications, dissimule
+des informations concernant son identité, sa nationalité ou les modalités de son
+entrée en France afin d'induire en erreur les autorités.
 
 Les dispositions du présent article ne font pas obstacle au droit souverain de
 l'Etat d'accorder l'asile à toute personne qui se trouverait néanmoins dans l'un

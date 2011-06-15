@@ -33,8 +33,8 @@ droit d'asile ;
 -leur qualité d'enfant d'étranger titulaire de la carte de séjour mentionnée à
 l'article L. 313-13 du même code ;
 
--leur qualité d'enfant d'étranger titulaire de la carte de séjour mentionnée à
-l'article L. 313-8 ou au 5° de l'article L. 313-11 du même code ;
+-leur qualité d'enfant d'étranger titulaire de l'une des cartes de séjour
+mentionnées à l'article L. 313-8 du même code ;
 
 -leur qualité d'enfant d'étranger titulaire de la carte de séjour mentionnée au
 7° de l'article L. 313-11 du même code à la condition que le ou les enfants en

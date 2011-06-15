@@ -14,10 +14,9 @@ autorisés à résider séparément ou si la communauté de vie a cessé, ou de 
 personne qui vit notoirement en situation maritale avec lui ;
 
 3° De toute personne physique ou morale, lorsque l'acte reproché était, face à
-un danger actuel ou imminent, nécessaire à la sauvegarde de la vie ou de
-l'intégrité physique de l'étranger, sauf s'il y a disproportion entre les moyens
-employés et la gravité de la menace ou s'il a donné lieu à une contrepartie
-directe ou indirecte.
+un danger actuel ou imminent, nécessaire à la sauvegarde de la personne de
+l'étranger, sauf s'il y a disproportion entre les moyens employés et la gravité
+de la menace ou s'il a donné lieu à une contrepartie directe ou indirecte.
 
 Les exceptions prévues aux 1° et 2° ne s'appliquent pas lorsque l'étranger
 bénéficiaire de l'aide au séjour irrégulier vit en état de polygamie ou lorsque

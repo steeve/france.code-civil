@@ -21,7 +21,8 @@ d'adoption, sous réserve de la vérification par le ministère public de la
 régularité de cette décision lorsqu'elle a été prononcée à l'étranger ;
 
 3° A l'étranger marié depuis au moins trois ans avec un ressortissant de
-nationalité française, à condition que la communauté de vie entre les époux
-n'ait pas cessé depuis le mariage, que le conjoint ait conservé la nationalité
-française et, lorsque le mariage a été célébré à l'étranger, qu'il ait été
-transcrit préalablement sur les registres de l'état civil français.
+nationalité française, à condition qu'il séjourne régulièrement en France, que
+la communauté de vie entre les époux n'ait pas cessé depuis le mariage, que le
+conjoint ait conservé la nationalité française et, lorsque le mariage a été
+célébré à l'étranger, qu'il ait été transcrit préalablement sur les registres de
+l'état civil français.

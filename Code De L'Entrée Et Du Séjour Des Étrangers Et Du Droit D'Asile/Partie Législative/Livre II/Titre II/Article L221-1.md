@@ -14,3 +14,6 @@ trouve en transit dans une gare, un port ou un aéroport si l'entreprise de
 transport qui devait l'acheminer dans le pays de destination ultérieure refuse
 de l'embarquer ou si les autorités du pays de destination lui ont refusé
 l'entrée et l'ont renvoyé en France.
+
+Le présent titre s'applique également à l'étranger qui arrive en Guyane par la
+voie fluviale ou terrestre.

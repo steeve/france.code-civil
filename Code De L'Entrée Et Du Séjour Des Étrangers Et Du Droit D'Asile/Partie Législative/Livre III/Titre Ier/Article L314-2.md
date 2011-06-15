@@ -9,10 +9,11 @@ suffisante de la langue française dans des conditions définies par décret en
 Conseil d'Etat.
 
 Pour l'appréciation de la condition d'intégration, l'autorité administrative
-tient compte de la souscription et du respect, par l'étranger, de l'engagement
-défini à l'article L. 311-9 et saisit pour avis le maire de la commune dans
-laquelle il réside. Cet avis est réputé favorable à l'expiration d'un délai de
-deux mois à compter de la saisine du maire par l'autorité administrative.
+tient compte, lorsqu'il a été souscrit, du respect, par l'étranger, de
+l'engagement défini à l'article L. 311-9 et saisit pour avis le maire de la
+commune dans laquelle il réside. Cet avis est réputé favorable à l'expiration
+d'un délai de deux mois à compter de la saisine du maire par l'autorité
+administrative.
 
 Les étrangers âgés de plus de soixante-cinq ans ne sont pas soumis à la
 condition relative à la connaissance de la langue française.

@@ -12,4 +12,4 @@ maintien en zone d'attente du mineur qu'il assiste, se rendre sur place.
 
 Un décret en Conseil d'Etat détermine les conditions d'accès du délégué du
 haut-commissariat des Nations unies pour les réfugiés ou de ses représentants
-ainsi que des associations humanitaires à la zone d'attente.
+ainsi que des associations humanitaires aux zones d'attente.

@@ -31,8 +31,9 @@ Il comprend également la liste de l'ensemble des mandats et fonctions exercés
 dans toute société par chacun de ces mandataires durant l'exercice. Il comprend
 également des informations sur la manière dont la société prend en compte les
 conséquences sociales et environnementales de son activité ainsi que sur ses
-engagements sociétaux en faveur du développement durable. Un décret en Conseil
-d'Etat établit la liste de ces informations en cohérence avec les textes
+engagements sociétaux en faveur du développement durable et en faveur de la
+lutte contre les discriminations et de la promotion des diversités. Un décret en
+Conseil d'Etat établit la liste de ces informations en cohérence avec les textes
 européens et internationaux, ainsi que les modalités de leur présentation de
 façon à permettre une comparaison des données. L'alinéa précédent s'applique aux
 sociétés dont les titres sont admis aux négociations sur un marché réglementé

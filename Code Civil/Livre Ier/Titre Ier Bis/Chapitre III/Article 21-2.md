@@ -16,5 +16,6 @@ pendant la durée de leur communauté de vie à l'étranger au registre des Fran
 fait l'objet d'une transcription préalable sur les registres de l'état civil
 français.
 
-Le conjoint étranger doit en outre justifier d'une connaissance suffisante,
-selon sa condition, de la langue française.
+Le conjoint étranger doit également justifier d'une connaissance suffisante,
+selon sa condition, de la langue française, dont le niveau et les modalités
+d'évaluation sont fixés par décret en Conseil d'Etat.

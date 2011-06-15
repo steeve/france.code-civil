@@ -1,7 +1,7 @@
 Article L8251-1
 ----
-Nul ne peut, directement ou par personne interposée, embaucher, conserver à son
-service ou employer pour quelque durée que ce soit un étranger non muni du titre
+Nul ne peut, directement ou indirectement, embaucher, conserver à son service ou
+employer pour quelque durée que ce soit un étranger non muni du titre
 l'autorisant à exercer une activité salariée en France.
 
 Il est également interdit à toute personne d'engager ou de conserver à son

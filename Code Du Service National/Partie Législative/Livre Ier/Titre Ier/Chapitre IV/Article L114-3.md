@@ -8,10 +8,11 @@ organisation, le service civique et les autres formes de volontariat ainsi que
 les périodes militaires d'initiation ou de perfectionnement à la défense
 nationale et les possibilités d'engagement dans les forces armées et les forces
 de réserve. Ils sont sensibilisés aux droits et devoirs liés à la citoyenneté et
-aux enjeux du renforcement de la cohésion nationale et de la mixité sociale. Ils
-bénéficient également d'une sensibilisation à la prévention des risques et aux
-missions des services de secours ainsi que d'un apprentissage des gestes
-élémentaires de premier secours.
+aux enjeux du renforcement de la cohésion nationale et de la mixité sociale. La
+charte des droits et devoirs du citoyen français mentionnée à l'article 21-24 du
+code civil leur est remise à cette occasion. Ils bénéficient également d'une
+sensibilisation à la prévention des risques et aux missions des services de
+secours ainsi que d'un apprentissage des gestes élémentaires de premier secours.
 
 A cette occasion sont organisés des tests d'évaluation des apprentissages
 fondamentaux de la langue française. Il est délivré une information sur les

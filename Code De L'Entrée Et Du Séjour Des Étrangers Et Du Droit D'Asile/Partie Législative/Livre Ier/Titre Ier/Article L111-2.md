@@ -1,7 +1,8 @@
 Article L111-2
 ----
 Le présent code régit l'entrée et le séjour des étrangers en France
-métropolitaine, dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon.
+métropolitaine, dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon, à
+Saint-Barthélemy et à Saint-Martin.
 
 Il régit l'exercice du droit d'asile sur l'ensemble du territoire de la
 République.

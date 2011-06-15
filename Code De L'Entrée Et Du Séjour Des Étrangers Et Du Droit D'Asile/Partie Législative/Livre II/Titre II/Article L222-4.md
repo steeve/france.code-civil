@@ -18,3 +18,7 @@ ouvertes au public, un procès-verbal des opérations effectuées.
 
 Sous réserve de l'application de l'article 435 du code de procédure civile, le
 juge des libertés et de la détention statue publiquement.
+
+L'étranger est maintenu à disposition de la justice dans des conditions fixées
+par le procureur de la République pendant le temps strictement nécessaire à la
+tenue de l'audience et au prononcé de l'ordonnance.
