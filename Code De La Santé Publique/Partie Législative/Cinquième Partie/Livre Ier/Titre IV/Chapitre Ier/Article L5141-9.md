@@ -20,11 +20,12 @@ qu'il ne contienne pas plus d'une partie par 10 000 de la teinture mère.
 Il est procédé à cet enregistrement si les critères mentionnés ci-dessus sont
 remplis et, pour les médicaments homéopathiques conçus pour les animaux dont la
 chair ou les produits sont destinés à la consommation humaine, s'ils ne
-contiennent que des souches homéopathiques figurant dans l'une des annexes I, II
-ou III du règlement du Conseil (CEE) 2377 / 90 du 26 juin 1990 établissant une
-procédure communautaire pour la fixation des limites maximales de résidus de
-médicaments vétérinaires dans les aliments d'origine animale. Il peut être
-refusé en cas de danger pour la santé humaine ou la santé animale.
+contiennent que des souches homéopathiques figurant dans le tableau 1 de
+l'annexe du règlement (UE) n° 37/2010 de la Commission du 22 décembre 2009
+relatif aux substances pharmacologiquement actives et à leur classification en
+ce qui concerne les limites maximales de résidus dans les aliments d'origine
+animale. Il peut être refusé en cas de danger pour la santé humaine ou la santé
+animale.
 
 L'enregistrement peut s'appliquer à une série de médicaments homéopathiques
 vétérinaires obtenus à partir de la ou des mêmes souches homéopathiques.

@@ -17,10 +17,11 @@ d) Substances vénéneuses ;
 
 e) Substances pharmacologiquement actives susceptibles de demeurer à l'état de
 résidus toxiques ou dangereux dans les denrées alimentaires d'origine animale et
-figurant dans l'une des annexes I ou III du règlement du Conseil (CEE) n° 2377 /
-90 du 26 juin 1990 établissant une procédure communautaire pour la fixation des
-limites maximales de résidus de médicaments vétérinaires dans les aliments
-d'origine animale ;
+pour lesquelles une limite maximale de résidus est fixée dans le tableau 1 de
+l'annexe du règlement (UE) n° 37/2010 de la Commission du 22 décembre 2009
+relatif aux substances pharmacologiquement actives et à leur classification en
+ce qui concerne les limites maximales de résidus dans les aliments d'origine
+animale ;
 
 f) Produits dont les effets sont susceptibles d'être à l'origine d'une
 contravention à la législation sur les fraudes ;

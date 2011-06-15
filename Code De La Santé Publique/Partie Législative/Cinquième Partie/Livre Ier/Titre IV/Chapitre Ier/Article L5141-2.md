@@ -89,6 +89,7 @@ l'obtention des denrées alimentaires provenant de cet animal, afin de protéger
 la santé publique, en garantissant que de telles denrées alimentaires ne
 contiennent pas de résidus en quantités supérieures aux limites maximales de
 résidus des substances pharmacologiquement actives, telles que fixées en vertu
-du règlement du Conseil (CEE) n° 2377 / 90 du 26 juin 1990 modifié établissant
-une procédure communautaire pour la fixation des limites maximales de résidus de
-médicaments vétérinaires dans les aliments d'origine animale.
+du règlement (CE) n° 470/2009 du Parlement européen et du Conseil du 6 mai 2009
+établissant des procédures communautaires pour la fixation des limites de
+résidus des substances pharmacologiquement actives dans les aliments d'origine
+animale.

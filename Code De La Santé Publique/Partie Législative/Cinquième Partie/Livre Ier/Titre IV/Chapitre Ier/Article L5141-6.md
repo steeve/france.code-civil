@@ -30,15 +30,14 @@ chair ou les produits sont destinés à la consommation humaine :
 
 a) Que le temps d'attente indiqué dans le dossier est insuffisant pour que les
 denrées alimentaires provenant de l'animal traité ne contiennent pas de résidus
-à des niveaux supérieurs aux limites maximales de résidus fixées par le
-règlement (CEE) n° 2377/90 du Conseil du 26 juin 1990 modifié établissant une
-procédure communautaire pour la fixation des limites maximales de résidus de
-médicaments vétérinaires dans les aliments d'origine animale ou qu'il est
-insuffisamment justifié ;
+à des niveaux supérieurs aux limites maximales de résidus fixées dans le tableau
+1 de l'annexe du règlement (UE) n° 37/2010 de la Commission du 22 décembre 2009
+relatif aux substances pharmacologiquement actives et à leur classification en
+ce qui concerne les limites maximales de résidus dans les aliments d'origine
+animale ou qu'il est insuffisamment justifié ;
 
 b) Ou que la ou les substances à action pharmacologique présentes dans le
-médicament ne figurent pas dans l'une des annexes I, II et III du même règlement
-;
+médicament ne figurent pas dans le même tableau ;
 
 5° Soit que l'étiquetage ou la notice proposé par le demandeur n'est pas
 conforme aux dispositions du présent code ;

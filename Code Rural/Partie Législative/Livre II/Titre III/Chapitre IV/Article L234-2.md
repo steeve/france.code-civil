@@ -4,8 +4,8 @@ I.-Il est interdit d'administrer, de mettre sur le marché, d'introduire sur le
 territoire métropolitain ou dans les départements d'outre-mer et de détenir, en
 vue d'administrer, même dans un but thérapeutique, aux animaux des espèces dont
 la chair ou les produits sont destinés à l'alimentation humaine, des produits
-contenant des stilbènes, leurs dérivés, sels ou esters, ainsi que les substances
-à action thyréostatique.
+contenant des stilbènes, leurs dérivés, sels ou esters, les substances à action
+thyréostatique ainsi que l'œstradiol 17 bêta.
 
 II.-Il est interdit de mettre sur le marché ou d'introduire sur le territoire
 métropolitain ou dans les départements d'outre-mer, pour des animaux des espèces

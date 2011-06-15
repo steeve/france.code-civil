@@ -25,10 +25,10 @@ médicamenteux autorisé répondant aux mêmes conditions ;
 a) Soit un médicament autorisé pour l'usage humain ;
 
 b) Soit un médicament vétérinaire autorisé dans un autre Etat membre en vertu de
-la directive 2001 / 82 / CE du Parlement européen et du Conseil instituant un
-code communautaire relatif aux médicaments vétérinaires, pour la même espèce ou
-pour une autre espèce, pour l'affection concernée ou pour une affection
-différente, sans préjudice de l'autorisation mentionnée à l'article L. 5142-7 ;
+la directive 2001/82/ CE du Parlement européen et du Conseil instituant un code
+communautaire relatif aux médicaments vétérinaires, pour la même espèce ou pour
+une autre espèce, pour l'affection concernée ou pour une affection différente,
+sans préjudice de l'autorisation mentionnée à l'article L. 5142-7 ;
 
 4° A défaut des médicaments mentionnés aux 1°, 2° et 3°, une préparation
 magistrale vétérinaire.
@@ -40,11 +40,11 @@ le détenteur des animaux, dans le respect de la prescription du vétérinaire.
 Lorsque le vétérinaire prescrit un médicament destiné à être administré à des
 animaux dont la chair ou les produits sont destinés à la consommation humaine,
 les substances à action pharmacologique qu'il contient doivent être au nombre de
-celles qui figurent dans l'une des annexes I, II et III du règlement (CEE) n°
-2377 / 90 du Conseil du 26 juin 1990 établissant une procédure communautaire
-pour la fixation des limites maximales de résidus de médicaments vétérinaires
-dans les aliments d'origine animale. Si le médicament utilisé n'indique aucun
-temps d'attente pour les espèces concernées, le vétérinaire fixe le temps
+celles qui figurent dans le tableau 1 de l'annexe du règlement (UE) n° 37/2010
+de la Commission du 22 décembre 2009 relatif aux substances pharmacologiquement
+actives et à leur classification en ce qui concerne les limites maximales de
+résidus dans les aliments d'origine animale. Si le médicament utilisé n'indique
+aucun temps d'attente pour les espèces concernées, le vétérinaire fixe le temps
 d'attente applicable qui ne peut être inférieur au minimum fixé pour la denrée
 animale considérée, par arrêté des ministres chargés de l'agriculture et de la
 santé, après avis de l'Agence nationale chargée de la sécurité sanitaire de
@@ -57,13 +57,13 @@ exception au même alinéa, le vétérinaire peut prescrire et administrer à un
 équidé identifié conformément à l'article L. 212-9 du code rural et de la pêche
 maritime et déclaré comme étant destiné à l'abattage pour la consommation
 humaine un médicament contenant des substances à action pharmacologique ne
-figurant dans aucune des annexes I, II, III ou IV du règlement CEE n° 2377 / 90
-du Conseil si les conditions suivantes sont respectées :
+figurant pas à l'annexe du règlement mentionné à l'alinéa précédent si les
+conditions suivantes sont respectées :
 
 a) Les substances à action pharmacologique qu'il contient sont inscrites sur la
-liste fixée par le règlement (CE) n° 1950 / 2006 de la Commission du 13 décembre
-2006 établissant, conformément à la directive 2001 / 82 / CE du Parlement
-européen et du Conseil instituant un code communautaire relatif aux médicaments
+liste fixée par le règlement (CE) n° 1950/2006 de la Commission du 13 décembre
+2006 établissant, conformément à la directive 2001/82/ CE du Parlement européen
+et du Conseil instituant un code communautaire relatif aux médicaments
 vétérinaires, une liste de substances essentielles pour le traitement des
 équidés ;
 
