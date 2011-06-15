@@ -18,3 +18,12 @@ Il en est de même de l'étranger détenteur d'un titre de résident de longue
 durée-CE en cours de validité accordé par un autre Etat membre qui fait l'objet
 d'une mesure d'éloignement du territoire français. Un décret en Conseil d'Etat
 détermine les conditions d'application du présent alinéa.
+
+Il en est également de même de l'étranger détenteur d'une carte de séjour
+temporaire portant la mention " carte bleue européenne " en cours de validité
+accordée par un autre Etat membre de l'Union européenne lorsque lui est refusée
+la délivrance de la carte de séjour temporaire prévue au 6° de l'article L.
+313-10 ou bien lorsque la carte de séjour temporaire portant la mention " carte
+bleue européenne " dont il bénéficie expire ou lui est retirée durant l'examen
+de sa demande, ainsi que des membres de sa famille. Un décret en Conseil d'Etat
+détermine les conditions d'application du présent alinéa.

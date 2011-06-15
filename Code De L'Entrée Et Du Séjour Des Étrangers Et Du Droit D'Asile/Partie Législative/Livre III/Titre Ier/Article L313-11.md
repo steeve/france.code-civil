@@ -28,18 +28,18 @@ française. La condition prévue à l'article L. 311-7 n'est pas exigée ;
 
 3° A l'étranger dans l'année qui suit son dix-huitième anniversaire ou entrant
 dans les prévisions de l'article L. 311-3, dont l'un des parents est titulaire
-de la carte de séjour " compétences et talents " ou de la carte de séjour
-temporaire portant la mention " salarié en mission ", ainsi qu'à l'étranger dont
-le conjoint est titulaire de l'une de ces cartes. Le titulaire de la carte de
-séjour temporaire portant la mention " salarié en mission " doit résider en
-France dans les conditions définies au dernier alinéa du 5° de l'article L.
-313-10 ;
+de la carte de séjour " compétences et talents ", de la carte de séjour
+temporaire portant la mention " salarié en mission " ou " carte bleue européenne
+", ainsi qu'à l'étranger dont le conjoint est titulaire de l'une de ces cartes.
+Le titulaire de la carte de séjour temporaire portant la mention " salarié en
+mission " doit résider en France dans les conditions définies au dernier alinéa
+du 5° de l'article L. 313-10 ;
 
-La carte de séjour temporaire portant la mention " vie privée et familiale "
+La carte de séjour temporaire portant la mention " vie privée et familiale ”
 délivrée dans les conditions prévues à l'alinéa précédent a une durée de
 validité identique à la durée de la carte de séjour du parent ou du conjoint
-titulaire d'une carte de séjour portant la mention " carte bleue européenne ", "
-compétences et talents " ou " salarié en mission ". La carte de séjour est
+titulaire d'une carte de séjour portant la mention " carte bleue européenne ”, "
+compétences et talents ” ou " salarié en mission ”. La carte de séjour est
 renouvelée dès lors que son titulaire continue à remplir les conditions définies
 par le présent code.
 
@@ -49,7 +49,7 @@ depuis le mariage, que le conjoint ait conservé la nationalité française et,
 lorsque le mariage a été célébré à l'étranger, qu'il ait été transcrit
 préalablement sur les registres de l'état civil français ;
 
-5° (Abrogé) ;
+5° (alinéa abrogé)
 
 6° A l'étranger ne vivant pas en état de polygamie, qui est père ou mère d'un
 enfant français mineur résidant en France, à la condition qu'il établisse

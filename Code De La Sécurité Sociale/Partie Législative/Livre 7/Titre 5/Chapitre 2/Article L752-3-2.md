@@ -169,9 +169,9 @@ travail.
 
 Lorsqu'un organisme chargé du recouvrement est avisé, par la transmission du
 procès-verbal établi par un des agents de contrôle mentionnés à l'article L.
-8271-1 du code du travail, de la commission d'une des infractions mentionnées à
-l'alinéa précédent, il suspend la mise en œuvre des exonérations prévues par le
-présent article jusqu'au terme de la procédure judiciaire.
+8271-1-2 du code du travail, de la commission d'une des infractions mentionnées
+à l'alinéa précédent, il suspend la mise en œuvre des exonérations prévues par
+le présent article jusqu'au terme de la procédure judiciaire.
 
 VIII. ― Un décret en Conseil d'Etat détermine les modalités d'application du
 présent article.

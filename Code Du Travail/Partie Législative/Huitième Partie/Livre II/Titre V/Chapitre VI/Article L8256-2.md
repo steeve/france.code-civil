@@ -7,6 +7,9 @@ en France, en méconnaissance des dispositions du premier alinéa de l'article L
 8251-1, est puni d'un emprisonnement de cinq ans et d'une amende de 15 000
 euros.
 
+Le fait de recourir sciemment, directement ou indirectement, aux services d'un
+employeur d'un étranger sans titre est puni des mêmes peines.
+
 Ces peines sont portées à un emprisonnement de dix ans et une amende de 100 000
 euros lorsque l'infraction est commise en bande organisée.
 

@@ -13,11 +13,12 @@ entrés en France au titre du regroupement familial en tant qu'enfants mineurs.
 
 Ces dispositions ne sont pas applicables aux étrangers qui sollicitent un titre
 de séjour au titre des 10° et 11° de l'article L. 313-11, de l'article L. 313-13
-et des 4°,5°,6°,8° et 9° de l'article L. 314-11 ni aux travailleurs temporaires
-et saisonniers mentionnés aux 1° et 4° de l'article L. 313-10. La délivrance
-d'un visa de long séjour valant ou dispensant de titre de séjour donne lieu,
-outre les droits de visa prévus par la réglementation en vigueur, à la
-perception, au profit de l'Agence nationale de l'accueil des étrangers et des
+et des 4°, 5°, 6°, 8° et 9° de l'article L. 314-11 ni aux travailleurs
+temporaires et saisonniers mentionnés aux 1° et 4° de l'article L. 313-10, ni
+aux titulaires de la carte de séjour mentionnée au 6° du même article L. 313-10.
+La délivrance d'un visa de long séjour valant ou dispensant de titre de séjour
+donne lieu, outre les droits de visa prévus par la réglementation en vigueur, à
+la perception, au profit de l'Agence nationale de l'accueil des étrangers et des
 migrations ou de l'établissement public appelé à lui succéder, de la taxe
 correspondant au titre de séjour que ce visa remplace.
 

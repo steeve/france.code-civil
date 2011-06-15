@@ -1,6 +1,6 @@
 Article L8271-2
 ----
-Les agents de contrôle mentionnés à l'article L. 8271-1 se communiquent
+Les agents de contrôle mentionnés à l'article L. 8271-1-2 se communiquent
 réciproquement tous renseignements et tous documents utiles à l'accomplissement
 de leur mission de lutte contre le travail illégal.
 

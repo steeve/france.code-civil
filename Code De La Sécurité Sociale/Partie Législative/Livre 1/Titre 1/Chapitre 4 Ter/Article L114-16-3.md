@@ -3,7 +3,7 @@ Article L114-16-3
 Les agents mentionnés au premier alinéa de l'article L. 114-16-1 sont les
 suivants :
 
-1° Les agents mentionnés à l'article L. 8271-7 du code du travail ;
+1° Les agents mentionnés à l'article L. 8271-1-2 du code du travail ;
 
 2° Les agents des administrations centrales de l'Etat chargés de la lutte contre
 la fraude aux finances publiques désignés par le directeur ou le directeur

@@ -6,5 +6,5 @@ spéciale, le privilège dont l'inscription n'a pas été régulièrement requis
 l'encontre du redevable ne peut plus être exercé pour les créances qui étaient
 soumises à titre obligatoire à cette inscription.
 
-Les pénalités, majorations de retard et frais de poursuite dus par le redevable
-à la date du jugement d'ouverture ne sont pas dus.
+Les frais de poursuite dus par le redevable à la date du jugement d'ouverture ne
+sont pas dus.
