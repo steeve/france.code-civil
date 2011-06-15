@@ -1,5 +1,10 @@
 Article R1221-6
 ----
-L'indisponibilité de l'un des moyens de transmission mentionnés à l'article R.
-1221-5 n'exonère pas l'employeur de son obligation de déclaration par l'un des
-autres moyens.
+Lorsque la déclaration est effectuée par voie électronique par un employeur
+relevant du régime général de sécurité sociale préalablement inscrit à un
+service d'authentification, la formalité est réputée accomplie au moyen de la
+fourniture du numéro d'identification de l'établissement employeur, du numéro
+national d'identification du salarié s'il est déjà immatriculé à la sécurité
+sociale et s'il a déjà fait l'objet d'une déclaration préalable à l'embauche
+dans un délai fixé par arrêté ainsi que des mentions prévues aux 3° et 4° de
+l'article R. 1221-1.

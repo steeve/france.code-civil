@@ -1,5 +1,4 @@
 Article R1221-4
 ----
-La déclaration préalable à l'embauche est réalisée auprès de l'organisme de
-recouvrement dans le ressort territorial duquel est situé l'établissement devant
-employer le salarié.
+La déclaration préalable à l'embauche est adressée au plus tôt dans les huit
+jours précédant la date prévisible de l'embauche.
