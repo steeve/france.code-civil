@@ -1,4 +1,5 @@
 Article R222-20
 ----
-L'agent sportif doit être en mesure de justifier à tout moment de l'existence
-d'un contrat d'assurance couvrant sa responsabilité civile professionnelle.
+Lorsque le règlement des agents sportifs le prévoit, les titulaires de la
+licence d'agents sportifs suivent une formation continue visant à mettre à jour
+leurs connaissances.

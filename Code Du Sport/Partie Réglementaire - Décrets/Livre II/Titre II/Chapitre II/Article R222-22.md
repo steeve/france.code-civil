@@ -1,12 +1,11 @@
 Article R222-22
 ----
-Les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat
-partie à l'accord sur l'Espace économique européen peuvent exercer l'activité
-d'agent sportif en France dès lors :
+Les ressortissants des Etats membres de l'Union européenne ou parties à l'accord
+sur l'Espace économique européen mentionnés à l'article L. 222-15 qui souhaitent
+s'établir sur le territoire national pour y exercer la profession d'agent
+sportif souscrivent une déclaration auprès de la commission des agents sportifs
+de la fédération délégataire compétente.
 
-- qu'ils obtiennent une licence dans les conditions fixées par le présent code ;
-
-- ou qu'ils produisent une licence délivrée dans l'un de ces Etats ;
-
-- ou qu'ils établissent détenir les titres ou la qualification professionnelle
-leur permettant d'y exercer cette profession.
+Si l'intéressé entend exercer son activité dans le cadre de plusieurs
+disciplines sportives, il souscrit une déclaration auprès de chaque fédération
+délégataire compétente.

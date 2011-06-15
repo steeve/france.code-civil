@@ -1,9 +1,12 @@
 Article R222-7
 ----
-La commission se réunit sur convocation de son président ou à la demande de
-trois de ses membres au moins. Elle ne peut délibérer valablement que si la
-moitié au moins de ses membres est présente. Les avis sont rendus à la majorité
-simple des membres présents. En cas de partage égal des voix, le président a
-voix prépondérante.
+Le Comité national olympique et sportif français constitue une commission
+interfédérale des agents sportifs dont le président et les membres sont nommés
+par l'instance dirigeante compétente.
 
-La commission élabore son règlement intérieur.
+La commission interfédérale des agents sportifs participe, avec les commissions
+des agents sportifs des fédérations délégataires, à l'organisation de l'examen
+de la licence d'agent sportif. Elle établit chaque année un rapport sur la mise
+en œuvre par les commissions des agents sportifs des dispositions du présent
+chapitre. Elle peut saisir le ministre chargé des sports de toute proposition
+relative à la réglementation de la profession d'agent sportif.
