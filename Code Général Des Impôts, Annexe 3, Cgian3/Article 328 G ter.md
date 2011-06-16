@@ -1,45 +1,47 @@
 Article 328 G ter
 ----
-1. Les salariés s'entendent de ceux qui sont titulaires d'un contrat de travail
-à durée déterminée ou indéterminée ou d'un contrat de mission mentionné à
-l'article L. 1251-1 du code du travail conclu avec l'entreprise de travail
-temporaire assujettie mentionnée au premier alinéa de l'article 328 G bis si le
-contrat de travail ou le contrat de mission est conclu pour une durée supérieure
-ou égale à un mois.
+La déclaration de cotisation sur la valeur ajoutée des entreprises mentionnée au
+1 du II de l'article 1586 octies du code général des impôts comporte :
 
-2. Les salariés doivent être déclarés par l'employeur assujetti ayant conclu le
-contrat de travail ou le contrat de mission.
+1. Les informations suivantes relatives à l'entreprise :
 
-Toutefois, les assujettis doivent déclarer les salariés détachés par un
-employeur établi hors de France dans les conditions visées aux articles L.
-1261-1 à L. 1261-3 du code du travail.
+a. La dénomination de l'entreprise ;
 
-3. Ne doivent pas être déclarés :
+b. Le numéro d'identité attribué à l'établissement principal dans les conditions
+du second alinéa de l'article R. 123-221 du code de commerce ;
 
-a. Les apprentis ;
+c. L'adresse de l'entreprise ;
 
-b. Les titulaires d'un contrat initiative-emploi ;
+d. L'activité de l'entreprise ;
 
-c. Les titulaires d'un contrat insertion-revenu minimum d'activité ;
+e. La période de référence mentionnée à l'article 1586 quinquies du code général
+des impôts ;
 
-d. Les titulaires d'un contrat d'accompagnement dans l'emploi ;
+f. Le chiffre d'affaires réalisé et la valeur ajoutée produite au cours de la
+période de référence mentionnée à l'article 1586 quinquies du code précité.
 
-e. Les titulaires d'un contrat d'avenir ;
+2. Pour les entreprises ayant plusieurs établissements, la liste du ou des
+établissements et les précisions suivantes :
 
-f. Les titulaires d'un contrat de professionnalisation ;
+a. Les cinq derniers caractères du numéro d'identité attribué dans les
+conditions du second alinéa de l'article R. 123-221 du code de commerce ;
 
-g. Les salariés expatriés ;
+b. Le numéro du département ;
 
-h. Les salariés qui n'ont exercé aucune activité au cours de la période de
-référence mentionnée à l'article 1586 quinquies du code général des impôts.
+c. La ou les communes de localisation ;
 
-4. Le nombre de salariés à déclarer est exprimé en unité de décompte dite
-équivalent temps plein travaillé ou ETPT.
+d. Le code INSEE de la commune ;
 
-Ce décompte est proportionnel à l'activité des salariés, mesurée par leur
-quotité de temps de travail et par leur période d'activité, sur la période de
-référence mentionnée à l'article 1586 quinquies du code général des impôts, sauf
-lorsque le contrat de travail est suspendu.
+e. Le nombre de salariés.
 
-Le nombre d'ETPT est exprimé avec deux décimales et arrondi au centième le plus
-proche.
+3. Pour les entreprises employant des salariés devant être déclarés dans des
+lieux d'emploi en application de l'article 328 G bis, la liste des lieux
+d'emploi et les précisions les concernant, c'est-à-dire l'ensemble des
+précisions mentionnées au 2, à l'exception des cinq derniers caractères du
+numéro d'identité attribué dans les conditions du second alinéa de l'article R.
+123-221 du code de commerce.
+
+4. Pour les contribuables qui n'emploient aucun salarié en France et ne
+disposent d'aucun établissement en France mais qui exercent une activité de
+location d'immeubles ou de vente d'immeubles, la liste et la valeur locative
+foncière des immeubles loués ou vendus.

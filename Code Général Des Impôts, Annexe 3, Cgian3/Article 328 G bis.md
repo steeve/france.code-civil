@@ -1,52 +1,29 @@
 Article 328 G bis
 ----
-La déclaration de cotisation sur la valeur ajoutée des entreprises des
-assujettis mentionnée à l'article 1586 octies du code général des impôts doit
-indiquer, par établissement situé en France, le nombre de salariés employés au
-cours de la période de référence mentionnée à l'article 1586 quinquies.
+La déclaration mentionnée au II de l'article 1586 octies du code général des
+impôts est effectuée dans les conditions suivantes :
 
-Les salariés qui, au cours de cette même période de référence, déploient, à
-titre principal, leur activité plus de trois mois consécutifs sur un lieu situé
-en France hors de l'entreprise qui les emploie, sont déclarés au lieu d'exercice
-de leur activité.
+Le salarié exerçant son activité dans plusieurs établissements ou lieux d'emploi
+est déclaré dans celui où la durée d'activité est la plus élevée.
 
-La déclaration mentionnée au premier alinéa comporte :
+Le salarié n'est déclaré au lieu d'emploi que dans l'hypothèse où il y exerce
+son activité plus de trois mois, y compris si l'entreprise ne dispose pas de
+locaux dans ce lieu d'emploi.
 
-1. Les informations suivantes relatives à l'entreprise :
+Dans l'hypothèse où le salarié exerce son activité dans plusieurs établissements
+ou lieux d'emploi pour des durées d'activité identiques, le salarié est déclaré
+au lieu du principal établissement.
 
-a. La dénomination de l'entreprise ;
+Lorsque le salarié exerce son activité dans un ou plusieurs lieux d'exercice
+d'activité hors de l'entreprise pendant des durées d'au plus trois mois, il est
+déclaré au niveau de l'établissement retenu pour la déclaration annuelle des
+données sociales transmise selon le procédé informatique mentionné à l'article
+89 A du code général des impôts et dans lequel la durée d'activité est la plus
+élevée. En l'absence de recours au procédé informatique mentionné à l'article 89
+A du code précité, le salarié est déclaré au niveau de l'établissement qui
+aurait été retenu si ce procédé avait été utilisé et dans lequel la durée
+d'activité est la plus élevée.
 
-b. Le numéro d'identité attribué à l'établissement principal dans les conditions
-du second alinéa de l'article R. 123-221 du code de commerce ;
-
-c.L'adresse de l'entreprise ;
-
-d.L'activité de l'entreprise ;
-
-e. La période de référence mentionnée à l'article 1586 quinquies du code général
-des impôts ;
-
-f. Le chiffre d'affaires réalisé et la valeur ajoutée produite au cours de la
-période de référence mentionnée à l'article 1586 quinquies du code précité.
-
-2. Pour les entreprises ayant plusieurs établissements ou employant des salariés
-mentionnés au 3, la liste du ou des établissements et les précisions y
-afférentes suivantes :
-
-a. Les cinq derniers caractères du numéro d'identité attribué dans les
-conditions du second alinéa de l'article R. 123-221 du code de commerce ;
-
-b. Le numéro du département ;
-
-c. La ou les communes de localisation ;
-
-d. Le code INSEE de la commune ;
-
-e. Les effectifs exprimés en équivalents temps plein travaillés au sens de
-l'article 328 G ter.
-
-3. La liste, le cas échéant, des lieux d'exercice des salariés employés plus de
-trois mois hors de l'entreprise et les précisions y afférentes, c'est-à-dire
-l'ensemble des précisions visées au 2, à l'exception des cinq derniers
-caractères du numéro d'identité attribué dans les conditions du second alinéa de
-l'article R. 123-221 du code de commerce.
+La notion d'établissement s'entend au sens de la cotisation foncière des
+entreprises telle que mentionnée à l'article 310 HA de l'annexe II au présent
+code.
