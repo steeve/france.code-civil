@@ -7,4 +7,8 @@ en vue d'acquérir un diplôme délivré par une université ou un établissemen
 d'enseignement supérieur français ;
 
 2° Pour celui qui a rendu ou qui peut rendre par ses capacités et ses talents
-des services importants à la France.
+des services importants à la France ;
+
+3° Pour l'étranger qui présente un parcours exceptionnel d'intégration, apprécié
+au regard des activités menées ou des actions accomplies dans les domaines
+civique, scientifique, économique, culturel ou sportif.
