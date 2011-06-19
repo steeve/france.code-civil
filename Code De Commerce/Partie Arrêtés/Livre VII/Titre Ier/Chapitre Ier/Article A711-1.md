@@ -11,11 +11,11 @@ commission ;
 
 b) Une délégation patronale composée comme suit :
 
--cinq présidents de chambres de commerce et d'industrie territoriales ou de
+- cinq présidents de chambres de commerce et d'industrie territoriales ou de
 région, désignés par le bureau de l'assemblée des chambres françaises de
 commerce et d'industrie ;
 
--le président de l'assemblée des chambres françaises de commerce et d'industrie
+- le président de l'assemblée des chambres françaises de commerce et d'industrie
 ;
 
 c) Une délégation du personnel composée de six représentants du personnel et
