@@ -8,6 +8,17 @@ atteignent l'âge prévu à l'article L. 161-17-2, d'une pension d'invalidité �
 à la moitié de la pension de retraite entière telle que fixée par l'assemblée
 générale annuelle.
 
+Le montant de la pension d'invalidité mentionnée dans l'alinéa précédent est
+égal pour le conjoint collaborateur, selon la part retenue pour le calcul de la
+cotisation prévue à l'article R. 723-19-1, au quart ou à la moitié de celle
+prévue pour le conjoint avocat.
+
+Lorsque la fraction retenue pour le calcul de la cotisation a été modifiée par
+le conjoint collaborateur dans les conditions fixées par l'article R. 723-19-2,
+le montant de la pension est calculé en fonction de la moyenne des fractions
+successivement retenues pondérée par le nombre de jours au titre desquels les
+cotisations ainsi calculées ont été versées.
+
 Toutefois, le montant de la pension d'invalidité ne peut être inférieur à celui
 de la retraite proportionnelle qui aurait été attribuée aux intéressés s'ils
 avaient atteint l'âge prévu à l'article L. 161-17-2 lors de la date de prise
