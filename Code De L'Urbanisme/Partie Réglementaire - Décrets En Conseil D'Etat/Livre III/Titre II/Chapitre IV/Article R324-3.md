@@ -1,6 +1,7 @@
 Article R324-3
 ----
-La décision institutive précise, outre les éléments mentionnés à l'avant-dernier
-alinéa de l'article L. 342-2, les actions et opérations d'aménagement au sens de
-l'article L. 300-1 du code de l'urbanisme, en prévision desquelles
-l'établissement public foncier est créé.
+Les membres, titulaires ou suppléants, de l'assemblée générale et du conseil
+d'administration ne peuvent prendre ou conserver aucun intérêt, occuper aucune
+fonction dans les entreprises privées traitant avec l'établissement public
+foncier ou assurer des prestations pour ces entreprises. Ils ne peuvent, en
+aucun cas, prêter leur concours, à titre onéreux, à l'établissement.
