@@ -1,7 +1,7 @@
 Article D432
 ----
-L'office national a pour objet de veiller en toute circonstance sur les intérêts
-matériels et moraux de ses ressortissants.
+I.-L'office national a pour objet de veiller en toute circonstance sur les
+intérêts matériels et moraux de ses ressortissants.
 
 Il a notamment pour attribution :
 
@@ -70,6 +70,23 @@ nation.
 b) D'exercer l'action sociale nécessaire en faveur des sinistrés, réfugiés et
 spoliés, tant qu'ils demeurent détenteurs de la carte attestant leur qualité.
 
-L'office national est chargé de l'instruction des demandes d'emplois réservés
-des bénéficiaires du 1° de l'article L. 394 qui ne sont plus en activité, des 2°
-à 6° du même article et des articles L. 395 et L. 396.
+II.-L'office national est chargé de l'instruction des demandes d'emplois
+réservés des bénéficiaires du 1° de l'article L. 394 qui ne sont plus en
+activité, des 2° à 6° du même article et des articles L. 395 et L. 396.
+
+III.-Il peut également se voir confier par convention, pour le compte de l'Etat
+:
+
+1° La gestion des prestations de soins gratuits prévues à l'article L. 115 pour
+les titulaires d'une pension qui résident dans les départements et collectivités
+d'outre-mer, en Algérie, au Maroc ou en Tunisie ;
+
+2° L'appareillage des mutilés prévu à l'article L. 128 pour les titulaires d'une
+pension qui résident dans l'un des lieux mentionnés au 1° ;
+
+3° L'organisation des expertises médicales prévues au présent code pour les
+demandes de pensions formées par des personnes résidant en Algérie, au Maroc ou
+en Tunisie.
+
+La Caisse nationale militaire de sécurité sociale peut être partie à la
+convention passée entre le ministre chargé des anciens combattants et l'Office.
