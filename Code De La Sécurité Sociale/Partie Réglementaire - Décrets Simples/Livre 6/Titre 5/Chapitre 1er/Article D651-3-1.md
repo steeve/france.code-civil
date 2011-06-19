@@ -1,10 +1,10 @@
 Article D651-3-1
 ----
 Pour les entreprises de négoce en gros des combustibles et de commerce de détail
-de carburants dont la marge est au plus égale à 4 % du chiffre d'affaires hors
-taxes, le montant cumulé de la contribution sociale de solidarité et de la
-contribution additionnelle instituée à l'article L. 241-13 est plafonné à 3,08 %
-de cette marge brute.
+de carburants mentionnées à l'article L. 651-3 dont la marge est au plus égale à
+4 % du chiffre d'affaires hors taxes, le montant cumulé de la contribution
+sociale de solidarité et de la contribution additionnelle instituée à l'article
+L. 241-13 est plafonné à 3,08 % de cette marge brute.
 
 La marge brute mentionnée au premier alinéa s'obtient à partir des indications
 qui doivent figurer, pour chaque exercice, dans le compte de résultat prévu à
@@ -27,6 +27,3 @@ déduit du total des postes énumérés ci-dessus.
 Le poste Reprises sur amortissements et provisions, transfert de charges peut
 être déduit du résultat courant avant impôts à concurrence des charges retenues
 antérieurement dans le calcul de la contribution.
-
-Les dispositions du cinquième alinéa de l'article D. 651-2 sont applicables aux
-entreprises mentionnées au présent article.

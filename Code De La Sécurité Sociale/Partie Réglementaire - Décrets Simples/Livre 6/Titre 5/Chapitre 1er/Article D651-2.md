@@ -1,10 +1,10 @@
 Article D651-2
 ----
-Pour les entreprises de commerce international et intracommunautaire dont la
-marge est au plus égale à 4 % du chiffre d'affaires hors taxes, le montant
-cumulé de la contribution sociale de solidarité et de la contribution
-additionnelle instituée à l'article L. 241-13 est plafonné à 3,08 % de cette
-marge brute.
+Pour les entreprises de commerce international et intracommunautaire mentionnées
+à l'article L. 651-3 dont la marge est au plus égale à 4 % du chiffre d'affaires
+hors taxes, le montant cumulé de la contribution sociale de solidarité et de la
+contribution additionnelle instituée à l'article L. 241-13 est plafonné à 3,08 %
+de cette marge brute.
 
 Pour l'application du premier alinéa, les entreprises de commerce international
 et intracommunautaire s'entendent de toutes celles qui réalisent plus de la
@@ -31,9 +31,3 @@ déduit du total des postes énumérés ci-dessus.
 Le poste Reprises sur amortissements et provisions, transfert de charges peut
 être déduit du résultat courant avant impôts à concurrence des charges retenues
 antérieurement dans le calcul de la contribution.
-
-Les entreprises de commerce international et intracommunautaire mentionnées au
-deuxième alinéa qui demandent le bénéfice des dispositions du présent article
-doivent renvoyer à l'organisme chargé du recouvrement de la contribution
-l'imprimé que ce dernier leur a fait parvenir. Un exemplaire du compte de
-résultat fourni à l'administration fiscale doit être joint à cet imprimé.
