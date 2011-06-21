@@ -9,4 +9,7 @@ raison impérieuse d'intérêt général.
 Cette raison ne peut être constituée par la prise en compte d'un intérêt
 économique que si la nullité du contrat entraîne des conséquences
 disproportionnées et que l'intérêt économique atteint n'est pas directement lié
-au contrat, ou si le contrat porte sur une délégation de service public.
+au contrat, ou si le contrat porte sur une délégation de service public ou
+encore si la nullité du contrat menace sérieusement l'existence même d'un
+programme de défense ou de sécurité plus large qui est essentiel pour les
+intérêts de sécurité de l'Etat.
