@@ -35,7 +35,6 @@ le déclarant est la personne qui fait la déclaration en douane en son nom prop
 ou celle au nom de laquelle une déclaration en douane est faite.
 
 4. Le directeur général des douanes et droits indirects détermine par arrêté la
-forme des déclarations applicables aux opérations mentionnées à l'article 2 ter
-ainsi que la forme des déclarations autres que celles prévues par les règlements
+forme des déclarations autres que celles prévues par les règlements
 communautaires en vigueur. Il fixe également les énonciations qu'elles doivent
 contenir et les documents qui doivent y être annexés.

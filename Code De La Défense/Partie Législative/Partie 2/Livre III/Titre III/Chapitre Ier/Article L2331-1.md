@@ -26,9 +26,10 @@ II.- Armes et munitions non considérées comme matériels de guerre :
 
 8e catégorie : Armes et munitions historiques et de collection.
 
-III.- Les matériels, appartenant ou non aux précédentes catégories, qui sont
-soumis à des restrictions ou à une procédure spéciale pour l' importation ou l'
-exportation sont définis aux articles L. 2335- 1 et L. 2335- 3.
+III.- Les matériels appartenant ou non aux précédentes catégories, qui sont
+soumis à des restrictions ou à une procédure spéciale pour l'importation ou
+l'exportation hors du territoire de l'Union européenne, ou le transfert au sein
+de l'Union européenne, sont définis au chapitre V du présent titre.
 
 Les armes de toute espèce qui peuvent tirer des munitions utilisables dans des
 armes classées matériel de guerre, et les munitions de toute espèce qui peuvent

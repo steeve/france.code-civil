@@ -6,6 +6,7 @@ acceptation, des commandes de matériels des quatre premières catégories, non
 destinées à l'exportation, autres que celles qui émanent de l'Etat et ne peuvent
 les exécuter que sur autorisation expresse.
 
-Les prescriptions relatives à l'importation et à l'exportation, y compris celles
-qui concernent l'acceptation des commandes en vue de l'exportation, font l'objet
-des articles L. 2335-1 à L. 2335-3.
+Les prescriptions relatives à l'importation ou l'exportation hors du territoire
+de l'Union européenne ou au transfert au sein de l'Union européenne, y compris
+celles qui concernent l'acceptation des commandes en vue de l'exportation ou du
+transfert, sont définies au chapitre V du présent titre.
