@@ -9,8 +9,9 @@ En qualité d'organe exécutif de l'établissement, le chef d'établissement :
 recruté par l'établissement ;
 
 3° Préside le conseil d'administration, la commission permanente, le conseil
-pédagogique, le conseil de discipline et dans les lycées l'assemblée générale
-des délégués des élèves et le conseil des délégués pour la vie lycéenne ;
+pédagogique, le conseil de discipline, la commission éducative et dans les
+lycées l'assemblée générale des délégués des élèves et le conseil des délégués
+pour la vie lycéenne ;
 
 4° Est ordonnateur des recettes et des dépenses de l'établissement ;
 

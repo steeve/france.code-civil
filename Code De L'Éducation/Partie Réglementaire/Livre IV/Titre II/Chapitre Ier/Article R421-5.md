@@ -27,7 +27,7 @@ Il détermine également les modalités :
 7° D'application de l'obligation d'assiduité mentionnée à l'article L. 511-1.
 
 Le règlement intérieur comporte un chapitre consacré à la discipline des élèves
-qui reproduit l'échelle des sanctions prévues à l'article R511-13.
+qui reproduit l'échelle des sanctions prévues à l'article R. 511-13.
 
 Le règlement intérieur est porté à la connaissance des membres de la communauté
 éducative. Tout manquement au règlement intérieur justifie la mise en œuvre
