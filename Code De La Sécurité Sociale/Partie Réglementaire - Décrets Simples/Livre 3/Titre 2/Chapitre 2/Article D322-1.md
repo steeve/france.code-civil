@@ -32,8 +32,6 @@ sévères ;
 
 -hémophilies et affections constitutionnelles de l'hémostase graves ;
 
--hypertension artérielle sévère ;
-
 -maladie coronaire ;
 
 -insuffisance respiratoire chronique grave ;

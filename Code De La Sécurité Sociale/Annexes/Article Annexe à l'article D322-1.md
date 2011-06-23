@@ -461,46 +461,7 @@ charge thérapeutique est nécessaire.
 
 L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
 
-12. Critères médicaux utilisés pour la définition de l'affection de longue durée
-hypertension artérielle sévère
-
-L'exonération du ticket modérateur pour hypertension artérielle sévère est
-accordée devant l'existence de deux des trois constatations suivantes :
-
-1° Attestation par le médecin traitant que la pression artérielle en l'absence
-du traitement a été égale ou supérieure à 180 mmHg (pression artérielle
-systolique/ PAS) et/ ou 110 mmHg (pression artérielle diastolique/ PAD) à trois
-consultations successives, sauf contexte d'urgence, qu'il y ait ou non des
-signes cliniques ou paracliniques de retentissement tels que ceux décrits
-ci-dessous ;
-
-2° Attestation par le médecin traitant que la pression artérielle quoique
-inférieure à 180 mmHg (PAS) et/ ou à 110 mmHg (PAD) a été supérieure à 140 mmHg
-(PAS) et/ ou 90 mmHg (PAD), à plusieurs consultations successives espacées de
-plusieurs semaines ou que le diagnostic d'HTA a été confirmé par automesure ou
-mesure ambulatoire et qu'elle est associée à au moins l'un des signes de
-retentissement organiques suivants :
-
-- hypertrophie ventriculaire gauche et/ ou ischémie myocardique ;
-
-- insuffisance coronarienne ;
-
-- microalbuminurie à 30 mg/ j ou 20 mg/ l ;
-
-- insuffisance rénale (DFG ¸ 60 ml/ min) ou protéinurie ¹ 500 mg/ j ;
-
-- accident ischémique transitoire (AIT) ou accident vasculaire cérébral (AVC) ;
-
-- hémorragies ou exsudats à l'examen du fond d'œil (stade III) ou œdème
-papillaire (stade IV) ;
-
-- artériopathie des membres inférieurs et aorto-iliaque ;
-
-3° Prescription continue depuis trois mois, de trois classes d'antihypertenseurs
-au moins, reconnus comme tels par les commissions compétentes, et prescrits
-chacun à la dose quotidienne optimale.
-
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+12. (Paragraphe supprimé)
 
 13. Critères médicaux utilisés pour la définition de l'affection de longue durée
 maladie coronaire
@@ -999,9 +960,9 @@ hématologique ou humorale caractéristiques ;
 radiologiques ou biologiques convergents et emportant la décision médicale.
 
 L'exonération initiale est accordée pour une durée de cinq ans, renouvelable dès
-lors que la poursuite d'une thérapeutique lourde ou la prise en charge
-diagnostique et thérapeutique des séquelles liées à la maladie ou aux
-traitements, notamment l'usage permanent d'appareillages, sont nécessaires.
+lors que la poursuite d'une thérapeutique ou la prise en charge diagnostique et
+thérapeutique des séquelles liées à la maladie ou aux traitements, notamment
+l'usage permanent d'appareillages, sont nécessaires.
 
 Toute récidive ou apparition d'une séquelle tardive grave dont le lien de
 causalité avec le traitement est établi conduit à la reprise de l'exonération du
