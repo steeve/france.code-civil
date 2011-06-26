@@ -5,28 +5,30 @@ opérateurs pétroliers doivent être constitués de produits appartenant aux m�
 catégories, définies par chacun des tirets de l'annexe à la loi n° 92-1443 du 31
 décembre 1992 portant réforme du régime pétrolier, que celles des produits qui
 font l'objet des opérations mentionnées aux deux premiers alinéas de l'article 2
-de la loi du 31 décembre 1992 susmentionnée, à concurrence :
-
-1° D'au moins 55 % des obligations totales de stockage concernant l'ensemble des
-produits figurant sur l'annexe de ladite loi, à l'exception du fioul lourd ;
-
-2° D'au moins 45 % des obligations totales de stockage concernant le fioul
-lourd.
+de la loi du 31 décembre 1992 susmentionnée, à concurrence d'au moins 50 % des
+obligations totales de stockage concernant l'ensemble des produits figurant sur
+l'annexe de ladite loi.
 
 II.-Au-delà du stock minimal défini au I ci-dessus, les opérateurs pétroliers
 peuvent être autorisés à substituer aux produits concernés, et après application
-d'un coefficient d'équivalence, du pétrole brut ou certains produits
-intermédiaires de raffinage dont ils disposent, selon le cas sur le territoire
-de la métropole ou sur celui du département d'outre-mer, soit directement, soit
-à la suite d'une mise à disposition mentionnée à l'article D. 1336-52.
+de coefficients d'équivalence des produits appartenant aux catégories définies
+par l'annexe à la loi n° 92-1443 du 31 décembre 1992 portant réforme du régime
+pétrolier, du pétrole brut ou certains produits intermédiaires de raffinage dont
+ils disposent, selon le cas sur le territoire de la métropole ou sur celui du
+département d'outre-mer, soit directement, soit à la suite d'une mise à
+disposition mentionnée à l'article D. 1336-52.
 
-Le coefficient d'équivalence est calculé d'après le rapport existant entre,
-d'une part, la quantité globale des produits assujettis à l'obligation de
-stockage fabriqués en France au cours de l'année civile précédente et, d'autre
-part, la quantité de pétrole brut utilisée durant la même année pour ces
-fabrications.
+Le coefficient d'équivalence devant être appliqué en cas de substitution par du
+pétrole brut ou par des produits intermédiaires de raffinage est calculé d'après
+le rapport existant entre, d'une part, la quantité globale des produits
+assujettis à l'obligation de stockage fabriqués en France au cours de l'année
+civile précédente et, d'autre part, la quantité de pétrole brut utilisée durant
+la même année pour ces fabrications.
 
-Un arrêté du ministre chargé des hydrocarbures fixe la valeur du coefficient
-d'équivalence, la liste des produits intermédiaires admis en substitution et le
+Un arrêté du ministre chargé des hydrocarbures fixe la valeur des coefficients
+d'équivalence, la liste des produits intermédiaires admis en substitution, le
 pourcentage maximal des produits à stocker qui peuvent faire l'objet d'une
-substitution, dans le respect des dispositions du I ci-dessus.
+substitution, le pourcentage maximal des produits à stocker qui peuvent faire
+l'objet d'une substitution par des produits appartenant aux catégories définies
+par l'annexe à la loi n° 92-1443 du 31 décembre 1992 portant réforme du régime
+pétrolier, dans le respect des dispositions du I ci-dessus.
