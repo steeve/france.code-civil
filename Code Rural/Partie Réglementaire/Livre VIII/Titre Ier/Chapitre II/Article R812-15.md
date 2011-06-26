@@ -9,8 +9,8 @@ ou de modification de diplômes d'établissement, sur les demandes d'habilitatio
 à délivrer des diplômes nationaux, sur l'organisation des départements et le
 projet d'établissement pour les domaines relevant de sa compétence. Il est
 consulté sur les caractéristiques des emplois d'enseignants-chercheurs et exerce
-les attributions mentionnées aux articles 22, 23, 24, 29, 39, 41 et 52 du décret
-n° 92-171 du 21 février 1992 portant statuts particuliers des corps
+les attributions relatives à la gestion des intéressés mentionnées dans le
+décret n° 92-171 du 21 février 1992 portant statuts particuliers des corps
 d'enseignants-chercheurs des établissements d'enseignement supérieur publics
 relevant du ministre chargé de l'agriculture. Il émet également un avis sur les
 programmes d'enseignement qui est transmis au conseil d'administration et dont
