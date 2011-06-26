@@ -35,9 +35,11 @@ Lorraine (Epinal) ;
 
 Martinique (Fort-de-France) ;
 
+Mayotte (Mamoudzou) ;
+
 Midi-Pyrénées (Toulouse) ;
 
-Nord - Pas-de-Calais (Arras) ;
+Nord-Pas-de-Calais (Arras) ;
 
 Basse-Normandie (Caen) ;
 
