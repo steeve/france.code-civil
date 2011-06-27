@@ -1,16 +1,17 @@
 Article D361-14
 ----
-Le comité départemental d'expertise établit, pour l'année civile en cours et
-pour une durée maximale de trois années, un barème destiné à permettre
+Le comité départemental d'expertise établit un barème destiné à permettre
 l'évaluation des dommages subis, tels qu'indiqués à l'article R. 361-27.
 
-Le barème est applicable aux sinistres survenus pendant l'année civile au titre
-de laquelle il est validé.
+Pour l'établissement de ces barèmes, le directeur régional de l'alimentation, de
+l'agriculture et de la forêt coordonne les travaux de l'ensemble des comités
+départementaux de la région et leur apporte un appui technique. Il veille à
+l'exhaustivité et à la cohérence des barèmes et des valeurs retenues dans les
+différents départements de la région.
 
-Le comité départemental d'expertise peut toutefois modifier, pour des raisons
-objectives et dans les conditions du présent article, le barème en vigueur pour
-l'année civile en cours. Dans ce cas, le barème modifié n'est applicable qu'aux
-sinistres qui surviennent postérieurement à la validation de ces modifications.
+Le barème définit notamment, par catégorie d'animaux, les besoins en énergie
+alimentaire. Il comporte l'ensemble des informations nécessaires à l'évaluation
+des pertes fourragères décrites à l'article D. 361-30.
 
 Les prix figurant au barème doivent être une moyenne de ceux observés
 localement, pour la culture considérée, au cours de la campagne précédant celle
@@ -21,15 +22,13 @@ localement, pour la culture considérée, au cours des cinq dernières campagnes
 précédant celle de l'élaboration du barème, en excluant des calculs l'année de
 la plus forte récolte et l'année de la plus faible récolte.
 
-Les moyennes de prix et de rendements précitées tiennent compte, le cas échéant,
+Les moyennes de prix et de rendements précités tiennent compte, le cas échéant,
 des spécificités dues à l'espèce, à la variété, à l'aire de cultures ainsi qu'au
 mode de conduite de ces cultures et à leur valorisation.
 
-Le barème définit notamment, par catégorie d'animaux, les besoins en énergie
-alimentaire.
-
-Le barème est adressé pour approbation au directeur régional de l'alimentation,
-de l'agriculture et de la forêt avant le 30 juin de l'année civile en cours ou
-avant la fin de l'année civile en cas de modifications mentionnées au troisième
-alinéa. Après validation, copie de ce document est envoyée au ministère chargé
-de l'agriculture.
+Le barème établi par le comité départemental est adressé pour approbation au
+directeur régional de l'alimentation, de l'agriculture et de la forêt. Il est
+applicable, pour une durée de trois ans, à tous les sinistres survenus
+postérieurement à son approbation par le directeur régional de l'alimentation,
+de l'agriculture et de la forêt. Après cette approbation, le barème est transmis
+dans les deux mois au ministre chargé de l'agriculture.

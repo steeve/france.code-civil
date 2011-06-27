@@ -1,5 +1,8 @@
 Article D361-3
 ----
-Les avoirs disponibles du Fonds national de garantie des calamités agricoles
-sont placés par la Caisse centrale de réassurance en valeurs mentionnées à
-l'article R. 332-2 du code des assurances.
+Les opérations du Fonds national de gestion des risques en agriculture sont
+retracées, tant en recettes qu'en dépenses, dans une comptabilité distincte
+tenue par la Caisse centrale de réassurance.
+
+Cette comptabilité retrace les opérations relatives à chacune des sections du
+fonds.

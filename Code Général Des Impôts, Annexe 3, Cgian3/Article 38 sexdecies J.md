@@ -10,8 +10,8 @@ l'article 72 D bis du code général des impôts sont les suivants :
 a) Sinistre, constaté dans les conditions prévues à l'article R. 361-41 du code
 rural et de la pêche maritime ;
 
-b) Calamité agricole, constatée dans les conditions prévues à l'article L. 361-5
-du code rural et de la pêche maritime ;
+b) Calamité agricole, constatée dans les conditions prévues en application de
+l'article L. 361-5 du code rural et de la pêche maritime ;
 
 c) Catastrophe naturelle, constatée dans les conditions prévues à l'article L.
 125-1 du code des assurances ;
