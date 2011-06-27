@@ -114,7 +114,7 @@ f) L'article 16 du décret n° 91-823 du 28 août 1991 relatif à l'identificati
 des chiens, des chats et autres carnivores domestiques et à la tenue des locaux
 où se pratiquent de façon habituelle l'élevage en vue de la vente, la
 commercialisation, le toilettage, le transit ou la garde de ces animaux pris
-pour l'application des articles 276, 276-2 et 276-3 du code rural et de la pêche
+pour l'application des articles 276,276-2 et 276-3 du code rural et de la pêche
 maritime ;
 
 g) Les articles R. 215-6 et R. 215-7 du code rural et de la pêche maritime ;
@@ -135,7 +135,11 @@ publique ;
 
 Contraventions en matière de collecte et de destruction de médicaments à usage
 humain non utilisés réprimées par les articles R. 4212-1 et R. 4212-2 du code de
-la santé publique.
+la santé publique ;
 
-7° Contraventions réprimées par les 1°,3° et 4° du II de l'article R. 254-20 du
+Contraventions en matière de gestion des déchets d'activités de soins à risques
+infectieux perforants produits par les patients en autotraitement réprimées par
+les articles R. 1337-16 et R. 1337-17 du code de la santé publique.
+
+7° Contraventions réprimées par les 1°, 3° et 4° du II de l'article R. 254-20 du
 code rural et de la pêche maritime.
