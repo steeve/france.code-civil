@@ -1,36 +1,31 @@
 Article R326-6
 ----
-I. - La commission nationale instituée par l'article L. 326-3 comprend :
+La déclaration mentionnée au II de l'article L. 326-4 tient lieu de demande de
+première inscription à titre temporaire sur la liste des experts en automobile.
 
-1° Un président, conseiller en activité ou honoraire à la Cour de cassation,
-désigné par le ministre de la justice sur proposition du premier président de la
-Cour de cassation ;
+Elle est adressée au ministre chargé des transports et doit être accompagnée des
+documents suivants lorsqu'elle est souscrite pour la première fois ou en cas de
+changement matériel relatif à la situation établie par eux :
 
-2° Cinq représentants de l'Etat, dont deux désignés par le ministre chargé des
-transports, un par le ministre chargé des assurances, un par le ministre de
-l'intérieur et un par le ministre chargé de la consommation ;
+1° Une preuve de l'identité et de la nationalité du prestataire ;
 
-3° Quatre experts en automobile désignés par le ministre chargé des transports,
-sur proposition des organisations professionnelles ;
+2° Une attestation certifiant que le prestataire est légalement établi dans un
+autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord
+sur l'Espace économique européen pour y exercer la profession d'expert en
+automobile, et qu'il n'encourt, lorsque l'attestation est délivrée, aucune
+interdiction même temporaire d'exercer ;
 
-4° Deux représentants des consommateurs désignés par le ministre chargé de la
-consommation, pris dans une liste proposée par le collège de consommateurs du
-conseil national de la consommation ;
+3° Une preuve de ses qualifications professionnelles ;
 
-5° Deux représentants des entreprises d'assurance désignés par le ministre
-chargé des assurances. Les représentants des consommateurs ne peuvent appartenir
-aux catégories mentionnées aux 3° et 5° du présent article.
+4° Lorsque la profession d'expert en automobile ou la formation y conduisant
+n'est pas réglementée dans l'Etat d'établissement, la preuve par tout moyen que
+le prestataire a exercé cette profession pendant au moins deux années au cours
+des dix années précédentes ;
 
-Un suppléant de chaque membre titulaire de la commission est désigné dans les
-mêmes conditions.
+5° Une preuve que le prestataire est couvert par un contrat d'assurance
+garantissant la responsabilité civile qu'il peut encourir en raison des
+activités mentionnées à l'article L. 326-4 ;
 
-II. - Les membres titulaires et suppléants de la commission sont nommés pour
-trois ans par arrêté du ministre chargé des transports.
-
-Il est procédé au remplacement du membre titulaire ou suppléant qui perd la
-qualité au titre de laquelle il a été désigné ou qui ne peut plus exercer ses
-fonctions. Le nouveau membre siège pour la durée du mandat restant à courir.
-Sauf s'il s'agit du président, il n'est pas procédé au remplacement d'un membre
-de la commission si l'on se trouve à moins de six mois du renouvellement général
-de la commission, à moins que la condition de quorum prévue à l'article R. 326-7
-l'exige.
+La déclaration et les documents joints peuvent être transmis par tout moyen. Les
+documents en langue étrangère sont accompagnés de leur traduction en langue
+française.
