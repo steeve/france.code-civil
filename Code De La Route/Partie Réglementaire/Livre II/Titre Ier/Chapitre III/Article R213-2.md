@@ -27,11 +27,7 @@ minimale ainsi que les conditions d'agrément de cette formation ;
 
 3° Etre âgé d'au moins vingt-trois ans ;
 
-4° Justifier d'une expérience professionnelle de pratique de l'enseignement de
-la conduite, soit à temps plein pendant deux années continues ou non, soit à
-temps partiel pendant une durée totale équivalente aux deux années requises sur
-la base d'un temps plein, dans les conditions fixées par un arrêté du ministre
-chargé des transports ;
+4° (alinéa abrogé) ;
 
 5° Justifier de garanties minimales concernant les moyens de formation de
 l'établissement. Ces garanties concernent les locaux, les véhicules, les moyens
@@ -70,10 +66,7 @@ sécurité routière ;
 
 3° Etre âgé d'au moins vingt-cinq ans ;
 
-4° Justifier d'une expérience professionnelle, soit à temps plein pendant deux
-années continues ou non, soit à temps partiel pendant une durée totale
-équivalente aux deux années requises sur la base d'un temps plein, dans le
-domaine de la sensibilisation à la sécurité routière ou de son enseignement ;
+4° (alinéa abrogé)
 
 5° Justifier des garanties minimales concernant les moyens de formation de
 l'établissement. Ces garanties concernent les locaux, les moyens matériels, les

@@ -14,19 +14,21 @@ instituée par l'article R. 413-2, les diplômes ou les conditions d'expérience
 professionnelle exigés à l'appui de la demande de certificat de capacité.
 
 II.-La déclaration mentionnée au II de l'article L. 413-2 est présentée dans les
-conditions fixées au IV de l'article R. 413-4.
+conditions fixées au IV de l'article R. 413-4 et instruite par le préfet du
+département dans les délais fixés par ce même article. .
 
-En l'absence d'implication en matière de santé ou de sécurité publiques, le
-préfet accuse réception de cette demande et délivre l'attestation de dispense de
-certificat de capacité.
+Elle donne lieu à la délivrance d'une attestation de dispense de certificat de
+capacité ou d'une attestation de qualification professionnelle valant
+attestation de dispense de certificat de capacité selon les modalités définies
+au IV de l'article R. 413-4.
 
-Dans le cas contraire et après vérification des qualifications professionnelles
-selon les modalités prévues à l'article R. 413-4, il délivre cette attestation
-ou, le cas échéant, informe le prestataire qu'il ne peut réaliser la prestation
-envisagée en France.
+Les attestations prévues à l'alinéa précédent peuvent être suspendues ou
+retirées par le préfet du département en cas d'interdiction, même temporaire,
+d'exercice du prestataire dans l'Etat d'établissement ou en cas de manquements
+de nature à nuire à la santé ou la sécurité du public ou des animaux, après que
+le prestataire a été mis à même de présenter ses observations.
 
-En l'absence de demande de complément d'information, de saisine de la commission
-nationale instituée par l'article R. 413-2 ou de notification du résultat de la
-vérification des qualifications, la prestation dont la nature est décrite dans
-la déclaration peut être effectuée à l'issue d'un délai d'un mois à compter de
-la réception de la déclaration par le préfet.
+Lorsque le prestataire exerce temporairement sur le territoire français
+l'activité pour laquelle la reconnaissance de qualification professionnelle a
+été acquise, il en communique le lieu et la date au préfet du département où
+cette activité est exercée.
