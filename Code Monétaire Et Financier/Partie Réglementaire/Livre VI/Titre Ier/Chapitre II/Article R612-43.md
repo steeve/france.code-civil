@@ -11,12 +11,13 @@ motifs pour lesquels il s'y oppose.
 Si le membre récusé acquiesce à la demande de récusation, il est remplacé par
 son suppléant.
 
-Dans le cas contraire, la commission doit examiner cette demande sans la
-participation de celui de ses membres dont la récusation est demandée.L'auteur
-de la récusation est averti immédiatement et par tout moyen de la date de cette
-réunion. Il est informé de la possibilité qu'il aura de présenter des
-observations orales, et de se faire assister ou représenter par tout conseil de
-son choix.
+Dans le cas contraire, la commission se prononce sur la demande. Il est informé
+de la possibilité qu'il aura de présenter des observations orales, et de se
+faire assister ou représenter par tout conseil de son choix.
+
+La commission statue sans la participation de celui de ses membres dont la
+récusation est demandée. S'il n'est pas le membre dont la récusation est
+demandée, le rapporteur participe à la délibération.
 
 Si la récusation est admise, le membre sera remplacé par son suppléant lors de
 la réunion prévue à l'article R. 612-46. La décision de la commission précise la

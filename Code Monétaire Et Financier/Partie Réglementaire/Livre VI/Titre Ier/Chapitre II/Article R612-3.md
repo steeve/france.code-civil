@@ -1,9 +1,11 @@
 Article R612-3
 ----
-Le commissaire du Gouvernement dispose d'un délai de trois jours ouvrés suivant
+Le directeur général du Trésor ou, le cas échéant, le directeur de la sécurité
+sociale ou leurs représentants dispose d'un délai de trois jours ouvrés suivant
 la réunion du collège pour demander une seconde délibération au collège.
 
-Le commissaire du Gouvernement peut demander une seconde délibération d'une
+Le directeur général du Trésor ou, le cas échéant, le directeur de la sécurité
+sociale ou leurs représentants peut demander une seconde délibération d'une
 commission spécialisée soit devant cette commission, soit devant une autre
 formation du collège.
 

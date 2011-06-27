@@ -10,8 +10,7 @@ d'origine de l'établissement en cause la lettre mentionnée à l'article R.
 
 La Commission des sanctions de l'Autorité de contrôle prudentiel communique
 également à ladite autorité les observations en réponse éventuellement adressées
-par l'établissement et l'informe de la convocation prévue au deuxième alinéa de
-l'article R. 612-39.
+par l'établissement et l'informe de la convocation prévue à l'article R. 612-39.
 
 Elle verse à la procédure toutes les informations fournies par cette autorité
 sur les mesures qu'elle peut avoir adoptées.

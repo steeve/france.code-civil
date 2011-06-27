@@ -15,8 +15,8 @@ Elle verse à la procédure toutes les informations fournies par cette autorité
 sur les mesures qu'elle peut avoir adoptées.
 
 Sauf cas d'urgence, un délai d'au moins 30 jours francs doit être respecté entre
-la communication à l'autorité de l'Etat membre d'origine et l'audition prévue
-respectivement à l'article R. 612-32.
+la communication à l'autorité de l'Etat membre d'origine et l'audition prévue à
+l'article R. 612-39.
 
 Avant de suivre la procédure prévue aux alinéas précédents, l'Autorité de
 contrôle prudentiel peut prendre, en cas d'urgence, toute mesure conservatoire

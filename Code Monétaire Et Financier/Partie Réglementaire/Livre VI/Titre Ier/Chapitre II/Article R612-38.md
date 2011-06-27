@@ -1,9 +1,40 @@
 Article R612-38
 ----
-Le cas échéant, l'Autorité peut informer de l'ouverture de la procédure de
-sanction l'entreprise qui contrôle la personne mise en cause au sens du I de
-l'article L. 511-20 du présent code ou du 1 de l'article L. 334-2 du code des
-assurances, l'organe central auquel elle est affiliée, la société de groupe
-d'assurance ou l'union mutualiste de groupe à laquelle elle est affiliée ou son
-organisme de référence, au sens des articles L. 212-7-1 du code de la mutualité
-et L. 933-2 du code de la sécurité sociale.
+I.-Le président de la commission des sanctions désigne un rapporteur parmi les
+membres de la commission ou, si l'un d'entre eux renonce à participer à tous les
+stades de la procédure aux travaux de la commission sur les griefs notifiés,
+parmi leurs suppléants. Le président en informe la personne mise en cause et le
+représentant du collège prévu à l'article L. 612-38 selon les modalités prévues
+au I de l'article R. 612-9.
+
+Le fait pour le rapporteur d'être exclu du délibéré, conformément aux
+dispositions de l'article L. 612-38 du code monétaire et financier, ne constitue
+pas, en tant que tel, un motif rendant nécessaire la désignation d'un suppléant.
+
+Selon les modalités prévues au I de l'article R. 612-9, le rapporteur précise à
+la personne mise en cause le délai dont elle dispose, qui ne peut être inférieur
+à trente jours francs à compter de la réception de la notification des griefs,
+pour transmettre au président de la commission des sanctions ses observations
+écrites sur ces griefs.
+
+Il procède à toute diligence utile et peut en particulier entendre toute
+personne dont l'audition lui paraît nécessaire. Ses convocations sont adressées
+selon les modalités prévues au I de l'article R. 612-9. La personne mise en
+cause peut être entendue à sa demande par le rapporteur.
+
+Il communique les pièces du dossier aux parties, notamment au représentant du
+collège mentionné à l'article L. 612-38.
+
+S'il estime que les griefs doivent être complétés ou sont susceptibles d'être
+notifiés à une ou plusieurs personnes autres que celles mises en cause, le
+rapporteur saisit le collège. Le collège statue sur cette demande du rapporteur
+dans les conditions et formes prévues aux articles L. 612-12, L. 612-13 et L.
+612-38.
+
+En cas de notification complémentaire de griefs, la personne mise en cause
+dispose d'un délai minimal de trente jours francs pour présenter ses
+observations en réponse.
+
+II.-Le rapporteur transmet son rapport écrit à la personne mise en cause et au
+représentant du collège mentionné à l'article L. 612-38 selon les modalités
+prévues au I de l'article R. 612-9.
