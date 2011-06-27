@@ -1,9 +1,13 @@
 Article R331-9-3
 ----
-Lorsque le jugement est susceptible d'appel, celui-ci est formé, instruit et
-jugé selon les règles de la procédure sans représentation obligatoire prévue aux
-articles 931 à 949 du code de procédure civile . Un sursis à exécution peut être
-demandé au premier président de la cour d'appel dans les conditions prévues à l'
-article 31 du décret n° 92-755 du 31 juillet 1992 instituant de nouvelles règles
-relatives aux procédures civiles d'exécution pour l'application de la loi n°
-91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution.
+Lorsque le jugement est susceptible d'appel, le délai d'appel est de quinze
+jours. Celui-ci est formé, instruit et jugé selon les règles de la procédure
+sans représentation obligatoire prévue aux articles 931 à 949 du code de
+procédure civile.
+
+En cas d'appel, un sursis à exécution peut être demandé au premier président de
+la cour d'appel par assignation en référé. Jusqu'au jour du prononcé de
+l'ordonnance par le premier président, la demande suspend les effets de la
+décision du juge, à l'exception de celle prévoyant la suspension d'une mesure
+d'expulsion. Le sursis à exécution n'est accordé que si l'exécution immédiate de
+la décision risque d'avoir des conséquences manifestement excessives.

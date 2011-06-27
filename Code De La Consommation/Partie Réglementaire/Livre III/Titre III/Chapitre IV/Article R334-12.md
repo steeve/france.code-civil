@@ -1,6 +1,6 @@
 Article R334-12
 ----
-Lorsque le juge de l'exécution confère force exécutoire aux mesures
+Lorsque le juge du tribunal d'instance confère force exécutoire aux mesures
 recommandées, celles-ci sont annexées à la décision.
 
 Le greffe établit autant de copies exécutoires de l'ordonnance qui homologue les

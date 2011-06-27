@@ -14,4 +14,4 @@ cette déclaration indique les nom, prénoms et adresse de son auteur, la décis
 attaquée ainsi que les motifs du recours, et est signée par ce dernier.
 
 Lorsque la commission est destinataire d'un recours, son secrétariat le
-transmet, avec le dossier, au greffe du juge de l'exécution.
+transmet, avec le dossier, au greffe du tribunal d'instance.

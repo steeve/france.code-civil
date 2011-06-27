@@ -1,8 +1,8 @@
 Article R334-38
 ----
 A défaut de déclaration dans le délai mentionné à l'article R. 334-36, les
-créanciers peuvent saisir le juge de l'exécution d'une demande de relevé de
-forclusion dans le délai de six mois à compter de la publicité du jugement
+créanciers peuvent saisir le juge du tribunal d'instance d'une demande de relevé
+de forclusion dans le délai de six mois à compter de la publicité du jugement
 d'ouverture faite dans les conditions prévues à l'article R. 334-34. La lettre
 de saisine comporte les mentions prévues à l'article R. 334-37.
 

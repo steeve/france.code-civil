@@ -21,4 +21,4 @@ La décision de recevabilité est également notifiée à la caisse d'allocation
 familiales dont relève le débiteur.
 
 Lorsque la commission est destinataire d'un recours, son secrétariat le
-transmet, avec le dossier, au greffe du juge de l'exécution.
+transmet, avec le dossier, au greffe du tribunal d'instance.

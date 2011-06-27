@@ -2,8 +2,8 @@ Article R334-23
 ----
 Sans préjudice de la notification de l'ordonnance conférant force exécutoire à
 la recommandation, un avis de celle-ci est adressé pour publication au Bulletin
-officiel des annonces civiles et commerciales par le greffe du juge de
-l'exécution. Cette publication comporte les nom et prénoms du débiteur, sa date
+officiel des annonces civiles et commerciales par le greffe du tribunal
+d'instance. Cette publication comporte les nom et prénoms du débiteur, sa date
 de naissance, le numéro du département de sa résidence, la date de l'ordonnance
 et l'indication du tribunal qui l'a rendue. Elle est effectuée dans un délai de
 quinze jours à compter de la date de l'ordonnance.

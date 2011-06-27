@@ -16,7 +16,7 @@ alinéa de l'article L. 332-2 ; elle indique, selon les cas, que la contestation
 déclaration remise ou adressée par lettre recommandée avec demande d'avis de
 réception à son secrétariat et que la contestation à l'encontre des mesures
 recommandées est formée par déclaration remise ou adressée par lettre
-recommandée avec demande d'avis de réception au greffe du juge de l'exécution ;
+recommandée avec demande d'avis de réception au greffe du tribunal d'instance ;
 elle précise que ces déclarations indiquent les nom, prénoms et adresse de leur
 auteur, les mesures contestées ainsi que les motifs de la contestation, et sont
 signées par ce dernier.

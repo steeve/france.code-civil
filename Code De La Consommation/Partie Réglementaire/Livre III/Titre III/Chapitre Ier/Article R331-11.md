@@ -13,7 +13,7 @@ personnel avec liquidation judiciaire, sans pouvoir excéder un an. Elle
 reproduit les dispositions des deuxième et troisième alinéas de l'article L.
 331-3-1.
 
-La commission ou le greffe du juge de l'exécution, selon le cas, notifie la
+La commission ou le greffe du tribunal d'instance, selon le cas, notifie la
 décision de recevabilité par lettre recommandée avec demande d'avis de
 réception, ou remise contre récépissé, aux agents chargés de l'exécution et, le
 cas échéant, au greffier en chef du tribunal d'instance en charge de la

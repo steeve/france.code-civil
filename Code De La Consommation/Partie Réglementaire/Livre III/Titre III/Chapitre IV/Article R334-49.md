@@ -1,9 +1,9 @@
 Article R334-49
 ----
-Le juge de l'exécution, à la demande du liquidateur, détermine la mise à prix du
-bien à vendre, les conditions essentielles de la vente et les modalités de
-visite.A la demande du liquidateur ou de l'une des parties, il peut aménager,
-restreindre ou compléter les mesures de publicité de la vente dans les
+Le juge du tribunal d'instance, à la demande du liquidateur, détermine la mise à
+prix du bien à vendre, les conditions essentielles de la vente et les modalités
+de visite. A la demande du liquidateur ou de l'une des parties, il peut
+aménager, restreindre ou compléter les mesures de publicité de la vente dans les
 conditions des articles 70 et 71 du décret n° 2006-936 du 27 juillet 2006
 relatif aux procédures de saisie immobilière et de distribution du prix d'un
 immeuble.

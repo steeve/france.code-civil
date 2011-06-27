@@ -1,8 +1,8 @@
 Article R334-52
 ----
 Lorsqu'une procédure de saisie immobilière, suspendue par l'effet du jugement
-d'ouverture, est reprise par le liquidateur, le juge de l'exécution, à la
-demande du liquidateur, fixe ou modifie, s'il y a lieu, la mise à prix, les
+d'ouverture, est reprise par le liquidateur, le juge du tribunal d'instance, à
+la demande du liquidateur, fixe ou modifie, s'il y a lieu, la mise à prix, les
 conditions essentielles de la vente, les modalités de visite et statue, à la
 demande du liquidateur ou d'une des parties, sur les mesures de publicité de la
 vente dans les conditions des articles 70 et 71 du décret n° 2006-936 du 27

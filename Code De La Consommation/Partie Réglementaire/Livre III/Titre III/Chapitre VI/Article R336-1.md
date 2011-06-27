@@ -16,12 +16,12 @@ références au trésorier-payeur général de Mayotte ;
 3° Les références au tribunal d'instance sont remplacées par les références au
 tribunal de première instance ;
 
-4° Les références au " juge de l'exécution " sont remplacées par les références
-au " président du tribunal de première instance ou le juge délégué par lui ",
-les références au " juge " sont remplacées par les références au " président du
-tribunal de première instance ou le juge délégué par lui " et les références au
-" premier président de la cour d'appel " sont remplacées par les références au "
-président de la chambre d'appel de Mamoudzou " ;
+4° Les références au " juge du tribunal d'instance " sont remplacées par les
+références au " président du tribunal de première instance ou le juge délégué
+par lui ", les références au " juge " sont remplacées par les références au "
+président du tribunal de première instance ou le juge délégué par lui " et les
+références au " premier président de la cour d'appel " sont remplacées par les
+références au " président de la chambre d'appel de Mamoudzou " ;
 
 5° Les mots : " Bulletin officiel des annonces civiles et commerciales " sont
 remplacés par les mots : " Bulletin officiel de Mayotte " ;

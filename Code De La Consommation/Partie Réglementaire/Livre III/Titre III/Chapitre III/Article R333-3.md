@@ -20,20 +20,20 @@ ce dernier.
 
 Si la commission fait droit à la demande du débiteur, cette lettre indique que
 la recommandation aux fins de rétablissement personnel sans liquidation
-judiciaire ou la saisine du juge de l'exécution aux fins d'ouverture d'une
-procédure de rétablissement personnel avec liquidation judiciaire emportent
-suspension et interdiction des procédures d'exécution diligentées à l'encontre
-des biens du débiteur ainsi que des cessions de rémunération qu'il a consenties
-et portant sur les dettes autres qu'alimentaires. Elle précise que cette
-suspension et cette interdiction sont acquises jusqu'à l'homologation par le
-juge de la recommandation ou jusqu'au jugement d'ouverture de la procédure de
+judiciaire ou la saisine du juge du tribunal d'instance aux fins d'ouverture
+d'une procédure de rétablissement personnel avec liquidation judiciaire
+emportent suspension et interdiction des procédures d'exécution diligentées à
+l'encontre des biens du débiteur ainsi que des cessions de rémunération qu'il a
+consenties et portant sur les dettes autres qu'alimentaires. Elle précise que
+cette suspension et cette interdiction sont acquises jusqu'à l'homologation par
+le juge de la recommandation ou jusqu'au jugement d'ouverture de la procédure de
 rétablissement personnel avec liquidation judiciaire, sans pouvoir excéder un
 an. La recommandation aux fins de rétablissement personnel sans liquidation
-judiciaire ou la saisine du juge de l'exécution aux fins d'ouverture d'une
-procédure de rétablissement personnel avec liquidation judiciaire est notifiée
-par lettre recommandée avec demande d'avis de réception, ou remise contre
-récépissé, aux agents chargés de l'exécution et, le cas échéant, au greffier en
-chef du tribunal d'instance en charge de la procédure de saisie des
+judiciaire ou la saisine du juge du tribunal d'instance aux fins d'ouverture
+d'une procédure de rétablissement personnel avec liquidation judiciaire est
+notifiée par lettre recommandée avec demande d'avis de réception, ou remise
+contre récépissé, aux agents chargés de l'exécution et, le cas échéant, au
+greffier en chef du tribunal d'instance en charge de la procédure de saisie des
 rémunérations ou de la cession des rémunérations, qui en informe le tiers saisi
 ou le cessionnaire.
 
@@ -45,8 +45,8 @@ de rétablissement personnel avec liquidation judiciaire, l'article R. 334-30 es
 applicable.
 
 La suspension des mesures d'expulsion du logement du débiteur est demandée par
-la commission au juge de l'exécution et traitée dans les conditions prévues par
-l'article R. 331-12.
+la commission au juge du tribunal d'instance et traitée dans les conditions
+prévues par l'article R. 331-12.
 
 Si la commission ne fait pas droit à la demande, elle informe le débiteur que le
 plan conventionnel ou les mesures imposées ou recommandées en cours se

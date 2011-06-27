@@ -14,9 +14,9 @@ II.-Lorsqu'un mandataire a été désigné, une copie du jugement lui est adress
 par le greffe par lettre simple.
 
 III.-Si le mandataire refuse la mission ou s'il existe un empêchement légitime,
-il est pourvu à son remplacement par ordonnance du juge de l'exécution. Le juge
-peut également, à la demande des parties ou d'office, remplacer, par ordonnance,
-le mandataire qui manquerait à ses devoirs, après avoir provoqué ses
+il est pourvu à son remplacement par ordonnance du juge du tribunal d'instance.
+Le juge peut également, à la demande des parties ou d'office, remplacer, par
+ordonnance, le mandataire qui manquerait à ses devoirs, après avoir provoqué ses
 explications.
 
 IV.-Le mandataire est rémunéré selon un tarif fixé par arrêté du garde des
