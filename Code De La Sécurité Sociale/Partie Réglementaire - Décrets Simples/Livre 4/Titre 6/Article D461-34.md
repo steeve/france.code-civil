@@ -9,8 +9,8 @@ pièces mentionnées aux 2° et 3° de ce même article.
 
 Les enquêtes mentionnées au 4° de l'article D. 461-29 comprennent les enquêtes
 administratives effectuées par l'organisme ou l'administration gestionnaire et,
-le cas échéant, celles qui ont été menées par son comité d'hygiène et de
-sécurité.
+le cas échéant, celles qui ont été menées par son comité d'hygiène, de sécurité
+et des conditions de travail.
 
 Le rapport mentionné au 5° de l'article D. 461-29 est établi par le service du
 contrôle médical de l'organisme ou administration titulaire de l'autorisation de
