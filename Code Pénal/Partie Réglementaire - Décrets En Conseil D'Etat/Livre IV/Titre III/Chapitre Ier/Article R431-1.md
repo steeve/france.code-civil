@@ -18,5 +18,6 @@ chaque annonce ou sommation peut être remplacée ou complétée par le lancemen
 d'une fusée rouge.
 
 Toutefois, si, pour disperser l'attroupement par la force, il doit être fait
-usage des armes, la dernière sommation ou, le cas échéant, le lancement de fusée
-qui la remplace ou la complète doivent être réitérés.
+usage des armes mentionnées au IV de l'article R. 431-3, la dernière sommation
+ou, le cas échéant, le lancement de fusée qui la remplace ou la complète doivent
+être réitérés.
