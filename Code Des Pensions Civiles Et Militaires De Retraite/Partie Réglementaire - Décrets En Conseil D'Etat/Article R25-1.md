@@ -6,18 +6,18 @@ accomplis.
 
 La bonification est diminuée :
 
-De quatre trimestres pour les militaires radiés des cadres au plus tôt à compter
-du jour de leur cinquante-huitième anniversaire et au plus tard à compter de la
-veille de leur cinquante-neuvième anniversaire.
+1° De quatre trimestres pour les militaires radiés des cadres au plus tôt à
+compter du jour de leur soixantième anniversaire et au plus tard à compter de la
+veille de leur soixante et unième anniversaire ;
 
-De huit trimestres pour les militaires radiés des cadres au plus tôt à compter
-du jour de leur cinquante-neuvième anniversaire et au plus tard la veille de
-leur soixantième anniversaire.
+2° De huit trimestres pour les militaires radiés des cadres au plus tôt à
+compter du jour de leur soixante et unième anniversaire et au plus tard la
+veille de leur soixante-deuxième anniversaire ;
 
-De douze trimestres pour les militaires radiés des cadres à compter du jour de
-leur soixantième anniversaire ou, en cas de radiation par limite d'âge, du
-lendemain de ce jour.
+3° De douze trimestres pour les militaires radiés des cadres à compter du jour
+de leur soixante-deuxième anniversaire ou, en cas de radiation par limite d'âge,
+du lendemain de ce jour.
 
-En cas de radiation des cadres prononcée après le jour du soixantième
+En cas de radiation des cadres prononcée après le jour du soixante-deuxième
 anniversaire ou en cas de radiation des cadres par limite d'âge après le
 lendemain de cette date, aucune bonification n'est accordée.
