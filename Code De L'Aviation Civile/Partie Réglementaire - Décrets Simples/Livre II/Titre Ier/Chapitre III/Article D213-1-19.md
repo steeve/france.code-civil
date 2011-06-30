@@ -4,7 +4,7 @@ L'exploitant d'aérodrome :
 
 a) Organise l'exécution des mesures de prévention du péril animalier, qu'il peut
 confier, par voie de convention, au service départemental d'incendie et de
-secours, à l'autorité militaire ou à un organisme agréé ;
+secours, à l'autorité militaire ou à tout autre organisme ;
 
 b) Etablit les consignes d'intervention relatives à la prévention du péril
 animalier applicables sur l'aérodrome et en garantit le respect ;
