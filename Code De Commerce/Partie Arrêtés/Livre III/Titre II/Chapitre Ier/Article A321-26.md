@@ -11,16 +11,16 @@ droits acquis obtenus par le demandeur donnant accès à l'activité de ventes
 volontaires de meubles aux enchères publiques ;
 
 3° Pour les titulaires d'un diplôme, certificat ou titre délivré par un pays
-tiers et reconnu par un Etat membre de la Communauté européenne ou partie à
-l'accord sur l'Espace économique européen, une attestation émanant de l'autorité
+tiers et reconnu par un Etat membre de l'Union européenne ou partie à l'accord
+sur l'Espace économique européen, une attestation émanant de l'autorité
 compétente de cet Etat membre ou partie, certifiant de la durée de l'exercice
 professionnel sur son territoire et des dates correspondantes ;
 
-4° Une attestation de l'autorité compétente justifiant que le requérant a exercé
-à temps plein, au cours des dix dernières années, l'activité de ventes
-volontaires de meubles aux enchères publiques, et précisant les dates de cet
-exercice, si ni l'accès à cette activité ou son exercice, ni la formation y
-conduisant ne sont réglementés dans son Etat d'origine ;
+4° La preuve par tout moyen que le requérant a exercé à temps plein, au cours
+des dix dernières années, l'activité de ventes volontaires de meubles aux
+enchères publiques, et précisant les dates de cet exercice, si ni l'accès à
+cette activité ou son exercice, ni la formation y conduisant ne sont réglementés
+dans son Etat d'origine ;
 
 5° Tout document en original ou en copie permettant d'apprécier si le demandeur
 remplit les conditions prévues à l'article R. 321-65 du code de commerce ainsi
@@ -40,9 +40,9 @@ l'objet de telles condamnations ou sanctions.
 
 Le cas échéant, les pièces justificatives, sauf celles relatives à l'identité et
 à la nationalité du demandeur, doivent être accompagnées de leur traduction en
-langue française.A l'exception des documents mentionnés au 1° et au 5°, cette
+langue française. A l'exception des documents mentionnés au 1° et au 5°, cette
 traduction est effectuée par un traducteur inscrit sur la liste nationale des
 experts judiciaires ou sur l'une des listes d'experts judiciaires dressées par
 les cours d'appel ou par un traducteur habilité à intervenir auprès des
-autorités judiciaires ou administratives d'un autre Etat membre de la Communauté
+autorités judiciaires ou administratives d'un autre Etat membre de l'Union
 européenne ou d'un Etat partie à l'accord sur l'Espace économique européen.
