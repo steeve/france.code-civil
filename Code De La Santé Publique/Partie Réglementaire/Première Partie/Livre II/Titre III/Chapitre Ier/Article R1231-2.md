@@ -13,8 +13,6 @@ receveur hospitalisé dans un établissement de santé, le donneur saisit soit l
 tribunal de grande instance dans le ressort duquel il demeure soit le tribunal
 de grande instance dans le ressort duquel est situé cet établissement.
 
-Lorsque le donneur demeure en Nouvelle-Calédonie, en Polynésie française, à
-Mayotte, à Wallis et Futuna, dans les Terres australes et antarctiques
-françaises ou à l'étranger, le tribunal de grande instance territorialement
-compétent est celui dans le ressort duquel est situé l'établissement de santé où
-le prélèvement est envisagé.
+Lorsque le donneur demeure à l'étranger, le tribunal de grande instance
+territorialement compétent est celui dans le ressort duquel est situé
+l'établissement de santé où le prélèvement est envisagé.
