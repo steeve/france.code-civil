@@ -1,29 +1,33 @@
 Article L3844-1
 ----
-Les dispositions du titre Ier du livre II de la présente partie sont applicables
-en Nouvelle-Calédonie et en Polynésie française, sous réserve des adaptations
+Le titre Ier du livre II de la présente partie est applicable en
+Nouvelle-Calédonie et en Polynésie française, sous réserve des adaptations
 suivantes :
 
 1° La référence au représentant de l'Etat dans le département est remplacée par
 la référence au haut-commissaire de la République ;
 
-2° Les références au tribunal d'instance et au tribunal de grande instance sont
-remplacées par la référence au tribunal de première instance ;
+2° Les références au tribunal de grande instance sont remplacées par la
+référence au tribunal de première instance ;
 
-3° Le second alinéa de l'article L. 3211-1 est remplacé par les dispositions
-suivantes :
+3° Au second alinéa de l'article L. 3211-1, les mots : ", publique ou privée, "
+et les mots : " tant à l'intérieur qu'à l'extérieur du secteur psychiatrique
+correspondant à son lieu de résidence " sont supprimés ;
 
-Toute personne hospitalisée ou sa famille dispose du droit de s'adresser au
-praticien ou à l'équipe de santé mentale de son choix » ;
+4° Aux 1° et 2° de l'article L. 3211-2-1, les mots : " mentionné à l'article L.
+3222-1 " et les mots : " mentionné au même article L. 3222-1 " sont
+respectivement remplacés par les mots : " habilité à soigner les personnes
+atteintes de troubles mentaux conformément à la réglementation applicable
+localement " ;
 
-4° Au 1° de l'article L. 3211-3 :
+5° Le 1° de l'article L. 3211-3 est ainsi modifié :
 
 a) Pour son application en Polynésie française, les mots : " les autorités
 mentionnées à l'article L. 3222-4 " sont remplacés par les mots : " le
 représentant de l'Etat, le procureur de la République près le tribunal de
 première instance, le président du gouvernement de la Polynésie française, le
-vice-président du gouvernement, le ministre en charge de la santé et le maire de
-la commune " ;
+vice-président du gouvernement, le ministre chargé de la santé et le maire de la
+commune " ;
 
 b) Pour son application en Nouvelle-Calédonie, les mots : " les autorités
 mentionnées à l'article L. 3222-4 " sont remplacés par les mots : " le
@@ -33,103 +37,78 @@ vice-président du gouvernement, le membre du gouvernement chargé d'animer et d
 contrôler le secteur de l'administration hospitalière et le maire de la commune
 " ;
 
-5° A l'article L. 3211-6, les mots : " dans l'un des établissements mentionnés
-aux articles L. 3222-1 et L. 3222-2 " sont remplacés par les mots : " dans un
-établissement de santé " ;
+6° Au 2° du même article L. 3211-3, les mots : " et, lorsqu'elle est
+hospitalisée, la commission mentionnée à l'article L. 1112-3 " sont supprimés ;
 
-6° Aux articles L. 3211-8 et L. 3211-9, les mots : " des établissements
-mentionnés au chapitre II du titre II du présent livre " et " des établissements
-mentionnés à l'article L. 3222-1 " sont remplacés par les mots : " établissement
-habilité à soigner les personnes atteintes de troubles mentaux, conformément à
-la réglementation applicable localement " ;
+7° Au dernier alinéa des articles L. 3211-2-1 et L. 3211-9, au 2° et à
+l'avant-dernier alinéa du II de l'article L. 3211-12, au dernier alinéa des I et
+IV de l'article L. 3211-12-1, à l'article L. 3211-13, au deuxième alinéa du 1°
+du II de l'article L. 3212-1, à l'article L. 3212-12, à la première phrase du
+deuxième alinéa du I et au 2° du III de l'article L. 3213-1, au 2° et, deux
+fois, au dernier alinéa de l'article L. 3213-8, à l'article L. 3213-11, à la
+seconde phrase du dernier alinéa de l'article L. 3214-2 et à l'article L.
+3214-5, les mots : " en Conseil d'Etat " sont supprimés ;
 
-7° A l'article L. 3211-11, les mots : " mentionnés à l'article L. 6121-2 " sont
-supprimés ;
+8° Au premier alinéa du I et à la dernière phrase du dernier alinéa du 1° du II
+de l'article L. 3212-1, les mots : " mentionné à l'article L. 3222-1 " sont
+remplacés par les mots : " habilité à soigner les personnes atteintes de
+troubles mentaux conformément à la réglementation applicable localement " ;
 
-8° Aux articles L. 3211-13, L. 3212-12 et L. 3213-10, les mots : " en Conseil
-d'Etat " sont supprimés ;
+9° A la première phrase du I de l'article L. 3212-5, à la première phrase du
+dernier alinéa de l'article L. 3212-7, au 1° de l'article L. 3212-9, à la
+première phrase du II de l'article L. 3213-3, au troisième alinéa de l'article
+L. 3213-4 et au 3° de l'article L. 3213-9, les mots : " commission
+départementale des soins psychiatriques " sont remplacés par le mot : "
+commission " ;
 
-9° Au dernier alinéa de l'article L. 3212-1, les mots : " établissements
-mentionnés à l'article L. 3222-1 " sont remplacés par les mots : "
-établissements habilités à soigner les personnes atteintes de troubles mentaux,
-conformément à la réglementation applicable localement " ;
+10° A l'avant-dernier alinéa de l'article L. 3212-11, les mots : " en
+application des articles L. 3222-4 et L. 3223-1 " sont remplacés par les mots :
+" conformément à la réglementation applicable localement " ;
 
-10° A l'article L. 3212-4, les mots : " qui ne peut en aucun cas être un des
-médecins mentionnés au dernier alinéa de l'article L. 3212-1 " sont supprimés ;
+11° Le I de l'article L. 3213-1 est ainsi modifié :
 
-11° Au dernier alinéa de l'article L. 3212-8, les mots : " établissements
-mentionnés à l'article L. 3222-1 " sont remplacés par les mots : "
-établissements habilités à soigner les personnes atteintes de troubles mentaux,
-conformément à la réglementation applicable localement " ;
+a) A l'avant-dernière phrase du premier alinéa, les mots : " arrêtés
+préfectoraux " sont remplacés par les mots : " arrêtés du haut-commissaire de la
+République " ;
 
-12° Le premier alinéa de l'article L. 3212-9 est remplacé par les dispositions
-suivantes :
+b) Au troisième alinéa, les mots : " commission départementale des soins
+psychiatriques " sont remplacés par le mot : " commission " ;
 
-Une personne hospitalisée à la demande d'un tiers, dans un établissement
-habilité à soigner les personnes atteintes de troubles mentaux, conformément à
-la réglementation applicable localement, cesse également d'être retenue dès que
-la levée de l'hospitalisation est requise par : » ;
+12° A la seconde phrase du premier alinéa de l'article L. 3213-5-1, les mots :
+", après avis du directeur général de l'agence régionale de santé de la région
+dans laquelle est situé l'établissement " sont supprimés ;
 
-13° Au onzième alinéa de l'article L. 3212-11, les mots : " en application des
-articles L. 3222-4 et L. 3223-1 " sont remplacés par les mots : " conformément à
-la réglementation applicable localement, " ;
+13° L'article L. 3214-1 est ainsi rédigé :
 
-14° Le premier alinéa de l'article L. 3213-1 est remplacé par les dispositions
-suivantes :
+" Art. L. 3214-1.-I.-Les personnes détenues ne peuvent faire l'objet de soins
+psychiatriques que sous la forme d'une hospitalisation complète.
 
-Le haut-commissaire de la République prononce par arrêté, au vu d'un certificat
-médical circonstancié l'hospitalisation d'office des personnes dont les troubles
-mentaux nécessitent des soins et compromettent la sûreté des personnes ou
-portent atteinte de façon grave à l'ordre public. Le certificat médical
-circonstancié ne peut émaner d'un psychiatre exerçant dans l'établissement
-accueillant le malade. Les arrêtés du haut-commissaire sont motivés et énoncent
-avec précision les circonstances qui ont rendu l'hospitalisation nécessaire. » ;
+" II.-L'hospitalisation d'une personne détenue atteinte de troubles mentaux est
+réalisée dans un établissement de santé au sein d'une structure adaptée ou, sur
+la base d'un certificat médical, dans une unité pour malades difficiles
+mentionnée à l'article L. 3222-3.
 
-15° L'article L. 3213-2 est ainsi modifié :
+" Toutefois, lorsque leur intérêt le justifie, les personnes mineures détenues
+peuvent être admises dans un établissement habilité à soigner les personnes
+atteintes de troubles mentaux conformément à la réglementation applicable
+localement en dehors des structures ou des unités prévues au premier alinéa du
+présent II. " ;
 
-a) Les mots : " et, à Paris, les commissaires de police " sont supprimés ;
-
-b) Le mot : " arrêtent " est remplacé par le mot : " arrête " ;
-
-16° Au premier alinéa de l'article L. 3213-8 :
-
-a) Entre les mots : " deux psychiatres " et les mots : " n'appartenant pas "
-sont insérés les mots : " dont un " ;
-
-b) Les mots : " direction des affaires sanitaires et sociales du département
-dans lequel est situé l'établissement " sont respectivement remplacés par les
-mots : " direction de la santé de Polynésie française " et par les mots : "
-direction des affaires sanitaires et sociales de Nouvelle-Calédonie " ;
-
-17° L'article L. 3214-1 est remplacé par les dispositions suivantes :
-
-Art.L. 3214-1.-L'hospitalisation sans son consentement d'une personne détenue
-atteinte de troubles mentaux est réalisée dans un établissement de santé, au
-sein d'une structure adaptée. » ;
-
-18° Aux articles L. 3214-2 et L. 3214-5, les mots : " en Conseil d'Etat " sont
-supprimés ;
-
-19° L'article L. 3214-3 est ainsi modifié :
+14° L'article L. 3214-3 est ainsi modifié :
 
 a) Au premier alinéa, les mots : " le préfet de police à Paris ou le
-représentant de l'Etat du département dans lequel se trouve l'établissement
+représentant de l'Etat dans le département dans lequel se trouve l'établissement
 pénitentiaire d'affectation du détenu " sont remplacés par les mots : " le
-haut-commissaire de la République " et les mots : " une unité spécialement
-aménagée " sont remplacés par les mots : " une structure adaptée " ;
+haut-commissaire de la République " ;
 
-b) Au troisième alinéa, les mots : " Les arrêtés préfectoraux " sont remplacés
-par les mots : " Les arrêtés du haut-commissaire de la République " ;
+b) A la première phrase du dernier alinéa, les mots : " arrêtés préfectoraux "
+sont remplacés par les mots : " arrêtés du haut-commissaire de la République " ;
 
-c) Au quatrième alinéa, les mots : " ou, à Paris, au préfet de police, " sont
-supprimés ;
+15° Les articles L. 3215-1, L. 3215-2 et L. 3215-4 sont ainsi modifiés :
 
-20° Les articles L. 3215-1, L. 3215-2, L. 3215-3 et L. 3215-4 sont ainsi
-modifiés :
-
-a) Les mots : ", ou leur équivalent en monnaie locale " sont insérés après les
-mots : " 3 750 euros " ;
+a) Après le mot : " amende ", sont insérés les mots : ", ou leur équivalent en
+monnaie locale " ;
 
 b) Les mots : " établissement mentionné à l'article L. 3222-1 " sont remplacés
 par les mots : " établissement habilité à soigner les personnes atteintes de
-troubles mentaux, conformément à la réglementation applicable localement, ".
+troubles mentaux conformément à la réglementation applicable localement ".

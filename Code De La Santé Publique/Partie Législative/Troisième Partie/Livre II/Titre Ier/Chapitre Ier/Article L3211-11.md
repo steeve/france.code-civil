@@ -1,23 +1,14 @@
 Article L3211-11
 ----
-Afin de favoriser leur guérison, leur réadaptation ou leur réinsertion sociale,
-les personnes qui ont fait l'objet d'une hospitalisation sur demande d'un tiers
-ou d'une hospitalisation d'office peuvent bénéficier d'aménagements de leurs
-conditions de traitement sous forme de sorties d'essai, éventuellement au sein
-d'équipements et services ne comportant pas d'hospitalisation à temps complet.
+Le psychiatre qui participe à la prise en charge du patient peut proposer à tout
+moment de modifier la forme de la prise en charge mentionnée à l'article L.
+3211-2-1 pour tenir compte de l'évolution de l'état de la personne. Il établit
+en ce sens un certificat médical circonstancié.
 
-La sortie d'essai comporte une surveillance médicale. Sa durée ne peut dépasser
-trois mois ; elle est renouvelable. Le suivi de la sortie d'essai est assuré par
-le secteur psychiatrique compétent.
-
-La sortie d'essai, son renouvellement éventuel ou sa cessation sont décidés :
-
-1° Dans le cas d'une hospitalisation sur demande d'un tiers, par un psychiatre
-de l'établissement d'accueil ; le bulletin de sortie d'essai est mentionné par
-le directeur de l'établissement et transmis sans délai au représentant de l'Etat
-dans le département ; le tiers ayant fait la demande d'hospitalisation est
-informé ;
-
-2° Dans le cas d'une hospitalisation d'office, par le représentant de l'Etat
-dans le département, sur proposition écrite et motivée d'un psychiatre de
-l'établissement d'accueil.
+Le psychiatre qui participe à la prise en charge du patient transmet
+immédiatement au directeur de l'établissement d'accueil un certificat médical
+circonstancié proposant une hospitalisation complète lorsqu'il constate que la
+prise en charge de la personne décidée sous une autre forme ne permet plus,
+notamment du fait du comportement de la personne, de dispenser les soins
+nécessaires à son état. Lorsqu'il ne peut être procédé à l'examen du patient, il
+transmet un avis établi sur la base du dossier médical de la personne.

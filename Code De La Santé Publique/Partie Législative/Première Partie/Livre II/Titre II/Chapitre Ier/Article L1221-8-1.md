@@ -24,7 +24,9 @@ des fins de constitution d'une collection d'échantillons biologiques humains,
 sur des femmes enceintes, des parturientes ou des mères qui allaitent, sur des
 mineurs ou des majeurs faisant l'objet d'une mesure de protection légale ou hors
 d'état d'exprimer leur consentement, sur des personnes privées de liberté, des
-personnes hospitalisées sans leur consentement, des personnes admises dans un
+personnes faisant l'objet de soins psychiatriques en application des chapitres
+II à IV du titre Ier du livre II de la troisième partie du présent code ou de
+l'article 706-135 du code de procédure pénale, des personnes admises dans un
 établissement sanitaire ou social à d'autres fins que la recherche, le comité
 mentionné au troisième alinéa de l'article L. 1243-3 s'assure, en outre, que la
 collection est destinée à des recherches qui ne pourraient pas être effectuées

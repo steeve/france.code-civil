@@ -10,9 +10,9 @@ Haute Autorité de santé et" ne sont pas applicables ;
 2° Le dernier alinéa de l'article L. 1111-5 n'est pas applicable ;
 
 3° Au deuxième alinéa de l'article L. 1111-7, les mots : "ou lorsque la
-commission départementale des hospitalisations psychiatriques est saisie en
-application du quatrième alinéa" ainsi que le quatrième alinéa de ce même
-article ne sont pas applicables ;
+commission départementale des soins psychiatriques est saisie en application du
+quatrième alinéa" ainsi que le quatrième alinéa de ce même article ne sont pas
+applicables ;
 
 4° La dernière phrase du troisième alinéa de l'article L. 1111-8 n'est pas
 applicable ;

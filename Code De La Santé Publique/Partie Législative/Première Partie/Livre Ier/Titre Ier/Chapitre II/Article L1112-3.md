@@ -13,10 +13,15 @@ puissent, le cas échéant, exprimer leurs griefs auprès des responsables de
 l'établissement, entendre les explications de ceux-ci et être informées des
 suites de leurs demandes.
 
-Elle est consultée sur la politique menée dans l'établissement en ce qui
+Lorsqu'elle est saisie par une personne faisant l'objet de soins psychiatriques
+en application des articles L. 3212-1 ou L. 3213-1, la commission peut confier
+l'instruction de la demande à la commission prévue à l'article L. 3222-5.
+
+La commission des relations avec les usagers et de la qualité de la prise en
+charge est consultée sur la politique menée dans l'établissement en ce qui
 concerne l'accueil et la prise en charge, elle fait des propositions en ce
 domaine et elle est informée de l'ensemble des plaintes ou réclamations formées
-par les usagers de l'établissement ainsi que des suites qui leur sont données.A
+par les usagers de l'établissement ainsi que des suites qui leur sont données. A
 cette fin, elle peut avoir accès aux données médicales relatives à ces plaintes
 ou réclamations, sous réserve de l'obtention préalable de l'accord écrit de la
 personne concernée ou de ses ayants droit si elle est décédée. Les membres de la

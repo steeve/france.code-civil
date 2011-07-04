@@ -1,15 +1,25 @@
 Article L3213-4
 ----
-Dans les trois jours précédant l'expiration du premier mois d'hospitalisation,
-le représentant de l'Etat dans le département peut prononcer, après avis motivé
-d'un psychiatre, le maintien de l'hospitalisation d'office pour une nouvelle
-durée de trois mois. Au-delà de cette durée, l'hospitalisation peut être
-maintenue par le représentant de l'Etat dans le département pour des périodes de
-six mois maximum renouvelables selon les mêmes modalités.
+Dans les trois derniers jours du premier mois suivant la décision d'admission en
+soins psychiatriques mentionnée au I de l'article L. 3213-1 ou, le cas échéant,
+suivant la mesure provisoire prévue à l'article L. 3213-2, le représentant de
+l'Etat dans le département peut prononcer, au vu du certificat médical ou de
+l'avis médical mentionné à l'article L. 3213-3, le maintien de la mesure de
+soins pour une nouvelle durée de trois mois. Il se prononce, le cas échéant, sur
+la forme de la prise en charge du patient dans les conditions prévues au même
+article L. 3213-3. Au-delà de cette durée, la mesure de soins peut être
+maintenue par le représentant de l'Etat dans le département pour des périodes
+maximales de six mois renouvelables selon les mêmes modalités.
 
 Faute de décision du représentant de l'Etat à l'issue de chacun des délais
-prévus à l'alinéa précédent, la mainlevée de l'hospitalisation est acquise.
+prévus au premier alinéa, la levée de la mesure de soins est acquise.
 
-Sans préjudice des dispositions qui précèdent, le représentant de l'Etat dans le
-département peut à tout moment mettre fin à l'hospitalisation après avis d'un
-psychiatre ou sur proposition de la commission mentionnée à l'article L. 3222-5.
+En outre, le représentant de l'Etat dans le département peut à tout moment
+mettre fin à la mesure de soins prise en application de l'article L. 3213-1
+après avis d'un psychiatre participant à la prise en charge du patient attestant
+que les conditions ayant justifié la mesure de soins en application du même
+article L. 3213-1 ne sont plus réunies, ou sur proposition de la commission
+départementale des soins psychiatriques mentionnée à l'article L. 3222-5.
+
+Le présent article n'est pas applicable aux personnes mentionnées à l'article L.
+3213-8.

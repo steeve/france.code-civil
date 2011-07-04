@@ -1,37 +1,26 @@
 Article L3212-9
 ----
-Une personne hospitalisée à la demande d'un tiers dans un établissement
-mentionné à l'article L. 3222-1 cesse également d'y être retenue dès que la
-levée de l'hospitalisation est requise par :
+Le directeur de l'établissement prononce la levée de la mesure de soins
+psychiatriques lorsque celle-ci est demandée :
 
-1° Le curateur nommé en application de l'article L. 3211-9 ;
+1° Par la commission départementale des soins psychiatriques mentionnée à
+l'article L. 3222-5 ;
 
-2° Le conjoint ou la personne justifiant qu'elle vit en concubinage avec le
-malade ;
+2° Par une des personnes mentionnées au deuxième alinéa du 2° du II de l'article
+L. 3212-1.
 
-3° S'il n'y a pas de conjoint, les ascendants ;
+Dans le cas mentionné au 2° du présent article, le directeur de l'établissement
+n'est pas tenu de faire droit à cette demande lorsqu'un certificat médical ou,
+en cas d'impossibilité d'examiner le patient, un avis médical établi par un
+psychiatre de l'établissement et datant de moins de vingt-quatre heures atteste
+que l'arrêt des soins entraînerait un péril imminent pour la santé du patient.
+Le directeur de l'établissement informe alors par écrit le demandeur de son
+refus en lui indiquant les voies de recours prévues à l'article L. 3211-12.
 
-4° S'il n'y a pas d'ascendants, les descendants majeurs ;
-
-5° La personne qui a signé la demande d'admission, à moins qu'un parent,
-jusqu'au sixième degré inclus, n'ait déclaré s'opposer à ce qu'elle use de cette
-faculté sans l'assentiment du conseil de famille ;
-
-6° Une personne autorisée à cette fin par le conseil de famille ;
-
-7° La commission mentionnée à l'article L. 3222-5.
-
-S'il résulte d'une opposition notifiée au chef de l'établissement par un ayant
-droit qu'il y a dissentiment soit entre les ascendants, soit entre les
-descendants, le conseil de famille se prononce dans un délai d'un mois.
-
-Néanmoins, si le médecin de l'établissement est d'avis que l'état du malade
-nécessite des soins en raison de troubles mentaux qui compromettent la sûreté
-des personnes ou portent atteinte, de façon grave, à l'ordre public, sans
-préjudice des dispositions des articles L. 3213-1 et L. 3213-6, il en est donné
-préalablement et aussitôt connaissance au représentant de l'Etat dans le
-département, qui peut ordonner immédiatement un sursis provisoire et, le cas
-échéant, une hospitalisation d'office conformément aux dispositions de l'article
-L. 3213-1. Ce sursis provisoire cesse de plein droit à l'expiration de la
-quinzaine si le représentant de l'Etat dans le département n'a pas, dans ce
-délai, prononcé une hospitalisation d'office.
+Dans ce même cas, lorsqu'un certificat établi par un psychiatre de
+l'établissement datant de moins de vingt-quatre heures atteste que l'état mental
+du patient nécessite des soins et compromet la sûreté des personnes ou porte
+atteinte, de façon grave, à l'ordre public, le directeur de l'établissement
+informe préalablement à la levée de la mesure de soins le représentant de l'Etat
+dans le département ou, à Paris, le préfet de police, qui peut prendre la mesure
+prévue à l'article L. 3213-6.

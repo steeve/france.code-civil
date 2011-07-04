@@ -15,8 +15,8 @@ le représentant de l'Etat dans le département ;
 département.
 
 En cas d'impossibilité de désigner un ou plusieurs membres de la commission
-mentionnée dans le présent article, des personnalités des autres départements de
-la région ou des départements limitrophes peuvent être nommées.
+mentionnée dans le présent article, des personnalités d'autres départements
+peuvent être nommées.
 
 Seul l'un des deux psychiatres mentionnés au 1° peut exercer dans un
 établissement mentionné à l'article L. 3222-1.

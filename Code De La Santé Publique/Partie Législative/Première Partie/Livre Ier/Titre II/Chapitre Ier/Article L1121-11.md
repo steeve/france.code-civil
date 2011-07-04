@@ -10,8 +10,10 @@ ministre chargé de la santé.
 Le versement d'une telle indemnité est interdit dans le cas des recherches
 biomédicales effectuées sur des mineurs, des personnes qui font l'objet d'une
 mesure de protection légale, des personnes majeures hors d'état d'exprimer leur
-consentement, des personnes privées de liberté, des personnes hospitalisées sans
-leur consentement et des personnes admises dans un établissement sanitaire et
+consentement, des personnes privées de liberté, des personnes faisant l'objet de
+soins psychiatriques en application des chapitres II à IV du titre Ier du livre
+II de la troisième partie du présent code ou de l'article 706-135 du code de
+procédure pénale et des personnes admises dans un établissement sanitaire et
 social à d'autres fins que la recherche.
 
 Les personnes susceptibles de se prêter à des recherches biomédicales
@@ -28,7 +30,7 @@ Lorsque les recherches biomédicales concernent le domaine de l'odontologie, les
 résultats de cet examen leur sont communiqués directement ou par l'intermédiaire
 du médecin ou du chirurgien-dentiste de leur choix.
 
-Par dérogation au troisième alinéa, les recherches biomédicales autres que
+Par dérogation à l'alinéa précédent, les recherches biomédicales autres que
 celles portant sur des produits mentionnés à l'article L. 5311-1 et figurant sur
 une liste fixée par décret en Conseil d'Etat, qui ne comportent que des risques
 négligeables et n'ont aucune influence sur la prise en charge médicale de la

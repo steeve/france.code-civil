@@ -40,8 +40,8 @@ l'article L. 6431-9 ;
 13° La référence à tout établissement ou secteur social ou médico-social n'est
 pas applicable ;
 
-14° La référence à une commission départementale des hospitalisations
-psychiatriques n'est pas applicable ;
+14° La référence à une commission départementale des soins psychiatriques n'est
+pas applicable ;
 
 15° La mention du tribunal de première instance se substitue à la mention du
 tribunal de grande instance.

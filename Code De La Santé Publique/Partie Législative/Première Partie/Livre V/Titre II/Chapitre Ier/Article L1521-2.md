@@ -9,9 +9,8 @@ applicables ;
 2° Le dernier alinéa de l'article L. 1111-5 n'est pas applicable ;
 
 3° A l'article L. 1111-7, au deuxième alinéa, les mots : " ou lorsque la
-commission départementale des hospitalisations psychiatriques est saisie en
-application du quatrième alinéa " ainsi que le quatrième alinéa ne sont pas
-applicables ;
+commission départementale des soins psychiatriques est saisie en application du
+quatrième alinéa " ainsi que le quatrième alinéa ne sont pas applicables ;
 
 4° A l'article L. 1111-8-1, les mots : " Il est également utilisé pour
 l'ouverture et la tenue du dossier médical personnel institué par l'article L.

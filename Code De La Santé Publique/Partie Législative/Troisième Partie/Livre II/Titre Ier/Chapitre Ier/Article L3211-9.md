@@ -1,19 +1,16 @@
 Article L3211-9
 ----
-Sur la demande de l'intéressé, de son conjoint, de l'un de ses parents ou d'une
-personne agissant dans l'intérêt du malade, ou à l'initiative du procureur de la
-République du lieu du traitement, le tribunal peut nommer en chambre du conseil,
-par jugement exécutoire malgré appel, un curateur à la personne du malade
-n'ayant pas fait l'objet d'une mesure de protection et hospitalisé sans son
-consentement dans un des établissements mentionnés à l'article L. 3222-1.
+Pour l'application du II des articles L. 3211-12 et L. 3211-12-1 et des articles
+L. 3212-7, L. 3213-1, L. 3213-3 et L. 3213-8, le directeur de l'établissement
+d'accueil du patient convoque un collège composé de trois membres appartenant au
+personnel de l'établissement :
 
-Ce curateur veille :
+1° Un psychiatre participant à la prise en charge du patient ;
 
-1° A ce que les revenus disponibles du malade soient employés à adoucir son
-sort, à accélérer sa guérison et à favoriser sa réinsertion ;
+2° Un psychiatre ne participant pas à la prise en charge du patient ;
 
-2° A ce que ce malade soit rendu au libre exercice de la totalité de ses droits
-aussitôt que son état le permettra.
+3° Un représentant de l'équipe pluridisciplinaire participant à la prise en
+charge du patient.
 
-Hormis le conjoint, ce curateur ne peut pas être choisi parmi les héritiers
-présomptifs de la personne hospitalisée.
+Les modalités de désignation des membres et les règles de fonctionnement du
+collège sont fixées par décret en Conseil d'Etat.
