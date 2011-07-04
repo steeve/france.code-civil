@@ -2,14 +2,15 @@ Article R*119-1
 ----
 Sont soumis aux dispositions du présent chapitre les équipements routiers
 définis à l'article R.* 111-1 qui ont une incidence sur la sécurité des usagers
-de la route.
+de la route ou qui participent à l'interopérabilité des systèmes de télépéage.
 
-Lorsque ces équipements sont soumis à l'obligation de marquage CE en application
-des dispositions du décret n° 92-647 du 8 juillet 1992 concernant l'aptitude à
-l'usage des produits de construction, ils sont placés sous le régime de
-l'évaluation et de l'attestation de conformité défini à la sous-section 1 de la
-section 2 du présent chapitre et sont soumis aux règles de mise en service
-fixées à l'article R.* 119-7.
+I. - Pour les équipements des quatre premières catégories définis à l'article R.
+* 111-1, lorsque ces équipements sont soumis à l'obligation de marquage CE en
+application des dispositions du décret n° 92-647 du 8 juillet 1992 concernant
+l'aptitude à l'usage des produits de construction, ils sont placés sous le
+régime de l'évaluation et de l'attestation de conformité défini à la
+sous-section 1 de la section 2 du présent chapitre et sont soumis aux règles de
+mise en service fixées à l'article R.* 119-7.
 
 Lorsqu'ils ne sont pas soumis à cette obligation, que ce soit à titre permanent
 ou à titre transitoire, ils sont placés sous le régime de l'évaluation et de
@@ -26,3 +27,8 @@ l'article R.* 111-1 contiennent des composants relevant du décret n° 2001-387 
 3 mai 2001 relatif au contrôle des instruments de mesure, les exigences
 techniques et les procédures applicables à ces composants sont celles fixées par
 ce décret et par les arrêtés pris en application de son article 3.
+
+II. - Les équipements de la cinquième catégorie définie à l'article R. * 111-1
+sont soumis à l'obligation de marquage CE en application de l'article L. 119-4.
+Ces équipements sont placés sous le régime de l'évaluation et de l'attestation
+de conformité défini à la sous-section 1 de la section 2 du présent chapitre.
