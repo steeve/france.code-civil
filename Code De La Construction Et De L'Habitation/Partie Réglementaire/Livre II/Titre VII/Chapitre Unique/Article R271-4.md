@@ -5,9 +5,9 @@ fait :
 
 a) D'établir ou d'accepter d'établir un document devant être établi dans les
 conditions de l'article L. 271-6, et de ne pas respecter les conditions de
-compétences, d'organisation et d'assurance définies par les articles R. 271-1 et
-R. 271-2 et les conditions d'impartialité et d'indépendance exigées à l'article
-L. 271-6 ;
+compétences, d'organisation et d'assurance définies par les articles R. 271-1,
+R. 271-2 et R. 134-5-6 et les conditions d'impartialité et d'indépendance
+exigées à l'article L. 271-6 ;
 
 b) Pour un organisme certificateur d'établir un document devant être établi dans
 les conditions prévues à l'article L. 271-6, en méconnaissance de l'article R.
