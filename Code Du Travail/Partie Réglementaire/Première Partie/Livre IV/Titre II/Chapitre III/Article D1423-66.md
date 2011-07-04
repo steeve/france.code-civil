@@ -8,7 +8,7 @@ ci-après :
 
 OBJET DE LA RÉDACTION
 
-NOMBRE D'HEURES indemnisables
+NOMBRE D'HEURES INDEMNISABLES
 
 
 Procès-verbal de conciliation
@@ -21,14 +21,14 @@ Jugement
 5 heures
 
 
-Ordonnance de référé
+Ordonnance
 
 1 heure
 
-Lorsque le conseiller consacre à la rédaction d'un jugement ou d'une ordonnance
-de référé un temps supérieur à ces durées, il en réfère au président du bureau
-de jugement ou de la formation de référé qui saisit sans délai, par requête
-motivée, le président du conseil de prud'hommes.
+Lorsque le conseiller consacre à la rédaction d'un jugement, d'un procès-verbal
+de conciliation ou d'une ordonnance un temps supérieur à ces durées, il en
+réfère au président du bureau de jugement ou de la formation de référé qui
+saisit sans délai, par requête motivée, le président du conseil de prud'hommes.
 
 Le président du conseil décide de la durée de rédaction dans les huit jours de
 sa saisine, au vu du dossier et de la copie de la minute après avis du
