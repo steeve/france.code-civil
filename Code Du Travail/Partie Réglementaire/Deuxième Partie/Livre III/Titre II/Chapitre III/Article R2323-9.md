@@ -82,14 +82,20 @@ d'exécution des actions prévues au titre de l'année écoulée.
 a) Analyse des données chiffrées par catégorie professionnelle de la situation
 respective des femmes et des hommes en matière d'embauche, de formation, de
 promotion professionnelle, de qualification, de classification, de conditions de
-travail et de rémunération effective ;
+travail, de rémunération effective et d'articulation entre l'activité
+professionnelle et l'exercice de la responsabilité familiale ;
 
-b) Mesures prises au cours de l'année écoulée en vue d'assurer l'égalité
-professionnelle ;
+b) Plan d'action : - mesures prises au cours de l'année écoulée en vue d'assurer
+l'égalité professionnelle. Bilan des actions de l'année écoulée et, le cas
+échéant, de l'année précédente lorsqu'un plan d'actions a été antérieurement mis
+en œuvre par l'entreprise par accord collectif ou de manière unilatérale.
+Evaluation du niveau de réalisation des objectifs sur la base des indicateurs
+retenus. Explications sur les actions prévues non réalisées ;
 
-c) Objectifs et actions pour l'année à venir ;
-
-d) Explications sur les actions prévues non réalisées.
+- objectifs de progression pour l'année à venir et indicateurs associés.
+Définition qualitative et quantitative des mesures permettant de les atteindre
+conformément à l'article R. 2242-2. Evaluation de leur coût. Echéancier des
+mesures prévues
 
 5° Travailleurs handicapés.
 
