@@ -1,6 +1,9 @@
 Article L1131-2
 ----
-Le ministre chargé de la santé peut, par arrêté, soumettre à des bonnes
-pratiques ainsi qu'à des règles techniques et sanitaires la prescription et la
-réalisation de l'examen des caractéristiques génétiques d'une personne à des
-fins médicales et, le cas échéant, les modalités de son suivi médical.
+Un arrêté du ministre chargé de la santé, pris sur proposition de l'Agence de la
+biomédecine et de la Haute Autorité de santé, définit les règles de bonnes
+pratiques applicables à la prescription et la réalisation de l'examen des
+caractéristiques génétiques d'une personne et de son identification par
+empreintes génétiques à des fins médicales. Cet arrêté définit également les
+règles de bonnes pratiques applicables, le cas échéant, au suivi médical de la
+personne.

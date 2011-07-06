@@ -7,11 +7,10 @@ déterminées par décret en Conseil d'Etat et notamment :
 prénatal et les conditions de création et d'autorisation des centres
 pluridisciplinaires de diagnostic prénatal prévus à l'article L. 2131-1 ;
 
-2° La nature des analyses de cytogénétique et de biologie en vue d'établir un
-diagnostic prénatal et les conditions dans lesquelles elles peuvent être
-pratiquées dans les établissements publics de santé et les laboratoires de
-biologie médicale autorisés ;
+2° La nature des examens de biologie médicale destinés à établir un diagnostic
+prénatal et les conditions dans lesquelles ils peuvent être pratiquées dans les
+établissements publics de santé et les laboratoires de biologie médicale
+autorisés ;
 
-3° Les conditions dans lesquelles le diagnostic biologique effectué à partir de
-cellules prélevées sur l'embryon in vitro peut être réalisé dans un
-établissement spécifiquement autorisé à cet effet.
+3° Les conditions dans lesquelles le diagnostic préimplantatoire peut être
+réalisé dans un établissement spécifiquement autorisé à cet effet.

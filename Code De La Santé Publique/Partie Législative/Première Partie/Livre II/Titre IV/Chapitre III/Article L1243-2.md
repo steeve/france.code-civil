@@ -15,7 +15,8 @@ l'organisme autorisé doit faire l'objet d'une nouvelle autorisation. Les autres
 modifications sont soumises à une déclaration auprès du directeur général de
 l'Agence française de sécurité sanitaire des produits de santé.
 
-Par dérogation aux dispositions du premier alinéa, les établissements de santé
-autorisés à prélever des cellules hématopoïétiques issues de la moelle osseuse
-peuvent distribuer des cellules hématopoïétiques issues de la moelle osseuse non
-transformées en vue d'une greffe immédiate.
+Seules peuvent être préparées, conservées, distribuées ou cédées les cellules du
+sang de cordon et du sang placentaire ainsi que les cellules du cordon et du
+placenta prélevées dans les conditions mentionnées au dernier alinéa de
+l'article L. 1241-1. Chacun de ces établissements consacre une part de son
+stockage au don dédié mentionné à ce même dernier alinéa.

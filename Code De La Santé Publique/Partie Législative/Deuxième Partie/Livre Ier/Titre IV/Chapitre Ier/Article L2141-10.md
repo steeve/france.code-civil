@@ -44,7 +44,7 @@ médecin, après concertation au sein de l'équipe clinicobiologique
 pluridisciplinaire, estime qu'un délai de réflexion supplémentaire est
 nécessaire aux demandeurs dans l'intérêt de l'enfant à naître.
 
-Les époux ou les concubins qui, pour procréer, recourent à une assistance
-médicale nécessitant l'intervention d'un tiers donneur doivent préalablement
-donner, dans les conditions prévues par le code civil, leur consentement au juge
-ou au notaire.
+Les époux, les partenaires liés par un pacte civil de solidarité ou les
+concubins qui, pour procréer, recourent à une assistance médicale nécessitant
+l'intervention d'un tiers donneur doivent préalablement donner, dans les
+conditions prévues par le code civil, leur consentement au juge ou au notaire.

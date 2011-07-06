@@ -21,11 +21,22 @@ informations concernant sa santé, qu'il détient ;
 
 6° Le cas échéant, l'interdiction de participer simultanément à une autre
 recherche ou la période d'exclusion prévues par le protocole et son inscription
-dans le fichier national prévu à l'article L. 1121-16. ;
+dans le fichier national prévu à l'article L. 1121-16.
 
 Il informe la personne dont le consentement est sollicité de son droit de
 refuser de participer à une recherche ou de retirer son consentement à tout
 moment sans encourir aucune responsabilité ni aucun préjudice de ce fait.
+
+Lorsque la recherche biomédicale concerne le domaine de la maïeutique et répond
+aux conditions fixées au dernier alinéa de l'article L. 1121-5, l'investigateur
+peut confier à une sage-femme ou à un médecin le soin de communiquer à la
+personne qui se prête à cette recherche les informations susvisées et de
+recueillir son consentement.
+
+Lorsque la recherche biomédicale concerne le domaine de l'odontologie,
+l'investigateur peut confier à un chirurgien-dentiste ou à un médecin le soin de
+communiquer à la personne qui se prête à cette recherche les informations
+susvisées et de recueillir son consentement.
 
 L'objectif d'une recherche en psychologie, ainsi que sa méthodologie et sa
 durée, peuvent ne faire l'objet que d'une information préalable succincte dès

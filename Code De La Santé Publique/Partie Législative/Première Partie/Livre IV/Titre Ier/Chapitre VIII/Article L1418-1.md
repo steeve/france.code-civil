@@ -26,7 +26,12 @@ organismes relevant de ses domaines de compétence ; elle évalue notamment les
 conséquences éventuelles de l'assistance médicale à la procréation sur la santé
 des personnes qui y ont recours et sur celle des enfants qui en sont issus ;
 elle met également en oeuvre, dans ce domaine, un dispositif de vigilance en
-matière d'activités cliniques et biologiques ;
+matière d'activités cliniques et biologiques. Elle prévoit la publication
+régulière des résultats de chaque centre d'assistance médicale à la procréation
+selon une méthodologie prenant en compte notamment les caractéristiques de leur
+patientèle et en particulier l'âge des femmes ; au vu de ces données, elle
+diligente des missions d'appui et de conseil dans certains centres, voire
+propose des recommandations d'indicateurs chiffrés à certains centres ;
 
 5° De promouvoir le don d'organes, de tissus et de cellules issus du corps
 humain, ainsi que le don de gamètes ;
@@ -36,20 +41,22 @@ d'ovocytes, afin d'évaluer les conséquences du prélèvement sur la santé des
 donneurs ;
 
 7° D'enregistrer l'inscription des patients en attente de greffe sur la liste
-mentionnée à l'article L. 1251-1, d'assurer la gestion de celle-ci et
-l'attribution des greffons, qu'ils aient été prélevés en France ou hors du
-territoire national, ainsi que d'élaborer les règles de répartition et
-d'attribution des greffons en tenant compte du caractère d'urgence que peuvent
-revêtir certaines indications, lesquelles règles sont approuvées par arrêté du
-ministre chargé de la santé ;
+mentionnée à l'article L. 1251-1, d'assurer la gestion de celle-ci et de celle
+du registre des paires associant donneurs vivants et receveurs potentiels ayant
+consenti à un don croisé d'organes ainsi que l'attribution des greffons, qu'ils
+aient été prélevés en France ou hors du territoire national, ainsi que
+d'élaborer les règles de répartition et d'attribution des greffons en tenant
+compte du caractère d'urgence que peuvent revêtir certaines indications,
+lesquelles règles sont approuvées par arrêté du ministre chargé de la santé ;
 
 8° De gérer le fichier des donneurs volontaires de cellules hématopoïétiques ou
 de cellules mononucléées périphériques pour les malades qui ne peuvent recevoir
 une greffe apparentée ; elle assure, en outre, l'interrogation des registres
 internationaux et organise la mise à disposition des greffons ;
 
-9° De recueillir, conserver et transmettre les informations mentionnées au
-quatrième alinéa de l'article L. 1131-1 ;
+9° De mettre à disposition du public une information sur l'utilisation des tests
+génétiques en accès libre et d'élaborer un référentiel permettant d'en évaluer
+la qualité ;
 
 10° De délivrer les autorisations prévues :
 
@@ -58,24 +65,23 @@ a) Aux articles L. 2141-9 et L. 2141-11-1 ;
 b) Aux articles L. 2131-4-1, L. 2151-5 à L. 2151-7 et au dernier alinéa des
 articles L. 2131-1 et L. 2131-4 ;
 
-11° D'agréer les praticiens mentionnés aux articles L. 1131-3, L. 2131-4-2 et L.
-2142-1-1 ;
+11° D'agréer les praticiens mentionnés aux articles L. 1131-3 et L. 2131-4-2 ;
 
 12° De délivrer des avis aux autorités administratives pour les activités
-relevant de sa compétence.
+relevant de sa compétence ;
+
+13° D'assurer une information permanente du Parlement et du Gouvernement sur le
+développement des connaissances et des techniques dans le domaine des
+neurosciences.
 
 Elle peut être saisie par les académies ou les sociétés savantes médicales ou
 scientifiques, par les associations mentionnées à l'article L. 1114-1, dans des
 conditions définies par décret, et par les commissions chargées des affaires
 sociales de l'Assemblée nationale et du Sénat.
 
-L'agence établit un rapport annuel d'activité qu'elle adresse au Parlement, au
-Gouvernement et au Comité consultatif national d'éthique pour les sciences de la
-vie et de la santé. Ce rapport, qui comporte notamment une analyse des
-autorisations et agréments accordés au titre des 10° et 11° ainsi que les avis
-du conseil d'orientation, une évaluation de l'état d'avancement des recherches
-sur l'embryon et les cellules souches, un état des lieux d'éventuels trafics
-d'organes ou de gamètes et de mesures de lutte contre ces trafics et une
-évaluation des conditions de mise en oeuvre ainsi que l'examen de l'opportunité
-de maintenir les dispositions prévues par l'article L. 2131-4-1, est rendu
-public.
+Le directeur général et le président du conseil d'orientation de l'Agence de la
+biomédecine peuvent demander à être entendus par l'Office parlementaire
+d'évaluation des choix scientifiques et technologiques si le développement des
+connaissances et des techniques dans les activités relevant de la compétence de
+l'agence ou dans le domaine des neurosciences est susceptible de poser des
+problèmes éthiques nouveaux.

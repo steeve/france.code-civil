@@ -5,7 +5,8 @@ d'un bon niveau de santé, chaque bénéficiaire de l'assurance maladie dispose,
 dans les conditions et sous les garanties prévues à l'article L. 1111-8 et dans
 le respect du secret médical, d'un dossier médical personnel constitué de
 l'ensemble des données mentionnées à l'article L. 1111-8, notamment des
-informations qui permettent le suivi des actes et prestations de soins. Le
+informations qui permettent le suivi des actes et prestations de soins et
+comportant la mention : "a été informé de la loi sur le don d'organes". Le
 dossier médical personnel comporte également un volet spécialement destiné à la
 prévention.
 

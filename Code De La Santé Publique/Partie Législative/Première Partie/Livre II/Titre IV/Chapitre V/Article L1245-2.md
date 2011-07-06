@@ -2,9 +2,10 @@ Article L1245-2
 ----
 Les tissus, les cellules et les produits du corps humain, prélevés à l'occasion
 d'une intervention chirurgicale pratiquée dans l'intérêt de la personne opérée,
-ainsi que le placenta peuvent être utilisés à des fins thérapeutiques ou
-scientifiques, sauf opposition exprimée par elle après qu'elle a été informée
-des finalités de cette utilisation.
+à l'exception des cellules du sang de cordon et du sang placentaire ainsi que
+des cellules du cordon et du placenta, peuvent être utilisés à des fins
+thérapeutiques ou scientifiques, sauf opposition exprimée par elle après qu'elle
+a été informée des finalités de cette utilisation.
 
 Lorsque cette personne est un mineur ou un majeur sous tutelle, l'utilisation
 ultérieure des éléments ou des produits ainsi prélevés est subordonnée à

@@ -1,13 +1,16 @@
 Article L2131-4
 ----
-Le diagnostic biologique effectué à partir de cellules prélevées sur l'embryon
-in vitro n'est autorisé qu'à titre exceptionnel dans les conditions suivantes :
+On entend par diagnostic préimplantatoire le diagnostic biologique réalisé à
+partir de cellules prélevées sur l'embryon in vitro.
 
-Un médecin exerçant son activité dans un centre de diagnostic prénatal
-pluridisciplinaire tel que défini par l'article L. 2131-1 doit attester que le
-couple, du fait de sa situation familiale, a une forte probabilité de donner
-naissance à un enfant atteint d'une maladie génétique d'une particulière gravité
-reconnue comme incurable au moment du diagnostic.
+Le diagnostic préimplantatoire n'est autorisé qu'à titre exceptionnel dans les
+conditions suivantes :
+
+Un médecin exerçant son activité dans un centre pluridisciplinaire de diagnostic
+prénatal tel que défini par l'article L. 2131-1 doit attester que le couple, du
+fait de sa situation familiale, a une forte probabilité de donner naissance à un
+enfant atteint d'une maladie génétique d'une particulière gravité reconnue comme
+incurable au moment du diagnostic.
 
 Le diagnostic ne peut être effectué que lorsqu'a été préalablement et
 précisément identifiée, chez l'un des parents ou l'un de ses ascendants
@@ -31,6 +34,6 @@ s'ils confirment leur intention de ne pas poursuivre leur projet parental en ce
 qui concerne cet embryon, peuvent consentir à ce que celui-ci fasse l'objet
 d'une recherche dans les conditions prévues à l'article L. 2151-5. Par
 dérogation au deuxième alinéa de l'article L. 1111-2 et à l'article L. 1111-7,
-seul le médecin prescripteur des analyses de cytogénétique et de biologie en vue
-d'établir un diagnostic prénatal est habilité à en communiquer les résultats à
-la femme enceinte.
+seul le médecin prescripteur des examens de biologie médicale destinés à établir
+un diagnostic prénatal est habilité à en communiquer les résultats à la femme
+enceinte.

@@ -8,7 +8,10 @@ des risques portant atteinte à l'intégrité physique de la personne ou des
 risques d'incapacité de travail ou d'invalidité. Toutefois, ces discriminations
 sont punies des peines prévues à l'article précédent lorsqu'elles se fondent sur
 la prise en compte de tests génétiques prédictifs ayant pour objet une maladie
-qui n'est pas encore déclarée ou une prédisposition génétique à une maladie ;
+qui n'est pas encore déclarée ou une prédisposition génétique à une maladie ou
+qu'elles se fondent sur la prise en compte des conséquences sur l'état de santé
+d'un prélèvement d'organe tel que défini à l'article L. 1231-1 du code de la
+santé publique ;
 
 2° Aux discriminations fondées sur l'état de santé ou le handicap, lorsqu'elles
 consistent en un refus d'embauche ou un licenciement fondé sur l'inaptitude

@@ -10,7 +10,7 @@ en Nouvelle-Calédonie et en Polynésie française, à l'exception de l'article 
 représentant légal doit être établi dans la Communauté européenne. ” ne sont pas
 applicables ;
 
-b) Le sixième alinéa de l'article L. 1121-3 est remplacé par les dispositions
+b) Le septième alinéa de l'article L. 1121-3 est remplacé par les dispositions
 suivantes :
 
 Par dérogation aux dispositions du deuxième alinéa, les recherches biomédicales,
@@ -26,7 +26,7 @@ française ;
 2° Ne comporter que des risques négligeables et n'avoir aucune influence sur la
 prise en charge médicale de la personne qui s'y prête.
 
-c) Le quatrième alinéa de l'article L. 1121-11 est remplacé par les dispositions
+c) Le sixième alinéa de l'article L. 1121-11 est remplacé par les dispositions
 suivantes :
 
 Par dérogation aux dispositions du deuxième alinéa, les recherches biomédicales,

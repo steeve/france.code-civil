@@ -15,7 +15,12 @@ avec l'investigateur, peut exercer la direction de la recherche.
 
 Les recherches biomédicales concernant le domaine de l'odontologie ne peuvent
 être effectuées que sous la direction et la surveillance d'un
-chirurgien-dentiste et d'un médecin justifiant d'une expérience appropriée.
+chirurgien-dentiste ou d'un médecin justifiant d'une expérience appropriée.
+
+Les recherches biomédicales concernant le domaine de la maïeutique et conformes
+aux dispositions du dernier alinéa de l'article L. 1121-5 ne peuvent être
+effectuées que sous la direction et la surveillance d'un médecin ou d'une
+sage-femme.
 
 Par dérogation au deuxième alinéa, les recherches biomédicales autres que celles
 portant sur des produits mentionnés à l'article L. 5311-1 et figurant sur une

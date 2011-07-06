@@ -11,9 +11,7 @@ organismes et les laboratoires mentionnés aux premier, deuxième et troisième
 alinéas de l'article L. 2142-1 pour être autorisés à exercer des activités
 d'assistance médicale à la procréation ;
 
-3° Les conditions de formation et d'expérience requises des praticiens pour
-qu'ils soient agréés pour pratiquer des activités d'assistance médicale à la
-procréation ;
+3° (Abrogé)
 
 4° Les conditions d'exercice et d'organisation de l'ensemble des activités
 d'assistance médicale à la procréation définies à l'article L. 2141-1 ;

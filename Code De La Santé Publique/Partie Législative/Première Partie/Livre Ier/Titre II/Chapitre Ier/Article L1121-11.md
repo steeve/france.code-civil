@@ -19,7 +19,16 @@ bénéficient d'un examen médical préalable adapté à la recherche. Les résu
 de cet examen leur sont communiqués directement ou par l'intermédiaire du
 médecin de leur choix.
 
-Par dérogation à l'alinéa précédent, les recherches biomédicales autres que
+Lorsque les recherches biomédicales concernent le domaine de la maïeutique et
+répondent aux conditions fixées au dernier alinéa de l'article L. 1121-5, les
+résultats de cet examen leur sont communiqués directement ou par l'intermédiaire
+du médecin ou de la sage-femme de leur choix.
+
+Lorsque les recherches biomédicales concernent le domaine de l'odontologie, les
+résultats de cet examen leur sont communiqués directement ou par l'intermédiaire
+du médecin ou du chirurgien-dentiste de leur choix.
+
+Par dérogation au troisième alinéa, les recherches biomédicales autres que
 celles portant sur des produits mentionnés à l'article L. 5311-1 et figurant sur
 une liste fixée par décret en Conseil d'Etat, qui ne comportent que des risques
 négligeables et n'ont aucune influence sur la prise en charge médicale de la

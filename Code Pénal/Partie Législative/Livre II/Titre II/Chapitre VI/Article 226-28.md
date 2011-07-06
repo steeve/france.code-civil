@@ -10,6 +10,7 @@ puni d'un an d'emprisonnement ou de 15 000 euros d'amende.
 
 Est puni des mêmes peines le fait de divulguer des informations relatives à
 l'identification d'une personne par ses empreintes génétiques ou de procéder à
-l'identification d'une personne par ses empreintes génétiques sans être
-titulaire de l'agrément prévu à l'article L. 1131-3 du code de la santé
-publique.
+l'examen des caractéristiques génétiques d'une personne ou à l'identification
+d'une personne par ses empreintes génétiques sans être titulaire de l'agrément
+prévu à l'article L. 1131-3 du code de la santé publique et de l'autorisation
+prévue à l'article L. 1131-2-1 du même code.

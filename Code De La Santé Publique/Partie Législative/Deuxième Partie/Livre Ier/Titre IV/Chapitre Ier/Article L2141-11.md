@@ -9,3 +9,7 @@ sa fertilité. Ce recueil et cette conservation sont subordonnés au consentemen
 de l'intéressé et, le cas échéant, de celui de l'un des titulaires de l'autorité
 parentale, ou du tuteur, lorsque l'intéressé, mineur ou majeur, fait l'objet
 d'une mesure de tutelle.
+
+Les procédés biologiques utilisés pour la conservation des gamètes et des tissus
+germinaux sont inclus dans la liste prévue à l'article L. 2141-1, selon les
+conditions déterminées par cet article.

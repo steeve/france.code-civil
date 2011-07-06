@@ -5,12 +5,14 @@ thérapeutiques que dans des établissements de santé autorisés à cet effet p
 l'autorité administrative après avis de l'Agence de la biomédecine.
 
 Les cellules à fins d'administration autologue ou allogénique ne peuvent être
-prélevées que dans des établissements de santé autorisés à cet effet par
-l'autorité administrative après avis de l'Agence de la biomédecine. Ces mêmes
-établissements et les établissements de transfusion sanguine peuvent prélever
-des cellules du sang lorsque celles-ci sont destinées à la préparation des
-produits cellulaires à finalité thérapeutique mentionnés au 5° de l'article L.
-1221-8.
+prélevées que dans des établissements de santé autorisés à cet effet par le
+directeur général de l'agence régionale de santé après avis de l'Agence de la
+biomédecine. Les cellules du sang destinées à la préparation de produits
+cellulaires à finalité thérapeutique mentionnés à l'article L. 1243-1 peuvent
+également être prélevées par l'Etablissement français du sang soit dans ses
+établissements de transfusion sanguine, s'ils ont été autorisés dans les
+conditions applicables aux établissements de santé, soit dans des établissements
+de santé autorisés.
 
 Par dérogation à l'alinéa précédent, peuvent être prélevées à fins
 d'administration autologue dans tous les établissements de santé et par les

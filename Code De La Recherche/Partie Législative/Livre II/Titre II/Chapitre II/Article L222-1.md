@@ -11,4 +11,4 @@ de l'article L. 1221-12 ;
 alinéa de l'article L. 1235-1 et l'article L. 1235-2 ;
 
 3° S'agissant des tissus et cellules, les articles L. 1241-5, L. 1243-3, L.
-1243-4, L. 1245-2 et le huitième alinéa de l'article L. 1245-5.
+1243-4, L. 1245-2 et le septième alinéa de l'article L. 1245-5.

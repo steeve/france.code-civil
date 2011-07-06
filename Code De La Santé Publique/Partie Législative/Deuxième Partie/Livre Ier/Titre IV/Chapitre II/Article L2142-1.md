@@ -23,8 +23,9 @@ code.
 
 Pour être autorisés à exercer ces activités, les établissements, les
 laboratoires et les organismes mentionnés aux premier, deuxième et troisième
-alinéas doivent remplir les conditions déterminées en application des
-dispositions susmentionnées de la partie VI du présent code et des conditions de
+alinéas doivent faire appel à des praticiens en mesure de prouver leur
+compétence et remplir les conditions déterminées en application des dispositions
+susmentionnées de la partie VI du présent code et des conditions de
 fonctionnement déterminées par voie réglementaire.
 
 L'autorisation porte sur une ou plusieurs des activités d'assistance médicale à

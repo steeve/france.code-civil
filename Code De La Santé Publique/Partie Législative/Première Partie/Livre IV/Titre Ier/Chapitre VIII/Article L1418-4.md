@@ -9,7 +9,8 @@ médicale ou scientifique et relevant de la compétence de l'agence. Il définit
 également les critères d'appréciation de la formation et de l'expérience
 nécessaires à l'agrément des praticiens mentionnés au 11° du même article.
 
-Outre son président, le conseil d'orientation comprend à parts égales :
+Outre son président, trois députés et trois sénateurs, le conseil d'orientation
+comprend à parts égales :
 
 1° Des représentants du Parlement, du Conseil d'Etat, de la Cour de cassation,
 du Comité consultatif national d'éthique pour les sciences de la vie et de la

@@ -15,10 +15,13 @@ sensibilisation à la prévention des risques et aux missions des services de
 secours ainsi que d'un apprentissage des gestes élémentaires de premier secours.
 
 A cette occasion sont organisés des tests d'évaluation des apprentissages
-fondamentaux de la langue française. Il est délivré une information sur les
-modalités de consentement au don d'organes à fins de greffe et sur la
-possibilité pour une personne d'inscrire son refus sur le registre national
-automatisé prévu à l'article L. 1232-1 du code de la santé publique.
+fondamentaux de la langue française. Il est délivré une information générale sur
+le don de sang, de plaquettes, de moelle osseuse, de gamètes et sur le don
+d'organes à fins de greffe. S'agissant du don d'organes, une information
+spécifique est dispensée sur la législation en vigueur, sur le consentement
+présumé et sur la possibilité pour une personne d'inscrire son refus sur le
+registre national automatisé prévu à l'article L. 1232-1 du code de la santé
+publique.
 
 En outre, lors de la journée défense et citoyenneté, les Français doivent
 présenter un certificat délivré par un médecin attestant qu'ils ont subi une

@@ -15,3 +15,6 @@ L'exercice de la profession de sage-femme peut comporter également la
 réalisation de consultations de contraception et de suivi gynécologique de
 prévention, sous réserve que la sage-femme adresse la femme à un médecin en cas
 de situation pathologique.
+
+Les sages-femmes sont autorisées à concourir aux activités d'assistance médicale
+à la procréation, dans des conditions fixées par décret.
