@@ -17,7 +17,8 @@ L. 244-5 et L. 252-1 à L. 252-13 ;
 6° Le livre VI, à l'exclusion des articles L. 622-19, L. 625-9 et L. 670-1 à L.
 670-8 ;
 
-7° Les titres Ier à IV du livre VII, à l'exception des articles L. 712-2, L.
-712-4 et de la section 2 du chapitre Ier du titre Ier ;
+7° Les titres Ier à IV du livre VII, à l'exception des articles L. 712-2 et L.
+712-4 et des dispositions relatives aux chambres de commerce et d'industrie de
+région des chapitres Ier, II et III du titre Ier ;
 
 8° Le livre VIII.

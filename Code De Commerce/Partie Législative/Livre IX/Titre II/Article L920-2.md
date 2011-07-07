@@ -7,11 +7,12 @@ ci-après sont remplacés comme suit :
 
 2° Supprimé ;
 
-3° " Conseil des prud'hommes " par " tribunal du travail " ;
+3° "Conseil des prud'hommes" par "tribunal du travail" ;
 
-4° Supprimé ;
+4° "Chambre de commerce et d'industrie territoriale" par "Chambre de commerce et
+d'industrie de Mayotte" ;
 
 5° Supprimé ;
 
-6° " Bureau des hypothèques " par " service de la conservation de la propriété
-immobilière ".
+6° "Bureau des hypothèques" par " service de la conservation de la propriété
+immobilière".
