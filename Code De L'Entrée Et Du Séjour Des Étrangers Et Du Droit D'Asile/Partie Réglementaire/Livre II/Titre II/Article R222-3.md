@@ -1,7 +1,8 @@
 Article R222-3
 ----
 Le juge des libertés et de la détention statue sur la requête de l'autorité
-administrative dans les conditions définies aux articles R. 552-5 à R. 552-10.
+administrative dans les conditions définies aux articles R. 552-5 à R. 552-10
+sous réserve du délai qui lui est imparti pour statuer par l'article L. 222-3.
 Pour l'application de ces dispositions, les références au placement en rétention
 administrative sont remplacées par des références au maintien en zone d'attente
 et la référence à l'article L. 552-12 figurant à l'article R. 552-8 est

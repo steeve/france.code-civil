@@ -21,8 +21,9 @@ décision de rejet de l'Office français de protection des réfugiés et apatrid
 s'est abstenu de contester celle-ci devant la Cour nationale du droit d'asile
 dans le délai fixé à l'article R. 733-9.
 
-Dans cette hypothèse, l'étranger bénéficie du délai de départ volontaire d'un
-mois prévu à l'article L. 742-3 et, si la Cour nationale du droit d'asile est
-saisie au cours de ce délai, il lui est délivré le récépissé mentionné au
-premier alinéa du présent article, renouvelable jusqu'à la notification de la
-décision de cette cour.
+Dans cette hypothèse, l'étranger peut faire l'objet d'une obligation de quitter
+le territoire français. S'il bénéficie d'un délai de départ volontaire en
+application du I de l'article L. 511-1 et s'il saisit la Cour nationale du droit
+d'asile dans un délai d'un mois, il lui est délivré le récépissé mentionné au
+premier alinéa, renouvelable jusqu'à la notification de la décision de cette
+cour.
