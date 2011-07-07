@@ -8,7 +8,7 @@ dispositions suivantes du présent code sont applicables à Mayotte :
 2° Le livre II, à l'exception des articles L. 225-245-1, L. 229-1 à L. 229-15,
 L. 244-5 et L. 252-1 à L. 252-13 ;
 
-3° Le livre III, à l'exception des articles L. 321-1 à L. 321-38 ;
+3° Le livre III ;
 
 4° Le livre IV, à l'exception des articles L. 441-1, L. 442-1 et L. 470-6 ;
 
