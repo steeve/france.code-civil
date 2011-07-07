@@ -1,4 +1,5 @@
 Article R776-10
 ----
-Les parties doivent être averties par tous moyens de la date, de l'heure et du
-lieu de l'audience.
+Les dispositions de la présente section sont applicables aux recours dirigés
+contre les décisions mentionnées à l'article R. 776-1, lorsque l'étranger n'est
+pas placé en rétention ou assigné à résidence.

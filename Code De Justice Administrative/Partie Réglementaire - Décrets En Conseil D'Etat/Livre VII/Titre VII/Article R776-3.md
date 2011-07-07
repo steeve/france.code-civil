@@ -1,13 +1,13 @@
 Article R776-3
 ----
-Le tribunal administratif territorialement compétent est celui dans le ressort
-duquel a son siège le préfet qui a pris la décision.
+Conformément aux dispositions du premier alinéa du I de l'article L. 512-1 du
+code de l'entrée et du séjour des étrangers et du droit d'asile, les
+interdictions de retour sur le territoire français prises en application du
+troisième alinéa du III de l'article L. 511-1 de ce code à l'encontre
+d'étrangers s'étant maintenus sur le territoire français au-delà du délai de
+départ volontaire peuvent faire l'objet d'un recours contentieux dans les trente
+jours de leur notification.
 
-Toutefois, lorsque le recours est formé par un étranger placé dans un centre de
-rétention administrative, le tribunal administratif compétent est celui dans le
-ressort duquel est situé le centre où se trouve le requérant lors de
-l'introduction de sa requête.
-
-Lorsque le président d'un tribunal administratif est saisi de conclusions qu'il
-estime ressortir à la compétence du président d'un autre tribunal administratif,
-il lui transmet le dossier sans délai et par tous moyens.
+Le même délai s'applique pour la contestation des décisions prolongeant les
+interdictions de retour, prises en application du sixième alinéa du III de
+l'article L. 511-1 du même code.

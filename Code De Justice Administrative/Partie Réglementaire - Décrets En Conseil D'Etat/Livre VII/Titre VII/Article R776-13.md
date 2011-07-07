@@ -1,14 +1,11 @@
 Article R776-13
 ----
-Après le rapport fait par le président du tribunal administratif ou son délégué,
-les parties peuvent présenter en personne ou par un avocat des observations
-orales. Elles peuvent également produire des documents à l'appui de leurs
-conclusions. Si ces documents apportent des éléments nouveaux, le magistrat
-demande à l'autre partie de les examiner et de lui faire part à l'audience de
-ses observations.
+L'Etat est représenté en défense par le préfet qui a pris la ou les décisions
+attaquées.
 
-Sans préjudice de l'article R. 776-8, les observations orales peuvent être
-présentées au nom de l'Etat par le préfet du département dans lequel est situé
-le centre de rétention administrative où se trouve l'étranger lors de
-l'introduction de son recours et, si le centre de rétention administrative est
-situé à Paris, par le préfet de police.
+Les délais donnés aux parties pour fournir leurs observations doivent être
+observés, faute de quoi il peut être passé outre sans mise en demeure.
+
+Le tribunal administratif statue dans le délai de trois mois à compter de
+l'enregistrement de la requête prévu au deuxième alinéa du I de l'article L.
+512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile.

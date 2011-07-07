@@ -1,12 +1,21 @@
 Article R776-17
 ----
-Le dispositif du jugement prononcé dans les conditions prévues à l'article R.
-776-14, assorti de la formule exécutoire prévue à l'article R. 751-1, est
-communiqué sur place aux parties présentes à l'audience qui en accusent aussitôt
-réception.
+Lorsque l'étranger est placé en rétention ou assigné à résidence après avoir
+introduit un recours contre la décision portant obligation de quitter le
+territoire ou après avoir déposé une demande d'aide juridictionnelle en vue de
+l'introduction d'un tel recours, la procédure se poursuit selon les règles
+prévues par la présente section. Les actes de procédure précédemment accomplis
+demeurent valables. L'avis d'audience se substitue, le cas échéant, à celui qui
+avait été adressé aux parties en application de l'article R. 776-11.
 
-S'il ne l'a pas été sur place, le jugement est notifié sans délai et par tous
-moyens aux parties qui en accusent réception.
+Toutefois, lorsque le requérant a formé des conclusions contre la décision
+relative au séjour notifiée avec une obligation de quitter le territoire, la
+formation collégiale demeure saisie de ces conclusions, sur lesquelles elle se
+prononce dans les conditions prévues par la section 2.
 
-La notification mentionne la possibilité de faire appel et le délai dans lequel
-cette voie de recours peut être exercée.
+Lorsque le requérant est placé en rétention ou assigné à résidence en dehors du
+ressort du tribunal administratif qu'il a saisi en application des dispositions
+de la section 2, le dossier est transmis au tribunal administratif dans le
+ressort duquel se trouve le lieu de rétention ou d'assignation à résidence.
+Toutefois, le tribunal initialement saisi demeure compétent pour connaître des
+conclusions dirigées contre la décision relative au séjour.

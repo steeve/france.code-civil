@@ -1,5 +1,5 @@
 Article R776-14
 ----
-Le jugement est prononcé à l'audience si l'étranger est retenu, au jour de
-celle-ci, par l'autorité administrative ou s'il l'était lorsqu'il a formé son
-recours.
+La présente section est applicable aux recours dirigés contre les décisions
+mentionnées à l'article R. 776-1, lorsque l'étranger est placé en rétention ou
+assigné à résidence.

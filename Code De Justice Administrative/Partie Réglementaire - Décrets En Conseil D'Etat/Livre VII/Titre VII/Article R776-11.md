@@ -1,6 +1,8 @@
 Article R776-11
 ----
-Dans le cas où l'étranger, qui ne parle pas suffisamment la langue française, le
-demande, le président nomme un interprète qui doit prêter serment d'apporter son
-concours à la justice en son honneur et en sa conscience. Cette demande peut
-être formulée dès le dépôt de la requête introductive d'instance.
+Le président de la formation de jugement ou le rapporteur qui a reçu délégation
+à cet effet peut, dès l'enregistrement de la requête, faire usage du pouvoir
+prévu au premier alinéa de l'article R. 613-1 de fixer la date à laquelle
+l'instruction sera close. Il peut, par la même ordonnance, fixer la date et
+l'heure de l'audience au cours de laquelle l'affaire sera appelée. Dans ce cas,
+l'ordonnance tient lieu de l'avertissement prévu à l'article R. 711-2.
