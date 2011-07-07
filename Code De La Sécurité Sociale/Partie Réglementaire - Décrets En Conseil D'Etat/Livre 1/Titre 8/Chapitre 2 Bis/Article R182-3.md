@@ -18,8 +18,8 @@ masseurs-kinésithérapeutes-rééducateurs ;
 5° Quatre représentants des organisations syndicales représentatives des
 pharmaciens titulaires d'officine ;
 
-6° Un représentant des organisations syndicales représentatives des directeurs
-de laboratoires privés ;
+6° Un représentant des organisations syndicales représentatives des biologistes
+responsables privés ;
 
 7° Deux représentants des organisations syndicales représentatives des
 orthophonistes ;
@@ -39,9 +39,9 @@ audioprothésistes ;
 12° Un représentant des organisations syndicales représentatives des
 transporteurs sanitaires.
 
-Pour l'application du présent chapitre, sont considérées comme représentatives
-les organisations syndicales considérées comme les plus représentatives à
-l'issue de l'enquête mentionnée à l'article L. 162-33 et, pour les professions
+Pour l'application du présent chapitre, la représentativité s'apprécie en
+fonction des résultats des enquêtes de représentativité conduites selon les
+dispositions des articles R. 162-54-1 et R. 162-54-2 et, pour les professions
 pour lesquelles une enquête n'est pas disponible, les organisations
 représentatives ayant conclu ou négocié une convention ou l'accord national
 prévu à l'article L. 165-6 avec l'assurance maladie.

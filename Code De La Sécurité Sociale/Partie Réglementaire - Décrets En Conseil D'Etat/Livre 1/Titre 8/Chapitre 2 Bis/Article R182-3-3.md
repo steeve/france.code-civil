@@ -5,10 +5,9 @@ cinq ans, sur la proposition de l'organisation syndicale qu'ils représentent,
 par arrêté des ministres chargés de la santé et de la sécurité sociale.
 
 Si, au cours de cette période, de nouvelles élections aux unions régionales des
-médecins libéraux ou une nouvelle enquête de représentativité mentionnée à
-l'article L. 162-33 intervient, il est procédé à une nouvelle répartition des
-sièges de la seule profession concernée conformément aux dispositions des
-articles R. 182-3-1 et R. 182-3-2.
+professionnels de santé ou une nouvelle enquête de représentativité intervient,
+il est procédé à une nouvelle répartition des sièges de la seule profession
+concernée conformément aux dispositions des articles R. 182-3-1 et R. 182-3-2.
 
 Toute personne qui perd la qualité en laquelle elle a été nommée cesse d'être
 membre de l'union.

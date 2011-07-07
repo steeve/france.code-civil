@@ -18,7 +18,7 @@ de l'éducation thérapeutique ;
 5° A la mise en œuvre des contrats pluriannuels d'objectifs et de moyens avec
 les réseaux de santé, les centres de santé, les maisons de santé et les pôles de
 santé, ou des contrats ayant pour objet d'améliorer la qualité et la
-coordination des soins mentionnés à l'article L. 4135-4 ;
+coordination des soins mentionnés à l'article L. 1435-4 ;
 
 6° Au déploiement et à l'utilisation des systèmes de communication et
 d'information partagés ;
