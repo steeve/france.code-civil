@@ -10,7 +10,3 @@ les seules mentions suivantes :
 2° Emplacement et description de l'appareil ;
 
 3° Date de la déclaration.
-
-Par dérogation aux dispositions de l'article R. 543-28, les appareils définis au
-présent article portent un étiquetage sur lequel figure la mention : "
-contamination en PCB &lt; 500 ppm ".

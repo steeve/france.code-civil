@@ -1,14 +1,14 @@
 Article R541-45
 ----
-Toute personne qui produit des déchets mentionnés au premier alinéa de l'article
-R. 541-42, tout collecteur de petites quantités de ces déchets, toute personne
-ayant reconditionné ou transformé ces déchets et toute personne détenant des
-déchets dont le producteur n'est pas connu et les remettant à un tiers émet, à
-cette occasion, un bordereau qui accompagne les déchets. Lors de la réception et
-de la réexpédition des déchets, le transporteur et la personne qui reçoit les
-déchets complètent le bordereau. Toute personne qui émet, reçoit ou complète
-l'original ou la copie d'un bordereau en conserve une copie pendant trois ans
-pour les transporteurs, pendant cinq ans dans les autres cas.
+Toute personne qui produit des déchets dangereux ou des déchets radioactifs,
+tout collecteur de petites quantités de ces déchets, toute personne ayant
+reconditionné ou transformé ces déchets et toute personne détenant des déchets
+dont le producteur n'est pas connu et les remettant à un tiers émet, à cette
+occasion, un bordereau qui accompagne les déchets. Lors de la réception et de la
+réexpédition des déchets, le transporteur et la personne qui reçoit les déchets
+complètent le bordereau. Toute personne qui émet, reçoit ou complète l'original
+ou la copie d'un bordereau en conserve une copie pendant trois ans pour les
+collecteurs et les transporteurs, pendant cinq ans dans les autres cas.
 
 Lorsqu'une transformation ou un traitement aboutit à produire des déchets dont
 la provenance reste identifiable, l'auteur du traitement informe l'expéditeur
@@ -40,7 +40,11 @@ personnes qui ont notifié un transfert transfrontalier de déchets conformémen
 au règlement n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006
 concernant les transferts de déchets, les ménages, les personnes qui sont
 admises à déposer des déchets dangereux dans des déchetteries ou qui les
-remettent à un collecteur de petites quantités de déchets dangereux.
+remettent à un collecteur de petites quantités de déchets dangereux, les
+personnes visées au paragraphe 1 de l'article 22 du règlement n° 1069/2009 du
+Parlement européen et du Conseil du 21 octobre 2009 établissant des règles
+sanitaires applicables aux sous-produits animaux et produits dérivés non
+destinés à la consommation humaine et abrogeant le règlement n° 1774/2002 .
 
 Sont également exclues de ces dispositions les personnes qui remettent des piles
 et accumulateurs usagés, des déchets d'équipements électriques et électroniques

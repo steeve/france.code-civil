@@ -21,18 +21,17 @@ doit être rangée ;
 414-4, une évaluation des incidences Natura 2000.
 
 III.-Le déclarant doit produire un plan de situation du cadastre dans un rayon
-de 100 mètres et un plan d'ensemble à l'échelle de 1 / 200 au minimum,
-accompagné de légendes et, au besoin, de descriptions permettant de se rendre
-compte des dispositions matérielles de l'installation et indiquant
-l'affectation, jusqu'à 35 mètres au moins de celle-ci, des constructions et
-terrains avoisinants ainsi que les points d'eau, canaux, cours d'eau et réseaux
-enterrés.
+de 100 mètres et un plan d'ensemble à l'échelle de 1/200 au minimum, accompagné
+de légendes et, au besoin, de descriptions permettant de se rendre compte des
+dispositions matérielles de l'installation et indiquant l'affectation, jusqu'à
+35 mètres au moins de celle-ci, des constructions et terrains avoisinants ainsi
+que les points d'eau, canaux, cours d'eau et réseaux enterrés.
 
 Le mode et les conditions d'utilisation, d'épuration et d'évacuation des eaux
-résiduaires et des émanations de toute nature ainsi que d'élimination des
-déchets et résidus de l'exploitation sont précisés. La déclaration mentionne, en
-outre, les dispositions prévues en cas de sinistre. L'échelle peut, avec
-l'accord du préfet, être réduite au 1 / 1 000.
+résiduaires et des émanations de toute nature ainsi que de gestion des déchets
+de l'exploitation sont précisés. La déclaration mentionne, en outre, les
+dispositions prévues en cas de sinistre. L'échelle peut, avec l'accord du
+préfet, être réduite au 1/1 000.
 
 IV.-La déclaration et les documents ci-dessus énumérés sont remis en triple
 exemplaire.

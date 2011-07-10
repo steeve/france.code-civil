@@ -28,13 +28,13 @@ non-respect par ce dernier d'un objectif minimum d'insertion des personnes
 rencontrant des difficultés au regard de l'emploi.
 
 Le cahier des charges précise enfin le barème des soutiens à la communication
-relative à la collecte sélective des déchets textiles que le titulaire de
+relative à la collecte séparée des déchets textiles que le titulaire de
 l'agrément versera aux communes, établissements publics de coopération
 intercommunale ou syndicats mixtes compétents qui coordonnent la collecte
-sélective des déchets mentionnés au premier alinéa de l'article L. 541-10-3.
+séparée des déchets mentionnés au premier alinéa de l'article L. 541-10-3.
 
 Lorsque le titulaire de l'approbation verse un tel soutien financier aux
-opérations de communication relative à la collecte sélective de déchets textiles
+opérations de communication relative à la collecte séparée de déchets textiles
 menées par les communes, établissements publics de coopération intercommunale ou
 syndicats mixtes compétents, le cahier des charges précise le barème de ces
 soutiens.

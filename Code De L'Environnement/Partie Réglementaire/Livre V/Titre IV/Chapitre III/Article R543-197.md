@@ -1,6 +1,6 @@
 Article R543-197
 ----
-L'agrément est subordonné à un engagement de l'organisme relatif :
+L'agrément est subordonné à un engagement de l'éco-organisme relatif :
 
 1° Aux conditions juridiques et techniques dans lesquelles seront opérés
 l'enlèvement sur le territoire national et le traitement de ces déchets en
@@ -14,8 +14,8 @@ prévues à l'article R. 543-178 ;
 
 4° A l'obligation de communiquer au ministre chargé de l'environnement un bilan
 annuel d'activité destiné à être rendu public, ainsi que les résultats obtenus
-en matière d'enlèvement, de valorisation ou de destruction des déchets
-d'équipements électriques et électroniques.
+en matière d'enlèvement, de réutilisation, de recyclage, de valorisation ou de
+destruction des déchets d'équipements électriques et électroniques.
 
 L'agrément est délivré pour une durée maximale de six ans renouvelable.
 

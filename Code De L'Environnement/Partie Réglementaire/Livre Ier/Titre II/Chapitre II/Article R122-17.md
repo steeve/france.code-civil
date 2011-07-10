@@ -21,17 +21,27 @@ articles L. 212-1 et L. 212-2 ;
 5° Schémas d'aménagement et de gestion des eaux prévus par les articles L. 212-3
 à L. 212-6 ;
 
-6° Plans départementaux ou interdépartementaux d'élimination des déchets
-ménagers et assimilés prévus par l'article L. 541-14 ;
+6° Plan national de prévention des déchets prévu par l'article L. 541-11 ;
 
-7° Plans régionaux ou interrégionaux d'élimination des déchets industriels
-spéciaux prévus par l'article L. 541-13 ;
+7° Plans nationaux de prévention et de gestion de certaines catégories de
+déchets prévus par l'article L. 541-11-1 ;
 
-8° Plan d'élimination des déchets ménagers d'Ile-de-France prévu par l'article
-L. 541-14 ;
+8° Plans régionaux ou interrégionaux de prévention et de gestion des déchets
+dangereux prévus par l'article L. 541-13 ;
 
-9° Plans nationaux d'élimination de certains déchets spéciaux dangereux prévus
-par l'article L. 541-11 ;
+9° Plans départementaux ou interdépartementaux de prévention et de gestion des
+déchets non dangereux prévus par l'article L. 541-14 ;
+
+9° bis Plan de prévention et de gestion des déchets non dangereux
+d'Ile-de-France prévu par l'article L. 541-14 ;
+
+9° ter Plans départementaux ou interdépartementaux de prévention et de gestion
+des déchets issus de chantiers du bâtiment et des travaux publics prévus par
+l'article L. 541-14-1 ;
+
+9° quater Plan de prévention et de gestion des déchets issus de chantiers du
+bâtiment et des travaux publics d'Ile-de-France prévu par l'article L. 541-14-1
+;
 
 10° Schémas départementaux des carrières prévus par l'article L. 515-3 ;
 
@@ -54,7 +64,7 @@ l'article L. 4 du code forestier. ;
 l'exception des documents régis par le code de l'urbanisme ;
 
 16° Schéma d'ensemble du réseau de transport public du Grand Paris et contrats
-de développement territorial prévus par les articles 2, 3 et 21 de la loi n°
+de développement territorial prévus par les articles 2,3 et 21 de la loi n°
 2010-597 du 3 juin 2010 relative au Grand Paris.
 
 17° Plans de gestion des risques d'inondation prévus par l'article L. 566-7 ;

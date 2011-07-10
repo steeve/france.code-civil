@@ -12,10 +12,11 @@ rechapage ou du recyclage ;
 pneumatiques ou des engins équipés de pneumatiques ;
 
 3° Sont considérées comme détenteurs les personnes qui ont dans leur propre
-entreprise des pneumatiques usagés en raison de leurs activités professionnelles
-ainsi que les communes ou leurs groupements, lorsque ces communes ou ces
-groupements ont procédé à la collecte sélective des pneumatiques usagés ;
+entreprise des déchets de pneumatiques en raison de leurs activités
+professionnelles ainsi que les communes ou leurs groupements, lorsque ces
+communes ou ces groupements ont procédé à la collecte séparée des déchets de
+pneumatiques ;
 
 4° Sont considérées comme collecteurs les personnes qui assurent le ramassage,
-auprès des distributeurs et détenteurs, des pneumatiques usagés, leur
-regroupement, leur tri ou leur transport jusqu'aux installations d'élimination.
+auprès des distributeurs et détenteurs, des déchets de pneumatiques, leur
+regroupement, leur tri ou leur transport jusqu'aux installations de traitement.

@@ -8,8 +8,8 @@ II. ― La notification prévue au I indique les mesures prises ou prévues pour
 assurer, dès l'arrêt de l'exploitation, la mise en sécurité du site. Ces mesures
 comportent, notamment :
 
-1° L'évacuation ou l'élimination des produits dangereux et des déchets présents
-sur le site ;
+1° L'évacuation ou l'élimination des produits dangereux et la gestion des
+déchets présents sur le site ;
 
 2° Des interdictions ou limitations d'accès au site ;
 

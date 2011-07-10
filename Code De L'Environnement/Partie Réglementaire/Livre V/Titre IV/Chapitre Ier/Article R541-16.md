@@ -1,8 +1,8 @@
 Article R541-16
 ----
-Dans le cas où aucun plan d'élimination des déchets ménagers et assimilés n'a
-été établi, le préfet, ou, en Ile-de-France, le préfet de région, peut inviter
-l'autorité compétente à élaborer le plan et à procéder à son évaluation
+Dans le cas où aucun plan de prévention et de gestion des déchets non dangereux
+n'a été établi, le préfet, ou, en Ile-de-France, le préfet de région, peut
+inviter l'autorité compétente à élaborer le plan et à procéder à son évaluation
 environnementale. Cette demande est motivée et assortie d'un délai.
 
 A l'issue de ce délai, le préfet, ou, en Ile-de-France, le préfet de région,

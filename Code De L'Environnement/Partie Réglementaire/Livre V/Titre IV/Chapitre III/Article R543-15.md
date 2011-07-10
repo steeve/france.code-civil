@@ -1,8 +1,8 @@
 Article R543-15
 ----
-Les agréments mentionnés aux articles R. 543-6, R. 543-7 et R. 543-13 ne
-confèrent tant aux bénéficiaires qu'aux tiers dans leurs relations avec eux
-aucune garantie commerciale, financière ou autre.
+Les agréments mentionnés aux articles R. 543-6, et R. 543-13 ne confèrent tant
+aux bénéficiaires qu'aux tiers dans leurs relations avec eux aucune garantie
+commerciale, financière ou autre.
 
 Toute mention de son agrément par le titulaire doit se référer à l'activité pour
 laquelle celui-ci est accordé.

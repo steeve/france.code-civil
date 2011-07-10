@@ -13,4 +13,4 @@ de l'installation est de nature à porter atteinte :
 milieux naturels, de la faune ou de la flore.
 
 II. - L'autorisation peut également être refusée si l'exploitant ne dispose pas
-des capacités techniques nécessaires.
+des capacités techniques et financières nécessaires.

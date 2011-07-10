@@ -6,8 +6,8 @@ l'article L. 511-2. Celles-ci doivent, en outre, être spécialement agréées p
 la valorisation des déchets d'emballage dans les conditions prévues aux articles
 R. 515-37 et R. 515-38.
 
-Une autorisation accordée ou une déclaration effectuée dans un autre Etat membre
-de la Communauté européenne ou dans un autre Etat partie à l'accord instituant
-l'Espace économique européen, en application de la directive 75/442/CEE du 15
-juillet 1975 relative aux déchets, pour des activités de valorisation des
-déchets d'emballage, vaut agrément au titre du présent article.
+Ces déchets peuvent être traités dans toute autre installation autorisée à cet
+effet dans un autre Etat membre de l'Union européenne ou dans un autre Etat, dès
+lors que le transfert de ces déchets hors du territoire national est réalisé
+conformément aux dispositions du règlement (CE) n° 1013/2006 du Parlement
+européen et du Conseil du 14 juin 2006 concernant les transferts de déchets.

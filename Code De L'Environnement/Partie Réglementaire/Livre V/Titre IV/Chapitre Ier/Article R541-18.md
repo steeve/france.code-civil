@@ -1,7 +1,8 @@
 Article R541-18
 ----
 I.-Dans chaque département, hormis ceux de la région Ile-de-France, et, en
-Ile-de-France, dans la région, une commission consultative comprend :
+Ile-de-France, dans la région, une commission consultative d'élaboration et de
+suivi comprend :
 
 1° Le président du conseil général ou son représentant ou, en Ile-de-France, le
 président du conseil régional ou de son représentant. Celui-ci préside la
@@ -12,8 +13,9 @@ son représentant. Celui-ci préside la commission jusqu'à l'approbation du pla
 ou de sa révision lorsqu'il a décidé de se substituer à l'autorité compétente
 dans les conditions prévues aux articles R. 541-16 et R. 541-25 ;
 
-3° Dans la région Ile-de-France, les préfets et les présidents des conseils
-généraux ou leurs représentants ;
+3° Le président du conseil régional ou son représentant ou, dans la région
+Ile-de-France, les préfets et les présidents des conseils généraux ou leurs
+représentants ;
 
 4° Des représentants du conseil général désignés par lui, ou, en Ile-de-France,
 des représentants du conseil régional désignés par lui ;
@@ -23,21 +25,21 @@ des maires ou, à défaut, par le collège des maires de la zone du plan, dont d
 au moins au titre des groupements mentionnés aux articles L. 5212-1, L. 5214-1,
 L. 5215-1, L. 5216-1, L. 5332-1, L. 5711-1 et L. 5721-1 du code général des
 collectivités territoriales, lorsque ces organismes exercent des compétences en
-matière d'élimination des déchets ;
+matière de collecte ou de traitement des déchets ;
 
 6° Les chefs des services déconcentrés de l'Etat intéressés ou leurs
 représentants, désignés par le préfet, ou, en Ile-de-France, par le préfet de
 région ;
 
-7° Un représentant de l'Agence de l'environnement et de la maîtrise de l'énergie
-;
+7° Du directeur de l'agence régionale de santé ou son représentant et d'un
+représentant de l'Agence de l'environnement et de la maîtrise de l'énergie ;
 
 8° Des représentants des chambres de commerce et d'industrie territoriales, des
 chambres d'agriculture et des chambres de métiers et de l'artisanat de région de
 la zone couverte par le plan ;
 
 9° Des représentants des organisations professionnelles concourant à la
-production et à l'élimination des déchets, ainsi que des représentants des
+production et à la gestion des déchets, ainsi que des représentants des
 organismes agréés en application des articles R. 543-53 à R. 543-65 du présent
 code ;
 

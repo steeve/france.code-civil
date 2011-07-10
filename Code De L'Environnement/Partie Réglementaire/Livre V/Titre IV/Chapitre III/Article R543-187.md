@@ -5,8 +5,8 @@ organismes coordonnateurs mettent en oeuvre les actions qu'ils jugent
 appropriées pour informer les utilisateurs d'équipements électriques et
 électroniques ménagers :
 
-1° De l'obligation de ne pas se débarrasser des déchets d'équipements
-électriques et électroniques avec les déchets municipaux non triés ;
+1° De l'obligation de ne pas mélanger les déchets d'équipements électriques et
+électroniques avec les déchets municipaux non triés ;
 
 2° Des systèmes de collecte mis à leur disposition ;
 

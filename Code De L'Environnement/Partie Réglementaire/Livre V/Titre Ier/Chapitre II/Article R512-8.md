@@ -36,7 +36,7 @@ les dispositions d'aménagement et d'exploitation prévues et leurs
 caractéristiques détaillées. Ces documents indiquent les performances attendues,
 notamment en ce qui concerne la protection des eaux souterraines, l'épuration et
 l'évacuation des eaux résiduelles et des émanations gazeuses, ainsi que leur
-surveillance, l'élimination des déchets et résidus de l'exploitation, les
+surveillance, la prévention et la gestion des déchets de l'exploitation, les
 conditions d'apport à l'installation des matières destinées à y être traitées,
 du transport des produits fabriqués et de l'utilisation rationnelle de l'énergie
 ;
@@ -44,7 +44,7 @@ du transport des produits fabriqués et de l'utilisation rationnelle de l'énerg
 b) Pour les catégories d'installations définies par arrêté du ministre chargé
 des installations classées, ces documents justifient le choix des mesures
 envisagées et présentent les performances attendues au regard des meilleures
-techniques disponibles, au sens de la directive 2008 / 1 / CE du 15 janvier 2008
+techniques disponibles, au sens de la directive 2008/1/CE du 15 janvier 2008
 relative à la prévention et à la réduction intégrées de la pollution, selon les
 modalités fixées par cet arrêté ;
 

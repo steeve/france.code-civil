@@ -9,9 +9,9 @@ dispositions prévues à l'article R. 543-127 ;
 
 b) De ne pas communiquer les informations prévues à l'article R. 543-132 ;
 
-2° Pour un distributeur, de ne pas reprendre une pile ou un accumulateur usagé
+2° Pour un distributeur, de ne pas reprendre un déchet de pile ou d'accumulateur
 dans les conditions prévues aux articles R. 543-128-1 et R. 543-129-1 ;
 
 3° Pour une personne qui traite, exporte ou expédie hors du territoire national
-en vue de leur traitement des piles et accumulateurs usagés, de ne pas
+en vue de leur traitement des déchets de piles et d'accumulateurs, de ne pas
 communiquer les informations prévues à l'article R. 543-132.

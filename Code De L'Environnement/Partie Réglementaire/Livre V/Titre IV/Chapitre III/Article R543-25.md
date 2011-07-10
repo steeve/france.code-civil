@@ -10,9 +10,9 @@ résultats de cette analyse.
 En cas de mise à l'arrêt définitif, en application des dispositions des articles
 R. 512-39-1, R. 512-46-25 ou R. 512-66-1, d'une installation classée dont seule
 l'alimentation électrique justifiait l'utilisation d'un appareil contenant des
-PCB, le détenteur est tenu de faire éliminer cet appareil dans les conditions
+PCB, le détenteur est tenu de faire traiter cet appareil dans les conditions
 fixées à l'article R. 543-33.
 
 Préalablement à la démolition de tout ou partie d'un bâtiment, tout appareil
-contenant des PCB doit être éliminé dans les conditions fixées à l'article R.
+contenant des PCB doit être traité dans les conditions fixées à l'article R.
 543-33.

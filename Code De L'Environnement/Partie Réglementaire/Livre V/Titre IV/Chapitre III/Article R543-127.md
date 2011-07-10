@@ -25,11 +25,11 @@ I.-Le symbole mentionné au I (1°) de l'article R. 543-127 respecte les modalit
 d'affichage suivantes :
 
 1° Le symbole indiquant que les piles, accumulateurs et assemblages en batterie
-usagés font l'objet d'une collecte sélective est la poubelle sur roues barrée
+usagés font l'objet d'une collecte séparée est la poubelle sur roues barrée
 d'une croix, figurant ci-dessous :
 
-Vous pouvez consulter le tableau dans le JO n° 221 du 24 / 09 / 2009 texte
-numéro 2
+Vous pouvez consulter le cliché dans le JO n° 221 du 24 / 09 / 2009 texte numéro
+2
 
 2° Ce symbole couvre au moins 3 % de la surface du côté le plus grand de la
 pile, de l'accumulateur ou de l'assemblage en batterie, sans dépasser les

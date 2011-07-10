@@ -10,13 +10,10 @@ ministre de la défense.
 
 Ces arrêtés fixent notamment :
 
-1° Le contenu des registres mentionnés à l'article R. 541-43 du présent code, de
-façon à assurer la traçabilité et l'identification des déchets ainsi que celle
-des producteurs, des transporteurs et des destinataires, en fonction des
-caractéristiques des déchets ;
+1° Le contenu des registres mentionnés aux articles R. 541-43 et R. 541-46 ;
 
-2° Les modèles, le contenu et les modalités de transmission des déclarations
-mentionnées à l'article R. 541-44 ;
+2° Le modèle, le contenu et les modalités de transmission des déclarations
+mentionnées aux articles R. 541-44 et R. 541-46 ;
 
-3° Les informations que doivent contenir le bordereau mentionné à l'article R.
-541-45 et, le cas échéant, le modèle de ce bordereau.
+3° Les modèles, le contenu et les modalités de gestion du bordereau mentionné à
+l'article R. 541-45.

@@ -16,4 +16,5 @@ La demande d'agrément mentionne à cet effet les objectifs que l'organisme ente
 atteindre et précise les différentes conventions qu'il envisage de passer avec
 les personnes mentionnées au premier alinéa de l'article L. 541-10-3, les
 opérateurs de tri et les communes, établissements publics de coopération
-intercommunale ou syndicats mixtes en charge de l'élimination des déchets.
+intercommunale ou syndicats mixtes en charge de la collecte et du traitement des
+déchets.

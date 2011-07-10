@@ -1,6 +1,6 @@
 Article R543-13
 ----
-Tout exploitant d'une installation d'élimination des huiles usagées doit avoir
+Tout exploitant d'une installation de traitement des huiles usagées doit avoir
 reçu un agrément. Cet agrément est délivré, suspendu ou retiré selon les
 modalités prévues aux articles R. 515-37 et R. 515-38.
 

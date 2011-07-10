@@ -14,4 +14,4 @@ elle prévoit de satisfaire aux clauses du cahier des charges dont cette
 approbation sera assortie. Elle indique, le cas échéant, les objectifs qu'elle
 entend atteindre par des conventions avec les opérateurs de tri et les communes,
 établissements publics de coopération intercommunale ou syndicats mixtes en
-charge de l'élimination des déchets.
+charge de la collecte et du traitement des déchets.

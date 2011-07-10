@@ -1,7 +1,9 @@
 Article R543-34
 ----
-Tout exploitant d'une installation fixe ou mobile de traitement ou de
-décontamination de déchets contenant des PCB doit avoir reçu un agrément.
+Tout exploitant d'une installation fixe de traitement de déchets contenant des
+PCB ou de décontamination et toute personne réalisant une opération de retrait
+de remplacement des huiles contenant des PCB dans un transformateur doit avoir
+reçu un agrément.
 
 L'agrément est délivré, suspendu ou retiré par arrêté du préfet selon les
 modalités prévues à l'article R. 515-37.

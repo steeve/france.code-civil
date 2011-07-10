@@ -1,9 +1,9 @@
 Article R541-32
 ----
-Dans le cas où, dans une région, aucun plan d'élimination des déchets
-industriels spéciaux n'a été établi, le préfet de région peut, par lettre
-motivée, inviter l'autorité compétente à élaborer le plan et à procéder à son
-évaluation environnementale dans un délai qu'il fixe.
+Dans le cas où, dans une région, aucun plan de prévention et de gestion des
+déchets dangereux n'a été établi, le préfet de région peut, par lettre motivée,
+inviter l'autorité compétente à élaborer le plan et à procéder à son évaluation
+environnementale dans un délai qu'il fixe.
 
 A l'issue de ce délai, le préfet de région peut, par demande motivée, demander à
 l'autorité compétente de faire approuver le plan par le conseil régional.

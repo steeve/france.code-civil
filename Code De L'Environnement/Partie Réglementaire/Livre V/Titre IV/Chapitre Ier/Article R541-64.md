@@ -1,11 +1,16 @@
 Article R541-64
 ----
-L'autorité compétente d'expédition au sens de l'article 2 du règlement
-communautaire mentionné à l'article R. 541-62, pour les transferts de déchets au
-départ du territoire national, est le préfet du département au départ duquel
-s'effectue le transfert.
+Pour l'application de l'article 6 du règlement communautaire mentionné à
+l'article L. 541-40, la garantie financière est une garantie autonome à première
+demande au sens de l'article 2321 du code civil.
 
-L'autorité compétente de destination au sens de l'article 2 du même règlement
-pour des importations sur le territoire national est le préfet du département
-dans lequel le transfert prend fin ou dans lequel a lieu le chargement à bord de
-déchets avant élimination en mer.
+Cette garantie est attestée par l'établissement de crédit, l'institution
+mentionnée à l'article L. 518-1 du code monétaire et financier ou l'entreprise
+d'assurance qui l'a délivrée. Elle est constituée au bénéfice de l'autorité
+compétente désignée en application de l'article R. 541-62.
+
+En cas de transfert dont le lieu d'expédition et le lieu de la destination sont
+situés sur le territoire national mais transitant par un ou plusieurs Etats
+tiers, la garantie financière mentionnée aux alinéas précédents peut être
+constituée au bénéfice de l'autorité compétente désignée en application de
+l'article R. 541-62.

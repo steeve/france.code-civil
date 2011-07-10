@@ -1,9 +1,11 @@
 Article R541-34
 ----
-I.-Dans chaque région une commission consultative est composée :
+I.-Dans chaque région une commission consultative d'élaboration et de suivi est
+composée :
 
 1° Du président du conseil régional ou de son représentant qui préside la
-commission, sauf dans le cas prévu au 2° ;
+commission, sauf dans le cas prévu au 2° et des présidents des conseils généraux
+de la région ou leurs représentants ;
 
 2° Du préfet de région ou de son représentant. Celui-ci préside la commission
 jusqu'à l'approbation du plan ou à sa révision lorsqu'il a décidé de se
@@ -16,15 +18,15 @@ substituer à l'autorité compétente dans les conditions prévues à l'article 
 représentants désignés par le préfet de région ;
 
 5° De représentants des établissements publics de l'Etat, notamment de l'Agence
-de l'environnement et de la maîtrise de l'énergie, et des agences de l'eau
-territorialement compétentes ;
+de l'environnement et de la maîtrise de l'énergie de l'agence régionale de
+santé, et des agences de l'eau territorialement compétentes ;
 
 6° De représentants de la chambre de commerce et d'industrie de région, de la
 chambre régionale d'agriculture et de la chambre régionale de métiers et de
 l'artisanat ;
 
 7° De représentants des organisations professionnelles du secteur de la
-production et de l'élimination des déchets ;
+production et de la gestion des déchets ;
 
 8° De représentants d'associations agréées de protection de l'environnement.
 
