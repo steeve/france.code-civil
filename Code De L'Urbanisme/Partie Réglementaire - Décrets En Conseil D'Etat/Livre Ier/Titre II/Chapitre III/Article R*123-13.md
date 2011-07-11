@@ -19,7 +19,7 @@ provisoires ou définitifs des zones d'aménagement différé ;
 
 5° Les zones délimitées en application du e de l'article L. 430-1 à l'intérieur
 desquelles s'appliquent les dispositions relatives au permis de démolir prévues
-aux articles L. 430-2 et suivants ;
+aux articles L. 430-2 et suivants (1) ;
 
 6° Les périmètres de développement prioritaires délimités en application de la
 loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à
@@ -65,4 +65,17 @@ articles L. 123-1-1 et L. 127-1. La délibération qui précise les limites de c
 dépassement est jointe au document graphique faisant apparaître ces secteurs ;
 
 17° Les périmètres fixés par les conventions de projet urbain partenarial visées
-à l'article L. 332-11-3.
+à l'article L. 332-11-3 ;
+
+18° Les secteurs où une délibération du conseil municipal ou de l'organe
+délibérant de l'établissement public de coopération intercommunale compétent a
+autorisé, pour les constructions respectant les critères de performance
+énergétique prévus par l'article R. 111-21 du code de la construction et de
+l'habitation, un dépassement des règles du plan local d'urbanisme en application
+de l'article L. 128-1. La délibération qui précise les limites de ce dépassement
+est jointe au document graphique faisant apparaître ces secteurs.
+
+19° Les périmètres délimités par une délibération du conseil municipal ou de
+l'organe délibérant de l'établissement public de coopération intercommunale
+compétent dans lesquels le premier alinéa de l'article L. 111-6-2 ne s'applique
+pas.

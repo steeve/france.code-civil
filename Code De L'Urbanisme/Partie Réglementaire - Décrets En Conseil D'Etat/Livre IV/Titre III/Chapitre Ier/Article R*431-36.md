@@ -14,5 +14,5 @@ apparaître les modifications projetées et si le projet a pour effet de modifie
 celui-ci.
 
 Il est complété, s'il y a lieu, par les documents mentionnés aux articles R.
-431-14 et R. 431-15, au e de l'article R. 431-16 et aux articles R. 431-10, R.
-431-21, R. 431-25, R. 431-31, R. 431-32 et R. 431-33.
+431-14 et R. 431-15, au e de l'article R. 431-16 et aux articles R. 431-10, R. *
+431-18, R. * 431-18-1, R. 431-21, R. 431-25, R. 431-31, R. 431-32 et R. 431-33.
