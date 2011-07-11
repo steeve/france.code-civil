@@ -1,4 +1,4 @@
 Article R141-4
 ----
-La demande d'agrément est présentée par le président de l'association, habilité
-à cet effet par le conseil d'administration.
+Les conditions de présentation et la composition du dossier de demande
+d'agrément sont fixées par arrêté du ministre chargé de l'environnement.

@@ -1,8 +1,9 @@
 Article R621-1
 ----
-I. - Les articles R. 141-1 à R. 142-9 sont applicables à la Polynésie française.
+I.-Les articles R. 141-1 à R. 141-20 et R. 142-1 à R. 142-9 sont applicables à
+la Polynésie française.
 
-II. - Les pouvoirs dévolus au préfet par les dispositions mentionnées au I sont
+II.-Les pouvoirs dévolus au préfet par les dispositions mentionnées au I sont
 exercés par le représentant de l'Etat en Polynésie française.
 
 Pour l'application de ces dispositions en Polynésie française, les références au

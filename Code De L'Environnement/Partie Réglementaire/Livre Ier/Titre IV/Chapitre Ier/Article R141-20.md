@@ -1,15 +1,15 @@
 Article R141-20
 ----
-Lorsque l'association ne respecte pas l'obligation mentionnée à l'article R.
-141-19 ou ne remplit plus l'une des conditions ayant motivé l'agrément, celui-ci
-peut lui être retiré par l'autorité qui l'a accordé sans qu'il soit nécessaire
-de procéder aux consultations mentionnées à l'article R. 141-9.
+L'agrément peut être abrogé :
 
-Lorsque l'agrément a été accordé en application du dernier alinéa de l'article
-L. 141-1, son retrait est prononcé par l'autorité administrative qui aurait dû
-le délivrer.
+1° Lorsque l'association ne justifie plus du respect des conditions prévues par
+les articles L. 141-1 et R. 141-2 ;
 
-L'association doit être au préalable invitée à présenter ses observations.
+2° Lorsque l'association exerce son activité statutaire dans un cadre
+territorial plus limité que celui pour lequel elle bénéficie de l'agrément, dans
+les conditions définies à l'article R. 141-3 ;
 
-La décision de retrait prise en application de l'alinéa premier du présent
-article fait l'objet des mesures de publicité mentionnées à l'article R. 141-17.
+3° En cas de non-respect des obligations mentionnées à l'article R. 141-19.
+
+L'association est préalablement informée des motifs susceptibles de fonder
+l'abrogation et mise en mesure de présenter ses observations.

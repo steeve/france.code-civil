@@ -1,11 +1,17 @@
 Article R631-6
 ----
-Pour l'application à Wallis-et-Futuna de l'article R. 141-9, au premier alinéa,
-les mots : "le directeur régional de l'environnement ainsi que les services
-déconcentrés intéressés" sont remplacés par les mots : "le conseil territorial
-de Wallis-et-Futuna" et le dernier alinéa est remplacé par les dispositions
-suivantes :
+Pour leur application à Wallis-et-Futuna, les articles R. 141-9 et R. 141-10
+sont remplacés par les dispositions suivantes :
 
-"Lorsque l'agrément est sollicité dans le cadre d'une circonscription
-territoriale, le représentant de l'Etat recueille l'avis du président du conseil
-de la circonscription dans laquelle l'association a son siège."
+" Le représentant de l'Etat à Wallis-et-Futuna procède à l'instruction de la
+demande. Il consulte pour avis le président du conseil de la circonscription
+intéressée, lorsque l'agrément est sollicité dans le cadre d'une circonscription
+territoriale, et le conseil territorial de Wallis et Futuna lorsque l'agrément
+est sollicité dans un cadre territorial.
+
+Il recueille également l'avis du procureur général près la cour d'appel dans le
+ressort de laquelle l'association a son siège social.
+
+Les personnes consultées en application du présent article font connaître leur
+avis au représentant de l'Etat dans un délai de deux mois. Faute de réponse dans
+ce délai, leur avis est réputé favorable. "

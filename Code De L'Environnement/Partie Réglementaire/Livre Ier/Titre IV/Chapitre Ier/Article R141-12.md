@@ -1,8 +1,5 @@
 Article R141-12
 ----
-La décision en matière d'agrément est de la compétence du préfet lorsque
-l'agrément est sollicité dans un cadre communal, intercommunal ou départemental.
-
-La décision est de la compétence du préfet de région quand l'agrément est
-sollicité dans un cadre régional ou dans un cadre interdépartemental dans les
-limites d'une région.
+La décision d'agrément est de la compétence du préfet du département dans lequel
+l'association a son siège social lorsque l'agrément est sollicité dans un cadre
+départemental ou régional.

@@ -1,15 +1,21 @@
 Article R141-2
 ----
-Les associations mentionnées à l'article R. 141-1 peuvent être agréées si, à la
-date de la demande d'agrément, elles justifient depuis trois ans au moins à
-compter de leur déclaration ou, pour les départements du Bas-Rhin, du Haut-Rhin
-et de la Moselle, de leur inscription :
+Une association peut être agréée si, à la date de la demande d'agrément, elle
+justifie depuis trois ans au moins à compter de sa déclaration :
 
-1° D'un fonctionnement conforme à leurs statuts ;
+1° D'un objet statutaire relevant d'un ou plusieurs domaines mentionnés à
+l'article L. 141-1 et de l'exercice dans ces domaines d'activités effectives et
+publiques ou de publications et travaux dont la nature et l'importance attestent
+qu'elle œuvre à titre principal pour la protection de l'environnement ;
 
-2° D'activités statutaires dans les domaines mentionnés à l'article L. 141-1 ;
+2° D'un nombre suffisant, eu égard au cadre territorial de son activité, de
+membres, personnes physiques, cotisant soit individuellement, soit par
+l'intermédiaire d'associations fédérées ;
 
-3° De l'exercice, à titre principal, d'activités effectives consacrées à la
-protection de l'environnement ;
+3° De l'exercice d'une activité non lucrative et d'une gestion désintéressée ;
 
-4° De garanties suffisantes d'organisation.
+4° D'un fonctionnement conforme à ses statuts, présentant des garanties
+permettant l'information de ses membres et leur participation effective à sa
+gestion ;
+
+5° De garanties de régularité en matière financière et comptable.

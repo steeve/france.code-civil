@@ -1,13 +1,9 @@
 Article R631-5
 ----
-Pour leur application à Wallis-et-Futuna, les articles R. 141-7 et R. 141-8 sont
-remplacés par les dispositions suivantes :
+Pour son application à Wallis-et-Futuna, l'article R. 141-8 est remplacé par les
+dispositions suivantes :
 
-"La demande et le dossier qui l'accompagne sont établis en un original et deux
-copies. Un ou deux exemplaires supplémentaires peuvent être exigés s'il y a lieu
-de procéder aux consultations mentionnées à l'article R. 141-9.
-
-La demande est adressée par lettre recommandée avec demande d'avis de réception
-postal au représentant de l'Etat. Cet envoi peut être remplacé par un dépôt
-contre décharge dans les bureaux de l'administration supérieure des îles
-Wallis-et-Futuna.".
+"La demande est adressée par lettre recommandée avec demande d'avis de réception
+postal par le représentant légal de l'association au représentant de l'Etat. Cet
+envoi peut être remplacé par un dépôt contre décharge dans les bureaux de
+l'administration supérieure des îles Wallis-et-Futuna".
