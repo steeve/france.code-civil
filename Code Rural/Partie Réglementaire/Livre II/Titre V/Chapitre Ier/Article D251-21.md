@@ -1,7 +1,7 @@
 Article D251-21
 ----
 I.-Lorsque les végétaux, produits végétaux et autres objets figurant sur la
-liste mentionnée au A du V de l'article D. 251-1 doivent être accompagnés d'un
+liste mentionnée au A du V de l'article D. 251-2 doivent être accompagnés d'un
 passeport phytosanitaire, les agents mentionnés à l'article L. 250-2 vérifient
 que :
 
@@ -24,7 +24,7 @@ du pays d'expédition lorsqu'il est délivré pour des végétaux, produits vég
 ou autres objets originaires de pays tiers à la Communauté européenne.
 
 II.-Les contrôles portent sur la conformité du passeport phytosanitaire et le
-respect des exigences mentionnées au IV de l'article D. 251-1. Ils sont réalisés
+respect des exigences mentionnées au IV de l'article D. 251-2. Ils sont réalisés
 de manière aléatoire et sans discrimination en ce qui concerne l'origine des
 végétaux, produits végétaux ou autres objets originaires de pays tiers à la
 Communauté européenne.
