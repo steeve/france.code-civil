@@ -85,6 +85,24 @@ A
 
 D
 
+Installation de production de béton prêt à l'emploi équipée d'un dispositif
+d'alimentation en liants hydrauliques mécanisé, à l'exclusion des installations
+visées par la rubrique 2522. La capacité de malaxage étant :
+
+2518
+
+a) Supérieure à 3 m 3
+
+
+E
+
+b) Inférieure ou égale à 3 m 3
+
+
+D
+
+Ces activités ne donnent pas lieu à classement sous la rubrique 2515.
+
 2520
 
 Ciments, chaux, plâtres (fabrication de), la capacité de production étant
@@ -132,20 +150,20 @@ D
 
 2522
 
-Matériel vibrant (emploi de) pour la fabrication de matériaux tels que béton,
-agglomérés, etc., la puissance installée du matériel vibrant étant :
+Installation de fabrication de produits en béton par procédé mécanique. La
+puissance installée du matériel de malaxage et de vibration, étant :
 
-1. supérieure à 200 kW
+a) Supérieure à 400 kW
 
 
-A
+E
 
-1
-
-2. supérieure à 40 kW, mais inférieure ou égale à 200 kW
+b) Supérieure à 40 kW, mais inférieure ou égale à 400 kW
 
 
 D
+
+Ces activités ne donnent pas lieu à classement sous la rubrique 2515.
 
 2523
 
@@ -217,7 +235,7 @@ D
 
 -
 
-a) supérieure à 500 kg/j
+a) supérieure à 500 kg / j
 
 
 A
@@ -1045,7 +1063,7 @@ D
 
 Installation de stockage, dépollution, démontage, découpage ou broyage de
 véhicules hors d'usage ou de différents moyens de transport hors d'usage, la
-surface étant supérieure à 50 m².
+surface étant supérieure à 50 m 2 .
 
 
 A
@@ -1905,7 +1923,7 @@ DC
 (pulvérisation, enduction). Si la quantité maximale de produits susceptible
 d'être mise en œuvre est :
 
-2. La quantité maximale de produits susceptible d'être mise en oeuvre est :
+2. La quantité maximale de produits susceptible d'être mise en œuvre est :
 
 a) supérieure à 100 kg/j
 
@@ -1931,9 +1949,9 @@ b) supérieure à 10 kg/j, mais inférieure ou égale à 100 kg/j
 
 DC
 
-3. Lorsque les produits mis en œuvre sont des poudres à base de résines
-organiques. Si la quantité maximale de produits susceptible d'être mise en
-oeuvre est :
+3. Lorsque les produits mis en oeuvre sont des poudres à base de résines
+organiques. Si la quantité maximale de produits susceptible d'être mise en œuvre
+est :
 
 a) supérieure à 200 kg/j
 
