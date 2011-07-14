@@ -1,7 +1,6 @@
 Article L173-20
 ----
-Le délaissement des facultés peut être effectué dans les cas où les marchandises
-sont :
+Le délaissement des marchandises peut être effectué dans les cas où elles sont :
 
 1° Perdues totalement ;
 

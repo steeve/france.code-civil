@@ -24,3 +24,5 @@ applicables dans les îles Wallis et Futuna dans leur rédaction en vigueur lors
 de la promulgation de la loi n° 89-1014 du 31 décembre 1989 précitée.
 
 L'article L. 114-3 est applicable dans les îles Wallis et Futuna.
+
+Le titre VII du présent livre est applicable dans les îles Wallis et Futuna.

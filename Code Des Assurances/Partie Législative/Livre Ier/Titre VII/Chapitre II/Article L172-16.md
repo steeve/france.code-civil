@@ -1,21 +1,19 @@
 Article L172-16
 ----
-L'assureur ne couvre pas les risques :
+Sauf convention contraire, l'assureur ne couvre pas les dommages et pertes subis
+par les biens assurés et résultant :
 
-a) de guerre civile ou étrangère, de mines et tous engins de guerre ;
+1° De guerre civile ou étrangère, de mines et tous engins de guerre ;
 
-b) de piraterie ;
+2° De piraterie ;
 
-c) de capture, prise ou détention par tous gouvernements ou autorités
+3° De capture, prise ou détention par tous gouvernements ou autorités
 quelconques ;
 
-d) d'émeutes, de mouvements populaires, de grèves et de lock-out, d'actes de
+4° D'émeutes, de mouvements populaires, de grèves et de lock-out, d'actes de
 sabotage ou de terrorisme ;
 
-e) des dommages causés par l'objet assuré à d'autres biens ou personnes, sauf ce
-qui est dit à l'article L. 173-8 ;
-
-f) des sinistres dus aux effets directs ou indirects d'explosion, de dégagement
+5° Des sinistres dus aux effets directs ou indirects d'explosion, de dégagement
 de chaleur, d'irradiation provenant de transmutations de noyaux d'atomes ou de
-la radioactivité, ainsi que les sinistres dus aux effets de radiation provoqués
-par l'accélération artificielle des particules.
+radioactivité, ainsi que les sinistres dus aux effets de radiation provoqués par
+l'accélération artificielle des particules.
