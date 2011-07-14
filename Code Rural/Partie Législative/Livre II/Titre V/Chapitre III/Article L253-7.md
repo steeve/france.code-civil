@@ -1,32 +1,39 @@
 Article L253-7
 ----
-Toute publicité commerciale et toute recommandation pour les produits définis à
-l'article L. 253-1 ne peuvent porter que sur des produits bénéficiant d'une
-autorisation de mise sur le marché et sur les conditions d'emploi fixées dans
-ces autorisations.
+Dans l'intérêt de la santé publique ou de l'environnement, l'autorité
+administrative peut prendre toute mesure d'interdiction, de restriction ou de
+prescription particulière concernant la mise sur le marché, la délivrance,
+l'utilisation et la détention des produits visés à l'article L. 253-1 et des
+semences traitées par ces produits, après avis de l'Agence nationale de sécurité
+sanitaire de l'alimentation, de l'environnement et du travail, sauf urgence, et
+sans préjudice des dispositions de l'article L. 211-1 du code de
+l'environnement.
 
-Elles ne doivent comporter aucune mention pouvant donner une image exagérément
-sécurisante ou de nature à banaliser leur utilisation et ne peuvent en aucun cas
-porter les mentions : " non dangereux ”, " non toxique ”, " biodégradable ”, "
-respectueux de l'environnement ”, " produit à faible risque ”, " ne nuit pas à
-la santé ”.
+En particulier, l'autorité administrative peut interdire ou encadrer
+l'utilisation des produits phytopharmaceutiques dans des zones particulières, et
+notamment :
 
-Elles ne doivent pas contribuer à promouvoir l'usage de ces produits sans en
-présenter les bonnes pratiques d'utilisation qui permettent de prévenir leurs
-éventuels impacts sanitaires ou environnementaux.
+1° Les zones utilisées par le grand public ou par des groupes vulnérables au
+sens de l'article 3 du règlement (CE) n° 1107/2009, comme les parcs et les
+jardins publics, les terrains de sport et de loisirs, les terrains scolaires et
+les terrains de jeux pour enfants, ainsi qu'à proximité immédiate
+d'établissements de soin ;
 
-La publicité commerciale télévisée grand public, radiodiffusée et par voie
-d'affichage extérieur en dehors des points de distribution est interdite pour
-les produits définis à l'article L. 253-1.
+2° Les zones protégées mentionnées à l'article L. 211-1 du code de
+l'environnement ;
 
-Elles ne doivent comporter aucune mention faisant valoir des propriétés ou
-fonctions du produit autres que celles qui font l'objet de l'autorisation de
-mise sur le marché mentionnée à l'article L. 253-1.
+3° Les zones recensées aux fins de la mise en place de mesures de conservation
+visées à l'article L. 414-1 du code de l'environnement ;
 
-Un arrêté des ministres chargés de l'environnement, de l'agriculture et de la
-consommation fixe les conditions de présentation des bonnes pratiques
-d'utilisation et d'application de ces produits dans les insertions
-publicitaires, en tenant compte des différences entre produits destinés aux
-professionnels et produits destinés aux particuliers. Ces insertions
-publicitaires mettent en avant les principes de la lutte intégrée et de bonnes
-pratiques dans l'usage et l'application des produits.
+4° Les zones récemment traitées utilisées par les travailleurs agricoles ou
+auxquelles ceux-ci peuvent accéder.
+
+L'autorité administrative peut aussi prendre des mesures pour encadrer :
+
+1° Les conditions de stockage, de manipulation, de dilution et de mélange avant
+application des produits phytopharmaceutiques ;
+
+2° Les modalités de manipulation, d'élimination et de récupération des déchets
+issus de ces produits ;
+
+3° Les modalités de nettoyage du matériel utilisé.

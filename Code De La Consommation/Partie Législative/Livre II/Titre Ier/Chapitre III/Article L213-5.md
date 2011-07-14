@@ -18,8 +18,8 @@ L. 115-26, L. 115-30, L. 121-6, L. 121-14, L. 213-1 à L. 213-2-1, L. 213-3, L.
 5442-4, L. 5442-9, L. 5442-10, L. 5442-11, L. 5461-3 et L. 5462-3 du code de la
 santé publique ;
 
-― les articles L. 237-1, L. 237-2, L. 237-3, L. 253-17, L. 254-9, L. 255-8, L.
-671-9 et L. 671-10 du code rural et de la pêche maritime ;
+― les articles L. 237-1, L. 237-2, L. 237-3, L. 253-15 à L. 253-17, L. 254-9, L.
+255-8, L. 671-9 et L. 671-10 du code rural et de la pêche maritime ;
 
 ― la loi du 30 décembre 1931 tendant à réprimer la fraude dans le commerce de
 l'essence de térébenthine et des produits provenant des végétaux résineux ;

@@ -1,7 +1,13 @@
 Article L253-2
 ----
-Lorsqu'un danger imprévisible menaçant les végétaux ne peut être maîtrisé par
-d'autres moyens, l'autorité administrative peut autoriser, pour une durée
-n'excédant pas cent vingt jours, la mise sur le marché d'un produit
-phytopharmaceutique ne satisfaisant pas aux conditions fixées à l'article L.
-253-4.
+Toute personne ayant transmis des informations pour lesquelles est revendiqué et
+reconnu le secret industriel et commercial est tenue d'informer l'autorité
+administrative lorsqu'elle rend elle-même publiques ces informations.
+
+L'autorité administrative prend toutes dispositions utiles pour que les
+informations reconnues par elle, par l'autorité compétente d'un Etat membre de
+l'Union européenne ou par l'Autorité européenne de sécurité des aliments comme
+relevant du secret industriel et commercial ne soient accessibles qu'aux
+personnes qu'elle a désignées. Ces personnes sont astreintes au secret
+professionnel selon les modalités prévues aux articles 226-13 et 226-14 du code
+pénal, sauf à l'égard des autorités judiciaires qui le demandent.

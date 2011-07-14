@@ -1,11 +1,18 @@
 Article L253-6
 ----
-Les emballages ou étiquettes des produits mentionnés à l'article L. 253-1 dont
-la vente est autorisée doivent porter d'une façon apparente, au moins en
-français, outre les indications prescrites en application des articles L. 253-12
-et L. 253-13, les conditions d'emploi fixées dans l'autorisation de mise sur le
-marché.
+Un plan d'action national fixe les objectifs quantitatifs, les cibles, les
+mesures et calendriers en vue de réduire les risques et les effets de
+l'utilisation des produits phytopharmaceutiques sur la santé humaine et
+l'environnement, et les mesures encourageant l'élaboration et l'introduction de
+la lutte intégrée contre les ennemis des cultures et les méthodes ou techniques
+de substitution en vue de réduire la dépendance à l'égard de l'utilisation des
+produits phytopharmaceutiques. Il comprend des indicateurs de suivi des
+objectifs fixés. Sa mise en œuvre est notamment financée dans les conditions
+prévues à l'article L. 213-10-8 du code de l'environnement.
 
-Ils doivent mentionner également les précautions à prendre par les utilisateurs
-et notamment les contre-indications apparues au cours des essais et énoncées
-dans l'autorisation de mise sur le marché.
+Le plan d'action national est arrêté après avis d'une instance de concertation
+et de suivi. Cette instance comprend des représentants des organisations
+professionnelles concernées, des organismes publics intéressés, des associations
+nationales de protection de l'environnement agréées, des organisations
+syndicales représentatives et des associations nationale de défense des
+consommateurs agréées.

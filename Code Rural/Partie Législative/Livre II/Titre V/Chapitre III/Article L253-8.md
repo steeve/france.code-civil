@@ -1,14 +1,11 @@
 Article L253-8
 ----
-I.-Le détenteur d'une autorisation de mise sur le marché est tenu de communiquer
-immédiatement à l'autorité administrative compétente tout fait nouveau de nature
-à modifier l'évaluation du risque pour la santé humaine ou animale ou pour
-l'environnement du produit autorisé.
+La pulvérisation aérienne des produits phytopharmaceutiques est interdite.
 
-II.-Il met à disposition de l'autorité administrative les quantités de produits
-mises sur le marché. Un décret précise les modalités de mise à disposition de
-ces informations.
-
-III. ― Les articles L. 523-1 à L. 523-3 du code de l'environnement s'appliquent
-aux substances entrant dans la composition des produits mentionnés à l'article
-L. 253-1 du présent code.
+Par dérogation, lorsqu'un danger menaçant les végétaux, les animaux ou la santé
+publique ne peut être maîtrisé par d'autres moyens ou si ce type d'épandage
+présente des avantages manifestes pour la santé et l'environnement par rapport à
+une application terrestre, la pulvérisation aérienne des produits
+phytopharmaceutiques peut être autorisée par l'autorité administrative pour une
+durée limitée, conformément aux conditions fixées par voie réglementaire après
+avis du comité visé à l'article L. 251-3.

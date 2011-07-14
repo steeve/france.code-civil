@@ -13,4 +13,4 @@ professionnelle pour l'exercice de son activité en France ;
 2° De sa qualification ou de celle de l'employé concerné, attestée par le
 service officiel de l'Etat mentionné au premier alinéa où il exerce
 principalement son activité ou, à défaut, dans les conditions prévues aux 2° et
-3° de l'article L. 254-2 et au I de l'article L. 254-3.
+3° du I de l'article L. 254-2 et au I de l'article L. 254-3.

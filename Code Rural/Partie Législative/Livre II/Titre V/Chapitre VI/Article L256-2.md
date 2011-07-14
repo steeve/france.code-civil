@@ -1,9 +1,11 @@
 Article L256-2
 ----
-Les matériels mentionnés à l'article L. 256-1 sont soumis à un contrôle
-obligatoire tous les cinq ans, dont le financement est à la charge du
-propriétaire, permettant de s'assurer qu'ils fonctionnent correctement et qu'ils
-sont conformes aux exigences sanitaires, environnementales et de sécurité.
+Les matériels d'application des produits phytopharmaceutiques mentionnés à
+l'article L. 256-1 sont soumis à un contrôle obligatoire à intervalles
+réguliers, dont le financement est à la charge du propriétaire, permettant de
+s'assurer qu'ils fonctionnent correctement et qu'ils sont conformes aux
+exigences sanitaires, environnementales et de sécurité fixées par arrêté du
+ministre chargé de l'agriculture.
 
 Les organismes d'inspection chargés de ce contrôle ainsi que les centres de
 formation des inspecteurs réalisant ce contrôle sont agréés par l'autorité
