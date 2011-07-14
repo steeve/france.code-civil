@@ -15,13 +15,12 @@ de fonctionnement minimale définie à la sous-section 4 de la section 1 du
 chapitre IV du titre III du livre III de la troisième partie du présent code ;
 
 -sept présidents d'établissements publics de coopération intercommunale élus par
-le collège des présidents d'établissements publics de coopération intercommunale
-à raison d'un pour les communautés urbaines, d'un pour les communautés de
-communes ayant opté pour le régime fiscal de l'article 1609 nonies C du code
-général des impôts, de deux pour les communautés de communes n'ayant pas opté
-pour les dispositions du même article, d'un pour les communautés
-d'agglomération, d'un pour les syndicats et d'un pour les syndicats institués en
-vue de la création d'une agglomération nouvelle ;
+le collège des présidents d'établissements publics de coopération
+intercommunale, à raison d'un pour les communautés urbaines et les métropoles,
+de deux pour les communautés de communes ayant opté pour le régime fiscal de
+l'article 1609 nonies C du code général des impôts, de deux pour les communautés
+de communes n'ayant pas opté pour les dispositions du même article et de deux
+pour les communautés d'agglomération et syndicats d'agglomération nouvelle ;
 
 -quinze maires élus par le collège des maires de France, dont un au moins pour
 les départements d'outre-mer, un pour les collectivités d'outre-mer ainsi que la
