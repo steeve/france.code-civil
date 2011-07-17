@@ -1,16 +1,21 @@
 Article R3211-2
 ----
-Le juge des libertés et de la détention est saisi par requête transmise par tout
-moyen au greffe du tribunal de grande instance.
+Le collège prévu à l'article L. 3211-9 est composé de trois membres appartenant
+au personnel de l'établissement d'accueil du patient.
 
-La requête est datée et signée et comporte :
+Chaque formation du collège est fixée par le directeur ou le représentant légal
+de l'établissement. Font partie du collège pour chaque patient :
 
-1° L'indication des nom, prénoms, profession, domicile, nationalité, date et
-lieu de naissance du demandeur ou, s'il s'agit d'une personne morale, celle de
-sa forme, de sa dénomination, de son siège social et de l'organe qui la
-représente légalement ;
+1° Le psychiatre responsable à titre principal du patient dont la situation est
+examinée ou, à défaut, un autre psychiatre participant à sa prise en charge ;
 
-2° L'indication des nom et prénoms de la personne hospitalisée sans son
-consentement et de l'adresse de l'établissement où elle séjourne ;
+2° Un représentant de l'équipe pluridisciplinaire participant à la prise en
+charge du patient, nommément désigné par le directeur de l'établissement ;
 
-3° L'exposé des faits et de l'objet de la demande.
+3° Un psychiatre qui ne participe pas à la prise en charge du patient, désigné
+nommément par le directeur de l'établissement, après avis du président de la
+commission médicale d'établissement ou de la conférence médicale pour les
+médecins.
+
+Le directeur ou le représentant légal de l'établissement inscrit le nom des
+trois membres dans la convocation.
