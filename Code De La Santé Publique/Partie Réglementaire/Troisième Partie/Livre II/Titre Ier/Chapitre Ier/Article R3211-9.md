@@ -1,10 +1,14 @@
 Article R3211-9
 ----
-L'ordonnance du juge des libertés et de la détention est rendue dans un délai de
-douze jours à compter de l'enregistrement de la requête au greffe. Ce délai est
-porté à vingt-cinq jours si une expertise est ordonnée.
+Lorsqu'elle émane de la personne qui fait l'objet de soins, la requête peut être
+déposée au secrétariat de l'établissement d'accueil. La demande en justice peut
+également être formée par une déclaration verbale recueillie par le directeur de
+l'établissement qui établit un procès-verbal contenant les mentions prévues par
+l'article R. 3211-8, daté et revêtu de sa signature et de celle de l'intéressé.
+Si ce dernier ne peut signer, il en est fait mention.
 
-L'ordonnance est immédiatement notifiée, par lettre recommandée avec demande
-d'avis de réception, aux parties et à leurs avocats. Si le juge décide la sortie
-immédiate, l'ordonnance est notifiée au directeur de l'établissement. Elle est
-communiquée, dans tous les cas, au ministère public.
+Le directeur transmet sans délai la requête ou le procès-verbal au greffe du
+tribunal, par tout moyen, en y joignant les pièces justificatives que le
+requérant entend produire. Le directeur communique en outre au tribunal un
+dossier contenant les pièces mentionnées à l'article R. 3211-11 dans le délai de
+cinq jours suivant le dépôt de la requête.
