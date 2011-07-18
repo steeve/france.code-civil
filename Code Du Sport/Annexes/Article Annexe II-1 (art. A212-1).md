@@ -922,24 +922,26 @@ Aviron.
 Encadrement et animation d'activités de découverte et d'initiation, incluant les
 premiers niveaux de compétition en aviron.
 
-Canoë-kayak.
+Canoë-kayak et disciplines associées.
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les
-premiers niveaux de compétition en canoë-kayak.
+premiers niveaux de compétition en canoë-kayak et disciplines associées.
+
+Encadrement des activités de canyonisme.
 
 Pour tout public, en eau calme, en rivière jusqu'en classe III incluse, en mer
 dans la limite de la navigation en 6e catégorie sur des parcours connus et
 reconnus, au maximum par vent de force 4 sur le site d'évolution. Conduite des
 séances d'initiation en kayak de vagues.
 
+Jusqu'aux canyons cotés V1, A5 et E II inclus.
+
 Char à voile.
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les
-premiers niveaux de compétition en char à voile.
-
-Char à voile en pratique assise et allongée, en pratique debout, en pratique
-tractée, pour tout public et pour tout lieu de pratique de l'activité aménagé et
-ouvert.
+premiers niveaux de compétition en char à voile. Char à voile en pratique assise
+et allongée, en pratique debout, en pratique tractée, pour tout lieu de pratique
+de l'activité aménagé et ouvert.
 
 Glisse aérotractée.
 
@@ -1035,6 +1037,9 @@ Char à voile d'initiation et de découverte.
 
 Encadrement et animation d'activités de découverte et d'initiation en char à
 voile.
+
+Sur tout support (à l'exception des activités tractées), sur des parcours école
+aménagés.
 
 
 Groupe D
@@ -1150,8 +1155,8 @@ UCC " char à voile d'initiation et de découverte ".
 Encadrement et animation d'activités de découverte et d'initiation en char à
 voile.
 
-Sur tout support (à l'exception des activités tractées), pour tout public, sur
-des parcours école aménagés (mille mètres maximum).
+Sur tout support (à l'exception des activités tractées), sur des parcours école
+aménagés.
 
 UCC " croisière côtière ".
 
@@ -1417,6 +1422,13 @@ UCC " BMX ".
 Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en
 BMX.
 
+UCC " vélo tout terrain ".
+
+Encadrement de cycles d'initiation jusqu'au 1er niveau de compétition en vélo
+tout terrain.
+
+A l'exclusion du vélo tout terrain de descente.
+
 UCC " carambole ".
 
 Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en
@@ -1426,6 +1438,13 @@ UCC " billard à poches ".
 
 Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en
 billard à poches.
+
+UCC " vélo tout terrain ".
+
+Encadrement de cycles d'initiation jusqu'au 1er niveau de compétition en vélo
+tout terrain.
+
+A l'exclusion du vélo tout terrain de descente.
 
 Certificats de spécialisation (CS) associés à la spécialité " activités
 physiques pour tous "
@@ -1693,6 +1712,23 @@ d'activités aquagym.
 
 Surveillance des publics dans le cadre des activités encadrées.
 
+BP JEPS, spécialité " activités aquatiques et de la natation ".
+
+Encadrement et animation d'activités aquatiques d'éveil, de découverte et de
+loisirs aquatiques. Apprentissage et enseignement des différentes nages.
+
+Surveillance de tout lieu de pratique des activités aquatiques et sauvetage de
+tout public en milieu aquatique.
+
+Sous réserve de la présentation du certificat quinquennal d'aptitude à
+l'exercice de la profession de maître nageur sauveteur en cours de validité.
+
+BP JEPS, spécialité " escrime ".
+
+Encadrement et animation d'activités d'éveil à l'escrime et de découverte des
+trois armes. Encadrement de cycles d'apprentissage et d'enseignement à deux
+armes, jusqu'au premier niveau de compétition.
+
 Unités capitalisables complémentaires associées à la spécialité " activités
 aquatiques "
 
@@ -1939,7 +1975,6 @@ Accompagnement et conduite de randonnées équestres en autonomie dans tout
 E.-Certificats de qualification délivrés par les branches professionnelles
 
 E-1. Certificats de qualification délivrés par la Commission paritaire nationale
-
 de l'emploi des entreprises équestres (CPNE-EE)
 
 
@@ -1974,7 +2009,6 @@ Initiation aux techniques de la randonnée équestre et conduite de promenades e
 de randonnées équestres en autonomie.
 
 E-2. Certificats de qualification délivrés par la Commission paritaire nationale
-
 emploi-formation du sport (CPNEF du sport)
 
 
