@@ -3,4 +3,5 @@ Article 871
 Les meubles, effets, marchandises, bois, fruits, récoltes et tous autres objets
 mobiliers ne peuvent être vendus publiquement et par enchères, qu'en présence et
 par le ministère d'officiers publics ayant qualité pour y procéder, ou par des
-sociétés de ventes volontaires de meubles aux enchères publiques agréées.
+courtiers de marchandises assermentés ou des opérateurs de ventes volontaires de
+meubles aux enchères publiques déclarés.

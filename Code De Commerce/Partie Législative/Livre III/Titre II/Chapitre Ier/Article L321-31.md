@@ -1,7 +1,5 @@
 Article L321-31
 ----
-Tout expert, qu'il soit ou non agréé, est tenu de contracter une assurance
-garantissant sa responsabilité professionnelle.
-
-Il est solidairement responsable avec l'organisateur de la vente pour ce qui
-relève de son activité.
+L'organisateur de la vente veille au respect par l'expert dont il s'assure le
+concours des obligations et interdictions respectivement prévues au premier
+alinéa de l'article L. 321-30 et à l'article L. 321-32. Il en informe le public.

@@ -1,9 +1,11 @@
 Article L321-30
 ----
-Tout expert agréé doit être inscrit dans l'une des spécialités dont la
-nomenclature est établie par le Conseil des ventes volontaires de meubles aux
-enchères publiques.
+Tout expert intervenant à titre onéreux à l'occasion d'une vente de meubles aux
+enchères publiques est tenu de contracter une assurance garantissant sa
+responsabilité professionnelle.
 
-Nul ne peut l'être dans plus de deux spécialités, à moins qu'il ne s'agisse de
-spécialités connexes aux précédentes dont le nombre ne peut être supérieur à
-deux.
+Il est solidairement responsable avec l'organisateur de la vente pour ce qui
+relève de son activité.
+
+Tous éléments relatifs à la nature de la garantie prévue au premier alinéa sont
+portés à la connaissance du public.

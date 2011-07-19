@@ -12,8 +12,9 @@ Est puni des mêmes peines :
 des enchères ou des soumissions, par violences, voies de fait ou menaces ;
 
 2° Le fait de procéder ou de participer, après une adjudication publique, à une
-remise aux enchères sans le concours de l'officier ministériel compétent ou
-d'une société de ventes volontaires de meubles aux enchères publiques agréée.
+remise aux enchères sans le concours de l'officier ministériel ou du courtier de
+marchandises assermenté compétent ou d'un opérateur de ventes volontaires de
+meubles aux enchères publiques déclaré.
 
 La tentative des infractions prévues au présent article est punie des mêmes
 peines.

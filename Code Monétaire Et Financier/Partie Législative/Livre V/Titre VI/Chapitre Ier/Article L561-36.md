@@ -82,8 +82,8 @@ portant institution de l'ordre des experts-comptables et réglementant le titre
 et la profession d'experts-comptables, conformément à l'article 1er de cette
 ordonnance ;
 
-12° Par le conseil de ventes volontaires de meubles aux enchères publiques sur
-les sociétés de ventes volontaires de meubles aux enchères publiques,
+12° Par le conseil des ventes volontaires de meubles aux enchères publiques sur
+les opérateurs de ventes volontaires de meubles aux enchères publiques,
 conformément aux articles L. 321-18 et L. 321-22 du code de commerce.
 
 II.-Le contrôle des obligations prévues aux chapitres Ier et II du présent titre

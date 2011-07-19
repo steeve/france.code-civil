@@ -9,7 +9,7 @@ expert-comptable, vétérinaire ;
 
 2°) notaire, avoué, huissier de justice, personne ayant la qualité de
 commissaire-priseur judiciaire habilité à diriger les ventes dans les conditions
-prévues à l'article L. 321-8 du code de commerce, syndic ou administrateur et
+prévues à l'article L. 321-4 du code de commerce, syndic ou administrateur et
 liquidateur judiciaire, agréé, greffier, expert devant les tribunaux, personne
 bénéficiaire de l'agrément prévu par l'article L. 472-1 du code de l'action
 sociale et des familles, courtier en valeurs, arbitre devant le tribunal de

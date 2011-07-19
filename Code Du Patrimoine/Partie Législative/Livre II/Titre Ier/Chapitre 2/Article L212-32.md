@@ -8,8 +8,9 @@ code de commerce, un droit de préemption par l'effet duquel il se trouve subrog
 
 La déclaration par l'administration des archives qu'elle envisage d'user de son
 droit de préemption est faite, à l'issue de la vente, entre les mains de
-l'officier public ou ministériel dirigeant les adjudications ou de la société
-habilitée à organiser la vente publique ou la vente de gré à gré. La décision de
-l'autorité administrative doit, à peine de nullité, intervenir dans un délai de
-quinze jours à compter de la vente publique ou de la notification de la
-transaction de gré à gré.
+l'officier public ou ministériel dirigeant les adjudications ou de l'opérateur
+mentionné aux articles L. 321-4 et L. 321-24 du code de commerce habilité à
+organiser la vente publique ou la vente de gré à gré. La décision de l'autorité
+administrative doit, à peine de nullité, intervenir dans un délai de quinze
+jours à compter de la vente publique ou de la notification de la transaction de
+gré à gré.

@@ -77,7 +77,7 @@ administrateurs judiciaires, les mandataires judiciaires et les
 commissaires-priseurs judiciaires, dans les conditions prévues à l'article L.
 561-3 ;
 
-14° Les sociétés de ventes volontaires de meubles aux enchères publiques ;
+14° Les opérateurs de ventes volontaires de meubles aux enchères publiques ;
 
 15° Les personnes exerçant l'activité de domiciliation mentionnée aux articles
 L. 123-11-2 et suivants du code de commerce ;

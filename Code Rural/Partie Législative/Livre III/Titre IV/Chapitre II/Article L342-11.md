@@ -15,20 +15,22 @@ recommandée, pour laquelle un avis de réception doit être demandé.
 
 En cas de refus de paiement, le porteur du warrant peut, quinze jours après la
 lettre recommandée adressée à l'emprunteur comme il est ci-dessus prescrit,
-faire procéder par un officier public ou ministériel à la vente publique de la
-marchandise engagée. Il y est procédé en vertu d'une ordonnance du juge du
-tribunal d'instance rendue sur requête fixant les jour, lieu et heure de la
-vente : elle sera annoncée huit jours au moins à l'avance par affiches apposées
-dans les lieux indiqués par le juge, qui pourra même l'autoriser sans affiches
-après une ou plusieurs annonces à son de trompe ou de caisse ; le juge pourra,
-dans tous les cas, en autoriser l'annonce par la voie des journaux. La publicité
-donnée sera constatée par une mention insérée au procès-verbal de vente.
+faire procéder par un officier public ou ministériel ou un courtier de
+marchandises assermenté à la vente publique de la marchandise engagée. Il y est
+procédé en vertu d'une ordonnance du juge du tribunal d'instance rendue sur
+requête fixant les jour, lieu et heure de la vente : elle sera annoncée huit
+jours au moins à l'avance par affiches apposées dans les lieux indiqués par le
+juge, qui pourra même l'autoriser sans affiches après une ou plusieurs annonces
+à son de trompe ou de caisse ; le juge pourra, dans tous les cas, en autoriser
+l'annonce par la voie des journaux. La publicité donnée sera constatée par une
+mention insérée au procès-verbal de vente.
 
-L'officier public chargé de procéder à la vente préviendra huit jours à l'avance
-par lettre recommandée le débiteur, les endosseurs et, s'il y a lieu, le
-bailleur, les créanciers privilégiés mentionnés à l'article 2374 du code civil
-et les créanciers hypothécaires, même ceux dispensés d'inscription dont il
-connaîtra l'existence des lieu, jour et heure de la vente.
+L'officier public ou le courtier de marchandises assermenté chargé de procéder à
+la vente préviendra huit jours à l'avance par lettre recommandée le débiteur,
+les endosseurs et, s'il y a lieu, le bailleur, les créanciers privilégiés
+mentionnés à l'article 2374 du code civil et les créanciers hypothécaires, même
+ceux dispensés d'inscription dont il connaîtra l'existence des lieu, jour et
+heure de la vente.
 
 L'annonce de la vente dans les journaux devra toujours avoir lieu huit jours au
 moins à l'avance.
