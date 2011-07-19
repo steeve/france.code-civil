@@ -30,7 +30,9 @@ d'incendie et de secours prévue à l'article L. 6161-33 ;
 
 -deux maires, dont un maire d'une commune siège d'un centre de secours, désignés
 par l'association des maires de Mayotte pour une durée identique à celle du
-mandat des membres du conseil d'exploitation élus par le conseil général.
+mandat des membres du conseil d'exploitation élus par le conseil général ;
+
+- le président de l'union départementale des sapeurs-pompiers.
 
 Le représentant de l'Etat ou la personne qu'il a désignée à cet effet assiste de
 plein droit aux séances du conseil d'exploitation.

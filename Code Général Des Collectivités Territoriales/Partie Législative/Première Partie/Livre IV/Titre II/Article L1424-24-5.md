@@ -11,4 +11,6 @@ sapeurs-pompiers ;
 3° Un sapeur-pompier professionnel officier, un sapeur-pompier professionnel non
 officier, un sapeur-pompier volontaire officier et un sapeur-pompier volontaire
 non officier, en qualité de membre élu de la commission administrative et
-technique des services d'incendie et de secours prévue à l'article L. 1424-31.
+technique des services d'incendie et de secours prévue à l'article L. 1424-31 ;
+
+4° Le président de l'union départementale des sapeurs-pompiers.

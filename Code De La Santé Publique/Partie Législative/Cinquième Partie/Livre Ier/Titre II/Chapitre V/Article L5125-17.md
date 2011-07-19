@@ -20,7 +20,8 @@ risques professionnels.
 
 Tous les pharmaciens associés sont tenus aux obligations de l'article L. 4221-1.
 En conséquence, tous leurs diplômes étant enregistrés pour l'exploitation de
-l'officine, ils ne peuvent exercer aucune autre activité pharmaceutique.
+l'officine, ils ne peuvent exercer aucune autre activité pharmaceutique, à
+l'exception de celle de pharmacien de sapeur-pompier volontaire.
 
 Un pharmacien ne peut être propriétaire ou copropriétaire que d'une seule
 officine.

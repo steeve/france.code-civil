@@ -14,7 +14,15 @@ Les modalités de calcul et de répartition des contributions des communes et de
 établissements publics de coopération intercommunale compétents pour la gestion
 des services d'incendie et de secours au financement du service départemental
 d'incendie et de secours sont fixées par le conseil d'administration de
-celui-ci.
+celui-ci. Le conseil d'administration peut, à cet effet, prendre en compte au
+profit des communes et des établissements publics de coopération intercommunale
+la présence dans leur effectif d'agents publics titulaires ou non titulaires
+ayant la qualité de sapeur-pompier volontaire, la disponibilité qui leur est
+accordée pendant le temps de travail ou les mesures sociales prises en faveur du
+volontariat. Le conseil d'administration peut, en outre, prendre en compte la
+situation des communes et des établissements publics de coopération
+intercommunale situés dans les zones rurales ou comptant moins de 5 000
+habitants.
 
 Les contributions des communes, des établissements publics de coopération
 intercommunale et du département au budget du service départemental d'incendie
