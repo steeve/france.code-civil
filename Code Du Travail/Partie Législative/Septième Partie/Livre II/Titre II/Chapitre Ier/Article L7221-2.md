@@ -16,5 +16,5 @@ d'adaptation par décret en Conseil d'Etat ;
 4° Aux congés pour événements familiaux, prévues par les articles L. 3142-1 et
 suivants ;
 
-5° A la surveillance médicale des gardiens d'immeubles, prévues à l'article L.
-7214-1.
+5° A la surveillance médicale définie au titre II du livre VI de la quatrième
+partie.

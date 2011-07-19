@@ -8,3 +8,7 @@ prévues au chapitre Ier du titre Ier du livre IV, à la section 1 du chapitre I
 et au chapitre II du titre II du livre IV de la deuxième partie. Dans ce cas, et
 par dérogation aux dispositions de l'article L. 1237-13, la rupture du contrat
 de travail ne peut intervenir que le lendemain du jour de l'autorisation.
+
+Pour les médecins du travail, la rupture conventionnelle est soumise à
+l'autorisation de l'inspecteur du travail, après avis du médecin inspecteur du
+travail.

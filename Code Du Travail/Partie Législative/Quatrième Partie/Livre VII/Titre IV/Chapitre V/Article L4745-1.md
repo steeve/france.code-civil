@@ -1,9 +1,9 @@
 Article L4745-1
 ----
-Le fait de méconnaître les dispositions des articles L. 4621-1 à L. 4623-7 et
-des règlements pris pour leur application est puni, en cas de récidive dans le
-délai de trois ans, d'un emprisonnement de quatre mois et d'une amende de 3 750
-euros.
+Le fait de méconnaître les dispositions des articles L. 4621-1 à L. 4624-3 et L.
+4644-1 et des règlements pris pour leur application est puni, en cas de récidive
+dans le délai de trois ans, d'un emprisonnement de quatre mois et d'une amende
+de 3 750 euros.
 
 La juridiction peut également ordonner, à titre de peine complémentaire,
 l'affichage du jugement aux portes de l'établissement de la personne condamnée,

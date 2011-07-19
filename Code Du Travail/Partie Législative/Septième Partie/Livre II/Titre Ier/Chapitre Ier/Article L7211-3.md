@@ -17,5 +17,8 @@ du harcèlement en application de l'article L. 1154-2 ;
 5° Aux congés pour événements familiaux, prévus par les articles L. 3142-1 et
 suivants ;
 
-6° Au mode de paiement des salaires prévu par les articles L. 3241-1 et
-suivants.
+6° Au mode de paiement des salaires prévu par les articles L. 3241-1 et suivants
+;
+
+7° A la surveillance médicale définie au titre II du livre VI de la quatrième
+partie.
