@@ -28,14 +28,17 @@ l'établissement d'un diagnostic vétérinaire ;
 6° Les techniciens intervenant sur les espèces aviaires et porcine, justifiant
 de compétences adaptées définies par décret et placés sous l'autorité et la
 responsabilité d'un vétérinaire, qui pratiquent des actes de vaccination
-collective, de castration, de débecquage ou de dégriffage ;
+collective, de castration, de débecquage ou de dégriffage ainsi que des examens
+lésionnels descriptifs externes et internes des cadavres de ces espèces ;
 
 7° Les techniciens justifiant de compétences adaptées définies par décret,
 intervenant dans le cadre d'activités à finalité strictement zootechnique,
 salariés d'un vétérinaire ou d'une société de vétérinaires habilités à exercer,
 d'une organisation de producteurs reconnue en vertu de l'article L. 551-1, d'un
 organisme à vocation sanitaire reconnu en vertu du II de l'article L. 201-1 ou
-d'un organisme relevant du chapitre III du titre V du livre VI ;
+d'un organisme relevant du chapitre III du titre V du livre VI. La liste des
+actes que ces techniciens peuvent réaliser est fixée, selon les espèces, par
+arrêté du ministre chargé de l'agriculture ;
 
 8° Les fonctionnaires et agents contractuels relevant des établissements ou
 organismes chargés, en application de l'article L. 653-12, des enregistrements
@@ -48,4 +51,18 @@ peuvent être spécialement habilités à réaliser l'identification électroniq
 complémentaire des équidés sous l'autorité médicale d'un vétérinaire ;
 
 9° Les fonctionnaires ou agents mentionnés à l'article L. 273-4 lorsqu'ils
-interviennent dans les limites prévues par cet article.
+interviennent dans les limites prévues par cet article ;
+
+10° Les vétérinaires des armées en activité, dans le cadre de leurs attributions
+;
+
+11° Les techniciens dentaires, justifiant de compétences adaptées définies par
+décret, autres que ceux répondant aux conditions du 7°, intervenant sur des
+équidés pour des actes de dentisterie précisés par arrêté, sous réserve de
+convenir avec un vétérinaire des conditions de leur intervention ;
+
+12° Dès lors qu'elles justifient de compétences définies par décret, les
+personnes réalisant des actes d'ostéopathie animale, inscrites sur une liste
+tenue par l'ordre régional des vétérinaires et s'engageant, sous le contrôle de
+celui-ci, à respecter des règles de déontologie définies par décret en Conseil
+d'Etat.

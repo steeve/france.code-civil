@@ -1,23 +1,14 @@
 Article L251-12
 ----
-I.-Sont soumis à contrôle sanitaire lorsqu'ils sont susceptibles d'être
-contaminés par des organismes nuisibles au sens de la deuxième phrase du premier
-alinéa de l'article L. 251-3 :
+I.-Les végétaux, produits de végétaux ou autres objets mentionnés à l'article L.
+201-2 importés sur le territoire de l'Union européenne ou mis en circulation sur
+ce territoire sont soumis à contrôle sanitaire dès lors qu'ils sont susceptibles
+d'être contaminés par un organisme nuisible au sens du premier alinéa de
+l'article L. 251-3.
 
-1° Les végétaux, c'est-à-dire les plantes vivantes et les parties vivantes de
-plantes spécifiées, y compris les semences ;
-
-2° Les produits végétaux, c'est-à-dire les produits d'origine végétale non
-transformés ou ayant fait l'objet d'une préparation simple, pour autant qu'il ne
-s'agit pas de végétaux ;
-
-3° Les autres objets, c'est-à-dire les supports de culture, moyens de transport
-et emballages de ces végétaux ou produits végétaux.
-
-La liste des végétaux, produits végétaux et autres objets soumis à contrôle
-sanitaire en application du premier alinéa et les exigences à l'importation ou à
-la mise en circulation les concernant sont déterminées par arrêté du ministre
-chargé de l'agriculture.
+La liste des végétaux soumis à contrôle sanitaire en application du premier
+alinéa et les exigences relatives à l'importation et à la mise en circulation
+les concernant sont fixées dans des conditions définies par voie réglementaire.
 
 Les végétaux, produits végétaux et autres objets originaires de la Communauté
 européenne ne peuvent être introduits et mis en circulation sur le territoire

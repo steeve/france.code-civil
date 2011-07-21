@@ -7,17 +7,16 @@ d'outre-mer, de détenir sciemment et de transporter les organismes nuisibles
 visés à l'article L. 251-3, quel que soit le stade de leur évolution ;
 
 2° Le fait de faire circuler des végétaux, produits végétaux et autres objets
-sans respecter les conditions prévues par les arrêtés prévus à l'article L.
-251-5 ;
+sans respecter les conditions prévues par les dispositions du troisième alinéa
+ou du quatrième alinéa du I de l'article L. 251-12 ;
 
 3° Le fait de ne pas accompagner les végétaux, produits végétaux et autres
 objets mentionnés au I de l'article L. 251-12 d'un passeport phytosanitaire.
 
 II.-Est puni de six mois d'emprisonnement et de 30 000 euros d'amende :
 
-1° Le fait de ne pas déclarer soit au maire de la commune de sa résidence, soit
-directement au service chargé de la protection des végétaux la présence d'un
-organisme nuisible nouvellement apparu dans la commune ;
+1° Le fait de ne pas respecter les obligations de déclaration ou de
+communication imposées par l'article L. 201-7 ;
 
 2° Le fait de ne pas respecter les prescriptions édictées en application des
 articles L. 251-8, L. 251-10 et L. 251-14 ordonnées par les agents habilités en

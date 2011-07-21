@@ -1,7 +1,9 @@
 Article L223-8
 ----
-Après la constatation de la maladie, le préfet statue sur les mesures à mettre
-en exécution dans le cas particulier.
+Après la constatation d'une maladie classée parmi les dangers sanitaires de
+première catégorie ou parmi les dangers sanitaires de deuxième catégorie faisant
+l'objet d'une réglementation, le préfet statue sur les mesures à mettre en
+exécution dans le cas particulier.
 
 Il prend, s'il est nécessaire, un arrêté portant déclaration d'infection
 remplaçant éventuellement un arrêté de mise sous surveillance.
@@ -36,4 +38,23 @@ des animaux infectés dans les conditions prévues par l'article L. 223-6 ;
 9° Le traitement ou la vaccination des animaux.
 
 Le ministre chargé de l'agriculture détermine par arrêté celles de ces mesures
-qui sont applicables aux différentes maladies mentionnées à l'article L. 223-2.
+qui sont applicables aux maladies classées parmi les dangers sanitaires de
+première catégorie ou parmi les dangers sanitaires de deuxième catégorie faisant
+l'objet d'une réglementation.
+
+Par dérogation au premier alinéa, le préfet, sans attendre la constatation de la
+maladie et sur instruction du ministre chargé de l'agriculture, prend un arrêté
+portant déclaration d'infection qui prescrit l'application de tout ou partie des
+mesures prévues aux 1° à 9° du présent article lorsqu'est remplie l'une des
+conditions suivantes :
+
+a) Les symptômes ou lésions observés sur les animaux de l'exploitation suspecte
+entraînent une forte présomption de survenue d'une maladie classée parmi les
+dangers sanitaires de première catégorie ;
+
+b) Un lien est établi entre l'exploitation suspecte et un pays, une zone ou une
+exploitation reconnu infecté par une maladie classée parmi les dangers
+sanitaires de première catégorie ;
+
+c) Des résultats d'analyses de laboratoire permettent de suspecter l'infection
+par une maladie classée parmi les dangers sanitaires de première catégorie.

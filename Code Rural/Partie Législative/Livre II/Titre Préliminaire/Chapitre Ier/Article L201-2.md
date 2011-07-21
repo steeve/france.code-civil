@@ -1,13 +1,24 @@
 Article L201-2
 ----
-Tout propriétaire ou détenteur de denrées mentionnées à l'article L. 231-1 ou
-d'aliments pour animaux et tout laboratoire est tenu de communiquer à l'autorité
-administrative tout résultat d'examen indiquant qu'une denrée alimentaire ou un
-aliment pour animaux qu'il a importé, produit, transformé, fabriqué, distribué
-ou analysé présente ou est susceptible de présenter un danger pour la santé
-humaine ou animale.
+Les propriétaires ou détenteurs d'animaux ou de végétaux sont soumis aux
+prescriptions du présent livre dans les conditions qu'il définit.
 
-Tout laboratoire est tenu de communiquer à l'autorité administrative tout
-résultat d'analyse conduisant à suspecter ou constater l'infection d'un ou de
-plusieurs animaux par l'une des maladies contagieuses au sens de l'article L.
-223-2, ou la présence d'un organisme nuisible au sens de l'article L. 251-3.
+Pour l'application du présent livre est regardée comme propriétaire ou détenteur
+d'animal toute personne qui possède ou détient, même à titre temporaire, un
+animal, vivant ou mort, d'une espèce figurant sur une liste définie par décret,
+ou ses semences, ovules ou embryons.
+
+Pour l'application du présent livre est regardée comme propriétaire ou détenteur
+de végétaux toute personne qui possède ou détient, même à titre temporaire, des
+plantes vivantes, des parties vivantes de plantes ou des produits de végétaux,
+ces derniers étant définis comme des produits d'origine végétale non transformés
+ou n'ayant fait l'objet que d'une préparation simple.
+
+Sont assimilés aux végétaux, pour l'application du présent chapitre et du
+chapitre Ier du titre V, des objets, ci-après dénommés " autres objets ", qui
+sont de nature à constituer des vecteurs de contagion, de contamination ou
+d'infestation des végétaux ou produits de végétaux, tels que les supports de
+culture, les moyens de transport des végétaux ou produits de végétaux ou les
+emballages de végétaux ou produits de végétaux. Les propriétaires ou détenteurs
+de ces objets peuvent être soumis aux mêmes règles que celles applicables aux
+propriétaires ou détenteurs de végétaux
