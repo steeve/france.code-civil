@@ -2,8 +2,8 @@ Article L223-10
 ----
 Tout animal ayant mordu ou griffé une personne, même s'il n'est pas suspect de
 rage, est, si l'on peut s'en saisir sans l'abattre, soumis par son propriétaire
-ou détenteur et à ses frais à la surveillance du vétérinaire. Les mêmes
-dispositions s'appliquent aux animaux ayant mordu ou griffé des animaux
+ou détenteur et à ses frais à la surveillance du vétérinaire sanitaire. Les
+mêmes dispositions s'appliquent aux animaux ayant mordu ou griffé des animaux
 domestiques et des animaux sauvages apprivoisés ou tenus en captivité dans les
 territoires définis par arrêté du ministre compétent, dans lesquels la rage a
 été constatée.

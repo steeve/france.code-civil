@@ -10,6 +10,6 @@ ou de chirurgie dont la liste est fixée, selon les espèces, par arrêté du
 ministre chargé de l'agriculture. Cette liste ne comprend aucun acte réservé
 expressément par la loi aux vétérinaires, notamment, en application des
 dispositions de l'article L. 5143-5 du code de la santé publique, la
-prescription de médicaments, non plus que les actes liés à l'exercice du mandat
-sanitaire ou à la certification mentionnés respectivement aux articles L. 221-11
-et L. 221-13 du présent code.
+prescription de médicaments, non plus que les actes qui doivent être réalisés
+par des vétérinaires détenteurs de l'habilitation mentionnée à l'article L.
+203-1 ou du mandat mentionné à l'article L. 203-8.

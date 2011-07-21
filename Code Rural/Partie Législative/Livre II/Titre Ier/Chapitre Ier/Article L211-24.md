@@ -11,11 +11,11 @@ communes pour lesquelles elle assure le service d'accueil des animaux en
 application du présent code. La capacité de chaque fourrière est constatée par
 arrêté du maire de la commune où elle est installée.
 
-La surveillance dans la fourrière des maladies réputées contagieuses au titre de
-l'article L. 221-1 est assurée par un vétérinaire titulaire du mandat sanitaire
-instauré par l'article L. 221-11, désigné par le gestionnaire de la fourrière.
-La rémunération de cette surveillance sanitaire est prévue conformément aux
-dispositions du troisième alinéa de l'article L. 221-11.
+La surveillance dans la fourrière des maladies classées parmi les dangers
+sanitaires de première et deuxième catégories au titre de l'article L. 221-1 est
+assurée par un vétérinaire sanitaire désigné par le gestionnaire de la
+fourrière, dans les conditions prévues par la section 1 du chapitre III du titre
+préliminaire.
 
 Les animaux ne peuvent être restitués à leur propriétaire qu'après paiement des
 frais de fourrière. En cas de non-paiement, le propriétaire est passible d'une
