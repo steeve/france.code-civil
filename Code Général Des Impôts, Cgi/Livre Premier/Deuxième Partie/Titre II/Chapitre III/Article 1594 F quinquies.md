@@ -77,9 +77,9 @@ par les agriculteurs bénéficiaires des aides à l'installation des jeunes
 agriculteurs prévue aux articles D. 343-9 et D. 343-13 du code rural et de la
 pêche maritime, que les intéressés soient exploitants individuels ou associés
 d'une société civile à objet agricole, pour la fraction du prix ou de la valeur
-n'excédant pas 99 000 euros, quel que soit le nombre des acquisitions, sous
-réserve qu'elles interviennent au cours des quatre années suivant l'octroi des
-aides, que l'acte précise la valeur des terres acquises depuis cette date par
+n'excédant pas 99 000 €, quel que soit le nombre des acquisitions, sous réserve
+qu'elles interviennent au cours des quatre années suivant l'octroi des aides,
+que l'acte précise la valeur des terres acquises depuis cette date par
 l'acquéreur ayant bénéficié du tarif réduit et soit appuyé d'un certificat
 délivré sans frais par le directeur départemental de l'agriculture et de la
 forêt précisant la date de l'octroi des aides.
@@ -92,28 +92,14 @@ acquis a été donné à bail à long terme ou à bail cessible à un jeune agri
 bénéficiaire des aides à l'installation.
 
 Ce taux s'applique aux acquisitions effectuées par l'acquéreur à hauteur d'une
-valeur globale n'excédant pas 99 000 euros.
+valeur globale n'excédant pas 99 000 €.
 
-F. Les ventes résultant de l'application des articles L. 128-4 à L. 128-7 du
+F. Les ventes résultant de l'application des articles L. 181-5 à L. 181-8 du
 code rural et de la pêche maritime relatifs à la mise en valeur agricole des
 terres incultes, des terres laissées à l'abandon et des terres insuffisamment
 exploitées de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.
 
-G. Dans les départements de la Guadeloupe, de la Martinique, de la Réunion et de
-la Guyane, les opérations immobilières effectuées, en vue de l'accession à la
-propriété rurale, par les sociétés d'aménagement foncier et d'établissement
-rural mentionnées au troisième alinéa de l'article L. 128-7 du code rural et de
-la pêche maritime, ainsi que par les sociétés d'intérêt collectif agricole,
-ayant fait l'objet d'un agrément avant la publication de la loi n° 69-1168 du 26
-décembre 1969.
-
-Pour les acquisitions, le bénéfice du régime de faveur est subordonné à
-l'engagement dans l'acte, ou au pied de l'acte, par ces sociétés de procéder
-dans un délai de cinq ans au morcellement des terres en vue de leur cession à de
-petits exploitants agricoles. En cas d'inobservation de cet engagement, les
-droits non perçus lors de l'acquisition sont exigibles à première réquisition.
-
-Les modalités d'application du présent G sont fixées par décret.
+G.(Abrogé).
 
 H. Les acquisitions, par une société de crédit-bail, d'immeubles dont elle
 concède immédiatement la jouissance au vendeur par un contrat de crédit-bail, à

@@ -7,7 +7,7 @@ définies à l'article 18 de l'instruction ministérielle du 31 décembre 1908 s
 exonérées de la taxe foncière sur les propriétés non bâties perçue au profit des
 communes et de leurs établissements publics de coopération intercommunale à
 concurrence de 80 % pour les années 2009 à 2015 et respectivement à concurrence
-de 70 %, 60 % et 50 % pour les impositions établies au titre de 2016, 2017 et
+de 70 %, 60 % et 50 % pour les impositions établies au titre de 2016,2017 et
 2018.
 
 II.-Le I ne s'applique pas aux propriétés non bâties qui bénéficient des
@@ -18,7 +18,7 @@ l'article 1395 ou au I de l'article 1395 D ne s'appliquent pas aux propriétés
 qui bénéficient de la présente exonération.
 
 Le I du présent article ne s'applique pas aux parcelles visées au deuxième
-alinéa de l'article L. 128-4 du code rural et de la pêche maritime à compter de
+alinéa de l'article L. 181-5 du code rural et de la pêche maritime à compter de
 l'année suivant celle au cours de laquelle soit elles ont fait l'objet d'une des
-procédures mentionnées aux articles L. 128-4 à L. 128-7 du même code, soit elles
-ont été recensées en application de l'article L. 128-13 du même code.
+procédures mentionnées aux articles L. 181-5 à L. 181-8 du même code, soit elles
+ont été recensées en application de l'article L. 181-14 du même code.

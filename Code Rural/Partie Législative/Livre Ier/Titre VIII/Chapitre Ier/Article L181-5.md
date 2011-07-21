@@ -1,4 +1,4 @@
-Article L182-3
+Article L181-5
 ----
 Le président du conseil général, sur l'initiative du conseil général ou à la
 demande de la chambre d'agriculture, sollicite, après une procédure

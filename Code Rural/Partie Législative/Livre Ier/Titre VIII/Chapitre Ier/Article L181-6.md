@@ -1,4 +1,4 @@
-Article L182-4
+Article L181-6
 ----
 Lorsque le propriétaire ou le mandataire a renoncé expressément ou tacitement à
 mettre en valeur le fonds ou n'a pas, dans le délai imparti par la mise en
@@ -14,7 +14,7 @@ d'exploiter sont accompagnées d'un projet de mise en valeur agricole du fonds.
 L'autorisation d'exploiter emporte de plein droit l'existence d'un bail à ferme
 soumis aux dispositions du titre VI du livre IV. Dès la notification de
 l'autorisation au bénéficiaire et au propriétaire ou à son mandataire, le
-bénéficiaire peut entrer dans les lieux.A défaut d'accord amiable entre le
+bénéficiaire peut entrer dans les lieux. A défaut d'accord amiable entre le
 propriétaire ou le mandataire et le bénéficiaire de l'autorisation d'exploiter
 dans les deux mois de la notification de cette dernière sur le prix du fermage,
 le préfet fixe le montant de l'indemnité d'occupation due par le bénéficiaire au
@@ -24,12 +24,12 @@ la plus diligente des parties. La saisine du tribunal ne suspend ni l'entrée
 dans les lieux, ni le versement de l'indemnité par le bénéficiaire de
 l'autorisation d'exploiter.
 
-L'opérateur foncier peut demander à bénéficier de l'autorisation d'exploiter et
-à devenir titulaire du bail pour une durée maximale de cinq ans. Si
-l'autorisation d'exploiter lui est accordée, elle peut, nonobstant les
-dispositions de l'article L. 461-7, céder le bail ou sous-louer dans les délais
-précités. Il en est de même lorsqu'une personne publique s'est engagée à devenir
-titulaire de ce bail dans ces mêmes délais.
+La société d'aménagement foncier et d'établissement rural peut demander à
+bénéficier de l'autorisation d'exploiter et à devenir titulaire du bail pour une
+durée maximale de cinq ans. Si l'autorisation d'exploiter lui est accordée, elle
+peut, nonobstant les dispositions de l'article L. 461-7, céder le bail ou
+sous-louer dans les délais précités. Il en est de même lorsqu'une personne
+publique s'est engagée à devenir titulaire de ce bail dans ces mêmes délais.
 
 Si l'autorisation d'exploiter porte sur un fonds donné à bail, ledit bail prend
 fin sans indemnité à la date de notification à l'ancien titulaire du droit
@@ -43,3 +43,7 @@ ou, à défaut, par tous moyens de preuve. Le montant du fermage dû aux ayants
 droit dont l'identité ou l'adresse est demeurée inconnue est déposé par le
 mandataire qui leur a été désigné chez un dépositaire agréé pour recevoir les
 capitaux appartenant à des mineurs.
+
+Pour l'application du présent article en Guyane, la référence aux sociétés
+d'aménagement foncier et d'établissement rural est remplacée par la référence à
+l'opérateur foncier.
