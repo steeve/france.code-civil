@@ -1,11 +1,16 @@
 Article L951-3
 ----
-Sont compétents pour opérer la saisie des biens appréhendés conformément à
-l'article L. 943-1 :
+Pour son application en Guadeloupe, en Guyane, à la Martinique et à La Réunion,
+l'article L. 912-4 est ainsi modifié :
 
-1° Dans les départements d'outre-mer, le directeur départemental des affaires
-maritimes et ses adjoints ;
+1° Au cinquième alinéa, les mots : " avec voix consultative " sont remplacés par
+les mots : " avec voix délibérative " ;
 
-2° Dans les collectivités et territoires d'outre-mer, le directeur du service
-des affaires maritimes et ses adjoints ou le directeur du service chargé de la
-pêche maritime et ses adjoints.
+2° Il est complété d'un alinéa ainsi rédigé :
+
+" Des représentants des associations de la pêche maritime de loisir peuvent
+également être désignés par l'autorité administrative pour participer, avec voix
+consultative, aux travaux des comités régionaux des pêches maritimes et des
+élevages marins. Ils siègent lorsque l'ordre du jour comporte des questions
+relatives à l'élaboration de la réglementation applicable à la pêche maritime de
+loisir. "

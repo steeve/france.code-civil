@@ -1,8 +1,8 @@
 Article L951-6
 ----
-Toute personne qui, sur un fonds lui appartenant ou cultivé par elle, ou sur des
-produits ou matières qu'elle détient en magasin, constate la présence d'un
-organisme nuisible, nouvellement apparu dans la commune, doit en faire
-immédiatement la déclaration soit au maire de la commune de sa résidence, lequel
-doit la transmettre au service chargé de la protection des végétaux, soit
-directement au service chargé de la protection des végétaux dont elle dépend.
+Dans les régions de la Guadeloupe, de la Guyane, de la Martinique et de La
+Réunion, la compétence attribuée au représentant de l'Etat dans la région en
+matière de schéma régional de développement de l'aquaculture marine par
+l'article L. 923-1-1 est exercée par le président du conseil régional dans les
+conditions prévues à l'article L. 4433-15-1 du code général des collectivités
+territoriales.

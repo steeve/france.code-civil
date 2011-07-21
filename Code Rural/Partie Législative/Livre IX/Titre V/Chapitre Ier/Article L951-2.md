@@ -1,15 +1,12 @@
 Article L951-2
 ----
-La pêche est interdite aux navires battant pavillon d'un Etat étranger dans les
-eaux maritimes placées sous souveraineté ou juridiction française s'étendant au
-large des côtes de la Nouvelle-Calédonie, des territoires de la Polynésie
-française, des îles Wallis et Futuna et des Terres australes et antarctiques
-françaises.
+Les comités régionaux des pêches maritimes et des élevages marins de la
+Guadeloupe, de la Guyane, de la Martinique et de La Réunion sont des organismes
+de droit privé chargés de missions de service public, qui, outre les missions
+exercées en application de l'article L. 912-3, sont également chargés :
 
-Des dérogations aux dispositions du premier alinéa du présent article sont
-accordées conformément aux accords ou arrangements internationaux et selon des
-modalités fixées par décret.
+1° D'exercer, dans le secteur de la pêche maritime et des élevages marins, les
+fonctions prévues à l'article L. 342-2 du code de la recherche ;
 
-Les navires battant pavillon d'un Etat étranger sont soumis à la réglementation
-française des pêches applicable aux eaux maritimes dans lesquelles des droits de
-pêche sont accordés.
+2° De participer à l'élaboration de la réglementation relative à la pêche
+maritime de loisir applicable dans la région.

@@ -1,13 +1,16 @@
 Article L952-1
 ----
-Les dispositions du présent livre s'appliquent à la collectivité territoriale de
-Wallis et Futuna en tant qu'elles concernent les compétences de l'Etat.
+I.-Pour l'application de l'article L. 923-1-1 à Saint-Barthélemy, il y a lieu de
+remplacer les références aux dispositions du code de l'environnement par les
+références correspondantes de la réglementation localement applicable.
 
-Toutefois, le délai de trois jours ouvrés entre l'appréhension et la remise à
-l'autorité compétente pour les saisies, tel que fixé à l'article L. 943-1, est
-augmenté du temps de navigation nécessaire pour rejoindre le port de conduite
-désigné par l'autorité maritime.
+II.-Pour l'application du même article tant à Saint-Barthélemy qu'à
+Saint-Martin, il y a lieu de lire :
 
-Le délai de six jours entre l'appréhension d'un navire ou d'un engin flottant et
-l'ordonnance de confirmation de la saisie prononcée par le juge des libertés et
-de la détention mentionné à l'article L. 943-4 est augmenté de la même durée.
+1° " Représentant de l'Etat " au lieu de : " représentant de l'Etat dans la
+région " ;
+
+2° " Arrêté du représentant de l'Etat " au lieu de : " arrêté préfectoral " ;
+
+3° " La collectivité de Saint-Barthélemy " ou " la collectivité de Saint-Martin
+" au lieu de : " chaque région concernée " et de " chaque région ".

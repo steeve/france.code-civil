@@ -1,7 +1,9 @@
-Article L955-1
+Article L981-1
 ----
-Les dispositions du présent livre s'appliquent à la collectivité territoriale de
-Wallis et Futuna en tant qu'elles concernent les compétences de l'Etat.
+Sous réserve des dispositions des articles L. 955-3 à L. 955-13, les
+dispositions des articles L. 941-1 à L. 946-6 sont applicables aux eaux sous
+souveraineté ou juridiction française s'étendant au large des îles australes
+françaises et des îles Eparses.
 
 Toutefois, le délai de trois jours ouvrés entre l'appréhension et la remise à
 l'autorité compétente pour les saisies, tel que fixé à l'article L. 943-1, est

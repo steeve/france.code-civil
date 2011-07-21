@@ -1,15 +1,10 @@
 Article L953-1
 ----
-Sous réserve des dispositions des articles 711-3 et 711-4 du code pénal, les
-dispositions des articles L. 941-1 à L. 946-6 s'appliquent aux eaux sous
-souveraineté ou juridiction française s'étendant au large de la Polynésie
-française en tant qu'elles concernent les compétences de l'Etat.
+Pour l'application de l'article L. 923-1-1 à Saint-Pierre-et-Miquelon, il y a
+lieu de lire :
 
-Toutefois, le délai de trois jours ouvrés entre l'appréhension et la remise à
-l'autorité compétente pour les saisies, tel que fixé à l'article L. 943-1, est
-augmenté du temps de navigation nécessaire pour rejoindre le port de conduite
-désigné par l'autorité maritime.
+1° " Représentant de l'Etat à Saint-Pierre-et-Miquelon " au lieu de : "
+représentant de l'Etat dans la région " ;
 
-Le délai de six jours entre l'appréhension d'un navire ou d'un engin flottant et
-l'ordonnance de confirmation de la saisie prononcée par le juge des libertés et
-de la détention mentionné à l'article L. 943-4 est augmenté de la même durée.
+2° " A Saint-Pierre-et-Miquelon " au lieu de : " dans chaque région concernée "
+et " dans chaque région ".
