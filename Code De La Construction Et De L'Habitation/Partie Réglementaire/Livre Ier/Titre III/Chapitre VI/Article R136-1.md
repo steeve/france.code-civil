@@ -1,19 +1,24 @@
 Article R136-1
 ----
-L'annexe environnementale mentionnée au 1 de l'article L. 125-9 du code de
-l'environnement comporte les éléments suivants, fournis par le bailleur :
+Pour l'application de l'article L. 111-5-3, lorsque les bâtiments, dont la
+demande de permis de construire a été déposée avant le 1er janvier 2012, situés
+en France métropolitaine, à usage principal de bureaux ne comportant pas de
+logements et équipés d'un parc de stationnement bâti clos et couvert d'accès
+réservé aux salariés, possèdent les caractéristiques suivantes :
 
-1° La liste, le descriptif complet ainsi que les caractéristiques énergétiques
-des équipements existants dans le bâtiment et relatifs au traitement des
-déchets, au chauffage, au refroidissement, à la ventilation et à l'éclairage
-ainsi qu'à tout autre système lié aux spécificités du bâtiment ;
+― capacité de stationnement supérieure à 20 places dans les aires urbaines de
+plus de 50 000 habitants, capacité de stationnement supérieure à 40 places dans
+les autres cas ;
 
-2° Les consommations annuelles énergétiques réelles des équipements et systèmes
-dont il a l'exploitation ;
+― un unique propriétaire et un unique occupant de l'ensemble constitué des
+locaux et du parc de stationnement,
 
-3° Les consommations annuelles d'eau des locaux loués et des équipements et
-systèmes dont il a l'exploitation ;
+le propriétaire réalise, à partir d'un tableau général basse tension situé en
+aval du disjoncteur de l'immeuble, des circuits électriques dédiés permettant la
+connexion de points de charge pour la recharge normale des véhicules électriques
+ou hybrides rechargeables et équipe une partie des places du parc de
+stationnement de ces points de charge.
 
-4° La quantité annuelle de déchets générée par le bâtiment si le bailleur en
-assure le traitement et, le cas échéant, la quantité qu'il a fait collecter en
-vue d'une valorisation ou d'un traitement spécifique.
+Cette installation dessert au moins 10 % de la totalité des places du parc de
+stationnement destinées aux véhicules automobiles dans les aires urbaines de
+plus de 50 000 habitants, 5 % dans les autres cas.
