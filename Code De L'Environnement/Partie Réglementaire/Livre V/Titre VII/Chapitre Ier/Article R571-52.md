@@ -1,6 +1,6 @@
 Article R571-52
 ----
-La présente sous-section s'applique :
+Les dispositions des articles R. 571-44 à R. 571-51 s'appliquent :
 
 1° Aux infrastructures nouvelles et aux modifications ou transformations
 significatives d'une infrastructure existante soumises à une enquête publique en
