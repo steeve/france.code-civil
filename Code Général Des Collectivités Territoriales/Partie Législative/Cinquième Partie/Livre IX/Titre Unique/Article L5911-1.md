@@ -1,8 +1,8 @@
 Article L5911-1
 ----
-Dans les régions françaises d'Amérique qui comprennent un seul département, il
-est créé un congrès des élus départementaux et régionaux composé des conseillers
-généraux et des conseillers régionaux.
+Le congrès des élus départementaux et régionaux de Guadeloupe est composé des
+membres du conseil général de la Guadeloupe et du conseil régional de
+Guadeloupe.
 
 Les députés et les sénateurs élus dans le département, qui ne sont membres ni du
 conseil général ni du conseil régional, siègent au congrès des élus
