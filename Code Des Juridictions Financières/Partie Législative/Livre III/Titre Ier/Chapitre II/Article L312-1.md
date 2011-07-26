@@ -30,6 +30,14 @@ c) Le président du conseil exécutif de Corse et, quand ils agissent dans le
 cadre des dispositions du dernier alinéa de l'article L. 4424-4 du code général
 des collectivités territoriales, les conseillers exécutifs ;
 
+c bis) Le président de l'assemblée de Guyane et, quand ils agissent par
+délégation de celui-ci, les vice-présidents et autres membres de l'assemblée de
+Guyane ;
+
+c ter) Le président du conseil exécutif de Martinique et, quand ils agissent
+dans le cadre des articles L. 7224-12 et L. 7224-21 du code général des
+collectivités territoriales, les conseillers exécutifs ;
+
 d) Les présidents de conseil général et, quand ils agissent dans le cadre des
 dispositions des articles L. 3221-3 et L. 3221-7 du code général des
 collectivités territoriales, les vice-présidents et autres membres du conseil
