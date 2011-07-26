@@ -223,16 +223,6 @@ Guadeloupe
 43
 
 
-Guyane
-
-31
-
-
-Guyane
-
-33
-
-
 Ile-de-France
 
 209
@@ -350,16 +340,6 @@ Moselle
 Vosges
 
 15
-
-
-Martinique
-
-41
-
-
-Martinique
-
-43
 
 
 Midi-Pyrénées

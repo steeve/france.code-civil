@@ -2,7 +2,8 @@ Article L46-1
 ----
 Nul ne peut cumuler plus de deux des mandats électoraux énumérés ci-après :
 conseiller régional, conseiller à l'Assemblée de Corse, conseiller général,
-conseiller de Paris, conseiller municipal.
+conseiller de Paris, conseiller à l'assemblée de Guyane, conseiller à
+l'assemblée de Martinique, conseiller municipal.
 
 Quiconque, à l'exception des personnes visées aux articles L. 270, L. 272-6 et
 L. 360 du présent code, se trouve dans ce cas doit faire cesser

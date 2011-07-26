@@ -9,6 +9,9 @@ Les sénateurs sont élus dans chaque département par un collège électoral co
 département et des conseillers de l'Assemblée de Corse désignés dans les
 conditions prévues par le titre III bis du présent livre ;
 
+2° bis Des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée
+de Martinique ;
+
 3° Des conseillers généraux ;
 
 4° Des délégués des conseils municipaux ou des suppléants de ces délégués.
