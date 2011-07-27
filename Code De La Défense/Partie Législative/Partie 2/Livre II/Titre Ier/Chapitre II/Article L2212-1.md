@@ -1,9 +1,9 @@
 Article L2212-1
 ----
 Dans les cas prévus à l'article L. 1111-2, les hommes non appelés au titre du
-service militaire ou du service de défense peuvent être requis à titre
-individuel ou collectif, dans les conditions et sous les pénalités prévues au
-présent titre, et aux chapitres 4 et 6 du titre III.
+service militaire ou du service de sécurité nationale peuvent être requis à
+titre individuel ou collectif, dans les conditions et sous les pénalités prévues
+au présent titre, et aux chapitres 4 et 6 du titre III.
 
 L'appel sous les drapeaux fait cesser la réquisition.
 

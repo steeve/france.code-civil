@@ -1,5 +1,6 @@
 Article L2151-4
 ----
-Lors de la mise en oeuvre du service de défense, les affectés collectifs de
-défense sont maintenus dans leur emploi habituel ou tenus de le rejoindre, s'ils
-ne sont pas appelés au titre de la réserve pour les besoins des forces armées.
+Les employeurs mentionnés au deuxième alinéa de l'article L. 2151-1 sont tenus
+d'élaborer des plans de continuité ou de rétablissement d'activité et de
+notifier aux personnes concernées par ces plans qu'elles sont susceptibles
+d'être placées sous le régime du service de sécurité nationale.

@@ -8,7 +8,7 @@ ou partie du territoire.
 
 Dans les mêmes cas, le bénéfice du droit de réquisition prévu par l'article L.
 2221-2 peut être étendu par décret à tout ou partie des formations constituées
-du service de défense.
+du service de sécurité nationale.
 
 Ce droit est exercé dans les conditions et suivant les modalités prévues au
 chapitre 3 du présent titre, ainsi qu'aux chapitres 3 et 4 du titre III du
