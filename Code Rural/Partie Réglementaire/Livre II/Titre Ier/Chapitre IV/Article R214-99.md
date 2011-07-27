@@ -40,11 +40,13 @@ du 7 septembre 2005, à celui exigé en application de l'arrêté mentionné au
 précédent alinéa. Si l'accès ou l'exercice de ces activités n'est pas réglementé
 dans l'Etat membre d'origine, les professionnels doivent en outre justifier de
 deux années d'expérience professionnelle à temps plein au cours des dix
-dernières années. En cas de différences substantielles entre, d'une part, la
-formation requise en France pour les exercer activités mentionnées aux articles
-R. 214-87 et R. 214-88 et, d'autre part, celle reçue par le demandeur, ainsi que
-les connaissances qu'il a acquises au cours de son expérience professionnelle,
-celui-ci doit, au choix, se soumettre à une épreuve d'aptitude ou accomplir un
-stage d'adaptation d'une durée maximale de trois ans. Leur contenu et les
-modalités de leur organisation sont fixés par arrêté du ministre chargé de
-l'agriculture.
+dernières années. Cette justification n'est pas requise lorsque la formation
+conduisant à cette profession est réglementée dans l'Etat membre ou partie à
+l'accord sur l'Espace économique européen dans lequel elle a été validée. En cas
+de différences substantielles entre, d'une part, la formation requise en France
+pour les exercer activités mentionnées aux articles R. 214-87 et R. 214-88 et,
+d'autre part, celle reçue par le demandeur, ainsi que les connaissances qu'il a
+acquises au cours de son expérience professionnelle, celui-ci doit, au choix, se
+soumettre à une épreuve d'aptitude ou accomplir un stage d'adaptation d'une
+durée maximale de trois ans. Leur contenu et les modalités de leur organisation
+sont fixés par arrêté du ministre chargé de l'agriculture.

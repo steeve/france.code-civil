@@ -13,6 +13,9 @@ l'activité mentionnée à l'article L. 211-17.
 Si l'accès ou l'exercice de cette activité n'est pas réglementé dans l'Etat
 membre d'origine, les professionnels doivent en outre justifier de deux années
 d'expérience professionnelle à temps plein au cours des dix dernières années.
+Cette justification n'est pas requise lorsque la formation conduisant à cette
+profession est réglementée dans l'Etat membre ou partie à l'accord sur l'Espace
+économique européen dans lequel elle a été validée.
 
 En cas de différences substantielles entre, d'une part, la formation requise en
 France pour exercer l'activité mentionnée à l'article L. 211-17 et, d'autre
