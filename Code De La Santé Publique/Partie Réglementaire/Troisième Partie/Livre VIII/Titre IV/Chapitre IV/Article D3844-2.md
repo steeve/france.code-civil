@@ -1,12 +1,18 @@
 Article D3844-2
 ----
-Les membres de la commission sont nommés pour trois ans renouvelables.
+Pour l'application du livre II :
 
-En cas de décès, de démission ou d'impossibilité d'assurer leurs fonctions en
-cours de mandat, ils sont remplacés selon les mêmes modalités pour la durée du
-mandat restant à courir.
+1° Les attributions dévolues au préfet sont exercées par le représentant de
+l'Etat ;
 
-Si, au cours de son mandat, un membre de la commission vient à relever d'une
-incompatibilité mentionnée à l'article L. 3223-2, le haut-commissaire de la
-République met fin à ses fonctions et procède à son remplacement selon les mêmes
-modalités.
+2° Les attributions dévolues au tribunal de grande instance, à son président ou
+à son greffe sont attribuées au tribunal de première instance, à son président
+ou à son greffe ;
+
+3° Les références à la commission départementale des soins psychiatriques sont
+remplacées par des références à la commission des soins psychiatriques ;
+
+4° Les références à un établissement mentionné à l'article L. 3222-1 sont
+remplacées par des références à un établissement habilité à soigner les
+personnes atteintes de troubles mentaux, conformément à la réglementation
+applicable localement.

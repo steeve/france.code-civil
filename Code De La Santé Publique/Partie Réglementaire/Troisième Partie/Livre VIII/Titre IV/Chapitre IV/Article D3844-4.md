@@ -1,11 +1,5 @@
 Article D3844-4
 ----
-La commission délibère valablement dès lors que trois de ses membres dont au
-moins un médecin sont présents.
-
-En cas d'égalité des suffrages, la voix du président est prépondérante.
-
-Un membre de la commission ne peut participer à l'examen de la situation d'une
-personne pour laquelle il a signé une demande d'hospitalisation, qui est son
-parent au quatrième degré inclusivement, qu'il traite ou qu'il a traitée, pour
-laquelle il a été désigné comme expert ou qu'il a eu à juger.
+Pour l'application de l'article R. 3223-1, les mots : " Dans chaque département
+" sont remplacés par les mots : " En Nouvelle-Calédonie et en Polynésie
+française ".

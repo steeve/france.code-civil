@@ -1,8 +1,5 @@
 Article D3844-5
 ----
-La commission se réunit au moins une fois par trimestre sur convocation de son
-président. Il est rédigé un procès-verbal de séance qui n'est remis qu'aux
-membres de la commission.
-
-Pour l'exercice de ses missions, la commission peut désigner des rapporteurs en
-son sein
+Pour l'application du second alinéa de l'article R. 3223-7, les mots : " par
+l'agence régionale de santé " sont remplacés par les mots : " par les services
+du représentant de l'Etat " et la seconde phrase est supprimée.

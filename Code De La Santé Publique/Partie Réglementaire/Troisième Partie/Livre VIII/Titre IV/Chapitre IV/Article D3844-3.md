@@ -1,6 +1,9 @@
 Article D3844-3
 ----
-Chaque année, la commission désigne en son sein son président par vote à
-bulletin secret.
+Pour l'application de l'article R. 3222-6 :
 
-En cas de partage égal des voix, le membre le plus âgé est déclaré élu.
+1° Les mots : " le directeur de l'agence régionale de santé " sont remplacés par
+les mots : " l'autorité localement compétente en matière de santé " ;
+
+2° Au dernier alinéa, les mots : " ministre chargé de la santé " sont remplacés
+par les mots : " représentant de l'Etat ".
