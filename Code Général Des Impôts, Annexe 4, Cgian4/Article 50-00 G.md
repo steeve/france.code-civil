@@ -14,7 +14,8 @@ théorique en fin de période, annotée de la mention " Néant ".
 1° La déclaration récapitulative mensuelle comporte, pour chaque compte de la
 comptabilité matières, les renseignements suivants :
 
-a) Les noms ou raison sociale et adresse du siège social ;
+a) Les noms, dénomination ou raison sociale et adresse du siège social ou du
+principal établissement ;
 
 b) Le numéro d'identification de l'entrepôt fiscal suspensif des droits
 d'accises ;
@@ -41,7 +42,7 @@ b) Les références aux contrats d'achat soumis au visa de l'établissement
 mentionné à l'article L. 621-1 du code rural et de la pêche maritime pour les
 transactions soumises à cette procédure ;
 
-c) Les références aux certificats d'agrément ou de labellisation ;
+c) (Abrogé)
 
 d) Les numéros d'enregistrement des contrats d'achat et les numéros des
 déclarations de transactions soumis préalablement aux interprofessions tels que
@@ -58,10 +59,10 @@ a) Pour les entrepositaires agréés produisant des alcools, des produits
 intermédiaires et des produits visés à l'article 438 du code général des impôts,
 par appellation d'origine ou dénomination de produits ;
 
-b) Pour les autres entrepositaires agréés par nature de produit et / ou par
-tarif d'imposition, sous réserve des règlements ou accords interprofessionnels
-prévus notamment en application des articles L. 632-1 à L. 632-7 du code rural
-et de la pêche maritime.
+b) Pour les autres entrepositaires agréés par nature de produit et/ ou par tarif
+d'imposition, sous réserve des règlements ou accords interprofessionnels prévus
+notamment en application des articles L. 632-1 à L. 632-7 du code rural et de la
+pêche maritime.
 
 II.-1° Conformément au III de l'article 302 D du code général des impôts,
 l'entrepositaire agréé liquide l'impôt sur la déclaration récapitulative
@@ -90,8 +91,13 @@ d'imposition, ainsi que le montant global de l'ensemble de ces droits ;
 f) Le moyen de paiement utilisé (numéraire, chèque, virement ou obligation
 cautionnée) ;
 
-g) Pour les utilisateurs de matériels de validation, les numéros d'empreintes de
-début et de fin de période.
+g) Pour les utilisateurs de matériels de validation mentionnés au 3° du I de
+l'article 111 H ter de l'annexe III au code général des impôts, les numéros
+d'empreintes de début et de fin de période ;
+
+h) Pour les utilisateurs de documents prévalidés mentionnés au 2° du I de
+l'article 111 H ter précité, les numéros de documents de début et de fin de
+période.
 
 2° Deux cases et une colonne réservées à l'administration font référence aux
 codes taxes, à la réception de la déclaration de liquidation (date et numéro) et
@@ -111,14 +117,14 @@ montant des droits qui s'y rattache.
 suivent le dépôt de la demande, le crédit d'impôt subsistant est alors remboursé
 au bénéficiaire, sur sa demande.
 
-III.-Pour l'application de l'article 111 H quater de l'annexe III au code
+III.-Pour l'application du III de l'article 111 H quater de l'annexe III au code
 général des impôts, aux termes du délai d'information prévu par l'article 302 P
 du code général des impôts, l'entrepositaire agréé établit un relevé des
-documents d'accompagnement non apurés mentionnés au I de l'article 302 M dudit
-code, dénommé ci-après " relevé de non-apurement ".
+documents d'accompagnement non apurés mentionnés au I de l'article 302 M et à
+l'article 302 M ter dudit code, dénommé ci-après " relevé de non-apurement ".
 
-Le relevé de non-apurement est conforme au modèle annexé à l'arrêté du 25 août
-2000 (JO du 31 août 2000).
+Le relevé de non-apurement est conforme au modèle repris à l'annexe I de
+l'arrêté du 28 juillet 2011 (JO du 6 août 2011).
 
 Le relevé de non-apurement est établi de manière distincte pour chacun des
 entrepôts fiscaux suspensifs des droits d'accises de l'entrepositaire agréé.
@@ -128,7 +134,7 @@ droits indirects dont il dépend selon les mêmes modalités et dans les conditi
 prévues pour la déclaration récapitulative mensuelle.
 
 Un exemplaire de chaque document d'accompagnement non apuré est annexé au relevé
-de non-apurement.
+de non-apurement, lorsque ce document est établi sous format papier.
 
 Outre les renseignements prévus au 1° du I, le relevé de non-apurement comporte
 les renseignements suivants :

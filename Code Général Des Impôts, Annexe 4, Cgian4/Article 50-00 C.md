@@ -1,14 +1,14 @@
 Article 50-00 C
 ----
-Au titre des renseignements particuliers prévus à l'article 286 J de l'annexe II
-au code général des impôts, et en fonction de l'activité des entrepositaires
-agréés concernés, chacun des comptes de la comptabilité matières doit reprendre
-notamment les informations suivantes :
+En application des articles 286 I et 286 J de l'annexe II du code général des
+impôts, et en fonction de l'activité des entrepositaires agréés concernés,
+chacun des comptes de la comptabilité matières doit reprendre notamment les
+informations suivantes :
 
 1° La nature, le numéro et la date de départ ou de réception du document
-d'accompagnement mentionné à l'article 302 M dudit code ou des pièces
-justificatives des productions, des transformations, des détentions, des entrées
-et sorties de produits des chais ou locaux du site d'exploitation ;
+d'accompagnement mentionné aux articles 302 M et 302 M ter dudit code ou des
+pièces justificatives des productions, des transformations, des détentions, des
+entrées et sorties de produits des chais ou locaux du site d'exploitation ;
 
 2° La date des déclarations de mise en production d'alcool, de fabrication de
 mistelles, vermouths, vins de liqueur ou apéritifs à base de vin, de cidre ou de
@@ -37,7 +37,8 @@ b) Les références aux contrats d'achat soumis au visa de l'établissement
 mentionné à l'article L. 621-1 du code rural et de la pêche maritime pour les
 transactions soumises à cette procédure ;
 
-c) Les références aux certificats d'agrément ou de labellisation ;
+c) Les références aux déclarations de revendication des produits bénéficiant
+d'un signe d'origine telles que prévues par la réglementation en vigueur ;
 
 d) Les numéros d'enregistrement des contrats d'achat et les numéros des
 déclarations de transactions soumis préalablement aux interprofessions tels que
