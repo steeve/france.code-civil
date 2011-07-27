@@ -15,9 +15,9 @@ remplacement mentionnés à l'article L. 5421-2 du code du travail ou de l'une d
 allocations mentionnées à l'article L. 1233-68, aux 2° et 4° de l'article L.
 5123-2 du même code ou d'une allocation versée en cas d'absence complète
 d'activité, par application d'accords professionnels ou interprofessionnels,
-nationaux ou régionaux, mentionnés aux articles L. 5122-4 et L. 5123-6 du code
-du travail ou de l'allocation de congé-solidarité mentionnée à l'article 15 de
-la loi n° 2000-1207 du 13 décembre 2000 d'orientation pour l'outre-mer ou de la
+nationaux ou régionaux, mentionnés aux articles L. 5122-4 et L.5123-6 du code du
+travail ou de l'allocation de congé-solidarité mentionnée à l'article 15 de la
+loi n° 2000-1207 du 13 décembre 2000 d'orientation pour l'outre-mer ou de la
 rémunération prévue à l'article L. 1233-72 du code du travail ;
 
 3°) dans les conditions et limites fixées par le décret prévu au présent
@@ -37,4 +37,11 @@ années, les justifications à produire par les intéressés ;
 
 6°) sauf dans la mesure où elle s'impute sur la durée de la peine, toute période
 de détention provisoire accomplie par une personne qui, au moment de son
-incarcération, relevait de l'assurance obligatoire.
+incarcération, relevait de l'assurance obligatoire ;
+
+7° Dans des conditions et limites d'âge, de ressources et de nombre total de
+trimestres validés à ce titre, fixées par le décret prévu au présent article, et
+sans condition d'affiliation préalable, les périodes n'ayant pas donné lieu à
+validation à un autre titre dans un régime de base pendant lesquelles une
+personne a été inscrite en tant que sportif de haut niveau sur la liste
+mentionnée au premier alinéa de l'article L. 221-2 du code du sport.
