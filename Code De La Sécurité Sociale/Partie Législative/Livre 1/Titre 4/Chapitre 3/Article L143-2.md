@@ -1,6 +1,6 @@
 Article L143-2
 ----
-Les contestations mentionnées aux 1°, 2° et 3° de l'article L. 143-1 sont
+Les contestations mentionnées aux 1°, 2°, 3° et 5° de l'article L. 143-1 sont
 soumises à des tribunaux du contentieux de l'incapacité.
 
 Les tribunaux du contentieux de l'incapacité comprennent trois membres. Ils se

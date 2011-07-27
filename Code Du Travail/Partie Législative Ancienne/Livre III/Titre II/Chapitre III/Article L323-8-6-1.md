@@ -17,10 +17,19 @@ mise en œuvre des parcours de formation professionnelle préqualifiante et
 certifiante des demandeurs d'emploi handicapés qui sont recrutés dans la
 fonction publique.
 
-Peuvent bénéficier du concours de ce fonds les employeurs publics mentionnés à
-l'article 2 du titre Ier du statut général des fonctionnaires et l'exploitant
-public La Poste, à l'exception des établissements publics à caractère industriel
-ou commercial.
+Peuvent bénéficier du concours de ce fonds :
+
+1° Les employeurs publics mentionnés à l'article L. 323-2 ;
+
+2° Les organismes ou associations contribuant par leur action à l'insertion
+professionnelle des personnes handicapées dans la fonction publique et avec
+lesquels le fonds a conclu une convention ;
+
+3° La Poste jusqu'au 31 décembre 2011.
+
+Peuvent également saisir ce fonds les agents reconnus travailleurs handicapés au
+sens de l'article L. 5212-13 et rémunérés par les employeurs publics mentionnés
+à l'article L. 323-2.
 
 Un comité national, composé de représentants des employeurs, des personnels et
 des personnes handicapées, définit notamment les orientations concernant
@@ -46,28 +55,36 @@ publique territoriale ".
 
 Les contributions versées par les employeurs mentionnés à l'article 2 du titre
 IV du statut général des fonctionnaires sont versées dans la section " Fonction
-publique hospitalière ".
+publique hospitalière ". III. ― Les crédits de la section "Fonction publique de
+l'Etat ” doivent exclusivement servir à financer des actions réalisées soit à
+l'initiative des employeurs mentionnés à l'article 2 de la loi n° 84-16 du 11
+janvier 1984 portant dispositions statutaires relatives à la fonction publique
+de l'Etat et, jusqu'au 31 décembre 2011, de La Poste, soit, à l'initiative du
+fonds, en vue de favoriser l'insertion professionnelle des personnes handicapées
+au sein de la fonction publique de l'Etat, ainsi que la formation et
+l'information des agents participant à la réalisation de cet objectif.
 
-III.-Les crédits de la section " Fonction publique de l'Etat " doivent
-exclusivement servir à financer des actions réalisées à l'initiative des
-employeurs mentionnés à l'article 2 du titre Il du statut général des
-fonctionnaires et de l'exploitant public La Poste.
+Les crédits de la section "Fonction publique territoriale” doivent exclusivement
+servir à financer des actions réalisées soit à l'initiative des employeurs
+mentionnés à l'article 2 de la loi n° 84-53 du 26 janvier 1984 portant
+dispositions statutaires relatives à la fonction publique territoriale, soit, à
+l'initiative du fonds, en vue de favoriser l'insertion professionnelle des
+personnes handicapées au sein de la fonction publique territoriale, ainsi que la
+formation et l'information des agents participant à la réalisation de cet
+objectif.
 
-Les crédits de la section " Fonction publique territoriale " doivent
-exclusivement servir à financer des actions réalisées à l'initiative des
-employeurs mentionnés à l'article 2 du titre III du statut général des
-fonctionnaires.
-
-Les crédits de la section " Fonction publique hospitalière " doivent
-exclusivement servir à financer des actions réalisées à l'initiative des
-employeurs mentionnés à l'article 2 du titre IV du statut général des
-fonctionnaires.
+Les crédits de la section "Fonction publique hospitalière” doivent exclusivement
+servir à financer des actions réalisées soit à l'initiative des employeurs
+mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant
+dispositions statutaires relatives à la fonction publique hospitalière, soit, à
+l'initiative du fonds, en vue de favoriser l'insertion professionnelle des
+personnes handicapées au sein de la fonction publique hospitalière, ainsi que la
+formation et l'information des agents participant à la réalisation de cet
+objectif.
 
 Des actions communes à plusieurs fonctions publiques peuvent être financées par
-les crédits relevant de plusieurs sections.
-
-IV.-La contribution mentionnée au II du présent article est due par les
-employeurs mentionnés à l'article L. 323-2.
+les crédits relevant de plusieurs sections. IV.-La contribution mentionnée au II
+du présent article est due par les employeurs mentionnés à l'article L. 323-2.
 
 Elle est calculée en fonction du nombre d'unités manquantes constatées au 1er
 janvier de l'année écoulée. Le nombre d'unités manquantes correspond à la

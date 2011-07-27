@@ -1,12 +1,16 @@
 Article L5213-19
 ----
-Les entreprises adaptées et les centres de distribution perçoivent pour chaque
-travailleur handicapé orienté vers le marché du travail par la commission des
-droits et de l'autonomie des personnes handicapées qu'ils emploient, une aide au
-poste forfaitaire, versée par l'Etat.
+Les entreprises adaptées et les centres de distribution de travail à domicile
+perçoivent pour chaque travailleur handicapé employé, dès lors que celui-ci
+remplit les conditions mentionnées à l'article L. 5213-13, une aide au poste
+forfaitaire versée par l'Etat, dans la limite d'un effectif de référence fixé
+annuellement par la loi de finances.
 
-Compte tenu des surcoûts générés par l'emploi très majoritaire de personnes
-handicapées à efficience réduite, ils perçoivent en outre une subvention
-spécifique dont les modalités d'attribution sont déterminées par décret. Cette
-subvention permet en outre un suivi social ainsi qu'une formation spécifique de
-la personne handicapée à son poste de travail.
+En outre, compte tenu des surcoûts résultant de l'emploi majoritaire de ces
+travailleurs handicapés, les entreprises adaptées et les centres de distribution
+de travail à domicile reçoivent de l'Etat une subvention spécifique, destinée
+notamment au suivi social, à l'accompagnement et à la formation spécifiques de
+la personne handicapée, pour favoriser son adaptation à son poste de travail.
+
+Les modalités d'attribution de l'aide au poste et de la subvention spécifique
+sont précisées par décret.

@@ -81,14 +81,23 @@ social, à l'importance de leurs membres ou usagers, aux moyens matériels et
 humains dont ils disposent et aux services qu'ils rendent.
 
 A la demande des personnes morales et des établissements mentionnés au premier
-alinéa du présent 7°, formulée dans les deux ans suivant le dépôt légal des
-oeuvres imprimées, les fichiers numériques ayant servi à l'édition de ces
-oeuvres sont déposés au Centre national du livre ou auprès d'un organisme
-désigné par décret qui les met à leur disposition dans un standard ouvert au
-sens de l'article 4 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans
-l'économie numérique. Le Centre national du livre ou l'organisme désigné par
-décret garantit la confidentialité de ces fichiers et la sécurisation de leur
-accès ;
+alinéa du présent 7°, formulée dans les dix ans suivant le dépôt légal des
+œuvres imprimées, les fichiers numériques ayant servi à l'édition des œuvres
+dont la date de dépôt légal est postérieure au 4 août 2006 sont déposés au
+Centre national du livre ou auprès d'un organisme désigné par décret.
+
+Le Centre national du livre ou l'organisme désigné par décret conserve sans
+limitation de date les fichiers numériques ayant servi à l'édition de ces œuvres
+et les met à la disposition des personnes morales et des établissements
+mentionnés au premier alinéa du présent 7° dans un standard ouvert au sens de
+l'article 4 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans
+l'économie numérique. Il garantit la confidentialité de ces fichiers et la
+sécurisation de leur accès.
+
+Les personnes morales et les établissements mentionnés au premier alinéa du
+présent 7° détruisent les fichiers mis à leur disposition une fois effectué le
+travail de conception, de réalisation et de communication de supports au
+bénéfice des personnes physiques mentionnées au même premier alinéa ;
 
 8° La reproduction d'une œuvre et sa représentation effectuées à des fins de
 conservation ou destinées à préserver les conditions de sa consultation à des

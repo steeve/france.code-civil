@@ -1,6 +1,6 @@
 Article L143-3
 ----
-Les contestations mentionnées aux 1°, 2° et 3° de l'article L. 143-1 sont
+Les contestations mentionnées aux 1°, 2°, 3° et 5° de l'article L. 143-1 sont
 portées en appel devant une Cour nationale de l'incapacité et de la tarification
 de l'assurance des accidents du travail composée d'un président, magistrat du
 siège de la cour d'appel dans le ressort de laquelle la Cour nationale de

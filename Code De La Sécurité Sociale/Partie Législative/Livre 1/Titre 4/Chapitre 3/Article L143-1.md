@@ -20,9 +20,10 @@ des caisses de mutualité sociale agricole concernant, en matière d'accident du
 travail agricole et non agricole, la fixation du taux de cotisation, l'octroi de
 ristournes, l'imposition de cotisations supplémentaires et, pour les accidents
 régis par le livre IV du code de la sécurité sociale, la détermination de la
-contribution prévue à l'article L. 437-1 du présent code.
-
-Les dispositions des 1° à 3° du présent article ne sont pas applicables aux
-accidents du travail survenus et aux maladies professionnelles constatées dans
-l'exercice des professions agricoles dans les départements autres que ceux du
-Haut-Rhin, du Bas-Rhin et de la Moselle.
+contribution prévue à l'article L. 437-1 du présent code. 5°) Aux décisions de
+la commission des droits et de l'autonomie des personnes handicapées mentionnées
+au premier alinéa de l'article L. 241-9 du code de l'action sociale et des
+familles. Les dispositions des 1° à 3° du présent article ne sont pas
+applicables aux accidents du travail survenus et aux maladies professionnelles
+constatées dans l'exercice des professions agricoles dans les départements
+autres que ceux du Haut-Rhin, du Bas-Rhin et de la Moselle.

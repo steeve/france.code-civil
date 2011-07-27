@@ -1,8 +1,15 @@
 Article L4111-3
 ----
 Les ateliers des établissements publics dispensant un enseignement technique ou
-professionnel sont soumis, pour leurs personnels comme pour leurs élèves, aux
-dispositions suivantes de la présente partie :
+professionnel, ainsi que ceux des établissements et services sociaux et
+médico-sociaux mentionnés aux 2°, a du 5° et 12° du I de l'article L. 312-1 du
+code de l'action sociale et des familles accueillant des jeunes handicapés ou
+présentant des difficultés d'adaptation et au 4° du même I, de même que ceux des
+établissements et services conventionnés ou habilités par la protection
+judiciaire de la jeunesse, dispensant des formations professionnelles au sens du
+V du même article, sont soumis, pour leurs personnels comme pour les jeunes
+accueillis en formation professionnelle, aux dispositions suivantes de la
+présente partie :
 
 1° Dispositions particulières applicables aux femmes enceintes, venant
 d'accoucher ou allaitant, et aux jeunes travailleurs prévues par les chapitres
