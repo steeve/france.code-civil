@@ -75,7 +75,11 @@ de solidarité ;
 
 9° Les dépenses attachées au service de l'allocation spéciale pour les personnes
 âgées prévue à l'article 28 de l'ordonnance n° 2002-411 du 27 mars 2002 relative
-à la protection sanitaire et sociale à Mayotte ;
+à la protection sanitaire et sociale à Mayotte et, selon des modalités de calcul
+fixées par décret, les sommes représentatives de la prise en compte au titre de
+la durée d'assurance, par le régime de retraite de base obligatoire de sécurité
+sociale mentionné à l'article 5 de cette ordonnance, des périodes définies à son
+article 8 ;
 
 10° Les sommes représentatives de la prise en compte par les régimes d'assurance
 vieillesse de base, dans le salaire de base mentionné à l'article L. 351-1, des
