@@ -4,8 +4,8 @@ L'assurance mentionnée à l'article L. 3253-6 couvre :
 
 1° Les sommes dues aux salariés à la date du jugement d'ouverture de toute
 procédure de redressement ou de liquidation judiciaire, ainsi que les
-contributions dues par l'employeur dans le cadre de la convention de
-reclassement personnalisé ;
+contributions dues par l'employeur dans le cadre du contrat de sécurisation
+professionnelle ;
 
 2° Les créances résultant de la rupture des contrats de travail intervenant :
 
@@ -21,11 +21,11 @@ liquidation judiciaire et dans les quinze jours suivant la fin de ce maintien de
 l'activité ;
 
 3° Les créances résultant de la rupture du contrat de travail des salariés
-auxquels a été proposée la convention de reclassement personnalisé, sous réserve
+auxquels a été proposé le contrat de sécurisation professionnelle, sous réserve
 que l'administrateur, l'employeur ou le liquidateur, selon le cas, ait proposé
-cette convention aux intéressés au cours de l'une des périodes indiquées au 2°,
-y compris les contributions dues par l'employeur dans le cadre de cette
-convention et les salaires dus pendant le délai de réponse du salarié ;
+ce contrat aux intéressés au cours de l'une des périodes indiquées au 2°, y
+compris les contributions dues par l'employeur dans le cadre de ce contrat et
+les salaires dus pendant le délai de réponse du salarié ;
 
 4° Lorsque le tribunal prononce la liquidation judiciaire, dans la limite d'un
 montant maximal correspondant à un mois et demi de travail, les sommes dues :

@@ -11,4 +11,13 @@ particulières ;
 2° Lorsque l'entreprise de travail temporaire et l'entreprise utilisatrice
 s'engagent, pour une durée et dans des conditions fixées par décret ou par
 accord de branche étendu, à assurer un complément de formation professionnelle
-au salarié.
+au salarié ;
+
+3° Lorsque l'entreprise de travail temporaire et l'entreprise utilisatrice
+s'engagent à assurer une formation professionnelle au salarié par la voie de
+l'apprentissage, en vue de l'obtention d'une qualification professionnelle
+sanctionnée par un diplôme ou un titre à finalité professionnelle enregistré au
+répertoire national des certifications professionnelles. Cette formation est
+dispensée pour partie dans l'entreprise utilisatrice et pour partie en centre de
+formation d'apprentis ou section d'apprentissage en application de l'article L.
+6221-1.

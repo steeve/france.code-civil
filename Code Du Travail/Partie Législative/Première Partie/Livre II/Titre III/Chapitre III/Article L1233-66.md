@@ -1,10 +1,23 @@
 Article L1233-66
 ----
-Par dérogation aux dispositions de l'article L. 6323-17, les actions de la
-convention de reclassement personnalisé peuvent notamment être mises en oeuvre
-et financées par l'utilisation du reliquat des droits que le salarié a acquis à
-la date de la rupture de son contrat au titre du droit individuel à la formation
-prévu à l'article L. 6323-1. La durée des droits correspondant à ce reliquat,
-plafonné à vingt heures par année d'ancienneté et cent vingt heures sur six
-années, est doublée. Toutefois, seule est due une somme correspondant à
-l'allocation de formation prévue à l'article L. 6321-10.
+Dans les entreprises non soumises à l'article L. 1233-71, l'employeur est tenu
+de proposer, lors de l'entretien préalable ou à l'issue de la dernière réunion
+des représentants du personnel, le bénéfice du contrat de sécurisation
+professionnelle à chaque salarié dont il envisage de prononcer le licenciement
+pour motif économique.
+
+A défaut d'une telle proposition, l'institution mentionnée à l'article L. 5312-1
+propose le contrat de sécurisation professionnelle au salarié. Dans ce cas,
+l'employeur verse à l'organisme chargé de la gestion du régime d'assurance
+chômage mentionné à l'article L. 5427-1 une contribution égale à deux mois de
+salaire brut, portée à trois mois lorsque son ancien salarié adhère au contrat
+de sécurisation professionnelle sur proposition de l'institution mentionnée au
+même article L. 5312-1.
+
+Cette contribution, dont le montant est déterminé par l'institution mentionnée
+audit article L. 5312-1, est recouvrée par les organismes chargés du
+recouvrement mentionnés au troisième alinéa de l'article L. 5427-1 selon les
+règles et sous les garanties et sanctions mentionnées au premier alinéa de
+l'article L. 5422-16. Les données nécessaires au recouvrement sont transmises
+entre l'institution et les organismes. Les modalités d'application du présent
+alinéa sont définies par décret en Conseil d'Etat.

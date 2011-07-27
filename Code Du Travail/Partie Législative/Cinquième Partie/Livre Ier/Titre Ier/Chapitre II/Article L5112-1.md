@@ -36,3 +36,6 @@ local de l'emploi, notamment des maisons de l'emploi, ainsi que le directeur
 régional de l'institution mentionnée à l'article L. 5312-1. Il est consulté sur
 l'organisation territoriale du service public de l'emploi en région et émet un
 avis sur la convention prévue à l'article L. 5312-11.
+
+A titre exceptionnel, le Conseil national de l'emploi peut être consulté et
+émettre un avis par voie écrite ou électronique.

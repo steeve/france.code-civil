@@ -43,9 +43,9 @@ article ;
 
 8° Les élèves et étudiants des établissements autres que ceux mentionnés au 1°
 effectuant, auprès d'un employeur relevant du régime agricole, un stage dans les
-conditions définies à l'article 9 de la loi n° 2006-396 du 31 mars 2006 pour
-l'égalité des chances, pour les accidents survenus par le fait ou à l'occasion
-de stages effectués dans le cadre de leur scolarité ou de leurs études ;
+conditions définies à l'article L. 612-8 du code de l'éducation, pour les
+accidents survenus par le fait ou à l'occasion de stages effectués dans le cadre
+de leur scolarité ou de leurs études ;
 
 9° Les personnes non mentionnées aux 1° et 8° qui effectuent, dans un organisme
 public ou privé, un stage d'initiation, de formation ou de complément de

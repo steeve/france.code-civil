@@ -14,4 +14,7 @@ Conseil d'Etat ;
 et qui pourraient le conduire à faire appel pour la période à venir, à des
 contrats de travail à durée déterminée, à des contrats de mission conclus avec
 une entreprise de travail temporaire ou à des contrats conclus avec une
-entreprise de portage salarial.
+entreprise de portage salarial ;
+
+4° Du nombre de stagiaires accueillis dans l'entreprise, des conditions de leur
+accueil et des tâches qui leur sont confiées.

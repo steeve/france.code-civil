@@ -34,7 +34,7 @@ d'assurance :
 a) Des périodes de service national légal de leurs assurés ;
 
 b) Des périodes pendant lesquelles les assurés ont bénéficié des allocations
-mentionnées aux articles L. 321-4-2, L. 351-3, L. 351-9, L. 351-10 et L.
+mentionnées aux articles L. 1233-68, L. 351-3, L. 351-9, L. 351-10 et L.
 351-10-2 du code du travail, des allocations spéciales mentionnées au 2° de
 l'article L. 322-4 du même code, de l'allocation de préparation à la retraite
 mentionnée à l'article 125 de la loi de finances pour 1992 (n° 91-1322 du 30

@@ -1,7 +1,8 @@
 Article L337-3-1
 ----
 Les centres de formation d'apprentis peuvent accueillir, pour une durée maximale
-d'un an, les élèves ayant atteint l'âge de quinze ans pour leur permettre de
+d'un an, les élèves ayant au moins atteint l'âge de quinze ans ou accompli la
+scolarité du premier cycle de l'enseignement secondaire pour leur permettre de
 suivre, sous statut scolaire, une formation en alternance destinée à leur faire
 découvrir un environnement professionnel correspondant à un projet d'entrée en
 apprentissage.

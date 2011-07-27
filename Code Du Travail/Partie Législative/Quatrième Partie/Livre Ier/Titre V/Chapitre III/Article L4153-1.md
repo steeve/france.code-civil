@@ -8,8 +8,9 @@ dans les conditions prévues à l'article L. 6222-1 ;
 
 2° D'élèves de l'enseignement général lorsqu'ils font des visites d'information
 organisées par leurs enseignants ou, durant les deux dernières années de leur
-scolarité obligatoire, lorsqu'ils suivent des séquences d'observation et selon
-des modalités déterminées par décret ;
+scolarité obligatoire, lorsqu'ils suivent des périodes d'observation mentionnées
+à l'article L. 332-3-1 du code de l'éducation ou des séquences d'observation et
+selon des modalités déterminées par décret ;
 
 3° D'élèves qui suivent un enseignement alterné ou un enseignement professionnel
 durant les deux dernières années de leur scolarité obligatoire, lorsqu'ils

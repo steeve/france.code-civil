@@ -5,9 +5,10 @@ assimilées à des missions les périodes consacrées par les salariés temporai
 
 1° A des stages de formation, bilans de compétences ou actions de validation
 d'acquis de l'expérience. Ces périodes sont accomplies soit à l'initiative de
-l'employeur dans le cadre du plan de formation de l'entreprise ou du contrat de
-professionnalisation, soit à l'initiative du salarié dans le cadre d'un congé
-individuel de formation ou d'un congé de bilan de compétences ;
+l'employeur dans le cadre du plan de formation de l'entreprise, du contrat
+d'apprentissage ou du contrat de professionnalisation, soit à l'initiative du
+salarié dans le cadre d'un congé individuel de formation ou d'un congé de bilan
+de compétences ;
 
 2° A des actions de formation en lien avec leur activité professionnelle dans
 les conditions prévues par convention ou accord collectif étendu ou par

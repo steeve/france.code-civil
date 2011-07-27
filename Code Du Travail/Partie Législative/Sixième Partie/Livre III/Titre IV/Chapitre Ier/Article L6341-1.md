@@ -6,4 +6,4 @@ formation professionnelle.
 
 L'institution mentionnée à l'article L. 5312-1 y concourt également, le cas
 échéant pour le compte de l'organisme mentionné à l'article L. 5427-1, notamment
-dans les conditions prévues aux articles L. 1233-68 et L. 1233-69.
+dans les conditions prévues à l'article L. 1233-68.

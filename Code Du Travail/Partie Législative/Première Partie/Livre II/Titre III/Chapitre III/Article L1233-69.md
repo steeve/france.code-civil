@@ -1,13 +1,32 @@
 Article L1233-69
 ----
-L'employeur contribue au financement de l'allocation servie aux bénéficiaires
-par l'institution mentionnée à l'article L. 5312-1, pour le compte de
-l'organisme mentionné à l'article L. 5427-1 par un versement à l'institution
-mentionnée à l'article L. 5312-1 équivalent au minimum à deux mois de salaire de
-l'intéressé, sous réserve que la durée légale du préavis soit au moins égale à
-deux mois.
+L'employeur contribue au financement du contrat de sécurisation professionnelle
+par :
 
-Dans le cadre d'un accord passé avec l'organisme mentionné à l'article L.
-5427-1, l'Etat contribue au financement, notamment au titre du droit individuel
-à la formation, des dépenses relatives aux actions engagées dans le cadre de la
-convention de reclassement personnalisé.
+1° Un versement représentatif de l'indemnité compensatrice de préavis dans la
+limite de trois mois de salaire majoré de l'ensemble des cotisations et
+contributions obligatoires afférentes ;
+
+2° Un versement au titre des droits acquis par le bénéficiaire en application de
+l'article L. 6323-1 et non utilisés.
+
+Ces versements, dont le montant est déterminé par l'institution mentionnée à
+l'article L. 5312-1, sont recouvrés par les organismes chargés du recouvrement
+mentionnés au troisième alinéa de l'article L. 5427-1 selon les règles et sous
+les garanties et sanctions mentionnées au premier alinéa de l'article L.
+5422-16. Les données nécessaires au recouvrement sont transmises entre
+l'institution et les organismes. Les modalités d'application du présent alinéa
+sont définies par décret en Conseil d'Etat.
+
+Les organismes collecteurs paritaires agréés pour recevoir les contributions des
+entreprises au financement des contrats ou des périodes de professionnalisation
+et du droit individuel à la formation peuvent affecter des ressources collectées
+à ce titre aux mesures de formation prévues à l'article L. 1233-65.
+
+Le fonds paritaire de sécurisation des parcours professionnels mentionné à
+l'article L. 6332-18 peut contribuer au financement de ces mesures de formation.
+
+Les régions peuvent contribuer au financement de ces mesures de formation dans
+le cadre de la programmation inscrite dans le contrat de plan régional de
+développement des formations professionnelles mentionné à l'article L. 214-13 du
+code de l'éducation.

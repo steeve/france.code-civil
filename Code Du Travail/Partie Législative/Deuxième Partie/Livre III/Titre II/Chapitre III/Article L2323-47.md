@@ -6,8 +6,8 @@ l'entreprise. Ce rapport porte sur l'activité et la situation financière de
 l'entreprise, le bilan du travail à temps partiel dans l'entreprise, l'évolution
 de l'emploi, des qualifications, de la formation et des salaires, la situation
 comparée des conditions générales d'emploi et de formation des femmes et des
-hommes et les actions en faveur de l'emploi des travailleurs handicapés dans
-l'entreprise.
+hommes, les actions en faveur de l'emploi des travailleurs handicapés dans
+l'entreprise et le nombre et les conditions d'accueil des stagiaires.
 
 A cette occasion, l'employeur informe le comité d'entreprise des éléments qui
 l'ont conduit à faire appel, au titre de l'année écoulée, et qui pourraient le

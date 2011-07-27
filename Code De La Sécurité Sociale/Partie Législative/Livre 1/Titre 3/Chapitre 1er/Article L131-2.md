@@ -2,7 +2,7 @@ Article L131-2
 ----
 Une cotisation d'assurance maladie, maternité, invalidité et décès est prélevée
 sur le revenu de remplacement mentionné à l'article L. 351-2 du code du travail,
-sur les allocations versées en application de l'article L. 321-4-2, des
+sur les allocations versées en application de l'article L. 1233-68, des
 troisième (1°), cinquième (4°), sixième (5°) et septième alinéas de l'article L.
 322-4, sur les rémunérations versées en application du quatrième alinéa de
 l'article L. 321-4-3, sur les allocations versées en application du troisième

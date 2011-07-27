@@ -10,8 +10,9 @@ selon leur catégorie professionnelle et la taille de leur entreprise, la
 portabilité du droit individuel à la formation, la validation des acquis de
 l'expérience, l'accès aux certifications, la mise en œuvre du passeport
 orientation et formation, le développement du tutorat et la valorisation de la
-fonction de tuteur, en particulier les conditions de son exercice par des
-salariés âgés de plus de cinquante-cinq ans.
+fonction de tuteur ou de maître d'apprentissage, en particulier les actions
+aidant à l'exercer et les conditions de son exercice par des salariés âgés de
+plus de cinquante-cinq ans.
 
 La négociation sur la validation des acquis de l'expérience visée à l'alinéa
 précédent porte sur :

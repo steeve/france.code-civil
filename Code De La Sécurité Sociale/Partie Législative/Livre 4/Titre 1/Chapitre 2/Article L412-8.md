@@ -34,7 +34,7 @@ d. les bénéficiaires des allocations mentionnées au 4° du deuxième alinéa 
 l'article L. 322-4 du code du travail pour les accidents survenus par le fait ou
 à l'occasion des actions favorisant leur reclassement ;
 
-e. les bénéficiaires des allocations versées au titre de l'article L. 321-4-2 du
+e. les bénéficiaires des allocations versées au titre de l'article L. 1233-68 du
 code du travail pour les accidents survenus par le fait ou à l'occasion des
 actions favorisant leur reclassement ;
 
