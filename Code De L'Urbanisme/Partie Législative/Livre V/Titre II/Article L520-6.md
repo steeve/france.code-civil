@@ -9,5 +9,5 @@ démolition de ces locaux ;
 
 Les propriétaires de locaux détruits par sinistre ou expropriés pour cause
 d'utilité publique auront le droit de reconstituer en exonération de la
-redevance une superficie de plancher utile équivalente à celle des locaux
-détruits ou expropriés.
+redevance une superficie de construction équivalente à celle des locaux détruits
+ou expropriés.
