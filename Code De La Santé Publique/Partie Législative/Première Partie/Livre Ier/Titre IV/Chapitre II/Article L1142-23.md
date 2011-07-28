@@ -16,19 +16,19 @@ une vaccination obligatoire en application de l'article L. 3111-9 ;
 contamination par le virus d'immunodéficience humaine en application de
 l'article L. 3122-1 ;
 
-3° bis Le versement d'indemnités en application de l'article L. 1221-14 ;
-
-4° Le versement des indemnités prévues à l'article L. 3131-4 aux victimes de
-dommages imputables directement à une activité de prévention, de diagnostic ou
-de soins réalisée en application de mesures prises conformément aux articles L.
-3131-1 et L. 3134-1 ;
+3° bis Le versement d'indemnités en application de l'article L. 1221-14 ; 3° ter
+Le versement d'indemnités en application de l'article L. 1142-24-7 ; 4° Le
+versement des indemnités prévues à l'article L. 3131-4 aux victimes de dommages
+imputables directement à une activité de prévention, de diagnostic ou de soins
+réalisée en application de mesures prises conformément aux articles L. 3131-1 et
+L. 3134-1 ;
 
 5° Les frais de gestion administrative de l'office et des commissions régionales
 et interrégionales ;
 
 6° Les frais résultant des expertises diligentées par les commissions régionales
 et interrégionales ainsi que des expertises prévues pour l'application des
-articles L. 1221-14, L. 3131-4, L. 3111-9 et L. 3122-2.
+articles L. 1142-24-4, L. 1221-14, L. 3131-4, L. 3111-9 et L. 3122-2.
 
 Les recettes de l'office sont constituées par :
 
@@ -39,12 +39,13 @@ l'article L. 174-2 du code de la sécurité sociale. Le montant de cette dotatio
 est fixé chaque année par la loi de financement de la sécurité sociale ;
 
 2° Le produit des remboursements des frais d'expertise prévus aux articles L.
-1221-14, L. 1142-14 et L. 1142-15 ;
+1142-24-4, L. 1221-14, L. 1142-14 et L. 1142-15 ;
 
-3° Le produit des pénalités prévues aux articles L. 1142-14 et L. 1142-15 ;
+3° Le produit des pénalités prévues aux articles L. 1142-14 , L. 1142-15, L.
+1142-24-6 et L. 1142-24-7 ;
 
 4° Le produit des recours subrogatoires mentionnés aux articles L. 1221-14, L.
-1142-15, L. 1142-17, L. 3131-4, L. 3111-9 et L. 3122-4 ;
+1142-15, L. 1142-17, L. 1142-24-7, L. 3131-4, L. 3111-9 et L. 3122-4 ;
 
 5° Une dotation versée par l'Etat en application de l'article L. 3111-9 ;
 
@@ -52,4 +53,7 @@ est fixé chaque année par la loi de financement de la sécurité sociale ;
 
 7° Une dotation versée par l'Etablissement français du sang couvrant l'ensemble
 des dépenses exposées en application de l'article L. 1221-14. Un décret fixe les
-modalités de versement de cette dotation.
+modalités de versement de cette dotation ;
+
+8° Une dotation versée par l'Etat en application de la section 4 bis du présent
+chapitre.

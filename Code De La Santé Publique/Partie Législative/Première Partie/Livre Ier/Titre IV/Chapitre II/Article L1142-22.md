@@ -8,7 +8,7 @@ dans les conditions définies au II de l'article L. 1142-1, à l'article L.
 1142-1-1 et à l'article L. 1142-17, des dommages occasionnés par la survenue
 d'un accident médical, d'une affection iatrogène ou d'une infection nosocomiale
 ainsi que des indemnisations qui lui incombent, le cas échéant, en application
-des articles L. 1142-15 et L. 1142-18.
+des articles L. 1142-15, L. 1142-18 et L. 1142-24-7.
 
 L'office est également chargé de la réparation des dommages directement
 imputables à une vaccination obligatoire en application de l'article L. 3111-9,
@@ -19,7 +19,10 @@ virus de l'hépatite C causée par une transfusion de produits sanguins ou une
 injection de médicaments dérivés du sang en application de l'article L. 1221-14
 et de la réparation des dommages imputables directement à une activité de
 prévention, de diagnostic ou de soins réalisée en application de mesures prises
-conformément aux articles L. 3131-1 et L. 3134-1.
+conformément aux articles L. 3131-1 et L. 3134-1. L'office est en outre chargé,
+dans les conditions définies à la section 4 bis du présent chapitre, de
+faciliter et, s'il y a lieu, de procéder au règlement amiable des litiges
+relatifs aux dommages causés par le benfluorex.
 
 Les obligations de l'association France-Hypophyse nées de son rôle dans
 l'organisation du traitement des patients par l'hormone de croissance extractive
