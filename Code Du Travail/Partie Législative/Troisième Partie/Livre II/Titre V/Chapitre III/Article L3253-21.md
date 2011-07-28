@@ -9,8 +9,8 @@ de l'article L. 3253-19 ;
 2° Dans les huit jours suivant la réception des relevés mentionnés aux 2° et 4°
 du même article.
 
-Par dérogation, l'avance des contributions de l'employeur au financement de la
-convention de reclassement personnalisé est versée directement à l'institution
+Par dérogation, l'avance des contributions de l'employeur au financement du
+contrat de sécurisation professionnelle est versée directement à l'institution
 mentionnée à l'article L. 5312-1.
 
 Le mandataire judiciaire reverse immédiatement les sommes qu'il a reçues aux

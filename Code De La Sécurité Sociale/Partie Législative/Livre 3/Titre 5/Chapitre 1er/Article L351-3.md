@@ -12,14 +12,13 @@ le même décret ;
 
 2°) les périodes pendant lesquelles l'assuré a bénéficié de l'un des revenus de
 remplacement mentionnés à l'article L. 5421-2 du code du travail ou de l'une des
-allocations mentionnées aux articles L. 1233-65 à 69 et L. 1265-16, aux 2° et 4°
-de l'article L. 5123-2 du même code ou d'une allocation versée en cas d'absence
-complète d'activité, par application d'accords professionnels ou
-interprofessionnels, nationaux ou régionaux, mentionnés aux articles L. 5122-4
-et L. 5123-6 du code du travail ou de l'allocation de congé-solidarité
-mentionnée à l'article 15 de la loi n° 2000-1207 du 13 décembre 2000
-d'orientation pour l'outre-mer ou de la rémunération prévue à l'article L.
-1233-72 du code du travail ;
+allocations mentionnées à l'article L. 1233-68, aux 2° et 4° de l'article L.
+5123-2 du même code ou d'une allocation versée en cas d'absence complète
+d'activité, par application d'accords professionnels ou interprofessionnels,
+nationaux ou régionaux, mentionnés aux articles L. 5122-4 et L. 5123-6 du code
+du travail ou de l'allocation de congé-solidarité mentionnée à l'article 15 de
+la loi n° 2000-1207 du 13 décembre 2000 d'orientation pour l'outre-mer ou de la
+rémunération prévue à l'article L. 1233-72 du code du travail ;
 
 3°) dans les conditions et limites fixées par le décret prévu au présent
 article, les périodes pendant lesquelles l'assuré s'est trouvé, avant l'âge fixé

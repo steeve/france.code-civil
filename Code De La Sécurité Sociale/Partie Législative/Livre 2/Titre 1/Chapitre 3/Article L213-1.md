@@ -18,8 +18,8 @@ industrielles et commerciales, dans les conditions prévues aux articles L.
 4° Le recouvrement d'une partie de la contribution sociale généralisée selon les
 dispositions des articles L. 136-1 et suivants ;
 
-5° Le recouvrement des contributions et cotisations mentionnées aux articles L.
-321-4-2, L. 351-3-1 et L. 143-11-6 du code du travail ;
+5° Le recouvrement des contributions, versements et cotisations mentionnés aux
+articles L. 1233-66, L. 1233-69, L. 351-3-1 et L. 143-11-6 du code du travail ;
 
 5° bis Le calcul et l'encaissement des cotisations sociales mentionnées aux
 articles L. 642-1, L. 644-1, L. 644-2, et au c du 1° de l'article L. 613-1 pour
