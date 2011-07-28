@@ -1,10 +1,18 @@
 Article 1723 ter-00 A
 ----
-L'impôt de solidarité sur la fortune est recouvré et acquitté selon les mêmes
-règles et sous les mêmes garanties et sanctions que les droits de mutation par
-décès.
+I. - L'impôt de solidarité sur la fortune est recouvré et acquitté selon les
+mêmes règles et sous les mêmes garanties et sanctions que les droits de mutation
+par décès.
 
-Toutefois, ne sont pas applicables :
+Toutefois, l'impôt de solidarité sur la fortune dû par les redevables mentionnés
+au 2 du I de l'article 885 W est recouvré en vertu d'un rôle rendu exécutoire
+selon les modalités prévues à l'article 1658. Cet impôt peut être payé, sur
+demande du redevable, dans les conditions prévues à l'article 1681 A. Le présent
+alinéa n'est pas applicable aux impositions résultant de la mise en œuvre d'une
+rectification ou d'une procédure d'imposition d'office.
+
+II. - Ne sont pas applicables aux redevables mentionnés au I de l'article 885 W
+:
 
 1° les dispositions des articles 1715 à 1716 A relatives au paiement en valeur
 du Trésor ou en créances sur l'Etat ;

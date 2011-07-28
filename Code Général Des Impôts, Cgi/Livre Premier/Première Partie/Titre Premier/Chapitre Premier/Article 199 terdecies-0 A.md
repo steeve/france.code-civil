@@ -21,9 +21,10 @@ c) La société est soumise à l'impôt sur les sociétés dans les conditions d
 droit commun ou y serait soumise dans les mêmes conditions si l'activité était
 exercée en France ;
 
-c bis) La société compte au moins deux salariés à la clôture de son premier
-exercice ou un salarié si elle est soumise à l'obligation de s'inscrire à la
-chambre de métiers et de l'artisanat ;
+c bis) La société compte au moins deux salariés à la clôture de l'exercice qui
+suit la souscription ayant ouvert droit à la présente réduction ou un salarié si
+elle est soumise à l'obligation de s'inscrire à la chambre de métiers et de
+l'artisanat ;
 
 d) La société exerce une activité commerciale, industrielle, artisanale,
 libérale ou agricole, à l'exclusion des activités procurant des revenus garantis
@@ -265,6 +266,34 @@ fonds. Les présentes dispositions ne s'appliquent pas aux parts de fonds
 d'investissement de proximité donnant lieu à des droits différents sur l'actif
 net ou sur les produits du fonds, attribuées en fonction de la qualité de la
 personne.
+
+VI ter A. ― A compter de l'imposition des revenus de 2011, les contribuables
+domiciliés fiscalement en Guadeloupe, Guyane, Martinique, à La Réunion, Mayotte,
+Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie,
+Polynésie française et dans les îles Wallis et Futuna peuvent bénéficier d'une
+réduction de leur impôt sur le revenu égale à 50 % des souscriptions en
+numéraire de parts de fonds d'investissement de proximité, mentionnés à
+l'article L. 214-41-1 du code monétaire et financier, dont l'actif est constitué
+pour 60 % au moins de titres financiers, parts de société à responsabilité
+limitée et avances en compte courant émises par des sociétés qui exercent leurs
+activités exclusivement dans des établissements situés dans les départements
+d'outre-mer, à Mayotte, Saint-Barthélemy, Saint-Martin,
+Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et dans
+les îles Wallis et Futuna et dans les secteurs retenus pour l'application de la
+réduction d'impôt sur le revenu prévue au I de l'article 199 undecies B du
+présent code.
+
+Les a à c du 1 et le 3 du VI du présent article sont applicables.
+
+Les versements ouvrant droit à réduction d'impôt sont ceux effectués jusqu'au 31
+décembre 2014. Ils sont retenus dans les limites annuelles de 12 000 € pour les
+contribuables célibataires, veufs ou divorcés et de 24 000 € pour les
+contribuables mariés soumis à imposition commune. Les réductions d'impôt prévues
+au VI bis et au présent VI ter A sont exclusives les unes des autres pour les
+souscriptions dans un même fonds. Les présentes dispositions ne s'appliquent pas
+aux parts de fonds d'investissement de proximité donnant lieu à des droits
+différents sur l'actif net ou sur les produits du fonds, attribuées en fonction
+de la qualité de la personne.
 
 VI quater.-Les réductions d'impôt mentionnées aux I, VI, VI bis et VI ter ne
 s'appliquent pas aux titres figurant dans un plan d'épargne en actions mentionné

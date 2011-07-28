@@ -38,6 +38,6 @@ Conseil d'Etat.
 Le présent article n'est pas applicable aux investissements réalisés avant la
 date de promulgation de la loi n° 2010-1657 du 29 décembre 2010 de finances pour
 2011, ni aux opérations pour lesquelles la délivrance d'un agrément a été
-sollicitée avant cette date. Le deuxième alinéa du présent article ne s'applique
-pas aux opérations pour lesquelles les entreprises mentionnées au premier alinéa
-ont été missionnées avant la date de promulgation de la même loi.
+sollicitée avant cette date. Le quatrième alinéa du présent article ne
+s'applique pas aux opérations pour lesquelles les entreprises mentionnées au
+premier alinéa ont été missionnées avant la date de promulgation de la même loi.

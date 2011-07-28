@@ -6,6 +6,9 @@ l'organe délibérant peut créer, par délibération prise dans les conditions
 prévues à l'article 1639 A bis, une commission intercommunale des impôts directs
 composée de onze membres, à savoir le président de l'établissement public de
 coopération intercommunale ou un vice-président délégué et dix commissaires.
+Pour l'année 2012, par dérogation aux dispositions de l'article 1639 A bis, la
+délibération prévoyant la création de la commission doit être prise avant le 31
+décembre 2011.
 
 Les commissaires doivent remplir les mêmes conditions que celles édictées au
 troisième alinéa du 1 de l'article 1650 pour être membres de la commission
@@ -28,5 +31,8 @@ de l'organe délibérant de l'établissement public de coopération intercommuna
 
 4. Les commissions créées avant le 1er octobre d'une année exercent leurs
 compétences à compter du 1er janvier de l'année suivant celle de leur création.
+Par dérogation, les commissions créées entre le 1er octobre et le 31 décembre
+2011 exercent leurs compétences à compter du 1er avril 2012. La nomination des
+membres intervient avant le 1er avril 2012.
 
 5. Les modalités d'application du présent article sont précisées par décret.

@@ -4,7 +4,8 @@ Le gain retiré de l'apport, avant qu'elle ne soit exigible en numéraire, de la
 créance visée au deuxième alinéa du 2 du I de l'article 150-0 A est reporté, sur
 option expresse du contribuable, au moment où s'opère la transmission, le
 rachat, le remboursement ou l'annulation des titres reçus en contrepartie de cet
-apport.
+apport ou, lors du transfert par le contribuable de son domicile fiscal hors de
+France en vertu de l'article 167 bis si cet événement est antérieur.
 
 Le report prévu au premier alinéa est subordonné au respect des conditions
 suivantes :

@@ -35,11 +35,11 @@ Comprise entre 552 324 € et 902 838 €
 
 Comprise entre 902 838 € et 1 805 677 €
 
-35
+40
 
 Au-delà de 1 805 677 €
 
-40
+45
 
 
 Tableau II
@@ -74,11 +74,11 @@ Comprise entre 552 324 € et 902 838 €
 
 Comprise entre 902 838 € et 1 805 677 €
 
-35
+40
 
 Au-delà de 1 805 677 €
 
-40
+45
 
 
 Tableau III

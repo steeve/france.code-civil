@@ -1,6 +1,6 @@
 Article 885 I quater
 ----
-I. - Les parts ou actions d'une société ayant une activité industrielle,
+I.-Les parts ou actions d'une société ayant une activité industrielle,
 commerciale, artisanale, agricole ou libérale ne sont pas comprises dans les
 bases d'imposition à l'impôt de solidarité sur la fortune, à concurrence des
 trois quarts de leur valeur, lorsque leur propriétaire exerce son activité
@@ -31,15 +31,15 @@ organismes de placement collectif représentative des titres de la société dan
 laquelle le redevable exerce son activité principale ou de sociétés qui lui sont
 liées dans les conditions prévues à l'article L. 233-16 du code de commerce. Une
 attestation de l'organisme déterminant la valeur éligible à l'exonération
-partielle doit être jointe à la déclaration visée à l'article 885 W.
+partielle doit être jointe à la déclaration visée au 1 du I de l'article 885 W.
 
-II. - Les parts ou actions mentionnées au I et détenues par le redevable depuis
-au moins trois ans au moment de la cessation de ses fonctions ou activités pour
+II.-Les parts ou actions mentionnées au I et détenues par le redevable depuis au
+moins trois ans au moment de la cessation de ses fonctions ou activités pour
 faire valoir ses droits à la retraite sont exonérées, à hauteur des trois quarts
 de leur valeur, d'impôt de solidarité sur la fortune, sous réserve du respect
 des conditions de conservation figurant au deuxième alinéa du I.
 
-III. - En cas de non-respect de la condition de détention prévue au deuxième
+III.-En cas de non-respect de la condition de détention prévue au deuxième
 alinéa du I et au II par suite d'une fusion ou d'une scission au sens de
 l'article 817 A, l'exonération partielle accordée au titre de l'année en cours
 et de celles précédant ces opérations n'est pas remise en cause si les titres
@@ -48,5 +48,5 @@ n'est pas non plus remise en cause lorsque la condition prévue au deuxième
 alinéa du I et au II n'est pas respectée par suite d'une annulation des titres
 pour cause de pertes ou de liquidation judiciaire.
 
-IV. - L'exonération partielle prévue au présent article est exclusive de
+IV.-L'exonération partielle prévue au présent article est exclusive de
 l'application de tout autre régime de faveur.

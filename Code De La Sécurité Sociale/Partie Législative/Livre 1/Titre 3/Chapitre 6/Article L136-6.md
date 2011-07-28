@@ -21,6 +21,9 @@ des distributions définies aux 7 et 8 du II de l'article 150-0 A du code géné
 des impôts, des avantages définis aux 6 et 6 bis de l'article 200 A du même code
 et du gain défini à l'article 150 duodecies du même code ;
 
+e bis) Des plus-values mentionnées au I de l'article 167 bis du code général des
+impôts ;
+
 f) De tous revenus qui entrent dans la catégorie des bénéfices industriels et
 commerciaux, des bénéfices non commerciaux ou des bénéfices agricoles au sens du
 code général des impôts, à l'exception de ceux qui sont assujettis à la
@@ -32,6 +35,11 @@ application des abattements mentionnés au I de l'article 125-0 A, à l'article
 150-0 D bis et aux 2° et 5° du 3 de l'article 158 du code général des impôts,
 ainsi que, pour les revenus de capitaux mobiliers, des dépenses effectuées en
 vue de l'acquisition et de la conservation du revenu.
+
+Il n'est pas fait application à la contribution du dégrèvement ou de la
+restitution prévus à l'expiration d'un délai de huit ans au 2 du VII de
+l'article 167 bis du code général des impôts et du dégrèvement prévu au premier
+alinéa du 4 du VIII du même article.
 
 Sont également soumis à cette contribution :
 

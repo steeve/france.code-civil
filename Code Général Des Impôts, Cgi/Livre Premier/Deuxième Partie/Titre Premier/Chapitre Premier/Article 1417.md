@@ -37,9 +37,8 @@ de part.
 
 IV. 1° Pour l'application du présent article, le montant des revenus s'entend du
 montant net après application éventuelle des règles de quotient définies à
-l'article 163-0 A et au II de l'article 163 bis des revenus et plus-values
-retenus pour l'établissement de l'impôt sur le revenu au titre de l'année
-précédente.
+l'article 163-0 A des revenus et plus-values retenus pour l'établissement de
+l'impôt sur le revenu au titre de l'année précédente.
 
 Ce montant est majoré :
 
@@ -56,16 +55,17 @@ sexies A, 44 octies, 44 octies A, 44 decies, 44 undecies, 44 terdecies à 44
 quindecies, ainsi que de l'article 93-0 A et du 9 de l'article 93 ;
 
 c) du montant des revenus soumis aux prélèvements libératoires prévus aux
-articles 117 quater et 125 A de ceux soumis aux versements libératoires prévus
-par l'article 151-0 retenus pour leur montant diminué, selon le cas, de
-l'abattement prévu au 1 de l'article 50-0 ou de la réfaction forfaitaire prévue
-au 1 de l'article 102 ter, de ceux visés aux articles 81 quater, 81 A, 81 B, 81
-D et 155 B, de ceux mentionnés au I de l'article 204-0 bis retenus pour leur
-montant net de frais d'emploi et pour lesquels l'option prévue au III du même
-article n'a pas été exercée, de ceux perçus par les fonctionnaires des
-organisations internationales, de ceux exonérés par application d'une convention
-internationale relative aux doubles impositions ainsi que de ceux exonérés en
-application des articles 163 quinquies B à 163 quinquies C bis ;
+articles 117 quater , 125 A et au II de l'article 163 bis, de ceux soumis aux
+versements libératoires prévus par l'article 151-0 retenus pour leur montant
+diminué, selon le cas, de l'abattement prévu au 1 de l'article 50-0 ou de la
+réfaction forfaitaire prévue au 1 de l'article 102 ter, de ceux visés aux
+articles 81 quater, 81 A, 81 B, 81 D et 155 B, de ceux mentionnés au I de
+l'article 204-0 bis retenus pour leur montant net de frais d'emploi et pour
+lesquels l'option prévue au III du même article n'a pas été exercée, de ceux
+perçus par les fonctionnaires des organisations internationales, de ceux
+exonérés par application d'une convention internationale relative aux doubles
+impositions ainsi que de ceux exonérés en application des articles 163 quinquies
+B à 163 quinquies C bis ;
 
 d) Du montant des gains nets exonérés en application du I bis de l'article 150-0
 A ainsi que du montant des plus-values exonérées en application du 3 du I et des

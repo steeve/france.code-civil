@@ -23,7 +23,9 @@ moins 34 %, y compris les parts ou actions transmises.
 Ces pourcentages doivent être respectés tout au long de la durée de l'engagement
 collectif de conservation. Les associés de l'engagement collectif de
 conservation peuvent effectuer entre eux des cessions ou donations des titres
-soumis à l'engagement.
+soumis à l'engagement. Ils peuvent également admettre un nouvel associé dans
+l'engagement collectif à condition que cet engagement collectif soit reconduit
+pour une durée minimale de deux ans.
 
 L'engagement collectif de conservation est opposable à l'administration à
 compter de la date de l'enregistrement de l'acte qui le constate. Dans le cas de
@@ -91,6 +93,19 @@ de conservation visé au a, la société doit en outre adresser, dans les trois
 mois qui suivent le 31 décembre de chaque année, une attestation certifiant que
 les conditions prévues aux a et b sont remplies au 31 décembre de chaque année.
 
+e bis. En cas de non-respect de la condition prévue au a par l'un des
+signataires, l'exonération partielle n'est pas remise en cause à l'égard des
+signataires autres que le cédant si :
+
+1° Soit les titres que ces autres signataires détiennent ensemble respectent la
+condition prévue au b et ceux-ci les conservent jusqu'au terme initialement
+prévu ;
+
+2° Soit le cessionnaire s'associe à l'engagement collectif à raison des titres
+cédés afin que le pourcentage prévu au b demeure respecté. Dans ce cas,
+l'engagement collectif est reconduit pour une durée minimale de deux ans pour
+l'ensemble des signataires.
+
 f. En cas de non-respect de la condition prévue au c par suite d'un apport
 partiellement rémunéré par la prise en charge d'une soulte consécutive à un
 partage ou d'un apport pur et simple de titres d'une société ayant une activité
@@ -146,8 +161,6 @@ prévu au c jusqu'à son terme.
 Les dispositions du présent article s'appliquent en cas de donation avec réserve
 d'usufruit à la condition que les droits de vote de l'usufruitier soient
 statutairement limités aux décisions concernant l'affectation des bénéfices.
-Cette exonération n'est alors pas cumulable avec la réduction prévue à l'article
-790.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent
 article, notamment les obligations déclaratives incombant aux redevables et aux

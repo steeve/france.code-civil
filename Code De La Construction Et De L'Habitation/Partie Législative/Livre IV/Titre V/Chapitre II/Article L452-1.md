@@ -41,3 +41,5 @@ tendant à favoriser l'investissement locatif, l'accession à la propriété de
 logements sociaux et le développement de l'offre foncière. Elle peut également
 aider des organismes agréés mentionnés à l'article L. 366-1 à développer
 l'information en faveur du logement social.
+
+Elle gère le fonds institué par l'article L. 300-2.

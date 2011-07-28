@@ -54,9 +54,10 @@ e) Etre soumise à l'impôt sur les bénéfices dans les conditions de droit com
 ou y être soumise dans les mêmes conditions si l'activité était exercée en
 France ;
 
-e bis) Compter au moins deux salariés à la clôture de son premier exercice, ou
-un salarié si elle est soumise à l'obligation de s'inscrire à la chambre de
-métiers et de l'artisanat ;
+e bis) Compter au moins deux salariés à la clôture de l'exercice qui suit la
+souscription ayant ouvert droit à la présente réduction, ou un salarié si elle
+est soumise à l'obligation de s'inscrire à la chambre de métiers et de
+l'artisanat ;
 
 f) N'accorder aucune garantie en capital à ses associés ou actionnaires en
 contrepartie de leurs souscriptions ; g) (Abrogé) ; h) (Abrogé).
@@ -154,12 +155,13 @@ En cas de non-respect de la condition de conservation prévue au premier alinéa
 du 1 du II en cas de cession stipulée obligatoire par un pacte d'associés ou
 d'actionnaires, l'avantage fiscal mentionné au I accordé au titre de l'année en
 cours et de celles précédant ces opérations n'est pas non plus remis en cause si
-le prix de vente des titres cédés est intégralement réinvesti par un actionnaire
-minoritaire, dans un délai maximum de douze mois à compter de la cession, en
-souscription de titres de sociétés satisfaisant aux conditions mentionnées au 1
-du I, sous réserve que les titres ainsi souscrits soient conservés jusqu'au même
-terme. Cette souscription ne peut donner lieu au bénéfice de l'avantage fiscal
-prévu au 1 du I.
+le prix de vente des titres cédés, diminué des impôts et taxes générés par cette
+cession, est intégralement réinvesti par un actionnaire minoritaire, dans un
+délai maximum de douze mois à compter de la cession, en souscription de titres
+de sociétés satisfaisant aux conditions mentionnées au 1 du I, sous réserve que
+les titres ainsi souscrits soient conservés jusqu'au même terme. Cette
+souscription ne peut donner lieu au bénéfice de l'avantage fiscal prévu au 1 du
+I.
 
 III.-1. Le redevable peut imputer sur l'impôt de solidarité sur la fortune 50 %
 du montant des versements effectués au titre de souscriptions en numéraire aux
@@ -181,7 +183,7 @@ sociétés dont les titres figurent à l'actif du fonds ou avoir détenu ce mont
 parts du fonds ;
 
 c) Le fonds doit respecter au minimum le quota d'investissement de 60 % prévu au
-I de l'article L. 214-41 du code monétaire et financier et au 1 de l'article L.
+I de l'article L. 214-41du code monétaire et financier et au 1 de l'article L.
 214-41-1 du même code. Si le fonds n'a pas pour objet d'investir plus de 50 % de
 son actif au capital de jeunes entreprises innovantes définies à l'article 44
 sexies-0 A, ce quota doit être atteint à hauteur de 50 % au moins au plus tard

@@ -2,11 +2,12 @@ Article 1382
 ----
 Sont exonérés de la taxe foncière sur les propriétés bâties :
 
-1° Les immeubles nationaux, les immeubles départementaux pour les taxes perçues
-par les communes et par le département auquel ils appartiennent et les immeubles
-communaux pour les taxes perçues par les départements et par la commune à
-laquelle ils appartiennent, lorsqu'ils sont affectés à un service public ou
-d'utilité générale et non productifs de revenus, notamment :
+1° Les immeubles nationaux, les immeubles régionaux, les immeubles
+départementaux pour les taxes perçues par les communes et par le département
+auquel ils appartiennent et les immeubles communaux pour les taxes perçues par
+les départements et par la commune à laquelle ils appartiennent, lorsqu'ils sont
+affectés à un service public ou d'utilité générale et non productifs de revenus,
+notamment :
 
 Les palais, châteaux et bâtiments nationaux, le Palais-Bourbon et le Palais du
 Luxembourg ;
@@ -111,12 +112,12 @@ dispositions légales qui les régissent et par les groupements d'intérêt
 économique constitués entre exploitations agricoles.
 
 Les coopératives de blé peuvent, sans perdre le bénéfice de l'exonération, louer
-tout ou partie de leurs magasins à l' établissement national des produits de
+tout ou partie de leurs magasins à l'établissement national des produits de
 l'agriculture et de la mer (FranceAgriMer) en vue du logement des blés
 excédentaires.
 
 Le bénéfice de l'exonération est également maintenu aux coopératives de céréales
-et à leurs unions pour les opérations qu'elles effectuent avec l' établissement
+et à leurs unions pour les opérations qu'elles effectuent avec l'établissement
 national des produits de l'agriculture et de la mer (FranceAgriMer) relativement
 à l'achat, la vente, la transformation ou le transport de céréales ; il en est
 de même pour les opérations effectuées par des coopératives de céréales avec

@@ -20,5 +20,5 @@ reversements des concours financiers visés à l'article L. 452-1 ;
 f) Le produit des emprunts qu'elle contracte avec l'autorisation du ministre
 chargé des finances ;
 
-g) Le produit des pénalités et prélèvements recouvrés en application des
-articles L. 423-14 et L. 445-1.
+g) Le produit des pénalités recouvrées en application des articles L. 423-14 et
+L. 445-1.

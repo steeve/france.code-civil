@@ -37,9 +37,8 @@ Le montant de cette astreinte est déterminé en fonction du loyer moyen du type
 de logement considéré comme adapté aux besoins du demandeur par la commission de
 médiation.
 
-Le produit de l'astreinte est versé au fonds institué en application du dernier
-alinéa de l'article L. 302-7 dans la région où est située la commission de
-médiation saisie par le demandeur.
+Le produit de l'astreinte est versé au fonds national d'accompagnement vers et
+dans le logement, institué en application de l'article L. 300-2.
 
 II.-Le demandeur qui a été reconnu par la commission de médiation comme
 prioritaire et comme devant être accueilli dans une structure d'hébergement, un
@@ -68,9 +67,8 @@ Le montant de cette astreinte est déterminé en fonction du coût moyen du type
 d'hébergement considéré comme adapté aux besoins du demandeur par la commission
 de médiation.
 
-Le produit de l'astreinte est versé au fonds institué en application du dernier
-alinéa de l'article L. 302-7 dans la région où est située la commission de
-médiation saisie par le demandeur.
+Le produit de l'astreinte est versé au fonds national d'accompagnement vers et
+dans le logement, institué en application de l'article L. 300-2.
 
 III.-Lorsque la juridiction administrative est saisie d'un recours dans les
 conditions prévues au I, elle peut ordonner l'accueil dans une structure

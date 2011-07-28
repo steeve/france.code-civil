@@ -50,16 +50,26 @@ Motrice de matériel à grande vitesse
 35 000
 
 
+Automotrice tram-train
+
+11 500
+
+
 Engins remorqués
 
-Remorque pour le transport de voyageurs
+Remorque pour le transport de passagers
 
 4 800
 
 
-Remorque pour le transport de voyageurs à grande vitesse
+Remorque pour le transport de passagers à grande vitesse
 
 10 000
+
+
+Remorque tram-train
+
+2 400
 
 Les catégories de matériels roulants sont précisées par arrêté conjoint des
 ministres chargés du transport et du budget en fonction de leur capacité de

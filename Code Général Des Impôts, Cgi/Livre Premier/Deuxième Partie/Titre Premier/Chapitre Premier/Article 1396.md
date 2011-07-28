@@ -15,7 +15,8 @@ de la part revenant aux communes et aux établissements publics de coopération
 intercommunale sans fiscalité propre.
 
 La superficie retenue pour le calcul de la majoration est réduite de 1 000
-mètres carrés.
+mètres carrés. Cette réduction s'applique à l'ensemble des parcelles contiguës
+constructibles détenues par un même propriétaire.
 
 La majoration visée au deuxième alinéa ne peut excéder 3 % d'une valeur
 forfaitaire moyenne au mètre carré définie par décret et représentative de la

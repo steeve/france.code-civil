@@ -31,10 +31,8 @@ d'enregistrement perçus au profit des départements en application de l'article
 b. 2, 14 % en sus du montant de la taxe de publicité foncière ou des droits
 d'enregistrement perçus au profit des départements au taux de 0, 70 % ;
 
-c. 2 % sur les montants de la taxe d'apprentissage versés au Fonds national de
-développement et de modernisation de l'apprentissage en application du 1 de
-l'article 224 et de l'article 226 B, ainsi que sur le montant de la contribution
-au développement de l'apprentissage mentionnée à l'article 1599 quinquies A.
+c. 2 % sur le montant de la contribution au développement de l'apprentissage
+mentionnée à l'article 1599 quinquies A.
 
 VI. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
 1 p. 100 sur le montant de la taxe mentionnée à l'article 302 bis ZB.

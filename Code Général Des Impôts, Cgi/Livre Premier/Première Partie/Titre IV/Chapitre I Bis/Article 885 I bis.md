@@ -17,7 +17,9 @@ moins 34 % des parts ou actions de la société.
 Ces pourcentages doivent être respectés tout au long de la durée de l'engagement
 collectif de conservation qui ne peut être inférieure à deux ans. Les associés
 de l'engagement collectif de conservation peuvent effectuer entre eux des
-cessions ou donations des titres soumis à l'engagement.
+cessions ou donations des titres soumis à l'engagement. Ils peuvent également
+admettre un nouvel associé dans l'engagement collectif à condition que cet
+engagement collectif soit reconduit pour une durée minimale de deux ans.
 
 La durée initiale de l'engagement collectif de conservation peut être
 automatiquement prorogée par disposition expresse, ou modifiée par avenant. La
@@ -90,23 +92,33 @@ visée aux articles 8 et 8 ter, ou l'une des fonctions énumérées au 1° de
 l'article 885 O bis lorsque celle-ci est soumise à l'impôt sur les sociétés, de
 plein droit ou sur option ;
 
-f. La déclaration visée à l'article 885 W doit être appuyée d'une attestation de
-la société dont les parts ou actions font l'objet de l'engagement collectif de
-conservation certifiant que les conditions prévues aux a et b ont été remplies
-l'année précédant celle au titre de laquelle la déclaration est souscrite ;
+f. La déclaration visée au 1 du I de l'article 885 W doit être appuyée d'une
+attestation de la société dont les parts ou actions font l'objet de l'engagement
+collectif de conservation certifiant que les conditions prévues aux a et b ont
+été remplies l'année précédant celle au titre de laquelle la déclaration est
+souscrite ;
 
 A compter de l'expiration de l'engagement collectif de conservation, la
-déclaration visée à l'article 885 W est accompagnée d'une attestation du
-redevable certifiant que la condition prévue au c a été satisfaite l'année
+déclaration visée au 1 du I de l'article 885 W est accompagnée d'une attestation
+du redevable certifiant que la condition prévue au c a été satisfaite l'année
 précédant celle au titre de laquelle la déclaration est souscrite ;
 
 g. En cas de non-respect de la condition prévue au a par l'un des signataires,
-l'exonération n'est pas remise en cause à l'égard des autres signataires, dès
-lors qu'ils conservent entre eux leurs titres jusqu'au terme initialement prévu
-et que la condition prévue au b demeure respectée. Au-delà du délai minimum
-prévu au b, en cas de non-respect des conditions prévues aux a et b,
-l'exonération partielle n'est pas remise en cause pour les signataires qui
-respectent la condition prévue au c ;
+l'exonération partielle n'est pas remise en cause à l'égard des signataires
+autres que le cédant si :
+
+1° Soit les titres que ces autres signataires détiennent ensemble respectent la
+condition prévue au b et ceux-ci les conservent jusqu'au terme initialement
+prévu ;
+
+2° Soit le cessionnaire s'associe à l'engagement collectif à raison des titres
+cédés afin que le pourcentage prévu au b demeure respecté. Dans ce cas,
+l'engagement collectif est reconduit pour une durée minimale de deux ans pour
+l'ensemble des signataires.
+
+Au-delà du délai minimum prévu au b, en cas de non-respect des conditions
+prévues aux a et b, l'exonération partielle n'est pas remise en cause pour les
+signataires qui respectent la condition prévue au c ;
 
 h. En cas de non-respect des conditions prévues au a ou au b par suite d'une
 fusion ou d'une scission au sens de l'article 817 A ou d'une augmentation de

@@ -3,15 +3,18 @@ Article 750 ter
 Sont soumis aux droits de mutation à titre gratuit :
 
 1° Les biens meubles et immeubles situés en France ou hors de France, et
-notamment les fonds publics, parts d'intérêts, créances et généralement toutes
-les valeurs mobilières françaises ou étrangères de quelque nature qu'elles
-soient, lorsque le donateur ou le défunt a son domicile fiscal en France au sens
-de l'article 4 B ;
+notamment les fonds publics, parts d'intérêts, biens ou droits composant un
+trust défini à l'article 792-0 bis et produits qui y sont capitalisés, créances
+et généralement toutes les valeurs mobilières françaises ou étrangères de
+quelque nature qu'elles soient, lorsque le donateur ou le défunt a son domicile
+fiscal en France au sens de l'article 4 B ;
 
 2° Les biens meubles et immeubles, que ces derniers soient possédés directement
 ou indirectement, situés en France, et notamment les fonds publics français,
-parts d'intérêts, créances et valeurs mobilières françaises, lorsque le donateur
-ou le défunt n'a pas son domicile fiscal en France au sens de l'article précité.
+parts d'intérêts, biens ou droits composant un trust défini à l'article 792-0
+bis et produits qui y sont capitalisés, créances et valeurs mobilières
+françaises, lorsque le donateur ou le défunt n'a pas son domicile fiscal en
+France au sens de l'article précité.
 
 Pour l'application du premier alinéa, tout immeuble ou droit immobilier est
 réputé possédé indirectement lorsqu'il appartient à des personnes morales ou des
@@ -45,10 +48,12 @@ société à sa propre exploitation industrielle, commerciale, agricole ou à
 l'exercice d'une profession non commerciale ne sont pas pris en considération.
 
 3° Les biens meubles et immeubles situés en France ou hors de France, et
-notamment les fonds publics, parts d'intérêts, créances et généralement toutes
-les valeurs mobilières françaises ou étrangères de quelque nature qu'elles
-soient, reçus par l'héritier, le donataire ou le légataire qui a son domicile
-fiscal en France au sens de l'article 4 B. Toutefois, cette disposition ne
-s'applique que lorsque l'héritier, le donataire ou le légataire a eu son
-domicile fiscal en France pendant au moins six années au cours des dix dernières
-années précédant celle au cours de laquelle il reçoit les biens.
+notamment les fonds publics, parts d'intérêts, biens ou droits composant un
+trust défini à l'article 792-0 bis et produits qui y sont capitalisés, créances
+et généralement toutes les valeurs mobilières françaises ou étrangères de
+quelque nature qu'elles soient, reçus par l'héritier, le donataire, le légataire
+ou le bénéficiaire d'un trust défini au même article 792-0 bis qui a son
+domicile fiscal en France au sens de l'article 4 B. Toutefois, cette disposition
+ne s'applique que lorsque l'héritier, le donataire ou le bénéficiaire d'un trust
+a eu son domicile fiscal en France pendant au moins six années au cours des dix
+dernières années précédant celle au cours de laquelle il reçoit les biens.

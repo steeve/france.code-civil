@@ -4,13 +4,12 @@ I.-Les dons de sommes d'argent consentis en pleine propriété au profit d'un
 enfant, d'un petit-enfant, d'un arrière-petit-enfant ou, à défaut d'une telle
 descendance, d'un neveu ou d'une nièce ou par représentation, d'un petit-neveu
 ou d'une petite-nièce sont exonérés de droits de mutation à titre gratuit dans
-la limite de 31 865 €.
+la limite de 31 865 € tous les dix ans.
 
 Cette exonération est subordonnée au respect des conditions suivantes :
 
-1° Le donateur est âgé de moins de quatre-vingts ans, ou de moins de
-soixante-cinq ans lorsqu'il consent le don à un enfant ou à un neveu ou une
-nièce, au jour de la transmission ;
+1° Le donateur est âgé de moins de quatre-vingts ans au jour de la transmission
+;
 
 2° Le donataire est âgé de dix-huit ans révolus ou a fait l'objet d'une mesure
 d'émancipation au jour de la transmission.

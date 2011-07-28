@@ -1,8 +1,10 @@
 Article L6241-10
 ----
-Les sommes affectées en application du 1° de l'article L. 6241-8 sont destinées
-en priorité aux centres de formation d'apprentis et aux sections d'apprentissage
-:
+Les sommes affectées aux centres de formation d'apprentis et aux sections
+d'apprentissage pour lesquels la région a conclu une convention et aux centres
+de formation d'apprentis pour lesquels a été conclue une convention avec l'Etat
+en application de l'article L. 6232-1 sont destinées en priorité aux centres et
+aux sections :
 
 1° Qui n'atteignent pas un montant minimum de ressources par apprenti, par
 domaine et par niveau de formation déterminé par l'autorité administrative ;

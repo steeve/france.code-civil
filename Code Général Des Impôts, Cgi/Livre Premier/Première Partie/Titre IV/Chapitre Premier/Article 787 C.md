@@ -26,6 +26,3 @@ l'exonération partielle accordée au titre de la mutation à titre gratuit n'es
 pas remise en cause, à condition que le ou les donataires soient le ou les
 descendants du donateur et que le ou les donataires poursuivent l'engagement
 prévu au b jusqu'à son terme.
-
-En cas de donation avec réserve d'usufruit, l'exonération prévue au présent
-article n'est pas cumulable avec la réduction prévue à l'article 790.

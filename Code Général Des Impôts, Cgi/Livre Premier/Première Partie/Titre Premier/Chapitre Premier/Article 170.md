@@ -13,8 +13,8 @@ revenus ou bénéfices qui sont soumis à l'impôt sur le revenu.
 
 Dans tous les cas, la déclaration prévue au premier alinéa doit mentionner
 également le montant des bénéfices exonérés en application des articles 44
-sexies, 44 sexies A, 44 octies, 44 octies A, 44 decies, 44 undecies , 44
-terdecies à 44 quindecies , le montant des bénéfices exonérés en application de
+sexies, 44 sexies A, 44 octies, 44 octies A, 44 decies, 44 undecies, 44
+terdecies à 44 quindecies, le montant des bénéfices exonérés en application de
 l'article 93-0 A et du 9 de l'article 93, le montant des revenus exonérés en
 application des articles 81 quater, 81 A, 81 B, 81 D et 155 B, le montant des
 indemnités de fonction des élus locaux, après déduction de la fraction
@@ -24,11 +24,12 @@ du même article n'a pas été exercée, les revenus de la nature et de l'origin
 ceux mentionnés au 2°, sous réserve du 3°, et au 4° du 3 de l'article 158 perçus
 dans un plan d'épargne en actions ainsi que le montant des produits de placement
 soumis aux prélèvements libératoires prévus aux articles 117 quater et 125 A, le
-montant des gains nets exonérés en application du I bis de l'article 150-0 A, le
-montant de l'abattement mentionné à l'article 150-0 D bis, les revenus exonérés
-en application des articles 163 quinquies B à 163 quinquies C bis et les
-plus-values exonérées en application du 3 du I et des 1, 1 bis et 7 du III de
-l'article 150-0 A.
+montant des prestations de retraite soumis au prélèvement libératoire prévu au
+II de l'article 163 bis, le montant des gains nets exonérés en application du I
+bis de l'article 150-0 A, le montant de l'abattement mentionné à l'article 150-0
+D bis, les revenus exonérés en application des articles 163 quinquies B à 163
+quinquies C bis et les plus-values exonérées en application du 3 du I et des 1,1
+bis et 7 du III de l'article 150-0 A.
 
 1 bis. Les époux doivent conjointement signer la déclaration d'ensemble des
 revenus de leur foyer.

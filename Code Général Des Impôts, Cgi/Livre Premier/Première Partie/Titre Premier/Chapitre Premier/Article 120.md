@@ -63,8 +63,8 @@ villes, provinces étrangères et de tout autre établissement public étranger 
 8° Les lots et primes de remboursement payés aux créanciers et aux porteurs des
 titres visés aux 6° et 7° ;
 
-9° Les produits des " trusts " quelle que soit la consistance des biens
-composant ces trusts ;
+9° Les produits distribués par un trust défini à l'article 792-0 bis, quelle que
+soit la consistance des biens ou droits placés dans le trust ;
 
 10° Les redevances (royalties) ou fractions de redevances dues pour
 l'exploitation des nappes de pétrole ou de gaz naturel ;

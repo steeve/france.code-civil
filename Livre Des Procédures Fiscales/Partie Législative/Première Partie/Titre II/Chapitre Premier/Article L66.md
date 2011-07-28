@@ -21,6 +21,10 @@ pas déposé une déclaration ou qui n'ont pas présenté un acte à la formalit
 l'enregistrement dans le délai légal, sous réserve de la procédure de
 régularisation prévue à l'article L. 67 ;
 
+Le présent 4° s'applique aux personnes mentionnées au 2 du I de l'article 885 W
+du code général des impôts qui n'ont pas indiqué la valeur nette taxable de leur
+patrimoine dans la déclaration prévue à l'article 170 de ce même code.
+
 5° aux taxes assises sur les salaires ou les rémunérations les personnes
 assujetties à ces taxes qui n'ont pas déposé dans le délai légal les
 déclarations qu'elles sont tenues de souscrire, sous réserve de la procédure de
