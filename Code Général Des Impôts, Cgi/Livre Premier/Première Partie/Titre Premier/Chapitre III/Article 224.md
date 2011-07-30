@@ -2,8 +2,9 @@ Article 224
 ----
 1. Il est établi une taxe, dite taxe d'apprentissage, dont le produit, net des
 dépenses admises en exonération en application des articles 226 bis, 227 et 227
-bis, est versé au Fonds national de développement et de modernisation de
-l'apprentissage mentionné à l'article L. 6241-3 du code du travail.
+bis, favorise l'égal accès à l'apprentissage sur le territoire national et
+contribue au financement d'actions visant au développement de l'apprentissage
+dans les conditions prévues à l'article L. 6241-2 du code du travail.
 
 2. Cette taxe est due :
 

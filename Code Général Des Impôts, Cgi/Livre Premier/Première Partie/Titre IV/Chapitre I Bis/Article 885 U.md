@@ -1,40 +1,68 @@
 Article 885 U
 ----
-Le tarif de l'impôt est fixé à :
+I. - 1. L'impôt est calculé sur l'ensemble de la valeur nette taxable du
+patrimoine selon le tarif suivant :
 
-FRACTION DE LA VALEUR NETTE TAXABLE du patrimoine
 
-TARIF applicable (%)
+VALEUR NETTE TAXABLE DU PATRIMOINE
 
-N'excédant pas 800 000 €
+TARIF APPLICABLE
 
-0
+(en %)
 
-Supérieure à 800 000 € et inférieure ou égale à 1 310 000 €
+Egale ou supérieure à 1 300 000 € et inférieure à 3 000 000 €
 
-0, 55
+0,25
 
-Supérieure à 1 310 000 € et inférieure ou égale à 2 570 000 €
+Egale ou supérieure à 3 000 000 €
 
-0, 75
+0,50
 
-Supérieure à 2 570 000 € et inférieure ou égale à 4 040 000 €
+Le montant de l'impôt calculé selon le tarif prévu au présent 1 est réduit à 1
+500 € pour les redevables dont le patrimoine net taxable est égal à 1 300 000 €
+et de moitié pour les redevables dont le patrimoine net taxable est égal à 3 000
+000 €.
 
-1
+2. Pour les redevables dont le patrimoine a une valeur nette taxable mentionnée
+aux deux dernières lignes de la première colonne du tableau du présent 2, le
+montant de l'impôt calculé selon le tarif prévu au tableau du 1 est réduit d'une
+somme calculée en appliquant, respectivement, les formules mentionnées aux deux
+dernières lignes de la seconde colonne du tableau du présent 2.
 
-Supérieure à 4 040 000 € et inférieure ou égale à 7 710 000 €
 
-1, 30
+VALEUR NETTE TAXABLE
 
-Supérieure à 7 710 000 € et inférieure ou égale à 16 790 000 €
+du patrimoine
 
-1, 65
 
-Supérieure à 16 790 000 €
+RÉDUCTION DU MONTANT
 
-1, 80
+de l'imposition (1)
 
-Les limites des tranches du tarif prévu au tableau ci-dessus sont actualisées
-chaque année dans la même proportion que la limite supérieure de la première
-tranche du barème de l'impôt sur le revenu et arrondies à la dizaine de milliers
-d'euros la plus proche.
+Egale ou supérieure à 1 300 000 € et inférieure à 1 400 000 €
+
+24 500 € - (7 × 0,25 % P)
+
+Egale ou supérieure à 3 000 000 € et inférieure à 3 200 000 €
+
+120 000 € - (7,5 × 0,50 % P)
+
+(1) P est la valeur nette taxable du patrimoine.
+
+II. - Pour l'application du I, chaque année, successivement :
+
+1° Le premier montant d'impôt après réduction mentionné au dernier alinéa du 1
+du I, les limites de valeurs nettes taxables du patrimoine figurant au tableau
+du même 1 ainsi que les limites inférieures figurant au tableau du 2 du même I
+sont actualisés dans la même proportion que la limite supérieure de la première
+tranche du barème de l'impôt sur le revenu ;
+
+2° Les montants d'impôts actualisés en application du 1 du I sont arrondis à
+l'euro le plus proche. Les limites de valeurs nettes taxables du patrimoine
+actualisées le sont à la dizaine de milliers d'euros la plus proche ;
+
+3° Les constantes en euros, puis les limites supérieures de valeurs nettes
+taxables du patrimoine figurant au tableau du 2 du I sont ajustées de manière à
+égaliser l'impôt calculé en application des règles fixées aux 1 et 2 du même I
+pour chacune des limites inférieures et supérieures mentionnées au tableau dudit
+2.
