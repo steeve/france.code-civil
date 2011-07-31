@@ -7,8 +7,7 @@ juridique, auxquels la Polynésie française et ses établissements publics
 apportent un concours financier supérieur à 179 000 F CFP (1 500 euros) ou dans
 lesquels ils détiennent, séparément ou ensemble, plus de la moitié du capital ou
 des voix dans les organes délibérants, ou exercent un pouvoir prépondérant de
-décision ou de gestion, lorsque la vérification lui en est confiée par un arrêté
-du premier président de la Cour des comptes.
+décision ou de gestion.
 
 Elle peut également assurer les vérifications prévues au deuxième alinéa sur
 demande motivée du haut-commissaire, de l'assemblée de la Polynésie française,
