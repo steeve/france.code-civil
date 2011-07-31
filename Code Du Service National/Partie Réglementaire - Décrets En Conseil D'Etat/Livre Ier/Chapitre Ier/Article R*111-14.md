@@ -1,6 +1,6 @@
 Article R*111-14
 ----
-Le bureau du service national territorialement compétent diligente les
+L'organisme chargé du service national territorialement compétent diligente les
 recherches pour déterminer l'adresse des Français figurant sur la liste des
 non-recensés.
 
