@@ -1,10 +1,5 @@
 Article L214-24
 ----
-Le fonds commun de placement est constitué à l'initiative conjointe d'une
-société de gestion de portefeuille, chargée de sa gestion, et d'une personne
-morale, dépositaire des actifs du fonds.
-
-Cette société et cette personne établissent le règlement du fonds.
-
-La souscription ou l'acquisition de parts d'un fonds commun de placement emporte
-acceptation du règlement.
+Les organismes de placement collectifs en valeurs mobilières relevant de la
+présente sous-section sont ceux qui ne sont pas agréés conformément à la
+directive 2009/65/ CE du Parlement européen et du Conseil du 13 juillet 2009.

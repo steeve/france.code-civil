@@ -166,8 +166,8 @@ I.
 III.-1. Le redevable peut imputer sur l'impôt de solidarité sur la fortune 50 %
 du montant des versements effectués au titre de souscriptions en numéraire aux
 parts de fonds communs de placement dans l'innovation mentionnés à l'article L.
-214-41 du code monétaire et financier et aux parts de fonds d'investissement de
-proximité mentionnés à l'article L. 214-41-1 du même code.
+214-30 du code monétaire et financier et aux parts de fonds d'investissement de
+proximité mentionnés à l'article L. 214-31 du même code.
 
 L'avantage prévu au premier alinéa ne s'applique que lorsque les conditions
 suivantes sont satisfaites :
@@ -183,8 +183,8 @@ sociétés dont les titres figurent à l'actif du fonds ou avoir détenu ce mont
 parts du fonds ;
 
 c) Le fonds doit respecter au minimum le quota d'investissement de 60 % prévu au
-I de l'article L. 214-41du code monétaire et financier et au 1 de l'article L.
-214-41-1 du même code. Si le fonds n'a pas pour objet d'investir plus de 50 % de
+I de l'article L. 214-30 du code monétaire et financier et au I de l'article L.
+214-31 du même code. Si le fonds n'a pas pour objet d'investir plus de 50 % de
 son actif au capital de jeunes entreprises innovantes définies à l'article 44
 sexies-0 A, ce quota doit être atteint à hauteur de 50 % au moins au plus tard
 huit mois à compter de la date de clôture de la période de souscription fixée

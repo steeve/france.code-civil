@@ -15,7 +15,7 @@ l'innovation ou qu'un fonds d'investissement de proximité n'a pas respecté, da
 les délais prévus aux VI à VI ter de l'article 199 terdecies-0 A lorsque leurs
 porteurs de parts bénéficient de la réduction d'impôt sur le revenu prévue à ce
 même article, son quota d'investissement prévu, selon le cas, au I de l'article
-L. 214-41 du code monétaire et financier, au 1 de l'article L. 214-41-1 du même
+L. 214-30 du code monétaire et financier, au I de l'article L. 214-31 du même
 code ou au VI ter de l'article 199 terdecies-0 A, la société de gestion du fonds
 est redevable d'une amende égale à 20 % du montant des investissements qui
 permettraient d'atteindre, selon le cas, la moitié au moins ou la totalité du

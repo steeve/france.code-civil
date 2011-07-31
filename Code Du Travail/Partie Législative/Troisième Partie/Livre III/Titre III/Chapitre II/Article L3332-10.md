@@ -18,5 +18,5 @@ alinéa. Il en est de même des droits utilisés pour alimenter un plan d'éparg
 d'entreprise, à condition qu'ils servent à l'acquisition de titres de
 l'entreprise ou d'une entreprise qui lui est liée au sens des articles L. 3344-1
 et L. 3344-2, ou de parts ou d'actions d'organismes de placement collectif en
-valeurs mobilières mentionnés aux articles L. 214-40 et L. 214-40-1 du code
+valeurs mobilières mentionnés aux articles L. 214-40 et L. 214-41 du code
 monétaire et financier.

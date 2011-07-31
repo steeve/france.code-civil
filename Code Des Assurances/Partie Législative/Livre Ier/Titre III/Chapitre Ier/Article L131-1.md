@@ -12,7 +12,7 @@ cependant opter pour la remise de titres ou de parts lorsque ceux-ci sont
 négociables et ne confèrent pas directement le droit de vote à l'assemblée
 générale des actionnaires d'une société inscrite à la cote officielle d'une
 bourse de valeurs. Dans le cas où un organisme de placement collectif en valeurs
-mobilières a été scindé en application des articles L. 214-19 ou L. 214-30 du
+mobilières a été scindé en application des articles L. 214-7-4 ou L. 214-8-7 du
 code monétaire et financier, l'assureur propose au contractant ou au
 bénéficiaire le règlement correspondant aux actions ou parts de l'organisme issu
 de la scission et qui a reçu les actifs dont la cession n'aurait pas été

@@ -2,15 +2,19 @@ Article L632-8
 ----
 L'Autorité des marchés financiers est l'autorité unique servant de point de
 contact pour recevoir les demandes d'échanges d'information ou de coopération
-des autorités des autres Etats membres de la Communauté européenne ou des autres
-Etats parties à l'accord sur l'Espace économique européen.
+des autorités des autres Etats membres de l'Union européenne ou des autres Etats
+parties à l'accord sur l'Espace économique européen.
 
 L'Autorité des marchés financiers communique immédiatement les informations
 requises aux fins de l'exécution de leurs missions aux autorités compétentes des
-autres Etats membres de la Communauté européenne ou des autres Etats parties à
+autres Etats membres de l'Union européenne ou des autres Etats parties à
 l'accord sur l'Espace économique européen qui ont été désignées comme points de
-contact pour l'application du paragraphe 1 de l'article 56 de la directive 2004
-/ 39 / CE du 21 avril 2004 concernant les marchés d'instruments financiers.
+contact pour l'application du paragraphe 1 de l'article 56 de la directive
+2004/39/ CE du 21 avril 2004 concernant les marchés d'instruments financiers et
+à celles compétentes pour l'application de la directive 2009/65/CE du 13 juillet
+2009 portant coordination des dispositions législatives, réglementaires et
+administratives concernant certains organismes de placement collectif en valeurs
+mobilières.
 
 Si l'autorité compétente qui a transmis des informations l'a demandé au moment
 de la communication, l'Autorité des marchés financiers ne peut divulguer

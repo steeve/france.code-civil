@@ -6,7 +6,7 @@ erronées ayant conduit à la dissimulation du non-respect du quota de 50 % pré
 au 1° du II de l'article 163 quinquies B est redevable d'une amende fiscale
 égale à 5 % de la valeur des investissements portés sur la déclaration précitée
 et retenus à tort dans le quota d'investissement de 50 % ou pour le calcul de la
-limite prévue au 3 de l'article L. 214-36 du code monétaire et financier. Le
+limite prévue au III de l'article L. 214-28 du code monétaire et financier. Le
 montant de cette amende est diminué d'un abattement égal à la proportion du
 montant des souscriptions réalisées par des personnes n'ayant pas, en France,
 leur domicile fiscal ou leur siège social sur le montant des souscriptions

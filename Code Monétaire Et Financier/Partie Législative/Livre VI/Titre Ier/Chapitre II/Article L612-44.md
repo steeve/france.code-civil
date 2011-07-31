@@ -8,7 +8,7 @@ diligences qu'ils y ont effectuées dans le cadre de leur mission.
 L'Autorité de contrôle prudentiel peut également transmettre aux commissaires
 aux comptes des personnes mentionnées au précédent alinéa, des organismes de
 placement collectif en valeurs mobilières et des sociétés de gestion mentionnées
-à l'article L. 214-25 les informations nécessaires à l'accomplissement de leur
+à l'article L. 214-8-1 les informations nécessaires à l'accomplissement de leur
 mission.
 
 Les informations ainsi transmises sont couvertes par la règle du secret

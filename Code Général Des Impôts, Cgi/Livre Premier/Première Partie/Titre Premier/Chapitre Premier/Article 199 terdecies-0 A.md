@@ -181,7 +181,7 @@ obligations déclaratives incombant aux contribuables et aux sociétés.
 VI. 1. Les contribuables domiciliés fiscalement en France peuvent bénéficier
 d'une réduction de leur impôt sur le revenu égale à 22 % des versements
 effectués au titre de souscriptions en numéraire de parts de fonds communs de
-placement dans l'innovation mentionnés à l'article L. 214-41 du code monétaire
+placement dans l'innovation mentionnés à l'article L. 214-30 du code monétaire
 et financier lorsque les conditions suivantes sont remplies :
 
 a. les personnes physiques prennent l'engagement de conserver les parts de
@@ -231,9 +231,9 @@ produits du fonds, attribuées en fonction de la qualité de la personne.
 
 VI bis.-Les dispositions du 1, du 2 bis et du 3 du VI s'appliquent aux
 versements effectués au titre de souscriptions en numéraire de parts de fonds
-d'investissement de proximité mentionnés à l'article L. 214-41-1 du code
-monétaire et financier. Les versements ouvrant droit à la réduction d'impôt sont
-ceux effectués jusqu'au 31 décembre 2012. Ils sont retenus, après imputation des
+d'investissement de proximité mentionnés à l'article L. 214-31 du code monétaire
+et financier. Les versements ouvrant droit à la réduction d'impôt sont ceux
+effectués jusqu'au 31 décembre 2012. Ils sont retenus, après imputation des
 droits ou frais d'entrée, dans les limites annuelles de 12 000 euros pour les
 contribuables célibataires, veufs ou divorcés et de 24 000 euros pour les
 contribuables mariés soumis à imposition commune. Les réductions d'impôt prévues
@@ -248,7 +248,7 @@ personne.
 VI ter.-Les contribuables domiciliés fiscalement en France peuvent bénéficier
 d'une réduction de leur impôt sur le revenu égale à 45 % des versements
 effectués au titre de souscriptions en numéraire de parts de fonds
-d'investissement de proximité, mentionnés à l'article L. 214-41-1 du code
+d'investissement de proximité, mentionnés à l'article L. 214-31 du code
 monétaire et financier, dont l'actif est constitué pour 60 % au moins de valeurs
 mobilières, parts de société à responsabilité limitée et avances en compte
 courant émises par des sociétés qui exercent leurs activités exclusivement dans
@@ -301,8 +301,8 @@ s'appliquent pas aux titres figurant dans un plan d'épargne en actions mentionn
 titre III du livre III de la troisième partie du code du travail, ni à la
 fraction des versements effectués au titre de souscriptions ayant ouvert droit
 aux réductions d'impôt prévues aux f, g ou h du 2 de l'article 199 undecies A,
-aux articles 199 undecies B,199 terdecies-0 B,199 unvicies,199 quatervicies ou
-885-0 V bis du présent code. La fraction des versements effectués au titre de
+aux articles 199 undecies B, 199 terdecies-0 B, 199 unvicies, 199 quatervicies
+ou 885-0 V bis du présent code. La fraction des versements effectués au titre de
 souscriptions donnant lieu aux déductions prévues aux 2° quater et 2° quinquies
 de l'article 83 n'ouvre pas droit à ces réductions d'impôt.
 
@@ -323,7 +323,7 @@ administratifs, juridiques, comptables, financiers et immobiliers.
 VI quinquies.-Le bénéfice des I à II ter, VI, VI bis et VI ter est subordonné au
 respect, selon le cas par les sociétés bénéficiaires des versements mentionnées
 au 1 du I ou par les sociétés éligibles au quota mentionné au I de l'article L.
-214-41 du code monétaire et financier ou au 1 de l'article L. 214-41-1 du même
+214-30 du code monétaire et financier ou au I de l'article L. 214-31 du même
 code, du règlement (CE) n° 1998/2006 de la Commission, du 15 décembre 2006,
 concernant l'application des articles 87 et 88 du traité CE aux aides de minimis
 ou du règlement (CE) n° 1535/2007 de la Commission, du 20 décembre 2007,

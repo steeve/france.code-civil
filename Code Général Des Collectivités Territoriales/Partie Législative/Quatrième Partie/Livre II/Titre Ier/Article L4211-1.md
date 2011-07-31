@@ -59,7 +59,7 @@ conditions de restitution des dotations versées en cas de modification ou de
 cessation d'activité de ce fonds.
 
 11° Le financement ou l'aide à la mise en oeuvre des fonds d'investissement de
-proximité définis à l'article L. 214-41-1 du code monétaire et financier par
+proximité définis à l'article L. 214-30 du code monétaire et financier par
 convention avec la société de gestion du fonds qui détermine les objectifs
 économiques du fonds, lesquels figurent dans le réglement du fonds.
 
@@ -71,12 +71,12 @@ parts ou actions d'une société de gestion d'un fonds d'investissements de
 proximité.
 
 12° Le versement de dotations pour la constitution de fonds de participation
-tels que prévus à l'article 44 du règlement (CE) n° 1083 / 2006 du Conseil, du
-11 juillet 2006, portant dispositions générales sur le Fonds européen de
+tels que prévus à l'article 44 du règlement (CE) n° 1083/2006 du Conseil, du 11
+juillet 2006, portant dispositions générales sur le Fonds européen de
 développement régional, le Fonds social européen et le Fonds de cohésion, et
-abrogeant le règlement (CE) n° 1260 / 1999, à l'organisme gestionnaire
-sélectionné selon les modalités prévues par ce même article, pour la mise en
-œuvre d'opérations d'ingénierie financière à vocation régionale.
+abrogeant le règlement (CE) n° 1260/1999, à l'organisme gestionnaire sélectionné
+selon les modalités prévues par ce même article, pour la mise en œuvre
+d'opérations d'ingénierie financière à vocation régionale.
 
 La région conclut, avec l'organisme gestionnaire du fonds de participation et
 avec l'autorité de gestion du programme opérationnel régional des fonds

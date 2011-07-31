@@ -1,38 +1,52 @@
 Article L214-37
 ----
-La souscription et l'acquisition des parts de fonds communs de placement à
-risques bénéficiant d'une procédure allégée sont réservées aux investisseurs
-mentionnés à l'article L. 214-35-1 ainsi qu'à ceux, dirigeants, salariés ou
-personnes physiques, agissant pour le compte de la société de gestion du fonds,
-ainsi qu'à la société de gestion elle-même. La constitution, la transformation,
-la fusion, la scission ou la liquidation du fonds n'est pas soumise à l'agrément
-de l'Autorité des marchés financiers mais doit lui être déclarée dans des
-conditions définies par un règlement de la commission, dans le mois qui suit sa
-réalisation.
+Un fonds commun de placement à risques contractuel est un fonds commun de
+placement à risques qui a vocation : 1° A investir, directement ou
+indirectement, en titres participatifs ou en titres de capital de sociétés, ou
+donnant accès au capital de sociétés, qui ne sont pas admis aux négociations sur
+un marché d'instruments financiers mentionné au I de l'article L. 214-28 ou, par
+dérogation à l'article L. 214-8, en parts de sociétés à responsabilité limitée
+ou de sociétés dotées d'un statut équivalent dans l'Etat où elles ont leur siège
+;
 
-Le dépositaire ou la personne désignée à cet effet par le règlement du fonds
-s'assure que le souscripteur ou l'acquéreur est un investisseur mentionné
-ci-dessus. Il s'assure également que le souscripteur ou l'acquéreur a
-effectivement déclaré avoir été informé que ce fonds était régi par les
-dispositions de la présente sous-section.
+2° Ou à être exposé à un risque afférent à de tels titres ou parts par le biais
+d'instruments financiers à terme.
 
-L'actif du fonds peut également comprendre :
+L'actif peut également comprendre des droits émis sur le fondement du droit
+français ou étranger, représentatifs d'un placement financier dans une entité
+ainsi que des avances en compte courant consenties, pour la durée de
+l'investissement réalisé, à des sociétés dans lesquelles le fonds commun de
+placement à risques contractuel détient une participation. Les fonds communs de
+placement à risques contractuels peuvent en outre, dans la limite d'un
+pourcentage de leur actif fixé par décret, acquérir des créances sur des
+sociétés dont les titres ne sont pas admis aux négociations sur un marché
+d'instruments financiers mentionné au I de l'article L. 214-28.
 
-a) Dans la limite de 15 % du a du 2 de l'article L. 214-36, des avances en
-compte courant consenties, pour la durée de l'investissement réalisé, à des
-sociétés dans lesquelles le fonds détient une participation. Ces avances sont
-prises en compte pour le calcul du quota prévu au 1 de l'article L. 214-36
-lorsqu'elles sont consenties à des sociétés remplissant les conditions pour être
-retenues dans ce quota ;
+Ils ne sont pas soumis au quota prévu au I de l'article L. 214-28.
 
-b) Des droits représentatifs d'un placement financier émis sur le fondement du
-droit français ou étranger dans une entité qui a pour objet principal d'investir
-directement ou indirectement dans des sociétés dont les titres de capital ne
-sont pas admis aux négociations sur un marché d'instruments financiers mentionné
-au 1 de l'article L. 214-36. Ces droits ne sont retenus dans le quota
-d'investissement de 50 % du fonds prévu au même 1 qu'à concurrence du
-pourcentage d'investissement direct ou indirect de l'actif de l'entité concernée
-dans les sociétés éligibles à ce même quota.
+Les deux premiers alinéas de l'article L. 214-38 sont applicables aux fonds
+communs de placement à risques contractuels.
 
-Un décret en Conseil d'Etat fixe pour ces fonds des règles spécifiques relatives
-aux conditions et limites de la détention des actifs.
+Par dérogation aux dispositions de l'article L. 214-20, le règlement du fonds
+commun de placement à risques contractuel fixe les règles d'investissement et
+d'engagement.
+
+Par dérogation aux dispositions du premier alinéa de l'article L. 214-8, il
+prévoit les conditions et les modalités de rachat des parts.
+
+Il peut prévoir une ou plusieurs périodes de souscription à durée déterminée.
+
+Il peut également prévoir qu'à la liquidation du fonds, une fraction des actifs
+est attribuée à la société de gestion.
+
+La société de gestion peut procéder à la distribution d'une fraction des actifs
+dans les conditions fixées par le règlement du fonds.
+
+Les VIII et X de l'article L. 214-28 sont applicables aux fonds communs de
+placement à risques contractuels.
+
+Le règlement du fonds peut prévoir des parts donnant lieu à des droits
+différents sur tout ou partie de l'actif du fonds ou des produits du fonds.
+
+Un fonds commun de placement dans l'innovation ou un fonds d'investissement de
+proximité ne peut relever du présent article.

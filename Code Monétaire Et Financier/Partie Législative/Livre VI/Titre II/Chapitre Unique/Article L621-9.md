@@ -11,7 +11,7 @@ aux dispositions législatives ou réglementaires visant à protéger les
 investisseurs contre les opérations d'initiés, les manipulations de cours et la
 diffusion de fausses informations. Ne sont pas soumis au contrôle de l'Autorité
 des marchés financiers les marchés d'instruments créés en représentation des
-opérations de banque qui, en application de l'article L. 214-4, ne peuvent pas
+opérations de banque qui, en application de l'article L. 214-20, ne peuvent pas
 être détenus par des organismes de placement collectif en valeurs mobilières.
 
 II.-L'Autorité des marchés financiers veille également au respect des
@@ -37,7 +37,15 @@ d'investissement ;
 
 6° Les chambres de compensation d'instruments financiers ;
 
-7° Les organismes de placements collectifs et leurs sociétés de gestion ;
+7° Les organismes de placements collectifs et les sociétés de gestion
+mentionnées à l'article L. 543-1 ;
+
+7° bis Les sociétés de gestion établies dans un autre Etat membre de l'Union
+européenne ou partie à l'accord sur l'Espace économique européen ayant une
+succursale ou fournissant des services en France, qui gèrent un ou plusieurs
+organismes de placement collectif en valeurs mobilières de droit français agréés
+conformément à la directive 2009/65/ CE du Parlement européen et du Conseil du
+13 juillet 2009 ;
 
 8° Les intermédiaires en biens divers ;
 
@@ -68,11 +76,11 @@ financiers agréées mentionnées à l'article L. 541-4.
 
 Pour les personnes ou entités autres que celles fournissant des services
 mentionnés au 4 de l'article L. 321-1 ou que les personnes ou entités
-mentionnées aux 7°,8°,10°,11° et 16° ci-dessus, pour lesquelles l'Autorité des
-marchés financiers est seule compétente, le contrôle s'exerce sous réserve des
-compétences de l'Autorité de contrôle prudentiel et, pour celles mentionnées aux
-3° et 6°, sans préjudice des compétences conférées à la Banque de France par
-l'article L. 141-4.
+mentionnées aux 7°, 7° bis, 8°, 10°, 11° et 16° ci-dessus, pour lesquelles
+l'Autorité des marchés financiers est seule compétente, le contrôle s'exerce
+sous réserve des compétences de l'Autorité de contrôle prudentiel et, pour
+celles mentionnées aux 3° et 6°, sans préjudice des compétences conférées à la
+Banque de France par l'article L. 141-4.
 
 L'Autorité des marchés financiers est également chargée d'assurer le respect,
 par les prestataires de services d'investissement mentionnés à l'article L.

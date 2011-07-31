@@ -4,7 +4,7 @@ I.-Est puni d'un emprisonnement de deux ans et d'une amende de 15 000 euros le
 fait, pour les dirigeants de la société de gestion d'un fonds commun de
 placement, fonds de placement immobilier ou d'un fonds communs de titrisation,
 de ne pas provoquer la désignation du commissaire aux comptes du fonds dans les
-conditions prévues à l'article L. 214-29.
+conditions prévues à l'article L. 214-8-6.
 
 II.-Est puni d'un emprisonnement de cinq ans et d'une amende de 18 000 euros le
 fait, pour tout commissaire aux comptes, soit en son nom personnel, soit au

@@ -1,9 +1,14 @@
 Article L214-18
 ----
-Les articles L. 224-1, L. 224-2, L. 225-3 à L. 225-16, L. 225-25, L. 225-26, L.
-225-258 à L. 225-270, L. 231-1 à L. 231-8, L. 233-8, L. 242-31 et L. 247-10 du
-code de commerce ne sont pas applicables aux SICAV.
+Lorsqu'elle a connaissance d'une infraction aux dispositions du présent code
+commise par un commissaire aux comptes d'une société de gestion ou d'un
+organisme de placement collectif en valeurs mobilières ou lorsqu'elle considère
+que les conditions d'indépendance nécessaires au bon déroulement de la mission
+de ce commissaire aux comptes ne sont pas remplies, l'Autorité des marchés
+financiers peut demander au tribunal compétent de relever celui-ci de ses
+fonctions selon les modalités mentionnées à l'article L. 823-7 du code de
+commerce.
 
-Les fusions transfrontalières des sociétés mentionnées à la présente
-sous-section ne sont pas régies par les articles L. 236-25 à L. 236-32 du code
-de commerce.
+L'Autorité des marchés financiers peut également dénoncer l'infraction à
+l'autorité disciplinaire compétente et lui communiquer à cette fin tous les
+renseignements nécessaires à sa bonne information.

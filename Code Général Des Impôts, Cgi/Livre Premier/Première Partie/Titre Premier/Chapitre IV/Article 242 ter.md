@@ -21,7 +21,7 @@ ter, 9° quater et 9° sexies de l'article 157 ;
 Pour l'établissement de cette déclaration, les personnes qui en assurent le
 paiement individualisent les intérêts des créances de toute nature et produits
 assimilés tels qu'énumérés par un décret transposant l'article 6 de la directive
-2003/48/CE du Conseil du 3 juin 2003 en matière de fiscalité des revenus de
+2003/48/ CE du Conseil du 3 juin 2003 en matière de fiscalité des revenus de
 l'épargne sous forme de paiements d'intérêts.
 
 Les revenus de cette nature provenant de la cession, du remboursement ou du
@@ -36,7 +36,7 @@ prévues par décret, les informations nécessaires à l'appréciation de la
 situation de l'organisme ou entité au regard du pourcentage de 25 %. Cette
 situation est précisée dans les documents constitutifs ou le règlement de
 l'organisme ou entité ou, à défaut, dans leurs inventaires prévus à l'article L.
-214-8 du code monétaire et financier.A défaut d'information, les personnes
+214-17 du code monétaire et financier. A défaut d'information, les personnes
 mentionnées au premier alinéa considèrent que le pourcentage de 25 % est
 dépassé.
 
@@ -54,7 +54,7 @@ Elle est obligatoirement transmise à l'administration fiscale selon un procéd�
 informatique par le déclarant qui a souscrit au moins cent déclarations au cours
 de l'année précédente ou qui a souscrit, au titre de cette même année, une ou
 plusieurs déclarations pour un montant global de revenus, tels que définis au
-premier alinéa du présent 1, égal ou supérieur à 15 000 euros.
+premier alinéa du présent 1, égal ou supérieur à 15 000 €.
 
 1 bis. Les dispositions du 1 sont applicables aux revenus imposables dans les
 conditions prévues par l'article 238 septies B. La déclaration doit être faite

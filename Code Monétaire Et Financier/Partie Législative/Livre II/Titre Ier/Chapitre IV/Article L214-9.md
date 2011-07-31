@@ -1,7 +1,10 @@
 Article L214-9
 ----
-Le résultat net d'un organisme de placement collectif en valeurs mobilières est
-égal au montant des intérêts, arrérages, primes et lots, dividendes, jetons de
-présence et tous autres produits relatifs aux titres constituant le
-portefeuille, majoré du produit des sommes momentanément disponibles et diminué
-du montant des frais de gestion et de la charge des emprunts.
+Les organismes de placement collectif en valeurs mobilières, le dépositaire et
+la société de gestion doivent agir de façon indépendante et dans le seul intérêt
+des porteurs de parts ou actionnaires. Ils doivent présenter des garanties
+suffisantes en ce qui concerne leur organisation, leurs moyens techniques et
+financiers, l'honorabilité et l'expérience de leurs dirigeants.
+
+Les fonctions de gestion et de dépositaire ne peuvent pas être exercées par la
+même société.

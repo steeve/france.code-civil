@@ -62,7 +62,7 @@ l'actif est constitué pour 50 % au moins de :
 a) Actions ou certificats d'investissement de sociétés et certificats
 coopératifs d'investissement admis aux négociations sur un marché réglementé
 d'instruments financiers figurant sur les listes mentionnées à l'article 16 de
-la directive 93 / 22 / CEE du Conseil, du 10 mai 1993, concernant les services
+la directive 93/22/ CEE du Conseil, du 10 mai 1993, concernant les services
 d'investissement dans le domaine des valeurs mobilières ;
 
 b) Droits ou bons de souscription ou d'attribution attachés aux actions
@@ -115,12 +115,12 @@ cette Communauté partie à l'accord sur l'Espace économique européen ayant co
 avec la France une convention fiscale qui contient une clause d'assistance
 administrative en vue de lutter contre la fraude ou l'évasion fiscale et qui
 bénéficient de la procédure de reconnaissance mutuelle des agréments prévue par
-la directive 85 / 611 / CEE du Conseil, du 20 décembre 1985, portant
-coordination des dispositions législatives, réglementaires et administratives
-concernant certains organismes de placement collectif en valeurs mobilières
-(OPCVM), et dont l'actif est constitué pour 30 % au moins :
+la directive 85/611/ CEE du Conseil, du 20 décembre 1985, portant coordination
+des dispositions législatives, réglementaires et administratives concernant
+certains organismes de placement collectif en valeurs mobilières (OPCVM), et
+dont l'actif est constitué pour 30 % au moins :
 
-a.D'actions ne relevant pas du 3 du II de l'article L. 211-1 du code monétaire
+a. D'actions ne relevant pas du 3 du II de l'article L. 211-1 du code monétaire
 et financier, admises aux négociations sur un marché d'instruments financiers,
 dont le fonctionnement est assuré par une entreprise de marché ou un prestataire
 de services d'investissement ou tout autre organisme similaire étranger, d'un
@@ -129,19 +129,19 @@ Etat partie à l'accord sur l'Espace économique européen ;
 b. De droits ou bons de souscription ou d'attribution attachés aux actions
 mentionnées au a ;
 
-c.D'actions ou parts d'organismes de placement collectif en valeurs mobilières
+c. D'actions ou parts d'organismes de placement collectif en valeurs mobilières
 mentionnés au premier alinéa dont l'actif est constitué à plus de 75 % en titres
 et droits mentionnés aux a et b ;
 
 d. De parts de fonds communs de placement à risques qui remplissent les
 conditions prévues au II de l'article 163 quinquies B, de fonds d'investissement
-de proximité mentionnés à l'article L. 214-41-1 du code monétaire et financier,
-de fonds communs de placement dans l'innovation mentionnés à l'article L. 214-41
-du même code et d'actions de sociétés de capital-risque qui remplissent les
+de proximité mentionnés à l'article L. 214-31 du code monétaire et financier, de
+fonds communs de placement dans l'innovation mentionnés à l'article L. 214-30 du
+même code et d'actions de sociétés de capital-risque qui remplissent les
 conditions prévues à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985
 portant diverses dispositions d'ordre économique et financier ;
 
-e.D'actions ou parts émises par des sociétés qui exercent une activité
+e. D'actions ou parts émises par des sociétés qui exercent une activité
 mentionnée à l'article 34 dont les titres ne sont pas admis aux négociations sur
 un marché d'instruments financiers français ou étranger, dont le fonctionnement
 est assuré par une entreprise de marché ou un prestataire de services
@@ -152,7 +152,7 @@ indirectement, plus de 25 % des droits dans les bénéfices de la société ou n
 pas détenu une telle participation à un moment quelconque au cours des cinq
 années précédant la souscription du bon ou contrat ;
 
-f.D'actions, admises aux négociations sur un marché d'instruments financiers,
+f. D'actions, admises aux négociations sur un marché d'instruments financiers,
 dont le fonctionnement est assuré par une entreprise de marché ou un prestataire
 de services d'investissement ou tout autre organisme similaire étranger, d'un
 Etat partie à l'accord sur l'Espace économique européen, émises par des sociétés
@@ -217,16 +217,16 @@ fixé :
 1° Lorsque le bénéficiaire des produits révèle son identité et son domicile
 fiscal dans les conditions prévues au 4° du III bis de l'article 125 A :
 
-a.A 45 % lorsque la durée du contrat a été inférieure à deux ans ; ce taux est
+a. A 45 % lorsque la durée du contrat a été inférieure à deux ans ; ce taux est
 de 35 p. 100 pour les contrats souscrits à compter du 1er janvier 1990 ;
 
-b.A 25 % lorsque cette durée a été égale ou supérieure à deux ans et inférieure
+b. A 25 % lorsque cette durée a été égale ou supérieure à deux ans et inférieure
 à quatre ans ; ce taux est de 35 p. 100 pour les contrats souscrits à compter du
 1er janvier 1990.
 
-c.A 15 % lorsque cette durée a été égale ou supérieure à quatre ans.
+c. A 15 % lorsque cette durée a été égale ou supérieure à quatre ans.
 
-d.A 7, 5 % lorsque cette durée a été égale ou supérieure à six ans pour les bons
+d. A 7,5 % lorsque cette durée a été égale ou supérieure à six ans pour les bons
 ou contrats souscrits entre le 1er janvier 1983 et le 31 décembre 1989 et à huit
 ans pour les contrats souscrits à compter du 1er janvier 1990.
 
@@ -253,7 +253,7 @@ Un décret fixe les modalités d'application du présent 1° bis.
 
 2° Dans le cas contraire, à 60 %.
 
-II bis. - Le prélèvement mentionné au II est obligatoirement applicable aux
+II bis.-Le prélèvement mentionné au II est obligatoirement applicable aux
 produits prévus au I lorsque ceux-ci bénéficient à des personnes qui n'ont pas
 leur domicile fiscal ou qui ne sont pas établies en France.
 

@@ -12,7 +12,7 @@ troisième alinéas de l'article L. 214-136, dans des conditions définies par l
 statuts de la société de placement à prépondérance immobilière à capital
 variable ou le règlement du fonds de placement immobilier.
 
-Par dérogation respectivement aux dispositions du 1 de l'article L. 214-17
+Par dérogation respectivement aux dispositions du 1 de l'article L. 214-7-2
 auxquelles renvoie l'article L. 214-123 et du premier alinéa de l'article L.
 214-136, les statuts d'une société de placement à prépondérance immobilière à
 capital variable à règles de fonctionnement allégées ou le règlement d'un fonds
@@ -21,7 +21,7 @@ des parts ou actions souscrites. Ces parts sont nominatives.
 
 Lorsque les parts ou actions n'ont pas été entièrement libérées, le souscripteur
 et les cessionnaires successifs sont tenus solidairement du montant non libéré
-de celles-ci.A défaut pour le porteur de parts ou actionnaire de libérer aux
+de celles-ci. A défaut pour le porteur de parts ou actionnaire de libérer aux
 époques fixées par la société de gestion du fonds ou la société de placement à
 prépondérance immobilière à capital variable les sommes restant à verser sur le
 montant des parts ou actions détenues, une mise en demeure lui est adressée. Un
@@ -41,5 +41,5 @@ compte à compte des parts ou actions cédées.
 Le règlement du fonds de placement immobilier ou les statuts de la société de
 placement à prépondérance immobilière à capital variable peut n'autoriser le
 rachat des parts ou actions de l'organisme de placement collectif à règles de
-fonctionnement allégées qu'à l'échéance d'un délai qui ne peut excéder trois ans
+fonctionnement allégées qu'à l'échéance d'un délai qui ne peut excéder dix ans
 après la constitution de l'organisme.

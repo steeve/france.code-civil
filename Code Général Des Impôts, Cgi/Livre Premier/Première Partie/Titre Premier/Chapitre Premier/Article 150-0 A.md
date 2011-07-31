@@ -200,7 +200,7 @@ la durée à l'émission est supérieure à cinq ans.
 
 7. Sous réserve de l'application de l'article 163 quinquies B et du 8, en cas de
 distribution d'une fraction des actifs d'un fonds commun de placement à risques
-dans les conditions du 9 de l'article L. 214 36 du code monétaire et financier,
+dans les conditions du IX de l'article L. 214-28 du code monétaire et financier,
 à l'excédent du montant des sommes ou valeurs distribuées sur le montant des
 apports, ou le prix d'acquisition des parts s'il est différent du montant des
 apports ;

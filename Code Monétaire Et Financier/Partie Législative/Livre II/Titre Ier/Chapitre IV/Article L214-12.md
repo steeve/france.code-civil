@@ -1,23 +1,14 @@
 Article L214-12
 ----
-L'Autorité des marchés financiers définit les conditions dans lesquelles les
-organismes de placement collectif en valeurs mobilières doivent informer leurs
-souscripteurs et peuvent faire l'objet de publicité, en particulier
-audiovisuelle, ou de démarchage.
+Sans préjudice des dispositions du titre III du livre II du code de commerce,
+les conditions de liquidation ainsi que les modalités de répartition des actifs
+sont déterminées par le règlement ou les statuts de l'organisme de placement
+collectif en valeurs mobilières. La société de gestion ou le dépositaire assume
+les fonctions de liquidateur ; à défaut, le liquidateur est désigné en justice à
+la demande de toute personne intéressée.
 
-Les statuts ou le règlement des organismes de placement collectif en valeurs
-mobilières ainsi que les documents destinés à l'information de leurs porteurs de
-parts ou actions sont rédigés en français. Toutefois, dans des conditions fixées
-par le règlement général de l'Autorité des marchés financiers, ils peuvent être
-rédigés dans une langue usuelle en matière financière autre que le français,
-sous réserve que cette langue soit compréhensible par les investisseurs auxquels
-l'information est destinée.
-
-Les sociétés d'investissement à capital variable et les sociétés de gestion
-mentionnent dans leur rapport annuel et dans les documents destinés à
-l'information de leurs souscripteurs les modalités de prise en compte dans leur
-politique d'investissement des critères relatifs au respect d'objectifs sociaux,
-environnementaux et de qualité de gouvernance. Elles précisent la nature de ces
-critères et la façon dont elles les appliquent selon une présentation type fixée
-par décret. Elles indiquent comment elles exercent les droits de vote attachés
-aux instruments financiers résultant de ces choix.
+Toutefois, par dérogation aux mêmes dispositions du code de commerce, lorsque la
+société de gestion ou le dépositaire peut justifier de graves difficultés à
+exercer ces fonctions de liquidateur, celles-ci sont assumées par une tierce
+personne désignée par le président du tribunal de grande instance de Paris à la
+demande du président de l'Autorité des marchés financiers.

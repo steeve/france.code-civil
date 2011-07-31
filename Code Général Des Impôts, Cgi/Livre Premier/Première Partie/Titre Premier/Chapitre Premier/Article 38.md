@@ -10,7 +10,7 @@ soit en fin d'exploitation.
 net à la clôture et à l'ouverture de la période dont les résultats doivent
 servir de base à l'impôt diminuée des suppléments d'apport et augmentée des
 prélèvements effectués au cours de cette période par l'exploitant ou par les
-associés.L'actif net s'entend de l'excédent des valeurs d'actif sur le total
+associés. L'actif net s'entend de l'excédent des valeurs d'actif sur le total
 formé au passif par les créances des tiers, les amortissements et les provisions
 justifiés.
 
@@ -57,10 +57,10 @@ Lorsque des établissements de crédit ou des entreprises d'investissement
 mentionnés au premier alinéa de l'article 38 bis A évaluent les titre libellés
 en monnaie étrangère à la clôture de chaque exercice en fonction du dernier
 cours de change connu, les écarts de conversion constatés sont pris en compte
-pour la détermination du résultat imposable de l'exercice.A la clôture de chaque
-exercice, le prix de revient des titres est augmenté ou diminué, selon les cas,
-des écarts de conversion mentionnés à ce même alinéa. Toutefois, lorsque les
-établissements ou les entreprises concernés détiennent des titres
+pour la détermination du résultat imposable de l'exercice. A la clôture de
+chaque exercice, le prix de revient des titres est augmenté ou diminué, selon
+les cas, des écarts de conversion mentionnés à ce même alinéa. Toutefois,
+lorsque les établissements ou les entreprises concernés détiennent des titres
 d'investissement mentionnés à l'article 38 bis B et des titres de participation,
 libellés en monnaie étrangère et dont l'acquisition a été financée en francs ou
 en euros, les écarts de conversion mentionnés au présent alinéa et constatés sur
@@ -74,8 +74,8 @@ Pour l'exercice clos le 31 décembre 1998 ou la période d'imposition arrêtée 
 même date, les écarts de conversion afférents aux devises, créances, dettes et
 titres mentionnés aux premier et deuxième alinéas et libellés en écus ou en
 unités monétaires des Etats participant à la monnaie unique, sont déterminés en
-fonction des taux de conversion définis à l'article 1er du règlement n° 97 /
-1103 / CE du Conseil, du 17 juin 1997, fixant certaines dispositions relatives à
+fonction des taux de conversion définis à l'article 1er du règlement n° 97/1103/
+CE du Conseil, du 17 juin 1997, fixant certaines dispositions relatives à
 l'introduction de l'euro.
 
 Les dispositions du premier alinéa ne sont pas applicables, sur option
@@ -121,17 +121,17 @@ l'actif du bilan. Toutefois, elles ne sont prises en compte ni pour le calcul
 des amortissements ou des provisions, ni pour la détermination du résultat de
 cession.
 
-5. 1° Le profit ou la perte résultant de cessions de titres par un fonds commun
+5.1° Le profit ou la perte résultant de cessions de titres par un fonds commun
 de placement est compris dans le résultat de l'exercice au cours duquel les
 parts du fonds sont cédées par l'entreprise. Le profit ou la perte est déterminé
 par différence entre le prix de cession et la valeur des parts au bilan de
 l'entreprise.
 
 2° Par dérogation aux dispositions du 1°, les sommes correspondant à la
-répartition, prévue au 9 de l'article L. 214-36 du code monétaire et financier
+répartition, prévue au IX de l'article L. 214-28 du code monétaire et financier
 d'une fraction des actifs d'un fonds commun de placement à risques qui remplit
 les conditions prévues au II ou au III bis de l'article 163 quinquies B, sont
-affectées en priorité au remboursement des apports.L'excédent des sommes
+affectées en priorité au remboursement des apports. L'excédent des sommes
 réparties sur le montant des apports ou sur le prix d'acquisition des parts s'il
 est différent du montant des apports est compris dans le résultat imposable de
 l'exercice au cours duquel cet excédent apparaît. Il est soumis au régime fiscal
@@ -146,11 +146,11 @@ fonds commun de placement à risques, qui remplit les conditions prévues au II 
 au III bis de l'article 163 quinquies B, provenant :
 
 a) Des répartitions d'une fraction des actifs d'un fonds commun de placement à
-risques, prévues au 9 de l'article L. 214-36 du code monétaire et financier ;
+risques, prévues aau IX de l'article L. 214-28 du code monétaire et financier ;
 
-b) Des distributions d'une entité mentionnée au b du 2 de l'article L. 214-36 du
-même code, autre qu'un fonds commun de placement à risques, constituée dans un
-Etat ou territoire ayant conclu avec la France une convention fiscale qui
+b) Des distributions d'une entité mentionnée au 2° du II de l'article L. 214-28
+du même code, autre qu'un fonds commun de placement à risques, constituée dans
+un Etat ou territoire ayant conclu avec la France une convention fiscale qui
 contient une clause d'assistance administrative en vue de lutter contre la
 fraude ou l'évasion fiscale, prélevées sur des plus-values réalisées par
 l'entité lors de la cession de titres intervenue au cours de l'exercice
@@ -178,8 +178,8 @@ prépondérance immobilière à capital variable mentionnées au 3° nonies de
 l'article 208 et de fonds de placement immobilier mentionnés à l'article 239
 nonies.
 
-6. 1° Par exception aux 1 et 2, le profit ou la perte résultant de l'exécution
-de contrats à terme d'instruments financiers en cours à la clôture de l'exercice
+6.1° Par exception aux 1 et 2, le profit ou la perte résultant de l'exécution de
+contrats à terme d'instruments financiers en cours à la clôture de l'exercice
 est compris dans les résultats de cet exercice ; il est déterminé d'après le
 cours constaté au jour de la clôture sur le marché sur lequel le contrat a été
 conclu.
@@ -223,8 +223,8 @@ prises sur la même place, ou qu'elles aient la même durée.
 
 Les positions symétriques prises au cours de l'exercice et celles qui sont en
 cours à la clôture doivent être mentionnées sur un document annexé à la
-déclaration de résultats de l'exercice.A défaut, la perte sur une position n'est
-pas déductible du résultat imposable.
+déclaration de résultats de l'exercice. A défaut, la perte sur une position
+n'est pas déductible du résultat imposable.
 
 7. Le profit ou la perte résultant de l'échange d'actions effectué dans le cadre
 d'une offre publique d'échange, de la conversion ou de l'échange d'obligations
@@ -346,7 +346,7 @@ Ces dispositions ne sont pas applicables si la soulte dépasse 10 p. 100 de la
 valeur nominale des parts ou des actions attribuées ou si la soulte excède la
 plus-value réalisée.
 
-8. 1° La plus-value de cession séparée de valeurs mobilières et de droits de
+8.1° La plus-value de cession séparée de valeurs mobilières et de droits de
 souscription qui leur sont attachés, acquis pour un prix unique, est calculée
 par référence à la fraction du prix d'acquisition afférente à chacun de ces
 éléments.
@@ -367,16 +367,16 @@ souscription ou d'acquisition de valeurs mobilières sont comprises dans ses
 résultats imposables de l'exercice de péremption de ces droits lorsqu'ils n'ont
 pas été exercés.
 
-9. 1° L'application de la méthode d'évaluation prévue à l'article L. 232-5 du
+9.1° L'application de la méthode d'évaluation prévue à l'article L. 232-5 du
 code de commerce n'a pas d'incidence sur les résultats imposables, par
 dérogation aux 1 et 2 du présent article ;
 
 2° Toutefois, les dispositions du dix-septième alinéa du 5° du 1 de l'article 39
 sont applicables à la fraction de la provision constituée à raison de l'écart
 d'équivalence négatif, qui correspond à la dépréciation définie au dix-huitième
-alinéa du 5° du 1 de l'article 39, des titres évalués selon cette
-méthode.L'excédent éventuel de cette provision n'est pas déductible pour
-l'assiette de l'impôt.
+alinéa du 5° du 1 de l'article 39, des titres évalués selon cette méthode.
+L'excédent éventuel de cette provision n'est pas déductible pour l'assiette de
+l'impôt.
 
 Les provisions qui sont transférées au poste d'écart d'équivalence ainsi que
 celles devenues sans objet en raison de l'application de la méthode d'évaluation

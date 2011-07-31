@@ -68,12 +68,12 @@ décembre 2001 provenant de la cession de titres détenus depuis au moins deux a
 précédent au titre :
 
 a) Des répartitions d'une fraction des actifs d'un fonds commun de placement à
-risques, prévues au 9 de l'article L. 214-36 du code monétaire et financier,
+risques, prévues au IX de l'article L. 214-28 du code monétaire et financier,
 provenant de la cession de titres détenus depuis au moins deux ans ;
 
-b) Des distributions d'une entité mentionnée au b du 2 de l'article L. 214-36 du
-même code, autre qu'un fonds commun de placement à risques, constituée dans un
-Etat ou territoire ayant conclu avec la France une convention fiscale qui
+b) Des distributions d'une entité mentionnée au 2° du II de l'article L. 214-28
+du même code, autre qu'un fonds commun de placement à risques, constituée dans
+un Etat ou territoire ayant conclu avec la France une convention fiscale qui
 contient une clause d'assistance administrative en vue de lutter contre la
 fraude ou l'évasion fiscale, prélevées sur des plus-values réalisées par
 l'entité lors de la cession de titres détenus depuis au moins deux ans.

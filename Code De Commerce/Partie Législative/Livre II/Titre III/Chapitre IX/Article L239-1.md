@@ -24,8 +24,8 @@ d'ordre économique et financier ou d'une société unipersonnelle d'investissem
 
 3° Détenus par un fonds commun de placement à risques, un fonds commun de
 placement dans l'innovation ou un fonds d'investissement de proximité
-respectivement mentionnés aux articles L. 214-36, L. 214-41 et L. 214-41-1 du
-code monétaire et financier.
+respectivement mentionnés aux articles L. 214-28, L. 214-30 et L. 214-31 du code
+monétaire et financier.
 
 A peine de nullité, les actions ou parts louées ne peuvent faire l'objet d'une
 sous-location ou d'un prêt de titres au sens des articles L. 211-22 à L. 211-26

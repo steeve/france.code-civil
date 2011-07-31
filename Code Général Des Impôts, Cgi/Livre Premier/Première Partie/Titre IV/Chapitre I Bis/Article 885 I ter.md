@@ -4,7 +4,7 @@ I.-1. Sont exonérés les titres reçus par le redevable en contrepartie de sa
 souscription au capital initial ou aux augmentations de capital, en numéraire ou
 en nature par apport de biens nécessaires à l'exercice de l'activité, à
 l'exception des actifs immobiliers et des valeurs mobilières, d'une petite et
-moyenne entreprise au sens de l'annexe I au règlement (CE) n° 800 / 2008 de la
+moyenne entreprise au sens de l'annexe I au règlement (CE) n° 800/2008 de la
 Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles
 avec le marché commun en application des articles 87 et 88 du traité (Règlement
 général d'exemption par catégorie), si les conditions suivantes sont réunies au
@@ -22,7 +22,7 @@ Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
 contient une clause d'assistance administrative en vue de lutter contre la
 fraude ou l'évasion fiscale.
 
-2.L'exonération s'applique également aux titres reçus par le redevable en
+2. L'exonération s'applique également aux titres reçus par le redevable en
 contrepartie de sa souscription en numéraire au capital d'une société
 satisfaisant aux conditions suivantes :
 
@@ -38,17 +38,17 @@ de l'actif brut de celle-ci représentative de la valeur des titres reçus en
 contrepartie de sa souscription au capital initial ou aux augmentations de
 capital de sociétés vérifiant l'ensemble des conditions prévues au 1.
 
-3.L'exonération s'applique dans les mêmes conditions aux parts de fonds
-d'investissement de proximité définis par l'article L. 214-41-1 du code
-monétaire et financier dont la valeur des parts est constituée au moins à
-hauteur de 20 % de titres reçus en contrepartie de souscriptions au capital de
-sociétés exerçant leur activité ou juridiquement constituées depuis moins de
-cinq ans vérifiant les conditions prévues au 1 du I de l'article 885-0 V bis.
+3. L'exonération s'applique dans les mêmes conditions aux parts de fonds
+d'investissement de proximité définis par l'article L. 214-31 du code monétaire
+et financier dont la valeur des parts est constituée au moins à hauteur de 20 %
+de titres reçus en contrepartie de souscriptions au capital de sociétés exerçant
+leur activité ou juridiquement constituées depuis moins de cinq ans vérifiant
+les conditions prévues au 1 du I de l'article 885-0 V bis.
 
-4.L'exonération s'applique dans les mêmes conditions aux parts de fonds communs
-de placement dans l'innovation définis par l'article L. 214-41 du code monétaire
+4. L'exonération s'applique dans les mêmes conditions aux parts de fonds communs
+de placement dans l'innovation définis par l'article L. 214-30 du code monétaire
 et financier et de fonds communs de placement à risques définis par les articles
-L. 214-36 et L. 214-37 du même code dont l'actif est constitué au moins à
+L. 214-28 et L. 214-38 du même code dont l'actif est constitué au moins à
 hauteur de 40 % de titres reçus en contrepartie de souscriptions au capital de
 sociétés exerçant leur activité ou juridiquement constituées depuis moins de
 cinq ans, vérifiant les conditions prévues au 1 du I de l'article 885-0 V bis du

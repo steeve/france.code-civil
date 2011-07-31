@@ -11,7 +11,7 @@ d'investissement à capital variable mentionnés au 1° de l'article L. 3332-15,
 soit des parts de fonds communs de placement d'entreprise dont l'actif est
 composé de valeurs mobilières admises aux négociations sur un marché réglementé
 et, à titre accessoire, de liquidités, selon les règles fixées en application de
-l'article L. 214-4 du code monétaire et financier, ou de parts d'organismes de
+l'article L. 214-20 du code monétaire et financier, ou de parts d'organismes de
 placement collectif en valeurs mobilières dont l'actif est ainsi composé. Cette
 disposition n'est pas exigée lorsqu'un plan d'épargne de groupe ou un plan
 d'épargne interentreprises de même durée minimum de placement offre aux

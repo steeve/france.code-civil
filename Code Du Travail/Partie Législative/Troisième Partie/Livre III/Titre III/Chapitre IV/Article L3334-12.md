@@ -4,7 +4,7 @@ Par dérogation aux dispositions du 2° de l'article L. 3332-15, le plan d'épar
 pour la retraite collectif ne peut pas prévoir l'acquisition de parts de fonds
 communs de placement régis par l'article L. 214-40 du code monétaire et
 financier, ni d'actions de sociétés d'investissement à capital variable régies
-par l'article L. 214-40-1 du même code, ni de titres de l'entreprise ou d'une
+par l'article L. 214-41 du même code, ni de titres de l'entreprise ou d'une
 société qui lui est liée au sens des articles L. 3344-1 et L. 3344-2.
 
 Lorsque le plan prévoit l'acquisition de parts de fonds communs de placement

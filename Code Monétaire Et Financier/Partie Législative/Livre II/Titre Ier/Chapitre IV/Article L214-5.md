@@ -1,12 +1,22 @@
 Article L214-5
 ----
-Les parts d'organismes de titrisation ne peuvent être détenues au delà d'un
-pourcentage fixé par décret :
+I.-Un organisme de placement collectif en valeurs mobilières peut comporter un
+ou plusieurs compartiments si ses statuts ou son règlement le prévoient. Chaque
+compartiment donne lieu à l'émission d'une catégorie de parts ou d'actions
+représentative des actifs de l'organisme de placement collectif en valeurs
+mobilières qui lui sont attribués. Par dérogation à l'article 2285 du code civil
+et sauf stipulation contraire des documents constitutifs de l'organisme de
+placement collectif en valeurs mobilières, les actifs d'un compartiment
+déterminé ne répondent que des dettes, engagements et obligations et ne
+bénéficient que des créances qui concernent ce compartiment.
 
-1. Par un fonds commun de placement dont la société de gestion est placée sous
-le contrôle, au sens de l'article L. 233-3 du code de commerce, d'un
-établissement de crédit ayant cédé des créances à l'organisme ;
+L'Autorité des marchés financiers définit les conditions dans lesquelles la
+constitution de chaque compartiment est soumise à son agrément, ainsi que les
+conditions dans lesquelles est déterminée, en fonction de la valeur nette des
+actifs attribués au compartiment correspondant, la valeur liquidative de chaque
+catégorie de parts ou d'actions.
 
-2. Par une SICAV dont les dirigeants sociaux et dirigeants titulaires d'un
-contrat de travail dépendent d'un établissement de crédit ayant cédé des
-créances à l'organisme.
+II.-Chaque compartiment fait l'objet, au sein de la comptabilité de l'organisme
+de placement collectif en valeurs mobilières, d'une comptabilité distincte qui
+peut être tenue en toute unité monétaire dans les conditions fixées par le
+décret prévu à l'article L. 214-17-3.

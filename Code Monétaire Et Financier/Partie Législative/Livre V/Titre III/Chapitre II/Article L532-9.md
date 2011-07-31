@@ -1,9 +1,12 @@
 Article L532-9
 ----
-Les sociétés de gestion de portefeuille sont des entreprises d'investissement
+Les sociétés de gestion de portefeuille sont les entreprises d'investissement
 qui fournissent, à titre principal, le service d'investissement mentionné au 4
 de l'article L. 321-1, ou qui gèrent un ou plusieurs organismes de placement
-collectifs mentionnés aux 1, 2, 5 et 6 du I de l'article L. 214-1.
+collectifs mentionnés aux 1, 2, 5 et 6 du I de l'article L. 214-1 ou un ou
+plusieurs organismes de placement collectif en valeurs mobilières de droit
+étranger agréés conformément à la directive 2009/65/CE du Parlement européen et
+du Conseil du 13 juillet 2009.
 
 Les sociétés de gestion de portefeuille sont agréées par l'Autorité des marchés
 financiers.
@@ -11,7 +14,7 @@ financiers.
 Pour délivrer l'agrément à une société de gestion de portefeuille, l'Autorité
 vérifie si celle-ci :
 
-1.A son siège social et sa direction effective en France ;
+1. A son siège social et sa direction effective en France ;
 
 2. Dispose d'un capital initial suffisant ainsi que des moyens financiers
 adaptés et suffisants ;
@@ -44,8 +47,9 @@ la mission de surveillance de la société de gestion de portefeuille est
 susceptible d'être entravé soit par l'existence d'un lien de capital ou de
 contrôle direct ou indirect entre l'entreprise requérante et d'autres personnes
 physiques ou morales, soit par l'existence de dispositions législatives ou
-réglementaires d'un Etat qui n'est pas partie à l'accord sur l'Espace économique
-européen et dont relèvent une ou plusieurs de ces personnes.
+réglementaires, ou de difficultés tenant à leur application, d'un Etat qui n'est
+pas partie à l'accord sur l'Espace économique européen et dont relèvent une ou
+plusieurs de ces personnes.
 
 L'Autorité des marchés financiers statue dans un délai de trois mois à compter
 de la présentation de la demande. Sa décision est motivée et notifiée au
@@ -54,9 +58,9 @@ demandeur.
 L'Autorité peut assortir l'agrément de conditions particulières visant à
 préserver l'équilibre de la structure financière de la société de gestion. Elle
 peut également subordonner l'octroi de l'agrément au respect d'engagements
-souscrits par la société requérante.
+souscrits par la société requérante ou par ses actionnaires.
 
-Un règlement général de l'Autorité des marchés financiers précise les conditions
+Le règlement général de l'Autorité des marchés financiers précise les conditions
 d'agrément des sociétés de gestion de portefeuille.
 
 Les sociétés de gestion de portefeuille doivent satisfaire à tout moment aux

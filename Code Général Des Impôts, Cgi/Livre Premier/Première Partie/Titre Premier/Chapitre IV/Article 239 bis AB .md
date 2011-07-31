@@ -22,8 +22,8 @@ n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la
 société en cause et ces sociétés, fonds ou structures équivalentes.
 
 Pour l'application du 1° du II de l'article 163 quinquies B, du 1 du I de
-l'article 208 D, du premier alinéa du I de l'article L. 214-41 et du premier
-alinéa du 1 de l'article L. 214-41-1 du code monétaire et financier et du
+l'article 208 D, du premier alinéa du I de l'article L. 214-30 et du premier
+alinéa du I de l'article L. 214-31 du code monétaire et financier et du
 troisième alinéa du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985
 portant diverses dispositions d'ordre économique et financier, les sociétés
 ayant exercé l'option prévue au I sont réputées soumises à l'impôt sur les

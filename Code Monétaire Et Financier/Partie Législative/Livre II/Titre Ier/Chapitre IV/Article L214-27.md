@@ -1,9 +1,18 @@
 Article L214-27
 ----
-Le montant minimum des actifs que le fonds doit réunir lors de sa constitution
-est fixé par décret.
+Un organisme de placement collectif en valeurs mobilières à vocation générale
+est un organisme de placement collectif en valeurs mobilières régi par la
+présente sous-section qui ne relève pas des catégories suivantes :
 
-Ces actifs sont évalués, au vu d'un rapport établi par le commissaire aux
-comptes, dans des conditions fixées par décret. La valeur des apports en nature
-est vérifiée par le commissaire aux comptes qui établit, sous sa responsabilité,
-un rapport sur ce sujet.
+1° Fonds communs de placement à risques, fonds communs de placement dans
+l'innovation ou fonds d'investissement de proximité relevant du présent
+paragraphe 2 ;
+
+2° Organismes de placement collectif en valeurs mobilières agréés réservés à
+certains investisseurs relevant du paragraphe 3 de la présente sous-section ;
+
+3° Organismes de placement collectif en valeurs mobilières déclarés réservés à
+certains investisseurs relevant du paragraphe 4 de la présente sous-section ;
+
+4° Organismes de placement collectif en valeurs mobilières d'épargne salariale
+relevant du paragraphe 5 de la présente sous-section.

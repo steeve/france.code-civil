@@ -3,12 +3,10 @@ Article L214-40
 Sont soumis aux dispositions du présent article les fonds dont plus du tiers de
 l'actif est composé de titres émis par l'entreprise ou par toute autre société
 qui lui est liée dans les conditions prévues à l'article L. 3344-1 du code du
-travail.
-
-Le règlement du fonds précise la composition et les modalités de désignation de
-ce conseil, qui peut être effectuée soit par élection sur la base du nombre de
-parts détenues par chaque porteur de parts, soit dans les conditions prévues au
-deuxième alinéa de l'article L. 214-39.
+travail. Le règlement du fonds précise la composition et les modalités de
+désignation de ce conseil, qui peut être effectuée soit par élection sur la base
+du nombre de parts détenues par chaque porteur de parts, soit dans les
+conditions prévues au deuxième alinéa de l'article L. 214-39.
 
 Lorsque les membres du conseil de surveillance sont exclusivement des
 représentants des porteurs de parts, élus sur la base du nombre de parts
@@ -25,11 +23,11 @@ ses votes aux porteurs de parts. Toutefois, il peut prévoir que les droits de
 vote relatifs à ces titres sont exercés individuellement par les porteurs de
 parts, et, pour les fractions de parts formant rompus, par le conseil de
 surveillance. Le conseil met alors à la disposition des porteurs les
-informations économiques et financières, portant sur les trois derniers
-exercices, qu'il détient sur l'entreprise.
+informations économiques et financières portant sur les trois derniers exercices
+qu'il détient sur l'entreprise.
 
 Dans les entreprises qui disposent d'un comité d'entreprise, doivent être
-transmises au conseil de surveillance les informations communiquées à ce comité
+transmises au conseil de surveillance les informations communiquées à ce comité,
 en application des articles L. 2323-7 à L. 2323-11 et L. 2323-46, L. 2323-51 et
 L. 2323-55 et L. 2325-35 à L. 2325-42 du code du travail, ainsi que, le cas
 échéant, copie du rapport de l'expert-comptable désigné en application des
@@ -54,8 +52,8 @@ sont tenus de déférer à sa convocation. Il décide des fusions, scissions ou
 liquidations. Le règlement du fonds précise les transformations et les
 modifications du règlement qui ne peuvent être décidées sans l'accord du conseil
 de surveillance. Sans préjudice des compétences de la société de gestion
-mentionnées à l'article L. 214-25 et de celles du liquidateur prévues à
-l'article L. 214-31, le conseil de surveillance peut agir en justice pour
+mentionnées à l'article L. 214-8-1 et de celles du liquidateur prévues à
+l'article L. 214-12, le conseil de surveillance peut agir en justice pour
 défendre ou faire valoir les droits ou intérêts des porteurs.
 
 Le conseil de surveillance adopte un rapport annuel mis à la disposition de
@@ -88,14 +86,15 @@ Dans la limite de 20 % des droits de vote, les fractions de ces droits résultan
 de rompus peuvent être exercées par la société de gestion.
 
 Lorsque l'entreprise est régie par la loi n° 47-1775 du 10 septembre 1947
-précitée, le fonds commun de placement d'entreprise peut investir dans les
-titres de capital qu'elle émet, sans préjudice des dispositions spécifiques qui
-régissent, le cas échéant, la souscription de ces titres par les salariés et
-dans les conditions fixées par décret.
+portant statut de la coopération, le fonds commun de placement d'entreprise peut
+investir dans les titres de capital qu'elle émet, sans préjudice des
+dispositions spécifiques qui régissent, le cas échéant, la souscription de ces
+titres par les salariés et dans les conditions fixées par décret.
 
 Lorsque les titres émis par l'entreprise ou toute société qui lui est liée au
-sens du second alinéa de l'article L. 3344-1 et L. 3344-2 du code du travail ne
-sont pas admis aux négociations sur un marché mentionné aux articles L. 421-4,
-L. 422-1 ou L. 423-1 du présent code, le fonds commun de placement d'entreprise
-peut être partie à un pacte d'actionnaires afin de favoriser la transmission de
-l'entreprise, la stabilité de l'actionnariat ou la liquidité du fonds.
+sens du second alinéa de l'article L. 3344-1 et de l'article L. 3344-2 du code
+du travail ne sont pas admis aux négociations sur un marché mentionné aux
+articles L. 421-1, L. 422-1 ou L. 423-1 du présent code, le fonds commun de
+placement d'entreprise peut être partie à un pacte d'actionnaires afin de
+favoriser la transmission de l'entreprise, la stabilité de l'actionnariat ou la
+liquidité du fonds.

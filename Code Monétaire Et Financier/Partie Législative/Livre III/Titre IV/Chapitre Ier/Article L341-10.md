@@ -7,7 +7,7 @@ produits, ne peuvent pas faire l'objet de démarchage :
 souscription ou pour lesquels le risque de perte est supérieur au montant de
 l'apport financier initial, à l'exception :
 
--des parts de sociétés civiles de placement immobilier.A l'issue d'un délai de
+-des parts de sociétés civiles de placement immobilier. A l'issue d'un délai de
 deux ans à compter de la promulgation de la loi n° 2003-706 du 1er août 2003 de
 sécurité financière, seules pourront faire l'objet de démarchage les parts de
 sociétés civiles de placement immobilier dont les statuts prévoient la
@@ -20,7 +20,10 @@ réserve que ces produits soient proposés exclusivement à des personnes morale
 2° Les produits non autorisés à la commercialisation sur le territoire français
 en application de l'article L. 151-2 ;
 
-3° Les produits relevant des articles L. 214-42 et L. 214-43 :
+3° Les produits relevant de l'article L. 214-42 dans sa rédaction antérieure à
+l'ordonnance n° 2011-915 du 1er août 2011 relative aux organismes de placement
+collectif en valeurs mobilières et à la modernisation du cadre juridique de la
+gestion d'actifs et de l'article L. 214-43 :
 
 4° Les instruments financiers qui ne sont pas admis aux négociations sur les
 marchés réglementés définis aux articles L. 421-4 et L. 422-1 ou sur les marchés

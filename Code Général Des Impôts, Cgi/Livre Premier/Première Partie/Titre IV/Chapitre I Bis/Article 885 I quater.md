@@ -25,7 +25,7 @@ l'article 39.
 L'exonération s'applique dans les mêmes conditions aux parts de fonds communs de
 placement d'entreprise visés aux articles L. 214-39 et suivants du code
 monétaire et financier ou aux actions de sociétés d'investissement à capital
-variable d'actionnariat salarié visées à l'article L. 214-40-1 du même code.
+variable d'actionnariat salarié visées à l'article L. 214-41 du même code.
 L'exonération est limitée à la fraction de la valeur des parts ou actions de ces
 organismes de placement collectif représentative des titres de la société dans
 laquelle le redevable exerce son activité principale ou de sociétés qui lui sont

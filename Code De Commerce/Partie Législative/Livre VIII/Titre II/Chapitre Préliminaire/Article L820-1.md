@@ -6,5 +6,5 @@ entités quelle que soit la nature de la certification prévue dans leur mission
 Elles sont également applicables à ces personnes et entités, sous réserve des
 règles propres à celles-ci, quel que soit leur statut juridique.
 
-Pour l'application du présent titre, le terme : "entité" désigne les fonds
-mentionnés aux articles L. 214-20 et L. 214-43 du code monétaire et financier.
+Pour l'application du présent titre, le terme : " entité " désigne les fonds
+mentionnés aux articles L. 214-8 et L. 214-43 du code monétaire et financier.

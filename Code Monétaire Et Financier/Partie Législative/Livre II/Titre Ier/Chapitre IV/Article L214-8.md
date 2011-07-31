@@ -1,21 +1,13 @@
 Article L214-8
 ----
-Le règlement d'un fonds commun de placement et les statuts d'une SICAV fixent la
-durée des exercices comptables qui ne peut excéder douze mois. Toutefois, le
-premier exercice peut s'étendre sur une durée différente sans excéder dix-huit
-mois.
+Sous réserve des dispositions de l'article L. 214-8-7, le fonds commun de
+placement, qui n'a pas la personnalité morale, est une copropriété d'instruments
+financiers et de dépôts dont les parts sont émises et rachetées à la demande,
+selon le cas, des souscripteurs ou des porteurs et à la valeur liquidative
+majorée ou diminuée, selon les cas, des frais et commissions. Ne s'appliquent
+pas au fonds commun de placement les dispositions du code civil relatives à
+l'indivision ni celles des articles 1871 à 1873 du même code relatives aux
+sociétés en participation.
 
-Dans un délai de six semaines à compter de la fin de chaque semestre de
-l'exercice, la SICAV et la société de gestion, pour chacun des fonds qu'elles
-gèrent, établissent l'inventaire de l'actif sous le contrôle du dépositaire.
-
-Ces sociétés sont tenues de publier, dans un délai de huit semaines à compter de
-la fin de chacun des semestres de l'exercice, la composition de l'actif. Le
-commissaire aux comptes en certifie l'exactitude avant publication. A l'issue de
-ce délai, tout actionnaire ou porteur de parts qui en fait la demande a droit à
-la communication du document.
-
-Trente jours au moins avant la réunion de l'assemblée générale qui doit les
-approuver, la SICAV est tenue de publier, en outre, son compte de résultats et
-son bilan. Elle est dispensée de les publier à nouveau après l'assemblée
-générale, à moins que cette dernière ne les ait modifiés.
+Les parts peuvent être admises aux négociations sur un marché réglementé dans
+des conditions fixées par décret.
