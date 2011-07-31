@@ -1,7 +1,6 @@
 Article R20-44-38
 ----
-La durée pour laquelle un office est désigné est au minimum de cinq ans et au
-maximum de dix ans. Deux ans avant la date d'expiration de la période pour
-laquelle l'office a été désigné, le ministre chargé des communications
-électroniques lui notifie les conditions de renouvellement de la désignation ou
-les motifs d'un refus de renouvellement.
+Pour l'application du dernier alinéa de l'article L. 45, le ministre chargé des
+communications électroniques notifie le projet de retrait de la désignation et
+ses motifs à l'office en cause. Celui-ci dispose d'un délai de deux mois pour
+présenter ses observations.

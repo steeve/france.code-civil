@@ -1,27 +1,16 @@
 Article R20-44-36
 ----
-La désignation d'un office peut être assortie de prescriptions portant notamment
-sur :
+Avant le 30 juin de chaque année, chaque office adresse au ministre chargé des
+communications électroniques un rapport sur l'activité de l'année précédente. La
+liste des informations que doit contenir ce rapport est fixée par arrêté du
+ministre chargé des communications électroniques.
 
-- les règles de désignation et d'enregistrement des noms de domaine ;
+Chaque office est tenu de répondre aux demandes du ministre chargé des
+communications électroniques relatives au respect des principes prévus aux
+articles L. 45 à L. 45-6 et des règles prévues en application des dispositions
+de l'article R. 20-44-35 dans un délai d'un mois.
 
-- les critères d'éligibilité à l'attribution d'un nom de domaine ;
-
-- les termes dont l'enregistrement n'est pas autorisé, notamment en raison de
-leur caractère illicite ou contraire à l'ordre public, ou est réservé à l'office
-ou aux pouvoirs publics ;
-
-- les procédures d'accès aux services des bureaux d'enregistrement ;
-
-- les dispositions nécessaires pour assurer la concertation avec l'ensemble des
-parties intéressées par les décisions de l'office, notamment les bureaux
-d'enregistrement, les demandeurs de noms de domaine et les utilisateurs
-d'internet ;
-
-- la mise en place de procédures de règlement des différends ;
-
-- les exigences de permanence, de qualité et de disponibilité du service ;
-
-- la mise en place d'un dispositif permettant à toute personne de porter à la
-connaissance de l'office un nom de domaine présentant un caractère illicite ou
-contraire à l'ordre public.
+Chaque office signale sans délai aux services du ministre chargé des
+communications électroniques les noms de domaine enregistrés ou sollicités
+présentant un caractère manifestement illicite ou contraire à l'ordre public en
+vertu de l'article L. 45-2 qu'il a identifiés ou qui lui sont signalés.

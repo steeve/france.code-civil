@@ -1,13 +1,28 @@
 Article R20-44-40
 ----
-Avant le 30 juin de chaque année, chaque office adresse au ministre chargé des
-communications électroniques un rapport sur son activité de l'année précédente.
+L'accréditation prévue à l'article L. 45-4 est délivrée lorsque le prestataire :
 
-La liste des informations que doit contenir ce rapport est fixée par arrêté du
-ministre chargé des communications électroniques.
+-maîtrise les principes et les modalités de fonctionnement du système des noms
+de domaine de l'internet ;
 
-Chaque office est, en outre, tenu de répondre aux demandes du ministre chargé
-des communications électroniques relatives au contrôle du respect des principes
-d'intérêt général régissant l'attribution des noms de domaine prévu au deuxième
-alinéa de l'article L. 45 du code des postes et des communications électroniques
-et au paragraphe 2 ci-dessous de la présente section.
+-maîtrise les matériels et les règles techniques permettant d'effectuer les
+enregistrements auprès de l'office ;
+
+-a mis en place une procédure de vérification des données d'identification
+fournies par les demandeurs de noms de domaine permettant de répondre, le cas
+échéant, aux demandes de l'office d'enregistrement ;
+
+-dispose des ressources humaines et techniques nécessaires pour assurer la mise
+à jour des données administratives et techniques fournies par les demandeurs de
+noms de domaine pour leur identification ;
+
+-dispose des matériels et logiciels informatiques nécessaires pour assurer la
+sécurité des données personnelles fournies par les demandeurs de noms de domaine
+et conserve ces dernières dans le respect des dispositions de la loi n° 78-17 du
+6 janvier 1978 ;
+
+-offre des conditions d'accueil du public adéquates.
+
+Un contrat entre l'office d'enregistrement et chaque bureau d'enregistrement
+accrédité fixe les conditions d'accès aux services de l'office ainsi qu'à ceux
+du bureau d'enregistrement.
