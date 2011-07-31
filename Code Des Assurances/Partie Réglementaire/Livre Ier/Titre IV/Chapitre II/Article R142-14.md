@@ -11,16 +11,17 @@ mentionnés ne peut excéder 10 % au total :
 
 2° Par dérogation au premier alinéa du présent article, parts ou actions
 d'organismes de placement collectif en valeurs mobilières mentionnées au 8° de
-l'article R. 332-2 et relevant de la sous-section 6 de la section 1 du chapitre
-IV du titre Ier du livre II du code monétaire et financier (partie
-réglementaire) ;
+l'article R. 332-2 et dont l'actif comprend plus de 10 % de parts ou actions
+d'organismes de placement collectif en valeurs mobilières ou de fonds
+d'investissement mentionnées au c du I de l'article L. 214-20 du code monétaire
+et financier ;
 
 3° Parts ou actions d'organismes de placement collectif en valeurs mobilières
-mentionnées au 8° de l'article R. 332-2, lorsqu'ils ne bénéficient pas d'une
-procédure de reconnaissance mutuelle des agréments au sens de la directive n°
-85/611/CEE du Conseil du 20 décembre 1985 portant coordination des dispositions
-législatives, réglementaires et administratives concernant certains organismes
-de placement collectif en valeurs mobilières ;
+mentionnées au 8° de l'article R. 332-2, lorsqu'ils n'ont pas été agréés
+conformément à la directive n° 2009/65/CE du Parlement européen et du Conseil du
+13 juillet 2009 portant coordination des dispositions législatives,
+réglementaires et administratives concernant certains organismes de placement
+collectif en valeurs mobilières ;
 
 4° Actifs mentionnés au 13° de l'article R. 332-2.
 

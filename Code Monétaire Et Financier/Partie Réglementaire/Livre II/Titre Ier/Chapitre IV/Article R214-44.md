@@ -1,37 +1,51 @@
 Article R214-44
 ----
-Pendant la période de préliquidation, le fonds :
+I.-Lorsque le règlement du fonds prévoit un appel progressif des capitaux,
+ceux-ci sont libérés par les porteurs de parts à la demande de la société de
+gestion avant la fin de la période de blocage prévue au VII de l'article L.
+214-28. Le règlement du fonds définit les modalités selon lesquelles les sommes
+non versées à la date d'exigibilité fixée par la société de gestion portent
+intérêt.
 
-1° Ne peut plus faire procéder à de nouvelles souscriptions de parts autres que
-celles de ses porteurs de parts à la date de son entrée en période de
-préliquidation pour réinvestir en parts, actions, obligations remboursables,
-obligations convertibles ou titres participatifs ainsi qu'en avances en comptes
-courants dans des sociétés non admises aux négociations sur un marché
-d'instruments financiers au sens du 1 de l'article L. 214-36, ou dans des
-entités mentionnées au b du 2 de l'article L. 214-36 dont les titres ou droits
-figurent à son actif ;
+II.-Lorsque les conditions du rachat des parts du fonds sont réunies, ce rachat
+s'effectue en numéraire.
 
-2° Peut, par dérogation à l'article R. 214-46, céder à une entreprise liée des
-titres de capital ou de créance détenus depuis plus de douze mois. Dans ce cas,
-les cessions sont évaluées par un expert indépendant sur rapport du commissaire
-aux comptes du fonds ; ces cessions ainsi que le rapport y afférent sont
-communiqués à l'Autorité des marchés financiers ;
+Toutefois, à la dissolution du fonds, le rachat des parts peut s'effectuer en
+titres de sociétés dans lesquelles le fonds détient une participation si le
+règlement du fonds le prévoit, qu'aucune disposition ou clause particulière ne
+limite la libre cessibilité de ces titres et que le porteur de parts en fait
+expressément la demande.
 
-3° Ne peut détenir à son actif à compter de l'ouverture de l'exercice qui suit
-celui au cours duquel est ouverte la période de préliquidation que :
+Les rachats sont exécutés et réglés par l'établissement dépositaire dans les
+conditions fixées par le règlement du fonds, lequel prescrit également les
+délais qui ne peuvent excéder au total un an après le dépôt de la demande de
+rachat.
 
-a) Des titres ou droits de sociétés non admises aux négociations sur un marché
-financier d'instruments financiers au sens du 1 de l'article L. 214-36 ou des
-titres ou droits de sociétés admises aux négociations sur un marché
-d'instruments financiers lorsque ces titres ou droits auraient été pris en
-compte pour l'appréciation des quotas mentionnés à l'article R. 214-38 si le
-fonds n'était pas entré en période de préliquidation, des avances en comptes
-courants à ces mêmes sociétés, ainsi que des droits dans des entités mentionnées
-au b du 2 de l'article L. 214-36 dont les titres ou droits figurent à son actif
-;
+Lorsque la société de gestion d'un fonds ou ses actionnaires ou ses dirigeants
+ou les personnes physiques ou morales chargées de la gestion de ce fonds
+détiennent des parts leur conférant des droits particuliers en application des
+dispositions du VIII de l'article L. 214-28, ils ne peuvent en obtenir le rachat
+qu'à la liquidation du fonds ou après que les autres parts émises ont été
+rachetées ou amorties à concurrence du montant auquel ces autres parts ont été
+libérées.
 
-b) Des investissements réalisés aux fins du placement des produits de cession de
-ses actifs et autres produits en instance de distribution au plus tard jusqu'à
-la clôture de l'exercice suivant celui au cours duquel la cession a été
-effectuée ou les produits réalisés, et du placement de sa trésorerie à hauteur
-de 20 % de la valeur liquidative du fonds.
+La fraction attribuée à la société de gestion prévue au XI de l'article L.
+214-28 ne peut excéder 20 % du boni de liquidation.
+
+III.-A l'issue de la ou des périodes de souscription mentionnées au IX de
+l'article L. 214-28, la société de gestion peut procéder à la distribution en
+numéraire d'une fraction des actifs du fonds.
+
+Toutefois, cette distribution peut s'effectuer en instruments financiers admis à
+la négociation sur un marché réglementé au sens de l'article R. 214-11 si le
+règlement du fonds le prévoit, qu'aucune disposition ou clause particulière ne
+limite la libre cessibilité de ces titres et qu'il est accordé à tous les
+porteurs de parts une option entre le paiement de la distribution en numéraire
+ou en actions.
+
+Les sommes ou valeurs ainsi distribuées sont affectées en priorité à
+l'amortissement des parts.
+
+Un rapport spécial est établi par les commissaires aux comptes lorsque la
+distribution est effectuée au profit des porteurs de parts auxquelles sont
+attachés des droits particuliers.

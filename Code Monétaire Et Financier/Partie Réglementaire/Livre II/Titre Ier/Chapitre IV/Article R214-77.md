@@ -1,7 +1,25 @@
 Article R214-77
 ----
-Un fonds d'investissement de proximité ne peut pas employer plus de 10 % de son
-actif en droits représentatifs d'un placement financier dans des entités
-mentionnées au b du 2 de l'article L. 214-36 ne relevant pas des autres
-dispositions de l'article L. 214-36, ni des articles L. 214-1, L. 214-37 et L.
-214-41.
+Pour l'application du 1° du I de l'article L. 214-31, une entreprise est
+regardée comme exerçant ses activités principalement dans les établissements
+situés dans la zone géographique choisie par un fonds d'investissement de
+proximité lorsqu'à la clôture de leur exercice précédant le premier
+investissement du fonds dans cette entreprise :
+
+1° Soit ces établissements répondent à deux des trois conditions suivantes :
+
+a) Leurs chiffres d'affaires cumulés représentent au moins 30 % du chiffre
+d'affaires total de l'entreprise ;
+
+b) Leurs effectifs permanents cumulés représentent au moins 30 % de l'effectif
+total de l'entreprise ;
+
+c) Leurs immobilisations brutes utilisées représentent au moins 30 % du total
+des immobilisations brutes utilisées de l'entreprise ;
+
+2° Soit ces établissements exercent, au regard de deux des trois données
+économiques mentionnées au 1°, une activité plus importante que celle exercée
+par ceux des autres établissements de l'entreprise qui sont situés dans une
+autre zone géographique choisie par un fonds d'investissement de proximité. La
+situation respective de ces établissements est appréciée soit au 1er janvier de
+l'année d'investissement, soit trois mois avant la date de celui-ci.

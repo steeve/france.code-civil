@@ -55,27 +55,25 @@ du code de la sécurité sociale ayant leur siège social sur le territoire de l
 des Etats membres de l'OCDE, autres que les valeurs visées aux 2°, 2° bis, 2°
 ter, 3°, 4°, 5°, 5° bis, 7° bis, 8° et 9° bis ;
 
-7° Parts des fonds communs de placement à risques de l'article L. 214-36 du code
+7° Parts des fonds communs de placement à risques de l'article L. 214-28 du code
 monétaire et financier, parts des fonds communs de placement dans l'innovation
-de l'article L. 214-41 du même code et parts des fonds d'investissement de
-proximité de l'article L. 214-41-1 du même code ;
+de l'article L. 214-30 du même code et parts des fonds d'investissement de
+proximité de l'article L. 214-31-1 du même code ;
 
 7° bis Actions des sociétés d'investissement à capital variable et parts de
-fonds communs de placement des articles L. 214-37 et L. 214-38 du code monétaire
-et financier, actions ou parts d'organisme de placement collectif en valeurs
-mobilières relevant de l'article L. 214-35-2 du code monétaire et financier,
-actions ou parts d'organismes de placement collectif en valeurs mobilières
-relevant de l'article L. 214-35 du code monétaire et financier dans sa rédaction
-antérieure au 2 août 2003 ;
+fonds communs de placement des articles L. 214-38 et L. 214-38-1 du code
+monétaire et financier, actions ou parts d'organisme de placement collectif en
+valeurs mobilières relevant de l'article L. 214-36 du code monétaire et
+financier, actions ou parts d'organismes de placement collectif en valeurs
+mobilières relevant de l'article L. 214-35 du code monétaire et financier dans
+sa rédaction antérieure au 2 août 2003 ;
 
 7° ter Parts ou actions d'organismes de placement collectif en valeurs
-mobilières à règle d'investissement allégées sans effet de levier mentionnés à
-l'article R. 214-29 du code monétaire et financier ou d'organismes de placement
-collectifs en valeurs mobilières à règles d'investissement allégées à effet de
-levier mentionnés à l'article R. 214-32 du même code ;
+mobilières à règles d'investissement allégées mentionnés à l'article R. 214-83
+du code monétaire et financier ;
 
 7° quater Parts ou actions d'organismes de placement collectif en valeurs
-mobilières de fonds alternatifs mentionnés à l'article R. 214-36 du code
+mobilières de fonds alternatifs mentionnés à l'article R. 214-86 du code
 monétaire et financier ;
 
 8° Actions des sociétés d'investissement à capital variable et parts des fonds

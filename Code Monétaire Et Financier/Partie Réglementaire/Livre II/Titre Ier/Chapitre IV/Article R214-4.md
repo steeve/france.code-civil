@@ -1,16 +1,12 @@
 Article R214-4
 ----
-Les liquidités mentionnées au c de l'article L. 214-4 sont soumises aux
-dispositions de l'article R. 214-3. Elles sont détenues par l'organisme de
-placement collectif en valeurs mobilières dans la stricte limite des besoins
-liés à la gestion des flux.
+Il est procédé à la convocation à l'assemblée générale des actionnaires d'une
+société d'investissement à capital variable et à l'information de ceux-ci sur
+les projets de fusion ou de scission selon les mêmes modalités que celles
+prévues respectivement par les articles R. 225-67 et R. 236-2 du code de
+commerce pour les sociétés dont les titres financiers ne sont pas admis aux
+négociations sur un marché réglementé ou dont toutes les actions revêtent la
+forme nominative.
 
-Le régime de ces liquidités peut déroger aux dispositions du 2° et du 4° de
-l'article R. 214-3. Il peut également déroger au 1° de ce même article si ces
-liquidités sont déposées auprès du dépositaire de l'organisme de placement
-collectif en valeurs mobilières.
-
-Si un dépassement des limites fixées aux articles R. 214-6 et R. 214-7
-intervient en raison des liquidités détenues par l'organisme de placement
-collectif en valeurs mobilières, celui-ci doit régulariser cette situation dans
-les plus brefs délais.
+Les articles R. 225-73 et R. 225-73-1 du code de commerce ne sont pas
+applicables aux sociétés d'investissement à capital variable.

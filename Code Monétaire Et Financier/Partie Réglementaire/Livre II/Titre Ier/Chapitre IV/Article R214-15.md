@@ -1,27 +1,44 @@
 Article R214-15
 ----
-Lorsqu'un instrument financier mentionné aux a, b, d ou f du 2° de l'article R.
-214-1-1, y compris lorsqu'il relève du dernier alinéa du I de l'article R.
-214-1-2, comporte totalement ou partiellement un instrument financier à terme
-répondant simultanément aux trois conditions ci-après mentionnées, ce dernier
-doit être pris en compte pour l'application des articles R. 214-12, R. 214-13 et
-R. 214-14 :
+Un organisme de placement collectif en valeurs mobilières peut conclure des
+contrats financiers mentionnés au 5° du I de l'article L. 214-20 conclus sur les
+marchés mentionnés aux 1°, 2° ou 3° du I de l'article R. 214-11 ou négociés de
+gré à gré, aux conditions suivantes : 1° Ceux-ci portent sur un ou plusieurs des
+éléments suivants :
 
-1° Tout ou partie des flux financiers qu'impliquerait autrement l'instrument
-financier dans lequel il est inclus peuvent être modifiés en fonction d'un taux
-d'intérêt, de la valorisation d'un instrument financier, d'un taux de change,
-d'un indice d'inflation ou de taux, d'une notation de crédit ou d'un indice de
-crédit, et varient en conséquence d'une manière similaire à un instrument
-financier à terme autonome ;
+a) Des actifs mentionnés à l'article L. 214-20, y compris les instruments
+présentant une ou plusieurs caractéristiques de ces actifs ;
 
-2° Ses caractéristiques économiques et son profil de risque ne sont pas
-étroitement liés aux caractéristiques économiques de l'instrument financier dans
-lequel il est inclus, ni au profil de risque de ce dernier ;
+b) Des taux d'intérêt ;
 
-3° Il a une incidence notable sur le profil de risque et la valorisation de
-l'instrument financier dans lequel il est inclus.
+c) Des taux de change ou devises ;
 
-L'instrument financier mentionné aux a, b, d ou f du 2° de l'article R. 214-1-1
-n'est pas réputé comporter totalement ou partiellement un instrument financier à
-terme lorsque ce dernier est négociable indépendamment dudit instrument
-financier.
+d) Des indices financiers, satisfaisant aux conditions prévues au I de l'article
+R. 214-16 ;
+
+2° Les contreparties des opérations sur contrats financiers de gré à gré sont
+des personnes mentionnées au deuxième alinéa du II de l'article R. 214-19 ;
+
+3° Ils peuvent, à l'initiative de l'organisme de placement collectif en valeurs
+mobilières, être à tout moment vendus, liquidés ou clôturés par une opération
+symétrique, à leur valeur de marché, et font l'objet d'une évaluation fiable et
+vérifiable sur une base journalière, qui ne se fonde pas uniquement sur les prix
+de marché donnés par la contrepartie et qui satisfait aux critères suivants :
+
+a) L'évaluation se fonde sur une valeur de marché actuelle, qui a été établie de
+manière fiable pour l'instrument ou, si une telle valeur n'est pas disponible,
+sur un modèle de valorisation utilisant une méthode reconnue et appropriée ;
+
+b) La vérification de l'évaluation est effectuée par l'une des entités suivantes
+:
+
+i) Un tiers approprié, indépendant du cocontractant, qui procède à la
+vérification selon une fréquence adéquate et des modalités telles que
+l'organisme de placement collectif en valeurs mobilières peut le contrôler ;
+
+ii) Un service de l'organisme de placement collectif en valeurs mobilières qui
+est indépendant des fonctions opérationnelles et en mesure de procéder à cette
+vérification.
+
+Les contrats financiers visés au présent article s'entendent comme excluant les
+contrats financiers portant sur des marchandises.

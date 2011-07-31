@@ -1,36 +1,27 @@
 Article R214-66
 ----
-Pendant la période de préliquidation, le fonds :
+I. - Les dispositions des articles R. 214-11 à R. 214-14, R. 214-21, R. 214-23 à
+R. 214-27, R. 214-29, R. 214-33, R. 214-33-1 et R. 214-34 ne sont pas
+applicables aux fonds d'investissement de proximité.
 
-1° Ne peut plus faire procéder à de nouvelles souscriptions de parts autres que
-celles de ses porteurs de parts à la date de son entrée en période de
-préliquidation pour réinvestir en parts, actions, obligations remboursables,
-obligations convertibles ou titres participatifs ainsi qu'en avances en comptes
-courants dans des sociétés non admises aux négociations sur un marché
-d'instruments financiers au sens du 1 de l'article L. 214-36, ou dans des
-entités mentionnées au b du 2 de l'article L. 214-36 dont les titres ou droits
-figurent à son actif ;
+II. - L'actif d'un fonds d'investissement de proximité peut être employé à :
 
-2° Peut, par dérogation à l'article R. 214-68, céder à une entreprise liée des
-titres de capital ou de créance détenus depuis plus de douze mois. Dans ce cas,
-les cessions sont évaluées par un expert indépendant sur rapport du commissaire
-aux comptes du fonds ; ces cessions ainsi que le rapport y afférent sont
-communiqués à l'Autorité des marchés financiers ;
+1° 10 % au plus en titres d'un même émetteur ;
 
-3° Ne peut détenir à son actif à compter de l'ouverture de l'exercice qui suit
-celui au cours duquel est ouverte la période de préliquidation que :
+2° 35 % au plus en actions ou parts d'un même organisme de placement collectif
+en valeurs mobilières ;
 
-a) Des titres ou droits de sociétés non admises aux négociations sur un marché
-financier au sens du 1 de l'article L. 214-36 ou des titres ou droits de
-sociétés admises aux négociations sur un marché financier au sens du 1 de
-l'article L. 214-36 lorsque ces titres ou droits auraient été pris en compte
-pour l'appréciation des quotas mentionnés à l'article R. 214-59 si le fonds
-n'était pas entré en période de préliquidation, des avances en comptes courants
-à ces mêmes sociétés, ainsi que des droits dans des entités mentionnées au b du
-2 de l'article L. 214-36 dont les titres ou droits figurent à son actif ;
+3° 10 % au plus en actions ou parts d'organismes de placement collectif en
+valeurs mobilières agréés réservés à certains investisseurs relevant de
+l'article L. 214-33 ;
 
-b) Des investissements réalisés aux fins du placement des produits de cession de
-ses actifs et autres produits en instance de distribution au plus tard jusqu'à
-la clôture de l'exercice suivant celui au cours duquel la cession a été
-effectuée ou les produits réalisés, et du placement de sa trésorerie à hauteur
-de 20 % de la valeur liquidative du fonds.
+4° 10 % au plus en titres ou en droits d'une même entité mentionnée au 2° du II
+de l'article L. 214-28 ne relevant pas des autres dispositions de l'article L.
+214-28 ni de l'article L. 214-30, ni de l'article L. 214-31.
+
+III. - Les fonds d'investissement de proximité ne sont pas pris en compte pour
+l'application du I de l'article R. 214-26.
+
+IV. - Un fonds d'investissement de proximité doit respecter les dispositions du
+présent article à l'expiration d'un délai de deux exercices à compter de son
+agrément par l'Autorité des marchés financiers.

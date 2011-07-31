@@ -5,7 +5,7 @@ affectés aux réserves des risques gérés ne peuvent être placés que sous la
 des actifs énumérés aux I, II et III du présent article et dans les conditions
 prévues au IV.
 
-I. - Valeurs mobilières et titres assimilés
+I.-Valeurs mobilières et titres assimilés
 
 1° Obligations et autres valeurs émises ou garanties :
 
@@ -42,9 +42,8 @@ communs de placement dont l'objet est limité à la gestion d'un portefeuille de
 valeurs mentionnées aux 1°, 2°, 3° et 4° du présent article, dans des conditions
 fixées par l'article R. 623-6.
 
-6° Actions des sociétés d'investissement à capital variable et parts des fonds
-communs de placement à risque régis par les sous-sections 7 et 9 de la section 1
-du chapitre IV du livre II du code monétaire et financier.
+6° Parts des fonds communs de placement régis par les articles L. 214-28, L.
+214-30, L. 214-37 et L. 214-38 du code monétaire et financier .
 
 7° Actions et titres donnant accès au capital négociés sur un marché reconnu.
 
@@ -57,9 +56,7 @@ financier des Etats membres de l'Organisation de coopération et de développeme
 économique (OCDE), en fonctionnement régulier. Les autorités compétentes de ces
 pays doivent avoir défini les conditions de fonctionnement du marché, d'accès à
 ce marché et d'admission aux négociations, et avoir imposé le respect
-d'obligations de déclaration et de transparence.
-
-II. - Actifs immobiliers
+d'obligations de déclaration et de transparence. II.-Actifs immobiliers
 
 9° Droits réels immobiliers afférents à des immeubles situés sur le territoire
 de l'un des Etats partie à l'accord sur l'Espace économique européen.
@@ -67,8 +64,7 @@ de l'un des Etats partie à l'accord sur l'Espace économique européen.
 10° Parts ou actions des sociétés à objet strictement immobilier ayant leur
 siège social sur le territoire de l'un des Etats partie à l'accord sur l'Espace
 économique européen, dans des conditions fixées par l'article R. 623-7.
-
-III. - Prêts et dépôts
+III.-Prêts et dépôts
 
 11° Prêts obtenus ou garantis par l'un des Etats partie à l'accord sur l'Espace
 économique européen, par les collectivités publiques territoriales et les
@@ -79,9 +75,8 @@ III. - Prêts et dépôts
 ou leur siège social sur le territoire de l'un des Etats partie à l'accord sur
 l'Espace économique européen, dans des conditions fixées par l'article R. 623-8.
 
-13° Dépôts dans les conditions fixées à l'article R. 623-9.
-
-IV. - Dispositions communes
+13° Dépôts dans les conditions fixées à l'article R. 623-9. IV.-Dispositions
+communes
 
 Les intérêts courus des placements énumérés au présent article sont assimilés
 auxdits placements.

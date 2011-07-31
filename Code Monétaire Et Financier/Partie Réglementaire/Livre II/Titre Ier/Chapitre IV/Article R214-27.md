@@ -1,31 +1,20 @@
 Article R214-27
 ----
-I. - Un organisme de placement collectif en valeurs mobilières à formule est un
-organisme de placement collectif en valeurs mobilières répondant aux deux
-conditions suivantes :
+I.-Les règles de composition de l'actif et les règles de division des risques
+doivent être respectées à tout moment. Toutefois :
 
-1° Son objectif de gestion est d'atteindre, à l'expiration d'une période
-déterminée, un montant déterminé par application mécanique d'une formule de
-calcul prédéfinie, faisant référence à des indicateurs de marchés financiers ou
-à des instruments financiers, ainsi que, le cas échéant, de distribuer des
-revenus, déterminés de la même façon ;
+1° Les organismes de placement collectif en valeurs mobilières ne sont pas tenus
+de se conformer aux limites prévues par le présent sous-paragraphe lors de
+l'exercice de droits de souscription afférents à des titres financiers ou à des
+instruments du marché monétaire qui font partie de leurs actifs ;
 
-2° La réalisation de son objectif de gestion est garantie par un établissement
-de crédit dont le siège est établi dans un Etat membre de l'Organisation de
-coopération et de développement économique. La garantie peut être accordée à
-l'organisme de placement collectif en valeurs mobilières ou à ses porteurs ou
-actionnaires.
+2° Les organismes de placement collectif en valeurs mobilières nouvellement
+agréés peuvent déroger aux articles R. 214-21 à R. 214-25 pendant une période de
+six mois suivant la date de leur agrément.
 
-II. - Pour les organismes de placement collectif en valeurs mobilières relevant
-du présent article, le respect des limites fixées au II de l'article R. 214-13
-s'apprécie à la date de conclusion des contrats constituant des instruments
-financiers à terme.
-
-Par dérogation au III de l'article R. 214-12, l'engagement d'un organisme de
-placement collectif en valeurs mobilières relevant de la présente sous-section
-est constitué, à tout moment, par la perte maximale de cet organisme évaluée à
-la même date.
-
-III. - Les dispositions de l'article R. 214-28 sont applicables à un organisme
-de placement collectif en valeurs mobilières relevant du présent article dont
-l'actif réplique la composition d'un indice.
+II.-Si un dépassement des limites prévues au présent sous-paragraphe intervient
+indépendamment de la volonté de l'organisme de placement collectif en valeurs
+mobilières ou à la suite de l'exercice de droits de souscription, celui-ci doit,
+dans ses opérations de vente, avoir pour objectif prioritaire de régulariser
+cette situation en tenant compte de l'intérêt des actionnaires ou porteurs de
+parts.

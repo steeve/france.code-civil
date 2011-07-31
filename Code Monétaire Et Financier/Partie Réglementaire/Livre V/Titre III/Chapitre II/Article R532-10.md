@@ -4,8 +4,7 @@ Pour obtenir leur agrément de société de gestion de portefeuille, les requér
 adressent leur demande à l'Autorité des marchés financiers.
 
 La demande d'agrément, établie sur papier libre, doit être accompagnée d'un
-dossier conforme au dossier type établi par l'Autorité des marchés financiers et
-publié au Journal officiel.
+dossier conforme au dossier type établi par l'Autorité des marchés financiers.
 
 Ce dossier type comporte les informations à fournir pour l'application des
 procédures d'agrément et d'approbation de programme d'activité prévues à

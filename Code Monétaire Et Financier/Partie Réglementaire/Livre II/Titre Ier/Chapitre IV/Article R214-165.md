@@ -16,7 +16,7 @@ sociétés ;
 
 3° Des participations directes relevant de l'article R. 214-163, ainsi que des
 participations directes détenues par les sociétés mentionnées au 2° du présent
-article dans des sociétés mentionnées à l'article R. 214-63, au prorata des
+article dans des sociétés mentionnées à l'article R. 214-163, au prorata des
 participations directes et indirectes de l'organisme de placement collectif
 immobilier dans lesdites sociétés mentionnées au 2° du présent article ;
 

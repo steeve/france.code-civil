@@ -18,5 +18,5 @@ directes et indirectes de l'organisme dans ces sociétés, ainsi que des dettes
 des organismes mentionnés au e du même I, au prorata des participations directes
 et indirectes de l'organisme de placement collectif immobilier dans ces
 organismes. Ces dettes résultent des emprunts, autres que les avances en compte
-courant mentionnées au j du I de l'article L. 214-92 octroyées par l'organisme,
+courant mentionnées au 3° du b, au 2° du c et au j du I de l'article L. 214-92,
 que ces sociétés ou organismes contractent directement.

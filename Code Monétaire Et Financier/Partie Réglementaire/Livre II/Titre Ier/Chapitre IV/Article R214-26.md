@@ -1,28 +1,52 @@
 Article R214-26
 ----
-I.-Les dispositions du présent paragraphe sont applicables aux organismes de
-placement collectif en valeurs mobilières ne bénéficiant pas d'une procédure de
-reconnaissance mutuelle des agréments au sens de la directive 85 / 611 / CEE du
-Conseil du 20 décembre 1985 susmentionnée et dont l'actif comprend plus de 10 %
-d'actions ou parts d'organismes de placement collectif en valeurs mobilières
-relevant du c du 2° de l'article R. 214-1-1 ou du 6° de l'article R. 214-5, ou
-de fonds d'investissement relevant du 5° de l'article R. 214-5.
+I.-Une société d'investissement à capital variable ou une société de gestion
+agissant pour l'ensemble des organismes de placement collectif en valeurs
+mobilières qu'elle gère, n'acquiert pas d'actions assorties du droit de vote lui
+permettant d'exercer une influence notable sur la gestion d'un émetteur. II.-Un
+organisme de placement collectif en valeurs mobilières ne peut détenir plus de :
 
-II.-Un organisme de placement collectif en valeurs mobilières régi par le
-présent paragraphe peut employer jusqu'à la totalité de son actif en :
+1° 10 % de titres de capital sans droit de vote d'une même entité ;
 
-1° Parts ou actions d'organismes de placement collectif en valeurs mobilières
-mentionnés au 1° du II de l'article R. 214-25 ;
+2° 10 % de titres de créance d'une même entité ;
 
-2° Parts ou actions mentionnés au 2° du II de l'article R. 214-25, à l'exception
-des parts ou actions de fonds d'investissement mentionnées au b du même 2° qui
-ne peuvent représenter plus de 30 % de l'actif.
+3° 25 % des parts ou actions d'un même organisme de placement collectif de droit
+français ou étranger ou d'un même fonds d'investissement de droit étranger ;
 
-III.-Par dérogation aux limites de 5 % et 10 % fixées aux sixième et huitième
-alinéas de l'article L. 214-4, un organisme de placement collectif en valeurs
-mobilières régi par le présent paragraphe peut employer jusqu'à 50 % de son
-actif en parts ou actions d'un même organisme de placement collectif en valeurs
-mobilières mentionné au II ou d'un même fonds d'investissement étranger
-mentionné au II et détenir jusqu'à 100 % des parts ou actions d'un même
-organisme de placement collectif en valeurs mobilières mentionné au II ou d'un
-même fonds d'investissement étranger mentionné au II.
+4° 10 % d'instruments du marché monétaire émis par une même entité.
+
+Les limites prévues aux 2°, 3° et 4° peuvent ne pas être respectées au moment de
+l'acquisition si, à ce moment-là, le montant brut des titres de créance ou des
+instruments du marché monétaire, ou le montant net des titres émis, ne peut être
+calculé.
+
+III.-Il peut être dérogé au I et au II du présent article en qui concerne :
+
+1° Les titres financiers éligibles et les instruments du marché monétaire émis
+ou garantis par un Etat membre ou par ses collectivités publiques territoriales
+;
+
+2° Les titres financiers éligibles et les instruments du marché monétaire émis
+ou garantis par un pays tiers ;
+
+3° Les titres financiers éligibles et les instruments du marché monétaire émis
+par un organisme public international dont un ou plusieurs Etats membres font
+partie ;
+
+4° Les actions détenues par un organisme de placement collectif en valeurs
+mobilières dans le capital d'une société constituée dans un pays tiers
+investissant ses actifs essentiellement en titres d'émetteurs ayant leur siège
+statutaire dans ce pays lorsque, en vertu de la législation de celui-ci, une
+telle participation constitue pour l'organisme de placement collectif en valeurs
+mobilières la seule possibilité d'investir en titres d'émetteurs de ce pays ;
+
+5° Les actions détenues par une ou plusieurs sociétés d'investissement dans le
+capital de sociétés filiales exerçant uniquement des activités de gestion, de
+conseil ou de commercialisation dans le pays où la filiale est établie, en ce
+qui concerne le rachat de parts à la demande des porteurs exclusivement pour son
+compte ou pour leur compte.
+
+La dérogation visée au 4° n'est applicable qu'à la condition que la société du
+pays tiers respecte dans sa politique de placement les limites établies par les
+articles R. 214-21, R. 214-24, R. 214-25 et par le I et le II du présent
+article.

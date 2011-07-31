@@ -7,8 +7,8 @@ satisfaisant aux quatre conditions suivantes :
 une convention écrite. Le siège de cet établissement est établi dans un Etat
 membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
 européen, ou dans un autre Etat, dans la mesure où cet établissement est soumis
-à une surveillance prudentielle et respecte un des critères prévus aux ii à iv
-du c du 3° du II de l'article R. 214-2 ;
+à une surveillance prudentielle et respecte un des critères prévus aux b à d du
+3° du I de l'article R. 214-12 ;
 
 2° Leur terme est inférieur ou égal à douze mois ;
 

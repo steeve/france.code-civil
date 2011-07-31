@@ -15,7 +15,7 @@ approuvés par la personne responsable de la publication des documents
 d'information ;
 
 2° A la charge de la personne responsable de la publication des documents
-d'information mentionnés aux articles L. 214-12, L. 214-109 et L. 412-1 :
+d'information mentionnés aux articles L. 214-23-1, L. 214-109 et L. 412-1 :
 
 a) La mise à la disposition des prestataires de services d'investissement de ces
 documents et de leur mise à jour ;

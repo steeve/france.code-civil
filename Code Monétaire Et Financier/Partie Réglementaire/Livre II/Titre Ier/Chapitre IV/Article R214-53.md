@@ -1,23 +1,29 @@
 Article R214-53
 ----
-Les fonds communs de placement d'entreprise et les sociétés d'investissement à
-capital variable d'actionnariat salarié peuvent comporter des compartiments. Les
-dispositions des articles L. 214-4, L. 214-5, L. 214-19, L. 214-20 et L. 214-30,
-ainsi que celles de la présente sous-section, sont applicables à chacun des
-compartiments.
+Après déclaration à l'Autorité des marchés financiers et au service des impôts
+auprès duquel sa société de gestion dépose sa déclaration de résultats, un fonds
+commun de placement dans l'innovation peut entrer en période de préliquidation :
+1° A compter de l'ouverture de l'exercice suivant la clôture de son cinquième
+exercice si, depuis l'expiration d'une période de souscription de dix-huit mois
+au plus qui suit immédiatement la date de sa constitution, il n'a pas été
+procédé à des souscriptions de parts autres que celles effectuées auprès de ses
+porteurs de parts ayant souscrit au cours de la période de dix-huit mois
+précitée :
 
-Ils peuvent investir en actions ou parts d'autres organismes de placement
-collectif en valeurs mobilières sans que les limites ou restrictions prévues aux
-articles R. 214-6, R. 214-25 et R. 214-26 leur soient applicables. Toutefois,
-lorsque leur actif est investi en totalité en actions ou parts d'un seul
-organisme de placement collectif en valeurs mobilières, ils se constituent sous
-forme d'organisme nourricier d'un organisme maître dans les conditions prévues à
-l'article L. 214-34.
+a) Pour lui permettre de réinvestir en parts, actions, obligations
+remboursables, obligations convertibles ou titres participatifs ainsi qu'en
+avances en comptes courants dans des sociétés non admises aux négociations sur
+un marché d'instruments financiers au sens du I de l'article L. 214-28 ou dans
+des entités mentionnées au 2° du II de l'article L. 214-28 dont les titres ou
+droits figurent à son actif ;
 
-Les fonds communs de placement d'entreprise et les sociétés d'investissement à
-capital variable d'actionnariat salarié ne peuvent investir en actions ou parts
-de fonds d'investissement mentionnés au 5° de l'article R. 214-5.
+b) Ou pour satisfaire l'obligation de réinvestissement prévue à l'article 163
+quinquies B du code général des impôts ;
 
-Par dérogation au III de l'article R. 214-12, l'engagement d'un organisme de
-placement collectif en valeurs mobilières relevant de l'article L. 214-40 est
-constitué par la perte potentielle de celui-ci évaluée à tout moment.
+2° A compter de l'ouverture de l'exercice suivant la clôture du cinquième
+exercice qui suit celui au cours duquel sont intervenues les dernières
+souscriptions, dans les autres cas.
+
+A compter de l'exercice pendant lequel la déclaration mentionnée au premier
+alinéa est déposée, le quota de 60 % figurant au I de l'article L. 214-30 peut
+ne pas être respecté.

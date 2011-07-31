@@ -1,7 +1,7 @@
 Article R214-67
 ----
-Lorsqu'il est procédé, par la société de gestion d'un fonds, à des opérations
-d'achat ou de vente à terme portant sur des titres qui ne sont pas admis à la
-négociation sur un marché d'instruments financiers au sens du 1 de l'article L.
-214-36, les conventions concernant ces opérations sont conclues dans les limites
-et sous les conditions précisées par le règlement du fonds.
+Un fonds d'investissement de proximité ne peut pas employer plus de 10 % de son
+actif en droits représentatifs d'un placement financier dans des entités
+mentionnées au 2° du II de l'article L. 214-28 ne relevant pas des autres
+dispositions de l'article L. 214-28 ni des articles L. 214-1, L. 214-30 et L.
+214-38.

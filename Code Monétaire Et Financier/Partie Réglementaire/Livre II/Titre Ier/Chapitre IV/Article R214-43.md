@@ -1,31 +1,18 @@
 Article R214-43
 ----
-Après déclaration à l'Autorité des marchés financiers et au service des impôts
-auprès duquel sa société de gestion dépose sa déclaration de résultats, un fonds
-commun de placement à risques peut entrer en période de préliquidation :
-
-1° A compter de l'ouverture de l'exercice suivant la clôture de son cinquième
-exercice si, depuis l'expiration d'une période de souscription de dix-huit mois
-au plus qui suit immédiatement la date de sa constitution, il n'a pas été
-procédé à des souscriptions de parts autres que celles effectuées auprès de ses
-porteurs de parts ayant souscrit au cours de la période de dix-huit mois
-précitée :
-
-a) Pour lui permettre de réinvestir en parts, actions, obligations
-remboursables, obligations convertibles ou titres participatifs ainsi qu'en
-avances en comptes courants dans des sociétés non admises aux négociations sur
-un marché d'instruments financiers au sens du 1 de l'article L. 214-36 ou dans
-des entités mentionnées au b du 2 de l'article L. 214-36 dont les titres ou
-droits figurent à son actif ;
-
-b) Ou pour satisfaire l'obligation de réinvestissement prévue à l'article 163
-quinquies B du code général des impôts.
-
-2° A compter de l'ouverture de l'exercice suivant la clôture du cinquième
-exercice qui suit celui au cours duquel sont intervenues les dernières
-souscriptions, dans les autres cas.
-
-A compter de l'exercice pendant lequel la déclaration mentionnée au premier
-alinéa est déposée, le quota de 50 % figurant au 1 de l'article L. 214-36 peut
-ne plus être respecté et les II et III de l'article R. 214-39 ne s'appliquent
-pas.
+La société de gestion ne peut, pour le compte d'un fonds, procéder, pour ses
+éléments d'actifs qui ne sont pas négociés sur un marché d'instruments
+financiers au sens du I de l'article L. 214-28, à d'autres opérations que celles
+d'achat ou de vente à terme ou au comptant dans les limites fixées par la
+présente sous-section ni procéder pour ces mêmes éléments d'actifs à des
+cessions ou acquisitions à une entreprise qui lui est liée de titres en capital
+ou de créances détenus depuis plus de douze mois. Est présumée entreprise liée
+toute entreprise contrôlée par la société de gestion de manière exclusive ou
+conjointe au sens de l'article L. 233-16 du code de commerce, toute entreprise
+contrôlant la société de gestion de manière exclusive ou conjointe au sens de ce
+même article L. 233-16, toute entreprise filiale de la même société mère ainsi
+que toute entreprise avec laquelle la société de gestion a des mandataires
+sociaux ou des dirigeants communs et qui exercent des fonctions de gestion de
+participations pour le compte de l'entreprise, ou de gestion au sens du 4 de
+l'article L. 321-1 et de l'article L. 214-8-1, ou de conseil au sens du 4 de
+l'article L. 321-2.

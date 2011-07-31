@@ -1,10 +1,10 @@
 Article R532-26
 ----
-I. - Tout prestataire de services d'investissement qui, ayant son siège social
-sur le territoire de la France métropolitaine et des collectivités régies par
-l'article 73 de la Constitution, souhaite pour la première fois fournir des
+I.-Tout prestataire de services d'investissement qui, ayant son siège social sur
+le territoire de la France métropolitaine et des départements d'outre-mer, de
+Saint-Barthélemy et de Saint-Martin, souhaite pour la première fois fournir des
 services d'investissement en libre prestation de services dans un autre Etat
-membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur
+membre de l'Union européenne ou dans un autre Etat partie à l'accord sur
 l'Espace économique européen doit notifier son projet à l'Autorité de contrôle
 prudentiel en indiquant le nom de l'Etat concerné et en précisant la nature des
 services d'investissement qu'il envisage de fournir et s'il prévoit de recourir
@@ -22,19 +22,18 @@ La notification de libre prestation de services prévue au premier alinéa peut
 être adressée, par le prestataire intéressé, à l'Autorité de contrôle prudentiel
 en même temps que sa demande d'agrément.
 
-II. - L'Autorité de contrôle prudentiel transmet à l'autorité compétente de
-l'Etat d'accueil, qui a été désignée comme point de contact, la notification de
-libre prestation de services prévue au premier alinéa du I dans un délai d'un
-mois après sa réception. Ce délai est toutefois suspendu, lorsque des
-renseignements complémentaires ont été demandés au prestataire, jusqu'à
-réception de ces renseignements.
+II.-L'Autorité de contrôle prudentiel transmet à l'autorité compétente de l'Etat
+d'accueil, qui a été désignée comme point de contact, la notification de libre
+prestation de services prévue au premier alinéa du I dans un délai d'un mois
+après sa réception. Ce délai est toutefois suspendu, lorsque des renseignements
+complémentaires ont été demandés au prestataire, jusqu'à réception de ces
+renseignements.
 
 Lorsqu'un prestataire de services d'investissement souhaite exercer le service
 de tenue de compte conservation en libre prestation de services dans un Etat de
-la Communauté européenne ou un Etat partie à l'accord sur l'Espace économique
-européen il doit, sans préjudice des conditions requises par l'autorité
-compétente de l'Etat d'accueil, avoir été préalablement agréé à exercer ce
-service en France.
+l'Union européenne ou un Etat partie à l'accord sur l'Espace économique européen
+il doit, sans préjudice des conditions requises par l'autorité compétente de
+l'Etat d'accueil, avoir été préalablement agréé à exercer ce service en France.
 
 Si le prestataire de services d'investissement entend recourir à des agents
 liés, l'Autorité de contrôle prudentiel communique, à la demande de l'autorité

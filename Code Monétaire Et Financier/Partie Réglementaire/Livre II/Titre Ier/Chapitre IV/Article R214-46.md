@@ -1,18 +1,24 @@
 Article R214-46
 ----
-La société de gestion ne peut, pour le compte d'un fonds, procéder, pour ses
-éléments d'actifs qui ne sont pas négociés sur un marché d'instruments
-financiers au sens du 1 de l'article L. 214-36, à d'autres opérations que celles
-d'achat ou de vente à terme ou au comptant dans les limites fixées par la
-présente sous-section, ni procéder pour ces mêmes éléments d'actifs à des
-cessions ou acquisitions à une entreprise qui lui est liée de titres en capital
-ou de créances détenus depuis plus de douze mois. Est présumée "entreprise liée"
-toute entreprise contrôlée par la société de gestion de manière exclusive ou
-conjointe au sens de l'article L. 233-16 du code de commerce, toute entreprise
-contrôlant la société de gestion de manière exclusive ou conjointe au sens de ce
-même article L. 233-16, toute entreprise filiale de la même société mère ainsi
-que toute entreprise avec laquelle la société de gestion a des mandataires
-sociaux ou des dirigeants communs et qui exercent des fonctions de gestion de
-participations pour le compte de l'entreprise, ou de gestion au sens du 4 de
-l'article L. 321-1 et de l'article L. 214-24, ou de conseil au sens du 4 de
-l'article L. 321-2.
+I.-Les entités mentionnées au 2° du II de l'article L. 214-28 dans lesquelles
+les fonds communs de placement à risques peuvent investir sont celles qui
+limitent la responsabilité de leurs investisseurs au montant de leurs apports.
+
+II.-Pour l'appréciation du numérateur du quota de 50 % prévu au I de l'article
+L. 214-28, les droits représentatifs d'un placement financier dans des entités
+mentionnées au I sont pris en compte dans la proportion de l'investissement
+direct de ces entités dans des titres éligibles à ce même quota de 50 % à
+l'exclusion des droits dans d'autres entités de même nature.
+
+Cette proportion d'investissement direct est calculée par référence :
+
+1° Soit au dernier inventaire de l'actif desdites entités ;
+
+2° Soit aux engagements statutaires ou contractuels d'investissement direct en
+titres éligibles pris par lesdites entités dans la mesure où ces dernières ne
+sont pas entrées dans la période de préliquidation mentionnée aux articles R.
+214-40 et R. 214-41 lors de la souscription du fonds.
+
+La proportion s'applique aux engagements contractuels de souscription donnés par
+le fonds auxdites entités à condition que ces engagements aient un caractère
+irrévocable.

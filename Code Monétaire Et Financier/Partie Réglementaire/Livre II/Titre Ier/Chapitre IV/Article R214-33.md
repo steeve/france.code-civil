@@ -1,45 +1,64 @@
 Article R214-33
 ----
-I.-Par dérogation aux articles R. 214-6 et R. 214-7, un organisme de placement
-collectif en valeurs mobilières mentionné à l'article R. 214-32 peut employer :
+Par dérogation aux dispositions du II de l'article R. 214-11, l'actif d'un
+organisme de placement collectif en valeurs mobilières régi par la présente
+sous-section peut également comprendre, dans la limite de 10 % prévue au II de
+ce même article : 1° Des bons de souscription ;
 
-1° Jusqu'à 50 % de son actif en instruments mentionnés au c du 2° de l'article
-R. 214-1-1 d'un même émetteur ;
+2° Des bons de caisse ;
 
-2° Jusqu'à 35 % de son actif en instruments mentionnés aux a, b, d et f du 2° de
-l'article R. 214-1-1 ou en instruments mentionnés à l'article R. 214-5 d'un même
-émetteur. La limite de 40 % définie au I de l'article R. 214-6 n'est pas
-applicable ;
+3° Des billets à ordre ;
 
-3° Jusqu'à 50 % de son actif en instruments mentionnés aux a, b, d et f du 2° de
-l'article R. 214-1-1 d'un même émetteur à condition que les titres détenus aient
-été émis dans les conditions précisées au 2° du I de l'article R. 214-7 lors de
-trois émissions différentes ;
+4° Des billets hypothécaires ;
 
-4° Jusqu'à 35 % de son actif en dépôts placés auprès du même établissement.
+5° Des actions ou parts de fonds d'investissement de droit étranger répondant
+aux critères fixés par le règlement général de l'Autorité des marchés financiers
+;
 
-II.-Nonobstant les dispositions du I du présent article et du deuxième alinéa du
-II de l'article R. 214-12, un organisme de placement collectif en valeurs
-mobilières mentionné à l'article R. 214-32 ne peut employer plus de 50 % de son
-actif en instruments financiers mentionnés aux a, b et d du 2° de l'article R.
-214-1-1 d'un même établissement, en dépôts placés auprès de celui-ci ou en
-risque de contrepartie défini au II de l'article R. 214-12 sur celui-ci.
+6° Des actions ou parts d'organismes de placement collectif en valeurs
+mobilières suivants :
 
-III.-Par dérogation à la limite de 10 % fixée au huitième alinéa de l'article L.
-214-4, un organisme de placement collectif en valeurs mobilières mentionné à
-l'article R. 214-32 peut détenir jusqu'à 35 % d'instruments financiers de
-chacune des catégories mentionnées à l'article R. 214-18. Cette limite de 35 %
-est portée à 100 % pour l'investissement dans des organismes de placement
-collectif en valeurs mobilières ou des fonds d'investissement de droit étranger
-mentionnés au c du 2° de l'article R. 214-1-1 ou au 5° ou 6° de l'article R.
-214-5.
+a) Organismes de placement collectif en valeurs mobilières nourriciers
+mentionnés aux articles L. 214-22 et L. 214-26 ;
 
-IV.-Par dérogation au 5° de l'article R. 214-5, l'actif d'un organisme de
-placement collectif en valeurs mobilières relevant du présent article peut
-également comprendre, dans la limite de 10 % mentionnée au même article, des
-actions ou parts de fonds d'investissement de droit étranger ne respectant pas
-les critères prévus à ce même 5°.
+b) Organismes de placement collectif en valeurs mobilières bénéficiant d'une
+procédure allégée mentionnés à l'article L. 214-35 dans sa rédaction antérieure
+au 2 août 2003 ;
 
-V.-La limite de 10 % fixée au septième alinéa de l'article L. 214-4 n'est pas
-applicable aux organismes de placement collectif en valeurs mobilières
-mentionnés à l'article R. 214-32.
+c) Organismes de placement collectif en valeurs mobilières régis par la présente
+section qui investissent plus de 10 % de leurs actifs en actions ou parts
+d'autres organismes de placement collectif ou de fonds d'investissement ;
+
+d) Organismes de placement en valeurs mobilières agréés réservés à certains
+investisseurs mentionnés à l'article L. 214-33 ;
+
+e) Organismes de placement collectif en valeurs mobilières contractuels
+mentionnés à l'article L. 214-36 ;
+
+f) Fonds communs de placement à risques mentionnés à l'article L. 214-28, fonds
+communs de placement dans l'innovation mentionnés à l'article L. 214-30, fonds
+d'investissement de proximité mentionnés à l'article L. 214-31 et fonds communs
+de placement à risques bénéficiant d'une procédure allégée mentionnés à
+l'article L. 214-38 ;
+
+g) Fonds communs d'intervention sur les marchés à terme mentionnés à l'article
+L. 214-42 dans sa rédaction antérieure à la date de publication de l'ordonnance
+n° 2011-915 du 1er août 2011 relative aux organismes de placement collectif en
+valeurs mobilières et à la modernisation du cadre juridique de la gestion
+d'actifs ;
+
+7° Des titres financiers éligibles et instruments du marché monétaire ne
+répondant pas aux conditions mentionnées au I de l'article R. 214-11 ;
+
+8° Des parts ou actions d'organismes de placement collectif immobilier ou
+d'organismes étrangers mentionnées au e du I de l'article L. 214-92.
+
+En outre, sont incluses dans la limite de 10 % mentionnée au premier alinéa les
+parts ou actions d'organismes de placement collectif en valeurs mobilières ou de
+fonds d'investissement eux-mêmes investis à plus de 10 % en parts ou actions
+d'organismes de placement collectif en valeurs mobilières ou de fonds
+d'investissement.
+
+Pour l'application de la présente sous-section, les actions de sociétés de
+placement à prépondérance immobilière à capital variable mentionnées à l'article
+L. 214-120 relèvent du seul 8°.

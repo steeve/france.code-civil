@@ -1,26 +1,50 @@
 Article R214-18
 ----
-Pour l'application des dispositions du huitième alinéa de l'article L. 214-4,
-chacun des instruments financiers suivants constitue une catégorie :
+I.-Un organisme de placement collectif en valeurs mobilières peut recourir aux
+techniques et aux instruments qui portent sur des titres financiers éligibles et
+des instruments du marché monétaire, et notamment à des opérations de pension, à
+des opérations assimilées d'acquisition ou de cession temporaire de titres, pour
+autant que ces techniques et ces instruments soient employés aux fins d'une
+gestion efficace du portefeuille. En aucun cas, ces techniques et instruments
+n'amènent l'organisme de placement collectif en valeurs mobilières à s'écarter
+de ses objectifs d'investissement tels qu'exposés dans le règlement du fonds,
+les statuts de la SICAV, ou dans le prospectus de l'organisme de placement
+collectif en valeurs mobilières.
 
-1° Les instruments financiers assortis d'un droit de vote d'une même entité ;
+II.-Les techniques et instruments mentionnés au I satisfont aux critères
+suivants :
 
-2° Les instruments financiers mentionnés aux a et d du 2° de l'article R.
-214-1-1 donnant accès directement ou indirectement au capital d'une même entité
-;
+1° Ils sont économiquement appropriés, en ce sens que leur mise en œuvre est
+rentable ;
 
-3° Les instruments financiers mentionnés aux b, d et f du 2° de l'article R.
-214-1-1 conférant directement ou indirectement un droit de créance général sur
-le patrimoine d'une même entité ;
+2° Ils sont utilisés en vue d'atteindre un ou plusieurs des objectifs suivants :
 
-4° Les instruments financiers émis par une même entité mentionnée au c du 2° de
-l'article R. 214-1-1 ou aux 5°, 6° et 8° de l'article R. 214-5. Par dérogation à
-la limite de 10 % fixée au huitième alinéa de l'article L. 214-4, un organisme
-de placement collectif en valeurs mobilières peut détenir jusqu'à 25 % des
-instruments financiers d'une même entité de cette catégorie. Toutefois, un
-organisme de placement collectif en valeurs mobilières bénéficiant d'une
-procédure de reconnaissance mutuelle des agréments au sens de la directive
-85/611/CEE du Conseil du 20 décembre 1985 portant coordination des dispositions
-législatives, réglementaires et administratives concernant certains organismes
-de placement collectif en valeurs mobilières ne peut détenir plus de 10 % des
-parts ou actions d'un même organisme de placement collectif immobilier.
+a) Réduction des risques ;
+
+b) Réduction des coûts ;
+
+c) Création de capital ou de revenus supplémentaires pour l'organisme de
+placement collectif en valeurs mobilières ;
+
+3° Les risques qu'ils comportent sont pris en considération de manière
+appropriée par le processus de gestion des risques de l'organisme de placement
+collectif en valeurs mobilières.
+
+III.-Les opérations mentionnées au I satisfont en outre aux critères suivants :
+
+1° Elles sont réalisées avec une personne mentionnée au deuxième alinéa du II de
+l'article R. 214-19 ;
+
+2° Elles sont régies par une convention cadre mentionnée aux articles L. 211-36
+et L. 211-36-1 ;
+
+3° Elles doivent respecter les règles de dénouement fixées au 3° de l'article R.
+214-15.
+
+Elles doivent être prises en compte pour l'application des règles générales de
+composition de l'actif, des ratios d'emprise, et des règles de calcul du risque
+global définies à la présente sous-section ; en outre l'exposition de
+l'organisme au risque de contrepartie sur un même cocontractant résultant de ces
+opérations est cumulée avec celle résultant des contrats financiers de gré à gré
+conclus avec ce même cocontractant pour l'appréciation des limites prévues au
+III de l'article R. 214-21.

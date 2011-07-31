@@ -1,111 +1,39 @@
 Article R214-13
 ----
-I.-Un organisme de placement collectif en valeurs mobilières peut conclure des
-contrats constituant des instruments financiers à terme en vue de protéger ses
-actifs ou de réaliser son objectif de gestion, aux conditions fixées à l'article
-R. 214-12 et à chacune des deux conditions suivantes :
+Les parts ou actions d'organismes de placement collectif et de fonds
+d'investissement mentionnées au 3° du I de l'article L. 214-20 comprennent les
+parts ou actions d'organismes de placement collectif en valeurs mobilières de
+droit français ou étranger agréés conformément à la directive 2009/65/ CE du
+Parlement européen et du Conseil du 13 juillet 2009 ou les parts ou actions
+d'autres organismes de placement collectif de droit français ou étranger ou de
+fonds d'investissement constitués sur le fondement d'un droit étranger, qu'ils
+soient établis ou non dans un Etat membre de l'Union européenne ou d'un autre
+Etat partie à l'accord sur l'Espace économique européen, à condition que :
 
-1° L'engagement de l'organisme de placement collectif en valeurs mobilières sur
-les instruments financiers à terme ne doit pas être supérieur à la valeur de son
-actif ;
+1° Ces autres organismes de placement collectif ou fonds d'investissement de
+droit étranger soient soumis à une surveillance équivalente à celle applicable
+aux organismes de placement collectif en valeurs mobilières agréés conformément
+à la directive 2009/65/ CE du Parlement européen et du Conseil du 13 juillet
+2009 et que la coopération entre l'Autorité des marchés financiers et l'autorité
+de surveillance de cet organisme ou de ce fonds soit suffisamment garantie ;
 
-2° Les contrats ont les caractéristiques suivantes :
+2° Le niveau de la protection garantie aux porteurs de parts de ces autres
+organismes de placement collectif ou fonds d'investissement de droit étranger
+soit équivalent à celui prévu pour les porteurs de parts d'un d'organisme de
+placement collectif en valeurs mobilières agréé conformément à la directive
+2009/65/ CE du Parlement européen et du Conseil du 13 juillet 2009 et, en
+particulier, que les règles relatives à la division des actifs, aux emprunts,
+aux prêts et aux ventes à découvert de valeurs mobilières et d'instruments du
+marché monétaire soient équivalentes aux exigences de ladite directive ;
 
-a) Ils portent sur des instruments mentionnés à l'article R. 214-1-1 et au 2° du
-II de l'article R. 214-25, y compris sur une ou plusieurs caractéristiques de
-ces actifs, ou sur des taux d'intérêt, des taux de change ou devises, sur une
-combinaison des éléments précédents, ou encore sur des indices financiers, se
-rapportant le cas échéant à des prix immobiliers, satisfaisant aux conditions
-fixées au III ;
+3° Leur activité fasse l'objet de rapports semestriels et annuels permettant une
+évaluation de l'actif et du passif, des bénéfices et des opérations sur la
+période considérée ;
 
-b) Ils sont conclus sur les marchés à terme réglementés mentionnés à l'article
-L. 214-42. Dans les autres cas, ils doivent répondre aux critères suivants :
-
-i) Ils sont conclus avec un établissement mentionné au deuxième alinéa du I de
-l'article R. 214-12 ;
-
-ii) Ils peuvent être dénoués ou liquidés à tout moment, à leur valeur de marché
-mentionnée au présent iii, à l'initiative de l'organisme de placement collectif
-en valeurs mobilières ;
-
-iii) Ils font l'objet d'une valorisation effectuée par l'organisme de placement
-collectif en valeurs mobilières, qui ne se fonde pas uniquement sur des prix de
-marché donnés par la contrepartie et satisfait aux critères suivants :
-
-1° La valorisation se fonde sur une valeur de marché actuelle, qui a été établie
-de manière fiable pour l'instrument ou, si une telle valeur n'est pas
-disponible, sur un modèle de valorisation utilisant une méthode reconnue et
-appropriée ;
-
-2° Cette valorisation est vérifiée soit par un tiers indépendant du
-cocontractant, de façon régulière et selon des modalités telles que l'organisme
-de placement collectif en valeurs mobilières puisse la contrôler, soit par un
-service de l'organisme de placement collectif en valeurs mobilières indépendant
-des fonctions opérationnelles et en mesure de procéder à cette vérification.
-
-Pour les organismes de placement collectif ne bénéficiant pas d'une procédure de
-reconnaissance mutuelle des agréments au sens de la directive 85 / 611 / CEE du
-Conseil du 20 décembre 1985 portant coordination des dispositions législatives,
-réglementaires et administratives concernant certains organismes de placement
-collectif en valeurs mobilières, ces contrats peuvent en outre porter :
-
-i) Sur des marchandises, dans les conditions prévues au présent
-paragraphe.L'exposition à un même contrat portant sur des marchandises ne peut
-excéder 10 % de l'actif. Les corrélations significatives entre les contrats
-portant sur des marchandises conclus par l'organisme sont prises en compte pour
-l'appréciation de cette limite. Le dénouement de ces contrats ne peut donner
-lieu qu'au transfert d'éléments éligibles à l'actif d'un organisme de placement
-collectif en valeurs mobilières ;
-
-ii) Sur des actifs mentionnés à l'article R. 214-5, dans les conditions fixées
-par le II du présent article.
-
-II.-L'investissement sous-jacent aux contrats constituant des instruments
-financiers à terme est pris en compte pour l'application des dispositions des
-six premiers alinéas de l'article L. 214-4.
-
-Lorsque ces contrats constituent des instruments financiers à terme fondés sur
-des indices répondant aux conditions définies au III, il peut être dérogé à
-l'alinéa précédent.
-
-III.-Les indices financiers mentionnés au I satisfont aux critères suivants :
-
-1° Leur composition est suffisamment diversifiée.A cette fin, elle satisfait aux
-conditions suivantes :
-
-a) L'indice est composé de telle manière que les mouvements de prix ou les
-activités de négociation affectant l'une de ses composantes n'influencent pas de
-façon anormale sa performance globale ;
-
-b) Lorsque l'indice est composé d'instruments mentionnés à l'article R. 214-1-1
-ou au 2° du II de l'article R. 214-25, sa composition respecte les règles de
-diversification mentionnées au III de l'article R. 214-28. Lorsque l'indice
-n'est pas composé de tels instruments, sa composition est diversifiée selon des
-modalités équivalentes aux règles mentionnées audit III de l'article R. 214-28 ;
-
-2° Ils constituent un étalon représentatif du marché auquel ils se réfèrent.A
-cette fin, ils satisfont aux conditions suivantes :
-
-a) L'indice mesure, d'une manière appropriée, la performance d'un ensemble
-représentatif de sous-jacents ;
-
-b) L'indice est revu ou pondéré à nouveau à intervalles réguliers, de manière
-qu'il continue de refléter le marché auquel il se réfère, conformément à des
-critères publiquement disponibles ;
-
-c) Les sous-jacents sont suffisamment liquides pour permettre à l'organisme de
-placement collectif en valeurs mobilières de reproduire l'indice, le cas échéant
-;
-
-3° Ils font l'objet d'une publication appropriée.A cette fin, ils satisfont aux
-conditions suivantes :
-
-a) Cette publication repose sur des procédures de collecte des prix et de calcul
-puis de publication de la valeur de l'indice, y compris des procédures de
-valorisation pour les composantes pour lesquelles aucun prix de marché n'est
-disponible ;
-
-b) Les informations significatives sur les méthodes de calcul et de suivi des
-pondérations de l'indice, les modifications apportées à l'indice ou toute
-difficulté opérationnelle rencontrée dans la fourniture desdites informations
-sont diffusées dans le public en temps utile.
+4° Les organismes de placement collectif en valeurs mobilières agréés
+conformément à la directive 2009/65/ CE du Parlement européen et du Conseil du
+13 juillet 2009, les organismes de placement collectif ou les fonds
+d'investissement de droit étranger dont l'acquisition est envisagée ne peuvent,
+aux termes de leur règlement ou de leurs statuts, investir globalement plus de
+10 % de leur actif dans des parts ou actions d'autres organismes de placement
+collectif ou de fonds d'investissement.

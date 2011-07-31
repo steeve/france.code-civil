@@ -1,7 +1,6 @@
 Article R214-45
 ----
-Lorsqu'il est procédé, par la société de gestion d'un fonds à des opérations
-d'achat ou de vente à terme portant sur des titres qui ne sont pas admis à la
-négociation sur un marché d'instruments financiers au sens du 1 de l'article L.
-214-36, les conventions concernant ces opérations sont conclues dans les limites
-et sous les conditions précisées par le règlement du fonds.
+La société de gestion rend compte aux porteurs de parts des nominations de ses
+mandataires sociaux et salariés à des fonctions de gérants, d'administrateurs,
+de membres du directoire ou du conseil de surveillance des sociétés dans
+lesquelles le fonds détient des participations.

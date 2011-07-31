@@ -1,82 +1,110 @@
 Article R214-12
 ----
-I.-Pour la réalisation de son objectif de gestion, un organisme de placement
-collectif en valeurs mobilières peut recevoir ou octroyer les garanties
-mentionnées à l'article L. 211-38, dans les conditions définies à ce même
-article ainsi que recevoir des cautions solidaires ou garanties à première
-demande.
+I.-Les instruments du marché monétaire mentionnés au 5° du I de l'article R.
+214-11 sont : 1° Emis ou garantis par :
 
-L'organisme de placement collectif en valeurs mobilières ne peut recevoir des
-garanties que si elles lui sont octroyées par un établissement ayant la qualité
-de dépositaire d'organisme de placement collectif en valeurs mobilières, un
-établissement de crédit dont le siège est établi dans un Etat membre de
-l'Organisation de coopération et de développement économique ou une entreprise
-d'investissement dont le siège est situé dans un Etat membre de la Communauté
-européenne ou partie à l'accord sur l'Espace économique européen et qui est
-habilitée à fournir le service mentionné au 1 de l'article L. 321-2 et dont le
-montant des fonds propres, au sens de la directive 2000 / 12 / CE du Parlement
-européen et du Conseil du 20 mars 2000 concernant l'accès à l'activité des
-établissements de crédit et son exercice est au moins égal à 3, 8 millions
-d'euros.
+a) Un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur
+l'Espace économique européen ou, pour l'un de ces Etats, dans le cas d'un Etat
+fédéral, un des membres composant la Fédération ;
 
-Lorsque les garanties octroyées par un organisme de placement collectif en
-valeurs mobilières sont des sûretés, l'acte constitutif de ces sûretés définit :
+b) Une collectivité régionale ou locale d'un Etat membre de l'Union européenne
+ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
 
-1° La nature des biens ou droits que le bénéficiaire des sûretés peut utiliser
-ou aliéner.A défaut de cette indication, le bénéficiaire ne peut utiliser ou
-aliéner que des dépôts, des liquidités ou des instruments financiers mentionnés
-au a, b, c, d ou f du 2° de l'article R. 214-1-1 ;
+c) La Banque centrale européenne ;
 
-2° Le montant maximal des biens ou droits que le bénéficiaire des sûretés peut
-utiliser ou aliéner. Ce montant maximal ne peut excéder 100 % de la créance du
-bénéficiaire sur l'organisme. Le règlement général de l'Autorité des marchés
-financiers précise les modalités de calcul de la créance du bénéficiaire sur
-l'organisme.
+d) La Banque centrale d'un Etat membre ou d'un autre Etat partie ;
 
-Les modalités d'évaluation des biens ou droits remis en garantie par un
-organisme de placement collectif en valeurs mobilières sont définies dans l'acte
-constitutif des garanties ou dans un contrat annexe conclu entre les parties.A
-défaut d'avoir prévu ces modalités d'évaluation, la réalisation des garanties ne
-peut concerner que des dépôts, des liquidités ou des instruments financiers
-mentionnés au a, b, c, d ou f du 2° de l'article R. 214-1-1. Le règlement
-général de l'Autorité des marchés financiers précise les modalités d'évaluation
-des biens ou droits remis en garantie par l'organisme.
+e) L'Union européenne ;
 
-II.-Le risque de contrepartie sur un même cocontractant est le risque que
-celui-ci manque à une de ses obligations et amène de ce fait l'organisme de
-placement collectif en valeurs mobilières à subir une perte financière. Le
-risque de contrepartie sur un même cocontractant est égal à la valeur de marché
-des contrats diminuée des garanties constituées, le cas échéant, au profit de
-l'organisme.
+f) La Banque européenne d'investissement ;
 
-L'exposition de l'organisme au risque de contrepartie sur un même cocontractant
-résultant des contrats mentionnés aux articles R. 214-13 à R. 214-16 est limitée
-à 10 % de son actif.
+g) Ou un organisme public international dont font partie un ou plusieurs Etats
+membres ou autres Etats parties ;
 
-Lorsque les garanties sont effectuées sous la forme de dépôts, les 2°, 3° et 4°
-de l'article R. 214-3 ne s'appliquent pas dans la limite des besoins de
-couverture du risque de contrepartie.
+2° Emis par une entreprise dont des titres sont négociés sur les marchés
+mentionnés aux 1° à 3° du I de l'article R. 214-11 ;
 
-III.-L'engagement d'un organisme de placement collectif en valeurs mobilières
-sur les instruments financiers à terme est constitué par le montant le plus
-élevé entre la perte potentielle de l'organisme évaluée à tout moment et le
-produit de l'effet de levier que ces instruments procurent à l'organisme par la
-valeur de l'actif de l'organisme.
+3° Emis ou garantis par un établissement soumis à une surveillance prudentielle
+dont le siège est situé dans un Etat membre de l'Union européenne ou par un
+établissement qui satisfait à l'un des critères suivants :
 
-Les modalités de calcul de l'engagement sont définies par le règlement général
-de l'Autorité des marchés financiers.
+a) Il est situé dans l'Espace économique européen ;
 
-IV.-Un organisme de placement collectif en valeurs mobilières ne peut recourir
-aux techniques et instruments afférents aux actifs mentionnés aux a, b, d et f
-du 2° de l'article R. 214-1-1, et notamment à des opérations de pension, à des
-opérations assimilées d'acquisition ou de cession temporaire de titres, que
-lorsque ces techniques et instruments satisfont aux conditions suivantes :
+b) Il est situé dans un pays figurant sur une liste fixée par arrêté du ministre
+chargé de l'économie ;
 
-1° Leur mise en oeuvre répond à un intérêt économique pour l'organisme de
-placement collectif en valeurs mobilières ;
+c) Il bénéficie d'une évaluation externe d'une agence mentionnée à l'article L.
+544-4, répondant à des conditions fixées par ce même arrêté ;
 
-2° Ils ont pour objectif soit la réduction des risques ou des coûts, soit
-l'augmentation de la valeur d'inventaire net ou des revenus, soit la réalisation
-de l'objectif de gestion de l'organisme de placement collectif en valeurs
-mobilières, avec un niveau de risque compatible avec son profil de risque ainsi
-qu'avec le respect du sixième alinéa de l'article L. 214-4.
+d) Il est soumis et se conforme à des règles prudentielles au moins aussi
+strictes que celles prévues pour les établissements relevant du présent 3° et
+dont le siège est situé dans un Etat membre de l'Union européenne ;
+
+4° Emis par une autre entité soumise à des règles de protection des
+investisseurs équivalentes à celles prévues aux 1° à 3° du présent I et ayant le
+statut soit d'une société dont le capital augmenté des réserves s'élève au moins
+à 10 millions d'euros et présentant ses comptes annuels conformément à la
+directive 78/660/ CEE du Conseil du 25 juillet 1978 concernant les comptes
+annuels de certaines formes de sociétés, transposée par les articles L. 123-12 à
+L. 123-24 du code de commerce, soit d'une entité se consacrant au financement
+d'un groupe au sens de la directive 83/349/ CEE du Conseil du 13 juin 1983
+concernant les comptes consolidés, comportant au moins une société dont les
+titres sont admis aux négociations sur un marché réglementé au sens de l'article
+R. 214-11, soit d'une entité de titrisation bénéficiant d'une ligne de
+financement bancaire octroyée par un établissement mentionné au présent 3°.
+
+II.-Les instruments du marché monétaire mentionnés au 5° du I de l'article R.
+214-11 satisfont aux critères suivants :
+
+1° Ils remplissent l'une des conditions prévues au 1° de l'article R. 214-10 et
+les critères énoncés au 2° et au 3° de ce même article ;
+
+2° Des informations appropriées les concernant sont disponibles, y compris des
+informations permettant d'évaluer correctement les risques de crédit liés à un
+placement dans ces instruments, compte tenu des III, IV et V du présent article
+;
+
+3° Ils sont librement négociables.
+
+III.-Pour les instruments du marché monétaire qui relèvent du 2° et du 4° du I
+du présent article ou pour ceux émis par les collectivités régionales ou locales
+mentionnées au b du 1° du I ou par un organisme public international sans être
+garantis par un Etat ou par un des membres d'un Etat fédéral mentionnés au a du
+1° du I, les informations appropriées, qui doivent permettre d'apprécier
+correctement le risque de crédit lié à l'instrument, comprennent les
+informations suivantes :
+
+1° Des informations concernant tant l'émission ou le programme d'émission que la
+situation juridique et financière de l'émetteur avant l'émission de l'instrument
+du marché monétaire ;
+
+2° Les informations mentionnées au 1°, actualisées régulièrement et chaque fois
+qu'un événement notable se produit et vérifiées par des tiers qualifiés qui ne
+reçoivent pas d'instructions de l'émetteur ;
+
+3° Des statistiques disponibles et fiables sur l'émission ou le programme
+d'émission.
+
+IV.-Pour les instruments du marché monétaire qui relèvent du 3° du I du présent
+article, les informations appropriées qui doivent permettre d'apprécier
+correctement le risque de crédit lié à l'instrument, comprennent les
+informations suivantes :
+
+1° Des informations concernant l'émission ou le programme d'émission ou
+concernant la situation juridique et financière de l'émetteur avant l'émission
+de l'instrument du marché monétaire ;
+
+2° Les informations mentionnées au 1°, actualisées régulièrement et chaque fois
+qu'un événement notable se produit ;
+
+3° Des statistiques disponibles et fiables sur l'émission ou le programme
+d'émission ou d'autres données permettant d'évaluer correctement les risques de
+crédit liés à un placement dans ces instruments.
+
+V.-Pour les instruments du marché monétaire qui relèvent du 1° du I, à
+l'exception de ceux qui relèvent du III et de ceux émis par la Banque centrale
+européenne ou par une banque centrale mentionnée au d du 1° du I, les
+informations appropriées qui doivent permettre d'apprécier correctement le
+risque de crédit lié à l'instrument comprennent les informations concernant
+l'émission ou le programme d'émission ou concernant la situation juridique et
+financière de l'émetteur avant l'émission de l'instrument du marché monétaire.

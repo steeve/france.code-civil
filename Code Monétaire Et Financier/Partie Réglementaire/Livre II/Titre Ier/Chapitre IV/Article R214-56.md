@@ -1,20 +1,18 @@
 Article R214-56
 ----
-L'actif des fonds communs de placement d'entreprise régis par les articles L.
-214-39 et L. 214-40 peut comprendre des parts de sociétés anonymes à
-responsabilité limitée émises par les entreprises régies par la loi n° 47-1775
-du 10 septembre 1947 portant statut de la coopération lorsque ces fonds sont
-souscrits par les salariés desdites entreprises ou par les salariés
-d'entreprises qui lui sont liées au sens du second alinéa de l'article L. 3344-1
-et de l'article L. 3344-2 du code du travail.
-
-Le règlement des fonds communs de placement d'entreprise peut prévoir qu'ils
-peuvent investir dans la limite de 10 % dans les actifs mentionnés à l'article
-R. 214-5 du présent code, à l'exception de ceux de ces fonds qui sont constitués
-en vue de gérer des titres émis par l'entreprise ou par toute autre société qui
-lui est liée au sens du second alinéa des articles L. 3344-1 et L. 3344-2 du
-code du travail et qui ne sont pas admis aux négociations sur un marché
-réglementé tel que défini à l'article L. 421-3 du présent code. Cette limite est
-portée à 30 % pour les actions ou parts d'organismes de placement collectif en
-valeurs mobilières régis par les sous-sections 10 et 12 de la présente section,
-conformément à l'article L. 3332-17 du code du travail.
+La société de gestion ne peut, pour le compte d'un fonds, procéder, pour ses
+éléments d'actifs qui ne sont pas négociés sur un marché d'instruments
+financiers au sens de l'article R. 214-11, à d'autres opérations que celles
+d'achat ou de vente à terme ou au comptant dans les limites fixées par la
+présente sous-section ni procéder pour ces mêmes éléments d'actifs à des
+cessions ou acquisitions à une entreprise qui lui est liée de titres en capital
+ou de créances détenus depuis plus de douze mois. Est présumée entreprise liée
+toute entreprise contrôlée par la société de gestion de manière exclusive ou
+conjointe au sens de l'article L. 233-16 du code de commerce, toute entreprise
+contrôlant la société de gestion de manière exclusive ou conjointe au sens de ce
+même article L. 233-16, toute entreprise filiale de la même société mère ainsi
+que toute entreprise avec laquelle la société de gestion a des mandataires
+sociaux ou des dirigeants communs et qui exercent des fonctions de gestion de
+participations pour le compte de l'entreprise, ou de gestion au sens du 4 de
+l'article L. 321-1 et de l'article L. 214-8-1, ou de conseil au sens du 4 de
+l'article L. 321-2.

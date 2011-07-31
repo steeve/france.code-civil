@@ -21,13 +21,13 @@ mobilières qui sont investis et exposés à plus de 90 % de leur actif sur :
 
 a) Les titres mentionnés aux 1° et 2° ;
 
-b) Les titres de créances négociables satisfaisant aux conditions du I ou du II
-de l'article R. 214-2 du code monétaire et financier et dont la rémunération ne
-dépend pas, directement ou indirectement, de la valeur d'un ou plusieurs
-instruments financiers à terme ;
+b) Les instruments du marché monétaire mentionnés au b du I de l'article L.
+214-20 du code monétaire et financier et dont la rémunération ne dépend pas,
+directement ou indirectement, de la valeur d'un ou plusieurs instruments
+financiers à terme ;
 
-c) Les dépôts ou liquidités satisfaisant respectivement aux conditions
-mentionnées aux articles R. 214-3 et R. 214-4 du code monétaire et financier ;
+c) Les dépôts ou liquidités mentionnés aux d et f du I de l'article L. 214-20 du
+code monétaire et financier ;
 
 4° Les versements à venir de l'Etat, mentionnés à la dernière phrase du
 troisième alinéa du IV de l'article L. 313-20 du code de la construction et de

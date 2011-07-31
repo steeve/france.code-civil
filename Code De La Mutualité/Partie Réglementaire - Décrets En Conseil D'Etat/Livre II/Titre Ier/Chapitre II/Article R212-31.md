@@ -11,11 +11,11 @@ A.-Valeurs mobilières et titres assimilés :
 1° Obligations et autres valeurs émises ou garanties par l'un des Etats membres
 de l'Organisation de coopération et de développement économique (OCDE) ainsi que
 les titres émis par la caisse d'amortissement de la dette sociale instituée par
-l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 ; obligations émises
-ou garanties par un organisme international à caractère public dont un ou
-plusieurs Etats membres de la Communauté européenne font partie ; obligations
-émises ou garanties par les collectivités publiques territoriales d'un Etat
-membre de l'OCDE ;
+l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996; obligations émises ou
+garanties par un organisme international à caractère public dont un ou plusieurs
+Etats membres de la Communauté européenne font partie ; obligations émises ou
+garanties par les collectivités publiques territoriales d'un Etat membre de
+l'OCDE ;
 
 2° Obligations, titres participatifs et parts ou actions émises par des
 véhicules de titrisation négociés sur un marché reconnu, autres que celles ou
@@ -54,26 +54,26 @@ sécurité sociale, ayant leur siège social sur le territoire de l'un des Etats
 membres de l'OCDE, autres que les valeurs visées aux 2°, 3°, 4°, 5°, 6°, 7°, 8°,
 10° bis, 12° et 14° ;
 
-10° Parts des fonds communs de placement à risques de l'article L. 214-36 du
+10° Parts des fonds communs de placement à risques de l'article L. 214-28 du
 code monétaire et financier, parts des fonds communs de placement dans
-l'innovation de l'article L. 214-41 du même code et parts des fonds
-d'investissement de proximité de l'article L. 214-41-1 du même code ;
+l'innovation de l'article L. 214-30 du même code et parts des fonds
+d'investissement de proximité de l'article L. 214-31 du même code ;
 
 10° bis Actions des sociétés d'investissement à capital variable et parts de
-fonds communs de placement des articles L. 214-37 et L. 214-38 du code monétaire
-et financier, actions ou parts d'organisme de placement collectif en valeurs
-mobilières relevant de l'article L. 214-35-2 du code monétaire et financier,
-actions ou parts d'organismes de placement collectif en valeurs mobilières
-relevant de l'article L. 214-35 du code monétaire et financier dans sa rédaction
-antérieure au 2 août 2003 ;
+fonds communs de placement des articles L. 214-38 et L. 214-38-1 du code
+monétaire et financier, actions ou parts d'organisme de placement collectif en
+valeurs mobilières relevant de l'article L. 214-36 du code monétaire et
+financier, actions ou parts d'organismes de placement collectif en valeurs
+mobilières relevant de l'article L. 214-35 du code monétaire et financier dans
+sa rédaction antérieure au 2 août 2003 ;
 
-10° ter Parts ou actions d'organismes de placement collectif en levier
-mentionnés au R. 214-29 ou d'organismes de placement collectif en valeurs
-mobilières à règles d'investissement allégées à effet de levier mentionnés au R.
-214-32 ;
+10° ter Parts ou actions d'organismes de placement collectif en valeurs
+mobilières à règles d'investissement allégées mentionnés à l'article R. 214-83
+du code monétaire et financier ;
 
 11° Parts ou actions d'organismes de placement collectifs en valeur mobilières
-de fonds alternatifs mentionnés au R. 214-36 ;
+de fonds alternatifs mentionnés à l'article R. 214-86 du code monétaire et
+financier ;
 
 12° Actions des sociétés d'investissement à capital variable et parts des fonds
 communs de placement, autres que celles mentionnées aux 5°, 10°, 10° bis, 10°

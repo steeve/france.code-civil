@@ -9,13 +9,13 @@ d'assurance représentent les engagements réglementés mentionnés à l'article
 A.-Valeurs mobilières et titres assimilés :
 
 1° Obligations et autres valeurs émises ou garanties par l'un des Etats membres
-de l'Organisation de coopération et de développement économique (O.C.D.E.) ainsi
-que les titres émis par la Caisse d'amortissement de la dette sociale instituée
-par l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 ; obligations
-émises ou garanties par un organisme international à caractère public dont un ou
-plusieurs Etats membres de la Communauté européenne font partie ; obligations
-émises ou garanties par les collectivités publiques territoriales d'un Etat
-membre de l'O.C.D.E. ;
+de l'Organisation de coopération et de développement économique (O. C. D. E.)
+ainsi que les titres émis par la Caisse d'amortissement de la dette sociale
+instituée par l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 ;
+obligations émises ou garanties par un organisme international à caractère
+public dont un ou plusieurs Etats membres de la Communauté européenne font
+partie ; obligations émises ou garanties par les collectivités publiques
+territoriales d'un Etat membre de l'O. C. D. E. ;
 
 2° Obligations, titres participatifs et parts ou actions émises par des
 véhicules de titrisation négociés sur un marché reconnu, autres que celles ou
@@ -41,8 +41,8 @@ conditions fixées par l'article R. 931-10-35 ;
 que celles mentionnées aux 4°, 6°, 7°, 10° et 12° ;
 
 6° Actions des entreprises d'assurance, de réassurance ou de capitalisation
-ayant leur siège social sur le territoire de l'un des Etats membres de
-l'O.C.D.E. ;
+ayant leur siège social sur le territoire de l'un des Etats membres de l'O. C.
+D. E. ;
 
 7° Actions des entreprises d'assurance, de réassurance ou de capitalisation
 autres que celles mentionnées au 6° ;
@@ -55,25 +55,26 @@ mutualité, ayant leur siège social sur le territoire de l'un des Etats membres
 de l'OCDE, autres que les valeurs visées aux 2°, 3°, 3° bis, 4°, 5°, 6°, 7°, 9°
 bis, 10° et 12° ;
 
-9° Parts des fonds communs de placement à risques de l'article L. 214-36 du code
+9° Parts des fonds communs de placement à risques de l'article L. 214-28 du code
 monétaire et financier, parts des fonds communs de placement dans l'innovation
-de l'article L. 214-41 du même code et parts des fonds d'investissement de
-proximité de l'article L. 214-41-1 du même code ;
+de l'article L. 214-30 du même code et parts des fonds d'investissement de
+proximité de l'article L. 214-31 du même code ;
 
 9° bis Actions des sociétés d'investissement à capital variable et parts de
-fonds communs de placement des articles L. 214-37 et L. 214-38 du code monétaire
-et financier, actions ou parts d'organisme de placement collectif en valeurs
-mobilières relevant de l'article L. 214-35-2 du code monétaire et financier,
-actions ou parts d'organismes de placement collectif en valeurs mobilières
-relevant de l'article L. 214-35 du code monétaire et financier dans sa rédaction
-antérieure au 2 août 2003 ;
+fonds communs de placement des articles L. 214-38 et L. 214-38-1 du code
+monétaire et financier, actions ou parts d'organisme de placement collectif en
+valeurs mobilières relevant de l'article L. 214-36 du code monétaire et
+financier, actions ou parts d'organismes de placement collectif en valeurs
+mobilières relevant de l'article L. 214-35 du code monétaire et financier dans
+sa rédaction antérieure au 2 août 2003 ;
 
-9° ter Parts ou actions d'organismes de placement collectif en levier mentionnés
-au R. 214-29 ou d'organismes de placement collectif en valeurs mobilières à
-règles d'investissement allégées à effet de levier mentionnés au R. 214-32 ;
+9° ter Parts ou actions d'organismes de placement collectif en valeurs
+mobilières à règles d'investissement allégées mentionnés à l'article R. 214-83
+du code monétaire et financier ;
 
 9° quater Parts ou actions d'organismes de placement collectif en valeur
-mobilières de fonds alternatifs mentionnés au R. 214-36 ;
+mobilières de fonds alternatifs mentionnés à l'article R. 214-86 du code
+monétaire et financier ;
 
 10° Actions des sociétés d'investissement à capital variable et parts des fonds
 communs de placement, autres que celles mentionnées aux 4° et 9° à 9° quater,
@@ -90,12 +91,12 @@ déclaration et de transparence.
 B.-Actifs immobiliers :
 
 11° Droits réels immobiliers afférents à des immeubles situés sur le territoire
-de l'un des Etats membres de l'O.C.D.E. ;
+de l'un des Etats membres de l'O. C. D. E. ;
 
 12° Parts ou actions des sociétés à objet strictement immobilier, parts des
 sociétés civiles à objet strictement foncier, ayant leur siège social sur le
-territoire de l'un des Etats membres de l'O.C.D.E., dans les conditions fixées
-par l'article R. 931-10-36 ;
+territoire de l'un des Etats membres de l'O. C. D. E., dans les conditions
+fixées par l'article R. 931-10-36 ;
 
 12° bis Parts ou actions d'organismes de placement collectif immobilier relevant
 de la section 5 du chapitre IV du titre Ier du livre II du code monétaire et
@@ -117,17 +118,17 @@ même code.
 
 C.-Prêts et dépôts :
 
-13° Prêts obtenus ou garantis par les Etats membres de l'O.C.D.E., par les
+13° Prêts obtenus ou garantis par les Etats membres de l'O. C. D. E., par les
 collectivités publiques territoriales et les établissements publics des Etats
-membres de l'O.C.D.E. ;
+membres de l'O. C. D. E. ;
 
 14° Prêts hypothécaires aux personnes physiques ou morales ayant leur domicile
-ou leur siège social sur le territoire de l'un des Etats membres de l'O.C.D.E.,
-dans les conditions fixées par l'article R. 931-10-33 ;
+ou leur siège social sur le territoire de l'un des Etats membres de l'O. C. D.
+E., dans les conditions fixées par l'article R. 931-10-33 ;
 
 15° Autres prêts ou créances représentatives de prêts consentis aux personnes
 physiques ou morales ayant leur domicile ou leur siège social sur le territoire
-de l'un des Etats membres de l'O.C.D.E., dans les conditions fixées par
+de l'un des Etats membres de l'O. C. D. E., dans les conditions fixées par
 l'article R. 931-10-34 ;
 
 16° Dépôts, dans les conditions fixées par l'article R. 931-10-37.

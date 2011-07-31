@@ -1,6 +1,6 @@
 Article 171 AW
 ----
-I. - La société de gestion du fonds commun de placement à risques adresse, dans
+I.-La société de gestion du fonds commun de placement à risques adresse, dans
 les quatre mois qui suivent la clôture de l'exercice du fonds, la déclaration
 prévue au I de l'article 242 quinquies du code général des impôts, établie sur
 papier libre, qui mentionne pour chaque investissement retenu pour le calcul du
@@ -17,10 +17,10 @@ sur l'Espace économique européen dont le fonctionnement est assuré par une
 entreprise de marché ou un prestataire de services d'investissement ;
 
 4° Le montant et la nature des investissements retenus pour le calcul du quota
-de 50 % précité et pour la limite de 20 % prévue au 3 de l'article L. 214-36 du
-code monétaire et financier.
+de 50 % précité et pour la limite de 20 % prévue au III de l'article L. 214-28
+du code monétaire et financier.
 
-II. - Lorsque le fonds commun de placement à risques investit dans des sociétés
+II.-Lorsque le fonds commun de placement à risques investit dans des sociétés
 mentionnées au premier alinéa du 1° quater du II de l'article 163 quinquies B du
 code général des impôts ou dans des entités mentionnées au l° quinquies du même
 II, la société de gestion joint en outre à la déclaration mentionnée au I :
@@ -30,7 +30,7 @@ investissement dans des sociétés mentionnées au premier alinéa du 1° quater
 II de l'article 163 quinquies B susmentionné, les éléments permettant
 d'apprécier le montant des titres de la société retenu pour l'appréciation du
 quota d'investissement de 50 % prévu au 1° du II du même article 163 quinquies B
-et pour le calcul de la limite de 20 % prévue au 3 de l'article L. 214-36 du
+et pour le calcul de la limite de 20 % prévue au III de l'article L. 214-28 du
 code monétaire et financier. Cet état indique notamment la dénomination sociale
 des sociétés dont les titres sont éligibles au quota de 50 %, l'adresse de leur
 siège social et de leur siège de direction effective si elle est différente, la
@@ -45,5 +45,5 @@ quinquies du II de l'article 163 quinquies B du code général des impôts, les
 éléments permettant d'apprécier le montant des droits représentatifs du
 placement financier du fonds dans l'entité retenu dans le quota d'investissement
 de 50 % prévu au 1° du II du même article 163 quinquies B et pour le calcul de
-la limite de 20 % prévue au 3 de l'article L. 214-36 du code monétaire et
+la limite de 20 % prévue au III de l'article L. 214-28 du code monétaire et
 financier.

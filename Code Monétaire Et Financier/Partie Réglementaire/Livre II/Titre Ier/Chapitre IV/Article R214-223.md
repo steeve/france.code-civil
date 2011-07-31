@@ -9,5 +9,4 @@ action de la société. Ce document est mis à la disposition du public.
 
 II.-A des fins de couverture ou pour réaliser son objectif de gestion, la SICAF
 peut conclure des contrats financiers mentionnés au III de l'article L. 211-1,
-dans les conditions identiques à celles prévues au 2° du I de l'article R.
-214-13.
+dans les conditions identiques à celles prévues à l'article R. 214-15 .

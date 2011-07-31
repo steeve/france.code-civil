@@ -1,46 +1,36 @@
 Article R214-50
 ----
-Pour les fonds relevant de l'article L. 214-37 :
+Pour l'appréciation des limites fixées aux articles R. 214-48 et R. 214-49 :
 
-1° Les dispositions prévues aux sixième et huitième alinéas de l'article L.
-214-4 et aux articles R. 214-39, R. 214-42 et R. 214-46 ne sont pas opposables.
-Toutefois, les fonds doivent respecter les règles suivantes :
+1° Lorsque les titres détenus par le fonds ne sont pas admis aux négociations
+sur un marché d'instruments financiers au sens du I de l'article L. 214-28, ils
+sont retenus pour leur valeur d'acquisition ou de souscription ;
 
-a) L'actif du fonds ne peut être employé qu'à 50 % au plus en titres ou droits
-d'un même organisme de placement collectif en valeurs mobilières ou d'une même
-entité mentionnée au b du 2 de l'article L. 214-36 ;
+2° Lorsque des titres détenus par le fonds font l'objet d'un échange avec des
+titres non admis aux négociations sur un marché d'instruments financiers au sens
+du I de l'article L. 214-28, les titres reçus à l'échange par le fonds sont pris
+en compte à l'actif pour le prix de souscription ou d'acquisition des titres
+remis à l'échange ;
 
-b) Le fonds ne peut détenir plus de 10 % des actions ou parts d'un organisme de
-placement collectif en valeurs mobilières ne relevant pas du b du 2 de l'article
-L. 214-36.
+3° Lorsque des titres détenus par le fonds sont admis aux négociations sur un
+marché d'instruments financiers au sens du I de l'article L. 214-28 ou
+lorsqu'ils font l'objet d'un échange avec des titres admis aux négociations sur
+un marché d'instruments financiers au sens du I de l'article L. 214-28, les
+titres détenus ou remis à l'échange par le fonds sont réputés maintenus à
+l'actif pour leur prix de souscription ou d'acquisition pendant douze mois à
+compter de la date d'admission ou d'échange ou jusqu'à la fin de la période
+pendant laquelle la société de gestion s'est engagée, le cas échéant, à
+conserver les titres dans l'actif du fonds si sa durée est supérieure à douze
+mois. A l'issue de cette période, le ratio prévu au 1° du II de l'article R.
+214-48 est porté à 20 % et s'apprécie par rapport aux titres détenus ou reçus à
+l'échange comme tout autre titre admis aux négociations sur un marché
+d'instruments financiers au sens du I de l'article L. 214-28 ;
 
-2° Par dérogation au deuxième alinéa du II et au deuxième alinéa du III de
-l'article R. 214-47, à la dissolution du fonds, le rachat des parts peut
-s'effectuer en titres des sociétés dans lesquelles le fonds détient une
-participation dès lors que le règlement du fonds le prévoit.
+4° Lorsque les titres ou droits détenus par le fonds sont émis par une entité
+mentionnée au 2° du II de l'article L. 214-28, l'engagement contractuel de
+souscription ou d'acquisition pris par le fonds est inscrit pour son montant au
+numérateur ;
 
-Le quatrième alinéa du II de l'article R. 214-47 n'est pas applicable.
-
-3° La société de gestion peut conclure avec des tiers des conventions relatives
-à la gestion des participations du fonds et comportant des engagements
-contractuels autres que de livraison, lorsque les conditions suivantes sont
-remplies :
-
-a) Le montant des engagements correspondants doit être déterminable ;
-
-b) La société de gestion ne peut conclure des conventions par l'effet desquelles
-l'actif du fonds serait gagé à plus de 50 % que si le règlement du fonds le
-prévoit. Dans ce dernier cas, les risques et charges résultant de l'exécution
-normale de ces engagements, tels qu'ils sont estimés dans l'évaluation
-financière à laquelle il est procédé par la société de gestion, ne doivent
-excéder à aucun moment le montant de l'actif net du fonds. Toutefois, pour les
-fonds qui investissent dans des entités mentionnées au b du 2 de l'article L.
-214-36, les risques et charges résultant de leurs engagements dans ces entités
-ne doivent pas excéder le montant des engagements de souscription reçus par le
-fonds.
-
-La société de gestion doit tenir à la disposition des porteurs de parts une
-liste de ces engagements indiquant leur nature et leur montant estimé.
-
-4° Les limites fixées au 1° doivent être respectées à l'expiration d'un délai de
-deux ans à compter de la création du fonds.
+5° Est inscrit au dénominateur le plus élevé des deux montants suivants :
+l'actif net du fonds ou le montant total des engagements contractuels de
+souscription ou d'acquisition reçus par le fonds.
