@@ -42,7 +42,8 @@ ces périodes ne sont prises en compte que dans les conditions et limites
 suivantes :
 
 -la première période de chômage non indemnisé, qu'elle soit continue ou non, est
-prise en compte dans la limite d'un an ;
+prise en compte dans la limite d'un an et demi, sans que plus de six trimestres
+d'assurance puissent être comptés à ce titre ;
 
 -chaque période ultérieure de chômage non indemnisé est prise en compte à
 condition qu'elle succède sans solution de continuité à une période de chômage
