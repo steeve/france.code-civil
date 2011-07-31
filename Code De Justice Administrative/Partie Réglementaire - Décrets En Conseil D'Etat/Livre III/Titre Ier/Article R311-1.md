@@ -18,29 +18,31 @@ nominations aux emplois civils et militaires de l'Etat ;
 4° Des recours dirigés contre les décisions prises par les organes des autorités
 suivantes, au titre de leur mission de contrôle ou de régulation :
 
-- l'Agence française de lutte contre le dopage ;
+-l'Agence française de lutte contre le dopage ;
 
-- L'Autorité de contrôle prudentiel ;
+-L'Autorité de contrôle prudentiel ;
 
-- l'Autorité de la concurrence ;
+-l'Autorité de la concurrence ;
 
-- l'Autorité des marchés financiers ;
+-l'Autorité des marchés financiers ;
 
-- l'Autorité de régulation des communications électroniques et des postes ;
+-l'Autorité de régulation des communications électroniques et des postes ;
 
-- l'Autorité de régulation des jeux en ligne ;
+-l'Autorité de régulation des jeux en ligne ;
 
-- l'Autorité de régulation des transports ferroviaires ;
+-l'Autorité de régulation des transports ferroviaires ;
 
-- l'Autorité de sûreté nucléaire ;
+-l'Autorité de sûreté nucléaire ;
 
-- la Commission de régulation de l'énergie ;
+-la Commission de régulation de l'énergie ;
 
-- le Conseil supérieur de l'audiovisuel ;
+-le Conseil supérieur de l'audiovisuel ;
 
-- la Commission nationale de l'informatique et des libertés ;
+-la Commission nationale de l'informatique et des libertés ;
 
-- la Commission nationale de contrôle des interceptions de sécurité ;
+-la Commission nationale de contrôle des interceptions de sécurité ;
+
+-la commission nationale d'aménagement commercial ;
 
 5° Des actions en responsabilité dirigées contre l'Etat pour durée excessive de
 la procédure devant la juridiction administrative ;
