@@ -19,7 +19,16 @@ hospitalières ou de santé publique ;
 3° En matière de prévention, d'aide et de soutien en faveur des personnes
 malades et des usagers du système de santé.
 
+Les associations assurant à titre principal la défense des personnes malades et
+des usagers du système de santé victimes d'une affection ou d'un effet
+indésirable d'un produit de santé sont dispensées de justifier de trois années
+d'ancienneté si l'existence, la gravité ou l'ampleur de cette affection ou de
+cet effet indésirable n'ont été connues que dans les trois années précédant la
+demande d'agrément.
+
 Les unions d'associations sont dispensées de justifier de trois années
 d'ancienneté et d'une activité effective et publique en vue de la défense des
 droits des personnes malades et des usagers du système de santé si les
-associations qui les composent remplissent ces conditions.
+associations qui les composent remplissent ces conditions ou, en ce qui concerne
+la condition d'ancienneté, si elles ont elles-mêmes été dispensées de la remplir
+en application des dispositions de l'alinéa précédent.
