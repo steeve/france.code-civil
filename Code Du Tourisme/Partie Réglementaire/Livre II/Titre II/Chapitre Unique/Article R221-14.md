@@ -1,14 +1,12 @@
 Article R221-14
 ----
-La carte professionnelle de guide-conférencier des villes et pays d'art et
-d'histoire est délivrée dans les conditions suivantes :
+Le professionnel légalement établi dans un autre Etat membre de l'Union
+européenne ou partie à l'accord sur l'Espace économique européen qui se livre,
+de manière temporaire et occasionnelle, à l'exercice de la profession de
+guide-conférencier fait figurer la mention du titre professionnel qu'il détient
+dans l'Etat d'établissement ou de son titre de formation sur les documents
+destinés aux tiers, quel qu'en soit le support. Il indique ce titre aux
+personnes physiques ou morales mentionnées à l'article L. 221-1 qui utilisent
+ses services, ainsi qu'au responsable du musée ou monument historique visité.
 
-a) Aux personnes titulaires d'un diplôme national ou d'Etat sanctionnant un
-cycle de deux années d'études supérieures ayant réussi les épreuves d'un examen
-organisé par le préfet de région dans les conditions fixées par arrêté du
-ministre chargé de la culture ;
-
-b) Aux guides-interprètes régionaux ayant réussi l'examen de guide-conférencier
-des villes et pays d'art et d'histoire, pour lequel ils sont dispensés de
-certaines épreuves qui sont déterminées par un arrêté conjoint des ministres
-chargés de la culture et du tourisme.
+Le titre est mentionné dans la langue officielle de l'Etat d'établissement.

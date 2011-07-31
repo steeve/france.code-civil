@@ -1,5 +1,7 @@
 Article R221-11
 ----
-La carte professionnelle de guide-interprète national est délivrée aux personnes
-ayant obtenu le diplôme national de guide-interprète national, qui sanctionne
-une formation de trois ans après le baccalauréat.
+La carte professionnelle de guide-conférencier est délivrée aux personnes
+titulaires d'une certification précisée par arrêté des ministres respectivement
+chargés du tourisme, de la culture et de l'enseignement supérieur. Cette
+certification, inscrite au Répertoire national des certifications
+professionnelles (RNCP), sanctionne une formation au moins de niveau de licence.

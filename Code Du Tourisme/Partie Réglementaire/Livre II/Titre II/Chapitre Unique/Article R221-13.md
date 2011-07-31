@@ -1,20 +1,23 @@
 Article R221-13
 ----
-La carte professionnelle de guide-interprète régional est délivrée dans les
-conditions suivantes :
+Les personnes se prévalant de l'aptitude professionnelle acquise dans les
+conditions prévues par l'article R. 221-12 adressent leur demande de carte
+professionnelle au préfet du département du lieu de leur établissement pour
+celles résidant en France. Les personnes qui résident à l'étranger adressent
+leur demande au préfet de Paris. La demande est accompagnée de la preuve de la
+nationalité de l'intéressé, de la copie des attestations de la compétence
+professionnelle ou du titre de formation et, le cas échéant, de l'attestation de
+l'expérience professionnelle.
 
-a) Sur simple demande aux titulaires du brevet de technicien supérieur animation
-et gestion touristiques locales et du brevet de technicien supérieur "
-tourisme-loisirs ", option accueil-animation professionnels ;
+Le préfet informe le demandeur le cas échéant de tout document manquant, dans le
+délai d'un mois à compter de la réception de la demande. Il accuse réception du
+dossier de demande de carte professionnelle lorsque celui-ci est complet.
 
-b) Aux personnes titulaires d'un diplôme national ou d'Etat sanctionnant un
-cycle de deux années d'études supérieures et ayant réussi les épreuves d'un
-examen organisé par le préfet de région dans les conditions fixées par arrêté du
-ministre chargé du tourisme après avis de la Commission nationale des
-guides-interprètes et conférenciers. Cet arrêté fixe les modalités des épreuves
-et les règles de constitution du jury ;
+Il se prononce dans les quatre mois à compter de la date de réception du dossier
+complet de demande. Le silence gardé par le préfet pendant plus de quatre mois
+vaut octroi de la carte professionnelle.
 
-c) Aux guides-conférenciers des villes et pays d'art et d'histoire ayant réussi
-l'examen de guide-interprète régional, pour lequel ils sont dispensés de
-certaines épreuves qui sont déterminées par un arrêté conjoint des ministres
-chargés du tourisme et de la culture.
+Le programme et la composition des jurys mentionnés à l'article R. 221-4, les
+modalités d'organisation de l'épreuve d'aptitude et du stage d'adaptation et la
+composition du dossier mentionné à l'alinéa ci-dessus sont fixés par un arrêté
+des ministres chargés de la culture et du tourisme.
