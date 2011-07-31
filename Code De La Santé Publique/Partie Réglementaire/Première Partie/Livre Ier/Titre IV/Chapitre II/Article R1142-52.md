@@ -33,12 +33,12 @@ Sous réserve des dispositions de l'article R. 1142-46, il détermine les offres
 d'indemnisation proposées aux demandeurs ainsi que le montant des provisions à
 leur verser, et il décide, le cas échéant, des actions en justice liées aux
 indemnisations mentionnées aux articles L. 1142-15, L. 1142-17, L. 1142-21, L.
-1221-14, L. 3111-9, L. 3122-4 et L. 3131-4.
+1142-24-7, L. 1221-14, L. 3111-9, L. 3122-4 et L. 3131-4.
 
 Le directeur informe le conseil d'administration des modalités d'indemnisation,
 de l'état des procédures et du suivi des dossiers ainsi que des actions
 récursoires exercées en application des articles L. 1142-15, L. 1142-17, L.
-1142-21, L. 1221-14, L. 3111-9, L. 3122-4 et L. 3131-4.
+1142-21, L. 1142-24-7, L. 1221-14, L. 3111-9, L. 3122-4 et L. 3131-4.
 
 Le directeur informe chaque commission régionale ou interrégionale de
 conciliation et d'indemnisation des accidents médicaux, des affections
