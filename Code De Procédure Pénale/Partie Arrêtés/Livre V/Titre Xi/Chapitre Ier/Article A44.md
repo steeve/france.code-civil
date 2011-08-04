@@ -367,15 +367,17 @@ Périgueux.
 
 Antenne de Périgueux-Neuvic.
 
+MCirconscription judiciaire de Périgueux.
+
 Maison d'arrêt de Périgueux.
 
-(Arr. 17 sept. 2003, art. 5) Centre de détention de Neuvic-sur-l'Isle.
+Centre de détention de Neuvic-sur-l'Isle.
 
 Antenne de Bergerac-Mauzac.
 
 Circonscription judiciaire de Bergerac.
 
-(Arr. 17 sept. 2003, art. 5) Centre de détention de Mauzac.
+Centre de détention de Mauzac.
 
 Service pénitentiaire d'insertion et de probation du Doubs.
 
