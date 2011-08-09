@@ -8,6 +8,6 @@ titre d'étudiant hospitalier.
 A ce titre, ils ont la qualité d'agent public.
 
 Les étudiants en médecine, durant la deuxième partie du deuxième cycle des
-études médicales, effectuent un stage chez un ou plusieurs médecins généralistes
-agréés, selon des modalités prévues par arrêté des ministres chargés de la santé
-et de l'enseignement supérieur.
+études médicales, effectuent un stage chez un ou plusieurs praticiens
+agréés-maîtres de stage des universités, selon des modalités prévues par arrêté
+des ministres chargés de la santé et de l'enseignement supérieur.

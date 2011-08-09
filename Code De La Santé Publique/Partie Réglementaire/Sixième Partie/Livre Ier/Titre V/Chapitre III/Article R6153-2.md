@@ -4,10 +4,17 @@ Praticien en formation spécialisée, l'interne est un agent public. L'interne
 consacre la totalité de son temps à ses activités médicales, odontologiques ou
 pharmaceutiques et à sa formation.
 
-Ses obligations de service sont fixées à onze demi-journées par semaine dont
-deux consacrées à la formation universitaire qui peuvent être regroupées selon
-les nécessités de l'enseignement suivi et cumulées dans la limite de douze jours
-sur un semestre.
+Ses obligations de service sont fixées à onze demi-journées par semaine
+comprenant :
+
+- neuf demi-journées d'exercice effectif de fonctions dans la structure
+d'accueil sans que la durée de travail puisse excéder quarante-huit heures par
+période de sept jours, cette durée étant calculée en moyenne sur une période de
+quatre mois ;
+
+- et deux demi-journées par semaine consacrées à sa formation universitaire qui
+peuvent être regroupées selon les nécessités de l'enseignement suivi et cumulées
+dans la limite de douze jours sur un semestre
 
 L'interne participe au service de gardes et astreintes. Les gardes effectuées
 par l'interne au titre du service normal de garde sont comptabilisées dans ses
