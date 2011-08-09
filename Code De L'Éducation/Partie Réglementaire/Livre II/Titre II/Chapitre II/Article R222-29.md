@@ -1,11 +1,9 @@
 Article R222-29
 ----
 Le ministre chargé de l'éducation peut, par arrêté, déléguer aux recteurs
-d'académie le pouvoir d'approuver les règlements intérieurs des commissions
-administratives paritaires qui sont instituées auprès des inspecteurs
-d'académie, directeurs des services départementaux de l'éducation nationale, en
-application de l'article 2 du décret n° 82-451 du 28 mai 1982 relatif aux
-commissions administratives paritaires de la fonction publique de l'Etat, et les
-règlements intérieurs des comités techniques paritaires départementaux qui sont
-institués en application de l'article 4 du décret n° 82-452 du 28 mai 1982
-relatif aux comités techniques paritaires de la fonction publique de l'Etat.
+d'académie le pouvoir de fixer le nombre de sièges de membres titulaires et
+suppléants composant les commissions administratives paritaires des instituteurs
+et des professeurs des écoles pour chaque département de leur académie en
+application des articles 4 et 5 du décret n° 90-770 du 31 août 1990 relatif aux
+commissions administratives paritaires uniques communes aux corps des
+instituteurs et des professeurs des écoles.

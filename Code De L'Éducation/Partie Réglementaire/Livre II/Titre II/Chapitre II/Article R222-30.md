@@ -1,12 +1,12 @@
 Article R222-30
 ----
-Le ministre chargé de l'éducation peut, par arrêté, déléguer aux recteurs
-d'académie le pouvoir :
-
-1° D'établir la liste des organisations syndicales de fonctionnaires aptes à
-désigner des représentants au sein de chaque comité technique paritaire qui peut
-être créé dans le ressort territorial de chaque académie en application de
-l'article 4 du décret n° 82-452 du 28 mai 1982 cité à l'article R. 222-29 ;
-
-2° De fixer le nombre de sièges de titulaires et de suppléants attribués à
-chacune des organisations inscrites sur la liste mentionnée au 1° ci-dessus.
+Par dérogation à l'article 31 du décret n° 2011-184 du 15 février 2011 relatif
+aux comités techniques dans les administrations et les établissements publics de
+l'Etat, pour chaque comité technique spécial institué dans les départements
+d'une académie dont la composition est établie selon un scrutin de sigles ou
+selon les dispositions prévues aux troisième à sixième alinéas de l'article 14
+du décret du 15 février 2011 susmentionné, un arrêté du recteur d'académie fixe
+la liste des organisations syndicales habilitées à désigner des représentants
+ainsi que le nombre de sièges auxquels elles ont droit et impartit un délai pour
+la désignation qui ne peut être inférieur à quinze jours et supérieur à trente
+jours.
