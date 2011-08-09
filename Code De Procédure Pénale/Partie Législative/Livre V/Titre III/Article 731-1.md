@@ -9,6 +9,11 @@ conditions prévues aux articles L. 3711-1 et suivants du code de la santé
 publique s'il est établi, après l'expertise prévue à l'article 712-21 du présent
 code, qu'elle est susceptible de faire l'objet d'un traitement.
 
-Cette personne peut alors être également placée sous surveillance électronique
-mobile dans les conditions et selon les modalités prévues par les articles
-763-10 à 763-14.
+La personne condamnée à une peine d'au moins sept ans d'emprisonnement pour une
+infraction pour laquelle le suivi socio-judiciaire est encouru peut être placée
+sous surveillance électronique mobile selon les modalités prévues aux articles
+763-12 et 763-13. Le tribunal de l'application des peines ou le juge de
+l'application des peines, suivant les distinctions des articles 730 et 730-2,
+détermine la durée pendant laquelle le condamné sera effectivement placé sous
+surveillance électronique mobile. Cette durée ne peut excéder deux ans,
+renouvelable une fois en matière délictuelle et deux fois en matière criminelle.

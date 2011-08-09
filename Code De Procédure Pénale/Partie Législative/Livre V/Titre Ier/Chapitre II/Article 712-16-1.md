@@ -16,3 +16,6 @@ peuvent, avant toute décision, informer la victime ou la partie civile,
 directement ou par l'intermédiaire de son avocat, qu'elle peut présenter ses
 observations par écrit dans un délai de quinze jours à compter de la
 notification de cette information.
+
+Ces observations peuvent être adressées à la juridiction par la victime ou la
+partie civile par tout moyen à leur convenance.

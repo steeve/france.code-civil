@@ -24,7 +24,9 @@ domicile ou auprès de tout autre service désigné par la préfecture. Si la
 dangerosité de la personne le justifie, la juridiction de jugement ou, selon les
 modalités prévues par l'article 712-6, le juge de l'application des peines peut
 ordonner que cette présentation interviendra tous les mois. Cette décision est
-obligatoire si la personne est en état de récidive légale.
+obligatoire si la personne est en état de récidive légale. Le présent alinéa
+n'est applicable aux mineurs de treize à dix-huit ans qu'en cas de condamnation
+pour un crime puni d'au moins vingt ans de réclusion.
 
 Les obligations de justification et de présentation prévues par le présent
 article cessent de s'appliquer pendant le temps où la personne est incarcérée.

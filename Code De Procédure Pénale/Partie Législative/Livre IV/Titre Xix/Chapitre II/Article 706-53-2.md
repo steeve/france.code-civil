@@ -33,8 +33,20 @@ Le fichier comprend aussi les informations relatives à la décision judiciaire
 ayant justifié l'inscription et la nature de l'infraction. Les décisions
 mentionnées aux 1° et 2° sont enregistrées dès leur prononcé.
 
-Les décisions concernant des délits prévus par l'article 706-47 et punis d'une
-peine d'emprisonnement d'une durée inférieure ou égale à cinq ans ne sont pas
-inscrites dans le fichier, sauf si cette inscription est ordonnée par décision
-expresse de la juridiction ou, dans les cas prévus par les 3° et 4°, du
+Les décisions concernant les délits prévus à l'article 706-47 et punis d'une
+peine d'emprisonnement égale à cinq ans sont inscrites dans le fichier, sauf
+décision contraire spécialement motivée de la juridiction ou, dans les cas
+prévus aux 3° et 4° du présent article, du procureur de la République.
+
+Les décisions concernant les délits prévus au même article 706-47 et punis d'une
+peine d'emprisonnement inférieure à cinq ans ne sont pas inscrites dans le
+fichier, sauf si cette inscription est ordonnée par décision expresse de la
+juridiction ou, dans les cas prévus aux 3° et 4° du présent article, du
 procureur de la République.
+
+Les décisions concernant des mineurs de moins de treize ans ne sont pas
+inscrites dans le fichier. Les décisions concernant des mineurs de treize à
+dix-huit ans, lorsqu'elles sont relatives à des délits prévus au même article
+706-47, ne sont pas inscrites dans le fichier, sauf si cette inscription est
+ordonnée par décision expresse de la juridiction ou, dans les cas prévus aux 3°
+et 4° du présent article, du procureur de la République.
