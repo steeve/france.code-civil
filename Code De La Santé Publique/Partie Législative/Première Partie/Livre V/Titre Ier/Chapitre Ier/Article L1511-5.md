@@ -1,7 +1,7 @@
 Article L1511-5
 ----
-A l'article L. 1110-4 la dernière phrase du quatrième alinéa n'est pas
-applicable et l'article est complété par l'alinéa suivant :
+A l'article L. 1110-4 la dernière phrase du huitième alinéa n'est pas applicable
+et l'article est complété par l'alinéa suivant :
 
 " Les membres de l'inspection générale des affaires sociales titulaires d'un
 diplôme, certificat ou autre titre permettant l'exercice dans la collectivité de

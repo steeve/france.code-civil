@@ -6,5 +6,6 @@ suffisante de la langue française.
 
 En cas de doute, le président du conseil départemental de l'ordre ou son
 représentant peut entendre l'intéressé. Une vérification peut être faite à la
-demande du conseil de l'ordre ou de l'intéressé par le médecin inspecteur
-départemental de santé publique.
+demande du conseil de l'ordre ou de l'intéressé par le médecin, le
+chirurgien-dentiste ou la sage-femme désigné par le directeur général de
+l'agence régionale de santé.

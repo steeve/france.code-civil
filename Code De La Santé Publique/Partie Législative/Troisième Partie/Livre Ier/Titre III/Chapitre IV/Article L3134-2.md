@@ -1,20 +1,16 @@
 Article L3134-2
 ----
-Le représentant de l'Etat dans le département affecte les réservistes, par
-arrêté, dans un service de l'Etat ou auprès de personnes morales dont le
-concours est nécessaire à la lutte contre la menace ou la catastrophe sanitaire
-considérée. Les réservistes peuvent également être affectés au remplacement des
-professionnels de santé exerçant à titre libéral ou auprès de ces professionnels
-pour leur apporter leur concours. Cette compétence d'affectation des réservistes
-peut être exercée, dans les mêmes conditions, par le représentant de l'Etat dans
-la zone de défense si la nature de la situation sanitaire ou l'ampleur de
-l'afflux de patients ou de victimes le justifient.
+Le directeur général de l'agence régionale de santé territorialement compétente
+procède à l'affectation des réservistes auprès des services de l'Etat ou auprès
+des personnes morales dont le concours est nécessaire à la lutte contre la
+menace ou la catastrophe considérée, notamment pour faire face aux situations
+d'urgence affectant le système sanitaire.
 
-Dans le cadre du contrat d'engagement qu'ils ont souscrit, les réservistes
-rejoignent leur affectation aux lieux et dans les conditions qui leur sont
-assignés.
-
-Sont dégagés de cette obligation les réservistes sanitaires qui sont par
-ailleurs mobilisés au titre de la réserve opérationnelle ainsi que les médecins,
-pharmaciens ou infirmiers de sapeurs-pompiers volontaires du service de santé et
-de secours médical du service départemental d'incendie et de secours.
+Dans le cas d'un événement sanitaire mentionné au premier alinéa de l'article L.
+1435-1, le représentant de l'Etat dans le département, sur proposition du
+directeur général de l'agence régionale de santé territorialement compétente,
+procède par arrêté à l'affectation des réservistes selon les modalités définies
+au premier alinéa du présent article. Cette affectation des réservistes peut
+être exercée dans les mêmes conditions par le représentant de l'Etat dans la
+zone de défense si la situation sanitaire ou l'afflux de patients ou de victimes
+le justifient.

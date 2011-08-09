@@ -17,8 +17,7 @@ aux assurés sociaux, le bon usage du médicament et les conditions dans
 lesquelles les pharmaciens peuvent être appelés à participer à la coordination
 des soins ;
 
-3° Le montant de la contribution annuelle des caisses nationales d'assurance
-maladie au développement professionnel continu ;
+3° (Abrogé) ;
 
 4° Les mesures tendant à favoriser le développement de la dispense d'avance des
 frais ;

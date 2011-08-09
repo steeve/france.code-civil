@@ -23,7 +23,7 @@ des conditions définies par décret en Conseil d'Etat parmi les fonctionnaires 
 catégorie A et les praticiens titulaires ou parmi les personnalités qui ont
 exercé des responsabilités dans des instances ou des organismes en relation avec
 l'hôpital ou ayant réalisé des travaux scientifiques dans le domaine de la santé
-publique.A la demande du directeur de l'agence régionale de l'hospitalisation et
+publique. A la demande du directeur général de l'agence régionale de santé et
 dans les conditions prévues à l'article L. 6143-3-1, des conseillers généraux
 des établissements de santé peuvent être désignés par le ministre chargé de la
 santé pour assurer l'administration provisoire d'un établissement public de

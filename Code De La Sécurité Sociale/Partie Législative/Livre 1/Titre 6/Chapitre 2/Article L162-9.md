@@ -53,8 +53,7 @@ santé publique . Ces modalités sont définies après concertation des
 organisations les plus représentatives des étudiants et jeunes
 chirurgiens-dentistes, sages-femmes et auxiliaires médicaux ;
 
-8° Le montant de la contribution annuelle des caisses nationales d'assurance
-maladie au développement professionnel continu.
+8° (Abrogé).
 
 Elles fixent également les modalités d'application du 3°, et notamment les
 conditions dans lesquelles le professionnel concerné présente ses observations.

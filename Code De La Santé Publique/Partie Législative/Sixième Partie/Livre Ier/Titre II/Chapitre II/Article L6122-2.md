@@ -22,3 +22,14 @@ des conditions d'implantation et des conditions techniques de fonctionnement
 prévues aux articles L. 6123-1 et L. 6124-1 applicables à l'activité de soins
 concernée. Les dispositions du sixième alinéa de l'article L. 1151-1 sont
 applicables à ces établissements.
+
+Les autorisations existantes incompatibles avec la mise en œuvre des
+dispositions relatives à l'organisation des soins prévues par les schémas
+mentionnés aux articles L. 1434-7 et L. 1434-10 sont révisées au plus tard un an
+après la publication de ces dispositions.
+
+Cette révision est effectuée selon la procédure prévue à l'article L. 6122-12 ;
+elle peut conduire au retrait de l'autorisation. Le délai de mise en œuvre de la
+modification de l'autorisation est fixé par la décision de l'agence régionale de
+santé prévue au troisième alinéa du même article L. 6122-12 ; il ne peut être
+supérieur à un an.

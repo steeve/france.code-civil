@@ -16,8 +16,7 @@ santé privé d'intérêt collectif ;
 de l'établissement ;
 
 5° S'il a une autorité sur l'établissement en matière de tarification ou s'il
-est membre de la commission exécutive de l'agence régionale de
-l'hospitalisation.
+est membre de l'agence régionale de santé.
 
 Toutefois, l'incompatibilité prévue au 4° ci-dessus n'est opposable ni aux
 représentants des salariés mentionnés au 6° de l'article L. 6162-7 ni aux
@@ -27,4 +26,4 @@ conclu avec lui les contrats prévus aux articles L. 1110-11 et L. 1112-5. Au ca
 où il est fait application d'une autre incompatibilité à ces représentants, la
 commission médicale, le comité d'entreprise, le conseil de l'unité de formation
 et de recherche, le comité de coordination de l'enseignement médical, ou le
-directeur de l'agence régionale de l'hospitalisation désignent un remplaçant.
+directeur général de l'agence régionale de santé désignent un remplaçant.

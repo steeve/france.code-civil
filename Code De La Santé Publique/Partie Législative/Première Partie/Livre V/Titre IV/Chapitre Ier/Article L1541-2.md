@@ -4,7 +4,7 @@ I.-Pour leur application en Nouvelle-Calédonie et en Polynésie française :
 
 a) La deuxième phrase de l'article L. 1110-1 n'est pas applicable ;
 
-b) La dernière phrase du quatrième alinéa de l'article L. 1110-4 n'est pas
+b) La dernière phrase du huitième alinéa de l'article L. 1110-4 n'est pas
 applicable ;
 
 c) L'article L. 1110-4 est complété par deux alinéas ainsi rédigés :

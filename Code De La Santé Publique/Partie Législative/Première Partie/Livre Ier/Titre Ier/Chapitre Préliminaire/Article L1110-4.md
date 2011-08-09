@@ -20,6 +20,21 @@ est prise en charge par une équipe de soins dans un établissement de santé, l
 informations la concernant sont réputées confiées par le malade à l'ensemble de
 l'équipe.
 
+Les informations concernant une personne prise en charge par un professionnel de
+santé au sein d'une maison ou d'un centre de santé sont réputées confiées par la
+personne aux autres professionnels de santé de la structure qui la prennent en
+charge, sous réserve :
+
+1° Du recueil de son consentement exprès, par tout moyen, y compris sous forme
+dématérialisée. Ce consentement est valable tant qu'il n'a pas été retiré selon
+les mêmes formes ;
+
+2° De l'adhésion des professionnels concernés au projet de santé mentionné aux
+articles L. 6323-1 et L. 6323-3.
+
+La personne, dûment informée, peut refuser à tout moment que soient communiquées
+des informations la concernant à un ou plusieurs professionnels de santé.
+
 Afin de garantir la confidentialité des informations médicales mentionnées aux
 alinéas précédents, leur conservation sur support informatique, comme leur
 transmission par voie électronique entre professionnels, sont soumises à des

@@ -12,6 +12,7 @@ dissoute de plein droit et le conseil national organise de nouvelles élections
 dans les deux mois suivant la dernière démission. Jusqu'à l'entrée en fonctions
 d'un nouveau conseil départemental, l'inscription au tableau de l'ordre est dans
 ce cas prononcée par le conseil national de l'ordre, suivant la procédure prévue
-au présent chapitre, après avis du médecin inspecteur départemental de santé
-publique. Toutes les autres attributions du conseil départemental sont alors
-dévolues au conseil national.
+au présent chapitre, après avis du médecin, du chirurgien-dentiste ou de la
+sage-femme désigné par le directeur général de l'agence régionale de santé.
+Toutes les autres attributions du conseil départemental sont alors dévolues au
+conseil national.

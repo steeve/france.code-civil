@@ -17,6 +17,10 @@ décret mentionné au dernier alinéa ;
 Ces autorisations sont délivrées pour une durée limitée par le conseil
 départemental de l'ordre des médecins qui en informe les services de l'Etat.
 
+Lors du remplacement d'un médecin salarié, le directeur de l'établissement de
+santé respecte les obligations liées à la formation universitaire ainsi qu'à la
+formation pratique et théorique du remplaçant.
+
 Lorsque les besoins de la santé publique l'exigent, le ministre chargé de la
 santé peut, par arrêté pris, sauf en cas d'extrême urgence, après avis des
 conseils de l'ordre intéressés, habiliter pendant un délai déterminé les

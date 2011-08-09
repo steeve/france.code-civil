@@ -33,10 +33,3 @@ et les personnes réservistes sans emploi sont rémunérés pour les périodes
 d'emploi ou de formation dans la réserve pour lesquelles ils ont été appelés.
 Ils bénéficient en matière de protection sociale des dispositions applicables
 aux agents non titulaires de l'Etat.
-
-Les rémunérations et indemnités prévues par les trois précédents alinéas sont
-versées par l'établissement public mentionné à l'article L. 3135-1.
-
-En cas de sujétions particulières effectuées dans le cadre de la réserve
-sanitaire, une indemnisation est versée par l'établissement public mentionné à
-l'article L. 3135-1.

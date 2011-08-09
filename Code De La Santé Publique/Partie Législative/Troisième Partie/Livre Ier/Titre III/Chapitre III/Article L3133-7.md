@@ -15,8 +15,7 @@ du même article ;
 4° Les modalités de rémunération des réservistes mentionnés au sixième alinéa du
 même article ;
 
-5° Les modalités d'indemnisation des sujétions particulières mentionnées dans le
-dernier alinéa du même article ;
+5° (Abrogé)
 
 6° Le contenu, les conditions et modalités de rupture anticipée et les
 conditions de renouvellement de la convention mentionnée à l'article L. 3133-2 ;

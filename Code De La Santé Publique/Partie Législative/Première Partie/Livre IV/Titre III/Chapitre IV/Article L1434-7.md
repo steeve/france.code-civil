@@ -5,9 +5,10 @@ susciter les évolutions nécessaires de l'offre de soins afin de répondre aux
 besoins de santé de la population et aux exigences d'efficacité et
 d'accessibilité géographique.
 
-Il précise les adaptations et les complémentarités de l'offre de soins, ainsi
-que les coopérations, notamment entre les établissements de santé, les
-communautés hospitalières de territoire, les établissements et services
+Il précise, dans le respect du principe de liberté d'installation des
+professionnels de santé, les adaptations et les complémentarités de l'offre de
+soins, ainsi que les coopérations, notamment entre les établissements de santé,
+les communautés hospitalières de territoire, les établissements et services
 médico-sociaux, les centres de santé, les structures et professionnels de santé
 libéraux. Il prend en compte également les difficultés de déplacement des
 populations, ainsi que les exigences en matière de transports sanitaires, liées
@@ -22,7 +23,8 @@ Il indique, par territoire de santé, les besoins en implantations pour
 l'exercice des soins mentionnés aux articles L. 1411-11 et L. 1411-12, notamment
 celles des professionnels de santé libéraux, des pôles de santé, des centres de
 santé, des maisons de santé, des laboratoires de biologie médicale et des
-réseaux de santé.
+réseaux de santé. Les dispositions qu'il comporte à cet égard ne sont pas
+opposables aux professionnels de santé libéraux.
 
 Il détermine, selon des dispositions prévues par arrêté des ministres chargés de
 la santé et de la sécurité sociale, les zones de mise en œuvre des mesures

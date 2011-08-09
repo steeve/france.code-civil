@@ -3,7 +3,7 @@ Article L221-1-2
 Il est créé, au sein de la Caisse nationale de l'assurance maladie des
 travailleurs salariés, un fonds des actions conventionnelles.
 
-I. - Les ressources de ce fonds sont constituées :
+I.-Les ressources de ce fonds sont constituées :
 
 1° Par le produit de la cotisation mentionnée au II de l'article 4 de la loi n°
 88-16 du 5 janvier 1988 relative à la sécurité sociale ;
@@ -11,7 +11,7 @@ I. - Les ressources de ce fonds sont constituées :
 2° Par toute autre ressource qui lui serait spécifiquement affectée par les
 parties conventionnelles.
 
-II. - Pour les médecins libéraux, le fonds finance l'allocation de remplacement
+II.-Pour les médecins libéraux, le fonds finance l'allocation de remplacement
 prévue par l'article 4 de la loi n° 88-16 du 5 janvier 1988 précitée et peut
 également :
 
@@ -29,11 +29,14 @@ travail ;
 Pour l'ensemble des professionnels de santé libéraux conventionnés et pour les
 professionnels exerçant au sein de structures visées à l'article L. 6323-1 du
 code de la santé publique, le fonds peut financer le développement professionnel
-continu et l'indemnisation des professionnels de santé y participant.
+continu.
 
-III. - Les décisions de financement sont prises, pour chacune des professions
-concernées, par les parties aux conventions ou accord mentionnés aux articles L.
-162-14-1 et L. 162-32-1, dans des conditions déterminées par ces conventions ou
-accord.
+III.-A l'exception des décisions relatives au développement professionnel
+continu, les décisions de financement sont prises, pour chacune des professions
+concernées, par les parties aux conventions ou à l'accord mentionnés aux
+articles L. 162-14-1 et L. 162-32-1, dans des conditions déterminées par ces
+conventions ou cet accord. Les décisions de financement relatives au
+développement professionnel continu sont prises par le directeur général de
+l'Union nationale des caisses d'assurance maladie.
 
-IV. - Les conditions d'application du présent article sont définies par décret.
+IV.-Les conditions d'application du présent article sont définies par décret.

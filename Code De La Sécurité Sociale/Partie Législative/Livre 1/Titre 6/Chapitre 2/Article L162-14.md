@@ -14,8 +14,7 @@ directeurs de laboratoires privés d'analyses médicales ;
 2° Les modalités du contrôle de l'exécution par les laboratoires des obligations
 qui découlent pour eux de l'application de la convention ;
 
-3° Le montant de la contribution annuelle des caisses nationales d'assurance
-maladie au développement professionnel continu ;
+3° (Abrogé) ;
 
 4° (Abrogé)
 

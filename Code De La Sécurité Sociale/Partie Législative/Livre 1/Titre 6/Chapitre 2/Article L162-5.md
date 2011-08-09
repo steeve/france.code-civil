@@ -100,8 +100,7 @@ d'exercice qui en résultent pour les intéressés.
 Pour la mise en oeuvre des 12° et 13°, il peut être fait application des
 dérogations mentionnées au II de l'article L. 162-31-1 ;
 
-14° Le montant de la contribution annuelle des caisses nationales d'assurance
-maladie au développement professionnel continu ;
+14° (Abrogé) ;
 
 15° Les mesures et procédures applicables aux médecins dont les pratiques
 abusives sont contraires aux objectifs de bonnes pratiques et de bon usage des

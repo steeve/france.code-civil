@@ -5,3 +5,7 @@ leurs patients peuvent recourir à des auxiliaires médicaux exerçant à titre
 libéral. Les honoraires de ces professionnels de santé sont à la charge de
 l'établissement privé de santé. Dans ce cas, il peut être envisagé des
 conditions particulières de rémunération autres que le paiement à l'acte.
+
+Sont présumés ne pas être liés par un contrat de travail avec l'établissement
+les auxiliaires médicaux intervenant dans les conditions prévues au présent
+article.

@@ -10,8 +10,8 @@ L'assemblée générale fixe les règles de détermination des honoraires payés
 les modalités de versement, par ladite société, aux coopérateurs en prix de
 leurs apports, seuls les associés coopérateurs ayant droit de vote.
 
-Ces règles sont communiquées à l'agence régionale de l'hospitalisation et au
-conseil départemental des médecins.
+Ces règles sont communiquées à l'agence régionale de santé et au conseil
+départemental des médecins.
 
 Les honoraires ainsi déterminés le sont à titre provisoire et ne deviennent
 définitifs qu'à la clôture des comptes, après imputation des résultats de

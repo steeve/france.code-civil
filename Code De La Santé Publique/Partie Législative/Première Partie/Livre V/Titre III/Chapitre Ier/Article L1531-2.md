@@ -5,7 +5,7 @@ présente partie à l'exception de celles de l'article L. 1110-7 sont applicable
 aux Terres australes et antarctiques françaises sous réserve de l'adaptation
 suivante :
 
-A l'article L. 1110-4, la dernière phrase du quatrième alinéa n'est pas
+A l'article L. 1110-4, la dernière phrase du huitième alinéa n'est pas
 applicable et ledit article est complété par les deux alinéas suivants :
 
 Les praticiens-conseils du service de contrôle médical et les personnes placées

@@ -41,16 +41,18 @@ la situation régionale ;
 
 5° Les conditions dans lesquelles les caisses d'assurance maladie participent au
 financement des cotisations dues par les professionnels de santé au titre de
-leurs honoraires en application des articles L. 242-11, L. 645-2 et L. 722-4 ;
-la ou les conventions fixent l'assiette et le niveau de cette participation et
-les modalités de sa modulation, notamment en fonction du lieu d'installation ou
-d'exercice ; elles fixent également les modalités de calcul et de répartition
-entre régimes de cette participation ; la participation ne peut être allouée que
-si le professionnel de santé est à jour du versement des cotisations et
-contributions sociales dues aux organismes mentionnés aux articles L. 213-1 et
-L. 752-4, ou a souscrit et respecte un plan d'apurement accordé par eux dans des
-conditions fixées par décret ; elle peut être en outre partiellement ou
-totalement suspendue, dans les conditions prévues par les conventions, pour les
+leurs honoraires ou de leurs revenus tirés des activités non salariées réalisées
+dans des structures dont le financement inclut leur rémunération, en application
+des articles L. 242-11, L. 645-2 et L. 722-4 ; la ou les conventions fixent
+l'assiette et le niveau de cette participation et les modalités de sa
+modulation, notamment en fonction du lieu d'installation ou d'exercice ; elles
+fixent également les modalités de calcul et de répartition entre régimes de
+cette participation ; la participation ne peut être allouée que si le
+professionnel de santé est à jour du versement des cotisations et contributions
+sociales dues aux organismes mentionnés aux articles L. 213-1 et L. 752-4, ou a
+souscrit et respecte un plan d'apurement accordé par eux dans des conditions
+fixées par décret ; elle peut être en outre partiellement ou totalement
+suspendue, dans les conditions prévues par les conventions, pour les
 professionnels de santé ne respectant pas tout ou partie des obligations
 qu'elles déterminent ;
 

@@ -2,12 +2,12 @@ Article L5126-2
 ----
 Par dérogation aux dispositions du premier alinéa de l'article L. 5126-1,
 lorsqu'il n'y a pas d'autre source d'approvisionnement possible pour un
-médicament ou produit déterminé, le directeur de l'agence régionale de
-l'hospitalisation peut autoriser, pour une durée limitée, un établissement
-public de santé ou un établissement de santé privé assurant une ou plusieurs des
-missions de service public définies à l'article L. 6112-1 à approvisionner
-d'autres pharmacies à usage intérieur. Il en informe le représentant de l'Etat
-dans le département.
+médicament ou produit déterminé, le directeur général de l'agence régionale de
+santé peut autoriser, pour une durée limitée, un établissement public de santé
+ou un établissement de santé privé assurant une ou plusieurs des missions de
+service public définies à l'article L. 6112-1 à approvisionner d'autres
+pharmacies à usage intérieur. Il en informe le représentant de l'Etat dans le
+département.
 
 Toutefois, pour un besoin impératif et immédiat, l'approvisionnement peut être
 effectué sans l'autorisation prévue à l'alinéa précédent, sous réserve d'en

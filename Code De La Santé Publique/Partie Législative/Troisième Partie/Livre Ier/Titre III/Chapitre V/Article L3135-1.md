@@ -2,9 +2,7 @@ Article L3135-1
 ----
 La gestion administrative et financière de la réserve sanitaire est assurée par
 un établissement public de l'Etat à caractère administratif placé sous la
-tutelle du ministre chargé de la santé. Les modalités de mise en oeuvre et
-d'emploi de la réserve au plan territorial, sous l'autorité des représentants de
-l'Etat compétents, font l'objet d'un décret en Conseil d'Etat.
+tutelle du ministre chargé de la santé.
 
 Cet établissement public a également pour mission, à la demande du ministre
 chargé de la santé, d'acquérir, de fabriquer, d'importer, de distribuer et

@@ -37,8 +37,7 @@ s'engagent dans ce cadre à réaliser un taux significatif de télétransmission
 documents nécessaires au remboursement des actes ou des prestations qu'ils
 dispensent ;
 
-7° Le montant de la contribution annuelle des caisses nationales d'assurance
-maladie au développement professionnel continu ;
+7° (Abrogé) ;
 
 8° Le cas échéant, des dispositifs d'aide visant à faciliter l'installation des
 centres de santé dans les zones définies par l'agence régionale de santé en

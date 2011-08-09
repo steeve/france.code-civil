@@ -58,7 +58,7 @@ respectivement à l'article L. 113-3 et au I de l'article L. 14-10-5 du même co
 ;
 
 c) Elles veillent à ce que la répartition territoriale de l'offre de soins
-permette de satisfaire les besoins de santé de la population.A ce titre, elles
+permette de satisfaire les besoins de santé de la population. A ce titre, elles
 mettent en œuvre les mesures mentionnées à l'article L. 1434-7 et en évaluent
 l'efficacité ;
 
@@ -83,7 +83,12 @@ complétant les programmes nationaux de gestion du risque et des actions
 complémentaires. Ces actions portent sur le contrôle et l'amélioration des
 modalités de recours aux soins et des pratiques des professionnels de santé en
 médecine ambulatoire et dans les établissements et services de santé et
-médico-sociaux ;
+médico-sociaux. A ce titre, elles publient un bilan annuel, quantitatif et
+qualitatif, des séjours et de l'activité des établissements de santé, portant
+notamment sur les actes et interventions chirurgicales, sur la base des
+informations mentionnées à l'article L. 6113-8. La personne publique désignée
+par l'Etat et mentionnée au premier alinéa du même article L. 6113-8 en publie,
+chaque année, une analyse nationale et comparative par région ;
 
 h) En relation avec les autorités compétentes de l'Etat et les collectivités
 territoriales qui le souhaitent, elles encouragent et favorisent, au sein des

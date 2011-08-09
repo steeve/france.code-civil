@@ -22,11 +22,10 @@ et des chefs de clinique, proposer aux médecins exerçant dans les zones visée
 au premier alinéa du présent article d'adhérer à un contrat santé solidarité par
 lequel ils s'engagent à contribuer à répondre aux besoins de santé de la
 population des zones mentionnées à l'article L. 1434-7 où les besoins en
-implantations ne sont pas satisfaits.
-
-Les médecins qui refusent de signer un tel contrat, ou qui ne respectent pas les
-obligations qu'il comporte pour eux, s'acquittent d'une contribution forfaitaire
-annuelle, au plus égale au plafond mensuel de la sécurité sociale.
+implantations ne sont pas satisfaits. Le contrat santé solidarité est conforme à
+un contrat type défini par l'Union nationale des caisses d'assurance maladie et
+une ou plusieurs organisations syndicales les plus représentatives pour
+l'ensemble du territoire de médecins libéraux.
 
 L'application du présent article se fera dans des conditions définies par décret
 en Conseil d'Etat.

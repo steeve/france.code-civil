@@ -3,7 +3,8 @@ Article L4132-9
 Sont adjoints à la chambre disciplinaire de première instance avec voix
 consultative :
 
-1° Le médecin inspecteur régional de santé publique ou son représentant ;
+1° Le médecin , le chirurgien-dentiste ou la sage-femme désigné par le directeur
+général de l'agence régionale de santé, ou son représentant ;
 
 2° Un professeur d'une unité de formation et de recherche de médecine de la
 région, désigné par le ministre chargé de l'enseignement supérieur ;

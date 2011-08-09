@@ -9,7 +9,7 @@ supprimés ;
 
 2° A l'article L. 1110-4 :
 
-a) La dernière phrase du quatrième alinéa n'est pas applicable ;
+a) La dernière phrase du huitième alinéa n'est pas applicable ;
 
 b) L'article est complété par les alinéas suivants :
 
