@@ -23,4 +23,8 @@ modalités prévues à l'article R. 112-16-1 ;
 
 5° Par dérogation au 1° et au 2°, les désignations "amidon(s)" et "amidon(s)
 modifié(s)" sont complétées par l'indication de leur origine végétale spécifique
-lorsque ces ingrédients peuvent contenir du gluten.
+lorsque ces ingrédients peuvent contenir du gluten ;
+
+6° Les enzymes autres que celles mentionnées à l'article R. 112-3, au 2° et au
+3°, sont désignées sous le nom de l'une des catégories d'ingrédients énumérées à
+l'annexe II, suivi de leur nom spécifique.
