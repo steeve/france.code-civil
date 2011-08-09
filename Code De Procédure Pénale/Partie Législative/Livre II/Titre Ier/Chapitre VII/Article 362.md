@@ -9,8 +9,8 @@ ensuite au scrutin secret, et séparément pour chaque accusé.
 
 La décision sur la peine se forme à la majorité absolue des votants. Toutefois,
 le maximum de la peine privative de liberté encourue ne peut être prononcé qu'à
-la majorité de huit voix au moins lorsque la cour d'assises statue en premier
-ressort et qu'à la majorité de dix voix au moins lorsque la cour d'assises
+la majorité de six voix au moins lorsque la cour d'assises statue en premier
+ressort et qu'à la majorité de huit voix au moins lorsque la cour d'assises
 statue en appel. Si le maximum de la peine encourue n'a pas obtenu cette
 majorité, il ne peut être prononcé une peine supérieure à trente ans de
 réclusion criminelle lorsque la peine encourue est la réclusion criminelle à

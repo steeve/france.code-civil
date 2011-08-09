@@ -1,7 +1,6 @@
 Article 236
 ----
-La tenue des assises a lieu tous les trois mois.
-
-Cependant, le premier président de la cour d'appel peut, sur proposition du
-procureur général, ordonner qu'il soit tenu, au cours d'un même trimestre, une
-ou plusieurs sessions supplémentaires.
+La date de l'ouverture des sessions de la cour d'assises est fixée chaque fois
+qu'il est nécessaire, sur proposition du procureur général, par le premier
+président de la cour d'appel ou, dans le cas prévu à l'article 235, par l'arrêt
+de la cour d'appel.

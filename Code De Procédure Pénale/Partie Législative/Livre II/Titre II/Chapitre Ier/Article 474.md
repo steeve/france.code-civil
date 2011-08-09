@@ -22,4 +22,5 @@ personne est condamnée à une peine d'emprisonnement assortie du sursis avec mi
 à l'épreuve, à une peine d'emprisonnement avec sursis assortie de l'obligation
 d'accomplir un travail d'intérêt général ou bien à une peine de travail
 d'intérêt général. Toutefois, dans ces hypothèses, le condamné n'est convoqué
-que devant le service pénitentiaire d'insertion et de probation.
+que devant le service pénitentiaire d'insertion et de probation qui se trouve
+ainsi saisi de la mesure.

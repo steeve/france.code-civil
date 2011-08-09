@@ -40,16 +40,7 @@ suivi socio-judiciaire est encouru, une libération conditionnelle ne peut lui
 qui lui est proposé par le juge de l'application des peines en application des
 articles 717-1 et 763-7. Elle ne peut non plus être accordée au condamné qui ne
 s'engage pas à suivre, après sa libération, le traitement qui lui est proposé en
-application de l'article 731-1. La personne condamnée à la réclusion criminelle
-à perpétuité ne peut bénéficier d'une libération conditionnelle qu'après avis de
-la commission pluridisciplinaire des mesures de sûreté, rendu à la suite d'une
-évaluation pluridisciplinaire de dangerosité réalisée dans un service spécialisé
-chargé de l'observation des personnes détenues et assortie d'une expertise
-médicale ; s'il s'agit d'un crime pour lequel le suivi socio-judiciaire est
-encouru, cette expertise est réalisée par deux experts et se prononce sur
-l'opportunité, dans le cadre d'une injonction de soins, du recours à un
-traitement utilisant des médicaments inhibiteurs de libido, mentionné à
-l'article L. 3711-3 du code de la santé publique.
+application de l'article 731-1.
 
 Lorsque le condamné est âgé de plus de soixante-dix ans, les durées de peines
 accomplies prévues par le présent article ne sont pas applicables et la

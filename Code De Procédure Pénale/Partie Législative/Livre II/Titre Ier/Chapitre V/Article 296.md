@@ -1,7 +1,7 @@
 Article 296
 ----
-Le jury de jugement est composé de neuf jurés lorsque la cour d'assises statue
-en premier ressort et de douze jurés lorsqu'elle statue en appel.
+Le jury de jugement est composé de six jurés lorsque la cour statue en premier
+ressort et de neuf jurés lorsqu'elle statue en appel.
 
 La cour doit, par arrêt, ordonner, avant le tirage de la liste des jurés,
 qu'indépendamment des jurés de jugement, il soit tiré au sort un ou plusieurs

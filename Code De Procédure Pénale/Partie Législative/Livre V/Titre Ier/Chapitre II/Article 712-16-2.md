@@ -28,3 +28,10 @@ autorisée pour les permissions de sortie.
 Pour l'application du présent article, la victime ou la partie civile peut
 informer la juridiction de l'application des peines de ses changements de
 résidence ou de lieu de travail.
+
+Lorsque la personne a été condamnée pour une infraction visée à l'article 706-47
+et si la victime ou la partie civile en a formé la demande, le juge de
+l'application des peines ou le service pénitentiaire d'insertion et de probation
+informe cette dernière, directement ou par l'intermédiaire de son avocat, de la
+libération de la personne lorsque celle-ci intervient à la date d'échéance de la
+peine.
