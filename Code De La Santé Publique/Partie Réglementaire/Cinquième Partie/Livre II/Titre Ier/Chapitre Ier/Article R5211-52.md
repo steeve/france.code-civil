@@ -12,7 +12,3 @@ de la stérilité tant que l'emballage n'aura pas été ouvert ou endommagé.
 La personne mentionnée au premier alinéa doit produire auprès de l'organisme
 habilité chargé de mettre en oeuvre la procédure une déclaration attestant que
 la stérilisation a été effectuée conformément aux instructions du fabricant.
-
-Elle déclare au directeur général de l'Agence française de sécurité sanitaire
-des produits de santé l'adresse de son siège social ainsi que les dispositifs
-concernés.

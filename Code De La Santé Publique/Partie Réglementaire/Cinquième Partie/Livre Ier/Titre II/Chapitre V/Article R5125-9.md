@@ -23,7 +23,9 @@ réservée aux officines.
 
 Toutefois, les médicaments de médication officinale mentionnés à l'article R.
 5121-202 peuvent être présentés au public en accès direct dans les conditions
-prévues à l'article R. 4235-55.
+prévues à l'article R. 4235-55. Les tests de grossesse et les tests d'ovulation
+peuvent également être présentés au public en accès direct, dans les mêmes
+conditions.
 
 Lorsque des livraisons sont envisagées en dehors des heures d'ouverture,
 l'officine est équipée d'un dispositif permettant l'isolement des médicaments et
