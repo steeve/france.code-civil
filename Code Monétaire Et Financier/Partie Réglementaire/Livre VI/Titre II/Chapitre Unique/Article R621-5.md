@@ -8,5 +8,6 @@ renouvellement par moitié.
 Un agent des services de l'Autorité des marchés financiers, faisant office de
 secrétaire de séance, établit un procès-verbal de ces opérations. Le
 procès-verbal est signé par chacun des membres de la commission des sanctions et
-par le commissaire du Gouvernement. Il est transmis au ministre chargé de
-l'économie et au président de l'Autorité des marchés financiers.
+par le directeur général du Trésor ou son représentant. Il est transmis au
+ministre chargé de l'économie et au président de l'Autorité des marchés
+financiers.

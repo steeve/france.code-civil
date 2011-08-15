@@ -27,27 +27,42 @@ que celle qui a fait l'objet de la décision, la déclaration de recours est
 dénoncée par le greffe à cette dernière personne dans les mêmes formes. Une
 copie de la déclaration est remise par le greffe au parquet général.
 
-IV.-La cour d'appel statue après que l'Autorité des marchés financiers et, s'il
-y a lieu, les personnes auxquelles le recours a été dénoncé ont été mises à même
-de présenter leurs observations.
+IV.-L'affaire est communiquée au ministère public, qui est avisé de la date de
+l'audience.
 
-Le premier président de la cour d'appel ou son délégué fixe les délais dans
-lesquels les parties à l'instance doivent se communiquer leurs observations
-écrites et en déposer copie au greffe de la cour, ainsi que les délais dans
-lesquels l'Autorité des marchés financiers peut produire des observations
-écrites. Il fixe également la date des débats. Le greffe notifie ces délais et
-cette date aux parties et à l'Autorité des marchés financiers et les convoque à
-l'audience prévue pour les débats par lettre recommandée avec demande d'avis de
-réception.
+V.-Le premier président de la cour d'appel ou son délégué fixe les délais dans
+lesquels les auteurs du recours principal, le cas échéant les auteurs d'un
+recours incident, puis l'Autorité des marchés financiers et les autres personnes
+à qui les recours ont été notifiés doivent se communiquer leurs observations
+écrites et en déposer copie au greffe de la cour d'appel, ainsi que la date des
+débats. Le greffe notifie ces délais et cette date aux parties et à l'Autorité
+des marchés financiers et les convoque à l'audience prévue pour les débats, par
+lettre recommandée avec demande d'avis de réception.
 
-Les observations produites par l'Autorité des marchés financiers sont portées
-par le greffe à la connaissance des parties. L'Autorité des marchés financiers
-peut présenter à l'audience des observations orales.
+Le premier président ou son délégué ordonne les mesures d'instruction. Il
+constate le désistement.
 
-V.-Le ministère public reçoit du greffe communication des recours afin de
-déterminer celles des affaires dans lesquelles il estime devoir intervenir.
+VI.-Le recours incident du président de l'Autorité des marchés financiers prévu
+à la seconde phrase du deuxième alinéa de l'article L. 621-30 doit être formé
+dans un délai de deux mois à compter de la notification à l'Autorité des marchés
+financiers du recours de la personne sanctionnée. Ce recours est formé dans les
+conditions prévues au I du présent article, par une déclaration contenant
+l'exposé des moyens invoqués ; il est notifié aux parties par le greffe de la
+cour d'appel. En tant que de besoin, le délai prévu pour les échanges peut être
+modifié par le premier président ou son délégué.
 
-La représentation et l'assistance des parties et de l'Autorité des marchés
+La cour d'appel peut, sur le recours principal ou incident du président de
+l'Autorité des marchés financiers, soit confirmer la décision de la commission
+des sanctions, soit l'annuler ou la réformer en tout ou en partie, dans un sens
+favorable ou défavorable à la personne mise en cause.
+
+VII.-A l'audience, les parties sont entendues en leurs observations. Lorsque le
+président de l'Autorité des marchés financiers n'a pas exercé de recours,
+celle-ci peut présenter à l'audience des observations orales après les autres
+parties. Le ministère public a la parole en dernier, sauf les répliques
+éventuelles des parties mises en cause.
+
+VIII.-La représentation et l'assistance des parties et de l'Autorité des marchés
 financiers s'exercent dans les conditions fixées par l'article 931 du code de
 procédure civile.
 

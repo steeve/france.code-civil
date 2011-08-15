@@ -14,5 +14,5 @@ l'avis du président de la commission des sanctions sur les moyens affectés à 
 fonctionnement.
 
 Les délibérations du collège relatives au budget et à ses modifications sont
-exécutoires de plein droit à l'issue du délai dont dispose le commissaire du
-Gouvernement pour demander une seconde délibération.
+exécutoires de plein droit à l'issue du délai dont dispose le directeur général
+du Trésor pour demander une seconde délibération.
