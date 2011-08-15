@@ -42,11 +42,18 @@ dans le contrat de location-accession et dans l'acte constatant le transfert de
 propriété lorsque des conditions définies par arrêté sont réunies.
 
 Le vendeur transmet au représentant de l'Etat dans le département, dans le délai
-maximum de douze mois à compter de la déclaration d'achèvement des travaux, les
-contrats de location-accession signés ainsi que les justifications des
+maximum de dix-huit mois à compter de la déclaration d'achèvement des travaux,
+les contrats de location-accession signés ainsi que les justifications des
 conditions de ressources des accédants. Au vu des documents communiqués, le
 représentant de l'Etat notifie au vendeur la liste des logements bénéficiant à
 titre définitif de l'agrément.
+
+Les dispositions de la convention ne sont pas applicables aux logements n'ayant
+pu faire l'objet d'un contrat de location-accession à l'expiration du délai
+prévu à l'alinéa précédent. Ces logements peuvent dans ce cas faire l'objet
+d'une mise en location dans les conditions fixées au II de l'article R. 331-17.
+Cette mise en location est subordonnée à la passation de l'une des conventions
+mentionnées aux articles R. 353-1, R. 353-58 et R. 353-90.
 
 Ne peuvent donner lieu au bénéfice des prêts de la présente sous-section les
 logements dont les travaux ont commencé avant l'obtention de la décision

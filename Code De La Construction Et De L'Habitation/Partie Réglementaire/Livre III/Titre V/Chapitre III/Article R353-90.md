@@ -36,4 +36,8 @@ décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la
 propriété de logements sociaux et le développement de l'offre foncière ;
 
 7° Logements appartenant à l'association foncière mentionnée à l'article 313-34
-du code de la construction et de l'habitation ou à l'une de ses filiales.
+du code de la construction et de l'habitation ou à l'une de ses filiales ;
+
+8° Logements financés à l'aide d'un prêt prévu à l'article R. 331-76-5-1 qui
+n'ont pu faire l'objet d'un contrat de location-accession dans le délai
+mentionné au sixième alinéa du II du même article.
