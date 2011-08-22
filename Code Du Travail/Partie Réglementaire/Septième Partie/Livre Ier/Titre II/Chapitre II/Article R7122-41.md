@@ -1,9 +1,21 @@
 Article R7122-41
 ----
-Le fait, pour un entrepreneur de spectacles vivants établi en France, de
-conclure avec un entrepreneur de spectacles vivants qui n'est pas établi en
-France et qui n'est pas titulaire d'un titre jugé équivalent, le contrat prévu à
-l'article R. 7122-10, si ce dernier n'a pas adressé au préfet la déclaration
-préalable prévue au même article, est puni de l'amende prévue pour les
-contraventions de la cinquième classe. La récidive est réprimée conformément aux
-articles 132-11 et 132-15 du code pénal.
+Les amendes prévues à l'article R. 7122-40 sont prononcées par le préfet de
+région du lieu de l'établissement principal après avoir notifié par lettre
+recommandée avec demande d'avis de réception à la personne mise en cause les
+griefs qui lui sont reprochés.
+
+Le préfet mentionne dans cette notification qu'elle dispose d'un délai d'un mois
+pour transmettre ses observations écrites. Il lui indique les sanctions
+éventuellement encourues et lui précise qu'elle peut prendre connaissance et
+copie des pièces du dossier et se faire assister ou représenter par tout conseil
+de son choix.
+
+Le préfet fixe la sanction en tenant compte de l'ensemble des circonstances de
+l'affaire.
+
+La décision de sanction est notifiée par lettre recommandée avec demande d'avis
+de réception à la personne mise en cause.
+
+Les amendes mentionnées au présent article sont versées au Trésor et sont
+recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine.

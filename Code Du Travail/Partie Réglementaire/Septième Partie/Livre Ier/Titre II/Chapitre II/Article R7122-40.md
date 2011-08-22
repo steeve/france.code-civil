@@ -1,8 +1,17 @@
 Article R7122-40
 ----
-Le fait, pour un entrepreneur de spectacles vivants qui n'est pas établi en
-France et qui n'est pas titulaire d'un titre jugé équivalent, d'exercer son
-activité sans avoir sollicité la licence et sans avoir adressé au préfet la
-déclaration préalable, en méconnaissance des articles L. 7122-11 et R. 7122-10,
-est puni de l'amende prévue pour les contraventions de la cinquième classe. La
-récidive est réprimée conformément aux articles 132-11 et 132-15 du code pénal.
+Peuvent être sanctionnés d'une amende administrative d'un montant maximum de 1
+500 euros pour une personne physique et de 7 500 euros pour une personne morale
+:
+
+1° Le fait, pour un entrepreneur de spectacles vivants établi en France, de
+contracter avec un entrepreneur de spectacles vivants ressortissant d'un Etat
+membre de l'Union européenne ou de l'Espace économique européen, non établi en
+France, qui n'est pas titulaire du titre prévu à l'article L. 7122-10 et n'a pas
+procédé à la déclaration prévue aux articles L. 7122-11 et R. 7122-9 ;
+
+2° Le fait, pour un entrepreneur de spectacles vivants établi en France, de
+conclure le contrat prévu à l'article L. 7122-11 avec un entrepreneur de
+spectacles établi dans un pays non membre de l'Union européenne ou de l'Espace
+économique européen, si ce dernier n'a pas adressé au préfet de région la
+déclaration préalable prévue au même article.
