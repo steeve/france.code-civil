@@ -53,7 +53,7 @@ performance sportives de Franche-Comté ;
 
 23° Le directeur général de la gendarmerie nationale ;
 
-24° Le directeur de la sécurité civile ;
+24° Le directeur général de la sécurité civile et de la gestion des crises ;
 
 25° Le délégué interministériel à l'aménagement du territoire et à
 l'attractivité régionale ;

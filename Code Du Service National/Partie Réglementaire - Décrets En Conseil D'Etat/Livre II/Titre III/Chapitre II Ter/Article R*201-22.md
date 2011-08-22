@@ -9,13 +9,14 @@ Lorsque leur demande est agréée par ce ministre, les jeunes gens sont mis pour
 emploi à sa disposition. Ils reçoivent une affectation, selon les modalités qui
 sont déterminées par le ministre :
 
-- soit à la direction de la sécurité civile ;
+-soit à la direction générale de la sécurité civile et de la gestion des crises
+;
 
-- soit dans les états-majors de zone de la sécurité civile ;
+-soit dans les états-majors de zone de la sécurité civile ;
 
-- soit dans un service départemental d'incendie et de secours qui peut les
-mettre à disposition d'un centre de secours principal ou d'un centre de secours,
-qui en font la demande et qui disposent d'un encadrement de sapeurs-pompiers
+-soit dans un service départemental d'incendie et de secours qui peut les mettre
+à disposition d'un centre de secours principal ou d'un centre de secours, qui en
+font la demande et qui disposent d'un encadrement de sapeurs-pompiers
 professionnels conforme aux prescriptions fixées par un arrêté du ministre.
 
 Pendant l'accomplissement de leur service actif, ils sont soumis à l'autorité du

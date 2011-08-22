@@ -11,8 +11,8 @@ l'environnement ou son représentant ;
 b) Le directeur général de la santé au ministère chargé de la santé ou son
 représentant ;
 
-c) Le directeur de la sécurité civile au ministère de l'intérieur ou son
-représentant ;
+c) Le directeur général de la sécurité civile et de la gestion des crises au
+ministère de l'intérieur ou son représentant ;
 
 d) Le directeur général de la compétitivité, de l'industrie et des services au
 ministère chargé de l'industrie ou son représentant ;

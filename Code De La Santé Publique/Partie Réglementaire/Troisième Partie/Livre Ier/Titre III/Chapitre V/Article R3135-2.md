@@ -16,8 +16,8 @@ ou son représentant ;
 -le haut fonctionnaire de défense et de sécurité placé auprès du ministre chargé
 de la santé ou son représentant ;
 
--le directeur de la sécurité civile au ministère chargé de la sécurité civile ou
-son représentant ;
+-le directeur général de la sécurité civile et de la gestion des crises au
+ministère chargé de la sécurité civile ou son représentant ;
 
 -un préfet de zone de défense, désigné par le ministre de l'intérieur, ou son
 représentant ;
