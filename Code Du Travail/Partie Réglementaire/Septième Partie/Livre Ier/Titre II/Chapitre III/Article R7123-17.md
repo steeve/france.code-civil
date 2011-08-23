@@ -1,5 +1,6 @@
 Article R7123-17
 ----
-En cas d'urgence, et lorsque l'agence de mannequins a commis une irrégularité
-particulièrement grave, le préfet peut suspendre la licence pour une durée
-maximum d'un mois.
+Peut être sanctionné d'une amende administrative d'un montant maximum de 1 500 €
+pour une personne physique et de 7 500 € pour une personne morale, et
+respectivement de 3 000 € et de 15 000 € en cas de récidive, le fait de
+méconnaître les dispositions de l'article R. 7123-15.
