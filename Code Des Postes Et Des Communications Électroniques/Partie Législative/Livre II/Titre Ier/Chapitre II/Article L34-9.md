@@ -44,7 +44,8 @@ article.
 
 Les équipements ou installations soumis à l'évaluation de conformité ne peuvent
 être fabriqués pour l'Espace économique européen, importés, en vue de leur mise
-à la consommation, de pays n'appartenant pas à celui-ci, détenus en vue de la
-vente, mis en vente, distribués à titre gratuit ou onéreux, connectés à un
-réseau ouvert au public ou faire l'objet de publicité que s'ils ont fait l'objet
-d'une évaluation de leur conformité et sont à tout moment conformes à celle-ci.
+sur le marché, de pays n'appartenant pas à celui-ci, détenus en vue de la vente,
+mis en vente, distribués à titre gratuit ou onéreux, connectés à un réseau
+ouvert au public ou faire l'objet de publicité que s'ils ont fait l'objet d'une
+évaluation de leur conformité aux exigences essentielles qui leur sont
+applicables et sont à tout moment conformes à celles-ci.

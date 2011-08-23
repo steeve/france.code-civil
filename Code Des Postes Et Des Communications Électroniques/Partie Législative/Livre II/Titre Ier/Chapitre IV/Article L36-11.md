@@ -18,13 +18,11 @@ communications mobiles à l'intérieur de la Communauté, ainsi qu'aux
 prescriptions d'une décision d'attribution ou d'assignation de fréquence prise
 par l'autorité en application de l'article 26 de la loi n° 86-1067 du 30
 septembre 1986 relative à la liberté de communication, l'exploitant ou le
-fournisseur est mis en demeure par le directeur des services de l'Autorité de
+fournisseur est mis en demeure par le directeur général de l'Autorité de
 régulation des communications électroniques et des postes de s'y conformer dans
-un délai déterminé. Cette mise en demeure peut être assortie d'obligations de se
-conformer à des étapes intermédiaires dans le même délai. Ce délai ne peut être
-inférieur à un mois sauf en cas d'infractions graves et répétées ou si
-l'exploitant ou le fournisseur en est d'accord.L'autorité peut rendre publique
-cette mise en demeure ;
+un délai qu'il détermine. Cette mise en demeure peut être assortie d'obligations
+de se conformer à des étapes intermédiaires dans le même délai. L'autorité peut
+rendre publique cette mise en demeure ;
 
 2° Lorsqu'un exploitant de réseau ou un fournisseur de services ne se conforme
 pas dans les délais fixés à une décision prise en application de l'article L.
@@ -64,7 +62,12 @@ pécuniaire dont le montant est proportionné à la gravité du manquement appr�
 notamment au regard du nombre d'habitants ou de kilomètres carrés non couverts
 ou de sites non ouverts, sans pouvoir excéder un plafond fixé à 65 euros par
 habitant non couvert ou 1 500 euros par kilomètre carré non couvert ou 40 000
-euros par site non ouvert.
+euros par site non ouvert ;
+
+- ou lorsque l'opérateur ne s'est pas conformé à une mise en demeure portant sur
+le respect d'obligations imposées en application de l'article L. 38, la
+suspension ou l'arrêt de la commercialisation d'un service jusqu'à la mise en
+œuvre effective de ces obligations.
 
 Les sanctions sont prononcées après que la personne en cause a reçu notification
 des griefs et a été mis à même de consulter le dossier et, le cas échéant, les
@@ -77,9 +80,11 @@ Les sanctions pécuniaires sont recouvrées comme les créances de l'Etat
 3° En cas d'atteinte grave et immédiate aux règles mentionnées au premier alinéa
 du présent article, l'Autorité de régulation des communications électroniques et
 des postes peut ordonner, sans mise en demeure préalable, des mesures
-conservatoires.L'autorité peut, le cas échéant, confirmer les mesures
-conservatoires, après avoir donné à la personne concernée la possibilité
-d'exprimer son point de vue et de proposer des solutions ;
+conservatoires dont la validité est de trois mois au maximum. Ces mesures
+peuvent être prorogées pour une nouvelle durée de trois mois au maximum si la
+mise en œuvre des procédures d'exécution n'est pas terminée, après avoir donné à
+la personne concernée la possibilité d'exprimer son point de vue et de proposer
+des solutions ;
 
 4° L'Autorité de régulation des communications électroniques et des postes ne
 peut être saisie de faits remontant à plus de trois ans, s'il n'a été fait aucun

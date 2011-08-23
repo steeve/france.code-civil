@@ -3,10 +3,10 @@ Article L35-2
 En vue de garantir la fourniture du service universel sur l'ensemble du
 territoire national dans le respect des principes rappelés par l'article L. 35
 et des dispositions de l'article L. 35-1, le ministre chargé des communications
-électroniques peut désigner, pour chacune des composantes du service universel
-mentionnées aux 1° et 3° de l'article L. 35-1 ou les éléments de celle décrite
-au 2° du même article, un ou plusieurs opérateurs chargés de fournir cette
-composante ou cet élément.
+électroniques peut désigner, pour la composante du service universel mentionnée
+au 3° de l'article L. 35-1 ou pour les composantes ou éléments des composantes
+décrites aux 1° et 2° du même article, un ou plusieurs opérateurs chargés de
+fournir cette composante ou cet élément.
 
 La désignation intervient à l'issue d'appels à candidatures portant sur les
 conditions techniques et financières ainsi que, le cas échéant, le coût net de

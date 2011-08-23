@@ -13,6 +13,11 @@ Elle prépare la position française et coordonne l'action de la représentation
 française dans les négociations internationales dans le domaine des fréquences
 radioélectriques.
 
+Elle recueille les réclamations et instruit les cas de brouillage de fréquences
+radioélectriques qui lui sont signalés. Elle transmet son rapport d'instruction,
+qui préconise les solutions pour mettre fin à ces perturbations, à
+l'administration ou autorité affectataire concernée.
+
 Elle coordonne l'implantation sur le territoire national des stations
 radioélectriques de toute nature afin d'assurer la meilleure utilisation des
 sites disponibles et veille au respect des valeurs limites d'exposition du
@@ -30,7 +35,72 @@ accord sont réputés acquis ainsi que, le cas échéant, les catégories
 d'installations pour lesquelles, en raison de leurs caractéristiques techniques,
 ils ne sont pas requis.
 
-II.-L'agence est administrée par un conseil d'administration composé de
+II.-L'Agence nationale des fréquences peut, pour ce qui concerne le contrôle de
+l'utilisation des fréquences et de manière proportionnée aux besoins liés à
+l'accomplissement de ses missions :
+
+1° Recueillir, auprès des personnes physiques ou morales exploitant des
+équipements, des réseaux de communications électroniques, des installations
+radioélectriques ou fournissant des services de communications électroniques,
+les informations ou documents nécessaires pour s'assurer du respect par ces
+personnes des obligations qui leur sont imposées par le présent code ou par les
+textes pris pour son application ;
+
+2° Procéder auprès des mêmes personnes à des enquêtes.
+
+Ces enquêtes sont menées par des fonctionnaires et agents de l'Agence nationale
+des fréquences habilités à cet effet par le ministre chargé des communications
+électroniques et assermentés dans les conditions prévues à l'article L. 40.
+
+Les fonctionnaires et agents mentionnés à l'alinéa précédent ont accès, de 8
+heures à 20 heures ou pendant leurs heures d'ouverture au public, pour
+l'exercice de leurs missions, aux locaux, terrains ou moyens de transport
+utilisés par les personnes exploitant des réseaux de communications
+électroniques, des installations radioélectriques ou fournissant des services de
+communications électroniques et qui sont à usage professionnel, à l'exclusion
+des parties de ceux-ci affectées au domicile.
+
+Le responsable des lieux est informé de son droit d'opposition à la visite.
+Lorsqu'il exerce ce droit, la visite ne peut se dérouler qu'après l'autorisation
+du juge des libertés et de la détention du tribunal de grande instance dans le
+ressort duquel sont situés les locaux à visiter. Celui-ci statue dans des
+conditions fixées par décret en Conseil d'Etat. Toutefois, par dérogation,
+lorsque l'urgence, la gravité des faits justifiant le contrôle ou le risque de
+destruction ou de dissimulation de documents l'exigent, la visite est
+préalablement autorisée par le juge des libertés et de la détention du tribunal
+de grande instance dans le ressort duquel sont situés les locaux à visiter.
+
+La visite s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée,
+en présence de l'occupant des lieux ou de son représentant, qui peut se faire
+assister d'un conseil de son choix ou, à défaut, en présence de deux témoins qui
+ne sont pas placés sous l'autorité des personnes chargées de procéder au
+contrôle. Le juge peut, s'il l'estime utile, se rendre dans les locaux pendant
+l'intervention. A tout moment, il peut décider la suspension ou l'arrêt de la
+visite.
+
+L'ordonnance ayant autorisé la visite est exécutoire au seul vu de la minute.
+Elle mentionne que le juge ayant autorisé la visite peut être saisi à tout
+moment d'une demande de suspension ou d'arrêt de cette visite et précise qu'une
+telle demande n'est pas suspensive. Elle indique le délai et la voie de recours.
+Elle peut faire l'objet, suivant les règles prévues par le code de procédure
+civile, d'un appel devant le premier président de la cour d'appel.
+
+Les fonctionnaires et agents mentionnés au quatrième alinéa du II présent
+peuvent demander communication de tous documents nécessaires à l'accomplissement
+de leur mission, quel qu'en soit le support, et en prendre copie ; ils peuvent
+recueillir, sur place ou sur convocation, tout renseignement et toute
+justification utiles.
+
+Il est dressé contradictoirement procès-verbal des vérifications et visites
+menées en application du présent article.
+
+L'Agence nationale des fréquences informe le Conseil supérieur de l'audiovisuel
+et l'Autorité de régulation des communications électroniques et des postes des
+enquêtes portant sur le contrôle de l'utilisation des fréquences dont
+l'assignation leur est respectivement confiée et leur en communique les
+résultats.
+
+III.-L'agence est administrée par un conseil d'administration composé de
 représentants des administrations, notamment de celles qui sont attributaires de
 bandes de fréquences, du Conseil supérieur de l'audiovisuel et de l'Autorité de
 régulation des communications électroniques et des postes, ainsi que, pour au
@@ -42,18 +112,18 @@ cumuler cette fonction avec celle de président du Conseil supérieur de
 l'audiovisuel et de président de l'Autorité de régulation des communications
 électroniques et des postes.
 
-III.-Le directeur général de l'agence est nommé par décret après avis du
+IV.-Le directeur général de l'agence est nommé par décret après avis du
 président du conseil d'administration. Il assure la direction technique,
 administrative et financière de l'agence. Il représente l'établissement en
 justice.
 
-IV.-Les ressources de l'agence comprennent la rémunération des services rendus,
+V.-Les ressources de l'agence comprennent la rémunération des services rendus,
 les revenus du portefeuille, les subventions publiques, ainsi que le produit des
 dons et legs. L'agence perçoit au bénéfice du fonds de réaménagement du spectre
 les contributions des personnes publiques ou privées versées à des fins de
 réaménagement du spectre.
 
-V.-Un décret en Conseil d'Etat fixe les modalités d'application du présent
+VI.-Un décret en Conseil d'Etat fixe les modalités d'application du présent
 article. Il précise notamment les missions, l'organisation et les conditions du
 fonctionnement de l'établissement.
 
@@ -61,7 +131,7 @@ Un arrêté interministériel précise les objectifs à atteindre par l'agence d
 les circonstances prévues à l'article L. 1111-2 du code de la défense ainsi que
 les dispositions particulières à prendre en compte pour y parvenir.
 
-VI.-Le présent article est applicable en Polynésie française, dans les îles
+VII.-Le présent article est applicable en Polynésie française, dans les îles
 Wallis-et-Futuna, dans les Terres australes et antarctiques françaises et en
 Nouvelle-Calédonie sous réserve des compétences exercées par ces collectivités
 en application des statuts qui les régissent.

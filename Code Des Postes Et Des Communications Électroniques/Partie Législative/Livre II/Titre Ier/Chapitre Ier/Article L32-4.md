@@ -12,7 +12,11 @@ respect par ces personnes des principes définis aux articles L. 32-1 et L. 32-3
 ainsi que des obligations qui leur sont imposées par le présent code ou par les
 textes pris pour son application ;
 
-2° Procéder auprès des mêmes personnes à des enquêtes.
+2° Recueillir auprès des personnes fournissant des services de communication au
+public en ligne les informations ou documents concernant les conditions
+techniques et tarifaires d'acheminement du trafic appliquées à leurs services ;
+
+3° Procéder auprès des mêmes personnes à des enquêtes.
 
 Ces enquêtes sont menées par des fonctionnaires et agents du ministère chargé
 des communications électroniques et de l'Autorité de régulation des

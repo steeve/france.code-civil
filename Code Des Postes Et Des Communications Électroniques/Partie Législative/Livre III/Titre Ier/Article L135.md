@@ -3,17 +3,22 @@ Article L135
 L'Autorité de régulation des communications électroniques et des postes établit
 chaque année, avant le 30 juin, un rapport public qui rend compte de son
 activité et de l'application des dispositions législatives et réglementaires
-relatives aux communications électroniques et aux activités postales. Elle y
-dresse une analyse des principales décisions prises par les autorités de
-régulation des communications électroniques et des postes dans les Etats membres
-de la Communauté européenne au cours de l'année écoulée, en vue de permettre
-l'établissement d'une comparaison des différents types de contrôles exercés et
-de leurs effets sur les marchés. Ce rapport est adressé au Gouvernement et au
-Parlement. Il est adressé également à la Commission supérieure du service public
-des postes et des communications électroniques. L'autorité peut suggérer dans ce
-rapport toute modification législative ou réglementaire que lui paraissent
-appeler les évolutions du secteur des communications électroniques et de celui
-des postes et le développement de la concurrence.
+relatives aux communications électroniques et aux activités postales. Ce rapport
+précise les mesures propres à assurer aux utilisateurs finals handicapés un
+accès aux réseaux et aux services de communications électroniques équivalent à
+celui dont bénéficient les autres utilisateurs qui ont été mises en œuvre et
+l'évolution des tarifs de détail applicables aux services inclus dans le service
+universel prévus à l'article L. 35-1. Elle y dresse une analyse des principales
+décisions prises par les autorités de régulation des communications
+électroniques et des postes dans les Etats membres de l'Union européenne au
+cours de l'année écoulée, en vue de permettre l'établissement d'une comparaison
+des différents types de contrôles exercés et de leurs effets sur les marchés. Ce
+rapport est adressé au Gouvernement et au Parlement. Il est adressé également à
+la Commission supérieure du service public des postes et des communications
+électroniques. L'autorité peut suggérer dans ce rapport toute modification
+législative ou réglementaire que lui paraissent appeler les évolutions du
+secteur des communications électroniques et de celui des postes et le
+développement de la concurrence.
 
 L'autorité rend compte de ses activités, et notamment des progrès réalisés eu
 égard aux objectifs mentionnés à l'article L. 32-1, devant les commissions

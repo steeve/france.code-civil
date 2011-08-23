@@ -13,7 +13,7 @@ proportionnée, les modalités de l'accès ou de l'interconnexion :
 
 a) Soit de sa propre initiative, après avis de l'Autorité de la concurrence,
 consultation publique et notification à la Commission européenne et aux
-autorités compétentes des autres Etats membres de la Communauté européenne ; la
+autorités compétentes des autres Etats membres de l'Union européenne ; la
 décision est adoptée dans des conditions de procédure préalablement publiées par
 l'autorité ;
 
@@ -26,10 +26,9 @@ l'interconnexion ou l'accès doivent être assurés.
 
 II.-Les exploitants de réseaux ouverts au public font droit aux demandes
 d'interconnexion des autres exploitants de réseaux ouverts au public, y compris
-ceux qui sont établis dans un autre Etat membre de la Communauté européenne ou
-dans un autre Etat partie à l'accord sur l'Espace économique européen,
-présentées en vue de fournir au public des services de communications
-électroniques.
+ceux qui sont établis dans un autre Etat membre de l'Union européenne ou dans un
+autre Etat partie à l'accord sur l'Espace économique européen, présentées en vue
+de fournir au public des services de communications électroniques.
 
 La demande d'interconnexion ne peut être refusée si elle est justifiée au
 regard, d'une part, des besoins du demandeur, d'autre part, des capacités de

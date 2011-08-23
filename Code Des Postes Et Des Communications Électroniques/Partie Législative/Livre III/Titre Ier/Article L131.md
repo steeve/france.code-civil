@@ -9,6 +9,11 @@ l'informatique. Les membres de l'Autorité de régulation des communications
 électroniques et des postes ne peuvent être membres de la Commission supérieure
 du service public des postes et des communications électroniques.
 
+Les membres et agents de l'Autorité de régulation des communications
+électroniques et des postes exercent leurs fonctions en toute impartialité, sans
+recevoir d'instruction du Gouvernement, ni d'aucune institution, personne,
+entreprise ou organisme.
+
 Les membres de l'autorité sont tenus au secret professionnel pour les faits,
 actes et renseignements dont ils ont pu avoir connaissance en raison de leurs
 fonctions. Ils sont tenus à l'obligation de discrétion pour ce qui concerne les

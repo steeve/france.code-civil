@@ -1,6 +1,6 @@
 Article R20-10
 ----
-I. - Tout équipement dont la conformité a été évaluée en application des
+I.-Tout équipement dont la conformité a été évaluée en application des
 dispositions de l'article R. 20-5 doit faire l'objet, préalablement à sa mise
 sur le marché :
 
@@ -15,16 +15,16 @@ application du II et, le cas échéant, du b du I de l'article R. 20-5 doivent e
 outre comporter le numéro d'identification de l'organisme notifié et, pour les
 équipements radioélectriques, l'identificateur de la catégorie d'équipements
 qui, le cas échéant, indique l'existence de restrictions ou de conditions
-particulières à l'utilisation de l'équipement dans certains Etats membres de la
-Communauté européenne.
+particulières à l'utilisation de l'équipement dans certains Etats membres de
+l'Union européenne.
 
 Ces marquages, apposés sous la responsabilité de la personne responsable,
 respectent les modèles définis par arrêté du ministre chargé des communications
 électroniques, en conformité, pour le marquage CE mentionné au b ci-dessus, avec
-le modèle figurant à l'annexe VII de la directive 1999/5/CE du Parlement
+le modèle figurant à l'annexe VII de la directive 1999/5/ CE du Parlement
 européen et du Conseil du 9 mars 1999.
 
-II. - Chaque exemplaire de l'équipement mis sur le marché doit être accompagné
+II.-Chaque exemplaire de l'équipement mis sur le marché doit être accompagné
 d'une déclaration de conformité aux exigences essentielles et des informations
 sur l'usage auquel l'équipement est destiné. Ces informations indiquent ou
 permettent d'identifier :

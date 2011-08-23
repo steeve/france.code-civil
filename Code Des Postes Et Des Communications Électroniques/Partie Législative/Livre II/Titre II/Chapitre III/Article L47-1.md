@@ -24,3 +24,5 @@ relève du domaine public non routier ou du domaine public routier.
 Lorsque l'autorisation d'occuper le réseau public est consentie par l'autorité
 visée à l'alinéa précédent, la convention afférente est établie dans un délai de
 deux mois à compter de ladite autorisation.
+
+L'autorité compétente se prononce dans un délai de deux mois suivant la demande.

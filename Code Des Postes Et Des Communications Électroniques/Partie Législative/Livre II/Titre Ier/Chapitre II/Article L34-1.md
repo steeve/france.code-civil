@@ -1,9 +1,19 @@
 Article L34-1
 ----
-I.-Les opérateurs de communications électroniques, et notamment les personnes
+I. - Le présent article s'applique au traitement des données à caractère
+personnel dans le cadre de la fourniture au public de services de communications
+électroniques ; il s'applique notamment aux réseaux qui prennent en charge les
+dispositifs de collecte de données et d'identification.
+
+II. - Les opérateurs de communications électroniques, et notamment les personnes
 dont l'activité est d'offrir un accès à des services de communication au public
 en ligne, effacent ou rendent anonyme toute donnée relative au trafic, sous
-réserve des dispositions des II, III, IV et V.
+réserve des dispositions des III, IV, V et VI.
+
+Les personnes qui fournissent au public des services de communications
+électroniques établissent, dans le respect des dispositions de l'alinéa
+précédent, des procédures internes permettant de répondre aux demandes des
+autorités compétentes.
 
 Les personnes qui, au titre d'une activité professionnelle principale ou
 accessoire, offrent au public une connexion permettant une communication en
@@ -11,8 +21,8 @@ ligne par l'intermédiaire d'un accès au réseau, y compris à titre gratuit, s
 soumises au respect des dispositions applicables aux opérateurs de
 communications électroniques en vertu du présent article.
 
-II.-Pour les besoins de la recherche, de la constatation et de la poursuite des
-infractions pénales ou d'un manquement à l'obligation définie à l'article L.
+III. - Pour les besoins de la recherche, de la constatation et de la poursuite
+des infractions pénales ou d'un manquement à l'obligation définie à l'article L.
 336-3 du code de la propriété intellectuelle, et dans le seul but de permettre,
 en tant que de besoin, la mise à disposition de l'autorité judiciaire ou de la
 haute autorité mentionnée à l'article L. 331-12 du code de la propriété
@@ -20,19 +30,19 @@ intellectuelle d'informations, il peut être différé pour une durée maximale 
 an aux opérations tendant à effacer ou à rendre anonymes certaines catégories de
 données techniques. Un décret en Conseil d'Etat, pris après avis de la
 Commission nationale de l'informatique et des libertés, détermine, dans les
-limites fixées par le V, ces catégories de données et la durée de leur
+limites fixées par le VI, ces catégories de données et la durée de leur
 conservation, selon l'activité des opérateurs et la nature des communications
 ainsi que les modalités de compensation, le cas échéant, des surcoûts
 identifiables et spécifiques des prestations assurées à ce titre, à la demande
 de l'Etat, par les opérateurs.
 
-III.-Pour les besoins de la facturation et du paiement des prestations de
+IV. - Pour les besoins de la facturation et du paiement des prestations de
 communications électroniques, les opérateurs peuvent, jusqu'à la fin de la
 période au cours de laquelle la facture peut être légalement contestée ou des
 poursuites engagées pour en obtenir le paiement, utiliser, conserver et, le cas
 échéant, transmettre à des tiers concernés directement par la facturation ou le
 recouvrement les catégories de données techniques qui sont déterminées, dans les
-limites fixées par le V, selon l'activité des opérateurs et la nature de la
+limites fixées par le VI, selon l'activité des opérateurs et la nature de la
 communication, par décret en Conseil d'Etat pris après avis de la Commission
 nationale de l'informatique et des libertés.
 
@@ -44,7 +54,7 @@ aucun cas, être supérieure à la période nécessaire pour la fourniture ou la
 commercialisation de ces services. Ils peuvent également conserver certaines
 données en vue d'assurer la sécurité de leurs réseaux.
 
-IV.-Sans préjudice des dispositions du II et du III et sous réserve des
+V. - Sans préjudice des dispositions du III et du IV et sous réserve des
 nécessités des enquêtes judiciaires, les données permettant de localiser
 l'équipement terminal de l'utilisateur ne peuvent ni être utilisées pendant la
 communication à des fins autres que son acheminement, ni être conservées et
@@ -59,9 +69,9 @@ Tout appel destiné à un service d'urgence vaut consentement de l'utilisateur
 jusqu'à l'aboutissement de l'opération de secours qu'il déclenche et seulement
 pour en permettre la réalisation.
 
-V.-Les données conservées et traitées dans les conditions définies aux II, III
-et IV portent exclusivement sur l'identification des personnes utilisatrices des
-services fournis par les opérateurs, sur les caractéristiques techniques des
+VI. - Les données conservées et traitées dans les conditions définies aux III,
+IV et V portent exclusivement sur l'identification des personnes utilisatrices
+des services fournis par les opérateurs, sur les caractéristiques techniques des
 communications assurées par ces derniers et sur la localisation des équipements
 terminaux.
 

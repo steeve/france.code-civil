@@ -2,11 +2,12 @@ Article L35-1
 ----
 Le service universel des communications électroniques fournit à tous :
 
-1° Un service téléphonique de qualité à un prix abordable. Ce service assure
-l'acheminement des communications téléphoniques, des communications par
-télécopie et des communications de données à des débits suffisants pour
-permettre l'accès à Internet, en provenance ou à destination des points
-d'abonnement, ainsi que l'acheminement gratuit des appels d'urgence.
+1° Un raccordement à un réseau fixe ouvert au public et un service téléphonique
+de qualité à un prix abordable. Ce raccordement au réseau permet l'acheminement
+des communications téléphoniques, des communications par télécopie et des
+communications de données à des débits suffisants pour permettre l'accès à
+Internet, en provenance ou à destination des points d'abonnement, ainsi que
+l'acheminement gratuit des appels d'urgence.
 
 Les conditions tarifaires incluent le maintien, pendant une année, en cas de
 défaut de paiement, d'un service restreint comportant la possibilité de recevoir
@@ -25,7 +26,7 @@ de la ligne d'abonné demandée par son locataire ou occupant de bonne foi ;
 et électronique, conformément aux dispositions de l'article L. 35-4 ;
 
 3° L'accès à des cabines téléphoniques publiques installées sur le domaine
-public ;
+public ou à d'autres points d'accès au service téléphonique au public ;
 
 4° Des mesures particulières en faveur des utilisateurs finaux handicapés afin
 d'assurer, d'une part, un accès aux services mentionnés aux 1°, 2° et 3° qui

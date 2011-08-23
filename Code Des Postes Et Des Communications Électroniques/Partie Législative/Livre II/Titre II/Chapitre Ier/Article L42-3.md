@@ -1,13 +1,16 @@
 Article L42-3
 ----
 Le ministre chargé des communications électroniques arrête la liste des
-fréquences ou bandes de fréquences dont les autorisations peuvent faire l'objet
-d'une cession.
+fréquences ou bandes de fréquences, ainsi que, le cas échéant, pour la bande de
+fréquences concernée, la liste des services de communications électroniques,
+pour lesquelles les autorisations d'utilisation de fréquences peuvent faire
+l'objet d'une cession.
 
 Tout projet de cession est notifié à l'Autorité de régulation des communications
-électroniques et des postes. Lorsqu'un projet porte sur une fréquence qui a été
-assignée en application de l'article L. 42-2 ou est utilisée pour l'exercice de
-missions de service public, la cession est soumise à approbation de l'autorité.
+électroniques et des postes qui le rend public. Lorsqu'un projet porte sur une
+fréquence qui a été assignée en application de l'article L. 42-2 ou est utilisée
+pour l'exercice de missions de service public, la cession est soumise à
+approbation de l'autorité.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article,
 et notamment :

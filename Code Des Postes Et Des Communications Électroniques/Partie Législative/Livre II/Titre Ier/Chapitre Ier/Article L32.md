@@ -49,8 +49,8 @@ groupe.
 5° Réseau interne.
 
 On entend par réseau interne un réseau de communications électroniques
-entièrement établi sur une même propriété, sans emprunter ni le domaine public -
-y compris hertzien - ni une propriété tierce.
+entièrement établi sur une même propriété, sans emprunter ni le domaine public-y
+compris hertzien-ni une propriété tierce.
 
 6° Services de communications électroniques.
 
@@ -61,9 +61,10 @@ distribuer des services de communication au public par voie électronique.
 
 7° Service téléphonique au public.
 
-On entend par service téléphonique au public l'exploitation commerciale pour le
-public du transfert direct de la voix en temps réel, entre utilisateurs fixes ou
-mobiles.
+On entend par service téléphonique au public un service permettant au public de
+passer et de recevoir, directement ou indirectement, des appels nationaux ou
+nationaux et internationaux, en composant un ou plusieurs numéros du plan
+national ou international de numérotation téléphonique.
 
 8° Accès.
 
@@ -157,13 +158,33 @@ métropolitaine, d'un département d'outre-mer, de Mayotte, de Saint-Barthélemy
 de Saint-Martin ou de Saint-Pierre-et-Miquelon à un autre opérateur de
 radiocommunications mobiles fournissant des services de communications mobiles
 sur réseau public terrestre dans un autre de ces territoires, en vue de
-permettre l'utilisation du réseau du premier, dit "opérateur du réseau visité",
-par les clients du second, dit "opérateur du réseau d'origine", pour émettre ou
-recevoir des communications à destination de l'un de ces territoires ou d'un
-Etat membre de la Communauté européenne.
+permettre l'utilisation du réseau du premier, dit " opérateur du réseau visité
+", par les clients du second, dit " opérateur du réseau d'origine ", pour
+émettre ou recevoir des communications à destination de l'un de ces territoires
+ou d'un Etat membre de l'Union européenne.
 
 18° Données relatives au trafic.
 
 On entend par données relatives au trafic toutes les données traitées en vue de
 l'acheminement d'une communication par un réseau de communications électroniques
 ou en vue de sa facturation.
+
+19° Ressources associées.
+
+On entend par ressources associées les infrastructures physiques et les autres
+ressources associées à un réseau de communications électroniques ou à un service
+de communications électroniques, qui concourent ou peuvent concourir à la
+fourniture de services via ce réseau ou ce service. Sont notamment considérés
+comme des ressources associées les bâtiments ou accès aux bâtiments, le câblage
+des bâtiments, les antennes, tours et autres constructions de soutènement, les
+gaines, conduites, pylônes, trous de visite et boîtiers.
+
+20° Services associés.
+
+On entend par services associés les services associés à un réseau ou à un
+service de communications électroniques et qui concourent ou peuvent concourir à
+la fourniture de services via ce réseau ou ce service. Sont notamment considérés
+comme des services associés les services de conversion du numéro d'appel, les
+systèmes d'accès conditionnel, les guides électroniques de programmes, ainsi que
+les services relatifs à l'identification, à la localisation et à la
+disponibilité de l'utilisateur.

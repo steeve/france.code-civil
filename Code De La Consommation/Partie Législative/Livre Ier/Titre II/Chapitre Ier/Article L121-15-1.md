@@ -4,4 +4,7 @@ Les publicités, et notamment les offres promotionnelles, telles que les rabais,
 les primes ou les cadeaux, ainsi que les concours ou les jeux promotionnels,
 adressés par courrier électronique, doivent pouvoir être identifiés de manière
 claire et non équivoque dès leur réception par leur destinataire, ou en cas
-d'impossibilité technique, dans le corps du message.
+d'impossibilité technique, dans le corps du message. Ces messages doivent
+indiquer une adresse ou moyen électronique permettant effectivement au
+destinataire de transmettre une demande visant à obtenir que ces publicités
+cessent.

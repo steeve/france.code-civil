@@ -10,3 +10,10 @@ internationales dans le domaine des communications électroniques. Elle
 participe, à la demande du ministre chargé des communications électroniques, à
 la représentation française dans les organisations internationales et
 communautaires compétentes en ce domaine.
+
+L'Autorité coopère avec les autorités compétentes des autres Etats membres de
+l'Union européenne, avec la Commission européenne et avec l'Organe des
+régulateurs européens des communications électroniques afin de veiller à une
+application coordonnée et cohérente de la réglementation. Elle tient le plus
+grand compte des avis, recommandations et lignes directrices de l'Organe des
+régulateurs européens des communications électroniques.

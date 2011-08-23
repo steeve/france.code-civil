@@ -31,13 +31,9 @@ limitées à ce qui est nécessaire pour faire face à l'urgence.
 L'autorité rend publiques ses décisions, sous réserve des secrets protégés par
 la loi. Elle les notifie aux parties.
 
-II.-En cas d'échec des négociations commerciales, l'Autorité de régulation des
-communications électroniques et des postes peut également être saisie des
-différends relatifs à la mise en oeuvre des obligations des opérateurs prévues
-par le présent titre, et le chapitre III du titre II, ainsi qu'à la mise en
-œuvre des dispositions de l'article 134 de la loi n° 2004-669 du 9 juillet 2004
-relative aux communications électroniques et aux services de communication
-audiovisuelle, notamment ceux portant sur :
+II.-En cas d'échec des négociations, l'Autorité de régulation des communications
+électroniques et des postes peut également être saisie des différends portant
+sur :
 
 1° Les possibilités et les conditions d'une utilisation partagée entre
 opérateurs, prévue à l'article L. 47, d'installations existantes situées sur le
@@ -47,8 +43,11 @@ sur une propriété privée ;
 2° Les conditions techniques et financières de la fourniture des listes
 d'abonnés prévue à l'article L. 34 ;
 
-2° bis La conclusion ou l'exécution de la convention d'itinérance locale prévue
-à l'article L. 34-8-1 ou de la convention d'accès prévue à l'article L. 34-8-3 ;
+2° bis La mise en œuvre des obligations des opérateurs prévues par le présent
+titre et le chapitre III du titre II, notamment ceux portant sur la conclusion
+ou l'exécution de la convention d'itinérance locale prévue à l'article L.
+34-8-1, de la convention d'accès prévue à l'article L. 34-8-3 ou de la
+convention d'accès prévue à l'article L. 34-8-4 ;
 
 3° Les conditions techniques et financières de la mise en œuvre de l'utilisation
 partagée des infrastructures publiques de génie civil prévue à l'article 134 de
@@ -57,7 +56,11 @@ la loi n° 2004-669 du 9 juillet 2004 précitée ;
 4° Les conditions techniques et tarifaires d'exercice d'une activité d'opérateur
 de communications électroniques ou d'établissement, de mise à disposition ou de
 partage des réseaux et infrastructures de communications électroniques visés à
-l'article L. 1425-1 du code général des collectivités territoriales.
+l'article L. 1425-1 du code général des collectivités territoriales ;
+
+5° Les conditions réciproques techniques et tarifaires d'acheminement du trafic
+entre un opérateur et une entreprise fournissant des services de communication
+au public en ligne.
 
 Elle se prononce sur ces différends dans les conditions de forme et de procédure
 prévues au I. En outre, elle procède à une consultation publique de toutes les
@@ -87,9 +90,15 @@ Paris.
 Le pourvoi en cassation formé le cas échéant contre l'arrêt de la cour d'appel
 est exercé dans le délai d'un mois suivant la notification de cet arrêt.
 
-V.-Lorsqu'une des parties est établie dans un autre Etat membre de la Communauté
+V.-Lorsqu'une des parties est établie dans un autre Etat membre de l'Union
 européenne et que le différend est également porté devant les autorités
 compétentes d'autres Etats membres, l'Autorité de régulation des communications
 électroniques et des postes coordonne son action avec celle de ces autorités.
-Les règles de procédure définies aux I et II sont applicables, à l'exception de
-celles qui sont relatives aux délais.
+Dans le cas où l'autorité compétente de cet autre Etat membre de l'Union
+européenne sollicite l'avis de l'Organe des régulateurs européens des
+communications électroniques sur les modalités de règlement du litige en
+conformité avec les directives européennes applicables, l'Autorité sursoit à
+statuer dans l'attente de cet avis sans préjudice toutefois de l'application des
+dispositions du quatrième alinéa du I du présent article. L'Autorité tient le
+plus grand compte de l'avis de l'Organe des régulateurs européens des
+communications électroniques pour prendre sa décision.

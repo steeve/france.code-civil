@@ -1,17 +1,19 @@
 Article L44
 ----
-I. - Le plan national de numérotation téléphonique est établi par l'Autorité de
+I.-Le plan national de numérotation téléphonique est établi par l'Autorité de
 régulation des communications électroniques et des postes et géré sous son
 contrôle. Il garantit un accès égal et simple des utilisateurs aux différents
 réseaux et services de communications électroniques et l'équivalence des formats
 de numérotation. Il permet, sous réserve de faisabilité technique et économique,
-aux utilisateurs situés dans d'autres Etats membres de la Communauté européenne
+aux utilisateurs situés dans d'autres Etats membres de l'Union européenne
 d'accéder aux numéros non géographiques accessibles sur l'ensemble du territoire
 national.
 
 L'autorité identifie, au sein du plan national de numérotation téléphonique, la
-liste des numéros ou blocs de numéros pouvant être surtaxés. Les numéros ou
-blocs de numéros qui ne figurent pas sur cette liste ne sont pas surtaxés.
+liste des numéros ou blocs de numéros pouvant être surtaxés. Elle peut fixer les
+principes de tarification et les prix maximaux applicables à ces numéros. Les
+numéros ou blocs de numéros qui ne figurent pas sur cette liste ne sont pas
+surtaxés.
 
 L'autorité attribue, dans des conditions objectives, transparentes et non
 discriminatoires, aux opérateurs qui le demandent, des préfixes et des numéros
@@ -28,7 +30,9 @@ ressources attribuées ;
 
 c) Le cas échéant, les prescriptions relatives à la portabilité du numéro ;
 
-d) La durée de l'attribution, qui ne peut être supérieure à vingt ans.
+d) La durée de l'attribution, qui ne peut être supérieure à vingt ans. Cette
+durée doit être adaptée au service concerné et tenir compte de la durée
+nécessaire à l'amortissement de l'investissement.
 
 L'autorité attribue aux opérateurs, dans les mêmes conditions, les codes
 utilisés pour l'acheminement des communications électroniques qui ne relèvent
@@ -38,7 +42,7 @@ L'autorité veille à la bonne utilisation des préfixes, numéros, blocs de num
 et codes attribués. Ceux-ci ne peuvent être protégés par un droit de propriété
 industrielle ou intellectuelle et ne peuvent faire l'objet d'un transfert
 qu'après accord de l'Autorité de régulation des communications électroniques et
-des postes.
+des postes et selon des modalités définies par elle.
 
 Les opérateurs sont tenus de proposer à un tarif raisonnable à leurs abonnés les
 offres permettant à ces derniers de conserver leur numéro géographique
@@ -59,24 +63,27 @@ minimales d'engagement, le portage effectif du numéro entraîne la résiliation
 contrat qui lie cet opérateur à l'abonné au plus tard dans le délai de dix jours
 précité.
 
+Tout retard ou abus dans la prestation de conservation du numéro donne lieu à
+indemnisation de l'abonné.
+
 Un décret, pris après avis de l'Autorité de régulation des communications
 électroniques et des postes, de la Commission supérieure du service public des
 postes et des communications électroniques et du Conseil national de la
 consommation, précise les modalités d'application des deux alinéas précédents.
 
-II. - Chaque attribution par l'Autorité de régulation des communications
+II.-Chaque attribution par l'Autorité de régulation des communications
 électroniques et des postes de ressources de numérotation à un opérateur donne
 lieu au paiement par cet opérateur d'une taxe due par année civile, y compris
 l'année de l'attribution.
 
 Pour le calcul de la taxe, un arrêté signé du ministre chargé des communications
 électroniques et du ministre chargé du budget fixe la valeur d'une unité de base
-"a", qui ne peut excéder 0,023 euros. Cette valeur est fixée après avis de
+" a ", qui ne peut excéder 0,023 euros. Cette valeur est fixée après avis de
 l'Autorité de régulation des communications électroniques et des postes.
 
 Le montant de la taxe dû par l'opérateur est fixé :
 
-1° Pour chaque numéro à dix chiffres attribué, à la valeur de l'unité "a" ;
+1° Pour chaque numéro à dix chiffres attribué, à la valeur de l'unité " a " ;
 
 2° Pour chaque numéro à six chiffres attribué, à un montant égal à 2 000 000 a ;
 
@@ -115,3 +122,8 @@ et des postes, dans le cadre d'une restructuration du plan national de
 numérotation, de nouvelles ressources se substituant aux ressources déjà
 attribuées à un opérateur, jusqu'à l'achèvement de la substitution des nouvelles
 ressources aux anciennes.
+
+III.-Les opérateurs traitent l'ensemble des appels à destination et en
+provenance de l'Espace de numérotation téléphonique européen à des tarifs
+similaires à ceux qu'ils appliquent aux appels à destination et en provenance
+des Etats membres de l'Union européenne autres que la France.

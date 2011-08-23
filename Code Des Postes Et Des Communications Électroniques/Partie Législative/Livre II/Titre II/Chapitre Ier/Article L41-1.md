@@ -2,7 +2,11 @@ Article L41-1
 ----
 Sauf dans les cas mentionnés à l'article L. 33-3, l'utilisation de fréquences
 radioélectriques en vue d'assurer soit l'émission, soit à la fois l'émission et
-la réception de signaux est soumise à autorisation administrative.
+la réception de signaux peut être soumise à autorisation administrative lorsque
+cela est nécessaire pour éviter les brouillages préjudiciables, assurer la
+qualité technique du service, préserver l'efficacité de l'utilisation des
+fréquences radioélectriques ou pour réaliser l'un des objectifs d'intérêt
+général mentionnés à l'article L. 32-1 et au III de l'article L. 42.
 
 Est également soumise à autorisation administrative l'utilisation d'une
 installation radioélectrique en vue d'assurer la réception de signaux transmis

@@ -29,11 +29,23 @@ public des communications électroniques ;
 
 2° A l'exercice au bénéfice des utilisateurs d'une concurrence effective et
 loyale entre les exploitants de réseau et les fournisseurs de services de
-communications électroniques ;
+communications électroniques. A ce titre, ils veillent à l'exercice de la
+concurrence relative à la transmission des contenus et, lorsque cela est
+approprié, à la promotion d'une concurrence fondée sur les infrastructures ;
 
-3° Au développement de l'emploi, de l'investissement efficace dans les
-infrastructures, de l'innovation et de la compétitivité dans le secteur des
-communications électroniques ;
+3° Au développement de l'emploi, de l'investissement efficace notamment dans les
+infrastructures améliorées et de nouvelle génération, de l'innovation et de la
+compétitivité dans le secteur des communications électroniques ;
+
+3° bis A tenir compte, lorsqu'ils fixent des obligations en matière d'accès, du
+risque assumé par les entreprises qui investissent et à autoriser des modalités
+de coopération entre les investisseurs et les personnes recherchant un accès,
+afin de diversifier le risque d'investissement dans le respect de la concurrence
+sur le marché et du principe de non-discrimination ;
+
+3° ter A tenir compte de la diversité des situations en matière de concurrence
+et de consommation dans les différentes zones géographiques du territoire
+national ;
 
 4° A la définition de conditions d'accès aux réseaux ouverts au public et
 d'interconnexion de ces réseaux qui garantissent la possibilité pour tous les
@@ -53,8 +65,8 @@ communications électroniques de l'ordre public et des obligations de défense e
 de sécurité publique ;
 
 7° A la prise en compte de l'intérêt de l'ensemble des territoires et des
-utilisateurs, notamment handicapés, dans l'accès aux services et aux équipements
-;
+utilisateurs, notamment handicapés, âgés ou ayant des besoins sociaux
+spécifiques, dans l'accès aux services et aux équipements ;
 
 8° Au développement de l'utilisation partagée entre opérateurs des installations
 mentionnées aux articles L. 47 et L. 48 ;
@@ -81,15 +93,30 @@ l'environnement ;
 technologique, des mesures qu'ils prennent ;
 
 14° A l'intégrité et la sécurité des réseaux de communications électroniques
-ouverts au public.
+ouverts au public ;
+
+15° A favoriser la capacité des utilisateurs finals à accéder à l'information et
+à en diffuser ainsi qu'à accéder aux applications et services de leur choix ;
+
+16° A promouvoir les numéros européens harmonisés pour des services à objet
+social et à contribuer à l'information des utilisateurs finals lorsque des
+services sont fournis ;
+
+17° A ce que tous les types de technologies et tous les types de services de
+communications électroniques puissent être utilisés dans les bandes de
+fréquences disponibles pour ces services lorsque cela est possible ;
+
+Ils assurent l'adaptation du cadre réglementaire à des échéances appropriées et
+de manière prévisible pour les différents acteurs du secteur.
 
 III.-Lorsque, dans le cadre des dispositions du présent code, le ministre chargé
 des communications électroniques et l'Autorité de régulation des communications
 électroniques et des postes envisagent d'adopter des mesures ayant une incidence
-importante sur un marché, ils rendent publiques les mesures envisagées dans un
-délai raisonnable avant leur adoption et recueillent les observations qui sont
-faites à leur sujet. Le résultat de ces consultations est rendu public, sous
-réserve des secrets protégés par la loi.
+importante sur un marché ou affectant les intérêts des utilisateurs finals, ils
+rendent publiques les mesures envisagées dans un délai raisonnable avant leur
+adoption et recueillent les observations qui sont faites à leur sujet. Le
+résultat de ces consultations est rendu public, sous réserve des secrets
+protégés par la loi.
 
 L'autorité met en place un service permettant de prendre connaissance des
 consultations prévues par l'alinéa précédent.
