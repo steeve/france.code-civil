@@ -223,7 +223,8 @@ représentant ;
 -le président de la Fédération française de randonnée pédestre ou son
 représentant ;
 
--le président de l'Institut géographique national (IGN) ou son représentant ;
+-le président de l'Institut national de l'information géographique et forestière
+ou son représentant ;
 
 -le président du Conseil supérieur de l'œnotourisme ou son représentant ;
 
@@ -342,4 +343,4 @@ son représentant ;
 -quatre représentants d'associations de personnes handicapées ;
 
 10° Douze personnalités qualifiées choisies par le ministre chargé du tourisme
-en fonction de leur compétence en matière de tourisme.
+en fonction de leur compétence en matière de tourisme

@@ -1,5 +1,8 @@
 Article D6123-16
 ----
-Le président et les membres de chaque commission sont désignés par arrêté du
-ministre chargé de la formation professionnelle parmi les membres siégeant au
-Conseil national de la formation professionnelle tout au long de la vie.
+Les présidents des commissions mentionnées aux 1° et 2° de l'article D. 6123-14
+sont désignés par le Premier ministre après avis du président du conseil.
+
+La commission mentionnée au 3° de l'article D. 6123-14 est présidée par le
+président du conseil assisté par les présidents des commissions mentionnées aux
+1°, 2° et 4° du même article.
