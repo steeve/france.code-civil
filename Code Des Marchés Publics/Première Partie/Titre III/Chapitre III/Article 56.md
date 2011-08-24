@@ -1,6 +1,6 @@
 Article 56
 ----
-I. - Dans toutes les procédures de passation des marchés publics et
+I. ― Dans toutes les procédures de passation des marchés publics et
 accords-cadres, les documents écrits mentionnés par le présent code peuvent être
 remplacés par un échange électronique ou par la production de supports physiques
 électroniques, selon les dispositions prévues au présent article. Le mode de
@@ -10,17 +10,16 @@ l'absence de cet avis, dans les documents de la consultation.
 Les candidats appliquent le même mode de transmission à l'ensemble des documents
 qu'ils adressent au pouvoir adjudicateur.
 
-II. - Le pouvoir adjudicateur peut imposer la transmission des candidatures et
+II. ― Le pouvoir adjudicateur peut imposer la transmission des candidatures et
 des offres par voie électronique.
 
 Pour les achats de fournitures de matériels informatiques et de services
 informatiques d'un montant supérieur à 90 000 euros HT, les candidatures et les
 offres sont transmises par voie électronique.
 
-III. - A compter du 1er janvier 2012, pour les achats de fournitures, de
-services ou de travaux d'un montant supérieur à 90 000 euros HT, le pouvoir
-adjudicateur ne peut refuser de recevoir les documents requis des candidats qui
-sont transmis par voie électronique.
+III. - Pour les marchés d'un montant supérieur à 90 000 euros HT, le pouvoir
+adjudicateur ne peut refuser de recevoir les documents transmis par voie
+électronique.
 
 IV. - Dans les cas où la transmission électronique est obligatoire et dans ceux
 où elle est une faculté donnée aux candidats, le pouvoir adjudicateur assure la
