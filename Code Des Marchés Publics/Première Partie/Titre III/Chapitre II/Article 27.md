@@ -38,8 +38,8 @@ Les pouvoirs adjudicateurs peuvent décider de mettre en oeuvre soit une
 procédure commune de mise en concurrence pour l'ensemble des lots, soit une
 procédure de mise en concurrence propre à chaque lot. Quelle que soit l'option
 retenue, lorsque la valeur cumulée des lots est égale ou supérieure aux seuils
-prévus au II de l'article 26, la ou les procédures à mettre en oeuvre sont les
-procédures formalisées mentionnées au I du même article.
+de procédure formalisée définis à l'article 26, la ou les procédures à mettre en
+œuvre sont les procédures formalisées mentionnées au I de cet article.
 
 Toutefois, même si la valeur totale des lots est égale ou supérieure aux seuils
 des marchés formalisés, il est possible de recourir à une procédure adaptée :
@@ -72,5 +72,5 @@ d'acquisition dynamique.
 
 VI. - Pour les marchés à bons de commande comportant un maximum, la valeur à
 prendre en compte correspond à ce maximum. Si le marché ne fixe pas de maximum,
-sa valeur estimée est réputée excéder les seuils mentionnés au II de l'article
-26 du présent code.
+sa valeur estimée est réputée excéder les seuils de procédure formalisée définis
+à l'article 26.

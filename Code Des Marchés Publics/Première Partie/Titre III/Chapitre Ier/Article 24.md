@@ -39,12 +39,11 @@ président du jury.
 
 Tous les membres du jury ont voix délibérative.
 
-II.-Le comptable public et un représentant du directeur général de la
-concurrence, de la consommation et de la répression des fraudes sont invités à
-participer aux jurys de l'Etat. Ils peuvent participer, lorsqu'ils y sont
-invités par le président du jury, aux jurys des collectivités territoriales. Ils
-ont voix consultative. Leurs observations sont consignées au procès-verbal à
-leur demande.
+II.-Le comptable public et un représentant du service en charge de la
+concurrence sont invités à participer aux jurys de l'Etat. Ils peuvent
+participer, lorsqu'ils y sont invités par le président du jury, aux jurys des
+collectivités territoriales. Ils ont voix consultative. Leurs observations sont
+consignées au procès-verbal à leur demande.
 
 III.-Le président du jury peut, en outre, faire appel au concours d'agents du
 pouvoir adjudicateur compétents dans la matière qui fait l'objet de la

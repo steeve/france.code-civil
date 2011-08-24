@@ -17,32 +17,22 @@ la notification à l'ensemble des candidats intéressés.
 
 La notification de l'attribution du marché ou de l'accord-cadre comporte
 l'indication de la durée du délai de suspension que le pouvoir adjudicateur
-s'impose, eu égard notamment au mode de transmission retenu.
+s'impose, eu égard notamment au mode de transmission retenu. 2° Le respect des
+délais mentionnés au 1° n'est pas exigé, d'une part, dans le cas d'attribution
+du marché au seul opérateur ayant participé à la consultation, d'autre part,
+dans le cas des marchés fondés sur un accord-cadre ou un système d'acquisition
+dynamique. 3° Pour rendre applicables les dispositions du premier alinéa de
+l'article L. 551-15 du code de justice administrative, le pouvoir adjudicateur
+ayant fait publier l'avis prévu par l'article 40-1 du présent code respecte un
+délai d'au moins onze jours entre la date de publication de cet avis et la date
+de conclusion du marché.
 
-2° Le respect des délais mentionnés au 1° n'est pas exigé :
-
-a) Dans le cas des appels d'offres ou des marchés négociés, lorsque le marché
-est attribué au seul candidat ayant présenté une offre répondant aux exigences
-indiquées dans l'avis d'appel public à la concurrence ou dans les documents de
-la consultation ;
-
-b) Dans le cas des marchés fondés sur un accord-cadre ou un système
-d'acquisition dynamique.
-
-3° Pour rendre applicables les dispositions du premier alinéa de l'article L.
-551-15 du code de justice administrative, le pouvoir adjudicateur ayant fait
-publier l'avis prévu par l'article 40-1 du présent code respecte un délai d'au
-moins onze jours entre la date de publication de cet avis et la date de
-conclusion du marché.
-
-Pour rendre applicables les dispositions du second alinéa du même article, le
-pouvoir adjudicateur notifie la décision d'attribution du marché aux titulaires
-d'un accord-cadre ou d'un système d'acquisition dynamique, en indiquant le nom
-du candidat retenu ainsi que les motifs ayant conduit au choix de son offre, et
-respecte un délai d'au moins seize jours entre la date d'envoi de cette
-notification et la date de conclusion du marché, délai réduit à au moins onze
-jours en cas de transmission électronique de la notification à l'ensemble des
-titulaires intéressés.
+Pour rendre applicables aux marchés fondés sur un accord-cadre ou un système
+d'acquisition dynamique les dispositions du second alinéa du même article, le
+pouvoir adjudicateur respecte un délai d'au moins seize jours entre la date
+d'envoi de la notification prévue au 1° et la date de conclusion du marché. Ce
+délai est réduit à au moins onze jours en cas de transmission électronique de la
+notification à l'ensemble des titulaires intéressés.
 
 4° Le marché ou l'accord-cadre peut être signé électroniquement, selon les
 modalités fixées par un arrêté du ministre chargé de l'économie.

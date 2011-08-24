@@ -17,13 +17,11 @@ II.-L'avis d'attribution est publié dans l'organe qui a assuré la publication 
 l'avis d'appel public à la concurrence et selon les mêmes modalités de
 transmission que celles définies à l'article 150 du présent code.
 
-III.-Pour les marchés de fournitures et de services d'un montant égal ou
-supérieur à 387 000 euros HT et pour les marchés de travaux d'un montant égal ou
-supérieur à 4 845 000 euros HT, l'avis est établi pour la publication au Journal
-officiel de l'Union européenne conformément aux modèles fixés par le règlement
-(CE) n° 1564 / 2005 susmentionné. Cet avis est conforme au modèle prévu par
-arrêté du ministre chargé de l'économie lorsqu'il est établi pour la publication
-au Bulletin officiel des annonces des marchés publics.
+III. ― Pour les marchés d'un montant égal ou supérieur aux seuils de procédure
+formalisée définis au III de l'article 144, l'avis est établi pour la
+publication au Bulletin officiel des annonces des marchés publics et au Journal
+officiel de l'Union européenne conformément au modèle fixé par le règlement (CE)
+n° 1564/2005 susmentionné.
 
 IV.-Pour les marchés relevant de l'article 148 d'un montant égal ou supérieur à
 387 000 euros HT, l'entité adjudicatrice adresse un avis d'attribution à

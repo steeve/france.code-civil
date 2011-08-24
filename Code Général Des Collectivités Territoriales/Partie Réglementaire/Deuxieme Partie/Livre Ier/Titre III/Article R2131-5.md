@@ -19,7 +19,7 @@ est obligatoire ;
 commission de la procédure de dialogue compétitif et les avis du jury de
 concours, avec les noms et qualités des personnes qui y ont siégé, ainsi que le
 rapport de présentation de la personne responsable du marché prévu par l'article
-75 du code des marchés publics ;
+79 du code des marchés publics ;
 
 6° Les renseignements, attestations et déclarations fournis en vertu des
 articles 45 et 46 du code des marchés publics.

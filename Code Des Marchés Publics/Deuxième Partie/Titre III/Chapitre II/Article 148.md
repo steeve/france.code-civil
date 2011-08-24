@@ -7,7 +7,8 @@ par l'article 146.
 
 II.-Toutefois :
 
-1° Les dispositions du III de l'article 150 ne sont pas applicables ;
+1° Les dispositions du III de l'article 150 et du troisième alinéa de l'article
+41 ne sont pas applicables ;
 
 2° Lorsque le montant estimé des prestations demandées est égal ou supérieur à
 387 000 euros HT, elles sont définies conformément aux dispositions de l'article

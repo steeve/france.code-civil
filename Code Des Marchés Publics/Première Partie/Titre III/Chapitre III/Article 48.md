@@ -1,9 +1,12 @@
 Article 48
 ----
 I.-Les offres sont présentées sous la forme de l'acte d'engagement défini à
-l'article 11. Lorsqu'elles sont transmises par voie électronique, la signature
-de l'acte d'engagement est présentée selon les modalités prévues par un arrêté
-du ministre chargé de l'économie.
+l'article 11.
+
+L'acte d'engagement pour un marché ou un accord-cadre passé selon une procédure
+formalisée, lorsque l'offre est transmise par voie électronique, est signé
+électroniquement dans des conditions fixées par arrêté du ministre chargé de
+l'économie.
 
 Sans préjudice des dispositions prévues à l'article 56 relatives à la copie de
 sauvegarde, les offres sont transmises en une seule fois. Si plusieurs offres

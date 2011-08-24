@@ -22,9 +22,7 @@ présentation. Dans ce cas, seules les variantes répondant à ces exigences
 minimales sont prises en considération. Toutefois, la mention des exigences
 minimales et des modalités de leur présentation peut être succincte.
 
-III. - Les variantes sont proposées avec l'offre de base.
-
-Pour les marchés de fournitures ou de services, une variante ne peut être
+III. -Pour les marchés de fournitures ou de services, une variante ne peut être
 rejetée au seul motif qu'elle aboutirait, si elle était retenue, respectivement
 soit à un marché de services au lieu d'un marché de fournitures, soit à un
 marché de fournitures au lieu d'un marché de services.

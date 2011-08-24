@@ -1,10 +1,10 @@
 Article 78
 ----
 I. - 1° Un système d'acquisition dynamique est une procédure entièrement
-électronique de passation de marché public, pour des fournitures courantes, par
-lequel le pouvoir adjudicateur attribue, après mise en concurrence, un ou
-plusieurs marchés à l'un des opérateurs préalablement sélectionnés sur la base
-d'une offre indicative.
+électronique de passation de marché public, pour des fournitures et services
+courants, par lequel le pouvoir adjudicateur attribue, après mise en
+concurrence, un ou plusieurs marchés à l'un des opérateurs préalablement
+sélectionnés sur la base d'une offre indicative.
 
 Le système d'acquisition dynamique est créé pour une durée maximale de quatre
 ans, sauf dans des cas exceptionnels dûment justifiés.

@@ -18,14 +18,11 @@ II.-L'avis d'attribution est publié dans l'organe qui a assuré la publication 
 l'avis d'appel public à la concurrence et selon les mêmes modalités de
 transmission que celles définies à l'article 40 du présent code.
 
-III.-Pour les marchés de fournitures et de services d'un montant égal ou
-supérieur à 125 000 euros HT pour l'Etat et 193 000 euros HT pour les
-collectivités territoriales et pour les marchés de travaux d'un montant égal ou
-supérieur à 4 845 000 euros HT, l'avis est établi pour la publication au Journal
-officiel de l'Union européenne conformément au modèle fixé par le règlement (CE)
-n° 1564 / 2005 susmentionné. Cet avis est conforme au modèle prévu par arrêté du
-ministre chargé de l'économie lorsqu'il est établi pour la publication au
-Bulletin officiel des annonces des marchés publics.
+III. ― Pour les marchés d'un montant égal ou supérieur aux seuils de procédure
+formalisée définis à l'article 26, l'avis est établi pour la publication au
+Bulletin officiel des annonces des marchés publics et au Journal officiel de
+l'Union européenne conformément au modèle fixé par le règlement (CE) n°
+1564/2005 susmentionné.
 
 IV.-Pour les marchés relevant de l'article 30 d'un montant égal ou supérieur à
 193 000 euros HT, le pouvoir adjudicateur adresse l'avis d'attribution à

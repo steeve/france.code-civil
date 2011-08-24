@@ -63,11 +63,10 @@ consultation ou en matière de marchés publics.
 
 Pour les marchés et accords-cadres des groupements mentionnés aux 2°, 3° et, le
 cas échéant, 4° du I, le comptable du coordonnateur du groupement, si celui-ci
-est un comptable public et un représentant du directeur général de la
-concurrence, de la consommation et de la répression des fraudes, peuvent
-participer, avec voix consultative, aux réunions de la commission d'appel
-d'offres, lorsqu'ils y sont invités. Leurs observations sont consignées au
-procès-verbal.
+est un comptable public, et un représentant du service en charge de la
+concurrence peuvent participer, avec voix consultative, aux réunions de la
+commission d'appel d'offres, lorsqu'ils y sont invités. Leurs observations sont
+consignées au procès-verbal.
 
 V. - Pour les groupements dans lesquels les collectivités territoriales ou les
 établissements publics locaux autres qu'un établissement public social ou
@@ -90,8 +89,10 @@ territoriales ou les établissements publics locaux sont majoritaires obéissent
 aux règles prévues par le présent code pour les collectivités territoriales.
 
 Dans les autres cas, les marchés obéissent aux règles prévues par le présent
-code pour les marchés de l'Etat.VI.-Chaque membre du groupement, pour ce qui le
-concerne, signe le marché et s'assure de sa bonne exécution.
+code pour les marchés de l'Etat.
+
+VI.-Chaque membre du groupement, pour ce qui le concerne, signe le marché et
+s'assure de sa bonne exécution.
 
 VII.-La convention constitutive du groupement peut aussi avoir prévu que le
 coordonnateur sera chargé :

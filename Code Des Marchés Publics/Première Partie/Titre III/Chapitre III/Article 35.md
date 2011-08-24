@@ -84,9 +84,10 @@ une incompatibilité avec le matériel déjà acquis ou des difficultés techniq
 d'utilisation et d'entretien disproportionnées. La durée de ces marchés
 complémentaires, périodes de reconduction comprises, ne peut dépasser trois ans.
 Le montant total du marché, livraisons complémentaires comprises, ne peut être
-égal ou supérieur aux seuils fixés au II de l'article 26, sauf si le marché a
-été passé initialement par appel d'offres et a fait l'objet d'un avis d'appel
-public à la concurrence publié au Journal officiel de l'Union européenne ;
+égal ou supérieur aux seuils de procédure formalisée définis à l'article 26,
+sauf si le marché a été passé initialement par appel d'offres et a fait l'objet
+d'un avis d'appel public à la concurrence publié au Journal officiel de l'Union
+européenne ;
 
 5° Les marchés complémentaires de services ou de travaux qui consistent en des
 prestations qui ne figurent pas dans le marché initialement conclu mais qui sont
@@ -125,7 +126,7 @@ opérateur économique déterminé pour des raisons techniques, artistiques ou
 tenant à la protection de droits d'exclusivité ;
 
 9° Les marchés et les accords-cadres ayant pour objet l'achat de matières
-premières cotées et achetées en bourse ;
+premières cotées et achetées en Bourse ;
 
 10° Les marchés et les accords-cadres ayant pour objet l'achat de fournitures à
 des conditions particulièrement avantageuses, soit auprès d'un fournisseur en

@@ -1,11 +1,11 @@
 Article 146
 ----
-Lorsque leur valeur estimée est inférieure au seuil mentionné au III de
-l'article 144, les marchés peuvent être passés selon une procédure adaptée dont
-les modalités sont librement fixées par l'entité adjudicatrice en fonction de la
-nature et des caractéristiques du besoin à satisfaire, du nombre ou de la
-localisation des opérateurs économiques susceptibles d'y répondre ainsi que des
-circonstances de l'achat.
+Lorsque leur valeur estimée est inférieure aux seuils de procédure formalisée
+définis au III de l'article 144, les marchés peuvent être passés selon une
+procédure adaptée dont les modalités sont librement fixées par l'entité
+adjudicatrice en fonction de la nature et des caractéristiques du besoin à
+satisfaire, du nombre ou de la localisation des opérateurs économiques
+susceptibles d'y répondre ainsi que des circonstances de l'achat.
 
 Pour la détermination de ces modalités, l'entité adjudicatrice peut aussi
 s'inspirer des procédures formalisées prévues par le présent code, sans pour

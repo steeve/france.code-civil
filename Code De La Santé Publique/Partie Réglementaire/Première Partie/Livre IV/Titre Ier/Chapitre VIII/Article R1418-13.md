@@ -56,5 +56,5 @@ article. Celui-ci lui rend compte chaque année des décisions prises.
 
 Le directeur général informe chaque année le conseil d'administration des
 contrats, marchés publics ou conventions conclus l'année précédente dans les
-conditions prévues à l'article 138 du code des marchés publics, ainsi que des
+conditions prévues à l'article 133 du code des marchés publics, ainsi que des
 nouveaux traitements de données à caractère personnel mis en œuvre par l'agence.

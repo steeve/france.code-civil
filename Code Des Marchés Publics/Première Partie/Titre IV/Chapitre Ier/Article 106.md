@@ -1,10 +1,11 @@
 Article 106
 ----
-Le pouvoir adjudicateur remet au titulaire soit une copie de l'original du
-marché revêtue d'une mention dûment signée, par lui, indiquant que cette pièce
-est délivrée en unique exemplaire en vue de permettre au titulaire de céder ou
-de nantir des créances résultant du marché, soit un certificat de cessibilité
-conforme à un modèle défini par arrêté du ministre chargé de l'économie.
+Le pouvoir adjudicateur remet au titulaire à sa demande soit une copie de
+l'original du marché revêtue d'une mention dûment signée, par lui, indiquant que
+cette pièce est délivrée en unique exemplaire en vue de permettre au titulaire
+de céder ou de nantir des créances résultant du marché, soit un certificat de
+cessibilité conforme à un modèle défini par arrêté du ministre chargé de
+l'économie.
 
 La dématérialisation du certificat de cessibilité, établi selon un modèle
 électronique, s'effectue suivant les modalités prévues par un arrêté du ministre

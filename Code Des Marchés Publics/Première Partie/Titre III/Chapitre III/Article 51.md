@@ -22,7 +22,9 @@ obligations contractuelles à l'égard du pouvoir adjudicateur.
 
 III. - En cas de groupement conjoint, l'acte d'engagement est un document unique
 qui indique le montant et la répartition détaillée des prestations que chacun
-des membres du groupement s'engage à exécuter.
+des membres du groupement s'engage à exécuter. Pour les accords-cadres et les
+marchés à bons de commande, l'acte d'engagement peut n'indiquer que la
+répartition des prestations.
 
 En cas de groupement solidaire, l'acte d'engagement est un document unique qui
 indique le montant total du marché et l'ensemble des prestations que les membres

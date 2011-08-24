@@ -17,7 +17,7 @@ non soumises au code des marchés publics ;
 soumis au présent code ou à l'ordonnance du 6 juin 2005 susmentionnée, lorsque
 ce pouvoir adjudicateur bénéficie, sur le fondement d'une disposition légalement
 prise, d'un droit exclusif, à condition que cette disposition soit compatible
-avec le traité instituant la Communauté européenne ;
+avec le traité sur le fonctionnement de l'Union européenne ;
 
 3° Accords-cadres et marchés de services qui ont pour objet l'acquisition ou la
 location, quelles qu'en soient les modalités financières, de terrains, de

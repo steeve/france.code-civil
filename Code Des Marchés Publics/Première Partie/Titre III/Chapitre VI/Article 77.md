@@ -7,8 +7,8 @@ opérateurs économiques, ceux-ci sont au moins au nombre de trois, sous réserv
 d'un nombre suffisant de candidats et d'offres.
 
 Dans ce marché le pouvoir adjudicateur a la faculté de prévoir un minimum et un
-maximum en valeur ou en quantité, ou un minimum, ou un maximum, ou encore être
-conclus sans minimum ni maximum.
+maximum en valeur ou en quantité, ou un minimum, ou un maximum, ou prévoir que
+le marché est conclu sans minimum ni maximum.
 
 L'émission des bons de commande s'effectue sans négociation ni remise en
 concurrence préalable des titulaires, selon des modalités expressément prévues

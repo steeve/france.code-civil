@@ -8,7 +8,7 @@ marchés suivants passés par les entités adjudicatrices définies à l'article
 soumise à la présente partie ou à l'ordonnance du 6 juin 2005 susmentionnée,
 lorsque cette entité adjudicatrice bénéficie, sur le fondement d'une disposition
 légalement prise, d'un droit exclusif, à condition que cette disposition soit
-compatible avec le traité instituant la Communauté européenne ;
+compatible avec le traité sur le fonctionnement de l'Union européenne ;
 
 2° Accords-cadres et marchés de services qui ont pour objet l'acquisition ou la
 location, quelles qu'en soient les modalités financières, de terrains, de

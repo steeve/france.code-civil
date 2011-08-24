@@ -2,7 +2,7 @@ Article R300-9-1
 ----
 1° Lorsque le montant total des produits de l'opération d'aménagement qui fait
 l'objet de la concession est égal ou supérieur au seuil mentionné pour les
-marchés de travaux par le 2° du IV de l'article 40 du code des marchés publics,
+marchés de travaux par le 5° du II de l'article 26 du code des marchés publics,
 la personne publique, dès qu'elle a fait son choix pour une candidature ou une
 offre, notifie à tous les autres candidats le rejet de leur candidature ou de
 leur offre, en leur indiquant les motifs de ce rejet.

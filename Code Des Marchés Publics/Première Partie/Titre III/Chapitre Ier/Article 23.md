@@ -13,7 +13,7 @@ subventionnés par l'Etat ;
 leur compétence dans la matière qui fait l'objet de la consultation.
 
 II. - Lorsqu'ils y sont invités par le président de la commission d'appel
-d'offres, le comptable public et un représentant du directeur général de la
-concurrence, de la consommation et de la répression des fraudes peuvent
-participer, avec voix consultative, aux réunions de la commission d'appel
-d'offres. Leurs observations sont consignées au procès-verbal.
+d'offres, le comptable public et un représentant du service en charge de la
+concurrence peuvent participer, avec voix consultative, aux réunions de la
+commission d'appel d'offres. Leurs observations sont consignées au
+procès-verbal.
