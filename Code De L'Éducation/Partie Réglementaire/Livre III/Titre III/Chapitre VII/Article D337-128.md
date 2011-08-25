@@ -1,13 +1,15 @@
 Article D337-128
 ----
-Le candidat à l'admission dans le cycle d'études par la voie scolaire dépose un
-dossier auprès de l'établissement dans lequel il souhaite s'inscrire. Ce dossier
-comporte les résultats scolaires des deux dernières années et, si
-l'établissement le juge nécessaire, des travaux personnels.
+Sur décision du recteur prise après avis de l'équipe pédagogique de la classe de
+l'établissement d'accueil, peuvent également être admis en formation, sous
+statut scolaire, les candidats qui ne relèvent pas du sixième alinéa de
+l'article D. 337-127.
 
-Le dossier est soumis à l'appréciation d'une commission présidée par le chef de
-l'établissement ou son représentant et composée de professeurs enseignant dans
-ce cycle d'études et d'un conseiller de l'enseignement technologique.
+Pour ces candidats, l'admission en formation relève d'une décision de
+positionnement prononcée par le recteur. Cette décision peut avoir pour effet de
+réduire ou d'allonger la durée du cycle fixée à l'article D. 337-129.
 
-La décision d'admission est prononcée par le chef d'établissement sur
-proposition de la commission.
+La décision de positionnement prend en compte les études suivies en France ou à
+l'étranger, les titres ou diplômes français ou étrangers possédés, les
+compétences professionnelles que les candidats peuvent faire valoir ainsi que
+les dispenses d'unités dont ils bénéficient.

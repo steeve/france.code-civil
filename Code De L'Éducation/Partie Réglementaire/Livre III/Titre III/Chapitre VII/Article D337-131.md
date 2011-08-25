@@ -1,25 +1,14 @@
 Article D337-131
 ----
-Peuvent postuler le diplôme du brevet des métiers d'art les candidats justifiant
+Pour se présenter à l'examen du brevet des métiers d'art, les candidats doivent
 :
 
-1° Soit avoir effectué, dans un lycée ou une des écoles privées d'enseignement
-technique mentionnées au chapitre III du titre IV du livre IV, le cycle d'études
-de deux ans conduisant au diplôme postulé soit 1 680 heures au moins ;
+1° Soit justifier de la formation prévue aux articles D. 337-129 et D. 337-130 ;
 
-2° Soit avoir suivi dans le cadre de l'apprentissage une préparation dans un
-centre de formation d'apprentis d'une durée au moins égale à 1 350 heures ;
+2° Soit avoir accompli trois années d'activités professionnelles dans un domaine
+professionnel en rapport avec la spécialité de brevet des métiers d'art postulée
+et posséder un diplôme ou titre du même secteur professionnel enregistré dans le
+répertoire national des certifications professionnelles, classé au niveau V de
+la nomenclature interministérielle des niveaux de formation.
 
-3° Soit avoir suivi dans le cadre de la formation professionnelle continue une
-préparation au diplôme d'une durée au moins égale (compte non tenu de la période
-de formation en milieu professionnel) à :
-
-a) 630 heures en complément d'un exercice professionnel de la spécialité d'une
-durée de trois ans ;
-
-b) 1 500 heures dans les autres cas, en complément d'un exercice professionnel
-de la spécialité d'une durée minimale de deux ans ;
-
-4° Soit avoir accompli cinq années d'activités professionnelles et posséder le
-certificat d'aptitude professionnelle de la spécialité concernée dans le domaine
-d'activités correspondant au brevet des métiers d'art postulé.
+Ils doivent être inscrits en vue de l'obtention du diplôme.
