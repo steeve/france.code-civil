@@ -47,7 +47,7 @@ financières ;
 11° Statuer sur les demandes de concours financiers mentionnés au 10° ci-dessus
 ;
 
-12° Attribuer les subventions mentionnées au cinquième alinéa de l'article L.
+12° Attribuer les subventions mentionnées au sixième alinéa de l'article L.
 452-1, en fixant les contreparties demandées aux bénéficiaires ;
 
 13° Délibérer sur le rapport annuel de gestion du directeur général ;
@@ -65,14 +65,7 @@ caisse sont associés à ses travaux ;
 17° Délibérer lorsque le commissaire du Gouvernement le saisit en cas de
 difficultés ou lui adresse une recommandation ;
 
-18° Désigner le ou les commissaires aux comptes et délibérer sur leurs rapports
-;
-
-19° Fixer les modalités d'octroi des concours financiers attribués au titre du
-fonds mentionné à l'article L. 452-1-1 dans les conditions définies à l'article
-R. 452-24-1 ;
-
-20° Statuer sur les demandes de concours financiers mentionnés au 19° ci-dessus.
+18° Désigner le ou les commissaires aux comptes et délibérer sur leurs rapports.
 
 Le conseil d'administration arrête son règlement intérieur.
 

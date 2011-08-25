@@ -9,9 +9,9 @@ d'approbation de certaines décisions financières des établissements publics d
 l'Etat.
 
 Les délibérations du conseil d'administration relatives aux subventions
-mentionnées au cinquième alinéa de l'article L. 452-1 deviennent exécutoires
-après approbation expresse par le ministre chargé du logement et le ministre
-chargé de l'économie.
+mentionnées au sixième alinéa de l'article L. 452-1 deviennent exécutoires après
+approbation expresse par le ministre chargé du logement et le ministre chargé de
+l'économie.
 
 Les décisions de la commission prévue à l'article L. 452-2-1, dénommée
 commission de réorganisation, relatives à des conventions entre la caisse et

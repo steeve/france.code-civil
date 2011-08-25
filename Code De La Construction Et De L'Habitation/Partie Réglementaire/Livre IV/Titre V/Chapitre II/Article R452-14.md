@@ -5,9 +5,9 @@ Le directeur général dirige la caisse. A ce titre :
 1° Il prépare les décisions du conseil d'administration et de la commission et
 donne son avis sur l'ordre du jour des séances ;
 
-2° Il exécute les décisions du conseil d'administration et de la commission et
-peut, à cette fin, recevoir les délégations nécessaires du conseil
-d'administration ;
+2° Il exécute les décisions du conseil d'administration et de la commission
+visée à l'article L. 452-2-1 et peut, à cette fin, recevoir les délégations
+nécessaires du conseil d'administration ;
 
 3° Il instruit les demandes de garantie et les demandes de concours financier ;
 
@@ -31,7 +31,9 @@ fonctionnement du contrôle interne. Il établit un rapport annuel relatif aux
 conditions dans lesquelles le contrôle interne est assuré ;
 
 10° Il établit un rapport annuel relatif à la mesure et à la surveillance des
-risques auxquels la caisse est exposée et un rapport de gestion.
+risques auxquels la caisse est exposée et un rapport de gestion ;
+
+11° Il exécute les décisions de la commission visée à l'article L. 452-1-1.
 
 Le directeur général peut déléguer sa signature à des agents de la caisse dans
 les conditions et limites qu'il détermine. Il en informe le conseil

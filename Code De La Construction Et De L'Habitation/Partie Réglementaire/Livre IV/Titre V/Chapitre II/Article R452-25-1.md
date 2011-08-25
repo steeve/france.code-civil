@@ -13,12 +13,15 @@ de l'exercice ;
 d'immobilisations ;
 
 -les subventions reçues au titre d'un protocole de redressement conclu en
-application du deuxième alinéa de l'article L. 452-1 ; -les subventions
-publiques versées par l'Agence nationale pour la rénovation urbaine au titre de
-l'équilibre des opérations de démolitions réalisées en application du quatrième
-alinéa de l'article 10 de la loi n° 2003-710 du 1er août 2003 d'orientation et
-de programmation pour la ville et la rénovation urbaine modifiée ; -les
-indemnités d'assurance reçues à la suite de sinistres ayant conduit à la
+application du troisième alinéa de l'article L. 452-1 ;
+
+-les subventions publiques versées par l'Agence nationale pour la rénovation
+urbaine au titre de l'équilibre des opérations de démolitions réalisées en
+application du quatrième alinéa de l'article 10 de la loi n° 2003-710 du 1er
+août 2003 d'orientation et de programmation pour la ville et la rénovation
+urbaine modifiée ;
+
+-les indemnités d'assurance reçues à la suite de sinistres ayant conduit à la
 destruction accidentelle d'immobilisations corporelles en cas de catastrophe
 naturelle ou technologique ainsi que des dommages consécutifs aux tempêtes,
 ouragans et cyclones en application respectivement des articles L. 125-1, L.
