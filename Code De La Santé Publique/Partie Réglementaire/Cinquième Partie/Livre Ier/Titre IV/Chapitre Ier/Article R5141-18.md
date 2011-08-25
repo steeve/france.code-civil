@@ -15,18 +15,22 @@ documentation bibliographique appropriée.
 Celle-ci peut faire référence, notamment pour ce qui concerne les essais
 d'innocuité, au rapport d'évaluation publié par l'Agence européenne des
 médicaments lors d'une demande de fixation de limites maximales de résidus selon
-les dispositions du règlement (CEE) n° 2377 / 90 du 26 juin 1990.
+les dispositions du règlement (CE) n° 470/2009 du Parlement européen et du
+Conseil du 6 mai 2009 établissant des procédures communautaires pour la fixation
+des limites de résidus des substances pharmacologiquement actives dans les
+aliments d'origine animale.
 
 Lorsque le demandeur a recours à une documentation bibliographique appropriée
 pour un médicament destiné à une espèce productrice de denrées alimentaires et
 qu'il accompagne cette documentation, en vue d'obtenir une extension de
 l'autorisation de mise sur le marché à une autre espèce animale productrice de
 denrées alimentaires, de nouvelles études de résidus conformément au règlement
-(CEE) n° 2377 / 90 précité ainsi que de nouveaux essais cliniques, un autre
-demandeur ne peut se prévaloir de ces études ou essais dans le cadre d'une
-demande d'autorisation de mise sur le marché pendant une période de trois ans
-après la délivrance de l'autorisation de mise sur le marché pour laquelle ils
-ont été réalisés.
+(CE) n° 470/2009 du Parlement européen et du Conseil du 6 mai 2009 mentionné à
+l'alinéa précédent ainsi que de nouveaux essais cliniques, un autre demandeur ne
+peut se prévaloir de ces études ou essais dans le cadre d'une demande
+d'autorisation de mise sur le marché pendant une période de trois ans après la
+délivrance de l'autorisation de mise sur le marché pour laquelle ils ont été
+réalisés.
 
 2° Lorsque la demande porte sur un médicament vétérinaire nouveau renfermant des
 substances actives entrant dans la composition de médicaments vétérinaires

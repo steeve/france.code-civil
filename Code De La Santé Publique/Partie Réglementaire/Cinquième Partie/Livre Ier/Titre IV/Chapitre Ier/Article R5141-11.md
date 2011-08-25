@@ -3,7 +3,7 @@ Article R5141-11
 Comme il est dit à l'article R. 234-4 du code rural et de la pêche maritime
 ainsi reproduit :
 
-" I.-Les denrées alimentaires issues d'un animal ayant été soumis à un essai
+"I.-Les denrées alimentaires issues d'un animal ayant été soumis à un essai
 clinique de médicaments vétérinaires mentionné au V de l'article L. 234-2 du
 code rural et de la pêche maritime ne peuvent être mises sur le marché que si
 cet essai n'a pas fait l'objet d'une opposition du directeur général de l'Agence
@@ -31,12 +31,15 @@ f) Le ou les temps d'attente à respecter en fonction des denrées susceptibles
 d'être mises à la consommation.
 
 III.-Lorsque l'essai clinique concerne un médicament contenant une substance
-pharmacologiquement active relevant du règlement (CEE) n° 2377/90 du Conseil du
-26 juin 1990, l'animal ayant fait l'objet de l'essai ne peut être conduit à
-l'abattoir ou les denrées animales qui en sont issues introduites dans
-l'alimentation humaine que si le temps d'attente déclaré auprès du directeur de
-l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement
-et du travail et du préfet est écoulé. Ce temps d'attente doit :
+pharmacologiquement active relevant du règlement (CE) n° 470/2009 du Parlement
+européen et du Conseil du 6 mai 2009 établissant des procédures communautaires
+pour la fixation des limites de résidus des substances pharmacologiquement
+actives dans les aliments d'origine animale, l'animal ayant fait l'objet de
+l'essai ne peut être conduit à l'abattoir ou les denrées animales qui en sont
+issues introduites dans l'alimentation humaine que si le temps d'attente déclaré
+auprès du directeur de l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail et du préfet est écoulé. Ce
+temps d'attente doit :
 
 a) Etre au minimum celui fixé par l'arrêté prévu au dernier alinéa de l'article
 L. 5143-4 du code de la santé publique, éventuellement augmenté d'un délai
@@ -46,7 +49,8 @@ ou
 
 b) Etre fixé de manière que la limite maximale de résidus ne soit pas dépassée
 dans les denrées alimentaires lorsqu'une telle limite maximale de résidus a été
-fixée au niveau communautaire en conformité avec le règlement (CEE) n° 2377/90 ;
+fixée en application du règlement (CE) n° 470/2009 du Parlement européen et du
+Conseil du 6 mai 2009 mentionné ci-dessus ;
 
 Lorsque les animaux doivent être abattus avant la fin du temps d'attente, il
 appartient à l'investigateur chargé de la conduite de l'essai de faire procéder
@@ -56,7 +60,7 @@ substance ayant fait l'objet de l'essai, les denrées alimentaires peuvent être
 mises sur le marché à la condition que l'investigateur s'assure, en effectuant
 les analyses de résidus décrites par le promoteur de l'essai dans les
 renseignements fournis au titre du 5° de l'article R. 5141-6 du code de la santé
-publique , qu'aucune de ces denrées n'est susceptible de contenir des résidus de
+publique, qu'aucune de ces denrées n'est susceptible de contenir des résidus de
 substances pharmacologiquement actives à un taux supérieur à la limite maximale
 de résidus.
 

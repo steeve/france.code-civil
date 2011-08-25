@@ -64,10 +64,10 @@ g) La voie d'administration ;
 
 h) Les animaux de destination ;
 
-i) La situation du ou des principes actifs au regard du règlement du Conseil
-(CEE) n° 2377/90 du 26 juin 1990 établissant une procédure pour la fixation des
-limites maximales de résidus de médicaments vétérinaires dans les aliments
-d'origine animale ;
+i) La situation du ou des principes actifs au regard du règlement (CE) n°
+470/2009 du Parlement européen et du Conseil du 6 mai 2009 établissant des
+procédures communautaires pour la fixation des limites de résidus des substances
+pharmacologiquement actives dans les aliments d'origine animale ;
 
 j) Le temps d'attente proposé, s'il y a lieu ;
 
