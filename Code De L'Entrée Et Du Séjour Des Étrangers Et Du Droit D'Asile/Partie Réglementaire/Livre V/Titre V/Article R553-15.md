@@ -13,3 +13,10 @@ administrative ou à son adjoint.
 
 La demande d'asile formulée en centre ou en local de rétention est présentée
 selon les modalités prévues au deuxième alinéa de l'article R. 723-1.
+
+L'étranger maintenu en centre ou local de rétention qui souhaite demander
+l'asile est informé, sans délai, dans une langue dont il est raisonnable de
+penser qu'il la comprend, de la procédure de demande d'asile, de ses droits et
+obligations au cours de cette procédure, des conséquences que pourrait avoir le
+non-respect de ces obligations ou le refus de coopérer avec les autorités et des
+moyens dont il dispose pour l'aider à présenter sa demande.

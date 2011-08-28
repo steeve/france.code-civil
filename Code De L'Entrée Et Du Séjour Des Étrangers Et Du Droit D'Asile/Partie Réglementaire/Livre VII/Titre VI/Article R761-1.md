@@ -52,10 +52,10 @@ au représentant de l'Etat à Mayotte, lorsque celui-ci en fait la demande " ;
 7° A l'article R. 733-22, les mots : " au ministre de l'intérieur et au ministre
 chargé de l'asile, qui doivent produire leurs observations " sont remplacés par
 les mots : " au représentant de l'Etat à Mayotte, qui doit produire ses
-observations », au premier alinéa de l'article R. 733-23, les mots : du ministre
-de l'intérieur et du ministre chargé de l'asile » sont remplacés par les mots :
-du représentant de l'Etat à Mayotte » et au troisième alinéa du même article,
-les mots : au ministre de l'intérieur et au ministre chargé de l'asile » sont
+observations , au premier alinéa de l'article R. 733-23, les mots : du ministre
+de l'intérieur et du ministre chargé de l'asile sont remplacés par les mots : du
+représentant de l'Etat à Mayotte et au troisième alinéa du même article, les
+mots : au ministre de l'intérieur et au ministre chargé de l'asile sont
 remplacés par les mots : au représentant de l'Etat à Mayotte ;
 
 8° A l'article R. 741-2 :
@@ -122,13 +122,16 @@ les mots : " à l'article 24 de l'ordonnance n° 2000-273 du 26 avril 2000 " ;
 
 13° A l'article R. 742-6 :
 
-a) Les mots : " à l'article R. 313-1 " et : " aux articles R. 313-35 et R.
-313-36 " sont remplacés par les mots : " par l'ordonnance n° 2000-373 du 26
-avril 2000 " ;
+a) Les mots : "à l'article R. 313-1" et : " aux articles R. 313-35 et R. 313-36
+" sont remplacés par les mots : " par l'ordonnance n° 2000-373 du 26 avril 2000
+" ;
 
 b) Les mots : " à l'article L. 314-4 " sont remplacés par les mots :
 
 " à l'article 24 de l'ordonnance n° 2000-373 du 26 avril 2000 " ;
 
 c) Les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à
-l'article 17 de l'ordonnance n° 2000-373 du 26 avril 2000 ".
+l'article 17 de l'ordonnance n° 2000-373 du 26 avril 2000 " ;
+
+14° A l'article R. 751-2, les mots : "en France" sont remplacés par les mots :
+"à Mayotte".

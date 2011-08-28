@@ -13,3 +13,10 @@ l'audition de l'étranger.
 
 Lorsque l'audition du demandeur d'asile nécessite l'assistance d'un interprète,
 sa rétribution est prise en charge par l'Etat.
+
+Cette audition fait l'objet d'un rapport écrit qui comprend les informations
+relatives à l'identité de l'étranger et celle de sa famille, les lieux et pays
+traversés ou dans lesquels il a séjourné, sa ou ses nationalités, le cas échéant
+ses pays de résidence et ses demandes d'asile antérieures, ses documents
+d'identité et titres de voyage ainsi que les raisons justifiant la demande de
+protection internationale.

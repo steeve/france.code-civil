@@ -21,7 +21,7 @@ préfet sont remplacés par les mots :
 2° Au troisième alinéa de l'article R. 723-2 :
 
 a) Les mots : " au préfet de département compétent et, à Paris, au préfet de
-police, ainsi qu'au directeur de l' Office français de l'immigration et de
+police, ainsi qu'au directeur de l'Office français de l'immigration et de
 l'intégration " sont remplacés par les mots : " à l'administrateur supérieur des
 îles Wallis et Futuna " ;
 
@@ -44,7 +44,7 @@ de l'administrateur supérieur des îles Wallis et Futuna " ;
 6° A l'article R. 733-20 :
 
 a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de
-police, ainsi que le directeur de l' Office français de l'immigration et de
+police, ainsi que le directeur de l'Office français de l'immigration et de
 l'intégration " sont remplacés par les mots : " l'administrateur supérieur des
 îles Wallis et Futuna " ;
 
@@ -140,4 +140,12 @@ b) Les mots : " à l'article L. 314-4 " sont remplacés par les mots :
 " à l'article 24 de l'ordonnance n° 2000-371 du 26 avril 2000 " ;
 
 c) Les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à
-l'article 17 de l'ordonnance n° 2000-371 du 26 avril 2000 ".
+l'article 17 de l'ordonnance n° 2000-371 du 26 avril 2000 " ;
+
+14° A l'article R. 751-2 :
+
+a) Les mots : " en France " sont remplacés par les mots : " dans les îles Wallis
+et Futuna " ;
+
+b) Les mots : " de la préfecture " sont remplacés par les mots : " de
+l'administrateur des îles Wallis et Futuna ".

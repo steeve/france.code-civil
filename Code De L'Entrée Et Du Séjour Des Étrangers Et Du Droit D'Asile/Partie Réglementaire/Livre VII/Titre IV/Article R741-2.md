@@ -34,4 +34,6 @@ l'étranger un document d'information sur ses droits et sur les obligations qu'i
 doit respecter eu égard aux conditions d'accueil des demandeurs d'asile, ainsi
 que sur les organisations qui assurent une assistance juridique spécifique et
 celles susceptibles de l'aider ou de l'informer sur les conditions d'accueil
-dont il peut bénéficier, y compris les soins médicaux.
+dont il peut bénéficier, y compris les soins médicaux. Cette information se fait
+dans une langue dont il est raisonnable de penser que le demandeur d'asile la
+comprend.
