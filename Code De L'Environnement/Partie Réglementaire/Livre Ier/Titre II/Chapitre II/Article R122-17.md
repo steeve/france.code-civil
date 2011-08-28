@@ -57,7 +57,7 @@ l'article L. 4 du code forestier ;
 l'article L. 4 du code forestier ;
 
 14° Schémas régionaux de gestion sylvicole des forêts privées prévus par
-l'article L. 4 du code forestier. ;
+l'article L. 4 du code forestier ;
 
 15° Plans, schémas, programmes et autres documents de planification soumis à
 évaluation des incidences Natura 2000 au titre de l'article L. 414-4 à
@@ -65,8 +65,10 @@ l'exception des documents régis par le code de l'urbanisme ;
 
 16° Schéma d'ensemble du réseau de transport public du Grand Paris et contrats
 de développement territorial prévus par les articles 2,3 et 21 de la loi n°
-2010-597 du 3 juin 2010 relative au Grand Paris.
+2010-597 du 3 juin 2010 relative au Grand Paris ;
 
 17° Plans de gestion des risques d'inondation prévus par l'article L. 566-7 ;
 
-18° Le plan d'action pour le milieu marin.
+18° Le plan d'action pour le milieu marin ;
+
+19° Chartes des parcs nationaux prévues par l'article L. 331-3.

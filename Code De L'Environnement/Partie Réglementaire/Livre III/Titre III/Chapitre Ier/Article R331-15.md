@@ -13,7 +13,11 @@ Le projet d'extension et, le cas échéant, de modification de la charte est,
 après approbation par le ministre chargé de la protection de la nature, adressé
 pour avis par le président du conseil d'administration de l'établissement public
 du parc national aux personnes mentionnées au premier alinéa de l'article R.
-331-4. Il est soumis à enquête publique par le préfet dans les communes
+331-4. Dans les cas prévus par l'article L. 122-5, il est accompagné d'une
+actualisation de l'évaluation environnementale de la charte ou d'une nouvelle
+évaluation environnementale de celle-ci et soumis à la formation d'autorité
+environnementale du Conseil général de l'environnement et du développement
+durable. Il est soumis à enquête publique par le préfet dans les communes
 concernées par l'extension.
 
 L'extension et, le cas échéant, la modification de la charte sont décidées par
