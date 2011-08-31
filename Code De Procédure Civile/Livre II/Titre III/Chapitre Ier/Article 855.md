@@ -10,4 +10,5 @@ personne chez qui il élit domicile en France.
 
 L'acte introductif d'instance mentionne en outre les conditions dans lesquelles
 le défendeur peut se faire assister ou représenter, s'il y a lieu, le nom du
-représentant du demandeur ainsi que les dispositions de l'article 861-2.
+représentant du demandeur ainsi que, lorsqu'il contient une demande en paiement,
+les dispositions de l'article 861-2.

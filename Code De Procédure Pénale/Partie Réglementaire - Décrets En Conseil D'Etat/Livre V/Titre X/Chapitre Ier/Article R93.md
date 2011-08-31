@@ -50,8 +50,10 @@ dispositions de l'article R. 92 ;
 14° Des frais postaux des greffes des juridictions civiles nécessités par les
 actes et procédures ainsi que par l'envoi des bulletins de casier judiciaire ;
 
-15° Des actes faits d'office en matière de mesures conservatoires prises après
-l'ouverture d'une succession ;
+15° Des actes faits par l'huissier de justice sur décision du président du
+tribunal de grande instance à la demande du ministère public, du maire, du
+commissaire de police ou du commandant de brigade de gendarmerie en matière de
+mesures conservatoires prises après l'ouverture d'une succession ;
 
 16° Des dispositions législatives ou réglementaires particulières prévoyant que
 l'avance doit être faite par le Trésor public ;

@@ -17,5 +17,10 @@ la décision ou homologué la convention.
 Les requêtes aux fins de certification des titres exécutoires français en vue de
 leur reconnaissance et de leur exécution à l'étranger en application des
 articles 41 et 42 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003
-susmentionné sont présentées au juge qui a rendu la décision ou homologué la
-convention. Elles sont dispensées du ministère d'avocat.
+susmentionné, ainsi que les requêtes aux fins d'obtention d'un extrait d'une
+décision présentées en application de l'article 20, paragraphe 1, du règlement
+(CE) n° 4/2009 du Conseil du 18 décembre 2008 relatif à la compétence, la loi
+applicable, la reconnaissance et l'exécution des décisions et la coopération en
+matière d'obligations alimentaires sont présentées au juge qui a rendu la
+décision ou homologué la convention. Elles sont dispensées du ministère
+d'avocat.

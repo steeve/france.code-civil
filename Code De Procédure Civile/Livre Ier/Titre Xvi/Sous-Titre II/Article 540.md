@@ -20,3 +20,9 @@ Le président se prononce sans recours.
 S'il fait droit à la requête, le délai d'opposition ou d'appel court à compter
 de la date de sa décision, sauf au président à réduire le délai ou à ordonner
 que la citation sera faite pour le jour qu'il fixe.
+
+Par exception aux dispositions qui précèdent, le droit au réexamen prévu à
+l'article 19 du règlement (CE) du Conseil n° 4/2009 du 18 décembre 2008 relatif
+à la compétence, la loi applicable, la reconnaissance et l'exécution des
+décisions et la coopération en matière d'obligations alimentaires s'exerce par
+la voie de l'appel.

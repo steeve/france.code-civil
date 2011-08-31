@@ -1,5 +1,5 @@
 Article 1307
 ----
-L'apposition ne peut être pratiquée après achèvement de l'inventaire, à moins
-que celui-ci ne soit attaqué et qu'il n'en soit ainsi ordonné par le juge du
-tribunal d'instance.
+Le demandeur à la mesure est invité par l'huissier de justice à assister à
+l'apposition des scellés ou, s'il n'entend pas s'y rendre, à lui remettre les
+clés s'il les détient.

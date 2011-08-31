@@ -1,25 +1,12 @@
 Article 1314
 ----
-Le procès-verbal d'apposition est signé et daté par le greffier en chef. Il
-comprend :
+Si des documents ou paquets fermés paraissent, par leur suscription ou quelque
+autre preuve écrite, appartenir à des tiers, l'huissier de justice les dépose en
+son étude et convoque ces tiers dans un délai qu'il fixe pour qu'ils puissent
+assister à l'ouverture.
 
-1° Les motifs de l'apposition ;
-
-2° Les nom et adresse du ou des requérants et la qualité en laquelle ils ont
-demandé l'apposition ;
-
-3° Une relation sommaire des déclarations des personnes présentes et des suites
-qui, le cas échéant, leur ont été réservées ;
-
-4° La désignation des lieux et des meubles meublants sur lesquels les scellés
-ont été apposés ;
-
-5° Une description sommaire des objets qui ne sont pas mis sous scellés ;
-
-6° L'indication des dispositions prises pour assurer la conservation des locaux
-et des biens et la sauvegarde des animaux domestiques ;
-
-7° La mention des formalités accomplies, s'il y a lieu, en application des
-articles 1310 à 1313 ;
-
-8° Le cas échéant, la désignation du gardien établi.
+Si, lors de l'ouverture, il se révèle que les documents ou paquets sont
+étrangers à la succession, l'huissier les remet aux intéressés. Si ceux-ci ne se
+présentent pas ou si les documents ou paquets se rapportent à la succession,
+l'huissier de justice les dépose entre les mains du notaire chargé du règlement
+de la succession, ou, s'il n'y en a pas, les conserve.

@@ -10,8 +10,8 @@ si elle ne l'a déjà été, et, le cas échéant, l'affaire jugée ;
 personne chez qui il élit domicile en France.
 
 L'acte introductif d'instance rappelle en outre les dispositions de l'article
-847-2 et mentionne les conditions dans lesquelles le défendeur peut se faire
-assister ou représenter, ainsi que, s'il y a lieu, le nom du représentant du
-demandeur.
+847-2, lorsqu'il contient une demande en paiement, et mentionne les conditions
+dans lesquelles le défendeur peut se faire assister ou représenter, ainsi que,
+s'il y a lieu, le nom du représentant du demandeur.
 
 L'assignation est accompagnée des pièces énumérées dans le bordereau annexé.

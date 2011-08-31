@@ -1,4 +1,5 @@
 Article 1326
 ----
-En cas d'empêchement, le greffier en chef peut donner délégation, pour toutes
-les mesures prévues à la présente section, à un greffier de son tribunal.
+Les dispositions de la présente section s'appliquent à l'apposition des scellés
+ordonnée en matière civile en application d'une disposition particulière, sauf
+incompatibilité avec la matière considérée ou disposition contraire.

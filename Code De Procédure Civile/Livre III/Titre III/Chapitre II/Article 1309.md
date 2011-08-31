@@ -1,9 +1,11 @@
 Article 1309
 ----
-Le greffier en chef désigne un gardien des scellés si la consistance et la
-valeur apparente des biens le justifient.
+Lorsque les locaux sont fermés, l'huissier de justice peut apposer les scellés
+sur la porte si le requérant n'en demande pas l'ouverture.
 
-Lorsque des personnes demeurent dans les lieux où est faite l'apposition, le
-gardien est choisi parmi ces personnes.
-
-Le gardien ne peut être choisi parmi les membres du personnel du greffe.
+Dans le cas contraire, il peut y pénétrer par tous moyens, en présence du maire
+de la commune, d'un conseiller municipal ou d'un fonctionnaire municipal délégué
+par le maire à cette fin, d'une autorité de police ou de gendarmerie, requis
+pour assister au déroulement des opérations ou, à défaut, de deux témoins
+majeurs qui ne sont pas au service de l'huissier de justice et qui déclarent ne
+pas avoir de lien avec les personnes ayant une vocation successorale.
