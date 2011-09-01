@@ -26,3 +26,6 @@ Maison centrale de Poissy (Yvelines).
 Maison centrale de Saint-Martin-de-Ré (Charente-Maritime).
 
 Maison centrale de Saint-Maur (Indre).
+
+Quartier maison centrale du centre pénitentiaire du Sud francilien
+(Seine-et-Marne).

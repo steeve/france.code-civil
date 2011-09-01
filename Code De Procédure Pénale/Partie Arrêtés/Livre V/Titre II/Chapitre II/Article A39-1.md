@@ -76,10 +76,7 @@ Quartier centre de détention du centre pénitentiaire de Maubeuge (Nord).
 
 Centre de détention de Mauzac (Dordogne).
 
-Quartier centre de détention de Chauconin-Neufmontiers du centre pénitentiaire
-de Meaux-Chauconin-Neufmontiers (Seine-et-Marne).
-
-Quartier centre de détention de Meaux du centre pénitentiaire de
+Quartier centre de détention du centre pénitentiaire de
 Meaux-Chauconin-Neufmontiers (Seine-et-Marne).
 
 Centre de détention de Melun (Seine-et-Marne).
@@ -135,6 +132,9 @@ Quartier centre de détention du centre pénitentiaire de Saint-Quentin-Fallavie
 Centre de détention de Saint-Sulpice-la-Pointe (Tarn).
 
 Centre de détention de Salon-de-Provence (Bouches-du-Rhône).
+
+Quartier centre de détention du centre pénitentiaire du Sud francilien (hommes,
+femmes) (Seine-et-Marne).
 
 Centre de détention de Tarascon (Bouches-du-Rhône).
 
