@@ -1251,7 +1251,11 @@ Antenne de Meaux.
 Circonscription judiciaire de Meaux.
 
 (Arr. 30 mars 2005, art. 2) Centre pénitentiaire de Meaux-Chauconin-Neufmontiers
-(quartier centre de détention de Meaux inclus).
+(quartier centre de détention inclus).
+
+Antenne de Réau.
+
+Centre pénitentiaire Sud francilien.
 
 Service pénitentiaire d'insertion et de probation des Yvelines.
 
