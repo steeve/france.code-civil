@@ -15,11 +15,22 @@ justice et du ministre de l'intérieur ;
 
 3° L'original ou la copie du certificat constatant l'achèvement d'une formation
 de conducteur de transport par route quand celui-ci est exigé en application de
-l'article R. 221-6. ;
+l'article R. 221-6 ;
 
 4° Dans les cas mentionnés aux II et III de l'article R. 221-8, une attestation
 de la formation pratique ou le document attestant d'une expérience de la
-conduite conforme aux conditions prévues par ces dispositions.
+conduite conforme aux conditions prévues par ces dispositions ;
+
+5° Les documents attestant de l'équipement du véhicule d'un dispositif homologué
+d'antidémarrage par éthylotest électronique et de la vérification de son
+fonctionnement, lorsque le conducteur :
+
+a) A été condamné à une peine d'interdiction de conduire un véhicule qui ne soit
+pas équipé par un professionnel agréé ou par construction d'un tel dispositif ;
+ou
+
+b) Est soumis à l'obligation prévue au 4° bis de l'article 41-2 du code de
+procédure pénale.
 
 II.-En cas de perte ou de vol du titre justifiant de l'autorisation de conduire
 le récépissé de déclaration de perte ou de vol tient lieu de titre pendant un
