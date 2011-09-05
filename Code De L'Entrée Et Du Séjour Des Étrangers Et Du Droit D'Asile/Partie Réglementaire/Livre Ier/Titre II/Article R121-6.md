@@ -1,7 +1,7 @@
 Article R121-6
 ----
-I. - Les ressortissants mentionnés au 1° de l'article L. 121-1 conservent leur
-droit au séjour :
+I.-Les ressortissants mentionnés au 1° de l'article L. 121-1 conservent leur
+droit au séjour en qualité de travailleur salarié ou de non-salarié :
 
 1° S'ils ont été frappés d'une incapacité de travail temporaire résultant d'une
 maladie ou d'un accident ;
@@ -14,7 +14,7 @@ demandeur d'emploi auprès du service de l'emploi compétent ;
 l'activité professionnelle antérieure à moins d'avoir été mis involontairement
 au chômage.
 
-II. - Ils conservent leur droit de séjour pendant six mois :
+II.-Ils conservent au même titre leur droit de séjour pendant six mois :
 
 1° S'ils se trouvent en chômage involontaire dûment constaté à la fin de leur
 contrat de travail à durée déterminée inférieure à un an ;

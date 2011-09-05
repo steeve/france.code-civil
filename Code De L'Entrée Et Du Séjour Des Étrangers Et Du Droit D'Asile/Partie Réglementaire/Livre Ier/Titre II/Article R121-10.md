@@ -1,11 +1,10 @@
 Article R121-10
 ----
 Les ressortissants mentionnés au 1° de l'article L. 121-1 qui ont établi leur
-résidence habituelle en France depuis moins de cinq ans bénéficient à leur
-demande d'un titre de séjour portant la mention :
-
-"CE - toutes activités professionnelles". La reconnaissance de leur droit de
-séjour n'est pas subordonnée à la détention de ce titre.
+résidence habituelle en France depuis moins de cinq ans bénéficient, à leur
+demande, d'un titre de séjour portant la mention : " UE-toutes activités
+professionnelles ". La reconnaissance de leur droit de séjour n'est pas
+subordonnée à la détention de ce titre.
 
 Ce titre est d'une durée de validité équivalente à celle du contrat de travail
 souscrit ou, pour les travailleurs non salariés, à la durée de l'activité

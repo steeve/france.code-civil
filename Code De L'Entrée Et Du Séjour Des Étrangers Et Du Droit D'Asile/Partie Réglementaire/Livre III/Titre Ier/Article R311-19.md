@@ -6,9 +6,11 @@ soit pas ressortissant d'un Etat membre de l'Union européenne, d'un Etat partie
 à l'accord sur l'Espace économique européen ou de la Confédération suisse et
 qu'il remplisse les conditions requises pour l'obtention :
 
-a) D'une carte de séjour temporaire portant la mention " scientifique " délivrée
-en application de l'article L. 313-8, sur présentation d'un contrat à durée
-indéterminée ;
+a) D'une carte de séjour temporaire portant la mention " scientifique-chercheur
+" délivrée en application de l'article L. 313-8, sur présentation d'un contrat à
+durée indéterminée ou de la carte mentionnée au quatrième alinéa de l'article L.
+313-8, lorsque son titulaire séjourne en France pour une durée supérieure à
+douze mois ;
 
 b) D'une carte de séjour temporaire portant la mention " profession artistique
 et culturelle " délivrée en application de l'article L. 313-9, sur présentation
@@ -30,7 +32,7 @@ L. 314-8, L. 314-9 et L. 314-11, lorsque l'étranger n'a pas signé le contrat
 d'accueil et d'intégration à un autre titre ;
 
 g) D'un visa pour un séjour d'une durée supérieure à trois mois mentionné au 4°
-ou au 7° de l'article R. 311-3.
+au 7°, au 9° ou au 11° de l'article R. 311-3.
 
 II.-Le contrat d'accueil et d'intégration peut également être souscrit par
 l'étranger qui n'a pas signé de contrat d'accueil et d'intégration lorsqu'il a

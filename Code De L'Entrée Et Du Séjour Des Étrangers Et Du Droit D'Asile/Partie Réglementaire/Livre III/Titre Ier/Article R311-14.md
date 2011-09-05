@@ -36,11 +36,13 @@ séjour " compétences et talents " cesse de remplir l'une des conditions exigé
 pour sa délivrance ;
 
 9° Si l'opération ou l'engagement mentionné à l'article R. 314-6 qui a motivé la
-délivrance de la carte ne connaît aucun début d'exécution dans un délai d'un an
-suivant la date de délivrance de la carte de résident ;
+délivrance des cartes prévues à l'article L. 314-15 ne connaît aucun début
+d'exécution dans un délai d'un an suivant la date de délivrance de ces cartes ;
 
 10° S'il est établi que les fonds nécessaires à l'opération mentionnée à
-l'article R. 314-6 proviennent d'activités illicites.
+l'article R. 314-6 proviennent d'activités illicites. Dans ce cas, la carte de
+résident délivrée sur le fondement de l'article L. 314-15 est également retirée
+au conjoint.
 
 Par dérogation à l'alinéa précédent, la carte de séjour temporaire portant la
 mention " salarié " ou " travailleur temporaire " ne peut être retirée au motif

@@ -9,3 +9,7 @@ l'autorité administrative peut :
 2° Réduire au département ou, à l'intérieur de ce dernier, à une ou plusieurs
 circonscriptions la validité de sa carte de séjour ou du titre en tenant lieu
 dont il est muni.
+
+Ces dispositions ne sont pas applicables aux ressortissants d'un Etat membre de
+l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique
+européen ou de la Confédération suisse, ni aux membres de leur famille.

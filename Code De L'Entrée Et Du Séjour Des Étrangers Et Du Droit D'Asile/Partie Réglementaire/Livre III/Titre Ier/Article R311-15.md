@@ -4,8 +4,8 @@ I.-Le titre de séjour peut être retiré :
 
 1° Si l'étranger, titulaire d'une carte de séjour temporaire ou d'une carte de
 séjour " compétences et talents ", est passible de poursuites pénales sur le
-fondement des articles 222-39, 225-4-1 à 225-4-4, 225-4-7, 225-5 à 225-11,
-225-12-5 à 225-12-7, 311-4 (7°), 312-12-1 et 321-6-1 du code pénal ;
+fondement des articles 222-39,225-4-1 à 225-4-4,225-4-7,225-5 à 225-11,225-12-5
+à 225-12-7,311-4 (7°), 312-12-1 et 321-6-1 du code pénal ;
 
 2° Si l'étranger, titulaire d'une carte de séjour temporaire ou d'une carte de
 séjour " compétences et talents ", a occupé un travailleur étranger en
@@ -19,7 +19,7 @@ limite de la durée de travail annuelle prévue à l'article L. 313-7 ;
 4° Si l'étranger autorisé à séjourner en France au titre du regroupement
 familial n'est plus en situation de vie commune avec le conjoint qu'il est venu
 rejoindre dans les trois ans qui suivent la délivrance du titre de séjour, sauf
-dans les cas mentionnés à l'article L. 431-2 ;
+dans les cas mentionnés à l'article L. 316-3 ;
 
 5° Sous réserve des dispositions des articles L. 511-4, L. 521-2 et L. 521-3, si
 l'étranger a fait venir son conjoint ou ses enfants en dehors de la procédure de
@@ -48,9 +48,10 @@ salariée se voit retirer son autorisation de travail au motif qu'il ne s'est pa
 conformé à l'obligation de produire le certificat médical prévu par l'article L.
 5221-5 du code du travail ;
 
-10° Si l'étranger, titulaire d'une carte de résident délivrée pour une
-contribution économique exceptionnelle, cesse de remplir la condition prévue à
-l'article L. 314-15 sur le fondement de laquelle la carte lui a été délivrée.
+10° Si l'étranger ou son conjoint, titulaire d'une carte de résident délivrée
+pour une contribution économique exceptionnelle, cesse de remplir la condition
+prévue à l'article L. 314-15 sur le fondement de laquelle la carte lui a été
+délivrée.
 
 II.-La carte de résident peut être retirée et remplacée de plein droit par une
 carte de séjour temporaire :
@@ -58,7 +59,7 @@ carte de séjour temporaire :
 1° Si l'étranger, titulaire d'une carte de résident, ne peut faire l'objet d'une
 mesure d'expulsion en application des articles L. 521-2 ou L. 521-3 du présent
 code et a été condamné de manière définitive sur le fondement des articles
-433-3, 433-4, des deuxième à quatrième alinéas de l'article 433-5, du deuxième
+433-3,433-4, des deuxième à quatrième alinéas de l'article 433-5, du deuxième
 alinéa de l'article 433-5-1 ou de l'article 433-6 du code pénal ;
 
 2° Si l'étranger, titulaire de la carte de résident portant la mention "

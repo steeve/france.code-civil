@@ -13,8 +13,10 @@ l'article L. 121-1 ou de l'article L. 313-7 du code de l'entrée et du séjour d
 étrangers et du droit d'asile ou le visa pour un séjour d'une durée supérieure à
 trois mois mentionné au 6° de l'article R. 311-3 du même code ;
 
-4° La carte de séjour temporaire portant la mention scientifique, en application
-de l'article L. 313-8 du même code ;
+4° La carte de séjour temporaire portant la mention scientifique-chercheur, en
+application de l'article L. 313-8 du même code ou le visa pour un séjour d'une
+durée supérieure à trois mois mentionné au 9° de l'article R. 311-3 du même code
+;
 
 5° La carte de séjour temporaire portant la mention profession artistique et
 culturelle, délivrée sur présentation d'un contrat de travail d'une durée
@@ -41,10 +43,13 @@ application du 4° de l'article L. 313-10 du même code ;
 9° La carte de séjour temporaire portant la mention salarié en mission, en
 application du 5° de l'article L. 313-10 du même code ;
 
+9° bis La carte de séjour temporaire portant la mention "carte bleue
+européenne", en application du 6° de l'article L. 313-10 du même code ;
+
 10° La carte de séjour temporaire portant la mention vie privée et familiale, en
-application des articles L. 313-12 et L. 316-1 du même code ou le visa pour un
-séjour d'une durée supérieure à trois mois mentionné au 4° de l'article R. 311-3
-du même code ;
+application des articles L. 313-8, quatrième alinéa, L. 313-12 et L. 316-1 du
+même code ou le visa pour un séjour d'une durée supérieure à trois mois
+mentionné aux 4° et 11° de l'article R. 311-3 du même code ;
 
 11° Le récépissé de première demande ou de demande de renouvellement d'un titre
 de séjour portant la mention autorise son titulaire à travailler ou

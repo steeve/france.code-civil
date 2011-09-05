@@ -15,12 +15,13 @@ l'article L. 313-7-1, il présente en outre un document attestant de la récepti
 par le préfet de l'avenant à la convention de stage.
 
 S'il sollicite le renouvellement de la carte de séjour temporaire prévue à
-l'article L. 313-8, il présente en outre la convention d'accueil délivrée par un
-organisme ayant une mission de recherche ou d'enseignement supérieur agréé à cet
-effet dans les conditions prévues à l'article R. 313-13 et, le cas échéant, une
-attestation du même organisme établissant la poursuite des activités de
-recherche ou d'enseignement supérieur prévues par la convention.
+l'article L. 313-8 ou du visa prévu au 9° de l'article R. 311-3, il présente en
+outre la convention d'accueil délivrée par un organisme ayant une mission de
+recherche ou d'enseignement supérieur agréé à cet effet dans les conditions
+prévues à l'article R. 313-13 et, le cas échéant, une attestation du même
+organisme établissant la poursuite des activités de recherche ou d'enseignement
+supérieur prévues par la convention.
 
-Il bénéficie à sa demande du titre prévu à l'article L. 313-4 sur présentation
+Il bénéficie, à sa demande, du titre prévu à l'article L. 313-4 sur présentation
 d'une convention d'accueil attestant d'activités de recherche ou d'enseignement
 supérieur d'une durée supérieure à un an.

@@ -15,4 +15,9 @@ jeunesse ou de la culture ;
 une formation dispensée par un organisme mentionné à l'article L. 6351-1 du code
 du travail et, le cas échéant, effectuer un stage dans une entreprise
 appartenant au même groupe que son employeur ou dans une entreprise avec
-laquelle son employeur entretient des relations commerciales.
+laquelle son employeur entretient des relations commerciales ;
+
+3° Soit pour effectuer un stage dans un établissement public de santé en vue de
+bénéficier d'une formation complémentaire conduisant à la reconnaissance d'un
+niveau de qualification professionnelle, dans le cadre de la convention de
+coopération prévue à l'article R. 6134-2 du code de la santé publique.

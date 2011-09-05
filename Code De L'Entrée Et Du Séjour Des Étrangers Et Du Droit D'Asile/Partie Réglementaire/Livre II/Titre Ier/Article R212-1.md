@@ -23,7 +23,7 @@ durée de validité au moins égale à un an et délivré par une autorité cons
 française ou par celle d'un Etat mettant en vigueur cette convention et agissant
 en représentation de la France ;
 
-6° L'étranger titulaire d'un visa portant la mention : " carte de séjour à
+6° L'étranger titulaire d'un visa portant la mention " carte de séjour à
 solliciter dès l'arrivée en France " ;
 
 7° Les membres des missions diplomatiques et des postes consulaires et les
@@ -39,7 +39,7 @@ consulaires françaises dans leur pays de résidence ;
 10° Les membres des assemblées parlementaires des Etats étrangers ;
 
 11° Les fonctionnaires, officiers et agents des services publics étrangers
-lorsqu'ils sont porteurs d'un ordre de mission de leur gouvernement ou
+lorsqu'ils sont porteurs d'un ordre de mission de leur gouvernement ou les
 fonctionnaires d'une organisation intergouvernementale dont la France est
 membre, munis d'un ordre de mission délivré par cette organisation ;
 
@@ -47,4 +47,5 @@ membre, munis d'un ordre de mission délivré par cette organisation ;
 déplacements de service sous le couvert des documents prévus par les conventions
 internationales ;
 
-13° Les étrangers mentionnés aux 4°, 5°, 6°, 7° et 8° de l'article R. 311-3.
+13° Les étrangers mentionnés aux 4°, 5°, 6°, 7°, 8°, 9°, 10° et 11° de l'article
+R. 311-3.

@@ -1,10 +1,10 @@
 Article R121-13
 ----
 Les membres de famille mentionnés aux 4° et 5° de l'article L. 121-1 qui ont
-établi leur résidence habituelle en France depuis moins de cinq ans bénéficient
-à leur demande d'un titre de séjour portant la mention "CE - membre de famille -
-toutes activités professionnelles". La reconnaissance du droit de séjour n'est
-pas subordonnée à la détention de ce titre.
+établi leur résidence habituelle en France depuis moins de cinq ans bénéficient,
+à leur demande, d'un titre de séjour portant la mention " UE-membre de
+famille-toutes activités professionnelles ". La reconnaissance du droit de
+séjour n'est pas subordonnée à la détention de ce titre.
 
 Ils présentent à l'appui de leur demande l'un des documents prévus au premier
 alinéa de l'article R. 121-1, un justificatif de leur lien familial ainsi que du

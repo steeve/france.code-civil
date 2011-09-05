@@ -1,15 +1,16 @@
 Article R314-1-1
 ----
 L'étranger qui sollicite la délivrance de la carte de résident portant la
-mention "résident de longue durée-CE" doit justifier qu'il remplit les
+mention " résident de longue durée-CE " doit justifier qu'il remplit les
 conditions prévues à l'article L. 314-8 en présentant :
 
 1° La justification qu'il réside légalement et de manière ininterrompue en
 France depuis au moins cinq ans, sous couvert de l'une des cartes de séjour
-mentionnées à l'article L. 314-8 ; les périodes d'absence du territoire français
-sont prises en compte dans le calcul des cinq années de résidence régulière
-ininterrompue lorsque chacune ne dépasse pas six mois consécutifs et qu'elles ne
-dépassent pas un total de dix mois ;
+mentionnées à l'article L. 314-8 ou sous couvert d'un des visas mentionnés aux
+4°, 5°, 7°, 8°, 9° et 11° de l'article R. 311-3 ; les périodes d'absence du
+territoire français sont prises en compte dans le calcul des cinq années de
+résidence régulière ininterrompue lorsque chacune ne dépasse pas six mois
+consécutifs et qu'elles ne dépassent pas un total de dix mois ;
 
 2° La justification des raisons pour lesquelles il entend s'établir durablement
 en France, notamment au regard des conditions de son activité professionnelle et

@@ -1,8 +1,8 @@
 Article R313-20
 ----
-Pour l'application des articles L. 313-11, L. 313-11-1, L. 313-13 et L. 313-14,
-l'étranger présente à l'appui de sa demande de délivrance de la carte de séjour
-temporaire :
+Pour l'application des articles L. 313-8, quatrième alinéa, L. 313-11, L.
+313-11-1, L. 313-13 et L. 313-14, l'étranger présente à l'appui de sa demande de
+délivrance de la carte de séjour temporaire :
 
 1° Les pièces justifiant qu'il entre dans l'un des cas prévus par ces
 dispositions pour se voir délivrer une carte de séjour temporaire ;

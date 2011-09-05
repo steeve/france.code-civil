@@ -21,10 +21,10 @@ l'employeur, pour un motif qui lui est imputable ou pour un cas de force majeure
 
 5° La carte de séjour temporaire portant la mention vie privée et familiale
 ouvrant droit à l'exercice d'une activité professionnelle salariée en
-application des articles L. 313-11, L. 313-11-1 et L. 316-1 du code de l'entrée
-et du séjour des étrangers et du droit d'asile ;
+application des articles L. 313-8, quatrième alinéa, L. 313-11, L. 313-11-1 et
+L. 316-1 du code de l'entrée et du séjour des étrangers et du droit d'asile ;
 
 6° Le récépissé mentionné au 11° de l'article R. 5221-3 du présent code ;
 
 7° Les visas pour un séjour d'une durée supérieure à trois mois mentionnés aux
-6° et 10° de l'article R. 5221-3.
+4°, 6° et 10° de l'article R. 5221-3.

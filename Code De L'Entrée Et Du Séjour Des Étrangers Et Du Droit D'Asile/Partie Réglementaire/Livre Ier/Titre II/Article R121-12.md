@@ -1,8 +1,8 @@
 Article R121-12
 ----
 Les ressortissants mentionnés au 3° de l'article L. 121-1 qui ont établi leur
-résidence habituelle en France depuis moins de cinq ans bénéficient à leur
-demande d'un titre de séjour portant la mention "CE - étudiant". La
+résidence habituelle en France depuis moins de cinq ans bénéficient, à leur
+demande, d'un titre de séjour portant la mention " UE-étudiant ". La
 reconnaissance du droit de séjour n'est pas subordonnée à la détention de ce
 titre.
 
@@ -21,5 +21,5 @@ professionnelle ;
 mentionnées aux articles L. 321-1 et L. 331-2 du code de la sécurité sociale ;
 
 4° Une déclaration ou tout autre moyen équivalent garantissant qu'il dispose de
-ressources suffisantes pour lui et le cas échéant pour les membres de sa
+ressources suffisantes pour lui et, le cas échéant, pour les membres de sa
 famille.

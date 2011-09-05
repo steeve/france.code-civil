@@ -1,7 +1,8 @@
 Article R421-4
 ----
 A l'appui de sa demande de regroupement, le ressortissant étranger présente les
-copies intégrales des pièces suivantes :
+copies intégrales des pièces énumérées au 1° et joint les copies des pièces
+énumérées aux 2° à 4° des pièces suivantes :
 
 1° Les pièces justificatives de l'état civil des membres de la famille : l'acte
 de mariage ainsi que les actes de naissance du demandeur, de son conjoint et des

@@ -20,6 +20,10 @@ ressortissant mentionné à l'article L. 121-1 est évaluée en prenant notammen
 compte le montant des prestations sociales non contributives qui lui ont été
 accordées, la durée de ses difficultés et de son séjour.
 
+En cas de doute, le préfet peut, sans y procéder de façon systématique, vérifier
+que les conditions mentionnées aux articles L. 121-1, R. 121-6 et R. 121-7 sont
+satisfaites.
+
 Les ressortissants mentionnés au premier alinéa de l'article L. 121-1 entrés en
 France pour y rechercher un emploi ne peuvent être éloignés pour un motif tiré
 de l'irrégularité de leur séjour tant qu'ils sont en mesure de faire la preuve

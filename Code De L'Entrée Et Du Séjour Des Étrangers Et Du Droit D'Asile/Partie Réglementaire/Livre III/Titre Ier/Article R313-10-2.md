@@ -21,4 +21,7 @@ intergouvernemental ;
 b) Dans le cas prévu au 2° de l'article R. 313-10-1, au montant mensuel du
 salaire minimum de croissance calculé sur la base de la durée légale du travail,
 en tenant compte, le cas échéant, de la rémunération maintenue par son employeur
-et de la gratification ou des allocations versées par l'entreprise d'accueil.
+et de la gratification ou des allocations versées par l'entreprise d'accueil ;
+
+c) Dans le cas prévu au 3° de l'article R. 313-10-1, au montant mensuel de la
+rémunération prévue à l'article R. 6134-2 du code de la santé publique.
