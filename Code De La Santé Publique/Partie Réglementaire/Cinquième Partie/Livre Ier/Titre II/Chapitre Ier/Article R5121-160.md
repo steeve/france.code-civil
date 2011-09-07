@@ -46,6 +46,4 @@ h) Un pharmacien choisi sur une liste de deux noms proposés par l'Académie
 nationale de pharmacie ;
 
 i) Deux personnalités choisies en raison de leur compétence en
-pharmaco-épidémiologie ;
-
-j) Un représentant du comité technique de toxicovigilance.
+pharmaco-épidémiologie.

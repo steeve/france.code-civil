@@ -1,5 +1,11 @@
 Article R242-1
 ----
+Il est approuvé et rendu exécutoire par décret en Conseil d'Etat, à moins que
+les conclusions du rapport d'enquête, les avis des services et des collectivités
+publiques intéressés ne soient favorables, auquel cas il est statué par arrêté
+du ministre chargé de l'aviation civile, en accord s'il y a lieu, avec le
+ministre des armées.
+
 La liste des pièces à annexer à la demande est fixée par un arrêté conjoint des
 ministres chargés de l'aviation civile et de la défense nationale.
 

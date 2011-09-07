@@ -11,7 +11,7 @@ Il est chargé :
 
 1° De coordonner la collecte des informations sur les effets indésirables des
 médicaments et produits mentionnés à l'article R. 5121-150 et de les transmettre
-au comité technique de toxicovigilance prévu à l'article R. 1341-17 ;
+à l'Institut de veille sanitaire prévu à l'article R. 1341-17 ;
 
 2° D'évaluer les informations collectées ;
 

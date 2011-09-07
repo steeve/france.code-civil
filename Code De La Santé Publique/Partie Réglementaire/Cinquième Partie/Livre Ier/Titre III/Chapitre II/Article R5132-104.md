@@ -43,10 +43,7 @@ n) Le président du Conseil national de l'ordre des pharmaciens ou son
 représentant ;
 
 o) Le président de la Commission nationale de pharmacovigilance ou le
-vice-président ;
-
-p) Le président de la Commission nationale de toxicovigilance ou son
-représentant.
+vice-président.
 
 2° Dix-neuf membres nommés par le ministre chargé de la santé :
 

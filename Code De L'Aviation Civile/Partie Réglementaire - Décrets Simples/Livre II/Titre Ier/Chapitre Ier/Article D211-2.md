@@ -1,11 +1,8 @@
 Article D211-2
 ----
-La création d'un aérodrome par l'Etat est soumise à l'avis préalable du Conseil
-supérieur de l'infrastructure et de la navigation aériennes. Si aucune
-opposition ne se manifeste au conseil de la part des départements ministériels
-intéressés, la décision est prise par le ministre chargé de l'aviation civile,
-et, dans le cas contraire, par arrêté conjoint du ministre chargé de l'aviation
-civile, du ministre des armées et des autres ministres intéressés.
+La décision de création d'un aérodrome par l'Etat est prise par le ministre
+chargé de l'aviation civile ou, le cas échéant, par arrêté conjoint du ministre
+chargé de l'aviation civile et du ou des autres ministres intéressés.
 
 La création d'un aérodrome par une personne autre que l'Etat est subordonnée à
 une autorisation administrative délivrée dans les conditions fixées aux titres

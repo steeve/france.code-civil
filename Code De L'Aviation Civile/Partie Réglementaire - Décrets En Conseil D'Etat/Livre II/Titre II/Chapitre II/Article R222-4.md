@@ -11,8 +11,7 @@ La nécessité éventuelle d'assurer normalement le service en toutes
 circonstances.
 
 Les limites entre les étapes longues, moyennes et courtes sont fixées par le
-ministre chargé de l'aviation civile, après avis du conseil supérieur de
-l'infrastructure et de la navigation aériennes.
+ministre chargé de l'aviation civile.
 
 Un service est dit à grande distance s'il comporte au moins une étape longue, à
 moyenne distance s'il ne comporte pas d'étape longue mais s'il comporte au moins
