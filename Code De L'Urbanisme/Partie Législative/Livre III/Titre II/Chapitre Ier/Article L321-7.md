@@ -1,6 +1,10 @@
 Article L321-7
 ----
-Les prévisions budgétaires, les projets d'emprunt et les délibérations
-déterminant les opérations à entreprendre par l'établissement ou fixant les
-modalités générales de leur résiliation sont soumis à l'approbation de
-l'autorité chargée du contrôle.
+La délibération approuvant le programme pluriannuel d'intervention devient
+exécutoire dans les conditions prévues par le décret mentionné à l'article L.
+321-13.
+
+A défaut d'approbation par le conseil d'administration du programme pluriannuel
+d'intervention initial ou révisé dans les délais prévus par ce décret, il peut
+être adopté par l'autorité administrative compétente de l'Etat. Le programme
+pluriannuel d'intervention est alors exécutoire dès son adoption.

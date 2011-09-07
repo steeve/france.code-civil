@@ -1,19 +1,11 @@
 Article L321-6
 ----
-Le conseil d'administration doit être composé, à concurrence de la moitié au
-moins, de membres représentant les collectivités et établissements publics
-intéressés.
+Le conseil d'administration de l'établissement approuve le programme pluriannuel
+d'intervention et procède à sa révision.
 
-Lorsqu'un établissement public a été créé pour l'aménagement d'une agglomération
-nouvelle, les présidents des syndicats d'agglomération nouvelle sont membres de
-droit du conseil d'administration de cet établissement public, en sus de la
-représentation statutaire des collectivités locales intéressées. Dans le cas où
-l'établissement public a été créé pour l'aménagement de plusieurs agglomérations
-nouvelles au sens de la loi n° 83-636 du 13 juillet 1983 portant modification du
-statut des agglomérations nouvelles, un décret détermine la répartition des
-sièges revenant aux représentants de ces agglomérations nouvelles.
+Cette approbation et cette révision interviennent dans les conditions prévues
+par le décret mentionné à l'article L. 321-13.
 
-Les membres du conseil d'administration peuvent être suspendus de leurs
-fonctions par l'autorité chargée du contrôle de l'établissement. Ils peuvent
-être révoqués par arrêté interministériel. Le conseil d'administration peut être
-dissous par décret motivé pris en Conseil d'Etat.
+En cas de modification des orientations stratégiques de l'Etat, le programme
+pluriannuel d'intervention est, si nécessaire, révisé et approuvé dans un délai
+fixé par le décret prévu à l'article L. 321-13.
