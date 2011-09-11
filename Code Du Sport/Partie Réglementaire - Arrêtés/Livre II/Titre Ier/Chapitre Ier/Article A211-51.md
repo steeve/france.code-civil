@@ -1,13 +1,23 @@
 Article A211-51
 ----
-Le secrétaire général assiste le directeur pour la mise œuvre des moyens mis à
-la disposition de l'Ecole nationale de ski et d'alpinisme et la coordination des
-actions des différentes divisions. Il remplace le directeur en cas d'absence ou
-d'empêchement. Lui sont rattachés : 1° Les services de l'agent comptable chargé
-de la gestion matérielle de l'établissement ; 2° Le service d'accueil,
-d'animation et de soutien logistique ; 3° Le service de la documentation, chargé
-de la constitution d'un centre de documentation dans le domaine de la montagne
-en France et à l'étranger ; 4° Le service de l'audiovisuel et de la
-reprographie. Des missions particulières peuvent être confiées à ce service,
-notamment en liaison avec d'autres établissements nationaux et organismes
-divers.
+Sont électeurs et éligibles au sein des collèges 1° à 7° les personnels
+titulaires ainsi que les non-titulaires ayant cumulé au moins douze mois
+d'activité au titre des contrats passés au cours des deux dernières années à la
+date du scrutin, en activité au sein de l'établissement au jour du scrutin.
+
+Ne peuvent participer au scrutin les personnels en position de disponibilité, de
+congé de longue durée ou de congé parental.
+
+Au sein du collège 8°, ne sont électeurs et éligibles que les stagiaires
+inscrits à la date de clôture du scrutin à un cycle de formation dispensé par
+l'établissement portant sur une période d'au moins dix mois.
+
+Au sein du collège 9°, ne sont électeurs et éligibles que les sportifs de haut
+niveau inscrits à la date de clôture du scrutin au sein d'une structure
+permanente implantée dans l'établissement.
+
+Les membres d'un collège ne peuvent ni voter dans un autre collège ni être
+choisis par un membre d'un autre collège pour le représenter.
+
+Il est établi une liste électorale par collège. Nul ne peut prendre part au vote
+s'il ne figure sur une liste électorale.
