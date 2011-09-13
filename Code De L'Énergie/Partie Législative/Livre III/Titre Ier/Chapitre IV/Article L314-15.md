@@ -1,16 +1,10 @@
 Article L314-15
 ----
-Au maximum, une garantie d'origine est émise pour chaque unité d'énergie
-produite correspondant à un mégawattheure. Chaque unité d'énergie produite à
-partir d'énergies renouvelables ou par cogénération ne peut être prise en compte
-qu'une seule fois. Une garantie d'origine ne peut être utilisée que dans les
-douze mois suivant la production de l'unité d'énergie correspondante. La
-garantie d'origine est annulée dès qu'elle a été utilisée. Le gestionnaire du
-réseau public de transport établit et tient à jour un registre des garanties
-d'origine. Ce registre est accessible au public. Un décret en Conseil d'Etat
-précise les conditions de délivrance des garanties d'origine et de tenue du
-registre, les tarifs d'accès à ce service ainsi que les pouvoirs et moyens
-d'action et de contrôle attribués aux gestionnaires des réseaux publics de
-transport et de distribution d'électricité. Il précise également les conditions
-et modalités particulières de délivrance des garanties d'origine dans les zones
-non interconnectées.
+Les garanties d'origine provenant d'autres pays membres de l'Union européenne et
+délivrées conformément aux dispositions de la directive 2009/28/ CE relative à
+la promotion et à l'utilisation de l'énergie produite à partir de sources
+renouvelables sont reconnues et traitées par l'organisme mentionné à l'article
+L. 314-14 de la même manière qu'une garantie d'origine liée à une unité de
+production située sur le territoire national. Ces garanties sont assimilables
+aux garanties d'origine délivrées en application des dispositions du présent
+code.

@@ -2,79 +2,69 @@ Article 265 bis A
 ----
 1. Les produits désignés ci-après, élaborés sous contrôle fiscal en vue d'être
 utilisés comme carburant ou combustible, bénéficient, dans la limite des
-quantités fixées par agrément, d'une réduction de la taxe intérieure de
-consommation dont les tarifs sont fixés au tableau B du 1 de l'article 265, ces
-taux de défiscalisation pouvant être revus à la hausse en fonction du contexte
-économique. Cette réduction est fixée comme suit :
+quantités fixées par agrément et sous réserve de respecter les critères de
+durabilité prévus par les articles L. 661-3 à L. 661-6 du code de l'énergie,
+d'une réduction de la taxe intérieure de consommation dont les tarifs sont fixés
+au tableau B du 1 de l'article 265, ces taux de défiscalisation pouvant être
+revus à la hausse en fonction du contexte économique. Cette réduction est fixée
+comme suit :
+
+(En euros par hectolitre)
 
 
 DÉSIGNATION DES PRODUITS
 
-RÉDUCTION (en euros par hectolitre)
+RÉDUCTION
 
 
 Année
 
-2011
+2014
 
-2012
-
-2013
+2015
 
 1. Esters méthyliques d'huile végétale incorporés au gazole ou au fioul
 domestique
 
-8,00
+4,5
 
-8,00
-
-8,00
+3
 
 2. Esters méthyliques d'huile animale ou usagée incorporés au gazole ou au fioul
 domestique
 
-8,00
+4,5
 
-8,00
-
-8,00
+3
 
 3. Contenu en alcool des dérivés de l'alcool éthylique incorporés aux
 supercarburants dont la composante alcool est d'origine agricole, sous
 nomenclature douanière combinée NC 220710
 
-14,00
+8,25
 
-14,00
-
-14,00
+7
 
 4. Alcool éthylique d'origine agricole, sous nomenclature douanière combinée NC
 220710, incorporé aux supercarburants ou au superéthanol E85 repris à l'indice
 d'identification 55
 
-14,00
+8,25
 
-14,00
-
-14,00
+7
 
 5. Biogazole de synthèse
 
-8,00
+4,5
 
-8,00
-
-8,00
+3
 
 6. Esters éthyliques d'huile végétale incorporés au gazole ou au fioul
 domestique
 
-14,00
+8,25
 
-14,00
-
-14,00
+7
 
 1 bis. Abrogé.
 
@@ -107,10 +97,15 @@ décret.
 5. La réduction de la taxe intérieure de consommation est accordée lors de la
 mise à la consommation en France des carburants et combustibles mélangés dans
 des entrepôts fiscaux de production ou de stockage situés dans la Communauté
-européenne aux produits désignés au 1, sur présentation d'un certificat de
-production émis par l'autorité désignée par l'Etat membre de production et d'un
-certificat de mélange délivré par l'administration chargée du contrôle des
-accises sur les huiles minérales.
+européenne aux produits désignés au 1, sur présentation de la déclaration de
+durabilité conforme aux prescriptions de l'article L. 661-7 du code de
+l'énergie, d'un certificat de production émis par l'autorité désignée par l'Etat
+membre de production et d'un certificat de mélange délivré par l'administration
+chargée du contrôle des accises sur les huiles minérales.
+
+5-1. Les agents de l'administration des douanes, habilités par les textes
+particuliers qui leur sont applicables, sont chargés du contrôle du dépôt et de
+la validité de la déclaration de durabilité.
 
 6. Un décret précise les modalités d'application de ces dispositions. Toutefois,
 les règles relatives au premier appel à candidatures devant intervenir en
