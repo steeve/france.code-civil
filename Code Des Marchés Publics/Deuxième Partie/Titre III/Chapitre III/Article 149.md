@@ -2,11 +2,12 @@ Article 149
 ----
 I.-A partir du seuil de 750 000 euros HT pour les fournitures et les services et
 de 4 845 000 euros HT pour les travaux, un avis périodique indicatif, conforme
-au modèle fixé par le règlement (CE) n° 1564 / 2005 susmentionné, peut être, au
-moins une fois par an, soit adressé pour publication à l'Office des publications
-officielles de l'Union européenne, soit publié sur le profil d'acheteur de
-l'entité adjudicatrice. Le profil d'acheteur de l'entité adjudicatrice est le
-site dématérialisé auquel elle a recours pour ses achats.
+au modèle fixé par le règlement de la Commission européenne établissant les
+formulaires standard pour la publication d'avis en matière de marchés publics,
+peut être, au moins une fois par an, soit adressé pour publication à l'Office
+des publications officielles de l'Union européenne, soit publié sur le profil
+d'acheteur de l'entité adjudicatrice. Le profil d'acheteur de l'entité
+adjudicatrice est le site dématérialisé auquel elle a recours pour ses achats.
 
 L'entité adjudicatrice qui publie l'avis périodique indicatif sur son profil
 d'acheteur envoie au préalable, par voie électronique, à l'Office des

@@ -22,30 +22,28 @@ l'achat, à la vente et au transfert de titres ou d'autres instruments financier
 et à des opérations d'approvisionnement en argent ou en capital des entités
 adjudicatrices, sous réserve des dispositions du 2° ;
 
-4° Accords-cadres et marchés de services de recherche et de développement autres
-que ceux pour lesquels l'entité adjudicatrice acquiert la propriété exclusive
-des résultats et finance entièrement la prestation ;
+4° Accords-cadres et marchés de services de recherche et développement pour
+lesquels l'entité adjudicatrice n'acquiert pas la propriété exclusive des
+résultats ou ne finance pas entièrement la prestation ; 5° Accords-cadres et
+marchés qui exigent le secret ou dont l'exécution doit s'accompagner de mesures
+particulières de sécurité conformément aux dispositions législatives ou
+réglementaires en vigueur ou pour lesquels la protection des intérêts essentiels
+de l'Etat l'exige ;
 
-5° Accords-cadres et marchés, autres que ceux qui sont passés en application du
-décret prévu au II de l'article 4 du présent code, qui exigent le secret ou dont
-l'exécution doit s'accompagner de mesures particulières de sécurité conformément
-aux dispositions législatives ou réglementaires en vigueur ou pour lesquels la
-protection des intérêts essentiels de l'Etat l'exige ;
-
-6° Accords-cadres et marchés passés en vertu de la procédure propre à une
-organisation internationale ;
+6° Accords-cadres et marchés passés au bénéfice d'une entité adjudicatrice en
+vertu de la procédure propre à une organisation internationale et dans le cadre
+des missions de celle-ci ;
 
 7° Accords-cadres et marchés passés selon des règles de passation particulières
-prévues par un accord international relatif au stationnement de troupes ;
-
-8° Accords-cadres et marchés passés selon des règles de passation particulières
-prévues par un accord international en vue de la réalisation ou de
+prévues par un accord international, y compris un arrangement administratif,
+relatif au stationnement des troupes ou conclu entre au moins un Etat membre de
+l'Union européenne et au moins un Etat tiers, en vue de la réalisation ou de
 l'exploitation en commun d'un projet ou d'un ouvrage ;
 
-9° Accords-cadres et marchés qui ont pour objet l'achat d'oeuvres et d'objets
+8° Accords-cadres et marchés qui ont pour objet l'achat d'œuvres et d'objets
 d'art existants, d'objets d'antiquité et de collection ;
 
-10° Accords-cadres et marchés de services relatifs à l'arbitrage et à la
+9° Accords-cadres et marchés de services relatifs à l'arbitrage et à la
 conciliation ;
 
-11° Accords-cadres et marchés de services concernant les contrats de travail.
+10° Accords-cadres et marchés de services concernant les contrats de travail.

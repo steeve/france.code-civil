@@ -3,13 +3,11 @@ Article 45
 I.-Le pouvoir adjudicateur ne peut exiger des candidats que des renseignements
 ou documents permettant d'évaluer leur expérience, leurs capacités
 professionnelles, techniques et financières ainsi que des documents relatifs aux
-pouvoirs des personnes habilitées à les engager. En ce qui concerne les marchés
-passés pour les besoins de la défense, le pouvoir adjudicateur peut également
-exiger des renseignements relatifs à leur nationalité et, si l'objet ou les
-conditions du marché le justifient, à leur habilitation préalable, ou leur
-demande d'habilitation préalable, en application les articles R. 2311-1 et
-suivants du code de la défense relatifs à la protection du secret de la défense
-nationale.
+pouvoirs des personnes habilitées à les engager. Le pouvoir adjudicateur peut
+également exiger, si l'objet ou les conditions du marché le justifient, des
+renseignements relatifs à leur habilitation préalable, ou à leur demande
+d'habilitation préalable, en application des articles R. 2311-1 et suivants du
+code de la défense relatifs à la protection du secret de la défense nationale.
 
 La liste de ces renseignements et documents est fixée par arrêté du ministre
 chargé de l'économie.

@@ -1,27 +1,13 @@
 Article 176
 ----
-Lorsqu'une personne publique agit à la fois en tant que pouvoir adjudicateur et
-en tant qu'entité adjudicatrice, elle peut, pour satisfaire un besoin concernant
-à la fois une activité relevant de la première partie du présent code et une
-activité relevant de sa deuxième partie, passer un seul marché ou passer deux
-marchés distincts, mais ce choix ne peut être effectué dans le but de soustraire
-ces marchés au champ d'application du présent code.
+I.-Les marchés et accords-cadres de défense ou de sécurité définis à l'article
+179 sont soumis aux dispositions de la présente partie.
 
-Lorsqu'elle choisit de ne passer qu'un seul marché :
+II.-Un arrêté du Premier ministre fixe les conditions dans lesquelles est
+assurée la protection du secret et des informations concernant la défense
+nationale et la sûreté de l'Etat dans les marchés et autres contrats.
 
-1° Si le besoin à satisfaire est principalement lié à son activité de pouvoir
-adjudicateur, les règles applicables sont celles de la première partie ;
-
-2° Si le besoin à satisfaire est principalement lié à son activité d'entité
-adjudicatrice, les règles applicables sont celles de la deuxième partie.
-
-S'il est impossible d'établir à qui le marché est principalement destiné, du
-pouvoir adjudicateur ou de l'entité adjudicatrice, les règles applicables sont
-celles de la première partie du présent code.
-
-Si un marché est relatif à une activité entrant dans le champ de la deuxième
-partie et à une activité qui n'entre ni dans le champ de la première partie, ni
-dans le champ de la deuxième partie, si le marché est principalement relatif à
-la première des activités ou s'il est impossible d'établir à laquelle de ces
-deux activités le marché est principalement destiné, les règles applicables sont
-celles de la deuxième partie du présent code.
+III.-Dans les cas où s'appliquent les dispositions des articles L. 1111-1, L.
+1111-2, L. 2141-1, L. 2141-2 et L. 2141-3 du code de la défense, un décret
+particulier remplace, si besoin est, pour les marchés et accords-cadres passés
+par les services de la défense, les dispositions du présent code.

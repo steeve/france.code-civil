@@ -2,14 +2,13 @@ Article 39
 ----
 I.-A partir du seuil de 750 000 euros HT pour les fournitures et les services et
 de 4 845 000 euros HT pour les travaux, un avis de préinformation, conforme au
-modèle fixé par le règlement (CE) n° 1564 / 2005 de la Commission du 7 septembre
-2005 établissant les formulaires standard pour la publication d'avis dans le
-cadre des procédures de passation de marchés publics conformément aux directives
-2004 / 17 / CE et 2004 / 18 / CE du Parlement européen et du Conseil, peut être
-soit adressé pour publication à l'Office des publications officielles de l'Union
-européenne, soit publié sur le profil d'acheteur du pouvoir adjudicateur. Le
-profil d'acheteur du pouvoir adjudicateur est le site dématérialisé auquel il a
-recours pour ses achats.
+modèle fixé par le règlement de la Commission européenne établissant les
+formulaires standard pour la publication d'avis dans le cadre des procédures de
+passation de marchés publics conformément aux directives 2004/17/ CE et 2004/18/
+CE du Parlement européen et du Conseil, peut être soit adressé pour publication
+à l'Office des publications officielles de l'Union européenne, soit publié sur
+le profil d'acheteur du pouvoir adjudicateur. Le profil d'acheteur du pouvoir
+adjudicateur est le site dématérialisé auquel il a recours pour ses achats.
 
 Le pouvoir adjudicateur qui publie l'avis de préinformation sur son profil
 d'acheteur envoie au préalable, par voie électronique, à l'Office des

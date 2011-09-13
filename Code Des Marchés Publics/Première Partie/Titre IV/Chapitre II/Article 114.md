@@ -17,7 +17,7 @@ c) Le montant maximum des sommes à verser par paiement direct au sous-traitant 
 d) Les conditions de paiement prévues par le projet de contrat de sous-traitance
 et, le cas échéant, les modalités de variation des prix ;
 
-e) Les capacités professionnelles et financières du sous-traitant.
+e) Les capacités techniques, professionnelles et financières du sous-traitant.
 
 Il lui remet également une déclaration du sous-traitant indiquant qu'il ne tombe
 pas sous le coup d'une interdiction d'accéder aux marchés publics.

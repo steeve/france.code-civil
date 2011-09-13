@@ -36,45 +36,36 @@ et à des opérations d'approvisionnement en argent ou en capital des pouvoirs
 adjudicateurs, sous réserve des dispositions du 3°.
 
 Sont également exclus les services fournis aux pouvoirs adjudicateurs par des
-banques centrales ;
+banques centrales ; 6° Accords-cadres et marchés de services de recherche et
+développement pour lesquels le pouvoir adjudicateur n'acquiert pas la propriété
+exclusive des résultats ou ne finance pas entièrement la prestation ; 7°
+Accords-cadres et marchés qui exigent le secret ou dont l'exécution doit
+s'accompagner de mesures particulières de sécurité conformément aux dispositions
+législatives ou réglementaires en vigueur ou pour lesquels la protection des
+intérêts essentiels de l'Etat l'exige ;
 
-6° Accords-cadres et marchés de services de recherche et de développement autres
-que ceux pour lesquels le pouvoir adjudicateur acquiert la propriété exclusive
-des résultats et finance entièrement la prestation ;
-
-7° Accords-cadres et marchés, autres que ceux qui sont passés en application du
-décret prévu au II de l'article 4 du présent code, qui exigent le secret ou dont
-l'exécution doit s'accompagner de mesures particulières de sécurité conformément
-aux dispositions législatives ou réglementaires en vigueur ou pour lesquels la
-protection des intérêts essentiels de l'Etat l'exige. Un arrêté du Premier
-ministre fixe les conditions dans lesquelles est assuré, à l'occasion de la
-passation et de l'exécution des accords-cadres et des marchés mentionnés au
-présent alinéa, le respect de la protection du secret ainsi que des informations
-ou des intérêts concernant la défense nationale, la sécurité publique ou la
-sûreté de l'Etat ;
-
-8° Accords-cadres et marchés passés en vertu de la procédure propre à une
-organisation internationale ;
+8° Accords-cadres et marchés passés au bénéfice d'un pouvoir adjudicateur en
+vertu de la procédure propre à une organisation internationale et dans le cadre
+des missions de celle-ci ;
 
 9° Accords-cadres et marchés passés selon des règles de passation particulières
-prévues par un accord international relatif au stationnement de troupes ;
-
-10° Accords-cadres et marchés passés selon des règles de passation particulières
-prévues par un accord international en vue de la réalisation ou de
+prévues par un accord international, y compris un arrangement administratif,
+relatif au stationnement des troupes ou conclu entre au moins un Etat membre de
+l'Union européenne et au moins un Etat tiers, en vue de la réalisation ou de
 l'exploitation en commun d'un projet ou d'un ouvrage ;
 
-11° Accords-cadres et marchés qui ont pour objet l'achat d'oeuvres et d'objets
+10° Accords-cadres et marchés qui ont pour objet l'achat d'œuvres et d'objets
 d'art existants, d'objets d'antiquité et de collection ;
 
-12° Accords-cadres et marchés de services relatifs à l'arbitrage et à la
+11° Accords-cadres et marchés de services relatifs à l'arbitrage et à la
 conciliation ;
 
-13° Accords-cadres et marchés de services concernant les contrats de travail ;
+12° Accords-cadres et marchés de services concernant les contrats de travail ;
 
-14° Accords-cadres et marchés qui ont principalement pour objet de permettre la
+13° Accords-cadres et marchés qui ont principalement pour objet de permettre la
 mise à disposition ou l'exploitation de réseaux publics de communications
 électroniques ou la fourniture au public d'un ou de plusieurs services de
 communications électroniques ;
 
-15° Accords-cadres et marchés qui cessent d'être soumis aux dispositions du
+14° Accords-cadres et marchés qui cessent d'être soumis aux dispositions du
 présent code en application de l'article 140.
