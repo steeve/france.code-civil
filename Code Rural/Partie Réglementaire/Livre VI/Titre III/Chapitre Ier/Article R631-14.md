@@ -1,6 +1,6 @@
 Article R631-14
 ----
-Les contrats mentionnés à l'article R. 631-11 doivent comporter :
+Les contrats mentionnés à l'article R. 631-12 doivent comporter :
 
 1° La mention de la durée du contrat, qui ne peut être inférieure à trois ans,
 et, le cas échéant, les conditions de son renouvellement ;
@@ -48,3 +48,10 @@ cette révision fait l'objet d'un avenant écrit signé des deux parties ;
 
 7° Les modalités de résiliation du contrat et le préavis de rupture, dont la
 durée ne peut être inférieure à quatre mois.
+
+Par dérogation au 1° du présent article, les contrats fermes d'achat de produits
+sur un marché d'intérêt national défini à l'article L. 761-1 du code de commerce
+ou sur un autre marché physique de gros de produits agricoles peuvent comporter
+une durée inférieure à un an. Dans ce cas, les modalités de révision et de
+résiliation mentionnées aux 6° et 7°, notamment la durée du préavis de rupture,
+sont adaptées à la durée du contrat.
