@@ -7,12 +7,13 @@ les organisations représentatives d'employeurs et de salariés sont parties.
 
 Les diplômes et titres à finalité professionnelle ainsi que les certificats de
 qualification professionnelle peuvent être enregistrés, à la demande des
-autorités ou organismes qui les ont créés, après avis de la Commission nationale
-de la certification professionnelle.
+autorités, organismes ou instances qui les ont créés, après avis de la
+Commission nationale de la certification professionnelle.
 
-L'organisme qui délivre la certification et en sollicite l'enregistrement
-fournit à l'appui de sa demande tous éléments d'information quant à la
-qualification recherchée et aux voies d'accès à celle-ci.
+L'autorité, l'organisme ou l'instance qui délivre la certification et en
+sollicite l'enregistrement fournit à l'appui de sa demande tous éléments
+d'information quant à la qualification recherchée et aux voies d'accès à
+celle-ci.
 
 Il apporte les éléments dont il dispose quant aux caractéristiques propres de la
 certification délivrée et à sa complémentarité avec des certifications

@@ -1,21 +1,23 @@
 Article R335-21
 ----
-L'enregistrement sur demande d'un diplôme, d'un titre ou d'un certificat de
+La Commission nationale de la certification professionnelle, saisie d'une
+demande d'enregistrement d'un diplôme, d'un titre ou d'un certificat de
 qualification dans le répertoire national des certifications professionnelles
-est valable cinq ans à compter de la publication de l'arrêté mentionné à
-l'article R.* 335-20.
+détermine la durée de validité de cet enregistrement, dans une limite allant de
+trois à cinq ans. La durée de validité de l'enregistrement court à compter de la
+publication de l'arrêté mentionné à l'article R. 335-20.
+
+Au plus tard six mois avant l'expiration du délai de validité de
+l'enregistrement en cours, l'autorité, l'organisme ou l'instance intéressé
+adresse, dans les conditions déterminées aux articles R. 335-15 à R. 335-19, une
+demande de renouvellement qui fait mention des éléments nouveaux intervenus
+depuis la demande initiale ou la dernière demande de renouvellement de cet
+enregistrement.
+
+L'enregistrement est renouvelé pour une période, déterminée par la Commission
+nationale de la certification professionnelle, dans la limite d'une durée de
+cinq ans.
 
 S'il apparaît que les conditions qui motivaient l'enregistrement, notamment la
 possibilité d'acquérir le diplôme ou le titre par validation des acquis, ont
 cessé d'être remplies, il peut y être mis fin sans attendre l'échéance normale.
-
-L'enregistrement venant à échéance normale peut être renouvelé par périodes
-maximales de cinq ans sur demande de l'organisme intéressé. La demande de
-renouvellement de l'enregistrement est formulée au moins six mois avant la date
-d'échéance de l'enregistrement en cours de validité dans les conditions
-mentionnées aux articles R. 335-15 à R. 335-19. Elle fait mention des éléments
-nouveaux intervenus depuis la demande d'enregistrement antérieure.
-
-La date de premier enregistrement et celles des éventuels renouvellements ou
-modifications figurent parmi les informations données dans le répertoire sur le
-diplôme, le titre ou le certificat concernés.

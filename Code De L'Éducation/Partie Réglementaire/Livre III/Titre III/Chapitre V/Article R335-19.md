@@ -1,14 +1,14 @@
 Article R335-19
 ----
-Les ministres délivrant des diplômes ou des titres enregistrés de droit dans le
-répertoire national des certifications professionnelles informent la Commission
-nationale de la certification professionnelle de toute création, actualisation
-ou suppression de ces diplômes ou titres à finalité professionnelle.
+La Commission nationale de la certification professionnelle est tenue informée
+par les ministres compétents de l'actualisation ou de la suppression des
+diplômes et titres enregistrés de droit en application des dispositions de
+l'article R. 335-16.
 
 Pour les autres certifications, la première demande d'enregistrement ainsi que
 la demande de renouvellement ou de suppression d'enregistrement peuvent être
-déposées par l'autorité ou l'organisme qui les délivre, soit auprès de la
-Commission nationale de la certification professionnelle, puis auprès du
+déposées par l'autorité, l'organisme ou l'instance qui les délivre, soit auprès
+de la Commission nationale de la certification professionnelle, puis auprès du
 ministre compétent pour le champ professionnel des activités concernées par la
 certification, soit auprès du ministre chargé de la formation professionnelle.
 S'il s'agit d'un organisme à vocation régionale, la demande est déposée auprès
@@ -35,6 +35,6 @@ Dans les deux cas, le président de la commission nationale peut désigner un
 expert pour compléter l'information de la commission.
 
 Le président de la Commission nationale de la certification professionnelle
-transmet tous les deux mois au ministre chargé de la formation professionnelle
-les avis de la commission afin qu'il puisse prendre l'arrêté mentionné à
-l'article R.* 335-20.
+transmet à l'issue de chaque réunion trimestrielle de la commission au ministre
+chargé de la formation professionnelle les avis de la commission afin qu'il
+puisse prendre l'arrêté mentionné à l'article R. * 335-20.
