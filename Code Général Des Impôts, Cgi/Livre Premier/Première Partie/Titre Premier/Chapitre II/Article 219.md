@@ -24,14 +24,14 @@ au cours des dix exercices suivants.
 
 a bis. Les moins-values à long terme existant à l'ouverture du premier des
 exercices ouverts à compter du 1er janvier 1994 sont imputées sur les
-plus-values à long terme imposées au taux de 19 %.L'excédent des moins-values à
+plus-values à long terme imposées au taux de 19 %. L'excédent des moins-values à
 long terme subies au cours d'un exercice ouvert à compter du 1er janvier 1994
 peut être déduit des bénéfices de l'exercice de liquidation d'une entreprise à
 raison des 19/33,33 de son montant.
 
 Les moins-values à long terme existant à l'ouverture du premier des exercices
 ouverts à compter du 1er janvier 2005 sont imputées sur les plus-values à long
-terme imposées au taux de 15 %.L'excédent des moins-values à long terme subies
+terme imposées au taux de 15 %. L'excédent des moins-values à long terme subies
 au cours d'un exercice ouvert à compter du 1er janvier 2005 et afférentes à des
 éléments autres que les titres de participations définis au troisième alinéa du
 a quinquies peut être déduit des bénéfices de l'exercice de liquidation d'une
@@ -162,7 +162,9 @@ fixé à 0 % pour les exercices ouverts à compter du 1er janvier 2007.
 
 Pour les exercices ouverts à compter du 1er janvier 2007, une quote-part de
 frais et charges égale à 5 % du résultat net des plus-values de cession est
-prise en compte pour la détermination du résultat imposable.
+prise en compte pour la détermination du résultat imposable. Cette quote-part de
+frais et charges est portée au taux de 10 % pour les exercices ouverts à compter
+du 1er janvier 2011.
 
 Les titres de participation mentionnés au premier alinéa sont les titres de
 participation revêtant ce caractère sur le plan comptable, les actions acquises
@@ -314,20 +316,6 @@ apparaître les éléments nécessaires au calcul des plus-values et ceux relati
 l'identification de l'entreprise qui détient les titres, explicitant les liens
 de dépendance qui les unissent.
 
-2. Pour les exercices ouverts à compter du 1er janvier 2006, la plus-value
-réalisée sur la cession de parts de fonds communs de placement à risques ou
-d'actions de sociétés de capital-risque mentionnées au premier alinéa du a ter
-est soumise au taux de 8 % à hauteur du rapport existant à la date de la cession
-entre la valeur des actions ou parts de sociétés mentionnées au premier alinéa
-du 1 inscrites à l'actif du fonds ou de la société augmentée des sommes en
-instance de distribution depuis moins de six mois représentative de la cession
-d'actions ou de parts de sociétés mentionnées au premier alinéa du 1 et la
-valeur de l'actif total de ce fonds ou de cette société. Ce taux est fixé à 0 %
-pour les exercices ouverts à compter du 1er janvier 2007.
-
-Un décret en Conseil d'Etat fixe les modalités d'appréciation du rapport
-précité.
-
 b. Par exception au deuxième alinéa du présent I et au premier alinéa du a, pour
 les redevables ayant réalisé un chiffre d'affaires de moins de 7 630 000 euros
 au cours de l'exercice ou de la période d'imposition, ramené s'il y a lieu à
@@ -366,7 +354,7 @@ hauteur de la fraction de leurs résultats comptables qu'elles incorporent à le
 capital au cours de l'exercice suivant celui de leur réalisation. Cette fraction
 doit représenter, pour chacun des trois exercices et dans la limite du résultat
 fiscal, le quart au plus du résultat comptable sans excéder la somme de 30 000
-euros.L'option ne peut plus être exercée pour l'imposition des résultats des
+euros. L'option ne peut plus être exercée pour l'imposition des résultats des
 exercices ouverts à compter du 1er janvier 2001. Lorsque, à cette date, la série
 de trois exercices bénéficiaires est en cours, le taux d'imposition prévu par le
 dispositif ne s'applique pas aux résultats des exercices restants, sauf, sur
@@ -437,7 +425,7 @@ qui en découlent sont fixées par décret.
 
 II. Les plus-values visées au I de l'article 238 octies sont soumises à l'impôt
 au taux de 15 % lorsque la société n'a pas demandé à bénéficier de l'exonération
-sous condition de remploi prévue audit article.L'application de la présente
+sous condition de remploi prévue audit article. L'application de la présente
 disposition est toutefois subordonnée à la double condition que :
 
 a. Les opérations génératrices des plus-values présentent un caractère
@@ -456,7 +444,7 @@ Toutefois, en ce qui concerne ces profits :
 
 a. Le taux réduit de l'impôt sur les sociétés est fixé à 25 % ;
 
-b.L'application de ce taux réduit est subordonnée à la condition que les
+b. L'application de ce taux réduit est subordonnée à la condition que les
 opérations de construction correspondantes présentent un caractère accessoire
 pour la société intéressée.
 

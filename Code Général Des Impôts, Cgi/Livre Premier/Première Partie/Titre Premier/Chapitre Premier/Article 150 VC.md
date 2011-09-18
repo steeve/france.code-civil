@@ -1,8 +1,13 @@
 Article 150 VC
 ----
 I.-La plus-value brute réalisée sur les biens ou droits mentionnés aux articles
-150 U, 150 UB et 150 UC est réduite d'un abattement de 10 % pour chaque année de
-détention au-delà de la cinquième.
+150 U, 150 UB et 150 UC est réduite d'un abattement fixé à :
+
+-2 % pour chaque année de détention au-delà de la cinquième ;
+
+-4 % pour chaque année de détention au-delà de la dix-septième ;
+
+-8 % pour chaque année de détention au-delà de la vingt-quatrième.
 
 La plus-value brute réalisée sur les biens ou droits mentionnés à l'article 150
 UA est réduite d'un abattement de 10 % pour chaque année de détention au-delà de

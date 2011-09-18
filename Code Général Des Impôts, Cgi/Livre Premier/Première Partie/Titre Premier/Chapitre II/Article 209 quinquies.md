@@ -4,7 +4,7 @@ Les sociétés françaises agréées à cet effet par le ministre de l'économie
 finances peuvent retenir l'ensemble des résultats de leurs exploitations
 directes ou indirectes, qu'elles soient situées en France ou à l'étranger, pour
 l'assiette des impôts établis sur la réalisation et la distribution de leurs
-bénéfices.
+bénéfices réalisés au titre des exercices clos avant le 6 septembre 2011.
 
 Les conditions d'application des dispositions qui précèdent sont fixées par un
 décret en conseil d'Etat (1).
