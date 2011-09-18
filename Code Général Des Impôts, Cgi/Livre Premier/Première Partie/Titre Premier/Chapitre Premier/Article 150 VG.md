@@ -1,6 +1,6 @@
 Article 150 VG
 ----
-I. - Une déclaration, conforme à un modèle établi par l'administration, retrace
+I.-Une déclaration, conforme à un modèle établi par l'administration, retrace
 les éléments servant à la liquidation de l'impôt sur le revenu afférent à la
 plus-value ainsi que, le cas échéant, les éléments servant à la liquidation de
 l'impôt sur le revenu afférent à la plus-value en report d'imposition et
@@ -29,7 +29,7 @@ impôts chargé du recouvrement et dans les délais prévus au 1° du I de l'art
 4° Dans les autres cas, au service des impôts dont relève le domicile du vendeur
 dans un délai d'un mois à compter de la cession.
 
-II. - Par dérogation au I, la déclaration est déposée :
+II.-Par dérogation au I, la déclaration est déposée :
 
 1° Pour les actes passés en la forme administrative qui constatent une mutation
 immobilière amiable ou forcée de biens au profit de l'Etat, des établissements
@@ -49,7 +49,7 @@ pas le refus du dépôt ou de la formalité ;
 
 3° Pour les cessions des biens mentionnés à l'article 150 U constatées par un
 acte notarié, au service des impôts dont relève le domicile du vendeur dans un
-délai de deux mois à compter de la date de l'acte, lorsque l'impôt sur le revenu
+délai d'un mois à compter de la date de l'acte, lorsque l'impôt sur le revenu
 afférent à la plus-value ne peut être intégralement acquitté en raison de
 créances primant le privilège du Trésor ou lorsque la cession est constatée au
 profit d'une collectivité mentionnée au 1°. L'absence de déclaration à l'appui
@@ -67,9 +67,9 @@ porteur de parts de fonds de placement immobilier, au service des impôts des
 entreprises du lieu du siège social de l'établissement payeur, dans un délai
 d'un mois à compter de la cession.
 
-III. - Lorsque la plus-value est exonérée en application du II des articles 150
-U et 150 UA ou par l'application de l'abattement prévu au I de l'article 150 VC
-ou lorsque la cession ne donne pas lieu à une imposition, aucune déclaration ne
+III.-Lorsque la plus-value est exonérée en application du II des articles 150 U
+et 150 UA ou par l'application de l'abattement prévu au I de l'article 150 VC ou
+lorsque la cession ne donne pas lieu à une imposition, aucune déclaration ne
 doit être déposée sauf dans le cas où l'impôt sur le revenu afférent à la
 plus-value en report d'imposition est dû. L'acte de cession soumis à la
 formalité fusionnée ou présenté à l'enregistrement précise, sous peine de refus
