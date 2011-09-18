@@ -37,7 +37,4 @@ date d'acquisition de ces droits lorsque les biens ou droits cédés figuraient
 dans le patrimoine fiduciaire à cette date, ou à partir de la date d'acquisition
 des biens ou droits par la fiducie dans le cas contraire.
 
-II.-La plus-value brute réalisée lors de la cession d'un cheval de course ou de
-sport est réduite d'un abattement supplémentaire de 15 % par année de détention
-comprise entre la date d'acquisition du cheval et la fin de sa septième année.
-Toute année commencée compte pour une année pleine.
+II.-(Abrogé).

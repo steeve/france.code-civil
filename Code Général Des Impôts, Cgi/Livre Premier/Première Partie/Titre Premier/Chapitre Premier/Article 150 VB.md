@@ -1,7 +1,9 @@
 Article 150 VB
 ----
 I.-Le prix d'acquisition est le prix effectivement acquitté par le cédant, tel
-qu'il a été stipulé dans l'acte. Lorsqu'une dissimulation du prix est établie,
+qu'il est stipulé dans l'acte, étant précisé que ce prix s'entend de l'existant
+et des travaux dans le cas d'une acquisition réalisée selon le régime juridique
+de la vente d'immeuble à rénover. Lorsqu'une dissimulation du prix est établie,
 le prix porté dans l'acte doit être majoré du montant de cette dissimulation. En
 cas d'acquisition à titre gratuit, le prix d'acquisition s'entend de la valeur
 retenue pour la détermination des droits de mutation à titre gratuit. A défaut,
