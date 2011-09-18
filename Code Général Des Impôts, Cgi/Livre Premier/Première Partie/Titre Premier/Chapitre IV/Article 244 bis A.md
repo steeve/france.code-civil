@@ -99,7 +99,7 @@ assujettis à l'impôt sur le revenu, les plus-values sont déterminées selon l
 modalités définies :
 
 1° Au I et aux 2° à 8° du II de l'article 150 U, aux II et III de l'article 150
-UB et aux articles 150 V à 150 VE ;
+UB et aux articles 150 V à 150 VD ;
 
 2° Au III de l'article 150 U lorsqu'elles s'appliquent à des ressortissants d'un
 Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur

@@ -1,7 +1,8 @@
 Article 223 I
 ----
 1. a) Les déficits subis par une société du groupe au titre d'exercices
-antérieurs à son entrée dans le groupe ne sont imputables que sur son bénéfice ;
+antérieurs à son entrée dans le groupe ne sont imputables que sur son bénéfice,
+dans les limites et conditions prévues au dernier alinéa du I de l'article 209 ;
 
 b) La quote-part de déficits qui correspond aux suppléments d'amortissements
 résultant de la réévaluation de ses immobilisations par une société du groupe,
@@ -31,15 +32,17 @@ long terme de la société est diminué, le cas échéant, du montant des profit
 des plus-values à long terme qui résultent des abandons de créances ou des
 subventions directes ou indirectes qui lui sont consentis mais ne sont pas pris
 en compte pour la détermination du résultat d'ensemble en application du sixième
-alinéa de l'article 223 B, (1) des cessions visées à l'article 223 F ainsi que
-d'une réévaluation libre des éléments d'actif de cette société et augmenté du
-montant des pertes ou des moins-values à long terme qui résultent des cessions
-visées à l'article 223 F ; ils sont également diminués du montant des
-plus-values de cession d'immobilisations non amortissables qui ont fait l'objet
-d'un apport ayant bénéficié des dispositions de l'article 210 A ainsi que des
-plus-values réintégrées en application du d du 3 du même article. De même, le
-déficit ou la moins-value nette à long terme de la société, mentionné au b du 1
-et au 3, est augmenté de ces profits ou plus-values.
+alinéa de l'article 223 B, des cessions visées à l'article 223 F ainsi que d'une
+réévaluation libre des éléments d'actif de cette société et augmenté du montant
+des pertes ou des moins-values à long terme qui résultent des cessions visées à
+l'article 223 F ; ils sont également diminués du montant des plus-values de
+cession d'immobilisations non amortissables qui ont fait l'objet d'un apport
+ayant bénéficié des dispositions de l'article 210 A ainsi que des plus-values
+réintégrées en application du d du 3 du même article. De même, le déficit ou la
+moins-value nette à long terme de la société, mentionné au b du 1 et au 3, est
+augmenté de ces profits ou plus-values. Pour l'application de la limite prévue
+au dernier alinéa du I de l'article 209, le bénéfice imposable s'entend du
+bénéfice de la société déterminé selon les modalités prévues au présent 4.
 
 5. Dans les situations visées aux c, d, e, f ou i du 6 de l'article 223 L, et
 sous réserve, le cas échéant, de l'obtention de l'agrément prévu au 6, la

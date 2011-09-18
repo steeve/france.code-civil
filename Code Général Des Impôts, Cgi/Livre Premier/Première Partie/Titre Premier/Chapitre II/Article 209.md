@@ -2,7 +2,7 @@ Article 209
 ----
 I. Sous réserve des dispositions de la présente section, les bénéfices passibles
 de l'impôt sur les sociétés sont déterminés d'après les règles fixées par les
-articles 34 à 45, 53 A à 57, 237 ter A et 302 septies A bis et en tenant compte
+articles 34 à 45,53 A à 57,237 ter A et 302 septies A bis et en tenant compte
 uniquement des bénéfices réalisés dans les entreprises exploitées en France, de
 ceux mentionnés aux a, e, e bis et e ter du I de l'article 164 B ainsi que de
 ceux dont l'imposition est attribuée à la France par une convention
@@ -17,9 +17,13 @@ au plus tard, jusqu'au 31 décembre de l'année suivant celle de la création.
 
 Sous réserve de l'option prévue à l'article 220 quinquies, en cas de déficit
 subi pendant un exercice, ce déficit est considéré comme une charge de
-l'exercice suivant et déduit du bénéfice réalisé pendant ledit exercice. Si ce
-bénéfice n'est pas suffisant pour que la déduction puisse être intégralement
-opérée, l'excédent du déficit est reporté sur les exercices suivants.
+l'exercice suivant et déduit du bénéfice réalisé pendant ledit exercice dans la
+limite d'un montant de 1 000 000 € majoré de 60 % du montant correspondant au
+bénéfice imposable dudit exercice excédant ce premier montant. Si ce bénéfice
+n'est pas suffisant pour que la déduction puisse être intégralement opérée,
+l'excédent du déficit est reporté dans les mêmes conditions sur les exercices
+suivants. Il en est de même de la fraction de déficit non admise en déduction en
+application de la première phrase du présent alinéa.
 
 II. En cas de fusion ou opération assimilée placée sous le régime de l'article
 210 A, les déficits antérieurs et la fraction d'intérêts mentionnée au sixième
@@ -35,10 +39,10 @@ ceux afférents à la branche d'activité apportée.
 
 L'agrément est délivré lorsque :
 
-a.L'opération est justifiée du point de vue économique et obéit à des
+a. L'opération est justifiée du point de vue économique et obéit à des
 motivations principales autres que fiscales ;
 
-b.L'activité à l'origine des déficits ou des intérêts dont le transfert est
+b. L'activité à l'origine des déficits ou des intérêts dont le transfert est
 demandé est poursuivie par la ou les sociétés bénéficiaires des apports pendant
 un délai minimum de trois ans.
 

@@ -4,7 +4,11 @@ I.-Le prix d'acquisition est le prix effectivement acquitté par le cédant, tel
 qu'il a été stipulé dans l'acte. Lorsqu'une dissimulation du prix est établie,
 le prix porté dans l'acte doit être majoré du montant de cette dissimulation. En
 cas d'acquisition à titre gratuit, le prix d'acquisition s'entend de la valeur
-retenue pour la détermination des droits de mutation à titre gratuit.
+retenue pour la détermination des droits de mutation à titre gratuit. A défaut,
+selon le cas, de prix stipulé dans l'acte ou de valeur retenue pour la
+détermination des droits de mutation à titre gratuit, le prix d'acquisition
+s'entend de la valeur vénale réelle à la date d'entrée dans le patrimoine du
+cédant d'après une déclaration détaillée et estimative des parties.
 
 Lorsqu'un bien a été acquis moyennant le paiement d'une rente viagère, le prix
 d'acquisition retenu pour ce bien est la valeur en capital de la rente, à
