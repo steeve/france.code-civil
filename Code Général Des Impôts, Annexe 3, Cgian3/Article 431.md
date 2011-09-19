@@ -1,6 +1,8 @@
 Article 431
 ----
-Le sursis de versement est accordé pour une année.
+A l'occasion de l'examen des restes à recouvrer, le comptable principal prend
+une décision accordant la dispense de versement, la refusant ou constatant la
+force majeure.
 
-Il est susceptible d'être renouvelé sur demande ultérieure du comptable du
-Trésor chargé du recouvrement des impôts directs.
+Pour l'exercice de cette compétence, le comptable principal peut déléguer sa
+signature aux administrateurs des finances publiques placés sous son autorité.

@@ -1,11 +1,8 @@
 Article 434
 ----
-Le préfet statue sur les demandes en décharge ou en atténuation de
-responsabilité, à moins que la cote visée ou l'une des cotes visées s'il s'agit
-d'un contribuable pour lequel plusieurs cotes sont en cause, n'excède la somme
-de 15 000 euros.
-
-Il se prononce au vu des avis émis par le trésorier-payeur général et par le
-directeur des services fiscaux, lorsque ces avis sont concordants et, dans le
-cas contraire, après avoir pris l'avis de la commission départementale prévue à
-l'article 443.
+Le comptable principal statue sur les demandes de remise gracieuse des
+comptables secondaires relatives à des décisions leur refusant la dispense de
+versement, dont le montant n'excède pas un seuil fixé par arrêté du ministre
+chargé du budget. Au-delà de ce seuil, ces demandes relèvent de la compétence du
+ministre chargé du budget, qui se prononce au vu de l'avis émis par le comptable
+principal.
