@@ -2,14 +2,13 @@ Article D811-141
 ----
 I. - Le diplôme du brevet de technicien supérieur agricole est délivré à la
 suite d'un examen public ou selon d'autres modalités fixées aux articles D.
-811-142 et D. 811-160.
+811-142, D. 811-159 et D. 811-160.
 
 Pour se présenter à l'examen du brevet de technicien supérieur agricole par la
 voie scolaire, les candidats doivent :
 
-a) Soit relever du premier ou du troisième alinéa du III de l'article D. 811-140
-et avoir suivi la scolarité complète définie par l'arrêté ministériel mentionné
-au II de l'article D. 811-139.
+a) Soit avoir suivi la scolarité complète définie par l'arrêté ministériel
+mentionné au II de l'article D. 811-139.
 
 Pour les établissements privés assurant des formations selon les modalités
 définies à l'article L. 813-9, la formation comprend une durée totale d'au moins
@@ -17,8 +16,8 @@ définies à l'article L. 813-9, la formation comprend une durée totale d'au mo
 dirigés effectués dans le centre de formation ;
 
 b) Soit avoir été admis directement en seconde année d'une section préparatoire
-au brevet de technicien supérieur agricole conformément aux dispositions du IV
-de l'article D. 811-140 et avoir suivi la formation.
+au brevet de technicien supérieur agricole dans les conditions prévues aux a et
+b du III de l'article D. 811-140 et avoir suivi la formation.
 
 II. - Pour se présenter à l'examen du brevet de technicien supérieur agricole au
 titre de candidat libre, les candidats doivent avoir occupé un emploi de niveau

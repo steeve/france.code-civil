@@ -75,7 +75,8 @@ plusieurs épreuves du deuxième groupe sont soumis aux épreuves du deuxième
 groupe correspondantes.
 
 VI.-Le jury est nommé par arrêté du ministre de l'agriculture. Chaque jury
-national est présidé par un ingénieur général d'agronomie.
+national est présidé par un membre du Conseil général de l'alimentation, de
+l'agriculture et des espaces ruraux.
 
 Le jury est composé, pour deux tiers au moins, d'enseignants d'établissements
 agricoles publics ou privés, justifiant sans dérogation possible des titres ou
@@ -180,12 +181,11 @@ mentionnés à l'alinéa précédent, obtenus après au moins trois années d'é
 supérieures.
 
 XIII.-Pour les étudiants à titre d'étranger non titulaires de diplômes français
-admis dans les classes de préparation au brevet de technicien supérieur agricole
-en application du b du troisième alinéa du III de l'article D. 811-140, la durée
-des épreuves écrites prévues dans les différentes options du brevet de
-technicien supérieur agricole et pour lesquelles un travail important de
-rédaction et de synthèse est demandé peut être prolongée d'un temps égal au plus
-au tiers de la durée normale de ces épreuves.
+admis dans les classes de préparation au brevet de technicien supérieur
+agricole, la durée des épreuves écrites prévues dans les différentes options du
+brevet de technicien supérieur agricole et pour lesquelles un travail important
+de rédaction et de synthèse est demandé peut être prolongée d'un temps égal au
+plus au tiers de la durée normale de ces épreuves.
 
 La nature des épreuves concernées ainsi que la durée de la prolongation accordée
 sont fixées par le ministre de l'agriculture.
