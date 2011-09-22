@@ -1,15 +1,12 @@
 Article R532-10
 ----
-L'agrément peut être assorti de prescriptions spéciales relatives, notamment,
-aux mesures de confinement.
+Le Haut Conseil des biotechnologies transmet son avis au ministre chargé de la
+recherche dans un délai de trente-cinq jours.
 
-Des prescriptions techniques générales, applicables aux laboratoires et
-utilisations faisant l'objet d'un agrément, peuvent être fixées par arrêtés
-conjoints des ministres chargés de l'environnement et de la recherche, après
-avis du Haut Conseil des biotechnologies.
+Ce délai est porté à soixante-quinze jours en cas de première demande d'agrément
+d'utilisation confinée d'organismes génétiquement modifiés de classe de
+confinement 3 ou 4.
 
-Le refus d'agrément doit être motivé.
-
-Si le ministre chargé de la recherche estime, après avis du Haut Conseil des
-biotechnologies, que l'utilisation projetée n'est pas soumise aux dispositions
-législatives du présent titre ou du présent chapitre, il en avise le demandeur.
+Il est suspendu pendant la même période que le délai dans lequel il doit être
+statué sur la demande d'agrément d'utilisation en cas de mise en œuvre du
+troisième alinéa de l'article R. 532-9.

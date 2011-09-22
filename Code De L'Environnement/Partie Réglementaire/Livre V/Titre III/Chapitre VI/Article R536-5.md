@@ -1,4 +1,5 @@
 Article R536-5
 ----
-Le contrôle des installations mentionnées à l'article R. 515-32 est réalisé dans
-les conditions définies par les articles R. 514-1 à R. 514-3.
+Les personnes mentionnées aux articles R. 514-2 et R. 514-3 peuvent,
+conformément à l'article L. 536-1, rechercher et constater les infractions aux
+dispositions des articles L. 536-3 à L. 536-6 et R. 536-11.

@@ -1,13 +1,7 @@
 Article R532-19
 ----
-La présente section fixe les conditions d'application de la section précédente
-et des articles R. 536-1 à R. 536-4 et R. 536-11 à l'utilisation confinée à des
-fins de recherche, de développement ou d'enseignement d'organismes génétiquement
-modifiés mise en oeuvre :
-
-1° Soit dans des établissements dépendant du ministère de la défense ;
-
-2° Soit, à la demande de ce ministère, par des établissements publics ou
-organismes privés, dès lors que ces utilisations sont couvertes en tout ou
-partie par le secret de la défense nationale, ou qu'elles nécessitent l'emploi
-d'informations couvertes par ce même secret.
+L'exploitant de l'installation peut demander au ministre chargé de la recherche
+la modification de certaines des prescriptions applicables à l'utilisation ou
+des conditions de mise en œuvre des utilisations agréées ou déclarées. Le
+ministre statue dans un délai de quarante-cinq jours conformément à la procédure
+prévue aux articles R. 532-9 à R. 532-11.

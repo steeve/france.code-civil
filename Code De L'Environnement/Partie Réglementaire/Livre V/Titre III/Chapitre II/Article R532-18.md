@@ -1,5 +1,6 @@
 Article R532-18
 ----
-Les dispositions relatives à l'utilisation confinée des organismes génétiquement
-modifiés à des fins industrielles sont énoncées aux articles R. 515-32 à R.
-515-36.
+En cas de changement d'exploitant de l'installation ou de responsable de
+l'utilisation confinée d'organismes génétiquement modifiée agréée ou déclarée,
+le nouvel exploitant de l'installation ou le nouveau responsable de
+l'utilisation informent sans délai le ministre chargé de la recherche.

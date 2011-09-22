@@ -1,5 +1,5 @@
 Article R536-6
 ----
-Pour les installations mentionnées à l'article R. 532-19, le ministre de la
-défense habilite les agents dans les conditions définies par l'article R.
-532-23.
+En matière d'utilisation confinée d'organismes génétiquement modifiés dans le
+cadre de la défense nationale, le ministre compétent mentionné aux articles R.
+536-1 à R. 536-4 est le ministre de la défense.

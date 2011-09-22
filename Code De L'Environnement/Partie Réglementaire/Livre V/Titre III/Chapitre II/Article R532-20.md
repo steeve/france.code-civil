@@ -1,5 +1,13 @@
 Article R532-20
 ----
-L'agrément prévu à l'article L. 532-3 auquel est soumise l'utilisation confinée
-mentionnée à l'article R. 532-19 est délivré par le ministre de la défense après
-avis des ministres chargés de l'environnement et de la recherche.
+Si l'exploitant souhaite poursuivre l'utilisation confinée pour laquelle il
+dispose d'un agrément ou d'un récépissé de déclaration, une nouvelle demande
+d'agrément ou une nouvelle déclaration d'utilisation est adressée au ministre
+chargé de la recherche au moins quarante-cinq jours avant l'expiration du délai
+prévu par l'agrément ou par le récépissé de déclaration.
+
+Une nouvelle demande doit être adressée en cas de modification notable des
+conditions de l'utilisation d'organismes génétiquement modifiés ayant fait
+l'objet de l'agrément ou de la déclaration d'utilisation, notamment en cas de
+changement de classe de confinement de l'utilisation ou d'aggravation du risque
+présenté par l'utilisation agréée ou déclarée.

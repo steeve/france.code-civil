@@ -1,6 +1,7 @@
 Article R532-12
 ----
-En cas de changement d'exploitant du laboratoire ou du directeur des travaux de
-recherche au cours de l'instruction de la demande d'agrément ou après la
-délivrance de l'agrément, le nouvel utilisateur informe le ministre chargé de la
-recherche dans le mois qui suit.
+L'agrément d'utilisation peut être assorti de prescriptions spéciales, en
+particulier si, dans la même installation, il est utilisé des organismes
+génétiquement modifiés de classes de confinement différentes. Dans ce cas, les
+prescriptions applicables à la classe de confinement la plus élevée peuvent être
+exigées pour l'ensemble des utilisations mises en œuvre dans cette installation.
