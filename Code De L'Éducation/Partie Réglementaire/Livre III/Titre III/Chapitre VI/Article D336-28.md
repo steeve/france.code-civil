@@ -28,10 +28,11 @@ lycées d'enseignement privé sous contrat, du contrôle en cours de formation
 prévu par l'article L. 331-1. Pour les autres candidats, la note résulte d'un
 examen terminal.
 
-En ce qui concerne l'épreuve facultative, ne sont retenus que les points
-excédant 10. Ces points entrent en ligne de compte pour l'admission à l'issue du
-premier ou du deuxième groupe d'épreuves ou pour l'attribution d'une mention à
-l'issue du premier groupe d'épreuves.
+En ce qui concerne l'épreuve facultative, seuls les points excédant 10 sont
+retenus et multipliés, le cas échéant, par un coefficient fixé par arrêté du
+ministre chargé de l'éducation. Ces points entrent en ligne de compte pour
+l'admission à l'issue du premier groupe et du deuxième groupe d'épreuves et pour
+l'attribution d'une mention à l'issue du premier groupe.
 
 Pour les candidats qui présentent un handicap tel que défini à l'article L. 114
 du code de l'action sociale et des familles et qui sont autorisés à étaler sur
