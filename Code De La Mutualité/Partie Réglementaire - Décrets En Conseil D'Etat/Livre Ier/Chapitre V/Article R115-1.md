@@ -6,8 +6,8 @@ les dispositions du présent code qui s'appliquent aux unions de droit commun
 sous réserve des règles particulières du présent chapitre. Elles se forment dans
 les conditions propres aux unions énoncées à l'article L. 113-1.
 
-Elles sont tenues de s'immatriculer au registre national des mutuelles dans les
-conditions prévues à l'article R. 414-2.
+Elles sont tenues de s'immatriculer auprès du secrétaire général du Conseil
+supérieur de la mutualité dans les conditions prévues à l'article R. 414-2.
 
 Préalablement à la tenue de l'assemblée générale constitutive de l'union
 mutualiste de groupe, les membres fondateurs procèdent au dépôt des éléments
@@ -15,8 +15,8 @@ constitutifs du fonds d'établissement dans les conditions prévues à l'article
 212-2.
 
 II.-Dans le mois de la constitution de toute union mutualiste de groupe, sont
-déposés auprès du préfet de région dans laquelle est situé le siège de
-l'organisme les éléments suivants :
+déposés auprès du secrétaire général du Conseil supérieur de la mutualité les
+éléments suivants :
 
 a) La liste dûment certifiée des membres fondateurs mentionnant, pour chacun
 d'eux, leur dénomination, leur siège social, le montant de leurs engagements
@@ -44,8 +44,8 @@ du journal certifié par l'imprimeur.
 L'extrait doit contenir la dénomination adoptée par l'union mutualiste de groupe
 et l'indication de son siège, la désignation des personnes autorisées à gérer,
 administrer et signer pour l'union et, en outre, la date à laquelle l'union a
-été constituée, celle où elle doit finir et la date du dépôt auprès du préfet de
-région.
+été constituée, celle où elle doit finir et la date du dépôt auprès du
+secrétaire général du Conseil supérieur de la mutualité.
 
 Il indique également le montant et le mode de constitution du fonds
 d'établissement et, s'il y a lieu, le montant du droit d'entrée.
@@ -58,11 +58,9 @@ au-delà du terme fixé pour sa durée, ou la dissolution de l'union avant ce
 terme.
 
 Toute personne a le droit de prendre communication des pièces déposées auprès du
-préfet de région ou même de s'en faire délivrer à ses frais un extrait par le
-préfet.
+secrétaire général du Conseil supérieur de la mutualité ou même de s'en faire
+délivrer à ses frais un extrait par le secrétaire général du Conseil supérieur
+de la mutualité.
 
 Toute personne peut obtenir, au siège de l'union, une copie certifiée des
 statuts.
-
-IV.-Dans la collectivité territoriale de Corse, les formalités prévues au
-présent chapitre sont accomplies auprès du préfet de Corse.

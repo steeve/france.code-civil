@@ -6,11 +6,11 @@ mutualiste de groupe.
 
 Ils doivent prévoir que l'admission ou l'exclusion d'un organisme affilié fait
 l'objet d'une déclaration préalable auprès de l'Autorité de contrôle prudentiel,
-accompagnée d'un dossier dont la composition est fixée par arrêté de ce
-ministre. L'Autorité de contrôle prudentiel peut, dans un délai de trois mois à
-compter de la réception du dossier, s'opposer à l'opération, si celle-ci
-apparaît contraire aux intérêts des assurés des organismes affiliés, par une
-décision motivée adressée à la ou aux personnes intéressées par lettre
+accompagnée d'un dossier dont la composition est fixée par l'Autorité de
+contrôle prudentiel. L'Autorité de contrôle prudentiel peut, dans un délai de
+trois mois à compter de la réception du dossier, s'opposer à l'opération, si
+celle-ci apparaît contraire aux intérêts des assurés des organismes affiliés,
+par une décision motivée adressée à la ou aux personnes intéressées par lettre
 recommandée avec accusé de réception. A défaut d'opposition de l'Autorité de
 contrôle prudentiel, l'opération peut être réalisée à l'expiration de ce délai.
 
@@ -45,5 +45,5 @@ la convocation de l'assemblée générale dudit organisme et de proposer lors de
 celle-ci l'élection de nouveaux candidats au poste d'administrateur.
 
 III.-Les projets de statuts doivent indiquer le mode de rémunération de la
-direction.S'il y a lieu, ils peuvent également prévoir le mode d'indemnisation
+direction. S'il y a lieu, ils peuvent également prévoir le mode d'indemnisation
 des administrateurs dans les conditions prévues à l'article L. 114-26.

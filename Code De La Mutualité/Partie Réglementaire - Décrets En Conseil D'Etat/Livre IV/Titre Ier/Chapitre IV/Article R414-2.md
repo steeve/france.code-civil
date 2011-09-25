@@ -2,7 +2,7 @@ Article R414-2
 ----
 La demande d'immatriculation conforme à un modèle fixé par arrêté du ministre
 chargé de la mutualité est signée par le président de l'organisme et déposée
-auprès du préfet de la région dans laquelle est situé le siège de l'organisme.
+auprès du secrétaire général du Conseil supérieur de la mutualité.
 
 La demande comporte les renseignements suivants :
 
@@ -37,11 +37,24 @@ de tous les organismes mutualistes qui y ont participé ;
 La demande est accompagnée des statuts et du procès-verbal de l'assemblée
 générale constitutive.
 
-Le préfet de région la transmet immédiatement au secrétaire général du Conseil
-supérieur de la mutualité qui procède, sans délai, à l'immatriculation de la
-mutuelle, de l'union ou de la fédération.
+Le secrétaire général du Conseil supérieur de la mutualité accuse sans délai
+réception de la demande. Il s'assure que le dossier est complet et que cette
+demande satisfait aux dispositions du présent code. Lorsque le dossier est
+incomplet, il demande dans le délai de cinq jours ouvrables les renseignements
+ou pièces manquants qui sont fournis dans un délai de quinze jours à compter de
+cette réclamation.
 
-Le préfet de région délivre aux organismes régis par le présent chapitre un
-récépissé de la demande d'immatriculation dans les cinq jours ouvrables suivant
-le dépôt d'un dossier complet. Ce récépissé comporte le numéro d'immatriculation
-au registre national des mutuelles.
+Dans un délai de quinze jours francs suivant le dépôt du dossier complet, il
+délivre un certificat d'immatriculation portant mention du numéro d'identité
+visé par les dispositions de l'article R. 123-220 du code de commerce ou notifie
+le refus d'immatriculation.
+
+Le délai prévu à l'alinéa précédent peut être prolongé d'un même délai lorsque
+la complexité de cette demande exige un examen approfondi.
+
+Le secrétaire général du Conseil supérieur de la mutualité informe l'Autorité de
+contrôle prudentiel de l'immatriculation ou du refus d'immatriculation des
+organismes ayant demandé leur immatriculation, lorsque ceux-ci envisagent
+d'effectuer des opérations entrant dans le champ de compétence de cette
+autorité, tel que défini au A du III de l'article L. 612-1 du code monétaire et
+financier.
