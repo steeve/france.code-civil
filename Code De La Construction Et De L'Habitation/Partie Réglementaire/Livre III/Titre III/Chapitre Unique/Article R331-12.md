@@ -15,7 +15,7 @@ Pour les opérations financées dans les conditions de l'article R. 331-14 autre
 que celles prévues au II de l'article R. 331-1 et qui bénéficient de subventions
 prévues aux 2° et 3° de l'article R. 331-15 :
 
-I. - 30 % au moins des logements sont obligatoirement attribués à des personnes
+I.-30 % au moins des logements sont obligatoirement attribués à des personnes
 dont l'ensemble des ressources est inférieur ou égal à 60 % du montant déterminé
 par l'arrêté précité ; toutefois, cette obligation n'est pas applicable aux
 opérations comportant un seul logement et, pour les autres opérations comportant
@@ -23,12 +23,12 @@ moins de 10 logements, le nombre minimal de logements obligatoirement attribués
 à ces personnes s'obtient en arrondissant à l'unité la plus proche le résultat
 de l'application du pourcentage de 30 % ;
 
-II. - 10 % au plus des logements des opérations ainsi financées par un même
-maître d'ouvrage peuvent être attribués à des personnes dont l'ensemble des
-ressources est supérieur de 20 % au plus au montant déterminé par l'arrêté
-précité ; pour les opérations comportant moins de 10 logements, le nombre de
-logements susceptible d'être attribués à ces personnes s'obtient en arrondissant
-à l'unité la plus proche le résultat de l'application du pourcentage de 10 %.
+II.-10 % au plus des logements des opérations ainsi financées par un même maître
+d'ouvrage peuvent être attribués à des personnes dont l'ensemble des ressources
+est supérieur de 20 % au plus au montant déterminé par l'arrêté précité ; pour
+les opérations comportant moins de 10 logements, le nombre de logements
+susceptible d'être attribués à ces personnes s'obtient en arrondissant à l'unité
+la plus proche le résultat de l'application du pourcentage de 10 %.
 
 Pour les opérations ne bénéficiant pas de subventions prévues à l'article R.
 331-15 et réalisées par les maîtres d'ouvrage mentionnés aux 1° et 2° de
@@ -43,3 +43,8 @@ découlant du présent article.
 
 Les modalités de détermination et de contrôle des ressources sont également
 fixées par l'arrêté précité.
+
+Les dispositions prévues à la deuxième phrase du premier alinéa et aux alinéas
+suivants du présent article ne s'appliquent pas aux logements dont le loyer est
+fixé en application des dispositions du 5° de l'article R. 353-16 et de celles
+de l'article R. 353-70-1.

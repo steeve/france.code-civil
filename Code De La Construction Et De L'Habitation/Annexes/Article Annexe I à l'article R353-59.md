@@ -328,6 +328,21 @@ l'attribution des logements sociaux au moment de l'acquisition ou qui n'a pas
 fourni d'informations sur le niveau de ses ressources ne peut excéder le loyer
 maximum fixé à l'article 8 bis.
 
+Article 9 ter.
+
+Conformément à l'arrêté préfectoral prévu à l'article R. 353-70-1 du code de la
+construction et de l'habitation, le loyer maximum peut être majoré dans les
+conditions de ce même article sans dépasser........ € par mètre carré et par
+mois.
+
+Cette majoration de loyer s'applique pendant une durée de........ mois et
+concerne........ mètres carrés de logements. Le nombre de mètres carrés peut
+varier de plus ou moins 20 %.
+
+Lorsque la majoration de loyer prévue aux alinéas précédents est appliquée, les
+stipulations du III de l'article 7 de la présente convention ne s'appliquent
+pas.
+
 Article 10.
 
 Etablissement d'un bail conforme à la convention.
