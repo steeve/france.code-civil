@@ -7,12 +7,11 @@ santé :
 
 a) Le préfet de région ou son représentant, président ;
 
-b) L'inspecteur général de la santé publique vétérinaire chargé d'inspection
-interrégionale territorialement compétent ou son représentant, vice-président ;
+b) Le directeur régional de l'alimentation, de l'agriculture et de la forêt, ou
+son représentant, vice-président ;
 
-c) Le directeur de l'une des directions départementales interministérielles
-chargées de la protection des populations de la région ou son représentant,
-désigné par le préfet de région ;
+c) Un vétérinaire officiel mentionné au V de l'article L. 231-2 du code rural et
+de la pêche maritime, désigné par le préfet de région ;
 
 d) Un inspecteur de l'agence régionale de santé ayant la qualité de pharmacien,
 désigné par le directeur général ;
@@ -33,3 +32,6 @@ d'agriculture.
 
 Des suppléants des membres désignés aux 2° et 3° sont choisis dans les mêmes
 conditions que les titulaires et en nombre égal.
+
+Le secrétariat de la commission est assuré par la direction régionale de
+l'alimentation, de l'agriculture et de la forêt.
