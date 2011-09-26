@@ -25,8 +25,8 @@ ce délai, le directeur peut :
 personne dans les meilleurs délais ;
 
 2° Soit, dans un délai de quinze jours, prononcer un avertissement, sauf si les
-faits relèvent des cas prévus aux 3° et 4° du II de l'article L.
-162-1-14.L'avertissement précise les voies et délais de recours. Il en informe
+faits relèvent des cas prévus aux 3° et 4° du II de l'article L. 162-1-14.
+L'avertissement précise les voies et délais de recours. Il en informe
 simultanément la commission prévue à l'article L. 162-1-14 ;
 
 3° Soit, dans un délai de quinze jours, saisir la commission mentionnée au V de
@@ -63,12 +63,32 @@ laquelle celui-ci est réputé avoir été rendu, le directeur peut :
 1° Soit décider d'abandonner la procédure, auquel cas il en informe ladite
 personne dans les meilleur délais ;
 
-2° Soit décider de poursuivre la procédure, auquel cas il dispose d'un délai
-d'un mois pour notifier la pénalité à la personne en cause par une décision
-motivée et par tout moyen permettant de rapporter la preuve de la date de
-réception. Il en adresse une copie à la commission à titre d'information. A
-défaut de notification dans le délai d'un mois précité, la procédure est réputée
-abandonnée.
+2° Soit décider de poursuivre la procédure, auquel cas il dispose d'un délai de
+quinze jours pour saisir le directeur général de l'Union nationale des caisses
+d'assurance maladie d'une demande d'avis conforme, par tout moyen permettant de
+rapporter la preuve de sa date de réception, en précisant les éléments prévus
+dans la notification mentionnée au I et le montant de la pénalité envisagée. A
+défaut de saisine dans le délai imparti, la procédure est réputée abandonnée.
+
+Le directeur général de l'Union nationale des caisses d'assurance maladie ou son
+représentant dispose d'un délai d'un mois à compter de la réception de la
+demande pour formuler son avis. Il le transmet au directeur de l'organisme local
+d'assurance maladie par tout moyen permettant de rapporter la preuve de sa date
+de réception. Si le directeur général ne s'est pas prononcé dans ce délai, son
+avis est réputé favorable.
+
+Si l'avis du directeur général de l'Union nationale des caisses d'assurance
+maladie est défavorable, la procédure est abandonnée. Le directeur de
+l'organisme local d'assurance maladie en informe la personne en cause dans les
+meilleurs délais.
+
+Si l'avis du directeur général de l'Union nationale des caisses d'assurance
+maladie est favorable, le directeur de l'organisme local d'assurance maladie
+dispose d'un délai de quinze jours pour notifier la pénalité à la personne en
+cause par une décision motivée et par tout moyen permettant de rapporter la
+preuve de la date de réception. Il en adresse une copie à la commission à titre
+d'information. A défaut de notification dans le délai imparti, la procédure est
+réputée abandonnée.
 
 Cette notification de payer précise la cause, la nature, le montant des sommes
 réclamées au titre de la pénalité ou de chacune des pénalités prononcées et
