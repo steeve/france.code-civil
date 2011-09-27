@@ -3,15 +3,16 @@ Article R2141-10
 La demande aux fins d'autorisation d'accueil d'embryon ou la demande de
 renouvellement de cette autorisation, formulée par un couple répondant aux
 conditions de l'article L. 2141-6, est portée devant le président du tribunal de
-grande instance ou son délégué.
+grande instance ou son délégué. La contribution pour l'aide juridique prévue par
+l'article 1635 bis Q du code général des impôts n'est pas due.
 
 Le tribunal compétent est :
 
-- le tribunal du lieu où demeure le couple requérant, lorsque celui-ci demeure
-en France ;
+-le tribunal du lieu où demeure le couple requérant, lorsque celui-ci demeure en
+France ;
 
-- le tribunal du lieu où est situé le centre autorisé dans lequel est envisagé
-le transfert de l'embryon en vue de son implantation, lorsque le couple
-requérant demeure à l'étranger.
+-le tribunal du lieu où est situé le centre autorisé dans lequel est envisagé le
+transfert de l'embryon en vue de son implantation, lorsque le couple requérant
+demeure à l'étranger.
 
 La demande est dispensée de ministère d'avocat.

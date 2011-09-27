@@ -18,10 +18,12 @@ d'acquittement ainsi que la date de cette décision ;
 3° L'adresse où doivent être faites les notifications au demandeur.
 
 La requête est accompagnée de toutes pièces justificatives, notamment de la
-copie de la décision de non-lieu, de relaxe ou d'acquittement.
+copie de la décision de non-lieu, de relaxe ou d'acquittement. La requête n'est
+pas assujettie à l'acquittement de la contribution pour l'aide juridique prévue
+par l'article 1635 bis Q du code général des impôts.
 
 Le délai de six mois prévu à l'article 149-2 ne court à compter de la décision
 de non-lieu, de relaxe ou d'acquittement devenue définitive que si, lors de la
 notification de cette décision, la personne a été avisée de son droit de
-demander une réparation ainsi que des dispositions de l'article 149-1, 149-2 et
+demander une réparation ainsi que des dispositions de l'article 149-1,149-2 et
 149-3 (premier alinéa).
