@@ -9,19 +9,19 @@ durable ;
 
 3° Série STL : sciences et technologies de laboratoire ;
 
-4° Série STG : sciences et technologies de gestion ;
+4° Série STMG : sciences et technologies du management et de la gestion ;
 
 5° Série STAV : sciences et technologies de l'agronomie et du vivant : agronomie
 - alimentation - environnement - territoires ;
 
-6° Série " hôtellerie " ;
+6° Série "hôtellerie" ;
 
-7° Série " techniques de la musique et de la danse " ;
+7° Série "techniques de la musique et de la danse" ;
 
 8° Série STD2A : sciences et technologies du design et des arts appliqués.
 
 Chacune de ces séries peut comprendre différentes spécialités. Celles relatives
-aux séries ST2S, STI2D, STL, STG, hôtellerie et STD2A sont fixées par arrêté du
+aux séries ST2S, STI2D, STL, STMG, hôtellerie et STD2A sont fixées par arrêté du
 ministre chargé de l'éducation.
 
 Les dispositions des troisième, neuvième et dixième alinéas du présent article,
