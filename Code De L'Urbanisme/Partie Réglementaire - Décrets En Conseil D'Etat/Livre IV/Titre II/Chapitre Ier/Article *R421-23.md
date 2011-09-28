@@ -17,11 +17,24 @@ c) L'aménagement ou la mise à disposition des campeurs, de façon habituelle, 
 terrains ne nécessitant pas un permis d'aménager en application de l'article R.
 421-19 ;
 
-d) L'installation, en dehors des terrains de camping et parcs résidentiels de
-loisirs, d'une caravane autre qu'une résidence mobile mentionnée au j ci-dessous
-lorsque la durée de cette installation est supérieure à trois mois par an ; sont
-prises en compte, pour le calcul de cette durée, toutes les périodes de
-stationnement, consécutives ou non ;
+d) L'installation, pour une durée supérieure à trois mois par an, d'une caravane
+autre qu'une résidence mobile mentionnée au j ci-dessous :
+
+-sur un terrain situé en dehors d'un parc résidentiel de loisirs, d'un terrain
+de camping, d'un village de vacances classé en hébergement léger au sens du code
+du tourisme ou d'une dépendance de maison familiale de vacances agréée au sens
+du code du tourisme ;
+
+-sur un emplacement d'un terrain de camping, d'un village de vacances classé en
+hébergement léger au sens du code du tourisme ou d'une dépendance de maison
+familiale de vacances agréée au sens du code du tourisme qui a fait l'objet
+d'une cession en pleine propriété, de la cession de droits sociaux donnant
+vocation à sa propriété en attribution ou en jouissance ou d'une location d'une
+durée supérieure à deux ans renouvelable.
+
+Pour le calcul de la durée de trois mois par an mentionnée au cinquième alinéa,
+toutes les périodes de stationnement, consécutives ou non, sont prises en compte
+;
 
 e) Lorsqu'ils sont susceptibles de contenir de dix à quarante-neuf unités, les
 aires de stationnement ouvertes au public, les dépôts de véhicules et les

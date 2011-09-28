@@ -7,7 +7,7 @@ Les résidences mobiles de loisirs ne peuvent être installées que :
 par cession d'emplacements ou par location d'emplacements d'une durée supérieure
 à un an renouvelable ;
 
-2° Dans les terrains de camping classés au sens du code du tourisme ;
+2° Dans les terrains de camping régulièrement créés ;
 
 3° Dans les villages de vacances classés en hébergement léger au sens du code du
 tourisme.
