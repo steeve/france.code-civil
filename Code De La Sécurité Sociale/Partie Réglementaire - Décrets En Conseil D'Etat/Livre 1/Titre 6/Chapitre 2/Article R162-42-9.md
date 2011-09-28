@@ -10,10 +10,9 @@ d'exécution du programme de contrôle.
 L'unité de coordination régionale du contrôle externe est composée, pour les
 deux tiers, de personnels des caisses d'assurance maladie désignés par la
 commission de contrôle sur proposition des membres mentionnés au 2° de l'article
-R. 162-42-8 et, pour un tiers, de personnels de l'agence régionale de
-santé.L'unité est composée en majorité de médecins et comprend notamment le
+R. 162-42-8 et, pour un tiers, de personnels de l'agence régionale de santé.
+L'unité est composée en majorité de médecins et comprend notamment le
 médecin-conseil régional du régime d'assurance maladie des travailleurs
-salariés, le médecin-conseil régional du régime d'assurance maladie et maternité
-des travailleurs non salariés des professions non agricoles et le médecin
-coordonnateur régional des régimes agricoles de protection sociale ou leurs
-représentants.
+salariés, le médecin-conseil régional du régime social des indépendants et le
+médecin coordonnateur régional des régimes agricoles de protection sociale ou
+leurs représentants.

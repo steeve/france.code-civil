@@ -1,59 +1,26 @@
 Article R162-42-12
 ----
-Le montant de la sanction est déterminé par le directeur général de l'agence
-régionale de santé sur avis de la commission de contrôle en fonction de la
-gravité des manquements constatés et dans la limite de 5 % des recettes
-annuelles d'assurance maladie de l'établissement.
+Le montant de la sanction résultant du contrôle est déterminé par le directeur
+général de l'agence régionale de santé après avis de la commission de contrôle.
 
-Lorsque le contrôle porte sur la totalité de l'activité, le montant de la
-sanction est fixé dans la limite de :
+Le directeur général de l'agence régionale de santé calcule le taux d'anomalies
+défini comme le quotient, d'une part, des sommes indûment perçues par
+l'établissement, déduction faite des sommes dues par les caisses au titre des
+sous-facturations constatées sur l'échantillon, et, d'autre part, des sommes
+dues par l'assurance maladie au titre de la totalité des facturations de
+l'échantillon.
 
-a) 1 % des recettes annuelles d'assurance maladie, lorsque le pourcentage des
-sommes indûment perçues par rapport aux sommes dues est inférieur ou égal à 0, 5
-% ;
+La sanction est fixée en fonction de la gravité des manquements constatés et de
+leur caractère réitéré, à un montant au maximum égal au montant des recettes
+annuelles d'assurance maladie afférentes aux activités, prestations ou ensembles
+de séjours ayant fait l'objet du contrôle multiplié par le taux d'anomalies.
 
-b) 3 % des recettes annuelles d'assurance maladie, lorsque le pourcentage des
-sommes indûment perçues par rapport aux sommes dues est supérieur à 0, 5 % et
-inférieur ou égal à 1, 5 % ;
-
-c) 4 % des recettes annuelles d'assurance maladie, lorsque le pourcentage des
-sommes indûment perçues par rapport aux sommes dues est supérieur à 1, 5 % et
-inférieur ou égal à 2, 5 % ;
-
-d) 5 % des recettes annuelles d'assurance maladie, lorsque le pourcentage des
-sommes indûment perçues par rapport aux sommes dues est supérieur à 2, 5 %.
-
-Lorsque le contrôle porte sur certaines activités ou prestations en particulier
-ou sur des séjours présentant des caractéristiques communes, le montant de la
-sanction est fixé dans la limite de :
-
-a) 5 % des recettes annuelles d'assurance maladie afférentes à ces activités,
-ces prestations ou ces séjours, lorsque le pourcentage des sommes indûment
-perçues par rapport aux sommes dues est inférieur ou égal à 2 % ;
-
-b) 10 % des recettes annuelles d'assurance maladie afférentes à ces activités,
-ces prestations ou ces séjours, lorsque le pourcentage des sommes indûment
-perçues par rapport aux sommes dues est supérieur à 2 % et inférieur ou égal à 5
-% ;
-
-c) 15 % des recettes annuelles d'assurance maladie afférentes à ces activités,
-ces prestations ou ces séjours, lorsque le pourcentage des sommes indûment
-perçues par rapport aux sommes dues est supérieur à 5 % et inférieur ou égal à
-10 % ;
-
-d) 25 % des recettes annuelles d'assurance maladie afférentes à ces activités,
-ces prestations ou ces séjours, lorsque le pourcentage des sommes indûment
-perçues par rapport aux sommes dues est supérieur à 10 % et inférieur ou égal à
-20 % ;
-
-e) 40 % des recettes annuelles d'assurance maladie afférentes à ces activités,
-ces prestations ou ces séjours, lorsque le pourcentage des sommes indûment
-perçues par rapport aux sommes dues est supérieur à 20 % et inférieur ou égal à
-30 % ;
-
-f) 50 % des recettes annuelles d'assurance maladie afférentes à ces activités,
-ces prestations ou ces séjours, lorsque le pourcentage des sommes indûment
-perçues par rapport aux sommes dues est supérieur à 30 %.
+Le montant de la sanction ne peut excéder dix fois le montant des sommes
+indûment perçues par l'établissement, déduction faite des sommes dues par les
+caisses au titre des sous-facturations constatées sur l'échantillon. Le montant
+de la sanction est inférieur à la limite de 5 % de la totalité des recettes
+annuelles d'assurance maladie de l'établissement au titre de l'année civile
+antérieure au contrôle.
 
 Ne sont pas prises en compte dans les recettes annuelles d'assurance maladie de
 l'établissement les sommes versées en application de l'article L. 162-22-14 du
