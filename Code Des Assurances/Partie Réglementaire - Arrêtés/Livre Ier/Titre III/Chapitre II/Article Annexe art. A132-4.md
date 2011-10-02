@@ -45,13 +45,18 @@ prélevés par l'entreprise d'assurance sur la provision mathématique ou le
 capital garanti et, d'autre part, des frais pouvant être supportés par l'unité
 de compte ainsi que des modalités de versement du produit des droits attachés à
 la détention de l'unité de compte. Pour chaque unité de compte constituée sous
-la forme d'une part ou d'une action d'organisme de placement collectif en
-valeurs mobilières (OPCVM), l'indication des caractéristiques principales peut
-être valablement effectuée par la remise contre récépissé du prospectus
-simplifié, visé par l'Autorité des marchés financiers. En cas de non-remise du
-prospectus simplifié, le souscripteur ou adhérent est informé de ses modalités
-d'obtention, ainsi que, le cas échéant, de l'adresse électronique où se procurer
-ce document ;
+la forme d'une part ou d'une action d'organisme de placement collectif mentionné
+aux 3°, 7°, 7° quater, 8°, 9° ter, 9° quater ou 9° sexies de l'article R. 332-2,
+l'indication des caractéristiques principales peut être valablement effectuée
+par la remise du document d'information clé pour l'investisseur. Pour chaque
+unité de compte constituée sous la forme d'une part ou d'une action d'organisme
+de placement collectif mentionné au 7° ter de l'article R. 332-2, l'indication
+des caractéristiques principales peut être valablement effectuée par la remise
+de la note détaillée. En cas de non-remise du document d'information clé pour
+l'investisseur ou, le cas échéant, de la note détaillée, le souscripteur ou
+adhérent est informé de ses modalités d'obtention ainsi que, le cas échéant, de
+l'adresse électronique où se procurer ce document ou, le cas échéant, cette note
+;
 
 -contrats de groupe à adhésion facultative : nom et adresse du souscripteur,
 formalités de résiliation et de transfert ;
