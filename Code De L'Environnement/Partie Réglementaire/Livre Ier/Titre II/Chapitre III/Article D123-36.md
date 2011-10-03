@@ -1,10 +1,8 @@
 Article D123-36
 ----
-La commission se réunit sur convocation de son président. Elle ne peut
-valablement délibérer que si la moitié des membres la composant est présente.
-Lorsque le quorum n'est pas atteint, la commission délibère valablement sans
-condition de quorum après une nouvelle convocation portant sur le même ordre du
-jour et spécifiant qu'aucun quorum ne sera exigé.
+Le fonctionnement de la commission est régi par les articles 3 à 14 du décret n°
+2006-672 du 8 juin 2006 relatif à la création, à la composition et au
+fonctionnement de commissions administratives à caractère consultatif.
 
-La commission délibère à la majorité des voix. En cas de partage égal, la voix
-du président est prépondérante.
+Les membres de la commission respectent la confidentialité des débats auxquels
+ils ont participé.

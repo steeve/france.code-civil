@@ -1,3 +1,3 @@
 Article D123-37
 ----
-Le secrétariat de la commission est assuré par les services de la préfecture.
+Le préfet désigne le service de l'Etat chargé du secrétariat de la commission.
