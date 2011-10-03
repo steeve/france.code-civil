@@ -10,10 +10,9 @@ D. 1332-19, qui doit être disponible chaque année avant le début de la saison
 balnéaire ;
 
 -le classement de chaque eau de baignade au cours des trois dernières années,
-son profil et les résultats des prélèvements, analyses et contrôles prévus à
-l'article D. 1332-23 ;
+son profil et les résultats du contrôle sanitaire ;
 
--les informations prévues aux articles D. 1332-25 et D. 1332-2932.
+-les informations prévues aux articles D. 1332-25 et D. 1332-29.
 
 Le directeur général de l'agence régionale de santé veille à une diffusion, dans
 les meilleurs délais, de toute mise à jour des informations énumérées au présent

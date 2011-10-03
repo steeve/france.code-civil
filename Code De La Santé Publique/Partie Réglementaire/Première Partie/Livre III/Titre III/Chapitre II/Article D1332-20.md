@@ -7,7 +7,10 @@ prévu à l'article L. 1332-3. Ce profil comprend notamment les éléments suiva
 1° Une description des caractéristiques physiques, géographiques et
 hydrogéologiques des eaux de baignade et des autres eaux de surface du bassin
 versant des eaux de baignade concernées, qui pourraient être sources de
-pollution ;
+pollution pertinentes aux fins de l'objectif de la présente section et tel que
+prévu par la directive 2000/60/ CE du Parlement européen et du Conseil du 23
+octobre 2000 établissant un cadre pour une politique communautaire dans le
+domaine de l'eau ;
 
 2° Une identification et une évaluation des sources de pollution qui pourraient
 affecter la qualité des eaux de baignade et altérer la santé des baigneurs ;
@@ -17,15 +20,15 @@ affecter la qualité des eaux de baignade et altérer la santé des baigneurs ;
 4° Une évaluation du potentiel de prolifération des macroalgues et du
 phytoplancton ;
 
-5° Si l'évaluation des sources de pollution laisse apparaître un risque de
-pollution à court terme définie à l'article D. 1332-15, les informations
-suivantes :
+5° Si l'évaluation des sources de pollution mentionnées au 2° laisse apparaître
+un risque de pollution à court terme définie à l'article D. 1332-15, les
+informations suivantes :
 
 a) La nature, la cause, la fréquence et la durée prévisibles de la pollution à
 court terme à laquelle on peut s'attendre ;
 
-b) Les mesures de gestion prévues pour l'élimination des sources de pollution à
-court terme et leur calendrier de mise en œuvre ;
+b) Le détail de toutes les sources de pollution restantes, y compris des mesures
+de gestion prises et du calendrier prévu pour leur élimination ;
 
 c) Les mesures de gestion qui seront prises durant la pollution à court terme et
 l'identité et les coordonnées des instances responsables de la mise en œuvre de

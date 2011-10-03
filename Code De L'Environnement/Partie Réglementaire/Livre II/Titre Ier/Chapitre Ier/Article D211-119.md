@@ -9,6 +9,6 @@ personne responsable de l'eau de baignade dans le cadre des articles D. 1332-29,
 D. 1332-30 et D. 1332-32 du code de la santé publique pour assurer une qualité
 au moins " suffisante " des eaux de baignade ;
 
--les résultats de la surveillance de la qualité des eaux de baignade durant la
-saison balnéaire tels qu'ils sont définis à l'article D. 1332-28 du code de la
-santé publique.
+-les résultats du contrôle sanitaire de la qualité des eaux de baignade durant
+la saison balnéaire tels qu'ils sont définis à l'article D. 1332-23 du code de
+la santé publique.

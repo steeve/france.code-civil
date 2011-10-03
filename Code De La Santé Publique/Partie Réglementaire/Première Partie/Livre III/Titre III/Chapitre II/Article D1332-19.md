@@ -6,6 +6,7 @@ département transmet au préfet coordonnateur de bassin la liste des eaux de
 baignade recensées dans son département.
 
 Le préfet notifie chaque année au ministre chargé de la santé, au plus tard le
-30 avril, la liste des eaux recensées comme eaux de baignade dans son
-département, ainsi que les motifs de toute modification apportée à la liste de
-l'année précédente.
+30 avril ou, pour les départements d'outre-mer, Mayotte, Saint-Barthélemy et
+Saint-Martin, au plus tard le 31 août, la liste des eaux recensées comme eaux de
+baignade dans son département, ainsi que les motifs de toute modification
+apportée à la liste de l'année précédente.

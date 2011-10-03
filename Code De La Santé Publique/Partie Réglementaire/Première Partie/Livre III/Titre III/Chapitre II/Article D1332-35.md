@@ -16,13 +16,10 @@ conditions définies à l'article D. 1332-16 ;
 déterminés selon les règles définies aux articles D. 1332-20 et D. 1332-22 et
 transmis dans les conditions définies aux articles D. 1332-21 et D. 1332-22 ;
 
-3° Le programme de surveillance et les points de surveillance tels que définis à
-l'article D. 1332-23 ;
-
-4° Les raisons justifiant une décision de fermeture lorsque les eaux de baignade
+3° Les raisons justifiant une décision de fermeture lorsque les eaux de baignade
 sont de qualité " insuffisante ", conformément à l'article D. 1332-30.
 
-En ce qui concerne les 1° et 3°, les observations du maire sont transmises à la
+En ce qui concerne le 1°, les observations du maire sont transmises à la
 personne responsable de l'eau de baignade avant la date prévue pour le début de
 la saison balnéaire.
 

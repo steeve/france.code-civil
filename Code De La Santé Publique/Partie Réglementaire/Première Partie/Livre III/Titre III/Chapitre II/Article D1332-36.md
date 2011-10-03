@@ -1,20 +1,14 @@
 Article D1332-36
 ----
-Le contrôle exercé par le directeur général de l'agence régionale de santé, qui
-en informe le préfet, comprend notamment :
+Le préfet fait connaître au maire le cas échéant ses observations sur les
+informations mentionnées aux 1°, 2° et 3° de l'article D. 1332-35.
 
-1° La vérification de la réalisation de la surveillance de l'eau de baignade,
-conformément au programme de surveillance ;
+En ce qui concerne le 1° de l'article D. 1332-35, les observations du préfet
+sont transmises avant la date prévue pour le début de la saison balnéaire.
 
-2° L'interprétation sanitaire des résultats d'analyses ;
+Ces observations sont communiquées par le maire à la personne responsable de
+l'eau de baignade concernée.
 
-3° La vérification que les mesures de gestion adéquates sont prises par la
-personne responsable de l'eau de baignade et le maire, notamment l'interdiction
-de baignade et l'information du public ;
-
-4° La prescription, si nécessaire, de la réalisation de prélèvements et
-d'analyses complémentaires, en cas de pollution ou de risque sanitaire ;
-
-5° L'inspection des eaux de baignade, y compris la réalisation de prélèvements
-et d'analyses de contrôle selon les méthodes fixées par l'arrêté prévu à
-l'article D. 1332-24.
+La personne responsable de l'eau de baignade répond sans délai au préfet, ainsi
+qu'au maire si la personne responsable de l'eau de baignade n'est ni la commune
+ni le groupement de collectivités.

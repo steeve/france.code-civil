@@ -21,8 +21,8 @@ fermeture préventive et temporaire du site.
 La personne responsable de l'eau de baignade signale également, dans les
 meilleurs délais, au maire et au directeur général de l'agence régionale de
 santé toute situation anormale telle que définie à l'article D. 1332-15. Dans ce
-cas, le calendrier de surveillance de l'eau de baignade prévu à l'article D.
-1332-23 peut être suspendu.
+cas, le programme d'analyses du contrôle sanitaire de l'eau de baignade prévu à
+l'article D. 1332-23 peut être suspendu.
 
 Le directeur général de l'agence régionale de santé transmet au préfet les
 informations qu'il reçoit en application du présent article, accompagnées de ses

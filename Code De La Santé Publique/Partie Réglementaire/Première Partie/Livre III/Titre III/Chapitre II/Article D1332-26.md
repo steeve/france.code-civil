@@ -11,7 +11,8 @@ d'écume ;
 la personne responsable de l'eau de baignade en assure une surveillance
 appropriée, détermine si leur présence est acceptable pour la santé publique et
 identifie en temps utile les risques sanitaires et les mesures de gestion
-adéquates qu'ils nécessitent.
+adéquates qu'ils nécessitent. Elle en informe le directeur général de l'agence
+régionale de santé.
 
 En cas de prolifération de cyanobactéries, de macroalgues ou de phytoplancton
 marin et lorsqu'un risque sanitaire a été identifié ou est présumé, la personne

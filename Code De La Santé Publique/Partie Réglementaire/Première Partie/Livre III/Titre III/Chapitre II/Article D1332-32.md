@@ -10,9 +10,9 @@ français et éventuellement dans d'autres langues :
 précédente et, le cas échéant, tout avis déconseillant ou interdisant la
 baignade, au moyen d'un signe ou d'un symbole simple et clair ;
 
-2° Les résultats des analyses du dernier prélèvement réalisé au cours de la
-saison balnéaire par un laboratoire agréé, accompagnés de leur interprétation
-sanitaire prévue au 2° de l'article D. 1332-36, dans les plus brefs délais ;
+2° Les résultats des analyses du dernier prélèvement réalisé au titre du
+contrôle sanitaire, accompagnés de leur interprétation sanitaire prévue au 2° de
+l'article D. 1332-36, dans les plus brefs délais ;
 
 3° Le document de synthèse prévu à l'article D. 1332-21 donnant une description
 générale de l'eau de baignade et de son profil ;
