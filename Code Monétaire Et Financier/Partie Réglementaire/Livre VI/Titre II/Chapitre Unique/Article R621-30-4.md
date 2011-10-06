@@ -5,5 +5,6 @@ d'investissement au sens du IX de l'article L. 621-7 la fourniture de conseils
 sous la forme d'une recommandation personnalisée à un client ou de
 recommandations commerciales informelles, adressées par une entreprise
 d'investissement ou un établissement de crédit à un groupe limité de clients,
-concernant une ou plusieurs opérations sur des instruments financiers, qui ne
-sont pas destinés à être rendus publics.
+concernant une ou plusieurs opérations sur des instruments financiers ou des
+actifs mentionnés au II de l'article L. 421-1 admis à la négociation sur un
+marché réglementé, qui ne sont pas destinés à être rendus publics.

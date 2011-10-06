@@ -10,7 +10,9 @@ tout média de diffuser une information de presse, élaborée par un journaliste
 professionnel au sens des articles L. 7111-3, L. 7111-4 et L. 7112-1 du code du
 travail, portant sur une personne dont les instruments financiers sont admis aux
 négociations sur un marché réglementé, sur les instruments financiers qu'elle
-émet ou sur une recommandation d'investissement produite par un tiers ou sur son
-résumé, même lorsqu'elle n'a pas encore été rendue publique dès lors que cette
-information de presse n'apporte aucune modification substantielle de la
-recommandation dont elle rend compte, notamment au sens de celle-ci.
+émet, sur des actifs mentionnés au II de l'article L. 421-1 admis à la
+négociation sur un marché réglementé ou sur une recommandation d'investissement
+produite par un tiers ou sur son résumé, même lorsqu'elle n'a pas encore été
+rendue publique dès lors que cette information de presse n'apporte aucune
+modification substantielle de la recommandation dont elle rend compte, notamment
+au sens de celle-ci.

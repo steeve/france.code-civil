@@ -3,9 +3,15 @@ Article R621-30-1
 Pour l'application des dispositions du IX de l'article L. 621-7, une
 recommandation d'investissement s'entend de toute étude, information ou opinion,
 produite dans un cadre professionnel et destinée à être rendue publique,
-recommandant ou suggérant une stratégie d'investissement relative à une personne
-dont les instruments financiers sont admis aux négociations sur un marché
-réglementé ou aux instruments financiers qu'elle émet.
+recommandant ou suggérant une stratégie d'investissement relative :
+
+a) A une personne dont les instruments financiers sont admis aux négociations
+sur un marché réglementé ;
+
+b) Aux instruments financiers émis par une telle personne ;
+
+c) Aux actifs mentionnés au II de l'article L. 421-1 admis à la négociation sur
+un marché réglementé.
 
 Constituent des recommandations d'investissement :
 
