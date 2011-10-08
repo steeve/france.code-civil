@@ -37,43 +37,43 @@ terrain d'hébergement de plein air ;
 En application de l'article L. 2333-30, les tarifs de la taxe de séjour sont
 fixés par la commune conformément au barème suivant :
 
--hôtels de tourisme 4 étoiles luxe et 4 étoiles, résidences de tourisme 4
-étoiles, meublés de tourisme 4 et 5 étoiles et tous les autres établissements de
-caractéristiques équivalentes : entre 0, 65 et 1, 50 Euros par personne et par
+- hôtels de tourisme 4 étoiles luxe, 4 et 5 étoiles, résidences de tourisme 4 et
+5 étoiles, meublés de tourisme 4 et 5 étoiles et tous les autres établissements
+de caractéristiques équivalentes : entre 0,65 et 1,50 euro par personne et par
 nuitée ;
 
--hôtels de tourisme 3 étoiles, résidences de tourisme 3 étoiles, meublés de
+- hôtels de tourisme 3 étoiles, résidences de tourisme 3 étoiles, meublés de
 tourisme 3 étoiles et tous les autres établissements de caractéristiques
-équivalentes : entre 0, 50 et 1 Euros par personne et par nuitée ;
+équivalentes : entre 0,50 et 1 euro par personne et par nuitée ;
 
--hôtels de tourisme 2 étoiles, résidences de tourisme 2 étoiles, meublés de
-tourisme 2 étoiles, villages de vacances de catégorie grand confort et tous les
-autres établissements de caractéristiques équivalentes : entre 0, 30 et 0, 90
-Euros par personne et par nuitée ;
+- hôtels de tourisme 2 étoiles, résidences de tourisme 2 étoiles, meublés de
+tourisme 2 étoiles, villages de vacances 4 et 5 étoiles, de catégorie grand
+confort et tous les autres établissements de caractéristiques équivalentes :
+entre 0,30 et 0,90 euro par personne et par nuitée ;
 
--hôtels de tourisme 1 étoile, résidences de tourisme 1 étoile, meublés de
-tourisme 1 étoile, villages de vacances de catégorie confort et tous les autres
-établissements de caractéristiques équivalentes : entre 0, 20 et 0, 75 Euros par
-personne et par nuitée ;
+- hôtels de tourisme 1 étoile, résidences de tourisme 1 étoile, meublés de
+tourisme 1 étoile, villages de vacances 1, 2 et 3 étoiles, de catégorie confort
+et tous les autres établissements de caractéristiques équivalentes : entre 0,20
+et 0,75 euro par personne et par nuitée ;
 
--hôtels de tourisme classés sans étoile et tous les autres établissements de
-caractéristiques équivalentes : entre 0, 20 et 0, 40 Euros par personne et par
+- hôtels de tourisme classés sans étoile et tous les autres établissements de
+caractéristiques équivalentes : entre 0,20 et 0,40 euro par personne et par
 nuitée ;
 
--terrains de camping et terrains de caravanage classés en 3 et 4 étoiles et tout
-autre terrain d'hébergement de plein air de caractéristiques équivalentes :
-entre 0, 20 et 0, 55 Euros par personne et par nuitée ;
+- terrains de camping et terrains de caravanage classés en 3, 4 et 5 étoiles et
+tout autre terrain d'hébergement de plein air de caractéristiques équivalentes :
+entre 0,20 et 0,55 euro par personne et par nuitée ;
 
--terrains de camping et terrains de caravanage classés en 1 et 2 étoiles et tout
-autre terrain d'hébergement de plein air de caractéristiques équivalentes, ports
-de plaisance : 0, 20 Euros par personne et par nuitée.
+- terrains de camping et terrains de caravanage classés en 1 et 2 étoiles et
+tout autre terrain d'hébergement de plein air de caractéristiques équivalentes,
+ports de plaisance : 0,20 euro par personne et par nuitée.
 
 En aucun cas le tarif retenu par la commune pour une des catégories
 d'hébergement prévues par le barème ne peut excéder le tarif retenu pour une
 catégorie d'hébergement supérieure de même type.
 
 Les tarifs ainsi définis ne comprennent pas la taxe additionnelle départementale
-prévue par l'article L. 3333-1 lorsqu'elle est instituée. "
+prévue par l'article L. 3333-1 lorsqu'elle est instituée."
 
 " Art.R. 2333-46 du code général des collectivités territoriales.
 
@@ -194,13 +194,13 @@ contributions directes. "
 
 En application de l'article L. 2333-40, tout assujetti qui conteste soit
 l'application qui lui est faite du tarif par l'hôtelier, logeur, propriétaire,
-ou principal locataire, soit la quotité de la taxe qui lui est réclamée acquitte
-néanmoins le montant de la taxe contestée, sauf à en obtenir le remboursement
-après qu'il a été statué sur sa réclamation.
+ou principal locataire, soit la quotité de la taxe qui lui est réclamée,
+acquitte néanmoins le montant de la taxe contestée, sauf à en obtenir le
+remboursement après qu'il a été statué sur sa réclamation.
 
-Ces contestations sont portées, selon le montant de la taxe, devant le tribunal
-d'instance ou de grande instance, dans le ressort duquel se trouve la commune
-intéressée et sont jugées sans frais. "
+Ces contestations sont portées, quel que soit le montant de la taxe, devant le
+tribunal d'instance dans le ressort duquel se trouve la commune intéressée et
+sont jugées sans frais. "
 
 " Art.R. 2333-58 du code général des collectivités territoriales.
 
@@ -244,44 +244,44 @@ au triple du nombre des emplacements mentionnés par l'arrêté de classement. "
 Les tarifs de la taxe de séjour forfaitaire sont fixés par la commune
 conformément au barème suivant :
 
--hôtels de tourisme 4 étoiles luxe et 4 étoiles, résidences de tourisme 4
-étoiles, meublés de tourisme 4 et 5 étoiles et tous les autres établissements de
-caractéristiques équivalentes : entre 0, 65 euro et 1, 50 euro par nuitée et par
-unité de capacité d'accueil ;
+- hôtels de tourisme 4 étoiles luxe, 4 et 5 étoiles, résidences de tourisme 4 et
+5 étoiles, meublés de tourisme 4 et 5 étoiles et tous les autres établissements
+de caractéristiques équivalentes : entre 0,65 euros et 1,50 euros par nuitée et
+par unité de capacité d'accueil ;
 
--hôtels de tourisme 3 étoiles, résidences de tourisme 3 étoiles, meublés de
+- hôtels de tourisme 3 étoiles, résidences de tourisme 3 étoiles, meublés de
 tourisme 3 étoiles et tous les autres établissements de caractéristiques
-équivalentes : entre 0, 50 euro et 1 euro par nuitée et par unité de capacité
+équivalentes : entre 0,50 euros et 1 euros par nuitée et par unité de capacité
 d'accueil ;
 
--hôtels de tourisme 2 étoiles, résidences de tourisme 2 étoiles, meublés de
-tourisme 2 étoiles, villages de vacances de catégorie grand confort et tous les
-autres établissements de caractéristiques équivalentes : entre 0, 30 euro et 0,
-90 euro par nuitée et par unité de capacité d'accueil ;
+- hôtels de tourisme 2 étoiles, résidences de tourisme 2 étoiles, meublés de
+tourisme 2 étoiles, villages de vacances 4 et 5 étoiles, de catégorie grand
+confort et tous les autres établissements de caractéristiques équivalentes :
+entre 0,30 euros et 0,90 euros par nuitée et par unité de capacité d'accueil ;
 
--hôtels de tourisme 1 étoile, résidences de tourisme 1 étoile, meublés de
-tourisme 1 étoile, villages de vacances de catégorie confort et tous les autres
-établissements de caractéristiques équivalentes : entre 0, 20 euro et 0, 75 euro
-par nuitée et par unité de capacité d'accueil ;
+- hôtels de tourisme 1 étoile, résidences de tourisme 1 étoile, meublés de
+tourisme 1 étoile, villages de vacances 1, 2 et 3 étoiles, de catégorie confort
+et tous les autres établissements de caractéristiques équivalentes : entre 0,20
+euros et 0,75 euros par nuitée et par unité de capacité d'accueil ;
 
--hôtels de tourisme classés sans étoile et tous les autres établissements de
-caractéristiques équivalentes : entre 0, 20 euro et 0, 40 euro par nuitée et par
+- hôtels de tourisme classés sans étoile et tous les autres établissements de
+caractéristiques équivalentes : entre 0,20 euros et 0,40 euros par nuitée et par
 unité de capacité d'accueil ;
 
--terrains de camping et terrains de caravanage classés en 3 et 4 étoiles et tout
-autre terrain d'hébergement de plein air de caractéristiques équivalentes :
-entre 0, 20 euro et 0, 55 euro par nuitée et par unité de capacité d'accueil ;
+- terrains de camping et terrains de caravanage classés en 3, 4 et 5 étoiles et
+tout autre terrain d'hébergement de plein air de caractéristiques équivalentes :
+entre 0,20 euros et 0,55 euros par nuitée et par unité de capacité d'accueil ;
 
--terrains de camping et terrains de caravanage classés en 1 et 2 étoiles et tout
-autre terrain d'hébergement de plein air de caractéristiques équivalentes, ports
-de plaisance : 0, 20 euro par nuitée et par unité de capacité d'accueil.
+- terrains de camping et terrains de caravanage classés en 1 et 2 étoiles et
+tout autre terrain d'hébergement de plein air de caractéristiques équivalentes,
+ports de plaisance : 0,20 euros par nuitée et par unité de capacité d'accueil.
 
 En aucun cas le tarif retenu par la commune pour une des catégories
 d'hébergement prévues par le barème ne peut excéder le tarif retenu pour une
 catégorie d'hébergement supérieure de même type.
 
 Les tarifs ainsi définis ne comprennent pas la taxe additionnelle départementale
-prévue par l'article L. 3333-1 lorsqu'elle est instituée. "
+prévue par l'article L. 3333-1 lorsqu'elle est instituée."
 
 " Art.R. 2333-61 du code général des collectivités territoriales.
 
