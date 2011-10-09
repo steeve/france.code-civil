@@ -11,12 +11,14 @@ mentionnée à l'article L. 122-7 est :
 
 1° La formation d'autorité environnementale du Conseil général de
 l'environnement et du développement durable pour les plans, schéma, contrats et
-chartes mentionnés aux 6°, 7°, 16°, 18° et 19° de l'article R. 122-17 ;
+chartes mentionnés aux 6°, 7°, 11° en ce qui concerne le programme d'actions
+national, 16°, 18° et 19° de l'article R. 122-17 ;
 
 2° Le préfet de région pour les plans et documents entrant dans les catégories
-énumérées aux 8°, 9° bis, 9° quater, 12°, 13° et 14° de l'article R. 122-17 et
-le plan de déplacements urbains d'Ile-de-France prévu par l'article 28-3 de la
-loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs ;
+énumérées aux 8°, 9° bis, 9° quater, 11° en ce qui concerne les programmes
+d'actions régionaux, 12°, 13° et 14° de l'article R. 122-17 et le plan de
+déplacements urbains d'Ile-de-France prévu par l'article 28-3 de la loi n°
+82-1153 du 30 décembre 1982 d'orientation des transports intérieurs ;
 
 3° Le préfet coordonnateur de bassin pour les plans et documents entrant dans
 les catégories énumérées au 4° de l'article R. 122-17 ;

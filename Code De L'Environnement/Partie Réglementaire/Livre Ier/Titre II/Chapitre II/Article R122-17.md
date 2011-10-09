@@ -45,10 +45,9 @@ bâtiment et des travaux publics d'Ile-de-France prévu par l'article L. 541-14-
 
 10° Schémas départementaux des carrières prévus par l'article L. 515-3 ;
 
-11° Programmes d'action pour la protection des eaux contre la pollution par les
-nitrates prévus par le décret n° 2001-34 du 10 janvier 2001 relatif aux
-programmes d'action à mettre en oeuvre en vue de la protection des eaux contre
-la pollution par les nitrates d'origine agricole ;
+11° Programme d'actions national et programmes d'actions régionaux pour la
+protection des eaux contre la pollution par les nitrates d'origine agricole
+prévus par le IV de l'article R. 211-80 ;
 
 12° Directives régionales d'aménagement des forêts domaniales prévues par
 l'article L. 4 du code forestier ;

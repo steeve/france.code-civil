@@ -1,12 +1,12 @@
 Article R211-82
 ----
 I.-Dans les cantons en excédent structurel d'azote lié aux élevages, le
-programme d'action arrêté par le préfet comprend, outre les mesures définies à
-l'article R. 211-81, adaptées si nécessaire, des actions renforcées. Un canton
-est considéré en excédent structurel d'azote lié aux élevages lorsque la
-quantité totale d'effluents d'élevage produite annuellement conduirait, si elle
-était épandue en totalité sur les surfaces épandables du canton, à un apport
-annuel d'azote supérieur à 170 kg par hectare de cette surface épandable.
+programme d'action arrêté par le préfet de région comprend, outre les mesures
+définies à l'article R. 211-81, adaptées si nécessaire, des actions renforcées.
+Un canton est considéré en excédent structurel d'azote lié aux élevages lorsque
+la quantité totale d'effluents d'élevage produite annuellement conduirait, si
+elle était épandue en totalité sur les surfaces épandables du canton, à un
+apport annuel d'azote supérieur à 170 kg par hectare de cette surface épandable.
 
 II.-Les actions renforcées comportent :
 
@@ -28,7 +28,7 @@ apport annuel d'azote supérieur à 140 kg par hectare de cette surface épandab
 pour les exploitations excédant une taille fixée par le programme d'action,
 limitant l'épandage des effluents bruts et transformés aux terres exploitées en
 propre conformément aux dispositions de l'article L. 331-1 du code rural et de
-la pêche maritime . Si les terres en propres sont insuffisantes après traitement
+la pêche maritime. Si les terres en propres sont insuffisantes après traitement
 ou transfert, des terres mises à disposition par des tiers peuvent compléter les
 terres exploitées en propre pour résorber l'excédent structurel, dans la limite
 d'une étendue totale fixée par le programme d'action pour chaque canton et
@@ -41,12 +41,12 @@ résorption de l'excédent structurel d'azote lié aux élevages dans le canton
 n'est pas réalisée.
 
 Dans le respect des objectifs de réduction des apports azotés fixés à l'article
-R. 211-81, des dérogations peuvent être accordées par le préfet afin de
-permettre l'installation de jeunes agriculteurs et de ne pas entraver le
+R. 211-81, des dérogations peuvent être accordées par le préfet de région afin
+de permettre l'installation de jeunes agriculteurs et de ne pas entraver le
 développement des exploitations de dimension économique insuffisante n'excédant
 pas 3 unités de travail agricole (UTA). Ces dérogations ne peuvent avoir pour
 effet, dans le canton en cause, d'augmenter la production d'azote au-delà d'une
-quantité appelée marge cantonale, définie par le programme d'action.A tout
+quantité appelée marge cantonale, définie par le programme d'action. A tout
 moment la marge utilisable ne peut excéder 25 % de la quantité d'azote
 effectivement résorbée dans le canton par traitement ou transfert des effluents,
 adaptation de l'alimentation des animaux et gain de surface d'épandage ; ce
@@ -64,12 +64,12 @@ concurrence de la quantité produite par les animaux correspondant aux droits à
 primes attribués.
 
 5° Les conditions dans lesquelles des sites d'élevage peuvent être regroupés. Le
-préfet peut autoriser le regroupement de plusieurs sites sur un seul sous
-réserve que tous les sites participant au regroupement soient situés en zone
-d'excédent structurel, qu'ils soient conformes aux dispositions du titre Ier du
-livre V, qu'ils respectent les prescriptions du programme d'action et que
+préfet de région peut autoriser le regroupement de plusieurs sites sur un seul
+sous réserve que tous les sites participant au regroupement soient situés en
+zone d'excédent structurel, qu'ils soient conformes aux dispositions du titre
+Ier du livre V, qu'ils respectent les prescriptions du programme d'action et que
 l'exploitation qui héberge le site regroupé soit conforme à l'article L. 331-1
-du code rural et de la pêche maritime .
+du code rural et de la pêche maritime.
 
 III.-Lorsque, après regroupement, la taille de l'exploitation excède les limites
 figurant dans le tableau annexé au présent article, une partie des quantités
@@ -84,8 +84,8 @@ une proportion fixée par l'arrêté interministériel prévu à l'article R. 21
 
 Au vu des progrès de la résorption de l'excédent structurel d'azote lié aux
 élevages dans les cantons en excédent structurel, et après avis du préfet de
-région, le préfet peut attribuer les quantités d'azote de la réserve
-départementale aux jeunes agriculteurs et aux exploitations de dimension
+département, le préfet de région peut attribuer les quantités d'azote de la
+réserve départementale aux jeunes agriculteurs et aux exploitations de dimension
 économique insuffisante mentionnés au 4° du II.
 
 Tableau de l'article R. 211-82
@@ -99,11 +99,9 @@ travail agricole (UTA), avec les équivalences suivantes :
 
 DIMENSION de l'exploitation nombre d'UTA
 
-
-NAISSEURS-engraisseurs nombre de truies
+NAISSEURS -engraisseurs nombre de truies
 
 VOLAILLES de chair nombre de m2
-
 
 VOLAILLES de ponte nombre de places
 
@@ -132,5 +130,5 @@ VOLAILLES de ponte nombre de places
 70 000
 
 Nota.-Le cheptel des élevages non spécifiés ci-dessus est déterminé par le
-préfet par équivalence, conformément aux règles des projets agricoles
+préfet de région par équivalence, conformément aux règles des projets agricoles
 départementaux.
