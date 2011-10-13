@@ -1,9 +1,10 @@
 Article 405 B
 ----
 Les machines destinées à apposer les empreintes représentatives des divers
-droits de timbre perçus par le service des impôts doivent être agréées par le
-directeur général des impôts dans les conditions fixées par arrêté du ministre
-de l'économie et des finances (1).
+droits de timbre perçus par le service compétent de la direction générale des
+finances publiques doivent être agréées par le directeur général des finances
+publiques dans les conditions fixées par arrêté du ministre chargé du budget
+(1).
 
 Les empreintes doivent être apposées dans les mêmes délais et aux mêmes
 emplacements que les timbres mobiles qu'elles remplacent.
