@@ -10,5 +10,6 @@ conditions prévues aux articles 485 et 486 du code de procédure civile.
 Les réquisitions du parquet sont prises à la demande du directeur départemental
 de l'administration qui a provoqué la mise sous séquestre dans le cas où aucune
 décision définitive n'est intervenue sur l'action publique et à la demande du
-trésorier-payeur général dans le cas de décision définitive jusqu'à et après
+directeur départemental des finances publiques ou du responsable du service à
+compétence nationale dans le cas de décision définitive jusqu'à et après
 l'exécution de cette décision.
