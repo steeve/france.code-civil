@@ -7,11 +7,9 @@ justifications utiles, en premier lieu, au chef du service du département ou de
 la région dans lesquels est effectuée la poursuite. Le chef de service compétent
 est :
 
-a) Le trésorier-payeur général si le recouvrement incombe à un comptable du
-Trésor ;
+a) Le directeur départemental des finances publiques ou le responsable du
+service à compétence nationale si le recouvrement incombe à un comptable de la
+direction générale des finances publiques ;
 
-b) Le directeur des services fiscaux si le recouvrement incombe à un comptable
-de la direction générale des impôts ;
-
-c) Le directeur régional des douanes et droits indirects si le recouvrement
+b) Le directeur régional des douanes et droits indirects si le recouvrement
 incombe à un comptable de la direction générale des douanes et droits indirects.
