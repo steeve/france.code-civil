@@ -4,6 +4,9 @@ L'avis de mise en recouvrement prévu à l'article L. 256 indique pour chaque
 impôt ou taxe le montant global des droits, des pénalités et des intérêts de
 retard qui font l'objet de cet avis.
 
+L'avis de mise en recouvrement mentionne également que d'autres intérêts de
+retard pourront être liquidés après le paiement intégral des droits.
+
 Lorsque l'avis de mise en recouvrement est consécutif à une procédure de
 rectification, il fait référence à la proposition prévue à l'article L. 57 ou à
 la notification prévue à l'article L. 76 et, le cas échéant, au document adressé
@@ -19,6 +22,6 @@ un document l'informant du montant global par impôt des droits, des pénalités
 des intérêts de retard dont elle est redevable. L'avis de mise en recouvrement,
 qui peut être alors émis sans délai, fait référence à ce document.
 
-L'avis de mise en recouvrement, dans le cas mentionné au deuxième alinéa de
+L'avis de mise en recouvrement, dans le cas mentionné au troisième alinéa de
 l'article L. 256, indique seulement le montant de la somme indûment versée, et
 la date de son versement.
