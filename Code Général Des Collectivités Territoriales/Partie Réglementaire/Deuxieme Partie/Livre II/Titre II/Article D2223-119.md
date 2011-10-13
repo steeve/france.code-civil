@@ -3,10 +3,18 @@ Article D2223-119
 I.-Toute personne proposant à la vente un véhicule de transport de corps après
 mise en bière neuf ou d'occasion est tenue d'en faire vérifier à ses frais la
 conformité par rapport aux prescriptions des articles D. 2223-116 à D. 2223-120
-auprès d'un bureau de contrôle agréé par le ministre chargé de la santé et d'en
-remettre le procès-verbal à l'acheteur.
+auprès d'un organisme de contrôle tierce partie accrédité pour ces activités par
+le Comité français d'accréditation (COFRAC) ou par tout autre organisme
+d'accréditation signataire de l'accord de reconnaissance multilatéral établi
+dans le cadre de la coordination européenne des organismes d'accréditation
+(European Cooperation for Accreditation ou " EA ") selon les critères généraux
+relatifs au fonctionnement des différents types d'organismes procédant à
+l'inspection. L'organisme procédant au contrôle de conformité ne doit posséder
+aucun lien d'intérêt avec une entreprise intervenant dans la commercialisation
+du véhicule de nature à porter atteinte à son impartialité et à son
+indépendance.
 
-Le bureau de contrôle identifie le véhicule ayant fait l'objet du contrôle de
+L'organisme de contrôle identifie le véhicule ayant fait l'objet du contrôle de
 conformité par une plaque inamovible ou un gravage inaltérable indiquant sa
 raison sociale, son adresse, la date et les références du contrôle.
 

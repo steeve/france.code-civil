@@ -2,12 +2,19 @@ Article D2223-87
 ----
 Lorsque la création ou l'extension de la chambre funéraire a été autorisée dans
 les conditions prévues à l'article R. 2223-74, son ouverture au public est
-néanmoins subordonnée à la conformité aux prescriptions énoncées aux articles
-précédents, vérifiée par un bureau de contrôle agréé par le ministre chargé de
-la santé. En cas de non-conformité attestée lors de cette visite, le préfet
-communique au maître de l'ouvrage les modifications à opérer avant ouverture au
-public, sous peine de suspension ou de retrait de son habilitation dans le
-domaine funéraire.
+subordonnée à la conformité aux prescriptions énoncées aux articles précédents,
+vérifiée par un organisme de contrôle accrédité pour ces activités par le Comité
+français d'accréditation (COFRAC) ou par tout autre organisme d'accréditation
+signataire de l'accord de reconnaissance multilatéral établi dans le cadre de la
+coordination européenne des organismes d'accréditation (European Cooperation for
+Accreditation ou " EA") selon les critères généraux relatifs au fonctionnement
+des différents types d'organismes procédant à l'inspection. L'organisme
+procédant à l'inspection ne doit posséder aucun lien d'intérêt de nature à
+porter atteinte à son impartialité et à son indépendance à l'égard de
+l'entreprise dont l'installation est soumise à son contrôle. En cas de
+non-conformité attestée lors de cette visite, le préfet communique au maître de
+l'ouvrage les modifications à opérer avant ouverture au public, sous peine de
+suspension ou de retrait de son habilitation dans le domaine funéraire.
 
 Une visite de conformité est ensuite assurée dans les mêmes conditions lorsque
 des travaux touchant la configuration, l'équipement ou l'organisation interne de

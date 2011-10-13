@@ -4,17 +4,37 @@ I.-Toute personne proposant à la vente un véhicule de transport de corps avant
 mise en bière, un caisson isotherme ou un système de refroidissement
 susceptibles d'être installés dans un tel véhicule est tenue de faire vérifier
 chaque année la conformité d'un modèle de la série mise sur le marché aux
-prescriptions des articles D. 2223-110 à D. 2223-114 auprès d'une station
-d'essai agréée par le ministre chargé de la santé. Elle remet une copie du
-procès verbal d'essai à l'acheteur.
+prescriptions des articles D. 2223-110 à D. 2223-114 auprès d'un organisme
+tierce partie accrédité pour ces activités par le Comité français
+d'accréditation (COFRAC) ou par tout autre organisme d'accréditation signataire
+de l'accord de reconnaissance multilatéral établi dans le cadre de la
+coordination européenne des organismes d'accréditation (European Cooperation for
+Accreditation ou " EA ") selon les critères généraux relatifs au fonctionnement
+des différents types d'organismes procédant à l'inspection. Elle remet une copie
+du rapport de contrôle à l'acheteur. L'organisme procédant au contrôle de
+conformité ne doit posséder aucun lien d'intérêt avec une entreprise intervenant
+dans la commercialisation du véhicule, du caisson isotherme ou du système de
+refroidissement, de nature à porter atteinte à son impartialité et à son
+indépendance.
+
+La responsabilité des contrôles de conformité est assurée par l'organisme
+accrédité selon les dispositions de l'alinéa précédent.
+
+Les essais réalisés dans le cadre des dispositions de l'article D. 2223-111 sont
+effectués par des laboratoires accrédités pour ces essais par le Comité français
+d'accréditation (COFRAC) ou par tout autre organisme d'accréditation signataire
+de l'accord de reconnaissance multilatéral établi dans le cadre de la
+coordination européenne des organismes d'accréditation (European Cooperation for
+Accreditation ou " EA "), selon les exigences générales relatives à la
+compétence des laboratoires d'étalonnages et d'essais.
 
 Le vendeur identifie le véhicule, le caisson ou le système de refroidissement
 appartenant à une série ayant fait l'objet d'un contrôle de conformité par une
 plaque inamovible ou un gravage inaltérable indiquant la désignation de
-l'organisme certificateur, le numéro de la série, la date et les références du
-contrôle.
+l'organisme de contrôle accrédité, le numéro de la série, la date et les
+références du contrôle.
 
-Une copie du procès verbal d'essais est transmise sans délai par l'acheteur au
+Une copie du rapport de contrôle est transmise sans délai par l'acheteur au
 préfet compétent pour lui délivrer une habilitation dans le domaine funéraire.
 
 II.-Les véhicules fabriqués conformément soit aux normes françaises, soit aux

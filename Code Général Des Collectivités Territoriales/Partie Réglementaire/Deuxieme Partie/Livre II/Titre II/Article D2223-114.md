@@ -5,7 +5,8 @@ visite de conformité tous les trois ans au plus et, en tout état de cause, dan
 les six mois qui précèdent la date de renouvellement de l'habilitation dans le
 domaine funéraire de l'entreprise, de la régie, de l'association ou de
 l'établissement qui les utilisent. Le préfet désigne le ou les organismes
-chargés d'effectuer la visite de conformité.
+chargés d'effectuer la visite de conformité parmi les organismes de contrôle
+accrédités selon les dispositions de l'article D. 2223-113.
 
 Une visite doit également être effectuée après tout remplacement total ou
 partiel ou toute modification ou réparation d'un caisson ou d'un dispositif de
