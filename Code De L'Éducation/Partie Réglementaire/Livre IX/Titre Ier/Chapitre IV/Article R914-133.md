@@ -1,7 +1,8 @@
 Article R914-133
 ----
 Le maître dont le contrat a été résilié ou l'agrément retiré dans les conditions
-prévues à l'article R. 914-114 peut bénéficier des avantages temporaires de
+prévues à l'article R. 914-114 peut bénéficier à compter du jour suivant la
+résiliation du contrat ou le retrait d'agrément des avantages temporaires de
 retraite servis par l'Etat rémunérant les services d'enseignement effectués dans
 les classes sous contrat des établissements d'enseignement privés. Ces avantages
 de retraite sont servis jusqu'à l'âge auquel le maître a droit à une pension de
