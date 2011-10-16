@@ -16,17 +16,46 @@ LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies
 
 Epaule
 
-Epaule douloureuse simple (tendinopathie de la coiffe des rotateurs).
+Tendinopathie aiguë non rompue non calcifiante avec ou sans enthésopathie de la
+coiffe des rotateurs.
 
-7 jours
+30 jours
 
-Travaux comportant habituellement des mouvements répétés ou forcés de l'épaule.
+Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en
+abduction (**) avec un angle supérieur ou égal à 60° pendant au moins 3 h 30 par
+jour en cumulé.
 
-Epaule enraidie succédant à une épaule douloureuse simple rebelle.
+Tendinopathie chronique non rompue non calcifiante avec ou sans enthésopathie de
+la coiffe des rotateurs objectivée par IRM (*).
 
-90 jours
+6 mois (sous réserve d'une durée d'exposition de 6 mois)
 
-Travaux comportant habituellement des mouvements répétés ou forcés de l'épaule.
+Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en
+abduction (**) : - avec un angle supérieur ou égal à 60° pendant au moins deux
+heures par jour en cumulé
+
+ou
+
+- avec un angle supérieur ou égal à 90° pendant au moins une heure par jour en
+cumulé.
+
+Rupture partielle ou transfixiante de la coiffe des rotateurs objectivée par IRM
+(*).
+
+1 an (sous réserve d'une durée d'exposition d'un an)
+
+Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en
+abduction (**) : - avec un angle supérieur ou égal à 60° pendant au moins deux
+heures par jour en cumulé
+
+ou
+
+- avec un angle supérieur ou égal à 90° pendant au moins une heure par jour en
+cumulé.
+
+(*) Ou un arthroscanner en cas de contre-indication à l'IRM. (**) Les mouvements
+en abduction correspondent aux mouvements entraînant un décollement des bras par
+rapport au corps.
 
 - B -
 
