@@ -20,49 +20,42 @@ I.-Autorités administratives et judiciaires françaises :
 
 6° Le président de la Cour de justice de la République ;
 
-7° Le Médiateur de la République et ses délégués départementaux ;
+7° Le Défenseur des droits et ses délégués ;
 
-8° Le président de la Haute Autorité de lutte contre les discriminations et pour
-l'égalité ;
+8° Le président de la Commission nationale de l'informatique et des libertés ;
 
-9° Le Défenseur des enfants ;
+9° Le président de la Commission d'accès aux documents administratifs ;
 
-10° Le président de la Commission nationale de l'informatique et des libertés ;
-
-11° Le président de la Commission d'accès aux documents administratifs ;
-
-12° Le président de la Commission nationale de déontologie de la sécurité ;
-
-13° Les présidents des cours administratives d'appel et des tribunaux
+10° Les présidents des cours administratives d'appel et des tribunaux
 administratifs ;
 
-14° Les magistrats de l'ordre judiciaire en exercice dans leurs juridictions ;
+11° Les magistrats de l'ordre judiciaire en exercice dans leurs juridictions ;
 
-15° Le directeur du cabinet du garde des sceaux, ministre de la justice ;
+12° Le directeur du cabinet du garde des sceaux, ministre de la justice ;
 
-16° Les directeurs du ministère de la justice ;
+13° Les directeurs du ministère de la justice ;
 
-17° Le chef de l'inspection générale des affaires sociales ;
+14° Le chef de l'inspection générale des affaires sociales ;
 
-18° L'inspecteur général des services judiciaires ;
+15° L'inspecteur général des services judiciaires ;
 
-19° Le chef de l'inspection des services pénitentiaires ;
+16° Le chef de l'inspection des services pénitentiaires ;
 
-20° Les préfets et les sous-préfets ;
+17° Les préfets et les sous-préfets ;
 
-21° Le maire de la commune où la personne détenue est domiciliée ou incarcérée ;
+18° Le maire de la commune où la personne détenue est domiciliée ou incarcérée ;
 
-22° Les directeurs interrégionaux des services pénitentiaires et les directeurs
+19° Les directeurs interrégionaux des services pénitentiaires et les directeurs
 interrégionaux de la protection judiciaire et de la jeunesse ;
 
-23° Les directeurs des services d'insertion et probation ;
+20° Les directeurs des services d'insertion et probation ;
 
-24° Le président du conseil d'évaluation de l'établissement où est incarcérée la
+21° Le président du conseil d'évaluation de l'établissement où est incarcérée la
 personne détenue ;
 
-25° Les médecins inspecteurs de santé publique ;
+22° Les médecins inspecteurs de santé publique ;
 
-26° Les directeurs d'établissement de santé.
+23° Les directeurs d'établissement de santé.
 
 II.-Autorités administratives et judiciaires internationales :
 
@@ -98,4 +91,4 @@ l'homme des Nations unies ;
 12° Le président et les membres de la Commission des droits de l'homme des
 Nations unies ;
 
-13° Le secrétaire général du Conseil de l'Europe. ;
+13° Le secrétaire général du Conseil de l'Europe.
