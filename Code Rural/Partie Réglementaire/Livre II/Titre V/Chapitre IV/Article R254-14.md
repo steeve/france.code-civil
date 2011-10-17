@@ -1,19 +1,12 @@
 Article R254-14
 ----
-Sans préjudice des peines applicables prévues à L. 254-9, s'il apparaît, lors de
-contrôles effectués par les agents chargés de la protection des végétaux et les
-agents habilités en matière de répression des fraudes conformément à l'article
-L. 254-8, que les conditions de délivrance de l'agrément ne sont pas satisfaites
-ou que l'obligation de notification mentionnée au I de l'article R. 254-3 n'est
-pas respectée, le directeur régional de l'alimentation, de l'agriculture et de
-la forêt ou le directeur de l'agriculture et de la forêt des départements
-d'outre-mer notifie à l'organisme les motifs qui justifient le retrait de
-l'agrément.
+Les organismes de formation mentionnés à l'article R. 254-13 doivent être
+préalablement habilités. Cette habilitation est délivrée par le directeur
+régional de l'alimentation, de l'agriculture et de la forêt, ou par le directeur
+de l'alimentation, de l'agriculture et de la forêt, du lieu où sont dispensées
+les formations ou réalisés les tests, ou, lorsque les formations et tests sont
+réalisés sur un territoire dépassant celui de la région, par le ministre chargé
+de l'agriculture.
 
-A la suite de cette notification, l'organisme dispose d'un délai d'un mois pour
-présenter ses observations au préfet de région.
-
-Le préfet de région statue sur le retrait de l'agrément.
-
-Durant cette période, le préfet de région peut suspendre l'agrément de
-l'organisme.
+Elle est subordonnée au respect des conditions fixées par l'arrêté mentionné au
+quatrième alinéa de l'article R. 254-9.

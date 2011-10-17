@@ -1,6 +1,6 @@
 Article R254-21
 ----
-Est puni de l'amende prévue pour la contravention de la 3e classe le fait pour
-le distributeur de ne pas fournir aux services compétents du ministère de
-l'agriculture les pièces, éléments d'information et justifications mentionnés au
-II de l'article R. 254-3 dans les conditions fixées par cet article.
+Les produits dont l'autorisation comporte la mention : " emploi autorisé dans
+les jardins " sont présentés à des emplacements séparés physiquement des
+produits dont l'autorisation ne comporte pas cette mention. Ces deux catégories
+de produits sont indiquées à l'aide d'une signalétique explicite.

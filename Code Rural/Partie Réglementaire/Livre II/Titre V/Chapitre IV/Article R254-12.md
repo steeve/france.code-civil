@@ -1,36 +1,14 @@
 Article R254-12
 ----
-Le Conseil national d'agrément professionnel est un organisme paritaire composé,
-sous la présidence du directeur général de l'alimentation ou son représentant :
+La demande de certificat individuel comprend un justificatif attestant du suivi
+d'une formation dispensée dans les conditions prévues aux 1° et 2° de l'article
+R. 254-9 et, le cas échéant, de la réussite au test afférent mentionné à cet
+article, ou la copie d'un diplôme ou titre mentionné au 3° de cet article.
 
-1° De représentants qualifiés :
-
-a) Du ministère de l'agriculture ;
-
-b) Du ministère de l'environnement ;
-
-c) Du ministère de la santé ;
-
-d) Du ministère de l'industrie ;
-
-e) Du ministère de l'économie ;
-
-f) Du ministère du travail ;
-
-g) Du ministère du commerce et de l'artisanat ;
-
-2° De représentants professionnels des secteurs d'activité suivants concernant :
-
-a) La fabrication ;
-
-b) La distribution ;
-
-c) L'application ;
-
-d) L'utilisation.
-
-Chaque représentant peut avoir un suppléant désigné.
-
-Les membres du Conseil national d'agrément professionnel et leurs suppléants
-sont désignés par arrêté du ministre chargé de l'agriculture, après consultation
-des ministères et des organismes professionnels concernés.
+Le certificat individuel, conforme à un modèle arrêté par le ministre chargé de
+l'agriculture et valable sur l'ensemble du territoire national, est délivré dans
+un délai de deux mois à compter de la demande selon les modalités fixées par
+arrêté du ministre chargé de l'agriculture. En l'absence de délivrance du
+certificat, et sauf notification d'un refus de délivrance, les justificatifs
+mentionnés au premier alinéa valent certificat individuel, à compter de
+l'expiration de ce délai, et pour une durée maximale de deux mois.

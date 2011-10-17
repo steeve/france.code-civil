@@ -2,7 +2,7 @@ Article R204-1
 ----
 La déclaration préalable à la première prestation de services, mentionnée au
 deuxième alinéa de l'article L. 204-1, est adressée à l'autorité compétente
-mentionnée respectivement aux articles R. 211-9, R. 214-25, R. 254-4 et R.
+mentionnée respectivement aux articles R. 211-9, R. 214-25, R. 254-11 et R.
 653-96. Elle comprend les informations relatives aux assurances ou autres moyens
 de protection personnelle ou collective souscrits par le déclarant pour couvrir
 sa responsabilité professionnelle.

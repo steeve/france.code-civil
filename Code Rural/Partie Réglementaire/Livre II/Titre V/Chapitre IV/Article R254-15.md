@@ -1,36 +1,27 @@
 Article R254-15
 ----
-I.-S'il apparaît que le titulaire du certificat a commis un acte contraire aux
-dispositions législatives et réglementaires applicables aux produits
-antiparasitaires à usage agricole et aux produits assimilés, ou, dans l'exercice
-de son activité, des négligences susceptibles de porter atteinte à la santé des
-personnes ou à l'environnement, le directeur régional de l'alimentation, de
-l'agriculture et de la forêt peut prendre une décision de retrait définitif ou
-temporaire du certificat.
+I.-L'agrément mentionné au II de l'article L. 254-1 est délivré par le préfet de
+région pour l'exercice des activités suivantes :
 
-II.-Le titulaire du certificat, qui est averti préalablement de la sanction
-qu'il encourt, peut présenter ses observations dans un délai d'un mois à dater
-de la réception de cette notification.
+1° La distribution des produits phytopharmaceutiques à des utilisateurs
+professionnels ;
 
-III.- (Paragraphe supprimé)
+2° La distribution des produits phytopharmaceutiques destinés à des utilisateurs
+non professionnels ;
 
-IV.-Le retrait définitif du certificat est prononcé :
+3° L'application en prestation de service de produits phytopharmaceutiques ;
 
-1° Quand l'effet de la négligence professionnelle ou de l'acte commis contraire
-aux dispositions législatives et réglementaires en vigueur est jugé d'une
-gravité telle qu'il peut porter atteinte à la santé humaine ou à l'environnement
-;
+4° Le conseil, indépendant de toute activité de vente.
 
-2° Dans le cas où un retrait temporaire du certificat aurait déjà été prononcé à
-l'encontre du titulaire.
+Les demandes portant sur plusieurs activités donnent lieu, le cas échéant, à la
+délivrance d'un agrément unique.
 
-Le certificat peut être retiré temporairement pour une durée au maximum d'un an,
-qui est proportionnée à la gravité des fautes commises.
+II.-Les référentiels mentionnés à l'article R. 254-3 prévoient la présence dans
+l'entreprise agréée de personnes titulaires du certificat adapté à leur
+fonction, mentionné au I de l'article L. 254-3, disponibles en nombre suffisant
+au moment de la vente pour fournir aux clients les informations appropriées.
 
-Le retrait définitif ou temporaire est prononcé par le directeur régional de
-l'alimentation, de l'agriculture et de la forêt ou par le directeur de
-l'agriculture et de la forêt pour les départements d'outre-mer.
-
-V.-Durant la procédure, le directeur régional de l'alimentation, de
-l'agriculture et de la forêt ou le directeur de l'agriculture et de la forêt
-pour les départements d'outre-mer peut suspendre le certificat.
+III.-Les référentiels mentionnés à l'article R. 254-3 comportent des exigences
+spécifiques relatives à l'organisation des entreprises sollicitant un agrément
+pour leur activité propre et celle d'établissements autres que des
+établissements secondaires, mentionnés au III de l'article L. 254-1.

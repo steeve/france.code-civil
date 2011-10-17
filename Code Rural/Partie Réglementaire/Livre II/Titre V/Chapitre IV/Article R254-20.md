@@ -1,27 +1,18 @@
 Article R254-20
 ----
-I.-Est puni de la peine d'amende prévue pour les contraventions de la cinquième
-classe :
+Les distributeurs ne peuvent mettre en vente, vendre ou distribuer à des
+utilisateurs qui ne sont pas des professionnels au sens de l'article R. 254-1
+que des produits dont l'autorisation comporte la mention : " emploi autorisé
+dans les jardins ".
 
-Le fait, pour une personne soumise à l'agrément prévu en application du 1° du I
-de l'article L. 254-1, de céder à titre onéreux ou gratuit à des utilisateurs
-non professionnels un produit phytopharmaceutique dont l'autorisation de mise
-sur le marché ne prévoit pas qu'il peut leur être destiné.
+Préalablement à la vente de produits dont l'autorisation ne comporte pas la
+mention : " emploi autorisé dans les jardins ", le distributeur s'assure de la
+qualité d'utilisateur professionnel de l'acheteur, sur présentation par celui-ci
+de justificatifs dont la liste est arrêtée par le ministre chargé de
+l'agriculture.
 
-La récidive de cette contravention est réprimée conformément aux articles 132-11
-et 132-15 du code pénal.
-
-II.-Est puni de la peine d'amende prévue pour les contraventions de la 4e classe
-:
-
-1° Le fait de ne pas tenir le registre mentionné à l'article L. 254-6 ;
-
-2° Le fait de ne pas tenir le registre conformément aux articles R. 254-16 à R.
-254-18 ;
-
-3° Le fait de ne pas transmettre le bilan ou les informations mentionnés à
-l'article R. 254-19 ;
-
-4° Le fait d'exposer des produits phytopharmaceutiques dans les points de vente
-aux utilisateurs finaux, dans des conditions autres que celles prévues en
-application de l'article R. 254-19-1.
+Par dérogation au premier alinéa, sous réserve de justificatifs précisés par
+arrêté du ministre chargé de l'agriculture, les distributeurs peuvent céder des
+produits dont l'autorisation ne comporte pas la mention : " emploi autorisé dans
+les jardins " à des personnes pour le compte desquelles des utilisateurs
+professionnels vont utiliser les produits phytopharmaceutiques en cause.

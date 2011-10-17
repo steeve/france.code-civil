@@ -1,18 +1,21 @@
 Article R254-18
 ----
-Le distributeur tient le registre de façon méthodique et chronologique.
+Sans préjudice des dispositions de l'article R. 254-7, le détenteur de
+l'agrément notifie au préfet de région, dans un délai de trente jours, tout
+changement susceptible d'avoir un impact sur les conditions aux vues desquelles
+l'agrément lui a été accordé et relatif, notamment :
 
-Il peut y porter des mentions autres que celles exigées par l'article R. 254-16,
-à condition que cela ne porte pas atteinte à la lisibilité du registre.
+1° A la certification délivrée à l'entreprise ;
 
-Les informations contenues dans le registre doivent figurer sur un support
-garantissant leur pérennité et leur intégrité. Le registre est conservé pendant
-une durée de cinq ans suivant l'année de prise en compte de l'enregistrement de
-la dernière information.
+2° A l'organisme certificateur ;
 
-Il est tenu à la disposition des autorités de contrôle pendant la durée
-prescrite.
+3° A l'assurance mentionnée au 1° du I de l'article L. 254-2 ;
 
-Le cas échéant, les enregistrements informatiques doivent pouvoir être édités
-sur papier et être classés par produits, par date de facturation et par code
-postal. Ils sont mis à la disposition des autorités de contrôle, à leur demande.
+4° A un rachat de l'entreprise ou de l'un de ses établissements, au sens du III
+de l'article L. 254-1, ou à une cessation d'activité dans l'un de ces
+établissements.
+
+Le détenteur accompagne cette information de tout justificatif utile, notamment,
+le cas échéant, la mise à jour du contrat d'assurance prévu au 1° du I de
+l'article L. 254-2, et la copie du contrat passé avec le nouvel organisme
+certificateur.

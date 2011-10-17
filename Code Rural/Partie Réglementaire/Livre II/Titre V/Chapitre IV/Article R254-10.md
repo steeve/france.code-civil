@@ -1,6 +1,7 @@
 Article R254-10
 ----
-Lorsqu'il n'exerce pas lui-même les tâches d'encadrement et de formation liées
-aux activités mentionnées aux articles L. 254-1 et L. 254-2, le chef
-d'établissement confie aux personnes titulaires du certificat l'autorité et les
-moyens nécessaires à l'accomplissement de ces tâches.
+Pour les titulaires d'un certificat individuel, son renouvellement ou
+l'obtention d'un certificat dans une autre spécialité professionnelle ou une
+autre catégorie peut être obtenu dans les conditions prévues à l'article R.
+254-9. Le contenu et la durée des programmes de formation sont fixés par arrêté
+du ministre chargé de l'agriculture.

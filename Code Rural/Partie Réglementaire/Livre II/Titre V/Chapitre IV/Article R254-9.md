@@ -1,32 +1,30 @@
 Article R254-9
 ----
-Le certificat, valable cinq ans, est renouvelable à la demande de son titulaire.
+I.-Les certificats individuels peuvent être obtenus :
 
-Le modèle du dossier simplifié de renouvellement à fournir est disponible auprès
-de la direction régionale de l'alimentation, de l'agriculture et de la forêt ou
-auprès de la direction de l'agriculture et de la forêt pour les départements
-d'outre-mer.
+1° Soit à l'issue d'une formation adaptée aux activités professionnelles et
+catégories concernées ;
 
-Ce dossier simplifié relate :
+2° Soit à la suite d'un test assorti, le cas échéant, d'une formation ;
 
-1° Les activités professionnelles du titulaire, celles que lui impose en
-particulier le premier alinéa de l'article L. 254-3, en matière de formation et
-d'encadrement du personnel ;
+3° Soit au vu d'un diplôme ou titre au moins égal au niveau V de la nomenclature
+interministérielle des niveaux de formation, inscrit au répertoire national des
+certifications professionnelles et obtenu au cours des cinq années précédant la
+date de la demande, dont la liste est fixée par arrêté du ministre chargé de
+l'agriculture.
 
-2° Les actions d'acquisition, d'entretien et de perfectionnement des
-connaissances, notamment celles qui auront été entreprises selon les conseils et
-les indications fournis par les services compétents au cours de la période de
-validité du certificat.
+Le contenu, la durée de la formation mentionnée aux 1° et 2°, les conditions de
+réussite au test ainsi que les moyens techniques, pédagogiques, d'encadrement et
+de suivi à mettre en œuvre par les organismes qui les dispensent sont précisés
+par arrêté du ministre chargé de l'agriculture ;
 
-La demande de renouvellement du certificat est adressée six mois au moins avant
-l'expiration du délai de validité du certificat à la direction régionale de
-l'alimentation, de l'agriculture et de la forêt ou à la direction de
-l'agriculture et de la forêt pour les départements d'outre-mer correspondant au
-lieu de domicile du titulaire.
+Les titulaires de l'un des titres ou diplômes mentionnés au 3° délivré par le
+ministre chargé de l'agriculture à l'issue d'une préparation dans un
+établissement d'enseignement agricole sont réputés détenir un certificat
+individuel.
 
-Le dossier de renouvellement du certificat est examiné par le jury prévu à
-l'article R. 254-7.
-
-Le renouvellement du certificat est notifié au demandeur par le directeur
-régional de l'alimentation, de l'agriculture et de la forêt ou le directeur de
-l'agriculture et de la forêt pour les départements d'outre-mer.
+II.-Les professionnels autres que ceux mentionnés à l'article L. 204-1
+ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie
+à l'accord sur l'Espace économique européen qui disposent d'un certificat
+délivré dans leur Etat de provenance, conformément aux exigences de la directive
+2009/128/ CE, sont réputés détenir le certificat mentionné à l'article L. 254-3.

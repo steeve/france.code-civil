@@ -1,24 +1,7 @@
 Article R254-7
 ----
-Le dossier de validation des acquis professionnels ou de dispense de certaines
-unités capitalisables est soumis à un jury désigné pour une période de deux ans
-par le ministre chargé de l'agriculture et constitué dans un cadre territorial
-adapté au nombre de candidats ayant déposé une demande.
-
-Il est constitué d'une façon paritaire :
-
-1° D'une part, de membres de l'enseignement et de la formation professionnelle
-publics et privés et d'agents de directions régionales de l'alimentation, de
-l'agriculture et de la forêt ;
-
-2° D'autre part, de professionnels des secteurs d'activité mentionnés à
-l'article R. 254-1.
-
-Chaque membre a un suppléant désigné.
-
-La présidence du jury est assurée par un fonctionnaire de catégorie A du
-ministère de l'agriculture.
-
-Lors de l'examen du dossier de validation des acquis professionnels ou de
-dispense de certaines unités de contrôle capitalisables, le jury peut décider
-d'entendre le candidat.
+Tout changement dans l'entreprise ou ses établissements susceptible de modifier
+les conditions au vu desquelles la certification d'entreprise a été accordée est
+communiqué par le détenteur de l'agrément à l'organisme certificateur dans un
+délai de quinze jours. L'organisme certificateur met à jour, en fonction des
+changements constatés, la certification délivrée à l'entreprise.
