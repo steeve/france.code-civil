@@ -2,10 +2,11 @@ Article D4152-5
 ----
 Dans l'armée de terre, la marine et l'armée de l'air, les officiers admis à
 suivre l'enseignement militaire supérieur sont désignés par le chef d'état-major
-de l'armée concernée.A la direction générale de l'armement, dans la gendarmerie
-nationale, le service de santé des armées, le service des essences des armées et
-la justice militaire, ils sont désignés par le délégué ou le directeur concerné.
-Ces désignations sont effectuées :
+de l'armée concernée. A la direction générale de l'armement, dans la gendarmerie
+nationale, le service de santé des armées, le service des essences des armées,
+le service d'infrastructure de la défense et la justice militaire, ils sont
+désignés par le délégué ou le directeur concerné. Ces désignations sont
+effectuées :
 
 1° Pour l'admission à l'enseignement du premier degré, dans les conditions
 fixées par instructions du ministre de la défense ;
