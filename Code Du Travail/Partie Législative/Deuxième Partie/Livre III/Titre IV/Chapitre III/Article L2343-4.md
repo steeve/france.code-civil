@@ -1,9 +1,9 @@
 Article L2343-4
 ----
-Lorsque surviennent des circonstances exceptionnelles affectant considérablement
-les intérêts des salariés, notamment en cas de délocalisation, de fermeture
-d'entreprises ou d'établissements ou de licenciements collectifs, le bureau
-mentionné à l'article L. 2343-7 ou, s'il n'en n'existe pas, le comité
+Lorsque surviennent des circonstances exceptionnelles ou des décisions affectant
+considérablement les intérêts des salariés, notamment en cas de délocalisation,
+de fermeture d'entreprises ou d'établissements ou de licenciements collectifs,
+le bureau mentionné à l'article L. 2343-7 ou, s'il n'en n'existe pas, le comité
 d'entreprise européen, en est informé.
 
 Le bureau ou le comité se réunit à sa demande avec l'employeur afin d'être
