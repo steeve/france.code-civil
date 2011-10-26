@@ -33,20 +33,3 @@ visés au a de l'article L. 862-2 ;
 b) Le fonds et l'Agence centrale des organismes de sécurité sociale ;
 
 c) Le fonds et l'Etat.
-
-III. - Le montant de la dotation globale prévue au c de l'article L. 862-3 ainsi
-que sa répartition entre les régimes d'assurance maladie dans les conditions
-prévues à l'article L. 174-2 sont fixés, chaque année, par arrêté des ministres
-chargés de la sécurité sociale et du budget.
-
-Ce montant ne peut excéder, au titre de l'exercice considéré, le montant total
-des déductions opérées par les organismes mentionnés au I de l'article L. 862-4
-au titre du crédit d'impôt mentionné à l'article L. 863-1. Dans le cas
-contraire, la différence entre le montant de la dotation versée et les
-déductions opérées donne lieu à une régularisation qui intervient dans l'arrêté
-pris au titre de l'année suivante.
-
-La dotation est versée au fonds par la Caisse nationale de l'assurance maladie
-des travailleurs salariés pour le compte de l'ensemble des régimes d'assurance
-maladie dans des conditions prévues par convention entre le fonds, cette caisse
-et l'Agence centrale des organismes de sécurité sociale.

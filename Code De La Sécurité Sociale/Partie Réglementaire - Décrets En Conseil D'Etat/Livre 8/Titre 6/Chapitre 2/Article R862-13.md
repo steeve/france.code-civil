@@ -1,7 +1,9 @@
 Article R862-13
 ----
 Le fonds procède aux contrôles prévus au a de l'article L. 862-7 et au dernier
-alinéa de l'article L. 862-8.
+alinéa de l'article L. 862-8. Il contrôle le respect par les organismes
+mentionnés au b de l'article L. 861-4 des obligations prévues aux articles L.
+861-3 et L. 861-8.
 
 Pour le contrôle des dépenses mentionnées au a de l'article L. 862-2, les
 organismes de sécurité sociale tiennent à la disposition du fonds les pièces
