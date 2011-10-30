@@ -1,9 +1,9 @@
 Article R931-10-40
 ----
-I. - Les valeurs amortissables énumérées aux 1°, 2°, 3° et 3° bis de l'article
-R. 931-10-21, autres que les obligations indexées, les parts de fonds communs de
-créances et les titres participatifs, sont inscrits à leur prix d'achat à la
-date d'acquisition.
+I.-Les valeurs amortissables énumérées aux 1°, 2°, 3°, 3° bis et 3° ter de
+l'article R. 931-10-21, autres que les obligations indexées, les parts de fonds
+communs de créances et les titres participatifs, sont inscrits à leur prix
+d'achat à la date d'acquisition.
 
 Lorsqu'un instrument financier à terme est utilisé dans les conditions définies
 à l'article R. 931-10-49 et qu'il est lié à l'achat d'un titre ou d'un groupe de
@@ -34,8 +34,8 @@ mesure de respecter ses engagements soit pour le paiement des intérêts, soit
 pour le remboursement du principal, une dépréciation doit être constatée à
 l'inventaire.
 
-II. - Le I du présent article s'applique également aux obligations indexées sur
-le niveau général des prix d'un pays ou d'un ensemble de pays dont la devise est
+II.-Le I du présent article s'applique également aux obligations indexées sur le
+niveau général des prix d'un pays ou d'un ensemble de pays dont la devise est
 celle dans laquelle sont libellées ces obligations, avec garantie de
 remboursement au pair. Ces obligations sont soit émises par une personne morale
 de droit privé ayant son siège social sur le territoire d'un Etat membre de

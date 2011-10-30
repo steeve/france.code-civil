@@ -1,9 +1,9 @@
 Article R212-50
 ----
 La garantie des créances sur les réassureurs mentionnée à l'article R. 212-35
-est constituée par le nantissement des valeurs visées aux 1°, 2°, 3°, 4°, 5°,
-6°, 12° et 14° de l'article R. 212-31. Ces valeurs sont déposées sur un compte
-gagé au sens de l'article L. 211-20 du code monétaire et financier.
+est constituée par le nantissement des valeurs visées aux 1°, 2°, 3°, 4°, 4°
+bis, 5°, 6°, 12° et 14° de l'article R. 212-31. Ces valeurs sont déposées sur un
+compte gagé au sens de l'article L. 211-20 du code monétaire et financier.
 
 Les valeurs reçues en nantissement sont évaluées conformément aux dispositions
 de l'article R. 212-54. Pour l'estimation des valeurs mentionnées au 1° de

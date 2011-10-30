@@ -17,9 +17,11 @@ public dont un ou plusieurs Etats membres de la Communauté européenne font
 partie ; obligations émises ou garanties par les collectivités publiques
 territoriales d'un Etat membre de l'O. C. D. E. ;
 
-2° Obligations, titres participatifs et parts ou actions émises par des
-véhicules de titrisation négociés sur un marché reconnu, autres que celles ou
-ceux mentionnés au 1° ;
+2° Obligations, parts ou actions émises par un organisme de titrisation régi par
+la section 2 du chapitre IV du titre Ier du livre II du code monétaire et
+financier ou par un organisme de droit étranger ayant un objet équivalent et
+titres participatifs, autres que celles et ceux visés au 1°, et négociés sur un
+marché reconnu ;
 
 3° Titres de créances négociables d'un an au plus (certificats de dépôt et
 billets de trésorerie) rémunérés à taux fixe ou indexé sur un taux usuel sur les
@@ -31,6 +33,12 @@ territoire de ces Etats et dont des titres sont négociés sur un marché reconn
 l'article R. 931-10-35-1, et émis par des personnes morales autres que les Etats
 membres de l'OCDE ayant leur siège social sur le territoire de ces Etats et dont
 des titres sont négociés sur un marché reconnu ;
+
+3° ter Obligations, parts ou actions répondant aux conditions mentionnées aux a,
+b et c de l'article R. 931-10-35-1, émises par un organisme de titrisation régi
+par la section 2 du chapitre IV du titre Ier du livre II du code monétaire et
+financier ou par un organisme de droit étranger ayant un objet équivalent,
+respectant les règles prévues à l'article R. 931-10-35-2 ;
 
 4° Actions des sociétés d'investissement à capital variable et parts de fonds
 communs de placement dont l'objet est limité à la gestion d'un portefeuille de
@@ -52,8 +60,8 @@ titres participatifs et titres subordonnés émis par des sociétés d'assurance
 mutuelles, des institutions de prévoyance ou des unions d'une institution de
 prévoyance et des mutuelles, unions et fédérations régies par le code de la
 mutualité, ayant leur siège social sur le territoire de l'un des Etats membres
-de l'OCDE, autres que les valeurs visées aux 2°, 3°, 3° bis, 4°, 5°, 6°, 7°, 9°
-bis, 10° et 12° ;
+de l'OCDE, autres que les valeurs visées aux 2°, 3°, 3° bis, 3° ter, 4°, 5°, 6°,
+7°, 9° bis, 10° et 12° ;
 
 9° Parts des fonds communs de placement à risques de l'article L. 214-28 du code
 monétaire et financier, parts des fonds communs de placement dans l'innovation

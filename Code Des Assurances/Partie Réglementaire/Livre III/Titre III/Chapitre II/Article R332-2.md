@@ -17,9 +17,11 @@ plusieurs Etats membres de la Communauté européenne font partie ; obligations
 émises ou garanties par les collectivités publiques territoriales d'un Etat
 membre de l'OCDE ;
 
-2° Obligations, titres participatifs et parts ou actions émises par des
-véhicules de titrisation et titres participatifs négociés sur un marché reconnu,
-autres que celles ou ceux visés au 1° ;
+2° Obligations, parts ou actions émises par un organisme de titrisation régi par
+la section 2 du chapitre IV du titre Ier du livre II du code monétaire et
+financier ou par un organisme de droit étranger ayant un objet équivalent et
+titres participatifs, autres que celles et ceux visés au 1°, et négociés sur un
+marché reconnu ;
 
 2° bis Titres de créances négociables d'un an au plus (certificats de dépôt et
 billets de trésorerie) rémunérés à taux fixe ou indexé sur un taux usuel sur les
@@ -32,6 +34,12 @@ sont négociés sur un marché reconnu ;
 l'article R. 332-14-1 et émis par des personnes morales autres que les Etats
 membres de l'OCDE ayant leur siège social sur le territoire de ces Etats et dont
 des titres sont négociés sur un marché reconnu ;
+
+2° quater Obligations, parts ou actions répondant aux conditions mentionnées aux
+a, b et c de l'article R. 332-14-1, émises par un organisme de titrisation régi
+par la section 2 du chapitre IV du titre Ier du livre II du code monétaire et
+financier ou par un organisme de droit étranger ayant un objet équivalent,
+respectant les règles prévues à l'article R. 332-14-2 ;
 
 3° Actions des sociétés d'investissement à capital variable et parts de fonds
 communs de placement dont l'objet est limité à la gestion d'un portefeuille de
@@ -53,7 +61,7 @@ mutuelles, les mutuelles, unions et fédérations régies par le code de la
 mutualité et les institutions de prévoyance régies par le titre III du livre IX
 du code de la sécurité sociale ayant leur siège social sur le territoire de l'un
 des Etats membres de l'OCDE, autres que les valeurs visées aux 2°, 2° bis, 2°
-ter, 3°, 4°, 5°, 5° bis, 7° bis, 8° et 9° bis ;
+ter, 2° quater, 3°, 4°, 5°, 5° bis, 7° bis, 8° et 9° bis ;
 
 7° Parts des fonds communs de placement à risques de l'article L. 214-28 du code
 monétaire et financier, parts des fonds communs de placement dans l'innovation

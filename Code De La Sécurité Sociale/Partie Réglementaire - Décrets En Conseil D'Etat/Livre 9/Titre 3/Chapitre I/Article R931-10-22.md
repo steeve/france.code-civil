@@ -22,10 +22,15 @@ quinquies de l'article R. 931-10-21 ;
 3° 10 % pour l'ensemble des valeurs mentionnées du 13° au 15° de l'article R.
 931-10-21 à l'exception des prêts mentionnés au 1° ;
 
-4° 5 % pour l'ensemble des valeurs constituées par les obligations, les parts ou
-actions visées au 2° de l'article R. 931-10-21 ainsi que les titres de créance
-visés au 2° bis du même article, émis par des véhicules de titrisation
-supportant des risques d'assurance.
+4° 5 % pour l'ensemble des valeurs constituées par :
 
-5° 0, 5 % pour le montant total des primes ou soultes mentionnées au deuxième
+-les obligations, parts ou actions mentionnées au 2° du A de l'article R.
+931-10-21 ainsi que les titres de créances négociables mentionnés au 3° du A du
+même article, émis par un véhicule de titrisation mentionné à l'article L.
+310-1-2 du code des assurances ;
+
+-les obligations, parts ou actions mentionnées au 3° ter du A de l'article R.
+931-10-21 ;
+
+5° 0,5 % pour le montant total des primes ou soultes mentionnées au deuxième
 alinéa du D de l'article R. 931-10-21.

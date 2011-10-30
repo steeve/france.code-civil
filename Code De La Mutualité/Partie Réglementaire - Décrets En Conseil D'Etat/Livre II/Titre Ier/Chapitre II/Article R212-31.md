@@ -11,15 +11,17 @@ A.-Valeurs mobilières et titres assimilés :
 1° Obligations et autres valeurs émises ou garanties par l'un des Etats membres
 de l'Organisation de coopération et de développement économique (OCDE) ainsi que
 les titres émis par la caisse d'amortissement de la dette sociale instituée par
-l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996; obligations émises ou
-garanties par un organisme international à caractère public dont un ou plusieurs
-Etats membres de la Communauté européenne font partie ; obligations émises ou
-garanties par les collectivités publiques territoriales d'un Etat membre de
-l'OCDE ;
+l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 ; obligations émises
+ou garanties par un organisme international à caractère public dont un ou
+plusieurs Etats membres de la Communauté européenne font partie ; obligations
+émises ou garanties par les collectivités publiques territoriales d'un Etat
+membre de l'OCDE ;
 
-2° Obligations, titres participatifs et parts ou actions émises par des
-véhicules de titrisation négociés sur un marché reconnu, autres que celles ou
-ceux visés au 1° ;
+2° Obligations, parts ou actions émises par un organisme de titrisation régi par
+la section 2 du chapitre IV du titre Ier du livre II du code monétaire et
+financier ou par un organisme de droit étranger ayant un objet équivalent et
+titres participatifs, autres que celles et ceux visés au 1°, et négociés sur un
+marché reconnu ;
 
 3° Titres de créances négociables d'un an au plus (certificats de dépôt et
 billets de trésorerie) rémunérés à taux fixe ou indexé sur un taux usuel sur les
@@ -31,6 +33,12 @@ territoire de ces Etats et dont des titres sont négociés sur un marché reconn
 l'article R. 212-47, et émis par des personnes morales autres que les Etats
 membres de l'OCDE ayant leur siège social sur le territoire de ces Etats et dont
 les titres sont négociés sur un marché reconnu ;
+
+4° bis Obligations, parts ou actions répondant aux conditions mentionnées aux a,
+b et c de l'article R. 212-47, émises par un organisme de titrisation régi par
+la section 2 du chapitre IV du titre Ier du livre II du code monétaire et
+financier ou par un organisme de droit étranger ayant un objet équivalent,
+respectant les règles prévues à l'article R. 212-47-1 ;
 
 5° Actions des sociétés d'investissement à capital variable et parts de fonds
 communs de placement dont l'objet est limité à la gestion d'un portefeuille de
@@ -51,8 +59,8 @@ titres participatifs et titres subordonnés émis par les sociétés d'assurance
 mutuelles, les mutuelles, unions et fédérations régies par le présent code et
 les institutions de prévoyance régies par le titre III du livre IX du code de la
 sécurité sociale, ayant leur siège social sur le territoire de l'un des Etats
-membres de l'OCDE, autres que les valeurs visées aux 2°, 3°, 4°, 5°, 6°, 7°, 8°,
-10° bis, 12° et 14° ;
+membres de l'OCDE, autres que les valeurs visées aux 2°, 3°, 4°, 4° bis , 5°,
+6°, 7°, 8°, 10° bis, 12° et 14° ;
 
 10° Parts des fonds communs de placement à risques de l'article L. 214-28 du
 code monétaire et financier, parts des fonds communs de placement dans

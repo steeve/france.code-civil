@@ -22,10 +22,14 @@ de l'article R. 332-2 ;
 3° 10 % pour l'ensemble des valeurs mentionnées aux 10°, 11° et 12° de l'article
 R. 332-2 à l'exception des prêts mentionnés au 1° du présent article ;
 
-4° Cinq pour cent pour l'ensemble des valeurs constituées par les obligations,
-les parts ou actions mentionnées au 2° du A de l'article R. 332-2 ainsi que les
-titres de créances mentionnés au 2° bis du A du même article, émis par des
-véhicules de titrisation supportant des risques d'assurance ;
+4° 5 % pour l'ensemble des valeurs constituées par :
+
+- les obligations, parts ou actions mentionnées au 2° du A de l'article R. 332-2
+ainsi que les titres de créances négociables mentionnés au 2° bis du A du même
+article, émis par un véhicule de titrisation mentionné à l'article L. 310-1-2 ;
+
+- les obligations, parts ou actions mentionnées au 2° quater du A de l'article
+R. 332-2 ;
 
 5° 0, 5 % pour le montant total des primes ou soultes mentionnées au second
 alinéa du paragraphe D de l'article R. 332-2.

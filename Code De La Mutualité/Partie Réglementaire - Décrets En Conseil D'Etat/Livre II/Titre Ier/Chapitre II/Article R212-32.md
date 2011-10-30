@@ -23,7 +23,12 @@ de l'article R. 212-31 ;
 3° 10 % pour l'ensemble des valeurs mentionnées aux 15°, 16° et 17° de l'article
 R. 212-31 à l'exception des prêts mentionnés au 1° du présent article ;
 
-4° 5 % pour l'ensemble des valeurs constituées par les obligations, les parts ou
-actions visées au 2° de l'article R. 212-31 ainsi que les titres de créance
-visés au 2° bis du même article, émis par des véhicules de titrisation
-supportant des risques d'assurance.
+4° 5 % pour l'ensemble des valeurs constituées par :
+
+-les obligations, parts ou actions mentionnées au 2° du A de l'article R. 212-31
+ainsi que les titres de créances négociables mentionnés au 3° du A du même
+article, émis par un véhicule de titrisation mentionné à l'article L. 310-1-2 du
+code des assurances ;
+
+-les obligations, parts ou actions mentionnées au 4° bis du A de l'article R.
+212-31.

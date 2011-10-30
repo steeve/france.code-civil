@@ -1,7 +1,7 @@
 Article R212-52
 ----
-I. - Les valeurs amortissables énumérées aux 1°, 2°, 3° et 4° de l'article R.
-212-31, autres que les obligations indexées, les parts de fonds communs de
+I.-Les valeurs amortissables énumérées aux 1°, 2°, 3°, 4° et 4° bis de l'article
+R. 212-31, autres que les obligations indexées, les parts de fonds communs de
 créance et les titres participatifs, sont inscrites à leur prix d'achat à la
 date d'acquisition.
 
@@ -36,8 +36,8 @@ mesure de respecter ses engagements, soit pour le paiement des intérêts, soit
 pour le remboursement du principal, une dépréciation doit être constatée à
 l'inventaire.
 
-II. - Le I du présent article s'applique également aux obligations indexées sur
-le niveau général des prix d'un pays ou d'un ensemble de pays dont la devise est
+II.-Le I du présent article s'applique également aux obligations indexées sur le
+niveau général des prix d'un pays ou d'un ensemble de pays dont la devise est
 celle dans laquelle sont libellées ces obligations, avec garantie de
 remboursement au pair. Ces obligations sont soit émises par une personne morale
 de droit privé ayant son siège social sur le territoire d'un Etat membre de
