@@ -8,7 +8,9 @@ autorisation préfectorale sont :
 
 2° Les carrières ;
 
-3° Les installations figurant sur la liste prévue à l'article L. 515-8.
+3° Les installations figurant sur la liste prévue à l'article L. 515-8 ;
+
+4° Les sites de stockage géologique de dioxyde de carbone.
 
 La demande d'autorisation de changement d'exploitant, à laquelle sont annexés
 les documents établissant les capacités techniques et financières du nouvel

@@ -52,5 +52,20 @@ exceptionnel susceptible d'affecter l'environnement ;
 
 b) Interventions en cas d'accident ou de pollution.
 
+4° Pour les sites de stockage mentionnés au 4° du I de l'article R. 516-1 :
+
+a) Mise en œuvre des mesures prévues par le plan de postfermeture incluant
+notamment la mise à l'arrêt définitif du site et sa surveillance durant une
+période d'au moins trente ans après sa mise à l'arrêt définitif. Ce montant
+correspond au minimum au montant de la soulte prévu au d du I de l'article L.
+229-47 ;
+
+b) Interventions en cas de risques de fuites ou de fuites de dioxyde de carbone
+ou d'accident ou de pollution avant ou après la mise à l'arrêt définitif du site
+;
+
+c) La restitution, en cas de fuites, de quotas d'émissions de gaz à effet de
+serre.
+
 V.-Les garanties financières doivent être renouvelées au moins trois mois avant
 leur échéance.
