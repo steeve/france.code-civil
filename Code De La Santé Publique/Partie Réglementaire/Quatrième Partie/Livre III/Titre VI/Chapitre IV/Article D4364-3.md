@@ -12,3 +12,6 @@ L'appareillage recouvre la conception, la prise de mesure avec moulage éventuel
 la fabrication, l'essayage, la délivrance de l'appareil, le contrôle de sa
 tolérance et de son efficacité fonctionnelle immédiate, le suivi de
 l'appareillage, de son adaptation et ses réparations.
+
+La liste des orthèses de série pouvant être délivrées par les podo-orthésistes
+est fixée par arrêté du ministre chargé de la santé.

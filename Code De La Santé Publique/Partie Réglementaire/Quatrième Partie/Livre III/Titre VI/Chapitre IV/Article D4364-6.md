@@ -13,3 +13,6 @@ l'appareillage, de son adaptation, ses réparations.
 
 La définition des appareillages réservés aux orthopédistes-orthésistes est fixée
 par arrêté du ministre chargé de la santé.
+
+La liste des orthèses de série pouvant être délivrées par les
+orthopédistes-orthésistes est fixée par arrêté du ministre chargé de la santé.
