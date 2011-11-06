@@ -1,8 +1,11 @@
 Article R814-34
 ----
-A l'exception des représentants de l'Etat et de la région, les membres du comité
-régional de l'enseignement agricole sont nommés par arrêté du préfet de région
-pour une durée de trois ans.
+A l'exception des représentants de l'Etat, de la région et des élèves et
+étudiants, les membres du comité régional de l'enseignement agricole sont nommés
+par arrêté du préfet de région pour une durée de trois ans. Les représentants
+des élèves et étudiants sont élus pour deux ans, au scrutin plurinominal
+majoritaire à un tour, selon les modalités fixées par arrêté du ministre chargé
+de l'agriculture.
 
 Chaque conseiller régional a un suppléant désigné par le conseil régional en
 même temps que le titulaire.

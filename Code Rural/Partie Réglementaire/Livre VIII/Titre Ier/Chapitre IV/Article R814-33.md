@@ -83,3 +83,23 @@ représentatives au plan régional, désignés respectivement par ces organisati
 
 La liste des organisations professionnelles et syndicales représentatives et la
 répartition des sièges entre elles sont fixées par le préfet de région.
+
+4° Au titre du 4° de l'article L. 814-1 :
+
+a) Un représentant des élèves et étudiants des établissements d'enseignement
+agricole publics élu, ainsi que son suppléant, par et parmi les membres du
+conseil régional des délégués des élèves et étudiants de l'enseignement agricole
+public ;
+
+b) Un représentant des élèves et étudiants des établissements d'enseignement
+agricole privés élu, ainsi que son suppléant, par et parmi les délégués des
+élèves et étudiants inscrits dans les établissements situés dans le ressort du
+comité, ayant conclu un contrat avec l'Etat en application des articles L. 813-8
+et L. 813-9. Les élèves et étudiants n'ayant pas de délégués appartiennent à un
+collège où tous sont électeurs et éligibles.
+
+Lorsqu'il n'existe pas d'établissement privé dans le ressort d'un comité
+régional, le siège mentionné au b est attribué à un représentant des élèves et
+étudiants des établissements d'enseignement agricole publics, élu parmi les
+membres du conseil régional des délégués des élèves et étudiants de
+l'enseignement agricole public.
