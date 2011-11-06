@@ -18,7 +18,11 @@ contribution au remboursement de la dette sociale ;
 5° La date à partir de laquelle ces droits sont négociables ou exigibles ;
 
 6° Les cas dans lesquels ces droits peuvent être exceptionnellement liquidés ou
-transférés avant l'expiration de ce délai.
+transférés avant l'expiration de ce délai ;
+
+7° Les modalités d'affectation par défaut au plan d'épargne pour la retraite
+collectif des sommes attribuées au titre de la participation, conformément aux
+dispositions de l'article L. 3324-12.
 
 Elle comporte également, en annexe, une note rappelant les règles de calcul et
 de répartition prévues par l'accord de participation.
