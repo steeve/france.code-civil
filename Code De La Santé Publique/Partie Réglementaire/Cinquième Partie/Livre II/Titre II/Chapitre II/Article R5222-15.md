@@ -24,3 +24,7 @@ l'article R. 5222-12 pour les aider à procéder au signalement des incidents ;
 6° De sensibiliser l'ensemble des utilisateurs à la réactovigilance et d'aider à
 l'évaluation des données concernant la sécurité et les performances des
 dispositifs médicaux de diagnostic in vitro.
+
+Les correspondants locaux peuvent être consultés par le directeur général de
+l'Agence française de sécurité sanitaire des produits de santé sur l'évaluation
+des incidents mentionnés à l'article R. 5232-17.

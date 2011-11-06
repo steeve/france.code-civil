@@ -24,6 +24,12 @@ appliquent ;
 
 3° De participer à la veille technologique ;
 
+4° De participer à l'évaluation des informations sur les incidents signalés à
+l'Agence française de sécurité sanitaire des produits de santé sur les produits
+de santé mentionnés à l'article R. 5232-16 ou de donner un avis à la demande du
+directeur général de cette agence sur les mesures prises ou à prendre pour
+éviter que les incidents ne se reproduisent.
+
 Le directeur général de l'agence lui communique les informations relatives aux
 dispositifs médicaux de diagnostic in vitro recueillies dans le cadre du
 contrôle de qualité des analyses de biologie médicale prévu à l'article L.
