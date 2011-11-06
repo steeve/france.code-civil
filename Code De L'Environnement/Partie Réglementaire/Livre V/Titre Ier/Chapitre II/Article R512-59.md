@@ -3,7 +3,8 @@ Article R512-59
 L'organisme de contrôle périodique remet son rapport de visite à l'exploitant de
 l'installation classée en deux exemplaires dans un délai de soixante jours après
 la visite. Le rapport comporte la totalité des résultats du contrôle et précise
-les points de non-conformité.
+les points de non-conformité. Un arrêté du ministre chargé des installations
+classées fixe son format et la nature des autres informations qu'il contient.
 
 L'exploitant tient les deux derniers rapports à la disposition de l'inspection
 des installations classées dont il relève en application des articles R. 514-1 à
