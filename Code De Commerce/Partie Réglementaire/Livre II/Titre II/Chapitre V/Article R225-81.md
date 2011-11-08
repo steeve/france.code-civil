@@ -27,7 +27,7 @@ des dispositions du troisième alinéa de l'article R. 225-88 ;
 dispositions de l'article L. 225-107 ;
 
 6° Le rappel de manière très apparente des dispositions des articles L. 225-106
-à L. 225-106-4 ;
+à L. 225-106-3 ;
 
 7° L'indication que l'actionnaire, à défaut d'assister personnellement à
 l'assemblée, peut choisir entre l'une des trois formules suivantes :

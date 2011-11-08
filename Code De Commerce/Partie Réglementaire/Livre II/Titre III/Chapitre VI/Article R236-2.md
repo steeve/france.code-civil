@@ -1,12 +1,11 @@
 Article R236-2
 ----
 Le projet de fusion ou de scission fait l'objet d'un avis inséré, par chacune
-des sociétés participant à l'opération, dans un journal habilité à recevoir des
-annonces légales du département du siège social. Au cas où les actions de l'une
-au moins de ces sociétés sont admises aux négociations sur un marché réglementé
-ou si toutes les actions de l'une d'entre elles au moins ne revêtent pas la
-forme nominative, un avis est en outre inséré au Bulletin des annonces légales
-obligatoires.
+des sociétés participant à l'opération, au Bulletin officiel des annonces
+civiles et commerciales. Au cas où les actions de l'une au moins de ces sociétés
+sont admises aux négociations sur un marché réglementé ou si toutes les actions
+de l'une d'entre elles au moins ne revêtent pas la forme nominative, un avis est
+en outre inséré au Bulletin des annonces légales obligatoires.
 
 Cet avis contient les indications suivantes :
 
@@ -31,5 +30,7 @@ absorbantes ou nouvelles est prévue ;
 premier alinéa de l'article L. 236-6.
 
 Le dépôt au greffe prévu à l'article L. 236-6 et la publicité prévue au présent
-article ont lieu un mois au moins avant la date de la première assemblée
-générale appelée à statuer sur l'opération.
+article ont lieu trente jours au moins avant la date de la première assemblée
+générale appelée à statuer sur l'opération ou, le cas échéant, pour les
+opérations mentionnées à l'article L. 236-11, trente jours au moins avant que
+l'opération ne prenne effet.
