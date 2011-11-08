@@ -21,5 +21,4 @@ l'alinéa précédent du texte des résolutions proposées, du rapport du consei
 d'administration ou du directoire et du rapport des commissaires prévu à
 l'article L. 225-101.
 
-Sauf en ce qui concerne l'inventaire, le droit de prendre connaissance emporte
-celui de prendre copie.
+Le droit de prendre connaissance emporte celui de prendre copie.

@@ -6,12 +6,12 @@ assemblée est signée par celui-ci, le cas échéant par un procédé de signat
 nommément un mandataire, qui n'a pas la faculté de se substituer une autre
 personne.
 
-Pour l'application du premier alinéa, la signature électronique prend la forme
-soit d'une signature électronique sécurisée au sens du décret n° 2001-272 du 30
-mars 2001 pris pour l'application de l'article 1316-4 du code civil et relatif à
-la signature électronique, soit, si les statuts le prévoient, d'un autre procédé
-répondant aux conditions définies à la première phrase du second alinéa de
-l'article 1316-4 du code civil.
+Pour l'application du premier alinéa, lorsque la société décide, conformément
+aux statuts, de permettre la participation des actionnaires aux assemblées
+générales par des moyens de communication électronique, la signature de
+l'actionnaire ou de son représentant légal ou judiciaire peut résulter d'un
+procédé fiable d'identification de l'actionnaire, garantissant son lien avec le
+formulaire de vote à distance auquel elle s'attache.
 
 Le mandat est donné pour une seule assemblée. Il peut cependant être donné pour
 deux assemblées, l'une ordinaire, l'autre extraordinaire, tenues le même jour ou

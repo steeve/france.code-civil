@@ -5,5 +5,4 @@ droit de prendre connaissance par lui-même ou par mandataire, au siège social 
 au lieu de la direction administrative, des documents mentionnés par cet
 article.
 
-Sauf en ce qui concerne l'inventaire, le droit de prendre connaissance emporte
-celui de prendre copie.
+Le droit de prendre connaissance emporte celui de prendre copie.

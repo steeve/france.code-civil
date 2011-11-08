@@ -15,17 +15,15 @@ Les formulaires de vote par correspondance reçus par la société comportent :
 détenus les titres et du nombre de ces derniers, ainsi qu'une mention constatant
 l'inscription des titres soit dans les comptes de titres nominatifs tenus par la
 société, soit dans les comptes de titres au porteur tenus par un intermédiaire
-mentionné à l'article L. 211-3 du code monétaire et financier.L'attestation de
+mentionné à l'article L. 211-3 du code monétaire et financier. L'attestation de
 participation prévue à l'article R. 225-85 est annexée au formulaire ;
 
 3° La signature, le cas échéant électronique, de l'actionnaire ou de son
-représentant légal ou judiciaire. La signature électronique prend la forme soit
-d'une signature électronique sécurisée au sens du
-
-décret n° 2001-272 du 30 mars 2001 pris pour l'application de l'article 1316-4
-du code civil et relatif à la signature électronique, soit, si les statuts le
-prévoient, d'un autre procédé répondant aux conditions définies à la première
-phrase du second alinéa de l'article 1316-4 du code civil.
+représentant légal ou judiciaire. Lorsque la société décide, conformément aux
+statuts, de permettre la participation des actionnaires aux assemblées générales
+par des moyens de communication électronique, cette signature électronique peut
+résulter d'un procédé fiable d'identification de l'actionnaire, garantissant son
+lien avec le formulaire de vote à distance auquel elle s'attache.
 
 Le formulaire de vote par correspondance adressé à la société par une assemblée
 vaut pour les assemblées successives convoquées avec le même ordre du jour.
