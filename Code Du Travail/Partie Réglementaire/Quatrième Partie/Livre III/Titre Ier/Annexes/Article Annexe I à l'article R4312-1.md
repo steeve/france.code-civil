@@ -1,6 +1,8 @@
 Article Annexe I à l'article R4312-1
 ----
-Règles techniques en matière de santé et de sécurité
+Règles techniques en matière de santé et de sécurité applicables aux machines
+neuves ou considérées comme neuves mentionnées à l'article R. 4312-1 du code du
+travail
 
 Principes généraux.
 
@@ -12,19 +14,19 @@ résultats de l'évaluation des risques.
 Par le processus itératif d'évaluation et de réduction des risques visé
 ci-dessus, le fabricant :
 
-- détermine les limites de la machine, comprenant son usage normal et tout
+-détermine les limites de la machine, comprenant son usage normal et tout
 mauvais usage raisonnablement prévisible ;
 
-- recense les dangers pouvant découler de la machine et les situations
+-recense les dangers pouvant découler de la machine et les situations
 dangereuses associées ;
 
-- estime les risques, compte tenu de la gravité d'une éventuelle blessure ou
+-estime les risques, compte tenu de la gravité d'une éventuelle blessure ou
 atteinte à la santé et de leur probabilité ;
 
-- évalue les risques, en vue de déterminer si une réduction des risques est
+-évalue les risques, en vue de déterminer si une réduction des risques est
 nécessaire, conformément à l'objectif de la présente directive ;
 
-- élimine les dangers ou réduit les risques associés à ces dangers en appliquant
+-élimine les dangers ou réduit les risques associés à ces dangers en appliquant
 des mesures de protection, selon l'ordre de priorité établi au paragraphe 1.1.2
 b.
 
@@ -51,8 +53,18 @@ plusieurs des autres parties de l'annexe sont prises en compte selon les
 résultats de l'évaluation des risques effectuée conformément au 1° des présents
 principes généraux.
 
-5° Les équipements visés par les dispositions de l'annexe I, issue de la
-transposition de la directive 98/37/CE modifiée, conçus et construits
+5° Les règles techniques de santé et de sécurité sont des dispositions
+obligatoires relatives à la conception et à la construction des produits
+couverts par la présente annexe afin d'assurer un niveau élevé de protection de
+la santé et de la sécurité des personnes, le cas échéant des animaux domestiques
+et des biens et, s'il y a lieu, de l'environnement.
+
+Les règles techniques de santé et de sécurité relatives à la protection de
+l'environnement s'appliquent uniquement aux machines mentionnées au point 2.4 de
+cette annexe (1).
+
+6° Les équipements visés par les dispositions de l'annexe I, issue de la
+transposition de la directive 98/37/ CE modifiée, conçus et construits
 conformément aux dispositions de cette annexe, maintenus en conformité avec ces
 dispositions et mis sur le marché avant le 29 décembre 2009, sont considérés
 comme conformes aux dispositions de la présente annexe.
@@ -108,13 +120,13 @@ démontage, de mise hors service et de mise au rebut.
 b) En choisissant les solutions les plus adéquates, sont appliqués, par le
 fabricant, les principes suivants, dans l'ordre indiqué :
 
-- éliminer ou réduire les risques dans toute la mesure du possible par
+-éliminer ou réduire les risques dans toute la mesure du possible par
 intégration de la sécurité à la conception et à la construction de la machine ;
 
-- prendre les mesures de protection nécessaires vis-à-vis des risques ne pouvant
+-prendre les mesures de protection nécessaires vis-à-vis des risques ne pouvant
 être éliminés ;
 
-- informer les utilisateurs des risques résiduels dus à l'efficacité incomplète
+-informer les utilisateurs des risques résiduels dus à l'efficacité incomplète
 des mesures de protection adoptées, indiquer si une formation particulière est
 requise et signaler s'il est nécessaire de prévoir un équipement de protection
 individuelle.
@@ -164,9 +176,9 @@ appropriés.
 
 La machine ou chacun de ses éléments est conçu et construit de manière à :
 
-- pouvoir être manutentionné et transporté en toute sécurité ;
+-pouvoir être manutentionné et transporté en toute sécurité ;
 
-- être emballé ou pour pouvoir être entreposé en toute sécurité et sans
+-être emballé ou pour pouvoir être entreposé en toute sécurité et sans
 détériorations.
 
 La machine et ses éléments sont conçus et construits de manière telle que, lors
@@ -178,20 +190,19 @@ Lorsque la masse, les dimensions ou la forme de la machine ou de ses éléments
 n'en permettent pas le déplacement à la main, la machine ou chacun de ses
 éléments est :
 
-- soit muni d'accessoires permettant la préhension par un moyen de levage ;
+-soit muni d'accessoires permettant la préhension par un moyen de levage ;
 
-- soit conçu de manière à pouvoir être muni de tels accessoires ;
+-soit conçu de manière à pouvoir être muni de tels accessoires ;
 
-- soit d'une forme telle que les moyens de levage normaux peuvent s'adapter
+-soit d'une forme telle que les moyens de levage normaux peuvent s'adapter
 facilement.
 
 Lorsque la machine ou l'un de ses éléments est conçu et construit pour être
 déplacé manuellement, il est :
 
-- soit facilement déplaçable ;
+-soit facilement déplaçable ;
 
-- soit doté des moyens de préhension permettant de le déplacer en toute
-sécurité.
+-soit doté des moyens de préhension permettant de le déplacer en toute sécurité.
 
 Des dispositions particulières sont prévues pour la manutention des outils ou
 des parties de machines qui, même légers, peuvent être dangereux.
@@ -202,17 +213,17 @@ Dans les conditions prévues d'utilisation, la gêne, la fatigue et les
 contraintes physiques et psychiques de l'opérateur sont réduites au minimum de
 manière à prendre en considération les principes ergonomiques consistant à :
 
-- tenir compte de la variabilité des opérateurs en ce qui concerne leurs données
+-tenir compte de la variabilité des opérateurs en ce qui concerne leurs données
 morphologiques, leur force et leur résistance ;
 
-- offrir assez d'espace pour les mouvements des différentes parties du corps de
+-offrir assez d'espace pour les mouvements des différentes parties du corps de
 l'opérateur ;
 
-- éviter un rythme de travail déterminé par la machine ;
+-éviter un rythme de travail déterminé par la machine ;
 
-- éviter une surveillance qui nécessite une concentration prolongée ;
+-éviter une surveillance qui nécessite une concentration prolongée ;
 
-- adapter l'interface homme-machine aux caractéristiques prévisibles des
+-adapter l'interface homme-machine aux caractéristiques prévisibles des
 opérateurs.
 
 1.1.7. Poste de travail.
@@ -257,37 +268,36 @@ l'opérateur, celui-ci dispose de repose-pieds antidérapants.
 Les systèmes de commande sont conçus et construits de manière à éviter toute
 situation dangereuse. Ils sont avant tout conçus et construits de manière :
 
-- à résister aux contraintes de service et aux influences extérieures normales ;
+-à résister aux contraintes de service et aux influences extérieures normales ;
 
-- à ce qu'une défaillance du matériel ou du logiciel du système de commande
+-à ce qu'une défaillance du matériel ou du logiciel du système de commande
 n'entraîne pas de situation dangereuse ;
 
-- à ce que des erreurs affectant la logique du système de commande n'entraînent
+-à ce que des erreurs affectant la logique du système de commande n'entraînent
 pas de situation dangereuse ;
 
-- à ce qu'une erreur humaine raisonnablement prévisible au cours du
+-à ce qu'une erreur humaine raisonnablement prévisible au cours du
 fonctionnement n'entraîne pas de situation dangereuse.
 
 En particulier, il convient d'être attentif à ce que :
 
-- la machine ne puisse se mettre en marche inopinément ;
+-la machine ne puisse se mettre en marche inopinément ;
 
-- les paramètres de la machine ne puissent changer sans qu'un ordre ait été
-donné à cet effet, lorsque ce changement peut entraîner des situations
-dangereuses ;
+-les paramètres de la machine ne puissent changer sans qu'un ordre ait été donné
+à cet effet, lorsque ce changement peut entraîner des situations dangereuses ;
 
-- la machine ne soit empêchée de s'arrêter si l'ordre d'arrêt a déjà été donné ;
+-la machine ne soit empêchée de s'arrêter si l'ordre d'arrêt a déjà été donné ;
 
-- aucun élément mobile de la machine ni aucune pièce maintenue par la machine ne
+-aucun élément mobile de la machine ni aucune pièce maintenue par la machine ne
 puisse tomber ou être éjecté ;
 
-- l'arrêt automatique ou manuel des éléments mobiles, quels qu'ils soient, ne
+-l'arrêt automatique ou manuel des éléments mobiles, quels qu'ils soient, ne
 soit empêché ;
 
-- les dispositifs de protection restent pleinement opérationnels ou donnent un
+-les dispositifs de protection restent pleinement opérationnels ou donnent un
 ordre d'arrêt ;
 
-- les parties du système de commande liées à la sécurité s'appliquent de manière
+-les parties du système de commande liées à la sécurité s'appliquent de manière
 cohérente à la totalité d'un ensemble de machines ou de quasi-machines.
 
 En cas de commande sans câble, un arrêt automatique se produit lorsque les bons
@@ -298,26 +308,25 @@ communication.
 
 Les organes de service sont :
 
-- clairement visibles et identifiables grâce à des pictogrammes, le cas échéant
-;
+-clairement visibles et identifiables grâce à des pictogrammes, le cas échéant ;
 
-- placés de façon à pouvoir être actionnés en toute sécurité, sans hésitation ni
+-placés de façon à pouvoir être actionnés en toute sécurité, sans hésitation ni
 perte de temps et sans équivoque ;
 
-- conçus de façon que le mouvement des organes de service soit cohérent avec
+-conçus de façon que le mouvement des organes de service soit cohérent avec
 l'effet commandé ;
 
-- disposés hors des zones dangereuses sauf, si nécessaire, pour certains organes
+-disposés hors des zones dangereuses sauf, si nécessaire, pour certains organes
 de service, tels qu'un arrêt d'urgence et une console d'apprentissage pour les
 robots ;
 
-- situés de façon que le fait de les actionner ne puisse engendrer de risques
+-situés de façon que le fait de les actionner ne puisse engendrer de risques
 supplémentaires ;
 
-- conçus ou protégés de façon que l'effet voulu, s'il peut entraîner un danger,
+-conçus ou protégés de façon que l'effet voulu, s'il peut entraîner un danger,
 ne puisse être obtenu que par une action volontaire ;
 
-- fabriqués de façon à résister aux forces prévisibles. Une attention
+-fabriqués de façon à résister aux forces prévisibles. Une attention
 particulière est apportée aux dispositifs d'arrêt d'urgence qui risquent d'être
 soumis à des forces importantes.
 
@@ -365,9 +374,9 @@ volontaire sur un organe de service prévu à cet effet.
 
 Il en est de même :
 
-- pour la remise en marche après un arrêt, quelle qu'en soit la cause ;
+-pour la remise en marche après un arrêt, quelle qu'en soit la cause ;
 
-- pour la commande d'une modification importante des conditions de
+-pour la commande d'une modification importante des conditions de
 fonctionnement.
 
 Toutefois, la remise en marche ou la modification des conditions de
@@ -418,23 +427,22 @@ ou qui sont imminentes.
 
 Sont exclues de cette obligation :
 
-- les machines pour lesquelles un dispositif d'arrêt d'urgence ne réduirait pas
+-les machines pour lesquelles un dispositif d'arrêt d'urgence ne réduirait pas
 le risque, soit parce qu'il ne diminuerait pas le temps nécessaire pour obtenir
 l'arrêt, soit parce qu'il ne permettrait pas de prendre les mesures
 particulières requises pour faire face au risque ;
 
-- les machines portatives tenues ou guidées à la main.
+-les machines portatives tenues ou guidées à la main.
 
 Le dispositif est tel qu'il :
 
-- comprend des organes de service clairement identifiables, bien visibles et
+-comprend des organes de service clairement identifiables, bien visibles et
 rapidement accessibles ;
 
-- provoque l'arrêt du processus dangereux aussi rapidement que possible, sans
+-provoque l'arrêt du processus dangereux aussi rapidement que possible, sans
 créer de risque supplémentaire ;
 
-- au besoin, déclenche ou permet de déclencher certains mouvements de
-protection.
+-au besoin, déclenche ou permet de déclencher certains mouvements de protection.
 
 Lorsqu'on cesse d'actionner le dispositif d'arrêt d'urgence après avoir donné un
 ordre d'arrêt, cet ordre est maintenu par un blocage du dispositif d'arrêt
@@ -480,16 +488,16 @@ fonctionner alors qu'un protecteur a été déplacé ou retiré ou qu'un disposi
 de protection a été neutralisé, le sélecteur de mode de commande ou de
 fonctionnement est prévu pour simultanément :
 
-- désactiver tous les autres modes de commande ou de fonctionnement ;
+-désactiver tous les autres modes de commande ou de fonctionnement ;
 
-- n'autoriser la mise en œuvre des fonctions dangereuses que par des organes de
+-n'autoriser la mise en œuvre des fonctions dangereuses que par des organes de
 service nécessitant une action maintenue ;
 
-- n'autoriser la mise en œuvre des fonctions dangereuses que dans des conditions
+-n'autoriser la mise en œuvre des fonctions dangereuses que dans des conditions
 de risque réduit tout en évitant tout danger découlant d'un enchaînement de
 séquences ;
 
-- empêcher toute mise en œuvre des fonctions dangereuses par une action
+-empêcher toute mise en œuvre des fonctions dangereuses par une action
 volontaire ou involontaire sur les capteurs de la machine.
 
 Si ces quatre conditions ne peuvent être remplies simultanément, le sélecteur de
@@ -510,21 +518,20 @@ dangereuses.
 
 En particulier, il convient d'être attentif à ce que :
 
-- la machine ne puisse se mettre en marche inopinément ;
+-la machine ne puisse se mettre en marche inopinément ;
 
-- les paramètres de la machine ne puissent changer sans qu'un ordre ait été
-donné à cet effet, lorsque ce changement peut entraîner des situations
-dangereuses ;
+-les paramètres de la machine ne puissent changer sans qu'un ordre ait été donné
+à cet effet, lorsque ce changement peut entraîner des situations dangereuses ;
 
-- la machine ne soit empêchée de s'arrêter si l'ordre d'arrêt a déjà été donné ;
+-la machine ne soit empêchée de s'arrêter si l'ordre d'arrêt a déjà été donné ;
 
-- aucun élément mobile de la machine ni aucune pièce maintenue par la machine ne
+-aucun élément mobile de la machine ni aucune pièce maintenue par la machine ne
 puisse tomber ou être éjecté ;
 
-- l'arrêt automatique ou manuel des éléments mobiles, quels qu'ils soient, ne
+-l'arrêt automatique ou manuel des éléments mobiles, quels qu'ils soient, ne
 puisse être empêché ;
 
-- les dispositifs de protection restent pleinement opérationnels ou donnent un
+-les dispositifs de protection restent pleinement opérationnels ou donnent un
 ordre d'arrêt.
 
 1.3. Mesures de protection contre les risques mécaniques.
@@ -568,10 +575,10 @@ que, en cas de rupture, elles ne puissent occasionner de risques.
 éviter des risques pour les personnes, il convient que soient remplies les
 conditions suivantes :
 
-- lors du contact outil/pièce, l'outil doit avoir atteint sa condition normale
+-lors du contact outil/ pièce, l'outil doit avoir atteint sa condition normale
 de travail ;
 
-- lors de la mise en marche ou de l'arrêt de l'outil (volontaire ou
+-lors de la mise en marche ou de l'arrêt de l'outil (volontaire ou
 involontaire), le mouvement d'acheminement et le mouvement de l'outil doivent
 être coordonnés.
 
@@ -631,9 +638,9 @@ de risque. Les critères ci-après sont utilisés pour faciliter le choix.
 Les protecteurs conçus pour protéger les personnes contre les dangers liés aux
 éléments mobiles de transmission sont :
 
-- soit des protecteurs fixes mentionnés au paragraphe 1.4.2.1 ;
+-soit des protecteurs fixes mentionnés au paragraphe 1.4.2.1 ;
 
-- soit des protecteurs mobiles avec dispositif de verrouillage mentionnés au
+-soit des protecteurs mobiles avec dispositif de verrouillage mentionnés au
 paragraphe 1.4.2.2. Cette dernière solution est retenue si des interventions
 fréquentes sont prévues.
 
@@ -642,25 +649,25 @@ fréquentes sont prévues.
 Les protecteurs ou dispositifs de protection conçus pour protéger les personnes
 contre les dangers liés aux éléments mobiles concourant au travail sont :
 
-- soit des protecteurs fixes mentionnés au paragraphe 1.4.2.1 ;
+-soit des protecteurs fixes mentionnés au paragraphe 1.4.2.1 ;
 
-- soit des protecteurs mobiles avec dispositif de verrouillage mentionnés au
+-soit des protecteurs mobiles avec dispositif de verrouillage mentionnés au
 paragraphe 1.4.2.2 ;
 
-- soit des dispositifs de protection mentionnés au paragraphe 1.4.3 ;
+-soit des dispositifs de protection mentionnés au paragraphe 1.4.3 ;
 
-- soit une combinaison des éléments ci-dessus.
+-soit une combinaison des éléments ci-dessus.
 
 Toutefois, lorsque certains éléments mobiles concourant directement au travail
 ne peuvent être rendus complètement inaccessibles pendant leur fonctionnement en
 raison des opérations qui nécessitent l'intervention de l'opérateur, ces
 éléments sont munis :
 
-- de protecteurs fixes ou de protecteurs mobiles avec dispositif de verrouillage
+-de protecteurs fixes ou de protecteurs mobiles avec dispositif de verrouillage
 empêchant l'accès aux parties des éléments mobiles, non utilisées pour le
 travail ; et
 
-- de protecteurs réglables mentionnés au point 1.4.2.3 limitant l'accès aux
+-de protecteurs réglables mentionnés au point 1.4.2.3 limitant l'accès aux
 parties des éléments mobiles auxquelles il est nécessaire d'accéder.
 
 1.3.9. Risques dus aux mouvements non commandés.
@@ -676,21 +683,21 @@ protection.
 
 Les protecteurs et les dispositifs de protection :
 
-- sont de construction robuste ;
+-sont de construction robuste ;
 
-- sont solidement maintenus en place ;
+-sont solidement maintenus en place ;
 
-- n'occasionnent de dangers supplémentaires ;
+-n'occasionnent de dangers supplémentaires ;
 
-- ne sont pas facilement contournés ou rendus inopérants ;
+-ne sont pas facilement contournés ou rendus inopérants ;
 
-- sont situés à une distance suffisante de la zone dangereuse ;
+-sont situés à une distance suffisante de la zone dangereuse ;
 
-- restreignent le moins possible la vue sur le cycle de travail ;
+-restreignent le moins possible la vue sur le cycle de travail ;
 
 et
 
-- permettent les interventions indispensables pour la mise en place ou le
+-permettent les interventions indispensables pour la mise en place ou le
 remplacement des outils ainsi que pour l'entretien, en limitant l'accès
 exclusivement au secteur où le travail doit être réalisé, et, si possible, sans
 démontage du protecteur ou neutralisation du dispositif de protection.
@@ -698,6 +705,8 @@ démontage du protecteur ou neutralisation du dispositif de protection.
 En outre, dans la mesure du possible, les protecteurs assurent une protection
 contre l'éjection ou la chute de matériaux et d'objets ainsi que contre les
 émissions produites par la machine.
+
+1.4.2. Règles particulières pour les protecteurs.
 
 1.4.2.1. Protecteurs fixes.
 
@@ -714,31 +723,31 @@ l'absence de leurs fixations.
 
 1° Les protecteurs mobiles sont conçus et construits :
 
-- pour, dans la mesure du possible, rester solidaires de la machine lorsqu'ils
+-pour, dans la mesure du possible, rester solidaires de la machine lorsqu'ils
 sont ouverts ;
 
-- de façon que leur réglage nécessite une action volontaire.
+-de façon que leur réglage nécessite une action volontaire.
 
 2° Les protecteurs mobiles sont associés à un dispositif de verrouillage :
 
-- empêchant la mise en marche de fonctions dangereuses de la machine jusqu'à ce
+-empêchant la mise en marche de fonctions dangereuses de la machine jusqu'à ce
 qu'ils soient fermés,
 
 et
 
-- donnant un ordre d'arrêt dès qu'ils ne sont plus fermés.
+-donnant un ordre d'arrêt dès qu'ils ne sont plus fermés.
 
 3° Lorsqu'un opérateur peut atteindre la zone dangereuse avant que le risque lié
 aux fonctions dangereuses d'une machine ait cessé, outre le dispositif de
 verrouillage, les protecteurs mobiles sont associés à un dispositif
 d'interverrouillage :
 
-- empêchant la mise en marche de fonctions dangereuses de la machine jusqu'à ce
+-empêchant la mise en marche de fonctions dangereuses de la machine jusqu'à ce
 que les protecteurs soient fermés et verrouillés,
 
 et
 
-- maintenant les protecteurs fermés et verrouillés jusqu'à ce que le risque de
+-maintenant les protecteurs fermés et verrouillés jusqu'à ce que le risque de
 blessure lié aux fonctions dangereuses de la machine ait cessé.
 
 4° Les protecteurs mobiles avec dispositif de verrouillage sont conçus de façon
@@ -750,25 +759,25 @@ ou provoque l'arrêt des fonctions dangereuses de la machine.
 Les protecteurs réglables limitant l'accès aux parties des éléments mobiles
 strictement nécessaires au travail :
 
-- peuvent être réglés manuellement ou automatiquement selon la nature du travail
+-peuvent être réglés manuellement ou automatiquement selon la nature du travail
 à réaliser ;
 
-- peuvent être réglés aisément sans l'aide d'un outil.
+-peuvent être réglés aisément sans l'aide d'un outil.
 
 1.4.3. Règles particulières pour les dispositifs de protection.
 
 Les dispositifs de protection sont conçus et incorporés au système de commande
 de manière que :
 
-- les éléments mobiles ne puissent être mis en mouvement aussi longtemps que
+-les éléments mobiles ne puissent être mis en mouvement aussi longtemps que
 l'opérateur peut les atteindre ;
 
-- les personnes ne puissent atteindre les éléments mobiles tant qu'ils sont en
+-les personnes ne puissent atteindre les éléments mobiles tant qu'ils sont en
 mouvement,
 
 et
 
-- l'absence ou la défaillance d'un de leurs organes empêche la mise en marche ou
+-l'absence ou la défaillance d'un de leurs organes empêche la mise en marche ou
 provoque l'arrêt des éléments mobiles.
 
 Le réglage des dispositifs de protection nécessite une action volontaire.
@@ -778,11 +787,11 @@ Le réglage des dispositifs de protection nécessite une action volontaire.
 1.5.1. Alimentation en énergie électrique.
 
 Lorsque la machine est alimentée en énergie électrique, elle est conçue,
-construite et équipée de à prévenir, ou à pouvoir prévenir, tous les dangers
-d'origine électrique.
+construite et équipée de façon à prévenir, ou à pouvoir prévenir, tous les
+dangers d'origine électrique.
 
 Les objectifs de sécurité prévus par les dispositions assurant la transposition
-de la directive n° 73/23/CEE s'appliquent aux machines. Toutefois, les
+de la directive n° 73/23/ CEE s'appliquent aux machines. Toutefois, les
 obligations concernant l'évaluation de la conformité et la mise sur le marché ou
 la mise en service des machines en ce qui concerne les dangers dus à l'énergie
 électrique sont régies exclusivement par les dispositions de la présente
@@ -887,15 +896,15 @@ perturbent pas son fonctionnement.
 En cas d'utilisation d'équipements laser, il y a lieu de tenir compte des
 dispositions suivantes :
 
-- l'équipement laser sur une machine est conçu et construit de manière à éviter
+-l'équipement laser sur une machine est conçu et construit de manière à éviter
 tout rayonnement involontaire ;
 
-- l'équipement laser sur une machine est protégé de manière que ni les
+-l'équipement laser sur une machine est protégé de manière que ni les
 rayonnements utiles, ni le rayonnement produit par réflexion ou par diffusion,
 ni le rayonnement secondaire ne portent atteinte à la santé ;
 
-- les équipements optiques pour l'observation ou le réglage de l'équipement
-laser sur une machine sont tels qu'aucun risque pour la santé n'est créé par les
+-les équipements optiques pour l'observation ou le réglage de l'équipement laser
+sur une machine sont tels qu'aucun risque pour la santé n'est créé par les
 rayonnements laser.
 
 1.5.13. Emission de matières et de substances dangereuses.
@@ -1045,7 +1054,7 @@ dispositifs d'avertissement sont prévus.
 
 1.7.3. Marquage des machines.
 
-I. - Chaque machine porte, de manière visible, lisible et indélébile, les
+I.-Chaque machine porte, de manière visible, lisible et indélébile, les
 indications minimales suivantes :
 
 a) La raison sociale et l'adresse complète du fabricant ;
@@ -1060,26 +1069,26 @@ e) Le numéro de série s'il existe ;
 
 f) L'année de construction, à savoir l'année au cours de laquelle le processus
 de fabrication a été achevé. Il est interdit d'antidater ou de postdater la
-machine lors de l'apposition du marquage CE .
+machine lors de l'apposition du marquage CE.
 
 En outre, la machine conçue et construite pour être utilisée en atmosphère
 explosible porte cette indication.
 
-II. - La machine porte également toutes les indications concernant son type qui
+II.-La machine porte également toutes les indications concernant son type qui
 sont indispensables à sa sécurité d'emploi. Ces informations sont soumises aux
 règles prévues au paragraphe 1.7.1.
 
-III. - Lorsqu'un élément de la machine est prévu pour être manutentionné, au
-cours de son utilisation, avec des moyens de levage, sur cet élément est
-inscrite sa masse, d'une manière lisible, indélébile et non ambiguë.
+III.-Lorsqu'un élément de la machine est prévu pour être manutentionné, au cours
+de son utilisation, avec des moyens de levage, sur cet élément est inscrite sa
+masse, d'une manière lisible, indélébile et non ambiguë.
 
 1.7.4. Notice d'instructions.
 
 Chaque machine est accompagnée d'une notice d'instructions en français.
 
 La notice d'instructions qui accompagne la machine est une notice originale ou
-une traduction de la notice originale , auquel cas, la traduction est
-accompagnée d'une notice originale .
+une traduction de la notice originale, auquel cas, la traduction est accompagnée
+d'une notice originale.
 
 Par dérogation, la notice d'entretien destinée à être utilisée par un personnel
 spécialisé qui dépend du fabricant peut être fournie dans une seule des langues
@@ -1097,7 +1106,7 @@ vérifiées par le fabricant.
 Lorsqu'il n'existe pas de Notice originale en français, une traduction dans
 cette langue est fournie par le fabricant ou par la personne qui introduit la
 machine en France. Cette traduction porte la mention Traduction de la notice
-originale .
+originale.
 
 Le contenu de la notice d'instructions couvre non seulement l'usage normal de la
 machine, mais prend également en compte le mauvais usage raisonnablement
@@ -1182,14 +1191,14 @@ a une incidence sur la santé et la sécurité des opérateurs ;
 
 u) Les informations concernant l'émission de bruit aérien suivantes :
 
-- le niveau de pression acoustique d'émission pondéré A aux postes de travail,
+-le niveau de pression acoustique d'émission pondéré A aux postes de travail,
 lorsqu'il dépasse 70 dB (A) ; si ce niveau est inférieur ou égal à 70 dB (A), il
 convient de le mentionner ;
 
-- la valeur maximale de la pression acoustique d'émission instantanée pondérée C
+-la valeur maximale de la pression acoustique d'émission instantanée pondérée C
 aux postes de travail, lorsqu'elle dépasse 63 Pa (130 dB par rapport à 20 µPa) ;
 
-- le niveau de puissance acoustique pondéré A émis par la machine lorsque le
+-le niveau de puissance acoustique pondéré A émis par la machine lorsque le
 niveau de pression acoustique d'émission pondéré A aux postes de travail dépasse
 80 dB (A).
 
@@ -1239,11 +1248,11 @@ performance de la machine contiennent les mêmes informations concernant les
 
 Les machines destinées à l'industrie alimentaire, les machines destinées à
 l'industrie cosmétique ou pharmaceutique, les machines tenues ou guidées à la
-main, les machines portatives de fixation et d'autres machines à choc, ainsi que
-les machines à bois et matériaux ayant des caractéristiques physiques similaires
-répondent à l'ensemble des règles techniques décrites dans la présente partie
-conformément au 4° des principes généraux figurant au début de la présente
-annexe.
+main, les machines portatives de fixation et d'autres machines à choc, les
+machines à bois et matériaux ayant des caractéristiques physiques similaires et
+les machines destinées à l'application des pesticides répondent à l'ensemble des
+règles techniques décrites dans la présente partie conformément au 4° des
+principes généraux figurant au début de la présente annexe (1).
 
 2.1. Machines destinées à l'industrie alimentaire et machines destinées à
 l'industrie cosmétique ou pharmaceutique.
@@ -1267,14 +1276,14 @@ b) Toutes les surfaces en contact avec les denrées alimentaires ou les produits
 cosmétiques ou pharmaceutiques autres que les surfaces des éléments à usage
 unique sont :
 
-- lisses et ne possèdent ni rugosité ni anfractuosité pouvant abriter des
+-lisses et ne possèdent ni rugosité ni anfractuosité pouvant abriter des
 matières organiques, la même exigence s'appliquant aux raccordements entre deux
 surfaces ;
 
-- conçues et construites de manière à réduire au minimum les saillies, les
+-conçues et construites de manière à réduire au minimum les saillies, les
 rebords et les renfoncements des assemblages ;
 
-- telles qu'elles puissent être facilement nettoyées et désinfectées, si
+-telles qu'elles puissent être facilement nettoyées et désinfectées, si
 nécessaire, après enlèvement de parties facilement démontables ; les congés de
 raccordement des surfaces intérieures ont un rayon suffisant pour permettre un
 nettoyage complet ;
@@ -1337,8 +1346,8 @@ La notice d'instructions donne les indications suivantes concernant les
 vibrations émises par les machines portatives tenues et guidées à la main :
 
 a) La valeur totale des vibrations auxquelles est exposé le système main-bras
-lorsqu'elle dépasse 2,5 m/s² ou, le cas échéant, la mention que cette valeur ne
-dépasse pas 2,5 m/s² ;
+lorsqu'elle dépasse 2,5 m/ s ² ou, le cas échéant, la mention que cette valeur
+ne dépasse pas 2,5 m/ s ² ;
 
 b) L'incertitude de mesure.
 
@@ -1360,20 +1369,20 @@ appliquée sont spécifiées.
 Les appareils portatifs de fixation et autres machines à chocs sont conçus et
 construits de manière que :
 
-- l'énergie soit transmise à l'élément subissant le choc par la pièce
+-l'énergie soit transmise à l'élément subissant le choc par la pièce
 intermédiaire qui est solidaire de l'appareil ;
 
-- un dispositif de validation empêche le choc si la machine n'est pas
-positionnée correctement avec une pression suffisante sur le matériau de base ;
+-un dispositif de validation empêche le choc si la machine n'est pas positionnée
+correctement avec une pression suffisante sur le matériau de base ;
 
-- un déclenchement involontaire soit empêché ; le cas échéant, une séquence
+-un déclenchement involontaire soit empêché ; le cas échéant, une séquence
 appropriée d'actions sur le dispositif de validation et sur celui de commande
 est requise pour déclencher le choc ;
 
-- un déclenchement involontaire soit empêché lors de la manutention ou en cas de
+-un déclenchement involontaire soit empêché lors de la manutention ou en cas de
 heurt ;
 
-- les opérations de chargement et de déchargement puissent être effectuées
+-les opérations de chargement et de déchargement puissent être effectuées
 facilement et en toute sécurité.
 
 Si nécessaire, l'équipement de l'appareil de pare-éclats est possible et le ou
@@ -1383,13 +1392,13 @@ les protecteurs appropriés sont fournis par le fabricant de la machine.
 
 La notice d'instructions donne les indications nécessaires en ce qui concerne :
 
-- les accessoires et les équipements interchangeables pouvant être utilisés avec
+-les accessoires et les équipements interchangeables pouvant être utilisés avec
 la machine ;
 
-- les éléments de fixation appropriés ou autres éléments à exposer au choc
+-les éléments de fixation appropriés ou autres éléments à exposer au choc
 pouvant être utilisés avec la machine ;
 
-- le cas échéant, les cartouches appropriées à utiliser.
+-le cas échéant, les cartouches appropriées à utiliser.
 
 2.3. Machines à bois et matériaux ayant des caractéristiques physiques
 similaires.
@@ -1416,6 +1425,137 @@ d) Lorsque l'outil est intégré à une machine non entièrement automatisée,
 celle-ci est conçue et construite de manière à éliminer ou à réduire le risque
 de blessures involontaires.
 
+2.4. Machines destinées à l'application des pesticides (2).
+
+2.4.1. Définition.
+
+" Machines destinées à l'application des pesticides " : machines spécifiquement
+destinées à l'application de produits phytopharmaceutiques au sens de l'article
+2, paragraphe 1, du règlement (CE) n° 1107/2009 du Parlement européen et du
+Conseil du 21 octobre 2009 concernant la mise sur le marché de produits
+phytopharmaceutiques.
+
+2.4.2. Généralités.
+
+Le fabricant de machines destinées à l'application des pesticides ou le
+responsable de la mise sur le marché s'assure qu'une évaluation des risques
+d'exposition involontaire de l'environnement aux pesticides est effectuée
+conformément au processus d'évaluation et de réduction des risques énoncé au 1°
+des principes généraux figurant au début de la présente annexe. Compte tenu de
+cette évaluation, les machines destinées à l'application des pesticides sont
+conçues et construites de manière à pouvoir être utilisées, réglées et
+entretenues sans exposition involontaire de l'environnement aux pesticides. Les
+fuites sont prévenues à tout moment.
+
+2.4.3. Commandes et surveillance. L'application des pesticides à partir des
+postes de travail peut être commandée et surveillée facilement et précisément
+ainsi qu'arrêtée immédiatement.
+
+2.4.4. Remplissage et vidange.
+
+Les machines sont conçues et construites de manière à faciliter le remplissage
+précis avec la quantité requise de pesticides et à assurer la vidange aisée et
+complète tout en évitant le déversement de pesticides et la contamination de la
+source d'alimentation en eau au cours de ces opérations.
+
+2.4.5. Application de pesticides.
+
+2.4.5.1. Taux d'application.
+
+Les machines sont pourvues de moyens permettant de régler de manière aisée,
+précise et fiable le taux d'application.
+
+2.4.5.2. Distribution, dépôt et dérive de pesticides.
+
+Les machines sont conçues et construites de manière à assurer que les pesticides
+sont déposés sur les zones cibles, à réduire les pertes dans les autres zones et
+à prévenir toute dérive de pesticides dans l'environnement. Le cas échéant, une
+distribution égale et un dépôt homogène des pesticides sont assurés.
+
+2.4.5.3. Essais.
+
+Afin de s'assurer que les pièces correspondantes des machines répondent aux
+exigences énoncées aux points 2.4.5.1 et 2.4.5.2, le fabricant ou le responsable
+de la mise sur le marché effectue ou fait effectuer, pour chaque type de machine
+concernée, des essais appropriés.
+
+2.4.5.4. Pertes au cours de l'arrêt.
+
+Les machines sont conçues et construites de manière à prévenir les pertes
+lorsque la fonction d'application des pesticides est à l'arrêt.
+
+2.4.6. Maintenance.
+
+2.4.6.1. Nettoyage.
+
+Les machines sont conçues et construites de manière à permettre un nettoyage
+facile et complet sans contamination de l'environnement.
+
+2.4.6.2. Entretien.
+
+Les machines sont conçues et construites de manière à faciliter le remplacement
+des pièces usées sans contamination de l'environnement.
+
+2.4.7. Vérifications.
+
+Il est possible de connecter facilement aux machines les instruments de mesure
+nécessaires pour vérifier le bon fonctionnement des machines.
+
+2.4.8. Marquage des buses, des tamis et des filtres.
+
+Les buses, les tamis et les filtres sont marqués de manière à ce que leurs type
+et taille puissent être clairement identifiés.
+
+2.4.9. Indication du pesticide utilisé.
+
+Les machines sont munies d'un équipement spécifique sur lequel l'opérateur peut
+indiquer le nom du pesticide utilisé.
+
+2.4.10. Notice d'instructions.
+
+La notice d'instructions comporte les informations suivantes :
+
+a) Les mesures de prévention à mettre en œuvre lors du mélange, du remplissage,
+de l'application, de la vidange, du nettoyage et des opérations d'entretien et
+de transport afin d'éviter la contamination de l'environnement ;
+
+b) Les conditions d'utilisation détaillées pour les différents cadres
+opérationnels envisagés, notamment les préparations et réglages correspondants
+requis pour assurer que les pesticides sont déposés sur les zones cibles tout en
+réduisant autant que possible les pertes dans les autres zones, pour prévenir
+toute dérive dans l'environnement et, le cas échéant, pour assurer une
+distribution égale et un dépôt homogène des pesticides ;
+
+c) La variété de types et de tailles des buses, des tamis et des filtres qui
+peuvent être utilisés avec les machines ;
+
+d) La fréquence des vérifications ainsi que les critères et la méthode de
+remplacement des pièces sujettes à usure susceptible d'altérer le bon
+fonctionnement des machines, telles que les buses, les tamis et les filtres ;
+
+e) Les prescriptions relatives au calibrage, à l'entretien journalier, à la mise
+en l'état en vue de la période hivernale ainsi que celles concernant les autres
+vérifications nécessaires pour assurer le bon fonctionnement des machines ;
+
+f) Les types de pesticides qui peuvent provoquer un mauvais fonctionnement des
+machines ;
+
+g) L'indication, mise à jour par l'opérateur, sur l'équipement spécifique visé
+au point 2.4.9, du nom du pesticide utilisé ;
+
+h) La connexion et l'utilisation d'équipements et d'accessoires spéciaux, et les
+mesures de prévention nécessaires à mettre en œuvre ;
+
+i) L'indication selon laquelle les machines peuvent être soumises à des
+exigences nationales de vérifications périodiques par des organismes désignés
+selon des modalités définies par ces exigences nationales ;
+
+j) Les caractéristiques des machines qui doivent être vérifiées pour s'assurer
+de leur bon fonctionnement ;
+
+k) Les instructions concernant le raccordement des instruments de mesure
+nécessaires.
+
 3. Règles techniques complémentaires pour pallier les dangers dus à la mobilité
 des machines.
 
@@ -1429,13 +1569,13 @@ principes généraux figurant au début de la présente annexe.
 
 a) Machine présentant des dangers dus à sa mobilité :
 
-- machine dont le fonctionnement exige soit la mobilité pendant le travail, soit
+-machine dont le fonctionnement exige soit la mobilité pendant le travail, soit
 un déplacement continu ou semi-continu suivant une succession de postes de
 travail fixes ;
 
 ou
 
-- machine qui fonctionne sans déplacement, mais qui peut être munie de moyens
+-machine qui fonctionne sans déplacement, mais qui peut être munie de moyens
 permettant de la déplacer plus facilement d'un endroit à un autre.
 
 b) Conducteur : opérateur chargé du déplacement d'une machine. Le conducteur
@@ -1495,9 +1635,9 @@ question.
 Le système de commande à distance est conçu et construit de façon à avoir un
 effet uniquement sur :
 
-- la machine concernée ;
+-la machine concernée ;
 
-- les fonctions concernées.
+-les fonctions concernées.
 
 La machine commandée à distance est conçue et construite de façon à ne répondre
 qu'aux signaux des unités de commande prévues.
@@ -1533,7 +1673,7 @@ en mouvement.
 Le paragraphe 1.2.2, sixième alinéa, concernant les signaux d'avertissement
 sonore ou visuel ne s'applique qu'en cas de marche arrière.
 
-3.3.2. Mise en marche/déplacement.
+3.3.2. Mise en marche/ déplacement.
 
 Tout déplacement d'une machine automotrice à conducteur porté n'est possible que
 si le conducteur est aux commandes.
@@ -1578,14 +1718,14 @@ La machine commandée à distance est munie de dispositifs lui permettant de
 s'arrêter automatiquement et immédiatement et d'empêcher un fonctionnement
 potentiellement dangereux, dans les situations suivantes :
 
-- lorsque le conducteur en a perdu le contrôle ;
+-lorsque le conducteur en a perdu le contrôle ;
 
-- lors de la réception d'un signal d'arrêt ;
+-lors de la réception d'un signal d'arrêt ;
 
-- lorsqu'une défaillance est détectée dans une partie du système liée à la
+-lorsqu'une défaillance est détectée dans une partie du système liée à la
 sécurité ;
 
-- quand aucun signal de validation n'a été détecté dans un délai spécifié.
+-quand aucun signal de validation n'a été détecté dans un délai spécifié.
 
 Le paragraphe 1.2.4 ne s'applique pas à la fonction de déplacement.
 
@@ -1600,9 +1740,9 @@ Les systèmes de commande des machines à conducteur à pied sont conçus de man
 à réduire au minimum les risques dus au déplacement inopiné de la machine vers
 le conducteur, notamment les risques :
 
-- d'écrasement ;
+-d'écrasement ;
 
-- de blessure provoquée par des outils rotatifs.
+-de blessure provoquée par des outils rotatifs.
 
 La vitesse de déplacement de la machine est compatible avec la vitesse d'un
 conducteur à pied.
@@ -1647,6 +1787,10 @@ moins que cela n'augmente le risque.
 
 Cette structure est telle que, en cas de retournement ou de basculement, elle
 garantit aux personnes portées un volume limite de déformation adéquat.
+
+Afin de vérifier si la structure répond à l'exigence mentionnée au deuxième
+alinéa, le fabricant effectue ou fait effectuer, pour chaque type de structure,
+des essais appropriés.
 
 3.4.4. Chutes d'objets.
 
@@ -1742,9 +1886,9 @@ effet.
 En fonction des risques prévus par le fabricant, la machine est conçue et
 construite de manière à, si ses dimensions le permettent :
 
-- soit permettre la mise en place d'extincteurs facilement accessibles ;
+-soit permettre la mise en place d'extincteurs facilement accessibles ;
 
-- soit être munie de systèmes d'extinction faisant partie intégrante de la
+-soit être munie de systèmes d'extinction faisant partie intégrante de la
 machine.
 
 3.5.3. Emissions de substances dangereuses.
@@ -1767,14 +1911,14 @@ indélébiles.
 Sans préjudice des dispositions de la réglementation relative à la circulation
 routière, les machines à conducteur porté sont dotées des équipements suivants :
 
-- un avertisseur sonore permettant d'avertir les personnes ;
+-un avertisseur sonore permettant d'avertir les personnes ;
 
-- un système de signalisation lumineuse tenant compte des conditions
+-un système de signalisation lumineuse tenant compte des conditions
 d'utilisation prévues ; cette dernière exigence ne s'applique pas aux machines
 destinées exclusivement aux travaux souterrains et dépourvues d'énergie
 électrique ;
 
-- le cas échéant, une connexion appropriée entre la remorque et la machine
+-le cas échéant, une connexion appropriée entre la remorque et la machine
 permettant de faire fonctionner les signaux.
 
 Les machines commandées à distance dont les conditions d'utilisation normale
@@ -1801,14 +1945,14 @@ distance suffisante pour assurer la sécurité des personnes appelées à se tro
 Sur chaque machine sont portées, de manière lisible et indélébile, les
 indications suivantes :
 
-- la puissance nominale exprimée en kilowatts (kW) ;
+-la puissance nominale exprimée en kilowatts (kW) ;
 
-- la masse en kilogrammes (kg) dans la configuration la plus usuelle, et, le cas
+-la masse en kilogrammes (kg) dans la configuration la plus usuelle, et, le cas
 échéant :
 
-- l'effort de traction maximal prévu au crochet d'attelage en newtons (N) ;
+-l'effort de traction maximal prévu au crochet d'attelage en newtons (N) ;
 
-- l'effort vertical maximal prévu sur le crochet d'attelage en newtons (N).
+-l'effort vertical maximal prévu sur le crochet d'attelage en newtons (N).
 
 3.6.3. Notice d'instructions.
 
@@ -1818,15 +1962,15 @@ La notice d'instructions donne les indications suivantes concernant les
 vibrations transmises par la machine au système main-bras ou à l'ensemble du
 corps :
 
-- la valeur totale des vibrations auxquelles est exposé le système main-bras
-lorsqu'elle dépasse 2,5 m/s² ou, le cas échéant, la mention que cette valeur ne
-dépasse pas 2,5 m/s² ;
+-la valeur totale des vibrations auxquelles est exposé le système main-bras
+lorsqu'elle dépasse 2,5 m/ s ² ou, le cas échéant, la mention que cette valeur
+ne dépasse pas 2,5 m/ s ² ;
 
-- la valeur moyenne quadratique maximale pondérée en fréquence de l'accélération
-à laquelle est exposé l'ensemble du corps lorsqu'elle dépasse 0,5 m/s². Si cette
-valeur ne dépasse pas 0,5 m/s², il faut le mentionner ;
+-la valeur moyenne quadratique maximale pondérée en fréquence de l'accélération
+à laquelle est exposé l'ensemble du corps lorsqu'elle dépasse 0,5 m/ s ². Si
+cette valeur ne dépasse pas 0,5 m/ s ², il faut le mentionner ;
 
-- l'incertitude de mesure.
+-l'incertitude de mesure.
 
 Ces valeurs sont soit réellement mesurées pour la machine visée, soit établies à
 partir de mesures effectuées pour une machine techniquement comparable qui est
@@ -1936,9 +2080,9 @@ compte la valeur du coefficient d'épreuve statique qui est choisi de manière �
 garantir un niveau de sécurité adéquat ; ce coefficient a, en règle générale,
 les valeurs suivantes :
 
-- machines mues par la force humaine et accessoires de levage : 1,5 ;
+-machines mues par la force humaine et accessoires de levage : 1,5 ;
 
-- autres machines : 1,25.
+-autres machines : 1,25.
 
 La machine est conçue et construite de manière à supporter sans défaillance les
 épreuves dynamiques effectuées avec la charge maximale d'utilisation multipliée
@@ -1997,8 +2141,8 @@ maillons courts. Le coefficient d'utilisation des chaînes est choisi de manièr
 à garantir un niveau de sécurité adéquat ; ce coefficient est, en règle
 générale, égal à 4.
 
-Le coefficient d'utilisation des câbles ou élingues en fibres textiles dépend du
-matériau, du procédé de fabrication, des dimensions et de l'utilisation. Ce
+c) Le coefficient d'utilisation des câbles ou élingues en fibres textiles dépend
+du matériau, du procédé de fabrication, des dimensions et de l'utilisation. Ce
 coefficient est choisi de manière à garantir un niveau de sécurité adéquat ; il
 est, en règle générale, égal à 7, à condition qu'il soit démontré que les
 matériaux utilisés sont de très bonne qualité et que le procédé de fabrication
@@ -2008,15 +2152,15 @@ règle générale, fixé à un niveau plus élevé afin d'obtenir un niveau de s
 liaison ou épissure autres que ceux de l'extrémité de l'élingue ou de bouclage
 d'une élingue sans fin ;
 
-c) Le coefficient d'utilisation de tous les composants métalliques d'une
+d) Le coefficient d'utilisation de tous les composants métalliques d'une
 élingue, ou utilisés avec une élingue, est choisi de manière à garantir un
 niveau de sécurité adéquat ; ce coefficient est, en règle générale, égal à 4 ;
 
-d) La charge maximale d'utilisation d'une élingue multibrin est déterminée sur
+e) La charge maximale d'utilisation d'une élingue multibrin est déterminée sur
 la base du coefficient d'utilisation du brin le plus faible, du nombre de brins
 et d'un facteur minorant qui dépend du mode d'élingage ;
 
-e) Afin de vérifier si le coefficient d'utilisation adéquat est atteint, le
+f) Afin de vérifier si le coefficient d'utilisation adéquat est atteint, le
 fabricant effectue ou fait effectuer les essais appropriés pour chaque type
 d'élément mentionné aux points a, b, c et d.
 
@@ -2103,10 +2247,10 @@ installés pour éviter ce risque. Ces protecteurs sont prévus pour ne pas
 s'ouvrir du côté du volume parcouru. Ils sont munis d'un dispositif de
 verrouillage commandé par la position de l'habitacle qui évite :
 
-- les déplacements dangereux de l'habitacle jusqu'à ce que les protecteurs
-soient fermés et verrouillés ;
+-les déplacements dangereux de l'habitacle jusqu'à ce que les protecteurs soient
+fermés et verrouillés ;
 
-- l'ouverture dangereuse d'un protecteur avant que l'habitacle ne se soit arrêté
+-l'ouverture dangereuse d'un protecteur avant que l'habitacle ne se soit arrêté
 au palier correspondant.
 
 4.1.3. Aptitude à l'emploi.
@@ -2143,10 +2287,10 @@ dont le moment de renversement est au moins égal à 40 000 Nm sont équipées d
 dispositifs avertissant le conducteur et empêchant les mouvements dangereux en
 cas :
 
-- de surcharge, par dépassement de la charge maximale d'utilisation ou du moment
+-de surcharge, par dépassement de la charge maximale d'utilisation ou du moment
 maximal d'utilisation dû à la charge ; ou
 
-- de dépassement du moment de renversement.
+-de dépassement du moment de renversement.
 
 4.2.3. Installations guidées par des câbles.
 
@@ -2168,13 +2312,13 @@ a) Le nom et l'adresse du fabricant ;
 
 b) Une description de la chaîne ou du câble comportant :
 
-- ses dimensions nominales ;
+-ses dimensions nominales ;
 
-- sa construction ;
+-sa construction ;
 
-- le matériau de fabrication ; et,
+-le matériau de fabrication ; et,
 
-- tout traitement métallurgique spécial subi par le matériel ;
+-tout traitement métallurgique spécial subi par le matériel ;
 
 c) La méthode d'essai utilisée ;
 
@@ -2186,10 +2330,10 @@ applications prévues.
 
 Chaque accessoire de levage porte les renseignements suivants :
 
-- identification du matériau quand cette information est nécessaire pour la
+-identification du matériau quand cette information est nécessaire pour la
 sécurité d'emploi ;
 
-- charge maximale d'utilisation.
+-charge maximale d'utilisation.
 
 Pour les accessoires de levage sur lesquels le marquage est matériellement
 impossible, les renseignements visés au premier alinéa figurent sur une
@@ -2239,13 +2383,13 @@ comprend les indications concernant :
 
 a) Les caractéristiques techniques de la machine, notamment :
 
-- la charge maximale d'utilisation et, le cas échéant, une copie de la plaque ou
+-la charge maximale d'utilisation et, le cas échéant, une copie de la plaque ou
 du tableau de charges visés au paragraphe 4.3.3, deuxième alinéa ;
 
-- les réactions aux appuis ou aux scellements et, le cas échéant, les
+-les réactions aux appuis ou aux scellements et, le cas échéant, les
 caractéristiques des chemins de roulement ;
 
-- s'il y a lieu, la définition et les moyens d'installation des lestages ;
+-s'il y a lieu, la définition et les moyens d'installation des lestages ;
 
 b) Le contenu du carnet de suivi de la machine, s'il n'est pas fourni avec la
 machine ;
@@ -2421,9 +2565,9 @@ La machine est conçue et construite de manière que les commandes, autres que
 celles à utiliser en cas d'urgence, situées aux paliers ne puissent déclencher
 les mouvements de l'habitacle lorsque :
 
-- les organes de service de l'habitacle fonctionnent ;
+-les organes de service de l'habitacle fonctionnent ;
 
-- l'habitacle n'est pas à un palier.
+-l'habitacle n'est pas à un palier.
 
 6.4.3. Accès à l'habitacle.
 
@@ -2436,6 +2580,6 @@ compte tenu de l'ensemble prévisible d'objets et de personnes à lever.
 Sur l'habitacle sont portées les indications nécessaires pour assurer la
 sécurité, notamment :
 
-- le nombre de personnes pouvant se trouver dans l'habitacle ;
+-le nombre de personnes pouvant se trouver dans l'habitacle ;
 
-- la charge maximale d'utilisation.
+-la charge maximale d'utilisation.

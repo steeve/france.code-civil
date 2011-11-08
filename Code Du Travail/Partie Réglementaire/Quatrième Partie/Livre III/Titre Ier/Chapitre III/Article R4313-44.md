@@ -9,7 +9,7 @@ auprès d'un organisme, une demande d'évaluation qui comprend :
 ;
 
 3° Le dossier technique prévu à l'article R. 4313-6 pour un modèle de chaque
-machine citée à l'article R. 4313-82 ;
+machine citée à l'article R. 4313-78 ;
 
 4° La documentation sur le système de qualité ;
 
