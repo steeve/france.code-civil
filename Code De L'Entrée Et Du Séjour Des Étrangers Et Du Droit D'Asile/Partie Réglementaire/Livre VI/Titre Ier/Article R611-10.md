@@ -15,4 +15,6 @@ responsabilité de ces dernières, dans le respect des garanties prévues par le
 règlement (CE) n° 390-2009 du Parlement européen et du Conseil du 23 avril 2009
 ; les personnels des prestataires agréés chargés de cette collecte sont
 individuellement habilités par ces mêmes autorités. La présente expérimentation
-est autorisée pour une durée d'un an à compter du 1er décembre 2010.
+est autorisée pour une durée d'un an à compter d'une date qui sera fixée par un
+arrêté conjoint du ministre des affaires étrangères et du ministre chargé de
+l'immigration et au plus tard le 1er janvier 2012.
