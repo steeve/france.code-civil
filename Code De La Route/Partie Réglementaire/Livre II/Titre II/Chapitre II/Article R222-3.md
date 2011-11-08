@@ -5,7 +5,7 @@ membre de la Communauté européenne, ni partie à l'accord sur l'Espace économ
 européen, peut être reconnu en France jusqu'à l'expiration d'un délai d'un an
 après l'acquisition de la résidence normale de son titulaire. Pendant ce délai,
 il peut être échangé contre le permis français, sans que son titulaire soit tenu
-de subir les examens prévus au premier alinéa de l'article R. 221-3 Les
+de subir les examens prévus au premier alinéa de l'article D. 221-3 Les
 conditions de cette reconnaissance et de cet échange sont définies par arrêté du
 ministre chargé des transports, après avis du ministre de la justice, du
 ministre de l'intérieur et du ministre chargé des affaires étrangères. Au terme

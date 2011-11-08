@@ -1,34 +1,52 @@
 Article R221-5
 ----
-Les conditions minimales requises pour l'obtention du permis de conduire dont
-les catégories ou sous-catégories sont définies à l'article R. 221-4 sont les
-suivantes :
+Les conditions minimales requises pour l'obtention du permis de conduire sont
+les suivantes :
 
-1° Etre âgé(e) :
+1° Etre âgé (e) :
 
-a) De seize ans révolus pour les sous-catégories A 1 et B 1 ;
+-de seize ans révolus pour les catégories A1 et B1 ;
 
-b) De dix-huit ans révolus pour les catégories A, B, C, E (B) et E (C) ;
+-de dix-huit ans révolus pour les catégories A2, B, C1, BE et C1E ;
 
-c) De vingt et un ans révolus pour les catégories D et E (D).
+-de vingt-quatre ans révolus pour la catégorie A, sauf pour les titulaires du
+permis A2 depuis au moins deux ans ;
 
-La reconnaissance des permis de conduire prévue aux articles R. 222-1 à R. 222-8
-est également subordonnée au respect de ces conditions d'âge.
+-de vingt et un ans révolus pour le conducteur d'un tricycle à moteur d'une
+puissance supérieure à 15 kilowatts ;
+
+-de vingt et un ans révolus pour les catégories C, CE, D1 et D1E, sans préjudice
+des dispositions relatives à l'âge autorisant la conduite de ces véhicules
+figurant dans le décret n° 2007-1340 du 11 septembre 2007 modifié relatif à la
+qualification initiale et à la formation continue des conducteurs de certains
+véhicules affectés aux transports routiers de marchandises et de voyageurs.
+
+-de vingt-quatre ans révolus pour les catégories D et DE, sans préjudice des
+dispositions relatives à l'âge autorisant la conduite de ces véhicules figurant
+dans le décret n° 2007-1340 du 11 septembre 2007 modifié relatif à la
+qualification initiale et à la formation continue des conducteurs de certains
+véhicules affectés aux transports routiers de marchandises et de voyageurs.
+
+La reconnaissance des permis de conduire prévue aux articles R. 222-1 à D. 222-8
+est également subordonnée au respect de ces conditions d'âge ;
 
 2° Etre titulaire :
 
-a) De l'attestation scolaire de sécurité routière de second niveau ou de
-l'attestation de sécurité routière pour la première obtention du permis de
-conduire, quelle qu'en soit la catégorie ou sous-catégorie ;
+a) Pour la première obtention du permis de conduire, s'agissant des personnes
+nées à compter du 1er janvier 1988, de l'attestation scolaire de sécurité
+routière de second niveau ou de l'attestation de sécurité routière ;
 
-b) De la catégorie B du permis de conduire pour l'obtention des catégories C, D
-et E (B) ;
+b) En outre :
 
-c) De la catégorie C du permis de conduire pour l'obtention de la catégorie E
-(C) ;
+-pour l'obtention des catégories C1, C, D1, D, BE, de la catégorie B du permis
+de conduire ;
 
-d) De la catégorie D du permis de conduire pour l'obtention de la catégorie E
-(D).
+-pour l'obtention de la catégorie C1E, de la catégorie C1 du permis de conduire
+;
 
-Les dispositions du a) ne sont applicables qu'aux personnes qui atteindront
-l'âge de seize ans à compter du 1er janvier 2004.
+-pour l'obtention de la catégorie CE, de la catégorie C du permis de conduire ;
+
+-pour l'obtention de la catégorie D1E, de la catégorie D1 du permis de conduire
+;
+
+-pour l'obtention de la catégorie DE, de la catégorie D du permis de conduire.

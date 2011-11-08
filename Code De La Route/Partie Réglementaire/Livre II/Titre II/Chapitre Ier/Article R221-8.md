@@ -11,23 +11,18 @@ conduite des motocyclettes dont la cylindrée n'excède pas 125 cm3, mises en
 circulation pour la première fois avant le 31 décembre 1984, et celle des
 motocyclettes légères.
 
-La catégorie A du permis de conduire, obtenue avant le 19 janvier 2013,
-n'autorise à compter de sa date d'obtention et pendant une période de deux ans
-que la conduite des motocyclettes dont la puissance n'excède pas 35 kilowatts,
-avec un rapport puissance/poids en ordre de marche ne dépassant pas 0,2 kilowatt
-par kilogramme. Cette restriction d'usage est levée si le conducteur était âgé
-d'au moins 21 ans à la date d'obtention de la catégorie A.
+La catégorie A du permis de conduire obtenue avant le 19 janvier 2013 n'autorise
+que la conduite des motocyclettes relevant de la catégorie A2 du permis de
+conduire si le conducteur est titulaire de cette catégorie A depuis moins de
+deux ans. Cette restriction d'usage est levée si le conducteur est âgé de plus
+de 21 ans.
 
-La catégorie A du permis de conduire, obtenue avant le 19 janvier 2013, autorise
-la conduite des tricycles à moteur d'une puissance supérieure à 15 kW quel que
-soit l'âge du conducteur.
+Les catégories A et B ainsi que la sous-catégorie A1 du permis de conduire
+délivrées avant le 19 janvier 2013 autorisent la conduite des quadricycles à
+moteur (véhicules des catégories L6e et L7e).
 
-Les catégories A et A1 du permis de conduire obtenues avant le 19 janvier 2013
-autorisent la conduite des quadricycles à moteur (véhicules des catégories L6e
-et L7e).
-
-Les catégories B et B1 du permis de conduire obtenues avant le 19 janvier 2013
-autorisent la conduite des tricycles à moteur dont la puissance n'excède pas 15
+La sous-catégorie B1 du permis de conduire obtenue avant le 19 janvier 2013
+autorise la conduite des tricycles à moteur dont la puissance n'excède pas 15
 kilowatts et dont le poids à vide n'excède pas 550 kilogrammes ainsi que les
 quadricycles à moteur (véhicules des catégories L6e et L7e).
 
@@ -59,14 +54,18 @@ d'une motocyclette légère au cours des cinq années précédant le 1er janvier
 délivré par l'assureur et attestant la souscription d'une assurance couvrant
 l'usage de l'un ou l'autre de ces véhicules au cours de la période considérée.
 
-III bis. -La catégorie B du permis de conduire autorise la conduite des
-véhicules de la catégorie B attelés d'une remorque lorsque le poids total
-autorisé en charge (PTAC) de la remorque excède 750 kilogrammes et lorsque la
-somme des poids totaux autorisés en charge (PTAC) du véhicule tracteur et de la
-remorque est supérieure à 3 500 kilogrammes mais ne dépasse pas 4 250
-kilogrammes sous réserve que le titulaire du permis ait suivi une formation dont
-les modalités sont définies par arrêté du ministre chargé de la sécurité
-routière.
+III bis.-La catégorie B du permis de conduire autorise la conduite des ensembles
+composés d'un véhicule et d'une remorque ayant un poids total roulant autorisé
+(PTRA) supérieur à 3 500 kilogrammes mais ne dépassent pas 4 250 kilogrammes
+sous réserve du respect des conditions suivantes :
+
+-le titulaire du permis a suivi une formation dont les modalités sont définies
+par arrêté du ministre chargé de la sécurité routière ;
+
+-la remorque a un poids total autorisé en charge (PTAC) dépassant 750
+kilogrammes ;
+
+-le véhicule tractant relève de la catégorie B.
 
 IV.-Un arrêté conjoint du ministre chargé de la sécurité routière et du ministre
 chargé des assurances fixe les modalités d'application des II et III.

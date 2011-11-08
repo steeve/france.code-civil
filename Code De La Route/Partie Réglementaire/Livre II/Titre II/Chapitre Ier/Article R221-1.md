@@ -9,6 +9,22 @@ Par dérogation à l'article R. 110-1, ces dispositions sont également applicab
 à la conduite sur les voies non ouvertes à la circulation publique, sauf dans le
 cas prévu à l'article R. 221-16.
 
+I bis.-La durée de validité des titres attestant de la qualité de titulaire du
+permis de conduire est limitée ainsi qu'il suit :
+
+1° Les permis de conduire comportant les catégories A1, A2, A, B, B1 et BE du
+permis de conduire ont une durée de validité de quinze ans à compter de leur
+délivrance, sous réserve des dispositions de l'article R. 221-10 ;
+
+2° Sous la même réserve, les permis de conduire comportant les catégories C, CE,
+C1, C1E, D, DE, D1 et D1E ont une durée de validité de cinq ans.
+
+La date limite de validité est inscrite sur le titre de conduite.
+
+Les conditions de renouvellement des titres attestant de la qualité de titulaire
+du permis de conduire sont fixées par arrêté du ministre chargé de la sécurité
+routière.
+
 II.-Le permis de conduire est délivré à tout candidat qui a satisfait aux
 épreuves d'examen prévues au présent chapitre par le préfet du département de sa
 résidence ou par le préfet du département dans lequel ces épreuves ont été

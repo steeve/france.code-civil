@@ -1,14 +1,14 @@
 Article R221-10
 ----
-I.-Les catégories A et B du permis de conduire sont délivrées sans visite
-médicale préalable sauf dans les cas où cette visite est rendue obligatoire par
-arrêté du ministre chargé de la sécurité routière pris en application de
-l'article R. 226-1.
+I.-Les catégories A1, A2, A, B1 et B du permis de conduire sont délivrées sans
+visite médicale préalable sauf dans les cas où cette visite est rendue
+obligatoire par arrêté du ministre chargé de la sécurité routière pris en
+application de l'article R. 226-1.
 
-II.-Les catégories A et B délivrées pour la conduite des véhicules spécialement
-aménagés pour tenir compte du handicap du conducteur et les catégories C, D et E
-ne peuvent être obtenues ou renouvelées qu'à la suite d'une visite médicale
-favorable.
+II.-Les catégories A1, A2, A, B1 et B délivrées pour la conduite des véhicules
+spécialement aménagés pour tenir compte du handicap du conducteur et les
+catégories C1, C1E, C, CE, D1, D1E, D, DE et BE ne peuvent être obtenues ou
+renouvelées qu'à la suite d'un avis médical favorable.
 
 III.-La catégorie B du permis de conduire ne permet la conduite :
 

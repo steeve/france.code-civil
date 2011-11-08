@@ -1,10 +1,8 @@
 Article R221-7
 ----
-La catégorie A du permis de conduire autorise la conduite des véhicules relevant
-des catégories A2 et A1.
-
-La catégorie A2 du permis de conduire autorise la conduite des véhicules
-relevant de la catégorie A1.
+La catégorie A du permis de conduire autorise la conduite, le cas échéant avec
+ou sans side-car, des véhicules suivants : cyclomoteurs, motocyclettes légères,
+motocyclettes, tricycles à moteur, quadricycles légers à moteur.
 
 La catégorie B du permis de conduire autorise la conduite des quadricycles à
 moteur (véhicules des catégories L6e et L7e).
