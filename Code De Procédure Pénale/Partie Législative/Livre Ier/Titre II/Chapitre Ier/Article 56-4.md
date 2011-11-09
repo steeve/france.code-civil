@@ -70,40 +70,6 @@ dossier de la procédure. La déclassification et la communication des élément
 ainsi placés sous scellés relèvent de la procédure prévue par les articles L.
 2312-4 et suivants du code de la défense.
 
-III.-Lorsqu'une perquisition est envisagée dans un lieu classifié au titre du
-secret de la défense nationale dans les conditions définies à l'article 413-9-1
-du code pénal, elle ne peut être réalisée que par un magistrat en présence du
-président de la Commission consultative du secret de la défense nationale. Ce
-dernier peut être représenté par un membre de la commission et être assisté de
-toute personne habilitée à cet effet.
-
-Le magistrat vérifie auprès de la Commission consultative du secret de la
-défense nationale si le lieu dans lequel il souhaite effectuer une perquisition
-fait l'objet d'une mesure de classification.
-
-La perquisition ne peut être effectuée qu'en vertu d'une décision écrite et
-motivée qui indique la nature de l'infraction ou des infractions sur lesquelles
-portent les investigations, les raisons justifiant la perquisition et l'objet de
-celle-ci, ainsi que le lieu visé par la perquisition. Le magistrat transmet
-cette décision au président de la Commission consultative du secret de la
-défense nationale. Il la porte, au commencement de la perquisition, à la
-connaissance du chef d'établissement ou de son délégué, ou du responsable du
-lieu.
-
-La perquisition doit être précédée d'une décision de déclassification temporaire
-du lieu aux fins de perquisition et ne peut être entreprise que dans les limites
-de la déclassification ainsi décidée.A cette fin, le président de la Commission
-consultative du secret de la défense nationale, saisi par la décision du
-magistrat mentionnée à l'alinéa précédent, fait connaître sans délai son avis à
-l'autorité administrative compétente sur la déclassification temporaire, totale
-ou partielle, du lieu aux fins de perquisition.L'autorité administrative fait
-connaître sa décision sans délai. La déclassification prononcée par l'autorité
-administrative ne vaut que pour le temps des opérations. En cas de
-déclassification partielle, la perquisition ne peut être réalisée que dans la
-partie des lieux qui fait l'objet de la décision de déclassification de
-l'autorité administrative.
-
-La perquisition se poursuit dans les conditions prévues aux sixième alinéa et
-suivants du I.
+III (Supprimé).
 
 IV.-Les dispositions du présent article sont édictées à peine de nullité.
