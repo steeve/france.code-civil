@@ -28,8 +28,12 @@ définitive à l'exercice de la profession, l'ouverture du droit à pension peut
 prendre effet à compter de la date à laquelle les intéressés remplissent l'une
 et l'autre des deux conditions suivantes :
 
-- avoir atteint l'âge de cinquante ans ;
+- avoir atteint l'âge mentionné au 1° du I de l'article R. 426-11 ;
 
 - avoir été affilié pour la première fois au régime prévu par le présent
-chapitre à une date antérieure d'au moins quinze ans à la date d'ouverture du
-droit.
+chapitre à une date antérieure au moins égale, à la date d'ouverture du droit, à
+la durée mentionnée au 2° du I de l'article R. 426-11.
+
+Pour l'application du présent article, la pension est, par dérogation aux
+dispositions de l'article R. 426-11, liquidée sans décote et la cessation de
+l'activité de navigant doit être liée à la survenance de l'inaptitude.

@@ -11,6 +11,7 @@ ayants droit.
 
 Le conseil d'administration est chargé de définir les procédures de
 fonctionnement du fonds social, auquel il pourra affecter chaque année un crédit
-dans la limite de 1 % des cotisations encaissées au cours de l'exercice
-précédent dans les trois autres fonds. Les sommes qui n'auront pas été utilisées
-à la fin d'un exercice sont reportées à l'exercice suivant.
+dans la limite de 0,2 % des cotisations encaissées au cours de l'exercice
+précédent dans le fonds mentionné au a de l'article R. 426-27. Les sommes qui
+n'auront pas été utilisées à la fin d'un exercice sont reportées à l'exercice
+suivant.
