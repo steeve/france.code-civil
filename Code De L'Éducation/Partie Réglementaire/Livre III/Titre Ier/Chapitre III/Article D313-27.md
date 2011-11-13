@@ -1,21 +1,23 @@
 Article D313-27
 ----
 Les ressources de l'Office national d'information sur les enseignements et les
-professions sont constituées, notamment :
+professions comprennent :
 
-1° Par les subventions allouées par l'Etat et les collectivités publiques pour
-le fonctionnement et l'investissement ;
+1° Les subventions et les fonds de concours attribués notamment par l'Etat, les
+collectivités publiques et l'Union européenne ;
 
-2° Par les versements des assujettis à la taxe d'apprentissage ;
+2° Les droits, redevances et produits de toute nature résultant de ses activités
+;
 
-3° Par les contributions privées ;
+3° Les versements au titre de la taxe d'apprentissage ;
 
-4° Par des dons et legs et leurs revenus ;
+4° Les produits des conventions ou contrats, notamment de travaux ou d'études ;
 
-5° Par le produit de la vente de documents d'information scolaire et
-professionnelle qu'il édite en sus de la documentation de base fournie
-gratuitement aux usagers ;
+5° Les revenus des biens meubles et immeubles de l'établissement ;
 
-6° Par le produit des conventions ;
+6° Le produit des aliénations ;
 
-7° Par le produit des emprunts.
+7° Les contributions privées, les dons et legs ;
+
+8° D'une manière générale, toutes les recettes autorisées par les lois et
+règlements.

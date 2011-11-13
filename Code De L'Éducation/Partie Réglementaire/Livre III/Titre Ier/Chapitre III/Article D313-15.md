@@ -1,101 +1,70 @@
 Article D313-15
 ----
 L'Office national d'information sur les enseignements et les professions est
-administré par un conseil d'administration et dirigé par un directeur.
+administré par un conseil d'administration assisté d'un conseil d'orientation.
+Il est dirigé par un directeur.
 
-Le conseil d'administration comprend :
+Le conseil d'administration comprend vingt-six membres :
 
-1° Dix-sept membres de droit :
+1° Neuf représentants de l'Etat :
 
-a) Deux représentants du ministre chargé de l'éducation nommés par arrêté de
-celui-ci ;
+a) Trois nommés par arrêté du ministre chargé de l'éducation ;
 
-b) Un représentant du ministre chargé de l'enseignement supérieur nommé par
-arrêté de celui-ci ;
+b) Un nommé par arrêté du ministre chargé de l'enseignement supérieur ;
 
-c) Le directeur général du Centre d'analyse stratégique ;
+c) Un nommé par arrêté du ministre chargé du budget ;
 
-d) Le directeur général de l'administration et de la fonction publique ;
+d) Un nommé par arrêté du ministre chargé de la formation professionnelle ;
 
-e) Le directeur général de l'Institut national de la statistique et des études
-économiques ;
+e) Un nommé par arrêté du ministre chargé de l'agriculture ;
 
-f) Le délégué général à l'emploi et à la formation professionnelle au ministère
-chargé de l'emploi ;
+f) Un nommé par arrêté du ministre chargé des petites et moyennes entreprises ;
 
-g) Le directeur général de l'enseignement et de la recherche au ministère chargé
-de l'agriculture ;
+g) Un nommé par arrêté du ministre chargé de la jeunesse ;
 
-h) Le directeur du budget au ministère chargé du budget ;
+2° Quatre membres de droit :
 
-i) Le directeur général de la concurrence, de la consommation et de la
-répression des fraudes au ministère chargé de l'économie ;
+a) Le délégué à l'information et à l'orientation ou son représentant ;
 
-j) Le directeur de la jeunesse et de la vie associative au ministère chargé de
-la jeunesse ;
+b) Le directeur général de l'institution mentionnée à l'article L. 5312-1 du
+code du travail ou son représentant ;
 
-k) Le directeur général de l'institution mentionnée à l'article L. 5312-1 du
-code du travail ;
+c) Le chef du service des droits des femmes et de l'égalité entre les femmes et
+les hommes au ministère chargé des droits des femmes ou son représentant ;
 
-l) Le directeur général de l'industrie, des technologies de l'information et des
-postes au ministère chargé de l'industrie ;
+d) Le président du conseil prévu à l'article L. 6123-1 du code du travail ou son
+représentant ;
 
-m) Le directeur du commerce, de l'artisanat, des services et des professions
-libérales au ministère chargé de l'artisanat ;
+3° Un représentant de l'Union nationale des associations familiales ;
 
-n) Le délégué interministériel à l'aménagement du territoire et à l'attractivité
-régionale ;
+4° Trois représentants des associations de parents d'élèves les plus
+représentatives, dont un de l'enseignement privé sous contrat ;
 
-o) Le secrétaire général du comité interministériel prévu à l'article L. 910-1
-du code du travail ;
+5° Un représentant de l'association d'étudiants la plus représentative, désigné
+sur proposition du Conseil national de l'enseignement supérieur et de la
+recherche ;
 
-p) Le chef du service des droits des femmes et de l'égalité au ministère chargé
-des droits des femmes ;
+6° Un représentant des lycéens, désigné sur proposition du Conseil national de
+la vie lycéenne ;
 
-2° Quatre représentants des organisations professionnelles d'employeurs les plus
-représentatives ;
+7° Cinq représentants du personnel de l'office, désignés sur proposition des
+organisations syndicales les plus représentatives au sein de l'office ;
 
-3° Un représentant des chambres de commerce et d'industrie territoriales ;
+8° Le président du conseil d'orientation de l'office et un membre choisi parmi
+les personnalités particulièrement compétentes dans les domaines qui intéressent
+l'office, désigné sur proposition du directeur de l'office.
 
-4° Un représentant des chambres de métiers et de l'artisanat de région ;
+Le directeur, le directeur adjoint, le secrétaire général, l'agent comptable, le
+membre du corps du contrôle général économique et financier ainsi que toute
+personne dont la présence est jugée utile par le président assistent aux séances
+avec voix consultative.
 
-5° Six représentants d'organisations syndicales de salariés représentatives ;
+Les membres mentionnés aux 3°, 4°, 5°, 6°, 7° et 8° sont nommés par arrêté
+conjoint des ministres chargés de l'éducation et de l'enseignement supérieur.
 
-6° Un représentant des chambres d'agriculture et un représentant des
-organisations d'exploitants agricoles ;
+Pour chacun des membres mentionnés aux 1°, 3°, 4°, 5°, 6° et 7°, un suppléant
+est désigné dans les mêmes conditions que le titulaire.
 
-7° Un représentant de l'Union nationale des associations familiales ;
-
-8° Cinq représentants des associations de parents d'élèves, dont un de
-l'enseignement privé sous contrat ;
-
-9° Deux représentants des étudiants, désignés sur proposition du Conseil
-national de l'enseignement supérieur et de la recherche ;
-
-10° Sept représentants des enseignants, dont un de l'enseignement privé sous
-contrat, et un président d'établissement public à caractère scientifique,
-culturel et professionnel, sur proposition du Conseil national de l'enseignement
-supérieur et de la recherche ;
-
-11° Un directeur d'institut de formation du personnel des services d'information
-et d'orientation ;
-
-12° Un directeur de centre d'information et d'orientation ;
-
-13° Trois représentants du personnel de l'office ;
-
-14° Trois membres choisis parmi les personnalités particulièrement compétentes
-dans les domaines qui intéressent l'office.
-
-Le directeur de l'office, le directeur du Centre d'études et de recherches sur
-les qualifications, le membre du corps du contrôle général économique et
-financier et l'agent comptable assistent aux séances du conseil avec voix
-consultative.
-
-En outre, le président du conseil d'administration peut, compte tenu des
-problèmes inscrits à l'ordre du jour, demander à chacun des ministres intéressés
-qui ne seraient pas représentés dans le conseil d'administration de désigner un
-haut fonctionnaire pour assister à la séance avec voix consultative.
-
-Les membres de droit peuvent se faire représenter par un fonctionnaire désigné
-par arrêté du ministre dont ils relèvent.
+Le président du conseil d'administration de l'Office national d'information sur
+les enseignements et les professions est nommé par arrêté conjoint des ministres
+chargés de l'éducation et de l'enseignement supérieur.

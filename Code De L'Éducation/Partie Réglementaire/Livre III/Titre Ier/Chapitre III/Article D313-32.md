@@ -9,6 +9,10 @@ publique, ainsi que par l'article 60 de la loi de finances pour 1963 (deuxième
 partie n° 63-56 du 23 février 1963) relatif à la responsabilité des comptables
 publics.
 
+L'Office national d'information sur les enseignements et les professions met en
+place une comptabilité analytique qui distingue les activités commerciales des
+autres activités.
+
 Conformément au décret n° 2005-757 du 4 juillet 2005 relatif au contrôle
 financier au sein des établissements publics administratifs de l'Etat, l'office
 est soumis au contrôle financier dans les conditions prévues par le décret n°
