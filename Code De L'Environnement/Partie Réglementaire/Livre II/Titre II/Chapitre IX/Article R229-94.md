@@ -6,7 +6,7 @@ de façon permanente et sûre et que la période de surveillance fixée conform�
 au III de l'article L. 229-47 s'est écoulée, le préfet transmet son avis ainsi
 que l'ensemble des pièces sur lesquelles il se fonde aux ministres chargés des
 mines et des installations classées qui, après avis du Conseil général de
-l'industrie, de l'énergie et des technologies et de la mission
+l'économie, de l'industrie, de l'énergie et des technologies et de la mission
 interministérielle de l'eau, élaborent un projet de décision dans un délai de
 six mois.
 

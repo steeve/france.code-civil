@@ -6,5 +6,6 @@ an pour l'instruire après l'avoir, si nécessaire, fait compléter.
 
 Après instruction, le préfet transmet son avis ainsi que l'ensemble des pièces
 sur lesquelles il se fonde aux ministres qui élaborent, après avis du Conseil
-général de l'industrie, de l'énergie et des technologies et de la mission
-interministérielle de l'eau, un projet de décision dans un délai de six mois.
+général de l'économie, de l'industrie, de l'énergie et des technologies et de la
+mission interministérielle de l'eau, un projet de décision dans un délai de six
+mois.
