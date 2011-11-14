@@ -20,4 +20,4 @@ instituts techniques spécialisés ou assimilés.
 
 II. - Le président, le secrétaire et les membres des sections sont nommés par
 arrêté du ministre chargé de l'agriculture, après avis du comité plénier, pour
-une durée de deux ans.
+une durée de trois ans.

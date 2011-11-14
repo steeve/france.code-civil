@@ -1,6 +1,6 @@
 Article D661-5
 ----
-I.-Le comité plénier comprend, outre le président, le vice-président et le
+I. - Le comité plénier comprend, outre le président, le vice-président et le
 secrétaire général du comité technique permanent de la sélection des plantes
 cultivées :
 
@@ -40,18 +40,24 @@ j) Le directeur du Groupement national interprofessionnel des semences ;
 2° Les présidents et secrétaires des sections mentionnés au 3° et au 4° de
 l'article D. 661-4.
 
-3° Dix-sept représentants des catégories professionnelles suivantes : obtenteurs
-de variétés, producteurs de semences ou plants, utilisateurs des semences et
-plants et utilisateurs des produits des récoltes obtenues à partir des semences
-et plants, à raison d'au moins deux par catégorie ;
+3° Seize représentants des catégories professionnelles suivantes : obtenteurs de
+variétés, producteurs de semences ou plants, utilisateurs des semences et plants
+et utilisateurs des produits des récoltes obtenues à partir des semences et
+plants, à raison d'au moins deux par catégorie ;
 
 4° Cinq personnalités scientifiques désignées en raison de leur compétence,
 appartenant notamment à la recherche ou à l'enseignement supérieur agronomique ;
 
+5° Quatre représentants des instituts techniques des principales filières
+végétales ;
+
+6° Deux représentants des consommateurs et des associations de protection de
+l'environnement.
+
 Les membres mentionnés aux 3° et 4° sont nommés pour une durée de deux ans par
 arrêté du ministre chargé de l'agriculture.
 
-II.-Le ministre chargé de l'agriculture prend l'avis du comité plénier pour
+II. - Le ministre chargé de l'agriculture prend l'avis du comité plénier pour
 désigner, par arrêté, le président, le vice-président et le secrétaire général
 du comité.
 
@@ -59,7 +65,5 @@ Le président, le vice-président du comité plénier et le secrétaire généra
 membres de droit de toutes les instances du comité technique permanent de la
 sélection des plantes cultivées.
 
-Le secrétaire général est chargé d'organiser, de coordonner les travaux des
-diverses instances du comité technique permanent de la sélection des plantes
-cultivées, de suivre le déroulement de leurs actions et de veiller à leur
-continuité.
+Les membres mentionnés aux 3°, 4°, 5° et 6° sont nommés pour une durée de trois
+ans par arrêté du ministre chargé de l'agriculture.
