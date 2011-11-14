@@ -18,3 +18,20 @@ associés mentionnés au deuxième alinéa de l'article 5 de la loi n° 90-1258 
 décembre 1990 relative à l'exercice sous forme de sociétés des professions
 libérales soumises à un statut législatif ou réglementaire ou dont le titre est
 protégé, avec leur profession et la part de capital qu'ils détiennent.
+
+Le procureur général saisit le Conseil national des greffiers des tribunaux de
+commerce par lettre recommandée avec demande d'avis de réception et l'invite à
+lui faire parvenir son avis motivé sur la demande.
+
+Huit jours au moins avant la date fixée pour sa délibération, le conseil
+national informe les intéressés qu'ils doivent, soit par eux-mêmes, soit par un
+mandataire de leur choix, présenter lors de cette délibération toutes
+explications orales ou écrites relatives à la constitution de la société dont il
+s'agit.
+
+Si, quarante-cinq jours après sa saisine, le conseil n'a pas adressé au
+procureur général l'avis qui lui a été demandé, l'avis est tenu pour favorable.
+
+Après réception de l'avis demandé au conseil ou après expiration du délai fixé
+par l'alinéa précédent, le procureur général transmet, avec son rapport, le
+dossier au garde des sceaux, ministre de la justice.

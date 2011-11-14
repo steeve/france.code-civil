@@ -25,5 +25,13 @@ l'ensemble de ses revenus et d'un budget prévisionnel.
 
 Le prix de cession et ses modalités de paiement sont fixés par les parties.
 
-Le procureur général transmet au garde des sceaux, ministre de la justice, avec
-son rapport, l'ensemble des pièces et des documents.
+Le procureur général saisit le Conseil national des greffiers des tribunaux de
+commerce par lettre recommandée avec demande d'avis de réception et l'invite à
+lui faire parvenir son avis motivé sur la demande.
+
+Si, quarante-cinq jours après sa saisine, le conseil n'a pas adressé au
+procureur général l'avis qui lui a été demandé, l'avis est tenu pour favorable.
+
+Après réception de l'avis demandé au conseil ou après expiration du délai fixé
+par l'alinéa précédent, le procureur général transmet, avec son rapport, le
+dossier au garde des sceaux, ministre de la justice.
