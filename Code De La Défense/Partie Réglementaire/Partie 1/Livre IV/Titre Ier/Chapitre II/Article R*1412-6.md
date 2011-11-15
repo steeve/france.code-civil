@@ -13,7 +13,7 @@ d'équipements ou d'activités intéressées ainsi que la nature des inspections
 entreprendre.
 
 Les inspecteurs peuvent être associés aux travaux des commissions techniques de
-sûreté nucléaire mentionnées à l'article R. * 1411-10.
+sûreté nucléaire mentionnées à l'article R. * 1412-3.
 
 Ils portent à la connaissance du délégué tout fait susceptible de mettre en
 cause la sûreté nucléaire et la radioprotection de ces installations ou

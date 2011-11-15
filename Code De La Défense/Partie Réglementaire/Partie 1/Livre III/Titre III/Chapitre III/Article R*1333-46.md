@@ -8,7 +8,7 @@ d'autorisation de création de l'installation nucléaire de base secrète en
 respectant les prescriptions générales, sont transmis au délégué :
 
 1° Six mois au moins avant le début de la construction, les rapports
-préliminaires de sûreté prévus au troisième alinéa de l'article R. * 1333-42 ;
+préliminaires de sûreté prévus au 3° de l'article R. * 1333-43 ;
 
 2° Une mise à jour du dossier mentionné à l'article R. * 1333-43.
 

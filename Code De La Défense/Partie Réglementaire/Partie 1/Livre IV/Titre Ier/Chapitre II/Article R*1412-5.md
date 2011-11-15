@@ -1,7 +1,7 @@
 Article R*1412-5
 ----
 Les inspections nécessaires à l'exercice des missions mentionnées aux articles
-R. * 1411-7 à R. * 1411-9 portent sur :
+R. * 1412-1 à R. * 1412-3 portent sur :
 
 1° Le respect de la réglementation de sûreté nucléaire applicable aux
 installations et activités nucléaires et des prescriptions contenues dans les
