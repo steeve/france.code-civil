@@ -2,7 +2,7 @@ Article L311-6
 ----
 Les cessions ou concessions d'usage de terrains à l'intérieur des zones
 d'aménagement concerté font l'objet d'un cahier des charges qui indique le
-nombre de mètres carrés de surface hors oeuvre nette dont la construction est
+nombre de mètres carrés de surface de plancher dont la construction est
 autorisée sur la parcelle cédée. Le cahier des charges peut en outre fixer des
 prescriptions techniques, urbanistiques et architecturales imposées pour la
 durée de la réalisation de la zone.

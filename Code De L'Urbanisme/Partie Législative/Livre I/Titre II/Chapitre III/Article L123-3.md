@@ -9,6 +9,6 @@ modifier ou à créer ;
 b) La localisation prévue pour les principaux ouvrages publics, les
 installations d'intérêt général et les espaces verts.
 
-Il peut également déterminer la surface de plancher développée hors oeuvre nette
-dont la construction est autorisée dans chaque îlot, en fonction, le cas
-échéant, de la nature et de la destination des bâtiments.
+Il peut également déterminer la surface de plancher dont la construction est
+autorisée dans chaque îlot, en fonction, le cas échéant, de la nature et de la
+destination des bâtiments.

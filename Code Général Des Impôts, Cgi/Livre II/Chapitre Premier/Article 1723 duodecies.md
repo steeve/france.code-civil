@@ -20,8 +20,7 @@ date de publication de l'acte déclarant d'utilité publique l'opération et cel
 de la restitution.
 
 Lorsque, par suite de la délivrance d'un permis de construire modificatif, la
-surface développée hors oeuvre de la construction initialement autorisée est
-réduite, le montant du versement est réduit à due concurrence. Au cas où un
-versement excédentaire aurait été opéré, l'excédent sera restitué au
-constructeur à l'exception du prélèvement mentionné à l'article L 333-12
-précité.
+surface de plancher de la construction initialement autorisée est réduite, le
+montant du versement est réduit à due concurrence. Au cas où un versement
+excédentaire aurait été opéré, l'excédent sera restitué au constructeur à
+l'exception du prélèvement mentionné à l'article L. 333-12 précité.
