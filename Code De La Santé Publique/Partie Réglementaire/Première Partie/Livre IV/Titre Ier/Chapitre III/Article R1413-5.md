@@ -49,4 +49,4 @@ personnel selon des modalités fixées par le règlement intérieur de
 l'établissement.
 
 Le président du conseil d'administration est nommé pour une durée de trois ans
-renouvelable.
+renouvelable. La limite d'âge du président est fixée à soixante-sept ans.

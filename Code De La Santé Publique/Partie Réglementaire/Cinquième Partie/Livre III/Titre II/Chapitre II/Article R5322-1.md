@@ -17,8 +17,7 @@ d) Le directeur général de l'offre de soins ou son représentant ;
 e) Le directeur général de la concurrence, de la consommation et de la
 répression des fraudes ou son représentant ;
 
-f) Le directeur général de l'industrie, des technologies de l'information et des
-postes ou son représentant ;
+f) Le directeur général des entreprises ou son représentant ;
 
 g) Le directeur de la technologie au ministère chargé de la recherche ou son
 représentant ;
@@ -43,4 +42,4 @@ Conseil national de la consommation pour une durée de trois ans renouvelable ;
 modalités fixées par le règlement intérieur de l'établissement.
 
 Le président du conseil d'administration est nommé pour une durée de trois ans
-renouvelable.
+renouvelable. La limite d'âge du président est fixée à soixante-sept ans.

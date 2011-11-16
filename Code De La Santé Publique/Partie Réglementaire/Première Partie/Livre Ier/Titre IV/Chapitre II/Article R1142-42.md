@@ -4,6 +4,8 @@ Le président du conseil d'administration est nommé pour une durée de trois an
 renouvelable une fois, par décret pris sur proposition du ministre chargé de la
 santé.
 
+La limite d'âge du président est fixée à soixante-sept ans.
+
 Il a un suppléant, nommé dans les mêmes conditions parmi les membres du conseil
 d'administration.
 
