@@ -73,7 +73,7 @@ D
 Station de transit de produits minéraux ou de déchets non dangereux inertes
 autres que ceux visés par d'autres rubriques, la capacité de stockage étant :
 
-1. supérieure à 75 000 m ³
+1. supérieure à 75 000 m³
 
 
 A
@@ -91,12 +91,12 @@ visées par la rubrique 2522. La capacité de malaxage étant :
 
 2518
 
-a) Supérieure à 3 m3
+a) Supérieure à 3 m 3
 
 
 E
 
-b) Inférieure ou égale à 3 m3
+b) Inférieure ou égale à 3 m 3
 
 
 D
@@ -565,7 +565,7 @@ plastiques, semi-conducteurs, etc.) par voie électrolytique ou chimique, à
 l'exclusion du nettoyage, dégraissage, décapage de surfaces visés par la
 rubrique 2564.
 
-1. Lorsqu'il y a mise en œuvre de cadmium
+1. Lorsqu'il y a mise en oeuvre de cadmium
 
 
 A
@@ -601,7 +601,7 @@ b) supérieur à 200 l, mais inférieur ou égal à 1 500 l
 
 DC
 
-3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de
+3. Traitement en phase gazeuse ou autres traitements sans mise en oeuvre de
 cadmium
 
 
@@ -720,10 +720,18 @@ A
 
 3
 
+1. Quelle que soit la capacité
+
+6
+
 2. Autres fabrications industrielles
 
 
 A
+
+2
+
+2. Quelle que soit la capacité
 
 2
 
@@ -756,7 +764,7 @@ Colorants et pigments organiques, minéraux et naturels (fabrication
 industrielle, emploi de) :
 
 1. Fabrication industrielle de produits destinés à la mise sur le marché ou à la
-mise en oeuvre dans un procédé d'une autre installation
+mise en œuvre dans un procédé d'une autre installation
 
 
 A
@@ -940,7 +948,7 @@ Quelle que soit la capacité
 
 2680
 
-Organismes génétiquement modifiés (installations où sont mis en œuvre dans un
+Organismes génétiquement modifiés (installations où sont mis en oeuvre dans un
 processus de production industrielle ou commercial des) à l'exclusion de
 l'utilisation de produits contenant des organismes génétiquement modifiés qui
 ont reçu une autorisation de mise sur le marché conformément à la loi n° 92-654
@@ -1950,8 +1958,8 @@ b) supérieure à 10 kg/j, mais inférieure ou égale à 100 kg/j
 DC
 
 3. Lorsque les produits mis en œuvre sont des poudres à base de résines
-organiques. Si la quantité maximale de produits susceptible d'être mise en
-oeuvre est :
+organiques. Si la quantité maximale de produits susceptible d'être mise en œuvre
+est :
 
 a) supérieure à 200 kg/j
 
@@ -1970,11 +1978,11 @@ b) supérieure à 20 kg/j, mais inférieure ou égale à 200 kg/j
 DC
 
 Nota. - Le régime de classement est déterminé par rapport à la quantité de
-produits mise en œuvre dans l'installation en tenant compte des coefficients
+produits mise en oeuvre dans l'installation en tenant compte des coefficients
 ci-après. Les quantités de produits à base de liquides inflammables de 1re
 catégorie (point éclair inférieur à 55 o C) ou de liquides halogénés, dénommées
 A, sont affectées d'un coefficient 1. Les quantités de produits à base de
-liquides inflammables de 2 e catégorie (point éclair supérieur ou égal à 55 o C)
+liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55 o C)
 ou contenant moins de 10 % de solvants organiques au moment de l'emploi,
 dénommées B, sont affectées d'un coefficient 1/2. Si plusieurs produits de
 catégories différentes sont utilisés, la quantité Q retenue pour le classement

@@ -90,11 +90,10 @@ attribuées les phrases de risques R. 51 ou R. 51-53 définies par l'arrêté du
 avril 1994 susmentionné.
 
 Le terme gaz désigne toute substance dont la pression de vapeur absolue est
-égale ou supérieure à 101,3 kPa à une température de 20° C.
-
-Le terme liquide désigne toute substance qui n'est pas définie comme étant un
-gaz et qui ne se trouve pas à l'état solide à une température de 20° C et à une
-pression normale de 101,3 kPa.
+égale ou supérieure à 101,3 kPa à une température de 20° C. Le terme liquide
+désigne toute substance qui n'est pas définie comme étant un gaz et qui ne se
+trouve pas à l'état solide à une température de 20° C et à une pression normale
+de 101,3 kPa.
 
 Classification :
 
@@ -847,8 +846,8 @@ de bis(chlorométhyle), oxyde de chlorométhyle et de méthyle, 1,3-propanesulto
 La quantité totale de l'une de ces substances et mélanges en contenant
 susceptible d'être présente dans l'installation étant :
 
-1. La quantité totale de l'une de ces substances et préparations en contenant
-susceptible d'être présente dans l'installation étant :
+1. La quantité totale de l'un de ces produits (à des concentrations en poids
+supérieures à 5 %) susceptible d'être présente dans l'installation étant :
 
 a) Supérieure ou égale à 2 t
 
@@ -878,8 +877,7 @@ sels :
 La quantité totale de l'un de ces produits susceptible d'être présente dans
 l'installation étant :
 
-2. La quantité totale de l'un de ces produits susceptible d'être présente dans
-l'installation étant :
+2. La quantité totale susceptible d'être présente dans l'installation étant :
 
 a) Supérieure ou égale à 10 kg
 
@@ -934,8 +932,7 @@ b) inférieure à 100 kg
 4. Isocyanate de méthyle. La quantité totale de ce produit susceptible d'être
 présente dans l'installation étant :
 
-4. La quantité totale de ce produit susceptible d'être présente dans
-l'installation étant :
+4. La quantité totale susceptible d'être présente dans l'installation étant :
 
 a) Supérieure ou égale à 150 kg
 
@@ -1013,7 +1010,7 @@ A
 
 3
 
-b) supérieure ou égale à 200 kg, mais inférieure à 1 t
+b) inférieure à 1 t
 
 6
 
@@ -1041,7 +1038,7 @@ A
 
 3
 
-b) supérieure ou égale à 1 t, mais inférieure à 2 t
+b) inférieure à 2 t
 
 6
 
@@ -1069,7 +1066,7 @@ A
 
 3
 
-b) supérieure ou égale à 10 t, mais inférieure à 20 t
+b) inférieure à 20 t
 
 6
 
@@ -1097,7 +1094,7 @@ A
 
 3
 
-b) supérieure ou égale à 5 t, mais inférieure à 50 t
+b) inférieure à 50 t
 
 6
 
@@ -1125,7 +1122,7 @@ A
 
 3
 
-b) supérieure ou égale à 10 t, mais inférieure à 100 t
+b) inférieure à 100 t
 
 6
 
@@ -1178,6 +1175,9 @@ de bis(chlorométhyle), oxyde de chlorométhyle et de méthyle, 1,3-propanesulto
 La quantité totale de l'une de ces substances et mélanges en contenant
 susceptible d'être présente dans l'installation étant :
 
+1. La quantité totale de l'un de ces produits (à des concentrations en poids
+supérieures à 5 %) susceptible d'être présente dans l'installation étant :
+
 a) Supérieure ou égale à 2 t
 
 
@@ -1185,12 +1185,20 @@ AS
 
 6
 
+a) supérieure ou égale à 2 t
+
+10
+
 b) Supérieure ou égale à 400 kg, mais inférieure à 2 t
 
 
 A
 
 3
+
+b) supérieure ou égale à 400 kg, mais inférieure à 2 t
+
+6
 
 c) Supérieure ou égale à 1 kg, mais inférieure à 400 kg
 
@@ -1201,6 +1209,8 @@ D
 sels. La quantité totale de l'un de ces produits susceptible d'être présente
 dans l'installation étant :
 
+2. La quantité totale susceptible d'être présente dans l'installation étant :
+
 a) Supérieure ou égale à 10 kg
 
 
@@ -1208,12 +1218,20 @@ AS
 
 6
 
+a) supérieure ou égale à 10 kg
+
+10
+
 b) Supérieure ou égale à 2 kg, mais inférieure à 10 kg
 
 
 A
 
 3
+
+b) supérieure ou égale à 2 kg, mais inférieure à 10 kg
+
+6
 
 c) Supérieure ou égale à 100 g, mais inférieure à 2 kg
 
@@ -1225,6 +1243,9 @@ D
 La quantité totale de l'un de ces produits susceptible d'être présente dans
 l'installation étant :
 
+3. La quantité totale de l'un de ces produits susceptible d'être présente dans
+l'installation étant :
+
 a) Supérieure ou égale à 100 kg
 
 
@@ -1232,12 +1253,20 @@ AS
 
 6
 
+a) supérieure ou égale à 100 kg
+
+10
+
 b) Supérieure ou égale à 20 kg, mais inférieure à 100 kg
 
 
 A
 
 3
+
+b) supérieure ou égale à 20 kg, mais inférieure à 100 kg
+
+6
 
 c) Supérieure ou égale à 1 kg, mais inférieure à 20 kg
 
@@ -1249,6 +1278,8 @@ D
 La quantité totale de ce produit susceptible d'être présente dans l'installation
 étant :
 
+4. La quantité totale susceptible d'être présente dans l'installation étant :
+
 a) Supérieure ou égale à 150 kg
 
 
@@ -1256,12 +1287,20 @@ AS
 
 6
 
+a) supérieure ou égale à 150 kg
+
+10
+
 b) Supérieure ou égale à 30 kg, mais inférieure à 150 kg
 
 
 A
 
 3
+
+b) supérieure ou égale à 30 kg, mais inférieure à 150 kg
+
+6
 
 c) Supérieure ou égale à 1,5 kg, mais inférieure à 30 kg
 
@@ -1275,6 +1314,9 @@ dinickel), dichlorure de soufre.
 La quantité totale de l'un de ces produits susceptible d'être présente dans
 l'installation étant :
 
+5. La quantité totale de l'un de ces produits susceptible d'être présente dans
+l'installation étant :
+
 a) Supérieure ou égale à 1 t
 
 
@@ -1282,12 +1324,20 @@ AS
 
 6
 
+a) supérieure ou égale à 1 t
+
+10
+
 b) Supérieure ou égale à 200 kg, mais inférieure à 1 t
 
 
 A
 
 3
+
+b) supérieure ou égale à 200 kg, mais inférieure à 1 t
+
+6
 
 c) Supérieure ou égale à 10 kg, mais inférieure à 200 kg
 
@@ -1299,6 +1349,9 @@ D
 La quantité totale de l'un de ces produits susceptible d'être présente dans
 l'installation étant :
 
+6. La quantité totale de l'un de ces produits susceptible d'être présente dans
+l'installation étant :
+
 a) Supérieure ou égale à 1 t
 
 
@@ -1306,12 +1359,20 @@ AS
 
 6
 
+a) supérieure ou égale à 1 t
+
+10
+
 b) Supérieure ou égale à 200 kg, mais inférieure à 1 t
 
 
 A
 
 3
+
+b) supérieure ou égale à 200 kg, mais inférieure à 1 t
+
+6
 
 c) Supérieure ou égale à 10 kg, mais inférieure à 200 kg
 
@@ -1323,6 +1384,9 @@ D
 La quantité totale de l'un de ces produits susceptible d'être présente dans
 l'installation étant :
 
+7. La quantité totale de l'un de ces produits susceptible d'être présente dans
+l'installation étant :
+
 a) Supérieure ou égale à 2 t
 
 
@@ -1330,12 +1394,20 @@ AS
 
 6
 
+a) supérieure ou égale à 2 t
+
+10
+
 b) Supérieure ou égale à 1 t, mais inférieure à 2 t
 
 
 A
 
 3
+
+b) supérieure ou égale à 1 t, mais inférieure à 2 t
+
+6
 
 c) Supérieure ou égale à 50 kg, mais inférieure à 1 t
 
@@ -1347,6 +1419,9 @@ D
 La quantité totale de ce produit susceptible d'être présente dans l'installation
 étant :
 
+8. La quantité totale de ce produit susceptible d'être présente dans
+l'installation étant :
+
 a) Supérieure ou égale à 20 t
 
 
@@ -1354,12 +1429,20 @@ AS
 
 6
 
+a) supérieure ou égale à 20 t
+
+10
+
 b) Supérieure ou égale à 10 t, mais inférieure à 20 t
 
 
 A
 
 3
+
+b) supérieure ou égale à 10 t, mais inférieure à 20 t
+
+6
 
 c) Supérieure ou égale à 1 kg, mais inférieure à 10 t
 
@@ -1371,6 +1454,9 @@ D
 La quantité totale de l'un de ces produits susceptible d'être présente dans
 l'installation étant :
 
+9. La quantité totale de l'un de ces produits susceptible d'être présente dans
+l'installation étant :
+
 a) Supérieure ou égale à 50 t
 
 
@@ -1378,12 +1464,20 @@ AS
 
 6
 
+a) supérieure ou égale à 50 t
+
+10
+
 b) Supérieure ou égale à 5 t, mais inférieure à 50 t
 
 
 A
 
 3
+
+b) supérieure ou égale à 5 t, mais inférieure à 50 t
+
+6
 
 c) Supérieure ou égale à 500 kg, mais inférieure à 5 t
 
@@ -1395,6 +1489,9 @@ D
 La quantité totale de ce produit susceptible d'être présente dans l'installation
 étant :
 
+10. La quantité totale de ce produit susceptible d'être présente dans
+l'installation étant :
+
 a) Supérieure ou égale à 100 t
 
 
@@ -1402,12 +1499,20 @@ AS
 
 6
 
+a) supérieure ou égale à 100 t
+
+10
+
 b) Supérieure ou égale à 10 t, mais inférieure à 100 t
 
 
 A
 
 3
+
+b) supérieure ou égale à 10 t, mais inférieure à 100 t
+
+6
 
 c) Supérieure ou égale à 500 kg, mais inférieure à 10 t
 
@@ -1420,6 +1525,9 @@ calculées en équivalent TCDD, tétraméthylène disulfotétramine.
 La quantité totale de l'un de ces produits susceptible d'être présente dans
 l'installation étant :
 
+11. La quantité totale de l'un de ces produits susceptible d'être présente dans
+l'installation étant :
+
 a) Supérieure ou égale à 1 kg
 
 
@@ -1427,12 +1535,20 @@ AS
 
 6
 
+a) supérieure ou égale à 1 kg
+
+10
+
 b) Supérieure ou égale à 200 g, mais inférieure à 1 kg
 
 
 A
 
 3
+
+b) supérieure ou égale à 200 g, mais inférieure à 1 kg
+
+6
 
 c) Supérieure ou égale à 10 g, mais inférieure à 200 g
 
@@ -1711,7 +1827,8 @@ des substances ou mélanges classés dans une rubriques comportant un seuil AS.
 La quantité de liquides organohalogénés susceptible d'être présente dans
 l'installation étant :
 
-1. La quantité de liquides organohalogénés susceptible d'être présente étant :
+1. La quantité de liquides organohalogénés susceptible d'être présente dans
+l'installation étant :
 
 1. Supérieure à 1 500 l
 
@@ -1884,7 +2001,7 @@ A
 
 3
 
-b) supérieure ou égale à 50 t, mais inférieure à 200 t
+b) inférieure à 200 t
 
 6
 
@@ -2350,7 +2467,9 @@ b) Inférieure à 100 kg dans les autres cas
 
 DC
 
-Nota : (1) Les produits explosifs appartiennent à la classe 1 des marchandises
+Nota :
+
+(1) Les produits explosifs appartiennent à la classe 1 des marchandises
 dangereuses et sont classés en divisions de risque et en groupes de
 compatibilité selon les articles 3 à 9 de l'arrêté du 20 avril 2007 fixant les
 règles relatives à l'évaluation des risques et à la prévention des accidents
