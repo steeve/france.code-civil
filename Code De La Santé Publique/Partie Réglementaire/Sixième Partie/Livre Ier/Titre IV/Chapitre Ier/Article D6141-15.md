@@ -55,7 +55,7 @@ application de l'article L. 6141-2 est fixée comme suit :
 
 26° Centre hospitalier régional de Rennes ;
 
-27° Centre hospitalier régional de la Réunion ;
+27° Centre hospitalier régional de La Réunion ;
 
 28° Centre hospitalier régional de Rouen ;
 
