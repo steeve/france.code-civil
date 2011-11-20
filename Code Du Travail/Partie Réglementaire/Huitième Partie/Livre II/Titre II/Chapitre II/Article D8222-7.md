@@ -10,23 +10,24 @@ d'identification attribué en application de l'article 286 ter du code général
 des impôts. Si le cocontractant n'est pas tenu d'avoir un tel numéro, un
 document mentionnant son identité et son adresse ou, le cas échéant, les
 coordonnées de son représentant fiscal ponctuel en France ; b) Un document
-attestant la régularité de la situation sociale du cocontractant au regard du
-règlement (CEE) n° 1408 / 71 du 14 juin 1971 ou d'une convention internationale
-de sécurité sociale ou, à défaut, une attestation de fourniture de déclarations
-sociales émanant de l'organisme français de protection sociale chargé du
-recouvrement des cotisations sociales incombant au cocontractant et datant de
-moins de six mois ; 2° Lorsque l'immatriculation du cocontractant à un registre
-professionnel est obligatoire dans le pays d'établissement ou de domiciliation,
-l'un des documents suivants : a) Un document émanant des autorités tenant le
-registre professionnel ou un document équivalent certifiant cette inscription ;
-b) Un devis, un document publicitaire ou une correspondance professionnelle, à
-condition qu'y soient mentionnés le nom ou la dénomination sociale, l'adresse
-complète et la nature de l'inscription au registre professionnel ; c) Pour les
-entreprises en cours de création, un document datant de moins de six mois
-émanant de l'autorité habilitée à recevoir l'inscription au registre
-professionnel et attestant de la demande d'immatriculation audit registre ; 3°
-Lorsque le cocontractant emploie des salariés pour accomplir une prestation de
-services d'une durée supérieure à un mois, une attestation sur l'honneur établie
-par ce cocontractant, certifiant de la fourniture à ces salariés de bulletins de
-paie comportant les mentions prévues à l'article R. 3243-1 ou de documents
-équivalents.
+attestant de la régularité de la situation sociale du cocontractant au regard du
+règlement (CE) n° 883/2004 du 29 avril 2004 ou d'une convention internationale
+de sécurité sociale et, lorsque la législation du pays de domiciliation le
+prévoit, un document émanant de l'organisme gérant le régime social obligatoire
+et mentionnant que le cocontractant est à jour de ses déclarations sociales et
+du paiement des cotisations afférentes, ou un document équivalent ou, à défaut,
+une attestation de fourniture des déclarations sociales et de paiement des
+cotisations et contributions de sécurité sociale prévue à l' article L. 243-15
+du code de la sécurité sociale . Dans ce dernier cas, elle doit s'assurer de
+l'authenticité de cette attestation auprès de l'organisme chargé du recouvrement
+des cotisations et contributions sociales ; 2° Lorsque l'immatriculation du
+cocontractant à un registre professionnel est obligatoire dans le pays
+d'établissement ou de domiciliation, l'un des documents suivants : a) Un
+document émanant des autorités tenant le registre professionnel ou un document
+équivalent certifiant cette inscription ; b) Un devis, un document publicitaire
+ou une correspondance professionnelle, à condition qu'y soient mentionnés le nom
+ou la dénomination sociale, l'adresse complète et la nature de l'inscription au
+registre professionnel ; c) Pour les entreprises en cours de création, un
+document datant de moins de six mois émanant de l'autorité habilitée à recevoir
+l'inscription au registre professionnel et attestant de la demande
+d'immatriculation audit registre.
