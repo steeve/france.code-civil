@@ -1,8 +1,7 @@
 Article R4221-1
 ----
-Le prix des acquisitions immobilières faites à l'amiable suivant les règles du
-droit civil ou après exercice du droit de préemption pour le compte des régions
-ou de leurs établissements publics peut être payé au vendeur, après publication
-de l'acte au fichier immobilier, sans l'accomplissement des formalités de purge
-des privilèges et hypothèques inscrits lorsqu'il n'excède pas 7 700 euros pour
-l'ensemble de l'immeuble acquis.
+Les baux et les actes de vente sont passés par le président du conseil régional
+au nom de la région.
+
+Les autorisations d'occupation ou d'utilisation du domaine public régional sont
+délivrées par le président du conseil régional.

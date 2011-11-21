@@ -1,8 +1,11 @@
 Article R3213-6
 ----
-Lorsque le prix d'une des acquisitions visées à l'article R. 3213-5 doit donner
+Lorsque le prix d'une des acquisitions mentionnées à l'article R. 3213-5 donne
 lieu à remploi en valeurs mobilières, les comptables publics remettent les fonds
-à la société de bourse désignée par le vendeur, par contrat ou par autorité de
-justice, pour procéder à l'achat et requérir l'immatriculation des titres acquis
-en remploi. La remise des fonds a lieu sur production d'une attestation de la
-société de bourse certifiant la mission de remploi qui lui a été confiée.
+au prestataire de service d'investissement désigné par le vendeur, par contrat
+ou par autorité de justice, pour procéder à l'achat et requérir
+l'immatriculation des titres acquis en remploi.
+
+La remise des fonds a lieu sur production d'une attestation du prestataire de
+service d'investissement certifiant l'accomplissement de la mission de remploi
+qui lui a été confiée.

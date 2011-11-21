@@ -4,8 +4,8 @@ Le titulaire du droit de préemption doit recueillir l'avis du service des
 domaines sur le prix de l'immeuble dont il envisage de faire l'acquisition dès
 lors que le prix ou l'estimation figurant dans la déclaration d'intention
 d'aliéner ou que le prix que le titulaire envisage de proposer excède le montant
-fixé par l'arrêté du ministre des finances prévu à l'article 3 du décret du 5
-juin 1940 modifié.
+fixé par l'arrêté du ministre chargé du domaine prévu à l'article R. 1211-2 du
+code général de la propriété des personnes publiques.
 
 Dans les zones d'aménagement différé les périmètres provisoires de zone
 d'aménagement différé et dans les secteurs ayant fait l'objet de la délibération

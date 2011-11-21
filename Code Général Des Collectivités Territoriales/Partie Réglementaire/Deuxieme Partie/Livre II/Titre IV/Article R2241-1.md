@@ -1,4 +1,6 @@
 Article R2241-1
 ----
-Dans les cas prévus à l'article L. 2241-3, les comptables publics sont déchargés
-de toute responsabilité par la remise des fonds au notaire rédacteur de l'acte.
+Les baux et les actes de vente sont passés par le maire au nom de la commune.
+
+Les autorisations d'occupation ou d'utilisation du domaine public communal sont
+délivrées par le maire.
