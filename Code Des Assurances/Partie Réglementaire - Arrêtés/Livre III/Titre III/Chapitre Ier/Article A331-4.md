@@ -35,12 +35,12 @@ réassurance cédée ", calculées conformément aux dispositions de l'article A
 331-8 et, s'il y a lieu, le solde débiteur du compte de participation aux
 résultats de l'exercice précédent.
 
-II.-a) Pour les contrats relevant de l'article R. 142-2 et ne relevant pas de
-l'article R. 142-12, le montant de la participation aux bénéfices techniques et
-financiers mentionnée à l'article R. 342-6 est déterminé à partir d'un compte de
-participation aux résultats spécifique relatif aux seules opérations relevant de
-la comptabilité auxiliaire, à l'exclusion des éventuels engagements exprimés en
-unités de compte.
+II.-a) Pour les contrats relevant de l'article R. 142-2 y compris ceux relevant
+de l'article L. 144-2 et ne relevant pas de l'article R. 142-12, le montant de
+la participation aux bénéfices techniques et financiers mentionnée à l'article
+R. 342-6 est déterminé à partir d'un compte de participation aux résultats
+spécifique relatif aux seules opérations relevant de la comptabilité auxiliaire,
+à l'exclusion des éventuels engagements exprimés en unités de compte.
 
 b) Le compte mentionné au a est établi à la date de chaque échéance, qui est au
 moins trimestrielle. Ce compte comporte en recettes :
@@ -105,3 +105,51 @@ pour l'établissement du tarif de chaque adhérent. Elle ne peut être modulée 
 prenant en compte les différences de résultats techniques des comptes des
 participants dont les droits individuels ont été liquidés et de ceux dont les
 droits individuels sont en cours de constitution.
+
+III. - Les modalités d'attribution et de répartition entre les adhérents d'un
+plan relevant de l'article L. 144-2 mais ne relevant pas de l'article L. 142-1
+ou de l'article L. 441-1 des résultats techniques et financiers du plan sont
+déterminées comme suit. Les dispositions du présent article ne s'appliquent pas
+aux supports à capital variable.
+
+a) Pour chaque plan, il est établi un compte de participation aux résultats,
+selon une périodicité au moins annuelle. Ce compte comporte en recettes :
+
+1° Le montant des cotisations versées et les montants transférés au plan ;
+
+2° Les produits nets des placements ;
+
+3° Les éventuelles rétrocessions de commission mentionnées à l'article R.
+144-21.
+
+Il comporte en dépenses :
+
+1° Les charges des prestations versées aux participants et les montants
+transférés par les participants à d'autres plans ;
+
+2° Les charges des provisions techniques, y compris celles résultant d'écarts
+actuariels des provisions mathématiques, avant attribution de participation aux
+résultats ;
+
+3° Les frais prélevés par l'organisme d'assurance mentionnés à l'article R.
+144-25 et, le cas échéant, les frais de fonctionnement du comité de
+surveillance.
+
+Le compte de participation aux résultats comporte en outre les sommes
+correspondant au solde de réassurance cédée calculées conformément à l'article
+A. 331-8.
+
+b) Le montant de la participation aux résultats est le solde créditeur du compte
+de participation aux résultats défini au a.
+
+Lorsque ce compte présente un solde débiteur, ce solde est reporté en dépenses
+du compte de participation aux résultats arrêté à l'échéance suivante.
+
+Les dispositions de la deuxième phrase de l'article A. 331-9 ne s'appliquent pas
+au plan.
+
+c) La revalorisation des engagements de rente ou de capital exprimés en euros
+est déterminée selon un taux identique pour tous les adhérents, qui peut
+toutefois être modulé en prenant en compte les différences de résultats
+techniques des comptes des adhérents dont les droits individuels ont été
+liquidés et de ceux dont les droits individuels sont en cours de constitution.

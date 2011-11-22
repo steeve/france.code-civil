@@ -64,7 +64,19 @@ formalités de résiliation et de transfert ;
 -contrats de groupe à adhésion facultative comportant une clause de
 transférabilité en application de l'article L. 132-23 ou de l'article 108 de la
 loi n° 2003-775 du 21 août 2003 portant réforme des retraites : frais et
-indemnités de transferts.
+indemnités de transferts ;
+
+- plans d'épargne retraite populaire : indication en caractères apparents que
+les sommes versées dans un plan d'épargne retraite populaire donnent lieu à des
+prestations versées sous forme de rente à partir de l'âge prévu de liquidation
+des droits, et qu'un plan ne peut faire l'objet de rachats sauf dans les cas
+prévus à l'article L. 132-23 du code des assurances et au quatrième alinéa du I
+de l'article L. 144-2 ; indication, le cas échéant, de la faculté ouverte par le
+deuxième alinéa du I de l'article L. 144-2 ; indication des dispositions
+législatives et réglementaires qui régissent le fonctionnement du plan ;
+dénomination et siège social du dépositaire du plan ; mention, le cas échéant,
+de l'existence de l'accord de représentation des engagements mentionné au VIII
+de l'article L. 144-2.
 
 g) information sur les primes relatives aux garanties principales et
 complémentaires lorsque de telles informations s'avèrent appropriées ;

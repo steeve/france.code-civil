@@ -27,14 +27,17 @@ unique (ou versements libres) ;
 9 Contrats d'assurance vie ou de capitalisation en unités de compte à primes
 périodiques ;
 
-10 Contrats collectifs relevant de l'article L. 441-1 ;
+10 Contrats collectifs relevant de l'article L. 441-1 mais ne relevant pas des
+articles L. 143-1 et L. 144-2 ;
 
-11 Contrats relevant de l'article L. 144-2 ;
+11 Contrats relevant de l'article L. 144-2 mais ne relevant pas de l'article L.
+143-1 ;
 
-12. Contrats de retraite professionnelle supplémentaire ne relevant pas des
-articles L. 142-1 et L. 441-1 ;
+12. Contrats de retraite professionnelle supplémentaire régis par l'article L.
+143-1 ;
 
-13. Contrats relevant du chapitre II du titre IV du livre Ier ;
+13. Contrats relevant du chapitre II du titre IV du livre Ier mais ne relevant
+pas des articles L. 143-1 et L. 144-2 ;
 
 19 Acceptations en réassurance (vie) ;
 
