@@ -1,7 +1,10 @@
 Article L322-6
 ----
-Les bénéficiaires des contrats emploi-solidarité ne sont pas pris en compte,
-pendant toute la durée du contrat, dans le calcul de l'effectif du personnel des
-organismes dont ils relèvent pour l'application à ces organismes des
-dispositions législatives et réglementaires qui se réfèrent à une condition
-d'effectif minimum de salariés.
+Le contrat d'accompagnement dans l'emploi a pour objet de faciliter l'insertion
+professionnelle des personnes sans emploi rencontrant des difficultés sociales
+et professionnelles particulières d'accès à l'emploi. A cette fin, il comporte
+des actions d'accompagnement professionnel. Il peut, aux fins de développer
+l'expérience et les compétences des salariés, prévoir, par avenant, une période
+d'immersion auprès d'un autre employeur dans le cadre d'un prêt de main-d'œuvre
+à but non lucratif. Un décret détermine la durée et les conditions d'agrément et
+d'exécution de cette période d'immersion.
