@@ -1,6 +1,6 @@
 Article R*121-4-1
 ----
-Sont opérations d'intérêt national, au sens de l'article L. 121-9, les travaux
+Sont opérations d'intérêt national, au sens de l'article L. 121-9-1, les travaux
 relatifs :
 
 a) Aux agglomérations nouvelles régies par le livre III de la cinquième partie
@@ -50,4 +50,7 @@ Bordeaux, Bègles et Floirac dans le périmètre défini par décret en Conseil
 d'Etat (3) ;
 
 n) A l'opération d'aménagement dite d'Alzette-Belval, dans le périmètre défini
-par décret en Conseil d'Etat (6).
+par décret en Conseil d'Etat (6) ;
+
+o) A l'opération d'aménagement dite " Villages Nature " sur la commune de
+Villeneuve-le-Comte dans le périmètre défini par décret en Conseil d'Etat (7).
