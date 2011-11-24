@@ -4,10 +4,9 @@ Le montant de la cotisation annuelle des bénéficiaires des régimes de
 prestations complémentaires de vieillesse institués par la présente section est
 fixé ainsi qu'il suit :
 
-1°) pour les médecins, au titre des exercices 2010 et 2011, à soixante fois la
-valeur au 1er janvier de l'année en cause du tarif de la consultation du médecin
-omnipraticien fixé dans les conditions prévues aux articles L. 162-5 et L.
-162-5-2 ;
+1°) pour les médecins par le décret n° 2011-1644 du 25 novembre 2011 relatif au
+régime des prestations complémentaires de vieillesse des médecins libéraux prévu
+à l' article L. 645-1 du code de la sécurité sociale ;
 
 La cotisation due par les assurés reprenant ou poursuivant une activité relevant
 de l'article L. 643-6 est fixée, en application de la seconde phrase du premier
