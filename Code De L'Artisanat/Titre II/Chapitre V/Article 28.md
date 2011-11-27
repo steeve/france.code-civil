@@ -1,20 +1,29 @@
 Article 28
 ----
-Le budget et les comptes des chambres de métiers et de l'artisanat de région
-sont établis dans les formes prescrites par le ministre chargé de l'artisanat et
-le ministre chargé du budget.
+I. - Le budget et les comptes des chambres de métiers et de l'artisanat de
+région sont établis dans les formes prescrites par le ministre chargé de
+l'artisanat et le ministre chargé du budget.
 
 Ils doivent faire apparaître dans des sections distinctes les dépenses et les
 recettes ordinaires et celles qui, par leur nature, ne sont pas susceptibles de
 se reproduire tous les ans.
 
-Le budget est voté par l'assemblée générale de la chambre de métiers et de
-l'artisanat avant le 1er décembre de chaque année. Il n'est exécutoire qu'après
-approbation expresse de l'autorité de tutelle, laquelle en transmet un
-exemplaire au ministre chargé de l'artisanat.
+Lorsque la chambre de métiers et de l'artisanat de région gère directement un ou
+des centres de formation d'apprentis, elle présente séparément le budget de ces
+centres, le budget des autres services de la chambre ainsi que le budget tous
+services confondus.
+
+II. - Le budget est voté par l'assemblée générale de la chambre de métiers et de
+l'artisanat de région avant le 1er décembre de chaque année. Il n'est exécutoire
+qu'après approbation de l'autorité de tutelle, laquelle en transmet pour
+information un exemplaire au ministre chargé de l'artisanat. L'approbation est
+acquise si cette autorité n'a pas, dans le mois de sa saisine, transmis à la
+chambre sa demande de procéder aux rectifications qu'elle estime nécessaires. La
+réponse à cette demande fait courir un nouveau délai d'approbation ou non du
+budget.
 
 Lorsque l'autorité de tutelle constate la carence de la chambre de métiers et de
-l'artisanat, elle procède suivant le cas à :
+l'artisanat de région, elle procède suivant le cas à :
 
 1° L'établissement d'office du budget de la chambre ;
 
@@ -22,19 +31,3 @@ l'artisanat, elle procède suivant le cas à :
 omises ;
 
 3° L'ordonnancement et au mandatement d'office des dépenses obligatoires.
-
-Chaque année, au cours de sa première assemblée générale ordinaire, la chambre
-de métiers et de l'artisanat adopte le compte de gestion de l'exercice
-précédent.
-
-Dans les six premiers mois de chaque année, le président de la chambre de
-métiers et de l'artisanat adresse au préfet, pour approbation définitive, le
-compte de gestion de l'année précédente, accompagné des pièces de comptabilité
-ainsi que, le cas échéant, le tableau d'amortissement des emprunts contractés
-par la chambre de métiers et de l'artisanat.
-
-Lorsque la chambre de métiers et de l'artisanat gère directement un centre de
-formation d'apprentis, elle présente séparément le budget et les comptes de ce
-service, le budget et les comptes de gestion des services de la chambre hors
-centre de formation d'apprentis ainsi que le budget et les comptes tous services
-confondus.
