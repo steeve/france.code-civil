@@ -1,54 +1,35 @@
 Article D442
 ----
-La commission permanente donne son avis sur les projets des budgets et les
-comptes financiers de l'office national, des offices départementaux et des
-établissements y rattachés.
+La commission permanente délibère sur :
 
-Elle accepte ou refuse les dons et legs faits à l'office. Toutefois, lorsqu'ils
-sont grevés de charges, conditions ou affectations immobilières, l'autorisation
-d'accepter ou de refuser et, lorsqu'ils donnent lieu à des réclamations des
-familles, l'autorisation d'accepter est donnée par décret rendu en Conseil
-d'Etat.
+- les questions pour lesquelles délégation lui est donnée par le conseil
+d'administration, à l'exception du vote du budget et de l'approbation du compte
+financier ;
 
-Elle statue :
+- l'acceptation des dons et legs, à l'exception :
 
-Sur les recours formés contre les décisions des offices départementaux ;
+a) des dons et legs grevés de charges, conditions ou affectations immobilières ;
 
-Sur l'aliénation des biens et valeurs dans la limite des recettes prévues au
-budget ;
+b) des dons et legs donnant lieu à réclamation des familles ;
 
-Sur le placement des sommes provenant de libéralités faites à l'office national
-;
+- l'aliénation des biens et valeurs dans la limite des recettes prévues à cette
+fin au budget.
 
-Sur les adjudications et marchés à traiter lorsque l'importance de chacun d'eux
-dépasse 762,25 euros ;
+Elle donne son avis sur les projets de textes réglementaires modifiant
+l'organisation et le fonctionnement de l'office national. Elle prépare un projet
+de règlement qui est arrêté par le conseil d'administration.
 
-Sur l'acceptation des baux et locations d'immeubles lorsque l'importance
-annuelle de chacun de ces contrats dépasse 152,45 euros et que leur durée
-dépasse neuf ans ;
+La commission permanente examine, en outre, toute question qui lui est soumise
+par le ministre chargé des anciens combattants et victimes de guerre ou le
+directeur général de l'office national. Elle examine également toute question
+dont la moitié des membres du conseil d'administration demande l'examen, formule
+ses avis au ministre chargé des anciens combattants et victimes de guerre et
+peut le saisir de ses propositions.
 
-Sur l'attribution des secours au personnel ;
+Le président de la commission permanente rend compte au conseil d'administration
+lors de sa plus proche séance de toutes les questions examinées par la
+commission.
 
-Sur l'attribution des subventions aux oeuvres sociales instituées à l'intention
-des agents des services publics ou de leurs familles ;
-
-Sur l'attribution des subventions aux offices départementaux et aux
-établissements y rattachés ;
-
-Sur la fixation du prix de journée d'hébergement et de séjour des ressortissants
-de l'office national dans les établissements privés ;
-
-Sur les demandes de bourses et de secours d'études, subventions ou d'avances
-formulées par des particuliers pour les institutions de toutes sortes, oeuvres,
-associations, etc., qui prêtent leur concours sous quelque forme que ce soit,
-pour l'amélioration du sort des ressortissants de l'office national ou la
-sauvegarde de leurs intérêts matériels et moraux ;
-
-Sur l'emploi des revenus et intérêts des valeurs, des capitaux et sommes
-provenant des dons et legs et des libéralités au bénéfice des ressortissants de
-l'office national et des collectivités.
-
-La commission permanente peut, en outre, être saisie par l'un de ses membres de
-toutes les questions de principe ayant trait au fonctionnement administratif et
-financier de l'office national, des offices départementaux et des établissements
-qui relèvent de l'office national.
+La commission permanente donne son avis sur les projets des budgets principal et
+annexes et le compte financier de l'office national et des établissements qui
+lui sont rattachés.

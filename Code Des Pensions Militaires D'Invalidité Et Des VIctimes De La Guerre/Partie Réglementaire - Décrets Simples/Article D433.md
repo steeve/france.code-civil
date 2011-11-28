@@ -1,5 +1,5 @@
 Article D433
 ----
 L'office national est administré, sous l'autorité du ministre chargé des anciens
-combattants et victimes de guerre, par un conseil d'administration et par un
-directeur général.
+combattants et victimes de guerre, par un conseil d'administration assisté du
+directeur général de l'office national.

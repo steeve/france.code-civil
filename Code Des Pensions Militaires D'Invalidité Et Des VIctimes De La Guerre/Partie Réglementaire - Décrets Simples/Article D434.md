@@ -1,86 +1,81 @@
 Article D434
 ----
-Présidé par le ministre chargé des anciens combattants, le conseil
-d'administration comprend soixante-dix membres.
+Présidé par le ministre chargé des anciens combattants et victimes de guerre, le
+conseil d'administration comprend quarante membres :
 
-Sont nommés pour quatre ans, par le ministre chargé des anciens combattants,
-dans les conditions ci-après : 1° Premier collège
+1° Premier collège :
 
-Seize membres, sur proposition des assemblées, administrations ou organismes
-dont ils relèvent :
+Huit membres représentant les assemblées et les administrations dont ils
+relèvent, pour une durée de quatre ans :
 
--un membre de l'Assemblée nationale ;
+a) Deux membres désignés par le président de leur assemblée respective :
 
--un membre du Sénat ;
+- un membre de l'Assemblée nationale ;
 
--un membre du Conseil économique, social et environnemental ;
+- un membre du Sénat ;
 
--un membre du Conseil d'Etat ;
+b) Six membres représentant l'Etat :
 
--le secrétaire général de l'ordre de la Légion d'honneur ;
+- le secrétaire général pour l'administration du ministère de la défense ou son
+représentant ;
 
--le secrétaire général de l'ordre de la Libération ;
+- le directeur de la mémoire, du patrimoine et des archives du ministère de la
+défense ou son représentant ;
 
--un représentant du ministre de la défense ;
+- le directeur du budget ou son représentant ;
 
--un représentant du ministre chargé du budget ;
+- le secrétaire général du ministère chargé de l'intérieur ou son représentant ;
 
--un représentant du ministre chargé des affaires sociales ;
+- le directeur général de l'enseignement scolaire ou son représentant ;
 
--un représentant du ministre de l'intérieur ;
+- le directeur des Français à l'étranger et de l'administration consulaire ou
+son représentant ;
 
--un représentant du ministre de l'éducation nationale ;
+2° Deuxième collège :
 
--un représentant du ministre des affaires étrangères ;
+Vingt-quatre membres représentant les anciens combattants et victimes de guerre
+choisis parmi les catégories de ressortissants énumérées au 6° de l'article D.
+432 ci-dessus et réparties dans les conditions fixées par un arrêté du ministre
+chargé des anciens combattants et victimes de guerre ;
 
--un représentant du ministre chargé de la culture ;
+3° Troisième collège :
 
--un représentant du ministre chargé de l'outre-mer ;
+Six membres représentant les fondations et les associations nationales qui
+œuvrent pour les missions mémorielles et la citoyenneté, dont la liste est fixée
+par arrêté du ministre chargé des anciens combattants et victimes de guerre ;
 
--un représentant d'une association représentative des maires de France ;
+4° Les représentants du personnel :
 
--un représentant d'une association représentative des présidents de conseil
-général. 2° Deuxième collège
+Deux représentants du personnel de l'office national.
 
-Quarante membres représentant les anciens combattants et victimes de guerre
-choisis parmi les catégories de ressortissants énumérées à l'article D. 432 (6°)
-ci-dessus réparties dans les conditions fixées par un arrêté du ministre chargé
-des anciens combattants. 3° Troisième collège
+Les membres du conseil d'administration appartenant au deuxième collège sont
+nommés pour quatre ans, par le ministre chargé des anciens combattants et
+victimes de guerre, sur proposition des associations nationales qui regroupent
+les catégories statutaires des ressortissants qu'elles représentent, après avis
+du directeur général de l'office national. A cet effet, elles proposent au
+ministre chargé des anciens combattants et victimes de guerre une candidature
+pour chacune des catégories de ressortissants énumérées au 6° de l'article D.
+432 ci-dessus, qu'elles regroupent.
 
-Quatorze membres représentant les associations nationales les plus
-représentatives qui oeuvrent pour la sauvegarde et le développement du lien
-entre le monde combattant et la nation, et les associations représentant les
-titulaires de décorations dont la liste est fixée par un arrêté du ministre
-chargé des anciens combattants.
+Les membres du conseil d'administration faisant partie du troisième collège sont
+nommés pour quatre ans, par le ministre chargé des anciens combattants et
+victimes de guerre, sur proposition des fondations ou associations nationales
+qui œuvrent pour les missions mémorielles et la citoyenneté, après avis du
+directeur général de l'office national. A cet effet, chacune propose une
+candidature au ministre chargé des anciens combattants et victimes de guerre.
 
-Les ministres désignent leur représentant au premier collège au moins quinze
-jours avant la réunion des commissions visées à l'article D. 436 bis ci-après.
+Pour la représentation du personnel, il est attribué un siège à chacune des deux
+organisations syndicales arrivées en tête aux élections professionnelles.
 
-Les membres du conseil d'administration relevant du deuxième collège sont nommés
-sur proposition des associations nationales qui regroupent les catégories
-statutaires des ressortissants qu'elles représentent.A cet effet, elles
-proposent au ministre deux candidatures pour chacune des catégories de
-ressortissants énumérées à l'article D. 432 (6°) ci-dessus.
+En cas de décès ou de démission de membres du conseil appartenant aux deuxième
+et troisième collèges, le ministre chargé des anciens combattants et victimes de
+guerre pourvoit à leur remplacement selon la procédure de nomination définie au
+présent article. Les membres ainsi désignés siègent pour la durée du mandat
+restant à courir.
 
-Les membres du conseil d'administration relevant du troisième collège sont
-nommés sur proposition des organismes, institutions ou associations compétents,
-après avis du directeur général de l'Office national des anciens combattants et
-victimes de guerre.A cet effet, ils proposent au ministre deux candidatures pour
-chacune des catégories qu'elles représentent.
-
-Lors du décès ou de la démission de membres du conseil, le ministre chargé des
-anciens combattants peut pourvoir à leur remplacement. Pour ce qui est des
-représentants des anciens combattants et victimes de guerre, il choisit les
-remplaçants parmi les candidats proposés par les associations au titre des
-deuxième et troisième collèges. Les administrateurs ainsi désignés siègent pour
-la durée du mandat restant à courir.
-
-Sur proposition du président, et en fonction des questions inscrites à l'ordre
-du jour, le conseil d'administration peut admettre en son sein les représentants
-des personnels de l'office national à titre d'observateurs, avec voix
-consultative. Ils n'assistent à la séance du conseil que pour la seule partie
-les concernant.
-
-Les observateurs sont désignés par le ministre chargé des anciens combattants,
-sur proposition des organisations représentatives des personnels de l'office
-national.
+5° Des experts sont nommés par le ministre chargé des anciens combattants et
+victimes de guerre, sur proposition du directeur général de l'office national.
+Au nombre de cinq maximum, dont le représentant de l'Association des professeurs
+d'histoire et de géographie, ils siègent, avec voix consultative et de façon
+permanente, au sein de la commission mémoire et solidarité et en séance plénière
+du conseil d'administration.

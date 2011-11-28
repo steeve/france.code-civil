@@ -9,31 +9,41 @@ décret n° 53-1227 du 10 décembre 1953 relatif à la réglementation comptable
 62-1587 du 29 décembre 1962 portant réglementation générale sur la comptabilité
 publique.
 
-Il délibère notamment sur :
+Sous réserve des dispositions de l'article D. 442, il délibère notamment sur :
 
-1° Le budget général de l'office national, comprenant un budget principal et, en
+1. Les conditions générales d'organisation et de fonctionnement de
+l'établissement.
+
+2. Les projets de contrats pluriannuels avec l'Etat.
+
+3. Les programmes généraux d'activité et d'investissement.
+
+4. Le budget général de l'office national, comprenant un budget principal et, en
 application des articles L. 312-1, R. 314-3 à R. 314-63, R. 314-78 et R. 314-79
-du code de l'action sociale et des familles, des budgets annexes ;
+du code de l'action sociale et des familles, des budgets annexes.
 
-2° Les décisions modificatives du budget, présentées dans les mêmes formes que
-le budget primitif ;
+5. Les décisions modificatives du budget, présentées dans les mêmes formes que
+le budget primitif.
 
-3° Le compte financier ;
+6. Le compte financier.
 
-4° La répartition entre les associations des subventions destinées à l'action
-sociale ;
+7. La répartition entre les associations des subventions destinées à l'action
+sociale.
 
-5° Le placement des capitaux et revenus provenant de libéralités faites à
+8. Le placement des capitaux et revenus provenant de libéralités faites à
 l'office national.
+
+9. Les transactions.
 
 Il statue, en appel, sur les recours formés contre les décisions rendues, à
 l'échelon départemental, en matière d'aide aux ressortissants. Il peut, à cet
 effet, donner délégation à certains de ses membres.
 
 D'une manière générale, il peut être appelé à donner son avis sur les affaires
-qui lui sont renvoyées soit par le ministre, soit par le directeur.
+qui lui sont renvoyées soit par le ministre chargé des anciens combattants et
+victimes de guerre, soit par le directeur général de l'office national.
 
 Sous réserve des dispositions des articles du code de l'action sociale et des
-familles cités au 1° du présent article, les délibérations et les décisions du
+familles cités au 4 du présent article, les délibérations et les décisions du
 conseil d'administration sont exécutoires si, dans un délai de vingt jours,
 l'autorité de tutelle n'y a pas fait opposition.
