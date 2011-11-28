@@ -1,8 +1,8 @@
 Article R811-37
 ----
-La demande de retrait de la liste des administrateurs judiciaires est adressée
-par lettre recommandée avec demande d'avis de réception au secrétaire de la
-commission. Elle est accompagnée :
+La demande de retrait de la liste des administrateurs judiciaires présentée par
+un administrateur judiciaire est adressée par lettre recommandée avec demande
+d'avis de réception au secrétaire de la commission. Elle est accompagnée :
 
 1° D'une attestation du commissaire aux comptes qui assure le contrôle de la
 comptabilité spéciale de l'administrateur judiciaire certifiant que l'ensemble
