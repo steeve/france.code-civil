@@ -14,8 +14,10 @@ naturels au sens du livre troisième du présent code. A défaut de réponse dan
 délai de deux mois à compter de la réception de la demande d'avis, celui-ci est
 réputé favorable ;
 
-2° Soumis à enquête publique dans les conditions fixées aux articles R. 123-7 à
-R. 123-23. L'enquête est organisée sur le territoire des communes littorales
-directement intéressées par le projet. Les directions départementales de
-l'équipement et les directions départementales des affaires maritimes
-territorialement compétentes pour le parc figurent parmi les lieux d'enquête.
+2° Soumis à enquête publique par le préfet du département mentionné à l'article
+R. 334-27. L'enquête est organisée sur le territoire des communes littorales
+directement intéressées par le projet. Les directions départementales des
+territoires et de la mer et les directions interrégionales de la mer ou,
+outre-mer, les directions de l'environnement, de l'aménagement et du logement et
+les directions de la mer, territorialement compétentes figurent parmi les lieux
+d'enquête.
