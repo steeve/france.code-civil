@@ -1,6 +1,9 @@
 Article R332-2
 ----
-Le préfet auquel les informations ont été transmises peut les communiquer aux
-fédérations sportives agréées et aux associations de supporters agréées en
-application de l'article L. 332-17. Les fédérations les transmettent sans délai
-aux groupements sportifs affiliés et aux ligues professionnelles intéressés.
+Le préfet auquel les informations ont été transmises les communique, à
+l'exclusion du domicile, aux fédérations sportives agréées, associations
+sportives et sociétés sportives qui sont concernées par la peine complémentaire
+prononcée. Les fédérations les transmettent sans délai aux ligues
+professionnelles intéressées.
+
+Le préfet peut communiquer ces informations aux associations de supporters.
