@@ -1,8 +1,6 @@
 Article L2564-28
 ----
-Un règlement des pompes funèbres applicable à Mayotte est établi par arrêté du
-représentant de l'Etat à Mayotte, après avis de l'association des maires de
-Mayotte. Il définit les modalités d'information des familles, les obligations
-des régies et des entreprises ou associations habilitées à fournir les
-prestations énumérées à l'article L. 2572-26 et les conditions de l'habilitation
-prévue à cet article, sous réserve des dispositions de l'article L. 2572-29.
+Dans toutes les communes de Mayotte où une opération de premier numérotage est
+réalisée, la moitié du coût de l'opération, si celle-ci est terminée avant le 31
+décembre 2012, fait l'objet d'une compensation financière sous la forme d'une
+dotation exceptionnelle versée par l'Etat.

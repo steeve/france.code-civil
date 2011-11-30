@@ -1,13 +1,6 @@
 Article L2564-11
 ----
-I.-Les articles L. 2123-26 et L. 2123-29 sont applicables aux communes de
-Mayotte.
-
-II.-Pour l'application de l'article L. 2123-26, les mots : " du régime général
-de la sécurité sociale " sont remplacés par les mots : " du régime d'assurance
-vieillesse des salariés et assimilés de droit privé de Mayotte ".
-
-III.-Pour l'application de l'article L. 2123-29, les mots : " des articles L.
-2123-26 à L. 2123-28 " sont remplacés par les mots :
-
-" de l'article L. 2123-26 ".
+Pour l'application à Mayotte de l'article L. 2223-20, la première phrase du
+premier alinéa est remplacée par la phrase suivante : " Le règlement des pompes
+funèbres applicable à Mayotte est établi par arrêté du représentant de l'Etat à
+Mayotte, après avis de l'association des maires de Mayotte. "

@@ -1,4 +1,7 @@
 Article L2564-26
 ----
-Les articles L. 2223-1 à L. 2223-3, L. 2223-5 à L. 2223-12 sont applicables aux
-communes de Mayotte.
+Jusqu'au 31 décembre 2013, par dérogation à l'article L. 2334-29, le montant de
+la dotation spéciale pour le logement des instituteurs de Mayotte est calculé en
+multipliant le nombre d'instituteurs concernés de Mayotte par le montant
+unitaire de la dotation spéciale. Il est imputé sur la première part de la
+dotation spéciale et est attribué au Département.

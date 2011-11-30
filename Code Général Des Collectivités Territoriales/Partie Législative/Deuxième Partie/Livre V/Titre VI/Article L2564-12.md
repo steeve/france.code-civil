@@ -1,7 +1,5 @@
 Article L2564-12
 ----
-I.-Les articles L. 2123-31 à L. 2123-33 sont applicables aux communes de
-Mayotte.
-
-II.-Pour l'application de l'article L. 2123-32, après les mots : " selon les
-tarifs appliqués " sont ajoutés les mots : " à Mayotte ".
+Pour l'application à Mayotte de l'article L. 2223-21, la référence au règlement
+national des pompes funèbres est remplacée par la référence au règlement des
+pompes funèbres applicable à Mayotte.

@@ -1,35 +1,19 @@
 Article L2564-27
 ----
-Le service extérieur des pompes funèbres est une mission de service public
-comprenant :
+Les communes de Mayotte perçoivent en 2012 et 2013 une dotation spéciale de
+construction et d'équipement des établissements scolaires.
 
-1° Le transport des corps avant et après mise en bière ;
+Le montant de cette dotation est fixé à 10 682 774 € pour l'année 2012. La
+dotation est indexée l'année suivante sur le taux d'évolution du nombre d'élèves
+scolarisés dans les écoles préélémentaires et élémentaires constaté entre
+l'antépénultième année et l'avant-dernière année précédant l'année de son
+versement.
 
-2° L'organisation des obsèques ;
+La dotation est répartie entre les communes par arrêté du représentant de l'Etat
+à Mayotte, au prorata du nombre d'élèves scolarisés dans chaque commune.
 
-3° Les soins de conservation ;
-
-4° La fourniture des housses, des cercueils et de leurs accessoires intérieurs
-et extérieurs ainsi que des urnes cinéraires ;
-
-5° Alinéa supprimé
-
-6° La gestion et l'utilisation des chambres funéraires ;
-
-7° La fourniture des corbillards et des voitures de deuil ;
-
-8° La fourniture de personnel et des objets et prestations nécessaires aux
-obsèques, inhumations, exhumations et crémations, à l'exception des plaques
-funéraires, emblèmes religieux, fleurs, travaux divers d'imprimerie et de la
-marbrerie funéraire.
-
-Cette mission peut être assurée par les communes, directement ou par voie de
-gestion déléguée. La commune peut ne déléguer qu'une partie des composantes du
-service extérieur des pompes funèbres visées au présent article. Les communes ou
-leurs délégataires ne bénéficient d'aucun droit d'exclusivité pour l'exercice de
-cette mission. Elle peut être également assurée par toute autre entreprise ou
-association habilitée par arrêté du représentant de l'Etat à Mayotte.
-
-Les modalités d'exécution du service extérieur des pompes funèbres peuvent faire
-l'objet d'une convention avec un syndicat mixte ou la collectivité
-départementale.
+Lorsque la commune a délégué la compétence de construction et d'entretien des
+établissements scolaires à un établissement public de coopération intercommunale
+ou à un syndicat mixte qui ne comprend que des collectivités territoriales, le
+produit de la dotation est reversé à cet établissement public ou à ce syndicat
+par la commune.

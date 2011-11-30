@@ -1,9 +1,9 @@
 Article L2564-17
 ----
-Pour l'application aux communes de Mayotte de l'article L. 2143-3 :
+Pour l'application à Mayotte de l'article L. 2224-8 :
 
-1° Les mots : " 5 000 habitants " sont remplacés par les mots : " 10 000
-habitants " ;
+1° Au deuxième alinéa du I, la référence à l'année 2013 est remplacée par la
+référence à l'année 2015 ;
 
-2° Les mots : " au conseil départemental consultatif des personnes handicapées "
-sont supprimés.
+2° Au cinquième alinéa du III, la date du 31 décembre 2012 est remplacée par la
+date du 31 décembre 2018.

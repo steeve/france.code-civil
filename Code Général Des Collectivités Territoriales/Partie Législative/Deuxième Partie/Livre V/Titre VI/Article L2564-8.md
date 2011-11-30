@@ -1,8 +1,3 @@
 Article L2564-8
 ----
-I.-Les articles L. 2123-12 à L. 2123-16 sont applicables aux communes de
-Mayotte.
-
-II.-Pour l'application de l'article L. 2123-14-1, après les mots : " dans les
-conditions prévues par l'article L. 5211-17 " sont ajoutés les mots : " tel que
-rendu applicable à Mayotte par l'article L. 5832-6 ".
+L'article L. 2123-21 n'est pas applicable à Mayotte.

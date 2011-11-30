@@ -1,23 +1,34 @@
 Article L5832-2
 ----
-I.-Les articles L. 5211-1, L. 5211-2, L. 5211-4 et L. 5211-4-1 sont applicables
-à Mayotte.
+I.-Les dispositions du chapitre V du titre Ier du livre II de la présente partie
+ne sont pas applicables à Mayotte.
 
-II.-L'article L. 5211-3 est applicable à compter du renouvellement des conseils
-municipaux en 2007.
+II.-Sont applicables à Mayotte à compter du 1er janvier 2014 :
 
-III.-Pour l'application de l'article L. 5211-4-1 :
+1° L'article L. 5210-4 ;
 
-1° Au deuxième alinéa du I, les mots : " les fonctionnaires territoriaux et
-agents territoriaux non titulaires " sont remplacés par les mots : " les
-fonctionnaires de Mayotte, les agents titulaires ou non qui ont vocation à
-devenir fonctionnaire de Mayotte en application de l'article 45 de l'ordonnance
-n° 96-782 du 5 septembre 1996 portant statut général des fonctionnaires de la
-collectivité départementale, des communes et des établissements publics de
-Mayotte, ainsi que les agents communaux non titulaires " ;
+2° L'article L. 5211-9-2 ;
 
-2° Au quatrième alinéa du I : les mots : " des fonctionnaires territoriaux "
-sont remplacés par les mots : " des fonctionnaires de Mayotte ", et après les
-mots : " dans le respect des conditions de statut et d'emploi fixées par ", la
-fin de la phrase est remplacée par les mots : " par l'ordonnance du 5 septembre
-1996 précitée ".
+3° Les articles L. 5211-28 à L. 5211-35-1 ;
+
+4° Les articles L. 5211-40 et L. 5211-40-1 ;
+
+5° Les articles L. 5211-41 à L. 5211-41-3 ;
+
+6° Les articles L. 5211-57 et L. 5211-59 ;
+
+7° Les deuxième et troisième alinéas de l'article L. 5212-20 ;
+
+8° Les articles L. 5212-24 à L. 5212-24-2 ;
+
+9° Les articles L. 5214-1 à L. 5214-29 ;
+
+10° Les articles L. 5216-1 à L. 5216-10 ;
+
+11° Les articles L. 5217-1 à L. 5217-19.
+
+III.-Pour l'application à Mayotte du premier alinéa de l'article L. 5216-10, les
+mots : " la publication de la loi n° 99-586 du 12 juillet 1999 relative au
+renforcement et à la simplification de la coopération intercommunale " sont
+remplacés par les mots : " la date de création de la communauté d'agglomération
+".

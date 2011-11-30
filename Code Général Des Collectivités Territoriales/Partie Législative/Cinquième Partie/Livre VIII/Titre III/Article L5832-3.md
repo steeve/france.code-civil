@@ -1,19 +1,30 @@
 Article L5832-3
 ----
-I.-L'article L. 5211-5 à l'exception du dernier alinéa du I est applicable à
-Mayotte.
+I.-Les articles L. 5211-42 à L. 5211-45 sont applicables à Mayotte sous réserve
+des adaptations prévues aux II et III.
 
-II.-Le dernier alinéa du I de l'article L. 5211-5 est applicable à Mayotte à
-compter de la date d'entrée en vigueur du code général des impôts à Mayotte
-prévue par l'article 68 de la loi n° 2001-616 du 11 juillet 2001.
+II.-Pour l'application de l'article L. 5211-43 :
 
-III.-Pour l'application de l'article L. 5211-5 :
+1° Au 1°, " 40 % " est remplacé par " 60 % " ;
 
-1° Au premier alinéa du I, les mots : " lorsque les communes font partie du même
-département ou par arrêté conjoint des représentants de l'Etat dans les
-départements concernés dans le cas contraire " sont supprimés ;
+2° Le 2° n'est pas applicable ;
 
-2° Dans la première phrase du II, les mots : " dans le ou les départements
-concernés " sont supprimés ;
+3° Au 3°, " 5 % " est remplacé par " 20 % " ;
 
-3° Au 2° du II, les mots : " ou d'une communauté urbaine " sont supprimés.
+4° Au 4°, " 10 % " est remplacé par " 20 % " ;
+
+5° Le 5° n'est pas applicable ;
+
+6° A la dernière phrase de l'avant-dernier alinéa, les mots : " des
+représentants des établissements publics de coopération intercommunale à
+fiscalité propre mentionnés au 2° et celle " sont supprimés.
+
+III.-Le second alinéa de l'article L. 5211-45 est ainsi rédigé :
+
+" La commission départementale de la coopération intercommunale, consultée par
+le représentant de l'Etat dans le département sur toute demande de retrait d'un
+syndicat de communes en application des articles L. 5212-29, L. 5212-29-1 et L.
+5212-30, ou d'une communauté de communes en application de l'article L. 5214-26,
+est composée du quart des membres élus par le collège visé au 1° de l'article L.
+5211-43 et du quart des membres élus par le collège visé au 3° de ce même
+article. "
