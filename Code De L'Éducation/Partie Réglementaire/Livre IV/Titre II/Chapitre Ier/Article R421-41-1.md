@@ -12,4 +12,4 @@ désignation. Il porte la composition du conseil pédagogique à la connaissance
 la communauté éducative par voie d'affichage.
 
 En cas d'absence ou d'empêchement du chef d'établissement, le conseil
-pédagogique est présidé par son adjoint.
+pédagogique est présidé par le chef d'établissement adjoint.

@@ -1,12 +1,12 @@
 Article R421-14
 ----
 Le conseil d'administration des collèges et des lycées comprend : 1° Le chef
-d'établissement, président ; 2° L'adjoint au chef d'établissement ou, le cas
+d'établissement, président ; 2° Le chef d'établissement adjoint ou, le cas
 échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité
-d'adjoints ; 3° Le gestionnaire de l'établissement ; 4° Le conseiller principal
-d'éducation le plus ancien ; 5° Le directeur adjoint chargé de la section
-d'éducation spécialisée dans les collèges, le chef des travaux dans les lycées ;
-6° Un représentant de la collectivité territoriale de rattachement ; 7° Trois
+d'adjoints ; 3° L'adjoint gestionnaire ; 4° Le conseiller principal d'éducation
+le plus ancien ; 5° Le directeur adjoint chargé de la section d'éducation
+spécialisée dans les collèges, le chef des travaux dans les lycées ; 6° Un
+représentant de la collectivité territoriale de rattachement ; 7° Trois
 représentants de la commune siège de l'établissement ou, lorsqu'il existe un
 groupement de communes, un représentant du groupement de communes et deux
 représentants de la commune siège ; 8° Une personnalité qualifiée, ou deux
