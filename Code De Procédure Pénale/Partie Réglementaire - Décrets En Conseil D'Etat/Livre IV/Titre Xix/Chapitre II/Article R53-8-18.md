@@ -13,5 +13,5 @@ suspendue sans que cette suspension ait d'incidence sur la durée de
 l'inscription de la personne dans le fichier.
 
 Si la personne établit à nouveau sa résidence sur le territoire national, elle
-est tenue de se présenter pour justifier de sa nouvelle adresse dans un délai de
-quinze jours au plus tard, conformément au 2° de l'article 706-53-5.
+est tenue de signaler son changement d'adresse dans un délai de quinze jours au
+plus tard, conformément au 2° de l'article 706-53-5.

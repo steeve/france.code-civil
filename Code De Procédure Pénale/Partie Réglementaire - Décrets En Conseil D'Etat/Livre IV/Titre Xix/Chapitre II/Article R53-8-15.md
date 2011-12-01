@@ -13,8 +13,8 @@ Le justificatif est également remis en personne par l'intéressé dans les quin
 jours suivant la date à laquelle la notification des obligations lui a été
 donnée ou adressée, sauf si cette notification intervient moins de deux mois
 avant le premier jour du mois anniversaire ou sauf si l'intéressé, en raison
-d'une précédente inscription dans le fichier, est déjà tenu à une obligation de
-présentation.
+d'une précédente inscription dans le fichier, est déjà tenu de justifier de son
+adresse.
 
 Si le condamné est tenu à une obligation de présentation mensuelle, celle-ci
 doit intervenir dans les quinze premiers jours de chaque mois, le condamné
