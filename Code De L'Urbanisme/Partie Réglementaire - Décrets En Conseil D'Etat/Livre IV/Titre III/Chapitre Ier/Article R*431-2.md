@@ -21,3 +21,8 @@ chapitre Ier du titre Ier du livre Ier du code de la construction et de
 l'habitation et notamment, lorsque la construction y est soumise, des règles
 d'accessibilité fixées en application de l'article L. 111-7 de ce code et de
 l'obligation de respecter ces règles.
+
+Les demandeurs d'un permis de construire sont tenus de recourir à un architecte
+pour les projets de travaux sur construction existante conduisant la surface de
+plancher de l'ensemble à dépasser l'un des plafonds fixés par le présent
+article.

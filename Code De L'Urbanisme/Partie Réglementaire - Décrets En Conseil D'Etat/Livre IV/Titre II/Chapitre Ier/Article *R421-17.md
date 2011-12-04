@@ -29,8 +29,14 @@ supprimer un élément, qu'une délibération du conseil municipal, prise après
 enquête publique, a identifié comme présentant un intérêt patrimonial ou
 paysager ;
 
-f) Les travaux ayant pour effet la création d'une surface hors oeuvre brute
-supérieure à deux mètres carrés et inférieure ou égale à vingt mètres carrés ;
+f) Les travaux ayant pour effet la création d'une surface hors œuvre brute
+supérieure à deux mètres carrés et inférieure ou égale à vingt mètres carrés. Ce
+dernier seuil est porté à quarante mètres carrés pour les projets situés en zone
+urbaine d'un plan local d'urbanisme ou d'un document d'urbanisme en tenant lieu,
+à l'exclusion de ceux impliquant la création de plus de vingt mètres carrés et
+d'au plus quarante mètres carrés de surface hors œuvre brute lorsque cette
+création conduit au dépassement de l'un des seuils fixé à l'article R. 431-2 du
+présent code ;
 
 g) Les travaux ayant pour effet de transformer plus de dix mètres carrés de
-surface hors oeuvre brute en surface hors oeuvre nette.
+surface hors oeuvre brute en surface hors œuvre nette.
