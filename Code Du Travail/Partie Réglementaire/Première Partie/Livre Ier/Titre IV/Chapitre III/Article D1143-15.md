@@ -1,4 +1,5 @@
 Article D1143-15
 ----
-L'aide de l'Etat prévue à l'article D. 1143-14 n'est pas cumulable avec une aide
-publique ayant un objet identique.
+En cas de non-respect du contrat pour la mixité des emplois et l'égalité
+professionnelle entre les femmes et les hommes par l'entreprise, l'aide de
+l'Etat fait l'objet d'un ordre de reversement.
