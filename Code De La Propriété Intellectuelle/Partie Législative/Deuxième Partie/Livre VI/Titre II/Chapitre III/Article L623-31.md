@@ -8,8 +8,8 @@ contre les actes administratifs ministériels, qui relèvent de la juridiction
 administrative.
 
 La cour d'appel de Paris connaît directement des recours formés contre les
-décisions du comité de la protection des obtentions végétales prises en
-application du présent chapitre.
+décisions de l'organisme mentionné à l'article L. 412-1 prises en application du
+présent chapitre.
 
 Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage,
 dans les conditions prévues aux articles 2059 et 2060 du code civil.

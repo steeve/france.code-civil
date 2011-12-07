@@ -1,13 +1,12 @@
 Article L623-1
 ----
-Pour l'application du présent chapitre est appelée "obtention végétale" la
-variété nouvelle, créée ou découverte :
+Pour l'application du présent chapitre, constitue une " variété " un ensemble
+végétal d'un taxon botanique du rang le plus bas connu qui peut être :
 
-1° Qui se différencie des variétés analogues déjà connues par un caractère
-important, précis et peu fluctuant, ou par plusieurs caractères dont la
-combinaison est de nature à lui donner la qualité de variété nouvelle ;
+1° Défini par l'expression des caractères résultant d'un certain génotype ou
+d'une certaine combinaison de génotypes ;
 
-2° Qui est homogène pour l'ensemble de ses caractères ;
+2° Distingué de tout autre ensemble végétal par l'expression d'au moins un
+desdits caractères ;
 
-3° Qui demeure stable, c'est-à-dire identique à sa définition initiale à la fin
-de chaque cycle de multiplication.
+3° Considéré comme une entité eu égard à son aptitude à être reproduit conforme.
