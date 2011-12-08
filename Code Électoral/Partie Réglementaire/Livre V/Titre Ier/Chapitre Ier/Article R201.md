@@ -12,21 +12,15 @@ Nouvelle-Calédonie", au lieu de : "départementaux" ;
 
 4° "Services du haut-commissaire", au lieu de : "préfecture" ;
 
-5° "Secrétaire général du haut-commissariat", au lieu de :
+5° "Secrétaire général du haut-commissariat", au lieu de : "secrétaire général
+de préfecture" ;
 
-"secrétaire général de préfecture" ;
-
-6° "Subdivision administrative territoriale", au lieu de :
-
-"arrondissement" ;
+6° "Subdivision administrative territoriale", au lieu de : "arrondissement" ;
 
 7° "Service du commissaire délégué de la République", au lieu de :
-
 "sous-préfecture" ;
 
-8° "Commissaire délégué de la République", au lieu de :
-
-"sous-préfet" ;
+8° "Commissaire délégué de la République", au lieu de : "sous-préfet" ;
 
 9° "Province", au lieu de : "département" et de : "cantons" ;
 
@@ -53,4 +47,6 @@ des enquêtes économiques" ;
 17° (Abrogé) ;
 
 18° "Archives de la Nouvelle-Calédonie" ou "archives de la province", au lieu de
-: "archives départementales".
+: "archives départementales" ;
+
+19° "Institut d'émission d'outre-mer" au lieu de : "Banque de France".

@@ -11,18 +11,14 @@ lieu de : "départemental" ;
 
 3° "Services du haut-commissaire", au lieu de : "préfecture" ;
 
-4° "Secrétaire général du haut-commissariat", au lieu de :
-
-"Secrétaire général de préfecture" ;
+4° "Secrétaire général du haut-commissariat", au lieu de : "Secrétaire général
+de préfecture" ;
 
 5° "Services du chef de subdivision administrative", au lieu de :
-
 "sous-préfecture" ;
 
 6° "Subdivision administrative", au lieu de : "arrondissement", et : "chef de
-subdivision administrative", au lieu de :
-
-"sous-préfet" ;
+subdivision administrative", au lieu de : "sous-préfet" ;
 
 7° "Tribunal de première instance", au lieu de : "tribunal d'instance" et de :
 "tribunal de grande instance" ;
@@ -41,13 +37,14 @@ de : "élection des conseillers généraux" ;
 12° "Chambre territoriale des comptes", au lieu de : "chambre régionale des
 comptes" ;
 
-13° "Chef du service des affaires économiques", au lieu de :
-
-"directeur départemental des enquêtes européennes" ;
+13° "Chef du service des affaires économiques", au lieu de : "directeur
+départemental des enquêtes européennes" ;
 
 14° "Un agent désigné par le directeur de l'office des postes et
 télécommunications de la Polynésie française" au lieu de : " Un fonctionnaire
 désigné par le directeur départemental des postes et télécommunications" ;
 
 15° "Archives de la Polynésie française", au lieu de : "archives
-départementales".
+départementales" ;
+
+16° "Institut d'émission d'outre-mer" au lieu de : "Banque de France".
