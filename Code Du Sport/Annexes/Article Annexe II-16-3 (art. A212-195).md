@@ -8,33 +8,25 @@ Le test technique de sécurité vise à vérifier la capacité du candidat à pr
 le risque et à gérer la situation en cas d'accident. Ce test comporte trois
 épreuves qui se déroulent dans l'ordre suivant, chacune étant éliminatoire.
 
-1.1. Epreuve de gestion d'une situation d'urgence
+1.1. Epreuve de gestion d'une situation d'urgence avec un mannequin normalisé en
+plongée libre. Cette épreuve permet de vérifier la capacité du candidat à gérer
+une situation d'accident survenu à un plongeur. Elle consiste, pour le candidat
+équipé de palmes, masque et tuba :
 
-d'un plongeur en difficulté en plongée libre
+- à réaliser, sur un parcours balisé, une nage de deux cents mètres ;
 
-Cette épreuve permet de vérifier la capacité du candidat à gérer une situation
-d'accident survenu à un plongeur équipé de palmes, masque et tuba.
+- à descendre à une profondeur comprise entre quatre et six mètres ;
 
-Elle consiste, pour le candidat équipé de palmes, masque et tuba :
+- à remonter un mannequin normalisé, puis à le remorquer en sécurité, les voies
+respiratoires hors de l'eau, sur une distance de cent mètres.
 
-― à réaliser, sur un parcours balisé, une nage de deux cents mètres ;
+Le port du vêtement isothermique, complété, au choix du candidat, d'une ceinture
+de lest, est obligatoire lorsque la température de l'eau est inférieure à 20° C.
+Lorsque cette température est égale ou supérieure à 20° C, le port du vêtement
+isothermique est laissé au choix du candidat. La durée maximale de cette épreuve
+est de dix minutes.
 
-― à descendre à une profondeur comprise entre quatre et six mètres ;
-
-― à remonter un plongeur simulant l'inconscience équipé de palmes, masque et
-tuba, puis à le remorquer en sécurité, les voies respiratoires hors de l'eau,
-sur une distance de cent mètres.
-
-Le port du vêtement isothermique, complété au choix du candidat, d'une ceinture
-de lest, est obligatoire lorsque la température de l'eau est inférieure à 20 °C.
-Lorsque cette température est égale ou supérieure à 20 °C, le port du vêtement
-isothermique est laissé au choix du candidat.
-
-La durée maximale de cette épreuve est de dix minutes.
-
-1.2. Epreuve de gestion d'une situation d'urgence
-
-d'un plongeur en scaphandre
+1.2. Epreuve de gestion d'une situation d'urgence d'un plongeur en scaphandre
 
 Cette épreuve permet de vérifier la capacité du candidat équipé d'un scaphandre
 autonome à gérer une situation d'accident survenu à un plongeur équipé d'un
@@ -49,9 +41,8 @@ plongeur en difficulté sont laissés au choix du candidat.
 Arrivé en surface, le candidat alerte la surveillance. Il ramène en sécurité le
 plongeur en difficulté jusqu'au bateau ou au point fixe.
 
-1.3. Epreuve d'organisation et de conduite
-
-d'une plongée d'exploration dans l'espace lointain
+1.3. Epreuve d'organisation et de conduite d'une plongée d'exploration dans
+l'espace lointain
 
 Cette épreuve permet de vérifier la capacité du candidat à organiser et à
 conduire une plongée d'exploration, dont le jury fixe les caractéristiques. Elle
@@ -68,9 +59,8 @@ durée maximale de la plongée est d'une heure. Elle est suivie d'un entretien
 avec les membres du jury, visant à expliciter les choix d'organisation mis en
 œuvre.
 
-2. Test de vérification des connaissances théoriques
-
-et pratiques en matière de sécurité
+2. Test de vérification des connaissances théoriques et pratiques en matière de
+sécurité
 
 Ce test vise à vérifier la capacité du candidat à diriger et à organiser la
 plongée, soit :
