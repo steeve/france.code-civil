@@ -1,6 +1,6 @@
 Article 203
 ----
-Lorsque leur valeur estimée est inférieure aux seuils de procédure formalisée
+I.-Lorsque leur valeur estimée est inférieure aux seuils de procédure formalisée
 définis à l'article 201, les marchés de fournitures, de services ou de travaux
 peuvent être passés selon une procédure adaptée, dont les modalités sont
 librement fixées par la personne soumise à la présente partie en fonction de la
@@ -21,11 +21,17 @@ présente partie est tenue de l'appliquer dans son intégralité.
 Quel que soit le choix, il ne peut être exigé des opérateurs économiques plus de
 renseignements ou de documents que ceux prévus pour les procédures formalisées.
 
-Il peut être décidé que le marché sera passé sans publicité préalable dans la
-situation décrite au I de l'article 208, ou sans publicité ni mise en
-concurrence préalables si son montant estimé est inférieur à 4 000 € HT ou dans
-les situations décrites au II de l'article 208. L'absence de publicité et de
-mise en concurrence peut en outre être justifiée si ces formalités sont
-impossibles ou sont manifestement inutiles en raison notamment de l'objet du
-marché, de son montant ou du faible degré de concurrence dans le secteur
-considéré.
+II.-Il peut être décidé que le marché sera passé sans publicité préalable dans
+la situation décrite au I de l'article 208, ou sans publicité ni mise en
+concurrence préalables dans les situations décrites au II de l'article 208 ou
+lorsque ces formalités sont impossibles ou manifestement inutiles en raison
+notamment de l'objet du marché, de son montant ou du faible degré de concurrence
+dans le secteur considéré.
+
+III.-La personne soumise à la présente partie peut également décider que le
+marché sera passé sans publicité ni mise en concurrence préalables si son
+montant estimé est inférieur à 15 000 euros HT. Lorsqu'elle fait usage de cette
+faculté, elle veille à choisir une offre répondant de manière pertinente au
+besoin, à faire une bonne utilisation des deniers publics et à ne pas contracter
+systématiquement avec un même prestataire lorsqu'il existe une pluralité
+d'offres potentielles susceptibles de répondre au besoin.

@@ -1,8 +1,8 @@
 Article 28
 ----
-Lorsque leur valeur estimée est inférieure aux seuils de procédure formalisée
-définis à l'article 26, les marchés de fournitures, de services ou de travaux
-peuvent être passés selon une procédure adaptée, dont les modalités sont
+I. - Lorsque leur valeur estimée est inférieure aux seuils de procédure
+formalisée définis à l'article 26, les marchés de fournitures, de services ou de
+travaux peuvent être passés selon une procédure adaptée, dont les modalités sont
 librement fixées par le pouvoir adjudicateur en fonction de la nature et des
 caractéristiques du besoin à satisfaire, du nombre ou de la localisation des
 opérateurs économiques susceptibles d'y répondre ainsi que des circonstances de
@@ -22,10 +22,16 @@ Quel que soit son choix, le pouvoir adjudicateur ne peut exiger des opérateurs
 économiques plus de renseignements ou de documents que ceux prévus pour les
 procédures formalisées par les articles 45, 46 et 48.
 
-Le pouvoir adjudicateur peut décider que le marché sera passé sans publicité ni
-mise en concurrence préalables si son montant estimé est inférieur à 4 000 euros
-HT ou dans les situations décrites au II de l'article 35. L'absence de publicité
-et de mise en concurrence peut en outre être justifiée si ces formalités sont
-impossibles ou sont manifestement inutiles en raison notamment de l'objet du
-marché, de son montant ou du faible degré de concurrence dans le secteur
-considéré.
+II. - Le pouvoir adjudicateur peut décider que le marché sera passé sans
+publicité ni mise en concurrence préalables dans les situations décrites au II
+de l'article 35 ou lorsque ces formalités sont impossibles ou manifestement
+inutiles en raison notamment de l'objet du marché, de son montant ou du faible
+degré de concurrence dans le secteur considéré.
+
+III. - Le pouvoir adjudicateur peut également décider que le marché sera passé
+sans publicité ni mise en concurrence préalables si son montant estimé est
+inférieur à 15 000 euros HT. Lorsqu'il fait usage de cette faculté, il veille à
+choisir une offre répondant de manière pertinente au besoin, à faire une bonne
+utilisation des deniers publics et à ne pas contracter systématiquement avec un
+même prestataire lorsqu'il existe une pluralité d'offres potentielles
+susceptibles de répondre au besoin.

@@ -1,12 +1,12 @@
 Article 212
 ----
-I. ― En dehors des exceptions prévues au cinquième alinéa de l'article 203 ainsi
-qu'à l'article 208, tout marché ou accord-cadre d'un montant égal ou supérieur à
-4 000 € HT est précédé d'une publicité, dans les conditions définies ci-après.
+I. ― En dehors des exceptions prévues aux II et III de l'article 203 ainsi qu'à
+l'article 208, tout marché ou accord-cadre d'un montant égal ou supérieur à 15
+000 € HT est précédé d'une publicité, dans les conditions définies ci-après.
 
 II. ― Pour les achats de fournitures, de services et de travaux d'un montant
-compris entre 4 000 € HT et 90 000 € HT, ainsi que pour les achats de services
-relevant du I de l'article 205 d'un montant égal ou supérieur à 4 000 € HT, la
+compris entre 15 000 € HT et 90 000 € HT, ainsi que pour les achats de services
+relevant du I de l'article 205 d'un montant égal ou supérieur à 15 000 € HT, la
 personne soumise à la présente partie choisit librement les modalités de
 publicité adaptées en fonction des caractéristiques du marché, notamment le
 montant et la nature des travaux, des fournitures ou des services en cause.

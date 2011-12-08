@@ -1,7 +1,7 @@
 Article 254
 ----
 Sauf dans le cas de l'échange de lettres, les marchés et accords-cadres d'un
-montant supérieur à 20 000 € HT sont notifiés avant tout commencement
+montant supérieur à 15 000 € HT sont notifiés avant tout commencement
 d'exécution.
 
 Pour les marchés et accords-cadres passés selon une procédure formalisée, la
