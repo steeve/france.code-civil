@@ -61,11 +61,11 @@ terre, sous réserve des compétences de la direction des ressources humaines de
 l'armée de terre ;
 
 19° Gestion et administration du personnel civil des services déconcentrés dans
-les conditions fixées par le décret n° 2000-1048 du 24 octobre 2000 autorisant
-le ministre de la défense à déléguer certains de ses pouvoirs en matière
-d'administration et de gestion des personnels civils des services déconcentrés,
-sous réserve des compétences de la direction des ressources humaines du
-ministère de la défense ;
+les conditions fixées par le décret n° 2011-1864 du 12 décembre 2011 autorisant
+le ministre de la défense et des anciens combattants à déléguer certains de ses
+pouvoirs en matière d'administration et de gestion du personnel civil du
+ministère de la défense, sous réserve des compétences de la direction des
+ressources humaines du ministère de la défense ;
 
 20° Recrutement, sous réserve des compétences de la direction des ressources
 humaines de l'armée de terre ;
