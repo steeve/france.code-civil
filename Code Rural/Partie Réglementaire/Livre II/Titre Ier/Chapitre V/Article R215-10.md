@@ -1,7 +1,7 @@
 Article R215-10
 ----
-I. - Est puni de la peine d'amende prévue pour les contraventions de la 4e
-classe :
+I.-Est puni de la peine d'amende prévue pour les contraventions de la 4e classe
+:
 
 1° Le fait, pour toute personne responsable d'un établissement dans lequel sont
 pratiquées des expériences sur les animaux, de ne pas s'assurer :
@@ -45,8 +45,12 @@ identifiés par un marquage individuel et permanent.
 e) De ne pas recourir aux méthodes définies à l'article R. 214-109, lorsqu'il
 est amené à faire procéder à l'euthanasie d'animaux.
 
-II. - Est puni de la peine d'amende prévue pour les contraventions de la 3e
-classe :
+3° Le fait, pour les propriétaires ou détenteurs d'animaux mentionnés à
+l'article L. 214-9, de ne pas tenir un registre d'élevage dans les conditions
+prévues par cet article et les dispositions prises pour son application.
+
+II.-Est puni de la peine d'amende prévue pour les contraventions de la 3e classe
+:
 
 1° Le fait, pour toute personne qui se livre à des expériences sur les animaux,
 de ne pas être en mesure de présenter aux agents chargés du contrôle, son

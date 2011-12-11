@@ -141,5 +141,5 @@ Contraventions en matière de gestion des déchets d'activités de soins à risq
 infectieux perforants produits par les patients en autotraitement réprimées par
 les articles R. 1337-16 et R. 1337-17 du code de la santé publique.
 
-7° Contraventions réprimées par les 1°, 3° et 4° du II de l'article R. 254-20 du
-code rural et de la pêche maritime.
+7° Contraventions réprimées par les 1°, 3° et 4° du II de l'article R. 254-20 et
+par le 1° de l'article R. 257-3 du code rural et de la pêche maritime.
