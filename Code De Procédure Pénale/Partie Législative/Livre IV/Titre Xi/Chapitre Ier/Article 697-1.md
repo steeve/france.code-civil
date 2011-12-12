@@ -1,10 +1,8 @@
 Article 697-1
 ----
-Les juridictions mentionnées à l'article 697 connaissent des infractions
-militaires prévues par le livre III du code de justice militaire ; elles
-connaissent également des crimes et délits de droit commun commis dans
-l'exécution du service par les militaires, tels que ceux-ci sont définis par les
-articles 61 à 63 du code de justice militaire.
+Les juridictions mentionnées à l'article 697 connaissent des crimes et des
+délits commis sur le territoire de la République par les militaires dans
+l'exercice du service.
 
 Ces juridictions sont compétentes à l'égard de toutes personnes majeures,
 auteurs ou complices, ayant pris part à l'infraction.

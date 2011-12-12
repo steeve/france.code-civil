@@ -8,3 +8,8 @@ Ces dispositions sont également applicables à la poursuite, à l'instruction e
 au jugement des actes de terrorisme commis à l'étranger lorsque la loi française
 est applicable en vertu des dispositions de la section 2 du chapitre III du
 titre Ier du livre Ier du code pénal.
+
+Elles sont également applicables à la poursuite, à l'instruction et au jugement
+des actes de terrorisme commis hors du territoire de la République par les
+membres des forces armées françaises ou à l'encontre de celles-ci dans les cas
+prévus au chapitre Ier du titre II du livre Ier du code de justice militaire.

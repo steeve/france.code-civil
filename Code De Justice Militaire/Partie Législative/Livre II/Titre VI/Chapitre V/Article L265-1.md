@@ -1,8 +1,8 @@
 Article L265-1
 ----
-En cas de condamnation à l'emprisonnement ou à l'amende, la juridiction des
-forces armées peut décider qu'il est sursis à l'exécution dans les conditions
-prévues aux articles 132-29 à 132-57 du code pénal.
+En cas de condamnation à l'emprisonnement ou à l'amende, la juridiction saisie
+peut décider qu'il est sursis à l'exécution dans les conditions prévues aux
+articles 132-29 à 132-57 du code pénal.
 
 Il peut être fait application de ces dispositions à toute condamnation à
 l'emprisonnement pour crime ou délit de droit commun ou pour crime ou délit
