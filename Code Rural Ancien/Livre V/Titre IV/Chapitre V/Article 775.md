@@ -23,6 +23,4 @@ suivant, à la caisse nationale de crédit agricole.
 
 Pendant le temps où ils sont gérés par la caisse nationale de crédit agricole,
 les versements des titulaires de livrets de "domaine-retraite" sont incessibles
-et insaisissables et ne peuvent donner lieu à aucune opposition. Les biens
-ruraux acquis ou aménagés au moyen du livret de "domaine-retraite" peuvent être
-constitués par les titulaires en biens de famille insaisissables.
+et insaisissables et ne peuvent donner lieu à aucune opposition.

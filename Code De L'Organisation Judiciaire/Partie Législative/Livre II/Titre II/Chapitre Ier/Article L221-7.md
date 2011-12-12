@@ -1,5 +1,5 @@
 Article L221-7
 ----
-Lorsqu'il statue selon la procédure d'injonction de payer, sous réserve de la
-compétence de la juridiction de proximité, le juge d'instance est compétent à
-quelque valeur que la demande puisse s'élever.
+Le juge du tribunal d'instance connaît des demandes formées en application du
+règlement (CE) n° 1896/2006 du Parlement européen et du Conseil du 12 décembre
+2006 instituant une procédure européenne d'injonction de payer.

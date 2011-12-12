@@ -5,7 +5,8 @@ dater de leur inscription au registre de dépôt sont vendues aux enchères
 publiques.
 
 2. Les marchandises périssables ou en mauvais état de conservation peuvent être
-vendues immédiatement avec l'autorisation du juge d'instance.
+vendues immédiatement avec l'autorisation du président du tribunal de grande
+instance.
 
 3. Les marchandises d'une valeur inférieure à 152 euros qui ne sont pas enlevées
 à l'expiration du délai de quatre mois visé au 1 ci-dessus sont considérées

@@ -22,4 +22,4 @@ inférieur à 3 euros, le reliquat est pris sans délai en recette au budget.
 énumérées au 2 ci-dessus, les sommes obtenues sont versées à la caisse des
 dépôts et consignations et réparties, s'il y a lieu, selon la procédure de
 distribution par contribution, à la diligence de l'administration. Le juge
-compétent est le juge d'instance du lieu de dépôt.
+compétent est le président du tribunal de grande instance du lieu de dépôt.

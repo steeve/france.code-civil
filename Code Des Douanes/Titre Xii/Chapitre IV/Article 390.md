@@ -10,5 +10,5 @@ transaction.
 2. Toutefois, les jugements et ordonnances portant confiscation de marchandises
 saisies sur des particuliers inconnus, et par eux abandonnées et non réclamées,
 ne sont exécutés qu'un mois après leur affichage tant à la porte du bureau qu'à
-celle de l'auditoire du juge d'instance ; passé ce délai, aucune demande en
+celle du tribunal de grande instance ; passé ce délai, aucune demande en
 répétition n'est recevable.
