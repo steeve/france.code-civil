@@ -14,3 +14,8 @@ soumis pour avis au Conseil supérieur des chambres régionales des comptes.
 
 Ce conseil est également consulté sur toute question relative à l'organisation,
 au fonctionnement ou à la compétence des chambres régionales.
+
+Les membres des chambres régionales des comptes sont tenus de se conformer, dans
+l'exercice de leurs attributions, aux normes professionnelles fixées par le
+premier président de la Cour des comptes, après avis du Conseil supérieur des
+chambres régionales des comptes.

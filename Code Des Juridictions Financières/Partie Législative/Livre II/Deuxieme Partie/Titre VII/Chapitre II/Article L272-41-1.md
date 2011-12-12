@@ -1,6 +1,6 @@
 Article L272-41-1
 ----
-L'avis d'enquête mentionné à l'article L. 141-6 est établi par le président de
+La notification mentionnée à l'article L. 141-6 est établie par le président de
 la chambre territoriale des comptes.
 
 Le procureur de la République peut transmettre au représentant du ministère

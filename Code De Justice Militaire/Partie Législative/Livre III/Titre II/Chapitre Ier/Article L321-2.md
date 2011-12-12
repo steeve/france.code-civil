@@ -1,25 +1,35 @@
 Article L321-2
 ----
-Est considéré comme déserteur à l'intérieur en temps de paix :
+Est déclaré déserteur à l'intérieur, en temps de paix, tout militaire dont la
+formation de rattachement est située sur le territoire de la République et qui :
 
-1° Six jours après celui de l'absence constatée, tout militaire qui s'absente
-sans autorisation de son corps ou détachement, de sa base ou formation, de son
-bâtiment ou d'un hôpital militaire ou civil, où il était en traitement, ou qui
-s'évade d'un établissement pénitentiaire, où il était détenu provisoirement ;
+1° S'évade, s'absente sans autorisation, refuse de rejoindre sa formation de
+rattachement ou ne s'y présente pas à l'issue d'une mission, d'une permission ou
+d'un congé ;
 
-2° Tout militaire voyageant isolément, dont la mission, le congé ou la
-permission est expiré et qui, dans les quinze jours suivant celui fixé pour son
-arrivée ou son retour, ne s'est pas présenté à un corps ou détachement, à sa
-base ou formation ou à son bâtiment ;
+2° Mis en route pour rejoindre une autre formation de rattachement située hors
+du territoire national, ne s'y présente pas ;
 
-3° Tout militaire qui, sur le territoire de la République, se trouve absent sans
-permission au moment du départ pour une destination hors de ce territoire, du
-bâtiment ou de l'aéronef militaire auquel il appartient ou à bord duquel il est
-embarqué, même si le militaire s'est présenté à l'autorité avant l'expiration
-des délais fixés aux 1° et 2°.
+3° Se trouve absent sans autorisation au moment du départ pour une destination
+hors du territoire national du bâtiment ou de l'aéronef auquel il appartient ou
+à bord duquel il est embarqué.
 
-Toutefois, dans les cas prévus aux 1° et 2°, le militaire qui n'a pas trois mois
-de service ne peut être considéré comme déserteur qu'après un mois d'absence.
+Constituent une formation de rattachement : un corps, un détachement, une base,
+une formation, un bâtiment ou aéronef militaire, un établissement civil ou
+militaire de santé en cas d'hospitalisation, un établissement pénitentiaire en
+cas de détention.
+
+Est compétente pour connaître des faits de désertion à l'intérieur la
+juridiction dans le ressort de laquelle est située la formation de rattachement
+de départ.
+
+Dans les cas prévus au 1°, le militaire est déclaré déserteur à l'expiration
+d'un délai de six jours à compter du lendemain du jour où l'absence sans
+autorisation est constatée ou du lendemain du terme prévu de la mission, de la
+permission ou du congé.
+
+Aucun délai de grâce ne bénéficie au militaire se trouvant dans les
+circonstances des 2° et 3°.
 
 En temps de guerre, tous les délais mentionnés au présent article sont réduits
 des deux tiers.

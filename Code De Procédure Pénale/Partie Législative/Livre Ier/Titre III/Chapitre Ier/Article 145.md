@@ -57,13 +57,14 @@ détention provisoire, celle-ci est mise en liberté d'office.
 Pour permettre au juge d'instruction de procéder à des vérifications relatives à
 la situation personnelle du mis en examen ou aux faits qui lui sont reprochés,
 lorsque ces vérifications sont susceptibles de permettre le placement de
-l'intéressé sous contrôle judiciaire, le juge des libertés et de la détention
-peut également décider d'office de prescrire par ordonnance motivée
-l'incarcération provisoire du mis en examen pendant une durée déterminée qui ne
-saurait excéder quatre jours ouvrables jusqu'à la tenue du débat contradictoire.
-A défaut de débat dans ce délai, la personne est mise en liberté d'office.
-L'ordonnance mentionnée au présent alinéa peut faire l'objet du recours prévu à
-l'article 187-1.
+l'intéressé sous contrôle judiciaire ou sous assignation à résidence avec
+surveillance électronique, le juge des libertés et de la détention peut
+également décider d'office de prescrire par ordonnance motivée l'incarcération
+provisoire du mis en examen pendant une durée déterminée qui ne saurait excéder
+quatre jours ouvrables jusqu'à la tenue du débat contradictoire. A défaut de
+débat dans ce délai, la personne est mise en liberté d'office. L'ordonnance
+mentionnée au présent alinéa peut faire l'objet du recours prévu à l'article
+187-1.
 
 L'incarcération provisoire est, le cas échéant, imputée sur la durée de la
 détention provisoire pour l'application des articles 145-1 et 145-2. Elle est

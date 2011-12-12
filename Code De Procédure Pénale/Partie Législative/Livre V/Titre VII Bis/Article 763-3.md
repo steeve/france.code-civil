@@ -23,13 +23,14 @@ l'article 131-36-1 du code pénal pourra être mis à exécution. Les dispositio
 des deux alinéas précédents sont alors applicables.
 
 Le juge de l'application des peines peut également, après avoir procédé à
-l'examen prévu à l'article 763-10, ordonner le placement sous surveillance
-électronique mobile du condamné. Le juge de l'application des peines avertit le
-condamné que le placement sous surveillance électronique mobile ne pourra être
-mis en oeuvre sans son consentement mais que, à défaut ou s'il manque à ses
-obligations, l'emprisonnement prononcé en application du troisième alinéa de
-l'article 131-36-1 du code pénal pourra être mis à exécution. Les dispositions
-des deux premiers alinéas du présent article sont applicables.
+l'examen prévu à l'article 763-10 et après avoir fait vérifier la faisabilité
+technique de la mesure, ordonner le placement sous surveillance électronique
+mobile du condamné. Le juge de l'application des peines avertit le condamné que
+le placement sous surveillance électronique mobile ne pourra être mis en oeuvre
+sans son consentement mais que, à défaut ou s'il manque à ses obligations,
+l'emprisonnement prononcé en application du troisième alinéa de l'article
+131-36-1 du code pénal pourra être mis à exécution. Les dispositions des deux
+premiers alinéas du présent article sont applicables.
 
 Si la personne a été condamnée à une peine de réclusion criminelle d'une durée
 égale ou supérieure à quinze ans pour l'un des crimes mentionnés à l'article

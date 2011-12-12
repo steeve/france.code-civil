@@ -10,14 +10,16 @@ connaissance du prévenu par le procureur de la République, directement ou par
 l'intermédiaire d'une personne habilitée.
 
 Le prévenu est informé qu'il dispose d'un délai de quarante-cinq jours à compter
-de cette notification pour former opposition à l'ordonnance et que cette
-opposition permettra que l'affaire fasse l'objet d'un débat contradictoire et
-public devant le tribunal correctionnel, au cours duquel il pourra être assisté
-par un avocat, dont il pourra demander la commission d'office. Le prévenu est
-également informé que le tribunal correctionnel, s'il l'estime coupable des
-faits qui lui sont reprochés, aura la possibilité de prononcer contre lui une
-peine d'emprisonnement si celle-ci est encourue pour le délit ayant fait l'objet
-de l'ordonnance.
+de cette notification pour former opposition à l'ordonnance, que cette
+opposition peut être limitée aux dispositions civiles ou pénales de l'ordonnance
+lorsqu'il a été statué sur une demande présentée par la victime et qu'elle
+permettra que l'affaire fasse l'objet d'un débat contradictoire et public devant
+le tribunal correctionnel, au cours duquel il pourra être assisté par un avocat,
+dont il pourra demander la commission d'office. Le prévenu est également informé
+que le tribunal correctionnel, s'il l'estime coupable des faits qui lui sont
+reprochés, aura la possibilité de prononcer contre lui une peine
+d'emprisonnement si celle-ci est encourue pour le délit ayant fait l'objet de
+l'ordonnance.
 
 En l'absence d'opposition, l'ordonnance est exécutée suivant les règles prévues
 par le présent code pour l'exécution des jugements correctionnels.

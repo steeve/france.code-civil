@@ -52,3 +52,7 @@ Lorsque la situation de l'un des membres élus du conseil supérieur est évoqu�
 l'occasion de l'examen d'une question figurant à l'ordre du jour, le magistrat,
 le conseiller maître en service extraordinaire ou le rapporteur extérieur en
 cause ne siège pas à la réunion. Il est remplacé par son suppléant.
+
+Les membres de la Cour des comptes sont tenus de se conformer, dans l'exercice
+de leurs attributions, aux normes professionnelles fixées par le premier
+président, après avis du Conseil supérieur de la Cour des comptes.

@@ -33,6 +33,6 @@ ministère public.
 A défaut de paiement ou de protestation dans le délai de deux mois précité, le
 procès-verbal de contravention est adressé par l'exploitant au ministère public
 et le titulaire du certificat d'immatriculation, ou l'une des personnes visées
-aux deuxième et troisième alinéas de l'article L. 121-2 du code de la route,
-devient redevable de plein droit d'une amende forfaitaire majorée recouvrée par
-le Trésor public en vertu d'un titre rendu exécutoire par le ministère public.
+aux trois derniers alinéas de l'article L. 121-2 du code de la route, devient
+redevable de plein droit d'une amende forfaitaire majorée recouvrée par le
+Trésor public en vertu d'un titre rendu exécutoire par le ministère public.

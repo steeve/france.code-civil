@@ -2,11 +2,11 @@ Article 529-10
 ----
 Lorsque l'avis d'amende forfaitaire concernant une des contraventions
 mentionnées à l'article L. 121-3 du code de la route a été adressé au titulaire
-du certificat d'immatriculation ou aux personnes visées aux deuxième et
-troisième alinéas de l'article L. 121-2 de ce code, la requête en exonération
-prévue par l'article 529-2 ou la réclamation prévue par l'article 530 n'est
-recevable que si elle est adressée par lettre recommandée avec demande d'avis de
-réception et si elle est accompagnée :
+du certificat d'immatriculation ou aux personnes visées aux trois derniers
+alinéas de l'article L. 121-2 de ce code, la requête en exonération prévue par
+l'article 529-2 ou la réclamation prévue par l'article 530 n'est recevable que
+si elle est adressée par lettre recommandée avec demande d'avis de réception et
+si elle est accompagnée :
 
 1° Soit de l'un des documents suivants :
 
@@ -19,6 +19,9 @@ b) Une lettre signée de l'auteur de la requête ou de la réclamation précisan
 l'identité, l'adresse, ainsi que la référence du permis de conduire de la
 personne qui était présumée conduire le véhicule lorsque la contravention a été
 constatée ;
+
+c) Des copies de la déclaration de cession du véhicule et de son accusé
+d'enregistrement dans le système d'immatriculation des véhicules ;
 
 2° Soit d'un document démontrant qu'il a été acquitté une consignation préalable
 d'un montant égal à celui de l'amende forfaitaire dans le cas prévu par le

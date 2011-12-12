@@ -49,4 +49,4 @@ refuser la comparution personnelle de l'intéressé par une décision motivée q
 n'est susceptible d'aucun recours.
 
 En cas de comparution personnelle de la personne concernée, le délai maximum
-prévu au troisième alinéa de l'article 194 est prolongé de cinq jours.
+prévu au dernier alinéa de l'article 194 est prolongé de cinq jours.

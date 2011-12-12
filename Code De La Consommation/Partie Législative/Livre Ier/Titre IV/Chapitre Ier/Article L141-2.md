@@ -1,8 +1,9 @@
 Article L141-2
 ----
-Pour les contraventions prévues aux livres Ier et III ainsi que pour les
-infractions prévues à l'article L. 121-1, l'autorité administrative chargée de
-la concurrence et de la consommation a droit, tant que l'action publique n'a pas
+Pour les contraventions, et les délits qui ne sont pas punis d'une peine
+d'emprisonnement, prévus aux livres Ier et III ainsi que pour les infractions
+prévues à l'article L. 121-1, l'autorité administrative chargée de la
+concurrence et de la consommation a droit, tant que l'action publique n'a pas
 été mise en mouvement, de transiger, après accord du procureur de la République,
 selon des modalités fixées par décret en Conseil d'Etat.
 

@@ -10,11 +10,12 @@ peut solliciter l'avis de la commission pluridisciplinaire des mesures de sûret
 composée selon des modalités déterminées par le décret prévu à l'article 763-14.
 Les articles 712-16 et 712-16-1 sont applicables.
 
-Au vu de cet examen, le juge de l'application des peines détermine, selon les
-modalités prévues par l'article 712-6, la durée pendant laquelle le condamné
-sera effectivement placé sous surveillance électronique mobile. Cette durée ne
-peut excéder deux ans, renouvelable une fois en matière délictuelle et deux fois
-en matière criminelle.
+Au vu de cet examen et après avoir fait vérifier la faisabilité technique de la
+mesure, le juge de l'application des peines détermine, selon les modalités
+prévues par l'article 712-6, la durée pendant laquelle le condamné sera
+effectivement placé sous surveillance électronique mobile. Cette durée ne peut
+excéder deux ans, renouvelable une fois en matière délictuelle et deux fois en
+matière criminelle.
 
 Le juge de l'application des peines rappelle au condamné que le placement sous
 surveillance électronique mobile ne pourra être mis en oeuvre sans son

@@ -9,9 +9,8 @@ intérieures et les voies navigables, la compétence d'un tribunal de grande
 instance peut être étendue au ressort d'une ou plusieurs cours d'appel.
 
 Les dispositions du premier alinéa s'appliquent également lorsque les
-infractions mentionnées dans cet alinéa, à l'exception de celle visée à
-l'article L. 218-19 du code de l'environnement, sont commises dans la zone
-économique exclusive ou dans la zone de protection écologique.
+infractions mentionnées dans cet alinéa sont commises dans la zone économique
+exclusive ou dans la zone de protection écologique.
 
 Toutefois, dans les affaires qui sont ou apparaissent d'une grande complexité,
 le procureur de la République près le tribunal de grande instance mentionné au

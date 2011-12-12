@@ -18,12 +18,11 @@ doivent être ou non acceptées par le comptable. Il peut également, dans le m�
 délai, décider de dispenser le redevable de garanties autres que celles déjà
 constituées.
 
-Dans les huit jours suivant la décision du juge ou l'expiration du délai laissé
-à ce dernier pour statuer, le redevable et le comptable peuvent, par simple
-demande écrite, faire appel devant le tribunal administratif. Celui-ci, dans le
-délai d'un mois, décide si les garanties doivent être acceptées comme répondant
-aux conditions de l'article L. 277 ; à défaut de décision dans ce délai, la
-décision intervenue au premier degré est réputée confirmée.
+Dans les huit jours suivant la décision du juge, le redevable et le comptable
+peuvent, par simple demande écrite, faire appel devant le président de la cour
+administrative d'appel ou le magistrat qu'il désigne à cet effet. Celui-ci, dans
+le délai d'un mois, décide si les garanties doivent être acceptées comme
+répondant aux conditions de l'article L. 277.
 
 Pendant la durée de la procédure de référé, le comptable ne peut exercer sur les
 biens du redevable aucune action autre que les mesures conservatoires prévues à

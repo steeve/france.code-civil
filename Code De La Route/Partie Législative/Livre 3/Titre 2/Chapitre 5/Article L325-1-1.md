@@ -20,3 +20,9 @@ Si la juridiction prononce la peine d'immobilisation du véhicule, celui-ci n'es
 restitué au condamné qu'à l'issue de la durée de l'immobilisation fixée par la
 juridiction contre paiement des frais d'enlèvement et de garde en fourrière, qui
 sont à la charge de ce dernier.
+
+En cas de relaxe, le propriétaire dont le véhicule a été mis en fourrière sur
+autorisation du procureur de la République peut, selon des modalités précisées
+par arrêté du ministre de la justice, demander à l'Etat le remboursement, au
+titre des frais de justice, des frais d'enlèvement et de garde en fourrière
+qu'il a dû acquitter pour récupérer son véhicule.

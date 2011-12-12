@@ -1,7 +1,8 @@
 Article 618-1
 ----
-La cour condamne l'auteur de l'infraction à payer à la partie civile la somme
-qu'elle détermine, au titre des frais non payés par l'Etat et exposés par
-celle-ci. La cour tient compte de l'équité ou de la situation économique de la
-partie condamnée. Elle peut, même d'office, pour des raisons tirées des mêmes
-considérations, dire qu'il n'y a pas lieu à cette condamnation.
+Lorsqu'une demande en cassation formée par la personne poursuivie ou par la
+partie civile a été rejetée, la cour peut condamner le demandeur à payer à
+l'autre partie la somme qu'elle détermine, au titre des frais non payés par
+l'Etat et exposés par celle-ci. La cour tient compte de l'équité ou de la
+situation économique du demandeur pour décider du prononcé de cette condamnation
+et en fixer le montant.

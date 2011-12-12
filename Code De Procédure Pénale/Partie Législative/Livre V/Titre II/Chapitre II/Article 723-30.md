@@ -4,7 +4,8 @@ La surveillance judiciaire peut comporter les obligations suivantes :
 
 1° Obligations prévues par les articles 132-44 et 132-45 du code pénal ;
 
-2° Obligation prévue par l'article 131-36-12 du même code ;
+2° Après vérification de la faisabilité technique de la mesure, obligation
+prévue par l'article 131-36-12 du même code ;
 
 3° Si la personne a été condamnée à une peine de réclusion criminelle d'une
 durée égale ou supérieure à quinze ans pour l'un des crimes mentionnés à

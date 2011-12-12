@@ -1,6 +1,13 @@
 Article L321-7
 ----
-Est déclaré déserteur à l'étranger tout militaire qui, hors du territoire de la
-République, se trouve absent sans permission, au moment du départ du bâtiment ou
-de l'aéronef militaire à bord duquel il est embarqué, même s'il s'est présenté à
-l'autorité avant l'expiration du délai fixé à l'article L. 321-5.
+La peine d'emprisonnement encourue peut être portée à dix ans contre tout
+militaire qui a déserté à l'étranger :
+
+1° En emportant une arme ou du matériel de l'Etat ;
+
+2° En étant de service ;
+
+3° Avec complot.
+
+Est réputée désertion avec complot toute désertion à l'étranger effectuée de
+concert par plus de deux individus.

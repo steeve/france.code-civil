@@ -39,8 +39,10 @@ demande.
 
 Si la saisie porte sur des espèces, lingots, effets ou valeurs dont la
 conservation en nature n'est pas nécessaire à la manifestation de la vérité ou à
-la sauvegarde des droits des parties, il peut autoriser le greffier à en faire
-le dépôt à la Caisse des dépôts et consignations ou à la Banque de France.
+la sauvegarde des droits des parties, il peut autoriser leur dépôt à la Caisse
+des dépôts et consignations ou à la Banque de France ou sur un compte ouvert
+auprès d'un établissement bancaire par l'Agence de gestion et de recouvrement
+des avoirs saisis et confisqués.
 
 Lorsque la saisie porte sur des billets de banque ou pièces de monnaie libellés
 en euros contrefaisants, le juge d'instruction ou l'officier de police

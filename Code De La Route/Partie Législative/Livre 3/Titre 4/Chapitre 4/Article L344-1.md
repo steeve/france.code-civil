@@ -42,6 +42,12 @@ n'est restitué au condamné qu'à l'issue de la durée d'immobilisation fixée 
 la juridiction contre paiement des frais d'enlèvement et de garde en fourrière,
 qui sont à la charge de ce dernier.
 
+En cas de relaxe, le propriétaire dont le véhicule a été mis en fourrière sur
+autorisation du procureur de la République peut, selon des modalités précisées
+par arrêté du ministre de la justice, demander à l'Etat le remboursement, au
+titre des frais de justice, des frais d'enlèvement et de garde en fourrière
+qu'il a dû acquitter pour récupérer son véhicule.
+
 " Art. L. 325-2 - Pour l'application des articles L. 325-1 et L. 325-1-1 et sur
 prescription de l'officier de police judiciaire territorialement compétent, les
 fonctionnaires de police en tenue et les militaires de la gendarmerie habilités

@@ -2,7 +2,7 @@ Article 85
 ----
 Toute personne qui se prétend lésée par un crime ou un délit peut en portant
 plainte se constituer partie civile devant le juge d'instruction compétent en
-application des dispositions des articles 52, 52-1 et 706-42.
+application des dispositions des articles 52,52-1 et 706-42.
 
 Toutefois, la plainte avec constitution de partie civile n'est recevable qu'à
 condition que la personne justifie soit que le procureur de la République lui a
@@ -19,3 +19,8 @@ presse ou par les articles L. 86, L. 87, L. 91 à L. 100, L. 102 à L. 104, L. 1
 suspendue, au profit de la victime, du dépôt de la plainte jusqu'à la réponse du
 procureur de la République ou, au plus tard, une fois écoulé le délai de trois
 mois.
+
+Lorsque la plainte avec constitution de partie civile est formée par une
+personne morale à but lucratif, elle n'est recevable qu'à condition que la
+personne morale justifie de ses ressources en joignant son bilan et son compte
+de résultat.

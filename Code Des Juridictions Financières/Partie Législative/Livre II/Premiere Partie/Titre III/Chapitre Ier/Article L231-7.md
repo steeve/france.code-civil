@@ -2,6 +2,7 @@ Article L231-7
 ----
 Les décisions d'apurement prises en application de l'article L. 211-2, assorties
 le cas échéant de toute observation pouvant entraîner la mise en débet du
-comptable, sont transmises par le comptable supérieur du Trésor à la chambre
-régionale des comptes. La mise en débet du comptable ne peut être prononcée que
-par la chambre régionale des comptes.
+comptable, sont transmises par l'autorité compétente de l'Etat désignée par
+arrêté du ministre chargé du budget à la chambre régionale des comptes. La mise
+en débet du comptable ne peut être prononcée que par la chambre régionale des
+comptes.

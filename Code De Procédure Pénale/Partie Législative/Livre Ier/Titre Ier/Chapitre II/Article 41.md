@@ -19,6 +19,11 @@ Il a tous les pouvoirs et prérogatives attachés à la qualité d'officier de
 police judiciaire prévus par la section II du chapitre Ier du titre Ier du
 présent livre, ainsi que par des lois spéciales.
 
+Il peut se transporter dans toute l'étendue du territoire national. Il peut
+également, dans le cadre d'une demande d'entraide adressée à un Etat étranger et
+avec l'accord des autorités compétentes de l'Etat concerné, se transporter sur
+le territoire d'un Etat étranger aux fins de procéder à des auditions.
+
 En cas d'infractions flagrantes, il exerce les pouvoirs qui lui sont attribués
 par l'article 68.
 

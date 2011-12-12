@@ -11,6 +11,15 @@ deuxième alinéa, 156, deuxième alinéa, ou 167, quatrième alinéa, la chambr
 l'instruction doit statuer dans les deux mois à compter de la transmission du
 dossier au procureur général par le président de la chambre de l'instruction.
 
+Il en est de même en cas d'appel en matière de contrôle judiciaire ou
+d'assignation à résidence avec surveillance électronique ; à défaut, en cas
+d'appel d'une ordonnance de placement sous contrôle judiciaire ou sous
+assignation à résidence avec surveillance électronique ou de refus de mainlevée
+d'une de ces deux mesures, la mainlevée de celle-ci est acquise de plein droit,
+sauf si des vérifications concernant la demande de la personne ont été ordonnées
+ou si des circonstances imprévisibles et insurmontables mettent obstacle au
+jugement de l'affaire dans le délai prévu au présent article.
+
 En matière de détention provisoire, la chambre de l'instruction doit se
 prononcer dans les plus brefs délais et au plus tard dans les dix jours de
 l'appel lorsqu'il s'agit d'une ordonnance de placement en détention et dans les

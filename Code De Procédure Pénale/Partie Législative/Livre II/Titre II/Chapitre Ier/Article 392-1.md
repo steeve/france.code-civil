@@ -6,7 +6,12 @@ civile, le montant de la consignation que celle-ci doit, si elle n'a pas obtenu
 l'aide juridictionnelle, déposer au greffe et le délai dans lequel elle devra
 être faite sous peine de non-recevabilité de la citation directe. Cette
 consignation garantit le paiement de l'amende civile susceptible d'être
-prononcée en application du second alinéa.
+prononcée en application du troisième alinéa.
+
+Lorsque la partie civile est une personne morale à but lucratif, elle doit, sous
+peine de non-recevabilité de la citation directe, produire au tribunal son bilan
+et son compte de résultat afin de permettre la détermination du montant de la
+consignation.
 
 Lorsque le tribunal correctionnel, saisi par une citation directe de la partie
 civile, prononce une relaxe, il peut, par ce même jugement, sur réquisitions du

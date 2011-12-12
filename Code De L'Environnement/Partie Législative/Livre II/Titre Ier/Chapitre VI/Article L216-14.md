@@ -6,9 +6,9 @@ par les infractions aux chapitres Ier à VII du présent titre et des textes pri
 pour leur application après avoir recueilli l'accord du procureur de la
 République.
 
-Cette faculté n'est pas applicable aux contraventions des quatre premières
-classes pour lesquelles l'action publique est éteinte par le paiement d'une
-amende forfaitaire en application de l'article 529 du code de procédure pénale.
+Cette faculté n'est pas applicable aux contraventions pour lesquelles l'action
+publique est éteinte par le paiement d'une amende forfaitaire en application de
+l'article 529 du code de procédure pénale.
 
 La proposition de transaction est formulée en fonction des circonstances de
 l'infraction, de la personnalité de son auteur ainsi que de ses ressources et de

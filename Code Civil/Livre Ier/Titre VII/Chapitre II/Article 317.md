@@ -1,7 +1,8 @@
 Article 317
 ----
-Chacun des parents ou l'enfant peut demander au juge que lui soit délivré un
-acte de notoriété qui fera foi de la possession d'état jusqu'à preuve contraire.
+Chacun des parents ou l'enfant peut demander au juge du tribunal d'instance du
+lieu de naissance ou de leur domicile que lui soit délivré un acte de notoriété
+qui fera foi de la possession d'état jusqu'à preuve contraire.
 
 L'acte de notoriété est établi sur la foi des déclarations d'au moins trois
 témoins et, si le juge l'estime nécessaire, de tout autre document produit qui
