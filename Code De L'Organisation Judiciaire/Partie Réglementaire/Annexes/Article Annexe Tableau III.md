@@ -82,8 +82,10 @@ Le Mans
 
 Allonnes.
 
-Cour d'appel de Bastia Corse-du-Sud
+Cour d'appel de Bastia
 
+
+Corse-du-Sud
 
 Ajaccio
 
@@ -123,6 +125,15 @@ Cour d'appel de Caen Calvados
 Caen
 
 Hérouville-Saint-Clair.
+
+Cour d'appel de Cayenne
+
+
+Guyane
+
+Cayenne
+
+Saint-Laurent-du-Maroni.
 
 Cour d'appel de Chambéry Haute-Savoie
 
@@ -215,12 +226,7 @@ Boulogne-sur-Mer
 
 Calais.
 
-Cour d'appel de Fort-de-France Guyane
-
-
-Cayenne
-
-Saint-Laurent-du-Maroni.
+Cour d'appel de Fort-de-France
 
 
 Martinique

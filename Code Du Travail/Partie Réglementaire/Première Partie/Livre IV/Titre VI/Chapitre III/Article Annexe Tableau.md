@@ -3,7 +3,7 @@ Article Annexe Tableau
 TABLEAU C
 
 
-EN VIGUEUR AU 1er JANVIER 2011
+EN VIGUEUR AU 1er JANVIER 2012
 
 SIEGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 
@@ -12,7 +12,7 @@ DÉPARTEMENT
 
 TRIBUNAL de grande instance
 
-SIÈGE ET RESSORT DES CONSEILs DE PRUD'HOMMES
+SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 
 Siège du conseil de prud'hommes
 
@@ -38,7 +38,7 @@ Cahors
 
 Cahors
 
-Ressort du tribunal de grande instance de Cahors
+Ressort du tribunal de grande instance de Cahors.
 
 
 Lot-et-Garonne
@@ -65,7 +65,7 @@ Digne-les-Bains
 
 Digne-les-Bains
 
-Ressort du tribunal de grande instance de Digne-les-Bains
+Ressort du tribunal de grande instance de Digne-les-Bains.
 
 
 Alpes-Maritimes
@@ -1453,14 +1453,14 @@ Ressort du tribunal de grande instance de Vannes.
 Cour d'appel de Riom
 
 
-Allier
-
-Cusset
-
-
 Vichy
 
 Ressort du tribunal d'instance de Vichy.
+
+
+Allier
+
+Cusset
 
 
 Moulins
@@ -1720,7 +1720,7 @@ Pointe-à-Pitre
 
 Ressort du tribunal de grande instance de Pointe-à-Pitre.
 
-Cour d'appel de Fort-de-France
+Cour d'appel de Cayenne
 
 
 Guyane
@@ -1731,6 +1731,8 @@ Cayenne
 Cayenne
 
 Ressort du tribunal de grande instance de Cayenne.
+
+Cour d'appel de Fort-de-France
 
 
 Martinique

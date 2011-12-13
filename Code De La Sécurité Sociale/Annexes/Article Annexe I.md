@@ -5,7 +5,7 @@ DÉPARTEMENTS
 
 TRIBUNAUX DES AFFAIRES
 
-de sécurité sociale
+de sécurité sociale/agriculture
 
 
 Siège
@@ -32,7 +32,7 @@ Agen.
 
 Le département.
 
-Cour d'appel d'Aix en Provence
+Cour d'appel d'Aix-en-Provence
 
 Alpes-de-Haute-Provence.
 
@@ -54,7 +54,7 @@ Le département.
 
 Var.
 
-Toulon.
+Draguignan.
 
 Le département.
 
@@ -123,12 +123,7 @@ Doubs.
 
 Besançon.
 
-Arrondissements de Besançon, de Pontarlier et les cantons de Clerval, Maîche, Le
-Russey.
-
-Montbéliard.
-
-Arrondissements de Montbéliard, moins les cantons de Clerval, Maîche, le Russey.
+Le département.
 
 Jura.
 
@@ -262,26 +257,13 @@ Nord.
 
 Lille.
 
-Arrondissements de Lille et de Dunkerque.
-
-Douai.
-
-Arrondissements de Douai et de Cambrai.
-
-Valenciennes.
-
-Arrondissements de Valenciennes et d'Avesnes-sur-Helpe.
+Le département.
 
 Pas-de-Calais.
 
 Arras.
 
-Arrondissements d'Arras, de Béthune et de Lens.
-
-
-Boulogne-sur-Mer
-
-Arrondissements de Boulogne-sur-Mer, de Montreuil, de Calais et de Saint-Omer.
+Le département.
 
 Cour d'appel de Grenoble
 
@@ -301,13 +283,7 @@ Isère.
 
 Grenoble.
 
-Le département, moins l'arrondissement de Vienne et moins les cantons de
-L'Isle-d'Abeau et de La Verpillière.
-
-Vienne.
-
-L'arrondissement de Vienne, plus les cantons de L'Isle-d'Abeau et de La
-Verpillière.
+Le département.
 
 Cour d'appel de Limoges
 
@@ -341,21 +317,13 @@ Loire.
 
 Saint-Etienne.
 
-Le département, moins l'arrondissement de Roanne.
-
-Roanne.
-
-L'arrondissement de Roanne.
+Le département.
 
 Rhône.
 
 Lyon.
 
-Le département, moins l'arrondissement de Villefranche-sur-Saône.
-
-Villefranche-sur-Saône.
-
-L'arrondissement de Villefranche-sur-Saône.
+Le département.
 
 Cour d'appel de Metz
 
@@ -397,11 +365,7 @@ Meurthe-et-Moselle.
 
 Nancy.
 
-Le département, moins l'arrondissement de Briey.
-
-Longwy.
-
-L'arrondissement de Briey.
+Le département.
 
 Meuse.
 
@@ -463,46 +427,42 @@ Le département.
 
 Cour d'appel de Paris
 
-Essonne.
-
-Evry.
-
-Le département.
-
-Seine-et-Marne.
-
-Melun.
-
-Arrondissements de Fontainebleau, Provins et Melun, sauf le canton de
-Rozay-en-Brie.
-
-Meaux.
-
-Arrondissement de Meaux et de Torcy, plus le canton de Rozay-en-Brie.
-
-Seine-Saint-Denis.
-
-Bobigny.
-
-Le département.
-
-Val-de-Marne.
-
-Créteil.
-
-Le département.
-
 Yonne.
 
 Auxerre.
 
 Le département.
 
-Paris.
+Essonne.
 
 Paris.
 
-La ville de Paris.
+Le département.
+
+Seine-Saint-Denis.
+
+Paris.
+
+Le département.
+
+Paris.
+
+Paris.
+
+Ville de Paris.
+
+Val-de-Marne.
+
+Paris.
+
+Le département.
+
+
+Seine-et-Marne
+
+Melun.
+
+Le département.
 
 Cour d'appel de Pau
 
@@ -510,18 +470,13 @@ Landes.
 
 Mont-de-Marsan.
 
-Le département des Landes, moins le canton de Saint-Martin-de-Seignanx.
+Le département.
 
 Pyrénées-Atlantiques.
 
 Pau.
 
-Arrondissements de Pau et d'Oloron.
-
-Bayonne.
-
-L'arrondissement de Bayonne et le canton de Saint-Martin-de-Seignanx, du
-département des Landes
+Le département.
 
 Hautes-Pyrénées.
 
@@ -535,13 +490,7 @@ Charente-Maritime.
 
 La Rochelle.
 
-Les arrondissements de La Rochelle et de Rochefort, moins les cantons de la
-Tremblade et de Royan.
-
-Saintes.
-
-Les arrondissements de Saintes, Jonzac, et Saint-Jean-d'Angély, plus les cantons
-de La Tremblade et de Royan.
+Le département.
 
 Deux-Sèvres.
 
@@ -551,8 +500,7 @@ Le département.
 
 Vendée.
 
-
-La Roche-sur-Yon
+La Roche-sur-Yon.
 
 Le département.
 
@@ -592,13 +540,9 @@ Le département.
 
 Finistère.
 
-Brest.
-
-Les arrondissements de Brest, Morlaix et le canton de Crozon.
-
 Quimper.
 
-Les arrondissements de Quimper, de Châteaulin, moins le canton de Crozon.
+Le département.
 
 Ille-et-Vilaine.
 
@@ -634,7 +578,7 @@ Le département.
 
 Haute-Loire.
 
-Le Puy-en-Velay.
+Le Puy.
 
 Le département.
 
@@ -655,10 +599,6 @@ Le département.
 Seine-Maritime.
 
 Rouen.
-
-Les arrondissements de Rouen et de Dieppe.
-
-Le Havre.
 
 Le département.
 
@@ -690,27 +630,28 @@ Le département.
 
 Cour d'appel de Versailles
 
-Eure-et-Loir.
 
-Chartres.
+Hauts-de-Seine
 
-Le département.
-
-Hauts-de-Seine.
-
-Nanterre.
+Versailles.
 
 Le département.
 
 Val-d'Oise.
 
-Pontoise.
+Versailles.
 
 Le département.
 
 Yvelines.
 
 Versailles.
+
+Le département.
+
+Eure-et-Loir.
+
+Chartres.
 
 Le département.
 
@@ -722,13 +663,16 @@ Pointe-à-Pitre.
 
 Le département.
 
-Cour d'appel de Fort-de-France
+Cour d'appel de Cayenne
 
 Guyane.
 
 Cayenne.
 
-Le département.
+
+Le département
+
+Cour d'appel de Fort-de-France
 
 Martinique.
 
