@@ -16,9 +16,12 @@ Ces mêmes bâtiments doivent être équipés de lignes de communications
 électroniques à très haut débit en fibre optique desservant chacun des
 logements. Ces lignes relient chaque logement, avec au moins une fibre par
 logement, à un point de raccordement dans le bâtiment, accessible et permettant
-l'accès à plusieurs réseaux de communications électroniques. A cet effet, le
-bâtiment doit disposer d'une adduction d'une taille suffisante pour permettre le
-passage des câbles de plusieurs opérateurs depuis la voie publique jusqu'au
+l'accès à plusieurs réseaux de communications électroniques. Dans les zones à
+forte densité et dans les conditions définies par arrêté conjoint du ministre
+chargé de la construction et du ministre chargé des communications
+électroniques, l'obligation peut être portée jusqu'à quatre fibres par logement.
+Le bâtiment doit disposer d'une adduction d'une taille suffisante pour permettre
+le passage des câbles de plusieurs opérateurs depuis la voie publique jusqu'au
 point de raccordement. Chacun des logements est équipé d'une installation
 intérieure de nature à permettre la desserte de chacune des pièces principales.
 
