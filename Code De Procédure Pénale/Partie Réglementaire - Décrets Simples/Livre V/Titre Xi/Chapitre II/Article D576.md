@@ -1,12 +1,10 @@
 Article D576
 ----
-Le juge de l'application des peines :
+Au sein de chaque juridiction, le juge de l'application des peines, le procureur
+de la République et les autres magistrats mandants déterminent les orientations
+générales relatives à l'exécution des mesures confiées au service pénitentiaire
+d'insertion et de probation ainsi que celles relatives à l'exécution des peines
+privatives de liberté, et évaluent ensuite leur mise en œuvre.
 
-1° Détermine les orientations générales relatives à l'exécution des mesures
-confiées au service pénitentiaire d'insertion et de probation ;
-
-2° Evalue leur mise en oeuvre par le service.
-
-Le juge de l'application des peines exerce ces attributions en concertation avec
-les autres magistrats mandants. Les chefs de juridiction organisent cette
-concertation.
+Les chefs de juridiction organisent la concertation entre les magistrats
+concernés.
