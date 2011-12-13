@@ -52,7 +52,7 @@ Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes.
 
 Fort-de-France
 
-Ressort des cours d'appel de Basse-Terre et Fort-de-France.
+Ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France.
 
 
 Saint-Denis

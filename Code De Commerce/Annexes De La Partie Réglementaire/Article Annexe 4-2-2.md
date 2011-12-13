@@ -24,7 +24,7 @@ Le ressort des cours d'appel d'Amiens, Douai, Reims et Rouen.
 
 Fort-de-France.
 
-Le ressort des cours d'appel de Basse-Terre et de Fort-de-France.
+Le ressort des cours d'appel de Basse-Terre, de Cayenne et de Fort-de-France.
 
 Lyon.
 

@@ -51,4 +51,4 @@ Angers, Caen, Poitiers, Rennes
 
 Fort-de-France
 
-Basse-Terre, Fort-de-France
+Basse-Terre, Cayenne, Fort-de-France

@@ -211,10 +211,8 @@ Belfort
 
 Ressort du tribunal de grande instance de Belfort.
 
-Cour d'appel de Bordeaux
+Cour d'appel de Bordeaux Charente
 
-
-Charente
 
 Angoulême
 
@@ -293,6 +291,13 @@ Orne
 Alençon
 
 Ressort des tribunaux de grande instance d'Alençon et Argentan.
+
+Cour d'appel de Cayenne (Guyane)
+
+
+Cayenne
+
+Ressort du tribunal de grande instance de Cayenne.
 
 Cour d'appel de Chambéry
 
@@ -429,17 +434,8 @@ Saint-Omer
 
 Ressort du tribunal de grande instance de Saint-Omer.
 
-Cour d'appel de Fort-de-France
+Cour d'appel de Fort-de-France (Martinique)
 
-
-Guyane
-
-Cayenne
-
-Ressort du tribunal de grande instance de Cayenne.
-
-
-Martinique
 
 Fort-de-France
 

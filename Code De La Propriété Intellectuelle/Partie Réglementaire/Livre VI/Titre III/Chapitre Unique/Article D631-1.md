@@ -6,11 +6,8 @@ actions en matière d'obtentions végétales en application de l'article L. 623-
 du code de la propriété intellectuelle sont fixés conformément au tableau V
 annexé au code de l'organisation judiciaire, ci-après reproduit :
 
-
 Siège et ressort des tribunaux de grande instance compétents pour connaître des
-actions
-
-en matière d'obtentions végétales (annexe de l'article D. 211-5)
+actions en matière d'obtentions végétales (annexe de l'article D. 211-5)
 
 
 SIÈGE

@@ -8,8 +8,9 @@ circonscriptions définies à ce tableau, des crimes visés à l'article 706-26.
 ANNEXE
 
 LISTE ET RESSORT DES COURS D'ASSISES COMPÉTENTES POUR JUGER LES CRIMES VISÉS PAR
-L'ARTICLE 706-26 DU CODE DE PROCÉDURE PÉNALE (Infractions en matière de trafic
-de stupéfiants)
+L'ARTICLE 706-26 DU CODE DE PROCÉDURE PÉNALE
+
+(Infractions en matière de trafic de stupéfiants)
 
 COUR D'APPEL
 
@@ -268,17 +269,19 @@ Cour d'assises de la Guadeloupe
 Ressort de la cour d'appel de Basse-Terre
 
 
+Cayenne
+
+Cour d'assises de la Guyane
+
+
+Département de la Guyane
+
 Fort-de-France
 
 Cour d'assises de la Martinique
 
 
 Département de la Martinique
-
-Cour d'assises de la Guyane
-
-
-Département de la Guyane
 
 Saint-Denis-de-la-Réunion
 

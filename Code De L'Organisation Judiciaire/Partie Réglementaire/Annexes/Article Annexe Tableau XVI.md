@@ -34,7 +34,7 @@ Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen.
 
 Fort-de-France
 
-Ressort des cours d'appel de Basse-Terre et Fort-de-France.
+Ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France.
 
 
 Lyon

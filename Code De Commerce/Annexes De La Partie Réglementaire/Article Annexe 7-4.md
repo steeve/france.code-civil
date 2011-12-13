@@ -1,6 +1,7 @@
 Article Annexe 7-4
 ----
 Nombre d'assesseurs des chambres commerciales des tribunaux de grande instance
+
 des départements du Bas-Rhin, du Haut-Rhin et de la Moselle
 
 
@@ -79,6 +80,15 @@ Pointe-à-Pitre
 
 6
 
+Cour d'appel de Cayenne
+
+
+Guyane
+
+Cayenne
+
+5
+
 Cour d'appel de Fort-de-France
 
 
@@ -87,13 +97,6 @@ Martinique
 Fort-de-France
 
 7
-
-
-Guyane
-
-Cayenne
-
-5
 
 Cour d'appel de Saint-Denis de La Réunion
 

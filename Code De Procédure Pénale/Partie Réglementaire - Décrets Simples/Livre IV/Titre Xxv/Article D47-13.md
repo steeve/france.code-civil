@@ -68,4 +68,4 @@ Fort-de-France
 
 Cour d'assises de la Martinique
 
-Basse-Terre, Fort-de-France
+Basse-Terre, Cayenne, Fort-de-France
