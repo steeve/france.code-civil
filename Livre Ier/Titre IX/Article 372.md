@@ -9,5 +9,5 @@ parentale. Il en est de même lorsque la filiation est judiciairement déclarée
 l'égard du second parent de l'enfant.
 
 L'autorité parentale pourra néanmoins être exercée en commun en cas de
-déclaration conjointe des père et mère devant le greffier en chef du tribunal de
-grande instance ou sur décision du juge aux affaires familiales.
+déclaration conjointe des père et mère adressée au greffier en chef du tribunal
+de grande instance ou sur décision du juge aux affaires familiales.
