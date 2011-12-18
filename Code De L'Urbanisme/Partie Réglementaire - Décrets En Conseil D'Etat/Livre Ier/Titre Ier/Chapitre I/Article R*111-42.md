@@ -19,8 +19,8 @@ de visibilité des édifices classés ou inscrits au titre des monuments
 historiques et des parcs et jardins classés ou inscrits ayant fait l'objet d'un
 périmètre de protection délimité dans les conditions fixées à l'article L.
 621-30-1 du code du patrimoine et dans les zones de protection du patrimoine
-architectural, urbain et paysager instituées en application de l'article L.
-642-1 du même code ;
+architectural, urbain et paysager ou dans les aires de mise en valeur de
+l'architecture et du patrimoine ;
 
 4° Sauf dérogation accordée, après avis favorable du conseil départemental de
 l'environnement et des risques sanitaires et technologiques, par l'autorité

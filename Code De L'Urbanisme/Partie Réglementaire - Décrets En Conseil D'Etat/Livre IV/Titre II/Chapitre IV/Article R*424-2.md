@@ -8,8 +8,7 @@ a) Lorsque les travaux sont soumis à l'autorisation du ministre de la défense 
 à une autorisation au titre des sites classés ou des réserves naturelles ;
 
 b) Lorsque le projet fait l'objet d'une évocation par le ministre chargé des
-sites ou par le ministre chargé des monuments historiques et des espaces
-protégés ;
+sites ;
 
 c) Lorsque le projet porte sur un immeuble inscrit ou un immeuble adossé à un
 immeuble classé au titre des monuments historiques ;

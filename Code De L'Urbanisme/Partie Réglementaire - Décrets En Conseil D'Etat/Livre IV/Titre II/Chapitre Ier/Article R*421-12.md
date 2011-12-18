@@ -5,8 +5,8 @@ située :
 
 a) Dans un secteur sauvegardé dont le périmètre a été délimité, dans le champ de
 visibilité d'un monument historique défini à l'article L. 621-30-1 du code du
-patrimoine ou dans une zone de protection du patrimoine architectural, urbain et
-paysager créée en application de l'article L. 642-1 du code du patrimoine ;
+patrimoine dans une zone de protection du patrimoine architectural, urbain et
+paysager ou dans une aire de mise en valeur de l'architecture et du patrimoine ;
 
 b) Dans un site inscrit ou dans un site classé en application des articles L.
 341-1 et L. 341-2 du code de l'environnement ;

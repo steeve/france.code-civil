@@ -14,7 +14,9 @@ des articles L. 411-1 à L. 413-1 du code forestier ;
 
 Prescriptions et interdictions auxquelles sont soumis les propriétaires en
 application des articles L. 421-1, L. 432-1, L. 432-2, L. 531-1 et L. 541-2 du
-code forestier (2) ;
+code forestier
+
+(2) ;
 
 b) Littoral maritime.
 
@@ -67,11 +69,14 @@ en application de l'article 1er (alinéas 2 et 3) de la loi du 31 décembre 1913
 autour des monuments historiques classés ou inscrits ;
 
 Zones de protection des monuments historiques créées en application de l'article
-28 de la loi du 2 mai 1930 modifiée (3)
+28 de la loi du 2 mai 1930 modifiée (3) ;
 
 Périmètres de protection des monuments historiques classés ou inscrits et portés
 sur la liste visée ci-dessus, tels qu'ils résultent des dispositions combinées
-des articles 1er et 13 bis de la loi du 31 décembre 1913.
+des articles 1er et 13 bis de la loi du 31 décembre 1913 ;
+
+Aires de mise en valeur de l'architecture et du patrimoine créées en application
+de l'article L. 642-1 du code du patrimoine.
 
 b) Monuments naturels et sites.
 
@@ -204,7 +209,9 @@ communales ;
 
 Servitudes relatives aux interdictions d'accès grevant les propriétés
 limitrophes des routes express et des déviations d'agglomérations en application
-des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969 (10) .
+des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969
+
+(10) .
 
 e) Circulation aérienne.
 
@@ -282,9 +289,13 @@ a) Cimetières.
 
 Servitudes relatives aux cimetières instituées par :
 
-L'article L. 361-1 du code des communes (11) ;
+L'article L. 361-1 du code des communes
 
-L'article L. 361-4 du code des communes (12) .
+(11) ;
+
+L'article L. 361-4 du code des communes
+
+(12) .
 
 b) Etablissements conchylicoles.
 
