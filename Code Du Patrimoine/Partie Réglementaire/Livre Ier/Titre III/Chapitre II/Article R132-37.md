@@ -1,6 +1,7 @@
 Article R132-37
 ----
-L'ensemble des documents diffusés lors de journées choisies par l'Institut
-national de l'audiovisuel, dont le nombre ne peut excéder sept par an par
-déposant, sont déposés à l'Institut national de l'audiovisuel, sur sa demande,
-par les sociétés et les services mentionnés à l'article R. 132-34.
+Les documents mentionnés aux articles R. 132-35 et R. 132-36 sont considérés
+comme étant d'origine française dès lors qu'ils sont entièrement produits par
+une entreprise de droit français ou qu'un apport en part producteur ou un
+préachat de droits de diffusion réalisé par une entreprise de droit français
+figure dans le budget de production de ces documents.
