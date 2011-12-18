@@ -62,9 +62,9 @@ La mise en demeure de payer interrompt la prescription de l'action en
 recouvrement.
 
 L'envoi de la mise en demeure de payer tient lieu du commandement prescrit par
-le code de procédure civile préalablement à une saisie-vente. Dans ce cas, la
-mise en demeure de payer n'est pas soumise aux conditions générales de validité
-des actes des huissiers de justice ;
+le code des procédures civiles d'exécution préalablement à une saisie-vente.
+Dans ce cas, la mise en demeure de payer n'est pas soumise aux conditions
+générales de validité des actes des huissiers de justice ;
 
 6° Pour les créances d'un montant inférieur à 15 000 €, la mise en demeure de
 payer est précédée d'une lettre de relance adressée par le comptable public
@@ -101,7 +101,9 @@ L'opposition à tiers détenteur emporte l'effet d'attribution immédiate, prév
 l'article 43 de la loi n° 91-650 du 9 juillet 1991 portant réforme des
 procédures civiles d'exécution, des sommes saisies disponibles au profit de la
 collectivité ou de l'établissement public local créancier à concurrence des
-sommes pour lesquelles l'opposition est pratiquée.
+sommes pour lesquelles l'opposition est pratiquée. Les dispositions des articles
+L. 162-1 et L. 162-2 du code des procédures civiles d'exécution sont en outre
+applicables.
 
 Sous peine de se voir réclamer les sommes saisies majorées du taux d'intérêt
 légal, les fonds doivent être reversés dans les trente jours qui suivent la

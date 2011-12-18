@@ -12,10 +12,10 @@ l'acheminement gratuit des appels d'urgence.
 Les conditions tarifaires incluent le maintien, pendant une année, en cas de
 défaut de paiement, d'un service restreint comportant la possibilité de recevoir
 des appels ainsi que d'acheminer des appels téléphoniques aux services gratuits
-ou aux services d'urgence au bénéfice du débiteur saisi en application de la loi
-n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution
-et du débiteur qui fait l'objet de mesures prévues aux articles L. 331-1 et
-suivants du code de la consommation.
+ou aux services d'urgence au bénéfice du débiteur saisi en application de la
+partie législative du code des procédures civiles d'exécution et du débiteur qui
+fait l'objet de mesures prévues aux articles L. 331-1 et suivants du code de la
+consommation.
 
 Toute personne obtient, sur sa demande, l'abonnement au service d'un opérateur
 chargé du service universel dans les conditions prévues par le présent code. Le

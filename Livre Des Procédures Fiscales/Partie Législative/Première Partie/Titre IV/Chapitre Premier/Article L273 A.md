@@ -12,7 +12,8 @@ rémunération.
 
 Elle emporte l'effet d'attribution immédiate, prévu à l'article L. 211-2 du code
 des procédures civiles d'exécution, des sommes saisies disponibles à concurrence
-des sommes pour lesquelles la saisie est pratiquée.
+des sommes pour lesquelles la saisie est pratiquée. Les dispositions des
+articles L. 162-1 et L. 162-2 de ce code sont en outre applicables.
 
 Sous peine de se voir réclamer les sommes saisies majorées du taux d'intérêt
 légal, les fonds doivent être reversés dans les trente jours qui suivent la

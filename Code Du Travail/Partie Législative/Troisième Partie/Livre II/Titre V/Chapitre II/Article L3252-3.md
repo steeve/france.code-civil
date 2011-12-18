@@ -7,7 +7,7 @@ obligatoires.
 
 Il est en outre tenu compte d'une fraction insaisissable égale au montant
 forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et
-des familles applicable au foyer du salarié.
+des familles applicable à un foyer composé d'une seule personne.
 
 Il n'est pas tenu compte des indemnités insaisissables, des sommes allouées à
 titre de remboursement de frais exposés par le travailleur et des allocations ou

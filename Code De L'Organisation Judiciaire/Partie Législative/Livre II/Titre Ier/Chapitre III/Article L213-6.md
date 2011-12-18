@@ -17,3 +17,6 @@ découle.
 Il connaît, sous la même réserve, des demandes en réparation fondées sur
 l'exécution ou l'inexécution dommageables des mesures d'exécution forcée ou des
 mesures conservatoires.
+
+Le juge de l'exécution exerce également les compétences particulières qui lui
+sont dévolues par le code des procédures civiles d'exécution.

@@ -7,7 +7,8 @@ redevable possède à l'encontre du tiers détenteur deviennent effectivement
 exigibles.
 
 Il comporte l'effet d'attribution immédiate prévu à l'article 43 de la loi n°
-91-650 du 9 juillet 1991.
+91-650 du 9 juillet 1991. Les dispositions des articles L. 162-1 et L. 162-2 de
+ce code sont en outre applicables.
 
 Lorsqu'une personne est simultanément destinataire de plusieurs avis établis au
 nom du même débiteur, émanant des comptables chargés du recouvrement

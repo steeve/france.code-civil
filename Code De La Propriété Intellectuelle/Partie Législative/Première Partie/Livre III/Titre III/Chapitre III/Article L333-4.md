@@ -1,5 +1,5 @@
 Article L333-4
 ----
-Les dispositions du présent chapitre ne font pas obstacle aux saisies-arrêts
-pratiquées en vertu des dispositions du code civil relatives aux créances
-d'aliments.
+Les dispositions du présent chapitre ne font pas obstacle aux saisies pratiquées
+en vue du recouvrement des créances d'aliments prévues par les dispositions du
+code civil.
