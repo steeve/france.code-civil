@@ -11,10 +11,11 @@ ils appartiennent, à chaque renouvellement de celle-ci ;
 3° Un membre du Conseil supérieur de la formation et de la recherche
 stratégiques, désigné par le président de son conseil d'administration ;
 
-4° Neuf représentants de l'Etat désignés par le Premier ministre, sur
-proposition des ministres concernés :
+4° Dix représentants de l'Etat désignés par le Premier ministre, sur proposition
+des ministres concernés :
 
-- trois représentants du ministre de la défense ;
+- quatre représentants du ministre de la défense dont un appartenant à la
+direction générale de l'armement ;
 
 - deux représentants du ministre des affaires étrangères ;
 
@@ -36,10 +37,9 @@ défense nationale ;
 7° Un représentant des associations d'auditeurs désigné par le Premier ministre
 ;
 
-8° Six personnalités qualifiées désignées par le Premier ministre :
+8° Cinq personnalités qualifiées désignées par le Premier ministre :
 
-- deux militaires dont un des corps relevant de la délégation générale pour
-l'armement, sur proposition du ministre de la défense ;
+- un militaire sur proposition du ministre de la défense ;
 
 - deux personnalités du monde économique, sur proposition du ministre chargé de
 l'économie ;
