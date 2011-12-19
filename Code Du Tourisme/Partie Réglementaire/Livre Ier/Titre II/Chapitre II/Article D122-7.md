@@ -27,22 +27,22 @@ leurs représentants ;
 
 -le président de l'Assemblée des départements de France ou son représentant ;
 
--le président de la Fédération nationale des comités départementaux du tourisme
-(FNCDT) ou son représentant ;
+- le président du Réseau national des destinations départementales (RN2D) ou son
+représentant ;
 
 -sept présidents de comités départementaux de tourisme (CDT) désignés sur
-proposition du président de la Fédération nationale des comités départementaux
-du tourisme ou leurs représentants ;
+proposition du président du Réseau national des destinations départementales ou
+leurs représentants ;
 
--le président de la Fédération nationale des loisirs accueil France (FNLAF) ou
-son représentant ;
+-le président de l'Association des maires des grandes villes de France (AMGVF)
+ou son représentant ;
 
--le président de la Fédération nationale des offices de tourisme et syndicats
-d'initiative (FNOTSI) ou son représentant ;
+-le président des Offices de tourisme de France-Fédération nationale ou son
+représentant ;
 
--sept présidents d'offices de tourisme et syndicats d'initiative (OTSI) désignés
-sur proposition du président de la Fédération nationale des offices de tourisme
-et syndicats d'initiative (FNOTSI) ou leurs représentants ;
+-sept présidents d'offices de tourisme de France désignés sur proposition du
+président d'Offices de tourisme de France-Fédération nationale ou leurs
+représentants ;
 
 -le président de l'Assemblée des conseils économiques, sociaux et
 environnementaux régionaux de France ou son représentant ;
@@ -54,14 +54,14 @@ représentants ;
 
 -le président de l'Association des maires de France (AMF) ou son représentant ;
 
--le président de l'Assemblée des communautés de France (ACF) ou son représentant
-;
+-le président de l'Assemblée des Communautés de France (AdCF) ou son
+représentant ;
 
 -le président de l'Association nationale des maires des stations classées et des
 communes touristiques (ANMSCCT) ou son représentant ;
 
--le président de l'Association des maires des stations françaises de sports
-d'hiver et d'été (AMSFSHE) ou son représentant ;
+-le président de l'Association nationale des maires des stations de montagne
+(ANMSM) ou son représentant ;
 
 -le président de l'Association nationale des élus de la montagne (ANEM) ou son
 représentant ;
@@ -69,8 +69,8 @@ représentant ;
 -le président de l'Association nationale des élus du littoral (ANEL) ou son
 représentant ;
 
--le président de la Fédération nationale des pays d'accueil touristiques (FNPAT)
-ou son représentant ;
+-le président de l'Union des exploitants des chemins de fer touristiques et de
+musées (UNECTO) ou son représentant ;
 
 -le président de la Fédération française des stations vertes de vacances et des
 villages de neige ou son représentant ;
@@ -104,16 +104,14 @@ son représentant ;
 -le président de la Fédération nationale des syndicats d'exploitants agricoles
 (FNSEA) ou son représentant ;
 
--le président du Centre national des jeunes agriculteurs (CNJA) ou son
-représentant ;
+-le président des jeunes agriculteurs ou son représentant ;
 
 4° Représentants des professions touristiques et d'organismes qualifiés :
 
 -le président de la Fédération nationale des gîtes de France (FNGF) ou son
 représentant ;
 
--le président de la Fédération nationale des Logis de France (FNLF) ou son
-représentant ;
+-le président de la Fédération internationale des Logis ou son représentant ;
 
 -le président de Clé-Vacances ou son représentant ;
 
@@ -141,27 +139,27 @@ son représentant ;
 -cinq représentants d'entreprises d'hôtellerie-restauration et de résidences de
 tourisme ;
 
--deux représentants de l'hôtellerie de plein air ;
+-trois représentants de l'hôtellerie de plein air ;
 
 -le président du Syndicat national des agences de voyages (SNAV) ou son
 représentant ;
 
--le président du Cercle d'études des tours-opérateurs français (CETO) ou son
-représentant ;
+-le président de l'Association des tour-opérateurs ou son représentant ;
 
--le président de France Ferries et croisières (FFC) ou son représentant ;
+-le président de l'Association française des compagnies de croisières (AFCC) ou
+son représentant ;
 
 -huit représentants d'entreprises ayant un réseau d'agences de voyages ou
 exerçant le métier de tour-opérateur ;
 
--le président de la Fédération nationale des guides-interprètes (FNGI) ou son
-représentant ;
+-le président de la Fédération nationale des guides-interprètes et conférenciers
+(FNGIC) ou son représentant ;
 
 -le président de la Fédération française des techniciens et scientifiques du
 tourisme (FFTST) ou son représentant ;
 
--le président de l'Association française des experts scientifiques du tourisme
-(AFEST) ou son représentant ;
+-le président de l'Association francophone des experts et scientifiques du
+tourisme (AFEST) ou son représentant ;
 
 -le président du Syndicat national de l'ingénierie loisirs-culture-tourisme
 (GéFIL) ou son représentant ;
@@ -176,8 +174,6 @@ représentant ;
 -le président de l'Union nationale des associations de tourisme (UNAT) ou son
 représentant ;
 
--le président de la Bourse solidarité vacances (BSV) ou son représentant ;
-
 -le président de Vacanciel ou son représentant ;
 
 -le président de la Caisse nationale des allocations familiales (CNAF) ou son
@@ -190,8 +186,7 @@ représentant ;
 6° Représentants d'organismes d'animation touristique et de valorisation des
 territoires :
 
--le président du Centre national des monuments nationaux (CMN) ou son
-représentant ;
+-le président du Centre des monuments nationaux (CMN) ou son représentant ;
 
 -le président de l'Etablissement public de la Réunion des musées nationaux et du
 Grand Palais des Champs-Elysées ou son représentant ;
@@ -205,14 +200,14 @@ son représentant ;
 
 -le président de France Congrès ou son représentant ;
 
--le président de Foires, salons et congrès de France (FSCF) ou son représentant
-;
+-le président de Foires, salons, congrès et événements de France (FSCEF) ou son
+représentant ;
 
--le président de l'Association nationale des agences-conseil en événement (ANAE)
-ou son représentant ;
+-le président de l'Association des agences de communication événementielle
+(ANAé) ou son représentant ;
 
--le président du Syndicat national des espaces de loisirs et d'attractions
-(SNELAC) ou son représentant ;
+-le président du Syndicat national des espaces de loisirs, d'attractions et
+culturels (SNELAC) ou son représentant ;
 
 -quatre représentants d'entreprises d'animation touristique ;
 
@@ -230,11 +225,10 @@ représentant ;
 
 -le président de l'Institut géographique national (IGN) ou son représentant ;
 
--le président de la Conférence permanente du tourisme rural (CPTR) ou son
-représentant ;
+-le président du Conseil supérieur de l'œnotourisme ou son représentant ;
 
--le président de la Conférence permanente du tourisme urbain (CPTU) ou son
-représentant ;
+-le président de la Conférence nationale permanente du tourisme urbain (CNPTU)
+ou son représentant ;
 
 -le président de la Fédération des parcs naturels régionaux (FPNR) ou son
 représentant ;
@@ -247,7 +241,7 @@ son représentant ;
 7° Représentants des secteurs de l'emploi, de la formation et de la recherche :
 
 -le président de l'institution mentionnée à l'article L. 5312-1 du code du
-travail (ANPE) ou son représentant ;
+travail (Pôle emploi) ou son représentant ;
 
 -le président du Centre d'études et de recherche sur les qualifications (CEREQ)
 ou son représentant ;
@@ -258,30 +252,29 @@ ou son représentant ;
 -le président de l'Institut national de formation et d'application (INFA) ou son
 représentant ;
 
--le président du Réseau d'appui et de capitalisation des innovations européennes
-(RACINE) ou son représentant ;
+- le président de l'université Paris-Est Marne-la-Vallée (Cluster tourisme) ou
+son représentant ;
 
 -le président de l'Institut de management hôtelier international (IMHI) du
 groupe ESSEC ou son représentant ;
 
--trois représentants de centres de ressources sur l'emploi dans le tourisme ;
+-deux représentants de centres de ressources sur l'emploi dans le tourisme ;
 
--le directeur général du CEMAGREF-Institut de recherche pour l'ingénierie de
-l'agriculture et de l'environnement ou son représentant ;
+-le directeur général du CEMAGREF-Institut de recherche en sciences et
+technologies pour l'environnement ou son représentant ;
 
--le président de l'Institut national de recherche sur les transports et leur
-sécurité (INRETS) ou son représentant ;
+-le président de l'Institut français des sciences et technologies des
+transports, de l'aménagement et des réseaux (IFSTTAR) ou son représentant ;
 
--le président du Programme de recherche et d'innovation dans les transports
-terrestres (PREDIT) ou son représentant ;
+-le président du Conservatoire national des arts et métiers (CNAM) ou son
+représentant ;
 
 -quatre représentants d'organismes de recherche universitaire en tourisme ;
 
 8° Représentants d'organisations et d'activités professionnelles liées au
 tourisme :
 
--le président du Syndicat national des entreprises de tourisme (SNET) ou son
-représentant ;
+-le président des Autocars de France ou son représentant ;
 
 -le président de la Fédération nationale des transports de voyageurs (FNTV) ou
 son représentant ;
@@ -289,16 +282,14 @@ son représentant ;
 -le président du Conseil national des professions de l'automobile (CNPA),
 branche loueurs, ou son représentant ;
 
--le président du Syndicat national des téléphériques de France (SNTF) ou son
-représentant ;
+-le président de Domaines skiables de France ou son représentant ;
 
--sept représentants des activités de transports ou d'infrastructures de
+-douze représentants des activités de transports ou d'infrastructures de
 transports liées au tourisme ;
 
 -le président de la Fédération bancaire française (FBF) ou son représentant ;
 
--le directeur général de la Caisse des dépôts et consignations (CDC) ou son
-représentant ;
+-le directeur général du groupe Caisse des dépôts ou son représentant ;
 
 -le président-directeur général d'OSEO ou son représentant ;
 
@@ -310,11 +301,11 @@ représentant ;
 -le président du Groupement des entreprises mutuelles d'assurances (GEMA) ou son
 représentant ;
 
--le président de l'Association professionnelle de solidarité du tourisme (APS)
+-le président de l'Association professionnelle de solidarité du tourisme (APST)
 ou son représentant ;
 
--le président de la Fédération nationale des sociétés d'économie mixte (FNSEM)
-ou son représentant ;
+-le président de la Fédération nationale des entreprises publiques locales
+(FNEPL) ou son représentant ;
 
 -le président de la Fédération nationale de l'immobilier (FNAIM) ou son
 représentant ;
@@ -329,10 +320,9 @@ représentant ;
 (ACFCI) ou son représentant ;
 
 -le président de l'Assemblée permanente des chambres de métiers et de
-l'artisanat de région (APCM) ou son représentant ;
+l'artisanat (APCMA) ou son représentant ;
 
--le président de l'Union des chambres de commerce et établissements
-gestionnaires d'aéroports (UCCEGA) ;
+-le président de l'Union des aéroports français (UAF) ou son représentant ;
 
 -le président du groupe AFNOR ou son représentant ;
 
@@ -343,14 +333,11 @@ ou son représentant ;
 
 9° Représentants d'organisations de consommateurs et usagers :
 
--trois représentants désignés par le collège " consommateurs " du Conseil
-national de la consommation ;
+-trois représentants désignés par le ministre chargé de la consommation, après
+avis du Conseil national de la consommation ;
 
 -le président de la Fédération nationale de camping et de caravaning (FNCC) ou
 son représentant ;
-
--le président du Conseil national des clients aériens (CNCA) ou son représentant
-;
 
 -quatre représentants d'associations de personnes handicapées ;
 

@@ -1,6 +1,6 @@
 Article D122-11
 ----
-Le comité permanent a compétence, par délégation du Conseil national du
+Le comité stratégique a compétence, par délégation du Conseil national du
 tourisme, pour émettre les avis requis sur les textes législatifs et
 réglementaires ou ayant une incidence sur le tourisme et sur toute autre demande
 d'avis à l'initiative du ministre chargé du tourisme.
@@ -14,5 +14,5 @@ tourisme.
 Il peut saisir le ministre chargé du tourisme de toute question concernant le
 tourisme.
 
-Sur proposition du secrétaire général, le comité permanent établit le règlement
-intérieur du Conseil national du tourisme.
+Sur proposition du secrétaire général, le comité stratégique établit le
+règlement intérieur du Conseil national du tourisme.
