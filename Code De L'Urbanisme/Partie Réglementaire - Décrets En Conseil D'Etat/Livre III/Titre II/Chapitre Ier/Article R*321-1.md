@@ -1,7 +1,24 @@
 Article R*321-1
 ----
-Les opérations mentionnées au premier alinéa de l'article L. 321-1 peuvent être
-confiées à des sociétés d'économie mixte dont le capital social est détenu, à
-concurrence de plus de 50 % sans pouvoir excéder 65 %, par des collectivités
-territoriales et des groupements de ces collectivités. Les statuts de ces
-sociétés comportent des clauses types fixées par décret en Conseil d'Etat.
+Les établissements publics fonciers de l'Etat créés en application de l'article
+L. 321-1, les établissements publics d'aménagement créés en application de
+l'article L. 321-14 et l'Agence foncière et technique de la région parisienne
+mentionnée à l'article L. 321-29 ont un caractère industriel et commercial.
+
+Ils sont placés sous la tutelle du ministre chargé de l'urbanisme.
+
+Le décret constitutif de l'établissement public détermine son objet, son
+périmètre de compétence et éventuellement sa durée.
+
+Il fixe ses statuts, notamment en ce qui concerne :
+
+-la composition du conseil d'administration, celle du bureau et la désignation
+de son président le cas échéant ;
+
+-les pouvoirs du conseil d'administration ;
+
+-les délégations au bureau sous réserve des dispositions de l'article R. * 321-6
+et au directeur général sous réserve de celles du I de l'article R. * 321-9 ;
+
+-les modalités de publicité des délibérations et des décisions sous réserve des
+dispositions de l'article R. * 321-12.

@@ -1,7 +1,8 @@
 Article R*321-11
 ----
-Les délibérations mentionnées à l'article L. 321-7 ne sont exécutoires qu'après
-approbation par l'autorité chargée du contrôle.
+Les établissements publics fonciers de l'Etat, les établissements publics
+d'aménagement et l'Agence foncière et technique de la région parisienne sont
+autorisés à transiger.
 
-Cette approbation est donnée après avis du ou des directeurs départementaux de
-l'équipement.
+Les établissements publics d'aménagement et l'Agence foncière et technique de la
+région parisienne sont autorisés à compromettre.

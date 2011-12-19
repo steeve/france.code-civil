@@ -1,9 +1,13 @@
 Article R*321-12
 ----
-Dans le cas prévu au deuxième alinéa de l'article R. 321-3 [*zone d'activité
-territoriale s'étendant sur plus de 100 communes*] il peut être dérogé aux
-dispositions relatives à la nomination de l'agent comptable, au contrôle exercé
-sur l'établissement public, à la constitution de l'assemblée spéciale et à la
-désignation des représentants des collectivités locales au conseil
-d'administration, qui devront être choisis par des assemblées ou des élus de ces
-collectivités suivant les modalités fixées par le décret créant l'établissement.
+Les actes à caractère réglementaire pris par délibération du conseil
+d'administration ou du bureau des établissements publics fonciers de l'Etat, des
+établissements publics d'aménagement, de l'Agence foncière et technique de la
+région parisienne ou par le directeur général par délégation du conseil
+d'administration ou en vertu de ses compétences propres en application des lois
+et règlements sont publiés dans un recueil tenu par l'établissement dans les
+conditions fixées par le règlement intérieur.
+
+Les décisions relatives à l'exercice du droit de préemption ou de priorité font,
+en plus de la publication prévue à l'alinéa précédent, l'objet d'un affichage
+dans les mairies concernées par celles-ci pendant une durée de deux mois.

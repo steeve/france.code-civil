@@ -1,10 +1,24 @@
 Article R*321-18
 ----
-Le commissaire du Gouvernement [*attributions*] dispose des pouvoirs définis au
-décret n. 56-560 du 7 juin 1956. Il est notamment chargé, sous l'autorité du
-ministre chargé de l'urbanisme et du ou des ministres intéressés, de contrôler
-l'opportunité technique des opérations à entreprendre et les modalités générales
-de leur réalisation.
+I.-Les délibérations du conseil d'administration et du bureau des établissements
+publics fonciers de l'Etat et des établissements publics d'aménagement relatives
+aux prévisions budgétaires, aux emprunts, aux opérations à entreprendre, aux
+créations de filiales, aux acquisitions de participations, aux procédures de
+transaction, à l'exercice du droit de préemption ou de priorité ainsi que les
+décisions du directeur général prises pour l'exercice de ce droit sont
+transmises au préfet compétent et sont soumises à son approbation.
 
-Le contrôle économique et financier de l'Etat s'exerce, en outre, dans les
-conditions prévues par le décret n. 55-733 du 26 mai 1955.
+Il en est de même des délibérations du conseil d'administration des
+établissements publics d'aménagement relatives aux procédures d'arbitrage.
+
+II.-Les délibérations du conseil d'administration de l'Agence foncière et
+technique de la région parisienne relatives aux prévisions budgétaires, aux
+projets d'emprunt, aux créations de filiales, aux acquisitions de participations
+et aux procédures d'arbitrage et de transaction sont transmises au préfet
+compétent et soumises à son approbation.
+
+III.-Les délibérations mentionnées au présent article sont exécutoires dans les
+conditions prévues à l'article R* 321-19.
+
+Le préfet compétent peut demander au conseil d'administration d'en délibérer à
+nouveau préalablement à son approbation.

@@ -1,5 +1,6 @@
 Article R*321-2
 ----
-Les établissements publics créés en application des articles L. 321-1 et R.
-321-1 ont un caractère industriel et commercial. Ils sont dotés de la
-personnalité morale et de l'autonomie financière.
+Les dispositions des décrets en Conseil d'Etat prévues aux articles L. 321-2 et
+L. 321-15 autres que celles relatives au périmètre de l'établissement, à la
+composition et aux pouvoirs du conseil d'administration et du bureau et aux
+ressources de l'établissement peuvent être modifiées par décret.
