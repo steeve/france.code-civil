@@ -5,7 +5,7 @@ celle-ci sont déterminés par une commission présidée par un représentant de
 l'Etat et composée, en outre, pour moitié, de personnes désignées par les
 organisations représentant les bénéficiaires du droit à rémunération, pour un
 quart, de personnes désignées par les organisations représentant les fabricants
-ou importateurs des supports mentionnés au premier alinéa du précédent article
+ou importateurs des supports mentionnés au premier alinéa de l'article L. 311-4
 et, pour un quart, de personnes désignées par les organisations représentant les
 consommateurs.
 

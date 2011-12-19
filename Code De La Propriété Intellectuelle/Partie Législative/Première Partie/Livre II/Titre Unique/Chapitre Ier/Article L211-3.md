@@ -5,8 +5,9 @@ Les bénéficiaires des droits ouverts au présent titre ne peuvent interdire :
 1° Les représentations privées et gratuites effectuées exclusivement dans un
 cercle de famille ;
 
-2° Les reproductions strictement réservées à l'usage privé de la personne qui
-les réalise et non destinées à une utilisation collective ;
+2° Les reproductions réalisées à partir d'une source licite, strictement
+réservées à l'usage privé de la personne qui les réalise et non destinées à une
+utilisation collective ;
 
 3° Sous réserve d'éléments suffisants d'identification de la source :
 

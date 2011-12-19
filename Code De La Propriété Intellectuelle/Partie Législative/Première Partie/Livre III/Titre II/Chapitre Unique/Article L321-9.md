@@ -22,6 +22,7 @@ majorité simple.
 
 Le montant et l'utilisation de ces sommes font l'objet, chaque année, d'un
 rapport des sociétés de perception et de répartition des droits au ministre
-chargé de la culture. Le commissaire aux comptes vérifie la sincérité et la
+chargé de la culture et aux commissions permanentes compétentes de l'Assemblée
+nationale et du Sénat. Le commissaire aux comptes vérifie la sincérité et la
 concordance avec les documents comptables de la société des informations
 contenues dans ce rapport. Il établit à cet effet un rapport spécial.
