@@ -18,3 +18,7 @@ haute valeur environnementale ”, ou de toute autre dénomination équivalente 
 la publicité ou la présentation d'une exploitation agricole ainsi que dans les
 documents commerciaux qui s'y rapportent, est réservé aux exploitations ayant
 obtenu la certification de haute valeur environnementale.
+
+Les exploitations situées dans un autre Etat membre de l'Union européenne, dans
+un Etat partie à l'accord sur l'Espace économique européen ou en Turquie peuvent
+demander à bénéficier de cette certification.
