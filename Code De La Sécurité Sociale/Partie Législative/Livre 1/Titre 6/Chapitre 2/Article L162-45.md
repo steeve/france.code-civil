@@ -1,13 +1,12 @@
 Article L162-45
 ----
-Le comité national de gestion du fonds mentionné à l'article L. 221-1-1 et les
-agences régionales de santé peuvent prévoir la prise en charge par l'assurance
-maladie sous la forme d'un règlement forfaitaire de tout ou partie des dépenses
-du réseau. Les financements forfaitaires correspondants peuvent être versés aux
-professionnels de santé concernés ou, le cas échéant, directement à la structure
-gestionnaire du réseau. La décision détermine les modalités de ces versements
-ainsi que, le cas échéant, les prix facturés aux assurés sociaux des prestations
-fournies par le réseau.
+Les agences régionales de santé peuvent prévoir la prise en charge par
+l'assurance maladie sous la forme d'un règlement forfaitaire de tout ou partie
+des dépenses du réseau. Les financements forfaitaires correspondants peuvent
+être versés aux professionnels de santé concernés ou, le cas échéant,
+directement à la structure gestionnaire du réseau. La décision détermine les
+modalités de ces versements ainsi que, le cas échéant, les prix facturés aux
+assurés sociaux des prestations fournies par le réseau.
 
 En tant que de besoin, elle peut déroger aux dispositions suivantes du code de
 la sécurité sociale :

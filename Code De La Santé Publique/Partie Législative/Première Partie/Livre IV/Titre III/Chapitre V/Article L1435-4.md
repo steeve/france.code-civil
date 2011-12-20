@@ -26,10 +26,9 @@ d'assurance maladie, par les parties aux conventions précitées et les ministre
 chargés de la santé, des personnes âgées, des personnes handicapées et de
 l'assurance maladie.
 
-La contrepartie financière est financée par la dotation régionale qui est
-déléguée à l'agence au titre du fonds d'intervention pour la qualité et la
-coordination des soins mentionné à l'article L. 221-1-1 du code de la sécurité
-sociale et de la dotation mentionnée à l'article L. 162-22-13 du même code.
+La contrepartie financière est financée par le fonds d'intervention régional
+mentionné à l'article L. 1435-8 du présent code et la dotation mentionnée à
+l'article L. 162-22-13 du code de la sécurité sociale.
 
 L'agence régionale de santé veille au suivi et au respect des engagements
 définis dans ces contrats.
