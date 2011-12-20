@@ -6,10 +6,10 @@ régime spécial de sécurité sociale de la Société nationale des chemins de 
 français la partie des risques donnant lieu aux prestations en nature des
 assurances maladie et maternité prévues au livre III.
 
-La caisse de prévoyance de la Société nationale des chemins de fer français, à
-laquelle les intéressés restent immatriculés, assure, pour le compte du régime
-général, la gestion des risques mentionnés à l'alinéa ci-dessus, la Société
-nationale des chemins de fer français continuant à dispenser aux agents en
-activité les soins médicaux et paramédicaux. La caisse de prévoyance assure à
-ses ressortissants l'ensemble des prestations qu'elle servait au 31 décembre
-1970.
+La caisse chargée de la gestion du régime spécial d'assurance maladie de la
+Société nationale des chemins de fer français, à laquelle les intéressés restent
+immatriculés, assure, pour le compte du régime général, la gestion des risques
+mentionnés à l'alinéa ci-dessus, la Société nationale des chemins de fer
+français continuant à dispenser aux agents en activité les soins médicaux et
+paramédicaux. Cette caisse assure à ses ressortissants l'ensemble des
+prestations qu'elle servait au 31 décembre 1970.

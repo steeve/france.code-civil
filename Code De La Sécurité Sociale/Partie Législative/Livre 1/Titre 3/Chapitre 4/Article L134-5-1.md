@@ -21,6 +21,11 @@ afférentes aux soins et aux prestations en nature.
 
 Les soldes qui en résultent entre ce régime et la Caisse nationale de
 l'assurance maladie des travailleurs salariés sont fixés dans les conditions
-définies par le dernier alinéa de l'article L. 134-1.
+définies par le dernier alinéa de l'article L. 134-1. Lorsque la branche
+Maladie-maternité d'un régime débiteur, considérée hors produits et charges de
+gestion courante exceptionnels ou non, est déficitaire, le solde dont elle est
+redevable est plafonné à hauteur du déficit, considéré hors produits et charges
+de gestion courante exceptionnels ou non, de la branche Maladie-maternité du
+régime créancier.
 
 Les conditions d'application du présent article sont fixées par décret.
