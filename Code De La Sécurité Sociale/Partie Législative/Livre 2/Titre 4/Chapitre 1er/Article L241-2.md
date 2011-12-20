@@ -22,15 +22,16 @@ et revenus de remplacement mentionnés aux 1° et 2° du présent article.
 Les ressources des assurances maladie, maternité, invalidité et décès sont en
 outre constituées par :
 
-1° Une fraction égale à 38,81 % du droit de consommation prévu à l'article 575
-du code général des impôts ;
+1° Le produit des impôts et taxes mentionnés à l'article L. 131-8, dans les
+conditions fixées par ce même article ;
 
 2° Le remboursement par la Caisse nationale des allocations familiales des
 indemnités versées en application des articles L. 331-8 et L. 722-8-3 ;
 
 3° La taxe sur la valeur ajoutée brute collectée par :
 
-a) Les fabricants de lunettes ;
+a) Les fabricants de lunettes pour une fraction égale à 43 % du produit collecté
+;
 
 b) Les fabricants d'équipements d'irradiation médicale, d'équipements
 électromédicaux et électrothérapeutiques ;
@@ -51,4 +52,11 @@ au 1° de l'article L. 137-16 ;
 137-20, L. 137-21 et L. 137-22 ;
 
 6° La part du produit des prélèvements sociaux mentionnés aux articles L. 245-14
-et L. 245-15 fixée au dernier alinéa du II de l'article L. 245-16.
+et L. 245-15 fixée au dernier alinéa du II de l'article L. 245-16 ;
+
+7° Les taxes perçues au titre des articles 1600-0 N, 1600-0 O, 1600-0 R et 1635
+bis AE du code général des impôts et les droits perçus au titre de l'article L.
+5321-3 du code de la santé publique ;
+
+8° Une fraction du produit de la taxe mentionnée au 2° bis de l'article 1001 du
+code général des impôts.

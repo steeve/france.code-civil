@@ -52,6 +52,11 @@ agricole, selon les règles et sous les garanties et sanctions applicables au
 recouvrement des cotisations d'assurance maladie, maternité et invalidité dues
 au régime de la sécurité sociale des non-salariés des professions agricoles.
 
+II bis. - La contribution due sur les revenus de source étrangère, sous réserve
+s'agissant des revenus d'activité qu'elle n'ait pas fait l'objet d'un précompte
+par l'employeur, est établie, recouvrée et contrôlée dans les conditions et
+selon les modalités prévues au III de l'article L. 136-6.
+
 III. - La contribution due sur les pensions d'invalidité et sur les indemnités
 journalières ou allocations visées au 7° du II de l'article L. 136-2 est
 précomptée par l'organisme débiteur de ces prestations et versée à l'Agence
@@ -69,8 +74,8 @@ sociale généralisée due sur les indemnités de congés payés et sur les avan
 conventionnels y afférents, servis par les caisses de congés payés en
 application des dispositions de l'article L. 223-16 du code du travail, est
 précomptée par les caisses de congés payés, responsables du versement de
-l'ensemble des charges assises sur ces indemnités et avantages sous réserve
-d'exceptions prévues par arrêté.
+l'ensemble des charges assises sur ces indemnités et avantages sous réserve d'
+exceptions prévues par arrêté.
 
 IV. - La contribution sociale entre dans les obligations financières incombant
 aux employeurs, ou personnes qui y sont substituées en droit, en vertu des

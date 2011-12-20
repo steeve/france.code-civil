@@ -1,8 +1,8 @@
 Article L162-16-5
 ----
 Le prix de cession au public des spécialités disposant d'une autorisation de
-mise sur le marché, de l'autorisation d'importation parallèle mentionnée à
-l'article L. 5121-17 du code de la santé publique ou de l'autorisation
+mise sur le marché, de l'autorisation d'importation parallèle en application de
+l'article L. 5124-13 du code de la santé publique ou de l'autorisation
 mentionnée à l'article L. 5121-9-1 du même code et inscrites sur la liste prévue
 à l'article L. 5126-4 du code de la santé publique, majoré le cas échéant du
 montant de la taxe sur la valeur ajoutée, est égal au prix de vente aux
@@ -24,10 +24,11 @@ dans ce cas le tarif de responsabilité dans un délai de quinze jours après ce
 décision. La fixation du prix de cession tient compte principalement des prix de
 vente pratiqués pour cette spécialité, des prix des médicaments à même visée
 thérapeutique, des volumes de vente prévus ou constatés, des conditions
-prévisibles ou réelles d'utilisation du médicament et de l'amélioration du
-service médical apportée par le médicament appréciée par la commission prévue à
-l'article L. 5123-3 du même code, ainsi que des frais inhérents à la gestion et
-à la délivrance de la spécialité pharmaceutique.
+prévisibles ou réelles d'utilisation du médicament, de l'amélioration du service
+médical apportée par le médicament appréciée par la commission prévue à
+l'article L. 5123-3 du même code et, le cas échéant, des résultats de
+l'évaluation médico-économique, ainsi que des frais inhérents à la gestion et à
+la délivrance de la spécialité pharmaceutique.
 
 Tant que le prix de vente déclaré ou le prix de cession au public n'est pas
 publié, les spécialités pharmaceutiques qui figuraient sur cette liste

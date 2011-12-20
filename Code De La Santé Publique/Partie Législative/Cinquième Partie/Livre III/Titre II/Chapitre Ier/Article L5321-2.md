@@ -1,18 +1,15 @@
 Article L5321-2
 ----
-Les ressources de l'agence sont constituées notamment :
+Les ressources de l'agence sont constituées notamment : 1° Par une subvention de
+l'Etat ;
 
-l° Par des subventions des collectivités publiques, de leurs établissements
+2° Par des subventions d'autres collectivités publiques, de leurs établissements
 publics, des organismes de sécurité sociale, de l'Union européenne ou des
 organisations internationales ;
 
-2° Par des taxes prévues à son bénéfice ;
+3° Par des produits divers, dons et legs ;
 
-3° Par des redevances pour services rendus ;
-
-4° Par des produits divers, dons et legs ;
-
-5° Par des emprunts.
+4° Par des emprunts.
 
 L'agence ne peut recevoir des dons des personnes dont elle contrôle l'activité.
 

@@ -4,14 +4,27 @@ Les sociétés et entreprises assujetties à la contribution sociale de solidari
 sont tenues d'indiquer annuellement à l'organisme chargé du recouvrement de
 cette contribution le montant de leur chiffre d'affaires global déclaré à
 l'administration fiscale, calculé hors taxes sur le chiffre d'affaires et taxes
-assimilées ; à ce montant doivent être ajoutés pour les sociétés et entreprises
-se livrant au commerce des valeurs et de l'argent, ainsi que pour les sociétés
-d'assurance et de capitalisation et les sociétés de réassurances, les produits
-de leur exploitation n'entrant pas dans le champ d'application des taxes sur le
-chiffre d'affaires. De ce montant sont déduits, en outre, les droits ou taxes
-indirects et les taxes intérieures de consommation, versés par ces sociétés et
+assimilées ; à ce montant doivent être ajoutés pour les sociétés d'assurance et
+de capitalisation et les sociétés de réassurances, les produits de leur
+exploitation n'entrant pas dans le champ d'application des taxes sur le chiffre
+d'affaires. De ce montant sont déduits, en outre, les droits ou taxes indirects
+et les taxes intérieures de consommation, versés par ces sociétés et
 entreprises, grevant les produits médicamenteux et de parfumerie, les boissons,
 ainsi que les produits pétroliers.
+
+Pour les établissements de crédit et, lorsqu'elles sont agréées par l'Autorité
+de contrôle prudentiel, les entreprises mentionnées à l'article L. 531-4 du code
+monétaire et financier, le chiffre d'affaires est celui défini au 1 du III de
+l'article 1586 sexies du code général des impôts. Toutefois, le chiffre
+d'affaires annuel afférent aux contrats d'échanges de taux d'intérêt, aux
+opérations sur devises et aux autres instruments financiers à terme est
+constitué par le résultat net positif de chacune de ces catégories.
+
+Pour les établissements et entreprises mentionnés au deuxième alinéa du présent
+article dont le produit net bancaire est au plus égal à 10 % du chiffre
+d'affaires ainsi déterminé, le montant cumulé de la contribution sociale de
+solidarité et de la contribution additionnelle instituée à l'article L. 245-13
+du présent code ne peut excéder 1,6 % du produit net bancaire.
 
 Le chiffre d'affaires des intermédiaires mentionnés au V de l'article 256 et au
 III de l'article 256 bis du code général des impôts, et qui bénéficient des
