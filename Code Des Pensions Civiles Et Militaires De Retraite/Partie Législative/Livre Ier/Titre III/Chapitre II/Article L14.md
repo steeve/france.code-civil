@@ -92,8 +92,9 @@ Toutefois, les bonifications de durée de services et majorations de durée
 d'assurance, à l'exclusion de celles accordées au titre des enfants et du
 handicap, prévues par les dispositions législatives et réglementaires, quel que
 soit le régime de retraite de base au titre duquel elles ont été acquises, ne
-sont pas prises en compte pour ce calcul. Un décret fixe la liste des
-bonifications et majorations de durée auxquelles s'applique le présent alinéa.
+sont pas prises en compte pour le calcul de la durée d'assurance mentionnée au
+premier alinéa du présent III . Un décret fixe la liste des bonifications et
+majorations de durée auxquelles s'applique le présent alinéa.
 
 Sont pris en compte pour ce calcul les trimestres entiers cotisés.
 

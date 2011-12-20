@@ -3,18 +3,20 @@ Article L162-22-7-2
 L'Etat arrête, sur la base de l'analyse nationale de l'évolution des
 prescriptions des spécialités pharmaceutiques et des produits et prestations
 mentionnés à l'article L. 162-22-7 et sur recommandation du conseil de
-l'hospitalisation mentionné à l'article L. 162-21-2, un taux prévisionnel
-d'évolution des dépenses d'assurance maladie afférentes à ces spécialités et à
-ces produits et prestations.
+l'hospitalisation mentionné à l'article L. 162-21-2, deux taux prévisionnels
+d'évolution des dépenses d'assurance maladie afférentes respectivement à ces
+spécialités pharmaceutiques et à ces produits et prestations.
 
 Lorsqu'elle estime, compte tenu des référentiels et recommandations élaborés par
 la Haute Autorité de santé, l'Institut national du cancer et l'Agence française
-de sécurité sanitaire des produits de santé, que le dépassement de ce taux par
-un établissement de santé n'est pas justifié, l' agence régionale de santé
-conclut, pour une durée d'un an, avec les autres signataires du contrat de bon
-usage des médicaments et des produits et prestations mentionné à l'article L.
-162-22-7, un plan d'actions visant à maîtriser l'évolution des dépenses par
-l'amélioration des pratiques de cet établissement.
+de sécurité sanitaire des produits de santé, que le dépassement d'au moins un de
+ces taux par un établissement de santé n'est pas justifié, l' agence régionale
+de santé conclut, pour une durée d'un an, avec les autres signataires du contrat
+de bon usage des médicaments et des produits et prestations mentionné à
+l'article L. 162-22-7, un plan d'actions visant à maîtriser l'évolution des
+dépenses par l'amélioration des pratiques de cet établissement. Ce plan
+d'actions est annexé au contrat de bon usage des médicaments et des produits et
+prestations.
 
 En cas de refus de l'établissement de signer ce plan ou si l'établissement ne
 respecte pas le plan auquel il a souscrit, le remboursement de la part prise en

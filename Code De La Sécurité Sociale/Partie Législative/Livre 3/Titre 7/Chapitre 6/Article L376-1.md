@@ -35,10 +35,7 @@ peut définir les modalités de mise en oeuvre de cette procédure.
 
 La personne victime, les établissements de santé, le tiers responsable et son
 assureur sont tenus d'informer la caisse de la survenue des lésions causées par
-un tiers dans des conditions fixées par décret. La méconnaissance de
-l'obligation d'information des caisses par l'assureur du tiers responsable donne
-lieu à la majoration de 50 % de l'indemnité forfaitaire mentionnée ci-après dans
-les conditions déterminées par le même décret.
+un tiers dans des conditions fixées par décret.
 
 L'intéressé ou ses ayants droit doivent indiquer, en tout état de la procédure,
 la qualité d'assuré social de la victime de l'accident ainsi que les caisses de
@@ -65,10 +62,10 @@ l'année considérée.
 
 Cette indemnité est établie et recouvrée par la caisse selon les règles et sous
 les garanties et sanctions, prévues au chapitre 3 du titre III et aux chapitres
-2, 3 et 4 du titre IV du livre Ier ainsi qu'aux chapitres 3 et 4 du titre IV du
+2,3 et 4 du titre IV du livre Ier ainsi qu'aux chapitres 3 et 4 du titre IV du
 livre II applicables au recouvrement des cotisations de sécurité sociale.
 
 Lorsque l'assuré victime de l'accident est affilié au régime agricole,
 l'indemnité est recouvrée selon les règles et sous les garanties et sanctions
-prévues aux chapitres 2, 3 et 4 du titre IV du livre Ier ainsi qu'à l'article
-1143-2 (1) du code rural.
+prévues aux chapitres 2,3 et 4 du titre IV du livre Ier ainsi qu'aux articles L.
+725-3 à L. 725-4 du code rural et de la pêche maritime.

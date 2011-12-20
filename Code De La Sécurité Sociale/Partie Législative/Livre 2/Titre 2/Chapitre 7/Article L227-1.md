@@ -1,6 +1,6 @@
 Article L227-1
 ----
-I.-Dans le respect des lois de financement de la sécurité sociale, l'autorité
+I. - Dans le respect des lois de financement de la sécurité sociale, l'autorité
 compétente de l'Etat conclut respectivement avec la Caisse nationale de
 l'assurance maladie des travailleurs salariés, la Caisse nationale d'assurance
 vieillesse des travailleurs salariés, la Caisse nationale des allocations
@@ -49,9 +49,8 @@ objectifs fixés.
 
 II. (Paragraphe abrogé)
 
-III.-Les conventions d'objectifs et de gestion sont conclues pour une période
-minimale de quatre ans. Elles sont communiquées aux conseils de surveillance
-mentionnés à l'article L. 228-1.
+III. - Les conventions d'objectifs et de gestion sont conclues pour une période
+minimale de quatre ans.
 
 Les conventions et, le cas échéant, les avenants qui les modifient sont transmis
 aux commissions parlementaires mentionnées à l'article LO. 111-9.

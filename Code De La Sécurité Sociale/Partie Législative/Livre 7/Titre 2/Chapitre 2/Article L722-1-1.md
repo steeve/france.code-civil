@@ -1,10 +1,10 @@
 Article L722-1-1
 ----
 Les médecins qui ont choisi, en application de la convention nationale prévue à
-l'article L. 162-5, de pratiquer des honoraires [*déconventionnés*] différents
-des honoraires conventionnels peuvent, par dérogation aux dispositions du 1° de
-l'article L. 722-1, demander à être affiliés au régime d'assurance maladie et
-maternité des travailleurs non salariés des professions non agricoles.
+l'article L. 162-5, de pratiquer des honoraires différents des honoraires
+conventionnels peuvent, par dérogation aux dispositions du 1° de l'article L.
+722-1, demander à être affiliés au régime d'assurance maladie et maternité des
+travailleurs non salariés des professions non agricoles.
 
 Le choix pour ces médecins entre l'un ou l'autre régime intervient au moment de
 leur début d'activité ou lorsque, dans le cadre de la convention nationale
@@ -14,3 +14,9 @@ l'option conventionnelle.
 
 Les deux premiers alinéas du présent article sont applicables aux médecins qui
 sont autorisés à appliquer les tarifs majorés visés au 8° de l'article L. 162-5.
+
+Les pédicures-podologues qui exercent leur activité professionnelle dans les
+conditions mentionnées au 3° de l'article L. 722-1 peuvent également, par
+dérogation au même 3°, demander à être affiliés au régime d'assurance maladie et
+maternité des travailleurs indépendants des professions non agricoles au moment
+de leur début d'activité.

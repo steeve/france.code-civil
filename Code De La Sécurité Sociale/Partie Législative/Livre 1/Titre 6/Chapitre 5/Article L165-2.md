@@ -16,6 +16,7 @@ les mêmes conditions que les conventions visées à l'article L. 162-17-4 ou, �
 défaut, par décision du Comité économique des produits de santé.
 
 La fixation de ce tarif tient compte principalement du service rendu, de
-l'amélioration éventuelle de celui-ci, des tarifs et des prix des produits ou
+l'amélioration éventuelle de celui-ci, le cas échéant, des résultats de
+l'évaluation médico-économique des tarifs et des prix des produits ou
 prestations comparables, des volumes de vente prévus ou constatés et des
 conditions prévisibles et réelles d'utilisation.

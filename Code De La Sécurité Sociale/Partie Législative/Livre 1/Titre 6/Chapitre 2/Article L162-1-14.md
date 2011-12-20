@@ -98,18 +98,27 @@ commission, le directeur :
 a) Soit décide de ne pas poursuivre la procédure ;
 
 b) Soit notifie à l'intéressé la pénalité qu'il décide de lui infliger, en
-indiquant le délai dans lequel il doit s'en acquitter. La pénalité est motivée
-et peut être contestée devant le tribunal administratif.
+indiquant le délai dans lequel il doit s'en acquitter ou les modalités selon
+lesquelles elle sera récupérée sur les prestations à venir. La pénalité est
+motivée et peut être contestée devant le tribunal des affaires de sécurité
+sociale.
 
 En l'absence de paiement de la pénalité dans le délai prévu, le directeur envoie
 une mise en demeure à l'intéressé de payer dans un délai fixé par voie
-réglementaire. La mise en demeure ne peut concerner que des pénalités notifiées
-dans un délai fixé par voie réglementaire. Lorsque la mise en demeure est restée
-sans effet, le directeur peut délivrer une contrainte qui, à défaut d'opposition
-du débiteur devant le tribunal des affaires de sécurité sociale, comporte tous
-les effets d'un jugement et confère notamment le bénéfice de l'hypothèque
-judiciaire. Une majoration de 10 % est applicable aux pénalités qui n'ont pas
-été réglées aux dates d'exigibilité mentionnées dans la mise en demeure.
+réglementaire. Lorsque la mise en demeure est restée sans effet, le directeur
+peut délivrer une contrainte qui, à défaut d'opposition du débiteur devant le
+tribunal des affaires de sécurité sociale, comporte tous les effets d'un
+jugement et confère notamment le bénéfice de l'hypothèque judiciaire. Une
+majoration de 10 % est applicable aux pénalités qui n'ont pas été réglées aux
+dates d'exigibilité mentionnées dans la mise en demeure.
+
+La pénalité peut être recouvrée par retenues sur les prestations à venir. Il est
+fait application pour les assurés sociaux de l'article L. 133-4-1.
+
+Les faits pouvant donner lieu au prononcé d'une pénalité se prescrivent selon
+les règles définies à l'article 2224 du code civil. L'action en recouvrement de
+la pénalité se prescrit par deux ans à compter de la date d'envoi de la
+notification de la pénalité par le directeur de l'organisme concerné.
 
 Le directeur ne peut concurremment recourir au dispositif de pénalité prévu par
 le présent article et aux procédures conventionnelles visant à sanctionner les

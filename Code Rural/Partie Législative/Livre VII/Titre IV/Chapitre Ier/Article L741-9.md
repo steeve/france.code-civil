@@ -18,8 +18,12 @@ c) Sur les allocations et revenus de remplacement mentionnés à l'article L.
 131-2 du code de la sécurité sociale, à la charge des titulaires ;
 
 2° Par une fraction du produit des contributions sociales mentionnées aux
-articles L. 136-1, L. 136-6, L. 136-7, L. 136-7-1 du code de la sécurité
-sociale.
+articles L. 136-1, L. 136-6, L. 136-7, L. 136-7-1 du code de la sécurité sociale
+;
+
+3° Par une fraction, fixée à l'article L. 131-8 du code de la sécurité sociale,
+du produit du droit de consommation mentionné à l'article 575 du code général
+des impôts.
 
 II.-Pour l'assurance vieillesse et veuvage :
 
@@ -35,4 +39,8 @@ charge des employeurs et des salariés ;
 2° Par une contribution de la branche Accidents du travail et maladies
 professionnelles couvrant les dépenses supplémentaires engendrées par les
 départs en retraite à l'âge prévu à l'article L. 351-1-4 du code de la sécurité
-sociale.
+sociale ;
+
+3° Par une fraction, fixée à l'article L. 131-8 du code de la sécurité sociale,
+du produit du droit de consommation mentionné à l'article 575 du code général
+des impôts.

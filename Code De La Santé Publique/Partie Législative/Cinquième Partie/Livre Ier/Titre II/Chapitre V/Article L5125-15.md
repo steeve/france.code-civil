@@ -16,6 +16,6 @@ commune où s'effectue le regroupement pour appliquer les conditions prévues au
 deux premiers alinéas de l'article L. 5125-11. Le directeur général de l'agence
 régionale de santé peut, après avis des syndicats représentatifs de la
 profession et du conseil compétent de l'ordre des pharmaciens, mettre fin à
-cette prise en compte à l'issue d'un délai de cinq ans à compter de la
+cette prise en compte à l'issue d'un délai de douze ans à compter de la
 délivrance de l'autorisation de regroupement si les conditions prévues par le
 premier alinéa de l'article L. 5125-3 ne sont plus remplies.

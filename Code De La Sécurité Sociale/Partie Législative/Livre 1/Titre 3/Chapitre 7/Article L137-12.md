@@ -7,5 +7,3 @@ l'employeur.
 
 Le taux de cette contribution est fixé à 50 % ; toutefois, ce taux est limité à
 25 % sur les indemnités versées du 11 octobre 2007 au 31 décembre 2008.
-
-Les articles L. 137-3 et L. 137-4 sont applicables à la présente contribution.

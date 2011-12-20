@@ -31,14 +31,15 @@ réclamé ou de produire, le cas échéant, leurs observations.
 En cas de rejet total ou partiel des observations de l'intéressé, le directeur
 de l'organisme d'assurance maladie adresse, par lettre recommandée, une mise en
 demeure à l'intéressé de payer dans le délai d'un mois. La mise en demeure ne
-peut concerner que des sommes portées sur la notification. Elle comporte une
-majoration de 10 % du montant des sommes réclamées non réglées à la date de son
-envoi ; ces majorations peuvent faire l'objet d'une remise.
+peut concerner que des sommes portées sur la notification.
 
 Lorsque la mise en demeure reste sans effet, le directeur de l'organisme peut
 délivrer une contrainte qui, à défaut d'opposition du débiteur devant le
 tribunal des affaires de sécurité sociale, comporte tous les effets d'un
-jugement et confère notamment le bénéfice de l'hypothèque judiciaire.
+jugement et confère notamment le bénéfice de l'hypothèque judiciaire. Une
+majoration de 10 % est applicable aux sommes réclamées qui n'ont pas été réglées
+aux dates d'exigibilité mentionnées dans la mise en demeure. Cette majoration
+peut faire l'objet d'une remise.
 
 Un décret en Conseil d'Etat définit les modalités d'application des trois
 alinéas qui précèdent.

@@ -16,21 +16,18 @@ les conditions fixées à l'article L. 139-1 du même code ;
 et L. 138-10 du même code, déterminée dans les conditions fixées à l'article L.
 138-8 du même code ;
 
-4° Le produit du droit de consommation sur les produits intermédiaires mentionné
-à l'article 402 bis du code général des impôts ;
+4° (Abrogé)
 
-5° Une fraction égale à 65,6 % du produit du droit de circulation sur les vins,
-cidres, poirés et hydromels mentionné à l'article 438 du même code ;
+5° Une fraction égale à 43,7 % du produit du droit de consommation sur les
+alcools mentionné à l'article 403 du même code ;
 
-6° Le produit du droit sur les bières et les boissons non alcoolisées mentionné
-à l'article 520 A du même code ;
+6° (Abrogé)
 
-7° Le produit de la cotisation sur les boissons alcooliques instituée par
-l'article L. 245-7 du code de la sécurité sociale ;
+7° (Abrogé)
 
-8° Une fraction du produit du droit de consommation mentionné à l'article 575 du
-code général des impôts, déterminée par l'article 61 de la loi n° 2004-1484 du
-30 décembre 2004 de finances pour 2005 ;
+8° Une fraction, fixée à l'article L. 131-8 du code de la sécurité sociale, du
+produit du droit de consommation mentionné à l'article 575 du code général des
+impôts ;
 
 9° Le produit des taxes mentionnées aux articles 1010,1609 vicies et 1618
 septies du code général des impôts ;

@@ -1,9 +1,9 @@
 Article L613-1
 ----
 Sont obligatoirement affiliés au régime d'assurance maladie et d'assurance
-maternité des travailleurs non-salariés des professions non agricoles :
+maternité des travailleurs indépendants des professions non agricoles :
 
-1°) les travailleurs non salariés relevant des groupes de professions mentionnés
+1°) les travailleurs indépendants relevant des groupes de professions mentionnés
 aux 1°, 2° et 3° de l'article L. 621-3 et ceux qui relèvent de la caisse
 nationale des barreaux français, mentionnée à l'article L. 723-1, soit :
 
@@ -37,9 +37,16 @@ sauf si l'activité qu'il exerce est de nature agricole au sens de l'article L.
 722-1 du code rural et de la pêche maritime ;
 
 6° Les personnes bénéficiaires de l'agrément prévu à l'article L. 472-1 du code
-de l'action sociale et des familles ; 7° Sous réserve des dispositions du 1° de
-l'article L. 722-1 du code rural et de la pêche maritime, les loueurs de
-chambres d'hôtes mentionnées à l'article L. 324-3 du code du tourisme dont le
-revenu imposable de l'activité est supérieur au seuil d'exonération de faibles
-revenus professionnels non salariés non agricoles applicable en matière de
-cotisations d'allocations familiales.
+de l'action sociale et des familles ;
+
+7° Sous réserve des dispositions du 1° de l'article L. 722-1 du code rural et de
+la pêche maritime, les loueurs de chambres d'hôtes mentionnées à l'article L.
+324-3 du code du tourisme dont le revenu imposable de l'activité est supérieur
+au seuil d'exonération de faibles revenus professionnels non salariés non
+agricoles applicable en matière de cotisations d'allocations familiales ;
+
+8° Les personnes exerçant une activité de location directe ou indirecte de
+locaux d'habitation meublés ou destinés à être loués meublés à titre
+professionnel au sens du VII de l'article 151 septies du code général des
+impôts, à l'exclusion de celles relevant de l'article L. 722-1 du code rural et
+de la pêche maritime.

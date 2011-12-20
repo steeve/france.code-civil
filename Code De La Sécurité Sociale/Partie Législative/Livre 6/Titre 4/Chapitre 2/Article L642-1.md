@@ -13,13 +13,12 @@ Le régime de la pension de retraite reçoit une contribution du fonds institué
 par l'article L. 135-1 dans les conditions fixées par l'article L. 135-2.
 
 Les charges mentionnées aux 1° et 2° sont couvertes par une cotisation
-proportionnelle déterminée en pourcentage des revenus professionnels non
-salariés tels que définis à l'article L. 642-2. Les revenus professionnels
-soumis à cotisations sont divisés en deux tranches déterminées par référence au
-plafond prévu à l'article L. 241-3 et dont les limites sont fixées par décret.
-Chaque tranche est affectée d'un taux de cotisation. La cotisation afférente à
-chaque tranche ouvre droit à l'acquisition d'un nombre de points déterminé par
-décret.
+proportionnelle déterminée en pourcentage des revenus tels que définis à
+l'article L. 642-2. Les revenus d'activité soumis à cotisations sont divisés en
+deux tranches déterminées par référence au plafond prévu à l'article L. 241-3 et
+dont les limites sont fixées par décret. Chaque tranche est affectée d'un taux
+de cotisation. La cotisation afférente à chaque tranche ouvre droit à
+l'acquisition d'un nombre de points déterminé par décret.
 
 Le taux de cotisation appliqué à chaque tranche de revenus est fixé par décret,
 après avis de la Caisse nationale d'assurance vieillesse des professions

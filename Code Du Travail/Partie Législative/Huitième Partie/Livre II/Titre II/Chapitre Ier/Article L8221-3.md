@@ -13,4 +13,8 @@ postérieurement à une radiation ;
 
 2° Soit n'a pas procédé aux déclarations qui doivent être faites aux organismes
 de protection sociale ou à l'administration fiscale en vertu des dispositions
-légales en vigueur.
+légales en vigueur. Cette situation peut notamment résulter de la
+non-déclaration d'une partie de son chiffre d'affaires ou de ses revenus ou de
+la continuation d'activité après avoir été radié par les organismes de
+protection sociale en application de l'article L. 133-6-7-1 du code de la
+sécurité sociale.

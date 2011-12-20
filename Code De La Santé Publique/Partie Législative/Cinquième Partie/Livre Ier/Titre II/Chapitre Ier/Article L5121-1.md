@@ -74,6 +74,15 @@ appartiennent à la même catégorie de forme pharmaceutique à libération modi
 et qu'elles ne présentent pas de propriétés sensiblement différentes au regard
 de la sécurité ou de l'efficacité ;
 
+Pour l'application du présent b, sont inscrites, après avis du directeur général
+de l'Agence nationale de sécurité du médicament et des produits de santé, au
+répertoire des spécialités génériques les spécialités dont le principe actif est
+d'origine végétale ou minérale qui présentent la même composition quantitative
+que ce principe actif et qui ont une activité thérapeutique équivalente à celle
+de la spécialité de référence, à condition que ces spécialités et la spécialité
+de référence ne présentent pas de propriétés sensiblement différentes au regard
+de la sécurité ou de l'efficacité ;
+
 6° Médicament immunologique, tout médicament consistant en :
 
 a) Allergène, défini comme tout produit destiné à identifier ou provoquer une

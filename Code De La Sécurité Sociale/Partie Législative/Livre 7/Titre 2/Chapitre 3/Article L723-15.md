@@ -1,10 +1,9 @@
 Article L723-15
 ----
 Le régime complémentaire obligatoire est financé par les cotisations des assurés
-assises sur le revenu professionnel tel que défini aux deuxième et troisième
-alinéas de l'article L. 131-6 ou sur les rémunérations brutes pour celles
-acquittées pour le compte des avocats visés au 19° de l'article L. 311-3, dans
-la limite d'un plafond.
+assises sur le revenu défini en application des articles L. 131-6, L. 131-6-1 et
+L. 131-6-2 ou sur les rémunérations brutes pour celles acquittées pour le compte
+des avocats visés au 19° de l'article L. 311-3, dans la limite d'un plafond.
 
 L'alinéa précédent ne fait pas obstacle à l'application d'une convention entre
 la Caisse nationale des barreaux français et l'organisme gestionnaire du régime

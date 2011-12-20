@@ -2,7 +2,8 @@ Article L355-3
 ----
 Toute demande de remboursement de trop-perçu en matière de prestations de
 vieillesse et d'invalidité est prescrite par un délai de deux ans à compter du
-paiement desdites prestations dans les mains du bénéficiaire.
+paiement desdites prestations dans les mains du bénéficiaire, sauf en cas de
+fraude ou de fausse déclaration.
 
 En cas d'erreur de l'organisme débiteur de la prestation aucun remboursement de
 trop-perçu des prestations de retraite ou d'invalidité n'est réclamé à un

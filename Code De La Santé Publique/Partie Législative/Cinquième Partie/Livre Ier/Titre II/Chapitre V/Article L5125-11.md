@@ -6,7 +6,7 @@ commune est au moins égal à 2 500.
 
 L'ouverture d'une nouvelle officine dans une commune de plus de 2 500 habitants
 où au moins une licence a déjà été accordée peut être autorisée par voie de
-transfert à raison d'une autorisation par tranche entière supplémentaire de 3
+transfert à raison d'une autorisation par tranche entière supplémentaire de 4
 500 habitants recensés dans la commune.
 
 Lorsque la dernière officine présente dans une commune de moins de 2 500

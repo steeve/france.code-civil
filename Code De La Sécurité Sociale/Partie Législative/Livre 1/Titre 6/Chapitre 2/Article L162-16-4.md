@@ -7,9 +7,14 @@ conformément à l'article L. 162-17-4 ou, à défaut, par décision du comité,
 opposition conjointe des ministres concernés qui arrêtent dans ce cas le prix
 dans un délai de quinze jours après la décision du comité. La fixation de ce
 prix tient compte principalement de l'amélioration du service médical rendu
-apportée par le médicament, des prix des médicaments à même visée thérapeutique,
-des volumes de vente prévus ou constatés ainsi que des conditions prévisibles et
-réelles d'utilisation du médicament.
+apportée par le médicament, le cas échéant des résultats de l'évaluation
+médico-économique, des prix des médicaments à même visée thérapeutique, des
+volumes de vente prévus ou constatés ainsi que des conditions prévisibles et
+réelles d'utilisation du médicament. Lorsque la fixation du prix du médicament
+est fondée sur une appréciation de l'amélioration du service médical rendu
+différente de celle de la commission mentionnée à l'article L. 5123-3 du code de
+la santé publique, le Comité économique des produits de santé fait connaître à
+la commission les motifs de son appréciation.
 
 Ce prix comprend les marges prévues par la décision mentionnée à l'article L.
 162-38 ainsi que les taxes en vigueur.

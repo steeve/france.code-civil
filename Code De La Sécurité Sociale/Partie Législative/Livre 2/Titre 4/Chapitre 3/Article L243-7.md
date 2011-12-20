@@ -1,16 +1,17 @@
 Article L243-7
 ----
 Le contrôle de l'application des dispositions du présent code par les
-employeurs, personnes privées ou publiques et, dans le respect des dispositions
-prévues à l'article L. 133-6-5, par les travailleurs indépendants ainsi que par
-toute personne qui verse des cotisations ou contributions auprès des organismes
-chargés du recouvrement des cotisations du régime général est confié à ces
-organismes. Les agents chargés du contrôle sont assermentés et agréés dans des
-conditions définies par arrêté du ministre chargé de la sécurité sociale. Ces
-agents ont qualité pour dresser en cas d'infraction auxdites dispositions des
-procès-verbaux faisant foi jusqu'à preuve du contraire. Les unions de
-recouvrement les transmettent, aux fins de poursuites, au procureur de la
-République s'il s'agit d'infractions pénalement sanctionnées.
+employeurs, personnes privées ou publiques y compris les services de l'Etat
+autres que ceux mentionnés au quatrième alinéa et, dans le respect des
+dispositions prévues à l'article L. 133-6-5, par les travailleurs indépendants
+ainsi que par toute personne qui verse des cotisations ou contributions auprès
+des organismes chargés du recouvrement des cotisations du régime général est
+confié à ces organismes. Les agents chargés du contrôle sont assermentés et
+agréés dans des conditions définies par arrêté du ministre chargé de la sécurité
+sociale. Ces agents ont qualité pour dresser en cas d'infraction auxdites
+dispositions des procès-verbaux faisant foi jusqu'à preuve du contraire. Les
+unions de recouvrement les transmettent, aux fins de poursuites, au procureur de
+la République s'il s'agit d'infractions pénalement sanctionnées.
 
 Les organismes chargés du recouvrement des cotisations du régime général sont
 également habilités dans le cadre de leurs contrôles à vérifier l'assiette, le
@@ -33,19 +34,14 @@ du régime d'assurance chômage et les organismes nationaux chargés de la gesti
 des régimes prévus au titre Ier du livre VII du présent code qui en font la
 demande fixent notamment les modalités de transmission du résultat des
 vérifications et la rémunération du service rendu par les organismes chargés du
-recouvrement des cotisations du régime général.
-
-Le contrôle de l'application de la législation de sécurité sociale au titre des
-cotisations et contributions sociales dont les services déconcentrés de l'Etat
-sont redevables auprès du régime général est assuré par les organismes visés aux
-articles L. 213-1 et L. 752-4 qui reçoivent leurs déclarations et paiements.
-
-La Cour des comptes est compétente pour contrôler les administrations centrales
-de l'Etat. Elle peut demander l'assistance des organismes mentionnés à l'alinéa
-précédent et notamment requérir la mise à disposition d'inspecteurs du
-recouvrement.
-
-Il est fait état du résultat des contrôles mentionnés aux deux alinéas
-précédents dans le rapport sur l'application des lois de financement de la
-sécurité sociale prévu à l'article LO 132-3 du code des juridictions
-financières.
+recouvrement des cotisations du régime général. La Cour des comptes est
+compétente pour contrôler l'application des dispositions du présent code en
+matière de cotisations et contributions sociales aux membres du Gouvernement, à
+leurs collaborateurs. Pour l'exercice de cette mission, la Cour des comptes
+requiert, en tant que de besoin, l'assistance des organismes mentionnés au
+premier alinéa, et notamment la mise à disposition d'inspecteurs du
+recouvrement. Le résultat de ces vérifications est transmis à ces mêmes
+organismes aux fins de recouvrement. Par dérogation aux dispositions du présent
+alinéa, le contrôle de l'application par la Cour des comptes des dispositions du
+présent code en matière de cotisations et contributions sociales est assuré par
+l'organisme de recouvrement dont elle relève.

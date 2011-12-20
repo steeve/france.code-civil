@@ -9,7 +9,9 @@ La pension de réversion est égale à un pourcentage fixé par décret de la pe
 principale ou rente dont bénéficiait ou eût bénéficié l'assuré, sans pouvoir
 être inférieure à un montant minimum fixé par décret en tenant compte de la
 durée d'assurance lorsque celle-ci est inférieure à la durée déterminée par ce
-décret.
+décret. Toutefois, ce minimum n'est pas applicable aux pensions de réversion
+issues d'une pension dont le montant est inférieur au minimum prévu à l'article
+L. 351-9.
 
 Elle est majorée lorsque le bénéficiaire remplit les conditions fixées à
 l'article L. 351-12. Cette majoration ne peut être inférieure à un pourcentage

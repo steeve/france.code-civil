@@ -49,25 +49,39 @@ conditions prévues à l'avant-dernier alinéa du même I, des cotisations
 patronales d'assurances sociales et d'allocations familiales dues sur la
 rémunération qu'elles versent à ces accueillants familiaux.
 
-III.-Les rémunérations des aides à domicile employées sous contrat à durée
-indéterminée ou sous contrat à durée déterminée pour remplacer les salariés
-absents ou dont le contrat de travail est suspendu dans les conditions visées à
-l'article L. 122-1-1 du code du travail par les associations et les entreprises
-déclarées dans les conditions fixées à l'article L. 7232-1-1 du code du travail,
-à exercer des activités concernant la garde d'enfant ou l'assistance aux
-personnes âgées ou handicapées, les centres communaux et intercommunaux d'action
-sociale et les organismes habilités au titre de l'aide sociale ou ayant passé
-convention avec un organisme de sécurité sociale sont exonérées des cotisations
-patronales d'assurances sociales et d'allocations familiales pour la fraction
-versée en contrepartie de l'exécution des tâches effectuées au domicile à usage
-privatif des personnes visées au I ou bénéficiaires de prestations d'aide
-ménagère aux personnes âgées ou handicapées au titre de l'aide sociale légale ou
-dans le cadre d'une convention conclue entre ces associations ou organismes et
-un organisme de sécurité sociale, dans la limite, pour les personnes visées au a
-du I, du plafond prévu par ce a.
+III.-Sont exonérées de cotisations patronales d'assurances sociales et
+d'allocations familiales les rémunérations versées aux aides à domicile
+employées sous contrat à durée indéterminée ou sous contrat à durée déterminée
+pour remplacer les salariés absents ou dont le contrat de travail est suspendu
+dans les conditions prévues à l'article L. 1242-2 du code du travail, par les
+structures suivantes :
 
-Un décret détermine les modalités d'application de l'exonération prévue par
-l'alinéa ci-dessus et notamment :
+1° Les associations et entreprises déclarées dans les conditions fixées à
+l'article L. 7232-1-1 du même code pour l'exercice des activités concernant la
+garde d'enfant ou l'assistance aux personnes âgées ou handicapées ;
+
+2° Les centres communaux ou intercommunaux d'action sociale ;
+
+3° Les organismes habilités au titre de l'aide sociale ou ayant passé convention
+avec un organisme de sécurité sociale.
+
+Cette exonération s'applique à la fraction des rémunérations versée en
+contrepartie de l'exécution des tâches effectuées au domicile à usage privatif :
+
+a) Des personnes mentionnées au I ;
+
+b) Des bénéficiaires soit de prestations d'aide ménagère aux personnes âgées ou
+handicapées au titre de l'aide sociale légale ou dans le cadre d'une convention
+conclue entre les structures susmentionnées et un organisme de sécurité sociale,
+soit des prestations mentionnées au deuxième alinéa de l'article L. 222-3 du
+code de l'action sociale et des familles ou des mêmes prestations d'aide et
+d'accompagnement aux familles dans le cadre d'une convention conclue entre ces
+structures et un organisme de sécurité sociale, dans la limite, pour les tâches
+effectuées au bénéfice des personnes visées au a du I du présent article, du
+plafond prévu par ce même a.
+
+Un décret détermine les modalités d'application de l'exonération prévue par le
+présent III et notamment :
 
 -les informations et pièces que les associations, les centres communaux et
 intercommunaux d'action sociale et les organismes visés au précédent alinéa
@@ -86,7 +100,7 @@ relevant du cadre d'emplois des agents sociaux territoriaux en fonction dans un
 centre communal ou intercommunal d'action sociale bénéficient d'une exonération
 de 100 % de la cotisation d'assurance vieillesse due au régime visé au 2° de
 l'article R. 711-1 du présent code pour la fraction de ces rémunérations
-remplissant les conditions définies au premier alinéa du présent paragraphe.
+remplissant les conditions définies au présent III.
 
 IV.-Par dérogation aux dispositions de l'article L. 131-7 du présent code,
 l'exonération prévue au III n'est pas compensée par le budget de l'Etat.

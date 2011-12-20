@@ -19,12 +19,10 @@ de l'article L. 162-17 du présent code ou sur la liste mentionnée à l'article
 afférentes à des véhicules mis à disposition, des frais de repas et des frais
 d'hébergement des personnes mentionnées au 1° ;
 
-3° Des frais de publication et des achats d'espaces publicitaires, sauf dans la
-presse médicale bénéficiant d'un numéro de commission paritaire ou d'un agrément
-défini dans les conditions fixées par décret, dès lors qu'une spécialité
-pharmaceutique inscrite sur la liste mentionnée au premier alinéa de l'article
-L. 162-17 du présent code ou sur la liste mentionnée à l'article L. 5123-2 du
-code de la santé publique y est mentionnée.
+3° Des frais de publication et des achats d'espaces publicitaires dès lors
+qu'une spécialité pharmaceutique inscrite sur la liste mentionnée au premier
+alinéa de l'article L. 162-17 du présent code ou sur la liste mentionnée à
+l'article L. 5123-2 du code de la santé publique y est mentionnée.
 
 II.-Il est procédé sur l'assiette définie au I :
 

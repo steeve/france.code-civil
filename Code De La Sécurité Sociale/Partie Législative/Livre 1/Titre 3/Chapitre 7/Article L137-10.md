@@ -10,8 +10,7 @@ unilatérale de l'employeur.
 
 II.-Le taux de cette contribution est fixé à 50 %.
 
-III.-Les dispositions des articles L. 137-3 et L. 137-4 sont applicables
-s'agissant de la présente contribution.
+III. (Abrogé)
 
 IV.-Les dispositions du présent article ne sont pas applicables aux
 contributions des employeurs mentionnées au dernier alinéa de l'article L. 322-4

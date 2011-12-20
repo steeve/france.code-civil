@@ -31,6 +31,9 @@ partir de laquelle ledit jugement est devenu définitif, soit à la requête du
 ministère public, soit à la demande de l'organisme assureur ou du tiers
 responsable lorsque ces derniers y ont intérêt.
 
+Le cinquième alinéa de l'article L. 454-1 et l'article L. 454-2 du code de la
+sécurité sociale sont applicables aux non-salariés agricoles.
+
 Ne sont pas regardés comme des tiers pour l'application du présent article, sauf
 dans le cas où le dommage résulte d'une faute intentionnelle commise par eux, le
 conjoint, les enfants, ascendants, descendants, alliés en ligne directe,

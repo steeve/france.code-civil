@@ -31,3 +31,8 @@ République en application du dernier alinéa de l'article L. 561-23 II,
 l'infraction sous-jacente à l'infraction de blanchiment se révèle celle de
 l'article 1741 du code général des impôts, l'avis de la commission visée à
 l'article L. 228 A du livre des procédures fiscales n'a pas à être sollicité.
+
+Le service peut transmettre aux organismes mentionnés à l'article L. 114-12 du
+code de la sécurité sociale des informations en relation avec les faits
+mentionnés au I de l'article L. 561-15 du présent code, qu'ils peuvent utiliser
+pour l'exercice de leurs missions.

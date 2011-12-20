@@ -35,8 +35,9 @@ Le tarif du droit spécifique est relevé au 1er janvier de chaque année dans u
 proportion égale au taux de croissance de l'indice des prix à la consommation
 hors tabac de l'avant-dernière année. Il est exprimé avec deux chiffres
 significatifs après la virgule, le second chiffre étant augmenté d'une unité si
-le chiffre suivant est égal ou supérieur à cinq . Il est publié au Journal
-officiel par arrêté du ministre chargé du budget.
+le chiffre suivant est égal ou supérieur à cinq . Ce relèvement ne peut excéder
+1,75 %. Le tarif est publié au Journal officiel par arrêté du ministre chargé du
+budget.
 
 b) Sur les boissons non alcoolisées énumérées ci-après dont le tarif, par
 hectolitre, est fixé à :

@@ -29,8 +29,9 @@ prévoit notamment les conditions dans lesquelles les conventions déterminent :
 de contrôle des dépenses de produits et prestations remboursables ;
 
 2° Les conditions et les modalités de mise en œuvre par les fabricants ou
-distributeurs d'études de suivi postérieures à l'inscription des produits et
-prestations sur la liste prévue à l'article L. 165-1.
+distributeurs d'études, y compris d'études médico-économiques, postérieures à
+l'inscription des produits et prestations sur la liste prévue à l'article L.
+165-1.
 
 En cas de manquement par un fabricant ou un distributeur à un engagement
 souscrit en application du 2°, le Comité économique des produits de santé peut

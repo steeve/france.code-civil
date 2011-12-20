@@ -92,7 +92,7 @@ par une personne qui réalise des actes de commerce au titre de l'entreprise
 louée ou y exerce une activité.
 
 Est exclue de l'assiette des cotisations mentionnées au premier alinéa, dans la
-limite d'un montant fixé à trois fois la valeur annuelle du plafond mentionné à
+limite d'un montant fixé à deux fois la valeur annuelle du plafond mentionné à
 l'article L. 241-3, la part des indemnités versées à l'occasion de la rupture du
 contrat de travail ou de la cessation forcée des fonctions de mandataires
 sociaux, dirigeants et personnes visées à l'article 80 ter du code général des

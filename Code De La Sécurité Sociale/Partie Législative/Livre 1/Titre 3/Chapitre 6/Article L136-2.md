@@ -9,11 +9,12 @@ exercées par les personnes mentionnées aux articles L. 311-2 et L.
 prévue au troisième alinéa de l'article L. 382-3.
 
 Sur le montant brut inférieur à quatre fois la valeur du plafond mentionné à
-l'article L. 241-3 des traitements, indemnités autres que celles visées au 7° du
-II ci-dessous, émoluments, salaires, des revenus des artistes-auteurs assimilés
-fiscalement à des traitements et salaires et des allocations de chômage, il est
-opéré une réduction représentative de frais professionnels forfaitairement fixée
-à 3 % de ce montant.
+l'article L. 241-3 des traitements, indemnités, émoluments, salaires, des
+revenus des artistes-auteurs assimilés fiscalement à des traitements et salaires
+et des allocations de chômage, il est opéré une réduction représentative de
+frais professionnels forfaitairement fixée à 1,75 % de ce montant. Cette
+réduction ne s'applique ni aux éléments mentionnés au II du présent article ni à
+ceux mentionnés aux 1° et 4° de l'article L. 137-15.
 
 Elle est également assise sur tous les avantages en nature ou en argent accordés
 aux intéressés en sus des revenus visés au premier alinéa.
@@ -44,13 +45,14 @@ versement au plan d'épargne d'entreprise ;
 
 3° a) L'indemnité parlementaire et l'indemnité de fonction prévues aux articles
 1er et 2 de l'ordonnance n° 58-1210 du 13 décembre 1958 portant loi organique
-relative à l'indemnité des membres du Parlement, l'indemnité représentative de
-frais de mandat, au plus égale au montant brut cumulé des deux précédentes et
-versée à titre d'allocation spéciale pour frais par les assemblées à tous leurs
-membres, ainsi que, la plus élevée d'entre elles ne pouvant être supérieure de
-plus de la moitié à ce montant, les indemnités de fonction complémentaires
-versées, au même titre, en vertu d'une décision prise par le bureau desdites
-assemblées, à certains de leurs membres exerçant des fonctions particulières ;
+relative à l'indemnité des membres du Parlement, l'indemnité de résidence,
+l'indemnité représentative de frais de mandat, au plus égale au montant brut
+cumulé des deux premières et versée à titre d'allocation spéciale pour frais par
+les assemblées à tous leurs membres, ainsi que, la plus élevée d'entre elles ne
+pouvant être supérieure de plus de la moitié à ce montant, les indemnités de
+fonction complémentaires versées, au même titre, en vertu d'une décision prise
+par le bureau desdites assemblées, à certains de leurs membres exerçant des
+fonctions particulières ;
 
 b) Les indemnités versées aux représentants français au Parlement européen dans
 les conditions prévues à l'article 1er de la loi n° 79-563 du 6 juillet 1979
@@ -105,8 +107,7 @@ premier euro ; pour l'application des présentes dispositions, il est fait masse
 des indemnités liées à la cessation forcée des fonctions et de celles visées à
 la première phrase du 5° ;
 
-6° L'allocation visée à l'article 15 de la loi n° 94-629 du 25 juillet 1994
-relative à la famille ;
+6° (Abrogé) ;
 
 7° Les indemnités journalières ou allocations versées par les organismes de
 sécurité sociale ou, pour leur compte, par les employeurs à l'occasion de la
@@ -148,7 +149,7 @@ séparation de corps ou de divorce, ou en cas d'instance en séparation de corps
 ou en divorce ;
 
 5° Les salaires versés au titre des contrats conclus en application de l'article
-L. 6221-1 du code du travail ;
+6221-1 du code du travail ;
 
 6° L'allocation de veuvage visée à l'article L. 356-1 du présent code et à
 l'article L. 722-16 du code rural et de la pêche maritime ;

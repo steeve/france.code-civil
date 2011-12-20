@@ -28,9 +28,10 @@ mensuel de la sécurité sociale pour les cas mentionnés au 1° du présent art
 mentionnés aux 2°, 3° et 4°, dans la limite de deux fois le montant des
 dépassements en cause ;
 
--en cas de récidive, un retrait temporaire du droit à dépassement ou une
-suspension de la participation des caisses au financement des cotisations
-sociales telle que prévue au 5° du I de l'article L. 162-14-1.
+-en cas de récidive dans un délai fixé par voie réglementaire, un retrait
+temporaire du droit à dépassement ou une suspension de la participation des
+caisses au financement des cotisations sociales telle que prévue au 5° du I de
+l'article L. 162-14-1.
 
 Les sanctions prononcées en application du présent article sont notifiées après
 avis conforme du directeur de l'Union nationale des caisses d'assurance maladie
@@ -41,6 +42,12 @@ Les sanctions prononcées en vertu du présent article peuvent faire l'objet d'u
 affichage au sein des locaux de l'organisme local d'assurance maladie et peuvent
 être rendues publiques, en cas de récidive et après épuisement des voies de
 recours, par voie de presse.
+
+Les décisions prononçant les sanctions prévues au présent article peuvent être
+contestées devant le tribunal des affaires de sécurité sociale. Quand ces
+sanctions consistent en des pénalités financières, elles sont recouvrées selon
+les modalités définies aux septième et neuvième alinéas du IV de l'article L.
+162-1-14.
 
 L'organisme local d'assurance maladie ne peut concurremment recourir au
 dispositif de pénalités prévu par le présent article et aux procédures

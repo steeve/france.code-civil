@@ -41,5 +41,3 @@ III. ― Ces dispositions sont également applicables lorsque l'option est
 consentie ou l'attribution est effectuée, dans les mêmes conditions, par une
 société dont le siège est situé à l'étranger et qui est mère ou filiale de
 l'entreprise dans laquelle le bénéficiaire exerce son activité.
-
-IV. ― Les articles L. 137-3 et L. 137-4 s'appliquent à la présente contribution.

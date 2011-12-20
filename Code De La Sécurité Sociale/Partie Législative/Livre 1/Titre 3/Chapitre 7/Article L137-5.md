@@ -10,6 +10,3 @@ l'article L. 443-1 du code du travail, la somme de 2 300 euros majorée, le cas
 même code.
 
 2. Le taux de cette contribution est fixé à 8,2 %.
-
-3. Les dispositions des articles L. 137-3 et L. 137-4 sont applicables
-s'agissant de la présente contribution.

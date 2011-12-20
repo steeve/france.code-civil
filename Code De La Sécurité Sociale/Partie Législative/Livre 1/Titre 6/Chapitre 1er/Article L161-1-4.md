@@ -22,10 +22,13 @@ fichiers et aux libertés, dès lors que les informations et pièces justificati
 échangées au titre d'une prestation sont celles définies par les dispositions
 législatives et réglementaires relatives au service de la prestation concernée.
 
-Sauf cas de force majeure, la non-présentation par le demandeur des pièces
-justificatives entraîne la suspension, selon le cas, soit du délai d'instruction
-de la demande pendant une durée maximale fixée par décret, soit du versement de
-la prestation jusqu'à la production des pièces demandées.
+Sauf cas de force majeure, la non-présentation par le demandeur de pièces
+justificatives, la présentation de faux documents ou de fausses informations ou
+l'absence réitérée de réponse aux convocations d'un organisme de sécurité
+sociale entraînent la suspension, selon le cas, soit du délai d'instruction de
+la demande pendant une durée maximale fixée par décret, soit du versement de la
+prestation jusqu'à la production des pièces demandées ou la réponse à la
+convocation adressée.
 
 Pour le service des prestations sous condition de ressources, l'appréciation des
 ressources prend en compte les prestations et ressources d'origine française,

@@ -23,5 +23,3 @@ réduite à due proportion en appliquant aux réductions ou exonérations de
 cotisations ou contributions pratiquées un coefficient égal au rapport entre les
 rémunérations dues ou versées en contrepartie du travail dissimulé et la
 rémunération mensuelle minimale.
-
-Cette annulation est plafonnée à un montant fixé par décret.

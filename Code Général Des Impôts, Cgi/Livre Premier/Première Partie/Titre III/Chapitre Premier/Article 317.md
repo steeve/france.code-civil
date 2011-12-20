@@ -21,7 +21,9 @@ contrôle effectif de l'administration.
 Les bouilleurs de cru, non titulaires de l'allocation en franchise, bénéficient
 d'un droit réduit de 50 % du droit de consommation mentionné au 2° du I de
 l'article 403 dans la limite d'une production de 10 litres d'alcool pur par
-campagne, non commercialisables.
+campagne, non commercialisables. Ce droit réduit est exprimé avec deux chiffres
+significatifs après la virgule, le second chiffre étant augmenté d'une unité si
+le chiffre suivant est égal ou supérieur à cinq.
 
 En cas de métayage, l'allocation ou la réduction d'impôt appartient au métayer
 qui a la faculté de rétrocéder une partie des alcools concernés à son

@@ -10,8 +10,14 @@ prise en charge par l'assurance maladie des produits, actes ou prestations de
 santé ainsi qu'aux conditions particulières de prise en charge des soins
 dispensés aux personnes atteintes d'affections de longue durée. A cet effet,
 elle émet également un avis sur les conditions de prescription, de réalisation
-ou d'emploi des actes, produits ou prestations de santé et réalise ou valide des
-études d'évaluation des technologies de santé ;
+ou d'emploi des actes, produits ou prestations de santé ainsi que sur leur
+efficience. Elle réalise ou valide notamment les études médico-économiques
+nécessaires à l'évaluation des produits et technologies de santé. Un décret en
+Conseil d'Etat précise les cas dans lesquels cette évaluation médico-économique
+est requise, en raison notamment de l'amélioration du service médical rendu par
+le produit ou la technologie et des coûts prévisibles de son utilisation ou
+prescription, et les conditions dans lesquelles elle est réalisée, notamment les
+critères d'appréciation et les délais applicables ;
 
 2° Elaborer les guides de bon usage des soins ou les recommandations de bonne
 pratique, procéder à leur diffusion et contribuer à l'information des
@@ -35,7 +41,11 @@ particuliers de soins préventifs ou curatifs ;
 
 7° Rendre l'avis mentionné à l'article L. 1414-5 du code de la santé publique
 sur les références aux normes harmonisées prévues pour l'accréditation des
-laboratoires de biologie médicale.
+laboratoires de biologie médicale ;
+
+8° Coordonner l'élaboration et assurer la diffusion d'une information adaptée
+sur la qualité des prises en charge dans les établissements de santé à
+destination des usagers et de leurs représentants.
 
 Pour l'accomplissement de ses missions, la Haute Autorité de santé travaille en
 liaison notamment avec l'Agence française de sécurité sanitaire des produits de
@@ -57,9 +67,12 @@ Dans l'exercice de ses missions, la Haute Autorité tient compte des objectifs
 pluriannuels de la politique de santé publique mentionnés à l'article L. 1411-2
 du code de la santé publique.
 
-Dans le cadre de ses missions, la Haute Autorité de santé émet des
-recommandations et avis médico-économiques sur les stratégies de soins, de
-prescription ou de prise en charge les plus efficientes.
+Dans le cadre des missions confiées à la Haute Autorité de santé, une commission
+spécialisée de la Haute Autorité, distincte des commissions mentionnées aux
+articles L. 5123-3 du code de la santé publique et L. 165-1 du présent code, est
+chargée d'établir et de diffuser des recommandations et avis médico-économiques
+sur les stratégies de soins, de prescription ou de prise en charge les plus
+efficientes.
 
 La Haute Autorité de santé établit un rapport annuel d'activité adressé au
 Parlement et au Gouvernement avant le 1er juillet, qui porte notamment sur les

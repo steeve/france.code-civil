@@ -14,7 +14,6 @@ pêche maritime, des crédits provenant des fonds constitués au sein de la Cais
 nationale de l'assurance maladie des travailleurs salariés, de la Caisse
 nationale du régime social des indépendants et de la Caisse centrale de la
 mutualité sociale agricole et destinés à financer des actions de prévention,
-d'éducation et d'information sanitaires. Un arrêté des ministres chargés de la
-santé et de la sécurité sociale fixe, chaque année, le montant de la
-contribution de chaque caisse nationale d'assurance maladie à chaque agence
-régionale de santé au titre des actions de prévention.
+d'éducation et d'information sanitaires. Le montant de la contribution de chaque
+caisse nationale d'assurance maladie est fixé dans le cadre des dispositions de
+l'article L. 1435-9.

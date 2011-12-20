@@ -9,7 +9,7 @@ conditions mentionnées aux articles L. 5123-2 et suivants, donne lieu, au profi
 de la Haute Autorité de santé, à la perception d'une taxe à la charge du
 demandeur.
 
-Le montant de cette taxe est fixé, dans la limite de 4 600 euros, par arrêté des
+Le montant de cette taxe est fixé, dans la limite de 5 600 euros, par arrêté des
 ministres chargés du budget, de l'économie et des finances, de la santé et de la
 sécurité sociale. Le montant de la taxe perçue à l'occasion d'une demande de
 renouvellement d'inscription ou de modification d'inscription est fixé dans les

@@ -15,4 +15,5 @@ absence de déclaration des ressources ou omission de ressources dans les
 déclarations.
 
 Toute demande de remboursement de trop-perçu se prescrit par deux ans à compter
-de la date du paiement de l'allocation entre les mains du bénéficiaire.
+de la date du paiement de l'allocation entre les mains du bénéficiaire, sauf en
+cas de fraude ou de fausse déclaration.

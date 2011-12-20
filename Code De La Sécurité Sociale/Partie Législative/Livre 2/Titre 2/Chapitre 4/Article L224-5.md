@@ -19,6 +19,9 @@ ou l'Agence centrale des organismes de sécurité sociale des missions sur les
 questions relatives aux conditions de travail du personnel des organismes de
 sécurité sociale, ou sur tout sujet de fonctionnement des organismes d'intérêt
 commun, notamment pour les opérations immobilières. Elle peut également passer
-convention avec les caisses nationales des autres régimes de sécurité sociale
-pour la réalisation de travaux portant sur des sujets d'intérêt commun,
-notamment pour les opérations immobilières.
+convention avec les caisses nationales des autres régimes de sécurité sociale,
+des organismes locaux du régime général et de tout organisme de tout autre
+régime de sécurité sociale.
+
+Elle assure la gestion administrative et comptable du fonds mentionné à
+l'article L. 114-24.

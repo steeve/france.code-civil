@@ -52,8 +52,7 @@ exercée par l'employeur visée au même alinéa, une contribution additionnelle
 30 %, à la charge de l'employeur, sur les rentes excédant huit fois le plafond
 annuel défini par l'article L. 241-3.
 
-III. - Les dispositions des articles L. 137-3 et L. 137-4 sont applicables à la
-présente contribution.
+III. - (Abrogé)
 
 IV. - Les contributions des employeurs destinées au financement des régimes de
 retraite visés au I ne sont soumises ni aux cotisations et taxes dont l'assiette

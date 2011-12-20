@@ -16,7 +16,9 @@ articles L. 213-1 et L. 752-1 du présent code procèdent au recouvrement des
 cotisations et contributions qui leur sont dues au titre des rémunérations
 évaluées conformément à l'alinéa précédent.
 
-Les modalités de prise en compte, au titre de l'assurance vieillesse, de la
-rémunération forfaitaire prévue au premier alinéa ainsi que la procédure décrite
-au deuxième alinéa, en particulier la manière dont est assuré le respect du
-principe du contradictoire, sont précisées par décret en Conseil d'Etat.
+Les modalités de prise en compte de la rémunération forfaitaire prévue au
+premier alinéa en matière d'ouverture des droits et de calcul des ressources au
+titre des prestations servies par les organismes de sécurité sociale ainsi que
+la procédure décrite au deuxième alinéa, en particulier la manière dont est
+assuré le respect du principe du contradictoire, sont précisées par décret en
+Conseil d'Etat.

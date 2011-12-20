@@ -8,6 +8,6 @@ du 9 avril 1898, reçoit une allocation lorsqu'il apporte la preuve que le déc�
 de la victime est directement imputable aux conséquences de l'accident ou de la
 maladie.
 
-L'allocation est attribuée dans les conditions fixées par les premier, deuxième
-et troisième alinéas de l'article L. 434-8 sur la base du salaire minimum prévu
-à l'article L. 434-16.
+L'allocation est attribuée dans les conditions fixées par les quatre premiers
+alinéas de l'article L. 434-8 sur la base du salaire minimum prévu à l'article
+L. 434-16.

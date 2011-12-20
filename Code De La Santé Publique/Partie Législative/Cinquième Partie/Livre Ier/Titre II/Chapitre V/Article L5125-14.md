@@ -10,7 +10,7 @@ Le transfert dans une autre commune peut s'effectuer à condition :
 
 a) Moins de 2 500 habitants si elle n'a qu'une seule pharmacie ;
 
-b) Ou un nombre d'habitants par pharmacie supplémentaire inférieur à 3 500 ;
+b) Ou un nombre d'habitants par pharmacie supplémentaire inférieur à 4 500 ;
 
 2° Que l'ouverture d'une pharmacie nouvelle soit possible dans la commune
 d'accueil en application de l'article L. 5125-11.

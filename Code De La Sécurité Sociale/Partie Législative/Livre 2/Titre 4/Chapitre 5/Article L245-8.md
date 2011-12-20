@@ -1,7 +1,7 @@
 Article L245-8
 ----
 La cotisation est due à raison de l'importation ou la livraison aux
-consommateurs de boissons d'une teneur en alcool supérieure à 25 % vol.
+consommateurs de boissons d'une teneur en alcool supérieure à 18 % vol.
 
 La cotisation est acquittée par l'importateur ou pour le compte des
 consommateurs par les entrepositaires agréés, les destinataires enregistrés, les

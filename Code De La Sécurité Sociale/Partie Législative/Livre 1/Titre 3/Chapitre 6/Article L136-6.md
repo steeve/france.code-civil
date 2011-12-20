@@ -59,7 +59,7 @@ II.-Sont également assujettis à la contribution, dans les conditions et selon
 les modalités prévues au I ci-dessus :
 
 a) Les sommes soumises à l'impôt sur le revenu en application des articles
-168,1649 A,1649 quater A et 1649 quater-0 B bis à 1649 quater-0 B ter, du code
+168,1649 A, 1649 quater A et 1649 quater-0 B bis à 1649 quater-0 B ter, du code
 général des impôts, ainsi que de l'article L. 69 du livre des procédures
 fiscales ;
 
@@ -88,3 +88,9 @@ par article de rôle est inférieur à 61 euros.
 La majoration de 10 % prévue à l'article 1730 du code général des impôts est
 appliquée au montant de la contribution qui n'a pas été réglé dans les trente
 jours suivant la mise en recouvrement.
+
+IV.-Par dérogation aux dispositions du III, la contribution portant sur les
+redevances visées aux articles L. 7121-8 et L. 7123-6 du code du travail et
+versées aux artistes du spectacle et aux mannequins est précomptée, recouvrée et
+contrôlée selon les règles et sous les garanties et sanctions applicables au
+recouvrement des cotisations du régime général de sécurité sociale.

@@ -9,8 +9,7 @@ contribution à la charge de l'employeur, à l'exception :
 1° De ceux assujettis à la contribution prévue à l'article L. 137-13 du présent
 code ;
 
-2° Des contributions des employeurs mentionnées au 2° des articles L. 242-1 du
-présent code et L. 741-10 du code rural et de la pêche maritime ;
+2° (Abrogé)
 
 3° Des indemnités exclues de l'assiette des cotisations de sécurité sociale en
 application du douzième alinéa de l'article L. 242-1 du présent code et du
@@ -31,3 +30,8 @@ Sont également soumises à cette contribution les sommes correspondant à la pr
 en charge par l'employeur de la part salariale des cotisations ou contributions
 destinées au financement des régimes de retraite complémentaire mentionnée au
 cinquième alinéa de l'article L. 242-1.
+
+Par dérogation au premier alinéa, ne sont pas assujettis à cette contribution
+les employeurs de moins de dix salariés au titre des contributions versées au
+bénéfice des salariés, anciens salariés et de leurs ayants droit pour le
+financement de prestations complémentaires de prévoyance.

@@ -26,7 +26,7 @@ supérieur à 20 millions d'euros. Le chiffre d'affaires concerné s'entend
 déduction faite des remises accordées par les entreprises.
 
 Le taux de la contribution due au titre du chiffre d'affaires réalisé au cours
-des années 2009, 2010 et 2011 est fixé à 1 %. La contribution est exclue des
+des années 2012, 2013 et 2014 est fixé à 1,6 %. La contribution est exclue des
 charges déductibles pour l'assiette de l'impôt sur le revenu ou de l'impôt sur
 les sociétés.
 

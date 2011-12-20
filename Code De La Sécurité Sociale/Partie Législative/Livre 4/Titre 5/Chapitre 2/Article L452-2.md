@@ -18,9 +18,9 @@ puisse dépasser le montant du salaire annuel ; lorsque la rente d'un ayant droi
 cesse d'être due, le montant de la majoration correspondant à la ou aux
 dernières rentes servies est ajusté de façon à maintenir le montant global des
 rentes majorées tel qu'il avait été fixé initialement ; dans le cas où le
-conjoint survivant recouvre son droit à la rente en application du troisième
-alinéa de l'article L. 434-9, la majoration dont il bénéficiait est rétablie à
-son profit.
+conjoint, le partenaire d'un pacte civil de solidarité ou le concubin survivant
+recouvre son droit à la rente en application du troisième alinéa de l'article L.
+434-9, la majoration dont il bénéficiait est rétablie à son profit.
 
 Le salaire annuel et la majoration visée au troisième et au quatrième alinéa du
 présent article sont soumis à la revalorisation prévue pour les rentes par

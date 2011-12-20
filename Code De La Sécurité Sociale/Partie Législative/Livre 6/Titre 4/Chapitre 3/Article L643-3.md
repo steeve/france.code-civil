@@ -14,10 +14,16 @@ retraite applicables en fonction de l'âge auquel est demandée la liquidation e
 de la durée d'assurance lorsque l'intéressé ne justifie pas de la durée prévue
 au deuxième alinéa du présent I.
 
-Le décret prévu à l'alinéa précédent détermine également le barème suivant
-lequel la pension est majorée lorsque la liquidation de la pension de retraite
-est ajournée au-delà de l'âge et de la durée d'assurance prévus respectivement
-au premier et au deuxième alinéa du présent I.
+La durée d'assurance ayant donné lieu à cotisations à la charge de l'assuré
+accomplie après l'âge prévu au premier alinéa et au-delà de la durée mentionnée
+au deuxième alinéa donne lieu à une majoration de la pension dans des conditions
+fixées par décret en Conseil d'Etat. Toutefois, pour l'appréciation de cette
+condition de durée, les bonifications de durée de services et majorations de
+durée d'assurance, à l'exclusion de celles accordées au titre des enfants et du
+handicap, prévues par les dispositions législatives et réglementaires, quel que
+soit le régime de retraite de base au titre duquel elles ont été acquises, ne
+sont pas prises en compte. Un décret fixe la liste des bonifications et
+majorations auxquelles s'applique le présent alinéa.
 
 II.-L'âge prévu au premier alinéa du I est abaissé pour les assurés qui ont
 commencé leur activité avant un âge et dans des conditions déterminés par décret

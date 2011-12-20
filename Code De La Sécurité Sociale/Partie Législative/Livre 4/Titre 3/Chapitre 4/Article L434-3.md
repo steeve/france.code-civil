@@ -9,5 +9,6 @@ Le capital peut être converti en rente viagère. Les conditions de cette
 conversion sont fixées par décret en Conseil d'Etat.
 
 La rente viagère résultant de la conversion prévue au deuxième alinéa du présent
-article, ainsi que la rente de réversion versée au conjoint, sont revalorisées
-dans les conditions prévues à l'article L. 434-17.
+article, ainsi que la rente de réversion versée au conjoint, au partenaire d'un
+pacte civil de solidarité ou au concubin, sont revalorisées dans les conditions
+prévues à l'article L. 434-17.

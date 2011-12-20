@@ -22,9 +22,9 @@ Le conseil ou les conseils d'administration des caisses nationales, de l'Agence
 centrale des organismes de sécurité sociale et la commission visée à l'article
 L. 221-4 peuvent faire toutes propositions de modification législative ou
 réglementaire dans leur domaine de compétence. Les propositions de nature
-législative sont transmises au Parlement et au conseil de surveillance. Le
-Gouvernement fait connaître dans un délai d'un mois les suites qu'il réserve aux
-propositions de nature réglementaire.
+législative sont transmises au Parlement. Le Gouvernement fait connaître dans un
+délai d'un mois les suites qu'il réserve aux propositions de nature
+réglementaire.
 
 Le conseil ou les conseils d'administration et la commission prévue à l'article
 L. 221-4 sont habilités, dans le respect de l'équilibre financier de chacune des

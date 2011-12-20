@@ -2,8 +2,8 @@ Article L341-14-1
 ----
 Le service de la pension est suspendu lorsque l'assuré bénéficie des
 dispositions des articles L. 351-1-1, L. 351-1-3, L. 351-1-4, L. 634-3-2 ou L.
-634-3-3 du présent code, ou des articles L. 732-18-1 ou L. 732-18-2 du code
-rural et de la pêche maritime.
+634-3-3 du présent code, ou des articles L. 732-18-1, L. 732-18-2 ou L. 732-18-3
+du code rural et de la pêche maritime.
 
 En cas de suspension de la pension dans ces conditions, ses avantages
 accessoires sont maintenus, notamment ceux prévus au 13° de l'article L. 322-3

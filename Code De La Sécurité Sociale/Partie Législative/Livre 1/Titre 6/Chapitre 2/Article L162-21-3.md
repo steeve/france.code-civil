@@ -1,18 +1,12 @@
 Article L162-21-3
 ----
 Il est créé, auprès des ministres chargés de la santé et de la sécurité sociale,
-pour une période de cinq ans à compter du 1er janvier 2007, un observatoire
-économique de l'hospitalisation publique et privée. Avant la fin du dernier
-semestre de cette période de cinq ans, il est procédé à une évaluation du
-fonctionnement de cet observatoire ; celle-ci devra se prononcer sur
-l'opportunité de le voir poursuivre son activité de façon autonome ou de le
-fusionner avec le conseil de l'hospitalisation mentionné à l'article L.
-162-21-2.
+un observatoire économique de l'hospitalisation publique et privée.
 
-L'observatoire est chargé du suivi tout au long de l'année des dépenses
-d'assurance maladie relatives aux frais d'hospitalisation se fondant sur
-l'analyse des données d'activité de soins et des dépenses engendrées par ces
-activités.
+L'observatoire est chargé du suivi des dépenses d'assurance maladie relatives
+aux frais d'hospitalisation et de la situation financière des établissements de
+santé publics et privés. Il se fonde notamment sur l'analyse des données
+d'activité de soins et des dépenses engendrées par ces activités.
 
 Afin de remplir ses missions, l'observatoire est rendu destinataire, à sa
 demande, des données nécessaires à l'analyse de l'activité des établissements de

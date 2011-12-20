@@ -12,9 +12,10 @@ responsabilité dans un délai de quinze jours après cette décision. La fixati
 du tarif de responsabilité tient compte principalement des prix de vente
 pratiqués pour cette spécialité, des prix des médicaments à même visée
 thérapeutique, des volumes de vente prévus ou constatés, des conditions
-prévisibles ou réelles d'utilisation de la spécialité pharmaceutique et de
+prévisibles ou réelles d'utilisation de la spécialité pharmaceutique, de
 l'amélioration du service médical apportée par la spécialité appréciée par la
-commission prévue à l'article L. 5123-3 du code de la santé publique.
+commission prévue à l'article L. 5123-3 du code de la santé publique et, le cas
+échéant, des résultats de l'évaluation médico-économique.
 
 En aucun cas la différence entre le tarif de responsabilité et le prix de vente
 aux établissements ne peut être facturée aux patients.

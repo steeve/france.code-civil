@@ -12,14 +12,17 @@ mentionnés à l'article L. 114-12 du présent code et pour ceux prévus, en
 application du présent code, avec les administrations fiscales.
 
 Les échanges d'informations et données relatives à ce répertoire peuvent prendre
-la forme de transmissions de données par voie électronique. Les traitements
-automatisés de données qui se limitent à l'organisation de ces échanges,
-notamment en vue de garantir l'authenticité, la fiabilité, la provenance,
-l'intégrité et la confidentialité des données échangées, sont soumis aux
-dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
-fichiers et aux libertés, dès lors que les informations et données échangées
-sont celles définies par les dispositions législatives et réglementaires
-relatives au répertoire défini au premier alinéa.
+la forme de transmissions de données par voie électronique. Ces échanges peuvent
+notamment porter sur les montants des prestations en espèces servies par les
+organismes mentionnés au premier alinéa. Cette nouvelle fonctionnalité est mise
+en œuvre avant la fin de l'année 2012. Les traitements automatisés de données
+qui se limitent à l'organisation de ces échanges, notamment en vue de garantir
+l'authenticité, la fiabilité, la provenance, l'intégrité et la confidentialité
+des données échangées, sont soumis aux dispositions de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dès lors
+que les informations et données échangées sont celles définies par les
+dispositions législatives et réglementaires relatives au répertoire défini au
+premier alinéa.
 
 Ont également accès aux données de ce répertoire :
 
@@ -42,9 +45,7 @@ Le numéro d'inscription au répertoire national d'identification des personnes
 physiques est l'identifiant utilisé.
 
 Le contenu ainsi que les modalités de gestion et d'utilisation de ce répertoire
-sont fixés par décret en Conseil d'Etat, après avis [Dispositions déclarées non
-conformes à la Constitution par la décision du Conseil constitutionnel n°
-2006-544 DC du 14 décembre 2006] de la Commission nationale de l'informatique et
-des libertés. Ce décret détermine également les conditions d'identification des
-personnes qui ne disposent pas d'un numéro d'inscription au répertoire mentionné
-à l'avant-dernier alinéa.
+sont fixés par décret en Conseil d'Etat, après avis de la Commission nationale
+de l'informatique et des libertés. Ce décret détermine également les conditions
+d'identification des personnes qui ne disposent pas d'un numéro d'inscription au
+répertoire mentionné à l'avant-dernier alinéa.

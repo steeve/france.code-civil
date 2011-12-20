@@ -2,7 +2,8 @@ Article L723-13
 ----
 Toute demande de remboursement de trop-perçu en matière de prestations de
 vieillesse et d'invalidité est prescrite par un délai de deux ans à compter du
-paiement desdites prestations dans les mains du bénéficiaire.
+paiement desdites prestations dans les mains du bénéficiaire, sauf en cas de
+fraude ou de fausse déclaration.
 
 En cas d'erreur de la caisse nationale, aucun remboursement de trop-perçu des
 prestations de vieillesse ou d'invalidité n'est réclamé à un pensionné de bonne

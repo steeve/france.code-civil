@@ -1,62 +1,25 @@
 Article L136-4
 ----
-I.-Sont soumis à la contribution les revenus professionnels visés à l'article L.
-731-14 du code rural et de la pêche maritime.
+I.-Sont soumis à la contribution les revenus professionnels déterminés en
+application des articles L. 731-14 à L. 731-15 du code rural et de la pêche
+maritime.
 
 Les revenus pris en compte sont constitués par la moyenne des revenus se
 rapportant aux trois années antérieures à celle au titre de laquelle la
 contribution est due. Lorsque le chef d'exploitation ou d'entreprise agricole a
 exercé l'option prévue à l'article L. 731-19 du code rural et de la pêche
 maritime, les revenus pris en compte sont constitués par les revenus afférents à
-l'année précédant celle au titre de laquelle la contribution est due. Ces
-revenus proviennent de l'ensemble des activités agricoles exercées au cours de
-la ou des années de référence, y compris lorsque l'une de ces activités a cessé
-au cours de la ou desdites années.
+l'année précédant celle au titre de laquelle la contribution est due.
 
-Pour la détermination des revenus mentionnés au précédent alinéa, il n'est pas
-tenu compte des reports déficitaires, des amortissements réputés différés au
-sens du 2° du 1 de l'article 39 du code général des impôts, des plus-values et
-moins-values professionnelles à long terme, des modalités d'assiette mentionnées
-aux articles 75-0 A et 75-0 B du même code ainsi que du coefficient
-multiplicateur mentionné au 7 de l'article 158 du même code. Les contribuables
-qui ont exercé l'option mentionnée au c du 2 de l'article 75-0 A du code général
-des impôts peuvent demander à bénéficier de cette option pour la détermination
-des revenus mentionnés au précédent alinéa. Les revenus sont majorés des
-déductions, abattements et exonérations mentionnés aux articles 44 sexies, 44
-sexies A, 44 undecies, 44 terdecies, 44 quaterdecies, 73 B et 151 septies A du
-même code, des cotisations personnelles de sécurité sociale de l'exploitant, de
-son conjoint et des membres de sa famille, ainsi que des sommes mentionnées aux
-articles L. 3312-4, L. 3324-5 et L. 3332-27 du code du travail et versées au
-bénéfice des intéressés, à l'exception de celles prises en compte dans le revenu
-défini à l'article L. 731-14 du code rural et de la pêche maritime. La dotation
-d'installation en capital accordée aux jeunes agriculteurs ainsi que le montant
-de la différence entre l'indemnité versée en compensation de l'abattage total ou
-partiel de troupeaux en application des articles L. 221-2 ou L. 234-4 du code
-rural et de la pêche maritime et la valeur en stock ou en compte d'achats des
-animaux abattus sont exclus de ces revenus.
+Les revenus sont majorés des cotisations personnelles de sécurité sociale de
+l'exploitant, de son collaborateur d'exploitation ou d'entreprise agricole et
+des membres de sa famille, ainsi que des sommes mentionnées aux articles L.
+3312-4, L. 3324-5 et L. 3332-27 du code du travail et versées au bénéfice des
+intéressés, à l'exception de celles prises en compte dans le revenu défini à
+l'article L. 731-14 du code rural et de la pêche maritime.
 
-Les revenus professionnels sont également majorés des revenus perçus par le chef
-d'exploitation ou d'entreprise agricole en contrepartie de la location des
-terres, biens immobiliers à utilisation agricole et biens mobiliers qui leur
-sont attachés lorsque ces terres et ces biens sont mis à la disposition d'une
-exploitation ou d'une entreprise agricole sous forme individuelle ou sociétaire
-aux travaux de laquelle il participe effectivement. Cette majoration ne
-s'applique pas lorsque le chef d'exploitation ou d'entreprise agricole ne
-procède pas à la déduction du revenu cadastral des terres prévue au cinquième
-alinéa de l'article L. 731-14 du code rural et de la pêche maritime.
-
-Lorsque les personnes mentionnées à l'article L. 722-4 du code rural et de la
-pêche maritime estiment que les revenus professionnels pris en compte pour le
-calcul de la contribution subissent une variation, cette contribution peut, sur
-demande des intéressés formulée auprès de la caisse de mutualité sociale
-agricole, être calculée au titre des appels fractionnés ou des versements
-mensuels sur la base de l'assiette des revenus intégrant cette variation dès le
-début de l'année civile au titre de laquelle cette contribution est due.
-
-Une majoration de retard de 10 % est appliquée sur l'insuffisance de versement
-des appels fractionnés ou des versements mensuels lorsque les revenus définitifs
-de l'année considérée sont supérieurs de plus d'un tiers aux revenus estimés par
-l'intéressé pour cette même année.
+L'article L. 731-22 du code rural et de la pêche maritime est applicable au
+calcul et au recouvrement de la contribution.
 
 II.-Lorsque la durée d'assujettissement au régime de protection sociale des
 non-salariés agricoles d'un chef d'exploitation ou d'entreprise agricole ne
@@ -106,25 +69,8 @@ IV. (Abrogé)
 
 V. (Abrogé)
 
-VI.-En cas de coexploitation ou d'exploitation sous forme sociétaire, lorsque
-les revenus professionnels de chacun des coexploitants ou associés n'ont pas
-fait l'objet d'une imposition séparée, le montant total des revenus est réparti
-entre les coexploitants ou associés au prorata de la participation de chacun
-d'eux aux bénéfices, telle qu'elle est déterminée par les statuts de la société,
-ou, à défaut, à parts égales.
-
-Si les revenus professionnels dégagés par les membres d'une même famille ayant
-la qualité de chefs d'exploitation ou d'entreprise et dirigeant des
-exploitations ou entreprises distinctes n'ont pas fait l'objet d'une imposition
-séparée, le montant total des revenus est réparti entre eux en fonction de
-l'importance respective de chacune de ces dernières exprimée en pourcentage de
-la surface minimum d'installation.
-
-Lorsque l'importance de l'une au moins de ces exploitations ou entreprises ne
-peut être appréciée par référence à la surface minimum d'installation, les
-revenus sont répartis au prorata du nombre d'heures de travail effectué dans
-chacune de ces exploitations ou entreprises au cours de l'année précédant celle
-au titre de laquelle les cotisations sont dues ou, à défaut, à parts égales.
+VI.-L'article L. 731-18 du code rural et de la pêche maritime est applicable au
+calcul de la contribution.
 
 VII.-Sont soumis à la contribution les revenus professionnels, définis à
 l'article L. 731-14 du code rural et de la pêche maritime, des personnes

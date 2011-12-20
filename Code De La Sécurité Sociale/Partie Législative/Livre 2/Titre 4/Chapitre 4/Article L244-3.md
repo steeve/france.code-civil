@@ -16,8 +16,9 @@ l'expiration d'un délai de deux ans à compter du paiement des cotisations qui
 ont donné lieu à l'application desdites majorations.
 
 Les pénalités de retard appliquées en cas de production tardive ou de défaut de
-production des bordereaux récapitulatifs des cotisations et des déclarations
-annuelles des données sociales doivent être mises en recouvrement par voie de
-mise en demeure dans un délai de deux ans à compter de la date de production
-desdits documents ou, à défaut, à compter selon le cas soit de la notification
-de l'avertissement, soit de la mise en demeure prévus à l'article L. 244-2.
+production des déclarations obligatoires relatives aux cotisations et
+contributions sociales et des déclarations annuelles des données sociales
+doivent être mises en recouvrement par voie de mise en demeure dans un délai de
+deux ans à compter de la date de production desdits documents ou, à défaut, à
+compter selon le cas soit de la notification de l'avertissement, soit de la mise
+en demeure prévus à l'article L. 244-2.

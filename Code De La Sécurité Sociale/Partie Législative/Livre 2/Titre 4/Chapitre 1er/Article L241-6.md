@@ -28,4 +28,7 @@ réserve de capitalisation des entreprises d'assurance ;
 
 7° Le prélèvement résultant de l'aménagement des règles d'imposition aux
 prélèvements sociaux de la part en euros des contrats d'assurance vie
-multisupports.
+multisupports ;
+
+8° Le produit des impôts et taxes mentionnés à l'article L. 131-8 du présent
+code, dans les conditions fixées par ce même article.

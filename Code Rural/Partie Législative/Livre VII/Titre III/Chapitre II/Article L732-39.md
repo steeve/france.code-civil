@@ -34,7 +34,17 @@ sociale ;
 b) A partir de l'âge prévu au premier alinéa de l'article L. 351-1 du même code,
 lorsque l'assuré justifie d'une durée d'assurance et de périodes reconnues
 équivalentes mentionnée au deuxième alinéa du même article au moins égale à la
-limite mentionnée au même alinéa.
+limite mentionnée au même alinéa. Par dérogation aux deux premiers alinéas et
+sous réserve que l'assuré ait liquidé ses pensions de vieillesse personnelles
+auprès de la totalité des régimes légaux ou rendus légalement obligatoires, de
+base et complémentaires, français et étrangers, ainsi que des régimes des
+organisations internationales dont il a relevé, les personnes mentionnées à
+l'article L. 321-5 et au 2° de l'article L. 722-10 du présent code qui
+justifient des conditions fixées aux a et b du présent article peuvent cumuler
+leur pension de vieillesse non salariée agricole avec une activité
+professionnelle non salariée agricole exercée sur une exploitation ou entreprise
+agricole donnant lieu à assujettissement du chef d'exploitation ou d'entreprise
+agricole.
 
 Elles ne font pas obstacle à l'exercice des activités énumérées aux 1°, 2°, 3°,
 4°, 5° et 7° de l'article L. 161-22 du code de la sécurité sociale.

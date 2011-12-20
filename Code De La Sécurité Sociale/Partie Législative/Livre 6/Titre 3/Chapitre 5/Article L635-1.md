@@ -14,7 +14,7 @@ d'office au régime complémentaire obligatoire de l'organisation dont elle
 relève.
 
 Les cotisations aux régimes complémentaires obligatoires d'assurance vieillesse
-mentionnés au présent article sont assises sur le revenu professionnel défini à
+mentionnés au présent article sont assises sur le revenu d'activité défini à
 l'article L. 131-6, et recouvrées dans les mêmes formes et conditions que les
 cotisations du régime de base.
 

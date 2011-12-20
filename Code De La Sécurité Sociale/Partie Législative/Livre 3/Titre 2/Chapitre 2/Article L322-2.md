@@ -12,7 +12,12 @@ La participation est fixée dans des limites et des conditions fixées par décr
 en Conseil d'Etat, par décision de l'Union nationale des caisses d'assurance
 maladie, après avis de l'Union nationale des organismes d'assurance maladie
 complémentaire. Le ministre chargé de la santé peut s'opposer à cette décision
-pour des motifs de santé publique. La décision du ministre est motivée.
+pour des motifs de santé publique. La décision du ministre est motivée. Le
+décret en Conseil d'Etat précise notamment le délai dont dispose l'Union
+nationale des caisses d'assurance maladie pour se prononcer et les conditions
+dans lesquelles le ministre chargé de la sécurité sociale se substitue à l'Union
+nationale des caisses d'assurance maladie en cas d'absence de décision de
+celle-ci, une fois ce délai expiré.
 
 L'application aux spécialités pharmaceutiques mentionnées à l'article L. 162-17
 des taux de participation mentionnés à l'alinéa précédent est déterminée par
@@ -40,14 +45,16 @@ Un décret fixe les conditions dans lesquelles, lorsque l'assuré bénéficie de
 dispense d'avance des frais, la participation forfaitaire peut être versée
 directement par l'assuré à la caisse d'assurance maladie ou être récupérée par
 elle auprès de l'assuré sur les prestations à venir. Il peut être dérogé aux
-dispositions de l'article L. 133-3. III.-En sus de la participation mentionnée
-au premier alinéa du I, une franchise annuelle est laissée à la charge de
-l'assuré pour les frais relatifs à chaque prestation et produit de santé
-suivants, pris en charge par l'assurance maladie : 1° Médicaments mentionnés aux
-articles L. 5111-2, L. 5121-1 et L. 5126-4 du code de la santé publique, à
-l'exception de ceux délivrés au cours d'une hospitalisation ; 2° Actes effectués
-par un auxiliaire médical soit en ville, soit dans un établissement ou un centre
-de santé, à l'exclusion des actes pratiqués au cours d'une hospitalisation ;
+dispositions de l'article L. 133-3.
+
+III.-En sus de la participation mentionnée au premier alinéa du I, une franchise
+annuelle est laissée à la charge de l'assuré pour les frais relatifs à chaque
+prestation et produit de santé suivants, pris en charge par l'assurance maladie
+: 1° Médicaments mentionnés aux articles L. 5111-2, L. 5121-1 et L. 5126-4 du
+code de la santé publique, à l'exception de ceux délivrés au cours d'une
+hospitalisation ; 2° Actes effectués par un auxiliaire médical soit en ville,
+soit dans un établissement ou un centre de santé, à l'exclusion des actes
+pratiqués au cours d'une hospitalisation ;
 
 3° Transports mentionnés au 2° de l'article L. 321-1 du présent code effectués
 en véhicule sanitaire terrestre ou en taxi, à l'exception des transports
