@@ -17,12 +17,26 @@ de la même directive et dont la première mise en circulation intervient à
 compter du 1er juin 2004, et qui n'étaient pas possédés ou utilisés par la
 société avant le 1er janvier 2006, le tarif applicable est le suivant :
 
-TAUX D'EMISSION DE DIOXYDE de carbone (en grammes par kilomètre)
+TAUX D'ÉMISSION DE DIOXYDE DE CARBONE
 
-TARIF applicable par gramme de dioxyde de carbone (en euros)
+(en grammes par kilomètre)
 
 
-Inférieur ou égal à 100
+TARIF APPLICABLE
+
+par gramme de dioxyde
+
+de carbone
+
+(en euros)
+
+
+Inférieur ou égal à 50
+
+0
+
+
+Supérieur à 50 et inférieur ou égal à 100
 
 2
 
@@ -34,57 +48,63 @@ Supérieur à 100 et inférieur ou égal à 120
 
 Supérieur à 120 et inférieur ou égal à 140
 
-5
+5,5
 
 
 Supérieur à 140 et inférieur ou égal à 160
 
-10
+11,5
 
 
 Supérieur à 160 et inférieur ou égal à 200
 
-15
+18
 
 
 Supérieur à 200 et inférieur ou égal à 250
 
-17
+21,5
 
 
 Supérieur à 250
 
-19
+27
 
 b) Pour les véhicules autres que ceux mentionnés au a, le tarif applicable est
 le suivant :
 
-PUISSANCE FISCALE (en chevaux-vapeur)
 
-TARIF applicable (en euros)
+PUISSANCE FISCALE
+
+(en chevaux-vapeur)
 
 
-Inférieure ou égale à 4
+TARIF APPLICABLE
+
+(en euros)
+
+
+Inférieure ou égale à 3
 
 750
 
 
-De 5 à 7
+De 4 à 6
 
 1 400
 
 
-De 8 à 11
+De 7 à 10
 
 3 000
 
 
-De 12 à 16
+De 11 à 15
 
 3 600
 
 
-Supérieure à 16
+Supérieure à 15
 
 4 500
 
