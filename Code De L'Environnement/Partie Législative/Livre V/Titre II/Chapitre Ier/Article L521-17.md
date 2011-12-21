@@ -12,5 +12,6 @@ Au plus tard six mois après la constatation d'un manquement, l'autorité
 administrative compétente, après avoir invité la personne concernée à prendre
 connaissance du dossier et à présenter ses observations dans un délai n'excédant
 pas trois mois, peut mettre en demeure le fabricant ou importateur ou
-l'utilisateur industriel ou professionnel de substances ou mélanges de
-satisfaire, dans un délai donné, aux obligations du présent chapitre.
+l'utilisateur industriel ou professionnel des substances, mélanges, articles,
+produits ou équipements de satisfaire, dans un délai donné, aux obligations du
+présent chapitre.

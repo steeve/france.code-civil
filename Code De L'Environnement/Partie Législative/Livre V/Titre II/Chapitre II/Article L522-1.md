@@ -1,19 +1,19 @@
 Article L522-1
 ----
 I.-Les dispositions du présent chapitre s'appliquent aux produits biocides,
-c'est-à-dire aux substances actives et aux préparations contenant une ou
-plusieurs substances actives qui sont présentées sous la forme dans laquelle
-elles sont livrées à l'utilisateur, et qui sont destinées à détruire, repousser
-ou rendre inoffensifs les organismes nuisibles, à en prévenir l'action ou à les
-combattre de toute autre manière, par une action chimique ou biologique.
+c'est-à-dire aux substances actives et aux mélanges contenant une ou plusieurs
+substances actives qui sont présentées sous la forme dans laquelle elles sont
+livrées à l'utilisateur, et qui sont destinées à détruire, repousser ou rendre
+inoffensifs les organismes nuisibles, à en prévenir l'action ou à les combattre
+de toute autre manière, par une action chimique ou biologique.
 
 II.-La liste des types et des descriptions des produits visés est définie par
 décret en Conseil d'Etat.
 
 III.-Les dispositions du présent chapitre ne s'appliquent pas :
 
-1° Aux substances et préparations suivantes au stade fini, destinées à
-l'utilisateur final, exclusivement utilisées comme :
+1° Aux substances et mélanges suivants au stade fini, destinés à l'utilisateur
+final, exclusivement utilisés comme :
 
 médicaments à usage humain ou vétérinaire mentionnés à l'article L. 5111-1 du
 code de la santé publique ; produits cosmétiques au sens de l'article L. 5131-1

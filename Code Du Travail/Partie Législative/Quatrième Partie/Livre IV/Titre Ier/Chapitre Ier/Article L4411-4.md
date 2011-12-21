@@ -1,7 +1,7 @@
 Article L4411-4
 ----
 Les fabricants, les importateurs ou tout responsable de la mise sur le marché de
-substances ou de préparations dangereuses destinées à être utilisées dans des
+substances ou de mélanges dangereux destinés à être utilisés dans des
 établissements employant des travailleurs fournissent à un organisme compétent
 désigné par l'autorité administrative toutes les informations nécessaires sur
 ces produits, notamment leur composition.

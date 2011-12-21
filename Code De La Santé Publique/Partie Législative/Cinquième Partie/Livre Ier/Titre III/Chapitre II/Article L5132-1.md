@@ -2,8 +2,7 @@ Article L5132-1
 ----
 Sont comprises comme substances vénéneuses :
 
-1° Les substances dangereuses classées selon les catégories définies à l'article
-L. 5132-2 ;
+1° (Supprimé) ;
 
 2° Les substances stupéfiantes ;
 
@@ -11,6 +10,8 @@ L. 5132-2 ;
 
 4° Les substances inscrites sur la liste I et la liste II définies à l'article
 L. 5132-6.
+
+Au sens de cette présente partie :
 
 On entend par " substances " les éléments chimiques et leurs composés comme ils
 se présentent à l'état naturel ou tels qu'ils sont produits par l'industrie,

@@ -27,7 +27,8 @@ santé mentionnés à l'article L. 5313-1 du code de la santé publique ;
 
 8° Les vétérinaires-inspecteurs ;
 
-9° Les ingénieurs et techniciens du service de la protection des végétaux ;
+9° Les agents en charge de la protection des végétaux au titre de l'article L.
+250-2 du code rural et de la pêche maritime ;
 
 10° Les agents habilités à effectuer des contrôles techniques à bord des
 aéronefs ;

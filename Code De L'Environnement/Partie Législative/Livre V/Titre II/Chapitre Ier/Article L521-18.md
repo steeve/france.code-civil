@@ -8,34 +8,40 @@ demeure prévue à l'article L. 521-17, l'autorité administrative compétente p
 journalière de 1 500 € ;
 
 2° Ordonner une mesure d'interdiction d'importation, de fabrication ou de mise
-sur le marché de substances, de mélanges et d'articles ;
+sur le marché ou une mesure de retrait du marché des substances, des mélanges,
+des articles, des produits ou des équipements.
 
-3° Enjoindre à l'importateur des substances, des mélanges ou d'articles importés
-en méconnaissance des titres II, III et IV du règlement (CE) n° 1272/2008 et des
-titres II, VII et VIII du règlement (CE) n° 1907 / 2006 d'effectuer le retour de
-la substance, du mélange ou du produit en dehors du territoire de l'Union
-européenne ou à assurer son élimination dans les conditions prévues au titre IV
-du présent livre. En cas d'inexécution, l'autorité compétente prend toutes les
-dispositions utiles pour assurer ce retour de la substance, du mélange ou du
-produit ou son élimination. Les dépenses correspondantes sont mises à la charge
+En cas d'urgence justifiée par des risques sanitaires ou environnementaux,
+l'autorité administrative peut procéder à l'interdiction ou au retrait de la
+mise sur le marché des substances, des mélanges, des articles, des produits ou
+des équipements sans mise en demeure mentionnée à l'article L. 521-17 ;
+
+3° Enjoindre à l'importateur des substances, mélanges, articles, produits ou
+équipements importés en méconnaissance du règlement (CE) n° 1005/2009, des
+titres II, III et IV du règlement (CE) n° 1272/2008 et des titres II, VII et
+VIII du règlement (CE) n° 1907/2006 d'effectuer leur retour en dehors du
+territoire de l'Union européenne ou d'assurer leur élimination dans les
+conditions prévues au titre IV du présent livre. En cas d'inexécution,
+l'autorité compétente prend toutes les dispositions utiles pour assurer ce
+retour ou cette élimination. Les dépenses correspondantes sont mises à la charge
 de l'importateur ;
 
-4° Enjoindre au fabricant des substances, des mélanges ou d'articles fabriqués
-en méconnaissance des titres II, III et IV du règlement (CE) n° 1272/2008 et des
-titres II, VII et VIII du règlement (CE) n° 1907 / 2006 d'assurer leur
-élimination dans les conditions prévues au titre IV du présent livre. En cas
-d'inexécution, l'autorité compétente prend toutes les dispositions utiles pour
-assurer cette élimination. Les dépenses correspondantes sont mises à la charge
-du fabricant ;
+4° Enjoindre au fabricant des substances, mélanges, articles, produits ou
+équipements fabriqués en méconnaissance du règlement (CE) n° 1005/2009, des
+titres II, III et IV du règlement (CE) n° 1272/2008 et des titres II, VII et
+VIII du règlement (CE) n° 1907/2006 d'assurer leur élimination dans les
+conditions prévues au titre IV du présent livre. En cas d'inexécution,
+l'autorité compétente prend toutes les dispositions utiles pour assurer cette
+élimination. Les dépenses correspondantes sont mises à la charge du fabricant ;
 
 5° Obliger :
 
 -le fabricant, ou importateur, à consigner entre les mains d'un comptable public
 une somme correspondant au montant de l'établissement des données, tests et
-études à réaliser avant une date qu'elle détermine pour enregistrer une
-substance telle que ou contenue dans un mélange ou destinée à être rejetée d'un
-article dans des conditions normales ou raisonnablement prévisibles
-d'utilisation ;
+études à réaliser avant une date qu'elle détermine pour procéder à
+l'enregistrement ou pour compléter un dossier d'enregistrement d'une substance
+telle que ou contenue dans un mélange ou destinée à être rejetée d'un article
+dans des conditions normales ou raisonnablement prévisibles d'utilisation ;
 
 -l'utilisateur en aval à consigner entre les mains d'un comptable public une
 somme correspondant au montant de l'établissement des données, tests et études à

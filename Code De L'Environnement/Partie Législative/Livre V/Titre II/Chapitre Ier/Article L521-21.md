@@ -4,10 +4,10 @@ I.-Est puni de deux ans d'emprisonnement et de 75 000 euros d'amende le fait de
 :
 
 1° Fournir sciemment des renseignements inexacts susceptibles d'entraîner pour
-la substance considérée ou les mélanges la contenant, ou pour les produits
-manufacturés ou équipements les contenant, des prescriptions moins
-contraignantes que celles auxquelles ils auraient normalement dû être soumis, ou
-de dissimuler des renseignements connus ;
+les substances considérées ou les mélanges, articles, produits ou équipements
+les contenant, des prescriptions moins contraignantes que celles auxquelles ils
+auraient normalement dû être soumis, ou de dissimuler des renseignements connus
+;
 
 2° Ne pas respecter les mesures d'interdiction ou les prescriptions édictées en
 application de l'article L. 521-6 ;
@@ -25,12 +25,16 @@ II du règlement (CE) n° 1907 / 2006 ;
 d'un numéro d'enregistrement de substance par fausse déclaration ou par tout
 autre moyen frauduleux ;
 
-6° Fabriquer, importer ou utiliser, sans la décision d'autorisation
-correspondante, une substance, telle quelle ou contenue dans un mélange ou un
-article, en méconnaissance du titre VII du règlement (CE) n° 1907 / 2006 ;
-
-7° Ne pas respecter les mesures de restriction édictées au titre VIII du
+6° Fabriquer, importer, détenir en vue de la vente ou la distribution à titre
+gratuit, mettre en vente, vendre, distribuer à titre gratuit ou utiliser, sans
+la décision d'autorisation correspondante, une substance, telle quelle ou
+contenue dans un mélange ou un article, en méconnaissance du titre VII du
 règlement (CE) n° 1907 / 2006 ;
+
+7° Fabriquer, importer, détenir en vue de la vente ou la distribution à titre
+gratuit, mettre en vente, vendre, distribuer à titre gratuit ou utiliser des
+substances, mélanges ou articles en méconnaissance des restrictions édictées au
+titre VIII du règlement (CE) n° 1907/2006 ;
 
 8° Pour un utilisateur en aval, ne pas avoir communiqué à l'Agence européenne
 des produits chimiques les informations prévues à l'article 38 du règlement (CE)
@@ -40,15 +44,16 @@ n° 1907 / 2006 dans les conditions prévues à cet article ;
 application des règlements (CE) n° 1005 / 2009, (CE) n° 689 / 2008, (CE) n° 850
 / 2004 et (CE) n° 842 / 2006 ;
 
-10° Pour un fabricant, importateur ou utilisateur en aval, mettre sur le marché
-une substance ou un mélange sans classification préalable, conformément aux
-exigences prévues à l'article 4, paragraphes 1 et 3 du règlement (CE) n° 1272 /
-2008 ;
+10° Importer, détenir en vue de la vente ou la distribution à titre gratuit,
+mettre en vente, vendre ou distribuer à titre gratuit une substance ou un
+mélange sans classification préalable, conformément aux exigences prévues à
+l'article 4, paragraphes 1 et 3 du règlement (CE) n° 1272 / 2008 ;
 
-11° Pour un fournisseur, mettre sur le marché une substance ou un mélange classé
-comme dangereux sans étiquetage et emballage préalable, conformément aux
-exigences prévues à l'article 4, paragraphe 4, et à l'article 29, paragraphe 3,
-du règlement (CE) n° 1272 / 2008.
+11° Importer, détenir en vue de la vente ou la distribution à titre gratuit,
+mettre en vente, vendre ou distribuer à titre gratuit une substance ou un
+mélange classé comme dangereux sans étiquetage et emballage préalable,
+conformément aux exigences prévues à l'article 4, paragraphe 4, et à l'article
+29, paragraphe 3, du règlement (CE) n° 1272 / 2008.
 
 II.-Est puni de trois mois d'emprisonnement et de 20 000 € d'amende le fait de :
 
@@ -76,8 +81,8 @@ cause ;
 conditions prévues à l'article 131-35 du code pénal.
 
 IV.-Lorsque la confiscation est prononcée, le tribunal peut ordonner que la
-destruction des substances ou mélanges soit à la charge de la personne
-condamnée.
+destruction des substances, mélanges, articles, produits ou équipements soit à
+la charge de la personne condamnée.
 
 V.-Les personnes morales déclarées responsables pénalement, dans les conditions
 prévues par l'article 121-2 du code pénal, des infractions définies au présent

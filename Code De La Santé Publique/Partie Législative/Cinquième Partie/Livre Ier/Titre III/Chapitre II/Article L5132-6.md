@@ -2,8 +2,8 @@ Article L5132-6
 ----
 Les listes I et II mentionnées au 4° de l'article L. 5132-1 comprennent :
 
-1° Les substances dangereuses mentionnées au 1° de l'article L. 5132-1 qui
-présentent pour la santé des risques directs ou indirects ;
+1° Certaines substances classées dangereuses pour la santé conformément à
+l'article L. 1342-2 ;
 
 2° Les médicaments susceptibles de présenter directement ou indirectement un
 danger pour la santé ;

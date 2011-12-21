@@ -19,11 +19,15 @@ biocides la contenant, des prescriptions moins contraignantes que celles
 auxquelles ils auraient normalement dû être soumis, ou de dissimuler des
 renseignements connus de l'entreprise ;
 
-5° Vendre sciemment à un public non professionnel un produit biocide en
-méconnaissance des dispositions du II de l'article L. 522-9 ;
+5° Détenir en vue de la vente ou de la distribution à titre gratuit, mettre en
+vente, vendre ou distribuer à titre gratuit sciemment à un public non
+professionnel un produit biocide en méconnaissance des dispositions du II de
+l'article L. 522-9 ;
 
-6° Vendre un produit biocide sans respecter les mesures de limitation ou
-d'interdiction prévues au III de l'article L. 522-9.
+6° Détenir en vue de la vente ou de la distribution à titre gratuit, mettre en
+vente, vendre ou distribuer à titre gratuit un produit biocide sans respecter
+les mesures de limitation ou d'interdiction prévues au III de l'article L.
+522-9.
 
 II.-Est puni de six mois d'emprisonnement et de 7 500 Euros d'amende le fait :
 
