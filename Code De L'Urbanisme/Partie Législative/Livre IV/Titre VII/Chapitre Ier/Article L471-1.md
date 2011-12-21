@@ -7,3 +7,6 @@ bâtir ou de ne pas dépasser une certaine hauteur en construisant, ces
 servitudes, dites "de cours communes", peuvent, à défaut d'accord amiable entre
 les propriétaires intéressés, être imposées par la voie judiciaire dans des
 conditions définies par décret.
+
+Les mêmes servitudes peuvent être instituées en l'absence de document
+d'urbanisme ou de mention explicite dans le document d'urbanisme applicable.
