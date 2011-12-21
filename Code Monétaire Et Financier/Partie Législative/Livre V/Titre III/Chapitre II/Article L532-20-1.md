@@ -6,16 +6,14 @@ aux sociétés de gestion établies dans un autre Etat membre de l'Union europé
 ou partie à l'accord sur l'Espace économique européen qui gèrent un ou plusieurs
 organismes de placement collectif en valeurs mobilières de droit français agréés
 conformément à la directive 2009/65/ CE du Parlement européen et du Conseil du
-13 juillet 2009.
-
-Les dispositions de la sous-section 1 du chapitre IV du titre Ier du livre II
-sont applicables aux sociétés de gestion établies dans un autre Etat membre de
-l'Union européenne ou partie à l'accord sur l'Espace économique européen qui
-gèrent en libre prestation de services un ou plusieurs organismes de placement
-collectif en valeurs mobilières de droit français agréés conformément à la
-directive 2009/65/ CE du Parlement européen et du Conseil du 13 juillet 2009 sur
-le territoire de la France métropolitaine et des départements d'outre-mer, de
-Saint-Barthélemy et de Saint-Martin.
+13 juillet 2009. Les dispositions de la sous-section 1 du chapitre IV du titre
+Ier du livre II sont applicables aux sociétés de gestion établies dans un autre
+Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique
+européen qui gèrent en libre prestation de services un ou plusieurs organismes
+de placement collectif en valeurs mobilières de droit français agréés
+conformément à la directive 2009/65/ CE du Parlement européen et du Conseil du
+13 juillet 2009 sur le territoire de la France métropolitaine , des départements
+d'outre-mer et de Saint-Martin.
 
 Les dispositions de la sous-section 1 du chapitre IV du titre Ier du livre II et
 des articles L. 533-1, L. 533-11, L. 533-12, L. 533-13-1, L. 533-16, L. 533-18,
@@ -24,5 +22,5 @@ L. 533-21, L. 533-22 et L. 533-23 sont applicables aux sociétés de gestion
 sur l'Espace économique européen qui établissent des succursales pour gérer un
 ou plusieurs organismes de placement collectif en valeurs mobilières de droit
 français agréés conformément à la directive 2009/65/ CE du Parlement européen et
-du Conseil du 13 juillet 2009 sur le territoire de la France métropolitaine et
-des départements d'outre-mer, de Saint-Barthélemy et de Saint-Martin.
+du Conseil du 13 juillet 2009 sur le territoire de la France métropolitaine, des
+départements d'outre-mer et de Saint-Martin.

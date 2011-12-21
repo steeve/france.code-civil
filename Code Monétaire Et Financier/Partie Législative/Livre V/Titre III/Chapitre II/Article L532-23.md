@@ -1,12 +1,11 @@
 Article L532-23
 ----
 Tout prestataire de services d'investissement ayant son siège social sur le
-territoire de la France métropolitaine et des départements d'outre mer de
-Saint-Barthélemy et de Saint-Martin et autorisé à fournir des services
-d'investissement en application de l'article L. 532-1 qui veut établir une
-succursale dans un autre Etat membre notifie son projet à l'Autorité de contrôle
-prudentiel et à l'Autorité des marchés financiers selon des règles fixées par
-décret en Conseil d'Etat.
+territoire de la France métropolitaine, des départements d'outre-mer et de
+Saint-Martin et autorisé à fournir des services d'investissement en application
+de l'article L. 532-1 qui veut établir une succursale dans un autre Etat membre
+notifie son projet à l'Autorité de contrôle prudentiel et à l'Autorité des
+marchés financiers selon des règles fixées par décret en Conseil d'Etat.
 
 Ce projet ainsi que les informations prévues à l'article L. 533-23 assurant la
 protection des clients de la succursale sont transmis, dans les trois mois de

@@ -21,8 +21,7 @@ placement collectif en valeurs mobilières agréés conformément à la directiv
 2009/65/CE du Parlement européen et du Conseil du 13 juillet 2009, aux marchés
 réglementés ou aux entreprises de marché sont susceptibles d'avoir été commis
 sur le territoire de la France métropolitaine ou des départements d'outre-mer ou
-de Saint-Barthélemy ou de Saint-Martin par une entité non soumise à la
-surveillance de cette autorité, elle prend les mesures appropriées. Elle
-communique les résultats de son intervention à l'autorité compétente qui l'a
-informée et, dans la mesure du possible, lui communique les éléments importants
-intervenus dans l'intervalle.
+de Saint-Martin par une entité non soumise à la surveillance de cette autorité,
+elle prend les mesures appropriées. Elle communique les résultats de son
+intervention à l'autorité compétente qui l'a informée et, dans la mesure du
+possible, lui communique les éléments importants intervenus dans l'intervalle.
