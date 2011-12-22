@@ -7,8 +7,10 @@ morale ; 3° Liste des personnes appelées à réaliser effectivement les
 expertises, avec toutes indications permettant d'apprécier, pour chacune
 d'elles, sa qualification et son expérience dans le ou les domaines de
 l'agrément sollicité ; 4° Note détaillée exposant les principales méthodes
-d'intervention mises en œuvre ; 5° Le cas échéant, spécialité dont se réclame la
-personne physique ou morale afin qu'il en soit fait mention dans l'arrêté
-d'agrément ; 6° Tarifs applicables aux expertises réalisées dans le cadre de
-l'agrément prévu par l'article L. 4614-12 ; 7° En cas de demande de
-renouvellement, bilan d'activité précisant notamment les expertises réalisées.
+d'intervention mises en œuvre ; 5° Déclaration des activités autres que les
+expertises mentionnées à l'article L. 4614-12 ; 6° Tarifs applicables aux
+expertises réalisées dans le cadre de l'agrément prévu par l'article L. 4614-12.
+
+Si le dossier est incomplet, le ministre en informe le demandeur et l'invite à
+produire les pièces ou informations manquantes, dans un délai qu'il fixe, et qui
+ne peut être inférieur à huit jours.
