@@ -23,7 +23,7 @@ cas échéant, de celles de l'aire de stationnement ;
 pour la réception des passagers et du public, ainsi que, le cas échéant, aux
 services complémentaires, tels que la mise à disposition de comptoirs
 d'enregistrement et d'embarquement, ainsi que des installations de tri des
-bagages.L'assiette de cette redevance est le nombre de passagers embarqués. Sur
+bagages. L'assiette de cette redevance est le nombre de passagers embarqués. Sur
 un même aérodrome, le tarif applicable à une même catégorie de passagers est
 identique pour toutes les aérogares. Toutefois, pour les aérogares mises en
 service après le 1er août 2005, des tarifs différenciés pourront être fixés en
@@ -53,5 +53,5 @@ comptabilité de leurs services permettant d'identifier les coûts relatifs à
 chacune des catégories de redevances mentionnées au présent article.
 
 Les autres conditions d'établissement et de perception des redevances sont
-précisées, en tant que de besoin, par arrêté conjoint des ministres chargés de
-l'aviation civile et de l'économie.
+précisées, en tant que de besoin, par arrêté du ministre chargé de l'aviation
+civile .

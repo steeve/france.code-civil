@@ -6,30 +6,31 @@ L'amplitude et, le cas échéant, la durée d'application de ces modulations son
 proportionnées à l'objectif d'intérêt général auquel elles répondent. Ces
 modulations peuvent viser :
 
-- à réduire ou à compenser les atteintes à l'environnement ; dans ce cas, la
+-à réduire ou à compenser les atteintes à l'environnement ; dans ce cas, la
 redevance d'atterrissage peut faire l'objet d'une modulation en fonction de la
-période de la journée et de la performance des aéronefs en matière acoustique ou
-d'émissions gazeuses ;
+période de la journée, du jour de la semaine et de la performance des aéronefs
+en matière acoustique ou d'émissions gazeuses ;
 
-- à améliorer l'utilisation des infrastructures ; dans ce cas, les redevances
+-à améliorer l'utilisation des infrastructures ; dans ce cas, les redevances
 peuvent faire l'objet de modulations temporaires en fonction de la période de la
 journée, de la semaine ou de l'année où le service est rendu, des catégories de
 trafic, des caractéristiques d'utilisation des infrastructures et installations
 ou de la situation de celles-ci ; les redevances peuvent également faire l'objet
 d'une réduction temporaire pour les exploitants d'aéronefs dont le volume ou
-l'évolution de tout ou partie du trafic dépassent certains seuils ou font
-l'objet d'un engagement contractuel de leur part ;
+l'évolution de tout ou partie du trafic avec prise en compte éventuelle de la
+capacité offerte dépassent certains seuils ou font l'objet d'un engagement
+contractuel de leur part ;
 
-- à favoriser la création de nouvelles liaisons ; dans ce cas, les redevances
+-à favoriser la création de nouvelles liaisons ; dans ce cas, les redevances
 peuvent faire l'objet d'une réduction temporaire pour des transporteurs aériens
 qui exploitent de nouvelles liaisons au départ de l'aérodrome et dont les zones
 de chalandise au départ et à l'arrivée ne coïncident pas avec celles d'une autre
 ligne aérienne existante ;
 
-- à répondre à des impératifs de continuité et d'aménagement du territoire ;
-dans ce cas, les tarifs des redevances peuvent faire l'objet d'une réduction
-pour les liaisons avec les départements et les collectivités d'outre-mer ainsi
-que pour les liaisons assujetties à des obligations de service public au sens du
+-à répondre à des impératifs de continuité et d'aménagement du territoire ; dans
+ce cas, les tarifs des redevances peuvent faire l'objet d'une réduction pour les
+liaisons avec les départements et les collectivités d'outre-mer ainsi que pour
+les liaisons assujetties à des obligations de service public au sens du
 règlement (CEE) n° 2408/92 du Conseil du 23 juillet 1992 concernant l'accès des
 transporteurs aériens communautaires aux liaisons aériennes intracommunautaires.
 

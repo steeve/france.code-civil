@@ -12,3 +12,6 @@ celle d'un service de transport aérien.
 
 Ces services ne peuvent donner lieu à la perception d'autres sommes, sous
 quelque forme que ce soit.
+
+Le ministre chargé de l'aviation civile est l'autorité administrative mentionnée
+au dernier alinéa de l'article L. 6325-1 du code des transports.
