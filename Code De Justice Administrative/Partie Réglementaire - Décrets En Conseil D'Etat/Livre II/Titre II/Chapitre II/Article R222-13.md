@@ -3,7 +3,7 @@ Article R222-13
 Le président du tribunal administratif ou le magistrat qu'il désigne à cette fin
 et ayant atteint au moins le grade de premier conseiller ou ayant une ancienneté
 minimale de deux ans statue en audience publique et après audition du rapporteur
-public :
+public, sous réserve de l'application de l'article R. 732-1-1 :
 
 1° Sur les litiges relatifs aux déclarations préalables prévues par l'article L.
 421-4 du code de l'urbanisme ;

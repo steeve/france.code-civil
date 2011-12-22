@@ -14,6 +14,9 @@ les parties, leurs mandataires ou défenseurs ainsi que toute personne entendue
 sur décision du président en vertu du deuxième alinéa de l'article R. 731-3 ont
 été entendus.
 
+Lorsque, en application de l'article R. 732-1-1, le rapporteur public a été
+dispensé de prononcer des conclusions, mention en est faite.
+
 Mention est également faite de la production d'une note en délibéré.
 
 La décision fait apparaître la date de l'audience et la date à laquelle elle a

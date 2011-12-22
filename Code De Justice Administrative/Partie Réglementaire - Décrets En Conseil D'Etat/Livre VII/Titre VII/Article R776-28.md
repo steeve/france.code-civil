@@ -1,6 +1,5 @@
 Article R776-28
 ----
-L'appel est formé devant le président de la cour administrative d'appel.
-
-La décision est rendue par le président de la cour ou le magistrat qu'il désigne
-à cette fin parmi les membres de la juridiction.
+Devant la cour administrative d'appel, le président de la formation de jugement
+peut dispenser le rapporteur public, sur sa proposition, de prononcer des
+conclusions à l'audience.
