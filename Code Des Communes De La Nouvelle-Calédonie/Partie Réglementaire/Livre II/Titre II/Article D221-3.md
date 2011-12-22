@@ -30,20 +30,23 @@ catégorie de biens par l'assemblée délibérante, qui peut se référer à un 
 fixé par arrêté du ministre chargé des collectivités locales et du ministre
 chargé du budget, à l'exception toutefois :
 
-― des frais d'étude et des frais d'insertion non suivis de réalisation qui sont
+- des frais d'étude et des frais d'insertion non suivis de réalisation qui sont
 amortis sur une durée maximale de cinq ans ;
 
-― des frais de recherche et de développement qui sont amortis sur une durée
+- des frais de recherche et de développement qui sont amortis sur une durée
 maximale de cinq ans ;
 
-― des brevets qui sont amortis sur la durée du privilège dont ils bénéficient ou
+- des brevets qui sont amortis sur la durée du privilège dont ils bénéficient ou
 sur leur durée effective d'utilisation si elle est plus brève ;
 
-― des subventions d'équipement versées qui sont amorties sur une durée maximale
-de cinq ans lorsque le bénéficiaire est une personne de droit privé, ou de
-quinze ans lorsque le bénéficiaire est un organisme public ;
+- des subventions d'équipement versées, qui sont amorties sur une durée maximale
+de cinq ans lorsque la subvention finance des biens mobiliers, du matériel ou
+des études, de quinze ans lorsqu'elle finance des biens immobiliers ou des
+installations et de trente ans lorsqu'elle finance des projets d'infrastructure
+d'intérêt national ; les aides à l'investissement des entreprises ne relevant
+d'aucune de ces catégories sont amorties sur une durée maximale de cinq ans ;
 
-― des subventions d'équipement versées dans le cadre de programme de logements
+- des subventions d'équipement versées dans le cadre de programme de logements
 sociaux ou de financement d'équipements publics annexes qui sont amortis sur une
 durée maximum de quinze ans lorsque le bénéficiaire est un organisme
 d'aménagement ou de construction.
