@@ -14,8 +14,8 @@ et qui ont été réalisés au cours du mois ou du trimestre civil précédent, 
 montant de ses cotisations et contributions sociales correspondantes et, le cas
 échéant, le montant de l'impôt sur le revenu dû au titre de cette période.
 
-Il est transmis, daté et signé, accompagné du règlement des sommes dues, au plus
-tard :
+Il est transmis, daté et signé, accompagné, le cas échéant du règlement des
+sommes dues, au plus tard :
 
 a) Pour les travailleurs indépendants ayant opté pour le versement mensuel, le
 dernier jour du mois qui suit l'échéance mensuelle précédente ;
@@ -28,4 +28,5 @@ conditions prévues à l'article L. 133-5. Le paiement correspondant peut aussi
 être effectué sous forme dématérialisée.
 
 En l'absence de chiffre d'affaires ou de recettes, le travailleur indépendant
-n'est pas tenu de transmettre le formulaire.
+souscrit la déclaration dans les mêmes conditions en y portant la mention
+"néant" en lieu et place du montant du chiffre d'affaires ou de recettes.
