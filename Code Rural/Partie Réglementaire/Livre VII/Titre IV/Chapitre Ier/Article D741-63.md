@@ -5,5 +5,5 @@ employeurs doivent en formuler la demande dans le délai imparti à la déclarat
 préalable à l'embauche prévue à l'article R. 1221-5 du code du travail. Les
 employeurs de salariés embauchés sous contrat de travail à durée indéterminée
 doivent en outre renouveler cette demande annuellement, dès la deuxième année
-civile d'emploi, dans le délai imparti à la déclaration prévue à l'article R.
+civile d'emploi, dans le délai imparti aux déclarations prévues à l'article R.
 741-2 au titre de l'activité du premier trimestre civil de l'année considérée.
