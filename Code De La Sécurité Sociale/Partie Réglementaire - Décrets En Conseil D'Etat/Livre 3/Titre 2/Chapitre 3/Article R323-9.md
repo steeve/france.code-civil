@@ -1,9 +1,8 @@
 Article R323-9
 ----
 En aucun cas l'indemnité journalière servie à un assuré social ne peut être
-supérieure au sept cent trentième du montant annuel du plafond des rémunérations
-ou gains retenu pour le calcul de la fraction de cotisation prévue à
-l'avant-dernier alinéa de l'article R. 323-4. Pour les assurés ayant trois
-enfants ou plus à charge au sens de l'article L. 313-3, l'indemnité servie à
-partir du trente et unième jour qui suit le point de départ de l'incapacité de
-travail ne peut dépasser 1/547, 5 de ce plafond.
+supérieure au sept cent trentième du montant annuel du plafond mentionné au
+septième alinéa de l'article R. 323-4. Pour les assurés ayant trois enfants ou
+plus à charge au sens de l'article L. 313-3, l'indemnité servie à partir du
+trente et unième jour qui suit le point de départ de l'incapacité de travail ne
+peut dépasser 1/547, 5 de ce plafond.
