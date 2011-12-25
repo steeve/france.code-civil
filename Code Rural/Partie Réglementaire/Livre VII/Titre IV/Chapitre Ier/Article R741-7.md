@@ -1,12 +1,12 @@
 Article R741-7
 ----
-Par dérogation aux dispositions du deuxième alinéa de l'article R. 741-6,
-l'employeur occupant neuf salariés au plus peut opter pour le paiement mensuel
-des cotisations mentionnées à l'article R. 741-3 dans les conditions fixées par
-cet article pour les employeurs occupant plus de neuf et moins de cinquante
-salariés. Il en avise par lettre, avant le 31 janvier, la caisse de mutualité
-sociale agricole dans la circonscription de laquelle travaillent les salariés
-qu'il emploie.
+Par dérogation aux dispositions des deuxième et quatrième alinéas de l'article
+R. 741-6, l'employeur occupant neuf salariés au plus peut opter pour le paiement
+mensuel des cotisations mentionnées à l'article R. 741-3 dans les conditions
+fixées par cet article pour les employeurs occupant plus de neuf et moins de
+cinquante salariés. Il en avise par lettre, avant le 31 janvier, la caisse de
+mutualité sociale agricole dans la circonscription de laquelle travaillent les
+salariés qu'il emploie.
 
 Le recouvrement mensuel des cotisations devient effectif à compter des
 rémunérations versées au titre du mois d'avril.

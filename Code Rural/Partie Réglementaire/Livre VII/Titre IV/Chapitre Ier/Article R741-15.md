@@ -26,3 +26,9 @@ déclaration reproduisant, pour chacun des salariés ou assimilés occupés sur
 l'exploitation ou dans l'entreprise ou établissement, les renseignements
 relatifs aux rémunérations payées, tels qu'ils ont été fournis en application de
 l'article 87 du code général des impôts.
+
+Les employeurs qui ont exercé l'option prévue à l'article R. 741-1-2 procèdent
+eux-mêmes aux régularisations prévues au présent article, qu'ils déclarent par
+voie électronique dans le délai prévu à l'article R. 741-2. Les compléments de
+cotisations dus par l'employeur doivent être versés dans les délais prévus à
+l'article R. 741-6.

@@ -14,3 +14,17 @@ plus ainsi que des cotisations autres que celles mentionnées à l'article R.
 premiers jours du trimestre civil suivant celui au titre duquel ces cotisations
 sont dues. Ces dernières doivent être versées dans les quinze premiers jours du
 mois civil suivant la date de mise en recouvrement.
+
+Les employeurs qui ont exercé l'option prévue à l'article R. 741-1-2 procèdent,
+en établissant leur déclaration de données sociales, à la régularisation des
+cotisations versées en application de l'article R. 741-3 au titre des trois mois
+précédents. Le solde éventuellement dû par ces employeurs doit être versé dans
+les quinze premiers jours du mois civil suivant la date limite de transmission
+de la déclaration de données sociales.
+
+Les cotisations dues par les employeurs occupant neuf salariés au plus qui ont
+exercé l'option prévue à l'article R. 741-1-2, ainsi que les cotisations autres
+que celles mentionnées à l'article R. 741-3 dues par les employeurs occupant
+plus de neuf salariés qui ont exercé la même option doivent être versées dans
+les quinze premiers jours du mois civil suivant la date limite de transmission
+de la déclaration de données sociales.

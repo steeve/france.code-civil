@@ -2,12 +2,13 @@ Article R741-8
 ----
 Pour l'application de l'article L. 741-28, la demande relative au report de
 paiement des cotisations salariales et patronales doit être effectuée par écrit
-avant la date de retour du bordereau mentionné à l'article R. 741-2 qui comporte
-les éléments relatifs à la première rémunération des personnes mentionnées à
-l'article L. 741-28. Les cotisations ayant fait l'objet d'un report sont
-exigibles à la date de paiement définie au second alinéa de l'article R. 741-6
-et se rapportant aux cotisations afférentes aux rémunérations perçues à compter
-du treizième mois d'activité de l'exploitation ou de l'entreprise agricole.
+avant la date de retour du bordereau ou de transmission de la déclaration de
+données sociales mentionnés à l'article R. 741-2 qui comportent les éléments
+relatifs à la première rémunération des personnes mentionnées à l'article L.
+741-28. Les cotisations ayant fait l'objet d'un report sont exigibles aux dates
+de paiement définies à l'article R. 741-6 et se rapportant aux cotisations
+afférentes aux rémunérations perçues à compter du treizième mois d'activité de
+l'exploitation ou de l'entreprise agricole.
 
 La demande de paiement fractionné doit être présentée par écrit avant la fin du
 douzième mois d'activité de l'exploitation ou de l'entreprise agricole. Dans

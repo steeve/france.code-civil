@@ -33,8 +33,9 @@ L'employeur soumis à l'obligation du paiement trimestriel des cotisations prév
 à l'article R. 741-6 doit présenter une demande de paiement partiellement
 différé des cotisations patronales de sécurité sociale par écrit auprès de la
 caisse de mutualité sociale agricole dont il relève, au plus tard à la date de
-retour du bordereau mentionné à l'article R. 741-2 afférent au trimestre
-d'activité au titre duquel le différé de paiement est sollicité.
+retour du bordereau ou de transmission de la déclaration de données sociales
+mentionnés à l'article R. 741-2 afférents au trimestre d'activité au titre
+duquel le différé de paiement est sollicité.
 
 Dans tous les cas, l'employeur doit fournir, dans les douze mois suivant la
 clôture de l'exercice pour lequel la réduction d'impôt dont bénéficie

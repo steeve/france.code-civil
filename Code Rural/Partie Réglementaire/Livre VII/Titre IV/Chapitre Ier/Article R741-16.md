@@ -8,5 +8,11 @@ dater de l'embauche, si elle est postérieure, et en calculant les cotisations
 sur la partie de cette masse qui n'excède pas la somme des plafonds périodiques
 applicables lors du versement des rémunérations.
 
-Dans ce cas, les employeurs ne sont pas tenus de produire la déclaration
-mentionnée au dernier alinéa de l'article R. 741-15.
+Les employeurs qui ont exercé l'option prévue à l'article R. 741-1-2 peuvent
+procéder, selon les modalités prévues à l'alinéa précédent, à la régularisation
+progressive des cotisations d'une paie à l'autre à l'occasion de l'établissement
+de leur déclaration de données sociales.
+
+En cas de régularisation progressive, les employeurs ne sont pas tenus de
+produire les déclarations mentionnées aux troisième et quatrième alinéas de
+l'article R. 741-15.
