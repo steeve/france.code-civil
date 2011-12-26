@@ -13,3 +13,5 @@ Les voitures sont soumises à un contrôle périodique dans les conditions prév
 
 Elles doivent être munies d'une signalétique distinctive définie par arrêté
 conjoint du ministre chargé du tourisme et du ministre chargé de l'intérieur.
+Cette signalétique doit être retirée ou occultée si le véhicule est utilisé pour
+une autre activité que celle de voiture de tourisme avec chauffeur.
