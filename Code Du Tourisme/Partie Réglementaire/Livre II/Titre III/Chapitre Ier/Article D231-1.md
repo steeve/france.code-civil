@@ -6,7 +6,8 @@ et neuf au plus, y compris celle du chauffeur.
 Elles doivent être âgées de moins de six ans, sauf s'il s'agit de véhicules de
 collection, et offrir aux passagers les conditions de confort et les
 aménagements intérieurs correspondant aux besoins de la clientèle fixés par
-arrêté du ministre chargé du tourisme.
+arrêté du ministre chargé du tourisme. Leur moteur doit avoir une puissance
+minimum fixée par arrêté du ministre chargé du tourisme.
 
 Les voitures sont soumises à un contrôle périodique dans les conditions prévues
 à l'article R. 323-24 du code de la route.
