@@ -35,7 +35,8 @@ prioritaires fixés chaque année par le Premier ministre après avis du Conseil
 national des villes.
 
 La population à prendre en compte pour l'application du présent article est
-celle définie à l'article L. 2334-2.
+celle définie à l'article L. 2334-2. Elle est calculée l'année précédant celle
+au titre de laquelle est répartie la dotation de développement urbain.
 
 Les modalités d'application du présent article sont fixées par décret en Conseil
 d'Etat.

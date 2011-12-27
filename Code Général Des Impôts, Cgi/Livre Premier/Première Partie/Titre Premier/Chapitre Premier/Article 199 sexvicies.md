@@ -38,6 +38,16 @@ de ces travaux.
 Le taux de la réduction d'impôt est de 25 % pour les logements acquis en 2009 et
 en 2010, et de 18 % pour les logements acquis à compter de l'année 2011.
 
+Toutefois, pour les logements acquis en 2012, le taux de la réduction d'impôt
+est de 14 %. Ces dispositions ne s'appliquent pas aux acquisitions pour
+lesquelles le contribuable justifie qu'il a pris, au plus tard le 31 décembre
+2011, l'engagement de réaliser un investissement immobilier. Dans ce cas, la
+réduction d'impôt s'applique au taux en vigueur au 31 décembre 2011 pour les
+logements acquis en 2011. A titre transitoire, l'engagement de réaliser un
+investissement immobilier peut prendre la forme d'une réservation, à condition
+qu'elle soit enregistrée chez un notaire ou au service des impôts avant le 31
+décembre 2011 et que l'acte authentique soit passé au plus tard le 31 mars 2012.
+
 Lorsque le logement est détenu en indivision, chaque indivisaire bénéficie de la
 réduction d'impôt dans la limite de la quote-part du prix de revient, majoré le
 cas échéant des dépenses de travaux de réhabilitation, correspondant à ses

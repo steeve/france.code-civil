@@ -12,6 +12,10 @@ leur responsabilité civile ou administrative susceptible d'être engagée en
 raison de dommages subis par des tiers et résultant d'atteintes à la personne,
 survenant dans le cadre de l'ensemble de cette activité.
 
+Les professionnels de santé exerçant à titre libéral sont également tenus au
+paiement de la contribution mentionnée à l'article L. 426-1 du code des
+assurances.
+
 Une dérogation à l'obligation d'assurance prévue au premier alinéa peut être
 accordée par arrêté du ministre chargé de la santé aux établissements publics de
 santé disposant des ressources financières leur permettant d'indemniser les
@@ -21,7 +25,8 @@ contrat d'assurance.
 Les contrats d'assurance souscrits en application du premier alinéa peuvent
 prévoir des plafonds de garantie. Les conditions dans lesquelles le montant de
 la garantie peut être plafonné pour les professionnels de santé exerçant à titre
-libéral sont fixées par décret en Conseil d'Etat.
+libéral, notamment le montant minimal de ce plafond, sont fixées par décret en
+Conseil d'Etat.
 
 L'assurance des professionnels de santé, des établissements, services et
 organismes mentionnés au premier alinéa couvre leurs salariés agissant dans la

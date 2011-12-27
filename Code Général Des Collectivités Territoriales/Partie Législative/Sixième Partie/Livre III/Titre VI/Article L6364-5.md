@@ -17,12 +17,10 @@ En 2009, le montant alloué à la collectivité de Saint-Martin est équivalent 
 celui de 2008.
 
 En 2010, le taux retenu pour l'indexation de la dotation revenant à la
-collectivité territoriale de Saint-Martin est de 1,2 %. En 2011, le montant
-alloué à la collectivité territoriale de Saint-Martin est équivalent à celui de
-2010. A compter de 2012, le montant de la dotation globale de construction et
-d'équipement scolaire évolue selon le taux de croissance de la formation brute
-de capital fixe des administrations publiques associé au projet de loi de
-finances relatif à l'année de versement.
+collectivité territoriale de Saint-Martin est de 1,2 %.
+
+A compter de 2011, le montant alloué à la collectivité territoriale de
+Saint-Martin est équivalent à celui de 2010.
 
 La dotation globale de construction et d'équipement scolaire est versée en une
 seule fois à la fin du troisième trimestre de l'année en cours.

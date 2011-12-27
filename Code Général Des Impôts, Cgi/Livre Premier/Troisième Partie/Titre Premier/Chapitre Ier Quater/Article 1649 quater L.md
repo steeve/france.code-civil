@@ -30,8 +30,8 @@ les autres documents les accompagnant. Ils doivent recevoir mandat pour
 transmettre les informations correspondant à leurs obligations déclaratives,
 selon des modalités définies par arrêté ministériel ;
 
-4° à fournir annuellement à leurs clients ou adhérents commerçants ou artisans
-un dossier de gestion ;
+4° à fournir annuellement à leurs clients ou adhérents commerçants, agriculteurs
+ou artisans un dossier de gestion ;
 
 5° à fournir annuellement à leurs clients ou adhérents un dossier d'analyse
 économique en matière de prévention des difficultés économiques et financières ;

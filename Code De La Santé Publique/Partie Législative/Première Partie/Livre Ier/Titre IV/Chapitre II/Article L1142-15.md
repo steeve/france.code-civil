@@ -2,8 +2,8 @@ Article L1142-15
 ----
 En cas de silence ou de refus explicite de la part de l'assureur de faire une
 offre, ou lorsque le responsable des dommages n'est pas assuré ou la couverture
-d'assurance prévue à l'article L. 1142-2 est épuisée, l'office institué à
-l'article L. 1142-22 est substitué à l'assureur.
+d'assurance prévue à l'article L. 1142-2 est épuisée ou expirée, l'office
+institué à l'article L. 1142-22 est substitué à l'assureur.
 
 Dans ce cas, les dispositions de l'article L. 1142-14, relatives notamment à
 l'offre d'indemnisation et au paiement des indemnités, s'appliquent à l'office,
@@ -11,14 +11,13 @@ selon des modalités déterminées par décret en Conseil d'Etat.
 
 L'acceptation de l'offre de l'office vaut transaction au sens de l'article 2044
 du code civil. La transaction est portée à la connaissance du responsable et, le
-cas échéant, de son assureur.
+cas échéant, de son assureur ou du fonds institué à l'article L. 426-1 du code
+des assurances.
 
-Sauf dans le cas où le délai de validité de la couverture d'assurance garantie
-par les dispositions du cinquième alinéa de l'article L. 251-2 du code des
-assurances est expiré, l'office est subrogé, à concurrence des sommes versées,
-dans les droits de la victime contre la personne responsable du dommage ou, le
-cas échéant, son assureur. Il peut en outre obtenir remboursement des frais
-d'expertise.
+L'office est subrogé, à concurrence des sommes versées, dans les droits de la
+victime contre la personne responsable du dommage ou, le cas échéant, son
+assureur ou le fonds institué à l'article L. 426-1 du même code. Il peut en
+outre obtenir remboursement des frais d'expertise.
 
 En cas de silence ou de refus explicite de la part de l'assureur de faire une
 offre, ou lorsque le responsable des dommages n'est pas assuré, le juge, saisi
@@ -28,7 +27,8 @@ qu'il alloue.
 
 Lorsque l'office transige avec la victime, ou ses ayants droit, en application
 du présent article, cette transaction est opposable à l'assureur ou, le cas
-échéant, au responsable des dommages sauf le droit pour ceux-ci de contester
-devant le juge le principe de la responsabilité ou le montant des sommes
-réclamées. Quelle que soit la décision du juge, le montant des indemnités
-allouées à la victime lui reste acquis.
+échéant, au fonds institué au même article L. 426-1 du code des assurances ou au
+responsable des dommages sauf le droit pour ceux-ci de contester devant le juge
+le principe de la responsabilité ou le montant des sommes réclamées. Quelle que
+soit la décision du juge, le montant des indemnités allouées à la victime lui
+reste acquis.

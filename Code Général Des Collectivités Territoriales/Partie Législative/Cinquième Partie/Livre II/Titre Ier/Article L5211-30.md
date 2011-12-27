@@ -45,125 +45,135 @@ coopération intercommunale.
 La majoration prévue au onzième alinéa de l'article L. 5211-29 est affectée aux
 communautés de communes visées à l'article L. 5214-23-1. Elle s'ajoute à leur
 dotation de base et est répartie comme cette dernière entre les communautés de
-communes concernées.
+communes concernées. II.-Le potentiel fiscal des établissements publics de
+coopération intercommunale à fiscalité propre est déterminé en additionnant les
+montants suivants : 1° Le produit déterminé par l'application aux bases
+intercommunales d'imposition de taxe d'habitation, de taxe foncière sur les
+propriétés bâties, de taxe foncière sur les propriétés non bâties et de
+cotisation foncière des entreprises du taux moyen national d'imposition à
+chacune de ces taxes ;
 
-II.-Le potentiel fiscal des communautés urbaines de 2000 à 2002, des communautés
-de communes ou des communautés d'agglomération est déterminé par application à
-leurs bases brutes d'imposition aux quatre taxes directes locales du taux moyen
-national à ces taxes constaté pour la catégorie d'établissement à laquelle elles
-appartiennent. Il est majoré du montant, pour la dernière année connue, de la
-dotation de compensation prévue au premier alinéa de l'article L. 5211-28-1,
-hors les montants correspondant à la compensation prévue au 2° bis du II de
-l'article 1648 B du code général des impôts dans sa rédaction antérieure à la
-loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003).
+2° La somme des produits intercommunaux perçus au titre de la cotisation sur la
+valeur ajoutée des entreprises, de la taxe additionnelle à la taxe foncière sur
+les propriétés non bâties et des impositions forfaitaires sur les entreprises de
+réseaux prévus à l'article 1379-0 bis du code général des impôts ainsi que de la
+taxe sur les surfaces commerciales prévue au 6° de l'article L. 2331-3 du
+présent code ;
 
-Toutefois, pour les communautés de communes visées au I de l'article 1609
-quinquies C du code général des impôts, la majoration mentionnée à l'alinéa
-précédent est pondérée par le rapport entre le taux appliqué dans la communauté
-de communes en 1998. De même, pour les communautés de communes visées au II de
-l'article précité, ladite majoration est pondérée par le rapport entre le taux
-moyen national et le taux appliqué dans la communauté de communes entre 1998 au
-titre des bases hors zone d'activités économiques.
+3° La somme des montants positifs ou négatifs résultant de l'application des 1.1
+et 2.1 de l'article 78 de la loi n° 2009-1673 du 30 décembre 2009 de finances
+pour 2010 perçus ou supportés par le groupement l'année précédente. Pour les
+groupements faisant application pour la première année de l'article L.
+5211-41-3, les montants correspondent à la somme des montants perçus ou
+supportés par les groupements préexistants l'année précédente ;
 
-Par dérogation également, le potentiel fiscal des communautés d'agglomération
-issues de la transformation de syndicats d'agglomération nouvelle est pondéré
-par le rapport entre les bases brutes par habitant de taxe professionnelle des
-communautés d'agglomération et la somme des bases brutes par habitant des
-syndicats d'agglomération nouvelle et de ceux d'entre eux qui se sont
-transformés en communautés d'agglomération, sous réserve que ce rapport soit
-inférieur à un.
+4° Le montant perçu par le groupement l'année précédente au titre de la dotation
+de compensation prévue à l'article L. 5211-28-1, hors le montant correspondant à
+la compensation prévue au 2° bis du II de l'article 1648 B du code général des
+impôts dans sa rédaction antérieure à la loi de finances pour 2004 (n° 2003-1311
+du 30 décembre 2003).
 
-Le potentiel fiscal des syndicats d'agglomération nouvelle est déterminé par
-application à leurs bases brutes de taxe professionnelle du taux moyen national
-d'imposition à cette taxe constaté pour la catégorie d'établissement à laquelle
-ils appartiennent. Il est majoré du montant, pour la dernière année connue, de
-la dotation de compensation prévue au premier alinéa de l'article L. 5211-28-1,
-hors les montants correspondant à la compensation prévue au 2° bis du II de
-l'article 1648 B du code général des impôts dans sa rédaction antérieure à la
-loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003).
-
-Pour l'année 2011, les bases et les taux moyens de taxe professionnelle retenus
-pour l'application du présent article sont ceux utilisés pour le calcul du
-potentiel fiscal en 2010. Pour les établissements publics de coopération
-intercommunale créés ou ayant connu des changements de périmètre après le 1er
-janvier 2010, les bases de taxe professionnelle retenues sont égales à la somme
-des bases de taxe professionnelle des communes membres de l'établissement au 31
-décembre 2010 utilisées pour le calcul de leur potentiel fiscal 2010.
-
-A compter de 2012, le potentiel fiscal d'un établissement public de coopération
-intercommunale est déterminé par application aux bases d'imposition des taxes
-directes locales de l'établissement du taux moyen national d'imposition de
-chacune de ces impositions. Les impositions prises en compte sont celles
-mentionnées à l'article 1379-0 bis du code général des impôts, à l'exception du
-premier alinéa des V et VI.
-
-A compter de 2012, le potentiel fiscal de chaque établissement public de
-coopération intercommunale est calculé par adjonction au potentiel fiscal, tel
-que défini à l'alinéa précédent, des potentiels fiscaux de chacune de leurs
-communes membres appartenant à l'établissement au 31 décembre de l'année
-précédente, tels que définis à l'article L. 2334-4, hors la part prévue au
-troisième alinéa du I de ce même article.
+Par dérogation, le potentiel fiscal des communautés d'agglomération issues de la
+transformation de syndicats d'agglomération nouvelle est pondéré par le rapport
+entre les bases brutes par habitant de cotisation foncière des entreprises des
+communautés d'agglomération et la somme des bases brutes par habitant de
+cotisation foncière des entreprises des syndicats d'agglomération nouvelle et de
+ceux d'entre eux qui se sont transformés en communautés d'agglomération, sous
+réserve que ce rapport soit inférieur à 1.
 
 Les bases retenues sont les bases brutes de la dernière année dont les résultats
-sont connus servant à l'assiette des impositions intercommunales.
-
-Le potentiel fiscal est majoré des montants prévus aux 1.1 et 2.1 de l'article
-78 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010.
+sont connus servant à l'assiette des impositions intercommunales. Les taux
+moyens nationaux sont calculés pour chaque catégorie de groupement telle que
+définie à l'article L. 5211-29 du présent code et correspondent au rapport entre
+les produits perçus par les groupements au titre de chacune de ces taxes et la
+somme des bases des groupements. Les ressources et produits retenus sont ceux
+bruts de la dernière année dont les résultats sont connus.
 
 III.-1° Le coefficient d'intégration fiscale, qui est défini pour les
 communautés urbaines de 2000 à 2002 et les communautés d'agglomération, est
 égal, pour chacun de ces établissements publics, au rapport entre :
 
-a) Les recettes provenant des quatre taxes directes locales, de la taxe ou de la
-redevance d'enlèvement des ordures ménagères et de la redevance d'assainissement
-perçues par l'établissement public minorées des dépenses de transfert ;
+a) Les recettes provenant de la taxe d'habitation, de la taxe foncière sur les
+propriétés bâties, de la taxe foncière sur les propriétés non bâties, de la taxe
+additionnelle à la taxe foncière sur les propriétés non bâties, de la cotisation
+sur la valeur ajoutée des entreprises, de la cotisation foncière des
+entreprises, des impositions forfaitaires sur les entreprises de réseaux, de la
+taxe sur les surfaces commerciales, de la taxe ou de la redevance d'enlèvement
+des ordures ménagères et de la redevance d'assainissement ainsi que les montants
+positifs ou négatifs résultant de l'application des 1.1 et 2.1 de l'article 78
+de la loi n° 2009-1673 de finances pour 2010 précitée perçus ou supportés par
+l'établissement public minorés des dépenses de transfert ;
 
-b) Les recettes provenant des quatre taxes directes locales, de la taxe ou de la
-redevance d'enlèvement des ordures ménagères et de la redevance d'assainissement
-perçues par les communes et les communes nouvelles regroupées et l'ensemble des
+b) Les recettes provenant de la taxe d'habitation, de la taxe foncière sur les
+propriétés bâties, de la taxe foncière sur les propriétés non bâties, de la taxe
+additionnelle à la taxe foncière sur les propriétés non bâties, de la cotisation
+sur la valeur ajoutée des entreprises, de la cotisation foncière des
+entreprises, des impositions forfaitaires sur les entreprises de réseaux, de la
+taxe sur les surfaces commerciales, de la taxe ou de la redevance d'enlèvement
+des ordures ménagères et de la redevance d'assainissement ainsi que les montants
+positifs ou négatifs résultant de l'application des 1.1 et 2.1 de l'article 78
+de la loi n° 2009-1673 de finances pour 2010 précitée perçus ou supportés par
+les communes et les communes nouvelles regroupées et l'ensemble des
 établissements publics de coopération intercommunale sur le territoire de
 celles-ci ;
 
-Les recettes de taxe professionnelle prévues au a et au b ci-dessus perçues par
-les communautés d'agglomération et les communautés urbaines faisant application
-des dispositions de l'article 1609 nonies C du code général des impôts sont
-majorées du montant de la dernière année connue de la dotation de compensation
-prévue au premier alinéa de l'article L. 5211-28-1, hors les montants
-correspondant à la compensation prévue au 2° bis du II de l'article 1648 B du
-code général des impôts dans sa rédaction antérieure à la loi de finances pour
-2004 (n° 2003-1311 du 30 décembre 2003) et, le cas échéant, de celles prévues au
-B de l'article 4 de la loi n° 96-987 du 14 novembre 1996 relative à la mise en
-oeuvre du pacte de relance pour la ville ou au B de l'article 3 de la loi n°
-96-1143 du 26 décembre 1996 relative à la zone franche de Corse ou au III de
-l'article 2 de la loi n° 94-1131 du 27 décembre 1994 portant statut fiscal de la
-Corse.
+Les recettes prévues au a et au b ci-dessus ainsi que les montants positifs ou
+négatifs résultant de l'application des 1.1 et 2.1 de l'article 78 de la loi n°
+2009-1673 de finances pour 2010 précitée perçus ou supportés par les communautés
+d'agglomération et les communautés urbaines faisant application des dispositions
+de l'article 1609 nonies C du code général des impôts sont majorées du montant
+de la dernière année connue de la dotation de compensation prévue au premier
+alinéa de l'article L. 5211-28-1, hors les montants correspondant à la
+compensation prévue au 2° bis du II de l'article 1648 B du code général des
+impôts dans sa rédaction antérieure à la loi de finances pour 2004 (n° 2003-1311
+du 30 décembre 2003) et, le cas échéant, de celles prévues au B de l'article 4
+de la loi n° 96-987 du 14 novembre 1996 relative à la mise en oeuvre du pacte de
+relance pour la ville ou au B de l'article 3 de la loi n° 96-1143 du 26 décembre
+1996 relative à la zone franche de Corse ou au III de l'article 2 de la loi n°
+94-1131 du 27 décembre 1994 portant statut fiscal de la Corse.
 
 1° bis Le coefficient d'intégration fiscale, qui est défini pour les communautés
 de communes, est égal, pour chacun de ces établissements publics, au rapport
 entre :
 
-a) Les recettes provenant des quatre taxes directes locales et de la taxe ou de
-la redevance d'enlèvement des ordures ménagères perçues par l'établissement
-public. Pour les communautés de communes faisant application des dispositions de
-l'article 1609 nonies C du code général des impôts, ces recettes sont minorées
-des dépenses de transfert ;
+a) Les recettes provenant de la taxe d'habitation, de la taxe foncière sur les
+propriétés bâties, de la taxe foncière sur les propriétés non bâties, de la taxe
+additionnelle à la taxe foncière sur les propriétés non bâties, de la cotisation
+sur la valeur ajoutée des entreprises, de la cotisation foncière des
+entreprises, des impositions forfaitaires sur les entreprises de réseaux, de la
+taxe sur les surfaces commerciales et de la taxe ou de la redevance d'enlèvement
+des ordures ménagères ainsi que les montants positifs ou négatifs résultant de
+l'application des 1.1 et 2.1 de l'article 78 de la loi n° 2009-1673 de finances
+pour 2010 précitée perçus ou supportés par l'établissement public. Pour les
+communautés de communes faisant application des dispositions de l'article 1609
+nonies C du code général des impôts, ces produits sont minorés des dépenses de
+transfert ;
 
-b) Les recettes provenant des quatre taxes directes locales et de la taxe ou de
-la redevance d'enlèvement des ordures ménagères perçues par les communes et les
-communes nouvelles regroupées et l'ensemble des établissements publics de
-coopération intercommunale sur le territoire de celles-ci ;
+b) Les recettes provenant de la taxe d'habitation, de la taxe foncière sur les
+propriétés bâties, de la taxe foncière sur les propriétés non bâties, de la taxe
+additionnelle à la taxe foncière sur les propriétés non bâties, de la cotisation
+sur la valeur ajoutée des entreprises, de la cotisation foncière des
+entreprises, des impositions forfaitaires sur les entreprises de réseaux, de la
+taxe sur les surfaces commerciales et de la taxe ou de la redevance d'enlèvement
+des ordures ménagères ainsi que les montants positifs ou négatifs résultant de
+l'application des 1.1 et 2.1 de l'article 78 de la loi n° 2009-1673 de finances
+pour 2010 précitée perçus ou supportés par les communes et les communes
+nouvelles regroupées et l'ensemble des établissements publics de coopération
+intercommunale sur le territoire de celles-ci ;
 
-Les recettes de taxe professionnelle prévues au a et au b ci-dessus perçues par
-les communautés de communes faisant application des dispositions de l'article
-1609 nonies C du code général des impôts sont majorées du montant de la dernière
-année connue de la dotation de compensation prévue au premier alinéa de
-l'article L. 5211-28-1, hors les montants correspondant à la compensation prévue
-au 2° bis du II de l'article 1648 B du code général des impôts dans sa rédaction
-antérieure à la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003) et,
-le cas échéant, de celles prévues au B de l'article 4 de la loi n° 96-987 du 14
-novembre 1996 précitée ou au B de l'article 3 de la loi n° 96-1143 du 26
-décembre 1996 précitée ou au III de l'article 2 de la loi n° 94-1131 du 27
-décembre 1994 précitée.
+Les recettes prévues au a et au b ci-dessus ainsi que les montants positifs ou
+négatifs résultant de l'application des 1.1 et 2.1 de l'article 78 de la loi n°
+2009-1673 de finances pour 2010 précitée perçus ou supportés par les communautés
+de communes faisant application des dispositions de l'article 1609 nonies C du
+code général des impôts sont majorées du montant de la dernière année connue de
+la dotation de compensation prévue au premier alinéa de l'article L. 5211-28-1,
+hors les montants correspondant à la compensation prévue au 2° bis du II de
+l'article 1648 B du code général des impôts dans sa rédaction antérieure à la
+loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003) et, le cas échéant,
+de celles prévues au B de l'article 4 de la loi n° 96-987 du 14 novembre 1996
+précitée ou au B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996
+précitée ou au III de l'article 2 de la loi n° 94-1131 du 27 décembre 1994
+précitée.
 
 2° Pour déterminer le coefficient d'intégration fiscale moyen d'une catégorie
 d'établissement public de coopération intercommunale, sont prises en compte les

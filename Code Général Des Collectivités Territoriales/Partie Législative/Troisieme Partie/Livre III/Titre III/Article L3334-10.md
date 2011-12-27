@@ -14,5 +14,7 @@ exercice connu ;
 c) Pour 15 % de son montant afin de majorer la dotation des départements dont le
 potentiel fiscal par habitant est inférieur d'au moins 40 % au potentiel fiscal
 moyen par habitant de l'ensemble des départements ou dont le potentiel fiscal
-par kilomètre carré est inférieur d'au moins 60 % au potentiel fiscal moyen par
-kilomètre carré de l'ensemble des départements.
+par kilomètre carré est inférieur d'au moins 50 % au potentiel fiscal moyen par
+kilomètre carré de l'ensemble des départements. A compter de 2012, l'attribution
+perçue au titre de cette majoration par un département éligible ne peut être
+inférieure à 90 % du montant perçu l'année précédente.

@@ -29,7 +29,7 @@ Ne présentent pas le caractère d'éléments de l'actif immobilisé ;
 Ou ont été pris en concession, sauf si l'entreprise concédant la licence
 d'exploitation prise en concession est la première entreprise bénéficiant à ce
 titre du régime des plus-values à long terme et si celle-ci apporte la preuve
-que les opérations mentionnées au présent b, d'une part, sont réelles et ne
+que les opérations mentionnées au présent alinéa, d'une part, sont réelles et ne
 peuvent être regardées comme constitutives d'un montage artificiel dont le but
 serait de contourner la législation fiscale française et, d'autre part, créent
 une valeur ajoutée du chef de cette entreprise sur l'ensemble de la période

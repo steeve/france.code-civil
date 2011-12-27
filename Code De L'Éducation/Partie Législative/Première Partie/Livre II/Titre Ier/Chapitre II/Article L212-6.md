@@ -9,9 +9,9 @@ dotation spéciale, prélevée sur les recettes de l'Etat, au titre des charges
 qu'elles supportent pour le logement des instituteurs.
 
 Cette dotation évolue, chaque année, comme la dotation globale de
-fonctionnement. A titre dérogatoire, cette évolution ne s'applique pas en 2009
-et en 2011. Le Comité des finances locales peut majorer cette dotation de tout
-ou partie du reliquat comptable afférent au dernier exercice connu.
+fonctionnement. A compter de 2011 cette évolution ne s'applique pas. Le Comité
+des finances locales peut majorer cette dotation de tout ou partie du reliquat
+comptable afférent au dernier exercice connu.
 
 Cette dotation est répartie par le comité des finances locales
 proportionnellement au nombre des instituteurs, exerçant dans les écoles

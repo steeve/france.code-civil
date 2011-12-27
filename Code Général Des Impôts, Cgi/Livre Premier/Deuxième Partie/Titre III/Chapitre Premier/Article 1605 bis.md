@@ -37,7 +37,7 @@ c. Le redevable n'est pas passible de l'impôt de solidarité sur la fortune au
 titre de l'année précédant celle au cours de laquelle la redevance ou la
 contribution est due ;
 
-Pour les années 2008 , 2009, 2010 et 2011, les redevables âgés de plus de
+Pour les années 2008,2009,2010,2011 et 2012, les redevables âgés de plus de
 soixante-cinq ans au 1er janvier 2004 visés aux premier et deuxième alinéas
 bénéficient d'un dégrèvement de la redevance audiovisuelle lorsqu'ils
 remplissent les conditions prévues aux a, b et c ;
@@ -98,7 +98,7 @@ dans un local meublé affecté à l'habitation, occupé à titre d'habitation au
 que principale et imposé à la taxe d'habitation au nom de plusieurs personnes
 qui appartiennent à des foyers fiscaux différents et qui ne détiennent pas
 d'appareil dans leur habitation principale, ces personnes doivent désigner celle
-d'entre elles qui sera redevable de la contribution à l'audiovisuel public.A
+d'entre elles qui sera redevable de la contribution à l'audiovisuel public. A
 défaut, la contribution à l'audiovisuel public est due par les personnes dont le
 nom est porté sur l'avis d'imposition de taxe d'habitation afférent à ce local ;
 

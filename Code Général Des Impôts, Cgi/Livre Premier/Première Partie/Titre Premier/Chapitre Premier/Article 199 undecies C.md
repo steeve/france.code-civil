@@ -137,8 +137,8 @@ construction et la location des logements mentionnés au I.
 Les associés personnes physiques mentionnés au deuxième alinéa ne peuvent
 bénéficier, pour la souscription au capital de la société mentionnée au même
 alinéa, des réductions d'impôt prévues aux articles 199 terdecies-0 A et 885-0 V
-bis et la société mentionnée ne peut bénéficier des dispositions prévues aux
-articles 217 bis et 217 undecies.
+bis et la société mentionnée ne peut bénéficier des dispositions prévues à
+l'article 217 undecies.
 
 Le 11 de l'article 150-0 D n'est pas applicable aux moins-values constatées par
 les associés lors de la cession des titres des sociétés. Le 2° du 3 de l'article

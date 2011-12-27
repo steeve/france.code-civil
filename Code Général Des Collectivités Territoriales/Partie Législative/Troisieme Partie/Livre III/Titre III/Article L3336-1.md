@@ -1,3 +1,4 @@
 Article L3336-1
 ----
-Les articles L. 2336-1 à L. 2336-3 sont applicables au département.
+Le chapitre VII du titre III du livre III de la deuxième partie est applicable
+au département.

@@ -58,8 +58,10 @@ sans préjudice des dommages et intérêts dus de ce fait à la victime.
 
 Dans le cas où les plafonds de garantie des contrats d'assurance de la personne
 considérée comme responsable par la commission seraient atteints, l'assureur
-avise sans délai cette personne ainsi que l'office institué à l'article L.
-1142-22.
+avise sans délai cette personne, l'office institué à l'article L. 1142-22 du
+présent code et, si la personne considérée comme responsable est un
+professionnel de santé exerçant à titre libéral, le fonds institué à l'article
+L. 426-1 du code des assurances.
 
 Pour l'application du présent article, l'Etat, au titre des activités de
 prévention, de diagnostic ou de soins qu'il exerce, est soumis aux obligations

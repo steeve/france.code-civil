@@ -7,4 +7,5 @@ nommés par le directeur général de l'agence régionale de santé de la régio
 laquelle le comité a son siège.
 
 Les comités exercent leur mission en toute indépendance. Ils sont dotés de la
-personnalité juridique.
+personnalité juridique. Les ressources des comités sont constituées par une
+dotation de l'Etat.

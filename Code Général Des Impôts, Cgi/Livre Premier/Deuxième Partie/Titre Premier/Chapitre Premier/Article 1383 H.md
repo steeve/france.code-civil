@@ -9,7 +9,7 @@ territoire sont exonérés de taxe foncière sur les propriétés bâties pour u
 durée de cinq ans.
 
 L'exonération s'applique aux immeubles rattachés, entre le 1er janvier 2007 et
-le 31 décembre 2011 inclus, à un établissement remplissant les conditions
+le 31 décembre 2013 inclus, à un établissement remplissant les conditions
 requises pour bénéficier de l'exonération prévue au I quinquies A de l'article
 1466 A. Elle s'applique à compter du 1er janvier de l'année qui suit celle où
 est intervenu le rattachement à un établissement remplissant les conditions
@@ -30,15 +30,15 @@ fiscalité propre.
 Lorsque les conditions requises pour bénéficier de l'exonération prévue à
 l'article 1383 A et de celle prévue au présent article sont remplies, le
 contribuable doit opter pour l'un ou l'autre de ces régimes avant le 1er janvier
-de l'année au titre de laquelle l'exonération prend effet.L'option est
+de l'année au titre de laquelle l'exonération prend effet. L'option est
 irrévocable et vaut pour l'ensemble des collectivités.
 
-Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998
-/ 2006 de la Commission du 15 décembre 2006 concernant l'application des
+Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n°
+1998/2006 de la Commission du 15 décembre 2006 concernant l'application des
 articles 87 et 88 du traité aux aides de minimis. Toutefois, sur option des
 entreprises propriétaires d'un immeuble dans une zone d'aide à finalité
 régionale, le bénéfice de l'exonération est subordonné au respect de l'article
-13 du règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant
+13 du règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant
 certaines catégories d'aides compatibles avec le marché commun en application
 des articles 87 et 88 du traité (Règlement général d'exemption par catégorie).
 

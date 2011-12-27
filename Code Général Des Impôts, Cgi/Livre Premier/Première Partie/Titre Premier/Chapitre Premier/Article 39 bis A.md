@@ -6,7 +6,7 @@ politique et générale, soit un service de presse en ligne reconnu en applicati
 de l'article 1er de la loi n° 86-897 du 1er août 1986 portant réforme du régime
 juridique de la presse, consacré pour une large part à l'information politique
 et générale, sont autorisées à constituer une provision déductible du résultat
-imposable des exercices 1997 à 2011, en vue de faire face aux dépenses suivantes
+imposable des exercices 1997 à 2012, en vue de faire face aux dépenses suivantes
 :
 
 a) Acquisitions de matériels, mobiliers, terrains, constructions, dans la mesure
@@ -36,8 +36,8 @@ phrase précédente, la limite est calculée, pour les entreprises exploitant un
 service de presse en ligne reconnu et exerçant d'autres activités, à partir du
 seul bénéfice retiré de ce service de presse en ligne. Ce pourcentage est porté
 à 80 % pour les quotidiens dont le chiffre d'affaires est inférieur à 7 600 000
-euros. Les sommes rapportées au bénéfice imposable en application du 7 ne sont
-pas prises en compte pour le calcul de la limite fixée à la phrase précédente.
+€. Les sommes rapportées au bénéfice imposable en application du 7 ne sont pas
+prises en compte pour le calcul de la limite fixée à la phrase précédente.
 
 Sont assimilées à des quotidiens les publications à diffusion départementale ou
 régionale consacrées principalement à l'information politique et générale,

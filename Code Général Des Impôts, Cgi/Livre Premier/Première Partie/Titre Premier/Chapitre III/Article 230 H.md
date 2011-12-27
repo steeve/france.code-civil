@@ -1,10 +1,11 @@
 Article 230 H
 ----
-I. - Il est institué une contribution supplémentaire à l'apprentissage. Cette
-contribution est due par les entreprises de deux cent cinquante salariés et plus
-qui sont redevables de la taxe d'apprentissage en application de l'article 224
-et dont l'effectif annuel moyen, pour l'ensemble des catégories suivantes, est
-inférieur à un seuil :
+I. - Il est institué une contribution supplémentaire à l'apprentissage.
+
+Cette contribution est due par les entreprises de deux cent cinquante salariés
+et plus qui sont redevables de la taxe d'apprentissage en application de
+l'article 224 et dont l'effectif annuel moyen, pour l'ensemble des catégories
+suivantes, est inférieur à un seuil :
 
 1° Les salariés sous contrat de professionnalisation ou d'apprentissage ;
 
@@ -58,8 +59,9 @@ la contribution n'est pas due sur les rémunérations versées à ces salariés.
 IV. ― Les dépenses visées aux articles 226 bis, 227 et 227 bis ne sont pas
 admises en exonération de la contribution mentionnée au I.
 
-Les articles 230 B, 230 C, 230 D, 230 G et les I et III de l'article 1678
-quinquies sont applicables à cette contribution.
+Les articles 230 C, 230 D, 230 G et les I et III de l'article 1678 quinquies
+sont applicables à cette contribution. Pour les établissements mentionnés à
+l'article 230 B, les taux prévus au II sont réduits à 52 % de leur montant.
 
 V. ― Le montant de la contribution mentionnée au I est versé aux organismes
 collecteurs agréés mentionnés aux articles L. 6242-1 et L. 6242-2 du code du

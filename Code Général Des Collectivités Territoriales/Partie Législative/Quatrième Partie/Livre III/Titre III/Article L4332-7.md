@@ -19,5 +19,15 @@ dotation globale de fonctionnement.
 A compter de 2005, la dotation forfaitaire de chaque région évolue chaque année
 selon un taux de progression fixé par le comité des finances locales entre 60 %
 et 90 % du taux de progression de l'ensemble des ressources de la dotation
-globale de fonctionnement. En 2011, le montant de la dotation forfaitaire de
-chaque région est égal au montant perçu en 2010 diminué d'un taux de 0,12 %.
+globale de fonctionnement.
+
+En 2011, le montant de la dotation forfaitaire de chaque région est égal au
+montant perçu en 2010 diminué d'un taux de 0,12 %.
+
+Le montant de la dotation forfaitaire de chaque région et de la collectivité
+territoriale de Corse est égal au montant perçu l'année précédente, minoré, le
+cas échéant, selon un taux fixé par le comité des finances locales afin
+d'abonder la dotation prévue à l'article L. 4332-8.
+
+Pour 2012, le montant de la dotation forfaitaire de chaque région est égal au
+montant perçu en 2011.

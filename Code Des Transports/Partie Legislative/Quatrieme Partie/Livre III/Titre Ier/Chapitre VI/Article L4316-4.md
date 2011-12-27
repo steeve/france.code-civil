@@ -17,14 +17,20 @@ b) 15,24 € par mètre carré pour une emprise située dans une commune de plus
 c) 30,49 € par mètre carré pour une emprise située dans une commune de plus de
 100 000 habitants ;
 
-Pour les ouvrages destinés à un usage agricole, le plafond est celui fixé au a)
+Pour les ouvrages destinés à un usage agricole, le plafond est celui fixé au a
 quelle que soit la population de la commune où est situé l'ouvrage.
 
 2° Un élément égal au produit du volume prélevable ou rejetable par l'ouvrage
 par un taux de base compris entre 1,5 € et 7 € par millier de mètres cubes
-prélevables ou rejetables, et identique pour tous les usagers.A ce deuxième
+prélevables ou rejetables, et identique pour tous les usagers. A ce deuxième
 élément est appliqué un coefficient d'abattement compris entre 90 % et 97 % pour
-les usages agricoles et entre 10 % et 30 % pour les usages industriels.
+les usages agricoles et entre 10 % et 30 % pour les usages industriels. Ce
+coefficient d'abattement est fixé à 97 % pour l'alimentation en eau d'un canal
+de navigation.
+
+Ce résultat est majoré de 40 % en cas de rejet sédimentaire constaté dans les
+conditions mentionnées à l'article L. 4316-10 et induisant des prestations
+supplémentaires pour rétablir le bon fonctionnement de l'ouvrage de navigation.
 
 Dans les cas particuliers où un acte de concession a prévu la réalisation par le
 concessionnaire d'ouvrages hydrauliques visant à rétablir des prélèvements ou

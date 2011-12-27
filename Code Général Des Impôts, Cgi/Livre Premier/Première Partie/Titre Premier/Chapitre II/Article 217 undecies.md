@@ -101,7 +101,7 @@ fiscale à laquelle les biens transmis ont ouvert droit.
 Lorsque l'investissement est réalisé par une société ou un groupement visés aux
 deux dernières phrases du premier alinéa, les associés ou membres doivent, en
 outre, conserver les parts de cette société ou de ce groupement pendant un délai
-de cinq ans à compter de la réalisation de l'investissement.A défaut, ils
+de cinq ans à compter de la réalisation de l'investissement. A défaut, ils
 doivent ajouter à leur résultat imposable de l'exercice de cession le montant
 des déductions qu'ils ont pratiquées, diminué, le cas échéant, dans la
 proportion de leurs droits dans la société ou le groupement, des sommes déjà
@@ -242,15 +242,15 @@ II.
 
 II quater. Les investissements et les souscriptions au capital mentionnés aux I,
 II et II ter et dont le montant total par programme et par exercice est
-supérieur à 1 000 000 euros ne peuvent ouvrir droit à déduction que s'ils ont
-reçu un agrément préalable du ministre chargé du budget dans les conditions
-prévues au III.
+supérieur à 1 000 000 € ne peuvent ouvrir droit à déduction que s'ils ont reçu
+un agrément préalable du ministre chargé du budget dans les conditions prévues
+au III.
 
 Les dispositions du premier alinéa sont également applicables aux
 investissements mentionnés au I et dont le montant total par programme et par
-exercice est supérieur à 250 000 euros (1), lorsqu'ils sont réalisés par une
-société ou un groupement mentionnés à l'avant-dernière phrase du premier alinéa
-de ce même I.
+exercice est supérieur à 250 000 € (1), lorsqu'ils sont réalisés par une société
+ou un groupement mentionnés à l'avant-dernière phrase du premier alinéa de ce
+même I.
 
 III.-1. Pour ouvrir droit à déduction, les investissements mentionnés au I
 réalisés dans les secteurs des transports, de la navigation de plaisance, de
@@ -261,7 +261,7 @@ réhabilitation d'hôtel, de résidence de tourisme et de village de vacances
 classés ou des entreprises en difficultés, ou qui sont nécessaires à
 l'exploitation d'une concession de service public local à caractère industriel
 et commercial doivent avoir reçu l'agrément préalable du ministre chargé du
-budget, après avis du ministre chargé de l'outre-mer.L'organe exécutif des
+budget, après avis du ministre chargé de l'outre-mer. L'organe exécutif des
 collectivités d'outre-mer compétentes à titre principal en matière de
 développement économique est tenu informé des opérations dont la réalisation le
 concerne.
@@ -286,8 +286,8 @@ ou indirects de leurs obligations fiscales et sociales et à l'engagement pris
 par ces mêmes bénéficiaires que puissent être vérifiées sur place les modalités
 de réalisation et d'exploitation de l'investissement aidé.
 
-2.L'agrément est tacite à défaut de réponse de l'administration dans un délai de
-trois mois à compter de la réception de la demande d'agrément. Ce délai est
+2. L'agrément est tacite à défaut de réponse de l'administration dans un délai
+de trois mois à compter de la réception de la demande d'agrément. Ce délai est
 ramené à deux mois lorsque la décision est prise et notifiée par l'autorité
 compétente de l'Etat dans les départements d'outre-mer.
 
@@ -305,11 +305,11 @@ l'administration fiscale de compléments d'informations. Il est suspendu en cas
 de notification du projet pour examen et avis de la Commission européenne.
 
 3. Toutefois, les investissements mentionnés au I dont le montant total n'excède
-pas 250 000 euros par programme et par exercice sont dispensés de la procédure
+pas 250 000 € par programme et par exercice sont dispensés de la procédure
 d'agrément préalable lorsqu'ils sont réalisés par une entreprise qui exerce son
 activité dans les départements visés au I depuis au moins deux ans dans l'un des
 secteurs mentionnés au premier alinéa du 1. Il en est de même lorsque ces
-investissements sont donnés en location à une telle entreprise.L'entreprise
+investissements sont donnés en location à une telle entreprise. L'entreprise
 propriétaire des biens ou qui les a acquis en crédit-bail joint à sa déclaration
 de résultat un état récapitulatif des investissements réalisés au cours de
 l'exercice et au titre desquels la déduction fiscale est pratiquée (1).
@@ -338,7 +338,7 @@ déduction prévue aux II, II bis ou II ter fait l'objet d'une transmission dans
 le cadre des dispositions prévues aux articles 210 A ou 210 B si l'entreprise
 qui devient propriétaire des titres remplit les conditions nécessaires pour
 bénéficier de cette déduction et s'engage à conserver les titres pendant la
-fraction du délai de conservation restant à courir.L'engagement est pris dans
+fraction du délai de conservation restant à courir. L'engagement est pris dans
 l'acte constatant la transmission ou, à défaut, par acte sous seing privé ayant
 date certaine, établi à cette occasion.
 
@@ -353,8 +353,7 @@ articles 210 A ou 210 B, si l'entreprise conserve, sous les mêmes conditions et
 sanctions, les titres nouveaux qui se sont substitués aux titres d'origine.
 
 IV bis. Le montant de la déduction prévue par le présent article n'est pas pris
-en compte pour le calcul des abattements prévus aux articles 44 quaterdecies et
-217 bis.
+en compte pour le calcul de l'abattement prévu à l'article 44 quaterdecies.
 
 Si, avant l'expiration du délai visé au premier alinéa l'un de ces
 investissements est cédé ou cesse d'être affecté à l'exploitation de
@@ -368,15 +367,14 @@ Toutefois, la reprise de l'avantage n'est pas effectuée lorsque les biens ayant
 ouvert droit à déduction sont transmis dans le cadre d'opérations soumises aux
 dispositions des articles 210 A ou 210 B, si le bénéficiaire de la transmission
 s'engage à maintenir l'exploitation des biens outre-mer dans le cadre d'une
-activité éligible pendant la fraction du délai de conservation restant à
-courir.L'engagement est pris dans l'acte constatant la transmission ou, à
-défaut, dans un acte sous seing privé ayant date certaine, établi à cette
-occasion. En cas de non-respect de cet engagement, le bénéficiaire de la
-transmission doit rapporter à son résultat imposable, au titre de l'exercice au
-cours duquel l'engagement de conservation cesse d'être respecté, l'avantage et
-la majoration correspondante mentionnés au deuxième alinéa qui, à défaut
-d'engagement, auraient dû être rapportés au résultat imposable de l'entreprise
-apporteuse.
+activité éligible pendant la fraction du délai de conservation restant à courir.
+L'engagement est pris dans l'acte constatant la transmission ou, à défaut, dans
+un acte sous seing privé ayant date certaine, établi à cette occasion. En cas de
+non-respect de cet engagement, le bénéficiaire de la transmission doit rapporter
+à son résultat imposable, au titre de l'exercice au cours duquel l'engagement de
+conservation cesse d'être respecté, l'avantage et la majoration correspondante
+mentionnés au deuxième alinéa qui, à défaut d'engagement, auraient dû être
+rapportés au résultat imposable de l'entreprise apporteuse.
 
 IV ter.-La déduction prévue aux I, II, II bis ou II ter est subordonnée au
 respect par les sociétés réalisant l'investissement ou la souscription et, le

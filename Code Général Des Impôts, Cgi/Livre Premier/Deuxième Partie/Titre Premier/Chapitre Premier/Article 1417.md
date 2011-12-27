@@ -48,7 +48,8 @@ application de l'article 163 quatervicies ;
 
 a bis) Du montant de l'abattement mentionné au 2° du 3 de l'article 158 pour sa
 fraction qui excède l'abattement non utilisé prévu au 5° du 3 du même article et
-du montant de l'abattement mentionné à l'article 150-0 D bis ;
+du montant des plus-values en report d'imposition en application du I de
+l'article 150-0 D bis ;
 
 b) du montant des bénéfices exonérés en application des articles 44 sexies, 44
 sexies A, 44 octies, 44 octies A, 44 decies, 44 undecies, 44 terdecies à 44

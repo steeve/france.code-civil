@@ -2,18 +2,22 @@ Article L916-1
 ----
 Des assistants d'éducation peuvent être recrutés par les établissements
 d'enseignement mentionnés au chapitre II du titre Ier et au titre II du livre IV
-pour exercer des fonctions d'assistance à l'équipe éducative, fonctions en lien
-avec le projet d'établissement, notamment pour l'encadrement et la surveillance
-des élèves et l'aide à l'accueil et à l'intégration scolaires des élèves
+pour exercer des fonctions d'assistance à l'équipe éducative en lien avec le
+projet d'établissement, notamment pour l'encadrement et la surveillance des
+élèves. Lorsqu'ils sont recrutés pour l'aide à l'inclusion scolaire des élèves
+handicapés, y compris en dehors du temps scolaire, leur recrutement intervient
+après accord de l'inspecteur d'académie. Ils peuvent également être recrutés par
+les établissements mentionnés à l'article L. 442-1, après accord de l'inspecteur
+d'académie, pour exercer des fonctions d'aide à l'inclusion scolaire des élèves
 handicapés, y compris en dehors du temps scolaire.
 
-Les assistants d'éducation qui remplissent des missions d'aide à l'accueil et à
-l'intégration scolaires des élèves handicapés bénéficient d'une formation
-spécifique pour l'accomplissement de leurs fonctions, mise en oeuvre en
-collaboration avec les associations d'aide aux familles d'enfants handicapés.A
-l'issue de leur contrat, les assistants d'éducation peuvent demander à faire
-valider l'expérience acquise dans les conditions définies par les articles L.
-2323-33, L. 6111-1, L. 6311-1, L. 6411-1 et L. 6422-1 du code du travail.
+Les assistants d'éducation qui remplissent des missions d'aide à l'inclusion
+scolaire des élèves handicapés bénéficient d'une formation spécifique pour
+l'accomplissement de leurs fonctions, mise en oeuvre en collaboration avec les
+associations d'aide aux familles d'enfants handicapés. A l'issue de leur
+contrat, les assistants d'éducation peuvent demander à faire valider
+l'expérience acquise dans les conditions définies par les articles L. 2323-33,
+L. 6111-1, L. 6311-1, L. 6411-1 et L. 6422-1 du code du travail.
 
 Les assistants d'éducation peuvent exercer leurs fonctions dans l'établissement
 qui les a recrutés, dans un ou plusieurs autres établissements ainsi que, compte
@@ -29,13 +33,13 @@ Le dispositif des assistants d'éducation est destiné à bénéficier en priori
 des étudiants boursiers.
 
 Par dérogation au premier alinéa, des assistants d'éducation peuvent être
-recrutés par l'Etat pour exercer des fonctions d'aide à l'accueil et à
-l'intégration des élèves handicapés dans les conditions prévues à l'article L.
-351-3, ainsi que pour exercer des fonctions d'accompagnement auprès des
-étudiants handicapés inscrits dans les établissements d'enseignement supérieur
-mentionnés aux titres Ier, II, IV et V du livre VII du présent code et pour
-lesquels une aide a été reconnue nécessaire par la commission mentionnée à
-l'article L. 146-9 du code de l'action sociale et des familles.
+recrutés par l'Etat pour exercer des fonctions d'aide à l'inclusion scolaire des
+élèves handicapés dans les conditions prévues à l'article L. 351-3, ainsi que
+pour exercer des fonctions d'accompagnement auprès des étudiants handicapés
+inscrits dans les établissements d'enseignement supérieur mentionnés aux titres
+Ier, II, IV et V du livre VII du présent code et pour lesquels une aide a été
+reconnue nécessaire par la commission mentionnée au premier alinéa de l'article
+L. 146-9 du code de l'action sociale et des familles.
 
 Les conditions d'application du présent article sont fixées par décret pris
 après avis du comité technique ministériel du ministère chargé de l'éducation.

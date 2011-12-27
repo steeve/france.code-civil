@@ -2,8 +2,8 @@ Article L52-11-1
 ----
 Les dépenses électorales des candidats aux élections auxquelles l'article L.
 52-4 est applicable font l'objet d'un remboursement forfaitaire de la part de
-l'Etat égal à 50 % de leur plafond de dépenses. Ce remboursement ne peut excéder
-le montant des dépenses réglées sur l'apport personnel des candidats et
+l'Etat égal à 47,5 % de leur plafond de dépenses. Ce remboursement ne peut
+excéder le montant des dépenses réglées sur l'apport personnel des candidats et
 retracées dans leur compte de campagne.
 
 Le remboursement forfaitaire n'est pas versé aux candidats qui ont obtenu moins

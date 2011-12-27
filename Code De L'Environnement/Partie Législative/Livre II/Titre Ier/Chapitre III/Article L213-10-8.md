@@ -7,40 +7,29 @@ un produit phytopharmaceutique au sens du 1 de l'article 2 du règlement (CE) n�
 prestation de traitement de semence au moyen de ces produits est assujettie à
 une redevance pour pollutions diffuses.
 
-II.-L'assiette de la redevance est la masse de substances classées, conformément
-aux catégories définies pour l'application de l'article L. 4411-6 du code du
-travail, comme très toxiques, toxiques, cancérogènes, mutagènes, toxiques pour
-la reproduction ou dangereuses pour l'environnement, contenues dans les produits
-mentionnés au I.
+II.-L'assiette de la redevance est la masse de substances contenues dans les
+produits mentionnés au I et classées, en application du règlement (CE) n°
+1272/2008 :
+
+1° Soit en raison de leur toxicité aiguë de catégorie 1,2 ou 3 ;
+
+2° Soit en raison de leur toxicité spécifique pour certains organes cibles, de
+catégorie 1, à la suite d'une exposition unique ou après une exposition répétée
+;
+
+3° Soit en raison de leur cancérogénicité, ou de leur mutagénicité sur les
+cellules germinales, ou de leur toxicité pour la reproduction ;
+
+4° Soit en raison de leur danger pour l'environnement.
 
 III.-Le taux de la redevance, exprimé en euros par kilogramme, est fixé :
 
-1° A compter du 1er juillet 2009 :
+a) A 2 € pour les substances entrant dans l'assiette de la redevance en raison
+du 4° du II, sauf celles d'entre elles relevant de la famille chimique minérale,
+pour lesquelles il est fixé à 0,9 ;
 
-a) A 1,5 € pour les substances dangereuses pour l'environnement, sauf celles
-d'entre elles relevant de la famille chimique minérale, pour lesquelles il est
-fixé à 0,6 ;
-
-b) A 3,7 € pour les substances toxiques, très toxiques, cancérogènes, mutagènes
-ou toxiques pour la reproduction ;
-
-2° A compter du 1er janvier 2010 :
-
-a) A 1,7 € pour les substances dangereuses pour l'environnement, sauf celles
-d'entre elles relevant de la famille chimique minérale, pour lesquelles il est
-fixé à 0,7 ;
-
-b) A 4,4 € pour les substances toxiques, très toxiques, cancérogènes, mutagènes
-ou toxiques pour la reproduction ;
-
-3° A compter du 1er janvier 2011 :
-
-a) A 2 € pour les substances dangereuses pour l'environnement, sauf celles
-d'entre elles relevant de la famille chimique minérale, pour lesquelles il est
-fixé à 0,9 ;
-
-b) A 5,1 € pour les substances toxiques, très toxiques, cancérogènes, mutagènes
-ou toxiques pour la reproduction.
+b) A 5,1 € pour les substances entrant dans l'assiette de la redevance en raison
+des 1° à 3° du II.
 
 Pour chacun des produits mentionnés au I, la personne détentrice de
 l'autorisation de mise sur le marché, responsable de la mise sur le marché, met
@@ -84,19 +73,15 @@ destinataires des factures et les montants de redevance correspondants. Ces
 registres sont mis à disposition des agences de l'eau et de l'autorité
 administrative.
 
-V.-La fraction du produit annuel de la redevance, comprenant le montant dû au
-titre de l'année précédente et l'acompte versé au titre de l'année en cours,
-excédant le montant de la redevance perçue à raison des ventes réalisées au
-cours de la période du 1er janvier au 31 décembre 2008, est affectée à l'Office
-national de l'eau et des milieux aquatiques au plus tard le 1er septembre de
-chaque année, afin de mettre en œuvre le programme national arrêté par le
-ministre chargé de l'agriculture, visant à la réduction de l'usage des
-pesticides dans l'agriculture et à la maîtrise des risques y afférents, en
-particulier à travers des actions d'information des utilisateurs de produits
-phytopharmaceutiques, des actions de mise au point et de généralisation de
-systèmes agricoles permettant de réduire l'utilisation des pesticides, des
-programmes et réseaux de surveillance sur les bio-agresseurs et sur les effets
-non intentionnels de l'utilisation des pesticides, notamment en zone agricole.
+V. ― Entre 2012 et 2018, il est effectué un prélèvement annuel sur le produit de
+la redevance au profit de l'Office national de l'eau et des milieux aquatiques
+afin de mettre en œuvre le programme national visant à la réduction de l'usage
+des pesticides dans l'agriculture et à la maîtrise des risques y afférents. Ce
+prélèvement, plafonné à 41 millions d'euros, est réparti entre les agences de
+l'eau proportionnellement au produit annuel qu'elles tirent de cette redevance.
+Ces contributions sont liquidées, ordonnancées et recouvrées, selon les
+modalités prévues pour les recettes des établissements publics de l'Etat, avant
+le 1er septembre de chaque année.
 
 VI.-Un décret en Conseil d'Etat précise les modalités d'application du présent
 article.

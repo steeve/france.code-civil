@@ -1,6 +1,6 @@
 Article 1466 A
 ----
-I.- Les communes sur le territoire desquelles sont situés un ou plusieurs
+I.-Les communes sur le territoire desquelles sont situés un ou plusieurs
 quartiers classés en zones urbaines sensibles définies au 3 de l'article 42 de
 la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
 développement du territoire ou leurs établissements publics de coopération
@@ -48,7 +48,7 @@ public de coopération intercommunale doté d'une fiscalité propre prise dans l
 conditions prévues au I de l'article 1639 A bis, les entreprises sont exonérées
 de cotisation foncière des entreprises pour les créations et extensions
 d'établissements qu'elles réalisent entre le 1er janvier 2007 et le 31 décembre
-2011 dans les bassins d'emploi à redynamiser définis au 3 bis de l'article 42 de
+2013 dans les bassins d'emploi à redynamiser définis au 3 bis de l'article 42 de
 la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
 développement du territoire.
 
@@ -67,12 +67,12 @@ de leurs établissements publics de coopération intercommunale dotés d'une
 fiscalité propre ne peuvent porter que sur l'ensemble des établissements créés
 ou étendus.
 
-Le bénéfice des exonérations est subordonné au respect du règlement (CE) n° 1998
-/ 2006 de la Commission du 15 décembre 2006 concernant l'application des
+Le bénéfice des exonérations est subordonné au respect du règlement (CE) n°
+1998/2006 de la Commission du 15 décembre 2006 concernant l'application des
 articles 87 et 88 du traité des aides de minimis. Toutefois, sur option des
 entreprises qui procèdent aux opérations mentionnées au premier alinéa dans les
 zones d'aide à finalité régionale, le bénéfice des exonérations est subordonné
-au respect de l'article 13 du règlement (CE) n° 800 / 2008 de la Commission du 6
+au respect de l'article 13 du règlement (CE) n° 800/2008 de la Commission du 6
 août 2008 déclarant certaines catégories d'aides compatibles avec le marché
 commun en application des articles 87 et 88 du traité (Règlement général
 d'exemption par catégorie).
@@ -112,14 +112,14 @@ fiscalité propre ne peuvent porter que sur l'ensemble des établissements cré�
 ou étendus.
 
 Le bénéfice de l'exonération prévue au premier alinéa est subordonné au respect
-du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant
+du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant
 l'application des articles 87 et 88 du traité des aides de minimis. Toutefois,
 sur option des entreprises qui procèdent aux opérations mentionnées au premier
 alinéa dans les zones d'aide à finalité régionale, le bénéfice de l'exonération
 prévue au premier alinéa est subordonné au respect de l'article 13 du règlement
-(CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant certaines
-catégories d'aides compatibles avec le marché commun en application des articles
-87 et 88 du traité (Règlement général d'exemption par catégorie).
+(CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories
+d'aides compatibles avec le marché commun en application des articles 87 et 88
+du traité (Règlement général d'exemption par catégorie).
 
 L'option mentionnée au cinquième alinéa est irrévocable pour la durée de
 l'exonération. Elle doit être exercée, selon le cas, dans le délai prévu pour le
@@ -130,7 +130,7 @@ foncière des entreprises visée à l'article 1477.
 I sexies.-Sauf délibération contraire de la commune ou de l'établissement public
 de coopération intercommunale doté d'une fiscalité propre, les établissements
 qui font l'objet d'une création ou d'une extension entre le 1er janvier 2006 et
-le 31 décembre 2011 dans les zones franches urbaines mentionnées à l'article
+le 31 décembre 2014 dans les zones franches urbaines mentionnées à l'article
 1383 C bis ainsi que les établissements existant au 1er janvier 2006 dans les
 zones franches urbaines mentionnées au deuxième alinéa du B du 3 de l'article 42
 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
@@ -160,8 +160,8 @@ société en cause et ces dernières sociétés ou ces fonds.
 Pour l'application du 1° et du 2°, le chiffre d'affaires doit être ramené ou
 porté le cas échéant à douze mois. Les seuils s'appliquent, pour les
 établissements existants, à la date de délimitation de la zone et, pour les
-créations et extensions postérieures, à la date de l'implantation dans la
-zone.L'effectif de l'entreprise est apprécié par référence au nombre moyen de
+créations et extensions postérieures, à la date de l'implantation dans la zone.
+L'effectif de l'entreprise est apprécié par référence au nombre moyen de
 salariés employés au cours de cet exercice. Pour la société mère d'un groupe
 mentionné à l'article 223 A, le chiffre d'affaires est apprécié en faisant la
 somme des chiffres d'affaires de chacune des sociétés membres de ce groupe.
@@ -182,10 +182,11 @@ conditions prévues, dans la rédaction du présent code en vigueur au 31 décem
 et aux neuvième, dixième et onzième alinéas du I quater, à la dernière phrase du
 troisième alinéa et au sixième alinéa du I quinquies. Le bénéfice des
 exonérations prenant effet en 2006 dans les zones mentionnées au deuxième alinéa
-du B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée est
-subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15
-décembre 2006 concernant l'application des articles 87 et 88 du traité des aides
-de minimis.
+du B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée et de
+celles prenant effet à compter de 2013 dans les zones franches urbaines définies
+au même B est subordonné au respect du règlement (CE) n° 1998/2006 de la
+Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du
+traité des aides de minimis.
 
 II. Pour bénéficier des exonérations prévues aux I, I quinquies A, I quinquies B
 et I sexies les contribuables déclarent, chaque année, dans les conditions
@@ -193,7 +194,7 @@ prévues à l'article 1477, les éléments entrant dans le champ d'application d
 l'exonération.
 
 Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'une
-des exonérations prévues aux articles 1464 A, 1464 B, 1464 D, 1464 I, 1465, 1465
+des exonérations prévues aux articles 1464 A, 1464 B, 1464 D, 1464 I, 1465,1465
 A, 1465 B, 1466 C, 1466 D ou 1466 E et de celles prévues aux I, I quinquies A, I
 quinquies B ou I sexies le contribuable doit opter pour l'un ou l'autre de ces
 régimes. L'option qui est irrévocable doit être exercée dans le délai prévu pour

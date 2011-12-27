@@ -27,8 +27,8 @@ l'expiration de la cinquième année ;
 c) Des moins-values imputées l'année précédant celle au titre de laquelle la
 taxe foncière est établie en application du 11 de l'article 150-0 D ;
 
-d) Des abattements mentionnés au I de l'article 125-0 A, à l'article 150-0 D bis
-et aux 2° et 5° du 3 de l'article 158 ;
+d) Des abattements mentionnés au I de l'article 125-0 A et aux 2° et 5° du 3 de
+l'article 158 ;
 
 e) Des déficits imputés, en application du I de l'article 156, l'année précédant
 celle au titre de laquelle la taxe foncière est établie ;

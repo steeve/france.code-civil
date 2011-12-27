@@ -11,7 +11,12 @@ II.-Ces fonds sont alimentés par :
 somme des reversements effectués en 2010 par les fonds départementaux de
 péréquation de taxe professionnelle d'Ile-de-France conformément au premier
 alinéa du II de l'article 1648 A dans sa rédaction antérieure à la loi n°
-2010-1657 du 29 décembre 2010 de finances pour 2011 ;
+2010-1657 du 29 décembre 2010 de finances pour 2011.
+
+A compter de 2012, le montant de cette dotation est figé pour les deux fonds de
+compensation de nuisances aéroportuaires d'Ile-de-France. Il s'élève à 6 496 781
+€ pour le fonds de l'aéroport Roissy-Charles-de-Gaulle et à 271 847 € pour le
+fonds de l'aéroport d'Orly ;
 
 2° une contribution annuelle de l'établissement public Aéroports de Paris, sur
 délibération de son conseil d'administration.

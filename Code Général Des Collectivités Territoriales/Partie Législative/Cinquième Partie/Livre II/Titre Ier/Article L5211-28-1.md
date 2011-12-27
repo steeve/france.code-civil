@@ -8,6 +8,12 @@ B du code général des impôts dans sa rédaction antérieure à la loi de fina
 pour 2004 (n° 2003-1311 du 30 décembre 2003), indexés selon le taux mentionné
 par le 3° de l'article L. 2334-7.
 
+A compter de 2012, les montants antérieurement perçus au titre du I du D de
+l'article 44 de la loi de finances pour 1999 précitée peuvent être diminués d'un
+pourcentage identique pour l'ensemble des établissements publics de coopération
+intercommunale à fiscalité propre, dans les conditions prévues à l'article L.
+2334-7-1.
+
 Les établissements publics de coopération intercommunale soumis pour la première
 fois à compter de 2004 aux dispositions de l'article 1609 nonies C du code
 général des impôts perçoivent en lieu et place de leurs communes membres la part
@@ -23,8 +29,8 @@ montant de ce prélèvement, actualisé chaque année selon le taux mentionné p
 subissait, l'année précédant la mise en œuvre des dispositions de l'article 1609
 nonies C du code général des impôts, en application du dernier alinéa de
 l'article L. 2334-7 du présent code, un prélèvement calculé selon les modalités
-prévues au 1. 2. 4. 2 de l'article 77 de la loi n° 2009-1673 du 30 décembre 2009
-de finances pour 2010, la dotation de compensation versée à l'établissement est
+prévues au 1.2.4.2 de l'article 77 de la loi n° 2009-1673 du 30 décembre 2009 de
+finances pour 2010, la dotation de compensation versée à l'établissement est
 minorée du montant de ce prélèvement.
 
 Lorsque, à compter de 2005, le territoire d'un groupement de communes faisant
@@ -44,5 +50,5 @@ professionnelle de France Télécom des communes qui se retirent.
 En cas de retrait de communes, la dotation de compensation du groupement est
 majorée, le cas échéant, en fonction de la part du prélèvement subi par celui-ci
 en application du dernier alinéa du L. 2334-7 du présent code et calculé selon
-les modalités prévues au 1. 2. 4. 2 de l'article 77 de la loi n° 2009-1673 du 30
+les modalités prévues au 1.2.4.2 de l'article 77 de la loi n° 2009-1673 du 30
 décembre 2009 de finances pour 2010.

@@ -3,7 +3,7 @@ Article L5141-4
 Les cessions gratuites de terres à usage agricole mentionnées au 3° de l'article
 L. 5141-1 peuvent être consenties aux personnes se livrant à une activité
 essentiellement agricole qui, depuis leur installation, antérieure à la date du
-4 septembre 1998 et pendant une période d'au moins cinq ans, ont réalisé
+4 septembre 2008 et pendant une période d'au moins cinq ans, ont réalisé
 l'aménagement et la mise en valeur des terres mises à leur disposition par
 l'Etat, les ont exploitées directement à des fins exclusivement agricoles et qui
 s'engagent à les maintenir à cet usage pendant trente ans à compter de la date

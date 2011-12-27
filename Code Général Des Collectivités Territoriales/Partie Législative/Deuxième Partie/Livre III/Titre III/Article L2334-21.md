@@ -44,12 +44,9 @@ cette fraction de la dotation de solidarité rurale, cette commune perçoit, à
 titre de garantie non renouvelable, une attribution égale à la moitié de celle
 qu'elle a perçue l'année précédente.
 
-Lorsqu'une commune cesse d'être éligible en 2005 à cette fraction de la dotation
-de solidarité rurale, elle perçoit en 2005 et en 2006, à titre de garantie, une
-attribution égale, respectivement, aux deux tiers et au tiers du montant perçu
-en 2004.
+Lorsqu'une commune cesse d'être éligible en 2012 à cette fraction de la dotation
+de solidarité rurale, elle perçoit, à titre de garantie, une attribution égale à
+90 % en 2012,75 % en 2013 et 50 % en 2014 du montant perçu en 2011.
 
-Lorsqu'en 2005 l'attribution d'une commune diminue de plus d'un tiers par
-rapport à 2004, cette commune perçoit, en 2005 et en 2006, un complément de
-garantie lui permettant de bénéficier, respectivement, des deux tiers et du
-tiers du montant perçu en 2004.
+A compter de 2012, l'attribution d'une commune éligible ne peut être ni
+inférieure à 90 % ni supérieure à 120 % du montant perçu l'année précédente.

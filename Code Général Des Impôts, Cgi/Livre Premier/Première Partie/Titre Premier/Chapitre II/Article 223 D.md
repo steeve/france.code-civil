@@ -4,7 +4,7 @@ La plus-value nette ou la moins-value nette à long terme d'ensemble est
 déterminée par la société mère en faisant la somme algébrique des plus-values ou
 des moins-values nettes à long terme de chacune des sociétés du groupe,
 déterminées et imposables selon les modalités prévues aux articles 39 duodecies
-à 39 quindecies et 217 bis.
+à 39 quindecies.
 
 Les dispositions de l'article 39 quindecies sont applicables à la plus-value et
 à la moins-value nette à long terme d'ensemble.

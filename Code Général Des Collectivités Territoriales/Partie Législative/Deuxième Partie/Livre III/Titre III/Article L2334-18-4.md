@@ -1,6 +1,6 @@
 Article L2334-18-4
 ----
-En 2010 et en 2011, l'augmentation de la dotation, après répartition des
+A compter de 2010, l'augmentation de la dotation, après répartition des
 attributions calculées en application des articles L. 2334-16 à L. 2334-18-2,
 bénéficie :
 

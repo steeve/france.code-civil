@@ -21,8 +21,11 @@ des distributions définies aux 7 et 8 du II de l'article 150-0 A du code géné
 des impôts, des avantages définis aux 6 et 6 bis de l'article 200 A du même code
 et du gain défini à l'article 150 duodecies du même code ;
 
-e bis) Des plus-values mentionnées au I de l'article 167 bis du code général des
-impôts ;
+e bis) Des plus-values et des créances mentionnées au I et au II de l'article
+167 bis du code général des impôts ;
+
+e ter) Les gains nets placés en report d'imposition en application des I et II
+de l'article 150-0 D bis du code général des impôts ;
 
 f) De tous revenus qui entrent dans la catégorie des bénéfices industriels et
 commerciaux, des bénéfices non commerciaux ou des bénéfices agricoles au sens du
@@ -32,7 +35,7 @@ L. 136-1 à L. 136-5.
 
 Pour la détermination de l'assiette de la contribution, il n'est pas fait
 application des abattements mentionnés au I de l'article 125-0 A, à l'article
-150-0 D bis et aux 2° et 5° du 3 de l'article 158 du code général des impôts,
+150-0 D ter et aux 2° et 5° du 3 de l'article 158 du code général des impôts,
 ainsi que, pour les revenus de capitaux mobiliers, des dépenses effectuées en
 vue de l'acquisition et de la conservation du revenu.
 

@@ -20,11 +20,12 @@ code général des impôts ;
 Il est également majoré de la somme correspondant à l'abattement prévu à
 l'article 1388 bis du code général des impôts.
 
-b) La taxe foncière sur les propriétés non bâties. Son montant est majoré de la
-somme correspondant aux exonérations dont ont bénéficié, en application de
-l'article 1394 du code général des impôts, les terrains des universités, les
-terrains affectés aux armées ainsi que les terrains des établissements publics
-de santé dès lors que ceux-ci occupent plus de 10 % du territoire communal ;
+b) La taxe foncière sur les propriétés non bâties et la taxe additionnelle à la
+taxe foncière sur les propriétés non bâties. Son montant est majoré de la somme
+correspondant aux exonérations dont ont bénéficié, en application de l'article
+1394 du code général des impôts, les terrains des universités, les terrains
+affectés aux armées ainsi que les terrains des établissements publics de santé
+dès lors que ceux-ci occupent plus de 10 % du territoire communal ;
 
 c) La taxe d'habitation, majorée de la somme correspondant aux exonérations
 permanentes dont ont bénéficié, en application de l'article 1408 du code général

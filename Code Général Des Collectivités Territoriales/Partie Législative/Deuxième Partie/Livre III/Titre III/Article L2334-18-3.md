@@ -18,5 +18,10 @@ attribution calculée en multipliant le montant de dotation perçu la dernière
 année où la commune était éligible par un coefficient égal à 90 % la première
 année et diminuant ensuite d'un dixième chaque année.
 
+A titre dérogatoire en 2012, lorsqu'une commune cesse d'être éligible à la
+dotation de solidarité urbaine et de cohésion sociale, elle perçoit, à titre de
+garantie, une dotation égale à 90 % en 2012, 75 % en 2013 et 50 % en 2014 du
+montant perçu en 2011.
+
 Les sommes nécessaires sont prélevées sur les crédits affectés par le comité des
 finances locales à la dotation de solidarité urbaine et de cohésion sociale.

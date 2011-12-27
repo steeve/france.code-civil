@@ -41,6 +41,13 @@ Dans les territoires comprenant une ou plusieurs communes classées communes
 touristiques au sens de l'article L. 133-11 du code du tourisme, le taux
 applicable peut être majoré de 0,2 %.
 
+Dans les communes et les établissements publics compétents pour l'organisation
+des transports urbains dont la population est inférieure à 10 000 habitants et
+dont le territoire comprend une ou plusieurs communes classées communes
+touristiques au sens de l'article L. 133-11 du code du tourisme, le taux du
+versement est fixé dans la limite de 0,55 % des salaires définis à l'article L.
+2333-65 du présent code.
+
 En cas d'extension d'un périmètre de transports urbains résultant de l'extension
 du périmètre d'un établissement public de coopération intercommunale doté de
 fiscalité propre ou d'un syndicat mixte auquel a adhéré un établissement public

@@ -1,7 +1,7 @@
 Article L213-12-1
 ----
-I. - Il est créé un établissement public de l'Etat à caractère administratif
-pour la gestion de l'eau et de la biodiversité du marais poitevin.
+I.-Il est créé un établissement public de l'Etat à caractère administratif pour
+la gestion de l'eau et de la biodiversité du marais poitevin.
 
 Pour faciliter une gestion équilibrée et durable de la ressource en eau sur le
 périmètre des bassins hydrographiques du marais poitevin et de leurs aquifères,
@@ -62,7 +62,7 @@ Il peut présenter à l'Etat et aux autres collectivités publiques toute
 suggestion en rapport avec ses missions et se voir confier la mise en œuvre de
 tout ou partie des plans d'actions qu'ils décident de lancer.
 
-II. - L'établissement est administré par un conseil d'administration composé :
+II.-L'établissement est administré par un conseil d'administration composé :
 
 1° De représentants de l'Etat, dont le président du conseil d'administration, et
 de ses établissements publics intéressés ;
@@ -80,7 +80,27 @@ Le président du conseil d'administration est nommé par décret.
 Un représentant du personnel de l'établissement siège au conseil
 d'administration avec voix consultative.
 
-III. - Un bureau exécutif prépare les décisions du conseil d'administration.
+III.-Un bureau exécutif prépare les décisions du conseil d'administration.
 
-IV. - Un décret en Conseil d'Etat fixe les modalités d'application du présent
+III bis. ― Les ressources de l'établissement sont constituées de redevances pour
+service rendu et de toute ressource qu'il tire de son activité, de dons et legs,
+de subventions et participations de l'Etat, des collectivités territoriales et
+de leurs groupements ainsi que d'autres personnes publiques et privées et enfin
+des produits financiers. A ce titre, l'établissement perçoit une contribution
+annuelle de l'agence de l'eau Loire-Bretagne à son fonctionnement dont le
+montant est égal à 25 % du montant de la redevance pour prélèvement sur la
+ressource en eau émise par l'agence, en application de l'article L. 213-10-9,
+dans le périmètre de l'établissement, au cours de l'année précédente et ne peut
+être inférieur à 500 000 €. Cette contribution est liquidée, ordonnancée et
+recouvrée selon les modalités prévues pour les recettes des établissements
+publics administratifs de l'Etat.
+
+L'établissement peut également demander à l'agence de l'eau Loire-Bretagne de
+bénéficier, pour le compte des groupements de collectivités territoriales
+mettant en œuvre les schémas d'aménagement et de gestion des eaux du marais
+poitevin, de la majoration de la redevance prévue au V bis du même article L.
+213-10-9 pour les établissements publics territoriaux de bassin, selon les
+modalités prévues audit article L. 213-10-9.
+
+IV.-Un décret en Conseil d'Etat fixe les modalités d'application du présent
 article.

@@ -61,3 +61,14 @@ aux 1 000 grammes, en deçà duquel ces différents produits du tabac ne peuvent
 être vendus dans leur circonscription administrative. Pour chacun de ces
 produits, ce prix est supérieur à 66 % et au plus égal à 110 % de la moyenne
 pondérée des prix homologués mentionnée au 1.
+
+5. La livraison, à destination des départements de la Martinique et de la
+Guadeloupe, de tabacs manufacturés qui ont fait l'objet d'une importation dans
+l'un de ces départements donne lieu à un versement du droit de consommation au
+profit du département de destination.
+
+Le versement est prélevé sur le produit du droit de consommation sur les tabacs
+perçu dans le département d'importation.
+
+Il est procédé au versement six mois au plus tard après la date à laquelle a été
+réalisée la livraison des tabacs dans le département de destination.

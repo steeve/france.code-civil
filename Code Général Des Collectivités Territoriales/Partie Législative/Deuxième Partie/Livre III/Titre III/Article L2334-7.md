@@ -5,16 +5,16 @@ A compter de 2005, la dotation forfaitaire comprend :
 1° Une dotation de base destinée à tenir compte des charges liées à l'importance
 de sa population.
 
-Pour 2011, cette dotation de base est égale pour chaque commune au produit de sa
-population par un montant de 64,46 euros par habitant à 128,93 euros par
-habitant en fonction croissante de la population de la commune, dans des
-conditions définies par décret en Conseil d'Etat.
+A compter de 2011, cette dotation de base est égale pour chaque commune au
+produit de sa population par un montant de 64,46 euros par habitant à 128,93
+euros par habitant en fonction croissante de la population de la commune, dans
+des conditions définies par décret en Conseil d'Etat.
 
 2° Une dotation proportionnelle à la superficie, égale à 3,22 euros par hectare
-en 2011 et à 5,37 euros par hectare dans les communes situées en zone de
-montagne. A compter de 2005, le montant de cette dotation perçu par les communes
-de Guyane ne peut excéder le triple du montant qu'elles perçoivent au titre de
-la dotation de base ;
+à compter de 2011 et à 5,37 euros par hectare dans les communes situées en zone
+de montagne. A compter de 2005, le montant de cette dotation perçu par les
+communes de Guyane ne peut excéder le triple du montant qu'elles perçoivent au
+titre de la dotation de base ;
 
 3° Les montants correspondant aux montants antérieurement perçus au titre du I
 du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre
@@ -25,6 +25,10 @@ selon un taux de 1 %. En 2011, ces montants sont identiques à ceux perçus au
 titre de 2010, après minoration, le cas échéant, en application du 1.2.4.2 de
 l'article 77 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 et
 majoration, le cas échéant, en application du II du 6 du même article.
+
+A compter de 2012, ces mêmes montants peuvent être diminués selon un pourcentage
+identique pour l'ensemble des communes, dans les conditions prévues à l'article
+L. 2334-7-1.
 
 Lorsqu'une commune cesse, à compter de 2005, d'appartenir à un groupement de
 communes faisant application des dispositions de l'article 1609 nonies C du code
@@ -39,7 +43,7 @@ application du premier alinéa du III de l'article 29 de la loi de finances pour
 2003 (n° 2002-1575 du 30 décembre 2002) qui a été calculée à partir des bases de
 taxe professionnelle de France Télécom de cette commune. Cette part est minorée,
 le cas échéant, en fonction de la part du prélèvement subi par le groupement en
-application du 1. 2. 4. 2 de l'article 77 de la loi n° 2009-1673 du 30 décembre
+application du 1.2.4.2 de l'article 77 de la loi n° 2009-1673 du 30 décembre
 2009 de finances pour 2010, qui a été calculée à partir du produit de la taxe
 sur les surfaces commerciales de cette commune ;
 
@@ -53,18 +57,19 @@ a. Le montant de dotation forfaitaire perçue en 2004 et indexée selon un taux 
 b. Et la somme de la dotation de base et de la dotation proportionnelle à la
 superficie calculées en application des 1° et 2°.
 
-En 2011, les communes dont le potentiel fiscal par habitant est inférieur à 0,75
-fois le potentiel fiscal moyen par habitant constaté au niveau national
-bénéficient d'une attribution au titre de leur complément de garantie égale à
-celle perçue en 2010. La somme des attributions au titre du complément de
-garantie des communes dont le potentiel fiscal par habitant est supérieur ou
-égal à 0,75 fois le potentiel fiscal moyen par habitant constaté au niveau
-national est minorée de 130 millions d'euros en 2011 par rapport à 2010. Cette
-minoration des attributions est répartie parmi les communes concernées en
-proportion de leur population et de l'écart relatif entre le potentiel fiscal
-par habitant de la commune et le potentiel fiscal moyen par habitant constaté au
-niveau national. Cette minoration ne peut être supérieure à 6 % du complément de
-garantie perçu l'année précédente.
+A compter de 2012, les communes dont le potentiel fiscal par habitant est
+inférieur à 0,9 fois le potentiel fiscal moyen par habitant constaté pour
+l'ensemble des communes bénéficient d'une attribution au titre de la garantie
+égale à celle perçue l'année précédente. Pour les communes dont le potentiel
+fiscal par habitant est supérieur ou égal à 0,9 fois le potentiel fiscal moyen
+par habitant constaté pour l'ensemble des communes, ce montant est diminué, dans
+les conditions prévues à l'article L. 2334-7-1, en proportion de leur population
+et de l'écart relatif entre le potentiel fiscal par habitant de la commune et le
+potentiel fiscal moyen par habitant constaté pour l'ensemble des communes. Cette
+minoration ne peut être supérieure à 6 % de la garantie perçue l'année
+précédente. Le potentiel fiscal pris en compte pour l'application du présent
+alinéa est celui calculé l'année précédente en application de l'article L.
+2334-4 ;
 
 Une dotation versée aux communes dont le territoire est pour tout ou partie
 compris dans le coeur d'un parc national. Elle est fonction de la part de la
@@ -118,33 +123,33 @@ intercommunale soumis pour la première fois à compter de 2004 aux dispositions
 de l'article 1609 nonies C du code général des impôts, les crédits correspondant
 à la compensation antérieurement perçue en application du I du D de l'article 44
 de la loi de finances pour 1999 précitée sont versés à l'établissement en lieu
-et place des communes.A cet effet, l'ensemble des crédits correspondant à la
+et place des communes. A cet effet, l'ensemble des crédits correspondant à la
 compensation antérieurement perçue en application du I du D de l'article 44 de
 la loi de finances pour 1999 précitée sont identifiés au sein de la dotation
 forfaitaire.
 
-5° Une dotation en faveur des parcs nationaux et des parcs naturels marins. Sa
-première fraction est versée aux communes dont le territoire est pour tout ou
-partie compris dans le cœur d'un parc national. Sa seconde fraction est versée
-aux communes insulaires situées dans les surfaces maritimes classées en parc
-naturel marin, mentionné à l'article L. 334-3 du code de
-l'environnement.L'attribution individuelle est fonction de la part de la
-superficie de la commune comprise dans le cœur de parc, cette part étant doublée
-pour le calcul de la dotation lorsque cette superficie dépasse 5 000 kilomètres
-carrés.
-
-Le montant de la première fraction de cette dotation est fixé à 3,2 millions
-d'euros pour 2011. Celui de la deuxième fraction est fixé à 150 000 € pour 2011.
-Ces montants évoluent chaque année selon le taux d'indexation fixé par le comité
-des finances locales pour la dotation de base et la dotation proportionnelle à
-la superficie.
+5° Une dotation en faveur des communes des parcs nationaux et des parcs naturels
+marins. Cette dotation comprend une première fraction dont le montant est
+réparti entre les communes dont le territoire est en tout ou partie compris dans
+le cœur d'un parc national mentionné à l'article L. 331-1 du code de
+l'environnement. L'attribution individuelle est déterminée en fonction de la
+superficie de chaque commune comprise dans le cœur de parc, cette superficie
+étant doublée pour le calcul de la dotation lorsqu'elle dépasse les 5 000
+kilomètres carrés. Cette dotation comprend une deuxième fraction dont le montant
+est réparti entre les communes insulaires de métropole dont le territoire est
+situé au sein d'un parc naturel marin mentionné à l'article L. 334-3 du même
+code. Cette dotation comprend une troisième fraction dont le montant est réparti
+par parts égales entre les autres communes insulaires dont le territoire est
+situé au sein d'un parc naturel marin mentionné au même article L. 334-3. Le
+montant de la première fraction est fixé à 3,2 millions d'euros et celui de
+chacune des deux autres fractions à 150 000 €.
 
 Pour les communes et établissements publics de coopération intercommunale à
 fiscalité propre, lorsque le montant de la compensation prévue au D de l'article
 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998) ou de la
 dotation de compensation prévue à l'article L. 5211-28-1 du présent code est, en
-2011, inférieur au montant de la diminution à opérer en application du 1. 2. 4.
-2 de l'article 77 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour
+2011, inférieur au montant de la diminution à opérer en application du 1.2.4.2
+de l'article 77 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour
 2010, le solde est prélevé au profit du budget général de l'Etat,
 prioritairement sur le montant correspondant aux montants antérieurement perçus
 au titre du 2° bis du II de l'article 1648 B du code général des impôts dans sa

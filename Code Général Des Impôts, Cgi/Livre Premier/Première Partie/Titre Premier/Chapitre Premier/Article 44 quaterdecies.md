@@ -144,17 +144,13 @@ mentionnés aux II et III.
 Le présent V n'est pas applicable lorsque la quote-part des bénéfices exonérée
 est inférieure à 500 €.
 
-VI.-Pour les entreprises soumises à l'impôt sur les sociétés, les abattements
-prévus aux II et III se cumulent avec celui prévu à l'article 217 bis.
+VI.-Les abattements prévus aux II et III s'imputent sur les résultats des
+exploitations déclarés en application de l'article 53 A .
 
-Les abattements prévus aux II et III s'imputent sur les résultats des
-exploitations déclarés en application de l'article 53 A avant imputation de
-celui prévu à l'article 217 bis.
-
-Le cas échéant, les abattements prévus aux II et III et à l'article 217 bis
-s'imputent sur les résultats des exploitations déclarés en application de
-l'article 53 A avant réintégration, en application du quatrième alinéa du V, de
-la quote-part des bénéfices exonérée au titre de l'exercice précédent.
+Le cas échéant, les abattements prévus aux II et III s'imputent sur les
+résultats des exploitations déclarés en application de l'article 53 A avant
+réintégration, en application du quatrième alinéa du V, de la quote-part des
+bénéfices exonérée au titre de l'exercice précédent.
 
 La quote-part des bénéfices exonérée au titre d'un exercice, mentionnée au
 quatrième alinéa du V, s'entend du seul montant réel de l'abattement imputé en

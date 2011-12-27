@@ -7,9 +7,10 @@ l'article L. 2334-6, perçus l'année précédente par la commune et par les
 établissements publics de coopération intercommunale sur le territoire de
 celle-ci ;
 
--d'autre part, son potentiel fiscal, tel qu'il est défini à l'article L. 2334-4,
-à l'exception de la part de ce potentiel correspondant à la taxe
-professionnelle.
+-d'autre part, la fraction de son potentiel fiscal défini à l'article L. 2334-4
+relative à la taxe d'habitation, la taxe foncière sur les propriétés bâties, la
+taxe foncière sur les propriétés non bâties et la taxe additionnelle à la taxe
+foncière sur les propriétés non bâties.
 
 Le taux moyen pondéré d'une commune est égal au rapport entre la somme des
 produits des trois taxes directes locales visées aux a, b et c de l'article L.

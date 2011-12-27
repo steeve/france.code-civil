@@ -147,7 +147,7 @@ opérations en cours à la clôture d'un exercice ne sont déductibles des résu
 de cet exercice qu'à concurrence de la perte qui est égale à l'excédent du coût
 de revient des travaux exécutés à la clôture du même exercice sur le prix de
 vente de ces travaux compte tenu des révisions contractuelles certaines à cette
-date.S'agissant des produits en stock à la clôture d'un exercice, les dépenses
+date. S'agissant des produits en stock à la clôture d'un exercice, les dépenses
 non engagées à cette date en vue de leur commercialisation ultérieure ne
 peuvent, à la date de cette clôture, être retenues pour l'évaluation de ces
 produits en application des dispositions du 3 de l'article 38, ni faire l'objet
@@ -169,7 +169,7 @@ Pour les entreprises dont l'objet principal est de faire subir en France la
 première transformation au pétrole brut, le montant de la provision pour
 fluctuation des cours ne peut excéder 69 % de la limite maximale de la provision
 calculée conformément aux dispositions législatives et réglementaires en
-vigueur.L'excédent éventuel de la provision antérieurement constituée, par
+vigueur. L'excédent éventuel de la provision antérieurement constituée, par
 rapport à la nouvelle limite maximale calculée à la clôture du premier exercice
 auquel elle s'applique, est rapporté au bénéfice imposable de cet exercice. Ces
 dispositions s'appliquent pour la détermination des résultats des exercices clos
@@ -421,7 +421,7 @@ Il en est de même du versement libératoire prévu au IV de l'article 14 de la 
 n° 2005-781 du 13 juillet 2005 de programme fixant les orientations de la
 politique énergétique.
 
-2 bis.A compter de l'entrée en vigueur sur le territoire de la République de la
+2 bis. A compter de l'entrée en vigueur sur le territoire de la République de la
 convention sur la lutte contre la corruption d'agents publics étrangers dans les
 transactions commerciales internationales, les sommes versées ou les avantages
 octroyés, directement ou par des intermédiaires, au profit d'un agent public au
@@ -483,7 +483,7 @@ l'entretien des demeures historiques classées, inscrites à l'inventaire
 supplémentaire des monuments historiques ou agréésou des résidences servant
 d'adresse ou de siège de l'entreprise en application des articles L. 123-10 et
 L. 123-11-1 du code de commerce, ou des résidences faisant partie intégrante
-d'un établissement de production et servant à l'accueil de la clientèle. (1)
+d'un établissement de production et servant à l'accueil de la clientèle.
 
 5. Sont également déductibles les dépenses suivantes :
 
@@ -541,14 +541,14 @@ Elle doit être indiquée distinctement dans le contrat de crédit-bail.
 Un décret fixe les modalités d'application de ces dispositions, notamment les
 obligations déclaratives.
 
-9.L'indemnité de congé payé correspondant aux droits acquis durant la période
+9. L'indemnité de congé payé correspondant aux droits acquis durant la période
 neutralisée définie ci-après, calculée dans les conditions prévues aux articles
 L. 3141-22 à L. 3141-25 du code du travail, n'est pas déductible. Cette période
 neutralisée est celle qui est retenue pour le calcul de l'indemnité afférente
 aux droits acquis et non utilisés à l'ouverture du premier exercice clos à
 compter du 31 décembre 1987 ; sa durée ne peut être inférieure à celle de la
 période d'acquisition des droits à congé payé non utilisés à la clôture de cet
-exercice.L'indemnité correspondant à ces derniers droits est considérée comme
+exercice. L'indemnité correspondant à ces derniers droits est considérée comme
 déduite du point de vue fiscal.
 
 Ces dispositions s'appliquent aux charges sociales et fiscales attachées à ces
@@ -577,7 +577,7 @@ avait été propriétaire du bien objet du contrat.
 Pour l'application du premier alinéa, le loyer est réputé affecté au financement
 des différents éléments dans l'ordre suivant :
 
-a.D'abord aux frais supportés par le crédit-bailleur lors de l'acquisition de
+a. D'abord aux frais supportés par le crédit-bailleur lors de l'acquisition de
 l'immeuble ;
 
 b. Ensuite aux éléments amortissables ;
@@ -610,23 +610,24 @@ inférieur à leur coût de revient ;
 2° Le dispositif prévu au 1° s'applique aux opérations effectuées dans le cadre
 d'un accord conclu, selon les modalités prévues aux articles L. 3322-6 et L.
 3322-7 du code du travail, du 1er janvier 2001 au 31 décembre 2005, sur option
-exercée dans le document formalisant l'accord.L'attribution, la mise à
+exercée dans le document formalisant l'accord. L'attribution, la mise à
 disposition ou la fourniture effective aux bénéficiaires des biens ou
 prestations de services doit s'effectuer dans les douze mois de la conclusion de
 l'accord précité.
 
 12. Lorsqu'il existe des liens de dépendance entre l'entreprise concédante et
-l'entreprise concessionnaire et que l'entreprise concessionnaire n'exploite pas
-de manière effective, notamment dans les cas prévus aux a et b de l'article L.
-613-11 du code de la propriété intellectuelle, les brevets, inventions
-brevetables, y compris les perfectionnements qui y ont été apportés, ou les
-procédés de fabrication industriels satisfaisant aux conditions prévues aux a à
-c du 1 de l'article 39 terdecies qui lui ont été concédés, le montant des
-redevances n'est déductible du résultat imposable de l'entreprise
-concessionnaire que dans le rapport existant entre le taux réduit prévu au
-cinquième alinéa du I de l'article 219 et le taux normal prévu au deuxième
-alinéa du même I. La concession par le concessionnaire constitue un mode
-d'exploitation effective d'une licence.
+l'entreprise concessionnaire, le montant des redevances prises en compte pour le
+calcul du résultat net imposable selon le régime mentionné au 1 de l'article 39
+terdecies n'est déductible du résultat imposable de l'entreprise concessionnaire
+que dans le rapport existant entre le taux réduit prévu au deuxième alinéa du a
+du I de l'article 219 et le taux normal prévu au deuxième alinéa du même I. Le
+présent alinéa n'est pas applicable lorsque l'entreprise concessionnaire
+apporte, dans le cadre de la documentation mentionnée à l'avant-dernière phrase
+du dixième alinéa de l'article 39 terdecies, la preuve que l'exploitation de la
+licence ou du procédé concédé, d'une part, lui crée, sur l'ensemble de la
+période de concession, une valeur ajoutée et, d'autre part, est réelle et ne
+peut être regardée comme constitutive d'un montage artificiel dont le but serait
+de contourner la législation fiscale française.
 
 Des liens de dépendance sont réputés exister entre deux entreprises :
 
@@ -637,3 +638,25 @@ b-lorsqu'elles sont placées l'une et l'autre, dans les conditions définies au 
 sous le contrôle d'une même tierce entreprise.
 
 (Alinéa disjoint).
+
+12 bis. Le montant des redevances dues par une entreprise concédant une licence
+ou un procédé pris en concession n'est déductible que du résultat net de cette
+entreprise imposable selon le régime mentionné au 1 de l'article 39 terdecies.
+
+L'excédent éventuel du montant total des redevances sur le résultat net
+mentionné au premier alinéa du présent 12 bis n'est déductible du résultat
+imposable de l'entreprise mentionnée au même premier alinéa que dans le rapport
+existant entre le taux réduit prévu au deuxième alinéa du a du I de l'article
+219 et le taux normal prévu au deuxième alinéa du même I.
+
+Une fraction égale à [18,1/3]/ [33,1/3] du montant des redevances déduites du
+résultat imposable au taux normal et afférentes à des licences et procédés
+donnés en concession au cours d'un exercice ultérieur est rapportée au résultat
+imposable au taux normal de l'exercice en cours à la date à laquelle
+l'entreprise qui en est concessionnaire les concède, sauf si cette entreprise
+satisfait à la condition mentionnée à la seconde phrase du premier alinéa du 12
+à raison de la période couverte par les exercices au cours desquels ces
+redevances ont été déduites au taux normal. Le présent alinéa est applicable au
+montant des redevances déduites au cours des exercices couvrant l'une des trois
+années précédant la date à laquelle l'entreprise concessionnaire concède les
+licences ou procédés.

@@ -10,11 +10,7 @@ dispositions du 2 de l'article 39 quinquies A et du II de l'article 217 undecies
 à raison des sommes versées pour la souscription au capital d'autres sociétés du
 même groupe sont réintégrées au résultat d'ensemble.
 
-4. Si les résultats d'une société du groupe sont imposables selon les modalités
-prévues à l'article 217 bis, les sommes qui leur sont ajoutées ou retranchées
-pour la détermination du résultat ou de la plus-value ou de la moins-value nette
-à long terme d'ensemble, ne sont retenues que pour les deux tiers de leur
-montant.
+4. (Abrogé).
 
 5. Pour le calcul de la participation et de la réserve spéciale de participation
 prévues par les articles L. 3321-1 à L. 3326-2 du code du travail, chaque
@@ -62,13 +58,13 @@ d. Si, au cours d'un exercice, le capital d'une société mère définie aux
 premier, deuxième ou troisième alinéas de l'article 223 A vient à être détenu,
 directement ou indirectement par l'intermédiaire de sociétés soumises à l'impôt
 sur les sociétés dans les conditions de droit commun ou selon les modalités
-prévues aux articles 214 et 217 bis, (1) à 95 % au moins par une autre personne
-morale passible de l'impôt sur les sociétés, ce capital est réputé avoir été
-détenu selon les modalités prévues à la troisième phrase du premier alinéa de
-cet article si le pourcentage de 95 % n'est plus atteint à la clôture de
-l'exercice à la condition que les sociétés concernées indiquent à
-l'administration les modalités de l'opération et ses justifications juridiques,
-économiques ou sociales.
+prévues à l'article 214, (1) à 95 % au moins par une autre personne morale
+passible de l'impôt sur les sociétés, ce capital est réputé avoir été détenu
+selon les modalités prévues à la troisième phrase du premier alinéa de cet
+article si le pourcentage de 95 % n'est plus atteint à la clôture de l'exercice
+à la condition que les sociétés concernées indiquent à l'administration les
+modalités de l'opération et ses justifications juridiques, économiques ou
+sociales.
 
 Si ce pourcentage est encore atteint à cette date, la société mère demeure seule
 redevable de l'impôt dû sur le résultat d'ensemble du groupe afférent à cet
@@ -165,7 +161,7 @@ accompagnée du document mentionné au premier alinéa du c.
 
 La durée du premier exercice des sociétés du groupe ainsi formé peut être
 inférieure ou supérieure à douze mois, sans préjudice de l'application de
-l'article 37. L'option mentionnée au deuxième alinéa comporte l'indication de la
+l'article 37.L'option mentionnée au deuxième alinéa comporte l'indication de la
 durée de cet exercice.
 
 Le présent h s'applique également lorsque le capital des sociétés qui y sont
@@ -180,13 +176,13 @@ i) Lorsque le capital d'une société mère définie aux premier, deuxième ou
 troisième alinéas de l'article 223 A est détenu ou vient à être détenu,
 directement ou indirectement, par l'intermédiaire de sociétés intermédiaires et,
 le cas échéant, de sociétés soumises à l'impôt sur les sociétés dans les
-conditions de droit commun ou selon les modalités prévues aux articles 214 et
-217 bis, à 95 % au moins par une autre personne morale passible de l'impôt sur
-les sociétés qui remplit les conditions prévues au premier, deuxième ou
-troisième alinéa de l'article 223 A, cette personne morale peut, sous réserve
-des dispositions de ce même article, constituer un groupe avec les sociétés qui
-composent celui qui a été formé par la société mère concernée ou faire entrer
-celles-ci dans le groupe dont elle est déjà membre.
+conditions de droit commun ou selon les modalités prévues à l'article 214, à 95
+% au moins par une autre personne morale passible de l'impôt sur les sociétés
+qui remplit les conditions prévues au premier, deuxième ou troisième alinéa de
+l'article 223 A, cette personne morale peut, sous réserve des dispositions de ce
+même article, constituer un groupe avec les sociétés qui composent celui qui a
+été formé par la société mère concernée ou faire entrer celles-ci dans le groupe
+dont elle est déjà membre.
 
 Dans cette situation, l'option prévue au premier, deuxième ou troisième alinéa
 de l'article 223 A est exercée au plus tard à l'expiration du délai prévu au

@@ -26,10 +26,14 @@ dans un plan d'épargne en actions ainsi que le montant des produits de placemen
 soumis aux prélèvements libératoires prévus aux articles 117 quater et 125 A, le
 montant des prestations de retraite soumis au prélèvement libératoire prévu au
 II de l'article 163 bis, le montant des gains nets exonérés en application du I
-bis de l'article 150-0 A, le montant de l'abattement mentionné à l'article 150-0
-D bis, les revenus exonérés en application des articles 163 quinquies B à 163
-quinquies C bis et les plus-values exonérées en application du 3 du I et des 1,1
-bis et 7 du III de l'article 150-0 A.
+bis de l'article 150-0 A, le montant des plus-values en report d'imposition en
+application du I de l'article
+
+150-0 D bis, les revenus exonérés en application des articles 163 quinquies B à
+163 quinquies C bis , le montant des plus-values exonérées en application du 1°
+bis du II de l'article 150 U, les plus-values exonérées en application du 3 du I
+et des 1,1 bis et 7 du III de l'article 150-0 A et le montant net imposable des
+plus-values mentionnées aux articles 150 U à 150 UD.
 
 1 bis. Les époux doivent conjointement signer la déclaration d'ensemble des
 revenus de leur foyer.

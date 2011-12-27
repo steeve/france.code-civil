@@ -3,8 +3,8 @@ Article L4425-4
 L'Etat verse à la collectivité territoriale de Corse un concours individualisé
 au sein de la dotation générale de décentralisation de la collectivité
 territoriale de Corse, intitulé : "dotation de continuité territoriale", dont le
-montant évolue comme la dotation globale de fonctionnement. A titre dérogatoire,
-cette évolution ne s'applique pas en 2009, en 2010 et en 2011.
+montant évolue comme la dotation globale de fonctionnement. Cette évolution ne
+s'applique pas à compter de 2009.
 
 Ce concours est consacré à la mise en oeuvre des dispositions des articles L.
 4424-18 et L. 4424-19.

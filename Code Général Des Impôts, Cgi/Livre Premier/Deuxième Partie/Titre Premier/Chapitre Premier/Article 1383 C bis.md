@@ -8,12 +8,13 @@ l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
 l'aménagement et le développement du territoire sont exonérés de taxe foncière
 sur les propriétés bâties pour une durée de cinq ans. Le bénéfice des
 exonérations prenant effet en 2006 dans les zones mentionnées au deuxième alinéa
-du B du 3 de l'article 42 de la même loi est subordonné au respect du règlement
-(CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant
-l'application des articles 87 et 88 du traité aux aides de minimis.
+du B du 3 de l'article 42 de la même loi, et de celles prenant effet à compter
+de 2013 dans les zones franches urbaines définies au même B, est subordonné au
+respect du règlement (CE) n° 1998 /2006 de la Commission du 15 décembre 2006
+concernant l'application des articles 87 et 88 du traité aux aides de minimis.
 
 L'exonération s'applique aux immeubles rattachés, entre le 1er janvier 2006 et
-le 31 décembre 2011 inclus, à un établissement remplissant les conditions pour
+le 31 décembre 2014 inclus, à un établissement remplissant les conditions pour
 bénéficier de l'exonération de cotisation foncière des entreprises prévue au I
 sexies de l'article 1466 A.
 

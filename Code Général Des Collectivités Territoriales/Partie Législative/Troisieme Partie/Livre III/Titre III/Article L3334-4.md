@@ -11,6 +11,11 @@ prévue à l'article L. 3334-3 et de la dotation de compensation prévue à
 l'article L. 3334-7-1 est répartie par le comité des finances locales entre la
 dotation de péréquation urbaine et la dotation de fonctionnement minimale, sous
 réserve en 2005 des dispositions du quatrième alinéa de l'article L. 3334-7.
+Dans les conditions prévues au quatrième alinéa de l'article L. 3334-3, le
+comité des finances locales peut majorer les montants consacrés à l'augmentation
+de la dotation de péréquation urbaine et de la dotation de fonctionnement
+minimale d'un montant ne pouvant excéder 5 % des ressources affectées l'année
+précédente au titre de chacune des deux dotations.
 
 Pour l'application du précédent alinéa en 2005, la masse à laquelle s'applique
 le choix du comité des finances locales est constituée, pour la dotation de
@@ -37,8 +42,14 @@ démographiques prévues au premier alinéa de l'article L. 3334-6-1 pour être
 considéré comme urbain, le montant total de la dotation de péréquation urbaine
 est majoré du montant qu'il a perçu l'année précédente au titre de la dotation
 de fonctionnement minimale, le montant total de celle-ci étant diminué à due
-concurrence.A l'inverse, lorsqu'un département ne remplit plus pour la première
-année les conditions prévues au premier alinéa de l'article L. 3334-6-1, le
-montant total de la dotation de péréquation urbaine est minoré du montant qu'il
-a perçu l'année précédente à ce titre, la dotation de fonctionnement minimale
-étant majorée à due concurrence.
+concurrence. La dotation de péréquation urbaine perçue par ce département ne
+peut être inférieure au montant de dotation de fonctionnement minimale perçu
+l'année précédente.
+
+La première année où un département ne remplit plus les conditions prévues au
+même premier alinéa de l'article L. 3334-6-1, le montant total de la dotation de
+péréquation urbaine est minoré du montant qu'il a perçu l'année précédente à ce
+titre, la dotation de fonctionnement minimale étant majorée à due concurrence.
+La dotation de fonctionnement minimale perçue par ce département ne peut être
+inférieure au montant de dotation de péréquation urbaine perçu l'année
+précédente.

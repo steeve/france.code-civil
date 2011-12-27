@@ -35,6 +35,38 @@ accord sont réputés acquis ainsi que, le cas échéant, les catégories
 d'installations pour lesquelles, en raison de leurs caractéristiques techniques,
 ils ne sont pas requis.
 
+I bis. ― Il est institué, au profit de l'Agence nationale des fréquences, une
+taxe destinée à couvrir les coûts complets engagés par cet établissement pour le
+recueil et le traitement des réclamations des usagers de services de
+communication audiovisuelle relatives aux brouillages causés par la mise en
+service des stations radioélectriques dans la bande de fréquences 790-862 MHz.
+Ne sont pris en considération que les brouillages causés à la réception de
+services de communication audiovisuelle diffusés par les stations d'émission
+prévues dans les autorisations d'usage de la ressource radioélectrique délivrées
+par le Conseil supérieur de l'audiovisuel antérieurement à la mise en service
+des stations mentionnées à la première phrase du présent alinéa.
+
+Le montant global de taxe à recouvrer est réparti, dans la limite de 2 millions
+d'euros par an, entre les titulaires d'autorisation d'utilisation de fréquences
+de la bande mentionnée au premier alinéa, selon une clef de répartition définie
+par bloc de fréquences et correspondant à la part des brouillages susceptibles
+d'être causés par l'utilisation de chacun des blocs qui leur sont attribués. Les
+redevables acquittent en début d'année la taxe due au titre de l'année civile
+précédente auprès de l'agent comptable de l'Agence nationale des fréquences,
+dans un délai de trente jours à compter de l'émission du titre de recettes
+correspondant à la liquidation de la taxe.
+
+Pour l'application du présent I bis, les titulaires d'autorisation d'utilisation
+de fréquences mentionnés au deuxième alinéa informent l'Autorité de régulation
+des communications électroniques et des postes, le Conseil supérieur de
+l'audiovisuel et l'Agence nationale des fréquences de la date effective de mise
+en service de chaque station radioélectrique dans la bande de fréquences 790-862
+MHz.
+
+Les modalités d'application du présent article, notamment la clef de répartition
+entre les titulaires d'autorisation d'utilisation de chacun des blocs de
+fréquences, sont précisées par décret en Conseil d'Etat.
+
 II.-L'Agence nationale des fréquences peut, pour ce qui concerne le contrôle de
 l'utilisation des fréquences et de manière proportionnée aux besoins liés à
 l'accomplissement de ses missions :
@@ -118,10 +150,10 @@ administrative et financière de l'agence. Il représente l'établissement en
 justice.
 
 V.-Les ressources de l'agence comprennent la rémunération des services rendus,
-les revenus du portefeuille, les subventions publiques, ainsi que le produit des
-dons et legs. L'agence perçoit au bénéfice du fonds de réaménagement du spectre
-les contributions des personnes publiques ou privées versées à des fins de
-réaménagement du spectre.
+les revenus du portefeuille, les subventions publiques, le produit de la taxe
+mentionnée au I bis, ainsi que le produit des dons et legs. L'agence perçoit au
+bénéfice du fonds de réaménagement du spectre les contributions des personnes
+publiques ou privées versées à des fins de réaménagement du spectre.
 
 VI.-Un décret en Conseil d'Etat fixe les modalités d'application du présent
 article. Il précise notamment les missions, l'organisation et les conditions du

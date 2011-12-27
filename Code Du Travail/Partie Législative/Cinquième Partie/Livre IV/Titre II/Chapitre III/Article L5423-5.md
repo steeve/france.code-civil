@@ -1,12 +1,7 @@
 Article L5423-5
 ----
-L'allocation de solidarité spécifique est incessible et insaisissable.
-
-Tout paiement indu de l'allocation peut, si l'allocataire n'en conteste pas le
-caractère indu, être récupéré par retenue sur le montant de l'allocation à
-échoir ou par remboursement de la dette selon des modalités déterminées par voie
-réglementaire. Les retenues ne peuvent dépasser un pourcentage déterminé par
-voie réglementaire.
+Sous réserve des dispositions prévues aux articles L. 5426-8-1 à L. 5426-8-3,
+l'allocation de solidarité spécifique est incessible et insaisissable.
 
 Les blocages de comptes courants de dépôts ou d'avances ne peuvent avoir pour
 effet de faire obstacle à son insaisissabilité.

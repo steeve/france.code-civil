@@ -1,8 +1,8 @@
 Article L2334-3
 ----
-Pour l'application des articles L. 2334-5, L. 2334-14-1 et L. 2334-20 à L.
-2334-23, les communes sont classées par groupes démographiques déterminés en
-fonction de l'importance de leur population. Les groupes démographiques sont
+Pour l'application des articles L. 2334-5, L. 2334-7, L. 2334-14-1 et L. 2334-20
+à L. 2334-23, les communes sont classées par groupes démographiques déterminés
+en fonction de l'importance de leur population. Les groupes démographiques sont
 définis ainsi qu'il suit :
 
 -communes de 0 à 499 habitants ;

@@ -36,8 +36,15 @@ d'un taux correspondant à l'écart entre le montant total à verser en 2009 au
 titre de l'ensemble des compensations mentionnées aux I à VIII de l'article 47
 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 et le montant
 total de ces mêmes compensations prévu à cette fin pour 2010 par le IX de ce
-même article. Au titre de 2011, les compensations calculées en application du
-présent article et auxquelles sont appliqués le taux d'évolution fixé au titre
-de 2009 et le taux d'évolution fixé au titre de 2010 sont minorées par
-application du taux défini au IV de l'article 51 de la loi n° 2010-1657 du 29
-décembre 2010 de finances pour 2011.
+même article.
+
+Au titre de 2011, les compensations calculées en application du présent article
+et auxquelles sont appliqués le taux d'évolution fixé au titre de 2009 et le
+taux d'évolution fixé au titre de 2010 sont minorées par application du taux
+défini au IV de l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de
+finances pour 2011.
+
+Au titre de 2012, les mêmes compensations, auxquelles sont appliqués les taux
+d'évolution fixés au titre de 2009,2010 et 2011, sont minorées par application
+du taux prévu pour 2012 au III de l'article 33 de la loi n° 2011-1977 du 28
+décembre 2011 de finances pour 2012.

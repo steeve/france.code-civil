@@ -12,9 +12,9 @@ est inaliénable et incessible, sauf dans les conditions prévues aux articles L
 313-23 à L. 313-35 du code monétaire et financier.
 
 La part du crédit d'impôt obtenu au titre des dépenses mentionnées au III de
-l'article 220 quaterdecies n'ayant pas reçu, dans un délai maximum de douze mois
-à compter de la date des derniers travaux exécutés en France, l'agrément
-définitif du président du Centre national du cinéma et de l'image animée
-certifiant que l'œuvre cinématographique ou audiovisuelle a rempli les
+l'article 220 quaterdecies n'ayant pas reçu, dans un délai maximum de
+vingt-quatre mois à compter de la date des derniers travaux exécutés en France,
+l'agrément définitif du président du Centre national du cinéma et de l'image
+animée certifiant que l'œuvre cinématographique ou audiovisuelle a rempli les
 conditions visées au II de l'article 220 quaterdecies fait l'objet d'un
 reversement.

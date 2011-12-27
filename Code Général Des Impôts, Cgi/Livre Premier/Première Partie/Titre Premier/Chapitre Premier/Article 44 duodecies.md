@@ -1,7 +1,7 @@
 Article 44 duodecies
 ----
 I.-Les contribuables qui créent des activités entre le 1er janvier 2007 et le 31
-décembre 2011 dans les bassins d'emploi à redynamiser définis au 3 bis de
+décembre 2013 dans les bassins d'emploi à redynamiser définis au 3 bis de
 l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
 l'aménagement et le développement du territoire sont exonérés d'impôt sur le
 revenu ou d'impôt sur les sociétés à raison des bénéfices provenant des

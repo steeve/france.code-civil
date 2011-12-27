@@ -19,7 +19,9 @@ d) les concerts symphoniques et autres, les orchestres divers et les chorales ;
 
 e) les théâtres de marionnettes, les cabarets artistiques, les café-concerts,
 les music-halls et cirques à l'exclusion des établissements où il est d'usage de
-consommer pendant les séances.
+consommer pendant les séances ;
+
+f) Les spectacles musicaux et de variétés.
 
 L'exonération ne bénéficie pas aux entreprises donnant des représentations
 mentionnées au 2° de l'article 279 bis.

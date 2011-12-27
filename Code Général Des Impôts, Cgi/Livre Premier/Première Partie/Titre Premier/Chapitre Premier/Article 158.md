@@ -44,6 +44,11 @@ b. Aux produits des actions des sociétés mentionnées au 1° bis A de l'articl
 208 et des sociétés d'investissement de même nature établies hors de France et
 soumises à un régime fiscal équivalent ;
 
+b bis) Aux bénéfices exonérés distribués par les sociétés d'investissements
+immobiliers cotées mentionnées à l'article 208 C ou par les sociétés de
+placement à prépondérance immobilière à capital variable mentionnées au 3°
+nonies de l'article 208 ;
+
 c. Aux revenus distribués qui ne constituent pas la rémunération du bénéficiaire
 en sa qualité d'associé ou d'actionnaire. Pour l'application de cette
 disposition, est considéré comme actionnaire ou associé le preneur bénéficiaire
@@ -93,8 +98,8 @@ L'application de ces dispositions est conditionnée à la ventilation par les
 organismes ou sociétés en cause de leurs distributions ou répartitions en
 fonction de leur nature et origine ;
 
-5° Il est opéré un abattement annuel de 1 525 Euros pour les contribuables
-célibataires, divorcés ou veufs et de 3 050 Euros pour les contribuables mariés
+5° Il est opéré un abattement annuel de 1 525 € pour les contribuables
+célibataires, divorcés ou veufs et de 3 050 € pour les contribuables mariés
 soumis à une imposition commune sur le montant net des revenus déterminé dans
 les conditions du 2° et après déduction des dépenses effectuées en vue de leur
 acquisition ou conservation.

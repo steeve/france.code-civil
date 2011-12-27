@@ -2,7 +2,7 @@ Article L5211-33
 ----
 I. Les communautés de communes et les communautés d'agglomération ne peuvent
 percevoir, à compter de la troisième année d'attribution de la dotation dans la
-même catégorie, une attribution par habitant inférieure à 80 % de la dotation
+même catégorie, une attribution par habitant inférieure à 90 % de la dotation
 par habitant perçue l'année précédente.
 
 De 2000 à 2002, les communautés urbaines ne faisant pas application des
@@ -21,6 +21,16 @@ communautés urbaines existantes l'année de promulgation de la loi n° 99-586 d
 coopération intercommunale ne peuvent percevoir en 2000 une dotation par
 habitant supérieure à 1,5 fois la dotation par habitant qu'elles percevaient
 l'année précédant leur transformation.
+
+A compter de 2012, une communauté de communes ou une communauté d'agglomération
+qui ne change pas de catégorie de groupement après le 1er janvier de l'année
+précédant celle au titre de laquelle la dotation d'intercommunalité est perçue
+ne peut bénéficier d'une attribution par habitant au titre de la dotation
+d'intercommunalité supérieure à 120 % du montant perçu au titre de l'année
+précédente. Lorsque la dotation d'intercommunalité d'un établissement public de
+coopération intercommunale a fait l'objet de l'abattement prévu au premier
+alinéa de l'article L. 5211-32, le montant à prendre en compte pour
+l'application du présent alinéa est celui calculé avant cet abattement.
 
 II. Toutefois :
 

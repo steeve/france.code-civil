@@ -1,6 +1,6 @@
 Article 44 octies A
 ----
-I.-Les contribuables qui, entre le 1er janvier 2006 et le 31 décembre 2011,
+I.-Les contribuables qui, entre le 1er janvier 2006 et le 31 décembre 2014,
 créent des activités dans les zones franches urbaines définies au B du 3 de
 l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
 l'aménagement et le développement du territoire, ainsi que ceux qui, entre le
@@ -12,7 +12,7 @@ décembre 2010 pour les contribuables qui y exercent déjà une activité au 1er
 janvier 2006 ou, dans le cas contraire, jusqu'au terme du cinquante-neuvième
 mois suivant celui du début de leur activité dans l'une de ces zones. Ces
 bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à
-concurrence de 40 %,60 % ou 80 % de leur montant selon qu'ils sont réalisés
+concurrence de 40 %, 60 % ou 80 % de leur montant selon qu'ils sont réalisés
 respectivement au cours des cinq premières, de la sixième et septième ou de la
 huitième et neuvième périodes de douze mois suivant cette période d'exonération.
 
@@ -49,7 +49,7 @@ exclues les activités de crédit-bail mobilier et de location d'immeubles à us
 d'habitation.
 
 Pour l'application des a et b, le chiffre d'affaires doit être ramené ou porté
-le cas échéant à douze mois.L'effectif de l'entreprise est apprécié par
+le cas échéant à douze mois. L'effectif de l'entreprise est apprécié par
 référence au nombre moyen de salariés employés au cours de cet exercice. Pour la
 société mère d'un groupe mentionné à l'article 223 A, le chiffre d'affaires est
 apprécié en faisant la somme des chiffres d'affaires de chacune des sociétés
@@ -77,7 +77,7 @@ affectés à l'activité, ou si ce contribuable réalise au moins 25 % de son
 chiffre d'affaires auprès de clients situés dans les zones franches urbaines.
 
 II.-L'exonération s'applique au bénéfice d'un exercice ou d'une année
-d'imposition, déclaré selon les modalités prévues aux articles 50-0,53 A,96 à
+d'imposition, déclaré selon les modalités prévues aux articles 50-0,53 A, 96 à
 100,102 ter et 103, diminué des produits bruts ci-après qui restent imposables
 dans les conditions de droit commun :
 
@@ -115,19 +115,36 @@ activité de location d'immeubles n'est exonéré qu'à raison des bénéfices
 provenant des seuls immeubles situés dans une zone franche urbaine. Cette
 disposition s'applique quel que soit le lieu d'établissement du bailleur.
 
-Le bénéfice exonéré ne peut excéder 100 000 Euros par contribuable et par
-période de douze mois, majoré de 5 000 Euros par nouveau salarié embauché à
-compter du 1er janvier 2006 domicilié dans une zone urbaine sensible ou dans une
-zone franche urbaine et employé à temps plein pendant une période d'au moins six
-mois. Cette condition est appréciée à la clôture de l'exercice ou de la période
-d'imposition au titre duquel ou de laquelle l'exonération s'applique.
+Le bénéfice exonéré ne peut excéder 100 000 € par contribuable et par période de
+douze mois, majoré de 5 000 € par nouveau salarié embauché à compter du 1er
+janvier 2006 domicilié dans une zone urbaine sensible ou dans une zone franche
+urbaine et employé à temps plein pendant une période d'au moins six mois. Cette
+condition est appréciée à la clôture de l'exercice ou de la période d'imposition
+au titre duquel ou de laquelle l'exonération s'applique.
+
+Pour les contribuables qui créent des activités dans une zone franche urbaine à
+compter du 1er janvier 2012 et emploient au moins un salarié au cours de
+l'exercice ou de la période d'imposition au titre desquels l'exonération
+s'applique, le bénéfice de l'exonération est subordonné à la condition que
+l'entreprise ait bénéficié de l'exonération prévue à l'article 12 de la loi n°
+96-987 du 14 novembre 1996 relative à la mise en œuvre du pacte de relance pour
+la ville. Cette condition est appréciée à la clôture de l'exercice ou de la
+période d'imposition au titre desquels l'exonération s'applique. Lorsque le
+contribuable n'a pas bénéficié de l'exonération mentionnée au même article 12 de
+façon permanente au cours d'un exercice ou d'une période d'imposition, le
+bénéfice exonéré est corrigé proportionnellement à la période au cours de
+laquelle l'exonération mentionnée audit article 12 s'est appliquée. Lorsque le
+bénéfice est exonéré partiellement, les montants de 100 000 € et de 5 000 €
+mentionnés au huitième alinéa du présent II sont ajustés dans les mêmes
+proportions que le bénéfice exonéré.
 
 Pour les contribuables qui exercent des activités avant le 1er janvier 2006 dans
 les zones franches urbaines définies au deuxième alinéa du B du 3 de l'article
-42 de la loi n° 95-115 du 4 février 1995 précitée, le bénéfice de l'exonération
-est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission du 15
-décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides
-de minimis.
+42 de la loi n° 95-115 du 4 février 1995 précitée, ainsi que pour ceux qui, à
+compter du 1er janvier 2012, créent des activités dans les zones franches
+urbaines définies au même B, le bénéfice de l'exonération est subordonné au
+respect du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006
+concernant l'application des articles 87 et 88 du traité aux aides de minimis.
 
 III.-Lorsque le contribuable mentionné au I est une société membre d'un groupe
 fiscal mentionné à l'article 223 A, le bénéfice exonéré est celui de cette
@@ -144,7 +161,7 @@ prévu au présent article, le contribuable peut opter pour ce dernier régime d
 les six mois qui suivent la publication du décret en Conseil d'Etat procédant à
 la délimitation de la zone conformément à l'article 42 de la loi n° 95-115 du 4
 février 1995 précitée, s'il y exerce déjà son activité ou, dans le cas
-contraire, dans les six mois suivant celui du début d'activité.L'option est
+contraire, dans les six mois suivant celui du début d'activité. L'option est
 irrévocable.
 
 IV.-Les obligations déclaratives des personnes et organismes auxquels s'applique

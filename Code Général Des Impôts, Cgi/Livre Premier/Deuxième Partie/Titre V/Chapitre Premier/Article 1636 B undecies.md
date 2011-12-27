@@ -23,7 +23,7 @@ intercommunale ayant institué la taxe peut, pour une période qui ne peut excé
 dix ans, voter des taux différents sur son périmètre, afin de limiter les
 hausses de cotisations liées à l'harmonisation du mode de financement. Cette
 dérogation peut également être mise en œuvre en cas de rattachement d'une ou
-plusieurs communes.L'établissement public de coopération intercommunale décide,
+plusieurs communes. L'établissement public de coopération intercommunale décide,
 dans les conditions prévues au 1 du II de l'article 1639 A bis, de l'application
 de ce dispositif et de la délimitation des zones sur lesquelles des taux
 différents sont votés.
@@ -58,3 +58,13 @@ postérieurement au 15 octobre, les zones de perception en fonction de
 l'importance du service rendu instituées par le syndicat avant sa transformation
 en communauté de communes restent applicables l'année qui suit cette
 transformation.
+
+5. Les communes et les établissements publics de coopération intercommunale
+ayant institué la part incitative de la taxe d'enlèvement des ordures ménagères
+conformément à l'article 1522 bis votent le tarif de cette part dans les
+conditions prévues à l'article 1639 A.
+
+6. La première année d'application des dispositions de l'article 1522 bis, le
+produit de la taxe d'enlèvement des ordures ménagères ne peut excéder le produit
+total de cette taxe tel qu'issu des rôles généraux au titre de l'année
+précédente.

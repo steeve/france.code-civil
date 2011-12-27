@@ -1,6 +1,6 @@
 Article 265
 ----
-1.-Les produits énergétiques repris aux tableaux B et C ci-après, mis en vente,
+1. Les produits énergétiques repris aux tableaux B et C ci-après, mis en vente,
 utilisés ou destinés à être utilisés comme carburant ou combustible sont
 passibles d'une taxe intérieure de consommation dont les tarifs sont fixés comme
 suit :
@@ -10,7 +10,7 @@ Tableau A (abrogé par l'article 43 de la loi de finances rectificative n°
 
 Tableau B : Produits pétroliers et assimilés.
 
-1. Nomenclature et tarif.
+1° Nomenclature et tarif.
 
 
 DÉSIGNATION DES PRODUITS
@@ -268,7 +268,7 @@ Hectolitre
 
 Hectolitre
 
-5,66
+7,20
 
 ----fioul domestique ;
 
@@ -557,7 +557,7 @@ Hectolitre
 
 17,29 à compter du 1er janvier 2011
 
-2. Règles d'application.
+2° Règles d'application.
 
 a) et b) (alinéas abrogés).
 
@@ -576,15 +576,15 @@ d) (alinéa abrogé).
 
 Tableau C : Autres produits énergétiques.
 
-1. Définition (division abrogée).
+1° Définition (division abrogée).
 
-2. Tarif et règles d'application.
+2° Tarif et règles d'application.
 
 Les produits visés au présent tableau sont exemptés de la taxe intérieure de
 consommation, sauf lorsqu'ils sont destinés à être utilisés comme carburant ou
 combustible.
 
-3. Nomenclature.
+3° Nomenclature.
 
 
 NUMÉROS DU TARIF DES DOUANES
@@ -688,7 +688,7 @@ affectée à chaque région et à la collectivité territoriale de Corse en vert
 I de l'article 40 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour
 2006 relatif à la compensation financière des transferts de compétences aux
 régions et de respectivement 1,77 euro par hectolitre pour le supercarburant
-mentionné aux indices d'identification 11 et 11 ter et 1, 15 euro par hectolitre
+mentionné aux indices d'identification 11 et 11 ter et 1,15 euro par hectolitre
 pour le gazole mentionné à l'indice d'identification 22.
 
 Les délibérations des conseils régionaux et de l'assemblée de Corse ne peuvent

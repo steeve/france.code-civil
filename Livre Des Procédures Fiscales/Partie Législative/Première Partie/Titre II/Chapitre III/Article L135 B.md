@@ -28,7 +28,9 @@ rôle, à l'exclusion des informations tenant à l'origine des rectifications
 opérées ;
 
 a bis) Le montant par impôt et par redevable des impôts directs non recouvrés
-par voie de rôle perçus à leur profit ;
+par voie de rôle perçus à leur profit, ainsi que l'ensemble des informations
+déclarées par le redevable intervenant dans le calcul du montant, notamment les
+effectifs salariés ;
 
 b) Le montant total, pour chaque impôt perçu à leur profit, des dégrèvements
 dont les contribuables de la collectivité ont bénéficié, à l'exception de ceux
@@ -51,7 +53,9 @@ vacants et le taux d'imposition à cette taxe.
 Les collectivités locales, les établissements publics de coopération
 intercommunale dotés d'une fiscalité propre et l'administration fiscale peuvent
 se communiquer mutuellement les informations nécessaires au recensement des
-bases des impositions directes locales.
+bases des impositions directes locales. De même, les collectivités locales et
+les établissements publics de coopération intercommunale peuvent se communiquer
+entre eux des informations fiscales sur leurs produits d'impôts.
 
 L'administration fiscale transmet chaque année aux collectivités territoriales
 et aux établissements publics de coopération intercommunale dotés d'une

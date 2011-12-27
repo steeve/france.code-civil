@@ -8,7 +8,9 @@ la population.
 
 Les départements urbains dont le potentiel financier par habitant est inférieur
 ou égal à 1,5 fois le potentiel financier moyen par habitant des départements
-urbains bénéficient d'une dotation de péréquation urbaine.
+urbains et dont le revenu par habitant est inférieur à 1,4 fois le revenu moyen
+par habitant des départements urbains bénéficient d'une dotation de péréquation
+urbaine.
 
 Il est calculé pour chaque département éligible un indice synthétique de
 ressources et de charges des départements urbains éligibles en tenant compte :
@@ -24,18 +26,18 @@ départements urbains ;
 
 3° Du rapport entre la proportion du total des bénéficiaires du montant
 forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et
-des famillesdans le département et cette même proportion constatée dans
+des familles dans le département et cette même proportion constatée dans
 l'ensemble des départements urbains, calculé en prenant en compte la population
-définie à l'article L. 3334-2 ;
+définie au premier alinéa de l'article L. 3334-2 ;
 
 4° Du rapport entre le revenu moyen par habitant de l'ensemble des départements
 urbains et le revenu par habitant du département, calculé en prenant en compte
-la population définie à l'article L. 3334-2. Le revenu pris en considération est
-le dernier revenu imposable connu.
+la population définie au premier alinéa de l'article L. 3334-2. Le revenu pris
+en considération est le dernier revenu imposable connu.
 
 Les départements sont classés en fonction de la valeur décroissante de leur
 indice synthétique, selon des modalités définies par décret en Conseil d'Etat et
-tenant compte des montants visés aux 1°,2°,3° et 4°.L'attribution revenant à
+tenant compte des montants visés aux 1°, 2°, 3° et 4°. L'attribution revenant à
 chaque département urbain éligible est déterminée en fonction de sa population
 et de son indice synthétique.
 
@@ -70,3 +72,7 @@ ce département reçoit, à titre de garantie non renouvelable, une attribution
 égale au montant de dotation de péréquation perçu en 2004. Les sommes
 nécessaires sont prélevées sur les crédits affectés à la dotation de péréquation
 urbaine.
+
+A compter de 2012, les départements éligibles ne peuvent percevoir une dotation
+de péréquation urbaine inférieure au montant de la dotation de péréquation
+urbaine perçu l'année précédente.
