@@ -21,9 +21,9 @@ transports et du budget. La longueur maximale des sections de tarification est
 de quinze kilomètres.
 
 3. Les véhicules de transport de marchandises mentionnés au 1 s'entendent des
-véhicules à moteur dont le poids total autorisé en charge est supérieur à douze
-tonnes ainsi que des ensembles de véhicules dont le véhicule tracteur a un poids
-total autorisé en charge supérieur à douze tonnes.
+véhicules seuls ou tractant une remorque, dont le poids total en charge
+autorisé, ou dont le poids total roulant autorisé pour les ensembles articulés,
+est égal ou supérieur à douze tonnes.
 
 Ne sont toutefois pas considérés comme des véhicules de transport de
 marchandises les véhicules d'intérêt général prioritaires et les véhicules et
@@ -44,8 +44,8 @@ III. ― Le fait générateur intervient et la taxe devient exigible lors du
 franchissement, par un véhicule de transport de marchandises défini au 3 du I,
 d'un point de tarification mentionné au troisième alinéa du 2 du I.
 
-IV. ― 1. L'assiette de la taxe due est constituée par la longueur des sections
-de tarification empruntées par le véhicule, exprimée en kilomètres, après
+IV. ― 1.L'assiette de la taxe due est constituée par la longueur des sections de
+tarification empruntées par le véhicule, exprimée en kilomètres, après
 arrondissement à la centaine de mètres la plus proche.
 
 2. Pour chaque section de tarification, le taux kilométrique de la taxe est
@@ -62,8 +62,9 @@ Un décret précise les conditions dans lesquelles le niveau de congestion de la
 section de tarification est pris en compte.
 
 En cas de défaut de justification par le redevable de la classe d'émission EURO
-du véhicule, le taux kilométrique est déterminé en retenant la classe à laquelle
-correspond le taux kilométrique le plus élevé.
+ou du nombre d'essieux du véhicule, le taux kilométrique est déterminé en
+retenant respectivement la classe ou la catégorie à laquelle correspond le taux
+kilométrique le plus élevé.
 
 3. Le taux de la taxe est compris entre 0, 015 € et 0, 2 € par kilomètre.
 
@@ -143,18 +144,6 @@ VI. ― 1. Lorsque le redevable a passé un contrat avec une société habilité
 fournissant un service de télépéage, la taxe est acquittée par cette société au
 plus tard le dixième jour du mois suivant la liquidation.
 
-A titre dérogatoire, la taxe est acquittée par anticipation par la société
-habilitée fournissant un service de télépéage dans les cas et selon les
-modalités définis par décret en Conseil d'Etat.
-
-1 bis. Le redevable ayant passé un contrat avec une société habilitée lui
-fournissant un service de télépéage bénéficie, dans la limite fixée par la
-directive 1999/62/CE du Parlement européen et du Conseil du 17 juin 1999
-précitée, d'une réduction sur le montant de la taxe due, afin de tenir compte de
-l'économie de gestion résultant de ce contrat. Les réductions applicables sont
-déterminées par un arrêté conjoint des ministres chargés des transports et du
-budget.
-
 2. Dans les cas prévus au 4 du V, la taxe est acquittée par le redevable lors de
 la liquidation.
 
@@ -190,8 +179,9 @@ liquidation sont connus. Le montant de la taxe forfaitaire ou au réel est doubl
 en cas d'existence d'un autre manquement au cours des trente derniers jours.
 
 Le montant de la taxe forfaitaire ou au réel prévue au troisième alinéa est
-communiqué au redevable selon les modalités fixées par décret en Conseil d'Etat.
-Elle est exigible dès sa communication au redevable.
+communiqué au redevable selon les modalités fixées par arrêté conjoint des
+ministres chargés des transports et du budget. Elle est exigible dès sa
+communication au redevable.
 
 Lorsque l'irrégularité est constatée par des agents de la police nationale, de
 la gendarmerie nationale ou du contrôle des transports terrestres, ces derniers
@@ -203,20 +193,8 @@ réellement parcourue sur le réseau taxable par le véhicule en manquement.
 Lorsque cette preuve est apportée, la taxation forfaitaire est abandonnée pour
 une taxation au réel.
 
-3. Le fait de détenir ou de transporter un appareil, dispositif ou produit de
-nature ou présenté comme étant de nature à déceler la présence, à perturber le
-fonctionnement ou à avertir ou informer de la localisation d'appareils,
-instruments ou systèmes servant à la constatation des manquements mentionnés au
-2 ou de permettre de se soustraire à la constatation de ces manquements est
-constitutif d'une infraction.
-
-Le fait de faire usage d'un appareil, dispositif ou produit de même nature est
-constitutif d'une infraction.
-
-Indépendamment des sanctions prévues à l'article 413, cet appareil, ce
-dispositif ou ce produit est saisi. Lorsque l'appareil, le dispositif ou le
-produit est placé, adapté ou appliqué sur un véhicule, ce véhicule peut
-également être saisi.
+3. Sans préjudice des dispositions du 2, toute infraction mentionnée au 1 est
+passible d'une amende maximale de 750 EUR.
 
 4. Les agents mentionnés au deuxième alinéa du 1 et habilités par les textes
 particuliers qui leur sont applicables disposent des pouvoirs d'investigation et
@@ -231,7 +209,7 @@ les personnes poursuivies dans les conditions prévues à l'article 350.
 
 Ces agents peuvent immobiliser le véhicule en infraction dans les conditions
 fixées au chapitre V du titre II du livre III du code de la route afin d'assurer
-la perception de l'amende mentionnée à l'article 413 du présent code.
+la perception de l'amende mentionnée au 3 du présent VII.
 
 5. Les constatations d'irrégularités effectuées par des appareils de contrôle
 automatique ou manuel, mis en œuvre dans une chaîne de contrôle homologuée, font
