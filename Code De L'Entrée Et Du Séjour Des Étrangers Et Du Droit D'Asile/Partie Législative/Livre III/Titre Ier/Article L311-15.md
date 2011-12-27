@@ -8,7 +8,7 @@ de sa première admission au séjour en qualité de salarié, une taxe. Cette ta
 est affectée à l'Office français de l'immigration et de l'intégration dans la
 limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28
 décembre 2011 de finances pour 2012. Lorsque l'embauche intervient pour une
-durée supérieure ou égale à douze mois, le montant de cette taxe est égal à 50 %
+durée supérieure ou égale à douze mois, le montant de cette taxe est égal à 55 %
 du salaire versé à ce travailleur étranger, pris en compte dans la limite de 2,5
 fois le salaire minimum de croissance. Lorsque l'embauche intervient pour un
 emploi temporaire d'une durée supérieure à trois mois et inférieure à douze
@@ -22,14 +22,16 @@ l'acquittement de la taxe. Lorsque l'embauche intervient pour un jeune
 professionnel recruté dans le cadre d'un accord bilatéral d'échanges de jeunes
 professionnels, le montant de cette taxe est fixé par décret dans des limites
 comprises entre 50 et 300 €. Sont exonérés de la taxe prévue au premier alinéa
-les organismes de recherche publics, les établissements d'enseignement supérieur
-délivrant un diplôme conférant un grade de master, les fondations de coopération
-scientifique, les établissements publics de coopération scientifique et les
-fondations reconnues d'utilité publique du secteur de la recherche agréées
-conformément à l'article L. 313-8 qui embauchent, pour une durée supérieure à
-trois mois, un ressortissant étranger aux fins de mener des travaux de recherche
-ou de dispenser un enseignement de niveau universitaire, quels que soient la
-durée du contrat et le montant de la rémunération.
+les employeurs des citoyens de l'Union européenne mentionnés au troisième alinéa
+de l'article L. 121-2, les organismes de recherche publics, les établissements
+d'enseignement supérieur délivrant un diplôme conférant un grade de master, les
+fondations de coopération scientifique, les établissements publics de
+coopération scientifique et les fondations reconnues d'utilité publique du
+secteur de la recherche agréées conformément à l'article L. 313-8 qui
+embauchent, pour une durée supérieure à trois mois, un ressortissant étranger
+aux fins de mener des travaux de recherche ou de dispenser un enseignement de
+niveau universitaire, quels que soient la durée du contrat et le montant de la
+rémunération.
 
 La taxe prévue au présent article est perçue comme en matière de recettes des
 établissements publics nationaux à caractère administratif.

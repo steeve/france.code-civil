@@ -44,8 +44,8 @@ bassin sont classées en catégorie 1 lorsqu'elles sont situées hors des zones 
 répartition des eaux définies en application du 2° du II de l'article L. 211-2
 ou en catégorie 2 dans le cas contraire.
 
-Le tarif de la redevance est fixé par l'agence de l'eau en centimes d'euro par
-mètre cube dans la limite des plafonds suivants, en fonction des différents
+Le tarif de la redevance est fixé par l'agence de l'eau en centimes d'euros par
+mètre cube, dans la limite des plafonds suivants, en fonction des différents
 usages auxquels donnent lieu les prélèvements :
 
 
@@ -58,42 +58,42 @@ Catégorie 2
 
 Irrigation (sauf irrigation gravitaire)
 
-2
+3,6
 
-3
+7,2
 
 
 Irrigation gravitaire
 
-0,10
+0,5
 
-0,15
+1
 
 
 Alimentation en eau potable
 
-6
+7,2
 
-8
+14,4
 
 Refroidissement industriel conduisant à une restitution supérieure à 99 %
 
-0,35
-
 0,5
+
+1
 
 Alimentation d'un canal
 
-0,015
-
 0,03
+
+0,06
 
 
 Autres usages économiques
 
-3
+5,4
 
-4
+10,8
 
 L'agence de l'eau fixe, dans la limite des plafonds ci-dessus, un taux par unité
 géographique cohérente définie en tenant compte des objectifs fixés par le

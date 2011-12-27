@@ -31,33 +31,19 @@ l'année considérée.
 fraction de chaque part du montant des encaissements annuels, hors taxe sur la
 valeur ajoutée, qui excède 10 000 000 euros les taux de :
 
-a) 0,5 % pour la fraction supérieure à 10 000 000 euros et inférieure ou égale à
-75 000 000 euros ;
+a) (1) 0,5 % pour la fraction supérieure à 10 000 000 € et inférieure ou égale à
+250 000 000 € ;
 
-b) 1 % pour la fraction supérieure à 75 000 000 euros et inférieure ou égale à
-140 000 000 euros ;
+b) 2,10 % pour la fraction supérieure à 250 000 000 € et inférieure ou égale à
+500 000 000 € ;
 
-c) 1,5 % pour la fraction supérieure à 140 000 000 euros et inférieure ou égale
-à 205 000 000 euros ;
+c) 2,80 % pour la fraction supérieure à 500 000 000 € et inférieure ou égale à
+750 000 000 € ;
 
-d) 2 % pour la fraction supérieure à 205 000 000 euros et inférieure ou égale à
-270 000 000 euros ;
-
-e) 2,5 % pour la fraction supérieure à 270 000 000 euros et inférieure ou égale
-à 335 000 000 euros ;
-
-f) 3 % pour la fraction supérieure à 335 000 000 euros et inférieure ou égale à
-400 000 000 euros ;
-
-g) 3,5 % pour la fraction supérieure à 400 000 000 euros et inférieure ou égale
-à 465 000 000 euros ;
-
-h) 4 % pour la fraction supérieure à 465 000 000 euros et inférieure ou égale à
-530 000 000 euros ;
-
-i) 4,5 % pour la fraction supérieure à 530 000 000 euros ;
+d) 3,50 % pour la fraction supérieure à 750 000 000 € ;
 
 3° Dans le cas mentionné au deuxième alinéa de l'article L. 115-6, la taxe due
 en tant qu'éditeur de services est calculée selon les modalités mentionnées au
 1° et la taxe due en tant que distributeur de services selon les modalités
-mentionnées au 2°. Toutefois, le taux mentionné au i du 2° est majoré de 2,2.
+mentionnées au 2°. Toutefois, le taux mentionné au d du 2° est majoré de 5,25
+(1).

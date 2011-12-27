@@ -19,7 +19,5 @@ gestionnaire du réseau d'assainissement.
 
 Son taux est fixé par l'agence de l'eau en fonction des priorités et des besoins
 de financement du programme d'intervention mentionné à l'article L. 213-9-1,
-dans la limite de 0,15 euros par mètre cube. Il ne peut être supérieur à la
-moitié du taux de la redevance pour modernisation des réseaux de collecte
-mentionnée à l'article L. 213-10-6. Il peut être dégressif, par tranches, en
-fonction des volumes rejetés.
+dans la limite de 0,30 € par mètre cube. Il peut être dégressif, par tranches,
+en fonction des volumes rejetés.

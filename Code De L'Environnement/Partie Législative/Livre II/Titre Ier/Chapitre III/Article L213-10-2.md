@@ -1,6 +1,6 @@
 Article L213-10-2
 ----
-I.-Toute personne, à l'exception des propriétaires et occupants d'immeubles à
+I. - Toute personne, à l'exception des propriétaires et occupants d'immeubles à
 usage principal d'habitation ainsi que des abonnés au service d'eau potable dont
 les activités impliquent des utilisations de l'eau assimilables aux utilisations
 à des fins domestiques, dont les activités entraînent le rejet d'un des éléments
@@ -8,10 +8,10 @@ de pollution mentionnés au IV dans le milieu naturel directement ou par un
 réseau de collecte, est assujettie à une redevance pour pollution de l'eau
 d'origine non domestique.
 
-II.-L'assiette de la redevance est la pollution annuelle rejetée dans le milieu
-naturel égale à douze fois la moyenne de la pollution moyenne mensuelle et de la
-pollution mensuelle rejetée la plus forte. Elle est composée des éléments
-mentionnés au IV.
+II. - L'assiette de la redevance est la pollution annuelle rejetée dans le
+milieu naturel égale à douze fois la moyenne de la pollution moyenne mensuelle
+et de la pollution mensuelle rejetée la plus forte. Elle est composée des
+éléments mentionnés au IV.
 
 Elle est déterminée directement à partir des résultats du suivi régulier de
 l'ensemble des rejets, le dispositif de suivi étant agréé et contrôlé par un
@@ -35,10 +35,10 @@ oeuvre. Lorsque la pollution produite provient d'un épandage direct, elle est
 calculée indirectement en prenant en compte la qualité des méthodes de
 récupération des effluents et d'épandage.
 
-III.-Sur demande du redevable, le suivi régulier des rejets visé au II a pour
+III. - Sur demande du redevable, le suivi régulier des rejets visé au II a pour
 objet de mesurer la pollution annuelle ajoutée par l'activité.
 
-IV.-Pour chaque élément constitutif de la pollution, le tarif maximum de la
+IV. - Pour chaque élément constitutif de la pollution, le tarif maximum de la
 redevance et le seuil au-dessous duquel la redevance n'est pas due sont fixés
 comme suit :
 
@@ -97,19 +97,19 @@ Phosphore total, organique ou minéral (par kg)
 
 Métox (par kg)
 
-3
+3,6
 
 200 kg
 
 Métox rejetées dans les masses d'eau souterraines (par kg)
 
-5
+6
 
 200 kg
 
 Toxicité aiguë (par kiloéquitox)
 
-15
+18
 
 50 kiloéquitox
 
@@ -122,7 +122,7 @@ mètres de profondeur (par kiloéquitox)
 
 Rejet en masse d'eau souterraine de toxicité aiguë (par kiloéquitox)
 
-25
+30
 
 50 kiloéquitox
 
@@ -139,13 +139,27 @@ souterraine (par kg)
 
 50 kg
 
-Sels dissous (m3 [siemens/ centimètre])
+Substances dangereuses pour l'environnement rejetées dans les masses d'eau
+superficielles (par kg) (1)
+
+10
+
+9
+
+Substances dangereuses pour l'environnement rejetées dans les masses d'eau
+souterraines (1)
+
+16,6
+
+9
+
+Sels dissous (m3 [siemens/centimètre])
 
 0,15
 
-2 000 m3*S/ cm
+2 000 m3*S/cm
 
-Chaleur rejetée en mer, excepté en hiver (par mégathermie)
+Chaleur rejetée en mer , excepté en hiver (par mégathermie)
 
 8,5
 
