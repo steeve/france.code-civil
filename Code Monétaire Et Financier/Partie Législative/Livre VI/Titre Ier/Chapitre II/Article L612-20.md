@@ -27,11 +27,19 @@ A. ― Pour les personnes mentionnées aux 1°, 2°, 3° et 4° du A de l'articl
 ratios de couverture prévus par les articles L. 511-41, L. 522-14 et L. 533-2
 définies au cours de l'exercice clos l'année civile précédente. Les exigences
 minimales en fonds propres sont appréciées sur base consolidée pour les
-personnes relevant des articles L. 511-41-2, L. 533-4-1, L. 517-5 et L. 517-9.
-Aucune contribution additionnelle sur base sociale n'est versée par les
-personnes susmentionnées qui appartiennent à un groupe pour lequel une assiette
-est calculée sur base consolidée. Les autres personnes versent une contribution
-calculée sur base sociale ;
+personnes relevant des articles L. 511-41-2, L. 533-4-1, L. 517-5 et L. 517-9
+appartenant à un groupe au sens de l'article L. 511-20. Aucune contribution
+additionnelle sur base sociale ou sous-consolidée n'est versée par les personnes
+mentionnées au I appartenant à un groupe au sens du même article L. 511-20
+lorsqu'il s'agit de l'organe central ou des entreprises affiliées à un réseau ou
+d'entreprises sur lesquelles l'entreprise mère exerce, directement ou
+indirectement, un contrôle exclusif. Une contribution est calculée sur base
+sociale ou sous-consolidée pour les personnes n'appartenant pas à un groupe au
+sens dudit article L. 511-20, ou quand l'entreprise mère n'exerce pas un
+contrôle exclusif sur l'entreprise surveillée sur base sociale ou
+sous-consolidée. Dans ce dernier cas, l'assiette sur base consolidée de
+l'entreprise mère est diminuée des montants pris en compte au titre de
+l'imposition d'une personne sur base sociale ou sous-consolidée ;
 
 2° Les normes de représentation de capital minimum permettant de répondre aux
 exigences posées par les articles L. 511-11 et L. 532-2, définies au cours de
@@ -75,10 +83,10 @@ contribution.
 III. ― Le taux de la contribution visée au A et au B du II du présent article
 est compris entre :
 
-1° 0, 40 et 0, 80 ‰ pour les personnes mentionnées au A du II du présent
-article. Ce taux est fixé par arrêté du ministre chargé de l'économie ;
+1° 0,40 et 0,80 ‰ pour les personnes mentionnées au A du II du présent article.
+Ce taux est fixé par arrêté du ministre chargé de l'économie ;
 
-2° 0, 06 et 0, 18 ‰ pour les entreprises mentionnées au B du II du présent
+2° 0,06 et 0,18 ‰ pour les entreprises mentionnées au B du II du présent
 article. Ce taux est fixé par arrêté des ministres chargés de l'économie, de la
 mutualité et de la sécurité sociale.
 
@@ -108,14 +116,14 @@ arrêtée au 1er janvier de chaque exercice, des courtiers et sociétés de cour
 d'assurance, en assurance et en réassurance, mentionnés à l'article L. 511-1 du
 même code ainsi que des intermédiaires en opérations de banque et en services de
 paiement. Les personnes concernées acquittent le paiement correspondant auprès
-de la Banque de France au plus tard le 30 juin de chaque année (1) ;
+de la Banque de France au plus tard le 30 juin de chaque année ;
 
 2° Pour les personnes mentionnées au B du II du présent article, l'Autorité de
 contrôle prudentiel émet un avis demandant le versement d'un acompte
 provisionnel de 75 % de la contribution due au titre de l'année précédente, au
 plus tard le 15 février de chaque année. Les redevables s'acquittent de ce
-versement auprès de la Banque de France au plus tard le 31 mars de chaque
-année.L'Autorité envoie ensuite un avis appelant le versement du solde de la
+versement auprès de la Banque de France au plus tard le 31 mars de chaque année.
+L'Autorité envoie ensuite un avis appelant le versement du solde de la
 contribution exigible au titre de l'année en cours au plus tard le 15 juillet de
 chaque année. Ce versement est effectué au plus tard le 30 septembre de chaque
 année ;
@@ -131,7 +139,7 @@ mentionnées au V du présent article, l'Autorité de contrôle prudentiel adres
 au redevable par courrier recommandé avec accusé de réception une lettre de
 rappel motivée. Celle-ci l'informe que la majoration mentionnée à l'article 1731
 du code général des impôts est applicable aux sommes dont le versement a été
-différé.L'intérêt de retard mentionné à l'article 1727 est appliqué.
+différé. L'intérêt de retard mentionné à l'article 1727 est appliqué.
 
 La majoration est prononcée à l'expiration d'un délai de trente jours à compter
 de la date de notification au redevable de la lettre de rappel établissant le
@@ -151,7 +159,7 @@ sanctions, garanties, sûretés et privilèges que les taxes sur le chiffre
 d'affaires. Les réclamations sont présentées, instruites et jugées selon les
 règles applicables à cette même taxe. Les sommes ainsi recouvrées sont reversées
 à la Banque de France, qui les réaffecte au budget de l'Autorité de contrôle
-prudentiel.L'Etat prélève des frais de recouvrement dont le taux est fixé par
+prudentiel. L'Etat prélève des frais de recouvrement dont le taux est fixé par
 voie réglementaire et ne peut être supérieur à 1 % des sommes ainsi recouvrées
 pour le compte de la Banque de France.
 
