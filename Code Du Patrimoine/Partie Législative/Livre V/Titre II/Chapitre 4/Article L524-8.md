@@ -1,37 +1,65 @@
 Article L524-8
 ----
-Au vu des éléments transmis par l'autorité compétente pour délivrer les
-autorisations ou recevoir les déclarations ou demandes mentionnées aux articles
-L. 524-2 et L. 524-4, le montant de la redevance d'archéologie préventive est
-liquidé et ordonnancé par le représentant de l'Etat dans le département
-lorsqu'il est fait application du a de l'article L. 524-4 et par le représentant
-de l'Etat dans la région lorsqu'il est fait application des b ou c ou du
-cinquième alinéa de l'article L. 524-4.
+I. ― Lorsqu'elle est perçue sur les travaux mentionnés au a de l'article L.
+524-2, la redevance est établie dans les conditions prévues aux articles L.
+331-19 et L. 331-20 du code de l'urbanisme. Les règles de contrôle et les
+sanctions sont celles prévues aux articles L. 331-21 à L. 331-23 du même code.
 
-Le représentant de l'Etat dans le département et le représentant de l'Etat dans
-la région peuvent déléguer leur signature respectivement au directeur
-départemental de l'équipement ou au directeur régional des affaires culturelles
-territorialement compétents pour tous les actes nécessaires à la liquidation ou
-l'ordonnancement de la redevance d'archéologie préventive. Ces autorités peuvent
-subdéléguer leur signature à leurs subordonnés pour ces attributions.
+II. ― Lorsqu'elle est perçue sur des travaux mentionnés aux b et c de l'article
+L. 524-2 du présent code ou sur la demande mentionnée au dernier alinéa de
+l'article L. 524-4, la redevance est établie par les services de l'Etat chargés
+des affaires culturelles dans la région.
 
-Lorsqu'il apparaît que la superficie déclarée par l'aménageur dans le cadre
-d'une demande effectuée conformément au cinquième alinéa de l'article L. 524-4
-est erronée ou inexacte, le service responsable de la liquidation rectifie la
-déclaration et en informe le redevable, avant de liquider la redevance. Dans ce
-cas, la procédure prévue aux articles L. 55 et suivants du livre des procédures
-fiscales est applicable.
+Lorsque l'opération est réalisée par tranches de travaux, un titre de perception
+est émis au début de chacune des tranches prévues dans l'autorisation
+administrative, pour le montant dû au titre de cette tranche.
 
-L'émission du titre de recettes est prescrite à la fin de la quatrième année qui
-suit celle de la réalisation du fait générateur. Toutefois, lorsque
-l'autorisation administrative est accordée pour une durée supérieure à quatre
-ans, l'émission du titre de recettes est prescrite à la fin de l'année qui suit
-l'année d'expiration de l'autorisation administrative.
+Le droit de reprise de l'administration s'exerce jusqu'au 31 décembre de la
+troisième année qui suit, selon les cas, la réalisation du fait générateur
+mentionné aux trois derniers alinéas de l'article L. 524-4 ou, lorsque
+l'autorisation administrative est accordée pour une durée supérieure à trois
+ans, l'année d'expiration de l'autorisation administrative.
 
-La redevance d'archéologie préventive est payée en un versement unique au
-comptable public compétent désigné par décision de l'autorité administrative.
-Toutefois, lorsque la redevance est afférente à une opération autre que celles
-mentionnées au a de l'article L. 524-4 faisant l'objet de réalisation par
-tranches de travaux, le service liquidateur fractionne l'émission du titre de
-recettes au début de chacune des tranches prévues dans l'autorisation
-administrative.
+Lorsqu'il apparaît que la superficie déclarée par l'aménageur est erronée, la
+procédure contradictoire prévue aux articles L. 55 à L. 61 B du livre des
+procédures fiscales est applicable.
+
+III. ― La redevance due sur les travaux mentionnés aux a, b et c de l'article L.
+524-2 du présent code ou sur la demande mentionnée au dernier alinéa de
+l'article L. 524-4 est recouvrée par les comptables publics compétents comme en
+matière de créances étrangères à l'impôt et au domaine.
+
+Sont solidaires du paiement de la redevance les époux et les partenaires liés
+par un pacte civil de solidarité.
+
+Le recouvrement de la redevance est garanti par le privilège prévu au 1 de
+l'article 1929 du code général des impôts.
+
+L'action en recouvrement se prescrit par cinq ans à compter de l'émission du
+titre de perception.
+
+Lorsque la redevance est perçue sur des travaux mentionnés au a de l'article L.
+524-2 du présent code, le montant total est dû douze mois à compter de la date
+des faits générateurs mentionnés au a de l'article L. 524-4. Elle est émise avec
+la première échéance ou l'échéance unique de taxe d'aménagement à laquelle elle
+est adossée.
+
+En cas de modification apportée au permis de construire ou d'aménager ou à
+l'autorisation tacite de construire ou d'aménager, le complément de redevance
+fait l'objet d'un titre de perception émis dans le délai de douze mois à compter
+de la date de délivrance du permis modificatif ou de l'autorisation réputée
+accordée.
+
+En cas de transfert total de l'autorisation de construire ou d'aménager, le
+redevable de la redevance est le nouveau titulaire du droit à construire ou
+d'aménager. Un titre d'annulation est émis au profit du redevable initial. Un
+titre de perception est émis à l'encontre du nouveau titulaire du droit à
+construire ou d'aménager.
+
+En cas de transfert partiel, un titre d'annulation des sommes correspondant à la
+surface transférée est émis au profit du titulaire initial du droit à construire
+ou d'aménager. Un titre de perception est émis à l'encontre du titulaire du
+transfert partiel.
+
+IV. ― L'Etat effectue un prélèvement de 3 % sur le montant des sommes
+recouvrées, au titre des frais d'assiette et de recouvrement.

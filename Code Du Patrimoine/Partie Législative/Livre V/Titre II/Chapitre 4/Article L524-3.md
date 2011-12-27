@@ -1,10 +1,12 @@
 Article L524-3
 ----
-Sont exonérés de la redevance d'archéologie préventive les travaux relatifs aux
-logements à usage locatif construits ou améliorés avec le concours financier de
-l'Etat en application des 3° et 5° de l'article L. 351-2 et des articles L.
-472-1 et L. 472-1-1 du code de la construction et de l'habitation, au prorata de
-la surface de plancher effectivement destinée à cet usage, les constructions de
-logements réalisées par une personne physique pour elle-même ainsi que les
-affouillements rendus nécessaires pour la réalisation de travaux agricoles,
-forestiers ou pour la prévention des risques naturels.
+Sont exonérés de la redevance d'archéologie préventive :
+
+1° Lorsqu'elle est perçue sur les travaux mentionnés au a de l'article L. 524-2,
+les constructions et aménagements mentionnés aux 1° à 3° et 7° à 9° de l'article
+L. 331-7 du code de l'urbanisme, ainsi que les constructions de maisons
+individuelles réalisées pour elle-même par une personne physique ;
+
+2° Lorsqu'elle est perçue sur les travaux mentionnés aux b et c de l'article L.
+524-2 du présent code, les affouillements rendus nécessaires pour la réalisation
+de travaux agricoles, forestiers ou pour la prévention des risques naturels.
