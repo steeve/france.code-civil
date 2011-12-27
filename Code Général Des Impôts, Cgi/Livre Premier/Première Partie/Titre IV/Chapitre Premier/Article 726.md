@@ -49,6 +49,10 @@ organismes d'habitations à loyer modéré et les sociétés d'économie mixte
 exerçant une activité de construction ou de gestion de logements sociaux ne sont
 pas considérés comme des personnes morales à prépondérance immobilière.
 
+Lorsque les cessions de ces participations sont réalisées à l'étranger, elles
+doivent être constatées dans le délai d'un mois par un acte reçu en la forme
+authentique par un notaire exerçant en France.
+
 I bis.-Abrogé.
 
 II. Le droit d'enregistrement prévu au I est assis sur le prix exprimé et le
