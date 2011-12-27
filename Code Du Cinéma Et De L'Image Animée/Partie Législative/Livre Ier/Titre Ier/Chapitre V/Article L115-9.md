@@ -5,7 +5,9 @@ La taxe est calculée comme suit :
 1° Pour les éditeurs de services de télévision, la taxe est calculée en
 appliquant un taux de 5,5 % à la fraction du montant des versements et
 encaissements annuels, hors taxe sur la valeur ajoutée, afférent à chaque
-service, qui excède 11 000 000 €.
+service, qui excède 11 000 000 €. Ce seuil est fixé à 16 000 000 € pour les
+éditeurs de services de télévision qui ne bénéficient pas de ressources
+procurées par la diffusion de messages publicitaires.
 
 Le montant de la taxe résultant de l'application des dispositions précédentes
 est réduit de 50 % pour la société nationale de programme France Télévisions au
