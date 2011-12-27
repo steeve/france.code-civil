@@ -41,6 +41,11 @@ notamment le montant et la localisation des travaux, est élaboré à l'occasion
 d'une conférence départementale réunie sous l'égide du préfet et transmis à
 chacune des autorités concédantes.
 
+Les autorités organisatrices contrôlent la mise en œuvre de la tarification dite
+" produit de première nécessité " mentionnée à l'article L. 337-3 du code de
+l'énergie et du tarif spécial de solidarité mentionné à l'article L. 445-5 du
+même code sur le territoire de leur compétence.
+
 Des fonctionnaires et agents parmi ceux qui sont chargés des missions de
 contrôle visées aux alinéas précédents sont habilités à cet effet par le maire
 ou par le président de l'établissement public de coopération et assermentés dans
@@ -91,7 +96,7 @@ recensés tous les deux ans dans chaque département auprès des maîtres d'ouvr
 des travaux mentionnés à l'article L. 322-6 du code de l'énergie.
 
 Un décret en Conseil d'Etat, pris après avis de ce conseil, précise les
-catégories de travaux mentionnés aux septième et huitième alinéas du présent I
+catégories de travaux mentionnés aux huitième et neuvième alinéas du présent I
 susceptibles de bénéficier des aides et fixe les règles d'attribution de
 celles-ci ainsi que leurs modalités de gestion.
 
