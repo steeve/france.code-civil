@@ -10,3 +10,7 @@ Il est chargé de définir les besoins en formation du personnel qui lui est
 affecté. Il contribue à la définition des objectifs et modalités de formation et
 d'emploi du personnel des armées et des services de soutien dans les domaines de
 l'administration générale et des soutiens communs.
+
+Le service du commissariat des armées assure également la gestion et
+l'administration des aumôniers militaires d'active et de réserve ainsi que des
+aumôniers civils de la défense.
