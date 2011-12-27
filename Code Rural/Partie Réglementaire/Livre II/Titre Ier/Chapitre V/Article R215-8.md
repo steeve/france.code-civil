@@ -1,10 +1,11 @@
 Article R215-8
 ----
-I. - Est puni de l'amende prévue pour les contraventions de la 5e classe le
-fait, pour toute personne, d'effectuer ou de faire effectuer un abattage rituel
-en dehors d'un abattoir ;
+I.-Est puni de l'amende prévue pour les contraventions de la 5e classe le fait,
+de pratiquer l'abattage prévu au 1° du I de l'article R. 214-70 sans détenir
+l'autorisation mentionnée au III de l'article R. 214-70 ou de ne pas respecter
+les conditions de délivrance de cette autorisation ;
 
-II. - Est puni de l'amende prévue pour les contraventions de la 4e classe :
+II.-Est puni de l'amende prévue pour les contraventions de la 4e classe :
 
 1° Le fait de ne pas se conformer aux prescriptions des articles R. 214-65 à R.
 214-68 ;
@@ -38,6 +39,6 @@ dehors de l'exception prévue à l'article R. 214-79 ;
 10° le fait de pratiquer un abattage rituel sans y avoir été habilité dans les
 conditions prévues à l'article R. 214-75.
 
-III. - Est puni de l'amende prévue pour les contraventions de la 3e classe le
+III.-Est puni de l'amende prévue pour les contraventions de la 3e classe le
 fait, pour tout sacrificateur, de ne pas être en mesure de justifier de son
 habilitation.
