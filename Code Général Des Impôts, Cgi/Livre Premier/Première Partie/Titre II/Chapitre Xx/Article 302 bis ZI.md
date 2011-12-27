@@ -16,7 +16,7 @@ Centre des monuments nationaux.
 Le produit de ce prélèvement est en outre affecté à concurrence de 15 % et dans
 la limite indexée, chaque année, sur la prévision de l'indice des prix à la
 consommation hors tabac retenue dans le projet de loi de finances de l'année, de
-10 150 000 € aux communes dans le ressort territorial desquelles sont ouverts au
+10 322 550 € aux communes dans le ressort territorial desquelles sont ouverts au
 public un ou plusieurs établissements visés au premier alinéa de l'article 1er
 de la loi du 15 juin 1907 relative aux casinos, au prorata du produit brut des
 jeux de ces établissements.
