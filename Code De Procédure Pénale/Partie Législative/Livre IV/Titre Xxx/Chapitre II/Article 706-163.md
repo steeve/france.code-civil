@@ -9,10 +9,11 @@ personne morale publique ou privée ;
 
 2° Les recettes fiscales affectées par la loi ;
 
-3° Une partie, déterminée annuellement par la loi de finances, du produit de la
-vente des biens confisqués lorsque l'agence est intervenue pour leur gestion ou
-leur vente, sauf lorsque la loi prévoit la restitution intégrale à la personne
-saisie de ce produit et des intérêts échus le cas échéant, et sous réserve de
+3° Une partie, plafonnée conformément au I de l'article 46 de la loi n°
+2011-1977 du 28 décembre 2011 de finances pour 2012, du produit de la vente des
+biens confisqués lorsque l'agence est intervenue pour leur gestion ou leur
+vente, sauf lorsque la loi prévoit la restitution intégrale à la personne saisie
+de ce produit et des intérêts échus le cas échéant, et sous réserve de
 l'affectation de ce produit au fonds de concours recevant les recettes provenant
 de la confiscation des biens mobiliers ou immobiliers des personnes reconnues
 coupables d'infractions en matière de trafic de stupéfiants ;

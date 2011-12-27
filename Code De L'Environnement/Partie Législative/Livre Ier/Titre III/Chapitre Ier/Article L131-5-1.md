@@ -1,7 +1,9 @@
 Article L131-5-1
 ----
 Le produit de la taxe mentionnée à l'article 266 sexies du code des douanes est
-affecté à l'Agence de l'environnement et de la maîtrise de l'énergie à hauteur :
+affecté, dans la limite du plafond prévu au I de l'article 46 de la loi n°
+2011-1977 du 28 décembre 2011 de finances pour 2012, à l'Agence de
+l'environnement et de la maîtrise de l'énergie à hauteur :
 
 1° De la fraction due par les exploitants d'une installation d'élimination par
 incinération de déchets ménagers et assimilés mentionnés au 1 du I du même

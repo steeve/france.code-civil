@@ -68,9 +68,9 @@ d'impôt prévue au premier alinéa ne s'applique pas aux investissements portan
 sur des installations de production d'électricité utilisant l'énergie radiative
 du soleil.
 
-La réduction d'impôt est de 45 % du montant, hors taxes et hors frais de toute
-nature, notamment les commissions d'acquisition, à l'exception des frais de
-transport, d'installation et de mise en service amortissables, des
+La réduction d'impôt est de 38,25 % du montant, hors taxes et hors frais de
+toute nature, notamment les commissions d'acquisition, à l'exception des frais
+de transport, d'installation et de mise en service amortissables, des
 investissements productifs, diminué de la fraction de leur prix de revient
 financée par une subvention publique. Les projets d'investissement comportant
 l'acquisition, l'installation ou l'exploitation d'équipements de production
@@ -78,22 +78,22 @@ d'énergie renouvelable sont pris en compte dans la limite d'un montant par watt
 installé fixé par arrêté conjoint des ministres chargés du budget, de
 l'outre-mer et de l'énergie pour chaque type d'équipement. Ce montant prend en
 compte les coûts d'acquisition et d'installation directement liés à ces
-équipements. Le taux de la réduction d'impôt est porté à 54 % pour les
+équipements. Le taux de la réduction d'impôt est porté à 45,9 % pour les
 investissements réalisés en Guyane dans les limites définies par les règles
 communautaires relatives aux aides d'Etat, à Mayotte, à Saint-Pierre-et-Miquelon
-ou à Wallis-et-Futuna. Les taux de 45 % et 54 % susmentionnés sont
-respectivement portés à 54 % et 63 % pour les investissements réalisés dans le
-secteur de la production d'énergie renouvelable. Le taux de la réduction d'impôt
-est porté à 54 % pour les travaux de rénovation et de réhabilitation d'hôtel, de
-résidence de tourisme et de village de vacances classés réalisés en Polynésie
-française, dans les îles Wallis-et-Futuna, dans les Terres australes et
-antarctiques françaises, à Mayotte, à Saint-Pierre-et-Miquelon et en
+ou à Wallis-et-Futuna. Les taux de 38,25 % et 45,9 % susmentionnés sont
+respectivement portés à 45,9 % et 53,55 % pour les investissements réalisés dans
+le secteur de la production d'énergie renouvelable. Le taux de la réduction
+d'impôt est porté à 45,9 % pour les travaux de rénovation et de réhabilitation
+d'hôtel, de résidence de tourisme et de village de vacances classés réalisés en
+Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes
+et antarctiques françaises, à Mayotte, à Saint-Pierre-et-Miquelon et en
 Nouvelle-Calédonie.
 
-Le taux de la réduction d'impôt est porté à 63 % pour les travaux de rénovation
-et de réhabilitation d'hôtel, de résidence de tourisme et de village de vacances
-classés dans les départements d'outre-mer. Le bénéfice de cette mesure est
-accordé à l'exploitant lorsqu'il prend en charge ces travaux.
+Le taux de la réduction d'impôt est porté à 53,55 % pour les travaux de
+rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de village
+de vacances classés dans les départements d'outre-mer. Le bénéfice de cette
+mesure est accordé à l'exploitant lorsqu'il prend en charge ces travaux.
 
 Les dispositions du premier alinéa s'appliquent aux investissements réalisés par
 une société soumise au régime d'imposition prévu à l'article 8, à l'exclusion
@@ -221,8 +221,7 @@ Les associés personnes physiques mentionnés au vingt-septième alinéa ne peuv
 bénéficier, pour la souscription au capital de la société mentionnée au même
 alinéa, des réductions d'impôt prévues aux articles 199 undecies A, 199
 terdecies-0 A et 885-0 V bis et la société mentionnée au vingt-septième alinéa
-ne peut bénéficier des dispositions prévues aux articles 217 bis et 217
-undecies.
+ne peut bénéficier des dispositions prévues à l'article 217 undecies.
 
 Le 11 de l'article 150-0 D n'est pas applicable aux moins-values constatées par
 les contribuables mentionnés au vingt-septième alinéa lors de la cession des
@@ -237,18 +236,19 @@ ans au moins ces investissements dans le cadre de l'activité pour laquelle ils
 ont été acquis ou créés. Lorsque la réduction d'impôt mentionnée au présent I
 est acquise dans les conditions prévues aux vingt-sixième et vingt-neuvième
 alinéas et que la fraction de la réduction d'impôt rétrocédée à l'entreprise
-locataire est de 62,5 %, les taux de 45 % et 54 % mentionnés au dix-septième
-alinéa sont respectivement portés à 48 % et 57,6 % et les taux de 54 % et 63 %
-mentionnés à la cinquième phrase du même alinéa sont respectivement portés à
-57,6 % et 67,2 %. Dans les mêmes conditions, le taux de 63 % mentionné au
-dix-huitième alinéa est porté à 67,2 %. Lorsque la réduction d'impôt mentionnée
-au présent I est acquise dans les conditions prévues aux vingt-sixième et
-vingt-neuvième alinéas et que la fraction de la réduction d'impôt rétrocédée à
-l'entreprise locataire est de 52,63 %, les taux de 45 % et 54 % mentionnés au
-dix-septième alinéa sont respectivement portés à 47,5 % et 57 % et les taux de
-54 % et 63 % mentionnés à la cinquième phrase du même alinéa sont respectivement
-portés à 57 % et 66,5 %. Dans les mêmes conditions, le taux de 63 % mentionné au
-dix-huitième alinéa est porté à 66,5 %.
+locataire est de 62,5 %, les taux de 38,25 % et 45,9 % mentionnés au
+dix-septième alinéa sont, respectivement, portés à 45,3 % et 54,36 % et les taux
+de 45,9 % et 53,55 % mentionnés à la cinquième phrase du même alinéa sont,
+respectivement, portés à 54,36 % et 63,42 %. Dans les mêmes conditions, le taux
+de 53,55 % mentionné au dix-huitième alinéa est porté à 63,42 %. Lorsque la
+réduction d'impôt mentionnée au présent I est acquise dans les conditions
+prévues aux vingt-sixième et vingt-neuvième alinéas et que la fraction de la
+réduction d'impôt rétrocédée à l'entreprise locataire est de 52,63 %, les taux
+de 38,25 % et 45,9 % mentionnés au dix-septième alinéa sont, respectivement,
+portés à 44,12 % et 52,95 % et les taux de 45,9 % et 53,55 % mentionnés à la
+cinquième phrase du même alinéa sont, respectivement, portés à 52,95 % et 61,77
+%. Dans les mêmes conditions, le taux de 53,55 % mentionné au dix-huitième
+alinéa est porté à 61,77 %.
 
 I bis.-1. En cas de location, dans les conditions mentionnées au vingt-sixième
 alinéa du I, d'un hôtel, d'une résidence de tourisme ou d'un village de vacances

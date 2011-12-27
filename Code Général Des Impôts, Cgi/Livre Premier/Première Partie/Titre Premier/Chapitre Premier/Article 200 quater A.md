@@ -11,17 +11,17 @@ s'applique :
 a. Aux dépenses d'installation ou de remplacement d'équipements spécialement
 conçus pour les personnes âgées ou handicapées :
 
-1° Payés entre le 1er janvier 2005 et le 31 décembre 2011 dans le cadre de
+1° Payés entre le 1er janvier 2005 et le 31 décembre 2014 dans le cadre de
 travaux réalisés dans un logement achevé ;
 
 2° Intégrés à un logement acquis neuf entre le 1er janvier 2005 et le 31
-décembre 2011 ;
+décembre 2014 ;
 
 3° Intégrés à un logement acquis en l'état futur d'achèvement ou que le
 contribuable fait construire, achevé entre le 1er janvier 2005 et le 31 décembre
-2011 ;
+2014 ;
 
-b. Aux dépenses payées entre le 1er janvier 2005 et le 31 décembre 2011 pour la
+b. Aux dépenses payées entre le 1er janvier 2005 et le 31 décembre 2014 pour la
 réalisation de travaux prescrits aux propriétaires d'habitation au titre du IV
 de l'article L. 515-16 du code de l'environnement ;
 
@@ -41,12 +41,16 @@ si elle est postérieure.
 
 4. Pour une même résidence, le montant des dépenses ouvrant droit au crédit
 d'impôt ne peut excéder, au titre d'une période de cinq années consécutives
-comprises entre le 1er janvier 2005 et le 31 décembre 2011, la somme de 5 000
-euros pour une personne célibataire, veuve ou divorcée et de 10 000 euros pour
-un couple marié soumis à imposition commune. Cette somme est majorée de 400
-euros par personne à charge au sens des articles 196 à 196 B. La somme de 400
-Euros est divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de
-l'un et l'autre de ses parents.
+comprises entre le 1er janvier 2005 et le 31 décembre 2014, la somme de 5 000 €
+pour une personne célibataire, veuve ou divorcée et de 10 000 € pour un couple
+marié soumis à imposition commune. Cette somme est majorée de 400 € par personne
+à charge au sens des articles 196 à 196 B. La somme de 400 € est divisée par
+deux lorsqu'il s'agit d'un enfant réputé à charge égale de l'un et l'autre de
+ses parents.
+
+Au titre des dépenses mentionnées au b du 1, la somme mentionnée au premier
+alinéa du présent 4 est majorée de 5 000 € pour une personne célibataire, veuve
+ou divorcée et de 10 000 € pour un couple soumis à imposition commune (1).
 
 5. Le crédit d'impôt est égal à :
 

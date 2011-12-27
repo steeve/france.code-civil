@@ -3,8 +3,9 @@ Article 224
 1.A l'exception du produit afférent aux navires de plaisance mentionnés au
 dernier alinéa de l'article 223, perçu au profit de la collectivité territoriale
 de Corse, le montant du produit du droit de francisation et de navigation est
-affecté pour les années 2007 à 2011 au Conservatoire de l'espace littoral et des
-rivages lacustres.
+affecté, dans la limite du plafond fixé au I de l'article 46 de la loi n°
+2011-1977 du 28 décembre 2011 de finances pour 2012, au Conservatoire de
+l'espace littoral et des rivages lacustres.
 
 L'Etat perçoit sur le produit du droit de francisation et de navigation perçu au
 profit de la collectivité territoriale de Corse un prélèvement pour frais

@@ -71,7 +71,8 @@ entre la somme des montants de la réduction appliquée au cours de l'année et 
 montant calculé pour l'année sont précisées par décret.
 
 VI.-Le bénéfice des dispositions du présent article est cumulable avec les
-déductions forfaitaires prévues à l'article L. 241-18.
+déductions forfaitaires prévues à l'article L. 241-18 et avec l'exonération
+prévue à l'article L. 741-15-1 du code rural et de la pêche maritime.
 
 Le bénéfice des dispositions du présent article ne peut être cumulé, à
 l'exception du cas prévus à l'alinéa précédent, avec celui d'une autre

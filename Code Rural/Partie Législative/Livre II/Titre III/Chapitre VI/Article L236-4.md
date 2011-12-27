@@ -15,6 +15,12 @@ l'agriculture et du ministre chargé des douanes et dont les moyens en personnel
 en locaux et en installations sont déterminés par des arrêtés du ministre chargé
 de l'agriculture.
 
+Dans le cas où, en application de dispositions réglementaires ou de mesures
+prises par le ministre chargé de l'agriculture, les contrôles mentionnés au
+premier alinéa ne peuvent être réalisés en poste d'inspection frontalier, des
+contrôles de même nature sont réalisés au lieu de destination finale des
+marchandises aux frais des importateurs.
+
 Ces contrôles, dont les modalités sont fixées par le ministre chargé de
 l'agriculture, sont exécutés par les agents mentionnés aux articles L. 221-5 et
 L. 231-2. Les marchandises qui ont subi un contrôle favorable dans un poste

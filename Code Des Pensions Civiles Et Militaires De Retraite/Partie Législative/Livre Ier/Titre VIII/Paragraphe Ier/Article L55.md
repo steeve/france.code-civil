@@ -1,8 +1,9 @@
 Article L55
 ----
-La pension et la rente viagère d'invalidité sont définitivement acquises et ne
-peuvent être révisées ou supprimées à l'initiative de l'administration ou sur
-demande de l'intéressé que dans les conditions suivantes :
+Sous réserve du b de l'article L. 43, la pension et la rente viagère
+d'invalidité sont définitivement acquises et ne peuvent être révisées ou
+supprimées à l'initiative de l'administration ou sur demande de l'intéressé que
+dans les conditions suivantes :
 
 A tout moment en cas d'erreur matérielle ;
 

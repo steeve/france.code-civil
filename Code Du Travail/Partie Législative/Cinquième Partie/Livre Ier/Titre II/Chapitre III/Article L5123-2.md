@@ -8,10 +8,7 @@ interprofessionnels, les organisations syndicales ou avec les entreprises :
 peuvent bénéficier d'un stage de formation et ne peuvent être temporairement
 occupés que dans des emplois entraînant un déclassement professionnel ;
 
-2° Des allocations spéciales en faveur de certaines catégories de travailleurs
-âgés lorsqu'il est établi qu'ils ne sont pas aptes à bénéficier de mesures de
-reclassement. Les droits de ces travailleurs à l'égard de la sécurité sociale
-sont déterminés par décret en Conseil d'Etat ;
+2° (Abrogé) ;
 
 3° Des allocations de conversion en faveur des salariés auxquels est accordé un
 congé en vue de bénéficier d'actions destinées à favoriser leur reclassement et

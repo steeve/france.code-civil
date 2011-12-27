@@ -12,9 +12,10 @@ applicables à cette même taxe.
 
 Le produit de la taxe est affecté selon la répartition suivante :
 
-1° Au compte d'affectation spéciale "Services nationaux de transport
-conventionnés de voyageurs", dans la limite d'un montant fixé en loi de finances
-;
+1° Au compte d'affectation spéciale " Services nationaux de transport
+conventionnés de voyageurs ", dans la limite d'un montant fixé en loi de
+finances ;
 
-2° A l'Agence de financement des infrastructures de transport de France pour le
-solde.
+2° A l'Agence de financement des infrastructures de transport de France dans la
+limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28
+décembre 2011 de finances pour 2012.
