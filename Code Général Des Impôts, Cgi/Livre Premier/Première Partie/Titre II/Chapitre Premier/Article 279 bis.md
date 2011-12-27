@@ -1,6 +1,6 @@
 Article 279 bis
 ----
-Le taux réduit de la TVA ne s'applique pas :
+Les taux réduits de la taxe sur la valeur ajoutée ne s'appliquent pas :
 
 1° Aux opérations, y compris les cessions de droits, portant sur les
 publications qui ont fait l'objet d'au moins deux des interdictions prévues par

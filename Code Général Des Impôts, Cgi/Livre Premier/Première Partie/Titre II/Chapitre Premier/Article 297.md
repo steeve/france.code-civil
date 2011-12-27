@@ -3,14 +3,15 @@ Article 297
 I. 1. Dans les départements de Corse, la taxe sur la valeur ajoutée est perçue
 au taux de :
 
-1° O,90 % pour les opérations visées aux articles 281 quater et 281 sexies ;
+1° O, 90 % pour les opérations visées aux articles 281 quater et 281 sexies ;
 
 2° 2,10 % en ce qui concerne :
 
-Les opérations visées à l'article 278 bis portant sur des produits livrés en
-Corse ;
+Les opérations visées au 1° du A de l'article 278-0 bis et à l'article 278 bis
+portant sur des produits livrés en Corse ;
 
-Les prestations de services visées aux a à b decies de l'article 279 ;
+Les prestations de services visées aux B et C de l'article 278-0 bis et aux a à
+b nonies de l'article 279 ;
 
 3° (Disposition devenue sans objet) ;
 

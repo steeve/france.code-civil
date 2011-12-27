@@ -23,11 +23,9 @@ représentants des personnes mentionnées à l'article L. 524-2 et des
 personnalités qualifiées. La commission élit son président en son sein.
 
 Les travaux de fouilles archéologiques induits par la construction de logements
-à usage locatif construits ou améliorés avec le concours financier de l'Etat en
-application des 3° et 5° de l'article L. 351-2 et des articles L. 472-1 et L.
-472-1-1 du code de la construction et de l'habitation, au prorata de la surface
-hors oeuvre nette effectivement destinée à cet usage, ainsi que les
-constructions de logements réalisées par une personne physique pour elle-même, y
-compris lorsque ces constructions sont effectuées dans le cadre d'un lotissement
-ou d'une zone d'aménagement concerté, sont pris en charge financièrement par le
-fonds précité dans des conditions fixées par décret en Conseil d'Etat.
+mentionnés au 1° de l'article L. 331-12 du code de l'urbanisme, au prorata de la
+surface de construction effectivement destinée à usage locatif, ainsi que par la
+construction de logements réalisée par une personne physique pour elle-même, y
+compris lorsque ces constructions sont édifiées dans le cadre d'un lotissement
+ou d'une zone d'aménagement concerté, bénéficient d'une prise en charge
+financière totale ou partielle.

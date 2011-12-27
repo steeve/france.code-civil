@@ -1,23 +1,13 @@
 Article 278 bis
 ----
-La taxe sur la valeur ajoutée [*TVA*] est perçue au taux réduit de 5,50 p. 100
-en ce qui concerne les opérations d'achat, d'importation, d'acquisition
+La taxe sur la valeur ajoutée est perçue au taux réduit de 7 % en ce qui
+concerne les opérations d'achat, d'importation, d'acquisition
 intracommunautaire, de vente, de livraison, de commission, de courtage ou de
 façon portant sur les produits suivants :
 
-1° Eau et boissons non alcooliques ;
+1° (Abrogé) ;
 
-2° Produits destinés à l'alimentation humaine à l'exception :
-
-a) Des produits de confiserie ;
-
-b) Des chocolats et de tous produits composés contenant du chocolat ou du cacao.
-Toutefois le chocolat, le chocolat de ménage au lait, les bonbons de chocolat,
-les fèves de cacao et le beurre de cacao sont admis au taux réduit ;
-
-c) Des margarines et graisses végétales ;
-
-d) Du caviar ;
+2° (Abrogé) ;
 
 3° Produits d'origine agricole, de la pêche, de la pisciculture et de
 l'aviculture n'ayant subi aucune transformation ;
@@ -43,12 +33,10 @@ a) Amendements calcaires ;
 b) Engrais ;
 
 c) Soufre, sulfate de cuivre et grenaille utilisée pour la fabrication du
-sulfate de cuivre, ainsi que les produits cupriques contenant au minimum 10 p.
-100 de cuivre ;
+sulfate de cuivre, ainsi que les produits cupriques contenant au minimum 10 % de
+cuivre ;
 
-d) Produits antiparasitaires, sous réserve qu'ils aient fait l'objet soit d'une
-homologation, soit d'une autorisation de vente délivrée par le ministre chargé
-de l'agriculture ;
+d) (Abrogé) ;
 
 6° Livres, y compris leur location. Dans le cas des opérations dont le fait
 générateur intervient à compter du 1er janvier 2012, cette disposition

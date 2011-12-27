@@ -1,6 +1,6 @@
 Article 278 septies
 ----
-La taxe sur la valeur ajoutée est perçue au taux de 5,5 % :
+La taxe sur la valeur ajoutée est perçue au taux de 7 % :
 
 1° Sur les importations d'oeuvres d'art, d'objets de collection ou d'antiquité,
 ainsi que sur les acquisitions intracommunautaires effectuées par un assujetti

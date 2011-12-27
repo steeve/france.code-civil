@@ -12,3 +12,7 @@ Le droit de communication est étendu, en ce qui concerne les documents
 mentionnés aux articles L. 83 à L. 95, au profit des agents des administrations
 chargés du recouvrement des impôts, droits et taxes prévus par le code général
 des impôts.
+
+Des fonctionnaires des administrations des autres Etats membres peuvent assister
+à l'exercice du droit de communication dans les conditions prévues au 3 de
+l'article L. 45.

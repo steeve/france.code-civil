@@ -24,7 +24,7 @@ Le prix moyen pondéré de vente au détail et la classe de prix de référence 
 concernant toutes les mises à la consommation effectuées l'année civile
 précédente, par arrêté du ministre chargé du budget.
 
-La part spécifique est égale à 9 % de la charge fiscale totale afférente aux
+La part spécifique est égale à 12 % de la charge fiscale totale afférente aux
 cigarettes de la classe de prix de référence et comprenant le droit de
 consommation et la taxe sur la valeur ajoutée.
 

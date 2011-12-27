@@ -113,3 +113,65 @@ de la date d'acquisition des titres.
 VIII.-Pour les sociétés coopératives d'intérêt collectif, la part des excédents
 mis en réserves impartageables est déductible de l'assiette de l'impôt sur les
 sociétés.
+
+IX.-1. Les charges financières afférentes à l'acquisition des titres de
+participation mentionnés au troisième alinéa du a quinquies du I de l'article
+219 sont rapportées au bénéfice de l'exercice lorsque l'entreprise n'est pas en
+mesure de démontrer par tous moyens, au titre de l'exercice ou des exercices
+couvrant une période de douze mois à compter de la date d'acquisition des titres
+ou, pour les titres acquis au cours d'un exercice ouvert avant le 1er janvier
+2012, du premier exercice ouvert après cette date, que les décisions relatives à
+ces titres sont effectivement prises par elle ou par une société établie en
+France la contrôlant au sens du I de l'article L. 233-3 du code de commerce ou
+par une société établie en France directement contrôlée par cette dernière au
+sens du même article L. 233-3 et, lorsque le contrôle ou une influence est
+exercé sur la société dont les titres sont détenus, que ce contrôle ou cette
+influence est effectivement exercé par la société détenant les titres ou par une
+société établie en France la contrôlant au sens du I dudit article L. 233-3 ou
+par une société établie en France directement contrôlée par cette dernière au
+sens de ce même article.
+
+2. Pour l'application du 1 du présent IX, les charges financières afférentes à
+l'acquisition des titres acquis sont réputées égales à une fraction des charges
+financières de l'entreprise les ayant acquis égale au rapport du prix
+d'acquisition de ces titres au montant moyen au cours de l'exercice de la dette
+de l'entreprise les ayant acquis.
+
+La réintégration s'applique au titre de l'exercice au titre duquel la
+démonstration mentionnée au même 1 doit être apportée et des exercices clos
+jusqu'au terme de la huitième année suivant celle de l'acquisition.
+
+3. En cas de fusion, de scission ou d'opération assimilée au cours de la période
+mentionnée au second alinéa du 2 et pour la fraction de cette période restant à
+courir, les charges financières déduites pour la détermination du résultat de la
+société absorbante ou bénéficiaire de l'apport sont rapportées à ce résultat
+pour une fraction égale au rapport du prix d'acquisition par la société absorbée
+ou scindée des titres mentionnés au 1 au montant moyen au cours de l'exercice de
+la dette de l'entreprise absorbante ou bénéficiaire de l'apport. En cas de
+scission ou d'apport partiel d'actif, la réintégration des charges financières
+est faite par la société détentrice des titres à l'issue de l'opération et le
+prix d'acquisition par la société scindée des titres mentionnés au même 1 est
+retenu, pour l'application du présent 3, au prorata du montant de l'actif net
+réel apporté à la ou les sociétés bénéficiaires des apports apprécié à la date
+d'effet de l'opération.
+
+4. Pour l'application du présent IX, le montant des charges financières et celui
+des dettes s'apprécient au titre de chaque exercice.
+
+5. Le présent IX n'est pas applicable lorsque la valeur totale des titres de
+participation mentionnés au troisième alinéa du a quinquies du I de l'article
+219 détenus par une société est inférieure à un million d'euros.
+
+6. Le présent IX ne s'applique pas au titre des exercices pour lesquels
+l'entreprise apporte la preuve :
+
+-que les acquisitions mentionnées au 1 n'ont pas été financées par des emprunts
+dont elle ou une autre société du groupe auquel elle appartient supporte les
+charges ;
+
+-ou que le ratio d'endettement du groupe auquel elle appartient est supérieur ou
+égal à son propre ratio d'endettement.
+
+Pour l'application des deuxième et troisième alinéas du présent 6, le groupe et
+les ratios d'endettement s'entendent conformément aux dispositions des deux
+derniers alinéas du III de l'article 212.

@@ -7,10 +7,10 @@ titres de créances, dépôts, cautionnements et comptes courants, peuvent opter
 pour leur assujettissement à un prélèvement qui libère les revenus auxquels il
 s'applique de l'impôt sur le revenu, lorsque la personne qui assure le paiement
 de ces revenus est établie en France, qu'il s'agisse ou non du débiteur, ce
-dernier étant établi dans un Etat membre de la Communauté européenne, ou dans un
-autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec
-la France une convention fiscale qui contient une clause d'assistance
-administrative en vue de lutter contre la fraude ou l'évasion fiscale.
+dernier étant établi dans un Etat membre de l'Union européenne, ou dans un autre
+Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la
+France une convention d'assistance administrative en vue de lutter contre la
+fraude et l'évasion fiscales.
 
 La retenue à la source éventuellement opérée sur les revenus dont le débiteur
 est établi en France est imputée sur le prélèvement.
@@ -41,7 +41,7 @@ ou territoire non coopératif.
 
 III bis. Le taux du prélèvement est fixé :
 
-1° à 19 % pour les produits d'obligations négociables et de titres
+1° à 24 % pour les produits d'obligations négociables et de titres
 participatifs.
 
 Ce taux est applicable aux intérêts servis aux salariés sur les versements
@@ -55,7 +55,7 @@ bénéficiant pas de l'exonération mentionnée au 9° bis de l'article 157 et a
 intérêts des comptes épargne d'assurance pour la forêt ne bénéficiant pas de
 l'exonération mentionnée au 23° du même article.
 
-1° bis à 19 % pour les produits des titres de créances négociables sur un marché
+1° bis à 24 % pour les produits des titres de créances négociables sur un marché
 réglementé en application d'une disposition législative particulière et non
 susceptibles d'être cotés.
 
@@ -85,7 +85,7 @@ courus du 1er janvier 1980 au 31 décembre 1982 inclus ;
 
 6° à 45 % pour les produits des bons et titres émis à compter du 1er janvier
 1983, à 35 % pour les produits des bons et titres émis à compter du 1er janvier
-1990 et à 19 % pour les produits de ceux émis à compter du 1er janvier 1995,
+1990 et à 24 % pour les produits de ceux émis à compter du 1er janvier 1995,
 lorsque le bénéficiaire des intérêts autorise l'établissement payeur, au moment
 du paiement, à communiquer son identité et son domicile fiscal à
 l'administration fiscale,
@@ -94,16 +94,16 @@ et à 60 % lorsque cette condition n'est pas remplie ;
 
 7° à 45 % pour les produits des placements, autres que les bons et titres courus
 à partir du 1er janvier 1983, à 35 % pour les produits des placements courus à
-partir du 1er janvier 1990 et à 19 % pour les produits des placements courus à
+partir du 1er janvier 1990 et à 24 % pour les produits des placements courus à
 partir du 1er janvier 1995 ;
 
-8° à 19 % pour les produits des parts émises par les fonds communs de créances.
+8° à 24 % pour les produits des parts émises par les fonds communs de créances.
 Le boni de liquidation peut être soumis à ce prélèvement au taux de 35 %.
 
-Le taux de 35 % est remplacé par celui de 19 % lorsque le boni est réparti à
+Le taux de 35 % est remplacé par celui de 24 % lorsque le boni est réparti à
 compter du 1er janvier 1995.
 
-9° à 19 % pour les produits des bons et titres énumérés au 2° émis à compter du
+9° à 24 % pour les produits des bons et titres énumérés au 2° émis à compter du
 1er janvier 1998 lorsque le souscripteur et le bénéficiaire, s'il est différent,
 ont autorisé, lors de la souscription, l'établissement auprès duquel les bons ou
 titres ont été souscrits à communiquer leur identité et leur domicile fiscal à

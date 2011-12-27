@@ -133,3 +133,13 @@ du montant des recettes taxes comprises de ses activités agricoles.
 IV. En cas de cession ou de cessation de leur activité, les exploitants
 agricoles sont tenus de souscrire dans les trente jours la déclaration prévue au
 1° du I ou, le cas échéant, au quatrième alinéa du I de l'article 1693 bis.
+
+V. - Les exploitants agricoles qui relèvent du régime simplifié prévu aux I et
+II du présent article peuvent, par dérogation aux dispositions du I de l'article
+1693 bis, imputer sur le montant des acomptes trimestriels prévus au même
+article 1693 bis acquittés au titre de l'année 2012 ou du premier exercice
+ouvert en 2012, dans la limite du montant de l'acompte, à hauteur de 64 % de la
+taxe sur la valeur ajoutée qui a grevé les achats, réglés au cours du trimestre
+civil précédant l'échéance de l'acompte, de produits antiparasitaires, sous
+réserve que ceux-ci aient fait l'objet soit d'une homologation, soit d'une
+autorisation de vente délivrée par le ministre chargé de l'agriculture.

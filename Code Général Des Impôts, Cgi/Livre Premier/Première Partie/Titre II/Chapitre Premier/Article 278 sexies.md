@@ -1,8 +1,9 @@
 Article 278 sexies
 ----
-La taxe sur la valeur ajoutée est perçue au taux réduit de 5,5 % en ce qui
-concerne : I.-Les opérations suivantes réalisées dans le cadre de la politique
-sociale :
+La taxe sur la valeur ajoutée est perçue au taux réduit de 7 % en ce qui
+concerne :
+
+I.-Les opérations suivantes réalisées dans le cadre de la politique sociale :
 
 1. Les livraisons de terrains à bâtir consenties aux organismes d'habitations à
 loyer modéré visés à l'article L. 411-2 du code de la construction et de
@@ -115,10 +116,10 @@ d'accession progressive à la propriété effectués dans les conditions prévue
 articles L. 443-6-2 et suivants du code de la construction et de l'habitation ;
 
 II.-Les livraisons à soi-même d'immeubles dont l'acquisition aurait bénéficié du
-taux réduit en application du I ;
+taux réduit de 7 % en application du I ;
 
 III.-Les livraisons à soi-même de travaux d'amélioration, de transformation,
 d'aménagement ou d'entretien, autres que l'entretien des espaces verts et les
-travaux de nettoyage, lorsqu'ils ne bénéficient pas du taux réduit de la taxe
-sur la valeur ajoutée en application de l'article 279-0 bis et dans la mesure où
-ces travaux portent sur les locaux mentionnés aux 2 à 8 du I.
+travaux de nettoyage, lorsqu'ils ne bénéficient pas du taux réduit de 7 % de la
+taxe sur la valeur ajoutée en application de l'article 279-0 bis et dans la
+mesure où ces travaux portent sur les locaux mentionnés aux 2 à 8 du I.

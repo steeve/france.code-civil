@@ -1,29 +1,44 @@
 Article L283 A
 ----
-L'administration peut requérir des Etats membres de la Communauté européenne et
-est tenue de leur prêter assistance en matière de recouvrement et d'échange de
-renseignements relatifs à toutes les créances afférentes :
+I. - Au sens du présent livre, l'Etat membre requérant s'entend de l'Etat membre
+de l'Union européenne qui formule une demande d'assistance et l'Etat membre
+requis de l'Etat membre de l'Union européenne auquel cette demande est adressée.
 
-1° Aux cotisations et aux autres droits prévus dans le cadre de l'organisation
-commune des marchés dans le secteur du sucre ;
+II. - L'administration peut requérir des Etats membres de l'Union européenne et
+elle est tenue de leur prêter assistance en matière de recouvrement, de
+notification d'actes ou de décisions, y compris judiciaires, de prises de
+mesures conservatoires et d'échange de renseignements relatifs à toutes les
+créances afférentes :
 
-2° A la taxe sur la valeur ajoutée ;
+1° A l'ensemble des taxes, impôts et droits quels qu'ils soient, perçus par un
+Etat membre ou pour le compte de celui-ci ou par ses subdivisions territoriales
+ou administratives ou pour le compte de celles-ci, y compris les autorités
+locales, ou pour le compte de l'Union ;
 
-3° Aux droits d'accises sur :
+2° Aux sanctions, amendes, redevances et majorations administratives liées aux
+créances pouvant faire l'objet d'une demande d'assistance mutuelle conformément
+au 1° prononcées par les autorités administratives chargées de la perception des
+taxes, impôts ou droits concernés ou des enquêtes administratives y afférentes
+ou ayant été confirmées, à la demande desdites autorités administratives, par
+des organes administratifs ou judiciaires ;
 
-a. les tabacs manufacturés ;
+3° Aux redevances perçues pour les attestations et les documents similaires
+délivrés dans le cadre de procédures administratives relatives aux taxes, impôts
+et droits ;
 
-b. l'alcool et les boissons alcoolisées ;
+4° Aux intérêts et frais relatifs aux créances pouvant faire l'objet d'une
+demande d'assistance conformément aux 1° à 3°.
 
-4° Aux impôts sur le revenu et sur la fortune mentionnés au cinquième tiret de
-l'article 3 de la directive 76/308/CEE du Conseil, du 15 mars 1976, concernant
-l'assistance mutuelle en matière de recouvrement des créances relatives à
-certains cotisations, droits, taxes et autres mesures ;
+III. - Sont exclus de cette assistance mutuelle :
 
-5° Aux taxes sur les primes d'assurances mentionnées au sixième tiret du même
-article ainsi qu'aux impôts et taxes de nature identique ou analogue qui
-viendraient s'ajouter à ces impôts ou taxes ou les remplacer ;
+1° Les cotisations sociales obligatoires dues à l'Etat membre ou à une de ses
+subdivisions ou aux organismes de sécurité sociale relevant du droit public ;
 
-6° Aux intérêts, aux pénalités, aux amendes administratives et aux frais
-relatifs aux créances visées aux 1° à 5°, à l'exclusion de toute sanction à
-caractère pénal.
+2° Les redevances qui ne sont pas mentionnées aux 2° et 3° du II ;
+
+3° Les droits de nature contractuelle, tels que la contrepartie versée pour
+l'exécution d'un service public ;
+
+4° Les sanctions pénales infligées sur la base de poursuites à la diligence du
+ministère public ou les autres sanctions pénales qui ne sont pas mentionnées au
+2° du II.

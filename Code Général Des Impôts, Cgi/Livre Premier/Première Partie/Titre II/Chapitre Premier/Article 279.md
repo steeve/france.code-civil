@@ -1,6 +1,6 @@
 Article 279
 ----
-La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 50 % en ce qui
+La taxe sur la valeur ajoutée est perçue au taux réduit de 7 % en ce qui
 concerne :
 
 a. Les prestations relatives :
@@ -10,18 +10,11 @@ demi-pension dans les établissements d'hébergement ; ce taux s'applique aux
 locations meublées dans les mêmes conditions que pour les établissements
 d'hébergement ;
 
-A la fourniture de logement et de nourriture dans les maisons de retraite et les
-établissements accueillant des personnes handicapées. Ce taux s'applique
-également aux prestations exclusivement liées, d'une part, à l'état de
-dépendance des personnes âgées et, d'autre part, aux besoins d'aide des
-personnes handicapées, hébergées dans ces établissements et qui sont dans
-l'incapacité d'accomplir les gestes essentiels de la vie quotidienne ;
-
 A la fourniture de logement dans les terrains de camping classés, lorsque
 l'exploitant du terrain de camping délivre une note dans les conditions fixées
-au a ter, assure l'accueil et consacre 1, 5 % de son chiffre d'affaires total
+au a ter, assure l'accueil et consacre 1,5 % de son chiffre d'affaires total
 hors taxes à des dépenses de publicité, ou si l'hébergement est assuré par un
-tiers lorsque celui-ci consacre 1, 5 % de son chiffre d'affaires total en France
+tiers lorsque celui-ci consacre 1,5 % de son chiffre d'affaires total en France
 à la publicité ;
 
 A la fourniture de logement et de nourriture dans les lieux de vie et d'accueil
@@ -58,12 +51,7 @@ théâtres de chansonniers ;
 
 cirques ;
 
-concerts, à l'exception de ceux qui sont donnés dans des établissements où il
-est d'usage de consommer pendant les séances. Toutefois, si les consommations
-sont servies facultativement pendant le spectacle et à la condition que
-l'exploitant soit titulaire de la licence d'entrepreneur de spectacle de la
-catégorie mentionnée au 1° de l'article D. 7122-1 du code du travail, le taux
-réduit s'applique au prix du billet donnant exclusivement accès au concert ;
+concerts ;
 
 spectacles de variétés, à l'exception de ceux qui sont donnés dans les
 établissements où il est d'usage de consommer pendant les séances ;
@@ -74,7 +62,11 @@ jeux et manèges forains à l'exception des appareils automatiques autres que ce
 qui sont assimilés à des loteries foraines en application de l'article 7 de la
 loi du 21 mai 1836 portant prohibition des loteries ;
 
-b bis a. (abrogé)
+b bis a. Le prix du billet d'entrée donnant exclusivement accès à des concerts
+donnés dans des établissements où il est servi facultativement des consommations
+pendant le spectacle et dont l'exploitant est titulaire de la licence de la
+catégorie mentionnée au 1° de l'article D. 7122-1 du code du travail. Un décret
+fixe les modalités d'application de ces dispositions ;
 
 b ter. les droits d'entrée pour la visite des parcs zoologiques et botaniques,
 des musées, monuments, grottes et sites ainsi que des expositions culturelles ;
@@ -85,7 +77,9 @@ b quinquies. les droits d'entrée dans les salles de spectacles
 cinématographiques quels que soient le procédé de fixation ou de transmission et
 la nature du support des oeuvres ou documents audiovisuels qui sont présentés ;
 
-b sexies. (Abrogé) ;
+b sexies. Les prestations correspondant au droit d'utilisation des animaux à des
+fins d'activités physiques et sportives et de toutes installations agricoles
+nécessaires à cet effet ;
 
 b septies. les travaux sylvicoles et d'exploitation forestière réalisés au
 profit d'exploitants agricoles, y compris les travaux d'entretien des sentiers
@@ -97,18 +91,18 @@ b octies. Les abonnements souscrits par les usagers afin de recevoir les
 services de télévision mentionnés à l'article 2 de la loi n° 86-1067 du 30
 septembre 1986 relative à la liberté de communication.
 
-Le taux réduit n'est pas applicable lorsque la distribution de services de
-télévision est comprise dans une offre unique qui comporte pour un prix
+Le taux prévu à l'article 278 est applicable lorsque la distribution de services
+de télévision est comprise dans une offre unique qui comporte pour un prix
 forfaitaire l'accès à un réseau de communications électroniques au sens du 2° de
 l'article L. 32 du code des postes et des communications électroniques.
 Néanmoins, lorsque les droits de distribution des services de télévision ont été
 acquis en tout ou partie contre rémunération par le fournisseur des services, le
-taux réduit est applicable à la part de l'abonnement correspondante. Cette part
-est égale, en fonction du choix opéré par le distributeur des services, soit aux
-sommes payées, par usager, pour l'acquisition des droits susmentionnés, soit au
-prix auquel les services correspondant aux mêmes droits sont distribués
-effectivement par ce distributeur dans une offre de services de télévision
-distincte de l'accès à un réseau de communications électroniques.
+taux réduit de 7 % est applicable à la part de l'abonnement correspondante.
+Cette part est égale, en fonction du choix opéré par le distributeur des
+services, soit aux sommes payées, par usager, pour l'acquisition des droits
+susmentionnés, soit au prix auquel les services correspondant aux mêmes droits
+sont distribués effectivement par ce distributeur dans une offre de services de
+télévision distincte de l'accès à un réseau de communications électroniques.
 
 b nonies. les droits d'entrée perçus pour la visite des parcs à décors animés
 qui illustrent un thème culturel et pour la pratique des activités directement
@@ -124,18 +118,11 @@ manifestations organisées, l'exploitant doit faire apparaître dans sa
 comptabilité une ventilation des recettes correspondant à chaque taux. La
 détermination de l'assiette de l'impôt s'effectue sur une base réelle ;
 
-b decies. Les abonnements relatifs aux livraisons d'électricité d'une puissance
-maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de
-gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de
-chaleur lorsqu'elle est produite au moins à 50 % à partir de la biomasse, de la
-géothermie, des déchets et d'énergie de récupération.
-
-La puissance maximale prise en compte correspond à la totalité des puissances
-maximales souscrites par un même abonné sur un même site ;
+b decies. (Abrogé) ;
 
 c, d, e. (Abrogés à compter du 1er janvier 1993) ;
 
-f. (Abrogé)
+f. (Abrogé) ;
 
 g. Les cessions des droits patrimoniaux reconnus par la loi aux auteurs des
 oeuvres de l'esprit et aux artistes-interprètes ainsi que de tous droits portant
@@ -166,9 +153,14 @@ groupements aux exploitants assurant les prestations de balayage des caniveaux
 et voies publiques lorsqu'elles se rattachent au service public de voirie
 communale ;
 
-l. Les remboursements et les rémunérations versés par les communes ou leurs
-groupements aux exploitants assurant les prestations de déneigement des voies
-publiques lorsqu'elles se rattachent à un service public de voirie communale ;
+l. Les remboursements et les rémunérations versés par les départements, les
+communes ou leurs groupements aux exploitants assurant les prestations de
+déneigement des voies publiques lorsqu'elles se rattachent à un service public
+de voirie communale ou départementale ;
 
 m. Les ventes à consommer sur place, à l'exclusion de celles relatives aux
-boissons alcooliques.
+boissons alcooliques qui relèvent du taux prévu à l'article 278 ;
+
+n. Les ventes à emporter ou à livrer de produits alimentaires préparés en vue
+d'une consommation immédiate, à l'exclusion de celles relatives aux boissons
+alcooliques qui relèvent du taux prévu à l'article 278.

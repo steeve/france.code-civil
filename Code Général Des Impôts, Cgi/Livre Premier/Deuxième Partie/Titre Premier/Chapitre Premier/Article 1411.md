@@ -19,13 +19,13 @@ est égal à un certain pourcentage, ce pourcentage pouvant varier de un pour ce
 habitations de la commune.
 
 3. Sans préjudice de l'application de l'abattement prévu au 2, le conseil
-municipal peut accorder un abattement à la base aux contribuables dont le
-montant des revenus de l'année précédente n'excède pas la limite prévue à
-l'article 1417 et dont l'habitation principale a une valeur locative inférieure
-à 130 % de la moyenne communale. Cet abattement est égal à un pourcentage de la
-valeur locative moyenne des habitations de la commune, ce pourcentage pouvant
-varier de un pour cent à plusieurs pour cent sans excéder 15 % ; il peut être
-augmenté de 10 points par personne à charge à titre exclusif ou principal.
+municipal peut accorder un abattement à la base égal à un pourcentage de la
+valeur locative moyenne des habitations de la commune, exprimé en nombre entier,
+ne pouvant excéder 15 %, aux contribuables dont le montant des revenus de
+l'année précédente n'excède pas la limite prévue à l'article 1417 et dont
+l'habitation principale a une valeur locative inférieure à 130 % de la moyenne
+communale. Ce dernier pourcentage est augmenté de 10 points par personne à
+charge à titre exclusif ou principal (1).
 
 3 bis Sans préjudice de l'abattement prévu aux 2 et 3, les conseils municipaux
 peuvent, par une délibération prise dans les conditions prévues à l'article 1639
@@ -92,7 +92,7 @@ En l'absence de délibération, les abattements applicables sont ceux résultant
 des votes des conseils municipaux, calculés sur la valeur locative moyenne de la
 commune.
 
-II ter. - 1. Les taux visés au 1 du II et leurs majorations votées par les
+II ter.-1. Les taux visés au 1 du II et leurs majorations votées par les
 conseils municipaux et les organes délibérants des établissements publics de
 coopération intercommunale à fiscalité propre, la majoration visée au 3 du II
 ainsi que le montant de l'abattement obligatoire pour charges de famille fixé en
@@ -104,7 +104,7 @@ enfants réputés à charge égale de l'un et l'autre de leurs parents sont
 décomptés en premier pour le calcul de l'abattement obligatoire pour charges de
 famille.
 
-II quater. - Pour les communes et établissements publics de coopération
+II quater.-Pour les communes et établissements publics de coopération
 intercommunale à fiscalité propre bénéficiaires en 2011 du transfert de la taxe
 d'habitation départementale, le montant de chacun des abattements mentionnés au
 II est, à compter de 2011, corrigé d'un montant égal à la différence entre :
@@ -121,10 +121,26 @@ intercommunale et du département en 2010 ;
 l'établissement public de coopération intercommunale à fiscalité propre
 bénéficiaire du transfert.
 
+Le montant de l'abattement ainsi corrigé ne peut être inférieur à zéro. (1)
+
 Lorsque le territoire d'un établissement public de coopération intercommunale se
 situe sur plusieurs départements, la correction de l'abattement intercommunal
 est effectuée pour chaque partie de son territoire appartenant à chacun des
 départements.
+
+Par dérogation aux dispositions du présent II quater, en cas de rattachement
+volontaire à un établissement public de coopération intercommunale qui faisait
+application en 2011 de l'article 1609 nonies C d'une commune qui n'était pas
+membre en 2011 d'un tel établissement, les abattements communaux mentionnés au
+II du présent article cessent d'être corrigés à compter de l'année du
+rattachement.
+
+Les conseils municipaux et les organes délibérants des établissements publics de
+coopération intercommunale à fiscalité propre qui délibèrent pour fixer le
+montant des abattements applicables sur leur territoire conformément aux II et
+II bis du présent article peuvent, par une délibération prise dans les
+conditions prévues au I de l'article 1639 A bis, supprimer la correction des
+abattements prévue au présent II quater.
 
 III. Sont considérés comme personnes à la charge du contribuable :
 

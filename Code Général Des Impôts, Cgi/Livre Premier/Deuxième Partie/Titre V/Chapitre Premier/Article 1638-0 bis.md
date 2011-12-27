@@ -1,6 +1,6 @@
 Article 1638-0 bis
 ----
-I. - En cas de fusion d'établissements publics de coopération intercommunale à
+I.-En cas de fusion d'établissements publics de coopération intercommunale à
 fiscalité propre additionnelle, réalisée dans les conditions prévues par
 l'article L. 5211-41-3 du code général des collectivités territoriales,
 l'établissement public de coopération intercommunale issu de la fusion est
@@ -10,6 +10,7 @@ statuant à la majorité simple de ses membres, prise au plus tard le 31 décemb
 de l'année de la fusion. Il en est de même en cas de fusion d'établissements
 publics de coopération intercommunale à fiscalité additionnelle et
 d'établissements publics de coopération intercommunale sans fiscalité propre.
+
 Les taux de fiscalité additionnelle de l'établissement public de coopération
 intercommunale issu de la fusion sont fixés la première année suivant celle de
 la fusion selon les modalités suivantes :
@@ -22,7 +23,31 @@ bases de ces établissements publics de coopération intercommunale. Dans le cas
 d'une fusion entre un établissement public de coopération intercommunale à
 fiscalité propre additionnelle et un établissement public de coopération
 intercommunale sans fiscalité propre, les taux retenus sont ceux de
-l'établissement à fiscalité propre additionnelle ;
+l'établissement à fiscalité propre additionnelle.
+
+Toutefois, des taux d'imposition de taxe d'habitation, de taxes foncières et de
+cotisation foncière des entreprises différents peuvent être appliqués sur le
+territoire des établissements publics de coopération intercommunale
+préexistants, pour l'établissement des douze premiers budgets de l'établissement
+public de coopération intercommunale issu de la fusion. Cette procédure
+d'intégration fiscale progressive doit être précédée d'une homogénéisation des
+abattements appliqués pour le calcul de la taxe d'habitation. Cette décision est
+prise soit par délibérations concordantes des établissements publics de
+coopération intercommunale préexistants avant la fusion, soit par une
+délibération de l'établissement public de coopération intercommunale issu de la
+fusion.
+
+Les différences qui affectent les taux d'imposition appliqués sur le territoire
+des établissements publics de coopération intercommunale préexistants sont
+réduites chaque année d'un treizième et supprimées à partir de la treizième
+année.
+
+Le deuxième alinéa du présent 1° n'est pas applicable lorsque, pour chacune des
+taxes en cause, le taux d'imposition appliqué dans l'établissement public de
+coopération intercommunale préexistant le moins imposé était égal ou supérieur à
+80 % du taux d'imposition correspondant appliqué dans l'établissement public de
+coopération intercommunale le plus imposé pour l'année antérieure à
+l'établissement du premier des douze budgets susvisés.
 
 2° Soit dans les conditions prévues par le II de l'article 1636 B sexies. Pour
 l'application de cette disposition, le taux moyen pondéré de chacune des quatre
@@ -40,10 +65,10 @@ communes. Le taux moyen pondéré tient compte des produits perçus par les
 A compter de la deuxième année suivant celle de la fusion, les taux de
 l'établissement public de coopération intercommunale issu de la fusion sont
 fixés en application du I de l'article 1636 B sexies s'il relève du régime de la
-fiscalité additionnelle et en application du III du même article s'il relève du
-régime prévu à l'article 1609 nonies C.
+fiscalité additionnelle et en application de l'article 1636 B decies s'il relève
+du régime prévu à l'article 1609 nonies C.
 
-II. - En cas de fusion d'établissements publics de coopération intercommunale
+II.-En cas de fusion d'établissements publics de coopération intercommunale
 soumis à l'article 1609 quinquies C, réalisée dans les conditions prévues par
 l'article L. 5211-41-3 du code général des collectivités territoriales,
 l'établissement public de coopération intercommunale issu de la fusion est
@@ -104,7 +129,7 @@ l'établissement public de coopération intercommunale relève du régime prévu
 l'article 1609 nonies C, le taux de la cotisation foncière des entreprises est
 fixé en application des articles 1636 B decies et 1609 nonies C.
 
-III. - En cas de fusion d'établissements publics de coopération intercommunale
+III.-En cas de fusion d'établissements publics de coopération intercommunale
 soumis à l'article 1609 nonies C, réalisée dans les conditions prévues par
 l'article L. 5211-41-3 du code général des collectivités territoriales,
 l'établissement public de coopération intercommunale issu de la fusion est
@@ -133,7 +158,50 @@ territoire de la commune au titre de l'année précédente pour les établisseme
 publics de coopération intercommunale préexistants faisant application du
 dispositif de réduction des écarts de taux.
 
-A compter de la deuxième année suivant celle de la fusion, le taux de la
-cotisation foncière des entreprises de l'établissement public de coopération
-intercommunale est fixé conformément aux articles 1636 B decies et 1609 ndonies
-C.
+Pour la première année suivant celle de la fusion, les taux de la taxe
+d'habitation et des taxes foncières de l'établissement public de coopération
+intercommunale issu de la fusion sont fixés :
+
+1° Soit dans les conditions prévues aux articles 1636 B sexies, à l'exclusion du
+a du 1 du I, et 1636 B decies. Pour l'application de cette disposition, les taux
+de l'année précédente sont égaux au taux moyen de chaque taxe des établissements
+publics de coopération intercommunale à fiscalité propre, pondéré par
+l'importance des bases de ces établissements publics de coopération
+intercommunale. Dans le cas d'une fusion entre un établissement public de
+coopération intercommunale à fiscalité propre et un établissement public de
+coopération intercommunale sans fiscalité propre, les taux retenus sont ceux de
+l'établissement public de coopération intercommunale à fiscalité propre.
+
+Par dérogation, des taux d'imposition de taxe d'habitation et de taxes foncières
+différents peuvent être appliqués selon le territoire des établissements publics
+de coopération intercommunale préexistants pour l'établissement des douze
+premiers budgets de l'établissement public de coopération intercommunale issu de
+la fusion. Toutefois, cette procédure d'intégration fiscale progressive doit
+être précédée d'une homogénéisation des abattements appliqués pour le calcul de
+la taxe d'habitation. Cette décision est prise soit par délibérations
+concordantes des établissements publics de coopération intercommunale
+préexistants avant la fusion, soit par une délibération de l'établissement
+public de coopération intercommunale issu de la fusion.
+
+Les différences qui affectent les taux d'imposition appliqués sur le territoire
+des établissements publics de coopération intercommunale préexistants sont
+réduites chaque année d'un treizième et supprimées à partir de la treizième
+année.
+
+Le deuxième alinéa du présent 1° n'est pas applicable lorsque, pour chacune des
+taxes en cause, le taux d'imposition appliqué dans l'établissement public de
+coopération intercommunale préexistant le moins imposé était égal ou supérieur à
+80 % du taux d'imposition correspondant appliqué dans l'établissement public de
+coopération intercommunale le plus imposé pour l'année antérieure à
+l'établissement du premier des douze budgets susvisés ;
+
+2° Soit dans les conditions prévues au deuxième alinéa du II de l'article 1609
+nonies C. Pour l'application de cette disposition, le taux moyen pondéré de
+chacune des trois taxes tient compte des produits perçus par les établissements
+publics de coopération intercommunale préexistants.
+
+A compter de la deuxième année suivant celle de la fusion, les taux de
+cotisation foncière des entreprises, de la taxe d'habitation et des taxes
+foncières de l'établissement public de coopération intercommunale sont fixés
+conformément aux articles 1636 B sexies, à l'exclusion du a du 1 du I, 1636 B
+decies et 1609 nonies C.

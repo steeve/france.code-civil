@@ -1,8 +1,8 @@
 Article L524-2
 ----
-Il est institué une redevance d'archéologie préventive due par les personnes
-publiques ou privées projetant d'exécuter des travaux affectant le sous-sol et
-qui :
+Il est institué une redevance d'archéologie préventive due par les personnes, y
+compris membres d'une indivision, projetant d'exécuter des travaux affectant le
+sous-sol et qui :
 
 a) Sont soumis à une autorisation ou à une déclaration préalable en application
 du code de l'urbanisme ;

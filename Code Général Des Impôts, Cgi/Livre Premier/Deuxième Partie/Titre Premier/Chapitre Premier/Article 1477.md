@@ -21,3 +21,9 @@ tenu de souscrire dans les mêmes délais une déclaration rectificative de ses
 bases de cotisation foncière des entreprises.
 
 III. Abrogé.
+
+IV. - Les contribuables qui n'emploient aucun salarié en France et qui n'y
+disposent d'aucun établissement mais qui y exercent une activité de location
+d'immeubles ou de vente d'immeubles doivent déposer leurs déclarations au lieu
+de situation de l'immeuble dont la valeur locative foncière est la plus élevée
+au 1er janvier de l'année d'imposition.

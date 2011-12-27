@@ -1,9 +1,9 @@
 Article 1649 quater B quater
 ----
-I. - Les déclarations d'impôt sur les sociétés et leurs annexes relatives à un
+I.-Les déclarations d'impôt sur les sociétés et leurs annexes relatives à un
 exercice sont souscrites par voie électronique lorsque le chiffre d'affaires
-réalisé par l'entreprise au titre de l'exercice précédent est supérieur à 15 000
-000 d'euros hors taxes.
+réalisé par l'entreprise au titre de l'exercice précédent est supérieur à 15
+millions d'euros hors taxes.
 
 Cette obligation s'applique également aux entreprises qui, quel que soit leur
 chiffre d'affaires, appartiennent à l'une des catégories suivantes :
@@ -51,26 +51,31 @@ personnes de droit ou de fait qui ont opté pour le dépôt de leurs déclaratio
 fiscales auprès du service chargé des grandes entreprises dans des conditions
 fixées par décret.
 
-II. - Les déclarations de bénéfices industriels et commerciaux, de bénéfices non
+II.-Les déclarations de bénéfices industriels et commerciaux, de bénéfices non
 commerciaux et de bénéfices agricoles ainsi que leurs annexes sont souscrites
 par voie électronique par les entreprises définies aux deuxième à dixième
 alinéas du I.
 
-III. - Les déclarations de taxe sur la valeur ajoutée, leurs annexes et les
+III.-Les déclarations de taxe sur la valeur ajoutée, leurs annexes et les
 demandes de remboursement de crédit de cette taxe, ainsi que les déclarations de
 taxes assimilées aux taxes sur le chiffre d'affaires et leurs annexes sont
 souscrites par voie électronique lorsque le chiffre d'affaires ou les recettes
 réalisés par le redevable au titre de l'exercice précédent est supérieur à 230
-000 € hors taxes.
+000 € hors taxes (1).
 
 Cette obligation s'applique également aux redevables définis aux deuxième à
 dixième alinéas du I.
 
-IV. - Les déclarations de cotisation sur la valeur ajoutée des entreprises sont
+IV.-Les déclarations de cotisation sur la valeur ajoutée des entreprises sont
 obligatoirement souscrites par voie électronique par les redevables définis aux
 deuxième à dernier alinéas du I ou lorsque le chiffre d'affaires de l'entreprise
 redevable est supérieur à 500 000 €.
 
-V. - L'état récapitulatif mentionné au III de l'article 289 B est souscrit par
+V.-L'état récapitulatif mentionné au III de l'article 289 B est souscrit par
 voie électronique. Toutefois, les assujettis bénéficiant du régime visé à
 l'article 293 B peuvent le déposer sur support papier.
+
+VI. ― Les déclarations de résultats des sociétés immobilières non soumises à
+l'impôt sur les sociétés ainsi que leurs annexes sont souscrites par voie
+électronique par les entreprises définies aux deuxième à dernier alinéas du I et
+par les sociétés dont le nombre d'associés est supérieur ou égal à 100.

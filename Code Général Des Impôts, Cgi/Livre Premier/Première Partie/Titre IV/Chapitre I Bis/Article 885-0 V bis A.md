@@ -37,21 +37,21 @@ associations reconnues d'utilité publique de financement et d'accompagnement de
 la création et de la reprise d'entreprises dont la liste est fixée par décret.
 Ouvrent également droit à la réduction d'impôt les dons et versements effectués
 au profit d'organismes agréés dans les conditions prévues à l'article 1649
-nonies dont le siège est situé dans un Etat membre de la Communauté européenne
-ou dans un Etat partie à l'Espace économique européen ayant conclu avec la
-France une convention fiscale contenant une clause d'assistance administrative
-en vue de lutter contre la fraude ou l'évasion fiscale. L'agrément est accordé
-aux organismes poursuivant des objectifs et présentant des caractéristiques
-similaires aux organismes dont le siège est situé en France entrant dans le
-champ d'application du présent I.
+nonies dont le siège est situé dans un Etat membre de l'Union européenne ou dans
+un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu
+avec la France une convention d'assistance administrative en vue de lutter
+contre la fraude et l'évasion fiscales. L'agrément est accordé aux organismes
+poursuivant des objectifs et présentant des caractéristiques similaires aux
+organismes dont le siège est situé en France entrant dans le champ d'application
+du présent I.
 
 Lorsque les dons et versements ont été effectués au profit d'un organisme non
-agréé dont le siège est situé dans un Etat membre de la Communauté européenne ou
-dans un Etat partie à l'Espace économique européen ayant conclu avec la France
-une convention fiscale contenant une clause d'assistance administrative en vue
-de lutter contre la fraude ou l'évasion fiscale, la réduction d'impôt obtenue
-fait l'objet d'une reprise, sauf lorsque le contribuable a produit dans le délai
-de dépôt de déclaration les pièces justificatives attestant que cet organisme
+agréé dont le siège est situé dans un Etat membre de l'Union européenne ou dans
+un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu
+avec la France une convention d'assistance administrative en vue de lutter
+contre la fraude et l'évasion fiscales, la réduction d'impôt obtenue fait
+l'objet d'une reprise, sauf lorsque le contribuable a produit dans le délai de
+dépôt de déclaration les pièces justificatives attestant que cet organisme
 poursuit des objectifs et présente des caractéristiques similaires aux
 organismes dont le siège est situé en France répondant aux conditions fixées par
 le présent article.

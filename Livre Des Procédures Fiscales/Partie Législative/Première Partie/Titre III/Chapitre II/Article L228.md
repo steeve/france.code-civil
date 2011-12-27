@@ -18,11 +18,9 @@ laquelle existe un risque de dépérissement des preuves résulte :
 
 1° Soit de l'utilisation, aux fins de se soustraire à l'impôt, de comptes ou de
 contrats souscrits auprès d'organismes établis dans un Etat ou territoire qui
-n'a pas conclu avec la France de convention d'assistance administrative en vue
-de lutter contre la fraude ou l'évasion fiscale entrée en vigueur au moment des
-faits et dont la mise en œuvre permet l'accès effectif à tout renseignement, y
-compris bancaire, nécessaire à l'application de la législation fiscale française
-;
+n'a pas conclu avec la France, depuis au moins trois ans au moment des faits,
+une convention d'assistance administrative permettant l'échange de tout
+renseignement nécessaire à l'application de la législation fiscale française ;
 
 2° Soit de l'interposition, dans un Etat ou territoire mentionné au 1°, de
 personnes physiques ou morales ou de tout organisme, fiducie ou institution

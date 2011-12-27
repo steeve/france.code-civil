@@ -8,7 +8,7 @@ ou de transmission universelle du patrimoine mentionnée à l'article 1844-5 du
 code civil, la cotisation sur la valeur ajoutée des entreprises est due
 également par le redevable qui n'exerce aucune activité imposable au 1er janvier
 de l'année et auquel l'activité est transmise lorsque l'opération intervient au
-cours de l'année d'imposition. (1)
+cours de l'année d'imposition.
 
 II.-1. Le montant de la valeur ajoutée fait l'objet, au plus tard le deuxième
 jour ouvré suivant le 1er mai de l'année suivant celle au titre de laquelle la
@@ -33,11 +33,13 @@ Un décret précise les conditions d'application du présent 1.
 
 2. En cas de transmission universelle du patrimoine mentionnée à l'article
 1844-5 du code civil, de cession ou de cessation d'entreprise ou de l'exercice
-d'une profession commerciale, ou de décès du contribuable, les déclarations
-mentionnées au 1 du présent II et au dernier alinéa de l'article 1679 septies
-doivent être souscrites dans un délai de soixante jours décompté dans les
-conditions prévues, selon le cas, aux 1 ou 4 de l'article 201 ou au 1 de
-l'article 202. (1)
+d'une profession commerciale, d'ouverture d'une procédure de sauvegarde, de
+redressement ou de liquidation judiciaires, ou de décès du contribuable, les
+déclarations mentionnées au 1 du présent II et au dernier alinéa de l'article
+1679 septies doivent être souscrites dans un délai de soixante jours décompté
+soit dans les conditions prévues, selon le cas, aux 1 ou 4 de l'article 201 ou
+au 1 de l'article 202 soit au jour du jugement d'ouverture de la procédure
+collective.
 
 III.-La valeur ajoutée est imposée dans la commune où le contribuable la
 produisant dispose de locaux ou emploie des salariés exerçant leur activité plus
@@ -93,7 +95,9 @@ ajoutée du contribuable est répartie entre les communes à partir des élémen
 mentionnés dans la déclaration de l'année précédente. A défaut, la valeur
 ajoutée du contribuable est répartie entre les communes où le contribuable
 dispose d'immobilisations imposables à la cotisation foncière des entreprises au
-prorata de leur valeur locative.
+prorata de leur valeur locative. Dans ce second cas, la valeur locative des
+immobilisations industrielles évaluée dans les conditions prévues aux articles
+1499 et 1501 est pondérée par un coefficient de 2 (1).
 
 Pour les contribuables qui n'emploient aucun salarié en France et ne disposent
 d'aucun établissement en France mais qui y exercent une activité de location
@@ -107,9 +111,8 @@ chacun de ces immeubles ;
 déclaration mentionnée au 1 du II ;
 
 3° Les déclarations mentionnées au 1 du II du présent article et au dernier
-alinéa de l'article 1679 septies doivent être déposées au lieu de situation de
-l'immeuble dont la valeur locative foncière est la plus élevée au 1er janvier de
-l'année d'imposition.
+alinéa de l'article 1679 septies doivent être déposées au lieu de dépôt de la
+déclaration de résultat.
 
 Pour l'application du présent III, la valeur locative des immobilisations
 imposables à la cotisation foncière des entreprises s'entend avant application

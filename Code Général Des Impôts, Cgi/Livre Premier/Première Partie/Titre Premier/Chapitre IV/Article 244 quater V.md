@@ -2,22 +2,22 @@ Article 244 quater V
 ----
 I. ― Les établissements de crédit mentionnés à l'article L. 511-1 du code
 monétaire et financier passibles de l'impôt sur les sociétés, de l'impôt sur le
-revenu ou d'un impôt équivalent, ayant leur siège dans un Etat membre de la
-Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
-économique européen ayant conclu avec la France une convention fiscale contenant
-une clause d'assistance administrative en vue de lutter contre la fraude et
-l'évasion fiscales, peuvent bénéficier d'un crédit d'impôt au titre des prêts ne
-portant pas intérêt mentionnés à l'article L. 31-10-1 du code de la construction
-et de l'habitation.
+revenu ou d'un impôt équivalent, ayant leur siège dans un Etat membre de l'Union
+européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
+européen ayant conclu avec la France une convention d'assistance administrative
+en vue de lutter contre la fraude et l'évasion fiscales, peuvent bénéficier d'un
+crédit d'impôt au titre des prêts ne portant pas intérêt mentionnés à l'article
+L. 31-10-1 du code de la construction et de l'habitation.
 
 Les conditions d'attribution et les modalités des prêts ne portant pas intérêt
 mentionnés au premier alinéa sont fixées chaque année par décret dans les
 conditions prévues aux articles L. 31-10-1 et suivants du code de la
 construction et de l'habitation. Une étude d'impact jointe au décret fait
 apparaître les mesures prises pour que le montant des crédits d'impôt afférents
-aux prêts ne portant pas intérêt versés sur une même période de douze mois ne
-dépasse pas 2,6 milliards d'euros. Ce montant s'entend du montant brut des
+aux prêts ne portant pas intérêt émis sur une même période de douze mois ne
+dépasse pas 820 millions d'euros. Ce montant s'entend du montant brut des
 crédits d'impôt accordés, diminué de l'impôt sur les bénéfices correspondant.
+(1)
 
 II. ― Le montant du crédit d'impôt est égal à l'écart entre la somme actualisée
 des mensualités dues au titre du prêt ne portant pas intérêt et la somme

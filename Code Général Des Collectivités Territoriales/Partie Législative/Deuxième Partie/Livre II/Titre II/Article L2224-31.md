@@ -11,7 +11,7 @@ bon accomplissement des missions de service public fixées, pour ce qui concerne
 les autorités concédantes, par les cahiers des charges de ces concessions.
 
 Les autorités concédantes précitées assurent le contrôle des réseaux publics de
-distribution d'électricité et de gaz.A cette fin, elles désignent un agent du
+distribution d'électricité et de gaz. A cette fin, elles désignent un agent du
 contrôle distinct du gestionnaire du réseau public de distribution.
 
 Chaque organisme de distribution d'électricité et de gaz tient à la disposition
@@ -68,34 +68,54 @@ compétents en matière de distribution publique d'électricité et de gaz ayant
 constitué un organisme de distribution mentionné à l'article 23 de la loi n°
 46-628 du 8 avril 1946 précitée ou du III du présent article.
 
-Le Fonds d'amortissement des charges d'électrification, institué par l'article
-108 de la loi du 31 décembre 1936 portant fixation du budget général de
-l'exercice 1937, peut consentir des aides financières pour la réalisation des
-travaux d'électrification rurale dont la maîtrise d'ouvrage est assurée par les
-collectivités et les établissements mentionnés à l'alinéa précédent.A cet effet,
-il est alimenté par des contributions annuelles des gestionnaires des réseaux
-publics de distribution, assises sur le nombre de kilowattheures distribués à
-partir des ouvrages exploités en basse tension. Il peut également consentir des
-aides financières pour la réalisation d'opérations de maîtrise de la demande
-d'électricité ou de production d'électricité par des énergies renouvelables dont
-la maîtrise d'ouvrage est assurée dans les conditions prévues à l'alinéa
-précédent, lorsqu'elles permettent d'éviter des extensions ou des renforcements
-de réseaux, ainsi que, dans les zones non interconnectées au réseau
-métropolitain continental, pour la réalisation des installations de production
-de proximité mentionnées à l'article L. 2224-33.
+L'autorité organisatrice d'un réseau public de distribution d'électricité
+mentionnée au IV peut recevoir des aides pour le financement d'une partie du
+coût des travaux visés à l'article L. 322-6 du code de l'énergie dont elle
+assure la maîtrise d'ouvrage en application de l'alinéa précédent sur les
+ouvrages ruraux de ce réseau.
 
-Il est interdit aux entreprises, nonobstant toutes stipulations contractuelles
-contraires, de récupérer soit sur les consommateurs, soit sur les autorités
-concédantes, la contribution prévue à l'alinéa précédent.
+Dans les mêmes conditions, elle peut recevoir ces aides pour la réalisation
+d'opérations de maîtrise de la demande d'électricité, de production
+d'électricité par des énergies renouvelables ainsi que, dans les zones non
+interconnectées au réseau métropolitain continental, pour la réalisation des
+installations de production de proximité mentionnées à l'article L. 2224-33 du
+présent code lorsque ces différentes opérations permettent d'éviter des
+extensions ou des renforcements de réseaux.
 
-Aucune indemnité ne peut être réclamée par les concessionnaires ou les
-distributeurs non nationalisés mentionnés à l'article 23 de la loi n° 46-628 du
-8 avril 1946 précitée à l'Etat ou aux autorités concédantes du fait de
-l'application des présentes dispositions.
+La répartition annuelle des aides est arrêtée par le ministre chargé de
+l'énergie, après avis d'un conseil composé notamment, dans la proportion des
+deux cinquièmes au moins, de représentants des collectivités territoriales et
+des établissements publics maîtres d'ouvrage de travaux et présidé par un membre
+pris parmi ces représentants, en tenant compte de l'inventaire des besoins
+recensés tous les deux ans dans chaque département auprès des maîtres d'ouvrage
+des travaux mentionnés à l'article L. 322-6 du code de l'énergie.
 
-Un décret en Conseil d'Etat détermine les bases de l'attribution des
-participations ainsi que l'organisation et la gestion du Fonds d'amortissement
-des charges d'électrification.
+Un décret en Conseil d'Etat, pris après avis de ce conseil, précise les
+catégories de travaux mentionnés aux septième et huitième alinéas du présent I
+susceptibles de bénéficier des aides et fixe les règles d'attribution de
+celles-ci ainsi que leurs modalités de gestion.
+
+I bis.-Pour le financement des aides aux collectivités pour l'électrification
+rurale, il est dû par les gestionnaires des réseaux publics de distribution une
+contribution, assise sur le nombre de kilowattheures distribués à partir des
+ouvrages exploités en basse tension l'année précédant celle du versement de la
+contribution. Le taux de cette contribution est fixé annuellement au début de
+l'exercice concerné par arrêté des ministres chargés du budget et de l'énergie
+après consultation du conseil mentionné à l'avant-dernier alinéa du I. Ce taux
+est compris :
+
+a) Entre 0,03 et 0,05 centime d'euro par kilowattheure pour les communes dont la
+population est inférieure à 2 000 habitants ;
+
+b) Entre 0,15 et 0,25 centime d'euro par kilowattheure pour les autres communes.
+
+Le taux fixé au b doit être au moins égal à cinq fois le taux fixé au a.
+
+Les gestionnaires des réseaux publics de distribution acquittent leur
+contribution auprès des comptables de la direction générale des finances
+publiques comme en matière de taxes sur le chiffre d'affaires. Le retard à
+verser la contribution expose aux pénalités de retard prévues à l'article 1727
+du code général des impôts.
 
 II.-Pour assurer le respect des principes et conditions énoncés à l'article 1er
 de la loi n° 2000-108 du 10 février 2000 précitée et à l'article 16 de la loi n°

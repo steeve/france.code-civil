@@ -21,3 +21,7 @@ Sous réserve du 2 du VI de l'article 1379-0 bis, les syndicats mixtes sont, dan
 les mêmes conditions, substitués aux établissements publics de coopération
 intercommunale à fiscalité propre et aux communautés et syndicats
 d'agglomération nouvelle qui y adhèrent pour l'ensemble de cette compétence.
+
+Nonobstant les dispositions de l'article L. 5731-3 du code général des
+collectivités territoriales, le présent article n'est pas applicable aux pôles
+métropolitains constitués en application de l'article L. 5731-1 du même code.

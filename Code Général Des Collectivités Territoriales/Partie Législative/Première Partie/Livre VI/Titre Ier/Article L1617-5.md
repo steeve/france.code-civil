@@ -152,3 +152,10 @@ chargés du recouvrement d'une créance dont l'assiette est établie et qui est
 liquidée par une collectivité territoriale ou l'un de ses établissements publics
 disposent d'un droit d'accès aux fichiers utilisés par les services en charge de
 l'établissement de l'assiette et du recouvrement des impôts.
+
+9° Les créances recouvrées selon les dispositions du présent article peuvent
+faire l'objet d'une assistance en matière de recouvrement ou de prises de
+mesures conservatoires, de notification d'actes ou de décisions, y compris
+judiciaires, et d'échange de renseignements auprès des Etats membres de l'Union
+européenne dans les conditions prévues aux articles L. 283 A à L. 283 F du livre
+des procédures fiscales.

@@ -284,11 +284,11 @@ valeur de l'actif total de ce fonds ou de cette société. Ce taux est fixé à 
 pour les exercices ouverts à compter du 1er janvier 2007.
 
 a septies) Lorsqu'il existe des liens de dépendance entre l'entreprise cédante
-et l'entreprise cessionnaire au sens du 12 de l'article 39, l'imposition des
-plus-values et moins-values de cession de titres de participation définis au
-dix-huitième alinéa du 5° du 1 de l'article 39, autres que ceux mentionnés au a
-sexies-0 bis du présent I, et détenus depuis moins de deux ans, intervient à la
-première des dates suivantes :
+et l'entreprise cessionnaire au sens du 12 de l'article 39, la déduction des
+moins-values de cession de titres de participation définis au dix-huitième
+alinéa du 5° du 1 de l'article 39, autres que ceux mentionnés au a sexies-0 bis
+du présent I, et détenus depuis moins de deux ans, intervient à la première des
+dates suivantes :
 
 1°) La date à laquelle l'entreprise cédante cesse d'être soumise à l'impôt sur
 les sociétés ou est absorbée par une entreprise qui, à l'issue de l'absorption,
@@ -304,16 +304,14 @@ partir du jour où l'entreprise cédante a acquis les titres.
 
 L'imposition est établie au nom de l'entreprise cédante ou, en cas d'absorption
 dans des conditions autres que celles mentionnées au 1°, de l'entreprise
-absorbante, selon le régime de plus-value ou moins-value qui aurait été
-applicable si l'entreprise avait cédé les titres à cette date et, le cas
-échéant, les avait détenus depuis la date d'acquisition par l'entreprise
-absorbée.
+absorbante, selon le régime de moins-value qui aurait été applicable si
+l'entreprise avait cédé les titres à cette date et, le cas échéant, les avait
+détenus depuis la date d'acquisition par l'entreprise absorbée.
 
-Toutefois, le présent a septies ne s'applique aux plus-values que si
-l'entreprise joint à sa déclaration de résultat au titre de chaque exercice
+L'entreprise joint à sa déclaration de résultat au titre de chaque exercice
 concerné un état conforme au modèle fourni par l'administration, faisant
-apparaître les éléments nécessaires au calcul des plus-values et ceux relatifs à
-l'identification de l'entreprise qui détient les titres, explicitant les liens
+apparaître les éléments nécessaires au calcul des moins-values et ceux relatifs
+à l'identification de l'entreprise qui détient les titres, explicitant les liens
 de dépendance qui les unissent.
 
 b. Par exception au deuxième alinéa du présent I et au premier alinéa du a, pour
