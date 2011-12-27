@@ -14,7 +14,10 @@ roulant en fonction de sa nature et de son utilisation selon le barème suivant 
 
 (en euros)
 
-CATÉGORIE de matériels roulants
+
+CATÉGORIE
+
+de matériels roulants
 
 
 TARIFS
@@ -24,19 +27,19 @@ Métro
 
 Motrice et remorque
 
-12 260
+12 475
 
 
 Autre matériel
 
 Automotrice et motrice
 
-23 000
+23 403
 
 
 Remorque
 
-4 800
+4 884
 
 Les catégories de matériels roulants sont précisées par arrêté conjoint des
 ministres chargés du transport et du budget en fonction de leur capacité de
@@ -59,7 +62,7 @@ suivant le 1er mai de l'année d'imposition, le nombre de matériels roulants pa
 catégorie.
 
 Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et
-privilèges sont régis comme en matière de cotisation foncière des entreprises .
+privilèges sont régis comme en matière de cotisation foncière des entreprises.
 
 V.-La composante de l'imposition forfaitaire sur les entreprises de réseaux
 prévue au présent article est affectée, dans la limite du plafond prévu au I de
