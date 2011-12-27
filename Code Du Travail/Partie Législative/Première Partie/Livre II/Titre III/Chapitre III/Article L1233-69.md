@@ -30,3 +30,6 @@ Les régions peuvent contribuer au financement de ces mesures de formation dans
 le cadre de la programmation inscrite dans le contrat de plan régional de
 développement des formations professionnelles mentionné à l'article L. 214-13 du
 code de l'éducation.
+
+L'Etat peut contribuer au financement des dépenses engagées dans le cadre du
+contrat de sécurisation professionnelle.

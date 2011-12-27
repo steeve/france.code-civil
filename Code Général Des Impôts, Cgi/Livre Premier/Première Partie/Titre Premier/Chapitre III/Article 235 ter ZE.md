@@ -18,7 +18,10 @@ prestation de services ;
 propres permettant d'assurer le respect des ratios de couverture ou du niveau de
 fonds propres adéquat prévus par les articles L. 511-41, L. 522-14 et L. 533-2
 du code monétaire et financier, définies au cours de l'exercice clos l'année
-civile précédente, inférieures à 500 millions d'euros ;
+civile précédente, inférieures à 500 millions d'euros. Le seuil de 500 millions
+d'euros est apprécié sur la base sociale ou consolidée d'un groupe au sens de
+l'article L. 511-20 du même code retenue pour le calcul de l'assiette définie au
+II ;
 
 3° L'Agence française de développement.
 
@@ -28,11 +31,19 @@ de couverture ou du niveau de fonds propres adéquat prévus par les articles L.
 511-41, L. 522-14 et L. 533-2 du code monétaire et financier, définies au cours
 de l'exercice clos l'année civile précédente. Les exigences minimales en fonds
 propres sont appréciées sur base consolidée pour les personnes relevant des
-articles L. 511-41-2, L. 533-4-1, L. 517-5 et L. 517-9 du même code. Aucune
-contribution additionnelle sur base sociale n'est versée par les personnes
-mentionnées au I qui appartiennent à un groupe pour lequel une assiette est
-calculée sur base consolidée. Les autres personnes versent une contribution
-calculée sur base sociale.
+articles L. 511-41-2, L. 533-4-1, L. 517-5 et L. 517-9 du même code appartenant
+à un groupe au sens de l'article L. 511-20 dudit code. Aucune contribution
+additionnelle sur base sociale n'est versée par les personnes mentionnées au I
+qui appartiennent à un groupe au sens du même article L. 511-20 lorsqu'il s'agit
+de l'organe central ou des entreprises affiliées à un réseau ou d'entreprises
+sur lesquelles l'entreprise mère exerce, directement ou indirectement, un
+contrôle exclusif. Une contribution est calculée sur base sociale ou
+sous-consolidée pour les personnes n'appartenant pas à un groupe au sens dudit
+article L. 511-20 ou quand l'entreprise mère n'exerce pas un contrôle exclusif
+sur l'entreprise surveillée sur base sociale ou sous-consolidée. Dans ce dernier
+cas, l'assiette sur base consolidée de l'entreprise mère est diminuée des
+montants pris en compte au titre de l'imposition d'une personne sur base sociale
+ou sous-consolidée.
 
 III. ― Le taux de la taxe de risque systémique est fixé à 0,25 %.
 
@@ -99,10 +110,10 @@ mentionné au VI.
 
 IX. ― A défaut de paiement ou en cas de paiement partiel de la taxe de risque
 systémique dans le délai de trente jours suivant la date limite de paiement, le
-comptable public compétent émet un titre exécutoire. La taxe est recouvrée selon
-les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et
-privilèges que les taxes sur le chiffre d'affaires. Les réclamations sont
-présentées, instruites et jugées selon les règles applicables à ces taxes.
+comptable public compétent émet un titre exécutoire. La taxe est recouvrée et
+contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties,
+sûretés et privilèges que les taxes sur le chiffre d'affaires. Les réclamations
+sont présentées, instruites et jugées selon les règles applicables à ces taxes.
 Toutefois, en cas de révision du montant des exigences minimales en fonds
 propres dans les conditions du VIII, le droit de reprise de l'administration
 s'exerce, pour l'ensemble de la taxe due au titre de l'année concernée, jusqu'à

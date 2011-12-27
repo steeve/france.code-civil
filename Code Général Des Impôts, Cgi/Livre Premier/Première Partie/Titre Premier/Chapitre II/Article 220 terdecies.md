@@ -25,12 +25,11 @@ répondre aux conditions suivantes :
 
 3° Etre réalisés principalement avec le concours d'auteurs et de collaborateurs
 de création qui sont, soit de nationalité française, soit ressortissants d'un
-autre Etat membre de la Communauté européenne, ou d'un autre Etat partie à
-l'accord sur l'Espace économique européen ayant conclu avec la France une
-convention fiscale contenant une clause d'assistance administrative en vue de
-lutter contre la fraude ou l'évasion fiscale. Les étrangers, autres que les
-ressortissants européens précités, ayant la qualité de résidents français sont
-assimilés aux citoyens français ;
+autre Etat membre de l'Union européenne, ou d'un autre Etat partie à l'accord
+sur l'Espace économique européen ayant conclu avec la France une convention
+d'assistance administrative en vue de lutter contre la fraude et l'évasion
+fiscales. Les étrangers, autres que les ressortissants européens précités, ayant
+la qualité de résidents français sont assimilés aux citoyens français ;
 
 4° Contribuer au développement de la création française et européenne en matière
 de jeux vidéo ainsi qu'à sa diversité en se distinguant notamment par la
@@ -48,11 +47,10 @@ utilisateurs.
 IV.-1.-Pour la création d'un jeu vidéo déterminé, le crédit d'impôt calculé au
 titre de chaque année est égal à 20 % du montant total des dépenses suivantes,
 correspondant à des opérations effectuées en France, dans un autre Etat membre
-de la Communauté européenne, ou d'un autre Etat partie à l'accord sur l'Espace
-économique européen ayant conclu avec la France une convention fiscale contenant
-une clause d'assistance administrative en vue de lutter contre la fraude ou
-l'évasion fiscale, dès lors qu'elles entrent dans la détermination du résultat
-imposable :
+de l'Union européenne, ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen ayant conclu avec la France une convention d'assistance
+administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors
+qu'elles entrent dans la détermination du résultat imposable :
 
 1° Les dotations aux amortissements des immobilisations créées ou acquises à
 l'état neuf et affectées directement à la création du jeu vidéo dans les

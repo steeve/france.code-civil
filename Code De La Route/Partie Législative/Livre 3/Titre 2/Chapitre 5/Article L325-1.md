@@ -7,12 +7,14 @@ du transport des marchandises dangereuses par route compromettent la sécurité 
 le droit à réparation des usagers de la route, la tranquillité ou l'hygiène
 publique, l'esthétique des sites et des paysages classés, la conservation ou
 l'utilisation normale des voies ouvertes à la circulation publique et de leurs
-dépendances, notamment par les véhicules de transport en commun, peuvent à la
-demande et sous la responsabilité du maire ou de l'officier de police judiciaire
-territorialement compétent, même sans l'accord du propriétaire du véhicule, dans
-les cas et conditions précisés par le décret prévu aux articles L. 325-3 et L.
-325-11, être immobilisés, mis en fourrière, retirés de la circulation et, le cas
-échéant, aliénés ou livrés à la destruction.
+dépendances, notamment par les véhicules de transport en commun, ainsi que les
+véhicules en infraction aux dispositions des articles 269 à 283 ter et 285
+septies du code des douanes, peuvent à la demande et sous la responsabilité du
+maire ou de l'officier de police judiciaire territorialement compétent, même
+sans l'accord du propriétaire du véhicule, dans les cas et conditions précisés
+par le décret prévu aux articles L. 325-3 et L. 325-11, être immobilisés, mis en
+fourrière, retirés de la circulation et, le cas échéant, aliénés ou livrés à la
+destruction.
 
 Peuvent également, à la demande et sous la responsabilité du maire ou de
 l'officier de police judiciaire territorialement compétent, même sans l'accord

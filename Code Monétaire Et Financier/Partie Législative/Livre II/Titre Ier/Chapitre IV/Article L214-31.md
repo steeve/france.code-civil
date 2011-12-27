@@ -7,17 +7,17 @@ moins 20 % dans de nouvelles entreprises exerçant leur activité ou juridiqueme
 constituées depuis moins de huit ans, tels que définis par le I et le 1° du II
 de l'article L. 214-28, émis par des sociétés ayant leur siège dans un Etat
 membre de l'Union européenne ou dans un autre Etat partie à l'accord sur
-l'Espace économique européen ayant conclu avec la France une convention fiscale
-qui contient une clause d'assistance administrative en vue de lutter contre la
-fraude ou l'évasion fiscale, qui sont soumises à l'impôt sur les sociétés dans
-les conditions de droit commun ou en seraient passibles dans les mêmes
-conditions si l'activité était exercée en France, et qui remplissent les
-conditions suivantes : 1° Exercer leurs activités principalement dans des
-établissements situés dans la zone géographique choisie par le fonds et limitée
-à au plus trois régions limitrophes, ou, lorsque cette condition ne trouve pas à
-s'appliquer, y avoir établi leur siège social. Le fonds peut également choisir
-une zone géographique constituée d'un ou de plusieurs départements d'outre-mer
-ainsi que de Saint-Barthélemy et de Saint-Martin ;
+l'Espace économique européen ayant conclu avec la France une convention
+d'assistance administrative en vue de lutter contre la fraude et l'évasion
+fiscales, qui sont soumises à l'impôt sur les sociétés dans les conditions de
+droit commun ou en seraient passibles dans les mêmes conditions si l'activité
+était exercée en France, et qui remplissent les conditions suivantes : 1°
+Exercer leurs activités principalement dans des établissements situés dans la
+zone géographique choisie par le fonds et limitée à au plus quatre régions
+limitrophes, ou, lorsque cette condition ne trouve pas à s'appliquer, y avoir
+établi leur siège social. Le fonds peut également choisir une zone géographique
+constituée d'un ou de plusieurs départements d'outre-mer ainsi que de
+Saint-Barthélemy et de Saint-Martin ;
 
 2° Répondre à la définition des petites et moyennes entreprises figurant à
 l'annexe I au règlement (CE) n° 800/2008 de la Commission du 6 août 2008,

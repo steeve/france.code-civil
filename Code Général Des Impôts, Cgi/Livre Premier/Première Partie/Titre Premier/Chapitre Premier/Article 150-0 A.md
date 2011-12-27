@@ -250,19 +250,18 @@ produits du fonds et attribuées en fonction de la qualité de la personne ;
 
 2° Aux gains nets mentionnés au premier alinéa du présent 8 réalisés par les
 salariés ou dirigeants soumis au régime fiscal des salariés d'une entité,
-constituée dans un Etat membre de la Communauté européenne ou dans un autre Etat
+constituée dans un Etat membre de l'Union européenne ou dans un autre Etat
 partie à l'accord sur l'Espace économique européen ayant conclu avec la France
-une convention fiscale qui contient une clause d'assistance administrative en
-vue de lutter contre la fraude ou l'évasion fiscale et dont l'objet principal
-est d'investir dans des sociétés dont les titres ne sont pas admis aux
-négociations sur un marché d'instruments financiers français ou étranger, ou
-d'une société qui réalise des prestations de services liées à la gestion de
-cette entité, lorsque les titres cédés ou rachetés sont des droits
-représentatifs d'un placement financier dans cette entité donnant lieu à des
-droits différents sur l'actif net ou les produits de l'entité et sont attribués
-en fonction de la qualité de la personne, ainsi qu'aux distributions,
-représentatives des plus-values réalisées par l'entité, perçues par ces mêmes
-salariés ou dirigeants en rémunération de ces droits.
+une convention d'assistance administrative en vue de lutter contre la fraude et
+l'évasion fiscales et dont l'objet principal est d'investir dans des sociétés
+dont les titres ne sont pas admis aux négociations sur un marché d'instruments
+financiers français ou étranger, ou d'une société qui réalise des prestations de
+services liées à la gestion de cette entité, lorsque les titres cédés ou
+rachetés sont des droits représentatifs d'un placement financier dans cette
+entité donnant lieu à des droits différents sur l'actif net ou les produits de
+l'entité et sont attribués en fonction de la qualité de la personne, ainsi
+qu'aux distributions, représentatives des plus-values réalisées par l'entité,
+perçues par ces mêmes salariés ou dirigeants en rémunération de ces droits.
 
 III.-Les dispositions du I ne s'appliquent pas :
 

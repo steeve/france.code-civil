@@ -24,7 +24,7 @@ prescrites visées au présent alinéa.
 Par exception aux dispositions du premier alinéa, le droit de reprise de
 l'administration s'exerce jusqu'à la fin de la dixième année qui suit celle au
 titre de laquelle l'imposition est due, lorsque le contribuable exerce une
-activité occulte.L'activité occulte est réputée exercée lorsque le contribuable
+activité occulte. L'activité occulte est réputée exercée lorsque le contribuable
 n'a pas déposé dans le délai légal les déclarations qu'il était tenu de
 souscrire et soit n'a pas fait connaître son activité à un centre de formalités
 des entreprises ou au greffe du tribunal de commerce, soit s'est livré à une
@@ -38,12 +38,14 @@ catégorie autre que celle dans laquelle ils doivent être imposés.
 
 Le droit de reprise de l'administration s'exerce jusqu'à la fin de la dixième
 année qui suit celle au titre de laquelle l'imposition est due, lorsque les
-obligations déclaratives prévues aux articles 123 bis, 209 B, 1649 A et 1649 AA
-du même code n'ont pas été respectées et concernent un Etat ou un territoire qui
-n'a pas conclu avec la France une convention d'assistance administrative en vue
-de lutter contre la fraude et l'évasion fiscales permettant l'accès aux
-renseignements bancaires. Ce droit de reprise concerne les seuls revenus ou
-bénéfices afférents aux obligations déclaratives qui n'ont pas été respectées.
+obligations déclaratives prévues aux articles 123 bis, 209 B, 1649 A, 1649 AA et
+1649 AB du même code n'ont pas été respectées. Toutefois, en cas de non-respect
+de l'obligation déclarative prévue à l'article 1649 A, cette extension de délai
+ne s'applique pas lorsque le contribuable apporte la preuve que le total des
+soldes créditeurs de ses comptes à l'étranger est inférieur à 50 000 € au 31
+décembre de l'année au titre de laquelle la déclaration devait être faite. Le
+droit de reprise de l'administration concerne les seuls revenus ou bénéfices
+afférents aux obligations déclaratives qui n'ont pas été respectées.
 
 Le droit de reprise de l'administration s'exerce jusqu'à la fin de la dixième
 année qui suit celle au titre de laquelle l'imposition est due, lorsque

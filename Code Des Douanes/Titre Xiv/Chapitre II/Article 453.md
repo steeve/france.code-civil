@@ -8,8 +8,10 @@ législation et à la réglementation des relations financières avec l'étrange
 2° les autres agents de l'administration des finances ayant au moins le grade de
 contrôleur ;
 
-3° les officiers de police judiciaire.
+3° les officiers de police judiciaire et les agents des douanes mentionnés à
+l'article 28-1 du code de procédure pénale.
 
 Les procès-verbaux de constatation dressés par les officiers de police
-judiciaire sont transmis au ministre de l'économie et de finances qui saisit le
-parquet s'il le juge à propos.
+judiciaire et les agents des douanes mentionnés à l'article 28-1 du code de
+procédure pénale sont transmis au ministre de l'économie et des finances qui
+saisit le parquet s'il le juge à propos.

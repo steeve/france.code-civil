@@ -41,11 +41,10 @@ droits résultant de la qualité d'actionnaire ou d'associé, à l'exclusion de
 toute autre contrepartie notamment sous la forme de tarifs préférentiels ou
 d'accès prioritaire aux biens produits ou aux services rendus par la société ;
 
-c) Avoir son siège de direction effective dans un Etat membre de la Communauté
+c) Avoir son siège de direction effective dans un Etat membre de l'Union
 européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
-européen ayant conclu avec la France une convention fiscale qui contient une
-clause d'assistance administrative en vue de lutter contre la fraude ou
-l'évasion fiscale ;
+européen ayant conclu avec la France une convention d'assistance administrative
+en vue de lutter contre la fraude et l'évasion fiscales ;
 
 d) Ses titres ne sont pas admis aux négociations sur un marché réglementé
 français ou étranger ;
@@ -62,13 +61,13 @@ l'artisanat ;
 f) N'accorder aucune garantie en capital à ses associés ou actionnaires en
 contrepartie de leurs souscriptions ; g) (Abrogé) ; h) (Abrogé).
 
-2.L'avantage fiscal prévu au 1 s'applique également aux souscriptions effectuées
-par des personnes physiques en indivision. Chaque membre de l'indivision peut
-bénéficier de l'avantage fiscal à concurrence de la fraction de la part de sa
-souscription représentative de titres reçus en contrepartie de souscriptions au
-capital de sociétés vérifiant les conditions prévues au 1.
+2. L'avantage fiscal prévu au 1 s'applique également aux souscriptions
+effectuées par des personnes physiques en indivision. Chaque membre de
+l'indivision peut bénéficier de l'avantage fiscal à concurrence de la fraction
+de la part de sa souscription représentative de titres reçus en contrepartie de
+souscriptions au capital de sociétés vérifiant les conditions prévues au 1.
 
-3.L'avantage fiscal prévu au 1 s'applique également aux souscriptions en
+3. L'avantage fiscal prévu au 1 s'applique également aux souscriptions en
 numéraire au capital d'une société satisfaisant aux conditions suivantes :
 
 a) La société vérifie l'ensemble des conditions prévues au 1, à l'exception de
@@ -78,6 +77,12 @@ b) La société a pour objet exclusif de détenir des participations dans des
 sociétés exerçant une des activités mentionnées au b du 1 ;
 
 c) La société ne compte pas plus de cinquante associés ou actionnaires ;
+
+La condition prévue au premier alinéa du présent c ne s'applique pas si la
+société détient exclusivement des participations dans une société exerçant une
+des activités mentionnées au b du 1 dont le capital est détenu pour 10 % au
+moins par une ou plusieurs sociétés coopératives ou par l'une de leurs unions
+(1) ;
 
 d) La société a exclusivement pour mandataires sociaux des personnes physiques ;
 
@@ -163,6 +168,20 @@ les titres ainsi souscrits soient conservés jusqu'au même terme. Cette
 souscription ne peut donner lieu au bénéfice de l'avantage fiscal prévu au 1 du
 I.
 
+En cas de non-respect de la condition de conservation prévue au premier alinéa
+du 1 du II en cas d'offre publique d'échange de titres, l'avantage fiscal
+mentionné au I accordé au titre de l'année en cours et de celles précédant cette
+opération n'est pas non plus remis en cause si les titres obtenus lors de
+l'échange sont des titres de sociétés satisfaisant aux conditions mentionnées au
+1 du même I et si l'éventuelle soulte d'échange, diminuée le cas échéant des
+impôts et taxes générés par son versement, est intégralement réinvestie, dans un
+délai maximal de douze mois à compter de l'échange, en souscription de titres de
+sociétés satisfaisant aux conditions mentionnées au 1 du I, sous réserve que les
+titres obtenus lors de l'échange et, le cas échéant, souscrits en remploi de la
+soulte soient conservés jusqu'au terme du délai applicable aux titres échangés.
+La souscription de titres au moyen de la soulte d'échange ne peut donner lieu au
+bénéfice de l'avantage fiscal prévu au même 1 du I.
+
 III.-1. Le redevable peut imputer sur l'impôt de solidarité sur la fortune 50 %
 du montant des versements effectués au titre de souscriptions en numéraire aux
 parts de fonds communs de placement dans l'innovation mentionnés à l'article L.
@@ -200,13 +219,13 @@ d'investissement mentionné au premier alinéa du présent c que le fonds s'enga
 sont informés annuellement du montant détaillé des frais et commissions, directs
 et indirects, qu'ils supportent et dans lesquelles ces frais sont encadrés.
 
-2.L'avantage fiscal prévu au 1 ne peut être supérieur à 18 000 € par an. Le
+2. L'avantage fiscal prévu au 1 ne peut être supérieur à 18 000 € par an. Le
 redevable peut bénéficier de l'avantage fiscal prévu audit 1 et de ceux prévus
 aux 1,2 et 3 du I au titre de la même année, sous réserve que le montant imputé
 sur l'impôt de solidarité sur la fortune résultant de ces avantages n'excède pas
 45 000 €.
 
-3.L'avantage fiscal obtenu fait l'objet d'une reprise au titre de l'année au
+3. L'avantage fiscal obtenu fait l'objet d'une reprise au titre de l'année au
 cours de laquelle le fonds ou le redevable cesse de respecter les conditions
 prévues au 1.
 
@@ -224,8 +243,8 @@ figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquie
 ou dans un plan d'épargne salariale mentionné au titre III du livre III de la
 troisième partie du code du travail, ni à la fraction des versements effectués
 au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux
-f, g ou h du 2 de l'article 199 undecies A, aux articles 199 undecies B,199
-terdecies-0 A,199 terdecies-0 B,199 unvicies ou 199 quatervicies du présent
+f, g ou h du 2 de l'article 199 undecies A, aux articles 199 undecies B, 199
+terdecies-0 A, 199 terdecies-0 B, 199 unvicies ou 199 quatervicies du présent
 code. La fraction des versements effectués au titre de souscriptions donnant
 lieu aux déductions prévues aux 2° quater et 2° quinquies de l'article 83
 n'ouvre pas droit à l'avantage fiscal.
@@ -281,6 +300,30 @@ n'excèdent pas, par entreprise cible, un montant fixé par décret et qui ne pe
 dépasser le plafond autorisé par la Commission européenne s'agissant des aides
 d'Etat visant à promouvoir les investissements en capital-investissement dans
 les petites et moyennes entreprises ou les entreprises innovantes.
+
+Par dérogation au premier alinéa du présent d, cette condition n'est pas
+applicable pour les versements au titre de souscriptions effectuées au capital
+des entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du
+travail qui ont exclusivement pour objet :
+
+1° Soit l'étude, la réalisation ou la gestion de construction de logements à
+destination de personnes défavorisées ou en situation de rupture d'autonomie et
+sélectionnées par une commission de personnes qualifiées, la société bénéficiant
+d'un agrément de maîtrise d'ouvrage en application des articles L. 365-1 et
+suivants du code de la construction et de l'habitation ;
+
+2° Soit l'acquisition, la construction, la réhabilitation, la gestion et
+l'exploitation par bail de tous biens et droits immobiliers en vue de favoriser
+l'amélioration des conditions de logement ou d'accueil et la réinsertion de
+personnes défavorisées ou en situation de rupture d'autonomie, la société
+bénéficiant d'un agrément d'intérêt collectif.
+
+Le bénéfice de la dérogation mentionnée au deuxième alinéa du présent d est
+subordonné au respect des conditions suivantes :
+
+― la société ne procède pas à la distribution de dividendes ;
+
+― la société réalise son objet social sur l'ensemble du territoire national (2).
 
 VII.-Un décret fixe les obligations déclaratives incombant aux redevables et aux
 sociétés visés au I, ainsi qu'aux gérants et dépositaires de fonds visés au III.

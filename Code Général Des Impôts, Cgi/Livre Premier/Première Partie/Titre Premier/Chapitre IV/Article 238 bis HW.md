@@ -38,6 +38,5 @@ c. Les consommations d'électricité de cette entreprise donnent lieu au paiemen
 de la contribution aux charges du service public de l'électricité prévue à
 l'article 5 de la loi n° 2000-108 du 10 février 2000 précitée.
 
-Les actions souscrites doivent revêtir la forme nominative. Une même personne ne
-peut détenir, directement ou indirectement, plus de 25 % du capital de la
-société. Le montant du capital agréé est limité à 600 000 euros.
+Les actions souscrites doivent revêtir la forme nominative. Le montant du
+capital agréé est limité à 600 000 €.

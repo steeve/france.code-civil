@@ -1,26 +1,30 @@
 Article 238 octies A
 ----
-Les plus-values à long terme réalisées par une entreprise industrielle ou
-commerciale, entre le 1er janvier 1988 et le 31 décembre 1991, lors de la
-cession de terrains d'assiette de bâtiments destinés à être démolis et de
-terrains formant une dépendance indispensable et immédiate de ces constructions,
-détenus depuis cinq ans au moins et qui ont cessé d'être affectés à
-l'exploitation depuis deux ans peuvent, sur agrément du ministre chargé du
-budget, être soumises au taux d'imposition mentionné au premier alinéa du a du I
-de l'article 219 pour les sociétés soumises à l'impôt sur les sociétés, ou au
-taux mentionné au 1 du I de l'article 39 quindecies pour les entreprises
-soumises à l'impôt sur le revenu. Dans ce cas, l'acquéreur doit prendre
-l'engagement, dans l'acte d'acquisition, d'effectuer dans le délai de quatre ans
-les travaux nécessaires à l'édification d'un immeuble ou d'un groupe d'immeubles
-affectés à l'habitation pour les trois-quarts au moins de leur superficie.
+I.-Les plus-values réalisées par les entreprises relevant de l'impôt sur le
+revenu au titre des bénéfices industriels et commerciaux, des bénéfices non
+commerciaux, des bénéfices agricoles ou de l'impôt sur les sociétés à l'occasion
+de la cession d'un droit de surélévation effectuée au plus tard le 31 décembre
+2014 en vue de la réalisation de locaux destinés à l'habitation sont exonérées.
 
-Les plus-values à long terme visées à l'alinéa précédent ne peuvent être
-diminuées du montant des moins-values afférentes aux autres éléments de l'actif
-immobilisé.
+II.-L'application du I est subordonnée à la condition que la personne
+cessionnaire s'engage à achever les locaux destinés à l'habitation dans un délai
+de quatre ans à compter de la date de l'acquisition.
 
-En cas de non-respect de cet engagement, il est dû par l'acquéreur, au titre de
-l'exercice au cours duquel le délai de quatre ans a expiré, un complément de
-droit calculé en tenant compte, selon le cas, du taux mentionné soit au septième
-alinéa du a du I de l'article 219, soit au 1 du II de l'article 39 quindecies,
-sans préjudice de l'intérêt de retard prévu à l'article 1727 et compté de la
-date à laquelle ce droit devait être acquitté.
+Le non-respect par la personne cessionnaire de l'engagement d'achèvement des
+locaux destinés à l'habitation mentionné au premier alinéa du présent II
+entraîne l'application de l'amende prévue au IV de l'article 1764.
+
+Par exception au deuxième alinéa du présent II, l'amende prévue au IV de
+l'article 1764 n'est pas due lorsque la personne cessionnaire ne respecte pas
+l'engagement d'achèvement des locaux en raison de circonstances exceptionnelles
+indépendantes de sa volonté. Elle n'est pas due non plus en cas de licenciement,
+d'invalidité correspondant au classement dans les deuxième ou troisième des
+catégories prévues à l'article L. 341-4 du code de la sécurité sociale ou de
+décès du contribuable ou de l'un des époux soumis à une imposition commune.
+
+En cas de fusion de sociétés, l'engagement souscrit par le cessionnaire n'est
+pas rompu lorsque la société absorbante s'engage, dans l'acte de fusion, à se
+substituer à la société absorbée pour le respect de l'engagement d'achèvement
+des locaux dans le délai restant à courir. Le non-respect par la société
+absorbante de l'engagement d'achèvement des locaux entraîne l'application de
+l'amende prévue pour le cessionnaire.

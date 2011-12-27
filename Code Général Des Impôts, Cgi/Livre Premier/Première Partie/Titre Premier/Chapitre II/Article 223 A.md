@@ -13,15 +13,14 @@ intermédiaires. Dans ce cas, elle est également redevable de l'imposition
 forfaitaire annuelle due par les sociétés du groupe. Le capital de la société
 mère ne doit pas être détenu à 95 % au moins, directement ou indirectement, par
 une autre personne morale soumise à l'impôt sur les sociétés dans les conditions
-de droit commun ou selon les modalités prévues aux articles 214 et 217 bis.
-Toutefois, le capital de la société mère peut être détenu indirectement à 95 %
-ou plus par une autre personne morale soumise à l'impôt sur les sociétés dans
-les conditions de droit commun ou selon les modalités prévues aux articles 214
-et 217 bis, par l'intermédiaire d'une ou plusieurs personnes morales non
-soumises à cet impôt dans ces mêmes conditions ou par l'intermédiaire d'une ou
-plusieurs personnes morales qui y sont soumises dans ces mêmes conditions mais
-dont le capital n'est pas détenu, directement ou indirectement, par cette autre
-personne morale à 95 % au moins.
+de droit commun ou selon les modalités prévues à l'article 214. Toutefois, le
+capital de la société mère peut être détenu indirectement à 95 % ou plus par une
+autre personne morale soumise à l'impôt sur les sociétés dans les conditions de
+droit commun ou selon les modalités prévues à l'article 214, par l'intermédiaire
+d'une ou plusieurs personnes morales non soumises à cet impôt dans ces mêmes
+conditions ou par l'intermédiaire d'une ou plusieurs personnes morales qui y
+sont soumises dans ces mêmes conditions mais dont le capital n'est pas détenu,
+directement ou indirectement, par cette autre personne morale à 95 % au moins.
 
 Par exception à la première phrase du premier alinéa, lorsqu'une personne morale
 soumise à l'impôt sur les sociétés dans les conditions de droit commun établit
@@ -105,22 +104,21 @@ conséquences des infractions commises par les sociétés du groupe.
 
 Seules peuvent être membres du groupe les sociétés ou les établissements stables
 qui ont donné leur accord et dont les résultats sont soumis à l'impôt sur les
-sociétés dans les conditions de droit commun ou selon les modalités prévues aux
-articles 214 et 217 bis. Seules peuvent être qualifiées de sociétés
-intermédiaires les sociétés ou les établissements stables qui ont donné leur
-accord et dont les résultats sont soumis à un impôt équivalent à l'impôt sur les
-sociétés dans un Etat de la Communauté européenne ou dans un Etat partie à
-l'accord sur l'Espace économique européen ayant conclu avec la France une
-convention fiscale qui contient une clause d'assistance administrative en vue de
-lutter contre la fraude et l'évasion fiscales. Toutefois, lorsque la société
-mère opte pour l'application du régime défini au deuxième ou au troisième
-alinéa, toutes les personnes morales dénuées de capital définies au deuxième
-alinéa et toutes les banques, caisses et sociétés mentionnées aux articles L.
-512-11, L. 512-20, L. 512-55, L. 512-60, L. 512-69 et L. 512-86 du code
-monétaire et financier ou bénéficiant du même agrément collectif, à l'exception
-des filiales dont le capital est détenu à 95 % au moins sont obligatoirement
-membres du groupe et ne peuvent simultanément être mères d'un groupe formé dans
-les conditions prévues au premier alinéa.
+sociétés dans les conditions de droit commun ou selon les modalités prévues à
+l'article 214. Seules peuvent être qualifiées de sociétés intermédiaires les
+sociétés ou les établissements stables qui ont donné leur accord et dont les
+résultats sont soumis à un impôt équivalent à l'impôt sur les sociétés dans un
+Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur
+l'Espace économique européen ayant conclu avec la France une convention
+d'assistance administrative en vue de lutter contre la fraude et l'évasion
+fiscales. Toutefois, lorsque la société mère opte pour l'application du régime
+défini au deuxième ou au troisième alinéa, toutes les personnes morales dénuées
+de capital définies au deuxième alinéa et toutes les banques, caisses et
+sociétés mentionnées aux articles L. 512-11, L. 512-20, L. 512-55, L. 512-60, L.
+512-69 et L. 512-86 du code monétaire et financier ou bénéficiant du même
+agrément collectif, à l'exception des filiales dont le capital est détenu à 95 %
+au moins sont obligatoirement membres du groupe et ne peuvent simultanément être
+mères d'un groupe formé dans les conditions prévues au premier alinéa.
 
 Les sociétés du groupe et, sous réserve de la réglementation étrangère qui leur
 est applicable, les sociétés intermédiaires doivent ouvrir et clore leurs
@@ -150,7 +148,7 @@ Pour chacun des exercices arrêtés au cours de la période de validité de
 l'option, la société mère notifie, au plus tard à la date mentionnée au septième
 alinéa, la liste des sociétés membres du groupe et des sociétés intermédiaires
 ainsi que l'identité des sociétés qui cessent d'être membres de ce groupe ou qui
-cessent d'être qualifiées de sociétés intermédiaires.A défaut, le résultat
+cessent d'être qualifiées de sociétés intermédiaires. A défaut, le résultat
 d'ensemble est déterminé à partir du résultat des sociétés mentionnées sur la
 dernière liste notifiée au service dans le délai indiqué à la phrase qui précède
 si ces sociétés continuent à remplir les conditions prévues à la présente

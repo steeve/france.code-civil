@@ -16,12 +16,12 @@ remplissant les conditions cumulatives suivantes :
 
 a) Etre réalisé par des entreprises et industries techniques liées à la
 production phonographique qui sont établies en France ou dans un autre Etat
-membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur
-l'Espace économique européen ayant conclu avec la France une convention fiscale
-contenant une clause administrative en vue de lutter contre la fraude ou
-l'évasion fiscale et qui y effectuent les prestations liées à la réalisation
-d'un enregistrement phonographique ou vidéographique musical ainsi qu'aux
-opérations de postproduction ;
+membre de l'Union européenne ou dans un autre Etat partie à l'accord sur
+l'Espace économique européen ayant conclu avec la France une convention
+d'assistance administrative en vue de lutter contre la fraude et l'évasion
+fiscales et qui y effectuent les prestations liées à la réalisation d'un
+enregistrement phonographique ou vidéographique musical ainsi qu'aux opérations
+de postproduction ;
 
 b) Porter sur des albums de nouveaux talents définis comme des artistes, groupes
 d'artistes, compositeurs ou artistes-interprètes n'ayant pas dépassé le seuil de
@@ -38,11 +38,11 @@ sociétés pour l'ensemble des albums qu'elle produit chaque année.
 III.-Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 20 % du
 montant total des dépenses suivantes engagées entre le 1er juillet 2007 et le 31
 décembre 2012, pour des opérations mentionnées au II effectuées en France, dans
-un autre Etat membre de la Communauté européenne ou dans un autre Etat partie à
+un autre Etat membre de l'Union européenne ou dans un autre Etat partie à
 l'accord sur l'Espace économique européen ayant conclu avec la France une
-convention fiscale contenant une clause d'assistance administrative en vue de
-lutter contre la fraude ou l'évasion fiscale, dès lors qu'elles entrent dans la
-détermination du résultat imposable :
+convention d'assistance administrative en vue de lutter contre la fraude et
+l'évasion fiscales, dès lors qu'elles entrent dans la détermination du résultat
+imposable :
 
 1 ° Pour les dépenses correspondant aux frais de production d'un enregistrement
 phonographique ou vidéographique musical :

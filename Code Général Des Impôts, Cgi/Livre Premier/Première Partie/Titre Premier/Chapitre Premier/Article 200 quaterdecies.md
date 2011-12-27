@@ -56,17 +56,16 @@ les intérêts ouvrant droit au crédit d'impôt sont ceux payés au titre des s
 premières annuités.
 
 IV.-Le montant des intérêts mentionnés au III ouvrant droit au crédit d'impôt ne
-peut excéder, au titre de chaque année d'imposition, la somme de 3 750 euros
-pour une personne célibataire, veuve ou divorcée et de 7 500 euros pour un
-couple soumis à imposition commune. Cette somme est majorée chaque année de 500
-euros par personne à charge au sens des articles 196 à 196 bis. La somme de 500
-euros est divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de
-l'un et l'autre de ses parents.
+peut excéder, au titre de chaque année d'imposition, la somme de 3 750 € pour
+une personne célibataire, veuve ou divorcée et de 7 500 € pour un couple soumis
+à imposition commune. Cette somme est majorée chaque année de 500 € par personne
+à charge au sens des articles 196 à 196 bis. La somme de 500 € est divisée par
+deux lorsqu'il s'agit d'un enfant réputé à charge égale de l'un et l'autre de
+ses parents.
 
-Les montants de 3 750 euros et 7 500 euros sont respectivement portés à 7 500
-euros pour une personne handicapée célibataire, veuve ou divorcée et à 15 000
-euros pour un couple soumis à imposition commune lorsque l'un de ses membres est
-handicapé.
+Les montants de 3 750 € et 7 500 € sont respectivement portés à 7 500 € pour une
+personne handicapée célibataire, veuve ou divorcée et à 15 000 € pour un couple
+soumis à imposition commune lorsque l'un de ses membres est handicapé.
 
 V.-Le crédit d'impôt est égal à 20 % du montant des intérêts mentionnés au III,
 dans la limite mentionnée au IV.
@@ -85,9 +84,9 @@ porté à 40 % ;
 celui visé au 1°, les taux mentionnés aux premier et deuxième alinéas sont
 respectivement ramenés à :
 
-- 15 % et 30 % pour les logements acquis ou construits en 2010 ;
+-15 % et 30 % pour les logements acquis ou construits en 2010 ;
 
-- 10 % et 25 % pour les logements acquis ou construits en 2011.
+-10 % et 25 % pour les logements acquis ou construits en 2011.
 
 VI.-Le I s'applique à la condition que le logement faisant l'objet du prêt soit,
 à la date de paiement des intérêts, affecté à l'usage d'habitation principale du
@@ -125,13 +124,13 @@ ou la livraison du logement.
 VII.-Le crédit d'impôt mentionné au I est imputé sur l'impôt sur le revenu après
 imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200
 bis, 200 octies et 200 decies A, des crédits d'impôt et des prélèvements ou
-retenues non libératoires.S'il excède l'impôt dû, l'excédent est restitué.
+retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
 
-VIII.-Le I s'applique aux intérêts des prêts souscrits dans un Etat membre de la
-Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
-économique européen ayant conclu avec la France une convention fiscale qui
-contient une clause d'assistance administrative en vue de lutter contre la
-fraude ou l'évasion fiscale, et qui satisfont à une réglementation équivalente.
+VIII.-Le I s'applique aux intérêts des prêts souscrits dans un Etat membre de
+l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace
+économique européen ayant conclu avec la France une convention d'assistance
+administrative en vue de lutter contre la fraude et l'évasion fiscales, et qui
+satisfont à une réglementation équivalente.
 
 IX.-Les dispositions du présent article sont exclusives de celles mentionnées au
 a du 2 de l'article 199 undecies A. X. ― Le présent article s'applique aux

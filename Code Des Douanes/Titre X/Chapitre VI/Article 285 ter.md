@@ -22,5 +22,3 @@ concernées au prorata de leur population.
 
 L'Etat perçoit sur le produit de cette taxe un prélèvement pour frais d'assiette
 et de recouvrement égal à 2,5 % du montant dudit produit.
-
-Ces dispositions s'appliquent jusqu'au 31 décembre 2011.

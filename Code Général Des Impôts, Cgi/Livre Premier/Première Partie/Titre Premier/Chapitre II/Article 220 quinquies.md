@@ -10,9 +10,7 @@ bénéfice exonéré en application des articles 44 sexies, 44 sexies A, 44 sept
 quindecies et 207 à 208 sexies ou qui a bénéficié des dispositions du premier
 alinéa du f du I de l'article 219 ou qui a ouvert droit au crédit d'impôt prévu
 aux articles 220 quater et 220 quater A ou qui a donné lieu à un impôt payé au
-moyen de crédits d'impôts. Cette option porte, pour les exercices ouverts à
-compter du 1er janvier 1985, sur les déficits reportables à la clôture d'un
-exercice en application du troisième alinéa du I de l'article 209.
+moyen de crédits d'impôts.
 
 Le déficit imputé dans les conditions prévues au premier alinéa cesse d'être
 reportable sur les résultats des exercices suivant celui au titre duquel il a

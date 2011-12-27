@@ -1,20 +1,20 @@
 Article 125 D
 ----
-Les personnes physiques fiscalement domiciliées en France au sens de l'article 4
-B qui bénéficient de revenus ou produits énumérés au I de l'article 125 A
-peuvent opter pour leur assujettissement au prélèvement prévu à ce même I, aux
-taux fixés au III bis de ce même article, lorsque la personne qui assure leur
-paiement est établie hors de France dans un Etat membre de la Communauté
-européenne, ou dans un Etat non membre de cette Communauté partie à l'accord sur
-l'Espace économique européen ayant conclu avec la France une convention fiscale
-qui contient une clause d'assistance administrative en vue de lutter contre la
-fraude ou l'évasion fiscale, qu'il s'agisse ou non du débiteur des revenus ou
-produits, ce dernier étant établi dans un de ces Etats ou en France.
+I.-Les personnes physiques fiscalement domiciliées en France au sens de
+l'article 4 B qui bénéficient de revenus ou produits énumérés au I de l'article
+125 A peuvent opter pour leur assujettissement au prélèvement prévu à ce même I,
+aux taux fixés au III bis de ce même article, lorsque la personne qui assure
+leur paiement est établie hors de France dans un Etat membre de l'Union
+européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique
+européen ayant conclu avec la France une convention d'assistance administrative
+en vue de lutter contre la fraude et l'évasion fiscales, qu'il s'agisse ou non
+du débiteur des revenus ou produits, ce dernier étant établi dans un de ces
+Etats ou en France.
 
 L'option prévue au premier alinéa est subordonnée au respect des conditions
 mentionnées au IV de l'article 125 A.
 
-II. - Les personnes physiques fiscalement domiciliées en France au sens de
+II.-Les personnes physiques fiscalement domiciliées en France au sens de
 l'article 4 B qui bénéficient de produits ou gains de cession de bons ou
 contrats de capitalisation et placements de même nature mentionnés au deuxième
 alinéa du 2 de l'article 122 peuvent opter pour leur assujettissement au
@@ -23,11 +23,11 @@ l'article 125-0 A. A cet effet, la durée des bons ou contrats de capitalisation
 ainsi que des placements de même nature s'entend de leur durée effective de
 détention par le contribuable.
 
-III. - Sous réserve des dispositions prévues au V de l'article 125 A, le
+III.-Sous réserve des dispositions prévues au V de l'article 125 A, le
 prélèvement mentionné aux I et II libère les revenus, produits et gains auxquels
 il s'applique de l'impôt sur le revenu.
 
-IV. - Les revenus, produits et gains pour lesquels le contribuable opte pour le
+IV.-Les revenus, produits et gains pour lesquels le contribuable opte pour le
 prélèvement prévu aux I et II sont déclarés et le prélèvement correspondant
 acquitté, soit par la personne qui assure le paiement desdits revenus, produits
 et gains, mandatée à cet effet, soit par le contribuable lui-même, dans les
@@ -51,16 +51,16 @@ conditions de droit commun.
 Le contribuable tient à la disposition de l'administration tous les
 renseignements nécessaires à l'établissement du prélèvement.
 
-V. - Les revenus, produits et gains de cession pour lesquels le contribuable
-opte pour le prélèvement dans les conditions des I et II sont retenus pour leur
+V.-Les revenus, produits et gains de cession pour lesquels le contribuable opte
+pour le prélèvement dans les conditions des I et II sont retenus pour leur
 montant brut. L'impôt retenu à la source est imputé sur le prélèvement dans la
 limite du crédit d'impôt auquel il ouvre droit tel que ce crédit est prévu par
 les conventions internationales.
 
-VI. - L'administration peut conclure avec chaque personne établie hors de France
+VI.-L'administration peut conclure avec chaque personne établie hors de France
 mandatée par des contribuables pour le paiement du prélèvement dans les
 conditions prévues au IV une convention qui en organise les modalités pour
 l'ensemble de ces contribuables.
 
-VII. - Un décret fixe les modalités d'application, notamment déclaratives, du
+VII.-Un décret fixe les modalités d'application, notamment déclaratives, du
 présent article.

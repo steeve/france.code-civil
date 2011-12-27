@@ -6,15 +6,16 @@ sont imposables lors de ce transfert au titre des plus-values latentes
 constatées sur les droits sociaux, valeurs, titres ou droits mentionnés au
 présent 1 qu'ils détiennent, directement ou indirectement, à la date du
 transfert hors de France de leur domicile fiscal lorsque les membres de leur
-foyer fiscal détiennent une participation, directe ou indirecte, d'au moins 1 %
-dans les bénéfices sociaux d'une société, à l'exception des sociétés visées au
-1° bis A de l'article 208, ou une participation directe ou indirecte dans ces
-mêmes sociétés dont la valeur, définie selon les conditions prévues au 2 du
-présent I, excède 1,3 million d'euros lors de ce transfert. Les contribuables
-fiscalement domiciliés en France pendant au moins six années au cours des dix
-dernières années sont imposables lors du transfert de leur domicile fiscal hors
-de France sur la valeur des créances trouvant leur origine dans une clause de
-complément de prix mentionnée au 2 du I de l'article 150-0 A.
+foyer fiscal détiennent une ou plusieurs participations, directes ou indirectes,
+d'au moins 1 % dans les bénéfices sociaux d'une société, à l'exception des
+sociétés visées au 1° bis A de l'article 208, ou une ou plusieurs
+participations, directes ou indirectes, dans ces mêmes sociétés dont la valeur,
+définie selon les conditions prévues au 2 du présent I, excède 1,3 million
+d'euros lors de ce transfert. Les contribuables fiscalement domiciliés en France
+pendant au moins six années au cours des dix dernières années sont imposables
+lors du transfert de leur domicile fiscal hors de France sur la valeur des
+créances trouvant leur origine dans une clause de complément de prix mentionnée
+au 2 du I de l'article 150-0 A.
 
 2. La plus-value constatée dans les conditions du 1 du présent I est déterminée
 par différence entre la valeur des droits sociaux ou valeurs mobilières lors du
@@ -35,11 +36,8 @@ valeur réelle au moment du transfert du domicile fiscal hors de France de leur
 titulaire.
 
 3. La plus-value calculée dans les conditions prévues au 2 du présent I est
-réduite de l'abattement pour durée de détention prévu, selon le cas, aux
-articles 150-0 D bis et 150-0 D ter lorsque les conditions mentionnées aux mêmes
-articles sont remplies. Pour l'application du présent alinéa à l'abattement
-prévu à l'article 150-0 D bis, le transfert du domicile fiscal est assimilé à
-une cession à titre onéreux.
+réduite de l'abattement pour durée de détention prévuà l'article 150-0 D ter,
+lorsque les conditions mentionnées au même article sont remplies.
 
 Pour l'application du premier alinéa du présent 3 à l'abattement prévu à
 l'article 150-0 D ter, le transfert du domicile fiscal est assimilé à une
@@ -64,9 +62,9 @@ plus-values de cession ou d'échange de droits sociaux, valeurs, titres ou droit
 mentionnés au 1 du I du présent article dont l'imposition a été reportée en
 application du II de l'article 92 B, de l'article 92 B decies et des I ter et II
 de l'article 160, dans leur rédaction en vigueur avant le 1er janvier 2000, de
-l'article 150-0 C, dans sa rédaction en vigueur avant le 1er janvier 2006, et de
-l'article 150-0 B bis sont imposables lors de ce transfert au taux d'imposition
-mentionné au 4 du I du présent article.
+l'article 150-0 C, dans sa rédaction en vigueur avant le 1er janvier 2006, des
+articles 150-0 B bis et 150-0 D bis sont imposables lors de ce transfert au taux
+d'imposition mentionné au 4 du I du présent article.
 
 III.-Pour l'application du présent article, le transfert hors de France du
 domicile fiscal d'un contribuable est réputé intervenir le jour précédant celui
@@ -131,7 +129,8 @@ intervient l'un des événements suivants :
 a) La cession, le rachat, le remboursement ou l'annulation des droits sociaux,
 valeurs, titres ou droits pour lesquels des plus-values ont été constatées dans
 les conditions du I ou dont l'acquisition a ouvert droit au bénéfice des
-dispositions mentionnées au II du présent article. La cession s'entend des
+dispositions mentionnées au II du présent article, à l'exception des cessions
+auxquelles l'article 150-0 D bis s'applique. La cession s'entend des
 transmissions à titre onéreux, à l'exception des opérations d'échange entrant
 dans le champ d'application de l'article 150-0 B ;
 
@@ -157,7 +156,13 @@ vigueur avant le 1er janvier 2000, à l'article 150-0 C, dans sa rédaction en
 vigueur avant le 1er janvier 2006, ou à l'article 150-0 B bis ;
 
 d) La perception d'un complément de prix, l'apport ou la cession de la créance
-pour les créances mentionnées au second alinéa du 1 du I du présent article.
+pour les créances mentionnées au second alinéa du 1 du I du présent article ;
+
+e) La transmission, le rachat ou l'annulation, avant l'expiration du délai de
+cinq ans mentionné au III bis de l'article 150-0 D bis, des titres et droits
+reçus en contrepartie de l'apport en numéraire conformément au II du même
+article 150-0 D bis, pour l'impôt afférent aux plus-values de cession reportées
+en application dudit article.
 
 2. A l'expiration d'un délai de huit ans suivant le transfert de domicile fiscal
 hors de France ou lorsque le contribuable transfère de nouveau son domicile
@@ -194,6 +199,12 @@ du I ter de l'article 160, dans leur rédaction en vigueur avant le 1er janvier
 se rapportant aux titres ainsi transmis est dégrevée ou, si elle avait fait
 l'objet d'un paiement immédiat lors du transfert du domicile fiscal hors de
 France, restituée.
+
+L'impôt établi dans les conditions du II du présent article et afférent aux
+plus-values de cession reportées en application de l'article 150-0 D bis est
+dégrevé, ou restitué s'il avait fait l'objet d'un paiement immédiat lors du
+transfert du domicile fiscal hors de France, à l'expiration du délai de cinq ans
+mentionné au premier alinéa du III bis du même article 150-0 D bis.
 
 4. L'impôt se rapportant aux créances mentionnées au second alinéa du 1 du I du
 présent article est dégrevé, ou restitué s'il avait fait l'objet d'un paiement
@@ -233,16 +244,16 @@ application du I est dégrevé, ou restitué s'il avait fait l'objet d'un paieme
 immédiat lors du transfert de domicile fiscal hors de France.
 
 3. Si, lors de la survenance de la cession à titre onéreux des titres,
-l'abattement prévu aux articles 150-0 D bis et 150-0 D ter est supérieur à
-l'abattement appliqué conformément au 3 du I du présent article, l'impôt calculé
-en application du même I est retenu dans la limite de son montant assis sur
-l'assiette réduite de ce nouvel abattement.
+l'abattement prévu à l'article 150-0 D ter est supérieur à l'abattement appliqué
+conformément au 3 du I du présent article, l'impôt calculé en application du
+même I est retenu dans la limite de son montant assis sur l'assiette réduite de
+ce nouvel abattement.
 
 La moins-value réalisée lors de l'un des événements mentionnés aux a et b du 1
 du VII et relative à des titres pour lesquels une plus-value avait été constatée
 conformément au I du présent article lors du transfert de domicile fiscal du
 contribuable hors de France est également réduite, le cas échéant, du montant de
-l'abattement prévu aux articles 150-0 D bis et 150-0 D ter.
+l'abattement prévu à l'article 150-0 D ter.
 
 4. Si, lors de la survenance de l'un des événements prévus au a du 1 du VII du
 présent article, le contribuable réalise une plus-value imposée en France

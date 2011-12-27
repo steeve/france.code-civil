@@ -16,11 +16,10 @@ patrimoine mobilier définie à l'article 885 O quater, et notamment celles des
 organismes de placement en valeurs mobilières, et des activités de gestion ou de
 location d'immeubles ;
 
-b. La société a son siège de direction effective dans un État membre de la
-Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
-économique européen ayant conclu avec la France une convention fiscale qui
-contient une clause d'assistance administrative en vue de lutter contre la
-fraude ou l'évasion fiscale.
+b. La société a son siège de direction effective dans un État membre de l'Union
+européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
+européen ayant conclu avec la France une convention d'assistance administrative
+en vue de lutter contre la fraude et l'évasion fiscales.
 
 2. L'exonération s'applique également aux titres reçus par le redevable en
 contrepartie de sa souscription en numéraire au capital d'une société

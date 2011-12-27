@@ -15,13 +15,13 @@ II. L'exonération est subordonnée aux conditions suivantes :
 1° Outre les conditions prévues aux articles L. 214-28 et L. 214-38 du code
 monétaire et financier, les titres pris en compte, directement dans le quota
 d'investissement de 50 % doivent ête émis par des sociétés ayant leur siège dans
-un Etat membre de la Communauté européenne, ou dans un autre Etat partie à
-l'accord sur l'Espace économique européen ayant conclu avec la France une
-convention fiscale qui contient une clause d'assistance administrative en vue de
-lutter contre la fraude ou l'évasion fiscale, qui exercent une activité
-mentionnée à l'article 34 et qui sont soumises à l'impôt sur les sociétés dans
-les conditions de droit commun ou y seraient soumises dans les mêmes conditions
-si l'activité était exercée en France ;
+un Etat membre de l'Union européenne, ou dans un autre Etat partie à l'accord
+sur l'Espace économique européen ayant conclu avec la France une convention
+d'assistance administrative en vue de lutter contre la fraude et l'évasion
+fiscales, qui exercent une activité mentionnée à l'article 34 et qui sont
+soumises à l'impôt sur les sociétés dans les conditions de droit commun ou y
+seraient soumises dans les mêmes conditions si l'activité était exercée en
+France ;
 
 1° bis (abrogé) ;
 
@@ -61,8 +61,8 @@ dans des sociétés qui répondent aux conditions prévues au 1°. Les modalité
 détermination de cette proportion sont fixées par décret en Conseil d'Etat ;
 
 2° Les sommes ou valeurs réparties doivent être immédiatement réinvesties dans
-le fonds et demeurer indisponibles pendant la période visée au I, premier alinéa
-;
+le fonds et demeurer indisponibles pendant la période visée au premier alinéa du
+I ;
 
 3° Le porteur de parts, son conjoint et leurs ascendants et descendants ne
 doivent pas détenir ensemble directement ou indirectement plus de 25 % des

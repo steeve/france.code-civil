@@ -2,15 +2,15 @@ Article 244 quater J
 ----
 I.-Les établissements de crédit mentionnés à l'article L. 511-1 du code
 monétaire et financier passibles de l'impôt sur les sociétés, de l'impôt sur le
-revenu ou d'un impôt équivalent, ayant leur siège dans un Etat membre de la
-Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
-économique européen ayant conclu avec la France une convention fiscale contenant
-une clause d'assistance administrative en vue de lutter contre la fraude ou
-l'évasion fiscale, peuvent bénéficier d'un crédit d'impôt au titre d'avances
-remboursables ne portant pas intérêt consenties à des personnes physiques,
-soumises à des conditions de ressources, pour l'acquisition ou la construction
-d'une résidence principale en accession à la première propriété et versées au
-cours de l'année d'imposition ou de l'exercice.
+revenu ou d'un impôt équivalent, ayant leur siège dans un Etat membre de l'Union
+européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
+européen ayant conclu avec la France une convention d'assistance administrative
+en vue de lutter contre la fraude et l'évasion fiscales, peuvent bénéficier d'un
+crédit d'impôt au titre d'avances remboursables ne portant pas intérêt
+consenties à des personnes physiques, soumises à des conditions de ressources,
+pour l'acquisition ou la construction d'une résidence principale en accession à
+la première propriété et versées au cours de l'année d'imposition ou de
+l'exercice.
 
 Le montant de l'avance remboursable sans intérêt peut, le cas échéant, financer
 l'ensemble des travaux prévus par le bénéficiaire de cette avance lors de
@@ -62,16 +62,16 @@ des personnes mentionnées au huitième alinéa, le cas échéant de manière
 forfaitaire.
 
 Le montant total des ressources à prendre en compte ne doit pas excéder 64 875
-euros.
+€.
 
-Le montant de l'avance remboursable sans intérêt est plafonné à 32 500 euros.
+Le montant de l'avance remboursable sans intérêt est plafonné à 32 500 €.
 
 Ce dernier montant est majoré de 50 % dans les zones urbaines sensibles et dans
 les zones franches urbaines mentionnées à l'article 42 de la loi n° 95-115 du 4
 février 1995 d'orientation pour l'aménagement et le développement du territoire.
 
 Jusqu'au 31 décembre 2010, le montant plafond de l'avance remboursable sans
-intérêt est majoré d'un montant de 15 000 Euros pour les opérations d'accession
+intérêt est majoré d'un montant de 15 000 € pour les opérations d'accession
 sociale à la propriété portant sur la construction ou l'acquisition de logements
 neufs et donnant lieu à une aide à l'accession sociale à la propriété attribuée
 par une ou plusieurs collectivités territoriales ou par un groupement de

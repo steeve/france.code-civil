@@ -135,7 +135,7 @@ imposable.
 prévue au 1 les dons versés aux organismes agréés dans les conditions prévues à
 l'article 1649 nonies et dont l'objet exclusif est de verser des aides
 financières permettant la réalisation d'investissements tels que définis au 1 de
-l'article 12 du règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008
+l'article 12 du règlement (CE) n° 800/2008 de la Commission du 6 août 2008
 déclarant certaines catégories d'aides compatibles avec le marché commun en
 application des articles 87 et 88 du traité (Règlement général d'exemption par
 catégorie) ou de fournir des prestations d'accompagnement à des petites et
@@ -150,7 +150,7 @@ l'ensemble des conditions suivantes :
 l'intérêt direct des entreprises bénéficiaires ;
 
 3° Les aides accordées entrent dans le champ d'application de l'article 15 du
-règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 précité ;
+règlement (CE) n° 800/2008 de la Commission du 6 août 2008 précité ;
 
 4° Le montant versé chaque année à une entreprise ne devra pas excéder 20 % des
 ressources annuelles de l'organisme ;
@@ -171,21 +171,21 @@ l'agrément.
 
 4 bis. Ouvrent également droit à la réduction d'impôt les dons et versements
 effectués au profit d'organismes agréés dans les conditions prévues à l'article
-1649 nonies dont le siège est situé dans un Etat membre de la Communauté
-européenne ou dans un Etat partie à l'Espace économique européen ayant conclu
-avec la France une convention fiscale contenant une clause d'assistance
-administrative en vue de lutter contre la fraude ou l'évasion fiscale.
-L'agrément est accordé lorsque l'organisme poursuit des objectifs et présente
-des caractéristiques similaires aux organismes dont le siège est situé en France
-répondant aux conditions fixées par le présent article.
+1649 nonies dont le siège est situé dans un Etat membre de l'Union européenne ou
+dans un autre Etat partie à l'accord sur l'Espace économique européen ayant
+conclu avec la France une convention d'assistance administrative en vue de
+lutter contre la fraude et l'évasion fiscales. L'agrément est accordé lorsque
+l'organisme poursuit des objectifs et présente des caractéristiques similaires
+aux organismes dont le siège est situé en France répondant aux conditions fixées
+par le présent article.
 
 Lorsque les dons et versements ont été effectués au profit d'un organisme non
-agréé dont le siège est situé dans un Etat membre de la Communauté européenne ou
-dans un Etat partie à l'Espace économique européen ayant conclu avec la France
-une convention fiscale contenant une clause d'assistance administrative en vue
-de lutter contre la fraude ou l'évasion fiscale, la réduction d'impôt obtenue
-fait l'objet d'une reprise, sauf lorsque le contribuable a produit dans le délai
-de dépôt de déclaration les pièces justificatives attestant que cet organisme
+agréé dont le siège est situé dans un Etat membre de l'Union européenne ou dans
+un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu
+avec la France une convention d'assistance administrative en vue de lutter
+contre la fraude et l'évasion fiscales, la réduction d'impôt obtenue fait
+l'objet d'une reprise, sauf lorsque le contribuable a produit dans le délai de
+dépôt de déclaration les pièces justificatives attestant que cet organisme
 poursuit des objectifs et présente des caractéristiques similaires aux
 organismes dont le siège est situé en France répondant aux conditions fixées par
 le présent article.

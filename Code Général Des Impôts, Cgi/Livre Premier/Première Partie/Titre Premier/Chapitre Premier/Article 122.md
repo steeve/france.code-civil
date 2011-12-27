@@ -18,13 +18,12 @@ primes versées augmenté, le cas échéant, du prix d'acquisition du bon ou
 contrat.
 
 Lorsque ces produits sont attachés à des bons ou contrats souscrits auprès
-d'entreprises d'assurance établies hors de France dans un Etat membre de la
-Communauté européenne, ou dans un Etat non membre de la Communauté européenne
-partie à l'accord sur l'Espace économique européen, ayant conclu avec la France
-une convention fiscale qui contient une clause d'assistance administrative en
-vue de lutter contre la fraude ou l'évasion fiscale, l'abattement prévu au I de
-l'article 125-0 A est applicable dans les mêmes conditions. Les limites de cet
-abattement s'appliquent globalement aux produits définis à cet alinéa et à
+d'entreprises d'assurance établies hors de France dans un Etat membre de l'Union
+européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique
+européen, ayant conclu avec la France une convention d'assistance administrative
+en vue de lutter contre la fraude et l'évasion fiscales, l'abattement prévu au I
+de l'article 125-0 A est applicable dans les mêmes conditions. Les limites de
+cet abattement s'appliquent globalement aux produits définis à cet alinéa et à
 l'article 125-0 A.
 
 Les gains de cession des bons ou contrats sont déterminés par application des

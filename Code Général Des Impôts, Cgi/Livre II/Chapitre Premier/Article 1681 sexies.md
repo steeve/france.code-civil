@@ -1,6 +1,6 @@
 Article 1681 sexies
 ----
-1. Sous réserve des 2 et 3, lorsque leur montant excède 50 000 euros, les impôts
+1. Sous réserve des 2, 3 et 4, lorsque leur montant excède 50 000 €, les impôts
 exigibles dans les conditions fixées à l'article 1663 sont acquittés, au choix
 du contribuable, par virement directement opéré sur le compte du Trésor ouvert
 dans les écritures de la Banque de France ou par prélèvements opérés à
@@ -20,3 +20,9 @@ sont acquittés par prélèvements opérés à l'initiative du Trésor public su
 compte mentionné aux 1° ou 2° de l'article 1681 D lorsque le chiffre d'affaires
 hors taxes réalisé par l'entreprise au titre de l'exercice précédent est
 supérieur à 230 000 €.
+
+4. Quel que soit leur montant, la cotisation foncière des entreprises et
+l'imposition forfaitaire sur les entreprises de réseaux, recouvrées par voie de
+rôles, ne peuvent pas être acquittées par virement. Cette interdiction
+s'applique également à l'acompte de cotisation foncière des entreprises
+mentionné à l'article 1679 quinquies.

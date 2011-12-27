@@ -22,16 +22,16 @@ l'utilisation de la chaleur pourront exercer cette option contrat par contrat.
 II.-1. En cas de location ou de mise à disposition sous toute autre forme de
 biens situés ou exploités ou immatriculés en France ou dans un autre Etat partie
 à l'accord sur l'Espace économique européen qui a conclu avec la France une
-convention fiscale contenant une clause d'assistance administrative en vue de
-lutter contre la fraude ou l'évasion fiscale, consentie par une société soumise
-au régime prévu à l'article 8, par une copropriété visée à l'article 8 quater ou
-8 quinquies ou par un groupement au sens des articles 239 quater, 239 quater B,
-239 quater C ou 239 quater D, le montant de l'amortissement de ces biens ou des
-parts de copropriété est admis en déduction du résultat imposable. Pendant une
-période de trente-six mois décomptée à partir du début de la mise en location ou
-de la mise à disposition, cet amortissement est admis en déduction, au titre
-d'un même exercice, dans la limite de trois fois le montant des loyers acquis ou
-de la quote-part du résultat de la copropriété.
+convention d'assistance administrative en vue de lutter contre la fraude et
+l'évasion fiscales, consentie par une société soumise au régime prévu à
+l'article 8, par une copropriété visée à l'article 8 quater ou 8 quinquies ou
+par un groupement au sens des articles 239 quater, 239 quater B, 239 quater C ou
+239 quater D, le montant de l'amortissement de ces biens ou des parts de
+copropriété est admis en déduction du résultat imposable. Pendant une période de
+trente-six mois décomptée à partir du début de la mise en location ou de la mise
+à disposition, cet amortissement est admis en déduction, au titre d'un même
+exercice, dans la limite de trois fois le montant des loyers acquis ou de la
+quote-part du résultat de la copropriété.
 
 La fraction des déficits des sociétés, copropriétés ou groupements mentionnés au
 premier alinéa correspondant au montant des dotations aux amortissements
@@ -44,13 +44,13 @@ associé, copropriétaire, membre ou, le cas échéant, groupe au sens de l'arti
 En cas de location ou de mise à disposition sous toute autre forme de biens
 situés ou exploités ou immatriculés dans un Etat qui n'est pas partie à l'accord
 sur l'Espace économique européen ou qui n'a pas conclu avec la France une
-convention fiscale contenant une clause d'assistance administrative en vue de
-lutter contre la fraude ou l'évasion fiscale, consentie par les sociétés,
-copropriétés ou groupements mentionnés au premier alinéa, le montant de
-l'amortissement de ces biens ou parts de copropriété est admis en déduction du
-résultat imposable, au titre d'un même exercice, dans la limite du montant du
-loyer acquis, ou de la quote-part du résultat de la copropriété, diminué du
-montant des autres charges afférentes à ces biens ou parts.
+convention d'assistance administrative en vue de lutter contre la fraude et
+l'évasion fiscales, consentie par les sociétés, copropriétés ou groupements
+mentionnés au premier alinéa, le montant de l'amortissement de ces biens ou
+parts de copropriété est admis en déduction du résultat imposable, au titre d'un
+même exercice, dans la limite du montant du loyer acquis, ou de la quote-part du
+résultat de la copropriété, diminué du montant des autres charges afférentes à
+ces biens ou parts.
 
 La limitation de l'amortissement prévue aux premier et troisième alinéas et du
 montant des déficits prévue au deuxième alinéa ne s'applique pas à la part de

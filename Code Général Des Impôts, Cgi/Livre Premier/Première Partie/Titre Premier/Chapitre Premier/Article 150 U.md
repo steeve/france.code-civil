@@ -17,16 +17,37 @@ d'immeubles ou aux droits relatifs à ces biens :
 
 1° Qui constituent la résidence principale du cédant au jour de la cession ;
 
+1° bis Au titre de la première cession d'un logement, y compris ses dépendances
+immédiates et nécessaires au sens du 3° si leur cession est simultanée à celle
+dudit logement, autre que la résidence principale, lorsque le cédant n'a pas été
+propriétaire de sa résidence principale, directement ou par personne interposée,
+au cours des quatre années précédant la cession.
+
+L'exonération est applicable à la fraction du prix de cession défini à l'article
+150 VA que le cédant remploie, dans un délai de vingt-quatre mois à compter de
+la cession, à l'acquisition ou la construction d'un logement qu'il affecte, dès
+son achèvement ou son acquisition si elle est postérieure, à son habitation
+principale. En cas de manquement à l'une de ces conditions, l'exonération est
+remise en cause au titre de l'année du manquement ;
+
+1° ter Qui ont constitué la résidence principale du cédant et n'ont fait l'objet
+depuis lors d'aucune occupation, lorsque ce dernier est désormais résident d'un
+établissement mentionné aux 6° ou 7° de l'article L. 312-1 du code de l'action
+sociale et des familles si, au titre de l'avant-dernière année précédant celle
+de la cession, il n'est pas passible de l'impôt de solidarité sur la fortune et
+n'a pas un revenu fiscal de référence excédant la limite prévue au II de
+l'article 1417 du présent code et si la cession intervient dans un délai
+inférieur à deux ans suivant l'entrée dans l'établissement ;
+
 2° Qui constituent l'habitation en France des personnes physiques, non
-résidentes en France, ressortissantes d'un Etat membre de la Communauté
-européenne, ou d'un autre Etat partie à l'accord sur l'Espace économique
-européen ayant conclu avec la France une convention fiscale qui contient une
-clause d'assistance administrative en vue de lutter contre la fraude ou
-l'évasion fiscale, dans la limite d'une résidence par contribuable, à la double
-condition que le cédant ait été fiscalement domicilié en France de manière
-continue pendant au moins deux ans à un moment quelconque antérieurement à la
-cession et qu'il ait la libre disposition du bien au moins depuis le 1er janvier
-de l'année précédant celle de cette cession ;
+résidentes en France, ressortissantes d'un Etat membre de l'Union européenne ou
+d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu
+avec la France une convention d'assistance administrative en vue de lutter
+contre la fraude et l'évasion fiscales, dans la limite d'une résidence par
+contribuable, à la double condition que le cédant ait été fiscalement domicilié
+en France de manière continue pendant au moins deux ans à un moment quelconque
+antérieurement à la cession et qu'il ait la libre disposition du bien au moins
+depuis le 1er janvier de l'année précédant celle de cette cession ;
 
 3° Qui constituent les dépendances immédiates et nécessaires des biens
 mentionnés aux 1° et 2°, à la condition que leur cession intervienne
@@ -46,16 +67,16 @@ biens reçus à cette occasion, la plus-value est calculée à partir de la date
 du prix d'acquisition du bien originel ou de la partie constitutive la plus
 ancienne dans les cas de vente de lots remembrés ;
 
-6° Dont le prix de cession est inférieur ou égal à 15 000 euros. Le seuil de 15
-000 euros s'apprécie en tenant compte de la valeur en pleine propriété de
-l'immeuble ou de la partie d'immeuble ;
+6° Dont le prix de cession est inférieur ou égal à 15 000 €. Le seuil de 15 000
+€ s'apprécie en tenant compte de la valeur en pleine propriété de l'immeuble ou
+de la partie d'immeuble ;
 
 En cas de cession d'un bien détenu en indivision, ce seuil s'apprécie au regard
 de chaque quote-part indivise.
 
 En cas de cession d'un bien dont le droit de propriété est démembré, le seuil de
-15 000 euros s'apprécie au regard de chaque quote-part indivise en pleine
-propriété ;
+15 000 € s'apprécie au regard de chaque quote-part indivise en pleine propriété
+;
 
 7° Qui sont cédés avant le 31 décembre 2011 à un organisme d'habitations à loyer
 modéré, à une société d'économie mixte gérant des logements sociaux, à
@@ -75,6 +96,24 @@ l'acquisition des biens, la collectivité territoriale ou l'établissement publi
 de coopération intercommunale compétent reverse à l'Etat le montant dû au titre
 du I ; ce délai est porté à trois ans pour les cessions réalisées par un
 établissement public foncier au profit de l'un des organismes mentionnés au 7°.
+
+9° Au titre de la cession d'un droit de surélévation au plus tard le 31 décembre
+2014, à condition que le cessionnaire s'engage à réaliser et à achever des
+locaux destinés à l'habitation dans un délai de quatre ans à compter de la date
+de l'acquisition. En cas de manquement à cet engagement, le cessionnaire est
+redevable d'une amende d'un montant égal à 25 % de la valeur de cession du droit
+de surélévation. Cette amende n'est pas due en cas de licenciement, d'invalidité
+correspondant au classement dans les deuxième ou troisième des catégories
+prévues à l'article L. 341-4 du code de la sécurité sociale ou de décès du
+contribuable ou de l'un des époux soumis à une imposition commune. Elle n'est
+pas due non plus lorsque le cessionnaire ne respecte pas son engagement en
+raison de circonstances exceptionnelles indépendantes de sa volonté. En cas de
+fusion de sociétés, l'engagement souscrit par le cessionnaire n'est pas rompu
+lorsque la société absorbante s'engage, dans l'acte de fusion, à se substituer à
+la société absorbée pour le respect de l'engagement d'achèvement des locaux dans
+le délai restant à courir. Le non-respect par la société absorbante de
+l'engagement d'achèvement des locaux entraîne l'application de l'amende prévue
+pour le cessionnaire.
 
 III.-Les dispositions du I ne s'appliquent pas aux plus-values réalisées par les
 titulaires de pensions de vieillesse ou de la carte d'invalidité correspondant

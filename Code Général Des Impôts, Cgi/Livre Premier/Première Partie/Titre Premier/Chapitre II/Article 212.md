@@ -30,7 +30,7 @@ directement ou indirectement au sens du 12 de l'article 39,
 
 la fraction des intérêts excédant la plus élevée de ces limites ne peut être
 déduite au titre de cet exercice, sauf si cette fraction est inférieure à 150
-000 Euros.
+000 €.
 
 Toutefois, cette fraction d'intérêts non déductible immédiatement peut être
 déduite au titre de l'exercice suivant à concurrence de la différence calculée
@@ -103,11 +103,20 @@ le détenteur de ces titres et le débiteur sont membres d'un même groupe
 mentionné à l'article 223 A ;
 
 3° A la suite du remboursement d'une dette préalable, rendu obligatoire par la
-prise de contrôle du débiteur, dans la limite du capital remboursé et des
+prise de contrôle du débiteur ou en exécution d'une procédure de sauvegarde ou
+d'un redressement judiciaire, dans la limite du capital remboursé et des
 intérêts échus à cette occasion ;
 
 4° A raison d'emprunts contractés antérieurement au 1er janvier 2011 à
-l'occasion d'une opération d'acquisition de titres ou de son refinancement.
+l'occasion d'une opération d'acquisition de titres ou de son refinancement ;
+
+5° A raison d'emprunts contractés par une société civile ayant pour objet la
+construction d'immeubles en vue de la vente et garantis par l'un ou plusieurs de
+ses associés, sous réserve toutefois que, d'une part, la quotité garantie par le
+ou les associés n'excède pas pour chaque emprunt la proportion de leurs droits
+dans ladite société civile et, d'autre part, que les sommes empruntées ne soient
+pas à nouveau mises à disposition par cette société à une autre entreprise qui
+lui est liée au sens du 12 de l'article 39.
 
 III.-Les dispositions du II ne s'appliquent pas si l'entreprise apporte la
 preuve que le ratio d'endettement du groupe auquel elle appartient est supérieur
@@ -116,7 +125,7 @@ ou égal à son propre ratio d'endettement au titre de l'exercice mentionné au 
 Pour l'application des dispositions du premier alinéa, le groupe s'entend de
 l'ensemble des entreprises françaises ou étrangères placées sous le contrôle
 exclusif d'une même société ou personne morale, au sens du II de l'article L.
-233-16 du code de commerce.L'appréciation des droits de vote détenus
+233-16 du code de commerce. L'appréciation des droits de vote détenus
 indirectement par la société ou personne morale s'opère en additionnant les
 pourcentages de droits de vote détenus par chaque entreprise du groupe.
 

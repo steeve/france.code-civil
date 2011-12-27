@@ -60,7 +60,7 @@ du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale. En
 d'excédent, celui-ci est ajouté à la rémunération ;
 
 La limite mentionnée au deuxième alinéa est réduite, le cas échéant, des sommes
-versées par l'entreprise ou le salarié (1) au plan d'épargne pour la retraite
+versées par l'entreprise ou le salarié au plan d'épargne pour la retraite
 collectif défini aux articles L. 3334-1 à L. 3334-16 du code du travail et
 exonérées en application du 18° de l'article 81 ;
 
@@ -83,6 +83,10 @@ personnes désignées au I de l'article 81 B ou au 1 du I de l'article 155 B
 étaient affiliées ès qualités dans un autre Etat avant leur prise de fonctions
 en France. Les cotisations sont déductibles jusqu'au 31 décembre de la cinquième
 année suivant celle de leur prise de fonctions ;
+
+2°-0 quater La contribution prévue à l'article L. 137-11-1 du code de la
+sécurité sociale dans la limite de la fraction acquittée au titre des premiers 1
+000 € de rente mensuelle ;
 
 2° bis Les contributions versées par les salariés en application des
 dispositions de l'article L. 5422-9 du code du travail et destinées à financer

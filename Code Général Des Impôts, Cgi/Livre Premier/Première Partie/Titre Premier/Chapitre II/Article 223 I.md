@@ -51,7 +51,8 @@ conditions prévues à l'article 223 S peut, dans la mesure où ce déficit
 correspond à celui de la société mère absorbée ou à celui des sociétés membres
 du groupe ayant cessé et qui font partie du nouveau groupe, s'imputer sur les
 résultats, déterminés selon les modalités prévues au 4 et par dérogation au a du
-1, des sociétés mentionnées ci-dessus.
+1, des sociétés mentionnées ci-dessus. Cette fraction de déficit s'impute dans
+les limites et conditions prévues au dernier alinéa du I de l'article 209.
 
 La fraction du déficit transférée en application du 7 peut, dans la mesure où
 cette fraction correspond au déficit des sociétés apportées qui font partie du
@@ -67,7 +68,7 @@ conditions prévues à l'article 1649 nonies.
 
 L'agrément est délivré lorsque :
 
-a.L'opération est placée sous le régime prévu à l'article 210 A ;
+a. L'opération est placée sous le régime prévu à l'article 210 A ;
 
 b. Elle est justifiée du point de vue économique et obéit à des motivations
 principales autres que fiscales ;

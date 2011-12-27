@@ -25,7 +25,7 @@ financiers-qui sont indéfiniment responsables et dont les noms et adresses ont
 3° Des membres des sociétés à responsabilité limitée qui ont opté pour le régime
 fiscal des sociétés de personnes dans les conditions prévues à l'article 3-IV du
 décret n° 55-594 du 20 mai 1955 modifié ou dans celles prévues par l'article 239
-bis AA.
+bis AA ;
 
 4° De l'associé unique d'une société à responsabilité limitée lorsque cet
 associé est une personne physique ;
@@ -35,4 +35,8 @@ responsabilité limitée ;
 
 6° Des membres des sociétés anonymes, des sociétés par actions simplifiées et
 des sociétés à responsabilité limitée qui ont opté pour le régime fiscal des
-sociétés de personnes dans les conditions prévues par l'article 239 bis AB.
+sociétés de personnes dans les conditions prévues par l'article 239 bis AB ;
+
+7° Nonobstant les dispositions du 1°, des membres des sociétés
+interprofessionnelles de soins ambulatoires mentionnées à l'article L. 4041-1 du
+code de la santé publique.

@@ -61,18 +61,20 @@ CLASSE
 
 Tarifs par passager
 
-De 4,3 à 11,5 euros
+De 4,3 à 11,5 €
 
-De 3,5 à 9,5 euros.
+De 3,5 à 9,5 €.
 
-De 2,6 à 12 euros
+De 2,6 à 12 €
 
-Le tarif de la taxe est égal à 1 euro par tonne de fret et de courrier pour tous
+Le tarif de la taxe est égal à 1 € par tonne de fret et de courrier pour tous
 les aérodromes visés au I.
 
 Un arrêté, pris par le ministre chargé du budget et le ministre chargé de
 l'aviation civile, fixe la liste des aérodromes concernés par classe et, au sein
-de chaque classe, le tarif de la taxe applicable pour chaque aérodrome.
+de chaque classe, le tarif de la taxe applicable pour chaque aérodrome. Un
+abattement, dont le taux est fixé forfaitairement par l'arrêté dans la limite de
+40 %, est toutefois applicable aux passagers en correspondance.
 
 Le produit de la taxe est affecté sur chaque aérodrome au financement des
 services de sécurité-incendie-sauvetage, de lutte contre le péril animalier, de
@@ -116,9 +118,9 @@ comptables du budget annexe " Contrôle et exploitation aériens ".
 
 IV bis.-A compter du 1er janvier 2010, le tarif par passager de la taxe
 d'aéroport fait l'objet d'une majoration fixée, dans la limite d'un montant de
-1,25 euro, par arrêté conjoint du ministre chargé du budget et du ministre
-chargé de l'aviation civile. Les limites supérieures des tarifs mentionnés au IV
-ne prennent pas en compte cette majoration.
+1,25 €, par arrêté conjoint du ministre chargé du budget et du ministre chargé
+de l'aviation civile. Les limites supérieures des tarifs mentionnés au IV ne
+prennent pas en compte cette majoration.
 
 Le produit de cette majoration est affecté aux exploitants des aérodromes de
 classe 3 ainsi qu'aux exploitants d'aérodromes ne relevant pas des classes des

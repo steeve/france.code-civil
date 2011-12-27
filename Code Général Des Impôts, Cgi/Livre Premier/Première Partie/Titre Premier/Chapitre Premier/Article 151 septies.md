@@ -13,43 +13,42 @@ pendant au moins cinq ans, exonérées pour :
 1° La totalité de leur montant lorsque les recettes annuelles sont inférieures
 ou égales à :
 
-a) 250 000 euros s'il s'agit d'entreprises dont le commerce principal est de
-vendre des marchandises, objets, fournitures et denrées à emporter ou à
-consommer sur place ou de fournir le logement, à l'exclusion de la location
-directe ou indirecte de locaux d'habitation meublés ou destinés à être loués
-meublés, ou s'il s'agit d'entreprises exerçant une activité agricole ;
+a) 250 000 € s'il s'agit d'entreprises dont le commerce principal est de vendre
+des marchandises, objets, fournitures et denrées à emporter ou à consommer sur
+place ou de fournir le logement, à l'exclusion de la location directe ou
+indirecte de locaux d'habitation meublés ou destinés à être loués meublés, ou
+s'il s'agit d'entreprises exerçant une activité agricole ;
 
-b) 90 000 euros s'il s'agit d'autres entreprises ou de titulaires de bénéfices
-non commerciaux ;
+b) 90 000 € s'il s'agit d'autres entreprises ou de titulaires de bénéfices non
+commerciaux ;
 
-2° Une partie de leur montant lorsque les recettes sont supérieures à 250 000
-euros et inférieures à 350 000 euros pour les entreprises mentionnées au a du 1°
-et, lorsque les recettes sont supérieures à 90 000 euros et inférieures à 126
-000 euros, pour les entreprises mentionnées au b du 1°. Pour l'application de
-ces dispositions, le montant exonéré de la plus-value est déterminé en lui
+2° Une partie de leur montant lorsque les recettes sont supérieures à 250 000 €
+et inférieures à 350 000 € pour les entreprises mentionnées au a du 1° et,
+lorsque les recettes sont supérieures à 90 000 € et inférieures à 126 000 €,
+pour les entreprises mentionnées au b du 1°. Pour l'application de ces
+dispositions, le montant exonéré de la plus-value est déterminé en lui
 appliquant :
 
 a) Pour les entreprises mentionnées au a du 1°, un taux égal au rapport entre,
-au numérateur, la différence entre 350 000 euros et le montant des recettes et,
-au dénominateur, le montant de 100 000 euros ;
+au numérateur, la différence entre 350 000 € et le montant des recettes et, au
+dénominateur, le montant de 100 000 € ;
 
 b) Pour les entreprises mentionnées au b du 1°, un taux égal au rapport entre,
-au numérateur, la différence entre 126 000 euros et le montant des recettes et,
-au dénominateur, le montant de 36 000 euros.
+au numérateur, la différence entre 126 000 € et le montant des recettes et, au
+dénominateur, le montant de 36 000 €.
 
 Lorsque l'activité de l'entreprise se rattache aux deux catégories définies aux
 a et b du 1°, l'exonération totale n'est applicable que si le montant global des
-recettes est inférieur ou égal à 250 000 euros et si le montant des recettes
-afférentes aux activités définies au b du 1° est inférieur ou égal à 90 000
-euros.
+recettes est inférieur ou égal à 250 000 € et si le montant des recettes
+afférentes aux activités définies au b du 1° est inférieur ou égal à 90 000 €.
 
 Lorsque ces conditions ne sont pas remplies, si le montant global des recettes
-est inférieur à 350 000 euros et si le montant des recettes afférentes aux
-activités définies au b du 1° est inférieur à 126 000 euros, le montant exonéré
-de la plus-value est déterminé en appliquant le moins élevé des deux taux qui
-aurait été déterminé dans les conditions fixées au 2° si l'entreprise avait
-réalisé le montant global de ses recettes dans les catégories visées au a du 1°
-ou si l'entreprise n'avait réalisé que des activités visées au b du 1°.
+est inférieur à 350 000 € et si le montant des recettes afférentes aux activités
+définies au b du 1° est inférieur à 126 000 €, le montant exonéré de la
+plus-value est déterminé en appliquant le moins élevé des deux taux qui aurait
+été déterminé dans les conditions fixées au 2° si l'entreprise avait réalisé le
+montant global de ses recettes dans les catégories visées au a du 1° ou si
+l'entreprise n'avait réalisé que des activités visées au b du 1°.
 
 III.-Les plus-values réalisées à l'occasion de la cession de matériels agricoles
 ou forestiers par des entreprises de travaux agricoles ou forestiers sont
@@ -58,8 +57,8 @@ du II. Un décret précise les modalités d'application du présent III.
 
 IV.-Le montant des recettes annuelles s'entend de la moyenne des recettes,
 appréciées hors taxes, réalisées au titre des exercices clos, ramenés le cas
-échéant à douze mois, au cours des deux années civiles qui précèdent l'exercice
-de réalisation des plus-values.
+échéant à douze mois, au cours des deux années civiles qui précèdent la date de
+clôture de l'exercice de réalisation des plus-values.
 
 Pour les entreprises dont les recettes correspondent à des sommes encaissées, le
 montant des recettes annuelles s'entend de la moyenne des recettes, appréciées

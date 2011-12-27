@@ -51,7 +51,7 @@ sur le revenu ou à l'impôt sur les sociétés de l'entreprise qui les consent 
 -des transferts de charges déductibles de la valeur ajoutée, autres que ceux
 pris en compte dans le chiffre d'affaires ;
 
-- des rentrées sur créances amorties lorsqu'elles se rapportent au résultat
+-des rentrées sur créances amorties lorsqu'elles se rapportent au résultat
 d'exploitation ;
 
 b) Et, d'autre part :
@@ -105,24 +105,29 @@ chiffre d'affaires défini au 3 diminué des charges de la propriété énumér�
 l'article 31, à l'exception des charges énumérées aux c et d du 1° du I du même
 article 31.
 
-7. La valeur ajoutée définie aux 4, 5 et 6 ne peut excéder un pourcentage du
-chiffre d'affaires mentionné respectivement aux 1, 2 et 3 égal à :
+7. La valeur ajoutée définie aux 4,5 et 6 ne peut excéder un pourcentage du
+chiffre d'affaires mentionné respectivement aux 1,2 et 3 égal à :
 
 80 % pour les contribuables dont le chiffre d'affaires est inférieur ou égal à
-7, 6 millions d'euros ;
+7,6 millions d'euros ;
 
-85 % pour les contribuables dont le chiffre d'affaires est supérieur à 7, 6
+85 % pour les contribuables dont le chiffre d'affaires est supérieur à 7,6
 millions d'euros.
 
 Pour l'application du présent 7, la période retenue pour le chiffre d'affaires
 est la même que celle retenue pour la valeur ajoutée.
 
+I bis. ― Pour les mutuelles et unions régies par le livre III du code de la
+mutualité, les produits et les charges ne sont pris en compte, pour le calcul de
+la valeur ajoutée, qu'à raison de 40 % de leur montant en 2013 et de 60 % en
+2014. Ils sont pris en compte en totalité à partir de 2015 (1).
+
 II.-Par exception au I, les produits et les charges mentionnés au même I et se
 rapportant à une activité de location ou de sous-location d'immeubles nus
 réputée exercée à titre professionnel au sens de l'article 1447 ne sont pris en
 compte, pour le calcul de la valeur ajoutée, qu'à raison de 10 % de leur montant
-en 2010, 20 % en 2011, 30 % en 2012, 40 % en 2013, 50 % en 2014, 60 % en 2015,
-70 % en 2016, 80 % en 2017 et 90 % en 2018.
+en 2010,20 % en 2011,30 % en 2012,40 % en 2013,50 % en 2014,60 % en 2015,70 % en
+2016,80 % en 2017 et 90 % en 2018.
 
 III.-Pour les établissements de crédit et, lorsqu'elles sont agréées par
 l'Autorité de contrôle prudentiel, les entreprises mentionnées à l'article L.
@@ -168,7 +173,7 @@ de cette sous-location ;
 sur immobilisations autres que celles portant sur les autres titres détenus à
 long terme et des quotes-parts de résultat sur opérations faites en commun ;
 
-- les pertes sur créances irrécouvrables lorsqu'elles se rapportent aux produits
+-les pertes sur créances irrécouvrables lorsqu'elles se rapportent aux produits
 d'exploitation bancaire.
 
 IV.-Pour les entreprises, autres que celles mentionnées aux III et VI, qui ont
@@ -196,7 +201,7 @@ défini au 1 ;
 financières, à l'exception des dotations aux amortissements et aux provisions ;
 les moins-values de cession de titres autres que les titres de participation ;
 les pertes sur créances irrécouvrables lorsqu'elles se rapportent au chiffre
-d'affaires défini au 1 (1).
+d'affaires défini au 1.
 
 Les entreprises ayant pour activité principale la gestion d'instruments
 financiers sont celles qui remplissent au moins une des deux conditions
@@ -252,9 +257,8 @@ irrécouvrables lorsqu'elles se rapportent au chiffre d'affaires défini au 1.
 
 VI.-Pour les mutuelles et unions régies par le livre II du code de la mutualité,
 les institutions de prévoyance régies par le titre III du livre IX du code de la
-sécurité sociale ou par le titre VII du livre VII du code rural et de la pêche
-maritime et les entreprises d'assurance et de réassurance régies par le code des
-assurances :
+sécurité sociale et les entreprises d'assurance et de réassurance régies par le
+code des assurances :
 
 1. Le chiffre d'affaires comprend :
 
@@ -294,7 +298,7 @@ provisions pour risque d'exigibilité pour la seule partie qui n'est pas admise
 en déduction du résultat imposable en application du 5° du 1 de l'article 39, la
 participation aux résultats, les charges des placements à l'exception des
 moins-values de cession des placements dans des entreprises liées ou avec lien
-de participation et des moins-values de cession d'immeubles d'exploitation.
+de participation et des moins-values de cession d'immeubles d'exploitation ;
 
 Ne sont toutefois pas déductibles de la valeur ajoutée :
 
@@ -320,6 +324,11 @@ non conformes à la Constitution par la décision du Conseil constitutionnel n°
 -les dotations aux amortissements d'exploitation ;
 
 -les dotations aux provisions autres que les provisions techniques.
+
+c) Pour les mutuelles et les institutions de prévoyance visées au premier alinéa
+du présent VI, les produits et les charges ne sont pris en compte, pour le
+calcul de la valeur ajoutée, qu'à raison de 40 % de leur montant en 2013 et de
+60 % en 2014. Ils sont pris en compte en totalité à partir de 2015 (1).
 
 VII.-Lorsque les plus-values de cession d'immobilisations ou de titres de nature
 à être comprises dans le chiffre d'affaires et la valeur ajoutée en application

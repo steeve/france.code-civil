@@ -159,3 +159,9 @@ même code, en lieu et place des communes membres dont la population est
 inférieure ou égale à 2 000 habitants. Dans ce cas, celle-ci est recouvrée sans
 frais par le gestionnaire du réseau de distribution ou le fournisseur. Le taux
 de la taxe ne peut dépasser 8 %.
+
+IX.-Les communautés urbaines, les communautés d'agglomération et les communautés
+de communes sont substituées à leurs communes membres pour l'application des
+dispositions relatives à la taxe de balayage prévue à l'article 1528
+lorsqu'elles assurent le balayage de la superficie des voies livrées à la
+circulation publique.

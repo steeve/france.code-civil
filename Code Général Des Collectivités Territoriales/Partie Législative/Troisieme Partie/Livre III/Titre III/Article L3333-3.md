@@ -7,14 +7,9 @@ mégawattheure.
 1. Pour les consommations professionnelles, le tarif de la taxe est fixé selon
 le barème suivant :
 
-QUALITÉ DE L'ÉLECTRICITÉ
+QUALITÉ DE L'ÉLECTRICITÉ fournie
 
-fournie
-
-
-TARIF EN EURO
-
-par mégawattheure
+TARIF EN EURO par mégawattheure
 
 
 Puissance inférieure ou égale à 36 kilovoltampères
@@ -38,7 +33,7 @@ celles des professions libérales ou assimilées.
 consommations autres que professionnelles.
 
 3. Le conseil général applique aux montants mentionnés aux 1 et 2 un coefficient
-multiplicateur unique compris entre 2 et 4.A partir de l'année 2012, la limite
+multiplicateur unique compris entre 2 et 4. A partir de l'année 2012, la limite
 supérieure du coefficient multiplicateur est actualisée en proportion de
 l'indice moyen des prix à la consommation hors tabac établi pour l'année
 précédente par rapport au même indice établi pour l'année 2009. Les montants qui
@@ -58,6 +53,11 @@ multiplication par 100 du taux en valeur décimale appliqué au 31 décembre 201
 conformément à l'article L. 3333-2 dans sa rédaction antérieure à la
 promulgation de la loi n° 2010-1488 du 7 décembre 2010 portant nouvelle
 organisation du marché de l'électricité.
+
+Pour la taxe due au titre de 2012, la décision du conseil général doit être
+adoptée au plus tard le 15 octobre 2011. Le président du conseil général la
+transmet au comptable public assignataire du département au plus tard le
+deuxième jour ouvré suivant le 15 octobre 2011.
 
 En cas de changement du tarif de la taxe au cours d'une période de facturation,
 les quantités d'électricité concernées sont réparties en fonction des tarifs

@@ -10,8 +10,10 @@ généralement aux contrôles qualitatifs et quantitatifs prévus par ces
 législations.
 
 Les agents ont également libre accès aux lieux de dépôt des entreprises de
-transport ainsi qu'aux ateliers publics et aux locaux des associations
-coopératives où sont effectuées des distillations.
+transport, aux bureaux de poste sédentaires ou ambulants, y compris aux salles
+de tri, aux locaux des entreprises assurant l'acheminement de plis et de colis
+ainsi qu'aux ateliers publics et aux locaux des associations coopératives où
+sont effectuées des distillations.
 
 Ils ont un accès immédiat aux données conservées dans des systèmes
 dématérialisés de billetterie, ainsi qu'à la restitution des informations en

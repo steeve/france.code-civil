@@ -5,15 +5,27 @@ Les rentes versées dans le cadre des régimes mentionnés au I de l'article L.
 
 Les rentes versées au titre des retraites liquidées avant le 1er janvier 2011
 sont soumises à une contribution sur la part qui excède 500 € par mois. Le taux
-de cette contribution est fixé à 7 % pour les rentes dont la valeur mensuelle
-est comprise entre 500 et 1 000 € par mois. Pour les rentes dont la valeur
-mensuelle est supérieure à 1 000 € par mois, ce taux est fixé à 14 %.
+de cette contribution est fixé à :
+
+- 7 % pour la part de ces rentes supérieure à 500 € et inférieure ou égale à 1
+000 € par mois ;
+
+- 14 % pour la part de ces rentes supérieure à 1 000 € et inférieure ou égale à
+24 000 € par mois ;
+
+- 21 % pour la part de ces rentes supérieure à 24 000 € par mois.
 
 Les rentes versées au titre des retraites liquidées à compter du 1er janvier
-2011 sont soumises à une contribution lorsque leur valeur est supérieure à 400 €
-par mois. Le taux de cette contribution est fixé à 14 % pour les rentes dont la
-valeur est supérieure à 600 € par mois. Pour les rentes dont la valeur mensuelle
-est comprise entre 400 et 600 € par mois, ce taux est fixé à 7 %.
+2011 sont soumises à une contribution sur la part qui excède 400 € par mois. Le
+taux de cette contribution est fixé à :
+
+- 7 % pour la part de ces rentes supérieure à 400 € et inférieure ou égale à 600
+€ par mois ;
+
+- 14 % pour la part de ces rentes supérieure à 600 € et inférieure ou égale à 24
+000 € par mois ;
+
+- 21 % pour la part de ces rentes supérieure à 24 000 € par mois.
 
 Ces valeurs sont revalorisées chaque année en fonction de l'évolution du plafond
 défini à l'article L. 241-3 et arrondies selon les règles définies à l'article

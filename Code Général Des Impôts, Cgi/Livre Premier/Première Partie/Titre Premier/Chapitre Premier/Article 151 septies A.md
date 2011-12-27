@@ -111,10 +111,10 @@ c) Remplit la condition prévue au 4° du I ;
 
 a) Répond aux conditions prévues aux 5° et 6° du I ;
 
-b) A son siège social dans un État membre de la Communauté européenne ou dans un
-autre État partie à l'accord sur l'Espace économique européen ayant conclu avec
-la France une convention fiscale qui contient une clause d'assistance
-administrative en vue de lutter contre la fraude ou l'évasion fiscale ;
+b) A son siège social dans un État membre de l'Union européenne ou dans un autre
+Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la
+France une convention d'assistance administrative en vue de lutter contre la
+fraude et l'évasion fiscales ;
 
 c) Doit avoir exercé, de manière continue pendant les cinq années précédant la
 cession, une activité commerciale, industrielle, artisanale, libérale ou

@@ -13,6 +13,10 @@ ainsi que les délibérations fixant le périmètre de la zone d'activités
 économiques visée au premier alinéa du 2° du III de l'article 1379-0 bis, sont
 prises dans les conditions prévues au premier alinéa.
 
+Par exception aux dispositions du premier alinéa, les délibérations prévues à
+l'article 1647 D peuvent être prises jusqu'au 31 décembre pour être applicables
+l'année suivante.
+
 II.-1. Les délibérations des communes et de leurs établissements publics de
 coopération intercommunale instituant la taxe d'enlèvement des ordures ménagères
 conformément à l'article 1520, au VI de l'article 1379-0 bis et à l'article 1609
@@ -41,7 +45,7 @@ territoriales par un arrêté préfectoral pris postérieurement au 15 octobre d
 année peuvent prendre, jusqu'au 15 janvier de l'année qui suit celle du
 transfert, la délibération afférente à l'institution de la taxe d'enlèvement des
 ordures ménagères à l'exclusion des délibérations prévues aux articles 1521 et
-1522 et au 2 du III de l'article 1636 B sexies. A défaut, les délibérations
+1522 et au 2 de l'article 1636 B undecies (1). A défaut, les délibérations
 prises en matière de taxe d'enlèvement des ordures ménagères par les communes
 restent applicables l'année qui suit celle du transfert.
 
@@ -76,12 +80,31 @@ coopération intercommunale ayant fait l'objet de la fusion ou sur le territoire
 des communes incluses dans le périmètre de l'établissement public de coopération
 intercommunale issu de la fusion, en application du sixième alinéa du I de
 l'article L. 5211-41-3 du code général des collectivités territoriales, est
-maintenu pour une durée qui ne peut excéder les deux années suivant la fusion.
-Pour l'application de ces dispositions, l'établissement public de coopération
+maintenu pour une durée qui ne peut excéder cinq années suivant la fusion. Pour
+l'application de ces dispositions, l'établissement public de coopération
 intercommunale issu de la fusion perçoit la taxe au lieu et place des
 établissements publics de coopération intercommunale ayant fait l'objet de la
 fusion.
 
 Les dispositions des premier et deuxième alinéas sont également applicables aux
 syndicats mixtes issus d'une fusion en application de l'article L. 5711-2 du
-code général des collectivités territoriales.
+code général des collectivités territoriales. Elles sont également applicables
+en cas de modification de périmètre d'un établissement public de coopération
+intercommunale suivant l'intégration d'une commune ou d'un établissement de
+coopération intercommunale.
+
+IV. ― En cas de rattachement d'une commune ou d'un établissement public de
+coopération intercommunale ne faisant pas application des dispositions de
+l'article 1522 bis à un établissement public de coopération intercommunale ou à
+un syndicat mixte en faisant application, l'application de ces dispositions sur
+le territoire de la commune ou de l'établissement public de coopération
+intercommunale rattaché peut être reportée à la cinquième année qui suit celle
+du rattachement.
+
+Dans ce cas, pour l'année du rattachement, les délibérations antérieures
+relatives à la taxe d'enlèvement des ordures ménagères restent, le cas échéant,
+en vigueur. L'établissement public de coopération intercommunale ou le syndicat
+mixte auquel sont rattachés les communes ou l'établissement public de
+coopération intercommunale perçoit la taxe d'enlèvement des ordures ménagères en
+lieu et place des communes rattachées et des établissements publics de
+coopération intercommunale dissous.

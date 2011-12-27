@@ -18,8 +18,8 @@ Lorsque la durée du bon ou du contrat est égale ou supérieure à six ans pour
 bons ou contrats souscrits entre le 1er janvier 1983 et le 31 décembre 1989 et à
 huit ans pour les bons ou contrats souscrits à compter du 1er janvier 1990, il
 est opéré, pour l'ensemble des bons ou contrats détenus par un même
-contribuable, un abattement annuel de 4 600 euros pour les contribuables
-célibataires, veufs ou divorcés et de 9 200 euros pour les contribuables mariés
+contribuable, un abattement annuel de 4 600 € pour les contribuables
+célibataires, veufs ou divorcés et de 9 200 € pour les contribuables mariés
 soumis à imposition commune sur la somme des produits acquis à compter du 1er
 janvier 1998, ou constatés à compter de la même date pour les bons ou contrats
 en unités de compte visés au deuxième alinéa de l'article L. 131-1 du code des
@@ -93,12 +93,12 @@ modalités d'application de cette évaluation, notamment en cas de première
 cotation ou d'opération de restructuration d'entreprises.
 
 Les titres mentionnés aux a, b, e et f doivent être émis par des sociétés qui
-ont leur siège dans un Etat de la Communauté européenne, ou dans un autre Etat
-partie à l'accord sur l'Espace économique européen ayant conclu avec la France
-une convention fiscale qui contient une clause d'assistance administrative en
-vue de lutter contre la fraude ou l'évasion fiscale, et sont soumises à l'impôt
-sur les sociétés dans les conditions de droit commun au taux normal ou le
-seraient dans les mêmes conditions si l'activité était exercée en France.
+ont leur siège dans un Etat de l'Union européenne, ou dans un autre Etat partie
+à l'accord sur l'Espace économique européen ayant conclu avec la France une
+convention d'assistance administrative en vue de lutter contre la fraude et
+l'évasion fiscales, et sont soumises à l'impôt sur les sociétés dans les
+conditions de droit commun au taux normal ou le seraient dans les mêmes
+conditions si l'activité était exercée en France.
 
 Les titres mentionnés aux d, e et f doivent représenter 5 % au moins de l'actif
 de l'organisme de placement collectif en valeurs mobilières.
@@ -110,15 +110,14 @@ ans et dans lesquels les primes versées sont représentées par une ou plusieur
 unités de compte constituées de parts ou d'actions d'organismes de placement
 collectif en valeurs mobilières régis par les articles L. 214-2 et suivants du
 code monétaire et financier, ou d'organismes de même nature établis soit dans un
-autre Etat membre de la Communauté européenne, soit dans un Etat non membre de
-cette Communauté partie à l'accord sur l'Espace économique européen ayant conclu
-avec la France une convention fiscale qui contient une clause d'assistance
-administrative en vue de lutter contre la fraude ou l'évasion fiscale et qui
-bénéficient de la procédure de reconnaissance mutuelle des agréments prévue par
-la directive 85/611/ CEE du Conseil, du 20 décembre 1985, portant coordination
-des dispositions législatives, réglementaires et administratives concernant
-certains organismes de placement collectif en valeurs mobilières (OPCVM), et
-dont l'actif est constitué pour 30 % au moins :
+autre Etat membre de l'Union européenne, soit dans un autre Etat partie à
+l'accord sur l'Espace économique européen ayant conclu avec la France une
+convention d'assistance administrative en vue de lutter contre la fraude et
+l'évasion fiscales et qui bénéficient de la procédure de reconnaissance mutuelle
+des agréments prévue par la directive 85/611/ CEE du Conseil, du 20 décembre
+1985, portant coordination des dispositions législatives, réglementaires et
+administratives concernant certains organismes de placement collectif en valeurs
+mobilières (OPCVM), et dont l'actif est constitué pour 30 % au moins :
 
 a. D'actions ne relevant pas du 3 du II de l'article L. 211-1 du code monétaire
 et financier, admises aux négociations sur un marché d'instruments financiers,
@@ -167,13 +166,12 @@ g. De parts de fonds ou actions de sociétés mentionnées au d, dont l'actif es
 constitué à plus de 50 % en titres mentionnés au e.
 
 Les titres et droits mentionnés aux a, b, e et f doivent être émis par des
-sociétés qui ont leur siège dans un Etat membre de la Communauté européenne, ou
-dans un autre Etat partie à l'accord sur l'Espace économique européen ayant
-conclu avec la France une convention fiscale qui contient une clause
-d'assistance administrative en vue de lutter contre la fraude ou l'évasion
-fiscale, et qui sont soumises à l'impôt sur les sociétés dans les conditions de
-droit commun au taux normal ou le seraient dans les mêmes conditions si elles
-exerçaient leur activité en France.
+sociétés qui ont leur siège dans un Etat membre de l'Union européenne, ou dans
+un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu
+avec la France une convention d'assistance administrative en vue de lutter
+contre la fraude et l'évasion fiscales, et qui sont soumises à l'impôt sur les
+sociétés dans les conditions de droit commun au taux normal ou le seraient dans
+les mêmes conditions si elles exerçaient leur activité en France.
 
 Les titres mentionnés aux d à g doivent représenter 10 % au moins de l'actif de
 chaque organisme de placement collectif en valeurs mobilières dont les parts ou

@@ -10,5 +10,5 @@ Communauté européenne, respectivement mentionnés aux articles 302 G, 302 H te
 et 302 V bis du code général des impôts et les personnes qui font la déclaration
 mentionnée au I de l'article 302 U bis du même code et qui livrent directement
 ces boissons aux détaillants ou aux consommateurs. Sont également redevables de
-la cotisation les personnes mentionnées aux 2° et 4° du 2 du I de l'article 302
-D du code général des impôts.
+la cotisation les personnes mentionnées aux 2°, 2° bis et 4° du 2 du I de
+l'article 302 D du code général des impôts.

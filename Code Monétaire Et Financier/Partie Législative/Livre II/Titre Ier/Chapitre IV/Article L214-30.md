@@ -6,27 +6,27 @@ financiers, parts de société à responsabilité limitée et avances en compte
 courant, tels que définis par le I et le 1° du II de l'article L. 214-28 émis
 par des sociétés ayant leur siège dans un Etat membre de l'Union européenne ou
 dans un autre Etat partie à l'accord sur l'Espace économique européen ayant
-conclu avec la France une convention fiscale qui contient une clause
-d'assistance administrative en vue de lutter contre la fraude ou l'évasion
-fiscale, qui sont soumises à l'impôt sur les sociétés dans les conditions de
-droit commun ou en seraient passibles dans les mêmes conditions si l'activité
-était exercée en France, qui comptent au moins deux et au plus deux mille
-salariés, dont le capital n'est pas détenu majoritairement, directement ou
-indirectement, par une ou plusieurs personnes morales ayant des liens de
-dépendance avec une autre personne morale au sens du VI, qui respectent les
-conditions définies aux b à b ter et au f du 1 du I de l'article 885-0 V bis du
-code général des impôts, qui n'ont pas procédé au cours des douze derniers mois
-au remboursement, total ou partiel, d'apports et qui remplissent l'une des
-conditions suivantes : 1° Avoir réalisé, au cours de l'exercice précédent, des
-dépenses de recherche, définies aux a à g du II de l'article 244 quater B du
-code général des impôts, représentant au moins 15 % des charges fiscalement
-déductibles au titre de cet exercice ou, pour les entreprises industrielles, au
-moins 10 % de ces mêmes charges. Pour l'application du présent alinéa, ont un
-caractère industriel les entreprises exerçant une activité qui concourt
-directement à la fabrication de produits ou à la transformation de matières
-premières ou de produits semi-finis en produits fabriqués et pour lesquelles le
-rôle des installations techniques, matériels et outillage mis en œuvre est
-prépondérant ;
+conclu avec la France une convention d'assistance administrative en vue de
+lutter contre la fraude et l'évasion fiscales, qui sont soumises à l'impôt sur
+les sociétés dans les conditions de droit commun ou en seraient passibles dans
+les mêmes conditions si l'activité était exercée en France, qui comptent au
+moins deux et au plus deux mille salariés, dont le capital n'est pas détenu
+majoritairement, directement ou indirectement, par une ou plusieurs personnes
+morales ayant des liens de dépendance avec une autre personne morale au sens du
+VI, qui respectent les conditions définies aux b à b ter et au f du 1 du I de
+l'article 885-0 V bis du code général des impôts, qui n'ont pas procédé au cours
+des douze derniers mois au remboursement, total ou partiel, d'apports et qui
+remplissent l'une des conditions suivantes :
+
+1° Avoir réalisé, au cours de l'exercice précédent, des dépenses de recherche,
+définies aux a à g du II de l'article 244 quater B du code général des impôts,
+représentant au moins 15 % des charges fiscalement déductibles au titre de cet
+exercice ou, pour les entreprises industrielles, au moins 10 % de ces mêmes
+charges. Pour l'application du présent alinéa, ont un caractère industriel les
+entreprises exerçant une activité qui concourt directement à la fabrication de
+produits ou à la transformation de matières premières ou de produits semi-finis
+en produits fabriqués et pour lesquelles le rôle des installations techniques,
+matériels et outillage mis en œuvre est prépondérant ;
 
 2° Ou justifier de la création de produits, procédés ou techniques dont le
 caractère innovant et les perspectives de développement économique sont reconnus

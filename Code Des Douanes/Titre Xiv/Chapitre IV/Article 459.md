@@ -14,8 +14,8 @@ la tentative d'infraction.
 
 1 bis. Est puni des mêmes peines le fait, pour toute personne, de contrevenir ou
 de tenter de contrevenir aux mesures de restriction des relations économiques et
-financières prévues par la réglementation communautaire prise en application des
-articles 60 et 301 du traité instituant la Communauté européenne ou par les
+financières prévues par la réglementation communautaire prise en application de
+l'article 215 du traité sur le fonctionnement de l'Union européenne ou par les
 traités et accords internationaux régulièrement approuvés et ratifiés par la
 France.
 

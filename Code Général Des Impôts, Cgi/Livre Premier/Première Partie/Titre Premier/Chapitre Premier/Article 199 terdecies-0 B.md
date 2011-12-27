@@ -30,16 +30,15 @@ mentionnés au b exerce effectivement dans la société reprise l'une des foncti
 énumérées au 1° de l'article 885 O bis et dans les conditions qui y sont prévues
 ;
 
-d) La société reprise a son siège social dans un Etat membre de la Communauté
+d) La société reprise a son siège social dans un Etat membre de l'Union
 européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
-européen ayant conclu avec la France une convention fiscale qui contient une
-clause d'assistance administrative en vue de lutter contre la fraude ou
-l'évasion fiscale, et est soumise à l'impôt sur les sociétés dans les conditions
-de droit commun ou y serait soumise dans les mêmes conditions si l'activité
-était exercée en France ;
+européen ayant conclu avec la France une convention d'assistance administrative
+en vue de lutter contre la fraude et l'évasion fiscales, et est soumise à
+l'impôt sur les sociétés dans les conditions de droit commun ou y serait soumise
+dans les mêmes conditions si l'activité était exercée en France ;
 
 e) La société reprise doit être une petite et moyenne entreprise au sens de
-l'annexe I au règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008
+l'annexe I au règlement (CE) n° 800/2008 de la Commission du 6 août 2008
 déclarant certaines catégories d'aides compatibles avec le marché commun en
 application des articles 87 et 88 du traité (Règlement général d'exemption par
 catégorie) ;
@@ -54,11 +53,11 @@ prévu au b est franchi.
 II.-Les intérêts ouvrant droit à la réduction d'impôt prévue au I sont ceux
 payés à raison des emprunts contractés à compter de la publication de la loi n°
 2003-721 du 1er août 2003 pour l'initiative économique. Ils sont retenus dans la
-limite annuelle de 20 000 euros pour les contribuables célibataires, veufs ou
-divorcés et de 40 000 euros pour les contribuables mariés soumis à imposition
+limite annuelle de 20 000 € pour les contribuables célibataires, veufs ou
+divorcés et de 40 000 € pour les contribuables mariés soumis à imposition
 commune.
 
-III. - La réduction d'impôt mentionnée au I ne peut pas concerner des titres
+III.-La réduction d'impôt mentionnée au I ne peut pas concerner des titres
 figurant dans un plan d'épargne en actions défini à l'article 163 quinquies D ou
 dans un plan d'épargne salariale prévu au titre III du livre III de la troisième
 partie du code du travail, ni la fraction des versements effectués au titre de
@@ -98,8 +97,8 @@ de l'une des conditions mentionnées aux b, c, d ou f du I au-delà du 31 décem
 de la cinquième année suivant celle de l'acquisition, la réduction d'impôt n'est
 plus applicable à compter du 1er janvier de l'année considérée.
 
-VII. - Un décret fixe les obligations déclaratives incombant aux contribuables
-et aux sociétés.
+VII.-Un décret fixe les obligations déclaratives incombant aux contribuables et
+aux sociétés.
 
-VIII. - Ces dispositions s'appliquent aux emprunts contractés jusqu'au 31
-décembre 2011.
+VIII.-Ces dispositions s'appliquent aux emprunts contractés jusqu'au 31 décembre
+2011.

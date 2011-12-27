@@ -28,19 +28,44 @@ de dépôt temporaire, zone franche, entrepôt franc, entrepôt d'importation,
 perfectionnement actif, admission temporaire en exonération totale des droits,
 transit communautaire externe ou interne, la sortie de ce régime en France ;
 
-2° Lors de la constatation des manquants, sauf si ces manquants correspondent à
-des déchets ou des pertes obtenus, dans la limite d'un taux annuel de déchets ou
-de pertes, en cours de fabrication ou de transformation d'alcools et de boissons
-alcooliques ou à des pertes, dans la limite d'un taux annuel forfaitaire, en
-cours de stockage d'alcools et de boissons alcooliques. Le taux annuel de
-déchets ou de pertes est fixé pour chaque entrepôt suspensif des droits
-d'accises par l'administration, sur proposition de l'entrepositaire agréé. Un
-décret détermine les modalités d'application des présentes dispositions et fixe
-le taux annuel forfaitaire pour les pertes en cours de stockage.
+2° Lors de la constatation de déchets ou de pertes de produits soumis à accise
+placés sous un régime de suspension de droits.
 
-Chez les entrepositaires agréés qui détiennent des alcools et des boissons
-alcooliques appartenant à des catégories différemment imposées, les manquants
-imposables sont soumis au tarif le plus élevé de la catégorie concernée ;
+Par dérogation au premier alinéa du présent 2° sont exonérés de droits :
+
+a. Les alcools, les boissons alcooliques et les tabacs manufacturés dont la
+destruction totale est intervenue à la suite d'une autorisation donnée par
+l'administration des douanes et droits indirects ou dont la destruction totale
+ou la perte irrémédiable est imputable à une cause dépendant de la nature même
+des produits ou à un cas fortuit ou de force majeure ;
+
+b. Les alcools et les boissons alcooliques détruits ou perdus en cours de
+fabrication, de transformation ou de stockage, lorsque le volume des produits
+détruits ou perdus est inférieur aux taux annuels de déchets ou de pertes fixés
+par décret pour chaque produit ou catégorie de produit, sous réserve que ces
+déchets ou ces pertes aient été physiquement constatés et dûment retracés en
+comptabilité.
+
+Les taux annuels de déchets ou de pertes mentionnés ci-dessus sont fixés en
+tenant compte de la nature des alcools et des boissons alcooliques concernés
+ainsi que du type d'opération auquel ces produits sont soumis.
+
+Lorsque des déchets ou des pertes n'entrant pas dans le champ d'application des
+a et b du présent 2° concernent des produits relevant de taux d'accises
+différents et pour lesquels la base d'imposition ne peut être déterminée avec
+certitude, l'impôt est liquidé sur la base du tarif le plus élevé, sauf
+justification contraire apportée par l'entrepositaire agréé.
+
+Un décret détermine les modalités d'application du présent 2° ;
+
+2° bis Lors de la constatation de manquants.
+
+Sont considérés comme manquants les produits soumis à accise placés sous un
+régime de suspension de droits, autres que ceux détruits ou perdus en cours de
+fabrication, de transformation ou de stockage, qui ne peuvent être présentés aux
+services des douanes et droits indirects alors qu'ils figurent dans la
+comptabilité matières tenue par l'entrepositaire agréé ou qu'ils auraient dû
+figurer dans celle-ci ;
 
 3° (abrogé)
 
@@ -72,8 +97,11 @@ et abrogeant la directive 92/12/ CEE.
 1° Dans les cas visés aux a, a bis et b du 1° du 1, par la personne qui met à la
 consommation ;
 
-2° Dans le cas de manquants, par la personne chez laquelle les manquants sont
-constatés ;
+2° Dans le cas de déchets ou de pertes qui ne sont pas exonérés de droits, par
+la personne chez laquelle ces déchets ou ces pertes ont été constatés ;
+
+2° bis Dans le cas de manquants, par la personne chez laquelle les manquants
+sont constatés ;
 
 3° (abrogé)
 

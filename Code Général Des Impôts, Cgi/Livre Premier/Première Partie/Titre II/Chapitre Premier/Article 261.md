@@ -54,11 +54,11 @@ b. (Disposition périmée) ;
 
 1° Les soins dispensés aux personnes par les membres des professions médicales
 et paramédicales réglementées, par les praticiens autorisés à faire usage
-légalement du titre d'ostéopathe et par les psychologues, psychanalystes et
-psychothérapeutes titulaires d'un des diplômes requis, à la date de sa
-délivrance, pour être recruté comme psychologue dans la fonction publique
-hospitalière ainsi que les travaux d'analyse de biologie médicale et les
-fournitures de prothèses dentaires par les dentistes et les prothésistes ;
+légalement du titre d'ostéopathe ou de chiropracteur et par les psychologues,
+psychanalystes et psychothérapeutes titulaires d'un des diplômes requis, à la
+date de sa délivrance, pour être recruté comme psychologue dans la fonction
+publique hospitalière ainsi que les travaux d'analyse de biologie médicale et
+les fournitures de prothèses dentaires par les dentistes et les prothésistes ;
 
 1° bis les frais d'hospitalisation et de traitement, y compris les frais de mise
 à disposition d'une chambre individuelle, dans les établissements de santé
@@ -186,16 +186,16 @@ contributions publiques ou privées dont ils bénéficient.
 Les organismes mentionnés au premier alinéa du 1 bis de l'article 206 et qui en
 remplissent les conditions, sont également exonérés pour leurs autres opérations
 lorsque les recettes encaissées afférentes à ces opérations n'ont pas excédé au
-cours de l'année civile précédente le montant de 60 000 euros.
+cours de l'année civile précédente le montant de 60 000 €.
 
 Les opérations mentionnées au I de l'article 257 et les opérations donnant lieu
 à la perception de revenus patrimoniaux soumis aux dispositions de l'article 219
 bis ne bénéficient pas de l'exonération et ne sont pas prises en compte pour le
-calcul de la limite de 60 000 euros.
+calcul de la limite de 60 000 €.
 
-Lorsque la limite de 60 000 euros est atteinte en cours d'année, l'organisme ne
-peut plus bénéficier de l'exonération prévue au deuxième alinéa à compter du
-premier jour du mois suivant celui au cours duquel cette limite a été dépassée ;
+Lorsque la limite de 60 000 € est atteinte en cours d'année, l'organisme ne peut
+plus bénéficier de l'exonération prévue au deuxième alinéa à compter du premier
+jour du mois suivant celui au cours duquel cette limite a été dépassée ;
 
 c. les recettes de six manifestations de bienfaisance ou de soutien organisées
 dans l'année à leur profit exclusif par les organismes désignés au a et b ainsi
@@ -226,22 +226,22 @@ dirigeants uniquement si le montant annuel de ses ressources, majorées de celle
 des organismes qui lui sont affiliés et qui remplissent les conditions leur
 permettant de bénéficier de la présente disposition, hors ressources issues des
 versements effectués par des personnes morales de droit public, est supérieur à
-200 000 euros en moyenne sur les trois exercices clos précédant celui pendant
-lequel la rémunération est versée ;
+200 000 € en moyenne sur les trois exercices clos précédant celui pendant lequel
+la rémunération est versée ;
 
 un tel organisme peut rémunérer deux de ses dirigeants si le montant annuel de
 ses ressources, majorées de celles des organismes qui lui sont affiliés et qui
 remplissent les conditions leur permettant de bénéficier de la présente
 disposition, hors ressources issues des versements effectués par des personnes
-morales de droit public, est supérieur à 500 000 euros, en moyenne sur les trois
+morales de droit public, est supérieur à 500 000 €, en moyenne sur les trois
 exercices clos précédant celui pendant lequel la rémunération est versée ;
 
 un tel organisme peut rémunérer trois de ses dirigeants si le montant annuel de
 ses ressources, majorées de celles des organismes qui lui sont affiliés et qui
 remplissent les conditions leur permettant de bénéficier de la présente
 disposition, hors ressources issues des versements effectués par des personnes
-morales de droit public, est supérieur à 1 000 000 euros en moyenne sur les
-trois exercices clos précédant celui pendant lequel la rémunération est versée ;
+morales de droit public, est supérieur à 1 000 000 € en moyenne sur les trois
+exercices clos précédant celui pendant lequel la rémunération est versée ;
 
 un tel organisme peut verser des rémunérations dans le cadre de la présente
 disposition uniquement si ses statuts le prévoient explicitement et si une
