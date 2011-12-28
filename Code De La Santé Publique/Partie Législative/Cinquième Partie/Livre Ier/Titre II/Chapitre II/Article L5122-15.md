@@ -6,11 +6,11 @@ prévention ou le traitement des maladies, des affections relevant de la
 pathologie chirurgicale et des dérèglements physiologiques, le diagnostic ou la
 modification de l'état physique ou physiologique, la restauration, la correction
 ou la modification des fonctions organiques, peut être interdite par l'Agence
-française de sécurité sanitaire des produits de santé, lorsqu'il n'est pas
-établi que lesdits objets, appareils et méthodes possèdent les propriétés
-annoncées. L'Agence française de sécurité sanitaire des produits de santé peut
-aussi, soumettre cette publicité ou propagande à l'obligation de mentionner les
-avertissements et précautions d'emplois nécessaires à l'information du
+nationale de sécurité du médicament et des produits de santé, lorsqu'il n'est
+pas établi que lesdits objets, appareils et méthodes possèdent les propriétés
+annoncées. L'Agence nationale de sécurité du médicament et des produits de santé
+peut aussi soumettre cette publicité ou propagande à l'obligation de mentionner
+les avertissements et précautions d'emplois nécessaires à l'information du
 consommateur.
 
 L'interdiction est prononcée après que le fabricant, importateur ou distributeur

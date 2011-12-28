@@ -6,5 +6,5 @@ lors d'investigations, de traitements ou d'actions de prévention doit en faire
 la déclaration au directeur général de l'agence régionale de santé.
 
 Ces dispositions s'entendent sans préjudice de la déclaration à l'Agence
-française de sécurité sanitaire des produits de santé des événements
+nationale de sécurité du médicament et des produits de santé des événements
 indésirables liés à un produit mentionné à l'article L. 5311-1.

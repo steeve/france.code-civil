@@ -11,10 +11,10 @@ toute mesure propre à remédier à la violation ou au manquement constaté ou d
 fournir toutes explications nécessaires.
 
 Cette mise en demeure est faite par écrit par le directeur général de l'Agence
-française de sécurité sanitaire des produits de santé. Elle fixe un délai
+nationale de sécurité du médicament et des produits de santé. Elle fixe un délai
 d'exécution ou de réponse qui ne peut excéder un mois.
 
 En cas d'urgence tenant à la sécurité des personnes, une suspension de
 l'agrément ou de l'autorisation peut être prononcée à titre conservatoire par le
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé.
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé.

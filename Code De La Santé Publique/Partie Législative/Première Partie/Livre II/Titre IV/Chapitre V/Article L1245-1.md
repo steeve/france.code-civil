@@ -20,4 +20,4 @@ française.
 
 Le retrait temporaire ou définitif des autorisations mentionnées aux articles L.
 1233-1, L. 1242-1 et L. 1243-4 est de droit lorsqu'il est demandé par l'Agence
-française de sécurité sanitaire des produits de santé.
+nationale de sécurité du médicament et des produits de santé .

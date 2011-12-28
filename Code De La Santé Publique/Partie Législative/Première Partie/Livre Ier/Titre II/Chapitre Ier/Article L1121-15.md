@@ -4,8 +4,8 @@ L'autorité compétente définie à l'article L. 1123-12 établit et gère une b
 données nationales des recherches biomédicales. Pour les recherches portant sur
 des médicaments, elle transmet les informations ainsi recueillies figurant sur
 une liste fixée par arrêté du ministre chargé de la santé sur proposition de
-l'Agence française de sécurité sanitaire des produits de santé à l'organisme
-gestionnaire de la base européenne de données.
+l'Agence nationale de sécurité du médicament et des produits de santé à
+l'organisme gestionnaire de la base européenne de données.
 
 Conformément aux objectifs définis à l'article L. 1121-1, l'autorité compétente
 met en place et diffuse des répertoires de recherches biomédicales autorisées,

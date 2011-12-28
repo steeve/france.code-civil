@@ -3,11 +3,11 @@ Article L162-4-2
 La prise en charge par l'assurance maladie de soins ou traitements susceptibles
 de faire l'objet de mésusage, d'un usage détourné ou abusif, dont la liste est
 fixée par arrêté des ministres chargés de la santé et de la sécurité sociale
-après avis de l'Agence française de sécurité sanitaire des produits de santé,
-est subordonnée à l'obligation faite au patient d'indiquer au prescripteur, à
-chaque prescription, le nom du pharmacien qui sera chargé de la délivrance et à
-l'obligation faite au médecin de mentionner ce nom sur la prescription qui doit
-alors être exécutée par ce pharmacien.
+après avis de l'Agence nationale de sécurité du médicament et des produits de
+santé, est subordonnée à l'obligation faite au patient d'indiquer au
+prescripteur, à chaque prescription, le nom du pharmacien qui sera chargé de la
+délivrance et à l'obligation faite au médecin de mentionner ce nom sur la
+prescription qui doit alors être exécutée par ce pharmacien.
 
 L'arrêté mentionné à l'alinéa précédent désigne, parmi les soins ou traitements
 figurant sur la liste, ceux pour lesquels, compte tenu des risques importants de

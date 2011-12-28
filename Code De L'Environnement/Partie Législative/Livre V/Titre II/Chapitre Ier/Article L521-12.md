@@ -22,8 +22,9 @@ fraudes ;
 6° Les autres agents mentionnés à l'article L. 1312-1 du code de la santé
 publique ;
 
-7° Les inspecteurs de l'Agence française de sécurité sanitaire des produits de
-santé mentionnés à l'article L. 5313-1 du code de la santé publique ;
+7° Les inspecteurs de l'Agence nationale de sécurité du médicament et des
+produits de santé mentionnés à l'article L. 5313-1 du code de la santé publique
+;
 
 8° Les vétérinaires-inspecteurs ;
 

@@ -10,8 +10,8 @@ lactarium.
 
 Les activités réalisées par les lactariums à partir du lait maternel mentionné
 au 8° de l'article L. 5311-1 doivent être réalisées en conformité avec des
-règles de bonnes pratiques définies par décision de l'Agence française de
-sécurité sanitaire des produits de santé.
+règles de bonnes pratiques définies par décision de l'Agence nationale de
+sécurité du médicament et des produits de santé .
 
 Les dispositions de l'article L. 164-1 du code de la sécurité sociale sont
 applicables au lait humain.

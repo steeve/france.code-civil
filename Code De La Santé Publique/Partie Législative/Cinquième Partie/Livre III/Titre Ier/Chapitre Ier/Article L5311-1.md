@@ -1,8 +1,18 @@
 Article L5311-1
 ----
-L'Agence française de sécurité sanitaire des produits de santé est un
-établissement public de l'Etat, placé sous la tutelle du ministre chargé de la
-santé.
+I. - L'Agence nationale de sécurité du médicament et des produits de santé est
+un établissement public de l'Etat, placé sous la tutelle du ministre chargé de
+la santé.
+
+II. - L'agence procède à l'évaluation des bénéfices et des risques liés à
+l'utilisation des produits à finalité sanitaire destinés à l'homme et des
+produits à finalité cosmétique. Elle surveille le risque lié à ces produits et
+effectue des réévaluations des bénéfices et des risques.
+
+L'agence peut demander que les essais cliniques portant sur des médicaments
+soient effectués sous forme d'essais contre comparateurs actifs et contre
+placebo. Si la personne produisant ou exploitant un médicament s'oppose aux
+essais contre comparateurs actifs, elle doit le justifier.
 
 L'agence participe à l'application des lois et règlements et prend, dans les cas
 prévus par des dispositions particulières, des décisions relatives à
@@ -36,14 +46,14 @@ compris lorsqu'ils sont prélevés à l'occasion d'une intervention chirurgicale
 9° Les produits destinés à l'entretien ou à l'application des lentilles de
 contact ;
 
-10° (Abrogé)
+10° (Abrogé) ;
 
 11° Les procédés et appareils destinés à la désinfection des locaux et des
 véhicules dans les cas prévus à l'article L. 3114-1 ;
 
 12° Les produits thérapeutiques annexes ;
 
-13° (Abrogé)
+13° (Abrogé) ;
 
 14° Les lentilles oculaires non correctrices ;
 
@@ -62,14 +72,11 @@ communication appropriée et de l'archivage des résultats ;
 laboratoires de biologie médicale pour la réalisation des examens de biologie
 médicale.
 
-L'agence participe à l'application des lois et règlements relatifs aux
+III. - L'agence participe à l'application des lois et règlements relatifs aux
 recherches biomédicales et prend, dans les cas prévus par des dispositions
 particulières, des décisions relatives aux recherches biomédicales.
 
-L'agence procède à l'évaluation des bénéfices et des risques liés à
-l'utilisation de ces produits et objets à tout moment opportun et notamment
-lorsqu'un élément nouveau est susceptible de remettre en cause l'évaluation
-initiale. Elle assure la mise en oeuvre des systèmes de vigilance et prépare la
+Elle assure la mise en oeuvre des systèmes de vigilance et prépare la
 pharmacopée.
 
 Elle rend publics un rapport de synthèse de l'évaluation effectuée pour tout
@@ -89,17 +96,11 @@ conditions prévues au présent code ou par toute autre disposition législative
 réglementaire visant à préserver la santé humaine.
 
 Elle établit un rapport annuel d'activité adressé au Gouvernement et au
-Parlement. Ce rapport est rendu public.
+Parlement. Ce rapport est rendu public. Le rapport comporte le bilan annuel de
+la réévaluation du rapport entre les bénéfices et les risques des médicaments à
+usage humain mentionnés à l'article L. 5121-8.
 
 Elle organise des auditions publiques sur des thèmes de santé publique.
-
-Elle rend également publics l'ordre du jour et les comptes rendus, assortis des
-détails et explications des votes, y compris les opinions minoritaires, à
-l'exclusion de toute information présentant un caractère de confidentialité
-commerciale, des réunions des commissions siégeant auprès d'elle et consultées
-en matière de mise sur le marché, de pharmacovigilance et de publicité des
-spécialités pharmaceutiques, son règlement intérieur et celui des commissions
-précitées.
 
 L'agence est également chargée du contrôle du respect des dispositions des
 autorisations délivrées en application de l'article L. 1161-5.

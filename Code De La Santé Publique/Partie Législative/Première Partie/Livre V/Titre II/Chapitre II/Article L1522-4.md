@@ -6,5 +6,5 @@ biologique du don, de préparation, de distribution et de délivrance des produi
 sanguins labiles dans les conditions prévues au chapitre Ier du titre II du
 livre II de la présente partie.
 
-L'autorisation est accordée par l'Agence française de sécurité sanitaire des
-produits de santé.
+L'autorisation est accordée par l'Agence nationale de sécurité du médicament et
+des produits de santé.

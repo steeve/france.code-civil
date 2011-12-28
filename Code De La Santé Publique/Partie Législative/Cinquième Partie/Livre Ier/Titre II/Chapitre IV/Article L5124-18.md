@@ -41,9 +41,9 @@ l'article L. 5124-2 ;
 11° Les règles régissant l'exportation des médicaments prévue à l'article L.
 5124-11 ;
 
-12° Les conditions dans lesquelles l'Agence française de sécurité sanitaire des
-produits de santé autorise l'importation des médicaments prévue à l'article L.
-5124-13 ;
+12° Les conditions dans lesquelles l'Agence nationale de sécurité du médicament
+et des produits de santé autorise l'importation des médicaments prévue à
+l'article L. 5124-13 ;
 
 13° Les sections de l'ordre auxquelles appartient le pharmacien mentionné à
 l'article L. 5124-15 et les conditions dans lesquelles ce pharmacien doit être

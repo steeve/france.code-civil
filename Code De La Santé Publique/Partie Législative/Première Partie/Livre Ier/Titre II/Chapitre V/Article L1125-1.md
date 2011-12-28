@@ -18,5 +18,5 @@ de la recherche et pour les produits en cause, autorisation selon les
 dispositions de l'article L. 1121-13.
 
 Ces recherches biomédicales ne peuvent être mises en oeuvre qu'après
-autorisation expresse de l'Agence française de sécurité sanitaire des produits
-de santé.
+autorisation expresse de l'Agence nationale de sécurité du médicament et des
+produits de santé.

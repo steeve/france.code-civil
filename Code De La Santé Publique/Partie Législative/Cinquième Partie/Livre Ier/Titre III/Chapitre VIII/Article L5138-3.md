@@ -10,10 +10,10 @@ les personnes autorisées à préparer des autovaccins à usage vétérinaire
 utilisent, en tant que matières premières à usage pharmaceutique, des substances
 actives fabriquées et distribuées conformément à des bonnes pratiques, y compris
 lorsqu'elles sont importées, dont les principes sont définis conformément au
-droit communautaire par décision de l'Agence française de sécurité sanitaire des
-produits de santé, après avis de l'Agence nationale chargée de la sécurité
-sanitaire de l'alimentation, de l'environnement et du travail. Ce dispositif est
-également applicable aux excipients entrant dans la fabrication des médicaments
-à usage humain, dont la liste et les conditions spécifiques qui leur sont
-applicables sont fixées par décision de l'Agence française de sécurité sanitaire
-des produits de santé conformément au droit communautaire.
+droit communautaire par décision de l'Agence nationale de sécurité du médicament
+et des produits de santé , après avis de l'Agence nationale chargée de la
+sécurité sanitaire de l'alimentation, de l'environnement et du travail. Ce
+dispositif est également applicable aux excipients entrant dans la fabrication
+des médicaments à usage humain, dont la liste et les conditions spécifiques qui
+leur sont applicables sont fixées par décision de l'Agence nationale de sécurité
+du médicament et des produits de santé conformément au droit communautaire.

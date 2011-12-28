@@ -58,5 +58,5 @@ l'article L. 5124-9 le précise, confier sous leur responsabilité, par un contr
 pharmaceutique autorisé pour la fabrication de médicaments. Cette sous-traitance
 fait l'objet d'un rapport annuel transmis par le pharmacien responsable de
 l'établissement pharmaceutique des établissements de santé concernés au ministre
-chargé de la santé et au directeur général de l'Agence française de sécurité
-sanitaire des produits de santé.
+chargé de la santé et au directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé.

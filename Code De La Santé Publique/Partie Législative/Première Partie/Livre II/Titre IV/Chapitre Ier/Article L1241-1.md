@@ -6,7 +6,7 @@ thérapeutique ou scientifique ou de réalisation ou de contrôle des dispositif
 médicaux de diagnostic in vitro ou de contrôle de qualité des examens de
 biologie médicale ou dans le cadre des expertises et des contrôles techniques
 réalisés sur les tissus ou sur les cellules ou sur les produits du corps humain
-par l'Agence française de sécurité sanitaire des produits de santé en
+par l'Agence nationale de sécurité du médicament et des produits de santé en
 application du 1° de l'article L. 5311-2. Seuls peuvent être prélevés en vue de
 don à des fins thérapeutiques les tissus figurant sur une liste prévue à cet
 effet, à l'exception des tissus prélevés dans le cadre d'une recherche
@@ -18,7 +18,7 @@ fins thérapeutiques ou en vue de réalisation ou de contrôle des dispositifs
 médicaux de diagnostic in vitro ou en vue du contrôle de qualité des examens de
 biologie médicale ou dans le cadre des expertises et des contrôles techniques
 réalisés sur les tissus ou sur les cellules ou sur les produits du corps humain
-par l'Agence française de sécurité sanitaire des produits de santé en
+par l'Agence nationale de sécurité du médicament et des produits de santé en
 application du 1° de l'article L. 5311-2 ne peut avoir lieu qu'à la condition
 que le donneur, dûment informé de l'objet du prélèvement ou de la collecte et de
 leurs conséquences et des risques qui y sont attachés, ait donné son

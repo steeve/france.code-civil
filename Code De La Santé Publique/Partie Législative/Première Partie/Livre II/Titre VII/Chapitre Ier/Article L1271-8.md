@@ -8,10 +8,10 @@ ainsi qu'aux produits labiles qui en sont dérivés.
 
 Est puni des mêmes peines prévues aux mêmes articles le fait :
 
-- de distribuer ou de délivrer à des fins thérapeutiques un produit sanguin
+-de distribuer ou de délivrer à des fins thérapeutiques un produit sanguin
 labile ne figurant pas sur la liste prévue à l'article L. 1221-8, à moins qu'il
 ne soit destiné à des recherches biomédicales ;
 
-- d'utiliser un produit sanguin labile en violation d'une disposition ou d'une
-décision édictée par l'Agence française de sécurité sanitaire des produits de
-santé en application de l'article L. 1221-10-1.
+-d'utiliser un produit sanguin labile en violation d'une disposition ou d'une
+décision édictée par l'Agence nationale de sécurité du médicament et des
+produits de santé en application de l'article L. 1221-10-1.

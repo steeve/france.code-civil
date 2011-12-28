@@ -13,8 +13,8 @@ pas applicables ;
 17° Pour l'application des 12° et 13°, les établissements ou organismes qui
 assurent la préparation, la conservation, la distribution, la cession,
 l'importation et l'exportation de ces préparations sont autorisés par l'Agence
-française de sécurité sanitaire des produits de santé. Cette autorisation est
-délivrée pour une durée de cinq ans. Elle est renouvelable et peut être
+nationale de sécurité du médicament et des produits de santé. Cette autorisation
+est délivrée pour une durée de cinq ans. Elle est renouvelable et peut être
 modifiée, suspendue ou retirée. Un décret en Conseil d'Etat fixe les conditions
 de délivrance, de modification, de renouvellement, de suspension et de retrait
 de cette autorisation.

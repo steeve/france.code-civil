@@ -4,7 +4,7 @@ L'ouverture et l'exploitation de tout établissement de fabrication, de
 conditionnement ou d'importation, même à titre accessoire, de produits
 cosmétiques, de même que l'extension de l'activité d'un établissement à de
 telles opérations, sont subordonnées à une déclaration auprès de l'Agence
-française de sécurité sanitaire des produits de santé.
+nationale de sécurité du médicament et des produits de santé .
 
 Cette déclaration est effectuée par le fabricant, ou par son représentant ou par
 la personne pour le compte de laquelle les produits cosmétiques sont fabriqués,

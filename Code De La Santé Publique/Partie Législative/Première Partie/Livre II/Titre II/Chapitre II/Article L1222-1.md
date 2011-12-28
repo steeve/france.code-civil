@@ -26,16 +26,17 @@ relatives aux activités transfusionnelles ;
 
 4° Dans le cadre du réseau d'hémovigilance, d'assurer la transmission des
 données relatives à la sécurité sanitaire des produits sanguins à l'Agence
-française de sécurité sanitaire des produits de santé et des données
+nationale de sécurité du médicament et des produits de santé et des données
 épidémiologiques à l'Institut de veille sanitaire ;
 
 5° D'élaborer, d'actualiser et de mettre en oeuvre les schémas d'organisation de
 la transfusion sanguine ;
 
-6° De favoriser, en liaison avec les organismes de recherche et d'évaluation,
-l'activité de recherche en transfusion sanguine et de promouvoir la diffusion
-des connaissances scientifiques et techniques en matière de transfusion sanguine
-;
+6° En liaison avec les organismes de recherche et d'évaluation, d'encourager,
+d'entreprendre des recherches ou d'y participer dans les domaines portant sur la
+transfusion sanguine, les activités qui lui sont liées ou les activités exercées
+à titre accessoire et de promouvoir dans ces domaines la diffusion des
+connaissances scientifiques et techniques ;
 
 7° De tenir un fichier national des donneurs et des receveurs de groupes rares
 et une banque de sangs rares, et de coordonner l'activité des laboratoires liés

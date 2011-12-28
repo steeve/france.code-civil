@@ -25,14 +25,14 @@ recherches, en assure la gestion et vérifie que son financement est prévu.
 Lorsque les recherches portent sur des produits mentionnés à l'article L. 5311-1
 à l'exception des médicaments, et figurant sur une liste fixée par arrêté du
 ministre chargé de la santé, pris sur proposition du directeur général de
-l'Agence française de sécurité sanitaire des produits de santé, le comité de
-protection des personnes s'assure auprès de l'Agence française de sécurité
-sanitaire des produits de santé que les conditions d'utilisation dans les
-recherches de ces produits sont conformes à leur destination et à leurs
-conditions d'utilisation courante.L'avis défavorable du comité mentionne, le cas
-échéant, que les recherches ne relèvent pas du présent 2°. Après le commencement
-des recherches, toute modification substantielle de celles-ci doit obtenir
-préalablement à leur mise en oeuvre un nouvel avis favorable du comité.
+l'Agence nationale de sécurité du médicament et des produits de santé , le
+comité de protection des personnes s'assure auprès de l'Agence nationale de
+sécurité du médicament et des produits de santé que les conditions d'utilisation
+dans les recherches de ces produits sont conformes à leur destination et à leurs
+conditions d'utilisation courante. L'avis défavorable du comité mentionne, le
+cas échéant, que les recherches ne relèvent pas du présent 2°. Après le
+commencement des recherches, toute modification substantielle de celles-ci doit
+obtenir préalablement à leur mise en oeuvre un nouvel avis favorable du comité.
 
 La personne physique ou la personne morale qui prend l'initiative d'une
 recherche biomédicale sur l'être humain, qui en assure la gestion et qui vérifie

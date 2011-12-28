@@ -8,12 +8,12 @@ d'évolution des dépenses d'assurance maladie afférentes respectivement à ces
 spécialités pharmaceutiques et à ces produits et prestations.
 
 Lorsqu'elle estime, compte tenu des référentiels et recommandations élaborés par
-la Haute Autorité de santé, l'Institut national du cancer et l'Agence française
-de sécurité sanitaire des produits de santé, que le dépassement d'au moins un de
-ces taux par un établissement de santé n'est pas justifié, l' agence régionale
-de santé conclut, pour une durée d'un an, avec les autres signataires du contrat
-de bon usage des médicaments et des produits et prestations mentionné à
-l'article L. 162-22-7, un plan d'actions visant à maîtriser l'évolution des
+la Haute Autorité de santé, l'Institut national du cancer et l'Agence nationale
+de sécurité du médicament et des produits de santé , que le dépassement d'au
+moins un de ces taux par un établissement de santé n'est pas justifié, l'agence
+régionale de santé conclut, pour une durée d'un an, avec les autres signataires
+du contrat de bon usage des médicaments et des produits et prestations mentionné
+à l'article L. 162-22-7, un plan d'actions visant à maîtriser l'évolution des
 dépenses par l'amélioration des pratiques de cet établissement. Ce plan
 d'actions est annexé au contrat de bon usage des médicaments et des produits et
 prestations.

@@ -6,8 +6,9 @@ Est puni de deux ans d'emprisonnement et de 30000 euros d'amende, le fait :
 ou d'importation de produits cosmétiques, à l'exception de ceux mentionnés à
 l'article L. 5131-3, ou d'étendre l'activité d'un établissement à de telles
 opérations, sans qu'ait été faite au préalable la déclaration à l'Agence
-française de sécurité sanitaire des produits de santé ou sans qu'aient été
-déclarées les modifications des éléments figurant dans la déclaration initiale :
+nationale de sécurité du médicament et des produits de santé ou sans qu'aient
+été déclarées les modifications des éléments figurant dans la déclaration
+initiale :
 
 2° De diriger un établissement mentionné au 1° ci-dessus sans avoir désigné la
 ou les personnes qualifiées responsables conformément à l'article L. 5131-2 ;

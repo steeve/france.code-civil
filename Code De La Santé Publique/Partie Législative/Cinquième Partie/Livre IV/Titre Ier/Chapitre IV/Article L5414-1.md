@@ -9,7 +9,7 @@ en ce qui concerne ceux mentionnés au 6°, uniquement pour les infractions
 définies à l'article L. 5451-1. A cet effet, ils disposent des pouvoirs prévus
 aux chapitres II à VI du titre Ier du livre II du code de la consommation.
 
-Ces agents peuvent communiquer à l'Agence française de sécurité sanitaire des
-produits de santé les informations et documents recueillis dans les conditions
-prévues à l'alinéa précédent afin qu'elle procède à toute évaluation et
-expertise pour les produits mentionnés au même alinéa.
+Ces agents peuvent communiquer à l'Agence nationale de sécurité du médicament et
+des produits de santé les informations et documents recueillis dans les
+conditions prévues à l'alinéa précédent afin qu'elle procède à toute évaluation
+et expertise pour les produits mentionnés au même alinéa.

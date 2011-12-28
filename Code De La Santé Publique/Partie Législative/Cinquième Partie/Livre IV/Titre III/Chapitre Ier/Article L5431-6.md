@@ -14,6 +14,6 @@ alinéa de l'article L. 5131-6 ;
 que le dossier mentionné au troisième alinéa de l'article L. 5131-6 comporte les
 mentions obligatoires prévues par le 3° de l'article L. 5131-11 ;
 
-3° De ne pas transmettre à l'Agence française de sécurité sanitaire des produits
-de santé, sur sa demande, l'une des informations mentionnées à l'article L.
-5131-10.
+3° De ne pas transmettre à l'Agence nationale de sécurité du médicament et des
+produits de santé , sur sa demande, l'une des informations mentionnées à
+l'article L. 5131-10.

@@ -60,5 +60,5 @@ du I de l'article L. 5121-12 ;
 ayant reçu le certificat mentionné à l'article L. 5211-3 ;
 
 -des dispositifs médicaux ne disposant pas de ce certificat et autorisés à titre
-dérogatoire par le directeur général de l'Agence française de sécurité sanitaire
-des produits de santé.
+dérogatoire par le directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé.

@@ -1,9 +1,9 @@
 Article L1413-4
 ----
 Les services de l'Etat ainsi que les organismes placés sous sa tutelle apportent
-leur concours à l'Institut de veille sanitaire, dans l'exercice de ses
-missions.L'institut peut demander aux ministres concernés de faire intervenir
-les agents habilités à contrôler l'application des dispositions législatives et
+leur concours à l'Institut de veille sanitaire, dans l'exercice de ses missions.
+L'institut peut demander aux ministres concernés de faire intervenir les agents
+habilités à contrôler l'application des dispositions législatives et
 réglementaires visant à préserver la santé humaine.
 
 L'Etat et les collectivités territoriales, leurs établissements publics, les
@@ -24,7 +24,7 @@ préservant la confidentialité de ces données à l'égard des tiers.
 Pour améliorer la connaissance et la prévention des risques sanitaires en milieu
 de travail, les entreprises publiques et privées fournissent également à
 l'institut, à sa demande, toutes informations nécessaires à l'exercice de ses
-missions.L'institut contribue à la mise en place, dans ces entreprises, de
+missions. L'institut contribue à la mise en place, dans ces entreprises, de
 surveillances épidémiologiques en lien notamment avec les services de santé au
 travail.
 
@@ -35,10 +35,10 @@ nécessaires à l'exercice de ses missions.
 
 L'institut est destinataire des expertises et des rapports d'évaluation, de
 contrôle et d'inspection relatifs à la veille sanitaire et à la sécurité
-sanitaire, réalisés par l'Agence française de sécurité sanitaire des produits de
-santé, l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de
-l'environnement et du travail et par les services de l'Etat ou par les
-établissements publics qui lui sont rattachés.
+sanitaire, réalisés par l'Agence nationale de sécurité du médicament et des
+produits de santé, l'Agence nationale chargée de la sécurité sanitaire de
+l'alimentation, de l'environnement et du travail et par les services de l'Etat
+ou par les établissements publics qui lui sont rattachés.
 
 Pour l'exercice de ses missions, l'Institut de veille sanitaire s'appuie sur un
 réseau de centres nationaux de référence pour la lutte contre les maladies

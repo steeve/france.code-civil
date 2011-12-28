@@ -24,7 +24,7 @@ l'information des participants, les modalités de recueil du consentement et la
 pertinence éthique et scientifique du projet. La déclaration est adressée au
 ministre chargé de la recherche et, le cas échéant, au directeur général de
 l'agence régionale de santé territorialement compétent, concomitamment à la
-soumission pour avis au comité.L'avis de ce dernier leur est transmis sans
+soumission pour avis au comité. L'avis de ce dernier leur est transmis sans
 délai.
 
 Le ministre chargé de la recherche et, le cas échéant, le directeur général de
@@ -55,13 +55,13 @@ sont régies par les dispositions du titre II du livre Ier de la présente parti
 lorsqu'elles sont mises en oeuvre dans le cadre d'un projet de recherche
 biomédicale au sens de l'article L. 1121-1.
 
-L'Agence française de sécurité sanitaire des produits de santé est informée des
-activités de conservation ou de préparation à des fins scientifiques de tissus
-et cellules du corps humain réalisées sur le même site que des activités de même
-nature exercées à des fins thérapeutiques. Dans ce cas, la suspension ou
-l'interdiction de l'exercice des activités déclarées est de droit quand elle est
-demandée par l'Agence française de sécurité sanitaire des produits de santé pour
-des raisons de sécurité sanitaire.
+L'Agence nationale de sécurité du médicament et des produits de santé est
+informée des activités de conservation ou de préparation à des fins
+scientifiques de tissus et cellules du corps humain réalisées sur le même site
+que des activités de même nature exercées à des fins thérapeutiques. Dans ce
+cas, la suspension ou l'interdiction de l'exercice des activités déclarées est
+de droit quand elle est demandée par l'Agence nationale de sécurité du
+médicament et des produits de santé pour des raisons de sécurité sanitaire.
 
 Les organismes mentionnés au premier alinéa ne peuvent céder les tissus et
 cellules du corps humain qu'ils conservent ou préparent qu'à un autre

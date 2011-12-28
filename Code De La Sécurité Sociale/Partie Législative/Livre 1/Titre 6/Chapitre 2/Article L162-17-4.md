@@ -58,21 +58,21 @@ l'entreprise, le comité peut résilier la convention ou certaines de ses
 dispositions. Dans ce cas, le comité peut fixer le prix de ces médicaments par
 décision prise en application de l'article L. 162-16-4.
 
-Lorsqu'une mesure d'interdiction de publicité a été prononcée par l'Agence
-française de sécurité sanitaire des produits de santé dans les conditions
-prévues à l'article L. 5122-9 du code de la santé publique, le Comité économique
-des produits de santé prononce, après que l'entreprise a été mise en mesure de
+Lorsqu'un retrait de visa de publicité a été prononcé par l'Agence nationale de
+sécurité du médicament et des produits de santé dans les conditions prévues à
+l'article L. 5122-9 du code de la santé publique, le Comité économique des
+produits de santé prononce, après que l'entreprise a été mise en mesure de
 présenter ses observations, une pénalité financière à l'encontre de ladite
 entreprise.
 
 Cette pénalité ne peut être supérieure à 10 % du chiffre d'affaires hors taxes
 réalisé en France par l'entreprise au titre des spécialités ayant fait l'objet
-de la publicité interdite durant les six mois précédant et les six mois suivant
-la date d'interdiction.
+du retrait de visa de publicité durant les six mois précédant et les six mois
+suivant la date de retrait de visa.
 
 Son montant est fixé en fonction de la gravité de l'infraction sanctionnée par
-la mesure d'interdiction et de l'évolution des ventes des spécialités concernées
-durant la période définie à l'alinéa précédent.
+le retrait de visa de publicité et de l'évolution des ventes des spécialités
+concernées durant la période définie à l'alinéa précédent.
 
 En cas de manquement par une entreprise à un engagement souscrit en application
 du 4° bis, le comité économique des produits de santé peut prononcer, après que
@@ -87,8 +87,8 @@ manquement.
 Le montant de la pénalité est fixé en fonction de l'importance du manquement
 constaté.
 
-La pénalité, prononcée au titre d'une mesure d'interdiction de publicité ou de
-la non-réalisation des études mentionnées au 4° bis est recouvrée par les
+La pénalité, prononcée au titre d'un retrait de visa de publicité ou de la
+non-réalisation des études mentionnées au 4° bis est recouvrée par les
 organismes mentionnés à l'article L. 213-1 désignés par le directeur de l'Agence
 centrale des organismes de sécurité sociale. Son produit est affecté aux régimes
 d'assurance maladie selon les règles prévues à l'article L. 138-8 du présent

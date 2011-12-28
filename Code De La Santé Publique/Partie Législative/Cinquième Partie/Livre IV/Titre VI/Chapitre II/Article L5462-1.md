@@ -8,8 +8,8 @@ prises pour l'application de ces dispositions :
 régionales de santé ayant la qualité de pharmacien, dans les conditions prévues
 aux articles L. 5411-1 à L. 5411-3 ;
 
-2° Les inspecteurs de l'Agence française de sécurité sanitaire des produits de
-santé, dans les conditions prévues à l'article L. 5412-1 ;
+2° Les inspecteurs de l'Agence nationale de sécurité du médicament et des
+produits de santé, dans les conditions prévues à l'article L. 5412-1 ;
 
 3° Les médecins inspecteurs de santé publique et les inspecteurs des agences
 régionales de santé ayant la qualité de médecin, dans les conditions prévues à

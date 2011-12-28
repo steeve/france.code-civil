@@ -7,8 +7,8 @@ seize membres nommés ou élus pour six ans :
 recherche de pharmacie, pharmaciens, nommés par le ministre chargé de la santé
 sur proposition du ministre chargé de l'enseignement supérieur ;
 
-2° A titre consultatif, un inspecteur de l'Agence française de sécurité
-sanitaire des produits de santé représentant le directeur général de cette
+2° A titre consultatif, un inspecteur de l'Agence nationale de sécurité du
+médicament et des produits de santé représentant le directeur général de cette
 agence et un pharmacien inspecteur de santé publique représentant le ministre
 chargé de la santé ;
 

@@ -13,8 +13,8 @@ marché au sens de l'article L. 5121-8, sur des dispositifs médicaux incorporan
 des produits d'origine humaine ou animale, ou dans la fabrication desquels
 interviennent des produits d'origine humaine ou animale, sur des produits
 cosmétiques contenant des ingrédients d'origine animale dont la liste est fixée
-par voie réglementaire sur proposition de l'Agence française de sécurité
-sanitaire des produits de santé ou sur les produits mentionnés à l'article L.
-5311-1 contenant des organismes génétiquement modifiés. Cette autorisation vaut,
-le cas échéant, autorisation selon les dispositions de l'article L. 533-3 du
-code de l'environnement.
+par voie réglementaire sur proposition de l'Agence nationale de sécurité du
+médicament et des produits de santé ou sur les produits mentionnés à l'article
+L. 5311-1 contenant des organismes génétiquement modifiés. Cette autorisation
+vaut, le cas échéant, autorisation selon les dispositions de l'article L. 533-3
+du code de l'environnement.

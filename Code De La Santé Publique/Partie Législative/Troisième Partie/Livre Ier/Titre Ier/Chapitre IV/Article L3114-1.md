@@ -15,8 +15,8 @@ soins médicaux, paramédicaux ou vétérinaires ;
 l'article L. 5139-1.
 
 Cette désinfection est réalisée avec des appareils agréés par des organismes
-dont la liste est établie par décision de l'Agence française de sécurité
-sanitaire des produits de santé.
+dont la liste est établie par décision de l'Agence nationale de sécurité du
+médicament et des produits de santé.
 
 Les mesures de désinfection sont mises à exécution, dans les villes de 20 000
 habitants et au-dessus, par les soins de l'autorité municipale suivant des

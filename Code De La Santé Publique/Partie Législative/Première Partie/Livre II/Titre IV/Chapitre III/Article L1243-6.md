@@ -11,9 +11,9 @@ du titre II du livre Ier de la sixième partie.
 Toutefois, peuvent être utilisés par les médecins et les chirurgiens-dentistes
 en dehors des établissements de santé les tissus et les préparations de thérapie
 cellulaire figurant sur une liste arrêtée par le ministre chargé de la santé sur
-proposition de l'Agence française de sécurité sanitaire des produits de santé et
-après avis de l'Agence de la biomédecine, à condition qu'ils soient utilisés
-dans le respect de règles de bonnes pratiques arrêtées selon les mêmes
+proposition de l'Agence nationale de sécurité du médicament et des produits de
+santé et après avis de l'Agence de la biomédecine, à condition qu'ils soient
+utilisés dans le respect de règles de bonnes pratiques arrêtées selon les mêmes
 modalités.
 
 Peuvent être autorisés à pratiquer des allogreffes de cellules hématopoïétiques,

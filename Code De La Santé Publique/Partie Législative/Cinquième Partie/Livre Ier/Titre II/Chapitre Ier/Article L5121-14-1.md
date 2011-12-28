@@ -16,8 +16,8 @@ posologie spécifiés ;
 5° Les données sur l'usage traditionnel du médicament sont suffisantes.
 
 Ces médicaments font l'objet, avant leur mise sur le marché ou leur distribution
-à titre gratuit, d'un enregistrement auprès de l'Agence française de sécurité
-sanitaire des produits de santé.
+à titre gratuit, d'un enregistrement auprès de l'Agence nationale de sécurité du
+médicament et des produits de santé.
 
 Toutefois, si l'agence considère qu'un médicament traditionnel à base de plantes
 relève, compte tenu de ses caractéristiques, du régime de l'autorisation de mise
@@ -34,8 +34,8 @@ renouvelé, le cas échéant sans limitation de durée, dans des conditions fix�
 par décret en Conseil d'Etat. Ce décret détermine également les conditions dans
 lesquelles il peut devenir caduc.
 
-L'enregistrement peut être modifié par l'Agence française de sécurité sanitaire
-des produits de santé.
+L'enregistrement peut être modifié par l'Agence nationale de sécurité du
+médicament et des produits de santé.
 
 L'enregistrement peut être suspendu ou retiré par l'agence si les critères et
 les conditions auxquelles il est subordonné ne sont plus remplis ou en cas de

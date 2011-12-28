@@ -54,7 +54,7 @@ e) A l'article L. 1121-15, il est ajouté un alinéa ainsi rédigé :
 
 L'autorité chargée de la sécurité sanitaire des produits de santé en
 Nouvelle-Calédonie ou en Polynésie française est tenue informée par l'Agence
-française de sécurité sanitaire des produits de santé.
+nationale de sécurité du médicament et des produits de santé .
 
 3° a) A l'article L. 1123-1, est inséré un deuxième alinéa ainsi rédigé :
 
@@ -80,14 +80,15 @@ du système de santé reconnues localement.
 d) Aux articles L. 1123-10 et L. 1123-11, il est ajouté un alinéa ainsi rédigé :
 
 L'autorité chargée de la sécurité sanitaire des produits de santé est tenue
-informée par l'Agence française de sécurité sanitaire des produits de santé.
+informée par l'Agence nationale de sécurité du médicament et des produits de
+santé .
 
 e) A l'article L. 1123-14 :
 
 Au 10°, il est ajouté la phrase suivante : " L'autorité chargée de la sécurité
 sanitaire des produits de santé en Nouvelle-Calédonie ou en Polynésie française
-est tenue informée par l'Agence française de sécurité sanitaire des produits de
-santé ” ;
+est tenue informée par l'Agence nationale de sécurité du médicament et des
+produits de santé ” ;
 
 Les trois derniers alinéas sont remplacés par un alinéa ainsi rédigé :
 

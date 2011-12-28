@@ -16,17 +16,16 @@ français, la notification doit avoir lieu au plus tard deux mois avant la
 suspension ou l'arrêt de commercialisation. En cas d'urgence nécessitant que la
 suspension ou l'arrêt intervienne avant le terme des délais fixés ci-dessus,
 l'entreprise en informe immédiatement l'agence en justifiant de cette urgence.
-Elle doit en outre informer de manière motivée l'Agence nationale de sécurité du
-médicament et des produits de santé de tout risque de rupture de stock ou de
-toute rupture sur un médicament ou produit sans alternative thérapeutique
-disponible, dont elle assure l'exploitation, ainsi que de tout risque de rupture
-de stock ou de toute rupture sur un médicament ou produit dont elle assure
-l'exploitation, lié à un accroissement brutal et inattendu de la demande.
-Lorsque le médicament est utilisé dans une ou des pathologies graves dans
-lesquelles elle ne disposerait pas d'alternatives disponibles sur le marché
-français, l'entreprise apporte à l'agence sa collaboration à la mise en place de
-solutions alternatives permettant de couvrir ce besoin et des mesures
-d'accompagnement nécessaires.
+Elle doit en outre informer l'Agence nationale de sécurité du médicament et des
+produits de santé de tout risque de rupture de stock ou de toute rupture sur un
+médicament ou produit sans alternative thérapeutique disponible, dont elle
+assure l'exploitation, ainsi que de tout risque de rupture de stock ou de toute
+rupture sur un médicament ou produit dont elle assure l'exploitation, lié à un
+accroissement brutal et inattendu de la demande. Lorsque le médicament est
+utilisé dans une ou des pathologies graves dans lesquelles elle ne disposerait
+pas d'alternatives disponibles sur le marché français, l'entreprise apporte à
+l'agence sa collaboration à la mise en place de solutions alternatives
+permettant de couvrir ce besoin et des mesures d'accompagnement nécessaires.
 
 L'entreprise pharmaceutique exploitant un médicament ou produit soumis aux
 dispositions du chapitre Ier du présent titre informe immédiatement l'agence de

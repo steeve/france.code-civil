@@ -1,8 +1,8 @@
 Article L5312-1
 ----
-L'Agence française de sécurité sanitaire des produits de santé peut soumettre à
-des conditions particulières, restreindre ou suspendre les essais, la
-fabrication, la préparation, l'importation, l'exploitation, l'exportation, la
+L'Agence nationale de sécurité du médicament et des produits de santé peut
+soumettre à des conditions particulières, restreindre ou suspendre les essais,
+la fabrication, la préparation, l'importation, l'exploitation, l'exportation, la
 distribution en gros, le conditionnement, la conservation, la mise sur le marché
 à titre gratuit ou onéreux, la détention en vue de la vente ou de la
 distribution à titre gratuit, la publicité, la mise en service, l'utilisation,

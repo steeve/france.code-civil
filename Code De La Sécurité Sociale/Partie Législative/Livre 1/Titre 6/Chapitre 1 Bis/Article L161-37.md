@@ -22,8 +22,8 @@ critères d'appréciation et les délais applicables ;
 2° Elaborer les guides de bon usage des soins ou les recommandations de bonne
 pratique, procéder à leur diffusion et contribuer à l'information des
 professionnels de santé et du public dans ces domaines, sans préjudice des
-mesures prises par l'Agence française de sécurité sanitaire des produits de
-santé dans le cadre de ses missions de sécurité sanitaire ;
+mesures prises par l'Agence nationale de sécurité du médicament et des produits
+de santé dans le cadre de ses missions de sécurité sanitaire ;
 
 3° Etablir et mettre en oeuvre des procédures d'accréditation des professionnels
 et des équipes médicales mentionnées à l'article L. 1414-3-3 du code de la santé
@@ -48,11 +48,11 @@ sur la qualité des prises en charge dans les établissements de santé à
 destination des usagers et de leurs représentants.
 
 Pour l'accomplissement de ses missions, la Haute Autorité de santé travaille en
-liaison notamment avec l'Agence française de sécurité sanitaire des produits de
-santé, l'Institut national de veille sanitaire et l'Agence nationale chargée de
-la sécurité sanitaire de l'alimentation, de l'environnement et du travail. Elle
-peut mener toute action commune avec les organismes ayant compétence en matière
-de recherche dans le domaine de la santé.
+liaison notamment avec l'Agence nationale de sécurité du médicament et des
+produits de santé , l'Institut national de veille sanitaire et l'Agence
+nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement
+et du travail. Elle peut mener toute action commune avec les organismes ayant
+compétence en matière de recherche dans le domaine de la santé.
 
 La Haute Autorité de santé rend publics l'ordre du jour et les comptes rendus
 assortis des détails et explications des votes, y compris les opinions
@@ -78,7 +78,11 @@ La Haute Autorité de santé établit un rapport annuel d'activité adressé au
 Parlement et au Gouvernement avant le 1er juillet, qui porte notamment sur les
 travaux des commissions mentionnées à l'article L. 161-41 du présent code ainsi
 que sur les actions d'information mises en oeuvre en application du 2° du
-présent article.
+présent article. Les commissions spécialisées mentionnées au même article L.
+161-41 autres que celles créées par la Haute Autorité de santé remettent chaque
+année au Parlement un rapport d'activité mentionnant notamment les modalités et
+principes selon lesquels elles mettent en œuvre les critères d'évaluation des
+produits de santé en vue de leur prise en charge par l'assurance maladie.
 
 Les décisions et communications prises en vertu des 1° et 2° du présent article
 sont transmises sans délai à la Conférence nationale de santé prévue à l'article

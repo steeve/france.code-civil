@@ -24,8 +24,8 @@ pharmaceutique de cet établissement de santé autorisé en application de
 l'article L. 5124-9 ou dans les conditions prévues à l'article L. 5126-2. Les
 préparations hospitalières sont dispensées sur prescription médicale à un ou
 plusieurs patients par une pharmacie à usage intérieur dudit établissement.
-Elles font l'objet d'une déclaration auprès de l'Agence française de sécurité
-sanitaire des produits de santé, dans des conditions définies par arrêté du
+Elles font l'objet d'une déclaration auprès de l'Agence nationale de sécurité du
+médicament et des produits de santé, dans des conditions définies par arrêté du
 ministre chargé de la santé ;
 
 3° Préparation officinale, tout médicament préparé en pharmacie, inscrit à la

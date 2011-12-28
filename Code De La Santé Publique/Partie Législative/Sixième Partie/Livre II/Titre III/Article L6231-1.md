@@ -17,5 +17,5 @@ pour la biologie médicale, à toutes données médicales individuelles nécessa
 pénal.
 
 Les agents mentionnés aux alinéas précédents n'ont pas compétence pour inspecter
-l'Agence française de sécurité sanitaire des produits de santé dans le cadre de
-l'organisation du contrôle national de qualité.
+l'Agence nationale de sécurité du médicament et des produits de santé dans le
+cadre de l'organisation du contrôle national de qualité.

@@ -18,10 +18,10 @@ Par dérogation à l'alinéa précédent, peuvent être prélevées à fins
 d'administration autologue dans tous les établissements de santé et par les
 médecins et les chirurgiens-dentistes exerçant en dehors des établissements de
 santé les catégories de cellules figurant sur une liste arrêtée par le ministre
-chargé de la santé, sur proposition de l'Agence française de sécurité sanitaire
-des produits de santé et après avis de l'Agence de la biomédecine, à condition
-que les prélèvements soient faits dans le respect des règles de bonnes pratiques
-arrêtées selon les mêmes modalités.
+chargé de la santé, sur proposition de l'Agence nationale de sécurité du
+médicament et des produits de santé et après avis de l'Agence de la biomédecine,
+à condition que les prélèvements soient faits dans le respect des règles de
+bonnes pratiques arrêtées selon les mêmes modalités.
 
 Les autorisations prévues aux premier et deuxième alinéas sont délivrées pour
 une durée de cinq ans. Elles sont renouvelables.

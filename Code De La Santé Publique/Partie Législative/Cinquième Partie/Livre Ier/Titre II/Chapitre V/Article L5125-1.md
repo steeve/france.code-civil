@@ -11,14 +11,14 @@ de l'agence régionale de santé.
 
 Pour certaines catégories de préparations, une officine peut, par un contrat
 écrit, confier l'exécution d'une préparation à un établissement pharmaceutique
-autorisé à fabriquer des médicaments par l'Agence française de sécurité
-sanitaire des produits de santé ou à toute personne titulaire d'une autorisation
-de fabrication de médicaments délivrée en application de la directive 2001/83/
-CE du Parlement européen et du Conseil du 6 novembre 2001 instituant un code
-communautaire relatif aux médicaments à usage humain. Cette activité de
-sous-traitance fait l'objet d'un rapport annuel transmis par le pharmacien
-responsable de l'établissement pharmaceutique au directeur général de l'Agence
-française de sécurité sanitaire des produits de santé.
+autorisé à fabriquer des médicaments par l'Agence nationale de sécurité du
+médicament et des produits de santé ou à toute personne titulaire d'une
+autorisation de fabrication de médicaments délivrée en application de la
+directive 2001/83/ CE du Parlement européen et du Conseil du 6 novembre 2001
+instituant un code communautaire relatif aux médicaments à usage humain. Cette
+activité de sous-traitance fait l'objet d'un rapport annuel transmis par le
+pharmacien responsable de l'établissement pharmaceutique au directeur général de
+l'Agence nationale de sécurité du médicament et des produits de santé.
 
 Ces préparations sont réalisées en conformité avec les bonnes pratiques
 mentionnées à l'article L. 5121-5.

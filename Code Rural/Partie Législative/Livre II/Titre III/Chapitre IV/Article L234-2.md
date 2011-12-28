@@ -17,7 +17,7 @@ de ces animaux de détenir sans justification ces substances.
 Toutefois, certaines de ces substances peuvent, dans des conditions fixées par
 décret, entrer dans la composition de médicaments vétérinaires satisfaisant aux
 conditions prévues au titre IV du livre Ier de la cinquième partie du code de la
-santé publique.L'administration de ces médicaments est subordonnée à des
+santé publique. L'administration de ces médicaments est subordonnée à des
 conditions particulières ; elle ne peut être effectuée que par ou sous la
 responsabilité d'un vétérinaire ayant satisfait aux obligations prévues à
 l'article L. 241-1.
@@ -48,10 +48,10 @@ denrées sont fixées par décret.
 
 VI.-Par arrêtés pris après avis de l'Agence nationale chargée de la sécurité
 sanitaire de l'alimentation, de l'environnement et du travail, et, en ce qui
-concerne les médicaments à usage humain, après avis de l'Agence française de
-sécurité sanitaire des produits de santé, le ministre de l'agriculture et le
-ministre chargé de la santé peuvent, pour des motifs de santé publique ou de
-santé animale, interdire ou restreindre la prescription et la délivrance de
+concerne les médicaments à usage humain, après avis de l'Agence nationale de
+sécurité du médicament et des produits de santé , le ministre de l'agriculture
+et le ministre chargé de la santé peuvent, pour des motifs de santé publique ou
+de santé animale, interdire ou restreindre la prescription et la délivrance de
 médicaments en vue d'une administration à des animaux, ainsi que
 l'administration de médicaments à des animaux.
 
@@ -63,7 +63,7 @@ conditions prévues par elle ou par la prescription d'un vétérinaire.
 VIII.-Comme il est dit aux articles L. 5141-11, L. 5143-4, et L. 5143-5 du code
 de la santé publique, ci-après reproduits :
 
-" Art.L. 5141-11 :
+" Art. L. 5141-11 :
 
 " Pour la fabrication d'aliments médicamenteux, seuls peuvent être utilisés des
 prémélanges médicamenteux ayant obtenu une autorisation de mise sur le marché
@@ -82,7 +82,7 @@ l'animal. Les prémélanges médicamenteux ne peuvent être délivrés qu'à un
 d'aliments médicamenteux ou à un éleveur pour la fabrication extemporanée
 d'aliments médicamenteux dans les conditions prévues à l'article L. 5143-3 ".
 
-" Art.L. 5143-4 :
+" Art. L. 5143-4 :
 
 " Le vétérinaire doit prescrire en priorité un médicament vétérinaire autorisé
 pour l'animal de l'espèce considérée et pour l'indication thérapeutique visée ou
@@ -109,7 +109,7 @@ médicamenteux autorisé répondant aux mêmes conditions ;
 " a) Soit un médicament autorisé pour l'usage humain ;
 
 " b) Soit un médicament vétérinaire autorisé dans un autre Etat membre en vertu
-de la directive 2001 / 82 / CE du Parlement européen et du Conseil instituant un
+de la directive 2001/82/ CE du Parlement européen et du Conseil instituant un
 code communautaire relatif aux médicaments vétérinaires, pour la même espèce ou
 pour une autre espèce, pour l'affection concernée ou pour une affection
 différente, sans préjudice de l'autorisation mentionnée à l'article L. 5142-7 ;
@@ -125,13 +125,13 @@ par le détenteur des animaux, dans le respect de la prescription du vétérinai
 animaux dont la chair ou les produits sont destinés à la consommation humaine,
 les substances à action pharmacologique qu'il contient doivent être au nombre de
 celles qui figurent dans l'une des annexes I, II et III du règlement (CEE) n°
-2377 / 90 du Conseil du 26 juin 1990 établissant une procédure communautaire
-pour la fixation des limites maximales de résidus de médicaments vétérinaires
-dans les aliments d'origine animale. Si le médicament utilisé n'indique aucun
-temps d'attente pour les espèces concernées, le vétérinaire fixe le temps
-d'attente applicable qui ne peut être inférieur au minimum fixé pour la denrée
-animale considérée, par arrêté des ministres chargés de l'agriculture et de la
-santé après avis de l'Agence nationale chargée de la sécurité sanitaire de
+2377/90 du Conseil du 26 juin 1990 établissant une procédure communautaire pour
+la fixation des limites maximales de résidus de médicaments vétérinaires dans
+les aliments d'origine animale. Si le médicament utilisé n'indique aucun temps
+d'attente pour les espèces concernées, le vétérinaire fixe le temps d'attente
+applicable qui ne peut être inférieur au minimum fixé pour la denrée animale
+considérée, par arrêté des ministres chargés de l'agriculture et de la santé
+après avis de l'Agence nationale chargée de la sécurité sanitaire de
 l'alimentation, de l'environnement et du travail.
 
 " Le précédent alinéa ne s'applique pas aux équidés identifiés conformément à
@@ -141,15 +141,15 @@ le vétérinaire peut prescrire et administrer à un équidé identifié conform
 à l'article L. 212-9 du code rural et déclaré comme étant destiné à l'abattage
 pour la consommation humaine un médicament contenant des substances à action
 pharmacologique ne figurant dans aucune des annexes I, II, III ou IV du
-règlement CEE n° 2377 / 90 du Conseil si les conditions suivantes sont
-respectées :
+règlement CEE n° 2377/90 du Conseil si les conditions suivantes sont respectées
+:
 
 " a) Les substances à action pharmacologique qu'il contient sont inscrites sur
-la liste fixée par le règlement (CE) n° 1950 / 2006 de la Commission du 13
-décembre 2006 établissant, conformément à la directive 2001 / 82 / CE du
-Parlement européen et du Conseil instituant un code communautaire relatif aux
-médicaments vétérinaires, une liste de substances essentielles pour le
-traitement des équidés ;
+la liste fixée par le règlement (CE) n° 1950/2006 de la Commission du 13
+décembre 2006 établissant, conformément à la directive 2001/82/ CE du Parlement
+européen et du Conseil instituant un code communautaire relatif aux médicaments
+vétérinaires, une liste de substances essentielles pour le traitement des
+équidés ;
 
 " b) Le vétérinaire prescrit et administre les médicaments contenant ces
 substances pour les indications prévues par ce règlement et consigne ce
@@ -160,7 +160,7 @@ durée fixée par arrêté des ministres chargés de l'agriculture et de la sant
 après avis de l'Agence nationale chargée de la sécurité sanitaire de
 l'alimentation, de l'environnement et du travail. "
 
-" Art.L. 5143-5 :
+" Art. L. 5143-5 :
 
 " Est subordonnée à la rédaction par un vétérinaire d'une ordonnance, qui est
 obligatoirement remise à l'utilisateur, la délivrance au détail, à titre gratuit

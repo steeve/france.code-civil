@@ -16,20 +16,21 @@ consulter la Haute Autorité de santé sur tout projet de référentiel de prati
 médicale élaboré dans le cadre de leur mission de gestion des risques ainsi que
 sur tout projet de référentiel visant à encadrer la prise en charge par
 l'assurance maladie d'un type particulier de soins. La Haute Autorité de santé
-rend un avis dans un délai de deux mois à compter de la réception de la
-demande.A l'expiration de ce délai, l'avis est réputé favorable.
+rend un avis dans un délai de deux mois à compter de la réception de la demande.
+A l'expiration de ce délai, l'avis est réputé favorable.
 
-Sans préjudice des mesures prises par l'Agence française de sécurité sanitaire
-des produits de santé dans le cadre de ses missions de sécurité sanitaire, et
-notamment celles prises en application du 2° de l'article L. 5311-2 du code de
-la santé publique, la Haute Autorité de santé fixe les orientations en vue de
-l'élaboration et de la diffusion des recommandations de bonne pratique de
-l'Agence française de sécurité sanitaire des produits de santé mentionnée à
-l'article L. 5311-1 du même code et procède à leur diffusion.
+Sans préjudice des mesures prises par l'Agence nationale de sécurité du
+médicament et des produits de santé dans le cadre de ses missions de sécurité
+sanitaire, et notamment celles prises en application du 2° de l'article L.
+5311-2 du code de la santé publique, la Haute Autorité de santé fixe les
+orientations en vue de l'élaboration et de la diffusion des recommandations de
+bonne pratique de l'Agence nationale de sécurité du médicament et des produits
+de santé mentionnée à l'article L. 5311-1 du même code et procède à leur
+diffusion.
 
-La Haute Autorité peut saisir l'Agence française de sécurité sanitaire des
-produits de santé de toute demande d'examen de la publicité pour un produit de
-santé diffusée auprès des professions de santé.
+La Haute Autorité peut saisir l'Agence nationale de sécurité du médicament et
+des produits de santé de toute demande d'examen de la publicité pour un produit
+de santé diffusée auprès des professions de santé.
 
 Dans le respect des règles relatives à la transmission et au traitement des
 données à caractère personnel, les caisses d'assurance maladie et l'Institut des

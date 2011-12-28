@@ -14,11 +14,12 @@ des malades dans les établissements de santé ou médico-sociaux où elles ont 
 constituées ou qui appartiennent au groupement de coopération sanitaire, dans
 les hôpitaux des armées ou dans les installations de chirurgie esthétique.
 
-Toutefois, dans le cadre des recherches mentionnées aux 1° ou 2° de l'article L.
-1121-1, la pharmacie à usage intérieur d'un établissement de santé peut, à titre
-exceptionnel, distribuer les produits, substances ou médicaments nécessaires à
-la recherche à d'autres pharmacies à usage intérieur d'établissements de santé
-où la recherche est réalisée.
+Toutefois, dans le cadre de recherches biomédicales réalisées sur des produits,
+substances ou médicaments, la pharmacie à usage intérieur d'un établissement de
+santé peut être autorisée à titre exceptionnel par le directeur général de
+l'Agence nationale de sécurité du médicament et des produits de santé à
+distribuer ces produits, substances ou médicaments à d'autres pharmacies à usage
+intérieur d'établissement de santé où la recherche est réalisée.
 
 Dans les établissements publics de santé, la ou les pharmacies à usage intérieur
 autorisées dans les conditions définies à l'article L. 5126-7 sont organisées

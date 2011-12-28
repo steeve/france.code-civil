@@ -21,7 +21,7 @@ l'initiative du patient ou du médecin prescripteur.
 
 Ces programmes d'apprentissage ainsi que les documents et autres supports
 relatifs à ces programmes sont soumis à une autorisation délivrée par l'Agence
-française de sécurité sanitaire des produits de santé, après avis des
+nationale de sécurité du médicament et des produits de santé , après avis des
 associations mentionnées à l'article L. 1114-1 et pour une durée limitée.
 
 Si les programmes d'apprentissage ou les supports relatifs à ces programmes ne

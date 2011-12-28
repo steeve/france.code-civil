@@ -5,8 +5,8 @@ visés à l'article L. 521-12 peuvent prélever des échantillons en vue d'analy
 ou d'essais.
 
 Les échantillons sont analysés par un laboratoire de l'Etat, de l'Agence
-française de sécurité sanitaire des produits de santé ou par un laboratoire
-désigné par l'autorité compétente.
+nationale de sécurité du médicament et des produits de santé ou par un
+laboratoire désigné par l'autorité compétente.
 
 Les prélèvements d'échantillons sont réalisés en présence du directeur
 d'établissement ou de son représentant si le contrôle a lieu dans une

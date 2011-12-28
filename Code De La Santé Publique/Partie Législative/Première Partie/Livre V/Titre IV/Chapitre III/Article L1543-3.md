@@ -25,5 +25,5 @@ labile ne figurant pas sur la liste prévue à l'article L. 1221-8, à moins qu'
 ne soit destiné à des recherches biomédicales ;
 
 2° D'utiliser un produit sanguin labile en violation d'une disposition ou d'une
-décision édictée par l'Agence française de sécurité sanitaire des produits de
-santé en application de l'article L. 1221-10-1.
+décision édictée par l'Agence nationale de sécurité du médicament et des
+produits de santé en application de l'article L. 1221-10-1.

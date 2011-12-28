@@ -8,7 +8,7 @@ afin de satisfaire aux exigences du présent chapitre, a fait l'objet d'une
 expérimentation animale au moyen d'une méthode autre qu'une méthode alternative.
 Le cas échéant, les méthodes alternatives validées et adoptées par la Commission
 européenne sont fixées par arrêté du ministre chargé de la santé après avis de
-l'Agence française de sécurité sanitaire des produits de santé ;
+l'Agence nationale de sécurité du médicament et des produits de santé ;
 
 b) Mettre sur le marché des produits cosmétiques contenant des ingrédients ou
 des combinaisons d'ingrédients qui, afin de satisfaire aux exigences du présent
@@ -29,8 +29,8 @@ européen et du Conseil concernant l'enregistrement, l'évaluation et
 l'autorisation des substances chimiques ainsi que les restrictions applicables à
 ces substances (REACH) ou dans l'arrêté mentionné aux a et b. Ces méthodes
 alternatives sont décrites dans un arrêté des ministres chargés de la santé, de
-la consommation et de l'industrie, pris sur proposition de l'Agence française de
-sécurité sanitaire des produits de santé.
+la consommation et de l'industrie, pris sur proposition de l'Agence nationale de
+sécurité du médicament et des produits de santé .
 
 L'interdiction mentionnée aux a et b ci-dessus entre en vigueur au plus tard le
 11 mars 2013 pour les expérimentations concernant la toxicité des doses

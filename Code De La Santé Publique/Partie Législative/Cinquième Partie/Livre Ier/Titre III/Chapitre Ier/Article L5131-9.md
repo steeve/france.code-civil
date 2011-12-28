@@ -11,8 +11,8 @@ congénitale.
 Pour la mise en oeuvre du système de cosmétovigilance, tout professionnel de
 santé ayant constaté un effet indésirable grave susceptible d'être dû à un
 produit cosmétique mentionné à l'article L. 5131-1 doit en faire la déclaration
-sans délai au directeur général de l'Agence française de sécurité sanitaire des
-produits de santé.
+sans délai au directeur général de l'Agence nationale de sécurité du médicament
+et des produits de santé .
 
 Ce professionnel déclare en outre les effets indésirables qui, bien que ne
 répondant pas à la définition mentionnée ci-dessus, lui paraissent revêtir un
@@ -29,7 +29,7 @@ Etat non membre de l'Union européenne ou non partie à l'accord sur l'Espace
 national de cosmétovigilance.
 
 Cette obligation est réputée remplie par la mise en oeuvre des dispositions de
-l'article L. 221-1-3 du code de la consommation.L'Agence française de sécurité
+l'article L. 221-1-3 du code de la consommation. L'Agence française de sécurité
 sanitaire des produits de santé est tenue informée par les autorités
 administratives compétentes mentionnées à l'article L. 221-1-3 du code de la
 consommation.
