@@ -14,8 +14,4 @@ l'organisation ou du contrôle de la prévention ou fournissant le concours de
 techniciens-conseils en matière de prévention ;
 
 3°) par l'attribution de subventions ou de prêts aux institutions mentionnées
-aux 1° et 2° ci-dessus ;
-
-4°) par l'attribution aux entreprises d'avances à un taux réduit, en vue de leur
-faciliter la réalisation d'aménagements destinés à assurer une meilleure
-protection des travailleurs.
+aux 1° et 2° ci-dessus.
