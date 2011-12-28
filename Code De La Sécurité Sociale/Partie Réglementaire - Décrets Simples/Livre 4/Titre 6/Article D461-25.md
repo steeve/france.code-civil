@@ -7,7 +7,7 @@ l'article 1er du décret n° 86-1103 du 2 octobre 1986 peut demander, si elle es
 inactive, demandeur d'emploi ou retraitée, à bénéficier d'une surveillance
 médicale post-professionnelle prise en charge par la caisse primaire d'assurance
 maladie ou l'organisation spéciale de sécurité sociale. Les dépenses
-correspondantes sont imputées sur le fonds d'action sanitaire et sociale.
+correspondantes sont imputées sur le fonds national des accidents du travail.
 
 Cette surveillance post-professionnelle est accordée par l'organisme mentionné à
 l'alinéa précédent sur production par l'intéressé d'une attestation d'exposition
