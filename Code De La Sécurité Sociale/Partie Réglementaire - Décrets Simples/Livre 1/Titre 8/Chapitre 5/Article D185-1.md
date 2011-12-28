@@ -21,9 +21,9 @@ qu'ils réalisent sont :
 
 1° Pour ce qui concerne les spécialités mentionnées du 1° au 17° de l'article D.
 4135-2 du code de la santé publique, des accouchements, des échographies
-obstétricales ou des actes inscrits sous l'appellation "acte de chirurgie" ou
-"acte d'anesthésie" sur la liste mentionnée aux articles L. 162-1-7 et R. 162-52
-du présent code ;
+obstétricales ou des actes inscrits sous l'appellation " acte de chirurgie " ou
+" acte d'anesthésie " sur la liste mentionnée aux articles L. 162-1-7 et R.
+162-52 du présent code ;
 
 2° Pour ce qui concerne les spécialités visées aux 18°, 19°, 20° et 21°, les
 actes interventionnels remboursables suivants : actes d'endoscopies de
@@ -35,20 +35,23 @@ Cette aide annuelle est calculée à partir d'un seuil minimum d'appel de
 cotisation de 4 000 Euros dans la limite d'un seuil maximum fixé selon les
 spécialités :
 
-a) à 18 000 Euros pour la gynécologie-obstétrique et l'obstétrique ;
+a) à 25 200 euros pour la gynécologie-obstétrique et l'obstétrique ;
 
-b) à 7 000 Euros pour l'anesthésie-réanimation et la réanimation médicale ;
+b) à 9 800 euros pour l'anesthésie-réanimation et la réanimation médicale ;
 
-c) à 15 000 Euros pour les autres spécialités mentionnées à l'article D. 4135-2
-du code de la santé publique.
+c) A 21 000 euros pour les spécialités mentionnées du 1° au 11° à l'article D.
+4135-2 du code de la santé publique ;
+
+d) A 15 000 euros pour les spécialités mentionnées du 15° au 21° à l'article D.
+4135-2 du code de la santé publique.
 
 Le montant de cette aide est calculé dans les conditions suivantes :
 
-- 50 % de cette part pour les médecins non autorisés à pratiquer des honoraires
+-50 % de cette part pour les médecins non autorisés à pratiquer des honoraires
 différents et pour les médecins autorisés à pratiquer des honoraires différents
 ayant adhéré à l'option de coordination ;
 
-- 35 % de cette part pour les médecins autorisés à pratiquer des honoraires
+-35 % de cette part pour les médecins autorisés à pratiquer des honoraires
 différents n'ayant pas adhéré à l'option de coordination.
 
 Pour les spécialités mentionnées du 1° au 12° et au 16° de l'article D. 4135-2
@@ -62,11 +65,11 @@ présent article est fixé à 0 euro.
 2° Les taux mentionnés aux dixième et onzième alinéas du présent article sont
 portés :
 
-- aux deux tiers pour les médecins non autorisés à pratiquer des honoraires
+-aux deux tiers pour les médecins non autorisés à pratiquer des honoraires
 différents ainsi que pour les médecins autorisés à pratiquer des honoraires
 différents ayant adhéré à l'option de coordination ;
 
-- à 55 % pour les médecins autorisés à pratiquer des honoraires différents
+-à 55 % pour les médecins autorisés à pratiquer des honoraires différents
 n'ayant pas adhéré à l'option de coordination.
 
 Une partie, dont le niveau est fixé par arrêté du ministre chargé de la sécurité
