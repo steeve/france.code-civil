@@ -19,7 +19,9 @@ b) Un plan de situation ;
 
 c) Un plan de délimitation du ou des périmètres composant la zone ;
 
-d) L'étude d'impact définie à l'article R. 122-3 du code de l'environnement.
+d) L'étude d'impact définie à l'article R. 122-5 du code de l'environnement
+lorsque celle-ci est requise en application des articles R. 122-2 et R. 122-3 du
+même code.
 
 Le dossier précise également si la part communale ou intercommunale de la taxe
 d'aménagement sera ou non exigible dans la zone.

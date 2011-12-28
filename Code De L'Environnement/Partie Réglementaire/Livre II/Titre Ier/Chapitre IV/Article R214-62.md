@@ -43,9 +43,8 @@ les débits dans les différentes parties du cours d'eau ou de la section
 concernée et permettre le contrôle et la gestion du passage du débit affecté ;
 
 5° Le document d'incidence prévu par le 4° du II de l'article R. 214-6, et,
-lorsque les ouvrages ou travaux à réaliser n'en sont pas dispensés, l'étude
-d'impact définie à l'article R. 122-3, ou, s'il y a lieu, la notice exigée en
-vertu de l'article R. 122-9 ;
+lorsqu'elle est requise en application des articles R. 122-2 et R. 122-3,
+l'étude d'impact définie à l'article R. 122-5 ;
 
 6° L'estimation du coût des mesures, dispositifs et aménagements prévus par le
 4° et celle des frais d'entretien ou d'exploitation qui y sont associés, ainsi

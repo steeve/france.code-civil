@@ -32,3 +32,12 @@ ou la révision de la charte du parc national.
 
 Il établit le rapport annuel d'activité de l'établissement et le soumet pour
 approbation au conseil d'administration.
+
+Il est saisi pour avis par l'autorité compétente pour prendre la décision
+d'autorisation, d'approbation ou d'exécution du projet, du formulaire de demande
+d'examen au cas par cas défini à l'article R. 122-3 ou, le cas échéant, de
+l'étude d'impact définie à l'article R. 122-5, lorsque des travaux, ouvrages ou
+aménagements soumis à ces procédures en vertu de l'article R. 122-2 sont
+envisagés dans le cœur, l'aire d'adhésion ou l'aire maritime adjacente. L'avis
+rendu ne tient pas lieu, sauf mention contraire, de l'avis conforme mentionné au
+II de l'article L. 331-4 ou au III de l'article L. 331-14.

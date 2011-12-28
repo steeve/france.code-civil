@@ -1,29 +1,14 @@
 Article R122-13
 ----
-I.-L'autorité compétente pour prendre la décision d'autorisation, d'approbation
-ou d'exécution des travaux, de l'ouvrage ou de l'aménagement projetés transmet
-le dossier comprenant l'étude d'impact et, le cas échéant, la demande
-d'autorisation, à l'autorité administrative de l'Etat compétente en matière
-d'environnement définie à l'article R. 122-1-1. Le préfet adresse au ministre le
-dossier comprenant l'étude d'impact et, le cas échéant, la demande
-d'autorisation, lorsque ce dernier a pris la décision de se saisir de l'étude en
-application du 5° du II de l'article L. 122-3.
+Un fichier national des études d'impact indique pour chaque projet l'identité du
+pétitionnaire ou du maître d'ouvrage, l'intitulé et la localisation du projet,
+la date de la décision d'autorisation ou d'approbation du projet et l'autorité
+qui a pris la décision, le lieu où l'étude d'impact et la décision
+d'autorisation peuvent être consultées. Il est actualisé par chacune des
+préfectures concernées. Ce fichier est tenu à la disposition du public.
 
-L'autorité administrative de l'Etat compétente en matière d'environnement,
-lorsqu'elle tient sa compétence du I ou du II de l'article R. 122-1-1, donne son
-avis dans les trois mois suivant la date de réception du dossier mentionné au
-premier alinéa et, dans les autres cas, dans les deux mois suivant cette
-réception.L'avis est réputé favorable s'il n'a pas été émis dans ce délai.L'avis
-ou l'information relative à l'existence d'un avis tacite est rendu public par
-voie électronique sur le site internet de l'autorité chargée de le recueillir.
-
-L'autorité compétente pour prendre la décision d'autorisation, d'approbation ou
-d'exécution des travaux, de l'ouvrage ou de l'aménagement projetés transmet
-l'avis au pétitionnaire.L'avis est joint au dossier d'enquête publique ou de la
-procédure équivalente de consultation du public prévue par un texte particulier.
-
-II.-Lorsque les travaux, l'aménagement ou l'ouvrage sont entrepris pour le
-compte des services de la défense nationale, le ministre chargé de la défense
-détermine les modalités de transmission de l'étude d'impact par l'autorité
-chargée d'autoriser ou d'approuver les aménagements ou ouvrages compatibles avec
-le secret de la défense nationale qu'il lui appartient de préserver.
+Lorsque la décision d'autorisation ou d'approbation du projet ne relève pas de
+la compétence d'une autorité de l'Etat, un exemplaire du résumé non technique de
+l'étude d'impact est adressé par l'autorité compétente à la préfecture du
+département du lieu d'implantation du projet, accompagné des informations
+mentionnées au premier alinéa.

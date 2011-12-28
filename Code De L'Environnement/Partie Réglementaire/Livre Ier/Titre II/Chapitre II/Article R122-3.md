@@ -1,50 +1,58 @@
 Article R122-3
 ----
-I. - Le contenu de l'étude d'impact doit être en relation avec l'importance des
-travaux et aménagements projetés et avec leurs incidences prévisibles sur
-l'environnement.
+I.-Pour les projets relevant d'un examen au cas par cas en application de
+l'article R. 122-2, l'autorité administrative de l'Etat compétente en matière
+d'environnement, définie à l'article R. 122-6, examine, au regard des
+informations fournies par le pétitionnaire ou le maître d'ouvrage, si le projet
+doit faire l'objet d'une étude d'impact.
 
-II. - L'étude d'impact présente successivement :
+Les informations demandées au pétitionnaire sont définies dans un formulaire de
+demande d'examen au cas par cas dont le contenu est précisé par arrêté du
+ministre chargé de l'environnement. Ce formulaire comprend notamment :
 
-1° Une analyse de l'état initial du site et de son environnement, portant
-notamment sur les richesses naturelles et les espaces naturels agricoles,
-forestiers, maritimes ou de loisirs, affectés par les aménagements ou ouvrages ;
+-une description des caractéristiques principales du projet, notamment sa
+nature, sa localisation et ses dimensions ;
 
-2° Une analyse des effets directs et indirects, temporaires et permanents du
-projet sur l'environnement, et en particulier sur la faune et la flore, les
-sites et paysages, le sol, l'eau, l'air, le climat, les milieux naturels et les
-équilibres biologiques, sur la protection des biens et du patrimoine culturel
-et, le cas échéant, sur la commodité du voisinage (bruits, vibrations, odeurs,
-émissions lumineuses) ou sur l'hygiène, la santé, la sécurité et la salubrité
-publique ;
+-une description succincte des éléments visés aux 2° et 3° du II de l'article R.
+122-5 susceptibles d'être affectés de manière notable par le projet.
 
-3° Les raisons pour lesquelles, notamment du point de vue des préoccupations
-d'environnement, parmi les partis envisagés qui font l'objet d'une description,
-le projet présenté a été retenu ;
+II.-Ce formulaire est envoyé en deux exemplaires par le pétitionnaire ou le
+maître d'ouvrage par pli recommandé ou par voie électronique à l'autorité
+administrative de l'Etat compétente en matière d'environnement qui en accuse
+réception. Lorsque cette autorité est celle visée par le III de l'article R.
+122-6, le pétitionnaire adresse également une copie du formulaire au service
+régional de l'environnement concerné. A compter de sa réception, l'autorité
+administrative de l'Etat compétente en matière d'environnement dispose d'un
+délai de quinze jours pour demander au pétitionnaire ou au maître d'ouvrage de
+compléter le formulaire. A défaut d'une telle demande dans ce délai, le
+formulaire est réputé complet.
 
-4° Les mesures envisagées par le maître de l'ouvrage ou le pétitionnaire pour
-supprimer, réduire et, si possible, compenser les conséquences dommageables du
-projet sur l'environnement et la santé, ainsi que l'estimation des dépenses
-correspondantes ;
+III.-Dès réception du formulaire complet, l'autorité administrative de l'Etat
+compétente en matière d'environnement, sans délai :
 
-5° Une analyse des méthodes utilisées pour évaluer les effets du projet sur
-l'environnement mentionnant les difficultés éventuelles de nature technique ou
-scientifique rencontrées pour établir cette évaluation ;
+a) Le met en ligne sur son site internet ;
 
-6° Pour les infrastructures de transport, l'étude d'impact comprend en outre une
-analyse des coûts collectifs des pollutions et nuisances et des avantages
-induits pour la collectivité ainsi qu'une évaluation des consommations
-énergétiques résultant de l'exploitation du projet, notamment du fait des
-déplacements qu'elle entraîne ou permet d'éviter.
+b) Transmet un exemplaire au ministre chargé de la santé pour les projets
+mentionnés aux I et II de l'article R. 122-6 ou au directeur général de l'agence
+régionale de santé pour les autres projets et, le cas échéant, à la commission
+spécialisée du comité de massif, qui disposent d'un délai de quinze jours à
+compter de la réception du formulaire pour donner leur avis.
 
-III. - Afin de faciliter la prise de connaissance par le public des informations
-contenues dans l'étude, celle-ci fait l'objet d'un résumé non technique.
+IV.-L'autorité administrative de l'Etat compétente en matière d'environnement
+dispose d'un délai de trente-cinq jours à compter de la réception du formulaire
+complet pour informer, par décision motivée, le pétitionnaire ou le maître
+d'ouvrage de la nécessité ou non de réaliser une étude d'impact. L'absence de
+réponse au terme de ce délai vaut obligation de réaliser une étude d'impact.
 
-IV. - Lorsque la totalité des travaux prévus au programme est réalisée de
-manière simultanée, l'étude d'impact doit porter sur l'ensemble du programme.
-Lorsque la réalisation est échelonnée dans le temps, l'étude d'impact de chacune
-des phases de l'opération doit comporter une appréciation des impacts de
-l'ensemble du programme.
+Cette décision ou, en cas de décision implicite, le formulaire accompagné de la
+mention du caractère tacite de la décision, est publiée sur son site internet.
+Elle figure également dans le dossier soumis à enquête publique ou mis à
+disposition du public conformément à l'article L. 122-1-1.
 
-V. - Des arrêtés interministériels peuvent préciser pour certaines catégories
-d'ouvrages le contenu des dispositions qui précèdent.
+V.-Tout recours contentieux contre la décision imposant la réalisation d'une
+étude d'impact doit, à peine d'irrecevabilité, être précédé d'un recours
+administratif préalable devant l'autorité administrative de l'Etat compétente en
+matière d'environnement qui a pris la décision.
+
+VI.-Ces dispositions s'appliquent sous réserve des dispositions prévues au titre
+Ier du livre V.

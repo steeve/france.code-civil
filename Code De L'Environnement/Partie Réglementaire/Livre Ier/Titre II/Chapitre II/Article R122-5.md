@@ -1,133 +1,157 @@
 Article R122-5
 ----
-Ne sont pas soumis à la procédure de l'étude d'impact, sous réserve des
-dispositions de l'article R. 122-9, les aménagements, ouvrages et travaux
-définis au tableau ci-après, dans les limites et sous les conditions qu'il
-précise.
+I.-Le contenu de l'étude d'impact est proportionné à la sensibilité
+environnementale de la zone susceptible d'être affectée par le projet, à
+l'importance et la nature des travaux, ouvrages et aménagements projetés et à
+leurs incidences prévisibles sur l'environnement ou la santé humaine.
 
-CATÉGORIES D'AMÉNAGEMENTS, D'OUVRAGES ET DE TRAVAUX
+II.-L'étude d'impact présente :
 
+1° Une description du projet comportant des informations relatives à sa
+conception et à ses dimensions, y compris, en particulier, une description des
+caractéristiques physiques de l'ensemble du projet et des exigences techniques
+en matière d'utilisation du sol lors des phases de construction et de
+fonctionnement et, le cas échéant, une description des principales
+caractéristiques des procédés de stockage, de production et de fabrication,
+notamment mis en œuvre pendant l'exploitation, telles que la nature et la
+quantité des matériaux utilisés, ainsi qu'une estimation des types et des
+quantités des résidus et des émissions attendus résultant du fonctionnement du
+projet proposé.
 
-ÉTENDUE DE LA DISPENSE
+Pour les installations relevant du titre Ier du livre V du présent code et les
+installations nucléaires de base relevant du titre IV de la loi n° 2006-686 du
+13 juin 2006 modifiée relative à la transparence et à la sécurité en matière
+nucléaire, cette description pourra être complétée dans le dossier de demande
+d'autorisation en application de l'article R. 512-3 et de l'article 8 du décret
+n° 2007-1557 du 2 novembre 2007 modifié relatif aux installations nucléaires de
+base et au contrôle, en matière de sûreté nucléaire, du transport de substances
+radioactives ;
 
-1 o Ouvrages et travaux sur le domaine public fluvial et maritime.
+2° Une analyse de l'état initial de la zone et des milieux susceptibles d'être
+affectés par le projet, portant notamment sur la population, la faune et la
+flore, les habitats naturels, les sites et paysages, les biens matériels, les
+continuités écologiques telles que définies par l'article L. 371-1, les
+équilibres biologiques, les facteurs climatiques, le patrimoine culturel et
+archéologique, le sol, l'eau, l'air, le bruit, les espaces naturels, agricoles,
+forestiers, maritimes ou de loisirs, ainsi que les interrelations entre ces
+éléments ;
 
-Travaux de modernisation.
+3° Une analyse des effets négatifs et positifs, directs et indirects,
+temporaires (y compris pendant la phase des travaux) et permanents, à court,
+moyen et long terme, du projet sur l'environnement, en particulier sur les
+éléments énumérés au 2° et sur la consommation énergétique, la commodité du
+voisinage (bruits, vibrations, odeurs, émissions lumineuses), l'hygiène, la
+santé, la sécurité, la salubrité publique, ainsi que l'addition et l'interaction
+de ces effets entre eux ;
 
-2 o Voies publiques et privées.
+4° Une analyse des effets cumulés du projet avec d'autres projets connus. Ces
+projets sont ceux qui, lors du dépôt de l'étude d'impact :
 
-Travaux de renforcement et travaux de sécurité, lorsque ces derniers sont
-localisés et d'un montant inférieur à 1 900 000 euros.
+-ont fait l'objet d'un document d'incidences au titre de l'article R. 214-6 et
+d'une enquête publique ;
 
-3 o Etablissements conchylicoles, aquacoles et, d'une manière générale, tous
-établissements de pêche concédés sur le domaine public maritime sauf ceux soumis
-à la réglementation des installations classées pour la protection de
-l'environnement.
+-ont fait l'objet d'une étude d'impact au titre du présent code et pour lesquels
+un avis de l'autorité administrative de l'Etat compétente en matière
+d'environnement a été rendu public.
 
-Tous travaux ou aménagements.
+Sont exclus les projets ayant fait l'objet d'un arrêté au titre des articles R.
+214-6 à R. 214-31 mentionnant un délai et devenu caduc, ceux dont la décision
+d'autorisation, d'approbation ou d'exécution est devenue caduque, dont l'enquête
+publique n'est plus valable ainsi que ceux qui ont été officiellement abandonnés
+par le pétitionnaire ou le maître d'ouvrage ;
 
-4 o Remontées mécaniques.
+5° Une esquisse des principales solutions de substitution examinées par le
+pétitionnaire ou le maître d'ouvrage et les raisons pour lesquelles, eu égard
+aux effets sur l'environnement ou la santé humaine, le projet présenté a été
+retenu ;
 
-Travaux d'installation d'un montant inférieur à 950 000 euros et travaux de
-modernisation.
+6° Les éléments permettant d'apprécier la compatibilité du projet avec
+l'affectation des sols définie par le document d'urbanisme opposable, ainsi que,
+si nécessaire, son articulation avec les plans, schémas et programmes mentionnés
+à l'article R. 122-17, et la prise en compte du schéma régional de cohérence
+écologique dans les cas mentionnés à l'article L. 371-3 ;
 
-5 o Transport et distribution d'électricité.
+7° Les mesures prévues par le pétitionnaire ou le maître de l'ouvrage pour :
 
-Travaux d'installation ou de modernisation des ouvrages de tension inférieure à
-63 kV. Constructions et travaux d'installation ou de modernisation concernant
-les liaisons souterraines de tension inférieure à 225 kV. Constructions et
-travaux d'installation ou de modernisation concernant les liaisons souterraines
-de tension égale à 225 kV et d'une longueur inférieure ou égale à 15 km. Travaux
-d'électrification des voies ferrées.
+-éviter les effets négatifs notables du projet sur l'environnement ou la santé
+humaine et réduire les effets n'ayant pu être évités ;
 
-6 o Réseaux de distribution de gaz.
+-compenser, lorsque cela est possible, les effets négatifs notables du projet
+sur l'environnement ou la santé humaine qui n'ont pu être ni évités ni
+suffisamment réduits. S'il n'est pas possible de compenser ces effets, le
+pétitionnaire ou le maître d'ouvrage justifie cette impossibilité.
 
-Travaux d'installation et de modernisation.
+La description de ces mesures doit être accompagnée de l'estimation des dépenses
+correspondantes, de l'exposé des effets attendus de ces mesures à l'égard des
+impacts du projet sur les éléments visés au 3° ainsi que d'une présentation des
+principales modalités de suivi de ces mesures et du suivi de leurs effets sur
+les éléments visés au 3° ;
 
-7 o Transport de gaz, d'hydrocarbures et de produits chimiques.
+8° Une présentation des méthodes utilisées pour établir l'état initial visé au
+2° et évaluer les effets du projet sur l'environnement et, lorsque plusieurs
+méthodes sont disponibles, une explication des raisons ayant conduit au choix
+opéré ;
 
-Travaux de modernisation des canalisations et ouvrages.
+9° Une description des difficultés éventuelles, de nature technique ou
+scientifique, rencontrées par le maître d'ouvrage pour réaliser cette étude ;
 
-8 o Production d'énergie hydraulique.
+10° Les noms et qualités précises et complètes du ou des auteurs de l'étude
+d'impact et des études qui ont contribué à sa réalisation ;
 
-Travaux d'installation et de modernisation des ouvrages dont la puissance
-maximum n'excède pas 500 kW.
+11° Lorsque certains des éléments requis en application du II figurent dans
+l'étude de maîtrise des risques pour les installations nucléaires de base ou
+dans l'étude des dangers pour les installations classées pour la protection de
+l'environnement, il en est fait état dans l'étude d'impact ;
 
-9 o
+12° Lorsque le projet concourt à la réalisation d'un programme de travaux dont
+la réalisation est échelonnée dans le temps, l'étude d'impact comprend une
+appréciation des impacts de l'ensemble du programme.
 
-(D. n o 2006-649, 2 juin 2006, art. 54) Recherches de mines et de carrières.
+III.-Pour les infrastructures de transport visées aux 5° à 9° du tableau annexé
+à l'article R. 122-2, l'étude d'impact comprend, en outre :
 
-Mines : travaux soumis à déclaration en vertu du décret n o 2006-649 du 2 juin
-2006.
+-une analyse des conséquences prévisibles du projet sur le développement
+éventuel de l'urbanisation ;
 
-Carrières : travaux soumis à autorisation en application des articles 109 et
-109-1 du code minier et du décret n o 97-181 du 28 février 1997 pris pour son
-application.
+-une analyse des enjeux écologiques et des risques potentiels liés aux
+aménagements fonciers, agricoles et forestiers portant notamment sur la
+consommation des espaces agricoles, naturels ou forestiers induits par le
+projet, en fonction de l'ampleur des travaux prévisibles et de la sensibilité
+des milieux concernés ;
 
-10 o Installations classées pour la protection de l'environnement.
+-une analyse des coûts collectifs des pollutions et nuisances et des avantages
+induits pour la collectivité. Cette analyse comprendra les principaux résultats
+commentés de l'analyse socio-économique lorsqu'elle est requise par l'article L.
+1511-2 du code des transports ;
 
-Travaux soumis à déclaration.
+-une évaluation des consommations énergétiques résultant de l'exploitation du
+projet, notamment du fait des déplacements qu'elle entraîne ou permet d'éviter ;
 
-11 o Réseaux d'assainissement, d'évacuation des eaux pluviales et de
-distribution d'eau.
+-une description des hypothèses de trafic, des conditions de circulation et des
+méthodes de calcul utilisées pour les évaluer et en étudier les conséquences.
 
-Travaux d'installation et de modernisation.
+Elle indique également les principes des mesures de protection contre les
+nuisances sonores qui seront mis en œuvre en application des dispositions des
+articles R. 571-44 à R. 571-52.
 
-12 o Réservoirs de stockage d'eau.
+IV.-Afin de faciliter la prise de connaissance par le public des informations
+contenues dans l'étude, celle-ci est précédée d'un résumé non technique des
+informations visées aux II et III. Ce résumé peut faire l'objet d'un document
+indépendant.
 
-Travaux concernant les réservoirs de stockage d'eau sur tour d'une capacité
-inférieure à 1 000 m 3 et les autres réservoirs de stockage d'eau d'une
-superficie inférieure à 10 ha.
+V.-Pour les travaux, ouvrages ou aménagements soumis à autorisation en
+application du titre Ier du livre II, l'étude d'impact vaut document
+d'incidences si elle contient les éléments exigés pour ce document par l'article
+R. 214-6.
 
-13 o Gestion, mise en valeur et exploitation des forêts.
+VI.-Pour les travaux, ouvrages ou aménagements devant faire l'objet d'une étude
+d'incidences en application des dispositions du chapitre IV du titre Ier du
+livre IV, l'étude d'impact vaut étude d'incidences si elle contient les éléments
+exigés par l'article R. 414-23.
 
-Tous travaux et opérations.
-
-14 o Correction des torrents, restauration des terrains en montagne, lutte
-contre les avalanches, fixation des dunes, lutte contre l'incendie.
-
-Tous équipements et ouvrages.
-
-15 o Défrichements soumis aux dispositions du code forestier et premiers
-boisements soumis à autorisation au titre du code rural.
-
-Défrichements et premiers boisements portant sur une superficie inférieure à 25
-hectares.
-
-16 o Réseaux et télécommunications.
-
-Travaux d'installation et de modernisation intéressant les réseaux de câbles ou
-de conducteurs.
-
-17 o Sémaphores régis par la loi du 11 juillet 1933.
-
-Tous travaux.
-
-18 o Terrains de camping.
-
-Travaux d'aménagement de terrains comportant moins de 200 emplacements.
-
-19 o Ouvrages destinés à l'épuration des eaux des collectivités locales.
-
-Ouvrages permettant de traiter un flux de matières polluantes inférieur à celui
-produit par 10 000 habitants au sens de l'article R. 780-3 du code de la santé
-publique.
-
-20 o Production d'énergie éolienne.
-
-Travaux d'installation et de modernisation des ouvrages dont la hauteur du mât
-est inférieure ou égale à 50 mètres.
-
-21 o
-
-(Supprimé à compter du 1 er octobre 2006 par D. n o 2006-880, 17 juill. 2006,
-art. 34, I et 38)
-
-22 o Travaux et ouvrages de défense contre la mer.
-
-Travaux d'une emprise totale inférieure à 2 000 mètres carrés.
-
-23 o Projets d'affectation de terres incultes ou d'étendues semi-naturelles à
-l'exploitation agricole intensive.
-
-Projets portant sur une superficie inférieure à 50 hectares.
+VII.-Pour les installations classées pour la protection de l'environnement
+relevant du titre Ier du livre V du présent code et les installations nucléaires
+de base relevant du titre IV de la loi du 13 juin 2006 susmentionnée, le contenu
+de l'étude d'impact est précisé et complété en tant que de besoin conformément
+aux articles R. 512-6 et R. 512-8 du présent code et à l'article 9 du décret du
+2 novembre 2007 susmentionné.

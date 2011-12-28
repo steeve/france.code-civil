@@ -7,5 +7,6 @@ Corse.
 
 La demande d'autorisation est accompagnée d'un dossier précisant l'objet, les
 motifs, l'étendue de l'opération, d'un plan de situation détaillé, d'un plan
-général des ouvrages à exécuter et d'une étude permettant d'en apprécier les
-conséquences sur le territoire protégé ou son environnement.
+général des ouvrages à exécuter, et d'éléments suffisants permettant d'apprécier
+les conséquences de l'opération sur l'espace protégé et son environnement
+précisés par arrêté du ministre chargé de la protection de la nature.

@@ -44,9 +44,9 @@ Ce document est adapté à l'importance du projet et de ses incidences. Les
 informations qu'il doit contenir peuvent être précisées par un arrêté du
 ministre chargé de l'environnement.
 
-Lorsqu'une étude d'impact ou une notice d'impact est exigée en application des
-articles R. 122-5 à R. 122-9, elle est jointe à ce document, qu'elle remplace si
-elle contient les informations demandées ;
+Lorsqu'une étude d'impact est exigée en application des articles R. 122-2 et R.
+122-3, elle est jointe à ce document, qu'elle remplace si elle contient les
+informations demandées ;
 
 5° Les moyens de surveillance ou d'évaluation des prélèvements et des
 déversements prévus ;

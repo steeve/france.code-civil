@@ -13,9 +13,9 @@ b) L'augmentation de la superficie totale d'un domaine skiable alpin existant,
 dès lors que cette augmentation est supérieure ou égale à 100 hectares ;
 
 2° Des opérations de construction ou d'extension d'hébergements et d'équipements
-touristiques d'une surface de plancher hors oeuvre nette totale supérieure à 12
-000 mètres carrés, à l'exclusion des logements à destination des personnels
-saisonniers ou permanents des équipements et hébergements touristiques ;
+touristiques d'une surface de plancher totale supérieure à 12 000 mètres carrés,
+à l'exclusion des logements à destination des personnels saisonniers ou
+permanents des équipements et hébergements touristiques ;
 
 3° Lorsqu'ils sont soumis à étude d'impact en application de l'article L. 122-1
 du code de l'environnement :
@@ -28,4 +28,5 @@ c) L'aménagement de terrains pour la pratique de sports ou de loisirs motorisé
 ;
 
 d) Les travaux d'aménagement de pistes pour la pratique des sports d'hiver
-alpins, lorsque les pistes ne font pas partie du domaine skiable visé au 1°.
+alpins, situés en site vierge au sens du tableau annexé à l'article R. 122-2 du
+code de l'environnement d'une superficie supérieure à 4 hectares.

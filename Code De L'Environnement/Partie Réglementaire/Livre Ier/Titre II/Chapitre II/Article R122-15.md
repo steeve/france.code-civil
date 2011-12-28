@@ -1,12 +1,17 @@
 Article R122-15
 ----
-L'étude ou la notice d'impact comprise dans le dossier d'enquête préalable à la
-déclaration d'utilité publique d'une infrastructure de transports terrestres
-nouvelle et d'une modification ou transformation significative d'une
-infrastructure existante précise au moins les hypothèses de trafic et de
-conditions de circulation retenues pour déterminer les nuisances sonores
-potentielles de l'infrastructure, les méthodes de calcul utilisées et les
-principes des mesures de protection contre les nuisances sonores qui seront mis
-en oeuvre par les applications locales des dispositions du décret n° 95-22 du 9
-janvier 1995 relatif à la limitation du bruit des aménagements et
-infrastructures de transports terrestres.
+I.-Le suivi des mesures prévues au 1° du I de l'article R. 122-14 consiste en
+une présentation de l'état de réalisation de ces mesures, à travers un ou
+plusieurs bilans, permettant de vérifier le degré d'efficacité et la pérennité
+de ces mesures, sur une période donnée.
+
+II.-Au vu du ou des bilans du suivi des effets du projet sur l'environnement,
+une poursuite de ce suivi peut être envisagée par l'autorité qui a autorisé ou
+approuvé le projet.
+
+III.-Les dispositions du présent article et de l'article R. 122-14 s'appliquent
+sous réserve de dispositions plus contraignantes prévues par d'autres
+réglementations. En particulier, elles ne s'appliquent pas aux installations
+relevant du titre Ier du livre V, ni aux installations relevant de la loi n°
+2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière
+nucléaire.

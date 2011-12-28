@@ -1,84 +1,77 @@
 Article R122-6
 ----
-Ne sont pas soumis à la procédure de l'étude d'impact, sous réserve des
-dispositions de l'article R. 122-9, les aménagements, ouvrages et travaux
-définis au tableau ci-après, dans les limites et sous les conditions qu'il
-précise.
+I.-Sous réserve des dispositions du II, l'autorité administrative de l'Etat
+compétente en matière d'environnement mentionnée à l'article L. 122-1 est le
+ministre chargé de l'environnement :
 
-Catégories d'aménagements, d'ouvrages et de travaux
+1° Pour les projets de travaux, d'ouvrages ou d'aménagements qui donnent lieu à
+une décision d'autorisation, d'approbation ou d'exécution prise par décret ou
+par un ministre ainsi que, sauf disposition réglementaire particulière, pour les
+projets de travaux, d'ouvrages ou d'aménagements qui donnent lieu à une décision
+relevant d'une autorité administrative ou publique indépendante ;
 
+2° Pour tout projet de travaux, d'ouvrages ou d'aménagements faisant l'objet
+d'une étude d'impact dont il décide de se saisir en application du 3° du II de
+l'article L. 122-3, le ministre chargé de l'environnement peut se saisir, de sa
+propre initiative ou sur proposition de toute personne physique ou morale, de
+toute étude d'impact relevant de la compétence du préfet de région en
+application du III du présent article. Il demande alors communication du dossier
+du projet à l'autorité compétente pour prendre la décision d'autorisation,
+d'approbation ou d'exécution de l'ouvrage ou de l'aménagement projeté. A
+réception de cette demande, l'autorité compétente fait parvenir le dossier sous
+quinzaine au ministre chargé de l'environnement, qui dispose d'un délai de deux
+mois à compter de la réception du dossier pour lui donner son avis. Lorsqu'il
+est fait application de cette disposition, les délais d'instruction sont
+prolongés de trois mois au maximum ;
 
-Étendue de la dispense
+3° Pour les projets de travaux, d'ouvrages ou d'aménagements appartenant à un
+programme de travaux au sens du II de l'article L. 122-1 lorsque l'un au moins
+des projets du programme relève de sa compétence en application du 1° ou du 2°
+ci-dessus et qu'aucun des projets du programme ne relève de la compétence de la
+formation d'autorité environnementale du Conseil général de l'environnement et
+du développement durable en application du II ;
 
-1° Constructions soumises à permis de construire dans les communes ou parties de
-communes dotées, à la date du dépôt de la demande, d'un plan local d'urbanisme
-ou d'un plan d'occupation des sols ou d'un document en tenant lieu ayant fait
-l'objet d'une enquête publique.
+4° Pour les projets de travaux, d'ouvrages ou d'aménagements faisant l'objet de
+plusieurs décisions d'autorisation lorsque l'une au moins de ces autorisations
+relève de sa compétence en application du 1° ou du 2° ci-dessus et qu'aucune des
+autorisations ne relève de la compétence de la formation d'autorité
+environnementale du Conseil général de l'environnement et du développement
+durable en application du II.
 
-Toutes constructions à l'exception de celles visées au 7° et aux b, c et d du 9°
-du II de l'article R*. 122-8.
+Le ministre chargé de l'environnement peut déléguer à l'autorité mentionnée au
+II sa compétence pour se prononcer sur certaines catégories de projets.
 
-2° Constructions soumises à permis de construire dans les communes ou parties de
-communes non dotées, à la date du dépôt de la demande, d'un plan local
-d'urbanisme ou d'un plan d'occupation des sols ou d'un document en tenant lieu
-ayant fait l'objet d'une enquête publique.
+II.-L'autorité administrative de l'Etat compétente en matière d'environnement
+mentionnée à l'article L. 122-1 est la formation d'autorité environnementale du
+Conseil général de l'environnement et du développement durable :
 
-Toutes constructions, à l'exception de celles visées au 7° et au 9° du II de
-l'article R*. 122-8.
+1° Pour les projets de travaux, d'ouvrages ou d'aménagements qui donnent lieu à
+une décision du ministre chargé de l'environnement ou à un décret pris sur son
+rapport ;
 
-3° Constructions ou travaux visés aux articles R*. 421-8, R*. 421-9 et R*.
-421-17 du code de l'urbanisme.
+2° Pour les projets qui sont élaborés par les services dans les domaines
+relevant des attributions du même ministre ou sous la maîtrise d'ouvrage
+d'établissements publics relevant de sa tutelle. Pour l'application du présent
+alinéa, est pris en compte l'ensemble des attributions du ministre chargé de
+l'environnement telles qu'elles résultent des textes en vigueur à la date à
+laquelle l'autorité administrative de l'Etat compétente en matière
+d'environnement est saisie ;
 
-Tous constructions et travaux.
+3° Pour les projets de travaux, d'ouvrages ou d'aménagements appartenant à un
+programme de travaux au sens du II de l'article L. 122-1 lorsque l'un au moins
+des projets du programme relève de sa compétence en application du 1° ou du 2°
+ci-dessus ;
 
-4° Lotissements situés dans des communes ou parties de communes dotées, à la
-date du dépôt de la demande, d'un plan local d'urbanisme ou d'un plan
-d'occupation des sols ou d'un document en tenant lieu ayant fait l'objet d'une
-enquête publique.
+4° Pour les projets de travaux, d'ouvrages ou d'aménagements faisant l'objet de
+plusieurs décisions d'autorisation lorsque l'une au moins de ces autorisations
+relève de sa compétence en application du 1°, du 2° ci-dessus.
 
-Tous lotissements.
-
-5° Lotissements situés dans des communes ou parties de communes non dotées, à la
-date du dépôt de la demande, d'un plan local d'urbanisme ou d'un plan
-d'occupation des sols ou d'un document en tenant lieu ayant fait l'objet d'une
-enquête publique.
-
-Lotissements permettant la construction d'une superficie hors oeuvre nette
-inférieure à 5 000 mètres carrés.
-
-6° Affouillements et exhaussements du sol.
-
-Toutes opérations dans les communes couvertes par un plan local d'urbanisme.
-
-7° Coupes et abattages d'arbres soumis à la déclaration prévue à l'article L.
-130-1 du code de l'urbanisme.
-
-Toutes coupes et abattages.
-
-8° Opérations de démolition prévues aux articles R*. 421-26. à R. 421-28 du code
-de l'urbanisme .
-
-Toutes opérations.
-
-9° Aménagement de terrains pour le stationnement de caravanes.
-
-Terrains comportant un nombre d'emplacements inférieur à 200.
-
-10° Garages collectifs de caravanes visés à l'article R*. 421-19 du code de
-l'urbanisme.
-
-Toutes opérations.
-
-11° Parcs d'attractions et aires de jeux ou de sports visés à l'article R*.
-421-19 du code de l'urbanisme.
-
-Tous installations et travaux, à l'exception :- des terrains de golf visés au II
-de l'article R*. 122-8 ;- des bases de plein air et de loisirs d'un montant de 1
-900 000 euros et plus ;- des terrains aménagés pour la pratique de sports ou
-loisirs motorisés visés au II de l'article R*. 122-8.
-
-12° Aires de stationnement et dépôts de véhicules visés à l'article R*. 421-19
-du code de l'urbanisme.
-
-Tous installations et travaux dans les communes couvertes par un plan local
-d'urbanisme.
+III.-Dans les cas ne relevant pas du I ou du II, l'autorité administrative de
+l'Etat compétente en matière d'environnement mentionnée à l'article L. 122-1 est
+le préfet de la région sur le territoire de laquelle le projet de travaux,
+d'ouvrage ou d'aménagement doit être réalisé. Lorsque le projet est situé sur
+plusieurs régions ou lorsqu'il appartient à un programme de travaux au sens du
+II de l'article L. 122-1 situé sur plusieurs régions et ne relevant pas du I ou
+du II ci-dessus, la décision d'examen au cas par cas en application de l'article
+R. 122-3 ou l'avis sont rendus conjointement par les préfets de région
+concernés.

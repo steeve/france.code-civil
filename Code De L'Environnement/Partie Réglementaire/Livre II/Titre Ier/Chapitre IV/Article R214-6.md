@@ -44,9 +44,10 @@ d) Précisant s'il y a lieu les mesures correctives ou compensatoires envisagée
 Les informations que doit contenir ce document peuvent être précisées par un
 arrêté du ministre chargé de l'environnement.
 
-Lorsqu'une étude d'impact ou une notice d'impact est exigée en application des
-articles R. 122-5 à R. 122-9, elle est jointe à ce document, qu'elle remplace si
-elle contient les informations demandées ;
+Lorsqu'une étude d'impact est exigée en application des articles R. 122-2 et R.
+122-3, elle est jointe à ce document, qu'elle remplace si elle contient les
+informations demandées, et est accompagnée de l'avis de l'autorité
+administrative de l'Etat compétente en matière d'environnement ;
 
 5° Les moyens de surveillance prévus et, si l'opération présente un danger, les
 moyens d'intervention en cas d'incident ou d'accident ;

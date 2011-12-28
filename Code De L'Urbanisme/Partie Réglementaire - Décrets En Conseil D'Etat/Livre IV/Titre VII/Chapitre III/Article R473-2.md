@@ -9,10 +9,10 @@ Elle comprend une note descriptive des travaux envisagés indiquant leur nature,
 les aménagements complémentaires de remise en état ou de réhabilitation et leurs
 délais de réalisation. Cette note est accompagnée d'un plan d'exécution coté.
 
-Elle comporte, selon le cas, l'étude d'impact prévue à l'article R. 122-3 du
-code de l'environnement ou la notice d'impact prévue à l'article R. 122-9 de ce
-code, qui précise les mesures de remise en état ou de réhabilitation mentionnées
-à l'alinéa précédent.
+Elle comporte l'étude d'impact définie à l'article R. 122-5 du code de
+l'environnement, lorsque celle-ci est requise en application des articles R.
+122-2 et R. 122-3 du même code, qui précise les mesures de remise en état ou de
+réhabilitation mentionnées à l'alinéa précédent.
 
 Lorsque le projet nécessite la coupe ou l'abattage d'arbres soumis à déclaration
 préalable en application des articles L. 130-1 et L. 421-4 du présent code ou à

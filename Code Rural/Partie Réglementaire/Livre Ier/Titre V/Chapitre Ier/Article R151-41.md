@@ -14,10 +14,9 @@ de l'aménagement ;
 
 Un projet d'arrêté.
 
-Le dossier comprend, s'il y a lieu, l'étude d'impact définie à l'article 2 du
-décret n° 77-1141 du 12 octobre 1977 pris pour l'application de l'article 2 de
-la loi n° 76-629 du 10 juillet 1976 relative à la protection de la nature ou,
-selon les cas, la notice exigée en vertu de l'article 4 du même décret.
+Le dossier comprend également l'étude d'impact définie à l'article R. 122-5 du
+code de l'environnement, lorsque celle-ci est requise en application des
+articles R. 122-2 et R. 122-3 du même code.
 
 Lorsque la participation des intéressés aux dépenses est prévue, le dossier de
 l'enquête comprend en outre :

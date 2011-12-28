@@ -11,6 +11,6 @@ adressée au préfet accompagnée :
 3° D'un plan général des ouvrages à exécuter ou des zones affectées par les
 modifications ;
 
-4° D'une notice d'impact permettant d'apprécier les conséquences de l'opération
-sur le territoire protégé et son environnement. L'étude d'impact imposée au
-titre d'une autre réglementation peut tenir lieu de notice d'impact.
+4° D'éléments suffisants permettant d'apprécier les conséquences de l'opération
+sur l'espace protégé et son environnement, ces éléments sont précisés par arrêté
+du ministre chargé de la protection de la nature.

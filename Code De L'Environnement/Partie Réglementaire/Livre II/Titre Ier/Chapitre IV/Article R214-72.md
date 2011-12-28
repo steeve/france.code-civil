@@ -21,19 +21,18 @@ d) Le volume stockable ;
 
 e) Le débit maintenu dans la rivière ;
 
-4° Une étude d'impact lorsque la puissance maximale brute dépasse 500 kW ; une
-notice d'impact lorsque cette puissance est inférieure ou égale à 500 kW ; ce
-document indique, compte tenu des variations saisonnières et climatiques, les
-incidences de l'opération sur la ressource en eau, le milieu aquatique,
-l'écoulement, le niveau et la qualité des eaux, y compris de ruissellement,
-ainsi que sur chacun des éléments mentionnés à l'article L. 211-1, en fonction
-des procédés mis en oeuvre, des modalités d'exécution des travaux ou de
-l'activité, du fonctionnement des ouvrages ou installations, de la nature, de
-l'origine et du volume des eaux utilisées ou concernées ; il précise, s'il y a
-lieu, les mesures compensatoires ou correctives envisagées et la compatibilité
-du projet avec le schéma directeur ou le schéma d'aménagement et de gestion des
-eaux et avec les objectifs de qualité des eaux prévus par les articles D. 211-10
-à D. 211-11 ;
+4° Une étude d'impact lorsque celle-ci est exigée en vertu des articles R. 122-2
+et R. 122-3 ; ce document indique, compte tenu des variations saisonnières et
+climatiques, les incidences de l'opération sur la ressource en eau, le milieu
+aquatique, l'écoulement, le niveau et la qualité des eaux, y compris de
+ruissellement, ainsi que sur chacun des éléments mentionnés à l'article L.
+211-1, en fonction des procédés mis en oeuvre, des modalités d'exécution des
+travaux ou de l'activité, du fonctionnement des ouvrages ou installations, de la
+nature, de l'origine et du volume des eaux utilisées ou concernées ; il précise,
+s'il y a lieu, les mesures compensatoires ou correctives envisagées et la
+compatibilité du projet avec le schéma directeur ou le schéma d'aménagement et
+de gestion des eaux et avec les objectifs de qualité des eaux prévus par les
+articles D. 211-10 à D. 211-11 ;
 
 5° Un plan des terrains qui seront submergés à la cote de retenue normale ;
 

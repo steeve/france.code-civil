@@ -17,3 +17,11 @@ Il est ordonnateur secondaire des recettes et des dépenses de l'agence.
 Il présente le rapport annuel d'activité.
 
 Il peut déléguer sa signature aux agents placés sous son autorité.
+
+Il est saisi pour avis par l'autorité compétente pour prendre la décision
+d'autorisation, d'approbation ou d'exécution du projet du formulaire de demande
+d'examen au cas par cas défini à l'article R. 122-3 ou, le cas échéant, de
+l'étude d'impact définie à l'article R. 122-5 lorsque des travaux, ouvrages ou
+aménagements soumis à ces procédures en vertu de l'article R. 122-2 sont
+envisagés dans le parc. L'avis rendu ne tient pas lieu, sauf mention contraire,
+de l'avis conforme mentionné à l'article L. 334-5.

@@ -1,44 +1,43 @@
 Article R122-11
 ----
-I. - L'étude d'impact est insérée dans les dossiers soumis à enquête publique
-lorsqu'une telle procédure est prévue.
+I.-La mise à disposition du public prévue par l'article L. 122-1-1 est réalisée
+dans les conditions suivantes :
 
-II. - Il est créé dans chaque préfecture un fichier départemental des études
-d'impact qui indique pour chaque projet l'identité du maître d'ouvrage,
-l'intitulé du projet, la date de la décision d'autorisation ou d'approbation du
-projet et l'autorité qui a pris la décision, le lieu où l'étude d'impact peut
-être consultée. Ce fichier est tenu à la disposition du public.
+1° Huit jours au moins avant le début de la mise à disposition, l'autorité
+compétente pour prendre la décision d'autorisation, d'approbation ou d'exécution
+publie un avis qui fixe :
 
-Lorsque la décision d'autorisation ou d'approbation du projet ne relève pas de
-la compétence d'une autorité de l'Etat, un exemplaire du résumé non technique de
-l'étude d'impact est adressé par l'autorité compétente à la préfecture du
-département du lieu d'implantation du projet, accompagné des informations
-mentionnées à l'alinéa précédent.
+a) La date à compter de laquelle le dossier comprenant les éléments mentionnés à
+l'article L. 122-1-1 est tenu à la disposition du public et la durée pendant
+laquelle il peut être consulté, cette durée ne pouvant être inférieure à quinze
+jours ;
 
-III. - Lorsqu'elle constate qu'un projet est susceptible d'avoir des incidences
-notables sur l'environnement d'un autre Etat, membre de l'Union européenne ou
-partie à la convention du 25 février 1991 sur l'évaluation de l'impact sur
-l'environnement dans un contexte transfrontière signée à Espoo, ou lorsqu'elle
-est saisie par l'Etat affecté par le projet, l'autorité compétente lui notifie
-sans délai l'arrêté d'ouverture de l'enquête publique et lui transmet un
-exemplaire du dossier d'enquête. Le résumé non technique de l'étude d'impact
-mentionné au III de l'article R. 122-3 et l'indication de la façon dont
-l'enquête publique s'insère dans la procédure administrative sont traduits, si
-nécessaire, dans la langue de l'Etat intéressé, les frais de traduction étant à
-la charge du pétitionnaire ou du maître d'ouvrage. La notification de l'arrêté
-d'ouverture d'enquête fixe également le délai dont disposent les autorités de
-cet Etat pour manifester leur intention de participer à l'enquête publique.
-L'enquête publique ne peut commencer avant l'expiration de ce délai.
+b) Les lieux, jours et heures où le public peut prendre connaissance du dossier
+et formuler ses observations sur un registre ouvert à cet effet ;
 
-Le ministre des affaires étrangères est informé au préalable par l'autorité
-compétente. Si celle-ci est une collectivité territoriale, elle fait transmettre
-le dossier par le préfet.
+2° L'avis mentionné au 1° est publié par voie d'affiches sur les lieux du
+projet, dans les communes intéressées, dans au moins deux journaux régionaux ou
+locaux diffusés dans le ou les départements concernés et sur le site internet de
+l'autorité compétente pour prendre la décision d'autorisation, d'approbation ou
+d'exécution lorsqu'elle dispose d'un tel site. Pour les projets d'importance
+nationale, ledit avis est, en outre, publié dans au moins deux journaux à
+diffusion nationale quinze jours au moins avant la date à compter de laquelle
+l'étude d'impact est mise à la disposition du public ;
 
-L'autorité compétente pour prendre la décision d'autorisation ou d'approbation
-du projet adresse aux autorités de l'Etat concerné le contenu de la décision
-accompagné des informations prévues par l'article L. 122-1 et par l'article R.
-122-16.
+3° Le pétitionnaire ou le maître d'ouvrage dresse le bilan de la mise à
+disposition du public et le tient à la disposition du public selon des procédés
+qu'il détermine. Lorsque le projet est soumis à autorisation ou approbation, ce
+bilan est adressé préalablement à l'autorité compétente ;
 
-Les délais prévus par les procédures réglementaires applicables aux projets en
-cause sont augmentés, le cas échéant, pour tenir compte du délai de consultation
-des autorités étrangères.
+4° Le pétitionnaire ou le maître d'ouvrage assume les frais afférents à ces
+différentes mesures de publicité.
+
+II.-Lorsque les ouvrages sont entrepris pour le compte des services de la
+défense nationale, le ministre de la défense organise l'information et la
+consultation du public selon des modalités compatibles avec le secret de la
+défense nationale qu'il lui appartient de préserver.
+
+III.-Le bilan de la consultation fait par le pétitionnaire ou le maître
+d'ouvrage est mis en ligne sur le site internet de l'autorité compétente pour
+prendre la décision d'autorisation, d'approbation ou d'exécution lorsqu'elle
+dispose d'un tel site.

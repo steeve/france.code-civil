@@ -13,9 +13,8 @@ et de l'article L. 121-10 du code de l'urbanisme ;
 l'urbanisme, lorsqu'elles permettent la réalisation de travaux, ouvrages ou
 aménagements soumis aux obligations définies par l'article L. 414-4 ;
 
-3° Les travaux et projets devant faire l'objet d'une étude ou d'une notice
-d'impact au titre des articles L. 122-1 à L. 122-3 et des articles R. 122-1 à R.
-122-16 ;
+3° Les travaux et projets devant faire l'objet d'une étude d'impact au titre des
+articles R. 122-2 et R. 122-3 ;
 
 4° Les installations, ouvrages, travaux et activités soumis à autorisation ou
 déclaration au titre des articles L. 214-1 à L. 214-11 ;
@@ -53,12 +52,12 @@ L. 11 de ce code ;
 431-2 du code forestier, lorsqu'elles sont localisées en site Natura 2000 ;
 
 13° Les délimitations d'aires géographiques de production prévues à l'article L.
-641-6 du code rural et de la pêche maritime , dès lors que ces aires sont
+641-6 du code rural et de la pêche maritime, dès lors que ces aires sont
 localisées en site Natura 2000 et qu'elles concernent une production viticole ;
 
 14° Les traitements aériens soumis à déclaration préalable prévus à l'article 2
 de l'arrêté du 5 mars 2004 relatif à l'utilisation par voie aérienne de produits
-mentionnés à l'article L. 253-1 du code rural et de la pêche maritime , à
+mentionnés à l'article L. 253-1 du code rural et de la pêche maritime, à
 l'exception des cas d'urgence ;
 
 15° La délimitation des zones de lutte contre les moustiques prévues à l'article

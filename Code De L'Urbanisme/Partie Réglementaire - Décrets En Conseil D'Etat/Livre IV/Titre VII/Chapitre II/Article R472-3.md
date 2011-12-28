@@ -38,5 +38,6 @@ usagers de la remontée mécanique ;
 9° Une note sur les risques naturels et technologiques prévisibles et les
 dispositions principales prévues pour y faire face ;
 
-10° L'étude ou la notice d'impact prévue, selon le cas, par l'article R. 122-3
-ou R. 122-9 du code de l'environnement.
+10° L'étude d'impact définie à l'article R. 122-5 du code de l'environnement,
+lorsque celle-ci est requise en application des articles R. 122-2 et R. 122-3 du
+même code.
