@@ -18,9 +18,9 @@ III. ― Les marchés et accords-cadres peuvent aussi être passés selon la
 procédure adaptée décrite à l'article 203 lorsque le montant estimé du besoin
 est inférieur aux seuils suivants :
 
-1° 387 000 € hors taxe pour les marchés de fournitures et les services ;
+1° 400 000 € hors taxe pour les marchés de fournitures et les services ;
 
-2° 4 845 000 € hors taxe pour les marchés de travaux.
+2° 5 000 000 € hors taxe pour les marchés de travaux.
 
 IV. ― La procédure adaptée peut également être mise en œuvre :
 

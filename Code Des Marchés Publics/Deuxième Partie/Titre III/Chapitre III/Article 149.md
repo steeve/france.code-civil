@@ -1,7 +1,7 @@
 Article 149
 ----
 I.-A partir du seuil de 750 000 euros HT pour les fournitures et les services et
-de 4 845 000 euros HT pour les travaux, un avis périodique indicatif, conforme
+de 5 000 000 euros HT pour les travaux, un avis périodique indicatif, conforme
 au modèle fixé par le règlement de la Commission européenne établissant les
 formulaires standard pour la publication d'avis en matière de marchés publics,
 peut être, au moins une fois par an, soit adressé pour publication à l'Office

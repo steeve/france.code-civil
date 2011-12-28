@@ -4,7 +4,7 @@ I. ― Les dispositions du présent chapitre régissant les collectivités
 territoriales sont applicables aux établissements publics locaux.
 
 II. ― La collectivité territoriale qui se propose de conclure un contrat de
-concession de travaux publics d'un montant égal ou supérieur à 4 845 000 € HT
+concession de travaux publics d'un montant égal ou supérieur à 5 000 000 € HT
 fait connaître son intention au moyen d'un avis conforme au modèle fixé par le
 règlement communautaire pris à cette fin.
 

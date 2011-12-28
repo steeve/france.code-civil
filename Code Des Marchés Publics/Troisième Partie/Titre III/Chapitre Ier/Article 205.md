@@ -11,7 +11,7 @@ II. ― Toutefois :
 41 ne sont pas applicables ;
 
 2° Lorsque le montant estimé des prestations demandées est égal ou supérieur à
-387 000 € HT, elles sont définies conformément aux dispositions de l'article 186
+400 000 € HT, elles sont définies conformément aux dispositions de l'article 186
 et le marché fait l'objet d'un avis d'attribution dans les conditions fixées à
 l'article 257 ;
 

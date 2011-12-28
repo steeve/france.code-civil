@@ -2,7 +2,7 @@ Article 172
 ----
 I. - Pour les marchés et les accords-cadres donnant lieu à l'une des procédures
 formalisées et pour les marchés de services relevant de l'article 148 d'un
-montant égal ou supérieur à 387 000 euros HT, l'entité adjudicatrice envoie pour
+montant égal ou supérieur à 400 000 euros HT, l'entité adjudicatrice envoie pour
 publication, dans un délai de deux mois à compter de la notification du marché
 ou de l'accord-cadre, un avis d'attribution. L'entité adjudicatrice est
 dispensée d'envoyer un avis d'attribution pour les marchés fondés sur un
@@ -26,7 +26,7 @@ la Commission européenne établissant les formulaires standard pour la
 publication d'avis en matière de marchés publics.
 
 IV. - Pour les marchés relevant de l'article 148 d'un montant égal ou supérieur
-à 387 000 euros HT, l'entité adjudicatrice adresse un avis d'attribution à
+à 400 000 euros HT, l'entité adjudicatrice adresse un avis d'attribution à
 l'Office des publications officielles de l'Union européenne et au Bulletin
 officiel des annonces des marchés publics en indiquant si elle en accepte la
 publication.
