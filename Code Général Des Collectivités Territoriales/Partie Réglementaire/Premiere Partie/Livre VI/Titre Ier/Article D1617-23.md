@@ -23,4 +23,4 @@ arrêté du ministre en charge du budget, du bordereau récapitulant les titres 
 recettes emporte attestation du caractère exécutoire des pièces justifiant les
 recettes concernées et rend exécutoires les titres de recettes qui y sont joints
 conformément aux dispositions des articles L. 252 A du livre des procédures
-fiscales et des articles R. 2342-4 et D. 3342-11 du présent code.
+fiscales et des articles R. 2342-4, R. 3342-8-1 et R. 4341-4 du présent code.

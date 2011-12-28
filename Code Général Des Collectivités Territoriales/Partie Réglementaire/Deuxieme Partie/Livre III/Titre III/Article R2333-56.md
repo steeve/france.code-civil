@@ -7,5 +7,5 @@ par l'article R. 2333-53 donne lieu à l'application d'un intérêt de retard é
 Cette indemnité de retard donne lieu à l'émission d'un titre de recettes adressé
 par le maire au receveur municipal.
 
-En cas de non-paiement, les poursuites sont effectuées comme en matière de
-contributions directes.
+En cas de non-paiement, les mesures d'exécution forcée sont effectuées comme en
+matière de contributions directes.

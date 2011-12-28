@@ -21,12 +21,13 @@ IV.-Lorsqu'il entre dans les pouvoirs du mandataire de poursuivre l'exécution
 forcée et de pratiquer les mesures conservatoires au nom et pour le compte du
 mandant, l'ordonnateur du mandataire doté d'un comptable public émet les titres
 de recettes exécutoires et, après autorisation du même ordonnateur, le comptable
-du mandataire procède aux poursuites comme en matière de contributions directes.
-Le mandataire qui n'est pas doté d'un comptable public ne peut se prévaloir d'un
-titre exécutoire émis par le mandant. Muni de l'un des titres exécutoires
-mentionnés aux 1° à 5° de l'article 3 de la loi n° 91-650 du 9 juillet 1991
-portant réforme des procédures civiles d'exécution, il en poursuit l'exécution
-forcée selon les règles du droit commun applicable en la matière.
+du mandataire procède aux mesures d'exécution forcée comme en matière de
+contributions directes. Le mandataire qui n'est pas doté d'un comptable public
+ne peut se prévaloir d'un titre exécutoire émis par le mandant. Muni de l'un des
+titres exécutoires mentionnés aux 1° à 5° de l'article 3 de la loi n° 91-650 du
+9 juillet 1991 portant réforme des procédures civiles d'exécution, il en
+poursuit l'exécution forcée selon les règles du droit commun applicable en la
+matière.
 
 V.-Lorsqu'il entre dans les pouvoirs du mandataire de recouvrer des recettes ou
 de procéder à des dépenses, la reddition des comptes intervient dans des délais
@@ -45,7 +46,8 @@ la balance générale des comptes ;
 
 4° L'état des créances demeurées impayées établies par débiteur et par nature de
 produit. Pour chaque créance impayée, le mandataire précise, le cas échéant, les
-relances qu'il a accomplies et les poursuites qu'il a diligentées ;
+relances qu'il a accomplies et les mesures d'exécution forcée qu'il a
+diligentées ;
 
 5° Les pièces justificatives des opérations retracées dans la reddition des
 comptes. Pour les dépenses, ces pièces justificatives, reconnues exactes par la
