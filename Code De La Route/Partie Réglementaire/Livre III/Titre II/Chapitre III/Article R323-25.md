@@ -15,3 +15,5 @@ plus tard un an après la date de leur première mise en circulation.
 
 Les véhicules mentionnés au présent article sont ensuite soumis à des contrôles
 techniques périodiques renouvelés tous les ans.
+
+Pour les véhicules de collection, cette périodicité est portée à cinq ans.

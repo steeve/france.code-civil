@@ -17,10 +17,10 @@ même temporaire, d'exercer ;
 
 3° Une preuve de ses qualifications professionnelles ;
 
-4° Lorsque la profession de contrôleur technique n'est pas réglementée dans
-l'Etat d'établissement, la preuve par tout moyen que le prestataire a exercé
-cette profession pendant au moins deux années au cours des dix années précédant
-la prestation ;
+4° Lorsque la profession de contrôleur technique ou la formation y conduisant
+n'est pas réglementée dans l'Etat d'établissement, la preuve par tout moyen que
+le prestataire a exercé cette profession pendant au moins deux années au cours
+des dix années précédant la prestation ;
 
 5° Une copie du contrat de travail ou une lettre d'engagement du centre de
 contrôle employeur.
