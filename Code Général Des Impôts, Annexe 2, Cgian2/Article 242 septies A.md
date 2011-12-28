@@ -2,18 +2,10 @@ Article 242 septies A
 ----
 1. Les entreprises soumises au régime simplifié d'imposition des taxes sur le
 chiffre d'affaires qui clôturent leur exercice au terme d'un mois autre que
-celui de décembre peuvent, au cours des trois premiers mois d'un exercice, opter
-pour le dépôt, dans les trois mois qui suivent sa clôture, d'une déclaration
-conforme au modèle prescrit par l'administration et faisant ressortir les taxes
-sur le chiffre d'affaires dues au titre de cet exercice. Cette déclaration se
-substitue à celle prévue à l'article 242 sexies.
-
-L'option est formulée par lettre recommandée avec avis de réception adressée au
-service local des impôts. Elle est valable pour l'exercice au cours duquel elle
-est formulée et reconduite tacitement pour chacun des exercices suivants. Elle
-peut être dénoncée par lettre recommandée avec avis de réception adressée au
-service local des impôts dans le délai d'un mois qui suit la clôture de
-l'exercice couvert par cette option.
+celui de décembre doivent déposer, dans les trois mois qui suivent sa clôture,
+une déclaration conforme au modèle prescrit par l'administration et faisant
+ressortir les taxes sur le chiffre d'affaires dues au titre de cet exercice.
+Cette déclaration se substitue à celle prévue à l'article 242 sexies.
 
 2. La déclaration annuelle, déposée dans le délai prévu au 1, détermine les
 acomptes ultérieurement exigibles selon la périodicité suivante :
