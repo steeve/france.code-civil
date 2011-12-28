@@ -8,9 +8,11 @@ Afin d'associer l'Etat, le département, les communes, les établissements publi
 de coopération intercommunale et les syndicats mixtes chargés de l'élaboration
 et de l'approbation des schémas de cohérence territoriale en application de
 l'article L. 122-4 du code de l'urbanisme et, le cas échéant, les chambres
-d'agriculture, les chambres de commerce et d'industrie territoriales et les
-chambres de métiers et de l'artisanat de région à l'élaboration du schéma
-d'aménagement régional, participent aux travaux de cette commission :
+d'agriculture, les chambres de commerce et d'industrie territoriales, les
+chambres de métiers et de l'artisanat de région et les organismes de gestion des
+parcs nationaux, des parcs naturels régionaux et des parcs naturels marins à
+l'élaboration du schéma d'aménagement régional, participent aux travaux de cette
+commission :
 
 1° Le préfet de région ou son représentant ;
 
@@ -28,7 +30,15 @@ commerce et d'industrie territoriales, des chambres de métiers et de l'artisana
 de région, si elles en font la demande ;
 
 5° Un représentant de chacune des organisations professionnelles qui en font la
-demande.
+demande ;
+
+6° Le président du conseil d'administration de l'établissement public du parc
+national ;
+
+7° Le président du conseil d'administration du syndicat mixte de gestion du parc
+naturel régional ;
+
+8° Le président du conseil de gestion du parc naturel marin.
 
 En même temps que chaque membre de la commission, est désigné, selon les mêmes
 modalités, un suppléant ayant vocation à le remplacer en cas d'absence ou

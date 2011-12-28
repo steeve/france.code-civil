@@ -39,4 +39,6 @@ notamment de son président et de ses membres représentant les services de l'Et
 et les collectivités territoriales concernés, les chambres d'agriculture, les
 organisations syndicales d'exploitants agricoles à vocation générale
 représentatives au niveau départemental et les associations de protection de la
-nature.
+nature. Elle entend le directeur de l'établissement public du parc national
+lorsque le cœur du parc national ou le territoire des communes ayant vocation à
+adhérer à la charte est concerné.

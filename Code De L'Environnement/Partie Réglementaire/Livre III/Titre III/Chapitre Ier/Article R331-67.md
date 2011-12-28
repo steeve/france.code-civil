@@ -7,7 +7,10 @@ infraction à la réglementation applicable au coeur du parc :
 matériaux ou tout autre objet de quelque nature que ce soit à l'aide d'un
 véhicule ;
 
-2° De circuler ou de stationner avec un véhicule terrestre à moteur ;
+2° De circuler ou, le cas échéant, de stationner avec tout type de véhicule
+terrestre ou maritime à moteur, y compris un véhicule nautique à moteur au sens
+du décret n° 96-611 du 4 juillet 1996 relatif à la mise sur le marché des
+bateaux de plaisance et des pièces et éléments d'équipement ;
 
 3° D'emporter en dehors du coeur de parc national, mettre en vente, vendre ou
 acheter des animaux non domestiques, des végétaux non cultivés, quel que soit

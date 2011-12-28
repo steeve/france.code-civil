@@ -15,13 +15,19 @@ d'une part un document graphique qui délimite les espaces maritimes compris dan
 le coeur du parc national et ceux qui forment l'aire maritime adjacente,
 accompagné de l'indication des coordonnées géographiques correspondantes, et
 d'autre part un document indiquant les objectifs de protection et les
-orientations prévus pour ces espaces ;
+orientations prévus pour ces espaces ; les directions départementales des
+territoires et de la mer et les directions interrégionales de la mer ou,
+outre-mer, les directions de l'environnement, de l'aménagement et du logement et
+les directions de la mer territorialement compétentes pour les espaces maritimes
+du parc figurent parmi les lieux d'enquête ;
 
 3° Aux avis, mentionnés à l'article R. 331-9, au vu desquels le ministre arrête
 le projet de charte sont ajoutés l'avis du représentant de l'Etat en mer et
 l'avis du préfet de région compétent en matière de pêche maritime ;
 
 4° Aux mesures d'information du public prévues par l'article R. 331-12 s'ajoute
-l'affichage du décret de création dans les directions départementales de
-l'équipement et les directions départementales des affaires maritimes
-territorialement compétentes pour les espaces maritimes du parc.
+l'affichage du décret de création dans les directions départementales des
+territoires et de la mer et les directions interrégionales de la mer ou,
+outre-mer, les directions de l'environnement, de l'aménagement et du logement et
+les directions de la mer territorialement compétentes pour les espaces maritimes
+du parc.

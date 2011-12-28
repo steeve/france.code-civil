@@ -6,8 +6,8 @@ ans à compter de l'approbation de la charte s'ils sont antérieurs à celle-ci,
 avec les objectifs de protection définis par cette dernière pour le coeur du
 parc sont les suivants :
 
-1° Le document de gestion de l'espace agricole et forestier prévu par l'article
-L. 112-1 du code rural et de la pêche maritime ;
+1° Le plan régional de l'agriculture durable prévu par l'article L. 111-2-1 du
+code rural et de la pêche maritime ;
 
 2° Le schéma départemental de vocation piscicole prévu par l'article L. 433-2 du
 présent code ;
@@ -71,7 +71,10 @@ l'article L. 131-7 du code du tourisme ;
 
 20° Le schéma de mise en valeur de la mer prévu par l'article 57 de la loi n°
 83-8 du 7 janvier 1983 modifiée relative à la répartition de compétences entre
-les communes, les départements, les régions et l'Etat.
+les communes, les départements, les régions et l'Etat ;
+
+21° Le schéma régional de développement de l'aquaculture marine prévu par
+l'article L. 923-1-1 du code rural et de la pêche maritime.
 
 II.-Lorsque les projets de ces documents sont soumis pour avis à l'établissement
 public du parc national en application du troisième alinéa du III de l'article
