@@ -1,6 +1,6 @@
 Article 18
 ----
-Pour l'année 2011, les limites de chaque tranche du tarif de la retenue à la
+Pour l'année 2012, les limites de chaque tranche du tarif de la retenue à la
 source applicable aux traitements, salaires, pensions et rentes viagères servis
 à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées
 comme suit :
@@ -10,34 +10,17 @@ LIMITE DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS
 
 Taux applicables
 
+Année (en euros)
 
-Année
+Trimestre (en euros)
 
-(en euros)
+Mois (en euros)
 
+Semaine (en euros)
 
-Trimestre
+Jour ou fraction de jour (en euros)
 
-(en euros)
-
-
-Mois
-
-(en euros)
-
-
-Semaine
-
-(en euros)
-
-
-Jour ou fraction de jour
-
-(en euros)
-
-0 %
-
-- moins de
+0 % - moins de
 
 14 245
 
@@ -49,9 +32,7 @@ Jour ou fraction de jour
 
 46
 
-12 %
-
-- de
+12 % - de
 
 14 245
 
@@ -75,9 +56,7 @@ Jour ou fraction de jour
 
 132
 
-20 %
-
-- au-delà de
+20 % - au-delà de
 
 41 327
 
