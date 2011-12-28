@@ -1,10 +1,11 @@
 Article D112-2
 ----
 Les activités mentionnées dans la seconde phrase du premier alinéa de l'article
-L. 112-2 du code monétaire et financier sont les activités commerciales y
-compris celles exercées par les artisans.
+L. 112-2 du code monétaire et financier sont les activités commerciales et les
+activités artisanales.
 
-Sont exclues du champ d'application du présent article les activités
-commerciales exercées dans des locaux à usage exclusif de bureaux, y compris les
-plates-formes logistiques, ainsi que les activités industrielles au sens de
-l'article L. 110-1 (5°) du code de commerce.
+Les activités mentionnées au deuxième alinéa de l'article L. 112-2 sont les
+activités tertiaires autres que les activités commerciales et artisanales
+mentionnées au premier alinéa du présent article. Elles recouvrent notamment les
+activités des professions libérales et celles effectuées dans des entrepôts
+logistiques.
