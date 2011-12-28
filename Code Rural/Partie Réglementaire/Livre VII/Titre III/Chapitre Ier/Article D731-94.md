@@ -4,7 +4,7 @@ Le taux de la cotisation affectée à la couverture des dépenses complémentair
 des assurances maladie, invalidité et maternité pour les chefs d'exploitation ou
 d'entreprise agricole exerçant à titre exclusif ou principal et assise sur les
 revenus professionnels ou l'assiette forfaitaire définis aux articles L. 731-14
-à L. 731-21 est fixé à 2,71 %.
+à L. 731-21 est fixé à 2,67 %.
 
 La cotisation dont sont redevables les chefs d'exploitation ou d'entreprise
 agricole exerçant à titre exclusif ou principal due pour les associés
