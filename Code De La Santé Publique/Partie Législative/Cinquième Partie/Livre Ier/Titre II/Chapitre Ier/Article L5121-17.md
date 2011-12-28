@@ -19,8 +19,14 @@ autorisation.
 
 L'assiette de la taxe est constituée par le montant des ventes de chaque
 médicament ou produit réalisées au cours de l'année civile précédente, à
-l'exclusion des ventes à l'exportation. Le barème de la taxe comporte au moins
-cinq tranches.
+l'exclusion des ventes à l'exportation. Les revendeurs indiquent au titulaire de
+l'autorisation de mise sur le marché les quantités revendues ou destinées à être
+revendues en dehors du territoire national pour une liste de produits fixée par
+arrêté et dans des conditions définies par une convention tripartite passée
+entre l'Etat, un ou plusieurs syndicats ou organisations représentant les
+entreprises fabriquant ou exploitant des médicaments et un ou plusieurs
+syndicats ou organisations représentant les grossistes-répartiteurs. Le barème
+de la taxe comporte au moins cinq tranches.
 
 Lorsqu'un médicament ou produit est présenté en plusieurs conditionnements d'une
 contenance différente, c'est le montant total des ventes du médicament ou
