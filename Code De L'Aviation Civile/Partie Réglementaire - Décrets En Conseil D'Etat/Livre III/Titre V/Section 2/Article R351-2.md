@@ -6,11 +6,8 @@ ne relevant pas du ministère chargé de la défense, ces transports donnent lie
 remboursement dans des conditions fixées par un arrêté pris par le ministre
 chargé de la défense et le ministre chargé du budget.
 
-Les sommes dues au titre de ces remboursements sont versées à concurrence de 70
-% au compte des reversements de fonds sur les dépenses des ministères et pour le
-surplus, soit 30 %, aux produits divers du budget. Les sommes imputées au compte
-des reversements de fonds sur les dépenses des ministères sont rétablies au
-chapitre intéressé du budget au ministère de la défense.
+Les sommes dues au titre de ces remboursements sont rétablies au programme
+budgétaire concerné du ministère chargé de la défense.
 
 En vue de couvrir la responsabilité civile éventuelle de l'Etat, encourue par le
 fait ou à l'occasion de ces transports, le ministre chargé de la défense est
