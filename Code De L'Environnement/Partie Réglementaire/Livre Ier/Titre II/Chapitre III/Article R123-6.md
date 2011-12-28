@@ -1,42 +1,23 @@
 Article R123-6
 ----
-Le dossier soumis à l'enquête publique comprend les pièces suivantes, qui
-peuvent être regroupées en tant que de besoin :
+La durée de l'enquête publique est fixée par l'autorité compétente pour ouvrir
+et organiser l'enquête. Cette durée ne peut être inférieure à trente jours et ne
+peut excéder deux mois, sauf le cas où les dispositions des articles R. 123-22
+ou R. 122-23 sont mises en œuvre.
 
-I. - Lorsque l'opération n'est pas soumise à décision d'autorisation ou
-d'approbation :
+Toutefois, par décision motivée, le commissaire enquêteur ou le président de la
+commission d'enquête peut, après information de l'autorité compétente pour
+ouvrir et organiser l'enquête, prolonger celle-ci pour une durée maximale de
+trente jours, notamment lorsqu'il décide d'organiser une réunion d'information
+et d'échange avec le public durant cette période de prolongation de l'enquête.
 
-1° Une notice explicative indiquant :
+Sa décision doit être notifiée à l'autorité compétente pour ouvrir et organiser
+l'enquête au plus tard huit jours avant la fin de l'enquête. Elle est portée à
+la connaissance du public, au plus tard à la date prévue initialement pour la
+fin de l'enquête, par un affichage réalisé dans les conditions de lieu prévues
+au II de l'article R. 123-11 ainsi que, le cas échéant, par tout autre moyen
+approprié.
 
-a) L'objet de l'enquête ;
-
-b) Les caractéristiques les plus importantes de l'opération soumise à enquête ;
-
-c) Lorsque l'étude d'impact n'est pas requise : les raisons pour lesquelles,
-notamment du point de vue de l'environnement, parmi les partis envisagés par le
-maître de l'ouvrage, le projet soumis à enquête a été retenu ;
-
-2° L'étude d'impact ou la notice d'impact lorsque l'une ou l'autre est requise ;
-
-3° Le plan de situation ;
-
-4° Le plan général des travaux ;
-
-5° Les caractéristiques principales des ouvrages les plus importants ;
-
-6° Lorsque le maître de l'ouvrage est une personne publique, l'appréciation
-sommaire des dépenses, y compris le coût des acquisitions immobilières ;
-
-7° La mention des textes qui régissent l'enquête publique en cause et
-l'indication de la façon dont cette enquête s'insère dans la procédure
-administrative relative à l'opération considérée ;
-
-8° Lorsqu'ils sont rendus obligatoires par un texte législatif ou réglementaire,
-les avis émis par une autorité administrative sur le projet d'opération.
-
-II. - Lorsque l'opération est soumise à décision d'autorisation ou d'approbation
-:
-
-1° Le dossier prévu par la réglementation relative à l'opération projetée ;
-
-2° Les pièces visées aux 2°, 7° et 8° du I ci-dessus.
+Lorsqu'il est fait application des dispositions des deux précédents alinéas du
+présent article, l'accomplissement des formalités prévues à l'article R. 123-18
+est reporté à la clôture de l'enquête ainsi prorogée.

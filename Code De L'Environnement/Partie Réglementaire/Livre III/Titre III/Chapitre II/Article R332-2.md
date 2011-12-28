@@ -1,8 +1,8 @@
 Article R332-2
 ----
 Le projet est soumis par le préfet à une enquête publique dans les formes
-prévues par le code de l'expropriation pour cause d'utilité publique, sous
-réserve des dispositions des articles R. 332-4 à R. 332-8.
+prévues par les articles R. 123-4 à R. 123-27, sous réserve des dispositions des
+articles R. 332-4 à R. 332-8.
 
 Simultanément, le préfet recueille l'avis des administrations civiles et
 militaires intéressées, ainsi que celui de l'Office national des forêts lorsque

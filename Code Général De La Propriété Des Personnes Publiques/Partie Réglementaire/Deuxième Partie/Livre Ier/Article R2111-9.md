@@ -1,9 +1,9 @@
 Article R2111-9
 ----
-L'arrêté prévu à l'article R. 11-4 du code de l'expropriation pour cause
-d'utilité publique fixe, en outre, la date de la ou des réunions sur les lieux
-faisant l'objet de la délimitation, organisées par le service de l'Etat chargé
-du domaine public maritime.
+L'arrêté prévu à l'arrêté prévu à l'article R. 123-9 du code de l'environnement
+fixe, en outre, la date de la ou des réunions sur les lieux faisant l'objet de
+la délimitation, organisées par le service de l'Etat chargé du domaine public
+maritime.
 
 Le commissaire enquêteur ou les membres de la commission d'enquête, les services
 intéressés et les maires des communes sur le territoire desquelles a lieu la

@@ -1,16 +1,20 @@
 Article R123-27
 ----
-Le préfet saisit, en vue de la désignation d'un commissaire enquêteur ou d'une
-commission d'enquête, le président du tribunal administratif dans le ressort
-duquel le projet est susceptible d'avoir les incidences les plus notables et lui
-adresse, à cette fin, une demande précisant l'objet de l'enquête ainsi que la
-période d'enquête retenue.
+Dès la nomination du ou des commissaires enquêteurs, le responsable du projet,
+plan ou programme verse une provision, dont le montant et le délai de versement
+sont fixés par le président du tribunal administratif ou le conseiller délégué à
+cet effet.
 
-Le président du tribunal administratif ou le membre du tribunal délégué par lui
-à cet effet désigne dans un délai de quinze jours un commissaire enquêteur ou
-les membres, en nombre impair, d'une commission d'enquête parmi lesquels il
-choisit un président.
+La personne responsable du projet, plan ou programme peut s'acquitter des
+obligations résultant de l'alinéa précédent en versant annuellement au fonds
+d'indemnisation des commissaires enquêteurs un acompte à valoir sur les sommes
+dues et en attestant, à l'ouverture de chaque enquête effectuée à sa demande,
+que cet acompte garantit le paiement de celles-ci.
 
-Un ou plusieurs suppléants peuvent être désignés dans les conditions prévues au
-présent article ; ils remplacent les titulaires en cas d'empêchement de ces
-derniers et exercent alors leurs fonctions jusqu'au terme de la procédure.
+Le président du tribunal administratif ou le conseiller délégué par lui à cette
+fin peut, soit au début de l'enquête, soit au cours de celle-ci ou après le
+dépôt du rapport d'enquête, accorder au commissaire enquêteur, sur sa demande,
+une allocation provisionnelle. Cette décision ne peut faire l'objet d'aucun
+recours. L'allocation est versée par le fonds d'indemnisation des commissaires
+enquêteurs dans la limite des sommes perçues de la personne responsable du
+projet, plan ou programme.

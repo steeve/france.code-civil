@@ -1,14 +1,12 @@
 Article R123-12
 ----
-Il est créé un fonds, dénommé fonds d'indemnisation des commissaires enquêteurs,
-chargé de verser à ceux-ci, dans les conditions prévues par le présent chapitre,
-les indemnités mentionnées à l'article L. 123-14 et à l'article R. 11-6-1 du
-code de l'expropriation pour cause d'utilité publique. Le maître d'ouvrage verse
-à ce fonds les sommes et provisions destinées à couvrir les indemnités qui sont
-à sa charge en application de ces articles.
+Un exemplaire du dossier soumis à enquête est adressé pour information, dès
+l'ouverture de l'enquête, au maire de chaque commune sur le territoire de
+laquelle le projet est situé et dont la mairie n'a pas été désignée comme lieu
+d'enquête.
 
-La Caisse des dépôts et consignations assure la gestion comptable et financière
-du fonds dans les conditions définies par une convention conclue avec l'Etat,
-représenté par le ministre chargé de l'environnement, et soumise à l'approbation
-du ministre chargé des finances. Cette convention précise, notamment, les
-modalités d'approvisionnement, de gestion et de contrôle du fonds.
+Cette formalité est réputée satisfaite lorsque les conseils municipaux concernés
+ont été consultés en application des réglementations particulières, ou lorsque
+est communiquée à la commune l'adresse du site internet où l'intégralité du
+dossier soumis à enquête peut être téléchargé. Un exemplaire du dossier est
+adressé à chaque commune qui en fait la demande expresse.

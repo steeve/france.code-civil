@@ -1,6 +1,6 @@
 Article R211-97
 ----
-I. - Le dossier soumis à l'enquête comprend :
+Le dossier soumis à l'enquête comprend :
 
 1° Une notice explicative indiquant les raisons pour lesquelles les servitudes
 sont instituées ;
@@ -17,8 +17,7 @@ diverses sujétions résultant des servitudes ;
 
 4° La liste des propriétaires dont les terrains sont grevés de servitudes ;
 
-5° Un projet d'arrêté définissant les servitudes.
+5° Un projet d'arrêté définissant les servitudes ;
 
-II. - Lorsqu'il est fait application du second alinéa de l'article R. 211-96, le
-dossier est complété par les autres pièces prévues au I de l'article R. 11-3 du
-code de l'expropriation pour cause d'utilité publique.
+6° Les autres pièces prévues au I de l'article R. 11-3 du code de
+l'expropriation pour cause d'utilité publique.

@@ -2,9 +2,10 @@ Article R332-5
 ----
 Les propriétaires intéressés et les titulaires de droits réels peuvent faire
 connaître leur opposition ou leur consentement au classement, soit par une
-mention consignée sur le registre d'enquête, soit par lettre adressée au préfet
-ou au sous-préfet dans le délai d'un mois suivant la clôture de l'enquête. Leur
-silence vaut refus de consentir au classement.
+mention consignée sur le registre d'enquête, soit par lettre adressée au
+commissaire enquêteur ou à la commission d'enquête dans le délai d'un mois
+suivant la clôture de l'enquête. Leur silence vaut refus de consentir au
+classement.
 
 Toutefois, un propriétaire ou titulaire de droits réels est réputé avoir
 tacitement consenti au classement lorsque, ayant reçu notification de l'arrêté

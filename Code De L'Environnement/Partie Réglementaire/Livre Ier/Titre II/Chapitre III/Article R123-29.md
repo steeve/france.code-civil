@@ -14,3 +14,6 @@ celle-ci, cet avis est publié par voie d'affiches et, éventuellement, par tous
 autres procédés, à la préfecture du département où se déroulera l'enquête, le
 cas échéant à la préfecture des autres départements concernés et, s'il y a lieu,
 dans chacune des communes désignées par le préfet.
+
+Cet avis est également publié sur le site internet de la préfecture de
+département.

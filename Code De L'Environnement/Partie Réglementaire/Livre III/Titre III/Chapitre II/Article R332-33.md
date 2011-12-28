@@ -1,18 +1,15 @@
 Article R332-33
 ----
-I.-L'enquête publique est ouverte et close au siège du conseil régional. Elle a
-lieu à la mairie de chacune des communes sur le territoire desquelles la
-création de la réserve naturelle est projetée. Elle peut également avoir lieu à
-la mairie de communes voisines désignées par le président du conseil régional.
-Dans les mairies de ces communes est déposé un registre subsidiaire sur
-feuillets non mobiles, coté et paraphé par le maire, et la copie du dossier
-prévu à l'article R. 332-30.
+I.-Le dossier soumis à l'enquête publique comprend l'ensemble des pièces et avis
+prévus à l'article R. 123-8 ainsi que l'ensemble des éléments mentionnés à
+l'article R. 332-30.
 
 II.-Les propriétaires intéressés et les titulaires de droits réels peuvent faire
 connaître leur opposition ou leur consentement au classement, soit par une
 mention consignée sur le registre d'enquête, soit par lettre adressée au
-président du conseil régional dans un délai de trois mois suivant la clôture de
-l'enquête. Leur silence vaut refus de consentir au classement.
+commissaire enquêteur ou à la commission d'enquête dans un délai d'un
+moissuivant la clôture de l'enquête. Leur silence vaut refus de consentir au
+classement.
 
 Toutefois, un propriétaire ou titulaire de droits réels est réputé avoir
 tacitement consenti au classement lorsque, ayant reçu notification de la

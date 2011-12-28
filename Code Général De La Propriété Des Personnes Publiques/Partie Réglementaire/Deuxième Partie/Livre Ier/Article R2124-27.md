@@ -2,8 +2,7 @@ Article R2124-27
 ----
 Le projet de concession ou le renouvellement d'une concession existante fait
 l'objet, préalablement à son approbation, d'une enquête publique menée dans les
-formes prévues par les articles R. 11-14-3 à R. 11-14-15 du code de
-l'expropriation pour cause d'utilité publique.
+formes prévues par les articles R. 123-1 à R. 123-27 du code de l'environnement.
 
 Le dossier soumis à l'enquête comprend obligatoirement :
 

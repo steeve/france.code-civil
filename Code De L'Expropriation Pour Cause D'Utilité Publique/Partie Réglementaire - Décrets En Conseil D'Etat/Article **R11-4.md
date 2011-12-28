@@ -4,7 +4,8 @@ Le préfet désigne par arrêté un commissaire enquêteur ou une commission
 d'enquête dont il nomme le président. Les membres de la commission d'enquête
 sont en nombre impair. Lorsque l'enquête est préalable à une déclaration
 d'utilité publique, le commissaire enquêteur ou la commission d'enquête sont
-désignés dans les conditions fixées à l'article R. 11-14-3.
+désignés dans les conditions fixées aux articles R. 123-5 et suivants du code de
+l'environnement.
 
 Le préfet, après consultation du commissaire enquêteur ou du président de la
 commission d'enquête, précise par arrêté :

@@ -1,12 +1,12 @@
 Article R212-40
 ----
 L'enquête publique à laquelle est soumis le projet de schéma d'aménagement et de
-gestion des eaux est régie par les dispositions des articles R. 123-6 à R.
-123-23. Toutefois, lorsqu'elle doit se dérouler sur plus d'un département, elle
+gestion des eaux est régie par les dispositions des articles R. 123-1 à R.
+123-27. Toutefois, lorsqu'elle doit se dérouler sur plus d'un département, elle
 est ouverte et organisée par le préfet responsable de la procédure d'élaboration
-ou de révision du schéma, par exception à l'article R. 123-7.
+ou de révision du schéma, par exception à l'article R. 123-3-III.
 
-Le dossier est composé :
+Outre les éléments mentionnés à l'article R. 123-8, le dossier est composé :
 
 1° D'un rapport de présentation ;
 

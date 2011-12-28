@@ -1,9 +1,9 @@
 Article R123-16
 ----
-Les jours et heures où le public pourra consulter le dossier et présenter ses
-observations sont fixés de manière à permettre la participation de la plus
-grande partie de la population, compte tenu notamment de ses horaires normaux de
-travail ; ils comprennent au minimum les jours et heures habituels d'ouverture
-au public de chacun des lieux où est déposé le dossier ; ils peuvent en outre
-comprendre plusieurs demi-journées prises parmi les samedis, dimanches et jours
-fériés.
+Dans les conditions prévues à l'article L. 123-13, le commissaire enquêteur ou
+le président de la commission d'enquête peut auditionner toute personne ou
+service qu'il lui paraît utile de consulter pour compléter son information sur
+le projet, plan ou programme soumis à enquête publique. Le refus éventuel,
+motivé ou non, de demande d'information ou l'absence de réponse est mentionné
+par le commissaire enquêteur ou le président de la commission d'enquête dans son
+rapport.

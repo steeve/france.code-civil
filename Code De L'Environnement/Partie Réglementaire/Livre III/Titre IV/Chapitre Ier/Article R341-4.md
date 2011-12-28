@@ -1,20 +1,19 @@
 Article R341-4
 ----
-I. - L'enquête prévue à l'article L. 341-3 préalablement à la décision de
-classement est organisée par un arrêté du préfet qui désigne le chef de service
-chargé de conduire la procédure et fixe la date à laquelle celle-ci doit être
-ouverte ainsi que sa durée, qui ne peut être inférieure à quinze jours ni
-supérieure à trente jours.
+L'enquête publique prévue à l'article L. 341-3 préalablement à la décision de
+classement est ouverte et organisée par un arrêté du préfet dans les conditions
+fixées aux articles R. 123-2 à R. 123-27 du présent code.
 
-II. - Cet arrêté précise les heures et les lieux où le public peut prendre
-connaissance du projet de classement qui comporte :
+Outre les documents et pièces listés à l'article R. 123-8, le dossier soumis à
+enquête publique comprend :
 
-1° Une notice explicative indiquant l'objet de la mesure de protection et
-éventuellement les prescriptions particulières de classement ;
+1° Un rapport de présentation comportant une analyse paysagère, historique et
+géomorphologique du site, les objectifs du classement et, éventuellement, des
+orientations de gestion ;
 
-2° Un plan de délimitation du site.
+2° Le cas échéant, les prescriptions particulières de classement visées au
+troisième alinéa de l'article L. 341-6 ;
 
-III. - Ce même arrêté est inséré dans deux journaux dont au moins un quotidien,
-dont la distribution est assurée dans les communes intéressées. Il est en outre
-publié dans ces communes par voie d'affichage. L'accomplissement de ces mesures
-de publicité est certifié par le maire.
+3° Un plan de délimitation du site à classer ;
+
+4° Les plans cadastraux correspondants.

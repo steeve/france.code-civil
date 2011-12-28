@@ -1,62 +1,31 @@
 Article R512-14
 ----
-I.-Lorsque le dossier est complet, le préfet communique dans les deux mois la
+I.-L'enquête publique est régie par les dispositions du chapitre 3 du titre II
+du livre Ier et sous réserve des dispositions du présent article.
+
+II.-Lorsque le dossier est complet, le préfet communique dans les deux mois la
 demande au président du tribunal administratif en lui indiquant les dates qu'il
 se propose de retenir pour l'ouverture et la clôture de l'enquête publique. Il
 en informe simultanément le demandeur.
 
-II.-Le président du tribunal administratif désigne sous quinzaine un commissaire
-enquêteur ou les membres, en nombre impair, d'une commission d'enquête parmi
-lesquels il choisit un président. Un ou plusieurs suppléants peuvent être
-désignés dans les mêmes conditions. Ils remplacent les titulaires en cas
-d'empêchement de ces derniers et exercent alors leurs fonctions jusqu'au terme
-de la procédure. Lorsque le lieu d'implantation de l'installation relève du
-ressort de plusieurs tribunaux administratifs, la désignation du commissaire
-enquêteur ou des membres de la commission d'enquête est faite par décision
-conjointe des présidents des tribunaux concernés et l'enquête est organisée par
-arrêté conjoint des préfets des départements concernés conformément aux
-dispositions de l'article R. 512-67.
+III.-Les communes, dans lesquelles il est procédé à l'affichage de l'avis au
+public prévu au I de l'article R. 123-11, sont celles concernées par les risques
+et inconvénients dont l'établissement peut être la source et, au moins, celles
+dont une partie du territoire est située à une distance, prise à partir du
+périmètre de l'installation, inférieure au rayon d'affichage fixé dans la
+nomenclature des installations classées pour la rubrique dont l'installation
+relève.
 
-III.-Dès réception de la désignation du commissaire enquêteur ou de la
-commission d'enquête, le préfet décide, par arrêté, de l'ouverture de l'enquête
-publique et en informe le demandeur. Le même arrêté précise :
+IV.-Les résumés non techniques mentionnés au III de l'article R. 512-8 et au II
+de l'article R. 512-9 sont publiés sur le site internet de la préfecture dans
+les mêmes conditions de délai que celles prévues par l'article R. 123-11.
 
-1° L'objet et la date de l'enquête, dont la durée est d'un mois, sauf
-prorogation d'une durée maximum de quinze jours décidée par le commissaire
-enquêteur ou par la commission d'enquête ;
-
-2° Les jours, ouvrables ou non, les heures et le lieu où le public pourra
-prendre connaissance du dossier et formuler ses observations sur un registre
-ouvert à cet effet et adresser toute correspondance ;
-
-3° Le nom du ou des commissaires enquêteurs, les jours ouvrables ou non, et les
-heures où un commissaire enquêteur devra être présent au lieu où le dossier peut
-être consulté. Ces périodes seront au minimum de trois heures par semaine
-pendant la durée de l'enquête ;
-
-4° La liste des communes dans lesquelles il sera procédé à l'affichage de l'avis
-au public prévu à l'article R. 512-15. Ces communes sont celles concernées par
-les risques et inconvénients dont l'établissement peut être la source et, au
-moins, celles dont une partie du territoire est située à une distance, prise à
-partir du périmètre de l'installation, inférieure au rayon d'affichage fixé dans
-la nomenclature des installations classées pour la rubrique dont l'installation
-relève ;
-
-5° La présence d'une étude d'impact dans le dossier d'enquête ;
-
-6° La transmission, le cas échéant, du dossier d'enquête publique à un autre
-Etat ;
-
-7° L'identité de l'autorité compétente pour prendre la décision d'autorisation
-et la nature de celle-ci ;
-
-8° L'identité de la personne responsable du projet ou l'autorité auprès de
-laquelle des informations peuvent être demandées.
-
-IV.-Lorsque des communes dont le territoire est touché par le périmètre défini
-ci-dessus sont situées dans un autre département, le préfet prend l'accord du
-préfet de ce département pour que ce dernier y fasse assurer la publication de
-l'avis.
+Lorsque l'installation fait l'objet d'un plan particulier d'intervention en
+application du décret n° 2005-1158 du 13 septembre 2005 relatif aux plans
+particuliers d'intervention concernant certains ouvrages ou installations fixes
+et pris en application de l'article 15 de la loi n° 2004-811 du 13 août 2004
+relative à la modernisation de la sécurité civile, l'avis au public mentionné au
+I de l'article R. 123-11 le mentionne.
 
 V.-A la requête du demandeur, ou de sa propre initiative, le préfet peut
 disjoindre du dossier soumis à l'enquête et aux consultations prévues ci-après

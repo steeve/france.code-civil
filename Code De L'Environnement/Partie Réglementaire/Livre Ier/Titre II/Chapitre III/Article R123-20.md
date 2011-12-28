@@ -1,25 +1,27 @@
 Article R123-20
 ----
-Lorsqu'il estime que l'importance ou la nature de l'opération ou les conditions
-de déroulement de l'enquête publique rendent nécessaire l'organisation d'une
-réunion publique, le commissaire enquêteur ou le président de la commission
-d'enquête en fait part au préfet et au maître de l'ouvrage et leur indique les
-modalités qu'il propose pour l'organisation de cette réunion.
+A la réception des conclusions du commissaire enquêteur ou de la commission
+d'enquête, l'autorité compétente pour organiser l'enquête, lorsqu'elle constate
+une insuffisance ou un défaut de motivation de ces conclusions susceptible de
+constituer une irrégularité dans la procédure, peut en informer le président du
+tribunal administratif ou le conseiller délégué par lui dans un délai de quinze
+jours, par lettre d'observation.
 
-Le préfet notifie au commissaire enquêteur ou au président de la commission
-d'enquête son accord ou son désaccord. Son éventuel désaccord est mentionné au
-dossier tenu au siège de l'enquête.
+Si l'insuffisance ou le défaut de motivation est avéré, le président du tribunal
+administratif ou le conseiller qu'il délègue, dispose de quinze jours pour
+demander au commissaire enquêteur ou à la commission d'enquête de compléter ses
+conclusions. En l'absence d'intervention de la part du président du tribunal
+administratif ou du conseiller qu'il délègue dans ce délai de quinze jours, la
+demande est réputée rejetée. La décision du président du tribunal administratif
+ou du conseiller qu'il délègue n'est pas susceptible de recours.
 
-En cas d'accord, le préfet et le commissaire enquêteur ou le président de la
-commission d'enquête arrêtent en commun, et en liaison avec le maître de
-l'ouvrage, les modalités de l'information préalable du public et du déroulement
-de la réunion publique. Les dispositions ainsi arrêtées sont notifiées au maître
-de l'ouvrage. En tant que de besoin, la durée de l'enquête est prorogée dans les
-conditions prévues à l'article R. 123-21 pour permettre l'organisation de la
-réunion publique.
+Dans un délai de quinze jours à compter de la réception des conclusions du
+commissaire enquêteur ou de la commission d'enquête, le président du tribunal
+administratif ou le conseiller qu'il délègue peut également intervenir de sa
+propre initiative auprès de son auteur pour qu'il les complète, lorsqu'il
+constate une insuffisance ou un défaut de motivation de ces conclusions
+susceptible de constituer une irrégularité dans la procédure.
 
-A l'issue de la réunion publique, un rapport est établi par le commissaire
-enquêteur ou par le président de la commission d'enquête et adressé au maître de
-l'ouvrage. Ce rapport, ainsi que les observations éventuelles du maître de
-l'ouvrage, sont annexés par le commissaire enquêteur ou par le président de la
-commission d'enquête au rapport de fin d'enquête.
+Le commissaire enquêteur ou la commission d'enquête est tenu de remettre ses
+conclusions complétées à l'autorité compétente pour organiser l'enquête et au
+président du tribunal administratif dans un délai d'un mois.

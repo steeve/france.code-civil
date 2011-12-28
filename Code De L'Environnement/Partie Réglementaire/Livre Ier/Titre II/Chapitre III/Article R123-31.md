@@ -1,7 +1,7 @@
 Article R123-31
 ----
 Lorsqu'il entend faire compléter le dossier par un document, dans les conditions
-prévues à l'article L. 123-9, le commissaire enquêteur, ou le président de la
+prévues à l'article R. 123-13, le commissaire enquêteur, ou le président de la
 commission d'enquête, en fait la demande au préfet qui sollicite l'accord des
 autorités de l'Etat sur le territoire duquel le projet est localisé, à charge
 pour elles de l'obtenir du maître d'ouvrage.

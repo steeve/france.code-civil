@@ -1,14 +1,10 @@
 Article R341-5
 ----
-Pendant un délai s'écoulant du premier jour de l'enquête au vingtième jour
-suivant sa clôture, toute personne intéressée peut adresser, par lettre
-recommandée avec demande d'avis de réception, des observations au préfet, qui en
-informe la commission départementale de la nature, des paysages et des sites.
-
-Pendant le même délai et selon les mêmes modalités, les propriétaires concernés
-font connaître au préfet, qui en informe la commission départementale de la
-nature, des paysages et des sites, leur opposition ou leur consentement au
-projet de classement.
+Pendant la durée de l'enquête, les propriétaires concernés peuvent faire
+connaître leur opposition ou leur consentement au projet de classement, soit par
+une mention consignée sur le registre de l'enquête, soit par lettre recommandée
+avec demande d'avis de réception adressée au commissaire enquêteur ou au
+président de la commission d'enquête au siège de l'enquête.
 
 A l'expiration de ce délai, le silence du propriétaire équivaut à un défaut de
 consentement. Toutefois, lorsque l'arrêté de mise à l'enquête a été

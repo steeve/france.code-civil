@@ -1,8 +1,8 @@
 Article R2111-15
 ----
 Les limites du domaine public fluvial sont fixées, dans les conditions définies
-au premier alinéa de l'article 8 du code du domaine public fluvial et de la
-navigation intérieure, par arrêté du préfet de département pour le domaine de
+au premier alinéa de l'article L. 2111-9 du code général de la propriété des
+personnes publiques, par arrêté du préfet de département pour le domaine de
 l'Etat et par arrêté de l'autorité compétente de la collectivité propriétaire
 pour le domaine des collectivités territoriales et de leurs groupements.
 

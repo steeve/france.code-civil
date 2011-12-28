@@ -1,9 +1,9 @@
 Article R512-41
 ----
-Les dispositions des articles R. 512-11, R. 512-12, R. 512-14 à R. 512-17, R.
-512-19 à R. 512-22, R. 512-24, R. 512-25 et du premier alinéa de l'article R.
-512-26 sont applicables aux demandes concernant les installations mentionnées à
-l'article R. 512-40.
+Les dispositions de la section 2 du chapitre III du titre II du livre premier et
+des articles R. 512-11, R. 512-12, R. 512-14, R. 512-19 à R. 512-22, R. 512-24,
+R. 512-25 et du premier alinéa de l'article R. 512-26 sont applicables aux
+demandes concernant les installations mentionnées à l'article R. 512-40.
 
 Dans le cas prévu au troisième alinéa de l'article R. 512-40, le préfet du
 département dans lequel l'installation doit être implantée saisit, avant

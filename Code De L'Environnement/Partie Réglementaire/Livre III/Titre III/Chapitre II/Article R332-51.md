@@ -1,17 +1,13 @@
 Article R332-51
 ----
-I. - L'enquête publique est ouverte et close au siège de la collectivité
-territoriale de Corse. Elle a lieu à la mairie de chacune des communes sur le
-territoire desquelles la création de la réserve naturelle est projetée. Elle
-peut également avoir lieu à la mairie de communes voisines désignées par le
-président du conseil exécutif de Corse. Dans les mairies de ces communes est
-déposé un registre subsidiaire sur feuillets non mobiles, coté et paraphé par le
-maire, et la copie du dossier prévu à l'article R. 332-49.
+I.-Le dossier soumis à l'enquête publique comprend l'ensemble des pièces et avis
+visés à l'article R. 123-8 ainsi que l'ensemble des éléments mentionnés à
+l'article R. 332-30.
 
-II. - Les propriétaires et les titulaires de droits réels peuvent faire
-connaître leur opposition ou leur consentement au classement, soit par une
-mention consignée sur le registre d'enquête, soit par lettre adressée au
-président du conseil exécutif de Corse dans le délai d'un mois suivant la
+II.-Les propriétaires et les titulaires de droits réels peuvent faire connaître
+leur opposition ou leur consentement au classement, soit par une mention
+consignée sur le registre d'enquête, soit par lettre adressée au commissaire
+enquêteur ou à la commission d'enquête dans le délai d'un mois suivant la
 clôture de l'enquête. Leur silence vaut refus de consentir au classement.
 
 Toutefois, un propriétaire ou titulaire de droits réels est réputé avoir
@@ -29,7 +25,7 @@ La notification de la décision prévue au deuxième alinéa rend applicable le
 régime d'autorisation administrative spéciale pour modification de l'état ou de
 l'aspect des lieux prévu à l'article L. 332-6.
 
-III. - Lorsque le projet de classement a reçu l'accord écrit du ou des
+III.-Lorsque le projet de classement a reçu l'accord écrit du ou des
 propriétaires et titulaires de droits réels intéressés ou de leurs ayants droit
 éventuels, le président du conseil exécutif de Corse peut se dispenser de
 procéder à l'enquête publique prévue par l'article R. 332-50.

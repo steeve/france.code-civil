@@ -1,7 +1,12 @@
 Article R123-24
 ----
-L'enquête publique est effectuée conformément aux articles R. 123-9, R. 123-13,
-R. 123-16, R. 123-17, R. 123-20, R. 123-21 et R. 123-22, ainsi que selon les
-dispositions de la présente section. Les articles R. 123-10, R. 123-11 et R.
-123-12 relatifs à la rémunération du commissaire enquêteur s'appliquent sous
-réserve de l'article R. 123-28.
+Sauf disposition particulière, lorsque les projets qui ont fait l'objet d'une
+enquête publique n'ont pas été entrepris dans un délai de cinq ans à compter de
+l'adoption de la décision soumise à enquête, une nouvelle enquête doit être
+conduite, à moins que, avant l'expiration de ce délai, une prorogation de la
+durée de validité de l'enquête ne soit décidée par l'autorité compétente pour
+prendre la décision en vue de laquelle l'enquête a été organisée. Cette
+prorogation a une durée de cinq ans au plus. La validité de l'enquête ne peut
+être prorogée si le projet a fait l'objet de modifications substantielles ou
+lorsque des modifications de droit ou de fait de nature à imposer une nouvelle
+consultation du public sont intervenues depuis la décision arrêtant le projet.

@@ -1,16 +1,26 @@
 Article R2125-13
 ----
-La redevance annuelle prévue au deuxième alinéa de l'article 35 du code du
-domaine public fluvial et de la navigation intérieure que peut instituer une
+La redevance annuelle prévue au deuxième alinéa de l'article L. 2125-7 du code
+général de la propriété des personnes publiques que peut instituer une
 collectivité pour les autorisations de prises d'eau sur son domaine public
-fluvial est fixée dans la limite de 4,6 Euros par millier de mètres cubes
-prélevable ou rejetable dans l'année.
+fluvial est fixée dans la limite de 7 euros par millier de mètres cubes
+prélevables ou rejetables dans l'année.
 
 Cette redevance s'ajoute à la redevance d'occupation temporaire du domaine.
 
-La collectivité peut prévoir des abattements particuliers dans le cas de prises
-d'eau destinées à un usage agricole ou industriel ou à des usages d'intérêt
-public.
+La collectivité territoriale ou le groupement applique un abattement en cas de
+prise d'eau destinée aux usages suivants :
+
+-usage agricole : abattement compris entre 50 % et 97 % ;
+
+-usage industriel : abattement compris entre 0 % et 30 % ;
+
+-alimentation en eau d'un canal de navigation : abattement compris entre 97 % et
+99 %.
+
+La collectivité territoriale ou le groupement peut prévoir des abattements
+particuliers dans le cas de prises d'eau ou de rejets d'eau destinés à d'autres
+usages d'intérêt public.
 
 Lorsque les autorisations de prises d'eau concernent un ouvrage hydroélectrique
 autorisé en application de la loi du 16 octobre 1919 relative à l'utilisation de

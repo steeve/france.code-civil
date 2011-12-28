@@ -1,7 +1,7 @@
 Article **R11-5
 ----
 Le commissaire enquêteur ou les membres de la commission d'enquête sont choisis
-parmi les personnes figurant sur l'une des listes d'aptitude prévues au deuxième
+parmi les personnes figurant sur l'une des listes d'aptitude prévues au premier
 alinéa de l'article L. 123-4 du code de l'environnement.
 
 Ne peuvent être désignées pour exercer les fonctions de commissaire enquêteur

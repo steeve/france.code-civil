@@ -9,7 +9,7 @@ dans le délai de six mois vaut refus implicite de la région d'exercer son droi
 de priorité.
 
 Lorsqu'une demande de transfert d'une voie d'eau émane d'une collectivité
-titulaire d'une concession au titre de l'article 5 du code du domaine public
-fluvial et de la navigation intérieure, l'acceptation de la demande est
-subordonnée à l'engagement du concessionnaire d'accepter la résiliation de la
-concession à la date d'effet de la décision de transfert à son profit.
+titulaire d'une concession au titre de l'article L. 2124-7 du code général de la
+propriété des personnes publiques, l'acceptation de la demande est subordonnée à
+l'engagement du concessionnaire d'accepter la résiliation de la concession à la
+date d'effet de la décision de transfert à son profit.

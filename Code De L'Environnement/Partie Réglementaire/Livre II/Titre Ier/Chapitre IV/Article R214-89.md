@@ -1,15 +1,13 @@
 Article R214-89
 ----
-I. - La déclaration d'intérêt général ou d'urgence mentionnée à l'article L.
-211-7 du présent code est précédée d'une enquête publique effectuée, selon le
-cas, dans les conditions prévues par les articles R. 11-4 à R. 11-14 ou R.
-11-14-1 à R. 11-14-15 du code de l'expropriation pour cause d'utilité publique.
+I.-La déclaration d'intérêt général ou d'urgence mentionnée à l'article L. 211-7
+du présent code est précédée d'une enquête publique effectuée dans les
+conditions prévues par les articles R. 123-1 à R. 123-27.
 
-II. - L'arrêté préfectoral ou interpréfectoral pris en application de l'article
-R. 11-4 ou R. 11-14-5 du même code désigne les communes où un dossier et un
+II.-L'arrêté d'ouverture de l'enquête désigne les communes où un dossier et un
 registre d'enquête doivent être tenus à la disposition du public.
 
-III. - Cet arrêté est en outre publié par voie d'affiches :
+III.-Cet arrêté est en outre publié par voie d'affiches :
 
 1° Dans les communes sur le territoire desquelles l'opération est projetée ;
 
