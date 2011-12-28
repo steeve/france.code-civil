@@ -3,13 +3,22 @@ Article L5121-1
 On entend par :
 
 1° Préparation magistrale, tout médicament préparé selon une prescription
-médicale destinée à un malade déterminé, soit extemporanément en pharmacie, soit
-dans les conditions prévues à l'article L. 5125-1 ou à l'article L. 5126-2 ;
+médicale destinée à un malade déterminé en raison de l'absence de spécialité
+pharmaceutique disponible disposant d'une autorisation de mise sur le marché, de
+l'une des autorisations mentionnées aux articles L. 5121-9-1 et L. 5121-12,
+d'une autorisation d'importation parallèle ou d'une autorisation d'importation
+délivrée à un établissement pharmaceutique dans le cadre d'une rupture de stock
+d'un médicament,, soit extemporanément en pharmacie, soit dans les conditions
+prévues à l'article L. 5125-1 ou à l'article L. 5126-2 ;
 
 2° Préparation hospitalière, tout médicament, à l'exception des produits de
 thérapies génique ou cellulaire, préparé selon les indications de la pharmacopée
 et en conformité avec les bonnes pratiques mentionnées à l'article L. 5121-5, en
-raison de l'absence de spécialité pharmaceutique disponible ou adaptée par une
+raison de l'absence de spécialité pharmaceutique disponible ou adaptée disposant
+d'une autorisation de mise sur le marché, de l'une des autorisations mentionnées
+aux articles L. 5121-9-1 et L. 5121-12, d'une autorisation d'importation
+parallèle ou d'une autorisation d'importation délivrée à un établissement
+pharmaceutique dans le cadre d'une rupture de stock d'un médicament, par une
 pharmacie à usage intérieur d'un établissement de santé, ou par l'établissement
 pharmaceutique de cet établissement de santé autorisé en application de
 l'article L. 5124-9 ou dans les conditions prévues à l'article L. 5126-2. Les
@@ -53,7 +62,7 @@ spécialités qui en sont génériques. Toutefois, une spécialité remplissant 
 conditions pour être une spécialité de référence, qui présente la même
 composition qualitative en substance active, la même composition quantitative en
 substance active ou, à défaut, une fraction thérapeutique active identique dans
-les limites prévues à l'annexe I de la directive 2001 / 83 / CE du Parlement
+les limites prévues à l'annexe I de la directive 2001/83/ CE du Parlement
 européen et du Conseil du 6 novembre 2001 instituant un code communautaire
 relatif aux médicaments à usage humain, et la même forme pharmaceutique qu'une
 spécialité de référence d'un groupe générique déjà existant, et dont la
@@ -97,9 +106,14 @@ d'immunité ;
 l'emploi, contient un ou plusieurs isotopes radioactifs, dénommés
 radionucléides, incorporés à des fins médicales ;
 
-8° Générateur, tout système contenant un radionucléide parent déterminé servant
-à la production d'un radionucléide de filiation obtenu par élution ou par toute
-autre méthode et utilisé dans un médicament radiopharmaceutique ;
+8° Générateur, tout système contenant un radionucléide parent déterminé en
+raison de l'absence de spécialité pharmaceutique disponible disposant d'une
+autorisation de mise sur le marché, de l'une des autorisations mentionnées aux
+articles L. 5121-9-1 et L. 5121-12, d'une autorisation d'importation parallèle
+ou d'une autorisation d'importation délivrée à un établissement pharmaceutique
+dans le cadre d'une rupture de stock d'un médicament, servant à la production
+d'un radionucléide de filiation obtenu par élution ou par toute autre méthode et
+utilisé dans un médicament radiopharmaceutique ;
 
 9° Trousse, toute préparation qui doit être reconstituée ou combinée avec des
 radionucléides dans le produit radiopharmaceutique final ;
@@ -119,10 +133,11 @@ pharmaceutiques et les médicaments fabriqués industriellement mentionnés à
 l'article L. 5121-8, servant à transférer du matériel génétique et ne consistant
 pas en des cellules d'origine humaine ou animale. Ces préparations sont
 préparées à l'avance et dispensées sur prescription médicale à un ou plusieurs
-patients. Elles font l'objet d'une autorisation de l'Agence française de
-sécurité sanitaire des produits de santé pour une indication thérapeutique
-donnée. Cette autorisation peut être assortie de conditions particulières ou de
-restrictions d'utilisation. Elle peut être modifiée, suspendue ou retirée ;
+patients. Elles font l'objet d'une autorisation de l'Agence nationale de
+sécurité du médicament et des produits de santé pour une indication
+thérapeutique donnée. Cette autorisation peut être assortie de conditions
+particulières ou de restrictions d'utilisation. Elle peut être modifiée,
+suspendue ou retirée ;
 
 13° Préparation de thérapie cellulaire xénogénique, tout médicament autre que
 les spécialités pharmaceutiques et les médicaments fabriqués industriellement
@@ -131,10 +146,10 @@ et leurs dérivés utilisés à des fins thérapeutiques, y compris les cellules
 servant à transférer du matériel génétique, quel que soit leur niveau de
 transformation. Ces préparations sont préparées à l'avance et dispensées sur
 prescription médicale à un ou plusieurs patients. Elles font l'objet d'une
-autorisation de l'Agence française de sécurité sanitaire des produits de santé
-pour une indication thérapeutique donnée. Cette autorisation peut être assortie
-de conditions particulières ou de restrictions d'utilisation. Elle peut être
-modifiée, suspendue ou retirée.L'Agence de la biomédecine est informée des
+autorisation de l'Agence nationale de sécurité du médicament et des produits de
+santé pour une indication thérapeutique donnée. Cette autorisation peut être
+assortie de conditions particulières ou de restrictions d'utilisation. Elle peut
+être modifiée, suspendue ou retirée. L'Agence de la biomédecine est informée des
 décisions relatives à ces préparations prises en application du présent alinéa ;
 
 14° Médicament biologique, tout médicament dont la substance active est produite

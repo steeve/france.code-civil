@@ -16,11 +16,11 @@ la corruption et à la transparence de la vie économique et des procédures
 publiques.
 
 Les personnes collaborant occasionnellement aux travaux de l'agence et les
-autres personnes qui apportent leur concours aux conseils et commissions
-siégeant auprès d'elle, à l'exception des membres de ces conseils et
-commissions, ne peuvent, sous les peines prévues à l'article 432-12 du code
-pénal, traiter une question dans laquelle elles auraient un intérêt direct ou
-indirect et sont soumises aux obligations énoncées au 1°.
+autres personnes qui apportent leur concours aux conseils, commissions comités
+et groupes de travail siégeant auprès d'elle, à l'exception des membres de ces
+conseils et commissions, ne peuvent, sous les peines prévues à l'article 432-12
+du code pénal, traiter une question dans laquelle elles auraient un intérêt
+direct ou indirect et sont soumises aux obligations énoncées au 1°.
 
 Les membres des commissions et conseils siégeant auprès de l'agence ne peuvent,
 sous les mêmes peines, prendre part ni aux délibérations ni aux votes de ces

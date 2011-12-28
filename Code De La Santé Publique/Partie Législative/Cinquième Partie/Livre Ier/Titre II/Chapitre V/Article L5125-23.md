@@ -15,10 +15,10 @@ Par dérogation aux dispositions du premier alinéa, il peut délivrer par
 substitution à la spécialité prescrite une spécialité du même groupe générique à
 condition que le prescripteur n'ait pas exclu cette possibilité, pour des
 raisons particulières tenant au patient, par une mention expresse portée sur la
-prescription, et sous réserve, en ce qui concerne les spécialités figurant sur
-la liste mentionnée au premier alinéa de l'article L. 162-17 du code de la
-sécurité sociale, que cette substitution s'effectue dans les conditions prévues
-par l'article L. 162-16 de ce code.
+prescription sous forme exclusivement manuscrite, et sous réserve, en ce qui
+concerne les spécialités figurant sur la liste mentionnée au premier alinéa de
+l'article L. 162-17 du code de la sécurité sociale, que cette substitution
+s'effectue dans les conditions prévues par l'article L. 162-16 de ce code.
 
 Lorsque le pharmacien délivre par substitution à la spécialité prescrite une
 spécialité du même groupe générique, il doit inscrire le nom de la spécialité

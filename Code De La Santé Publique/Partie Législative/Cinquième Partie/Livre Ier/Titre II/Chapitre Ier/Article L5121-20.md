@@ -68,12 +68,7 @@ demandes, ainsi que les conditions dans lesquelles interviennent
 l'enregistrement et les décisions, refusant, modifiant, renouvelant, suspendant
 ou retirant celui ci ;
 
-13° Les règles applicables à la pharmacovigilance exercée sur les médicaments et
-sur les produits mentionnés à l'article L. 5121-1, notamment les obligations de
-signalement incombant aux membres des professions de santé et aux entreprises
-exploitant un médicament ou un produit soumis au présent titre, ainsi que les
-modalités de signalement d'effets indésirables effectué directement par les
-patients ou communiqué par les associations agréées de patients ;
+13° (Abrogé) ;
 
 14° Les règles particulières applicables à la pharmacovigilance exercée sur les
 médicaments dérivés du sang et les autres médicaments d'origine humaine ;
@@ -85,7 +80,7 @@ toxicologiques et cliniques des médicaments homéopathiques faisant l'objet d'u
 autorisation de mise sur le marché, en prenant en compte la spécificité du
 médicament homéopathique et un usage généralement lié à la tradition ;
 
-17° Les conditions dans lesquelles l'Agence française de sécurité sanitaire des
-produits de santé délivre, modifie, suspend ou retire les autorisations
+17° Les conditions dans lesquelles l'Agence nationale de sécurité du médicament
+et des produits de santé délivre, modifie, suspend ou retire les autorisations
 mentionnées au 12° et au 13° de l'article L. 5121-1 relatives aux préparations
 de thérapie génique et aux préparations de thérapie cellulaire xénogénique.

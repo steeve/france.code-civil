@@ -23,10 +23,26 @@ conditions normales d'emploi. Le maintien de cette autorisation est décidé par
 l'agence sur la base d'une réévaluation annuelle de ces obligations et de leur
 respect par le titulaire.
 
-L'autorisation prévue à l'article L. 5121-8 est suspendue ou retirée dans des
-conditions déterminées par voie réglementaire et en particulier lorsqu'il
-apparaît que l'évaluation des effets thérapeutiques positifs du médicament ou
-produit au regard des risques tels que définis au premier alinéa n'est pas
-considérée comme favorable dans les conditions normales d'emploi, que l'effet
-thérapeutique annoncé fait défaut ou que la spécialité n'a pas la composition
-qualitative et quantitative déclarée.
+L'autorisation prévue à l'article L. 5121-8 est suspendue, retirée ou modifiée
+dans des conditions déterminées par décret en Conseil d'Etat, et notamment pour
+l'un des motifs suivants :
+
+1° Le médicament est nocif ;
+
+2° Le médicament ne permet pas d'obtenir de résultats thérapeutiques ;
+
+3° Le rapport entre les bénéfices et les risques n'est pas favorable ;
+
+4° La spécialité n'a pas la composition qualitative et quantitative déclarée ;
+
+5° Le titulaire de l'autorisation de mise sur le marché ne respecte pas les
+conditions prévues au même article L. 5121-8 ou les obligations qui lui sont
+imposées en application des articles L. 5121-8-1 et L. 5121-24.
+
+La suspension, le retrait ou la modification prévus au quatrième alinéa du
+présent article ainsi que tout refus de l'autorisation prévue à l'article L.
+5121-8 sont rendus publics sans délai, aux frais du titulaire ou du demandeur de
+l'autorisation de mise sur le marché, par tous moyens permettant une large
+diffusion auprès du grand public et des professionnels et établissements de
+santé. Le refus de prendre cette décision est également rendu public dans les
+mêmes conditions aux frais de l'agence.

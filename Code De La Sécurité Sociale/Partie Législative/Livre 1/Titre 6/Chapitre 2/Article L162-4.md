@@ -22,3 +22,8 @@ application de l'article L. 321-1.
 
 Lorsque les médecins réalisent des actes non remboursables, ils n'établissent
 pas le document prévu à l'article L. 161-33.
+
+Pour les spécialités pharmaceutiques mentionnées au 1°, l'inscription de la
+mention : " Prescription hors autorisation de mise sur le marché ” prévue à
+l'article L. 5121-12-1 du code de la santé publiquedispense de signaler leur
+caractère non remboursable.

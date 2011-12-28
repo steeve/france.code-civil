@@ -21,27 +21,27 @@ telle que prévue par ce même règlement, peut être interdite ou restreinte po
 les motifs cités au premier alinéa, par décision du directeur général de
 l'Agence française de sécurité sanitaire des produits de santé.
 
-Toutefois, les campagnes publicitaires pour des vaccins ou les médicaments
-mentionnés à l'article L. 5121-2 peuvent s'adresser au public. Sauf pour les
-campagnes vaccinales institutionnelles, les campagnes publicitaires auprès du
-public pour des vaccins ne sont autorisées que si elles sont assorties, de façon
-clairement identifiée, des mentions minimales obligatoires in extenso facilement
-audibles et lisibles, selon le support du message publicitaire concerné et sans
-renvoi, que le Haut Conseil de la santé publique détermine sur la base de ses
-avis.
+Par dérogation au premier alinéa, les campagnes publicitaires pour les
+médicaments mentionnés à l'article L. 5121-2 ou pour des vaccins soumis à
+prescription médicale ou remboursables peuvent s'adresser au public.
 
-Lorsqu'un médicament est radié de la liste mentionnée au premier alinéa de
-l'article L. 162-17 du code de la sécurité sociale, la décision de radiation
-peut prévoir que le médicament peut faire, avant l'entrée en vigueur de cette
-décision et dans des conditions fixées par décret, l'objet de publicité auprès
-du public. Ces dispositions s'appliquent sous réserve :
+Les campagnes publicitaires non institutionnelles auprès du public pour des
+vaccins mentionnés au troisième alinéa du présent article ne sont autorisées que
+si les conditions suivantes sont réunies :
 
-a) Que le médicament ne soit pas soumis à prescription médicale et que son
-autorisation de mise sur le marché ou son enregistrement ne comporte pas
-d'interdiction ou de restriction en matière de publicité auprès du public ;
+1° Ils figurent sur une liste de vaccins établie pour des motifs de santé
+publique par arrêté du ministre chargé de la santé pris après avis du Haut
+Conseil de la santé publique ;
 
-b) Que le médicament soit mentionné dans une convention prévue à l'article L.
-162-17-4 du même code comportant des engagements sur le chiffre d'affaires.
+2° Le contenu de ces campagnes publicitaires est conforme à l'avis du Haut
+Conseil de la santé publique et est assorti, de façon clairement identifiée, des
+mentions minimales obligatoires déterminées par cette instance. Ces mentions
+sont reproduites in extenso, sont facilement audibles et lisibles, selon le
+support du message publicitaire concerné, sont sans renvoi et sont en conformité
+avec des caractéristiques définies par arrêté du ministre chargé de la santé.La
+publicité auprès du public pour un médicament est nécessairement accompagnée
+d'un message de prudence et de renvoi à la consultation d'un médecin en cas de
+persistance des symptômes.
 
 La publicité auprès du public pour un médicament est nécessairement accompagnée
 d'un message de prudence et de renvoi à la consultation d'un médecin en cas de

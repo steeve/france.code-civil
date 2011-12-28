@@ -23,7 +23,14 @@ limite de l'indication ou des indications au titre de laquelle ou desquelles la
 désignation comme médicament orphelin a été accordée par la Commission
 européenne et sous réserve que le chiffre d'affaires remboursable ne soit pas
 supérieur à 20 millions d'euros. Le chiffre d'affaires concerné s'entend
-déduction faite des remises accordées par les entreprises.
+déduction faite des remises accordées par les entreprises et des ventes ou
+reventes à destination de l'étranger. Les revendeurs indiquent à l'exploitant de
+l'autorisation de mise sur le marché les quantités revendues ou destinées à être
+revendues en dehors du territoire national pour une liste de produits fixée par
+arrêté et dans des conditions définies par une convention tripartite passée
+entre l'Etat, un ou plusieurs syndicats ou organisations représentant les
+entreprises fabriquant ou exploitant des médicaments et un ou plusieurs
+syndicats ou organisations représentant les grossistes-répartiteurs.
 
 Le taux de la contribution due au titre du chiffre d'affaires réalisé au cours
 des années 2012, 2013 et 2014 est fixé à 1,6 %. La contribution est exclue des

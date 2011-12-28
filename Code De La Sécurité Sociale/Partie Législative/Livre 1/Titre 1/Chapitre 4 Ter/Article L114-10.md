@@ -5,9 +5,10 @@ du contrôle, assermentés et agréés dans des conditions définies par arrêt�
 ministre chargé de la sécurité sociale, le soin de procéder à toutes
 vérifications ou enquêtes administratives concernant l'attribution des
 prestations et la tarification des accidents du travail et des maladies
-professionnelles. Des praticiens-conseils peuvent, à ce titre, être assermentés
-et agréés dans des conditions définies par le même arrêté. Ces agents ont
-qualité pour dresser des procès-verbaux faisant foi jusqu'à preuve du contraire.
+professionnelles. Des praticiens-conseils et auditeurs comptables peuvent, à ce
+titre, être assermentés et agréés dans des conditions définies par le même
+arrêté. Ces agents ont qualité pour dresser des procès-verbaux faisant foi
+jusqu'à preuve du contraire.
 
 Lorsque cela est nécessaire à l'accomplissement de sa mission, un agent chargé
 du contrôle peut être habilité par le directeur de son organisme à effectuer,

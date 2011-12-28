@@ -10,8 +10,9 @@ l'autorisation et la surveillance en ce qui concerne les médicaments à usage
 humain et à usage vétérinaire, et instituant une Agence européenne des
 médicaments doit faire l'objet, avant sa mise sur le marché ou sa distribution à
 titre gratuit, d'une autorisation de mise sur le marché délivrée par l'Agence
-française de sécurité sanitaire des produits de santé.L'autorisation peut être
-assortie de conditions appropriées.
+française de sécurité sanitaire des produits de santé. L'autorisation peut être
+assortie de conditions appropriées, notamment l'obligation de réaliser des
+études de sécurité ou d'efficacité post-autorisation.
 
 Le demandeur de l'autorisation peut être dispensé de produire certaines données
 et études dans des conditions fixées par voie réglementaire.

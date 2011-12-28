@@ -49,7 +49,8 @@ justificative, d'information, d'accès à une information ou à une convocation
 émanant de l'organisme local d'assurance maladie ou du service du contrôle
 médical ou de la caisse mentionnée aux articles L. 215-1 ou L. 215-3 dans le
 cadre d'un contrôle, d'une enquête ou d'une mise sous accord préalable prévus
-aux articles L. 114-9 à L. 114-21, L. 162-1-15, L. 162-1-17 et L. 315-1 ;
+aux articles L. 114-9 à L. 114-21, L. 162-1-15, L. 162-1-17, L. 162-1-20 et L.
+315-1 ;
 
 6° Une récidive après deux périodes de mise sous accord préalable en application
 de l'article L. 162-1-15 ou lorsque le médecin n'atteint pas l'objectif de

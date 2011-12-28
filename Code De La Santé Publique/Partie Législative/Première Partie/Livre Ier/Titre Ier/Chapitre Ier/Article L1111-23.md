@@ -7,10 +7,11 @@ maladie, avec son consentement, un dossier pharmaceutique.
 
 Sauf opposition du patient quant à l'accès du pharmacien à son dossier
 pharmaceutique et à l'alimentation de celui-ci, tout pharmacien d'officine est
-tenu d'alimenter le dossier pharmaceutique à l'occasion de la dispensation. Les
-informations de ce dossier utiles à la coordination des soins sont reportées
-dans le dossier médical personnel dans les conditions prévues à l'article L.
-1111-15.
+tenu d'alimenter le dossier pharmaceutique à l'occasion de la dispensation. Dans
+les mêmes conditions, les pharmaciens exerçant dans une pharmacie à usage
+intérieur peuvent consulter et alimenter ce dossier. Les informations de ce
+dossier utiles à la coordination des soins sont reportées dans le dossier
+médical personnel dans les conditions prévues à l'article L. 1111-15.
 
 La mise en oeuvre du dossier pharmaceutique est assurée par le Conseil national
 de l'ordre des pharmaciens mentionné à l'article L. 4231-2.

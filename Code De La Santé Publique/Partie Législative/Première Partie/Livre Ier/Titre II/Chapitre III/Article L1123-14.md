@@ -52,13 +52,13 @@ missions de service public définies à l'article L. 6112-1, un établissement
 public ou toute autre personne physique ou morale ne poursuivant pas de but
 lucratif portant sur :
 
-- des médicaments bénéficiant de l'autorisation de mise sur le marché prévue à
-l'article L. 5121-8 ou de l'autorisation temporaire d'utilisation prévue au a de
-l'article L. 5121-12 ;
+-des médicaments bénéficiant de l'autorisation de mise sur le marché prévue à
+l'article L. 5121-8 ou de l'autorisation temporaire d'utilisation prévue au 1°
+du I de l'article L. 5121-12 ;
 
-- des produits mentionnés à l'article L. 165-1 du code de la sécurité sociale
+-des produits mentionnés à l'article L. 165-1 du code de la sécurité sociale
 ayant reçu le certificat mentionné à l'article L. 5211-3 ;
 
-- des dispositifs médicaux ne disposant pas de ce certificat et autorisés à
-titre dérogatoire par le directeur général de l'Agence française de sécurité
-sanitaire des produits de santé.
+-des dispositifs médicaux ne disposant pas de ce certificat et autorisés à titre
+dérogatoire par le directeur général de l'Agence française de sécurité sanitaire
+des produits de santé.

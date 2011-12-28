@@ -26,11 +26,11 @@ médecin ou une sage-femme. Elle est faite soit au lieu d'exercice du praticien,
 soit dans un établissement de santé ou dans un centre de soins agréé.
 
 III.-Les sages-femmes sont habilitées à prescrire les contraceptifs locaux et
-les contraceptifs hormonaux. La surveillance et le suivi biologique sont assurés
-par le médecin traitant.
+les contraceptifs hormonaux.
 
 Dans les services de médecine de prévention des universités, la délivrance de
-médicaments ayant pour but la contraception, et notamment la contraception
-d'urgence, s'effectue dans des conditions définies par décret. Ces services
-s'assurent de l'accompagnement psychologique de l'étudiant et veillent à la mise
-en œuvre d'un suivi médical.
+médicaments ayant pour but la contraception d'urgence, s'effectue dans des
+conditions définies par décret. Les infirmiers exerçant dans ces services
+peuvent procéder à la délivrance et l'administration de ces médicaments. Ces
+services s'assurent de l'accompagnement psychologique de l'étudiant et veillent
+à la mise en œuvre d'un suivi médical.
