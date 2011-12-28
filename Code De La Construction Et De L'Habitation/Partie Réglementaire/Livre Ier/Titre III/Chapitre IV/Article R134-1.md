@@ -6,8 +6,8 @@ couvert, à l'exception des catégories suivantes :
 a) Les constructions provisoires prévues pour une durée d'utilisation égale ou
 inférieure à deux ans ;
 
-b) Les bâtiments indépendants dont la surface hors oeuvre brute au sens de
-l'article R. 112-2 du code de l'urbanisme est inférieure à 50 mètres carrés ;
+b) Les bâtiments indépendants dont la surface de plancher au sens de l'article
+R. 112-2 du code de l'urbanisme est inférieure à 50 mètres carrés ;
 
 c) Les bâtiments ou parties de bâtiments à usage agricole, artisanal ou
 industriel, autres que les locaux servant à l'habitation, dans lesquels le

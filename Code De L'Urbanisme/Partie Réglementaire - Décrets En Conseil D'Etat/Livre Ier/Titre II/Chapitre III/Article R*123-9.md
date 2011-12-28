@@ -46,9 +46,8 @@ de stationnement ;
 d'espaces libres, d'aires de jeux et de loisirs, et de plantations ;
 
 14° Le coefficient d'occupation du sol défini par l'article R. 123-10 et, le cas
-échéant, dans les zones d'aménagement concerté, la surface de plancher
-développée hors oeuvre nette dont la construction est autorisée dans chaque
-îlot.
+échéant, dans les zones d'aménagement concerté, la surface de plancher nette
+dont la construction est autorisée dans chaque îlot.
 
 Lorsque le plan de déplacements urbains a délimité, en application de l'article
 28-1-2 de la loi n° 82-1153 du 30 décembre 1982 modifiée, des périmètres à

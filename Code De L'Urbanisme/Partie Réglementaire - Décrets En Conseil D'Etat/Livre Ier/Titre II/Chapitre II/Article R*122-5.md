@@ -10,8 +10,8 @@ d'aménagement différé ;
 
 3° Les lotissements, les remembrements réalisés par des associations foncières
 urbaines et les constructions soumises à autorisations, lorsque ces opérations
-ou constructions portent sur une surface hors oeuvre nette de plus de 5 000
-mètres carrés ;
+ou constructions portent sur une surface de plancher de plus de 5 000 mètres
+carrés ;
 
 4° La constitution, par des collectivités et établissements publics, de réserves
 foncières de plus de cinq hectares d'un seul tenant.

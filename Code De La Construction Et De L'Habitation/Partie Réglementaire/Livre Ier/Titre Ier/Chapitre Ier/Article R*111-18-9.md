@@ -21,5 +21,7 @@ prévues à l'article R. 111-18-2.
 Pour l'application du premier alinéa du présent article, sont pris en compte
 pour calculer le coût des travaux le montant des travaux décidés ou financés au
 cours des deux dernières années et, pour déterminer la valeur du bâtiment, le
-produit de la surface hors oeuvre nette par un coût de construction défini par
-arrêté du ministre chargé de la construction.
+produit de la surface hors oeuvre nette dans sa définition applicable avant
+l'entrée en vigueur de l'ordonnance n° 2011-1539 du 16 novembre 2011 portant
+réforme de la surface de plancher par un coût de construction défini par arrêté
+du ministre chargé de la construction.

@@ -1,17 +1,17 @@
 Article R*123-10
 ----
 Le coefficient d'occupation du sol qui détermine la densité de construction
-admise est le rapport exprimant le nombre de mètres carrés de plancher hors
-oeuvre nette ou le nombre de mètres cubes susceptibles d'être construits par
-mètre carré de sol.
+admise est le rapport exprimant le nombre de mètres carrés de surface de
+plancher ou le nombre de mètres cubes susceptibles d'être construits par mètre
+carré de sol.
 
 Pour le calcul du coefficient d'occupation du sol, la superficie du ou des
 terrains faisant l'objet de la demande d'autorisation de construire ou de lotir
 comprend, le cas échéant, les terrains classés comme espaces boisés en
 application de l'article L. 130-1 et les terrains cédés gratuitement dans les
-conditions fixées par les articles R. 332-15 et R. 332-16. La surface hors
-oeuvre nette ou, le cas échéant, le volume des bâtiments existants conservés sur
-le ou les terrains faisant l'objet de la demande est déduit des possibilités de
+conditions fixées par les articles R. 332-15 et R. 332-16. La surface de
+plancher ou, le cas échéant, le volume des bâtiments existants conservés sur le
+ou les terrains faisant l'objet de la demande est déduit des possibilités de
 construction.
 
 Les emplacements réservés mentionnés au 8° de l'article L. 123-1 (1) sont

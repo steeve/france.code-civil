@@ -4,13 +4,16 @@ Sont dispensées de toute formalité au titre du présent code, en raison de leu
 nature ou de leur très faible importance, sauf lorsqu'ils sont implantés dans un
 secteur sauvegardé dont le périmètre a été délimité ou dans un site classé :
 
-a) Les constructions nouvelles dont la hauteur au-dessus du sol est inférieure à
-douze mètres et qui n'ont pas pour effet de créer de surface de plancher ou qui
-ont pour effet de créer une surface hors oeuvre brute inférieure ou égale à deux
-mètres carrés ;
+a) Les constructions nouvelles répondant aux critères cumulatifs suivants :
+
+- une hauteur au-dessus du sol inférieure ou égale à douze mètres ;
+
+- une emprise au sol inférieure ou égale à deux mètres carrés ;
+
+- une surface de plancher inférieure ou égale à deux mètres carrés.
 
 b) Les habitations légères de loisirs implantées dans un terrain de camping ou
-un parc résidentiel de loisirs autorisé et dont la surface hors oeuvre nette est
+un parc résidentiel de loisirs autorisé et dont la surface de plancher est
 inférieure ou égale à trente-cinq mètres carrés ;
 
 c) Les éoliennes terrestres dont la hauteur du mât et de la nacelle au-dessus du

@@ -5,4 +5,4 @@ déclaration préalable, le dossier est complété par :
 
 1° Le plan de masse prévu par l'article R. 431-9 ;
 
-2° Le cas échéant, la surface hors oeuvre nette des constructions.
+2° Le cas échéant, la surface de plancher des constructions.

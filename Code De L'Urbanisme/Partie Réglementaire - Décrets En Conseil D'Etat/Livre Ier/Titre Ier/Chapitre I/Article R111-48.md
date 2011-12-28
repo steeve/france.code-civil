@@ -6,7 +6,7 @@ Sont soumis à l'étude de sécurité publique prévue par l'article L. 111-3-1 
 sens du recensement général de la population :
 
 a) L'opération d'aménagement qui, en une ou plusieurs phases, a pour effet de
-créer une surface hors oeuvre nette supérieure à 70 000 mètres carrés ;
+créer une surface de plancher supérieure à 70 000 mètres carrés ;
 
 b) La création d'un établissement recevant du public de première ou de deuxième
 catégorie au sens de l'article R. 123-19 du code de la construction et de
@@ -18,17 +18,17 @@ au sol, soit de modifier les accès sur la voie publique.
 Les dispositions ci-dessus s'appliquent également aux établissements
 d'enseignement du second degré de troisième catégorie ;
 
-c) L'opération de construction ayant pour effet de créer une surface hors œuvre
-nette supérieure ou égale à 70 000 mètres carrés.
+c) L'opération de construction ayant pour effet de créer une surface de plancher
+supérieure ou égale à 70 000 mètres carrés.
 
 1° bis En dehors des agglomérations de plus de 100 000 habitants au sens du
 recensement général de la population, les opérations ou travaux suivants :
 
--la création d'un établissement d'enseignement du second degré de première,
+― la création d'un établissement d'enseignement du second degré de première,
 deuxième ou troisième catégorie au sens de l'article R. 123-19 du code de la
 construction et de l'habitation ;
 
--la création d'une gare ferroviaire, routière ou maritime de première ou
+― la création d'une gare ferroviaire, routière ou maritime de première ou
 deuxième catégorie ainsi que les travaux soumis à permis de construire exécutés
 sur une gare existante de même catégorie et ayant pour effet soit d'augmenter de
 plus de 10 % l'emprise au sol, soit de modifier les accès sur la voie publique.

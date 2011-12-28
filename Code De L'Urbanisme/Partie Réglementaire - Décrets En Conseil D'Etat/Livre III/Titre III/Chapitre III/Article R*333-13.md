@@ -5,9 +5,9 @@ compétence en matière d'urbanisme reçoivent en totalité les sommes versées,
 titre d'opération de rénovation urbaine ou de résorption de l'habitat insalubre
 entreprise à l'initiative des personnes publiques, à la condition que :
 
-a) Au moins 30 % de la surface de plancher développée hors oeuvre des
-constructions édifiées dans la zone soit constituée de logements dont
-l'attribution est subordonnée à des conditions de ressources ;
+a) Au moins 30 % de la surface de plancher des constructions édifiées dans la
+zone soit constituée de logements dont l'attribution est subordonnée à des
+conditions de ressources ;
 
 b) Au moins 5 % de la surface des terrains compris dans la zone soit occupée par
 des équipements collectifs bâtis tels que des crèches, des équipements

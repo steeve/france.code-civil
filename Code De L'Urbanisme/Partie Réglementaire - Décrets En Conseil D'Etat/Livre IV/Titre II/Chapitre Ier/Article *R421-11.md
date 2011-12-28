@@ -8,10 +8,15 @@ considération en application de l'article R. 331-4 du code de l'environnement e
 L. 331-2 du même code, les constructions nouvelles suivantes doivent être
 précédées d'une déclaration préalable :
 
-a) Les constructions n'ayant pas pour effet de créer une surface hors œuvre
-brute ou ayant pour effet de créer une surface hors œuvre brute inférieure ou
-égale à vingt mètres carrés, quelle que soit leur hauteur, ainsi que les
-ouvrages de production d'électricité à partir de l'énergie solaire installés sur
-le sol dont la puissance crête est inférieure à trois kilowatts ;
+a) Les constructions nouvelles répondant aux critères cumulatifs suivants :
 
-b) Les murs, quelle que soit leur hauteur.
+- une hauteur au-dessus du sol inférieure ou égale à douze mètres ;
+
+- une emprise au sol inférieure ou égale à vingt mètres carrés ;
+
+- une surface de plancher inférieure ou égale à vingt mètres carrés.
+
+b) Les ouvrages de production d'électricité à partir de l'énergie solaire
+installés sur le sol dont la puissance crête est inférieure à trois kilowatts ;
+
+c) Les murs, quelle que soit leur hauteur.

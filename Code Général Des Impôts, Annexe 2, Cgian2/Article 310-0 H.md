@@ -61,8 +61,10 @@ l'éclairage des parties communes et au chauffage de l'eau chaude sanitaire ;
 
 b. La quantité de matériaux renouvelables utilisés pour la construction doit
 représenter au moins 20 décimètres cubes par mètre carré de surface hors oeuvre
-nette pour les bâtiments composés d'au plus quatre étages, et au moins 10
-décimètres cubes par mètre carré pour ceux comportant plus de quatre étages.
+nette dans sa définition applicable avant l'entrée en vigueur de l'ordonnance n°
+2011-1539 du 16 novembre 2011 portant réforme de la surface de plancher pour les
+bâtiments composés d'au plus quatre étages, et au moins 10 décimètres cubes par
+mètre carré pour ceux comportant plus de quatre étages.
 
 Un arrêté du ministre chargé du logement et de la construction définit les
 sources d'énergie renouvelable et les matériaux renouvelables à prendre en

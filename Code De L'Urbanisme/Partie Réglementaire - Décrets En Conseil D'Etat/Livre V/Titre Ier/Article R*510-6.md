@@ -73,8 +73,8 @@ Magny-en-Vexin.
 - dans le périmètre de l'opération d'intérêt national de La Défense tel que
 défini au b de l'article R. 490-5 du code de l'urbanisme pour les opérations de
 reconstruction, dans la limite de la création de 40 000 mètres carrés de surface
-hors oeuvre nette de planchers supplémentaires ou lorsque l'extension de surface
-est inférieure ou égale à 0,5 fois la surface initiale.
+de plancher de planchers supplémentaires ou lorsque l'extension de surface est
+inférieure ou égale à 0,5 fois la surface initiale.
 
 2. Lorsque ces opérations portent sur des locaux à usage :
 
@@ -90,8 +90,8 @@ est inférieure ou égale à 0,5 fois la surface initiale.
 bureaux sans extension de surface.
 
 4. Lorsque ces opérations ajoutées à celles éventuellement réalisées sur le même
-site au cours des douze mois précédents portent sur une superficie hors oeuvre
-nette inférieure à :
+site au cours des douze mois précédents portent sur une surface de plancher
+inférieure à :
 
 - 1 000 mètres carrés pour la construction de locaux destinés à un usage
 technique, scientifique, d'enseignement ou de bureaux ;

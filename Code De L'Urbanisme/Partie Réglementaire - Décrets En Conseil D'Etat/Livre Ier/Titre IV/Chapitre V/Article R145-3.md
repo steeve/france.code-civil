@@ -17,12 +17,11 @@ par jour sur un denivelé supérieur à 300 mètres ;
 urbanisé ou dans un secteur constructible situé en continuité de l'urbanisation
 :
 
-a) La création ou l'extension, sur une surface de plancher hors oeuvre nette
-totale supérieure à 300 mètres carrés, d'hébergements touristiques ou
-d'équipements touristiques ;
+a) La création ou l'extension, sur une surface de plancher totale supérieure à
+300 mètres carrés, d'hébergements touristiques ou d'équipements touristiques ;
 
 b) L'aménagement de terrains de camping comprenant plus de 20 emplacements ;
 
 c) La création de refuges de montagne mentionnés à l'article L. 326-1 du code du
-tourisme, ou leur extension sur une surface de plancher hors oeuvre nette totale
-supérieure à 100 mètres carrés.
+tourisme, ou leur extension sur une surface de plancher totale supérieure à 100
+mètres carrés.

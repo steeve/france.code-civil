@@ -2,8 +2,8 @@ Article R111-22
 ----
 La présente sous-section s'applique à la construction de tout bâtiment nouveau
 ou partie nouvelle de bâtiment ou à toute opération de construction de
-bâtiments, dont la superficie hors oeuvre nette totale nouvelle est supérieure à
-1 000 m2, à l'exception des catégories suivantes :
+bâtiments, dont la surface de plancher totale nouvelle est supérieure à 1 000
+m2, à l'exception des catégories suivantes :
 
 a) Les constructions provisoires prévues pour une durée d'utilisation égale ou
 inférieure à deux ans ;

@@ -1,9 +1,9 @@
 Article R122-10
 ----
 Les compartiments prévus à l'article R. 122-9 ont la hauteur d'un niveau, une
-longueur n'excédant pas 75 mètres et une surface hors œuvre nette au plus égale
-à 2 500 mètres carrés ou une surface hors œuvre brute au plus égale à 3 000
-mètres carrés.
+longueur n'excédant pas 75 mètres et une surface de plancher au plus égale à 2
+500 mètres carrés ou une surface hors œuvre brute au plus égale à 3 000 mètres
+carrés.
 
 Les compartiments peuvent comprendre deux niveaux si la surface totale n'excède
 pas 2 500 mètres carrés ; ils peuvent comprendre trois niveaux pour une surface

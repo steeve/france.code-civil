@@ -14,11 +14,8 @@ d) La nature des travaux ;
 e) La destination des constructions, par référence aux différentes destinations
 définies à l'article R. 123-9 ;
 
-f) La surface hors oeuvre nette des constructions projetées, s'il y a lieu
-répartie selon les différentes destinations définies à l'article R. 123-9, ainsi
-que leur surface hors oeuvre brute lorsque le projet n'est pas situé dans un
-territoire couvert par plan local d'urbanisme ou un document d'urbanisme en
-tenant lieu.
+f) La surface de plancher des constructions projetées, s'il y a lieu répartie
+selon les différentes destinations définies à l'article R. 123-9.
 
 La demande comporte également l'attestation du ou des demandeurs qu'ils
 remplissent les conditions définies à l'article R. 423-1 pour déposer une

@@ -8,7 +8,7 @@ de la demande est complété par :
 
 a) La délimitation de cette partie des constructions ;
 
-b) La mention de la surface de plancher hors oeuvre nette correspondante ;
+b) La mention de la surface de plancher correspondante ;
 
 c) L'estimation sommaire du coût foncier qui lui sera imputé ;
 

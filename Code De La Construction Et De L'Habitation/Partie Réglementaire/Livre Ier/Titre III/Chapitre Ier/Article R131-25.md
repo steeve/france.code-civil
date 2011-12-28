@@ -9,8 +9,8 @@ d'énergie pour réguler la température intérieure ;
 b) Les constructions provisoires prévues pour une durée d'utilisation égale ou
 inférieure à deux ans ;
 
-c) Les bâtiments indépendants dont la surface hors oeuvre brute au sens de
-l'article R. 112-2 du code de l'urbanisme est inférieure à 50 m2 ;
+c) Les bâtiments indépendants dont la surface de plancher au sens de l'article
+R. 112-2 du code de l'urbanisme est inférieure à 50 m2 ;
 
 d) Les bâtiments à usage agricole, artisanal ou industriel, autres que les
 locaux servant à l'habitation, qui ne demandent qu'une faible quantité d'énergie

@@ -1,8 +1,7 @@
 Article R*510-9
 ----
-La décision accordant l'agrément fixe la superficie hors oeuvre nette (SHON)
-autorisée et détermine les conditions et réserves auxquelles est subordonnée
-l'opération.
+La décision accordant l'agrément fixe la surface de plancher autorisée et
+détermine les conditions et réserves auxquelles est subordonnée l'opération.
 
 La décision peut, soit subordonner la réalisation de l'opération à l'exécution
 effective d'engagements souscrits par le bénéficiaire, notamment quant à la
