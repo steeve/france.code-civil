@@ -16,11 +16,3 @@ Lorsque le conseil d'orientation est saisi de questions relatives à
 l'indemnisation des dommages mentionnés au troisième alinéa de l'article L.
 1142-22, sa composition est adaptée à ces questions, dans des conditions
 déterminées par décret en Conseil d'Etat.
-
-Les membres du conseil d'orientation ainsi que ceux du collège d'experts
-mentionné à l'article L. 1142-24-4 adressent au directeur de l'office, à
-l'occasion de leur nomination, une déclaration mentionnant leurs liens, directs
-ou indirects, avec les entreprises, établissements ou organismes dont l'activité
-entre dans le champ de compétence de l'office. Cette déclaration est actualisée
-à leur initiative dès qu'une modification intervient concernant ces liens ou que
-de nouveaux liens sont noués. Elle est rendue publique.

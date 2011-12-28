@@ -12,16 +12,11 @@ En outre, les membres du conseil d'orientation, des groupes d'experts ou de
 toute autre commission siégeant auprès de l'agence ne peuvent, sous réserve des
 peines prévues à l'article 432-12 du code pénal, prendre part ni aux
 délibérations ni aux votes de ces instances s'ils ont un intérêt direct ou
-indirect à l'affaire examinée. Ils adressent au directeur général, à l'occasion
-de leur nomination ou de leur entrée en fonctions, puis annuellement, une
-déclaration mentionnant leurs liens, directs ou indirects, avec les entreprises
-ou établissements dont les activités entrent dans le champ de compétence de
-l'agence ainsi qu'avec les sociétés ou organismes de conseil intervenant dans
-les secteurs correspondants. Cette déclaration est actualisée à leur initiative
-dès qu'une modification intervient concernant ces liens ou que de nouveaux liens
-sont noués. Elle est rendue publique. Les règles de fonctionnement de ces
-instances garantissant l'indépendance de leurs membres et l'absence de conflits
-d'intérêts sont fixées par voie réglementaire.
+indirect à l'affaire examinée. Cette déclaration est actualisée à leur
+initiative dès qu'une modification intervient concernant ces liens ou que de
+nouveaux liens sont noués. Elle est rendue publique. Les règles de
+fonctionnement de ces instances garantissant l'indépendance de leurs membres et
+l'absence de conflits d'intérêts sont fixées par voie réglementaire.
 
 Les ministres chargés de la santé et de la recherche et le directeur général de
 l'agence peuvent mettre fin aux fonctions respectivement des membres du conseil

@@ -15,9 +15,6 @@ travail. Cette convention collective de travail, ses annexes et avenants
 n'entrent en application qu'après approbation par le ministre chargé de la
 santé.
 
-Les personnels de l'Etablissement français du sang sont soumis aux dispositions
-de l'article L. 5323-4.
-
 Pour l'application du code du travail, l'Etablissement français du sang est
 considéré comme un établissement public industriel et commercial. Le livre Ier
 et les titres Ier et II du livre III de la deuxième partie du code du travail
