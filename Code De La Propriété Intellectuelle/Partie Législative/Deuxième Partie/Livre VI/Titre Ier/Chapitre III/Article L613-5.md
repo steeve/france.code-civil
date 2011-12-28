@@ -15,5 +15,8 @@ d) Aux études et essais requis en vue de l'obtention d'une autorisation de mise
 sur le marché pour un médicament, ainsi qu'aux actes nécessaires à leur
 réalisation et à l'obtention de l'autorisation ;
 
+d bis) Aux actes nécessaires à l'obtention du visa de publicité mentionné à
+l'article L. 5122-9 du code de la santé publique;
+
 e) Aux objets destinés à être lancés dans l'espace extra-atmosphérique
 introduits sur le territoire français.
