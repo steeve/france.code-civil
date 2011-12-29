@@ -1,11 +1,5 @@
 Article D134-35
 ----
-La Caisse nationale de l'assurance maladie des travailleurs salariés retrace
-dans sa comptabilité :
-
-1° En recettes, le produit des cotisations mentionnées à l'article D. 134-33,
-les contributions prévues par les dispositions législatives et réglementaires en
-vigueur et les produits divers affectés aux risques ;
-
-2° En dépenses, le montant des prestations incombant au régime général en
-application de l'article D. 134-34.
+La gestion des risques mentionnés au premier alinéa de l'article L. 134-5-1 fait
+l'objet d'un suivi comptable spécifique par la caisse de retraite et de
+prévoyance des clercs et employés de notaires.
