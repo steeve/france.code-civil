@@ -8,7 +8,7 @@ rémunération distincte :
 
 a) Les honoraires des praticiens et, le cas échéant, les rémunérations des
 personnels qu'ils prennent en charge directement, y compris les examens de
-laboratoire ;
+biologie médicale ;
 
 b) Les honoraires des auxiliaires médicaux à l'exception des soins infirmiers ;
 

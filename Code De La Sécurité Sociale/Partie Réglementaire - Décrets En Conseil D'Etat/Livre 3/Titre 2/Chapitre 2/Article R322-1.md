@@ -6,8 +6,8 @@ suivantes :
 
 1° De 15 à 25 % pour les frais d'honoraires des praticiens et auxiliaires
 médicaux afférents aux soins dispensés au cours d'une hospitalisation dans un
-établissement de santé public ou privé ainsi que les frais d'analyses ou de
-laboratoires afférents à des soins dispensés dans les mêmes conditions ;
+établissement de santé public ou privé ainsi que les frais d'examens de biologie
+médicale afférents à des soins dispensés dans les mêmes conditions ;
 
 2° De 15 à 25 % du tarif de responsabilité de la caisse pour les frais
 d'hospitalisation dans un établissement de santé public ou privé ;
@@ -18,8 +18,8 @@ sont mentionnés au 1° ci-dessus ;
 4° De 35 à 45 % pour les frais d'honoraires des auxiliaires médicaux, sauf pour
 ceux qui sont mentionnés au 1° ci-dessus ;
 
-5° De 35 à 45 % pour les frais d'analyses ou de laboratoires, sauf pour ceux qui
-sont mentionnés au 1° ci-dessus ;
+5° De 35 à 45 % pour les frais d'examens de biologie médicale, sauf pour ceux
+qui sont mentionnés au 1° ci-dessus ;
 
 6° De 70 à 75 % pour les médicaments principalement destinés au traitement des
 troubles ou affections sans caractère habituel de gravité et pour les
@@ -42,7 +42,7 @@ mentionnée à l'article L. 165-1 ;
 
 11° de 30 à 40 % pour tous les autres frais ;
 
-12° De 15 à 25 % pour les forfaits mentionnés aux 2°,4° et 5° de l'article R.
+12° De 15 à 25 % pour les forfaits mentionnés aux 2°, 4° et 5° de l'article R.
 162-32 ;
 
 13° De 15 à 25 % pour les consultations et les actes mentionnés au 3° de

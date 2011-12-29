@@ -18,12 +18,12 @@ c) Date de naissance.
 2° Informations relatives aux soins et prestations délivrés en ville et ayant
 donné lieu à remboursement ou prise en charge :
 
-a) Pour les soins médicaux, chirurgicaux, dentaires, analyses et examens
-biologiques, ainsi que pour les soins infirmiers et de rééducation
-fonctionnelle, y compris les actes et traitements à visée préventive mentionnés
-au 6° et au 9° de l'article L. 321-1 :
+a) Pour les soins médicaux, chirurgicaux, dentaires, examens de biologie
+médicale, ainsi que pour les soins infirmiers et de rééducation fonctionnelle, y
+compris les actes et traitements à visée préventive mentionnés au 6° et au 9° de
+l'article L. 321-1 :
 
-- numéro de code et libellé de l'acte ou de la série d'actes, suivant la liste
+-numéro de code et libellé de l'acte ou de la série d'actes, suivant la liste
 établie en application de l'article L. 162-1-7, avec indication de leur
 cotation, de leur date d'exécution, de la nature du risque au titre duquel la
 prestation est prise en charge, du taux de remboursement appliqué et, s'il y a
@@ -33,7 +33,7 @@ médecin ;
 
 b) Pour les médicaments :
 
-- dénomination de la spécialité pharmaceutique délivrée, sur la base des listes
+-dénomination de la spécialité pharmaceutique délivrée, sur la base des listes
 établies en application de l'article L. 162-17, avec indication de leur numéro
 de code et du libellé correspondant, de leur date de délivrance, de la quantité
 délivrée, de la nature du risque au titre duquel la prestation est prise en
@@ -44,7 +44,7 @@ c) Pour les dispositifs médicaux à usage individuel, tissus et cellules issus 
 corps humain, produits de santé autres que médicaments et prestations de
 services et d'adaptation associées :
 
-- dénomination du dispositif ou du produit délivré, sur la base de la liste des
+-dénomination du dispositif ou du produit délivré, sur la base de la liste des
 produits et prestations établie en application de l'article L. 165-1, avec
 indication de leur numéro de code, de leur date de délivrance, de la nature du
 risque au titre duquel la prestation est prise en charge, du taux de
@@ -63,7 +63,7 @@ réduction ou de la suppression de la participation financière de l'assuré ;
 c) Pour les soins délivrés dans les établissements de santé visés aux a, b et c
 de l'article L. 162-22-6 :
 
-- indication du groupe générique servant de base à la facturation des frais
+-indication du groupe générique servant de base à la facturation des frais
 d'hospitalisation suivant la classification mentionnée au 1° du même article,
 avec mention le cas échéant de la dénomination et du numéro de code des
 spécialités pharmaceutiques, produits et prestations facturés en sus des
@@ -73,14 +73,14 @@ d) Pour les soins délivrés dans les établissements de santé mentionnés aux 
 e de l'article L. 162-22-6, mention des éléments repris du bordereau de
 facturation mentionné au 11° de l'article R. 161-42, et concernant :
 
-- l'intitulé du groupe générique servant de base à la facturation des
-prestations ;
+-l'intitulé du groupe générique servant de base à la facturation des prestations
+;
 
-- le libellé et le numéro de code des actes facturés, suivant les listes
-établies en application de l'article L. 162-1-7, avec indication de leur
-cotation et de leur date d'exécution ;
+-le libellé et le numéro de code des actes facturés, suivant les listes établies
+en application de l'article L. 162-1-7, avec indication de leur cotation et de
+leur date d'exécution ;
 
-- le cas échéant, la dénomination et le numéro de code des spécialités
+-le cas échéant, la dénomination et le numéro de code des spécialités
 pharmaceutiques, produits et prestations facturés en sus des prestations
 d'hospitalisation, en application de l'article L. 162-22-7.
 

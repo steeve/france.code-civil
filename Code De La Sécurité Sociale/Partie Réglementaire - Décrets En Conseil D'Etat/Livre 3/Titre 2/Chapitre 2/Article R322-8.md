@@ -65,9 +65,9 @@ commune des actes médicaux constaté par le directeur général de l'Union
 nationale des caisses d'assurance maladie à la fin de l'année précédente.
 
 IV.-La participation de l'assuré n'est ni réduite ni supprimée pour les frais de
-prothèses dentaires, d'analyses de biologie et d'actes d'anatomo-cyto-pathologie
-sauf si ces actes sont dispensés dans le cadre d'une hospitalisation prévue aux
-2 ou 3 du I ci-dessus.
+prothèses dentaires, d'examens de biologie médicale et d'actes
+d'anatomo-cyto-pathologie sauf si ces actes sont dispensés dans le cadre d'une
+hospitalisation prévue aux 2 ou 3 du I ci-dessus.
 
 V.-La participation de l'assuré est supprimée dans les cas suivants :
 

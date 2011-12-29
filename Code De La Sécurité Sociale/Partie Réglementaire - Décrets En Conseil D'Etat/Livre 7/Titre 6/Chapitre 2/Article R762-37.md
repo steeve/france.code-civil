@@ -5,9 +5,9 @@ prestations dues aux travailleurs expatriés bénéficiaires de l'une des
 assurances volontaires instituées par le présent chapitre sont déterminés dans
 les conditions suivantes :
 
-1°) pour les actes des praticiens et auxiliaires médicaux et pour les analyses
-et examens de laboratoire, les remboursements sont effectués sur la base des
-frais réels, dans la limite des tarifs déterminés par les conventions nationales
+1°) pour les actes des praticiens et auxiliaires médicaux et pour les examens de
+biologie médicale, les remboursements sont effectués sur la base des frais
+réels, dans la limite des tarifs déterminés par les conventions nationales
 prévues au chapitre II du titre VI du livre Ier. En l'absence de telles
 conventions, les remboursements s'effectuent dans la limite de tarifs fixés par
 arrêté conjoint du ministre chargé de la sécurité sociale, du ministre chargé du

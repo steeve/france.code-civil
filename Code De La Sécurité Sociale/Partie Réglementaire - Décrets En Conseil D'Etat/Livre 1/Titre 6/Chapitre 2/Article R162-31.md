@@ -9,7 +9,7 @@ disposition des moyens humains, techniques et matériels nécessaires à
 l'hospitalisation du patient, y compris, pour les établissements mentionnés à
 l'article 24 de l'ordonnance n° 96-346 du 24 avril 1996 portant réforme de
 l'hospitalisation publique et privée, la mise à disposition des praticiens et
-auxiliaires médicaux et l'exécution des examens de laboratoire.
+auxiliaires médicaux et l'exécution des examens de biologie médicale.
 
 La prise en charge des frais occasionnés par ces prestations est assurée par des
 forfaits.

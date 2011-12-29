@@ -12,10 +12,10 @@ section G, du conseil national de l'ordre des pharmaciens sont :
 assurés sociaux.
 
 Dans le cas d'abus des prix de vente des médicaments et des fournitures ou des
-prix d'analyses, les sections des assurances sociales du conseil régional, des
-conseils centraux de la section D et de la section G et du conseil national
-peuvent également ordonner le remboursement du trop-perçu à l'assuré, même si
-elles ne prononcent aucune des sanctions prévues ci-dessus.
+prix des examens de biologie médicale, les sections des assurances sociales du
+conseil régional, des conseils centraux de la section D et de la section G et du
+conseil national peuvent également ordonner le remboursement du trop-perçu à
+l'assuré, même si elles ne prononcent aucune des sanctions prévues ci-dessus.
 
 Les décisions des sections des assurances sociales du conseil régional, des
 conseils centraux de la section D et de la section G et du conseil national

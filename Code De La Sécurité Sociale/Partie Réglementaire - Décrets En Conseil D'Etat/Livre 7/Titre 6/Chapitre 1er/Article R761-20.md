@@ -5,8 +5,8 @@ doit comprendre toutes les justifications des dépenses exposées, et notamment 
 
 1° Le montant des honoraires perçus par le praticien ;
 
-2° Les factures de pharmacie, d'examens de laboratoire, de fournitures autres
-que les médicaments, d'appareillage ou de transport sanitaire ;
+2° Les factures de pharmacie, d'examens de biologie médicale, de fournitures
+autres que les médicaments, d'appareillage ou de transport sanitaire ;
 
 3° Le montant des frais d'hospitalisation ou des frais de séjour dans un
 établissement de soins, de réadaptation fonctionnelle ou de rééducation

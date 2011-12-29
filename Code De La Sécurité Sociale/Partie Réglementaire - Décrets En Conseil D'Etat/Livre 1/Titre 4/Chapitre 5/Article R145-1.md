@@ -15,8 +15,8 @@ salariés ;
 
 c) A une section distincte dite section des assurances sociales du conseil
 central de la section G de l'ordre des pharmaciens pour les pharmaciens
-directeurs et directeurs adjoints de laboratoires d'analyses de biologie
-médicale.
+biologistes-responsables, biologistes-coresponsables et biologistes médicaux des
+laboratoires de biologie médicale.
 
 En appel, ces mêmes faits sont soumis à une section distincte du conseil
 national de l'ordre des pharmaciens dite Section des assurances sociales dudit

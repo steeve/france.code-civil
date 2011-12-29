@@ -10,9 +10,9 @@ l'article L. 162-22-7.
 l'exception des établissements mentionnés à l'article 24 de l'ordonnance n°
 96-346 du 24 avril 1996 :
 
--les honoraires des praticiens, y compris ceux afférents aux examens de
-laboratoire, et, le cas échéant, les rémunérations des personnels qu'ils
-prennent en charge directement ;
+-les honoraires des praticiens, y compris ceux afférents aux examens de biologie
+médicale, et, le cas échéant, les rémunérations des personnels qu'ils prennent
+en charge directement ;
 
 -les honoraires des auxiliaires médicaux, à l'exclusion de ceux afférents aux
 soins infirmiers.
@@ -26,7 +26,7 @@ soins infirmiers.
 l'activité d'hospitalisation à domicile et font l'objet d'une prise en charge
 distincte les honoraires des praticiens à l'exception :
 
-a) De ceux afférents aux examens de laboratoire ;
+a) De ceux afférents aux examens de biologie médicale ;
 
 b) Pour les établissements mentionnés aux a, b et c de l'article L. 162-22-6, de
 ceux du praticien désigné par le patient pour assurer de façon continue sa prise

@@ -11,7 +11,7 @@ celles formées en application de l' article L. 141- 2, sont soumises à un expe
 inscrit sur l' une des listes visées à l' article R. 141- 1 ;
 
 2° Les contestations portant sur l' application par les professionnels de santé
-des nomenclatures d' actes professionnels et d' actes de biologie médicale sont
+des nomenclatures d' actes professionnels et d'examens de biologie médicale sont
 soumises, en application de l' article L. 141- 2- 1, à un expert inscrit sur la
 liste nationale mentionnée à l' article R. 142- 24- 3.
 
