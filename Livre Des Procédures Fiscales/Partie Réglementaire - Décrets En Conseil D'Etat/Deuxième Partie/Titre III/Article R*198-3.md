@@ -7,5 +7,6 @@ directs sont communiquées, pour avis, au maire ou à la commission communale de
 impôts directs prévue à l'article 1650 du code général des impôts, lorsque le
 litige porte sur une question de fait.
 
-Elles sont communiquées au maire seul lorsqu'elles concernent la taxe foncière
-ou la taxe professionnelle et à la commission communale dans les autres cas.
+Elles sont communiquées au maire seul lorsqu'elles concernent la taxe foncière,
+la taxe professionnelle ou la cotisation foncière des entreprises et à la
+commission communale dans les autres cas.

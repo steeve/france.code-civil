@@ -28,11 +28,12 @@ de ce service.
 Les entreprises mentionnées aux deuxième à septième alinéas du I de l'article
 1649 quater B quater du code général des impôts adressent au service chargé des
 grandes entreprises l'ensemble des réclamations portant sur les impôts qui
-relèvent de sa compétence ainsi que sur les dégrèvements prévus en matière de
-taxe professionnelle aux articles 1647 bis et 1647 B sexies, quelle que soit la
-période sur laquelle portent ces réclamations. Toutefois, les réclamations
-portant sur une imposition dont l'assiette a été établie à l'initiative d'une
-direction des services fiscaux, d'une direction spécialisée ou d'un autre
-service à compétence nationale sont adressées à cette direction ou à ce service.
+relèvent de sa compétence ainsi que sur les dégrèvements prévus aux articles
+1647 bis, 1647 B sexies, 1647 C quinquies B et 1647 C quinquies C, quelle que
+soit la période sur laquelle portent ces réclamations. Toutefois, les
+réclamations portant sur une imposition dont l'assiette a été établie à
+l'initiative d'une direction des services fiscaux, d'une direction spécialisée
+ou d'un autre service à compétence nationale sont adressées à cette direction ou
+à ce service.
 
 Les réclamations font l'objet d'un récépissé adressé au contribuable.
