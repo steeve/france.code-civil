@@ -4,9 +4,11 @@ I.-Pour bénéficier de la protection complémentaire en matière de santé, les
 personnes mentionnées à l'article L. 861-1 adressent à la caisse d'assurance
 maladie dont elles relèvent un dossier comprenant un formulaire de demande
 conforme à un modèle défini par arrêté ainsi que les renseignements relatifs à
-la composition et aux revenus du foyer. La demande comporte l'indication de
-l'organisme mentionné à l'article L. 861-4 choisi pour assurer la protection
-complémentaire.
+la composition et aux revenus du foyer, sauf si le dossier est établi par voie
+électronique conformément aux dispositions prévues aux A et C du I de l'article
+R. 262-103 et à l'article R. 262-104-1 du code de l'action sociale et des
+familles. La demande comporte l'indication de l'organisme mentionné à l'article
+L. 861-4 choisi pour assurer la protection complémentaire.
 
 Si le demandeur ne peut produire les éléments d'appréciation relatifs aux
 revenus du foyer, il atteste sur l'honneur que ces revenus ne dépassent pas le
