@@ -18,9 +18,10 @@ II. - Le groupement ou la société doit, avant le 16 février de l'année civil
 qui suit celle de la souscription ou l'acquisition de parts, celle du paiement
 des travaux forestiers réalisés par le groupement ou la société ou celle du
 versement de la rémunération au cocontractant mentionné au f du 2 de l'article
-199 decies H du code général des impôts, délivrer à ses associés qui entendent
-bénéficier de la réduction d'impôt un document établi conformément à un modèle
-fixé par l'administration et comportant, pour l'année précédente, les
+199 decies H du code général des impôts ou du versement de la cotisation
+d'assurance mentionnée au g du 2 du même article, délivrer à ses associés qui
+entendent bénéficier de la réduction d'impôt un document établi conformément à
+un modèle fixé par l'administration et comportant, pour l'année précédente, les
 renseignements suivants :
 
 a. La raison sociale et l'adresse du siège social du groupement ou de la société
@@ -47,7 +48,13 @@ précité ;
 
 d. Dans les cas prévus aux e et f du 2 de l'article 199 decies H précité, le
 nombre et le pourcentage de parts du groupement ou de la société détenues par
-l'associé.
+l'associé ;
+
+e. Dans le cas prévu au g du 2 de l'article 199 decies H précité, l'attestation
+de l'entreprise d'assurance précisant l'identité et l'adresse de l'assureur, la
+nature des risques couverts, le nombre d'hectares assurés contre le risque de
+tempête et le montant de la cotisation d'assurance versée pour couvrir notamment
+ce risque au titre de l'année civile.
 
 III. - Chaque année, le groupement ou la société doit joindre à sa déclaration
 de résultat un document établi conformément à un modèle fixé par
@@ -79,7 +86,13 @@ f. L'identité et l'adresse du cocontractant mentionné au f du 2 de l'article 1
 decies H du code général des impôts, la date de signature du contrat, le montant
 de sa rémunération et sa date de versement, ainsi que la désignation de la ou
 des parcelles de terrain en nature de bois et forêts ou de terrain nu à boiser
-concernées.
+concernées ;
+
+g. L'attestation de l'entreprise d'assurance précisant l'identité et l'adresse
+de l'assureur mentionné au g du 2 de l'article 199 decies H précité, la nature
+des risques couverts, le nombre d'hectares assurés contre le risque de tempête
+et le montant de la cotisation d'assurance versée pour couvrir notamment ce
+risque au titre de l'année civile.
 
 IV. - Les parts détenues par les associés qui entendent bénéficier de la
 réduction d'impôt sont inscrites, dans les trente jours suivant la date limite
