@@ -1,8 +1,9 @@
 Article R4143-7
 ----
-Un arrêté du ministre chargé de la santé fixe la liste des conseils
-interrégionaux de la formation continue odontologique.
-
-Le directeur général de l'agence régionale de santé compétent pour l'application
-des articles R. 4143-12 et R. 4343-13 est celui de la région qui comporte le
-plus grand nombre de chirurgiens-dentistes inscrits au tableau de l'ordre.
+Les chirurgiens-dentistes choisissent librement les organismes de développement
+professionnel qui mettent en œuvre les programmes auxquels ils participent.
+L'évaluation scientifique, dont les organismes de développement professionnel
+continu ont fait l'objet par la commission scientifique indépendante des
+chirurgiens-dentistes dans les conditions prévues à l'article R. 4021-24, est
+portée à la connaissance des chirurgiens-dentistes lors de leur inscription à un
+programme.
