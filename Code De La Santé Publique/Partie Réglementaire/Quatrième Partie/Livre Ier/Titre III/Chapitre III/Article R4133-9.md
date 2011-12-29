@@ -1,35 +1,34 @@
 Article R4133-9
 ----
-Le Conseil national de la formation médicale continue des personnels mentionnés
-à l'article L. 6155-1 est composé de :
+Les centres hospitaliers universitaires consacrent au financement des actions de
+développement professionnel continu des médecins qu'ils emploient un pourcentage
+minimum de 0,50 % du montant des rémunérations de leurs médecins, au sens de
+l'article L. 242-1 du code de la sécurité sociale.
 
-1° Trois représentants des conseils nationaux des ordres des médecins, des
-chirurgiens-dentistes et des pharmaciens, nommés sur proposition des conseils
-nationaux de ces ordres ;
+Les autres établissements publics de santé consacrent au financement des actions
+de développement professionnel continu des médecins qu'ils emploient un
+pourcentage minimum de 0,75 % du montant des rémunérations de leurs médecins, au
+sens de l'article L. 242-1 du code de la sécurité sociale.
 
-2° Quatre représentants enseignants des unités de formation et de recherche
-médicale, odontologique et pharmaceutique, nommés sur proposition des directeurs
-des unités de formation et de recherche médicale après avis des présidents des
-universités concernées ;
+Les actions de développement professionnel continu des médecins fonctionnaires
+et contractuels dont les employeurs sont l'Etat et les collectivités locales
+sont financées dans le cadre des crédits prévus par la législation relative à
+chacune de ces fonctions publiques.
 
-3° Treize représentants des organisations syndicales représentatives au plan
-national des médecins, biologistes, pharmaciens, odontologistes des
-établissements publics de santé et des établissements privés participant au
-service public hospitalier ;
+Les actions de développement professionnel continu des médecins salariés du
+secteur privé sont financées dans les conditions prévues par l'article L. 6331-1
+du code du travail.
 
-4° Six représentants des conférences nationales des présidents de commission
-médicale d'établissements publics de santé, à raison de deux représentants par
-conférence, désignés par chacune d'elles, et deux représentants de la conférence
-nationale des présidents de commission médicale des établissements privés
-participant au service public hospitalier, désignés par cette conférence ;
+Les employeurs publics et privés peuvent se libérer totalement ou partiellement
+de l'obligation prévue aux alinéas précédents en versant tout ou partie des
+sommes ainsi calculées à un organisme paritaire collecteur agréé de leur branche
+professionnelle ou de leur champ d'activité ou à l'organisme agréé mentionné à
+l'article 16 de l'ordonnance n° 2005-406 du 2 mai 2005 simplifiant le régime
+juridique des établissements de santé.
 
-5° Un représentant des organismes de formation sur proposition des organismes de
-formation ;
-
-6° Trois personnalités qualifiées ;
-
-7° Un représentant du service de santé des armées, sur proposition du ministre
-chargé de la défense.
-
-Le directeur général de l'offre de soins ou son représentant siège avec voix
-consultative au conseil national.
+L'organisme gestionnaire du développement professionnel continu peut conclure
+des conventions avec les organismes collecteurs agréés régis par le chapitre II
+du titre III du livre III de la sixième partie du code du travail ou avec
+l'organisme agréé mentionné à l'article 16 de l'ordonnance n° 2005-406 précitée
+du 2 mai 2005 simplifiant le régime juridique des établissements de santé, afin
+de concourir au financement du développement professionnel continu des médecins.

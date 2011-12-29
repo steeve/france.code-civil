@@ -1,20 +1,13 @@
 Article R4133-13
 ----
-Le comité est composé de représentants désignés par chacun des conseils
-nationaux de formation médicale continue, à raison de :
+Si l'obligation individuelle de développement professionnel continu prévue à
+l'article R. 4133-1 n'est pas satisfaite, le conseil départemental de l'ordre
+des médecins demande au médecin concerné les motifs du non-respect de cette
+obligation. Au vu des éléments de réponse communiqués, le conseil départemental
+de l'ordre des médecins apprécie la nécessité de mettre en place un plan annuel
+personnalisé de développement professionnel continu et notifie à l'intéressé
+qu'il devra suivre ce plan.
 
-1° Quatre représentants du Conseil national de la formation médicale continue
-des médecins libéraux, dont un membre du Conseil de l'ordre national des
-médecins, nommés sur proposition de ce conseil ;
-
-2° Quatre représentants du Conseil national de la formation médicale continue
-des médecins salariés non hospitaliers, dont un représente les unités de
-formation et de recherche médicales, nommés sur proposition de ce conseil ;
-
-3° Quatre représentants du Conseil national de la formation médicale continue
-des personnels mentionnés à l'article L. 6155-1, dont un représente les
-commissions médicales d'établissement, nommés sur proposition de ce conseil ;
-
-4° Trois représentants du ministre chargé de la santé ;
-
-5° Un représentant du ministre chargé de l'enseignement supérieur.
+L'absence de mise en œuvre de ce plan par le médecin est susceptible de
+constituer un cas d'insuffisance professionnelle au sens de l'article L.
+4113-14.

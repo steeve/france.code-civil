@@ -1,10 +1,20 @@
 Article R4133-3
 ----
-L'agrément de l'organisme qui délivre une formation est renouvelable pour la
-même durée, à la demande de l'organisme et selon les mêmes critères.
+Les orientations nationales du développement professionnel continu sont
+annuelles ou pluriannuelles.
 
-Le renouvellement est subordonné à la transmission annuelle au conseil national
-compétent d'un rapport dressant un bilan pédagogique et financier de l'activité
-de l'organisme agréé. Ce bilan indique notamment le nombre de médecins
-accueillis et le nombre de formations dispensées, en précisant leur nature, leur
-niveau, leur durée et leurs domaines d'intervention.
+Chaque année, le ministre arrête la liste des orientations nationales, après
+avis de la commission scientifique indépendante des médecins. Ces orientations
+nationales concourent à la mise en œuvre des actions figurant dans les
+conventions prévues aux articles L. 162-5, L. 162-14 et L. 162-32-1 du code de
+la sécurité sociale.
+
+Le groupe composé au sein du conseil de surveillance de l'organisme gestionnaire
+du développement professionnel continu, mentionné au 2° du I de l'article R.
+4021-15, peut élaborer des propositions d'orientations nationales qu'il transmet
+à la commission scientifique indépendante des médecins.
+
+Les agences régionales de santé peuvent compléter les orientations nationales
+par des orientations régionales spécifiques, en cohérence avec leur projet
+régional de santé, après avis de la commission scientifique indépendante des
+médecins.

@@ -1,14 +1,6 @@
 Article R4133-12
 ----
-Le Comité de coordination de la formation médicale continue a pour mission :
-
-- de formuler à l'attention des conseils nationaux tous avis et propositions
-susceptibles d'améliorer l'efficacité des actions menées et d'harmoniser leur
-fonctionnement ainsi que la cohérence des procédures et des critères d'agrément
-;
-
-- de procéder aux études et travaux que les conseils nationaux décident de lui
-confier.
-
-Le comité peut demander aux conseils nationaux la communication des documents
-qui peuvent lui être utiles pour l'exercice de ses missions.
+Lorsque le médecin a participé à un programme dispensé par un organisme qui a
+fait l'objet, à la date de son inscription, d'une évaluation défavorable par la
+commission scientifique indépendante des médecins, l'obligation est réputée non
+satisfaite.
