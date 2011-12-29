@@ -1,5 +1,4 @@
 Article R1311-3
 ----
-Dans le cas des acquisitions poursuivies par voie d'expropriation pour cause
-d'utilité publique, les dispositions de l'article R. 1211-3 du code général de
-la propriété des personnes publiques sont applicables.
+L'autorité compétente de l'Etat mentionnée aux articles L. 1311-9, L. 1311-11 et
+L. 1311-12 est le directeur départemental des finances publiques.

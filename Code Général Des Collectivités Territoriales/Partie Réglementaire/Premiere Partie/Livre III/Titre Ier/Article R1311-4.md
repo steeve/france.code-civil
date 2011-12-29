@@ -1,6 +1,4 @@
 Article R1311-4
 ----
-Les collectivités territoriales et leurs groupements dont relèvent des canaux ou
-cours d'eau contigus au réseau des voies confiées par l'Etat à l'établissement
-public Voies navigables de France informent ce dernier des périodes et horaires
-d'ouverture de leur réseau à la navigation.
+Les montants mentionnés aux 1° et 2° de l'article L. 1311-10 sont fixés par
+arrêté du ministre chargé du domaine.
