@@ -15,3 +15,6 @@ propriétaire doit, dans un délai de quatre mois suivant la remise de ce rappor
 effectuer les réparations nécessaires et soumettre le pulvérisateur réparé à un
 nouveau contrôle portant sur les points identifiés comme défaillants, par
 l'organisme d'inspection.
+
+La durée de validité d'un contrôle est de cinq ans à compter de la date de
+rédaction du rapport attestant du bon fonctionnement du pulvérisateur.
