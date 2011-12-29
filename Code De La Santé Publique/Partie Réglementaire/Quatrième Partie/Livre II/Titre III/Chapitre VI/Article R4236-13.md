@@ -1,16 +1,12 @@
 Article R4236-13
 ----
-Les nominations des membres des conseils régionaux et interrégionaux de la
-formation pharmaceutique continue sont publiées aux recueils des actes
-administratifs des départements et des régions ou au Journal officiel.
+Si l'obligation individuelle de développement professionnel continu prévue à
+l'article R. 4236-1 n'est pas satisfaite, le Conseil national de l'ordre des
+pharmaciens demande au pharmacien concerné les motifs du non-respect de cette
+obligation. Au vu des éléments de réponse communiqués, le Conseil national de
+l'ordre apprécie la nécessité de mettre en place un plan annuel personnalisé de
+développement professionnel continu et notifie à l'intéressé qu'il devra suivre
+ce plan.
 
-Si un membre du conseil régional ou interrégional cesse ses fonctions avant le
-terme normal de son mandat, quelle qu'en soit la cause, son remplacement
-intervient dans les mêmes conditions que la nomination et pour la durée du
-mandat restant à courir.
-
-Lorsqu'un membre régulièrement convoqué s'est abstenu pendant six mois
-d'assister aux séances du conseil régional ou interrégional, le président peut
-demander au conseil national de le déclarer démissionnaire d'office et de
-pourvoir à son remplacement. Il en est de même en cas de défaut répété et non
-justifié de participation aux travaux du conseil.
+L'absence de mise en œuvre de son plan annuel personnalisé par le pharmacien est
+susceptible de constituer un cas d'insuffisance professionnelle.

@@ -1,41 +1,19 @@
 Article R4236-2
 ----
-Le Conseil national de la formation pharmaceutique continue agrée les organismes
-de formation continue remplissant la condition fixée au deuxième alinéa de
-l'article R. 4133-2, sur la base d'un cahier des charges qu'il élabore et qui
-prend en compte les critères suivants :
+Le pharmacien satisfait à son obligation de développement professionnel continu
+dès lors qu'il participe, au cours de chaque année civile, à un programme de
+développement professionnel continu collectif annuel ou pluriannuel.
 
-1° La qualité scientifique et pédagogique des programmes proposés ;
+Ce programme doit :
 
-2° Leur conformité aux référentiels et règles de bonnes pratiques de la
-profession dans tous les thèmes abordés ;
+1° Se conformer à une orientation nationale ou à une orientation régionale de
+développement professionnel continu ;
 
-3° La transparence des financements ;
+2° Comporter une des méthodes et des modalités validées par la Haute Autorité de
+santé après avis de la commission scientifique indépendante des pharmaciens ;
+ces méthodes et modalités précisent les conditions qui permettent d'apprécier la
+participation effective, en tant que participant ou en tant que formateur, à un
+programme de développement professionnel continu ;
 
-4° L'engagement relatif à l'absence de toute promotion en faveur d'un produit de
-santé et à l'utilisation de la dénomination commune des médicaments ;
-
-5° Le respect des orientations nationales définies par le conseil national ;
-
-6° L'acceptation du principe d'une évaluation externe du fonctionnement de
-l'organisme de formation et de la qualité des formations.
-
-L'agrément de l'organisme est accordé pour une durée de cinq ans renouvelable.
-
-Le silence gardé par le conseil national pendant un délai de quatre mois à
-compter de la réception du dossier complet de la demande d'agrément vaut
-décision de rejet.
-
-Chaque organisme agréé est tenu de transmettre annuellement au Conseil national
-de la formation continue un rapport dressant un bilan pédagogique et financier
-de son activité. Ce bilan indique, notamment, le nombre de pharmaciens formés et
-le nombre de formations dispensées, en précisant leur objet, leur nature, leur
-durée et le mode d'évaluation des acquis des pharmaciens à l'issue des
-formations suivies.
-
-L'agrément peut être suspendu ou retiré par le conseil national lorsque la
-personne morale agréée cesse de satisfaire aux conditions prévues par le présent
-article. Lorsque le conseil national envisage de suspendre ou de retirer
-l'agrément, il informe l'organisme de son intention en indiquant les motifs de
-la décision envisagée par lettre recommandée, avec accusé de réception.
-L'organisme dispose d'un délai d'un mois pour présenter ses observations.
+3° Etre mis en œuvre par un organisme de développement professionnel continu
+enregistré.

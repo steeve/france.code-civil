@@ -1,17 +1,20 @@
 Article R4236-3
 ----
-En application de l'article L. 4236-2, l'évaluation de la mise en oeuvre du
-dispositif de formation continue prévue à l'article R. 4236-1 fait l'objet d'un
-rapport annuel comprenant notamment :
+Les orientations nationales du développement professionnel continu sont
+annuelles ou pluriannuelles.
 
-1° Les orientations nationales et leurs évolutions ;
+Chaque année, le ministre chargé de la santé arrête la liste des orientations
+nationales, après avis de la commission scientifique indépendante des
+pharmaciens. Ces orientations nationales concourent à la mise en œuvre des
+actions figurant dans les conventions prévues aux articles L. 162-5, L. 162-14
+et L. 162-32-1 du code de la sécurité sociale.
 
-2° Un bilan des formations continues réalisées pendant l'année ;
+Le groupe composé au sein du conseil de surveillance de l'organisme gestionnaire
+du développement professionnel continu, mentionné au 2° du I de l'article R.
+4021-15, peut élaborer des propositions d'orientations nationales qu'il transmet
+à la commission scientifique indépendante des pharmaciens.
 
-3° Une synthèse des rapports annuels régionaux et interrégionaux mentionnés à
-l'article R. 4236-11 ;
-
-4° Le cas échéant, des propositions d'évolution du système.
-
-Ce rapport est adressé au ministre chargé de la santé avant le 15 mai de l'année
-suivant celle qui fait l'objet du rapport.
+Les agences régionales de santé peuvent compléter les orientations nationales
+par des orientations régionales spécifiques, en cohérence avec leur projet
+régional de santé, après avis de la commission scientifique indépendante des
+pharmaciens.
