@@ -1,12 +1,14 @@
 Article D161-2-1-5
 ----
-Le relevé de situation individuelle mentionné au premier alinéa de l'article L.
-161-17 est délivré, au plus tous les deux ans, sur demande du bénéficiaire à
-compter du 1er juillet 2007.
+Le relevé de situation individuelle mentionné au sixième alinéa de l'article L.
+161-17 est délivré, à la demande du bénéficiaire, soit par courrier au plus tous
+les ans, soit par voie électronique.
 
-Le délai de deux ans fixé au premier alinéa du présent article est décompté de
-date à date à partir de la réception de la précédente demande par l'organisme ou
-le service y ayant répondu.
+Le délai d'un an fixé au premier alinéa du présent article est décompté de date
+à date à partir de la réception de la précédente demande par l'organisme ou le
+service y ayant répondu.
+
+Le relevé est accessible en ligne pour l'assuré. (1)
 
 La demande est adressée à l'un des organismes ou services mentionnés à l'article
 R. 161-10 parmi ceux en charge de la gestion de l'un des régimes dont le
@@ -22,23 +24,24 @@ papier, être datée et signée du demandeur. L'adresse figurant dans la demande
 peut toutefois être différente de celle connue par l'organisme ou le service.
 Elle ne peut cependant consister en une adresse électronique que lorsque la
 demande est présentée par cette voie. La demande est établie conformément au
-modèle fixé par décision du groupement d'intérêt public visé au quatrième alinéa
+modèle fixé par décision du groupement d'intérêt public visé au neuvième alinéa
 de l'article L. 161-17.
 
-Le relevé est adressé au bénéficiaire par l'organisme ou le service auquel il a
-adressé sa demande. Cet organisme ou ce service recueille, s'il y a lieu, les
-données nécessaires à l'établissement du relevé auprès du ou des autres
-organismes ou services en charge du ou des autres régimes dont relève ou a
-relevé le bénéficiaire et lui adresse le relevé dans des conditions et selon des
-modalités garantissant notamment la fiabilité de l'identification du
+Le relevé est adressé au bénéficiaire ou mis en ligne par l'organisme ou le
+service auquel il a adressé sa demande. Cet organisme ou ce service recueille,
+s'il y a lieu, les données nécessaires à l'établissement du relevé auprès du ou
+des autres organismes ou services en charge du ou des autres régimes dont relève
+ou a relevé le bénéficiaire et lui adresse le relevé dans des conditions et
+selon des modalités garantissant notamment la fiabilité de l'identification du
 bénéficiaire, l'intégrité et la confidentialité des échanges, fixées par
-décision du groupement d'intérêt public prévu au quatrième alinéa de l'article
-L. 161-17 et approuvées par arrêté du ministre chargé de la sécurité sociale et
-du ministre chargé du budget, pris après avis de la Commission nationale de
+décision du groupement d'intérêt public prévu au neuvième alinéa de l'article L.
+161-17 et approuvées par arrêté du ministre chargé de la sécurité sociale et du
+ministre chargé du budget, pris après avis de la Commission nationale de
 l'informatique et des libertés.
 
 Dans le cas où le bénéficiaire a adressé sa demande à un organisme ou service en
 charge d'un ou de plusieurs régimes où il n'a pas la qualité d'assuré ou dont le
 bénéficiaire perçoit la ou les pensions, sans apporter d'indication permettant
 d'identifier un autre régime, cet organisme ou ce service l'informe qu'il doit
-s'adresser à un autre organisme ou service.
+s'adresser à un autre organisme ou service et lui communique la liste de ces
+organismes ou services.

@@ -8,9 +8,9 @@ l'estimation mentionnée à l'article D. 161-2-1-7 est adressée, à l'initiativ
 des organismes ou services, aux bénéficiaires atteignant, à partir du 1er
 juillet 2011, chaque année, l'âge de 55 ans.
 
-La périodicité mentionnée au troisième alinéa de l'article L. 161-17 est fixée à
+La périodicité mentionnée au huitième alinéa de l'article L. 161-17 est fixée à
 cinq ans à compter de l'âge fixé au premier alinéa du présent article.
 
-Les dispositions du deuxième alinéa du I et celles du II et du III de l'article
-D. 161-2-1-6 relatives à l'envoi du relevé de situation individuelle sont
-applicables à l'envoi de l'estimation.
+Les dispositions du sixième alinéa de l'article D. 161-2-1-5 et celles du II et
+du III de l'article D. 161-2-1-6 relatives à l'envoi du relevé de situation
+individuelle sont applicables à l'envoi de l'estimation.

@@ -2,7 +2,7 @@ Article D161-2-1-3
 ----
 Le droit à l'information sur la retraite prévu à l'article L. 161-17 s'exerce
 auprès des organismes et services mentionnés à l'article R. 161-10. Il comporte
-la délivrance au bénéficiaire :
+notamment la délivrance au bénéficiaire :
 
 1° Sur demande du bénéficiaire ou à l'initiative de l'organisme ou du service,
 d'un relevé de sa situation individuelle au regard des droits à pension de

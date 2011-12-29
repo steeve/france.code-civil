@@ -4,7 +4,7 @@ I. - Sous réserve de l'application des dispositions du 1° de l'article 3 du
 décret n° 2006-708 du 19 juin 2006 relatif aux modalités et au calendrier de
 mise en oeuvre du droit des assurés à l'information sur leur retraite et
 modifiant le code de la sécurité sociale (deuxième partie : Décrets en Conseil
-d'Etat), le relevé de situation individuelle prévu au deuxième alinéa de
+d'Etat), le relevé de situation individuelle prévu au septième alinéa de
 l'article L. 161-17 est établi au 1er juillet de chaque année, à partir de 2010,
 pour les bénéficiaires atteignant l'âge de 35, 40, 45 ou 50 ans.
 
@@ -14,7 +14,7 @@ précédant celle au cours de laquelle il est établi. Lorsque le bénéficiaire
 relevé en dernier lieu au cours de l'année considérée de plusieurs régimes gérés
 par des organismes ou services distincts, il est établi par l'organisme ou le
 service déterminé selon les modalités fixées par décision du groupement
-d'intérêt public prévu au quatrième alinéa de l'article L. 161-17 et approuvées
+d'intérêt public prévu au neuvième alinéa de l'article L. 161-17 et approuvées
 par arrêté du ministre chargé de la sécurité sociale.
 
 III. - Le relevé est envoyé par l'organisme ou le service compétent à l'adresse
@@ -25,7 +25,7 @@ dont il a relevé.
 Pour l'application du présent article, les organismes et services échangent les
 adresses personnelles des intéressés dans les conditions, garantissant notamment
 l'intégrité et la confidentialité des échanges, fixées par décision du
-groupement d'intérêt public prévu au quatrième alinéa de l'article L. 161-17 et
+groupement d'intérêt public prévu au neuvième alinéa de l'article L. 161-17 et
 approuvées par arrêté du ministre chargé de la sécurité sociale et du ministre
 chargé du budget, pris après avis de la Commission nationale de l'informatique
 et des libertés.
@@ -36,4 +36,4 @@ de magistrat, le relevé peut, si l'Etat employeur le décide, lui être adress�
 par l'intermédiaire de son service gestionnaire. Un arrêté conjoint, pris après
 avis de la Commission nationale de l'informatique et des libertés, du ministre
 de la fonction publique et du ministre chargé du budget fixe les conditions
-garantissant l'intégrité et la confidentialité de l'envoi..
+garantissant l'intégrité et la confidentialité de l'envoi.

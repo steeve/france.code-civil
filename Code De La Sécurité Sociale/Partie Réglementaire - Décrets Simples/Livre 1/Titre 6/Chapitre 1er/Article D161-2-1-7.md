@@ -4,7 +4,7 @@ Sous réserve de l'application des dispositions des 3° à 5° de l'article 3 du
 décret n° 2006-708 du 19 juin 2006 relatif aux modalités et au calendrier de
 mise en oeuvre du droit des assurés à l'information sur leur retraite et
 modifiant le code de la sécurité sociale (deuxième partie : Décrets en Conseil
-d'Etat), l'estimation indicative globale mentionnée au troisième alinéa de
+d'Etat), l'estimation indicative globale mentionnée au huitième alinéa de
 l'article L. 161-17 comporte les données mentionnées au 1° de l'article D.
 161-2-1-4 ainsi que le montant total et le montant de chacune des pensions
 susceptibles d'être versées au bénéficiaire ; elle ne comporte pas la ou les
@@ -19,12 +19,12 @@ Le montant des pensions est estimé :
 l'article R. 161-10 et de l'institution de retraite complémentaire des agents
 non titulaires de l'Etat et des collectivités locales :
 
-a) A l'âge de soixante ans ;
+a) A l'âge de prévu à l'article L. 161-17-2 ;
 
 b) A l'âge atteint à la date prévisible à laquelle la pension pourrait être
 liquidée, selon les régimes, au taux plein ou sans coefficient d'abattement ;
 
-c) A l'âge de soixante-cinq ans ;
+c) A l'âge prévu au 1° de l'article L. 351-8 ;
 
 d) S'il est plus élevé, à l'âge atteint l'année où est établie l'estimation.
 
@@ -81,3 +81,6 @@ estimatif et non contractuel de l'estimation et l'absence d'engagement de
 l'organisme ou du service ayant établi l'estimation ou de l'organisme ou du
 service en charge du ou des régimes concernés de verser aux âges indiqués le ou
 les montants estimés sont mentionnés sur l'estimation.
+
+L'estimation est accompagnée d'une information sur les dispositifs mentionnés
+aux articles L. 161-22, L. 241-3-1 et L. 351-15.

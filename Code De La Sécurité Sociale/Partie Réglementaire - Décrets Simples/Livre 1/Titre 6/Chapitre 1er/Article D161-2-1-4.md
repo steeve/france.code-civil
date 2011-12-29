@@ -4,9 +4,9 @@ Sous réserve de l'application des dispositions des 3° et 4° de l'article 3 du
 décret n° 2006-708 du 19 juin 2006 relatif aux modalités et au calendrier de
 mise en oeuvre du droit des assurés à l'information sur leur retraite et
 modifiant le code de la sécurité sociale (deuxième partie : Décrets en Conseil
-d'Etat), le relevé de situation individuelle mentionné aux deux premiers alinéas
-de l'article L. 161-17 comporte, pour chacun des régimes dont relève ou a relevé
-le bénéficiaire :
+d'Etat), le relevé de situation individuelle mentionné aux sixième et septième
+alinéas de l'article L. 161-17 comporte, pour chacun des régimes dont relève ou
+a relevé le bénéficiaire :
 
 1° Les données mentionnées à l'article R. 161-11 connues par les organismes ou
 services en charge de la gestion de ces régimes à la date à laquelle le relevé
