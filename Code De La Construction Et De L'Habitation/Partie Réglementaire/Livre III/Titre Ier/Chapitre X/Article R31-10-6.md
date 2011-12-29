@@ -15,11 +15,11 @@ prévues au 2°.
 Est considéré comme résidence principale, au sens du présent chapitre, un
 logement occupé au moins huit mois par an, sauf :
 
-- en cas de force majeure ;
+-en cas de force majeure ;
 
-- pour raison de santé ;
+-pour raison de santé ;
 
-- en cas d'obligation liée à l'activité professionnelle, caractérisée par des
+-en cas d'obligation liée à l'activité professionnelle, caractérisée par des
 déplacements réguliers ; par la nécessité absolue de service découlant de
 dispositions statutaires ou obligation figurant dans le contrat de travail
 contraignant l'emprunteur à résider dans un logement qui n'est pas le logement
@@ -27,12 +27,12 @@ financé avec le prêt ; par l'éloignement entre le logement financé et le lie
 l'activité, dans la limite d'une durée de trois ans lorsque le logement n'est
 pas occupé par l'une des personnes mentionnées au b de l'article L. 31-10-4 ;
 
-- en cas mise en location du logement dans les conditions prévues au 2°.
+-en cas mise en location du logement dans les conditions prévues au 2°.
 
 2° Le logement ne peut être proposé à la location que dans les conditions
 suivantes :
 
-- la location doit résulter de la survenance pour l'emprunteur de l'un des faits
+-la location doit résulter de la survenance pour l'emprunteur de l'un des faits
 suivants : mobilité professionnelle lorsque la distance séparant le nouveau lieu
 de l'activité et le logement financé est au moins de 50 km ou entraîne un temps
 de trajet aller au moins égal à 1 h 30 ; décès ; divorce ; dissolution d'un
@@ -45,18 +45,18 @@ mentionnée à l'article L. 146-9 du code de l'action sociale et des familles,
 soit par délivrance par cette commission de la carte d'invalidité prévue à
 l'article L. 241-3 du même code ;
 
-- la location est d'une durée maximale de six ans ;
+-la location est d'une durée maximale de six ans ;
 
-- les ressources du locataire, à la date de la signature du contrat de location,
+-les ressources du locataire, à la date de la signature du contrat de location,
 n'excèdent pas les plafonds applicables pour la location d'un logement locatif
 social financé dans les conditions fixées à la sous-section 3 de la section 1 du
 chapitre unique du titre III du livre III ;
 
-- le montant du loyer n'excède pas les plafonds applicables pour la location
-d'un logement locatif social financé dans les conditions fixées à la
-sous-section 3 de la section 1 du chapitre unique du titre III du livre III ;
+-le montant du loyer n'excède pas les plafonds applicables pour la location d'un
+logement locatif social financé dans les conditions fixées à la sous-section 3
+de la section 1 du chapitre unique du titre III du livre III ;
 
-- la location fait l'objet d'une déclaration par l'emprunteur à l'établissement
+-la location fait l'objet d'une déclaration par l'emprunteur à l'établissement
 de crédit ainsi que, le cas échéant, à l'organisme payeur de l'allocation
 personnalisée au logement prévue aux articles R. 351-1 et suivants.
 
@@ -67,7 +67,7 @@ contrat de travail.
 4° Le logement peut être utilisé à titre accessoire pour un usage commercial ou
 professionnel par l'une des personnes mentionnées au b de l'article L. 31-10-4
 dès lors que la surface affectée à cette activité n'excède pas 15 % de la
-surface financée initialement par le prêt.L'établissement de crédit est informé
+surface financée initialement par le prêt. L'établissement de crédit est informé
 par l'emprunteur de l'exercice de cette activité dans des conditions définies
 par un arrêté des ministres chargés du logement, de l'économie et du budget.
 
@@ -83,5 +83,6 @@ constate.
 Toutefois, l'emprunteur peut bénéficier du transfert du capital restant dû prévu
 à l'article L. 31-10-6 pour le financement d'une opération d'acquisition ou de
 construction d'une nouvelle résidence principale mentionnée à l'article R.
-31-10-2.L'établissement de crédit peut refuser le transfert s'il a pour effet de
-dégrader significativement le niveau de garantie dont il dispose.
+31-10-2 dans sa rédaction en vigueur à la date du transfert. L'établissement de
+crédit peut refuser le transfert s'il a pour effet de dégrader significativement
+le niveau de garantie dont il dispose.

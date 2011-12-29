@@ -16,37 +16,13 @@ DURÉE de la période 2
 
 1
 
-45,0 %
-
-23 ans
-
-7 ans
-
-2
-
-35,0 %
-
-23 ans
-
-5 ans
-
-3
-
-20,0 %
-
-23 ans
-
-3 ans
-
-4
-
 15,0 %
 
 23 ans
 
 2 ans
 
-5
+2
 
 0,0 %
 
@@ -54,7 +30,7 @@ DURÉE de la période 2
 
 -
 
-6
+3
 
 0,0 %
 
@@ -62,7 +38,7 @@ DURÉE de la période 2
 
 -
 
-7
+4
 
 0,0 %
 
@@ -70,7 +46,7 @@ DURÉE de la période 2
 
 -
 
-8
+5
 
 0,0 %
 
@@ -78,7 +54,7 @@ DURÉE de la période 2
 
 -
 
-9
+6
 
 0,0 %
 
@@ -86,18 +62,11 @@ DURÉE de la période 2
 
 -
 
-10
-
-0,0 %
-
-5 ans
-
--
-
 L'appartenance à l'une des tranches mentionnées à l'article L. 31-10-12 est
 déterminée par la correspondance entre les limites de tranche et le montant
 total des ressources mentionné au c de l'article L. 31-10-4 divisé par le
-coefficient familial mentionné à l'article L. 31-10-10.
+coefficient familial apprécié selon les modalités fixées à l'article L.
+31-10-12.
 
 Les limites de tranche mentionnées à l'alinéa précédent sont fixées, en fonction
 du caractère neuf ou ancien du logement et de sa localisation, dans le tableau
@@ -111,202 +80,130 @@ NEUF
 
 ANCIEN
 
-ZONE A
+Zone A
 
 
-ZONE B1
+Zone B1
 
-ZONE B2
-
-
-ZONE C
-
-ZONE A
+Zone B2
 
 
-ZONE B1
+Zone C
 
-ZONE B2
+Zone A
 
 
-ZONE C
+Zone B1
+
+Zone B2
+
+
+Zone C
 
 1
 
-≤ 15 000 €
+23 000 €
 
-≤ 12 000 €
+18 000 €
 
-≤ 10 000 €
+14 000 €
 
-≤ 8 000 €
+11 500 €
 
-≤ 12 000 €
+20 500 €
 
-≤ 10 000 €
+16 000 €
 
-≤ 9 000 €
+12 500 €
 
-≤ 8 000 €
+11 500 €
 
 2
 
-≤ 17 500 €
+25 500 €
 
-≤ 14 000 €
+19 500 €
 
-≤ 11 500 €
+15 000 €
 
-≤ 9 500 €
+13 000 €
 
-≤ 15 000 €
+23 000 €
 
-≤ 12 000 €
+18 000 €
 
-≤ 10 000 €
+14 000 €
 
-≤ 9 500 €
+13 000 €
 
 3
 
-≤ 20 500 €
+28 500 €
 
-≤ 16 000 €
+21 500 €
 
-≤ 12 500 €
+16 500 €
 
-≤ 10 500 €
+14 000 €
 
-≤ 17 500 €
+25 500 €
 
-≤ 14 000 €
+19 500 €
 
-≤ 11 500 €
+15 000 €
 
-≤ 10 500 €
+14 000 €
 
 4
 
-≤ 23 000 €
+31 000 €
 
-≤ 18 000 €
+23 500 €
 
-≤ 14 000 €
+18 000 €
 
-≤ 11 500 €
+15 000 €
 
-≤ 20 500 €
+28 500 €
 
-≤ 16 000 €
+21 500 €
 
-≤ 12 500 €
+16 500 €
 
-≤ 11 500 €
+15 000 €
 
 5
 
-≤ 25 500 €
+36 000 €
 
-≤ 19 500 €
+26 000 €
 
-≤ 15 000 €
+20 000 €
 
-≤ 13 000 €
+18 500 €
 
-≤ 23 000 €
+31 000 €
 
-≤ 18 000 €
+23 500 €
 
-≤ 14 000 €
+18 000 €
 
-≤ 13 000 €
+16 500 €
 
 6
 
-≤ 28 500 €
+43 500 €
 
-≤ 21 500 €
+30 500 €
 
-≤ 16 500 €
+26 500 €
 
-≤ 14 000 €
+26 500 €
 
-≤ 25 500 €
+43 500 €
 
-≤ 19 500 €
+30 500 €
 
-≤ 15 000 €
+26 500 €
 
-≤ 14 000 €
-
-7
-
-≤ 31 000 €
-
-≤ 23 500 €
-
-≤ 18 000 €
-
-≤ 15 000 €
-
-≤ 28 500 €
-
-≤ 21 500 €
-
-≤ 16 500 €
-
-≤ 15 000 €
-
-8
-
-≤ 36 000 €
-
-≤ 26 000 €
-
-≤ 20 000 €
-
-≤ 18 500 €
-
-≤ 31 000 €
-
-≤ 23 500 €
-
-≤ 18 000 €
-
-≤ 16 500 €
-
-9
-
-≤ 49 500 €
-
-≤ 32 500 €
-
-≤ 26 500 €
-
-≤ 26 500 €
-
-≤ 43 500 €
-
-≤ 30 500 €
-
-≤ 26 500 €
-
-≤ 26 500 €
-
-10
-
-&gt; 49 500 €
-
-&gt; 32 500 €
-
-&gt; 26 500 €
-
-&gt; 26 500 €
-
-&gt; 43 500 €
-
-&gt; 30 500 €
-
-&gt; 26 500 €
-
-&gt; 26 500 €
+26 500 €
