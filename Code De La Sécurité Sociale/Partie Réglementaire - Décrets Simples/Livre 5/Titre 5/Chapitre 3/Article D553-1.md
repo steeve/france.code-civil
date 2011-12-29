@@ -23,7 +23,8 @@ et sous réserve de l'application de l'alinéa précédent. Pour les ressources
 trimestrielles, il est également fait application des dispositions du troisième
 alinéa de l'article R. 262-7, de l'article R. 262-13, du second alinéa de
 l'article D. 262-16 et des articles R. 262-18, R. 262-19, R. 262-21 à R. 262-24
-du code de l'action sociale et des familles.
+du code de l'action sociale et des familles ainsi que des dispositions de
+l'article R. 821-4-1 du présent code.
 
 Les revenus ainsi déterminés sont divisés, selon le cas, par trois ou par douze
 ;
@@ -94,12 +95,12 @@ inférieure à 231 euros.
 
 Lorsque les informations relatives aux revenus de l'allocataire et de son
 conjoint ou concubin ne sont pas en possession de l'organisme débiteur de
-prestations familiales, le revenu mensuel pondéré est réputé être égal à 1 079
+prestations familiales, le revenu mensuel pondéré est réputé être égal à 1 096
 euros. Lorsqu'un droit à une prestation calculée sur des ressources
 trimestrielles est ouvert et que les informations relatives à ces ressources ne
 sont pas en possession de l'organisme débiteur des prestations familiales, le
 revenu mensuel pondéré est calculé pendant quatre mois en fonction des dernières
-ressources trimestrielles connues, puis est réputé égal à 1 079 euros. Dans ces
+ressources trimestrielles connues, puis est réputé égal à 1 096 euros. Dans ces
 deux cas, l'organisme débiteur de prestations familiales en informe
 l'allocataire. Le recouvrement est poursuivi sur ces bases à défaut de réception
 de la déclaration du montant de ces revenus.

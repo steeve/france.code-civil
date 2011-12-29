@@ -9,6 +9,14 @@ construction et de l'habitation. Dans ce cas, la retenue mensuelle, calculée
 conformément aux dispositions de l'article D. 553-1, peut être opérée
 prioritairement sur les prestations à échoir versées directement au débiteur.
 
+Lorsque l'indu a été constitué au titre d'une prestation versée en tiers payant
+et toujours à échoir, la retenue mensuelle peut être opérée prioritairement sur
+les éventuelles prestations à échoir versées directement à l'allocataire, en
+application des deuxièmes alinéas des articles L. 553-2 et L. 821-5-1 du code de
+la sécurité sociale, du quatrième alinéa de l'article L. 835-3 du même code, du
+cinquième alinéa des articles L. 262-46 du code de l'action sociale et des
+familles et de L. 351-11 du code de la construction et de l'habitation.
+
 En cas d'indus multiples, une seule retenue mensuelle est opérée sur les
 prestations à échoir. Cette retenue contribue au remboursement du montant de
 chaque indu, par ordre d'ancienneté, jusqu'à l'extinction de chacune des
