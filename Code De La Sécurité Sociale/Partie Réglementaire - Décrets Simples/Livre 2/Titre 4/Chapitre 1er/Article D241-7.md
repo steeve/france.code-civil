@@ -57,6 +57,12 @@ modalités pour les salariés n'entrant pas dans le champ d'application de
 l'article L. 3242-1 susmentionné dont le contrat de travail est suspendu avec
 paiement partiel de la rémunération.
 
+Le cas échéant, le montant du salaire minimum de croissance à prendre en compte
+est majoré du produit du nombre d'heures supplémentaires ou complémentaires au
+sens de l'article 81 quater du code général des impôts rémunérées au cours de
+l'année par le salaire minimum de croissance prévu par l'article L. 3231-2 du
+code du travail.
+
 Si un des paramètres de détermination du montant annuel du salaire minimum de
 croissance à prendre en compte évolue en cours d'année, sa valeur annuelle est
 égale à la somme des valeurs déterminées par application des règles précédentes
