@@ -2,8 +2,8 @@ Article R161-11
 ----
 Sauf accord du bénéficiaire portant sur une ou plusieurs autres catégories de
 données pertinentes au regard de ses droits à retraite et mentionnées dans cet
-accord, seules peuvent être échangées pour l'établissement du relevé de
-situation individuelle et de l'estimation indicative globale tout ou partie des
+accord, seules peuvent être échangées pour la mise en œuvre des droits à
+l'information sur la retraite prévus à l'article L. 161-17 tout ou partie des
 données suivantes :
 
 1° Le nom de famille, le cas échéant le nom d'usage, le ou les prénoms, la date
@@ -54,4 +54,11 @@ effectué par l'un des régimes, organismes ou services mentionnés ci-dessus ;
 
 11° La qualité de retraité dans l'un des régimes dont l'intéressé a relevé ;
 
-12° Les dates de réception des demandes de relevé de situation individuelle.
+12° Les dates de réception des demandes de relevé de situation individuelle ;
+
+13° La date à laquelle lui a été communiquée l'information générale mentionnée
+au premier alinéa de l'article L. 161-17 ;
+
+14° La date à laquelle il a demandé à bénéficier d'un ou plusieurs des
+entretiens mentionnés à l'article L. 161-17 ainsi que les dates auxquelles il en
+a bénéficié.

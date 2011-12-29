@@ -8,17 +8,19 @@ service en charge de la gestion du régime faisant l'objet de la demande d'accè
 ou de rectification.
 
 La demande d'accès ou de rectification peut toutefois être adressée à
-l'organisme ou au service ayant envoyé le relevé ou l'estimation, en indiquant
-le ou les régimes qu'elle vise. Celui-ci transmet la demande à chaque organisme
-ou service ayant en charge la gestion du ou des régimes visés et informe le
-demandeur de cette transmission.
+l'organisme ou au service ayant envoyé ou remis l'information générale, les
+simulations, le relevé ou l'estimation ou ayant réalisé l'entretien, en
+indiquant le ou les régimes qu'elle vise. Celui-ci transmet la demande à chaque
+organisme ou service ayant en charge la gestion du ou des régimes visés et
+informe le demandeur de cette transmission.
 
 En cas de rectification par un organisme ou un service en charge de la gestion
 d'un régime visé par la demande des données afférentes à la carrière du
 bénéficiaire, cet organisme ou ce service informe le bénéficiaire de la
-rectification ainsi que, s'il y a lieu, l'organisme ou le service ayant adressé
-le relevé ou l'estimation. Ce dernier organisme ou service adresse au
-bénéficiaire un relevé ou une estimation rectifiés, au plus tard à la date
-d'envoi du relevé ou de l'estimation prévus au deuxième ou au troisième alinéa
-de l'article L. 161-17 de l'année suivant celle au cours de laquelle il a été
-informé de la rectification.
+rectification ainsi que, s'il y a lieu, l'organisme ou le service ayant envoyé
+ou remis l'information générale, les simulations, le relevé ou l'estimation ou
+ayant réalisé l'entretien. Ce dernier organisme ou service adresse au
+bénéficiaire les documents rectifiés, au plus tard à la date d'envoi du relevé
+ou de l'estimation prévus au septième ou au huitième alinéa de l'article L.
+161-17 de l'année suivant celle au cours de laquelle il a été informé de la
+rectification.

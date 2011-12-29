@@ -4,8 +4,8 @@ Les organismes ou services en charge des régimes de retraite dont relèvent ou
 ont relevé les bénéficiaires du droit à l'information sur leur retraite prévu
 par l'article L. 161-17 et qui sont autorisés à collecter et conserver le numéro
 d'inscription des intéressés au répertoire national d'identification des
-personnes physiques pour l'établissement du relevé de situation individuelle ou
-de l'estimation indicative globale sont :
+personnes physiques pour la mise en œuvre des droits à l'information sur la
+retraite prévus à l'article précité sont :
 
 1° Les organismes chargés de la gestion des régimes de retraite de base et de
 l'assurance volontaire vieillesse du régime général de la sécurité sociale et
