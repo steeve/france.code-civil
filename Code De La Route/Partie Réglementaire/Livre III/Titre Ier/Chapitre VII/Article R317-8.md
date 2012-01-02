@@ -53,12 +53,12 @@ l'amende prévue pour les contraventions de la quatrième classe.
 VI. Le fait de contrevenir aux dispositions du présent article relatives à
 l'entretien, aux caractéristiques ou au mode de pose des plaques
 d'immatriculation est puni de l'amende prévue pour les contraventions de la
-troisième classe.
+quatrième classe.
 
-VII.L'immobilisation du véhicule peut être prescrite dans les conditions prévues
-aux articles L. 325-1 à L. 325-3.
+VII. L'immobilisation du véhicule peut être prescrite dans les conditions
+prévues aux articles L. 325-1 à L. 325-3.
 
-VIII.-Le fait d'exposer, d'offrir, de mettre en vente, de vendre, de proposer ou
-d'inciter à acheter ou à utiliser une plaque d'immatriculation non conforme aux
-caractéristiques visées au IV est puni de l'amende prévue pour les
+VIII. - Le fait d'exposer, d'offrir, de mettre en vente, de vendre, de proposer
+ou d'inciter à acheter ou à utiliser une plaque d'immatriculation non conforme
+aux caractéristiques visées au IV est puni de l'amende prévue pour les
 contraventions de la quatrième classe. La plaque est saisie et confisquée.

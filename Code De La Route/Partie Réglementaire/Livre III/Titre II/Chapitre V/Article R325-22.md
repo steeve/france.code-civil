@@ -16,3 +16,7 @@ l'agent de police judiciaire adjoint, chef de la police municipale ou occupant
 ces fonctions ;
 
 2° Soit le préfet, dans les autres cas.
+
+III.-Les dispositions du présent article sont applicables à la mise en fourrière
+prévue à l'article L. 325-1-2 lorsque le propriétaire du véhicule réside dans le
+département du représentant de l'Etat qui a prescrit cette mesure.

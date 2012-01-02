@@ -27,5 +27,10 @@ destiné à commettre l'infraction est placé, adapté ou appliqué sur un véhi
 Toute condamnation donne lieu de plein droit à la confiscation du dispositif qui
 a servi ou était destiné à commettre l'infraction.
 
-IV. - Cette contravention donne lieu de plein droit à la réduction de deux
-points du permis de conduire.
+IV. - Cette contravention donne lieu de plein droit à la réduction de six points
+du permis de conduire.
+
+V. - Les dispositions du présent article sont également applicables aux
+dispositifs ou produits visant à avertir ou informer de la localisation
+d'appareils, instruments ou systèmes servant à la constatation des infractions à
+la législation ou à la réglementation de la circulation routière.

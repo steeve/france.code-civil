@@ -31,7 +31,7 @@ a) De dix jours pour un véhicule qu'un expert aura estimé d'une valeur marchan
 inférieure à un montant fixé par arrêté interministériel et déclaré hors d'état
 de circuler dans des conditions normales de sécurité ;
 
-b) De quarante-cinq jours dans les autres cas,
+b) De trente jours dans les autres cas,
 
 ces délais commençant à courir un jour franc après la date de notification ;
 
@@ -48,6 +48,6 @@ III.-Si le traitement automatisé mis en œuvre pour l'immatriculation des
 véhicule révèle l'inscription d'un gage, copie de la notification de mise en
 fourrière est adressée par l'auteur de la prescription de mise en fourrière au
 créancier-gagiste, par lettre recommandée avec demande d'accusé de réception,
-qui fait référence au décret n° 72-823 du 6 septembre 1972 (art. 5, 6 et 7)
+qui fait référence au décret n° 72-823 du 6 septembre 1972 (art. 5,6 et 7)
 fixant les conditions de remise au service des domaines des véhicules non
 retirés de fourrière par leurs propriétaires.

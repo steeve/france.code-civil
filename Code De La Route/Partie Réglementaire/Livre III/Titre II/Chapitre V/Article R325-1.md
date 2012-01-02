@@ -5,7 +5,7 @@ destruction prévus à l'article L. 325-1 peuvent être décidés dans les cas e
 conditions définis au présent code.
 
 L'immobilisation et la mise en fourrière peuvent également être ordonnées
-conformément aux dispositions de l'article L. 325-1-1.
+conformément aux dispositions des articles L. 325-1-1 et L. 325-1-2.
 
 Ces mesures ne font pas obstacle aux saisies ordonnées par l'autorité
 judiciaire.

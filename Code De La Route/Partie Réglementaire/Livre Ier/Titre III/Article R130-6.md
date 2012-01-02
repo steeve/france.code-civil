@@ -12,10 +12,10 @@ R. 316-7, R. 317-1, R. 317-3, R. 317-4, R. 317-5, R. 317-8 à R. 317-14, R.
 317-18, R. 317-20, R. 317-23, R. 317-24, R. 317-26, R. 317-28, R. 318-1, R.
 318-3, R. 322-1, R. 323-1, R. 323-2, R. 323-6, R. 323-23 à R. 323-26, R. 411-17,
 R. 411-18, R. 412-1, R. 412-16, R. 433-1 à R. 433-8, R. 433-11, R. 433-12, R.
-433-14 à R. 433-16, R. 435-1 et R. 436-1 ainsi que, lorsqu'elles sont commises
-par le conducteur d'un véhicule qui doit être équipé d'un appareil de contrôle
-dit chronotachygraphe, les contraventions aux dispositions relatives aux
-vitesses maximales autorisées par le présent code ;
+433-14 à R. 433-16, R. 433-20, R. 435-1 et R. 436-1 ainsi que, lorsqu'elles sont
+commises par le conducteur d'un véhicule qui doit être équipé d'un appareil de
+contrôle dit chronotachygraphe, les contraventions aux dispositions relatives
+aux vitesses maximales autorisées par le présent code ;
 
 2° Toutes les autres contraventions prévues aux 1° et 2° de l'article R. 130-1
 lorsqu'elles sont connexes à des infractions aux dispositions législatives

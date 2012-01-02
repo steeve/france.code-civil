@@ -9,6 +9,6 @@ présentant les résultats. Lorsqu'il s'agit d'un recueil salivaire, cet arrêt�
 est également pris par le ministre de la justice et par le ministre de
 l'intérieur.
 
-Ces fiches sont remises à l'officier ou l'agent de police judiciaire mentionné à
-l'article R. 235-3 ou complétées par ce dernier lorsqu'il s'agit d'un recueil
-salivaire.
+Ces fiches sont remises à l'officier ou l'agent de police judiciaire ou à
+l'agent de police judiciaire adjoint ou complétées par ces derniers lorsqu'il
+s'agit d'un recueil salivaire.

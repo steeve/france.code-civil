@@ -50,14 +50,14 @@ c) Paragraphe supprimé ;
 En contrepartie de ses obligations, l'entreprise a le droit :
 
 a) De réclamer aux propriétaires des véhicules mis, sur la demande de l'autorité
-publique, en fourrière sur son chantier le paiement, conformément au tarif
-approuvé par l'autorité publique, des frais de transfert et de garde en
-fourrière à la condition que son chantier soit clôturé ou soit gardé jour et
-nuit. Toutefois, s'agissant des véhicules hors d'usage au sens de l'article 1er
-du décret n° 2003-727 du 1er août 2003 relatif à la construction des véhicules
-et à l'élimination des véhicules hors d'usage, et sous réserve des dispositions
-de l'article 5 de ce décret, seuls les frais de transfert peuvent éventuellement
-donner lieu à facturation ;
+publique, sur son chantier le paiement, conformément au tarif approuvé par
+l'autorité publique, des frais de transfert et de garde à la condition que son
+chantier soit clôturé ou soit gardé jour et nuit. Toutefois, s'agissant des
+véhicules hors d'usage au sens de l'article 1er du décret n° 2003-727 du 1er
+août 2003 relatif à la construction des véhicules et à l'élimination des
+véhicules hors d'usage, et sous réserve des dispositions de l'article 5 de ce
+décret, seuls les frais de transfert peuvent éventuellement donner lieu à
+facturation ;
 
 b) En cas de démolition du véhicule, de récupérer tout accessoire et toute pièce
 détachée en vue de sa revente après, en cas de besoin, remise en état ;
