@@ -20,11 +20,13 @@ Les dispositions ci-dessus ne sont applicables qu'aux allocations
 complémentaires versées au titre des périodes pendant lesquelles le contrat
 individuel de travail qui lie le salarié à l'employeur reste en vigueur.
 
-Des arrêtés conjoints du ministre chargé de la sécurité sociale et du ministre
-chargé du budget déterminent les conditions et limites dans lesquelles la
-rémunération peut faire l'objet d'un abattement pour frais professionnels.
+Des arrêtés conjoints du ministre chargé de la sécurité sociale, du ministre
+chargé de l'agriculture, et du ministre chargé du budget déterminent les
+conditions et limites dans lesquelles la rémunération peut faire l'objet d'un
+abattement pour frais professionnels.
 
-Des arrêtés du ministre chargé de la sécurité sociale déterminent la valeur
+Des arrêtés conjoints du ministre chargé de la sécurité sociale, du ministre
+chargé de l'agriculture et du ministre chargé du budget déterminent la valeur
 représentative des avantages en nature et des pourboires à prendre en
 considération pour le calcul des cotisations de sécurité sociale et
 d'allocations familiales.

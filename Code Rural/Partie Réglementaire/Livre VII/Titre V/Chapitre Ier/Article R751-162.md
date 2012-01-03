@@ -13,7 +13,7 @@ alinéa de l'article L. 724-8. Ces agents sont qualifiés de techniciens région
 de prévention. Ils sont affectés auprès du directeur régional des entreprises,
 de la concurrence, de la consommation, du travail et de l'emploi.
 
-L'autorité administrative compétente mentionnée à l'article L. 724-8 est, pour
-ce qui concerne les agents chargés du contrôle de la prévention contre les
-accidents du travail et les maladies professionnelles, le directeur régional du
-travail, de l'emploi et de la formation professionnelle.
+Avant d'entrer en fonction, les techniciens régionaux de prévention mentionnés à
+l'alinéa précédent prêtent serment devant le juge d'instance de ne rien révéler
+des secrets de fabrication et, en général, des procédés et résultats
+d'exploitation dont ils pourraient avoir connaissance.

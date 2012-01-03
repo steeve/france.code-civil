@@ -15,7 +15,9 @@ caisses de mutualité sociale agricole ;
 
 3° D'adopter et de modifier les statuts et le règlement intérieur des caisses de
 mutualité sociale agricole qui sont approuvés dans les conditions fixées par le
-deuxième alinéa de l'article L. 723-2 ;
+deuxième alinéa de l'article L. 723-2. A défaut d'adoption des statuts par
+l'assemblée générale, les modèles de statuts prévus à l'article R. 723-2 sont
+réputés applicables à la caisse ;
 
 4° D'entendre chaque année le rapport général du conseil d'administration sur
 son activité au cours de l'exercice écoulé et sur son programme d'avenir,

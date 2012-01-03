@@ -13,6 +13,12 @@ date de suspension de la délibération du conseil d'administration ou du comit�
 d'action sanitaire et sociale par le responsable du service mentionné à
 l'article R. 155-2, cette délibération est exécutoire de plein droit.
 
+Dans le délai de huit jours suivant leur communication, le responsable du
+service mentionné à l'article R. 155-2 peut soit prononcer l'annulation, soit
+suspendre l'exécution jusqu'à décision ministérielle dans les conditions fixées
+à l'alinéa précédent des délibérations qui présentent un caractère individuel et
+qui sont illégales.
+
 Le délai fixé par le présent article est un délai franc. Lorsque le premier jour
 de ce délai est un jour férié ou un samedi, le délai court du premier jour
 ouvrable qui suit le jour férié ou le samedi.

@@ -20,6 +20,5 @@ l'établissement devant employer le salarié ;
 3° Déclaration, aux fins d'immatriculation aux assurances sociales agricoles, au
 sens de l'article R. 722-35 ;
 
-4° Demande de réduction de cotisations sociales patronales pour l'embauche d'un
-travailleur occasionnel ou d'un demandeur d'emploi, au sens de l'article D.
-741-63 ;
+4° Demande du bénéfice des exonérations de cotisations patronales prévues au I
+des articles L. 741-16 et L. 741-16-1.

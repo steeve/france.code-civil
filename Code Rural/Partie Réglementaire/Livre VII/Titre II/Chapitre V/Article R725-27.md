@@ -37,3 +37,10 @@ décision explicite prise à la suite d'une demande présentée sur le fondement
 dispositions de l'article L. 725-24, sa nouvelle décision, notifiée par lettre
 recommandée avec demande d'avis de réception, précise au cotisant les voies et
 délais de recours contre cette décision.
+
+IV. - Sur proposition du directeur général de la caisse centrale de la Mutualité
+sociale agricole faite chaque année avant le 31 mars, le ministre chargé de
+l'agriculture publie au Bulletin officiel du ministère de l'agriculture, après
+les avoir rendues anonymes, une sélection des décisions prises par les caisses
+de mutualité sociale agricole en application de l'article L. 725-24 et qui
+présentent une portée générale.
