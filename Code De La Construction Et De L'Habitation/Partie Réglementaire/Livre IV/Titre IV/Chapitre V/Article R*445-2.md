@@ -26,6 +26,3 @@ Pour chaque aspect de la politique de l'organisme, elle comporte :
 -les orientations stratégiques ;
 
 -le programme d'action.
-
-Les dispositions des articles R. 445-2-1 à R. 445-13, à l'exception de l'article
-R. 445-3, ne sont pas applicables aux logements-foyers.
