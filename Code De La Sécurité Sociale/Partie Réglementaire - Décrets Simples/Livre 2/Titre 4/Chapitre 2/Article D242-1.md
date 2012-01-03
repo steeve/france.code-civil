@@ -1,6 +1,6 @@
 Article D242-1
 ----
-I. - Les contributions des employeurs au financement d'opérations de retraite
+I.-Les contributions des employeurs au financement d'opérations de retraite
 mentionnées au septième alinéa de l'article L. 242-1 sont exclues de l'assiette
 des cotisations de sécurité sociale propre à chaque assuré, pour une fraction
 n'excédant pas la plus élevée des deux valeurs suivantes :
@@ -25,7 +25,7 @@ prestations complémentaires de retraite et de prévoyance soumise à cotisation
 de sécurité sociale, sans que le total ainsi obtenu puisse excéder 12 % du
 montant du plafond de la sécurité sociale.
 
-II. - Les opérations de retraite mentionnées au septième alinéa de l'article L.
+II.-Les opérations de retraite mentionnées au septième alinéa de l'article L.
 242-1 sont celles organisées par des contrats d'assurance souscrits par un ou
 plusieurs employeurs ou par tout groupe d'employeurs auprès d'entreprises
 relevant du code des assurances, d'institutions de prévoyance régies par le
@@ -56,9 +56,9 @@ Le contrat prévoit, au bénéfice du participant qui n'est plus tenu d'y adhér
 une faculté de transfert vers un autre contrat respectant les règles définies en
 application du septième alinéa de l'article L. 242-1 ou vers un plan d'épargne
 retraite populaire défini à l'article L. 144-2 du code des assurances. La notice
-d'information mentionnée aux articles L. 140-4 (1) du code des assurances, L.
-221-6 du code de la mutualité et L. 932-6 du présent code précise cette faculté
-et en détaille les modalités d'exercice.
+d'information mentionnée aux articles L. 140-4 du code des assurances, L. 221-6
+du code de la mutualité et L. 932-6 du présent code précise cette faculté et en
+détaille les modalités d'exercice.
 
 Entrent également dans le champ des opérations de retraite mentionnées au
 septième alinéa de l'article L. 242-1 du présent code les régimes de retraite à
@@ -66,9 +66,6 @@ prestations définies, institués avant le 1er janvier 2005 et n'entrant pas dan
 le champ d'application de l'article L. 137-11 du présent code, à condition
 qu'ils n'acceptent plus de nouveaux adhérents à compter du 30 juin 2008.
 
-III. - L'arrêté interministériel prévu au troisième alinéa de l'article L. 242-1
-est pris par le ministre chargé de la sécurité sociale et par le ministre chargé
-du budget.
-
-L'arrêté ministériel prévu au même alinéa est pris par le ministre chargé de la
-sécurité sociale.
+III.-Les arrêtés interministériels prévus au troisième alinéa de l'article L.
+242-1 sont pris par le ministre chargé de la sécurité sociale, le ministre
+chargé de l'agriculture et par le ministre chargé du budget.

@@ -1,7 +1,7 @@
 Article D723-255
 ----
 Les catégories d'informations qui peuvent être demandées dans les conditions
-prévues par l'article D. 723-54 sont les suivantes :
+prévues par l'article D. 723-254 sont les suivantes :
 
 1° Pour les informations portant sur les cotisants salariés et non salariés
 agricoles, ainsi que sur les membres des familles des non-salariés :
