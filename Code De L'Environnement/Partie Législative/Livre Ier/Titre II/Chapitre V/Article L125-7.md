@@ -5,8 +5,8 @@ informations rendues publiques en application de l'article L. 125-6 font état
 d'un risque de pollution des sols affectant un terrain faisant l'objet d'une
 transaction, le vendeur ou le bailleur du terrain est tenu d'en informer par
 écrit l'acquéreur ou le locataire. Il communique les informations rendues
-publiques par l'Etat, en application du même article L. 125-6.L'acte de vente ou
-de location atteste de l'accomplissement de cette formalité.
+publiques par l'Etat, en application du même article L. 125-6. L'acte de vente
+ou de location atteste de l'accomplissement de cette formalité.
 
 A défaut et si une pollution constatée rend le terrain impropre à sa destination
 précisée dans le contrat, dans un délai de deux ans après la découverte de la

@@ -32,6 +32,6 @@ plan particulier d'intervention.
 
 Le préfet crée la commission mentionnée à l'article L. 125-2-1 pour tout bassin
 industriel comprenant une ou plusieurs installations figurant sur la liste
-prévue au IV de l'article L. 515-8.Elle est dotée par l'Etat des moyens de
+prévue au IV de l'article L. 515-8. Elle est dotée par l'Etat des moyens de
 remplir sa mission. Les conditions d'application du présent alinéa sont fixées
 par décret.
