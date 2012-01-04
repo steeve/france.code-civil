@@ -9,3 +9,7 @@ de classement.
 
 Un décret en Conseil d'Etat fixe les modalités de cette autorisation, notamment
 la consultation préalable des organismes compétents.
+
+Toutefois, les travaux urgents indispensables à la sécurité des biens ou des
+personnes peuvent être réalisés après information de l'autorité compétente, sans
+préjudice de leur régularisation ultérieure.
