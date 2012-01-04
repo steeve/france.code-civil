@@ -1,17 +1,16 @@
 Article L1451-1
 ----
-I. - Les membres des commissions et conseils siégeant auprès des ministres
-chargés de la santé et de la sécurité sociale, les membres des cabinets des
-ministres ainsi que les dirigeants, personnels de direction et d'encadrement et
-les membres des instances collégiales, des commissions, des groupes de travail
-et conseils des autorités et organismes mentionnés aux articles L. 1123-1, L.
+I.-Les membres des commissions et conseils siégeant auprès des ministres chargés
+de la santé et de la sécurité sociale, les membres des cabinets des ministres
+ainsi que les dirigeants, personnels de direction et d'encadrement et les
+membres des instances collégiales, des commissions, des groupes de travail et
+conseils des autorités et organismes mentionnés aux articles L. 1123-1, L.
 1142-5, L. 1142-22, L. 1222-1, L. 1313-1, L. 1413-2, L. 1415-2, L. 1417-1, L.
 1418-1, L. 1431-1, L. 3135-1 et L. 5311-1 du présent code, à l'article L. 161-37
 du code de la sécurité sociale, à l'article 5 de la loi n° 2001-398 du 9 mai
 2001 créant une Agence française de sécurité sanitaire environnementale et à
-l'article 13 de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et
-à la sécurité en matière nucléaire sont tenus, lors de leur prise de fonctions,
-d'établir une déclaration d'intérêts.
+l'article L592-2 du code de l'environnement sont tenus, lors de leur prise de
+fonctions, d'établir une déclaration d'intérêts.
 
 Cette déclaration est remise à l'autorité compétente.
 
@@ -29,8 +28,8 @@ Les présidents, les directeurs et les directeurs généraux des instances
 mentionnées aux articles L. 1142-22, L. 1222-1, L. 1313-1, L. 1413-2, L. 1415-2,
 L. 1417-1, L. 1418-1, L. 3135-1 et L. 5311-1 du présent code, à l'article L.
 161-37 du code de la sécurité sociale, à l'article 5 de la loi n° 2001-398 du 9
-mai 2001 précitée et à l'article 13 de la loi n° 2006-686 du 13 juin 2006
-précitée sont auditionnés par le Parlement avant leur nomination.
+mai 2001 précitée et à l'article L592-2 du code de l'environnement sont
+auditionnés par le Parlement avant leur nomination.
 
 Les personnes mentionnées au présent article ne peuvent prendre part aux
 travaux, aux délibérations et aux votes des instances au sein desquelles elles
@@ -42,7 +41,7 @@ et à la discrétion professionnels dans les mêmes conditions que celles défin
 à l'article 26 de la loi n° 83-634 du 13 juillet 1983 portant droits et
 obligations des fonctionnaires.
 
-II. - Sont également tenus d'établir la déclaration prévue au I, lors de leur
+II.-Sont également tenus d'établir la déclaration prévue au I, lors de leur
 prise de fonctions, les agents des autorités et des organismes mentionnés au
 même I dont les missions ou la nature des fonctions le justifient et qui sont
 mentionnés sur une liste établie par décret en Conseil d'Etat.

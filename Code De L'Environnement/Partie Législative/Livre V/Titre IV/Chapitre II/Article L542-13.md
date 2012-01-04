@@ -24,17 +24,15 @@ s'étend le périmètre du laboratoire.
 Le comité se réunit au moins deux fois par an. Il est informé des objectifs du
 programme, de la nature des travaux et des résultats obtenus. Il peut saisir la
 commission nationale visée à l'article L. 542-3 et le Haut Comité pour la
-transparence et l'information sur la sécurité nucléaire créé par l'article 23 de
-la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité
-en matière nucléaire. La commission nationale présente chaque année, devant le
-comité local d'information et de suivi, son rapport d'évaluation sur l'état
-d'avancement des recherches dans les trois axes de recherche définis par
-l'article 3 de la loi n° 2006-739 du 28 juin 2006 de programme relative à la
-gestion durable des matières et des déchets radioactifs.
+transparence et l'information sur la sécurité nucléaire mentionné à l'article
+L125-34. La commission nationale présente chaque année, devant le comité local
+d'information et de suivi, son rapport d'évaluation sur l'état d'avancement des
+recherches dans les trois axes de recherche définis par l'article 3 de la loi n°
+2006-739 du 28 juin 2006 de programme relative à la gestion durable des matières
+et des déchets radioactifs.
 
 La commission locale d'information et de suivi et le Haut Comité pour la
-transparence et l'information sur la sécurité nucléaire créé par l'article 23 de
-la loi n° 2006-686 du 13 juin 2006 précitée se communiquent tous les
+transparence et l'information sur la sécurité nucléaire se communiquent tous les
 renseignements utiles à l'exercice de leurs missions et concourent à des actions
 communes d'information.
 
