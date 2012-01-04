@@ -20,15 +20,39 @@ commission départementale de la consommation des espaces agricoles prévue à
 l'article L. 112-1-1 du code rural et de la pêche maritime, par le conseil
 municipal et le préfet. Cette commission rend son avis au plus tard deux mois
 après la transmission du projet de carte par le maire. A défaut, cet avis est
-réputé favorable. Les cartes communales sont approuvées par délibération du
-conseil municipal, puis transmises par le maire au préfet qui dispose d'un délai
-de deux mois pour les approuver. A l'expiration de ce délai, le préfet est
-réputé avoir approuvé la carte. La carte approuvée est tenue à disposition du
-public. Le projet de révision d'une carte communale concernant une commune
-située en dehors du périmètre d'un schéma de cohérence territoriale approuvé et
-ayant pour conséquence une réduction des surfaces des zones agricoles est soumis
-pour avis, par la commune, à la commission départementale de la consommation des
-espaces agricoles.
+réputé favorable. A l'issue de l'enquête publique, la carte communale,
+éventuellement modifiée pour tenir compte des avis qui ont été joints au
+dossier, des observations du public et du rapport du commissaire ou de la
+commission d'enquête, est approuvée par le conseil municipal ou par délibération
+de l'établissement public de coopération intercommunale compétent. Elle est
+alors transmise par le maire ou par le président de l'établissement public de
+coopération intercommunale au préfet. Celui-ci dispose d'un délai de deux mois
+pour l'approuver. A l'expiration de ce délai, le préfet est réputé avoir
+approuvé la carte. La carte approuvée est tenue à disposition du public.
+
+La carte communale est révisée selon les modalités définies à l'alinéa
+précédent. Toutefois, le projet de révision n'est soumis à la commission
+départementale de la consommation des espaces agricoles que s'il a pour
+conséquence une réduction des surfaces des zones agricoles dans une commune
+située en dehors du périmètre d'un schéma de cohérence territoriale approuvé.
+
+La carte communale peut faire l'objet d'une modification simplifiée lorsque la
+commune ou l'établissement public de coopération intercommunale envisage de
+rectifier une erreur matérielle. La modification simplifiée est engagée à
+l'initiative du maire ou du président de l'établissement public de coopération
+intercommunale qui établit le projet de modification.
+
+Le projet de modification et l'exposé de ses motifs sont mis à disposition du
+public pendant un mois, dans des conditions lui permettant de formuler ses
+observations. Ces observations sont enregistrées et conservées. Les modalités de
+la mise à disposition sont précisées par l'organe délibérant de l'établissement
+public prévu aux articles L. 122-4 et L. 122-4-1 et portées à la connaissance du
+public au moins huit jours avant le début de cette mise à disposition.
+
+A l'issue de la mise à disposition, le maire ou le président de l'établissement
+public en présente le bilan devant le conseil municipal ou l'organe délibérant
+de l'établissement public, qui en délibère et adopte le projet, éventuellement
+modifié pour tenir compte des observations du public, par délibération motivée.
 
 Elles doivent être compatibles, s'il y a lieu, avec les dispositions du schéma
 de cohérence territoriale, du schéma de secteur, du schéma de mise en valeur de

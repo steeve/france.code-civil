@@ -18,10 +18,10 @@ d'un établissement public de coopération intercommunale compétent en matière
 plan local d'urbanisme, du président de cet établissement. Le président de
 l'établissement public de coopération intercommunale compétent en matière de
 plan local d'urbanisme ou, dans le cas prévu par le deuxième alinéa de l'article
-L. 123-6, le maire peut recueillir l'avis de tout organisme ou association
-compétent en matière d'aménagement du territoire, d'urbanisme, d'environnement,
-d'architecture, d'habitat et de déplacements, y compris des collectivités
-territoriales des Etats limitrophes.
+L. 123-6, le maire, ou leur représentant, peut recueillir l'avis de tout
+organisme ou association compétent en matière d'aménagement du territoire,
+d'urbanisme, d'environnement, d'architecture, d'habitat et de déplacements, y
+compris des collectivités territoriales des Etats limitrophes.
 
 Si le représentant de l'ensemble des organismes mentionnés à l'article L. 411-2
 du code de la construction et de l'habitation propriétaires ou gestionnaires de

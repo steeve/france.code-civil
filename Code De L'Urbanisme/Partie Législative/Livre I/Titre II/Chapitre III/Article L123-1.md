@@ -39,13 +39,45 @@ pastorale ou forestière du terrain sur lequel elles sont implantées et qu'elle
 ne portent pas atteinte à la sauvegarde des espaces naturels et des paysages
 (1).
 
-En cas de modification de la limite territoriale de communes, les dispositions
-du plan local d'urbanisme applicables à la partie détachée d'un territoire
-communal restent applicables après le rattachement à l'autre commune sauf si
-celle-ci a précisé, dans le dossier soumis à enquête publique en application de
-l'article L. 2112-2 du code général des collectivités territoriales, qu'elle
-entendait que la modification de limite territoriale emporte, par dérogation au
-présent chapitre, abrogation desdites dispositions. Lorsqu'il résulte de la
-modification de la limite territoriale d'une commune que le plan local
-d'urbanisme ne couvre pas la totalité du territoire communal, la commune élabore
-sans délai les dispositions du plan applicables à la partie non couverte.
+En cas de modification de la limite territoriale entre deux communes, les
+dispositions du plan local d'urbanisme applicables à la partie de territoire
+communal détachée d'une des communes restent applicables dans ce territoire
+après le rattachement à l'autre commune.
+
+Toutefois, si la commune de rattachement a précisé, dans le dossier soumis à
+enquête publique en application de l'article L. 2112-2 du code général des
+collectivités territoriales, qu'elle entendait que la modification de limite
+territoriale emporte, par dérogation à l'alinéa précédent, abrogation des
+dispositions du plan local d'urbanisme applicables à la partie rattachée, ces
+dispositions sont abrogées. Cette faculté n'est pas ouverte à la commune de
+rattachement si celle-ci est membre du même établissement public de coopération
+intercommunale compétent en matière de plan local d'urbanisme que la commune
+d'origine.
+
+En cas de modification du périmètre d'un établissement public de coopération
+intercommunale compétent en matière de plan local d'urbanisme, les dispositions
+du ou des plans locaux d'urbanisme applicables aux territoires concernés par
+cette modification restent applicables. Chaque établissement public de
+coopération intercommunale ou commune intéressé révise ou modifie ces plans pour
+adopter un plan couvrant l'intégralité du périmètre de l'établissement compétent
+ou du territoire de la commune au plus tard lors de la prochaine révision.
+
+Lorsque le périmètre d'un plan local d'urbanisme en cours d'élaboration ou de
+révision est intégré dans sa totalité dans le périmètre d'un établissement
+public de coopération intercommunale compétent en matière de plan local
+d'urbanisme, ce plan ne peut être approuvé ou révisé que par l'établissement
+public nouvellement compétent et, ce, dans son périmètre initial si le débat sur
+le projet d'aménagement et de développement durables a été tenu avant cette
+intégration et si l'approbation ou la révision a lieu dans le délai de deux ans
+suivant l'intégration.
+
+Lorsque le périmètre d'un plan local d'urbanisme en cours de modification est
+intégré dans sa totalité dans le périmètre d'un établissement public de
+coopération intercommunale compétent en matière de plan local d'urbanisme, la
+modification du plan local d'urbanisme ne peut être adoptée que par
+l'établissement public nouvellement compétent, et ce dans son périmètre initial.
+
+Si un plan approuvé, révisé ou modifié dans les conditions prévues par les
+onzième et douzième alinéas ne couvre le territoire que d'une commune, il ne
+comprend pas les dispositions des orientations d'aménagement et de programmation
+prévues aux 2° et 3° de l'article L. 123-1-4.

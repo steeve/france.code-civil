@@ -12,15 +12,21 @@ articles L. 123-1 à L. 123-18, à l'exception du deuxième alinéa de l'article
 Ils peuvent faire l'objet :
 
 a) D'une modification, à condition que le changement apporté au plan
-d'aménagement de zone ne porte pas atteinte à l'économie générale des
-orientations d'urbanisme concernant l'ensemble de la commune, et sous les
-conditions fixées aux b et c de l'article L. 123-13 ;
+d'aménagement de zone :
 
-b) D'une révision simplifiée dans les conditions définies par le huitième alinéa
-de l'article L. 123-13 ;
+-ne porte pas atteinte à l'économie générale des orientations d'urbanisme
+concernant l'ensemble de la commune ;
 
-c) D'une mise en compatibilité selon les modalités définies par l'article L.
-123-16.
+-ne réduise pas un espace boisé classé, une zone agricole ou une zone naturelle
+et forestière, ou une protection édictée en raison des risques de nuisance, de
+la qualité des sites, des paysages ou des milieux naturels ;
+
+-ne comporte pas de graves risques de nuisance.
+
+b) (supprimé)
+
+c) D'une mise en compatibilité selon les modalités définies par les articles L.
+123-14 et L. 123-14-2.
 
 Les projets de plan d'aménagement de zone qui ont été arrêtés en vue d'être
 soumis à enquête publique conformément à l'article L. 311-4 en vigueur avant

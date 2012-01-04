@@ -1,10 +1,16 @@
 Article L123-13-1
 ----
-Lorsqu'un plan local d'urbanisme doit faire l'objet d'une évaluation
-environnementale en application de l'article L. 121-10, l'établissement public
-de coopération intercommunale ou, dans le cas prévu par le deuxième alinéa de
-l'article L. 123-6, la commune procède, au plus tard à l'expiration d'un délai
-de six ans à compter de la délibération portant approbation ou de la dernière
-délibération portant révision de ce plan, à une analyse des résultats de son
-application, notamment du point de vue de l'environnement et de la maîtrise de
-la consommation des espaces.
+Sous réserve des cas où une révision s'impose en application des dispositions de
+l'article L. 123-13, le plan local d'urbanisme fait l'objet d'une procédure de
+modification lorsque l'établissement public de coopération intercommunale ou,
+dans le cas prévu au deuxième alinéa de l'article L. 123-6, la commune envisage
+de modifier le règlement ou les orientations d'aménagement et de programmation.
+
+La procédure de modification est engagée à l'initiative du président de
+l'établissement public de coopération intercommunale ou, dans le cas prévu au
+deuxième alinéa de l'article L. 123-6, du maire qui établit le projet de
+modification et le notifie au préfet et personnes publiques associées
+mentionnées au premier alinéa du I et au III de l'article L. 121-4 avant
+l'ouverture de l'enquête publique ou, lorsqu'il est fait application des
+dispositions de l'article L. 123-13-3, avant la mise à disposition du public du
+projet.

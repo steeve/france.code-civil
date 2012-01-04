@@ -45,15 +45,15 @@ sur une mesure de l'impact sur cette dernière de nouveaux projets de commerces.
 
 La définition des zones figure dans un document d'aménagement commercial qui est
 intégré au schéma de cohérence territoriale par délibération de l'établissement
-public prévu à l'article L. 122-4 du code de l'urbanisme.A peine de caducité, ce
-document d'aménagement commercial doit faire l'objet, dans un délai d'un an à
-compter de la délibération l'adoptant, d'une enquête publique.
+public prévu aux articles L. 122-4 et L. 122-4-1 du code de l'urbanisme. A peine
+de caducité, ce document d'aménagement commercial doit faire l'objet, dans un
+délai d'un an à compter de la délibération l'adoptant, d'une enquête publique.
 
 En l'absence de schéma de cohérence territoriale, l'établissement public
 compétent pour son élaboration peut adopter avant le 1er juillet 2009 un
 document provisoire d'aménagement commercial, dans les conditions définies à
-l'alinéa précédent. Ce document provisoire est valable deux ans.L'approbation du
-schéma de cohérence territoriale dans ce délai lui confère un caractère
+l'alinéa précédent. Ce document provisoire est valable deux ans. L'approbation
+du schéma de cohérence territoriale dans ce délai lui confère un caractère
 définitif.
 
 Dans la région d'Ile-de-France, dans les régions d'outre-mer et en Corse, en

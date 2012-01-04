@@ -1,64 +1,41 @@
 Article L123-13
 ----
-Le plan local d'urbanisme est modifié ou révisé par délibération de l'organe
-délibérant de l'établissement public de coopération intercommunale ou, dans le
-cas prévu par le deuxième alinéa de l'article L. 123-6, du conseil municipal
-après enquête publique réalisée conformément au chapitre III du titre II du
-livre Ier du code de l'environnement.
+I. ― Le plan local d'urbanisme fait l'objet d'une révision lorsque
+l'établissement public de coopération intercommunale ou, dans le cas prévu au
+deuxième alinéa de l'article L. 123-6, la commune envisage :
 
-La procédure de modification est utilisée à condition que la modification
-envisagée :
+1° Soit de changer les orientations définies par le projet d'aménagement et de
+développement durables ;
 
-a) Ne porte pas atteinte à l'économie générale du projet d'aménagement et de
-développement durables mentionné à l'article L. 123-1-3 ;
+2° Soit de réduire un espace boisé classé, une zone agricole ou une zone
+naturelle et forestière ;
 
-b) Ne réduise pas un espace boisé classé, une zone agricole ou une zone
-naturelle et forestière, ou une protection édictée en raison des risques de
-nuisance, de la qualité des sites, des paysages ou des milieux naturels ;
+3° Soit de réduire une protection édictée en raison des risques de nuisance, de
+la qualité des sites, des paysages ou des milieux naturels, ou d'une évolution
+de nature à induire de graves risques de nuisance.
 
-c) Ne comporte pas de graves risques de nuisance.
+La révision est prescrite par délibération de l'organe délibérant de
+l'établissement public de coopération intercommunale ou du conseil municipal.
 
-Le projet de modification est notifié, avant l'ouverture de l'enquête publique
-réalisée conformément au chapitre III du titre II du livre Ier du code de
-l'environnement, au préfet, au président du conseil régional, au président du
-conseil général et, le cas échéant, au président de l'établissement public prévu
-à l'article L. 122-4, ainsi qu'aux organismes mentionnés à l'article L. 121-4.
+II. ― La révision est effectuée selon les modalités définies aux articles L.
+123-6 à L. 123-12.
 
-Toutefois, lorsque la modification a uniquement pour objet la rectification
-d'une erreur matérielle ou porte uniquement sur des éléments mineurs dont la
-liste est fixée par décret en Conseil d'Etat, à l'exclusion de modifications sur
-la destination des sols, elle peut, à l'initiative du maire ou du président de
-l'établissement public de coopération intercommunale compétent, être effectuée
-selon une procédure simplifiée. La modification simplifiée est adoptée par le
-conseil municipal ou par l'organe délibérant de l'établissement public de
-coopération intercommunale compétent par délibération motivée, après que le
-projet de modification et l'exposé de ses motifs ont été portés à la
-connaissance du public, en vue de lui permettre de formuler des observations,
-pendant un délai d'un mois préalablement à la convocation de l'assemblée
-délibérante.
+Lorsque la révision a uniquement pour objet de réduire un espace boisé classé,
+une zone agricole ou une zone naturelle et forestière, une protection édictée en
+raison des risques de nuisance, de la qualité des sites, des paysages ou des
+milieux naturels, ou est de nature à induire de graves risques de nuisance, sans
+qu'il soit porté atteinte aux orientations définies par le plan d'aménagement et
+de développement durables, le projet de révision arrêté fait l'objet d'un examen
+conjoint de l'Etat, de l'établissement public de coopération intercommunale
+compétent ou, dans le cas prévu au deuxième alinéa de l'article L. 123-6, de la
+commune, et des personnes publiques associées mentionnées au premier alinéa du I
+et au III de l'article L. 121-4.
 
-Dans les autres cas que ceux visés aux a, b et c, le plan local d'urbanisme peut
-faire l'objet d'une révision selon les modalités définies aux articles L. 123-6
-à L. 123-12.
+III. ― Entre la mise en révision d'un plan local d'urbanisme et l'approbation de
+cette révision, il peut être décidé une ou plusieurs révisions effectuées en
+application du dernier alinéa du II du présent article, une ou plusieurs
+modifications ou mises en compatibilité de ce plan.
 
-Lorsque la révision a pour seul objet la réalisation d'une construction ou d'une
-opération, à caractère public ou privé, présentant un intérêt général notamment
-pour la commune ou toute autre collectivité, elle peut, à l'initiative du
-président de l'établissement public de coopération intercommunale ou, dans le
-cas prévu par le deuxième alinéa de l'article L. 123-6, du maire, être effectuée
-selon une procédure simplifiée. La révision simplifiée donne lieu à un examen
-conjoint des personnes publiques associées mentionnées à l'article L. 123-9. Le
-dossier de l'enquête publique réalisée conformément au chapitre III du titre II
-du livre Ier du code de l'environnement est complété par une notice présentant
-la construction ou l'opération d'intérêt général. Les dispositions du présent
-alinéa sont également applicables à un projet d'extension des zones
-constructibles qui ne porte pas atteinte à l'économie générale du projet
-d'aménagement et de développement durable et ne comporte pas de graves risques
-de nuisance.
-
-Entre la mise en révision d'un plan local d'urbanisme et l'approbation de cette
-révision, il peut être décidé une ou plusieurs révisions simplifiées et une ou
-plusieurs modifications.
-
-Les procédures nécessaires à une ou plusieurs révisions simplifiées et à une ou
-plusieurs modifications peuvent être menées conjointement.
+Les procédures nécessaires à une ou plusieurs révisions effectuées en
+application du dernier alinéa du II du présent article peuvent être menées
+conjointement.

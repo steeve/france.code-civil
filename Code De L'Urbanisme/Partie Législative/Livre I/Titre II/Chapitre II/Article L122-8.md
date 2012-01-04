@@ -1,27 +1,37 @@
 Article L122-8
 ----
-Un débat a lieu au sein de l'organe délibérant de l'établissement public prévu à
-l'article L. 122-4 sur les orientations générales du projet d'aménagement et de
-développement durables mentionné à l'article L. 122-1-3, au plus tard quatre
-mois avant l'examen du projet de schéma. Dans le cas d'une révision, ce débat
-peut avoir lieu lors de la mise en révision du schéma.
+L'organe délibérant de l'établissement public prévu aux articles L. 122-4 et L.
+122-4-1 arrête le projet de schéma et le soumet pour avis :
 
-Le projet de schéma est arrêté par délibération de l'établissement public prévu
-à l'article L. 122-4 puis transmis pour avis aux communes et aux groupements de
-communes membres de l'établissement public, aux communes et aux établissements
-publics de coopération intercommunale voisins compétents en matière d'urbanisme,
-au préfet, à la région, au département et aux organismes mentionnés à l'article
-L. 121-4 ainsi qu'à la commission spécialisée du comité de massif lorsque le
-projet comporte des dispositions relatives à la création d'une ou plusieurs
-unités touristiques nouvelles définies à l'article L. 145-9. En cas de révision
-ou de modification pour permettre la création d'une ou plusieurs unités
-touristiques nouvelles, le projet de révision ou de modification est soumis pour
-avis à la commission spécialisée du comité de massif, lorsqu'une au moins des
-unités touristiques nouvelles envisagées répond aux conditions prévues par le I
-de l'article L. 145-11 ou à la commission départementale des sites lorsque les
-unités touristiques nouvelles prévues répondent aux conditions prévues par le II
-du même article. Ces avis sont réputés favorables s'ils n'interviennent pas dans
-un délai de trois mois après transmission du projet de schéma.
+1° Aux personnes publiques associées mentionnées à l'article L. 121-4 ;
 
-Les associations mentionnées à l'article L. 121-5 sont consultées, à leur
-demande, sur le projet de schéma.
+2° Aux communes et groupements de communes membres de l'établissement public ;
+
+3° A leur demande, aux établissements publics de coopération intercommunale
+directement intéressés et aux communes limitrophes ;
+
+4° A la commission prévue à l'article L. 112-1-1 du code rural et de la pêche
+maritime, lorsqu'il a pour conséquence une réduction des surfaces des zones
+agricoles ;
+
+5° Lorsqu'il prévoit la création d'une ou plusieurs unités touristiques
+nouvelles :
+
+-à la commission spécialisée du comité de massif, lorsqu'une au moins des unités
+touristiques nouvelles envisagées répond aux conditions prévues par le I de
+l'article L. 145-11 ;
+
+-à la commission compétente en matière de nature, de paysages et de sites
+lorsque les unités touristiques nouvelles prévues répondent aux conditions
+prévues par le II du même article ;
+
+6° A sa demande, au représentant de l'ensemble des organismes mentionnés à
+l'article L. 411-2 du code de la construction et de l'habitation propriétaires
+ou gestionnaires de logements situés sur le territoire de l'établissement public
+de coopération intercommunale compétent ou la commune, si ces organismes en ont
+désigné un.
+
+Les personnes et les commissions consultées rendent leur avis dans les limites
+de leurs compétences propres, au plus tard trois mois à compter de la
+transmission du projet de schéma. A défaut de réponse dans ce délai l'avis est
+réputé favorable.

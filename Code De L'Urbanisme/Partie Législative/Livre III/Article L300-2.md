@@ -1,46 +1,58 @@
 Article L300-2
 ----
-I - Le conseil municipal ou l'organe délibérant de l'établissement public de
-coopération intercommunale délibère sur les objectifs poursuivis et sur les
-modalités d'une concertation associant, pendant toute la durée de l'élaboration
-du projet, les habitants, les associations locales et les autres personnes
-concernées dont les représentants de la profession agricole, avant :
+I. - Font l'objet d'une concertation associant, pendant toute la durée de
+l'élaboration du projet, les habitants, les associations locales et les autres
+personnes concernées :
 
-a) Toute élaboration ou révision du schéma de cohérence territoriale ou du plan
+1° L'élaboration ou la révision du schéma de cohérence territoriale ou du plan
 local d'urbanisme ;
 
-b) Toute création, à son initiative, d'une zone d'aménagement concerté ;
+2° La création d'une zone d'aménagement concerté ;
 
-c) Toute opération d'aménagement réalisée par la commune ou pour son compte
-lorsque, par son importance ou sa nature, cette opération modifie de façon
-substantielle le cadre de vie ou l'activité économique de la commune et qu'elle
-n'est pas située dans un secteur qui a déjà fait l'objet de cette délibération
-au titre du a) ou du b) ci-dessus. Un décret en Conseil d'Etat détermine les
-caractéristiques des opérations d'aménagement soumises aux obligations du
-présent alinéa.
+3° Les opérations d'aménagement ayant pour effet de modifier de façon
+substantielle le cadre de vie ou l'activité économique, dont la liste est
+arrêtée par décret en Conseil d'Etat.
 
-Les documents d'urbanisme et les opérations mentionnées aux a, b et c ne sont
-pas illégaux du seul fait des vices susceptibles d'entacher la concertation, dès
-lors que les modalités définies par la délibération prévue au premier alinéa ont
-été respectées. Les autorisations d'occuper ou d'utiliser le sol ne sont pas
-illégales du seul fait des vices susceptibles d'entacher cette délibération ou
-les modalités de son exécution.
+II. - Les objectifs poursuivis et les modalités de la concertation sont fixés
+par :
 
-A l'issue de cette concertation, le maire en présente le bilan devant le conseil
-municipal qui en délibère.
+1° Le préfet lorsque la révision du document d'urbanisme ou l'opération sont à
+l'initiative de l'Etat ;
 
-Le dossier définitif du projet est alors arrêté par le conseil municipal et tenu
-à la disposition du public.
+2° L'organe délibérant de la collectivité ou de l'établissement public dans les
+autres cas.
+
+Toutefois, lorsque la concertation est rendue nécessaire en application du 2° ou
+du 3° du I ou lorsqu'elle est organisée alors qu'elle n'est pas obligatoire, les
+objectifs poursuivis et les modalités de la concertation peuvent être arrêtés
+par le président de l'organe délibérant de la collectivité ou de l'établissement
+public compétent.
+
+Ces modalités doivent, pendant une durée suffisante au regard de l'importance du
+projet, permettre au public d'accéder aux informations relatives au projet et
+aux avis requis par les dispositions législatives ou réglementaires applicables
+et de formuler des observations et propositions qui sont enregistrées et
+conservées par l'autorité compétente.
 
 Lorsqu'une opération d'aménagement doit faire l'objet d'une concertation en
-application des b ou c et nécessite une révision du schéma de cohérence
-territoriale ou du plan local d'urbanisme, la révision du document d'urbanisme
-et l'opération peuvent, à l'initiative de la commune ou de l'établissement
-public de coopération intercommunale compétent, faire l'objet d'une concertation
-unique. Dans ce cas, la délibération prévue aux premier et sixième alinéas est
-prise par le conseil municipal ou par l'organe délibérant de l'établissement
-public de coopération intercommunale.
+application des 2° ou 3° du I et nécessite une révision du schéma de cohérence
+territoriale ou du plan local d'urbanisme, la commune ou l'établissement public
+de coopération intercommunale compétent peut décider que la révision du document
+d'urbanisme et l'opération font l'objet d'une concertation unique. Dans ce cas,
+les objectifs poursuivis et les modalités de la concertation sont fixés par le
+conseil municipal ou par l'organe délibérant de l'établissement public de
+coopération intercommunale.
 
-II - Les autres personnes publiques ayant l'initiative d'opérations
-d'aménagement sont tenues aux mêmes obligations. Elles organisent la
-concertation dans des conditions fixées après avis de la commune.
+III. - A l'issue de la concertation, l'autorité mentionnée au II en arrête le
+bilan.
+
+Lorsque le projet fait l'objet d'une enquête publique réalisée conformément au
+chapitre III du titre II du livre Ier du code de l'environnement, le bilan de la
+concertation est joint au dossier de l'enquête.
+
+IV. - Les documents d'urbanisme et les opérations mentionnées aux I et II ne
+sont pas illégaux du seul fait des vices susceptibles d'entacher la
+concertation, dès lors que les modalités définies par la décision ou la
+délibération prévue au II ont été respectées. Les autorisations d'occuper ou
+d'utiliser le sol ne sont pas illégales du seul fait des vices susceptibles
+d'entacher cette délibération ou les modalités de son exécution.

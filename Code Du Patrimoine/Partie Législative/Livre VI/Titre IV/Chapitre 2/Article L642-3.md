@@ -11,18 +11,18 @@ l'architecture et du patrimoine est arrêté par délibération de cette autorit
 Le projet arrêté est soumis à l'avis de la commission régionale du patrimoine et
 des sites prévue à l'article L. 612-1 du présent code.
 
-Ce projet donne lieu à un examen conjoint des personnes publiques mentionnées au
-b de l'article L. 123-16 du code de l'urbanisme.
+Ce projet donne lieu à un examen conjoint des personnes publiques mentionnées à
+l'article L. 123-14-2 du code de l'urbanisme.
 
 Il fait l'objet d'une enquête publique conduite par les autorités compétentes
-concernées.L'organe délibérant de l'autorité mentionnée au premier alinéa de
+concernées. L'organe délibérant de l'autorité mentionnée au premier alinéa de
 l'article L. 642-1 du présent code peut, par délibération, désigner à cette fin
 l'une de ces autorités compétentes concernées.
 
 Lorsque le projet n'est pas compatible avec les dispositions du plan local
 d'urbanisme, l'aire de mise en valeur de l'architecture et du patrimoine ne peut
 être créée que si celui-ci a été mis en compatibilité avec ses dispositions
-selon la procédure définie à l'article L. 123-16 du code de l'urbanisme.
+selon la procédure définie à l'article L. 123-14-2 du code de l'urbanisme.
 
 Après accord du préfet, l'aire de mise en valeur de l'architecture et du
 patrimoine est créée ou révisée par délibération de l'autorité mentionnée au

@@ -10,12 +10,13 @@ délibération approuvant le schéma, décider de se retirer.
 Le préfet, par dérogation aux dispositions applicables du code général des
 collectivités territoriales, constate le retrait de la commune ou de
 l'établissement public de coopération intercommunale de l'établissement public
-prévu à l'article L. 122-4.
+prévu aux articles L. 122-4 et L. 122-4-1.
 
 Dès la publication de l'arrêté du préfet, les dispositions du schéma concernant
 la commune ou l'établissement public de coopération intercommunale sont
 abrogées.
 
 Les dispositions des alinéas précédents ne sont pas applicables lorsque
-l'établissement public prévu à l'article L. 122-4 est une communauté urbaine,
-une métropole, une communauté d'agglomérations ou une communauté de communes.
+l'établissement public prévu aux articles L. 122-4 et L. 122-4-1 est une
+communauté urbaine, une métropole, une communauté d'agglomérations ou une
+communauté de communes.

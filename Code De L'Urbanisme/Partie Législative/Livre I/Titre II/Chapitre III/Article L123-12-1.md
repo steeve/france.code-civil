@@ -11,7 +11,6 @@ ce plan au regard de la satisfaction des besoins en logements et, le cas
 délibérant de l'établissement public de coopération intercommunale ou, dans le
 cas prévu par le deuxième alinéa de l'article L. 123-6, le conseil municipal
 délibère sur l'opportunité d'une application des dispositions prévues au sixième
-alinéa de l'article L. 123-11, d'une mise en révision ou d'une mise en révision
-simplifiée de ce plan dans les conditions prévues à l'article L. 123-13. Ce
-débat est organisé tous les trois ans dès lors que le plan n'a pas été mis en
-révision.
+alinéa de l'article L. 123-11, d'une mise en révision de ce plan dans les
+conditions prévues à l'article L. 123-13. Ce débat est organisé tous les trois
+ans dès lors que le plan n'a pas été mis en révision.

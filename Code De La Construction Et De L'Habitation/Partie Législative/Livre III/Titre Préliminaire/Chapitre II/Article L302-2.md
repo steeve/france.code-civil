@@ -12,10 +12,10 @@ nécessaires pour l'application du quatrième alinéa de l'article L. 302-1.
 
 L'établissement public de coopération intercommunale associe à l'élaboration du
 programme local de l'habitat l'Etat, le cas échéant, le président de
-l'établissement public prévu à l'article L. 122-4 du code de l'urbanisme, les
-communes et établissements publics compétents en matière de plan local
-d'urbanisme directement concernésainsi que toute autre personne morale qu'il
-juge utile.
+l'établissement public prévu aux articles L. 122-4 et L. 122-4-1 du code de
+l'urbanisme, les communes et établissements publics compétents en matière de
+plan local d'urbanisme directement concernésainsi que toute autre personne
+morale qu'il juge utile.
 
 Le projet de programme local de l'habitat, arrêté par l'organe délibérant de
 l'établissement public de coopération intercommunale, est transmis aux communes

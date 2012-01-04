@@ -4,7 +4,7 @@ Le règlement local de publicité est élaboré, révisé ou modifié conformém
 procédures d'élaboration, de révision ou de modification des plans locaux
 d'urbanisme définies au chapitre III du titre II du livre Ier du code de
 l'urbanisme, à l'exception des dispositions relatives à la procédure de
-modification simplifiée prévue par l'article L. 123-13 et des dispositions
+modification simplifiée prévue par l'article L. 123-13-3 et des dispositions
 transitoires de l'article L. 123-19 du même code.
 
 Le président de l'établissement public de coopération intercommunale compétent
@@ -27,7 +27,7 @@ conditions définies par le chapitre III du titre II du livre Ier du présent
 code.
 
 Le règlement local de publicité, une fois approuvé, est annexé au plan local
-d'urbanisme ou aux documents d'urbanisme en tenant lieu.A défaut de document
+d'urbanisme ou aux documents d'urbanisme en tenant lieu. A défaut de document
 d'urbanisme, il est tenu à disposition du public.
 
 L'illégalité pour vice de forme ou de procédure commise à l'occasion de

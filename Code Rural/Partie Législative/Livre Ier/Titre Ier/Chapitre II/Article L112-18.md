@@ -15,9 +15,9 @@ leur remise sur le marché ;
 agricole qui ne sont plus exploités, dès lors que l'emprise foncière sur
 laquelle est implanté le bâtiment concerné a fait l'objet d'un plan d'ensemble
 précisant les conditions d'utilisation du sol et le type de construction ou de
-réhabilitation réalisé. Ce projet peut être engagé, notamment, dans le cadre
-d'une révision simplifiée du plan local d'urbanisme à l'initiative de la
-collectivité ou du propriétaire concerné ;
+réhabilitation réalisé. Ce projet peut être engagé, notamment, dans le cadre de
+la procédure prévue au deuxième alinéa du II de l'article L. 123-13 du code de
+l'urbanisme à l'initiative de la collectivité ou du propriétaire concerné ;
 
 4° La réalisation ou la rénovation d'équipements touristiques, culturels, de
 loisirs et sportifs.

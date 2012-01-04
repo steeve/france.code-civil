@@ -12,7 +12,7 @@ leur prochaine révision et ont les mêmes effets que les schémas de cohérence
 territoriale. Le schéma devient caduc si cette révision n'est pas intervenue au
 plus tard dix ans après la publication de la loi n° 2000-1208 du 13 décembre
 2000 précitée. Toutefois, si l'établissement public compétent a tenu le débat
-mentionné au premier alinéa de l'article L. 122-8 avant cette date, le schéma
+mentionné au premier alinéa de l'article L. 122-7 avant cette date, le schéma
 directeur devient caduc le 1er janvier 2013 si le schéma de cohérence
 territoriale n'a pas été approuvé.
 
@@ -35,9 +35,9 @@ plus tard le 1er janvier 2002, le schéma directeur devient caduc.
 
 Lorsqu'il est fait application de l'article L. 122-15 en l'absence
 d'établissement public compétent pour assurer le suivi du schéma directeur,
-l'examen conjoint des dispositions proposées par l'Etat pour assurer la mise en
-compatibilité d'un schéma directeur est effectué avec l'ensemble des communes
-concernées par le schéma.
+l'examen conjoint prévu à l'article L. 122-16-1 des dispositions proposées par
+l'Etat pour assurer la mise en compatibilité d'un schéma directeur est effectué
+avec l'ensemble des communes concernées par le schéma.
 
 Jusqu'à la constitution de l'établissement public, la modification du schéma
 directeur peut être décidée par arrêté motivé du préfet s'il constate, avant
@@ -71,9 +71,8 @@ Les schémas directeurs approuvés avant l'entrée en vigueur de la loi n°
 2000-1208 du 13 décembre 2000 précitée et les schémas directeurs approuvés ou
 révisés dans les conditions définies par les troisième et quatrième alinéas
 peuvent faire l'objet d'une modification, sans être mis en forme de schéma de
-cohérence territoriale, dans les conditions définies par le second alinéa de
-l'article L. 122-13, lorsque la modification ne porte pas atteinte à leur
-économie générale.
+cohérence territoriale, dans les conditions définies par l'article L. 122-14-2,
+lorsque la modification ne porte pas atteinte à leur économie générale.
 
 Les dispositions des schémas directeurs en cours de modification dont
 l'application anticipée a été décidée avant l'entrée en vigueur de la loi n°
@@ -87,8 +86,8 @@ Lorsqu'un schéma directeur approuvé avant l'entrée en vigueur de la loi n°
 délai d'un an à compter de l'entrée en vigueur de ladite loi en application du
 troisième alinéa ou un schéma directeur révisé avant le 1er janvier 2003 en
 application du quatrième alinéa est annulé pour vice de forme ou de procédure,
-l'établissement public prévu à l'article L. 122-4 peut l'approuver à nouveau,
-après enquête publique réalisée conformément au chapitre III du titre II du
-livre Ier du code de l'environnement, dans le délai d'un an à compter de la
-décision juridictionnelle qui l'a annulé, sans mettre le schéma directeur en
-forme de schéma de cohérence territoriale.
+l'établissement public prévu aux articles L. 122-4 et L. 122-4-1 peut
+l'approuver à nouveau, après enquête publique réalisée conformément au chapitre
+III du titre II du livre Ier du code de l'environnement, dans le délai d'un an à
+compter de la décision juridictionnelle qui l'a annulé, sans mettre le schéma
+directeur en forme de schéma de cohérence territoriale.

@@ -26,22 +26,16 @@ Les dispositions qui précèdent ne sont pas applicables aux terrains issus d'un
 division effectuée à une date ou dans une zone où le plan local d'urbanisme ne
 prévoyait pas la règle prévue au premier alinéa.
 
-Le conseil municipal ou l'organe délibérant de l'établissement public de
-coopération intercommunale compétent en matière de plan local d'urbanisme peut,
-par délibération motivée, déterminer des secteurs situés dans les zones urbaines
+Le règlement peut déterminer des secteurs situés dans les zones urbaines
 délimitées par un plan local d'urbanisme ou un document d'urbanisme en tenant
 lieu, à l'intérieur desquels un dépassement des règles relatives au gabarit, à
 la hauteur, à l'emprise au sol et au coefficient d'occupation des sols résultant
 de l'un de ces documents est autorisé pour permettre l'agrandissement ou la
-construction de bâtiments à usage d'habitation. La délibération fixe pour chaque
-secteur ce dépassement, qui ne peut excéder 20 % pour chacune des règles
-concernées. En l'absence de coefficient d'occupation des sols, l'application du
-dépassement ainsi autorisé ne peut conduire à la création d'une surface de
-plancher supérieure de plus de 20 % à la surface de plancher existante. Le
-projet de délibération comprenant l'exposé des motifs est porté à la
-connaissance du public en vue de lui permettre de formuler des observations
-pendant un délai d'un mois préalablement à la convocation de l'assemblée
-délibérante.
+construction de bâtiments à usage d'habitation. Ce dépassement, fixé pour chaque
+secteur, ne peut excéder 20 % pour chacune des règles concernées. En l'absence
+de coefficient d'occupation des sols, l'application du dépassement ainsi
+autorisé ne peut conduire à la création d'une surface de plancher supérieure de
+plus de 20 % à la surface de plancher existante.
 
 Le sixième alinéa n'est pas applicable dans les zones A, B et C des plans
 d'exposition au bruit mentionnées à l'article L. 147-4 du présent code et dans

@@ -1,14 +1,28 @@
 Article L122-14
 ----
-Au plus tard à l'expiration d'un délai de six ans à compter de la délibération
-portant approbation du schéma de cohérence territoriale, de la dernière
-délibération portant révision complète de ce schéma ou de la délibération ayant
-décidé son maintien en vigueur en application du présent article,
-l'établissement public prévu à l'article L. 122-4 procède à une analyse des
-résultats de l'application du schéma en matière d'environnement, de transports
-et de déplacements, de maîtrise de la consommation d'espace et d'implantation
-commerciale, et délibère sur son maintien en vigueur ou sur sa révision
-partielle ou complète. Cette analyse est communiquée au public et à l'autorité
-administrative compétente en matière d'environnement mentionnée à l'article L.
-121-12. A défaut d'une telle délibération, le schéma de cohérence territoriale
-est caduc.
+I. ― Le schéma de cohérence territoriale fait l'objet d'une révision lorsque
+l'établissement public prévu aux articles L. 122-4 et L. 122-4-1 envisage des
+changements portant sur :
+
+1° Les orientations définies par le projet d'aménagement et de développement
+durables ;
+
+2° Les dispositions du document d'orientation et d'objectifs prises en
+application du II de l'article L. 122-1-5 ;
+
+3° Les dispositions du document d'orientation et d'objectifs relatives à la
+politique de l'habitat prises en application du 1° de l'article L. 122-1-7 ayant
+pour effet de diminuer l'objectif global concernant l'offre de nouveaux
+logements.
+
+II. ― La révision est prescrite par délibération de l'organe délibérant de
+l'établissement public. Elle est effectuée dans les conditions définies par les
+articles L. 122-6 à L. 122-12.
+
+Toutefois, le débat sur les orientations du projet d'aménagement et de
+développement durables prévu par l'article L. 122-7 peut avoir lieu dès la mise
+en révision du schéma.
+
+Entre la mise en révision d'un schéma de cohérence territoriale et l'approbation
+de cette révision, il peut être décidé une ou plusieurs modifications ou mises
+en compatibilité de ce schéma.
