@@ -5,8 +5,9 @@ nommés ou élus dans les mêmes conditions que ceux-ci. Les membres suppléants
 siègent qu'en l'absence des membres titulaires qu'ils suppléent. En cas
 d'empêchement du président de la commission, la présidence est assurée par le
 recteur de l'académie, pour la commission instituée au siège de l'académie, ou
-par l'inspecteur d'académie, directeur des services départementaux de
-l'éducation nationale, pour les commissions instituées au chef-lieu d'un
-département. Si le recteur ou l'inspecteur d'académie est lui-même empêché, la
-présidence de la commission est assurée, selon le cas, par le secrétaire général
-pour les affaires régionales ou par le secrétaire général de la préfecture.
+par le directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie, pour les commissions instituées au chef-lieu
+d'un département. Si le recteur ou l'inspecteur d'académie est lui-même empêché,
+la présidence de la commission est assurée, selon le cas, par le secrétaire
+général pour les affaires régionales ou par le secrétaire général de la
+préfecture.

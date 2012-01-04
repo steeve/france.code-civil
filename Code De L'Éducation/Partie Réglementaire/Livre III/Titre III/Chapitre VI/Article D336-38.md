@@ -22,5 +22,6 @@ membres, le jury peut néanmoins délibérer valablement.
 
 Dans les centres ouverts à l'étranger, les jurys sont constitués selon les mêmes
 modalités ; toutefois, à défaut d'un président membre de l'enseignement
-supérieur, un inspecteur d'académie ou un professeur agrégé de l'enseignement du
-second degré peut être désigné.
+supérieur, un directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie ou un professeur agrégé de
+l'enseignement du second degré peut être désigné.

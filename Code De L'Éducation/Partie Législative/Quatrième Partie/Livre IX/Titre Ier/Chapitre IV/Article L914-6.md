@@ -2,13 +2,13 @@ Article L914-6
 ----
 Toute personne attachée à l'enseignement ou à la surveillance d'un établissement
 d'enseignement privé du premier ou du second degré ou d'un établissement
-d'enseignement supérieur privé peut, sur la plainte de l'inspecteur d'académie,
-du recteur, du représentant de l'Etat dans le département ou du ministère
-public, être traduit devant le conseil académique de l'éducation nationale pour
-faute grave dans l'exercice de ses fonctions, inconduite ou immoralité ou
-lorsque son enseignement est contraire à la morale et aux lois ou, s'agissant
-d'un professeur d'un établissement d'enseignement supérieur privé, pour désordre
-grave occasionné ou toléré par lui dans son cours.
+d'enseignement supérieur privé peut, sur la plainte de l'autorité de l'Etat
+compétente en matière d'éducation, du représentant de l'Etat dans le département
+ou du ministère public, être traduit devant le conseil académique de l'éducation
+nationale pour faute grave dans l'exercice de ses fonctions, inconduite ou
+immoralité ou lorsque son enseignement est contraire à la morale et aux lois ou,
+s'agissant d'un professeur d'un établissement d'enseignement supérieur privé,
+pour désordre grave occasionné ou toléré par lui dans son cours.
 
 Elle peut recevoir un blâme, avec ou sans publicité, ou être interdite de
 l'exercice de sa profession temporairement ou définitivement, sans préjudice des

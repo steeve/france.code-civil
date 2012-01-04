@@ -2,16 +2,18 @@ Article R914-5
 ----
 La commission consultative mixte départementale comprend vingt membres :
 
-1° L'inspecteur d'académie, directeur des services départementaux de l'éducation
-nationale, président ;
+1° Le directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie, président ;
 
-2° Quatre représentants de l'administration désignés par l'inspecteur d'académie
-;
+2° Quatre représentants de l'administration désignés par le directeur académique
+des services de l'éducation nationale agissant sur délégation du recteur
+d'académie ;
 
 3° Cinq membres du personnel titulaire de l'enseignement primaire public dont un
 membre de l'enseignement primaire public spécialisé accueillant des enfants et
 adolescents handicapés. Ils comprennent, d'une part, des chefs d'établissement,
-d'autre part, des maîtres, désignés par l'inspecteur d'académie ;
+d'autre part, des maîtres, désignés par le directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie ;
 
 4° Cinq représentants des chefs d'établissement d'enseignement primaire privé
 ayant passé avec l'Etat un contrat et n'exerçant pas la fonction de chef
@@ -35,7 +37,8 @@ candidats égal au double du nombre de sièges à pourvoir.
 
 Lorsque le nombre des chefs d'établissement et des responsables pédagogiques des
 classes spécialisées est inférieur à vingt, ou lorsque le nombre des maîtres est
-inférieur à cent, l'inspecteur d'académie peut réduire le nombre de leurs
+inférieur à cent, le directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie peut réduire le nombre de leurs
 représentants respectifs, à la condition que le nombre des premiers reste égal à
 celui des seconds, et que la représentation des autres catégories siégeant à la
 commission soit réduite à due proportion. Dans ces cas, aucune liste ne pourra

@@ -15,5 +15,5 @@ préalablement le directeur de l'école ou le chef de l'établissement et en
 précisent le motif. S'il y a doute sérieux sur la légitimité du motif, le
 directeur de l'école ou le chef de l'établissement invite les personnes
 responsables de l'enfant à présenter une demande d'autorisation d'absence qu'il
-transmet à l'inspecteur d'académie, directeur des services départementaux de
-l'éducation nationale.
+transmet au directeur académique des services de l'éducation nationale agissant
+sur délégation du recteur d'académie.

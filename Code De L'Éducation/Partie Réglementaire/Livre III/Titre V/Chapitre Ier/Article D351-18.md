@@ -2,8 +2,8 @@ Article D351-18
 ----
 La création d'une unité d'enseignement est prévue dans le cadre d'une convention
 signée entre les représentants de l'organisme gestionnaire et l'Etat représenté
-conjointement par le préfet de département et l'inspecteur d'académie, directeur
-des services départementaux de l'éducation nationale.
+conjointement par le préfet de département et le directeur académique des
+services de l'éducation nationale agissant sur délégation du recteur d'académie.
 
 Cette unité met en oeuvre tout dispositif d'enseignement concourant à la
 réalisation du projet personnalisé de scolarisation, au service du parcours de
@@ -21,8 +21,9 @@ fonctionnement de l'unité d'enseignement.
 
 Lorsque l'unité est organisée pour tout ou partie dans un établissement
 scolaire, cette mise en œuvre est menée conjointement avec les responsables des
-établissements scolaires concernés, qui agissent par délégation de l'inspecteur
-d'académie ou du directeur régional de l'agriculture et de la pêche.
+établissements scolaires concernés, qui agissent par délégation du directeur
+académique des services de l'éducation nationale agissant sur délégation du
+recteur d'académie ou du directeur régional de l'agriculture et de la pêche.
 
 L'unité d'enseignement est organisée selon les modalités suivantes :
 

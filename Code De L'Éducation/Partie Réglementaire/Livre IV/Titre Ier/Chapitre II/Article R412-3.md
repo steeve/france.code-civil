@@ -10,5 +10,5 @@ et R. 421-53 à R. 421-78. Pour son application aux écoles régionales du premi
 degré : a) Le 3° de l'article R. 421-9 est ainsi rédigé : « Préside le conseil
 d'administration ; » ; b) Le 9° de l'article R. 421-17 est ainsi rédigé : «
 Quatre représentants élus des parents d'élèves et quatre représentants des
-professions non sédentaires nommés par l'inspecteur d'académie, directeur des
-services départementaux de l'éducation nationale. »
+professions non sédentaires nommés par le directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie. »

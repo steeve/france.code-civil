@@ -8,5 +8,6 @@ ressort de laquelle cette personne est actuellement domiciliée.
 Si la demande a été formée par une personne appartenant ou ayant appartenu à
 l'enseignement du premier degré, le ministre en transmet, dans le même délai, la
 copie au préfet dans le département duquel cette personne est actuellement
-domiciliée. Le préfet fait parvenir cette pièce à l'inspecteur d'académie dans
-le délai de huit jours.
+domiciliée. Le préfet fait parvenir cette pièce au directeur académique des
+services de l'éducation nationale agissant sur délégation du recteur d'académie
+dans le délai de huit jours.

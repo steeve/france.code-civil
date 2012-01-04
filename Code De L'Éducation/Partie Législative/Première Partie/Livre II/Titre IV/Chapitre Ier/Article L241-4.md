@@ -6,7 +6,8 @@ degré publics ou privés est exercée :
 1° Par les inspecteurs généraux de l'éducation nationale et les inspecteurs
 généraux de l'administration de l'éducation nationale et de la recherche ;
 
-2° Par les recteurs et les inspecteurs d'académie ;
+2° Par les recteurs et les directeurs académiques des services de l'éducation
+nationale agissant sur délégation de ces derniers ;
 
 3° Par les inspecteurs de l'éducation nationale ;
 

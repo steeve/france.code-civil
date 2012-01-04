@@ -3,11 +3,12 @@ Article R914-6
 Lorsqu'elle siège en formation spéciale en application de l'article R. 914-77,
 la commission consultative mixte départementale comprend vingt membres :
 
-1° L'inspecteur d'académie, directeur des services départementaux de l'éducation
-nationale, président ;
+1° Le directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie, président ;
 
 2° Neuf représentants de l'administration désignés par le recteur sur
-proposition de l'inspecteur d'académie ;
+proposition du directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie ;
 
 3° Les cinq chefs d'établissement primaire privé mentionnés au 4° de l'article
 R. 914-5 ;
@@ -19,7 +20,8 @@ Lorsque les chefs d'établissement siégeant à la commission consultative mixte
 sont pas, pour la moitié au moins, des chefs d'établissement sous contrat
 d'association, cette proportion est rétablie, dans la formation spéciale, par le
 remplacement de chefs d'établissement sous contrat simple par des chefs
-d'établissement sous contrat d'association.L'inspecteur d'académie décide du
+d'établissement sous contrat d'association. Le directeur académique des services
+de l'éducation nationale agissant sur délégation du recteur d'académie décide du
 remplacement, sur proposition des organisations syndicales.
 
 Lorsque les maîtres siégeant à la commission consultative mixte ne sont pas,

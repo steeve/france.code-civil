@@ -7,7 +7,8 @@ d'origine, les candidats titulaires d'un diplôme de niveau V obtenu à la sessi
 précédant l'inscription, dans une spécialité en cohérence avec celle du
 baccalauréat professionnel préparé.
 
-L'affectation est prononcée, selon les cas, par l'inspecteur d'académie, dans
-les conditions fixées par l'article D. 331-38, ou par le directeur régional de
-l'alimentation, de l'agriculture et de la forêt, dans les conditions fixées par
-l'article D. 341-16.
+L'affectation est prononcée, selon les cas, par le directeur académique des
+services de l'éducation nationale agissant sur délégation du recteur d'académie,
+dans les conditions fixées par l'article D. 331-38, ou par le directeur régional
+de l'alimentation, de l'agriculture et de la forêt, dans les conditions fixées
+par l'article D. 341-16.

@@ -12,8 +12,8 @@ spécialités intéressées.
 Pour chaque session d'examen, les présidents, vice-présidents et membres des
 jurys sont nommés et les sujets et le calendrier des épreuves et des réunions
 des jurys sont fixés par le ou les recteurs ou, par délégation de ceux-ci, par
-le ou les inspecteurs d'académie, directeurs des services départementaux de
-l'éducation nationale.
+le ou les directeurs académiques des services de l'éducation nationale agissant
+sur délégation du recteur d'académie.
 
 Les inspecteurs de l'éducation nationale, chargés de l'enseignement technique,
 veillent à l'organisation des examens.

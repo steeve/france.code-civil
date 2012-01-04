@@ -13,7 +13,7 @@ huit jours qui suivent la rentrée des classes, les enfants fréquentant leur
 établissement. L'état des mutations sera fourni à la mairie à la fin de chaque
 mois. Les conseillers municipaux, les délégués départementaux de l'éducation
 nationale, les assistants de service social, les membres de l'enseignement, les
-agents de l'autorité, l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale ou son délégué ont le droit de prendre
-connaissance et copie, à la mairie, de la liste des enfants d'âge scolaire. Les
-omissions sont signalées au maire, qui en accuse réception.
+agents de l'autorité, le directeur académique des services de l'éducation
+nationale agissant sur délégation du recteur d'académie ou son délégué ont le
+droit de prendre connaissance et copie, à la mairie, de la liste des enfants
+d'âge scolaire. Les omissions sont signalées au maire, qui en accuse réception.

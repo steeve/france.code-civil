@@ -2,10 +2,10 @@ Article L131-5
 ----
 Les personnes responsables d'un enfant soumis à l'obligation scolaire définie à
 l'article L. 131-1 doivent le faire inscrire dans un établissement
-d'enseignement public ou privé, ou bien déclarer au maire et à l'inspecteur
-d'académie, directeur des services départementaux de l'éducation nationale,
-qu'elles lui feront donner l'instruction dans la famille. Dans ce cas, il est
-exigé une déclaration annuelle.
+d'enseignement public ou privé, ou bien déclarer au maire et à l'autorité de
+l'Etat compétente en matière d'éducation, qu'elles lui feront donner
+l'instruction dans la famille. Dans ce cas, il est exigé une déclaration
+annuelle.
 
 Les mêmes formalités doivent être accomplies dans les huit jours qui suivent
 tout changement de résidence ou de choix d'instruction.

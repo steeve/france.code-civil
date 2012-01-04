@@ -8,8 +8,8 @@ où seront faits les cours, et l'objet ou les divers objets de l'enseignement qu
 y sera donné.
 
 Elle est remise au recteur dans les départements où est établi le chef-lieu de
-l'académie, et à l'inspecteur d'académie dans les autres départements. Il en est
-donné immédiatement récépissé.
+l'académie, et à l'autorité de l'Etat compétente en matière d'éducation dans les
+autres départements. Il en est donné immédiatement récépissé.
 
 L'ouverture du cours ne peut avoir lieu que dix jours francs après la délivrance
 du récépissé. Toute modification aux points qui ont fait l'objet de la

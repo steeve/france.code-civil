@@ -11,7 +11,8 @@ Deux représentants du conseil général désignés par cette assemblée ;
 
 Le procureur de la République du chef-lieu, ou son substitut ;
 
-L'inspecteur d'académie ;
+Le directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie ;
 
 Deux représentants du corps enseignant public (un) et du corps enseignant privé
 (un) ;
@@ -77,7 +78,7 @@ provisoire, aux 20 N sièges visés ci-dessus.
 La valeur numérique du facteur N ci-dessus varie de 1 à 3 et sera fixée par
 arrêté du ministre chargé des anciens combattants et victimes de guerre, en
 tenant compte essentiellement de l'importance du département considéré et du
-chiffre de sa population.N est toutefois égal à 4 pour chacun des départements
+chiffre de sa population. N est toutefois égal à 4 pour chacun des départements
 de Paris, des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne (1), de
 l'Essonne, des Yvelines et du Val-d'Oise (2) et du Nord.
 

@@ -30,13 +30,15 @@ corps d'inspection pédagogique régionale, désigné par le recteur ;
 
 g) Un inspecteur de l'éducation nationale, chargé de circonscription du premier
 degré, coordonnateur de l'enseignement des langues régionales dans les écoles de
-son département, désigné par le recteur sur avis des inspecteurs d'académie,
-directeurs des services départementaux de l'éducation nationale ;
+son département, désigné par le recteur sur avis des directeurs académiques des
+services de l'éducation nationale agissant sur délégation du recteur d'académie
+;
 
-h) Un représentant des maîtres formateurs délégué auprès d'un inspecteur
-d'académie, directeur des services départementaux de l'éducation nationale,
-désigné par le recteur après avis de l'inspecteur d'académie, directeur des
-services départementaux de l'éducation nationale auprès duquel il est affecté ;
+h) Un représentant des maîtres formateurs délégué auprès d'un directeur
+académique des services de l'éducation nationale agissant sur délégation du
+recteur d'académie, désigné par le recteur après avis du directeur académique
+des services de l'éducation nationale agissant sur délégation du recteur
+d'académie auprès duquel il est affecté ;
 
 i) Le directeur régional des affaires culturelles ou son représentant ;
 

@@ -1,5 +1,5 @@
 Article D313-5
 ----
-Au niveau départemental, l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale, assure la responsabilité des activités
-d'information et d'orientation.
+Au niveau départemental, le directeur académique des services de l'éducation
+nationale agissant sur délégation du recteur d'académie, assure la
+responsabilité des activités d'information et d'orientation.

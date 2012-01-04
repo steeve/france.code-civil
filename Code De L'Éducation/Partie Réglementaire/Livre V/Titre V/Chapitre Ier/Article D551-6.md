@@ -9,8 +9,8 @@ pédagogiques concernées et dans le respect de la responsabilité pédagogique 
 enseignants. Le directeur d'école ou le chef d'établissement peut, pour une
 intervention exceptionnelle, autoriser dans les mêmes conditions l'intervention
 d'une association non agréée s'il a auparavant informé du projet d'intervention
-le recteur ou l'inspecteur d'académie, directeur des services départementaux de
-l'éducation nationale, dans le cas où celui-ci a reçu délégation de signature.
-Après avoir pris connaissance de ce projet, l'autorité académique peut notifier
-au directeur d'école ou au chef d'établissement son opposition à l'action
-projetée.
+le recteur ou le directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie, dans le cas où celui-ci a reçu
+délégation de signature. Après avoir pris connaissance de ce projet, l'autorité
+académique peut notifier au directeur d'école ou au chef d'établissement son
+opposition à l'action projetée.

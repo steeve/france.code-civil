@@ -11,11 +11,12 @@ de l'obligation d'assiduité scolaire, le maire peut mettre en oeuvre un
 traitement automatisé de données à caractère personnel où sont enregistrées les
 données à caractère personnel relatives aux enfants en âge scolaire domiciliés
 dans la commune, qui lui sont transmises par les organismes chargés du versement
-des prestations familiales ainsi que par l'inspecteur d'académie en application
-de l'article L. 131-8 et par le directeur ou la directrice de l'établissement
-d'enseignement en application du même article ainsi qu'en cas d'exclusion
-temporaire ou définitive de l'établissement ou lorsqu'un élève inscrit dans un
-établissement le quitte en cours ou en fin d'année.
+des prestations familiales ainsi que par l'autorité de l'Etat compétente en
+matière d'éducation en application de l'article L. 131-8 et par le directeur ou
+la directrice de l'établissement d'enseignement en application du même article
+ainsi qu'en cas d'exclusion temporaire ou définitive de l'établissement ou
+lorsqu'un élève inscrit dans un établissement le quitte en cours ou en fin
+d'année.
 
 Un décret en Conseil d'Etat, pris après avis de la Commission nationale de
 l'informatique et des libertés, détermine les conditions d'application du

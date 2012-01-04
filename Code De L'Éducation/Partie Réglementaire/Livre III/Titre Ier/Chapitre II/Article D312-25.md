@@ -6,8 +6,8 @@ La commission sur l'enseignement des langues vivantes étrangères comprend :
 
 a) Le recteur d'académie, président ;
 
-b) Un inspecteur d'académie, directeur des services départementaux de
-l'éducation nationale ;
+b) Un directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie ;
 
 c) Le directeur de l'institut universitaire de formation des maîtres ou son
 représentant ;

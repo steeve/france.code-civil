@@ -5,10 +5,11 @@ Pour les questions relatives aux écoles, aux collèges, aux lycées et aux
 personnels affectés aux enseignements qui y sont dispensés, ainsi qu'à la
 formation continue des adultes, le recteur de l'académie de Paris est assisté
 par un adjoint, nommé par décret du Président de la République, qui prend le
-titre de directeur de l'académie de Paris.
+titre de directeur de l'académie de Paris et exerce les fonctions de directeur
+des services départementaux de l'éducation nationale.
 
-Le directeur de l'académie de Paris est lui-même assisté d'inspecteurs
-d'académie, directeurs des services départementaux de l'éducation.
+Le directeur de l'académie de Paris est lui-même assisté de directeurs
+académiques des services de l'éducation nationale.
 
 Sous l'autorité du recteur, un secrétaire général d'académie, qui prend le titre
 de secrétaire général de l'enseignement scolaire, est chargé de l'administration

@@ -13,7 +13,7 @@ scolaire, notamment dans le cadre des dispositifs de réussite éducative. Le
 projet d'école peut prévoir, pour une durée maximale de cinq ans, la réalisation
 d'expérimentations portant sur les domaines énumérés au troisième alinéa de
 l'article L. 401-1. Les objectifs, principes et modalités générales de ces
-expérimentations sont approuvés par l'inspecteur d'académie, directeur des
-services départementaux de l'éducation nationale. Ces expérimentations font
-l'objet d'une évaluation annuelle par le conseil des maîtres de l'école ; les
-corps d'inspection concourent à cette évaluation.
+expérimentations sont approuvés par le directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie. Ces
+expérimentations font l'objet d'une évaluation annuelle par le conseil des
+maîtres de l'école ; les corps d'inspection concourent à cette évaluation.

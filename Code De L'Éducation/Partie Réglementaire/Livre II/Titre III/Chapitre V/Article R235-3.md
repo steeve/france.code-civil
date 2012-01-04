@@ -12,15 +12,17 @@ quatre sièges réservés aux maires est occupé par un conseiller communautaire
 par le conseil de la communauté ou par les conseils des communautés réunis à cet
 effet.
 
-Les représentants des personnels sont nommés par le préfet du département.
-L'inspecteur d'académie, directeur des services départementaux de l'éducation
-nationale, reçoit à cet effet les propositions des organisations syndicales
-représentatives dans le département et transmet les propositions au préfet.
+Les représentants des personnels sont nommés par le préfet du département. Le
+directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie, reçoit à cet effet les propositions des
+organisations syndicales représentatives dans le département et transmet les
+propositions au préfet.
 
 Les représentants des parents d'élèves sont nommés par le préfet du département.
-L'inspecteur d'académie, directeur des services départementaux de l'éducation
-nationale, reçoit à cet effet les propositions des associations de parents
-d'élèves représentatives dans le département et les transmet au préfet. La
-représentativité des associations de parents d'élèves est appréciée en fonction
-du nombre de voix obtenues dans le département lors des élections des parents
-d'élèves dans les instances représentatives des établissements scolaires.
+Le directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie, reçoit à cet effet les propositions des
+associations de parents d'élèves représentatives dans le département et les
+transmet au préfet. La représentativité des associations de parents d'élèves est
+appréciée en fonction du nombre de voix obtenues dans le département lors des
+élections des parents d'élèves dans les instances représentatives des
+établissements scolaires.

@@ -6,4 +6,5 @@ légitime, pendant les heures de classe, il est conduit immédiatement à l'éco
 ou à l'établissement scolaire auquel il est inscrit ou, si la déclaration
 prescrite à l'article L. 131-5 n'a pas été faite, à l'école publique la plus
 proche. Le directeur de l'école ou le chef de l'établissement scolaire informe,
-sans délai, l'inspecteur d'académie ou son délégué.
+sans délai, le directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie ou son délégué.

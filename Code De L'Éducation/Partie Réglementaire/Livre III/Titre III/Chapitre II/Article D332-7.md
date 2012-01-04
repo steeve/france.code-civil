@@ -3,13 +3,14 @@ Article D332-7
 Des enseignements adaptés sont organisés dans le cadre de sections
 d'enseignement général et professionnel adapté, pour la formation des élèves qui
 connaissent des difficultés scolaires graves et durables. Les élèves y sont
-admis sur décision de l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale, après accord des parents ou du
+admis sur décision du directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie, après accord des parents ou du
 représentant légal et avis d'une commission départementale créée à cet effet,
 par arrêté du ministre chargé de l'éducation.
 
-La commission départementale est présidée par l'inspecteur d'académie et
-composée de membres des corps d'inspection, de personnels de direction,
+La commission départementale est présidée par le directeur académique des
+services de l'éducation nationale agissant sur délégation du recteur d'académie
+et composée de membres des corps d'inspection, de personnels de direction,
 d'enseignants, de représentants de parents d'élèves, du médecin conseiller
 technique départemental, de l'assistant social conseiller technique
 départemental, d'un psychologue scolaire, d'un directeur de centre d'information

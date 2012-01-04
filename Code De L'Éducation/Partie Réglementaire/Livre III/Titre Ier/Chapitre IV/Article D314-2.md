@@ -7,4 +7,6 @@ Suivant la nature de leur participation aux actions menées dans ce domaine, les
 
 2° Etablissements chargés d'expérimentation.
 
-Ils restent placés sous l'autorité des recteurs et des inspecteurs d'académie.
+Ils restent placés sous l'autorité des recteurs et des directeurs académiques
+des services de l'éducation nationale agissant sur délégation du recteur
+d'académie.

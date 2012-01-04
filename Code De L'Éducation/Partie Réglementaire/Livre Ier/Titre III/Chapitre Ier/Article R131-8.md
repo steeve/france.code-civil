@@ -1,7 +1,8 @@
 Article R131-8
 ----
 Pour l'application aux élèves relevant de l'enseignement agricole du premier
-alinéa de l'article R. 131-7, la saisine de l'inspecteur d'académie est
+alinéa de l'article R. 131-7, la saisine du directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie est
 effectuée par l'intermédiaire, pour la métropole, du directeur régional de
 l'alimentation, de l'agriculture et de la forêt et, pour les départements
 d'outre-mer, du directeur de l'agriculture et de la forêt. Pour l'application

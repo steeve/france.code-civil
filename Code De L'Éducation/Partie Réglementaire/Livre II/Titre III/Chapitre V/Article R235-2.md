@@ -15,7 +15,8 @@ désignés dans les conditions fixées à l'article R. 235-3 ;
 3° Dix membres représentant les usagers, dont sept parents d'élèves désignés
 dans les conditions fixées à l'article R. 235-3, un représentant des
 associations complémentaires de l'enseignement public nommé par le préfet sur
-proposition de l'inspecteur d'académie, directeur des services départementaux de
-l'éducation nationale, et deux personnalités nommées en raison de leur
-compétence dans le domaine économique, social, éducatif et culturel, l'une par
-le préfet du département, l'autre par le président du conseil général.
+proposition du directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie, et deux personnalités nommées en
+raison de leur compétence dans le domaine économique, social, éducatif et
+culturel, l'une par le préfet du département, l'autre par le président du
+conseil général.

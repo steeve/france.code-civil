@@ -1,7 +1,8 @@
 Article D332-26
 ----
 Le jury du certificat de formation générale est nommé par le recteur d'académie.
-Il est présidé par cet inspecteur d'académie ou son représentant.
+Il est présidé par ce directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie ou son représentant.
 
 Il comprend :
 

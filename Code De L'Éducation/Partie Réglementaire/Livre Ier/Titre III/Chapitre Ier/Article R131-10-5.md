@@ -16,8 +16,9 @@ fonction de leurs attributions respectives et du besoin d'en connaître :
 son directeur et les agents de la caisse des écoles, individuellement désignés
 par le président du comité de caisse ;
 
--l'inspecteur d'académie, directeur des services départementaux de l'éducation
-nationale, et son ou ses représentants, individuellement désignés ;
+- le directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie, et son ou ses représentants, individuellement
+désignés ;
 
 -le président du conseil général, son ou ses représentants individuellement
 désignés et les agents des services départementaux chargés de l'aide et de

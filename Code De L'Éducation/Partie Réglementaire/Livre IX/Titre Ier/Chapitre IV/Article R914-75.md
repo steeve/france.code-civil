@@ -2,8 +2,8 @@ Article R914-75
 ----
 Aux dates fixées chaque année par un arrêté du recteur, les chefs
 d'établissement transmettent au recteur, s'il s'agit d'un établissement du
-second degré, ou à l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale, s'il s'agit d'un établissement du
+second degré, ou au directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie, s'il s'agit d'un établissement du
 premier degré :
 
 1° La liste des services, complets ou incomplets, y compris les services

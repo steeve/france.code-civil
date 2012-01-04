@@ -27,10 +27,11 @@ des établissements scolaires au sein desquels ils sont susceptibles d'exercer
 leurs fonctions.
 
 L'aide individuelle mentionnée au premier alinéa du présent article peut, après
-accord entre l'inspecteur d'académie et la famille de l'élève, lorsque la
-continuité de l'aide est nécessaire à l'élève en fonction de la nature
-particulière de son handicap, être assurée par une association ou un groupement
-d'associations ayant conclu une convention avec l'Etat.
+accord entre l'autorité de l'Etat compétente en matière d'éducation et la
+famille de l'élève, lorsque la continuité de l'aide est nécessaire à l'élève en
+fonction de la nature particulière de son handicap, être assurée par une
+association ou un groupement d'associations ayant conclu une convention avec
+l'Etat.
 
 Les modalités d'application du présent article, notamment la désignation des
 personnes chargées de l'aide mentionnée aux deux premiers alinéas et la nature

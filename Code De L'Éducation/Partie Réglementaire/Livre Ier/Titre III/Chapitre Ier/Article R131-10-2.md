@@ -14,14 +14,15 @@ l'enfant, au sens de l'article L. 131-4 ;
 date d'inscription et date de radiation de l'élève ; le cas échéant, date de la
 déclaration annuelle d'instruction dans la famille ;
 
-5° Mention et date de la saisine de l'inspecteur d'académie, directeur des
-services départementaux de l'éducation nationale, par le directeur ou le chef
-d'établissement d'enseignement pour défaut d'assiduité de l'élève en application
-de l'article L. 131-8 ;
+5° Mention et date de la saisine du directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie, par le
+directeur ou le chef d'établissement d'enseignement pour défaut d'assiduité de
+l'élève en application de l'article L. 131-8 ;
 
-6° Mention et date de notification de l'avertissement adressé par l'inspecteur
-d'académie, directeur des services départementaux de l'éducation nationale, aux
-personnes responsables de l'enfant en application de l'article L. 131-8 ;
+6° Mention et date de notification de l'avertissement adressé par le directeur
+académique des services de l'éducation nationale agissant sur délégation du
+recteur d'académie, aux personnes responsables de l'enfant en application de
+l'article L. 131-8 ;
 
 7° Mention, date et éventuellement durée de la sanction d'exclusion temporaire
 ou définitive de l'élève prononcée par le chef d'établissement ou le conseil de

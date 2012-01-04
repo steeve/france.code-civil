@@ -34,16 +34,16 @@ d'écoles privées sous contrat au moins et de deux maîtres contractuels ou agr
 au moins. Les membres de la commission de recours ne siègent pas lorsqu'est
 examiné le recours concernant un enfant de l'école dans laquelle ils exercent.
 La composition et les règles de fonctionnement de la commission sont
-communiquées à l'inspecteur d'académie, directeur des services départementaux de
-l'éducation nationale.
+communiquées au directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie.
 
 La commission procède à un nouvel examen de la situation de l'enfant.
 
-L'inspecteur d'académie, directeur des services départementaux de l'éducation
-nationale, ou son représentant, peut assister aux réunions de la commission de
-recours.
+Le directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie, ou son représentant, peut assister aux
+réunions de la commission de recours.
 
 Les décisions prises par la commission de recours sont définitives.
 
-Elles sont communiquées aux parents et à l'inspecteur d'académie, directeur des
-services départementaux de l'éducation nationale.
+Elles sont communiquées aux parents et au directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie.

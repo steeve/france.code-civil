@@ -1,6 +1,6 @@
 Article R575
 ----
-I.-Sous réserve des dispositions de l'article R. 577, le conseil départemental
+I.-Sous réserve des dispositions de l'article R. 577 , le conseil départemental
 pour les anciens combattants et victimes de guerre et la mémoire de la Nation
 comprend les membres suivants, nommés par arrêté préfectoral :
 
@@ -14,7 +14,8 @@ c) Un membre du conseil général ;
 
 d) Le délégué militaire départemental ;
 
-e) L'inspecteur d'académie ;
+e) Le directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie ;
 
 f) Le directeur des archives départementales (1).
 

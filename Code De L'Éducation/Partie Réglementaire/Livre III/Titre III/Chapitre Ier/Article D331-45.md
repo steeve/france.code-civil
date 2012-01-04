@@ -10,16 +10,15 @@ les alinéas suivants :
 nationale ; celui-ci peut se faire représenter. Elle comprend les membres
 suivants :
 
-" - le proviseur du lycée ;
+"-le proviseur du lycée ;
 
-" - le conseiller principal d'éducation ;
+"-le conseiller principal d'éducation ;
 
-" - le directeur du centre d'information et d'orientation ;
+"-le directeur du centre d'information et d'orientation ;
 
-" - trois professeurs, le professeur principal de la classe étant le rapporteur
-;
+"-trois professeurs, le professeur principal de la classe étant le rapporteur ;
 
-" - deux représentants des parents d'élèves.
+"-deux représentants des parents d'élèves.
 
 " La commission peut s'adjoindre un médecin de santé scolaire et une assistante
 sociale scolaire.
@@ -36,18 +35,18 @@ les alinéas suivants :
 nationale. Il est assisté d'une commission préparatoire à l'affectation des
 élèves dont la composition est fixée comme suit :
 
-" - un représentant du chef du service de l'éducation nationale, président ;
+"-un représentant du chef du service de l'éducation nationale, président ;
 
-" - le directeur du centre d'information et d'orientation ;
+"-le directeur du centre d'information et d'orientation ;
 
-" - le proviseur du lycée ;
+"-le proviseur du lycée ;
 
-" - le chef des travaux du lycée professionnel ;
+"-le chef des travaux du lycée professionnel ;
 
-" - trois enseignants ;
+"-trois enseignants ;
 
-" - deux représentants des parents d'élèves de l'enseignement public, au titre
-des associations les plus représentatives.
+"-deux représentants des parents d'élèves de l'enseignement public, au titre des
+associations les plus représentatives.
 
 " Les membres de la commission sont nommés par le chef du service de l'éducation
 nationale pour une durée d'un an renouvelable, sur proposition des associations
@@ -62,8 +61,9 @@ propose à la décision du chef du service de l'éducation nationale.
 le chef du service de l'éducation nationale. L'élève est scolarisé dans la même
 voie d'orientation et compte tenu de la formation déjà reçue. "
 
-3° Dans l'article D. 331-42, les mots : " inspecteur d'académie " sont remplacés
-par les mots : " chef du service de l'éducation nationale ".
+3° Dans l'article D. 331-42, les mots : " directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie " sont
+remplacés par les mots : " chef du service de l'éducation nationale ".
 
 4° Le deuxième alinéa de l'article D. 331-43 est modifié ainsi qu'il suit :
 

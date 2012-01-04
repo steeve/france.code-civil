@@ -12,12 +12,12 @@ générale des établissements du second degré susceptibles d'entraîner des
 2° Par le recteur d'académie, sur les modifications du calendrier scolaire
 régies par les dispositions du décret du 14 mars 1990 relatif aux conditions
 dans lesquelles le calendrier scolaire peut être adapté pour tenir compte de
-situations locales, ou par l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale, lorsqu'il a reçu délégation de
-signature pour procéder à ces modifications ;
+situations locales, ou par le directeur académique des services de l'éducation
+nationale agissant sur délégation du recteur d'académie, lorsqu'il a reçu
+délégation de signature pour procéder à ces modifications ;
 
-3° Par l'inspecteur d'académie, directeur des services départementaux de
-l'éducation nationale, sur :
+3° Par le directeur académique des services de l'éducation nationale agissant
+sur délégation du recteur d'académie, sur :
 
 a) Les projets de création ou de suppression d'écoles, de regroupements
 pédagogiques intercommunaux ou d'établissements du second degré ;

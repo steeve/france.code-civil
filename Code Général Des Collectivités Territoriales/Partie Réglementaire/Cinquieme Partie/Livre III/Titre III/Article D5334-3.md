@@ -12,8 +12,8 @@ du syndicat d'agglomération nouvelle ou son représentant, président ;
 
 4° Le directeur départemental de l'équipement ou son représentant ;
 
-5° L'inspecteur d'académie, directeur des services départementaux de l'éducation
-nationale ou son représentant ;
+5° Le directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie ou son représentant ;
 
 6° Le directeur départemental de la cohésion sociale ou le directeur
 départemental de la cohésion sociale et de la protection des populations ou leur
