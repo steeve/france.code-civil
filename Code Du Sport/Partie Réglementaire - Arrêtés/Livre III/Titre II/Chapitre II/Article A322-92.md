@@ -1,6 +1,6 @@
 Article A322-92
 ----
-Sans préjudice des autres dispositions réglementaires applicables en la matière,
-lorsque la fabrication des mélanges entraîne une circulation de gaz comprimés
-avec des taux supérieurs à 40 % d'oxygène, les bouteilles de plongée et les
-robinetteries doivent être compatibles pour une utilisation en oxygène pur.
+La valeur de la pression partielle minimale d'oxygène inspiré par le plongeur
+est limitée à 160 hectopascals (0,16 bar). La valeur de la pression partielle
+maximale d'oxygène inspiré par le plongeur en immersion est limitée à 1 600
+hectopascals (1,6 bar).

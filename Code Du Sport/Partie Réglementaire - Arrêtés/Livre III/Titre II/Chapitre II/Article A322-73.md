@@ -1,6 +1,12 @@
 Article A322-73
 ----
-La pratique de la plongée est placée sous la responsabilité d'un directeur de
-plongée présent sur le site qui fixe les caractéristiques de la plongée et
-organise l'activité. Il s'assure de l'application des règles définies par la
-présente sous-section.
+Plusieurs plongeurs qui effectuent ensemble une plongée présentant les mêmes
+caractéristiques de durée, de profondeur et de trajet, y compris s'ils respirent
+des mélanges différents, constituent une palanquée.
+
+Lorsque la palanquée est composée de plongeurs justifiant d'aptitudes
+différentes ou respirant des mélanges différents, elle ne doit pas dépasser les
+conditions maximales d'évolution accessibles au plongeur justifiant des
+aptitudes les plus restrictives ou du mélange le plus contraignant.
+
+Les plongeurs mineurs ne sont pas autorisés à évoluer en autonomie.

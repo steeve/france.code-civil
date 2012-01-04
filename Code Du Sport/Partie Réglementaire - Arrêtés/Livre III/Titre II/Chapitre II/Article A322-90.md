@@ -1,5 +1,15 @@
 Article A322-90
 ----
-Les qualifications et conditions de pratique de la plongée, telles que définies
-aux articles A. 322-88 et A. 322-89, sont précisées par les annexes III-18 à
-III-20 a et III-20 b au présent code.
+Les gaz et mélanges respiratoires sont les suivants :
+
+1° Mélanges binaires :
+
+- le nitrox est un mélange respiratoire composé d'oxygène et d'azote dans des
+proportions différentes de celle de l'air ;
+
+- l'héliox est un mélange respiratoire composé d'oxygène et d'hélium ;
+
+2° Mélanges ternaires : le trimix, mélange respiratoire composé d'oxygène,
+d'azote et d'hélium ;
+
+3° L'oxygène pur, utilisable dans les recycleurs et en décompression.

@@ -1,9 +1,27 @@
 Article A322-77
 ----
-Le guide de palanquée dirige la palanquée en immersion. Il est responsable du
-déroulement de la plongée et s'assure que les caractéristiques de celle-ci sont
-adaptées aux circonstances et aux aptitudes des participants.
+Le plongeur justifie, auprès du directeur de plongée, des aptitudes mentionnées
+aux annexes III-14 a, III-17 a ou III-18 a, notamment par la présentation d'un
+brevet ou diplôme et, le cas échéant, d'un carnet de plongée permettant
+d'évaluer son expérience.
 
-L'encadrement de la palanquée est assuré par un guide de palanquée mentionné en
-annexe III-15 a ou un enseignant mentionné à l'annexe III-15 b selon les
-conditions d'évolution définies en annexes III-16 a et III-16 b.
+En l'absence de cette justification, le directeur de plongée organise
+l'évaluation des aptitudes de l'intéressé à l'issue d'une ou plusieurs plongées.
+
+Le plongeur titulaire d'un brevet mentionné à l'annexe III-14 b justifie des
+aptitudes correspondantes.
+
+Au sens de la présente section, les aptitudes sont définies comme suit :
+
+- les aptitudes à plonger encadré à l'air : PE ;
+
+- les aptitudes à plonger en autonomie à l'air : PA ;
+
+- les aptitudes à plonger en utilisant un mélange au nitrox : PN ;
+
+- les aptitudes à plonger en utilisant un mélange au trimix ou à l'héliox : PTH.
+
+Les personnes en situation de handicap peuvent bénéficier, dans l'espace de 0 à
+40 mètres, d'une assistance adaptée en encadrement ou en matériel pour évoluer
+en palanquée encadrée en justifiant des aptitudes PE-12 à PE-40 et, le cas
+échéant, des aptitudes à plonger au nitrox.

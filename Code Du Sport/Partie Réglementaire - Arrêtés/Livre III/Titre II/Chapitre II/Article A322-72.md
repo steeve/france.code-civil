@@ -1,25 +1,23 @@
 Article A322-72
 ----
-Les annexes III-14 a à III-17 au présent code déterminent :
+Sur le site de l'activité subaquatique, la pratique de la plongée est placée
+sous la responsabilité d'un directeur de plongée présent sur le lieu de mise à
+l'eau ou d'immersion de la palanquée.
 
--les aptitudes des pratiquants (annexe III-14 a) ;
+Il est responsable techniquement de l'organisation, des dispositions à prendre
+pour assurer la sécurité des plongeurs et du déclenchement des secours.
 
--les brevets de pratiquants délivrés par la Fédération française d'études et de
-sports sous-marins, la Fédération sportive et gymnique du travail, l'Union
-nationale des centres sportifs de plein air, l'Association nationale des
-moniteurs de plongée, le Syndicat national des moniteurs de plongée et la
-Confédération mondiale des activités subaquatiques attestant des aptitudes de
-l'annexe III-14 a (annexe III-14 b) ;
+Il s'assure de l'application des règles et procédures en vigueur.
 
--les niveaux de guide de palanquée et directeur de plongée en plongée à l'air
-(annexe III-15 a) ;
+Il fixe les caractéristiques de la plongée et établit une fiche de sécurité
+comprenant notamment les noms, les prénoms, les aptitudes des plongeurs et leur
+fonction dans la palanquée ainsi que les différents paramètres prévus et
+réalisés relatifs à la plongée. Cette fiche est conservée une année par tout
+moyen par l'établissement.
 
--les niveaux d'enseignement en plongée à l'air (annexe III-15 b) ;
+Le directeur de plongée est titulaire d'une qualification mentionnée à l'annexe
+III-15 a.
 
--les conditions d'évolution en enseignement en plongée à l'air (annexe III-16 a)
-;
-
--les conditions d'évolution en exploration en plongée à l'air en milieu naturel
-(annexe III-16 b) ;
-
--le contenu de la trousse de secours (annexe III-17).
+Lors d'une plongée aux mélanges, le directeur de plongée justifie également des
+aptitudes PN-C ou PTH-120 correspondant aux mélanges utilisés conformément aux
+annexes III-17 a et III-18 a.
