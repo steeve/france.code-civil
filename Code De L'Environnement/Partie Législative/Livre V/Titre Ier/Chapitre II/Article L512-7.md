@@ -11,11 +11,11 @@ classées.
 Les activités pouvant, à ce titre, relever du régime d'enregistrement concernent
 les secteurs ou technologies dont les enjeux environnementaux et les risques
 sont bien connus, lorsque les installations ne sont soumises ni à la directive
-2008 / 1 / CE du 15 janvier 2008 relative à la prévention et à la réduction
-intégrée de la pollution, ni à une obligation d'évaluation environnementale
-systématique au titre de l'annexe I de la directive 85 / 337 / CEE du 27 juin
-1985 concernant l'évaluation des incidences de certains projets publics et
-privés sur l'environnement.
+2010/75/UE du Parlement européen et du Conseil du 24 novembre 2010 relative aux
+émissions industrielles au titre de son annexe I, ni à une obligation
+d'évaluation environnementale systématique au titre de l'annexe I de la
+directive 85/337/CEE du 27 juin 1985 concernant l'évaluation des incidences de
+certains projets publics et privés sur l'environnement.
 
 II.-Les prescriptions générales peuvent notamment prévoir :
 
