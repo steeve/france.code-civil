@@ -1,15 +1,19 @@
 Article L533-5
 ----
-La mise sur le marché doit faire l'objet d'une autorisation préalable.
+La mise sur le marché doit faire l'objet d'une autorisation préalable. La
+demande d'autorisation est accompagnée d'un dossier technique comprenant
+notamment l'évaluation des risques pour la santé publique et l'environnement et
+les conclusions concernant les incidences potentielles sur l'environnement et la
+santé humaine de la dissémination ou de la mise sur le marché du produit, les
+conditions pour la mise sur le marché du produit, la durée proposée pour
+l'autorisation dans la limite de dix ans, les projets d'étiquetage et
+d'emballage et une synthèse du dossier destinée à être transmise à la Commission
+européenne et aux Etats membres pour information.
 
-Cette autorisation est délivrée par l'autorité administrative après examen des
-risques que présente la mise sur le marché pour la santé publique ou pour
-l'environnement et après avis du Haut Conseil des biotechnologies. Elle peut
-être assortie de prescriptions. Elle ne vaut que pour l'usage qu'elle prévoit.
+Le dossier comprend également un plan de surveillance, y compris une proposition
+relative à la durée de ce plan qui peut être différente de la durée de
+l'autorisation.
 
-Ne peut être autorisée la mise sur le marché de produits composés en tout ou
-partie d'organismes génétiquement modifiés qui contiennent des gènes codant des
-facteurs de résistance aux antibiotiques utilisés pour des traitements médicaux
-ou vétérinaires, pour lesquels l'évaluation des risques conclut qu'ils sont
-susceptibles d'avoir des effets préjudiciables sur l'environnement ou la santé
-publique.
+La composition du dossier technique, le contenu du plan de surveillance et les
+règles auxquelles doivent satisfaire l'étiquetage et l'emballage sont précisés
+par décret en Conseil d'Etat.

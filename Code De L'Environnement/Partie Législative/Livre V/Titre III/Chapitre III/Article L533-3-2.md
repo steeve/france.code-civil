@@ -1,7 +1,14 @@
 Article L533-3-2
 ----
-S'agissant de plantes, semences et plants génétiquement modifiés, l'autorité
-administrative compétente au titre de l'article L. 533-3 organise, à la demande
-des maires des communes dans lesquelles se déroulent les essais et pendant la
-durée de ceux-ci, une ou plusieurs réunions d'information en association avec
-les détenteurs des autorisations de dissémination concernés.
+L'autorité administrative compétente consulte le public par voie électronique
+sur la demande d'autorisation, à l'exclusion des informations reconnues
+confidentielles, afin de recueillir ses observations.
+
+Un avis publié au Journal officiel de la République française au moins quinze
+jours avant le début de la consultation annonce les modalités et la durée de
+cette consultation qui ne peut être inférieure à quinze jours.
+
+La période pendant laquelle se déroule cette consultation n'est pas prise en
+compte dans le calcul du délai de quatre-vingt-dix jours imposé à l'autorité
+administrative compétente pour notifier sa décision au demandeur, sous réserve
+que ce délai ne soit pas prolongé de plus de trente jours de ce fait.

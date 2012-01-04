@@ -1,15 +1,20 @@
 Article L533-3-1
 ----
-Après la délivrance d'une autorisation en application de l'article L. 533-3, si
-l'autorité administrative vient à disposer d'éléments d'information susceptibles
-d'avoir des conséquences significatives du point de vue des risques pour
-l'environnement et la santé publique, si de nouveaux éléments d'information sur
-ces risques deviennent disponibles ou si une modification, intentionnelle ou
-non, de la dissémination volontaire est susceptible d'avoir des conséquences
-pour l'environnement et la santé publique, elle soumet ces éléments
-d'information pour évaluation au Haut Conseil des biotechnologies et les rend
-accessibles au public.
+La demande d'autorisation est accompagnée d'un dossier technique, d'un résumé de
+ce dossier ainsi que d'une fiche d'information du public indiquant notamment :
 
-Elle peut exiger du bénéficiaire de l'autorisation qu'il modifie les conditions
-de la dissémination volontaire, qu'il la suspende ou qu'il y mette fin, et elle
-en informe le public.
+1° Le but et les utilisations prévues de la dissémination ;
+
+2° Le nom et l'adresse du demandeur ;
+
+3° La description synthétique et la localisation de la dissémination ;
+
+4° La description générale du ou des organismes génétiquement modifiés ;
+
+5° Les méthodes et plans de surveillance des opérations et d'intervention en cas
+d'urgence ;
+
+6° Le résumé de l'évaluation des effets et des risques pour l'environnement.
+
+La composition du dossier de demande d'autorisation est précisée par la voie
+réglementaire.
