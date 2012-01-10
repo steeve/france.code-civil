@@ -28,7 +28,7 @@ respectivement mentionnés aux articles L. 214-36, L. 214-41 et L. 214-41-1 du
 code monétaire et financier.
 
 A peine de nullité, les actions ou parts louées ne peuvent faire l'objet d'une
-sous-location ou d'un prêt de titres au sens des articles L. 432-6 à L. 432-11
+sous-location ou d'un prêt de titres au sens des articles L. 211-22 à L. 211-26
 du même code.
 
 Les actions des sociétés par actions ou les parts sociales des sociétés à
