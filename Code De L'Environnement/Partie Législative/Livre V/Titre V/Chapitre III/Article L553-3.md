@@ -11,7 +11,7 @@ nécessaires.
 Pour les installations produisant de l'électricité à partir de l'énergie
 mécanique du vent, classées au titre de l'article L. 511-2, les manquements aux
 obligations de garanties financières donnent lieu à l'application de la
-procédure de consignation prévue à l'article L. 514-1, indépendamment des
+procédure de consignation prévue au II de l'article L. 171-8, indépendamment des
 poursuites pénales qui peuvent être exercées.
 
 Un décret en Conseil d'Etat détermine, avant le 31 décembre 2010, les

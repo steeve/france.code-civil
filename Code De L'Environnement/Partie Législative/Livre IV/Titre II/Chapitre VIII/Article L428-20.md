@@ -1,20 +1,25 @@
 Article L428-20
 ----
-I.-Sans préjudice des dispositions de l'article L. 428-21, sont habilités à
-rechercher et constater les infractions aux dispositions du présent titre et aux
-textes pris pour son application, dans l'étendue des circonscriptions pour
-lesquelles ils sont assermentés, outre les officiers et agents de police
-judiciaire agissant conformément aux dispositions du code de procédure pénale :
+Outre les officiers et agents de police judiciaire et les inspecteurs de
+l'environnement mentionnés à l'article L. 172-1, sont habilités à rechercher et
+à constater les infractions aux dispositions du présent titre et aux textes pris
+pour son application :
 
-1° Les agents de l'Etat, de l'Office national de la chasse et de la faune
-sauvage, de l'Office national de l'eau et des milieux aquatiques, du domaine
-national de Chambord, de l'Office national des forêts et des parcs nationaux
-commissionnés pour constater les infractions en matière forestière, de chasse ou
-de pêche ;
+1° Les agents des services de l'Etat chargés des forêts commissionnés à raison
+de leurs compétences en matière forestière et assermentés à cet effet ;
 
-2° Les gardes champêtres ;
+2° Les agents de l'Office national des forêts commissionnés à raison de leurs
+compétences en matière forestière et assermentés à cet effet ;
 
-3° Les lieutenants de louveterie.
+3° Les agents du domaine national de Chambord commissionnés pour constater les
+infractions en matière forestière, de chasse ou de pêche ;
 
-II.-Les procès-verbaux établis par ces fonctionnaires ou agents font foi jusqu'à
-preuve contraire.
+4° Les gardes champêtres ;
+
+5° Les lieutenants de louveterie ;
+
+6° Les agents des réserves naturelles mentionnés à l'article L. 332-20 agissant
+dans les conditions prévues à cet article ;
+
+7° Les gardes du littoral mentionnés à l'article L. 322-10-1, agissant dans les
+conditions prévues à cet article.

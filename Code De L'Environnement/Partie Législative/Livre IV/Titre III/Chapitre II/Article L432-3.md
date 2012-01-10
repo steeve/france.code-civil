@@ -12,6 +12,3 @@ l'actualisation de celle-ci par l'autorité administrative, ainsi que les
 conditions dans lesquelles sont consultées les fédérations départementales ou
 interdépartementales des associations agréées de pêche et de protection du
 milieu aquatique.
-
-Le tribunal peut en outre ordonner la publication d'un extrait du jugement aux
-frais de l'auteur de l'infraction dans deux journaux qu'il désigne.

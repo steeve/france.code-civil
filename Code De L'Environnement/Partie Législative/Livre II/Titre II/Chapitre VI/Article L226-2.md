@@ -1,20 +1,15 @@
 Article L226-2
 ----
-Outre les officiers et agents de police judiciaire agissant dans le cadre des
-dispositions du code de procédure pénale, sont habilités à procéder aux
-contrôles prévus au présent chapitre et à rechercher et constater les
-infractions aux dispositions du présent titre et à celles prises pour son
-application :
+Outre les officiers et agents de police judiciaire et les inspecteurs de
+l'environnement mentionnés à l'article L. 172-1, sont habilités à rechercher et
+à constater les infractions aux dispositions du présent titre ainsi que des
+textes et des décisions pris pour leur application :
 
-1° Les agents mentionnés à l'article L. 514-5 ;
+1° Les agents de la concurrence, de la consommation et de la répression des
+fraudes, qui disposent à cet effet des pouvoirs prévus au livre II du code de la
+consommation ;
 
-2° Les fonctionnaires et agents, commissionnés à cet effet et assermentés dans
-les conditions prévues par décret en Conseil d'Etat, appartenant aux services de
-l'Etat chargés de l'environnement, de l'industrie, de l'équipement, des
-transports, de la mer, de l'agriculture, de la concurrence, de la consommation
-et de la répression des fraudes ;
+2° Les agents des douanes ;
 
-3° Les agents des douanes ;
-
-4° Les ingénieurs et techniciens du Laboratoire central et les inspecteurs de
+3° Les ingénieurs et techniciens du laboratoire central et les inspecteurs de
 salubrité de la préfecture de police.

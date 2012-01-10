@@ -4,7 +4,7 @@ En cas d'infraction aux dispositions des articles L. 332-6, L. 332-9, L. 332-17
 et L. 332-18 ou aux prescriptions de l'acte de classement telles qu'elles sont
 prévues à l'article L. 332-3 du présent code, les dispositions et sanctions
 édictées aux articles L. 480-2, L. 480-3, L. 480-5 à L. 480-9 du code de
-l'urbanisme et à l'article L. 341-20 du présent code sont applicables aux
+l'urbanisme et à l'article L. 341-19 du présent code sont applicables aux
 territoires placés en réserve naturelle, le ministre chargé de la protection de
 la nature étant substitué au ministre chargé de l'urbanisme.
 

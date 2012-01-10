@@ -8,9 +8,10 @@ emploient.
 Les dispositions de l'article 29 du code de procédure pénale sont applicables à
 ces procès-verbaux qui font foi jusqu'à preuve contraire.
 
-Les dispositions des articles L. 437-7 premier alinéa, L. 437-9, L. 437-10 en
-tant qu'il concerne la saisie des instruments de pêche, L. 437-11 et L. 437-12
-sont applicables aux gardes-pêche particuliers assermentés.
+Les dispositions du premier alinéa de l'article L. 437-7, de l'article L. 172-10
+et de l'article L. 172-12 en tant qu'il concerne la saisie des instruments de
+pêche et des poissons, sont applicables aux gardes-pêche particuliers
+assermentés.
 
 Sur les eaux du domaine public fluvial, les gardes-pêche particuliers
 assermentés sont commissionnés par chaque association agréée de pêcheurs

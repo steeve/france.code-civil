@@ -5,6 +5,3 @@ l'article L. 431-3, directement ou indirectement, des substances quelconques
 dont l'action ou les réactions ont détruit le poisson ou nui à sa nutrition, à
 sa reproduction ou à sa valeur alimentaire, est puni de deux ans
 d'emprisonnement et de 18 000 euros d'amende.
-
-Le tribunal peut, en outre, ordonner la publication d'un extrait du jugement aux
-frais de l'auteur de l'infraction dans deux journaux ou plus.

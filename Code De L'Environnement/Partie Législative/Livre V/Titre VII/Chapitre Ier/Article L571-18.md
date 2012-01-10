@@ -1,27 +1,22 @@
 Article L571-18
 ----
-I.-Outre les officiers et agents de police judiciaire agissant dans le cadre des
-dispositions du code de procédure pénale, sont chargés de procéder à la
-recherche et à la constatation des infractions aux dispositions du présent
-chapitre, ainsi que des textes et des décisions pris pour son application :
+I.-Outre les officiers et agents de police judiciaire et les inspecteurs de
+l'environnement mentionnés à l'article L. 172-1, sont habilités à rechercher et
+à constater les infractions aux dispositions du présent chapitre ainsi que des
+textes et décisions pris pour son application :
 
-1° Les agents commissionnés à cet effet et assermentés dans les conditions
-déterminées par décret en Conseil d'Etat, appartenant aux services de l'Etat
-chargés de l'environnement, de l'agriculture, de l'industrie, de l'équipement,
-des transports, de la mer, et de la jeunesse et des sports ;
+1° Les agents de la concurrence, de la consommation et de la répression des
+fraudes, qui disposent à cet effet des pouvoirs prévus au livre II du code de la
+consommation ;
 
-2° Les personnes chargées de l'inspection des installations classées ou
-d'expertises, mentionnées à l'article L. 514-5 ;
+2° Les agents des douanes ;
 
-3° Les agents des douanes ;
-
-4° Les agents habilités en matière de répression des fraudes ;
-
-5° Pour l'application de la section II, les agents mentionnés à l'article L.
-1312-1 du code de la santé publique.
+3° Pour l'application de la section 2 du présent chapitre et à l'exclusion des
+opérations prévues aux articles L. 172-14 et L. 172-15, les agents mentionnés à
+l'article L. 1312-1 du code de la santé publique.
 
 II.-En outre, les fonctionnaires et agents des collectivités territoriales,
-mentionnés à l'article L. 1312-1 du code de la santé publique et sont chargés de
+mentionnés à l'article L. 1312-1 du code de la santé publique sont chargés de
 procéder à la recherche et à la constatation des infractions aux règles
 relatives à la lutte contre les bruits de voisinage, telles que définies par
 décret en Conseil d'Etat.

@@ -12,7 +12,7 @@ l'opération de rejet est autorisée par arrêté, les dispositions de cet alin�
 s'appliquent que si les prescriptions de cet arrêté ne sont pas respectées.
 
 Le tribunal peut également imposer au condamné de procéder à la restauration du
-milieu aquatique dans le cadre de la procédure prévue par l'article L. 216-9.
+milieu aquatique dans le cadre de la procédure prévue par l'article L. 173-9.
 
 Ces mêmes peines et mesures sont applicables au fait de jeter ou abandonner des
 déchets en quantité importante dans les eaux superficielles ou souterraines ou

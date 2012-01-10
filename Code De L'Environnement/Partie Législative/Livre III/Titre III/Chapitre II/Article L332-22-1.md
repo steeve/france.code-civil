@@ -5,9 +5,9 @@ Sans préjudice des sanctions pénales encourues, toute atteinte à l'intégrit�
 naturelle, ou de nature à compromettre son usage, constitue une contravention de
 grande voirie constatée, réprimée et poursuivie par voie administrative.
 
-Elle est constatée par les agents visés à l'article L. 332-20, sans préjudice
-des compétences des officiers et agents de police judiciaire et des autres
-agents spécialement habilités.
+Elle est constatée par les agents visés aux articles L. 172-1 et L. 332-20, sans
+préjudice des compétences des officiers et agents de police judiciaire et des
+autres agents spécialement habilités.
 
 Les personnes condamnées sont tenues de réparer ces atteintes et encourent les
 amendes prévues pour les contraventions de cinquième classe et les cas de

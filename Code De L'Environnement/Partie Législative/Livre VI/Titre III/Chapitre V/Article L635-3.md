@@ -3,7 +3,7 @@ Article L635-3
 Pour son application dans les îles Wallis et Futuna, l'article L. 415-3 du
 présent code est rédigé comme suit :
 
-Est puni de six mois d'emprisonnement et de 9 000 euros d'amende le fait
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait
 d'exporter, de réexporter, d'introduire ou d'importer tout ou partie des animaux
 et de leurs produits ainsi que des végétaux appartenant aux espèces inscrites
 sur les listes annexées à la convention sur le commerce international des

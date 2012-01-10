@@ -1,11 +1,7 @@
 Article L331-27
 ----
-Les personnes morales déclarées responsables pénalement, dans les conditions
-prévues par l'article 121-2 du code pénal, de l'infraction définie à l'article
-L. 331-26 encourent, outre l'amende suivant les modalités prévues par l'article
-131-38 du code pénal, les peines prévues par les 2° à 6°, 8° et 9° de l'article
-131-39 du même code.
-
-L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur
-l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle
-l'infraction a été commise.
+Le fait, pour le propriétaire ou l'exploitant de terrains ou d'ouvrages de
+s'opposer à l'exécution de travaux ou de mesures de restauration des écosystèmes
+prescrits ou ordonnés par l'établissement public du parc national en application
+de l'article L. 331-9 est puni de deux ans d'emprisonnement et de 75 000 euros
+d'amende

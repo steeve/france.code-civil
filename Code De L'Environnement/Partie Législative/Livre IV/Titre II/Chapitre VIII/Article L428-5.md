@@ -1,7 +1,12 @@
 Article L428-5
 ----
 I.-Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait de
-commettre l'une des infractions suivantes :
+commettre l'une des infractions suivantes en étant déguisé ou masqué, en ayant
+pris une fausse identité, en ayant usé envers des personnes de violence n'ayant
+entraîné aucune interruption totale de travail ou une interruption totale de
+travail inférieure à huit jours ou en ayant fait usage d'un véhicule, quelle que
+soit sa nature, pour se rendre sur le lieu de l'infraction ou pour s'en éloigner
+:
 
 1° Chasser sur le terrain d'autrui sans son consentement, si ce terrain est
 attenant à une maison habitée ou servant d'habitation et s'il est entouré d'une
@@ -24,22 +29,9 @@ détruire ;
 6° Détenir ou être trouvé muni ou porteur, hors de son domicile, des filets,
 engins ou instruments de chasse prohibés.
 
-Lorsque ces infractions sont commises avec l'une des circonstances suivantes :
-
-a) Etre déguisé ou masqué ;
-
-b) Avoir pris une fausse identité ;
-
-c) Avoir usé envers des personnes de violence n'ayant entraîné aucune
-interruption totale de travail ou une interruption totale de travail inférieure
-à huit jours ;
-
-d) Avoir fait usage d'un véhicule, quelle que soit sa nature, pour se rendre sur
-le lieu de l'infraction ou pour s'en éloigner.
-
 II.-Est puni des mêmes peines le fait de commettre, lorsque le gibier provient
-d'actes de chasse commis avec l'une des circonstances prévues aux a à d du I,
-l'une des infractions suivantes :
+d'actes de chasse commis avec l'une des circonstances prévues au premier aliné
+du I, l'une des infractions suivantes :
 
 1° Mettre en vente, vendre, acheter, transporter ou colporter du gibier en
 dehors des périodes autorisées en application de l'article L. 424-8 ;
@@ -48,5 +40,4 @@ dehors des périodes autorisées en application de l'article L. 424-8 ;
 sciemment du gibier tué à l'aide d'engins ou d'instruments prohibés.
 
 III.-Est puni des mêmes peines le fait de commettre, sans circonstances
-aggravantes mais en état de récidive au sens de l'article L. 428-6, l'une des
-infractions prévues aux I et II.
+aggravantes mais en état de récidive, l'une des infractions prévues aux I et II.

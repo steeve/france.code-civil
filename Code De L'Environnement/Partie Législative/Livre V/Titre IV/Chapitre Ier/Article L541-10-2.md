@@ -25,12 +25,13 @@ Le traitement des déchets d'équipements électriques et électroniques ménage
 issus des collectes sélectives et de la reprise gratuite par les distributeurs,
 lors de la vente d'un équipement électrique et électronique ménager, des
 équipements électriques et électroniques usagés que lui cède le consommateur,
-dans la limite de la quantité et du type d'équipement vendu, est accomplie par
-des systèmes auxquels ces personnes contribuent financièrement de manière
-proportionnée et qui sont agréés ou approuvés par arrêtés conjoints des
-ministres chargés de l'économie, de l'industrie, de l'écologie et des
-collectivités territoriales. Un décret en Conseil d'Etat détermine la sanction
-applicable en cas d'infraction aux dispositions du présent alinéa.
+dans la limite de la quantité et du type d'équipement vendu, est assuré par des
+systèmes auxquels les personnes mentionnées au premier alinéa contribuent
+financièrement de manière proportionnée et qui sont agréés ou approuvés par
+arrêtés conjoints des ministres chargés de l'économie, de l'industrie, de
+l'écologie et des collectivités territoriales. Un décret en Conseil d'Etat
+détermine la sanction applicable en cas d'infraction aux dispositions du présent
+alinéa.
 
 Jusqu'au 1er janvier 2020, les personnes mentionnées au premier alinéa du
 présent article ainsi que leurs acheteurs successifs font apparaître, jusqu'au
@@ -38,9 +39,7 @@ consommateur final, sur les factures de vente de tout nouvel équipement
 électrique et électronique ménager, en sus du prix unitaire du produit, le coût
 unitaire supporté pour la gestion des déchets collectés sélectivement issus des
 équipements électriques et électroniques ménagers mis sur le marché avant le 13
-août 2005.
-
-Ce coût unitaire est strictement égal au coût de la gestion desdits déchets. Il
-ne peut faire l'objet de réfaction. Les acheteurs répercutent à l'identique ce
-coût jusqu'au client final. Ce dernier en est informé sur le lieu de vente ou en
-cas de vente à distance, par tout procédé approprié.
+août 2005. Ce coût unitaire est strictement égal au coût de la gestion desdits
+déchets. Il ne peut faire l'objet de réfaction. Les acheteurs répercutent à
+l'identique ce coût jusqu'au client final. Ce dernier en est informé sur le lieu
+de vente ou en cas de vente à distance, par tout procédé approprié

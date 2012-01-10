@@ -1,8 +1,7 @@
 Article L331-18
 ----
-I.-Sont recherchées et constatées par les agents de l'établissement public du
-parc national, commissionnés à cet effet par l'autorité administrative et
-assermentés :
+I.-Sont recherchées et constatées par les inspecteurs de l'environnement
+mentionnés à l'article L. 172-1 :
 
 1° Les infractions aux dispositions prévues pour la protection du coeur et des
 réserves intégrales des parcs nationaux ;

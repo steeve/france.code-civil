@@ -19,9 +19,7 @@ local de publicité établi en application de l'article L. 581-14.
 II.-Est puni des mêmes peines le fait de laisser subsister une publicité, une
 enseigne ou une préenseigne au-delà des délais de mise en conformité prévus à
 l'article L. 581-43, ainsi que le fait de s'opposer à l'exécution des travaux
-d'office prévus par l'article L. 581-31 ou le fait de mettre obstacle à
-l'accomplissement des contrôles ou à l'exercice des fonctions des agents prévus
-à l'article L. 581-40.
+d'office prévus par l'article L. 581-31.
 
 III.-L'amende est appliquée autant de fois qu'il y a de publicités, d'enseignes
 ou de préenseignes en infraction.

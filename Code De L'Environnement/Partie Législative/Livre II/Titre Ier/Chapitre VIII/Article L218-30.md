@@ -11,5 +11,10 @@ l'immobilisation s'il est fourni un cautionnement dont elle fixe le montant et
 les modalités de versement.
 
 Les conditions d'affectation, d'emploi et de restitution du cautionnement sont
-réglées conformément aux dispositions des articles 142,142-2 et 142-3 du code de
-procédure pénale.
+réglées conformément aux dispositions des articles 142, 142-2 et 142-3 du code
+de procédure pénale.
+
+La décision d'immobilisation prise par l'autorité judiciaire peut être contestée
+dans le délai de cinq jours à compter de sa notification, par requête de
+l'intéressé devant le juge des libertés et de la détention du tribunal de grande
+instance saisi de l'enquête.

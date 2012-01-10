@@ -15,5 +15,5 @@ technique délivré par l'organisme mentionné à l'article L. 256-2-1.
 Les agents qualifiés pour rechercher et constater les infractions à ces
 dispositions et aux textes pris pour leur application sont les agents mentionnés
 au I de l'article L. 205-1 et au II de l'article L. 251-18 du présent code et
-les agents énumérés aux 1° et 2° du I de l'article L. 216-3 du code de
+les fonctionnaires et agents mentionnés à l'article L. 172-4 du code de
 l'environnement.

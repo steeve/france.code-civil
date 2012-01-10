@@ -1,6 +1,6 @@
 Article L322-10-1
 ----
-Les personnes physiques chargées par les gestionnaires visés à l'article L.
+I.-Les personnes physiques chargées par les gestionnaires visés à l'article L.
 322-9 d'assurer la garderie du domaine administré par le Conservatoire de
 l'espace littoral et des rivages lacustres constituent les gardes du littoral.
 
@@ -22,3 +22,20 @@ Les gardes du littoral peuvent également constater par procès-verbal les
 contraventions aux dispositions du présent titre et à celles du code du domaine
 de l'Etat sur le domaine administré par le Conservatoire de l'espace littoral et
 des rivages lacustres.
+
+II.-Les gardes du littoral ayant la qualité de fonctionnaire ou d'agent public
+sont habilités à constater dans la zone maritime du domaine relevant du
+Conservatoire de l'espace littoral et des rivages lacustres les infractions aux
+réglementations intéressant la protection de cette zone et les infractions à la
+police des rejets définies aux articles L. 218-11 à L. 218-19 et à l'article L.
+218-73 du présent code.
+
+III.-Les gardes du littoral exercent leurs compétences sur l'ensemble du domaine
+relevant du Conservatoire de l'espace littoral et des rivages lacustres dans le
+département de leur résidence administrative.
+
+Pour l'exercice de leur mission de police judiciaire, les gardes du littoral qui
+n'ont pas la qualité de fonctionnaire ou d'agent public disposent des pouvoirs
+prévus aux articles L. 172-7, L. 172-8, L. 172-12 et L. 172-16. Ils sont
+compétents pour constater les infractions en quelque lieu qu'elles soient
+commises, sans pouvoir accéder aux locaux et aux moyens de transport.

@@ -17,7 +17,8 @@ l'installation.
 Un décret en Conseil d'Etat détermine la nature des garanties et les règles de
 fixation de leur montant.
 
-Sans préjudice de la procédure d'amende administrative prévue à l'article L.
-541-26, les manquements aux obligations de garanties financières donnent lieu à
-l'application de la procédure de consignation prévue à l'article L. 514-1,
-indépendamment des poursuites pénales qui peuvent être exercées.
+Sans préjudice de la procédure d'amende administrative prévue au 4° du II de
+l'article L. 171-8, les manquements aux obligations de garanties financières
+donnent lieu à l'application de la procédure de consignation prévue au 1° du II
+de l'article L. 171-8, indépendamment des poursuites pénales qui peuvent être
+exercées.

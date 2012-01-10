@@ -7,11 +7,11 @@ IV du titre Ier du livre II du même code.
 
 Sont également habilités, pour procéder à la recherche et à la constatation des
 infractions aux dispositions relatives à la mise sur le marché et à
-l'utilisation des produits phytopharmaceutiques, les agents mentionnés aux 1°,
-2°, 5° et 9° du I de l'article L. 216-3 du code de l'environnement, dans
-l'exercice de leurs fonctions ou attributions. Sous réserve de l'application des
-dispositions du code des douanes relatives à la recherche, à la constatation et
-à la poursuite des infractions douanières prévue au présent chapitre, ces agents
+l'utilisation des produits phytopharmaceutiques, les fonctionnaires et agents
+mentionnés à l'article L. 172-4 du code de l'environnement, dans l'exercice de
+leurs fonctions ou attributions. Sous réserve de l'application des dispositions
+du code des douanes relatives à la recherche, à la constatation et à la
+poursuite des infractions douanières prévue au présent chapitre, ces agents
 devront se conformer aux procédures utilisées pour la mise en œuvre des
 dispositions prévues aux chapitres II à VI du titre Ier du livre II du code de
 la consommation.

@@ -1,43 +1,30 @@
 Article L216-3
 ----
-I.-Sont chargés de procéder à la recherche et à la constatation des infractions
-aux dispositions des articles L. 211-2, L. 211-3, L. 211-5, L. 211-7, L. 211-12,
-L. 211-14, du II de l'article L. 212-5-1 de l'article L. 213-10-8 et des
-articles L. 214-1 à L. 214-9, L. 214-11 à L. 214-13, L. 214-17, L. 214-18, L.
-216-6 à L. 216-8 et L. 216-10 à L. 216-12, ainsi que des textes et des décisions
-pris pour leur application :
+Outre les officiers et agents de police judiciaire et les inspecteurs de
+l'environnement mentionnés à l'article L. 172-1, sont habilités à rechercher et
+à constater les infractions aux dispositions des chapitres Ier à VII du présent
+titre ainsi que des textes et des décisions pris pour leur application :
 
-1° Les fonctionnaires et agents, assermentés et commissionnés à cet effet dans
-les conditions prévues par décret en Conseil d'Etat, appartenant aux services de
-l'Etat chargés de l'environnement, de l'agriculture, de l'industrie, de
-l'équipement, des transports, de la mer, de la défense ;
+1° Les agents des services de l'Etat chargés des forêts commissionnés à raison
+de leurs compétences en matière forestière et assermentés à cet effet ;
 
-2° Les agents mentionnés à l'article L. 514-5 ;
+2° Les agents de l'Office national des forêts commissionnés à raison de leurs
+compétences en matière forestière et assermentés à cet effet ;
 
-3° Les ingénieurs et techniciens du Laboratoire central et les inspecteurs de
-salubrité de la préfecture de police ;
+3° Les inspecteurs de la sûreté nucléaire désignés en application de l'article
+L. 592-22 ;
 
-4° Les agents des douanes ;
-
-5° Les agents assermentés et commissionnés à cet effet de l'Office national de
-la chasse et de la faune sauvage et de l'Office national de l'eau et des milieux
-aquatiques ;
-
-6° Les chercheurs, ingénieurs et techniciens assermentés de l'Institut français
+4° Les chercheurs, ingénieurs et techniciens assermentés de l'Institut français
 de recherche pour l'exploitation de la mer ;
 
-7° Les officiers de port et officiers de port adjoints ;
+5° Les officiers de port et officiers de port adjoints ;
 
-8° Les ingénieurs en service à l'Office national des forêts et les agents
-assermentés de cet établissement, visés à l'article L. 122-7 du code forestier ;
+6° Les gardes champêtres ;
 
-9° Les agents assermentés et commissionnés des parcs nationaux et des réserves
-naturelles.
+7° Les agents des douanes ;
 
-II.-Les gardes champêtres commissionnés à cet effet peuvent être habilités à
-constater les infractions mentionnées au présent article dans des conditions
-déterminées par décret.
+8° Les gardes du littoral mentionnés à l'article L. 322-10-1, agissant dans les
+conditions prévues à cet article ;
 
-III. ― Sont également chargés de procéder à la recherche et à la constatation
-des infractions à l'article L. 213-10-8 les agents mentionnés à l'article L.
-205-1 du code rural et de la pêche maritime.
+9° Les agents des réserves naturelles mentionnés à l'article L. 332-20, agissant
+dans les conditions prévues à cet article.

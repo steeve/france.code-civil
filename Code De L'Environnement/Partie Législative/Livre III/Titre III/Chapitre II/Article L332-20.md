@@ -1,31 +1,34 @@
 Article L332-20
 ----
-Sont habilités à constater les infractions aux dispositions des articles L.
-332-3, L. 332-6, L. 332-7, L. 332-9, L. 332-11, L. 332-12, L. 332-17 et L.
-332-18, outre les officiers et agents de police judiciaire énumérés aux articles
-16, 20 et 21 du code de procédure pénale :
+I.-Les agents des réserves naturelles sont habilités à rechercher et constater,
+sur le territoire de la réserve dans laquelle ils sont affectés, les infractions
+aux dispositions du présent chapitre.
 
-1° Les agents des douanes commissionnés ;
+Ils sont commissionnés à cet effet par l'autorité administrative et assermentés.
 
-2° Les agents commissionnés, à cet effet, par l'autorité administrative,
-assermentés auprès du tribunal de grande instance auquel est rattaché leur
-domicile et qui peuvent être, en outre, commissionnés pour la constatation des
-infractions en matière de chasse et de pêche commises dans les réserves
-naturelles ;
+Les agents des réserves n'ayant pas la qualité de fonctionnaire ou d'agent
+public agissent dans les conditions prévues aux articles L. 172-7 et L. 172-8,
+L. 172-12 et L. 172-16 et peuvent constater les infractions en quelque lieu
+qu'elles soient commises, sans pouvoir accéder aux locaux et aux moyens de
+transport.
 
-3° Les agents de l'Etat et de l'Office national des forêts commissionnés pour
-constater les infractions en matière forestière, de chasse, de pêche,
-d'inspection sanitaire, de protection des animaux ou de protection des végétaux,
-dans l'étendue des circonscriptions pour lesquelles ils sont assermentés ;
+II.-Outre les officiers et agents de police judiciaire, les inspecteurs de
+l'environnement mentionnés à l'article L. 172-1 et les agents des réserves
+naturelles, sont habilités à constater sur le territoire des réserves naturelles
+les infractions mentionnées au I :
 
-4° Les agents assermentés et commissionnés des parcs nationaux, ceux de l'Office
-national de la chasse et de la faune sauvage et de l'Office national de l'eau et
-des milieux aquatiques ;
+1° Les agents des douanes ;
 
-4° bis Les gardes champêtres ;
+2° Les agents des services de l'Etat chargés des forêts commissionnés à raison
+de leurs compétences en matière forestière et assermentés à cet effet ;
+
+3° Les agents de l'Office national des forêts commissionnés à raison de leurs
+compétences en matière forestière et assermentés à cet effet ;
+
+4° Les gardes champêtres ;
 
 5° Lorsque les mesures de protection portent sur le domaine public maritime ou
 les eaux territoriales, les agents habilités par l'article L. 942-1 du code
 rural et de la pêche maritime à constater les infractions à la réglementation
-sur l'exercice de la pêche maritime, ainsi que les fonctionnaires chargés de la
+sur l'exercice de la pêche maritime ainsi que les fonctionnaires chargés de la
 police du domaine public maritime et des eaux territoriales.

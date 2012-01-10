@@ -1,9 +1,9 @@
 Article L514-6
 ----
-I.-Les décisions prises en application des articles L. 512-1, L. 512-3, L.
-512-7-3 à L. 512-7-5, L. 512-8, L. 512-12, L. 512-13, L. 512-20, L. 513-1 à L.
-514-2, L. 514-4, du I de l'article L. 515-13 et de l'article L. 516-1 sont
-soumises à un contentieux de pleine juridiction.
+I.-Les décisions prises en application des articles L. 171-7, L. 171-8 et L.
+171-10, L. 512-1, L. 512-3, L. 512-7-3 à L. 512-7-5, L. 512-8, L. 512-12, L.
+512-13, L. 512-20, L. 513-1, L. 514-4, du I de l'article L. 515-13 et de
+l'article L. 516-1 sont soumises à un contentieux de pleine juridiction.
 
 Un décret en Conseil d'Etat précise les délais dans lesquels ces décisions
 peuvent être déférées à la juridiction administrative. II.-supprimé

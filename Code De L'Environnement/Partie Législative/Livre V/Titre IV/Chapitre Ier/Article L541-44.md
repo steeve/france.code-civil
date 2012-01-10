@@ -1,32 +1,22 @@
 Article L541-44
 ----
-I.-Sont qualifiés pour procéder à la recherche et la constatation des
-infractions aux dispositions du présent chapitre, et des règlements pris pour
-son application, outre les officiers de police judiciaire et les agents de
-police judiciaire mentionnés à l'article 20 du code de procédure pénale :
+Outre les officiers et agents de police judiciaire et les inspecteurs de
+l'environnement mentionnés à l'article L. 172-1, sont habilités à rechercher et
+à constater les infractions aux dispositions du présent chapitre et des textes
+pris pour son application :
 
-1° Les agents de police judiciaire visés à l'article 21 du code de procédure
-pénale ;
+1° Les agents de la concurrence, de la consommation et de la répression des
+fraudes, qui disposent à cet effet des pouvoirs prévus au livre II du code de la
+consommation ;
 
-2° Les fonctionnaires de la police nationale et les agents de la police
-municipale, dans la limite des dispositions relatives à leurs compétences ;
+2° Les agents des douanes ;
 
-3° Les agents habilités en matière de répression des fraudes ;
-
-4° Les fonctionnaires et agents du service des ponts et chaussées, du service du
-génie rural, des eaux et forêts, de l'Office National des forêts, du service des
-mines et des services extérieurs de la marine marchande, assermentés ou
-commissionnés à cet effet ;
-
-5° Les autres agents mentionnés à l'article L. 1312-1 du code de la santé
+3° Les autres agents mentionnés à l'article L. 1312-1 du code de la santé
 publique ;
 
-6° Les inspecteurs des installations classées ;
-
-7° Les chercheurs, ingénieurs et techniciens assermentés de l'Institut français
+4° Les chercheurs, ingénieurs et techniciens assermentés de l'Institut français
 de recherche pour l'exploitation de la mer ;
 
-8° Les agents des douanes.
-
-II.-Les procès-verbaux établis en application du présent article font foi
-jusqu'à preuve contraire.
+5° Les agents de police judiciaire adjoints mentionnés à l'article 21 du code de
+procédure pénale, qui exercent ces missions dans les limites et selon les
+modalités fixées par le code de procédure pénale. ;

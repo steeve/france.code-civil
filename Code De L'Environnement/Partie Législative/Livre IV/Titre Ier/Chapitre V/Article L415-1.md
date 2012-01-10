@@ -1,30 +1,31 @@
 Article L415-1
 ----
-Sont habilités à constater les infractions aux dispositions des articles L.
-411-1, L. 411-2, L. 411-3, L. 412-1, L. 413-2 à L. 413-5, outre les officiers et
-agents de police judiciaire énumérés aux articles 16,20 et 21 du code de
-procédure pénale :
+Outre les officiers et agents de police judiciaire et les inspecteurs de
+l'environnement mentionnés à l'article L. 172-1, sont habilités à rechercher et
+à constater les infractions définies à l'article L. 415-3 :
 
-1° Les agents des douanes commissionnés ;
+1° Les agents des services de l'Etat chargés des forêts commissionnés à raison
+de leurs compétences en matière forestière et assermentés à cet effet ;
 
-2° Les fonctionnaires et agents assermentés et commissionnés à cet effet par le
-ministre chargé de l'environnement et qui peuvent être en outre commissionnés
-pour la constatation des infractions en matière de chasse et de pêche commises
-dans les réserves naturelles ;
+2° Les agents de l'Office national des forêts commissionnés à raison de leurs
+compétences en matière forestière et assermentés à cet effet ;
 
-3° Les agents de l'Etat et de l'Office national des forêts commissionnés pour
-constater les infractions en matière forestière, de chasse, de pêche,
-d'inspection sanitaire, de protection des animaux ou de protection des végétaux,
-dans l'étendue des circonscriptions pour lesquelles ils sont assermentés ;
+3° Les gardes champêtres ;
 
-4° Les agents assermentés et commissionnés des parcs nationaux, ceux de l'Office
-national de la chasse et de la faune sauvage et de l'Office national de l'eau et
-des milieux aquatiques ;
+4° Les agents des douanes ;
 
-4° bis Les gardes champêtres ;
+5° Les agents de police judiciaires adjoints mentionnés à l'article 21 du code
+de procédure pénale, qui exercent ces missions dans les limites et selon les
+modalités fixées par le code de procédure pénale ;
 
-5° Lorsque les mesures de protection portent sur le domaine public maritime ou
-les eaux territoriales, les agents habilités par le décret du 9 janvier 1852 sur
-l'exercice de la pêche maritime à constater les infractions à la réglementation
-sur l'exercice de la pêche maritime, ainsi que les fonctionnaires chargés de la
-police du domaine public maritime et des eaux territoriales.
+6° Lorsque les mesures de protection portent sur le domaine public maritime ou
+les eaux territoriales, les agents habilités par l'article L. 942-1 du code
+rural et de la pêche maritime à constater les infractions à la réglementation
+sur l'exercice de la pêche maritime ainsi que les fonctionnaires chargés de la
+police du domaine public maritime et des eaux territoriales ;
+
+7° Les agents des réserves naturelles mentionnés à l'article L. 332-20 agissant
+dans les conditions prévues à cet article ;
+
+8° Les gardes du littoral mentionnés à l'article L. 322-10-1, agissant dans les
+conditions prévues à cet article.

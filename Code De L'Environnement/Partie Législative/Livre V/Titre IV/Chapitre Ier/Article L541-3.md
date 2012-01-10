@@ -47,7 +47,8 @@ l'astreinte mise en recouvrement ne peut être supérieur au montant maximal de
 l'amende applicable pour l'infraction considérée ;
 
 5° Ordonner le paiement d'une amende au plus égale à 150 000 €. La décision
-mentionne le délai de paiement de l'amende et ses modalités.
+mentionne le délai de paiement de l'amende et ses modalités. L'amende ne peut
+être prononcée plus d'un an à compter de la constatation des manquements.
 
 L'exécution des travaux ordonnés d'office peut être confiée par le ministre
 chargé de l'environnement à l'Agence de l'environnement et de la maîtrise de
@@ -64,7 +65,7 @@ chapitre et des règlements pris pour son application.
 
 IV.-Lorsque l'exploitant d'une installation de traitement de déchets fait
 l'objet d'une mesure de consignation en application du présent article ou de
-l'article L. 514-1, il ne peut obtenir d'autorisation pour exploiter une autre
+l'article L. 171-8, il ne peut obtenir d'autorisation pour exploiter une autre
 installation de traitement de déchets avant d'avoir versé la somme consignée.
 
 V.-Si le producteur ou le détenteur des déchets ne peut être identifié ou s'il

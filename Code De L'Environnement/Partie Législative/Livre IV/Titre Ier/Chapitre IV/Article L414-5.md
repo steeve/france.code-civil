@@ -1,30 +1,14 @@
 Article L414-5
 ----
-I.-Lorsqu'un programme ou projet d'activités, de travaux, d'aménagements,
-d'ouvrages ou d'installations ou lorsqu'une manifestation ou une intervention
-entrant dans les prévisions de l'article L. 414-4 est réalisé sans évaluation
-préalable, sans l'accord requis ou en méconnaissance de l'accord délivré ou
-lorsque les engagements spécifiques mentionnés au II de l'article L. 414-3 n'ont
-pas été respectés, l'autorité de l'Etat compétente met l'intéressé en demeure
-d'arrêter immédiatement l'opération et de remettre, dans un délai qu'elle fixe,
-le site dans son état antérieur.
+Le contrôle administratif du document de planification, programme ou projet
+d'activités, de travaux, d'aménagements, d'ouvrages ou d'installations ou de la
+manifestation ou de l'intervention devant faire l'objet d'une évaluation des
+incidences Natura 2000 est effectué dans les conditions prévues dans la section
+1 du chapitre Ier du titre VII du livre Ier.
 
-Sauf en cas d'urgence, l'intéressé est mis à même de présenter ses observations
-préalablement à la mise en demeure.
-
-II.-Si à l'expiration du délai qui lui a été imparti pour la remise en état du
-site l'intéressé n'a pas obtempéré, l'autorité administrative peut :
-
-1° Ordonner à l'intéressé de consigner entre les mains d'un comptable public une
-somme répondant du montant des opérations à réaliser, laquelle lui est restituée
-au fur et à mesure de l'exécution des mesures prescrites. Il est procédé au
-recouvrement de cette somme comme en matière de créances étrangères à l'impôt et
-au domaine. Pour le recouvrement de cette somme, l'Etat bénéficie d'un privilège
-de même rang que celui prévu à l'article 1920 du code général des impôts ;
-
-2° Faire procéder d'office, aux frais de l'intéressé, à la remise en état du
-site.
-
-III.-Les sommes consignées en application du 1° du II peuvent être utilisées
-pour régler les dépenses entraînées par l'exécution d'office des mesures prévues
-au 2° du II.
+Les dispositions de la section 2 du chapitre Ier du titre VII du livre Ier
+s'appliquent lorsqu'un document de planification, un programme ou un projet
+d'activités, de travaux, d'aménagements, d'ouvrages ou d'installations ou une
+manifestation ou une intervention est réalisé sans évaluation des incidences
+Natura 2000, sans l'autorisation ou la déclaration prévue à l'article L. 414-4
+ou en méconnaissance de l'autorisation délivrée ou de la déclaration.

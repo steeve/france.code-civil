@@ -1,56 +1,7 @@
 Article L521-14
 ----
-I.-Pour l'application des mesures prévues par le présent chapitre, les agents
-visés à l'article L. 521-12 peuvent prélever des échantillons en vue d'analyses
-ou d'essais.
-
-Les échantillons sont analysés par un laboratoire de l'Etat, de l'Agence
-nationale de sécurité du médicament et des produits de santé ou par un
-laboratoire désigné par l'autorité compétente.
-
-Les prélèvements d'échantillons sont réalisés en présence du directeur
-d'établissement ou de son représentant si le contrôle a lieu dans une
-installation de fabrication ou de stockage ou si les substances, mélanges,
-articles, produits ou équipements faisant l'objet du prélèvement sont
-conditionnés en vrac. Les substances, mélanges, articles, produits ou
-équipements faisant l'objet du prélèvement sont inventoriés et laissés à la
-garde du détenteur. Ces opérations font l'objet d'un rapport dont une copie est
-remise au détenteur et, le cas échéant, vaut notification de la décision de
-consignation.
-
-Un décret en Conseil d'Etat précise les conditions à respecter pour les
-prélèvements d'échantillons, les analyses et les essais.
-
-II.-Pour l'application des mesures prévues par le présent chapitre, les agents
-visés à l'article L. 521-12 peuvent consigner, en vue d'effectuer des contrôles,
-les substances ou les mélanges, articles, produits ou équipements les contenant
-présumés interdits ou non conformes aux dispositions du présent chapitre et à
-celles prises pour son application.
-
-La mesure de consignation ne peut excéder quinze jours. Ce délai peut être
-prorogé par ordonnance motivée du président du tribunal de grande instance dans
-le ressort duquel est situé le lieu où les substances, les mélanges, les
-articles, les produits ou les équipements sont détenus, ou d'un magistrat
-délégué à cet effet.
-
-Le magistrat compétent est saisi sans forme par les agents mentionnés à
-l'article L. 521-12. Il statue par ordonnance exécutoire à titre provisoire dans
-les vingt-quatre heures au vu de tous les éléments d'informations de nature à
-justifier cette mesure.
-
-L'ordonnance de prorogation de la mesure de consignation est notifiée par tous
-les moyens au détenteur des substances, mélanges, articles, produits ou
-équipements consignés.
-
-Les substances, mélanges, articles, produits ou équipements consignés sont
-laissés à la garde de leur détenteur.
-
-Le président du tribunal de grande instance peut ordonner la mainlevée de la
-mesure de consignation à tout moment. La consignation est levée de plein droit
-par l'agent habilité dès lors que la conformité des substances, mélanges,
-articles, produits ou équipements consignés aux réglementations auxquelles ils
-sont soumis est établie.
-
-III.-L'ensemble des frais induits par les analyses, essais ou consignations
-prévus au présent article sont, en cas de condamnation, à la charge du détenteur
-des substances ou des mélanges, articles, produits ou équipements les contenant.
+L'ensemble des frais induits par les analyses ou essais pratiqués sur les
+échantillons qui ont fait l'objet de prélèvements en application de l'article L.
+172-14 sont, en cas de condamnation, à la charge du détenteur des substances
+telles quelles ou contenues dans mélange, un article, un produit ou un
+équipement.
