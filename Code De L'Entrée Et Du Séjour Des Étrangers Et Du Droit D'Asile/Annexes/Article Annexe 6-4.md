@@ -1,6 +1,9 @@
 Article Annexe 6-4
 ----
-Section 1 Catégories de données à caractère personnel
+Section 1
+
+
+Catégories de données à caractère personnel
 
 susceptibles d'être enregistrées
 
@@ -140,7 +143,11 @@ l'avis ; date, sens et date de notification de la décision ; date et résultat 
 réexamen quinquennal ;
 
 10° Annulation de la mesure d'expulsion : date, juridiction ; en cas de recours
-: date, juridiction, décision.
+: date, juridiction, décision ;
+
+11° Pour les interdictions de retour, date de la décision, dates de début et de
+fin de la période d'interdiction, date de demande d'abrogation, date
+d'abrogation, date d'annulation contentieuse.
 
 b) Données relatives aux procédures juridictionnelles mises en œuvre dans le
 cadre de l'éloignement :

@@ -22,6 +22,11 @@ cinq dernières années ;
 3° Le dossier d'un étranger qui contient des données relatives à une peine
 d'interdiction du territoire à temps prononcée à l'encontre de cet étranger est
 effacé au terme d'un délai de cinq ans à compter de la caducité de la peine si
+le dossier n'a fait l'objet d'aucune mise à jour durant cette période ;
+
+4° Le dossier d'un étranger qui contient des données relatives à une
+interdiction de retour sur le territoire français est effacé au terme d'un délai
+de cinq ans à compter de l'expiration du délai de validité de l'interdiction, si
 le dossier n'a fait l'objet d'aucune mise à jour durant cette période.
 
 Les mises à jour mentionnées au présent article s'entendent de celles qui sont
