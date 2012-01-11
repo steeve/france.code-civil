@@ -13,11 +13,11 @@ b) Les habitations légères de loisirs implantées dans un terrain de camping o
 un parc résidentiel de loisirs autorisé et dont la surface hors oeuvre nette est
 inférieure ou égale à trente-cinq mètres carrés ;
 
-c) Les éoliennes dont la hauteur du mât et de la nacelle au-dessus du sol est
-inférieure à douze mètres ainsi que les ouvrages de production d'électricité à
-partir de l'énergie solaire installés sur le sol dont la puissance crête est
-inférieure à trois kilowatts et dont la hauteur maximum au-dessus du sol ne peut
-pas dépasser un mètre quatre-vingt ;
+c) Les éoliennes terrestres dont la hauteur du mât et de la nacelle au-dessus du
+sol est inférieure à douze mètres ainsi que les ouvrages de production
+d'électricité à partir de l'énergie solaire installés sur le sol dont la
+puissance crête est inférieure à trois kilowatts et dont la hauteur maximum
+au-dessus du sol ne peut pas dépasser un mètre quatre-vingt ;
 
 d) Les piscines dont le bassin a une superficie inférieure ou égale à dix mètres
 carrés ;
