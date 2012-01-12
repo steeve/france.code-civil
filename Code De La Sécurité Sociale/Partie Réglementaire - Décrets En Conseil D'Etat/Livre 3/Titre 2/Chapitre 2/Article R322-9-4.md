@@ -28,3 +28,10 @@ taux fixé antérieurement lui est inférieur, soit à la limite maximale si le 
 fixé antérieurement lui est supérieur. Un arrêté du ministre chargé de la santé
 publié au Journal officiel de la République française constate le nouveau taux
 applicable.
+
+Dans le cas où, dans un délai de deux mois à compter de l'entrée en vigueur d'un
+décret fixant des limites de taux de participation de l'assuré mentionnées à
+l'article R. 322-1, le conseil de l'Union nationale des caisses d'assurance
+maladie n'a pas fixé le taux de la participation de l'assuré, le taux applicable
+est fixé, à l'intérieur de ces limites, par un arrêté du ministre chargé de la
+sécurité sociale publié au Journal officiel de la République française.
