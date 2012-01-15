@@ -1,30 +1,33 @@
 Article D361-34
 ----
-Dans les deux mois qui suivent la réception par le directeur départemental de
-l'agriculture et de la forêt des demandes individuelles qui lui sont transmises,
-le préfet, après instruction et contrôle des dossiers dans les conditions
-prévues aux articles D. 361-15, R. 361-22 à R. 361-29, D. 361-30 et D. 361-31,
-adresse au ministre chargé de l'agriculture ainsi qu'au secrétariat général du
-Comité national de l'assurance en agriculture un rapport circonstancié sur les
-dossiers individuels accompagné de toutes les justifications nécessaires, et,
-notamment, les bases générales retenues pour procéder à l'évaluation. Le préfet
-saisit dans le même délai le comité départemental d'expertise des dossiers
-litigieux.
+I.-Le préfet procède à l'instruction et au contrôle des demandes
+d'indemnisation.
 
-Le préfet rejette, après délibération du comité, les demandes d'indemnisation
-qui ne sont pas justifiées, notamment en application des règles fixées aux
-articles D. 361-30 et D. 361-31. Il en informe les demandeurs par voie
-administrative.
+Il vérifie notamment :
 
-Lorsqu'en application de l'avant-dernier alinéa de l'article R. 361-21 des
-crédits sont attribués, le préfet peut, au fur et à mesure de l'instruction et
-du contrôle préalable des demandes, servir des acomptes sur les indemnisations
-dues aux sinistrés. Seul peut bénéficier d'un acompte un exploitant dont le
-montant des dommages afférents à tout ou partie de ses biens et productions,
-ayant fait l'objet d'une instruction et calculés au moment de l'octroi de
-l'acompte, satisfait à lui seul, sans prise en compte d'éventuels autres
-dommages, les conditions de perte minimale fixées à l'article D. 361-30.
+1° Que toutes les pièces mentionnées au 1° de l'article D. 361-25 ont été
+transmises ou, en cas de télédéclaration, que toutes les rubriques nécessaires à
+l'instruction de la demande ont été renseignées.
 
-L'acompte à verser à l'exploitant est calculé en fonction des crédits délégués
-au département, sur la base des seuls dommages pour lesquels la demande a été
-instruite, et déterminée conformément aux dispositions du présent chapitre.
+En cas d'absence d'une ou plusieurs pièces du dossier ou d'omission de
+renseigner une rubrique nécessaire à l'instruction de la demande, le préfet en
+informe le demandeur, qui, sauf cas de force majeure, dispose d'un délai de dix
+jours pour y répondre, à peine de forclusion ;
+
+2° Que le demandeur satisfait aux conditions prévues aux articles D. 361-22 et
+D. 361-24 et respecte les conditions d'assurance mentionnées aux articles D.
+361-31 à D. 361-33 ;
+
+3° Que les dommages pour lesquels une indemnisation est demandée entrent dans le
+champ d'application de l'arrêté mentionné au cinquième alinéa de l'article D.
+361-21 et répondent aux conditions définies par l'article D. 361-30.
+
+II.-Le préfet rejette les demandes non conformes aux prescriptions mentionnées
+au I. Il notifie ce rejet aux demandeurs concernés et en informe le comité
+départemental d'expertise.
+
+III.-Les personnes qui ont contribué par leur fait ou par leur négligence à la
+réalisation de dommages ayant le caractère de calamités agricoles au sens de
+l'article L. 361-5 sont exclues du bénéfice de l'indemnisation accordée au titre
+de la présente section dans la proportion où lesdits dommages peuvent leur être
+imputables.

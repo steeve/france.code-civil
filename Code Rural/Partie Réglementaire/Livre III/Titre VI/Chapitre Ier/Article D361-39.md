@@ -1,10 +1,21 @@
 Article D361-39
 ----
-Les prêts bonifiés à moyen terme ont pour objet :
+Toute personne doit informer le préfet des paiements qu'elle a effectués ou doit
+effectuer au titre de l'indemnisation de dommages subis par une exploitation
+agricole à la suite de dommages ayant le caractère de calamités agricoles. Les
+organismes d'assurance, notamment, doivent transmettre au préfet une liste
+comportant le nom des bénéficiaires indemnisés par eux et le montant des
+indemnités.
 
-1° La réparation des dégâts causés aux sols, plantations ainsi qu'au cheptel et
-aux bâtiments à usage agricole ;
+Lorsque la somme totale perçue par un sinistré dépasse le montant des dommages
+subis, lorsque l'indemnité perçue est supérieure à l'indemnité recalculée après
+un contrôle sur place ou lorsqu'une indemnité a été indûment perçue, le préfet
+en informe la Caisse centrale de réassurance ; cette dernière demande le
+remboursement du trop-perçu ou de l'indemnité indûment perçue.
 
-2° La réparation des dégâts causés aux récoltes et cultures non pérennes. Le
-bénéfice des prêts bonifiés pour calamités agricoles est dans ce cas subordonné
-au respect des niveaux de perte minimale fixés à l'article R. 361-30.
+Si, à l'expiration d'un délai fixé par le comité départemental d'expertise, la
+totalité ou une partie de l'indemnité attribuée au titre des dommages n'a pas
+été employée dans l'exploitation, le préfet, après en avoir informé le comité
+départemental d'expertise, en avise la Caisse centrale de réassurance en lui
+adressant le compte rendu ; cette dernière réclame au bénéficiaire le
+remboursement de la somme correspondante.

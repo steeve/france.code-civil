@@ -8,12 +8,12 @@ affectent les récoltes ou les cultures ;
 2° Par le propriétaire des sols lorsque les dommages affectent les sols ;
 
 3° Par le propriétaire des bâtiments lorsque les dommages affectent les
-bâtiments ;
+bâtiments (y compris les abris) ;
 
 4° Par le propriétaire du cheptel lorsque les dommages affectent le cheptel mort
 ou vif.
 
-A titre conservatoire, et sous réserve d'une confirmation faite, avant mise en
-paiement de l'indemnité, dans la même forme que les demandes mentionnées à
-l'article R. 361-25, le preneur ou le propriétaire, en cas de métayage, peut
-déposer sous sa seule signature toutes les demandes dont il s'agit.
+En cas de métayage, le preneur ou le propriétaire peut déposer dans la même
+forme que les demandes mentionnées à l'article D. 361-26 toutes les demandes
+relatives aux dommages sur le fonds donné à bail. Le propriétaire ou le preneur
+doit confirmer la demande en tant qu'elle le concerne avant toute indemnisation.

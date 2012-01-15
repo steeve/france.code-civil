@@ -1,8 +1,16 @@
 Article D361-42
 ----
-L'arrêté préfectoral prévu à l'article R. 361-41 précise le délai pendant lequel
-l'accord de l'administration sur l'octroi d'un prêt bonifié à moyen terme peut
-être demandé au préfet par l'établissement de crédit. Ce délai tient compte de
-la date d'intervention du sinistre, de sa nature, de son importance ainsi que
-des caractéristiques propres aux cultures concernées. Il ne peut en aucun cas
-dépasser un an ni faire l'objet d'une prorogation.
+Lorsque le taux d'écart mentionné au quatrième alinéa de l'article D. 361-40 ou
+au deuxième alinéa de l'article D. 361-41 est inférieur ou égal à 10 %, le
+préfet adresse au demandeur une lettre d'observations contenant un rappel de la
+réglementation applicable. L'indemnité est calculée sur la base des éléments
+constatés.
+
+Lorsque le taux d'écart est supérieur à 10 % et inférieur ou égal à 50 %, le
+montant de l'indemnité est calculé sur la base des éléments constatés et réduit
+du double de l'écart constaté.
+
+Lorsque le taux d'écart est supérieur à 50 %, aucune indemnité n'est attribuée.
+
+L'intéressé est mis à même de présenter ses observations, dans les conditions
+prévues à l'article 24 de la loi du 12 avril 2000 susvisée.

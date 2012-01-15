@@ -1,24 +1,28 @@
 Article D361-40
 ----
-Le bénéfice des prêts mentionnés au 2° de l'article R. 361-39 est réservé aux
-personnes ayant une activité agricole au sens de l'article L. 311-1 du code
-rural et de la pêche maritime. Un arrêté du ministre chargé de l'agriculture
-fixe le montant maximum des prêts pouvant être consentis à un emprunteur pour un
-même sinistre.
+Pour chaque sinistre ayant fait l'objet d'une reconnaissance en tant que
+calamité agricole, les agents de la direction départementale des territoires ou
+de la direction départementale des territoires et de la mer contrôlent, avant le
+versement du premier acompte, 5 % des demandes présentées par télédéclaration
+afin de vérifier l'existence des pièces mentionnées aux b, c et d de l'article
+D. 361-25 ainsi que la conformité des dommages déclarés au regard de ces pièces.
 
-La demande de prêt doit être présentée :
+Si le demandeur ne peut présenter ces pièces dans un délai de vingt jours à
+compter de la date de réception du courrier du préfet les réclamant, sa demande
+est rejetée.
 
-1° Par l'exploitant ou, en cas de métayage, par le preneur, lorsque les dommages
-affectent les récoltes ou les cultures ;
+Les conclusions des contrôles donnent lieu au calcul d'un taux d'écart égal à la
+différence entre le montant de l'indemnité calculée sur la base de la
+télédéclaration et le montant de l'indemnité calculée sur la base des éléments
+constatés et des pièces mentionnées au deuxième alinéa du présent article
+rapporté au montant de l'indemnité calculée sur la base des éléments constatés.
 
-2° Par le propriétaire des sols lorsque lesdits dommages affectent les sols ;
+En cas d'application des deux alinéas qui précédent, l'intéressé est mis à même
+de présenter ses observations dans les conditions prévues à l'article 24 de la
+loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs
+relations avec l'administration.
 
-3° Par le propriétaire des bâtiments lorsque lesdits dommages affectent les
-bâtiments ;
-
-4° Par le propriétaire du cheptel lorsque les dommages affectent le cheptel mort
-ou vif.
-
-A titre conservatoire, et sous réserve d'une confirmation faite, avant mise en
-force du prêt, le preneur ou le propriétaire, en cas de métayage, peut déposer
-sous sa seule signature toutes les demandes dont il s'agit.
+En cas de différence entre le montant de l'indemnité calculée sur la base des
+éléments télédéclarés et le montant de l'indemnité calculée sur la base des
+éléments constatés, le montant de l'indemnité versée est calculé conformément
+aux dispositions de l'article D. 361-42.

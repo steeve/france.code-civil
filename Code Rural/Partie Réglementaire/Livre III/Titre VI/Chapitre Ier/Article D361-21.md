@@ -1,43 +1,42 @@
 Article D361-21
 ----
-Dans un délai de quinze jours à compter du dépôt du rapport de la mission
-d'enquête, le préfet réunit le comité départemental d'expertise afin que
-celui-ci émette, dans un délai qui ne peut excéder un mois, un avis quant au
-caractère de calamité agricole au sens de l'article L. 361-2 du sinistre.
+Dès réception du rapport de la mission d'enquête, le préfet réunit le comité
+départemental d'expertise afin que celui-ci émette un avis quant au caractère de
+calamité agricole des dommages.
 
-Au vu de l'avis du comité départemental d'expertise, le préfet décide soit de
-classer le dossier sans suite, soit de proposer de reconnaître au sinistre le
-caractère de calamité agricole.
+Au vu de l'avis du comité départemental d'expertise, le préfet peut proposer la
+reconnaissance du caractère de calamité agricole des dommages.
 
-Le préfet adresse ses propositions au ministre chargé de l'agriculture dans un
-délai d'un mois à compter de la réunion du comité départemental d'expertise. Ces
-propositions sont accompagnées d'un dossier comprenant, outre un rapport du
-préfet, les procès-verbaux des délibérations du comité départemental d'expertise
-ainsi que le rapport de la mission d'enquête. Copie de ce dossier est adressée
-au secrétariat général du Comité national de l'assurance en agriculture.
+Le préfet adresse cette proposition au ministre chargé de l'agriculture. Elle
+est accompagnée d'un rapport indiquant les cultures et biens sinistrés, la zone
+géographique du sinistre, l'estimation des dommages et le montant prévisionnel
+d'indemnisation ainsi que des procès-verbaux des délibérations du comité
+départemental d'expertise et du rapport de la mission d'enquête.
 
-Le ministre saisit immédiatement le Comité national de l'assurance en
-agriculture, qui doit émettre son avis dans un délai de deux mois.
+Après avis du Comité national de gestion des risques en agriculture, le ministre
+chargé de l'agriculture reconnaît par arrêté le caractère de calamité agricole
+aux dommages mentionnés au second alinéa de l'article L. 361-5.
 
-S'il estime, à la suite de cet avis, que le sinistre présente le caractère de
-calamité agricole, le ministre prend un arrêté reconnaissant ce caractère. Cet
-arrêté doit intervenir dans un délai d'un mois suivant la date à laquelle a été
-émis l'avis du Comité national de l'assurance en agriculture.
+Cet arrêté définit le phénomène climatique à l'origine du sinistre, les zones et
+les productions ou biens touchés et, le cas échéant, le déficit fourrager moyen
+défini au 7° du I de l'article D. 361-27.
 
-Il détermine les zones, les périodes et les productions ou biens touchés par la
-calamité agricole et, le cas échéant, le déficit fourrager moyen défini au 7° de
-l'article R. 361-27.
+Il est publié dans les mairies des communes concernées. Toute demande visant à
+modifier ou à compléter l'arrêté est adressée au préfet dans un délai de deux
+mois suivant cette publication. L'arrêté modificatif ou complémentaire est pris
+selon la même procédure que l'arrêté initial.
 
-Cet arrêté est publié dans les mairies des communes de la zone sinistrée. Toute
-demande visant à modifier ou à compléter l'arrêté est adressée au préfet dans un
-délai de deux mois suivant cette publication.
-
-Sur la base des éléments fournis par le rapport de la mission d'enquête et après
-avis du Comité national de l'assurance en agriculture, le ministre peut prendre,
-en même temps que l'arrêté de reconnaissance, un arrêté autorisant le versement
-d'acomptes sur les indemnisations dues aux sinistrés dans les conditions fixées
-aux deux derniers alinéas de l'article R. 361-34 et dans la limite des
-conditions générales d'indemnisation prévues par l'article L. 361-12.
+Sur la base des éléments fournis par le rapport du préfet et après avis du
+Comité national de gestion des risques en agriculture, le ministre chargé de
+l'agriculture peut prendre en outre un arrêté autorisant le versement d'acomptes
+sur les indemnisations dues aux sinistrés dans les conditions fixées à l'article
+D. 361-36 et dans la limite des conditions générales d'indemnisation prévues par
+l'article D. 361-29.
 
 La somme correspondante est mise à la disposition du préfet selon les modalités
-définies à l'article R. 361-36.
+définies à l'article D. 361-38.
+
+Aucune demande de reconnaissance au titre des calamités agricoles ne peut être
+proposée par le préfet lorsqu'elle intervient douze mois après la survenance des
+phénomènes climatiques pour les pertes de récolte et vingt-quatre mois pour les
+pertes de fonds.
