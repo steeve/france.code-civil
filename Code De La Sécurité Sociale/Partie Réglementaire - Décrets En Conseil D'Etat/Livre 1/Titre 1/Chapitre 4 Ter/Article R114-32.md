@@ -1,6 +1,6 @@
 Article R114-32
 ----
-Les organismes contributeurs mentionnés à l'article R. 114-21 donnent à leurs
+Les organismes contributeurs mentionnés à l'article R. 114-27 donnent à leurs
 ressortissants une information sur les données accessibles dans le cadre du
 RNCPS.
 

@@ -2,7 +2,7 @@ Article R114-31
 ----
 Le RNCPS met à la disposition des partenaires un dispositif de gestion des
 échanges permettant de procéder aux échanges de données mentionnés au 3° de
-l'article R. 114-19.
+l'article R. 114-25.
 
 L'usage du dispositif de gestion des échanges du RNCPS garantit :
 

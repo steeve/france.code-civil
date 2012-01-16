@@ -1,10 +1,9 @@
 Article R114-27
 ----
 Les données et les informations centralisées de rattachement sont transmises par
-les organismes contributeurs. Sont contributeurs les organismes chargés de la
-gestion d'un régime obligatoire de sécurité sociale, les caisses assurant le
-service des congés payés et Pôle emploi. Ces données et informations, ainsi que
-les données mentionnées au 1° de l'article R. 114-20, sont conservées par le
+les organismes contributeurs. Sont contributeurs les organismes mentionnés au
+premier alinéa de l'article L. 114-12-1. Ces données et informations, ainsi que
+les données mentionnées au 1° de l'article R. 114-26, sont conservées par le
 RNCPS.
 
 Les données communes d'identification sont transmises, dès lors que des données
