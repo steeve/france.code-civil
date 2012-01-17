@@ -18,23 +18,26 @@ d'autres spécifications techniques a été attestée à l'issue de l'une des
 procédures définies comme suit :
 
 a) La conformité des équipements à des normes et, le cas échéant, à des
-spécifications complémentaires qui a été évaluée, par des organismes agréés, sur
-la base d'essais de type et d'une surveillance de la production, est attestée
-par la délivrance de la marque NF " Equipements de la route " par un organisme
-certificateur habilité, dans les conditions fixées par l'article 15 du décret n°
-84-74 du 26 janvier 1984 ;
+spécifications complémentaires, qui a été évaluée sur la base d'essais de type
+et d'une surveillance de la production, est attestée par la délivrance d'un
+certificat de conformité par un organisme certificateur accrédité à cet effet,
+dans les conditions définies par les arrêtés mentionnés à l'article R. 119-4.
 
 b) La conformité des équipements à des réglementations techniques, qui a été
 évaluée dans les mêmes conditions qu'au a ci-dessus, est attestée par la
-délivrance par le ministre chargé de l'équipement, dans les conditions fixées
-par l'arrêté interministériel prévu au IV du présent article, d'une homologation
-accordée pour une année renouvelable ;
+délivrance d'une homologation par le ministre chargé de l'équipement ou par un
+organisme accrédité à cet effet, désigné par un arrêté du ministre chargé de
+l'équipement mentionné au deuxième alinéa du c. Les conditions de délivrance et
+de renouvellement de l'homologation particulière à chaque type d'équipement sont
+fixées par cet arrêté.
 
 c) La conformité des équipements à des normes ou à des réglementations
 techniques, qui a été évaluée sur la base d'essais de type réalisés par un
-laboratoire agréé et d'un contrôle de la production réalisé par le fabricant,
-est attestée par une déclaration établie par ce dernier dans les conditions
-fixées par l'arrêté interministériel prévu au IV du présent article.
+laboratoire accrédité à cet effet désigné par un arrêté du ministre chargé de
+l'équipement mentionné à l'alinéa suivant et d'un contrôle de la production
+réalisé par le fabricant, est attestée par une déclaration établie par ce
+dernier dans les conditions fixées par l'arrêté interministériel prévu au IV du
+présent article.
 
 Les arrêtés mentionnés à l'article R. * 119-4 fixent, pour chaque type
 d'équipements, celle des procédures prévues aux a, b et c ci-dessus qui lui est
@@ -44,10 +47,9 @@ cette procédure pour ce type d'équipements.
 Ces arrêtés fixent également les niveaux d'exigence relatifs aux
 caractéristiques et aux performances des produits. Ces niveaux d'exigence sont
 définis, selon le mode d'évaluation et d'attestation de conformité prévu, par
-référence soit aux normes françaises publiées au Journal officiel de la
-République française ou à d'autres normes garantissant un niveau de sécurité
-équivalent, soit à des spécifications techniques fixées dans les mêmes
-conditions.
+référence soit aux normes françaises ou à d'autres normes garantissant un niveau
+de sécurité équivalent, soit à des spécifications techniques fixées dans les
+mêmes conditions.
 
 III.-Les équipements routiers fabriqués dans d'autres Etats membres de l'Union
 européenne ou dans d'autres Etats parties à l'accord sur l'Espace économique
