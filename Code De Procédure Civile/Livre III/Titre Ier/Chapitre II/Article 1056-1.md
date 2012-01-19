@@ -1,13 +1,8 @@
 Article 1056-1
 ----
-Le procureur de la République territorialement compétent pour s'opposer à la
-célébration d'un mariage d'un Français à l'étranger est celui du lieu où est
-établi le service central d'état civil du ministère des affaires étrangères.
+L'action aux fins de déclaration judiciaire de naissance est régie par les
+dispositions des articles 1049 à 1055.
 
-Il est également seul compétent pour se prononcer sur la transcription de l'acte
-de mariage étranger sur les registres de l'état civil français et pour
-poursuivre l'annulation de ce mariage.
-
-Il est également seul compétent, lorsque l'acte de mariage étranger a été
-transcrit sur les registres consulaires français, pour poursuivre l'annulation
-du mariage, même s'il n'a pas été saisi préalablement à la transcription.
+Le dispositif de la décision, contenant les énonciations prévues à l'article 57
+du code civil, est immédiatement transmis par le procureur de la République à
+l'officier de l'état civil.

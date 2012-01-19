@@ -1,4 +1,5 @@
 Article 1270
 ----
-L'autorisation prévue à l'article 595 du code civil obéit aux règles prescrites
-aux articles 1286 à 1289.
+La demande de l'usufruitier tendant à être autorisé à conclure seul un bail en
+application de l'article 595 du code civil est formée, instruite et jugée
+suivant la procédure à jour fixe.

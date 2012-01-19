@@ -7,9 +7,10 @@ les actes d'huissier de justice :
 
 2° L'objet de la demande avec un exposé des moyens en fait et en droit ;
 
-3° L'indication que, faute pour le défendeur de comparaître, il s'expose à ce
-qu'un jugement soit rendu contre lui sur les seuls éléments fournis par son
-adversaire ;
+3° L'indication des modalités de comparution devant la juridiction et la
+précision que, faute pour le défendeur de comparaître, il s'expose à ce qu'un
+jugement soit rendu contre lui sur les seuls éléments fournis par son adversaire
+;
 
 4° Le cas échéant, les mentions relatives à la désignation des immeubles exigées
 pour la publication au fichier immobilier.
