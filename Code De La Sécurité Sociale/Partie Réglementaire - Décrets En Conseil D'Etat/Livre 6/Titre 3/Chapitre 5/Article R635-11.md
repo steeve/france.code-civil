@@ -1,6 +1,6 @@
 Article R635-11
 ----
-I. ― Les ressources des régimes d'assurance invalidité-décès mentionnés à
+I.-Les ressources des régimes d'assurance invalidité-décès mentionnés à
 l'article L. 635-5, retracées dans la section décrite au b des 2° et 3° de
 l'article R. 611-70, sont constituées, chacun en ce qui le concerne, par :
 
@@ -11,16 +11,12 @@ pénalités de retard ;
 
 3° Les dons et legs ;
 
-4° Le cas échéant, une part du produit des cotisations du régime mentionné à
-l'article L. 635-1 aux fins du financement des prestations mentionnées au 3° du
-II de l'article R. 635-10 ;
-
-5° Toute autre recette instituée par les dispositions législatives ou
+4° Toute autre recette instituée par les dispositions législatives ou
 réglementaires en vigueur.
 
-II. ― Les dépenses des régimes d'assurance invalidité-décès mentionnés à
-l'article L. 635-5, retracées dans la section décrite au b des 2° et 3° de
-l'article R. 611-70, sont constituées, chacun en ce qui le concerne, par :
+II.-Les dépenses des régimes d'assurance invalidité-décès mentionnés à l'article
+L. 635-5, retracées dans la section décrite au b des 2° et 3° de l'article R.
+611-70, sont constituées, chacun en ce qui le concerne, par :
 
 1° Les dotations et, éventuellement, les subventions et avances versées aux
 caisses de base mentionnées à l'article L. 611-8 pour le service des prestations
@@ -31,10 +27,5 @@ mentionnés au 5° de l'article R. 611-18 ainsi que les dépenses d'action socia
 versées à la caisse nationale et aux caisses de base mentionnées à l'article L.
 611-8, au titre de la gestion du régime invalidité-décès ;
 
-3° Le financement de la charge financière liée à l'attribution, le cas échéant,
-par le régime mentionné à l'article L. 635-1, de points de retraite
-complémentaire au titre des périodes d'invalidité, sur la base d'un montant fixé
-annuellement par le conseil d'administration de la caisse nationale ;
-
-4° Toute autre charge instituée en application des dispositions législatives et
+3° Toute autre charge instituée en application des dispositions législatives et
 réglementaires en vigueur.
