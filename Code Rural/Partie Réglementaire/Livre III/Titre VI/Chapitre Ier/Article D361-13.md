@@ -17,14 +17,16 @@ n° 90-187 du 28 février 1990 susmentionné ;
 d'assurances ;
 
 6° Une personnalité désignée par les caisses de réassurances mutuelles agricoles
-dans le ressort desquelles se trouve le département ou son représentant ;
+dans le ressort desquelles se trouve le département ;
 
 7° Un représentant des établissements bancaires présents dans le département.
 
-Les membres du comité départemental d'expertise ainsi que leurs représentants
-sont nommés, pour une durée de trois ans, par arrêté préfectoral. Le mandat des
-membres du comité peut être prolongé, dans la limite d'un an, par arrêté
-préfectoral.
+Les membres du comité mentionnés aux 4° à 7° sont pourvus chacun d'un suppléant.
+
+Les membres du comité départemental d'expertise ainsi que, le cas échéant, leurs
+suppléants sont nommés, pour une durée de trois ans, par arrêté préfectoral. Le
+mandat des membres du comité peut être prolongé, dans la limite d'un an, par
+arrêté préfectoral.
 
 Le comité départemental d'expertise se réunit sur convocation du préfet. Son
 secrétariat est assuré par les soins du directeur départemental des territoires
@@ -37,6 +39,6 @@ les comités départementaux d'expertise des Yvelines, du Val-d'Oise et de
 l'Essonne.
 
 Les comités départementaux d'expertise fonctionnent dans les conditions prévues
-par les articles 5 à 15 du décret n° 2006-672 du 8 juin 2006 relatif à la
+par les articles 3 à 15 du décret n° 2006-672 du 8 juin 2006 relatif à la
 création, à la composition et au fonctionnement de commissions administratives à
 caractère consultatif, à l'exception des articles 10 et 11.
