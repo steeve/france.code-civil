@@ -5,11 +5,12 @@ collectivité territoriale ou d'un groupement de collectivités territoriales de
 la part de l'Etat ou d'une autre personne publique peuvent être opérés à la
 demande de l'assemblée délibérante de la collectivité territoriale ou du
 groupement. Ils le sont à titre gratuit et ne donnent lieu au paiement d'aucune
-indemnité, droit, taxe, salaire ou honoraires. Toutefois, les parties de cours
-d'eau, canaux, lacs ou plans d'eau inclus dans le périmètre d'une concession
-accordée par l'Etat au titre de l'utilisation de l'énergie hydraulique ne
-peuvent pas faire l'objet d'un transfert de propriété au profit des
-collectivités territoriales ou de leurs groupements.
+indemnité, droit, taxe, contribution prévue à l'article 879 du code général des
+impôts ou honoraires. Toutefois, les parties de cours d'eau, canaux, lacs ou
+plans d'eau inclus dans le périmètre d'une concession accordée par l'Etat au
+titre de l'utilisation de l'énergie hydraulique ne peuvent pas faire l'objet
+d'un transfert de propriété au profit des collectivités territoriales ou de
+leurs groupements.
 
 Ces transferts s'opèrent en priorité au profit de la région ou du groupement de
 régions territorialement compétent qui en fait la demande. Lorsque d'autres
@@ -19,7 +20,10 @@ avis à la région. Ils peuvent bénéficier de ce transfert si, à l'issue d'un
 délai de six mois à compter de la saisine pour avis, la région territorialement
 compétente n'a pas elle-même formulé la demande.
 
-Le transfert est refusé si la cohérence hydraulique ne peut pas être assurée.
+Le transfert est refusé si la cohérence hydraulique ne peut pas être assurée ou,
+dans le cas d'une demande de transfert portant sur un port intérieur situé sur
+une voie non transférable, s'il risque de compromettre le développement du
+transport de fret fluvial.
 
 La collectivité territoriale ou le groupement de collectivités territoriales
 bénéficiaire du transfert succède dans l'ensemble des droits et obligations à
