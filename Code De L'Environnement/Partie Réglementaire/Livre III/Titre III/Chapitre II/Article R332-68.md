@@ -17,3 +17,8 @@ porté à ma connaissance, à l'occasion de l'exercice de mes fonctions de polic
 
 Le commissionnement délivré en application des articles L. 332-20 et L. 332-22
 peut être retiré par le préfet.
+
+Les agents commissionnés et assermentés des réserves naturelles sont, dans
+l'exercice de leurs missions de police, astreints à porter la plaque ou
+l'écusson de police de l'environnement ainsi qu'un uniforme selon les conditions
+définies par un arrêté du ministre en charge de la protection de la nature.

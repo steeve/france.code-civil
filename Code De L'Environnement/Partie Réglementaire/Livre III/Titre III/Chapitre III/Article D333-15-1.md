@@ -1,11 +1,11 @@
 Article D333-15-1
 ----
 Les indemnités maximales votées en application du III de l'article L. 333-3 par
-les organes délibérants des syndicats mixtes de gestion des parcs naturels
-régionaux pour l'exercice effectif des fonctions de président ou de
-vice-président sont déterminées en appliquant au montant du traitement mensuel
-correspondant à l'indice brut terminal de l'échelle indiciaire de la fonction
-publique les barèmes suivants :
+les organes délibérants des syndicats mixtes d'aménagement et de gestion des
+parcs naturels régionaux pour l'exercice effectif des fonctions de président ou
+de vice-président sont déterminées en appliquant au montant du traitement
+mensuel correspondant à l'indice brut terminal de l'échelle indiciaire de la
+fonction publique les barèmes suivants :
 
 Superficie (en hectares)
 
@@ -44,5 +44,5 @@ Plus de 200 000
 
 17
 
-La superficie prise en compte est celle cadastrée et non cadastrée "hors eaux"
+La superficie prise en compte est celle cadastrée et non cadastrée " hors eaux "
 du territoire géré par le syndicat mixte du parc naturel régional.

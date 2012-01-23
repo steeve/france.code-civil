@@ -1,8 +1,8 @@
 Article R333-15
 ----
-I.-Les documents qui doivent être soumis pour avis au syndicat mixte de gestion
-du parc en application de l'avant-dernier alinéa de l'article L. 333-1 sont les
-suivants :
+I.-Les documents qui doivent être soumis pour avis au syndicat mixte
+d'aménagement et de gestion du parc en application de l'avant-dernier alinéa de
+l'article L. 333-1 sont les suivants :
 
 1° Le schéma départemental de vocation piscicole prévu par l'article L. 433-2 ;
 
@@ -47,8 +47,8 @@ territoire ;
 communes, les départements, les régions et l'Etat.
 
 II.-Lorsque les projets de ces documents sont soumis pour avis au syndicat mixte
-de gestion, ils sont accompagnés du rapport environnemental prévu par l'article
-R. 122-20 s'il est requis.
+d'aménagement et de gestion, ils sont accompagnés du rapport environnemental
+prévu par l'article R. 122-20 s'il est requis.
 
 III.-L'absence de réponse de l'établissement dans le délai de deux mois à dater
 de la réception de la demande d'avis vaut avis favorable.
