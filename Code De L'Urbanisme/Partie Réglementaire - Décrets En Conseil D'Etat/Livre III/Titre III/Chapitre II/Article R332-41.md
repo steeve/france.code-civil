@@ -8,8 +8,8 @@ Ce registre, à feuillets non mobiles, est coté et paraphé par le maire.
 Sont portés sur ce registre, dans l'ordre chronologique de leur inscription :
 
 1° La nature, le montant ou la valeur des contributions prescrites en
-application du 2° de l'article L. 332-6-1, de l'article L. 332-9, du c et du d
-de l'article L. 332-12, les références de l'acte ayant prescrit la contribution
+application du 2° de l'article L. 332-6-1, de l'article L. 332-9, et du c de
+l'article L. 332-12 les références de l'acte ayant prescrit la contribution
 ainsi que la dénomination et l'adresse du redevable et du bénéficiaire de chaque
 contribution ;
 
