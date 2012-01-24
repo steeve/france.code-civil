@@ -1,16 +1,9 @@
 Article R777-1
 ----
-Le jugement des requêtes relatives à l'établissement de la liste des partis ou
-groupements habilités à participer à la campagne en vue d'un référendum local ou
-d'une consultation des électeurs par les autorités d'une collectivité
-territoriale, est régi par les dispositions du cinquième alinéa de l'article R.
-1112-3 du code général des collectivités territoriales ci-après reproduites :
+Dans le cadre des recours en annulation formés contre les décisions de refus
+d'entrée sur le territoire français au titre de l'asile mentionnés à l'article
+L. 777-1, le jugement est prononcé à l'audience.
 
-" Art.R. 1112-3, cinquième alinéa.-Toute personne inscrite sur les listes
-électorales dans le ressort de la collectivité territoriale ayant décidé le
-référendum ainsi que tout groupe, parti ou groupement politique ayant déposé une
-demande d'habilitation peut, dans les vingt-quatre heures qui suivent la
-publication de la liste, saisir le tribunal administratif compétent. Le tribunal
-statue en premier et dernier ressort dans les trois jours suivant le dépôt de la
-requête.S'il l'estime fondée, le tribunal procède à la réformation de l'arrêté.
-"
+Le dispositif du jugement assorti de la formule exécutoire prévue à l'article R.
+751-1 est communiqué sur place aux parties présentes à l'audience, qui en
+accusent aussitôt réception.
