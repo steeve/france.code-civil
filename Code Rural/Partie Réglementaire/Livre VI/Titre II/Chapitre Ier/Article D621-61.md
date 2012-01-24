@@ -1,8 +1,4 @@
 Article D621-61
 ----
-Le membre du corps du contrôle général économique et financier a tous pouvoirs
-d'investigation et de vérification sur pièces et sur place, pour l'ensemble des
-opérations effectuées par l'établissement.
-
-A cet effet, il peut demander communication ou prendre connaissance sur place de
-tous documents détenus par les services de l'établissement.
+La demande d'assistance mentionnée à l'article L. 621-13 est formulée et traitée
+dans les conditions prévues aux articles D. 618-1 à D. 618-14.
