@@ -12,7 +12,7 @@ Bastia
 
 Ajaccio
 
-Corse-du-Sud, Haute-Corse, sauf pour le régime agricole.
+Corse-du-Sud, Haute-Corse.
 
 
 Amiens
@@ -90,7 +90,7 @@ Aix-en-Provence
 Marseille
 
 Alpes-de-Haute-Provence, Alpes-Maritimes, Hautes-Alpes, Bouches-du-Rhône, Var,
-Vaucluse et, pour le régime agricole, Corse-du-Sud et Haute-Corse.
+Vaucluse.
 
 
 Montpellier
