@@ -26,4 +26,4 @@ a) Auprès d'un établissement de crédit, d'un établissement de paiement ou d'
 entreprise d'assurance ;
 
 b) Auprès d'un organisme de formation choisi par l'intéressé, son employeur, ou
-le cas échéant, son mandant, dans les conditions prévues à l'article R. 519-12.
+le cas échéant, son mandant, dans les conditions prévues à l'article R. 519-11.
