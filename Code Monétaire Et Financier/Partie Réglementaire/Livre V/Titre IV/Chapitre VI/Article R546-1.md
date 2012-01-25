@@ -5,8 +5,8 @@ chargé de l'établissement, de la tenue et de la mise à jour du registre des
 personnes mentionnées au I de l'article L. 546-1. A ce titre il reçoit les
 dossiers de demandes d'immatriculation ou de renouvellement de l'immatriculation
 et statue sur ces demandes. Le cas échéant, il procède à la radiation du
-registre ou à la suppression de l'inscription dans les conditions prévues au
-VIII de l'article R. 546-3.
+registre ou à la suppression de l'inscription dans les conditions prévues au IX
+de l'article R. 546-3.
 
 II. ― La commission chargée des immatriculations mentionnée au V de l'article R.
 512-3 du code des assurances est chargée des immatriculations au registre
