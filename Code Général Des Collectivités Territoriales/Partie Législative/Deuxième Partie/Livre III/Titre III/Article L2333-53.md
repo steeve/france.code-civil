@@ -21,8 +21,8 @@ par des organismes compétents en la matière, et notamment par les sociétés d
 secours en montagne ;
 
 6° Aux dépenses d'équipement et de mise en valeur touristique des espaces
-forestiers présentant l'une des garanties de gestion durable mentionnées à
-l'article L. 8 du code forestier ;
+forestiers présentant l'une des garanties de gestion durable mentionnées aux
+articles L124-1 à L124-4 du nouveau code forestier ;
 
 7° Aux travaux de protection contre l'érosion naturelle des sols, la prévention
 des avalanches ou la défense des forêts contre les incendies qui incombent à la

@@ -25,15 +25,15 @@ maintenance du réseau ferré de la Corse au cours des cinq années précédant 
 transfert de celui-ci ;
 
 -pour l'évaluation de la compensation financière des revenus, charges et
-obligations y afférentes transférés en application de l'article L. 181-1 du code
-forestier, les ressources attribuées à la collectivité territoriale de Corse
-sont déterminées par une convention passée entre l'Etat, la collectivité
-territoriale de Corse et l'Office national des forêts, et calculées sur la
-moyenne actualisée des crédits nécessaires pour assurer l'équilibre des comptes
-de l'Office national des forêts en Corse relatifs à la gestion des biens
-transférés au cours des dix dernières années précédant le transfert, déduction
-faite des dépenses restant à la charge de l'Etat et de l'Office national des
-forêts après le transfert.
+obligations y afférentes transférés en application des articles L211-2 et L223-3
+du nouveau code forestier, les ressources attribuées à la collectivité
+territoriale de Corse sont déterminées par une convention passée entre l'Etat,
+la collectivité territoriale de Corse et l'Office national des forêts, et
+calculées sur la moyenne actualisée des crédits nécessaires pour assurer
+l'équilibre des comptes de l'Office national des forêts en Corse relatifs à la
+gestion des biens transférés au cours des dix dernières années précédant le
+transfert, déduction faite des dépenses restant à la charge de l'Etat et de
+l'Office national des forêts après le transfert.
 
 Leur montant est constaté par arrêté conjoint du ministre chargé de l'intérieur
 et du ministre chargé du budget, après avis d'une commission présidée par le

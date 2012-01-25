@@ -2,7 +2,7 @@ Article L121-19
 ----
 Le président du conseil général fixe la liste des travaux dont la préparation et
 l'exécution sont interdites jusqu'à la clôture des opérations. Il peut interdire
-la destruction de tous les espaces boisés mentionnés à l'article L. 311-2 du
+la destruction de tous les espaces boisés mentionnés à l'article L. 342-1 du
 code forestier, ainsi que de tous boisements linéaires, haies et plantations
 d'alignement et arbres isolés.
 

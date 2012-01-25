@@ -31,8 +31,8 @@ régional révisé. La révision de la charte est soumise aux mêmes règles que
 Lors de leur élaboration ou de leur révision, les documents d'aménagement
 forestier sont soumis pour avis conforme à l'établissement public du parc
 national en tant qu'ils s'appliquent aux espaces d'un coeur de parc composé à
-plus de 60 % des forêts, bois et terrains visés à l'article L. 111-1 du code
-forestier.
+plus de 60 % des forêts, bois et terrains visés aux articles L211-1 et L211-2 du
+nouveau code forestier.
 
 III.-Sauf mention contraire dans la charte du parc national :
 

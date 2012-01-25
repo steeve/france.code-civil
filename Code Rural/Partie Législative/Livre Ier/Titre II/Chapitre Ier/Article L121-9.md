@@ -19,8 +19,9 @@ forestière ;
 
 5° Deux maires ou deux délégués communaux élus par les conseils municipaux
 représentant les communes propriétaires de forêts relevant du régime forestier
-en application de l'article L. 111-1 du code forestier, désignés par la réunion
-des maires ou des délégués communaux de ces communes dans le département.
+en application du 2° du I de l'article L. 211-1 du code forestier, désignés par
+la réunion des maires ou des délégués communaux de ces communes dans le
+département.
 
 Les propriétaires forestiers désignés comme membres suppléants siègent soit en
 cas d'absence des membres titulaires, soit lorsque la commission départementale

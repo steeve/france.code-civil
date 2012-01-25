@@ -20,5 +20,5 @@ V.-Pour l'application de l'article L. 2411-14, les mots : " et sous réserve des
 dispositions de l'article L. 141-3 du code forestier " sont supprimés.
 
 VI.-Pour l'application de l'article L. 2412-1, les mots : " et celles résultant
-de l'exécution des engagements approuvés en application de l'article L. 143-1 du
-code forestier " sont supprimés.
+de l'exécution des engagements approuvés en application des articles L212-1,
+L212-2 et L212-4 du nouveau code forestier " sont supprimés.

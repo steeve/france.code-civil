@@ -6,4 +6,4 @@ coupes ou produits de coupes groupant en un même lot des bois appartenant à
 plusieurs collectivités, la créance de la collectivité concernant la vente des
 produits de son domaine porte sur la part du produit net encaissé devant lui
 être distribuée par l'Office national des forêts, selon les modalités prévues
-par les deuxième et troisième alinéas de l'article L. 144-1-1 du code forestier.
+aux articles L214-7 et L214-8 du nouveau code forestier.

@@ -14,4 +14,4 @@ souhaitent. Ces derniers peuvent alors faire connaître leur désaccord éventue
 et formuler leur propre demande de plan de chasse.
 
 Les propriétaires mentionnés au précédent alinéa peuvent recourir aux
-dispositions de l'article L. 247-8 du code forestier.
+dispositions de l'article L. 332-5 du nouveau code forestier.

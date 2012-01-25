@@ -29,7 +29,7 @@ collectivités territoriales, au cours de l'élaboration de leurs projets de
 développement économique.
 
 Dans le domaine de la forêt, elles exercent leurs compétences conformément à
-l'article L. 221-11 du code forestier.
+l'article L. 322-1 du code forestier.
 
 Les chambres départementales d'agriculture sont appelées par l'autorité
 administrative à grouper, coordonner, codifier les coutumes et usages locaux à

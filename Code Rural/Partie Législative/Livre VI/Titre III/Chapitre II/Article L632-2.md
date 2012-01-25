@@ -25,10 +25,10 @@ spécifiques peuvent également être reconnues pour un produit d'appellation
 d'origine contrôlée ou un groupe de produits d'appellation d'origine contrôlée,
 et pour des produits qui bénéficient d'une même indication géographique
 protégée, d'un même label ou d'une même certification de conformité ou
-écocertification de gestion durable mentionnés au titre IV du présent livre ou à
-l'article L. 13 du code forestier. La création de sections ou de commissions
-consacrées aux produits issus de l'agriculture biologique au sein des
-organisations interprofessionnelles de portée générale peut être rendue
+écocertification de gestion durable mentionnés au titre IV du présent livre ou
+aux articles L125-1 et L125-2 du nouveau code forestier. La création de sections
+ou de commissions consacrées aux produits issus de l'agriculture biologique au
+sein des organisations interprofessionnelles de portée générale peut être rendue
 obligatoire dans des conditions fixées par décret. Les organisations
 interprofessionnelles concernées définissent les modalités de fonctionnement de
 ces sections ou commissions. Des sections ou des commissions consacrées aux
