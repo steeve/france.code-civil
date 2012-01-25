@@ -4,9 +4,9 @@ I.-L'organisme prévu au deuxième alinéa du I de l'article L. 512-1 prend la
 forme d'une association. Les statuts de l'association ainsi créée sont
 homologués par arrêté du ministre chargé de l'économie.
 
-II.-L'association est chargée de l'établissement, de la tenue et de la mise à
-jour permanente du registre des intermédiaires en assurance.A ce titre, elle
-reçoit les dossiers de demandes d'immatriculation ou de renouvellement de
+II.-L'organisme est chargé de l'établissement, de la tenue et de la mise à jour
+permanente du registre mentionné à l'article L. 512-1. A ce titre, il reçoit les
+dossiers de demandes d'immatriculation ou de renouvellement de
 l'immatriculation, statue sur ces demandes, effectue les radiations du registre
 et procède à l'envoi des notifications aux autorités compétentes des autres
 Etats membres de la Communauté européenne et des autres Etats parties à l'accord
@@ -14,18 +14,18 @@ sur l'Espace économique européen ainsi qu'à la réception des notifications e
 provenance de ces autorités.
 
 III.-Le directeur général du Trésor ou son représentant a qualité de commissaire
-du Gouvernement auprès de l'association. Il peut participer aux travaux de
+du Gouvernement auprès de l'organisme. Il peut participer aux travaux de
 l'assemblée générale et de tous autres organes qui sont créés par les statuts de
-l'association. Il reçoit communication de tous documents et convocations et peut
+l'organisme. Il reçoit communication de tous documents et convocations et peut
 demander une seconde délibération de ces organes.
 
-IV.-L'association établit annuellement un bilan, un compte de résultat et une
-annexe.L'association nomme un commissaire aux comptes et un suppléant choisis
-sur la liste mentionnée à l'article L. 822-1 du code de commerce, aux fins de
+IV.-L'organisme établit annuellement un bilan, un compte de résultat et une
+annexe. L'organisme nomme un commissaire aux comptes et un suppléant choisis sur
+la liste mentionnée à l'article L. 822-1 du code de commerce, aux fins de
 certification des comptes.
 
-V.-Les statuts de l'association instituent une commission chargée des
-immatriculations au registre des intermédiaires en assurance. Elle est composée
+V.-Les statuts de l'organisme instituent une commission chargée des
+immatriculations au registre mentionné à l'article L. 512-1. Elle est composée
 de membres nommés pour une durée de cinq ans par arrêté du ministre chargé de
 l'économie, après consultation des organisations professionnelles concernées.
 Avant de procéder à l'immatriculation, la commission vérifie l'ensemble des
@@ -41,16 +41,16 @@ procédure pénale.
 Cette disposition ne fait pas obstacle à l'échange d'informations avec les
 autorités compétentes des autres Etats membres de la Communauté européenne ou
 des autres Etats parties à l'accord sur l'Espace économique européen, relatives
-à l'immatriculation au registre, ni à la communication par l'association, à
-toute personne qui y a intérêt et qui en fait la demande, du nom du mandant ou
-du nom de l'entreprise qui a délivré à l'intermédiaire l'attestation visée au
-III de l'article R. 512-14 ou celle visée au III de l'article R. 512-15, ainsi
-que des références du contrat auquel l'attestation se rapporte.
+à l'immatriculation au registre, ni à la communication par l'organisme, à toute
+personne qui y a intérêt et qui en fait la demande, du nom de l'entreprise qui a
+délivré à l'intermédiaire l'attestation visée au III de l'article R. 512-14 ou
+celle visée au III de l'article R. 512-15, ainsi que des références du contrat
+auquel l'attestation se rapporte.
 
-VII.-Les dossiers et fichiers correspondants sont conservés sur papier ou sur
-tout autre support durable pendant une durée de cinq ans à compter de la date de
-radiation du fichier.
+VII.-Les dossiers et fichiers correspondants sont conservés sur tout support
+durable pendant une durée de cinq ans à compter de la date de radiation du
+fichier.
 
-VIII.-En cas de dissolution de l'association, l'excédent de l'actif net sur le
+VIII.-En cas de dissolution de l'organisme, l'excédent de l'actif net sur le
 passif est dévolu soit à un autre organisme ayant un objet similaire, soit à
 l'Etat.

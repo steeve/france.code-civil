@@ -1,6 +1,6 @@
 Article R621-31
 ----
-I. - Pour exercer ses pouvoirs de contrôle et d'enquête, l'Autorité des marchés
+I.-Pour exercer ses pouvoirs de contrôle et d'enquête, l'Autorité des marchés
 financiers peut recourir :
 
 1° Aux membres de son personnel ;
@@ -28,8 +28,13 @@ g) A des experts inscrits sur une liste d'experts judiciaires ;
 h) A des personnes ou organismes compétents en matière d'études ou de conseil
 dans le domaine financier.
 
-II. - En application du 1° de l'article L. 621-9-2, l'Autorité des marchés
+II.-En application du 1° de l'article L. 621-9-2, l'Autorité des marchés
 financiers peut recourir à une entreprise de marché ou une chambre de
 compensation pour assurer le contrôle de l'activité et des opérations effectuées
 par les membres d'un marché réglementé ou par un prestataire de services
 d'investissement ayant transmis des ordres sur le marché.
+
+III.-En application du 3° de l'article L. 621-9-2, l'Autorité des marchés
+financiers peut recourir aux associations de conseillers en investissements
+financiers mentionnées à l'article L. 541-4 pour assurer le contrôle de
+l'activité de leurs membres.
