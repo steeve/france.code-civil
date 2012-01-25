@@ -31,14 +31,15 @@ espace boisé classé, les coupes et abattages d'arbres sont soumis à la
 déclaration préalable prévue par l'article L. 421-4, sauf dans les cas suivants
 :
 
--s'il est fait application des dispositions du livre I du code forestier ;
+― s'il est fait application des dispositions du livre I du code forestier ;
 
--s'il est fait application d'un plan simple de gestion agréé conformément à
-l'article L. 222-1 du code forestier ou d'un règlement type de gestion approuvé
-conformément aux dispositions du II de l'article L. 8 et de l'article L. 222-6
-du même code ;
+― s'il est fait application d'un plan simple de gestion agréé conformément aux
+articles L312-2 et L312-3 du nouveau code forestier, d'un règlement type de
+gestion approuvé conformément aux articles L. 124-1 et L. 313-1 du même code ou
+d'un programme des coupes et travaux d'un adhérent au code des bonnes pratiques
+sylvicoles agréé en application de l'article L. 124-2 dudit code ;
 
--si les coupes entrent dans le cadre d'une autorisation par catégories définies
+― si les coupes entrent dans le cadre d'une autorisation par catégories définies
 par arrêté préfectoral, après avis du Centre national de la propriété
 forestière.
 
