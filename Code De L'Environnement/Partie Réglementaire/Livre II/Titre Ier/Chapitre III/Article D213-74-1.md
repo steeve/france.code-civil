@@ -1,0 +1,26 @@
+Article D213-74-1
+----
+La majoration du taux de la redevance pour l'usage " alimentation en eau potable
+" est appliquée si le plan d'actions mentionné au deuxième alinéa de l'article
+L. 2224-7-1 du code général des collectivités territoriales n'est pas établi
+dans les délais prescrits au V de l'article L. 213-10-9 lorsque le rendement du
+réseau de distribution d'eau calculé pour l'année précédente ou, en cas de
+variations importantes des ventes d'eau, sur les trois dernières années, et
+exprimé en pour cent, est inférieur à 85 ou, lorsque cette valeur n'est pas
+atteinte, au résultat de la somme d'un terme fixe égal à 65 et du cinquième de
+la valeur de l'indice linéaire de consommation égal au rapport entre, d'une
+part, le volume moyen journalier consommé par les usagers et les besoins du
+service, augmenté des ventes d'eau à d'autres services, exprimé en mètres cubes,
+et, d'autre part, le linéaire de réseaux hors branchements exprimé en
+kilomètres. Si les prélèvements réalisés sur des ressources faisant l'objet de
+règles de répartition sont supérieurs à 2 millions de m ³/ an, la valeur du
+terme fixe est égale à 70.
+
+Le plan d'actions inclut un suivi annuel du rendement des réseaux de
+distribution d'eau, tenant compte des livraisons d'eau de l'année au titre de
+laquelle un taux de pertes en eau supérieur à la valeur mentionnée à l'alinéa
+précédent a été constaté. En application du plan d'actions, le descriptif
+détaillé des ouvrages de transport et de distribution d'eau potable défini à
+l'article D. 2224-5-1 du code général des collectivités territoriales est mis à
+jour en indiquant les secteurs ayant fait l'objet de recherches de pertes d'eau
+par des réseaux de distributions ainsi que les réparations effectuées.
