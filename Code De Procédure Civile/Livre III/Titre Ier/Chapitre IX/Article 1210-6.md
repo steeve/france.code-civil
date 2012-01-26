@@ -1,13 +1,13 @@
 Article 1210-6
 ----
-La décision de non-retour de l'enfant rendue à l'étranger ainsi que les
-documents qui l'accompagnent, transmis à l'autorité centrale française en
-application du 6 de l'article 11 du règlement (CE) n° 2201/2003 du Conseil du 27
-novembre 2003 relatif à la compétence, la reconnaissance et l'exécution des
-décisions en matière matrimoniale et en matière de responsabilité parentale,
-sont communiqués au ministère public près le tribunal de grande instance visé à
-l'article 1210-4, qui en saisit le juge aux affaires familiales par requête.
-
-Nonobstant les articles 100 et 101 du présent code, les autres juges aux
-affaires familiales saisis du même litige, ou de litiges connexes, se
-dessaisissent à son profit.
+En l'absence d'exécution volontaire de la décision de retour, le procureur de la
+République compétent en application de l'article 12-1 de la loi n° 91-650 du 9
+juillet 1991 pour requérir directement la force publique afin de faire exécuter
+la décision est celui près le tribunal de grande instance spécialement désigné
+en application de l'article L. 211-12 du code de l'organisation judiciaire, dans
+le ressort duquel se trouve l'enfant. Il informe, s'il y a lieu, le procureur de
+la République près le tribunal de grande instance dans le ressort duquel se
+trouve l'enfant de son intention de requérir la force publique pour faire
+exécuter la décision de retour et peut recueillir de ce dernier toutes
+informations utiles, notamment au regard des risques que l'exécution de la
+décision pourrait entraîner.
