@@ -1,8 +1,8 @@
 Article R321-61
 ----
 Le Conseil des ventes volontaires de meubles aux enchères publiques assure
-l'échange avec les autorités compétentes des autres Etats membres de la
-Communauté européenne ou parties à l'accord sur l'Espace économique européen des
+l'échange avec les autorités compétentes des autres Etats membres de l'Union
+européenne ou parties à l'accord sur l'Espace économique européen des
 informations nécessaires au traitement de la plainte d'un destinataire de
 services fournis dans le cadre d'une vente volontaire de meubles aux enchères
 publiques assurée dans le cadre d'une prestation de services par un

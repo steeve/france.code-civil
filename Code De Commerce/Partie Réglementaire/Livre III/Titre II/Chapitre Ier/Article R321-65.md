@@ -3,7 +3,7 @@ Article R321-65
 Sont réputés avoir la qualification requise pour diriger les ventes volontaires
 de meubles aux enchères publiques, sans avoir à remplir les conditions prévues
 aux 3°, 4° et 5° de l'article R. 321-18, les ressortissants d'un Etat membre de
-la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique
+l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique
 européen, titulaires d'un ou plusieurs diplômes ou titres de formation assimilés
 sanctionnant un cycle d'études postsecondaires, d'une durée d'au moins un an ou
 d'une durée équivalente en cas d'études à temps partiel et dont l'une des
