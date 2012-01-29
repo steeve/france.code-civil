@@ -15,6 +15,11 @@ moyens des hôpitaux des armées. Le protocole, conclu en application de l'artic
 L. 6114-1 du code de la santé publique, est signé par le ministre de la défense
 et les ministres chargés de la santé et de la sécurité sociale.
 
+Ce protocole précise les obligations du service de santé des armées pour
+l'accomplissement des missions de service public qu'il assure ou contribue à
+assurer et, le cas échéant, les modalités de calcul de leur compensation
+financière.
+
 Chaque année, l'agence évalue les missions d'intérêt général mentionnées dans ce
 protocole. Sur cette base, le montant de la dotation annuelle de financement des
 missions d'intérêt général et d'aide à la contractualisation est arrêté, dans
