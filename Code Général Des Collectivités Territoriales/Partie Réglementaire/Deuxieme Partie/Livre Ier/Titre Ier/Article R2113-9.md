@@ -1,5 +1,6 @@
 Article R2113-9
 ----
-Dans chaque commune, les résultats sont consignés dans un procès-verbal rédigé
-en double exemplaire ; l'un des exemplaires reste déposé au secrétariat de la
-mairie, l'autre est transmis immédiatement au préfet.
+Au vu des procès-verbaux communaux, le préfet totalise et constate les résultats
+de la consultation dans chacune des communes concernées ; il en dresse
+procès-verbal notifié aux maires des communes intéressées et en fait assurer la
+publication dans chacune de ces communes.

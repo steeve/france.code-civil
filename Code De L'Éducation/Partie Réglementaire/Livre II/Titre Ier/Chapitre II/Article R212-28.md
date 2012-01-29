@@ -2,10 +2,13 @@ Article R212-28
 ----
 Pour les caisses des écoles des communes associées mentionnées aux articles L.
 2113-14 et L. 2113-17 à L. 2113-20 du code général des collectivités
-territoriales, et des autres communes associées où le conseil municipal a décidé
-de faire application des articles L. 2113-26 et L. 2511-29 du code général des
-collectivités territoriales, le comité de la caisse comprend, dans chacune de
-ces communes associées :
+territoriales, dans leur rédaction antérieure à la loi n° 2010-1563 du 16
+décembre 2010 de réforme des collectivités territoriales, et des autres communes
+associées où le conseil municipal a décidé de faire application des articles L.
+2113-26, dans sa rédaction antérieure à la même loi, et L. 2511-29 du même code,
+ou des communes déléguées mentionnées à l'article L. 2113-10 du même code, dans
+sa rédaction issue de la même loi, le comité de la caisse comprend, dans chacune
+de ces communes associées ou déléguées :
 
 a) Des représentants de la commune ;
 
@@ -23,7 +26,7 @@ Les représentants de la commune sont le maire délégué, président, et les me
 du conseil consultatif ou de la commission consultative désignés par celui-ci.
 
 Sont membres de droit les inspecteurs de l'éducation nationale chargés de
-l'inspection des écoles de la commune associée.
+l'inspection des écoles de la commune associée ou de la commune déléguée.
 
 Les personnalités désignées sont choisies pour moitié par le maire délégué et
 pour moitié par le préfet du département. Toutefois, lorsque le nombre de

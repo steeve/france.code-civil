@@ -1,3 +1,3 @@
 Article D5842-11
 ----
-Les articles R. 5214-1-1 et R. 5214-2 sont applicables en Polynésie française.
+L'article R. 5214-1-1 est applicable en Polynésie française.
