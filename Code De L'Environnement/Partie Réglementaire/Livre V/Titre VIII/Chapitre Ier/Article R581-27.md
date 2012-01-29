@@ -1,7 +1,8 @@
 Article R581-27
 ----
-Les abris destinés au public peuvent supporter des publicités d'une surface
-unitaire maximale de 2 mètres carrés, sans que la surface totale de ces
-publicités puisse excéder 2 mètres carrés, plus 2 mètres carrés par tranche
-entière de 4,50 mètres carrés de surface abritée au sol. L'installation de
-dispositifs publicitaires surajoutés sur le toit de ces abris est interdite.
+La publicité non lumineuse ne peut être apposée à moins de 0,50 mètre du niveau
+du sol.
+
+La publicité non lumineuse ne peut être apposée sur une toiture ou une terrasse
+en tenant lieu, ni dépasser les limites du mur qui la supporte, ni, le cas
+échéant, dépasser les limites de l'égout du toit.

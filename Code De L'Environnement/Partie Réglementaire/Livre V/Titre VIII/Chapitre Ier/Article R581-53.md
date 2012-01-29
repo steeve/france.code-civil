@@ -1,13 +1,23 @@
 Article R581-53
 ----
-Les bâtiments supportant de la publicité ne peuvent stationner ou séjourner dans
-des lieux mentionnés aux 2° et 3° de l'article L. 581-4 et à l'article L. 581-8
-ou sur les plans d'eau ou parties de plans d'eau situés à moins de 100 mètres de
-ces lieux.
+I.-Au sens de la présente sous-section, les bâches comprennent :
 
-De même, ces bâtiments ne peuvent stationner ou séjourner à moins de 40 mètres
-du bord extérieur de la chaussée d'une voie routière ouverte à la circulation
-publique s'ils sont visibles de cette voie.
+1° Les bâches de chantier, qui sont des bâches comportant de la publicité
+installées sur des échafaudages nécessaires à la réalisation de travaux ;
 
-Ils ne peuvent circuler à moins de trois cents mètres les uns des autres, ni
-circuler à vitesse anormalement réduite.
+2° Les bâches publicitaires, qui sont des bâches comportant de la publicité
+autres que les bâches de chantier.
+
+II.-Les bâches ne sont pas autorisées à l'intérieur des agglomérations de moins
+de 10 000 habitants.
+
+Dans les autres agglomérations les bâches sont interdites si la publicité
+qu'elles supportent est visible d'une autoroute, d'une bretelle de raccordement
+une autoroute, d'une route express, d'une déviation, d'une voie publique,
+situées hors agglomération, ainsi que dans les cas prévus par l'article R. 418-7
+du code de la route.
+
+III.-Les dispositions des articles R. 581-22 à R. 581-24, de l'article R.
+581-27, des articles R. 581-29 à R. 581-30, de l'article R. 581-33, des premier,
+deuxième et quatrième alinéas de l'article R. 581-34, des articles R. 581-35 à
+R. 581-37 et de l'article R. 581-41 sont applicables aux bâches.

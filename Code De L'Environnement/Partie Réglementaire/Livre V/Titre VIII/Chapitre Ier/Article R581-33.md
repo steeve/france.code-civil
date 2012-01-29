@@ -1,10 +1,10 @@
 Article R581-33
 ----
-Si le dossier est incomplet, le maire, dans les quinze jours suivant la
-réception de ce dossier, invite, par lettre recommandée avec demande d'avis de
-réception postale, le demandeur à fournir toutes les pièces complémentaires aux
-destinataires du dossier.
+Un dispositif publicitaire non lumineux, scellé au sol ou installé directement
+sur le sol, ne peut être placé à moins de dix mètres d'une baie d'un immeuble
+d'habitation situé sur un fonds voisin lorsqu'il se trouve en avant du plan du
+mur contenant cette baie.
 
-La date de réception par le maire de ces éléments et pièces complémentaires se
-substitue à celle de la demande initiale pour le calcul du délai à l'expiration
-duquel le défaut de notification vaut autorisation.
+En outre, l'implantation d'un dispositif de cette nature ne peut être faite à
+une distance inférieure à la moitié de sa hauteur d'une limite séparative de
+propriété.

@@ -1,17 +1,11 @@
 Article R581-70
 ----
-I. - La demande d'autorisation est établie en deux exemplaires et adressée par
-la personne ou l'entreprise qui exploite l'enseigne, par pli recommandé avec
-demande d'avis de réception postal, au préfet, ou déposée contre décharge à la
-préfecture.
+Les enseignes temporaires sont régies par les dispositions de la présente
+sous-section et du deuxième alinéa de l'article R. 581-58, des deuxième à
+cinquième alinéas de l'article R. 581-59, du premier alinéa de l'article R.
+581-60, des premier et deuxième alinéas de l'article R. 581-61, du dernier
+alinéa de l'article R. 581-62 et de l'article R. 581-64.
 
-II. - La demande comporte :
-
-1° L'identité et l'adresse du demandeur ;
-
-2° Un plan de situation, avec l'indication des immeubles bâtis les plus proches
-;
-
-3° Une notice descriptive mentionnant, notamment, la puissance de la source
-laser, les caractéristiques du ou des faisceaux et la description des effets
-produits.
+Lorsqu'il s'agit d'enseignes mentionnées au 2° de l'article R. 581-68, leur
+surface unitaire maximale est de 12 mètres carrés lorsqu'elles sont scellées au
+sol ou installées directement sur le sol.

@@ -1,10 +1,13 @@
 Article R581-55
 ----
-Une enseigne doit être constituée par des matériaux durables.
+Les bâches publicitaires peuvent être installées sur les seuls murs aveugles ou
+ceux comportant des ouvertures d'une surface unitaire inférieure à 0,50 mètre
+carré. Elles ne peuvent recouvrir tout ou partie d'une baie.
 
-Elle doit être maintenue en bon état de propreté, d'entretien et, le cas
-échéant, de fonctionnement, par la personne exerçant l'activité qu'elle signale.
+La bâche publicitaire est située sur le mur qui la supporte ou sur un plan
+parallèle à ce mur. Elle ne peut constituer par rapport à ce mur une saillie
+supérieure à 0,50 mètre, à moins que celui-ci soit édifié en retrait des autres
+murs de l'immeuble et à condition qu'elle ne soit pas en saillie par rapport à
+ceux-ci.
 
-Elle est supprimée par la personne qui exerçait l'activité signalée et les lieux
-sont remis en état dans les trois mois de la cessation de cette activité, sauf
-lorsqu'elle présente un intérêt historique, artistique ou pittoresque.
+La distance entre deux bâches publicitaires est d'au moins 100 mètres.

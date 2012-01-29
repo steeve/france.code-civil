@@ -1,7 +1,9 @@
 Article R581-13
 ----
-Aucune publicité non lumineuse ne peut être apposée sur un mur sans que les
-publicités anciennes existant au même endroit aient été supprimées.
+La décision est notifiée au demandeur par envoi recommandé avec demande d'avis
+de réception postale au plus tard deux mois après la réception d'une demande
+complète, ou des informations, pièces et documents qui complètent le dossier,
+par l'autorité compétente pour instruire l'autorisation.
 
-Il est toutefois dérogé à cette disposition lorsqu'il s'agit de publicités
-peintes d'intérêt artistique, historique ou pittoresque.
+A défaut de notification dans ce délai, l'autorisation est réputée accordée dans
+les termes où elle a été demandée.

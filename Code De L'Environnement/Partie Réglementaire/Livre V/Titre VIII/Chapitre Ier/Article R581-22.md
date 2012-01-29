@@ -1,13 +1,17 @@
 Article R581-22
 ----
-Sans préjudice de l'application des dispositions de l'article L. 581-4, les
-dispositifs publicitaires non lumineux scellés au sol ou installés directement
-sur le sol sont interdits en agglomération :
+Sans préjudice de l'application des dispositions de l'article L. 581-4, la
+publicité est interdite :
 
-1° Dans les espaces boisés classés en application de l'article L. 130-1 du code
-de l'urbanisme ;
+1° Sur les monuments naturels, les plantations, les poteaux de transport et de
+distribution électrique, les poteaux de télécommunication, les installations
+d'éclairage public ainsi que sur les équipements publics concernant la
+circulation routière, ferroviaire, fluviale, maritime ou aérienne ;
 
-2° Dans les zones à protéger en raison de la qualité des sites, des milieux
-naturels, des paysages et de leur intérêt notamment au point de vue esthétique
-ou écologique, et figurant sur un plan local d'urbanisme ou sur un plan
-d'occupation des sols.
+2° Sur les murs des bâtiments sauf quand ces murs sont aveugles ou qu'ils ne
+comportent qu'une ou plusieurs ouvertures d'une surface unitaire inférieure à
+0,50 mètre carré ;
+
+3° Sur les clôtures qui ne sont pas aveugles ;
+
+4° Sur les murs de cimetière et de jardin public.

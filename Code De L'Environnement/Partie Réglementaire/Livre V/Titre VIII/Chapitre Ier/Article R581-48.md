@@ -1,7 +1,19 @@
 Article R581-48
 ----
-Lorsqu'un plan de sauvegarde et de mise en valeur d'un secteur sauvegardé a été
-rendu public ou approuvé avant le 1er juillet 1983 et que le règlement annexé à
-ce plan comporte des prescriptions en matière de publicité, ces dernières
-demeurent applicables tant qu'elles n'ont pas été modifiées dans le cadre de
-l'institution d'une zone de publicité restreinte.
+Les véhicules terrestres utilisés ou équipés aux fins essentiellement de servir
+de support à de la publicité ou à des préenseignes ne peuvent stationner ou
+séjourner en des lieux où celles-ci sont visibles d'une voie ouverte à la
+circulation publique.
+
+Ils ne peuvent ni circuler en convoi de deux ou plusieurs véhicules, ni à
+vitesse anormalement réduite.
+
+En outre, ils ne peuvent pas circuler dans les lieux interdits à la publicité en
+application des articles L. 581-4 et L. 581-8. La surface totale des publicités
+apposées sur chaque véhicule ne peut excéder 12 mètres carrés.
+
+Des dérogations à ces interdictions peuvent être accordées, à titre
+exceptionnel, par l'autorité de police à l'occasion de manifestations
+particulières.
+
+La publicité lumineuse est interdite sur les véhicules terrestres.

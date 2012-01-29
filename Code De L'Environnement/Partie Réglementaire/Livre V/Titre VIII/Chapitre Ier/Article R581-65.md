@@ -1,9 +1,13 @@
 Article R581-65
 ----
-Le maire fait connaître, par lettre, au demandeur, dans les quinze jours de la
-réception du dossier complet, le numéro d'enregistrement du dossier et la date
-avant laquelle la décision devra lui être notifiée.
+I. - La surface unitaire maximale des enseignes mentionnées à l'article R.
+581-59 est de 6 mètres carrés.
 
-Il lui fait connaître, par la même lettre, que, si aucune décision ne lui a été
-notifiée avant cette date, cette lettre vaudra autorisation, sous réserve du
-respect des dispositions de la présente section.
+Elle est portée à 12 mètres carrés dans les agglomérations de plus de 10 000
+habitants.
+
+II. - Ces enseignes ne peuvent dépasser :
+
+1° 6,50 mètres de haut lorsqu'elles ont plus de 1 mètre de large ;
+
+2° 8 mètres de haut lorsqu'elles ont moins de 1 mètre de large.

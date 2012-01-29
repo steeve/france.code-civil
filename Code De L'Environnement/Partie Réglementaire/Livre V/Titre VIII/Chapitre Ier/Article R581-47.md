@@ -1,8 +1,9 @@
 Article R581-47
 ----
-Lorsqu'une zone de publicité élargie est instituée en application du sixième
-alinéa du II de l'article L. 581-8, les dispositions des alinéas 4, 5 et 6 du I
-de l'article L. 581-14 ne sont pas applicables.
-
-L'acte instituant la zone de publicité élargie est, dans ce cas, un arrêté
-ministériel pris après avis de la commission supérieure des sites.
+Le mobilier urbain destiné à recevoir des informations non publicitaires à
+caractère général ou local, ou des oeuvres artistiques, ne peut supporter une
+publicité commerciale excédant la surface totale réservée à ces informations et
+oeuvres. Lorsque ce mobilier urbain supporte une publicité d'une surface
+unitaire supérieure à 2 mètres carrés et qu'il s'élève à plus de 3 mètres
+au-dessus du sol, il doit être conforme aux dispositions des articles R. 581-31
+et R. 581-32 et du premier alinéa de l'article R. 581-33.

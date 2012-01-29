@@ -1,11 +1,16 @@
 Article R581-77
 ----
-Les enseignes temporaires sont soumises à autorisation du maire lorsqu'elles
-sont installées sur un immeuble ou dans un lieu mentionné à l'article L. 581-4
-ou lorsqu'elles sont scellées au sol ou installées sur le sol dans un lieu
-mentionné à l'article L. 581-8.
+Lorsque le règlement local de publicité autorise, sur le fondement de l'article
+L. 581-7, les dispositifs publicitaires à proximité immédiate des établissements
+de centres commerciaux exclusifs de toute habitation situés hors agglomération,
+il délimite le périmètre à l'intérieur duquel les dispositifs publicitaires sont
+ainsi autorisés et édicte les prescriptions qui leur sont applicables.
 
-Cette autorisation est délivrée après avis de l'architecte des Bâtiments de
-France lorsqu'il s'agit des enseignes temporaires définies au 2° de l'article R.
-581-74 et situées sur un immeuble ou dans un lieu mentionné à l'article L.
-581-4.
+Dans ce périmètre, les dispositifs publicitaires respectent les prescriptions de
+surface et de hauteur applicables aux dispositifs publicitaires situés dans les
+agglomérations de plus de 10 000 habitants.
+
+Dans ce périmètre, les dispositifs publicitaires sont interdits si les affiches
+qu'ils supportent ne sont visibles que d'une autoroute, d'une bretelle de
+raccordement à une autoroute, d'une route express ou d'une déviation ou voie
+publique située hors agglomération.

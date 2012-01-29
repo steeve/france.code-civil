@@ -1,32 +1,14 @@
 Article R581-6
 ----
-La déclaration préalable comporte :
+Sous réserve de l'application des dispositions de l'article R. 581-9, font
+l'objet d'une déclaration préalable, l'installation, le remplacement ou la
+modification :
 
-1° Lorsque le dispositif ou le matériel est implanté sur une propriété privée :
+-d'un dispositif ou d'un matériel qui supporte de la publicité ;
 
-a) L'identité et l'adresse du déclarant ;
+-de préenseignes dont les dimensions excèdent 1 mètre en hauteur ou 1,50 mètre
+en largeur.
 
-b) La localisation et la superficie du terrain ;
-
-c) La nature du dispositif ou du matériel ;
-
-d) L'indication de la distance de l'installation projetée par rapport aux
-limites séparatives et aux baies des immeubles situés sur les fonds voisins ;
-
-e) L'indication du nombre et de la nature des dispositifs déjà installés sur le
-terrain ;
-
-f) Un plan de situation du terrain, un plan de masse coté et la représentation
-graphique du dispositif ou du matériel cotée en trois dimensions.
-
-2° Lorsque le dispositif ou le matériel est implanté sur le domaine public :
-
-a) L'identité et l'adresse du déclarant ;
-
-b) L'emplacement du dispositif ou du matériel ;
-
-c) La nature du dispositif ou du matériel ainsi que sa représentation graphique
-cotée en trois dimensions ;
-
-d) L'indication de la distance de l'installation projetée par rapport aux baies
-des immeubles situés sur les fonds voisins.
+Le remplacement ou la modification des bâches comportant de la publicité fait
+aussi l'objet d'une déclaration préalable à l'autorité compétente en matière de
+police en vertu de l'article L. 581-14-2.

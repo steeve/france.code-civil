@@ -1,9 +1,20 @@
 Article R581-31
 ----
-Le mobilier urbain destiné à recevoir des informations non publicitaires à
-caractère général ou local, ou des oeuvres artistiques, ne peut supporter une
-publicité commerciale excédant la surface totale réservée à ces informations et
-oeuvres. Lorsque ce mobilier urbain supporte une publicité d'une surface
-unitaire supérieure à 2 mètres carrés et qu'il s'élève à plus de 3 mètres
-au-dessus du sol, il doit être conforme aux dispositions des articles R. 581-23
-et R. 581-24 et du premier alinéa de l'article R. 581-25.
+Les dispositifs publicitaires non lumineux, scellés au sol ou installés
+directement sur le sol sont interdits dans les d'agglomérations de moins de 10
+000 habitants ne faisant pas partie d'une unité urbaine de plus de 100 000
+habitants.
+
+Dans les autres agglomérations ces dispositifs sont interdits si les affiches
+qu'ils supportent sont visibles d'une autoroute ou d'une bretelle de
+raccordement à une autoroute ainsi que d'une route express, déviation ou voie
+publique situées hors agglomération.
+
+Sur l'emprise des aéroports et des gares, ces dispositifs sont interdits si les
+affiches qu'ils supportent :
+
+- ne sont visibles que d'une autoroute ou d'une bretelle de raccordement à une
+autoroute ainsi que d'une route express ;
+
+- ne sont visibles que d'une déviation ou voie publique située hors
+agglomération et hors de l'emprise des aéroports et des gares ferroviaires.

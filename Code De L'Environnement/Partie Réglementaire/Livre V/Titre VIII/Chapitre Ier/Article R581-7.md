@@ -1,9 +1,32 @@
 Article R581-7
 ----
-La déclaration préalable est adressée par pli recommandé avec demande d'avis de
-réception postal au maire de la commune et au préfet, ou déposée contre décharge
-à la mairie et à la préfecture.
+La déclaration préalable comporte :
 
-A compter de la date de réception la plus tardive de la déclaration, le
-déclarant peut procéder, sous sa responsabilité, à la réalisation du projet
-déclaré.
+1° Lorsque le dispositif ou le matériel est implanté sur une propriété privée :
+
+a) L'identité et l'adresse du déclarant ;
+
+b) La localisation et la superficie du terrain ;
+
+c) La nature du dispositif ou du matériel ;
+
+d) L'indication de la distance de l'installation projetée par rapport aux
+limites séparatives et aux baies des immeubles situés sur les fonds voisins ;
+
+e) L'indication du nombre et de la nature des dispositifs déjà installés sur le
+terrain ;
+
+f) Un plan de situation du terrain, un plan de masse coté et la représentation
+graphique du dispositif ou du matériel cotée en trois dimensions ;
+
+2° Lorsque le dispositif ou le matériel est implanté sur le domaine public :
+
+a) L'identité et l'adresse du déclarant ;
+
+b) L'emplacement du dispositif ou du matériel ;
+
+c) La nature du dispositif ou du matériel ainsi que sa représentation graphique
+cotée en trois dimensions ;
+
+d) L'indication de la distance de l'installation projetée par rapport aux baies
+des immeubles situés sur les fonds voisins.

@@ -1,5 +1,7 @@
 Article R581-73
 ----
-Les préenseignes dont les dimensions excèdent 1 mètre en hauteur ou 1,50 mètre
-en largeur sont soumises à la déclaration préalable instituée par l'article L.
-581-6, dans les conditions précisées par les articles R. 581-5 à R. 581-7.
+Le rapport de présentation s'appuie sur un diagnostic, définit les orientations
+et objectifs de la commune ou de l'établissement public de coopération
+intercommunale en matière de publicité extérieure, notamment de densité et
+d'harmonisation, et explique les choix retenus au regard de ces orientations et
+objectifs.

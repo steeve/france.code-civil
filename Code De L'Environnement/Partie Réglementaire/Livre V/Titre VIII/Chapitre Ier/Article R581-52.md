@@ -1,19 +1,13 @@
 Article R581-52
 ----
-I. - Les seuls dispositifs publicitaires admis sont constitués de panneaux
-plats.
+Les bâtiments supportant de la publicité ne peuvent stationner ou séjourner dans
+des lieux mentionnés aux 2° et 3° de l'article L. 581-4 et à l'article L. 581-8
+ou sur les plans d'eau ou parties de plans d'eau situés à moins de 100 mètres de
+ces lieux.
 
-II. - Chaque dispositif ne peut excéder :
+De même, ces bâtiments ne peuvent stationner ou séjourner à moins de 40 mètres
+du bord extérieur de la chaussée d'une voie routière ouverte à la circulation
+publique s'ils sont visibles de cette voie.
 
-1° 5 mètres dans le sens horizontal, sans pouvoir dépasser un dixième de la
-longueur hors tout du bâtiment ;
-
-2° 0,75 mètre dans le sens vertical, sans pouvoir s'élever à plus d'un mètre
-au-dessus du niveau du point le plus bas du plat-bord ou, à défaut de plat-bord,
-du point le plus bas du bordé fixe.
-
-III. - En outre, la surface totale des publicités apposées ou installées sur un
-bâtiment ne peut excéder 8 mètres carrés.
-
-IV. - Les dispositifs publicitaires ne doivent être ni lumineux, ni
-luminescents, ni réfléchissants, ni éclairés par projection ou par transparence.
+Ils ne peuvent circuler à moins de trois cents mètres les uns des autres, ni
+circuler à vitesse anormalement réduite.

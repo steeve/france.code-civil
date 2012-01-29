@@ -1,9 +1,6 @@
 Article R581-14
 ----
-La publicité lumineuse est la publicité à la réalisation de laquelle participe
-une source lumineuse spécialement prévue à cet effet.
-
-Les dispositions du présent paragraphe ne sont pas applicables aux dispositifs
-de publicité lumineuse ne supportant que des affiches éclairées par projection
-ou par transparence, lesquels sont soumis aux dispositions des articles R. 581-8
-à R. 581-25.
+La déclaration de l'installation d'une publicité sur l'emprise d'un aéroport est
+assortie de l'accord du gestionnaire de l'aéroport ainsi que des documents
+établissant qu'elle respecte les règles de sécurité applicables sur ladite
+emprise.

@@ -1,11 +1,11 @@
 Article R581-78
 ----
-Les autorisations prévues par l'article R. 581-77 sont délivrées selon la
-procédure définie aux articles R. 581-63 à R. 581-66.
+Le ou les documents graphiques font apparaître sur l'ensemble du territoire de
+la commune ou de l'intercommunalité les zones et, le cas échéant, les
+périmètres, identifiés par le règlement local de publicité et sont annexés à
+celui-ci.
 
-Le délai à l'expiration duquel le défaut de notification de la décision vaut
-octroi d'autorisation est d'un mois.
-
-Toutefois, il est porté à deux mois lorsqu'un avis est requis. Cet avis est
-réputé favorable s'il n'a pas été communiqué au maire quinze jours avant
-l'expiration de ce délai.
+Les limites de l'agglomération fixées par le maire en application de l'article
+R. 411-2 du code de la route sont également représentées sur un document
+graphique annexé, avec les arrêtés municipaux fixant lesdites limites, au
+règlement local de publicité.

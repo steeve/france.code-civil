@@ -1,15 +1,11 @@
 Article R581-36
 ----
-La délibération par laquelle un conseil municipal demande la création ou la
-modification, sur le territoire de la commune, d'une zone de publicité
-autorisée, d'une zone de publicité restreinte ou d'une zone de publicité
-élargie, fait l'objet d'une publication par extrait au recueil des actes
-administratifs de la préfecture et d'une mention insérée en caractères apparents
-dans deux journaux régionaux ou locaux diffusés dans tout le département.
+La publicité lumineuse ne peut :
 
-Lorsque la procédure de création d'une zone de publicité autorisée, d'une zone
-de publicité restreinte ou d'une zone de publicité élargie est engagée par le
-préfet, après consultation du maire, dans les conditions prévues au dernier
-alinéa du I de l'article L. 581-14, l'arrêté du préfet ouvrant l'instruction
-fait l'objet des mesures de publicité prévues au premier alinéa du présent
-article.
+1° Recouvrir tout ou partie d'une baie ;
+
+2° Dépasser les limites du mur qui la supporte ;
+
+3° Etre apposée sur un garde-corps de balcon ou balconnet ;
+
+4° Etre apposée sur une clôture.

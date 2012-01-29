@@ -1,20 +1,21 @@
 Article R581-8
 ----
-I. - Sans préjudice de l'application des dispositions de l'article L. 581-4, la
-publicité non lumineuse est interdite en agglomération :
+La déclaration préalable, établie en deux exemplaires, est adressée par la
+personne ou l'entreprise qui projette d'exploiter le dispositif ou le matériel
+par pli recommandé avec demande d'avis de réception postal ou déposée contre
+décharge, à l'autorité compétente en matière de police de la publicité du lieu
+où est envisagé l'implantation du dispositif ou du matériel.
 
-1° Sur les monuments naturels, les plantations, les poteaux de transport et de
-distribution électrique, les poteaux de télécommunication, les installations
-d'éclairage public ainsi que sur les équipements publics concernant la
-circulation routière, ferroviaire, fluviale, maritime ou aérienne ;
+Le formulaires de déclaration préalable est un document CERFA dont le contenu
+est déterminé par arrêté du ministre chargé de l'environnement.
 
-2° Sur les murs des bâtiments d'habitation sauf quand ces murs sont aveugles ou
-qu'ils ne comportent que des ouvertures de surface réduite ;
+La déclaration préalable peut également être adressée par voie électronique avec
+demande d'accusé de réception électronique lorsque le maire ou le préfet est en
+mesure d'assurer une transmission sécurisée et confidentielle.
 
-3° Sur les clôtures qui ne sont pas aveugles ;
+Lorsqu'une déclaration de remplacement ou de modification de bâche est adressée
+au préfet, celui-ci en informe le maire qui a autorisé l'emplacement de bâche.
 
-4° Sur les murs de cimetière et de jardin public.
-
-II. - Ces dispositions ne s'appliquent pas aux bâtiments ou parties de bâtiments
-dont la démolition est entreprise ou dans les zones mentionnées à l'article L.
-430-1 du code de l'urbanisme, faisant l'objet d'un permis de démolir.
+A compter de la date de réception de la déclaration par l'autorité compétente,
+le déclarant peut procéder, sous sa responsabilité, à la réalisation du projet
+déclaré.
