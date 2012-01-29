@@ -13,3 +13,9 @@ changement d'adresse :
 2° Dans le cas contraire, la transformation de leur immatriculation, avec
 indication en tant que de besoin des renseignements prévus aux articles R.
 123-37 et R. 123-38.
+
+3° Dans tous les cas, lorsque, conformément à l'article L. 526-7, une
+déclaration d'affectation du patrimoine à l'activité professionnelle a été
+déposée au registre antérieurement au transfert d'établissement ou au changement
+d'adresse, la mention du lieu de dépôt de la déclaration d'affectation et des
+comptes ou documents mentionnés à l'article L. 526-14.
