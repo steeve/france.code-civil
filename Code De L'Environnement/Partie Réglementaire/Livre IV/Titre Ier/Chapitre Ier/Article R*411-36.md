@@ -28,9 +28,15 @@ et à la diversité biologique ;
 la nature et de l'agriculture, après consultation du Conseil national de la
 protection de la nature et du comité consultatif de la protection des végétaux,
 lorsque les espèces dont l'introduction dans le milieu naturel est envisagée
-sont des agents utilisés dans la lutte biologique contre les organismes
+sont des agents indigènes, au sens de l'article R. 258-1 du code rural et de la
+pêche maritime, utilisés dans la lutte biologique contre les organismes
 nuisibles, au sens de la deuxième phrase du premier alinéa de l'article L. 251-3
-du code rural et de la pêche maritime .
+du code rural et de la pêche maritime ;
+
+4° Conjointement par les ministres chargés, respectivement, de l'environnement
+et de l'agriculture, lorsque l'introduction dans le milieu naturel concerne des
+macro-organismes non indigènes utiles aux végétaux, en application de l'article
+L. 258-1 du code rural et de la pêche maritime.
 
 II.-L'autorisation d'introduction vaut, le cas échéant, autorisation de
 transport des animaux et des végétaux, prévue aux articles R. 411-7 et R. 411-8.
