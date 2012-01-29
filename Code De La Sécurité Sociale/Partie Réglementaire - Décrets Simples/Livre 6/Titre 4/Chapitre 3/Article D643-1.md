@@ -16,7 +16,9 @@ Le nombre de points attribué en application du dernier alinéa de l'article L.
 642-1 est de 400.
 
 Le nombre de points supplémentaires attribué en application du troisième alinéa
-de l'article L. 643-1 est égal à 100.
+de l'article L. 643-1 est égal à 100 sans que cette attribution puisse avoir
+pour effet de porter le nombre de points acquis dans le présent régime pour
+l'année considérée au-delà de 550.
 
 L'obligation d'avoir recours à l'assistance d'une tierce personne pour effectuer
 les actes ordinaires de la vie, prévue au quatrième alinéa de l'article L.
