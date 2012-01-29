@@ -1,9 +1,11 @@
 Article R4623-40
 ----
-La demande d'habilitation est adressée en trois exemplaires sous pli recommandé
-avec avis de réception, ou remise contre récépissé à l'un des organismes
-suivants : 1° La caisse régionale d'assurance maladie ; 2° L'association
-régionale du réseau de l'Agence nationale pour l'amélioration des conditions de
-travail ; 3° Le comité régional de l'Organisme professionnel de prévention du
-bâtiment et des travaux publics du lieu où le candidat a son siège ou exerce son
-activité principale. Il ne peut être déposé plus d'une demande par an.
+Dans les services de santé au travail interentreprises, l'assistant de service
+de santé au travail apporte une assistance administrative au médecin du travail
+et aux autres membres de l'équipe pluridisciplinaire dans leurs activités.
+
+Il contribue également à repérer les dangers et à identifier les besoins en
+santé au travail, notamment dans les entreprises de moins de vingt salariés. Il
+participe à l'organisation, à l'administration des projets de prévention et à la
+promotion de la santé au travail et des actions du service dans ces mêmes
+entreprises.

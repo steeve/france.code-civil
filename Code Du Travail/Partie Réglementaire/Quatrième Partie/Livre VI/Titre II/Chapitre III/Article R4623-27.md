@@ -1,5 +1,6 @@
 Article R4623-27
 ----
-L'intervenant en prévention des risques professionnels participe, dans un
-objectif exclusif de prévention, à la préservation de la santé et de la sécurité
-des travailleurs et à l'amélioration des conditions de travail.
+L'interne en médecine du travail est soumis aux dispositions relatives au régime
+de l'internat déterminé en application de l'article L. 6153-1 du code de la
+santé publique et à l'organisation du troisième cycle des études médicales fixée
+en application de l'article L. 632-2 du code de l'éducation.

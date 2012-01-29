@@ -1,9 +1,8 @@
 Article R4623-23
 ----
-L'inspecteur du travail procède à une enquête contradictoire au cours de
-laquelle le médecin du travail peut, sur sa demande, se faire assister par une
-personne de son choix appartenant au personnel du service de santé au travail ou
-de l'entreprise. L'inspecteur du travail prend sa décision dans un délai de
-quinze jours, réduit à huit jours en cas de mise à pied. Ce délai court à
-compter de la réception de la demande motivée présentée par l'employeur. Il
-n'est prolongé que si les nécessités de l'enquête le justifient.
+Lors du transfert partiel de l'entreprise ou de l'établissement auquel
+appartient le médecin du travail, seules les dispositions des articles R.
+4623-21 et R. 4623-22 s'appliquent. La demande d'autorisation de transfert
+prévue à l'article L. 4623-5-3 est adressée à l'inspecteur du travail par lettre
+recommandée avec avis de réception quinze jours avant la date arrêtée pour le
+transfert.

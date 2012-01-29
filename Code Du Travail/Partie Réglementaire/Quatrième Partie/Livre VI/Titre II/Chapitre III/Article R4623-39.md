@@ -1,6 +1,6 @@
 Article R4623-39
 ----
-Lorsqu'elle est délivrée à une personne physique, l'habilitation n'est pas
-soumise à renouvellement. Lorsqu'elle est délivrée à une personne morale,
-l'habilitation a une durée de cinq ans, renouvelable. L'habilitation est valable
-sur l'ensemble du territoire national.
+Lorsque le service de santé au travail ne dispose pas des compétences techniques
+nécessaires à son intervention, il fait appel, le cas échéant, à un intervenant
+en prévention des risques professionnels enregistré en application des
+dispositions de l'article L. 4644-1.

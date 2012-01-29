@@ -1,5 +1,9 @@
 Article R4624-5
 ----
-Le médecin du travail peut demander à tout moment à ce que les attestations,
-consignes, résultats, rapports de vérification et de contrôle mentionnés à
-l'article L. 4711-1 lui soient communiqués.
+Le médecin du travail ou, dans les services de santé au travail
+interentreprises, l'équipe pluridisciplinaire a accès à tous les documents non
+nominatifs rendus obligatoires par la présente partie.
+
+Ce droit d'accès s'exerce dans des conditions garantissant le caractère
+confidentiel des données ainsi que la protection des informations mentionnées à
+l'article R. 4624-9.

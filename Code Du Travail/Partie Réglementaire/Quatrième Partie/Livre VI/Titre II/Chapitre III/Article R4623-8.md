@@ -1,8 +1,7 @@
 Article R4623-8
 ----
-Lorsque l'effectif d'une entreprise ou d'un service de santé au travail
-interentreprises correspond à l'emploi d'un seul médecin du travail à temps
-plein ou à temps partiel, il ne peut être fait appel à plusieurs médecins du
-travail. Des dérogations peuvent être accordées, à titre exceptionnel, par le
-directeur régional des entreprises, de la concurrence, de la consommation, du
-travail et de l'emploi après avis du médecin inspecteur du travail.
+La consultation des instances mentionnées à l'article R. 4623-5 intervient au
+plus tard avant la fin de la période d'essai.
+
+A défaut d'accord de ces instances, la nomination intervient sur autorisation de
+l'inspecteur du travail prise après avis du médecin inspecteur du travail.

@@ -1,6 +1,6 @@
 Article R4624-20
 ----
-Le médecin du travail est juge de la fréquence et de la nature des examens que
-comporte la surveillance médicale renforcée. Ces dispositions ne font pas
-obstacle aux examens périodiques pratiqués en application des dispositions de la
-sous-section 2.
+En vue de favoriser le maintien dans l'emploi des salariés en arrêt de travail
+d'une durée de plus de trois mois, une visite de préreprise est organisée par le
+médecin du travail à l'initiative du médecin traitant, du médecin conseil des
+organismes de sécurité sociale ou du salarié.

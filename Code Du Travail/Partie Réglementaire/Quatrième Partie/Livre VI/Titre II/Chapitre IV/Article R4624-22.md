@@ -1,7 +1,11 @@
 Article R4624-22
 ----
-L'examen de reprise a pour objet d'apprécier l'aptitude médicale du salarié à
-reprendre son ancien emploi, la nécessité d'une adaptation des conditions de
-travail ou d'une réadaptation du salarié ou éventuellement de l'une et de
-l'autre de ces mesures. Cet examen a lieu lors de la reprise du travail et au
-plus tard dans un délai de huit jours.
+Le salarié bénéficie d'un examen de reprise du travail par le médecin du travail
+:
+
+1° Après un congé de maternité ;
+
+2° Après une absence pour cause de maladie professionnelle ;
+
+3° Après une absence d'au moins trente jours pour cause d'accident du travail,
+de maladie ou d'accident non professionnel.

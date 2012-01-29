@@ -1,7 +1,6 @@
 Article R4623-5
 ----
-Le médecin du travail ne peut être nommé qu'avec l'accord soit du comité
-d'entreprise, soit du comité interentreprises ou de la commission de contrôle du
-service de santé au travail interentreprises. Dans les services de santé au
-travail interentreprises administrés paritairement, le médecin du travail ne
-peut être nommé qu'avec l'accord du conseil d'administration.
+Le médecin du travail est nommé et affecté avec l'accord du comité d'entreprise
+ou, dans les services de santé au travail interentreprises, avec l'accord du
+comité interentreprises ou de la commission de contrôle, ainsi que du conseil
+d'administration.

@@ -1,8 +1,13 @@
 Article R4624-2
 ----
-L'employeur ou le président du service interentreprises prend toutes mesures
-pour permettre au médecin du travail de consacrer à ses missions en milieu de
-travail le tiers de son temps de travail. Ce temps comporte au moins cent
-cinquante demi-journées de travail effectif chaque année, réparties
-mensuellement, pour un médecin à plein temps. Pour un médecin à temps partiel,
-cette obligation est calculée proportionnellement à son temps de travail.
+Les actions sur le milieu de travail sont menées :
+
+1° Dans les entreprises disposant d'un service autonome de médecine du travail,
+par le médecin du travail, en collaboration avec les services chargés des
+activités de protection des salariés et de prévention des risques professionnels
+dans l'entreprise ;
+
+2° Dans les entreprises adhérant à un service de santé au travail
+interentreprises, par l'équipe pluridisciplinaire de santé au travail, sous la
+conduite du médecin du travail et dans le cadre des objectifs fixés par le
+projet pluriannuel prévu à l'article L. 4622-14.

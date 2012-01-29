@@ -1,17 +1,9 @@
 Article R4623-18
 ----
-Lorsque l'ordre du jour comporte des questions relatives à l'organisation et au
-fonctionnement des services de santé au travail ou des questions qui concernent
-les missions des médecins telles que définies à l'article L. 4622-3, le médecin
-du travail ou, en cas de pluralité de médecins, le ou les délégués des médecins
-assistent, avec voix consultative, aux réunions :
-
-1° Du comité d'entreprise ;
-
-2° Du comité interétablissements ;
-
-3° De la commission de contrôle ;
-
-4° De la commission consultative paritaire de secteur ;
-
-5° Du conseil d'administration.
+Lorsqu'est envisagé le licenciement ou la rupture conventionnelle du contrat de
+travail d'un médecin du travail, ou en cas de rupture de son contrat de travail
+à durée déterminée dans les cas prévus à l'article L. 4623-5-1, le comité
+d'entreprise, le comité interentreprises ou la commission de contrôle ainsi que
+le conseil d'administration, selon le cas, se prononcent après audition de
+l'intéressé. L'entretien préalable prévu à l'article L. 1232-2 précède la
+consultation de l'instance.

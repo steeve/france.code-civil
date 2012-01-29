@@ -1,8 +1,8 @@
 Article R4623-34
 ----
-L'intervenant en prévention des risques professionnels a accès aux informations
-relatives aux risques pour la santé et la sécurité des travailleurs ainsi qu'aux
-mesures et aux activités de protection et de prévention nécessaires à
-l'accomplissement de ses missions. Ce droit d'accès s'exerce dans des conditions
-garantissant le caractère confidentiel des données individuelles, ainsi que la
-protection des informations mentionnées à l'article R. 4624-9.
+En présence d'un médecin du travail dans l'entreprise, il assure ses missions en
+coopération avec ce dernier.
+
+Lorsque le médecin du travail du service de santé au travail interentreprises
+intervient dans l'entreprise, il lui apporte son concours. L'équipe
+pluridisciplinaire se coordonne avec lui.

@@ -1,8 +1,16 @@
 Article R4623-7
 ----
-Lors de la nomination du médecin du travail, la consultation, selon les cas, du
-comité d'entreprise, du comité interentreprises, de la commission de contrôle du
-service interentreprises ou du conseil d'administration intervient au plus tard
-avant la fin de la période d'essai. A défaut d'accord, la nomination ne peut
-intervenir que sur autorisation de l'inspecteur du travail prise après avis du
-médecin inspecteur du travail.
+Les instances mentionnées à l'article R. 4623-5 ont communication des données
+suivantes :
+
+1° L'effectif des salariés suivis par le médecin nommé ;
+
+2° Dans les services de santé au travail d'entreprise ou d'établissement, le
+secteur auquel le médecin du travail est affecté ;
+
+3° Dans les services de santé au travail de groupe, inter-établissements ou
+commun aux entreprises constituant une unité économique et sociale, la liste des
+entreprises ou établissements surveillés par le médecin du travail ;
+
+4° Dans les services de santé au travail interentreprises, la liste des
+entreprises surveillées par le médecin du travail.

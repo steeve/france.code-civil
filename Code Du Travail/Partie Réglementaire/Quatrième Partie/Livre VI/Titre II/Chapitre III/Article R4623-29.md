@@ -1,5 +1,7 @@
 Article R4623-29
 ----
-Lorsque l'entreprise a le choix entre un service de santé au travail
-d'entreprise ou interentreprises, elle ne peut faire appel à des compétences
-extérieures que si ses propres compétences sont insuffisantes.
+L'infirmier recruté dans un service de santé au travail est diplômé d'Etat ou a
+l'autorisation d'exercer sans limitation dans les conditions prévues par le code
+de la santé publique. Si l'infirmier n'a pas suivi une formation en santé au
+travail, l'employeur l'y inscrit au cours des douze mois qui suivent son
+recrutement et favorise sa formation continue.

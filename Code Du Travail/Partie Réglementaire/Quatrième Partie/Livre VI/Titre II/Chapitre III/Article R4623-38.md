@@ -1,7 +1,7 @@
 Article R4623-38
 ----
-Les conditions auxquelles satisfont les personnes ou les organismes pour être
-habilités sont définies par un arrêté du ministre chargé du travail. Cet arrêté
-précise notamment le niveau des diplômes requis ou les compétences
-professionnelles exigées. Il fixe également l'organisation et le fonctionnement
-du collège régional.
+L'intervenant en prévention des risques professionnels participe, dans un
+objectif exclusif de prévention, à la préservation de la santé et de la sécurité
+des travailleurs et à l'amélioration des conditions de travail. Dans ce cadre,
+il assure des missions de diagnostic, de conseil, d'accompagnement et d'appui,
+et communique les résultats de ses études au médecin du travail.

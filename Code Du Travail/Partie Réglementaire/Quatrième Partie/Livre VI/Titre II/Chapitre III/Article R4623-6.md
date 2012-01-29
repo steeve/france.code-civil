@@ -1,8 +1,6 @@
 Article R4623-6
 ----
-Lors de la nomination du médecin du travail, le comité d'entreprise ou les
-organes de surveillance mentionnés à l'article D. 4622-42 ont communication des
-données suivantes : 1° L'effectif des salariés suivis par le médecin nommé ; 2°
-La liste des entreprises surveillées dans les services de santé au travail
-interentreprises ; 3° Le secteur auquel le médecin du travail est affecté dans
-les services d'entreprise. Ces données sont mises à jour annuellement.
+Les instances mentionnées à l'article R. 4623-5 se prononcent par un vote à
+bulletin secret, à la majorité de leurs membres, régulièrement convoqués,
+présents ou représentés. Chaque membre ne peut disposer du pouvoir que d'un seul
+autre membre.

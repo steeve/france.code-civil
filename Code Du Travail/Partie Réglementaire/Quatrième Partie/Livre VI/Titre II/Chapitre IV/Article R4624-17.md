@@ -1,7 +1,6 @@
 Article R4624-17
 ----
-Les examens périodiques pratiqués dans le cadre de la surveillance médicale
-renforcée définie à l'article R. 4624-19 sont renouvelés au moins une fois par
-an. Ces dispositions ne font pas obstacle à l'application des dispositions
-particulières à certaines professions ou certains modes de travail prévues au 3°
-de l'article L. 4111-6.
+Indépendamment des examens périodiques, le salarié bénéficie d'un examen par le
+médecin du travail à la demande de l'employeur ou à sa demande.
+
+La demande du salarié ne peut motiver aucune sanction.

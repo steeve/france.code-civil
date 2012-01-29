@@ -1,5 +1,7 @@
 Article R4623-26
 ----
-Afin d'assurer l'application des dispositions de l'article L. 4622-4, le service
-de santé au travail fait appel aux compétences d'un intervenant en prévention
-des risques professionnels.
+Les services de santé au travail peuvent être agréés, dans les conditions
+prévues par l'article L. 632-5 du code de l'éducation, comme organismes
+extrahospitaliers accueillant en stage les internes inscrits au diplôme d'études
+spécialisées de médecine du travail ou les étudiants inscrits en deuxième cycle
+des études médicales.

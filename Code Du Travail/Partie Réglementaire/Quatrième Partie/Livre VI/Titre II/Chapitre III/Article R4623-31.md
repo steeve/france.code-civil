@@ -1,8 +1,13 @@
 Article R4623-31
 ----
-La conclusion de la convention avec l'intervenant en prévention des risques
-professionnels est précédée de l'avis du comité d'entreprise et du comité
-d'hygiène, de sécurité et des conditions de travail ainsi que, le cas échéant,
-de l'avis des instances de surveillance mentionnées à l'article D. 4622-42. Dans
-les services de santé au travail interentreprises administrés paritairement, la
-convention est conclue après avis du conseil d'administration.
+Un entretien infirmier peut être mis en place pour réaliser les activités
+confiées à l'infirmier par le protocole prévu à l'article R. 4623-14. Cet
+entretien donne lieu à la délivrance d'une attestation de suivi infirmier qui ne
+comporte aucune mention relative à l'aptitude ou l'inaptitude médicale du
+salarié.
+
+L'infirmier peut également, selon les mêmes modalités, effectuer des examens
+complémentaires et participer à des actions d'information collectives conçues en
+collaboration avec le médecin du travail et validées par lui dans le respect des
+règles liées à l'exercice de la profession d'infirmier déterminées en
+application de l'article L. 4311-1 du code de la santé publique.
