@@ -30,7 +30,7 @@ l'article L. 6322-37 du même code ;
 a) Son identification : nom de famille, le cas échéant nom de l'époux, prénoms,
 sexe, date et lieu de naissance, numéro d'inscription au répertoire national
 d'identification des personnes physiques pour les seules déclarations des
-personnes ou organismes mentionnés au I de l'article R.* 81 A-1 du livre des
+personnes ou organismes mentionnés au I de l'article R. * 81 A-1 du livre des
 procédures fiscales ;
 
 b) L'adresse de son domicile au 31 décembre de l'année du revenu ;
@@ -102,6 +102,26 @@ portant dispositions statutaires relatives à la fonction publique hospitalière
 travaillant à temps partiel ou non complet et non soumis à une durée du travail
 résultant d'une convention collective, la quotité du temps de travail, convertie
 en cas de variation en cours d'année en nombre d'heures rémunérées ;
+
+i) Au titre de l'année de levée des options définies à l'article 80 bis du code
+général des impôts, le nombre d'actions acquises, leur valeur unitaire à la date
+de la levée des options, leur prix de souscription, la fraction du gain de levée
+d'options de source française ainsi que les dates d'attribution et de levée des
+options, conformément aux dispositions du 2° du I de l'article 91 bis de
+l'annexe II au code général des impôts ;
+
+j) Au titre de l'année d'acquisition définitive des actions gratuites définies à
+l'article 80 quaterdecies du code général des impôts, le nombre d'actions
+acquises, leur valeur unitaire à la date d'acquisition définitive, la fraction
+du gain d'acquisition de source française ainsi que les dates d'attribution et
+d'acquisition définitive des titres, conformément aux dispositions du 2° du I de
+l'article 38-0 septdecies ;
+
+k) Au titre de l'année de souscription des titres définis à l'article 163 bis G
+du code général des impôts, les date, nombre et prix d'acquisition des titres
+correspondants, la fraction du gain constaté lors de l'exercice des bons de
+source française ainsi que la durée d'exercice de l'activité du bénéficiaire
+dans la société, conformément aux dispositions du 2° de l'article 41 V bis ;
 
 3° Le total pour l'ensemble des salariés de l'établissement et de l'entreprise
 des sommes mentionnées au 2° ci-dessus.
