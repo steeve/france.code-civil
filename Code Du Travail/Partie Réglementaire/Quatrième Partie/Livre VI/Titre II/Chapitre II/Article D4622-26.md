@@ -1,6 +1,7 @@
 Article D4622-26
 ----
-Les entreprises foraines adhèrent à un service de santé au travail
-interentreprises territorialement compétent : 1° Soit pour la commune de
-résidence ou pour la commune de rattachement de l'employeur ; 2° Soit pour l'une
-des communes où l'entreprise exerce habituellement son activité.
+L'équipe pluridisciplinaire prévue à l'article L. 4622-8 intervient dans chacun
+des secteurs.
+
+Le nombre de médecins du travail affectés à un secteur est déterminé par
+l'agrément prévu à la sous-section 1 de la section 4.

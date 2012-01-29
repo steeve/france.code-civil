@@ -1,7 +1,7 @@
 Article D4622-53
 ----
-La commission de contrôle est présidée par le président du service de santé au
-travail ou son représentant dûment mandaté. Elle se réunit au moins trois fois
-par an. Elle peut également se réunir à la demande de la majorité de ses
-membres. Les représentants des salariés à la commission désignent parmi eux le
-secrétaire de la commission.
+Chaque année, le directeur régional des entreprises, de la concurrence, de la
+consommation, du travail et de l'emploi présente la politique régionale
+d'agrément au comité régional de la prévention des risques professionnels dans
+une formation restreinte composée des collèges mentionnés aux 2° et 3° de
+l'article R. 4641-31.

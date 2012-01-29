@@ -1,5 +1,10 @@
 Article D4622-18
 ----
-L'agrément d'un service de santé au travail ne peut être refusé que pour des
-motifs tirés de la non-conformité aux prescriptions du présent titre. Tout refus
-d'agrément est motivé.
+Les entreprises foraines adhèrent à un service de santé au travail
+interentreprises territorialement compétent :
+
+1° Soit pour la commune de résidence ou pour la commune de rattachement de
+l'employeur ;
+
+2° Soit pour l'une des communes où l'entreprise exerce habituellement son
+activité.

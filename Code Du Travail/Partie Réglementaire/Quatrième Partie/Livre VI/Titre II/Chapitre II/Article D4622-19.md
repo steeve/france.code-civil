@@ -1,12 +1,17 @@
 Article D4622-19
 ----
-Lorsque le directeur régional des entreprises, de la concurrence, de la
-consommation, du travail et de l'emploi constate que les conditions de
-fonctionnement du service de santé au travail d'entreprise ou d'établissement ne
-satisfont pas aux obligations résultant des prescriptions du présent titre, il
-peut, après avis du médecin-inspecteur du travail et sous réserve d'un
-engagement précis et daté de mise en conformité de la part de l'employeur : 1°
-Mettre fin à l'agrément précédemment accordé ; 2° Délivrer un agrément pour une
-durée maximale d'un an, non renouvelable. Si, à l'issue de cette période,
-l'employeur satisfait à ces obligations, l'agrément lui est accordé pour cinq
-ans.
+Les représentants des employeurs au conseil d'administration du service de santé
+au travail interentreprises sont désignés par les entreprises adhérentes après
+avis des organisations professionnelles d'employeurs représentatives au plan
+national interprofessionnel ou professionnel.
+
+En l'absence de dispositions statutaires particulières du service de santé au
+travail interentreprises, lorsque des candidats aux fonctions de président et de
+trésorier ont obtenu le même nombre de voix, le poste est attribué au plus âgé
+des candidats.
+
+La durée du mandat des membres du conseil d'administration est de quatre ans.
+
+Un compte rendu de chaque réunion du conseil d'administration est tenu à
+disposition du directeur régional des entreprises, de la concurrence, de la
+consommation, du travail et de l'emploi.

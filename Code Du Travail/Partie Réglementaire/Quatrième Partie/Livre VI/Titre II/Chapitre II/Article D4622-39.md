@@ -1,11 +1,14 @@
 Article D4622-39
 ----
-Lorsque le directeur régional des entreprises, de la concurrence, de la
-consommation, du travail et de l'emploi constate que les conditions de
-fonctionnement du secteur médical ne satisfont pas aux obligations résultant des
-dispositions du présent titre, il peut, après avis du médecin inspecteur du
-travail, et sous réserve d'un engagement précis et daté de mise en conformité de
-la part du service de santé au travail, mettre fin à l'agrément précédemment
-accordé et délivrer un agrément pour une durée maximale d'un an, non
-renouvelable. Lorsqu'à l'issue de cette période, le service de santé au travail
-satisfait à ces obligations, l'agrément lui est accordé pour cinq ans.
+Les membres de la commission de contrôle bénéficient, dans les trois mois qui
+suivent leur nomination, de la formation nécessaire à l'exercice de leur mandat,
+auprès de l'organisme de leur choix. Cette formation est à la charge du service
+de santé au travail.
+
+En cas de renouvellement de leur mandat et lorsqu'ils ont exercé leurs fonctions
+pendant trois ans, consécutifs ou non, les membres de la commission de contrôle
+bénéficient, dans les mêmes conditions, d'un stage de perfectionnement et
+d'actualisation de leurs connaissances.
+
+Le contenu et les conditions d'organisation de ces formations peuvent être
+précisés par accord collectif de branche.

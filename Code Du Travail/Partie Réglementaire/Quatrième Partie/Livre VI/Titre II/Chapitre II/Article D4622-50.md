@@ -1,5 +1,12 @@
 Article D4622-50
 ----
-Les difficultés soulevées par l'application des articles D. 4622-46 à D. 4622-49
-sont tranchées par le directeur régional des entreprises, de la concurrence, de
-la consommation, du travail et de l'emploi.
+La demande d'agrément ou de renouvellement d'agrément est accompagnée d'un
+dossier dont les éléments sont fixés par arrêté du ministre chargé du travail
+qui tient compte notamment de la couverture géographique assurée,
+professionnelle ou interprofessionnelle, des moyens affectés ainsi que des
+locaux et des équipements dédiés et, le cas échéant, de la mise en œuvre des
+dispositions du contrat pluriannuel d'objectifs et de moyens par le service de
+santé au travail interentreprises.
+
+La demande de renouvellement d'agrément est présentée au moins quatre mois avant
+le terme de l'agrément en cours.

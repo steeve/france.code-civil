@@ -1,8 +1,10 @@
 Article D4622-34
 ----
-Chaque secteur médical comporte au moins un centre médical fixe. Dans chaque
-centre médical fixe ou mobile est affichée la liste nominative : 1° Des médecins
-du travail attachés au secteur médical avec l'indication des lieux où ils
-peuvent être joints ; 2° Des membres de la commission consultative de secteur
-ou, à défaut, de la commission de contrôle ou des membres du comité
-interentreprises, avec indication des lieux où ils peuvent être joints.
+La commission de contrôle est constituée puis renouvelée à la diligence du
+président du service de santé au travail.
+
+Lorsque, par défaut de candidatures, la commission de contrôle n'a pas été
+constituée ou renouvelée, un procès-verbal est établi par le président. Celui-ci
+affiche le procès-verbal dans le service de santé au travail. Il le transmet
+dans les quinze jours au directeur régional des entreprises, de la concurrence,
+de la consommation, du travail et de l'emploi.

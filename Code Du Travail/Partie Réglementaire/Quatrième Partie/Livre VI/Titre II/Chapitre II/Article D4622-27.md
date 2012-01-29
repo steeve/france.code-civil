@@ -1,8 +1,13 @@
 Article D4622-27
 ----
-Des membres représentants du personnel de la commission de contrôle participent,
-avec voix délibérative, au conseil d'administration des services
-interentreprises de santé au travail à raison d'un tiers des sièges du conseil.
-Un compte rendu de chaque réunion du conseil d'administration est adressé au
-directeur régional des entreprises, de la concurrence, de la consommation, du
-travail et de l'emploi.
+Chaque secteur comporte au moins un centre médical fixe.
+
+Dans chaque centre médical fixe ou mobile est affichée la liste nominative avec
+leurs coordonnées :
+
+1° Des médecins du travail du secteur ;
+
+2° Des autres membres de l'équipe pluridisciplinaire ;
+
+3° Des membres de la commission de contrôle ou des membres du comité
+interentreprises.

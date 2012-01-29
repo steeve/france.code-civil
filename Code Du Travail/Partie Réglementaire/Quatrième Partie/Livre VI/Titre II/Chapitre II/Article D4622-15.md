@@ -1,10 +1,10 @@
 Article D4622-15
 ----
-Le service de santé au travail d'entreprise ou d'établissement ou commun aux
-entreprises constituant une unité économique et sociale fait, après avis du
-médecin inspecteur du travail, l'objet d'un agrément préalable par le directeur
-régional des entreprises, de la concurrence, de la consommation, du travail et
-de l'emploi. La demande d'agrément est renouvelée tous les cinq ans. Les
-demandes d'agrément et de renouvellement d'agrément sont accompagnées d'un
-dossier dont les éléments sont déterminés par arrêté du ministre chargé du
-travail.
+Le service de santé au travail interentreprises est constitué sous la forme d'un
+organisme à but non lucratif, doté de la personnalité civile et de l'autonomie
+financière.
+
+Lorsqu'il comprend un service social du travail, ce dernier est animé par un
+assistant social du travail ou par un conseiller du travail. L'assistant social
+du travail est un assistant social diplômé d'Etat ayant acquis un diplôme
+équivalent à celui de conseiller du travail.

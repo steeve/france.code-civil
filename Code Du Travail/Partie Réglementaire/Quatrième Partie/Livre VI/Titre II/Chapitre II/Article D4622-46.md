@@ -1,7 +1,7 @@
 Article D4622-46
 ----
-Lorsqu'une commission de contrôle est constituée, elle comprend, outre son
-président, neuf membres au moins et vingt et un membres au plus. Ces membres
-sont issus des entreprises adhérentes au service de santé au travail à raison
-d'un tiers de représentants des employeurs et de deux tiers de représentants des
-salariés.
+Le contrat pluriannuel indique les moyens mobilisés par les parties, la
+programmation des actions et les modalités de collaboration pour atteindre des
+objectifs chiffrés. Il détermine également les modalités de suivi, de contrôle
+et d'évaluation des résultats, à l'aide d'indicateurs quantitatifs et
+qualitatifs.

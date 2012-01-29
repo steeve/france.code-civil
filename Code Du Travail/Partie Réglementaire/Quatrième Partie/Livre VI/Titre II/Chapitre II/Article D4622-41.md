@@ -1,11 +1,15 @@
 Article D4622-41
 ----
-Lorsque sont constatées des infractions au présent titre, le directeur régional
+L'ordre du jour des réunions de la commission de contrôle est arrêté par le
+président et le secrétaire de la commission.
+
+Il est transmis par le président aux membres de la commission au moins quinze
+jours avant la date de la réunion, accompagné des documents correspondants.
+
+Ce délai est porté à dix jours en cas de mise à pied d'un médecin du travail,
+dans le cadre de la procédure prévue au quatrième alinéa de l'article R.
+4623-20.
+
+L'ordre du jour est communiqué, dans les mêmes conditions, au directeur régional
 des entreprises, de la concurrence, de la consommation, du travail et de
-l'emploi peut, après avis du médecin inspecteur du travail, modifier ou retirer,
-par une décision motivée, l'approbation ou l'agrément donnés en application de
-la présente sous-section. Ces mesures ne peuvent intervenir que lorsque le
-président du service de santé au travail interentreprises, invité par lettre
-recommandée avec avis de réception à faire cesser l'infraction dans un délai
-fixé par le directeur régional à six mois au maximum, n'a pas accompli dans ce
-délai les diligences nécessaires.
+l'emploi.

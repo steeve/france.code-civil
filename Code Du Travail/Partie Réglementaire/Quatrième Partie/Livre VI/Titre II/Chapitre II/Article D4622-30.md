@@ -1,8 +1,11 @@
 Article D4622-30
 ----
-La cessation de l'adhésion à un service de santé au travail interentreprises est
-décidée par l'employeur, sauf opposition du comité d'entreprise ou, à défaut,
-des délégués du personnel préalablement consultés.L'opposition est motivée. La
-décision de l'employeur est subordonnée à l'autorisation du directeur régional
-des entreprises, de la concurrence, de la consommation, du travail et de
-l'emploi qui se prononce après avis du médecin inspecteur du travail.
+La commission médico-technique se réunit au moins trois fois par an.
+
+Elle établit son règlement intérieur.
+
+Elle communique ses conclusions au conseil d'administration et, selon le cas, au
+comité interentreprises ou à la commission de contrôle. Elle les tient à
+disposition du médecin inspecteur du travail.
+
+Elle présente chaque année à ces instances l'état de ses réflexions et travaux.
