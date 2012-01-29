@@ -1,9 +1,17 @@
 Article D230-26
 ----
-Les gestionnaires des restaurants scolaires tiennent à jour un registre dans
-lequel sont conservés, sur les trois derniers mois, les documents attestant de
-la composition des repas, notamment les menus et les fiches techniques
-descriptives des produits alimentaires achetés auprès des fournisseurs.
+Afin d'atteindre l'objectif d'équilibre nutritionnel des repas servis par les
+services de restauration des établissements pénitentiaires, sont requis,
+conformément à l'article L. 230-5 :
 
-Ils sont tenus d'identifier distinctement, sur les menus, les produits de saison
-entrant dans la composition des repas.
+-le respect d'exigences de variété des plats servis de façon à prévenir les
+carences ;
+
+-quatre ou cinq plats proposés à chaque déjeuner ou dîner, dont nécessairement
+un plat principal avec une garniture et un produit laitier ;
+
+-la mise à disposition de portions adaptées.
+
+Les dispositions du présent article sont précisées par un arrêté conjoint du
+ministre de la justice et des ministres chargés de l'alimentation, de la santé,
+de la consommation et de l'outre-mer.
