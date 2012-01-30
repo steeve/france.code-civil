@@ -13,7 +13,12 @@ délégataire en application de l'article L. 311-2 ;
 
 3° De la voile au-delà de 200 milles nautiques d'un abri ;
 
-4° Quelle que soit la zone d'évolution :
+4° De l'escalade pratiquée sur les sites sportifs au-delà du premier relais et
+"terrains d'aventure", déterminés conformément aux normes de classement
+technique édictées par la fédération délégataire en application de l'article L.
+311-2, ainsi que de l'escalade en "via ferrata" ;
+
+5° Quelle que soit la zone d'évolution :
 
 a) Du canyonisme ;
 
