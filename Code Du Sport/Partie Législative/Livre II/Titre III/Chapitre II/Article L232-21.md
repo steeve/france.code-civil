@@ -5,6 +5,11 @@ Le sportif licencié qui a contrevenu aux dispositions des articles L. 232-9, L.
 prévues aux 1°, 2°, 3° ou 4° du I de l'article L. 232-5 ou à l'article L. 232-16
 encourt des sanctions disciplinaires.
 
+Est également passible de sanctions disciplinaires le sportif qui a contrevenu
+aux dispositions de l'article L. 232-9 et dont la mise en cause est justifiée au
+vu des documents en possession de l'Agence française de lutte contre le dopage,
+en application de l'article L. 232-20-1.
+
 Ces sanctions sont prononcées par les fédérations sportives mentionnées à
 l'article L. 131-8.
 

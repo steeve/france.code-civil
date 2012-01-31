@@ -8,6 +8,6 @@ excède un montant fixé par arrêté du ministre chargé des sports, doit obten
 l'autorisation de la fédération délégataire concernée.
 
 Cette autorisation est subordonnée au respect des règlements et règles
-techniques mentionnés à l'article L. 131-16 et à la conclusion entre
-l'organisateur et la fédération délégataire d'un contrat comprenant des
-dispositions obligatoires fixées par décret.
+mentionnés à l'article L. 131-16 et à la conclusion entre l'organisateur et la
+fédération délégataire d'un contrat comprenant des dispositions obligatoires
+fixées par décret.

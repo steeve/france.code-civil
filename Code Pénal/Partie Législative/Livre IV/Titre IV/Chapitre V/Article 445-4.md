@@ -1,9 +1,9 @@
 Article 445-4
 ----
 Les personnes morales déclarées responsables pénalement, dans les conditions
-prévues par l'article 121-2, des infractions définies aux articles 445-1 et
-445-2 encourent, outre l'amende suivant les modalités prévues par l'article
-131-38 :
+prévues par l'article 121-2, des infractions définies aux articles 445-1,
+445-1-1, 445-2 et 445-2-1 encourent, outre l'amende suivant les modalités
+prévues par l'article 131-38 :
 
 1° (Abrogé) ;
 

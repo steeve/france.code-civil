@@ -1,9 +1,10 @@
 Article L132-2
 ----
-Chaque fédération disposant d'une ligue professionnelle crée un organisme
-assurant le contrôle juridique et financier des associations et sociétés
-sportives.
+Les fédérations qui ont constitué une ligue professionnelle créent un organisme,
+doté d'un pouvoir d'appréciation indépendant, assurant le contrôle
+administratif, juridique et financier des associations et sociétés sportives
+participant aux compétitions qu'elles organisent.
 
-Cet organisme est notamment chargé de contrôler que les associations et les
-sociétés qu'elles ont constituées répondent aux conditions fixées pour prendre
-part aux compétitions organisées par la fédération.
+Cet organisme a pour objectif d'assurer la pérennité des associations et
+sociétés sportives, de favoriser le respect de l'équité sportive et de
+contribuer à la régulation économique des compétitions.

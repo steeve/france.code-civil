@@ -1,7 +1,8 @@
 Article 445-3
 ----
-Les personnes physiques coupables des infractions définies aux articles 445-1 et
-445-2 encourent également les peines complémentaires suivantes :
+Les personnes physiques coupables des infractions définies aux articles 445-1,
+445-1-1, 445-2 et 445-2-1 encourent également les peines complémentaires
+suivantes :
 
 1° L'interdiction, suivant les modalités prévues par l'article 131-26, des
 droits civiques, civils et de famille ;

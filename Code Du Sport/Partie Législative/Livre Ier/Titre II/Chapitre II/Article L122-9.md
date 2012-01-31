@@ -1,7 +1,8 @@
 Article L122-9
 ----
-Il est interdit à toute personne privée porteur de titres donnant accès au
-capital ou conférant un droit de vote dans une société sportive :
+Il est interdit à toute personne privée qui contrôle de manière exclusive ou
+conjointe une société sportive ou exerce sur elle une influence notable, au sens
+de l'article L. 233-16 du code de commerce :
 
 1° De consentir un prêt à une autre société sportive dès lors que son objet
 social porterait sur la même discipline sportive ;

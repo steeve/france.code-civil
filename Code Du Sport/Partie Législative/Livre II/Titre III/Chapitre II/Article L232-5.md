@@ -2,8 +2,9 @@ Article L232-5
 ----
 I.-L'Agence française de lutte contre le dopage, autorité publique indépendante
 dotée de la personnalité morale, définit et met en oeuvre les actions de lutte
-contre le dopage.A cette fin, elle coopère avec l'Agence mondiale antidopage et
-avec les fédérations sportives internationales.
+contre le dopage. A cette fin, elle coopère avec l'Agence mondiale antidopage,
+avec les organismes reconnus par celle-ci et disposant de compétences analogues
+aux siennes et avec les fédérations sportives internationales.
 
 A cet effet :
 
@@ -17,7 +18,8 @@ ou autorisées par les fédérations délégataires ;
 
 b) Pendant les manifestations sportives internationales définies à l'article L.
 230-2 avec l'accord de l'organisme international compétent ou, à défaut, de
-l'Agence mondiale antidopage ;
+l'Agence mondiale antidopage, avec les organismes reconnus par celle-ci et
+disposant de compétences analogues aux siennes ;
 
 c) Pendant les périodes d'entraînement préparant aux manifestations sportives
 mentionnées à l'article L. 230-3 ;
@@ -31,7 +33,8 @@ ou autorisées par les fédérations délégataires ;
 
 b) Pendant les manifestations sportives internationales définies à l'article L.
 230-2 avec l'accord de l'organisme international compétent ou, à défaut, de
-l'Agence mondiale antidopage ;
+l'Agence mondiale antidopage, avec les organismes reconnus par celle-ci et
+disposant de compétences analogues aux siennes ;
 
 c) Pendant les périodes d'entraînement préparant aux manifestations sportives
 mentionnées à l'article L. 230-3 ;
@@ -60,26 +63,19 @@ L. 232-22 et L. 232-23 ;
 8° Elle délivre les autorisations d'usage à des fins thérapeutiques prévues à
 l'article L. 232-2 ;
 
-9° Elle reçoit les déclarations d'usage à des fins thérapeutiques prévues à
-l'article L. 232-2 ;
+9° (Abrogé)
 
-10° Elle peut reconnaître la validité des :
-
-a) Autorisations d'usage à des fins thérapeutiques délivrées en conformité avec
-les annexes I et II de la convention internationale contre le dopage dans le
-sport, adoptée à Paris le 19 octobre 2005, par une organisation nationale
-antidopage étrangère ou par une fédération internationale ;
-
-b) Déclarations d'usage effectuées en conformité avec les annexes I et II de la
-convention internationale contre le dopage dans le sport, adoptée à Paris le 19
-octobre 2005, par une organisation nationale antidopage étrangère ou par une
-fédération internationale ;
+10° Elle peut reconnaître la validité des autorisations d'usage à des fins
+thérapeutiques délivrées en conformité avec les annexes I et II de la convention
+internationale contre le dopage dans le sport, adoptée à Paris le 19 octobre
+2005, par une organisation nationale antidopage étrangère ou par une fédération
+internationale ;
 
 11° Elle est consultée sur tout projet de loi ou de règlement relatif à la lutte
 contre le dopage ;
 
-12° Elle participe aux actions de prévention, d'éducation et de recherche mises
-en œuvre en matière de lutte contre le dopage ;
+12° Elle met en œuvre des actions de prévention et de recherche en matière de
+lutte contre le dopage ;
 
 13° Elle est associée aux activités internationales dans le domaine de la lutte
 contre le dopage et apporte son expertise à l'Etat, notamment lors de
@@ -105,6 +101,14 @@ exercées par les mêmes personnes.
 Pour l'exercice de ses missions de contrôle, l'agence peut faire appel aux
 services du ministre chargé des sports, dans des conditions définies par voie
 conventionnelle.
+
+Lorsqu'une manifestation sportive organisée par une fédération agréée ou
+autorisée par une fédération délégataire se déroule à l'étranger, l'agence peut,
+avec l'accord de l'organisme reconnu par l'Agence mondiale antidopage dans cet
+Etat et disposant de compétences analogues aux siennes, exercer, à l'occasion de
+cette manifestation, ses missions de contrôle et ses missions d'analyse. En cas
+d'infraction aux dispositions des articles L. 232-9, L. 232-10 et L. 232-17, ces
+sanctions sont prononcées conformément aux articles L. 232-21 et L. 232-22.
 
 III.-Pour l'établissement du programme annuel de contrôles mentionné au I, les
 services de l'Etat compétents, les fédérations agréées, les associations et
