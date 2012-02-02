@@ -15,7 +15,7 @@ réalisées par le candidat ;
 
 Le candidat complète et transmet la première partie de son dossier avec les
 pièces justificatives attestant de la durée et de la nature de son expérience au
-directeur régional de la jeunesse, des sports et de la vie associative de son
+directeur régional de la jeunesse, des sports et de la cohésion sociale de son
 lieu de domicile, qui se prononce sur la recevabilité de sa demande.
 
 La décision de recevabilité est fondée sur deux critères : la durée de
