@@ -8,9 +8,11 @@ réduction d'activité pendant une période égale au double de la durée de la
 convention courant à compter de sa signature.
 
 L'employeur s'engage également à proposer à chaque salarié bénéficiaire de la
-convention un entretien individuel en vue notamment d'examiner les actions de
-formation ou de bilans qui pourrait être engagées dans la période d'activité
-partielle.
+convention un entretien individuel en vue notamment d'examiner les actions
+mentionnées aux articles L. 6313-1 et L. 6314-1 susceptibles d'être organisées
+dans les mêmes conditions que celles relatives à la mise en œuvre du plan de
+formation pendant le temps de travail. Ces actions peuvent être engagées pendant
+les heures chômées.
 
 L'employeur rembourse à l'Etat les sommes perçues au titre de l'allocation
 complémentaire de réduction d'activité prévue dans la convention d'activité
