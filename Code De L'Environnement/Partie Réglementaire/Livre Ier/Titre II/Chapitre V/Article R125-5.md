@@ -1,16 +1,11 @@
 Article R125-5
 ----
-I.-Les préfets peuvent, par arrêté, créer, pour chaque installation de
-traitement de déchets soumise à autorisation en vertu des dispositions des
-articles L. 511-1 et suivants ainsi que pour tout projet d'une telle
-installation, une commission locale d'information et de surveillance.
+Le préfet crée la commission de suivi de site prévue à l'article L. 125-2-1 :
 
-II.-Les préfets sont tenus d'en créer une :
-
-1° Pour toute installation collective de stockage de déchets soumise à
-autorisation au titre de l'article L. 511-2 ;
+1° Pour tout centre collectif de stockage qui reçoit ou est destiné à recevoir
+des déchets non inertes au sens de l'article R. 541-8 ;
 
 2° Lorsque la demande lui en est faite par l'une des communes situées à
 l'intérieur du périmètre d'affichage défini à la rubrique de la nomenclature des
-installations classées pour la protection de l'environnement dans laquelle est
-rangée l'installation de traitement des déchets.
+installations classées pour la protection de l'environnement dont l'installation
+d'élimination des déchets relève.

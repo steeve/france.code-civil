@@ -1,7 +1,7 @@
 Article D125-34
 ----
 I.-L'exploitant d'une installation visée à l'article D. 125-29 adresse au moins
-une fois par an au comité un bilan qui comprend en particulier :
+une fois par an à la commission un bilan qui comprend en particulier :
 
 1° Les actions réalisées pour la prévention des risques et leur coût ;
 
@@ -19,9 +19,10 @@ rendus des exercices d'alerte ;
 application des dispositions du code de l'environnement, depuis son
 autorisation.
 
-II.-Le comité fixe la date et la forme sous lesquelles l'exploitant lui adresse
-ce bilan.
+II.-La commission fixe la date et la forme sous lesquelles l'exploitant lui
+adresse ce bilan.
 
-III.-Les collectivités territoriales membres du comité informent le comité des
+III.-Les représentants des collectivités territoriales ou des établissements
+publics de coopération intercommunale membres de la commission l'informent des
 changements en cours ou projetés pouvant avoir un impact sur l'aménagement de
-l'espace autour desdites installations.
+l'espace autour de ladite installation.

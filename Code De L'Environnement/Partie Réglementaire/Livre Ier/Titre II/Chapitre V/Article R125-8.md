@@ -1,7 +1,8 @@
 Article R125-8
 ----
-I.-La commission locale d'information et de surveillance a pour objet de
-promouvoir l'information du public sur les problèmes posés, en ce qui concerne
+I.-La commission mentionnée à l'article R. 125-5 a pour objet, en complément de
+ses missions générales définies à l'article R. 125-8-3, de promouvoir
+l'information du public sur les problèmes posés, en ce qui concerne
 l'environnement et la santé humaine, par la gestion des déchets dans sa zone
 géographique de compétence ; elle est, à cet effet, tenue régulièrement informée
 :
@@ -13,14 +14,7 @@ du livre V ;
 2° De celles des modifications mentionnées à l'article R. 512-33 du code de
 l'environnement que l'exploitant envisage d'apporter à cette installation ainsi
 que des mesures prises par le préfet en application des dispositions de ce même
-article ;
-
-3° Des incidents ou accidents survenus à l'occasion du fonctionnement de cette
-installation, et notamment de ceux mentionnés à l'article R. 512-69 du code de
-l'environnement.
+article.
 
 II.-L'exploitant présente à la commission, au moins une fois par an, après
 l'avoir mis à jour, le document défini à l'article R. 125-2.
-
-III.-La commission peut faire toute recommandation en vue d'améliorer
-l'information du public sur les conditions de fonctionnement de l'installation.

@@ -14,8 +14,8 @@ biens situés dans le périmètre de l'établissement et les atteintes aux biens
 vacants et sans maître. Le rapport explicite et justifie les paramètres retenus
 pour l'estimation et présente les résultats sous une forme agrégée.
 
-Le rapport est transmis au préfet ainsi qu'au président du comité local
-d'information et de concertation sur les risques, si ce dernier est constitué.
+Le rapport est transmis au préfet ainsi qu'au président de la commission de
+suivi de site, si cette dernière est constituée.
 
 Il est révisé et transmis dans les mêmes conditions, au plus tard six mois après
 chaque révision de l'étude de dangers.

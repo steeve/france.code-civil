@@ -1,48 +1,34 @@
 Article D125-31
 ----
-Le comité a pour mission de créer un cadre d'échange et d'informations entre les
-différents représentants des collèges énoncés à l'article D. 125-30 sur les
-actions menées par les exploitants des installations classées, sous le contrôle
-des pouvoirs publics, en vue de prévenir les risques d'accidents majeurs que
-peuvent présenter les installations.
+Sans préjudice de l'article R. 125-8-3, la commission est associée à
+l'élaboration du plan de prévention des risques technologiques et émet un avis
+sur le projet de plan.
 
-En particulier :
+Elle est informée :
 
-Le comité est associé à l'élaboration du plan de prévention des risques
-technologiques et émet un avis sur le projet de plan, en application de
-l'article L. 515-22. Cet avis est débattu en séance et approuvé à la majorité
-des membres présents ou représentés. Sur décision du président ou à la demande
-d'une majorité des membres d'un collège, il peut être procédé à un vote par
-collège. Dans ce cas, le résultat des votes au sein de chaque collège est joint
-à l'avis du comité ;
+1° Par l'exploitant des éléments compris dans le bilan mentionné à l'article D.
+125-34 ;
 
-Il est informé par l'exploitant des éléments contenus dans le bilan décrit à
-l'article D. 125-34 ;
+2° Des modifications mentionnées à l'article R. 512-33 que l'exploitant envisage
+d'apporter à cette installation ainsi que des mesures prises par le préfet en
+application des dispositions de ce même article ;
 
-Il est informé le plus en amont possible par l'exploitant des projets de
-modification ou d'extension des installations visées à l'article D. 125-34 ;
+3° Du plan particulier d'intervention établi en application de l'article 15 de
+la loi n° 2004-811 du 13 août 2004 de modernisation de la sécurité civile et du
+plan d'opération interne établi en application de l'article L. 512-29 du présent
+code (1) et des exercices relatifs à ces plans ;
 
-Il est destinataire des rapports d'analyse critique réalisée en application de
-l'article R. 512-6 du code de l'environnement et relatif à l'analyse critique
-d'éléments du dossier d'autorisation ;
+4° Du rapport environnemental de la société ou du groupe auquel appartient
+l'exploitant de l'installation, lorsqu'il existe.
 
-Il est destinataire des plans d'urgence et est informé des exercices relatifs à
-ces plans ;
+Elle est destinataire des rapports d'analyse critique réalisés en application de
+l'article R. 512-6 et relatif à l'analyse critique d'éléments du dossier
+d'autorisation. Son président l'est du rapport d'évaluation prévu par l'article
+L. 515-26.
 
-Il peut émettre des observations sur les documents réalisés par l'exploitant et
-les pouvoirs publics en vue d'informer les citoyens sur les risques auxquels ils
-sont exposés ;
+Elle peut émettre des observations sur les documents réalisés par l'exploitant
+et les pouvoirs publics en vue d'informer les citoyens sur les risques auxquels
+ils sont exposés.
 
-Il peut demander des informations sur les accidents dont les conséquences sont
-perceptibles à l'extérieur du site ;
-
-Son président est destinataire du rapport d'évaluation prévu par l'article L.
-515-26.
-
-En application de l'article 6 de la loi n° 78-753 du 17 juillet 1978 modifiée
-portant diverses mesures d'amélioration des relations entre l'administration et
-le public, sont exclues des éléments à porter à la connaissance du comité les
-indications susceptibles de porter atteinte au secret de défense nationale ou
-aux secrets de fabrication, ainsi que celles de nature à faciliter la
-réalisation d'actes de malveillance ou à faire obstacle à l'application des
-mesures mentionnées aux articles R. 125-9 à R. 125-14.
+Elle peut demander des informations sur les accidents dont les conséquences sont
+perceptibles à l'extérieur du site.
