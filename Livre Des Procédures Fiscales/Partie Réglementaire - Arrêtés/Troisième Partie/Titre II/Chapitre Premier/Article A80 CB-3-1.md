@@ -13,8 +13,7 @@ cas prévu au cinquième alinéa de l'article R. * 80 CB-3 ;
 
 ― du chef du service juridique de la fiscalité ou de son représentant ;
 
-― du sous-directeur de la sous-direction du contrôle fiscal ou de son
-représentant ;
+― du chef du service du contrôle fiscal ou de son représentant ;
 
 ― du directeur en charge de la direction des vérifications nationales et
 internationales ou de son représentant ;
