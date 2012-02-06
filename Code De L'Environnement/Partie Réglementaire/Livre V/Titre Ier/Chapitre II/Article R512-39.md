@@ -29,3 +29,7 @@ les départements intéressés.
 II.-A la demande de l'exploitant, certaines dispositions de l'arrêté peuvent
 être exclues de la publicité prévue par le présent article lorsqu'il pourrait en
 résulter la divulgation de secrets de fabrication.
+
+III.-Lorsque le comité d'hygiène, de sécurité et des conditions de travail a été
+consulté en application de l'article R. 512-24, il est informé par le chef
+d'établissement des arrêtés pris à l'issue de ces consultations.
