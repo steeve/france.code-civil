@@ -1,48 +1,68 @@
 Article R832-4
 ----
-Le président du conseil d'administration du centre est nommé pour trois ans par
-arrêté conjoint du ministre chargé de la recherche et du ministre chargé de
-l'agriculture. Ses fonctions sont renouvelables.
+Outre le président de l'institut, le conseil d'administration comprend vingt
+membres, ainsi répartis :
 
-Outre son président, le conseil d'administration comprend :
+1° Cinq représentants de l'Etat :
 
-1. Huit membres de droit : deux représentants nommément désignés de chacun des
-ministres chargés de l'agriculture et de l'environnement, un représentant
-nommément désignés de chacun des ministres chargés du budget, de l'industrie,
-des industries agro-alimentaires et de la recherche ;
+- un représentant du ministre chargé de la recherche ;
 
-2. Douze personnalités qualifiées nommées pour trois ans, renouvelables une
-fois, par arrêté du ministre chargé de la recherche et du ministre chargé de
-l'agriculture :
+- un représentant du ministre chargé de l'agriculture ;
 
-a) Pour trois d'entre elles en raison de leur compétence scientifique et
-technique dont le président du conseil scientifique et technique ;
+- un représentant du ministre chargé du budget ;
 
-b) Pour cinq d'entre elles parmi les représentants des secteurs de la production
-agricole, aquacole et forestière, des industries qui leur sont liées et de
-l'environnement ;
+- un représentant du ministre chargé de l'industrie ;
 
-c) Deux personnalités représentant les organisations professionnelles et
-syndicales des domaines de compétence du centre ;
+- un représentant du ministre chargé de l'environnement.
 
-d) Deux membres de conseils élus des collectivités territoriales ;
+Un suppléant est désigné dans les mêmes conditions pour chacun de ces membres ;
 
-3. Trois représentants des personnels du centre, élus pour une durée de trois
-ans, renouvelable une fois.
+2° Le président du conseil scientifique et technique ;
 
-Les modalités d'élection sont fixées par arrêté conjoint du ministre chargé de
-la recherche et du ministre chargé de l'agriculture.
+3° Trois représentants d'organismes publics ayant une mission de recherche et
+d'enseignement supérieur ;
 
-Le directeur général, le secrétaire général, le directeur scientifique, le
-membre du corps du contrôle général économique et financier et l'agent comptable
-assistent aux séances du conseil avec voix consultative.
+4° Sept personnalités qualifiées, choisies :
+
+- pour trois d'entre elles en raison de leur compétence scientifique et
+technique ;
+
+- pour trois d'entre elles en raison de leur compétence dans le domaine
+économique et social, dont deux représentant le monde du travail et de
+l'économie ;
+
+- pour une d'entre elles parmi les membres de conseils élus des collectivités
+territoriales.
+
+Les administrateurs mentionnés aux 3° et 4° sont nommés pour une durée de quatre
+ans, renouvelable une fois, par arrêté du ministre chargé de la recherche et du
+ministre chargé de l'agriculture.
+
+Les onze administrateurs mentionnés aux 2°, 3° et 4° siègent personnellement.
+Néanmoins, en cas d'absence ou d'empêchement, un de ces administrateurs peut
+donner pouvoir écrit de le représenter à l'un des dix autres administrateurs. Un
+administrateur ne peut détenir plus de deux pouvoirs ;
+
+5° Quatre représentants des personnels de l'institut ou leurs suppléants élus
+pour une durée de quatre ans, renouvelable une fois.
+
+Les modalités d'élection et de remplacement des représentants élus sont fixées
+par arrêté conjoint du ministre chargé de la recherche et du ministre chargé de
+l'agriculture.
+
+Les membres du conseil d'administration décédés ou démissionnaires et ceux qui,
+en cours de mandat, n'exercent plus les fonctions au titre desquelles ils
+avaient été désignés doivent être remplacés. Dans ce cas, le mandat des nouveaux
+membres expire à la date à laquelle aurait normalement pris fin celui de leur
+prédécesseur.
+
+Les fonctions de membre du conseil d'administration sont gratuites. Toutefois,
+leurs frais de déplacement et de séjour peuvent être remboursés dans les
+conditions prévues par la réglementation en vigueur.
+
+Le ou les directeurs généraux délégués, l'autorité chargée du contrôle
+économique et financier et l'agent comptable assistent aux séances avec voix
+consultative.
 
 Le président peut également appeler à participer aux séances, avec voix
 consultative, toute personne dont il juge la présence utile.
-
-Les administrateurs décédés, démissionnaires ou qui n'exercent plus les
-fonctions au titre desquelles ils avaient été nommés ou élus doivent être
-remplacés. Dans ce cas le mandat des nouveaux membres expire à la date à
-laquelle aurait normalement pris fin celui de leur prédécesseur.
-
-Les fonctions de membre du conseil d'administration sont gratuites.

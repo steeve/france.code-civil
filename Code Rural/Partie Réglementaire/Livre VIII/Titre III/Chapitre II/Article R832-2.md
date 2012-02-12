@@ -1,40 +1,44 @@
 Article R832-2
 ----
-Le centre a pour mission de :
+L'institut a pour missions :
 
-1. Réaliser, promouvoir et valoriser tous travaux de recherche scientifique,
-technologique, d'appui technique, d'essai et de certification dans les domaines
-de l'aménagement de l'espace rural et des équipements liés à sa mise en valeur
-comme à celle de ses productions, et notamment en matière de :
+1° D'entreprendre, réaliser, coordonner et soutenir, à moyen et long terme, à
+son initiative ou à la demande de l'Etat, tous travaux de recherche scientifique
+et technologique dans les domaines de l'aménagement et de la gestion durables
+des territoires, en particulier agricoles et naturels, et de leurs ressources.
 
-a) Gestion des ressources en eau, hydrobiologie, amélioration de la qualité des
-eaux, hydraulique agricole et aquaculture ;
+Ces travaux de recherche portent notamment sur :
 
-b) Gestion et protection des ressources naturelles renouvelables et de l'espace
-rural en particulier dans les zones de montagne et les zones défavorisées ;
+a) Le traitement des interactions entre les milieux naturels, les zones
+agricoles et urbaines ;
 
-c) Protection, aménagement et gestion de la forêt ;
+b) La gestion de la ressource en eau, l'amélioration de la qualité des eaux et
+des milieux aquatiques autres que marins ;
 
-d) Machinisme et équipements agricoles, forestiers et aquacoles ;
+c) La prévention, la prévision et l'atténuation des risques liés à la pollution
+des écosystèmes, au cycle de l'eau et à la sécurité des ouvrages hydrauliques ;
 
-e) Stockage, conditionnement et biens d'équipements pour les industries
-agro-alimentaires ;
+d) La gestion et la valorisation des ressources naturelles et de la biodiversité
+aquatique et forestière ;
 
-f) Production et utilisation rationnelle de l'énergie dans l'agriculture et les
-industries agro-alimentaires ;
+e) La connaissance de l'environnement par l'observation dans ses domaines de
+compétence ;
 
-2. Participer à l'élaboration de références technico-économiques et à l'appui
-technique dans le domaine des productions agricoles, dans le cadre d'une
-convention prévue à l'article R. 832-17 ;
+f) La conception et le développement de procédés et technologies liés en
+particulier au traitement des déchets et rejets, aux activités agricoles,
+forestières et agroalimentaires et à l'aménagement des territoires ;
 
-3. Mettre en oeuvre une politique d'information scientifique et technique à
-l'intention des divers milieux socio-professionnels ;
+2° De produire et mobiliser, à partir des résultats de ses travaux, les
+connaissances scientifiques et technologiques nécessaires aux politiques
+publiques et de promouvoir la normalisation ;
 
-4. Apporter son concours à la formation à la recherche et par la recherche ;
+3° De conduire des expertises scientifiques et techniques ;
 
-5. Participer à la promotion des techniques françaises dans les pays étrangers.
+4° De contribuer, dans les conditions déterminées par le code de la recherche, à
+la valorisation des résultats de ses travaux ;
 
-Ces missions s'exercent en particulier au profit des administrations, des
-organismes qui leur sont rattachés, des collectivités territoriales, des
-organisations professionnelles et des entreprises pour les aider dans leurs
-prises de décisions économiques et techniques.
+5° De favoriser la publication de tous travaux et études liés à ses activités et
+de contribuer à la diffusion des connaissances scientifiques et techniques ;
+
+6° D'apporter son concours à l'enseignement supérieur et à la formation à la
+recherche et par la recherche dans ses domaines de compétences.

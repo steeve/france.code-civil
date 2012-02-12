@@ -1,5 +1,6 @@
 Article R832-12
 ----
-Le directeur général peut créer des services spécialisés pour remplir des
-fonctions relevant des activités du centre ou des groupements. Les services sont
-rattachés soit à la direction générale soit à un groupement.
+Le président de l'institut peut créer des directions et services spécialisés
+pour remplir des fonctions relevant des activités de l'institut ou des centres.
+Ces directions et services sont rattachés soit à la direction générale, soit à
+un centre.

@@ -1,8 +1,13 @@
 Article R832-14
 ----
-Les groupements sont constitués par les divisions et les services d'une même
-unité géographique. Les groupements sont créés ou supprimés par décision du
-directeur général après accord du conseil d'administration. Les directeurs de
-groupements, nommés au maximum pour quatre ans renouvelables deux fois, assurent
-sous l'autorité du directeur général l'administration des groupements et sont
-les correspondants du centre avec les autorités et organisations régionales.
+Les centres sont constitués par le regroupement géographique d'unités et de
+services. Les centres sont créés, modifiés ou supprimés par décision du
+président de l'institut, après accord du conseil d'administration.
+
+Le président de l'institut nomme les directeurs régionaux. La durée de leur
+mandat est de quatre ans, renouvelable deux fois.
+
+Les directeurs régionaux assurent, sous l'autorité du président de l'institut,
+l'administration des centres, ont autorité sur l'ensemble des personnels
+affectés au centre et sont les représentants de l'institut auprès des autorités
+et organisations régionales.
