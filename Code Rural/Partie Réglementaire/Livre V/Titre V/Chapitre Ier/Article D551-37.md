@@ -13,8 +13,8 @@ collectivité territoriale d'outre-mer ou dans la collectivité territoriale de
 Corse.
 
 Les valeurs de production commercialisée sont calculées selon les modalités
-définies aux articles 52 et 53 du règlement (CE) n° 1580 / 2007 du 21 décembre
-2007 susmentionné ;
+définies aux articles 50 et 51 du règlement d'exécution (UE) n° 543/2011 du 7
+juin 2011 susmentionné ;
 
 2° Et qui regroupent au moins cinq producteurs. Dans les cas où un demandeur qui
 sollicite la reconnaissance est constitué, en tout ou en partie, de membres qui

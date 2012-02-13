@@ -1,9 +1,9 @@
 Article D664-28
 ----
-Pour l'application de l'article 100 du règlement (CE) n° 1580 / 2007 de la
-Commission du 21 décembre 2007, un arrêté du ministre chargé de l'agriculture
-fixe les modalités du système d'identification unique, conforme au décret n°
-73-314 du 17 mars 1973 portant création d'un système national d'identification
-et d'un répertoire des entreprises et de leurs établissements, appliqué pour
+Pour l'application de l'article 99 du règlement d'exécution (UE) n° 543/2011 de
+la Commission du 7 juin 2011, un arrêté du ministre chargé de l'agriculture fixe
+les modalités du système d'identification unique, conforme au système national
+d'identification et du répertoire des entreprises et de leurs établissements
+prévu aux articles R. 123-220 à R. 123-234 du code de commerce, appliqué pour
 toutes les demandes d'aide présentées par une même organisation de producteurs
 ou une association d'organisations de producteurs.

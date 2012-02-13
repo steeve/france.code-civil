@@ -1,7 +1,7 @@
 Article D664-3
 ----
 Les programmes opérationnels des organisations de producteurs doivent comporter
-les éléments mentionnés à l'article 61 du règlement (CE) n° 1580 / 2007
+les éléments mentionnés à l'article 59 du règlement d'exécution (UE) n° 543/2011
 susmentionné.
 
 En application du 3 de l'article 103 quater du règlement (CE) n° 1234 / 2007
@@ -14,21 +14,22 @@ Les organisations de producteurs demandent l'approbation de leur programme
 opérationnel auprès du directeur général de FranceAgriMer.
 
 Les organisations de producteurs assurent le contrôle interne de la régularité
-des paiements forfaitaires prévus en application du 5 de l'article 61 du
-règlement (CE) n° 1580 / 2007 susmentionné pour les dépenses engagées au titre
-des programmes opérationnels. S'il est constaté que ce contrôle n'est pas
-réalisé ou est insuffisant, le directeur général de FranceAgriMer peut prononcer
-des sanctions pécuniaires pouvant atteindre 100 % du montant total de la dépense
-forfaitaire concernée. S'il est constaté que l'un des adhérents ne remplit pas
-ses obligations concernant une ou des dépenses forfaitaires, le directeur
-général de FranceAgriMer peut prononcer des sanctions pouvant atteindre 100 % de
-l'aide correspondant au montant de la dépense forfaitaire de l'adhérent.
+des paiements forfaitaires prévus en application du 2 de l'article 60 du
+règlement d'exécution (UE) n° 543/2011 susmentionné pour les dépenses engagées
+au titre des programmes opérationnels. S'il est constaté que ce contrôle n'est
+pas réalisé ou est insuffisant, le directeur général de FranceAgriMer peut
+prononcer des sanctions pécuniaires pouvant atteindre 100 % du montant total de
+la dépense forfaitaire concernée. S'il est constaté que l'un des adhérents ne
+remplit pas ses obligations concernant une ou des dépenses forfaitaires, le
+directeur général de FranceAgriMer peut prononcer des sanctions pouvant
+atteindre 100 % de l'aide correspondant au montant de la dépense forfaitaire de
+l'adhérent.
 
 Un arrêté du ministre chargé de l'agriculture précise :
 
 1° La liste des documents qui doivent être joints à la demande d'approbation du
-programme opérationnel, en complément de ceux mentionnés à l'article 62 du
-règlement (CE) n° 1580 / 2007 susmentionné ;
+programme opérationnel, en complément de ceux mentionnés à l'article 61 du
+règlement d'exécution (UE) n° 543/2011 susmentionné ;
 
 2° Les règles complémentaires d'éligibilité des mesures, actions ou dépenses
 dans le cadre des programmes opérationnels ;

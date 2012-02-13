@@ -1,9 +1,9 @@
 Article D551-46
 ----
-En application de l'article 125 quinquies du règlement (CE) n° 1234 / 2007 du 22
-octobre 2007 et de l'article 29 du règlement (CE) n° 1580 / 2007 du 22 octobre
-2007 susmentionnés, une organisation de producteurs peut confier à des tiers
-l'exécution des tâches définies aux articles D. 551-40 à D. 551-44, à
+En application de l'article 125 quinquies du règlement (CE) n° 1234/2007 du 22
+octobre 2007 et de l'article 27 du règlement d'exécution (UE) n° 543/2011 du 7
+juin 2011 susmentionnés, une organisation de producteurs peut confier à des
+tiers l'exécution des tâches définies aux articles D. 551-40 à D. 551-44, à
 l'exception de la connaissance de la production.
 
 Les modalités de cette délégation sont définies par convention écrite conclue

@@ -6,8 +6,8 @@ de FranceAgriMer, sur la demande de l'organisation de producteurs qui leur
 fournit les produits.
 
 FranceAgriMer s'assure que les exploitants sont en mesure de satisfaire aux
-obligations définies au 2 de l'article 84 du règlement (CE) n° 1580 / 2007
-susmentionné.
+obligations définies au 2 de l'article 83 du règlement d'exécution (UE) n°
+543/2011 susmentionné.
 
 Un arrêté du ministre chargé de l'agriculture précise les modalités de contrôle
 des quantités de produits délivrées aux exploitants par l'organisation de

@@ -3,8 +3,8 @@ Article D664-7
 I.-Les organisations de producteurs et les associations d'organisations de
 producteurs peuvent demander au directeur général de FranceAgriMer la
 modification de leur programme opérationnel pour l'année en cours dans les
-conditions mentionnées au 2 de l'article 67 du règlement (CE) n° 1580 / 2007
-susmentionné.
+conditions mentionnées au 3 de l'article 66 du règlement d'exécution (UE) n°
+543/2011 susmentionné.
 
 II.-Sont soumises à autorisation du directeur général de FranceAgriMer les
 demandes de modification des programmes concernant :
@@ -15,10 +15,10 @@ opérationnel ;
 2° L'augmentation de plus de 25 % des montants consacrés à une ou plusieurs
 mesures.
 
-Par dérogation au 2°, en cas de fusion d'organisations de producteurs au sens du
-1 de l'article 31 du règlement (CE) n° 1580 / 2007, le montant du fonds
-opérationnel qui résulte de la fusion est limité à la somme des fonds
-opérationnels fusionnés, augmentée de 25 %.
+En cas de fusion d'organisations de producteurs au sens du 1 de l'article 29 du
+règlement d'exécution (UE) n° 543/2011, le montant du fonds opérationnel qui
+résulte de la fusion est limité à la somme des fonds opérationnels fusionnés,
+augmentée de 25 %.
 
 Un arrêté du ministre chargé de l'agriculture fixe la liste des pièces à joindre
 à l'appui de la demande de modification, ainsi que la date limite de dépôt de

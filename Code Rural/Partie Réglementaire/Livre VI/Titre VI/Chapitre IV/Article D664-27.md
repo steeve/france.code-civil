@@ -2,7 +2,7 @@ Article D664-27
 ----
 Les services de FranceAgriMer effectuent les contrôles sur place préalablement
 et postérieurement aux opérations de récolte en vert ou de non-récolte, dans les
-conditions définies à l'article 112 du règlement (CE) n° 1580 / 2007
+conditions définies à l'article 110 du règlement d'exécution (UE) n° 543/2011
 susmentionné.
 
 En cours ou en fin de campagne, FranceAgriMer peut effectuer, par sondage, des

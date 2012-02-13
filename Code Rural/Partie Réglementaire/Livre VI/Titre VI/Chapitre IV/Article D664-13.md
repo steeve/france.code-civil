@@ -1,6 +1,6 @@
 Article D664-13
 ----
-La notification prévue à l'article 69 du règlement (CE) n° 1580 / 2007
+La notification prévue à l'article 68 du règlement d'exécution (UE) n° 543/2011
 susmentionné est faite par le directeur général de FranceAgriMer.
 
 Pour l'application du 3 de l'article 103 quinquies du règlement (CE) n° 1234 /

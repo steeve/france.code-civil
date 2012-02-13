@@ -1,9 +1,9 @@
 Article D664-26
 ----
 Les organisations de producteurs notifient à FranceAgriMer les opérations de
-non-récolte et de récolte en vert définies à l'article 85 du règlement (CE) n°
-1580 / 2007 susmentionné, dans les conditions définies à l'article 86 du même
-règlement.
+non-récolte et de récolte en vert définies à l'article 84 du règlement
+d'exécution (UE) n° 543/2011 susmentionné, dans les conditions définies à
+l'article 85 du même règlement.
 
 Après chaque opération, elles renseignent un certificat de récolte en vert et de
 non-récolte.

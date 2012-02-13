@@ -1,6 +1,6 @@
 Article D664-15
 ----
-En application des articles 72 et 73 du règlement (CE) n° 1580 / 2007
+En application des articles 71 et 72 du règlement d'exécution (UE) n° 543/2011
 susmentionné, et dans les conditions prévues par ces mêmes articles, les
 organisations de producteurs et associations d'organisations de producteurs
 peuvent demander l'avance, ou le paiement d'une partie de l'aide financière

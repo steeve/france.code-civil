@@ -1,16 +1,16 @@
 Article D664-17
 ----
-Pour l'application de l'article 80 du règlement (CE) n° 1580 / 2007
+Pour l'application de l'article 79 du règlement d'exécution (UE) n° 543/2011
 susmentionné, les montants maximaux de soutien au retrait des produits ne
-figurant pas à l'annexe X de ce règlement et la liste des produits concernés
+figurant pas à l'annexe XI de ce règlement et la liste des produits concernés
 sont fixés par un arrêté du ministre chargé de l'agriculture.
 
 L'organisation de producteurs demande à FranceAgriMer le versement de la
 participation communautaire due au titre du soutien aux retraits du marché.
 
 Après examen de la demande, FranceAgriMer verse la participation au fonds
-opérationnel de l'organisation selon les modalités définies aux articles 71 et
-73 du règlement (CE) n° 1580 / 2007 susmentionné.
+opérationnel de l'organisation selon les modalités définies aux articles 70 et
+72 du règlement d'exécution (UE) n° 543/2011 susmentionné.
 
 Un arrêté du ministre chargé de l'agriculture détermine les modalités selon
 lesquelles FranceAgriMer s'assure que pour un produit donné la quantité retirée
