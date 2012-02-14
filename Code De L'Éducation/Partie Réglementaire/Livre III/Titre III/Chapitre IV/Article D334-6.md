@@ -11,6 +11,3 @@ réglementation en vigueur concernant les conditions de dispense de l'épreuve
 d'éducation physique et sportive peuvent demander à participer à cette épreuve,
 aménagée selon des modalités précisées par arrêté du ministre chargé de
 l'éducation.
-
-Les candidats reconnus handicapés auditifs sont dispensés, à leur demande, des
-épreuves de langues vivantes autres que la langue vivante 1.

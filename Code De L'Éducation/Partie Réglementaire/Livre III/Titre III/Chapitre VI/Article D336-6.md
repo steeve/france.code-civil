@@ -9,6 +9,3 @@ Les candidats reconnus handicapés physiques et déclarés aptes à subir l'épr
 d'éducation physique et sportive peuvent demander à participer à cette épreuve,
 aménagée selon des modalités précisées par arrêté du ministre chargé de
 l'éducation.
-
-Les candidats reconnus handicapés auditifs sont dispensés, à leur demande,
-d'épreuves de langues vivantes autres que la langue vivante 1.
