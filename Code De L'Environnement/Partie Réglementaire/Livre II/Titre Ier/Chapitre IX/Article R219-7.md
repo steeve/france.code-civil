@@ -12,7 +12,7 @@ Ces objectifs environnementaux sont cohérents avec ceux applicables aux mêmes
 eaux et approuvés dans un cadre européen ou international, notamment en matière
 de conservation des ressources biologiques de la mer dans le cadre de la
 politique commune de la pêche, ainsi qu'avec ceux fixés au niveau national, sous
-réserve des dispositions plus contraignantes de l'article 219-4.
+réserve des dispositions plus contraignantes de l'article R. 219-4.
 
 Un arrêté du ministre chargé de l'environnement précise les critères et méthodes
 à mettre en œuvre pour l'élaboration des objectifs environnementaux et des
