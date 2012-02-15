@@ -2,7 +2,7 @@ Article R265
 ----
 Les dispositions des chapitres Ier, II, II bis et III du titre IV du livre Ier
 du présent code (partie réglementaire), dans leur rédaction en vigueur à la date
-du décret n° 2009-430 du 20 avril 2009, sont applicables à l'élection des
+du décret n° 2012-220 du 16 février 2012, sont applicables à l'élection des
 membres des conseils municipaux en Nouvelle-Calédonie et en Polynésie française,
 sous réserve des adaptations suivantes :
 

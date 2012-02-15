@@ -11,7 +11,7 @@ défaut, un certificat de nationalité, le passeport ou la carte nationale
 d'identité en cours de validité et un bulletin n° 3 du casier judiciaire délivré
 depuis moins de trois mois ;
 
-II. Si l'intéressé n'est pas domicilié dans le département ou que les pièces
+II.-Si l'intéressé n'est pas domicilié dans le département ou que les pièces
 mentionnées au I n'établissent pas son domicile dans le département :
 
 a) Soit un avis d'imposition ou un extrait de rôle délivré par le comptable du
@@ -34,6 +34,10 @@ et des éléments que celui-ci produit, et sous réserve d'une modification de s
 situation dont l'autorité compétente n'aurait pas eu connaissance, justifie
 qu'il devait être inscrit au rôle des contributions directes dans le département
 au 1er janvier de l'année de l'élection.
+
+III.-Dans les cantons de 9 000 habitants et plus, la déclaration de candidature
+est également accompagnée des pièces prévues, selon le cas, au 1° ou au 2° du II
+de l'article R. 99.
 
 En cas de second tour, le candidat est dispensé de produire à nouveau
 l'acceptation du remplaçant et les pièces prévues au présent article, fournies à

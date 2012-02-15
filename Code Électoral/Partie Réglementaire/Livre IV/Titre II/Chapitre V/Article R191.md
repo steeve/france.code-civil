@@ -9,3 +9,6 @@ Elles sont rédigées sur papier libre.
 
 Chaque déclaration doit être accompagnée de la copie d'une des pièces
 mentionnées au I de l'article R. 109-2.
+
+Elle est également accompagnée des pièces prévues, selon le cas, au 1° ou au 2°
+du II de l'article R. 99.
