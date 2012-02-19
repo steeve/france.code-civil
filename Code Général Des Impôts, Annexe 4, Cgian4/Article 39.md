@@ -1,6 +1,6 @@
 Article 39
 ----
-1. 1° La date limite à laquelle les redevables sont tenus de remettre ou
+1.1° La date limite à laquelle les redevables sont tenus de remettre ou
 d'envoyer au service des impôts la déclaration ou le paiement mentionnés aux 1
 et 3 de l'article 287 du code général des impôts est fixé comme suit :
 
@@ -28,17 +28,17 @@ ci-après :
 
 Toutes sociétés autres que les sociétés anonymes :
 
-00, 01, 02... jusqu'à 68 inclus : au plus tard le 19 du mois suivant ;
+00,01,02... jusqu'à 68 inclus : au plus tard le 19 du mois suivant ;
 
-69, 70, 71... jusqu'à 78 inclus : au plus tard le 20 du mois suivant ;
+69,70,71... jusqu'à 78 inclus : au plus tard le 20 du mois suivant ;
 
-79, 80, 81... jusqu'à 99 : au plus tard le 21 du mois suivant.
+79,80,81... jusqu'à 99 : au plus tard le 21 du mois suivant.
 
 Sociétés anonymes :
 
-00, 01, 02... jusqu'à 74 inclus : au plus tard le 23 du mois suivant ;
+00,01,02... jusqu'à 74 inclus : au plus tard le 23 du mois suivant ;
 
-75, 76, 77... jusqu'à 99 : au plus tard le 24 du mois suivant.
+75,76,77... jusqu'à 99 : au plus tard le 24 du mois suivant.
 
 Autres redevables : au plus tard le 24 du mois suivant.
 
@@ -72,6 +72,14 @@ cours de ces mois sont ceux prévus aux b, c et e.
 e. Pour les taxes dues, selon le cas, au titre du mois ou du trimestre par les
 redevables visés au premier alinéa du I de l'article 95 de l'annexe III et
 placés sous le régime de la déclaration : au plus tard le 19 du mois suivant.
+
+f. Pour les déclarations déposées par les assujettis membres du groupe désignés
+au 3 de l'article 1693 ter du code général des impôts : aux dates prévues aux b
+et c du 1°.
+
+Pour la déclaration récapitulative mentionnée au a du 3 de l'article 1693 ter du
+même code déposée par le redevable mentionné au 1 de l'article 1693 ter de ce
+code : au plus tard le 24 du mois suivant.
 
 2° (périmé).
 
