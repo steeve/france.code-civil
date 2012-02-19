@@ -22,6 +22,11 @@ un document l'informant du montant global par impôt des droits, des pénalités
 des intérêts de retard dont elle est redevable. L'avis de mise en recouvrement,
 qui peut être alors émis sans délai, fait référence à ce document.
 
+Les dispositions de l'alinéa précédent sont applicables au redevable du groupe
+mentionné à l'article 1693 ter du code général des impôts, lorsqu'il est amené à
+supporter les droits et pénalités résultant d'une procédure de rectification
+suivie à l'égard d'un ou plusieurs membres du groupe.
+
 L'avis de mise en recouvrement, dans le cas mentionné au troisième alinéa de
 l'article L. 256, indique seulement le montant de la somme indûment versée, et
 la date de son versement.
