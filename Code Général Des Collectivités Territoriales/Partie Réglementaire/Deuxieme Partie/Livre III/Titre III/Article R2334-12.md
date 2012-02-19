@@ -28,4 +28,7 @@ d) Aménagement de carrefours ;
 
 e) Différenciation du trafic ;
 
-f) Travaux commandés par les exigences de la sécurité routière.
+f) Travaux commandés par les exigences de la sécurité routière ;
+
+g) Etudes et mise en œuvre d'expérimentations de zones d'actions prioritaires
+pour l'air prévues à l'article L. 228-3 du code de l'environnement.
