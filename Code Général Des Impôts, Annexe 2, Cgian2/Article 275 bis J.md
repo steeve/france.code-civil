@@ -1,7 +1,7 @@
 Article 275 bis J
 ----
 Le professionnel habilité prélève, de manière aléatoire, des échantillons dans
-les lots d'ouvrages sur lesquels il appose le poinçon selon un plan
+les lots d'ouvrages pour lesquels il atteste la garantie du titre selon un plan
 d'échantillonnage défini dans la convention.
 
 Ces échantillons sont tenus à la disposition des agents de l'administration

@@ -12,4 +12,4 @@ présenter ses observations dans un délai de trente jours.
 
 Lorsqu'un organisme ne remplit plus les conditions prévues par les articles 275
 ter à 275 ter P, il est tenu de demander le retrait de son agrément et de cesser
-sans délai de délivrer la garantie.
+sans délai d'attester la garantie du titre.

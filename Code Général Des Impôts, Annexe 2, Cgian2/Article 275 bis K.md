@@ -12,6 +12,7 @@ informé des motifs susceptibles d'entraîner la résiliation de la convention e
 est mis à même de présenter ses observations dans un délai de quinze jours. La
 décision de résiliation est motivée. La résiliation prend effet à l'expiration
 d'un délai d'un mois à compter de la notification de la décision de résiliation.
-A l'expiration de ce délai, le professionnel remet immédiatement les poinçons de
-titre qu'il détient à l'administration et ne peut plus apposer le poinçon de
-garantie sur les ouvrages qu'il détient.
+A l'expiration de ce délai, le professionnel remet immédiatement à
+l'administration des douanes et droits indirects les poinçons de titre et les
+fichiers informatiques supportant la version dématérialisée des poinçons qu'il
+détient.
