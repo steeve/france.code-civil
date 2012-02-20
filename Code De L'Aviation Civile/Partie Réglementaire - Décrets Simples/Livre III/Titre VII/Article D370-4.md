@@ -26,9 +26,10 @@ départements de France ;
 - un représentant du ministre chargé de l'outre-mer.
 
 Les représentants des ministres sont nommés sur proposition de chacun d'entre
-eux.
+eux ;
 
-4° Le président du Conseil national des transports ou son représentant ;
+4° Le président du Conseil supérieur des transports terrestres et de
+l'intermodalité ;
 
 5° Trois représentants des entreprises de transport aérien désignés après avis
 des organisations professionnelles intéressées ;
