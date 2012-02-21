@@ -7,18 +7,6 @@ quantités de référence laitières détenues par ses associés, sans apport ni
 à disposition à quelque titre que ce soit des terres auxquelles ces quantités
 correspondent.
 
-Le transfert à la société des quantités de référence laitières détenues par les
-producteurs associés ne donne pas lieu aux prélèvements mentionnés aux articles
-D. 654-102 et D. 654-103.
-
-Lorsque l'un des associés agrandit son exploitation par adjonction de terres
-auxquelles correspondent des quantités de référence laitières, les prélèvements
-correspondants sont calculés en tenant compte des quantités de référence
-laitières apportées par l'intéressé à la société, soit qu'il en ait disposé à
-son adhésion, soit qu'il en ait bénéficié ultérieurement. Le transfert à la
-société des quantités de référence laitières afférentes aux terres adjointes à
-l'exploitation ne donne pas lieu à prélèvement.
-
 Dans le cas où les quantités de référence laitières, dont le transfert à une
 société civile constituée en application du premier alinéa est envisagé,
 correspondent à des terres prises à bail pour lesquelles un acte de nature à
@@ -97,13 +85,8 @@ l'autorisation devient caduque.
 
 En cas de retrait ou de caducité de l'autorisation, les quantités de référence
 laitières que chaque producteur a transférées à la société lui sont
-réattribuées. Il est alors fait application des dispositions de l'article D.
-654-102. Il en est de même lorsque l'un des associés cesse de faire partie de la
-société.
-
-Toutefois, la dissolution par les associés d'une société créée depuis plus de
-cinq ans ou le départ de l'un des associés plus de cinq ans après la date de son
-adhésion ne donne pas lieu aux prélèvements mentionnés à l'article D. 654-102.
+réattribuées. Il en est de même lorsque l'un des associés cesse de faire partie
+de la société.
 
 IV.-Les groupements agricoles d'exploitation en commun ayant pour objet la mise
 en commun de la seule activité de production laitière des associés, autorisés
