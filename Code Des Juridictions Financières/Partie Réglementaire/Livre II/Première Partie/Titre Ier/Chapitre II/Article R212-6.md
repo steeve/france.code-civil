@@ -1,48 +1,37 @@
 Article R212-6
 ----
-Le nombre des sections des chambres régionales des comptes désignées ci-après
-est fixé comme suit :
+Le nombre des sections des chambres régionales des comptes est fixé comme suit :
 
 Alsace : une section ;
 
-Aquitaine : trois sections ;
+Aquitaine, Poitou-Charentes : quatre sections ;
 
-Auvergne : une section ;
+Auvergne, Rhône-Alpes : cinq sections ;
 
-Bourgogne : une section ;
+Basse-Normandie, Haute-Normandie : deux sections ;
+
+Bourgogne, Franche-Comté : deux sections ;
 
 Bretagne : trois sections ;
 
-Centre : deux sections ;
+Centre, Limousin : trois sections ;
 
-Champagne-Ardenne : une section ;
-
-Ile-de-France : huit sections ;
-
-Languedoc-Roussillon : deux sections ;
-
-Lorraine : deux sections ;
-
-Midi-Pyrénées : deux sections ;
-
-Nord - Pas-de-Calais : trois sections ;
-
-Basse-Normandie : une section ;
-
-Haute-Normandie : une section ;
-
-Pays de la Loire : trois sections ;
-
-Picardie : une section ;
-
-Poitou-Charentes : une section ;
-
-Provence-Alpes-Côte d'Azur : quatre sections ;
-
-Rhône-Alpes : quatre sections ;
+Champagne-Ardenne, Lorraine : trois sections ;
 
 Guadeloupe : une section ;
 
 Guyane : une section ;
 
-Martinique : une section.
+Ile-de-France : huit sections ;
+
+Languedoc-Roussillon : deux sections ;
+
+Martinique : une section ;
+
+Midi-Pyrénées : deux sections ;
+
+Nord-Pas-de-Calais, Picardie : quatre sections ;
+
+Pays de la Loire : trois sections ;
+
+Provence-Alpes-Côte d'Azur : quatre sections.

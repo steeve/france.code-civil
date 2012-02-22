@@ -1,58 +1,44 @@
 Article R212-1
 ----
-Les sièges des chambres régionales des comptes sont fixés comme suit (région et
-siège de la chambre régionale des comptes) :
+Les sièges et les ressorts des chambres régionales des comptes sont fixés comme
+suit :
 
-Alsace (Strasbourg) ;
+Arras : Nord-Pas-de-Calais, Picardie ;
 
-Aquitaine (Bordeaux) ;
+Bastia : Corse ;
 
-Auvergne (Clermont-Ferrand) ;
+Bordeaux : Aquitaine, Poitou-Charentes ;
 
-Bourgogne (Dijon) ;
+Cayenne : Guyane ;
 
-Bretagne (Rennes) ;
+Dijon : Bourgogne, Franche-Comté ;
 
-Centre (Orléans) ;
+Epinal : Champagne-Ardenne, Lorraine ;
 
-Champagne-Ardenne (Châlons-en-Champagne) ;
+Fort-de-France : Martinique ;
 
-Corse (Bastia) ;
+Lyon : Auvergne, Rhône-Alpes ;
 
-Franche-Comté (Besançon) ;
+Mamoudzou : Mayotte ;
 
-Guadeloupe (Basse-Terre) ;
+Marseille : Provence-Alpes-Côte d'Azur ;
 
-Guyane (Cayenne) ;
+Montpellier : Languedoc-Roussillon ;
 
-Ile-de-France (Marne-la-Vallée) ;
+Nantes : Pays de la Loire ;
 
-Languedoc-Roussillon (Montpellier) ;
+Noisiel : Ile-de-France ;
 
-Limousin (Limoges) ;
+Orléans : Centre, Limousin ;
 
-Lorraine (Epinal) ;
+Pointe-à-Pitre : Guadeloupe ;
 
-Martinique (Fort-de-France) ;
+Rennes : Bretagne ;
 
-Mayotte (Mamoudzou) ;
+Rouen : Basse-Normandie, Haute-Normandie ;
 
-Midi-Pyrénées (Toulouse) ;
+Saint-Denis : La Réunion ;
 
-Nord-Pas-de-Calais (Arras) ;
+Strasbourg : Alsace ;
 
-Basse-Normandie (Caen) ;
-
-Haute-Normandie (Rouen) ;
-
-Pays de la Loire (Nantes) ;
-
-Picardie (Amiens) ;
-
-Poitou-Charentes (Poitiers) ;
-
-Provence-Alpes-Côte d'Azur (Marseille) ;
-
-Réunion (Saint-Denis) ;
-
-Rhône-Alpes (Lyon).
+Toulouse : Midi-Pyrénées.
