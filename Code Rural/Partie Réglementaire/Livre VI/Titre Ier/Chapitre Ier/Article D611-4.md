@@ -14,10 +14,4 @@ l'article L. 551-1 ;
 
 c) Sur l'octroi à un groupement de producteurs du secteur des fruits et légumes
 de la préreconnaissance prévue par l'article 38 du règlement d'exécution (UE) n°
-543/2011 du 7 juin 2011 ;
-
-d) Sur l'extension aux producteurs non membres de l'organisation de producteurs
-ou de l'association d'organisations de producteurs établis dans la
-circonscription économique de celle-ci, des règles mentionnées aux articles 125
-septies et 125 undecies du règlement (CE) n° 1234/2007 du Conseil du 22 octobre
-2007.
+543/2011 du 7 juin 2011.

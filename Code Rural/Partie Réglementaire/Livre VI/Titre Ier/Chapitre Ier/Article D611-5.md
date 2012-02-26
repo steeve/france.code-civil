@@ -1,7 +1,7 @@
 Article D611-5
 ----
 I.-La Commission nationale technique est présidée par le directeur général des
-politiques économique, européenne et internationale au ministère de
+politiques agricole, agroalimentaire et des territoires au ministère de
 l'agriculture et de la pêche ou par son représentant.
 
 II.-La Commission nationale technique comprend :
@@ -25,10 +25,10 @@ a) Trois représentants des établissements mentionnés à l'article R. 621-1 ;
 
 b) Un représentant de la coopération agricole ;
 
-c) Cinq représentants des organisations spécialisées de producteurs de la
+c) Quatre représentants des organisations spécialisées de producteurs de la
 filière des fruits et légumes ;
 
-d) Trois représentants des organisations spécialisées de producteurs des
+d) Quatre représentants des organisations spécialisées de producteurs des
 filières de productions animales ;
 
 e) Deux représentants des organisations spécialisées de producteurs de la
