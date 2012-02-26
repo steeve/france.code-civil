@@ -7,10 +7,11 @@ objet :
 travailleurs salariés en matière de prévention, d'éducation et d'information
 sanitaires ;
 
-2°) De verser aux agences régionales de santé et, à Saint-Pierre-et-Miquelon, à
-la caisse générale de sécurité sociale, les crédits destinés à financer des
-actions de prévention, d'éducation et d'information sanitaires, dans les
-conditions prévues par l'article L. 1434-6 du code de la santé publique ;
+2°) De verser au fonds d'intervention régional mentionné à l'article L. 1435-8
+du code de la santé publique et, à Saint-Pierre-et-Miquelon, à la caisse
+générale de sécurité sociale, les crédits destinés à financer des actions de
+prévention, d'éducation et d'information sanitaires, dans les conditions prévues
+par l'article L. 1434-6 du code de la santé publique ;
 
 3°) D'attribuer à chaque caisse primaire d'assurance maladie et à chaque caisse
 d'assurance retraite et de la santé au travail une dotation annuelle de crédits

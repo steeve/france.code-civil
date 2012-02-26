@@ -1,14 +1,12 @@
 Article D6321-7
 ----
-Chaque année, avant le 31 mars, les promoteurs du réseau transmettent aux
+Chaque année, avant le 1er mars, les promoteurs du réseau transmettent aux
 représentants des organismes qui leur ont accordé les financements mentionnés à
 l'article D. 6321-1 un rapport d'activité relatif à l'année précédente
 comportant des éléments d'évaluation ainsi qu'un bilan financier et les
 documents comptables s'y rapportant. Ce rapport précise les résultats obtenus au
 regard du contrat pluriannuel d'objectifs et de moyens conclu entre le réseau et
-l'agence régionale de santé ou de la convention conclue entre le réseau et le
-comité national de gestion du fonds mentionné à l'article L. 221-1-1 du code de
-la sécurité sociale.
+l'agence régionale de santé.
 
 Tous les trois ans et au terme de la décision de financement mentionnée à
 l'article R. 162-61 du code de la sécurité sociale, un rapport d'évaluation est
