@@ -2,18 +2,18 @@ Article *R421-2
 ----
 Sont dispensées de toute formalité au titre du présent code, en raison de leur
 nature ou de leur très faible importance, sauf lorsqu'ils sont implantés dans un
-secteur sauvegardé dont le périmètre a été délimité ou dans un site classé :
+secteur sauvegardé ou dans un site classé :
 
 a) Les constructions nouvelles répondant aux critères cumulatifs suivants :
 
-- une hauteur au-dessus du sol inférieure ou égale à douze mètres ;
+-une hauteur au-dessus du sol inférieure ou égale à douze mètres ;
 
-- une emprise au sol inférieure ou égale à deux mètres carrés ;
+-une emprise au sol inférieure ou égale à cinq mètres carrés ;
 
-- une surface de plancher inférieure ou égale à deux mètres carrés.
+-une surface de plancher inférieure ou égale à cinq mètres carrés.
 
-b) Les habitations légères de loisirs implantées dans un terrain de camping ou
-un parc résidentiel de loisirs autorisé et dont la surface de plancher est
+b) Les habitations légères de loisirs implantées dans les emplacements
+mentionnés aux 1° à 4° de l'article R. 111-32 et dont la surface de plancher est
 inférieure ou égale à trente-cinq mètres carrés ;
 
 c) Les éoliennes terrestres dont la hauteur du mât et de la nacelle au-dessus du
@@ -29,11 +29,13 @@ e) Les châssis et serres dont la hauteur au-dessus du sol est inférieure ou
 égale à un mètre quatre-vingts ;
 
 f) Les murs dont la hauteur au-dessus du sol est inférieure à deux mètres, sauf
-s'ils constituent des clôtures régies par l'article R. 421-12 ;
+s'ils constituent des clôtures régies par l'article R*421-12 ;
 
-g) Les clôtures, en dehors des cas prévus à l'article R. 421-12, ainsi que les
+g) Les clôtures, en dehors des cas prévus à l'article R*421-12, ainsi que les
 clôtures nécessaires à l'activité agricole ou forestière ;
 
 h) Le mobilier urbain ;
 
-i) Les caveaux et monuments funéraires situés dans l'enceinte d'un cimetière.
+i) Les caveaux et monuments funéraires situés dans l'enceinte d'un cimetière ;
+
+j) Les terrasses ou plates-formes de plain-pied.

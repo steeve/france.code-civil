@@ -1,12 +1,11 @@
 Article *R421-9
 ----
-En dehors des secteurs sauvegardés dont le périmètre a été délimité et des sites
-classés, les constructions nouvelles suivantes doivent être précédées d'une
-déclaration préalable, à l'exception des cas mentionnés à la sous-section 2
-ci-dessus :
+En dehors des secteurs sauvegardés, les constructions nouvelles suivantes
+doivent être précédées d'une déclaration préalable, à l'exception des cas
+mentionnés à la sous-section 2 ci-dessus :
 
 a) Les constructions dont soit l'emprise au sol, soit la surface de plancher est
-supérieure à deux mètres carrés et répondant aux critères cumulatifs suivants :
+supérieure à cinq mètres carrés et répondant aux critères cumulatifs suivants :
 
 - une hauteur au-dessus du sol inférieure ou égale à douze mètres ;
 
@@ -22,9 +21,9 @@ c) Les constructions répondant aux critères cumulatifs suivants :
 
 - une hauteur au-dessus du sol supérieure à douze mètres ;
 
-- une emprise au sol inférieure ou égale à deux mètres carrés ;
+- une emprise au sol inférieure ou égale à cinq mètres carrés ;
 
-- une surface de plancher inférieure ou égale à deux mètres carrés ;
+- une surface de plancher inférieure ou égale à cinq mètres carrés ;
 
 d) Les ouvrages et accessoires des lignes de distribution d'énergie électrique
 dont la tension est inférieure à soixante-trois mille volts ;

@@ -17,4 +17,4 @@ performance énergétique du bâtiment mentionnées au 1° du II de l'article R.
 
 Cette attestation est établie sur un formulaire conforme à des prescriptions
 fixées par arrêté. Elle est jointe à la demande de permis de construire dans les
-conditions prévues au g de l'article R. 431-16 du code de l'urbanisme.
+conditions prévues au i de l'article R. 431-16 du code de l'urbanisme.

@@ -11,5 +11,5 @@ sur le terrain ;
 c) Un croquis et un plan coté dans les trois dimensions de l'aménagement faisant
 apparaître, s'il y a lieu, la ou les divisions projetées.
 
-Il est complété, s'il y a lieu, par les documents mentionnés aux articles R.
-441-6 à R. 441-8.
+Il est complété, s'il y a lieu, par les documents mentionnés aux articles
+R*441-6 à R*441-8 et au b de l'article R*442-21.

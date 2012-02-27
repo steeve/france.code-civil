@@ -2,13 +2,12 @@ Article *R421-19
 ----
 Doivent être précédés de la délivrance d'un permis d'aménager :
 
-a) Les lotissements, qui ont pour effet, sur une période de moins de dix ans, de
-créer plus de deux lots à construire :
+a) Les lotissements :
 
-- lorsqu'ils prévoient la réalisation de voies ou espaces communs ;
+-qui prévoient la création ou l'aménagement de voies, d'espaces ou d'équipements
+communs internes au lotissement ;
 
-- ou lorsqu'ils sont situés dans un site classé ou dans un secteur sauvegardé
-dont le périmètre a été délimité ;
+-ou qui sont situés dans un site classé ou dans un secteur sauvegardé ;
 
 b) Les remembrements réalisés par une association foncière urbaine libre régie
 par le chapitre II du titre II du livre III, lorsqu'ils prévoient la réalisation

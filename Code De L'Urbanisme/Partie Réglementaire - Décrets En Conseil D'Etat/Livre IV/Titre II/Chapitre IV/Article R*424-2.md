@@ -1,6 +1,6 @@
 Article R*424-2
 ----
-Par exception au b de l'article R. 424-1, le défaut de notification d'une
+Par exception au b de l'article R*424-1, le défaut de notification d'une
 décision expresse dans le délai d'instruction vaut décision implicite de rejet
 dans les cas suivants :
 
@@ -17,11 +17,11 @@ d) Lorsque le projet est soumis à enquête publique en application des articles
 R. 123-7 à R. 123-23 du code de l'environnement ;
 
 e) Lorsqu'il y a lieu de consulter l'Assemblée de Corse en application de
-l'article R. 423-56 ;
+l'article R*423-56 ;
 
 f) Lorsque le projet est situé dans un espace ayant vocation à être classé dans
 le coeur d'un futur parc national dont la création a été prise en considération
-en application de l'article R. 331-4 du code de l'environnement ou dans le coeur
+en application de l'article R*331-4 du code de l'environnement ou dans le coeur
 d'un parc national délimité en application de l'article L. 331-2 du même code ;
 
 g) Lorsque la délivrance du permis est subordonnée, en application des articles
@@ -35,4 +35,6 @@ h) Lorsque le projet a été soumis pour avis à la commission départementale
 d'aménagement commercial en application de l'article L. 752-4 du code de
 commerce, en cas d'avis défavorable de la commission départementale
 d'aménagement commercial ou, le cas échéant, de la Commission nationale
-d'aménagement commercial.
+d'aménagement commercial ;
+
+i) Lorsque le projet porte sur une démolition soumise à permis en site inscrit.
