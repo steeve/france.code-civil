@@ -50,7 +50,10 @@ j) Les articles R. 231-13 (2°) et R. 231-14 (1° et 2°) du code du tourisme ;
 
 k) L'article 5 du décret n° 2008-1455 du 30 décembre 2008 relatif à la
 déclaration et à l'identification de certains engins motorisés non autorisés à
-circuler sur la voie publique.
+circuler sur la voie publique ;
+
+l) L'article 9 du décret n° 2012-280 du 28 février 2012 relatif au label "
+autopartage ".
 
 3° Contraventions en matière de protection de l'environnement réprimées par :
 
