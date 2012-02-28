@@ -87,11 +87,34 @@ Le schéma est arrêté par décision du représentant de l'Etat dans le départ
 et fait l'objet d'une insertion dans au moins une publication locale diffusée
 dans le département.
 
-Il est révisé selon la même procédure au moins tous les six ans à compter de sa
-publication.
+La procédure de révision du schéma est mise en œuvre au cours de l'année suivant
+le prochain renouvellement général des conseils municipaux, puis tous les six
+ans au moins à compter de la présentation du projet de schéma révisé à la
+commission départementale de la coopération intercommunale. Sa mise en œuvre est
+décidée par arrêté du représentant de l'Etat dans le département ou par une
+résolution adoptée par la commission départementale à la majorité des deux tiers
+de ses membres. Dans ce dernier cas, le représentant de l'Etat dans le
+département dispose d'un délai d'une année à compter de l'adoption de la
+résolution pour présenter à la commission départementale un projet de schéma
+révisé.
 
 V.-Sur le territoire des départements de Paris, des Hauts-de-Seine, de
-Seine-Saint-Denis et du Val-de-Marne, les schémas départementaux de coopération
+Seine-Saint-Denis et du Val-de-Marne, ainsi que dans les îles maritimes
+composées d'une seule commune, les schémas départementaux de coopération
 intercommunale ne sont pas dans l'obligation de prévoir la couverture intégrale
 du territoire par des établissements publics de coopération intercommunale à
 fiscalité propre.
+
+VI.-Par dérogation au principe de continuité du territoire, pour les
+départements de Paris, du Val-de-Marne, des Hauts-de-Seine et de
+Seine-Saint-Denis, deux communes non contiguës parce qu'elles sont séparées par
+un bois appartenant à une commune tierce qui n'est pas comprise dans le
+périmètre d'un établissement public de coopération intercommunale à fiscalité
+propre peuvent constituer entre elles, et éventuellement avec d'autres communes,
+un établissement public de coopération intercommunale à fiscalité propre.
+
+Par dérogation au principe de continuité du territoire et à la condition de
+respecter le 2° du III, une commune enclavée dans un département différent de
+celui auquel elle est administrativement rattachée peut appartenir à un
+établissement public de coopération intercommunale à fiscalité propre dont le
+siège est fixé dans son département de rattachement.

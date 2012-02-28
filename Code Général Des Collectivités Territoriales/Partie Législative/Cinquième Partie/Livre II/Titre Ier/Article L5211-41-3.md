@@ -93,12 +93,15 @@ intercommunale existant avant la fusion sont exercées par le nouvel
 établissement public de coopération intercommunale à fiscalité propre sur
 l'ensemble de son périmètre ou, si l'organe délibérant de celui-ci le décide
 dans un délai de trois mois à compter de l'entrée en vigueur de l'arrêté
-décidant la fusion, font l'objet d'une restitution aux communes. Jusqu'à cette
-délibération ou, au plus tard, jusqu'à l'expiration du délai précité, le nouvel
-établissement public exerce, dans les anciens périmètres correspondant à chacun
-des établissements publics de coopération intercommunale ayant fusionné, les
-compétences transférées à titre optionnel ou supplémentaire par les communes à
-chacun de ces établissements publics.
+décidant la fusion, font l'objet d'une restitution aux communes. Toutefois, ce
+délai est porté à deux ans lorsque cette restitution porte sur des compétences
+ni obligatoires, ni optionnelles. La délibération de l'organe délibérant peut
+prévoir que ces compétences font l'objet d'une restitution partielle. Jusqu'à
+cette délibération ou, au plus tard, jusqu'à l'expiration du délai précité, le
+nouvel établissement public exerce, dans les anciens périmètres correspondant à
+chacun des établissements publics de coopération intercommunale ayant fusionné,
+les compétences transférées à titre optionnel ou supplémentaire par les communes
+à chacun de ces établissements publics.
 
 Dans le cas où le nouvel établissement public relève d'une catégorie disposant
 de compétences obligatoires en nombre supérieur à celle des établissements
@@ -148,7 +151,7 @@ application du troisième alinéa de l'article 111 de la loi n° 84-53 du 26
 janvier 1984 portant dispositions statutaires relatives à la fonction publique
 territoriale.
 
-IV.- Le nombre et la répartition des membres de l'organe délibérant du nouvel
+IV.-Le nombre et la répartition des membres de l'organe délibérant du nouvel
 établissement public sont déterminés dans les conditions prévues à l'article L.
 5211-6-1.
 

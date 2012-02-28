@@ -34,3 +34,7 @@ de l'article 111 de la loi n° 84-53 du 26 janvier 1984 précitée.
 En fonction de la mission réalisée, le personnel des services communs est placé
 sous l'autorité fonctionnelle du maire ou sous celle du président de
 l'établissement public.
+
+Le maire ou le président de l'établissement public peut donner, sous sa
+surveillance et sa responsabilité, par arrêté, délégation de signature au chef
+du service commun pour l'exécution des missions qui lui sont confiées.
