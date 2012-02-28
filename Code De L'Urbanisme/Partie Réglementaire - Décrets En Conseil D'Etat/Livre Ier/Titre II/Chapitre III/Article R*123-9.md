@@ -37,32 +37,64 @@ propriété ;
 11° L'aspect extérieur des constructions et l'aménagement de leurs abords ainsi
 que, éventuellement, les prescriptions de nature à assurer la protection des
 éléments de paysage, des quartiers, îlots, immeubles, espaces publics,
-monuments, sites et secteurs à protéger mentionnés au i de l'article R. 123-11 ;
+monuments, sites et secteurs à protéger mentionnés au h de l'article R.* 123-11
+;
 
 12° Les obligations imposées aux constructeurs en matière de réalisation d'aires
-de stationnement ;
+de stationnement compatibles, lorsque le plan local d'urbanisme ne tient pas
+lieu de plan de déplacements urbains, avec les obligations définies par le
+schéma de cohérence territoriale en application des deuxième à quatrième alinéas
+de l'article L. 122-1-8 ;
 
 13° Les obligations imposées aux constructeurs en matière de réalisation
 d'espaces libres, d'aires de jeux et de loisirs, et de plantations ;
 
-14° Le coefficient d'occupation du sol défini par l'article R. 123-10 et, le cas
-échéant, dans les zones d'aménagement concerté, la surface de plancher nette
-dont la construction est autorisée dans chaque îlot.
+14° Le coefficient d'occupation du sol défini par l'article R.* 123-10 et, le
+cas échéant, dans les zones d'aménagement concerté, la surface de plancher nette
+dont la construction est autorisée dans chaque îlot ;
 
-Lorsque le plan de déplacements urbains a délimité, en application de l'article
-28-1-2 de la loi n° 82-1153 du 30 décembre 1982 modifiée, des périmètres à
-l'intérieur desquels les conditions de desserte par les transports publics
-réguliers permettent de réduire ou de supprimer les obligations imposées en
-matière de réalisation d'aires de stationnement, notamment lors de la
-construction d'immeubles de bureaux, le plan local d'urbanisme respecte ces
-limitations et, le cas échéant, fixe un nombre maximum d'aires de stationnement
-à réaliser lors de la construction de bâtiments à un usage autre que
-d'habitation.
+15° Les obligations imposées aux constructions, travaux, installations et
+aménagements, en matière de performances énergétiques et environnementales ;
 
-Dans les secteurs mentionnés au troisième alinéa de l'article R. 123-8, le
-règlement prévoit les conditions de hauteur, d'implantation et de densité des
+16° Les obligations imposées aux constructions, travaux, installations et
+aménagements, en matière d'infrastructures et réseaux de communications
+électroniques.
+
+Lorsque le plan local d'urbanisme est élaboré par un établissement public de
+coopération intercommunale qui est autorité organisatrice des transports
+urbains, le règlement délimite des périmètres à l'intérieur desquels les
+conditions de desserte par les transports publics réguliers permettent de
+réduire ou de supprimer les obligations imposées en matière de réalisation
+d'aires de stationnement, notamment lors de la construction d'immeubles de
+bureaux.
+
+Lorsque le plan local d'urbanisme n'est pas élaboré par un établissement public
+de coopération intercommunale qui est autorité organisatrice des transports
+urbains, il respecte les limitations fixées, le cas échéant, par le schéma de
+cohérence territoriale et le plan de déplacements urbains dans les cas suivants
+:
+
+a) Si le plan de déplacements urbains a délimité, en application de l'article L.
+1214-4 du code des transports, des périmètres à l'intérieur desquels les
+conditions de desserte par les transports publics réguliers permettent de
+réduire ou de supprimer les obligations imposées par les plans locaux
+d'urbanisme et les plans de sauvegarde et de mise en valeur en matière de
+réalisation d'aires de stationnement, notamment lors de la construction
+d'immeubles de bureaux ;
+
+b) Si le schéma de cohérence territoriale précise, en application de l'article
+L. 122-1-8, des obligations minimales ou maximales de réalisation d'aires de
+stationnement pour les véhicules motorisés ou des obligations minimales de
+réalisation d'aires de stationnement pour les véhicules non motorisés.
+
+Le règlement fixe un nombre maximum d'aires de stationnement à réaliser lors de
+la construction de bâtiments à usage autre que d'habitation.
+
+Dans les secteurs mentionnés au deuxième alinéa du 14° de l'article L. 123-1-5,
+le règlement prévoit les conditions de hauteur, d'implantation et de densité des
 constructions permettant d'assurer l'insertion de ces constructions dans
-l'environnement et compatibles avec le maintien du caractère naturel de la zone.
+l'environnement et compatibles avec le maintien du caractère naturel, agricole
+ou forestier de la zone.
 
 Les règles édictées dans le présent article peuvent être différentes, dans une
 même zone, selon que les constructions sont destinées à l'habitation, à

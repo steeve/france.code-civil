@@ -61,7 +61,7 @@ périurbains ;
 16° Les secteurs où une délibération du conseil municipal ou de l'organe
 délibérant de l'établissement public de coopération intercommunale compétent a
 autorisé un dépassement des règles du plan local d'urbanisme en application des
-articles L. 123-1-1 et L. 127-1. La délibération qui précise les limites de ce
+articles L. 123-1-11 et L. 127-1. La délibération qui précise les limites de ce
 dépassement est jointe au document graphique faisant apparaître ces secteurs ;
 
 17° Les périmètres fixés par les conventions de projet urbain partenarial visées
@@ -70,7 +70,7 @@ dépassement est jointe au document graphique faisant apparaître ces secteurs ;
 18° Les secteurs où une délibération du conseil municipal ou de l'organe
 délibérant de l'établissement public de coopération intercommunale compétent a
 autorisé, pour les constructions respectant les critères de performance
-énergétique prévus par l'article R. 111-21 du code de la construction et de
+énergétique prévus par l'article *R. 111-21 du code de la construction et de
 l'habitation, un dépassement des règles du plan local d'urbanisme en application
 de l'article L. 128-1. La délibération qui précise les limites de ce dépassement
 est jointe au document graphique faisant apparaître ces secteurs.

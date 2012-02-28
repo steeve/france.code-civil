@@ -1,45 +1,23 @@
 Article R*122-3
 ----
-Le document d'orientations générales, dans le respect des objectifs et des
-principes énoncés aux articles L. 110 et L. 121-1, précise :
+Le document d'orientation et d'objectifs comprend les éléments mentionnés aux
+articles L. 122-1-4 à L. 122-1-10.
 
-1° Les orientations générales de l'organisation de l'espace et de la
-restructuration des espaces urbanisés ;
+Le document graphique du document d'aménagement commercial doit permettre
+d'identifier les terrains situés dans les zones d'aménagement commercial
+délimitées en application de l'article L. 122-1-9.
 
-2° Les espaces et sites naturels ou urbains à protéger dont il peut définir la
-localisation ou la délimitation ;
+Lorsque les documents graphiques délimitent :
 
-3° Les grands équilibres entre les espaces urbains et à urbaniser et les espaces
-naturels et agricoles ou forestiers ;
+a) En application du II de l'article L. 122-1-5, des espaces ou sites à protéger
+;
 
-4° Les objectifs relatifs, notamment :
+b) En application du VIII de l'article L. 122-1-5, des secteurs à l'intérieur
+desquels la valeur en dessous de laquelle ne peut être fixée la densité maximale
+de construction résultant de l'application de l'ensemble des règles du plan
+local d'urbanisme ou du document d'urbanisme en tenant lieu,
 
-a) A l'équilibre social de l'habitat et à la construction de logements sociaux ;
-
-b) A la cohérence entre l'urbanisation et la création de dessertes en transports
-collectifs ;
-
-c) A l'équipement commercial et artisanal, aux localisations préférentielles des
-commerces et aux autres activités économiques ;
-
-d) A la protection des paysages, à la mise en valeur des entrées de ville ;
-
-e) A la prévention des risques ;
-
-5° Les conditions permettant de favoriser le développement de l'urbanisation
-prioritaire dans les secteurs desservis par les transports collectifs.
-
-Il peut, le cas échéant, subordonner l'ouverture à l'urbanisation de zones
-naturelles ou agricoles et les extensions urbaines à la création de dessertes en
-transports collectifs et à l'utilisation préalable de terrains situés en zone
-urbanisée et desservis par les équipements mentionnés à l'article L. 421-5.
-
-Il peut, en outre, définir les grands projets d'équipements et de services, en
-particulier de transport, nécessaires à la mise en oeuvre du schéma.
-
-Lorsque les documents graphiques délimitent des espaces ou sites à protéger en
-application du 2° ci-dessus, ils doivent permettre d'identifier les terrains
-inscrits dans ces limites.
+ils doivent permettre d'identifier les terrains situés dans ces secteurs.
 
 En zone de montagne, le schéma de cohérence territoriale désigne, le cas
 échéant, les plans d'eau de faible importance auxquels il est décidé de faire

@@ -1,9 +1,9 @@
 Article R*123-17
 ----
 Conformément à l'article L. 112-1 du code rural et de la pêche maritime, le
-maire ou le président de l'établissement public de coopération intercommunale
-compétent consulte lors de l'élaboration du plan local d'urbanisme le document
-de gestion de l'espace agricole et forestier, lorsqu'il existe.
+président de l'établissement public de coopération intercommunale compétent ou
+le maire consulte lors de l'élaboration du plan local d'urbanisme le document de
+gestion de l'espace agricole et forestier, lorsqu'il existe.
 
 Conformément à l'article L. 112-3 du code rural et de la pêche maritime, le plan
 local d'urbanisme ne peut être approuvé qu'après avis de la chambre

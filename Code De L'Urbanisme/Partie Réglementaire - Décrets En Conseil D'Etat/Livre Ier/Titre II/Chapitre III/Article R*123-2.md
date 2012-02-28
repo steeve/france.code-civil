@@ -2,14 +2,22 @@ Article R*123-2
 ----
 Le rapport de présentation :
 
-1° Expose le diagnostic prévu au premier alinéa de l'article L. 123-1 ;
+1° Expose le diagnostic prévu au deuxième alinéa de l'article L. 123-1-2 ;
 
-2° Analyse l'état initial de l'environnement ;
+2° Analyse l'état initial de l'environnement, présente une analyse de la
+consommation d'espaces naturels, agricoles et forestiers et justifie les
+objectifs de modération de cette consommation et de lutte contre l'étalement
+urbain arrêtés dans le projet d'aménagement et de développement durables au
+regard, notamment, des objectifs fixés, le cas échéant, par le schéma de
+cohérence territoriale, et des dynamiques économiques et démographiques ;
 
 3° Explique les choix retenus pour établir le projet d'aménagement et de
-développement durable, expose les motifs de la délimitation des zones, des
-règles qui y sont applicables et des orientations d'aménagement. Il justifie
-l'institution des secteurs des zones urbaines où les constructions ou
+développement durable et, le cas échéant, les orientations d'aménagement et de
+programmation ; il expose les motifs de la délimitation des zones, des règles et
+des orientations d'aménagement et de programmation mentionnées au 1 de l'article
+L. 123-1-4, des règles qui y sont applicables, notamment au regard des objectifs
+et orientations du projet d'aménagement et de développement durables. Il
+justifie l'institution des secteurs des zones urbaines où les constructions ou
 installations d'une superficie supérieure à un seuil défini par le règlement
 sont interdites en application du a de l'article L. 123-2 ;
 
@@ -17,10 +25,8 @@ sont interdites en application du a de l'article L. 123-2 ;
 la manière dont le plan prend en compte le souci de sa préservation et de sa
 mise en valeur ;
 
-Dans le cas prévu au cinquième alinéa de l'article L. 123-1, le rapport de
-présentation comprend, en outre, le diagnostic sur le fonctionnement du marché
-local du logement et sur les conditions d'habitat défini par l'article R.
-302-1-1 du code de la construction et de l'habitation.
+5° Précise les indicateurs qui devront être élaborés pour l'évaluation des
+résultats de l'application du plan prévue à l'article L. 123-12-1.
 
 En cas de modification ou de révision, le rapport de présentation est complété
 par l'exposé des motifs des changements apportés.

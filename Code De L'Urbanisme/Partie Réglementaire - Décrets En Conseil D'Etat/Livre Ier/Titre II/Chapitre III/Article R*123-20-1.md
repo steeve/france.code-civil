@@ -35,4 +35,4 @@ naturels et des paysages et qui ne présentent ni un intérêt écologique
 particulier ni un intérêt pour l'exploitation forestière.
 
 Ces modifications ne peuvent avoir pour objet ou pour effet de porter atteinte
-aux prescriptions édictées en application du 7° de l'article L. 123-1.
+aux prescriptions édictées en application du 7° de l'article L. 123-1-5.

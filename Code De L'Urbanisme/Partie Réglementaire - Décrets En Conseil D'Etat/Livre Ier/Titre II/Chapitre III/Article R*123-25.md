@@ -1,9 +1,9 @@
 Article R*123-25
 ----
-Tout acte mentionné à l'article R. 123-24 est affiché pendant un mois en mairie
-ou au siège de l'établissement public compétent et, dans ce cas, dans les
-mairies des communes membres concernées. Mention de cet affichage est insérée en
-caractères apparents dans un journal diffusé dans le département.
+Tout acte mentionné à l'article R.* 123-24 est affiché pendant un mois au siège
+de l'établissement public de coopération intercommunale compétent et dans les
+mairies des communes membres concernées, ou en mairie. Mention de cet affichage
+est insérée en caractères apparents dans un journal diffusé dans le département.
 
 Il est en outre publié :
 
@@ -26,8 +26,9 @@ Chacune de ces formalités de publicité mentionne le ou les lieux où le dossie
 peut être consulté.
 
 L'acte qui institue ou qui supprime la limitation des droits à construire en cas
-de division d'un terrain bâti en application de l'article L. 123-1-1 est adressé
-au Conseil supérieur du notariat et à la chambre départementale des notaires.
+de division d'un terrain bâti en application de l'article L. 123-1-11 est
+adressé au Conseil supérieur du notariat et à la chambre départementale des
+notaires.
 
 L'arrêté ou la délibération produit ses effets juridiques dès l'exécution de
 l'ensemble des formalités prévues au premier alinéa ci-dessus, la date à prendre

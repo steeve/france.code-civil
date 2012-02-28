@@ -18,16 +18,16 @@ l'enquête publique à l'initiative du préfet. Lorsqu'une association mentionn�
 l'article L. 121-5 demande à être consultée, son président adresse la demande au
 préfet.
 
-L'enquête publique est organisée dans les formes prévues par les articles R.
-123-1 à R. 123-33 du code de l'environnement.
+L'enquête publique est organisée dans les formes prévues par le chapitre III du
+titre II du livre Ier du code de l'environnement.
 
 Le dossier de mise en compatibilité du plan local d'urbanisme, le rapport et les
 conclusions du commissaire enquêteur ou de la commission d'enquête ainsi que le
-procès-verbal de la réunion d'examen conjoint sont soumis par le préfet au
-conseil municipal ou à l'organe délibérant de l'établissement public de
-coopération intercommunale compétent, qui dispose d'un délai de deux mois pour
+procès-verbal de la réunion d'examen conjoint sont soumis par le préfet à
+l'organe délibérant de l'établissement public de coopération intercommunale
+compétent ou au conseil municipal, qui dispose d'un délai de deux mois pour
 approuver la mise en compatibilité du plan. En l'absence de délibération dans ce
-délai ou en cas de désaccord, le préfet statue et notifie sa décision au maire
-ou au président de l'établissement public de coopération intercommunale
-compétent dans les deux mois suivant l'expiration du délai précédent ou de la
+délai ou en cas de désaccord, le préfet statue et notifie sa décision au
+président de l'établissement public de coopération intercommunale compétent ou
+au maire dans les deux mois suivant l'expiration du délai précédent ou de la
 transmission de la délibération défavorable.

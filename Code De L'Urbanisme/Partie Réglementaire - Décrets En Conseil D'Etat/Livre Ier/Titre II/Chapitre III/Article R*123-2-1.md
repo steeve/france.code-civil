@@ -4,25 +4,25 @@ Lorsque le plan local d'urbanisme doit faire l'objet d'une évaluation
 environnementale conformément aux articles L. 121-10 et suivants, le rapport de
 présentation :
 
-1° Expose le diagnostic prévu au premier alinéa de l'article L. 123-1 et décrit
-l'articulation du plan avec les autres documents d'urbanisme et les plans ou
-programmes mentionnés à l'article L. 122-4 du code de l'environnement avec
+1° Expose le diagnostic prévu au deuxième alinéa de l'article L. 123-1-2 et
+décrit l'articulation du plan avec les autres documents d'urbanisme et les plans
+ou programmes mentionnés à l'article L. 122-4 du code de l'environnement avec
 lesquels il doit être compatible ou qu'il doit prendre en considération ;
 
 2° Analyse l'état initial de l'environnement et les perspectives de son
 évolution en exposant, notamment, les caractéristiques des zones susceptibles
 d'être touchées de manière notable par la mise en oeuvre du plan ;
 
-3° Analyse les incidences notables prévisibles de la mise en oeuvre du plan sur
+3° Analyse les incidences notables prévisibles de la mise en œuvre du plan sur
 l'environnement et expose les conséquences éventuelles de l'adoption du plan sur
 la protection des zones revêtant une importance particulière pour
-l'environnement telles que celles désignées conformément aux articles R. 214-18
-à R. 214-22 (1) du code de l'environnement ainsi qu'à l'article 2 du décret n°
+l'environnement telles que celles désignées conformément aux articles R. 414-3 à
+R. 414-7 du code de l'environnement ainsi qu'à l'article 2 du décret n°
 2001-1031 du 8 novembre 2001 relatif à la procédure de désignation des sites
 Natura 2000 ;
 
 4° Explique les choix retenus pour établir le projet d'aménagement et de
-développement durable, au regard notamment des objectifs de protection de
+développement durables, au regard notamment des objectifs de protection de
 l'environnement établis au niveau international, communautaire ou national, et,
 le cas échéant, les raisons qui justifient le choix opéré par rapport aux autres
 solutions envisagées. Il expose les motifs de la délimitation des zones, des
@@ -33,9 +33,10 @@ sont interdites en application du a de l'article L. 123-2 ;
 
 5° Présente les mesures envisagées pour éviter, réduire et, si possible,
 compenser s'il y a lieu, les conséquences dommageables de la mise en oeuvre du
-plan sur l'environnement et rappelle que le plan fera l'objet d'une analyse des
-résultats de son application, notamment en ce qui concerne l'environnement, au
-plus tard à l'expiration d'un délai de dix ans à compter de son approbation ;
+plan sur l'environnement ; il précise les indicateurs qui devront être élaborés
+pour l'analyse des résultats de l'application du plan prévue par l'article L.
+123-13-1, notamment en ce qui concerne l'environnement et la maîtrise de la
+consommation de l'espace ;
 
 6° Comprend un résumé non technique des éléments précédents et une description
 de la manière dont l'évaluation a été effectuée.

@@ -1,12 +1,12 @@
 Article R*122-1
 ----
 Le schéma de cohérence territoriale comprend un rapport de présentation, un
-projet d'aménagement et de développement durable et un document d'orientations
-générales assortis de documents graphiques.
+projet d'aménagement et de développement durables et un document d'orientation
+et d'objectifs assortis de documents graphiques.
 
-Les documents et décisions mentionnées au dernier alinéa de l'article L. 122-1
-doivent être compatibles avec le document d'orientations générales et les
-documents graphiques dont il est assorti.
+Les documents et décisions mentionnées à l'article L. 122-1-15 doivent être
+compatibles avec le document d'orientation et d'objectifs et les documents
+graphiques dont il est assorti.
 
 En zone de montagne, il comporte, s'il y a lieu, les études prévues au a du III
 de l'article L. 145-3 et au troisième alinéa de l'article L. 145-5. Les plans

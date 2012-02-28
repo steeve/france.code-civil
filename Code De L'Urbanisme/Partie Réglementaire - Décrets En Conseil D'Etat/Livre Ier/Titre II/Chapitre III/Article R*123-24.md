@@ -1,6 +1,6 @@
 Article R*123-24
 ----
-Font l'objet des mesures de publicité et d'information édictées à l'article R.
+Font l'objet des mesures de publicité et d'information édictées à l'article R.*
 123-25 :
 
 a) La délibération qui prescrit l'élaboration ou la révision du plan local
@@ -18,7 +18,7 @@ d) La décision ou la délibération prononçant la déclaration de projet ainsi
 la délibération ou l'arrêté mettant le plan en compatibilité avec la déclaration
 de projet dans les conditions prévues à l'article L. 123-16 ;
 
-e) La délibération par laquelle, en application de l'article L. 123-1-1, la
-commune ou l'établissement public de coopération intercommunale compétent
+e) La délibération par laquelle, en application de l'article L. 123-1-11,
+l'établissement public de coopération intercommunale compétent, ou la commune
 autorise un dépassement des règles du plan local d'urbanisme ou du document
 d'urbanisme en tenant lieu.

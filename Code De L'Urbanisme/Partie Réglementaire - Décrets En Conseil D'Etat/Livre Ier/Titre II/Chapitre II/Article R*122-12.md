@@ -1,10 +1,11 @@
 Article R*122-12
 ----
-Font l'objet des mesures de publicité et d'information édictées à l'article R.
+Font l'objet des mesures de publicité et d'information édictées à l'article R.*
 122-13 :
 
 a) L'arrêté préfectoral qui délimite ou modifie le périmètre du schéma de
-cohérence territoriale, en application des articles L. 122-3 et L. 122-5 ;
+cohérence territoriale, en application des articles L. 122-3, L. 122-5 et L.
+122-5-2 ;
 
 b) La délibération qui définit les modalités de la concertation lors de
 l'élaboration ou de la révision du schéma de cohérence territoriale, en

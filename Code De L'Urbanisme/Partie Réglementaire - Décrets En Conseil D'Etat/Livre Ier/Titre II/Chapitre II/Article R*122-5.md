@@ -1,7 +1,7 @@
 Article R*122-5
 ----
-Les opérations foncières et les opérations d'aménagement mentionnées au dernier
-alinéa de l'article L. 122-1 sont :
+Les opérations foncières et les opérations d'aménagement mentionnées au premier
+alinéa de l'article L. 122-1-15 sont :
 
 1° Les zones d'aménagement différé et les périmètres provisoires de zones
 d'aménagement différé ;

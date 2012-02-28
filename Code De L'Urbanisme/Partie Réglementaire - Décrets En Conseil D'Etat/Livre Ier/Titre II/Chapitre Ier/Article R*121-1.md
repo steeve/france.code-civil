@@ -7,8 +7,10 @@ la connaissance du maire ou du président de l'établissement public les
 dispositions particulières applicables au territoire concerné, notamment les
 directives territoriales d'aménagement, les dispositions relatives aux zones de
 montagne et au littoral figurant aux chapitres V et VI du titre IV du présent
-livre, les servitudes d'utilité publique ainsi que les projets d'intérêt général
-et les opérations d'intérêt national au sens de l'article L. 121-9.
+livre, les servitudes d'utilité publique, les projets d'intérêt général et les
+opérations d'intérêt national au sens des articles L. 121-9 et L. 121-9-1, le
+plan régional de l'agriculture durable ainsi que le plan pluriannuel régional de
+développement forestier.
 
 Il fournit également les études techniques dont dispose l'Etat en matière de
 prévention des risques et de protection de l'environnement.

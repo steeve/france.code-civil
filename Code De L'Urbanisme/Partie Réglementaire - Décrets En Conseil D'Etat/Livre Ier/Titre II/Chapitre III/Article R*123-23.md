@@ -15,9 +15,10 @@ L'enquête publique est organisée dans les formes prévues par les articles R.
 Le dossier de mise en compatibilité du plan local d'urbanisme, le rapport et les
 conclusions du commissaire enquêteur ou de la commission d'enquête ainsi que le
 procès-verbal de la réunion d'examen conjoint sont soumis pour avis par le
-préfet au conseil municipal ou à l'organe délibérant de l'établissement public
-de coopération intercommunale compétent. Si ceux-ci ne se sont pas prononcés
-dans un délai de deux mois, ils sont réputés avoir donné un avis favorable.
+préfet à l'organe délibérant de l'établissement public de coopération
+intercommunale compétent ou au conseil municipal. Si ceux-ci ne se sont pas
+prononcés dans un délai de deux mois, ils sont réputés avoir donné un avis
+favorable.
 
 Le ministre chargé de l'urbanisme contresigne ou cosigne la déclaration
 d'utilité publique emportant approbation des nouvelles dispositions du plan
