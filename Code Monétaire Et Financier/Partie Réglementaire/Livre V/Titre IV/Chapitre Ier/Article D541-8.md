@@ -15,5 +15,4 @@ d'une sanction prononcée, avant le 24 novembre 2003, par la Commission des
 opérations de bourse, le Conseil des marchés financiers ou le Conseil de
 discipline de la gestion financière ;
 
-b) Des sanctions prévues aux 4 et 5 de l'article L. 613-21 du présent code ou
-aux 3° à 5° de l'article L. 310-18 du code des assurances.
+b) Des sanctions prévues aux 3 à 7 de l'article L. 612-39.
