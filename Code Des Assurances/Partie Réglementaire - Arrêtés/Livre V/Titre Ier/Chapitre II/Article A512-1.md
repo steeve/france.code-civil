@@ -2,18 +2,32 @@ Article A512-1
 ----
 Le dossier mentionné à l'article R. 512-4 comprend :
 
-1° Les noms et prénoms, ou la dénomination sociale et l'adresse du demandeur ;
+1° Lorsque le demandeur est une personne physique, son identité, l'adresse de
+l'établissement où est exercée l'activité professionnelle, à défaut l'adresse du
+local d'habitation où l'entreprise est fixée et, le cas échéant, son enseigne et
+son nom commercial. Lorsque le demandeur n'est pas inscrit au registre du
+commerce et des sociétés, son identité est attestée par une copie de la carte
+d'identité ou du passeport ;
 
-2° Lorsque le demandeur est une personne morale :
+1° bis Lorsque le demandeur est une personne morale :
 
-a) L'identité des associés ou tiers qui dirigent et gèrent, ainsi que, le cas
-échéant, lorsque l'activité d'intermédiation en assurance est exercée à titre
-accessoire à leur activité principale, l'identité de la ou les personnes, au
-sein de la direction, auxquelles est déléguée la responsabilité de l'activité
-d'intermédiation ;
+a) L'identité des personnes qui la dirigent et la gèrent ainsi que lorsque
+l'activité faisant l'objet de l'inscription est exercée à titre accessoire à
+leur activité principale, l'identité de la ou des personnes au sein de la
+direction à laquelle ou auxquelles est déléguée la responsabilité de l'activité
+concernée ;
 
 b) L'identité de la personne parmi celles mentionnées au a dont le nom est porté
 au registre des intermédiaires ;
+
+c) L'adresse du siège social ;
+
+d) La dénomination sociale et, le cas échéant, le sigle, l'enseigne et le nom
+commercial ;
+
+2° La forme juridique, le numéro SIREN et, lorsque la personne est inscrite au
+registre du commerce et des sociétés, un extrait d'immatriculation datant de
+moins de trois mois ;
 
 3° La justification de la catégorie dans laquelle l'intermédiaire demande son
 inscription :
@@ -50,6 +64,8 @@ pas encaisser de fonds ;
 capacité professionnelle telles que définies à la sous-section 2 du chapitre IV
 du présent titre ;
 
-8° La ou les déclarations sur l'honneur mentionnées au I de l'article R. 514-1 ;
+8° L'organisme mentionné à l'article L. 512-1 peut, en application des
+dispositions de l'article R. 514-1, demander, de manière complémentaire, la
+production d'un extrait d'acte de naissance ;
 
 9° Le règlement des frais d'inscription.

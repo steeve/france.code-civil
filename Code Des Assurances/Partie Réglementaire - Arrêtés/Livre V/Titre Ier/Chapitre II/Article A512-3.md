@@ -1,13 +1,21 @@
 Article A512-3
 ----
-Le registre des intermédiaires en assurance mentionné à l'article R. 512-6 du
-présent code comporte les informations suivantes :
+Le registre des intermédiaires mentionné à l'article R. 512-6 du présent code
+comporte les informations suivantes :
 
 1° Le numéro d'immatriculation de l'intermédiaire ;
 
-2° Les nom et prénom, ou la dénomination sociale, et l'adresse de
-l'intermédiaire ainsi que, dans le cas d'une personne morale, les nom et prénom
-de la personne mentionnée au b du 2° de l'article A. 512-1 ;
+2° Dans le cas d'une personne physique, son identité, l'adresse de
+l'établissement où est exercée l'activité professionnelle, à défaut l'adresse du
+local d'habitation où l'entreprise est fixée, la forme juridique, le cas échéant
+l'enseigne, le nom commercial et le numéro SIREN ; ;
+
+2° bis Dans le cas d'une personne morale, l'identité de la personne parmi celle
+(s) mentionnée (s) au 1° bis de l'article A. 512-1 et, le cas échéant,
+l'indication de celle à qui est déléguée la responsabilité de l'activité
+exercée, ainsi que l'adresse du siège social, la forme juridique, la
+dénomination sociale et, le cas échéant, le sigle, l'enseigne et le nom
+commercial ainsi que le numéro SIREN ;
 
 3° La ou les catégories auxquelles appartient l'intermédiaire en application de
 l'article R. 511-2 et s'il exerce l'activité d'intermédiation à titre principal
@@ -30,4 +38,10 @@ prestation de services et en libre établissement. Cette liste indique les nom e
 prénom, ou la dénomination sociale, l'adresse ou le numéro d'immatriculation et
 l'autorité dont ces intermédiaires dépendent pour leur immatriculation, ainsi
 que l'adresse du ou des établissements en France pour les intermédiaires
-exerçant en régime de libre établissement.
+exerçant en régime de libre établissement ;
+
+8° Le cas échéant, l'indication de l'exercice de l'intermédiation en assurance
+dans les conditions fixées au I de l'article R. 512-12 ;
+
+9° Le cas échéant, le nom et les coordonnées du ou des mandants pour le ou les
+mandats au titre desquels l'intermédiaire exerce l'activité d'intermédiation.
