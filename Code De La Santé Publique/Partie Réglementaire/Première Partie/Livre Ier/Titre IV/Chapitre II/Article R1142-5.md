@@ -1,30 +1,28 @@
 Article R1142-5
 ----
-Chaque commission régionale ou interrégionale de conciliation et d'indemnisation
-des accidents médicaux, des affections iatrogènes et des infections nosocomiales
-comprend, outre son président :
+Chaque commission comprend, outre son président :
 
-1° Six représentants des usagers proposés par les associations d'usagers du
+1° Six représentants des usagers proposés par des associations d'usagers du
 système de santé ayant fait l'objet d'un agrément au niveau régional dans les
 conditions prévues à l'article L. 1114-1 ou ayant fait l'objet d'un agrément au
 niveau national et ayant une représentation au niveau régional ;
 
 2° Au titre des professionnels de santé :
 
-- deux représentants des professionnels de santé exerçant à titre libéral
+-deux représentants des professionnels de santé exerçant à titre libéral
 désignés après avis des instances régionales des organisations syndicales
 représentatives, dont un médecin ;
 
-- un praticien hospitalier désigné après avis des instances régionales des
+-un praticien hospitalier désigné après avis des instances régionales des
 organisations syndicales représentatives ;
 
 3° Au titre des responsables des institutions et établissements publics et
 privés de santé :
 
-- un responsable d'établissement public de santé proposé par les organisations
+-un responsable d'établissement public de santé proposé par les organisations
 d'hospitalisation publique les plus représentatives au plan régional ;
 
-- deux responsables d'établissements de santé privés désignés par les
+-deux responsables d'établissements de santé privés désignés par les
 organisations d'hospitalisation privée les plus représentatives au plan
 régional, dont un représentant des organisations d'hospitalisation privée à but
 non lucratif participant au service public hospitalier ;

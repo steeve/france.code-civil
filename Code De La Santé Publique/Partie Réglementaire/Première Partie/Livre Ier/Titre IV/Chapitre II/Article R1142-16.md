@@ -1,6 +1,6 @@
 Article R1142-16
 ----
-Dans le cas prévu à l'article R. 1142-15-1, les parties concernées ainsi que les
+Dans le cas prévu à l'article R. 1142-15-2, les parties concernées ainsi que les
 assureurs des parties mises en cause sont avisés par lettre recommandée avec
 accusé de réception de la date à laquelle la commission se réunit en vue de
 rendre l'avis prévu à l'article L. 1142-8. Le rapport d'expertise leur est

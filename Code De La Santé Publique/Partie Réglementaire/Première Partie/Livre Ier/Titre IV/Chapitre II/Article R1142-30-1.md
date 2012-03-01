@@ -17,10 +17,7 @@ dernières années précédant la demande d'inscription ;
 
 4° Avoir suivi une formation en responsabilité médicale ;
 
-5° Pour les candidats non inscrits sur l'une des listes d'experts judiciaires,
-attester de leur qualification en accidents médicaux ;
-
-6° Signer une déclaration sur l'honneur :
+5° Signer une déclaration sur l'honneur :
 
 a) Qui mentionne ses liens directs ou indirects avec tout établissement, service
 ou organisme dans lesquels sont réalisés des actes individuels de prévention, de
@@ -36,4 +33,5 @@ d'expertise.
 
 Un arrêté du ministre de la justice et du ministre chargé de la santé pris après
 avis de la Commission nationale des accidents médicaux détermine la composition
-du dossier de candidature.
+du dossier de candidature, qu'il s'agisse d'une première inscription ou d'un
+renouvellement.

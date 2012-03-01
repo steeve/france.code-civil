@@ -24,8 +24,7 @@ h) Le directeur des affaires civiles et du sceau ou son représentant ;
 i) Le directeur général de la forêt et des affaires rurales ou son représentant
 ;
 
-j) Le directeur général de l'industrie, des technologies de l'information et des
-postes ou son représentant ;
+j) Le directeur général des entreprises ou son représentant ;
 
 k) Le directeur général du travail ou son représentant ;
 
@@ -35,7 +34,7 @@ durée de trois ans renouvelable, soit :
 a) Deux personnalités qualifiées en matière de responsabilité médicale et de
 réparation du risque sanitaire ;
 
-b) Deux représentants des usagers proposés par les associations des personnes
+b) Deux représentants des usagers proposés par des associations des personnes
 malades et des usagers du système de santé ayant fait l'objet d'un agrément au
 niveau national dans les conditions prévues à l'article L. 1114-1 ;
 
@@ -49,7 +48,7 @@ e) Un représentant de la Caisse nationale de l'assurance maladie des
 travailleurs salariés ;
 
 f) Un représentant des professionnels de santé exerçant à titre libéral, proposé
-par le Centre national des professions de santé ;
+par le Centre national des professions libérales de santé ;
 
 g) Un représentant des professionnels de santé exerçant dans les établissements
 publics de santé, désigné après avis des organisations syndicales

@@ -15,8 +15,8 @@ Les membres de la commission et les médiateurs mentionnés à l'article R. 1142
 déclarent, s'il y a lieu, qu'ils ont un lien direct ou indirect, d'ordre
 familial, professionnel ou financier, avec les personnes dont la demande est
 examinée ou avec les professionnels de santé, établissements de santé, services
-ou organismes de santé ou producteurs, exploitants ou distributeurs de produits
-de santé concernés par cette demande.
+ou organismes de santé, producteurs, exploitants ou distributeurs de produits de
+santé ou promoteurs de recherche biomédicale concernés par cette demande.
 
 Lorsque tel est le cas, ils ne peuvent participer à la préparation des avis,
 siéger durant les travaux de la commission ou réaliser une mission de

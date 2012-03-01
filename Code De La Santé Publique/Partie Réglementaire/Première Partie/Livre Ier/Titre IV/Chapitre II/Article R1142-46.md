@@ -33,8 +33,8 @@ l'article R. 1142-53 ;
 
 10° Les conditions générales d'emploi et de recrutement du personnel ;
 
-11° La désignation des représentants de l'office dans les commissions régionales
-et interrégionales ;
+11° La désignation des représentants de l'office dans les commissions
+mentionnées à l'article L. 1142-5 ;
 
 12° Les questions relatives aux offres d'indemnisation et aux transactions
 auxquelles elles peuvent donner lieu, susceptibles d'avoir soit une portée

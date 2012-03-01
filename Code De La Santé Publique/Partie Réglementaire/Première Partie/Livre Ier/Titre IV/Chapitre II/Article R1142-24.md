@@ -8,7 +8,7 @@ par la Cour de cassation et les cours d'appel en application de l'article 2 de
 la loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires, à raison de :
 
 a) Trois exerçant à titre libéral, proposés par le Centre national des
-professions de santé, dont au moins deux médecins ;
+professions libérales de santé, dont au moins deux médecins ;
 
 b) Deux praticiens des établissements publics de santé mentionnés au 1° de
 l'article L. 6152-1, proposés conjointement par les présidents des conférences
@@ -28,7 +28,3 @@ de l'ordre judiciaire, en activité ou honoraire, président de la commission
 nationale ;
 
 b) Huit personnalités choisies en raison de leurs compétences scientifiques.
-
-La commission est assistée d'un commissaire du Gouvernement suppléé par un
-commissaire du Gouvernement adjoint, nommés par arrêté du ministre de la justice
-et du ministre chargé de la santé.

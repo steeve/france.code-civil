@@ -2,7 +2,7 @@ Article R1142-40
 ----
 Le rapport annuel dont est chargée la commission en application du deuxième
 alinéa de l'article L. 1142-10 est élaboré à partir des informations recueillies
-tant auprès des commissions régionales et interrégionales que de l'Office
+tant auprès des commissions mentionnées à l'article L. 1142-5 que de l'Office
 national d'indemnisation des accidents médicaux, des affections iatrogènes et
 des infections nosocomiales.
 
