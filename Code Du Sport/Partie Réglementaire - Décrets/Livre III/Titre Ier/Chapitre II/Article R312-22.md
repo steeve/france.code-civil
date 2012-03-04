@@ -6,15 +6,13 @@ président :
 
 1° Sept représentants de l'Etat, membres de droit :
 
-a) Un représentant du ministre de la défense ;
+a) Un représentant du ministre chargé de l'équipement ;
 
-b) Un représentant du ministre chargé de l'équipement ;
+b) Trois représentants du ministre de l'intérieur ;
 
-c) Deux représentants du ministre de l'intérieur ;
+c) Un représentant du ministre chargé de la santé ;
 
-d) Un représentant du ministre chargé de la santé ;
-
-e) Deux représentants du ministre chargé des sports ;
+d) Deux représentants du ministre chargé des sports ;
 
 2° Quatre membres nommés par arrêté du ministre chargé des sports :
 
@@ -32,9 +30,8 @@ concernée.
 
 La commission ne peut valablement délibérer hors de la présence du représentant
 de l'autorité investie du pouvoir de police municipale, d'un représentant du
-ministre chargé des sports, d'un représentant du ministre de l'intérieur, d'un
-représentant du ministre chargé de l'équipement et d'un représentant du ministre
-de la défense.
+ministre chargé des sports, d'un représentant du ministre de l'intérieur et d'un
+représentant du ministre chargé de l'équipement.
 
 Pour chaque membre titulaire désigné en application du 2°, un suppléant est
 nommé dans les mêmes conditions.

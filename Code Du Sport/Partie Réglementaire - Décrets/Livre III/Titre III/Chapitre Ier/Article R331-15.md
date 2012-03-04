@@ -1,6 +1,7 @@
 Article R331-15
 ----
-Le survol des manifestations sportives et, d'une manière générale, de tout
-rassemblement provoqué directement ou indirectement par leur déroulement est
-soumis à l'ensemble des prescriptions prévues par la réglementation aérienne en
-ce qui concerne notamment le survol des agglomérations.
+L'organisateur est débiteur envers l'Etat et les collectivités territoriales des
+redevances représentatives du coût de la mise en place du service d'ordre
+particulier nécessaire pour assurer la sécurité des spectateurs et de la
+circulation lors du déroulement de la manifestation ainsi que, le cas échéant,
+de sa préparation.
