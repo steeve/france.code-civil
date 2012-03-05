@@ -1,7 +1,7 @@
 Article 311-14
 ----
-Les personnes physiques coupables de l'une des infractions prévues au présent
-chapitre encourent également les peines complémentaires suivantes :
+I. - Les personnes physiques coupables de l'une des infractions prévues au
+présent chapitre encourent également les peines complémentaires suivantes :
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les
 modalités prévues par l'article 131-26 ;
@@ -30,3 +30,12 @@ dans les cas prévus par les articles 311-5 à 311-10 ;
 
 6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues
 par l'article 131-5-1.
+
+II. - En cas de condamnation pour vol commis avec violence ou pour vol puni
+d'une peine criminelle, le prononcé de la peine complémentaire prévue au 3° du I
+est obligatoire.
+
+Toutefois, la juridiction peut, par une décision spécialement motivée lorsque la
+condamnation est prononcée par une juridiction correctionnelle, décider de ne
+pas prononcer cette peine, en considération des circonstances de l'infraction et
+de la personnalité de son auteur.

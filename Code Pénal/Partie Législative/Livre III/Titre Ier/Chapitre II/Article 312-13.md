@@ -1,7 +1,7 @@
 Article 312-13
 ----
-Les personnes physiques coupables de l'une des infractions prévues au présent
-chapitre encourent également les peines complémentaires suivantes :
+I. - Les personnes physiques coupables de l'une des infractions prévues au
+présent chapitre encourent également les peines complémentaires suivantes :
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les
 modalités prévues par l'article 131-26 ;
@@ -18,8 +18,7 @@ pour le compte d'autrui, une entreprise commerciale ou industrielle ou une
 société commerciale. Ces interdictions d'exercice peuvent être prononcées
 cumulativement ;
 
-3° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus,
-une arme soumise à autorisation ;
+3° (Abrogé)
 
 4° La confiscation de la chose qui a servi ou était destinée à commettre
 l'infraction ou de la chose qui en est le produit, à l'exception des objets
@@ -32,3 +31,13 @@ l'article 131-5-1 ;
 
 7° L'obligation d'accomplir un stage de sensibilisation aux dangers de l'usage
 de produits stupéfiants, selon les modalités fixées à l'article 131-35-1.
+
+II. - En cas de condamnation pour les infractions prévues au présent chapitre,
+le prononcé de la peine complémentaire d'interdiction de détenir ou de porter,
+pour une durée de cinq ans au plus, une arme soumise à autorisation est
+obligatoire.
+
+Toutefois, la juridiction peut, par une décision spécialement motivée lorsque la
+condamnation est prononcée par une juridiction correctionnelle, décider de ne
+pas prononcer cette peine, en considération des circonstances de l'infraction et
+de la personnalité de son auteur.

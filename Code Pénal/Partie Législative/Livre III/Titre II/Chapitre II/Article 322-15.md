@@ -1,7 +1,7 @@
 Article 322-15
 ----
-Les personnes physiques coupables de l'une des infractions prévues au présent
-chapitre encourent également les peines complémentaires suivantes :
+I. - Les personnes physiques coupables de l'une des infractions prévues au
+présent chapitre encourent également les peines complémentaires suivantes :
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les
 modalités prévues par l'article 131-26 ;
@@ -31,3 +31,12 @@ l'article 131-5-1 ;
 
 6° L'obligation d'accomplir un stage de sensibilisation aux dangers de l'usage
 de produits stupéfiants, selon les modalités fixées à l'article 131-35-1.
+
+II. - En cas de condamnation pour les crimes ou délits prévus aux articles 322-6
+à 322-11-1, le prononcé de la peine complémentaire prévue au 3° du I du présent
+article est obligatoire.
+
+Toutefois, la juridiction peut, par une décision spécialement motivée lorsque la
+condamnation est prononcée par une juridiction correctionnelle, décider de ne
+pas prononcer cette peine, en considération des circonstances de l'infraction et
+de la personnalité de son auteur.
