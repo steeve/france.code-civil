@@ -27,14 +27,19 @@ a) La dotation attribuée à la collectivité territoriale de Corse pour
 l'établissement du plan d'aménagement et de développement durable de la Corse
 mentionné à l'article L. 4424-9 ;
 
-b) Les crédits attribués dans les régions et les départements d'outre-mer au
-titre de ce concours particulier ;
+b) Les crédits attribués dans les régions, les départements d'outre-mer et, à
+compter de 2014, le Département de Mayotte au titre de ce concours particulier ;
 
-c) La dotation attribuée à la collectivité départementale de Mayotte pour
-l'établissement du plan d'aménagement et de développement durable de Mayotte
-mentionné à l'article L. 3551-31.
+c) La dotation attribuée au Département de Mayotte pour l'établissement du plan
+d'aménagement et de développement durable de Mayotte qui est assimilé au schéma
+d'aménagement régional en application de l'article L. 4437-4. Les modalités de
+versement de cette dotation sont identiques aux modalités de versement des
+dotations attribuées aux régions de Guadeloupe, de Guyane, de Martinique et de
+La Réunion pour l'établissement des schémas d'aménagement régionaux, fixées aux
+articles R. 4433-19, R. 4433-21 et R. 4433-22.
 
-Le solde est réparti entre les régions et la Corse, en cours d'année, pour tenir
-compte notamment des besoins nouveaux liés à l'évolution de la réglementation ou
-à la réalisation d'équipements dont l'importance rend urgente l'élaboration, la
-modification ou la révision d'un document d'urbanisme.
+Le solde est réparti entre les régions, le Département de Mayotte et la Corse,
+en cours d'année, pour tenir compte notamment des besoins nouveaux liés à
+l'évolution de la réglementation ou à la réalisation d'équipements dont
+l'importance rend urgente l'élaboration, la modification ou la révision d'un
+document d'urbanisme.
