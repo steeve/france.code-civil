@@ -2,7 +2,7 @@ Article L2353-13
 ----
 L'acquisition, la détention, le transport ou le port illégal de produits
 explosifs ou d'engins explosifs sont punis selon les dispositions du chapitre IX
-du titre III du présent livre applicables aux armes de la 1re catégorie.
+du titre III du présent livre applicables aux armes de la catégorie A.
 
 Les dispositions du premier alinéa ne sont pas applicables à l'acquisition, à la
 détention, au transport ou au port d'une quantité de 2 kilogrammes au plus de

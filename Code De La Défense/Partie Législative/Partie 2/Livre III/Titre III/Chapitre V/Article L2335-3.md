@@ -41,14 +41,14 @@ nécessaire, compte tenu de l'opération d'exportation, l'autorisation peut êtr
 limitée à la communication d'informations dans le cadre de la négociation d'un
 contrat, à l'acceptation d'une commande ou à la signature d'un contrat.
 
-V.-Aucun exportateur des matériels appartenant aux quatre premières catégories
-mentionnées à l'article L. 2331-1 ne peut utiliser une licence générale
-d'exportation ou obtenir une licence globale ou individuelle d'exportation s'il
-n'est déjà titulaire de l'autorisation prévue au I de l'article L. 2332-1.
+V.-Aucun exportateur des matériels appartenant aux catégories A et B mentionnées
+à l'article L. 2331-1 ne peut utiliser une licence générale d'exportation ou
+obtenir une licence globale ou individuelle d'exportation s'il n'est déjà
+titulaire de l'autorisation prévue au I de l'article L. 2332-1.
 
 Les personnes non titulaires de cette autorisation peuvent, à titre
 exceptionnel, demander à bénéficier d'une licence générale, globale ou
-individuelle d'exportation des matériels des quatre premières catégories.
+individuelle d'exportation des matériels de catégories A et B.
 
 VI.-Les modalités d'application du présent article sont déterminées par décret
 en Conseil d'Etat.

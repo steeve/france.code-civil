@@ -49,15 +49,14 @@ sous réserve de l'application de dispositions nécessitées par les exigences d
 la protection de la sécurité publique, de l'ordre public ou de la sécurité des
 transports.
 
-VI. ― Aucun fournisseur des matériels appartenant aux quatre premières
-catégories mentionnées à l'article L. 2331-1 ne peut utiliser une licence
-générale de transfert ou obtenir une licence globale ou individuelle de
-transfert s'il n'est déjà titulaire de l'autorisation prévue au I de l'article
-L. 2332-1.
+VI. ― Aucun fournisseur des matériels appartenant aux catégories A et B
+mentionnées à l'article L. 2331-1 ne peut utiliser une licence générale de
+transfert ou obtenir une licence globale ou individuelle de transfert s'il n'est
+déjà titulaire de l'autorisation prévue au I de l'article L. 2332-1.
 
 Les personnes non titulaires de cette autorisation peuvent, à titre
 exceptionnel, demander à bénéficier d'une licence générale, globale ou
-individuelle de transfert des matériels des quatre premières catégories.
+individuelle de transfert des matériels de catégories A et B.
 
 VII. ― Les modalités d'application du présent article sont déterminées par
 décret en Conseil d'Etat.

@@ -48,7 +48,7 @@ collectifs d'habitation prévu à l'article L. 126-3 du code de la construction 
 de l'habitation ;
 
 12° Les délits de contrefaçon prévus aux articles L. 335-2, L. 335-3 et L. 335-4
-du code de la propriété intellectuelle, lorsqu'ils sont commis au moyen d'un
+du code de la propriété intellectuelle , lorsqu'ils sont commis au moyen d'un
 service de communication au public en ligne ;
 
 13° Les délits en matière de chèques prévus aux articles L. 163-2 et L. 163-7 du

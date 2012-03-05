@@ -19,11 +19,11 @@ code pénal ;
 réglementations relatives aux transports terrestres ;
 
 4° Les délits prévus par les articles 222-11, 222-12 (1° à 15°), 222-13 (1° à
-15°), 222-16, 222-17, 222-18, 222-32, 225-10-1, 227-3 à 227-11, 311-3, 311-4 (1°
-à 11°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4-1, 322-12, 322-13, 322-14,
-431-22 à 431-24, 433-3 premier et deuxième alinéa, 433-5, 433-6 à 433-8 premier
-alinéa, 433-10 premier alinéa et 521-1 du code pénal et L. 3421-1 du code de la
-santé publique ;
+15°), 222-16, 222-17, 222-18, 222-32, 225-10-1, 227-3 à 227-11,311-3, 311-4 (1°
+à 11°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4-1, 322-12, 322-13,
+322-14,431-22 à 431-24, 433-3 premier et deuxième alinéa, 433-5, 433-6 à 433-8
+premier alinéa, 433-10 premier alinéa et 521-1 du code pénal et L. 3421-1 du
+code de la santé publique ;
 
 5° Les délits prévus par les dispositions applicables localement en matière de
 chasse, de pêche, de protection de la faune et de la flore et en matière de
@@ -36,8 +36,9 @@ réglementation applicable localement sur les installations classées ;
 7° Les délits prévus par la loi n° 83-581 du 5 juillet 1983 relative à la
 sauvegarde de la vie humaine en mer ;
 
-8° Les délits de port ou transport d'armes de la 6e catégorie prévus par
-l'article L. 317-8 du code de la sécurité intérieure ;
+8° Les délits de port ou transport d'armes de la catégorie D figurant sur une
+liste fixée par un décret en Conseil d'Etat prévus par l'article L. 317-8 du
+code de la sécurité intérieure ;
 
 9° Les délits pour lesquels une peine d'emprisonnement n'est pas encourue, à
 l'exception des délits de presse.
@@ -70,8 +71,9 @@ réglementations relatives aux transports terrestres ;
 chasse, de pêche, de protection de la faune et de la flore et en matière de
 pêche maritime ;
 
-5° Les délits de port ou transport d'armes de la 6e catégorie prévus par
-l'article L. 317-8 du code de la sécurité intérieure ;
+5° Les délits de port ou transport d'armes de la catégorie D figurant sur une
+liste fixée par un décret en Conseil d'Etat prévus par l'article L. 317-8 du
+code de la sécurité intérieure ;
 
 6° Les délits prévus par les articles 222-11, 311-3, 313-5, 314-5, 314-6, 433-5
 et 521-1 du code pénal et L. 3421-1 du code de la santé publique ;

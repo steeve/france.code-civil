@@ -12,10 +12,11 @@ l'occasion de la conduite d'un véhicule, par les articles 222-19-1, 222-20-1,
 3° Les délits en matière de réglementations relatives aux transports terrestres
 ;
 
-4° Les délits de port ou transport d'armes de la 6e catégorie prévus par
-l'article L. 317-8 du code de la sécurité intérieure ;
+4° Les délits de port ou transport d'armes de la catégorie D figurant sur une
+liste fixée par un décret en Conseil d'Etat prévus par l'article L. 317-8 du
+code de la sécurité intérieure ;
 
-5° Les délits prévus par les articles 222-11,222-12 (1° à 15°), 222-13 (1° à
+5° Les délits prévus par les articles 222-11, 222-12 (1° à 15°), 222-13 (1° à
 15°), 222-16, 222-17, 222-18, 222-32, 225-10-1, 227-3 à 227-11, 311-3, 311-4 (1°
 à 11°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4-1, 322-12, 322-13, 322-14,
 431-22 à 431-24, 433-3, premier et deuxième alinéas, 433-5, 433-6 à 433-8,

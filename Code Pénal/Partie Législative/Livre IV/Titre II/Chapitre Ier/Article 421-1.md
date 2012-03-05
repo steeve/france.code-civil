@@ -24,8 +24,8 @@ L. 1333-13-2, le II des articles L. 1333-13-3 et L. 1333-13-4, les articles L.
 1333-13-6, L. 2339-2, L. 2339-14, L. 2339-16, L. 2341-1, L. 2341-4, L. 2341-5,
 L. 2342-57 à L. 2342-62, L. 2353-4, le 1° de l'article L. 2353-5 et l'article L.
 2353-13 du code de la défense, ainsi que les articles L. 317-4, L. 317-7 et L.
-317-8 à l'exception des armes de la 6e catégorie, du code de la sécurité
-intérieure ;
+317-8 à l'exception des armes de la catégorie D définies par décret en Conseil
+d'Etat, du code de la sécurité intérieure ;
 
 5° Le recel du produit de l'une des infractions prévues aux 1° à 4° ci-dessus ;
 

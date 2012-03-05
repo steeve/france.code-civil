@@ -1,41 +1,52 @@
 Article L2331-1
 ----
-Les matériels de guerre, armes et munitions et éléments désignés par les
-dispositions du présent titre et relatives au régime des matériels de guerre,
-armes et munitions sont classés dans les catégories ci- après :
+I.-Les matériels de guerre et les armes, munitions et éléments désignés par le
+présent titre sont classés dans les catégories suivantes :
 
-I.- Matériels de guerre :
+1° Catégorie A : matériels de guerre et armes interdits à l'acquisition et à la
+détention, sous réserve des dispositions de l'article L. 2336-1.
 
-1re catégorie : armes à feu et leurs munitions conçues pour ou destinées à la
-guerre terrestre, navale ou aérienne.
+Cette catégorie comprend :
 
-2e catégorie : matériels destinés à porter ou à utiliser au combat les armes à
-feu.
+-A1 : les armes et éléments d'armes interdits à l'acquisition et à la détention
+;
 
-3e catégorie : matériels de protection contre les gaz de combat.
+-A2 : les armes relevant des matériels de guerre, les matériels destinés à
+porter ou à utiliser au combat les armes à feu, les matériels de protection
+contre les gaz de combat ;
 
-II.- Armes et munitions non considérées comme matériels de guerre :
+2° Catégorie B : armes soumises à autorisation pour l'acquisition et la
+détention ;
 
-4e catégorie : armes à feu dites de défense et leurs munitions.
+3° Catégorie C : armes soumises à déclaration pour l'acquisition et la détention
+;
 
-5e catégorie : armes de chasse et leurs munitions.
+4° Catégorie D : armes soumises à enregistrement et armes et matériels dont
+l'acquisition et la détention sont libres.
 
-6e catégorie : armes blanches.
+Un décret en Conseil d'Etat détermine les matériels, armes, munitions, éléments
+essentiels, accessoires et opérations industrielles compris dans chacune de ces
+catégories ainsi que les conditions de leur acquisition et de leur détention. Il
+fixe les modalités de délivrance des autorisations ainsi que celles
+d'établissement des déclarations ou des enregistrements.
 
-7e catégorie : Armes de tir, de foire ou de salon et leurs munitions.
+En vue de préserver la sécurité et l'ordre publics, le classement prévu aux 1° à
+4° est fondé sur la dangerosité des matériels et des armes. Pour les armes à
+feu, la dangerosité s'apprécie en particulier en fonction des modalités de
+répétition du tir ainsi que du nombre de coups tirés sans qu'il soit nécessaire
+de procéder à un réapprovisionnement de l'arme.
 
-8e catégorie : Armes et munitions historiques et de collection.
+Par dérogation à l'avant-dernier alinéa du présent I, les armes utilisant des
+munitions de certains calibres fixés par décret en Conseil d'Etat sont classées
+par la seule référence à ce calibre.
 
-III.- Les matériels appartenant ou non aux précédentes catégories, qui sont
-soumis à des restrictions ou à une procédure spéciale pour l'importation ou
-l'exportation hors du territoire de l'Union européenne, ou le transfert au sein
-de l'Union européenne, sont définis au chapitre V du présent titre.
-
-Les armes de toute espèce qui peuvent tirer des munitions utilisables dans des
-armes classées matériel de guerre, et les munitions de toute espèce qui peuvent
-être tirées dans des armes classées matériel de guerre sont considérées comme
-des matériels de guerre.
-
-Un décret énumère les matériels ou éléments de chaque catégorie et les
-opérations industrielles y afférentes rentrant dans le champ d' application du
+II.-Les matériels qui sont soumis à des restrictions ou à une procédure spéciale
+pour l'importation ou l'exportation hors du territoire de l'Union européenne ou
+pour le transfert au sein de l'Union européenne sont définis au chapitre V du
 présent titre.
+
+III.-Les différents régimes d'acquisition et de détention mentionnés au présent
+article ne s'appliquent pas aux personnes se livrant à la fabrication ou au
+commerce des matériels de guerre, des armes et des munitions conformément au
+chapitre II du présent titre, auxquelles s'appliquent les règles spécifiques au
+titre de l'autorisation de fabrication et de commerce.

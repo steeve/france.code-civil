@@ -1,12 +1,11 @@
 Article L2339-2
 ----
-I.-Est puni d'un emprisonnement de sept ans et d'une amende de 100 000 euros
-quiconque, sans y être régulièrement autorisé, se livre à la fabrication ou au
-commerce des matériels de guerre ou d'armes ou de munitions de défense de l'une
-des catégories mentionnées au I de l'article L. 2332-1, ou exerce son activité
-en qualité d'intermédiaire ou d'agent de publicité à l'occasion de la
-fabrication ou du commerce des matériels, armes ou munitions desdites
-catégories.
+I.-Est puni d'un emprisonnement de sept ans et d'une amende de 100 000 €
+quiconque, sans respecter les obligations résultant des I, II et III de
+l'article L. 2332-1, se livre à la fabrication ou au commerce de matériels,
+armes, munitions et de leurs éléments essentiels, ou exerce son activité en
+qualité d'intermédiaire ou d'agent de publicité à l'occasion de la fabrication
+ou du commerce de matériels, armes, munitions et de leurs éléments essentiels.
 
 Les peines sont portées à dix ans d'emprisonnement et à 500 000 euros d'amende
 lorsque l'infraction est commise en bande organisée.

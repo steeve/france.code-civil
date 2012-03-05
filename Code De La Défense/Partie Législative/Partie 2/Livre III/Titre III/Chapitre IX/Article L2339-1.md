@@ -32,6 +32,10 @@ habilités du ministère de la défense mentionnés au présent article peuvent 
 communiquer spontanément tous les renseignements et documents détenus ou
 recueillis dans le cadre de leurs missions respectives.
 
+Les procès-verbaux des infractions constatées aux prescriptions du présent titre
+sont transmis au représentant de l'Etat dans le département ou, à Paris, au
+préfet de police.
+
 En cas d'infraction aux dispositions du présent titre, les services compétents
 du ministère de la défense adressent au procureur de la République les
 procès-verbaux des constatations effectuées. Une expédition est également
