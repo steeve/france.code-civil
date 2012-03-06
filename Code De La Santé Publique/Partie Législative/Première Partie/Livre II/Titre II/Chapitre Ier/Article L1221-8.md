@@ -4,11 +4,12 @@ Peuvent être préparés à partir du sang ou de ses composants :
 
 1° Des produits sanguins labiles, comprenant notamment le sang total, le plasma
 et les cellules sanguines d'origine humaine. A l'exception des produits sanguins
-labiles destinés à des recherches biomédicales, seuls peuvent être distribués ou
-délivrés à des fins thérapeutiques, les produits sanguins labiles dont la liste
-et les caractéristiques sont fixées par décision de l'Agence française de
-sécurité sanitaire des produits de santé, après avis de l'Etablissement français
-du sang, et publiée au Journal officiel de la République française.
+labiles destinés à des recherches impliquant la personne humaine, seuls peuvent
+être distribués ou délivrés à des fins thérapeutiques, les produits sanguins
+labiles dont la liste et les caractéristiques sont fixées par décision de
+l'Agence nationale de sécurité du médicament et des produits de santé, après
+avis de l'Etablissement français du sang, et publiée au Journal officiel de la
+République française.
 
 2° Des pâtes plasmatiques ;
 
@@ -33,6 +34,6 @@ effectuer les contrôles de qualité des examens de biologie médicale ainsi que
 pour la réalisation et le contrôle des dispositifs médicaux de diagnostic in
 vitro, ou pour effectuer sur les produits préparés à partir du sang ou de ses
 composants les expertises et les contrôles techniques réalisés par l'Agence
-française de sécurité sanitaire des produits de santé en application du 1° de
-l'article L. 5311-2. Les principes mentionnés aux articles L. 1221-3, L. 1221-4
-et L. 1221-6 sont également applicables dans ce cas.
+nationale de sécurité du médicament et des produits de santé en application du
+1° de l'article L. 5311-2. Les principes mentionnés aux articles L. 1221-3, L.
+1221-4 et L. 1221-6 sont également applicables dans ce cas.
