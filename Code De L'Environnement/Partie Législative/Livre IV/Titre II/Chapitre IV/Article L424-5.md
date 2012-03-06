@@ -11,9 +11,8 @@ la Marne, la Meuse, le Nord, l'Oise, l'Orne, le Pas-de-Calais, les
 Pyrénées-Atlantiques, les Hautes-Pyrénées, la Seine-Maritime, la Seine-et-Marne
 et la Somme.
 
-Le déplacement d'un poste fixe est soumis à l'autorisation du préfet. Toutefois,
-pour les hutteaux, seul le changement de parcelle ou de lot de chasse est soumis
-à autorisation.
+Le déplacement d'un poste fixe est soumis à l'autorisation du préfet, selon les
+modalités prévues par le schéma départemental de gestion cynégétique.
 
 Tout propriétaire d'un poste fixe visé au premier alinéa doit déclarer celui-ci
 à l'autorité administrative contre délivrance d'un récépissé dont devront être

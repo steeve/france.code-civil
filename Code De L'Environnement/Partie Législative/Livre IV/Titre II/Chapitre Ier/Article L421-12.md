@@ -18,6 +18,6 @@ sont élus, pour l'autre moitié, par les adhérents de la fédération. Le pré
 est désigné par le ministre chargé de la chasse, sur proposition du conseil
 d'administration.
 
-A l'initiative des fédérations départementales des chasseurs et par accord
-unanime entre elles, il peut être créé d'autres fédérations interdépartementales
-des chasseurs.
+A l'initiative des fédérations départementales et interdépartementales des
+chasseurs et par accord unanime entre elles, il peut être créé d'autres
+fédérations interdépartementales des chasseurs.

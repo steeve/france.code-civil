@@ -6,7 +6,10 @@ région administrative du territoire métropolitain dont l'adhésion est constat
 par le paiement d'une cotisation obligatoire. Elles assurent la représentation
 des fédérations départementales et interdépartementales des chasseurs au niveau
 régional. Elles conduisent et coordonnent des actions en faveur de la faune
-sauvage et de ses habitats.
+sauvage et de ses habitats. Elles mènent, en concertation avec les fédérations
+départementales, des actions d'information et d'éducation au développement
+durable en matière de connaissance et de préservation de la faune sauvage et de
+ses habitats ainsi qu'en matière de gestion de la biodiversité.
 
 Elles sont associées par l'autorité compétente à l'élaboration des orientations
 régionales de gestion et de conservation de la faune sauvage et de ses habitats

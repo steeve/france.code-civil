@@ -24,21 +24,20 @@ forestiers dans des conditions déterminées par un décret en Conseil d'Etat.
 Dans le cadre du plan de chasse mentionné à l'article L. 425-6, il est institué,
 à la charge des chasseurs de cerfs, daims, mouflons, chevreuils et sangliers,
 mâles et femelles, jeunes et adultes, une contribution par animal à tirer
-destinée à assurer une indemnisation aux exploitants agricoles dont les cultures
-ou les récoltes ont subi des dégâts importants du fait de ces animaux. Le
-montant de ces contributions est fixé par l'assemblée générale de la fédération
-départementale ou interdépartementale des chasseurs sur proposition du conseil
-d'administration.
+destinée à financer l'indemnisation et la prévention des dégâts de grand gibier.
+Le montant de ces contributions est fixé par l'assemblée générale de la
+fédération départementale ou interdépartementale des chasseurs sur proposition
+du conseil d'administration.
 
-Lorsque le produit des contributions visées à l'alinéa précédent ne suffit pas
-couvrir le montant des dégâts à indemniser, la fédération départementale ou
-interdépartementale des chasseurs prend à sa charge le surplus de
-l'indemnisation. Elle en répartit le montant entre ses adhérents ou certaines
+La fédération départementale ou interdépartementale des chasseurs prend à sa
+charge les dépenses liées à l'indemnisation et à la prévention des dégâts de
+grand gibier. Elle en répartit le montant entre ses adhérents ou certaines
 catégories d'adhérents. Elle peut notamment exiger une participation personnelle
-des chasseurs de grand gibier et de sanglier ou une participation pour chaque
-dispositif de marquage ou une combinaison de ces deux types de participation.
-Ces participations peuvent être modulées en fonction des espèces de gibier, du
-sexe, des catégories d'âge, des territoires de chasse ou unités de gestion.
+des chasseurs de grand gibier et de sanglier, une participation pour chaque
+dispositif de marquage, une participation des territoires de chasse ou une
+combinaison de ces différents types de participation. Ces participations peuvent
+être modulées en fonction des espèces de gibier, du sexe, des catégories d'âge,
+des territoires de chasse ou unités de gestion.
 
 Tout adhérent chasseur ayant validé un permis de chasser national et étant
 porteur du timbre national grand gibier mentionné à l'article L. 421-14 est

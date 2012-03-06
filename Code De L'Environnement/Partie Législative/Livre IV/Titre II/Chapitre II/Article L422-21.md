@@ -1,6 +1,6 @@
 Article L422-21
 ----
-I. - Les statuts de chaque association doivent prévoir l'admission dans celle-ci
+I.-Les statuts de chaque association doivent prévoir l'admission dans celle-ci
 des titulaires du permis de chasser validé :
 
 1° Soit domiciliés dans la commune ou y ayant une résidence pour laquelle ils
@@ -23,23 +23,36 @@ droit de chasse ;
 
 4° Soit propriétaires d'un terrain soumis à l'action de l'association et devenus
 tels en vertu d'une succession ou d'une donation entre héritiers lors d'une
-période de cinq ans.
+période de cinq ans ;
 
-II. - Ces statuts doivent prévoir également le nombre minimum des adhérents à
+5° Soit acquéreurs d'un terrain soumis à l'action de l'association et dont les
+droits de chasse qui y sont attachés ont été apportés à cette association à la
+date de sa création.
+
+I bis.-L'acquéreur d'une fraction de propriété dont les droits de chasse qui y
+sont attachés ont été apportés à l'association à la date de sa création et dont
+la superficie représente au moins 10 % de la surface des terrains mentionnés à
+l'article L. 422-13 est membre de droit de cette association sur sa demande.
+
+Les statuts de chaque association déterminent les conditions dans lesquelles
+l'acquéreur en devient membre si cette superficie est inférieure à 10 % de la
+surface des terrains mentionnés au même article L. 422-13.
+
+II.-Ces statuts doivent prévoir également le nombre minimum des adhérents à
 l'association et l'admission d'un pourcentage minimum de chasseurs ne rentrant
 dans aucune des catégories définies ci-dessus.
 
-III. - Sauf s'il a manifesté son opposition à la chasse dans les conditions
-fixées par le 5° de l'article L. 422-10, le propriétaire non chasseur dont les
-terrains sont incorporés dans le territoire de l'association est à sa demande et
+III.-Sauf s'il a manifesté son opposition à la chasse dans les conditions fixées
+par le 5° de l'article L. 422-10, le propriétaire non chasseur dont les terrains
+sont incorporés dans le territoire de l'association est à sa demande et
 gratuitement membre de l'association, sans être tenu à l'éventuelle couverture
 du déficit de l'association. L'association effectue auprès de lui les démarches
 nécessaires.
 
-IV. - Le propriétaire ou le détenteur de droits de chasse ayant exercé un droit
-à opposition ne peut prétendre à la qualité de membre de l'association, sauf
+IV.-Le propriétaire ou le détenteur de droits de chasse ayant exercé un droit à
+opposition ne peut prétendre à la qualité de membre de l'association, sauf
 décision souveraine de l'association communale de chasse agréée.
 
-V. - Outre les dispositions énumérées ci-dessus, les statuts de chaque
-association doivent comporter des clauses obligatoires déterminées par décret en
-Conseil d'Etat.
+V.-Outre les dispositions énumérées ci-dessus, les statuts de chaque association
+doivent comporter des clauses obligatoires déterminées par décret en Conseil
+d'Etat.

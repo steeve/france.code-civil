@@ -7,8 +7,8 @@ chasse. Le jour s'entend du temps qui commence une heure avant le lever du
 soleil au chef-lieu du département et finit une heure après son coucher.
 
 Il donne également le droit de chasser le gibier d'eau à la passée, à partir de
-deux heures avant le lever du soleil et jusqu'à deux heures après son coucher,
-dans les lieux mentionnés à l'article L. 424-6.
+deux heures avant le lever du soleil au chef-lieu du département et jusqu'à deux
+heures après son coucher, dans les lieux mentionnés à l'article L. 424-6.
 
 Pour permettre, dans des conditions strictement contrôlées et de manière
 sélective, la chasse de certains oiseaux de passage en petites quantités, le

@@ -8,8 +8,9 @@ bâties perçue au profit des communes et de leurs établissements publics de
 coopération intercommunale à concurrence de 50 % lorsqu'elles figurent sur une
 liste dressée par le maire sur proposition de la commission communale des impôts
 directs et qu'elles font l'objet d'un engagement de gestion pendant cinq ans
-portant notamment sur la préservation de l'avifaune et le non-retournement des
-parcelles.
+portant notamment sur le non-retournement des parcelles et la préservation de
+l'avifaune, sans exclure la pratique de la chasse sous réserve que celle-ci soit
+associée à la préservation et à l'entretien des habitats.
 
 L'exonération est applicable pendant cinq ans à compter de l'année qui suit
 celle de la signature de l'engagement et est renouvelable. Elle ne concerne pas
