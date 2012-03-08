@@ -146,3 +146,15 @@ par le 1° de l'article R. 257-3 du code rural et de la pêche maritime.
 
 8° Contraventions réprimées par les articles R. 331-17-2 (3e alinéa) et R.
 331-45 (3e alinéa) du code du sport.
+
+9° Contraventions en matière de bruit :
+
+a) Contraventions réprimées par l'article R. 623-2 du code pénal relatif aux
+bruits ou tapages injurieux ou nocturnes troublant la tranquillité d'autrui ;
+
+b) Contraventions réprimées par les articles R. 1337-7 et R. 1337-9 du code de
+la santé publique relatifs au fait d'être à l'origine d'un bruit particulier,
+autre que ceux relevant de l'article R. 1337-6, de nature à porter atteinte à la
+tranquillité du voisinage ou à la santé de l'homme dans les conditions prévues à
+l'article R. 1334-31, ou au fait d'en faciliter sciemment, par aide ou
+assistance, la préparation ou la consommation.
