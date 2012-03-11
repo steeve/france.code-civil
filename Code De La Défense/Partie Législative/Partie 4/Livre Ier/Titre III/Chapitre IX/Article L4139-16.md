@@ -132,8 +132,14 @@ Sous-officiers du personnel navigant de l'armée de l'air
 
 52
 
-Militaires infirmiers et techniciens des hôpitaux des armées (sous-officiers),
-major des ports (marine) et officiers mariniers de carrière des ports (marine)
+
+Infirmiers en soins généraux et spécialisés
+
+62
+
+Militaires infirmiers et techniciens des hôpitaux des armées (sous-officiers)
+excepté ceux du corps des infirmiers en soins généraux et spécialisés, majors
+des ports (marine) et officiers mariniers de carrière des ports (marine)
 
 59
 
