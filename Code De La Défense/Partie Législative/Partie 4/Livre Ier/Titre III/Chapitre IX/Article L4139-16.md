@@ -45,8 +45,8 @@ Officiers de l'air
 
 63
 
-Officiers du cadre spécial, commissaires (terre, marine et air), officiers des
-corps techniques et administratifs, ingénieurs militaires des essences,
+Officiers du cadre spécial, commissaires des armées, officiers des corps
+techniques et administratifs, ingénieurs militaires des essences,
 administrateurs des affaires maritimes
 
 62

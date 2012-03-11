@@ -12,7 +12,7 @@ l'entretien de l'hôtel de la région ;
 
 3° Les cotisations au régime général de la sécurité sociale en application de
 l'article L. 4135-20-2 et aux régimes de retraites des élus en application des
-articles L. 4135-22 à L. 4135-24 ;
+articles L. 4135-21 à L. 4135-24 ;
 
 4° La cotisation au Centre national de la fonction publique territoriale ;
 
