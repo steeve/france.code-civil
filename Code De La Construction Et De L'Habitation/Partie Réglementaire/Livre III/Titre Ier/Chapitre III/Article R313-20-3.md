@@ -18,21 +18,18 @@ lorsqu'elles prennent la forme de subventions, 30 % du prix de revient
 prévisionnel de l'opération, dans la limite de 30 000 € par logement ou par lit
 en zone C, 40 000 € en zone B2, 45 000 € en zone B1, 50 000 € en zone A ou 70
 000 € en zone A bis. Pour les prêts, cette quotité et ce montant sont doublés.
+Ces plafonds peuvent être augmentés ou réduits au plus de 20 % par arrêté du
+ministre chargé du logement en fonction de la consommation des enveloppes
+financières fixées par le décret prévu au dernier alinéa de l'article L. 313-3.
 
-3° La durée des prêts mentionnés au I de l'article R. 313-19-3 n'excède pas
-cinquante ans.
+3° La durée des prêts à long terme mentionnés au I de l'article R. 313-19-3
+n'excède pas cinquante ans. La durée des prêts à long terme à remboursement in
+fine n'est pas inférieure à quarante ans et n'excède pas cinquante ans.
 
-4° Le taux d'intérêt de ces prêts n'excède pas 1 % par an.
+4° Le taux d'intérêt de ces prêts n'excède pas un taux plafond égal au taux du
+livret A en vigueur au 31 décembre de l'année précédant la signature de la
+convention de prêt, minoré de deux points, ou au taux de 0,5 %, si le taux du
+livret A minoré de deux points est inférieur à 0,5 %. Ce taux d'intérêt est
+fixe.
 
-II.-1° Les aides mentionnées au II de l'article R. 313-19-3 ne peuvent excéder
-30 % du prix de revient prévisionnel de l'opération, dans la limite de 30 000 €
-par logement en zone C, 40 000 € en zone B2, 45 000 € en zone B1, 50 000 € en
-zone A ou 70 000 € en zone A bis.
-
-2° La durée des prêts mentionnés au II de l'article R. 313-19-3 n'excède pas
-cinquante ans.
-
-3° Le taux d'intérêt de ces prêts n'excède pas 1, 5 % par an.
-
-III.-Les plafonds mentionnés au 2° du I et au 1° du II peuvent être actualisés
-par arrêté du ministre chargé du logement.
+II et III. (Abrogés).

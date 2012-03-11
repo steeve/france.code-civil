@@ -3,15 +3,7 @@ Article R313-19-1
 Au titre du a de l'article L. 313-3, les aides suivantes peuvent être accordées
 à des personnes physiques :
 
-I.-Prêts à taux réduit à remboursement différé accordés à des personnes
-physiques pour le financement de l'acquisition ou de la construction d'un
-logement neuf affecté à leur résidence principale.
-
-Pour les logements individuels, ces aides peuvent également prendre la forme du
-financement par un organisme collecteur associé de l'Union d'économie sociale du
-logement de l'acquisition par une personne morale du terrain d'assiette du
-logement assortie d'un bail à construction contenant promesse de cession dudit
-terrain.
+I (Supprimé)
 
 II.-Prêts à taux réduit accordés à des personnes physiques pour le financement
 de l'acquisition, suivie ou non de travaux d'amélioration, ou de la construction
@@ -24,13 +16,17 @@ qui sont au moins celles fixées en application des articles L. 111-9 et L.
 location-accession conclus en application de la loi n° 84-595 du 12 juillet
 1984.
 
-III.-Prêts à taux réduit accordés pour la réalisation de travaux d'amélioration
-à des personnes physiques. Ces prêts sont accordés en priorité à des personnes
-physiques placées ou dont le logement est placé dans l'une des situations
-particulières suivantes :
+III.-Prêts à taux réduit accordés à des personnes physiques pour la réalisation
+de travaux d'amélioration. Si pour la mise en œuvre de ces dispositions l'Union
+d'économie sociale du logement, dans l'exercice de ses compétences, recommande
+aux associés collecteurs de réserver ces prêts à des situations particulières,
+elle doit y inclure au moins tous les cas suivants :
 
 a) Personnes en situation de handicap au sens de l'article L. 114 du code de
-l'action sociale et des familles ;
+l'action sociale et des familles. Toutefois, ces prêts peuvent être remplacés
+par des subventions. Ces aides peuvent également financer des travaux de
+construction de logements adaptés au handicap ou de travaux d'amélioration
+nécessaires à l'adaptation au handicap des logements ou immeubles existants ;
 
 b) Propriétaires occupants pour des travaux ouvrant droit à une subvention de
 l'Agence nationale de l'habitat ;
@@ -40,10 +36,11 @@ sauvegarde prévu à l'article L. 615-1 ou d'une convention d'opération program
 d'amélioration de l'habitat mentionnée à l'article L. 303-1, et comportant des
 actions destinées aux copropriétés dégradées ;
 
-d) Logements ou immeubles placés dans une situation d'insalubrité avérée, selon
-des modalités définies par le règlement général de l'Agence nationale de
-l'habitat, et pour l'amélioration desquels les propriétaires occupants
-obtiennent une subvention de l'agence précitée ;
+d) Logements ou immeubles pour l'amélioration desquels les propriétaires
+occupants obtiennent une subvention de l'Agence nationale de l'habitat en vue de
+réaliser les travaux nécessaires pour mettre fin à leur caractère indigne au
+sens du troisième alinéa de l'article 4 de la loi n° 90-449 du 31 mai 1990
+visant à la mise en œuvre du droit au logement ;
 
 e) Logements dont l'habitabilité est compromise à la suite d'une catastrophe
 mentionnée à l'article R. 318-1 ;
@@ -51,14 +48,12 @@ mentionnée à l'article R. 318-1 ;
 f) Logements faisant l'objet de travaux d'amélioration de la performance
 énergétique.
 
-Toutefois, les aides accordées au titre du a du présent III peuvent prendre la
-forme de prêts ou de subventions à des personnes physiques ou à des bailleurs et
-peuvent également financer la réalisation de logements locatifs adaptés ou de
-travaux nécessaires à l'adaptation de logements ou d'immeubles existants.
+Lorsque les aides sont accordées dans les cas mentionnés aux a à f, leur montant
+est majoré.
 
-IV.-Prêts à taux nul accordés à des personnes physiques, en fonction, le cas
-échéant, de leur activité ou de leurs ressources, pour financer leur dépôt de
-garantie leur permettant l'accès à un logement locatif.
+IV.-Prêts à taux nul ou à taux réduit accordés à des personnes physiques, en
+fonction, le cas échéant, de leur activité ou de leurs ressources, pour financer
+leur dépôt de garantie leur permettant l'accès à un logement locatif.
 
 V.-Garanties ou cautions accordées à des personnes physiques, en fonction, le
 cas échéant, de leur activité ou de leurs ressources, pour couvrir leur risque

@@ -3,8 +3,9 @@ Article R313-19-3
 Au titre du c de l'article L. 313-3, peuvent être accordées des interventions
 sous les formes suivantes :
 
-I.-Subventions ou prêts à taux réduit accordés pour le financement d'opérations
-de construction, d'acquisition suivies ou non de travaux d'amélioration, de
+I.-Subventions, prêts à taux réduit à long terme ou prêts à taux réduit à long
+terme à remboursement in fine accordés pour le financement d'opérations de
+construction, d'acquisition suivies ou non de travaux d'amélioration, de
 réhabilitation d'immeubles, destinés en tout ou partie à des salariés, des
 demandeurs d'emplois ou des stagiaires rencontrant des difficultés particulières
 pour se loger, ou tenus, pour des raisons professionnelles ou de formation, de
@@ -29,11 +30,7 @@ logements locatifs sociaux mentionnés à l'article R. 331-17 ;
 
 d) Résidences hôtelières à vocation sociale mentionnées à l'article L. 631-11.
 
-II.-Subventions ou prêts à taux réduit accordés à des sociétés mentionnées au I
-de l'article R. 313-19-2 pour l'acquisition et la réhabilitation d'habitats
-indignes au sens de l'article 4 de loi n° 90-449 du 31 mai 1990 visant à la mise
-en œuvre du droit au logement, faisant l'objet d'un conventionnement au titre de
-l'article L. 353-1 et destinés au logement, principalement, de salariés.
+II. (Supprimé)
 
 III.-Financement d'activités en faveur du logement ou de l'hébergement des
 personnes et des familles mentionnées au II de l'article L. 301-1, lorsque ces
@@ -41,12 +38,12 @@ activités relèvent de l'ingénierie sociale, financière et technique et sont
 réalisées par des organismes agréés mentionnés à l'article L. 365-3, de
 l'intermédiation locative et de la gestion locative sociale et sont réalisées
 par des organismes agréés mentionnés à l'article L. 365-4. Ces aides peuvent
-également prendre la forme de garanties de loyers et charges dus aux
-propriétaires des logements par des organismes mentionnés à l'article L. 365-4
-exerçant des activités d'intermédiation locative et de gestion locative sociale,
-lorsque ces organismes sous-louent lesdits logements à des personnes et des
-familles éprouvant des difficultés particulières au sens du II de l'article L.
-301-1.
+également être accordées, lorsque les logements sont sous-loués à des personnes
+et des familles éprouvant des difficultés particulières au sens du II de
+l'article L. 301-1 par des organismes mentionnés à l'article L. 365-4, sous la
+forme de garanties des loyers et charges dus à ces organismes ou aux
+propriétaires de ces logements, ou sous la forme de prêts à taux réduit ou nul
+destinés à financer le dépôt de garantie.
 
 IV.-Financement de l'association pour l'accès aux garanties locatives mentionnée
 à l'article L. 313-33.

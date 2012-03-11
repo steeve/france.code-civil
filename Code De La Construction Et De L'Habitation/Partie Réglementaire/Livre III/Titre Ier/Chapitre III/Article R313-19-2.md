@@ -20,21 +20,23 @@ l'article L. 313-3 et dont les organismes collecteurs associés de l'Union ont o
 prennent, seuls ou collectivement, le contrôle au sens du III de l'article L.
 430-1 du code de commerce.
 
-II.-Souscriptions de titres de créance subordonnés et à long terme émis par des
-sociétés anonymes d'habitations à loyer modéré mentionnées à l'article L. 422-2,
-par des sociétés anonymes coopératives de production d'habitations à loyer
-modéré mentionnées à l'article L. 422-3, par des sociétés d'économie mixte
-exerçant à titre principal une activité de construction, d'acquisition ou de
-gestion de logements sociaux ou par des sociétés anonymes coopératives d'intérêt
-collectif pour l'accession à la propriété mentionnées à l'article L. 215-1.
+II.-Souscriptions de titres de créance subordonnés à taux réduit et à long terme
+à remboursement in fine émis par des sociétés mentionnées au I, par des offices
+publics de l'habitat mentionnés à l'article L. 421-1 ou par des organismes
+agréés en application de l'article L. 365-2.
 
-Les souscriptions de titres de créances subordonnés et à long terme peuvent
-également concerner les sociétés mentionnées au deuxième alinéa du I du présent
-article.
+Lorsque ces titres de créance sont assortis d'une option donnant accès au
+capital, cette option ne doit pas pouvoir être levée par le souscripteur avant
+le mois précédant l'échéance du titre.
 
 III.-Subventions accordées pour financer des opérations d'acquisition, suivies
 ou non de travaux d'amélioration, ou de construction de logements locatifs
 bénéficiant des prêts mentionnés aux articles R. 331-14 et R. 372-1.
+
+III bis.-Prêts à taux réduit à long terme à remboursement in fine accordés pour
+financer des opérations d'acquisition, suivies ou non de travaux d'amélioration,
+ou de construction de logements locatifs bénéficiant des prêts mentionnés aux
+articles R. 331-14 et R. 372-1.
 
 IV.-Prêts à taux réduit à long terme accordés pour financer des opérations
 d'acquisition, suivies ou non de travaux d'amélioration, de construction ou
@@ -42,7 +44,19 @@ d'amélioration de logements locatifs, lorsque ces logements bénéficient des
 prêts mentionnés à l'article R. 331-1 et R. 372-1 ou relèvent du champ
 d'application de l'article L. 353-1.
 
-Ces prêts peuvent notamment être accordés pendant la phase locative d'opérations
+Ces prêts peuvent être accordés pour financer des opérations d'acquisition,
+suivies ou non de travaux d'amélioration, de construction ou d'amélioration de
+logements locatifs, lorsque ces logements bénéficient des prêts mentionnés à
+l'article R. 331-1 et qu'ils sont destinés à des étudiants, principalement
+lorsque ceux-ci sont salariés ou en stage.
+
+Ces prêts peuvent être accordés pour l'acquisition et la réhabilitation de
+logements indignes au sens de l'article 4 de la loi n° 90-449 du 31 mai 1990
+visant à la mise en œuvre du droit au logement, faisant l'objet d'un
+conventionnement au titre de l'article L. 353-1 et destinés principalement au
+logement de salariés.
+
+Ces prêts peuvent également être accordés pendant la phase locative d'opérations
 de location-accession agréées en application de l'article R. 331-76-5-1.
 
 V.-Prêts à taux réduit à long terme accordés pour financer des opérations

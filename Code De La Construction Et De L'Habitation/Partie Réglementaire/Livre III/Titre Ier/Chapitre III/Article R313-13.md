@@ -11,3 +11,8 @@ contreparties qui y sont le cas échéant associées, ainsi que les modalités d
 contrôle exercé par les organismes collecteurs associés de l'Union d'économie
 sociale du logement. Ces contrats comprennent des clauses types approuvées par
 décret.
+
+Lorsque ces aides sont versées sous forme de souscription ou acquisition de
+titres, ou de titres de créances, elles peuvent donner lieu, dans les cas prévus
+à l'article L. 313-3, à des contreparties sous la forme de droits de
+réservation, dans les conditions prévues à l'article L. 313-26.
