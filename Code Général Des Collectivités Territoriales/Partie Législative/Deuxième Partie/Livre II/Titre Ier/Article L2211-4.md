@@ -5,7 +5,9 @@ compétences du représentant de l'Etat, des compétences d'action sociale confi
 au département et des compétences des collectivités publiques, des
 établissements et des organismes intéressés, le maire anime, sur le territoire
 de la commune, la politique de prévention de la délinquance et en coordonne la
-mise en oeuvre.
+mise en oeuvre. A cette fin, il peut convenir avec l'Etat ou les autres
+personnes morales intéressées des modalités nécessaires à la mise en œuvre des
+actions de prévention de la délinquance.
 
 Dans les communes de plus de 10 000 habitants et dans les communes comprenant
 une zone urbaine sensible telle que définie par le 3 de l'article 42 de la loi
