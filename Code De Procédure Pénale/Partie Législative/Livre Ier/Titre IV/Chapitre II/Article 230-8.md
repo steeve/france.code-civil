@@ -19,8 +19,9 @@ République ordonne l'effacement des données personnelles. Les autres décision
 de classement sans suite font l'objet d'une mention. Lorsqu'une décision fait
 l'objet d'une mention, les données relatives à la personne concernée ne peuvent
 faire l'objet d'une consultation dans le cadre des enquêtes administratives
-prévues à l'article 17-1 de la loi n° 95-73 du 21 janvier 1995 d'orientation et
-de programmation relative à la sécurité.
+prévues aux articles L. 114-1, L. 234-1 à L. 234-3 du code de la sécurité
+intérieure et à l'article 17-1 de la loi n° 95-73 du 21 janvier 1995
+d'orientation et de programmation relative à la sécurité.
 
 Les décisions d'effacement ou de rectification des informations nominatives
 prises par le procureur de la République sont portées à la connaissance des

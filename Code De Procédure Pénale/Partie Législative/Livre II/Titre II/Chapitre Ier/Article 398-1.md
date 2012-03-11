@@ -6,21 +6,21 @@ Sont jugés dans les conditions prévues au troisième alinéa de l'article 398 
 code monétaire et financier ;
 
 2° Les délits prévus par le code de la route ainsi que, lorsqu'ils sont commis à
-l'occasion de la conduite d'un véhicule, par les articles
-222-19-1,222-20-1,223-1 et 434-10 du code pénal ;
+l'occasion de la conduite d'un véhicule, par les articles 222-19-1, 222-20-1,
+223-1 et 434-10 du code pénal ;
 
 3° Les délits en matière de réglementations relatives aux transports terrestres
 ;
 
 4° Les délits de port ou transport d'armes de la 6e catégorie prévus par
-l'article L. 2339-9 du code de la défense ;
+l'article L. 317-8 du code de la sécurité intérieure ;
 
 5° Les délits prévus par les articles 222-11,222-12 (1° à 15°), 222-13 (1° à
-15°), 222-16,222-17,222-18,222-32,225-10-1,227-3 à 227-11,311-3,311-4 (1° à
-11°), 313-5,314-5,314-6,321-1,322-1 à 322-4-1,322-12,322-13,322-14,431-22 à
-431-24,433-3, premier et deuxième alinéas, 433-5,433-6 à 433-8, premier alinéa,
-433-10, premier alinéa, 446-1,446-2 et 521-1 du code pénal et L. 628 du code de
-la santé publique ;
+15°), 222-16, 222-17, 222-18, 222-32, 225-10-1, 227-3 à 227-11, 311-3, 311-4 (1°
+à 11°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4-1, 322-12, 322-13, 322-14,
+431-22 à 431-24, 433-3, premier et deuxième alinéas, 433-5, 433-6 à 433-8,
+premier alinéa, 433-10, premier alinéa, 446-1, 446-2 et 521-1 du code pénal et
+L. 628 du code de la santé publique ;
 
 6° Les délits prévus par le code de l'environnement en matière de chasse, de
 pêche en eau douce, de pêche maritime, de protection de la faune et de la flore,

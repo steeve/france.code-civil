@@ -2,8 +2,8 @@ Article R2513-13
 ----
 Le commandant du bataillon de marins-pompiers de Marseille dispose du centre
 opérationnel des services de secours et d'incendie de Marseille (COSSIM) afin
-d'assurer, conformément aux dispositions de l'article 9 de la loi n° 2004-811 du
-13 août 2004 :
+d'assurer, conformément aux dispositions de l'article L732-5 du code de la
+sécurité intérieure :
 
 1° La réception, le traitement des appels et la réorientation éventuelle des
 demandes de secours ;

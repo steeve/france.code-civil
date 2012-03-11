@@ -1,4 +1,4 @@
 Article L132-1
 ----
-La police des campagnes est spécialement placée sous la surveillance des gardes
-champêtres et de la gendarmerie nationale.
+Les missions des gardes champêtres sont définies par les articles L. 546-2 et L.
+546-4 à L. 546-7 du code de la sécurité intérieure.

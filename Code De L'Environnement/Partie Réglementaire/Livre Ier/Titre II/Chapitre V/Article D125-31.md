@@ -13,10 +13,10 @@ Elle est informée :
 d'apporter à cette installation ainsi que des mesures prises par le préfet en
 application des dispositions de ce même article ;
 
-3° Du plan particulier d'intervention établi en application de l'article 15 de
-la loi n° 2004-811 du 13 août 2004 de modernisation de la sécurité civile et du
-plan d'opération interne établi en application de l'article L. 512-29 du présent
-code (1) et des exercices relatifs à ces plans ;
+3° Du plan particulier d'intervention établi en application de l'article L741-6
+du code de la sécurité inérieure et du plan d'opération interne établi en
+application de l'article L. 512-29 du présent code (1) et des exercices relatifs
+à ces plans ;
 
 4° Du rapport environnemental de la société ou du groupe auquel appartient
 l'exploitant de l'installation, lorsqu'il existe.

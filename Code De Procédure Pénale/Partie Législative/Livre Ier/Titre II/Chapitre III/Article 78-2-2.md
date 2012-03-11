@@ -7,18 +7,19 @@ massive et de leurs vecteurs visées aux 1° et 2° du I de l'article L. 1333-9,
 l'article L. 1333-11, au II des articles L. 1333-13-3 et L. 1333-13-4 et aux
 articles L. 1333-13-5, L. 2339-14, L. 2339-15, L. 2341-1, L. 2341-2, L. 2341-4,
 L. 2342-59 et L. 2342-60 du code de la défense, d'armes et d'explosifs visées
-par les articles L. 2339-8, L. 2339-9 et L. 2353-4 du code de la défense, des
-infractions de vol visées par les articles 311-3 à 311-11 du code pénal, de
-recel visées par les articles 321-1 et 321-2 du même code ou des faits de trafic
-de stupéfiants visés par les articles 222-34 à 222-38 dudit code, les officiers
-de police judiciaire, assistés, le cas échéant, des agents de police judiciaire
-et des agents de police judiciaire adjoints mentionnés aux 1°,1° bis et 1° ter
-de l'article 21 peuvent, dans les lieux et pour la période de temps que ce
-magistrat détermine et qui ne peut excéder vingt-quatre heures, renouvelables
-sur décision expresse et motivée selon la même procédure, procéder non seulement
-aux contrôles d'identité prévus au sixième alinéa de l'article 78-2 mais aussi à
-la visite des véhicules circulant, arrêtés ou stationnant sur la voie publique
-ou dans des lieux accessibles au public.
+par les articles L. 2339-8, et L. 2353-4 du code de la défense et L. 317-8 du
+code de la sécurité intérieure, des infractions de vol visées par les articles
+311-3 à 311-11 du code pénal, de recel visées par les articles 321-1 et 321-2 du
+même code ou des faits de trafic de stupéfiants visés par les articles 222-34 à
+222-38 dudit code, les officiers de police judiciaire, assistés, le cas échéant,
+des agents de police judiciaire et des agents de police judiciaire adjoints
+mentionnés aux 1°, 1° bis et 1° ter de l'article 21 peuvent, dans les lieux et
+pour la période de temps que ce magistrat détermine et qui ne peut excéder
+vingt-quatre heures, renouvelables sur décision expresse et motivée selon la
+même procédure, procéder non seulement aux contrôles d'identité prévus au
+sixième alinéa de l'article 78-2 mais aussi à la visite des véhicules circulant,
+arrêtés ou stationnant sur la voie publique ou dans des lieux accessibles au
+public.
 
 Pour l'application des dispositions du présent article, les véhicules en
 circulation ne peuvent être immobilisés que le temps strictement nécessaire au

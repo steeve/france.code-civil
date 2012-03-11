@@ -80,9 +80,9 @@ maires de communes membres dont la population représente plus de la moitié de 
 population totale, ou de la moitié des maires de communes membres dont la
 population représente plus des deux tiers de la population totale.
 
-V.-Les agents de police municipale recrutés en application du cinquième alinéa
-de l'article L. 2212-5 et les agents spécialement assermentés peuvent assurer,
-sous l'autorité du président de l'établissement public de coopération
-intercommunale, l'exécution des décisions prises conformément aux attributions
-transférées par les maires des communes membres en vertu du I du présent
-article.
+V.-Les agents de police municipale recrutés en application des articles L. 511-1
+et L. 512-2 du code de la sécurité intérieure et les agents spécialement
+assermentés peuvent assurer, sous l'autorité du président de l'établissement
+public de coopération intercommunale, l'exécution des décisions prises
+conformément aux attributions transférées par les maires des communes membres en
+vertu du I du présent article.

@@ -1,16 +1,15 @@
 Article L2573-19
 ----
-I.-Les articles L. 2213-1 à L. 2213-16, l'article L. 2213-17, à l'exception de
-son deuxième alinéa, les articles L. 2213-18 à L. 2213-19-1, les articles L.
-2213-23 à L. 2213-29, l'article L. 2213-30, à l'exception de son deuxième
-alinéa, et l'article L. 2213-31, à l'exception de ses deux derniers alinéas,
-sont applicables aux communes de la Polynésie française, sous réserve des
-adaptations prévues du II au IX.
+I.-Les articles L. 2213-1 à L. 2213-16, les articles L. 2213-23 à L. 2213-29,
+l'article L. 2213-30, à l'exception de son deuxième alinéa, et l'article L.
+2213-31, à l'exception de ses deux derniers alinéas, sont applicables aux
+communes de la Polynésie française, sous réserve des adaptations prévues du II
+au IX.
 
 II.-Pour son application aux communes de Polynésie française, l'article L.
 2213-1 est ainsi rédigé :
 
-" Art.L. 2213-1. Le maire exerce la police de la circulation sur les routes
+" Art. L. 2213-1. Le maire exerce la police de la circulation sur les routes
 situées dans la commune, dans le cadre de la réglementation édictée par la
 Polynésie française en matière de circulation routière. "
 

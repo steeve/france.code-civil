@@ -1,9 +1,5 @@
 Article L2542-9
 ----
-Il y a au moins un garde champêtre par commune.
-
-La commune juge de la nécessité d'en établir davantage.
-
-Un groupement de collectivités peut avoir en commun un ou plusieurs gardes
-champêtres compétents sur l'ensemble du territoire des communes instituant ce
-groupement.
+Les conditions dans lesquelles les gardes champêtres peuvent être recrutés sont
+définies par les dispositions du chapitre III du titre II du livre V du code de
+la sécurité intérieure.

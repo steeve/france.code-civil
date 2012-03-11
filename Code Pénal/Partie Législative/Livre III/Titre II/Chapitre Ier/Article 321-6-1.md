@@ -8,10 +8,11 @@ Elles sont portées à sept ans d'emprisonnement et 200 000 euros d'amende lorsq
 les infractions commises constituent les crimes ou délits de traite des êtres
 humains, d'extorsion ou d'association de malfaiteurs ou les délits et crimes en
 matière d'armes et de produits explosifs prévus par les articles L. 2339-2, L.
-2339-3, L. 2339-5, L. 2339-8, L. 2339-10, L. 2341-4, L. 2353-4 et L. 2353-5 du
-code de la défense. Il en est de même lorsqu'elles constituent les crimes ou
-délits de trafic de stupéfiants, y compris en cas de relations habituelles avec
-une ou plusieurs personnes faisant usage de stupéfiants.
+2339-3, L. 2339-10, L. 2341-4, L. 2353-4 et L. 2353-5 du code de la défense
+ainsi que par les articles L. 317-2, L. 317-4 et L. 317-7 du code de la sécurité
+intérieure. Il en est de même lorsqu'elles constituent les crimes ou délits de
+trafic de stupéfiants, y compris en cas de relations habituelles avec une ou
+plusieurs personnes faisant usage de stupéfiants.
 
 Elles sont portées à dix ans d'emprisonnement et 300 000 euros d'amende
 lorsqu'il s'agit d'une infraction mentionnée à l'alinéa précédent commise par un

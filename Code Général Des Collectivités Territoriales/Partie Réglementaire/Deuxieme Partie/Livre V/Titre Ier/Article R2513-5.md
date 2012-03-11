@@ -1,9 +1,9 @@
 Article R2513-5
 ----
-I. - Le bataillon de marins-pompiers de Marseille est une formation de la marine
+I.-Le bataillon de marins-pompiers de Marseille est une formation de la marine
 nationale à compétence territoriale particulière investie, à titre permanent,
-d'une mission de sécurité civile au sens de l'article 2 de la loi n° 2004-811 du
-13 août 2004.
+d'une mission de sécurité civile au sens de l'article L721-2 du code de la
+sécurité intérieure.
 
 Il exerce les missions mentionnées à l'article L. 1424-2, conformément aux
 dispositions de l'article L. 2513-3, dans les conditions suivantes :
@@ -30,12 +30,12 @@ territoriales de celui-ci.
 La charge financière des prestations visées au même III incombe aux
 établissements ou organismes ayant demandé à en bénéficier.
 
-II. - Ces missions sont assurées en application des dispositions combinées des
+II.-Ces missions sont assurées en application des dispositions combinées des
 articles susvisés et de l'ensemble des textes à caractère réglementaire
 définissant le rôle des services départementaux d'incendie et de secours en
 matière de prévention, de prévision et de conduite des opérations.
 
-III. - Le bataillon de marins-pompiers de Marseille participe également dans sa
+III.-Le bataillon de marins-pompiers de Marseille participe également dans sa
 zone de compétence aux enseignements et aux jurys d'examens sanctionnant les
 actions de formation ou de sensibilisation du public aux techniques ou métiers
 de la sécurité civile.

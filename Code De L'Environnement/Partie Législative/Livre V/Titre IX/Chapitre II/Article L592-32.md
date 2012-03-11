@@ -7,8 +7,7 @@ ionisants et survenant en France ou susceptibles d'affecter le territoire
 français. Elle apporte son concours technique aux autorités compétentes pour
 l'élaboration, au sein des plans d'organisation des secours, des dispositions
 prenant en compte les risques résultant d'activités nucléaires prévues aux
-articles 14 et 15 de la loi n° 2004-811 du 13 août 2004 de modernisation de la
-sécurité civile.
+articles L741-1 à L741-6 du code de la sécurité intérieure.
 
 Lorsque survient une telle situation d'urgence, elle assiste le Gouvernement
 pour toutes les questions de sa compétence. Elle adresse aux autorités

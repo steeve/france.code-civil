@@ -12,8 +12,7 @@ b) La formation des sapeurs-pompiers professionnels et volontaires en liaison
 avec les organismes compétents en la matière ;
 
 c) La prise en charge des dépenses afférentes aux opérations de secours dans les
-conditions fixées par l'article 27 de la loi n° 2004-811 du 13 août 2004 de
-modernisation de la sécurité civile ;
+conditions fixées par l'article L. 742-11 du code de la sécurité intérieure ;
 
 d) L'information et la sensibilisation du public aux risques affectant la
 sécurité des personnes et des biens ;
