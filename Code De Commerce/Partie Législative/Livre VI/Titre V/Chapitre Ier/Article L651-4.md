@@ -15,7 +15,9 @@ prévoyance et de sécurité sociale, des établissements de paiement et des
 Le président du tribunal peut, dans les mêmes conditions, ordonner toute mesure
 conservatoire utile à l'égard des biens des dirigeants ou de leurs représentants
 visés à l'alinéa qui précède ou encore des biens de l'entrepreneur individuel à
-responsabilité limitée compris dans son patrimoine non affecté.
+responsabilité limitée compris dans son patrimoine non affecté. Il peut
+maintenir la mesure conservatoire ordonnée à l'égard des biens du dirigeant de
+droit ou de fait en application de l'article L. 631-10-1.
 
 Les dispositions du présent article sont également applicables aux personnes
 membres ou associées de la personne morale en procédure de sauvegarde, de
