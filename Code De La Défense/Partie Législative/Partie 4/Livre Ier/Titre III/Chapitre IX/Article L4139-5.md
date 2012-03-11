@@ -21,6 +21,18 @@ bénéficier d'un congé de reconversion d'une durée maximale de vingt jours ou
 selon les mêmes modalités et dans les mêmes conditions de fractionnement que
 celles prévues au premier alinéa du présent II.
 
+Sauf faute de la victime détachable du service, le militaire blessé en opération
+de guerre, au cours d'une opération qualifiée d'opération extérieure dans les
+conditions prévues à l'article L. 4123-4, d'une opération de maintien de
+l'ordre, d'une opération de sécurité publique ou de sécurité civile définie par
+décret peut, sur demande agréée et sans condition d'ancienneté de service,
+bénéficier des dispositions prévues au premier alinéa du présent II, sans
+préjudice du droit à pension visé au 2° de l'article L. 6 du code des pensions
+civiles et militaires de retraite. L'agrément est délivré après avis d'un
+médecin des armées portant sur la capacité du militaire à suivre les actions de
+formation professionnelle ou d'accompagnement vers l'emploi pour lesquelles il
+sollicite le placement en congé de reconversion.
+
 Le bénéficiaire de ces congés perçoit, dans des conditions définies par décret
 en Conseil d'Etat, la rémunération de son grade. Celle-ci est réduite ou
 suspendue lorsque le bénéficiaire perçoit une rémunération publique ou privée.

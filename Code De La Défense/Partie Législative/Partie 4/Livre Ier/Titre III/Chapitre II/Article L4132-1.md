@@ -13,5 +13,7 @@ l'article L. 4132-7 ;
 formation générale et professionnelle en qualité de volontaire dans les armées
 ou en qualité d'engagé dans une école militaire.
 
+Ces conditions sont vérifiées au plus tard à la date du recrutement.
+
 Le mineur non émancipé doit être pourvu du consentement de son représentant
 légal.

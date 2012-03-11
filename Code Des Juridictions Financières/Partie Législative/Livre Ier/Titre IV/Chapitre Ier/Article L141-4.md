@@ -10,3 +10,12 @@ Cour des comptes mentionnés aux sections 1 à 4 du chapitre II du titre Ier du
 présent livre, dans des conditions précisées par voie réglementaire.
 
 Les experts sont tenus à l'obligation du secret professionnel.
+
+Lorsque l'expérience des experts mentionnés au premier alinéa est susceptible
+d'être utile aux activités d'évaluation des politiques publiques de la Cour des
+comptes, cette dernière conclut une convention avec les intéressés indiquant,
+entre autres, s'ils exercent leur mission à temps plein ou à temps partiel. Ils
+bénéficient alors des mêmes prérogatives et sont soumis aux mêmes obligations
+que les magistrats de la cour. Le cas échéant, ils ont vocation à être affectés
+en chambre par le premier président, devant lequel ils prêtent le serment
+professionnel. Ils prennent alors le titre de conseiller expert.

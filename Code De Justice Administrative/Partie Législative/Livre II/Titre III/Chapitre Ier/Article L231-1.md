@@ -1,5 +1,6 @@
 Article L231-1
 ----
-Sous réserve des dispositions du présent titre, les dispositions statutaires de
-la fonction publique de l'Etat s'appliquent aux membres du corps des tribunaux
-administratifs et des cours administratives d'appel.
+Les membres des tribunaux administratifs et des cours administratives d'appel
+sont des magistrats dont le statut est régi par le présent livre et, pour autant
+qu'elles n'y sont pas contraires, par les dispositions statutaires de la
+fonction publique de l'Etat.

@@ -21,10 +21,13 @@ d'âge et aux modalités de recrutement de certains fonctionnaires civils de
 l'Etat ;
 
 5° Neuf membres élus représentant les magistrats de la Cour des comptes, les
-conseillers maîtres en service extraordinaire et les rapporteurs extérieurs.
-Pour chacun d'eux, il est procédé à l'élection d'un suppléant. Leur mandat est
-de trois ans, il est renouvelable une fois. Les modalités de cette élection sont
-fixées par décret.
+conseillers maîtres en service extraordinaire et les rapporteurs extérieurs. Il
+est procédé à l'élection de neuf membres suppléants, à raison de trois pour le
+collège des conseillers maîtres, deux pour celui des conseillers référendaires,
+deux pour celui des auditeurs, un pour le collège des conseillers maîtres en
+service extraordinaire et un pour celui des rapporteurs extérieurs. Leur mandat
+est de trois ans, il est renouvelable une fois. Les modalités de cette élection
+sont fixées par décret.
 
 Le conseil est consulté par le premier président sur toutes les questions
 relatives à la compétence, à l'organisation et au fonctionnement de la Cour des
@@ -37,10 +40,10 @@ Le conseil donne un avis sur les mesures individuelles concernant la situation
 et l'avancement des magistrats de la Cour des comptes, à l'exception des
 propositions de nomination des présidents de chambre. De même, il donne un avis
 sur les propositions de nomination aux emplois de président de chambre régionale
-des comptes et de vice-président de la chambre régionale des comptes
-d'Ile-de-France, ainsi que sur les propositions de nomination des premiers
-conseillers et des présidents de section de chambre régionale des comptes au
-grade de conseiller référendaire ou de conseiller maître.
+des comptes et de vice-président de chambre régionale des comptes, ainsi que sur
+les propositions de nomination des premiers conseillers et des présidents de
+section de chambre régionale des comptes au grade de conseiller référendaire ou
+de conseiller maître.
 
 Sauf en matière disciplinaire, tous les membres du conseil siègent, quel que
 soit le niveau hiérarchique des magistrats dont le cas est examiné. Toutefois,

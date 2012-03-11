@@ -15,4 +15,4 @@ grade de conseiller maître s'effectue hors tour.
 
 En dehors des conseillers référendaires et des magistrats de chambre régionale
 des comptes ayant le grade de président de section, nul ne peut être nommé
-conseiller maître s'il n'est âgé de quarante ans accomplis.
+conseiller maître s'il n'est âgé de quarante-cinq ans accomplis.

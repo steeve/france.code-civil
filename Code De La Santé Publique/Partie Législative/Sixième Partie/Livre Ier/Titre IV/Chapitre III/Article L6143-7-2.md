@@ -24,3 +24,13 @@ de nomination et, s'il relève de la fonction publique hospitalière, être plac
 en situation de recherche d'affectation après avis de la commission
 administrative paritaire compétente, sauf en cas de mise sous administration
 provisoire mentionnée à l'article L. 6143-3-1.
+
+Les emplois de direction mentionnés aux 1° et 2° ouvrent droit à pension soit au
+titre de la Caisse nationale de retraites des agents des collectivités locales,
+lorsqu'ils sont occupés par des fonctionnaires de la fonction publique
+hospitalière ou de la fonction publique territoriale, soit au titre du code des
+pensions civiles et militaires de retraite, lorsqu'ils sont occupés par des
+fonctionnaires de l'Etat, des magistrats ou des militaires. Un décret en Conseil
+d'Etat fixe l'indice de traitement sur la base duquel est effectuée la retenue
+pour pension. Ces mêmes emplois ouvrent également droit à cotisation au régime
+public de retraite additionnel obligatoire.

@@ -39,9 +39,10 @@ fonctionnaire ait accompli au moins quinze ans de services ;
 5° Un décret fixe les conditions dans lesquelles l'âge d'ouverture du droit à
 pension est abaissé, par rapport à un âge de référence de soixante ans, pour les
 fonctionnaires handicapés qui totalisent, alors qu'ils étaient atteints d'une
-incapacité permanente d'au moins 80 %, une durée d'assurance au moins égale à
-une limite fixée par ce décret, tout ou partie de cette durée ayant donné lieu à
-versement de retenues pour pensions.
+incapacité permanente d' au moins 80 % ou qu'ils avaient la qualité de
+travailleur handicapé au sens de l'article L. 5213-1 du code du travail, une
+durée d'assurance au moins égale à une limite fixée par ce décret, tout ou
+partie de cette durée ayant donné lieu à versement de retenues pour pensions.
 
 Une majoration de pension est accordée aux fonctionnaires handicapés visés à
 l'alinéa précédent, dans des conditions déterminées par décret en Conseil

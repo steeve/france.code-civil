@@ -12,9 +12,11 @@ Le Conseil d'Etat se compose :
 
 5° Des maîtres des requêtes ;
 
-6° Des auditeurs de 1re classe ;
+6° Des maîtres des requêtes en service extraordinaire ;
 
-7° Des auditeurs de 2e classe.
+7° Des auditeurs de 1re classe ;
+
+8° Des auditeurs de 2e classe.
 
 Les membres du Conseil d'Etat sont inscrits dans chaque grade d'après la date et
 l'ordre de leur nomination.

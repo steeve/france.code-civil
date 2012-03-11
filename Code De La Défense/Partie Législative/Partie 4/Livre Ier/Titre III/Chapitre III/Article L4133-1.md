@@ -7,11 +7,10 @@ un corps d'une autre armée ou d'une autre formation rattachée que sur leur
 demande.
 
 Ces dispositions ne peuvent entraîner ni l'admission dans les corps recrutés
-exclusivement par concours ou sur présentation de titres déterminés, ni la
-modification du grade et de l'ancienneté de grade acquise dans le corps
-d'origine, ni la prise de rang dans le nouveau corps avant les militaires de
-même grade et de même ancienneté, ni la perte du bénéfice d'une inscription au
-tableau d'avancement.
+exclusivement ou sur présentation de titres déterminés, ni la modification du
+grade et de l'ancienneté de grade acquise dans le corps d'origine, ni la prise
+de rang dans le nouveau corps avant les militaires de même grade et de même
+ancienneté, ni la perte du bénéfice d'une inscription au tableau d'avancement.
 
 Les militaires servant en vertu d'un contrat peuvent changer d'armée ou de
 formation rattachée et, le cas échéant, changer de corps de rattachement dans

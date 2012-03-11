@@ -17,6 +17,12 @@ Le militaire détaché est soumis à l'ensemble des règles régissant la foncti
 qu'il exerce par l'effet de son détachement, à l'exception de toute disposition
 prévoyant le versement d'indemnités de licenciement ou de fin de carrière.
 
+Le militaire détaché dans un corps ou un cadre d'emplois civil conserve l'état
+militaire et demeure par conséquent soumis aux articles L. 4121-1 à L. 4121-5.
+Toutefois, le militaire détaché peut, en application du statut particulier de
+son corps d'origine, se voir appliquer les dispositions dont relèvent les
+fonctionnaires du corps ou cadre d'emplois d'accueil.
+
 Sauf lorsqu'elle est de droit, la position de détachement est révocable et ne
 peut être renouvelée que sur demande.
 

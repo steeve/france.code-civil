@@ -20,10 +20,10 @@ partenariat ;
 
 4° Les décisions individuelles relatives à la nomination, au recrutement, y
 compris le contrat d'engagement, et au licenciement des agents non titulaires, à
-l'exception de celles prises dans le cadre d'un besoin saisonnier ou
-occasionnel, en application du deuxième alinéa de l'article 3 de la loi n° 84-53
-du 26 janvier 1984 portant dispositions statuaires relatives à la fonction
-publique territoriale ;
+l'exception de celles prises pour faire face à un besoin lié à un accroissement
+temporaire ou saisonnier d'activité, en application des 1° et 2° de l'article 3
+de la loi n° 84-53 du 26 janvier 1984 portant dispositions statuaires relatives
+à la fonction publique territoriale ;
 
 5° Les ordres de réquisition du comptable pris par le président du conseil
 régional ;
