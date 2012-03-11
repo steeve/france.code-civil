@@ -98,8 +98,9 @@ dont la population est inférieure à 3 500 habitants et pour leurs
 établissements, les dotations aux amortissements des subventions d'équipement
 versées ;
 
-29° Les dotations aux provisions dont les modalités de constitution,
-d'ajustement et d'emploi sont déterminées par décret en Conseil d'Etat ;
+29° Les dotations aux provisions, notamment pour risques liés à la souscription
+de produits financiers, dont les modalités de constitution, d'ajustement et
+d'emploi sont déterminées par décret en Conseil d'Etat ;
 
 30° Les intérêts de la dette et les dépenses de remboursement de la dette en
 capital ;
