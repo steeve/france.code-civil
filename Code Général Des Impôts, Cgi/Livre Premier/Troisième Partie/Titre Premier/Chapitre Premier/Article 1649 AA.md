@@ -7,3 +7,7 @@ revenus, les références du ou des contrats, les dates d'effet et de durée de 
 contrats, ainsi que les avenants et opérations de remboursement effectuées au
 cours de l'année civile. Les modalités d'application du présent alinéa sont
 fixées par décret (1).
+
+Les versements faits à l'étranger ou en provenance de l'étranger par
+l'intermédiaire de contrats non déclarés dans les conditions prévues au premier
+alinéa constituent, sauf preuve contraire, des revenus imposables.

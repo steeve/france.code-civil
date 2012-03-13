@@ -38,6 +38,12 @@ cuivre ;
 
 d) (Abrogé) ;
 
+e) Produits phytopharmaceutiques mentionnés à l'annexe II au règlement (CE) n°
+889/2008 de la Commission, du 5 septembre 2008, portant modalités d'application
+du règlement (CE) n° 834/2007 du Conseil relatif à la production biologique et à
+l'étiquetage des produits biologiques en ce qui concerne la production
+biologique, l'étiquetage et les contrôles ;
+
 6° Livres, y compris leur location. Dans le cas des opérations dont le fait
 générateur intervient à compter du 1er janvier 2012, cette disposition
 s'applique aux livres sur tout type de support physique, y compris ceux fournis

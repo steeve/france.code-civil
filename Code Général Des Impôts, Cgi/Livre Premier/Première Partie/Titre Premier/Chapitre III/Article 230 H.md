@@ -17,13 +17,14 @@ Ce seuil est égal à 4 % de l'effectif annuel moyen de l'entreprise, calculé d
 les conditions définies à l'article L. 1111-2 du code du travail, au cours de
 l'année de référence. Le respect du seuil est apprécié en calculant un
 pourcentage exprimant le rapport entre les effectifs des 1° et 2° du présent I
-et l'effectif annuel moyen de l'entreprise.
+et l'effectif annuel moyen de l'entreprise. Ce seuil est porté à 5 % à compter
+des rémunérations versées en 2015.
 
-Jusqu'au 31 décembre 2015, les entreprises dont l'effectif annuel moyen des
-salariés relevant des catégories définies au 1° est supérieur ou égal à 3 % de
-l'effectif annuel moyen de l'entreprise peuvent, à compter de l'année 2012, être
-exonérées de la contribution supplémentaire à l'apprentissage au titre de
-l'année considérée si elles remplissent l'une des conditions suivantes :
+Les entreprises dont l'effectif annuel moyen des salariés relevant des
+catégories définies au 1° est supérieur ou égal à 3 % de l'effectif annuel moyen
+de l'entreprise peuvent, à compter de l'année 2012, être exonérées de la
+contribution supplémentaire à l'apprentissage au titre de l'année considérée si
+elles remplissent l'une des conditions suivantes :
 
 a) L'entreprise justifie d'une progression de l'effectif annuel moyen des
 salariés relevant des catégories définies au 1° d'au moins 10 % par rapport à
@@ -43,13 +44,23 @@ du présent code.
 
 Elle est calculée aux taux suivants :
 
-1° 0,2 %, lorsque le pourcentage mentionné à la seconde phrase du cinquième
-alinéa du I est inférieur à 1 %. Le taux de la contribution est porté à 0,3 %
-lorsque l'effectif annuel moyen de l'entreprise excède deux mille salariés ;
+1° 0,25 % lorsque le pourcentage mentionné à la seconde phrase du cinquième
+alinéa du I est inférieur à 1 % ; ce taux est porté à 0,3 % à compter de la
+contribution due au titre des rémunérations versées en 2013 et à 0,4 % à compter
+de celle due au titre des rémunérations versées en 2014. Lorsque l'effectif
+annuel moyen de l'entreprise excède deux mille salariés, le taux de la
+contribution est égal à 0,4 % ; ce taux est porté à 0,5 % à compter de la
+contribution due au titre des rémunérations versées en 2013 et à 0,6 % à compter
+de celle due au titre des rémunérations versées en 2014 ;
 
-2° 0,1 %, lorsque ce pourcentage est au moins égal à 1 % et inférieur à 3 % ;
+2° 0,1 % lorsque ce pourcentage est au moins égal à 1 % et inférieur à 3 %. A
+compter de la contribution due au titre des rémunérations versées en 2015, ce
+taux est porté à 0,2 % lorsque le pourcentage est au moins égal à 1 % et
+inférieur à 2 % ;
 
-3° 0,05 %, lorsque ce pourcentage est au moins égal à 3 % et inférieur à 4 %.
+3° 0,05 % lorsque ce pourcentage est au moins égal à 3 % et inférieur à 4 % et,
+à compter de la contribution due au titre des rémunérations versées en 2015, au
+moins égal à 3 % et inférieur à 5 %.
 
 III. ― Pour les entreprises visées à l'article L. 1251-2 du code du travail, les
 seuils définis au I s'apprécient sans prendre en compte les salariés titulaires

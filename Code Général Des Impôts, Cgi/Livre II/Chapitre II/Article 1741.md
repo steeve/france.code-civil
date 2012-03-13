@@ -8,15 +8,24 @@ de faire sa déclaration dans les délais prescrits, soit qu'il ait volontaireme
 dissimulé une part des sommes sujettes à l'impôt, soit qu'il ait organisé son
 insolvabilité ou mis obstacle par d'autres manoeuvres au recouvrement de
 l'impôt, soit en agissant de toute autre manière frauduleuse, est passible,
-indépendamment des sanctions fiscales applicables, d'une amende de 37 500 euros
-et d'un emprisonnement de cinq ans. Lorsque les faits ont été réalisés ou
-facilités au moyen soit d'achats ou de ventes sans facture, soit de factures ne
-se rapportant pas à des opérations réelles, ou qu'ils ont eu pour objet
-d'obtenir de l'Etat des remboursements injustifiés, leur auteur est passible
-d'une amende de 75 000 euros et d'un emprisonnement de cinq ans.
+indépendamment des sanctions fiscales applicables, d'une amende de 500 000 € et
+d'un emprisonnement de cinq ans. Lorsque les faits ont été réalisés ou facilités
+au moyen soit d'achats ou de ventes sans facture, soit de factures ne se
+rapportant pas à des opérations réelles, ou qu'ils ont eu pour objet d'obtenir
+de l'Etat des remboursements injustifiés, leur auteur est passible d'une amende
+de 750 000 € et d'un emprisonnement de cinq ans. Lorsque les faits mentionnés à
+la première phrase ont été réalisés ou facilités au moyen soit de comptes
+ouverts ou de contrats souscrits auprès d'organismes établis dans un Etat ou un
+territoire qui n'a pas conclu avec la France, depuis au moins cinq ans au moment
+des faits, une convention d'assistance administrative permettant l'échange de
+tout renseignement nécessaire à l'application de la législation fiscale
+française, soit de l'interposition de personnes physiques ou morales ou de tout
+organisme, fiducie ou institution comparable établis dans l'un de ces Etats ou
+territoires, les peines sont portées à sept ans d'emprisonnement et à 1 000 000
+€ d'amende.
 
 Toutefois, cette disposition n'est applicable, en cas de dissimulation, que si
-celle-ci excède le dixième de la somme imposable ou le chiffre de 153 euros.
+celle-ci excède le dixième de la somme imposable ou le chiffre de 153 €.
 
 Toute personne condamnée en application des dispositions du présent article peut
 être privée des droits civiques, civils et de famille, suivant les modalités

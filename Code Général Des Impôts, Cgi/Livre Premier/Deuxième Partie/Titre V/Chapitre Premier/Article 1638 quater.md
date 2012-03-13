@@ -137,10 +137,10 @@ public en début d'exercice par les services fiscaux et qui découle de l'état 
 notification des bases tient compte du taux applicable dans la commune
 rattachée.
 
-VII.-En cas de rattachement volontaire à un établissement public de coopération
-intercommunale qui faisait application en 2011 de l'article 1609 nonies C d'une
-commune qui n'était pas membre en 2011 d'un tel établissement, le taux communal
-de taxe d'habitation est réduit de la différence entre, d'une part, le taux de
-référence de taxe d'habitation calculé pour la commune conformément à l'article
-1640 C, d'autre part, le taux communal de taxe d'habitation applicable en 2010
-dans la commune.
+VII.-En cas de rattachement dans les conditions mentionnées au I à un
+établissement public de coopération intercommunale qui faisait application en
+2011 de l'article 1609 nonies C d'une commune qui n'était pas membre en 2011
+d'un tel établissement, le taux communal de taxe d'habitation est réduit de la
+différence entre, d'une part, le taux de référence de taxe d'habitation calculé
+pour la commune conformément à l'article 1640 C, d'autre part, le taux communal
+de taxe d'habitation applicable en 2010 dans la commune.

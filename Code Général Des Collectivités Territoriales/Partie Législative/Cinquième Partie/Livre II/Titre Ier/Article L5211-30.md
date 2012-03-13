@@ -130,7 +130,10 @@ du 30 décembre 2003) et, le cas échéant, de celles prévues au B de l'article
 de la loi n° 96-987 du 14 novembre 1996 relative à la mise en oeuvre du pacte de
 relance pour la ville ou au B de l'article 3 de la loi n° 96-1143 du 26 décembre
 1996 relative à la zone franche de Corse ou au III de l'article 2 de la loi n°
-94-1131 du 27 décembre 1994 portant statut fiscal de la Corse.
+94-1131 du 27 décembre 1994 portant statut fiscal de la Corse ou au VII de
+l'article 5 de la loi n° 2009-594 du 27 mai 2009 pour le développement
+économique des outre-mer ou au III du 5.3.2 de l'article 2 de la loi n°
+2009-1673 de finances pour 2010 précitée.
 
 1° bis Le coefficient d'intégration fiscale, qui est défini pour les communautés
 de communes, est égal, pour chacun de ces établissements publics, au rapport
@@ -173,6 +176,8 @@ loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003) et, le cas éché
 de celles prévues au B de l'article 4 de la loi n° 96-987 du 14 novembre 1996
 précitée ou au B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996
 précitée ou au III de l'article 2 de la loi n° 94-1131 du 27 décembre 1994
+précitée ou au VII de l'article 5 de la loi n° 2009-594 du 27 mai 2009 précitée
+ou au III du 5.3.2 de l'article 2 de la loi n° 2009-1673 de finances pour 2010
 précitée.
 
 2° Pour déterminer le coefficient d'intégration fiscale moyen d'une catégorie

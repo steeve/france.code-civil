@@ -38,14 +38,11 @@ la surveillance du procureur général et sous le contrôle de la chambre de
 l'instruction dans les conditions prévues par les articles 224 à 230. Ils sont
 placés au sein du ministère de l'intérieur.
 
-IV.-Lorsque, sur réquisition du procureur de la République, les agents des
-services fiscaux habilités dans les conditions prévues au II du présent article
-procèdent à des enquêtes judiciaires, il est fait application des deuxième et
-troisième alinéas de l'article 54 et des articles 55-1,56,57 à 62,63 à 67 et 75
-à 78 du présent code.
-
-Lorsque ces agents agissent sur commission rogatoire d'un juge d'instruction, il
-est également fait application des articles 100 à 100-7 et 152 à 155.
+IV. - Lorsque, sur réquisition du procureur de la République ou sur commission
+rogatoire d'un juge d'instruction, les agents des services fiscaux habilités
+dans les conditions prévues au II du présent article procèdent à des enquêtes
+judiciaires, ils disposent des mêmes prérogatives et obligations que celles
+attribuées aux officiers de police judiciaire.
 
 Ces agents sont autorisés à déclarer comme domicile l'adresse du siège du
 service dont ils dépendent.

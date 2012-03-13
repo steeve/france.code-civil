@@ -72,31 +72,16 @@ surveillance du procureur général et sous le contrôle de la chambre de
 l'instruction du siège de leur fonction dans les conditions prévues par les
 articles 224 à 230.
 
-VI.-Lorsque, sur réquisition du procureur de la République, les agents des
-douanes mentionnés aux I et II procèdent à des enquêtes judiciaires, il est fait
-application des articles 54 (deuxième et troisième alinéas), 55-1, 56, 57 à 62,
-63 à 67, 75 à 78.
-
-Lorsque ces agents agissent sur commission rogatoire d'un juge d'instruction, il
-est également fait application des articles 152 à 155.
+VI.-Lorsque, sur réquisition du procureur de la République ou sur commission
+rogatoire d'un juge d'instruction, les agents des douanes mentionnés aux I et II
+procèdent à des enquêtes judiciaires, ils disposent des mêmes prérogatives et
+obligations que celles attribuées aux officiers de police judiciaire.
 
 Ces agents sont autorisés à déclarer comme domicile l'adresse du siège du
 service dont ils dépendent.
 
-Au cours des procédures confiées sur réquisition ou commission rogatoire à ces
-agents, les dispositions des articles 100 à 100-7, 122 à 136, 694 à 695-3,
-706-28, 706-30-1 et 706-73 à 706-106 sont applicables ; lorsque ces agents
-agissent en application des articles 706-80 à 706-87, ils sont également
-compétents en matière d'infractions douanières de contrebande de tabac
-manufacturé, d'alcool et de spiritueux et de contrefaçon de marque, ainsi que
-pour celles prévues à l'article 415 du code des douanes et aux articles L. 716-9
-à L. 716-11 du code de la propriété intellectuelle. Ces agents peuvent être
-assistés par les personnes mentionnées aux articles 706 et 706-2 agissant sur
-délégation des magistrats.
-
-Ces agents peuvent également faire application des dispositions du titre XXIX du
-livre IV au cours des enquêtes judiciaires et sur commissions rogatoires qui
-leur sont confiées.
+Ils peuvent être assistés par les personnes mentionnées aux articles 706 et
+706-2 agissant sur délégation des magistrats.
 
 Par dérogation à la règle fixée au 2 de l'article 343 du code des douanes,
 l'action pour l'application des sanctions fiscales peut être exercée par le

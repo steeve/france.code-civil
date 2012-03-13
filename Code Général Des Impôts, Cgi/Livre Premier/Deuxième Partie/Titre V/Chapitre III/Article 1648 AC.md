@@ -18,8 +18,8 @@ compensation de nuisances aéroportuaires d'Ile-de-France. Il s'élève à 6 496
 € pour le fonds de l'aéroport Roissy-Charles-de-Gaulle et à 271 847 € pour le
 fonds de l'aéroport d'Orly ;
 
-2° une contribution annuelle de l'établissement public Aéroports de Paris, sur
-délibération de son conseil d'administration.
+2° une contribution annuelle de la société Aéroports de Paris, sur délibération
+de son conseil d'administration.
 
 III.-Les ressources du Fonds de compensation des nuisances aéroportuaires des
 communes riveraines de l'aéroport de Paris-Charles-de-Gaulle sont attribuées aux

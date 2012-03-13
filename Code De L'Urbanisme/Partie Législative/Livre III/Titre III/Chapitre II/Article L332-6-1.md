@@ -14,7 +14,7 @@ d) Abrogé
 e) Abrogé
 
 2° a) La participation pour raccordement à l'égout prévue à l'article L. 1331-7
-code de la santé publique ; (1)
+code de la santé publique ; (2)
 
 b) La participation destinée à la réalisation de parcs publics de stationnement
 prévue à l'article L. 332-7-1 ; (1)

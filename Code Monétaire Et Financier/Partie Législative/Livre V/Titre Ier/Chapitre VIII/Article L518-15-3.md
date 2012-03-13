@@ -19,3 +19,13 @@ publiques.
 Pour la mise en œuvre du présent article, les articles L. 571-4, L. 613-20-1 et
 L. 613-20-2 sont applicables au groupe de la Caisse des dépôts et consignations
 et à ses dirigeants.
+
+A titre de défraiement des missions qui sont confiées à l'Autorité de contrôle
+prudentiel par la commission de surveillance dans le cadre des lois et
+règlements fixant le statut de l'établissement, la Caisse des dépôts et
+consignations verse à la Banque de France une contribution annuelle dont le
+montant est fixé conventionnellement par l'Autorité de contrôle prudentiel et la
+Caisse des dépôts et consignations, après avis de sa commission de surveillance.
+
+La Banque de France perçoit cette contribution pour le compte de l'Autorité de
+contrôle prudentiel.

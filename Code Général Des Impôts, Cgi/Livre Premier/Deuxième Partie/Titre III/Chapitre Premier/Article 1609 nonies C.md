@@ -34,6 +34,12 @@ transport d'autres hydrocarbures prévue à l'article 1519 HA ;
 2. Du produit de la taxe additionnelle à la taxe foncière sur les propriétés non
 bâties, prévue à l'article 1519 I.
 
+3. Le cas échéant, sur délibérations concordantes des communes membres et de
+l'établissement public de coopération intercommunale, du reversement du Fonds
+national de garantie individuelle des ressources communales et intercommunales
+prévu au 2.1 de l'article 78 de la loi n° 2009-1673 du 30 décembre 2009 de
+finances pour 2010.
+
 II.-Le conseil des établissements publics de coopération intercommunale
 mentionnés au I vote les taux de la taxe d'habitation, de la taxe foncière sur
 les propriétés bâties et de la taxe foncière sur les propriétés non bâties.
@@ -252,10 +258,10 @@ affectée à la réalisation d'opérations de logements locatifs sociaux. Cette
 fraction est égale à la part du potentiel fiscal de la cotisation foncière des
 entreprises dans le potentiel fiscal de la commune.
 
-L'attribution de compensation est majorée, le cas échéant, du produit de la
-réduction de taux de taxe d'habitation prévue au VII de l'article 1638 quater
-par les bases de taxe d'habitation de la commune l'année précédant celle de son
-rattachement à l'établissement public de coopération intercommunale.
+L'attribution de compensation est majorée du produit de la réduction de taux de
+taxe d'habitation prévue, selon le cas, au VII de l'article 1638 quater ou au IV
+de l'article 1638-0 bis par les bases de taxe d'habitation de la commune l'année
+de son rattachement à l'établissement public de coopération intercommunale.
 
 Toutefois, lorsqu'une commune cesse d'appartenir à un établissement public de
 coopération intercommunale faisant application du régime fiscal du présent
@@ -418,7 +424,31 @@ la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986) leur restent
 acquises lorsqu'elles deviennent membres d'un établissement public de
 coopération intercommunale soumis aux dispositions du présent article.
 
-2° (Abrogé)
+2° (1) Les établissements publics de coopération intercommunale soumis aux
+dispositions du présent article bénéficient de la compensation prévue au IV bis
+de l'article 6 de la loi de finances pour 1987 précitée au lieu et place de
+leurs communes membres.
+
+Pour les établissements publics de coopération intercommunale soumis en 2011 aux
+dispositions du présent article, le taux de taxe professionnelle à retenir est
+le taux moyen pondéré de taxe professionnelle constaté en 1986 dans l'ensemble
+des communes membres de l'établissement public de coopération intercommunale ;
+ce taux est, le cas échéant, majoré du taux de taxe professionnelle voté en 1986
+par l'établissement public de coopération intercommunale qui a opté pour le
+régime fiscal prévu au présent article ou dont la communauté de communes est
+issue ; ces taux sont multipliés par 0,960.
+
+Pour les établissements publics de coopération intercommunale soumis pour la
+première fois à compter de 2012 aux dispositions du présent article, la
+compensation est calculée en retenant le taux moyen pondéré des communes membres
+de l'établissement public de coopération intercommunale.
+
+Pour l'application de l'avant-dernier alinéa du présent 2°, le taux moyen
+pondéré est déterminé par le rapport de la somme des compensations au titre de
+la réduction pour création d'établissement versées aux communes membres au titre
+de l'année précédant la première année d'application du présent article et de la
+somme des bases exonérées ou des abattements appliqués au titre de l'année
+précédant cette même première année d'application.
 
 IX. Les dispositions des I à VIII sont applicables aux communautés de communes
 ayant, avant le 31 décembre 2010, opté, en application du III de l'article 1609

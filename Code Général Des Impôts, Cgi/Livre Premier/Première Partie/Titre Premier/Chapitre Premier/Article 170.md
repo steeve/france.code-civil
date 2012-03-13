@@ -25,8 +25,7 @@ ceux mentionnés au 2°, sous réserve du 3°, et au 4° du 3 de l'article 158 p
 dans un plan d'épargne en actions ainsi que le montant des produits de placement
 soumis aux prélèvements libératoires prévus aux articles 117 quater et 125 A, le
 montant des prestations de retraite soumis au prélèvement libératoire prévu au
-II de l'article 163 bis, le montant des gains nets exonérés en application du I
-bis de l'article 150-0 A, le montant des plus-values en report d'imposition en
+II de l'article 163 bis, le montant des plus-values en report d'imposition en
 application du I de l'article
 
 150-0 D bis, les revenus exonérés en application des articles 163 quinquies B à

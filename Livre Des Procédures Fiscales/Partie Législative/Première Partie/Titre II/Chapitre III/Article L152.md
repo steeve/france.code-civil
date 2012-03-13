@@ -20,11 +20,18 @@ contributions ;
 4° à la détermination de l'assiette et du montant des cotisations et
 contributions ainsi qu'à leur recouvrement ;
 
-5° Au recouvrement des prestations indûment versées.
+5° Au recouvrement des prestations indûment versées ;
+
+6° A l'appréciation des conditions d'ouverture et de maintien des prestations
+versées dans le cadre de leur mission légale en matière d'action sanitaire et
+sociale ;
+
+7° Au calcul des prestations versées dans le cadre de leur mission légale en
+matière d'action sanitaire et sociale.
 
 Le numéro d'inscription au répertoire national d'identification des personnes
 physiques peut être utilisé pour les demandes, échanges et traitements
-nécessaires à la communication des informations mentionnées aux 1° à 5°,
+nécessaires à la communication des informations mentionnées aux 1° à 7°,
 lorsqu'elles concernent des personnes physiques.
 
 Dans le but de contrôler les conditions d'ouverture, de maintien ou d'extinction

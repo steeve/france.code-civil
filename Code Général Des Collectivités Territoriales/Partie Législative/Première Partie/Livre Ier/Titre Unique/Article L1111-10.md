@@ -29,6 +29,14 @@ département, au vu de l'importance des dégâts et de la capacité financière 
 collectivités territoriales ou groupements de collectivités territoriales
 intéressés.
 
+Pour les projets d'investissement en matière d'eau potable et d'assainissement,
+d'élimination des déchets, de protection contre les incendies de forêts et de
+voirie communale qui sont réalisés par les établissements publics de coopération
+intercommunale à fiscalité propre de Corse ou par les communes membres d'un tel
+établissement lorsque les projets n'entrent pas dans le champ de compétence
+communautaire, cette participation minimale du maître de l'ouvrage est de 10 %
+du montant total des financements apportés par des personnes publiques.
+
 IV. ― Par dérogation aux dispositions du présent article, les collectivités
 territoriales peuvent financer toute opération figurant dans les contrats de
 projet Etat-région et toute opération dont la maîtrise d'ouvrage relève de

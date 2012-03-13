@@ -195,6 +195,15 @@ coopération intercommunale préexistant le moins imposé était égal ou supér
 coopération intercommunale le plus imposé pour l'année antérieure à
 l'établissement du premier des douze budgets susvisés ;
 
+Dans le cas d'une fusion visée à la dernière phrase du premier alinéa du présent
+III impliquant un établissement public de coopération intercommunale qui faisait
+application en 2011 de l'article 1609 nonies C, le taux moyen pondéré de taxe
+d'habitation mentionné au premier alinéa du présent 1° tient compte du produit
+résultant du transfert de la part départementale de cette taxe perçu par les
+communes qui en 2011 étaient isolées ou membres d'un établissement public de
+coopération intercommunale à fiscalité additionnelle faisant ou non application
+de l'article 1609 quinquies C ;
+
 2° Soit dans les conditions prévues au deuxième alinéa du II de l'article 1609
 nonies C. Pour l'application de cette disposition, le taux moyen pondéré de
 chacune des trois taxes tient compte des produits perçus par les établissements
@@ -205,3 +214,13 @@ cotisation foncière des entreprises, de la taxe d'habitation et des taxes
 foncières de l'établissement public de coopération intercommunale sont fixés
 conformément aux articles 1636 B sexies, à l'exclusion du a du 1 du I, 1636 B
 decies et 1609 nonies C.
+
+IV. - Le taux de taxe d'habitation des communes membres en 2011 d'un
+établissement public de coopération intercommunale à fiscalité propre
+additionnelle faisant ou non application de l'article 1609 quinquies C ou d'un
+établissement public sans fiscalité propre qui fusionne avec un établissement
+public de coopération intercommunale qui faisait application en 2011 de
+l'article 1609 nonies C est réduit l'année suivant celle de la fusion de la
+différence entre, d'une part, le taux de référence de taxe d'habitation calculé
+pour la commune conformément à l'article 1640 C et, d'autre part, le taux
+communal de taxe d'habitation applicable en 2010 dans la commune.

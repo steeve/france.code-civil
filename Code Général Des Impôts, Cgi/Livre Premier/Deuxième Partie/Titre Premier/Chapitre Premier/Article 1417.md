@@ -68,9 +68,8 @@ exonérés par application d'une convention internationale relative aux doubles
 impositions ainsi que de ceux exonérés en application des articles 163 quinquies
 B à 163 quinquies C bis ;
 
-d) Du montant des gains nets exonérés en application du I bis de l'article 150-0
-A ainsi que du montant des plus-values exonérées en application du 3 du I et des
-1,1 bis et 7 du III du même article ;
+d) Du montant des plus-values exonérées en application du 3 du I et des 1,1 bis
+et 7 du III de l'article 150-0 A ;
 
 e) Des sommes correspondant aux droits visés au dernier alinéa de l'article L.
 3153-3 du code du travail.

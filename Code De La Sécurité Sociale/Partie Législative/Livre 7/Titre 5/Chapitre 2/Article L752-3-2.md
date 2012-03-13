@@ -52,26 +52,25 @@ salarié, en fonction de sa rémunération telle que définie à l'article L. 24
 Lorsque la rémunération horaire est inférieure à un seuil égal au salaire
 minimum de croissance majoré de 40 %, le montant de l'exonération est égal au
 montant des cotisations à la charge de l'employeur au titre des assurances
-sociales et des allocations familiales. A partir de ce seuil, le montant de
-l'exonération décroît de manière linéaire et devient nul lorsque la rémunération
-horaire est égale à 3,8 fois le salaire minimum de croissance.
+sociales et des allocations familiales. A partir de ce seuil, la part de la
+rémunération sur laquelle est calculée l'exonération décroît et devient nulle
+lorsque la rémunération horaire est égale à 3,8 fois le salaire minimum de
+croissance.
 
 Pour les employeurs dont l'effectif est inférieur à onze salariés, lorsque la
 rémunération horaire est supérieure à un seuil égal au salaire minimum de
 croissance majoré de 40 % et inférieure à un seuil égal à 2,2 fois le salaire
-minimum de croissance, le montant de l'exonération est égal à celui calculé pour
-une rémunération horaire égale au salaire minimum de croissance majoré de 40 %.
-A partir du seuil de 2,2 fois le salaire minimum de croissance, le montant de
-l'exonération décroît de manière linéaire et devient nul lorsque la rémunération
-horaire est égale à 3,8 fois le salaire minimum de croissance.
+minimum de croissance, la rémunération est exonérée des cotisations à la charge
+de l'employeur au titre des assurances sociales et des allocations familiales,
+dans la limite de la part correspondant à une rémunération horaire égale au
+salaire minimum de croissance majoré de 40 %. A partir du seuil de 2,2 fois le
+salaire minimum de croissance, la part de la rémunération sur laquelle est
+calculée l'exonération décroît et devient nulle lorsque la rémunération horaire
+est égale à 3,8 fois le salaire minimum de croissance.
 
-IV. ― Par dérogation au III, le montant de l'exonération est égal au montant des
-cotisations à la charge de l'employeur au titre des assurances sociales et des
-allocations familiales lorsque la rémunération horaire est inférieure à un seuil
-égal au salaire minimum de croissance majoré de 60 %, puis décroît de manière
-linéaire à partir de ce seuil, et devient nul lorsque la rémunération horaire
-est égale à 4,5 fois le salaire minimum de croissance, pour les entreprises
-situées en Guadeloupe, en Guyane, en Martinique, à La Réunion ou à Saint-Martin
+IV. ― Par dérogation au III, le montant de l'exonération est calculé selon les
+modalités prévues au dernier alinéa du présent IV pour les entreprises situées
+en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Saint-Martin
 respectant les conditions suivantes :
 
 1° Employer moins de deux cent cinquante salariés et avoir réalisé un chiffre
@@ -130,12 +129,14 @@ exercice.
 
 Pour les entreprises mentionnées au présent IV, lorsque la rémunération horaire
 est supérieure à un seuil égal au salaire minimum de croissance majoré de 60 %
-et inférieure à un seuil égal à 2,5 fois le salaire minimum de croissance, le
-montant de l'exonération est égal à celui calculé pour une rémunération égale au
-salaire minimum de croissance majoré de 60 %. A partir du seuil de 2,5 fois le
-salaire minimum de croissance, le montant de l'exonération décroît de manière
-linéaire et devient nul lorsque la rémunération horaire est égale à 4,5 fois le
-salaire minimum de croissance.
+et inférieure à un seuil égal à 2,5 fois le salaire minimum de croissance, la
+rémunération est exonérée des cotisations à la charge de l'employeur au titre
+des assurances sociales et des allocations familiales, dans la limite de la part
+correspondant à une rémunération égale au salaire minimum de croissance majoré
+de 60 %. A partir du seuil de 2,5 fois le salaire minimum de croissance, la part
+de la rémunération sur laquelle est calculée l'exonération décroît et devient
+nulle lorsque la rémunération horaire est égale à 4,5 fois le salaire minimum de
+croissance.
 
 V. ― Pour l'application du présent article, l'effectif pris en compte est celui
 qui est employé par l'entreprise dans chacune des collectivités mentionnées au

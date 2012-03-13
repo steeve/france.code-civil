@@ -11,32 +11,32 @@ TAUX NORMAL
 
 Cigarettes
 
-64,25 %
+63,31 %
 
 
 Cigares
 
-27,57 %
+27,16 %
 
 
 Tabacs fine coupe destinés à rouler les cigarettes
 
-58,57 % L &amp; gt
+57,71 %
 
 
 Autres tabacs à fumer
 
-52,42 %
+51,65 %
 
 
 Tabacs à priser
 
-45,57 %
+44,90 %
 
 
 Tabacs à mâcher
 
-32,17 %
+31,70 %
 
 Le minimum de perception mentionné à l'article 575 est fixé à 183 € pour les
 cigarettes.

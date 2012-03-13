@@ -158,6 +158,21 @@ ressources annuelles de l'organisme ;
 5° Les aides ne peuvent bénéficier aux entreprises exerçant à titre principal
 une activité visée à l'article 35.
 
+Un organisme ayant pour objet exclusif de participer, par le versement d'aides
+financières ne relevant pas du 1 de l'article 12 du règlement mentionné au
+premier alinéa du présent 4, à la création, à la reprise ou au développement de
+petites et moyennes entreprises telles qu'elles sont définies à l'annexe I au
+même règlement ou de leur fournir des prestations d'accompagnement peut
+également se voir délivrer l'agrément, sous réserve du respect des conditions
+mentionnées aux 1°, 2°, 4° et 5° et du règlement (CE) n° 1998/2006 de la
+Commission, du 15 décembre 2006, concernant l'application des articles 87 et 88
+du traité aux aides de minimis ou du règlement (CE) n° 1535/2007 de la
+Commission, du 20 décembre 2007, concernant l'application des articles 87 et 88
+du traité CE aux aides de minimis dans le secteur de la production de produits
+agricoles ou du règlement (CE) n° 875/2007 de la Commission, du 24 juillet 2007,
+relatif à l'application des articles 87 et 88 du traité CE aux aides de minimis
+dans le secteur de la pêche et modifiant le règlement (CE) n° 1860/2004.
+
 L'agrément accordé aux organismes qui le sollicitent pour la première fois porte
 sur une période comprise entre la date de sa notification et le 31 décembre de
 la deuxième année qui suit cette date. En cas de demande de renouvellement

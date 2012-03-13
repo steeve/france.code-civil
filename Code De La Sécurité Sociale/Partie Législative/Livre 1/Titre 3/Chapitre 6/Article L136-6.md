@@ -48,9 +48,9 @@ Sont également soumis à cette contribution :
 
 1° (Abrogé)
 
-2° Les gains nets exonérés en application du 3 du I et du I bis de l'article
-150-0 A du même code ainsi que les plus-values exonérées en application du 3 du
-I et du 7 du III du même article ;
+2° Les gains nets exonérés en application du 3 du I de l'article 150-0 A du même
+code ainsi que les plus-values exonérées en application du 3 du I et du 7 du III
+du même article ;
 
 3° Les plus-values à long terme exonérées en application de l'article 151
 septies A du même code ;
@@ -62,8 +62,8 @@ II.-Sont également assujettis à la contribution, dans les conditions et selon
 les modalités prévues au I ci-dessus :
 
 a) Les sommes soumises à l'impôt sur le revenu en application des articles
-168,1649 A, 1649 quater A et 1649 quater-0 B bis à 1649 quater-0 B ter, du code
-général des impôts, ainsi que de l'article L. 69 du livre des procédures
+168,1649 A, 1649 AA, 1649 quater A et 1649 quater-0 B bis à 1649 quater-0 B ter,
+du code général des impôts, ainsi que de l'article L. 69 du livre des procédures
 fiscales ;
 
 a bis) Les sommes soumises à l'impôt sur le revenu en application du 1° de

@@ -6,12 +6,12 @@ relative à l'ouverture à la concurrence et à la régulation du secteur des je
 d'argent et de hasard en ligne, un prélèvement sur les sommes engagées par les
 joueurs.
 
-Ce prélèvement est dû par les personnes titulaires, en tant qu'opérateur de jeux
-de cercle en ligne, de l'agrément mentionné à l'article 21 de la loi n° 2010-476
-du 12 mai 2010 précitée. Le produit de ce prélèvement est affecté à concurrence
-de 15 % et dans la limite du plafond fixé au I de l'article 46 de la loi n°
-2011-1977 du 28 décembre 2011 de finances pour 2012 au Centre des monuments
-nationaux.
+Ce prélèvement est dû par les personnes devant être soumises, en tant
+qu'opérateur de jeux de cercle en ligne, à l'agrément mentionné à l'article 21
+de la loi n° 2010-476 du 12 mai 2010 précitée. Le produit de ce prélèvement est
+affecté à concurrence de 15 % et dans la limite du plafond fixé au I de
+l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012 au
+Centre des monuments nationaux.
 
 Le produit de ce prélèvement est en outre affecté à concurrence de 15 % et dans
 la limite indexée, chaque année, sur la prévision de l'indice des prix à la

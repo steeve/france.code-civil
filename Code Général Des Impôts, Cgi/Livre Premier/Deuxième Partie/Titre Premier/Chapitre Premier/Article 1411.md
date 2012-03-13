@@ -128,12 +128,17 @@ situe sur plusieurs départements, la correction de l'abattement intercommunal
 est effectuée pour chaque partie de son territoire appartenant à chacun des
 départements.
 
-Par dérogation aux dispositions du présent II quater, en cas de rattachement
-volontaire à un établissement public de coopération intercommunale qui faisait
-application en 2011 de l'article 1609 nonies C d'une commune qui n'était pas
-membre en 2011 d'un tel établissement, les abattements communaux mentionnés au
-II du présent article cessent d'être corrigés à compter de l'année du
-rattachement.
+Par dérogation aux dispositions du présent II quater, lorsqu'une commune qui
+n'était pas membre en 2011 d'un établissement public de coopération
+intercommunale qui faisait application en 2011 de l'article 1609 nonies C
+rejoint, à la suite soit d'un rattachement volontaire, soit d'une transformation
+dans les conditions prévues à l'article L. 5211-41-1 du code général des
+collectivités territoriales, soit d'une fusion visée à la seconde phrase du
+premier alinéa du III de l'article 1638-0 bis du présent code, un établissement
+public de coopération intercommunale faisant application de l'article 1609
+nonies C, les abattements communaux mentionnés au II du présent article cessent
+d'être corrigés à compter de l'année suivant celle du rattachement ou de la
+fusion.
 
 Les conseils municipaux et les organes délibérants des établissements publics de
 coopération intercommunale à fiscalité propre qui délibèrent pour fixer le

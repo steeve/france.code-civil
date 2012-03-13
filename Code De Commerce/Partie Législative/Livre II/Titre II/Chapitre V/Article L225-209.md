@@ -48,8 +48,3 @@ d'administration ou au directoire, selon le cas, tous pouvoirs pour la réaliser
 Un rapport spécial établi par les commissaires aux comptes sur l'opération
 envisagée est communiqué aux actionnaires de la société dans un délai fixé par
 décret en Conseil d'Etat.
-
-Les dispositions du présent article sont applicables aux sociétés dont les
-titres ne sont pas admis aux négociations sur un marché réglementé aux fins
-mentionnées aux articles L. 3332-1 et suivants du code du travail. Dans ce cas,
-les dispositions de l'article L. 225-212 ne sont pas applicables.

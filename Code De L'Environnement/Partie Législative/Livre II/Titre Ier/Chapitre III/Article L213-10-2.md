@@ -113,6 +113,13 @@ Toxicité aiguë (par kiloéquitox)
 
 50 kiloéquitox
 
+Toxicité aiguë rejetée en mer au-delà de 5 km du littoral et à plus de 250
+mètres de profondeur (par kiloéquitox)
+
+4
+
+50 kiloéquitox
+
 Rejet en masse d'eau souterraine de toxicité aiguë (par kiloéquitox)
 
 25
