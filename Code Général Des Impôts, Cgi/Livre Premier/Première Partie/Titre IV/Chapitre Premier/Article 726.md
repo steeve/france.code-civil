@@ -3,9 +3,7 @@ Article 726
 I. Les cessions de droits sociaux sont soumises à un droit d'enregistrement dont
 le taux est fixé :
 
-1° A 3 % pour la fraction d'assiette inférieure à 200 000 €, 0,5 % pour la
-fraction comprise entre 200 000 € et 500 000 000 € et 0,25 % pour la fraction
-excédant 500 000 000 € :
+1° A 0,1 % :
 
 -pour les actes portant cessions d'actions, de parts de fondateurs ou de parts
 bénéficiaires des sociétés par actions négociées sur un marché réglementé
@@ -37,8 +35,8 @@ afférent à chacune de ces cessions, dans la limite de cet impôt.
 -pour les cessions, autres que celles soumises au taux mentionné au 2°, de parts
 sociales dans les sociétés dont le capital n'est pas divisé en actions. Dans ce
 cas, il est appliqué sur la valeur de chaque part sociale un abattement égal au
-rapport entre la somme de 23 000 euros et le nombre total de parts sociales de
-la société ;
+rapport entre la somme de 23 000 € et le nombre total de parts sociales de la
+société ;
 
 2° A 5 % :
 
@@ -95,16 +93,22 @@ L. 211-34 du code monétaire et financier.
 Les perceptions mentionnées aux 1° et 1° bis du I ne sont pas applicables :
 
 a) aux acquisitions de droits sociaux réalisées dans le cadre du rachat de ses
-propres titres par une société ou d'une augmentation de capital, à l'exception
-des rachats d'actions effectués dans les conditions prévues à l'article L.
-225-209-2 du code de commerce ;
+propres titres par une société destinés à être cédés aux adhérents d'un plan
+d'épargne d'entreprise dans le cadre du titre III du livre III de la troisième
+partie du code du travail ou d'une augmentation de capital, à l'exception des
+rachats d'actions effectués dans les conditions prévues à l'article L. 225-209-2
+du code de commerce ;
 
 b) aux acquisitions de droits sociaux de sociétés placées sous procédure de
 sauvegarde ou en redressement judiciaire ;
 
-c) aux acquisitions de droits sociaux lorsque la société cédante est membre du
-même groupe, au sens de l'article 223 A, que la société qui les acquiert ;
+c) aux acquisitions de droits sociaux entre sociétés membres du même groupe, au
+sens de l'article L. 233-3 du code de commerce, au moment de l'acquisition de
+droits concernée, aux acquisitions de droits entre sociétés du même groupe, au
+sens de l'article 223 A du présent code, et aux acquisitions intervenant dans
+les conditions prévues aux articles 210 A, 210 B, 220 quater, 220 quater A et
+220 quater B ;
 
-d) aux opérations entrant dans le champ de l'article 210 B.
+d) aux opérations taxées au titre de l'article 235 ter ZD.
 
 III.-Abrogé.
