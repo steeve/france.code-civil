@@ -6,9 +6,9 @@ que soit la date à laquelle les créances même conditionnelles ou à terme que
 redevable possède à l'encontre du tiers détenteur deviennent effectivement
 exigibles.
 
-Il comporte l'effet d'attribution immédiate prévu à l'article 43 de la loi n°
-91-650 du 9 juillet 1991. Les dispositions des articles L. 162-1 et L. 162-2 de
-ce code sont en outre applicables.
+Il comporte l'effet d'attribution immédiate prévu à l'article L. 211-2 du code
+des procédures civiles d'exécution. Les dispositions des articles L. 162-1 et L.
+162-2 de ce code sont en outre applicables.
 
 Lorsqu'une personne est simultanément destinataire de plusieurs avis établis au
 nom du même débiteur, émanant des comptables chargés du recouvrement
