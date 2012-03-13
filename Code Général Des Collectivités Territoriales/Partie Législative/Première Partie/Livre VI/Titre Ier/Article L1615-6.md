@@ -1,18 +1,20 @@
 Article L1615-6
 ----
-I. - Jusqu'au 31 décembre 2001, les attributions du Fonds de compensation pour
-la taxe sur la valeur ajoutée sont déterminées en appliquant aux dépenses
-réelles d'investissement, définies par décret en Conseil d'Etat, un taux de
-compensation forfaitaire de 16, 176 %. En 2002, le taux de compensation
-forfaitaire est fixé à 15, 656 %.A compter de 2003, ce taux est fixé à 15, 482
-%.
+I.-Jusqu'au 31 décembre 2001, les attributions du Fonds de compensation pour la
+taxe sur la valeur ajoutée sont déterminées en appliquant aux dépenses réelles
+d'investissement, définies par décret en Conseil d'Etat, un taux de compensation
+forfaitaire de 16,176 %. En 2002, le taux de compensation forfaitaire est fixé à
+15,656 %. A compter de 2003, ce taux est fixé à 15,482 %.
 
-Le taux de compensation forfaitaire de 15, 482 % est applicable aux dépenses
+Le taux de compensation forfaitaire de 15,482 % est applicable aux dépenses
 d'investissement éligibles réalisées à compter du 1er avril 2000 par les
 communautés de communes, les communautés de villes et les communautés
 d'agglomération.
 
-II. - Pour les bénéficiaires du Fonds de compensation pour la taxe sur la valeur
+Le taux de compensation forfaitaire est fixé à 16,586 % pour les dépenses
+éligibles réalisées à compter de 2013.
+
+II.-Pour les bénéficiaires du Fonds de compensation pour la taxe sur la valeur
 ajoutée mentionnés à l'article L. 1615-2, autres que ceux mentionnés aux
 deuxième, troisième, sixième, neuvième, dixième et onzième alinéas du présent
 II, les dépenses réelles d'investissement à prendre en considération pour la
@@ -33,16 +35,16 @@ Pour les bénéficiaires du fonds qui s'engagent, avant le 15 mai 2009 et, aprè
 autorisation de leur assemblée délibérante, par convention avec le représentant
 de l'Etat dans le département, sur une progression de leurs dépenses réelles
 d'équipement en 2009 par rapport à la moyenne de leurs dépenses réelles
-d'équipement de 2004, 2005, 2006 et 2007, les dépenses à prendre en
-considération sont, à compter de 2009, celles afférentes à l'exercice précédent.
-En 2009, pour ces bénéficiaires, les dépenses réelles d'investissement éligibles
-de 2007 s'ajoutent à celles afférentes à l'exercice 2008 pour le calcul des
-attributions du Fonds de compensation pour la taxe sur la valeur ajoutée.
+d'équipement de 2004,2005,2006 et 2007, les dépenses à prendre en considération
+sont, à compter de 2009, celles afférentes à l'exercice précédent. En 2009, pour
+ces bénéficiaires, les dépenses réelles d'investissement éligibles de 2007
+s'ajoutent à celles afférentes à l'exercice 2008 pour le calcul des attributions
+du Fonds de compensation pour la taxe sur la valeur ajoutée.
 
 Si les dépenses réelles d'équipement constatées au titre de l'exercice 2009,
 établies par l'ordonnateur de la collectivité bénéficiaire avant le 15 février
 2010 et visées par le comptable local, sont inférieures à la moyenne de celles
-inscrites dans les comptes administratifs 2004, 2005, 2006 et 2007, cette
+inscrites dans les comptes administratifs 2004,2005,2006 et 2007, cette
 collectivité est à nouveau soumise, dès 2010, aux dispositions du premier alinéa
 du présent II ; elle ne perçoit alors aucune attribution au titre du Fonds de
 compensation pour la taxe sur la valeur ajoutée en 2010 au titre des dépenses
@@ -63,7 +65,7 @@ alinéa du présent II, qui s'engagent, entre le 1er janvier et le 15 mai 2010 e
 après autorisation de leur assemblée délibérante, par convention avec le
 représentant de l'Etat dans le département, sur une progression de leurs
 dépenses réelles d'équipement en 2010 par rapport à la moyenne de leurs dépenses
-réelles d'équipement de 2005, 2006, 2007 et 2008, les dépenses à prendre en
+réelles d'équipement de 2005,2006,2007 et 2008, les dépenses à prendre en
 considération sont, à compter de 2010, celles afférentes à l'exercice précédent.
 En 2010, pour ces bénéficiaires, les dépenses réelles d'investissement éligibles
 de 2008 s'ajoutent à celles afférentes à l'exercice 2009 pour le calcul des
@@ -72,7 +74,7 @@ attributions du Fonds de compensation pour la taxe sur la valeur ajoutée.
 Si les dépenses réelles d'équipement constatées au titre de l'exercice 2010,
 établies par l'ordonnateur de la collectivité bénéficiaire avant le 15 février
 2011 et visées par le comptable local, sont inférieures à la moyenne de celles
-inscrites dans les comptes administratifs 2005, 2006, 2007 et 2008, cette
+inscrites dans les comptes administratifs 2005,2006,2007 et 2008, cette
 collectivité est à nouveau soumise, dès 2011, aux dispositions du premier alinéa
 du présent II ; elle ne perçoit alors aucune attribution au titre du Fonds de
 compensation pour la taxe sur la valeur ajoutée en 2011 au titre des dépenses
@@ -110,7 +112,7 @@ pénultième année s'ajoutent à celles afférentes à l'exercice précédent p
 calcul des attributions du Fonds de compensation pour la taxe sur la valeur
 ajoutée.
 
-III. - Les dépenses réelles d'investissement réalisées par les bénéficiaires du
+III.-Les dépenses réelles d'investissement réalisées par les bénéficiaires du
 Fonds de compensation pour la taxe sur la valeur ajoutée et visant à réparer les
 dommages directement causés par des intempéries exceptionnelles reconnues par
 décret, et situés dans des communes ayant fait l'objet d'une constatation de
