@@ -71,13 +71,8 @@ h) Au fonds mentionné à l'article L. 351-6 du code de la construction et de
 l'habitation, pour une fraction correspondant à 1,48 % ;
 
 i) Au fonds mentionné à l'article L. 5423-24 du code du travail, pour une
-fraction correspondant à 1,25 % ;
+fraction correspondant à 1,25 %.
 
-j) A la compensation, dans les conditions définies à l'article 53 de la loi n°
-2007-1822 du 24 décembre 2007 de finances pour 2008, des mesures définies aux
-articles L. 241-17 et L. 241-18 du présent code, pour une fraction correspondant
-à 3,89 %.
-
-L'Agence centrale des organismes de sécurité sociale est chargée de centraliser
-et répartir le produit des taxes et des impôts mentionnés, dans les conditions
-prévues au présent article.
+L'Agence centrale des organismes de sécurité sociale et les fonds mentionnés au
+présent article est chargée de centraliser et répartir le produit des taxes et
+des impôts mentionnés, dans les conditions prévues au présent article.
