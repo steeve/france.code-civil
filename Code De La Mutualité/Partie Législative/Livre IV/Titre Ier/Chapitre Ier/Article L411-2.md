@@ -4,5 +4,5 @@ Le Conseil supérieur de la mutualité est présidé par le ministre chargé de 
 mutualité ou, en son absence, par son représentant qui en est membre de droit.
 
 Le Conseil supérieur de la mutualité est composé en majorité de représentants
-des mutuelles, unions et fédérations. qui sont élus par les comités régionaux de
-coordination de la mutualité.
+des mutuelles, unions et fédérations désignés par les fédérations les plus
+représentatives du secteur.
