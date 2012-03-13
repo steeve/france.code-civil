@@ -1,6 +1,6 @@
 Article L325-1
 ----
-I. - Le régime local d'assurance maladie complémentaire obligatoire des
+I.-Le régime local d'assurance maladie complémentaire obligatoire des
 départements du Haut-Rhin, du Bas-Rhin et de la Moselle assure à ses
 bénéficiaires des prestations servies en complément de celles du régime général
 des salariés prévues aux 1°, 2°, 4° et 7° de l'article L. 321-1, pour couvrir
@@ -11,14 +11,13 @@ journalier institué à l'article L. 174-4. Ces prestations sont déterminées p
 le conseil d'administration de l'instance de gestion du régime local dans des
 conditions définies par décret.
 
-II. - Le régime local est applicable aux catégories d'assurés sociaux du régime
+II.-Le régime local est applicable aux catégories d'assurés sociaux du régime
 général des salariés mentionnés ci-après :
 
-1° Salariés d'une entreprise ayant son siège social dans le département du
-Haut-Rhin, du Bas-Rhin et de la Moselle, quel que soit leur lieu de travail en
-France métropolitaine ou dans les départements d'outre-mer, et salariés
-travaillant dans l'un de ces trois départements pour une entreprise ayant son
-siège hors de ces départements ;
+1° Salariés exerçant une activité dans les départements du Bas-Rhin, du
+Haut-Rhin et de la Moselle, quel que soit le lieu d'implantation du siège de
+l'entreprise, et salariés d'un établissement implanté dans ces départements qui
+exercent une activité itinérante dans d'autres départements ;
 
 2° Maîtres contractuels et agréés des établissements d'enseignement privé sous
 contrat, agents non titulaires de l'Etat et de ses établissements publics
@@ -108,6 +107,6 @@ retraités anciens salariés du Port autonome de Strasbourg mentionnés au 3°.
 Le régime local est également applicable aux ayants droit, tels que définis aux
 articles L. 161-14 et L. 313-3, des assurés sociaux énumérés ci-dessus.
 
-III. - Par dérogation aux dispositions de l'article L. 161-6, le bénéfice du
+III.-Par dérogation aux dispositions de l'article L. 161-6, le bénéfice du
 régime local d'assurance maladie est subordonné aux conditions spécifiques
 d'ouverture des droits déterminées au II du présent article.

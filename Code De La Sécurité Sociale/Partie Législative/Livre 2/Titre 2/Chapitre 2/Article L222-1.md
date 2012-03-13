@@ -10,8 +10,7 @@ travailleurs salariés, et d'en assurer la coordination ;
 
 3° D'exercer un pouvoir de contrôle sur les caisses d'assurance retraite et de
 la santé au travail et sur les caisses générales de sécurité sociale concernant
-leurs attributions en matière de vieillesse, ainsi que sur la caisse régionale
-d'assurance vieillesse de Strasbourg ;
+leurs attributions en matière de vieillesse ;
 
 4° D'exercer une action sanitaire et sociale en faveur des travailleurs salariés
 après consultation de son conseil d'administration ;
@@ -22,8 +21,7 @@ de la sécurité sociale, qui lui paraît nécessaire pour garantir dans la dur�
 l'équilibre financier de l'assurance vieillesse des travailleurs salariés ;
 
 6° De centraliser l'ensemble des opérations, y compris les opérations pour
-compte de tiers, des caisses d'assurance retraite et de la santé au travail, des
-caisses générales de sécurité sociale et de la caisse régionale d'assurance
-vieillesse de Strasbourg.
+compte de tiers, des caisses d'assurance retraite et de la santé au travail, et
+des caisses générales de sécurité sociale.
 
 Les propositions et les avis qu'elle émet sont rendus publics.
