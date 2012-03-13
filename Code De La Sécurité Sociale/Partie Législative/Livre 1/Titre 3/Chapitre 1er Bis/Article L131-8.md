@@ -22,13 +22,9 @@ fraction correspondant à 59,03 % ;
 l'article L. 137-6, est versé à la branche mentionnée au 4° du même article L.
 200-2 ;
 
-4° Le produit de la taxe sur la valeur ajoutée brute collectée par les
-commerçants de gros en produits pharmaceutiques est versé à la branche
-mentionnée au 1° du même article L. 200-2 ;
+4° (Abrogé) ;
 
-5° Le produit de la taxe sur la valeur ajoutée brute collectée par les
-fournisseurs de tabacs, dans des conditions fixées par décret, est versé à la
-branche mentionnée au même 1° ;
+5° (Abrogé) ;
 
 6° Le produit du droit de licence sur la rémunération des débitants de tabacs
 mentionné à l'article 568 du code général des impôts est versé à la branche
