@@ -17,10 +17,19 @@ l'article R. 141-10, et pour tous les biens acquis par voie de préemption, un
 même avis est publié en caractères apparents dans deux journaux diffusés dans
 l'ensemble du département, paraissant au moins deux fois par mois et figurant
 sur une liste établie par le préfet, dont l'un à caractère professionnel
-agricole.
+agricole. Une de ces publications peut être remplacée par une publication sur le
+site internet de la société d'aménagement foncier et d'établissement rural
+territorialement compétente, ou à défaut sur celui de la Fédération nationale
+des sociétés d'aménagement foncier et d'établissement rural.
 
 Il n'y a pas obligation de procéder à un appel de candidatures quand la décision
 d'attribution intervient en vue de la réalisation de grands ouvrages publics
 dans le cadre des conventions mentionnées aux articles R. 123-30 à R. 123-38 ou
 résulte d'un échange multilatéral d'immeubles ruraux au sens de l'article L.
-124-1.
+124-1. II en va de même quand la décision d'attribution intervient en vue de la
+réalisation d'un projet d'intérêt général en faveur d'une collectivité
+territoriale ou d'un établissement public qui lui est rattaché, avec lesquels la
+société d'aménagement foncier et d'établissement rural a conclu, en application
+de l'article L. 141-5, une convention ayant reçu l'accord de ses commissaires du
+gouvernement dans les conditions prévues au troisième alinéa de l'article R.
+141-9.

@@ -23,8 +23,10 @@ et d'établissement rural, en application du premier alinéa de l'article R.
 Si les terrains à acquérir mentionnés au 5° (a) de l'article L. 143-4 sont
 destinés à la construction, aux aménagements industriels ou à l'extraction de
 substances minérales, l'acquéreur doit s'engager à donner aux terrains cette
-destination dans un délai qui ne peut excéder cinq ans. Cet engagement doit être
-joint à la notification préalable de l'opération.
+destination dans un délai qui ne peut excéder trois ans à compter de la date de
+réception de la notification par la société d'aménagement foncier et
+d'établissement rural. Cet engagement doit être joint à la notification
+préalable de l'opération.
 
 Lorsqu'il s'agit de terrains destinés à la construction de maisons
 individuelles, l'exception n'est applicable que dans la mesure où le terrain

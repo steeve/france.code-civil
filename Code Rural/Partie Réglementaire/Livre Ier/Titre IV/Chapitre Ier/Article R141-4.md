@@ -13,12 +13,12 @@ de la publication de l'arrêté d'agrément :
 représentants des catégories déterminées au 4° parmi lesquels des représentants
 des collectivités territoriales, dans les conditions fixées au deuxième alinéa
 de l'article L. 141-6, et d'un représentant de l'Agence de services et de
-paiement.
+paiements.
 
 La représentation des collectivités territoriales est assurée, le cas échéant,
 dans les mêmes conditions que celles prévues pour les sociétés d'économie mixte
-locales, par l'article 8 de la loi n° 83-597 du 7 juillet 1983 et son décret
-d'application n° 85-491 du 9 mai 1985.
+locales, par les articles L. 1524-5 et R. 1524-3 à R. 1524-5 du code général des
+collectivités territoriales.
 
 4° Une majorité de sièges assurée au sein du conseil d'administration aux
 représentants des collectivités publiques et aux établissements publics, aux

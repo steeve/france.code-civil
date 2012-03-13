@@ -4,26 +4,27 @@ Le comité technique est présidé par le président de la société d'aménagem
 foncier et d'établissement rural ou son représentant siégeant au conseil
 d'administration. Il comprend, en particulier :
 
-- des actionnaires de la société d'aménagement foncier et d'établissement rural
+-des actionnaires de la société d'aménagement foncier et d'établissement rural
 propres au département considéré ;
 
-- les représentants des syndicats agricoles non actionnaires dont la
+-les représentants des syndicats agricoles non actionnaires dont la
 représentativité aux niveaux départemental et national répond aux dispositions
 du décret n° 90-187 du 28 février 1990 modifié relatif à la représentation des
 organisations syndicales d'exploitants agricoles au sein de certains organismes
 ou commissions ;
 
-- le représentant d'une association départementale des maires ;
+-le représentant d'une association départementale des maires ;
 
-- le directeur départemental de l'agriculture et de la forêt ou son représentant
-;
+-le directeur départemental des territoires ou le directeur départemental des
+territoires et de la mer ou son représentant ;
 
-- le directeur des services fiscaux ou son représentant ;
+-le directeur départemental des finances publiques ou son représentant ;
 
-- le directeur de la société d'aménagement foncier et d'établissement rural ou
+-le directeur de la société d'aménagement foncier et d'établissement rural ou
 son représentant ;
 
-- le représentant de l'organisme désigné en application de l'article R. 313-16.
+-un représentant d'associations de protection de l'environnement agréées au
+titre de l'article L. 141-1 du code de l'environnement.
 
 Il peut entendre toute personne dont il souhaite recueillir l'avis.
 

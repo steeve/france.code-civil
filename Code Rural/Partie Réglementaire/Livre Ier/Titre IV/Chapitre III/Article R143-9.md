@@ -1,11 +1,13 @@
 Article R143-9
 ----
 Dans le cadre des missions des sociétés d'aménagement foncier et d'établissement
-rural définies à l'article L. 141-1 I et de leur mise en oeuvre définie à
+rural définies à l'article L. 141-1 et de leur mise en oeuvre définie à
 l'article R. 141-1 I, 1° à 7° et sous réserve des dispositions de l'article R.
 143-5, le notaire ou la personne chargée de dresser l'acte d'aliénation doit
 préalablement déclarer à la société d'aménagement foncier et d'établissement
-rural, par lettre recommandée avec demande d'avis de réception :
+rural, par lettre recommandée avec demande d'avis de réception ou sous forme
+électronique dans les conditions prévues aux articles 1316-1 et 1316-4 du code
+civil :
 
 1° Les aliénations portant sur des parcelles d'une superficie inférieure à la
 superficie minimum définie à l'article L. 143-7 ;
@@ -17,7 +19,10 @@ primant celui de la société en application des articles L. 143-6 et L. 143-8 ;
 préemption, en vertu de l'article L. 143-4 ;
 
 4° Les aliénations portant sur des cessions de parts de société, telles qu'elles
-sont définies à l'article L. 141-1 II 3°.
+sont définies à l'article L. 141-1 II 3° ;
+
+5° Les aliénations de l'usufruit ou de la nue-propriété des biens visés au 1° du
+II de l'article L. 141-1.
 
 Ces déclarations doivent être réalisées, selon le cas, suivant les dispositions
 de l'article R. 143-4 ou R. 143-8. Elles doivent être assorties de
