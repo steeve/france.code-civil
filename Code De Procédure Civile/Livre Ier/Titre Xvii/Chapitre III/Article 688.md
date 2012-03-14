@@ -1,5 +1,10 @@
 Article 688
 ----
+La juridiction est saisie de la demande formée par assignation par la remise qui
+lui est faite de l'acte complété par les indications prévues à l'article 684-1
+ou selon le cas, à l'article 687-1, le cas échéant accompagné des justificatifs
+des diligences accomplies en vue de sa notification au destinataire.
+
 S'il n'est pas établi que le destinataire d'un acte en a eu connaissance en
 temps utile, le juge saisi de l'affaire ne peut statuer au fond que si les
 conditions ci-après sont réunies :
