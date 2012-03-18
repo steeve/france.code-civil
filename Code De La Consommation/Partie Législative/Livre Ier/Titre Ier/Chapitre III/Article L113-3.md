@@ -8,7 +8,10 @@ des modalités fixées par arrêtés du ministre chargé de l'économie, après
 consultation du Conseil national de la consommation.
 
 Cette disposition s'applique à toutes les activités visées au dernier alinéa de
-l'article L. 113-2.
+l'article L. 113-2. Elle est également applicable aux manquements au règlement
+(CE) n° 1008/2008 du Parlement européen et du Conseil, du 24 septembre 2008,
+établissant des règles communes pour l'exploitation de services aériens dans la
+Communauté.
 
 Les règles relatives à l'obligation de renseignements par les établissements de
 crédit, les établissements de paiement et les organismes mentionnés à l'article
