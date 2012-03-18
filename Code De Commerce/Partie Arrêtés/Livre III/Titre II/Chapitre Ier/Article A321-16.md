@@ -1,15 +1,12 @@
 Article A321-16
 ----
-Nul ne peut se présenter aux épreuves d'admission s'il n'a été déclaré
-admissible par le jury. Les épreuves d'admission sont orales et se déroulent en
-séance publique. Elles comprennent : 1° Un exposé de dix minutes, après une
-préparation de trente minutes, sur une question tirée au sort par le candidat et
-portant sur l'histoire de l'art, suivi d'une discussion de vingt minutes avec le
-jury destinée à apprécier la culture générale du candidat ; la note est affectée
-d'un coefficient 4 ; 2° Une interrogation d'une durée de quinze minutes portant
-sur une matière juridique autre que celle qui a été traitée à l'écrit par le
-candidat ainsi que sur des matières économiques et comptables ; la note est
-affectée d'un coefficient 3 ; 3° Une interrogation d'une durée de quinze minutes
-portant sur une langue vivante étrangère choisie par le candidat lors du dépôt
-de son dossier parmi la liste figurant à l'annexe 3-4 au présent livre ; la note
-est affectée d'un coefficient 1.
+La correction des épreuves d'admissibilité est organisée de manière à préserver
+l'anonymat de chaque candidat. Chaque composition est examinée par deux
+correcteurs et reçoit une note de 0 à 20. Cette note est affectée du coefficient
+prévu pour l'épreuve correspondante. L'admissibilité est prononcée par le jury
+si la moyenne des notes obtenues par le candidat est égale ou supérieure à 10
+sur 20. Le jury arrête, par ordre alphabétique, la liste des candidats déclarés
+admissibles. Celle-ci est affichée dans les locaux du conseil des ventes
+volontaires de meubles aux enchères publiques et de la Chambre nationale des
+commissaires-priseurs judiciaires. L'admissibilité n'est valable que pour la
+session au cours de laquelle celle-ci a été acquise.

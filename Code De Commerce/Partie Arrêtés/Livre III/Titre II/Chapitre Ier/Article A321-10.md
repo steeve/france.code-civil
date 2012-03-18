@@ -1,11 +1,11 @@
 Article A321-10
 ----
-Les candidatures sont adressées au conseil des ventes volontaires de meubles aux
-enchères publiques par lettre recommandée avec demande d'avis de réception au
-plus tard un mois avant la date de la première épreuve de la session. Le dossier
-de candidature comprend : 1° Une requête de l'intéressé ; 2° Tous documents
-officiels justificatifs de l'identité et de la nationalité du candidat ; 3° Une
-copie des diplômes prévus au 3° de l'article R. 321-18 ou la justification de
-leur dispense ; 4° Le cas échéant, la justification de la dispense des épreuves
-de l'examen d'accès au stage ; 5° L'indication de la langue vivante étrangère
-choisie pour l'épreuve d'admission.
+L'examen d'accès au stage prévu au 4° de l'article R. 321-18 et à l'article R.
+321-22 a lieu au moins une fois par an. Les dates et lieux des épreuves sont
+fixés, après avis de la Chambre nationale des commissaires-priseurs judiciaires,
+par le conseil des ventes volontaires de meubles aux enchères publiques qui en
+assure une publicité suffisante deux mois au moins avant la date de la première
+épreuve, notamment par des insertions dans les revues professionnelles
+spécialisées et par un affichage dans les locaux du conseil des ventes
+volontaires de meubles aux enchères publiques et de la Chambre nationale des
+commissaires-priseurs judiciaires.

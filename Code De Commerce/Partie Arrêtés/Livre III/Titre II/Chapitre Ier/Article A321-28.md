@@ -1,7 +1,5 @@
 Article A321-28
 ----
-L'épreuve d'aptitude prévue à l'article R. 321-67 a lieu au moins deux fois par
-an.
-
-L'organisation matérielle de l'épreuve est confiée au conseil des ventes
-volontaires de meubles aux enchères publiques.
+La décision du conseil des ventes volontaires de meubles aux enchères publiques
+prévue à l'article R. 321-66 précise, le cas échéant, les matières du programme
+de l'épreuve d'aptitude et la durée du stage d'adaptation proposés au requérant.

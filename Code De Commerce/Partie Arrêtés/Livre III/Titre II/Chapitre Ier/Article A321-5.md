@@ -1,9 +1,10 @@
 Article A321-5
 ----
-Les candidatures sont adressées au conseil des ventes volontaires de meubles aux
-enchères publiques par lettre recommandée avec demande d'avis de réception au
-plus tard un mois avant la date de la première épreuve de la session. Le dossier
-de candidature comprend, avec, s'il y a lieu, leur traduction en français, les
-pièces suivantes : 1° Tous documents officiels justificatifs de l'identité et de
-la nationalité du candidat ; 2° Tous justificatifs permettant de vérifier que le
-candidat remplit les conditions prévues à l'article R. 321-19.
+L'examen d'aptitude prévu à l'article R. 321-19 a lieu au moins une fois par an.
+Les dates et lieux des épreuves sont fixés, après avis de la Chambre nationale
+des commissaires-priseurs judiciaires, par le conseil des ventes volontaires de
+meubles aux enchères publiques qui en assure une publicité suffisante deux mois
+au moins avant la date de la première épreuve, notamment par des insertions dans
+les revues professionnelles spécialisées et par un affichage dans les locaux du
+conseil des ventes volontaires de meubles aux enchères publiques et de la
+Chambre nationale des commissaires-priseurs judiciaires.

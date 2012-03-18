@@ -1,10 +1,10 @@
 Article A321-4
 ----
-L'examen d'aptitude prévu à l'article R. 321-19 a lieu au moins une fois par an.
-Les dates et lieux des épreuves sont fixés, après avis de la Chambre nationale
-des commissaires-priseurs judiciaires, par le conseil des ventes volontaires de
-meubles aux enchères publiques qui en assure une publicité suffisante deux mois
-au moins avant la date de la première épreuve, notamment par des insertions dans
-les revues professionnelles spécialisées et par un affichage dans les locaux du
-conseil des ventes volontaires de meubles aux enchères publiques et de la
-Chambre nationale des commissaires-priseurs judiciaires.
+Sont admis en dispense du diplôme de fin de premier cycle d'arts et de la
+licence d'histoire de l'art, d'arts appliqués, d'archéologie ou d'arts
+plastiques requis pour diriger des ventes volontaires de meubles aux enchères
+publiques : 1° Le diplôme de premier cycle de l'Ecole du Louvre ; 2° Le diplôme
+d'archiviste paléographe délivré par l'Ecole nationale des chartes ; 3° Le
+diplôme de bi-licence droit - histoire de l'art et archéologie délivré par
+l'université Paris-I ; 4° Le diplôme de « spécialiste en biens et services
+culturels » délivré par l'Institut d'études supérieur des arts (IESA).

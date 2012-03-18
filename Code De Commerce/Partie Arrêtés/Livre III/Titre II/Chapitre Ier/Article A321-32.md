@@ -1,9 +1,6 @@
 Article A321-32
 ----
-Les entretiens se déroulent publiquement.
-
-Chaque entretien est noté sur 20 et est précédé de trente minutes de
-préparation.
-
-Le conseil des ventes volontaires de meubles aux enchères publiques assure le
-secrétariat du jury.
+L'épreuve d'aptitude, dont le programme figure à l'annexe 3-5 au présent livre,
+comprend au plus trois entretiens, d'une durée de vingt minutes chacun, portant
+respectivement sur des matières juridiques, la pratique des ventes volontaires
+de meubles aux enchères publiques et la réglementation professionnelle.

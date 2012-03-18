@@ -1,22 +1,9 @@
 Article A321-36
 ----
-Les attributions de maître de stage sont remplies par une personne habilitée à
-diriger des ventes volontaires de meubles aux enchères publiques.
-
-Lorsque la durée du stage excède une année, le conseil des ventes volontaires de
-meubles aux enchères publiques s'assure à l'issue d'une première période de
-douze mois puis tous les six mois du bon déroulement du stage et de
-l'acquisition de connaissances par le stagiaire.A cet effet, il recueille les
-observations du maître de stage et organise un entretien avec le stagiaire
-destiné à évaluer ses connaissances pratiques.
-
-A l'issue du stage, le maître de stage adresse au conseil un rapport de stage
-établi conformément au modèle figurant en annexe 3-5 au présent livre.
-
-Le conseil reconnaît la qualification du demandeur lorsque les résultats de
-l'évaluation du stage sont positifs. Il délivre au stagiaire un certificat de
-bon accomplissement du stage d'adaptation.
-
-Dans le cas contraire, le conseil peut, après avoir entendu le stagiaire,
-prolonger la durée du stage d'adaptation dans les limites de l'article R.
-321-67.
+Les travaux de pratique professionnelle sont effectués auprès d'une société de
+ventes volontaires de meubles aux enchères publiques. Le conseil des ventes
+volontaires de meubles aux enchères publiques procède à l'affectation du
+stagiaire en tenant compte de ses choix. En aucun cas, le stagiaire ne peut être
+affecté dans une société de ventes volontaires dans laquelle il aurait
+directement ou indirectement des intérêts financiers ou un lien de quelque
+nature que ce soit avec l'un des dirigeants, salariés ou associés.
