@@ -4,19 +4,23 @@ I.-La participation de l'assuré aux tarifs servant de base au calcul des
 prestations en nature de l'assurance maladie est supprimée, par application de
 l'article L. 322-3 :
 
-1°) pour l'hospitalisation des nouveau-nés, lorsqu'elle se produit dans les
+1° Pour l'hospitalisation des nouveau-nés, lorsqu'elle se produit dans les
 trente jours qui suivent la naissance, ainsi que pour les soins de toute nature
 qui leur sont dispensés dans un établissement de santé au cours de la période de
 trente jours qui suit la naissance ;
 
-2°) pour les investigations nécessaires au diagnostic de la stérilité et pour le
+2° Pour les investigations nécessaires au diagnostic de la stérilité et pour le
 traitement de celle-ci, y compris au moyen de l'insémination artificielle. La
 décision de la caisse d'assurance maladie prononçant la suppression de la
 participation est prise sur avis conforme du contrôle médical ; à défaut
 d'entente entre le médecin-conseil et le médecin traitant sur les prestations
 devant bénéficier de la dispense de participation, il est fait appel à un expert
 dans les conditions prises en application de l'article L. 324-1. La décision de
-la caisse fixe la durée de la période d'exonération ;
+la caisse fixe la durée de la période d'exonération.
+
+Lorsqu'un assuré change d'organisme gestionnaire au cours de la période
+d'exonération, ce changement est sans incidence sur la durée pendant laquelle il
+bénéficie de cette exonération ;
 
 3° Pour les donneurs mentionnés à l'article L. 1211-2 du code de la santé
 publique, pour les frais d'examens et de traitement prescrits en vue du
@@ -43,3 +47,7 @@ mentionnée à l'article 706-48 du code pénal (1).
 L'exonération est fixée pour la durée du traitement, si nécessaire au-delà de la
 majorité de la victime, et peut être prolongée dans les conditions prévues à
 l'alinéa précédent.
+
+Lorsqu'un assuré change d'organisme gestionnaire au cours de la période
+d'exonération, ce changement est sans incidence sur la durée pendant laquelle il
+bénéficie de cette exonération.

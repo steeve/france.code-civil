@@ -18,3 +18,7 @@ est valable pour la durée indiquée sur le protocole renouvelé.
 
 A défaut de durée mentionnée sur le protocole, la décision indique sa propre
 durée.
+
+Lorsqu'un assuré change d'organisme gestionnaire au cours de la période de
+validité du protocole de soins, ce changement est sans incidence sur la durée
+pendant laquelle il bénéficie de la suppression de sa participation.

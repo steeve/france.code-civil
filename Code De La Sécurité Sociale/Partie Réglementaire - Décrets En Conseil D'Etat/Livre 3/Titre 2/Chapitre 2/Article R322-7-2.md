@@ -13,3 +13,8 @@ Le service médical informe le directeur de l'organisme local d'assurance maladi
 qui notifie à l'assuré la décision de suppression de sa participation. En cas de
 refus, la notification a lieu par lettre recommandée avec demande d'avis de
 réception.
+
+Lorsqu'un assuré change d'organisme gestionnaire au cours de la période pendant
+laquelle il bénéficie de la suppression de sa participation prévue au R.
+322-7-1, ce changement est sans incidence sur la durée pendant laquelle il
+bénéficie de cette suppression.
