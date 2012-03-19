@@ -57,10 +57,10 @@ Nitrate d'ammonium (stockage de).
 1. Nitrate d'ammonium et préparations à base de nitrate d'ammonium dans lesquels
 la teneur en azote due au nitrate d'ammonium est :
 
--comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0, 4 % de
+-comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0,4 % de
 substances combustibles ;
 
--supérieure à 28 % en poids et qui contiennent au plus 0, 2 % de substances
+-supérieure à 28 % en poids et qui contiennent au plus 0,2 % de substances
 combustibles.
 
 La quantité totale susceptible d'être présente dans l'installation étant :
@@ -137,7 +137,7 @@ du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme française
 
 I.-Engrais composés à base de nitrate d'ammonium susceptibles de subir une
 décomposition auto-entretenue (un engrais composé contient du nitrate d'ammonium
-avec du phosphate et/ou de la potasse) dans lesquels la teneur en azote due au
+avec du phosphate et/ ou de la potasse) dans lesquels la teneur en azote due au
 nitrate d'ammonium est :
 
 - de 15,75 % en poids ou moins sans limitation de teneur en matières
@@ -153,7 +153,7 @@ le test en auge défini dans le cadre de l'Organisation des Nations unies (ONU)
 dangereuses : Manual of Tests and Criteria, partie III, sous-section 38.2).
 
 II.-Engrais simples et composés solides à base de nitrate d'ammonium (un engrais
-composé contient du nitrate d'ammonium avec du phosphate et /ou de la potasse)
+composé contient du nitrate d'ammonium avec du phosphate et/ ou de la potasse)
 dans lesquels la teneur en azote due au nitrate d'ammonium est :
 
 - supérieure à 24,5 % en poids, et qui sont conformes aux exigences de l'annexe
@@ -219,7 +219,7 @@ binaires (NP ou NK) ou ternaires (NPK), ne sont à prendre en compte que les
 engrais à base de nitrates (ex : ammonitrates). En conséquence, les engrais
 azotés non à base de nitrates (ex : urée) ne sont pas comptabilisés.
 
-2.L'identification d'un engrais à base de nitrate peut se faire par la mention
+2. L'identification d'un engrais à base de nitrate peut se faire par la mention
 de l'azote nitrique dans les documents commerciaux.
 
 (*) Annexe III-2 relative à l'essai de détonabilité décrit dans la section 3
@@ -229,7 +229,7 @@ de l'azote nitrique dans les documents commerciaux.
 (**) Cette conformité n'est pas exigée dans le cas des engrais solides simples à
 base de nitrate d'ammonium dans lesquels la teneur en azote due au nitrate
 d'ammonium est comprise entre 24,5 % et 28 % et les matières inertes ajoutées
-sont du type dolomie, calcaire et/ou carbonate de calcium dont la pureté est
+sont du type dolomie, calcaire et/ ou carbonate de calcium dont la pureté est
 d'au moins 90 %.
 
 1332
@@ -245,7 +245,7 @@ règlement européen n° 2003/2003 ou à la norme française équivalente NF U 4
 
 Cette rubrique s'applique :
 
-- aux matières rejetées ou écartées au cours du processus de fabrication, au
+-aux matières rejetées ou écartées au cours du processus de fabrication, au
 nitrate d'ammonium et aux préparations à base de nitrate d'ammonium, aux engrais
 simples à base de nitrate d'ammonium et aux engrais composés à base de nitrate
 d'ammonium qui sont ou ont été renvoyés par l'utilisateur final à un fabricant,
@@ -254,7 +254,7 @@ subir un nouveau processus, un recyclage ou un traitement en vue de pouvoir êtr
 utilisés sans danger, parce qu'ils ne satisfaisaient plus aux prescriptions des
 rubriques 1330 et 1331-II ;
 
-- aux engrais simples à base de nitrate d'ammonium dans lesquels la teneur en
+-aux engrais simples à base de nitrate d'ammonium dans lesquels la teneur en
 azote due au nitrate d'ammonium est supérieure à 28 % qui ne satisfont pas aux
 exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ;
 
@@ -1118,11 +1118,10 @@ D
 
 1523
 
-Soufre (fabrication industrielle, fusion et distillation, emploi et stockage)
+Soufre et mélanges à teneur en soufre supérieure à 70 % (fabrication
+industrielle, fusion, distillation, emploi, stockage)
 
-A. Fabrication industrielle, transformation et distillation. La quantité totale
-susceptible d'être présente dans l'installation étant supérieure ou égale à 2,5
-t
+A.1. Fabrication industrielle de soufre
 
 
 A
@@ -1134,23 +1133,36 @@ supérieure ou égale à 2,5 t
 
 3
 
-B. Fusion. Le fondoir ayant une capacité supérieure ou égale à 1 t
+A.2. Transformation ou distillation de soufre
+
+La quantité totale susceptible d'être présente dans l'installation étant
+supérieure ou égale à 2,5 t
 
 
-D
+A
+
+2
+
+B. - Fusion de soufre.
 
 B. Non soumis à la taxe
 
-C. Emploi et stockage
 
-1. Soufre solide pulvérulent dont l'énergie minimale d'inflammation est
-inférieure ou égale à 100 mJ.
+Le fondoir ayant une capacité supérieure ou égale à 1 t
+
+D
+
+C. - Stockage ou emploi de soufre et mélanges à teneur en soufre supérieure à 70
+%.
+
+1. Stockage en vrac ou emploi de produits pulvérulents dont l'énergie minimale
+d'inflammation est inférieure ou égale à 100 mJ.
 
 C. La quantité totale susceptible d'être présente dans l'installation étant :
 
 La quantité totale susceptible d'être présente dans l'installation étant :
 
-a) supérieure ou égale à 2,5 t
+a) Supérieure ou égale à 2,5 t
 
 
 A
@@ -1161,15 +1173,16 @@ A
 
 3
 
-b) supérieure ou égale à 500 kg, mais inférieure à 2,5 t
+b) Supérieure ou égale à 500 kg, mais inférieure à 2,5 t
 
 
 D
 
-2. Soufre solide autre que celui cité en C1 et soufre sous forme liquide. La
-quantité totale susceptible d'être présente dans l'installation étant :
+2. Stockage ou emploi de produits autres que ceux cités en C.1.
 
-a) supérieure ou égale à 500 t
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+a) Supérieure ou égale à 500 t
 
 
 A
@@ -1180,7 +1193,7 @@ A
 
 3
 
-b) supérieure ou égale à 50 t, mais inférieure à 500 t
+b) Supérieure ou égale à 50 t, mais inférieure à 500 t
 
 
 D

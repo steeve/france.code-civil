@@ -503,7 +503,7 @@ pondeuse, poule reproductrice, faisan, pintade, canard colvert = 1
 
 10. dinde lourde = 3,50
 
-11; palmipèdes gras en gavage = 7
+11. palmipèdes gras en gavage = 7
 
 2112
 
@@ -705,26 +705,26 @@ Le poids des animaux exprimé en carcasses étant, en activité de pointe :
 
 1. Le poids de carcasses susceptibles d'être abattues étant :
 
-1. supérieur à 5 t/j
+1. supérieur à 5 t / j
 
 
 A
 
 3
 
-a) supérieur à 100 t/j
+a) supérieur à 100 t / j
 
 8
 
-b) supérieur à 20 t/j, mais inférieur ou égal à 100 t/j
+b) supérieur à 20 t / j, mais inférieur ou égal à 100 t / j
 
 5
 
-c) supérieur à 5 t/j, mais inférieur ou égal à 20 t/j
+c) supérieur à 5 t / j, mais inférieur ou égal à 20 t / j
 
 2
 
-2. supérieur à 500 kg/j, mais inférieur ou égal à 5 t/j
+2. supérieur à 500 kg / j, mais inférieur ou égal à 5 t / j
 
 
 D
@@ -739,57 +739,63 @@ maturation de fruits et légumes, la quantité de produits entrant étant :
 
 1. La capacité de production étant :
 
-1. supérieure à 10 t/j
+1. supérieure à 10 t / j
 
 
 A
 
 1
 
-a) supérieure à 200 t/j
+a) supérieure à 200 t / j
 
 3
 
-b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
+b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
 
 1
 
-2. supérieure à 2 t/j, mais inférieure ou égale à 10 t/j
+2. supérieure à 2 t / j, mais inférieure ou égale à 10 t / j
 
 
 DC
 
 2221
 
-Alimentaires (préparation ou conservation de produits) d'origine animale, par
+Préparation ou conservation de produits alimentaires d'origine animale, par
 découpage, cuisson, appertisation, surgélation, congélation, lyophilisation,
 déshydratation, salage, séchage, saurage, enfumage, etc., à l'exclusion des
 produits issus du lait et des corps gras, mais y compris les aliments pour les
 animaux de compagnie.
 
-La quantité de produits entrant étant :
-
-1. La capacité de production étant :
-
-1. supérieure à 2 t/j
+A. - Installations dont les activités sont classées au titre de la rubrique 3642
 
 
 A
 
-1
+3
+
+1. La capacité de production étant :
+
+B. - Autres installations que celles visées au A, la quantité de produits
+entrant étant :
 
 a) supérieure à 250 t/j
 
 3
 
-b) supérieure à 10 t/j, mais inférieure ou égale à 250 t/j
+- supérieure à 2 t/j
 
-1
 
-2. supérieure à 500 kg/j, mais inférieure ou égale à 2 t/j
+E
+
+- supérieure à 500 kg/j, mais inférieure ou égale à 2 t/j
 
 
 D
+
+b) supérieure à 10 t/j, mais inférieure ou égale à 250 t/j
+
+1
 
 2225
 
@@ -802,11 +808,11 @@ A
 
 La capacité de production étant :
 
-a) supérieure à 200 t/j
+a) supérieure à 200 t / j
 
 6
 
-b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
+b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
 
 2
 
@@ -821,11 +827,11 @@ A
 
 La capacité de production étant :
 
-a) supérieure à 200 t/j
+a) supérieure à 200 t / j
 
 6
 
-b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
+b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
 
 2
 
@@ -837,7 +843,7 @@ issus du lait
 La capacité journalière de traitement exprimée en litre de lait ou
 équivalent-lait étant :
 
-1. supérieure à 70 000 l/j
+1. supérieure à 70 000 l / j
 
 
 A
@@ -985,7 +991,7 @@ A
 
 1
 
-1. La capacité de l'installation étant supérieure à 50 000 hl/an
+1. La capacité de l'installation étant supérieure à 50 000 hl / an
 
 1
 
@@ -1081,7 +1087,7 @@ D
 
 2265
 
-Fermentation acétique en milieu liquide (mise en oeuvre d'un procédé de)
+Fermentation acétique en milieu liquide (mise en œuvre d'un procédé de)
 
 Le volume total des réacteurs ou fermenteurs étant :
 
@@ -1236,7 +1242,7 @@ A
 
 1
 
-2. supérieure à 0, 5 kg et inférieure ou égale à 50 kg
+2. supérieure à 0,5 kg et inférieure ou égale à 50 kg
 
 
 DC
@@ -1354,7 +1360,7 @@ D
 2415
 
 
-Installations de mise en œuvre de produits de préservation du bois et matériaux
+Installations de mise en oeuvre de produits de préservation du bois et matériaux
 dérivés
 
 1. La quantité susceptible d'être présente dans l'installation étant supérieure
@@ -1643,7 +1649,7 @@ c) supérieure ou égale à 50 000 t/an mais inférieure à 150 000 t/an.
 haldes et terrils de mines et par les déchets d'exploitation de carrières (à
 l'exception des cas visés à l'article 1er du décret n° 79-1109 du 20 décembre
 1979 pris pour l'application de l'article 130 du code minier), lorsque la
-superficie d'exploitation est supérieure à 1 000 m2 ou lorsque la quantité de
+superficie d'exploitation est supérieure à 1 000 m 2 ou lorsque la quantité de
 matériaux à extraire est supérieure à 2 000 t par an
 
 
@@ -1681,12 +1687,12 @@ D
 
 6. Carrières de pierre, de sable et d'argile destinées :
 
-- à la restauration des monuments historiques classés ou inscrits, ou des
+-à la restauration des monuments historiques classés ou inscrits, ou des
 immeubles figurant au plan de sauvegarde et de mise en valeur d'un secteur
 sauvegardé en tant qu'immeubles dont la démolition, l'enlèvement ou l'altération
 sont interdits
 
-- ou à la restauration des bâtiments anciens dont l'intérêt patrimonial ou
+-ou à la restauration des bâtiments anciens dont l'intérêt patrimonial ou
 architectural justifie que celle-ci soit effectuée avec leurs matériaux
 d'origine.
 

@@ -144,9 +144,10 @@ toxiques et très toxiques contenues dans la préparation ou le mélange en
 fonction de leur concentration.
 
 Pour ses propriétés environnementales, une préparation ou un mélange dangereux
-pour l'environnement est classé par son fabricant : - soit, par des essais
-effectués directement sur la préparation ou le mélange en appliquant les
-méthodes du règlement n° 440/2008 susmentionné ;
+pour l'environnement est classé par son fabricant :
+
+- soit, par des essais effectués directement sur la préparation ou le mélange en
+appliquant les méthodes du règlement n° 440/2008 susmentionné ;
 
 - soit en utilisant la méthode de calcul décrite point a) de la partie A de
 l'annexe III de l'arrêté du 9 novembre 2004 susmentionné, qui fait intervenir
@@ -497,6 +498,66 @@ b) supérieure ou égale à 2 t, mais inférieure à 200 t
 2
 
 c) supérieure ou égale à 200 kg, mais inférieure à 2 t
+
+
+D
+
+1132
+
+Toxiques présentant des risques d'effets graves pour la santé en cas
+d'exposition prolongée (fabrication industrielle, emploi ou stockage de
+substances et mélanges).
+
+A. - Fabrication industrielle
+
+
+A
+
+2
+
+B. - Emploi ou stockage
+
+1. Substances et mélanges solides ; la quantité totale susceptible d'être
+présente dans l'installation étant :
+
+a) Supérieure ou égale à 50 t
+
+
+A
+
+1
+
+b) Supérieure ou égale à 5 t, mais inférieure à 50 t
+
+
+D
+
+2. Substances et mélanges liquides ; la quantité totale susceptible d'être
+présente dans l'installation étant :
+
+a) Supérieure ou égale à 10 t
+
+
+A
+
+1
+
+b) Supérieure ou égale à 1 t, mais inférieure à 10 t
+
+
+D
+
+3. Gaz ou gaz liquéfiés ; la quantité totale susceptible d'être présente dans
+l'installation étant :
+
+a) Supérieure ou égale à 2 t
+
+
+A
+
+3
+
+b) Supérieure ou égale à 200 kg, mais inférieure à 2 t
 
 
 D
@@ -2467,9 +2528,7 @@ b) Inférieure à 100 kg dans les autres cas
 
 DC
 
-Nota :
-
-(1) Les produits explosifs appartiennent à la classe 1 des marchandises
+Nota : (1) Les produits explosifs appartiennent à la classe 1 des marchandises
 dangereuses et sont classés en divisions de risque et en groupes de
 compatibilité selon les articles 3 à 9 de l'arrêté du 20 avril 2007 fixant les
 règles relatives à l'évaluation des risques et à la prévention des accidents
