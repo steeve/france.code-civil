@@ -14,12 +14,20 @@ l'article L. 162-5-3 ;
 
 3° D'au moins 35 % du tarif servant de base au calcul des prestations
 d'assurance maladie pour les frais d'analyses ou de laboratoires prescrits par
-le médecin traitant mentionné à l'article L. 162-5-3.
+le médecin traitant mentionné à l'article L. 162-5-3 ;
 
-Le cas échéant, les taux de prise en charge minimale définis aux alinéas
-précédents sont réduits afin que la prise en charge de la participation des
-assurés ou de leurs ayants droit, au sens du I de l'article L. 322-2, ne puisse
-excéder le montant des frais exposés à ce titre.
+4° De l'intégralité des dépassements d'honoraires des médecins exerçant une
+spécialité chirurgicale, obstétricale ou d'anesthésie-réanimation encadrés dans
+les conditions prévues à l'article 36 de la convention signée le 26 juillet 2011
+en application de l'article L. 162-5 du code de la sécurité sociale, dans sa
+rédaction issue de l'arrêté pris en application du I de l'article 56 de la loi
+n° 2011-1906 du 21 décembre 2011 de financement de la sécurité sociale pour
+2012.
+
+Le cas échéant, les taux de prise en charge minimale définis aux 1° à 3° sont
+réduits afin que la prise en charge de la participation des assurés ou de leurs
+ayants droit, au sens du I de l'article L. 322-2, ne puisse excéder le montant
+des frais exposés à ce titre.
 
 Les dispositions du présent I sont applicables aux consultations effectuées sur
 prescription du médecin traitant mentionné à l'article L. 162-5-3 et aux
