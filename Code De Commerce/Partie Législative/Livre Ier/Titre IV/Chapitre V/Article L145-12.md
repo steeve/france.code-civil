@@ -7,7 +7,7 @@ Les dispositions des deuxième et troisième alinéas de l'article L. 145-4 sont
 applicables au cours du bail renouvelé.
 
 Le nouveau bail prend effet à compter de l'expiration du bail précédent, ou, le
-cas échéant, de sa reconduction, cette dernière date étant soit celle pour
+cas échéant, de sa prolongation, cette dernière date étant soit celle pour
 laquelle le congé a été donné, soit, si une demande de renouvellement a été
 faite, le premier jour du trimestre civil qui suit cette demande.
 

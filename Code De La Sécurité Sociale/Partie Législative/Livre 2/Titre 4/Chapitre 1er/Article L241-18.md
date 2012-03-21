@@ -6,7 +6,7 @@ L. 241-13 du présent code, lorsque sa rémunération entre dans le champ
 d'application du I de l'article 81 quater du code général des impôts, ouvre
 droit à une déduction forfaitaire des cotisations patronales à hauteur d'un
 montant fixé par décret. Ce montant peut être majoré dans les entreprises
-employant au plus vingt salariés.
+employant moins de vingt salariés.
 
 II.-Une déduction forfaitaire égale à sept fois le montant défini au I est
 également applicable pour chaque jour de repos auquel renonce un salarié dans

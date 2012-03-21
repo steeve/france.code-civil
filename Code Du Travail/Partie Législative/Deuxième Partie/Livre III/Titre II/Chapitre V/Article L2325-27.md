@@ -1,6 +1,6 @@
 Article L2325-27
 ----
-Dans les entreprises de trois cents salariés et plus, une commission
+Dans les entreprises d'au moins trois cents salariés, une commission
 d'information et d'aide au logement des salariés est créée au sein du comité
 d'entreprise.
 

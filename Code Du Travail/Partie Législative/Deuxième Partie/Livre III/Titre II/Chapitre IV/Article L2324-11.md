@@ -8,7 +8,7 @@ organisations syndicales pour chaque catégorie de personnel :
 - d'autre part, par le collège des ingénieurs, chefs de service, techniciens,
 agents de maîtrise et assimilés.
 
-Dans les entreprises de cinq cent un salariés et plus, les ingénieurs, les chefs
+Dans les entreprises d'au moins cinq cent un salariés, les ingénieurs, les chefs
 de service et cadres administratifs, commerciaux ou techniques assimilés ont au
 moins un délégué titulaire au sein du second collège, élu dans les mêmes
 conditions.

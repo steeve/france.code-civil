@@ -4,7 +4,8 @@ Les contrôles prévus au b de l'article L. 821-7 sont effectués, dans les
 conditions et selon les modalités définies par le Haut Conseil du commissariat
 aux comptes, par des contrôleurs n'exerçant pas de fonctions de contrôle légal
 des comptes ou par la Compagnie nationale des commissaires aux comptes ou les
-compagnies régionales.
+compagnies régionales. Les contrôleurs du Haut Conseil et leur directeur sont
+employés dans les conditions prévues à l'article L. 821-3-1.
 
 Lorsque ces contrôles sont relatifs à des commissaires aux comptes nommés auprès
 de personnes dont les titres financiers sont admis aux négociations sur un

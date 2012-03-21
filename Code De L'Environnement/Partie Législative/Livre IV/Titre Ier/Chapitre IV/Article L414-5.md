@@ -3,10 +3,11 @@ Article L414-5
 I.-Lorsqu'un programme ou projet d'activités, de travaux, d'aménagements,
 d'ouvrages ou d'installations ou lorsqu'une manifestation ou une intervention
 entrant dans les prévisions de l'article L. 414-4 est réalisé sans évaluation
-préalable, sans l'accord requis ou en méconnaissance de l'accord délivré,
-l'autorité de l'Etat compétente met l'intéressé en demeure d'arrêter
-immédiatement l'opération et de remettre, dans un délai qu'elle fixe, le site
-dans son état antérieur.
+préalable, sans l'accord requis ou en méconnaissance de l'accord délivré ou
+lorsque les engagements spécifiques mentionnés au II de l'article L. 414-3 n'ont
+pas été respectés, l'autorité de l'Etat compétente met l'intéressé en demeure
+d'arrêter immédiatement l'opération et de remettre, dans un délai qu'elle fixe,
+le site dans son état antérieur.
 
 Sauf en cas d'urgence, l'intéressé est mis à même de présenter ses observations
 préalablement à la mise en demeure.

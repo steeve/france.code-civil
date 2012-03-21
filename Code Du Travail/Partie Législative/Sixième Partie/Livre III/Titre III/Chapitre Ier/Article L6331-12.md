@@ -1,6 +1,6 @@
 Article L6331-12
 ----
-Les employeurs de cinquante salariés et plus ne peuvent être regardés comme
+Les employeurs d'au moins cinquante salariés ne peuvent être regardés comme
 s'étant conformés aux dispositions du présent chapitre que si, ayant satisfait à
 l'obligation prévue à l'article L. 6331-9, ils justifient que le comité
 d'entreprise a délibéré sur les problèmes propres à l'entreprise, relatifs à la

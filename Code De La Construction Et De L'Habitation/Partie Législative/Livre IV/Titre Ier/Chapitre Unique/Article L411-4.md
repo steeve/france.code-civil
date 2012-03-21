@@ -21,8 +21,8 @@ ont été construits dans le cadre d'un bail à construction ou d'un bail
 emphytéotique après l'expiration de ce bail, lorsque celui-ci prévoit que le
 propriétaire d'un terrain devient propriétaire des constructions. Les
 dispositions du présent article ne s'appliquent pas aux logements vendus par les
-sociétés d'économie mixte en application des premier, troisième et cinquième
-alinéas de l'article L. 443-11, aux logements cédés ou apportés aux sociétés
-civiles immobilières d'accession progressive à la propriété régies par les
-articles L. 443-6-2 et suivants et devenus propriété d'un associé personne
+sociétés d'économie mixte en application des premier, troisième à sixième et
+dixième alinéas de l'article L. 443-11, aux logements cédés ou apportés aux
+sociétés civiles immobilières d'accession progressive à la propriété régies par
+les articles L. 443-6-2 et suivants et devenus propriété d'un associé personne
 physique et aux logements dont l'usufruit a été détenu temporairement.

@@ -28,11 +28,11 @@ moyens de financement et de crédit ;
 notamment fournir à leurs associés une assistance en matière de gestion
 technique, financière et comptable ;
 
-5° Acheter des fonds de commerce dont, par dérogation aux dispositions de
-l'article L. 144-3, la location-gérance est concédée dans un délai de deux mois
-à un associé et qui, sous les sanctions prévues aux deuxième et troisième
-alinéas de l'article L. 124-15, doivent être rétrocédés dans un délai maximum de
-sept ans ;
+5° Acheter des fonds de commerce dont, par dérogation à l'article L. 144-3, la
+location-gérance est concédée dans un délai de deux mois à un associé et qui
+doivent être rétrocédés dans un délai maximal de sept ans. Le défaut de
+rétrocession dans ce délai peut donner lieu à injonction suivant les modalités
+définies au second alinéa de l'article L. 124-15 ;
 
 6° Définir et mettre en oeuvre par tous moyens une politique commerciale commune
 propre à assurer le développement et l'activité de ses associés, notamment :

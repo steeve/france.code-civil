@@ -1,6 +1,6 @@
 Article L2325-14
 ----
-Dans les entreprises de cent cinquante salariés et plus, le comité d'entreprise
+Dans les entreprises d'au moins cent cinquante salariés, le comité d'entreprise
 se réunit au moins une fois par mois sur convocation de l'employeur ou de son
 représentant.
 

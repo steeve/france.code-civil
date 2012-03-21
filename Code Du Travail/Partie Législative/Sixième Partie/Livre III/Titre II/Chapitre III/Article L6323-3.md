@@ -8,6 +8,6 @@ Le droit individuel à la formation est mis en oeuvre dans les conditions du
 présent chapitre.
 
 L'organisme collecteur paritaire agréé au titre du congé individuel de formation
-pour les entreprises de dix salariés et plus assure la prise en charge des frais
+pour les entreprises d'au moins dix salariés assure la prise en charge des frais
 de formation, de transport et d'hébergement ainsi que de l'allocation de
 formation due à ces salariés.

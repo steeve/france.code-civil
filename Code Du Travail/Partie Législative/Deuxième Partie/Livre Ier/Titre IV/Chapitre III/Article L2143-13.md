@@ -9,9 +9,9 @@ Ce temps est au moins égal à :
 cent cinquante salariés ;
 
 2° Quinze heures par mois dans les entreprises ou établissements de cent
-cinquante et un à cinq cents salariés ;
+cinquante et un à quatre cent quatre-vingt-dix-neuf salariés ;
 
-3° Vingt heures par mois dans les entreprises ou établissements de plus de cinq
+3° Vingt heures par mois dans les entreprises ou établissements d'au moins cinq
 cents salariés.
 
 Ce temps peut être dépassé en cas de circonstances exceptionnelles.

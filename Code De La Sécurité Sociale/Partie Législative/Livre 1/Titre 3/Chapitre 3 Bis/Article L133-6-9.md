@@ -1,6 +1,6 @@
 Article L133-6-9
 ----
-Dans les conditions prévues aux septième à dixième alinéas de l'article L.
+Dans les conditions prévues aux neuvième à douzième alinéas de l'article L.
 243-6-3, le régime social des indépendants doit se prononcer de manière
 explicite sur toute demande d'un cotisant ou futur cotisant relevant de ce
 régime en application de l'article L. 611-1, ayant pour objet de connaître

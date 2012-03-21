@@ -6,3 +6,7 @@ peut être subordonné, selon des modalités fixées par décret en Conseil d'Et
 des conditions d'établissement, d'honorabilité professionnelle, de capacité
 financière et de capacité professionnelle ainsi qu'à l'inscription à un registre
 tenu par les autorités de l'Etat.
+
+L'administration fiscale transmet au ministère chargé des transports les données
+fiscales nécessaires pour lui permettre d'apprécier la capacité financière des
+entreprises inscrites au registre prévu au premier alinéa.

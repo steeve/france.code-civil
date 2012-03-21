@@ -16,4 +16,4 @@ l'article 211 ci-dessus ;
 3° En cas de manoeuvre ou fausse déclaration tendant à obtenir indûment la
 délivrance de titres de circulation, l'inscription d'animaux à un compte ouvert
 ou leur radiation, ou l'annulation des engagements figurant sur les
-acquits-à-caution ou passavants.
+acquits-à-caution.

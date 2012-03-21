@@ -21,6 +21,10 @@ susceptibles d'entraîner une fermeture administrative, les principes généraux
 la responsabilité civile et pénale des personnes physiques et des personnes
 morales et la lutte contre la discrimination.
 
+Toutefois, pour les personnes mentionnées à l'article L. 324-4 du code du
+tourisme, la formation prévue au présent article est adaptée aux conditions
+spécifiques de l'activité de ces personnes.
+
 Tout organisme de formation établi sur le territoire national qui dispense les
 formations visées aux alinéas précédents doit être agréé par arrêté du ministre
 de l'intérieur.

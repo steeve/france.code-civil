@@ -23,11 +23,11 @@ programmes nouveaux de construction, à des travaux destinés à améliorer de f
 substantielle un ensemble déterminé d'habitations ou à des acquisitions de
 logements en vue d'un usage locatif.
 
-Dans le cas d'une vente réalisée en application de l'avant-dernier alinéa de
-l'article L. 443-11, l'organisme est tenu de verser à l'Etat une somme
-équivalente au montant des aides financières accordées par l'Etat pour la
-construction, l'acquisition ou l'amélioration du bien vendu, dans des conditions
-fixées par décret en Conseil d'Etat.
+Dans le cas d'une vente réalisée en application du dixième alinéa de l'article
+L. 443-11, l'organisme est tenu de verser à l'Etat une somme équivalente au
+montant des aides financières accordées par l'Etat pour la construction,
+l'acquisition ou l'amélioration du bien vendu, dans des conditions fixées par
+décret en Conseil d'Etat.
 
 En cas de vente d'un logement ayant fait l'objet de travaux d'amélioration
 financés avec l'aide de l'Etat depuis moins de cinq ans, l'organisme vendeur est

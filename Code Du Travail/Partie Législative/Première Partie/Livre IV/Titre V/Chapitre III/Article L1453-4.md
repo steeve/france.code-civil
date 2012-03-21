@@ -1,7 +1,7 @@
 Article L1453-4
 ----
-Dans les établissements mentionnés à l'article L. 2311-1 de onze salariés et
-plus, les salariés exerçant des fonctions d'assistance ou de représentation
+Dans les établissements mentionnés à l'article L. 2311-1 d'au moins onze
+salariés, les salariés exerçant des fonctions d'assistance ou de représentation
 devant les conseils de prud'hommes et désignés par les organisations syndicales
 et professionnelles représentatives au niveau national disposent du temps
 nécessaire à l'exercice de leurs fonctions dans les limites d'une durée ne

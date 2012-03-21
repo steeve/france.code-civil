@@ -1,6 +1,6 @@
 Article L2313-16
 ----
-Dans les établissements de cinquante salariés et plus, s'il n'existe pas de
+Dans les établissements d'au moins cinquante salariés, s'il n'existe pas de
 comité d'hygiène, de sécurité et des conditions de travail, les délégués du
 personnel exercent les missions attribuées à ce comité avec les mêmes moyens et
 obligations que celui-ci.

@@ -5,8 +5,7 @@ vigueur de la présente section, fixée par le VII de l'article 7 de la loi n°
 2006-437 du 14 avril 2006 portant diverses dispositions relatives au tourisme,
 cessent de produire leurs effets dans les conditions suivantes :
 
-1° Ceux dont la publication est intervenue avant le 1er janvier 1924 cessent de
-produire leurs effets le 1er avril 2012 ;
+1° (Abrogé) ;
 
 2° Ceux dont la publication est intervenue avant le 1er janvier 1969 cessent de
 produire leurs effets le 1er janvier 2014 ;

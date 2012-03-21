@@ -22,4 +22,4 @@ une période d'une durée égale à celle qui s'est écoulée entre la date init
 du bail et la date de son renouvellement effectif.
 
 Les dispositions de l'alinéa ci-dessus ne sont plus applicables lorsque, par
-l'effet d'une tacite reconduction, la durée du bail excède douze ans.
+l'effet d'une tacite prolongation, la durée du bail excède douze ans.

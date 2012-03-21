@@ -34,7 +34,7 @@ occupant moins de dix salariés ;
 occupant de dix à moins de cinquante salariés ;
 
 3° Pour les contributions dues au titre du plan de formation des employeurs
-occupant cinquante salariés et plus ;
+occupant au moins cinquante salariés ;
 
 4° Pour les contributions dues au titre de la professionnalisation ;
 

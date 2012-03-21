@@ -11,7 +11,7 @@ Sa composition, ses attributions et son mode de fonctionnement sont précisés p
 décret en Conseil d'Etat.
 
 Une section de la commission régionale du patrimoine et des sites est instituée
-pour l'examen des recours prévus par les articles L. 621-31 et L. 641-1.
+pour l'examen des recours prévus par les articles L. 621-32 et L. 641-1.
 
 Elle est présidée par le préfet de région ou son représentant. Elle comprend en
 outre des représentants de l'Etat, des personnes titulaires d'un mandat électif

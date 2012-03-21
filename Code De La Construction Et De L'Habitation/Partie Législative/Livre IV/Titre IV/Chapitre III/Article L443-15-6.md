@@ -1,22 +1,31 @@
 Article L443-15-6
 ----
-Les organismes d'habitations à loyer modéré peuvent vendre les logements-foyers
-leur appartenant depuis plus de dix ans à d'autres organismes d'habitations à
-loyer modéré, à des sociétés d'économie mixte, à des collectivités territoriales
-ou à leurs groupements, à des centres communaux ou intercommunaux d'action
-sociale ou à des organismes sans but lucratif.
+Les organismes d'habitations à loyer modéré peuvent vendre leurs
+logements-foyers, définis à l'article L. 633-1, à d'autres organismes
+d'habitations à loyer modéré, à des sociétés d'économie mixte de construction et
+de gestion de logements sociaux, à des collectivités territoriales ou à leurs
+groupements, à des centres communaux ou intercommunaux d'action sociale, à des
+organismes sans but lucratif bénéficiant de l'agrément relatif à la maîtrise
+d'ouvrage prévu à l'article L. 365-2 ou à d'autres organismes sans but lucratif.
+Pour pouvoir être cédé, un logement-foyer doit avoir été construit ou acquis
+depuis plus de dix ans par l'organisme d'habitations à loyer modéré, sauf
+lorsque la vente est conclue avec un autre organisme d'habitations à loyer
+modéré, une société d'économie mixte de construction et de gestion de logements
+sociaux ou avec un organisme sans but lucratif bénéficiant de l'agrément relatif
+à la maîtrise d'ouvrage prévu au même article L. 365-2.
 
-Les logements-foyers construits ou acquis et améliorés avec le concours
-financier de l'Etat ou qui ont ouvert droit à l'aide personnalisée au logement
-en vertu d'une convention prévue à l'article L. 351-2 demeurent soumis,
-lorsqu'ils font l'objet d'une mutation, à des règles d'attribution sous
-conditions de ressources et des règles de fixation de redevance par l'autorité
-administrative dans des conditions fixées par décret en Conseil d'Etat, pendant
-une période d'au moins dix ans à compter de ladite mutation.
+Les logements-foyers qui ont été construits, acquis ou acquis et améliorés avec
+le concours financier de l'Etat ou qui ont ouvert droit à l'aide personnalisée
+au logement en vertu d'une convention prévue à l'article L. 351-2 demeurent
+soumis à des règles d'attribution sous conditions de ressources et à des règles
+de fixation de redevance par l'autorité administrative, dans des conditions
+fixées par décret en Conseil d'Etat, pendant une période d'au moins dix ans à
+compter de leur cession par un organisme d'habitations à loyer modéré en
+application du premier alinéa du présent article.
 
 Tout acte transférant la propriété ou la jouissance de ces logements ou
 constatant ledit transfert doit, à peine de nullité de plein droit, reproduire
-les dispositions du présent article.L'action en nullité peut être intentée par
+les dispositions du présent article. L'action en nullité peut être intentée par
 tout intéressé ou par l'autorité administrative dans un délai de cinq ans à
 compter de la publication de l'acte au fichier immobilier ou de l'inscription au
 livre foncier.

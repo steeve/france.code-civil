@@ -13,3 +13,8 @@ admises aux négociations sur un marché réglementé.
 
 La même obligation incombe aux conjoints non séparés de corps des personnes
 mentionnées à l'alinéa précédent.
+
+Les droits de vote et les droits à dividende des actions détenues par toute
+personne n'ayant pas rempli les obligations du présent article sont suspendus
+jusqu'à régularisation de la situation. Tout vote émis ou tout versement de
+dividende effectué pendant la suspension est nul.

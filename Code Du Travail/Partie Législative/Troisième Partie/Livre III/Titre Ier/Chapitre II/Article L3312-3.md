@@ -9,7 +9,8 @@ cinquante salariés, peuvent bénéficier des dispositions du présent titre :
 s'agit de personnes morales ;
 
 3° Le conjoint du chef d'entreprise s'il a le statut de conjoint collaborateur
-ou de conjoint associé mentionné à l'article L. 121-4 du code de commerce.
+ou de conjoint associé mentionné à l'article L. 121-4 du code de commerce ou à
+l'article L. 321-5 du code rural et de la pêche maritime.
 
 Toutefois, un accord d'intéressement ne peut être conclu dans une entreprise
 dont l'effectif est limité à un salarié si celui-ci a également la qualité de

@@ -1,8 +1,9 @@
 Article L225-147
 ----
 En cas d'apports en nature ou de stipulation d'avantages particuliers, un ou
-plusieurs commissaires aux apports sont désignés par décision de justice. Ils
-sont soumis aux incompatibilités prévues à l'article L. 822-11.
+plusieurs commissaires aux apports sont désignés à l'unanimité des actionnaires
+ou, à défaut, par décision de justice. Ils sont soumis aux incompatibilités
+prévues à l'article L. 822-11.
 
 Ces commissaires apprécient, sous leur responsabilité, la valeur des apports en
 nature et les avantages particuliers. Un décret en Conseil d'Etat fixe les
@@ -17,7 +18,7 @@ particuliers, elle constate la réalisation de l'augmentation du capital.
 Si l'assemblée réduit l'évaluation des apports ainsi que la rémunération
 d'avantages particuliers, l'approbation expresse des modifications par les
 apporteurs, les bénéficiaires ou leurs mandataires dûment autorisés à cet effet,
-est requise.A défaut, l'augmentation du capital n'est pas réalisée.
+est requise. A défaut, l'augmentation du capital n'est pas réalisée.
 
 Les titres de capital émis en rémunération d'un apport en nature sont
 intégralement libérés dès leur émission.

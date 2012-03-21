@@ -1,11 +1,13 @@
 Article L251-23
 ----
-L'appellation "groupement d'intérêt économique" et le sigle "GIE" ne peuvent
-être utilisés que par les groupements soumis aux dispositions du présent
-chapitre. L'emploi illicite de cette appellation, de ce sigle ou de toute
-expression de nature à prêter à confusion avec ceux-ci est puni d'un
-emprisonnement d'un an et d'une amende de 6 000 euros.
+L'appellation : " groupement d'intérêt économique " et le sigle : " GIE " ne
+peuvent être utilisés que par les groupements soumis au présent chapitre. Le
+ministère public ou toute personne intéressée peut demander au président du
+tribunal compétent statuant en référé d'interdire, le cas échéant sous
+astreinte, l'emploi illicite de cette appellation.
 
-Le tribunal peut, en outre, ordonner la publication du jugement, aux frais du
-condamné, dans trois journaux au maximum et son affichage dans les conditions
-prévues à l'article 131-35 du code pénal.
+Le président du tribunal peut, en outre, ordonner la publication de la décision,
+son affichage dans les lieux qu'il désigne, son insertion intégrale ou par
+extraits dans les journaux et sa diffusion par un ou plusieurs services de
+communication au public en ligne qu'il indique, le tout aux frais des dirigeants
+du groupement ayant illégalement utilisé cette appellation ou ce sigle.

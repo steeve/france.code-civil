@@ -48,9 +48,11 @@ sécurité sociale des non-salariés des professions agricoles ainsi que la
 contribution due sur les revenus des personnes redevables de la cotisation de
 solidarité visée à l'article L. 731-23 du code rural et de la pêche maritime
 sont directement recouvrées et contrôlées par les caisses de mutualité sociale
-agricole, selon les règles et sous les garanties et sanctions applicables au
-recouvrement des cotisations d'assurance maladie, maternité et invalidité dues
-au régime de la sécurité sociale des non-salariés des professions agricoles.
+agricole, selon les règles et sous les garanties et sanctions applicables,
+respectivement, au recouvrement des cotisations d'assurance maladie, maternité
+et invalidité dues au régime de la sécurité sociale des non-salariés des
+professions agricoles et au recouvrement de la cotisation de solidarité
+mentionnée à l'article L. 731-23 du code rural et de la pêche maritime.
 
 II bis. - La contribution due sur les revenus de source étrangère, sous réserve
 s'agissant des revenus d'activité qu'elle n'ait pas fait l'objet d'un précompte
@@ -72,10 +74,10 @@ mentionnées au II de l'article 1106-6-1 du code rural est précomptée lors de
 leur versement par l'organisme débiteur de ces prestations. La contribution
 sociale généralisée due sur les indemnités de congés payés et sur les avantages
 conventionnels y afférents, servis par les caisses de congés payés en
-application des dispositions de l'article L. 223-16 du code du travail, est
+application des dispositions de l'article L. 223-16 du code du travail , est
 précomptée par les caisses de congés payés, responsables du versement de
-l'ensemble des charges assises sur ces indemnités et avantages sous réserve d'
-exceptions prévues par arrêté.
+l'ensemble des charges assises sur ces indemnités et avantages sous réserve
+d'exceptions prévues par arrêté.
 
 IV. - La contribution sociale entre dans les obligations financières incombant
 aux employeurs, ou personnes qui y sont substituées en droit, en vertu des
@@ -92,13 +94,13 @@ par les organismes visés à l'article L. 213-1, de la contribution prévue à
 l'article L. 136-3 et, par les caisses de mutualité sociale agricole, de la
 contribution prévue à l'article L. 136-4 ;
 
-3° Des dispositions des articles 1034, 1035 et 1036 du chapitre V du titre II du
+3° Des dispositions des articles 1034,1035 et 1036 du chapitre V du titre II du
 livre VII du code rural et du décret n° 79-707 du 8 août 1979 dans sa rédaction
 publiée à la date de la publication de la dernière loi de financement de la
 sécurité sociale.
 
 Les différends nés de l'assujettissement à la contribution des revenus
-mentionnés aux articles L. 136-1 à L.136-4 relèvent du contentieux de la
+mentionnés aux articles L. 136-1 à L. 136-4 relèvent du contentieux de la
 sécurité sociale et sont réglés selon les dispositions applicables aux
 cotisations de sécurité sociale, conformément aux dispositions du chapitre III
 du titre III et des chapitres II, III et IV du titre IV du livre Ier dans leur

@@ -1,6 +1,6 @@
 Article L2323-50
 ----
-Chaque trimestre, dans les entreprises de trois cents salariés et plus,
+Chaque trimestre, dans les entreprises d'au moins trois cents salariés,
 l'employeur communique au comité d'entreprise des informations sur :
 
 1° L'évolution générale des commandes et de la situation financière ;

@@ -25,11 +25,11 @@ l'option par le bailleur (1).
 
 5° bis Les personnes qui réalisent une opération visée au 5 de l'article 261 ;
 
-6° A compter du 1er octobre 1988, les personnes qui donnent en location, en
-vertu d'un bail enregistré, des terres et bâtiments d'exploitation à usage
-agricole. L'option ne peut être exercée que si le preneur est redevable de la
-taxe sur la valeur ajoutée et elle s'applique à tous les baux conclus par un
-même bailleur avec des agriculteurs répondant à cette condition (2).
+6° A compter du 1er octobre 1988, les personnes qui donnent en location des
+terres et bâtiments d'exploitation à usage agricole. L'option ne peut être
+exercée que si le preneur est redevable de la taxe sur la valeur ajoutée et elle
+s'applique à tous les baux conclus par un même bailleur avec des agriculteurs
+répondant à cette condition (2).
 
 Les conditions et modalités de l'option notamment, pour l'application du 6°, les
 modalités d'évaluation des bâtiments d'habitation lorsqu'ils ne font pas l'objet

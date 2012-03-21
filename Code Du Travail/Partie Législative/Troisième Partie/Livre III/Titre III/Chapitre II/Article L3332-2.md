@@ -14,7 +14,8 @@ d'entreprise :
 s'agit de personnes morales ;
 
 3° Le conjoint du chef d'entreprise s'il a le statut de conjoint collaborateur
-ou de conjoint associé mentionné à l'article L. 121-4 du code de commerce.
+ou de conjoint associé mentionné à l'article L. 121-4 du code de commerce ou à
+l'article L. 321-5 du code rural et de la pêche maritime.
 
 Le salarié d'un groupement d'employeurs peut bénéficier du plan d'épargne
 salariale mis en place dans chacune des entreprises adhérentes du groupement

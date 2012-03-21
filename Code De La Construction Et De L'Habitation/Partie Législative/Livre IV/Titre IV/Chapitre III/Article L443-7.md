@@ -18,7 +18,17 @@ département qui consulte la commune d'implantation ainsi que les collectivités
 publiques qui ont accordé leur garantie aux emprunts contractés pour la
 construction, l'acquisition ou l'amélioration des logements.A défaut
 d'opposition motivée du représentant de l'Etat dans le département dans un délai
-de deux mois, la décision est exécutoire.
+de deux mois, la décision est exécutoire. En cas de non-respect de l'obligation
+de transmission au représentant de l'Etat de la décision d'aliéner, lorsqu'il
+s'agit d'un contrat de vente à une personne morale, le contrat est entaché de
+nullité. L'action en nullité peut être intentée par l'autorité administrative ou
+par un tiers dans un délai de cinq ans à compter de la publication de l'acte au
+fichier immobilier.
+
+Lorsqu'il s'agit d'un contrat de vente à une personne physique, l'organisme
+vendeur est passible d'une sanction pécuniaire, dans la limite de 15 000 € par
+logement vendu, arrêtée par le représentant de l'Etat dans le département
+d'implantation de la commune où se situe le logement.
 
 Toutefois, lorsque le logement est affecté à la location saisonnière, la
 décision d'aliéner ne peut être prise qu'après accord de la commune

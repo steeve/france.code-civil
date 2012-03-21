@@ -1,13 +1,18 @@
 Article L225-209
 ----
 L'assemblée générale d'une société dont les actions sont admises aux
-négociations sur un marché réglementé peut autoriser le conseil d'administration
-ou le directoire, selon le cas, à acheter un nombre d'actions représentant
-jusqu'à 10 % du capital de la société. L'assemblée générale définit les
-finalités et les modalités de l'opération, ainsi que son plafond. Cette
-autorisation ne peut être donnée pour une durée supérieure à dix-huit mois. Le
-comité d'entreprise est informé de la résolution adoptée par l'assemblée
-générale.
+négociations sur un marché réglementé ou sur un système multilatéral de
+négociation qui se soumet aux dispositions législatives ou réglementaires visant
+à protéger les investisseurs contre les opérations d'initiés, les manipulations
+de cours et la diffusion de fausses informations dans les conditions prévues par
+le règlement général de l'Autorité des marchés financiers, figurant sur une
+liste arrêtée par cette autorité dans les conditions fixées par son règlement
+général, peut autoriser le conseil d'administration ou le directoire, selon le
+cas, à acheter un nombre d'actions représentant jusqu'à 10 % du capital de la
+société. L'assemblée générale définit les finalités et les modalités de
+l'opération, ainsi que son plafond. Cette autorisation ne peut être donnée pour
+une durée supérieure à dix-huit mois. Le comité d'entreprise est informé de la
+résolution adoptée par l'assemblée générale.
 
 Lorsque les actions sont rachetées pour favoriser la liquidité dans les
 conditions définies par le règlement général de l'Autorité des marchés

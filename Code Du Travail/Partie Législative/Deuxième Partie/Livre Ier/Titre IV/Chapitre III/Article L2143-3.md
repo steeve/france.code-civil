@@ -1,7 +1,7 @@
 Article L2143-3
 ----
 Chaque organisation syndicale représentative dans l'entreprise ou
-l'établissement de cinquante salariés ou plus, qui constitue une section
+l'établissement d'au moins cinquante salariés, qui constitue une section
 syndicale, désigne parmi les candidats aux élections professionnelles qui ont
 recueilli au moins 10 % des suffrages exprimés au premier tour des dernières
 élections au comité d'entreprise ou de la délégation unique du personnel ou des
@@ -15,6 +15,6 @@ alinéa, une organisation syndicale représentative peut désigner un délégué
 syndical parmi les autres candidats ou, à défaut, parmi ses adhérents au sein de
 l'entreprise ou de l'établissement.
 
-La désignation d'un délégué syndical peut intervenir lorsque l'effectif de
-cinquante salariés ou plus a été atteint pendant douze mois, consécutifs ou non,
+La désignation d'un délégué syndical peut intervenir lorsque l'effectif d'au
+moins cinquante salariés a été atteint pendant douze mois, consécutifs ou non,
 au cours des trois années précédentes.

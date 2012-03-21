@@ -29,3 +29,8 @@ les conditions en vigueur avant la promulgation de la loi n° 99-574 du 9 juille
 
 Les conditions d'application du présent article sont fixées par décret en
 Conseil d'Etat.
+
+Le présent article n'est pas applicable aux personnes qui exercent simultanément
+une activité non salariée agricole et une activité non salariée non agricole au
+titre de laquelle ils ont opté pour le règlement simplifié des cotisations et
+contributions mentionné à l'article L. 133-6-8.

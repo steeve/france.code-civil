@@ -3,7 +3,7 @@ Article L6331-38
 Le taux de la cotisation est fixé comme suit :
 
 1° Pour les entreprises dont l'effectif moyen de l'année au titre de laquelle la
-cotisation est due est de dix salariés ou plus :
+cotisation est due est d'au moins dix salariés :
 
 a) 0,30 % pour les entreprises relevant du secteur des métiers du bâtiment ;
 

@@ -7,9 +7,7 @@ les dispositions du présent chapitre, être constitué sous la forme de sociét
 anonyme, de société à responsabilité limitée, de groupement d'intérêt économique
 ou de groupement européen d'intérêt économique.
 
-Est puni d'une amende de 9000 euros le fait de constituer un groupement de
-commerçants détaillants en infraction aux dispositions de l'alinéa précédent.
-
-Le tribunal peut en outre ordonner la cessation des opérations de l'organisme en
-cause et, s'il y a lieu, la confiscation des marchandises achetées et la
-fermeture des locaux utilisés.
+Le ministère public ou toute personne intéressée peut saisir le président du
+tribunal compétent statuant en référé afin d'enjoindre, le cas échéant sous
+astreinte, aux commerçants membres du groupement formé en violation du premier
+alinéa de se constituer sous l'une des formes prévues.

@@ -17,7 +17,7 @@ Le premier alinéa n'est pas applicable dans un secteur sauvegardé, dans une zo
 de protection du patrimoine architectural, urbain et paysager créée en
 application de l'article L. 642-1 du code du patrimoine, dans le périmètre de
 protection d'un immeuble classé ou inscrit au titre des monuments historiques
-défini par l'article L. 621-30-1 du même code, dans un site inscrit ou classé en
+défini par l'article L. 621-30 du même code, dans un site inscrit ou classé en
 application des articles L. 341-1 et L. 341-2 du code de l'environnement, à
 l'intérieur du cœur d'un parc national délimité en application de l'article L.
 331-2 du même code, ni aux travaux portant sur un immeuble classé ou inscrit au
@@ -29,7 +29,7 @@ l'architecte des Bâtiments de France, par délibération du conseil municipal o
 de l'organe délibérant de l'établissement public de coopération intercommunale
 compétent en matière de plan local d'urbanisme, motivée par la protection du
 patrimoine bâti ou non bâti, des paysages ou des perspectives monumentales et
-urbaines.L'avis de l'architecte des Bâtiments de France est réputé favorable
+urbaines. L'avis de l'architecte des Bâtiments de France est réputé favorable
 s'il n'est pas rendu par écrit dans un délai de deux mois après la transmission
 du projet de périmètre par le maire ou le président de l'établissement public de
 coopération intercommunale compétent en matière de plan local d'urbanisme. Le

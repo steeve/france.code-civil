@@ -13,12 +13,11 @@ portant sur un immeuble ou une partie d'immeuble, bâti ou non bâti, sauf
 lorsqu'elles sont consenties à l'un des coindivisaires, ainsi que les cessions
 de tantièmes contre remise de locaux à construire.
 
-En cas d'adjudication, lorsque cette procédure est rendue obligatoire par une
-disposition législative ou réglementaire, l'acquisition par le titulaire du
-droit de préemption a lieu au prix de la dernière enchère, par substitution à
-l'adjudicataire. Cette disposition n'est toutefois pas applicable à la vente
-mettant fin à une indivision créée volontairement, à moins que celle-ci résulte
-d'une donation-partage.
+En cas d'adjudication, lorsque cette procédure est autorisée ou ordonnée par un
+juge, l'acquisition par le titulaire du droit de préemption a lieu au prix de la
+dernière enchère, par substitution à l'adjudicataire. Cette disposition n'est
+toutefois pas applicable à la vente mettant fin à une indivision créée
+volontairement, à moins que celle-ci résulte d'une donation-partage.
 
 En cas de contrat de location-accession régi par les dispositions de la loi n°
 84-595 du 12 juillet 1984 définissant la location-accession à la propriété

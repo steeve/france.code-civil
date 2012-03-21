@@ -1,8 +1,5 @@
 Article L241-5
 ----
-Est puni d'un emprisonnement de six mois et d'une amende de 9 000 euros le fait,
-pour les gérants, de ne pas procéder à la réunion de l'assemblée des associés
-dans les six mois de la clôture de l'exercice ou, en cas de prolongation, dans
-le délai fixé par décision de justice, ou de ne pas soumettre à l'approbation de
-ladite assemblée ou de l'associé unique les documents prévus au 1° de l'article
-L. 241-4.
+Est puni de 9 000 € d'amende le fait, pour les gérants, de ne pas soumettre à
+l'approbation de l'assemblée des associés ou de l'associé unique l'inventaire,
+les comptes annuels et le rapport de gestion établis pour chaque exercice.

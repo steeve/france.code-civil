@@ -20,9 +20,9 @@ l'entreprise utilisatrice par l'entreprise prêteuse ;
 confié dans l'entreprise utilisatrice, les horaires et le lieu d'exécution du
 travail, ainsi que les caractéristiques particulières du poste de travail.
 
-A l'issue de sa mise à disposition, le salarié retrouve son poste de travail
-dans l'entreprise prêteuse sans que l'évolution de sa carrière ou de sa
-rémunération ne soit affectée par la période de prêt.
+A l'issue de sa mise à disposition, le salarié retrouve son poste de travail ou
+un poste équivalent dans l'entreprise prêteuse sans que l'évolution de sa
+carrière ou de sa rémunération ne soit affectée par la période de prêt.
 
 Les salariés mis à disposition ont accès aux installations et moyens de
 transport collectifs dont bénéficient les salariés de l'entreprise utilisatrice.

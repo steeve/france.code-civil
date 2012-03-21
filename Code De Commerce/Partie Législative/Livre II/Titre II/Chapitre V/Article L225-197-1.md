@@ -11,6 +11,14 @@ L'assemblée générale extraordinaire fixe le pourcentage maximal du capital
 social pouvant être attribué dans les conditions définies au premier alinéa. Le
 nombre total des actions attribuées gratuitement ne peut excéder 10 % du capital
 social à la date de la décision de leur attribution par le conseil
+d'administration ou le directoire. Dans les sociétés dont les titres ne sont pas
+admis aux négociations sur un marché réglementé ou sur un système multilatéral
+de négociation et ne dépassant pas, à la clôture d'un exercice social, les
+seuils définissant les petites et moyennes entreprises prévus à l'article 2 de
+l'annexe à la recommandation 2003/361/CE de la Commission, du 6 mai 2003,
+concernant la définition des micro, petites et moyennes entreprises, les statuts
+peuvent prévoir un pourcentage plus élevé, qui ne peut toutefois excéder 15 % du
+capital social à la date de la décision d'attribution des actions par le conseil
 d'administration ou le directoire.
 
 Elle fixe également le délai pendant lequel cette autorisation peut être
@@ -48,9 +56,9 @@ Dans une société dont les titres sont admis aux négociations sur un marché
 réglementé, à l'issue de la période d'obligation de conservation, les actions ne
 peuvent pas être cédées :
 
-1° Dans le délai de dix séances de bourse précédant et suivant la date à
-laquelle les comptes consolidés, ou à défaut les comptes annuels, sont rendus
-publics ;
+1° Dans le délai de dix séances de bourse précédant et de trois séances de
+bourse suivant la date à laquelle les comptes consolidés, ou à défaut les
+comptes annuels, sont rendus publics ;
 
 2° Dans le délai compris entre la date à laquelle les organes sociaux de la
 société ont connaissance d'une information qui, si elle était rendue publique,

@@ -22,7 +22,13 @@ juridiction administrative.
 
 II. - Les titulaires de droits réels et personnels portant sur les terrains
 inclus dans le site ainsi que les professionnels et utilisateurs des espaces
-marins situés dans le site peuvent adhérer à une charte Natura 2000. La charte
-Natura 2000 comporte un ensemble d'engagements définis par le document
-d'objectifs et pour lesquels le document d'objectifs ne prévoit aucune
-disposition financière d'accompagnement.
+situés dans le site peuvent adhérer à une charte Natura 2000. La charte Natura
+2000 comporte un ensemble d'engagements définis par le document d'objectifs et
+pour lesquels le document d'objectifs ne prévoit aucune disposition financière
+d'accompagnement.
+
+La charte peut également déterminer des engagements spécifiques à une activité
+qui permettent de garantir que celle-ci ne sera pas susceptible de porter
+atteinte au site de manière significative. Pour la période courant jusqu'à
+l'approbation du document d'objectifs, l'autorité administrative peut établir
+une charte comportant de tels engagements spécifiques.

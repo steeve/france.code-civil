@@ -1,6 +1,6 @@
 Article L4613-4
 ----
-Dans les établissements de cinq cents salariés et plus, le comité d'entreprise
+Dans les établissements d'au moins cinq cents salariés, le comité d'entreprise
 détermine, en accord avec l'employeur, le nombre des comités d'hygiène, de
 sécurité et des conditions de travail devant être constitués, eu égard à la
 nature, la fréquence et la gravité des risques, aux dimensions et à la

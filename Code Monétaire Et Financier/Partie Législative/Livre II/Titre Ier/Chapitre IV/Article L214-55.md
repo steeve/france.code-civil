@@ -9,3 +9,7 @@ limitée au montant de sa part dans le capital de la société.
 
 La société doit obligatoirement souscrire un contrat d'assurance garantissant sa
 responsabilité civile du fait des immeubles dont elle est propriétaire.
+
+En cas de non-respect du deuxième alinéa, la responsabilité personnelle des
+dirigeants de la société chargée de la gestion de la société civile de placement
+immobilier peut être engagée solidairement avec celle de cette dernière.

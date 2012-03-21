@@ -2,7 +2,11 @@ Article L225-100
 ----
 L'assemblée générale ordinaire est réunie au moins une fois par an, dans les six
 mois de la clôture de l'exercice, sous réserve de prolongation de ce délai par
-décision de justice.
+décision de justice. Si l'assemblée générale ordinaire n'a pas été réunie dans
+ce délai, le ministère public ou tout actionnaire peut saisir le président du
+tribunal compétent statuant en référé afin d'enjoindre, le cas échéant sous
+astreinte, aux dirigeants de convoquer cette assemblée ou de désigner un
+mandataire pour y procéder.
 
 Le conseil d'administration ou le directoire présente à l'assemblée son rapport
 ainsi que les comptes annuels et, le cas échéant, les comptes consolidés

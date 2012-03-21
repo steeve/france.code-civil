@@ -1,7 +1,10 @@
 Article L214-73
 ----
-Les associés sont réunis au moins une fois par an en assemblée générale
-ordinaire pour l'approbation des comptes de l'exercice.
+L'assemblée générale ordinaire est réunie dans un délai de six mois à compter de
+la clôture de l'exercice pour l'approbation des comptes. Le ministère public ou
+tout associé peut saisir le président du tribunal compétent statuant en référé
+afin d'enjoindre aux dirigeants, le cas échéant sous astreinte, de convoquer
+cette assemblée ou de désigner un mandataire pour y procéder.
 
 Chaque associé dispose d'un nombre de voix proportionnel à sa part du capital
 social. Les décisions sont prises à la majorité des voix dont disposent les
@@ -12,7 +15,10 @@ statuts. Sur deuxième convocation, aucun quorum n'est requis.
 
 Les documents qui sont communiqués aux associés préalablement à la tenue des
 assemblées générales ainsi que les formes et délais dans lesquels les associés
-sont convoqués à ces assemblées sont déterminés par décret.
+sont convoqués à ces assemblées sont déterminés par décret. Toute personne
+intéressée peut demander au président du tribunal compétent statuant en référé
+d'enjoindre aux dirigeants, le cas échéant sous astreinte, de communiquer ces
+documents aux associés.
 
 L'assemblée détermine le montant des bénéfices distribués aux associés à titre
 de dividende. En outre, l'assemblée peut décider la mise en distribution des

@@ -1,10 +1,10 @@
 Article L2142-1-1
 ----
 Chaque syndicat qui constitue, conformément à l'article L. 2142-1, une section
-syndicale au sein de l'entreprise ou de l'établissement de cinquante salariés ou
-plus peut, s'il n'est pas représentatif dans l'entreprise ou l'établissement,
-désigner un représentant de la section pour le représenter au sein de
-l'entreprise ou de l'établissement.
+syndicale au sein de l'entreprise ou de l'établissement d'au moins cinquante
+salariés peut, s'il n'est pas représentatif dans l'entreprise ou
+l'établissement, désigner un représentant de la section pour le représenter au
+sein de l'entreprise ou de l'établissement.
 
 Le représentant de la section syndicale exerce ses fonctions dans le cadre des
 dispositions du présent chapitre. Il bénéficie des mêmes prérogatives que le

@@ -7,12 +7,12 @@ activités présentant un caractère temporaire et sans effet important et durab
 sur le milieu naturel peuvent être accordés sans enquête publique réalisée
 conformément au chapitre III du titre II du livre Ier du présent code préalable.
 
-II.-L'autorisation peut être retirée ou modifiée, sans indemnité de la part de
+II.-L'autorisation peut être abrogée ou modifiée, sans indemnité de la part de
 l'Etat exerçant ses pouvoirs de police, dans les cas suivants :
 
-1° Dans l'intérêt de la salubrité publique, et notamment lorsque ce retrait ou
-cette modification est nécessaire à l'alimentation en eau potable des
-populations ;
+1° Dans l'intérêt de la salubrité publique, et notamment lorsque cette
+abrogation ou cette modification est nécessaire à l'alimentation en eau potable
+des populations ;
 
 2° Pour prévenir ou faire cesser les inondations ou en cas de menace pour la
 sécurité publique ;
@@ -32,8 +32,8 @@ l'Etat exerçant ses pouvoirs de police, dès lors que le fonctionnement des
 ouvrages ou des installations ne permet pas la préservation des espèces
 migratrices vivant alternativement en eau douce et en eau salée.
 
-III.-Tout refus, retrait ou modification d'autorisation doit être motivé auprès
-du demandeur.
+III.-Tout refus, abrogation ou modification d'autorisation doit être motivé
+auprès du demandeur.
 
 IV.-Un décret détermine les conditions dans lesquelles les autorisations de
 travaux ou d'activités présentant un caractère temporaire, périodique et

@@ -7,7 +7,7 @@ l'impôt sur le revenu au titre de l'année précédente.
 
 Pour le conjoint du chef d'entreprise mentionné au 3° du même article et pour le
 salarié dont le contrat de travail est suspendu, qui n'ont perçu aucune
-rémunération au titre de l'année précédente, les versements ne peuvent excéder
+rémunération au titre de l'année de versement, les versements ne peuvent excéder
 le quart du montant annuel du plafond prévu à l'article L. 241-3 du code de la
 sécurité sociale.
 

@@ -1,6 +1,6 @@
 Article L2323-51
 ----
-Chaque trimestre, dans les entreprises de trois cents salariés et plus,
+Chaque trimestre, dans les entreprises d'au moins trois cents salariés,
 l'employeur informe le comité d'entreprise :
 
 1° Des mesures envisagées en matière d'amélioration, de renouvellement ou de

@@ -1,7 +1,7 @@
 Article L1233-61
 ----
-Dans les entreprises de cinquante salariés et plus, lorsque le projet de
-licenciement concerne dix salariés ou plus dans une même période de trente
+Dans les entreprises d'au moins cinquante salariés, lorsque le projet de
+licenciement concerne au moins dix salariés dans une même période de trente
 jours, l'employeur établit et met en oeuvre un plan de sauvegarde de l'emploi
 pour éviter les licenciements ou en limiter le nombre.
 

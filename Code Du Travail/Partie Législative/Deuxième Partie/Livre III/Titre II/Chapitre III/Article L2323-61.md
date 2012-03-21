@@ -2,7 +2,7 @@ Article L2323-61
 ----
 Sans préjudice des obligations de consultation du comité d'entreprise incombant
 à l'employeur, un accord collectif de branche, d'entreprise ou de groupe peut
-adapter, dans les entreprises de trois cents salariés et plus, les modalités
+adapter, dans les entreprises d'au moins trois cents salariés, les modalités
 d'information du comité d'entreprise et organiser l'échange de vues auquel la
 transmission de ces informations donne lieu.
 

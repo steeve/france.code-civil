@@ -70,6 +70,10 @@ l'exercice de nouvelles activités humaines peuvent justifier, dans des
 conditions définies par le décret prévu au XIII, des dérogations motivées au
 respect des objectifs mentionnés aux 1° à 4° du IV et au VI.
 
+L'autorité administrative arrête la liste de ces dérogations après l'avoir mise
+à disposition du public, notamment par voie électronique, pendant une durée
+minimale de six mois afin de recueillir ses observations.
+
 VIII.-Le schéma directeur d'aménagement et de gestion des eaux indique comment
 sont pris en charge par les utilisateurs les coûts liés à l'utilisation de
 l'eau, en distinguant au moins le secteur industriel, le secteur agricole et les
@@ -92,7 +96,7 @@ sous-bassins pour lesquels un schéma d'aménagement et de gestion des eaux déf
 à l'article L. 212-3 est nécessaire pour respecter les orientations
 fondamentales et les objectifs fixés en application du présent article, et fixe
 le délai dans lequel le schéma d'aménagement et de gestion des eaux doit être
-élaboré et révisé.A défaut, l'autorité administrative arrête le périmètre et le
+élaboré et révisé. A défaut, l'autorité administrative arrête le périmètre et le
 délai selon les modalités prévues à l'article L. 212-3.
 
 XI.-Les programmes et les décisions administratives dans le domaine de l'eau

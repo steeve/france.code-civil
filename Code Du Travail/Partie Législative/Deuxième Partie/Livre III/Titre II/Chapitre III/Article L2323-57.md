@@ -1,6 +1,6 @@
 Article L2323-57
 ----
-Chaque année, dans les entreprises de trois cent salariés et plus, l'employeur
+Chaque année, dans les entreprises d'au moins trois cents salariés, l'employeur
 soumet pour avis au comité d'entreprise ou, à défaut, aux délégués du personnel,
 soit directement, soit, si elle existe, par l'intermédiaire de la commission de
 l'égalité professionnelle, un rapport écrit sur la situation comparée des

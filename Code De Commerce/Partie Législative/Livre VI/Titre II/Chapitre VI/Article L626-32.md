@@ -12,8 +12,13 @@ société par actions dont tous les actionnaires ne supportent les pertes qu'à
 concurrence de leurs apports, des conversions de créances en titres donnant ou
 pouvant donner accès au capital. Le projet de plan peut établir un traitement
 différencié entre les créanciers obligataires si les différences de situation le
-justifient.
+justifient. Il prend en compte les accords de subordination entre créanciers
+conclus avant l'ouverture de la procédure.
 
 La décision est prise à la majorité des deux tiers du montant des créances
 obligataires détenues par les porteurs ayant exprimé leur vote, nonobstant toute
 clause contraire et indépendamment de la loi applicable au contrat d'émission.
+Ne prennent pas part au vote les créanciers obligataires pour lesquels le projet
+de plan ne prévoit pas de modification des modalités de paiement ou prévoit un
+paiement intégral en numéraire dès l'arrêté du plan ou dès l'admission de leurs
+créances.

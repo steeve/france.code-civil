@@ -31,7 +31,7 @@ financiers qui leur sont liés, de toute société dont les actions sont admises
 aux négociations sur un marché réglementé et ayant son siège statutaire en
 France ou ayant son siège statutaire hors de l'Espace économique européen et
 relevant de la compétence de l'Autorité des marchés financiers pour le contrôle
-du respect de l'obligation d'information prévue à l'article L. 451-1-1.
+du respect de l'obligation d'information prévue au I de l'article L. 412-1.
 
 II.-L'Autorité des marchés financiers peut prévoir que les règles mentionnées au
 I sont également applicables, dans les conditions et selon des modalités fixées
@@ -39,7 +39,7 @@ par son règlement général, aux instruments financiers négociés sur tout mar
 d'instruments financiers ne constituant pas un marché réglementé, lorsque la
 personne qui gère ce marché en fait la demande.
 
-III. - Le règlement général de l'Autorité des marchés financiers peut également
+III.-Le règlement général de l'Autorité des marchés financiers peut également
 déterminer les obligations de déclarations relatives aux opérations effectuées
 sur les actifs mentionnés au II de l'article L. 421-1. Il précise également les
 personnes qui en sont redevables.

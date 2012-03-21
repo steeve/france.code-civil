@@ -1,6 +1,6 @@
 Article L244-1
 ----
-Les articles L. 242-1 à L. 242-6, L. 242-8, L. 242-17 à L. 242-29 s'appliquent
+Les articles L. 242-1 à L. 242-6, L. 242-8, L. 242-17 à L. 242-24 s'appliquent
 aux sociétés par actions simplifiées.
 
 Les peines prévues pour le président, les administrateurs ou les directeurs

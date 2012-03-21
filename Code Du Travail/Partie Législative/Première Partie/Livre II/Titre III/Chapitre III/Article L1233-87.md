@@ -1,10 +1,10 @@
 Article L1233-87
 ----
-Lorsqu'un licenciement collectif effectué par une entreprise de cinquante
-salariés et plus non soumise à l'obligation de proposer un congé de reclassement
-affecte, par son ampleur, l'équilibre du ou des bassins d'emploi dans lesquels
-elle est implantée, l'autorité administrative, après avoir, le cas échéant,
-prescrit une étude d'impact social et territorial prenant en compte les
+Lorsqu'un licenciement collectif effectué par une entreprise d'au moins
+cinquante salariés non soumise à l'obligation de proposer un congé de
+reclassement affecte, par son ampleur, l'équilibre du ou des bassins d'emploi
+dans lesquels elle est implantée, l'autorité administrative, après avoir, le cas
+échéant, prescrit une étude d'impact social et territorial prenant en compte les
 observations formulées par l'entreprise concernée, intervient pour faciliter la
 mise en oeuvre d'actions de nature à permettre le développement d'activités
 nouvelles et atténuer les effets de la restructuration envisagée sur les autres

@@ -1,6 +1,6 @@
 Article L2325-26
 ----
-Dans les entreprises de deux cents salariés et plus, le comité d'entreprise
+Dans les entreprises d'au moins deux cents salariés, le comité d'entreprise
 constitue une commission de la formation.
 
 Cette commission est chargée :

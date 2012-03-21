@@ -1,36 +1,50 @@
 Article L1245-5
 ----
-Seuls peuvent exercer l'activité d'importation et d'exportation à des fins
-thérapeutiques des tissus, de leurs dérivés, des cellules issus du corps humain,
-quel que soit leur niveau de préparation, et des préparations de thérapie
-cellulaire, les établissements ou les organismes autorisés par l'Agence
-française de sécurité sanitaire des produits de santé en application de
-l'article L. 1243-2 et qui obtiennent pour cette activité une autorisation
-spécifique. Cette autorisation est délivrée par l'Agence française de sécurité
-sanitaire des produits de santé après avis de l'Agence de la biomédecine.
+Seuls peuvent importer ou exporter à des fins thérapeutiques des tissus, leurs
+dérivés, des cellules issus du corps humain, quel que soit leur niveau de
+préparation, et des préparations de thérapie cellulaire préparés et conservés
+dans un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace
+économique européen, les établissements ou les organismes autorisés par l'Agence
+nationale de sécurité du médicament et des produits de santé, en application de
+l'article L. 1243-2.
 
-Tout produit mentionné à l'alinéa précédent, qui a été préparé et conservé dans
-un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace
-économique européen et qui n'a pas fait l'objet de l'autorisation prévue à
-l'article 6-2 de la directive 2004/23/ CE du Parlement européen et du Conseil du
-31 mars 2004 relative à l'établissement de normes de qualité et de sécurité pour
-le don, l'obtention, le contrôle, la transformation, la conservation, le
-stockage et la distribution des tissus et cellules humains, fait l'objet,
-préalablement à son importation, de l'autorisation prévue à l'article L. 1243-5.
+En outre, pour importer ou exporter les éléments ou produits mentionnés au
+premier alinéa du présent article en provenance ou à destination d'un Etat non
+membre de l'Union européenne ou n'étant pas partie à l'accord sur l'Espace
+économique européen, les établissements ou organismes autorisés en application
+de l'article L. 1243-2 sont soumis à une autorisation spécifique de l'Agence
+nationale de sécurité du médicament et des produits de santé, après avis de
+l'Agence de la biomédecine. Conformément à l'article 6 de la directive 2004/23/
+CE du Parlement européen et du Conseil du 31 mars 2004 relative à
+l'établissement de normes de qualité et de sécurité pour le don, l'obtention, le
+contrôle, la transformation, la conservation, le stockage et la distribution des
+tissus et cellules humains, cette autorisation porte à la fois sur l'activité
+des établissements et sur les éléments ou produits entrant dans la mise en œuvre
+des thérapies cellulaires ainsi que sur les tissus et leurs dérivés utilisés à
+des fins thérapeutiques. L'autorisation précise la catégorie de tissus et leurs
+dérivés ou de préparations de thérapie cellulaire et mentionne les accords
+passés entre un établissement et des tiers pour la réalisation de ces activités,
+les procédés de préparation et de conservation mis en œuvre ainsi que les
+indications thérapeutiques reconnues.
 
-Tout produit mentionné, au premier alinéa qui a été préparé et conservé dans un
-Etat non membre de l'Union européenne ni partie à l'accord sur l'Espace
-économique européen, fait l'objet, préalablement à son importation, de
-l'autorisation prévue à l'article L. 1243-5.
+Tout produit mentionné au premier alinéa, qui a été préparé et conservé dans un
+Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique
+européen et qui n'a pas fait l'objet de l'autorisation de procédé et de
+l'évaluation de ses propriétés thérapeutiques prévue à l'article 6-2 de la
+directive 2004/23/CE du Parlement européen et du Conseil du 31 mars 2004
+relative à l'établissement de normes de qualité et de sécurité pour le don,
+l'obtention, le contrôle, la transformation, la conservation, le stockage et la
+distribution des tissus et cellules humains, fait l'objet, préalablement à son
+importation, de l'autorisation prévue à l'article L. 1243-2.
 
-Lorsque les produits ne bénéficient pas de l'autorisation mentionnée à l'article
-L. 1243-5, l'établissement ou l'organisme qui envisage d'exporter ces produits
-communique à l'Agence française de sécurité sanitaire des produits de santé les
-motifs pour lesquels cette autorisation n'est pas disponible. L'agence
-communique ces motifs aux autorités de santé compétentes du pays importateur.
-L'agence peut, pour des raisons liées à l'absence de qualité ou de sécurité,
-interdire l'exportation des produits pour lesquels elle a refusé l'autorisation
-mentionnée à l'article L. 1243-5.
+Lorsque les produits ne bénéficient pas de l'autorisation de procédé mentionnée
+à l'article L. 1243-2, l'établissement ou l'organisme qui envisage d'exporter
+ces produits communique à l'Agence française de sécurité sanitaire des produits
+de santé les motifs pour lesquels cette autorisation n'est pas
+disponible.L'agence communique ces motifs aux autorités de santé compétentes du
+pays importateur.L'agence peut, pour des raisons liées à l'absence de qualité ou
+de sécurité, interdire l'exportation des produits pour lesquels elle a refusé
+l'autorisation mentionnée à l'article L. 1243-2.
 
 Les fabricants de dispositifs médicaux de diagnostic in vitro, les fabricants de
 produits thérapeutiques annexes et les fabricants de produits pharmaceutiques

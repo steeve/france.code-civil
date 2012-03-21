@@ -6,7 +6,7 @@ participation des employeurs de moins de dix salariés calculée dans les
 conditions définies par les articles L. 6331-2 et L. 6322-37 ;
 
 2° Les sommes correspondant à un pourcentage de la participation des employeurs
-de dix salariés et plus calculée dans les conditions définies par les premier et
+d'au moins dix salariés calculée dans les conditions définies par les premier et
 troisième alinéas de l'article L. 6331-9 et par l'article L. 6322-37 ;
 
 3° Les sommes dont disposent les organismes collecteurs paritaires agréés au
@@ -31,7 +31,7 @@ sont calculées en appliquant le pourcentage mentionné à l'alinéa précédent
 titre du plan de formation et de la professionnalisation, elles sont déterminées
 par un accord de branche ou un accord collectif conclu entre les organisations
 syndicales de salariés et d'employeurs signataires de l'accord constitutif d'un
-organisme collecteur paritaire agréé interprofessionnel.A défaut d'accord en
+organisme collecteur paritaire agréé interprofessionnel. A défaut d'accord en
 vigueur au 1er janvier de l'année de collecte, elles sont calculées en
 appliquant le pourcentage mentionné à l'alinéa précédent de manière identique à
 chacune de ces participations. Les pourcentages appliqués respectivement, par

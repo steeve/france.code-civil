@@ -1,6 +1,6 @@
 Article L2323-56
 ----
-Chaque année, dans les entreprises de trois cents salariés et plus, à l'occasion
+Chaque année, dans les entreprises d'au moins trois cents salariés, à l'occasion
 de la réunion prévue à l'article L. 2323-55, le comité d'entreprise est informé
 et consulté sur :
 

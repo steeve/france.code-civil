@@ -8,8 +8,9 @@ présente partie relatives à la protection des personnes qui se prêtent à des
 recherches biomédicales.
 
 Dans le cas des recherches biomédicales portant sur les préparations de thérapie
-cellulaire mentionnées à l'article L. 1243-1, l'autorisation de mener la
-recherche vaut également autorisation, pour cette recherche, des lieux de
-prélèvement, de conservation, de préparation et d'administration mentionnés aux
-articles L. 1242-1, L. 1243-2 et L. 1243-6 et elle vaut autorisation
-d'importation et d'exportation mentionnée à l'article L. 1245-5.
+cellulaire mentionnées à l'article L. 1243-1 et sur les tissus et leurs dérivés,
+l'autorisation de mener la recherche vaut également autorisation, pour cette
+recherche, des lieux de prélèvement, de conservation, de préparation et
+d'administration mentionnés aux articles L. 1242-1, L. 1243-2 et L. 1243-6 et
+elle vaut autorisation d'importation et d'exportation mentionnée à l'article L.
+1245-5.

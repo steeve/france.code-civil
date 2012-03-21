@@ -17,7 +17,7 @@ de la biomédecine peut, à tout moment, suspendre ou retirer l'autorisation.
 L'Agence française de sécurité sanitaire des produits de santé est informée des
 activités de conservation d'embryons ou de cellules souches embryonnaires à des
 fins de recherche réalisées sur le même site que des activités autorisées par
-elle en application des articles L. 1243-2 et L. 1243-5.
+elle en application de l'article L. 1243-2.
 
 Les organismes mentionnés au premier alinéa ne peuvent céder des embryons ou des
 cellules souches embryonnaires qu'à un organisme titulaire d'une autorisation

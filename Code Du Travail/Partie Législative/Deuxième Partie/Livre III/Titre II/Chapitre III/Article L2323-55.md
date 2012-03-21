@@ -1,6 +1,6 @@
 Article L2323-55
 ----
-Au moins une fois par an, dans les entreprises de trois cents salariés et plus,
+Au moins une fois par an, dans les entreprises d'au moins trois cents salariés,
 l'employeur remet au comité d'entreprise un rapport d'ensemble sur la situation
 économique et les perspectives de l'entreprise pour l'année à venir.
 

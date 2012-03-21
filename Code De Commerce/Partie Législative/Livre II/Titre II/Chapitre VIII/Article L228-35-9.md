@@ -3,10 +3,14 @@ Article L228-35-9
 Il est interdit à la société qui a émis des actions à dividende prioritaire sans
 droit de vote d'amortir son capital.
 
+Peuvent être annulés les remboursements effectués avant le rachat intégral ou
+l'annulation des actions à dividende prioritaire sans droit de vote.
+
 En cas de réduction du capital non motivée par des pertes, les actions à
 dividende prioritaire sans droit de vote sont, avant les actions ordinaires,
 achetées dans les conditions prévues aux deux derniers alinéas de l'article L.
-228-35-10 et annulées.
+228-35-10 et annulées. Peut être annulé l'achat d'actions ordinaires qui ne
+respecterait pas le présent alinéa.
 
 Toutefois, ces dispositions ne sont pas applicables aux réductions de capital
 réalisées dans le cadre de l'article L. 225-209. Dans ce cas, les dispositions

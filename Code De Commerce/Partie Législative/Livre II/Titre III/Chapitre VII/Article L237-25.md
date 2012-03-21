@@ -14,3 +14,8 @@ conseil de surveillance.
 
 Si l'assemblée n'est pas réunie, le rapport prévu au premier alinéa ci-dessus
 est déposé au greffe du tribunal de commerce et communiqué à tout intéressé.
+
+A défaut d'accomplir ces diligences, le liquidateur peut être déchu de tout ou
+partie de son droit à rémunération pour l'ensemble de sa mission par le
+président du tribunal saisi en application de l'article L. 238-2. Il peut en
+outre être révoqué selon les mêmes formes.

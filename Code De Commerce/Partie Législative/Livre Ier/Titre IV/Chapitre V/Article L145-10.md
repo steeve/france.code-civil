@@ -2,7 +2,7 @@ Article L145-10
 ----
 A défaut de congé, le locataire qui veut obtenir le renouvellement de son bail
 doit en faire la demande soit dans les six mois qui précèdent l'expiration du
-bail, soit, le cas échéant, à tout moment au cours de sa reconduction.
+bail, soit, le cas échéant, à tout moment au cours de sa prolongation.
 
 La demande en renouvellement doit être signifiée au bailleur par acte
 extrajudiciaire. Sauf stipulations ou notifications contraires de la part de

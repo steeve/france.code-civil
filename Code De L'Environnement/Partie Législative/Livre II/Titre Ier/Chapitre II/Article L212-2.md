@@ -4,15 +4,25 @@ I. - Le comité de bassin compétent dans chaque bassin ou groupement de bassins
 élabore et met à jour le ou les schémas directeurs d'aménagement et de gestion
 des eaux et en suit l'application.
 
-II. - Le comité de bassin recueille les observations du public sur le projet de
-schéma directeur d'aménagement et de gestion des eaux.
+II. - Le comité de bassin organise la participation du public à l'élaboration du
+schéma directeur d'aménagement et de gestion des eaux. Un an au moins avant la
+date prévue de son entrée en vigueur, il met le projet de schéma directeur à la
+disposition du public, pendant une durée minimale de six mois, dans les
+préfectures, au siège de l'agence de l'eau du bassin et, éventuellement, par
+voie électronique, afin de recueillir ses observations. Les modalités de cette
+consultation sont portées à la connaissance du public quinze jours au moins
+avant le début de la mise à disposition du projet de schéma.
 
-Il soumet ensuite le projet, éventuellement modifié pour tenir compte des
-observations du public, à l'avis des conseils régionaux, des conseils généraux,
-des établissements publics territoriaux de bassin et des chambres consulaires
-concernés. Ces avis sont réputés favorables s'ils n'interviennent pas dans un
-délai de quatre mois suivant la transmission du projet. Le comité de bassin peut
-modifier le projet pour tenir compte des avis formulés.
+Le comité de bassin soumet le projet de schéma à l'avis du Comité national de
+l'eau, du Conseil supérieur de l'énergie, des conseils régionaux, des conseils
+généraux, des établissements publics territoriaux de bassin, des chambres
+consulaires, des organismes de gestion des parcs naturels régionaux et des
+établissements publics des parcs nationaux concernés. Ces avis sont réputés
+favorables s'ils ne sont pas rendus dans un délai de quatre mois suivant la
+transmission du projet.
+
+Le comité de bassin peut modifier le projet pour tenir compte des avis et
+observations formulés.
 
 III. - Le schéma directeur d'aménagement et de gestion des eaux est adopté par
 le comité de bassin et approuvé par l'autorité administrative. Il est tenu à la

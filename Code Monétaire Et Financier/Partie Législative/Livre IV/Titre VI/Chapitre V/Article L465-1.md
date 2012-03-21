@@ -13,13 +13,15 @@ réglementé, de réaliser ou de permettre de réaliser, soit directement, soit 
 personne interposée, une ou plusieurs opérations avant que le public ait
 connaissance de ces informations.
 
-Est puni d'un an d'emprisonnement et de 150 000 euros d'amende le fait, pour
-toute personne disposant dans l'exercice de sa profession ou de ses fonctions
-d'une information privilégiée sur les perspectives ou la situation d'un émetteur
-dont les titres sont négociés sur un marché réglementé ou sur les perspectives
-d'évolution d'un instrument financier ou d'un actif visé au II de l'article L.
-421-1 admis sur un marché réglementé, de la communiquer à un tiers en dehors du
-cadre normal de sa profession ou de ses fonctions.
+Est puni d'un an d'emprisonnement et de 150 000 euros d'amende dont le montant
+peut être porté au-delà de ce chiffre, jusqu'au décuple du montant du profit
+éventuellement réalisé, sans que l'amende puisse être inférieure à ce même
+profit, le fait, pour toute personne disposant dans l'exercice de sa profession
+ou de ses fonctions d'une information privilégiée sur les perspectives ou la
+situation d'un émetteur dont les titres sont négociés sur un marché réglementé
+ou sur les perspectives d'évolution d'un instrument financier ou d'un actif visé
+au II de l'article L. 421-1 admis sur un marché réglementé, de la communiquer à
+un tiers en dehors du cadre normal de sa profession ou de ses fonctions.
 
 Est puni d'un an d'emprisonnement et d'une amende de 150 000 euros dont le
 montant peut être porté au-delà de ce chiffre, jusqu'au décuple du montant du

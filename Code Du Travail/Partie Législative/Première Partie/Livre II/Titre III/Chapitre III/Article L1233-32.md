@@ -6,5 +6,5 @@ les mesures qu'il envisage de mettre en oeuvre pour éviter les licenciements ou
 en limiter le nombre et pour faciliter le reclassement du personnel dont le
 licenciement ne pourrait être évité.
 
-Dans les entreprises de cinquante salariés et plus, l'employeur adresse le plan
+Dans les entreprises d'au moins cinquante salariés, l'employeur adresse le plan
 de sauvegarde de l'emploi concourant aux mêmes objectifs.

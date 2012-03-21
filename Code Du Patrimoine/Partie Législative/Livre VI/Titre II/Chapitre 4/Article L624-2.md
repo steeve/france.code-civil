@@ -5,7 +5,7 @@ les dispositions de l'article L. 621-7 relatif aux effets de la proposition de
 classement au titre des monuments historiques d'un immeuble, de l'article L.
 621-19 relatif aux effets de la notification d'une demande d'expropriation, de
 l'article L. 621-9 relatif aux modifications d'un immeuble classé au titre des
-monuments historiques, des articles L. 621-16 et L. 621-30 relatifs aux
+monuments historiques, des articles L. 621-16 et L. 621-31 relatifs aux
 constructions neuves et aux servitudes ou de l'article L. 622-7 relatif à la
 modification d'un objet mobilier classé au titre des monuments historiques, sans
 préjudice de l'action en dommages-intérêts qui pourra être exercée contre ceux

@@ -1,7 +1,7 @@
 Article L2242-15
 ----
 Dans les entreprises et les groupes d'entreprises au sens de l'article L. 2331-1
-de trois cents salariés et plus, ainsi que dans les entreprises et groupes
+d'au moins trois cents salariés, ainsi que dans les entreprises et groupes
 d'entreprises de dimension communautaire au sens des articles L. 2341-1 et L.
 2341-2 comportant au moins un établissement ou une entreprise de cent cinquante
 salariés en France, l'employeur engage tous les trois ans une négociation

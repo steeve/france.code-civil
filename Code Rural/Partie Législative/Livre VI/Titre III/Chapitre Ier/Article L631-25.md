@@ -15,7 +15,7 @@ clauses obligatoires ;
 
 ― ou, pour les produits soumis à accises, de ne pas exécuter le contrat
 conformément à ces clauses obligatoires, incluant celles relatives aux délais de
-paiement tels que définis au 3° de l'article L. 443-1 du code de commerce.
+paiement tels que définis au 4° de l'article L. 443-1 du code de commerce.
 
 Est sanctionné de la même manière le fait pour une société mentionnée à
 l'article L. 521-1 de ne pas remettre à un associé coopérateur un exemplaire des

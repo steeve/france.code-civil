@@ -11,3 +11,10 @@ prévention ainsi que les méthodes de travail et de production garantissant un
 meilleur niveau de protection de la santé et de la sécurité des travailleurs. Il
 intègre ces actions et ces méthodes dans l'ensemble des activités de
 l'établissement et à tous les niveaux de l'encadrement.
+
+Lorsque les documents prévus par les dispositions réglementaires prises pour
+l'application du présent article doivent faire l'objet d'une mise à jour,
+celle-ci peut être moins fréquente dans les entreprises de moins de onze
+salariés, sous réserve que soit garanti un niveau équivalent de protection de la
+santé et de la sécurité des travailleurs, dans des conditions fixées par décret
+en Conseil d'Etat après avis des organisations professionnelles concernées.

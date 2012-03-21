@@ -65,3 +65,9 @@ un périmètre de transports urbains résultant soit de la création d'un
 compétent en matière de transports urbains, soit du transfert de la compétence
 en matière d'organisation de transports urbains à un établissement public de
 coopération intercommunale doté de fiscalité propre dont elles sont membres.
+Toute modification de taux entre en vigueur au 1er janvier ou au 1er juillet de
+chaque année ; la délibération fixant le nouveau taux est transmise par
+l'autorité organisatrice des transports aux organismes de recouvrement avant,
+respectivement, le 1er novembre ou le 1er mai de chaque année. Les organismes de
+recouvrement communiquent le nouveau taux aux assujettis au plus tard un mois
+après ces dernières dates.

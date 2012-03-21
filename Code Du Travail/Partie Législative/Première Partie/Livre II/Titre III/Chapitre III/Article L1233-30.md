@@ -1,7 +1,7 @@
 Article L1233-30
 ----
-Dans les entreprises ou établissements employant habituellement cinquante
-salariés et plus, l'employeur réunit et consulte le comité d'entreprise.
+Dans les entreprises ou établissements employant habituellement au moins
+cinquante salariés, l'employeur réunit et consulte le comité d'entreprise.
 
 Il peut procéder à ces opérations concomitamment à la mise en oeuvre de la
 procédure de consultation prévue par l'article L. 2323-15.

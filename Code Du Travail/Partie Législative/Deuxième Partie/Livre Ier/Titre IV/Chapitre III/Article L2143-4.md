@@ -1,6 +1,6 @@
 Article L2143-4
 ----
-Dans les entreprises de cinq cents salariés et plus, tout syndicat représentatif
+Dans les entreprises d'au moins cinq cents salariés, tout syndicat représentatif
 dans l'entreprise peut désigner un délégué syndical supplémentaire s'il a obtenu
 un ou plusieurs élus dans le collège des ouvriers et employés lors de l'élection
 du comité d'entreprise et s'il compte au moins un élu dans l'un des deux autres

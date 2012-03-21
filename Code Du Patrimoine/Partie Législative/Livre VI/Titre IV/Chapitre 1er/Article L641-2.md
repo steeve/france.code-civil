@@ -3,7 +3,7 @@ Article L641-2
 Les règles relatives aux sanctions fixées par l'article L. 480-1 du code de
 l'urbanisme sont applicables au présent titre et ci-après reproduites :
 
-" Art.L. 480-1.-Les infractions aux dispositions des titres Ier, II, III, IV et
+" Art. L. 480-1.-Les infractions aux dispositions des titres Ier, II, III, IV et
 VI du présent livre sont constatées par tous officiers ou agents de police
 judiciaire ainsi que par tous les fonctionnaires et agents de l'Etat et des
 collectivités publiques commissionnés à cet effet par le maire ou le ministre
@@ -31,12 +31,12 @@ Copie du procès-verbal constatant une infraction est transmise sans délai au
 ministère public.
 
 Toute association agréée de protection de l'environnement en application des
-dispositions de l'article L. 252-1 du code rural et de la pêche maritime peut
-exercer les droits reconnus à la partie civile en ce qui concerne les faits
-constituant une infraction à l'alinéa 1er du présent article et portant un
-préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de
-défendre.
+dispositions de l'article L. 141-1 du code de l'environnement peut exercer les
+droits reconnus à la partie civile en ce qui concerne les faits constituant une
+infraction à l'alinéa 1er du présent article et portant un préjudice direct ou
+indirect aux intérêts collectifs qu'elle a pour objet de défendre.
 
-La commune peut exercer les droits reconnus à la partie civile, en ce qui
-concerne les faits commis sur son territoire et constituant une infraction à
-l'alinéa premier du présent article. "
+La commune ainsi que l'établissement public de coopération intercommunale
+compétent en matière d'urbanisme peuvent exercer les droits reconnus à la partie
+civile, en ce qui concerne les faits commis sur leur territoire et constituant
+une infraction à l'alinéa premier du présent article. "

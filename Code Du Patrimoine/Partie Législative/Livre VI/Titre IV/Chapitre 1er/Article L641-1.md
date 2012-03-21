@@ -4,8 +4,8 @@ Les règles relatives aux secteurs sauvegardés sont fixées aux articles L. 313
 à L. 313-3 et L. 313-11 à L. 313-15 du code de l'urbanisme, ci-après reproduits
 :
 
-" Art. L. 313-1-I.-Des secteurs dits " secteurs sauvegardés " peuvent être créés
-lorsqu'ils présentent un caractère historique, esthétique ou de nature à
+" Art. L. 313-1. - I. - Des secteurs dits " secteurs sauvegardés " peuvent être
+créés lorsqu'ils présentent un caractère historique, esthétique ou de nature à
 justifier la conservation, la restauration et la mise en valeur de tout ou
 partie d'un ensemble d'immeubles bâtis ou non.
 
@@ -110,7 +110,7 @@ concerné."
 " Art. L. 313-2-1-Les immeubles situés dans le périmètre d'un secteur sauvegardé
 dont le plan de sauvegarde et de mise en valeur a été approuvé ne sont pas
 soumis aux servitudes d'utilité publique instituées en application de l'article
-L. 621-30-1, des articles L. 621-31 et L. 621-32 du code du patrimoine et de
+L. 621-30, des articles L. 621-31 et L. 621-32 du code du patrimoine et de
 l'article L. 341-1 du code de l'environnement. "
 
 " Art. L. 313-3-Les opérations de conservation, de restauration et de mise en

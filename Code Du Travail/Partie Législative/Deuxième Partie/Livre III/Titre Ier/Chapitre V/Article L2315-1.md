@@ -6,4 +6,4 @@ exceptionnelles, ne peut excéder :
 
 1° Dix heures par mois dans les entreprises de moins de cinquante salariés ;
 
-2° Quinze heures par mois dans les entreprises de cinquante salariés et plus.
+2° Quinze heures par mois dans les entreprises d'au moins cinquante salariés.

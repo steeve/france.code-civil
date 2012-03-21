@@ -16,9 +16,9 @@ fraction du produit de l'émission, des mêmes droits que ceux conférés aux
 porteurs d'obligations émises par les associations par les articles L. 213-15,
 L. 213-17 et L. 213-19.
 
-Les dispositions des articles L. 213-19 et L. 231-2 sont applicables aux
-dirigeants de groupements d'intérêt économique constitués par des associations
-en vue de l'émission d'obligations.
+L'article L. 213-19 est applicable aux dirigeants de groupements d'intérêt
+économique constitués par des associations en vue de l'émission d'obligations.
 
-Les dispositions du premier alinéa de l'article L. 213-15 et de l'article L.
-213-17 sont applicables à ces groupements.
+Les dispositions des articles L. 213-8 et L. 213-10, du premier alinéa de
+l'article L. 213-15 et de l'article L. 213-17 sont applicables à ces
+groupements.

@@ -16,7 +16,7 @@ Ce temps est au moins égal à :
 4° Quinze heures par mois dans les établissements employant de 500 à 1 499
 salariés ;
 
-5° Vingt heures par mois dans les établissements employant 1 500 salariés et
-plus.
+5° Vingt heures par mois dans les établissements employant au moins mille cinq
+cents salariés.
 
 Ce temps peut être dépassé en cas de circonstances exceptionnelles.

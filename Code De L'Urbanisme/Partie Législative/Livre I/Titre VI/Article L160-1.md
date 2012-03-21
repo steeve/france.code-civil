@@ -11,7 +11,7 @@ plans mentionnés ci-dessus.
 Les sanctions édictées à l'article L. 480-4 s'appliquent également :
 
 a) En cas d'exécution de travaux ou d'utilisation du sol en méconnaissance des
-obligations imposées par les articles L. 111-1 à L. 111-1-4, L111-3 et L.
+obligations imposées par les articles L. 111-1 à L. 111-1-4, L. 111-3 et L.
 111-5-2 ainsi que par les règlements pris pour leur application ;
 
 b) En cas de coupes et d'abattages d'arbres effectués en infraction aux
@@ -34,11 +34,11 @@ en application de l'article L. 111-3-1, avant la réception de cette étude par 
 commission compétente en matière de sécurité publique.
 
 Toute association agréée de protection de l'environnement en application des
-dispositions de l'article L. 252-1 du code rural et de la pêche maritime, peut
-exercer les droits reconnus à la partie civile en ce qui concerne les faits
-constituant une infraction aux alinéas premier et second du présent article et
-portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour
-objet de défendre.
+dispositions de l'article L. 141-1 du code de l'environnement, peut exercer les
+droits reconnus à la partie civile en ce qui concerne les faits constituant une
+infraction aux alinéas premier et second du présent article et portant un
+préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de
+défendre.
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles les associations
 visées à l'alinéa précédent pourront être agréées. Dans les départements du

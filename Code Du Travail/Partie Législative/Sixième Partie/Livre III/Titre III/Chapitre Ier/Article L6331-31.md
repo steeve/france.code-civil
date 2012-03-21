@@ -1,6 +1,6 @@
 Article L6331-31
 ----
-L'employeur de cinquante salariés et plus atteste sur l'honneur qu'il a
+L'employeur d'au moins cinquante salariés atteste sur l'honneur qu'il a
 satisfait à l'obligation de consultation du comité d'entreprise prévue à
 l'article L. 6331-12. A la demande de l'administration, il produit les
 procès-verbaux justifiant du respect de cette obligation.

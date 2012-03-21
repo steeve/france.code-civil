@@ -1,9 +1,9 @@
 Article 101
 ----
-1. Après enregistrement de la déclaration en détail, le service des douanes
-procède, s'il le juge utile, à la vérification de tout ou partie des
-marchandises déclarées.
-
-2. En cas de contestation, le déclarant a le droit de récuser le résultats de la
-vérification partielle et de demander la vérification intégrale des énonciations
-de la déclaration sur lesquelles porte la contestation.
+En cas de vérification des marchandises prévue au titre IV du règlement (CEE) n°
+2913/92 du Conseil du 12 octobre 1992 établissant le code des douanes
+communautaire et au titre VIII de la partie I du règlement (CEE) n° 2454/93 de
+la Commission du 2 juillet 1993 fixant certaines dispositions d'application du
+règlement (CEE) n° 2913/92 du Conseil établissant le code des douanes
+communautaire, les modalités de prélèvement des échantillons sont définies par
+décret en Conseil d'Etat.

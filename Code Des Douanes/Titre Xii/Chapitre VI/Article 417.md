@@ -7,8 +7,7 @@ territoire douanier.
 
 2. Constituent, en particulier, des faits de contrebande :
 
-a) la violation des dispositions des articles 75, 76-2, 78-1, 81-1, 83, 198, 199
-et 205 ci-dessus ;
+a) La violation des articles 75, 76-2, 78-1, 81-1 et 83 ;
 
 b) les versements frauduleux ou embarquements frauduleux effectués soit dans
 l'enceinte des ports, soit sur les côtes, à l'exception des débarquements

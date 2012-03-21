@@ -6,6 +6,3 @@ lisiblement la dénomination du groupement suivie des mots : "groupement
 d'intérêt économique" ou du sigle :
 
 "GIE".
-
-Toute infraction aux dispositions de l'alinéa ci-dessus est punie d'une amende
-de 3 750 euros.

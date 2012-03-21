@@ -1,7 +1,7 @@
 Article L1233-34
 ----
-Dans les entreprises de cinquante salariés et plus, lorsque le projet de
-licenciement concerne dix salariés ou plus dans une même période de trente
+Dans les entreprises d'au moins cinquante salariés, lorsque le projet de
+licenciement concerne au moins dix salariés dans une même période de trente
 jours, le comité d'entreprise peut recourir à l'assistance d'un expert-comptable
 en application de l'article L. 2325-35. Le comité prend sa décision lors de la
 première réunion prévue à l'article L. 1233-30.

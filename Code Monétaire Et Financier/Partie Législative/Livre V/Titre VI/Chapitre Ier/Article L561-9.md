@@ -19,8 +19,27 @@ définie par décret en Conseil d'Etat ;
 561-2, établie ou ayant son siège en France, dans un autre Etat membre de
 l'Union européenne ou dans un pays tiers imposant des obligations équivalentes
 de lutte contre le blanchiment et le financement du terrorisme. La liste de ces
-pays est arrêtée par le ministre chargé de l'économie.
+pays est arrêtée par le ministre chargé de l'économie ;
+
+3° Lorsqu'elles se livrent à des opérations d'assurance ne portant pas sur les
+branches vie-décès ou nuptialité-natalité, n'étant pas liées à des fonds
+d'investissement, ne relevant pas des opérations comportant la constitution
+d'associations réunissant des adhérents en vue de capitaliser en commun leurs
+cotisations et de répartir l'avoir ainsi constitué soit entre les survivants,
+soit entre les ayants droit des décédés, ou ne relevant pas des branches de
+capitalisation ou de gestion de fonds collectifs ou de toute opération à
+caractère collectif définie à la section 1 du chapitre Ier du titre IV du livre
+IV du code des assurances.
 
 Les personnes mentionnées à l'article L. 561-2 recueillent des informations
 suffisantes sur leur client à l'effet de vérifier qu'il est satisfait aux
-conditions prévues aux deux précédents alinéas.
+conditions prévues aux 1° à 3°.
+
+III. ― Par dérogation au I de l'article L. 561-5, lorsque le risque de
+blanchiment de capitaux ou de financement du terrorisme paraît faible, les
+personnes mentionnées aux 1° et 1° bis de l'article L. 561-2 peuvent,
+lorsqu'elles effectuent des prestations de services de paiement en ligne, dans
+des conditions et pour les catégories d'entre elles fixées par décret en Conseil
+d'Etat, pour autant qu'il n'existe pas de soupçon de blanchiment de capitaux ou
+de financement du terrorisme, ne pas vérifier l'identité de leur client et, le
+cas échéant, du bénéficiaire effectif de la relation d'affaires.

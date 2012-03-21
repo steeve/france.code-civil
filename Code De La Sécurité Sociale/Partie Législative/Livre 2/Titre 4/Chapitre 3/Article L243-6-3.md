@@ -13,14 +13,23 @@ livre Ier ;
 3° Aux mesures réglementaires spécifiques relatives aux avantages en nature et
 aux frais professionnels prises en application de l'article L. 242-1 ;
 
-4° Aux exemptions d'assiette mentionnées à l'article L. 242-1.
+4° Aux exemptions d'assiette mentionnées à l'article L. 242-1 ; 5° Aux
+cotisations et contributions dues sur les rémunérations mentionnées à l'article
+L. 242-1-4 ;
+
+6° Aux règles de déclaration et de paiement des cotisations prévues au présent
+chapitre.
 
 La demande du cotisant ne peut être formulée lorsqu'un contrôle prévu à
 l'article L. 243-7 a été engagé.
 
-La décision explicite doit intervenir dans un délai fixé par voie réglementaire.
+La décision explicite doit intervenir dans un délai fixé par décret en Conseil
+d'Etat. Ce décret peut également prévoir les modalités suivant lesquelles
+certaines demandes qu'il détermine peuvent faire l'objet de décisions
+d'acceptation tacite.
 
-Lorsqu'à l'issue du délai imparti, l'organisme de recouvrement n'a pas notifié
+Sauf pour les demandes donnant lieu à une décision d'acceptation tacite,
+lorsqu'à l'issue du délai imparti, l'organisme de recouvrement n'a pas notifié
 au demandeur sa décision, il ne peut être procédé à un redressement de
 cotisations ou contributions sociales, fondé sur la législation au regard de
 laquelle devait être appréciée la situation de fait exposée dans la demande, au

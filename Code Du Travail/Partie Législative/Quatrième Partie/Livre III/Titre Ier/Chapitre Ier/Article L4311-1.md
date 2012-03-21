@@ -5,7 +5,8 @@ importés, loués, mis à disposition ou cédés à quelque titre que ce soit so
 conçus et construits de sorte que leur mise en place, leur utilisation, leur
 réglage, leur maintenance, dans des conditions conformes à leur destination,
 n'exposent pas les personnes à un risque d'atteinte à leur santé ou leur
-sécurité.
+sécurité et assurent, le cas échéant, la protection des animaux domestiques, des
+biens ainsi que de l'environnement.
 
 Les moyens de protection, qui font l'objet des opérations mentionnées au premier
 alinéa, sont conçus et fabriqués de manière à protéger les personnes, dans des

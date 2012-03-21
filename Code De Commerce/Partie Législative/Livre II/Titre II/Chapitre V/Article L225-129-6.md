@@ -12,11 +12,16 @@ L. 225-129-2.
 
 Tous les trois ans, une assemblée générale extraordinaire est convoquée pour se
 prononcer sur un projet de résolution tendant à réaliser une augmentation de
-capital dans les conditions prévues aux articles L. 3332-18 à L. 3332-24 du code
-du travail si, au vu du rapport présenté à l'assemblée générale par le conseil
-d'administration ou le directoire en application de l'article L. 225-102, les
-actions détenues par le personnel de la société et des sociétés qui lui sont
-liées au sens de l'article L. 225-180 représentent moins de 3 % du capital.
+capital dans les conditions prévues à la section 4 du chapitre II du titre III
+du livre III de la troisième partie du code du travail si, au vu du rapport
+présenté à l'assemblée générale par le conseil d'administration ou le directoire
+en application de l'article L. 225-102, les actions détenues par le personnel de
+la société et des sociétés qui lui sont liées au sens de l'article L. 225-180
+représentent moins de 3 % du capital. Ce délai est repoussé à cinq ans si, dans
+les conditions prévues au premier alinéa du présent article, une assemblée
+générale extraordinaire s'est prononcée depuis moins de trois ans sur un projet
+de résolution tendant à la réalisation d'une augmentation de capital dans les
+conditions prévues à la même section 4.
 
 Les premier et deuxième alinéas ne sont pas applicables aux sociétés contrôlées
 au sens de l'article L. 233-16 du présent code lorsque la société qui les

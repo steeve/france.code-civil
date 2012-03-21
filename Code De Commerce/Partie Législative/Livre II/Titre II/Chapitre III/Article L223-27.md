@@ -22,9 +22,9 @@ droit d'opposition à l'utilisation de ces moyens au profit d'un nombre détermi
 d'associés et pour une délibération déterminée.
 
 Un ou plusieurs associés détenant la moitié des parts sociales ou détenant,
-s'ils représentent au moins le quart des associés, le quart des parts sociales,
-peuvent demander la réunion d'une assemblée. Toute clause contraire est réputée
-non écrite.
+s'ils représentent au moins le dixième des associés, le dixième des parts
+sociales, peuvent demander la réunion d'une assemblée. Toute clause contraire
+est réputée non écrite.
 
 Tout associé peut demander en justice la désignation d'un mandataire chargé de
 convoquer l'assemblée et de fixer son ordre du jour.

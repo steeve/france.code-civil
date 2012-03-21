@@ -6,7 +6,7 @@ gérées paritairement au sein d'une section particulière de l'organisme
 collecteur paritaire agréé.
 
 Elles sont mutualisées dès leur réception. L'organisme collecteur paritaire
-agréé peut affecter les versements des employeurs de cinquante salariés et plus
+agréé peut affecter les versements des employeurs d'au moins cinquante salariés
 au financement des plans de formation présentés par les employeurs de moins de
 cinquante salariés adhérant à l'organisme.
 

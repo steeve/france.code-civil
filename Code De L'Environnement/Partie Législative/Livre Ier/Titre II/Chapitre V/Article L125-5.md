@@ -42,3 +42,6 @@ diminution du prix.
 
 VI.-Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article.
+
+VII. ― Le présent article n'est pas applicable aux conventions mentionnées aux
+articles L. 323-14 et L. 411-37 du code rural et de la pêche maritime.

@@ -5,12 +5,13 @@ amiable et contentieux des cotisations et contributions mentionnées à l'articl
 L. 133-6 dont sont redevables les personnes exerçant les professions
 artisanales, industrielles et commerciales.
 
-Il délègue, dans des conditions fixées par décret en Conseil d'Etat, aux
+Le régime social des indépendants assure le recouvrement amiable des cotisations
+et contributions mentionnées à l'article L. 133-6 dont sont redevables les
+personnes exerçant les professions artisanales, industrielles et commerciales.
+Il peut déléguer, dans des conditions fixées par décret en Conseil d'Etat, aux
 organismes mentionnés aux articles L. 213-1 et L. 752-4, qui agissent pour son
 compte et sous son appellation, tout ou partie du recouvrement amiable des
-cotisations et contributions sociales, jusqu'au trentième jour suivant la date
-d'échéance ou la date limite de paiement lorsqu'elle est distincte. Il assure la
-poursuite du recouvrement amiable au-delà de ce trentième jour.
+cotisations et contributions sociales.
 
 Le régime social des indépendants assure le recouvrement contentieux des
 cotisations et contributions mentionnées à l'article L. 133-6 dont sont

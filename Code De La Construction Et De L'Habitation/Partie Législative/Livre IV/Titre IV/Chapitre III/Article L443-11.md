@@ -10,10 +10,10 @@ d'acquisition de son logement. La réponse de l'organisme doit être motivée et
 adressée à l'intéressé dans les deux mois suivant la demande.
 
 Lorsque l'organisme d'habitations à loyer modéré met en vente un logement
-vacant, il doit l'offrir en priorité à l'ensemble des locataires de logements de
-l'organisme dans le département par voie d'une publicité dont les modalités sont
-fixées par décret en Conseil d'Etat. A défaut d'acquéreur prioritaire, le
-logement peut être offert :
+vacant, il doit l'offrir en priorité à l'ensemble des locataires de logements
+lui appartenant dans le département, ainsi qu'aux gardiens d'immeuble qu'il
+emploie, par voie d'une publicité dont les modalités sont fixées par décret en
+Conseil d'Etat. A défaut d'acquéreur prioritaire, le logement peut être offert :
 
 -à toute autre personne physique ;
 
@@ -23,6 +23,18 @@ de personnes défavorisées mentionnées au II de l'article L. 301-1 ;
 
 -à un organisme qui bénéficie de l'agrément relatif à la maîtrise d'ouvrage
 prévu à l'article L. 365-2.
+
+Lorsqu'une personne physique a acquis soit un logement vacant auprès d'un
+organisme d'habitations à loyer modéré, soit un logement locatif appartenant à
+une société d'économie mixte et faisant l'objet d'une convention conclue en
+application de l'article L. 351-2 et devenu vacant, soit un logement auparavant
+acquis par une telle société en application du huitième alinéa du présent
+article et devenu vacant, elle ne peut se porter acquéreur d'un autre logement
+vacant appartenant à un organisme d'habitations à loyer modéré ou appartenant à
+une société d'économie mixte et faisant l'objet d'une convention conclue en
+application de l'article L. 351-2 ou acquis par une telle société en application
+du huitième alinéa du présent article, sous peine d'entacher de nullité le
+contrat de vente de cet autre logement.
 
 Nonobstant les dispositions du premier ou du deuxième alinéa du présent article,
 les logements peuvent être vendus à un autre organisme d'habitations à loyer

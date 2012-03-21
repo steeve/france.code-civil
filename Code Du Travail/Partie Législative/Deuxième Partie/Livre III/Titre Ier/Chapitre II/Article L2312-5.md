@@ -1,8 +1,8 @@
 Article L2312-5
 ----
 Dans les établissements employant habituellement moins de onze salariés et dont
-l'activité s'exerce sur un même site où sont employés durablement cinquante
-salariés et plus, l'autorité administrative peut, de sa propre initiative ou à
+l'activité s'exerce sur un même site où sont employés durablement au moins
+cinquante salariés, l'autorité administrative peut, de sa propre initiative ou à
 la demande des organisations syndicales de salariés, imposer l'élection de
 délégués du personnel lorsque la nature et l'importance des problèmes communs
 aux entreprises du site le justifient.

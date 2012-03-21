@@ -35,3 +35,6 @@ juillet 1991 portant réforme des procédures civiles d'exécution.
 Le conseil national peut établir, en ce qui concerne les usages de la profession
 à l'échelon national, un règlement qui est soumis à l'approbation du garde des
 sceaux, ministre de la justice.
+
+Le Conseil national des greffiers des tribunaux de commerce est également chargé
+d'assurer la tenue du fichier prévu à l'article L. 128-1.

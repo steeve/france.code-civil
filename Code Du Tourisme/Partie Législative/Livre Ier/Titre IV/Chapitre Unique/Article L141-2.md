@@ -23,10 +23,12 @@ savoir-faire à l'international ;
 
 ― élaborer, mettre en œuvre et assurer le suivi des actions d'information et de
 promotion des territoires et destinations de la métropole et des collectivités
-ultramarines sur les marchés étranger et national.A ce titre, l'agence encourage
-la démarche de classement et promeut la qualité de l'offre touristique dans les
-hébergements, la restauration, l'accueil des touristes et les prestations
-annexes ;
+ultramarines sur les marchés étranger et national. A ce titre, l'agence promeut
+la qualité de l'offre touristique dans les hébergements, la restauration,
+l'accueil des touristes et les prestations annexes, conduit les procédures de
+classement prévues au livre III du présent code et prononce le classement des
+hébergements touristiques marchands concernés, à l'exception des meublés de
+tourisme ;
 
 ― observer les phénomènes touristiques, mettre en place des données chiffrées
 fiables et utilisables par ses membres, produire des études, notamment
@@ -37,8 +39,9 @@ appropriés ;
 ― concevoir et tenir à jour les tableaux de classement des offices de tourisme,
 des hôtels, des résidences de tourisme, des meublés de tourisme, des villages
 résidentiels de tourisme, des villages de vacances, des terrains de camping et
-caravanage, des parcs résidentiels de loisirs et des chambres d'hôtes, et
-diffuser librement et gratuitement la liste des hébergements classés.
+caravanage et des parcs résidentiels de loisirs, et diffuser librement et
+gratuitement la liste des hébergements classés, à l'exception des meublés de
+tourisme.
 
 L'Etat, les collectivités territoriales ainsi que leurs établissements publics
 peuvent par convention confier à l'agence d'autres missions d'intérêt général
@@ -68,3 +71,9 @@ préjudice des dispositions de l'article L. 251-12 du code de commerce.
 
 Le contrat constitutif de l'agence de développement touristique de la France est
 approuvé par arrêté du ministre chargé du tourisme.
+
+Le directeur général de l'agence, nommé par le ministre chargé du tourisme sur
+proposition du conseil d'administration, assure, sous l'autorité de ce conseil
+et de son président, le fonctionnement du groupement. Dans les rapports avec les
+tiers, le directeur général engage le groupement pour tout acte entrant dans
+l'objet de celui-ci.

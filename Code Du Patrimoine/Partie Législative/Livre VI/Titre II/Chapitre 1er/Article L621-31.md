@@ -1,49 +1,30 @@
 Article L621-31
 ----
-Lorsqu'un immeuble est situé dans le champ de visibilité d'un édifice classé au
-titre des monuments historiques ou inscrit, il ne peut faire l'objet, tant de la
-part des propriétaires privés que des collectivités et établissements publics,
-d'aucune construction nouvelle, d'aucune démolition, d'aucun déboisement,
-d'aucune transformation ou modification de nature à en affecter l'aspect, sans
-une autorisation préalable.
-
-La même autorisation est nécessaire lorsque l'immeuble est situé dans le champ
-de visibilité d'un parc ou d'un jardin classé ou inscrit ne comportant pas
+Lorsqu'un immeuble est adossé à un immeuble classé ou situé dans le champ de
+visibilité d'un édifice classé ou inscrit au titre des monuments historiques, il
+ne peut faire l'objet, tant de la part des propriétaires privés que des
+collectivités et établissements publics, d'aucune construction nouvelle,
+d'aucune démolition, d'aucun déboisement, d'aucune transformation ou
+modification de nature à en affecter l'aspect, sans une autorisation préalable.
+Lorsque les travaux concernent un immeuble adossé à un immeuble classé, cette
+autorisation est également délivrée au regard de l'atteinte qu'ils sont
+susceptibles de porter à la conservation de l'immeuble classé. La même
+autorisation est nécessaire lorsque l'immeuble est situé dans le champ de
+visibilité d'un parc ou d'un jardin classé ou inscrit ne comportant pas
 d'édifice, si le périmètre de protection de ce parc ou de ce jardin a été
-délimité dans les conditions fixées aux deuxième ou troisième alinéas de
-l'article L. 621-30-1.
+délimité dans les conditions fixées aux cinquième ou sixième alinéas de
+l'article L. 621-30.
 
-Si cet immeuble est classé au titre des monuments historiques, l'autorisation
-est celle prévue au premier alinéa de l'article L. 621-9. Si l'immeuble n'est
-pas classé, le permis de construire, le permis de démolir, le permis d'aménager
-ou l'absence d'opposition à déclaration préalable tient lieu de l'autorisation
-si l'architecte des Bâtiments de France a donné son accord.
+Si les travaux concernent un immeuble lui-même classé ou inscrit au titre des
+monuments historiques, l'autorisation est celle prévue à l'article L. 621-9 et
+au deuxième alinéa de l'article L. 621-27.
 
-Les travaux soumis à permis de construire, permis de démolir, permis d'aménager
-ou déclaration préalable et portant sur des immeubles inscrits ou des immeubles
-adossés à des immeubles classés ne sont soumis qu'à l'accord de l'autorité
-administrative prévu respectivement aux articles L. 621-27 et L. 621-30.
+Toutefois, si les travaux concernent un immeuble inscrit au titre des monuments
+historiques et ne relèvent pas du permis de construire, du permis de démolir, du
+permis d'aménager ou de la déclaration préalable prévus au livre IV du code de
+l'urbanisme, l'autorisation est délivrée conformément au II de l'article L.
+621-32 du présent code.
 
-En cas de désaccord soit du maire ou de l'autorité administrative compétente
-pour délivrer le permis de construire, le permis d'aménager ou le permis de
-démolir ou pour ne pas s'opposer à la déclaration préalable, soit du
-pétitionnaire avec l'avis émis par l'architecte des Bâtiments de France, le
-représentant de l'Etat dans la région émet, après consultation de la section de
-la commission régionale du patrimoine et des sites, un avis qui se substitue à
-celui de l'architecte des Bâtiments de France. Le recours du pétitionnaire
-s'exerce à l'occasion du refus d'autorisation ou de l'opposition à la
-déclaration préalable. Si le représentant de l'Etat exprime son désaccord à
-l'encontre de l'avis de l'architecte des Bâtiments de France, le maire ou
-l'autorité administrative compétente peut délivrer le permis de construire, le
-permis de démolir ou le permis d'aménager initialement refusé ou ne pas
-s'opposer à la déclaration préalable. En l'absence de décision expresse du
-représentant de l'Etat dans la région dans le délai de deux mois à compter de sa
-saisine par le maire, l'autorité administrative compétente ou le pétitionnaire,
-le recours est réputé admis.
-
-Le délai de saisine du représentant de l'Etat dans la région ainsi que les
-délais impartis au maire ou à l'autorité administrative compétente pour statuer
-sont fixés par décret.
-
-Dans la collectivité territoriale de Corse, les compétences dévolues au préfet
-de région par le présent article sont exercées par le préfet de Corse.
+Si les travaux concernent un immeuble qui n'est ni classé, ni inscrit au titre
+des monuments historiques, l'autorisation est délivrée conformément au même
+article L. 621-32.

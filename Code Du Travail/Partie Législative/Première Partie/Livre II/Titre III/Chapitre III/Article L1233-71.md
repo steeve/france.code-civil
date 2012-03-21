@@ -1,6 +1,6 @@
 Article L1233-71
 ----
-Dans les entreprises ou les établissements de mille salariés et plus, ainsi que
+Dans les entreprises ou les établissements d'au moins mille salariés, ainsi que
 dans les entreprises mentionnées à l'article L. 2331-1 et celles mentionnées à
 l'article L. 2341-4, dès lors qu'elles emploient au total au moins mille
 salariés, l'employeur propose à chaque salarié dont il envisage de prononcer le

@@ -2,10 +2,9 @@ Article 424
 ----
 Sont réputés faire l'objet d'une importation sans déclaration :
 
-1° les marchandises déclarées pour l'exportation temporaire ou pour l'obtention
-d'un passavant de circulation dans le rayon, en cas de non-représentation ou de
-différence dans la nature ou l'espèce entre lesdites marchandises et celles
-présentées au départ ;
+1° les marchandises déclarées pour l'exportation temporaire, en cas de
+non-représentation ou de différence dans la nature ou l'espèce entre lesdites
+marchandises et celles présentées au départ ;
 
 2° les objets prohibés ou fortement taxés à l'entrée ou passibles de taxes
 intérieures découverts à bord des navires se trouvant dans les limites des ports

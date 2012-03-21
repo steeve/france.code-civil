@@ -11,5 +11,8 @@ Conseil d'Etat. L'assemblée statue sur le rapport des commissaires qui font
 connaître leur appréciation sur les causes et conditions de la réduction.
 
 Lorsque le conseil d'administration ou le directoire, selon le cas, réalise
-l'opération, sur délégation de l'assemblée générale, il en dresse procès-verbal
-soumis à publicité et procède à la modification corrélative des statuts.
+l'opération sur délégation de l'assemblée générale, il en dresse procès-verbal
+soumis à publicité au registre du commerce et des sociétés et procède à la
+modification corrélative des statuts. En cas de non-respect de cette obligation
+de publicité, les décisions de réalisation de cette opération peuvent être
+annulées.

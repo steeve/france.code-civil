@@ -8,7 +8,9 @@ pour les terminer. Le délai dans lequel le liquidateur fait son rapport peut
 
 A défaut, il est procédé à la convocation de l'assemblée soit par l'organe de
 contrôle, s'il en existe un, soit par un mandataire désigné, par décision de
-justice, à la demande de tout intéressé.
+justice, à la demande de tout intéressé. Le juge déchoit le liquidateur qui n'a
+pas accompli ces diligences de tout ou partie de son droit à rémunération pour
+l'ensemble de sa mission. Il peut en outre le révoquer.
 
 Si la réunion de l'assemblée est impossible ou si aucune décision n'a pu être
 prise, le liquidateur demande en justice les autorisations nécessaires pour
