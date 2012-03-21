@@ -7,10 +7,10 @@ d'instruments financiers admettant aux négociations des actions pouvant être
 inscrites en compte chez un intermédiaire mentionné à l'article L. 211-3 du code
 monétaire et financier, toute personne physique ou morale agissant seule ou de
 concert qui vient à posséder un nombre d'actions représentant plus du vingtième,
-du dixième, des trois vingtièmes, du cinquième, du quart, des trois dixièmes
-(1), du tiers, de la moitié, des deux tiers, des dix-huit vingtièmes ou des
-dix-neuf vingtièmes du capital ou des droits de vote informe la société dans un
-délai fixé par décret en Conseil d'Etat, à compter du franchissement du seuil de
+du dixième, des trois vingtièmes, du cinquième, du quart, des trois dixièmes, du
+tiers, de la moitié, des deux tiers, des dix-huit vingtièmes ou des dix-neuf
+vingtièmes du capital ou des droits de vote informe la société dans un délai
+fixé par décret en Conseil d'Etat, à compter du franchissement du seuil de
 participation, du nombre total d'actions ou de droits de vote qu'elle possède.
 
 L'information mentionnée à l'alinéa précédent est également donnée dans les
@@ -25,16 +25,9 @@ a) Le nombre de titres qu'elle possède donnant accès à terme aux actions à
 
 b) Les actions déjà émises que cette personne peut acquérir, en vertu d'un
 accord ou d'un instrument financier mentionné à l'article L. 211-1 du code
-monétaire et financier, sans préjudice des dispositions du 4° du I de l'article
-L. 233-9 du présent code. Il en est de même pour les droits de vote que cette
-personne peut acquérir dans les mêmes conditions ;
-
-c) Les actions déjà émises sur lesquelles porte tout accord ou instrument
-financier mentionné à l'article L. 211-1 du code monétaire et financier, réglé
-exclusivement en espèces et ayant pour cette personne un effet économique
-similaire à la possession desdites actions. Il en va de même pour les droits de
-vote sur lesquels porte dans les mêmes conditions tout accord ou instrument
-financier.
+monétaire et financier, sans préjudice des dispositions des 4° et 4° bis du I de
+l'article L. 233-9 du présent code. Il en est de même pour les droits de vote
+que cette personne peut acquérir dans les mêmes conditions.
 
 II.-La personne tenue à l'information mentionnée au I informe également
 l'Autorité des marchés financiers, dans un délai et selon des modalités fixés
@@ -49,9 +42,7 @@ connaissance du public dans les conditions fixées par le règlement général d
 l'Autorité des marchés financiers.
 
 Le règlement général précise également les modalités de calcul des seuils de
-participation et les conditions dans lesquelles un accord ou instrument
-financier, mentionné au c du I, est considéré comme ayant un effet économique
-similaire à la possession d'actions.
+participation.
 
 III.-Les statuts de la société peuvent prévoir une obligation supplémentaire
 d'information portant sur la détention de fractions du capital ou des droits de
@@ -104,23 +95,35 @@ détenant une fraction du capital ou des droits de vote de la société émettri
 au moins égale à la plus petite fraction du capital dont la détention doit être
 déclarée. Cette fraction ne peut toutefois être supérieure à 5 %.
 
+VI bis. - Le règlement général de l'Autorité des marchés financiers précise les
+cas et conditions dans lesquels une modification de la répartition de la
+participation entre les différents types d'instruments mentionnés au I du
+présent article et de l'article L. 233-9 oblige la personne tenue à
+l'information mentionnée aux I et II du présent article à déclarer un
+franchissement d'un seuil prévu au I.
+
 VII. ― Lorsque les actions de la société sont admises aux négociations sur un
 marché réglementé, la personne tenue à l'information prévue au I est tenue de
 déclarer, à l'occasion des franchissements de seuil du dixième, des trois
 vingtièmes, du cinquième ou du quart du capital ou des droits de vote, les
 objectifs qu'elle a l'intention de poursuivre au cours des six mois à venir.
 
-Cette déclaration précise les modes de financement de l'acquisition, si
-l'acquéreur agit seul ou de concert, s'il envisage d'arrêter ses achats ou de
-les poursuivre, d'acquérir ou non le contrôle de la société, la stratégie qu'il
-envisage vis-à-vis de l'émetteur et les opérations pour la mettre en œuvre ainsi
-que tout accord de cession temporaire ayant pour objet les actions et les droits
-de vote. Elle précise si l'acquéreur envisage de demander sa nomination ou celle
+Cette personne précise dans sa déclaration :
+
+a) Les modes de financement de l'acquisition ; b) Si elle agit seule ou de
+concert ; c) Si elle envisage d'arrêter ses achats ou de les poursuivre et
+d'acquérir ou non le contrôle de la société ; d) La stratégie qu'elle envisage
+vis-à-vis de l'émetteur et les opérations pour la mettre en œuvre ; e) Ses
+intentions quant au dénouement des accords et instruments mentionnés aux 4° et
+4° bis du I de l'article L. 233-9, si elle est partie à de tels accords ou
+instruments ; f) Tout accord de cession temporaire ayant pour objet les actions
+et les droits de vote ; g) Si elle envisage de demander sa nomination ou celle
 d'une ou plusieurs personnes comme administrateur, membre du directoire ou du
-conseil de surveillance. Le règlement général de l'Autorité des marchés
-financiers précise le contenu de ces éléments en tenant compte, le cas échéant,
-du niveau de la participation et des caractéristiques de la personne qui procède
-à la déclaration.
+conseil de surveillance.
+
+Le règlement général de l'Autorité des marchés financiers précise le contenu de
+ces éléments en tenant compte, le cas échéant, du niveau de la participation et
+des caractéristiques de la personne qui procède à la déclaration.
 
 Cette déclaration est adressée à la société dont les actions ont été acquises et
 doit parvenir à l'Autorité des marchés financiers dans des délais fixés par

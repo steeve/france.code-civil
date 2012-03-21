@@ -1,11 +1,11 @@
 Article L233-14
 ----
-L'actionnaire qui n'aurait pas procédé régulièrement à la déclaration prévue aux
-I et II de l'article L. 233-7 ou au VII de cet article est privé des droits de
-vote attachés aux actions excédant la fraction qui n'a pas été régulièrement
-déclarée pour toute assemblée d'actionnaires qui se tiendrait jusqu'à
-l'expiration d'un délai de deux ans suivant la date de régularisation de la
-notification.
+L'actionnaire qui n'aurait pas procédé régulièrement aux déclarations prévues
+aux I, II, VI bis et VII de l'article L. 233-7 auxquelles il était tenu est
+privé des droits de vote attachés aux actions excédant la fraction qui n'a pas
+été régulièrement déclarée pour toute assemblée d'actionnaires qui se tiendrait
+jusqu'à l'expiration d'un délai de deux ans suivant la date de régularisation de
+la notification.
 
 Dans les mêmes conditions, les droits de vote attachés à ces actions et qui
 n'ont pas été régulièrement déclarés ne peuvent être exercés ou délégués par

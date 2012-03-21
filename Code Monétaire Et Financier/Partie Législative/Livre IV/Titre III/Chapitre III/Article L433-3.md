@@ -23,7 +23,9 @@ vote est appréciée au regard des articles L. 233-7 et L. 233-9 du code de
 commerce. Le règlement général de l'Autorité des marchés financiers fixe la
 liste précise des accords ou instruments financiers mentionnés au 4° du I de
 l'article L. 233-9 qui doivent être pris en compte pour la détermination de
-cette détention.
+cette détention. Les accords et instruments mentionnés au 4° bis du I de
+l'article L. 233-9 du code de commerce ne sont pas pris en compte pour la
+détermination de cette détention.
 
 Le prix proposé doit être au moins égal au prix le plus élevé payé par l'auteur
 de l'offre, agissant seul ou de concert au sens de l'article L. 233-10 du code
