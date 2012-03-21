@@ -1,7 +1,7 @@
 Article L243-14
 ----
 I.-Les entreprises ou les établissements d'une même entreprise, redevables de
-cotisations, contributions et taxes d'un montant supérieur à 100 000 € au titre
+cotisations, contributions et taxes d'un montant supérieur à 50 000 € au titre
 de l'année civile précédente ou soumis à l'obligation de verser mensuellement
 leurs cotisations sociales, sont tenus de régler par virement ou, en accord avec
 leur organisme de recouvrement, par tout autre moyen de paiement dématérialisé,
@@ -19,7 +19,7 @@ situés sont soumises à la même obligation.
 
 II bis.-Les entreprises ou les établissements d'une même entreprise mentionnés
 aux I et II, redevables de cotisations, contributions et taxes pour un montant
-supérieur à 100 000 € au titre de l'année civile précédente ou soumis à
+supérieur à 50 000 € au titre de l'année civile précédente ou soumis à
 l'obligation de verser mensuellement leurs cotisations sociales, sont tenus
 d'effectuer leurs déclarations sociales ainsi que d'effectuer la déclaration et
 le versement mentionnés au III de l'article L. 133-5-4, au titre des sommes dont

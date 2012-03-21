@@ -2,7 +2,7 @@ Article L1221-12-1
 ----
 Sont tenus d'adresser les déclarations préalables à l'embauche par voie
 électronique les employeurs relevant du régime général de sécurité sociale qui
-ont accompli plus de 1 500 déclarations préalables à l'embauche au cours de
+ont accompli plus de 500 déclarations préalables à l'embauche au cours de
 l'année civile précédente.
 
 Le non-respect de cette obligation entraîne l'application d'une pénalité fixée à

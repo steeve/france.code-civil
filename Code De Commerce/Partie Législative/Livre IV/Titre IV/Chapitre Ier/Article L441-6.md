@@ -1,6 +1,6 @@
 Article L441-6
 ----
-I. - Tout producteur, prestataire de services, grossiste ou importateur est tenu
+I.-Tout producteur, prestataire de services, grossiste ou importateur est tenu
 de communiquer ses conditions générales de vente à tout acheteur de produits ou
 tout demandeur de prestations de services qui en fait la demande pour une
 activité professionnelle. Celles-ci constituent le socle de la négociation
@@ -52,12 +52,25 @@ compter de la date d'émission de la facture.
 
 Les conditions de règlement doivent obligatoirement préciser les conditions
 d'application et le taux d'intérêt des pénalités de retard exigibles le jour
-suivant la date de règlement figurant sur la facture dans le cas où les sommes
-dues sont réglées après cette date. Sauf disposition contraire qui ne peut
-toutefois fixer un taux inférieur à trois fois le taux d'intérêt légal, ce taux
-est égal au taux d'intérêt appliqué par la Banque centrale européenne à son
-opération de refinancement la plus récente majoré de 10 points de pourcentage.
-Les pénalités de retard sont exigibles sans qu'un rappel soit nécessaire.
+suivant la date de règlement figurant sur la facture ainsi que le montant de
+l'indemnité forfaitaire pour frais de recouvrement due au créancier dans le cas
+où les sommes dues sont réglées après cette date. Sauf disposition contraire qui
+ne peut toutefois fixer un taux inférieur à trois fois le taux d'intérêt légal,
+ce taux est égal au taux d'intérêt appliqué par la Banque centrale européenne à
+son opération de refinancement la plus récente majoré de 10 points de
+pourcentage. Dans ce cas, le taux applicable pendant le premier semestre de
+l'année concernée est le taux en vigueur au 1er janvier de l'année en question.
+Pour le second semestre de l'année concernée, il est le taux en vigueur au 1er
+juillet de l'année en question. Les pénalités de retard sont exigibles sans
+qu'un rappel soit nécessaire. Tout professionnel en situation de retard de
+paiement est de plein droit débiteur, à l'égard du créancier, d'une indemnité
+forfaitaire pour frais de recouvrement, dont le montant est fixé par décret.
+Lorsque les frais de recouvrement exposés sont supérieurs au montant de cette
+indemnité forfaitaire, le créancier peut demander une indemnisation
+complémentaire, sur justification. Toutefois, le créancier ne peut invoquer le
+bénéfice de ces indemnités lorsque l'ouverture d'une procédure de sauvegarde, de
+redressement ou de liquidation judiciaire interdit le paiement à son échéance de
+la créance qui lui est due.
 
 La communication prévue au premier alinéa s'effectue par tout moyen conforme aux
 usages de la profession.
@@ -66,14 +79,15 @@ Est puni d'une amende de 15 000 euros le fait de ne pas respecter les délais de
 paiement mentionnés aux huitième et onzième alinéas, le fait de ne pas indiquer
 dans les conditions de règlement les mentions figurant à la première phrase du
 douzième alinéa ainsi que le fait de fixer un taux ou des conditions
-d'exigibilité selon des modalités non conformes aux dispositions du même alinéa.
+d'exigibilité des pénalités de retard selon des modalités non conformes aux
+dispositions du même alinéa.
 
-II. - Lorsque le prix d'un service ou d'un type de service ne peut être
-déterminé a priori ou indiqué avec exactitude, le prestataire de services est
-tenu de communiquer au destinataire qui en fait la demande la méthode de calcul
-du prix permettant de vérifier ce dernier, ou un devis suffisamment détaillé.
+II.-Lorsque le prix d'un service ou d'un type de service ne peut être déterminé
+a priori ou indiqué avec exactitude, le prestataire de services est tenu de
+communiquer au destinataire qui en fait la demande la méthode de calcul du prix
+permettant de vérifier ce dernier, ou un devis suffisamment détaillé.
 
-III. - Tout prestataire de services est également tenu à l'égard de tout
+III.-Tout prestataire de services est également tenu à l'égard de tout
 destinataire de prestations de services des obligations d'information définies à
 l'article L. 111-2 du code de la consommation.
 
@@ -83,3 +97,13 @@ pratiquées par les entreprises régies par le code des assurances, par les
 mutuelles et unions régies par le livre II du code de la mutualité et par les
 institutions de prévoyance et unions régies par le titre III du livre IX du code
 de la sécurité sociale.
+
+IV.-Sous réserve de dispositions spécifiques plus favorables au créancier,
+lorsqu'une procédure d'acceptation ou de vérification permettant de certifier la
+conformité des marchandises ou des services au contrat est prévue, la durée de
+cette procédure est fixée conformément aux bonnes pratiques et usages
+commerciaux et, en tout état de cause, n'excède pas trente jours à compter de la
+date de réception des marchandises ou de réalisation de la prestation des
+services, à moins qu'il n'en soit expressément stipulé autrement par contrat et
+pourvu que cela ne constitue pas une clause ou pratique abusive au sens de
+l'article L. 442-6.
