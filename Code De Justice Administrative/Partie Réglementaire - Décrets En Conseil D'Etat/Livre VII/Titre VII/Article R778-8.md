@@ -3,8 +3,8 @@ Article R778-8
 Lorsque le président du tribunal administratif ou le magistrat désigné à cet
 effet constate, d'office ou sur la saisine du requérant, que l'injonction
 prononcée n'a pas été exécutée, il procède à la liquidation de l'astreinte en
-faveur du fonds prévu au dernier alinéa de l'article L. 302-7 du code de la
-construction et de l'habitation.
+faveur du fonds prévu à l'article L. 300-2 du code de la construction et de
+l'habitation.
 
 Le président du tribunal administratif ou le magistrat désigné à cet effet peut
 statuer par ordonnance, dans les conditions prévues par le chapitre II du titre
