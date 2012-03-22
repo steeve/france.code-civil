@@ -3,8 +3,8 @@ Article R743-84
 Sans préjudice de toutes autres mentions utiles et notamment de celles qui sont
 prévues par les articles 8, 10, 11, 14, 15, 19 et 20 de la loi n° 66-879 du 29
 novembre 1966 relative aux sociétés civiles professionnelles, concernant
-respectivement la raison sociale, la répartition des parts, les gérants, la
-répartition des bénéfices, les dettes sociales, les cessions de parts ou de
+respectivement la dénomination sociale, la répartition des parts, les gérants,
+la répartition des bénéfices, les dettes sociales, les cessions de parts ou de
 celles qui sont prévues par le présent titre, les statuts doivent indiquer :
 
 1° Les nom, prénoms et domicile des associés ;
