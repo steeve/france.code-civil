@@ -27,4 +27,8 @@ L. 316-1 du code de l'entrée et du séjour des étrangers et du droit d'asile ;
 6° Le récépissé mentionné au 11° de l'article R. 5221-3 du présent code ;
 
 7° Les visas pour un séjour d'une durée supérieure à trois mois mentionnés aux
-4°, 6° et 10° de l'article R. 5221-3.
+4°, 6° et 10° de l'article R. 5221-3 ;
+
+8° La carte de séjour temporaire portant la mention : " carte bleue européenne "
+délivrée en application du 6° de l'article L. 313-10 du code de l'entrée et du
+séjour des étrangers et du droit d'asile.
