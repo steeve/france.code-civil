@@ -20,10 +20,10 @@ Les dispositions des alinéas précédents s'appliquent dans le territoire de la
 Polynésie française, lorsque la garde à vue se déroule dans une île où il n'y a
 pas d'avocat et que le déplacement d'un avocat paraît matériellement impossible.
 
-Dans les territoires des îles Wallis-et-Futuna, il peut être fait appel pour
-l'entretien prévu au premier alinéa de l'article 63-4 à une personne agréée par
-le président du tribunal de première instance. Lorsque cette personne n'est pas
-désignée par la personne gardée à vue, elle l'est d'office par le président de
-cette juridiction. Les dispositions de l'article 63-4-4 et celles du deuxième
-alinéa du présent article sont applicables à la personne choisie, qui en est
-informée par l'officier de police judiciaire.
+Dans les territoires des îles Wallis-et-Futuna, il peut être fait appel pour les
+attributions dévolues à l'avocat par les articles 63-4 à 63-4-3 à une personne
+agréée par le président du tribunal de première instance. Lorsque cette personne
+n'est pas désignée par la personne gardée à vue, elle l'est d'office par le
+président de cette juridiction. Les dispositions de l'article 63-4-4 et celles
+du deuxième alinéa du présent article sont applicables à la personne choisie,
+qui en est informée par l'officier de police judiciaire.
