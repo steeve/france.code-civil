@@ -20,3 +20,6 @@ II de la loi n° 92-675 du 17 juillet 1992.
 
 L'organisme consulaire territorialement compétent pour enregistrer le contrat
 d'apprentissage est celui du lieu d'exécution du contrat.
+
+Les dispositions du présent article s'appliquent aux avenants aux contrats
+d'apprentissage conclus sur le fondement de l'article L. 6222-22-1.

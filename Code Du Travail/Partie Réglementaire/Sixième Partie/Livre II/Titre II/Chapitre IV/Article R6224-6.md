@@ -1,6 +1,7 @@
 Article R6224-6
 ----
-La chambre consulaire adresse copie du contrat :
+La chambre consulaire adresse copie du contrat ou de l'avenant à ce contrat
+conclu sur le fondement de l'article L. 6222-22-1 :
 
 1° A l'union de recouvrement des cotisations de sécurité sociale ou à la caisse
 de mutualité sociale agricole compétente ;
@@ -17,4 +18,5 @@ d'apprentissage, au responsable d'établissement ;
 
 6° A la direction régionale des entreprises, de la concurrence, de la
 consommation, du travail et de l'emploi du lieu d'exécution du contrat
-d'apprentissage, sous une forme dématérialisée.
+d'apprentissage ou de l'avenant à ce contrat conclu sur le fondement de
+l'article L. 6222-22-1, sous une forme dématérialisée.
