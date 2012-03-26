@@ -28,11 +28,23 @@ médecin estime que cette personne est susceptible de faire l'objet d'un tel
 traitement. Ce traitement peut être celui prévu par le dernier alinéa de
 l'article L. 3711-3 du code de la santé publique.
 
-Les dispositions des articles L. 3711-1, L. 3711-2 et L. 3711-3 du code de la
-santé publique sont applicables au médecin traitant du condamné détenu, qui
-délivre à ce dernier des attestations de suivi du traitement afin de lui
-permettre d'en justifier auprès du juge de l'application des peines pour
-l'obtention des réductions de peine prévues par l'article 721-1.
+Le médecin traitant du condamné délivre à ce dernier, au moins une fois par
+trimestre, des attestations indiquant si le patient suit ou non de façon
+régulière le traitement proposé par le juge de l'application des peines. Le
+condamné remet ces attestations au juge de l'application des peines, afin que
+celui-ci puisse se prononcer, en application des articles 721,721-1 et 729 du
+présent code, sur le retrait des réductions de peine, l'octroi de réductions de
+peine supplémentaires ou l'octroi d'une libération conditionnelle.
+
+Une copie de la décision de condamnation est adressée par le juge de
+l'application des peines au médecin traitant du condamné. Les rapports des
+expertises réalisées pendant la procédure sont également adressés au médecin
+traitant, à sa demande ou à l'initiative du juge de l'application des peines.
+Celui-ci peut en outre adresser au médecin traitant toute autre pièce utile du
+dossier.
+
+Les cinquième et sixième alinéas sont également applicables au psychologue
+traitant du condamné.
 
 Deux ans avant la date prévue pour la libération d'un condamné susceptible de
 relever des dispositions de l'article 706-53-13, celui-ci est convoqué par le

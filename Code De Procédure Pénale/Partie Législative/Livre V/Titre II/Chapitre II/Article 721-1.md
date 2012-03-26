@@ -11,6 +11,9 @@ supplémentaire de la peine ne peut être accordée à une personne condamnée p
 un crime ou un délit pour lequel le suivi socio-judiciaire est encouru, qui
 refuse pendant son incarcération de suivre le traitement qui lui est proposé par
 le juge de l'application des peines en application des articles 717-1 et 763-7.
+Il en est de même lorsque le juge de l'application des peines est informé, en
+application de l'article 717-1, que le condamné ne suit pas de façon régulière
+le traitement qu'il lui a proposé.
 
 Cette réduction, accordée par le juge de l'application des peines après avis de
 la commission de l'application des peines, ne peut excéder, si le condamné est

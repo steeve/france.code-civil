@@ -11,8 +11,9 @@ par l'article 131-27 ;
 
 3° L'interdiction de séjour, selon les modalités prévues par l'article 131-31 ;
 
-4° La confiscation de tout ou partie de leurs biens, meubles ou immeubles, divis
-ou indivis ;
+4° La confiscation de tout ou partie des biens leur appartenant ou, sous réserve
+des droits du propriétaire de bonne foi, dont elles ont la libre disposition,
+meubles ou immeubles, divis ou indivis ;
 
 5° La confiscation du matériel qui a servi à commettre l'infraction ;
 

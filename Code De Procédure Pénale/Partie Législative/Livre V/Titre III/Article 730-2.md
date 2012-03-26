@@ -15,9 +15,12 @@ la détention restant à subir ;
 rendu à la suite d'une évaluation pluridisciplinaire de dangerosité réalisée
 dans un service spécialisé chargé de l'observation des personnes détenues et
 assortie d'une expertise médicale ; s'il s'agit d'un crime mentionné au même
-article 706-53-13, cette expertise est réalisée par deux experts et se prononce
-sur l'opportunité, dans le cadre d'une injonction de soins, du recours à un
-traitement utilisant des médicaments inhibiteurs de libido, mentionné à
+article 706-53-13, cette expertise est réalisée soit par deux experts médecins
+psychiatres, soit par un expert médecin psychiatre et par un expert psychologue
+titulaire d'un diplôme, certificat ou titre sanctionnant une formation
+universitaire fondamentale et appliquée en psychopathologie. L'expertise se
+prononce sur l'opportunité, dans le cadre d'une injonction de soins, du recours
+à un traitement utilisant des médicaments inhibiteurs de libido, mentionné à
 l'article L. 3711-3 du code de la santé publique.
 
 Lorsque la libération conditionnelle n'est pas assortie d'un placement sous

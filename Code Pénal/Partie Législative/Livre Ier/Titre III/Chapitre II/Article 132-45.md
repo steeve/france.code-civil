@@ -14,7 +14,12 @@ sous le régime de l'hospitalisation. Ces mesures peuvent consister en
 l'injonction thérapeutique prévue par les articles L. 3413-1 à L. 3413-4 du code
 de la santé publique, lorsqu'il apparaît que le condamné fait usage de
 stupéfiants ou fait une consommation habituelle et excessive de boissons
-alcooliques ;
+alcooliques. Une copie de la décision ordonnant ces mesures est adressée par le
+juge de l'application des peines au médecin ou au psychologue qui doit suivre la
+personne condamnée. Les rapports des expertises réalisées pendant la procédure
+sont adressés au médecin ou au psychologue, à leur demande ou à l'initiative du
+juge de l'application des peines. Celui-ci peut également leur adresser toute
+autre pièce utile du dossier ;
 
 4° Justifier qu'il contribue aux charges familiales ou acquitte régulièrement
 les pensions alimentaires dont il est débiteur ;

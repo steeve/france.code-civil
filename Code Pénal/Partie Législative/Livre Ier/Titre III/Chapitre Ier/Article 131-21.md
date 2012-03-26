@@ -22,12 +22,15 @@ la loi ou le règlement qui réprime l'infraction.
 S'il s'agit d'un crime ou d'un délit puni d'au moins cinq ans d'emprisonnement
 et ayant procuré un profit direct ou indirect, la confiscation porte également
 sur les biens meubles ou immeubles, quelle qu'en soit la nature, divis ou
-indivis, appartenant au condamné lorsque celui-ci, mis en mesure de s'expliquer
-sur les biens dont la confiscation est envisagée, n'a pu en justifier l'origine.
+indivis, appartenant au condamné ou, sous réserve des droits du propriétaire de
+bonne foi, dont il a la libre disposition, lorsque ni le condamné, ni le
+propriétaire, mis en mesure de s'expliquer sur les biens dont la confiscation
+est envisagée, n'ont pu en justifier l'origine.
 
 Lorsque la loi qui réprime le crime ou le délit le prévoit, la confiscation peut
-aussi porter sur tout ou partie des biens appartenant au condamné, quelle qu'en
-soit la nature, meubles ou immeubles, divis ou indivis.
+aussi porter sur tout ou partie des biens appartenant au condamné ou, sous
+réserve des droits du propriétaire de bonne foi, dont il a la libre disposition,
+quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
 
 La confiscation est obligatoire pour les objets qualifiés de dangereux ou
 nuisibles par la loi ou le règlement, ou dont la détention est illicite, que ces
@@ -36,8 +39,7 @@ biens soient ou non la propriété du condamné.
 La peine complémentaire de confiscation s'applique dans les mêmes conditions à
 tous les droits incorporels, quelle qu'en soit la nature, divis ou indivis.
 
-Lorsque la chose confisquée n'a pas été saisie ou ne peut être représentée, la
-confiscation est ordonnée en valeur. Pour le recouvrement de la somme
+La confiscation peut être ordonnée en valeur. Pour le recouvrement de la somme
 représentative de la valeur de la chose confisquée, les dispositions relatives à
 la contrainte judiciaire sont applicables.
 

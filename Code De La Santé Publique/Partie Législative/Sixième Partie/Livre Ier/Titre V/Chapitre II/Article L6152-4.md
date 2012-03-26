@@ -1,6 +1,7 @@
 Article L6152-4
 ----
-Sont applicables aux personnels mentionnés aux 1° à 4° de l'article L. 6152-1 :
+I.-Sont applicables aux personnels mentionnés aux 1° à 4° de l'article L. 6152-1
+:
 
 1° L'article 25 de la loi n° 83-634 du 13 juillet 1983 portant droits et
 obligations des fonctionnaires ;
@@ -13,3 +14,9 @@ de la corruption et à la transparence de la vie économique et des procédures
 publiques ;
 
 4° Les articles L. 413-1 à L. 413-16 du code de la recherche.
+
+II.-Les dispositions d'application de l'article 25 de la loi n° 83-634 du 13
+juillet 1983 précitée aux personnels mentionnés aux 1° à 4° de l'article L.
+6152-1 prévoient les conditions dans lesquelles ces personnels peuvent consacrer
+une partie de leur temps de service à la réalisation d'expertises ordonnées par
+un magistrat en application du code de procédure pénale.

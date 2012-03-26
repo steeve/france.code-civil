@@ -38,9 +38,12 @@ Lorsque la personne a été condamnée pour un crime ou un délit pour lequel le
 suivi socio-judiciaire est encouru, une libération conditionnelle ne peut lui
 être accordée si elle refuse pendant son incarcération de suivre le traitement
 qui lui est proposé par le juge de l'application des peines en application des
-articles 717-1 et 763-7. Elle ne peut non plus être accordée au condamné qui ne
-s'engage pas à suivre, après sa libération, le traitement qui lui est proposé en
-application de l'article 731-1.
+articles 717-1 et 763-7. Il en est de même lorsque le juge de l'application des
+peines est informé, en application de l'article 717-1, que le condamné ne suit
+pas de façon régulière le traitement qu'il lui a proposé. Une libération
+conditionnelle ne peut non plus être accordée au condamné qui ne s'engage pas à
+suivre, après sa libération, le traitement qui lui est proposé en application de
+l'article 731-1.
 
 Lorsque le condamné est âgé de plus de soixante-dix ans, les durées de peines
 accomplies prévues par le présent article ne sont pas applicables et la

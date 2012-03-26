@@ -14,13 +14,13 @@ disposition expresse contraire, précomptée par les entreprises ou par les
 organismes débiteurs de ces revenus et versée aux organismes chargés du
 recouvrement des cotisations du régime général selon les règles et sous les
 garanties et sanctions applicables au recouvrement des cotisations du régime
-général assises sur les salaires. La contribution portant sur l'allocation
-mentionnée à l'article L. 632-6 du code de l'éducation est précomptée par le
-Centre national de gestion des praticiens hospitaliers et des personnels de
-direction de la fonction publique hospitalière ; elle est recouvrée et contrôlée
-selon les règles et sous les garanties et sanctions applicables au recouvrement
-des cotisations du régime général de la sécurité sociale assises sur les
-rémunérations.
+général assises sur les salaires. La contribution portant sur les allocations
+mentionnées aux articles L. 632-6 et L. 632-7 du code de l'éducation est
+précomptée par le Centre national de gestion des praticiens hospitaliers et des
+personnels de direction de la fonction publique hospitalière ; elle est
+recouvrée et contrôlée selon les règles et sous les garanties et sanctions
+applicables au recouvrement des cotisations du régime général de la sécurité
+sociale assises sur les rémunérations.
 
 Pour les personnes exerçant les professions artisanales, industrielles et
 commerciales, la contribution portant sur les revenus mentionnés à l'article L.
@@ -74,7 +74,7 @@ mentionnées au II de l'article 1106-6-1 du code rural est précomptée lors de
 leur versement par l'organisme débiteur de ces prestations. La contribution
 sociale généralisée due sur les indemnités de congés payés et sur les avantages
 conventionnels y afférents, servis par les caisses de congés payés en
-application des dispositions de l'article L. 223-16 du code du travail , est
+application des dispositions de l'article L. 223-16 du code du travail, est
 précomptée par les caisses de congés payés, responsables du versement de
 l'ensemble des charges assises sur ces indemnités et avantages sous réserve
 d'exceptions prévues par arrêté.

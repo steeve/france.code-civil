@@ -27,12 +27,12 @@ le territoire d'un Etat étranger aux fins de procéder à des auditions.
 En cas d'infractions flagrantes, il exerce les pouvoirs qui lui sont attribués
 par l'article 68.
 
-Le procureur de la République peut également requérir, suivant les cas, le
-service pénitentiaire d'insertion et de probation, le service compétent de
-l'éducation surveillée ou toute personne habilitée dans les conditions prévues
-par l'article 81, sixième alinéa, de vérifier la situation matérielle, familiale
-et sociale d'une personne faisant l'objet d'une enquête et de l'informer sur les
-mesures propres à favoriser l'insertion sociale de l'intéressé.
+Le procureur de la République peut également requérir, suivant les cas, une
+personne habilitée dans les conditions prévues au sixième alinéa de l'article 81
+ou, en cas d'impossibilité matérielle, le service pénitentiaire d'insertion et
+de probation de vérifier la situation matérielle, familiale et sociale d'une
+personne faisant l'objet d'une enquête et de l'informer sur les mesures propres
+à favoriser l'insertion sociale de l'intéressé.
 
 Ces diligences doivent être prescrites avant toute réquisition de placement en
 détention provisoire, en cas de poursuites contre un majeur âgé de moins de
@@ -51,10 +51,10 @@ compétente, se trouver dans l'une des situations prévues par les articles
 131-30-1 ou 131-30-2 du code pénal, le procureur de la République ne peut
 prendre aucune réquisition d'interdiction du territoire français s'il n'a
 préalablement requis, suivant les cas, l'officier de police judiciaire
-compétent, le service pénitentiaire d'insertion et de probation, le service
-compétent de la protection judiciaire de la jeunesse, ou toute personne
-habilitée dans les conditions de l'article 81, sixième alinéa, afin de vérifier
-le bien-fondé de cette déclaration.
+compétent, une personne habilitée dans les conditions prévues au sixième alinéa
+de l'article 81 ou, en cas d'impossibilité matérielle, le service pénitentiaire
+d'insertion et de probation, afin de vérifier le bien-fondé de cette
+déclaration.
 
 Le procureur de la République peut également recourir à une association d'aide
 aux victimes ayant fait l'objet d'un conventionnement de la part des chefs de la

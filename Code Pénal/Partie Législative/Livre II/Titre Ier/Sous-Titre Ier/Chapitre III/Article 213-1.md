@@ -15,7 +15,8 @@ Toutefois, le maximum de l'interdiction temporaire est porté à dix ans ;
 3° L'interdiction de séjour, selon les modalités prévues par l'article 131-31.
 Toutefois, le maximum de l'interdiction est porté à quinze ans ;
 
-4° La confiscation de tout ou partie de leurs biens ;
+4° La confiscation de tout ou partie des biens leur appartenant ou, sous réserve
+des droits du propriétaire de bonne foi, dont elles ont la libre disposition ;
 
 5° L'interdiction, suivant les modalités prévues par l'article 131-27, soit
 d'exercer une fonction publique ou d'exercer l'activité professionnelle ou

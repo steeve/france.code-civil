@@ -49,7 +49,13 @@ désignées par le juge d'instruction ou le juge des libertés et de la détenti
 ainsi que d'entrer en relation avec elles, de quelque façon que ce soit ;
 
 10° Se soumettre à des mesures d'examen, de traitement ou de soins, même sous le
-régime de l'hospitalisation, notamment aux fins de désintoxication ;
+régime de l'hospitalisation, notamment aux fins de désintoxication. Une copie de
+l'ordonnance de placement sous contrôle judiciaire est adressée par le juge
+d'instruction au médecin ou au psychologue qui doit suivre la personne mise en
+examen. Les rapports des expertises réalisées pendant l'enquête ou l'instruction
+sont adressés au médecin ou au psychologue, à leur demande ou à l'initiative du
+juge d'instruction. Celui-ci peut également leur adresser toute autre pièce
+utile du dossier ;
 
 11° Fournir un cautionnement dont le montant et les délais de versement, en une
 ou plusieurs fois, sont fixés par le juge d'instruction ou le juge des libertés

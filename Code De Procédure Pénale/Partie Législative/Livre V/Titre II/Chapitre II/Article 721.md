@@ -27,7 +27,10 @@ délits, commis sur un mineur, de meurtre ou assassinat, torture ou actes de
 barbarie, viol, agression sexuelle ou atteinte sexuelle et qu'elle refuse
 pendant son incarcération de suivre le traitement qui lui est proposé par le
 juge de l'application des peines, sur avis médical, en application des articles
-717-1 ou 763-7. Sa décision est prise dans les conditions prévues à l'article
+717-1 ou 763-7. Il en est de même lorsque le juge de l'application des peines
+est informé, en application de l'article 717-1, que le condamné ne suit pas de
+façon régulière le traitement qu'il lui a proposé. La décision du juge de
+l'application des peines est prise dans les conditions prévues à l'article
 712-5.
 
 Lorsque le condamné est en état de récidive légale, le retrait prévu par le

@@ -1,14 +1,15 @@
 Article L3711-2
 ----
-Les rapports des expertises médicales réalisées pendant l'enquête ou
-l'instruction ainsi que, le cas échéant, le réquisitoire définitif, l'ordonnance
-de renvoi devant le tribunal correctionnel, l'arrêt de mise en accusation et le
-jugement ou l'arrêt de condamnation et, s'il y a lieu, toute autre pièce du
-dossier sont communiquées, à sa demande, au médecin traitant, par
-l'intermédiaire du médecin coordonnateur. Il en est de même des rapports des
-expertises ordonnées par le juge de l'application des peines en cours
-d'exécution, éventuellement, de la peine privative de liberté ou de suivi
-socio-judiciaire.
+Le juge de l'application des peines communique au médecin traitant, par
+l'intermédiaire du médecin coordonnateur, copie de la décision ayant ordonné
+l'injonction de soins. Le juge communique également au médecin traitant, à la
+demande de ce dernier ou à son initiative, par l'intermédiaire du médecin
+coordonnateur, copie des rapports des expertises médicales réalisées pendant
+l'enquête ou l'instruction, du réquisitoire définitif, de la décision de renvoi
+devant la juridiction de jugement, de la décision de condamnation ainsi que des
+rapports des expertises qu'il a ordonnées en cours d'exécution de la peine. Le
+juge peut, en outre, adresser au médecin traitant toute autre pièce utile du
+dossier.
 
 Sans que leur soient opposables les dispositions de l'article 226-13 du code
 pénal, les praticiens chargés de dispenser des soins en milieu pénitentiaire
