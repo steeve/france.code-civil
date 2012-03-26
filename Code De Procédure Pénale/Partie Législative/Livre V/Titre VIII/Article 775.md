@@ -17,7 +17,9 @@ l'épreuve, lorsqu'elles doivent être considérées comme non avenues ; toutefo
 si a été prononcé le suivi socio-judiciaire prévu par l'article 131-36-1 du code
 pénal ou la peine d'interdiction d'exercer une activité professionnelle ou
 bénévole impliquant un contact habituel avec des mineurs, la décision continue
-de figurer au bulletin n° 2 pendant la durée de la mesure ;
+de figurer au bulletin n° 2 pendant la durée de la mesure. (1) Il en va de même
+des interdictions, incapacités ou déchéances prononcées, comme peine
+complémentaire, à titre définitif ;
 
 5° Les condamnations ayant fait l'objet d'une réhabilitation de plein droit ou
 judiciaire ;
@@ -43,7 +45,9 @@ condamnation demeure mentionnée au bulletin n° 2 pendant la même durée ;
 12° Les déclarations de culpabilité assorties d'une dispense de peine ou d'un
 ajournement du prononcé de celle-ci ;
 
-13° Les condamnations prononcées par des juridictions étrangères ;
+13° Les condamnations prononcées par des juridictions étrangères concernant un
+mineur ou dont l'utilisation à des fins autres qu'une procédure pénale a été
+expressément exclue par la juridiction de condamnation ;
 
 14° Les compositions pénales mentionnées à l'article 768 ;
 
