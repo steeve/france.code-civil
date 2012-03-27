@@ -1,7 +1,12 @@
 Article R283 A-2
 ----
-Lorsque les administrations financières décident de ne pas répondre à la demande
-d'assistance en application de l'article L. 283 B, elles informent l'Etat membre
-requérant par écrit des motifs de leur refus, dès qu'elles arrêtent leur
-décision et, en tout état de cause, avant l'expiration d'un délai de trois mois
-à compter de la réception de la demande.
+La demande d'assistance, le formulaire de notification uniformisé et
+l'instrument uniformisé permettant l'adoption de mesures exécutoires sur le
+territoire français sont accompagnés d'une traduction en langue française.
+
+Les documents dont la notification est demandée peuvent être envoyés dans une
+langue officielle de l'Etat membre requérant.
+
+Les administrations financières peuvent demander la traduction dans la langue
+française des documents autres que ceux mentionnés au deuxième alinéa qui
+accompagnent la demande de notification.

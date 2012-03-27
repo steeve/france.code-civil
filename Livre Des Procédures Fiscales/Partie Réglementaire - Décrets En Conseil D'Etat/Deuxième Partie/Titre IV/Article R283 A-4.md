@@ -1,17 +1,19 @@
 Article R283 A-4
 ----
-La demande de renseignements est établie par écrit selon le modèle figurant en
-annexe I au décret n° 2003-1387 du 31 décembre 2003.
+La demande de notification adressée par l'Etat membre requérant est accompagnée
+d'un formulaire de notification uniformisé qui contient au minimum les
+informations suivantes :
 
-Elle indique le nom, l'adresse et tout autre renseignement utile à
-l'identification de la personne sur laquelle portent les renseignements à
-fournir auquel l'Etat membre requérant a normalement accès ainsi que la nature
-et le montant de la créance au titre de laquelle la demande est formulée.
+1° Le nom et l'adresse du destinataire et tout autre renseignement utile à son
+identification ;
 
-Si la demande ne peut être transmise par voie électronique, elle porte le cachet
-officiel de l'Etat membre requérant et est signée par un agent de ce dernier
-dûment autorisé à la formuler.
+2° L'objet de la notification et le délai dans lequel elle doit être effectuée ;
 
-Si une demande de renseignements similaire a été adressée à un autre Etat membre
-de la Communauté européenne, l'Etat membre requérant en fait mention dans sa
-demande de renseignements.
+3° Une description des documents qui sont joints ainsi que la nature et le
+montant de la créance concernée ;
+
+4° Les noms, adresses et coordonnées du service responsable du document qui est
+joint et, s'il diffère, du service auprès duquel des informations
+complémentaires peuvent être obtenues concernant l'acte ou la décision y compris
+judiciaire notifié ou concernant les possibilités de contestation de
+l'obligation de paiement.

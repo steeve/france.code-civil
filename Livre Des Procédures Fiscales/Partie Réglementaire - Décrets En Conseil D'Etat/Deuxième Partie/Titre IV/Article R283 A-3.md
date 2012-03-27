@@ -1,11 +1,12 @@
 Article R283 A-3
 ----
-La demande de renseignements peut concerner :
+La demande de renseignements, de notification et de recouvrement ou de prise de
+mesures conservatoires est établie par écrit.
 
-a) Le débiteur ;
+Cette demande ainsi que tous les documents permettant l'adoption de mesures
+exécutoires ou conservatoires ou tout autre document relatif à la créance sont
+transmis par voie électronique à l'Etat membre requis.
 
-b) Toute autre personne tenue au paiement de la créance en application des
-dispositions en vigueur dans l'Etat membre requérant ;
-
-c) Ou, toute tierce partie détenant des biens appartenant à une des personnes
-désignées ci-dessus.
+En cas de difficultés techniques, ils peuvent valablement être transmis par voie
+postale sans pour autant que la validité des informations obtenues ou des
+mesures prises dans le cadre d'une demande d'assistance ne soit compromise.
