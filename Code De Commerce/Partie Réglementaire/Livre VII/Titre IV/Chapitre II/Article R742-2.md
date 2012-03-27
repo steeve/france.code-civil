@@ -13,3 +13,5 @@ Conseil national des greffiers des tribunaux de commerce, les personnes pouvant
 justifier de dix ans d'expérience professionnelle, dont cinq ans au moins à des
 fonctions de responsabilité au sein d'un greffe de tribunal de commerce
 impliquant délégation de tout ou partie des pouvoirs du titulaire de l'office.
+Ces personnes doivent être titulaires du diplôme prévu au 6° de l'article R.
+742-1 ou de l'un des titres ou diplômes reconnus équivalents.
