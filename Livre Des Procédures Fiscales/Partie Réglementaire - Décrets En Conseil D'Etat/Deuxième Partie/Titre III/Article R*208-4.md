@@ -16,7 +16,8 @@ Frais de timbre de dimension du nantissement constitué au profit du Trésor.
 Frais de signification de ce nantissement au comptable payeur par huissier de
 justice.
 
-b) Dépôts de fonds dans les trésoreries générales
+b) Dépôts de fonds dans les directions départementales ou, le cas échéant,
+régionales des finances publiques
 
 Frais de timbre de dimension de l'engagement souscrit par le contribuable au
 profit du Trésor.
@@ -39,7 +40,8 @@ Frais de l'acte de nantissement, s'il s'agit de valeurs au porteur
 
 b) Titres déposés à la caisse du comptable chargé du recouvrement
 
-Frais d'envoi des titres à la trésorerie générale.
+Frais d'envoi des titres à la direction départementale ou, le cas échéant,
+régionale des finances publiques.
 
 c) Titres déposés dans une banque
 

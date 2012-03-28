@@ -12,8 +12,8 @@ France d'un établissement stable ou d'une base fixe au sens de cette convention
 fiscale.
 
 Cette demande est adressée, par pli recommandé avec demande d'avis de réception,
-au directeur général des impôts. Elle peut également faire l'objet d'un dépôt
-contre remise d'un récépissé.
+au directeur général des finances publiques. Elle peut également faire l'objet
+d'un dépôt contre remise d'un récépissé.
 
 b) Si l'administration estime que la demande est incomplète au regard des
 dispositions du a, elle invite le contribuable, par lettre recommandée avec

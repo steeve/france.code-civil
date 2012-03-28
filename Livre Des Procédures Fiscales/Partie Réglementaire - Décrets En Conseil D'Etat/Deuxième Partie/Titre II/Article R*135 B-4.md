@@ -12,9 +12,9 @@ communiquées ne soient conservées, utilisées ou dupliquées à d'autres fins 
 celles indiquées par la convention.
 
 Cet intervenant, dont le nom ou la raison sociale ainsi que l'adresse seront
-déclarés préalablement à la direction générale des impôts, doit être informé par
-la collectivité ou l'établissement public des dispositions législatives et
-réglementaires qui s'appliquent.
+déclarés préalablement à la direction générale des finances publiques, doit être
+informé par la collectivité ou l'établissement public des dispositions
+législatives et réglementaires qui s'appliquent.
 
 Le prestataire de services devra procéder à la destruction de tous les fichiers
 manuels ou informatisés stockant les informations saisies dès l'achèvement de

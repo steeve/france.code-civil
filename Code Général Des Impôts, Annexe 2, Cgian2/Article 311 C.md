@@ -16,8 +16,9 @@ du code général des impôts, ces divers chiffres étant évalués comme il est
 prescrit à l'article 311 A.
 
 L'ingénieur en chef, après avoir vérifié la déclaration, transmet à la direction
-des services fiscaux, pour chaque exploitation ou exploration, les éléments
-nécessaires au calcul des deux redevances départementale et communale, ainsi
-qu'à la répartition de la redevance communale (1).
+départementale ou, le cas échéant, régionale des finances publiques, pour chaque
+exploitation ou exploration, les éléments nécessaires au calcul des deux
+redevances départementale et communale, ainsi qu'à la répartition de la
+redevance communale (1).
 
 (1) Voir Annexe II, art. 312 et 315.

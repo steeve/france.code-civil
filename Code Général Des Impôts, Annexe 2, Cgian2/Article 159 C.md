@@ -1,8 +1,8 @@
 Article 159 C
 ----
 La taxe est constatée, recouvrée et contrôlée comme en matière de taxe sur les
-salaires. Elle est versée au comptable du Trésor avant le 5 de chaque mois, quel
-que soit le montant dû.
+salaires. Elle est versée au comptable de la direction générale des finances
+publiques avant le 5 de chaque mois, quel que soit le montant dû.
 
 En cas de cession ou de cessation d'activité du fournisseur des services
 d'informations ou interactifs à caractère pornographique, la taxe est

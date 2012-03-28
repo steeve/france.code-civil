@@ -19,5 +19,5 @@ cas contraire.
 Il est fait application, dans le premier cas, des règles d'exigibilité et de
 recouvrement prévues aux articles 1701 à 1712 du code général des impôts et,
 dans le second cas, de celles qui sont prévues au titre IV du livre des
-procédures fiscales pour les impôts recouvrés par les comptables de la direction
-générale des impôts.
+procédures fiscales pour les impôts recouvrés par voie d'avis de mise en
+recouvrement.

@@ -6,9 +6,9 @@ présentée préalablement à la réalisation de l'opération qui la motive.
 
 La demande, faite par un représentant unique, dûment habilité, du promoteur du
 projet, est adressée en quatre exemplaires au ministre chargé du budget
-(services centraux de la direction générale des impôts) et comporte les
-renseignements permettant d'apprécier la portée exacte du projet au regard des
-conditions fixées pour l'octroi de l'agrément et concernant notamment :
+(services centraux de la direction générale des finances publiques) et comporte
+les renseignements permettant d'apprécier la portée exacte du projet au regard
+des conditions fixées pour l'octroi de l'agrément et concernant notamment :
 
 1. L'identification de l'opérateur économique et de son activité ;
 

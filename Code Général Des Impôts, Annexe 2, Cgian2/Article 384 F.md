@@ -13,10 +13,10 @@ jusqu'au 31 décembre de la deuxième année qui suit celle du versement.
 Les demandes de dégrèvement ou de restitution sont adressées au responsable du
 service de l'Etat dans le département, chargé de l'urbanisme, ou, en cas
 d'application de l'article R. 424-1 du même code, au maire, qui fait connaître
-le cas échéant au trésorier payeur général le montant du dégrèvement ou de la
-restitution à effectuer. Ce montant est calculé déduction faite du prélèvement
-pour frais d'assiette et de perception mentionné à l'article L. 333-12, deuxième
-alinéa, du même code.
+le cas échéant au directeur départemental ou, le cas échéant, régional des
+finances publiques le montant du dégrèvement ou de la restitution à effectuer.
+Ce montant est calculé déduction faite du prélèvement pour frais d'assiette et
+de perception mentionné à l'article L. 333-12, deuxième alinéa, du même code.
 
 La décision de dégrèvement ou de restitution est prise par le chef du service de
 l'Etat dans le département, chargé de l'urbanisme, ou en cas d'application de

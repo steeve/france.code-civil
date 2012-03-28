@@ -1,6 +1,6 @@
 Article 242 C
 ----
-I. - Pour l'application du d du 1° du 7 de l'article 261 du code général des
+I.-Pour l'application du d du 1° du 7 de l'article 261 du code général des
 impôts, la transparence financière des organismes qui décident de verser une
 rémunération à leurs dirigeants est établie lorsque les conditions suivantes
 sont satisfaites :
@@ -14,7 +14,7 @@ rémunération ;
 
 c) Les comptes de l'organisme sont certifiés par un commissaire aux comptes.
 
-II. - L'adéquation de la rémunération aux sujétions imposées aux dirigeants
+II.-L'adéquation de la rémunération aux sujétions imposées aux dirigeants
 désignés au d du 1° du 7 de l'article 261 du même code est réputée acquise
 lorsque, dans la limite du montant prévu au neuvième alinéa du d précité, les
 conditions suivantes sont satisfaites :
@@ -28,7 +28,7 @@ dirigeants concernés, notamment en termes de temps de travail ;
 c) La rémunération est comparable à celles couramment versées pour des
 responsabilités de nature similaire et de niveau équivalent.
 
-III. - Pour l'appréciation des montants de ressources mentionnés aux quatrième,
+III.-Pour l'appréciation des montants de ressources mentionnés aux quatrième,
 cinquième, sixième et huitième alinéas du d du 1° du 7 de l'article 261 du même
 code :
 
@@ -51,12 +51,12 @@ compte que pour l'appréciation de son propre montant de ressources et, le cas
 échéant, pour l'appréciation du montant des ressources d'un seul des organismes
 dont il est membre.
 
-IV. - L'organisme qui rémunère, en application du d du 1° du 7 de l'article 261
-du même code, un ou plusieurs de ses dirigeants, doit communiquer chaque année à
-la direction des services fiscaux dont il dépend un document attestant du
-montant de ses ressources mentionnées au huitième alinéa du d précité, constaté
-dans les conditions prévues à ce même alinéa et précisant l'identité des
-dirigeants rémunérés.
+IV.-L'organisme qui rémunère, en application du d du 1° du 7 de l'article 261 du
+même code, un ou plusieurs de ses dirigeants, doit communiquer chaque année à la
+direction départementale ou, le cas échéant, régionale des finances publiques
+dont il dépend un document attestant du montant de ses ressources mentionnées au
+huitième alinéa du d précité, constaté dans les conditions prévues à ce même
+alinéa et précisant l'identité des dirigeants rémunérés.
 
 Ce document doit être déposé au plus tard dans les six mois suivant la clôture
 de l'exercice au titre duquel les rémunérations ont été versées.

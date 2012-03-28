@@ -6,20 +6,20 @@ profession comporte à titre accessoire des opérations de cette nature, ne peut
 effectuer de ce chef aucun paiement ni ouvrir aucun compte sans exiger du
 requérant la justification de son identité et l'indication de son domicile réel.
 
-Elle est, en outre, tenue de remettre à la direction des services fiscaux du
-lieu de l'établissement payeur, dans des conditions qui sont arrêtées par le
-ministre de l'économie et des finances (1), le relevé des sommes payées par
-elle, sous quelque forme que ce soit, sur présentation ou remise de coupons ou
-d'instruments représentatifs de coupons.
+Elle est, en outre, tenue de remettre à la direction départementale ou, le cas
+échéant, régionale des finances publiques du lieu de l'établissement payeur,
+dans des conditions qui sont arrêtées par le ministre chargé du budget (1), le
+relevé des sommes payées par elle, sous quelque forme que ce soit, sur
+présentation ou remise de coupons ou d'instruments représentatifs de coupons.
 
 Les mêmes obligations incombent aux collectivités pour les dividendes et
 intérêts de leurs propres actions, parts ou obligations qu'elles payent à des
 personnes ou sociétés autres que celles qui sont chargées du service de leurs
 coupons.
 
-Des arrêtés du ministre de l'économie et des finances (1) fixent les conditions
-dans lesquelles les caisses publiques sont tenues d'appliquer les dispositions
-du présent article.
+Des arrêtés du ministre chargé du budget (1) fixent les conditions dans
+lesquelles les caisses publiques sont tenues d'appliquer les dispositions du
+présent article.
 
 2. Les coupons présentés sont, sauf preuve contraire, réputés propriété du
 requérant. Dans le cas où celui-ci présente des coupons pour le compte de tiers,

@@ -3,13 +3,10 @@ Article 371 G
 La décision d'agrément est prise par une commission instituée au chef-lieu de
 région.
 
-Cette commission, placée sous la présidence du directeur chargé de la direction
-des services fiscaux située au chef-lieu de la région dans laquelle le centre a
-son siège, ou du directeur chargé de la direction spécialisée des impôts pour la
-région d'Ile-de-France et pour Paris lorsque le siège du centre se situe dans la
-région d'Ile-de-France, comprend également :
+Cette commission, placée sous la présidence du directeur régional des finances
+publiques de la région dans laquelle le centre a son siège, comprend également :
 
-a. un fonctionnaire des services fiscaux ;
+a. un fonctionnaire de la direction régionale des finances publiques ;
 
 b. un représentant du ministre chargé de l'industrie ;
 

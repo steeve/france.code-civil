@@ -8,9 +8,5 @@ liquidé, notifié et recouvré dans les conditions prévues aux articles 384 B 
 384 C.
 
 Lorsque l'autorité compétente autorise le transfert d'un permis de construire
-qui a rendu exigible le versement, elle doit en informer sans délai le trésorier
-payeur général.
-
-administrative.
-
-(1) Voir la note (1) de l'article 1723 octies du CGI.
+qui a rendu exigible le versement, elle doit en informer sans délai le directeur
+départemental ou, le cas échéant, régional des finances publiques.

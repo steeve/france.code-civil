@@ -27,10 +27,8 @@ d'habilitation après examen des pièces mentionnées au troisième alinéa.
 
 Dans le cas où des changements interviennent en ce qui concerne les responsables
 de leurs services comptables, les centres bénéficiant des habilitations
-mentionnées aux premier et deuxième alinéas doivent informer le directeur chargé
-de la direction des services fiscaux située au chef-lieu de la région dans
-laquelle le centre a son siège, ou le directeur chargé de la direction
-spécialisée des impôts pour la région d'Ile-de-France et pour Paris lorsque le
-siège du centre se situe dans la région d'Ile-de-France dans un délai d'un mois.
-Le maintien de l'habilitation est subordonné à une décision de la commission
-prise dans les conditions prévues aux troisième et quatrième alinéas.
+mentionnées aux premier et deuxième alinéas doivent informer le directeur
+régional des finances publiques de la région dans laquelle le centre a son
+siège, dans un délai d'un mois. Le maintien de l'habilitation est subordonné à
+une décision de la commission prise dans les conditions prévues aux troisième et
+quatrième alinéas.

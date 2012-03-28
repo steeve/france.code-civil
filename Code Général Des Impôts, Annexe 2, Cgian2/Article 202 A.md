@@ -32,5 +32,6 @@ soumis aux agréments, mentionnés au II, dispose d'un délai de trois mois à
 compter de la réception de la demande pour délivrer l'attestation. A défaut de
 décision dans ce délai, l'attestation est réputée accordée. Le refus de
 délivrance de l'attestation doit être motivé. Un exemplaire de l'attestation ou
-de la décision de refus est adressé au demandeur et à la direction des services
-fiscaux dont il relève.
+de la décision de refus est adressé au demandeur et à la direction
+départementale ou, le cas échéant, régionale des finances publiques dont il
+relève.
