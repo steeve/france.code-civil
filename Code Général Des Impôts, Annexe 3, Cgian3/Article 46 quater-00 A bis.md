@@ -1,6 +1,6 @@
 Article 46 quater-00 A bis
 ----
-La commission se réunit sur la convocation du préfet de région. Elle délibère
+La commission se réunit sur la convocation du préfet de Corse. Elle délibère
 valablement à condition qu'il y ait au moins huit membres présents. En cas de
 partage égal des voix, la voix du président est prépondérante.
 

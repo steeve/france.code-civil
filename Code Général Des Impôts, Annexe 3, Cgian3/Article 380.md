@@ -7,5 +7,5 @@ désignation et l'adressse du principal établissement de l'entreprise.
 
 Le complément d'impôt résultant, le cas échéant, de cette liquidation est
 adressé spontanément, au plus tard à la date fixée pour le dépôt de la
-déclaration de résultat, au comptable des impôts mentionné au 1 de l'article
-358.
+déclaration de résultat, au comptable de la direction générale des finances
+publiques mentionné au 1 de l'article 358.

@@ -3,7 +3,7 @@ Article 46 AG quaterdecies
 Le contribuable doit joindre à sa déclaration de revenus de l'année au titre de
 laquelle il demande le bénéfice de la réduction d'impôt les documents suivants :
 
-I. - Lorsque le logement neuf est destiné à devenir son habitation principale :
+I.-Lorsque le logement neuf est destiné à devenir son habitation principale :
 
 1. L'engagement prévu au a du 2 de l'article 199 undecies A du code général des
 impôts qui comporte les éléments suivants :
@@ -31,7 +31,7 @@ facture de ces équipements comportant, outre les mentions prévues à l'article
 289 du code général des impôts, l'adresse de réalisation des travaux, leur
 nature ainsi que la désignation et le montant des équipements.
 
-II. - Lorsque le logement neuf est destiné à la location :
+II.-Lorsque le logement neuf est destiné à la location :
 
 1. L'engagement prévu au b du 2 ou au 1° du 6 de l'article 199 undecies A du
 code général des impôts qui comporte les éléments définis aux a, b, c et d du I
@@ -54,12 +54,12 @@ dispositions du huitième alinéa du 6 de l'article 199 undecies A du code gén�
 des impôts.
 
 Si un bail n'est pas signé à la date de souscription de la déclaration susvisée,
-les documents énumérés aux 1, 3 et 4 sont joints à la déclaration de l'année au
+les documents énumérés aux 1,3 et 4 sont joints à la déclaration de l'année au
 cours de laquelle le bail est signé. Il en est de même en cas de changement de
 locataire ou de sous-locataire pendant la durée de l'engagement mentionné au 1.
 
-III. - Lorsque le logement qui fait l'objet des travaux définis à l'article 46
-AG terdecies A est destiné à devenir son habitation principale ou à être loué,
+III.-Lorsque le logement qui fait l'objet des travaux définis à l'article 46 AG
+terdecies A est destiné à devenir son habitation principale ou à être loué,
 l'engagement prévu au e du 2 de l'article 199 undecies A du code général des
 impôts comporte les éléments définis aux a, b, c, d du 1 du I.
 
@@ -68,11 +68,11 @@ des entreprises ayant réalisé les travaux qui précisent, outre les mentions
 prévues à l'article 289 du code général des impôts, l'adresse de réalisation des
 travaux, leur nature et leur montant.
 
-IV. - Lorsque le logement est construit par une société, les obligations
+IV.-Lorsque le logement est construit par une société, les obligations
 déclaratives prévues au II incombent à la société. Les documents sont adressés
 avec la déclaration d'achèvement dans les six mois de l'achèvement du logement à
-la direction des services fiscaux auprès de laquelle la société souscrit sa
-déclaration de résultats.
+la direction départementale ou, le cas échéant, régionale des finances publiques
+auprès de laquelle la société souscrit sa déclaration de résultats.
 
 La société délivre en double exemplaire à chaque souscripteur un document
 attestant que la location et, le cas échéant, la sous-location remplissent les
@@ -80,9 +80,9 @@ conditions prévues aux articles 46 AG undecies à 46 AG terdecies. Le
 souscripteur en joint un exemplaire à sa déclaration de revenus de l'année au
 cours de laquelle le bail est signé.
 
-V. - Pour bénéficier de l'avantage fiscal prévu à l'article 199 undecies A du
-code général des impôts, les contribuables sont tenus de joindre à la
-déclaration de revenus de chacune des années ouvrant droit au bénéfice de la
-réduction d'impôt une note annexe établie sur un imprimé fourni par
-l'administration et comportant, selon la nature des investissements et le taux
-qui leur est applicable, les modalités de calcul de la réduction d'impôt.
+V.-Pour bénéficier de l'avantage fiscal prévu à l'article 199 undecies A du code
+général des impôts, les contribuables sont tenus de joindre à la déclaration de
+revenus de chacune des années ouvrant droit au bénéfice de la réduction d'impôt
+une note annexe établie sur un imprimé fourni par l'administration et
+comportant, selon la nature des investissements et le taux qui leur est
+applicable, les modalités de calcul de la réduction d'impôt.

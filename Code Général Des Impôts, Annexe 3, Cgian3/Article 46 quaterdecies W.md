@@ -9,7 +9,7 @@ b) Le sous-directeur des affaires économiques du ministère de l'outre-mer ;
 
 c) L'inspecteur général des finances chargé de l'outre-mer ;
 
-d) Le directeur général des impôts ;
+d) Le directeur général des finances publiques ;
 
 e) Le directeur du budget ;
 

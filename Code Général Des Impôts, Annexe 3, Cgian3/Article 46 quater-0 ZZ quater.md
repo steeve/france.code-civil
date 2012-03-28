@@ -32,6 +32,6 @@ III.-Lorsque les parts cédées au cours d'un exercice ont été souscrites depu
 moins de huit ans par le cédant ou lorsque la société d'épargne forestière est
 dissoute ou cesse de respecter les dispositions prévues aux articles L. 214-85
 et L. 214-87 du code monétaire et financier, elle adresse, dans les deux mois
-suivant l'un de ces événements, à la direction des services fiscaux du domicile
-des souscripteurs concernés le relevé mentionné au I ou un duplicata de ce
-relevé.
+suivant l'un de ces événements, à la direction départementale ou, le cas
+échéant, régionale des finances publiques du domicile des souscripteurs
+concernés le relevé mentionné au I ou un duplicata de ce relevé.

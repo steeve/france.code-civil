@@ -5,12 +5,13 @@ M du code général des impôts, les entreprises souscrivent une déclaration
 spéciale conforme à un modèle établi par l'administration.
 
 Les personnes morales passibles de l'impôt sur les sociétés déposent cette
-déclaration spéciale auprès du comptable de la direction générale des impôts
-avec le relevé de solde mentionné à l'article 360. S'agissant des sociétés
-relevant du régime des groupes de sociétés prévu à l'article 223 A du code
-général des impôts, la société mère dépose les déclarations spéciales pour le
-compte des sociétés du groupe. Elle les joint, y compris celle la concernant, au
-relevé de solde relatif au résultat d'ensemble du groupe.
+déclaration spéciale auprès du comptable de la direction générale des finances
+publiques du lieu d'imposition défini à l'article 218 A du code général des
+impôts avec le relevé de solde mentionné à l'article 360. S'agissant des
+sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du
+code général des impôts, la société mère dépose les déclarations spéciales pour
+le compte des sociétés du groupe. Elle les joint, y compris celle la concernant,
+au relevé de solde relatif au résultat d'ensemble du groupe.
 
 Les autres entreprises joignent la déclaration spéciale à la déclaration
 annuelle de résultat qu'elles sont tenues de déposer en vertu des articles 53 A

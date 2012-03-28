@@ -8,8 +8,8 @@ de liquidation, ainsi que la désignation et l'adresse du principal établisseme
 de l'entreprise.
 
 Le relevé de solde accompagné le cas échéant du complément d'impôt résultant de
-cette liquidation est adressé au comptable de la direction générale des impôts
-mentionné au 1 de l'article 358.
+cette liquidation est adressé au comptable de la direction générale des finances
+publiques du lieu d'imposition défini à l'article 218 A du même code.
 
 Les demandes de restitution de créances remboursables sont formulées sur ce
 relevé.

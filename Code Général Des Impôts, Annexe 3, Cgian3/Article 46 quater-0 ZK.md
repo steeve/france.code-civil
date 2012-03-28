@@ -14,7 +14,8 @@ de l'article 44 octies A et du neuvième alinéa du I de l'article 44 decies du
 code général des impôts.
 
 La société mère dépose avec son relevé de solde auprès du comptable de la
-direction générale des impôts la liste des sociétés membres du groupe et des
+direction générale des finances publiques du lieu d'imposition défini à
+l'article 218 A du code précité la liste des sociétés membres du groupe et des
 sociétés qui cessent d'être membres de ce groupe défini à l'article 223 A du
-code général des impôts. Cette liste indique le taux de détention directe et
-indirecte par la société mère.
+code précité. Cette liste indique le taux de détention directe et indirecte par
+la société mère.

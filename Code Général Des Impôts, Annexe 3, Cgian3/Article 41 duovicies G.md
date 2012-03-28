@@ -1,9 +1,10 @@
 Article 41 duovicies G
 ----
 Le gérant ou le dépositaire des actifs d'un fonds commun de placement à risques
-adresse, ayant le 16 février de chaque année, à la direction des services
-fiscaux auprès de laquelle il souscrit sa déclaration de résultats un relevé des
-opérations de l'année précédente mentionnant :
+adresse, ayant le 16 février de chaque année, à la direction départementale ou,
+le cas échéant, régionale des finances publiques auprès de laquelle il souscrit
+sa déclaration de résultats un relevé des opérations de l'année précédente
+mentionnant :
 
 1° Pour chaque propriétaire, le montant global des cessions de parts qu'il a
 effectuées et des rachats opérés par le fonds.

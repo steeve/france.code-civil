@@ -6,17 +6,18 @@ accordés par le ministre chargé du budget.
 
 Les demandes, établies en quatre exemplaires, sur papier libre, conformément à
 un modèle fixé par l'administration, sont adressées au ministre chargé du budget
-(services centraux de la direction générale des impôts) et comportent notamment
-les renseignements et documents permettant d'apprécier l'état de difficulté de
-l'entreprise concernée.
+(services centraux de la direction générale des finances publiques) et
+comportent notamment les renseignements et documents permettant d'apprécier
+l'état de difficulté de l'entreprise concernée.
 
 II. L'agrément prévu au a du I de l'article 44 decies du code général des impôts
 ainsi que celui prévu au b du 2° du I de l'article 1466 B du même code sont
 accordés par le ministre chargé du budget.
 
 Les demandes, établies en quatre exemplaires, sur papier libre, conformément à
-un modèle fixé par l'administration, sont adressées au directeur des services
-fiscaux du département de Corse où est implantée l'entreprise demanderesse.
+un modèle fixé par l'administration, sont adressées au directeur départemental
+ou, le cas échéant, régional des finances publiques du département de Corse où
+est implantée l'entreprise demanderesse.
 
 L'entreprise justifie que ses méthodes de production sont conformes aux
 objectifs fixés par l'article 1er du règlement (CEE) du Conseil n° 2078/92 du 30

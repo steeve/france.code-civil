@@ -13,7 +13,8 @@ formulaire de déclaration prévu à l'article 48.
 
 Les déclarations mentionnées aux premier et deuxième alinéas doivent être
 adressées, dans un délai de soixante jours à compter du jour de la transmission
-ou du rachat des titres, à la direction des services fiscaux auprès de laquelle
-la société souscrit ses déclarations. Toutefois, lorsque la transmission résulte
-du décès du contribuable, ces déclarations sont adressées à cette même direction
-dans le délai prévu au 2 de l'article 204 du code général des impôts.
+ou du rachat des titres, à la direction départementale ou, le cas échéant,
+régionale des finances publiques auprès de laquelle la société souscrit ses
+déclarations. Toutefois, lorsque la transmission résulte du décès du
+contribuable, ces déclarations sont adressées à cette même direction dans le
+délai prévu au 2 de l'article 204 du code général des impôts.

@@ -27,6 +27,10 @@ réception postale, être motivée et préciser la consistance des travaux prév
 dans l'engagement primitif sur lesquels porte la prorogation demandée ainsi que
 le montant des droits dont l'exonération est subordonnée à leur exécution.
 
+L'autorité compétente de l'Etat mentionnée aux IV et IV bis du A de l'article
+1594-0 G précité est le directeur départemental ou, le cas échéant, régional des
+finances publiques.
+
 IV.-La demande de prorogation du délai prévue au IV bis du A de l'article 1594-0
 G du code général des impôts doit être formulée au plus tard dans le mois qui
 suit l'expiration du délai précédemment imparti. Elle doit être adressée par pli

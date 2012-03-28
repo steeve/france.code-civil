@@ -1,15 +1,15 @@
 Article 350 terdecies
 ----
 I. Sous réserve des dispositions des articles 409 et 410 de l'annexe II au code
-général des impôts, seuls les fonctionnaires de la direction générale des impôts
-appartenant à des corps des catégories A et B peuvent fixer les bases
-d'imposition et liquider les impôts, taxes et redevances ainsi que proposer les
-rectifications.
+général des impôts, seuls les fonctionnaires de la direction générale des
+finances publiques appartenant à des corps des catégories A et B peuvent fixer
+les bases d'imposition et liquider les impôts, taxes et redevances ainsi que
+proposer les rectifications.
 
 Les fonctionnaires mentionnés au premier alinéa peuvent se faire assister pour
 les opérations de contrôle par des fonctionnaires stagiaires et par tout autre
-fonctionnaire des impôts affecté ou non dans le même service déconcentré ou
-service à compétence nationale.
+fonctionnaire de la direction générale des finances publiques affecté ou non
+dans le même service déconcentré ou service à compétence nationale.
 
 II. Les fonctionnaires mentionnés au premier alinéa du I peuvent exercer les
 attributions que ces dispositions leur confèrent à l'égard des personnes
@@ -56,4 +56,14 @@ rôle de direction de droit ou de fait, d'une relation d'association, de
 subordination ou d'interposition, ou de l'appartenance à un même groupe
 d'intérêts. Les arrêtés d'attributions des services déconcentrés et des services
 à compétence nationale définissent, s'il y a lieu, la compétence des agents au
-regard des personnes unies par ces liens.
+regard des personnes unies par ces liens. VI.-Sans préjudice des dispositions du
+I, les fonctionnaires de la direction générale des finances publiques
+appartenant à des corps de catégorie C sont également compétents pour procéder
+au contrôle et proposer des rectifications de la taxe prévue au I de l'article
+1605 du code général des impôts.
+
+VII.-Par dérogation aux dispositions du II, les fonctionnaires compétents pour
+procéder au contrôle et proposer des rectifications de la taxe prévue au I de
+l'article 1605 précité exercent leurs attributions dans le ressort territorial
+de la région dans laquelle est situé le service auquel ils sont affectés ou,
+s'il est plus étendu, dans le ressort territorial de ce service.

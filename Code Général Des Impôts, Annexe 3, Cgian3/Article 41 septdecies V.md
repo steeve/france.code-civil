@@ -1,8 +1,9 @@
 Article 41 septdecies V
 ----
 Le dépositaire des actifs du fonds adresse, le cas échéant, avant le 16 février
-à la direction des services fiscaux du lieu de sa résidence ou de son principal
-établissement, un document faisant apparaître pour l'année précédente :
+à la direction départementale ou, le cas échéant, régionale des finances
+publiques du lieu de sa résidence ou de son principal établissement, un document
+faisant apparaître pour l'année précédente :
 
 1. Dans l'hypothèse où l'un des propriétaires de parts a détenu plus de 10 % des
 parts pendant une partie de l'année, la période pendant laquelle la limite de 10

@@ -43,12 +43,12 @@ fonds sont cédées ou rachetées ou lorsque, dans ce même délai, l'une des
 conditions prévues aux articles L. 214-41-1, L. 214-41 ou L. 214-36 du code
 monétaire et financier et au III de l'article 885-0 V bis du code général des
 impôts cesse d'être satisfaite, la société de gestion du fonds ou le dépositaire
-des actifs de ce fonds adresse, au souscripteur et à la direction des services
-fiscaux dans le ressort de laquelle est souscrite sa déclaration de résultat, un
-état individuel qui comprend, outre les informations mentionnées au 2, le nombre
-des parts cédées ou rachetées, le montant et la date de la cession ou du rachat
-ainsi que, le cas échéant, la nature de la condition qui cesse d'être
-satisfaite.
+des actifs de ce fonds adresse, au souscripteur et à la direction départementale
+ou, le cas échéant, régionale des finances publiques dans le ressort de laquelle
+est souscrite sa déclaration de résultat, un état individuel qui comprend, outre
+les informations mentionnées au 2, le nombre des parts cédées ou rachetées, le
+montant et la date de la cession ou du rachat ainsi que, le cas échéant, la
+nature de la condition qui cesse d'être satisfaite.
 
 Cet état doit être délivré avant la date limite de dépôt de la déclaration
 d'impôt de solidarité sur la fortune suivant la cession ou le rachat des parts
@@ -70,9 +70,10 @@ code général des impôts satisfont aux conditions mentionnées aux a à e ou a
 à h du 1 du I de l'article 885-0 V bis du code précité.
 
 La société de gestion du fonds ou le dépositaire de ses actifs adresse, à la
-clôture de chaque exercice, à la direction des services fiscaux dont il relève,
-un état de chacun des inventaires semestriels de l'actif du fonds mentionnés au
-premier alinéa, à l'appui du bilan et du compte de résultats.
+clôture de chaque exercice, à la direction départementale ou, le cas échéant,
+régionale des finances publiques dont il relève, un état de chacun des
+inventaires semestriels de l'actif du fonds mentionnés au premier alinéa, à
+l'appui du bilan et du compte de résultats.
 
 III.-1. L'engagement de conservation des parts prévu au 1 du III de l'article
 885-0 V bis du code précité est constaté par un document, établi en double

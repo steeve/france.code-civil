@@ -22,5 +22,7 @@ mentionnant le taux d'intérêt nominal et le taux actuariel brut de ces prêts
 ainsi que le montant et la date des échéances d'amortissement et d'intérêts.
 
 Le remboursement du crédit d'impôt est subordonné à la remise au comptable de la
-direction générale des impôts d'une copie de la quittance certifiant du paiement
-des intérêts dont le montant sert de base au calcul du crédit d'impôt.
+direction générale des finances publiques du lieu d'imposition défini à
+l'article 218 A du code général des impôts d'une copie de la quittance
+certifiant du paiement des intérêts dont le montant sert de base au calcul du
+crédit d'impôt.

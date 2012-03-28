@@ -1,8 +1,8 @@
 Article 39 B
 ----
-Sont souscritres auprès de la direction des services fiscaux du lieu du domicile
-de la personne ou du siège de l'établissement ou du bureau qui a assuré le
-paiement :
+Sont souscritres auprès de la direction départementale ou, le cas échéant,
+régionale des finances publiques du lieu du domicile de la personne ou du siège
+de l'établissement ou du bureau qui a assuré le paiement :
 
 1° La déclaration prévue à l'article 87 du code général des impôts lorsqu'elle
 concerne des traitements, émoluments, salaires ou rétributions versés à des

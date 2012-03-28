@@ -3,9 +3,10 @@ Article 41 sexdecies C
 Le gérant d'un fonds commun de placement doit, dans les trente jours de la date
 de mise en distribution des produits des actifs compris dans le fonds, et au
 plus tard dans les trente jours suivant le délai de cinq mois prévu à l'article
-L. 214-10 du code monétaire et financier, déposer auprès de la direction des
-services fiscaux désignée au premier alinéa de l'article 41 sexdecies A, un état
-sur papier libre comportant l'indication :
+L. 214-10 du code monétaire et financier, déposer auprès de la direction
+départementale ou, le cas échéant, régionale des finances publiques désignée au
+premier alinéa de l'article 41 sexdecies A, un état sur papier libre comportant
+l'indication :
 
 a. Des dates d'ouverture et de clôture de l'exercice dont les produits ont été
 mis en distribution ;

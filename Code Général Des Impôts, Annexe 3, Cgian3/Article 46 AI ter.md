@@ -2,16 +2,17 @@ Article 46 AI ter
 ----
 I. La société de gestion d'un fonds commun de placement dans l'innovation ou le
 dépositaire des actifs de ce fonds agissant pour le compte de la société de
-gestion informe la direction des services fiscaux dans le ressort de laquelle
-est souscrite sa déclaration de résultats, de la constitution d'un fonds commun
-de placement dans l'innovation ou, le cas échéant, de la transformation d'un
-fonds commun de placement à risques existant en fonds commun de placement dans
-l'innovation. Cette déclaration intervient dans le mois qui suit la création ou
-la transformation du fonds.
+gestion informe la direction départementale ou, le cas échéant, régionale des
+finances publiques dans le ressort de laquelle est souscrite sa déclaration de
+résultats, de la constitution d'un fonds commun de placement dans l'innovation
+ou, le cas échéant, de la transformation d'un fonds commun de placement à
+risques existant en fonds commun de placement dans l'innovation. Cette
+déclaration intervient dans le mois qui suit la création ou la transformation du
+fonds.
 
 II. La société de gestion du fonds ou le dépositaire des actifs de ce fonds est
 soumis aux obligations définies aux articles 41 sexdecies A à 41 sexdecies F et
-280 A de la présente annexe ainsi qu'à l'articleR. 87-1 du livre des procédures
+280 A de la présente annexe ainsi qu'à l'article R. 87-1 du livre des procédures
 fiscales.
 
 III. En cas de cession ou de rachat de parts, de dissolution du fonds ou de
@@ -20,9 +21,10 @@ dépositaire des actifs de ce fonds est soumis aux obligations définies aux
 articles 41 duovicies F et 41 duovicies G.
 
 IV. La société de gestion du fonds ou le dépositaire des actifs de ce fonds
-adresse, à la direction des services fiscaux désignée au I, un état de chacun
-des inventaires semestriels de l'actif du fonds prévus à l'article D. 214-60 du
-code monétaire et financier, à l'appui du bilan et du compte de résultats.
+adresse, à la direction départementale ou, le cas échéant, régionale des
+finances publiques désignée au I, un état de chacun des inventaires semestriels
+de l'actif du fonds prévus à l'article D. 214-60 du code monétaire et financier,
+à l'appui du bilan et du compte de résultats.
 
 V. La société de gestion du fonds ou le dépositaire des actifs de ce fonds
 délivre, au plus tard le 16 février de l'année civile qui suit celle de la
@@ -53,11 +55,11 @@ VII. Lorsque, au cours des cinq années qui suivent leur souscription, les parts
 du fonds sont cédées ou rachetées ou lorsque, dans ce même délai, l'une des
 conditions prévues à l'article L. 214-41 du code monétaire et financier cesse
 d'être remplie, la société de gestion du fonds ou le dépositaire des actifs de
-ce fonds adresse, au souscripteur et à la direction des services fiscaux
-désignée au I, un état individuel qui comprend, outre les informations indiquées
-au V, le nombre des parts cédées ou rachetées, le montant et la date de la
-cession ou du rachat ainsi que, le cas échéant, la nature de la condition qui
-cesse d'être remplie.
+ce fonds adresse, au souscripteur et à la direction départementale ou, le cas
+échéant, régionale des finances publiques désignée au I, un état individuel qui
+comprend, outre les informations indiquées au V, le nombre des parts cédées ou
+rachetées, le montant et la date de la cession ou du rachat ainsi que, le cas
+échéant, la nature de la condition qui cesse d'être remplie.
 
 Cet état doit être délivré avant le 16 février de l'année qui suit celle de la
 cession ou du rachat des parts ou du non-respect de l'une des conditions prévues

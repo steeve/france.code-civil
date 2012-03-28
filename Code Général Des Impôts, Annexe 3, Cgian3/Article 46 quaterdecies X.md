@@ -5,12 +5,13 @@ commission locale est composée comme suit :
 
 a) Le préfet, président ;
 
-b) Le trésorier-payeur général ;
+b) Le directeur départemental ou, le cas échéant, régional des finances
+publiques ;
 
 c) Le secrétaire général des affaires économiques ou le fonctionnaire en tenant
 lieu ;
 
-d) Le directeur des services fiscaux ;
+d) (Abrogé)
 
 e) Le directeur du travail et de l'emploi ;
 

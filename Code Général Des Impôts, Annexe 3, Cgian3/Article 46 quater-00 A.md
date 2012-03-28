@@ -1,22 +1,21 @@
 Article 46 quater-00 A
 ----
 La commission mentionnée au I de l'article 208 quater A du code général des
-impôts comprend treize membres :
+impôts comprend onze membres :
 
-Le préfet de région qui la préside ;
+Le préfet de Corse qui la préside ;
 
-Le trésorier-payeur général de la région Corse et celui de la Haute-Corse ;
+Le directeur régional des finances publiques de la Corse et du département de la
+Corse-du-Sud et le directeur départemental des finances publiques de la
+Haute-Corse ;
 
-Le directeur des services fiscaux de la Haute-Corse et celui de la Corse-du-Sud
-;
-
-Le directeur départemental de la concurrence, de la consommation et de la
-répression des fraudes ;
+Le directeur départemental de la cohésion sociale et de la protection des
+populations ;
 
 Le directeur régional des douanes de Corse ;
 
-Six représentants des organisations professionnelles de la région Corse désignés
-selon les modalités suivantes :
+Six représentants des organisations professionnelles de la Corse désignés selon
+les modalités suivantes :
 
 Un représentant désigné par la chambre départementale de commerce et d'industrie
 d'Ajaccio ;
@@ -35,5 +34,6 @@ Un représentant désigné par la chambre départementale de métiers et de
 l'artisanat de la Corse-du-Sud.
 
 Le secrétariat de la commission est assuré par un agent de la direction générale
-des impôts désigné par le préfet de région, sur proposition du directeur des
-services fiscaux de la Corse-du-Sud.
+des finances publiques désigné par le préfet de Corse, sur proposition du
+directeur régional des finances publiques de la Corse et du département de la
+Corse-du-Sud.

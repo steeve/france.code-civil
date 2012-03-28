@@ -22,8 +22,9 @@ ainsi que le montant et la date des cessions.
 
 Lorsque les actions cédées au cours d'une année ont été souscrites depuis moins
 de cinq ans par le cédant, la Sofica adresse avant le 31 mars de l'année
-suivante à la direction des services fiscaux du domicile du cédant le relevé
-mentionné ci-dessus ou un duplicata de ce relevé.
+suivante à la direction départementale ou, le cas échéant, régionale des
+finances publiques du domicile du cédant le relevé mentionné ci-dessus ou un
+duplicata de ce relevé.
 
 Ce relevé est établi sur papier libre, conformément au modèle fixé par
 l'administration.

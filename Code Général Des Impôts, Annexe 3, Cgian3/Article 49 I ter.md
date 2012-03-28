@@ -1,15 +1,15 @@
 Article 49 I ter
 ----
-I. - Pour l'application des sixième et septième alinéas du 1 de l'article 242
-ter du code général des impôts, les personnes mentionnées au premier alinéa de
-cet article qui assurent le paiement des intérêts de créances de toute nature et
+I.-Pour l'application des sixième et septième alinéas du 1 de l'article 242 ter
+du code général des impôts, les personnes mentionnées au premier alinéa de cet
+article qui assurent le paiement des intérêts de créances de toute nature et
 produits assimilés définis au III doivent joindre à la déclaration prévue à
 l'article 49 D, et dans le même délai, un état de ces sommes, payées au cours de
 l'année précédente à un bénéficiaire effectif défini au II.
 
 Par dérogation, les gérants et les dépositaires des actifs des fonds communs de
 créances et des fonds communs de placement ne bénéficiant pas de la procédure de
-reconnaissance mutuelle des agréments prévue par la directive 85/611/CEE du
+reconnaissance mutuelle des agréments prévue par la directive 85/611/ CEE du
 Conseil du 20 décembre 1985 portant coordination des dispositions législatives,
 réglementaires et administratives concernant certains organismes de placement
 collectif en valeurs mobilières ainsi que les représentants à l'égard des tiers
@@ -25,13 +25,14 @@ expresse, irrévocable et globale, formulée soit par le gérant du fonds, qui e
 informe le dépositaire des actifs, soit, pour tout autre organisme ou entité,
 son représentant à l'égard des tiers. Cette option est formulée au plus tard le
 30 juin 2005 pour les fonds, organismes ou entités existant à cette date, ou
-dans le mois de leur création dans les autres cas, auprès de la direction des
-services fiscaux désignée par l'article 49 H, qui leur délivre un certificat.
-Les organismes ou entités qui reçoivent des sommes mentionnées au III d'un tiers
-résident d'un autre Etat membre de la Communauté européenne lui remettent à sa
-demande un exemplaire de ce certificat pour justifier de leur option.
+dans le mois de leur création dans les autres cas, auprès de la direction
+départementale ou, le cas échéant, régionale des finances publiques désignée par
+l'article 49 H, qui leur délivre un certificat. Les organismes ou entités qui
+reçoivent des sommes mentionnées au III d'un tiers résident d'un autre Etat
+membre de la Communauté européenne lui remettent à sa demande un exemplaire de
+ce certificat pour justifier de leur option.
 
-II. - Est considéré comme bénéficiaire effectif :
+II.-Est considéré comme bénéficiaire effectif :
 
 1° Toute personne physique qui a son domicile fiscal hors de France dans un Etat
 membre de la Communauté européenne et qui perçoit pour son propre compte ou à
@@ -41,14 +42,14 @@ qui sont attribuées les sommes définies au III ;
 au III établi hors de France dans un Etat membre de la Communauté européenne,
 sans personnalité morale, qui n'est pas passible de l'impôt sur les sociétés ou
 d'un impôt équivalent et qui ne bénéficie pas de la procédure de reconnaissance
-mutuelle des agréments prévue par la directive 85/611/CEE du Conseil du 20
+mutuelle des agréments prévue par la directive 85/611/ CEE du Conseil du 20
 décembre 1985 précitée, lorsqu'il n'a pas produit le certificat d'option délivré
 par l'autorité compétente de son Etat de résidence pour l'application du régime
 mentionné au troisième alinéa du I.
 
-III. - 1. Les intérêts de créances de toute nature et produits assimilés au sens
-de la directive 2003/48/CE du Conseil du 3 juin 2003 en matière de fiscalité des
-revenus de l'épargne sous forme de paiements d'intérêts s'entendent :
+III.-1. Les intérêts de créances de toute nature et produits assimilés au sens
+de la directive 2003/48/ CE du Conseil du 3 juin 2003 en matière de fiscalité
+des revenus de l'épargne sous forme de paiements d'intérêts s'entendent :
 
 1° Sous réserve du 2, des intérêts payés ou inscrits en compte, qui se
 rapportent à des créances de toute nature, assorties ou non de garanties
@@ -62,7 +63,7 @@ remboursement ou du rachat des créances mentionnées au 1° ;
 
 3° Des revenus mentionnés aux 1°, 2° et 4° distribués par un organisme de
 placement collectif en valeurs mobilières bénéficiant de la procédure de
-reconnaissance mutuelle des agréments prévue par la directive 85/611/CEE du
+reconnaissance mutuelle des agréments prévue par la directive 85/611/ CEE du
 Conseil du 20 décembre 1985 ou par un organisme ou une entité, défini au 2° du
 II, établi dans un Etat membre de la Communauté européenne et ayant opté pour le
 régime mentionné au troisième alinéa du I, ou par un organisme de placement
@@ -90,14 +91,14 @@ créances mentionnés au premier alinéa, est considéré comme créance au sens
 du 1 :
 
 a. L'ensemble des émissions d'un même titre si celles-ci sont réalisées par un
-Etat ou par une entité mentionnée à l'annexe de la directive 2003/48/CE du
+Etat ou par une entité mentionnée à l'annexe de la directive 2003/48/ CE du
 Conseil du 3 juin 2003 précitée, y compris les émissions réalisées
 antérieurement au 1er mars 2002 ;
 
 b. La nouvelle émission postérieure au 1er mars 2002 si celle-ci est réalisée
 par tout autre émetteur.
 
-IV. - L'état mentionné au premier alinéa du I comprend, outre la reprise des
+IV.-L'état mentionné au premier alinéa du I comprend, outre la reprise des
 éléments d'identification du déclarant, de la référence aux comptes concernés et
 des éléments d'identification du bénéficiaire effectif mentionnés respectivement
 aux 1°, 2° et a du 3° de l'article 49 E :

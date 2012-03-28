@@ -14,15 +14,15 @@ rature, les éléments nécessaires à la constatation, à la liquidation et au
 contrôle de la redevance sanitaire d'abattage ;
 
 3° Déposer mensuellement une déclaration conforme au modèle prescrit par la
-direction générale des impôts et comportant les indications nécessaires à
-l'assiette et à la perception de la redevance.
+direction générale des finances publiques et comportant les indications
+nécessaires à l'assiette et à la perception de la redevance.
 
 Cette déclaration doit être remise par chaque redevable au service des impôts
 dont dépend le lieu d'abattage ou de traitement du gibier sauvage avant le 25 du
 mois suivant celui au cours duquel les opérations imposables ont été réalisées.
 La redevance doit être acquittée dans le même délai. Lorsque son montant est
-inférieur à 150 euros par mois, les redevables sont admis à déposer leur
-déclaration et à payer la redevance correspondante par trimestre.
+inférieur à 150 € par mois, les redevables sont admis à déposer leur déclaration
+et à payer la redevance correspondante par trimestre.
 
 Lors du dépôt de la déclaration, le redevable adresse au directeur départemental
 de l'agriculture et de la forêt un relevé des éléments déclarés.

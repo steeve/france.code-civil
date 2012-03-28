@@ -24,6 +24,10 @@ double exemplaire à la conservation où la formalité fusionnée est requise ; 
 exemplaire supplémentaire est remis à chacune des autres conservations
 intéressées.
 
+L'autorité compétente de l'Etat mentionnée aux premier et deuxième alinéas de
+l'article 860 du code général des impôts est le directeur général des finances
+publiques.
+
 III. Quand la formalité fusionnée est applicable à des actes portant sur des
 immeubles situés en partie dans les départements de la Moselle, du Bas-Rhin et
 du Haut-Rhin, elle est exécutée dans les conditions fixées au II, à la

@@ -77,5 +77,6 @@ ministre chargé du budget.
 IV. Lorsqu'en matière de taxes sur le chiffre d'affaires la commission est
 saisie d'un litige intéressant un contribuable qui relève de l'administration
 des douanes et des droits indirects au regard desdites taxes, l'un des
-représentants de la direction générale des impôts peut être remplacé par un
-fonctionnaire de la direction générale des douanes et des droits indirects.
+représentants de la direction générale des finances publiques peut être remplacé
+par un fonctionnaire de la direction générale des douanes et des droits
+indirects.

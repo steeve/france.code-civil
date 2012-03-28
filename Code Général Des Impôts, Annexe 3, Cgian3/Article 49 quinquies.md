@@ -1,9 +1,9 @@
 Article 49 quinquies
 ----
 I. La restitution est ordonnée sur la demande de l'intéressé, adressée au
-directeur des services fiscaux du département dans lequel le requérant avait son
-domicile ou son principal établissement au 1er janvier de l'année de la
-réclamation.
+directeur départemental ou, le cas échéant, régional des finances publiques du
+département dans lequel le requérant avait son domicile ou son principal
+établissement au 1er janvier de l'année de la réclamation.
 
 II. La demande de restitution doit être présentée par l'associé ou par ses
 ayants cause au plus tard le 31 décembre de l'année suivant celle au cours de

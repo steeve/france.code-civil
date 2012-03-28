@@ -11,9 +11,10 @@ b) En cas de rachat des titres par la société, par l'associé dont les titres
 sont rachetés et par les associés présents dans la société à la date du rachat.
 
 Cette demande, établie sur papier libre, doit être adressée par la société, en
-simple exemplaire, à la direction des services fiscaux auprès de laquelle elle
-souscrit ses déclarations de résultats, dans un délai de soixante jours à
-compter du jour de la transmission ou du rachat des titres.
+simple exemplaire, à la direction départementale ou, le cas échéant, régionale
+des finances publiques auprès de laquelle elle souscrit ses déclarations de
+résultats, dans un délai de soixante jours à compter du jour de la transmission
+ou du rachat des titres.
 
 L'associé dont les titres sont transmis ou rachetés doit joindre une copie de
 cette demande à la déclaration de ses revenus prévue à l'article 170 du code

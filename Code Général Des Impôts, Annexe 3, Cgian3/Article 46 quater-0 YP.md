@@ -3,7 +3,8 @@ Article 46 quater-0 YP
 Pour l'application des dispositions des articles 220 sexies et 220 F du code
 général des impôts, les entreprises doivent déposer une déclaration spéciale
 avec le relevé de solde mentionné à l'article 360 auprès du comptable de la
-direction générale des impôts.
+direction générale des finances publiques du lieu d'imposition défini à
+l'article 218 A du code général des impôts.
 
 S'agissant des sociétés relevant du régime des groupes de sociétés prévu à
 l'article 223 A du code général des impôts, la société mère joint les
