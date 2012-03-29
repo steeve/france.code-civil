@@ -11,6 +11,9 @@ d'appel et de ceux exerçant dans un ressort de cour d'appel voisin, désigné p
 arrêté du garde des sceaux, ministre de la justice, après avis du Conseil
 national.
 
+Un membre du Conseil national est élu par un collège composé des greffiers des
+tribunaux mixtes de commerce figurant sur la liste prévue à l'article L. 732-3.
+
 Les membres du Conseil national sont élus par moitié tous les deux ans pour
 quatre ans et renouvelables une fois ; ils ne sont rééligibles que quatre ans
 après l'expiration de leur deuxième mandat.
