@@ -15,8 +15,8 @@ essais et méthodes d'essai, l'emballage, le marquage et l'étiquetage.
 organisme européen de normalisation désigné dans le cadre d'un mandat délivré
 par la Commission européenne, dont l'observation n'est pas obligatoire mais dont
 le respect vaut présomption de conformité aux exigences essentielles. Les
-références de ces normes sont publiées au Journal officiel des Communautés
-européennes.
+références de ces normes sont publiées au Journal officiel de l'Union
+européenne.
 
 4. On entend par " débit d'absorption spécifique " de l'énergie (DAS) le débit
 avec lequel l'énergie produite par un équipement est absorbée par une unité de
@@ -34,7 +34,7 @@ membres de l'Union européenne ou par tout autre Etat partie à l'accord
 instituant l'Espace économique européen pour participer à l'évaluation de la
 conformité aux exigences essentielles des équipements terminaux et des
 équipements radioélectriques, figurant sur la liste des organismes notifiés
-publiée au Journal officiel des Communautés européennes.
+publiée au Journal officiel de l'Union européenne.
 
 7. On entend par " personne responsable " la personne physique ou morale
 fabricant de l'équipement, ou son mandataire établi dans l'Union européenne ou

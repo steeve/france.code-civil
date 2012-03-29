@@ -1,6 +1,6 @@
 Article R20-38
 ----
-Les coûts nets des composantes du service universel mentionnées aux 1° et 3° de
-l'article L. 35-1 ou les éléments de celle décrite au 2° du même article
-prennent en compte, le cas échéant, le coût net de l'offre mentionnée au 4° du
-même article.
+Les coûts nets de la composante du service universel mentionnée au 3° de
+l'article L. 35-1 ou des composantes ou des éléments des composantes décrites
+aux 1° et 2° du même article prennent en compte, le cas échéant, le coût net de
+l'offre mentionnée au 4° du même article.

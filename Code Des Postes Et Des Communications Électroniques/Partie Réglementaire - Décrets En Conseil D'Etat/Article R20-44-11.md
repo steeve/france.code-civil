@@ -105,9 +105,8 @@ contributions correspondantes, en établit un calendrier de réalisations, veill
 
 10° Elle organise et coordonne le contrôle de l'utilisation des fréquences, sans
 préjudice des compétences de contrôle spécifique exercé par les administrations
-et autorités affectataires. Elle peut être saisie par ces dernières ou par des
-tiers des cas de brouillage, qu'elle instruit. Elle transmet son rapport
-d'instruction à l'administration ou autorité affectataire.
+et autorités affectataires. Elle transmet son rapport d'instruction à
+l'administration ou autorité affectataire.
 
 Elle veille au respect des exigences de qualité prévues par l'article L. 34-9-1.
 
@@ -138,4 +137,9 @@ stations radioélectriques des services d'amateur.
 
 15° Elle reçoit et instruit pour le compte du ministre chargé des communications
 électroniques les demandes d'assignation de fréquence relative à un système
-satellitaire visées à l'article L. 97-2..
+satellitaire visées à l'article L. 97-2.
+
+16° Elle établit et tient à jour la liste des codes d'identification des
+autorités comptables maritimes enregistrées en France ou reconnus par la France
+qu'elle notifie à l'Union internationale des télécommunications conformément aux
+dispositions issues du règlement des télécommunications internationales.

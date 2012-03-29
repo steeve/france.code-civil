@@ -31,3 +31,5 @@ tous ordres de recettes, ordonnancer et liquider toutes dépenses ;
 
 6° Décider de l'attribution des aides au réaménagement du spectre après l'avis
 d'une commission consultative constituée à cet effet.
+
+Il peut déléguer sa signature.

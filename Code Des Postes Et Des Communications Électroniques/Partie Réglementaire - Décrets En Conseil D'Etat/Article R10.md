@@ -5,7 +5,7 @@ le droit de figurer gratuitement sur une liste d'abonnés ou d'utilisateurs
 destinée à être publiée.
 
 Elle peut obtenir gratuitement de l'opérateur auprès duquel elle est abonnée ou
-au distributeur de ce service :
+du distributeur de son service :
 
 1. De ne pas être mentionnée sur les listes d'abonnés ou d'utilisateurs publiées
 ou susceptibles d'être consultées par les services de renseignements ;

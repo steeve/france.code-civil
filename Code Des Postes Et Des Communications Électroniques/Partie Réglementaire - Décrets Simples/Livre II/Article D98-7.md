@@ -22,7 +22,7 @@ défaillances, neutralisation ou destruction des installations ;
 de sécurité publique, et notamment mettre en oeuvre les moyens demandés par les
 représentants territoriaux de l'Etat, dans le cadre des plans de secours ;
 
-- être en mesure, en temps de crise ou en cas de nécessité impérieuse, d'établir
+-être en mesure, en temps de crise ou en cas de nécessité impérieuse, d'établir
 des liaisons spécialement étudiées ou réservées pour la défense ou la sécurité
 publique, selon les modalités techniques et financières fixées par voie de
 convention avec les services de l'Etat concernés.
@@ -42,9 +42,32 @@ désigne des agents qualifiés dans les conditions décrites dans le décret n°
 93-119 du 28 janvier 1993 relatif à la désignation des agents qualifiés pour la
 réalisation des opérations matérielles nécessaires à la mise en place des
 interceptions de correspondances émises par voie des communications
-électroniques autorisées par la loi n° 91-646 du 10 juillet 1991 précitée. Les
-moyens mis en oeuvre doivent permettre d'effectuer les interceptions à partir du
-territoire national.
+électroniques autorisées par la loi n° 91-646 du 10 juillet 1991 précitée.
+
+Ces moyens sont mis en place et mis en œuvre dans les conditions suivantes :
+
+- ils sont mis en place sur le territoire national ;
+
+- ils sont mis en œuvre sur le territoire national et ne peuvent pas l'être à
+partir d'un pays étranger ;
+
+- les données produites par les systèmes utilisés sont chiffrées par un moyen
+validé par l'Etat lorsque ces données doivent transiter par voie électronique en
+dehors du territoire national ;
+
+- seuls les agents qualifiés mentionnés au premier alinéa du présent III peuvent
+utiliser et contrôler les systèmes utilisés pour les interceptions de
+communications électroniques, accéder aux données produites par ces systèmes et
+les communiquer aux demandeurs autorisés.
+
+A titre exceptionnel, il peut être dérogé à ces conditions lors de la validation
+par le ministre chargé des communications électroniques des choix opérés par
+l'opérateur en application du IV après avoir recueilli l'avis de l'Autorité de
+régulation des communications électroniques et des postes et de l'Agence
+nationale de la sécurité des systèmes d'information lorsque des obstacles
+techniques le justifient ou lorsque les coûts à exposer pour satisfaire à ces
+conditions sont disproportionnés au regard du nombre d'interceptions
+susceptibles d'être demandées à cet opérateur.
 
 IV. - L'Etat garantit à l'opérateur une juste rémunération des dispositions
 prises par ce dernier au titre du III du présent article. La juste rémunération
@@ -60,7 +83,7 @@ communications électroniques ;
 
 c) Des coûts liés au traitement des demandes d'interception.
 
-Les choix opérés par l'opérateur au titre du a et du b font l'objet d'une
+Les choix opérés par l'opérateur au titre du a, du b et du c font l'objet d'une
 validation par le ministre chargé des communications électroniques.
 
 La rémunération de l'opérateur au titre du a et du b est assurée dans le cadre

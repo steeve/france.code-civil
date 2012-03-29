@@ -2,9 +2,10 @@ Article R20-30-12
 ----
 En vue de garantir le service universel et au vu, notamment, de l'état de la
 concurrence sur les marchés considérés, le ministre chargé des communications
-électroniques peut lancer des appels à candidatures pour la fourniture de
-chacune des composantes du service universel mentionnées aux 1° et 3° de
-l'article L. 35-1 ou des éléments de celle décrite au 2° du même article.
+électroniques peut lancer des appels à candidatures pour la fourniture de la
+composante du service universel mentionnée au 3° de l'article L. 35-1 ou les
+composantes ou un des éléments des composantes décrites aux 1° et 2° du même
+article.
 
 Ces appels de candidatures fixent :
 
