@@ -2,8 +2,8 @@ Article D633-19-2
 ----
 Le conjoint collaborateur peut demander que sa cotisation soit calculée :
 
-1° Soit sur un revenu forfaitaire égal au tiers du plafond mentionné au premier
-alinéa de l'article L. 633-10 ;
+1° Soit sur un revenu forfaitaire égal au tiers du plafond mentionné à l'article
+L. 633-10 ;
 
 2° Soit sur 33,33 % du revenu d'activité mentionné au 1° de l'article L. 633-10
 ;
