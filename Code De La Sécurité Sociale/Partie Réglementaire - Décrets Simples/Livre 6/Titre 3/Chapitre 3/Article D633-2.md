@@ -7,7 +7,7 @@ mentionné au premier alinéa de l'article L. 241-3 et pour partie sur la totali
 de ce revenu d'activité. La valeur de ce plafond est déterminée conformément à
 l'article D. 612-6.
 
-La cotisation annuelle ne peut être calculée sur une assiette inférieure à 5,25
+La cotisation annuelle ne peut être calculée sur une assiette inférieure à 7,70
 % de la valeur du plafond déterminée conformément au premier alinéa du présent
 article et sans application du deuxième alinéa de l'article D. 612-6. Le présent
 alinéa s'applique aux travailleurs indépendants dont la durée d'affiliation est
