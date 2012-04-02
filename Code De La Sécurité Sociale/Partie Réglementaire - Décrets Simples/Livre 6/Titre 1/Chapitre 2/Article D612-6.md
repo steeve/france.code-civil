@@ -1,11 +1,8 @@
 Article D612-6
 ----
-Les personnes qui commencent l'exercice d'une activité professionnelle non
-salariée non agricole les assujettissant au régime institué par le présent titre
-sont redevables d'une cotisation minimale calculée, au titre de la première
-année civile d'exercice, sur le revenu mentionné au premier alinéa de l'article
-R. 242-16 et, au titre de la deuxième année civile d'exercice, sur celui
-mentionné au deuxième alinéa dudit article.
+La valeur du plafond de la sécurité sociale mentionné à la présente section est
+la valeur annuelle de ce plafond, tel que prévu à l'article L. 241-3, en vigueur
+au 1er janvier de l'année au titre de laquelle la cotisation annuelle est due.
 
-Les dispositions du premier alinéa sont applicables sous réserve de celles du
-quatrième alinéa de l'article R. 242-16.
+En cas de période d'affiliation inférieure à une année, cette valeur est réduite
+au prorata de la durée d'affiliation.

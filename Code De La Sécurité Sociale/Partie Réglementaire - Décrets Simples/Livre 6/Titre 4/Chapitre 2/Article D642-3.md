@@ -5,12 +5,12 @@ Le taux de cotisation prévu au cinquième alinéa de l'article L. 642-1 est ég
 
 1° 8,6 % des revenus définis à l'article L. 642-2 pour la part de ces revenus
 n'excédant pas 85 % du plafond annuel prévu à l'article L. 241-3 en vigueur au
-1er janvier de l'année au titre de laquelle la cotisation est appelée ;
+1er janvier de l'année au titre de laquelle la cotisation est due ;
 
 2° 1,6 % des revenus définis à l'article L. 642-2 pour la part de ces revenus
 excédant le seuil fixé au 1°, dans la limite de cinq fois le plafond annuel
 prévu à l'article L. 241-3 en vigueur au 1er janvier de l'année au titre de
-laquelle la cotisation est appelée.
+laquelle la cotisation est due.
 
 En cas de période d'affiliation inférieure à une année, les plafonds prévus aux
 1° et 2° ci-dessus sont réduits au prorata des trimestres d'affiliation.

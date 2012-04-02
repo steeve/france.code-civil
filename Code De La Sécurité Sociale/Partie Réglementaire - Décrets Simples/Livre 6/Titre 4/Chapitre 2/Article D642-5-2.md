@@ -15,5 +15,5 @@ libéral mentionné au 2° de l'article L. 642-2-1. Dans ce cas, les limites des
 deux tranches de revenu mentionnées à l'article L. 642-1 sont réduites dans
 cette proportion pour le conjoint et le professionnel libéral.
 
-Le montant de cette cotisation ne peut être inférieur à celui prévu aux deux
-premiers alinéas de l'article D. 642-4.
+Le montant de cette cotisation ne peut être inférieur à celui prévu à l'article
+D. 642-4.

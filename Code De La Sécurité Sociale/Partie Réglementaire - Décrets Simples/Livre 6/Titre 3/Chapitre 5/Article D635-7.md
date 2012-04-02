@@ -7,7 +7,8 @@ artisans est fixé à :
 quatrième alinéa du présent article ;
 
 2° 7,6 % pour la part du revenu professionnel excédant le seuil fixé au 1°, dans
-la limite de quatre fois le plafond annuel prévu à l'article L. 241-3.
+la limite de quatre fois la valeur du plafond de la sécurité sociale déterminée
+conformément à l'article D. 612-6.
 
 Au titre de l'exercice 2008, le montant du plafond mentionné au 1° est fixé à 33
 276 euros. Pour les années suivantes, ce montant est indexé sur la dernière
@@ -16,5 +17,6 @@ l'évolution, sur l'année précédant l'exercice, de l'indice des prix à la
 consommation hors tabac.
 
 Pour les aides familiaux, la cotisation annuelle est assise sur un revenu égal
-au tiers du plafond mentionné à l'article L. 241-3 ou sur un revenu égal à celui
-du chef d'entreprise, si celui-ci est inférieur.
+au tiers de la valeur du plafond de la sécurité sociale déterminée conformément
+à l'article D. 612-6 ou sur un revenu égal à celui du chef d'entreprise, si
+celui-ci est inférieur.
