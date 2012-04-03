@@ -12,8 +12,9 @@ E 3 Frais de soins et indemnités journalières payés au cours de l'exercice ;
 
 E 4 Résultat technique en frais de soins ;
 
-E 5 Compléments CMU, taxe sur les conventions d'assurance et gestion d'un régime
-obligatoire santé.
+E 5 Compléments frais de gestion des garanties "frais de soins", gestion
+déléguée d'un régime obligatoire santé, CMU, ACS et taxe sur les conventions
+d'assurance des contrats santé.
 
 Ces états sont établis annuellement dans la forme fixée en annexe au présent
 article.
