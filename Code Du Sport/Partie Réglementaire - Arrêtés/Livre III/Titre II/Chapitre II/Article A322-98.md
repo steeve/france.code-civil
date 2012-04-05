@@ -9,3 +9,7 @@ le directeur de plongée est titulaire au minimum du niveau d'enseignement 1 (E1
 mentionné à l'annexe III-15 b. Le directeur de plongée autorise les plongeurs
 justifiant des aptitudes PE-12 à plonger en autonomie et les guides de palanquée
 (GP) ou les plongeurs niveau 4 (P4) à effectuer les baptêmes.
+
+Par dérogation aux dispositions de l'article A. 322-72 du code du sport, lorsque
+la plongée se déroule en piscine ou fosse de plongée dont la profondeur n'excède
+pas 6 mètres, la fiche de sécurité n'est pas obligatoire.

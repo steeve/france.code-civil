@@ -11,7 +11,7 @@ BREVETS DÉLIVRÉS par la FFESSM, la FSGT, l'UCPA, l'ANMP et le SNMP
 
 BREVETS DÉLIVRÉS par la CMAS
 
-APTITUDES À PLONGER ENCADRÉ par un guide de palanquée
+APTITUDES À PLONGER ENCADRÉ (avec une personne encadrant la palanquée)
 
 APTITUDES À PLONGER en autonomie (sans personne encadrant la palanquée)
 

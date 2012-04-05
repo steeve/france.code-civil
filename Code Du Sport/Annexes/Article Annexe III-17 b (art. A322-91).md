@@ -29,7 +29,7 @@ E-2 + PN-C
 
 Espace de 0 à 12 mètres
 
-PE-12 en cours de formation vers les aptitudes PN-20
+PE-12 en cours de formation vers les aptitudes PN
 
 E-2 + PN-C
 
@@ -38,7 +38,7 @@ E-2 + PN-C
 
 Espace de 0 à 20 mètres
 
-PE-20 en cours de formation vers les aptitudes PN-20
+PE-20 en cours de formation vers les aptitudes PN
 
 E-2 + PN-C
 
@@ -47,7 +47,7 @@ E-2 + PN-C
 
 Espace de 0 à 40 mètres
 
-PE-40 + PN-C
+PE-40 + PN
 
 E-3 + PN-C
 
@@ -56,7 +56,7 @@ E-3 + PN-C
 
 Espace au-delà de 40 mètres et dans la limite de 60 mètres
 
-PE-60 + PN-C
+PE-60 + PN
 
 E-4 + PN-C
 

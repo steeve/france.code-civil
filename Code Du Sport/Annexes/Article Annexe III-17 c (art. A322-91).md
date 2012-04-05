@@ -17,54 +17,57 @@ Compétence minimale de la personne encadrant la palanquée
 
 Aptitudes minimales des plongeurs en autonomie
 
-Effectif minimal de la palanquée
+Effectif maximal de la palanquée
+
 
 Espace de 0 à 12 mètres
 
-PE-12 + PN-20
+PE-12 + PN
 
 4 (*)
 
 E2 ou GP ou P4 + PN-C
 
-PA-12 + PN-20
+PA-12 + PN
 
 3
+
 
 Espace de 0 à 20 mètres
 
-PE-20 + PN-20
+PE-20 + PN
 
 4 (*)
 
 E2 ou GP ou P4 + PN-C
 
-PA-20 + PN-20
+PA-20 + PN
 
 3
 
+
 Espace de 0 à 40 mètres
 
-PE-40 + PN-C
+PE-40 + PN
 
 4 (*)
 
 E3 ou GP ou P4 + PN-C
 
-PA-40 + PN-C
+PA-40 + PN
 
 3
 
 
 Espace au-delà de 40 mètres et dans la limite de 60 mètres
 
-PE-60 + PN-C
+PE-60 + PN
 
 4
 
 E4 + PN-C
 
-PA-60 + PN-C
+PA-60 + PN
 
 3
 

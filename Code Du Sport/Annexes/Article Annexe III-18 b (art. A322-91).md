@@ -13,18 +13,18 @@ COMPÉTENCE minimale de la personne encadrant la palanquée
 EFFECTIF maximal de la palanquée (personne encadrant la palanquée non comprise)
 
 
-Espace de 0 à 40 mètres
+Espace de 0 à 40 ètres
 
 PE-40 + PN-C en cours de formation vers les aptitudes PTH-40
 
-E-3 + PTH-60
+E-3 + PTH-70
 
 4
 
 
-Espace de 0 à 60 mètres
+Espace de 0 à 70 mètres
 
-PE-60 + PTH-40 en cours de formation vers les aptitudes PTH-60
+PE-60 + PTH-40 en cours de formation vers les aptitudes PTH-70
 
 E-4 + PTH-120
 
@@ -33,7 +33,7 @@ E-4 + PTH-120
 
 Espace de 0 à 80 mètres
 
-PE-60 + PTH-60 en cours de formation vers les aptitudes PTH-120
+PE-60 + PTH-70 en cours de formation vers les aptitudes PTH-120
 
 E-4 + PTH-120
 

@@ -17,11 +17,10 @@ Compétence minimale de la personne encadrant la palanquée
 
 Aptitudes minimales des plongeurs en autonomie
 
-
 Effectif maximal de la palanquée
 
-Espace de 0 à 6 mètres
 
+Espace de 0 à 6 mètres
 
 Débutants
 
@@ -77,7 +76,7 @@ Espace de 0 à 60 mètres
 
 PE-60
 
-4 (*)
+4
 
 
 E4
@@ -86,6 +85,6 @@ PA-60
 
 3
 
-(*) Possibilité d'ajouter dans la palanquée un ou plusieurs plongeurs
-supplémentaires, au minimum titulaires d'une qualification de guide de palanquée
-(GP) ou de plongeur niveau 4 (P4).
+(*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au
+minimum titulaire d'une qualification de guide de palanquée (GP) ou de plongeur
+niveau 4 (P4).

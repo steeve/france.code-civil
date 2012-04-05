@@ -21,7 +21,7 @@ Au sens de la présente section, les aptitudes sont définies comme suit :
 
 - les aptitudes à plonger en utilisant un mélange au trimix ou à l'héliox : PTH.
 
-Les personnes en situation de handicap peuvent bénéficier, dans l'espace de 0 à
-40 mètres, d'une assistance adaptée en encadrement ou en matériel pour évoluer
-en palanquée encadrée en justifiant des aptitudes PE-12 à PE-40 et, le cas
-échéant, des aptitudes à plonger au nitrox.
+Dans l'espace de 0 à 40 mètres, pour justifier des aptitudes PE-12 à PE-40 et
+des aptitudes à plonger au nitrox, les personnes en situation de handicap
+peuvent bénéficier d'une assistance adaptée en encadrement ou en matériel pour
+évoluer en palanquée encadrée.

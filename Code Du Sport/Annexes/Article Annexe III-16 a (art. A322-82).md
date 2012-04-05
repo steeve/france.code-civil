@@ -68,6 +68,6 @@ E-4
 
 4
 
-(*) Possibilité d'ajouter dans la palanquée un ou plusieurs plongeurs
-supplémentaires, au minimum titulaires d'une qualification de guide de palanquée
-(GP) ou de plongeur niveau 4 (P4).
+(*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au
+minimum titulaire d'une qualification de guide de palanquée (GP) ou de plongeur
+niveau 4 (P4).

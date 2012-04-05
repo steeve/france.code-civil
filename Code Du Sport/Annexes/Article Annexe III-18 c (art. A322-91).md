@@ -20,6 +20,7 @@ Aptitudes minimales des plongeurs en autonomie
 
 Effectif maximal de la palanquée
 
+
 Espace de 0 à 40 mètres
 
 PE-40 + PTH-40
@@ -32,17 +33,19 @@ PA-40 + PTH-40
 
 3
 
-Espace de 0 à 60 mètres
 
-PE-60 + PTH-60
+Espace de 0 à 70 mètres
+
+PE-60 + PTH-70
 
 4
 
-E4 + PTH-60
+E4 + PTH-70
 
-PA-60 + PTH-60
+PA-60 + PTH-70
 
 3
+
 
 Espace de 0 à 80 mètres
 
