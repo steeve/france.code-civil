@@ -31,10 +31,5 @@ Lorsque l'enregistrement ne peut être effectué en raison d'une impossibilité
 technique, il en est fait mention dans le procès-verbal d'interrogatoire qui
 précise la nature de cette impossibilité.
 
-Le présent article n'est pas applicable lorsque l'information concerne un crime
-mentionné à l'article 706-73 du présent code ou prévu par les titres Ier et II
-du livre IV du code pénal, sauf si le juge d'instruction décide de procéder à
-l'enregistrement.
-
 Un décret précise en tant que de besoin les modalités d'application du présent
 article.

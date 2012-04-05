@@ -31,10 +31,5 @@ technique, il en est fait mention dans le procès-verbal d'audition qui précise
 la nature de cette impossibilité. Le procureur de la République en est
 immédiatement avisé.
 
-Le présent article n'est pas applicable lorsque la personne est gardée à vue
-pour un crime mentionné à l'article 706-73 du présent code ou prévu par les
-titres Ier et II du livre IV du code pénal, sauf si le procureur de la
-République ordonne l'enregistrement.
-
 Un décret précise en tant que de besoin les modalités d'application du présent
 article.
