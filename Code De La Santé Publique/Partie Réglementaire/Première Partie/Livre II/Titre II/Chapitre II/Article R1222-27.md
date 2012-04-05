@@ -9,10 +9,9 @@ par :
 
 1° Les infirmiers et infirmières ;
 
-2° Les personnes habilitées à être employées en qualité de technicien dans un
-laboratoire d'analyses de biologie médicale en vertu des dispositions des
-articles 4 et 26-1 du décret n° 76-1004 du 4 novembre 1976 fixant les conditions
-d'autorisation des laboratoires d'analyses de biologie médicale ;
+2° Les personnes remplissant les conditions pour être employées en qualité de
+technicien de laboratoire médical mentionnées aux articles L. 4352-2 et L.
+4352-3 ;
 
 3° Les personnes titulaires d'une licence de biologie.
 

@@ -16,7 +16,7 @@ chargé de la santé et du ministre de la défense :
 2° Les infirmiers ;
 
 3° Les personnes remplissant les conditions pour être employées en qualité de
-technicien dans un laboratoire d'analyses de biologie médicale en vertu des
-dispositions des articles R. 6211-7 et R. 6211-8 ;
+technicien de laboratoire médical mentionnées aux articles L. 4352-2 et L.
+4352-3 ;
 
 4° Les personnes titulaires d'une licence de biologie.
