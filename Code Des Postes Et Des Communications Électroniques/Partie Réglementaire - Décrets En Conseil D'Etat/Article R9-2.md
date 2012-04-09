@@ -15,7 +15,7 @@ en œuvre de l'accès aux lignes prévu à l'article L. 34-8-3 et sont compatibl
 avec celle-ci. Les emplacements et infrastructures d'accueil des lignes mis à
 disposition de l'opérateur signataire de la convention par le propriétaire ou le
 syndicat des copropriétaires et les lignes et équipements installés par
-l'opérateur doivent faciliter cet accès.L'opérateur signataire prend en charge
+l'opérateur doivent faciliter cet accès. L'opérateur signataire prend en charge
 les opérations d'installation, de gestion, d'entretien ou de remplacement
 nécessaires à cet accès, dans les mêmes conditions que pour ses propres lignes
 et équipements.
