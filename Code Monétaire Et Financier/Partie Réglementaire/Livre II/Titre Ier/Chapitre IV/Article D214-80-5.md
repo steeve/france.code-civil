@@ -1,66 +1,27 @@
 Article D214-80-5
 ----
-La notice d'information mentionnée à l'article D. 214-80-3 présente les
-informations suivantes :
+Les fonds mentionnés à l'article D. 214-80 adressent au souscripteur une lettre
+d'information, dans les mêmes délais que ceux applicables à la mise à
+disposition du rapport annuel. Cette lettre présente, pour chaque fonds, ainsi
+que, lorsqu'il existe des millésimes antérieurs de ces fonds, pour chaque
+millésime antérieur, et pour chaque année de souscription depuis la création du
+fonds, un ou plusieurs tableaux qui regroupent les valeurs suivantes :
 
-1° Un tableau qui regroupe les éléments suivants :
+1° Figurent, en lignes, les éléments suivants, répartis par millésime de fonds :
 
-a) Figurent, en lignes, les catégories agrégées mentionnées à l'article D.
-214-80-2, suivies du total de ces catégories ;
+a) La somme des valeurs liquidatives des parts souscrites et des distributions
+effectuées ;
 
-b) Figurent, en colonnes, les taux suivants :
+b) Le montant des frais de gestion et de distribution réellement prélevés,
+rattachables à ces parts selon une méthode de calcul normalisée ;
 
-i) Taux de frais annuel moyen maximum total, incluant frais de
-commercialisation, de placement et de gestion, calculé sur la période mentionnée
-à l'article D. 214-80-1 ;
+2° Figurent, en colonnes, les éléments suivants :
 
-ii) Taux de frais annuel moyen maximum limité aux frais de commercialisation et
-de placement, calculé sur le nombre d'années prévu à la première phrase du 3° de
-l'article D. 214-80 ;
+a) Description du millésime du fonds ;
 
-2° Les éléments relatifs aux modalités spécifiques de partage de la plus-value,
-dès lors que le règlement du fonds prévoit, au bénéfice de la société de
-gestion, des droits différents sur l'actif net ou sur les produits de ce fonds
-tels que mentionnés au II de l'article D. 214-80-3 ;
+b) Année de création de ce millésime ;
 
-3° Un tableau qui regroupe les éléments suivants :
+c) Description des grandeurs constatées, telles que mentionnées au 1° ;
 
-a) Figurent, en lignes, les trois scénarios de performance suivants :
-
-i) Un scénario pessimiste : à l'issue d'une période correspondant à une durée de
-vie du fonds, y compris ses éventuelles prorogations, fixée pour les besoins de
-la simulation à une valeur définie par arrêté du ministre chargé de l'économie,
-l'actif net du fonds est égal à 50 % de sa valeur au moment de la souscription
-initiale ;
-
-ii) Un scénario moyen : à l'issue de la période mentionnée au i) du a du présent
-3°, l'actif net du fonds est égal à 150 % de sa valeur au moment de la
-souscription initiale ;
-
-iii) Un scénario optimiste : à l'issue de la période mentionnée au i) du a du
-présent 3°, l'actif net du fonds est égal à 250 % de sa valeur au moment de la
-souscription initiale ;
-
-b) Figurent, en colonnes, les valeurs suivantes :
-
-i) Souscription initiale totale (y compris les droits d'entrée) ;
-
-ii) Frais de gestion et de distribution (y compris droits d'entrée) ;
-
-iii) Frais de gestion ;
-
-iv) Frais de distribution (y compris droits d'entrée) ;
-
-v) Impact pour le souscripteur à l'issue de la période mentionnée au i) du a du
-présent 3°, calculé selon une méthode normalisée, du montant correspondant au
-pourcentage mentionné au 1° du II de l'article D. 214-80-3 ;
-
-vi) Total des distributions au bénéfice des parts ordinaires à l'issue de la
-période mentionnée au i) du a du présent 3°.
-
-Le tableau mentionné au 3° du présent article indique de manière claire
-l'avertissement suivant :
-
-"Les scénarios de performance ne sont donnés qu'à titre indicatif et leur
-présentation ne constitue en aucun cas une garantie sur leur réalisation
-effective.”
+d) Valeurs constatées, à la fin de chaque exercice écoulé depuis l'année
+mentionnée au b du 2°, des grandeurs mentionnées au 1°.

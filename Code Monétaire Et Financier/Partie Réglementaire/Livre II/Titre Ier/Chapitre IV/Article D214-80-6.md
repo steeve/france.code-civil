@@ -1,37 +1,23 @@
 Article D214-80-6
 ----
-Les règlements des fonds mentionnés à l'article D. 214-80 présentent les
-informations suivantes :
+Les informations suivantes, présentées sous forme de tableau, sont mentionnées
+dans le rapport de gestion des fonds mentionnés à l'article D. 214-80 :
 
-1° Un tableau qui regroupe les éléments suivants :
+1° Figurent, par ligne, les éléments suivants :
 
-a) Figurent, en lignes, les catégories agrégées mentionnées à l'article D.
-214-80-2. Ces catégories sont subdivisées, ligne par ligne, par types de frais
-mentionnés au même article, distingués selon que le destinataire est le
-distributeur ou le gestionnaire ;
+a) Un rappel du taux maximal de frais annuel moyen gestionnaire et distributeur
+mentionné au 5° du I de l'article D. 214-80-2 ;
 
-b) Figurent, en colonnes, les éléments suivants :
+b) Le taux de frais annuel moyen réellement constaté, présenté ligne par ligne
+pour chaque exercice écoulé depuis l'exercice au cours duquel a eu lieu la
+souscription mentionnée à l'article D. 214-80 ;
 
-i) Description de la catégorie agrégée de frais et commissions ;
+c) Le taux de frais annuel moyen réellement constaté, en moyenne non actualisée,
+sur la durée écoulée depuis cet exercice de souscription ;
 
-ii) Description du type de frais et commissions prélevé ;
+2° Figurent, par colonnes, les éléments suivants :
 
-iii) Règles de plafonnement des frais et commissions, telles qu'elles découlent
-de l'application de l'article D. 214-80 du code monétaire et financier. Ces
-règles se déclinent en un pourcentage et, le cas échéant, en une description de
-ce pourcentage ;
+a) Chacune des catégories agrégées mentionnées à l'article D. 214-80-1 ;
 
-iv) Règles de calcul et de plafonnement des frais et commissions prévues dans le
-règlement du fonds mentionné à l'article D. 214-80, lorsque ces règles sont
-exprimées en proportion d'assiettes différentes de celles mentionnées au iii) du
-b. Ces règles se déclinent en une assiette, un taux ou un barème et, le cas
-échéant, en une description de ces assiettes, taux ou barèmes ;
-
-v) Destinataire des frais et commissions. Ce destinataire est désigné soit comme
-le gestionnaire, soit comme le distributeur, même dans les cas où ces deux
-catégories de destinataires reversent ces frais à d'autres catégories de
-bénéficiaires finaux ;
-
-2° Une description exhaustive des modalités spécifiques de partage de la
-plus-value au bénéfice de la société de gestion. Cette présentation suit
-immédiatement le tableau prévu au 1°.
+b) Le total de taux de frais annuel moyen pour l'ensemble des catégories prévues
+au a du 2°.
