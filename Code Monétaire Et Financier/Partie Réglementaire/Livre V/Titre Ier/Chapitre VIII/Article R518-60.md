@@ -1,25 +1,18 @@
 Article R518-60
 ----
-Les associations et les fondations qui demandent l'habilitation doivent remplir
-les conditions suivantes :
+Les associations et les fondations habilitées sont soumises aux obligations
+suivantes :
 
-1° Une ancienneté d'au moins dix-huit mois dans l'activité d'accompagnement de
-projets financés par des prêts consentis par elles sur leurs ressources propres
-ou par des crédits bancaires ;
+1° Inclure dans leur objet statutaire l'activité de prêt pour la création et le
+développement d'entreprises et celle de prêts pour la réalisation de projets
+d'insertion par des personnes physiques, en fonction de l'habilitation qui leur
+a été donnée en application de l'article R. 518-58 ;
 
-2° Le traitement, à ce titre, d'un nombre minimum de dossiers par an, fixé par
-arrêté du ministre chargé de l'économie ;
+2° Mettre en place, dans le cadre de leur activité de prêt, un contrôle interne
+qui doit prévoir notamment les règles de sélection et de surveillance des
+risques, la séparation des fonctions de décision et de contrôle, la signature
+par une personne dûment habilitée pour l'octroi des prêts, la désignation d'un
+responsable du contrôle interne et les indicateurs de suivi des résultats de
+l'activité ;
 
-3° La compétence requise appréciée par le comité au vu, notamment, des
-réalisations passées, des résultats de l'activité d'accompagnement, du taux de
-remboursement des crédits et de l'aptitude à contrôler les risques et la gestion
-;
-
-4° L'engagement d'adopter les indicateurs de performance définis par le comité ;
-
-5° La signature d'une convention de garantie appropriée des emprunts contractés
-par l'association ou la fondation.
-
-Les dirigeants de l'association ou de la fondation doivent posséder
-l'honorabilité, la compétence et l'expérience nécessaires à l'exercice de leurs
-fonctions.
+3° Faire certifier leurs comptes annuels par un commissaire aux comptes.

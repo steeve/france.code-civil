@@ -1,20 +1,23 @@
 Article R518-59
 ----
-La demande d'habilitation est faite auprès du secrétariat du comité. Elle donne
-lieu, de sa part, à la délivrance d'un récépissé dès réception de l'ensemble des
-documents nécessaires à l'instruction de la demande. La demande d'habilitation
-précise la destination des prêts suivant qu'ils ont pour objet la création et le
-développement d'entreprises, ou la réalisation de projets d'insertion par des
-personnes physiques.
+Les associations et les fondations qui demandent l'habilitation doivent remplir
+les conditions suivantes :
 
-Le comité statue sur la demande par décision motivée, dans un délai maximal de
-quatre mois suivant la date de délivrance du récépissé.L'absence de réponse
-au-delà de ce délai vaut accord tacite de la part du comité.
+1° Une ancienneté d'au moins dix-huit mois dans l'activité d'accompagnement de
+projets financés par des prêts consentis par elles sur leurs ressources propres
+ou par des crédits bancaires ;
 
-L'habilitation délivrée par le comité est valable trois ans. Elle peut être
-retirée durant cette période si l'association ou la fondation ne satisfait plus
-aux critères des articles R. 518-60 à R. 518-64. Elle peut être renouvelée, à
-l'issue de cette période, par décision expresse du comité.
+2° Le traitement, à ce titre, d'un nombre minimum de dossiers par an, fixé par
+arrêté du ministre chargé de l'économie ;
 
-L'habilitation délivrée par le comité mentionne le ou les types de prêts pouvant
-être accordés par le demandeur.
+3° La compétence requise appréciée par l'Autorité de contrôle prudentiel au vu,
+notamment, des réalisations passées, des résultats de l'activité
+d'accompagnement, du taux de remboursement des crédits et de l'aptitude à
+contrôler les risques et la gestion ;
+
+4° La signature d'une convention de garantie appropriée des emprunts contractés
+par l'association ou la fondation.
+
+Les dirigeants de l'association ou de la fondation doivent posséder
+l'honorabilité, la compétence et l'expérience nécessaires à l'exercice de leurs
+fonctions.

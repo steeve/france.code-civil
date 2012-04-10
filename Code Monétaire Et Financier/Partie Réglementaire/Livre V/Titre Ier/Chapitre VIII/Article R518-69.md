@@ -1,7 +1,7 @@
 Article R518-69
 ----
 L'octroi de garanties partielles par les sociétés agréées sur le fondement de
-l'article R. 518-57 ou par les sociétés retenues pour contribuer à la création
+l'article L. 313-21-1 ou par les sociétés retenues pour contribuer à la création
 d'activités ou au développement des emplois dans le cadre d'une convention
 passée avec l'Etat en application des articles L. 1233-84 à L. 1233-89 du code
 du travail doit répondre aux caractéristiques suivantes :

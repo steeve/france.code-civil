@@ -1,13 +1,8 @@
 Article R518-66
 ----
-Les sociétés agréées transmettent au comité, chaque année, leurs comptes sociaux
-et, le cas échéant, consolidés, certifiés par un commissaire aux comptes. Elles
-transmettent également, sur une base semestrielle, un document indiquant les
-montants brut et net des garanties partielles octroyées par la société, ainsi
-que le montant de ses fonds propres et de ses ressources disponibles.
+Le comité contrôle le respect des conditions d'agrément mentionnées à l'article
+R. 518-65. Il est destinataire, à ce titre, du rapport d'activité annuel des
+sociétés agréées.
 
-Le comité peut obtenir communication de tout autre document ou information
-nécessaire à l'exercice de ses missions.
-
-Le comité détermine le modèle et les délais de transmission des documents et
-informations qui doivent lui être remis.
+Le comité peut entendre les dirigeants et se faire communiquer toute information
+ou tout document utile à l'accomplissement de sa mission.

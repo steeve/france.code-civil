@@ -1,51 +1,24 @@
 Article R518-62
 ----
-Les opérations de prêts effectuées par les associations et les fondations dans
-le cadre de l'habilitation délivrée en application de l'article R. 518-59
-répondent aux caractéristiques suivantes :
+Les encours de prêts contentieux ou douteux doivent être provisionnés à hauteur
+des pertes probables.
 
-1° Les prêts sont effectués à titre onéreux ;
+La fraction des encours de prêts non provisionnés qui n'est pas couverte par les
+garanties mentionnées à l'article R. 518-61 doit donner lieu à la constitution
+d'un fonds de réserve. L'Autorité de contrôle prudentiel détermine le taux
+applicable à cette fraction pour chaque association ou chaque fondation, selon
+des modalités fixées par arrêté du ministre chargé de l'économie. Cet arrêté
+prévoit notamment les conditions dans lesquelles est pris en compte, pour la
+fixation de ce taux, le taux de défaut observé en moyenne sur les crédits
+accordés par l'association dans le passé ou par la fondation.
 
-2° Les prêts ne peuvent être alloués aux entreprises que durant les cinq
-premières années suivant leur création ou leur reprise ;
+A tout moment, le montant total des fonds propres et ressources assimilées doit
+être au moins égal au produit de la fraction des encours mentionnée à l'alinéa
+précédent par un pourcentage fixé par arrêté du ministre chargé de l'économie.
 
-3° Les prêts ne peuvent être alloués à des entreprises employant plus de trois
-salariés ;
+Cet arrêté détermine la liste des éléments admis en fonds propres et ressources
+assimilées en sus du fonds de réserve prévu au deuxième alinéa.
 
-4° Les prêts destinés à participer au financement des projets d'insertion sont
-accordés à des personnes physiques, confrontées à des difficultés de
-financement, dont les capacités de remboursement de ces prêts sont jugées
-suffisantes par les associations ou les fondations et qui bénéficient d'un
-accompagnement social. Ces prêts sont accordés dans une perspective d'accès, de
-maintien ou de retour à un emploi. Ils peuvent également être accordés pour la
-réalisation de projets d'insertion sociale qui ne sont pas directement liés à un
-objectif professionnel ;
-
-5° Sauf décision exceptionnelle de rééchelonnement dûment motivée, tous les
-prêts accordés à un même bénéficiaire sont remboursables et les intérêts
-payables dans un délai maximum de cinq ans à partir de la date de premier
-décaissement des fonds versés ;
-
-6° Pendant la période mentionnée au 2°, l'association ou la fondation ne peut
-consentir un nouveau prêt à l'entreprise bénéficiaire, en application de la
-présente section, que si l'échéancier de remboursement du ou des prêts
-précédemment alloués, éventuellement rééchelonnés dans les conditions prévues au
-5°, est respecté ;
-
-7° Le montant total de l'encours des prêts alloués, en application de la
-présente section, est plafonné à :
-
-a) 10 000 € par participant et par entreprise pour un projet de création ou de
-développement d'entreprise ;
-
-b) 3 000 € par emprunteur lorsque le prêt est accordé à une personne physique
-pour la réalisation d'un projet d'insertion.
-
-Les prêts accordés font l'objet d'un suivi financier pendant leur durée. Le
-comité visé à l'article R. 518-57 détermine les conditions dans lesquelles les
-associations ou fondations doivent effectuer un suivi financier des prêts
-qu'elles accordent et en rendre compte au comité conformément à l'article R.
-518-64.
-
-Les prêts doivent bénéficier d'une garantie apportée par un fonds de garantie ou
-de cautionnement agréé ou par un établissement de crédit.
+A tout moment, les encours de crédit doivent être financés par des ressources de
+durée au moins égale à celle des prêts. Cet adossement s'apprécie globalement,
+dans des conditions fixées par arrêté du ministre chargé de l'économie.
