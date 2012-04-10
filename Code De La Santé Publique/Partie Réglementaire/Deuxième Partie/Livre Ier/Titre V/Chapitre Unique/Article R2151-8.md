@@ -8,8 +8,7 @@ La personne responsable de la recherche adresse au directeur général de l'agen
 de la biomédecine un rapport annuel. Elle lui fait parvenir le rapport final de
 la recherche dès l'achèvement de celle-ci. Ces rapports contiennent en
 particulier les informations relatives à la destination des embryons et des
-cellules embryonnaires ayant fait l'objet du protocole, notamment à leur
-destruction.
+cellules souches embryonnaires ayant fait l'objet du protocole.
 
 Le directeur général de l'agence peut à tout moment demander à la personne
 responsable de la recherche de rendre compte de l'état d'avancement des travaux.

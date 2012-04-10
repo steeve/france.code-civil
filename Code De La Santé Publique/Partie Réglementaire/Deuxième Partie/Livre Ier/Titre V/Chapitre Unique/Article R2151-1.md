@@ -1,7 +1,8 @@
 Article R2151-1
 ----
-Sont notamment susceptibles de permettre des progrès thérapeutiques majeurs, au
-sens de l'article L. 2151-5, les recherches sur l'embryon et les cellules
-embryonnaires poursuivant une visée thérapeutique pour le traitement de maladies
-particulièrement graves ou incurables, ainsi que le traitement des affections de
-l'embryon ou du foetus.
+Pour l'application des 2° et 3° du II de l'article L. 2151-5, l'Agence de la
+biomédecine vérifie que la recherche, le cas échéant à caractère fondamental,
+est susceptible de permettre des progrès médicaux majeurs en matière de
+prévention, de diagnostic ou de soins et qu'il est établi, en l'état des
+connaissances, que le résultat escompté ne peut être obtenu par d'autres moyens,
+notamment par le recours exclusif à d'autres cellules souches.

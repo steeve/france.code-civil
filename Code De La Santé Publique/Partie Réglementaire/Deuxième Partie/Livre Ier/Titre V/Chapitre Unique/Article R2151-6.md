@@ -1,15 +1,17 @@
 Article R2151-6
 ----
 La demande d'autorisation d'un protocole de recherche sur l'embryon ou sur les
-cellules embryonnaires est adressée au directeur général de l'agence de la
-biomédecine sous pli recommandé avec demande d'avis de réception ou déposée
+cellules souches embryonnaires est adressée au directeur général de l'agence de
+la biomédecine sous pli recommandé avec demande d'avis de réception ou déposée
 contre récépissé auprès de l'agence dans les mêmes conditions. Cette demande est
-accompagnée d'un dossier dont la forme et le contenu sont fixés par décision du
-directeur général de l'agence.
+accompagnée d'un dossier qui comprend tous les éléments permettant de vérifier
+que les conditions légales sont remplies et dont la forme et le contenu sont
+fixés par décision du directeur général de l'agence.
 
 Le directeur général fixe également les périodes pendant lesquelles peuvent être
 déposés des dossiers de demande d'autorisation. La date de clôture de ces
-périodes fait courir le délai de quatre mois prévu ci-dessous.
+périodes fait courir le délai de quatre mois prévu ci-dessous pour les demandes
+accompagnées d'un dossier complet.
 
 Lorsque des pièces indispensables à l'instruction de la demande font défaut,
 l'avis de réception fixe le délai dans lequel ces pièces doivent être fournies.

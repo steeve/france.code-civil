@@ -1,8 +1,13 @@
 Article R2151-18
 ----
-Tout organisme qui conserve des cellules souches embryonnaires à des fins
-scientifiques doit être en mesure de justifier qu'elles ont été obtenues dans le
-respect des principes fondamentaux prévus aux articles 16 à 16-8 du code civil
-et avec le consentement préalable du couple géniteur et sans qu'aucun paiement,
-quelle qu'en soit la forme, ne leur ait été alloué. Il doit pouvoir justifier
-qu'il s'en est assuré.
+Tout organisme qui conserve des embryons et des cellules souches embryonnaires à
+des fins de recherche doit être en mesure de justifier du recueil des
+consentements mentionnés à l'article R. 2151-4.
+
+Lorsque les cellules souches embryonnaires ont été importées, l'organisme doit
+être en mesure de justifier qu'elles ont été obtenues dans le respect des
+principes mentionnés aux articles 16 à 16-8 du code civil, avec le consentement
+préalable du couple géniteur de l'embryon qui a été conçu dans le cadre d'une
+assistance médicale à la procréation et ne fait plus l'objet d'un projet
+parental, et sans qu'aucun paiement, quelle qu'en soit la forme, n'ait été
+alloué au couple.
