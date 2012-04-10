@@ -23,4 +23,11 @@ médicales de prévention du dopage mentionnées à l'article L. 232-1, ainsi qu
 associations et groupements d'intérêt public qui interviennent dans le domaine
 des activités physiques et sportives.
 
+Le Centre national pour le développement du sport exerce également ses missions
+en contribuant au financement des projets de construction ou de rénovation des
+enceintes sportives destinées à accueillir la compétition sportive dénommée "
+UEFA Euro 2016 " ainsi que des équipements connexes permettant le fonctionnement
+de celles-ci. A cette fin, il peut conclure des conventions de subventionnement
+avec toute personne morale de droit public ou privé.
+
 Le siège de l'établissement est fixé par arrêté du ministre chargé des sports.
