@@ -16,8 +16,12 @@ contribuable ayant repris une activité après cessation est considéré comme
 adhérant pour la première fois ;
 
 c) En cas de retrait d'agrément, pour l'imposition du bénéfice de l'année ou de
-l'exercice en cours déclaré dans les conditions prévues à l' article 53 A du
-code général des impôts.
+l'exercice en cours déclaré dans les conditions prévues à l'article 53 A du code
+général des impôts ;
+
+d) En cas de démission d'un centre de gestion agréé suivie, dans le délai
+maximum de trente jours à la date de la démission, de l'adhésion à un autre
+centre de gestion agréé.
 
 Les déclarations de résultats des membres adhérents d'un centre de gestion
 agréé, mentionnés au premier alinéa, doivent être accompagnées d'une attestation

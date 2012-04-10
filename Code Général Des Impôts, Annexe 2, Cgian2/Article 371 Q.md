@@ -14,7 +14,7 @@ Les statuts des associations doivent contenir les clauses suivantes :
 1° L'association a pour objet de fournir à ses membres adhérents des services ou
 informations qui leur permettent de développer l'usage de la comptabilité et qui
 facilitent l'accomplissement de leurs obligations administratives et fiscales.
-L'association fournit à ses membres adhérents, dans un délai de sept mois qui
+L'association fournit à ses membres adhérents, dans un délai de neuf mois qui
 suit la date de clôture de leur exercice, un document de synthèse présentant une
 analyse des informations économiques, comptables et financières de l'entreprise
 et lui indiquant, le cas échéant, les démarches à accomplir afin de régler ces
@@ -46,13 +46,13 @@ b. L'engagement par ceux de ces membres dont les déclarations de bénéfices so
 
 c. L'engagement par ceux de ces membres qui ne font pas élaborer leur
 déclaration par l'association, de lui communiquer préalablement à l'envoi au
-service des impôts de la déclaration prévue à l'article 97 du même code, le
-montant du résultat imposable et l'ensemble des données utilisées pour la
-détermination de ce résultat ;
+service des impôts des entreprises de la déclaration prévue à l'article 97 du
+code général des impôts, le montant du résultat imposable et l'ensemble des
+données utilisées pour la détermination de ce résultat ;
 
-d. L'autorisation donnée à l'association de communiquer à l'agent de
-l'administration fiscale qui apporte son assistance technique à l'association
-les renseignements ou documents mentionnés au présent article ;
+d. L'autorisation pour l'association de communiquer à l'administration fiscale,
+dans le cadre de l'assistance que cette dernière lui apporte, les documents
+mentionnés au présent article ;
 
 e. En cas de manquements graves ou répétés aux engagements énoncés ci-dessus,
 l'adhérent sera exclu de l'association. Il devra être mis en mesure, avant toute

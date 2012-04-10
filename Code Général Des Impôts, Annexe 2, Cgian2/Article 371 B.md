@@ -12,9 +12,5 @@ L'agrément d'un centre pourra n'être pas renouvelé si le nombre des adhérent
 n'atteint pas trois cents dans un délai de trois ans à compter de la date
 d'agrément.
 
-En ce qui concerne les centres prévus aux II, III et IV de l'article 1649 quater
-D du code général des impôts, ces nombres sont respectivement fixés à
-soixante-quinze et cent cinquante.
-
 Il n'est pas exigé d'effectif minimum des centres créés dans les départements
 d'outre-mer.

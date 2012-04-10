@@ -32,7 +32,8 @@ agréé sont également offertes au représentant de l'adhérent.
 
 Elles ne peuvent agir en qualité de mandataires de leurs membres.
 
-Toutefois, les associations peuvent recevoir mandat de leurs membres ayant
-adhéré au système de transfert des données fiscales et comptables pour
-transmettre les informations correspondant aux obligations déclaratives de ces
-membres.
+Toutefois, les associations doivent recevoir mandat de leurs membres en vue de
+la télétransmission des attestations qu'elles délivrent à leurs adhérents ainsi
+que des déclarations de résultats, de leurs annexes et des autres documents les
+accompagnant selon la procédure prévue par le système de transfert des données
+fiscales et comptables.

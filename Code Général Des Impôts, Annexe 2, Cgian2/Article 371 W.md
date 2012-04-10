@@ -11,12 +11,18 @@ l'exercice ouvert depuis moins de trois mois à la date de l'agrément ;
 b) En cas de première adhésion à une association agréée pour l'imposition du
 bénéfice de l'année ou de la période d'imposition commencée depuis moins de cinq
 mois à la date de l'adhésion. Le contribuable ayant repris une activité après
-cessation est considéré comme adhérant pour la première fois ; c) En cas de
-retrait d'agrément, pour l'imposition du bénéfice de l'année ou de l'exercice en
-cours déclaré dans les conditions prévues à l'article 53 A du code général des
-impôts. Les déclarations de résultats des membres adhérents d'une association
-agréée, mentionnés au premier alinéa, doivent être accompagnées d'une
-attestation fournie par l'association indiquant la date d'adhésion et, le cas
-échéant, la date à laquelle est intervenue la perte de la qualité d'adhérent.
-L'association agréée et le membre adhérent sont identifiés sur cette
-attestation.
+cessation est considéré comme adhérant pour la première fois ;
+
+c) En cas de retrait d'agrément, pour l'imposition du bénéfice de l'année ou de
+l'exercice en cours déclaré dans les conditions prévues à l'article 97 du code
+général des impôts ;
+
+d) En cas de démission d'une association agréée suivie, dans le délai maximum de
+trente jours à la date de la démission, de l'adhésion à une autre association
+agréée.
+
+Les déclarations de résultats des membres adhérents d'une association agréée,
+mentionnés au premier alinéa, doivent être accompagnées d'une attestation
+fournie par l'association indiquant la date d'adhésion et, le cas échéant, la
+date à laquelle est intervenue la perte de la qualité d'adhérent. L'association
+agréée et le membre adhérent sont identifiés sur cette attestation.
