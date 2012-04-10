@@ -1,7 +1,7 @@
 Article R6226-4
 ----
-Le fait de verser un salaire à l'apprenti inférieur au minimum prévu par
-l'article L. 6222-27, est puni de l'amende prévue pour les contraventions de la
-cinquième classe. L'amende est appliquée autant de fois qu'il y a d'apprentis
-rémunérés dans des conditions illégales. La récidive est réprimée conformément
-aux articles 132-11 et 132-15 du code pénal.
+Pour la formation de l'apprenti qu'elle emploie, l'entreprise de travail
+temporaire ne peut pas conclure de convention avec une entreprise d'accueil en
+application de l'article R. 6223-10 ni avec une entreprise d'un autre Etat
+membre de la Communauté européenne susceptible d'accueillir temporairement
+l'apprenti en application de l'article L. 6211-5.
