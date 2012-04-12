@@ -7,7 +7,8 @@ obligations parmi celles prévues aux articles D. 307 à D. 315.
 
 Les projets de mesures correspondants font l'objet d'une consultation publique
 dans les conditions prévues aux articles L. 32-1 et D. 304. Ils font l'objet
-d'une consultation de la Commission européenne et des autorités compétentes des
+d'une consultation de la Commission européenne de l'Organe des régulateurs
+européens des communications électroniques et des autorités compétentes des
 autres Etats membres de l'Union européenne dans les conditions prévues aux
 articles L. 37-3 et D. 305. Ils fixent la durée d'application de chacune des
 obligations établies ou maintenues qui ne peut dépasser la date de révision des

@@ -2,17 +2,12 @@ Article D406-19
 ----
 I. - L'opérateur donneur ne peut facturer les coûts de portage à l'abonné.
 
-II. - L'opérateur receveur informe l'opérateur attributaire du portage du
-numéro.
+II. - L'opérateur receveur informe l'opérateur attributaire et l'opérateur
+donneur du portage du numéro.
 
-L'opérateur attributaire fait droit aux demandes raisonnables des opérateurs
-concernant la mise à disposition et la transmission des informations relatives
-aux numéros portés dont il est l'attributaire ainsi que l'identification des
-exploitants de réseau ouvert au public ouvrant l'interconnexion pour ces
-numéros.
-
-L'opérateur attributaire peut recouvrer les coûts encourus pour la transmission
-des informations mentionnées à l'alinéa précédent.
+L'opérateur receveur transmet à tous les opérateurs les informations relatives
+aux numéros portés dont il est le receveur ainsi que l'identification des
+préfixes de portabilité.
 
 III. - Les opérateurs qui fournissent des prestations à d'autres opérateurs au
 titre de la conservation des numéros doivent être en mesure de démontrer que les

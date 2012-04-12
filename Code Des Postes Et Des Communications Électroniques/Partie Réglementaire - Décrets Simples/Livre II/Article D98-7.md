@@ -9,20 +9,20 @@ et suivants du code de la défense et dans les décrets n° 65-28 du 13 janvier
 relatif au pouvoir des préfets en matière de défense non militaire, l'opérateur
 prend les mesures utiles pour :
 
-- assurer le fonctionnement régulier de ses installations ;
+― assurer le fonctionnement régulier de ses installations ;
 
-- protéger ses installations, par des mesures appropriées, contre les risques,
-menaces et agressions de quelque nature qu'elles soient ;
+― protéger ses installations, réseaux et services, par des mesures appropriées,
+contre les risques, menaces et agressions de quelque nature qu'elles soient ;
 
-- garantir la mise en oeuvre, dans les meilleurs délais, de moyens techniques et
+― garantir la mise en oeuvre, dans les meilleurs délais, de moyens techniques et
 humains susceptibles de pallier les conséquences les plus graves des
 défaillances, neutralisation ou destruction des installations ;
 
-- pouvoir répondre pour sa part aux besoins en matière de défense nationale et
+― pouvoir répondre pour sa part aux besoins en matière de défense nationale et
 de sécurité publique, et notamment mettre en oeuvre les moyens demandés par les
 représentants territoriaux de l'Etat, dans le cadre des plans de secours ;
 
--être en mesure, en temps de crise ou en cas de nécessité impérieuse, d'établir
+― être en mesure, en temps de crise ou en cas de nécessité impérieuse, d'établir
 des liaisons spécialement étudiées ou réservées pour la défense ou la sécurité
 publique, selon les modalités techniques et financières fixées par voie de
 convention avec les services de l'Etat concernés.
@@ -46,16 +46,16 @@ interceptions de correspondances émises par voie des communications
 
 Ces moyens sont mis en place et mis en œuvre dans les conditions suivantes :
 
-- ils sont mis en place sur le territoire national ;
+― ils sont mis en place sur le territoire national ;
 
-- ils sont mis en œuvre sur le territoire national et ne peuvent pas l'être à
+― ils sont mis en œuvre sur le territoire national et ne peuvent pas l'être à
 partir d'un pays étranger ;
 
-- les données produites par les systèmes utilisés sont chiffrées par un moyen
+― les données produites par les systèmes utilisés sont chiffrées par un moyen
 validé par l'Etat lorsque ces données doivent transiter par voie électronique en
 dehors du territoire national ;
 
-- seuls les agents qualifiés mentionnés au premier alinéa du présent III peuvent
+― seuls les agents qualifiés mentionnés au premier alinéa du présent III peuvent
 utiliser et contrôler les systèmes utilisés pour les interceptions de
 communications électroniques, accéder aux données produites par ces systèmes et
 les communiquer aux demandeurs autorisés.
@@ -74,14 +74,13 @@ prises par ce dernier au titre du III du présent article. La juste rémunérati
 de l'opérateur correspond à la couverture :
 
 a) Des coûts exposés pour les études, l'ingénierie, la conception et le
-déploiement des systèmes demandés pour les interceptions de communications
-électroniques ;
+déploiement des systèmes demandés au titre du III du présent article ;
 
 b) Des coûts liés à la maintenance et, le cas échéant, à la location des moyens
-permettant le fonctionnement des systèmes demandés pour les interceptions de
-communications électroniques ;
+permettant le fonctionnement des systèmes demandés au titre du III du présent
+article ;
 
-c) Des coûts liés au traitement des demandes d'interception.
+c) Des coûts liés au traitement des demandes.
 
 Les choix opérés par l'opérateur au titre du a, du b et du c font l'objet d'une
 validation par le ministre chargé des communications électroniques.
@@ -93,14 +92,21 @@ La rémunération de l'opérateur au titre du c est fixée par arrêté du minis
 chargé des communications électroniques et du ministre chargé du budget.
 
 V. - Dans le cadre des missions judiciaires ou d'interventions de secours,
-l'opérateur permet aux services visés au dernier alinéa de l'article L. 35-5
-d'accéder sans délai, directement ou par son seul intermédiaire, à sa liste
-d'abonnés et d'utilisateurs non expurgée des données couvertes par le troisième
-alinéa de l'article R. 10 et mise à jour dans les délais prescrits à l'article
-R. 10-4. Les quatrième, cinquième et septième alinéas de l'article R. 10 ne sont
-pas opposables auxdits services.
+l'opérateur permet aux services visés au V de l'article L. 33-1 d'accéder sans
+délai, directement ou par son seul intermédiaire, à sa liste d'abonnés et
+d'utilisateurs non expurgée des données couvertes par le troisième alinéa de
+l'article R. 10 et mise à jour dans les délais prescrits à l'article R. 10-4.
+Les quatrième, cinquième et septième alinéas de l'article R. 10 ne sont pas
+opposables auxdits services.
 
-Dans le cadre de l'application des dispositions du présent article, l'opérateur
-se conforme aux décisions ou instructions des autorités judiciaires, militaires
-ou de police ainsi qu'à celles du ministre chargé des communications
-électroniques.
+VI. - Pour répondre aux menaces ou aux atteintes à la sécurité des systèmes
+d'information des autorités publiques et des opérateurs mentionnés aux articles
+L. 1332-1 et L. 1332-2 du code de la défense, l'opérateur prend les mesures
+utiles pour pouvoir répondre aux prescriptions de l'autorité nationale de
+défense des systèmes d'information.
+
+VII. - Dans le cadre de l'application des dispositions du présent article,
+l'opérateur se conforme aux décisions ou instructions des autorités judiciaires,
+militaires ou de police ainsi qu'à celles du ministre chargé des communications
+électroniques et à celles de l'autorité nationale de défense des systèmes
+d'information.

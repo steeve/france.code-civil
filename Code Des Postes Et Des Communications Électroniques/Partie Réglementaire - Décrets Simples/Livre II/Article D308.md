@@ -1,48 +1,55 @@
 Article D308
 ----
 Lorsqu'un opérateur est tenu de faire droit aux demandes raisonnables d'accès à
-la boucle locale à paire torsadée métallique en application de l'article D. 310,
-il publie une offre technique et tarifaire pour l'accès à la boucle locale.
-Cette offre contient une description des prestations liées à l'accès à la boucle
-locale ainsi que des modalités, conditions et prix qui y sont associés. Elle
-inclut en outre les prestations associées à l'accès à la boucle locale,
-notamment la fourniture des informations nécessaires à sa mise en oeuvre, une
-offre de colocalisation des équipements.
+des infrastructures de réseaux en application de l'article D. 310, il publie une
+offre technique et tarifaire pour l'accès aux infrastructures de réseaux. Cette
+offre contient une description des prestations liées à l'accès aux
+infrastructures de réseaux ainsi que des modalités, conditions et prix qui y
+sont associés. Elle inclut en outre les prestations associées à l'accès aux
+infrastructures de réseaux, notamment la fourniture des informations nécessaires
+à sa mise en œuvre et, le cas échéant, une offre de colocalisation des
+équipements.
 
 L'offre mentionnée à l'alinéa précédent comporte au minimum les éléments
 suivants :
 
-Au titre des conditions associées au dégroupage de l'accès à la boucle locale :
+Au titre des conditions associées à l'accès dégroupé à la boucle locale :
 
 - éléments du réseau auxquels l'accès est proposé, couvrant notamment les
-éléments suivants :
+éléments suivants ainsi que les ressources associées appropriées ;
 
-- accès aux boucles et aux sous-boucles locales ;
+- accès dégroupé aux boucles locales, que celui-ci soit totalement dégroupé ou
+partagé ;
 
-- accès aux fréquences non vocales du spectre de fréquences d'une boucle ou
-d'une sous-boucle locale, en cas d'accès partagé à la boucle locale ;
+- accès dégroupé aux sous-boucles locales, que celui-ci soit totalement dégroupé
+ou partagé, y compris, si nécessaire, l'accès aux éléments de réseau qui ne sont
+pas actifs pour le déploiement des réseaux de transmission ;
 
-- informations relatives à l'emplacement des points d'accès physiques et à la
-disponibilité de boucles et de sous-boucles locales dans des parties bien
-déterminées du réseau d'accès. Lorsque la sauvegarde de la sécurité publique le
-justifie, la diffusion de ces informations peut être restreinte aux seules
-parties intéressées ;
+- le cas échéant, l'accès aux gaines permettant le déploiement de réseaux
+d'accès ;
 
-- modalités techniques de l'accès aux boucles et aux sous-boucles locales et de
-leur utilisation, y compris les caractéristiques techniques de la paire torsadée
-métallique dans la boucle locale ;
+- informations relatives à l'emplacement des points d'accès physiques, y compris
+les boîtiers situés dans la rue et les répartiteurs, et à la disponibilité de
+boucles, sous-boucles locales et des systèmes de transmission dans des parties
+bien déterminées du réseau d'accès et, le cas échéant, les informations
+relatives à l'emplacement des gaines et à la disponibilité dans les gaines.
+Lorsque la sauvegarde de la sécurité publique le justifie, la diffusion de ces
+informations peut être restreinte aux seules parties intéressées ;
+
+- modalités techniques de l'accès aux boucles, aux sous-boucles locales et aux
+gaines et de leur utilisation, y compris les caractéristiques techniques de la
+paire torsadée métallique ou de la fibre optique ou de l'équivalent,
+distributeurs de câbles, gaines et ressources associées et, le cas échéant, les
+conditions techniques relatives à l'accès aux gaines ;
 
 - procédures de commande et d'approvisionnement, restrictions d'utilisation.
 
 Au titre des services de colocalisation :
 
-- les informations concernant les sites pertinents de l'opérateur. Lorsque la
-sauvegarde de la sécurité publique le justifie, la diffusion de ces informations
-peut être restreinte aux seules parties intéressées ;
-
-- les possibilités de colocalisation sur les sites mentionnés à l'alinéa
-précédent (y compris colocalisation physique et, le cas échéant, colocalisation
-distante et colocalisation virtuelle) ;
+- les informations concernant les sites pertinents existants de l'opérateur ou
+l'emplacement des équipements et leur modification prévue. Lorsque la sauvegarde
+de la sécurité publique le justifie, la diffusion de ces informations peut être
+restreinte aux seules parties intéressées ;
 
 - les caractéristiques de l'équipement : le cas échéant, les restrictions
 concernant les équipements qui peuvent être colocalisés ;

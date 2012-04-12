@@ -4,11 +4,16 @@ Règles portant sur l'acheminement et la localisation des appels d'urgence.
 
 L'opérateur prend les mesures nécessaires pour acheminer gratuitement les appels
 d'urgence à partir des points d'accès publics, des points d'abonnement et des
-points d'interconnexion, vers le centre compétent correspondant à la
-localisation de l'appelant, en fonction des informations et listes transmises
-par les représentants de l'Etat dans les départements. Il ne reçoit pas de
-compensation financière de la part de l'Etat à ce titre. L'opérateur s'abstient
-de faire figurer sur les factures les numéros appelés à ce titre.
+points d'interconnexion vers le centre compétent correspondant à la localisation
+de l'appelant, en fonction des informations et listes transmises par les
+représentants de l'Etat dans les départements et pour fournir gratuitement aux
+utilisateurs finals handicapés un accès aux services d'urgence équivalent à
+celui dont bénéficie la majorité des utilisateurs finals. Pour les utilisateurs
+finals handicapés, lorsque le moyen de communication utilisé n'est pas le
+service téléphonique, cet accès est assuré dans la limite des contraintes
+techniques inhérentes au mode de communication utilisé. L'opérateur ne reçoit
+pas de compensation financière de la part de l'Etat à ce titre. L'opérateur
+s'abstient de faire figurer sur les factures les numéros appelés à ce titre.
 
 Afin de permettre la transmission des informations relatives à l'acheminement
 des appels d'urgence, l'opérateur communique ses coordonnées, avant l'ouverture
@@ -18,24 +23,26 @@ chaque modification de ces coordonnées.
 On entend par appels d'urgence les appels à destination des numéros d'appel
 d'urgence des services publics chargés :
 
--de la sauvegarde des vies humaines ;
+- de la sauvegarde des vies humaines ;
 
--des interventions de police ;
+- des interventions de police ;
 
--de la lutte contre l'incendie ;
+- de la lutte contre l'incendie ;
 
--de l'urgence sociale.
+- de l'urgence sociale.
 
 La liste des numéros d'appel d'urgence est précisée par l'Autorité de régulation
 des communications électroniques et des postes dans les conditions prévues à
 l'article L. 36-6.
 
-Lors d'un appel d'urgence, l'opérateur transmet aux services de secours les
-données de localisation de l'appelant, lorsque les équipements dont il dispose
-lui permettent de connaître ces données. On entend par données de localisation
-l'adresse de l'installation téléphonique, l'adresse de provenance de l'appel ou,
-dans le cas du service mobile, le lieu géographique de provenance de l'appel le
-plus précis que lesdits équipements sont en mesure d'identifier.
+Lors d'un appel d'urgence, l'opérateur met sans délai à la disposition des
+services de secours, agissant dans le cadre de missions d'interventions de
+secours, les données de localisation de l'appelant par un procédé sécurisé. On
+entend par données de localisation l'adresse de l'appelant issue de la liste
+d'abonnés et d'utilisateurs de l'opérateur complète, non expurgée et mise à jour
+et, dans le cas du service mobile, le lieu géographique de provenance de l'appel
+le plus précis que les équipements dont l'opérateur dispose sont en mesure
+d'identifier.
 
 Les opérateurs de téléphonie mobile acheminent vers le numéro 112 les seuls
 appels en provenance des terminaux dont le dispositif d'identification du client

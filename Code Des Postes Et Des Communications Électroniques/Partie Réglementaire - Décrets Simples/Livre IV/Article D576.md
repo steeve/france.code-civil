@@ -11,10 +11,7 @@ postes et communications électroniques ;
 
 3° Sur les projets et modifications des cahiers des charges et, le cas échéant,
 des contrats de plan de La Poste et des opérateurs chargés du service universel
-des communications électroniques ;
-
-4° Sur les rapports du Gouvernement au Parlement visés à l'article L. 35-7 du
-présent code.
+des communications électroniques.
 
 Dans le cadre de cette procédure, le ministre met à disposition de la commission
 tout document que celle-ci estime nécessaire pour formuler un avis.

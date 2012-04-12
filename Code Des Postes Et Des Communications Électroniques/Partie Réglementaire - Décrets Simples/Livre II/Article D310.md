@@ -11,8 +11,9 @@ influence significative sur un marché du secteur des communications
 électroniques l'obligation :
 
 1° D'accorder à des tiers l'accès à des éléments ou ressources de réseau
-spécifiques, y compris l'accès dégroupé à la boucle locale, dans les conditions
-prévues à l'article D. 308 ;
+spécifiques, y compris l'accès à des éléments de réseau qui ne sont pas actifs
+ou l'accès dégroupé à la boucle locale, dans les conditions prévues à l'article
+D. 308 ;
 
 2° De négocier de bonne foi avec les opérateurs qui demandent un accès ;
 
@@ -25,7 +26,7 @@ technologies clés qui revêtent une importance essentielle pour
 l'interopérabilité des services ou des services de réseaux virtuels ;
 
 6° De fournir une possibilité de colocalisation ou d'autres formes de partage
-des moyens, y compris le partage des gaines, des bâtiments ou des pylônes ;
+des ressources associées et des services associés ;
 
 7° De fournir les services spécifiques nécessaires pour garantir aux
 utilisateurs l'interopérabilité des services de bout en bout, notamment en ce
@@ -36,7 +37,10 @@ permettant l'itinérance sur les réseaux mobiles ;
 systèmes logiciels similaires nécessaires pour garantir l'existence d'une
 concurrence loyale dans la fourniture des services ;
 
-9° D'interconnecter des réseaux ou des moyens qui y sont associés.
+9° D'interconnecter des réseaux ou des moyens qui y sont associés ;
+
+10° De donner accès à des services associés, comme ceux relatifs à l'identité, à
+l'emplacement et à l'occupation de l'utilisateur.
 
 L'Autorité de régulation des communications électroniques et des postes définit
 en tant que de besoin les conditions de mise en oeuvre des obligations prévues

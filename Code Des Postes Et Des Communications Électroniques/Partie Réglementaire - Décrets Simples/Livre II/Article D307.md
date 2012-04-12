@@ -12,7 +12,8 @@ ces opérateurs ;
 - les caractéristiques du réseau de ces opérateurs ;
 
 - les conditions techniques et tarifaires de fourniture des prestations
-d'interconnexion et d'accès de ces opérateurs.
+d'interconnexion et d'accès de ces opérateurs y compris toute condition limitant
+l'accès ou l'utilisation des services et applications.
 
 L'Autorité de régulation des communications électroniques et des postes peut
 également imposer à un opérateur réputé exercer une influence significative sur

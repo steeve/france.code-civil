@@ -12,4 +12,4 @@ communications électroniques au président de la commission dans les délais fi
 d'un commun accord.
 
 Dans le cadre de cette procédure, la commission peut procéder à toutes
-investigations qu'elle estime utiles auprès de chacun des deux opérateurs.
+investigations qu'elle estime utiles auprès des opérateurs.

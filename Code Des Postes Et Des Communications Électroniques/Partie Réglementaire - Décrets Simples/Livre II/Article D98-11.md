@@ -76,6 +76,13 @@ conclus entre les filiales de l'opérateur, les sociétés appartenant au même
 groupe ou des branches d'activité de l'opérateur distinctes de celles couvertes
 par la déclaration ;
 
+- toute information concernant l'évolution des réseaux ou des services
+susceptible d'avoir une incidence sur les services fournis par l'opérateur aux
+autres opérateurs ;
+
+- toute information nécessaire pour évaluer la sécurité et l'intégrité des
+réseaux et des services.
+
 b) A l'attribution et au contrôle du respect des conditions d'utilisation des
 ressources en fréquences et en numérotation, et qui comprennent :
 
@@ -107,10 +114,16 @@ en numérotation ;
 l'autorisation ;
 
 c) Pour vérifier le respect des obligations qui lui sont imposées, le cas
-échéant, en application des articles D. 306 à D. 315 et D. 369 à D. 377,
+échéant, en application des articles R. 9-5, R. 9-6 et D. 306 à D. 315,
 notamment les informations financières ou comptables, y compris les données de
-coût, ainsi que les conventions, contrats ou accords le liant aux autres
-opérateurs ou à ses partenaires, filiales, services ou clients.
+coût, ou celles relatives à des marchés de détail associés à un marché de gros
+sur lequel l'opérateur est réputé exercer une influence significative ainsi que
+les conventions, contrats ou accords le liant aux autres opérateurs ou à ses
+partenaires, filiales, services ou clients ;
+
+d) Au suivi par l'Autorité de régulation des communications électroniques et des
+postes de l'évolution et du niveau des tarifs de détail applicables aux services
+mentionnés à l'article L. 35-1.
 
 3. L'Autorité de régulation des communications électroniques et des postes
 indique les motifs de sa demande, qui doit être proportionnée, et précise le
