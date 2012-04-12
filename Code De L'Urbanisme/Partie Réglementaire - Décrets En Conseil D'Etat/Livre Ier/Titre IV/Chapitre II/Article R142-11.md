@@ -1,6 +1,8 @@
 Article R142-11
 ----
-Dans le délai de deux mois à compter de la date de l'avis de réception ou de la
+Dans le délai de deux mois à compter de la date de l'avis de réception postal,
+du premier des accusés de réception ou d'enregistrement délivré en application
+du I de l'article 5 de l'ordonnance n° 2005-1516 du 8 décembre 2005, ou de la
 décharge de la déclaration d'intention d'aliéner, le président du conseil
 général notifie au propriétaire la décision prise par le département en vertu
 des articles R. 213-8 et R. 213-9.
@@ -20,10 +22,12 @@ ci-après.
 Lorsque le département a renoncé à l'exercice du droit de préemption, le
 Conservatoire de l'espace littoral et des rivages lacustres notifie au
 propriétaire, dans un délai de soixante-quinze jours à compter de la date de
-l'avis de réception ou de la décharge de la déclaration d'intention d'aliéner,
-la décision qu'il prend en vertu des articles R. 213-8 et R. 213-9. Il adresse
-sans délai une copie de sa décision au président du conseil général et au maire
-de la commune concernée ainsi que, s'il y a lieu, au président de
+l'avis de réception postal, du premier des accusés de réception ou
+d'enregistrement délivré en application du I de l'article 5 de l'ordonnance n°
+2005-1516 du 8 décembre 2005, ou de la décharge de la déclaration d'intention
+d'aliéner, la décision qu'il prend en vertu des articles R. 213-8 et R. 213-9.
+Il adresse sans délai une copie de sa décision au président du conseil général
+et au maire de la commune concernée ainsi que, s'il y a lieu, au président de
 l'établissement public de coopération intercommunale compétent.
 
 La commune ou l'établissement public de coopération intercommunale compétent
@@ -38,8 +42,10 @@ département.
 Le maire ou le président de l'établissement public de coopération intercommunale
 notifie la décision de la commune ou de l'établissement public de coopération
 intercommunale au propriétaire avant l'expiration du délai de trois mois courant
-à compter de la date de réception ou de la décharge de la déclaration
-d'intention d'aliéner.
+à compter de la date de la réception du premier des accusés de réception ou
+d'enregistrement délivré en application du I de l'article 5 de l'ordonnance n°
+2005-1516 du 8 décembre 2005, ou de la décharge de la déclaration d'intention
+d'aliéner.
 
 Il adresse sans délai une copie de cette décision au président du conseil
 général et, s'il y a lieu, au Conservatoire de l'espace littoral et des rivages

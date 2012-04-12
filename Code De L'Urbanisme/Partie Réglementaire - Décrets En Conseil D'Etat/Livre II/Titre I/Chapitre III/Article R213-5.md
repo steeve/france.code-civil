@@ -9,4 +9,8 @@ et conditions de l'aliénation projetée y compris, s'il y a lieu, le prix
 d'estimation de l'immeuble ou du droit offert en contrepartie.
 
 Elle est adressée à la mairie de la commune où se trouve situé le bien, par pli
-recommandé avec demande d'avis de réception postal, ou déposée contre décharge.
+recommandé avec demande d'avis de réception postal, déposée contre décharge, ou
+adressée par voie électronique en un seul exemplaire dans les conditions prévues
+par le I de l'article 5 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative
+aux échanges électroniques entre les usagers et les autorités administratives et
+entre les autorités administratives.

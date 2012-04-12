@@ -7,11 +7,12 @@ Cette déclaration est établie dans les formes prescrites par l'arrêté prévu
 l'article R. 142-9.
 
 Elle est adressée au siège du conseil général un mois avant la date fixée pour
-la vente, par lettre recommandée avec demande d'avis de réception. La
-déclaration fait l'objet des communications et transmissions mentionnées à
-l'article R. 142-10. Le titulaire dispose d'un délai de trente jours à compter
-de l'adjudication pour informer le greffier ou le notaire de sa décision de se
-substituer à l'adjudicataire.
+la vente, par lettre recommandée avec demande d'avis de réception ou par voie
+électronique dans les conditions prévues par le I de l'article 5 de l'ordonnance
+n° 2005-1516 du 8 décembre 2005. La déclaration fait l'objet des communications
+et transmissions mentionnées à l'article R. 142-10. Le titulaire dispose d'un
+délai de trente jours à compter de l'adjudication pour informer le greffier ou
+le notaire de sa décision de se substituer à l'adjudicataire.
 
 La substitution ne peut intervenir qu'au prix de la dernière enchère ou de la
 surenchère.
@@ -24,7 +25,9 @@ sous réserve de la renonciation du département et du Conservatoire de l'espace
 littoral et des rivages lacustres à l'exercice de ce même droit.
 
 La décision de se substituer à l'adjudicataire est notifiée au greffier ou au
-notaire par lettre recommandée avec demande d'avis de réception.
+notaire par lettre recommandée avec demande d'avis de réception ou par voie
+électronique dans les conditions prévues par le I de l'article 5 de l'ordonnance
+n° 2005-1516 du 8 décembre 2005.
 
 Copie de cette décision est annexée à l'acte ou au jugement d'adjudication et
 publiée au bureau des hypothèques en même temps que celui-ci.
