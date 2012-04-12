@@ -15,9 +15,7 @@ a) Porter l'indication du nom et du domicile de l'imprimeur (ces indications
 doivent se rapporter à l'imprimeur qui imprime réellement la publication) ;
 
 b) Avoir un directeur de la publication dont le nom est imprimé sur tous les
-exemplaires ;
-
-c) Avoir fait l'objet du dépôt prévu aux articles 7 et 10 de la loi précitée ;
+exemplaires.
 
 3° Paraître régulièrement au moins une fois par trimestre sans qu'il puisse y
 avoir un intervalle supérieur à quatre mois entre deux parutions ;
@@ -72,8 +70,9 @@ ou à un groupement quelconque ;
 publications périodiques, répondre, en outre, aux conditions suivantes :
 
 a) Le supplément doit satisfaire aux mêmes conditions de fond et de forme que la
-publication principale et porter la mention "supplément" suivie de l'indication
-du titre et de la date ou du numéro de la publication à laquelle il se rattache.
+publication principale et porter la mention " supplément " suivie de
+l'indication du titre et de la date ou du numéro de la publication à laquelle il
+se rattache.
 
 Pour l'application du présent article, est considérée comme supplément à un
 journal ou à un écrit périodique toute publication détachée paraissant
@@ -83,8 +82,8 @@ publication. Le supplément ne peut pas être vendu isolément ni faire l'objet
 d'un abonnement séparé ;
 
 b) Le numéro spécial ou hors série doit satisfaire aux mêmes conditions de fond
-et de forme que la publication principale et porter la mention "numéro spécial"
-ou "hors-série". Toutefois, dans la limite d'un numéro par an pour les
+et de forme que la publication principale et porter la mention " numéro spécial
+" ou " hors-série ". Toutefois, dans la limite d'un numéro par an pour les
 publications trimestrielles et de deux numéros par an pour les publications
 paraissant à des intervalles moindres, le numéro spécial ou hors série peut être
 consacré à un thème unique, à condition que le sujet traité présente un lien
