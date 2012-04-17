@@ -95,18 +95,19 @@ concernés. Le destinataire de la communication est soumis aux obligations
 précisées aux alinéas précédents. La communication est limitée aux
 infrastructures et réseaux établis sur le territoire du demandeur.
 
-L'Etat, les collectivités et les groupements peuvent communiquer des données
-reçues en application du présent article à un tiers concourant à l'aménagement
-du territoire avec lequel ils sont en relation contractuelle, après information
-des opérateurs et des gestionnaires d'infrastructures dont elles proviennent. La
-communication fait l'objet d'une convention de durée limitée qui en précise les
-finalités, impose au destinataire de respecter la sécurité et la confidentialité
-des données conformément au présent IV et précise que les données sont
-restituées à son terme et les copies détruites. Le service de l'Etat, la
-collectivité ou le groupement détenteur des données veille au respect par le
-destinataire de ses obligations en matière de sécurité et de confidentialité des
-données prévues par la convention. Les données communiquées ne peuvent être
-utilisées à d'autres fins que celles prévues par la convention.
+L'Etat, les collectivités territoriales et leurs groupements peuvent communiquer
+des données reçues en application du présent article à un tiers concourant à
+l'aménagement du territoire avec lequel ils sont en relation contractuelle,
+après information des opérateurs et des gestionnaires d'infrastructures dont
+elles proviennent. La communication fait l'objet d'une convention de durée
+limitée qui en précise les finalités, impose au destinataire de respecter la
+sécurité et la confidentialité des données conformément au présent IV et prévoit
+qu'à son terme les données sont restituées et les copies détruites. Le service
+de l'Etat, la collectivité territoriale ou le groupement détenteur des données
+veille au respect par le destinataire de ses obligations en matière de sécurité
+et de confidentialité des données prévues par la convention. Les données
+communiquées ne peuvent être utilisées à d'autres fins que celles prévues par la
+convention.
 
 La communication de données ne doit pas créer de discrimination entre opérateurs
 et ne doit pas porter atteinte au secret en matière commerciale et industrielle,
