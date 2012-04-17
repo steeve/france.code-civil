@@ -1,7 +1,16 @@
 Article R321-11
 ----
-I.-Le délégué de l'agence dans la région ou le délégué de l'agence en Corse : 1°
-Dans les limites et selon les programmes d'actions définis par le conseil
+I. - Le préfet de région et le préfet de département sont les délégués
+territoriaux de l'agence pour son action respectivement dans la région et le
+département, notamment dans les conditions fixées à l'article 59-2 et aux deux
+premiers alinéas de l'article 59-3 du décret n° 2004-374 du 29 avril 2004
+modifié relatif aux pouvoirs des préfets, à l'organisation et à l'action de
+l'Etat dans les régions et départements ;
+
+II. - Le préfet de région, délégué de l'agence dans la région ou le délégué de
+l'agence en Corse :
+
+1° Dans les limites et selon les programmes d'actions définis par le conseil
 d'administration de l'agence, recense sur l'ensemble du territoire régional les
 engagements pluriannuels de l'agence dans le cadre des délégations de compétence
 et d'opérations programmées des territoires non couverts par une délégation de
@@ -35,7 +44,7 @@ Le délégué de l'agence dans la région ou le délégué de l'agence en Corse
 transmet au directeur général de l'agence une copie des actes relatifs à ces
 délégations de signatures.
 
-II.-Le délégué de l'agence dans le département :
+III. - Le préfet de département, délégué de l'agence dans le département :
 
 1° Etablit, sous réserve des conventions signées en application des articles L.
 301-5-1, L. 301-5-2 et L. 321-1-1, le rapport annuel d'activité de l'agence dans

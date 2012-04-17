@@ -1,5 +1,10 @@
 Article R621-28
 ----
+Le préfet de région est le représentant territorial de l'établissement pour son
+action dans la région, notamment dans les conditions fixées à l'article 59-2 du
+décret n° 2004-374 du 29 avril 2004 modifié relatif aux pouvoirs des préfets, à
+l'organisation et à l'action de l'Etat dans les régions et départements.
+
 Une convention, conclue entre le directeur général de l'établissement et le
 préfet de région, détermine, d'une part, les missions de l'établissement dont
 l'exercice est confié aux services déconcentrés de l'Etat compétents en matière

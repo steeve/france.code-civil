@@ -27,3 +27,10 @@ nom de l'office.
 Le directeur général de l'Office national de la chasse et de la faune sauvage
 peut déléguer sa signature à des agents placés sous son autorité dans les
 conditions qu'il fixe.
+
+Une convention conclue entre le directeur général de l'office et le préfet de
+département, en qualité de représentant de l'Etat, détermine les modalités de
+coopération de l'office et de ses échelons territoriaux avec les services de
+l'Etat dans le département, notamment en matière de police de la chasse et de la
+nature, conforme à une convention type fixée par arrêté du ministre chargé de
+l'environnement.
