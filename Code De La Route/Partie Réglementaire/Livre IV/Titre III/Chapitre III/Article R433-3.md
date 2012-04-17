@@ -25,4 +25,4 @@ au 7° de l'article R. 433-5.
 
 IV.-Le fait de faire circuler un véhicule visé au présent article sans respecter
 les prescriptions de l'arrêté préfectoral est puni conformément aux dispositions
-des III, IV et V de l'article R. 433-1.
+des III, V et VI de l'article R. 433-1.

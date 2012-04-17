@@ -1,8 +1,8 @@
 Article R433-5
 ----
-Un arrêté conjoint des ministres chargés de l'intérieur, des armées, de
-l'équipement, des transports et de l'industrie fixe les conditions d'application
-de la présente section, et notamment :
+Un arrêté conjoint des ministres chargés de l'intérieur, de l'équipement et des
+transports fixe les conditions d'application de la présente section, et
+notamment :
 
 1° Les règles particulières de circulation des convois exceptionnels ;
 
