@@ -19,7 +19,18 @@ organisme qu'elle agrée à cet effet. "
 publique " sont remplacés par les mots : " à l'administrateur supérieur du
 territoire. "
 
-4° De l'article L. 2214-2, au premier alinéa, les mots : " notamment par la
+4° Au deuxième alinéa de l'article L. 2213-1, les mots : ", membre d'un centre
+pluridisciplinaire de diagnostic prénatal " sont supprimés ;
+
+Au troisième alinéa de l'article L. 2213-1, les mots : " l'équipe
+pluridisciplinaire chargée d'examiner la demande de la femme est celle d'un
+centre pluridisciplinaire de diagnostic prénatal. Lorsque l'équipe du centre
+précité se réunit, un médecin choisi par la femme peut, à la demande de
+celle-ci, être associé à la concertation. " sont remplacés par les mots : " la
+demande de la femme est examinée par une équipe pluridisciplinaire à laquelle
+peut être associé un médecin de son choix. ".
+
+5° De l'article L. 2214-2, au premier alinéa, les mots : " notamment par la
 création généralisée, dans les centres de planification maternelle et infantile,
 de centres de planification ou d'éducation familiale et " ne sont pas
 applicables.

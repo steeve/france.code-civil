@@ -1,14 +1,19 @@
 Article L2441-2
 ----
 Pour son application en Nouvelle-Calédonie et en Polynésie française, l'article
-L. 2131-1 est remplacé par les dispositions suivantes :
+L. 2131-1 est ainsi modifié :
 
-Art.L. 2131-1.-Le diagnostic prénatal s'entend des pratiques médicales ayant
-pour but de détecter in utero chez l'embryon ou le fœtus une affection d'une
-particulière gravité. Il doit être précédé d'une consultation médicale adaptée à
-l'affection recherchée.
+" 1° Au III, les mots : " un centre pluridisciplinaire de diagnostic prénatal "
+sont remplacés par les mots : " une consultation de nature à assurer une prise
+en charge pluridisciplinaire " ;
 
-Pour être autorisés à réaliser des analyses de cytogénétique et de biologie en
-vue d'établir un diagnostic prénatal, les établissements de santé et les
-laboratoires de biologie médicale doivent exercer leur activité conformément aux
-principes énoncés au présent chapitre.
+" 2° Au IV, les mots : ", le cas échéant membre d'un centre pluridisciplinaire
+de diagnostic prénatal, " sont supprimés ;
+
+" 3° Le VII est remplacé par les dispositions suivantes :
+
+" VII.-L'autorisation de réaliser des examens de biologie médicale destinés à
+établir un diagnostic prénatal est subordonnée au respect des principes énoncés
+au présent chapitre. " ;
+
+" 4° Le VIII est supprimé. "

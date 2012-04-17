@@ -2,14 +2,30 @@ Article L2421-2
 ----
 Pour l'application à Wallis-et-Futuna :
 
-1° De l'article L. 2131-1, au deuxième alinéa, les mots : " du chapitre II du
-titre II du livre Ier de la partie VI du présent code " sont remplacés par les
-mots : " applicables localement " ;
+1° De l'article L. 2131-1 :
 
-2° De l'article L. 2131-2, les mots : " à l'agence régionale de
-l'hospitalisation et " ne sont pas applicables ;
+" a) Au III, les mots : " un centre pluridisciplinaire de diagnostic prénatal "
+sont remplacés par les mots : " une consultation de nature à assurer une prise
+en charge pluridisciplinaire " ;
 
-3° De l'article L. 2131-4, au deuxième alinéa, après la référence : " L. 2131-1
-" sont insérés les mots : " ou un médecin qualifié en gynécologie-obstétrique ou
-un praticien ayant une formation en échographie du fœtus exerçant à l'agence de
-santé de Wallis-et-Futuna ".
+" b) Au IV, les mots : ", le cas échéant membre d'un centre pluridisciplinaire
+de diagnostic prénatal, " sont supprimés ;
+
+" c) Le VII est remplacé par les dispositions suivantes :
+
+" VII.-Les examens de biologie médicale destinés à établir un diagnostic
+prénatal ne peuvent être pratiqués que dans l'agence de santé autorisée à cet
+effet par l'administrateur supérieur du territoire. " ;
+
+" d) Le VIII est remplacé par les dispositions suivantes :
+
+" VIII.-La création d'un centre pluridisciplinaire de diagnostic prénatal à
+l'agence de santé est autorisée par l'Agence de la biomédecine. " ;
+
+2° De l'article L. 2131-2, les mots : " à l'agence régionale de santé et " ne
+sont pas applicables ;
+
+3° De l'article L. 2131-4, au troisième alinéa, les mots : " Un médecin exerçant
+son activité dans un centre pluridisciplinaire de diagnostic prénatal tel que
+défini " sont remplacés par les mots : " Un des médecins participant à la
+consultation telle que définie ".
