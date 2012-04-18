@@ -1,8 +1,8 @@
 Article R611-47
 ----
-Les enveloppes contenant les votes sont reçues au siège de la commission de
-recensement des votes. Elles y sont classées et conservées dans un local clos,
-sous la responsabilité du président de la commission de recensement des votes.
+Les votes sont reçus au siège de la commission de recensement des votes. Ils y
+sont classés et conservés dans un local clos, sous la responsabilité du
+président de la commission de recensement des votes.
 
 Le dépouillement a lieu le quatrième jour suivant la date des élections.
 

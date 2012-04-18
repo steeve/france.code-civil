@@ -1,8 +1,8 @@
 Article R611-42
 ----
-Les listes de candidats sont déposées au siège de la commission d'organisation
-électorale au plus tard le quarantième jour avant le scrutin avant 19 heures. Un
-récépissé est délivré au déposant.
+Les listes de candidats et leur profession de foi sont déposées au siège de la
+commission d'organisation électorale au plus tard le quarantième jour avant le
+scrutin avant 19 heures. Un récépissé est délivré au déposant.
 
 Si le quarantième jour tombe un jour non ouvrable, le dépôt est recevable
 jusqu'au premier jour ouvrable inclus qui suit.

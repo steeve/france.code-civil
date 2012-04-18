@@ -17,5 +17,4 @@ siège de la commission d'organisation électorale.
 
 Le juge d'instance statue dans un délai de huit jours.
 
-La décision du juge d'instance ne peut être contestée que devant la juridiction
-saisie de l'élection.
+La décision du juge d'instance n'est pas susceptible d'opposition.

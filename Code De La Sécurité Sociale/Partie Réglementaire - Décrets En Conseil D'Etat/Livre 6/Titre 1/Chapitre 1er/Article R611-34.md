@@ -3,7 +3,7 @@ Article R611-34
 La commission d'organisation électorale :
 
 1° Détermine les sections de vote et fixe le siège des bureaux où les votes sont
-déposés ou reçus ;
+reçus ;
 
 2° Etablit les listes électorales et statue sur les réclamations y afférentes ;
 

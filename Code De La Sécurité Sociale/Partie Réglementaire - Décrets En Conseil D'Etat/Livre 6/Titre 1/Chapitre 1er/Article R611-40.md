@@ -20,6 +20,7 @@ régime social des indépendants est porté devant le tribunal dans le ressort
 duquel est situé le siège de la caisse de base.
 
 Le recours devant le tribunal d'instance est présenté dans les formes prévues à
-l'article R. 13, alinéa 1, du code électoral. Le tribunal statue sur simple
-avertissement donné sans forme à toutes les parties. Le pourvoi est formé et
-jugé selon les formes prévues aux articles R. 15-1 à R. 15-7 du code électoral.
+l'article R. 13, alinéa 1, du code électoral. Le tribunal statue dans les huit
+jours sans frais ni forme de procédure sur simple avertissement donné trois
+jours à l'avance à toutes les parties intéressées. Le pourvoi est formé et jugé
+selon les formes prévues aux articles R. 15-1 à R. 15-7 du code électoral.

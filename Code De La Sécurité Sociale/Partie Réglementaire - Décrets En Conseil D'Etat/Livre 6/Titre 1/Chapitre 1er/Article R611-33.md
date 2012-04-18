@@ -11,7 +11,9 @@ désignés par celui-ci ;
 
 3° Quatre électeurs de la caisse choisis par le président de la commission ;
 
-4° Un agent de la Caisse nationale du régime social des indépendants ;
+4° Un agent représentant la Caisse nationale du régime social des indépendants,
+qui peut être un agent de direction de la caisse de base désigné par le
+directeur général de la caisse nationale ;
 
 5° Le représentant du directeur régional des services postaux.
 
