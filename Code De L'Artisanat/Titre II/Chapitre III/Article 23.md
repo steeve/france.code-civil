@@ -42,10 +42,12 @@ l'échelon régional ;
 métiers et de l'artisanat départementales qui leur sont rattachées et celle de
 leurs sections afin de contribuer au développement économique du territoire
 régional et de fixer, dans le respect des dispositions de la sixième partie du
-code du travail, les priorités en matière d'actions de formation, en faveur des
-chefs d'entreprise inscrits au répertoire des métiers, de leurs conjoints
-collaborateurs ou associés, de leurs auxiliaires familiaux dans le seul domaine
-de la gestion et du développement des entreprises ;
+code du travail et en application du décret n° 2004-1165 du 2 novembre 2004, les
+priorités en matière d'actions de formation en faveur des chefs d'entreprise
+exerçant une activité artisanale, de leurs conjoints collaborateurs ou associés
+et de leurs auxiliaires familiaux dans le seul domaine de la gestion et du
+développement des entreprises, et d'assurer le traitement des demandes de
+financement de ces actions ;
 
 12° De participer au développement de la formation professionnelle initiale ou
 continue. A ce titre, chaque établissement du réseau peut, seul ou en
