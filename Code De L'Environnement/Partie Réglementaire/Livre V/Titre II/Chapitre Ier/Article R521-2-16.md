@@ -18,7 +18,8 @@ des coûts de cette étude en méconnaissance de ce même article ;
 
 4° Pour un fabricant, importateur, utilisateur en aval, distributeur, le fait de
 ne pas conserver les informations en méconnaissance du 1 de l'article 36 du
-règlement (CE) n° 1907 / 2006 ;
+règlement (CE) n° 1907 / 2006 et du 1 de l'article 49 du règlement (CE) n°
+1272/2008 ;
 
 5° Pour tout acteur de la chaîne d'approvisionnement d'une substance ou d'un
 mélange, de ne pas communiquer à l'acteur ou au distributeur situé immédiatement

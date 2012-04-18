@@ -1,7 +1,7 @@
 Article R4411-73
 ----
-Le fournisseur d'une substance ou préparation dangereuse fournit au destinataire
-de cette substance ou préparation une fiche de données de sécurité conforme aux
+Le fournisseur d'une substance ou mélange dangereux fournit au destinataire de
+cette substance ou mélange une fiche de données de sécurité conforme aux
 exigences prévues au titre IV et à l'annexe II du règlement (CE) n° 1907/2006 du
 Parlement et du Conseil du 18 décembre 2006 concernant l'enregistrement,
 l'évaluation et l'autorisation des substances chimiques, ainsi que les

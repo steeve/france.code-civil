@@ -1,10 +1,8 @@
 Article R4412-32
 ----
 Lorsqu'il est informé par le médecin du travail du dépassement d'une valeur
-limite biologique d'un agent chimique dangereux très toxique, toxique, nocif,
-corrosif, irritant, sensibilisant ou d'un agent chimique cancérogène, mutagène
-ou toxique pour la reproduction de catégorie 3, dans les conditions prévues à
-l'article R. 4412-51-1, l'employeur :
+limite biologique d'un agent chimique dangereux pour la santé, dans les
+conditions prévues à l'article R. 4412-51-1, l'employeur :
 
 1° Procède à l'évaluation des risques conformément à la sous-section 2 ;
 

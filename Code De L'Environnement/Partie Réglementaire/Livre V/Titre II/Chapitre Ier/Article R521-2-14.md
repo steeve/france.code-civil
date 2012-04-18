@@ -79,5 +79,16 @@ quatrième partie du code du travail, de ne pas mettre en œuvre et de ne pas
 recommander les mesures appropriées visant à assurer une maîtrise valable des
 risques prévues au 5 de l'article 37 du règlement (CE) n° 1907 / 2006 ;
 
-La récidive de ces contraventions est réprimée conformément aux articles 132-11
-et 132-15 du code pénal.
+16° Pour un fabricant, un importateur, un utilisateur en aval ou un
+distributeur, d'importer, de mettre en vente, de détenir en vue de la vente ou
+de la distribution à titre gratuit, de vendre ou de distribuer à titre gratuit
+une substance ou un mélange dont l'étiquette ne respecte pas les règles de
+contenu et d'apposition, en méconnaissance des dispositions des articles 17 à
+28, des paragraphes 1 et 2 de l'article 29, des articles 30 à 33 du règlement
+(CE) n° 1272/2008 ;
+
+17° Pour un fabricant, un importateur, un utilisateur en aval ou un
+distributeur, d'importer, de mettre en vente, de détenir en vue de la vente ou
+de la distribution à titre gratuit, de vendre ou de distribuer à titre gratuit
+une substance ou un mélange dans un emballage non conforme aux dispositions de
+l'article 35 du règlement (CE) n° 1272/2008.
