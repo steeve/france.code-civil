@@ -105,7 +105,7 @@ Toutefois, lorsque le contribuable acquiert ou fait construire un logement neuf
 à raison duquel il justifie du niveau de performance énergétique globale
 mentionné au dernier alinéa du II, ce taux est porté à 22 % ;
 
--16 % pour les logements acquis en 2012 qui font l'objet d'un dépôt de demande
+-13 % pour les logements acquis en 2012 qui font l'objet d'un dépôt de demande
 de permis de construire au plus tard le 31 décembre 2011 et pour lesquels le
 contribuable justifie du niveau de performance énergétique globale mentionné au
 dernier alinéa du II.
@@ -113,9 +113,9 @@ dernier alinéa du II.
 Toutefois, pour les logements qui font l'objet d'un dépôt de permis de
 construire au plus tard le 31 décembre 2011 pour lesquels le contribuable ne
 justifie pas d'un tel niveau de performance énergétique globale, la réduction
-d'impôt s'applique au taux de 8 % ;
+d'impôt s'applique au taux de 6 % ;
 
--16 % pour les logements acquis ou construits en 2012 qui font l'objet d'un
+-13 % pour les logements acquis ou construits en 2012 qui font l'objet d'un
 dépôt de demande de permis de construire à compter du 1er janvier 2012.
 
 Lorsque le logement est détenu en indivision, chaque indivisaire bénéficie de la
@@ -162,7 +162,7 @@ l'engagement de location mentionnée au I, dans les conditions mentionnées au
 deuxième alinéa du l du 1° du I de l'article 31, par période de trois ans, le
 contribuable continue à bénéficier de la réduction d'impôt prévue au présent
 article pendant au plus six années supplémentaires. Dans ce cas, la réduction
-d'impôt annuelle est égale à 5 % du prix de revient du logement par période
+d'impôt annuelle est égale à 4 % du prix de revient du logement par période
 triennale, imputée à raison d'un tiers de son montant sur l'impôt dû au titre de
 chacune des années comprises dans ladite période.
 
@@ -205,7 +205,7 @@ Le taux de la réduction d'impôt est de :
 Toutefois, lorsque 95 % de la souscription sert exclusivement à financer les
 logements mentionnés au cinquième alinéa du IVce taux est porté à 22 % ;
 
--16 % pour les souscriptions réalisées en 2012, à la condition que 95 % de la
+-13 % pour les souscriptions réalisées en 2012, à la condition que 95 % de la
 souscription serve exclusivement à financer des logements qui font l'objet d'un
 dépôt de demande de permis de construire au plus tard le 31 décembre 2011 et qui
 respectent le niveau de performance énergétique globale mentionné au dernier
@@ -214,9 +214,9 @@ alinéa du II.
 Toutefois, pour les souscriptions réalisées en 2012 autres que celles
 mentionnées au sixième alinéa qui servent à financer des logements qui ont fait
 l'objet d'un dépôt de demande de permis de construire au plus tard le 31
-décembre 2011, la réduction d'impôt s'applique au taux de 8 % ;
+décembre 2011, la réduction d'impôt s'applique au taux de 6 % ;
 
--16 % pour les souscriptions réalisées en 2012 qui servent à financer des
+-13 % pour les souscriptions réalisées en 2012 qui servent à financer des
 logements faisant l'objet d'un dépôt de demande de permis de construire à
 compter du 1er janvier 2012.
 
@@ -270,7 +270,7 @@ conditions définies par décret, après avis du maire de la commune d'implantat
 ou du président de l'établissement public de coopération intercommunale
 territorialement compétent en matière d'urbanisme. La décision du ministre de
 délivrer ou non l'agrément doit tenir compte des besoins en logements adaptés à
-la population (1).
+la population.
 
 XI.-Les investissements mentionnés aux I et VIII et afférents à des logements
 situés dans les départements d'outre-mer, à Mayotte, Saint-Barthélemy,
@@ -286,7 +286,7 @@ a) Pour ces investissements, le taux de la réduction est égal :
 réalisées entre la date de promulgation de la loi n° 2009-594 du 27 mai 2009
 pour le développement économique des outre-mer et le 31 décembre 2011 ;
 
-2° A 29 % pour les logements acquis ou construits et pour les souscriptions
+2° A 24 % pour les logements acquis ou construits et pour les souscriptions
 réalisées en 2012 ;
 
 3° (Abrogé).

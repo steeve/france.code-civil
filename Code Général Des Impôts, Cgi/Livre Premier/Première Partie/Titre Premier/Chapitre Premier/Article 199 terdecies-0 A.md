@@ -1,7 +1,7 @@
 Article 199 terdecies-0 A
 ----
 I. 1° Les contribuables domiciliés fiscalement en France peuvent bénéficier
-d'une réduction de leur impôt sur le revenu égale à 22 % des versements
+d'une réduction de leur impôt sur le revenu égale à 18 % des versements
 effectués au titre de souscriptions en numéraire au capital initial ou aux
 augmentations de capital de sociétés.
 
@@ -174,7 +174,7 @@ V. Un décret fixe les modalités d'application du présent article, notamment l
 obligations déclaratives incombant aux contribuables et aux sociétés.
 
 VI. 1. Les contribuables domiciliés fiscalement en France peuvent bénéficier
-d'une réduction de leur impôt sur le revenu égale à 22 % des versements
+d'une réduction de leur impôt sur le revenu égale à 18 % des versements
 effectués au titre de souscriptions en numéraire de parts de fonds communs de
 placement dans l'innovation mentionnés à l'article L. 214-30 du code monétaire
 et financier lorsque les conditions suivantes sont remplies :
@@ -241,7 +241,7 @@ net ou sur les produits du fonds, attribuées en fonction de la qualité de la
 personne.
 
 VI ter.-Les contribuables domiciliés fiscalement en France peuvent bénéficier
-d'une réduction de leur impôt sur le revenu égale à 45 % des versements
+d'une réduction de leur impôt sur le revenu égale à 38 % des versements
 effectués au titre de souscriptions en numéraire de parts de fonds
 d'investissement de proximité, mentionnés à l'article L. 214-31 du code
 monétaire et financier, dont l'actif est constitué pour 60 % au moins de valeurs
@@ -266,7 +266,7 @@ VI ter A. ― A compter de l'imposition des revenus de 2011, les contribuables
 domiciliés fiscalement en Guadeloupe, Guyane, Martinique, à La Réunion, Mayotte,
 Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie,
 Polynésie française et dans les îles Wallis et Futuna peuvent bénéficier d'une
-réduction de leur impôt sur le revenu égale à 50 % des souscriptions en
+réduction de leur impôt sur le revenu égale à 42 % des souscriptions en
 numéraire de parts de fonds d'investissement de proximité, mentionnés à
 l'article L. 214-41-1 du code monétaire et financier, dont l'actif est constitué
 pour 60 % au moins de titres financiers, parts de société à responsabilité

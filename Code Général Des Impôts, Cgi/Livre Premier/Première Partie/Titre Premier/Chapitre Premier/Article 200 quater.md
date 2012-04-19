@@ -147,10 +147,10 @@ ouvrant droit au crédit d'impôt est limité à trois par foyer fiscal.
 
 a. (Abrogé)
 
-b) 12 % du montant des équipements, matériaux et appareils mentionnés aux 1° et
+b) 10 % du montant des équipements, matériaux et appareils mentionnés aux 1° et
 2° du b du 1 ;
 
-c) 18 % du montant des équipements, matériaux et appareils mentionnés aux 3° et
+c) 15 % du montant des équipements, matériaux et appareils mentionnés aux 3° et
 4° du b du 1 ;
 
 d) Pour le montant des équipements de production d'énergie utilisant une source
@@ -160,8 +160,8 @@ d'énergie renouvelable mentionnés au c du 1 :
 
 2011
 
-
 A compter de 2012
+
 
 Cas général
 
@@ -169,7 +169,7 @@ Cas général
 
 45 %
 
-38 %
+32 %
 
 Equipements de production d'électricité utilisant l'énergie radiative du soleil
 
@@ -179,7 +179,7 @@ Equipements de production d'électricité utilisant l'énergie radiative du sole
 
 22 %
 
-13 %
+11 %
 
 Pompes à chaleur (autres que air/ air) dont la finalité essentielle est la
 production de chaleur, à l'exception des pompes à chaleur géothermiques.
@@ -188,7 +188,7 @@ production de chaleur, à l'exception des pompes à chaleur géothermiques.
 
 22 %
 
-18 %
+15 %
 
 Pompes à chaleur géothermiques dont la finalité essentielle est la production de
 chaleur.
@@ -197,7 +197,7 @@ chaleur.
 
 36 %
 
-31 %
+26 %
 
 Pompes à chaleur (autres que air/ air) thermodynamiques dédiées à la production
 d'eau chaude sanitaire.
@@ -206,7 +206,7 @@ d'eau chaude sanitaire.
 
 36 %
 
-31 %
+26 %
 
 Pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques.
 
@@ -214,7 +214,7 @@ Pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques.
 
 36 %
 
-31 %
+26 %
 
 Chaudières et équipements de chauffage ou de production d'eau chaude
 fonctionnant au bois ou autres biomasses :
@@ -225,7 +225,7 @@ fonctionnant au bois ou autres biomasses :
 
 22 %
 
-18 %
+15 %
 
 -en cas de remplacement des mêmes matériels.
 
@@ -233,12 +233,13 @@ fonctionnant au bois ou autres biomasses :
 
 36 %
 
-31 %
+26 %
 
 (1) Pour les dépenses payées jusqu'au 28 septembre 2010 inclus, ainsi que celles
-pour lesquelles le contribuable peut justifier jusqu'à cette date : a) De
-l'acceptation d'un devis et du versement d'arrhes ou d'un acompte à l'entreprise
-;
+pour lesquelles le contribuable peut justifier jusqu'à cette date :
+
+a) De l'acceptation d'un devis et du versement d'arrhes ou d'un acompte à
+l'entreprise ;
 
 b) De la signature d'un contrat dans le cadre d'un démarchage mentionné aux
 articles L. 121-21 à L. 121-33 du code de la consommation, à la condition de
@@ -249,16 +250,16 @@ c) Ou d'un moyen de financement accordé à raison des dépenses concernées par
 
 (2) Pour les dépenses payées à compter du 29 septembre 2010.
 
-e) 18 % du montant des équipements mentionnés aux d et e du 1 ;
+e) 15 % du montant des équipements mentionnés aux d et e du 1 ;
 
-f) 38 % du montant des dépenses mentionnées au 2° du f du 1 ;
+f) 32 % du montant des dépenses mentionnées au 2° du f du 1 ;
 
-g) 21 % du montant des équipements mentionnés au g du 1.
+g) 17 % du montant des équipements mentionnés au g du 1.
 
-5 bis. Les taux mentionnés au 5 sont majorés de dix points si, pour un même
-logement achevé depuis plus de deux ans et au titre d'une même année, le
-contribuable réalise des dépenses relevant d'au moins deux des catégories
-suivantes :
+5 bis. Les taux de 10 %, 15 %, 17 %, 26 % et 32 % mentionnés au 5 sont
+respectivement portés à 18 %, 23 %, 26 %, 34 % et 40 % si, pour un même logement
+achevé depuis plus de deux ans et au titre d'une même année, le contribuable
+réalise des dépenses relevant d'au moins deux des catégories suivantes :
 
 a) Dépenses d'acquisition de matériaux d'isolation thermique des parois vitrées,
 mentionnées au 2° du b du 1 ;
@@ -284,7 +285,7 @@ celles visées aux d et e du présent 5 bis et des dépenses d'acquisition
 d'équipements de production d'électricité utilisant l'énergie radiative du
 soleil.
 
-Ces majorations s'appliquent dans la limite d'un taux de 50 % pour un même
+Ces taux majorés s'appliquent dans la limite d'un taux de 42 % pour un même
 matériau, équipement ou appareil.
 
 6. a. Les équipements, matériaux, appareils et travaux de pose mentionnés au 1

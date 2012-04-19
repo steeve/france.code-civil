@@ -15,9 +15,9 @@ l'article L. 622-7 du code du patrimoine ;
 2° L'objet est, dès l'achèvement des travaux et pendant au moins les cinq années
 suivant celui-ci, exposé au public.
 
-III. ― La réduction d'impôt est égale à 22 % des sommes effectivement versées et
+III. ― La réduction d'impôt est égale à 18 % des sommes effectivement versées et
 restant à la charge du propriétaire, retenues dans la limite annuelle de 20 000
-euros par contribuable.
+€ par contribuable.
 
 IV. ― En cas de non-respect d'une des conditions fixées au II ou de cession de
 l'objet avant le 31 décembre de la cinquième année suivant l'achèvement des

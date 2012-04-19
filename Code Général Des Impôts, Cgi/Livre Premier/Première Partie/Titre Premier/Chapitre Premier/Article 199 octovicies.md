@@ -16,10 +16,10 @@ La réduction d'impôt s'applique aux dépenses mentionnées au premier alinéa 
 reçu un avis favorable du service de l'Etat compétent en matière
 d'environnement.
 
-II.-La réduction d'impôt est égale à 22 % des dépenses mentionnées au I
+II.-La réduction d'impôt est égale à 18 % des dépenses mentionnées au I
 effectivement supportées au titre de l'année d'imposition et restant à la charge
 des propriétaires des espaces concernés, retenues dans la limite annuelle de 10
-000 euros.
+000 €.
 
 Lorsque le montant de la réduction d'impôt excède l'impôt dû par le contribuable
 au titre d'une année d'imposition, le solde peut être imputé sur l'impôt sur le

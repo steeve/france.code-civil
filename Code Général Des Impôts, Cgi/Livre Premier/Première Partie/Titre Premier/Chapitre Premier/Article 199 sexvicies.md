@@ -39,7 +39,7 @@ Le taux de la réduction d'impôt est de 25 % pour les logements acquis en 2009 
 en 2010, et de 18 % pour les logements acquis à compter de l'année 2011.
 
 Toutefois, pour les logements acquis en 2012, le taux de la réduction d'impôt
-est de 14 %. Ces dispositions ne s'appliquent pas aux acquisitions pour
+est de 11 %. Ces dispositions ne s'appliquent pas aux acquisitions pour
 lesquelles le contribuable justifie qu'il a pris, au plus tard le 31 décembre
 2011, l'engagement de réaliser un investissement immobilier. Dans ce cas, la
 réduction d'impôt s'applique au taux en vigueur au 31 décembre 2011 pour les

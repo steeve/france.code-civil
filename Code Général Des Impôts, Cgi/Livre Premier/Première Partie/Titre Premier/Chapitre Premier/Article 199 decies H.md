@@ -201,9 +201,9 @@ produites avec la déclaration prévue à l'article 170 la facture du contrat de
 gestion et l'attestation délivrée par l'opérateur certifiant que la cession et
 la commercialisation des coupes sont réalisées dans les conditions du f du 2.
 
-3 ter. Le taux de la réduction d'impôt est de 22 % à l'exception de la réduction
+3 ter. Le taux de la réduction d'impôt est de 18 % à l'exception de la réduction
 d'impôt afférente aux dépenses prévues au g du 2 pour lesquelles ce taux est
-porté à 90 %.
+porté à 76 %.
 
 4. La réduction d'impôt s'applique pour le calcul de l'impôt dû :
 
