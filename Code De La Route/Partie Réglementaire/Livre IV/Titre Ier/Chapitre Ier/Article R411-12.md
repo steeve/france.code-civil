@@ -8,3 +8,7 @@ l'article R. 411-10.
 Elles comprennent au moins un représentant des catégories visées aux 1°, 2°, 3°
 et 5° de l'article R. 411-11 et au moins trois représentants de la catégorie
 visée au 4° du même article.
+
+Pour l'exercice des compétences consultatives mentionnées au II de l'article R.
+411-10, le président de la commission peut associer à ses travaux des
+représentants des gestionnaires des voies concernées.
