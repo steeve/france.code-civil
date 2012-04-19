@@ -7,7 +7,10 @@ et, dans les conditions prévues à l'article 5 de la loi n° 90-1258 du 31
 décembre 1990 relative à l'exercice sous forme de sociétés des professions
 libérales soumises à un statut législatif ou réglementaire ou dont le titre est
 protégé et aux sociétés de participations financières de professions libérales,
-avec les personnes mentionnées à cet article, une société d'exercice libéral qui
+avec les personnes mentionnées à cet article, à l'exception des personnes
+exerçant la profession d'administrateur judiciaire ou celle de mandataire
+judiciaire et des sociétés dont ces personnes détiennent, directement ou
+indirectement, tout ou partie du capital, une société d'exercice libéral qui
 peut être nommée greffier de tribunal de commerce en remplacement du titulaire
 d'un office existant ou titulaire d'un office créé ou vacant.
 
