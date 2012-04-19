@@ -7,8 +7,7 @@ qui répond aux conditions d'attribution suivantes :
 demande de l'indemnité ;
 
 2° Ne pas bénéficier d'une préretraite ou d'une retraite du régime des
-non-salariés agricoles jusqu'à la date à laquelle l'administration statue sur la
-demande d'indemnités ;
+non-salariés agricoles au 1er janvier de l'année de la demande de l'indemnité ;
 
 3° Avoir sa résidence principale en zone défavorisée ;
 
@@ -30,10 +29,10 @@ résidence principale sont situés en métropole dans la zone de montagne (ou ha
 montagne) sèche ou, dans les départements d'outre-mer, en zone défavorisée ;
 
 5° Respecter l'engagement de poursuivre l'activité agricole dans la zone
-défavorisée pendant au moins cinq ans successifs à compter de la première
-demande d'indemnité.L'exploitant est libéré de cet engagement lorsqu'il cesse
-l'activité agricole du fait de son départ en préretraite ou en retraite ainsi
-qu'en cas de force majeure ;
+défavorisée pendant au moins cinq ans successifs à compter du premier paiement.
+L'exploitant est libéré de cet engagement lorsqu'il cesse l'activité agricole du
+fait de son départ en préretraite ou en retraite ainsi qu'en cas de force
+majeure ;
 
 6° Faire parvenir une demande d'indemnités à la direction chargée de
 l'agriculture du département du siège de l'exploitation dans les mêmes délais
@@ -56,10 +55,10 @@ croissance (SMIC) ;
 -pour au maximum 25 hectares primés si leurs revenus non agricoles sont
 équivalents au montant compris entre une et deux fois le SMIC ;
 
-Dans les zones de piémont et défavorisée simple, les agriculteurs pluriactifs
-qui ont des revenus agricoles inférieurs aux revenus non agricoles peuvent
-bénéficier de l'indemnité si leurs revenus non agricoles sont inférieurs au
-montant équivalent à la moitié du SMIC.
+Dans les autres zones défavorisées, les agriculteurs pluriactifs qui ont des
+revenus agricoles inférieurs aux revenus non agricoles peuvent bénéficier de
+l'indemnité si leurs revenus non agricoles sont inférieurs au montant équivalent
+à la moitié du SMIC.
 
 Les revenus non agricoles de l'exploitant sont ceux passibles de l'impôt sur le
 revenu et considérés avant abattements et constitués par le total des sommes

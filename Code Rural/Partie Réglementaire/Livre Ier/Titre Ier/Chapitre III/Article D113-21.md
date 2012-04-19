@@ -10,17 +10,21 @@ foncière. Un plafond supplémentaire sera également accordé à l'adhésion d'
 jeune agriculteur éligible bénéficiaire des aides publiques à l'installation et
 intégrant un GAEC sans y apporter une exploitation, sous réserve, toutefois,
 qu'à l'occasion de son adhésion les autres associés lui cèdent, soit
-immédiatement, soit par la suite (en propriété ou en location par bail à ferme),
-un droit d'utilisation du foncier pour au moins une demi-SMI ;
+immédiatement, soit dans les cinq ans qui suivent sa date d'installation, un
+droit d'utilisation du foncier (en propriété ou en location par bail à ferme)
+pour au moins une demi-SMI. Ces dispositions sont également applicables à un
+jeune agriculteur éligible bénéficiaire des aides publiques à l'installation et
+devenant associé d'un GAEC issu de la transformation d'une société civile
+agricole dans laquelle il était associé depuis moins de cinq ans ;
 
 2° Peuvent également être éligibles aux indemnités compensatoires des handicaps
 naturels, dans la limite d'un plafond de 50 hectares primés :
 
-- les autres exploitations agricoles de forme sociétaire lorsque plus de 50 % du
+-les autres exploitations agricoles de forme sociétaire lorsque plus de 50 % du
 capital social est détenu par des associés exploitants avec au moins un des
 associés éligible à l'indemnité ;
 
-- les fondations, associations sans but lucratif et les établissements
+-les fondations, associations sans but lucratif et les établissements
 d'enseignement, de formation et de recherche lorsqu'ils exercent directement des
 activités agricoles au sens de l'article L. 311-1 du code rural et de la pêche
 maritime.
