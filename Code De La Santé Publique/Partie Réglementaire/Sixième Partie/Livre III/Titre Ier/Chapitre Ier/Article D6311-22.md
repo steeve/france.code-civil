@@ -1,11 +1,6 @@
 Article D6311-22
 ----
-L'habilitation à dispenser la formation aux gestes et soins d'urgence est
-délivrée pour une durée de quatre ans.
-
-Le renouvellement de l'habilitation est subordonné au suivi d'une formation
-continue assurée par les centres d'enseignement des soins d'urgence pour
-actualiser les connaissances.
-
-Un arrêté du ministre de la santé définit les critères auxquels doivent répondre
-les formateurs.
+L'agence régionale de santé procède à l'intégration, dans le contrat pluriannuel
+d'objectifs et de moyens conclu avec l'établissement de santé siège d'un centre
+d'enseignement des soins d'urgence, en application de l'article L. 6114-1, des
+objectifs liés aux missions de ce centre.

@@ -1,19 +1,27 @@
 Article D6311-20
 ----
-Le centre d'enseignement des soins d'urgence dispense la formation des
-formateurs à l'attestation des gestes et soins d'urgence. Il peut également
-dispenser la formation à l'attestation des gestes et soins d'urgence directement
-auprès des professionnels de santé.
+Le centre d'enseignement des soins d'urgence est créé dans un établissement de
+santé, au sein du pôle hospitalier comprenant le service d'aide médicale
+urgente.
 
-A ce titre, le centre d'enseignement des soins d'urgence délivre, s'il y a lieu,
-les attestations de formation correspondantes selon un modèle fixé par arrêté.
+Le centre d'enseignement des soins d'urgence est placé sous la responsabilité
+d'un médecin, qui consacre une partie de son activité au fonctionnement du
+centre, professeur des universités-praticien hospitalier, maître de conférences
+des universités-praticien hospitalier ou praticien hospitalier. Dans ce dernier
+cas, le praticien doit être titulaire d'un diplôme universitaire de pédagogie.
 
-La formation des formateurs à l'attestation des gestes et soins d'urgence est
-assurée par une équipe pédagogique de centre d'enseignement des soins d'urgence
-au niveau régional, interdépartemental ou interrégional en fonction des besoins
-de formation.
+Ce médecin peut être soit le médecin responsable du service d'aide médicale
+urgente, soit un praticien hospitalier titulaire désigné par lui et exerçant au
+sein du service d'aide médicale urgente.
 
-Les enseignants chargés d'organiser et d'encadrer la formation des formateurs
-doivent répondre à des critères définis par la commission nationale définie à
-l'article D. 6311-17 en fonction de leurs qualifications pédagogiques et des
-besoins du réseau régional d'enseignement des soins d'urgence.
+Il est assisté d'un infirmier, titulaire du diplôme de cadre de santé ou d'un
+diplôme validant une formation de l'enseignement supérieur en pédagogie ou
+d'ingénierie de formation, chargé d'une fonction d'encadrement.
+
+Un centre d'enseignement des soins d'urgence doit disposer des ressources lui
+permettant d'accomplir ses missions. Ces ressources comprennent des enseignants
+permanents, des intervenants occasionnels ainsi que des personnels
+administratifs et logistiques. Elles comprennent également des moyens
+logistiques et des locaux permettant la réalisation de séquences d'enseignement
+théorique et pratique, et notamment des simulations d'une situation sanitaire
+normale ou exceptionnelle.

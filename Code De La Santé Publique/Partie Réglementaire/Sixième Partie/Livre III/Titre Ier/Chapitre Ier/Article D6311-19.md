@@ -1,51 +1,19 @@
 Article D6311-19
 ----
-Le centre d'enseignement des soins d'urgence est placé sous l'autorité du
-médecin responsable du service d'aide médicale d'urgence ou d'un praticien
-hospitalier titulaire exerçant au service d'aide médicale d'urgence, proposé par
-celui-ci et qui consacre une partie de son activité à l'enseignement au centre
-d'enseignement des soins d'urgence.
+Un centre d'enseignement des soins d'urgence a pour mission :
 
-Ce médecin est un professeur des universités-praticien hospitalier ou un maître
-de conférences des universités-praticien hospitalier ou un praticien hospitalier
-titulaire d'un diplôme universitaire de pédagogie.
+1° De contribuer, dans le domaine de la prise en charge de l'urgence médicale en
+situation sanitaire normale et exceptionnelle, à la formation initiale et
+continue de l'ensemble des professionnels de santé, des personnels non soignants
+des établissements de santé et des structures médico-sociales et, plus
+généralement, de toute personne susceptible d'être confrontée, en urgence, à un
+problème de santé dans le cadre de son activité professionnelle. A ce titre, il
+peut dispenser la formation à l'attestation de formation aux gestes et soins
+d'urgence de niveau 1 et de niveau 2 ;
 
-Le centre d'enseignement des soins d'urgence est constitué :
+2° De contribuer à la formation à l'attestation spécialisée aux gestes et soins
+d'urgence face à une situation sanitaire exceptionnelle, notamment dans le cadre
+du plan blanc d'établissement prévu à l'article L. 3131-7 ;
 
-1° Du médecin responsable ;
-
-2° De personnel d'encadrement, infirmier, titulaire d'un diplôme validant une
-formation de l'enseignement supérieur en pédagogie ou d'ingénierie de formation
-ou de cadre de santé ;
-
-3° De personnel enseignant, professionnels de santé en exercice dans une
-structure de médecine d'urgence des établissements de santé autorisés
-conformément à l'article R. 6123-1, ou professionnels de santé en
-anesthésie-réanimation ou en réanimation ayant validé des unités d'enseignement
-en pédagogie ;
-
-4° De personnel de secrétariat et de tout personnel nécessaire à son
-fonctionnement.
-
-Le nombre et la qualification des personnels permanents de l'équipe du centre
-d'enseignement des soins d'urgence sont fonction du volume d'activité, du type
-et du niveau des enseignements délivrés.
-
-Pour assurer une partie de ces enseignements, les centres d'enseignement des
-soins d'urgence peuvent faire appel à des personnels occasionnels en fonction de
-leurs compétences spécifiques.
-
-Chaque centre d'enseignement des soins d'urgence est garant de la qualité
-pédagogique des formations dont il assure la responsabilité, conformément aux
-orientations données par la commission nationale des formations aux soins
-d'urgence et à la gestion de crises sanitaires.
-
-Les centres d'enseignement des soins d'urgence sont créés au sein des pôles
-hospitaliers comprenant un service d'aide médicale d'urgence.
-
-Les centres d'enseignement des soins d'urgence sont agréés par le directeur
-général de l'agence régionale de santé après avis de la commission prévue à
-l'article D. 6311-17.
-
-Les modalités de fonctionnement d'un centre d'enseignement des soins d'urgence
-sont définies par arrêté du ministre chargé de la santé.
+3° De participer à la recherche en pédagogie appliquée, à la promotion de
+l'éducation à la santé et à la prévention des risques sanitaires.
