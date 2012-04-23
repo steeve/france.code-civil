@@ -12,9 +12,10 @@ Il met obstacle à l'ouverture de nouveaux droits à l'assurance vieillesse
 résultant d'une activité postérieure à la date à laquelle le compte de l'assuré
 a été arrêté pour déterminer le montant de la pension.
 
-L'assuré qui bénéficie du versement forfaitaire a la qualité de pensionné ; il a
-droit notamment aux prestations en nature de l'assurance maladie dans les
-conditions prévues à l'article L. 311-9.
+L'assuré qui bénéficie du versement forfaitaire a la qualité de pensionné.
+
+Toutefois, cet alinéa demeure applicable à Saint-Pierre-et-Miquelon dans sa
+rédaction antérieure à celle issue du présent décret.
 
 La somme de 175 F mentionnée au premier alinéa du présent article est applicable
 à la date du 1er juillet 1974. Elle est revalorisée en appliquant les
