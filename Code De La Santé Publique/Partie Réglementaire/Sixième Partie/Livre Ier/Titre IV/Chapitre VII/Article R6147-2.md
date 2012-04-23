@@ -7,5 +7,5 @@ général.
 Le directeur général de l'Assistance publique-hôpitaux de Paris est assisté d'un
 secrétaire général, qui le supplée en cas d'absence ou d'empêchement. Le
 directeur général des Hospices civils de Lyon et le directeur général de
-l'Assistance publique-hôpitaux de Marseille sont assistés par un directeur
-général adjoint et par un secrétaire général.
+l'Assistance publique-hôpitaux de Marseille sont assistés par deux directeurs
+généraux adjoints et par un secrétaire général.
