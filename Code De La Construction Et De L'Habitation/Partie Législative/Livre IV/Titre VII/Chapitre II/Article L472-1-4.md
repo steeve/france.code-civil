@@ -5,4 +5,5 @@ tendant à améliorer les rapports locatifs et portant modification de la loi n�
 86-1290 du 23 décembre 1986, le délai de préavis applicable au congé donné par
 un locataire d'un logement mentionné à l'article L. 472-1-2 qui bénéficie de
 l'attribution dans le parc du même bailleur d'un autre logement mentionné au
-même article est ramené à un mois.
+même article est ramené à un mois en Guadeloupe, en Guyane, à la Martinique, à
+La Réunion, à Mayotte et à Saint-Martin.

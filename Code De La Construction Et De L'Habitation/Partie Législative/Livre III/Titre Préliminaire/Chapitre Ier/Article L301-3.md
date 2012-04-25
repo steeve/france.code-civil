@@ -4,10 +4,10 @@ L'attribution des aides publiques en faveur de la construction, de
 l'acquisition, de la réhabilitation et de la démolition des logements locatifs
 sociaux, de celles en faveur de la rénovation de l'habitat privé, de celles en
 faveur de la location-accession et de celles destinées à la création de places
-d'hébergement ainsi que, dans les départements et régions d'outre-mer, des aides
-directes en faveur de l'accession sociale à la propriété, peut être déléguée aux
-collectivités territoriales et à leurs groupements dans les conditions prévues
-au présent chapitre.
+d'hébergement ainsi que, en Guadeloupe, en Guyane, en Martinique, à La Réunion,
+à Mayotte et à Saint-Martin, des aides directes en faveur de l'accession sociale
+à la propriété, peut être déléguée aux collectivités territoriales et à leurs
+groupements dans les conditions prévues au présent chapitre.
 
 La dotation régionale pour le financement des aides, dont l'attribution est
 susceptible d'être déléguée, est notifiée au représentant de l'Etat dans la
@@ -16,12 +16,14 @@ et démographiques, de l'état du patrimoine de logements ainsi que de la
 situation du marché locatif.
 
 Le représentant de l'Etat dans la région, après avis du comité régional de
-l'habitat ou, dans les régions d'outre-mer, du conseil départemental de
-l'habitat, répartit le montant des crédits publics qui lui sont notifiés entre
-les différents établissements publics de coopération intercommunale à fiscalité
-propre et, pour le reste du territoire, entre les départements. La participation
-à cette répartition est subordonnée à la conclusion d'une convention avec l'Etat
-définie aux articles L. 301-5-1 ou L. 301-5-2.
+l'habitat ou, en Guadeloupe, en Guyane, à la Martinique, à La Réunion, à Mayotte
+et à Saint-Martin, du conseil départemental de l'habitat ou de l'organisme qui
+en exerce les attributions, répartit le montant des crédits publics qui lui sont
+notifiés entre les différents établissements publics de coopération
+intercommunale à fiscalité propre et, pour le reste du territoire, entre les
+départements. La participation à cette répartition est subordonnée à la
+conclusion d'une convention avec l'Etat définie aux articles L. 301-5-1 ou L.
+301-5-2.
 
 Lorsqu'un département n'a pas conclu de convention avec l'Etat, le représentant
 de l'Etat dans la région détermine le montant des crédits directement affectés,

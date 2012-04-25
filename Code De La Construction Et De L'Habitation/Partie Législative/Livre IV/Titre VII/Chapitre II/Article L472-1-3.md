@@ -3,10 +3,11 @@ Article L472-1-3
 A compter du 1er janvier 1997, les dispositions des articles L. 442-1, à
 l'exception du troisième alinéa, à L. 442-2 sont applicables aux sociétés
 d'économie mixte constituées en application de la loi n° 46-860 du 30 avril 1946
-et aux sociétés d'économie mixte locales, dans les départements de Guadeloupe,
-de Martinique, de Guyane et de la Réunion, pour les logements à usage locatif
-leur appartenant, ou appartenant à l'Etat, à une collectivité locale ou à un
-groupement de collectivités locales et gérés par lesdites sociétés.
+et aux sociétés d'économie mixte locales, en Guadeloupe, en Guyane, à la
+Martinique, à La Réunion, à Mayotte et à Saint-Martin, pour les logements à
+usage locatif leur appartenant, ou appartenant à l'Etat, à une collectivité
+locale ou à un groupement de collectivités locales et gérés par lesdites
+sociétés.
 
 Toutefois, l'application de ces dispositions à l'une des sociétés précitées ne
 peut intervenir que consécutivement à la passation d'une convention révisable
