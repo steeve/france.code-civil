@@ -1,24 +1,14 @@
 Article L920-1
 ----
-Sous réserve des adaptations prévues dans les chapitres ci-après, les
-dispositions suivantes du présent code sont applicables à Mayotte :
+Ne sont pas applicables au Département de Mayotte les dispositions suivantes :
 
-1° Le livre Ier, à l'exception des articles L. 125-3, L. 126-1 ;
+1° Au livre II, l'article L. 225-245-1, le chapitre IX du titre II, le chapitre
+IV bis du titre IV et le chapitre II du titre V ;
 
-2° Le livre II, à l'exception des articles L. 225-245-1, L. 229-1 à L. 229-15,
-L. 244-5 et L. 252-1 à L. 252-13 ;
+2° Au livre IV, l'article L. 470-6 ;
 
-3° Le livre III ;
+3° Au livre VI, les articles L. 622-19 et L. 625-9 ;
 
-4° Le livre IV, à l'exception des articles L. 441-1, L. 442-1 et L. 470-6 ;
-
-5° Le livre V, à l'exception des articles L. 524-12, L. 524-20 et L. 524-21 ;
-
-6° Le livre VI, à l'exclusion des articles L. 622-19, L. 625-9 et L. 670-1 à L.
-670-8 ;
-
-7° Les titres Ier à IV du livre VII, à l'exception des articles L. 712-2 et L.
-712-4 et des dispositions relatives aux chambres de commerce et d'industrie de
-région des chapitres Ier, II et III du titre Ier ;
-
-8° Le livre VIII.
+4° Au livre VII, les articles L. 712-2, L. 712-4 ainsi que les dispositions
+relatives aux chambres de commerce et d'industrie de région du titre Ier et le
+titre V, à l'exception de l'article L. 750-1-1.
