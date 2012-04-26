@@ -1,18 +1,13 @@
 Article R413-4
 ----
-Aucune déclaration de candidature ne peut être enregistrée après le
-quarante-cinquième jour qui précède la date des élections.
+Les mutuelles, unions et fédérations disposant de représentants au Conseil
+supérieur de la mutualité sont régulièrement immatriculées.
 
-Aucun retrait de candidature n'est admis après le trentième jour qui précède le
-scrutin.
+Leurs représentants sont choisis parmi les membres de leurs conseils
+d'administration respectifs.
 
-Les candidatures sont déclarées à la préfecture de région sous forme de listes
-comportant les noms des candidats. Le nombre de candidats figurant sur chaque
-liste ne peut être inférieur au nombre de sièges à pourvoir et ne peut excéder
-le double de ce nombre. Les listes doivent être signées par tous les candidats
-qui y sont inscrits.
-
-Nul ne peut figurer sur plusieurs listes ou être candidat dans plusieurs
-circonscriptions.
-
-Le préfet de région fait connaître aux électeurs les candidatures déclarées.
+En cas de décès ou de perte de la qualité de membre du conseil d'administration
+de la mutuelle, union ou fédération d'un membre représentant au Conseil
+supérieur de la mutualité, il est pourvu à son remplacement, pour la durée du
+mandat restant à courir, par arrêté du ministre, sur proposition de la mutuelle,
+union ou fédération concernée.

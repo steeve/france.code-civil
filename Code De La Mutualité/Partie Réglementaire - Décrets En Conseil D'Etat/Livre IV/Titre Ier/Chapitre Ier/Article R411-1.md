@@ -1,53 +1,58 @@
 Article R411-1
 ----
-Le Conseil supérieur de la mutualité est présidé par le ministre chargé de la
-mutualité ou son représentant. Il comprend :
+I. ― Le Conseil supérieur de la mutualité comprend, outre le ministre chargé de
+la mutualité, ou son représentant :
 
-Trente-cinq représentants des mutuelles, unions et fédérations élus par les
-comités régionaux de coordination de la mutualité ;
+1° Un député et un sénateur ;
 
-Un député et un sénateur, élus par leur assemblée respective ;
+2° Vingt représentants des mutuelles, unions et fédérations nommés par arrêté du
+ministre chargé de la mutualité dans les conditions définies au chapitre III ;
 
-Le vice-président de l'Autorité de contrôle prudentiel ou son représentant ;
+3° Le vice-président de l'Autorité de contrôle prudentiel ou son représentant ;
 
-Un membre du Conseil d'Etat, désigné par le vice-président ;
+4° Le président du directoire du fonds de garantie institué à l'article L. 431-4
+ou son représentant ;
 
-Un représentant du ministre chargé de la mutualité ;
+5° Un membre des professions de santé désigné par arrêté du ministre chargé de
+la mutualité ;
 
-Un représentant du ministre chargé de la sécurité sociale ;
+6° Un représentant de chaque confédération syndicale désignée ci-après :
 
-Un représentant du ministre chargé du travail ;
+a) Confédération française démocratique du travail ;
 
-Un représentant du ministre chargé de la santé ;
+b) Confédération française des travailleurs chrétiens ;
 
-Un représentant du ministre chargé de l'économie et des finances ;
+c) Confédération française de l'encadrement-CGC ;
 
-Un représentant du ministre chargé de l'intérieur ;
+d) Confédération générale du travail ;
 
-Un représentant du ministre chargé de l'économie sociale ;
+e) Confédération générale du travail-Force ouvrière ;
 
-Le directeur général de la Caisse des dépôts et consignations ou son
-représentant ;
+7° Un représentant du Mouvement des entreprises de France ;
 
-Le président du directoire du fonds de garantie institué à l'article L. 431-4 ou
-son représentant ;
+8° Une personnalité qualifiée dans le domaine de l'activité des mutuelles,
+désignée par arrêté du ministre chargé de la mutualité.
 
-Trois personnes qualifiées dans les domaines d'activité des mutuelles, dont deux
-désignées par le ministre chargé de la mutualité et une par le ministre de la
-défense ;
+II. ― Le Conseil supérieur de la mutualité siège soit en formation plénière,
+soit en commissions spécialisées.
 
-Un représentant de chaque confédération syndicale désignée ci-après :
+Lorsqu'il siège en formation plénière, le Conseil supérieur de la mutualité est
+présidé par le ministre chargé de la mutualité ou son représentant.
 
-Confédération française démocratique du travail ;
+Les commissions spécialisées comprennent des membres titulaires et des membres
+suppléants, choisis parmi les membres mentionnés au I, dont le nombre et le mode
+de désignation sont définis par arrêté du ministre chargé de la mutualité. Cet
+arrêté précise également les conditions de désignation des présidents de ces
+commissions ainsi que leurs règles de fonctionnement.
 
-Confédération française des travailleurs chrétiens ;
+III. ― Le directeur général de la Caisse des dépôts et consignations ou son
+représentant assiste, sans voix délibérative, aux séances de la formation
+plénière du conseil supérieur et de la commission chargée d'assurer la gestion
+du Fonds national de solidarité et d'action mutualistes instituée par l'article
+R. 411-2-1.
 
-Confédération française de l'encadrement-CGC ;
-
-Confédération générale du travail ;
-
-Confédération générale du travail-Force ouvrière ;
-
-Un représentant du Mouvement des entreprises de France ;
-
-Un membre des professions de santé désigné par le ministre chargé de la santé.
+IV. ― Pour l'examen des projets de texte soumis à l'avis du conseil en
+application du deuxième alinéa de l'article L. 411-1 et sur l'invitation du
+secrétaire général du Conseil supérieur de la mutualité, les représentants des
+autres ministres compétents peuvent participer, sans voix délibérative, aux
+séances de la formation plénière ou de la commission spécialisée.

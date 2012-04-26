@@ -57,10 +57,5 @@ ayant pour objet la modification des statuts ou la continuation de l'union
 au-delà du terme fixé pour sa durée, ou la dissolution de l'union avant ce
 terme.
 
-Toute personne a le droit de prendre communication des pièces déposées auprès du
-secrétaire général du Conseil supérieur de la mutualité ou même de s'en faire
-délivrer à ses frais un extrait par le secrétaire général du Conseil supérieur
-de la mutualité.
-
 Toute personne peut obtenir, au siège de l'union, une copie certifiée des
 statuts.

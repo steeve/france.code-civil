@@ -1,13 +1,26 @@
 Article R413-2
 ----
-Sont éligibles au comité régional de coordination de la mutualité les personnes
-qui, à la date de publication de l' arrêté fixant celle des élections, sont :
+Seules peuvent être représentées au Conseil supérieur de la mutualité les
+fédérations de mutuelles qui satisfont, à la date de publication de l'arrêté
+mentionné au premier alinéa de l'article R. 413-5, à l'ensemble des conditions
+suivantes :
 
-a) Membres du conseil d' administration des mutuelles, unions et fédérations
-ayant leur siège dans la région ;
+1° La fédération justifie d'un nombre de membres participants des mutuelles
+adhérentes à la fédération, à jour de leurs cotisations au 31 décembre de
+l'avant-dernière année précédant l'année de la désignation, au moins égal à 1
+million.
 
-b) Membres du conseil d' administration des mutuelles ayant, dans la région, une
-section au sens du troisième alinéa de l' article L. 115- 1 et du I de l'
-article L. 115- 4 ;
+Toutefois, lorsqu'une mutuelle a été créée dans les conditions prévues par
+l'article L. 111-3 et si ses statuts définissent ses membres participants comme
+étant ceux de la mutuelle fondatrice, ces membres participants ne sont pas
+comptabilisés ; dans le cas contraire, ils sont comptabilisés à hauteur de 50 %
+;
 
-c) Ou membres élus des organes de gestion de ces sections.
+2° L'ancienneté de la fédération est au minimum de deux ans à compter de son
+immatriculation prévue à l'article R. 414-1 ;
+
+3° La fédération est financée pour au moins 70 % par des cotisations des
+mutuelles et unions adhérentes ;
+
+4° Les comptes de la fédération pour l'avant-dernière année connue ont été
+certifiés par un commissaire aux comptes.

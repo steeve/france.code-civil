@@ -1,5 +1,6 @@
 Article R413-1
 ----
-Le ministre chargé de la mutualité fixe la date des élections des membres des
-comités régionaux de coordination de la mutualité par un arrêté publié au
-Journal officiel trois mois au moins avant cette date.
+Les représentants des mutuelles, unions et fédérations mentionnés au deuxième
+alinéa de l'article R. 411-1 sont nommés par arrêté du ministre chargé de la
+mutualité, sur proposition des fédérations, selon les modalités définies par le
+présent chapitre.
