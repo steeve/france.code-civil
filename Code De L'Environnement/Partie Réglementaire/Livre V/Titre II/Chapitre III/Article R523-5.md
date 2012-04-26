@@ -1,77 +1,75 @@
 Article R523-5
 ----
-I. - La commission comprend :
+I.-La commission comprend :
 
 1° Un président et un vice-président nommés par le ministre chargé de
 l'environnement ;
 
-2° Deux représentants du ministre chargé de l'environnement ;
+2° Un premier collège de huit membres représentant l'Etat :
 
-a) Un représentant du ministre chargé de la santé ;
+a) Deux représentants du ministre chargé de l'environnement ;
 
-b) Un représentant du ministre chargé de la consommation ;
+b) Un représentant du ministre chargé de la santé ;
 
-c) Un représentant du ministre chargé de l'agriculture ;
+c) Un représentant du ministre chargé de la consommation ;
 
-d) Un représentant du ministre chargé de l'industrie ;
+d) Un représentant du ministre chargé de l'agriculture ;
 
-e) Un représentant du ministre chargé de la recherche ;
+e) Un représentant du ministre chargé de l'industrie ;
 
-f) Un représentant du ministre chargé des transports ;
+f) Un représentant du ministre chargé de la recherche ;
 
 g) Un représentant du ministre chargé du travail ;
 
-h) Un représentant du ministre de l'intérieur ;
+3° Un deuxième collège composé de :
 
-3° Deux représentants de l'Union des industries chimiques ;
+a) Neuf représentants des organisations professionnelles du secteur des produits
+chimiques et biocides, de la distribution et des utilisateurs ;
 
-a) Un producteur de substances chimiques ou substances actives biocides ;
+b) Quatre représentants d'associations, choisis parmi les associations de
+protection de l'environnement agréées au niveau national conformément aux
+dispositions de l'article L. 141-1, de défense des consommateurs agréées au
+niveau national conformément aux dispositions de l'article L. 411-1 du code de
+la consommation, ou d'associations ayant une activité dans le domaine de la
+qualité de la santé et de la prise en charge des malades agréées au niveau
+national conformément aux dispositions de l'article L. 1114-1 du code de la
+santé publique ;
 
-b) Un formulateur de produits biocides ;
+c) Cinq représentants des salariés, issus des organisations syndicales les plus
+représentatives au niveau national ;
 
-c) Un utilisateur industriel ou professionnel de produits biocides ;
+4° Un troisième collège composé de représentants d'organismes d'expertise,
+constitué de :
 
-d) Un distributeur de produits biocides ;
-
-e) Trois représentants d'associations de défense de la santé, des consommateurs
-ou de l'environnement ;
-
-f) Trois représentants des salariés, nommés par les syndicats les plus
-représentatifs du secteur ;
-
-4° Un représentant de l'Agence nationale de sécurité sanitaire de
+a) Un représentant de l'Agence nationale de sécurité sanitaire de
 l'alimentation, de l'environnement et du travail ;
 
-a) Un représentant de l'organisme agréé par le ministre chargé du travail au
-titre du quatrième alinéa de l'article L. 231-7 du code du travail ;
+b) Un représentant de l'organisme agréé par le ministre chargé du travail au
+titre du quatrième alinéa de l'article L. 4411-4 du code du travail ;
 
-b) Un représentant de l'Institut national de l'environnement industriel et des
+c) Un représentant de l'Institut national de l'environnement industriel et des
 risques ;
 
-c) Un représentant de l'Agence nationale de sécurité du médicament et des
+d) Un représentant de l'Agence nationale de sécurité du médicament et des
 produits de santé ;
 
-d) Un représentant des centres antipoison.
+e) Un représentant des centres antipoison ;
 
-II. - Les membres énumérés au 2° du I sont nommés par le ministre chargé de
+f) Un représentant de l'Institut de veille sanitaire.
+
+II.-Les membres énumérés au 2° du I sont nommés par le ministre chargé de
 l'environnement sur proposition de chacun des ministres intéressés.
 
-Les membres énumérés aux 3° et 4° du I sont nommés par arrêté du ministre chargé
-de l'environnement. Les représentants des organismes énumérés au 4° du I sont
-nommés par le ministre chargé de l'environnement sur proposition de chacun des
-directeurs de ces organismes. Le représentant des centres antipoison est nommé
-par le ministre chargé de l'environnement sur proposition du directeur général
-de la santé.
+Les membres énumérés au 3° du I sont nommés par arrêté du ministre chargé de
+l'environnement. Les représentants des organismes énumérés au 4° du I sont
+nommés par arrêté du ministre chargé de l'environnement sur proposition de
+chacun des directeurs de ces organismes, à l'exception du représentant des
+centres antipoison qui est nommé sur proposition du directeur général de la
+santé.
 
 Le président, le vice-président et les membres de la commission énumérés aux 3°
-et 4° du I sont nommés pour une durée de trois ans renouvelable. Un suppléant
-est nommé en même temps que chaque membre titulaire et dans les mêmes
-conditions.
-
-Lorsqu'un membre cesse ses fonctions, notamment du fait de la perte de la
-qualité en raison de laquelle il avait été nommé, son suppléant le remplace pour
-la durée du mandat restant à courir. Un nouveau suppléant est nommé pour cette
-durée.
-
-Les membres de la commission ne peuvent avoir dépassé l'âge de soixante-cinq ans
-au moment de leur nomination ou du renouvellement de leur mandat.
+et 4° du I sont nommés pour une durée de cinq ans. Les membres nommés en cours
+d'exercice n'exercent leur mandat que jusqu'au prochain renouvellement de la
+commission. Un suppléant est nommé en même temps que chaque membre titulaire et
+dans les mêmes conditions. En cas d'empêchement ou d'absence de son président,
+la commission est présidée par le vice-président.

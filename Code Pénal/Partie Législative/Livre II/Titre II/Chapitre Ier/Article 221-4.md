@@ -18,9 +18,9 @@ dépositaire de l'autorité publique, un sapeur-pompier professionnel ou
 volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un
 agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de
 surveillance des immeubles à usage d'habitation en application de l'article L.
-127-1 du code de la construction et de l'habitation, dans l'exercice ou du fait
-de ses fonctions, lorsque la qualité de la victime est apparente ou connue de
-l'auteur ;
+271-1 du code de la sécurité intérieure, dans l'exercice ou du fait de ses
+fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur
+;
 
 4° bis Sur un enseignant ou tout membre des personnels travaillant dans les
 établissements d'enseignement scolaire, sur un agent d'un exploitant de réseau
