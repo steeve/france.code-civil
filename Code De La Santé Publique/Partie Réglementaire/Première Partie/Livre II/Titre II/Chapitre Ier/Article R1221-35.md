@@ -4,4 +4,5 @@ Le coordonnateur régional d'hémovigilance est un médecin praticien hospitalie
 ou possédant des qualifications équivalentes, doté d'une expérience en matière
 de transfusion sanguine. Il est nommé pour une durée de trois ans renouvelable
 par décision du directeur général de l'agence régionale de santé prise pris
-après avis de l'agence française de sécurité sanitaire des produits de santé.
+après avis de l'Agence nationale de sécurité du médicament et des produits de
+santé.

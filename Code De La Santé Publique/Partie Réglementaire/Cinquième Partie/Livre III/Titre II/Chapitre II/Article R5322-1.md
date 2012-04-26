@@ -1,45 +1,47 @@
 Article R5322-1
 ----
-Le conseil d'administration de l'Agence française de sécurité sanitaire des
-produits de santé comprend, outre son président :
+Le conseil d'administration de l'agence comprend, outre son président :
 
 1° Neuf membres de droit représentant l'Etat :
 
 a) Le directeur général de la santé ou son représentant ;
 
-b) Le secrétaire général des ministères chargés des affaires sociales , ou son
-représentant ;
+b) Le directeur général de l'offre de soins ou son représentant ;
 
 c) Le directeur de la sécurité sociale ou son représentant ;
 
-d) Le directeur général de l'offre de soins ou son représentant ;
-
-e) Le directeur général de la concurrence, de la consommation et de la
-répression des fraudes ou son représentant ;
-
-f) Le directeur général des entreprises ou son représentant ;
-
-g) Le directeur de la technologie au ministère chargé de la recherche ou son
+d) Le secrétaire général des ministères chargés des affaires sociales ou son
 représentant ;
 
-h) Le directeur du budget ou son représentant ;
+e) Le directeur du budget ou son représentant ;
 
-i) Le directeur de la coopération européenne au ministère des affaires
-étrangères ou son représentant ;
+f) Le directeur général de la recherche et de l'innovation ou son représentant ;
 
-2° Six personnalités nommées par arrêté du ministre chargé de la santé :
+g) Le directeur général de la concurrence, de la consommation et de la
+répression des fraudes ou son représentant ;
 
-a) Quatre personnalités qualifiées dans les domaines de compétence de l'agence,
-nommées pour une durée de trois ans renouvelable ;
+h) Le directeur général de la compétitivité, de l'industrie et des services ou
+son représentant ;
 
-b) Le directeur de la Caisse nationale de l'assurance maladie des travailleurs
-salariés ou son représentant ;
+i) Le directeur de l'Union européenne ou son représentant ;
 
-c) Un représentant des organisations de consommateurs, nommé sur proposition du
-Conseil national de la consommation pour une durée de trois ans renouvelable ;
+2° Trois députés et trois sénateurs, désignés par le président de leur assemblée
+respective ;
 
-3° Trois représentants du personnel de l'agence, élus par ce personnel selon des
-modalités fixées par le règlement intérieur de l'établissement.
+3° Deux représentants des régimes obligatoires de base d'assurance maladie,
+désignés sur proposition de l'Union nationale des caisses d'assurance maladie ;
 
-Le président du conseil d'administration est nommé pour une durée de trois ans
-renouvelable. La limite d'âge du président est fixée à soixante-sept ans.
+4° Un représentant de l'Ordre national des médecins, un représentant de l'Ordre
+national des pharmaciens, désignés chacun sur proposition de leur ordre ;
+
+5° Deux représentants des associations d'usagers du système de santé, agréées au
+niveau national conformément aux dispositions de l'article L. 1114-1 ;
+
+6° Deux personnalités qualifiées dans les domaines de compétence de l'agence ;
+
+7° Trois représentants du personnel de l'agence élus par ce personnel selon les
+modalités définies par le règlement intérieur de l'agence.
+
+En cas d'empêchement, chaque membre du conseil d'administration peut donner
+mandat à un autre membre pour le représenter. Nul ne peut être porteur de plus
+de deux mandats par séance.

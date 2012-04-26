@@ -1,9 +1,7 @@
 Article R5322-16
 ----
-Le conseil se réunit au moins trois fois par an, sur convocation de son
-président, à son initiative ou à la demande du président du conseil
-d'administration ou du directeur général.
-
-Il peut se réunir en formation restreinte. La composition et les modalités de
-fonctionnement de la formation restreinte sont fixées par le règlement intérieur
-de l'agence sur proposition du conseil scientifique.
+La liste des décisions du directeur général mentionnées à l'article L. 5322-2
+qui sont communiquées aux ministres chargés de l'économie, de la santé et de la
+sécurité sociale pour information quinze jours avant leur notification est fixée
+par arrêté des mêmes ministres. Ce délai n'est pas applicable en cas de menace
+grave pour la santé publique.
