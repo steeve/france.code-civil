@@ -25,3 +25,13 @@ prévus pour le calcul des cotisations de sécurité sociale au cours de la pér
 susindiquée. Il doit être effectué par l'administration, la collectivité ou
 l'établissement à l'union de recouvrement du dernier lieu de travail du
 bénéficiaire, dans un délai d'un an à compter de la radiation des cadres.
+
+Un versement complémentaire de cotisations est effectué par le régime spécial de
+retraite au plus tard dans un délai d'un an suivant la date de liquidation ou de
+révision de la pension de vieillesse du régime général de sécurité sociale
+lorsqu'il est tenu compte dans cette pension, soit à l'initiative du régime
+spécial ou du régime général, soit à la suite d'une demande de l'assuré formée
+conformément à l'article R. 142-1, soit en application d'une décision de
+justice, de périodes de services civils ou militaires n'ayant pas donné lieu au
+versement prévu à l'alinéa précédent ou à l'article D. 173-17. Le montant du
+versement complémentaire est déterminé conformément à l'alinéa précédent.
