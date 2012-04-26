@@ -2,7 +2,7 @@ Article R5121-173
 ----
 Toute entreprise ou tout organisme exploitant un médicament ou produit mentionné
 à l'article R. 5121-150 est tenu de transmettre au directeur général de l'Agence
-française de sécurité sanitaire des produits de santé, sous la forme d'un
+nationale de sécurité du médicament et des produits de santé, sous la forme d'un
 rapport périodique actualisé de pharmacovigilance, les informations relatives
 aux effets indésirables susceptibles d'être dus à ce médicament ou produit qu'il
 a déclarés ou qui lui ont été signalés ainsi que toutes les informations utiles

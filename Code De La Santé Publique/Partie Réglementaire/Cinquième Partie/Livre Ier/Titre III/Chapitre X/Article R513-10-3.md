@@ -32,5 +32,5 @@ Chacun des éléments mentionnés au présent article porte l'indication de la d
 d'un rectificatif daté et conservé dans le dossier.
 
 Le format et le contenu des informations composant le dossier prévu au présent
-article sont précisés par décision de l'Agence française de sécurité sanitaire
-des produits de santé.
+article sont précisés par décision de l'Agence nationale de sécurité du
+médicament et des produits de santé.

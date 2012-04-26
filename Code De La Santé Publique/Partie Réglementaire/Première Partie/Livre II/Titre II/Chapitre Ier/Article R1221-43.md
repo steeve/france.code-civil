@@ -11,32 +11,32 @@ produits sanguins labiles ainsi que de tout incident grave ;
 1221-40 à R. 1221-42, en veillant à la qualité et à la fiabilité de ces
 informations ;
 
-3° La communication à l'Agence française de sécurité sanitaire des produits de
-santé et au coordonnateur régional d'hémovigilance des informations qu'ils
-sollicitent, en application de l'article R. 1221-33 ;
+3° La communication à l'Agence nationale de sécurité du médicament et des
+produits de santé et au coordonnateur régional d'hémovigilance des informations
+qu'ils sollicitent, en application de l'article R. 1221-33 ;
 
 4° La transmission à l'établissement de transfusion sanguine référent des
 informations mentionnées au premier alinéa de l'article R. 1221-38 ;
 
-5° Le signalement à l'Agence française de sécurité sanitaire des produits de
-santé et au coordonnateur régional d'hémovigilance de toute difficulté
+5° Le signalement à l'Agence nationale de sécurité du médicament et des produits
+de santé et au coordonnateur régional d'hémovigilance de toute difficulté
 susceptible de compromettre la sécurité transfusionnelle ;
 
 6° Les investigations à entreprendre en cas d'urgence à la suite des effets
 indésirables survenus chez les receveurs de produits sanguins labiles ou des
 incidents graves. Dans ce cas, il informe sans délai le coordonnateur régional,
 qui décide de la poursuite ou de l'interruption de ces investigations, et
-l'Agence française de sécurité sanitaire des produits de santé.
+l'Agence nationale de sécurité du médicament et des produits de santé.
 
 Le correspondant d'hémovigilance doit être un médecin. Toutefois, le
 correspondant d'hémovigilance peut être un pharmacien dans des conditions fixées
 par arrêté du ministre chargé de la santé sur proposition du directeur général
-de l'Agence française de sécurité sanitaire des produits de santé.
+de l'Agence nationale de sécurité du médicament et des produits de santé.
 
 Des conditions particulières de qualification et de formation peuvent être
 imposées aux correspondants de certains établissements par arrêté du ministre
 chargé de la santé, pris sur proposition du directeur général de l'Agence
-française de sécurité sanitaire des produits de santé.
+nationale de sécurité du médicament et des produits de santé.
 
 Le correspondant d'hémovigilance est désigné, selon le cas, par le directeur de
 l'établissement de santé, le secrétaire général du syndicat interhospitalier ou
@@ -49,6 +49,6 @@ syndicat interhospitalier ou du groupement de coopération sanitaire peut être 
 correspondant d'hémovigilance d'un établissement de santé membre du syndicat ou
 du groupement.
 
-Le nom du correspondant est communiqué par l'établissement à l'Agence française
-de sécurité sanitaire des produits de santé, au coordonnateur régional
+Le nom du correspondant est communiqué par l'établissement à l'Agence nationale
+de sécurité du médicament et des produits de santé, au coordonnateur régional
 d'hémovigilance concerné et à l'établissement de transfusion sanguine référent.

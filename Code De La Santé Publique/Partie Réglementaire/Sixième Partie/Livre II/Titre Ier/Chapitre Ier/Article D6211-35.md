@@ -6,8 +6,8 @@ Sont membres de droit :
 
 2° Le directeur général de la santé ou son représentant ;
 
-3° Le directeur de l'Agence française de sécurité sanitaire des produits de
-santé ou son représentant ;
+3° Le directeur de l'Agence nationale de sécurité du médicament et des produits
+de santé ou son représentant ;
 
 4° Le ministre chargé de l'agriculture ou son représentant ;
 

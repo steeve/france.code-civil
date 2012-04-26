@@ -2,8 +2,8 @@ Article D162-2-2
 ----
 Pour l'exercice de ses missions, le comité peut entendre :
 
-a) Le directeur de l'Agence française de sécurité sanitaire des produits de
-santé ou son représentant ;
+a) Le directeur de l'Agence nationale de sécurité du médicament et des produits
+de santé ou son représentant ;
 
 b) Le président du collège de la Haute Autorité de santé ou son représentant ;
 

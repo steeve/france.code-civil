@@ -11,9 +11,9 @@ sanitaires spécifiques.
 Une liste de ces médicaments est établie, sur proposition du directeur général
 de l'Agence nationale de sécurité sanitaire de l'alimentation, de
 l'environnement et du travail après avis du directeur général de l'Agence
-française de sécurité sanitaire des produits de santé, par arrêté des ministres
-chargés de l'agriculture et de la santé. Cette liste peut, pour des motifs de
-sécurité ou de santé publique, réserver l'emploi de tout ou partie des
+nationale de sécurité du médicament et des produits de santé, par arrêté des
+ministres chargés de l'agriculture et de la santé. Cette liste peut, pour des
+motifs de sécurité ou de santé publique, réserver l'emploi de tout ou partie des
 médicaments qu'elle mentionne aux vétérinaires exerçant dans certaines des
 catégories de domiciles professionnels autorisés par l'article R. 242-54 du code
 rural et de la pêche maritime.

@@ -1,6 +1,6 @@
 Article R1221-50
 ----
-L'Agence française de sécurité sanitaire des produits de santé et le
+L'Agence nationale de sécurité du médicament et des produits de santé et le
 coordonnateur régional d'hémovigilance sont destinataires simultanément des
 fiches de déclaration d'incident grave et des fiches de déclaration d'effet
 indésirable survenu chez un donneur ou chez un receveur. L'Etablissement

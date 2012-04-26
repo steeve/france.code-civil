@@ -16,5 +16,5 @@ des risques au regard des performances assignées au dispositif.
 Les autres catégories de recherches biomédicales mentionnées au premier alinéa
 de l'article L. 1121-1 font l'objet, en tant que de besoin, d'une définition par
 arrêté du ministre chargé de la santé, pris sur proposition du directeur général
-de l'Agence française de sécurité sanitaire des produits de santé pour les
-produits relevant de sa compétence.
+de l'Agence nationale de sécurité du médicament et des produits de santé pour
+les produits relevant de sa compétence.

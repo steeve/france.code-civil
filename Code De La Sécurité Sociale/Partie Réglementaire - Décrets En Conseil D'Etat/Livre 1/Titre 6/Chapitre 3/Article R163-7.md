@@ -1,6 +1,6 @@
 Article R163-7
 ----
-I. - Après avis de la commission mentionnée à l'article R. 163-15, peuvent être
+I.― Après avis de la commission mentionnée à l'article R. 163-15, peuvent être
 radiés de la liste prévue au premier alinéa de l'article L. 162-17 par arrêté du
 ministre chargé de la sécurité sociale et du ministre chargé de la santé :
 
@@ -21,7 +21,7 @@ l'article L. 161-36 ;
 informé le ministre chargé de la sécurité sociale des modifications des données
 sur lesquelles l'inscription est fondée, en application de l'article R. 163-12.
 
-II. - Peuvent être radiés de la liste prévue au premier alinéa de l'article L.
+II.― Peuvent être radiés de la liste prévue au premier alinéa de l'article L.
 162-17, par arrêté du ministre chargé de la sécurité sociale et du ministre
 chargé de la santé, après avis de la commission mentionnée à l'article R. 163-15
 et de celle mentionnée à l'article R. 5054 du code de la santé publique :
@@ -43,12 +43,12 @@ pas conforme au bon usage, au regard soit des références médicales opposables
 visées à l'article L. 162-12-15, soit des indications thérapeutiques ouvrant
 droit à la prise en charge ou au remboursement.
 
-Le directeur général de l'Agence française de sécurité sanitaire des produits de
-santé signale au ministre chargé de la sécurité sociale et au ministre chargé de
-la santé les médicaments dont la publicité ne serait pas conforme aux règles
-fixées ci-dessus.
+Le directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé signale au ministre chargé de la sécurité sociale et au
+ministre chargé de la santé les médicaments dont la publicité ne serait pas
+conforme aux règles fixées ci-dessus.
 
-III. - Peuvent être radiées de la liste prévue au premier alinéa de l'article L.
+III.― Peuvent être radiées de la liste prévue au premier alinéa de l'article L.
 162-17, par arrêté du ministre chargé de la sécurité sociale et du ministre
 chargé de la santé, les spécialités figurant en qualité de génériques au
 répertoire mentionné à l'article R. 5143-8 du code de la santé publique, dont la

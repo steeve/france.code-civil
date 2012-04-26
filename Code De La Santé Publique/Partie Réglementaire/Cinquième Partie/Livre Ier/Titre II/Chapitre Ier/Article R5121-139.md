@@ -10,5 +10,5 @@ Lorsque le médicament ou produit a des effets sur la capacité de conduire des
 véhicules ou d'utiliser des machines, mentionnés dans le résumé des
 caractéristiques du produit, son conditionnement extérieur comporte un
 pictogramme, dont le modèle est déterminé, sur proposition du directeur général
-de l'Agence française de sécurité sanitaire des produits de santé, par arrêté du
-ministre chargé de la santé.
+de l'Agence nationale de sécurité du médicament et des produits de santé, par
+arrêté du ministre chargé de la santé.

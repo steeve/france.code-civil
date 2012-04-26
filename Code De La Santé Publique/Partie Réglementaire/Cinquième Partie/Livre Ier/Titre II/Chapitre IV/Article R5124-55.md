@@ -7,4 +7,4 @@ connaissance, après la commercialisation d'un lot de médicaments ou de produit
 d'un incident ou d'un accident survenu lors de la fabrication ou de la
 distribution de ce lot et susceptible d'entraîner un risque pour la santé
 publique, il en fait la déclaration sans délai au directeur général de l'Agence
-française de sécurité sanitaire des produits de santé.
+nationale de sécurité du médicament et des produits de santé.

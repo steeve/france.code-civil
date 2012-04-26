@@ -7,5 +7,5 @@ dans lesquels l'ingrédient concerné est utilisé lui est transmise au moins
 quinze jours avant la commercialisation de ces produits sous leur nouveau nom.
 Compte tenu de ces modifications ou si de nouveaux éléments l'imposent, le
 préfet peut supprimer l'autorisation au bénéficiaire. Dans ce cas, il en informe
-immédiatement le directeur général de l'Agence française de sécurité sanitaire
-des produits de santé.
+immédiatement le directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé.

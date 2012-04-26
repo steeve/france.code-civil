@@ -1,9 +1,9 @@
 Article R5121-34
 ----
 Lors de l'instruction des demandes d'autorisation de mise sur le marché, le
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé peut ordonner toute mesure d'instruction qu'il juge nécessaire et
-notamment :
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé peut ordonner toute mesure d'instruction qu'il juge nécessaire
+et notamment :
 
 1° Faire procéder à toute enquête relative à la fabrication du médicament ;
 
@@ -20,8 +20,8 @@ les comptes rendus des essais analytiques, toxicologiques, pharmacologiques et
 cliniques ;
 
 6° Soumettre le médicament, ses matières premières et, si nécessaire, ses
-produits intermédiaires ou autres composants au contrôle de l'Agence française
-de sécurité sanitaire des produits de santé ou d'un laboratoire qu'elle désigne
-pour s'assurer que les méthodes de contrôle utilisées par le fabricant et
-décrites dans le dossier de demande d'autorisation de mise sur le marché sont
+produits intermédiaires ou autres composants au contrôle de l'Agence nationale
+de sécurité du médicament et des produits de santé ou d'un laboratoire qu'elle
+désigne pour s'assurer que les méthodes de contrôle utilisées par le fabricant
+et décrites dans le dossier de demande d'autorisation de mise sur le marché sont
 satisfaisantes.

@@ -7,8 +7,8 @@ détachables, distinctes du support des informations mentionné à l'article L.
 pharmaceutique du médicament, le nom de l'entreprise ou de l'organisme qui
 l'exploite et le numéro du lot. Ces étiquettes portent également un code à
 barres reprenant tout ou partie de ces informations, selon des modalités fixées,
-sur proposition du directeur général de l'Agence française de sécurité sanitaire
-des produits de santé, par arrêté du ministre chargé de la santé.
+sur proposition du directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé, par arrêté du ministre chargé de la santé.
 
 Une des étiquettes détachables est apposée sur le conditionnement extérieur et
 les deux autres sur le conditionnement primaire. L'autorisation de mise sur le

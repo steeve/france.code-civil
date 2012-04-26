@@ -11,9 +11,9 @@ Le délai d'instruction de la demande d'autorisation ne peut excéder soixante
 jours à compter de la réception du dossier complet. Ce délai peut être réduit
 pour certaines catégories de recherches ne nécessitant pas une expertise
 complexe et définies par arrêté du ministre chargé de la santé, pris sur
-proposition du directeur général de l'Agence française de sécurité sanitaire des
-produits de santé pour les produits relevant de sa compétence. Le silence gardé
-par l'autorité compétente au terme de ce délai vaut autorisation.
+proposition du directeur général de l'Agence nationale de sécurité du médicament
+et des produits de santé pour les produits relevant de sa compétence. Le silence
+gardé par l'autorité compétente au terme de ce délai vaut autorisation.
 
 L'autorité compétente peut, à tout moment, demander au promoteur toute
 information complémentaire qu'elle estime nécessaire pour se prononcer sur sa

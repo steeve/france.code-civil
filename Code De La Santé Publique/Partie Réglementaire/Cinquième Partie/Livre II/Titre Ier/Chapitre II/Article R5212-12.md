@@ -4,8 +4,8 @@ Tout établissement de santé, tout syndicat interhospitalier ou groupement de
 coopération sanitaire qui utilise ou délivre des dispositifs médicaux ou met de
 tels dispositifs à la disposition de ses membres, ainsi que toute association
 distribuant des dispositifs médicaux à domicile et figurant sur une liste
-arrêtée par le directeur général de l'Agence française de sécurité sanitaire des
-produits de santé, désigne un correspondant local de matériovigilance.
+arrêtée par le directeur général de l'Agence nationale de sécurité du médicament
+et des produits de santé, désigne un correspondant local de matériovigilance.
 Toutefois, en deçà d'un seuil d'activité fixé par arrêté du directeur général de
 l'agence, ces établissements et associations sont autorisés à se regrouper pour
 désigner un correspondant de matériovigilance commun à plusieurs établissements

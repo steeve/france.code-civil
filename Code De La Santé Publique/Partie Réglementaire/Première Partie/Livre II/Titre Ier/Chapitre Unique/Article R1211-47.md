@@ -8,5 +8,5 @@ Les autres déclarations sont effectuées dans des délais fixés par arrêté d
 ministre chargé de la santé.
 
 Les déclarations sont effectuées selon un modèle fixé par décision du directeur
-général de l'Agence française de sécurité sanitaire des produits de santé après
-avis de l'Agence de la biomédecine.
+général de l'Agence nationale de sécurité du médicament et des produits de santé
+après avis de l'Agence de la biomédecine.

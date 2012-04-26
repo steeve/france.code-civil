@@ -13,6 +13,6 @@ loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires et de l'article
 Le laboratoire ou l'expert conserve un des deux flacons mentionnés à l'article
 R. 235-7 en vue d'une demande éventuelle d'un examen technique ou d'une
 expertise. Un arrêté du ministre chargé de la santé précise, après avis du
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé, les conditions de réalisation des examens de biologie médicale et de
-conservation des échantillons.
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé, les conditions de réalisation des examens de biologie
+médicale et de conservation des échantillons.

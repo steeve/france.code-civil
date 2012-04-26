@@ -5,18 +5,18 @@ l'objet d'un rapport transmis par l'inspecteur chargé de la mission au directeu
 général de l'agence. Ce rapport est communiqué à la personne responsable de
 l'établissement ou du lieu inspecté en application des lois et règlements
 relatifs aux produits mentionnés à l'article L. 5311-1. Cette personne peut
-faire valoir ses observations dans le délai fixé par l'Agence française de
-sécurité sanitaire des produits de santé, qui lui est notifié lors de la
+faire valoir ses observations dans le délai fixé par l'Agence nationale de
+sécurité du médicament et des produits de santé, qui lui est notifié lors de la
 transmission du rapport et qui ne peut être inférieur à quinze jours.
 
 Lorsqu'il est saisi d'une demande motivée à cette fin, le directeur général de
-l'Agence française de sécurité sanitaire des produits de santé communique
+l'Agence nationale de sécurité du médicament et des produits de santé communique
 immédiatement à l'autorité compétente d'un autre Etat membre le rapport visé à
 l'alinéa précédent.
 
 Le directeur général de l'agence peut demander à l'autorité compétente d'un
 autre Etat membre de lui communiquer les conclusions d'un rapport élaboré dans
-le cadre d'une inspection visée à l'article 111 de la directive 2001 / 83 / CE
+le cadre d'une inspection visée à l'article 111 de la directive 2001/83/ CE
 instituant un code communautaire relatif aux médicaments à usage humain,
 permettant de contrôler le respect de bonnes pratiques de fabrication concernant
 les médicaments à usage humain et les médicaments expérimentaux à usage humain.

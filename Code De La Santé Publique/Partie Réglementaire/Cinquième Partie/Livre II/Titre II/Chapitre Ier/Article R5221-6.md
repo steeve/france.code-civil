@@ -9,9 +9,9 @@ une bonne prise en charge du patient et dont les défaillances sont susceptibles
 de causer un risque grave pour la santé. Ils comprennent les dispositifs
 médicaux de diagnostic in vitro destinés à des autodiagnostics, ainsi que les
 dispositifs médicaux de diagnostic in vitro dont la liste est fixée, sur
-proposition du directeur général de l'Agence française de sécurité sanitaire des
-produits de santé, par arrêté du ministre chargé de la santé. L'arrêté classe
-ces derniers en deux listes A et B selon le niveau d'exigence requis pour
+proposition du directeur général de l'Agence nationale de sécurité du médicament
+et des produits de santé, par arrêté du ministre chargé de la santé. L'arrêté
+classe ces derniers en deux listes A et B selon le niveau d'exigence requis pour
 l'évaluation de leur conformité ;
 
 2° Les dispositifs médicaux de diagnostic in vitro autres que ceux mentionnés au

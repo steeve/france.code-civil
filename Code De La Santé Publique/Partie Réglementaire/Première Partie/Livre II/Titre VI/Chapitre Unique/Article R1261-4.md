@@ -1,8 +1,9 @@
 Article R1261-4
 ----
-Le directeur général de l'Agence française de sécurité sanitaire des produits de
-santé notifie sa décision au demandeur dans un délai de quatre-vingt-dix jours à
-compter de la date de réception du dossier de demande complet.
+Le directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé notifie sa décision au demandeur dans un délai de
+quatre-vingt-dix jours à compter de la date de réception du dossier de demande
+complet.
 
 Il peut requérir de ce dernier toute information complémentaire et peut procéder
 à toute consultation ou étude particulière qu'il juge nécessaire pour lui

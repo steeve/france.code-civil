@@ -3,13 +3,14 @@ Article R5121-207
 La demande d'autorisation ou de renouvellement d'autorisation prévue au 12° et
 au 13° de l'article L. 5121-1 est adressée sous pli recommandé avec demande
 d'avis de réception ou déposée contre récépissé au directeur général de l'Agence
-française de sécurité sanitaire des produits de santé par les établissements et
-les organismes autorisés à effectuer les activités mentionnées à l'article R.
-4211-16.
+nationale de sécurité du médicament et des produits de santé par les
+établissements et les organismes autorisés à effectuer les activités mentionnées
+à l'article R. 4211-16.
 
 La demande doit être accompagnée d'un dossier dont le contenu est fixé par
 arrêté du ministre chargé de la santé sur proposition du directeur général de
-l'Agence française de sécurité sanitaire des produits de santé et qui comprend :
+l'Agence nationale de sécurité du médicament et des produits de santé et qui
+comprend :
 
 1° Des informations administratives concernant l'établissement ou l'organisme
 autorisé demandeur ;
@@ -33,8 +34,8 @@ produit ;
 sur les animaux source utilisés.
 
 Le dossier est réputé complet si, dans un délai d'un mois à compter de sa
-réception, le directeur général de l'Agence française de sécurité sanitaire des
-produits de santé n'a pas fait connaître au demandeur qu'il manquait des
+réception, le directeur général de l'Agence nationale de sécurité du médicament
+et des produits de santé n'a pas fait connaître au demandeur qu'il manquait des
 informations par lettre recommandée avec demande d'avis de réception et
 mentionnant le délai imparti pour les fournir.
 

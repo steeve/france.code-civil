@@ -6,8 +6,8 @@ médicaments classés comme stupéfiants que dans la limite d'une provision pour
 soins urgents.
 
 Cette provision est déterminée, après avis du directeur général de l'Agence
-française de sécurité sanitaire des produits de santé, par arrêté du ministre
-chargé de la santé.
+nationale de sécurité du médicament et des produits de santé, par arrêté du
+ministre chargé de la santé.
 
 La constitution et la reconstitution de cette provision sont effectuées par
 commandes à usage professionnel dans les conditions prévues au troisième alinéa

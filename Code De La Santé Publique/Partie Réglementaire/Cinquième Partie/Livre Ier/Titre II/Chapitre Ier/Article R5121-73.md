@@ -3,8 +3,8 @@ Article R5121-73
 Pour les médicaments mentionnés au b de l'article L. 5121-12, l'autorisation
 temporaire d'utilisation :
 
-1° Est accordée par le directeur général de l'Agence française de sécurité
-sanitaire des produits de santé pour la durée du traitement, dans la limite
+1° Est accordée par le directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé pour la durée du traitement, dans la limite
 maximale d'un an ;
 
 2° Vaut approbation des éléments mentionnés aux 2° et 3° de l'article R. 5121-70

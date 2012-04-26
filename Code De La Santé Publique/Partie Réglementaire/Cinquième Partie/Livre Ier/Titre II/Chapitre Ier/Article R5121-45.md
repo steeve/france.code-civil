@@ -1,8 +1,8 @@
 Article R5121-45
 ----
 L'autorisation de mise sur le marché est renouvelable sur demande du titulaire
-adressée à l'Agence française de sécurité sanitaire des produits de santé au
-plus tard six mois avant sa date d'expiration.
+adressée à l'Agence nationale de sécurité du médicament et des produits de santé
+au plus tard six mois avant sa date d'expiration.
 
 La demande de renouvellement est accompagnée d'une version consolidée du dossier
 comportant des informations administratives et des données relatives à la

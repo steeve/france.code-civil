@@ -8,10 +8,10 @@ peuvent intervenir qu'après que l'intéressé a été mis à même de présente
 observations.
 
 Lorsque la décision concerne un établissement mentionné aux articles R. 5142-6
-ou R. 5142-7, le directeur général de l'Agence française de sécurité sanitaire
-des produits de santé ou le préfet est informé de la décision du directeur
-général de l'Agence nationale de sécurité sanitaire de l'alimentation, de
-l'environnement et du travail.
+ou R. 5142-7, le directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé ou le préfet est informé de la décision du
+directeur général de l'Agence nationale de sécurité sanitaire de l'alimentation,
+de l'environnement et du travail.
 
 La décision ne peut faire l'objet d'un recours contentieux qu'après l'exercice
 d'un recours gracieux auprès du directeur général de l'Agence nationale de

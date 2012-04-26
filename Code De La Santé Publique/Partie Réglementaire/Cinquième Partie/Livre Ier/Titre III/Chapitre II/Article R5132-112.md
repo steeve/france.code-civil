@@ -24,7 +24,7 @@ participant à leur formation ;
 ces substances, plantes, médicaments ou autres produits ;
 
 5° De conduire les enquêtes et travaux demandés par le directeur général de
-l'Agence française de sécurité sanitaire des produits de santé ;
+l'Agence nationale de sécurité du médicament et des produits de santé ;
 
 6° De remplir auprès des établissements de santé, et notamment de leurs
 instances consultatives spécialisées, une mission d'expertise et de conseil.

@@ -5,10 +5,10 @@ acquérir des substances stupéfiantes et des préparations classées comme
 stupéfiants que dans un établissement détenteur de l'autorisation prévue au 1er
 alinéa de l'article R. 5132-75.
 
-I. - L'acquisition ou la cession de stupéfiants, à l'exclusion de celles
-destinées à des fins de recherche et d'enseignement et de celles réalisées par
-les personnes dispensées, en vertu de l'article R. 5132-76, de l'autorisation
-prévue à l'article R. 5132-74, est soumise à l'utilisation du carnet de commande
+I.-L'acquisition ou la cession de stupéfiants, à l'exclusion de celles destinées
+à des fins de recherche et d'enseignement et de celles réalisées par les
+personnes dispensées, en vertu de l'article R. 5132-76, de l'autorisation prévue
+à l'article R. 5132-74, est soumise à l'utilisation du carnet de commande
 mentionné au II du présent article.
 
 Cette acquisition ou cession de stupéfiants est inscrite sur un registre spécial
@@ -44,16 +44,17 @@ Dans le cas de cessions successives d'un produit sous un emballage revêtu d'un
 cachet d'origine, le numéro de référence porté sur l'étiquette d'origine est
 conservé.
 
-II. - L'acquisition de substances stupéfiantes et des préparations classées
-comme stupéfiants par les personnes à qui a été délivrée l'autorisation prévue à
+II.-L'acquisition de substances stupéfiantes et des préparations classées comme
+stupéfiants par les personnes à qui a été délivrée l'autorisation prévue à
 l'article R. 5132-74, à l'exclusion de celles destinées à des fins de recherche
 ou d'enseignement, ne peut avoir lieu que sur remise de deux volets numérotés
 extraits d'un carnet de commande à souches d'un modèle déterminé par arrêté du
 ministre chargé de la santé, pris après avis du directeur général de l'Agence
-française de sécurité sanitaire des produits de santé. La charge de l'impression
-et de la répartition de ces carnets incombe à l'ordre national des pharmaciens
-qui adresse, annuellement, à l'Agence française de sécurité sanitaire des
-produits de santé un relevé nominatif des carnets délivrés dans la région.
+nationale de sécurité du médicament et des produits de santé. La charge de
+l'impression et de la répartition de ces carnets incombe à l'ordre national des
+pharmaciens qui adresse, annuellement, à l'Agence nationale de sécurité du
+médicament et des produits de santé un relevé nominatif des carnets délivrés
+dans la région.
 
 Un des volets porte le nom et l'adresse de l'acquéreur, sa signature et la date
 de la commande. Il mentionne en toutes lettres la dénomination des produits

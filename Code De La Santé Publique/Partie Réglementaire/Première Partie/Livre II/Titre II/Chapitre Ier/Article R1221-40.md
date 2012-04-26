@@ -7,8 +7,8 @@ conserver, pour chaque unité de produit sanguin labile qui lui est distribuée 
 délivrée pour un patient hospitalisé, les informations suivantes :
 
 1° Le numéro d'identification de l'unité préparée conformément à la codification
-nationale approuvée par l'Agence française de sécurité sanitaire des produits de
-santé ;
+nationale approuvée par l'Agence nationale de sécurité du médicament et des
+produits de santé ;
 
 2° L'identification du code produit conformément à la codification nationale
 approuvée par cette agence ;

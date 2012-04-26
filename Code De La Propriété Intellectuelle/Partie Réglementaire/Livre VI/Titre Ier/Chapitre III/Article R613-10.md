@@ -17,8 +17,8 @@ son représentant ;
 
 5° Le directeur général des entreprises ou son représentant ;
 
-6° Le directeur général de l'Agence française de sécurité sanitaire des produits
-de santé ou son représentant ;
+6° Le directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé ou son représentant ;
 
 7° Deux médecins ou leurs suppléants désignés pour trois ans renouvelables par
 le ministre chargé de la santé, sur proposition de l'Académie nationale de

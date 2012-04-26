@@ -11,8 +11,8 @@ plusieurs ingrédients sur le récipient et l'emballage d'un produit cosmétique
 La demande est adressée au préfet du département du siège du demandeur qui
 procède à son instruction. Elle est accompagnée d'un dossier dont le contenu est
 fixé par arrêté des ministres chargés de la consommation, de l'industrie et de
-la santé, après avis du directeur général de l'Agence française de sécurité
-sanitaire des produits de santé.
+la santé, après avis du directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé.
 
 Il contient des informations concernant l'identité de l'ingrédient, l'évaluation
 de son innocuité, les produits dans lesquels il sera incorporé, la justification

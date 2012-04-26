@@ -1,7 +1,8 @@
 Article R5121-120
 ----
 La demande d'autorisation d'importation parallèle est adressée au directeur
-général de l'Agence française de sécurité sanitaire des produits de santé.
+général de l'Agence nationale de sécurité du médicament et des produits de
+santé.
 
 Elle mentionne :
 
@@ -41,9 +42,9 @@ g) Le nom ou la dénomination sociale et l'adresse du fabricant de la spécialit
 
 h) S'il est distinct du demandeur, le nom ou la dénomination sociale et
 l'adresse de l'établissement autorisé au titre de l'article 40 de la directive
-2001 / 83 / CE du Parlement européen et du Conseil du 6 novembre 2001 instituant
-un code communautaire relatif aux médicaments à usage humain chargé d'effectuer
-la modification du conditionnement ;
+2001/83/ CE du Parlement européen et du Conseil du 6 novembre 2001 instituant un
+code communautaire relatif aux médicaments à usage humain chargé d'effectuer la
+modification du conditionnement ;
 
 i) La description précise du procédé de modification du conditionnement de la
 spécialité telle qu'elle sera commercialisée en France, après obtention de

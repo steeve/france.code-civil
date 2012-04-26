@@ -17,14 +17,14 @@ respectives ;
 2° Les fabricants et les importateurs de médicaments mentionnés au 1° de
 l'article L. 4211-1, de générateurs, trousses ou précurseurs mentionnés au 3° du
 même article, peuvent, à condition de justifier de ce recours auprès de l'Agence
-française de sécurité sanitaire des produits de santé, sous-traiter certaines
-des opérations de contrôle de qualité mentionnées à l'article R. 5124-53 à un
-laboratoire dans le cadre d'un contrat écrit qui fixe, conformément aux bonnes
-pratiques prévues à l'article L. 5121-5 applicables à ces opérations, leurs
-obligations respectives ; dans ce cas, le fabricant ou l'importateur en informe
-l'Agence française de sécurité sanitaire des produits de santé afin que celle-ci
-soit en mesure de vérifier que le laboratoire sous-traitant possède la
-compétence et les moyens suffisants ;
+nationale de sécurité du médicament et des produits de santé, sous-traiter
+certaines des opérations de contrôle de qualité mentionnées à l'article R.
+5124-53 à un laboratoire dans le cadre d'un contrat écrit qui fixe, conformément
+aux bonnes pratiques prévues à l'article L. 5121-5 applicables à ces opérations,
+leurs obligations respectives ; dans ce cas, le fabricant ou l'importateur en
+informe l' Agence nationale de sécurité du médicament et des produits de santé
+afin que celle-ci soit en mesure de vérifier que le laboratoire sous-traitant
+possède la compétence et les moyens suffisants ;
 
 3° Les fabricants de médicaments mentionnés au 1° de l'article L. 4211-1 peuvent
 sous-traiter au fabricant d'une matière première à usage pharmaceutique entrant

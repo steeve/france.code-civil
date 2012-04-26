@@ -8,8 +8,8 @@ l'environnement et du travail ;
 
 2° La transmission à cette même agence des informations sur les effets
 indésirables reçues dans le cadre de leurs missions par l'Institut de veille
-sanitaire, l'Agence française de sécurité sanitaire des produits de santé,
-l'Agence française de lutte contre le dopage, la direction générale de la
+sanitaire, l'Agence nationale de sécurité du médicament et des produits de
+santé, l'Agence française de lutte contre le dopage, la direction générale de la
 concurrence, de la consommation et de la répression des fraudes et la direction
 générale de l'alimentation ;
 

@@ -30,8 +30,8 @@ représentant ;
 
 k) Le président de l'Etablissement français du sang ou son représentant ;
 
-l) Le directeur général de l'Agence française de sécurité sanitaire des produits
-de santé ou son représentant ;
+l) Le directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé ou son représentant ;
 
 m et n (supprimés)
 

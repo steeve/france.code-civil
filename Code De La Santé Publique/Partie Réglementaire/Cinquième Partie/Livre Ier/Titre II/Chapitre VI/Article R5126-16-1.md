@@ -12,4 +12,5 @@ L'autorisation comporte les mentions prévues à l'article R. 5126-16.
 
 Une copie de cette autorisation est transmise au ministre chargé de la santé et,
 dans le cas prévu au dernier alinéa de l'article R. 5126-16, au directeur
-général de l'Agence française de sécurité sanitaire des produits de santé.
+général de l'Agence nationale de sécurité du médicament et des produits de
+santé.

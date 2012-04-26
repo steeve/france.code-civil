@@ -2,8 +2,8 @@ Article R5121-171
 ----
 Toute entreprise ou tout organisme exploitant un médicament ou produit mentionné
 à l'article R. 5121-150 est tenu d'enregistrer et de déclarer sans délai au
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé, et au plus tard dans les quinze jours suivant la réception de
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé, et au plus tard dans les quinze jours suivant la réception de
 l'information :
 
 1° Tout effet indésirable grave et toute transmission d'agents infectieux,
@@ -27,8 +27,8 @@ mutuelle prévues aux articles R. 5121-51 et suivants, toute entreprise ou tout
 organisme exploitant un médicament autorisé selon l'une de ces procédures dans
 un ou plusieurs autres Etats membres de la Communauté européenne ou parties à
 l'accord sur l'Espace économique européen est tenu de porter immédiatement à la
-connaissance du directeur général de l'Agence française de sécurité sanitaire
-des produits de santé, et au plus tard dans les quinze jours suivant la
-réception de l'information, les effets indésirables graves et les transmissions
-d'agents infectieux susceptibles d'être dus à ce médicament survenus dans cet
-autre ou ces autres Etats.
+connaissance du directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé, et au plus tard dans les quinze jours
+suivant la réception de l'information, les effets indésirables graves et les
+transmissions d'agents infectieux susceptibles d'être dus à ce médicament
+survenus dans cet autre ou ces autres Etats.

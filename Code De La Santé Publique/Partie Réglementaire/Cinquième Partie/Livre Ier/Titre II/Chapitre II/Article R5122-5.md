@@ -1,9 +1,8 @@
 Article R5122-5
 ----
-Le visa de publicité mentionné à l'article L. 5122-8 est délivré, après avis de
-la Commission chargée du contrôle de la publicité et de la diffusion de
-recommandations sur le bon usage des médicaments, par le directeur général de
-l'Agence française de sécurité sanitaire des produits de santé.
+Le visa de publicité mentionné à l'article L. 5122-8 est délivré par le
+directeur général de l' Agence nationale de sécurité du médicament et des
+produits de santé.
 
 Ce visa est réputé acquis au terme d'un délai d'un mois courant à partir du
 premier jour suivant la séance de la commission au cours de laquelle un avis a

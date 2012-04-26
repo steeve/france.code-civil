@@ -6,5 +6,5 @@ biomédecine par le titulaire de l'autorisation d'importation ou d'exportation.
 
 En cas d'incident susceptible d'affecter la sécurité sanitaire, le directeur
 général de l'agence de la biomédecine en informe immédiatement le directeur
-général de l'Agence française de sécurité sanitaire des produits de santé et le
-ministre chargé de la santé.
+général de l'Agence nationale de sécurité du médicament et des produits de santé
+et le ministre chargé de la santé.

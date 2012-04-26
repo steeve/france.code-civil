@@ -1,12 +1,13 @@
 Article R5222-4
 ----
-Le directeur général de l'Agence française de sécurité sanitaire des produits de
-santé assure la mise en oeuvre du système national de réactovigilance. Il anime
-et coordonne les actions des différents intervenants et veille au respect des
-procédures de surveillance organisées par le présent chapitre. Lorsqu'il est
-informé d'un incident ou risque d'incident, ou du rappel d'un dispositif médical
-de diagnostic in vitro, le directeur général fait procéder à une évaluation. Il
-peut demander toute enquête nécessaire à l'exercice de la réactovigilance.
+Le directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé assure la mise en oeuvre du système national de
+réactovigilance. Il anime et coordonne les actions des différents intervenants
+et veille au respect des procédures de surveillance organisées par le présent
+chapitre. Lorsqu'il est informé d'un incident ou risque d'incident, ou du rappel
+d'un dispositif médical de diagnostic in vitro, le directeur général fait
+procéder à une évaluation. Il peut demander toute enquête nécessaire à
+l'exercice de la réactovigilance.
 
 Le directeur général établit et tient à jour un fichier national des
 correspondants locaux de réactovigilance.

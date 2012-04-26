@@ -5,5 +5,5 @@ Les établissements ou les organismes bénéficiaires de l'autorisation mentionn
 les préparations de thérapie cellulaire à un fabricant de produits
 pharmaceutiques dans le respect des règles éthiques et sanitaires en vigueur, en
 vue de la distribution du produit fini. Ces cessions se font sur la base de
-conventions qui sont communiquées au directeur général de l'Agence française de
-sécurité sanitaire des produits de santé.
+conventions qui sont communiquées au directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé.

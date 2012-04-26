@@ -6,8 +6,8 @@ qui assure la distribution et la délivrance des produits sanguins labiles
 nécessaires à ses besoins. Il communique le nom de cet établissement au
 directeur général de l'agence régionale de santé compétente.
 
-L'Etablissement français du sang fait connaître à l'Agence française de sécurité
-sanitaire des produits de santé la liste des établissements de santé
+L'Etablissement français du sang fait connaître à l'Agence nationale de sécurité
+du médicament et des produits de santé la liste des établissements de santé
 approvisionnés par les établissements de transfusion sanguine référents. Le
 centre de transfusion sanguine des armées fait également connaître à l'agence
 les établissements qu'il approvisionne.

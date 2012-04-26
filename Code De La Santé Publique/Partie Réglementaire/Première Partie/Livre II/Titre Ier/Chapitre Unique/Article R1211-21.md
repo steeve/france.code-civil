@@ -15,6 +15,6 @@ ainsi que les organes et les cellules concernés.
 La greffe ou l'utilisation à des fins thérapeutiques de produits du corps humain
 mentionnée au premier alinéa du présent article est effectuée dans le respect
 des protocoles édictés par arrêté du ministre chargé de la santé pris après avis
-de l'Agence de la biomédecine et de l'Agence française de sécurité sanitaire des
-produits de santé. Ces protocoles incluent les modalités de mise en œuvre de ces
-greffes et notamment des recommandations de suivi thérapeutique adapté.
+de l'Agence de la biomédecine et de l'Agence nationale de sécurité du médicament
+et des produits de santé. Ces protocoles incluent les modalités de mise en œuvre
+de ces greffes et notamment des recommandations de suivi thérapeutique adapté.

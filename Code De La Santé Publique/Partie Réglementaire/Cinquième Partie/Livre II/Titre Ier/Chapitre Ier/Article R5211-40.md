@@ -36,15 +36,15 @@ partie intégrante une substance qui, si elle est utilisée séparément, est
 susceptible d'être considérée comme un médicament, à l'exception des médicaments
 dérivés du sang, et qui peut agir sur le corps humain par une action accessoire
 à celle du dispositif, l'organisme habilité recueille l'avis de l'Agence
-française de sécurité sanitaire des produits de santé, de l'une des autorités
-compétentes en matière de médicament désignées par les autres Etats membres ou
-parties à l'accord sur l'Espace économique européen ou de l'Agence européenne
-des médicaments avant de prendre une décision. Cet avis est inclus dans la
-documentation concernant le dispositif.L'organisme habilité informe l'autorité
-consultée de sa décision. Lorsque l'autorité nationale compétente consultée est
-l'Agence française de sécurité sanitaire des produits de santé, son avis est
-rendu dans le délai maximal de deux cent dix jours à compter de la réception
-d'une documentation complète.
+nationale de sécurité du médicament et des produits de santé, de l'une des
+autorités compétentes en matière de médicament désignées par les autres Etats
+membres ou parties à l'accord sur l'Espace économique européen ou de l'Agence
+européenne des médicaments avant de prendre une décision. Cet avis est inclus
+dans la documentation concernant le dispositif. L'organisme habilité informe
+l'autorité consultée de sa décision. Lorsque l'autorité nationale compétente
+consultée est l' Agence nationale de sécurité du médicament et des produits de
+santé, son avis est rendu dans le délai maximal de deux cent dix jours à compter
+de la réception d'une documentation complète.
 
 Dans le cadre de l'examen de la conception d'un dispositif qui incorpore comme
 partie intégrante une substance qui, si elle est utilisée séparément, est
@@ -74,18 +74,18 @@ comme partie intégrante une substance qui, si elle est utilisée séparément, 
 susceptible d'être considérée comme un médicament dérivé du sang, le fabricant
 informe l'organisme habilité de la libération de ce lot de dispositifs et lui
 transmet le certificat de libération du lot de la substance mentionnée à
-l'article R. 5212-24 utilisée dans ce dispositif, établi par l'Agence française
-de sécurité sanitaire des produits de santé, ou un laboratoire désigné à cet
-effet par un autre Etat membre de la Communauté européenne ou partie à l'accord
-sur l'Espace économique européen.
+l'article R. 5212-24 utilisée dans ce dispositif, établi par l'Agence nationale
+de sécurité du médicament et des produits de santé, ou un laboratoire désigné à
+cet effet par un autre Etat membre de la Communauté européenne ou partie à
+l'accord sur l'Espace économique européen.
 
 Il informe l'organisme habilité qui a approuvé ce système de tout projet de
-modification importante.L'organisme habilité vérifie que le système ainsi
+modification importante. L'organisme habilité vérifie que le système ainsi
 modifié garantit le respect des dispositions du présent titre.
 
 Le fabricant fournit à l'organisme habilité les informations utiles pour
 s'assurer du respect des obligations attachées à son système de qualité et
-autorise l'organisme habilité à effectuer toutes les inspections
-nécessaires.L'organisme habilité procède périodiquement aux inspections et
-évaluations appropriées et peut lors de visites inopinées réaliser ou faire
-réaliser des essais pour vérifier le fonctionnement du système de qualité.
+autorise l'organisme habilité à effectuer toutes les inspections nécessaires.
+L'organisme habilité procède périodiquement aux inspections et évaluations
+appropriées et peut lors de visites inopinées réaliser ou faire réaliser des
+essais pour vérifier le fonctionnement du système de qualité.

@@ -1,7 +1,7 @@
 Article R5139-20
 ----
-Sont fixées, sur proposition du directeur général de l'Agence française de
-sécurité sanitaire des produits de santé :
+Sont fixées, sur proposition du directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé :
 
 1° Par arrêté du ministre chargé de la santé :
 
@@ -10,7 +10,7 @@ figurant sur la liste prévue à l'article L. 5139-1 au-delà desquelles les
 produits en contenant sont soumis aux dispositions du présent chapitre ;
 
 b) Les renseignements qui figurent sur l'autorisation délivrée par l'Agence
-française de sécurité sanitaire des produits de santé, notamment les
+nationale de sécurité du médicament et des produits de santé, notamment les
 informations relatives au titulaire de l'autorisation, à l'établissement où sont
 réalisées les opérations autorisées, à la nature de ces opérations, au
 micro-organisme ou à la toxine utilisé ainsi qu'à la durée de validité de

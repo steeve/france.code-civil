@@ -1,8 +1,8 @@
 Article R513-10-12
 ----
-Lorsque le directeur général de l'Agence française de sécurité sanitaire des
-produits de santé en fait la demande motivée, le fabricant ou le responsable de
-la mise sur le marché du produit lui transmet sans délai les informations
+Lorsque le directeur général de l'Agence nationale de sécurité du médicament et
+des produits de santé en fait la demande motivée, le fabricant ou le responsable
+de la mise sur le marché du produit lui transmet sans délai les informations
 mentionnées à l'article L. 5131-10 en précisant, pour chaque produit :
 
 1° Sa dénomination commerciale ;

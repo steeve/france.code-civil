@@ -30,10 +30,10 @@ personnes suivantes :
 2° Plaignant ;
 
 3° Ministre chargé de la santé et, pour les pharmaciens des établissements
-relevant de leurs contrôles respectifs, selon le cas, au directeur général de
-l'Agence française de sécurité sanitaire des produits de santé ou au directeur
-général de l'Agence nationale de sécurité sanitaire de l'alimentation, de
-l'environnement et du travail ;
+relevant de leurs contrôles respectifs, selon le cas, au directeur général de l'
+Agence nationale de sécurité du médicament et des produits de santé ou au
+directeur général de l'Agence nationale de sécurité sanitaire de l'alimentation,
+de l'environnement et du travail ;
 
 4° Appelant ;
 

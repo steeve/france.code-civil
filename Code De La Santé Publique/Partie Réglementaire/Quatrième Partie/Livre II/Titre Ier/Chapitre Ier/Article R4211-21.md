@@ -3,8 +3,8 @@ Article R4211-21
 La demande d'autorisation ou de renouvellement d'autorisation d'exercer les
 activités d'importation ou d'exportation des préparations de thérapie génique ou
 de préparations de thérapie cellulaire xénogénique est adressée accompagnée d'un
-dossier au directeur général de l'Agence française de sécurité sanitaire des
-produits de santé, sous pli recommandé avec demande d'avis de réception.
+dossier au directeur général de l'Agence nationale de sécurité du médicament et
+des produits de santé, sous pli recommandé avec demande d'avis de réception.
 
 Le dossier comporte les éléments mentionnés à l'article R. 1243-4 ainsi qu'une
 attestation que les préparations de thérapie génique ou les préparations de

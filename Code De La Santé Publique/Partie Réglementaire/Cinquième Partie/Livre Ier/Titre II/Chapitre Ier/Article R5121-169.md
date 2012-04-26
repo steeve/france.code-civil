@@ -1,8 +1,8 @@
 Article R5121-169
 ----
 Les centres sont agréés, sur proposition du directeur général de l'Agence
-française de sécurité sanitaire des produits de santé, par arrêté du ministre
-chargé de la santé. L'arrêté agréant un centre détermine son territoire
+nationale de sécurité du médicament et des produits de santé, par arrêté du
+ministre chargé de la santé. L'arrêté agréant un centre détermine son territoire
 d'intervention.
 
 Pour être agréés, les centres sont constitués au sein d'une structure de
@@ -20,9 +20,9 @@ des dispositions de la présente section.
 
 Les modalités de fonctionnement des centres, notamment les conditions dans
 lesquelles ils accomplissent les missions qui leur sont confiées par l'Agence
-française de sécurité sanitaire des produits de santé, ainsi que la désignation
-de leurs représentants au comité technique mentionné à l'article R. 5121-164,
-font l'objet de conventions conclues entre le directeur général de l'agence et
-les établissements de santé dans lesquels les centres sont agréés. Ces
-conventions respectent les dispositions de la présente section. Elles sont
+nationale de sécurité du médicament et des produits de santé, ainsi que la
+désignation de leurs représentants au comité technique mentionné à l'article R.
+5121-164, font l'objet de conventions conclues entre le directeur général de
+l'agence et les établissements de santé dans lesquels les centres sont agréés.
+Ces conventions respectent les dispositions de la présente section. Elles sont
 communiquées pour information au ministre chargé de la santé.

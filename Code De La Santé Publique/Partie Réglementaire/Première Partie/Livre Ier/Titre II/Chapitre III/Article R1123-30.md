@@ -2,8 +2,8 @@ Article R1123-30
 ----
 Le dossier de demande d'autorisation dont le contenu, le format et les modalités
 de présentation sont définis par arrêté du ministre chargé de la santé, pris sur
-proposition du directeur général de l'Agence française de sécurité sanitaire des
-produits de santé pour les produits relevant de sa compétence comprend :
+proposition du directeur général de l'Agence nationale de sécurité du médicament
+et des produits de santé pour les produits relevant de sa compétence comprend :
 
 1° Un dossier administratif ;
 

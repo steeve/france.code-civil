@@ -18,14 +18,14 @@ prestation au cours du dernier exercice clos pour le ou les produits ou
 prestations considérés.
 
 Le fabricant ou, le cas échéant, son mandataire, le distributeur du produit ou
-de la prestation sont tenus de déclarer à l'Agence française de sécurité
-sanitaire des produits de santé, sur demande de cette dernière, les éléments de
-chiffre d'affaires nécessaires à la détermination du montant de la pénalité.
+de la prestation sont tenus de déclarer à l'Agence nationale de sécurité du
+médicament et des produits de santé, sur demande de cette dernière, les éléments
+de chiffre d'affaires nécessaires à la détermination du montant de la pénalité.
 
-L'Agence française de sécurité sanitaire des produits de santé notifie soit au
-fabricant ou, le cas échéant, à son mandataire, soit au distributeur du produit
-ou de la prestation en cause et à l'organisme mentionné à l'article L. 213-1
-désigné par le directeur de l'Agence centrale des organismes de sécurité
+L'Agence nationale de sécurité du médicament et des produits de santé notifie
+soit au fabricant ou, le cas échéant, à son mandataire, soit au distributeur du
+produit ou de la prestation en cause et à l'organisme mentionné à l'article L.
+213-1 désigné par le directeur de l'Agence centrale des organismes de sécurité
 sociale, par lettre recommandée avec avis de réception, le montant de la
 pénalité, les motifs de la décision, le délai de règlement ainsi que les voies
 et délais de recours contre cette décision.
@@ -47,6 +47,6 @@ Les montants versés à l'organisme compétent mentionné à l'article L. 213-1 
 répartis entre le régime général d'assurance maladie, le régime d'assurance
 maladie des professions agricoles et le régime social des indépendants, selon la
 clé de répartition fixée en application de l'article L. 162-37 du code de la
-sécurité sociale.L'agent comptable de cet organisme notifie à l'Agence française
-de sécurité sanitaire des produits de santé et aux ministres chargés de la santé
-et de la sécurité sociale les montants perçus.
+sécurité sociale.L'agent comptable de cet organisme notifie à l'Agence nationale
+de sécurité du médicament et des produits de santé et aux ministres chargés de
+la santé et de la sécurité sociale les montants perçus.

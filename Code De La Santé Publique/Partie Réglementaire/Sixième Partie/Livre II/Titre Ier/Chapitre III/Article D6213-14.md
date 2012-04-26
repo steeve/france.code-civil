@@ -6,8 +6,8 @@ La commission comprend, outre son président :
 
 a) Le directeur général de la santé ou son représentant ;
 
-b) Le directeur général de l'Agence française de sécurité sanitaire des produits
-de santé ou son représentant ;
+b) Le directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé ou son représentant ;
 
 c) Le directeur de la Caisse nationale de l'assurance-maladie des travailleurs
 salariés ou son représentant ;

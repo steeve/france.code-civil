@@ -30,9 +30,10 @@ production et de contrôle de la qualité ;
 stupéfiants pour les distributeurs en gros mentionnés aux 4° à 15° de l'article
 R. 5124-2.
 
-Le directeur général de l'Agence française de sécurité sanitaire des produits de
-santé notifie sa décision au demandeur dans un délai de trente jours à compter
-de la date de réception de la demande accompagnée d'un dossier complet.
+Le directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé notifie sa décision au demandeur dans un délai de trente jours
+à compter de la date de réception de la demande accompagnée d'un dossier
+complet.
 
 Il peut requérir toute information complémentaire ou procéder à une enquête sur
 place pour lui permettre de se prononcer sur la demande. Il peut, à ces fins,

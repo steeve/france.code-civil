@@ -13,8 +13,8 @@ L'Agence de la biomédecine évalue les informations recueillies.
 
 Le cas échéant, elle alerte les autres correspondants locaux du dispositif de
 vigilance relatif à l'assistance médicale à la procréation et, si un autre
-dispositif de vigilance est susceptible d'être concerné, l'Agence française de
-sécurité sanitaire des produits de santé et inversement.
+dispositif de vigilance est susceptible d'être concerné, l'Agence nationale de
+sécurité du médicament et des produits de santé et inversement.
 
 L'Agence de la biomédecine établit un rapport annuel portant sur le dispositif
 de vigilance relatif à l'assistance médicale à la procréation. Ce rapport est
@@ -27,7 +27,7 @@ européenne ou partie à l'accord sur l'Espace économique européen ainsi qu'à
 Commission européenne toutes les informations pertinentes relatives aux
 incidents et effets indésirables graves nécessaires pour garantir que des
 mesures adéquates soient prises. Les autorités compétentes précitées sont
-désignées selon l'article 4. 1 de la directive 2004 / 23 / CE relative à
+désignées selon l'article 4.1 de la directive 2004/23/ CE relative à
 l'établissement de normes de qualité et de sécurité pour le don, l'obtention, le
 contrôle, la transformation, la conservation, le stockage et la distribution des
 tissus et cellules humains. Dans ce cadre, l'organisation d'une inspection, en

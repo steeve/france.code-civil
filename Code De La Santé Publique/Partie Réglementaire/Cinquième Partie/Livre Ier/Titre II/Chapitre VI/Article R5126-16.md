@@ -47,6 +47,6 @@ hospitalières. Le contenu de cette autorisation est fixé par arrêté du minis
 chargé de la santé.
 
 Une copie de cette autorisation est adressée au directeur général de l'Agence
-française de sécurité sanitaire des produits de santé lorsque la pharmacie à
-usage intérieur est autorisée à réaliser des activités mentionnées à l'article
-R. 5126-9, à l'exception de celles mentionnées à ses 3° et 7°.
+nationale de sécurité du médicament et des produits de santé lorsque la
+pharmacie à usage intérieur est autorisée à réaliser des activités mentionnées à
+l'article R. 5126-9, à l'exception de celles mentionnées à ses 3° et 7°.

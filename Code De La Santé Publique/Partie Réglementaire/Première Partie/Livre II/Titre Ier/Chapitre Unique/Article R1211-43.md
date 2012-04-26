@@ -27,8 +27,8 @@ cellules ou de préparations de thérapie cellulaire.
 Les modalités de réalisation des tests, de conservation des échantillons
 biologiques du receveur ainsi que les conditions d'archivage des résultats des
 tests pratiqués sur ce dernier sont fixées par arrêté du ministre chargé de la
-santé sur proposition du directeur général de l'Agence française de sécurité
-sanitaire des produits de santé après avis de l'Agence de la biomédecine.
+santé sur proposition du directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé après avis de l'Agence de la biomédecine.
 
 2° Collaborer, dans le cadre de ses missions, avec les équipes de prélèvement ou
 de greffe de l'établissement de santé ou de la structure à laquelle il est

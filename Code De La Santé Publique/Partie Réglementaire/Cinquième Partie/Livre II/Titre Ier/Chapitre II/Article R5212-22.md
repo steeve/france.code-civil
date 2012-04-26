@@ -4,9 +4,9 @@ Les correspondants de matériovigilance sont chargés :
 
 1° Dans le cadre de leurs relations avec l'échelon national :
 
-a) De transmettre sans délai au directeur général de l'Agence française de
-sécurité sanitaire des produits de santé toute déclaration d'incident ou de
-risque d'incident faite auprès d'eux au titre du signalement obligatoire
+a) De transmettre sans délai au directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé toute déclaration d'incident ou
+de risque d'incident faite auprès d'eux au titre du signalement obligatoire
 mentionné à l'article R. 5212-14 ;
 
 b) De transmettre au directeur général de l'agence, selon une périodicité
@@ -22,8 +22,8 @@ collecte, la préparation, la conservation d'éléments et produits du corps hum
 ;
 
 e) De conduire les enquêtes et travaux relatifs à la sécurité d'utilisation des
-dispositifs médicaux demandés par le directeur général de l'Agence française de
-sécurité sanitaire des produits de santé ;
+dispositifs médicaux demandés par le directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé ;
 
 2° Au sein des établissements ou associations mentionnés à l'article R. 5212-12
 :

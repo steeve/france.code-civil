@@ -2,9 +2,9 @@ Article R1211-32
 ----
 Le système national de biovigilance comprend :
 
-1° L'Agence française de sécurité sanitaire des produits de santé ;
+1° L'Agence nationale de sécurité du médicament et des produits de santé ;
 
-2° La Commission nationale de biovigilance ;
+2° (Abrogé)
 
 3° L'Agence de la biomédecine ;
 

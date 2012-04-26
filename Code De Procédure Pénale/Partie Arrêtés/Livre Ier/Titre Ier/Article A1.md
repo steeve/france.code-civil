@@ -19,7 +19,7 @@ rapport annuel sur la sécurité des transports d'enfants ;
 
 4° Le chef de la mission des transports des matières dangereuses, pour
 l'élaboration des rapports annuels relevant de sa compétence et le contrôle des
-obligations de déclaration d'accident ;
+obligatifons de déclaration d'accident ;
 
 5° Le directeur général de l'Institut national de recherche sur les transports
 et leur sécurité, pour la réalisation d'enquêtes concernant des accidents ou des
@@ -49,7 +49,7 @@ mortels ;
 de l'intérieur, pour la réalisation d'enquêtes techniques destinées à prévenir
 des accidents mettant en cause des sapeurs-pompiers civils ou militaires ;
 
-12° Le directeur général de l'Agence française de sécurité sanitaire des
+12° Le directeur général de l'Agence nationale de sécurité du médicament et des
 produits de santé, pour la réalisation de recherches ou enquêtes scientifiques
 ou techniques, permettant d'adopter, à des fins de protection de la santé
 publique, toute mesure utile, notamment les mesures de police sanitaires

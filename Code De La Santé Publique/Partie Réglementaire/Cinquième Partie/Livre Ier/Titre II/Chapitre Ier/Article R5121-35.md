@@ -1,8 +1,8 @@
 Article R5121-35
 ----
-Le directeur général de l'Agence française de sécurité sanitaire des produits de
-santé se prononce dans un délai de deux cent dix jours à compter de la
-présentation d'un dossier de demande complet.
+Le directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé se prononce dans un délai de deux cent dix jours à compter de
+la présentation d'un dossier de demande complet.
 
 Lorsque le directeur général de l'agence a recours à la faculté que lui confère
 le 5° de l'article R. 5121-34, ces délais sont suspendus jusqu'à ce que les

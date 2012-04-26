@@ -1,13 +1,13 @@
 Article R5212-27
 ----
 Pour chacun des dispositifs soumis au contrôle de qualité interne ou externe, le
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé définit les modalités particulières de ce contrôle, en fonction des
-dispositifs, par décision publiée au Journal officiel de la République
-française. Pour ce qui concerne les dispositifs médicaux exposant les personnes
-à des rayonnements ionisants, les décisions du directeur général de l'agence
-sont prises au vu de l'avis de l'organisme désigné par l'autorité administrative
-compétente en matière de radioprotection.
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé définit les modalités particulières de ce contrôle, en
+fonction des dispositifs, par décision publiée au Journal officiel de la
+République française. Pour ce qui concerne les dispositifs médicaux exposant les
+personnes à des rayonnements ionisants, les décisions du directeur général de
+l'agence sont prises au vu de l'avis de l'organisme désigné par l'autorité
+administrative compétente en matière de radioprotection.
 
 Le directeur général de l'agence fixe notamment :
 

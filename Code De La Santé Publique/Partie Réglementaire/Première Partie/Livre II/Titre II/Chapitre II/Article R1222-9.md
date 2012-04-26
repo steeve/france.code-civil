@@ -8,5 +8,5 @@ plus prochaine séance :
 2° Des décisions prises en application de l'article L. 1223-4 ;
 
 3° Des décisions qui lui sont notifiées par le directeur général de l'Agence
-française de sécurité sanitaire des produits de santé en application de
+nationale de sécurité du médicament et des produits de santé en application de
 l'article L. 1223-5.

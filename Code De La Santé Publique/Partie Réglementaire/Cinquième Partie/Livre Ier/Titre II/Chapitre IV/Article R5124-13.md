@@ -3,8 +3,8 @@ Article R5124-13
 En cas de changement de propriété d'un établissement pharmaceutique,
 l'autorisation d'ouverture est transférée au nouveau propriétaire sur demande
 adressée conjointement par les deux pharmaciens responsables concernés au
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé.
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé.
 
 En cas de mise en location-gérance de l'établissement, l'autorisation
 d'ouverture est transférée dans les mêmes conditions au locataire-gérant pour la

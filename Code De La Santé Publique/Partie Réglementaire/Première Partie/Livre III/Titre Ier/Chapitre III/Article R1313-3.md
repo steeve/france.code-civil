@@ -4,7 +4,7 @@ Le réseau mentionné à l'article R. 1313-1 comprend, notamment :
 
 1° L'Agence de l'environnement et de la maîtrise de l'énergie ;
 
-2° L'Agence française de sécurité sanitaire des produits de santé ;
+2° L'Agence nationale de sécurité du médicament et des produits de santé ;
 
 3° L'Agence nationale pour l'amélioration des conditions de travail ;
 

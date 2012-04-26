@@ -10,7 +10,7 @@ prestations d'hospitalisation mentionnées au 1° de l'article L. 162-22-1 et au
 
 2° Les produits qui font l'objet d'une interdiction de mise sur le marché,
 d'utilisation, de prescription, de délivrance ou d'administration par décision
-du directeur général de l'Agence française de sécurité sanitaire des produits de
-santé, en application de l'article L. 5312-1 du code de la santé publique, ainsi
-que les produits interdits par décret en Conseil d'Etat, en application de
-l'article L. 221-3 du code de la consommation.
+du directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé, en application de l'article L. 5312-1 du code de la santé
+publique, ainsi que les produits interdits par décret en Conseil d'Etat, en
+application de l'article L. 221-3 du code de la consommation.

@@ -35,8 +35,8 @@ d'exploitation en cas de non-conformité, la nature de ces opérations, le nivea
 de performances obtenu, et le résultat concernant la conformité du dispositif
 médical ; ce registre est conservé cinq ans après la fin d'exploitation du
 dispositif, sauf dispositions particulières fixées par décision du directeur
-général de l'Agence française de sécurité sanitaire des produits de santé pour
-certaines catégories de dispositifs ;
+général de l'Agence nationale de sécurité du médicament et des produits de santé
+pour certaines catégories de dispositifs ;
 
 6° De permettre l'accès aux dispositifs médicaux et aux informations prévues par
 le présent article à toute personne en charge des opérations de maintenance et

@@ -4,8 +4,9 @@ I. ― Tout changement d'établissement ou d'affectation des locaux destinés à
 recevoir des micro-organismes et toxines ou des produits en contenant ou toute
 modification des opérations prévues dans l'autorisation doivent faire
 préalablement l'objet d'une nouvelle demande d'autorisation adressée au
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé dans les conditions mentionnées aux articles R. 5139-3 à R. 5139-7.
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé dans les conditions mentionnées aux articles R. 5139-3 à R.
+5139-7.
 
 L'absence de dépôt d'une nouvelle demande d'autorisation entraîne la suspension
 immédiate de l'autorisation initiale tant que le directeur général de l'agence

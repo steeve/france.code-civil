@@ -4,8 +4,8 @@ Le conseil scientifique comprend :
 
 1° Deux membres de droit :
 
-a) Le président du conseil scientifique de l'Agence française de sécurité
-sanitaire des produits de santé, ou son représentant ;
+a) Le président du conseil scientifique de l'Agence nationale de sécurité du
+médicament et des produits de santé, ou son représentant ;
 
 b) Le président du conseil scientifique de l'Institut de veille sanitaire, ou
 son représentant ;

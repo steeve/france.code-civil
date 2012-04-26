@@ -13,8 +13,8 @@ sélection des matériels de départ, l'application d'un processus de production
 permettant l'inactivation ou l'élimination des agents transmissibles, ainsi que
 les caractéristiques du dispositif médical et son utilisation prévue. Ces
 critères sont précisés par un arrêté du ministre chargé de la santé, pris sur
-proposition du directeur général de l'Agence française de sécurité sanitaire des
-produits de santé.
+proposition du directeur général de l'Agence nationale de sécurité du médicament
+et des produits de santé.
 
 Le système d'analyse et de gestion du risque tient compte, en outre, des avis
 des comités scientifiques compétents et, le cas échéant, du comité des

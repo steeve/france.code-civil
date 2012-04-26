@@ -1,14 +1,14 @@
 Article R1243-35
 ----
-Le directeur général de l'Agence française de sécurité sanitaire des produits de
-santé notifie sa décision au demandeur dans un délai de quatre mois à compter de
-la date de réception du dossier complet.
+Le directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé notifie sa décision au demandeur dans un délai de quatre mois
+à compter de la date de réception du dossier complet.
 
-Si le directeur général de l'Agence française de sécurité sanitaire des produits
-de santé estime que des informations complémentaires sont nécessaires pour lui
-permettre de se prononcer sur la demande, il peut interrompre l'examen de
-celle-ci jusqu'à réception des informations manquantes dans la limite d'un délai
-de six mois. Il doit dans ce cas notifier au demandeur les motifs de cette
+Si le directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé estime que des informations complémentaires sont nécessaires
+pour lui permettre de se prononcer sur la demande, il peut interrompre l'examen
+de celle-ci jusqu'à réception des informations manquantes dans la limite d'un
+délai de six mois. Il doit dans ce cas notifier au demandeur les motifs de cette
 interruption et lui préciser le délai au terme duquel ces informations doivent
 lui être adressées.
 

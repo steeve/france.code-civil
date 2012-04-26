@@ -13,8 +13,8 @@ publique, ou son représentant ;
 b) Le président du conseil scientifique de l'Institut de radioprotection et de
 sûreté nucléaire, ou son représentant ;
 
-c) Le président du conseil scientifique de l'Agence française de sécurité
-sanitaire des produits de santé, ou son représentant ;
+c) Le président du conseil scientifique de l'Agence nationale de sécurité du
+médicament et des produits de santé, ou son représentant ;
 
 d) Le président du conseil scientifique de l'Agence nationale de sécurité
 sanitaire de l'alimentation, de l'environnement et du travail, ou son

@@ -1,7 +1,7 @@
 Article R1211-34
 ----
-L'Agence française de sécurité sanitaire des produits de santé est destinataire
-des documents et informations suivants :
+L'Agence nationale de sécurité du médicament et des produits de santé est
+destinataire des documents et informations suivants :
 
 a) Dans les conditions prévues à l'article R. 1211-47, les déclarations
 d'incident et d'effet indésirable ;

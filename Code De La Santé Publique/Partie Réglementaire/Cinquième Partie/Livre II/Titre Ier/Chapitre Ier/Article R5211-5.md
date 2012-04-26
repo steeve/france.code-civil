@@ -15,8 +15,8 @@ maintenance et l'exploitant ;
 
 3° Contrôle de qualité d'un dispositif médical, l'ensemble des opérations
 destinées à évaluer le maintien des performances revendiquées par le fabricant
-ou, le cas échéant, fixées par le directeur général de l'Agence française de
-sécurité sanitaire des produits de santé ; le contrôle de qualité est dit
+ou, le cas échéant, fixées par le directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé ; le contrôle de qualité est dit
 interne, s'il est réalisé par l'exploitant ou sous sa responsabilité par un
 prestataire ; il est dit externe, s'il est réalisé par un organisme indépendant
 de l'exploitant, du fabricant et de celui qui assure la maintenance du

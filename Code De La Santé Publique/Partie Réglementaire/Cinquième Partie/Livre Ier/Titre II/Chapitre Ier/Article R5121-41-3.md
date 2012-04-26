@@ -3,10 +3,10 @@ Article R5121-41-3
 Toute modification de type IA est présentée dans les conditions suivantes :
 
 1° Le titulaire de l'autorisation de mise sur le marché communique à l'Agence
-française de sécurité sanitaire des produits de santé, par envoi recommandé avec
-demande d'avis de réception, la demande de modification de type IA à laquelle il
-entend procéder. La demande est accompagnée de l'ensemble des pièces prévues par
-arrêté pour cette modification.
+nationale de sécurité du médicament et des produits de santé, par envoi
+recommandé avec demande d'avis de réception, la demande de modification de type
+IA à laquelle il entend procéder. La demande est accompagnée de l'ensemble des
+pièces prévues par arrêté pour cette modification.
 
 2° Une demande ne doit porter que sur une seule modification de type IA. Lorsque
 plusieurs modifications de type IA doivent être apportées aux termes d'une même

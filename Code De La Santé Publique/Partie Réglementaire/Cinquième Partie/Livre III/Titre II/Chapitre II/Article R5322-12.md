@@ -1,7 +1,7 @@
 Article R5322-12
 ----
-La liste des décisions du directeur général mentionnées à l'article L. 5322-2
-qui sont communiquées aux ministres chargés de l'économie, de la santé et de la
-sécurité sociale pour information quinze jours avant leur notification est fixée
-par arrêté des mêmes ministres. Ce délai n'est pas applicable en cas de menace
-grave pour la santé publique.
+En ce qui concerne les matières mentionnées aux 12° et 13° de l'article R.
+5322-11, le conseil d'administration peut déléguer au directeur général tout ou
+partie de ses compétences dans des limites qu'il détermine. Le directeur général
+rend compte, lors de la plus prochaine séance du conseil d'administration, des
+décisions qu'il a prises en vertu de cette délégation.

@@ -8,13 +8,12 @@ suivantes, inscrites de manière à être facilement lisibles, clairement
 compréhensibles et indélébiles :
 
 1° Le nom du médicament ou du produit, le dosage, la forme pharmaceutique, le
-cas échéant la mention du destinataire (" nourrissons ", " enfants " ou "
-adultes "), ainsi que, lorsque le médicament contient au maximum trois
-substances actives, la ou les dénominations communes ; les modalités de
-l'inscription du nom et du dosage en braille ainsi que les modalités
-d'information de l'Agence française de sécurité sanitaire des produits de santé
-liée à cette inscription sont prévues par décision du directeur général de
-l'agence.
+cas échéant la mention du destinataire ("nourrissons", "enfants" ou "adultes"),
+ainsi que, lorsque le médicament contient au maximum trois substances actives,
+la ou les dénominations communes ; les modalités de l'inscription du nom et du
+dosage en braille ainsi que les modalités d'information de l'Agence nationale de
+sécurité du médicament et des produits de santé liée à cette inscription sont
+prévues par décision du directeur général de l'agence.
 
 2° La composition qualitative et quantitative en substances actives par unité de
 prise ou, selon la forme d'administration, pour un volume ou un poids déterminé,

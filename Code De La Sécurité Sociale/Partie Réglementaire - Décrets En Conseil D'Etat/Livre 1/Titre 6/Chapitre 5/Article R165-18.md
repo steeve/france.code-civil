@@ -23,9 +23,9 @@ C.-Neuf membres ayant une voix consultative :
 
 1° Le directeur de la sécurité sociale, le directeur général de la santé, le
 directeur général de l'offre de soins et le directeur général de l'Agence
-française de sécurité sanitaire des produits de santé, ou leurs représentants,
-qu'ils désignent, chacun d'eux pouvant se faire accompagner par une personne de
-ses services ;
+nationale de sécurité du médicament et des produits de santé, ou leurs
+représentants, qu'ils désignent, chacun d'eux pouvant se faire accompagner par
+une personne de ses services ;
 
 2° Les directeurs de la Caisse nationale de l'assurance maladie des travailleurs
 salariés, de la Caisse nationale du régime social des indépendants et de la

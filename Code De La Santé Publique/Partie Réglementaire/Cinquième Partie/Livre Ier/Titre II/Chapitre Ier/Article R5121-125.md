@@ -10,7 +10,7 @@ de renouvellement, soit pendant la période d'autorisation.
 Le renouvellement de l'autorisation est accordé dans les conditions prévues aux
 articles R. 5121-116 et R. 5121-123.
 
-Le silence gardé par le directeur général de l'Agence française de sécurité
-sanitaire des produits de santé vaut renouvellement de l'autorisation à
+Le silence gardé par le directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé vaut renouvellement de l'autorisation à
 l'expiration d'un délai de trois mois à compter de la date de réception de la
 demande de renouvellement.

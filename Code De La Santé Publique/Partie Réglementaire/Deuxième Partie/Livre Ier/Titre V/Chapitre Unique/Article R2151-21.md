@@ -7,4 +7,5 @@ autre organisme autorisé à les conserver.
 
 En cas d'incident susceptible d'affecter la sécurité sanitaire, le directeur
 général de l'agence de la biomédecine en informe immédiatement le directeur
-général de l'Agence française de sécurité sanitaire des produits de santé.
+général de l'Agence nationale de sécurité du médicament et des produits de
+santé.

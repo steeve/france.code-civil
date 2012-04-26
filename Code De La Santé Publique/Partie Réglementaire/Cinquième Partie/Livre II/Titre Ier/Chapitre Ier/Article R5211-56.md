@@ -19,8 +19,8 @@ Lorsqu'un organisme habilité confie des travaux spécifiques à un sous-traitan
 portant sur la constatation et la vérification de faits, il s'assure
 préalablement que les dispositions du livre II de la partie V du présent code
 soient respectées par le sous-traitant. L'organisme habilité tient à la
-disposition du directeur général de l'Agence française de sécurité sanitaire des
-produits de santé les documents pertinents relatifs à l'évaluation de la
+disposition du directeur général de l'Agence nationale de sécurité du médicament
+et des produits de santé les documents pertinents relatifs à l'évaluation de la
 compétence du sous-traitant et aux travaux effectués par ce dernier dans ce
 cadre ;
 

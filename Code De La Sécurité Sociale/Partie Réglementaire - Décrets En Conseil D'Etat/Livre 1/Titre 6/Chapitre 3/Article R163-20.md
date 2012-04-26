@@ -1,9 +1,9 @@
 Article R163-20
 ----
-I. - La commission mentionnée à l'article R. 163-15 donne un avis, à la demande
-du ministre chargé de la sécurité sociale, du ministre chargé de la santé, ou,
-pour l'exercice de ses compétences propres, du directeur général de l'Agence
-française de sécurité sanitaire des produits de santé, sur les documents
+I.-La commission mentionnée à l'article R. 163-15 donne un avis, à la demande du
+ministre chargé de la sécurité sociale, du ministre chargé de la santé, ou, pour
+l'exercice de ses compétences propres, du directeur général de l'Agence
+nationale de sécurité du médicament et des produits de santé, sur les documents
 suivants :
 
 1° Les documents d'information à l'usage des praticiens portant sur la
@@ -31,7 +31,7 @@ La publication et la diffusion de tous les documents précités ne peuvent
 intervenir qu'après accord du ministre chargé de la sécurité sociale et du
 ministre chargé de la santé.
 
-II. - La commission mentionnée à l'article R. 163-15 donne un avis sur les
+II.-La commission mentionnée à l'article R. 163-15 donne un avis sur les
 recommandations de bonne pratique et les références médicales établies par
 l'Agence française de sécurité sanitaire des produits de santé prévues à
 l'article L. 162-12-15.

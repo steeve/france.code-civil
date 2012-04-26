@@ -1,8 +1,8 @@
 Article R4211-1
 ----
 Toute demande d'autorisation prévue à l'article L. 4211-6 est adressée au
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé par la personne qui prépare et délivre des allergènes préparés
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé par la personne qui prépare et délivre des allergènes préparés
 spécialement pour un seul individu. Le directeur général se prononce au vu d'un
 dossier comportant :
 

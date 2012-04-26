@@ -1,7 +1,8 @@
 Article D6213-10
 ----
 Le contrôle de qualité des analyses de biologie médicale est exécuté au plan
-technique par l'Agence française de sécurité sanitaire des produits de santé.
+technique par l'Agence nationale de sécurité du médicament et des produits de
+santé.
 
 Celle-ci est chargée notamment :
 

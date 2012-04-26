@@ -4,7 +4,7 @@ La déclaration est adressée par l'organisme intéressé sous pli recommandé a
 demande d'avis de réception en cinq exemplaires au ministre chargé de la
 recherche et, le cas échéant, en cinq exemplaires au directeur général de
 l'agence régionale de santé, ou déposée contre récépissé dans les mêmes
-conditions.L'organisme adresse simultanément sa déclaration, pour avis, au
+conditions. L'organisme adresse simultanément sa déclaration, pour avis, au
 comité de protection des personnes territorialement compétent pour le lieu où le
 responsable scientifique ou, le cas échéant, le responsable scientifique
 coordonnateur exerce ses fonctions.
@@ -35,9 +35,10 @@ du traitement de données à caractère personnel ;
 préparation réalisées à des fins thérapeutiques, des précisions sur les moyens
 destinés à éviter les risques de contamination.
 
-Le ministre chargé de la recherche informe l'Agence française de sécurité
-sanitaire des produits de santé des activités de conservation ou de préparation
-à des fins scientifiques de tissus et cellules du corps humain réalisées sur le
-même site que des activités de même nature exercées à des fins thérapeutiques et
-lui communique les précisions sur les moyens destinés à éviter les risques de
-contamination figurant au dossier déposé par l'organisme déclarant.
+Le ministre chargé de la recherche informe l'Agence nationale de sécurité du
+médicament et des produits de santé des activités de conservation ou de
+préparation à des fins scientifiques de tissus et cellules du corps humain
+réalisées sur le même site que des activités de même nature exercées à des fins
+thérapeutiques et lui communique les précisions sur les moyens destinés à éviter
+les risques de contamination figurant au dossier déposé par l'organisme
+déclarant.

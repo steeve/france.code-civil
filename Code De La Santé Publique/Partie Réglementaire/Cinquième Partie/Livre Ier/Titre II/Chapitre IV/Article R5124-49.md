@@ -12,7 +12,7 @@ temporaire d'utilisation mentionnée au a de l'article L. 5121-12 ou de l'un des
 enregistrements mentionnés aux articles L. 5121-13 et L. 5121-14-1 veillent à ce
 que les opérations de fabrication soient conduites dans le respect des données
 du dossier de cette autorisation ou de cet enregistrement acceptées par l'Agence
-française de sécurité sanitaire des produits de santé. Ils sont tenus de
+nationale de sécurité du médicament et des produits de santé. Ils sont tenus de
 réévaluer et, si nécessaire, de modifier leurs méthodes de fabrication et de
 contrôle en fonction des progrès scientifiques et techniques. Le cas échéant, le
 fabricant avise le titulaire de l'autorisation ou de l'enregistrement et, s'il

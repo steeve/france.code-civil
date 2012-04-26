@@ -2,9 +2,7 @@ Article R1221-24
 ----
 Le système national d'hémovigilance comprend :
 
--l'Agence française de sécurité sanitaire des produits de santé ;
-
--la Commission nationale d'hémovigilance ;
+-l'Agence nationale de sécurité du médicament et des produits de santé ;
 
 -les coordonnateurs régionaux d'hémovigilance mentionnés à l'article R. 1221-32
 ;

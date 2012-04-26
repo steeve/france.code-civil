@@ -13,5 +13,5 @@ documents.
 
 L'Autorité de sûreté nucléaire peut solliciter, préalablement à la délivrance de
 l'autorisation, l'avis de l'Institut de radioprotection et de sûreté nucléaire,
-de l'Agence française de sécurité sanitaire des produits de santé ou d'un autre
-organisme.
+de l'Agence nationale de sécurité du médicament et des produits de santé ou d'un
+autre organisme.

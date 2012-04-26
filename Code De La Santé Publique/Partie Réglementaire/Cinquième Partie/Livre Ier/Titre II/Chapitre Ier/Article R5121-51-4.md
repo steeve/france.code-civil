@@ -1,8 +1,8 @@
 Article R5121-51-4
 ----
 En cas d'accord au sein du groupe de coordination, saisi par le directeur
-général de l'Agence française de sécurité sanitaire des produits de santé ou par
-un autre Etat :
+général de l'Agence nationale de sécurité du médicament et des produits de santé
+ou par un autre Etat :
 
 1° Dans le cas prévu à l'article R. 5121-51-1, le directeur général de l'agence
 notifie l'accord aux Etats concernés et au titulaire de l'autorisation de mise

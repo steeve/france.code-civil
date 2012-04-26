@@ -21,4 +21,4 @@ des locaux fermés à clef.
 
 Tout vol ou détournement de substance ou préparation classée comme psychotrope
 est signalé sans délai aux autorités de police, à l'agence régionale de santé et
-à l'Agence française de sécurité sanitaire des produits de santé.
+à l'Agence nationale de sécurité du médicament et des produits de santé.

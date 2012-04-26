@@ -4,9 +4,9 @@ Les dispositifs médicaux devant faire l'objet de la communication prévue à
 l'article L. 5211-4 sont les dispositifs médicaux des classes II a, II b et III
 ainsi que les dispositifs médicaux implantables actifs.
 
-La communication est effectuée auprès du directeur général de l'Agence française
-de sécurité sanitaire des produits de santé lors de la mise en service sur le
-territoire national, par les fabricants, mandataires ou distributeurs qui
+La communication est effectuée auprès du directeur général de l'Agence nationale
+de sécurité du médicament et des produits de santé lors de la mise en service
+sur le territoire national, par les fabricants, mandataires ou distributeurs qui
 délivrent directement les dispositifs médicaux à l'utilisateur final. Elle
 comporte :
 

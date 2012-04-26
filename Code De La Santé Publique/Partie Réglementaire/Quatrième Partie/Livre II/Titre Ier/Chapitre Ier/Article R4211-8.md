@@ -1,8 +1,8 @@
 Article R4211-8
 ----
 L'autorisation peut être modifiée d'office, suspendue ou retirée par le
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé lorsqu'il apparaît :
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé lorsqu'il apparaît :
 
 1° Qu'une ou plusieurs préparations mères mentionnées dans l'autorisation sont
 nocives dans les conditions normales d'emploi ou sont susceptibles de présenter

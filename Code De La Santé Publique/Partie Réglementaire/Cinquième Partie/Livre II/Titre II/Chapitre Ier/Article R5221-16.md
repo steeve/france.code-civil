@@ -55,5 +55,5 @@ correctement et en toute sécurité, en tenant compte de la formation et des
 connaissances des utilisateurs potentiels, et pour identifier le fabricant. La
 liste des informations devant figurer sur l'étiquetage et dans la notice
 d'utilisation est fixée, sur proposition du directeur général de l'Agence
-française de sécurité sanitaire des produits de santé, par arrêté du ministre
-chargé de la santé.
+nationale de sécurité du médicament et des produits de santé, par arrêté du
+ministre chargé de la santé.

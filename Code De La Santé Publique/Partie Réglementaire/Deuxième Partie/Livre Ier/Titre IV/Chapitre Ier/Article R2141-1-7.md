@@ -14,7 +14,7 @@ manipulation supplémentaire des gamètes, tissus germinaux ou embryons.
 Si la technique fait intervenir un produit entrant en contact avec les gamètes,
 les tissus germinaux ou les embryons, en particulier un produit thérapeutique
 annexe mentionné à l'article L. 1261-1, le directeur général de l'Agence de la
-biomédecine consulte également l'Agence française de sécurité sanitaire des
-produits de santé, qui lui fait connaître dans le délai d'un mois si le produit
-peut être légalement utilisé. Cet avis est joint au dossier au vu duquel le
-conseil d'orientation de l'Agence de la biomédecine se prononce.
+biomédecine consulte également l'Agence nationale de sécurité du médicament et
+des produits de santé, qui lui fait connaître dans le délai d'un mois si le
+produit peut être légalement utilisé. Cet avis est joint au dossier au vu duquel
+le conseil d'orientation de l'Agence de la biomédecine se prononce.

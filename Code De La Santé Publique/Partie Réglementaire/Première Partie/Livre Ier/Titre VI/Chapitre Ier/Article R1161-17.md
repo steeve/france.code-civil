@@ -1,11 +1,9 @@
 Article R1161-17
 ----
-I. ― Le directeur général de l'Agence française de sécurité sanitaire des
-produits de santé se prononce sur la demande d'autorisation après avis d'une ou
-plusieurs associations mentionnées à l'article L. 1114-1 et concernées par la
-pathologie ainsi qu'après avis de la commission chargée du contrôle de la
-publicité et de la diffusion de recommandations sur le bon usage des
-médicaments.
+I. ― Le directeur général de l' Agence nationale de sécurité du médicament et
+des produits de santé se prononce sur la demande d'autorisation après avis d'une
+ou plusieurs associations mentionnées à l'article L. 1114-1 et concernées par la
+pathologie.
 
 Lorsque la demande est incomplète, la procédure est suspendue jusqu'à ce que les
 informations complémentaires requises aient été fournies.
@@ -17,11 +15,11 @@ des pièces manquantes ou incomplètes.
 
 II. ― S'il n'existe pas d'association concernée par la pathologie en cause, ou
 si un conflit d'intérêt fait obstacle à la consultation de l'unique association
-concernée, l'Agence française de sécurité sanitaire des produits de santé
-consulte une autre association de son choix.
+concernée, l' Agence nationale de sécurité du médicament et des produits de
+santé consulte une autre association de son choix.
 
 L'avis de l'association consultée est rendu dans le mois qui suit la saisine par
-l'Agence française de sécurité sanitaire des produits de santé.
+l' Agence nationale de sécurité du médicament et des produits de santé.
 
 Après réception de l'avis de l'association consultée ou expiration du délai qui
 lui est imparti, le directeur général saisit la commission chargée du contrôle

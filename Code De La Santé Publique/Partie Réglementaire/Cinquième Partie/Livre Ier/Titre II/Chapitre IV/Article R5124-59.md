@@ -1,8 +1,8 @@
 Article R5124-59
 ----
 L'entreprise exerçant l'activité de grossiste-répartiteur déclare au directeur
-général de l'Agence française de sécurité sanitaire des produits de santé le
-territoire sur lequel chacun de ses établissements exerce son activité de
+général de l'Agence nationale de sécurité du médicament et des produits de santé
+le territoire sur lequel chacun de ses établissements exerce son activité de
 répartition. Cette déclaration est effectuée au plus tard lors de l'ouverture de
 l'établissement ; elle est modifiée à l'occasion de tout changement de
 territoire de répartition.
@@ -56,7 +56,7 @@ permet pas de satisfaire les besoins urgents en médicaments, un arrêté du
 ministre de la santé définit ces conditions.
 
 Le tableau des astreintes est transmis semestriellement pour le semestre suivant
-par les organisations représentatives à agence régionale de santé
+par les organisations représentatives à l'agence régionale de santé
 territorialement compétente.
 
 Ces dispositions ne font pas obstacle à ce qu'un établissement livre
@@ -65,8 +65,9 @@ usage intérieur d'un établissement de santé située hors de son territoire de
 répartition.
 
 A titre exceptionnel et en l'absence d'autre source d'approvisionnement, le
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé peut, de sa propre initiative, ou à la demande du préfet après avis du
-directeur général de l'agence régionale de santé, imposer à un établissement de
-livrer une officine de pharmacie ou une pharmacie à usage intérieur d'un
-établissement de santé située hors de son territoire de répartition.
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé peut, de sa propre initiative, ou à la demande du préfet après
+avis du directeur général de l'agence régionale de santé, imposer à un
+établissement de livrer une officine de pharmacie ou une pharmacie à usage
+intérieur d'un établissement de santé située hors de son territoire de
+répartition.

@@ -17,7 +17,7 @@ la demande. Le silence gardé par le directeur général vaut acceptation de la
 demande à l'expiration de ce délai.
 
 Lorsque le transfert concerne un établissement mentionné aux articles R. 5142-6
-ou R. 5142-7, le directeur général de l'Agence française de sécurité sanitaire
-des produits de santé ou le préfet est informé de la décision du directeur
-général de l'Agence nationale de sécurité sanitaire de l'alimentation, de
-l'environnement et du travail.
+ou R. 5142-7, le directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé ou le préfet est informé de la décision du
+directeur général de l'Agence nationale de sécurité sanitaire de l'alimentation,
+de l'environnement et du travail.

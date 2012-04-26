@@ -6,7 +6,7 @@ l'autorisation délivrée chaque fois que des éléments nouveaux permettent de
 réévaluer la justification de l'activité nucléaire autorisée. Dans le cas où
 l'autorisation concerne une activité nucléaire destinée à la médecine, à l'art
 dentaire, à la biologie humaine ou à la recherche biomédicale, l'Autorité de
-sûreté nucléaire en informe l'Agence française de sécurité sanitaire des
+sûreté nucléaire en informe l'Agence nationale de sécurité du médicament et des
 produits de santé.
 
 Pour les fournisseurs de sources radioactives scellées et de produits ou

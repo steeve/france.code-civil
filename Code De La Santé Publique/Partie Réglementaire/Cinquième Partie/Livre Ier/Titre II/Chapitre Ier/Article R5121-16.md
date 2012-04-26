@@ -12,4 +12,4 @@ et faciliter l'usage adéquat du médicament expérimental.
 
 Le contenu de l'étiquetage de ces médicaments est défini par arrêté du ministre
 chargé de la santé pris sur proposition du directeur général de l'Agence
-française de sécurité sanitaire des produits de santé.
+nationale de sécurité du médicament et des produits de santé.

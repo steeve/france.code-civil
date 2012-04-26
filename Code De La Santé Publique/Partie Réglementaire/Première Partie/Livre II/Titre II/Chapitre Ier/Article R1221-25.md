@@ -1,11 +1,11 @@
 Article R1221-25
 ----
-L'Agence française de sécurité sanitaire des produits de santé assure la mise en
-œuvre de l'hémovigilance. Elle en définit les orientations, anime et coordonne
-les actions des différents intervenants et veille au respect des procédures de
-surveillance organisées par la présente section. Elle prend, le cas échéant, les
-mesures appropriées en vue d'assurer la sécurité transfusionnelle ou saisit les
-autorités compétentes.
+L'Agence nationale de sécurité du médicament et des produits de santé assure la
+mise en œuvre de l'hémovigilance. Elle en définit les orientations, anime et
+coordonne les actions des différents intervenants et veille au respect des
+procédures de surveillance organisées par la présente section. Elle prend, le
+cas échéant, les mesures appropriées en vue d'assurer la sécurité
+transfusionnelle ou saisit les autorités compétentes.
 
 Pour l'exercice de cette mission, l'agence est destinataire des documents et
 informations suivants :

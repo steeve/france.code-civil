@@ -11,8 +11,8 @@ mentionné à l'article R. 5121-11 :
 3° La description du système de pharmacovigilance prévu par le futur titulaire
 de l'autorisation ou par l'entreprise exploitant la spécialité pharmaceutique
 et, le cas échéant, du plan de gestion de risque dont le modèle type est fixé
-par décision du directeur général de l'Agence française de sécurité sanitaire
-des produits de santé ;
+par décision du directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé ;
 
 4° Les indications thérapeutiques, les contre-indications et les effets
 indésirables ;
@@ -26,8 +26,8 @@ des déchets ;
 
 7° Une déclaration du demandeur attestant que les essais cliniques réalisés en
 dehors de la Communauté européenne ou de l'Espace économique européen répondent
-à des exigences éthiques équivalentes à celles de la directive 2001 / 20 / CE du
-4 avril 2001 ;
+à des exigences éthiques équivalentes à celles de la directive 2001/20/ CE du 4
+avril 2001 ;
 
 8° Une ou plusieurs maquettes ou échantillons du conditionnement extérieur et du
 conditionnement primaire et, s'il y a lieu, le projet de notice accompagné des

@@ -1,7 +1,7 @@
 Article R5121-135
 ----
 La déclaration prévue au quatrième alinéa de l'article L. 5124-11 est adressée à
-l'Agence française de sécurité sanitaire des produits de santé par
+l'Agence nationale de sécurité du médicament et des produits de santé par
 l'établissement pharmaceutique exportateur avant l'exportation d'un médicament,
 lorsqu'il s'agit de la première exportation de ce médicament vers l'Etat
 d'importation.

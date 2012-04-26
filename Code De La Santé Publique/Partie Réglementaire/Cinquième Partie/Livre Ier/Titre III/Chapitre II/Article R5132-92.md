@@ -2,8 +2,8 @@ Article R5132-92
 ----
 En dehors des cas de transit ou d'emprunt du territoire douanier, il est
 interdit d'importer ou d'exporter des psychotropes sans autorisation spéciale
-délivrée pour chaque opération par le directeur général de l'Agence française de
-sécurité sanitaire des produits de santé.
+délivrée pour chaque opération par le directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé.
 
 L'autorisation mentionne la dénomination et la quantité du produit faisant
 l'objet de l'opération, la nature et la quantité de substance psychotrope qu'il

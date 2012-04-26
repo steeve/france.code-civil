@@ -3,12 +3,12 @@ Article R1235-9
 Le ministre chargé de la recherche transmet un exemplaire du dossier au
 directeur général de l'Agence de la biomédecine et, lorsque l'organisme
 demandeur bénéficie par ailleurs d'une autorisation prévue à l'article L.
-1243-2, au directeur général de l'Agence française de sécurité sanitaire des
-produits de santé, qui font connaître leur avis dans un délai d'un
-mois.L'absence de réponse passé ce délai vaut avis favorable. Le ministre chargé
-de la recherche se prononce dans un délai de trois mois à compter de la
-réception de la demande complète par ses services.L'absence de réponse dans ce
-délai vaut rejet de la demande.
+1243-2, au directeur général de l' Agence nationale de sécurité du médicament et
+des produits de santé, qui font connaître leur avis dans un délai d'un mois.
+L'absence de réponse passé ce délai vaut avis favorable. Le ministre chargé de
+la recherche se prononce dans un délai de trois mois à compter de la réception
+de la demande complète par ses services. L'absence de réponse dans ce délai vaut
+rejet de la demande.
 
 Le ministre chargé de la recherche peut demander, par lettre recommandée avec
 demande d'avis de réception, toute information complémentaire qu'il estime

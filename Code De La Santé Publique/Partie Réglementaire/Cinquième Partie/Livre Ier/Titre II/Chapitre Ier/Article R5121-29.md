@@ -1,11 +1,10 @@
 Article R5121-29
 ----
 Pour l'application des dispositions du 1° de l'article R. 5121-28, le directeur
-général de l'Agence française de sécurité sanitaire des produits de santé peut,
-après avis de la commission d'autorisation de mise sur le marché, exonérer le
-demandeur d'une autorisation de mise sur le marché pour une spécialité générique
-de fournir les études de biodisponibilité prévues à l'article L. 5121-1 dans les
-hypothèses suivantes :
+général de l'Agence française de sécurité sanitaire des produits de santé peut
+exonérer le demandeur d'une autorisation de mise sur le marché pour une
+spécialité générique de fournir les études de biodisponibilité prévues à
+l'article L. 5121-1 dans les hypothèses suivantes :
 
 1° Son dossier est une simple duplication du dossier d'autorisation de mise sur
 le marché de la spécialité de référence, et l'établissement pharmaceutique de

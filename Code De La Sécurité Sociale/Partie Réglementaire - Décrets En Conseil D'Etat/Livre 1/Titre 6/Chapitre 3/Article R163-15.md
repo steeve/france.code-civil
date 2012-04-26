@@ -28,8 +28,8 @@ a) Quatre membres de droit :
 
 -le directeur général de l'offre de soins , ou son représentant ;
 
--le directeur général de l'Agence française de sécurité sanitaire des produits
-de santé ou son représentant.
+-le directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé ou son représentant.
 
 Chacun d'eux peut se faire accompagner par une personne de ses services ;
 

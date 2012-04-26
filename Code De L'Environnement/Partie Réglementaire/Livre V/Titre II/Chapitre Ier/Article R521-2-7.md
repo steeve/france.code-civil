@@ -1,8 +1,8 @@
 Article R521-2-7
 ----
 Les échantillons sont analysés par un laboratoire de l'Etat, de l'Agence
-française de sécurité sanitaire des produits de santé ou par un laboratoire
-désigné par le représentant de l'Etat dans le département du lieu de
+nationale de sécurité du médicament et des produits de santé ou par un
+laboratoire désigné par le représentant de l'Etat dans le département du lieu de
 prélèvement.
 
 Dans ce dernier cas, le laboratoire doit satisfaire aux critères généraux de

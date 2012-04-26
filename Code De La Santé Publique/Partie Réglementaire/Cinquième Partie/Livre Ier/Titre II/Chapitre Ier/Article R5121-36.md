@@ -1,7 +1,7 @@
 Article R5121-36
 ----
 L'autorisation de mise sur le marché est accordée par le directeur général de
-l'Agence française de sécurité sanitaire des produits de santé.
+l'Agence nationale de sécurité du médicament et des produits de santé.
 
 Elle indique, le cas échéant, le classement du médicament dans les catégories
 suivantes :

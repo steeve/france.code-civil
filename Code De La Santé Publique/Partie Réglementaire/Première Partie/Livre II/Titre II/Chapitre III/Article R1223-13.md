@@ -3,8 +3,8 @@ Article R1223-13
 Tout établissement de transfusion sanguine assure la continuité du service
 public transfusionnel pour les activités relevant de l'agrément. Il présente,
 lors de la demande d'agrément ou de son renouvellement ainsi qu'à la demande de
-l'inspecteur de l'Agence française de sécurité sanitaire des produits de santé,
-les éléments justifiant du respect de cette obligation.
+l'inspecteur de l'Agence nationale de sécurité du médicament et des produits de
+santé, les éléments justifiant du respect de cette obligation.
 
 Pour les activités de distribution, de délivrance, de conseil transfusionnel et,
 le cas échéant, de laboratoire d'immuno-hématologie, une permanence, par garde

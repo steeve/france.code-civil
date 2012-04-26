@@ -1,8 +1,8 @@
 Article R513-10-2
 ----
 La déclaration prévue au second alinéa de l'article L. 513-10-2 est adressée par
-lettre recommandée avec demande d'avis de réception à l'Agence française de
-sécurité sanitaire des produits de santé.
+lettre recommandée avec demande d'avis de réception à l'Agence nationale de
+sécurité du médicament et des produits de santé.
 
 Elle indique :
 
@@ -26,5 +26,5 @@ La personne qui signe la déclaration indique sa qualité au regard des
 dispositions du deuxième alinéa de l'article L. 513-10-2.
 
 Toute modification apportée aux indications ainsi fournies est transmise sans
-délai dans les mêmes formes à l'Agence française de sécurité sanitaire des
-produits de santé.
+délai dans les mêmes formes à l'Agence nationale de sécurité du médicament et
+des produits de santé.

@@ -11,6 +11,6 @@ cette information dans un délai de quinze jours et communique les motifs.
 
 Le contenu et les modalités de présentation des informations relatives à la fin
 de la recherche sont fixés, en tant que de besoin, par arrêté du ministre chargé
-de la santé, pris sur proposition du directeur général de l'Agence française de
-sécurité sanitaire des produits de santé pour les recherches relevant de sa
-compétence.
+de la santé, pris sur proposition du directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé pour les recherches relevant de
+sa compétence.

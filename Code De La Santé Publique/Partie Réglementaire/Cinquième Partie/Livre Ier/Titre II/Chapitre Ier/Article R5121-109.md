@@ -20,13 +20,13 @@ opérations peuvent être effectuées ainsi que la quantité globale du médicam
 considéré pouvant être importée ; à l'issue de la période d'autorisation, le
 renouvellement ne peut être obtenu que sur présentation de l'autorisation
 précédente et de l'indication des opérations effectuées et de la quantité
-importée pendant la période. L'autorisation est retournée à l'Agence française
-de sécurité sanitaire des produits de santé dès que les opérations d'importation
-prennent fin et au plus tard à l'issue de la période couverte par cette
-autorisation, revêtue de la mention des quantités effectivement importées et des
-dates des opérations correspondantes.
+importée pendant la période. L'autorisation est retournée à l'Agence nationale
+de sécurité du médicament et des produits de santé dès que les opérations
+d'importation prennent fin et au plus tard à l'issue de la période couverte par
+cette autorisation, revêtue de la mention des quantités effectivement importées
+et des dates des opérations correspondantes.
 
 L'autorisation d'importation peut être suspendue ou supprimée par le directeur
-général de l'Agence française de sécurité sanitaire des produits de santé. Sauf
-en cas d'urgence, ces décisions ne peuvent intervenir qu'après que le titulaire
-de l'autorisation a été mis à même de présenter ses observations.
+général de l'Agence nationale de sécurité du médicament et des produits de
+santé. Sauf en cas d'urgence, ces décisions ne peuvent intervenir qu'après que
+le titulaire de l'autorisation a été mis à même de présenter ses observations.

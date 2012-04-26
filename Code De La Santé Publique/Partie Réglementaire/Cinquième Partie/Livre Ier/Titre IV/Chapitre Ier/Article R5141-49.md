@@ -14,8 +14,7 @@ c) Le directeur général de l'Agence nationale de sécurité sanitaire de
 l'alimentation, de l'environnement et du travail, ayant comme suppléant le
 directeur de l'Agence nationale du médicament vétérinaire ou son représentant ;
 
-d) Le président de la commission nationale de pharmacovigilance mentionnée à
-l'article R. 5121-159 ou son représentant ;
+d) (Abrogé)
 
 e) Un représentant du système national de toxicovigilance désigné par le
 ministre de la santé ;

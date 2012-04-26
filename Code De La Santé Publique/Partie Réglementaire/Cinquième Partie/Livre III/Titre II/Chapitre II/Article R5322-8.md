@@ -1,46 +1,24 @@
 Article R5322-8
 ----
-Le conseil d'administration fixe les orientations générales de la politique de
-l'agence. Il délibère en outre sur les matières suivantes :
+Le conseil d'administration se réunit au moins trois fois par an sur convocation
+de son président.
 
-1° L'organisation générale de l'agence et son règlement intérieur ;
+La convocation est de droit dans les trente jours suivant la demande qui en est
+faite par le ministre chargé de la santé, par le directeur général, ou par le
+tiers au moins des membres du conseil d'administration.
 
-2° Les contrats d'objectifs et de moyens passés entre l'agence et l'Etat ;
+Sauf urgence, les membres reçoivent, huit jours au moins avant la date de la
+réunion, l'ordre du jour et les documents nécessaires à l'examen des sujets qui
+y sont inscrits.
 
-3° Le budget de l'agence et ses modifications, le compte financier et
-l'affectation des résultats ainsi que le tableau des emplois ;
+En cas d'urgence motivée, les délibérations du conseil d'administration peuvent
+être adoptées par visioconférence selon des modalités définies par le règlement
+intérieur du conseil d'administration.
 
-4° Les emprunts ;
-
-5° Les dons et legs ;
-
-6° Les conditions de la gestion administrative et financière des personnels
-contractuels de droit public et de la rémunération des personnels contractuels
-de droit privé ainsi que des autres personnes qui apportent leur concours à
-l'agence ;
-
-7° Les acquisitions, aliénations, échanges d'immeubles, les baux et locations
-les concernant et comportant des engagements d'une durée supérieure à celle
-qu'il fixe ;
-
-8° Les contrats, marchés ou conventions d'un montant supérieur à un seuil qu'il
-détermine ;
-
-9° Les actions en justice et les transactions ;
-
-10° Les décisions relatives à la mise en oeuvre de traitements automatisés
-d'informations nominatives mentionnées par l'article 19 du décret n° 78-774 du
-17 juillet 1978 pris pour l'application des chapitres Ier à IV et VII de la loi
-n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés ;
-
-11° Les participations de l'agence à des groupements d'intérêt public ;
-
-12° Le rapport annuel sur l'activité de l'agence mentionné à l'article L.
-5311-1, présenté par le directeur général.
-
-Le conseil d'administration peut déléguer au directeur général les décisions
-mentionnées aux 7° et 9° du présent article.
-
-Il est informé chaque année de l'ensemble des contrats, marchés ou conventions
-conclus pendant l'année précédente.
+En cas d'impossibilité de recours à la visioconférence, les membres du conseil
+d'administration peuvent, dans les mêmes conditions et selon les mêmes
+modalités, être consultés par écrit. Les observations sur le projet de
+délibération par l'un des membres sont immédiatement communiquées aux autres
+membres. Tout membre peut s'opposer à ce mode de consultation : dans ce cas, il
+est mis un terme à la procédure et le conseil d'administration est convoqué pour
+délibérer.

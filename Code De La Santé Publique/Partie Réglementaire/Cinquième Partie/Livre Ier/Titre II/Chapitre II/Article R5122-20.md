@@ -1,8 +1,8 @@
 Article R5122-20
 ----
 La demande tendant à obtenir le visa mentionné à l'article R. 5122-19 est
-adressée au directeur général de l'Agence française de sécurité sanitaire des
-produits de santé par le fabricant ou le distributeur du produit. Elle est
+adressée au directeur général de l'Agence nationale de sécurité du médicament et
+des produits de santé par le fabricant ou le distributeur du produit. Elle est
 accompagnée :
 
 1° Du projet de publicité, quel qu'en soit le support, et notamment d'un

@@ -1,7 +1,7 @@
 Article R1223-4
 ----
-La décision du directeur général de l'Agence française de sécurité sanitaire des
-produits de santé portant sur la demande d'agrément ou de renouvellement
+La décision du directeur général de l'Agence nationale de sécurité du médicament
+et des produits de santé portant sur la demande d'agrément ou de renouvellement
 d'agrément intervient dans un délai de trois mois à compter de la date de
 réception de la demande accompagnée d'un dossier complet et recevable. A défaut
 de réponse à l'expiration de ce délai, l'agrément est réputé refusé lorsqu'il

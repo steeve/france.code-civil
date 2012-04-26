@@ -24,6 +24,6 @@ son sein le contrôle de cette remise et le suivi des échantillons ;
 5° Chaque échantillon est accompagné d'une copie du résumé des caractéristiques
 du produit, mentionné à l'article R. 5121-21.
 
-Le directeur général de l'Agence française de sécurité sanitaire des produits de
-santé peut restreindre, en raison d'un risque possible pour la santé publique,
-la distribution d'échantillons de certains médicaments.
+Le directeur général de l' Agence nationale de sécurité du médicament et des
+produits de santé peut restreindre, en raison d'un risque possible pour la santé
+publique, la distribution d'échantillons de certains médicaments.

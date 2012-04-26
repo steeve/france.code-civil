@@ -2,13 +2,12 @@ Article R513-10-8
 ----
 Le système national de vigilance comprend :
 
-1° L'Agence française de sécurité sanitaire des produits de santé ;
+1° L'Agence nationale de sécurité du médicament et des produits de santé ;
 
 2° Les autorités administratives compétentes désignées selon les modalités
 prévues à l'article L. 221-1-3 du code de la consommation ;
 
-3° Le groupe d'experts sur l'évaluation des risques des produits de tatouage
-mentionné à l'article R. 513-10-4 ;
+3° (Abrogé) ;
 
 4° Les professionnels de santé ;
 

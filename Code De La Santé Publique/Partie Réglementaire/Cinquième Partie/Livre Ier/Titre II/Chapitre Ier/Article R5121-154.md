@@ -2,10 +2,9 @@ Article R5121-154
 ----
 Le système national de pharmacovigilance comprend :
 
-1° L'Agence française de sécurité sanitaire des produits de santé ;
+1° L'Agence nationale de sécurité du médicament et des produits de santé ;
 
-2° La Commission nationale de pharmacovigilance, mentionnée à l'article R.
-5121-159, et son comité technique, prévu à l'article R. 5121-164 ;
+2° (Abrogé)
 
 3° Les centres régionaux de pharmacovigilance mentionnés à l'article R. 5121-167
 ;

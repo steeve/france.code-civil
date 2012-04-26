@@ -7,11 +7,11 @@ les conditions prévues au deuxième alinéa de l'article L. 1245-1.
 
 En cas d'incident susceptible d'affecter la sécurité sanitaire, le ministre
 chargé de la recherche en informe immédiatement le directeur général de l'Agence
-française de sécurité sanitaire des produits de santé. Il peut prononcer une
-suspension provisoire, à titre conservatoire, de tout ou partie de
+nationale de sécurité du médicament et des produits de santé. Il peut prononcer
+une suspension provisoire, à titre conservatoire, de tout ou partie de
 l'autorisation.
 
 Le ministre chargé de la recherche informe le ministre chargé des douanes, le
 directeur général de l'Agence de la biomédecine et le directeur général de
-l'Agence française de sécurité sanitaire des produits de santé des décisions
-ainsi prononcées.
+l'Agence nationale de sécurité du médicament et des produits de santé des
+décisions ainsi prononcées.

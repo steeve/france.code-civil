@@ -12,7 +12,7 @@ produits qui en contiennent.
 
 Des dérogations aux dispositions énoncées ci-dessus peuvent être accordées aux
 fins de recherche et de contrôle ainsi que de fabrication de dérivés autorisés
-par le directeur général de l'Agence française de sécurité sanitaire des
+par le directeur général de l'Agence nationale de sécurité du médicament et des
 produits de santé.
 
 La culture, l'importation, l'exportation et l'utilisation industrielle et

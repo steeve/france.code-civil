@@ -1,11 +1,11 @@
 Article R5121-51-5
 ----
 A défaut d'accord au sein du groupe de coordination, la procédure d'arbitrage
-communautaire prévue aux articles 32 à 34 de la directive 2001/83/CE du
+communautaire prévue aux articles 32 à 34 de la directive 2001/83/ CE du
 Parlement européen et du Conseil s'applique. Lorsque la France est l'Etat de
-référence, il appartient au directeur général de l'Agence française de sécurité
-sanitaire des produits de santé de déclencher cette procédure en informant
-l'Agence européenne des médicaments de ce désaccord.
+référence, il appartient au directeur général de l'Agence nationale de sécurité
+du médicament et des produits de santé de déclencher cette procédure en
+informant l'Agence européenne des médicaments de ce désaccord.
 
 Le directeur général de l'agence délivre, refuse, modifie ou retire
 l'autorisation de mise sur le marché du médicament concerné conformément à la

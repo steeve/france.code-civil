@@ -2,9 +2,9 @@ Article R1245-3
 ----
 La demande d'autorisation ou de renouvellement d'autorisation d'activité
 d'importation ou d'exportation à des fins thérapeutiques est adressée,
-accompagnée d'un dossier, au directeur général de l'Agence française de sécurité
-sanitaire des produits de santé, sous pli recommandé avec demande d'avis de
-réception ou déposée contre récépissé.
+accompagnée d'un dossier, au directeur général de l'Agence nationale de sécurité
+du médicament et des produits de santé, sous pli recommandé avec demande d'avis
+de réception ou déposée contre récépissé.
 
 Le dossier comporte :
 
@@ -32,6 +32,6 @@ conjointement déposée, conformément aux dispositions des articles R. 1245-9 e
 suivants.
 
 Un arrêté du ministre chargé de la santé, pris sur proposition du directeur
-général de l'Agence française de sécurité sanitaire des produits de santé, fixe
-le modèle du dossier, ainsi que la liste des pièces et des informations
-complémentaires nécessaires à l'instruction de la demande.
+général de l'Agence nationale de sécurité du médicament et des produits de
+santé, fixe le modèle du dossier, ainsi que la liste des pièces et des
+informations complémentaires nécessaires à l'instruction de la demande.

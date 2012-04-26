@@ -1,8 +1,8 @@
 Article R513-10-10
 ----
-L'Agence française de sécurité sanitaire des produits de santé assure la mise en
-œuvre du système national de vigilance sur les produits de tatouage. Elle en
-définit les orientations, anime et coordonne les actions des différents
+L'Agence nationale de sécurité du médicament et des produits de santé assure la
+mise en œuvre du système national de vigilance sur les produits de tatouage.
+Elle en définit les orientations, anime et coordonne les actions des différents
 intervenants et veille au respect des dispositions prévues par la présente
 section.
 

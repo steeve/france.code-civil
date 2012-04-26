@@ -2,9 +2,10 @@ Article R5139-26
 ----
 Les dispositions de la présente section s'appliquent aux seuls médicaments
 figurant sur la liste fixée par arrêté du ministre chargé de la santé pris sur
-proposition du directeur général de l'Agence française de sécurité sanitaire des
-produits de santé et après avis du directeur général de l'Agence nationale de
-sécurité sanitaire de l'alimentation, de l'environnement et du travail.
+proposition du directeur général de l'Agence nationale de sécurité du médicament
+et des produits de santé et après avis du directeur général de l'Agence
+nationale de sécurité sanitaire de l'alimentation, de l'environnement et du
+travail.
 
 Les dispositions de la présente section ne s'appliquent pas aux médicaments à
 usage humain ou aux médicaments vétérinaires contenant des micro-organismes ou

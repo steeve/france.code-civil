@@ -22,10 +22,10 @@ juillet 2009 portant réforme de l'hôpital et relative aux patients, à la sant
 et aux territoires, et L. 6133-7 à assurer les missions de ces établissements
 ou, à titre individuel, par les membres de professions de santé ;
 
-4° De transmettre au directeur général de l'Agence française de sécurité
-sanitaire des produits de santé les informations recueillies en application des
-1°, 2° et 3°, celles qui concernent des effets indésirables graves devant lui
-être transmises sans délai ;
+4° De transmettre au directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé les informations recueillies en application
+des 1°, 2° et 3°, celles qui concernent des effets indésirables graves devant
+lui être transmises sans délai ;
 
 5° De remplir auprès du ministre chargé de la santé et du directeur général de
 l'agence une mission d'expertise, en conduisant les études et travaux qui leur

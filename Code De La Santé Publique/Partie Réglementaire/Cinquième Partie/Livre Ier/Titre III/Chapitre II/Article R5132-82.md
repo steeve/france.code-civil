@@ -14,9 +14,9 @@ même article :
 4° La mention des pertes résultant de ces opérations.
 
 Décharge de ces pertes est donnée sur ce registre ou sur les éditions des
-enregistrements par les inspecteurs de l'Agence française de sécurité sanitaire
-des produits de santé, si elles leur paraissent résulter normalement des
-transformations ou manipulations déclarées.
+enregistrements par les inspecteurs de l'Agence nationale de sécurité du
+médicament et des produits de santé, si elles leur paraissent résulter
+normalement des transformations ou manipulations déclarées.
 
 Ce registre, les enregistrements et les éditions de ces enregistrements par
 périodes maximales d'un mois ainsi que les documents attestant la destruction
@@ -33,6 +33,6 @@ Les substances ou préparations, plantes ou parties de plantes et médicaments
 classés comme stupéfiants sont détruits sous la responsabilité du titulaire de
 l'autorisation mentionnée à l'article R. 5132-74, en présence de ce dernier et
 d'un huissier. Le titulaire de l'autorisation adresse une copie du document
-attestant cette destruction au directeur général de l'Agence française de
-sécurité sanitaire des produits de santé lors de l'état annuel prévu à l'article
-R. 5132-83.
+attestant cette destruction au directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé lors de l'état annuel prévu à
+l'article R. 5132-83.

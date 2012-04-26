@@ -1,17 +1,17 @@
 Article R1223-4-1
 ----
 Sont soumises à autorisation écrite préalable du directeur général de l'Agence
-française de sécurité sanitaire des produits de santé toutes modifications des
-éléments de l'agrément relatives :
+nationale de sécurité du médicament et des produits de santé toutes
+modifications des éléments de l'agrément relatives :
 
-- à une nouvelle activité transfusionnelle ;
+-à une nouvelle activité transfusionnelle ;
 
-- aux locaux dans lesquels sont assurées ces activités ainsi qu'aux équipements
+-aux locaux dans lesquels sont assurées ces activités ainsi qu'aux équipements
 techniques soumis à une qualification au sens des bonnes pratiques mentionnées à
 l'article L. 1223-3 lorsque ces modifications de locaux ou d'équipements
 entraînent un changement de la circulation des personnes et des produits ;
 
-- à la création de nouveaux locaux dans lesquels sont exercées les activités
+-à la création de nouveaux locaux dans lesquels sont exercées les activités
 agréées.
 
 La décision du directeur général intervient dans un délai de trois mois à

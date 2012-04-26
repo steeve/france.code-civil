@@ -1,10 +1,10 @@
 Article R1243-33
 ----
-Afin de permettre à l'Agence française de sécurité sanitaire des produits de
-santé de procéder à l'évaluation prévue à l'article L. 1243-5, la demande
+Afin de permettre à l'Agence nationale de sécurité du médicament et des produits
+de santé de procéder à l'évaluation prévue à l'article L. 1243-5, la demande
 d'autorisation est accompagnée d'un dossier dont le contenu est fixé par arrêté
 du ministre chargé de la santé sur proposition du directeur général de l'Agence
-française de sécurité sanitaire des produits de santé et qui comprend :
+nationale de sécurité du médicament et des produits de santé et qui comprend :
 
 1° Les noms et les adresses des établissements assurant le prélèvement des
 tissus ou des cellules y compris lorsque les cellules sont issues d'un organe ;
@@ -37,12 +37,12 @@ justifiant de l'utilisation thérapeutique proposée pour le produit.
 
 La demande d'autorisation ou de renouvellement d'autorisation prévue à l'article
 L. 1243-5 est adressée sous pli recommandé avec demande d'avis de réception ou
-déposée contre récépissé au directeur général de l'Agence française de sécurité
-sanitaire des produits de santé par les établissements et les organismes
+déposée contre récépissé au directeur général de l'Agence nationale de sécurité
+du médicament et des produits de santé par les établissements et les organismes
 autorisés à effectuer les activités mentionnées à l'article R. 1243-1.
 
 Le dossier est réputé complet si, dans un délai d'un mois à compter de sa
-réception, le directeur général de l'Agence française de sécurité sanitaire des
-produits de santé n'a pas fait connaître au demandeur, par lettre recommandée
-avec demande d'avis de réception, les informations manquantes ou incomplètes et
-mentionnant le délai imparti pour les fournir.
+réception, le directeur général de l'Agence nationale de sécurité du médicament
+et des produits de santé n'a pas fait connaître au demandeur, par lettre
+recommandée avec demande d'avis de réception, les informations manquantes ou
+incomplètes et mentionnant le délai imparti pour les fournir.

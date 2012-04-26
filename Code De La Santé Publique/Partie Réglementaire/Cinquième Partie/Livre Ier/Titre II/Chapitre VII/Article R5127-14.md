@@ -1,10 +1,10 @@
 Article R5127-14
 ----
 Une copie du rapport ou du procès-verbal de prélèvement est envoyée, par son ou
-ses auteurs, selon le cas, au directeur général de l'Agence française de
-sécurité sanitaire des produits de santé ou au directeur général de l'Agence
-nationale de sécurité sanitaire de l'alimentation, de l'environnement et du
-travail.
+ses auteurs, selon le cas, au directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé ou au directeur général de
+l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement
+et du travail.
 
 L'agence indique sans délai aux agents auteurs du rapport ou du procès-verbal si
 elle est destinataire des échantillons prélevés, en précisant dans ce cas celui

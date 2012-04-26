@@ -6,5 +6,5 @@ de transfusion sanguine signalent sans délai au correspondant local de
 réactovigilance les incidents ou risques d'incidents mettant en cause un
 dispositif médical de diagnostic in vitro dont ils ont connaissance. En cas
 d'urgence, le professionnel de santé transmet le signalement directement au
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé.
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé.

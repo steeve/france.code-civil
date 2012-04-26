@@ -1,10 +1,10 @@
 Article R5121-155
 ----
-L'Agence française de sécurité sanitaire des produits de santé assure la mise en
-oeuvre du système national de pharmacovigilance. Elle définit les orientations
-de la pharmacovigilance, anime et coordonne les actions des différents
-intervenants et veille au respect des procédures de surveillance organisées par
-la présente section.
+L'Agence nationale de sécurité du médicament et des produits de santé assure la
+mise en oeuvre du système national de pharmacovigilance. Elle définit les
+orientations de la pharmacovigilance, anime et coordonne les actions des
+différents intervenants et veille au respect des procédures de surveillance
+organisées par la présente section.
 
 Elle reçoit les déclarations et les rapports qui sont adressés à son directeur
 général, en application des articles R. 5121-171, R. 5121-172 et R. 5121-173,

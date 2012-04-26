@@ -1,7 +1,7 @@
 Article R1245-12
 ----
 Lorsque, en application du quatrième alinéa de l'article L. 1245-5, le directeur
-général de l'Agence française de sécurité sanitaire des produits de santé
+général de l'Agence nationale de sécurité du médicament et des produits de santé
 envisage d'interdire l'exportation d'un produit mentionné à l'article R. 1245-1,
 il notifie au préalable son intention et ses motifs, liés à l'absence de qualité
 ou de sécurité du produit, à l'établissement ou à l'organisme qui envisage

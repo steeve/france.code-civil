@@ -1,10 +1,13 @@
 Article R5322-13
 ----
-A la demande des ministres chargés de l'économie, de la santé et de la sécurité
-sociale, le directeur général communique toute information et réalise toute
-étude que ces ministres jugent utiles à l'exercice de leur compétence.
-
-En outre, les ministres chargés de la santé et de la sécurité sociale peuvent
-demander à tout moment à l'agence, pour des motifs tirés de l'intérêt de la
-santé publique ou de l'assurance maladie, un rapport sur tout produit ou toute
-catégorie de produit relevant de son domaine de compétence.
+Les délibérations du conseil d'administration portant sur les matières
+mentionnées aux 2°, 7°, 9°, 10° et 15° de l'article R. 5322-11 ne sont
+exécutoires, qu'après approbation expresse des ministres chargés de la santé et
+du budget dans les conditions fixées par le décret n° 99-575 du 8 juillet 1999
+susvisé. Les délibérations relatives au 14° de l'article R. 5322-11 sont
+exécutoires un mois après leur transmission au ministre chargé de la santé, au
+ministre chargé du budget et au ministre chargé de la fonction publique, sauf
+opposition de l'un ou de ces ministres. Les autres délibérations sont
+exécutoires un mois après leur transmission au ministre chargé de la santé et au
+ministre chargé du budget. En cas d'urgence, le ministre chargé de la santé peut
+autoriser l'exécution immédiate.

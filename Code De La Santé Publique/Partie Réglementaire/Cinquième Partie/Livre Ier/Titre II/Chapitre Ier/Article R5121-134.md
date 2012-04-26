@@ -1,7 +1,7 @@
 Article R5121-134
 ----
 Lorsque, en application du deuxième alinéa de l'article L. 5124-11, le directeur
-général de l'Agence française de sécurité sanitaire des produits de santé
+général de l'Agence nationale de sécurité du médicament et des produits de santé
 envisage d'interdire l'exportation d'un médicament, il notifie au préalable son
 intention et ses motifs à l'établissement pharmaceutique effectuant
 l'exportation.

@@ -12,10 +12,10 @@ l'article R. 1221-49, de tout effet indésirable grave survenu chez un donneur d
 sang et de tout effet indésirable survenu chez un receveur de produits sanguins
 labiles ainsi que de tout incident grave ;
 
-3° La communication à l'Agence française de sécurité sanitaire des produits de
-santé et au coordonnateur régional d'hémovigilance mentionné à l'article R.
-1221-32 des informations qu'ils sollicitent en application de l'article R.
-1221-33 ;
+3° La communication à l'Agence nationale de sécurité du médicament et des
+produits de santé et au coordonnateur régional d'hémovigilance mentionné à
+l'article R. 1221-32 des informations qu'ils sollicitent en application de
+l'article R. 1221-33 ;
 
 4° La communication à l'Institut de veille sanitaire des informations
 mentionnées au III de l'article R. 1221-36 ;
@@ -25,15 +25,15 @@ labiles distribués ou délivrés par son établissement de transfusion sanguine
 référent et la transmission à ces établissements des informations mentionnées au
 premier alinéa de l'article R. 1221-42 ;
 
-6° Le signalement à l'Agence française de sécurité sanitaire des produits de
-santé et au coordonnateur régional d'hémovigilance de toute difficulté
+6° Le signalement à l'Agence nationale de sécurité du médicament et des produits
+de santé et au coordonnateur régional d'hémovigilance de toute difficulté
 susceptible de compromettre la sécurité transfusionnelle ;
 
 7° Les investigations à entreprendre en cas d'urgence suite à des effets
 indésirables ou des incidents graves. Dans ce cas, il informe sans délai
-l'Agence française de sécurité sanitaire des produits de santé, qui décide de la
-poursuite ou de l'interruption de ces investigations, ainsi que le coordonnateur
-régional d'hémovigilance.
+l'Agence nationale de sécurité du médicament et des produits de santé, qui
+décide de la poursuite ou de l'interruption de ces investigations, ainsi que le
+coordonnateur régional d'hémovigilance.
 
 Le correspondant d'hémovigilance de l'Etablissement de transfusion sanguine est
 nommé, selon le cas, par le président de l'Etablissement français du sang sur
@@ -42,10 +42,10 @@ transfusion sanguine des armées. Il doit être médecin ou pharmacien.
 
 Des conditions particulières de qualification et de formation de ce
 correspondant peuvent être imposées par arrêté du ministre chargé de la santé
-pris sur proposition du directeur général de l'Agence française de sécurité
-sanitaire des produits de santé.
+pris sur proposition du directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé.
 
 Le nom du correspondant est communiqué par l'Etablissement français du sang ou
-par le centre de transfusion sanguine des armées à l'Agence française de
-sécurité sanitaire des produits de santé et au coordonnateur régional
+par le centre de transfusion sanguine des armées à l'Agence nationale de
+sécurité du médicament et des produits de santé et au coordonnateur régional
 d'hémovigilance concerné.

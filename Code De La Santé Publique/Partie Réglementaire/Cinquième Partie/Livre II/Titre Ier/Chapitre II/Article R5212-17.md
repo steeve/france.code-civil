@@ -8,9 +8,9 @@ dans l'un des établissements ou associations mentionnés à l'article R. 5212-1
 notamment lorsque ces utilisateurs ou tiers sont des membres des professions de
 santé ou des membres du personnel administratif ou technique ;
 
-2° Directement auprès du directeur général de l'Agence française de sécurité
-sanitaire des produits de santé dans les autres cas, en particulier lorsque les
-signalements sont effectués par les professionnels de santé exerçant à titre
+2° Directement auprès du directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé dans les autres cas, en particulier lorsque
+les signalements sont effectués par les professionnels de santé exerçant à titre
 libéral et par les fabricants ou leurs mandataires.
 
 Le correspondant local de matériovigilance transmet les signalements au

@@ -1,9 +1,9 @@
 Article R5121-68
 ----
 La demande tendant à obtenir l'autorisation temporaire d'utilisation prévue au a
-de l'article L. 5121-12 est adressée à l'Agence française de sécurité sanitaire
-des produits de santé par le titulaire des droits d'exploitation ou son
-mandataire.
+de l'article L. 5121-12 est adressée à l'Agence nationale de sécurité du
+médicament et des produits de santé par le titulaire des droits d'exploitation
+ou son mandataire.
 
 Elle est accompagnée d'un dossier comprenant :
 
@@ -40,9 +40,10 @@ dans un autre Etat membre de la Communauté européenne ou partie à l'accord su
 l'Espace économique européen ou dans un pays tiers ;
 
 8° Le cas échéant, la copie de tout avis scientifique rendu par l'Agence
-française de sécurité sanitaire des produits de santé, par l'Agence européenne
-des médicaments ou par l'autorité compétente d'un autre Etat membre de la
-Communauté européenne ou partie à l'accord sur l'Espace économique européen ;
+nationale de sécurité du médicament et des produits de santé, par l'Agence
+européenne des médicaments ou par l'autorité compétente d'un autre Etat membre
+de la Communauté européenne ou partie à l'accord sur l'Espace économique
+européen ;
 
 9° Le projet de protocole d'utilisation thérapeutique et de recueil
 d'informations défini à l'article R. 5121-69 ;

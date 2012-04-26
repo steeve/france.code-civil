@@ -1,14 +1,14 @@
 Article R5212-6
 ----
-Le directeur général de l'Agence française de sécurité sanitaire des produits de
-santé informe sans délai de tout incident ou risque d'incident défini à
-l'article L. 5212-2 :
+Le directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé informe sans délai de tout incident ou risque d'incident
+défini à l'article L. 5212-2 :
 
--l'Etablissement français du sang, pour ce qui concerne les dispositifs médicaux
-utilisés dans la collecte, la fabrication et l'administration de produits
-dérivés du sang ;
+- l'Etablissement français du sang, pour ce qui concerne les dispositifs
+médicaux utilisés dans la collecte, la fabrication et l'administration de
+produits dérivés du sang ;
 
--l'Agence de la biomédecine, pour ce qui concerne les dispositifs médicaux
+- l'Agence de la biomédecine, pour ce qui concerne les dispositifs médicaux
 utilisés dans la collecte, le traitement, la conservation et l'utilisation
 d'organes, tissus et cellules d'origine humaine.
 

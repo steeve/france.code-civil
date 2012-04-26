@@ -13,7 +13,7 @@ recherche.
 
 Le contenu du rapport et du résumé sont fixés, en tant que de besoin, par arrêté
 du ministre chargé de la santé, pris sur proposition du directeur général de
-l'Agence française de sécurité sanitaire des produits de santé pour les
+l'Agence nationale de sécurité du médicament et des produits de santé pour les
 recherches relevant de sa compétence.
 
 Après la fin de la recherche, si le promoteur a connaissance d'un fait nouveau

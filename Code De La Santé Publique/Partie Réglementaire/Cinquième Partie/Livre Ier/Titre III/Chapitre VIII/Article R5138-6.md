@@ -1,6 +1,6 @@
 Article R5138-6
 ----
-L'Agence française de sécurité sanitaire des produits de santé transmet à
+L'Agence nationale de sécurité du médicament et des produits de santé transmet à
 l'Agence européenne des médicaments, pour enregistrement dans la banque de
 données communautaire, les certificats de bonnes pratiques de fabrication
 qu'elle délivre.

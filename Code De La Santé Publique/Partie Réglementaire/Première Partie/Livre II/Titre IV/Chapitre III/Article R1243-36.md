@@ -6,8 +6,8 @@ santé font l'objet d'une nouvelle demande d'autorisation déposée et instruite
 dans les mêmes conditions que la demande initiale.
 
 Tout autre projet de modification est réputé autorisé si le directeur général de
-l'Agence française de sécurité sanitaire des produits de santé ne s'est pas
-prononcé dans un délai de deux mois à compter de la date de réception de la
+l'Agence nationale de sécurité du médicament et des produits de santé ne s'est
+pas prononcé dans un délai de deux mois à compter de la date de réception de la
 demande.
 
 Le directeur général de l'Agence de la biomédecine est informé des modifications

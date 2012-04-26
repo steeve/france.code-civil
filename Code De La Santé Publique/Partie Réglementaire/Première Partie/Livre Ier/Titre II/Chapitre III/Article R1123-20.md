@@ -20,5 +20,5 @@ pour l'investigateur.
 
 Le contenu et les modalités de présentation de ces différents documents sont
 précisés par arrêté du ministre chargé de la santé, pris sur proposition du
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé pour les recherches relevant de sa compétence.
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé pour les recherches relevant de sa compétence.

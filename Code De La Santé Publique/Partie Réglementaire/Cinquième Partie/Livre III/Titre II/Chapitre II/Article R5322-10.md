@@ -1,22 +1,15 @@
 Article R5322-10
 ----
-Le directeur général de l'Agence française de sécurité sanitaire des produits de
-santé est nommé pour une durée de trois ans renouvelable.
+Les décisions du conseil d'administration sont prises à la majorité des voix des
+membres présents.
 
-Il assure la direction de l'établissement. Il accomplit tous les actes qui ne
-sont pas réservés au conseil d'administration en vertu de l'article R. 5322-8.
+Les membres du conseil y compris le président disposent chacun d'une voix, à
+l'exception des représentants de l'Etat mentionnés au 1° de l'article R. 5322-1
+qui disposent chacun de deux voix. Le président a voix prépondérante en cas de
+partage égal des voix.
 
-Il propose chaque année au conseil d'administration les orientations générales
-de la politique de l'agence.
-
-Il prépare les délibérations du conseil d'administration et en assure
-l'exécution.
-
-Il recrute, nomme et gère les agents contractuels et les personnels
-scientifiques et techniques de laboratoire de l'agence. Il a autorité sur
-l'ensemble des personnels de l'établissement.
-
-Il représente l'agence en justice et dans tous les actes de la vie civile. Il
-passe au nom de l'agence les contrats, conventions et marchés et les actes
-d'acquisition, de vente et de transaction, sous réserve des attributions
-conférées au conseil d'administration par les 7° et 8° de l'article R. 5322-8.
+Le conseil d'administration ne peut délibérer valablement que si un tiers au
+moins de ses membres détenant au moins la moitié des voix sont présents. Si le
+quorum n'est pas atteint, le conseil est convoqué sur le même ordre du jour dans
+les quinze jours. Il délibère alors valablement quel que soit le nombre de
+membres présents.

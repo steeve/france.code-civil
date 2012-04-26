@@ -67,5 +67,5 @@ conserver en vertu des articles R. 5139-29, R. 5139-30 et R. 5139-31.
 
 En cas de fermeture définitive de l'officine ou du domicile d'exercice
 professionnel du vétérinaire, ce registre ou les enregistrements et les éditions
-des enregistrements sont déposés à l'Agence française de sécurité sanitaire des
-produits de santé.
+des enregistrements sont déposés à l'Agence nationale de sécurité du médicament
+et des produits de santé.

@@ -1,10 +1,10 @@
 Article R1243-4
 ----
 La demande d'autorisation d'activité ou de renouvellement d'autorisation
-d'activité est adressée au directeur général de l'Agence française de sécurité
-sanitaire des produits de santé, en trois exemplaires, par la personne morale
-qui sollicite cette autorisation, sous pli recommandé avec demande d'avis de
-réception, ou déposée contre récépissé.
+d'activité est adressée au directeur général de l'Agence nationale de sécurité
+du médicament et des produits de santé, en trois exemplaires, par la personne
+morale qui sollicite cette autorisation, sous pli recommandé avec demande d'avis
+de réception, ou déposée contre récépissé.
 
 Cette demande précise, pour chaque établissement ou organisme et, le cas
 échéant, pour chacun des sites de cet établissement, les activités pour
@@ -60,7 +60,7 @@ seront cédés les tissus, leurs dérivés, les cellules ou les préparations de
 thérapie cellulaire.
 
 Le dossier est réputé complet si, dans un délai de deux mois à compter de sa
-réception, le directeur général de l'Agence française de sécurité sanitaire des
-produits de santé n'a pas fait connaître au demandeur, par lettre recommandée
-avec demande d'avis de réception, les informations manquantes ou incomplètes et
-mentionnant le délai imparti pour les fournir.
+réception, le directeur général de l'Agence nationale de sécurité du médicament
+et des produits de santé n'a pas fait connaître au demandeur, par lettre
+recommandée avec demande d'avis de réception, les informations manquantes ou
+incomplètes et mentionnant le délai imparti pour les fournir.

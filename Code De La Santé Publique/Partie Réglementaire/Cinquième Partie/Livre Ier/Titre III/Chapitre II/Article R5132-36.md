@@ -65,8 +65,8 @@ des produits dénaturés doivent respecter la réglementation en vigueur en mati
 d'élimination des déchets. Un document attestant la destruction est tenu, par le
 titulaire, à la disposition des autorités de contrôle. Le modèle du document
 attestant la destruction est fixé par arrêté des ministres chargés de la santé
-et de l'agriculture après avis du directeur général de l'Agence française de
-sécurité sanitaire des produits de santé. Ces dispositions s'appliquent
+et de l'agriculture après avis du directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé. Ces dispositions s'appliquent
 également aux reliquats issus du déconditionnement de spécialités.
 
 Le registre, les enregistrements informatiques et les éditions de ces

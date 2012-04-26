@@ -1,8 +1,8 @@
 Article R5138-2
 ----
 Le dossier descriptif prévu à l'article L. 5138-1 et accompagnant la déclaration
-est adressé à l'Agence française de sécurité sanitaire des produits de santé par
-envoi recommandé avec demande d'avis de réception. Il comporte les
+est adressé à l'Agence nationale de sécurité du médicament et des produits de
+santé par envoi recommandé avec demande d'avis de réception. Il comporte les
 renseignements et informations suivants :
 
 1° Des renseignements administratifs relatifs à l'établissement où s'exerce

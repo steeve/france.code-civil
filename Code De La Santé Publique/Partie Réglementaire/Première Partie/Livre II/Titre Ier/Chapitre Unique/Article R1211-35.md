@@ -1,7 +1,7 @@
 Article R1211-35
 ----
-Le directeur général de l'Agence française de sécurité sanitaire des produits de
-santé :
+Le directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé :
 
 1° Fixe les modalités des échanges d'informations entre les différents
 intervenants du système national de biovigilance ;

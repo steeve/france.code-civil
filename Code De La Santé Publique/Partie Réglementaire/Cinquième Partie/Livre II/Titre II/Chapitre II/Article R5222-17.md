@@ -16,4 +16,5 @@ Pour toute livraison à une personne morale ou physique, ces informations sont
 portées sur un document qui est joint à la livraison. Ces informations sont
 conservées sous la forme de factures, sur un support informatique ou sous toute
 autre forme appropriée et sont tenues pendant une période de cinq ans à la
-disposition de l'Agence française de sécurité sanitaire des produits de santé.
+disposition de l'Agence nationale de sécurité du médicament et des produits de
+santé.

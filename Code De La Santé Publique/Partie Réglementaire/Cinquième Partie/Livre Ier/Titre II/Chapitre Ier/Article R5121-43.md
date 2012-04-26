@@ -23,5 +23,5 @@ Les justifications susceptibles d'être fournies par le demandeur pour démontre
 qu'il n'est pas en mesure de fournir des renseignements complets sur
 l'efficacité et la sécurité du médicament dans des conditions normales d'emploi
 sont déterminées par arrêté du ministre chargé de la santé, sur proposition du
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé.
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé.

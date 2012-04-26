@@ -5,9 +5,9 @@ Les correspondants locaux de réactovigilance sont chargés :
 1° D'enregistrer et d'analyser tout incident ou risque d'incident signalé
 susceptible d'être dû à un dispositif médical de diagnostic in vitro ;
 
-2° De déclarer sans délai au directeur général de l'Agence française de sécurité
-sanitaire des produits de santé tout incident ou risque d'incident dont ils ont
-connaissance ;
+2° De déclarer sans délai au directeur général de l'Agence nationale de sécurité
+du médicament et des produits de santé tout incident ou risque d'incident dont
+ils ont connaissance ;
 
 3° D'informer les fabricants, mandataires, importateurs ou distributeurs
 intéressés, des incidents ou risques d'incidents mentionnés ci-dessus, et d'en
@@ -26,5 +26,5 @@ l'évaluation des données concernant la sécurité et les performances des
 dispositifs médicaux de diagnostic in vitro.
 
 Les correspondants locaux peuvent être consultés par le directeur général de
-l'Agence française de sécurité sanitaire des produits de santé sur l'évaluation
-des incidents mentionnés à l'article R. 5232-17.
+l'Agence nationale de sécurité du médicament et des produits de santé sur
+l'évaluation des incidents mentionnés à l'article R. 5232-17.

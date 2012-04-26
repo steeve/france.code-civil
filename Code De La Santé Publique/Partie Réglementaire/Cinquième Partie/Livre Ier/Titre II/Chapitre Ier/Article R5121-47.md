@@ -1,10 +1,10 @@
 Article R5121-47
 ----
-Le directeur général de l'Agence française de sécurité sanitaire des produits de
-santé peut, par décision motivée indiquant les voies et délais de recours,
-modifier d'office, suspendre, pour une période ne pouvant pas excéder un an, ou
-retirer une autorisation de mise sur le marché. Sauf en cas d'urgence, la
-décision de modification d'office, de suspension ou de retrait ne peut
+Le directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé peut, par décision motivée indiquant les voies et délais de
+recours, modifier d'office, suspendre, pour une période ne pouvant pas excéder
+un an, ou retirer une autorisation de mise sur le marché. Sauf en cas d'urgence,
+la décision de modification d'office, de suspension ou de retrait ne peut
 intervenir qu'après que le titulaire de l'autorisation a été invité à présenter
 ses observations.
 

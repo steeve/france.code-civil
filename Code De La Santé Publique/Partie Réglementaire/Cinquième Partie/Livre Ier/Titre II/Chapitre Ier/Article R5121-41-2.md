@@ -1,7 +1,7 @@
 Article R5121-41-2
 ----
 Pour les médicaments à usage humain autres que ceux mentionnés à l'article 1er
-du règlement (CE) n° 1084 / 2003 de la Commission du 3 juin 2003 concernant
+du règlement (CE) n° 1084/2003 de la Commission du 3 juin 2003 concernant
 l'examen des modifications des termes d'une autorisation de mise sur le marché
 délivrée par l'autorité compétente d'un Etat membre, les modifications des
 termes de l'autorisation de mise sur le marché doivent être préalablement
@@ -26,14 +26,14 @@ demande d'autorisation de mise sur le marché conformément à l'article R.
 nécessitant pas d'évaluation mais une simple vérification de conformité de la
 modification proposée aux critères et conditions prévus pour ce type de
 modification par arrêté du ministre chargé de la santé pris sur proposition du
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé ;
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé ;
 
 3° Modification de type IB : toute modification nécessitant une évaluation
 technique de la modification proposée et répondant aux critères et conditions
 prévus pour ce type de modification par arrêté du ministre chargé de la santé
-pris sur proposition du directeur général de l'Agence française de sécurité
-sanitaire des produits de santé ;
+pris sur proposition du directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé ;
 
 4° Modification de type II : toute modification ne répondant pas aux critères et
 conditions mentionnés aux 1°, 2° et 3°.

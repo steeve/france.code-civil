@@ -20,10 +20,11 @@ l'objet de l'autorisation de mise sur le marché mentionnée à l'article L.
 
 Les fabricants de dispositifs médicaux de diagnostic in vitro et les fabricants
 de produits thérapeutiques annexes déclarent leur activité d'importation,
-préalablement à sa réalisation, au directeur général de l'Agence française de
-sécurité sanitaire des produits de santé. Le modèle de cette déclaration est
-fixé par arrêté du ministre chargé de la santé sur proposition du directeur
-général de l'Agence française de sécurité sanitaire des produits de santé.
+préalablement à sa réalisation, au directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé. Le modèle de cette déclaration
+est fixé par arrêté du ministre chargé de la santé sur proposition du directeur
+général de l'Agence nationale de sécurité du médicament et des produits de
+santé.
 
 Les fabricants de spécialités pharmaceutiques ou de médicaments, fabriqués
 industriellement ou selon une méthode dans laquelle intervient un processus

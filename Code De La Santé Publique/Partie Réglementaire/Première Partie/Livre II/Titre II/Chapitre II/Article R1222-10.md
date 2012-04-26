@@ -26,8 +26,9 @@ Le ministre chargé de la santé nomme le président du conseil scientifique par
 les membres de ce conseil.
 
 Le directeur général de la santé ou son représentant et le président du conseil
-scientifique de l'Agence française de sécurité sanitaire des produits de santé
-peuvent assister aux séances du conseil scientifique avec voix consultative.
+scientifique de l'Agence nationale de sécurité du médicament et des produits de
+santé peuvent assister aux séances du conseil scientifique avec voix
+consultative.
 
 Le conseil scientifique se réunit au moins trois fois par an, sur convocation de
 son président, à son initiative ou à la demande du président de l'Etablissement

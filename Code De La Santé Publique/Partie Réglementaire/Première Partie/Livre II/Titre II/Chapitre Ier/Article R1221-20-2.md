@@ -10,8 +10,8 @@ effet à la date de l'autorisation du dépôt de sang.
 
 Un arrêté du ministre chargé de la santé, pris après avis du président de
 l'Etablissement français du sang, du directeur du centre de transfusion sanguine
-des armées et du directeur général de l'Agence française de sécurité sanitaire
-des produits de santé, définit le modèle type de la convention, qui comporte
-obligatoirement des clauses relatives au fonctionnement du dépôt de sang, aux
-personnels et à leurs qualifications et aux matériels de conservation des
-produits sanguins labiles.
+des armées et du directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé, définit le modèle type de la convention,
+qui comporte obligatoirement des clauses relatives au fonctionnement du dépôt de
+sang, aux personnels et à leurs qualifications et aux matériels de conservation
+des produits sanguins labiles.

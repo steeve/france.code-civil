@@ -15,12 +15,12 @@ résultant de ces opérations ;
 transformation.
 
 Cet état, qui couvre l'année civile écoulée, est adressé au plus tard le 15
-février à l'Agence française de sécurité sanitaire des produits de santé.
+février à l'Agence nationale de sécurité du médicament et des produits de santé.
 
 L'autorisation prévue à l'article R. 5132-74 peut imposer à son titulaire
 l'établissement et la production au cours de chaque année civile de plusieurs
 états récapitulatifs.
 
 En outre, les établissements mentionnés au 5° de l'article R. 5124-2 sont tenus,
-sur demande du directeur général de l'Agence française de sécurité sanitaire des
-produits de santé, de transmettre les quantités cédées mensuellement.
+sur demande du directeur général de l'Agence nationale de sécurité du médicament
+et des produits de santé, de transmettre les quantités cédées mensuellement.

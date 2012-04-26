@@ -2,9 +2,9 @@ Article R5222-3
 ----
 Le système national de réactovigilance comprend :
 
-1° L'Agence française de sécurité sanitaire des produits de santé ;
+1° L'Agence nationale de sécurité du médicament et des produits de santé ;
 
-2° La Commission nationale des dispositifs médicaux de diagnostic in vitro ;
+2° (Abrogé) ;
 
 3° L'Etablissement français du sang ;
 

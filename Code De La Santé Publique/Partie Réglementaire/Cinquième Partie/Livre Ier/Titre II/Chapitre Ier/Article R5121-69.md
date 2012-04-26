@@ -26,13 +26,13 @@ au premier alinéa de l'article R. 5121-171 ;
 
 b) Le contenu et la périodicité des informations prévues à l'article R. 5121-171
 devant être fournies par le titulaire de l'autorisation au directeur général de
-l'Agence française de sécurité sanitaire des produits de santé ;
+l'Agence nationale de sécurité du médicament et des produits de santé ;
 
 6° Les modalités de l'information des patients sur le médicament et la portée
 exacte de l'autorisation dont il fait l'objet.
 
 Ce protocole, tel qu'il a été approuvé par le directeur général de l'Agence
-française de sécurité sanitaire des produits de santé, est porté par le
+nationale de sécurité du médicament et des produits de santé, est porté par le
 titulaire de l'autorisation à la connaissance des médecins susceptibles de
 prescrire le médicament et des pharmaciens susceptibles de le délivrer ainsi que
 des centres régionaux de pharmacovigilance mentionnés à l'article R. 5121-167 et

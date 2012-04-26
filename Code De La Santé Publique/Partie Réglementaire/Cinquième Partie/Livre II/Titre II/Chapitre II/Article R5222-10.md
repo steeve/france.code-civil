@@ -11,5 +11,5 @@ de coopération sanitaire peut être le correspondant de réactovigilance d'un
 
 Dès sa nomination, l'identité et la qualité du correspondant local de
 réactovigilance sont communiquées par le responsable de l'établissement au
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé.
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé.

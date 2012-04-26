@@ -10,9 +10,9 @@ dérogatoire prévue à l'article précité.
 L'avis de la Haute Autorité de santé mentionné à l'alinéa précédent est rendu
 dans le délai de six mois à compter de la date à laquelle il a été demandé.
 
-L'Agence française de sécurité sanitaire des produits de santé, consultée par la
-Haute Autorité de santé en application des dispositions du premier alinéa de
-l'article L. 162-17-2-1, communique son avis, dans le délai de trois mois
+L'Agence nationale de sécurité du médicament et des produits de santé, consultée
+par la Haute Autorité de santé en application des dispositions du premier alinéa
+de l'article L. 162-17-2-1, communique son avis, dans le délai de trois mois
 suivant sa saisine. Cet avis porte notamment sur l'efficacité présumée et les
 effets indésirables éventuels de la spécialité pharmaceutique, du produit ou de
 la prestation dans l'utilisation envisagée et mentionne, le cas échéant,

@@ -27,10 +27,10 @@ ou les codes sous lesquels les prestations sont inscrites sur la liste prévue �
 l'article L. 165-1 ainsi que le nom du distributeur effectuant la déclaration.
 
 III.-La déclaration prévue aux I et II est effectuée auprès de l'Agence
-française de sécurité sanitaire des produits de santé par voie électronique,
-selon des modalités techniques définies et portées à la connaissance des
-intéressés par l'agence, permettant d'assurer la sécurité des informations
-transmises.
+nationale de sécurité du médicament et des produits de santé par voie
+électronique, selon des modalités techniques définies et portées à la
+connaissance des intéressés par l'agence, permettant d'assurer la sécurité des
+informations transmises.
 
 La déclaration est faite auprès de l'agence dans le délai de trois mois à
 compter de l'inscription, selon l'une des modalités prévues à l'article R.
@@ -42,6 +42,6 @@ l'application du présent article, est réputée effectuée à la date de premi�
 commercialisation du produit ou de la prestation comportant le ou les codes
 mentionnés aux I et II.
 
-Les déclarations reçues par l'Agence française de sécurité sanitaire des
+Les déclarations reçues par l'Agence nationale de sécurité du médicament et des
 produits de santé au titre des dispositions du présent article sont rendues
 publiques sur le site de l'agence.

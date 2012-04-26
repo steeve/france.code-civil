@@ -4,10 +4,9 @@ Le système national de matériovigilance comprend :
 
 1° A l'échelon national :
 
-a) L'Agence française de sécurité sanitaire des produits de santé ;
+a) L'Agence nationale de sécurité du médicament et des produits de santé ;
 
-b) La Commission nationale de sécurité sanitaire des dispositifs médicaux prévue
-à l'article R. 5212-7 ;
+b) (Abrogé) ;
 
 2° A l'échelon local :
 

@@ -8,6 +8,6 @@ fabricants des médicaments dans la composition desquels entre cette matière
 première.
 
 Si un certificat a été précédemment délivré à cet établissement, le directeur
-général de l'Agence française de sécurité sanitaire des produits de santé met
-fin à sa validité. Les exemplaires de ce certificat détenus par le titulaire
+général de l'Agence nationale de sécurité du médicament et des produits de santé
+met fin à sa validité. Les exemplaires de ce certificat détenus par le titulaire
 sont immédiatement retournés à l'agence.

@@ -8,4 +8,5 @@ l'autopsie judiciaire.
 Les méthodes particulières de prélèvement et de conservation des échantillons
 biologiques applicables en cas de décès du ou des conducteurs impliqués sont
 fixées par arrêté du ministre chargé de la santé, après avis du directeur
-général de l'Agence française de sécurité sanitaire des produits de santé.
+général de l'Agence nationale de sécurité du médicament et des produits de
+santé.

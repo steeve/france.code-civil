@@ -1,8 +1,8 @@
 Article R5121-46
 ----
 Le changement du titulaire de l'autorisation de mise sur le marché est
-subordonné à une autorisation du directeur général de l'Agence française de
-sécurité sanitaire des produits de santé.
+subordonné à une autorisation du directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé.
 
 La demande comporte les mentions prévues à l'article R. 5121-21 et elle est
 accompagnée d'un dossier comprenant :
@@ -44,10 +44,10 @@ avant que la fusion ou l'apport ne soit définitivement réalisé. Elles
 fournissent, à l'appui de leur demande, le protocole d'accord de principe
 concernant la fusion ou l'apport. Le transfert est accordé sous la condition
 suspensive de la réalisation définitive qui est notifiée au directeur général de
-l'Agence française de sécurité sanitaire des produits de santé.
+l'Agence nationale de sécurité du médicament et des produits de santé.
 
-Le directeur général de l'Agence française de sécurité sanitaire des produits de
-santé notifie sa décision dans un délai de soixante jours à compter de la date
-de réception de la demande. A défaut, le silence gardé par le directeur général
-de l'Agence française de sécurité sanitaire des produits de santé vaut
-autorisation à l'expiration de ce délai.
+Le directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé notifie sa décision dans un délai de soixante jours à compter
+de la date de réception de la demande. A défaut, le silence gardé par le
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé vaut autorisation à l'expiration de ce délai.

@@ -31,10 +31,10 @@ comme partie intégrante une substance qui, si elle est utilisée séparément, 
 susceptible d'être considérée comme un médicament dérivé du sang, le fabricant
 informe l'organisme habilité de la libération de ce lot de dispositifs et lui
 transmet le certificat de libération du lot de la substance mentionnée à
-l'article R. 5212-24 utilisée dans ce dispositif, établi par l'Agence française
-de sécurité sanitaire des produits de santé, ou un laboratoire désigné à cet
-effet par un autre Etat membre de la Communauté européenne ou partie à l'accord
-sur l'Espace économique européen.
+l'article R. 5212-24 utilisée dans ce dispositif, établi par l'Agence nationale
+de sécurité du médicament et des produits de santé, ou un laboratoire désigné à
+cet effet par un autre Etat membre de la Communauté européenne ou partie à
+l'accord sur l'Espace économique européen.
 
 Le fabricant certifie que les dispositifs médicaux fabriqués sont conformes au
 type décrit dans le certificat d'examen CE de type et respectent les

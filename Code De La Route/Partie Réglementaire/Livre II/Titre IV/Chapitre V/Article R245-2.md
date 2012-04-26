@@ -21,9 +21,9 @@ dépistage.
 "Art. R. 235-4 - Les épreuves de dépistage réalisées à la suite d'un recueil de
 liquide biologique sont effectuées conformément aux méthodes et dans les
 conditions prescrites par un arrêté du ministre chargé de la santé, après avis
-du directeur général de l'Agence française de sécurité sanitaire des produits de
-santé, qui précise notamment les critères de choix des réactifs et le modèle des
-fiches présentant les résultats.
+du directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé, qui précise notamment les critères de choix des réactifs et
+le modèle des fiches présentant les résultats.
 
 "Ces fiches sont remises à l'officier ou l'agent de police judiciaire mentionné
 à l'article R. 235-3.
@@ -45,8 +45,8 @@ biologiste requis dans les mêmes conditions.
 "Ce praticien effectue le prélèvement biologique à l'aide d'un nécessaire mis à
 sa disposition par un officier ou un agent de police judiciaire, en se
 conformant aux méthodes prescrites par un arrêté du ministre chargé de la santé,
-après avis du directeur général de l'Agence française de sécurité sanitaire des
-produits de santé.
+après avis du directeur général de l'Agence nationale de sécurité du médicament
+et des produits de santé.
 
 "Un officier ou un agent de police judiciaire assiste au prélèvement biologique.
 
@@ -61,7 +61,8 @@ légiste au cours de l'autopsie judiciaire.
 "Les méthodes particulières de prélèvement et de conservation des échantillons
 biologiques applicables en cas de décès du ou des conducteurs impliqués sont
 fixées par un arrêté du ministre chargé de la santé, après avis du directeur
-général de l'Agence française de sécurité sanitaire des produits de santé.
+général de l'Agence nationale de sécurité du médicament et des produits de
+santé.
 
 "Art. R. 235-9 - L'officier ou l'agent de police judiciaire adresse les deux
 échantillons biologiques prélevés, accompagnés des résultats des épreuves de
@@ -77,8 +78,8 @@ général de l'Agence française de sécurité sanitaire des produits de santé.
 
 "Art. R. 235-10 - La recherche et le dosage des produits stupéfiants sont
 pratiqués dans les conditions définies par un arrêté du ministre chargé de la
-santé, après avis du directeur général de l'Agence française de sécurité
-sanitaire des produits de santé.
+santé, après avis du directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé.
 
 "Les résultats des analyses et examens médicaux, cliniques et biologiques sont
 consignés sur les fiches mentionnées à l'article R. 235-4. Ces fiches sont

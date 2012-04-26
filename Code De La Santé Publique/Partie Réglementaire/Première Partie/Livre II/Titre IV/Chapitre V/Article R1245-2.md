@@ -23,10 +23,10 @@ l'établissement ou de l'organisme autorisé à exporter, et du destinataire fin
 
 6° En cas d'importation à des fins thérapeutiques et en-dehors des situations
 d'urgence, la référence de l'autorisation prévue à l'article L. 1243-5 ou à
-l'article 6. 2 de la directive 2004 / 23 / CE du Parlement européen et du
-Conseil du 31 mars 2004 relative à l'établissement de normes de qualité et de
-sécurité pour le don, l'obtention, le contrôle, la transformation, la
-conservation, le stockage et la distribution des tissus et cellules humains ;
+l'article 6.2 de la directive 2004/23/ CE du Parlement européen et du Conseil du
+31 mars 2004 relative à l'établissement de normes de qualité et de sécurité pour
+le don, l'obtention, le contrôle, la transformation, la conservation, le
+stockage et la distribution des tissus et cellules humains ;
 
 7° La mention : " fragile " ;
 
@@ -39,8 +39,8 @@ conservation, le stockage et la distribution des tissus et cellules humains ;
 11° Les consignes de sécurité et, le cas échéant, la méthode de refroidissement.
 
 Le colis est accompagné, le cas échéant, des autorisations délivrées par le
-ministre chargé de la recherche et par l'Agence française de sécurité sanitaire
-des produits de santé.
+ministre chargé de la recherche et par l'Agence nationale de sécurité du
+médicament et des produits de santé.
 
 Les produits importés ou exportés à des fins thérapeutiques sont accompagnés du
 document mentionné à l'article R. 1211-19.

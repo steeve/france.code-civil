@@ -12,21 +12,21 @@ exception des aspects qui doivent faire l'objet des investigations, pour
 lesquels le fabricant doit certifier que toutes les précautions ont été prises
 pour protéger la santé et la sécurité des patients ;
 
-2° Informer de son intention le directeur général de l'Agence française de
-sécurité sanitaire des produits de santé dans les conditions prévues à l'article
-L. 1123-8 et les articles R. 1123-29 à R. 1123-34.
+2° Informer de son intention le directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé dans les conditions prévues à
+l'article L. 1123-8 et les articles R. 1123-29 à R. 1123-34.
 
 Les investigations ne peuvent être entreprises que dans les conditions prévues
 aux articles L. 1121-3 et L. 1123-8. Elles doivent être conduites dans les
 conditions prévues par le titre II du livre Ier de la partie I du présent code
 et par un arrêté du ministre chargé de la santé, pris sur proposition du
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé, qui précise les méthodes d'investigation devant être respectées, et
-notamment les événement défavorables devant être enregistrés et communiqués au
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé.
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé, qui précise les méthodes d'investigation devant être
+respectées, et notamment les événement défavorables devant être enregistrés et
+communiqués au directeur général de l'Agence nationale de sécurité du médicament
+et des produits de santé.
 
-Le fabricant tient à la disposition du directeur général de l'Agence française
-de sécurité sanitaire des produits de santé un rapport écrit et signé par
+Le fabricant tient à la disposition du directeur général de l'Agence nationale
+de sécurité du médicament et des produits de santé un rapport écrit et signé par
 l'investigateur tel que défini à l'article L. 1121-1 et contenant une évaluation
 critique de toutes les données obtenues au cours des investigations cliniques.

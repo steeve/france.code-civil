@@ -10,6 +10,7 @@ pharmaceutiques qui y sont effectuées ;
 2° Les moyens en personnels et matériels nécessaires à l'exercice de ces
 activités.
 
-Ils adressent chaque année au directeur général de l'Agence française de
-sécurité sanitaire des produits de santé un état de leur établissement dont la
-forme et le contenu sont fixés, sur décision du directeur général de l'agence.
+Ils adressent chaque année au directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé un état de leur établissement
+dont la forme et le contenu sont fixés, sur décision du directeur général de
+l'agence.

@@ -14,7 +14,7 @@ la prise en charge ou au remboursement des médicaments.
 
 Lorsqu'a été notifiée, dans les conditions prévues au premier alinéa de
 l'article R. 5143-8 du code de la santé publique, la décision du directeur
-général de l'Agence française de sécurité sanitaire des produits de santé
+général de l'Agence nationale de sécurité du médicament et des produits de santé
 identifiant un médicament comme spécialité générique, l'arrêté d'inscription de
 ce médicament sur les listes prévues respectivement au premier alinéa de
 l'article L. 162-17 du présent code et à l'article L. 5123-2 du code de la santé

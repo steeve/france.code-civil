@@ -10,5 +10,5 @@ peuvent nécessiter un contrôle à certains stades de leur commercialisation.
 
 Les dispositions de la présente sous-section applicables à chacune de ces
 substances sont fixées, sur proposition du directeur général de l'Agence
-française de sécurité sanitaire des produits de santé, par arrêté du ministre
-chargé de la santé.
+nationale de sécurité du médicament et des produits de santé, par arrêté du
+ministre chargé de la santé.

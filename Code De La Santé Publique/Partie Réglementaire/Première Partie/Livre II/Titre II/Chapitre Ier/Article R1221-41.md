@@ -1,7 +1,7 @@
 Article R1221-41
 ----
-A la demande de l'Agence française de sécurité sanitaire des produits de santé,
-les établissements mentionnés au premier alinéa de l'article R. 1221-40
+A la demande de l'Agence nationale de sécurité du médicament et des produits de
+santé, les établissements mentionnés au premier alinéa de l'article R. 1221-40
 recueillent et conservent toutes les informations relatives à l'hémovigilance
 auxquelles ils ont accès et qui portent sur :
 

@@ -29,14 +29,14 @@ partie intégrante une substance qui, si elle est utilisée séparément, est
 susceptible d'être considérée comme un médicament, à l'exception des médicaments
 dérivés du sang, et qui peut agir sur le corps humain par une action accessoire
 à celle du dispositif, l'organisme habilité recueille, avant de prendre sa
-décision, l'avis de l'Agence française de sécurité sanitaire des produits de
-santé, de l'une des autorités compétentes en matière de médicament désignées par
-les autres Etats membres ou parties à l'accord sur l'Espace économique européen
-ou de l'Agence européenne des médicaments. Cet avis est inclus dans la
+décision, l'avis de l'Agence nationale de sécurité du médicament et des produits
+de santé, de l'une des autorités compétentes en matière de médicament désignées
+par les autres Etats membres ou parties à l'accord sur l'Espace économique
+européen ou de l'Agence européenne des médicaments. Cet avis est inclus dans la
 documentation concernant le dispositif. L'organisme habilité informe l'autorité
 consultée de sa décision. Lorsque l'autorité nationale compétente consultée est
-l'Agence française de sécurité sanitaire des produits de santé, son avis est
-rendu dans le délai maximal de deux cent dix jours à compter de la réception
+l'Agence nationale de sécurité du médicament et des produits de santé, son avis
+est rendu dans le délai maximal de deux cent dix jours à compter de la réception
 d'une documentation complète.
 
 Dans le cadre de l'examen de la conception d'un dispositif qui incorpore comme

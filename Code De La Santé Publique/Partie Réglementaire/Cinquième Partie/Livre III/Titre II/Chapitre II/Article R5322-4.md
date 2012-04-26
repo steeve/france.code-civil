@@ -1,7 +1,10 @@
 Article R5322-4
 ----
-Les fonctions de membre du conseil d'administration sont exercées à titre
-gracieux. Elles ouvrent droit aux indemnités pour frais de déplacement et de
-séjour dans les conditions prévues par le décret n° 2006-781 du 3 juillet 2006
-fixant les conditions et les modalités de règlement des frais occasionnés par
-les déplacements temporaires des personnels civils de l'Etat.
+En cas de vacance d'un siège du fait de l'empêchement définitif de son titulaire
+ou de la perte par un membre de la qualité au titre de laquelle il a été
+désigné, il est procédé à la désignation d'un nouveau membre dans les conditions
+prévues à l'article R. 5322-1 ou du président, dans les conditions prévues à
+l'article L. 5322-1. Le mandat de ce membre ou du président ainsi nommé expire
+en même temps que celui des autres membres du conseil d'administration. Dans ces
+mêmes circonstances, les représentants du personnel sont remplacés dans les
+conditions prévues par le règlement intérieur.

@@ -15,8 +15,8 @@ c) Le président de l'Académie nationale de pharmacie ou son représentant ;
 d) Le président du Conseil national de l'ordre des pharmaciens ou son
 représentant ;
 
-e) Le directeur général de l'Agence française de sécurité sanitaire des produits
-de santé ;
+e) Le directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé ;
 
 f) Le président de la Conférence des directeurs d'unité de formations et de
 recherche de pharmacie ou son représentant.

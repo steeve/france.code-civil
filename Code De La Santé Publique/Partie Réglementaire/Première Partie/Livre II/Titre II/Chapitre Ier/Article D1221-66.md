@@ -15,8 +15,9 @@ plasmatiques délivrée, le cas échéant, par les autorités sanitaires locales
 Lorsque la demande d'autorisation porte sur un produit sanguin labile ou une
 pâte plasmatique destinés à la préparation de médicaments dérivés du sang,
 l'importateur communique de plus, le cas échéant, la copie de la déclaration
-d'exportation prévue à l'article L. 5124-11 visée par l'Agence française de
-sécurité sanitaire des produits de santé.
+d'exportation prévue à l'article L. 5124-11 visée par l'Agence nationale de
+sécurité du médicament et des produits de santé.
 
-L'importateur adresse à l'Agence française de sécurité sanitaire des produits de
-santé un état récapitulatif annuel exact de l'utilisation de ces produits.
+L'importateur adresse à l'Agence nationale de sécurité du médicament et des
+produits de santé un état récapitulatif annuel exact de l'utilisation de ces
+produits.

@@ -7,7 +7,7 @@ les recherches envisagées ne permettent pas de réaliser ces opérations dans u
 
 Les catégories de recherches correspondantes sont définies par arrêté du
 ministre chargé de la santé pris sur proposition du directeur général de
-l'Agence française de sécurité sanitaire des produits de santé.
+l'Agence nationale de sécurité du médicament et des produits de santé.
 
 Ces opérations ne peuvent être effectuées que sur des lots de médicaments
 fabriqués ou importés dans les conditions prévues aux articles R. 5124-49, R.

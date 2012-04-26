@@ -22,8 +22,8 @@ pharmaceutique ;
 l'établissement pharmaceutique.
 
 Les modifications sont déclarées dans le mois qui suit leur mise en œuvre à
-l'Agence française de sécurité sanitaire des produits de santé. Le directeur
-général de l'Agence française de sécurité sanitaire des produits de santé fait
-connaître son opposition motivée à cette modification, ou procède à
-l'actualisation de l'autorisation, dans un délai de trois mois à compter de la
-déclaration mentionnée au premier alinéa.
+l'Agence nationale de sécurité du médicament et des produits de santé. Le
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé fait connaître son opposition motivée à cette modification, ou
+procède à l'actualisation de l'autorisation, dans un délai de trois mois à
+compter de la déclaration mentionnée au premier alinéa.

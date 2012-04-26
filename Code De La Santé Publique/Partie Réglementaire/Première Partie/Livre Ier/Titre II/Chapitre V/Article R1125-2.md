@@ -9,9 +9,3 @@ que la mise sur le marché de produits composés en tout ou en partie d'organism
 génétiquement modifiés. Le Haut Conseil des biotechnologies transmet son avis à
 l'autorité compétente et au ministre chargé de l'environnement dans un délai de
 quarante jours à compter de la date d'enregistrement de la demande.
-
-Pour ce qui concerne les spécialités pharmaceutiques ou tout autre médicament
-fabriqué industriellement de thérapie génique et pour les préparations de
-thérapie génique mentionnées au 12° de l'article L. 5121-1, le directeur général
-de l'Agence française de sécurité sanitaire des produits de santé recueille
-également l'avis d'un groupe d'experts qu'il constitue à cet effet.

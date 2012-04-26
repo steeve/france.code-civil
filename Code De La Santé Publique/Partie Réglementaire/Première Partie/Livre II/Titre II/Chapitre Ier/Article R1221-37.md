@@ -1,7 +1,7 @@
 Article R1221-37
 ----
-A la demande de l'Agence française de sécurité sanitaire des produits de santé,
-l'établissement de transfusion sanguine recueille et conserve toutes les
+A la demande de l'Agence nationale de sécurité du médicament et des produits de
+santé, l'établissement de transfusion sanguine recueille et conserve toutes les
 informations nécessaires à l'hémovigilance auxquelles il a accès et qui portent
 sur :
 

@@ -1,8 +1,8 @@
 Article R5131-1
 ----
 La déclaration prévue à l'article L. 5131-2 est adressée par envoi recommandé
-avec demande d'avis de réception au directeur général de l'Agence française de
-sécurité sanitaire des produits de santé.
+avec demande d'avis de réception au directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé.
 
 Elle indique :
 

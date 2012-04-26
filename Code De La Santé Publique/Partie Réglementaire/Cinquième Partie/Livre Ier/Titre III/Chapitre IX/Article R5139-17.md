@@ -13,8 +13,8 @@ contaminés par des micro-organismes et toxines inscrits sur la liste prévue à
 l'article L. 5139-1.
 
 En cas de fermeture définitive de l'établissement ou de cessation d'activité, ce
-registre ou ces enregistrements sont déposés à l'Agence française de sécurité
-sanitaire des produits de santé.
+registre ou ces enregistrements sont déposés à l'Agence nationale de sécurité du
+médicament et des produits de santé.
 
 Les dispositions du présent article ne s'appliquent pas aux médicaments à usage
 humain et aux médicaments vétérinaires contenant des micro-organismes ou des

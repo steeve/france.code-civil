@@ -1,7 +1,7 @@
 Article R5121-36-1
 ----
-L'autorisation de mise sur le marché délivrée par l'Agence française de sécurité
-sanitaire des produits de santé devient caduque s'il apparaît :
+L'autorisation de mise sur le marché délivrée par l'Agence nationale de sécurité
+du médicament et des produits de santé devient caduque s'il apparaît :
 
 1° Qu'elle n'est pas suivie d'une mise sur le marché du médicament sur le
 territoire national dans les trois années qui suivent sa délivrance ;
@@ -30,8 +30,8 @@ autorisations de mise sur le marché délivrées jusqu'à cette date, à l'excep
 de celles des médicaments à base de plantes ayant fait l'objet d'une demande
 d'enregistrement déposée dans les conditions prévues à l'article L. 5121-14-1,
 pour lesquelles la période de trois ans n'est décomptée qu'à partir de la date
-de la notification de la décision du directeur général de l'Agence française de
-sécurité sanitaire des produits de santé ;
+de la notification de la décision du directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé ;
 
 2° De la date de délivrance des autorisations de mise sur le marché pour les
 autorisations délivrées après la date de publication du décret précité.

@@ -1,13 +1,8 @@
 Article R5322-7
 ----
-Le conseil ne peut délibérer valablement que si la moitié au moins des membres
-en exercice sont présents. Si ce quorum n'est pas atteint, le conseil est à
-nouveau convoqué sur tout ou partie des questions inscrites au précédent ordre
-du jour dans un délai maximum de quinze jours. Il délibère alors valablement
-quel que soit le nombre d'administrateurs présents.
+Les fonctions de membre du conseil d'administration sont exercées à titre
+gratuit.
 
-En cas d'empêchement du président, le conseil d'administration désigne un
-président de séance.
-
-Les délibérations du conseil sont adoptées à la majorité des membres présents.
-La voix du président est prépondérante en cas de partage égal des voix.
+Les frais occasionnés par leurs déplacements et leurs séjours sont remboursés
+dans les conditions prévues par la réglementation applicable aux personnels
+civils de l'Etat.

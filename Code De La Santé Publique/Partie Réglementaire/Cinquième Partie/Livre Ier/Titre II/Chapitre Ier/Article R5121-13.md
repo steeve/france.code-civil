@@ -9,8 +9,8 @@ secret professionnel en ce qui concerne notamment la nature des produits
 Ils ne peuvent, sans l'accord du promoteur, donner d'informations relatives aux
 essais qu'au ministre chargé de la santé, aux médecins inspecteurs de santé
 publique, aux pharmaciens inspecteurs de santé publique, au directeur général et
-aux inspecteurs de l'Agence française de sécurité sanitaire des produits de
-santé.
+aux inspecteurs de l'Agence nationale de sécurité du médicament et des produits
+de santé.
 
 Les essais ne peuvent faire l'objet d'aucun commentaire écrit ou oral sans
 l'accord conjoint de l'expérimentateur ou de l'investigateur et du promoteur.

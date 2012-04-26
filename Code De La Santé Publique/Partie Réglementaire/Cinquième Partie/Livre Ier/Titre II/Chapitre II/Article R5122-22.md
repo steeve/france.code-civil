@@ -1,9 +1,9 @@
 Article R5122-22
 ----
 Le dépôt de publicité prévu à l'article L. 5122-9 pour un produit mentionné à
-l'article L. 5122-14 est effectué auprès du directeur général de l'Agence
-française de sécurité sanitaire des produits de santé. Il est accompagné d'un
-dossier justificatif des propriétés annoncées par la publicité.
+l'article L. 5122-14 est effectué auprès du directeur général de l' Agence
+nationale de sécurité du médicament et des produits de santé. Il est accompagné
+d'un dossier justificatif des propriétés annoncées par la publicité.
 
 La publicité destinée aux professionnels de santé précise la date à laquelle
 elle a été établie.

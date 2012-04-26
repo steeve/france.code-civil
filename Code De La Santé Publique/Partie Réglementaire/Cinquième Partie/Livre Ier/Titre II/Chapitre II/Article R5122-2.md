@@ -8,6 +8,6 @@ diffusées.
 
 L'entreprise conserve un exemplaire de chaque publicité qu'elle émet durant
 trois années à compter de la date de la dernière diffusion de celle-ci et tient
-cet exemplaire à la disposition de l'Agence française de sécurité sanitaire des
-produits de santé, accompagné d'une fiche indiquant les destinataires, le mode
-de diffusion et la date de première diffusion.
+cet exemplaire à la disposition de l'Agence nationale de sécurité du médicament
+et des produits de santé, accompagné d'une fiche indiquant les destinataires, le
+mode de diffusion et la date de première diffusion.

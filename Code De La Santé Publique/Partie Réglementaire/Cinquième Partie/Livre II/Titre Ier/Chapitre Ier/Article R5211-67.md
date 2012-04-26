@@ -15,5 +15,5 @@ fabricants ;
 3° Avoir réalisé l'ensemble de ces opérations selon des méthodes appropriées.
 
 Cette déclaration est tenue à la disposition du directeur général de l'Agence
-française de sécurité sanitaire des produits de santé pendant une période de
-cinq ans.
+nationale de sécurité du médicament et des produits de santé pendant une période
+de cinq ans.

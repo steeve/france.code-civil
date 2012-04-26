@@ -1,9 +1,9 @@
 Article R5138-1
 ----
-La déclaration prévue à l'article L. 5138-1 est adressée à l'Agence française de
-sécurité sanitaire des produits de santé par une personne habilitée à engager
-l'entreprise à laquelle appartient l'établissement par envoi recommandé avec
-demande d'avis de réception ou par télédéclaration. Elle comprend les
+La déclaration prévue à l'article L. 5138-1 est adressée à l'Agence nationale de
+sécurité du médicament et des produits de santé par une personne habilitée à
+engager l'entreprise à laquelle appartient l'établissement par envoi recommandé
+avec demande d'avis de réception ou par télédéclaration. Elle comprend les
 renseignements suivants :
 
 1° Le nom ou la dénomination sociale et l'adresse de l'entreprise à laquelle

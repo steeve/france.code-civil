@@ -1,9 +1,8 @@
 Article R5131-3
 ----
-Sont fixées, sur proposition du directeur général de l'Agence française de
-sécurité sanitaire des produits de santé après avis de la Commission de
-cosmétologie, par arrêté des ministres chargés de la consommation, de
-l'industrie et de la santé :
+Sont fixées, sur proposition du directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé, par arrêté des ministres
+chargés de la consommation, de l'industrie et de la santé :
 
 1° La liste des substances qui ne peuvent entrer dans la composition des
 produits cosmétiques ;
@@ -22,6 +21,3 @@ cosmétiques.
 Les listes mentionnées aux 3°, 4° et 5° précisent, le cas échéant, les
 restrictions d'utilisation et les conditions dans lesquelles chaque substance
 peut être employée.
-
-La composition et les modalités de fonctionnement de la Commission de
-cosmétologie sont fixées par arrêté du ministre chargé de la santé.

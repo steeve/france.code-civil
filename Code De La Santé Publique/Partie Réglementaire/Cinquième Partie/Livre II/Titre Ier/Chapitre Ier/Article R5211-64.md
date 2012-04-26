@@ -1,8 +1,8 @@
 Article R5211-64
 ----
-Les organismes habilités informent le directeur général de l'Agence française de
-sécurité sanitaire des produits de santé de tous les certificats délivrés,
-modifiés, complétés, suspendus, retirés ou refusés. Ils mettent à sa
+Les organismes habilités informent le directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé de tous les certificats
+délivrés, modifiés, complétés, suspendus, retirés ou refusés. Ils mettent à sa
 disposition, sur sa demande, toute information supplémentaire pertinente.
 
 Ils informent les autres organismes habilités en France ou par tout autre Etat

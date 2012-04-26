@@ -26,12 +26,12 @@ La déclaration est faite au plus tard dans le mois suivant la mise en œuvre de
 modifications susmentionnées.
 
 Elle est adressée par la personne morale titulaire de l'autorisation au
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé sous pli recommandé avec demande d'avis de réception ou déposée contre
-récépissé.
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé sous pli recommandé avec demande d'avis de réception ou
+déposée contre récépissé.
 
 Cette demande est accompagnée d'un courrier explicitant l'objet et les
 incidences éventuelles des modifications sur les activités autorisées. Le
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé peut requérir de l'établissement ou de l'organisme toutes informations
-complémentaires sur la déclaration.
+directeur général de l' Agence nationale de sécurité du médicament et des
+produits de santé peut requérir de l'établissement ou de l'organisme toutes
+informations complémentaires sur la déclaration.

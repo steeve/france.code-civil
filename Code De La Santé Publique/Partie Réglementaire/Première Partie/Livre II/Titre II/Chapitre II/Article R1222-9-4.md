@@ -1,8 +1,8 @@
 Article R1222-9-4
 ----
 Le président de l'Etablissement français du sang adresse au directeur général de
-l'Agence française de sécurité sanitaire des produits de santé copie de tout
-acte portant désignation de la personne responsable et des personnes
+l'Agence nationale de sécurité du médicament et des produits de santé copie de
+tout acte portant désignation de la personne responsable et des personnes
 responsables intérimaires.
 
 Lorsque la personne responsable est remplacée temporairement, le président de

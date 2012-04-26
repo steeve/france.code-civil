@@ -8,8 +8,8 @@ personne responsable pour les établissements mentionnés au 6° de l'article R.
 aux incidents et effets indésirables ;
 
 2° Déclarer, selon les modalités prévues à l'article R. 1211-47, à l'Agence
-française de sécurité sanitaire des produits de santé tout incident ou tout
-effet indésirable ;
+nationale de sécurité du médicament et des produits de santé tout incident ou
+tout effet indésirable ;
 
 3° Informer sans délai le correspondant local de biovigilance de l'Agence de la
 biomédecine de tout incident ou effet indésirable survenu dans les activités
@@ -30,13 +30,13 @@ la commission médicale ou la conférence médicale ;
 structures où il exerce ses fonctions de correspondant. Le cas échéant, il
 informe des résultats de ces investigations les correspondants locaux de
 biovigilance des autres établissements ou structures susceptibles de poursuivre
-ces investigations et en avise l'Agence française de sécurité sanitaire des
-produits de santé ;
+ces investigations et en avise l'Agence nationale de sécurité du médicament et
+des produits de santé ;
 
-8° Signaler à l'Agence française de sécurité sanitaire des produits de santé
-toute difficulté susceptible de compromettre le bon fonctionnement du dispositif
-de biovigilance ;
+8° Signaler à l'Agence nationale de sécurité du médicament et des produits de
+santé toute difficulté susceptible de compromettre le bon fonctionnement du
+dispositif de biovigilance ;
 
 9° Informer les autres intervenants du système national, à la demande de
-l'Agence française de sécurité sanitaire des produits de santé, des mesures
-prises suite à la survenue d'incidents ou d'effets indésirables.
+l'Agence nationale de sécurité du médicament et des produits de santé, des
+mesures prises suite à la survenue d'incidents ou d'effets indésirables.

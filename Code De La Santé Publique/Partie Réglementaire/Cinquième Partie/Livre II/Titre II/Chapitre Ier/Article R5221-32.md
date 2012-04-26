@@ -1,7 +1,7 @@
 Article R5221-32
 ----
-Les organismes habilités informent le directeur général de l'Agence française de
-sécurité sanitaire des produits de santé :
+Les organismes habilités informent le directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé :
 
 1° De toute modification de nature à modifier les conditions dans lesquelles
 l'habilitation a été accordée ;

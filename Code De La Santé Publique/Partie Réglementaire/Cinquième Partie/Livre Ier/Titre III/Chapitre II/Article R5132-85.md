@@ -5,5 +5,5 @@ l'exportation, la détention, l'offre, la cession, l'acquisition ou l'emploi du
 khat et des préparations contenant ou préparées à partir du khat.
 
 Des dérogations aux dispositions précédentes peuvent être accordées par le
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé aux fins de recherche et de contrôle.
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé aux fins de recherche et de contrôle.

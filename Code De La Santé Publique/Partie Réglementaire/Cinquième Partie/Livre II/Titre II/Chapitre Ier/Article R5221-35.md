@@ -13,6 +13,6 @@ vitro qu'il met sur le marché. L'importateur n'est pas tenu de se déclarer en
 tant que distributeur pour les dispositifs médicaux de diagnostic in vitro qu'il
 importe.
 
-La déclaration est adressée au directeur général de l'Agence française de
-sécurité sanitaire des produits de santé, par envoi recommandé avec demande
-d'avis de réception.
+La déclaration est adressée au directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé, par envoi recommandé avec
+demande d'avis de réception.

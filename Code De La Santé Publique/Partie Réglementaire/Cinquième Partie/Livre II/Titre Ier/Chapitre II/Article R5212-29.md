@@ -2,7 +2,7 @@ Article R5212-29
 ----
 Le contrôle de qualité externe des dispositifs médicaux est réalisé par des
 organismes agréés à cet effet par décision du directeur général de l'Agence
-française de sécurité sanitaire des produits de santé publiée au Journal
+nationale de sécurité du médicament et des produits de santé publiée au Journal
 officiel de la République française. L'agrément précise les tâches pour
 lesquelles il est accordé.
 
@@ -17,8 +17,8 @@ l'organisme pour respecter les critères généraux d'agrément mentionnés à
 l'alinéa précédent, notamment les normes européennes harmonisées dont les
 références ont été publiées au Journal officiel de la République française,
 auxquelles il doit satisfaire, sont fixées par arrêté du ministre chargé de la
-santé après avis du directeur général de l'Agence française de sécurité
-sanitaire des produits de santé.
+santé après avis du directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé.
 
 Les organismes s'engagent à permettre aux personnes désignées par le directeur
 général de l'agence d'accéder à leurs locaux et de procéder à toute

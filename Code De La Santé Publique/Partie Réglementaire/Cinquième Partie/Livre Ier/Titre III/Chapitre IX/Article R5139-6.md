@@ -1,10 +1,10 @@
 Article R5139-6
 ----
-Le directeur général de l'Agence française de sécurité sanitaire des produits de
-santé notifie au demandeur sa décision dans un délai de 90 jours à compter de la
-date à laquelle le dossier est réputé complet.A l'issue de ce délai, l'absence
-de décision du directeur général vaut décision implicite de refus
-d'autorisation.
+Le directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé notifie au demandeur sa décision dans un délai de 90 jours à
+compter de la date à laquelle le dossier est réputé complet. A l'issue de ce
+délai, l'absence de décision du directeur général vaut décision implicite de
+refus d'autorisation.
 
 Lorsqu'il l'estime nécessaire à l'instruction du dossier de demande
 d'autorisation, le directeur général peut demander dans un délai qu'il fixe, par
