@@ -6,9 +6,10 @@ demeure l'intéressé d'avoir à respecter ses obligations dans un délai de tre
 jours à compter de la réception de l'acte.
 
 Faute de régularisation dans ce délai, il saisit la commission régionale
-d'inscription. Cette dernière convoque et entend le commissaire aux comptes dans
-un délai de deux mois.L'intéressé peut se faire assister d'un conseil de son
-choix ou représenter par un avocat.
+d'inscription. Cette dernière convoque le commissaire aux comptes par lettre
+recommandée avec demande d'avis de réception et l'entend dans un délai de deux
+mois. L'intéressé peut se faire assister par un commissaire aux comptes et un
+avocat ou représenter par un avocat.
 
 En l'absence de motif légitime, la commission procède à son omission.
 

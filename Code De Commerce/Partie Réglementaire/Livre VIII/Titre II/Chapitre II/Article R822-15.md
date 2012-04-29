@@ -1,7 +1,9 @@
 Article R822-15
 ----
-Chaque année la commission après avoir révisé la liste des personnes inscrites
-arrête la liste à la date du 1er janvier.
+Chaque année, avant le 31 janvier, la commission se réunit aux fins de réviser
+la liste des commissaires aux comptes en fonction des inscriptions intervenues
+jusqu'au 31 décembre de l'année précédente et d'arrêter la nouvelle liste au 1er
+janvier.
 
 A l'occasion de la révision annuelle, elle récapitule les décisions
 d'inscription intervenues dans l'année, supprime le nom de ceux qui sont

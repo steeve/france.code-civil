@@ -4,9 +4,11 @@ La liste des commissaires aux comptes mentionnée à l'article L. 822-1 est
 dressée par les commissions régionales instituées à l'article L. 822-2.
 
 Les commissaires aux comptes sont inscrits par la commission régionale de la
-cour d'appel dans le ressort de laquelle se trouve leur domicile. Les sociétés
-ayant qualité pour être commissaires aux comptes sont inscrites par la
-commission régionale dans le ressort de laquelle se trouve leur siège.
+cour d'appel dans le ressort de laquelle se trouve leur domicile ou
+l'établissement dans lequel ils exercent leur activité. Les sociétés de
+commissaires aux comptes sont inscrites par la commission régionale dans le
+ressort de laquelle se trouve leur siège ou, lorsque celui-ci est à l'étranger,
+le premier établissement ouvert sur le territoire national.
 
 Les commissaires aux comptes exerçant dans une société informent la commission
 régionale de cette appartenance lors de leur demande d'inscription. Ils en

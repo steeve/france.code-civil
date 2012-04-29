@@ -26,4 +26,6 @@ de l'article R. 663-45, des articles R. 663-47, R. 663-48 et R. 670-1 à R. 670-
 6° Le titre II du livre VII, à l'exception des articles R. 721-7 à R. 722-6, R.
 722-8, R. 722-9, R. 722-11 à R. 722-17, R. 723-4, R. 723-9 à R. 723-31 ;
 
-7° Le titre II du livre VIII.
+7° Le titre II du livre VIII, à l'exception des articles R. 822-149 à R.
+822-162, dans sa rédaction en vigueur le lendemain de la publication du décret
+n° 2012-607 du 30 avril 2012.

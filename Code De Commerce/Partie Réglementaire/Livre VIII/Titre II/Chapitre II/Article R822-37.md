@@ -8,9 +8,8 @@ nécessaires à l'information de la chambre.
 Si le magistrat chargé du ministère public estime que les faits constituent une
 faute disciplinaire, il saisit la chambre régionale de discipline.
 
-Si les faits concernent un commissaire aux comptes ayant son domicile ou son
-siège dans le ressort d'une autre compagnie régionale, le magistrat chargé du
-ministère public, après réunion des éléments d'information, transmet le dossier
-au magistrat chargé du ministère public auprès de la chambre régionale
-compétente. Ce dernier demande au syndic de procéder à une information
-complémentaire.
+Si les faits concernent un commissaire aux comptes inscrit dans le ressort d'une
+autre compagnie régionale, le magistrat chargé du ministère public, après
+réunion des éléments d'information, transmet le dossier au magistrat chargé du
+ministère public auprès de la chambre régionale compétente. Ce dernier demande
+au syndic de procéder à une information complémentaire.

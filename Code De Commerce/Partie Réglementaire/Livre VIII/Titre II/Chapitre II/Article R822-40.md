@@ -6,4 +6,5 @@ public, quinze jours au moins avant l'audience, par lettre recommandée avec
 demande d'avis de réception.
 
 La citation précise, à peine de nullité, les faits qui la motivent. Elle est
-portée à la connaissance de l'auteur de la plainte.
+portée à la connaissance de l'auteur de la plainte par lettre simple, qui
+mentionne son droit d'être entendu.

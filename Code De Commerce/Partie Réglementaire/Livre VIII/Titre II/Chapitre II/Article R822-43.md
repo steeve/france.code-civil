@@ -6,6 +6,12 @@ fait expressément la demande ou s'il doit résulter de leur publicité une
 atteinte à l'ordre public, à un secret protégé par la loi ou au secret des
 affaires.
 
+Si le commissaire aux comptes dûment convoqué ne comparaît pas, la chambre peut
+prendre une décision en son absence. Toutefois, si elle estime nécessaire sa
+comparution personnelle, elle peut renvoyer l'affaire à une audience ultérieure
+en demandant au magistrat chargé du ministère public de procéder à une nouvelle
+citation.
+
 La chambre entend l'auteur de la plainte, si ce dernier en fait la demande. Elle
 peut entendre tous autres témoins et faire procéder à toutes investigations
 qu'elle estime utiles, au besoin par la désignation d'un ou plusieurs experts
@@ -14,7 +20,7 @@ dont la rémunération est à la charge de la compagnie régionale.
 Le magistrat chargé du ministère public dépose des conclusions écrites et peut
 présenter des observations orales ; le commissaire aux comptes peut présenter
 des observations écrites et orales et se faire assister d'un commissaire aux
-comptes et d'un avocat.
+comptes et d'un avocat ou représenter par un avocat.
 
 Dans tous les cas, le procureur général près la cour d'appel peut adresser un
 mémoire à la chambre régionale de discipline.

@@ -17,3 +17,6 @@ chargé du ministère public.
 La notification ouvre un délai de dix jours pour interjeter appel incident.
 
 L'appel est suspensif.
+
+Les pièces de la procédure sont adressées sans délai au secrétaire du haut
+conseil par le secrétaire de la chambre régionale de discipline.
