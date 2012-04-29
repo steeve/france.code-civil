@@ -1,6 +1,8 @@
 Article R312-1
 ----
-Le montant des frais d'études, prévus à l'article L. 312-14, que le prêteur peut
-demander à l'emprunteur lorsque le contrat en vue duquel le prêt a été demandé
-n'est pas conclu, est limité à 0,75 % du montant du prêt, sans pouvoir excéder
-150 euros.
+Avant l'envoi de l'offre mentionnée à l'article L. 312-7, et sauf s'il apparaît
+manifestement que tel n'est pas le cas, le prêteur ou l'intermédiaire de crédit
+demande à l'emprunteur si l'opération de crédit a pour objet le remboursement
+d'un ou plusieurs crédits et, le cas échéant, d'autres dettes. En cas de réponse
+positive, l'emprunteur bénéficie de l'information prévue aux articles R. 313-12
+et suivants.

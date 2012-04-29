@@ -96,9 +96,13 @@ telle garantie est donnée.
 
 IV. - L'ensemble des informations prévues au présent article est présenté
 conformément à la fiche d'information mentionnée à l'article L. 311-6 annexée au
-présent code.
+présent code. Avant la remise de cette fiche, et sauf s'il apparaît
+manifestement que tel n'est pas le cas, le prêteur ou l'intermédiaire de crédit
+demande à l'emprunteur si l'opération a pour objet le remboursement d'un ou
+plusieurs crédits et, le cas échéant, d'autres dettes.
 
 V. - Toute information complémentaire apportée à l'emprunteur par le prêteur ou
 l'intermédiaire de crédit, notamment en cas d'application des règles relatives
-au démarchage, figure sur un document distinct, qui peut être annexé à la fiche
-mentionnée au IV.
+au démarchage ou celles relatives au regroupement de crédits, prévues aux
+articles R. 313-12 et suivants, figure sur un document distinct, qui peut être
+annexé à la fiche mentionnée au IV.
