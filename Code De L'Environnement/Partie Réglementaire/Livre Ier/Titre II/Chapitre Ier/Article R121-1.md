@@ -1,6 +1,6 @@
 Article R121-1
 ----
-I. - Lorsqu'ils répondent aux conditions prévues aux articles R. 121-2 et R.
+I.-Lorsqu'ils répondent aux conditions prévues aux articles R. 121-2 et R.
 121-3, sont soumis aux dispositions du présent chapitre les projets
 d'aménagement ou d'équipement d'intérêt national de l'Etat, des collectivités
 territoriales, des établissements publics et des personnes privées entrant dans
@@ -22,9 +22,10 @@ d) Création de voies navigables, ou mise à grand gabarit de canaux existants ;
 
 4° Création de lignes électriques ;
 
-5° Création de gazoducs ;
+5° Création de canalisations de transport de gaz, d'hydrocarbures ou de produits
+chimiques ;
 
-6° Création d'oléoducs ;
+6° Supprimé ;
 
 7° Création d'une installation nucléaire de base ;
 
@@ -36,5 +37,5 @@ d) Création de voies navigables, ou mise à grand gabarit de canaux existants ;
 
 11° Equipements industriels.
 
-II. - Le présent chapitre ne s'applique pas aux installations soumises à des
+II.-Le présent chapitre ne s'applique pas aux installations soumises à des
 règles de protection du secret de la défense nationale.

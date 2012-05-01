@@ -25,9 +25,9 @@ visés à l'article L. 121-8-II
 1. a) Créations d'autoroutes, de routes express ou de routes à 2 × 2 voies à
 chaussées séparées ;
 
-Coût du projet supérieur à 300 M€ ou longueur du projet supérieur à 40 km.
+Coût du projet supérieur à 300 M € ou longueur du projet supérieur à 40 km.
 
-Coût du projet supérieur à 150 M€ ou longueur du projet supérieure à 20 km.
+Coût du projet supérieur à 150 M € ou longueur du projet supérieure à 20 km.
 
 b) Elargissement d'une route existante à 2 voies ou 3 voies pour en faire une
 route à 2 × 2 voies ou plus à chaussées séparées ;
@@ -38,15 +38,15 @@ d) Création de voies navigables, ou mise à grand gabarit de canaux existants.
 
 2. Création ou extension d'infrastructures de pistes d'aérodromes.
 
-Aérodrome de catégorie A et coût du projet supérieur à 100 M€.
+Aérodrome de catégorie A et coût du projet supérieur à 100 M €.
 
-Aérodrome de catégorie A et coût du projet supérieur à 35 M€.
+Aérodrome de catégorie A et coût du projet supérieur à 35 M €.
 
 3. Création ou extension d'infrastructures portuaires.
 
-Coût du projet supérieur à 150 M€ ou superficie du projet supérieure à 200 ha.
+Coût du projet supérieur à 150 M € ou superficie du projet supérieure à 200 ha.
 
-Coût du projet supérieur à 75 M€ ou superficie du projet supérieure à 100 ha.
+Coût du projet supérieur à 75 M € ou superficie du projet supérieure à 100 ha.
 
 4. Création de lignes électriques.
 
@@ -56,33 +56,33 @@ km.
 Lignes de tension supérieure ou égale à 200 kV et d'une longueur aérienne
 supérieure à 15 km.
 
-5. Création de gazoducs.
+5. Création de canalisations de transport de gaz, d'hydrocarbures ou de produits
+chimiques
 
-Gazoducs de diamètre supérieur ou égal à 600 mm et de longueur supérieure à 200
-km.
+Canalisations de transport de diamètre supérieur ou égal à 600 millimètres et de
+longueur supérieure à 200 kilomètres.
 
-Gazoducs de diamètre supérieur ou égal à 600 mm et de longueur supérieure à 100
-km.
 
-6. Création d'oléoducs.
+Canalisations de transport de diamètre supérieur ou égal à 600 millimètres et de
+longueur supérieure ou égale à 100 kilomètres
 
-Oléoducs de diamètre supérieur ou égal à 500 mm et de longueur supérieure à 200
-km.
+6. supprimé
 
-Oléoducs de diamètre supérieur ou égal à 500 mm et de longueur supérieure à 100
-km.
+supprimé
+
+supprimé
 
 7. Création d'une installation nucléaire de base.
 
-Nouveau site de production nucléaire - Nouveau site hors production
-électro-nucléaire correspondant à un investissement d'un coût supérieur à 300
-M€.
+Nouveau site de production nucléaire-Nouveau site hors production
+électro-nucléaire correspondant à un investissement d'un coût supérieur à 300 M
+€.
 
-Nouveau site de production nucléaire - Nouveau site hors production
-électro-nucléaire correspondant à un investissement d'un coût supérieur à 150
-M€.
+Nouveau site de production nucléaire-Nouveau site hors production
+électro-nucléaire correspondant à un investissement d'un coût supérieur à 150 M
+€.
 
-8. Création de barrages hydroélectriques ou de barrages-réservoirse.
+8. Création de barrages hydroélectriques ou de barrages-réservoirs.
 
 Volume supérieur à 20 millions de mètres cubes.
 
@@ -96,12 +96,12 @@ Débit supérieur ou égal à un demi-mètre cube par seconde.
 
 10. Equipements culturels, sportifs, scientifiques ou touristiques.
 
-Coût des bâtiments et infrastructures supérieur à 300 M€.
+Coût des bâtiments et infrastructures supérieur à 300 M €.
 
-Coût des bâtiments et infrastructures supérieur à 150 M€.
+Coût des bâtiments et infrastructures supérieur à 150 M €.
 
 11. Equipements industriels.
 
-Coût des bâtiments et infrastructures supérieur à 300 M€.
+Coût des bâtiments et infrastructures supérieur à 300 M €.
 
-Coût des bâtiments et infrastructures supérieur à 150 M€.
+Coût des bâtiments et infrastructures supérieur à 150 M €.

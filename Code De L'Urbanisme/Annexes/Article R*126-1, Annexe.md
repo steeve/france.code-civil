@@ -1,8 +1,8 @@
 Article R*126-1, Annexe
 ----
-I - Servitudes relatives à la conservation du patrimoine
+I ― Servitudes relatives à la conservation du patrimoine
 
-A. - Patrimoine naturel.
+A. ― Patrimoine naturel.
 
 a) Forêts.
 
@@ -56,7 +56,7 @@ e) Zones agricoles protégées.
 Zones agricoles protégées délimitées et classées en application de l'article L.
 112-2 du code rural et de la pêche maritime.
 
-B. - Patrimoine culturel.
+B. ― Patrimoine culturel.
 
 a) Monuments historiques.
 
@@ -92,15 +92,15 @@ c) patrimoine architectural et urbain.
 Zones de protection du patrimoine architectural et urbain instituées en
 application des articles L. 642-1 et L. 642-2 du code du patrimoine.
 
-C. - Patrimoine sportif.
+C. ― Patrimoine sportif.
 
 Terrains de sport dont le changement d'affectation est soumis à autorisation en
 application des dispositions de l'article 42 de la loi n° 84-610 du 16 juillet
 1984.
 
-II - Servitudes relatives à l'utilisation de certaines ressources et équipements
+II ― Servitudes relatives à l'utilisation de certaines ressources et équipements
 
-A. - Energie.
+A. ― Energie.
 
 a) Electricité et gaz.
 
@@ -113,7 +113,10 @@ De l'article 298 de la loi de finances du 13 juillet 1925 ;
 
 De l'article 35 de la loi n° 46-628 du 8 avril 1946 modifiée ;
 
-De l'article 25 du décret n° 64-481 du 23 janvier 1964.
+De l'article 25 du décret n° 64-481 du 23 janvier 1964 ;
+
+Servitudes relatives aux canalisations de transport de gaz instituées en
+application de l'article R. 555-30 du code de l'environnement.
 
 b) Energie hydraulique.
 
@@ -127,13 +130,16 @@ d'intérêt général instituées en application de l'article 11 de la loi n° 5
 du 29 mars 1958 et du décret n° 59-645 du 16 mai 1959 pris pour l'application
 dudit article 11 ;
 
+Servitudes relatives aux canalisations de transport d'hydrocarbures instituées
+en application de l'article R. 555-30 du code de l'environnement.
+
 d) Chaleur :
 
 Servitudes relatives aux canalisations de transport et de distribution de
 chaleur instituées en application de la loi n° 80-531 du 15 juillet 1980
 relative aux économies d'énergie et à l'utilisation de la chaleur.
 
-B. - Mines et carrières.
+B. ― Mines et carrières.
 
 Périmètres à l'intérieur desquels sont applicables les dispositions des articles
 71 à 73 du code minier ;
@@ -142,13 +148,16 @@ Servitudes relatives à la protection des stockages souterrains de gaz naturel,
 d'hydrocarbures liquides, liquéfiés ou gazeux ou de produits chimiques à
 destination industrielle prévues à l'article 104-3 (I et II) du code minier.
 
-C. - Canalisations.
+C. ― Canalisations.
 
 a) Produits chimiques.
 
 Zones auxquelles s'appliquent les servitudes attachées à la construction et à
 l'exploitation de canalisations de transport de produits chimiques, instituées
-en application de la loi n° 65-498 du 29 juin 1965.
+en application de la loi n° 65-498 du 29 juin 1965 ;
+
+Servitudes relatives aux canalisations de transport de produits chimiques
+instituées en application de l'article R. 555-30 du code de l'environnement.
 
 b) Eaux et assainissement.
 
@@ -169,13 +178,13 @@ Servitudes d'écoulement des eaux nuisibles attachées aux travaux
 d'assainissement des terres par le drainage instituées en application des
 articles 135 à 138 du code rural et de la pêche maritime (6) .
 
-D. - Communications.
+D. ― Communications.
 
 a) Cours d'eau.
 
-Servitudes de halage et de marchepied instituées par les articles 15, 16 et 28
-du code du domaine public fluvial et de la navigation intérieure et par
-l'article 424 du code rural et de la pêche maritime (7) .
+Servitudes de halage et de marchepied instituées par les articles 15,16 et 28 du
+code du domaine public fluvial et de la navigation intérieure et par l'article
+424 du code rural et de la pêche maritime (7) .
 
 b) Navigation maritime.
 
@@ -239,7 +248,7 @@ d'office et leurs unions :
 Servitudes de passage pour l'entretien d'ouvrages instituées en application du
 second alinéa de l'article 28 de l'ordonnance n° 2004-632 du 1er juillet 2004.
 
-E. - Télécommunications.
+E. ― Télécommunications.
 
 Servitudes de protection des centres radio-électriques d'émission et de
 réception contre les obstacles instituées en application des articles L. 54 à L.
@@ -255,7 +264,7 @@ des articles L. 45-1 et L. 48 du code des postes et des communications
 électroniques.
 
 
-III - Servitudes relatives à la Défense Nationale
+III ― Servitudes relatives à la Défense Nationale
 
 Servitudes de champ de vue instituées par la loi du 18 juillet 1895 concernant
 la détermination et la conservation des postes électro-sémaphoriques, modifiée
@@ -274,16 +283,16 @@ partie ou en totalité à l'armée de l'air instituées en application du décre
 30 octobre 1935 ;
 
 Servitudes relatives aux fortifications, places fortes, postes et ouvrages
-militaires instituées en application des lois du 8 juillet 1791, 17 juillet 1819
+militaires instituées en application des lois du 8 juillet 1791,17 juillet 1819
 et 10 juillet 1851 ;
 
 Servitudes aux abords des champs de tir créées en application de l'article 25 de
 la loi du 13 juillet 1927.
 
 
-IV - Servitudes relatives à la salubrité et à la sécurité publiques
+IV ― Servitudes relatives à la salubrité et à la sécurité publiques
 
-A. - Salubrité publique.
+A. ― Salubrité publique.
 
 a) Cimetières.
 
@@ -293,9 +302,7 @@ L'article L. 361-1 du code des communes
 
 (11) ;
 
-L'article L. 361-4 du code des communes
-
-(12) .
+L'article L. 361-4 du code des communes (12) .
 
 b) Etablissements conchylicoles.
 
@@ -304,7 +311,7 @@ et d'aquaculture et des gisements coquilliers en application de l'article 2 du
 décret du 30 octobre 1935 sur la protection des eaux potables et les
 établissements ostréicoles.
 
-B. - Sécurité publique
+B. ― Sécurité publique
 
 Plans de prévention des risques naturels prévisibles établis en application de
 l'article L. 562-1 du code de l'environnement, ou plans de prévention des

@@ -305,9 +305,9 @@ superficie :
 
 2° Supérieure à 20 ha mais inférieure à 100 ha (D).
 
-3. 3. 3. 0. Canalisations de transports d'hydrocarbures ou de produits chimiques
-liquides dont le produit du diamètre extérieur par la longueur est égal ou
-supérieur à 5 000 m2 (A).
+3. 3. 3. 0. Canalisations de transports d'hydrocarbures liquides ou de produits
+chimiques liquides de longueur supérieure à 5 kilomètres ou dont le produit du
+diamètre extérieur par la longueur est supérieur à 2 000 mètres carrés (A).
 
 
 TITRE IV

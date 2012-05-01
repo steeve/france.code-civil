@@ -1,9 +1,9 @@
 Article R2333-120
 ----
-Les dispositions applicables à la redevance prévue au 7° de l'article L. 2331-2
-pour l'occupation du domaine public communal par les oléoducs d'intérêt général
-destinés aux transports d'hydrocarbures liquides ou liquéfiés sous pression sont
-déterminées par le décret n° 73-870 du 28 août 1973 portant application des
-dispositions de l'article 11 de la loi de finances n° 58-336 du 29 mars 1958
-relatives aux redevances d'occupation du domaine public pour la construction et
-l'exploitation des oléoducs d'intérêt général.
+La redevance due à une commune pour l'occupation de son domaine public par les
+canalisations de transport d'hydrocarbures ou de produits chimiques est fixée
+par délibération du conseil municipal après avis de l'exploitant de la
+canalisation. Pour les canalisations déclarées d'utilité publique ou d'intérêt
+général et en cas de désaccord de l'exploitant, la redevance due chaque année ne
+peut dépasser le plafond fixé par l'article R. 2333-114 et mis à jour par
+l'article R. 2333-117.

@@ -15,8 +15,7 @@ kilomètres, accessibles aux bateaux de plus de 1 500 tonnes de port en lourd ;
 d'une longueur supérieure à 20 kilomètres à l'exclusion des travaux
 d'aménagement et de réalisation d'ouvrages annexes sur le réseau existant ;
 
-5° Les travaux de construction de canalisations d'intérêt général destinées au
-transport d'hydrocarbures liquides ;
+5° Abrogé ;
 
 6° Les travaux de création de centrales électriques d'une puissance égale ou
 supérieure à 100 mégawatts, d'usines utilisant l'énergie des mers ainsi que
