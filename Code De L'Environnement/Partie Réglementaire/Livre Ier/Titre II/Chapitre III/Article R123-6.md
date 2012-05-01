@@ -3,7 +3,7 @@ Article R123-6
 La durée de l'enquête publique est fixée par l'autorité compétente pour ouvrir
 et organiser l'enquête. Cette durée ne peut être inférieure à trente jours et ne
 peut excéder deux mois, sauf le cas où les dispositions des articles R. 123-22
-ou R. 122-23 sont mises en œuvre.
+ou R. 123-23 sont mises en œuvre.
 
 Toutefois, par décision motivée, le commissaire enquêteur ou le président de la
 commission d'enquête peut, après information de l'autorité compétente pour

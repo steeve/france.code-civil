@@ -15,7 +15,7 @@ polluant des déchets, le niveau acoustique des appareils qui seront employés
 ainsi que les vibrations qu'ils peuvent provoquer, le mode et les conditions
 d'approvisionnement en eau et d'utilisation de l'eau ;
 
-2° a) Les mesures réductrices et compensatoires mentionnées au 6° du II de
+2° a) Les mesures réductrices et compensatoires mentionnées au 7° du II de
 l'article R. 122-5 font l'objet d'une description des performances attendues,
 notamment en ce qui concerne la protection des eaux souterraines, l'épuration et
 l'évacuation des eaux résiduelles et des émanations gazeuses ainsi que leur
