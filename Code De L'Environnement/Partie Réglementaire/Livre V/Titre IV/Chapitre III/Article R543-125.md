@@ -31,16 +31,33 @@ hauteur et qui est utilisé dans des applications spéciales telles que les
 appareils auditifs, les montres, les petits appareils portatifs ou comme énergie
 de réserve ;
 
-7° Est considérée comme producteur toute personne qui à titre professionnel soit
-fabrique, soit importe ou introduit pour la première fois en France des piles ou
-des accumulateurs destinés à être vendus par quelque technique de vente que ce
-soit ou utilisés directement sur le territoire national, y compris ceux qui sont
-intégrés dans des équipements électriques et électroniques tels que définis à
-l'article R. 543-172 ou dans des véhicules tels que définis à l'article R.
-543-154. Dans le cas de piles ou d'accumulateurs vendus sous la seule marque
-d'un revendeur, le revendeur est considéré comme le producteur ;
+7° Est considérée comme producteur toute personne située sur le territoire
+national qui, quelle que soit la technique de vente utilisée, y compris par
+communication à distance, met des piles ou des accumulateurs sur le marché pour
+la première fois sur le territoire national à titre professionnel, y compris
+ceux qui sont intégrés dans des équipements électriques et électroniques tels
+que définis à l'article R. 543-172 ou dans des véhicules tels que définis à
+l'article R. 543-154 ;
 
 8° Est considérée comme distributeur toute personne qui, quelle que soit la
 technique de distribution utilisée, y compris par communication à distance,
 fournit à titre commercial des piles ou des accumulateurs à celui qui va les
-utiliser.
+utiliser ;
+
+9° Est considérée comme une mise sur le marché la fourniture ou la mise à
+disposition à des tiers de piles et accumulateurs sur le territoire douanier de
+l'Union européenne, à titre onéreux ou gratuit, y compris l'importation sur le
+territoire de l'Union européenne ;
+
+10° Est considérée comme une fourniture ou une mise à disposition à des tiers
+pour la première fois sur le territoire national, la fabrication, l'introduction
+ou l'importation, sur le territoire national, de piles et accumulateurs destinés
+à être distribués ou utilisés par l'utilisateur final sur le territoire national
+;
+
+11° Est considéré comme le taux national de collecte séparée de l'année civile,
+mentionné à l'article R. 543-128-5, le pourcentage obtenu en divisant les
+tonnages de déchets de piles et accumulateurs portables collectés séparément
+pendant ladite année civile par les tonnages moyens de piles et accumulateurs
+portables mis sur le marché national pendant la même année civile et les deux
+années précédentes.

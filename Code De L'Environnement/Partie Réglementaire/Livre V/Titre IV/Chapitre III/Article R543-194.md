@@ -1,13 +1,10 @@
 Article R543-194
 ----
-Pendant une période transitoire, jusqu'au 13 février 2011 et, pour certains
-équipements appartenant à la catégorie mentionnée au 1° du I de l'article R.
-543-172, figurant sur une liste fixée par arrêté conjoint des ministres chargés,
-respectivement, de l'environnement, de l'économie, de l'industrie et de la
-consommation, jusqu'au 13 février 2013, les producteurs informent les acheteurs,
-par une mention particulière figurant au bas de la facture de vente, du coût
+Jusqu'au 13 février 2013, les producteurs informent les acheteurs du coût
 correspondant à la gestion des déchets d'équipements électriques et
-électroniques mis sur le marché avant le 13 août 2005.
+électroniques ménagers mis sur le marché avant le 13 août 2005 par une mention
+particulière, en sus du prix hors taxe, en pied de facture de vente de tout
+nouvel équipement électrique et électronique ménager.
 
 Les distributeurs informent également du coût de cette gestion leurs propres
 acheteurs dans les conditions prévues à l'alinéa précédent lorsqu'une facture

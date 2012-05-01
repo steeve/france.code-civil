@@ -1,6 +1,8 @@
 Article R543-183
 ----
-L'agrément est subordonné à un engagement de l'organisme relatif :
+L'agrément est délivré dès lors que l'organisme coordonnateur établit, à l'appui
+de sa demande, qu'il dispose des capacités techniques et financières pour
+répondre aux exigences d'un cahier des charges relatif :
 
 1° Au montant des contributions dont bénéficieront les communes ou leurs
 groupements en application du deuxième alinéa de l'article R. 543-181 ;

@@ -22,4 +22,5 @@ d'équipement électrique et électronique ménager conformément à l'article R
 contribution à un éco-organisme agréé conformément à l'article R. 543-193 ;
 
 6° De ne pas assurer l'enlèvement et le traitement d'un déchet d'équipement
-électrique et électronique professionnel conformément à l'article R. 543-195.
+électrique et électronique professionnel conformément au I de l'article R.
+543-195 et au I de l'article R. 543-198.

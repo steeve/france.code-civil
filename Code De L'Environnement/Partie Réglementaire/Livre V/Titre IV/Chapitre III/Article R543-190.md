@@ -1,6 +1,8 @@
 Article R543-190
 ----
-L'agrément est subordonné à un engagement de l'éco-organisme relatif :
+L'agrément est délivré dès lors que l'éco-organisme établit, à l'appui de sa
+demande, qu'il dispose des capacités techniques et financières pour répondre aux
+exigences d'un cahier des charges relatif :
 
 1° Aux conditions d'enlèvement des déchets d'équipements électriques et
 électroniques collectés séparément dans les conditions définies aux articles R.
@@ -15,7 +17,8 @@ des composants, des matières et des substances ;
 4° Aux moyens qui seront mis en oeuvre pour satisfaire aux obligations
 d'information prévues aux articles R. 543-178 et R. 543-187 ;
 
-5° A sa capacité financière ;
+5° Au respect de ses obligations pour les déchets d'équipements électriques et
+électroniques ménagers ;
 
 6° A l'obligation de communiquer au ministre chargé de l'environnement un bilan
 annuel d'activité destiné à être rendu public, ainsi que les résultats obtenus
