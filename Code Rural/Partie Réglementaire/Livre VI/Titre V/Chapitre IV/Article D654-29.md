@@ -18,5 +18,9 @@ septembre 2003 établissant un prélèvement dans le secteur du lait et des
 produits laitiers.
 
 Les critères pouvant en outre être utilisés pour la détermination du prix du
-lait sont : le dénombrement des spores buryriques, la lipolyse et la présence
-d'antibiotiques ou d'inhibiteurs de fermentation.
+lait sont le dénombrement des spores butyriques, la lipolyse et la présence
+d'antibiotiques ou d'inhibiteurs de fermentation, ainsi que, pour le lait
+susceptible d'être utilisé pour la fabrication d'un produit laitier sous signe
+d'identification de la qualité et de l'origine, le respect des conditions
+prévues dans le cahier des charges de ce signe, apprécié selon les modalités
+prévues à l'article R. 642-39.
