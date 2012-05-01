@@ -13,6 +13,11 @@ prescrite par un arrêté du préfet qui détermine :
 dispositions de l'article L. 515-22, ainsi que les modalités de leur association
 à l'élaboration du projet.
 
+I bis.-Il mentionne si une évaluation environnementale est requise en
+application de l'article R. 122-18. Lorsqu'elle est explicite, la décision de
+l'autorité de l'Etat compétente en matière d'environnement est annexée à
+l'arrêté.
+
 II.-L'arrêté fixe également les modalités de la concertation avec les habitants,
 les associations locales et les autres personnes intéressées. Les dispositions
 correspondantes de l'arrêté préfectoral doivent être soumises préalablement au

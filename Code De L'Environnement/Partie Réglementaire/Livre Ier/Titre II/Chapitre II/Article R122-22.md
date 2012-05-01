@@ -1,13 +1,27 @@
 Article R122-22
 ----
-Lorsque l'autorité compétente pour élaborer un plan ou document estime qu'il est
-susceptible d'avoir des incidences notables sur l'environnement d'un autre Etat
-membre de la Communauté européenne, ou lorsque cet autre Etat en fait la
-demande, cette autorité, sitôt après avoir engagé la consultation du public,
-transmet un exemplaire du dossier mentionné au I de l'article R. 122-21 aux
-autorités de cet Etat en leur indiquant le délai qui leur est imparti pour
-formuler leur avis. Ce délai ne doit pas dépasser trois mois. Elle en informe le
-ministre des affaires étrangères.
+Pour l'application de l'article L. 122-8, la mise à disposition du public est
+réalisée dans les conditions suivantes :
 
-Lorsque l'autorité n'est pas un service de l'Etat, elle fait transmettre le
-dossier par le préfet.
+1° Huit jours au moins avant le début de la mise à disposition, la personne
+publique responsable publie un avis qui fixe :
+
+a) La date à compter de laquelle le dossier comprenant les documents et
+informations mentionnés à l'article L. 122-8 est tenu à la disposition du public
+et la durée pendant laquelle il peut être consulté, cette durée ne pouvant être
+inférieure à un mois ;
+
+b) Les lieux, jours et heures où le public peut prendre connaissance du dossier
+et formuler ses observations sur un registre ouvert à cet effet ;
+
+2° L'avis mentionné au 1° est publié dans au moins un journal diffusé dans le
+territoire concerné par le plan, schéma, programme ou document de planification
+et sur le site internet de la personne publique responsable lorsqu'elle dispose
+d'un tel site ;
+
+3° La personne publique responsable dresse le bilan de la mise à disposition du
+public et le tient à la disposition du public selon des procédés qu'elle
+détermine ;
+
+4° La personne publique responsable assume les frais afférents à ces mesures de
+publicité.

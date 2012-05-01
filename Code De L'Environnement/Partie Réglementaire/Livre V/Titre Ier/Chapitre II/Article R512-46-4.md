@@ -3,16 +3,16 @@ Article R512-46-4
 A chaque exemplaire de la demande d'enregistrement doivent être jointes les
 pièces suivantes :
 
-1° Une carte au 1 / 25 000 ou, à défaut, au 1 / 50 000 sur laquelle sera indiqué
+1° Une carte au 1/25 000 ou, à défaut, au 1/50 000 sur laquelle sera indiqué
 l'emplacement de l'installation projetée ;
 
-2° Un plan, à l'échelle de 1 / 2 500 au minimum, des abords de l'installation
+2° Un plan, à l'échelle de 1/2 500 au minimum, des abords de l'installation
 jusqu'à une distance qui est au moins égale à 100 mètres. Lorsque des distances
 d'éloignement sont prévues dans l'arrêté de prescriptions générales prévu à
-l'article L. 512-7, le plan au 1 / 2 500 doit couvrir ces distances augmentées
-de 100 mètres ;
+l'article L. 512-7, le plan au 1/2 500 doit couvrir ces distances augmentées de
+100 mètres ;
 
-3° Un plan d'ensemble, à l'échelle de 1 / 200 au minimum, indiquant les
+3° Un plan d'ensemble, à l'échelle de 1/200 au minimum, indiquant les
 dispositions projetées de l'installation ainsi que, jusqu'à 35 mètres au moins
 de celle-ci, l'affectation des constructions et terrains avoisinants, le tracé
 des réseaux enterrés existants, les canaux, plans d'eau et cours d'eau. Une
@@ -47,8 +47,8 @@ prescriptions ;
 
 9° Les éléments permettant au préfet d'apprécier, s'il y a lieu, la
 compatibilité du projet avec les plans, schémas et programmes mentionnés aux 4°
-à 11° de l'article R. 122-17 ainsi qu'avec les mesures fixées par l'arrêté prévu
-à l'article R. 222-36 ;
+à 15° du tableau du I de l'article R. 122-17 ainsi qu'avec les mesures fixées
+par l'arrêté prévu à l'article R. 222-36 ;
 
 10° L'indication, s'il y a lieu, que l'emplacement de l'installation est situé
 dans un parc national, un parc naturel régional, une réserve naturelle, un parc

@@ -9,8 +9,10 @@ portant réforme portuaire.
 Il est transmis aux ministres chargés des ports maritimes, de l'économie et du
 budget, après approbation du conseil de surveillance.
 
-
-Il est révisé dans les cinq ans suivant son adoption ou sa précédente révision
+A l'exception des 4° et 5° de l'article R. 103-1, il est révisé dans les cinq
+ans suivant son adoption ou sa précédente révision. Les 4° et 5° de l'article R.
+103-1 sont révisés lorsque le positionnement stratégique ou politique de
+l'établissement le nécessite.
 
 La révision du projet stratégique est opérée selon les mêmes modalités que son
 élaboration.
