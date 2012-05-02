@@ -9,4 +9,4 @@ si elles ne sont pas intervenues à l'instance.
 
 Le délai d'appel est de quinze jours.
 
-Les parties ne sont pas tenues de constituer avocat ou avoué.
+Les parties ne sont pas tenues de constituer avocat.

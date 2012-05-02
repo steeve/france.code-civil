@@ -5,7 +5,7 @@ sont celles des articles suivants du code du travail :
 
 " PREMIÈRE PARTIE : LES RELATIONS INDIVIDUELLES DE TRAVAIL
 
-LIVRE IV : LA RÉSOLUTION DES LITIGES LE CONSEIL DE PRUD'HOMMES
+LIVRE IV : LA RÉSOLUTION DES LITIGES - LE CONSEIL DE PRUD'HOMMES
 
 TITRE V : PROCÉDURE DEVANT LE CONSEIL DE PRUD'HOMMES
 
@@ -188,10 +188,8 @@ Art.R. 1454-3
 
 Le conseiller rapporteur peut entendre les parties. Il peut les inviter à
 fournir les explications nécessaires à la solution du litige. Il peut les mettre
-en demeure de produire
-
-dans le délai qu'il détermine tous documents ou justifications propres à
-éclairer le conseil de prud'hommes.
+en demeure de produire dans le délai qu'il détermine tous documents ou
+justifications propres à éclairer le conseil de prud'hommes.
 
 En cas de non-production des documents et justifications mentionnés au premier
 alinéa, le rapporteur peut renvoyer l'affaire devant le bureau de jugement. Ce
@@ -453,7 +451,7 @@ défaillant et désigné comme suppléant dans les formes prévues aux articles 
 1423-3 à L. 1423-8 et R. 1423-13.
 
 A défaut de cette désignation, la présidence revient au conseiller le plus
-ancien en fonctions dans la même assemblée.S'il y a égalité dans la durée des
+ancien en fonctions dans la même assemblée. S'il y a égalité dans la durée des
 fonctions, la présidence revient au conseiller le plus âgé.
 
 Art.R. 1454-25

@@ -12,8 +12,8 @@ que le président de cette juridiction désigne à cet effet.
 
 Les parties ou les personnes qui doivent apporter leur concours à l'exécution de
 la mesure d'instruction sont directement convoquées ou avisées par la
-juridiction commise. Les parties ne sont pas tenues de constituer avocat ou
-avoué devant cette juridiction.
+juridiction commise. Les parties ne sont pas tenues de constituer avocat devant
+cette juridiction.
 
 Sitôt les opérations accomplies, le secrétariat de la juridiction qui y a
 procédé transmet à la juridiction commettante les procès-verbaux accompagnés des

@@ -1,7 +1,8 @@
 Article 960
 ----
-La constitution d'avoué par l'intimé ou par toute personne qui devient partie en
-cours d'instance est dénoncée aux autres parties par notification entre avoués.
+La constitution d'avocat par l'intimé ou par toute personne qui devient partie
+en cours d'instance est dénoncée aux autres parties par notification entre
+avocats.
 
 Cet acte indique :
 

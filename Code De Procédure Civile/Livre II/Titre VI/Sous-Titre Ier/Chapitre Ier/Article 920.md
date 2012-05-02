@@ -7,7 +7,7 @@ la déclaration d'appel visé par le secrétaire ou une copie de la déclaration
 d'appel dans le cas mentionné au troisième alinéa de l'article 919, sont joints
 à l'assignation.
 
-L'assignation informe l'intimé que, faute de constituer avoué avant la date de
+L'assignation informe l'intimé que, faute de constituer avocat avant la date de
 l'audience, il sera réputé s'en tenir à ses moyens de première instance.
 
 L'assignation indique à l'intimé qu'il peut prendre connaissance au greffe de la

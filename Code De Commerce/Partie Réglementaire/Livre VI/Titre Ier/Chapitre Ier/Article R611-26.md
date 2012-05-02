@@ -4,7 +4,7 @@ S'il n'est pas fait droit à la demande de désignation d'un conciliateur ou de
 prorogation de la mission de celui-ci, appel peut être interjeté par le débiteur
 par une déclaration faite ou adressée par lettre recommandée avec demande d'avis
 de réception au greffe du tribunal. Toutefois, le débiteur est dispensé du
-ministère de l'avocat ou de l'avoué.
+ministère de l'avocat.
 
 Le président du tribunal peut, dans un délai de cinq jours à compter de la
 déclaration d'appel, modifier ou rétracter sa décision.

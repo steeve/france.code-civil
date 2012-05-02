@@ -7,7 +7,7 @@ paiement du prix et des charges.
 La réquisition de mise aux enchères doit être signée du créancier et signifiée à
 l'acquéreur dans le délai de cinq jours de la notification augmenté des délais
 de distance. Elle contient assignation devant le tribunal de grande instance
-auprès duquel l'acquéreur a constitué avoué, pour voir ordonner qu'il sera
+auprès duquel l'acquéreur a constitué avocat, pour voir ordonner qu'il sera
 procédé aux enchères requises. Dans les territoires d'outre-mer, l'assignation
 sera faite devant l'autorité judiciaire correspondante.
 

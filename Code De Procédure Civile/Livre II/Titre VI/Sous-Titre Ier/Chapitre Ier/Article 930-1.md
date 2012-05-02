@@ -10,7 +10,7 @@ d'exemplaires qu'il y a de parties destinataires, plus deux. La remise est
 constatée par la mention de sa date et le visa du greffier sur chaque
 exemplaire, dont l'un est immédiatement restitué.
 
-Les avis, avertissements ou convocations sont remis aux avoués des parties par
+Les avis, avertissements ou convocations sont remis aux avocats des parties par
 voie électronique, sauf impossibilité pour cause étrangère à l'expéditeur.
 
 Un arrêté du garde des sceaux définit les modalités des échanges par voie

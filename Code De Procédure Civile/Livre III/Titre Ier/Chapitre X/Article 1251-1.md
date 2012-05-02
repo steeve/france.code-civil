@@ -9,6 +9,6 @@ décision du juge des tutelles prévue à l'article 1249 :
 2° Les personnes qui ont qualité, selon l'article 430 du code civil, pour
 demander l'ouverture d'une mesure de protection ;
 
-3° Les avocats, avoués, notaires et huissiers de justice qui justifient de
-l'utilité de la déclaration dans le cadre d'un acte relevant de l'exercice de
-leurs fonctions.
+3° Les avocats, notaires et huissiers de justice qui justifient de l'utilité de
+la déclaration dans le cadre d'un acte relevant de l'exercice de leurs
+fonctions.

@@ -6,5 +6,5 @@ pendant un délai qu'il détermine, dans une préfecture ou une sous-préfecture
 au greffe d'une autre juridiction administrative.
 
 En cas de nécessité reconnue, il peut également autoriser la remise momentanée
-de ces pièces, pendant un délai qu'il fixe, entre les mains des avocats ou
-avoués des parties ou des représentants des administrations.
+de ces pièces, pendant un délai qu'il fixe, entre les mains des avocats des
+parties ou des représentants des administrations.

@@ -1,5 +1,5 @@
 Article 899
 ----
-Les parties sont tenues, sauf dispositions contraires, de constituer avoué.
+Les parties sont tenues, sauf dispositions contraires, de constituer avocat.
 
-La constitution de l'avoué emporte élection de domicile.
+La constitution de l'avocat emporte élection de domicile.

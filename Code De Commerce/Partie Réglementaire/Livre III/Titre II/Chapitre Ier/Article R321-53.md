@@ -8,5 +8,4 @@ Conseil des ventes volontaires de meubles aux enchères publiques et, le cas
 Le Conseil des ventes volontaires de meubles aux enchères publiques est partie à
 l'instance.
 
-Les parties ont la faculté de se faire assister ou représenter par un avocat ou
-un avoué.
+Les parties ont la faculté de se faire assister ou représenter par un avocat.

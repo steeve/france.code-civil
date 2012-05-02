@@ -8,9 +8,6 @@ peine d'irrecevabilité :
 2° Le cas échéant, l'indication des chefs du jugement auquel l'appel est limité
 ;
 
-3° La constitution des avoués des parties.
+3° La constitution des avocats des parties.
 
-La requête conjointe fait mention, le cas échéant, du nom des avocats chargés
-d'assister les parties devant la cour.
-
-Elle est signée par les avoués constitués.
+Elle est signée par les avocats constitués.

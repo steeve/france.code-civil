@@ -12,7 +12,7 @@ Les parties ne sont pas obligées de recourir au ministère d'un avocat.
 
 Le tribunal accorde aux parties ou aux agents de l'administration qui suivent
 les instances, les délais nécessaires pour présenter leur défense. Cette
-disposition est applicable, devant la cour d'appel, à l'égard des avoués
+disposition est applicable, devant la cour d'appel, à l'égard des avocats
 constitués.
 
 Les notifications sont valablement faites au domicile réel du contribuable alors

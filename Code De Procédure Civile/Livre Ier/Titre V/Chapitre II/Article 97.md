@@ -7,11 +7,11 @@ délai, lorsque cette voie était ouverte contre la décision de renvoi.
 
 Dès réception du dossier, les parties sont invitées par lettre recommandée avec
 demande d'avis de réception du secrétaire de la juridiction désignée à
-poursuivre l'instance et, s'il y a lieu, à constituer avocat ou avoué.
+poursuivre l'instance et, s'il y a lieu, à constituer avocat.
 
 Lorsque devant celle-ci les parties sont tenues de se faire représenter,
-l'affaire est d'office radiée si aucune d'elles n'a constitué avocat ou avoué,
-selon le cas, dans le mois de l'avis qui leur a été donné.
+l'affaire est d'office radiée si aucune d'elles n'a constitué avocat, selon le
+cas, dans le mois de l'avis qui leur a été donné.
 
 Lorsque le renvoi est fait à la juridiction qui avait été primitivement saisie,
 l'instance se poursuit à la diligence du juge.

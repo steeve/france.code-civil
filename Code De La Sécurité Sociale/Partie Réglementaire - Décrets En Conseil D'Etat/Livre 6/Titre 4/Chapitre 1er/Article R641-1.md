@@ -6,12 +6,11 @@ dix sections professionnelles :
 1° La section professionnelle des notaires ;
 
 2° La section professionnelle des officiers ministériels, officiers publics et
-des compagnies judiciaires réunissant : les avoués près les cours d'appel, les
-huissiers de justice, les personnes ayant la qualité de commissaire-priseur
-judiciaire ou de personne habilitée à diriger les ventes dans les conditions
-prévues à l'article L. 321-8 du code de commerce, les administrateurs
-judiciaires, les mandataires judiciaires, les greffiers des tribunaux de
-commerce, les arbitres près le tribunal de commerce ;
+des compagnies judiciaires réunissant : les huissiers de justice, les personnes
+ayant la qualité de commissaire-priseur judiciaire ou de personne habilitée à
+diriger les ventes dans les conditions prévues à l'article L. 321-8 du code de
+commerce, les administrateurs judiciaires, les mandataires judiciaires, les
+greffiers des tribunaux de commerce, les arbitres près le tribunal de commerce ;
 
 3° La section professionnelle des médecins ;
 

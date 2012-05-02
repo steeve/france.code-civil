@@ -17,7 +17,7 @@ des créances inscrites ;
 hypothécaires jusqu'à concurrence du prix, sans distinction des dettes exigibles
 ou non ;
 
-4° Constitution d'un avoué près le tribunal de grande instance dans le ressort
+4° Constitution d'un avocat près le tribunal de grande instance dans le ressort
 duquel se trouve soit l'aéronef, soit son port d'attache, soit le lieu où il est
 immatriculé, ou recours à toute procédure correspondante dans les territoires
 d'outre-mer.

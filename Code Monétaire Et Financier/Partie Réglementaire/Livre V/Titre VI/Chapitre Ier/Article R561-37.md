@@ -8,9 +8,9 @@ dans un délai de quinze jours à compter de cette transmission.
 
 II. ― Pour l'application du deuxième alinéa du I de l'article L. 561-28, le
 service informe le président de l'ordre des avocats au Conseil d'Etat et à la
-Cour de cassation, le bâtonnier de l'ordre des avocats ou le président de la
-compagnie des avoués de la transmission de la déclaration au procureur de la
-République, dans les mêmes conditions qu'au I du présent article.
+Cour de cassation ou le bâtonnier de l'ordre des avocats de la transmission de
+la déclaration au procureur de la République, dans les mêmes conditions qu'au I
+du présent article.
 
 Ces autorités transmettent cette information, sans délai, à la personne
 concernée.
