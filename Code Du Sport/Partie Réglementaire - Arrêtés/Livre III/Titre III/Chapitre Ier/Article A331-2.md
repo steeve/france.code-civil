@@ -1,13 +1,30 @@
 Article A331-2
 ----
-L'autorisation prévue à l'article R. 331-6 est délivrée sous réserve des
-exceptions prévues aux articles A. 331-6 et A. 331-8 : 1° Par le ministre de
-l'intérieur, lorsque le parcours sur lequel doit se dérouler l'épreuve inclut
-des voies situées dans plus de vingt départements distincts ; 2° En vertu d'une
-délégation ministérielle permanente, par le préfet du département dans lequel le
-départ de l'épreuve est donné, si le nombre des départements intéressés par la
-manifestation est égal ou inférieur à vingt. Dans le cas où l'épreuve comporte
-des points de départ différents, sans que le nombre des départements
-respectivement traversés soit au total supérieur à vingt, l'autorisation est
-délivrée par le préfet du département où est établi le siège du groupement
-organisateur de l'épreuve.
+Tout dossier de déclaration de manifestation sportive présenté par
+l'organisateur comprend :
+
+1° Les nom, adresse et coordonnées de l'organisateur ;
+
+2° La date et les horaires auxquels se déroule la manifestation ;
+
+3° La nature et les modalités d'organisation de la manifestation, notamment son
+programme et son règlement ;
+
+4° Dans les cas où l'itinéraire est imposé aux participants, un plan des voies
+empruntées sur lequel figurent les points de rassemblement ou de contrôle
+préalablement définis (à joindre) ;
+
+5° Le nombre maximal de participants à la manifestation ainsi que, le cas
+échéant, le nombre de véhicules d'accompagnement ;
+
+6° Le recensement des dispositions assurant la sécurité et la protection des
+participants et des tiers ;
+
+7° Une attestation de police d'assurance souscrite par l'organisateur de la
+manifestation, qui doit être présentée à l'autorité administrative au plus tard
+six jours francs avant le début de la manifestation.
+
+L'organisateur de la manifestation transmet le dossier complet de déclaration au
+préfet territorialement compétent, au plus tard un mois avant la date prévue
+pour son organisation. Si la manifestation se déroule sur plusieurs
+départements, le dossier est adressé à chaque préfet de département traversé.

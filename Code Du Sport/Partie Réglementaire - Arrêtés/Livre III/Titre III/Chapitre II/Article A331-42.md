@@ -1,6 +1,6 @@
 Article A331-42
 ----
-Les signaleurs devront être présents et les équipements mis en place un quart
-d'heure au moins, une demi-heure au plus, avant le passage théorique de la
-course et retirés un quart d'heure après le passage du véhicule annonçant la fin
-de la course.
+Les délais dans lesquels les signaleurs devront être présents et les
+équipements, prévus à l'article A. 331-40, mis en place, avant le passage
+théorique de la course et retirés après le passage du véhicule annonçant la fin
+de la course, peuvent être fixés par l'arrêté qui autorise l'épreuve.
