@@ -26,19 +26,11 @@ Deuxième dimanche de septembre
 
 Dernier jour de février
 
-Pays de la Loire et départements de la Côte-d'Or, d'Indre-et-Loire et de
-Saône-et-Loire
+Nord - Pas-de-Calais, Picardie, Ile-de-France, Centre, Haute-Normandie,
+Basse-Normandie, Bretagne, Pays de la Loire, Champagne-Ardenne, Lorraine (sauf
+la Moselle), Bourgogne
 
 
 Troisième dimanche de septembre
-
-Dernier jour de février
-
-Nord, Picardie, Ile-de-France, Centre (sauf l'Indre-et-Loire), Haute-Normandie,
-Basse-Normandie, Bretagne, Champagne-Ardenne, Lorraine (sauf la Moselle),
-Bourgogne (sauf la Côte-d'Or et la Saône-et-Loire)
-
-
-Quatrième dimanche de septembre
 
 Dernier jour de février
