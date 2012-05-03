@@ -15,4 +15,7 @@ active est intégralement à la charge du Fonds national des solidarités active
 en application du troisième alinéa du I de l'article L. 262-24 du code de
 l'action sociale et des familles ;
 
-4° L'élaboration de données statistiques et financières anonymes.
+4° L'élaboration de données statistiques et financières anonymes ;
+
+5° La réalisation d'enquêtes permettant d'étudier la situation des personnes en
+contrats aidés et leur parcours professionnel.

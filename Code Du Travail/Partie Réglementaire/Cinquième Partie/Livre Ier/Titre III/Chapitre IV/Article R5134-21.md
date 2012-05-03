@@ -11,7 +11,7 @@ administrations et organismes :
 1° Les services déconcentrés du ministre chargé de l'emploi dans le département
 ;
 
-2° Les unités locales de Pôle emploi ;
+2° Les agences locales de Pôle emploi ;
 
 3° Les organismes mentionnés à l'article D. 5134-14, pour les conventions qu'ils
 ont conclues au nom de l'Etat ;
