@@ -20,9 +20,9 @@ capital d'une personne.
 III. ― Les informations échangées dans le cadre des dispositions des articles L.
 283 A à L. 283 F ne peuvent être transmises qu'aux fins de mise en œuvre de
 mesures de recouvrement ou conservatoires portant sur les créances mentionnées
-aux 1° à 4° du II de l'article L. 283 A du présent livre. L'administration
-bénéficiaire de ces informations est soumise au secret professionnel dans les
-termes des articles 226-13 et 226-14 du code pénal.
+aux 1° à 4° du II de l'article L. 283 A. L'administration bénéficiaire de ces
+informations est soumise au secret professionnel dans les termes des articles
+226-13 et 226-14 du code pénal.
 
 IV. ― Les informations échangées dans le cadre des dispositions des articles L.
 283 A à L. 283 F peuvent être invoquées ou utilisées comme preuve par les

@@ -14,8 +14,7 @@ Les agents habilités peuvent procéder, à l'occasion de la visite, à la saisi
 des pièces et documents, quel qu'en soit le support, ainsi que des objets ou des
 marchandises se rapportant aux infractions précitées. Ils peuvent saisir les
 biens et avoirs provenant directement ou indirectement des infractions précitées
-uniquement dans le cas de visites autorisées en application du 2 du présent
-article.
+uniquement dans le cas de visites autorisées en application du 2.
 
 2. Hormis les cas de flagrance, chaque visite doit être autorisée par une
 ordonnance du juge des libertés et de la détention du tribunal de grande
@@ -130,8 +129,8 @@ que des biens et avoirs provenant directement ou indirectement des infractions
 dont la preuve est recherchée, lui est annexé. Le procès-verbal et l'inventaire
 sont signés par les agents de l'administration des douanes et droits indirects
 et par l'officier de police judiciaire ainsi que par les personnes mentionnées
-au premier alinéa du 3 ci-dessus ; en cas de refus de signer, mention en est
-faite au procès-verbal.
+au premier alinéa du 3 ; en cas de refus de signer, mention en est faite au
+procès-verbal.
 
 Si l'inventaire sur place présente des difficultés, les pièces, documents, biens
 et avoirs saisis sont placés sous scellés. L'occupant des lieux ou son

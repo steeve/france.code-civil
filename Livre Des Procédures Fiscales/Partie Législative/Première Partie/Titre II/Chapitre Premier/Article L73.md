@@ -23,7 +23,7 @@ premier chiffre ;
 
 d. Ou qu'il a été constaté des infractions aux interdictions mentionnées à
 l'article L. 8221-1 du code du travail dans le cadre des articles L. 8271-7 à L.
-8271-11 du même code ;
+8271-10 du même code ;
 
 1° ter Le bénéfice imposable des fiducies lorsque la déclaration annuelle prévue
 à l'article 238 quater M du code général des impôts n'a pas été déposée dans le
@@ -45,7 +45,7 @@ montant des recettes réelles est supérieure à 10 % du premier montant ;
 
 c. Ou qu'il a été constaté des infractions aux interdictions mentionnées à
 l'article L. 8221-1 du code du travail dans le cadre des articles L. 8271-7 à L.
-8271-11 du même code ;
+8271-10 du même code ;
 
 3° Les revenus fonciers des contribuables qui se sont abstenus de répondre aux
 demandes de justifications mentionnées au deuxième alinéa de l'article L. 16.

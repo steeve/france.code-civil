@@ -11,9 +11,9 @@ Ils peuvent également se faire communiquer les données traitées et conservée
 relatives à l'identification du vendeur ou du prestataire, à la nature des biens
 ou des services vendus, à la date et au montant des ventes ou prestations
 effectuées par les opérateurs des services prévus au d du 2 de l'article 11 du
-règlement (CE) n° 1777 / 2005 du Conseil du 17 octobre 2005 portant mesures
-d'exécution de la directive 77 / 388 / CEE relative au système commun de taxe
-sur la valeur ajoutée et, sous les réserves prévues au V de l'article L. 34-1 du
+règlement (CE) n° 1777/2005 du Conseil du 17 octobre 2005 portant mesures
+d'exécution de la directive 77/388/ CEE relative au système commun de taxe sur
+la valeur ajoutée et, sous les réserves prévues au VI de l'article L. 34-1 du
 code des postes et des communications électroniques, les données traitées et
 conservées par les opérateurs des services prévus au e du 2 de l'article 11 du
-règlement (CE) n° 1777 / 2005 du Conseil du 17 octobre 2005 précité.
+règlement (CE) n° 1777/2005 du Conseil du 17 octobre 2005 précité.
