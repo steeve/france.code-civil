@@ -1,6 +1,9 @@
 Article R4412-132
 ----
-Dans tous les cas où le retrait de l'amiante nécessite d'intervenir sur les
-matériaux contenant de l'amiante, une technique d'abattage des poussières est
-mise en œuvre, si possible à la source. Le matériel utilisé est, lorsqu'il peut
-en être doté, équipé d'un dispositif d'aspiration à filtration absolue.
+Une entreprise d'un Etat membre de l'Union européenne non établie en France peut
+effectuer les travaux prévus par la présente sous-section si elle dispose d'un
+certificat délivré par cet Etat sur le fondement d'un référentiel offrant des
+garanties similaires à celles résultant du présent paragraphe et attestant de sa
+compétence pour mettre en œuvre toute méthode normalisée ou assimilée,
+applicable sur le territoire national, dans le domaine au titre duquel elle
+intervient.

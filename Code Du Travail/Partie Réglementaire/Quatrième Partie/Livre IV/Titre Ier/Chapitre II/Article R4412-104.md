@@ -1,5 +1,5 @@
 Article R4412-104
 ----
-La concentration moyenne en fibres d'amiante dans l'air inhalé par un
-travailleur ne doit pas dépasser 0,1 fibre par centimètre cube sur une heure de
-travail.
+Les prélèvements individuels sont réalisés en situation significative
+d'exposition des travailleurs à l'inhalation des poussières d'amiante, en
+intégrant les différentes phases opérationnelles.

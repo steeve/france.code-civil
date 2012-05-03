@@ -1,15 +1,17 @@
 Article R4412-128
 ----
-Tout intervenant dans la zone de travail est équipé en permanence des
-équipements de protection individuelle suivants : 1° Vêtements de travail
-étanches équipés de capuches, fermés au cou, aux chevilles et aux poignets,
-décontaminables ou, à défaut, jetables. En fin d'utilisation, les vêtements
-jetables sont traités comme des déchets d'amiante, conformément aux articles R.
-4412-111 et suivants ; 2° Appareil de protection respiratoire isolant à
-adduction d'air comprimé, avec masque complet, cagoule ou encore scaphandre.
-Dans le cas où la configuration de la zone de travail rend impraticable ou
-dangereuse l'utilisation d'appareils isolants, des appareils de protection
-respiratoire filtrants anti-poussières à ventilation assistée avec masque
-complet, de classe d'efficacité TMP 3 (norme NF EN 147) peuvent être utilisés.
-Ces appareils doivent fournir un débit d'air en charge d'au moins 160 litres par
-minute. Les appareils de protection respiratoire doivent être décontaminables.
+Afin de s'assurer de l'absence de dispersion de fibres d'amiante dans
+l'environnement du chantier et des locaux adjacents, l'employeur vérifie le
+respect de la valeur fixée à l'article R. 1334-29-3 du code de la santé publique
+par des mesures d'empoussièrement réalisées :
+
+1° Dans la zone d'approche de la zone de travail ;
+
+2° Dans la zone de récupération ;
+
+3° En des points du bâtiment dans lequel se déroulent les travaux ;
+
+4° A proximité des extracteurs dans la zone de leur rejet ;
+
+5° En limite de périmètre du site des travaux pour les travaux effectués à
+l'extérieur.

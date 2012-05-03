@@ -1,5 +1,7 @@
 Article R4412-141
 ----
-Le mode opératoire est soumis à l'avis du médecin du travail, du comité
-d'hygiène, de sécurité et des conditions de travail ou, à défaut, des délégués
-du personnel.
+La formation des travailleurs prévue aux articles R. 4412-87 et R. 4412-117 est
+assurée par un organisme certifié à cet effet.
+
+L'attestation de compétence prévue à l'article R. 4412-116 est délivrée par
+l'organisme de formation certifié.

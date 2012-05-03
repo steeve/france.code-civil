@@ -1,8 +1,11 @@
 Article R4412-117
 ----
-Pour l'exercice des activités de retrait et de confinement définies à l'article
-R. 4412-114 et sans préjudice des résultats de l'évaluation des risques,
-l'employeur procède à une évaluation des risques particulière afin de
-déterminer, notamment, la nature, la durée et le niveau de l'exposition des
-travailleurs à l'inhalation de poussières provenant de l'amiante ou de matériaux
-contenant de l'amiante.
+La formation à la sécurité prévue à l'article R. 4412-87 est aisément
+compréhensible par le travailleur.
+
+L'organisme de formation ou l'employeur valide les acquis de la formation sous
+la forme d'une attestation de compétence individuelle délivrée au travailleur.
+
+Le contenu et les modalités de la formation, sa durée selon les catégories de
+travailleurs et les conditions de sa validation et de son renouvellement sont
+précisés par un arrêté du ministre chargé du travail.

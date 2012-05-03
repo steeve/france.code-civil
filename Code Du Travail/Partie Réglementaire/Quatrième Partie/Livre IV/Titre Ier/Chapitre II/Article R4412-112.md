@@ -1,6 +1,8 @@
 Article R4412-112
 ----
-Les déchets sont transportés hors du lieu de travail aussitôt que possible dans
-des emballages appropriés et fermés, avec apposition de l'étiquetage prévu par
-le décret n° 88-466 du 28 avril 1988 relatif aux produits contenant de
-l'amiante.
+L'employeur prend toutes mesures appropriées pour que la zone dédiée à
+l'opération soit signalée et inaccessible à des personnes autres que celles qui,
+en raison de leur travail ou de leur fonction, sont amenées à y pénétrer.
+
+Cette signalétique mentionne notamment le niveau d'empoussièrement estimé des
+opérations réalisées et les équipements de protection individuelle obligatoires.

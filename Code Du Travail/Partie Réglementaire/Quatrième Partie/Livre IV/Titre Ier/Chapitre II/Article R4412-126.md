@@ -1,8 +1,17 @@
 Article R4412-126
 ----
-Un tunnel comportant cinq compartiments (sas) permettant la décontamination des
-intervenants et des équipements constitue pour les personnes la seule voie
-d'accès depuis l'extérieur vers la zone de travail. Lorsque les travailleurs
-sont équipés de vêtements jetables ou lorsque la mise en place d'un système à
-cinq compartiments s'avère techniquement impossible, un tunnel à trois
-compartiments peut être utilisé.
+L'employeur détermine le niveau d'empoussièrement généré par chaque processus de
+travail conformément aux dispositions du paragraphe 3 de la sous-section 2.
+
+A cette fin, il met en œuvre un programme de mesure des niveaux
+d'empoussièrement générés par ses processus qui comprend deux phases :
+
+1° Une phase d'évaluation du niveau d'empoussièrement faite sur le chantier test
+;
+
+2° Une phase de validation de cette évaluation par un contrôle périodique
+réalisé sur au moins trois chantiers par processus sur douze mois.
+
+Si l'employeur est dans l'incapacité de valider son évaluation en raison d'un
+nombre insuffisant de chantiers par processus, l'absence de validation est
+dûment justifiée dans le plan de démolition, de retrait ou d'encapsulage.

@@ -1,7 +1,8 @@
 Article R4412-114
 ----
-Les dispositions de la présente sous-section s'appliquent aux activités dont la
-finalité est le retrait ou le confinement par fixation, imprégnation ou
-encoffrement de l'amiante ou de matériaux en contenant, et qui portent notamment
-sur des bâtiments, des navires, des structures, des appareils ou des
-installations, y compris dans les cas de démolition.
+Lorsque l'employeur constate que le niveau d'empoussièrement dépasse le niveau
+estimé dans le document unique d'évaluation des risques et que, par suite, le
+respect de la valeur limite d'exposition professionnelle n'est plus garanti, il
+suspend les opérations jusqu'à la mise en œuvre de mesures propres à remédier à
+cette situation. Afin de vérifier l'efficacité de ces mesures, il procède sans
+délai à un nouveau contrôle du niveau d'empoussièrement.
