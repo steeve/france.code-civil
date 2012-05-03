@@ -3,7 +3,10 @@ Article L219-6
 En outre-mer, les collectivités territoriales élaborent avec l'Etat et dans le
 respect des compétences de chacun une stratégie à l'échelle de chaque bassin
 maritime ultramarin, le cas échéant transfrontalier, appelée document
-stratégique de bassin.
+stratégique de bassin maritime.
+
+Les dispositions des articles L. 219-3, L. 219-4 et L. 219-5 s'appliquent au
+document stratégique de bassin maritime.
 
 La définition de bassin maritime ultramarin prend en compte les enjeux propres à
 chacun des outre-mer, notamment les coopérations avec les Etats et régions
