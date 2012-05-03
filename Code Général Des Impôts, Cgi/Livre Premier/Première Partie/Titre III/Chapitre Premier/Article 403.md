@@ -5,7 +5,7 @@ l'article 317 de 10 litres d'alcool pur accordée aux bouilleurs de cru, les
 alcools supportent un droit de consommation dont le tarif par hectolitre
 d'alcool pur est fixé à :
 
-I. 1° 859,24 € dans la limite de 108 000 hectolitres d'alcool pur par an pour le
+I. 1° 872,13 € dans la limite de 108 000 hectolitres d'alcool pur par an pour le
 rhum tel qu'il est défini aux a et f du point 1 de l'annexe II au règlement (CE)
 n° 110 / 2008 du Parlement européen et du Conseil du 15 janvier 2008 concernant
 la définition, la désignation, la présentation, l'étiquetage et la protection

@@ -4,10 +4,10 @@ I. Il est perçu un droit spécifique :
 
 a) Sur les bières, dont le taux, par hectolitre, est fixé à :
 
-1,36 € par degré alcoométrique pour les bières dont le titre alcoométrique
+1,38 € par degré alcoométrique pour les bières dont le titre alcoométrique
 n'excède pas 2,8 % vol. ;
 
-2,71 € par degré alcoométrique pour les autres bières ;
+2,75 € par degré alcoométrique pour les autres bières ;
 
 Dans les dispositions du présent code relatives aux contributions indirectes,
 sont compris sous la dénomination de bière, tout produit relevant du code NC
@@ -20,14 +20,14 @@ Par dérogation aux dispositions précédentes, le taux par hectolitre applicabl
 aux bières produites par les petites brasseries indépendantes, dont le titre
 alcoométrique excède 2,8 % vol., est fixé à :
 
-1,36 € par degré alcoométrique pour les bières brassées par les entreprises dont
+1,38 € par degré alcoométrique pour les bières brassées par les entreprises dont
 la production annuelle est inférieure ou égale à 10 000 hectolitres ;
 
-1,62 € par degré alcoométrique pour les bières brassées par les entreprises dont
+1,64 € par degré alcoométrique pour les bières brassées par les entreprises dont
 la production annuelle est supérieure à 10 000 hectolitres et inférieure ou
 égale à 50 000 hectolitres ;
 
-2,04 € par degré alcoométrique pour les bières brassées par les entreprises dont
+2,07 € par degré alcoométrique pour les bières brassées par les entreprises dont
 la production annuelle est supérieure à 50 000 hectolitres et inférieure ou
 égale à 200 000 hectolitres.
 
