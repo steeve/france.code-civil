@@ -1,7 +1,7 @@
 Article *R421-17
 ----
 Doivent être précédés d'une déclaration préalable lorsqu'ils ne sont pas soumis
-à permis de construire en application des articles R. 421-14 à R. 421-16 les
+à permis de construire en application des articles R*421-14 à *R. 421-16 les
 travaux exécutés sur des constructions existantes, à l'exception des travaux
 d'entretien ou de réparations ordinaires, et les changements de destination des
 constructions existantes suivants :
@@ -10,7 +10,7 @@ a) Les travaux de ravalement et les travaux ayant pour effet de modifier
 l'aspect extérieur d'un bâtiment existant ;
 
 b) Les changements de destination d'un bâtiment existant entre les différentes
-destinations définies à l'article R. 123-9 ; pour l'application du présent
+destinations définies à l'article R*123-9 ; pour l'application du présent
 alinéa, les locaux accessoires d'un bâtiment sont réputés avoir la même
 destination que le local principal ;
 
@@ -30,7 +30,7 @@ enquête publique, a identifié comme présentant un intérêt patrimonial ou
 paysager ;
 
 f) Les travaux qui ont pour effet la création soit d'une emprise au sol, soit
-d'une surface de plancher supérieure à deux mètres carrés et qui répondent aux
+d'une surface de plancher supérieure à cinq mètres carrés et qui répondent aux
 critères cumulatifs suivants :
 
 -une emprise au sol créée inférieure ou égale à vingt mètres carrés ;
@@ -42,4 +42,4 @@ urbaine d'un plan local d'urbanisme ou d'un document d'urbanisme en tenant lieu,
 à l'exclusion de ceux impliquant la création d'au moins vingt mètres carrés et
 d'au plus quarante mètres carrés de surface de plancher ou d'emprise au sol
 lorsque cette création conduit au dépassement de l'un des seuils fixés à
-l'article R. 431-2 du présent code.
+l'article R*431-2 du présent code.

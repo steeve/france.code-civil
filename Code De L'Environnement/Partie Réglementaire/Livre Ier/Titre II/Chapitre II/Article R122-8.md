@@ -99,8 +99,8 @@ géologiques profondes au stockage des déchets radioactifs ;
 supérieur ou égal à 950 000 euros ;
 
 19° Terrains de golf dont le coût total est égal ou supérieur à 1 900 000 euros
-ou qui sont accompagnés d'opérations de construction d'une surface hors oeuvre
-nette égale ou supérieure à 1 000 mètres carrés ;
+ou qui sont accompagnés d'opérations de construction d'une surface de plancher
+égale ou supérieure à 1 000 mètres carrés ;
 
 20° Aménagement de terrains pour la pratique de sports ou loisirs motorisés
 d'une emprise totale supérieure à 4 hectares ;

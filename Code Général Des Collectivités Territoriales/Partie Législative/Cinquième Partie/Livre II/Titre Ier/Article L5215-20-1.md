@@ -16,9 +16,7 @@ développement économique ; création et équipement des zones d'activité
 industrielle, tertiaire, artisanale, touristique, portuaire ou aéroportuaire ;
 actions de réhabilitation d'intérêt communautaire ;
 
-3° Prise en considération d'un programme d'aménagement d'ensemble et
-détermination de secteurs d'aménagement mentionnés à l'article L. 332-9 du code
-de l'urbanisme ;
+3° Abrogé ;
 
 4° Construction, aménagement et entretien des locaux scolaires dans les zones et
 secteurs mentionnés aux 2° et 3° et réalisés ou déterminés par la communauté ; à
@@ -69,6 +67,4 @@ l'article L. 5215-1.
 
 Cet élargissement est acquis par délibérations concordantes du conseil de
 communauté et d'au moins la moitié des conseils municipaux des communes membres
-représentant plus de la moitié de la population totale de la communauté. Il
-emporte application du régime fiscal prévu à l'article 1609 nonies C du code
-général des impôts.
+représentant plus de la moitié de la population totale de la communauté.
