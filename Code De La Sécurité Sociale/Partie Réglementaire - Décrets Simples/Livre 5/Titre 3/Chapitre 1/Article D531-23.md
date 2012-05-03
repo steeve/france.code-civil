@@ -1,11 +1,12 @@
 Article D531-23
 ----
-I. - Pour l'application des quatre premiers alinéas de l'article L. 531-6, le
+I. ― Pour l'application des quatre premiers alinéas de l'article L. 531-6, le
 complément de libre choix du mode de garde est versé au ménage ou à la personne
 qui, pour assurer la garde d'un enfant, recourt à une association ou à une
 entreprise répondant aux conditions définies :
 
-1° A l'article L. 129-1 du code du travail en cas de garde à domicile ;
+1° Aux articles L. 7231-1 et L. 7232-1 du code du travail en cas de garde à
+domicile ;
 
 2° A l'article L. 2324-1 du code de la santé publique en cas de garde par une
 assistante maternelle.
@@ -13,67 +14,70 @@ assistante maternelle.
 Pour l'application du dernier alinéa de l'article L. 531-6, le complément de
 libre choix du mode de garde est versé au ménage ou à la personne qui, pour
 assurer la garde d'un enfant, recourt à un établissement d'accueil de jeunes
-enfants autorisé à accueillir simultanément le nombre d'enfants mentionné à
-l'article R. 2324-47 du code de la santé publique.
+enfants autorisé à accueillir simultanément le nombre d'enfants mentionné au 4°
+de l'article R. 2324-17 du code de la santé publique.
 
 Dans tous les cas, l'association, l'entreprise ou l'établissement ne doit pas
 percevoir, pour le même service au titre de son fonctionnement, de prestation
 financée par le Fonds national d'action sanitaire et sociale de la Caisse
 nationale des allocations familiales en application de l'article R. 263-1.
 
-II. - Le complément versé en application du présent article ne peut excéder 85 %
-de la dépense engagée par la personne ou le ménage.
+II. ― La prise en charge partielle du coût de la garde par l'organisme débiteur
+des prestations familiales est fixée au maximum à 85 % de la dépense engagée par
+la personne ou le ménage.
 
-III. - 1° En cas de garde par une assistante maternelle, le montant mensuel
-maximal de l'aide est égal à :
+III. ― 1° En cas de garde par une assistante maternelle, l'aide prévue au II ne
+peut excéder un montant variable selon le barème suivant :
 
-a) 172,57 % de la base mensuelle de calcul des allocations familiales lorsque
-les ressources de la personne ou du ménage sont au plus égales à 45 % du plafond
-de l'allocation de base de la prestation d'accueil du jeune enfant augmenté de
-la majoration pour double activité ;
+a) Lorsque le ménage a perçu des revenus au plus égaux à 45 % du plafond de
+ressources mentionné au troisième alinéa de l'article R. 531-1, le montant versé
+ne peut excéder 172,57 % de la base mensuelle de calcul des allocations
+familiales ;
 
-b) 143,81 % de la base mensuelle de calcul des allocations familiales lorsque
-les ressources de la personne ou du ménage sont supérieures à 45 % du plafond de
-l'allocation de base de la prestation d'accueil du jeune enfant augmenté de la
-majoration pour double activité et au plus égales à ce plafond ainsi majoré ;
+b) Lorsque le ménage a perçu des revenus supérieurs à 45 % du plafond de
+ressources mentionné au troisième alinéa de l'article R. 531-1 et au plus égaux
+à ce plafond, le montant versé ne peut excéder 143,81 % de la base mensuelle de
+calcul des allocations familiales ;
 
-c) 115,05 % de la base mensuelle de calcul des allocations familiales lorsque
-les ressources de la personne ou du ménage sont supérieures au plafond de
-l'allocation de base de la prestation d'accueil du jeune enfant augmenté de la
-majoration pour double activité.
+c) Lorsque le ménage a perçu des revenus supérieurs au plafond de ressources
+mentionné au troisième alinéa de l'article R. 531-1, le montant versé ne peut
+excéder 115,05 % de la base mensuelle de calcul des allocations familiales ;
 
-2° En cas de garde à domicile, ou par un établissement d'accueil de jeunes
-enfants mentionnés au I le montant mensuel maximal de l'aide est égal à :
+2° En cas de garde à domicile ou par un établissement d'accueil de jeunes
+enfants, l'aide prévue au II ne peut excéder un montant variable selon le barème
+suivant :
 
-a) 208,53 % de la base mensuelle de calcul des allocations familiales lorsque
-les ressources de la personne ou du ménage sont au plus égales à 45 % du plafond
-de l'allocation de base de la prestation d'accueil du jeune enfant augmenté de
-la majoration pour double activité ;
+a) Lorsque le ménage a perçu des revenus au plus égaux à 45 % du plafond de
+ressources mentionné au troisième alinéa de l'article R. 531-1, le montant versé
+ne peut excéder 208,53 % de la base mensuelle de calcul des allocations ;
 
-b) 179,76 % de la base mensuelle de calcul des allocations familiales lorsque
-les ressources de la personne ou du ménage sont supérieures à 45 % du plafond de
-l'allocation de base de la prestation d'accueil du jeune enfant augmenté de la
-majoration pour double activité et au plus égales à ce plafond ainsi majoré ;
+b) Lorsque le ménage a perçu des revenus supérieurs à 45 % du plafond de
+ressources mentionné au troisième alinéa de l'article R. 531-1 et au plus égaux
+à ce plafond, le montant versé ne peut excéder 179,76 % de la base mensuelle de
+calcul des allocations familiales ;
 
-c) 151,00 % de la base mensuelle de calcul des allocations familiales lorsque
-les ressources de la personne ou du ménage sont supérieures au plafond de
-l'allocation de base de la prestation d'accueil du jeune enfant augmenté de la
-majoration pour double activité.
+c) Lorsque le ménage a perçu des revenus supérieurs au plafond de ressources
+mentionné au troisième alinéa de l'article R. 531-1, le montant versé ne peut
+excéder 151,00 % de la base mensuelle de calcul des allocations familiales ;
 
-Le complément est versé par enfant en cas de garde par une assistante maternelle
-ou par un établissement d'accueil de jeunes enfants et par famille en cas de
-garde au domicile des parents.
+3° Lorsque la charge de l'enfant ou des enfants est assumée par une personne
+seule, les plafonds de ressources mentionnés au 1° et au 2° du III sont majorés
+de 40 % ;
 
-IV. - Pour la garde d'un enfant répondant à la condition d'âge mentionnée au IV
+4° Le complément est versé par enfant en cas de garde par une assistante
+maternelle ou par un établissement d'accueil de jeunes enfants et par famille en
+cas de garde au domicile des parents.
+
+IV. ― Pour la garde d'un enfant répondant à la condition d'âge mentionnée au IV
 de l'article L. 531-5, les montants mentionnés au III sont divisés par deux.
 
-V. - Le complément n'est pas dû si l'enfant n'est pas gardé au minimum seize
+V. ― Le complément n'est pas dû si l'enfant n'est pas gardé au minimum seize
 heures dans le mois au titre duquel le complément est demandé.
 
-VI. - Lorsqu'au cours d'un même mois un ou plusieurs enfants sont gardés selon
-plus d'un même mode de garde dans les conditions mentionnées au I et au IX, il
+VI. ― Lorsqu'au cours d'un même mois un ou plusieurs enfants sont gardés selon
+plus d'un même mode de garde dans les conditions mentionnées au I et au V, il
 est fait masse, pour le calcul de l'aide, de l'ensemble des dépenses engagées
-pour ces modes de garde. Le montant maximal de l'aide est la somme des plafonds
+pour ces modes de garde. Le montant maximal de l'aide est la somme des montants
 maximaux applicables à chaque enfant en fonction de son âge, mentionnés au 1° du
 III et au IV.
 
@@ -82,25 +86,25 @@ plusieurs enfants, de plusieurs compléments de libre choix du mode de garde en
 application de l'article L. 531-5 et de l'article L. 531-6, il est procédé de la
 façon suivante :
 
-- il est d'abord calculé une aide par application de l'article D. 531-22, au
+― il est d'abord calculé une aide par application de l'article D. 531-22, au
 titre des dépenses engagées dans les conditions mentionnées à l'article L. 531-5
 ;
 
-- il est ensuite calculé une aide par application des dispositions du VI
+― il est ensuite calculé une aide par application des dispositions du VI
 ci-dessus au titre des dépenses engagées dans les conditions mentionnées à
 l'article L. 531-6.
 
-Le cumul des deux aides ne peut excéder la somme des plafonds maximaux
+Le cumul des deux aides ne peut excéder la somme des montants maximaux
 applicables à chaque enfant en fonction de son âge prévu au 1° du III ou au IV.
 Si l'enfant ou les enfants sont gardés uniquement à domicile, le cumul des deux
 aides ne peut excéder le montant mentionné au 2° du III ou au IV.
 
-VII. - Le complément est versé mensuellement par l'organisme débiteur des
+VII. ― Le complément est versé mensuellement par l'organisme débiteur des
 prestations familiales sur justification des dépenses acquittées au titre d'un
 mois civil dans un délai maximum d'un mois à compter de la réception de cette
 justification.
 
-VIII. - Lorsque la personne ou un membre du couple exerce une activité au plus
+VIII. ― Lorsque la personne ou un membre du couple exerce une activité au plus
 égale à 50 % et bénéficie à ce titre du complément de libre choix d'activité à
 taux partiel, le complément de libre choix du mode de garde versé en application
 de l'article L. 531-6 est attribué dans les conditions définies au IV.

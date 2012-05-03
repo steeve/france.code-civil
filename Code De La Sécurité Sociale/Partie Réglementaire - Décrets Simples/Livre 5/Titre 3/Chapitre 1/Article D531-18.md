@@ -1,22 +1,29 @@
 Article D531-18
 ----
-La part prévue au III de l'article L. 531-5 est égale à 85 % du salaire net
-versé et des indemnités mentionnées à l'article L. 773-3 du code du travail.
+Pour l'application des dispositions du III de l'article L. 531-5, il convient de
+prendre en compte les règles suivantes :
 
-Le plafond mentionné au III de l'article L. 531-5 est fixé comme suit :
+1° La prise en charge partielle de la rémunération par l'organisme débiteur des
+prestations familiales est fixée au maximum à 85 % du salaire net servi et des
+indemnités mentionnées à l'article L. 423-4 du code de l'action sociale et des
+familles ;
 
-114,04 % de la base mensuelle de calcul des allocations familiales pour l'enfant
-de moins de trois ans lorsque le ménage ou la personne employeur a perçu des
-revenus au plus égaux à 45 % du plafond de l'allocation de base de la prestation
-d'accueil du jeune enfant augmenté de la majoration pour double activité.
+2° L'aide prévue au 1° ne peut excéder un montant variable selon le barème
+suivant :
 
-71,91 % de la base mensuelle de calcul des allocations familiales pour l'enfant
-de moins de trois ans lorsque le ménage ou la personne employeur a perçu des
-revenus supérieurs à 45 % du plafond de l'allocation de base de la prestation
-d'accueil du jeune enfant augmenté de la majoration pour double activité et au
-plus égaux à ce plafond ainsi augmenté.
+a) Lorsque le ménage a perçu des revenus au plus égaux à 45 % du plafond de
+ressources mentionné au troisième alinéa de l'article R. 531-1, le montant versé
+ne peut excéder 114,04 % de la base mensuelle de calcul des allocations
+familiales ;
 
-43,14 % de la base mensuelle de calcul des allocations familiales pour l'enfant
-de moins de trois ans lorsque le ménage ou la personne employeur a perçu des
-revenus supérieurs au plafond de l'allocation de base de la prestation d'accueil
-du jeune enfant augmenté de la majoration pour double activité.
+b) Lorsque le ménage a perçu des revenus supérieurs à 45 % du plafond de
+ressources mentionné au troisième alinéa de l'article R. 531-1 et au plus égaux
+à ce plafond, le montant versé ne peut excéder 71,91 % de la base mensuelle de
+calcul des allocations familiales ;
+
+c) Lorsque le ménage a perçu des revenus supérieurs au plafond de ressources
+mentionné au troisième alinéa de l'article R. 531-1, le montant versé ne peut
+excéder 43,14 % de la base mensuelle de calcul des allocations familiales ;
+
+3° Lorsque la charge de l'enfant ou des enfants est assumée par une personne
+seule, les plafonds de ressources mentionnés au 2° sont majorés de 40 %.
