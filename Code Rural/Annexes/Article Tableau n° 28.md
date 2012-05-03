@@ -9,7 +9,7 @@ DÉLAI DE PRISE en charge
 
 LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer la maladie
 
-Ulcérations cutanées.
+Dermatites irritatives.
 
 7 jours
 
