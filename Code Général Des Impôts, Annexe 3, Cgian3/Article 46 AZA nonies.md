@@ -9,7 +9,7 @@ qui comporte les éléments suivants :
 
 a. Ses identité et adresse ;
 
-b.L'adresse du logement concerné ;
+b. L'adresse du logement concerné ;
 
 c. Pour les logements acquis en l'état futur d'achèvement ou les logements
 achevés depuis au moins quinze ans, la date d'achèvement du logement ;
@@ -17,7 +17,7 @@ achevés depuis au moins quinze ans, la date d'achèvement du logement ;
 d. Le nom et le type d'établissement ou de résidence dans lequel le logement est
 situé ;
 
-e.L'engagement de louer le logement meublé pendant une durée de neuf ans au
+e. L'engagement de louer le logement meublé pendant une durée de neuf ans au
 moins à l'exploitant de l'établissement ou de la résidence ;
 
 f. Le prix d'acquisition ou de revient du logement retenu pour la détermination
@@ -59,7 +59,7 @@ l'arrêté préfectoral portant classement de la résidence ;
 
 7° Pour les logements situés dans des résidences avec services pour personnes
 âgées ou handicapées, une copie attestant de la délivrance de l'agrément prévue
-à l'article L. 7232-3 du code du travail, par le gestionnaire des services.
+à l'article L. 7232-1 du code du travail, par le gestionnaire des services.
 
 II.-En cas de changement d'exploitant au cours de la période couverte par
 l'engagement de location, le contribuable joint à sa déclaration des revenus de

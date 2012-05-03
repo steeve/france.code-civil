@@ -19,13 +19,9 @@ l'habitation. Toutefois, le complément d'impôt n'est pas dû lorsque les
 conditions cessent d'être remplies à la suite de la vente à leurs occupants,
 dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984 définissant
 la location-accession à la propriété immobilière, de logements mentionnés au 4
-du I de l'article 278 sexies ou de terrains à bâtir, ainsi que du droit au bail
-à construction dans le cadre d'une opération d'accession à la propriété assortie
-d'une acquisition différée du terrain, pour les logements neufs mentionnés au 9
-du I de l'article 278 sexies, ou de logements mentionnés au 9 du I de l'article
-278 sexies.
+du I de l'article 278 sexies ou de terrains à bâtir.
 
-Pour les livraisons des logements visés aux 4, 9, 11 et 12 du I de l'article 278
+Pour les livraisons des logements visés aux 4, 11 et 12 du I de l'article 278
 sexies, le complément d'impôt dû est diminué d'un dixième par année de détention
 au-delà de la cinquième année.
 

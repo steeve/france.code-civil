@@ -268,17 +268,16 @@ Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédoni
 Polynésie française et dans les îles Wallis et Futuna peuvent bénéficier d'une
 réduction de leur impôt sur le revenu égale à 42 % des souscriptions en
 numéraire de parts de fonds d'investissement de proximité, mentionnés à
-l'article L. 214-41-1 du code monétaire et financier, dont l'actif est constitué
-pour 60 % au moins de titres financiers, parts de société à responsabilité
-limitée et avances en compte courant émises par des sociétés qui exercent leurs
-activités exclusivement dans des établissements situés dans les départements
-d'outre-mer, à Mayotte, Saint-Barthélemy, Saint-Martin,
+l'article L. 214-31 du code monétaire et financier(3), dont l'actif est
+constitué pour 60 % au moins de titres financiers, parts de société à
+responsabilité limitée et avances en compte courant émises par des sociétés qui
+exercent leurs activités exclusivement dans des établissements situés dans les
+départements d'outre-mer, à Mayotte, Saint-Barthélemy, Saint-Martin,
 Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et dans
 les îles Wallis et Futuna et dans les secteurs retenus pour l'application de la
-réduction d'impôt sur le revenu prévue au I de l'article 199 undecies B du
-présent code.
+réduction d'impôt sur le revenu prévue au I de l'article 199 undecies B.
 
-Les a à c du 1 et le 3 du VI du présent article sont applicables.
+Les a à c du 1 et le 3 du VI sont applicables.
 
 Les versements ouvrant droit à réduction d'impôt sont ceux effectués jusqu'au 31
 décembre 2014. Ils sont retenus dans les limites annuelles de 12 000 € pour les

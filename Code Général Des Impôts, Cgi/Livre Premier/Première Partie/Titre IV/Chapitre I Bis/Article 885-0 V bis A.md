@@ -1,7 +1,7 @@
 Article 885-0 V bis A
 ----
 I.-Le redevable peut imputer sur l'impôt de solidarité sur la fortune, dans la
-limite de 50 000 euros, 75 % du montant des dons en numéraire et dons en pleine
+limite de 50 000 €, 75 % du montant des dons en numéraire et dons en pleine
 propriété de titres de sociétés admis aux négociations sur un marché réglementé
 français ou étranger effectués au profit :
 
@@ -56,7 +56,7 @@ poursuit des objectifs et présente des caractéristiques similaires aux
 organismes dont le siège est situé en France répondant aux conditions fixées par
 le présent article.
 
-Un décret fixe les conditions d'application des onzième et douzième alinéas et
+Un décret fixe les conditions d'application des douzième et treizième alinéas et
 notamment la durée de validité ainsi que les modalités de délivrance, de
 publicité et de retrait de l'agrément.
 
@@ -71,7 +71,7 @@ I ne peut donner lieu à un autre avantage fiscal au titre d'un autre impôt.
 Le redevable peut bénéficier de l'avantage fiscal prévu au présent article et de
 celui prévu à l'article 885-0 V bis au titre de la même année, sous réserve que
 le montant imputé sur l'impôt de solidarité sur la fortune résultant des deux
-avantages n'excède pas 45 000 euros.
+avantages n'excède pas 45 000 €.
 
 Par dérogation à l'alinéa précédent, la fraction des versements pour laquelle le
 redevable demande le bénéfice de l'avantage fiscal prévu au présent article ne

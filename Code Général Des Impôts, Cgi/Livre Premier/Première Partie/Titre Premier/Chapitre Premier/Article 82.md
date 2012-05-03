@@ -6,8 +6,9 @@ viagères, ainsi que de tous les avantages en argent ou en nature accordés aux
 intéressés en sus des traitements, indemnités, émoluments, salaires, pensions et
 rentes viagères proprement dits. Toutefois les logements mis à la disposition
 des personnels de la gendarmerie, dans les conditions prévues par l'article D.
-14 du code du domaine de l'Etat, ne sont pas considérés comme un avantage en
-nature.
+14 du code du domaine de l'Etat ou par l'article D. 2124-75 du code général de
+la propriété des personnes publiques, ne sont pas considérés comme un avantage
+en nature.
 
 Le montant des rémunérations allouées sous la forme d'avantages en nature est
 évalué selon les règles établies pour le calcul des cotisations de sécurité

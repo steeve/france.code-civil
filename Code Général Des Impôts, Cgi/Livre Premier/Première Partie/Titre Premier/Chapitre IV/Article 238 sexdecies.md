@@ -29,14 +29,13 @@ bénéficiant de l'exonération est limité au produit de la plus-value par le
 rapport entre le prix de cession affecté à l'acquisition du navire et la
 totalité de ce prix. La régularisation à effectuer est comprise dans le résultat
 imposable de l'exercice en cours à l'expiration du délai de vingt-quatre mois
-fixé au premier alinéa du présent article, majorée d'un montant égal au produit
-de cette régularisation par le taux de l'intérêt de retard prévu à l'article
-1727.
+fixé au premier alinéa, majorée d'un montant égal au produit de cette
+régularisation par le taux de l'intérêt de retard prévu à l'article 1727.
 
-Lorsque l'entreprise mentionnée au premier alinéa du présent article est une
-société soumise au régime d'imposition prévu à l'article 8, la condition tenant
-à la nature de l'activité de cette entreprise doit être également remplie par
-ses associés personnes morales.
+Lorsque l'entreprise mentionnée au premier alinéa est une société soumise au
+régime d'imposition prévu à l'article 8, la condition tenant à la nature de
+l'activité de cette entreprise doit être également remplie par ses associés
+personnes morales.
 
 L'engagement mentionné au premier alinéa doit être annexé à la déclaration de
 résultat de l'exercice de cession.
@@ -49,12 +48,11 @@ règlement (CE) n° 1998/2006 de la Commission, du 15 décembre 2006, concernant
 l'application des articles 87 et 88 du traité aux aides de minimis.
 
 Le remploi peut être réalisé dans le cadre d'un contrat de crédit-bail conclu
-dans le délai mentionné au premier alinéa du présent article. Dans ce cas, les
-sommes réinvesties mentionnées au septième alinéa du présent article s'entendent
-d'un montant égal à la somme des loyers effectivement versés, pour leur
-quote-part prise en compte pour la détermination du prix d'acquisition, majorée
-du prix d'acquisition versé à l'issue du contrat. Le cas échéant, la
-régularisation mentionnée au même septième alinéa est alors comprise dans le
-résultat imposable de l'exercice au cours duquel le contrat prend fin, majorée
-d'un montant égal au produit de cette régularisation par le taux de l'intérêt de
-retard prévu à l'article 1727.
+dans le délai mentionné au premier alinéa. Dans ce cas, les sommes réinvesties
+mentionnées au septième alinéa s'entendent d'un montant égal à la somme des
+loyers effectivement versés, pour leur quote-part prise en compte pour la
+détermination du prix d'acquisition, majorée du prix d'acquisition versé à
+l'issue du contrat. Le cas échéant, la régularisation mentionnée au même
+septième alinéa est alors comprise dans le résultat imposable de l'exercice au
+cours duquel le contrat prend fin, majorée d'un montant égal au produit de cette
+régularisation par le taux de l'intérêt de retard prévu à l'article 1727.

@@ -92,14 +92,19 @@ Les perceptions mentionnées au I ne sont pas applicables aux cessions de droits
 sociaux résultant d'opérations de pensions régies par les articles L. 211-27 à
 L. 211-34 du code monétaire et financier.
 
-Les perceptions mentionnées aux 1° et 1° bis du I ne sont pas applicables : ―
-aux acquisitions de droits sociaux réalisées dans le cadre du rachat de ses
+Les perceptions mentionnées aux 1° et 1° bis du I ne sont pas applicables :
+
+a) aux acquisitions de droits sociaux réalisées dans le cadre du rachat de ses
 propres titres par une société ou d'une augmentation de capital, à l'exception
 des rachats d'actions effectués dans les conditions prévues à l'article L.
-225-209-2 du code de commerce ; ― aux acquisitions de droits sociaux de sociétés
-placées sous procédure de sauvegarde ou en redressement judiciaire ; ― aux
-acquisitions de droits sociaux lorsque la société cédante est membre du même
-groupe, au sens de l'article 223 A, que la société qui les acquiert ; ― aux
-opérations entrant dans le champ de l'article 210 B.
+225-209-2 du code de commerce ;
+
+b) aux acquisitions de droits sociaux de sociétés placées sous procédure de
+sauvegarde ou en redressement judiciaire ;
+
+c) aux acquisitions de droits sociaux lorsque la société cédante est membre du
+même groupe, au sens de l'article 223 A, que la société qui les acquiert ;
+
+d) aux opérations entrant dans le champ de l'article 210 B.
 
 III.-Abrogé.

@@ -3,10 +3,10 @@ Article 1647 D
 I.-1. Tous les redevables de la cotisation foncière des entreprises sont
 assujettis à une cotisation minimum établie au lieu de leur principal
 établissement ; cette cotisation est établie à partir d'une base dont le montant
-est fixé par le conseil municipal et doit être compris entre 203 € et 2 030 €
+est fixé par le conseil municipal et doit être compris entre 206 € et 2 065 €
 pour les contribuables dont le montant du chiffre d'affaires ou des recettes
 hors taxes au cours de la période de référence définie à l'article 1467 A est
-inférieur à 100 000 € et, pour les autres contribuables, entre 203 € et 6 000 €.
+inférieur à 100 000 € et, pour les autres contribuables, entre 206 € et 6 102 €.
 Lorsque la période de référence ne correspond pas à une période de douze mois,
 le montant des recettes ou du chiffre d'affaires est ramené ou porté, selon le
 cas, à douze mois. Les conseils municipaux ont la faculté de réduire ce montant,
@@ -30,19 +30,18 @@ concernée, dans les limites fixées au premier alinéa.
 
 Les montants mentionnés au premier alinéa, à l'exception des montants de 100 000
 € et 10 000 €, ceux résultant de délibérations et celui mentionné au premier
-alinéa du 2 du présent I sont, à compter de l'année suivant celle au titre de
-laquelle ils s'appliquent pour la première fois, revalorisés chaque année comme
-le taux prévisionnel, associé au projet de loi de finances de l'année,
-d'évolution des prix à la consommation des ménages, hors tabac, pour la même
-année.
+alinéa du 2 sont, à compter de l'année suivant celle au titre de laquelle ils
+s'appliquent pour la première fois, revalorisés chaque année comme le taux
+prévisionnel, associé au projet de loi de finances de l'année, d'évolution des
+prix à la consommation des ménages, hors tabac, pour la même année.
 
 2. A défaut de délibération pour les deux premières catégories de redevables
-définies au premier alinéa du 1 du présent I ou pour l'une d'entre elles
-seulement, le montant de la base minimum est égal au montant de la base minimum
-de taxe professionnelle appliqué en 2009, selon le cas, soit dans la commune,
-soit dans l'établissement public de coopération intercommunale, soit dans la
-zone d'activités économiques en vertu des dispositions du présent article en
-vigueur au 31 décembre 2009.
+définies au premier alinéa du 1 ou pour l'une d'entre elles seulement, le
+montant de la base minimum est égal au montant de la base minimum de taxe
+professionnelle appliqué en 2009, selon le cas, soit dans la commune, soit dans
+l'établissement public de coopération intercommunale, soit dans la zone
+d'activités économiques en vertu des dispositions du présent article en vigueur
+au 31 décembre 2009.
 
 Toutefois, lorsque le montant de la base minimum de cotisation foncière des
 entreprises déterminée dans les conditions définies au premier alinéa du présent

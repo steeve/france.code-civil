@@ -1,7 +1,7 @@
 Article 2 sexdecies-0 A ter
 ----
 Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code
-général des impôts ou du cinquième alinéa du I et du III de l'article 199
+général des impôts ou du troisième alinéa du 4 du I et du III de l'article 199
 septvicies du même code :
 
 1° La condition de loyer s'apprécie en tenant compte du montant du loyer payé au

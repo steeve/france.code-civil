@@ -3,17 +3,17 @@ Article 46 AG duodecies
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des
 impôts, les plafonds de loyer et de ressources du locataire sont les suivants :
 
-1. Pour les baux conclus en 2011, les plafonds annuels de loyer, charges non
+1. Pour les baux conclus en 2012, les plafonds annuels de loyer, charges non
 comprises, sont fixés par mètre carré de surface habitable à :
 
-1° 156 euros dans les départements d'outre-mer, à Saint-Barthélemy, à
-Saint-Martin et à Mayotte. Ce plafond est révisé chaque année, le 1er janvier,
-dans la même proportion que la variation la plus élevée de la moyenne annuelle
-des indices des prix à la consommation hors tabac de chacun des quatre
-départements d'outre-mer ;
+1° 161 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin
+et à Mayotte. Ce plafond est révisé chaque année, le 1er janvier, dans la même
+proportion que la variation la plus élevée de la moyenne annuelle des indices
+des prix à la consommation hors tabac de chacun des quatre départements
+d'outre-mer ;
 
-2° 196 euros en Polynésie française, dans les îles Wallis et Futuna et les
-Terres australes et antarctiques françaises, à Saint-Pierre-et-Miquelon et en
+2° 201 € en Polynésie française, dans les îles Wallis et Futuna et les Terres
+australes et antarctiques françaises, à Saint-Pierre-et-Miquelon et en
 Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la
 même proportion que la variation la plus élevée de la moyenne annuelle des
 indices des prix à la consommation de la Polynésie française et de la
@@ -41,21 +41,24 @@ professionnels qui figurent sur son avis d'imposition établi au titre des
 revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de
 l'année antérieure.
 
-Pour les baux conclus en 2011, les plafonds annuels de ressources sont les
+Pour les baux conclus en 2012, les plafonds annuels de ressources sont les
 suivants :
+
+(en euros)
 
 
 COMPOSITION DU FOYER DU LOCATAIRE
 
-PLAFOND ANNUEL DE RESSOURCES (en euros)
+PLAFOND ANNUEL DE RESSOURCES
 
 Départements d'outre-mer,
 
-Saint-Barthélemy, Saint-Martin
+Saint-Barthélemy,
 
-et Mayotte
 
-Polynésie française, Nouvelle Calédonie,
+Saint-Martin et Mayotte
+
+Polynésie française, Nouvelle-Calédonie,
 
 îles Wallis et Futuna, Terres australes
 
@@ -66,51 +69,51 @@ et Saint-Pierre-et-Miquelon
 
 Personne seule
 
-29 627
+30 433
 
-28 676
+29 329
 
 
 Couple
 
-54 797
+56 287
 
-53 036
+54 243
 
 
 Personne seule ou couple ayant une personne à charge
 
-57 966
+59 542
 
-56 103
+57 380
 
 
 Personne seule ou couple ayant deux personnes à charge
 
-61 136
+62 798
 
-59 172
+60 519
 
 
 Personne seule ou couple ayant trois personnes à charge
 
-65 372
+67 149
 
-63 269
+64 709
 
 
 Personne seule ou couple ayant quatre personnes à charge
 
-69 608
+71 500
 
-67 368
+68 901
 
 
 Majoration par personne à charge à partir de la cinquième
 
-+ 4 447
++ 4 568
 
-+ 4 303
++ 4 401
 
 Ces plafonds sont relevés chaque année selon les modalités définies au 1.
 

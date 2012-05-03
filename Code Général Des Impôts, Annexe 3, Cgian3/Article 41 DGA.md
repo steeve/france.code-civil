@@ -9,11 +9,12 @@ l'article 150-0 A précité, lorsque l'objet principal du fonds, de la société
 de l'entité est d'investir, directement ou indirectement par l'intermédiaire
 d'autres fonds, sociétés ou entités :
 
-1° Dans des sociétés innovantes qui satisfont à la condition prévue au a ou au b
-du I de l'article L. 214-41 du code monétaire et financier, dont les titres ne
-sont admis aux négociations ni sur un marché réglementé d'instruments financiers
-français ou étranger, ni sur un marché non réglementé d'instruments financiers
-d'un Etat qui n'est pas partie à l'accord sur l'Espace économique européen ;
+1° Dans des sociétés innovantes qui satisfont à la condition prévue au 1° ou au
+2° du I de l'article L. 214-30 du code monétaire et financier, dont les titres
+ne sont admis aux négociations ni sur un marché réglementé d'instruments
+financiers français ou étranger, ni sur un marché non réglementé d'instruments
+financiers d'un Etat qui n'est pas partie à l'accord sur l'Espace économique
+européen ;
 
 2° Dans des petites ou moyennes entreprises au sens de l'annexe I au règlement
 (CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant certaines
@@ -34,8 +35,8 @@ l'évasion fiscale.
 
 Le taux d'investissement de 0, 25 % mentionné au premier alinéa du I s'applique
 également au montant total des souscriptions dans un fonds commun de placement
-dans l'innovation mentionné à l'article L. 214-41 du code monétaire et financier
-et dans un fonds d'investissement de proximité mentionné à l'article L. 214-41-1
+dans l'innovation mentionné à l'article L. 214-30 du code monétaire et financier
+et dans un fonds d'investissement de proximité mentionné à l'article L. 214-31
 du même code.
 
 Toutefois, le taux d'investissement de 0, 25 % ne s'applique pas lorsque les

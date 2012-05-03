@@ -6,7 +6,7 @@ Sont affranchis de l'impôt :
 fonction ou à l'emploi et effectivement utilisées conformément à leur objet. Les
 rémunérations des journalistes, rédacteurs, photographes, directeurs de journaux
 et critiques dramatiques et musicaux perçues ès qualités constituent de telles
-allocations à concurrence de 7 650 euros.
+allocations à concurrence de 7 650 €.
 
 Toutefois, lorsque leur montant est fixé par voie législative, ces allocations
 sont toujours réputées utilisées conformément à leur objet et ne peuvent donner
@@ -169,8 +169,8 @@ conditions et limites aux dividendes des actions de travail attribuées aux
 salariés des sociétés anonymes à participation ouvrière régies par la loi du 26
 avril 1917, à compter du 1er janvier 1991 ;
 
-19° Dans la limite de 5,29 euros par titre, le complément de rémunération
-résultant de la contribution de l'employeur à l'acquisition par le salarié des
+19° Dans la limite de 5,29 € par titre, le complément de rémunération résultant
+de la contribution de l'employeur à l'acquisition par le salarié des
 titres-restaurant émis conformément aux dispositions du chapitre II du titre VI
 du livre II de la troisième partie du code du travail, lorsque cette
 contribution est comprise entre un minimum et un maximum fixés par arrêté du
@@ -245,11 +245,11 @@ Algérie ;
 complément de cotisation d'assurance vieillesse, prévue à l'article L. 741-24 du
 code rural et de la pêche maritime ;
 
-29° Les vacations horaires, l'allocation de vétérance personnelle ou de
-reversion et la prestation de fidélisation et de reconnaissance servies aux
-sapeurs-pompiers volontaires ou à leurs ayants droit, en application du titre II
-de la loi n° 96-370 du 3 mai 1996 relative au développement du volontariat dans
-les corps de sapeurs-pompiers ;
+29° Les indemnités, l'allocation de vétérance personnelle ou de reversion et la
+prestation de fidélisation et de reconnaissance servies aux sapeurs-pompiers
+volontaires ou à leurs ayants droit, en application du titre III de la loi n°
+96-370 du 3 mai 1996 relative au développement du volontariat dans les corps de
+sapeurs-pompiers ;
 
 30° Le pécule modulable d'incitation des militaires à une seconde carrière,
 versé en application du I de l'article 149 de la loi n° 2008-1425 du 27 décembre
@@ -259,15 +259,15 @@ versé en application du I de l'article 149 de la loi n° 2008-1425 du 27 décem
 150 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 ;
 
 31° Les avantages résultant des opérations définies au 1° du 11 de l'article 39,
-dans la limite globale de 1 525 euros par salarié, appréciée sur l'ensemble de
-la période couverte par l'accord mentionné au 2° du même article ;
+dans la limite globale de 1 525 € par salarié, appréciée sur l'ensemble de la
+période couverte par l'accord mentionné au 2° du même article ;
 
 31° bis L'avantage résultant pour le salarié de la remise gratuite par son
 employeur de matériels informatiques et de logiciels nécessaires à leur
 utilisation entièrement amortis et pouvant permettre l'accès à des services de
 communications électroniques et de communication au public en ligne, dans la
 limite d'un prix de revient global des matériels et logiciels reçus dans l'année
-de 2 000 euros ;
+de 2 000 € ;
 
 32° L'indemnité de cessation d'activité prévue au V de l'article 41 de la loi de
 financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998) ;

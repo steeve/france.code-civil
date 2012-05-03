@@ -4,18 +4,20 @@ En matière d'exonération partielle des droits de mutation à titre gratuit,
 prévue au b du 3° du 1 et au b du 2° du 2 de l'article 793 du code général des
 impôts, la demande de certificat est adressée :
 
-1° Pour les sociétés, à la direction départementale de l'agriculture et de la
-forêt du département où est située la plus grande surface des terrains, soit par
-le gérant du groupement forestier, soit par le représentant habilité de la
-société de gestion de la société d'épargne forestière ;
+1° Pour les sociétés, à la direction départementale des territoires ou à la
+direction départementale des territoires et de la mer du département où est
+située la plus grande surface des terrains, soit par le gérant du groupement
+forestier, soit par le représentant habilité de la société de gestion de la
+société d'épargne forestière ;
 
-2° Dans les autres cas, à la direction départementale de l'agriculture et de la
-forêt du ou des départements du lieu de situation des bois et forêts.
+2° Dans les autres cas, à la direction départementale des territoires ou à la
+direction départementale des territoires et de la mer du ou des départements du
+lieu de situation des bois et forêts.
 
 Lorsqu'une propriété est située sur deux ou plusieurs départements contigus, la
 demande portant sur l'ensemble des parcelles est adressée à la direction
-départementale de l'agriculture et de la forêt où est située la plus grande
-surface des terrains.
+départementale des territoires ou à la direction départementale des territoires
+et de la mer où est située la plus grande surface des terrains.
 
 La demande de certificat comporte l'identité et l'adresse du bénéficiaire de
 l'exonération mentionnée au premier alinéa ou du groupement forestier ou de la

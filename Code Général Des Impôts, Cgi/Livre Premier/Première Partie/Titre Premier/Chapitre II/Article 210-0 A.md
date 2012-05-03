@@ -36,8 +36,8 @@ absorbée ou scindée.
 
 II.-Sont exclues des dispositions prévues au 7 bis de l'article 38, au I ter et
 au V de l'article 93 quater, aux articles 115,151 octies, 151 octies A, 151
-octies B, 151 nonies, 210 A à 210 C et aux deuxième à quatrième alinéas du II de
-l'article 220 quinquies, les opérations de fusion, de scission et d'apport
+octies B, 151 nonies, 210 A à 210 C et aux deuxième et troisième alinéas du II
+de l'article 220 quinquies, les opérations de fusion, de scission et d'apport
 partiel d'actif n'entrant pas dans le champ d'application de la directive
 90/434/ CEE du Conseil du 23 juillet 1990, lorsqu'une société, apporteuse ou
 bénéficiaire d'un apport, a son siège dans un Etat ou territoire n'ayant pas

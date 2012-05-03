@@ -6,191 +6,205 @@ les plafonds de loyer et de ressources du locataire sont les suivants :
 a. Les plafonds de loyer mensuel, charges non comprises, sont fixés aux quatre
 cinquièmes, arrondis au centime d'euro le plus proche, de ceux mentionnés au :
 
--a de l'article 2 terdecies B, pour les baux conclus en 2010, s'agissant de
+-a de l'article 2 terdecies B, pour les baux conclus en 2012, s'agissant de
 logements autres que ceux visés au b de ce même article ;
 
--b de l'article 2 terdecies B, pour les baux conclus en 2011, s'agissant de
+-b de l'article 2 terdecies B, pour les baux conclus en 2012, s'agissant de
 logements visés au b de ce même article.
 
-Pour les baux conclus en 2011, les plafonds de loyer mensuel, charges non
+Pour les baux conclus en 2012, les plafonds de loyer mensuel, charges non
 comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la
 réduction d'impôt prévue à l'article 199 septvicies du code général des impôts
-sont égaux, par mètre carré de surface habitable, à 9,83 € dans les départements
-d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte et à 13,01 € en
-Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans
-les îles Wallis et Futuna. Ces plafonds sont relevés au 1er janvier de chaque
-année selon les modalités définies au 1 de l'article 46 AG duodecies.
+sont égaux, par mètre carré de surface habitable, à 10,10 € dans les
+départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte et à
+13,31 € en Polynésie française, en Nouvelle-Calédonie, à
+Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont
+relevés au 1er janvier de chaque année selon les modalités définies au 1 de
+l'article 46 AG duodecies.
 
 b. Les ressources du locataire s'entendent du revenu fiscal de référence au sens
 du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis
 d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle
 de la signature du contrat de location.
 
-Pour les baux conclus en 2011, les plafonds annuels de ressources sont les
+Pour les baux conclus en 2012, les plafonds annuels de ressources sont les
 suivants :
+
+(en euros)
 
 
 COMPOSITION DU FOYER LOCATAIRE
 
 LIEU DE LOCATION
 
-Zone A (en euros)
 
-Zone B1 (en euros)
+Zone A
 
-Zone B2 (en euros)
+(en €)
 
-Zone C (en euros)
+
+Zone B 1
+
+(en €)
+
+
+Zone B 2
+
+(en €)
+
+
+Zone C
+
+(en €)
 
 
 Personne seule
 
-44 793
+45 241
 
-33 272
+33 605
 
-30 500
+30 805
 
-30 294
+30 597
 
 
 Couple
 
-66 943
+67 612
 
-48 860
+49 349
 
-44 789
+45 237
 
-40 717
+41 124
 
 
 Personne seule ou couple ayant une personne à charge
 
-80 471
+81 276
 
-58 493
+59 078
 
-53 619
+54 155
 
-48 744
+49 231
 
 
 Personne seule ou couple ayant deux personnes à charge
 
-96 391
+97 355
 
-70 790
+71 498
 
-64 891
+65 540
 
-58 992
+59 582
 
 
 Personne seule ou couple ayant trois personnes à charge
 
-114 109
+115 250
 
-83 085
+83 916
 
-76 163
+76 925
 
-69 237
+69 929
 
 
 Personne seule ou couple ayant quatre personnes à charge
 
-128 402
+129 686
 
-93 720
+94 657
 
-85 911
+86 770
 
-78 101
+78 882
 
 
 Majoration par personne à charge supplémentaire à partir de la cinquième
 
-+ 14 312
++ 14 455
 
-+ 10 646
++ 10 752
 
-+ 9 758
++ 9 856
 
-+ 8 771
++ 8 960
 
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes
-modalités que les plafonds de ressources prévus à l'article 2 duodecies.
-
-Pour les baux conclus en 2011, les ressources des locataires de logements situés
+modalités que les plafonds de ressources prévus à l'article 2 duodecies. Pour
+les baux conclus en 2012, les ressources des locataires de logements situés
 outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199
-septvicies du code général des impôts sont les suivants :
+septvicies du code général des impôts sont les suivants : (en euros)
 
 
 COMPOSITION DU FOYER LOCATAIRE
 
 DÉPARTEMENTS D'OUTRE-MER,
 
-Saint-Martin, Saint-Barthélemy, Mayotte
+Saint-Martin,
 
-(en euros)
+Saint-Barthélemy, Mayotte
 
 POLYNÉSIE FRANÇAISE,
 
-Nouvelle-Calédonie, Saint-Pierre-et-Miquelon,
+Nouvelle-Calédonie,
+
+Saint-Pierre-et-Miquelon,
 
 îles Wallis et Futuna
-
-(en euros)
 
 
 Personne seule
 
-26 473
+27 193
 
-23 300
+23 831
 
 
 Couple
 
-35 354
+36 315
 
-43 092
+44 073
 
 
 Personne seule ou couple ayant une personne à charge
 
-42 515
+43 671
 
-45 584
+46 621
 
 
 Personne seule ou couple ayant deux personnes à charge
 
-51 321
+52 716
 
-48 077
+49 171
 
 
 Personne seule ou couple ayant trois personnes à charge
 
-60 376
+62 017
 
-51 406
+52 576
 
 
 Personne seule ou couple ayant quatre personnes à charge
 
-68 043
+69 893
 
-54 738
+55 984
 
 
 Majoration par personne à charge supplémentaire à partir de la cinquième
 
-+ 7 591
++ 7 798
 
-+ 3 496
++ 3 576
 
 Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités
 définies au 1 de l'article 46 AG duodecies.

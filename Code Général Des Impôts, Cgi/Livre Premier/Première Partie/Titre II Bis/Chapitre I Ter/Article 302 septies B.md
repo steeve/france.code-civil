@@ -8,7 +8,9 @@ articles L 520-1 à L 520-9 du code de l'urbanisme ;
 
 b. Disposition devenue sans objet ;
 
-c. abrogé ;
+c) Conformément à l'article L. 333-12 du code de l'urbanisme, le versement
+résultant du dépassement du plafond légal de densité prévu à l'article L. 112-2
+du même code ;
 
 II. Constituent du point de vue fiscal, un élément du prix de revient de
 l'ensemble immobilier :
@@ -19,7 +21,6 @@ l'urbanisme ;
 b) Le versement pour sous-densité prévu par les articles L. 331-36 et L. 331-38
 du même code ;
 
-c. la taxe pour le financement des dépenses des conseils d'architecture,
-d'urbanisme et de l'environnement prévue à l'article 1599 B ;
+c. (Abrogé) ;
 
-d. la taxe spéciale d'équipement prévue à l'article 1599-0 B.
+d. (Abrogé).

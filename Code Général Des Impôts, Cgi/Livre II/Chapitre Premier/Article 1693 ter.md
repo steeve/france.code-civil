@@ -44,9 +44,9 @@ prend effet à compter du premier jour de l'exercice qu'elle vise.
 Le redevable mentionné au 1 peut, avec leur accord, exclure certains membres du
 groupe ou en introduire de nouveaux. Ces modifications ne peuvent prendre effet
 qu'à compter du second exercice compris dans la période d'option. Elles
-s'opèrent selon des modalités analogues à celles décrites au premier alinéa du
-présent 2.L'introduction de nouveaux membres dans le groupe est sans incidence
-sur la durée initiale de l'option.
+s'opèrent selon des modalités analogues à celles décrites au premier alinéa.
+L'introduction de nouveaux membres dans le groupe est sans incidence sur la
+durée initiale de l'option.
 
 L'appartenance d'un membre au groupe cesse à compter du premier jour du mois
 suivant celui au cours duquel les conditions mentionnées au 1 cessent d'être
@@ -72,7 +72,7 @@ la période couverte par l'option fait l'objet d'une restitution au redevable
 mentionné au 1 ;
 
 c) Acquitte les taxes, contributions et redevances mentionnées au 1 qui figurent
-sur les déclarations mentionnées au b du présent 3.
+sur les déclarations mentionnées au b.
 
 4. Les déclarations mentionnées au c du 1 et l'annexe mentionnée au premier
 alinéa du 1 restent soumises au contrôle de l'administration dans les conditions

@@ -67,8 +67,8 @@ versements effectués au profit d'organismes sans but lucratif qui procèdent à
 fourniture gratuite de repas à des personnes en difficulté, qui contribuent à
 favoriser leur logement ou qui procèdent, à titre principal, à la fourniture
 gratuite des soins mentionnés au 1° du 4 de l'article 261 à des personnes en
-difficulté. Ces versements sont retenus dans la limite de 513 € à compter de
-l'imposition des revenus de l'année 2010. Il n'en est pas tenu compte pour
+difficulté. Ces versements sont retenus dans la limite de 521 € à compter de
+l'imposition des revenus de l'année 2011. Il n'en est pas tenu compte pour
 l'application de la limite mentionnée au 1.
 
 La limite de versements mentionnée au premier alinéa est relevée chaque année
@@ -178,7 +178,7 @@ bénéficiaires. A défaut, la réduction d'impôt est refusée sans proposition
 rectification préalable.
 
 Toutefois, pour l'application du 3, les reçus délivrés pour les dons et les
-cotisations d'un montant égal ou inférieur à 3 000 euros ne mentionnent pas la
+cotisations d'un montant égal ou inférieur à 3 000 € ne mentionnent pas la
 dénomination du bénéficiaire. Un décret en Conseil d'Etat détermine les
 modalités d'application de cette disposition.
 
@@ -191,7 +191,7 @@ profit de chacun d'entre eux au titre de l'année d'imposition des revenus.
 
 L'identité du bénéficiaire n'est pas mentionnée pour les dons et cotisations
 versés à des organismes visés au e du 1 et au 3 lorsque, dans ce dernier cas,
-les versements sont d'un montant égal ou inférieur à 3 000 euros.
+les versements sont d'un montant égal ou inférieur à 3 000 €.
 
 La réduction d'impôt accordée est remise en cause lorsque ces contribuables ne
 peuvent pas justifier des versements effectués par la présentation des pièces

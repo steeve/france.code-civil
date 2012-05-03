@@ -12,7 +12,9 @@ b) Le montant du gain net imposable assorti des éléments nécessaires à sa
 détermination ;
 
 c) le montant de l'abattement mentionné à l'article 150-0 D bis du code précité
-ainsi que les éléments nécessaires à sa détermination.
+dans sa rédaction antérieure à l'entrée en vigueur de la loi n° 2011-1977 du 28
+décembre 2011 de finances pour 2012, ainsi que les éléments nécessaires à sa
+détermination.
 
 Toutefois, les contribuables peuvent se libérer de cette obligation en
 fournissant, pour les titres en dépôt ou inscrits en compte auprès d'un

@@ -8,21 +8,23 @@ a) La date de la convention de copropriété, la dénomination et l'adresse de
 cette copropriété ainsi que l'identité et l'adresse de son gérant ;
 
 b) Pour les navires déjà francisés, le nom et la désignation du navire, la date
-et le numéro de sa fiche matricule prévue à l'article 90 du décret n° 67-967 du
+et le numéro de sa fiche matricule prévue à l'article 95 du décret n° 67-967 du
 27 octobre 1967 modifié portant statut des navires et autres bâtiments de mer,
 l'adresse du bureau des douanes du port d'attache ainsi que les dates de
 livraison et de début d'exploitation du navire.
 
 Pour les navires non encore francisés et relevant des dispositions de l'article
-89 du décret précité, le nom et la désignation du navire, la date et le numéro
-de sa fiche matricule et l'adresse du bureau des douanes du port d'attache ainsi
-que les dates prévues de livraison et de début d'exploitation du navire.
+L. 5114-2 du code des transports, le nom et la désignation du navire, la date et
+le numéro de sa fiche matricule et l'adresse du bureau des douanes du port
+d'attache ainsi que les dates prévues de livraison et de début d'exploitation du
+navire.
 
-Pour les navires non encore francisés et ne relevant pas de l'article 89 du
-décret précité, le nom et la désignation du navire, le contrat de construction,
-éventuellement traduit en langue française et comportant notamment la date de
-livraison, l'adresse du bureau des douanes du port d'attache où le navire sera
-francisé ainsi que la date prévue de début d'exploitation du navire ;
+Pour les navires non encore francisés et ne relevant pas de l'article L. 5114-2
+du code des transports, le nom et la désignation du navire, le contrat de
+construction, éventuellement traduit en langue française et comportant notamment
+la date de livraison, l'adresse du bureau des douanes du port d'attache où le
+navire sera francisé ainsi que la date prévue de début d'exploitation du navire
+;
 
 c) S'il y a lieu, les dates de signature et d'effet du contrat d'affrètement
 ainsi que les éléments permettant l'identification de l'affréteur : dénomination

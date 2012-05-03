@@ -2,12 +2,13 @@ Article 281 G
 ----
 En matière d'exonération partielle des droits de mutation à titre gratuit prévue
 au 7° du 2 de l'article 793 du code général des impôts, la demande de certificat
-est adressée à la direction départementale de l'agriculture et de la forêt du
-département où est située la plus grande surface des terrains. Lorsqu'une
-propriété est située sur deux ou plusieurs départements contigus, la demande
-portant sur l'ensemble des parcelles est adressée à la direction départementale
-de l'agriculture et de la forêt où est située la plus grande surface des
-terrains.
+est adressée à la direction départementale des territoires ou à la direction
+départementale des territoires et de la mer du département où est située la plus
+grande surface des terrains. Lorsqu'une propriété est située sur deux ou
+plusieurs départements contigus, la demande portant sur l'ensemble des parcelles
+est adressée à la direction départementale des territoires ou à la direction
+départementale des territoires et de la mer où est située la plus grande surface
+des terrains.
 
 La demande de certificat comporte :
 

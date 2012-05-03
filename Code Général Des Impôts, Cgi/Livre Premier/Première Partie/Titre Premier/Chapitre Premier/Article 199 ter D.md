@@ -1,20 +1,20 @@
 Article 199 ter D
 ----
-Le crédit d'impôt défini à l'article 244 quater E est imputé sur l'impôt sur le
-revenu dû par le contribuable au titre de l'année au cours de laquelle les biens
-éligibles au dispositif sont acquis, créés ou loués. Lorsque les biens éligibles
-sont acquis, créés ou loués au titre d'un exercice ne coïncidant pas avec
-l'année civile, le crédit d'impôt correspondant est imputé sur l'impôt sur le
-revenu dû par le contribuable au titre de l'année au cours de laquelle
+I. - Le crédit d'impôt défini à l'article 244 quater E est imputé sur l'impôt
+sur le revenu dû par le contribuable au titre de l'année au cours de laquelle
+les biens éligibles au dispositif sont acquis, créés ou loués. Lorsque les biens
+éligibles sont acquis, créés ou loués au titre d'un exercice ne coïncidant pas
+avec l'année civile, le crédit d'impôt correspondant est imputé sur l'impôt sur
+le revenu dû par le contribuable au titre de l'année au cours de laquelle
 l'exercice est clos. Si le montant du crédit d'impôt excède l'impôt dû au titre
 de ladite année, l'excédent est utilisé pour le paiement de l'impôt sur le
 revenu dû au titre des neuf années suivantes. Le solde non utilisé est remboursé
 à l'expiration de cette période dans la limite de 50 % du crédit d'impôt et d'un
-montant de 300 000 euros.
+montant de 300 000 €.
 
 Toutefois, sur demande du redevable, le solde non utilisé peut être remboursé à
 compter de la cinquième année, dans la limite de 35 % du crédit d'impôt et d'un
-montant de 300 000 euros.
+montant de 300 000 €.
 
 La créance sur l'Etat correspondant au crédit d'impôt non utilisé est
 inaliénable et incessible, sauf dans les cas et selon les conditions prévus aux

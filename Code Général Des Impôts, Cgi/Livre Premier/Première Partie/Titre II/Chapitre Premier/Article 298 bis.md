@@ -61,18 +61,18 @@ sur des animaux vivants de boucherie et de charcuterie.
 
 5° Les exploitants agricoles, lorsque le montant moyen des recettes de
 l'ensemble de leurs exploitations, calculé sur deux années civiles consécutives,
-dépasse 46 000 euros. L'assujettissement prend effet à compter du 1er janvier de
+dépasse 46 000 €. L'assujettissement prend effet à compter du 1er janvier de
 l'année suivante.
 
 Lorsque la moyenne des recettes hors taxe sur la valeur ajoutée, calculée sur
 trois périodes annuelles d'imposition consécutives, devient inférieure à 46 000
-Euros, les exploitants agricoles peuvent cesser d'être soumis au régime
-simplifié à compter du ler janvier ou du premier jour de l'exercice suivant, à
-condition qu'ils le signalent au service des impôts avant le 1er février ou
-avant le premier jour du deuxième mois de l'exercice et qu'ils n'aient pas
-bénéficié, au cours de ces trois périodes annuelles d'imposition, y compris, le
-cas échéant, au cours de la période mentionnée à la dernière phrase du l° du I,
-de remboursement de crédit de taxe.
+€, les exploitants agricoles peuvent cesser d'être soumis au régime simplifié à
+compter du ler janvier ou du premier jour de l'exercice suivant, à condition
+qu'ils le signalent au service des impôts avant le 1er février ou avant le
+premier jour du deuxième mois de l'exercice et qu'ils n'aient pas bénéficié, au
+cours de ces trois périodes annuelles d'imposition, y compris, le cas échéant,
+au cours de la période mentionnée à la dernière phrase du l° du I, de
+remboursement de crédit de taxe.
 
 Pour les groupements agricoles d'exploitation en commun dont tous les associés
 participent effectivement et régulièrement à l'activité du groupement par leur
@@ -82,7 +82,7 @@ multipliée par le nombre d'associés.
 
 Toutefois, elle est égale à la limite prévue pour les exploitants individuels
 multipliée par le nombre d'associés lorsque la moyenne des recettes du
-groupement est inférieure ou égale à 138 000 euros.
+groupement est inférieure ou égale à 138 000 €.
 
 6° Les bailleurs de biens ruraux qui ont exercé l'option autorisée par le 6° de
 l'article 260.
@@ -111,7 +111,7 @@ la taxe sur la valeur ajoutée, réalisées par un exploitant agricole soumis po
 ses opérations agricoles au régime simplifié prévu au I peuvent être imposées
 selon ce régime lorsqu'au titre de la période couvrant les trois années
 d'imposition précédentes, la moyenne annuelle des recettes accessoires, taxes
-comprises, de ces trois années n'excède pas 50 000 euros et 30 % de la moyenne
+comprises, de ces trois années n'excède pas 50 000 € et 30 % de la moyenne
 annuelle des recettes, taxes comprises, provenant de ses activités agricoles, au
 titre desdites années.
 
@@ -127,19 +127,19 @@ d'origine photovoltaïque ou éolienne, passibles de la taxe sur la valeur
 ajoutée, réalisées par un exploitant agricole sur son exploitation agricole,
 lorsque le montant total des recettes provenant de ces activités, majorées des
 recettes accessoires commerciales et non commerciales susvisées, n'excède pas,
-au titre de la période annuelle d'imposition précédente, 100 000 euros et 50 %
-du montant des recettes taxes comprises de ses activités agricoles.
+au titre de la période annuelle d'imposition précédente, 100 000 € et 50 % du
+montant des recettes taxes comprises de ses activités agricoles.
 
 IV. En cas de cession ou de cessation de leur activité, les exploitants
 agricoles sont tenus de souscrire dans les trente jours la déclaration prévue au
 1° du I ou, le cas échéant, au quatrième alinéa du I de l'article 1693 bis.
 
 V. - Les exploitants agricoles qui relèvent du régime simplifié prévu aux I et
-II du présent article peuvent, par dérogation aux dispositions du I de l'article
-1693 bis, imputer sur le montant des acomptes trimestriels prévus au même
-article 1693 bis acquittés au titre de l'année 2012 ou du premier exercice
-ouvert en 2012, dans la limite du montant de l'acompte, à hauteur de 64 % de la
-taxe sur la valeur ajoutée qui a grevé les achats, réglés au cours du trimestre
-civil précédant l'échéance de l'acompte, de produits antiparasitaires, sous
-réserve que ceux-ci aient fait l'objet soit d'une homologation, soit d'une
-autorisation de vente délivrée par le ministre chargé de l'agriculture.
+II peuvent, par dérogation aux dispositions du I de l'article 1693 bis, imputer
+sur le montant des acomptes trimestriels prévus au même article 1693 bis
+acquittés au titre de l'année 2012 ou du premier exercice ouvert en 2012, dans
+la limite du montant de l'acompte, à hauteur de 64 % de la taxe sur la valeur
+ajoutée qui a grevé les achats, réglés au cours du trimestre civil précédant
+l'échéance de l'acompte, de produits antiparasitaires, sous réserve que ceux-ci
+aient fait l'objet soit d'une homologation, soit d'une autorisation de vente
+délivrée par le ministre chargé de l'agriculture.

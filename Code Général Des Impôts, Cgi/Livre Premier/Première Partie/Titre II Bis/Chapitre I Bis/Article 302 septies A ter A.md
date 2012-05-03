@@ -13,17 +13,16 @@ chargé du budget (2).
 1 bis. A l'exception de celles ayant la qualité de commerçant qui sont
 contrôlées par une société qui établit des comptes en application de l'article
 L. 233-16 du code de commerce, les personnes morales soumises au régime défini à
-l'article 302 septies A bis du présent code et qui ne sont pas visées au 1 du
-présent article peuvent n'enregistrer les créances et les dettes qu'à la clôture
-de l'exercice.
+l'article 302 septies A bis du présent code et qui ne sont pas visées au 1
+peuvent n'enregistrer les créances et les dettes qu'à la clôture de l'exercice.
 
 2. Les frais relatifs aux carburants consommés lors des déplacements
 professionnels de l'exploitant peuvent être enregistrés forfaitairement d'après
 un barème qui est publié chaque année.
 
 La justification des frais généraux accessoires payés en espèces n'est pas
-exigée dans la limite de 1 p. 1000 du chiffre d'affaires réalisé et d'un minimum
-de 150 euros.
+exigée dans la limite de 1 % du chiffre d'affaires réalisé et d'un minimum de
+150 €.
 
 (Alinéa disjoint)
 

@@ -102,7 +102,7 @@ intervenir l'année de la création de la société ou au cours des deux années
 suivantes.
 
 La déduction ne peut excéder 50 % du salaire versé à l'emprunteur par la société
-nouvelle. Elle ne peut être supérieure à 15 250 euros.
+nouvelle. Elle ne peut être supérieure à 15 250 €.
 
 La société nouvelle doit être soumise à l'impôt sur les sociétés dans les
 conditions de droit commun, exercer une activité mentionnée aux articles 34 et
@@ -159,16 +159,16 @@ couverts par des allocations spéciales.
 La déduction à effectuer du chef des frais professionnels est calculée
 forfaitairement en fonction du revenu brut, après défalcation des cotisations,
 contributions et intérêts mentionnés aux 1° à 2° quinquies et à l'article 83 bis
-; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 14 157 euros
-pour l'imposition des rémunérations perçues en 2010 ; chaque année, le plafond
+; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 14 157 €
+pour l'imposition des rémunérations perçues en 2011 ; chaque année, le plafond
 retenu pour l'imposition des revenus de l'année précédente est relevé dans la
 même proportion que la limite supérieure de la première tranche du barème de
 l'impôt sur le revenu.
 
 Le montant de la déduction forfaitaire pour frais professionnels ne peut être
-inférieur à 421 euros ou à 924 euros pour les personnes inscrites en tant que
-demandeurs d'emploi depuis plus d'un an, sans pouvoir excéder le montant brut
-des traitements et salaires. Cette disposition s'applique séparément aux
+inférieur à 421 € ou à 924 € pour les personnes inscrites en tant que demandeurs
+d'emploi depuis plus d'un an, sans pouvoir excéder le montant brut des
+traitements et salaires. Cette disposition s'applique séparément aux
 rémunérations perçues par chaque membre du foyer fiscal désigné aux 1 et 3 de
 l'article 6.
 

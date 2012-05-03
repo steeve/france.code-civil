@@ -2,7 +2,7 @@ Article 299 octies A
 ----
 I.-Le prélèvement de frais et commissions supportés par les souscripteurs des
 titres de capital ou donnant accès au capital de sociétés mentionnées au 3° du I
-de l'article 199 terdecies-0 A ainsi qu'au 3° du I de l'article 885-0 V bis est
+de l'article 199 terdecies 0 A ainsi qu'au 3° du I de l'article 885-0 V bis est
 autorisé sous réserve du respect des conditions prévues à l'article D. 214-80 du
 code monétaire et financier, adaptées comme suit :
 
@@ -23,8 +23,8 @@ chaque année. Si les statuts de ces sociétés ne prévoient aucune durée maxi
 de détention des titres de capital ou donnant accès au capital par le
 souscripteur, le respect de ce plafond s'apprécie chaque année.
 
-II.-1. Le document d'information prévu au premier alinéa du e du 3 du I de
-l'article 199 terdecies-0 A du code général des impôts et au premier alinéa du f
+II.-1. Le document d'information prévu au premier alinéa du e du 3° du I de
+l'article 199 terdecies 0 A du code général des impôts et au premier alinéa du f
 du 3 du I de l'article 885-0 V bis du même code, rédigé en vue de la
 commercialisation des titres de capital ou donnant accès au capital de sociétés
 mentionnées au I du présent article, comporte les éléments prévus au I de

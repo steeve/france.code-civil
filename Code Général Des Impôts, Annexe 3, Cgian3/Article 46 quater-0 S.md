@@ -19,6 +19,6 @@ articles 220 quater et 220 quater A du même code ;
 déduisant de ce bénéfice le montant des distributions effectuées par prélèvement
 sur ce même bénéfice ;
 
-3° Seule la fraction du déficit qui n'a pu être imputée sur les bénéfices des
-exercices précédant l'exercice déficitaire continue d'être reportable dans les
+3° Seule la fraction du déficit qui n'a pu être imputée sur le bénéfice de
+l'exercice précédant l'exercice déficitaire continue d'être reportable dans les
 conditions prévues au I de l'article 209 du code général des impôts.

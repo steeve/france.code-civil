@@ -115,14 +115,14 @@ B sexies.
 
 Par délibérations concordantes de l'organe délibérant de l'établissement public
 de coopération intercommunale et du conseil municipal de la commune concernée,
-les taux votés en application du premier alinéa du présent IV peuvent être
-appliqués de manière progressive par fractions égales sur une période maximale
-de douze années. Le présent alinéa n'est pas applicable pour les taxes pour
-lesquelles le rapport entre ces taux et les taux votés par le conseil municipal
-l'année du rattachement de cette commune est inférieur à 10 %. Le cas échéant,
-sont pris en compte pour le calcul de ce rapport les taux des impositions
-perçues l'année du rattachement au profit des établissements publics de
-coopération intercommunale auxquels la commune appartenait.
+les taux votés en application du premier alinéa peuvent être appliqués de
+manière progressive par fractions égales sur une période maximale de douze
+années. Le présent alinéa n'est pas applicable pour les taxes pour lesquelles le
+rapport entre ces taux et les taux votés par le conseil municipal l'année du
+rattachement de cette commune est inférieur à 10 %. Le cas échéant, sont pris en
+compte pour le calcul de ce rapport les taux des impositions perçues l'année du
+rattachement au profit des établissements publics de coopération intercommunale
+auxquels la commune appartenait.
 
 V.-Les I, II et III sont également applicables aux communes faisant l'objet d'un
 rattachement à une communauté urbaine ou à une communauté d'agglomération dont

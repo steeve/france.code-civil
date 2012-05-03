@@ -5,20 +5,19 @@ général des impôts, les plafonds de loyer mensuel, par mètre carré, charges
 comprises, sont fixés :
 
 a. S'agissant des logements autres que ceux visés au b ci-dessous, pour les baux
-conclus en 2011, à 21,84 euros en zone A, 15,19 euros en zone B 1, 12,42 euros
-en zone B 2 et 9,10 euros en zone C ;
+conclus en 2012, à 22,22 € en zone A, 15,45 € en zone B 1, 12,63 € en zone B 2
+et 9,26 € en zone C ;
 
 b. S'agissant des logements acquis ou construits à compter du 1er janvier 2011
 ou des logements acquis par des sociétés civiles de placement immobilier en tout
 ou partie au moyen de souscriptions réalisées à compter de cette même date, pour
-les baux conclus en 2011, à 21,70 euros en zone A bis, 16,10 euros dans le reste
-de la zone A, 13 euros en zone B 1, 10,60 euros en zone B 2 et 7,50 euros en
-zone C.
+les baux conclus en 2012, à 22,08 € en zone A bis, 16,38 € dans le reste de la
+zone A, 13,22 € en zone B 1, 10,78 € en zone B 2 et 7,50 € en zone C.
 
 Les plafonds mentionnés aux a et b sont révisés au 1er janvier de chaque année
 selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
 
-Pour les baux conclus en 2011, les plafonds de loyer mensuel, charges non
+Pour les baux conclus en 2012, les plafonds de loyer mensuel, charges non
 comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la
 réduction d'impôt prévue à l'article 199 septvicies du code général des impôts
 sont égaux aux montants mentionnés au cinquième alinéa de l'article 2 terdecies

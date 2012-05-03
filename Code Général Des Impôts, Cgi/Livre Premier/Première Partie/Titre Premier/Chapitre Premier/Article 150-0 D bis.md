@@ -2,8 +2,7 @@ Article 150-0 D bis
 ----
 I.-1. L'imposition de la plus-value retirée de la cession à titre onéreux
 d'actions ou de parts de sociétés ou de droits démembrés portant sur ces actions
-ou parts peut être reportée si les conditions prévues au II du présent article
-sont remplies.
+ou parts peut être reportée si les conditions prévues au II sont remplies.
 
 Le report est subordonné à la condition que le contribuable en fasse la demande
 et déclare le montant de la plus-value dans la déclaration prévue à l'article
@@ -51,8 +50,8 @@ des prélèvements sociaux, dans la souscription en numéraire au capital initia
 ou dans l'augmentation de capital en numéraire d'une société ;
 
 b) La société bénéficiaire de l'apport doit exercer l'une des activités
-mentionnées au b du 2° du présent II et répondre aux conditions prévues aux a et
-c du même 2° ;
+mentionnées au b du 2° et répondre aux conditions prévues aux a et c du même 2°
+;
 
 c) Les titres représentatifs de l'apport en numéraire doivent être entièrement
 libérés au moment de la souscription ou de l'augmentation de capital ou, au plus
@@ -66,9 +65,8 @@ ans.
 Lorsque les titres font l'objet d'une transmission, d'un rachat ou d'une
 annulation ou, si cet événement est antérieur, lorsque le contribuable transfère
 son domicile fiscal hors de France dans les conditions prévues à l'article 167
-bis, avant le délai prévu au premier alinéa du présent d, le report d'imposition
-prévu au I du présent article est remis en cause dans les conditions du deuxième
-alinéa du III ;
+bis, avant le délai prévu au premier alinéa, le report d'imposition prévu au I
+est remis en cause dans les conditions du deuxième alinéa du III ;
 
 e) (abrogé)
 
@@ -80,16 +78,16 @@ précédant le remploi du produit de la cession.
 III. ― Le report d'imposition prévu au présent article est exclusif de
 l'application des articles 199 terdecies-0 A et 885-0 V bis.
 
-Le non-respect de l'une des conditions prévues au II du présent article entraîne
-l'exigibilité immédiate de l'impôt sur la plus-value, sans préjudice de
-l'intérêt de retard prévu à l'article 1727, décompté de la date à laquelle cet
-impôt aurait dû être acquitté.
+Le non-respect de l'une des conditions prévues au II entraîne l'exigibilité
+immédiate de l'impôt sur la plus-value, sans préjudice de l'intérêt de retard
+prévu à l'article 1727, décompté de la date à laquelle cet impôt aurait dû être
+acquitté.
 
 L'imposition de la plus-value antérieurement reportée peut, à la demande du
 contribuable, être reportée de nouveau lorsque les titres souscrits conformément
-au 3° du II du présent article font l'objet d'une opération d'échange dans les
-conditions prévues à l'article 150-0 B. Dans ce cas, le délai de cinq ans est
-apprécié à compter de la date de souscription des titres échangés.
+au 3° du II font l'objet d'une opération d'échange dans les conditions prévues à
+l'article 150-0 B. Dans ce cas, le délai de cinq ans est apprécié à compter de
+la date de souscription des titres échangés.
 
 III bis. ― Lorsque les titres ayant fait l'objet de l'apport prévu au a du 3° du
 II sont détenus depuis plus de cinq ans, la plus-value en report d'imposition
@@ -100,8 +98,8 @@ classement dans les deuxième ou troisième des catégories prévues à l'articl
 époux soumis à imposition commune ou en cas de liquidation judiciaire de la
 société.
 
-Le premier alinéa du présent III bis ne s'applique pas en cas de remboursement
-des apports avant la dixième année suivant celle de l'apport en numéraire.
+Le premier alinéa ne s'applique pas en cas de remboursement des apports avant la
+dixième année suivant celle de l'apport en numéraire.
 
 IV.-En cas de cession de titres ou droits mentionnés au 1 du I appartenant à une
 série de titres ou droits de même nature, acquis ou souscrits à des dates

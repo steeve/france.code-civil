@@ -6,14 +6,14 @@ n'excèdent pas le montant prévu au II de l'article 1417, un dégrèvement éga
 la fraction de la cotisation supérieure à 50 % du montant total de leurs revenus
 définis aux II et IV du présent article.
 
-Le premier alinéa du présent I n'est pas applicable aux contribuables passibles
-de l'impôt de solidarité sur la fortune au titre de l'année précédant celle de
-l'imposition à la taxe foncière sur les propriétés bâties.
+Le premier alinéa n'est pas applicable aux contribuables passibles de l'impôt de
+solidarité sur la fortune au titre de l'année précédant celle de l'imposition à
+la taxe foncière sur les propriétés bâties.
 
-II. ― Pour l'application du I du présent article, les revenus pris en compte
-s'entendent des revenus définis au IV de l'article 1417, sans qu'il soit fait
-application des règles de quotient définies à l'article 163-0 A, diminués du
-montant des cotisations ou des primes et du montant des abattements mentionnés
+II. ― Pour l'application du I, les revenus pris en compte s'entendent des
+revenus définis au IV de l'article 1417, sans qu'il soit fait application des
+règles de quotient définies à l'article 163-0 A, diminués du montant des
+cotisations ou des primes et du montant des abattements mentionnés
 respectivement aux a et a bis du 1° du même IV et majorés du montant :
 
 a) Des sommes mentionnées au a du 18° et au 18° bis de l'article 81 et des
@@ -45,7 +45,7 @@ fiscalité propre par la différence entre le taux global de la taxe foncière s
 les propriétés bâties constaté dans ces collectivités ou établissements au titre
 de l'année d'imposition et ce même taux global constaté en 2011.
 
-Pour l'application de l'alinéa précédent :
+Pour l'application du premier alinéa :
 
 a) Lorsque les bases nettes imposables au profit de la commune, de
 l'établissement public de coopération intercommunale à fiscalité propre et du
@@ -80,5 +80,5 @@ ainsi que des taxes additionnelles à ces taxes perçues au profit des
 l'exception de la taxe d'enlèvement des ordures ménagères.
 
 VI. ― Le dégrèvement est accordé sur réclamation présentée dans le délai indiqué
-à l'article R. 196-2 du livre des procédures fiscales et dans les formes prévues
-par ce même livre.
+à l'article R. * 196-2 du livre des procédures fiscales et dans les formes
+prévues par ce même livre.

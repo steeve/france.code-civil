@@ -19,7 +19,7 @@ non.
 III.-1.-Les jeux vidéo ouvrant droit au bénéfice du crédit d'impôt doivent
 répondre aux conditions suivantes :
 
-1° Avoir un coût de développement supérieur ou égal à 150 000 euros ;
+1° Avoir un coût de développement supérieur ou égal à 150 000 € ;
 
 2° Etre destinés à une commercialisation effective auprès du public ;
 
@@ -47,7 +47,7 @@ utilisateurs.
 IV.-1.-Pour la création d'un jeu vidéo déterminé, le crédit d'impôt calculé au
 titre de chaque année est égal à 20 % du montant total des dépenses suivantes,
 correspondant à des opérations effectuées en France, dans un autre Etat membre
-de l'Union européenne, ou d'un autre Etat partie à l'accord sur l'Espace
+de l'Union européenne, ou dans un autre Etat partie à l'accord sur l'Espace
 économique européen ayant conclu avec la France une convention d'assistance
 administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors
 qu'elles entrent dans la détermination du résultat imposable :

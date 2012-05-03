@@ -11,8 +11,9 @@ trois-quarts de la fraction de la valeur nette correspondant aux biens visés au
 a ci-après, à condition :
 
 a. que l'acte constatant la donation ou la déclaration de la succession soit
-appuyé d'un certificat délivré sans frais par le directeur départemental de
-l'agriculture et de la forêt attestant que :
+appuyé d'un certificat délivré sans frais par le directeur départemental des
+territoires ou le directeur départemental des territoires et de la mer attestant
+que :
 
 les bois et forêts du groupement sont susceptibles de présenter une des
 garanties de gestion durable prévues à l'article L. 8 du code forestier ;
@@ -93,10 +94,10 @@ leur montant, intéressant les propriétés en nature de bois et forêts, à la
 condition ;
 
 a. que l'acte constatant la donation ou la déclaration de succession soit appuyé
-d'un certificat délivré sans frais par le directeur départemental de
-l'agriculture et de la forêt attestant que les bois et forêts sont susceptibles
-de présenter une des garanties de gestion durable prévues à l'article L. 8 du
-code forestier ;
+d'un certificat délivré sans frais par le directeur départemental des
+territoires ou le directeur départemental des territoires et de la mer attestant
+que les bois et forêts sont susceptibles de présenter une des garanties de
+gestion durable prévues à l'article L. 8 du code forestier ;
 
 b. qu'il contienne l'engagement par l'héritier, le légataire ou le donataire,
 pris pour lui et ses ayants cause :
@@ -215,10 +216,10 @@ l'environnement et de leurs textes d'application, ou délimités en application 
 l'article L. 146-6 du code de l'urbanisme, à la condition :
 
 a) Que l'acte constatant la donation ou la déclaration de succession soit appuyé
-d'un certificat délivré sans frais par le directeur départemental de
-l'agriculture et de la forêt attestant que les propriétés concernées font
-l'objet d'un engagement de gestion conforme aux objectifs de conservation de ces
-espaces ;
+d'un certificat délivré sans frais par le directeur départemental des
+territoires ou le directeur départemental des territoires et de la mer attestant
+que les propriétés concernées font l'objet d'un engagement de gestion conforme
+aux objectifs de conservation de ces espaces ;
 
 b) Qu'il contienne l'engagement par l'héritier, le légataire ou le donataire,
 pris pour lui et ses ayants cause, d'appliquer pendant dix-huit ans aux espaces

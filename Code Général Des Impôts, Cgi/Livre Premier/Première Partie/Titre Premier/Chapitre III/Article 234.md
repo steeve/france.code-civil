@@ -17,17 +17,16 @@ géographiques concernées.
 
 Le montant mentionné au premier alinéa, éventuellement majoré ou modulé dans les
 conditions prévues au deuxième alinéa, ainsi que les limites de 30 et 45 €
-mentionnées au premier alinéa du présent article sont révisés au 1er janvier de
-chaque année selon les modalités prévues au premier alinéa de l'article L.
-353-9-2 du code de la construction et de l'habitation et arrondis au centime
-d'euro le plus proche.
+mentionnées au premier alinéa sont révisés au 1er janvier de chaque année selon
+les modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la
+construction et de l'habitation et arrondis au centime d'euro le plus proche.
 
 Un arrêté des ministres chargés du budget et du logement, révisé au moins tous
 les trois ans, établit le classement des communes par zone.
 
 La taxe s'applique exclusivement aux loyers perçus au titre des logements donnés
 en location nue ou meublée et exonérés de la taxe sur la valeur ajoutée
-conformément aux 2° et 4° de l'article 261 D du présent code.
+conformément aux 2° et 4° de l'article 261 D.
 
 II. ― La taxe, due par le bailleur, est assise sur le montant des loyers perçus
 au cours de l'année civile considérée au titre des logements imposables définis

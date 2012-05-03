@@ -35,15 +35,15 @@ la somme des rémunérations perçues au titre des fonctions énumérées au pre
 alinéa du même 1° dans les sociétés dont le redevable possède des parts ou
 actions représente plus de la moitié des revenus mentionnés à la même phrase.
 
-Lorsque les sociétés mentionnées au deuxième alinéa du présent 2° ont des
-activités soit similaires, soit connexes et complémentaires, la condition de
-rémunération normale s'apprécie au regard des fonctions exercées dans l'ensemble
-des sociétés dont les parts ou actions constituent un bien professionnel.
+Lorsque les sociétés mentionnées au deuxième alinéa ont des activités soit
+similaires, soit connexes et complémentaires, la condition de rémunération
+normale s'apprécie au regard des fonctions exercées dans l'ensemble des sociétés
+dont les parts ou actions constituent un bien professionnel.
 
 Le respect de la condition de possession de 25 % au moins des droits de vote
-attachés aux titres émis par la société prévue au premier alinéa du présent 2°
-n'est pas exigé après une augmentation de capital si, à compter de la date de
-cette dernière, le redevable remplit les trois conditions suivantes :
+attachés aux titres émis par la société prévue au premier alinéa n'est pas exigé
+après une augmentation de capital si, à compter de la date de cette dernière, le
+redevable remplit les trois conditions suivantes :
 
 a) Il a respecté cette condition au cours des cinq années ayant précédé
 l'augmentation de capital ;
@@ -69,7 +69,7 @@ ci-dessus, lorsque leur valeur excède 50 % de la valeur brute des biens
 imposables, y compris les parts et actions précitées.
 
 Sont également considérées comme des biens professionnels, dans la limite de 150
-000 euros, les parts ou actions acquises par un salarié lors de la constitution
+000 €, les parts ou actions acquises par un salarié lors de la constitution
 d'une société créée pour le rachat de tout ou partie du capital d'une entreprise
 dans les conditions mentionnées aux articles 220 quater ou 220 quater A tant que
 le salarié exerce son activité professionnelle principale dans la société

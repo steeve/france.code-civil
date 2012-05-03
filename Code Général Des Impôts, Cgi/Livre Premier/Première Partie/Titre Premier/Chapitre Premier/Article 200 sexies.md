@@ -16,9 +16,9 @@ suivantes et de la moitié de cette somme pour chacun des quarts de part
 suivants.
 
 Pour l'appréciation de ces limites, lorsqu'au cours d'une année civile survient
-l'un des événements mentionnés aux 4, 5 et 6 de l'article 6, le montant des
-revenus, tel que défini au IV de l'article 1417, déclaré au titre de chacune des
-déclarations souscrites est converti en base annuelle.
+l'événement mentionné au 8 de l'article 6, le montant des revenus, tel que
+défini au IV de l'article 1417, déclaré au titre de chacune des déclarations
+souscrites est converti en base annuelle.
 
 B.-1° Le montant des revenus déclarés par chacun des membres du foyer fiscal
 bénéficiaire de la prime majoré du montant des revenus soumis aux versements

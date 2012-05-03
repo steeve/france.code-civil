@@ -131,11 +131,11 @@ société établie en France la contrôlant au sens du I dudit article L. 233-3 
 par une société établie en France directement contrôlée par cette dernière au
 sens de ce même article.
 
-2. Pour l'application du 1 du présent IX, les charges financières afférentes à
-l'acquisition des titres acquis sont réputées égales à une fraction des charges
-financières de l'entreprise les ayant acquis égale au rapport du prix
-d'acquisition de ces titres au montant moyen au cours de l'exercice de la dette
-de l'entreprise les ayant acquis.
+2. Pour l'application du 1, les charges financières afférentes à l'acquisition
+des titres acquis sont réputées égales à une fraction des charges financières de
+l'entreprise les ayant acquis égale au rapport du prix d'acquisition de ces
+titres au montant moyen au cours de l'exercice de la dette de l'entreprise les
+ayant acquis.
 
 La réintégration s'applique au titre de l'exercice au titre duquel la
 démonstration mentionnée au même 1 doit être apportée et des exercices clos
@@ -165,12 +165,12 @@ participation mentionnés au troisième alinéa du a quinquies du I de l'article
 6. Le présent IX ne s'applique pas au titre des exercices pour lesquels
 l'entreprise apporte la preuve :
 
--que les acquisitions mentionnées au 1 n'ont pas été financées par des emprunts
-dont elle ou une autre société du groupe auquel elle appartient supporte les
-charges ;
+a) que les acquisitions mentionnées au 1 n'ont pas été financées par des
+emprunts dont elle ou une autre société du groupe auquel elle appartient
+supporte les charges ;
 
--ou que le ratio d'endettement du groupe auquel elle appartient est supérieur ou
-égal à son propre ratio d'endettement.
+b) ou que le ratio d'endettement du groupe auquel elle appartient est supérieur
+ou égal à son propre ratio d'endettement.
 
 Pour l'application des deuxième et troisième alinéas du présent 6, le groupe et
 les ratios d'endettement s'entendent conformément aux dispositions des deux

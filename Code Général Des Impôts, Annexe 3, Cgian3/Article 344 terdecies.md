@@ -12,10 +12,10 @@ contribuable est :
 l'article 1586 quater du code général des impôts, sous réserve :
 
 a. Pour les entreprises soumises à la cotisation sur la valeur ajoutée des
-entreprises en application du I de l'article vent1586 ter du code général des
-impôts et visées au a du I de l'article vent1586 quater du même code : d'avoir
-dûment renseigné le montant de la valeur ajoutée sur la déclaration prévue au II
-de l'article 1586 octies du même code souscrite au cours de la même année civile
+entreprises en application du I de l'article 1586 ter du code général des impôts
+et visées au a du I de l'article 1586 quater du même code : d'avoir dûment
+renseigné le montant de la valeur ajoutée sur la déclaration prévue au II de
+l'article 1586 octies du même code souscrite au cours de la même année civile
 ou, pour les entreprises qui en sont dispensées, sur la dernière déclaration de
 résultat exigée ;
 

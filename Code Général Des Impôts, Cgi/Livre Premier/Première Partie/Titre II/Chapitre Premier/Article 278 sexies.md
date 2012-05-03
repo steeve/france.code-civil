@@ -67,31 +67,7 @@ de l'habitation, et que ces locaux font l'objet d'une convention entre le
 propriétaire ou le gestionnaire des locaux et le représentant de l'Etat dans le
 département ;
 
-9. Les livraisons de terrains à bâtir et les cessions de droit au bail à
-construction en vue de l'acquisition de logements neufs à titre de première
-résidence principale dans le cadre d'une opération d'accession à la propriété
-assortie d'une acquisition différée du terrain, ainsi que les livraisons
-d'immeubles et les travaux réalisés en application d'un contrat unique de
-construction de logement dans le cadre d'une opération d'accession à la
-propriété sous le bénéfice d'un prêt à remboursement différé octroyé par un
-organisme associé collecteur de l'Union d'économie sociale du logement mentionné
-à l'article L. 313-18 du code de la construction et de l'habitation dès lors
-que, dans un même programme de construction ou pour un même constructeur et pour
-des caractéristiques équivalentes, le prix de vente ou de construction hors taxe
-des logements n'excède pas celui des logements pour lesquels le taux réduit ne
-s'applique pas.
-
-Les logements mentionnés à l'alinéa précédent s'entendent des logements neufs,
-destinés à être affectés à l'habitation principale de personnes physiques, si
-ces personnes accèdent pour la première fois à la propriété au sens du I de
-l'article 244 quater J, si elles bénéficient d'une aide à l'accession sociale à
-la propriété attribuée par une ou plusieurs collectivités territoriales ou un
-groupement de collectivités territoriales du lieu d'implantation du logement et
-si la somme des revenus fiscaux de référence, au sens du 1° du IV de l'article
-1417, des personnes destinées à occuper ce logement ne dépasse pas les plafonds
-de ressources prévus pour les titulaires de contrats de location-accession
-mentionnés au 4. Ces dispositions s'appliquent aux opérations engagées, définies
-par décret, jusqu'au 31 décembre 2010 ;
+9. (Périmé) ;
 
 10. Les cessions de droits immobiliers démembrés de logements sociaux neufs à
 usage locatif mentionnés aux 3° et 5° de l'article L. 351-2 du code de la

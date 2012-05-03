@@ -5,12 +5,12 @@ code général des impôts, les personnes de droit privé exerçant une activit�
 formation professionnelle continue souscrivent une demande sur un imprimé
 conforme au modèle établi par un arrêté conjoint des ministres chargés de la
 formation professionnelle continue et du budget. Cette demande est adressée par
-lettre recommandée avec accusé de réception à la direction régionale du travail,
-de l'emploi et de la formation professionnelle ou à la direction du travail, de
-l'emploi et de la formation professionnelle pour les départements d'outre-mer
-dont le demandeur relève ou, s'agissant des organismes paritaires titulaires
-d'un des agréments mentionnés au II, auprès de l'autorité qui a procédé à leur
-agrément.
+lettre recommandée avec accusé de réception à la direction régionale des
+entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou
+à la direction des entreprises, de la concurrence, de la consommation, du
+travail et de l'emploi pour les départements d'outre-mer dont le demandeur
+relève ou, s'agissant des organismes paritaires titulaires d'un des agréments
+mentionnés au II, auprès de l'autorité qui a procédé à leur agrément.
 
 II. Seules les personnes qui ont souscrit la déclaration mentionnée à l'article
 L. 6351-1 du code du travail ou qui bénéficient d'un des agréments mentionnés
@@ -24,14 +24,14 @@ travail ou relève des missions légalement dévolues aux organismes paritaires
 agréés. Le demandeur doit être à jour de ses obligations résultant de l'article
 L. 6352-11 du code du travail.
 
-III. La direction régionale du travail, de l'emploi et de la formation
-professionnelle ou la direction du travail, de l'emploi et de la formation
-professionnelle pour les départements d'outre-mer dont relève le demandeur ou le
-ministre chargé de la formation professionnelle continue pour les organismes
-soumis aux agréments, mentionnés au II, dispose d'un délai de trois mois à
-compter de la réception de la demande pour délivrer l'attestation. A défaut de
-décision dans ce délai, l'attestation est réputée accordée. Le refus de
-délivrance de l'attestation doit être motivé. Un exemplaire de l'attestation ou
-de la décision de refus est adressé au demandeur et à la direction
-départementale ou, le cas échéant, régionale des finances publiques dont il
-relève.
+III. La direction régionale des entreprises, de la concurrence, de la
+consommation, du travail et de l'emploi ou la direction des entreprises, de la
+concurrence, de la consommation, du travail et de l'emploi pour les départements
+d'outre-mer dont relève le demandeur ou le ministre chargé de la formation
+professionnelle continue pour les organismes soumis aux agréments, mentionnés au
+II, dispose d'un délai de trois mois à compter de la réception de la demande
+pour délivrer l'attestation. A défaut de décision dans ce délai, l'attestation
+est réputée accordée. Le refus de délivrance de l'attestation doit être motivé.
+Un exemplaire de l'attestation ou de la décision de refus est adressé au
+demandeur et à la direction départementale ou, le cas échéant, régionale des
+finances publiques dont il relève.

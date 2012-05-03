@@ -7,15 +7,15 @@ revenus perçus par les enfants réputés à charge égale de l'un et l'autre de
 leurs parents sont, sauf preuve contraire, réputés également partagés entre les
 parents.
 
-Sauf application des dispositions des 4 et 5, les personnes mariées sont
-soumises à une imposition commune pour les revenus perçus par chacune d'elles et
-ceux de leurs enfants et des personnes à charge mentionnés au premier alinéa ;
-cette imposition est établie au nom de l'époux, précédée de la mention "
-Monsieur ou Madame ".
+Sauf application des dispositions du 4 et du second alinéa du 5, les personnes
+mariées sont soumises à une imposition commune pour les revenus perçus par
+chacune d'elles et ceux de leurs enfants et des personnes à charge mentionnés au
+premier alinéa ; cette imposition est établie au nom de l'époux, précédée de la
+mention " Monsieur ou Madame ".
 
 Les partenaires liés par un pacte civil de solidarité défini à l'article 515-1
 du code civil font l'objet, pour les revenus visés au premier alinéa, d'une
-imposition commune.L'imposition est établie à leurs deux noms, séparés par le
+imposition commune. L'imposition est établie à leurs deux noms, séparés par le
 mot : " ou ".
 
 2. Le contribuable peut réclamer des impositions distinctes pour ses enfants,
@@ -63,7 +63,7 @@ disposé pendant l'année du mariage ou de la conclusion du pacte.
 Les époux et les partenaires liés par un pacte civil de solidarité peuvent
 toutefois opter pour l'imposition distincte des revenus dont chacun a
 personnellement disposé pendant l'année du mariage ou de la conclusion du pacte,
-ainsi que de la quote-part des revenus communs lui revenant.A défaut de
+ainsi que de la quote-part des revenus communs lui revenant. A défaut de
 justification de cette quote-part, ces revenus communs sont partagés en deux
 parts égales entre les époux ou partenaires liés par un pacte civil de
 solidarité. Cette option est exercée de manière irrévocable dans les délais
@@ -76,7 +76,7 @@ entre eux.
 un pacte civil de solidarité est personnellement imposable pour les revenus dont
 il a disposé pendant l'année de la réalisation de l'une des conditions du 4, du
 divorce ou de la dissolution du pacte, ainsi que pour la quote-part des revenus
-communs lui revenant.A défaut de justification de cette quote-part, ces revenus
+communs lui revenant. A défaut de justification de cette quote-part, ces revenus
 communs sont partagés en deux parts égales entre les époux, partenaires, anciens
 époux ou anciens partenaires liés par un pacte civil de solidarité.
 

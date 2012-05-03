@@ -25,5 +25,5 @@ aurait été retenu si ce procédé avait été utilisé et dans lequel la duré
 d'activité est la plus élevée.
 
 La notion d'établissement s'entend au sens de la cotisation foncière des
-entreprises telle que mentionnée à l'article 310 HA de l'annexe II au présent
-code.
+entreprises telle que mentionnée à l'article 310 HA de l'annexe II au code
+général des impôts.

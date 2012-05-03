@@ -105,10 +105,11 @@ ainsi que les associations ou organismes privés sans but lucratif à caractère
 sanitaire, social, éducatif, sportif ou culturel et dans lesquels ils exercent
 leur activité.
 
-b. (Abrogé) 2. Les tarifs au mètre carré sont fixés conformément aux
-dispositions ci-dessous : a) Pour les locaux à usage de bureaux :
+b. (Abrogé) 2. Les tarifs au mètre carré sont fixés, pour l'année 2012,
+conformément aux dispositions ci-dessous : a) Pour les locaux à usage de bureaux
+:
 
-(En euros)
+(en euros)
 
 1re CIRCONSCRIPTION
 
@@ -116,33 +117,36 @@ dispositions ci-dessous : a) Pour les locaux à usage de bureaux :
 
 3e CIRCONSCRIPTION
 
-Tarif normal
-
-Tarif réduit
 
 Tarif normal
 
 Tarif réduit
 
+
 Tarif normal
 
 Tarif réduit
 
-15,91
 
-7,88
+Tarif normal
 
-9,43
+Tarif réduit
 
-5,63
+16,71
 
-4,51
+8,28
 
-4,08
+9,91
+
+5,92
+
+4,74
+
+4,29
 
 b) Pour les locaux commerciaux :
 
-(En euros)
+(en euros)
 
 1re CIRCONSCRIPTION
 
@@ -150,15 +154,15 @@ b) Pour les locaux commerciaux :
 
 3e CIRCONSCRIPTION
 
-7,00
+7,36
 
-3,60
+3,79
 
-1,80
+1,90
 
 c) Pour les locaux de stockage :
 
-(En euros)
+(en euros)
 
 1re CIRCONSCRIPTION
 
@@ -166,16 +170,16 @@ c) Pour les locaux de stockage :
 
 3e CIRCONSCRIPTION
 
-3,60
+3,79
 
-1,80
+1,90
 
-0,90
+0,95
 
 d) Pour les surfaces de stationnement annexées aux catégories de locaux
 mentionnées aux a à c :
 
-(En euros)
+(en euros)
 
 1re CIRCONSCRIPTION
 
@@ -183,17 +187,16 @@ mentionnées aux a à c :
 
 3e CIRCONSCRIPTION
 
-2,10
+2,21
 
-1,20
+1,27
 
-0,60
+0,64
 
-e) Ces tarifs, fixés au 1er janvier 2011, sont actualisés par arrêté du ministre
-chargé de l'économie au 1er janvier de chaque année en fonction du dernier
-indice du coût de la construction publié par l'Institut national de la
-statistique et des études économiques. Les valeurs sont arrondies, s'il y a
-lieu, au centime d'euro supérieur.
+e) Ces tarifs sont actualisés par arrêté du ministre chargé de l'économie au 1er
+janvier de chaque année en fonction du dernier indice du coût de la construction
+publié par l'Institut national de la statistique et des études économiques. Les
+valeurs sont arrondies, s'il y a lieu, au centime d'euro supérieur.
 
 VI bis-Pour l'application des dispositions des V et VI, les parcs d'exposition
 et locaux à usage principal de congrès sont assimilés à des locaux de stockage.

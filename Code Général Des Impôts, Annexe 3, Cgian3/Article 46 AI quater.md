@@ -11,7 +11,7 @@ de revenus les documents qui lui ont été remis conformément au V de l'article
 AI ter ainsi qu'une copie de l'engagement de conservation mentionné au I.
 
 III. Lorsque le fonds ou le contribuable cesse de remplir l'une des conditions
-fixées à l'article L 214-41 du code monétaire et financier et au 1 du VI de
+fixées à l'article L. 214-30 du code monétaire et financier et au 1 du VI de
 l'article 199 terdecies-0 A du code général des impôts, le contribuable qui a
 bénéficié de la réduction d'impôt prévue à cet article procède au calcul de la
 reprise d'impôt et porte le montant correspondant sur la déclaration d'impôt sur

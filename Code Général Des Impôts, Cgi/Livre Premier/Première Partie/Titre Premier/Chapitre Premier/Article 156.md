@@ -15,7 +15,7 @@ revenu global des années suivantes jusqu'à la sixième année inclusivement.
 Toutefois, n'est pas autorisée l'imputation :
 
 1° des déficits provenant d'exploitations agricoles lorsque le total des revenus
-nets d'autres sources excède 106 225 euros ; ces déficits peuvent cependant être
+nets d'autres sources excède 106 225 € ; ces déficits peuvent cependant être
 admis en déduction des bénéfices de même nature des années suivantes jusqu'à la
 sixième inclusivement.
 
@@ -91,9 +91,9 @@ titre professionnel au sens des mêmes dispositions, la part des déficits qui n
 pu être imputée en application du premier alinéa et qui provient des charges
 engagées en vue de la location directe ou indirecte d'un local d'habitation
 avant le commencement de cette location, tel que déterminé conformément au
-sixième alinéa du IV de l'article 155, peut être imputée par tiers sur le revenu
-global des trois premières années de location du local, tant que l'activité
-reste exercée à titre professionnel.
+septième alinéa du IV de l'article 155, peut être imputée par tiers sur le
+revenu global des trois premières années de location du local, tant que
+l'activité reste exercée à titre professionnel.
 
 2° Des déficits provenant d'activités non commerciales au sens de l'article 92,
 autres que ceux qui proviennent de l'exercice d'une profession libérale ou des
@@ -137,16 +137,16 @@ sociétés si les associés conservent les titres pendant six ans.
 Le revenu global de l'année au cours de laquelle l'engagement ou les conditions
 de la location ne sont pas respectés est majoré du montant des déficits indûment
 imputés. Ces déficits constituent une insuffisance de déclaration pour
-l'application de la dispense de l'intérêt de retard mentionnée au 4° du II de
+l'application de la dispense de l'intérêt de retard mentionnée au 4 du II de
 l'article 1727.
 
 L'imputation exclusive sur les revenus fonciers n'est pas non plus applicable
 aux déficits fonciers résultant de dépenses autres que les intérêts
-d'emprunt.L'imputation est limitée à 10 700 euros. La fraction du déficit
-supérieure à 10 700 euros et la fraction du déficit non imputable résultant des
-intérêts d'emprunt sont déduites dans les conditions prévues au premier alinéa.
+d'emprunt.L'imputation est limitée à 10 700 €. La fraction du déficit supérieure
+à 10 700 € et la fraction du déficit non imputable résultant des intérêts
+d'emprunt sont déduites dans les conditions prévues au premier alinéa.
 
-La limite mentionnée au cinquième alinéa est portée à 15 300 euros pour les
+La limite mentionnée au cinquième alinéa est portée à 15 300 € pour les
 contribuables qui constatent un déficit foncier sur un logement pour lequel est
 pratiquée la déduction prévue au f du 1° du I de l'article 31.
 
@@ -232,8 +232,8 @@ justice et en cas de révision amiable de ces pensions, le montant effectivement
 versé dans les conditions fixées par les articles 208 et 371-2 du code civil ;
 contribution aux charges du mariage définie à l'article 214 du code civil,
 lorsque son versement résulte d'une décision de justice et à condition que les
-époux fassent l'objet d'une imposition séparée ; dans la limite de 2 700 euros
-et, dans les conditions fixées par un décret en Conseil d'Etat, les versements
+époux fassent l'objet d'une imposition séparée ; dans la limite de 2 700 € et,
+dans les conditions fixées par un décret en Conseil d'Etat, les versements
 destinés à constituer le capital de la rente prévue à l'article 373-2-3 du code
 civil.
 
@@ -259,7 +259,7 @@ pas le plafond de ressources mentionné à l'article L. 815-9 du code de la
 sécurité sociale pour l'octroi de l'allocation de solidarité aux personnes âgées
 mentionnée à l'article L. 815-1 du même code et de l'allocation supplémentaire
 d'invalidité mentionnée à l'article L. 815-24 du même code. La déduction opérée
-par le contribuable ne peut excéder, par bénéficiaire, la somme de 3 359 euros.
+par le contribuable ne peut excéder, par bénéficiaire, la somme de 3 359 €.
 
 Le montant de la déduction mentionnée au premier alinéa est relevé chaque année
 dans la même proportion que la limite supérieure de la première tranche du

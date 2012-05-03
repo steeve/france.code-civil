@@ -1,7 +1,7 @@
 Article 46 AW ter
 ----
-I. ― La décision est prise par le ministre chargé du budget. Sa décision est
-notifiée à l'organisme, elle est motivée en cas de refus.
+I. ― La décision d'agrément est prise par le ministre chargé du budget. Sa
+décision est notifiée à l'organisme, elle est motivée en cas de refus.
 
 II. ― L'agrément accordé au titre d'une première demande porte sur la période
 comprise entre la date de sa notification et le 31 décembre de la troisième

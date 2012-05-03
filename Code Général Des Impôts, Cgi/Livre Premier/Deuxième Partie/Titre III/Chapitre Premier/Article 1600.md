@@ -156,27 +156,26 @@ d'industrie de région, minorée du prélèvement mentionné au 5. 3. 5 de l'art
 2 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010.
 
 Si le produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des
-entreprises affecté, au titre d'une année d'imposition, au fonds de financement
-des chambres de commerce et d'industrie de région est supérieur ou égal à la
-somme des différences calculées en application des trois alinéas précédents, le
-fonds de financement des chambres de commerce et d'industrie de région verse, à
-chaque chambre de commerce et d'industrie de région, un montant égal à sa
-différence puis verse aux chambres de commerce et d'industrie de région le solde
-du produit qui lui est affecté proportionnellement à la valeur ajoutée imposée
-dans les communes de leur circonscription et retenue pour la détermination de la
+entreprises affecté, au titre d'une année, au fonds de financement des chambres
+de commerce et d'industrie de région est supérieur ou égal à la somme des
+différences calculées en application des trois alinéas précédents, le fonds de
+financement des chambres de commerce et d'industrie de région verse, à chaque
+chambre de commerce et d'industrie de région, un montant égal à sa différence
+puis verse aux chambres de commerce et d'industrie de région le solde du produit
+qui lui est affecté proportionnellement à la valeur ajoutée imposée dans les
+communes de leur circonscription et retenue pour la détermination de la
 cotisation sur la valeur ajoutée des entreprises en application du 1 du II de
 l'article 1586 ter.
 
 Si le produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des
-entreprises affecté, au titre d'une année d'imposition, au fonds de financement
-des chambres de commerce et d'industrie de région est inférieur à la somme des
-différences calculées en application des deuxième à quatrième alinéas du présent
-B, le fonds de financement des chambres de commerce et d'industrie de région
-verse, à chaque chambre de commerce et d'industrie de région, un montant égal au
-produit de sa différence par un coefficient unique d'équilibrage calculé de
-sorte que la somme des versements soit égale au produit de la taxe additionnelle
-à la cotisation sur la valeur ajoutée des entreprises affecté, au titre de
-l'année, au fonds.
+entreprises affecté, au titre d'une année, au fonds de financement des chambres
+de commerce et d'industrie de région est inférieur à la somme des différences
+calculées en application des deuxième à quatrième alinéas du présent 2, le fonds
+de financement des chambres de commerce et d'industrie de région verse, à chaque
+chambre de commerce et d'industrie de région, un montant égal au produit de sa
+différence par un coefficient unique d'équilibrage calculé de sorte que la somme
+des versements soit égale au produit de la taxe additionnelle à la cotisation
+sur la valeur ajoutée des entreprises affecté, au titre de l'année, au fonds.
 
 IV.-Pour l'application des II et III, les produits de la taxe additionnelle à la
 cotisation foncière des entreprises perçus en 2010 s'entendent de l'ensemble des

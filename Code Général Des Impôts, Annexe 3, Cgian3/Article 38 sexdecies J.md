@@ -7,7 +7,7 @@ l'article 72 D bis du code général des impôts sont les suivants :
 
 1° Aléas climatiques et naturels ayant affecté l'exploitation :
 
-a) Sinistre, constaté dans les conditions prévues à l'article R. 361-41 du code
+a) Sinistre, constaté dans les conditions prévues à l'article D. 361-41 du code
 rural et de la pêche maritime ;
 
 b) Calamité agricole, constatée dans les conditions prévues en application de

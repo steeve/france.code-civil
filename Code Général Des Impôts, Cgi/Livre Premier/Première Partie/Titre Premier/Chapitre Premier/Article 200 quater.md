@@ -132,10 +132,10 @@ gratuit affecte à son habitation principale, le montant des dépenses ouvrant
 droit au crédit d'impôt ne peut excéder, au titre d'une période de cinq années
 consécutives comprises entre le 1er janvier 2005 et le 31 décembre 2015, la
 somme de 8 000 € pour une personne célibataire, veuve ou divorcée et de 16 000 €
-pour un couple soumis à imposition commune. Cette somme est majorée de 400 euros
-par personne à charge au sens des articles 196 à 196 B. La somme de 400 Euros
-est divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de l'un
-et l'autre de ses parents.
+pour un couple soumis à imposition commune. Cette somme est majorée de 400 € par
+personne à charge au sens des articles 196 à 196 B. La somme de 400 € est
+divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de l'un et
+l'autre de ses parents.
 
 Pour un même logement donné en location, le montant des dépenses ouvrant droit
 au crédit d'impôt pour le bailleur ne peut excéder, pour la période du 1er
@@ -304,8 +304,7 @@ de l'entreprise qui a procédé à la fourniture et à l'installation des
 équipements, matériaux et appareils ou de la personne qui a réalisé le
 diagnostic de performance énergétique.
 
-Cette facture comporte, outre les mentions prévues à l'article 289 du présent
-code :
+Cette facture comporte, outre les mentions prévues à l'article 289 :
 
 1° Le lieu de réalisation des travaux ou du diagnostic de performance
 énergétique ;
@@ -339,11 +338,11 @@ de l'ancien matériel et des coordonnées de l'entreprise qui procède à sa
 destruction.
 
 c. Lorsque le bénéficiaire du crédit d'impôt n'est pas en mesure de produire une
-facture ou une attestation comportant les mentions prévues au b du présent 6
-selon la nature des travaux, équipements, matériaux et appareils concernés, il
-fait l'objet, au titre de l'année d'imputation et dans la limite du crédit
-d'impôt obtenu, d'une reprise égale au montant de l'avantage fiscal accordé à
-raison de la dépense non justifiée.
+facture ou une attestation comportant les mentions prévues au b selon la nature
+des travaux, équipements, matériaux et appareils concernés, il fait l'objet, au
+titre de l'année d'imputation et dans la limite du crédit d'impôt obtenu, d'une
+reprise égale au montant de l'avantage fiscal accordé à raison de la dépense non
+justifiée.
 
 6 bis. La durée de l'engagement de location mentionné au premier alinéa du 1
 s'apprécie à compter de la date de réalisation des dépenses ou, lorsque le

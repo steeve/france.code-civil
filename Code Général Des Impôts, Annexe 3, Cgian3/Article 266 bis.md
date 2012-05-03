@@ -14,9 +14,9 @@ acquis.
 
 Lorsque l'engagement mentionné à l'alinéa précédent porte sur la surélévation
 d'un immeuble bâti existant, l'exonération s'applique à une fraction du prix
-d'acquisition égale au rapport entre, d'une part, la surface hors œuvre brute
-des locaux résultant de la surélévation et, d'autre part, la somme de cette
-dernière surface et de la surface hors œuvre brute de l'immeuble acquis.
+d'acquisition égale au rapport entre, d'une part, la surface de plancher des
+locaux résultant de la surélévation et, d'autre part, la somme de cette dernière
+surface et de la surface de plancher de l'immeuble acquis.
 
 III.-L'engagement mentionné au I du A de l'article 1594-0 G du code général des
 impôts précise l'objet et la consistance des travaux sur lesquels il porte. La

@@ -28,11 +28,10 @@ d'imposition supérieure à cette moyenne est divisée par deux, puis le montant
 ainsi obtenu est ajouté à cette même moyenne. La cotisation supplémentaire ainsi
 obtenue est alors multipliée par deux.
 
-Le premier alinéa du présent 1 est applicable aux contribuables dont le revenu
-fiscal de référence au titre de chacune des deux années précédant celle de
-l'imposition n'a pas excédé 250 000 € pour les contribuables célibataires,
-veufs, séparés ou divorcés et 500 000 € pour les contribuables soumis à
-imposition commune.
+Le premier alinéa est applicable aux contribuables dont le revenu fiscal de
+référence au titre de chacune des deux années précédant celle de l'imposition
+n'a pas excédé 250 000 € pour les contribuables célibataires, veufs, séparés ou
+divorcés et 500 000 € pour les contribuables soumis à imposition commune .
 
 Cette disposition est applicable aux contribuables qui ont été passibles de
 l'impôt sur le revenu au titre des deux années précédant celle de l'imposition

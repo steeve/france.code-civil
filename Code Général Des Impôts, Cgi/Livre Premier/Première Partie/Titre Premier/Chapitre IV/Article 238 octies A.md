@@ -11,16 +11,16 @@ cessionnaire s'engage à achever les locaux destinés à l'habitation dans un d�
 de quatre ans à compter de la date de l'acquisition.
 
 Le non-respect par la personne cessionnaire de l'engagement d'achèvement des
-locaux destinés à l'habitation mentionné au premier alinéa du présent II
-entraîne l'application de l'amende prévue au IV de l'article 1764.
+locaux destinés à l'habitation mentionné au premier alinéa entraîne
+l'application de l'amende prévue au IV de l'article 1764.
 
-Par exception au deuxième alinéa du présent II, l'amende prévue au IV de
-l'article 1764 n'est pas due lorsque la personne cessionnaire ne respecte pas
-l'engagement d'achèvement des locaux en raison de circonstances exceptionnelles
-indépendantes de sa volonté. Elle n'est pas due non plus en cas de licenciement,
-d'invalidité correspondant au classement dans les deuxième ou troisième des
-catégories prévues à l'article L. 341-4 du code de la sécurité sociale ou de
-décès du contribuable ou de l'un des époux soumis à une imposition commune.
+Par exception au deuxième alinéa, l'amende prévue au IV de l'article 1764 n'est
+pas due lorsque la personne cessionnaire ne respecte pas l'engagement
+d'achèvement des locaux en raison de circonstances exceptionnelles indépendantes
+de sa volonté. Elle n'est pas due non plus en cas de licenciement, d'invalidité
+correspondant au classement dans les deuxième ou troisième des catégories
+prévues à l'article L. 341-4 du code de la sécurité sociale ou de décès du
+contribuable ou de l'un des époux soumis à une imposition commune.
 
 En cas de fusion de sociétés, l'engagement souscrit par le cessionnaire n'est
 pas rompu lorsque la société absorbante s'engage, dans l'acte de fusion, à se

@@ -270,9 +270,9 @@ de l'article 1636 B decies, les taux moyens relatifs à l'année 2010 s'entenden
 pour la cotisation foncière des entreprises, des moyennes des taux relais
 définis au I de l'article 1640 B et, pour la taxe d'habitation et les taxes
 foncières, des taux appliqués en 2010 ; pour l'application des II et III de
-l'article 1609 nonies C, du cinquième alinéa du I de l'article 1638-0 bis, des
-II et III du même article et du I de l'article 1638 quinquies, les taux moyens
-de cotisation foncière des entreprises relatifs à l'année 2010 s'entendent des
+l'article 1609 nonies C, du huitième alinéa du I de l'article 1638-0 bis, des II
+et III du même article et du I de l'article 1638 quinquies, les taux moyens de
+cotisation foncière des entreprises relatifs à l'année 2010 s'entendent des
 moyennes des taux relais définis au I de l'article 1640 B, ces moyennes étant
 majorées puis corrigées conformément aux 2, 5 et 6 du I pour déterminer le taux
 maximum de cotisation foncière des entreprises qui peut être voté en 2011.

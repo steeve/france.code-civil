@@ -1,9 +1,9 @@
 Article 299 octies
 ----
 I.-1. La société de gestion d'un fonds d'investissement de proximité mentionné à
-l'article L. 214-41-1 du code monétaire et financier ou d'un fonds commun de
-placement dans l'innovation mentionné à l'article L. 214-41 du même code ou d'un
-fonds commun de placement à risque mentionné à l'article L. 214-36 du même code
+l'article L. 214-31 du code monétaire et financier ou d'un fonds commun de
+placement dans l'innovation mentionné à l'article L. 214-30 du même code ou d'un
+fonds commun de placement à risque mentionné à l'article L. 214-28 du même code
 ou le dépositaire des actifs de ces fonds agissant pour le compte de la société
 de gestion est soumis aux obligations définies aux I à III de l'article 46 AI
 ter lorsque les souscripteurs des parts de ce fonds entendent bénéficier de la
@@ -29,8 +29,8 @@ d. Le nombre de parts souscrites, le montant et la date de leur souscription ;
 
 e. La date et le montant des versements effectués au titre de leur souscription.
 
-Cet état précise que les conditions mentionnées aux articles L. 214-41-1, L.
-214-41 ou L. 214-36 du code monétaire et financier et au 1 du III de l'article
+Cet état précise que les conditions mentionnées aux articles L. 214-31, LL.
+214-30 ou L. 214-28 du code monétaire et financier et au 1 du III de l'article
 885-0 V bis du code général des impôts sont satisfaites.
 
 3. La société de gestion du fonds ou le dépositaire des actifs du fonds isole
@@ -40,7 +40,7 @@ l'expiration de la cinquième année qui suit celle de la souscription.
 
 4. Lorsque, au cours des cinq années qui suivent leur souscription, les parts du
 fonds sont cédées ou rachetées ou lorsque, dans ce même délai, l'une des
-conditions prévues aux articles L. 214-41-1, L. 214-41 ou L. 214-36 du code
+conditions prévues aux articles L. 214-31, L. 214-30 ou L. 214-28 du code
 monétaire et financier et au III de l'article 885-0 V bis du code général des
 impôts cesse d'être satisfaite, la société de gestion du fonds ou le dépositaire
 des actifs de ce fonds adresse, au souscripteur et à la direction départementale
@@ -52,15 +52,15 @@ nature de la condition qui cesse d'être satisfaite.
 
 Cet état doit être délivré avant la date limite de dépôt de la déclaration
 d'impôt de solidarité sur la fortune suivant la cession ou le rachat des parts
-ou le non-respect de l'une des conditions prévues aux articles L. 214-41-1, L.
-214-41 ou L. 214-36 du code monétaire et financier.
+ou le non-respect de l'une des conditions prévues aux articles L. 214-31, L.
+214-30 ou L. 214-28 du code monétaire et financier.
 
 II.-A chaque inventaire semestriel, la société de gestion d'un fonds
 d'investissement de proximité, d'un fonds commun de placement dans l'innovation
 ou d'un fonds commun de placement à risque ou le dépositaire des actifs du fonds
 agissant pour le compte de la société de gestion s'assure que les sociétés dont
 les titres ou avances en compte courant sont retenus pour le calcul des
-proportions mentionnées aux articles L. 214-41-1, L. 214-41 ou L. 214-36 du code
+proportions mentionnées aux articles L. 214-31, L. 214-30 ou L. 214-28 du code
 monétaire et financier satisfont, à la date de clôture de leur dernier exercice
 précédant l'inventaire, aux conditions mentionnées à ces articles.
 

@@ -87,8 +87,8 @@ théorique en début du mois précédent, le stock théorique en fin du mois
 précédent et le total des entrées et des sorties du mois précédent.
 
 Cette balance ne peut servir à elle seule d'élément de preuve pour la
-constatation de manquants entraînant, conformément au 2° du 1 du I de l'article
-302 D du code général des impôts, l'exigibilité de l'impôt.
+constatation de manquants entraînant, conformément au 2° bis du 1 du I de
+l'article 302 D du code général des impôts, l'exigibilité de l'impôt.
 
 Les entrepositaires agréés transmettent, pour chaque entrepôt fiscal suspensif
 des droits d'accises, au service des douanes et droits indirects

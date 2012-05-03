@@ -1,7 +1,7 @@
 Article 2 octodecies A
 ----
 I.-L'engagement de conservation des titres prévu au deuxième alinéa de l'article
-31 bis du code général des impôts et au septième alinéa du VIII de l'article 199
+31 bis du code général des impôts et au neuvième alinéa du VIII de l'article 199
 septvicies du même code est constaté lors du dépôt de la déclaration des revenus
 de l'année au titre de laquelle les parts ont été souscrites.
 

@@ -1,12 +1,12 @@
 Article 286 I
 ----
 I.-1° Pour les entrepositaires agréés produisant des produits vitivinicoles
-régis par le règlement (CE) n° 1493 / 1999 du Conseil du 17 mai 1999 portant
+régis par le règlement (CE) n° 1493/1999 du Conseil du 17 mai 1999 portant
 organisation commune du marché vitivinicole, la comptabilité matières est
-constituée par les registres vitivinicoles prévus par le règlement (CE) n° 884 /
-2001 de la Commission du 24 avril 2001 portant modalités d'application relatives
-aux documents accompagnant les transports des produits vitivinicoles et aux
-registres à tenir dans le secteur vitivinicole.
+constituée par les registres vitivinicoles prévus par le règlement (CE) n°
+884/2001 de la Commission du 24 avril 2001 portant modalités d'application
+relatives aux documents accompagnant les transports des produits vitivinicoles
+et aux registres à tenir dans le secteur vitivinicole.
 
 2° L'entrepositaire agréé doit remettre une copie des documents constituant la
 comptabilité matières aux agents des douanes et droits indirects, sur leur
@@ -49,7 +49,7 @@ règlements des organismes interprofessionnels.
 En cas d'application des dispositions de l'article 450 du code général des
 impôts ou des articles 661 et 662 du code rural ancien, les registres doivent
 faire référence, pour chaque mouvement de produits vitivinicoles mentionnés au
-règlement (CE) n° 1493 / 1999 du Conseil du 17 mai 1999 portant organisation
+règlement (CE) n° 1493/1999 du Conseil du 17 mai 1999 portant organisation
 commune du marché vitivinicole, à l'avis de blocage, à l'engagement de garantie
 ou de mainlevée du porteur du warrant agricole ou du porteur de l'engagement de
 garantie.
@@ -69,7 +69,7 @@ communautaire en vigueur, de l'article 286 H et du présent article.
 comptabilité commerciale informatisée dès lors qu'elle comporte :
 
 a) Toutes les indications nécessaires relatives aux mouvements des produits et
-au déroulement des manipulations conformément aux dispositions communautaires et
+au déroulement des manipulations conformément aux dispositions européennes et
 aux informations prévues au 1° du II ;
 
 b) La reprise des inventaires physiques des produits réalisés au moment de la
@@ -82,8 +82,8 @@ théorique en fin du mois précédent et le total des entrées et des sorties du
 mois précédent.
 
 Cette balance ne peut servir à elle seule d'élément de preuve pour la
-constatation de manquants entraînant, conformément au 2° du 1 du I de l'article
-302 D du code général des impôts, l'exigibilité de l'impôt.
+constatation de manquants entraînant, conformément au 2° bis du 1 du I de
+l'article 302 D du code général des impôts, l'exigibilité de l'impôt.
 
 Les entrepositaires agréés transmettent au service des douanes et droits
 indirects territorialement compétent, au plus tard le cinquième jour de chaque

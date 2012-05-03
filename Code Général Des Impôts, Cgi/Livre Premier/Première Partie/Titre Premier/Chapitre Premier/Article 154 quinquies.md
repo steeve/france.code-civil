@@ -9,9 +9,9 @@ points et 4,2 points, admise en déduction du montant brut des sommes payées et
 des avantages en nature ou en argent accordés, ou du bénéfice imposable, au
 titre desquels la contribution a été acquittée.
 
-II. La contribution afférente aux revenus mentionnés aux a, b, c et f du premier
-alinéa du I de l'article L. 136-6 du code de la sécurité sociale, au II du même
-article et aux revenus mentionnés au premier alinéa et au 1° du I de l'article
-L. 136-7 du même code n'ayant pas fait l'objet des prélèvements prévus aux
-articles 117 quater et 125 A est admise en déduction du revenu imposable de
-l'année de son paiement, à hauteur de 5,8 points.
+II. La contribution afférente aux revenus mentionnés aux a, b, c et f du I de
+l'article L. 136-6 du code de la sécurité sociale, au II du même article et aux
+revenus mentionnés au premier alinéa et au 1° du I de l'article L. 136-7 du même
+code n'ayant pas fait l'objet des prélèvements prévus aux articles 117 quater et
+125 A est admise en déduction du revenu imposable de l'année de son paiement, à
+hauteur de 5,8 points.

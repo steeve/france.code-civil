@@ -6,8 +6,7 @@ ci-après :
 
 a) En annexe de la première déclaration de résultat : un document attestant la
 date de livraison du navire ainsi que le certificat d'inscription mentionné à
-l'article 95 du décret n° 67-967 du 27 octobre 1967 modifié portant statut des
-navires et autres bâtiments de mer ;
+l'article L. 5114-4 du code des transports;
 
 b) Chaque année, en même temps que la déclaration de résultat :
 
