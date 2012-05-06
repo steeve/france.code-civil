@@ -20,10 +20,25 @@ nationale, du ministre de la justice, du ministre chargé de la mer, du ministre
 chargé de la santé et du ministre chargé de l'agriculture fixe les modalités
 d'application du I et du II.
 
-III.-Le brevet de sécurité routière est délivré aux titulaires d'une attestation
-scolaire de sécurité routière de premier ou de second niveau ou de l'attestation
-de sécurité routière ayant suivi une formation pratique organisée par une
-personne physique ou morale agréée par le préfet.
+III.-Le brevet de sécurité routière prévu au second alinéa de l'article L. 221-1
+est délivré aux personnes âgées de quatorze ans révolus :
+
+1° Ayant réussi un contrôle des connaissances théoriques des règles de sécurité
+routière sanctionnée par la délivrance de l'attestation scolaire de sécurité
+routière de premier ou de second niveau ou de l'attestation de sécurité routière
+;
+
+2° Et ayant suivi une formation dispensée par un établissement ou une
+association agréés au titre de l'article L. 213-1 ou L. 213-7.
+
+La durée de validité du titre attestant de la qualité de titulaire du brevet de
+sécurité routière est de quinze ans à compter de sa délivrance.
+
+La date limite de validité est inscrite sur le titre de conduite.
+
+Le brevet de sécurité routière correspond à la catégorie AM du permis de
+conduire au sens de la directive 2006/126/ CE du Parlement européen et du
+Conseil du 20 décembre 2006 relative au permis de conduire.
 
 Un arrêté du ministre chargé de la sécurité routière fixe les modalités
-d'application du précédent alinéa.
+d'application du présent article.
