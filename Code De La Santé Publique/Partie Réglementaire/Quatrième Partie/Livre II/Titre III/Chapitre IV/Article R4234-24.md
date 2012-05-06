@@ -1,7 +1,7 @@
 Article R4234-24
 ----
-Les décisions du conseil national sont motivées et contiennent le nom des
-parties, l'analyse des conclusions et mémoires ainsi que les visas des
+Les décisions de la chambre de discipline sont motivées et contiennent le nom
+des parties, l'analyse des conclusions et mémoires ainsi que les visas des
 dispositions législatives et réglementaires dont elles font application et les
 noms des membres présents. Elles mentionnent également que l'audience a été
 publique ou, dans le cas contraire, visent l'ordonnance de huis clos. Elles font
@@ -9,8 +9,8 @@ apparaître la date de l'audience et la date à laquelle elles ont été prononc
 Le dispositif des décisions est divisé en articles et précédé du mot : " décide
 ".
 
-Elles sont inscrites sur un registre spécial coté et paraphé par le président du
-Conseil national.
+Elles sont inscrites sur un registre spécial coté et paraphé par le président de
+la chambre de discipline.
 
 Ce registre n'est pas accessible aux tiers.
 
@@ -30,8 +30,8 @@ personnes suivantes :
 2° Plaignant ;
 
 3° Ministre chargé de la santé et, pour les pharmaciens des établissements
-relevant de leurs contrôles respectifs, selon le cas, au directeur général de l'
-Agence nationale de sécurité du médicament et des produits de santé ou au
+relevant de leurs contrôles respectifs, selon le cas, au directeur général de
+l'Agence nationale de sécurité du médicament et des produits de santé ou au
 directeur général de l'Agence nationale de sécurité sanitaire de l'alimentation,
 de l'environnement et du travail ;
 
