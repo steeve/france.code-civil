@@ -12,3 +12,6 @@ portée de la personne qui s'y trouve.
 Sont également regardés comme des ascenseurs les appareils qui se déplacent
 selon une course parfaitement fixée dans l'espace, même s'ils ne se déplacent
 pas le long de guides rigides, notamment les ascenseurs guidés par des ciseaux.
+
+La présente section ne s'applique pas aux appareils dont la vitesse n'excède pas
+0,15 m/ s.
