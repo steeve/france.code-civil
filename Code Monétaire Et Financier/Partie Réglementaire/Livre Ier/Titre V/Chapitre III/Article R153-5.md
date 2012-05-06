@@ -9,10 +9,7 @@ dont le siège social se situe dans l'un de ces mêmes Etats ou par une personne
 physique de nationalité française qui y est résidente, dans les activités
 suivantes :
 
-1° Activités de casinos, au sens de la loi du 15 juin 1907 modifiée réglementant
-les jeux dans les casinos des stations balnéaires, thermales et climatiques,
-dans la mesure où le contrôle de l'investissement est exigé par les nécessités
-de la lutte contre le blanchiment de capitaux ;
+1° (alinéa abrogé) ;
 
 2° Activités de sécurité privée, au sens de la loi n° 83-629 du 12 juillet 1983
 modifiée réglementant les activités privées de sécurité, lorsque les entreprises
@@ -35,9 +32,9 @@ intéressent exclusivement :
 
 a) Les agents pathogènes, les zoonoses, les toxines et leurs éléments génétiques
 ainsi que leurs produits de traduction mentionnés aux alinéas 1C351 et 1C352a. 2
-de l'annexe I du règlement (CE) n° 1334 / 2000 du Conseil du 22 juin 2000
-modifié instituant un régime communautaire de contrôle des exportations de biens
-et technologies à double usage ;
+de l'annexe I du règlement (CE) n° 428/2009 du Conseil du 5 mai 2009 instituant
+un régime communautaire de contrôle des exportations, des transferts, du
+courtage et du transit de biens à double usage ;
 
 b) Les moyens de lutte contre les agents prohibés au titre de la convention sur
 l'interdiction de la mise au point, de la fabrication, du stockage et de
@@ -69,5 +66,5 @@ d'importance vitale au sens des articles L. 1332-1 à L. 1332-7 du code de la
 défense pour protéger cette installation ;
 
 7° Activités relatives aux biens et technologies à double usage énumérés à
-l'annexe IV du règlement du 22 juin 2000 précité exercées au profit
-d'entreprises intéressant la défense nationale.
+l'annexe IV du règlement du 5 mai 2009 précité exercées au profit d'entreprises
+intéressant la défense nationale.

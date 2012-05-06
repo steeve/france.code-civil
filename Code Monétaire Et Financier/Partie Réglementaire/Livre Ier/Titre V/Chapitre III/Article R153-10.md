@@ -5,8 +5,8 @@ l'investissement projeté, s'il estime, après examen de la demande :
 
 1° Qu'il existe une présomption sérieuse que l'investisseur est susceptible de
 commettre l'une des infractions visées par les articles 222-34 à 222-39,
-223-15-2, 225-5, 225-6, 225-10, 324-1, 421-1 à 421-2-2, 433-1, 450-1 et 450-2-1
-du code pénal ;
+223-15-2, 225-5, 225-6, 225-10, 324-1, 421-1 à 421-2-2, 433-1, 450-1 du code
+pénal et par le premier alinéa de l'article 321-6 du même code ;
 
 2° Ou que la mise en oeuvre des conditions mentionnées à l'article R. 153-9 ne
 suffit pas à elle seule à assurer la préservation des intérêts nationaux définis
