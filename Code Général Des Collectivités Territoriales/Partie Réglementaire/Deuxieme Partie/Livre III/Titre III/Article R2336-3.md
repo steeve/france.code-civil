@@ -1,9 +1,7 @@
 Article R2336-3
 ----
-Le montant total des avances accordées ne peut dépasser le maximum ci-après :
-
-- pour les communes : 25 % du montant des recettes inscrites à leur budget de
-fonctionnement ;
-
-- pour les établissements publics communaux : 35 % du montant des recettes
-inscrites à leur budget de fonctionnement.
+Pour l'application de l'article L. 2336-3, les attributions de compensation
+mentionnées au 4° du I de cet article prises en compte sont celles constatées au
+15 février de l'année de répartition au compte prévu pour l'imputation des
+attributions de compensation dans les comptes de gestion des communes au titre
+de l'année précédant l'année de répartition.

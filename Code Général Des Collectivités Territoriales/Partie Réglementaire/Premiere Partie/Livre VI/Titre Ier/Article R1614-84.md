@@ -11,11 +11,10 @@ définitif de l'opération et arrêtant ses modalités de financement ;
 
 c) D'une note explicative précisant notamment l'objet de l'opération, sa surface
 en mètres carrés et ses conditions de réalisation ainsi que les axes du projet
-culturel, scientifique, éducatif et social de la bibliothèque ; dans le cas où
-la maîtrise d'ouvrage de l'opération est assurée par un établissement public de
-coopération intercommunale, la note comprend également la liste des
-bibliothèques existantes et l'analyse des besoins de la population et justifie
-de l'insertion de l'équipement projeté dans le réseau de la lecture publique ;
+culturel, scientifique, éducatif et social de la bibliothèque ; la note comprend
+également la liste des bibliothèques existantes et l'analyse des besoins de la
+population et justifie de l'insertion de l'équipement projeté dans le réseau de
+la lecture publique ;
 
 d) D'un plan de situation et d'un extrait de la matrice cadastrale ;
 

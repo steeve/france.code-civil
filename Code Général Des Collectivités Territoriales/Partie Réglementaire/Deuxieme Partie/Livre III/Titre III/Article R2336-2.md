@@ -1,10 +1,10 @@
 Article R2336-2
 ----
-Par exception aux dispositions de l'article R. 2336-1, des avances peuvent être
-accordées pour couvrir les dépenses supplémentaires imposées au cours d'un
-exercice par des circonstances qui ne pouvaient être prévues lors de
-l'établissement des prévisions de recettes.
-
-Dans ce cas, l'emprunteur prend l'engagement de créer au cours de l'exercice
-suivant les ressources nécessaires à la couverture de ces dépenses et au
-remboursement des avances.
+Pour l'application du 5° du I de l'article L. 2336-3, la contribution de
+l'établissement public de coopération intercommunale correspond au prélèvement
+calculé pour l'ensemble intercommunal multiplié par le coefficient d'intégration
+fiscale de l'année de répartition calculé dans les conditions prévues au III de
+l'article L. 5211-30. La contribution des communes membres correspond à la
+différence entre le montant total prélevé sur l'ensemble intercommunal et le
+montant de la contribution ainsi déterminé pour l'établissement public de
+coopération intercommunale.

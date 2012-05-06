@@ -16,3 +16,7 @@ catalogues, et qui mènent des actions de coopération avec les différents
 organismes en charge du livre et de la lecture au niveau départemental, régional
 ou national, en matière d'acquisition, de conservation, d'animation ou de
 formation.
+
+Les dépenses de fonctionnement non pérennes de ces établissements sont éligibles
+à une attribution au titre de la seconde fraction du concours particulier dans
+les conditions prévues au deuxième alinéa de l'article L. 1614-10.

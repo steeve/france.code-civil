@@ -1,7 +1,10 @@
 Article R2336-4
 ----
-Les avances accordées en application des articles R. 2336-1 à R. 2336-3 sont
-remboursées dans le délai maximum de deux ans.
-
-Le délai effectif de remboursement et le taux des intérêts sont fixés par le
-ministre des finances.
+Pour l'application du 1° du II de l'article L. 2336-5, l'attribution revenant à
+l'établissement public de coopération intercommunale correspond à l'attribution
+calculée pour l'ensemble intercommunal multipliée par le coefficient
+d'intégration fiscale de l'année de répartition calculé dans les conditions
+prévues au III de l'article L. 5211-30. L'attribution revenant aux communes
+membres correspond à la différence entre le montant total de l'attribution de
+l'ensemble intercommunal et le montant de l'attribution ainsi déterminé pour
+l'établissement public de coopération intercommunale.

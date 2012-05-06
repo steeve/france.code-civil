@@ -10,8 +10,8 @@ de la commune, pondéré par l'effort fiscal pris en compte dans la limite de 1,
 Le potentiel financier par habitant est calculé par application des dispositions
 des articles L. 2334-2 et L. 2334-4.
 
-Pour l'application de l'article L. 2334-21, "agglomération" s'entend au sens
-d'"unité urbaine", telle que définie par l'Institut national de la statistique
-et des études économiques, et la situation en zone de revitalisation rurale
-d'une commune s'apprécie au 1er janvier de l'année au titre de laquelle est
-versée la dotation de solidarité rurale.
+Pour l'application de l'article L. 2334-21, " agglomération " s'entend au sens
+d'" unité urbaine ", dont la liste est publiée par l'Institut national de la
+statistique et des études économiques, et la situation en zone de revitalisation
+rurale d'une commune s'apprécie au 1er janvier de l'année au titre de laquelle
+est versée la dotation de solidarité rurale.

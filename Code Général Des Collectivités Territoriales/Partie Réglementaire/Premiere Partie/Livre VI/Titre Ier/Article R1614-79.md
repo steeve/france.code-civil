@@ -29,11 +29,11 @@ e) Pour les communes de Paris, de Lyon et de Marseille, la population à prendre
 en compte pour l'application du présent article est celle du ou des
 arrondissements desservis ;
 
-f) Lorsque la maîtrise d'ouvrage de l'opération est assurée par un établissement
-public de coopération intercommunale, la population à prendre en compte pour
-l'application du présent article est déterminée par l'organe délibérant de
-l'établissement en fonction de la population de la ou des communes auxquelles la
-bibliothèque est prioritairement destinée.
+f) Lorsque l'opération est assurée par un établissement public de coopération
+intercommunale, la population à prendre en compte pour l'application du présent
+article est déterminée par l'organe délibérant de l'établissement en fonction de
+la population de la ou des communes auxquelles la bibliothèque est
+prioritairement destinée.
 
 Les investissements d'extension de bibliothèques municipales principales ne sont
 soumises qu'à la condition que la surface totale de la bibliothèque après
