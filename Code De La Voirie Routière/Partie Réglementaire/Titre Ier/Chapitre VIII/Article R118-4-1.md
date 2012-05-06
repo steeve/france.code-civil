@@ -67,4 +67,39 @@ Tunnel des Chavants ; sur la RN 205, département de la Haute-Savoie ;
 
 Tunnel de la Grand-Mare ; sur la RN 28, département de la Seine-Maritime ;
 
-Tunnel de la traversée de Toulon ; sur l'autoroute A 50, département du Var.
+Tunnel de la traversée de Toulon ; sur l'autoroute A 50, département du Var ;
+
+Tunnel de la Borne romaine ; sur l'autoroute A 8, département des
+Alpes-Maritimes ;
+
+Tranchée couverte de Montolivet/Bois-Luzy ; sur l'autoroute A 507, département
+des Bouches-du-Rhône ;
+
+Tranchée couverte de la Parette ; sur l'autoroute A 507, département des
+Bouches-du-Rhône ;
+
+Tranchée couverte de Saint-Barnabé ; sur l'autoroute A 507, département des
+Bouches-du-Rhône ;
+
+Tranchée couverte de la Fourragère ; sur l'autoroute A 507, département des
+Bouches-du-Rhône ;
+
+Tranchée couverte de Sainte-Marthe ; sur l'autoroute A 507, département des
+Bouches-du-Rhône ;
+
+Tunnel de Talant ; sur la liaison intercommunale nord-ouest de Dijon,
+département de la Côte-d'Or ;
+
+Tunnel de Violay ; sur l'autoroute A 89, département de la Loire ;
+
+Tunnel de la Bussière ; sur l'autoroute A 89, département du Rhône ;
+
+Tunnel de Chalosset ; sur l'autoroute A 89, département du Rhône ;
+
+Tunnel des Bruyères ; sur l'autoroute A 45, département de la Loire ;
+
+Tunnel de Lavoué ; sur l'autoroute A 45, département de la Loire ;
+
+Tunnel du Crêt Até ; sur l'autoroute A 45, département de la Loire ;
+
+Tunnel de la Mouille ; sur l'autoroute A 45, département du Rhône.
