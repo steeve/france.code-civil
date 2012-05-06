@@ -26,7 +26,7 @@ l'enseignement de la conduite et de la sécurité routière visé à l'article R
 
 5° Justifier de garanties minimales concernant les moyens de l'établissement.
 Ces garanties concernent les locaux, les véhicules, les moyens matériels. Ces
-garanties sont fixées par un arrêté du ministre chargé des transports ;
+garanties sont fixées par un arrêté du ministre chargé de la sécurité routière ;
 
 6° Remplir les conditions prévues à l'article R. 213-2 (1°). Ces conditions sont
 exigées du président et de toute personne qu'il a, le cas échéant, dûment

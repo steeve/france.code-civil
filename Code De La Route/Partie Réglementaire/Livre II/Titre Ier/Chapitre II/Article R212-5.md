@@ -13,5 +13,5 @@ conditions prévues à l'article L. 212-3 par l'autorité préfectorale précit�
 Le procureur de la République transmet copie du procès-verbal visé à l'article
 L. 212-3 à l'autorité préfectorale susmentionnée.
 
-Un arrêté du ministre chargé des transports précise les conditions d'application
-du présent article.
+Un arrêté du ministre chargé de la sécurité routière précise les conditions
+d'application du présent article.

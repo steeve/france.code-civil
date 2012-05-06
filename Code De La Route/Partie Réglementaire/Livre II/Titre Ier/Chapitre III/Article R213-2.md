@@ -22,8 +22,8 @@ comptable ou commerciale ou d'un diplôme étranger d'un niveau comparable ;
 -soit en justifiant d'une formation agréée, portant sur la gestion et
 l'exploitation des établissements d'enseignement de la conduite.
 
-Un arrêté du ministre chargé des transports précise le programme, la durée
-minimale ainsi que les conditions d'agrément de cette formation ;
+Un arrêté du ministre chargé de la sécurité routière précise le programme, la
+durée minimale ainsi que les conditions d'agrément de cette formation ;
 
 3° Etre âgé d'au moins vingt-trois ans ;
 
@@ -43,10 +43,11 @@ pour assurer les prestations d'enseignement théorique et pratique ;
 diplômes exigés pour l'exercice de la profession d'enseignant de la conduite des
 véhicules à moteur et de la sécurité routière, les personnels enseignants
 doivent satisfaire à des conditions particulières fixées par un arrêté du
-ministre chargé des transports. Dans chacun de ces établissements un directeur
-pédagogique est désigné. Il organise et encadre effectivement la formation. Ce
-directeur doit être titulaire du brevet d'aptitude à la formation des moniteurs
-(BAFM). Nul ne peut être directeur pédagogique dans plus d'un établissement.
+ministre chargé de la sécurité routière. Dans chacun de ces établissements un
+directeur pédagogique est désigné. Il organise et encadre effectivement la
+formation. Ce directeur doit être titulaire du brevet d'aptitude à la formation
+des moniteurs (BAFM). Nul ne peut être directeur pédagogique dans plus d'un
+établissement.
 
 II.-Pour les personnes assurant l'exploitation effective d'au moins un
 établissement organisant des stages de sensibilisation à la sécurité routière
@@ -76,4 +77,4 @@ modalités d'organisation de la formation et, le cas échéant, les véhicules ;
 titulaires de l'autorisation mentionnée au II de l'article R. 212-2.
 
 Les conditions fixées au présent article sont précisées par arrêté du ministre
-chargé des transports.
+chargé de la sécurité routière.

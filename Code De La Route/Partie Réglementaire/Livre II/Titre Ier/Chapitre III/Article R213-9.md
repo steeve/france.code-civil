@@ -8,5 +8,5 @@ département dans lequel elle dispense la formation mentionnée à l'article R.
 213-7 un rapport d'activité. Ce rapport doit porter sur les activités de
 l'association pour l'insertion ou la réinsertion sociale ou professionnelle et
 préciser en particulier les actions entreprises pour la formation à la conduite
-et à la sécurité routière des publics concernés. Un arrêté du ministre chargé
-des transports précise les conditions d'application du présent alinéa.
+et à la sécurité routière des publics concernés. Un arrêté du ministre chargé de
+la sécurité routière précise les conditions d'application du présent alinéa.

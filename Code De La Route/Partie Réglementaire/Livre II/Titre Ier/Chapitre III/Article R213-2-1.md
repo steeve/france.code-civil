@@ -88,4 +88,4 @@ requise pour l'enseignement de la conduite ou l'animation de stages de
 sensibilisation à la sécurité routière.
 
 Les dispositions fixées au présent article sont précisées par arrêté du ministre
-chargé des transports.
+chargé de la sécurité routière.

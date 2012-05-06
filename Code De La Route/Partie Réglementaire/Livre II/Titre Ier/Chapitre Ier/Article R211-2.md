@@ -5,8 +5,8 @@ I.-Tout conducteur de cyclomoteur doit être âgé d'au moins quatorze ans.
 II.-Tout conducteur de cyclomoteur doit être titulaire soit du brevet de
 sécurité routière ou d'un titre reconnu équivalent délivré par un Etat membre de
 l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique
-européen dont la liste est fixée par arrêté du ministre chargé des transports,
-soit du permis de conduire.
+européen dont la liste est fixée par arrêté du ministre chargé de la sécurité
+routière, soit du permis de conduire.
 
 III.-Le fait de contrevenir aux dispositions des deux alinéas précédents est
 puni de l'amende prévue pour les contraventions de la 2e classe.

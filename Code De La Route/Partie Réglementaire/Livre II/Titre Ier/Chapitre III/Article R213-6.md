@@ -16,4 +16,4 @@ routière, d'une attestation de réactualisation de leurs connaissances
 professionnelles dans ce domaine spécifique.
 
 Les conditions fixées au présent article sont précisées par arrêté du ministre
-chargé des transports.
+chargé de la sécurité routière.

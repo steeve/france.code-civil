@@ -12,8 +12,8 @@ stages de sensibilisation à la sécurité routière, l'animateur doit :
 212-4 ;
 
 2° Justifier d'une attestation de formation continue à l'animation des stages de
-sensibilisation à la sécurité routière délivrée par le ministre chargé des
-transports.
+sensibilisation à la sécurité routière délivrée par le ministre chargé de la
+sécurité routière.
 
-Un arrêté du ministre chargé des transports précise les conditions d'application
-du présent article.
+Un arrêté du ministre chargé de la sécurité routière précise les conditions
+d'application du présent article.

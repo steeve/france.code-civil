@@ -6,7 +6,8 @@ sensibilisation à la sécurité routière mentionnés aux articles L. 223-6 et 
 223-5 sont délivrées, pour une durée de cinq ans, par le préfet du lieu de
 résidence du demandeur ou, pour un non-résident en France, par le préfet du
 département où il envisage d'exercer la profession d'enseignant ou d'animateur,
-dans les conditions fixées par arrêté du ministre chargé des transports.
+dans les conditions fixées par arrêté du ministre chargé de la sécurité
+routière.
 
 Ces autorisations sont valables sur l'ensemble du territoire national.
 
@@ -67,5 +68,5 @@ En l'absence de décision du préfet, ou, le cas échéant, de l'organisation de
 l'épreuve d'aptitude, dans les délais prévus ci-dessus, la prestation de
 services peut être effectuée.
 
-Un arrêté du ministre chargé des transports fixe les conditions d'application du
-présent article.
+Un arrêté du ministre chargé de la sécurité routière fixe les conditions
+d'application du présent article.

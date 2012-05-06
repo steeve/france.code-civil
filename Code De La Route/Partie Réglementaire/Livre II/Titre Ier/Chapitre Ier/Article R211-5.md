@@ -23,8 +23,8 @@ Cette période commence par un rendez-vous pédagogique préalable entre
 l'enseignant de la conduite, l'accompagnateur et l'élève conducteur. Deux autres
 rendez-vous pédagogiques doivent avoir lieu au cours de cette période, pendant
 laquelle l'élève conducteur doit parcourir une distance minimale pendant une
-durée minimale, précisées par arrêté du ministre chargé des transports.
+durée minimale, précisées par arrêté du ministre chargé de la sécurité routière.
 
 III.-Les conditions dans lesquelles les établissements d'enseignement de la
 conduite peuvent proposer et encadrer un apprentissage anticipé de la conduite
-sont fixées par arrêté du ministre chargé des transports.
+sont fixées par arrêté du ministre chargé de la sécurité routière.

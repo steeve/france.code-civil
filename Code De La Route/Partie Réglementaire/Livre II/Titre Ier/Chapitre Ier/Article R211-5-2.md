@@ -15,5 +15,6 @@ la conduite dans le cadre de la formation professionnelle et avec
 l'accompagnateur. Au moins un autre rendez-vous pédagogique doit avoir lieu au
 cours de cette période.
 
-Un arrêté conjoint du ministre chargé des transports et du ministre chargé de
-l'éducation nationale fixe les conditions d'application du présent article.
+Un arrêté conjoint du ministre chargé de la sécurité routière et du ministre
+chargé de l'éducation nationale fixe les conditions d'application du présent
+article.
