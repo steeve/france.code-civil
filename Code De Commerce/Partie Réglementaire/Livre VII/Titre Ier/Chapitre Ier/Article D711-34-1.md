@@ -11,10 +11,3 @@ d'industrie départementale d'Ile-de-France ou un groupement interconsulaire de
 sa circonscription, elle élabore avec cet établissement des propositions tendant
 à remédier à cette situation. Ces propositions sont alors transmises pour
 information à l'autorité de tutelle.
-
-En cas de carence prolongée, et après information de l'autorité de tutelle, elle
-peut remplir en lieu et place de l'établissement concerné cette mission
-obligatoire. Elle déduit alors de la taxe pour frais de chambre à verser à la
-chambre ou aux chambres partie au groupement au prochain exercice la part des
-dépenses correspondantes dont elle justifie la nature et le montant auprès de
-l'autorité de tutelle.

@@ -22,8 +22,8 @@ cours du dernier exercice, d'autre part, le total des impôts et taxes afférent
 aux cotisations précitées.
 
 Le montant obtenu est réparti en deux tranches, respectivement inférieure et
-supérieure à 57 500 000 euros (1) A 18 % de la première tranche sont ajoutés 16
-% de la seconde.
+supérieure à 61 300 000 euros. A 18 % de la première tranche sont ajoutés 16 %
+de la seconde.
 
 Le résultat déterminé par application de la première méthode est obtenu en
 multipliant la somme des deux termes de l'addition prévue à l'alinéa précédent
@@ -52,8 +52,8 @@ constituées au commencement du deuxième exercice précédant le dernier exerci
 tant pour les opérations directes que pour les acceptations en réassurance.
 
 Le tiers du montant ainsi obtenu est réparti en deux tranches, respectivement
-inférieure et supérieure à 40 3000 000 euros (1) A 26 % de la première tranche
-sont ajoutés 23 % de la seconde.
+inférieure et supérieure à 42 9000 000 euros. A 26 % de la première tranche sont
+ajoutés 23 % de la seconde.
 
 Le résultat déterminé par application de la deuxième méthode est obtenu en
 multipliant la somme des deux termes de l'addition prévue à l'alinéa précédent

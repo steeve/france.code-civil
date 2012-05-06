@@ -2,8 +2,8 @@ Article R334-28
 ----
 Le fonds de garantie des entreprises mentionnées au 1° du III de l'article L.
 310-1-1 est égal au tiers de l'exigence de marge de solvabilité mentionnée à
-l'article R. 334-27. Il ne peut être inférieur à 3 200 000 euros (1). Toutefois,
-cette limite est fixée à 1 100 000 euros (1) s'agissant du fonds de garantie des
+l'article R. 334-27. Il ne peut être inférieur à 3 400 000 euros. Toutefois,
+cette limite est fixée à 1 200 000 euros s'agissant du fonds de garantie des
 entreprises de réassurance n'appartenant pas à un groupe d'assurance au sens du
 6° de l'article L. 334-2, détenues par un établissement de crédit, une
 entreprise d'investissement, une compagnie financière holding mixte ou par une
