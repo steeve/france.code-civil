@@ -1,6 +1,5 @@
 Article R4127-46
 ----
-Lorsque la loi prévoit qu'un patient peut avoir accès à son dossier par
-l'intermédiaire d'un médecin, celui-ci doit remplir cette mission
-d'intermédiaire en tenant compte des seuls intérêts du patient et se récuser si
-les siens sont en jeu.
+Lorsqu'un patient demande à avoir accès à son dossier médical par
+l'intermédiaire d'un médecin, celui-ci remplit cette mission en tenant compte
+des seuls intérêts du patient et se récuse en cas de conflit d'intérêts.

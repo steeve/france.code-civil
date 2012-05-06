@@ -1,9 +1,9 @@
 Article R4127-83
 ----
-Conformément à l'article L. 4113-9, l'exercice habituel de la médecine, sous
-quelque forme que ce soit, au sein d'une entreprise, d'une collectivité ou d'une
-institution ressortissant au droit privé doit, dans tous les cas, faire l'objet
-d'un contrat écrit.
+I. ― Conformément à l'article L. 4113-9, l'exercice habituel de la médecine,
+sous quelque forme que ce soit, au sein d'une entreprise, d'une collectivité ou
+d'une institution ressortissant au droit privé doit, dans tous les cas, faire
+l'objet d'un contrat écrit.
 
 Ce contrat définit les obligations respectives des parties et doit préciser les
 moyens permettant aux médecins de respecter les dispositions du présent code de
@@ -25,3 +25,8 @@ Le médecin doit signer et remettre au conseil départemental une déclaration a
 termes de laquelle il affirmera sur l'honneur qu'il n'a passé aucune
 contre-lettre, ni aucun avenant relatifs au contrat soumis à l'examen du
 conseil.
+
+II. ― Un médecin ne peut accepter un contrat qui comporte une clause portant
+atteinte à son indépendance professionnelle ou à la qualité des soins, notamment
+si cette clause fait dépendre sa rémunération ou la durée de son engagement de
+critères de rendement.

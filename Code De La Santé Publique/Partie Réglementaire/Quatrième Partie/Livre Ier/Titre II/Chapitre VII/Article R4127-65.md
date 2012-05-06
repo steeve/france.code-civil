@@ -11,4 +11,6 @@ remplaçant ainsi que les dates et la durée du remplacement.
 Le remplacement est personnel.
 
 Le médecin remplacé doit cesser toute activité médicale libérale pendant la
-durée du remplacement.
+durée du remplacement. Toutefois, des dérogations à cette règle peuvent être
+accordées par le conseil départemental, dans l'intérêt de la population
+lorsqu'il constate une carence ou une insuffisance de l'offre de soins.

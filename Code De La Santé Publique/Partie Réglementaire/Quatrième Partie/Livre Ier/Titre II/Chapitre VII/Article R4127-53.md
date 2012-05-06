@@ -4,9 +4,11 @@ Les honoraires du médecin doivent être déterminés avec tact et mesure, en te
 compte de la réglementation en vigueur, des actes dispensés ou de circonstances
 particulières.
 
-Ils ne peuvent être réclamés qu'à l'occasion d'actes réellement effectués.
-L'avis ou le conseil dispensé à un patient par téléphone ou par correspondance
-ne peut donner lieu à aucun honoraire.
+Ils ne peuvent être réclamés qu'à l'occasion d'actes réellement effectués même
+s'ils relèvent de la télémédecine.
+
+Le simple avis ou conseil dispensé à un patient par téléphone ou par
+correspondance ne peut donner lieu à aucun honoraire.
 
 Un médecin doit répondre à toute demande d'information préalable et
 d'explications sur ses honoraires ou le coût d'un traitement. Il ne peut refuser
