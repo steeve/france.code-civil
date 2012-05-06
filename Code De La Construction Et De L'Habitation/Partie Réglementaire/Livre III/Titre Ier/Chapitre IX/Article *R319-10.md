@@ -14,7 +14,7 @@ au taux d'intérêt T 2. Le taux T 1 est égal au taux mensuel équivalent à un
 annuel T 0 augmenté de 0, 35 %. Le taux T 2 est égal au taux mensuel équivalent
 au même taux annuel T 0 augmenté de 1,35 %. Le taux T 0 est le taux annuel de
 rendement de l'emprunt d'Etat de même durée moyenne de remboursement que
-l'avance, dans la limite de 60,5 mois ;
+l'avance ;
 
 Y est égal à la différence entre, d'une part, la somme des intérêts d'un prêt de
 1 euro consenti sur cinq annuités constantes au taux annuel de rendement de
@@ -23,7 +23,7 @@ intérêts d'un prêt de 1 euro consenti sur un an au taux annuel de rendement d
 l'emprunt d'Etat à un an, augmenté de 0,35 % ;
 
 D étant la durée du remboursement de l'avance pour laquelle le taux S est
-calculé, dans la limite de 120 mois.
+calculé.
 
 Le taux S est applicable aux avances faisant l'objet d'une offre de prêt au
 cours du même trimestre.
