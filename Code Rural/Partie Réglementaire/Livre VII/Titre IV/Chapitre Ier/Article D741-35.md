@@ -21,9 +21,9 @@ Pour les assurés mentionnés à l'article 19 de la loi n° 49-1111 du 2 août 1
 majorant les indemnités dues au titre des accidents du travail :
 
 1° Le taux de la cotisation affectée à la couverture des prestations légales de
-l'assurance maladie, maternité, invalidité et décès est fixé à 16,80 % sur le
+l'assurance maladie, maternité, invalidité et décès est fixé à 16,83 % sur le
 montant de la rente perçue par l'assuré ;
 
 2° Le taux de la cotisation affectée à la couverture des prestations légales
-d'assurance vieillesse est fixé à 14,80 % du montant de la rente, dans la limite
+d'assurance vieillesse est fixé à 14,81 % du montant de la rente, dans la limite
 du plafond mentionné au a) du II de l'article L. 741-9.
