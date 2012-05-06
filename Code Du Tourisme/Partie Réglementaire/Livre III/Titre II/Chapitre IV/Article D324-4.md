@@ -1,17 +1,24 @@
 Article D324-4
 ----
-Le certificat de visite prévu au b de l'article D. 324-3 doit comprendre : a) Un
-rapport de contrôle en format homologué par arrêté du ministre chargé du
-tourisme attestant la conformité au tableau de classement dans la catégorie
-demandée et portant mention de l'avis de l'organisme évaluateur pour la
-catégorie demandée ; ce rapport de contrôle est établi sur la base d'une visite
-réalisée dans les trois mois précédant la transmission au représentant de l'Etat
-dans le département du dossier complet de demande de classement ;
+L'organisme qui a effectué la visite de classement dispose d'un délai d'un mois
+à compter de la date à laquelle s'est achevée la visite du meublé pour remettre
+au loueur du meublé ou à son mandataire le certificat de visite, qui comprend :
 
-b) La grille de contrôle en format homologué par arrêté du ministre chargé du
-tourisme renseignée par l'organisme évaluateur.
+a) Un rapport de contrôle attestant la conformité au tableau de classement dans
+la catégorie demandée ;
 
-L'organisme évaluateur dispose d'un délai de quinze jours à compter de la date à
-laquelle s'est achevée la visite de l'établissement pour remettre à
-l'exploitant, en deux exemplaires, dont un exemplaire sous forme numérique, le
-certificat de visite.
+b) La grille de contrôle renseignée par l'organisme évaluateur ;
+
+c) Une proposition de décision de classement pour la catégorie indiquée dans le
+rapport de contrôle.
+
+Le loueur du meublé ou son mandataire dispose d'un délai de quinze jours à
+compter de la réception de ce certificat de visite pour refuser la proposition
+de classement.
+
+A l'expiration de ce délai et en l'absence de refus, le classement est acquis.
+
+Le classement est prononcé pour une durée de cinq ans.
+
+Un arrêté du ministre chargé du tourisme précise la procédure de demande, la
+composition et le format du dossier de demande.

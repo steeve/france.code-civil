@@ -1,13 +1,8 @@
 Article D325-7
 ----
-Le représentant de l'Etat dans le département établit par arrêté la décision de
-classement dans le mois qui suit la réception du dossier complet de demande.
-Cette décision est prise après vérification sur pièces de la complétude du
-dossier de classement conformément aux prescriptions de la présente
-sous-section.
-
-Le représentant de l'Etat transmet dans le même délai une copie de l'arrêté de
-classement accompagnée, sous forme numérique, du dossier de demande de
-classement à l'organisme mentionné à l'article L. 141-2.
+Dans le mois qui suit la réception du dossier complet de demande de classement,
+l'organisme mentionné à l'article L. 141-2 prend la décision de classement dans
+la catégorie pour laquelle l'organisme évaluateur prévu à l'article D. 325-5 a
+émis un avis favorable.
 
 Le classement est prononcé pour une durée de cinq ans.
