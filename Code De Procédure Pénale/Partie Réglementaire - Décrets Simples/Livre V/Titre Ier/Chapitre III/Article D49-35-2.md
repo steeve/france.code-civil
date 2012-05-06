@@ -29,8 +29,7 @@ Si la personne est arrêtée à plus de deux cents kilomètres du siège du juge
 l'application des peines sous le contrôle duquel le condamné est placé, et qu'il
 n'est pas possible de le conduire dans le délai de vingt-quatre heures devant ce
 magistrat ou le juge qui le remplace, elle est conduite devant le procureur de
-la République du lieu d'arrestation, conformément aux dispositions de l'article
-127.
+la République du lieu d'arrestation.
 
 Lorsque le juge de l'application des peines décide de reprendre le mandat
 d'amener délivré par le procureur de la République, il en adresse une copie au
