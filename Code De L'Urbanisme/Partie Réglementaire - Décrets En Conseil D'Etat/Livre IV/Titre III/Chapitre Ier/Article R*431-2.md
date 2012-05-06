@@ -6,7 +6,8 @@ exploitations agricoles à responsabilité limitée à associé unique qui décl
 vouloir édifier ou modifier pour elles-mêmes :
 
 a) Une construction à usage autre qu'agricole dont à la fois la surface de
-plancher et l'emprise au sol au sens de l'article R. 420-1 n'excèdent pas cent
+plancher et l'emprise au sol, au sens de l'article R. 420-1, de la partie de la
+construction constitutive de surface de plancher n'excèdent pas cent
 soixante-dix mètres carrés ;
 
 b) Une construction à usage agricole dont à la fois la surface de plancher et
