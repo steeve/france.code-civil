@@ -1,6 +1,6 @@
 Article R152-1
 ----
-I. - Est puni de l'amende prévue pour les contraventions de la 3e classe le fait
+I.-Est puni de l'amende prévue pour les contraventions de la 3e classe le fait
 pour une personne, propriétaire d'ascenseur :
 
 1° De ne pas mettre en place les dispositifs de sécurité prévus à l'article R.
@@ -17,8 +17,8 @@ l'ascenseur conformément aux articles R. 125-2 et R. 125-2-3 ;
 4° De ne pas faire procéder au contrôle technique dans les conditions prévues
 aux articles R. 125-2-4 et R. 125-2-5.
 
-II. - Est puni de l'amende prévue pour les contraventions de la 3e classe le
-fait pour une personne, prestataire de services chargée de l'entretien de
+II.-Est puni de l'amende prévue pour les contraventions de la 3e classe le fait
+pour une personne, prestataire de services chargée de l'entretien de
 l'installation :
 
 1° D'effectuer l'entretien de l'installation sans contrat d'entretien écrit,
@@ -30,8 +30,8 @@ minimales énumérées à l'article R. 125-2-1 ;
 3° De recourir, pour l'exécution du contrat d'entretien, à une personne n'ayant
 pas la qualification exigée par l'article R. 125-2-1.
 
-III. - Est puni de l'amende prévue pour les contraventions de la 3e classe le
-fait pour une personne, chargée du contrôle technique d'un ascenseur :
+III.-Est puni de l'amende prévue pour les contraventions de la 3e classe le fait
+pour une personne, chargée du contrôle technique d'un ascenseur :
 
 1° De ne pas effectuer les vérifications nécessaires prévues à l'article R.
 125-2-4 ;
@@ -40,3 +40,9 @@ fait pour une personne, chargée du contrôle technique d'un ascenseur :
 
 3° De ne pas respecter les incompatibilités prévues au deuxième alinéa de
 l'article L. 125-2-3.
+
+IV. ― Est puni de l'amende prévue pour les contraventions de la 3e classe le
+fait, pour un fabricant ou un installateur, de ne pas rendre accessibles toutes
+les parties de l'installation au prestataire d'entretien conformément au 1° du I
+de l'article R. 125-2-1-1, ou de ne pas respecter les obligations prévues au 2°
+du I du même article.

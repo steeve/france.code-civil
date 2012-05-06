@@ -8,6 +8,5 @@ Celui-ci transmet le rapport à l'entreprise ou à la personne chargée de
 l'entretien de l'ascenseur et, si des travaux sont rendus nécessaires, aux
 personnes chargées de leur conception et de leur exécution.
 
-Un arrêté conjoint des ministres chargés de la construction et de l'industrie
-précise, en tant que de besoin, la nature des mesures de contrôle à effectuer et
-les modalités d'établissement du rapport de contrôle.
+Un arrêté du ministre chargé de la construction précise les modalités de
+réalisation du contrôle technique et du rapport correspondant.

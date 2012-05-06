@@ -1,6 +1,6 @@
 Article R125-2-5
 ----
-I. - Pour réaliser le contrôle technique prévu à l'article R. 125-2-4, le
+I.-Pour réaliser le contrôle technique prévu à l'article R. 125-2-4, le
 propriétaire fait appel, à son choix :
 
 a) A un contrôleur technique au sens de l'article L. 111-23 qui bénéficie d'un
@@ -25,10 +25,19 @@ délivrée en fonction de critères de connaissances techniques, d'expérience
 professionnelle et d'aptitude au contrôle technique dans le domaine des
 ascenseurs, définis par arrêté du ministre chargé de la construction.
 
-II. - La personne chargée du contrôle technique remet au propriétaire un
-document par lequel elle atteste sur l'honneur qu'elle est en situation
-régulière au regard des dispositions du deuxième alinéa de l'article L. 125-2-3.
+II.-En vue de la bonne et entière exécution du contrôle technique, le contrat
+conclu entre la personne chargée du contrôle et le propriétaire définit les
+conditions dans lesquelles l'entreprise chargée de l'entretien accompagne le
+contrôleur lors de la réalisation de son contrôle.
 
-III. - Le propriétaire d'ascenseur tient à la disposition de la personne chargée
+La personne chargée du contrôle technique remet au propriétaire un document par
+lequel elle atteste sur l'honneur qu'elle est en situation régulière au regard
+des dispositions du deuxième alinéa de l'article L. 125-2-3.
+
+III.-Le propriétaire d'ascenseur tient à la disposition de la personne chargée
 du contrôle technique le carnet d'entretien et le rapport annuel prévus à
 l'article R. 125-2-1.
+
+Il s'assure également de l'intervention de l'entreprise chargée de l'entretien
+pendant le contrôle, comme prévu au contrat d'entretien et conformément aux
+dispositions du II.
