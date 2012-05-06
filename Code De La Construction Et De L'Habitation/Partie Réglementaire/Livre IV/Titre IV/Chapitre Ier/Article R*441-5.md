@@ -47,11 +47,12 @@ matières qui doivent être réglées par cette convention en tenant compte de
 l'option retenue par le représentant de l'Etat en application du deuxième
 alinéa. En cas de non-respect par le bailleur de ses engagements, le préfet peut
 résilier la convention après une mise en demeure restée sans suite pendant deux
-mois.A défaut de signature de la convention ou en cas de résiliation de
+mois. A défaut de signature de la convention ou en cas de résiliation de
 celle-ci, le représentant de l'Etat dans le département règle par arrêté les
 modalités pratiques de mise en œuvre des réservations dont bénéficie l'Etat.
 
-L'absence de déclaration au représentant de l'Etat de la mise en service ou de
-la vacance de tout logement en méconnaissance de la convention de réservation ou
-de l'arrêté préfectoral pris à défaut de convention est passible des sanctions
-prévues à l'article L. 451-2-1, deuxième alinéa.
+La méconnaissance des règles d'attribution et d'affectation des logements
+prévues dans une convention de réservation relative aux réservations dont
+bénéficie l'Etat ou dans l'arrêté préfectoral pris à défaut de convention est
+passible des sanctions pécuniaires prévues à l'article L. 451-2-1, deuxième
+alinéa.
