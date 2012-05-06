@@ -1,8 +1,12 @@
 Article R717-54
 ----
-La décision de l'inspecteur du travail peut faire l'objet d'un recours
-hiérarchique devant le directeur régional du travail, de l'emploi et de la
-formation professionnelle.
+Dans les entreprises disposant d'un service autonome d'entreprise, ce personnel
+est recruté après avis du médecin de ce service ; il assiste celui-ci dans
+l'ensemble de ses activités.
 
-Le recours doit, à peine de forclusion, être présenté dans les deux mois suivant
-la notification de la décision contestée.
+Dans les autres entreprises, le personnel infirmier apporte son concours au
+médecin du travail.
+
+Lorsque l'équipe pluridisciplinaire de santé au travail intervient dans une
+entreprise employant du personnel infirmier, cette équipe se coordonne avec les
+infirmiers de l'entreprise.

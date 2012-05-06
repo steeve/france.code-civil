@@ -13,6 +13,9 @@ alinéa de l'article L. 724-8. Ces agents sont qualifiés de techniciens région
 de prévention. Ils sont affectés auprès du directeur régional des entreprises,
 de la concurrence, de la consommation, du travail et de l'emploi.
 
+Les modalités d'exercice de ces missions sont fixées par arrêté du ministre
+chargé de l'agriculture.
+
 Avant d'entrer en fonction, les techniciens régionaux de prévention mentionnés à
 l'alinéa précédent prêtent serment devant le juge d'instance de ne rien révéler
 des secrets de fabrication et, en général, des procédés et résultats

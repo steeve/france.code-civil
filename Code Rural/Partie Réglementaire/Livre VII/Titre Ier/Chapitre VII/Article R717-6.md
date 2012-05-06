@@ -1,32 +1,19 @@
 Article R717-6
 ----
-Le médecin du travail est obligatoirement associé :
+Afin d'éviter toute altération de la santé des travailleurs du fait de leur
+travail, le médecin du travail où l'équipe pluridisciplinaire est informé :
 
-1° A l'étude de toute nouvelle technique ayant des incidences sur les conditions
-de travail et de sécurité ;
+1° De la nature et de la composition des produits utilisés ainsi que de leurs
+modalités d'emploi, indépendamment des dispositions des articles L. 4411-1 à L.
+4411-5 du code du travail. L'employeur tient à disposition du médecin du travail
+les fiches de données de sécurité fournies par le fournisseur de ces produits ;
 
-2° A la formation et à l'information en matière de sécurité prévues aux articles
-L. 231-3-1 et L. 231-3-2 du code du travail ainsi qu'à la formation des
-personnes mentionnées à l'article R. 717-57.
+2° Des résultats de toutes les mesures et analyses réalisées dans les domaines
+mentionnés à l'article R. 717-52-2.
 
-Il est consulté :
+Les membres de l'équipe pluridisciplinaire ont accès à tous les documents non
+nominatifs rendus obligatoires par le présent chapitre.
 
-1° Sur les projets importants de construction ou d'aménagements nouveaux ;
-
-2° Sur les projets de modification des équipements se rapportant à des
-opérations de transformation ou de stockage des produits ;
-
-3° Sur les décisions importantes relatives à la mise en place ou la modification
-de l'organisation du travail de nuit.
-
-Il est informé, à sa demande :
-
-1° Des produits utilisés ainsi que de leurs modalités d'emploi, indépendamment
-des dispositions de l'article L. 231-7 du code du travail et des règlements pris
-pour son application ;
-
-2° Des résultats de toutes les mesures et analyses effectuées dans les domaines
-mentionnés à l'article R. 717-3.
-
-Il peut également demander à tout moment communication de documents mentionnés à
-l'article L. 620-6, premier alinéa, du code du travail.
+Ce droit d'accès s'exerce dans les conditions garantissant le caractère
+confidentiel des données ainsi que la protection des informations mentionnées à
+l'article R. 717-10.

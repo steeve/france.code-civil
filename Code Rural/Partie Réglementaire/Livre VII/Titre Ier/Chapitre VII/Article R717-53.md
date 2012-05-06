@@ -22,13 +22,12 @@ plus, et globalement pour l'ensemble des établissements qui n'atteignent pas 20
 salariés.
 
 L'inspecteur du travail compétent pour le siège social de l'entreprise peut,
-après avis du médecin inspecteur régional du travail et de la main-d'oeuvre,
-accorder une dérogation à l'employeur lorsque l'éloignement, les uns par rapport
-aux autres, des établissements qui n'atteignent pas 201 salariés est de nature à
-rendre ce recrutement inefficace.
+après avis du médecin inspecteur du travail, accorder une dérogation à
+l'employeur lorsque l'éloignement, les uns par rapport aux autres, des
+établissements qui n'atteignent pas 201 salariés est de nature à rendre ce
+recrutement inefficace.
 
 Dans les autres entreprises, un infirmier ou une infirmière est recruté à temps
 complet ou à temps partiel si le médecin du travail et le comité d'entreprise en
 font la demande. Si l'employeur conteste cette demande, la décision est prise
-par l'inspecteur du travail après avis du médecin inspecteur régional du travail
-et de la main-d'oeuvre.
+par l'inspecteur du travail après avis du médecin inspecteur du travail.

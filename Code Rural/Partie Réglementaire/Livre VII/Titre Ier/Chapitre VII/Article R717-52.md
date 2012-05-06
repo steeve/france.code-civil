@@ -1,36 +1,66 @@
 Article R717-52
 ----
-Dans les services autonomes de santé au travail, le médecin du travail exerce
-ses activités dans les conditions prévues ci-après :
+Dans les services autonomes de santé au travail, le médecin du travail est lié à
+l'employeur par un contrat de travail régi par le code du travail et conclu dans
+le respect du code de déontologie médicale.
 
-La nomination est soumise pour accord au comité d'entreprise qui doit se
+Il exerce ses activités dans les conditions prévues ci-après :
+
+Sa nomination est soumise pour accord au comité d'entreprise qui doit se
 prononcer à la majorité des membres présents par un vote à bulletin secret. A
 défaut d'accord, la nomination est prononcée sur décision de l'inspecteur du
-travail prise après avis du médecin inspecteur régional du travail et de la
-main-d'oeuvre.
+travail prise après avis du médecin inspecteur du travail.
 
-Le projet de licenciement est soumis pour avis au comité d'entreprise qui doit
-se prononcer à la majorité des membres présents par un vote à bulletin secret
-après l'audition de l'intéressé.
+Le projet de licenciement, la rupture conventionnelle et la rupture du contrat
+de travail à durée déterminée dans les cas prévus à l'article L. 4623-5-1 du
+code du travail sont soumis pour avis au comité d'entreprise qui doit se
+prononcer à la majorité des membres régulièrement convoqués, présents ou
+représentés par un vote à bulletin secret après audition de l'intéressé. Ces
+mesures ne peuvent intervenir que sur autorisation de l'inspecteur du travail,
+après avis du médecin inspecteur régional du travail.
 
-Le licenciement, conformément au troisième alinéa de l'article L. 241-6-2 du
-code du travail, ne peut intervenir que sur autorisation de l'inspecteur du
-travail, après avis du médecin inspecteur régional du travail et de la
-main-d'oeuvre.
+La demande d'autorisation, dans les cas mentionnés au précédent alinéa, est
+adressée à l'inspecteur du travail dont dépend le service autonome qui
+l'emploie, par lettre recommandée avec avis de réception.
 
-Le médecin du travail est lié à l'employeur par un contrat de travail régi par
-le code du travail et conclu dans le respect du code de déontologie médicale.
+La demande énonce les motifs du licenciement ou de la rupture anticipée ou du
+non-renouvellement du contrat de travail à durée déterminée envisagé. Elle est
+accompagnée du procès-verbal de la réunion du comité d'entreprise.
 
-Il assure personnellement l'ensemble de ses fonctions ; celles-ci sont
-exclusives de toute autre fonction dans les établissements dont il a la charge.
+La demande est transmise dans les quinze jours suivant la consultation du comité
+d'entreprise.
 
-Il doit consacrer mensuellement aux tâches prévues par les sections 1 à 6 du
-présent chapitre un temps minimal d'une heure pour quinze salariés.
+En cas de mise à pied, la consultation du comité d'entreprise a lieu dans un
+délai de dix jours à compter de la mise à pied. La demande d'autorisation de
+licenciement, de rupture conventionnelle ou de rupture du contrat à durée
+déterminée dans les cas prévus aux articles L. 4623-5-1 et L. 4623-5-2 du code
+du travail est transmise à l'inspecteur du travail dans les quarante-huit heures
+suivant la délibération des instances compétentes.
 
-Il établit un rapport annuel d'activité dans la forme prévue par un arrêté du
-ministre de l'agriculture et le présente au comité d'entreprise au plus tard à
-la fin du quatrième mois qui suit l'année pour laquelle ce rapport a été établi.
+L'inspecteur du travail procède à une enquête contradictoire au cours de
+laquelle le médecin du travail peut, sur sa demande, se faire assister par une
+personne de son choix appartenant au personnel du service autonome ou à la
+caisse de mutualité sociale dans laquelle il est en fonctions.
 
-Dans le délai d'un mois à compter de sa présentation, l'employeur transmet un
-exemplaire du rapport, accompagné le cas échéant des observations formulées par
-le comité d'entreprise, à l'inspecteur du travail.
+L'inspecteur du travail prend sa décision dans un délai de quinze jours, réduit
+à huit jours en cas de mise à pied. Ce délai court à compter de la réception de
+la demande motivée présentée par l'employeur. Il n'est prolongé que si les
+nécessités de l'enquête le justifient.
+
+La décision de l'inspecteur du travail est motivée. Elle est notifiée par lettre
+recommandée avec avis de réception :
+
+1° A l'employeur ;
+
+2° Au médecin du travail ;
+
+3° Au comité d'entreprise.
+
+Le ministre chargé du travail peut annuler ou réformer la décision de
+l'inspecteur du travail sur le recours de l'employeur ou du médecin du travail.
+
+Ce recours est introduit dans un délai de deux mois à compter de la notification
+de la décision de l'inspecteur.
+
+Le silence gardé pendant plus de quatre mois sur ce recours vaut décision de
+rejet.
