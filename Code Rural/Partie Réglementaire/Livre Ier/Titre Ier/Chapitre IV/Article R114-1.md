@@ -9,4 +9,7 @@ pêche maritime et au 5° du II de l'article L. 211-3 du code de l'environnement
 du II de l'article L. 211-3 du code de l'environnement ;
 
 -aux zones de protection des aires d'alimentation des captages définies par le
-5° du II de l'article L. 211-3 du code de l'environnement.
+5° du II de l'article L. 211-3 du code de l'environnement ;
+
+-aux bassins connaissant d'importantes marées vertes mentionnés au 8° du II de
+l'article L. 211-3 du code de l'environnement.
