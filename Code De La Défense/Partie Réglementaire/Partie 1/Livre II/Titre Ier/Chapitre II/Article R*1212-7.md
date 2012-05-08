@@ -34,9 +34,9 @@ Lorraine.
 
 Meurthe-et-Moselle, Meuse, Moselle, Vosges.
 
-Nord - Pas-de-Calais.
+Nord-Pas-de-Calais.
 
-Nord Lille, Nord Valenciennes, Pas-de-Calais.
+Nord, Pas-de-Calais.
 
 Picardie.
 

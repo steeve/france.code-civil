@@ -13,5 +13,8 @@ du département de rattachement de ce dernier.
 
 Les officiers et agents de police judiciaire affectés au service de police
 intervenant sur les réseaux de transport en commun de voyageurs par voie ferrée
-de la région d'Ile-de-France sont compétents sur toute l'étendue de cette
-région.
+de la zone de défense et de sécurité d'Ile-de-France sont compétents sur toute
+l'étendue de cette zone de défense et de sécurité et, au-delà des limites de
+cette zone, sur les lignes, stations, gares, arrêts et couloirs prolongeant ces
+réseaux dont la liste est fixée par arrêté conjoint du ministre de la justice et
+du ministre de l'intérieur.
