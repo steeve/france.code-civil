@@ -5,10 +5,10 @@ la santé et de la sécurité sociale, après avis de la Haute Autorité de sant
 du conseil de l'Union nationale des caisses d'assurance maladie donnés dans les
 conditions du premier alinéa de l'article R. 163-27, à la prise en charge à
 titre dérogatoire des spécialités pharmaceutiques, produits ou prestations qui
-ne satisfont plus aux critères de cette prise en charge. La Haute Autorité de
-santé consulte l'Agence nationale de sécurité du médicament et des produits de
-santé dans les conditions prévues au troisième alinéa de l'article R. 163-26
-avant de communiquer son avis aux ministres.
+ne satisfont plus aux critères de cette prise en charge. Avant de rendre son
+avis, la Haute Autorité de santé consulte l'Agence nationale de sécurité du
+médicament et des produits de santé qui communique son avis dans un délai d'un
+mois suivant la réception de la saisine.
 
 L'Agence nationale de sécurité du médicament et des produits de santé signale
 aux ministres chargés de la santé et de la sécurité sociale, au vu de nouvelles

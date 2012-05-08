@@ -2,10 +2,10 @@ Article R163-27
 ----
 La prise en charge à titre dérogatoire est prononcée pour une période maximale
 de trois ans. Elle est renouvelable, pour la même durée, dans les conditions
-prévues à l'article R. 163-26. Toutefois, l'avis de la Haute Autorité de santé
-est transmis aux ministres chargés de la santé et de la sécurité sociale dans le
-délai de quatre mois suivant sa saisine sur le renouvellement de la prise en
-charge à titre dérogatoire.
+prévues à l'article R. 163-26 à l'exception du délai de transmission de l'avis
+de la Haute Autorité de santé qui est réduit à un mois suivant sa saisine pour
+les spécialités pharmaceutiques faisant l'objet d'une recommandation temporaire
+d'utilisation et à quatre mois pour les produits et prestations.
 
 En l'absence de publication d'une décision sur le renouvellement de prise en
 charge à l'échéance de l'arrêté de prise en charge à titre dérogatoire en cours,
