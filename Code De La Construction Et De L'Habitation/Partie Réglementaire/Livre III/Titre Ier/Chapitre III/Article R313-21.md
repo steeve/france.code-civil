@@ -1,44 +1,32 @@
 Article R313-21
 ----
-Les organismes énumérés au 2° de l'article R. 313-9 sont habilités à collecter
-la participation des employeurs à l'effort de construction en vertu d'un
-agrément accordé par un arrêté conjoint des ministres chargés de la construction
-et de l'habitation et de l'économie et des finances qui tient compte notamment
-des politiques locales de l'habitat. Cet arrêté est contresigné par le ministre
-chargé du commerce lorsque l'agrément concerne une chambre de commerce et
-d'industrie territoriale, ou par le ministre chargé des affaires sociales
-lorsqu'il concerne une caisse d'allocations familiales.
+L'agrément mentionné au deuxième alinéa de l'article L. 313-1 est délivré par
+arrêté du ministre chargé du logement. Cet arrêté est pris après avis de
+l'Agence nationale pour la participation des employeurs à l'effort de
+construction, sauf lorsqu'il concerne un organisme d'habitations à loyer modéré
+mentionné à l'article L. 411-2 ou une société d'économie mixte exerçant à titre
+principal une activité de construction, d'acquisition ou de gestion de logements
+sociaux.
 
-L'arrêté d'agrément est pris après avis de l'Agence nationale pour la
-participation des employeurs à l'effort de construction en ce qui concerne les
-associations, organismes et sociétés mentionnés au 2° (a, b et d) de l'article
-R. 313-9.
+La demande d'agrément est introduite auprès de l'Agence nationale pour la
+participation des employeurs à l'effort de construction qui est chargée de son
+instruction en application de l'article L. 313-7.
 
-Les organismes mentionnés au 2° de l'article R. 313-9 doivent rendre compte
-chaque année à l'Agence nationale pour la participation des employeurs à
-l'effort de construction et au directeur départemental de l'équipement du lieu
-de leur siège social de l'importance des sommes recueillies et de l'utilisation
-de ces sommes selon des modalités fixées par arrêté du ministre chargé du
-logement.
+En cas de création d'un organisme collecteur mentionné à l'article L. 313-18,
+l'agrément est accordé après avis de l'Union d'économie sociale du logement.
 
-Ils doivent utiliser les sommes qui leur sont versées par les employeurs dans
-les conditions prévues par le présent chapitre. Des conventions peuvent être
-conclues entre l'Etat et les organismes collecteurs en vue de définir les
-modalités d'affectation de ces sommes pour répondre aux orientations sociales de
-la politique du logement.
+Un organisme, issu de la fusion d'organismes collecteurs agréés se traduisant
+par la création d'une personne morale nouvelle, doit obtenir un nouvel agrément,
+délivré dans les conditions prévues aux deux alinéas précédents. Si la demande
+d'agrément du futur organisme collecteur est introduite auprès de l'Agence
+nationale pour la participation des employeurs à l'effort de construction avant
+l'engagement irrévocable de la dernière assemblée générale de procéder à la
+fusion, le nouvel organisme né de la fusion bénéficie, de plein droit, d'un
+agrément temporaire qui devient définitif dans les six mois suivant
+l'introduction de la demande, à moins que le ministre chargé du logement n'y
+fasse opposition dans ce délai. Dans ce cas, les dispositions de l'article L.
+313-14 sont applicables.
 
-Le contrôle des organismes mentionnés au 2° (c) de l'article R. 313-9 est exercé
-par le ministre chargé de l'économie et des finances et par le ministre chargé
-du logement.A ce titre, sans préjudice des pouvoirs dévolus à l'inspection
-générale des finances et à la mission interministérielle d'inspection du
-logement social, le contrôle sur place de ces organismes est assuré dans chaque
-département par le trésorier payeur général et par le directeur départemental de
-l'équipement.
-
-Le contrôle des organismes énumérés au 2° (a, b et d) de l'article R. 313-9 est
-exercé, sous l'autorité du ministre chargé de l'économie et des finances et du
-ministre chargé du logement et, le cas échéant, du ministre chargé de la tutelle
-de l'organisme en cause, par l'Agence nationale pour la participation des
-employeurs à l'effort de construction dans les conditions prévues à l'article R.
-313-35-7, sans préjudice des contrôles exercés par ces ministres dans les
-conditions qu'ils fixent.
+La fusion de plusieurs organismes collecteurs agréés, réalisée juridiquement par
+absorption par l'un d'entre eux, ne remet pas en cause l'agrément délivré à
+l'organisme absorbant.

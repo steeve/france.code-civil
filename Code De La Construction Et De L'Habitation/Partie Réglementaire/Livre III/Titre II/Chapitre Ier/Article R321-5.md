@@ -48,8 +48,8 @@ c) Il délibère sur les rapports annuels relatifs aux recours et aux contrôles
 
 10° Il approuve les contrats d'objectifs entre l'agence et l'Etat ;
 
-11° Il approuve la convention entre l'agence et l'Union d'économie sociale pour
-le logement prise en application de l'article L. 313-3 ainsi que la convention
+11° Il approuve la convention entre l'agence et l' Union d'économie sociale du
+logement prise en application de l'article L. 313-3 ainsi que la convention
 entre l'agence et le ministère chargé du logement mentionnée à l'article R.
 321-9 ; il approuve les transactions et autorise le directeur général à les
 signer ;

@@ -40,7 +40,7 @@ l'Assemblée des départements de France ;
 
 3) Collège des personnalités qualifiées :
 
-1° Deux représentants de l'Union d'économie sociale pour le logement, sur
+1° Deux représentants de l'Union d'économie sociale du logement , sur
 proposition de cette dernière ;
 
 2° Un représentant des propriétaires ;

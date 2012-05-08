@@ -3,7 +3,7 @@ Article R321-6-4
 La Commission nationale pour la lutte contre l'habitat indigne mentionnée à
 l'article R. 321-1 est constituée d'un représentant de l'agence, d'un
 représentant des ministres en charge de la santé, de l'action sociale, du
-logement, d'un représentant de l'Union d'économie sociale pour le logement, d'un
+logement, d'un représentant de l' Union d'économie sociale du logement , d'un
 représentant des services communaux d'hygiène et de santé mentionnés au
 troisième alinéa de l'article L. 1422-1 du code de la santé publique et d'une
 personnalité qualifiée en matière de lutte contre l'habitat indigne. Ses membres

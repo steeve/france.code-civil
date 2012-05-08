@@ -1,20 +1,19 @@
 Article R*313-1
 ----
-Pour l'application de l'article L. 313-1 sont considérés comme occupant au
-minimum dix salariés, les employeurs qui ont occupé des salariés dont le nombre
-mensuel moyen a été au moins égal à dix pendant l'année civile écoulée.
+Pour le calcul de l'effectif mentionné au premier alinéa de l'article L. 313-1,
+l'effectif de l'entreprise calculé au 31 décembre de l'année civile écoulée,
+tous établissements confondus, est égal à la moyenne des effectifs déterminés
+chaque mois de l'année civile.
 
-Toutefois, ceux de ces employeurs qui ont occupé des salariés d'une manière
-intermittente, ou travaillant à domicile, ne sont soumis à l'obligation de
-participer à l'effort de construction que si le montant total des salaires
-versés pendant l'année a été au moins égal à 180 fois le salaire mensuel minimum
-interprofessionnel de croissance moyen. En cas de début d'exploitation, ce
-chiffre est réduit, pour l'année considérée, au prorata du nombre de mois
-pendant lesquels l'activité a été exercée.
+Pour la détermination des effectifs du mois, il est tenu compte des salariés
+titulaires d'un contrat de travail, y compris les salariés absents, conformément
+aux dispositions des articles L. 1111-2, L. 1111-3 et L. 1251-54 du code du
+travail.
 
-Chaque salarié à temps partiel au sens de l'article L. 212-4-2 du code du
-travail entre en compte dans l'effectif du personnel au prorata du rapport entre
-la durée hebdomadaire de travail mentionnée dans son contrat et la durée légale
-de travail ou, si elle est inférieure à la durée légale, la durée normale de
-travail accomplie dans l'établissement ou la partie d'établissement où il est
-employé.
+Au titre de l'année suivant celle de la création de l'entreprise, l'effectif est
+apprécié dans les conditions définies aux deux alinéas précédents, en fonction
+de la moyenne des effectifs de chacun des mois d'existence de la première année.
+
+Pour la détermination de la moyenne mentionnée aux premier et troisième alinéas,
+les mois au cours desquels aucun salarié n'est employé ne sont pas pris en
+compte.

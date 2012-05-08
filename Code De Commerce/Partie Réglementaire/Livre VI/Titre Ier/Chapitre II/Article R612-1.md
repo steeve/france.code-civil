@@ -17,11 +17,7 @@ comptable lorsque celui-ci ne coïncide pas avec l'année civile ;
 ressources ; le montant hors taxes du chiffre d'affaires est égal au montant des
 ventes de produits et services liés à l'activité courante ; le montant des
 ressources est égal au montant des cotisations, subventions et produits de toute
-nature liés à l'activité courante ; toutefois, pour les associations
-professionnelles ou interprofessionnelles collectant la participation des
-employeurs à l'effort de construction, le montant des ressources, qui
-s'entendent des sommes recueillies au sens de l'article R. 313-25 du code de la
-construction et de l'habitation, est fixé à 750 000 euros ;
+nature liés à l'activité courante ;
 
 3° 1 550 000 euros pour le total du bilan ; celui-ci est égal à la somme des
 montants nets des éléments d'actif.

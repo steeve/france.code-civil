@@ -1,10 +1,10 @@
 Article R321-6-2
 ----
 Le comité d'évaluation et de suivi mentionné à l'article R. 321-1 est composé,
-au plus, de dix personnalités qualifiées, dont au moins deux représentants de
-l'Union d'économie sociale pour le logement, toutes nommées par le ministre
-chargé du logement pour un mandat de trois ans renouvelable après information
-des autres ministres de tutelle.
+au plus, de dix personnalités qualifiées, dont au moins deux représentants de l'
+Union d'économie sociale du logement , toutes nommées par le ministre chargé du
+logement pour un mandat de trois ans renouvelable après information des autres
+ministres de tutelle.
 
 Le comité d'évaluation et de suivi est chargé d'apprécier la mise en œuvre par
 l'agence des missions définies à l'article L. 321-1, notamment à travers

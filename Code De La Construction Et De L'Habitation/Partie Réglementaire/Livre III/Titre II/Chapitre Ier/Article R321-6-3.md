@@ -5,8 +5,8 @@ représentant du ministre chargé du logement, d'un représentant du ministre
 chargé de l'économie, d'un représentant des présidents d'établissements publics
 de coopération intercommunale, d'un représentant des présidents de conseils
 généraux, d'un représentant des propriétaires et d'un représentant des
-locataires ainsi que d'un représentant de l'Union d'économie sociale pour le
-logement. Les membres de la commission sont nommés par le ministre chargé du
+locataires ainsi que d'un représentant de l' Union d'économie sociale du
+logement . Les membres de la commission sont nommés par le ministre chargé du
 logement.
 
 La commission des recours est chargée de donner un avis préalable aux décisions

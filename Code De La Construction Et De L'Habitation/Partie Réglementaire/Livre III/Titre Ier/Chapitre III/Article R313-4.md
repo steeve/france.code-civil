@@ -1,35 +1,15 @@
 Article R313-4
 ----
-La déclaration prévue à l'article R. 313-3, qui est établie en double exemplaire
-sur des imprimés fournis par l'administration, doit indiquer :
+En cas de cession, de cessation, de procédure de sauvegarde, de redressement ou
+de liquidation judiciaire de l'entreprise, les déclarations afférentes à l'année
+en cours et à l'année précédente doivent être souscrites dans les soixante jours
+de la cession, de la cessation, de la procédure de sauvegarde ou du jugement.
 
-a) l'année au cours de laquelle devaient être réalisés les investissements ;
+Toutefois, le nouvel exploitant peut prendre à sa charge l'obligation incombant
+à l'ancien exploitant. L'engagement est annexé à la déclaration prévue à
+l'article R. 313-2.
 
-b) le montant des salaires, traitements, indemnités et émoluments à prendre en
-considération pour l'assiette des investissements dans la construction de
-logements à réaliser au cours de cette même année ;
-
-c) la somme totale à investir, compte tenu, le cas échéant, des remboursements
-et aliénations d'investissements antérieurs ;
-
-d) (Abrogé)
-
-e) le montant des investissements réalisés au cours de l'année considérée, les
-modalités selon lesquelles ces investissements ont été effectués et la date à
-laquelle les sommes investies ont été effectivement versées ;
-
-f) le montant des investissements excédentaires antérieurs qui ont été reportés
-conformément à l'article L. 313-1 et, lorsque ces renseignements n'ont pas déjà
-été fournis, les modalités suivant lesquelles ces investissements ont été
-effectués et les dates auxquelles les sommes ainsi investies ont été
-effectivement versées.
-
-g) le montant total des investissements dont il y a lieu de faire état ;
-
-h) selon le cas, le montant des investissements à reporter sur les périodes
-ultérieures ou le montant de l'insuffisance d'investissement ainsi que la base
-de la cotisation de 2 p. 100 prévue à l'article 235 bis du code général des
-impôts ;
-
-i) Le montant de la cotisation de 2 % à verser, le cas échéant, à la caisse du
-comptable de la direction générale des impôts.
+Les dispositions ci-dessus sont également applicables en cas de décès de
+l'employeur. Dans ce cas, la déclaration est souscrite par les ayants droit du
+défunt dans les six mois du décès. Elle est accompagnée, s'il y a lieu, de
+l'engagement du nouvel exploitant.

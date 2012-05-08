@@ -11,7 +11,7 @@ représentant l'Association des maires de France, d'un administrateur
 représentant l'Assemblée des départements de France, d'un administrateur
 représentant l'Assemblée des communautés de France et de trois administrateurs
 représentant les personnalités qualifiées dont deux sont issus de l'Union
-d'économie sociale pour le logement.
+d'économie sociale du logement .
 
 Il est présidé par le président du conseil d'administration.
 
