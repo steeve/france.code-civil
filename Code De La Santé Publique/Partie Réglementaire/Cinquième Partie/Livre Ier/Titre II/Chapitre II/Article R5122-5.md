@@ -1,11 +1,14 @@
 Article R5122-5
 ----
-Le visa de publicité mentionné à l'article L. 5122-8 est délivré par le
-directeur général de l' Agence nationale de sécurité du médicament et des
-produits de santé.
+Un calendrier des périodes de dépôt des demandes de visa mentionnées à l'article
+L. 5122-8 est fixé pour chaque année, par décision du directeur général de
+l'Agence nationale de sécurité du médicament et des produits de santé, avant le
+1er novembre de l'année précédente. Ce calendrier détermine au minimum quatre
+périodes par an, d'une durée comprise entre une semaine et deux mois chacune, au
+cours desquelles les demandes doivent être déposées.
 
-Ce visa est réputé acquis au terme d'un délai d'un mois courant à partir du
-premier jour suivant la séance de la commission au cours de laquelle un avis a
-été donné sur la publicité concernée. Dans ce cas, le directeur général de
-l'agence communique sans délai à l'entreprise le numéro d'ordre du visa
-mentionné à l'article R. 5122-6.
+Les demandes de visa sont réputées acceptées en l'absence de décision du
+directeur général de l'agence dans un délai de deux mois à compter du jour
+suivant la fin de la période au cours de laquelle elles ont été déposées.
+
+La durée de validité du visa est de deux ans.

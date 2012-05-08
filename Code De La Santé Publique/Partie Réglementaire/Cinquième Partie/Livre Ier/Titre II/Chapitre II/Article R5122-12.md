@@ -1,10 +1,10 @@
 Article R5122-12
 ----
-En application de l'article L. 5122-1, le dépôt de publicité pour un médicament,
-prévu à l'article L. 5122-9, a lieu pour toute forme d'information, telle que
-définie par l'article L. 5122-1, communiquée aux professionnels de santé
-habilités à prescrire, dispenser ou utiliser dans l'exercice de leur art ce
-médicament, notamment à l'occasion :
+En application de l'article L. 5122-1, la demande de visa de publicité pour un
+médicament, prévu à l'article L. 5122-9, est formée pour toute forme
+d'information, telle que définie par l'article L. 5122-1, communiquée aux
+professionnels de santé habilités à prescrire, dispenser ou utiliser dans
+l'exercice de leur art ce médicament, notamment à l'occasion :
 
 1° De la présentation du médicament à ces professionnels par les personnes
 mentionnées à l'article L. 5122-11 ;

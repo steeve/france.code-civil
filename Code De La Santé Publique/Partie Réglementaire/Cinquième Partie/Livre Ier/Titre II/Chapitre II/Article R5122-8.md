@@ -41,4 +41,16 @@ traitement journalier ;
 
 15° La situation du médicament au regard du remboursement par les organismes
 d'assurance maladie ou de l'agrément pour les collectivités publiques prévu à
-l'article L. 5123-2.
+l'article L. 5123-2 ;
+
+16° Pour une spécialité générique, la mention de cette qualité et, si le groupe
+générique auquel appartient la spécialité comporte une ou plusieurs spécialités
+de référence, la mention : " Cette spécialité est un générique de ", suivie du
+nom de la ou des spécialités de référence, de leur dosage et de leur forme
+pharmaceutique. En ce cas, la publicité comporte également la mention : "
+Médicament inscrit au répertoire des génériques. Lors de la substitution,
+consultez la liste des excipients à effet notoire figurant sur l'emballage ainsi
+que le répertoire des génériques pour prendre connaissance des mises en garde
+éventuelles y figurant. " Toutefois, pour une publicité sur un support de
+diffusion radiophonique, seule est requise la mention que la spécialité est
+générique.

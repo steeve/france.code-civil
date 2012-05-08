@@ -16,7 +16,7 @@ du médicament ;
 
 4° Suggérerait qu'un état de santé normal peut être affecté en cas de
 non-utilisation du médicament ; cette interdiction ne s'applique pas aux
-campagnes publicitaires pour des vaccins ou médicaments mentionnés au deuxième
+campagnes publicitaires pour des vaccins ou médicaments mentionnés au troisième
 alinéa de l'article L. 5122-6 ;
 
 5° S'adresserait exclusivement ou principalement aux enfants ;
