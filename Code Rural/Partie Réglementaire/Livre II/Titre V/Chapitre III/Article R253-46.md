@@ -1,27 +1,12 @@
 Article R253-46
 ----
-L'autorisation de mise sur le marché peut être retirée ou modifiée par le
-ministre chargé de l'agriculture, le cas échéant après avis de l' Agence
-nationale de sécurité sanitaire de l'alimentation, de l'environnement et du
-travail .
+I. ― L'autorité administrative mentionnée à l'article L. 253-8 est le préfet du
+département dans lequel a lieu la pulvérisation aérienne de produits
+phytopharmaceutiques. Un arrêté des ministres chargés de l'agriculture, de
+l'environnement et de la santé détermine les conditions dans lesquelles le
+préfet peut délivrer des dérogations à l'interdiction de pulvérisation aérienne.
 
-L'autorisation de mise sur le marché d'un produit phytopharmaceutique est
-retirée :
-
-1° Si les conditions requises pour son obtention ne sont plus remplies ;
-
-2° Ou si des indications fausses ou fallacieuses ont été fournies dans la
-demande d'autorisation.
-
-L'autorisation de mise sur le marché d'un produit phytopharmaceutique est
-modifiée s'il apparaît qu'il existe un mode d'utilisation ou des quantités mises
-en oeuvre plus appropriés.
-
-Elle peut être modifiée ou retirée à la demande de son détenteur qui doit en
-indiquer les raisons. Les modifications ne sont accordées que si les conditions
-requises pour son obtention continuent d'être respectées.
-
-Lorsqu'un produit phytopharmaceutique est l'objet d'un retrait d'autorisation,
-toute mise sur le marché doit cesser. Toutefois, le ministre chargé de
-l'agriculture peut accorder un délai pour supprimer, écouler, utiliser les
-stocks existants dont la durée est en rapport avec la cause du retrait.
+II. ― L'Agence évalue spécifiquement les risques liés à la pulvérisation
+aérienne. Les produits phytopharmaceutiques utilisés en pulvérisation aérienne
+sont expressément approuvés à cet effet sur la base de cette évaluation par
+décision du ministre chargé de l'agriculture.

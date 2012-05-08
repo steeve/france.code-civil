@@ -1,15 +1,25 @@
 Article R253-49
 ----
-I.-En application de l'article L. 253-4, le ministre chargé de l'agriculture
-peut, après avis de l'Agence nationale de sécurité sanitaire de l'alimentation,
-de l'environnement et du travail, autoriser provisoirement pour une période de
-trois ans susceptible d'être prolongée la mise sur le marché d'un produit
-phytopharmaceutique contenant une substance active non inscrite sur la liste des
-substances actives et qui n'était pas sur le marché le 25 juillet 1993, dans la
-mesure où le dossier relatif aux exigences de la substance active est jugé
-conforme par les autorités communautaires et si les conditions d'efficacité, de
-sélectivité et d'innocuité du produit phytopharmaceutique sont remplies.
+I. ― Les prélèvements effectués en application de l'article L. 250-6 portent sur
+trois échantillons :
 
-II.-Si, à l'issue de l'évaluation communautaire du dossier, la substance active
-n'est pas inscrite, le ministre chargé de l'agriculture procède au retrait de
-l'autorisation provisoire de mise sur le marché.
+― l'un est destiné au laboratoire pour analyse ;
+
+― les deux autres, utilisés dans le cas où une expertise contradictoire est
+demandée, sont conservés, d'une part, par le détenteur du produit, produit
+végétal ou d'origine végétale ayant fait l'objet du prélèvement et, d'autre
+part, par la direction régionale de l'agriculture et de la forêt ou, pour les
+départements d'outre-mer, par la direction de l'agriculture et de la forêt dont
+relève l'agent qui a procédé au prélèvement.
+
+II. ― A chaque échantillon prélevé est attribué un numéro d'identification.
+
+III. ― Si le détenteur du produit, produit végétal ou d'origine végétale refuse
+de conserver en dépôt l'échantillon qui lui est destiné, il est fait mention de
+ce refus sur l'étiquette qui accompagne l'échantillon ainsi que dans le
+procès-verbal prévu à l'article R. 253-50. L'échantillon est, dans ce cas,
+conservé par l'administration.
+
+IV. ― Tout échantillon identifié est mis sous scellés. Les informations devant
+être mentionnées sur les scellés sont fixées par arrêté du ministre chargé de
+l'agriculture.

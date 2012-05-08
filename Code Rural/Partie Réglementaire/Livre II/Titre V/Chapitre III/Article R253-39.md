@@ -1,38 +1,22 @@
 Article R253-39
 ----
-La demande d'autorisation de mise sur le marché des produits
-phytopharmaceutiques est adressée à l'Agence nationale de sécurité sanitaire de
-l'alimentation, de l'environnement et du travail par le responsable de la
-première mise sur le marché ou pour son compte.
+I. ― Sont aussi considérés comme officiels au sens du 3 de l'article 29 du
+règlement (CE) n° 1107/2009 les essais et analyses, non visés à l'article R.
+253-38, réalisés par des services et organismes définis par arrêté du ministre
+chargé de l'agriculture, selon les protocoles et lignes directrices mentionnés
+au 2° du II.
 
-Tout demandeur doit avoir un siège permanent au sein de l'Union européenne.
+II. ― Sont aussi considérés comme officiellement reconnus au sens du 3 de
+l'article 29 du règlement (CE) n° 1107/2009 les essais et analyses non visés à
+l'article R. 253-38 réalisés :
 
-La demande d'autorisation doit comprendre :
+1° Par les laboratoires reconnus conformes aux bonnes pratiques de laboratoire
+dans les conditions prévues par les articles D. 523-8 à D. 523-11 du code de
+l'environnement, sous réserve de dérogations particulières en application de
+décisions communautaires ;
 
-1° Un dossier, pour chaque substance active contenue dans le produit,
-satisfaisant aux exigences relatives à l'inscription de la substance active sur
-la liste communautaire prévue par la réglementation européenne ;
-
-2° Sans préjudice de l'application des dispositions des articles R. 253-41 et R.
-253-42, un dossier relatif au produit phytopharmaceutique comprenant les études
-et comptes rendus d'essais et d'analyses tels qu'ils sont définis à l'article R.
-253-10 et démontrant que ce produit satisfait, pour les conditions d'emploi
-demandées, aux exigences de sélectivité, d'efficacité et d'innocuité prévues par
-la réglementation européenne.
-
-La composition et les modalités de présentation des dossiers d'autorisation ou
-de modification d'autorisation de mise sur le marché des produits définis à
-l'article L. 253-1 sont définies par arrêté conjoint des ministres chargés de
-l'agriculture, de l'environnement, de la santé, de la consommation et de
-l'industrie.
-
-Dès réception des demandes d'autorisation de mise sur le marché, l'Agence
-nationale de sécurité sanitaire de l'alimentation, de l'environnement et du
-travail vérifie que le dossier contient l'ensemble des pièces. Lorsque le
-dossier est incomplet, l'Agence nationale de sécurité sanitaire de
-l'alimentation, de l'environnement et du travail invite le demandeur à le
-compléter. Lorsque le dossier est complet, elle adresse au demandeur un accusé
-de réception dont elle envoie copie au ministre chargé de l'agriculture. Les
-délais prévus à l'article R. 253-3 et ceux prévus pour les demandes
-d'autorisation de mise sur le marché des produits visés à la sous-section 2
-courent à compter de la date de cet accusé de réception.
+2° Et selon des protocoles communautaires ou internationaux ou, à défaut, selon
+des lignes directrices dont la reconnaissance est acceptée par le ministre
+chargé de l'agriculture après avis de l'Agence et par le Haut Conseil des
+biotechnologies lorsqu'il s'agit de produits phytopharmaceutiques composés en
+tout ou partie d'organismes génétiquement modifiés.

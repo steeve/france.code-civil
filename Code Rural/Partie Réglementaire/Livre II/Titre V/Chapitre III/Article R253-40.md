@@ -1,27 +1,8 @@
 Article R253-40
 ----
-Le ministre chargé de l'agriculture prend sa décision dans un délai de deux mois
-à compter de la réception de l'avis de l'Agence nationale de sécurité sanitaire
-de l'alimentation, de l'environnement et du travail pour les demandes
-mentionnées au II de l'article R. 253-3, dans un délai d'un mois pour les autres
-demandes et, si l'agence n'a pas émis son avis, à compter de l'expiration du
-délai imparti à celle-ci.
-
-Les avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de
-l'environnement et du travail sur les demandes mentionnées au II et au dernier
-alinéa du III de l'article R. 253-3 sont également transmis par cette agence aux
-ministres chargés de la santé, du travail, de la consommation, de
-l'environnement, qui peuvent formuler des observations ou demander à être
-consultés par le ministre chargé de l'agriculture sur son projet de décision
-dans les conditions précisées par un arrêté interministériel.
-
-Le ministre chargé de l'agriculture notifie sa décision au demandeur et en
-adresse copie à l'Agence nationale de sécurité sanitaire de l'alimentation, de
-l'environnement et du travail.
-
-Le silence gardé par le ministre chargé de l'agriculture à l'issue des délais
-fixés au premier alinéa du présent article vaut décision de rejet.
-
-Les décisions relatives à la mise sur le marché des produits
-phytopharmaceutiques sont publiées par voie électronique par l'Agence nationale
-de sécurité sanitaire de l'alimentation, de l'environnement et du travail.
+L'Agence tient à jour les listes des rapports d'essais et d'études mentionnées à
+l'article 60 du règlement (CE) n° 1107/2009. Elle met la liste mentionnée au 1
+de l'article précité à la disposition des Etats membres et de la Commission. Les
+demandes mentionnées au 2 du même article sont faites auprès du ministre chargé
+de l'agriculture, qui y répond dans les conditions prévues à l'article 61 du
+règlement précité.

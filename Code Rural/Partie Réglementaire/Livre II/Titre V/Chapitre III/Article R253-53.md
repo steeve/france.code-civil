@@ -1,28 +1,25 @@
 Article R253-53
 ----
-L'introduction sur le territoire national d'un produit phytopharmaceutique
-provenant d'un Etat partie à l'accord sur l'Espace économique européen doit
-faire l'objet d'une demande d'autorisation de mise sur le marché.
+I. ― En vue de déterminer les risques résultant de la mise sur le marché des
+produits phytopharmaceutiques et adjuvants qui ne bénéficient pas de
+l'autorisation ou du permis prévus par les articles R. 253-5 et R. 253-23, les
+agents mentionnés à l'article L. 250-2 peuvent, avant d'ordonner le retrait ou
+la destruction de ces produits, prélever, dans les conditions prévues aux
+articles R. 253-49 à R. 253-52, des échantillons de ceux-ci.
 
-Un arrêté du ministre chargé de l'agriculture, pris après avis des ministres
-chargés de l'industrie, de la consommation, de l'environnement et de la santé,
-fixe la liste des informations à fournir à l'appui de la demande, notamment
-celles relatives au demandeur de l'autorisation et au produit objet de la
-demande.
+Ces agents peuvent ordonner au détenteur qu'il procède à l'inventaire du stock
+de ces produits et, dans le cas où ceux-ci sont dispersés, qu'il les entrepose,
+en un même lieu, dans un délai qu'ils fixent.
 
-En outre, pour établir l'identité entre le produit introduit sur le territoire
-national et le produit de référence, le ministre chargé de l'agriculture peut :
+Dans l'attente de leur retrait ou de leur destruction, les produits sont
+consignés et peuvent être mis sous scellés.
 
-1° Utiliser les informations contenues dans le dossier du produit de référence ;
+II. ― S'il apparaît que des produits ne bénéficiant pas d'une autorisation de
+mise sur le marché ont été cédés, les agents procédant au contrôle peuvent
+ordonner leur rappel dans un délai qu'ils fixent.
 
-2° Demander au détenteur de l'autorisation du produit de référence de lui
-fournir les renseignements dont il dispose ;
-
-3° Demander des renseignements aux autorités de l'Etat qui a autorisé le produit
-faisant l'objet de l'introduction sur le territoire national ainsi que le
-prévoient les dispositions de l'article 9, paragraphe 5, de la directive
-91/414/CEE du Conseil du 15 juillet 1991.
-
-Le délai nécessaire à l'obtention des informations mentionnées aux 2° et 3°
-suspend le délai prévu à l'article 21 de la loi n° 2000-321 du 12 avril 2000
-relative aux droits des citoyens dans leurs relations avec les administrations.
+Le cédant est, dans ce cas, tenu de fournir à ces agents des informations
+relatives notamment aux dates de cession des produits, aux quantités de produits
+cédés, aux nom et adresse du cessionnaire ainsi qu'aux dates de retour et
+quantités de produits retournés. Le contenu de ces informations est défini par
+arrêté du ministre chargé de l'agriculture.

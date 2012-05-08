@@ -1,15 +1,16 @@
 Article R253-29
 ----
-Le ministre chargé de l'agriculture envoie la fiche d'information destinée au
-public accompagnée, le cas échéant, d'un extrait de la décision d'autorisation
-aux préfets des départements et aux maires des communes dans lesquels se
-déroulera la dissémination.
+Sans préjudice des dispositions du 8 de l'article 52 du règlement (CE) n°
+1107/2009, le ministre chargé de l'agriculture peut retirer ou modifier le
+permis de commerce parallèle dans le respect des exigences fixées à l'article 44
+de ce règlement :
 
-Un avis au public annonçant le dépôt de la fiche d'information est affiché en
-mairie aux frais du responsable de la dissémination et par les soins du maire,
-dans les huit jours qui suivent la réception de ladite fiche.
+1° En cas de constatation de non-conformité d'un lot de produits lorsque cette
+non-conformité consiste à substituer volontairement un autre produit au produit
+d'origine pour lequel le permis a été délivré ;
 
-Le ministre tient cette fiche à la disposition du public au secrétariat de la
-commission d'étude de la dissémination des produits issus du génie
-biomoléculaire. Toute personne peut adresser au ministre ses observations sur la
-dissémination.
+2° En cas de constatations de non-conformité de lots de produits laissant
+supposer que tout ou partie des produits mis sur le marché ne remplissent pas
+les conditions pour lesquelles le permis de commerce parallèle a été délivré et
+sont susceptibles de présenter un risque pour la santé publique et
+l'environnement.

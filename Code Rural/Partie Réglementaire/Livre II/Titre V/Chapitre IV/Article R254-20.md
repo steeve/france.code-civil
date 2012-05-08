@@ -16,3 +16,7 @@ arrêté du ministre chargé de l'agriculture, les distributeurs peuvent céder 
 produits dont l'autorisation ne comporte pas la mention : " emploi autorisé dans
 les jardins " à des personnes pour le compte desquelles des utilisateurs
 professionnels vont utiliser les produits phytopharmaceutiques en cause.
+
+Les dispositions du présent article ne s'appliquent pas aux produits
+phytopharmaceutiques visés par un arrêté de lutte obligatoire contre les
+organismes nuisibles pris en application de l'article L. 251-8.

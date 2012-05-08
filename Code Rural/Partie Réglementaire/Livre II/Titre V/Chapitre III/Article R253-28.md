@@ -1,11 +1,18 @@
 Article R253-28
 ----
-Si le ministre chargé de l'agriculture constate que des consultations n'ont pu
-être effectuées ou estime que des informations complémentaires ou des études
-particulières sont nécessaires pour se prononcer sur la demande, il peut
-prolonger le délai prévu à l'article R. 253-27 de la durée correspondante.
+Le reconditionnement des produits bénéficiant d'un permis de commerce parallèle
+est interdit, sauf si le ministre chargé de l'agriculture l'a autorisé, à la
+demande du demandeur, dans le cadre de la demande de permis de commerce
+parallèle.
 
-Il doit alors notifier au demandeur les motifs de cette prolongation ainsi que
-sa durée, laquelle n'est pas prise en compte dans le calcul du délai imparti au
-ministre pour se prononcer sur les demandes et le cas échéant inviter le
-demandeur à lui communiquer des informations complémentaires.
+Le reconditionnement n'est autorisé que sous réserve du respect des conditions
+suivantes :
+
+1° Le reconditionnement est nécessaire pour accéder au marché national, en
+raison de ses contraintes spécifiques, liées à l'emballage ou au contenant du
+produit ;
+
+2° L'intégrité et la traçabilité du produit introduit sont garanties ;
+
+3° Le titulaire de l'autorisation de mise sur le marché du produit introduit a
+été préalablement informé du reconditionnement envisagé.

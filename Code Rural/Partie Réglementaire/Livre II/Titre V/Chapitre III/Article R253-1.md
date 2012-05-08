@@ -1,14 +1,8 @@
 Article R253-1
 ----
-L'autorité administrative mentionnée au premier alinéa de l'article L. 253-3 est
-le ministre chargé de l'agriculture.
-
-Toutefois, lorsque les mesures concernent l'utilisation et la détention de
-produits phytopharmaceutiques, elles sont prises par arrêté conjoint des
-ministres chargés de l'agriculture, de la santé, de l'environnement et de la
-consommation.
-
-Sauf urgence, l'Agence nationale de sécurité sanitaire de l'alimentation, de
-l'environnement et du travail est consultée sur les mesures mentionnées au
-premier alinéa de l'article L. 253-3. Dans les cas d'urgence, elle est informée
-sans délai des dispositions arrêtées.
+Le ministre chargé de l'agriculture est, sauf disposition contraire, l'autorité
+compétente mentionnée au 1 de l'article 75 du règlement (CE) n° 1107/2009 du
+Parlement européen et du Conseil du 21 octobre 2009 concernant la mise sur le
+marché des produits phytopharmaceutiques et abrogeant les directives 79/117/ CEE
+et 91/414/ CEE du Conseil, ainsi que l'autorité administrative mentionnée au
+chapitre III du titre V du livre II du présent code (partie législative).

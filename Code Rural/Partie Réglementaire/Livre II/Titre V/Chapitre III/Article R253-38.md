@@ -1,15 +1,20 @@
 Article R253-38
 ----
-L'autorisation de mise sur le marché d'un produit phytopharmaceutique est
-délivrée pour dix ans par le ministre chargé de l'agriculture, après avis de
-l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement
-et du travail.
+I. ― Sont considérés comme essais officiels les essais visés au 2.2 de l'annexe
+au règlement (UE) n° 545/2011 réalisés par des services et organismes énumérés
+par arrêté du ministre chargé de l'agriculture.
 
-Par dérogation aux dispositions de l'alinéa précédent, les autorisations de mise
-sur le marché en vigueur ou ayant fait l'objet d'une demande de renouvellement
-dans les conditions définies à l'article R. 253-47 avant le 1er octobre 2006,
-concernant un produit contenant au moins une substance active se trouvant sur le
-marché au 25 juillet 1993 et n'ayant pas fait l'objet de la procédure de
-réévaluation communautaire en application de la directive 91/414 CEE du 15
-juillet 1991, restent valables jusqu'à la réévaluation nationale du produit
-consécutive à la réévaluation communautaire de cette substance.
+II. ― Sont considérés comme essais officiellement reconnus les essais visés au
+2.2 de l'annexe au règlement (UE) n° 545/2011 qui font l'objet de déclarations
+auprès du ministre chargé de l'agriculture par le demandeur de l'autorisation de
+mise sur le marché ou pour le compte de ce dernier et qui sont réalisés par
+toute personne physique ou morale agréée à cet effet par le ministre chargé de
+l'agriculture, selon les modalités définies par arrêté, après évaluation de leur
+conformité aux principes des bonnes pratiques d'expérimentation par le Comité
+français d'accréditation (COFRAC) ou par un organisme d'accréditation signataire
+de l'accord multilatéral pris dans le cadre de la coordination européenne des
+organismes d'accréditation.
+
+La décision d'agrément est délivrée par le ministre chargé de l'agriculture dans
+un délai de trois mois à compter de la remise du rapport d'évaluation de leur
+conformité aux principes des bonnes pratiques d'expérimentation.

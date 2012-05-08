@@ -1,15 +1,24 @@
 Article R253-7
 ----
-L'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement
-et du travail dispose d'un délai de dix mois à compter de la réception du projet
-de rapport d'évaluation de la substance active nouvelle pour laquelle la France,
-en application de la réglementation communautaire, n'est pas l'Etat membre
-rapporteur, pour donner au ministre chargé de l'agriculture son avis sur les
-préparations représentatives contenant cette substance.
+Les demandes de modification de nature administrative, ne nécessitant pas qu'une
+évaluation soit réalisée dans les conditions mentionnées à l'article D. 253-13,
+notamment les demandes de transfert d'une autorisation ou d'un permis à un autre
+titulaire, de prise en compte du changement de dénomination sociale du détenteur
+d'un produit, de changement de dénomination commerciale d'un produit, de
+changement d'adresse d'une société, de modification d'une autorisation visant à
+ajouter une nouvelle dénomination commerciale à un produit déjà autorisé, de
+retrait d'autorisation ou de permis à l'initiative des détenteurs, sont
+adressées à l'Agence, qui procède aux vérifications du dossier de demande et aux
+enregistrements rendus nécessaires par la modification en cause dans un délai
+d'un mois à compter de la date de réception de la demande. Ces demandes de
+modification ne font pas l'objet d'un avis ou d'une recommandation de l'Agence
+au sens de l'article L. 1313-1 du code de la santé publique, mais d'une
+information du ministre chargé de l'agriculture. L'Agence informe le demandeur
+de cette transmission.
 
-Lorsque la France est désignée, en application de la réglementation
-communautaire, comme Etat membre rapporteur, l'Agence nationale de sécurité
-sanitaire de l'alimentation, de l'environnement et du travail transmet au
-ministre chargé de l'agriculture, dans les délais prévus par la réglementation
-communautaire, son projet de rapport d'évaluation pour la substance active ainsi
-que son avis sur les préparations représentatives de la substance.
+Le ministre chargé de l'agriculture notifie sa décision au demandeur dans un
+délai d'un mois à compter de la réception de l'information prévue au premier
+alinéa.
+
+A défaut de réponse dans un délai de deux mois après la réception de la demande,
+celle-ci est considérée comme tacitement acceptée.

@@ -1,6 +1,5 @@
 Article R253-34
 ----
-Si, pour quelque raison que ce soit, le demandeur retire sa demande
-d'autorisation, le ministre chargé de l'agriculture et le ministre chargé de
-l'environnement ne peuvent divulguer les informations relatives au projet de
-dissémination contenues dans le dossier de la demande.
+Le ministre chargé de l'agriculture statue sur toutes les demandes de
+confidentialité qui lui sont transmises. Il notifie sa décision sur ces demandes
+au moment de la délivrance de la décision d'autorisation de mise sur le marché.

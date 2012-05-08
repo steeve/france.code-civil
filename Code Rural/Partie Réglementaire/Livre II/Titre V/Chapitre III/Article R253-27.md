@@ -1,17 +1,19 @@
 Article R253-27
 ----
-L'accord du ministre chargé de l'environnement est réputé acquis si ce dernier
-n'a pas fait connaître au ministre chargé de l'agriculture son opposition à
-l'autorisation dans un délai de quatorze jours à compter soit de la date de
-réception de l'avis de la commission d'étude de la dissémination des produits
-issus du génie biomoléculaire, soit de la date d'expiration du délai de soixante
-jours imparti à ladite commission pour se prononcer.
+I. ― Pour l'application de l'article R. 253-26, constitue une introduction de
+produits phytopharmaceutiques pour usage personnel le fait, pour les personnes
+exerçant une activité dans une exploitation agricole au sens de l'article L.
+311-1, d'introduire, pour les seuls besoins de cette exploitation, un produit
+phytopharmaceutique pour lequel un permis de commerce parallèle a déjà été
+délivré. La personne procédant à l'introduction d'un produit phytopharmaceutique
+pour usage personnel en fait la déclaration au préfet de la région du lieu de sa
+résidence administrative, en précisant les quantités nécessaires à
+l'exploitation et la date d'introduction des produits, dans un délai minimum de
+vingt jours avant cette date. Le préfet accuse immédiatement réception de cette
+déclaration d'introduction, à laquelle il peut s'opposer dans un délai de quinze
+jours.
 
-Le ministre chargé de l'agriculture notifie sa décision dans un délai de
-quatre-vingt-dix jours à compter de la date d'enregistrement de la demande. Le
-refus d'autorisation doit être motivé sous réserve des dispositions de l'article
-R. 253-28 ; l'absence de décision à l'expiration de ce délai de quatre-vingt-dix
-jours vaut refus d'autorisation.
-
-L'autorisation peut être assortie de prescriptions spéciales, notamment celles
-relatives aux mesures accompagnant la dissémination.
+II. ― Lorsque la personne mentionnée au I emploie des personnes susceptibles
+d'utiliser les produits introduits, elle affiche dans son local de stockage des
+produits phytopharmaceutiques les mentions d'étiquetage obligatoires mentionnées
+à l'article R. 253-26.
