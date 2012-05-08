@@ -1,6 +1,5 @@
 Article R2124-67
 ----
-Les concessions de logement sont accordées au nom du ministre chargé du domaine
-et du ministre sous l'autorité duquel se trouve placé l'agent bénéficiaire, par
-arrêté pris par le préfet, après avis du directeur départemental des finances
-publiques.
+La concession de logement accordée par nécessité absolue de service comporte la
+gratuité de la prestation du logement nu. Elle est accordée par priorité dans
+des immeubles appartenant à l'Etat.

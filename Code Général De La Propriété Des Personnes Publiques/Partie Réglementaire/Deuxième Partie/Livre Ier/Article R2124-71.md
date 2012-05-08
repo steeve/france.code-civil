@@ -1,11 +1,9 @@
 Article R2124-71
 ----
-Le directeur départemental des finances publiques est compétent pour déterminer
-la redevance, conformément aux règles fixées par l'article R. 2124-70, et pour
-la réviser ou la modifier conformément à la législation relative aux loyers des
-locaux à usage d'habitation. La redevance due commence à courir soit à compter
-de la date de notification de l'autorisation, soit à compter de la date de
-l'occupation du logement si elle est antérieure. Le directeur départemental des
-finances publiques recouvre cette redevance comme en matière de produit du
-domaine de l'Etat, dans les conditions fixées aux articles R. 2321-1, R. 2321-2,
-R. 2321-6, D. 2321-7, R. 2321-9 et R. 2323-1.
+Le bénéficiaire d'une concession de logement par nécessité absolue de service ou
+d'une convention d'occupation précaire avec astreinte supporte l'ensemble des
+réparations locatives et des charges locatives afférentes au logement qu'il
+occupe, déterminées conformément à la législation relative aux loyers des locaux
+à usage d'habitation, ainsi que les impôts ou taxes qui sont liés à l'occupation
+des locaux. Il souscrit une assurance contre les risques dont il doit répondre
+en qualité d'occupant.

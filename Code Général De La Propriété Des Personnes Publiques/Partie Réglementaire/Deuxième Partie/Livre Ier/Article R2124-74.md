@@ -1,6 +1,10 @@
 Article R2124-74
 ----
-Les dispositions des articles R. 2124-64 à R. 2124-73 sont applicables aux
-personnels militaires du ministère de la défense, dans les conditions fixées par
-arrêté conjoint du ministre chargé des finances, du ministre chargé de la
-fonction publique et du ministre de la défense.
+L'occupant qui ne peut justifier d'un titre est susceptible de faire l'objet
+d'une mesure d'expulsion.
+
+En outre, pour toute la période pendant laquelle il occupe les locaux sans
+titre, notamment dans le cas où son titre est venu à expiration, il est astreint
+au paiement d'une redevance fixée par le directeur départemental des finances
+publiques, égale à la valeur locative réelle des locaux occupés. Cette redevance
+est majorée de 50 % pour les six premiers mois, de 100 % au-delà.

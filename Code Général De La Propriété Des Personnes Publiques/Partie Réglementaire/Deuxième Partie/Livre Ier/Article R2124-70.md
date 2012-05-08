@@ -1,11 +1,11 @@
 Article R2124-70
 ----
-La redevance mise à la charge du bénéficiaire d'une concession de logement par
-utilité de service est égale à la valeur locative des locaux occupés, déterminée
-conformément à la législation relative aux loyers des locaux à usage
-d'habitation. Cette valeur locative est diminuée d'un abattement destiné à tenir
-compte : 1° De l'obligation faite au fonctionnaire de loger dans les locaux
-concédés ; 2° De la précarité de l'occupation ; 3° Des charges anormales que la
-concession de logement ferait supporter à son bénéficiaire eu égard à sa
-situation administrative. Les modalités de calcul de cet abattement sont fixées
-par arrêté du ministre chargé du domaine.
+Le directeur départemental des finances publiques est compétent pour déterminer
+la redevance prévue à l'article R. 2124-68 et pour la réviser ou la modifier.
+
+La redevance due commence à courir à compter de la date de l'occupation des
+locaux.
+
+La redevance et, s'il y a lieu, les remboursements à la charge de l'occupant
+font l'objet d'un précompte mensuel, dans des conditions définies par arrêté du
+ministre chargé du budget, sur la rémunération de l'agent bénéficiaire.
