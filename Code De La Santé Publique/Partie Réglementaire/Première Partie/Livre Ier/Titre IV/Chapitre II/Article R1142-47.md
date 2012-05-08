@@ -36,6 +36,5 @@ des dommages mentionnés au troisième alinéa de l'article L. 1142-22.
 En cas de vacance, un nouveau membre est nommé dans les mêmes conditions que son
 prédécesseur pour la durée du mandat restant à courir.
 
-Les membres du conseil d'orientation sont soumis aux dispositions du troisième
-alinéa de l'article L. 1142-24-3. La déclaration prévue à cet alinéa est rendue
-publique sur le site internet de l'office, mentionné à l'article L. 1142-22.
+Les membres du conseil d'orientation sont soumis aux dispositions de l'article
+L. 1451-1.

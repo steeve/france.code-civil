@@ -12,8 +12,7 @@ Les délibérations sont adoptées à la majorité des voix des membres présent
 représentés. En cas de partage égal des voix, la voix du président est
 prépondérante.
 
-Les membres du conseil ne peuvent prendre part à la délibération lorsqu'ils ont
-un intérêt direct ou indirect à l'affaire qui en est l'objet.
+Les membres du conseil sont soumis aux dispositions de l'article L. 1451-1.
 
 Assistent au conseil d'administration avec voix consultative le directeur
 général de l'établissement, l'autorité chargée du contrôle financier et l'agent

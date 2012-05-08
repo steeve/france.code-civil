@@ -10,7 +10,7 @@ général des fonctionnaires de l'Etat et des collectivités territoriales ;
 établissements ou entreprises en relation avec la Haute Autorité, aucun intérêt
 de nature à compromettre leur indépendance.
 
-Ces agents sont soumis aux dispositions du décret n° 95-168 du 17 février 1995
-modifié relatif à l'exercice d'activités privées par des fonctionnaires ou
-agents non titulaires ayant cessé définitivement leurs fonctions et aux
-commissions instituées par la loi n° 94-530 du 28 juin 1994.
+Ces agents sont soumis aux dispositions du décret n° 2007-611 du 26 avril 2007
+relatif à l'exercice d'activités privées par des fonctionnaires ou agents non
+titulaires ayant cessé temporairement ou définitivement leurs fonctions et à la
+commission de déontologie.

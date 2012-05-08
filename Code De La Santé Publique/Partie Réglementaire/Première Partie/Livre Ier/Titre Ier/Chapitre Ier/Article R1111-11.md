@@ -23,7 +23,7 @@ systèmes d'information et de nouvelles technologies ;
 c) Une personne choisie en raison de ses compétences dans le domaine économique
 et financier.
 
-Le directeur général de la santé, le directeur général de l'offre de soins , le
+Le directeur général de la santé, le directeur général de l'offre de soins, le
 directeur général des patrimoines, le directeur général des entreprises et le
 directeur général de la concurrence, de la consommation et de la répression des
 fraudes, ou leurs représentants, assistent aux séances du comité avec voix
@@ -33,19 +33,7 @@ II.-Les membres du comité d'agrément, dont celui qui, parmi eux, exercera la
 présidence du comité, sont nommés pour cinq ans par arrêté du ministre chargé de
 la santé. Leur mandat est renouvelable une fois.
 
-Lors de leur entrée en fonction, les membres du comité adressent au président
-une déclaration mentionnant toute activité personnelle ou professionnelle en
-rapport direct ou indirect avec les missions du comité, ainsi que les liens
-directs ou indirects qu'ils peuvent avoir avec tout organisme hébergeant ou
-susceptible d'héberger des données de santé à caractère personnel ou avec les
-organismes professionnels et les sociétés de conseil intervenant dans le domaine
-de compétence du comité. Ils s'engagent à signaler toute modification concernant
-cette situation.
-
-Ils ne peuvent siéger lorsque est examinée une affaire relative à un organisme
-au sein duquel ils détiennent un intérêt, exercent des fonctions ou détiennent
-un mandat, ou au sein duquel ils ont, au cours des dix-huit mois précédant la
-séance, détenu un intérêt, exercé des fonctions ou détenu un mandat.
+Ils sont soumis aux dispositions de l'article L. 1451-1.
 
 Des suppléants en nombre égal au nombre de titulaires sont désignés dans les
 mêmes conditions que ceux-ci. Un membre titulaire empêché ou intéressé par une

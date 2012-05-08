@@ -12,12 +12,6 @@ santé publique et aux dispositions du premier alinéa de l'article L. 4113-13 d
 code de la santé publique. En cas de manquement à ces dispositions, le collège
 statuant à la majorité de ses membres peut mettre fin à leurs fonctions.
 
-Ces personnes adressent au président du collège, à l'occasion de leur nomination
-ou de leur entrée en fonctions, une déclaration mentionnant leurs liens, directs
-ou indirects, avec les entreprises ou établissements dont les produits entrent
-dans son champ de compétence, ainsi qu'avec les sociétés ou organismes de
-conseil intervenant dans ces secteurs. Cette déclaration est rendue publique et
-est actualisée à leur initiative dès qu'une modification intervient concernant
-ces liens ou que de nouveaux liens sont noués.
-
-Les dispositions de l'article R. 4113-110 leur sont applicables.
+Les personnes mentionnées au précédent alinéa sont soumises aux dispositions de
+l'article L. 1451-1 du code de la santé publique. Celles de l'article R.
+4113-110 du même code leur sont applicables.
