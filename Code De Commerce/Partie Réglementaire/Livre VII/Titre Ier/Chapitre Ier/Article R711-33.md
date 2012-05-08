@@ -47,5 +47,3 @@ Conformément au I de l'article L. 711-10, elles peuvent déléguer une partie d
 ces fonctions de soutien, à l'exception de la paie qui est centralisée à leur
 niveau, à l'une des chambres qui leur sont rattachées, mais sans qu'une fonction
 de soutien puisse être fractionnée, ou déléguée à plusieurs chambres rattachées.
-Ce transfert de charge à une chambre de commerce et d'industrie territoriale ou
-départementale d'Ile-de-France peut faire l'objet de contreparties budgétaires.
