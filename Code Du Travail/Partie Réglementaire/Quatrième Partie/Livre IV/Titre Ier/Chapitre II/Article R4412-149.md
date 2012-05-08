@@ -12,9 +12,7 @@ NUMÉRO CE (1)
 
 NUMÉRO CAS (2)
 
-VALEUR LIMITE d'exposition professionnelle
-
-VALEUR LIMITE d'exposition professionnelle
+VALEUR LIMITE D'EXPOSITION PROFESSIONNELLE
 
 
 OBSERVATIONS
@@ -29,15 +27,15 @@ mg/m³ (5)
 
 ppm (6)
 
-fibres par cm³
+Fibres/ cm³
 
 mg/m³
 
 ppm
 
-fibres par cm³
+Fibres/ cm³
 
-Acétate d'isopentyle.
+Acétate d'isopentyle
 
 204-662-3
 
@@ -51,11 +49,59 @@ Acétate d'isopentyle.
 
 100
 
-?
+-
 
-?
+-
 
-Acétate de 2-méthoxy-1- éthyléthyle.
+Acétate de 2-butoxyéthyle
+
+203-933-3
+
+112-07-2
+
+66,5
+
+10
+
+333
+
+50
+
+Peau (7)
+
+Acétate de 2-éthoxyéthyle
+
+203-839-2
+
+111-15-9
+
+11
+
+2
+
+-
+
+-
+
+Peau (7)
+
+Acétate de 2-méthoxyéthyle
+
+203-772-9
+
+110-49-6
+
+5
+
+1
+
+-
+
+-
+
+Peau (7)
+
+Acétate de 2-méthoxy-1- méthyléthyle
 
 203-603-9
 
@@ -71,9 +117,9 @@ Acétate de 2-méthoxy-1- éthyléthyle.
 
 Peau (7)
 
-?
+-
 
-Acétate de 1-méthylbutyle.
+Acétate de 1-méthylbutyle
 
 210-946-8
 
@@ -87,11 +133,12 @@ Acétate de 1-méthylbutyle.
 
 100
 
-?
+-
 
-?
+-
 
-Acétate de pentyle.
+
+Acétate de pentyle
 
 211-047-3
 
@@ -105,11 +152,31 @@ Acétate de pentyle.
 
 100
 
-?
+-
 
-?
+-
 
-Acétone.
+
+Acétate de vinyle
+
+203-545-4
+
+108-05-4
+
+17,6
+
+5
+
+35,2
+
+10
+
+-
+
+-
+
+
+Acétone
 
 200-662-2
 
@@ -123,11 +190,12 @@ Acétone.
 
 1 000
 
-?
+-
 
-?
+-
 
-Acétonitrile.
+
+Acétonitrile
 
 200-835-2
 
@@ -137,31 +205,80 @@ Acétonitrile.
 
 40
 
-?
+-
 
-?
+-
 
 Peau (7)
 
-Acide chlorhydrique.
+Acide chlorhydrique
 
 231-595-7
 
 7647-01-0
 
-?
+-
 
-?
+-
 
 7,6
 
 5
 
-?
+-
 
-?
+-
 
-2-aminoéthanol.
+Acide cyanhydrique (8)
+
+200-821-6
+
+74-90-8
+
+2
+
+2
+
+10
+
+10
+
+-
+
+Acrylate d'éthyle
+
+205-438-8
+
+140-88-5
+
+21
+
+5
+
+42
+
+10
+
+-
+
+
+Acrylate de méthyle
+
+202-500-6
+
+96-33-3
+
+18
+
+5
+
+36
+
+10
+
+-
+
+2-aminoéthanol
 
 205-483-3
 
@@ -177,7 +294,8 @@ Acide chlorhydrique.
 
 Peau (7)
 
-Ammoniac anhydre.
+
+Ammoniac anhydre
 
 231-635-3
 
@@ -191,11 +309,12 @@ Ammoniac anhydre.
 
 20
 
-?
+-
 
-?
+-
 
-Azide de sodium.
+
+Azide de sodium
 
 247-852-1
 
@@ -207,9 +326,10 @@ Azide de sodium.
 
 Peau (7)
 
-?
+-
 
-Benzène.
+
+Benzène
 
 200-753-7
 
@@ -219,27 +339,40 @@ Benzène.
 
 1
 
-?
+-
 
-?
+-
 
 Peau (7)
 
-?
+-
 
-Bois (poussières de).
+Bisphénol A (poussières inhalables)
+
+201-245-8
+
+80-05-7
+
+10
+
+-
+
+-
+
+Bois (poussières de)
 
 1
 
-?
+-
 
-?
+-
 
-?
+-
 
-?
+-
 
-Brome.
+
+Brome
 
 231-778-1
 
@@ -249,13 +382,30 @@ Brome.
 
 0,1
 
-?
+-
 
-?
+-
 
-?
+-
 
-Butanone.
+Bromure de méthyle (8)
+
+200-813-2
+
+74-83-9
+
+20
+
+5
+
+-
+
+-
+
+-
+
+
+Butanone
 
 201-159-0
 
@@ -271,25 +421,43 @@ Butanone.
 
 Peau (7)
 
-?
+-
 
-Chlore.
+2- butoxyéthanol
+
+203-905-0
+
+111-76-2
+
+49
+
+10
+
+246
+
+50
+
+Peau (7)
+
+
+Chlore
 
 231-959-5
 
 7782-50-5
 
-?
+-
 
-?
+-
 
 1,5
 
 0,5
 
-?
+-
 
-Chlorobenzène.
+
+Chlorobenzène
 
 203-628-5
 
@@ -303,11 +471,12 @@ Chlorobenzène.
 
 15
 
-?
+-
 
-?
+-
 
-Chloroforme.
+
+Chloroforme
 
 200-663-8
 
@@ -317,15 +486,16 @@ Chloroforme.
 
 2
 
-?
+-
 
-?
+-
 
 Peau (7)
 
-?
+-
 
-Chlorure de vinyle monomère.
+
+Chlorure de vinyle monomère
 
 200-831-0
 
@@ -335,15 +505,25 @@ Chlorure de vinyle monomère.
 
 1
 
-?
+-
 
-?
+-
 
-?
+-
 
-?
+-
 
-Cumène.
+
+Chrome hexavalent et ses composés
+
+0,001
+
+0,005
+
+Peau (7)
+
+
+Cumène
 
 202-704-5
 
@@ -359,9 +539,10 @@ Cumène.
 
 Peau (7)
 
-?
+-
 
-Cyclohexane.
+
+Cyclohexane
 
 203-806-2
 
@@ -371,13 +552,14 @@ Cyclohexane.
 
 200
 
-?
+-
 
-?
+-
 
-?
+-
 
-Cyclohexanone.
+
+Cyclohexanone
 
 203-631-1
 
@@ -391,11 +573,11 @@ Cyclohexanone.
 
 20
 
-?
+-
 
-?
+-
 
-1,2-dichlorobenzène.
+1,2 -dichloro benzène
 
 202-425-9
 
@@ -411,9 +593,25 @@ Cyclohexanone.
 
 Peau (7)
 
-?
+-
 
-N, N-diméthylacéta-mide.
+Dichlo rométhane
+
+200-838-9
+
+75-09-2
+
+178
+
+50
+
+356
+
+100
+
+Peau (7)
+
+N, N-diméthy lacéta-mide
 
 204-826-4
 
@@ -429,9 +627,26 @@ N, N-diméthylacéta-mide.
 
 Peau (7)
 
-?
+-
 
-Diméthylamine.
+N, N-diméthyl formamide
+
+200-679-5
+
+68-12-2
+
+15
+
+5
+
+30
+
+10
+
+Peau (7)
+
+
+Diméthylamine
 
 204-697-4
 
@@ -445,11 +660,12 @@ Diméthylamine.
 
 2
 
-?
+-
 
-?
+-
 
-Diéthylamine.
+
+Diéthylamine
 
 203-716-3
 
@@ -463,9 +679,57 @@ Diéthylamine.
 
 10
 
-?
+-
 
-Ethylamine.
+-
+
+
+Disulfure de carbone
+
+200-843-6
+
+75-15-0
+
+15
+
+5
+
+-
+
+-
+
+Peau (7)
+
+1,4-dioxane
+
+204-661-8
+
+123-91-1
+
+73
+
+20
+
+-
+
+-
+
+-
+
+2- éthoxyéthanol
+
+203-804-1
+
+110-80-5
+
+8
+
+2
+
+Peau (7)
+
+
+Ethylamine
 
 200-834-7
 
@@ -479,11 +743,12 @@ Ethylamine.
 
 15
 
-?
+-
 
-?
+-
 
-Ethylbenzène.
+
+Ethylbenzène
 
 202-849-4
 
@@ -499,15 +764,14 @@ Ethylbenzène.
 
 Peau (7)
 
-?
+-
 
-Fibres céramiques réfractaires classées cancérogènes.
+
+Fibres céramiques réfractaires classées cancérogènes
 
 0,1
 
-Valeur limite (3) : 0,5 fibres par cm³ jusqu'au 30 juin 2009.
-
-Fluorure d'hydrogène.
+Fluorure d'hydrogène
 
 231-634-8
 
@@ -521,11 +785,11 @@ Fluorure d'hydrogène.
 
 3
 
-?
+-
 
-?
+-
 
-n-heptane.
+n-heptane
 
 205-563-8
 
@@ -539,11 +803,12 @@ n-heptane.
 
 500
 
-?
+-
 
-?
+-
 
-Heptane-2-one.
+
+Heptane-2-one
 
 203-767-1
 
@@ -559,9 +824,10 @@ Heptane-2-one.
 
 Peau (7)
 
-?
+-
 
-Heptane-3-one.
+
+Heptane-3-one
 
 203-388-1
 
@@ -571,15 +837,16 @@ Heptane-3-one.
 
 20
 
-?
+-
 
-?
+-
 
-?
+-
 
-?
+-
 
-n-hexane.
+
+N-hexane
 
 203-777-6
 
@@ -589,13 +856,46 @@ n-hexane.
 
 20
 
-?
+-
 
-?
+-
 
-?
+-
 
-Méthanol.
+-
+
+
+Isocyanate de méthyle
+
+210-866-3
+
+624-83-9
+
+-
+
+0,02
+
+-
+
+
+Méthacrylate de méthyle
+
+201-297-1
+
+80-62-6
+
+205
+
+50
+
+410
+
+100
+
+-
+
+
+Méthanol
 
 200-659-6
 
@@ -605,13 +905,25 @@ Méthanol.
 
 200
 
-?
+-
 
-?
+-
 
 Peau (7)
 
-(2-méthoxyméthyl éthoxy)-propanol.
+2- méthoxy éthanol
+
+203-713-7
+
+109-86-4
+
+3,2
+
+1
+
+Peau (7)
+
+(2- méthoxy méthylé thoxy)-propanol
 
 252-104-2
 
@@ -621,15 +933,15 @@ Peau (7)
 
 50
 
-?
+-
 
-?
+-
 
 Peau (7)
 
-?
+-
 
-1-méthoxypropane-2-ol.
+1- méthoxy propane-2-ol
 
 203-539-1
 
@@ -645,9 +957,9 @@ Peau (7)
 
 Peau (7)
 
-?
+-
 
-4-méthylpentane-2-one.
+4- méthylpentane- 2-one
 
 203-550-1
 
@@ -661,11 +973,21 @@ Peau (7)
 
 50
 
-?
+-
 
-?
+-
 
-Morpholine.
+Mercure et composés inorganiques bivalents du mercure, y compris l'oxyde de
+mercure et le chlorure mercurique
+
+0,02
+
+-
+
+-
+
+
+Morpholine
 
 203-815-1
 
@@ -679,9 +1001,10 @@ Morpholine.
 
 20
 
-?
+-
 
-Oxyde de diéthyle.
+
+Oxyde de diéthyle
 
 200-467-2
 
@@ -695,11 +1018,29 @@ Oxyde de diéthyle.
 
 200
 
-?
+-
 
-?
+-
 
-Pentachlorure de phosphore.
+
+Oxyde tert-butyle et de méthyle
+
+216-653-1
+
+1634-04-4
+
+183,5
+
+50
+
+367
+
+100
+
+-
+
+
+Pentachlorure de phosphore
 
 233-060-3
 
@@ -707,15 +1048,16 @@ Pentachlorure de phosphore.
 
 1
 
-?
+-
 
-?
+-
 
-?
+-
 
-?
+-
 
-Pentane.
+
+Pentane
 
 203-692-4
 
@@ -725,13 +1067,14 @@ Pentane.
 
 1 000
 
-?
+-
 
-?
+-
 
-?
+-
 
-Phénol.
+
+Phénol
 
 203-632-7
 
@@ -747,9 +1090,10 @@ Phénol.
 
 Peau (7)
 
-?
+-
 
-Phosgène.
+
+Phosgène
 
 200-870-3
 
@@ -763,11 +1107,12 @@ Phosgène.
 
 0,1
 
-?
+-
 
-?
+-
 
-Phosphine.
+
+Phosphine
 
 232-260-8
 
@@ -777,33 +1122,35 @@ Phosphine.
 
 0,1
 
-?
+-
 
-?
+-
 
-?
+-
 
-Plomb métallique et ses composés.
 
-0,1
-
-Limite pondérale définie en plomb métal (Pb).
-
-?
-
-Silice (poussières alvéolaires de quartz).
+Plomb métallique et ses composés
 
 0,1
 
-Silice (poussières alvéolaires de cristobalite).
+Limite pondérale définie en plomb métal (Pb)
+
+-
+
+Silice (poussières alvéolaires de quartz)
+
+0,1
+
+Silice (poussières alvéolaires de cristobalite)
 
 0,05
 
-Silice (poussières alvéolaires de tridymite).
+Silice (poussières alvéolaires de tridymite)
 
 0,05
 
-Sulfotep.
+
+Sulfotep
 
 222-995-2
 
@@ -811,17 +1158,49 @@ Sulfotep.
 
 0,1
 
-?
+-
 
-?
+-
 
-?
+-
 
 Peau (7)
 
-?
+-
 
-Tétrahydrofurane.
+Sulfure d'hydrogène
+
+231-977-3
+
+7783-06-4
+
+7
+
+5
+
+14
+
+10
+
+-
+
+Tétrachlo roéthylène
+
+204-825-9
+
+127-18-4
+
+138
+
+20
+
+275
+
+40
+
+-
+
+Tétra hydrofurane
 
 203-726-8
 
@@ -837,17 +1216,18 @@ Tétrahydrofurane.
 
 Peau (7)
 
-?
+-
 
-Toluène.
+
+Toluène
 
 203-625-9
 
 108-88-3
 
-192
+76,8
 
-50
+20
 
 384
 
@@ -855,7 +1235,7 @@ Toluène.
 
 Peau (7)
 
-1,2,4-trichlorobenzène.
+1,2,4- trichloro benzène
 
 204-428-0
 
@@ -871,9 +1251,9 @@ Peau (7)
 
 Peau (7)
 
-?
+-
 
-1,1,1-trichloroéthane.
+1,1,1- trichloro éthane
 
 200-756-3
 
@@ -887,11 +1267,12 @@ Peau (7)
 
 200
 
-?
+-
 
-?
+-
 
-Triéthylamine.
+
+Triéthylamine
 
 204-469-4
 
@@ -907,9 +1288,9 @@ Triéthylamine.
 
 Peau (7)
 
-?
+-
 
-1,2,3-triméthylbenzène.
+1,2,3- triméthyl benzène
 
 208-394-8
 
@@ -923,11 +1304,11 @@ Peau (7)
 
 50
 
-?
+-
 
-?
+-
 
-1,2,4-triméthylbenzène.
+1,2,4- triméthyl benzène
 
 202-436-9
 
@@ -941,11 +1322,11 @@ Peau (7)
 
 50
 
-?
+-
 
-?
+-
 
-1,3,5-triméthylbenzène (mésitylène).
+1,3,5- triméthyl benzène (mésitylène)
 
 203-604-4
 
@@ -959,11 +1340,11 @@ Peau (7)
 
 50
 
-?
+-
 
-?
+-
 
-m-xylène.
+m-xylène
 
 203-576-3
 
@@ -979,9 +1360,9 @@ m-xylène.
 
 Peau (7)
 
-?
+-
 
-o-xylène.
+o-xylène
 
 202-422-2
 
@@ -997,9 +1378,9 @@ o-xylène.
 
 Peau (7)
 
-?
+-
 
-p-xylène.
+p-xylène
 
 203-396-5
 
@@ -1015,9 +1396,9 @@ p-xylène.
 
 Peau (7)
 
-?
+-
 
-Xylène : mélange d'isomères.
+Xylène : mélange d'isomères
 
 215-535-7
 
@@ -1033,14 +1414,25 @@ Xylène : mélange d'isomères.
 
 Peau (7)
 
-?
+-
 
-(1) Inventaire européen des substances chimiques existantes (EINECS). (2) Numéro
-du Chemical Abstract Service (American Chemical Society). (3) Mesurée ou
-calculée par rapport à une période de référence de huit heures, moyenne pondérée
-dans le temps. (4) Valeur limite au-dessus de laquelle il ne doit pas y avoir
-d'exposition et qui se rapporte à une période de quinze minutes sauf indication
-contraire. (5) mg/m³ : milligrammes par mètre cube d'air à 20 °C et 101,3 kPa
-(760 mm de mercure). (6) ppm : partie par million en volume dans l'air (ml/m³).
-(7) la mention "peau" accompagnant la limite d'exposition professionnelle
+(1) Inventaire européen des substances chimiques existantes (EINECS).
+
+(2) Numéro du Chemical Abstract Service (American Chemical Society).
+
+(3) Mesurée ou calculée par rapport à une période de référence de 8 heures,
+moyenne pondérée dans le temps.
+
+(4) Valeur limite au-dessus de laquelle il ne doit pas y avoir d'exposition et
+qui se rapporte à une période de quinze minutes, sauf indication contraire.
+
+(5) mg/ m³ : milligrammes par mètre cube d'air à 20 °C et 101,3 kPa (760 mm de
+mercure).
+
+(6) ppm : partie par million en volume dans l'air (ml/m³).
+
+(7) La mention "peau" accompagnant la limite d'exposition professionnelle
 indique la possibilité d'une pénétration cutanée importante.
+
+(8) Gaz destinés aux opérations de fumigation exercées dans les conditions du
+décret n° 88-448 du 26 avril 1988.
