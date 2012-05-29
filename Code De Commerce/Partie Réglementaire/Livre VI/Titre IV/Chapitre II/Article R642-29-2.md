@@ -1,34 +1,36 @@
 Article R642-29-2
 ----
 Seules sont applicables à la cession des actifs du débiteur par voie
-d'adjudication judiciaire celles des dispositions du chapitre VI du titre Ier du
-décret n° 2006-936 du 27 juillet 2006 qui sont mentionnées ci-après.
+d'adjudication judiciaire celles des dispositions de la section 4 du chapitre II
+du titre II du livre III du code des procédures civiles d'exécution qui sont
+mentionnées ci-après.
 
-A l'audience d'adjudication, il est procédé comme il est dit à la section 2 du
-chapitre VI du même décret.
+A l'audience d'adjudication, il est procédé comme il est dit à la sous-section 3
+de la section 4 susmentionnée.
 
-L'article 86 du même décret est applicable au paiement des frais taxés.
+L'article R. 322-58 du code des procédures civiles d'exécution est applicable au
+paiement des frais taxés.
 
 Outre les mentions prescrites pour tout jugement, le jugement d'adjudication
 vise l'ordonnance du juge-commissaire ayant ordonné la vente, les jugements
 tranchant les contestations et le cahier des conditions de vente. Il désigne le
 poursuivant. Il mentionne les éléments énumérés aux troisième et quatrième
-phrases de l'article 87 du même décret.
+phrases de l'article R. 322-59 du même code.
 
 Le jugement d'adjudication est notifié par le poursuivant au débiteur, aux
 créanciers inscrits, à l'adjudicataire, ainsi qu'à toute personne ayant élevé
 une contestation tranchée par la décision.
 
 Les modalités de recours à l'encontre de ce jugement sont fixées par les
-dispositions du deuxième alinéa de l'article 88 du même décret.
+dispositions du deuxième alinéa de l'article R. 322-60 du même code.
 
-Les dispositions des articles 89 à 91 du même décret sont applicables au titre
-de vente.
+Les dispositions des articles R. 322-61 à R. 322-63 du même code sont
+applicables au titre de vente.
 
-La vente par adjudication judiciaire produit les effets prévus par l'article 92
-du même décret.
+La vente par adjudication judiciaire produit les effets prévus par l'article R.
+322-64 du même code.
 
-La surenchère est régie par les articles 94 à 99 du même décret.
+La surenchère est régie par les articles R. 322-50 à R. 322-55 du même code.
 
-La réitération des enchères est régie par les articles 100 à 106 du même
-décret..
+La réitération des enchères est régie par les articles R. 322-66 à R. 322-72 du
+même code.

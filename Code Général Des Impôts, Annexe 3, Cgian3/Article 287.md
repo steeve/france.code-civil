@@ -1,6 +1,6 @@
 Article 287
 ----
-Il est alloué un salaire fixe de 15 euros :
+Il est alloué un salaire fixe de 15 € :
 
 pour chaque publication ne donnant pas ouverture au salaire proportionnel,
 notamment :
@@ -11,16 +11,14 @@ de substitution et pour chaque mention de prorogation de délai ;
 
 2° pour la publication de chaque commandement valant saisie immobilière ;
 
-3° pour la mention de l'assignation et des dénonciations prévues à l'article 43
-du décret n° 2006-936 du 27 juillet 2006 relatif aux procédures de saisie
-immobilière et de distribution du prix d'un immeuble ;
+3° pour la mention de l'assignation et des dénonciations prévues à l'article R.
+322-9 du code des procédures civiles d'exécution ;
 
 4° pour l'acte du conservateur constatant son refus de publier un commandement
 valant saisie en cas de commandement transcrit ;
 
-5° pour la mention prévue à l'article 22 du décret n° 2006-936 du 27 juillet
-2006 relatif aux procédures de saisie immobilière et de distribution du prix
-d'un immeuble ;
+5° pour la mention prévue à l'article R. 321-10 du code des procédures civiles
+d'exécution ;
 
 6° pour la radiation de la saisie ;
 

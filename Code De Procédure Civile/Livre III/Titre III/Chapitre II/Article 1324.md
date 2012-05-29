@@ -1,11 +1,12 @@
 Article 1324
 ----
 Lorsqu'il n'y a pas de successible connu et si le contrat de location a pris
-fin, le président du tribunal de grande instance ou son délégué peut autoriser
-le propriétaire des locaux à faire enlever les meubles et à les faire soit
-déposer dans un autre lieu, soit cantonner dans une partie du local qui était
-occupé par le défunt. Les frais d'enlèvement et de conservation des meubles sont
-avancés par le propriétaire.
+fin, le président du tribunal de grande instance ou son délégué peut autoriser,
+dans les conditions prévues au premier alinéa de l'article 1325, le propriétaire
+des locaux à faire enlever les meubles et à les faire soit déposer dans un autre
+lieu, soit cantonner dans une partie du local qui était occupé par le défunt.
+Les frais d'enlèvement et de conservation des meubles sont avancés par le
+propriétaire.
 
 L'huissier de justice assiste au déplacement des meubles et dresse procès-verbal
 des opérations.

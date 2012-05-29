@@ -20,6 +20,5 @@ créanciers colloqués à qui ce retard peut être préjudiciable.
 
 La Caisse des dépôts et consignations ne peut être tenue de payer aucun
 mandement ou bordereau de collocation avant la remise de cet extrait, si ce
-n'est dans le cas des articles 112 et 125 du décret n° 2006-936 du 27 juillet
-2006 relatif aux procédures de saisie immobilière et de distribution du prix
-d'un immeuble.
+n'est dans le cas des articles R. 332-1 et R. 334-2 du code des procédures
+d'exécution.

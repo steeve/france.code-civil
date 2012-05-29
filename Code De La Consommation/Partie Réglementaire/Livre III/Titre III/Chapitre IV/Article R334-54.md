@@ -7,9 +7,8 @@ au service chargé de la publicité foncière, le liquidateur établit un cahier
 conditions de vente et le dépose au greffe du juge chargé des saisies
 immobilières du tribunal de grande instance compétent.
 
-II.-Par exception à l'article 44 du décret n° 2006-936 du 27 juillet 2006
-relatif aux procédures de saisie immobilière et de distribution du prix d'un
-immeuble, le cahier des conditions de ventes contient :
+II.-Par exception à l'article R322-10 du code des procédures civiles
+d'exécution, le cahier des conditions de ventes contient :
 
 1° L'énonciation du jugement prononcé en application de l'article R. 334-49 avec
 la mention de sa publication ou, lorsque la saisie immobilière a été suspendue,
@@ -51,6 +50,5 @@ Aux fins du 3°, l'avis vaut notification du cahier des conditions de vente.
 
 V.-En cas de contestation formée en application du 3° du IV, les parties sont
 convoquées à une audience par le greffe du juge chargé des saisies immobilières,
-conformément au troisième alinéa de l'article 7 du décret n° 2006-936 du 27
-juillet 2006 relatif aux procédures de saisie immobilière et de distribution du
-prix d'un immeuble.
+conformément au troisième alinéa de l'article R124-7 du code des procédures
+civiles d'exécution.

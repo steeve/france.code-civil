@@ -5,9 +5,8 @@ d'ouverture, est reprise par le liquidateur, le juge du tribunal d'instance, à
 la demande du liquidateur, fixe ou modifie, s'il y a lieu, la mise à prix, les
 conditions essentielles de la vente, les modalités de visite et statue, à la
 demande du liquidateur ou d'une des parties, sur les mesures de publicité de la
-vente dans les conditions des articles 70 et 71 du décret n° 2006-936 du 27
-juillet 2006 relatif aux procédures de saisie immobilière et de distribution du
-prix d'un immeuble.
+vente dans les conditions des articles R322-37 et R322-38 du code des procédures
+civiles d'exécution.
 
 Le juge qui fixe ou modifie la mise à prix précise qu'à défaut d'enchères la
 vente pourra se faire à une mise à prix inférieure, qu'il détermine. Il peut, si

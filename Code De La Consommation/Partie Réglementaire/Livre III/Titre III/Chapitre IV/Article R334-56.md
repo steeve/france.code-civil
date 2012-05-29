@@ -1,11 +1,10 @@
 Article R334-56
 ----
-A l'audience d'adjudication, il est procédé comme il est dit à la section 2 du
-chapitre VI du décret n° 2006-936 du 27 juillet 2006 relatif aux procédures de
-saisie immobilière et de distribution du prix d'un immeuble, à l'exception de
-l'article 80.
+A l'audience d'adjudication, il est procédé comme il est dit à la sous-section 3
+de la section 4 du chapitre II du titre II du livre III du code des procédures
+civiles d'exécution, à l'exception de l'article R322-47.
 
-L'article 86 du même décret est applicable au paiement des frais taxés et des
+L'article R322-58 du même code est applicable au paiement des frais taxés et des
 droits de mutation.
 
 Outre les mentions prescrites pour tout jugement, le jugement d'adjudication
@@ -24,9 +23,9 @@ d'adjudication et, le cas échéant, le fait signifier à toute personne ayant
 Seul le jugement d'adjudication qui statue sur une contestation est susceptible
 d'appel, de ce chef, dans un délai de quinze jours à compter de sa notification.
 
-Les dispositions des articles 89 à 91 du décret susvisé sont applicables au
-titre de vente.
+Les dispositions des articles R322-61 à R322-63 du code des procédures civiles
+d'exécution sont applicables au titre de vente.
 
-La vente produit les effets prévus par l'article 92 du même décret.
+La vente produit les effets prévus par l'article R322-64 du même code.
 
-La surenchère est régie par les articles 94 à 99 du même décret.
+La surenchère est régie par les articles R322-50 à R322-55 du même code.

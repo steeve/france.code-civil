@@ -14,6 +14,5 @@ doivent constituer avocat dans le délai de quinze jours à compter de la
 dénonciation.
 
 Il est statué sur les contestations selon la procédure applicable devant le juge
-de l'exécution. Les articles 5, 7 premier alinéa et 8 du décret n° 2006-936 du
-27 juillet 2006 relatif aux procédures de saisie immobilière et de distribution
-du prix d'un immeuble sont applicables.
+de l'exécution. Les articles R. 311-4, R. 311-6 premier alinéa et R. 311-7 du
+code des procédures civiles d'exécution sont applicables.

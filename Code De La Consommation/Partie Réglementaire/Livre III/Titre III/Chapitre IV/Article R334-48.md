@@ -1,10 +1,10 @@
 Article R334-48
 ----
-La vente par adjudication d'un bien immobilier est soumise aux dispositions du
-titre Ier du décret n° 2006-936 du 27 juillet 2006 relatif aux procédures de
-saisie immobilière et de distribution du prix d'un immeuble, à l'exception des
-sections 2 et 4 du chapitre III et des chapitres IV et V, dans la mesure où il
-n'y est pas dérogé par les dispositions du présent sous-paragraphe.
+La vente par adjudication d'un bien immobilier est soumise aux dispositions des
+titres Ier et II du livre III du code des procédures civiles d'exécution, à
+l'exception des sous-sections 2 et 4 de la section 1 et des sections 2 et 3 du
+chapitre II du titre II, dans la mesure où il n'y est pas dérogé par les
+dispositions du présent sous-paragraphe.
 
 Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, la vente par
 adjudication d'un bien immobilier est soumise, sous la même réserve, aux

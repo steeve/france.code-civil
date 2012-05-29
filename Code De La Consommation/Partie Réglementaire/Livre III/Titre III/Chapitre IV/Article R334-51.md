@@ -1,8 +1,7 @@
 Article R334-51
 ----
-Le jugement produit les effets du commandement prévu à l'article 13 du décret n°
-2006-936 du 27 juillet 2006 relatif aux procédures de saisie immobilière et de
-distribution du prix d'un immeuble ; il est publié à la diligence du
+Le jugement produit les effets du commandement prévu à l'article R321-1 du code
+des procédures civiles d'exécution ; il est publié à la diligence du
 liquidateur, au service chargé de la publicité foncière du lieu de situation des
 biens, dans les conditions prévues pour ledit commandement.
 

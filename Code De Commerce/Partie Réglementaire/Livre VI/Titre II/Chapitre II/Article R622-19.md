@@ -12,9 +12,8 @@ commissaire à l'exécution du plan aux fins de répartition.
 
 Lorsque la procédure de distribution du prix de vente d'un immeuble mentionnée
 au premier alinéa a été ouverte dans les conditions prévues au premier alinéa de
-l'article 111 du décret n° 2006-936 du 27 juillet 2006 relatif aux procédures de
-saisie immobilière et de distribution du prix d'un immeuble et que l'acquéreur a
-accompli les formalités de purge ou a été dispensé d'y procéder, celui-ci peut
+l'article R. 331-3 du code des procédures civiles d'exécution et que l'acquéreur
+a accompli les formalités de purge ou a été dispensé d'y procéder, celui-ci peut
 saisir le tribunal de grande instance aux fins de faire prononcer la radiation
 des inscriptions.
 

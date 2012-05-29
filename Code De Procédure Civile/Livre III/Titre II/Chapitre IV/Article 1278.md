@@ -1,8 +1,8 @@
 Article 1278
 ----
-Sont déclarés communs au présent chapitre les dispositions des articles 72 à 82,
-87, 89, 90, 100 à 106 du décret n° 2006-936 du 27 juillet 2006 relatif aux
-procédures de saisie immobilière et de distribution du prix d'un immeuble.
+Sont déclarés communs au présent chapitre les dispositions des articles R.
+322-39 à R. 322-49, R. 322-59, R. 322-61, R. 322-62, R. 322-66 à R. 322-72 du
+code des procédures civiles d'exécution.
 
 Néanmoins, lorsqu'elles sont reçues par un notaire, les enchères peuvent être
 faites sans ministère d'avocat.

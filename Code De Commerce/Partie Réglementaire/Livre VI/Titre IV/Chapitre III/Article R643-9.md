@@ -6,7 +6,5 @@ prononçant la radiation des inscriptions ou l'acte par lequel les créanciers o
 donné mainlevée de leurs inscriptions.
 
 Le conservateur procède à la radiation des inscriptions mais reste tenu de
-procéder à l'inscription définitive prévue aux articles 260 et suivants du
-décret n° 92-755 du 31 juillet 1992 instituant de nouvelles règles relatives aux
-procédures civiles d'exécution pour l'application de la loi n° 91-650 du 9
-juillet 1991 portant réforme des procédures civiles d'exécution.
+procéder à l'inscription définitive prévue aux articles R. 533-1 et suivants du
+code des procédures civiles d'exécution.

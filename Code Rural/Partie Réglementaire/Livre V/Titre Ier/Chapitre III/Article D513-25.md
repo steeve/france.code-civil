@@ -7,7 +7,7 @@ l'assemblée, et de faire procéder, contre les débiteurs en retard, aux exploi
 significations, poursuites et commandements à la requête du président de
 l'assemblée et d'acquitter les dépenses régulièrement mandatées par celui-ci.
 
-Toutes saisies-arrêts ou oppositions sur les sommes dues par l'assemblée, toutes
+Toutes saisies ou oppositions sur les sommes dues par l'assemblée, toutes
 significations de cessions ou transferts desdites sommes et toutes autres ayant
 pour objet d'en arrêter le paiement doivent être faites entre les mains de
 l'agent comptable.
