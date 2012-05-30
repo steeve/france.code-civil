@@ -1,7 +1,8 @@
 Article L762-17
 ----
 Pour l'application du 1° de l'article L. 722-10, l'exploitation doit être située
-dans un département d'outre-mer et avoir une superficie au moins égale, dans
+en Guadeloupe, en Guyane, à la Martinique, à La Réunion, à Mayotte, à
+Saint-Barthélemy et à Saint-Martin et avoir une superficie au moins égale, dans
 chaque département, au minimum prévu à l'article L. 762-7.
 
 Dans le bail à métayage, le bailleur et le preneur sont considérés, pour

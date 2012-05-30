@@ -15,3 +15,6 @@ Les fonctionnaires et agents mentionnés aux deux premiers alinéas ont accès d
 les exploitations et entreprises intéressées et peuvent demander communication
 sur place de tous documents et pièces nécessaires à l'accomplissement de leur
 mission de contrôle.
+
+Les dispositions du présent article s'appliquent également aux agents de
+contrôle assermentés des caisses mentionnées à l'article L. 762-1-2.
