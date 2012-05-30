@@ -1,7 +1,11 @@
 Article L327-4
 ----
-L'allocation d'assurance est financée par des contributions des employeurs et
-des salariés assises sur les rémunérations brutes dans la limite d'un plafond.
+Le revenu de remplacement cesse d'être versé :
 
-Les taux des contributions et de l'allocation sont calculés de manière à
-garantir l'équilibre financier du régime.
+1° Aux allocataires ayant atteint l'âge prévu par le premier alinéa de l'article
+6 de l'ordonnance modifiée n° 2002-411 du 27 mars 2002 relative à la protection
+sanitaire et sociale à Mayotte justifiant d'une durée minimale d'assurance
+requise pour l'ouverture du droit à une pension de vieillesse à taux plein ;
+
+2° Aux allocataires atteignant l'âge prévu à l'alinéa précédent, augmenté de
+cinq ans.
