@@ -1,5 +1,10 @@
 Article L1511-5
 ----
+A l'article L. 1110-3, les mots : ou du droit à l'aide prévue à l'article L.
+251-1 du code de l'action sociale et des familles. sont remplacés par les mots :
+ou du droit à la prise en charge prévue à l'article L. 542-5 du code de l'action
+sociale et des famille ;
+
 A l'article L. 1110-4 la dernière phrase du huitième alinéa n'est pas applicable
 et l'article est complété par l'alinéa suivant :
 

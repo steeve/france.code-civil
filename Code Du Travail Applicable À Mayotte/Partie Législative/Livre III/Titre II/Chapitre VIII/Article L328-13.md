@@ -6,4 +6,4 @@ l'altération d'une ou plusieurs fonctions physiques, sensorielles, mentales ou
 psychiques.
 
 La qualité de travailleur handicapé est reconnue par la commission mentionnée à
-l'article L. 545-2 du code de l'action sociale et des familles.
+l'article L. 146-9 du code de l'action sociale et des familles.

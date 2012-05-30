@@ -13,7 +13,7 @@ poste, avec l'aide au poste mentionnée au dernier alinéa, ni avec aucune aide
 spécifique portant sur le même objet.
 
 Elles perçoivent, pour chaque travailleur handicapé orienté vers le marché du
-travail par la commission mentionnée à l'article L. 545-2 du code de l'action
+travail par la commission mentionnée à l'article L. 146-9 du code de l'action
 sociale et des familles qu'elles emploient, une aide au poste forfaitaire,
 versée par l'Etat, dont le montant et les modalités d'attribution sont
 déterminés par décret en Conseil d'Etat.

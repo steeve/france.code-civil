@@ -1,7 +1,7 @@
 Article L2411-1
 ----
 Ne sont pas applicables à Mayotte : 1° Le dernier alinéa de l'article L. 2112-2
-et l'article L. 2112-3 ;
+;
 
 2° La dernière phrase du premier alinéa de l'article L. 2122-1 ;
 
