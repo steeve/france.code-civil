@@ -4,14 +4,14 @@ Le conseil central d'administration de la mutualité sociale agricole fixe chaqu
 année, après avis conforme du comité central de la protection sociale des
 salariés agricoles :
 
-- le taux de la cotisation due par les employeurs de main-d'oeuvre, dont
+-le taux de la cotisation due par les employeurs de main-d'oeuvre, dont
 l'assiette est fixée par décret ;
 
-- le montant de la participation due par l'utilisateur d'un salarié temporaire,
-pour la surveillance médicale spéciale, conformément à l'article L. 124-4-6 du
-code du travail ;
+-le montant de la participation due par l'utilisateur d'un salarié temporaire,
+pour la surveillance médicale spéciale, conformément aux articles L. 1251-21 à
+L. 1251-23 du code du travail ;
 
-- le montant de la participation due par les exploitants mentionnés au premier
+-le montant de la participation due par les exploitants mentionnés au premier
 alinéa de l'article L. 717-2.
 
 Si les taux et montants susmentionnés n'ont pas été déterminés à l'expiration
