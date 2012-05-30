@@ -1,5 +1,7 @@
 Article L156-1
 ----
-Les dispositions du chapitre VI du titre IV du livre Ier sont applicables aux
-communes littorales des départements d'outre-mer définies à l'article 2 de la
-loi n° 86-2 du 3 janvier 1986 précitée, sous réserve des dispositions ci-après.
+Les dispositions du chapitre VI du titre IV du livre Ier sont applicables, en
+Guadeloupe, en Guyane, en Martinique et à La Réunion, aux communes littorales
+définies à l'article L. 321-2 du code de l'environnement, et à Mayotte à
+l'ensemble des communes, sous réserve des dispositions prévues aux articles L.
+156-2 à L. 156-4.

@@ -1,11 +1,11 @@
 Article L340-2
 ----
-Il est créé, en Guadeloupe, en Guyane, en Martinique et à la Réunion, un fonds
-régional d'aménagement foncier et urbain qui coordonne les interventions
-financières de l'Etat, des collectivités territoriales et de l'Union européenne,
-en vue d'assurer la constitution de réserves foncières et la réalisation des
-équipements nécessaires à l'aménagement d'espaces déjà urbanisés ou qui ont
-vocation à l'être en vertu des documents d'urbanisme applicables.
+Il est créé, en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte,
+un fonds régional d'aménagement foncier et urbain qui coordonne les
+interventions financières de l'Etat, des collectivités territoriales et de
+l'Union européenne, en vue d'assurer la constitution de réserves foncières et la
+réalisation des équipements nécessaires à l'aménagement d'espaces déjà urbanisés
+ou qui ont vocation à l'être en vertu des documents d'urbanisme applicables.
 
 Le fonds régional participe également au financement des études préalables à la
 réalisation de ces opérations.
@@ -19,7 +19,8 @@ et l'évaluation de ces fonds.
 
 La présidence de ces fonds régional d'aménagement foncier et urbain est assurée
 alternativement et par période d'un an par le président du conseil général et
-par le président du conseil régional.
+par le président du conseil régional. A Mayotte, la présidence de ce fonds est
+assurée par le président du conseil général.
 
 L'association des maires désigne deux représentants pour siéger au fonds
 régional d'aménagement foncier et urbain.

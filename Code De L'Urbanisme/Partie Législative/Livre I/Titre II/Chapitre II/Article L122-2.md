@@ -46,12 +46,11 @@ de quinze kilomètres de la périphérie d'une agglomération de plus de 50 000
 habitants jusqu'au 31 décembre 2012, ou de plus de 15 000 habitants du 1er
 janvier 2013 au 31 décembre 2016.
 
-Pour l'application du présent article, les schémas d'aménagement régionaux
-prévus par la loi n° 84-747 du 2 août 1984 relative aux compétences des régions
-de Guadeloupe, de Guyane, de Martinique et de la Réunion, le schéma directeur de
-la région d'Ile-de-France prévu par l'article L. 141-1 et le plan d'aménagement
-et de développement durable de Corse prévu à l'article L. 4424-9 du code général
-des collectivités territoriales et, jusqu'à l'approbation de celui-ci, le schéma
-d'aménagement de la Corse maintenu en vigueur par l'article 13 de la loi n°
-2002-92 du 22 janvier 2002 relative à la Corse ont valeur de schéma de cohérence
-territoriale.
+Pour l'application du présent article, les schémas d'aménagement régionaux des
+régions d'outre-mer mentionnés à l'article L. 4433-7 du code général des
+collectivités territoriales, le schéma directeur de la région d'Ile-de-France
+prévu par l'article L. 141-1 et le plan d'aménagement et de développement
+durable de Corse prévu à l'article L. 4424-9 du code général des collectivités
+territoriales et, jusqu'à l'approbation de celui-ci, le schéma d'aménagement de
+la Corse maintenu en vigueur par l'article 13 de la loi n° 2002-92 du 22 janvier
+2002 relative à la Corse ont valeur de schéma de cohérence territoriale.

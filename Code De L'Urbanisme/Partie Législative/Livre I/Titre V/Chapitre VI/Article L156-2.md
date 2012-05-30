@@ -29,12 +29,13 @@ accord.
 
 Il est déterminé une bande littorale comprise entre le rivage de la mer et la
 limite supérieure de la réserve domaniale dite des cinquante pas géométriques
-définie à l'article L. 86 du code du domaine de l'Etat. A défaut de délimitation
-ou lorsque la réserve domaniale n'a pas été instituée, cette bande présente une
-largeur de 81,20 mètres à compter de la limite haute du rivage.
+définie à l'article L. 5111-2 du code général de la propriété des personnes
+publiques et, à Mayotte, à l'article L. 5331-4 de ce code. A défaut de
+délimitation ou lorsque la réserve domaniale n'a pas été instituée, cette bande
+présente une largeur de 81,20 mètres à compter de la limite haute du rivage.
 
 En dehors des espaces urbanisés, les terrains situés dans la bande littorale
-définie à l'alinéa précédent sont réservés aux installation nécessaires à des
+définie à l'alinéa précédent sont réservés aux installations nécessaires à des
 services publics, à des activités économiques ou à des équipements collectifs,
 lorsqu'ils sont liés à l'usage de la mer. Ces installations organisent ou
 préservent l'accès et la libre circulation le long du rivage.
@@ -46,3 +47,7 @@ urbanisables.
 Les constructions et aménagements sur les pentes proches du littoral sont
 interdits quand leur implantation porte atteinte au caractère paysager des
 mornes.
+
+A Mayotte, les constructions et aménagements sont interdits sur le littoral
+quand leur implantation porte atteinte aux plages de sable, aux mangroves, aux
+lagons ou aux récifs coralliens.
