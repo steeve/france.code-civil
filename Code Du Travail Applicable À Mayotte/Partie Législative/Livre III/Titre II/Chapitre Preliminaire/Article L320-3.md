@@ -1,12 +1,15 @@
 Article L320-3
 ----
-Lorsque l'employeur, pour l'un des motifs énoncés à l'article L. 320-1, envisage
-une modification d'un élément essentiel du contrat de travail, il en informe
-chaque salarié par lettre recommandée avec accusé de réception.
+Constitue un licenciement pour motif économique le licenciement effectué par un
+employeur pour un ou plusieurs motifs non inhérents à la personne du salarié
+résultant d'une suppression ou transformation d'emploi ou d'une modification,
+refusée par le salarié, d'un élément essentiel du contrat de travail,
+consécutives notamment à des difficultés économiques ou à des mutations
+technologiques.
 
-La lettre de notification informe le salarié qu'il dispose d'un mois à compter
-de sa réception pour faire connaître son refus ou remise en main propre contre
-décharge.
-
-A défaut de réponse dans le délai d'un mois, le salarié est réputé avoir accepté
-la modification proposée.
+N'ont pas le caractère de licenciements pour motif économique les licenciements
+qui, à la fin d'un chantier, revêtent un caractère normal selon la pratique
+habituelle et l'exercice régulier de la profession considérée, sauf dérogations
+déterminées par convention ou accord collectif. Ces licenciements sont soumis
+aux dispositions de la section 2 du chapitre II du titre II du livre Ier du
+présent code.

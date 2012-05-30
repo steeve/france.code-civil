@@ -1,7 +1,10 @@
 Article L328-10
 ----
-Lorsqu'il ne remplit aucune des obligations définies aux articles L. 328-1, L.
-328-6 et L. 328-7, l'employeur est astreint à titre de pénalité au versement au
-Trésor public d'une somme dont le montant est égal à celui de la limite de la
-contribution mentionnée à la dernière phrase du quatrième alinéa de l'article L.
-328-7, majoré de 25 %.
+L'employeur fournit à l'association mentionnée à l'article L. 328-45 une
+déclaration annuelle relative aux emplois occupés par les bénéficiaires de
+l'obligation d'emploi par rapport à l'ensemble des emplois existants. Il
+justifie également qu'il s'est éventuellement acquitté de l'obligation d'emploi
+selon les modalités prévues aux articles L. 328-11 à L. 328-16.
+
+A défaut de toute déclaration, l'employeur est considéré comme ne satisfaisant
+pas à l'obligation d'emploi.

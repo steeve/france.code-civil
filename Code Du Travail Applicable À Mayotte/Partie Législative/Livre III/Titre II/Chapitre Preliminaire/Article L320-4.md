@@ -1,7 +1,13 @@
 Article L320-4
 ----
-Lorsque, pour l'un des motifs énoncés à l'article L. 320-1, l'employeur envisage
-le licenciement d'au moins dix salariés ayant refusé la modification d'un
-élément essentiel de leur contrat de travail proposé par leur employeur, ces
-licenciements sont soumis aux dispositions applicables en cas de licenciement
-collectif pour motif économique.
+Le licenciement pour motif économique d'un salarié ne peut intervenir que
+lorsque tous les efforts de formation et d'adaptation ont été réalisés et que le
+reclassement de l'intéressé ne peut être opéré dans l'entreprise ou dans les
+entreprises du groupe auquel l'entreprise appartient.
+
+Le reclassement du salarié s'effectue sur un emploi relevant de la même
+catégorie que celui qu'il occupe ou sur un emploi équivalent assorti d'une
+rémunération équivalente. A défaut, et sous réserve de l'accord exprès du
+salarié, le reclassement s'effectue sur un emploi d'une catégorie inférieure.
+
+Les offres de reclassement proposées au salarié sont écrites et précises.

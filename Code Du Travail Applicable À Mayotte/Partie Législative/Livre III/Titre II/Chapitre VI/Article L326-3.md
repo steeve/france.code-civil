@@ -1,6 +1,5 @@
 Article L326-3
 ----
-Les communes peuvent recevoir des offres d'emploi et effectuer des opérations de
-placement en faveur de leurs administrés à la recherche d'un emploi, après avoir
-passé, à cet effet, convention avec l'Etat et l'institution mentionnée au
-premier alinéa de l'article L. 326.
+Les collectivités territoriales et leurs groupements concourent au service
+public de l'emploi dans les conditions déterminées aux articles L. 326-18 à L.
+326-21.

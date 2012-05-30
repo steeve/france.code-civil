@@ -1,13 +1,11 @@
 Article L328-1
 ----
-Tout employeur occupant au moins vingt salariés emploie dans la proportion de 2
-% de l'effectif total de ses salariés, à temps plein ou à temps partiel, des
-travailleurs handicapés mentionnés à la présente section.
+Le reclassement des travailleurs handicapés comporte : 1° La réadaptation
+fonctionnelle, complétée éventuellement par un réentraînement à l'effort ;
 
-Toute entreprise qui occupe vingt salariés et plus soit au moment de sa
-création, soit en raison de l'accroissement de son effectif dispose, pour se
-mettre en conformité avec cette obligation d'emploi, d'un délai déterminé par
-décret, qui ne peut excéder trois ans.
+2° L'orientation ;
 
-Les établissements publics industriels et commerciaux sont assujettis à
-l'obligation d'emploi instituée par le présent article.
+3° La rééducation ou la formation professionnelle pouvant inclure un
+réentraînement scolaire ;
+
+4° Le placement.

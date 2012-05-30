@@ -1,9 +1,10 @@
 Article L327-8
 ----
-En cas de carence de l'organisme gestionnaire mentionné à l'article L. 327-7, le
-représentant de l'Etat peut désigner un administrateur provisoire afin d'assurer
-la continuité de la gestion et du service de l'allocation.
+La demande en paiement de l'allocation d'assurance est déposée auprès de
+l'institution mentionnée à l'article L. 326-6 par le travailleur
+involontairement privé d'emploi dans un délai de deux ans à compter de sa date
+d'inscription comme demandeur d'emploi.
 
-En cas de non-renouvellement de l'accord ou d'absence d'agrément de celui-ci,
-les mesures permettant d'assurer sa continuité sont fixées par décret en Conseil
-d'Etat.
+L'action en paiement est précédée du dépôt de la demande en paiement. Elle se
+prescrit par deux ans à compter de la date de notification de la décision prise
+par l'institution mentionnée à l'article L. 326-6.

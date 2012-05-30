@@ -1,9 +1,14 @@
 Article L328-5
 ----
-En cas de licenciement, la durée du préavis déterminée en application de
-l'article L. 122-19 est doublée pour les bénéficiaires de la présente section,
-sans toutefois que cette mesure puisse avoir pour effet de porter au-delà de
-trois mois la durée de ce préavis. Toutefois, ces dispositions ne sont pas
-applicables lorsque les contrats de travail, règlements de travail, les
-conventions ou accords collectifs de travail ou, à défaut, les usages prévoient
-un préavis d'une durée au moins égale à trois mois.
+Tous les cinq ans, le service public de l'emploi élabore, sous l'autorité du
+représentant de l'Etat à Mayotte, un plan pour l'insertion des travailleurs
+handicapés. Ce plan, coordonné avec les politiques d'accès à la formation et à
+la qualification professionnelles des personnes handicapées, comprend :
+
+1° Un diagnostic englobant les diagnostics locaux établis avec la collaboration
+des référents pour l'insertion professionnelle ;
+
+2° Un plan d'action pour l'insertion des travailleurs handicapés comportant des
+axes d'intervention et des objectifs précis ;
+
+3° Des indicateurs de suivi et d'évaluation des actions menées.

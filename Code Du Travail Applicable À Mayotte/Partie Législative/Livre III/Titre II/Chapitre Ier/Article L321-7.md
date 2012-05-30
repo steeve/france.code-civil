@@ -2,11 +2,10 @@ Article L321-7
 ----
 I.-Le Conseil national de l'emploi, prévu à l'article L. 5112-1 du code du
 travail applicable dans les départements de métropole et d'outre-mer, est
-également compétent pour connaître des sujets relatifs à l'emploi à Mayotte.
-
-Il concourt à la définition des orientations stratégiques des politiques de
+également compétent pour connaître des sujets relatifs à l'emploi à Mayotte. Il
+concourt à la définition des orientations stratégiques des politiques de
 l'emploi à Mayotte. Il veille à la mise en cohérence des actions des différentes
-institutions et organismes mentionnés au II de l'article L. 321-6 et à
+institutions et organismes mentionnés aux articles L. 326-6 et L. 327-57 et à
 l'évaluation des actions engagées.
 
 A cette fin, il peut être consulté :
@@ -26,10 +25,10 @@ II.-Le conseil de l'emploi de Mayotte est présidé par le représentant de l'Et
 
 3° Des administrations intéressées et des services scolaires et universitaires ;
 
-4° De l'institution mentionnée à l'article L. 326 ainsi que des autres
+4° De l'institution mentionnée à l'article L. 326-6 ainsi que des autres
 organisations participant au service public de l'emploi.
 
 Il est consulté sur l'organisation territoriale du service public de l'emploi
-ainsi que sur la convention prévue à l'article L. 326.
+ainsi que sur la convention prévue à l'article L. 326-10.
 
 III.-Un décret précise les conditions d'application du présent article.

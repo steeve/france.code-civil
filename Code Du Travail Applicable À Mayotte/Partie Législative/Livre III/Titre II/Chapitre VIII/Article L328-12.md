@@ -1,15 +1,13 @@
 Article L328-12
 ----
-Afin de garantir le respect du principe d'égalité de traitement à l'égard des
-travailleurs handicapés mentionnés à l'article L. 328-2, les employeurs
-prennent, en fonction des besoins dans une situation concrète, les mesures
-appropriées pour permettre aux travailleurs mentionnés aux 1°, 2°, 3°, 8° et 9°
-de l'article L. 328-2 d'accéder à un emploi ou de conserver un emploi
-correspondant à leur qualification, de l'exercer ou d'y progresser ou pour
-qu'une formation adaptée à leurs besoins leur soit dispensée. Ces mesures sont
-prises sous réserve que les charges consécutives à leur mise en œuvre ne soient
-pas disproportionnées, compte tenu des aides qui peuvent compenser en tout ou
-partie les dépenses supportées à ce titre par l'employeur.
+L'employeur peut s'acquitter partiellement de l'obligation d'emploi en
+accueillant en stage, dans des conditions fixées par un décret précisant la
+durée minimale de ce stage, des personnes handicapées, dans la limite d'une part
+de l'effectif total des salariés de l'entreprise, fixée par voie réglementaire.
 
-Le refus de prendre des mesures appropriées au sens du premier alinéa peut être
-constitutif d'une discrimination au sens de l'article L. 000-4.
+L'ouverture de droits à la prestation de compensation du handicap, à
+l'allocation compensatrice pour tierce personne ou à l'allocation d'éducation de
+l'enfant handicapé à l'égard des jeunes de plus de seize ans qui disposent d'une
+convention de stage vaut reconnaissance de la qualité de travailleur handicapé.
+Cette reconnaissance de la qualité de travailleur handicapé n'est valable que
+pendant la durée du stage.

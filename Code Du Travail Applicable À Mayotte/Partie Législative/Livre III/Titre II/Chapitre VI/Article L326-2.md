@@ -1,7 +1,13 @@
 Article L326-2
 ----
-Tout travailleur recherchant un emploi doit requérir son inscription auprès de
-l'institution mentionnée au premier alinéa de l'article L. 326.
+Le service public de l'emploi est assuré par :
 
-Tout employeur est tenu de notifier à cette agence toute place vacante dans son
-entreprise.
+1° Les services de l'Etat chargés de l'emploi et de l'égalité professionnelle ;
+
+2° L'institution publique mentionnée à l'article L. 326-6 ;
+
+3° L'Association nationale pour la formation professionnelle des adultes.
+
+Il est également assuré par l'organisme gestionnaire du régime d'assurance
+chômage mentionné à l'article L. 327-54 dans le cadre des dispositions légales
+qui lui sont propres.

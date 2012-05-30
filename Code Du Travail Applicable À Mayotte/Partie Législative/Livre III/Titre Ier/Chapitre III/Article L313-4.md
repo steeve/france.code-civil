@@ -2,7 +2,7 @@ Article L313-4
 ----
 Les agents de contrôle mentionnés à l'article L. 313-1 transmettent, sur demande
 écrite, aux agents de l'institution mentionnée au premier alinéa de l'article L.
-326, des institutions gestionnaires du régime d'assurance chômage et des
+326-6, des institutions gestionnaires du régime d'assurance chômage et des
 collectivités territoriales tous renseignements et tous documents nécessaires à
 l'appréciation des droits ou à l'exécution d'obligations qui entrent dans le
 champ de leurs compétences respectives. Ils disposent en tant que de besoin,

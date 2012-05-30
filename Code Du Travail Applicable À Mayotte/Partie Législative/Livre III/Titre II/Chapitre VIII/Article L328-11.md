@@ -1,19 +1,15 @@
 Article L328-11
 ----
-Le reclassement des travailleurs handicapés comporte :
+L'employeur peut s'acquitter partiellement de l'obligation d'emploi en passant
+des contrats de fournitures de sous-traitance ou de prestations de services avec
+: 1° Soit des entreprises adaptées ;
 
-1° La réadaptation fonctionnelle, complétée éventuellement par un réentraînement
-à l'effort ;
+2° Soit des centres de distribution de travail à domicile ;
 
-2° L'orientation ;
+3° Soit des établissements ou services d'aide par le travail.
 
-3° La rééducation ou la formation professionnelle pouvant inclure un
-réentraînement scolaire ;
+Cet acquittement partiel est proportionnel au volume de travail fourni à ces
+ateliers, centres, établissements ou services.
 
-4° Le placement.
-
-L'Etat peut consentir une aide financière aux établissements, organismes et
-employeurs mentionnés à l'article L. 328-1 afin de faciliter la mise ou la
-remise au travail en milieu ordinaire de production des travailleurs handicapés.
-Cette aide peut également être destinée à compenser les charges supplémentaires
-d'encadrement.
+Les modalités et les limites de cet acquittement partiel sont déterminées par
+voie réglementaire.

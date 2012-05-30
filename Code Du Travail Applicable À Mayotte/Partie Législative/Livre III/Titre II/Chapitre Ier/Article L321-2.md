@@ -1,9 +1,9 @@
 Article L321-2
 ----
-L'action des pouvoirs publics en ce domaine peut se conjuguer avec celle des
-organismes professionnels ou interprofessionnels, des collectivités locales, des
+L'action des pouvoirs publics s'exerce en liaison avec celle des organismes
+professionnels ou interprofessionnels, des collectivités locales, des
 entreprises ou des syndicats.
 
-En vue de mettre cette politique en oeuvre, le représentant de l'Etat est
+En vue de mettre cette politique en œuvre, le représentant de l'Etat est
 habilité à conclure des conventions de coopération avec les différents
 partenaires énumérés au présent article.

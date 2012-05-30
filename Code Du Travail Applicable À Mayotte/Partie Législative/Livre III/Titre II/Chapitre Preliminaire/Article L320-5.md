@@ -1,21 +1,19 @@
 Article L320-5
 ----
-Dans les entreprises ou établissements agricoles, industriels ou commerciaux,
-publics ou privés, dans les offices publics et ministériels, les professions
-libérales, les sociétés civiles, les syndicats professionnels, les associations
-de quelque nature que ce soit, les employeurs qui envisagent de procéder à un
-licenciement pour motif économique sont tenus :
+Lorsque l'entreprise ou le groupe auquel elle appartient est implanté hors de
+Mayotte, l'employeur demande au salarié, préalablement au licenciement, s'il
+accepte de recevoir des offres de reclassement hors de cette collectivité, dans
+chacune des implantations en cause, et sous quelles restrictions éventuelles
+quant aux caractéristiques des emplois offerts, notamment en matière de
+rémunération et de localisation.
 
-1° Lorsque le nombre des licenciements pour motif économique envisagés est
-inférieur à dix dans une même période de trente jours, de réunir et de
-consulter, en cas de licenciement collectif, le comité d'entreprise ou les
-délégués du personnel conformément aux articles L. 432-1 ou L. 442-1 selon le
-cas ;
+Le salarié manifeste son accord, assorti le cas échéant des restrictions
+susmentionnées, pour recevoir de telles offres dans un délai de six jours
+ouvrables à compter de la réception de la proposition de l'employeur. L'absence
+de réponse vaut refus.
 
-2° Lorsque le nombre de licenciements envisagés est au moins égal à dix dans une
-même période de trente jours, de réunir et de consulter le comité d'entreprise
-ou les délégués du personnel, conformément à l'article L. 320-7 ;
-
-3° Lorsque les licenciements interviennent dans le cadre d'une procédure de
-sauvegarde ou de redressement ou de liquidation judiciaire, de respecter les
-dispositions de l'article L. 320-9.
+Les offres de reclassement hors de Mayotte, qui sont écrites et précises, ne
+sont adressées qu'au salarié ayant accepté d'en recevoir et compte tenu des
+restrictions qu'il a pu exprimer. Le salarié reste libre de refuser ces offres.
+Le salarié auquel aucune offre n'est adressée est informé de l'absence d'offres
+correspondant à celles qu'il a accepté de recevoir.

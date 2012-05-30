@@ -1,13 +1,6 @@
 Article L328-9
 ----
-Les ressources du fonds créé par l'article L. 328-7 sont destinées à favoriser
-toutes les formes d'insertion professionnelle des handicapés en milieu ordinaire
-de travail ; elles sont affectées notamment à la compensation du coût
-supplémentaire des actions de formation et au financement d'actions d'innovation
-et de recherche dont bénéficient les intéressés dans l'entreprise ainsi qu'à des
-mesures nécessaires à l'insertion et au suivi des travailleurs handicapés dans
-leur vie professionnelle.
-
-Les modalités du contrôle de la répartition et de l'utilisation des
-contributions versées au fonds créé par l'article L. 328-7 sont déterminées par
-décret.
+Toute entreprise qui occupe vingt salariés et plus soit au moment de sa
+création, soit en raison de l'accroissement de son effectif dispose, pour se
+mettre en conformité avec cette obligation d'emploi, d'un délai déterminé par
+décret, qui ne peut excéder trois ans.
