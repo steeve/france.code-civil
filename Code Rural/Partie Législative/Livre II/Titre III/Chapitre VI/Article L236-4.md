@@ -6,7 +6,8 @@ d'origine animale et les aliments pour animaux, les micro-organismes pathogènes
 pour les animaux et les produits susceptibles de les véhiculer, dont les listes
 sont arrêtées par le ministre chargé de l'agriculture, sont soumis, aux frais
 des importateurs et au moment de leur entrée sur le territoire métropolitain ou
-dans les départements d'outre-mer, à un contrôle vétérinaire, sanitaire,
+en Guadeloupe, en Guyane, à la Martinique, à La Réunion, à Mayotte, à
+Saint-Barthélemy ou à Saint-Martin, à un contrôle vétérinaire, sanitaire,
 qualitatif, zootechnique ou ayant trait à la protection des animaux, selon les
 cas, systématique ou non. Le ministre chargé de l'agriculture fixe la liste des
 animaux et produits soumis au contrôle dans l'un des postes d'inspection
@@ -31,8 +32,8 @@ l'article L. 236-5.
 Toutefois, pour les animaux familiers de compagnie accompagnant les voyageurs,
 le contrôle peut être effectué dans tout port, aéroport, gare ferroviaire ou
 routière ouvert aux liaisons internationales et se limiter à un contrôle
-documentaire et d'identité au sens de l'article 12 du règlement (CE) n° 998 /
-2003 du Parlement européen et du Conseil du 26 mai 2003, effectué par les agents
-des douanes. Les listes des animaux familiers de compagnie visés au présent
-alinéa et les modalités d'application du contrôle sont fixées par arrêtés
-conjoints du ministre chargé de l'agriculture et du ministre chargé des douanes.
+documentaire et d'identité au sens de l'article 12 du règlement (CE) n° 998/2003
+du Parlement européen et du Conseil du 26 mai 2003, effectué par les agents des
+douanes. Les listes des animaux familiers de compagnie visés au présent alinéa
+et les modalités d'application du contrôle sont fixées par arrêtés conjoints du
+ministre chargé de l'agriculture et du ministre chargé des douanes.

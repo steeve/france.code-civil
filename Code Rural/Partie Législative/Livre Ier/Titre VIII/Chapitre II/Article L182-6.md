@@ -1,24 +1,58 @@
 Article L182-6
 ----
-Le préfet, après avis de la commission départementale d'aménagement foncier
-saisie par le président du conseil général ou par lui-même en cas de carence de
-ce dernier, peut, à tout moment de la procédure, provoquer l'expropriation pour
-cause d'utilité publique.
+Pour son application à Mayotte l'article L. 121-8 est ainsi rédigé :
 
-L'Etat confie le suivi des opérations d'aménagement et de remise en état des
-terres expropriées à un opérateur foncier.
+" Art. L. 121-8. - La commission départementale d'aménagement foncier est ainsi
+composée :
 
-A cet effet, l'opérateur foncier devient cessionnaire en propriété des terres
-expropriées dans des conditions définies par décret en Conseil Etat.
+1° Un commissaire enquêteur désigné par le président du tribunal de grande
+instance dans le ressort duquel la commission a son siège, dans les conditions
+fixées par décret en Conseil d'Etat, président ;
 
-En vue d'assurer la pérennité de la remise en valeur des terres, en cas de
-retour à l'inculture ou à la sous-exploitation manifeste de terres qui ont fait
-l'objet d'une autorisation d'exploiter en application de l'article L. 182-3, le
-préfet peut, dans un délai fixé par décret, sans reprendre la procédure prévue à
-la présente section, procéder à leur expropriation pour cause d'utilité publique
-conformément aux dispositions du présent article.
+2° Deux conseillers généraux et un maire de commune rurale ;
 
-Le préfet peut également, dans le délai de dix ans à partir du constat
-d'inculture dressé par la commission visée à l'article L. 121-8, procéder à
-l'expropriation pour cause d'utilité publique de terres dont la mise en valeur
-intervenue en dehors du cadre de l'autorisation d'exploiter a été interrompue.
+3° Trois personnes qualifiées désignées par le président du conseil général ;
+
+4° Le président de la chambre de l'agriculture, de la pêche et de l'aquaculture
+ou son représentant désigné parmi les membres de cette compagnie ;
+
+5° Les présidents ou leurs représentants de la fédération ou de l'union
+départementale des syndicats d'exploitants agricoles et de l'organisation
+syndicale départementale des jeunes exploitants agricoles les plus
+représentatives au niveau national ;
+
+6° Les représentants des organisations syndicales d'exploitants agricoles
+représentatives au niveau départemental ;
+
+7° Un propriétaire bailleur, deux propriétaires exploitants, un exploitant
+preneur, désignés par le président du conseil général, sur trois listes
+comprenant chacune quatre noms, établies par la chambre de l'agriculture, de la
+pêche et de l'aquaculture de Mayotte ;
+
+8° Deux représentants d'associations agréées en matière de faune, de flore et de
+protection de la nature et des paysages désignés par le président du conseil
+général ;
+
+9° Deux représentants d'associations agréées en matière de faune, de flore et de
+protection de la nature et des paysages désignés par le président du conseil
+général.
+
+Le président du conseil général choisit, en outre, sur ces listes, un suppléant
+par membre titulaire appelé à siéger, soit en cas d'absence du titulaire, soit
+lorsque la commission départementale est appelée à délibérer sur des
+réclamations concernant une opération dans le périmètre de laquelle l'un des
+membres titulaires est propriétaire.
+
+La désignation des conseillers généraux et des représentants des maires a lieu à
+chaque renouvellement du conseil général et des conseils municipaux.
+
+La désignation des représentants de la profession agricole a lieu après chaque
+renouvellement partiel de la chambre d'agriculture.
+
+La commission peut appeler à titre consultatif toute personne dont il lui paraît
+utile de recueillir l'avis.
+
+Dans le cas où la commission départementale d'aménagement foncier est appelée à
+statuer sur une opération dans le périmètre de laquelle est comprise une aire
+d'appellation d'origine protégée, sa composition est complétée par un
+représentant de l'Institut national de l'origine et de la qualité. "

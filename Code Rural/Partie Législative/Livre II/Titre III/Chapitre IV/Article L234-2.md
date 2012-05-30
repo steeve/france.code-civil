@@ -1,15 +1,17 @@
 Article L234-2
 ----
 I.-Il est interdit d'administrer, de mettre sur le marché, d'introduire sur le
-territoire métropolitain ou dans les départements d'outre-mer et de détenir, en
-vue d'administrer, même dans un but thérapeutique, aux animaux des espèces dont
-la chair ou les produits sont destinés à l'alimentation humaine, des produits
+territoire métropolitain ou en Guadeloupe, en Guyane, à la Martinique, à La
+Réunion, à Mayotte, à Saint-Barthélemy ou à Saint-Martin et de détenir, en vue
+d'administrer, même dans un but thérapeutique, aux animaux des espèces dont la
+chair ou les produits sont destinés à l'alimentation humaine, des produits
 contenant des stilbènes, leurs dérivés, sels ou esters, les substances à action
 thyréostatique ainsi que l'œstradiol 17 bêta.
 
 II.-Il est interdit de mettre sur le marché ou d'introduire sur le territoire
-métropolitain ou dans les départements d'outre-mer, pour des animaux des espèces
-dont la chair ou les produits sont destinés à l'alimentation humaine, ou
+métropolitain ou en Guadeloupe, en Guyane, à la Martinique, à La Réunion, à
+Mayotte, à Saint-Barthélemy ou à Saint-Martin, pour des animaux des espèces dont
+la chair ou les produits sont destinés à l'alimentation humaine, ou
 d'administrer à de tels animaux des substances à activité anabolisante,
 anticatabolisante ou bêta-agoniste. Il est interdit aux personnes ayant la garde
 de ces animaux de détenir sans justification ces substances.
@@ -49,9 +51,9 @@ denrées sont fixées par décret.
 VI.-Par arrêtés pris après avis de l'Agence nationale chargée de la sécurité
 sanitaire de l'alimentation, de l'environnement et du travail, et, en ce qui
 concerne les médicaments à usage humain, après avis de l'Agence nationale de
-sécurité du médicament et des produits de santé , le ministre de l'agriculture
-et le ministre chargé de la santé peuvent, pour des motifs de santé publique ou
-de santé animale, interdire ou restreindre la prescription et la délivrance de
+sécurité du médicament et des produits de santé, le ministre de l'agriculture et
+le ministre chargé de la santé peuvent, pour des motifs de santé publique ou de
+santé animale, interdire ou restreindre la prescription et la délivrance de
 médicaments en vue d'une administration à des animaux, ainsi que
 l'administration de médicaments à des animaux.
 

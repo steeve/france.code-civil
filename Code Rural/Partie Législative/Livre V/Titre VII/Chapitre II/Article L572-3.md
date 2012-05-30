@@ -1,5 +1,5 @@
 Article L572-3
 ----
-Au premier alinéa de l'article L. 523-5-1, les mots : "peuvent distribuer à
-leurs associés coopérateurs et à leurs associés non coopérateurs," sont
-remplacés par les mots : "peuvent distribuer à leurs associés coopérateurs,".
+Pour l'application à Mayotte de l'article L. 562-1, les mots : " Les sociétés
+d'aménagement foncier et d'établissement rural (SAFER) peuvent " sont remplacés
+par les mots : " L'opérateur foncier mentionné à l'article L. 182-25 peut ".

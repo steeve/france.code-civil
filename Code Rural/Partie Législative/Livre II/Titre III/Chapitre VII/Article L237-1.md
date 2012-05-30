@@ -2,7 +2,8 @@ Article L237-1
 ----
 I.-Est puni des peines prévues à l'article L. 213-1 du code de la consommation
 le fait de mettre sur le marché, d'introduire sur le territoire métropolitain ou
-dans les départements d'outre-mer, de céder en vue d'administrer à des animaux
+en Guadeloupe, en Guyane, à la Martinique, à La Réunion, à Mayotte, à
+Saint-Barthélemy ou à Saint-Martin, de céder en vue d'administrer à des animaux
 dont la chair ou les produits sont destinés à l'alimentation humaine un produit
 visé au I de l'article L. 234-2 ou une substance visée au II du même article qui
 ne bénéficie pas d'une autorisation de l'autorité administrative.

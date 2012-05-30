@@ -7,5 +7,4 @@ Bas-Rhin et de la Moselle, qui relèvent du code local des assurances sociales d
 19 juillet 1911, ainsi que des dispositions du chapitre I du titre VI du présent
 livre ;
 
-2° Aux assurés des professions agricoles des départements d'outre-mer, qui
-relèvent du chapitre IV du titre V du livre VII du code de la sécurité sociale.
+2° (Abrogé).

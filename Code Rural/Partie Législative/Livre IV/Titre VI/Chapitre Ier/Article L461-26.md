@@ -2,9 +2,10 @@ Article L461-26
 ----
 Les baux du domaine de l'Etat, des collectivités territoriales, de leurs
 groupements, des établissements publics et des organismes mentionnés à l'article
-58-18 du code rural, lorsqu'ils portent sur des biens ruraux constituant ou non
-une exploitation agricole complète, sont soumis aux dispositions du présent
-chapitre.
+58-18 du code rural et de la pêche maritime, ou à Mayotte, de l'opérateur
+foncier mentionné l'article L. 182-25 (1), lorsqu'ils portent sur des biens
+ruraux constituant ou non une exploitation agricole complète, sont soumis aux
+dispositions du présent chapitre.
 
 Toutefois, le preneur ne peut invoquer le droit au renouvellement du bail
 lorsque la collectivité, le groupement ou l'établissement public lui a fait

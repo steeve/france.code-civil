@@ -2,8 +2,9 @@ Article L237-3
 ----
 I.-Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende :
 
-1° Le fait d'introduire sur le territoire métropolitain ou dans les départements
-d'outre-mer des animaux vivants des produits et sous-produits d'origine animale
+1° Le fait d'introduire sur le territoire métropolitain ou en Guadeloupe, en
+Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy ou à
+Saint-Martin des animaux vivants des produits et sous-produits d'origine animale
 ou des aliments pour animaux ne répondant pas aux conditions sanitaires ou ayant
 trait à la protection des animaux prévues à l'article L. 236-1 ;
 
@@ -12,9 +13,10 @@ animaux vivants des produits et sous-produits d'origine animale ou des aliments
 pour animaux ne répondant pas aux conditions sanitaires ou ayant trait à la
 protection des animaux prévues à l'article L. 236-2 ;
 
-3° Le fait d'introduire sur le territoire métropolitain ou dans les départements
-d'outre-mer, lorsqu'ils sont originaires ou en provenance de pays non membres de
-la Communauté européenne, des animaux vivants des produits et sous-produits
+3° Le fait d'introduire sur le territoire métropolitain ou en Guadeloupe, en
+Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy ou à
+Saint-Martin, lorsqu'ils sont originaires ou en provenance de pays non membres
+de la Communauté européenne, des animaux vivants des produits et sous-produits
 d'origine animale ou des aliments pour animaux n'ayant pas subi le contrôle
 vétérinaire prévu à l'article L. 236-4 ;
 

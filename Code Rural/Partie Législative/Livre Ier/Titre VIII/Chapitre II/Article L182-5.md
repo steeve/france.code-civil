@@ -1,14 +1,17 @@
 Article L182-5
 ----
-Le préfet peut, dans les conditions prévues à l'article L. 182-4, accorder,
-selon les cas, une autorisation d'exploiter ou une nouvelle autorisation
-d'exploiter, lorsque le bail conclu après mise en demeure par le propriétaire
-pour assurer la mise en valeur de ses terres ou résultant d'une autorisation
-d'exploiter antérieurement accordée est résilié ou n'est pas renouvelé.
+Pour son application à Mayotte, l'article L. 121-5-1 est ainsi modifié :
 
-Le préfet dispose des mêmes pouvoirs lorsqu'il constate que le propriétaire
-laisse les terres dans un état de sous-exploitation manifeste après l'expiration
-du délai qui lui a été fixé par la mise en demeure pour mettre en valeur ses
-terres ou que ses terres sont laissées dans cet état par l'exploitant choisi par
-le propriétaire ou désigné par l'administration.L'autorisation d'exploiter ainsi
-accordée entraîne de plein droit, le cas échéant, la résiliation du bail.
+1° Le dixième alinéa est ainsi rédigé :
+
+" 7° Deux propriétaires forestiers de la commune, et un suppléant, désignés par
+la chambre de l'agriculture, de la pêche et de l'aquaculture sur proposition du
+préfet, et un autre propriétaire forestier de la commune, désigné par le conseil
+municipal. " ;
+
+2° Le vingt-deuxième alinéa est ainsi rédigé :
+
+" 7° Deux propriétaires forestiers de chaque commune, et un suppléant, désignés
+par la chambre de l'agriculture, de la pêche et de l'aquaculture sur proposition
+du préfet, et un autre propriétaire forestier de chaque commune, désigné par le
+conseil municipal. "

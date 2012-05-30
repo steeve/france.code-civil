@@ -1,7 +1,8 @@
 Article L236-1
 ----
-Pour être introduits sur le territoire métropolitain et dans les départements
-d'outre-mer, les animaux vivants, les produits et sous-produits d'origine
+Pour être introduits sur le territoire métropolitain et en Guadeloupe, en
+Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy ou à
+Saint-Martin, les animaux vivants, les produits et sous-produits d'origine
 animale, les aliments pour animaux, les micro-organismes pathogènes pour les
 animaux et les produits susceptibles de les véhiculer doivent répondre aux
 conditions sanitaires ou ayant trait à la protection des animaux fixées par le

@@ -1,6 +1,4 @@
 Article L572-2
 ----
-Au 5° de l'article L. 522-1, les mots : "D'autres sociétés coopératives
-agricoles, unions de ces sociétés et sociétés d'intérêt collectif agricole,"
-sont remplacés par les mots : "D'autres sociétés coopératives agricoles et
-unions de ces sociétés,".
+Les articles L. 523-12, L. 523-13 et le deuxième alinéa de l'article L. 524-2-3
+ne sont pas applicables à Mayotte.

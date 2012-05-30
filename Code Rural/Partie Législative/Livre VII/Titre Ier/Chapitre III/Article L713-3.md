@@ -12,9 +12,9 @@ travail perdues.
 Ces décrets sont pris et révisés après avis de la sous-commission des
 conventions et accords, dans la formation spécifique aux professions agricoles,
 de la commission nationale de la négociation collective, mentionnée à l'article
-L. 136-3 du code du travail, et des organisations professionnelles et syndicales
-d'employeurs et de salariés intéressés et au vu, le cas échéant, des résultats
-des négociations intervenues entre ces dernières.
+R. 2272-10 du code du travail, et des organisations professionnelles et
+syndicales d'employeurs et de salariés intéressés et au vu, le cas échéant, des
+résultats des négociations intervenues entre ces dernières.
 
 Il peut être dérogé par convention ou accord collectif étendu ou par convention
 ou accord d'entreprise ou d'établissement à celles des dispositions de ces

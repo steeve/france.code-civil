@@ -1,10 +1,10 @@
 Article L571-2
 ----
 A Mayotte, une chambre de l'agriculture, de la pêche et de l'aquaculture
-siégeant au chef-lieu de la collectivité départementale constitue, auprès de
-l'Etat ainsi que des collectivités territoriales et des établissements publics
-qui leur sont rattachés, l'organe consultatif, représentatif et professionnel
-des intérêts de l'agriculture, de la pêche et de l'aquaculture.
+siégeant au chef-lieu du département constitue, auprès de l'Etat ainsi que des
+collectivités territoriales et des établissements publics qui leur sont
+rattachés, l'organe consultatif, représentatif et professionnel des intérêts de
+l'agriculture, de la pêche et de l'aquaculture.
 
 La chambre de l'agriculture, de la pêche et de l'aquaculture de Mayotte est un
 établissement public placé sous la tutelle de l'Etat et administré par des élus

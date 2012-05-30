@@ -17,9 +17,10 @@ interrégionales de massif. La commission permanente des comités de massif
 concernés peut donner son avis sur le projet de plan régional de l'agriculture
 durable.
 
-Dans les régions d'outre-mer, le plan régional détaille les actions spécifiques
-ou complémentaires menées par l'Etat en tenant compte des orientations fixées en
-ce domaine par le schéma d'aménagement régional.
+En Guadeloupe, en Guyane, à la Martinique, à La Réunion et à Mayotte, le plan
+régional détaille les actions spécifiques ou complémentaires menées par l'Etat
+en tenant compte des orientations fixées en ce domaine par le schéma
+d'aménagement régional.
 
 Le préfet de région conduit la préparation du plan en y associant les
 collectivités territoriales et les chambres d'agriculture concernées ainsi que

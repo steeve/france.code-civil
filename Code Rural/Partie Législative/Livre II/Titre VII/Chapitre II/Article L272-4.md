@@ -1,18 +1,12 @@
 Article L272-4
 ----
-Pour l'application du présent livre à Mayotte, l'article L. 251-4 est rédigé
-ainsi qu'il suit :
+Pour son application à Mayotte, le premier alinéa du V de l'article L. 214-8 est
+ainsi rédigé :
 
-I.-" Article L. 251-4 : Sous réserve d'exceptions autorisées par le ministre
-chargé de l'agriculture et le ministre chargé des départements et territoires
-d'outre-mer pour l'exécution des travaux de laboratoire, il est interdit
-d'introduire à Mayotte, de détenir sciemment et de transporter les organismes
-nuisibles définis par l'article L. 251-3, quel que soit le stade de leur
-évolution ".
-
-Les infractions prévues aux présentes dispositions sont définies et sanctionnées
-conformément à l'article L. 251-20.
-
-II.-A l'article L. 252-1, les mots : " aux articles L. 411-1 à L. 411-9 du code
-du travail " sont remplacés par les mots : " aux dispositions applicables
-localement en matière d'objet et de constitution des syndicats. "
+" V.-Toute publication d'une offre de cession de chats ou de chiens, quel que
+soit le support utilisé, doit mentionner, soit le numéro d'identification de
+chaque animal, soit le numéro d'identification de la femelle ayant donné
+naissance aux animaux, ainsi que le nombre d'animaux de la portée. Si cette
+prestation est réalisée par une entreprise, la publication doit mentionner le
+numéro de son identification au registre du commerce et des sociétés, si cette
+immatriculation est obligatoire. "

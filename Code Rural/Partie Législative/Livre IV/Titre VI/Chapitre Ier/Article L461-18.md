@@ -1,7 +1,8 @@
 Article L461-18
 ----
-Les dispositions des articles L. 412-1 à L. 412-13 sont applicables dans les
-départements d'outre-mer à Mayotte et à Saint-Pierre-et-Miquelon. Pour
+Les dispositions des articles L. 412-1 à L. 412-13 sont applicables en
+Guadeloupe, en Guyane, à la Martinique, à La Réunion, à Mayotte, à
+Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon. Pour
 l'application de ces articles, le renvoi à l'article L. 411-3 est remplacé par
 un renvoi au deuxième alinéa de l'article L. 461-2, le renvoi au premier alinéa
 de l'article L. 411-34 par un renvoi au premier alinéa de l'article L. 461-6 et

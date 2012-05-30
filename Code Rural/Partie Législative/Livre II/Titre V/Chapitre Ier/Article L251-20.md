@@ -2,9 +2,11 @@ Article L251-20
 ----
 I.-Est puni de deux ans d'emprisonnement et de 75 000 euros d'amende :
 
-1° Le fait d'introduire sur le territoire métropolitain et dans les départements
-d'outre-mer, de détenir sciemment et de transporter les organismes nuisibles
-visés à l'article L. 251-3, quel que soit le stade de leur évolution ;
+1° Le fait d'introduire sur le territoire métropolitain et en Guadeloupe, en
+Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy, à
+Saint-Martin ou à Saint-Pierre-et-Miquelon, de détenir sciemment et de
+transporter les organismes nuisibles visés à l'article L. 251-3, quel que soit
+le stade de leur évolution ;
 
 2° Le fait de faire circuler des végétaux, produits végétaux et autres objets
 sans respecter les conditions prévues par les dispositions du troisième alinéa

@@ -1,6 +1,22 @@
 Article L572-1
 ----
-Les dispositions du titre II du présent livre sont applicables à Mayotte à
-l'exception de celles des articles L. 522-3 et L. 522-4, L. 523-8 à L. 523-13,
-du troisième alinéa de l'article L. 524-1 et des articles L. 527-2 et L. 527-3
-et sous réserve des dispositions du présent chapitre.
+Pour son application à Mayotte, l'article L. 515-4 est remplacé par les
+dispositions suivantes :
+
+" Art. L. 515-4. - Le licenciement par l'employeur d'un salarié exerçant un
+mandat de membre d'une chambre d'agriculture ou ayant cessé de l'exercer depuis
+moins de six mois est soumis à la procédure prévue pour le licenciement des
+délégués du personnel par le code du travail applicable à Mayotte.
+
+Il en est de même du licenciement des candidats aux fonctions de membre d'une
+chambre d'agriculture dès la publication des candidatures pendant une durée de
+trois mois.
+
+Lorsque le salarié en cause est titulaire d'un contrat à durée déterminée ou
+d'un contrat de travail temporaire, il bénéficie des mêmes garanties et
+protections que celles qui sont accordées par les articles précités aux délégués
+du personnel titulaires de tels contrats.
+
+Dans les branches d'activité à caractère saisonnier, les délais de protection
+définis ci-dessus sont prolongés d'une durée égale à la période habituelle
+d'interruption de l'activité du salarié. "

@@ -31,11 +31,11 @@ parmi les salariés et les employeurs entrant dans le champ d'application
 territorial et professionnel de la convention ou de l'accord collectif de
 travail étendu.
 
-Le comité exerce les attributions dévolues aux comités d'entreprise par
-l'article L. 432-8 du code du travail. La contribution qui est versée par les
-employeurs des salariés mentionnés au premier alinéa du présent article et qui
-est destinée à couvrir le fonctionnement et les activités sociales et
-culturelles du comité est assise sur la masse salariale brute.
+Le comité exerce les attributions dévolues aux comités d'entreprise par les
+articles L. 2323-83 à L. 2323-87 du code du travail. La contribution qui est
+versée par les employeurs des salariés mentionnés au premier alinéa du présent
+article et qui est destinée à couvrir le fonctionnement et les activités
+sociales et culturelles du comité est assise sur la masse salariale brute.
 
 Les contributions versées et les avantages servis suivent, en matière de
 cotisations sociales et de fiscalité, le régime applicable aux activités

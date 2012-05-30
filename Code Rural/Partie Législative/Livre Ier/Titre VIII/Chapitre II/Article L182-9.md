@@ -1,9 +1,5 @@
 Article L182-9
 ----
-Si le préfet constate que les clauses du cahier des charges ne sont pas
-respectées, il peut, dans les conditions prévues à l'article L. 182-4, accorder,
-selon les cas, une autorisation d'exploiter ou une nouvelle autorisation
-d'exploiter.
-
-Les contestations relatives à l'interprétation et à l'exécution des cahiers des
-charges sont portées devant le tribunal paritaire des baux ruraux.
+Pour l'application à Mayotte de l'article L. 123-15, les mots : " conformément
+aux articles 27 et 38 du règlement (CE) n° 834/2007 du Conseil du 28 juin 2007
+précité " ne sont pas applicables.
