@@ -1,22 +1,17 @@
 Article L143-2
 ----
-Les salaires des employés et ceux des ouvriers bénéficiaires d'une convention ou
-d'un accord de mensualisation doivent être payés au moins une fois par mois ; en
-l'absence de convention ou d'accord de la nature susmentionnée, les salaires des
-ouvriers doivent être payés au moins deux fois par mois, à seize jours au plus
-d'intervalle.
+La rémunération des salariés est mensuelle et indépendante, pour un horaire de
+travail effectif déterminé, du nombre de jours travaillés dans le mois. Le
+paiement mensuel neutralise les conséquences de la répartition inégale des jours
+entre les douze mois de l'année.
 
-Pour tout travail aux pièces dont l'exécution doit durer plus d'une quinzaine,
-les dates de paiement peuvent être fixées de gré à gré, mais l'ouvrier doit
-recevoir des acomptes chaque quinzaine et être intégralement payé dans la
-quinzaine qui suit la livraison de l'ouvrage : en cas de convention ou d'accord
-de mensualisation, l'ouvrier doit recevoir des acomptes chaque mois et être
-intégralement payé dans le mois qui suit la livraison de l'ouvrage.
+Pour un horaire équivalant à la durée légale hebdomadaire, la rémunération
+mensuelle due au salarié se calcule en multipliant la rémunération horaire par
+les 52/12 de la durée légale hebdomadaire.
 
-Est une convention ou un accord de mensualisation au sens du présent article une
-convention ou un accord collectif prévoyant le paiement mensuel des salaires et
-étendant aux ouvriers tout ou partie des avantages apportés auparavant aux
-salariés payés mensuellement.
+Le paiement de la rémunération est effectué une fois par mois. Un acompte
+correspondant, pour une quinzaine, à la moitié de la rémunération mensuelle est
+versé au salarié qui en fait la demande.
 
-Les conventions ou accords collectifs de mensualisation doivent comporter une
-clause délimitant les conditions du versement éventuel d'acomptes aux ouvriers.
+Ces dispositions ne s'appliquent pas aux salariés travaillant à domicile et aux
+salariés saisonniers.

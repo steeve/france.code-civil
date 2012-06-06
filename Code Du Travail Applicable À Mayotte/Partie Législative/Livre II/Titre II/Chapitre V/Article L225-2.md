@@ -1,6 +1,11 @@
 Article L225-2
 ----
-La durée du ou des congés visés à l'article L. 225-1 est assimilée à une durée
-de travail effectif pour la détermination de la durée des congés payés, du droit
-aux prestations d'assurances sociales et aux prestations familiales ainsi que
-pour l'ensemble des autres droits résultant pour l'intéressé de son contrat.
+Le ou les congés de formation économique et sociale et de formation syndicale
+donnent lieu à une rémunération par les employeurs, dans les entreprises de dix
+salariés et plus, dans des conditions prévues par voie réglementaire. Cette
+rémunération est versée à la fin du mois au cours duquel la session de formation
+a eu lieu.
+
+Pour l'application de cet article, l'ensemble des établissements de
+l'entreprise, y compris ceux situés en métropole et dans les départements
+d'outre-mer, est pris en compte.

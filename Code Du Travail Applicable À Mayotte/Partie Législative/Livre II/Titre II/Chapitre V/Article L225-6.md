@@ -1,12 +1,9 @@
 Article L225-6
 ----
-L'Etat apporte une aide financière à la formation des salariés telle qu'elle est
-assurée par les centres, instituts et organismes mentionnés à l'article
-précédent. Cette aide peut également être apportée par la direction du travail,
-de l'emploi et de la formation professionnelle.
+La durée du ou des congés de formation économique et sociale et de formation
+syndicale ne peut être imputée sur celle du congé payé annuel.
 
-Des crédits sont inscrits à cet effet au budget du ministère chargé du travail.
-
-Des crédits destinés à contribuer en la matière au fonctionnement des instituts
-d'université ou de faculté sont également inscrits au budget du ministère chargé
-de l'éducation nationale.
+Elle est assimilée à une durée de travail effectif pour la détermination de la
+durée des congés payés, du droit aux prestations d'assurances sociales et aux
+prestations familiales ainsi que pour l'ensemble des autres droits résultant
+pour l'intéressé de son contrat de travail.

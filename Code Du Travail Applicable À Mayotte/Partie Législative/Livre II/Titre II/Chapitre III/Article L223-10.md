@@ -1,11 +1,5 @@
 Article L223-10
 ----
-Les dispositions qui précèdent ne portent pas atteinte aux stipulations
-contractuelles ou aux usages qui assureraient des indemnités d'un montant plus
-élevé.
-
-Pour la fixation de l'indemnité, il doit être tenu compte des avantages
-accessoires et des prestations en nature dont le salarié ne continuerait pas à
-jouir pendant la durée de son congé. La valeur de ces avantages et prestations
-ne peut être inférieure à celle qui est fixée par le représentant de l'Etat à
-Mayotte.
+Un décret en Conseil d'Etat fixe le début de la période de référence du congé
+annuel. Une autre date peut être fixée par convention ou accord collectif de
+travail.

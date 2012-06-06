@@ -1,7 +1,6 @@
 Article L143-10
 ----
-En outre, lorsque est ouverte une procédure de sauvegarde ou de redressement
-judiciaire, les indemnités de congés payés prévues aux articles L. 223-8 à L.
-223-11 doivent être payées nonobstant l'existence de toute autre créance
-privilégiée, jusqu'à concurrence d'un plafond identique à celui établi pour une
-période de trente jours de rémunération par l'article L. 143-8.
+Il peut être dérogé à la conservation des bulletins de paie, pour tenir compte
+du recours à d'autres moyens, notamment informatiques, lorsque des garanties de
+contrôle équivalentes sont maintenues dans les conditions et limites déterminées
+par décret.

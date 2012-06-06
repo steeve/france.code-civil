@@ -12,7 +12,7 @@ Mayotte " ;
 Ier du code du travail " sont remplacées par les références : " aux articles L.
 145-1 et L. 145-6 du code du travail applicable à Mayotte " et les références :
 " L. 143-10 et L. 143-11 du code du travail " sont remplacées par les références
-: " L. 143-9 et L. 143-10 du code du travail applicable à Mayotte " ;
+: " L. 143-17 et L. 143-18 du code du travail applicable à Mayotte " ;
 
 3° A l'article L. 328-1-1, les références : " à la section 1 du chapitre IV du
 titre Ier du livre VIII du code du travail " sont remplacées par les références

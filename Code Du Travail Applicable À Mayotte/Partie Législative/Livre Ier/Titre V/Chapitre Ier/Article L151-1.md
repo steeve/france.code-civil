@@ -1,10 +1,7 @@
 Article L151-1
 ----
-Toute infraction aux dispositions de l'article L. 123-1 sera punie d'un
-emprisonnement d'un an et d'une amende de 3750 euros. ou de l'une de ces deux
-peines seulement.
+Les dispositions du présent titre sont applicables dans les établissements des
+employeurs de droit privé.
 
-Le tribunal pourra ordonner, aux frais de la personne condamnée, l'affichage du
-jugement dans les conditions prévues à l'article 131-35 du code pénal et son
-insertion, intégrale ou par extraits, dans les journaux qu'il désigne, sans que
-ces frais puissent excéder le maximum de l'amende encourue.
+Elles s'appliquent également dans les établissements publics à caractère
+industriel et commercial.

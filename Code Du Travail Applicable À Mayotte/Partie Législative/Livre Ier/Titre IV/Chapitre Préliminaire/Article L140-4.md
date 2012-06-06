@@ -1,5 +1,6 @@
 Article L140-4
 ----
-Les dispositions des articles L. 140-1 à L. 140-3 sont applicables aux relations
-entre employeurs et salariés non régies par le code du travail et, notamment,
-aux salariés liés par un contrat de droit public.
+Sont considérés comme ayant une valeur égale les travaux qui exigent des
+salariés un ensemble comparable de connaissances professionnelles consacrées par
+un titre, un diplôme ou une pratique professionnelle, de capacités découlant de
+l'expérience acquise, de responsabilités et de charge physique ou nerveuse.

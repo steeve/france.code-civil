@@ -1,17 +1,16 @@
 Article L152-1
 ----
-Toute infraction aux dispositions des articles L. 124-1 et L. 124-3 est punie
-d'une amende de 3750 euros. La récidive est punie d'une amende de 7500 euros et
-d'un emprisonnement de six mois ou de l'une de ces deux peines seulement.
+Le règlement intérieur est un document écrit par lequel l'employeur fixe
+exclusivement :
 
-Le tribunal peut prononcer, en outre, l'interdiction d'exercer l'activité de
-sous-entrepreneur de main-d'oeuvre pour une durée de deux ans à dix ans.
+1° Les mesures d'application de la réglementation en matière de santé et de
+sécurité dans l'entreprise ou l'établissement, notamment les instructions
+prévues à l'article L. 152-7 ;
 
-Sont passibles d'une amende de 6000 euros et d'un emprisonnement de six mois ou
-de l'une de ces deux peines seulement ceux qui, directement ou par personne
-interposée, contreviennent à l'interdiction prononcée en application de l'alinéa
-qui précède.
+2° Les conditions dans lesquelles les salariés peuvent être appelés à
+participer, à la demande de l'employeur, au rétablissement de conditions de
+travail protectrices de la santé et de la sécurité des salariés, dès lors
+qu'elles apparaîtraient compromises ;
 
-Dans tous les cas, le tribunal peut ordonner, aux frais de la personne
-condamnée, l'affichage du jugement aux portes des établissements de l'entreprise
-et sa publication dans les journaux qu'il désigne.
+3° Les règles générales et permanentes relatives à la discipline, notamment la
+nature et l'échelle des sanctions que peut prendre l'employeur.

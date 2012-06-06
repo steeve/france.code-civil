@@ -1,6 +1,6 @@
 Article L140-5
 ----
-Les inspecteurs du travail et les contrôleurs du travail sont chargés de veiller
-à l'application des articles L. 140-1 et L. 140-2 ci-dessus ; ils sont également
-chargés, concurremment avec les officiers et agents de police judiciaire de
-constater les infractions à ces dispositions.
+Les disparités de rémunération entre les établissements d'une même entreprise ne
+peuvent pas, pour un même travail ou pour un travail de valeur égale, être
+fondées sur l'appartenance des salariés de ces établissements à l'un ou l'autre
+sexe.

@@ -1,9 +1,10 @@
 Article L413-2
 ----
-L'utilisation des marques syndicales ou des labels par application de l'article
-précédent ne peut avoir pour effet de porter atteinte aux dispositions de
-l'article L. 412-2.
+Les syndicats ou associations professionnels de personnes exerçant la même
+profession, des métiers similaires ou des métiers connexes concourant à
+l'établissement de produits déterminés ou la même profession libérale peuvent se
+constituer librement.
 
-Sont nuls et de nul effet tout accord ou disposition tendant à obliger
-l'employeur à n'embaucher ou à ne conserver à son service que les adhérents du
-syndicat propriétaire de la marque ou du label.
+Par dérogation à ces dispositions, les particuliers occupant des employés de
+maison peuvent se grouper en syndicat pour la défense des intérêts qu'ils ont en
+commun en tant qu'employeurs de ces salariés.
