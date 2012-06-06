@@ -1,10 +1,11 @@
 Article L450-1
 ----
-Les directeurs ou administrateurs de syndicats ou d'unions de syndicats qui
-auront commis des infractions aux dispositions de l'article L. 411-1 seront
-punis d'une amende de 3750 euros. La dissolution du syndicat ou de l'union de
-syndicats pourra, en outre, être prononcée à la diligence du procureur de la
-République.
+Quiconque aura porté ou tenté de porter atteinte, soit à la libre désignation
+des délégués du personnel, soit à l'exercice régulier de leurs fonctions,
+notamment par la méconnaissance des dispositions des articles L. 435-1 à L.
+435-3 et L. 433-16 et des textes réglementaires pris pour leur application, sera
+puni d'un emprisonnement d'un an et d'une amende de 3 750 Euros ou de l'une de
+ces deux peines seulement.
 
-En cas de fausse déclaration relative aux statuts et aux noms et qualités des
-directeurs ou administrateurs, l'amende sera de 3750 euros.
+En cas de récidive, l'emprisonnement peut être porté à deux ans et l'amende à 7
+500 Euros.

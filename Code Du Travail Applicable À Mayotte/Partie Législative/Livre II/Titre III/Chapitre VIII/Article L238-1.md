@@ -3,7 +3,7 @@ Article L238-1
 Des comités d'hygiène, de sécurité et des conditions de travail sont constitués
 dans les établissements mentionnés à l'article L. 231-1 occupant au moins
 cinquante salariés. L'effectif est calculé suivant les modalités définies à
-l'article L. 620-8.
+l'article L. 011-4.
 
 La mise en place d'un comité d'hygiène, de sécurité et des conditions de travail
 ne s'impose que si l'effectif d'au moins cinquante salariés a été atteint

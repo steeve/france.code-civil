@@ -1,5 +1,9 @@
 Article L146-2
 ----
-Les sommes mentionnées à l'article précédent ne doivent pas être confondues avec
-le salaire fixe ni lui être substituées, sauf dans le cas où un salaire minimum
-a été garanti par l'employeur.
+L'interdiction prévue à l'article L. 146-1 ne vise pas les cas suivants :
+
+1° Lorsque le contrat de travail stipule que le salarié logé et nourri reçoit en
+outre un salaire déterminé en argent ;
+
+2° Lorsque, pour l'exécution d'un contrat de travail, l'employeur cède au
+salarié des fournitures à prix coûtant.

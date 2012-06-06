@@ -17,7 +17,7 @@ de la compétence de ce dernier comité.
 
 Le comité d'entreprise est consulté sur la durée et l'aménagement du temps de
 travail ainsi que sur le plan d'étalement des congés dans les conditions prévues
-à l'article L. 223-7.
+aux articles L. 223-17 à L. 223-20.
 
 Il est également consulté, en liaison avec le comité d'hygiène, de sécurité et
 des conditions de travail, sur les mesures prises en vue de faciliter la mise ou

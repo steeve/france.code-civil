@@ -21,7 +21,7 @@ aides publiques dont il a bénéficié ;
 
 3° Au paiement des rémunérations, indemnités et charges dues par lui à raison de
 l'emploi de salariés n'ayant pas fait l'objet de l'une des formalités prévues
-aux articles L. 143-3 et L. 311-1.
+aux articles L. 143-7 et L. 311-1.
 
 Les sommes dont le paiement est exigible en application des alinéas précédents
 sont déterminées au prorata de la valeur des travaux réalisés, des services

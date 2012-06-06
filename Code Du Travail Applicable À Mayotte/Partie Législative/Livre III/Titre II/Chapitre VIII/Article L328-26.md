@@ -14,4 +14,4 @@ L. 328-30 qui peuvent compenser en tout ou partie les dépenses supportées à c
 titre par l'employeur.
 
 Le refus de prendre des mesures au sens du premier alinéa peut être constitutif
-d'une discrimination au sens de l'article L. 000-4.
+d'une discrimination au sens de l'article L. 032-1.

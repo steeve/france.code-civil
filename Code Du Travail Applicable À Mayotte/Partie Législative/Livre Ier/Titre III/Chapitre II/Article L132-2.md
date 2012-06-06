@@ -3,12 +3,12 @@ Article L132-2
 La convention ou l'accord collectif de travail est un acte, écrit à peine de
 nullité, qui est conclu entre :
 
-- d'une part, une ou plusieurs organisations syndicales de salariés reconnues
-représentatives au sens de l'article L. 412-3 du présent code ou qui sont
+-d'une part, une ou plusieurs organisations syndicales de salariés reconnues
+représentatives au sens de l'article L. 412-1 du présent code ou qui sont
 affiliées auxdites organisations ou qui ont fait la preuve de leur
 représentativité dans le champ d'application de la convention ou de l'accord ;
 
-- d'autre part, une ou plusieurs organisations syndicales d'employeurs ou tout
+-d'autre part, une ou plusieurs organisations syndicales d'employeurs ou tout
 autre groupement d'employeurs, ou un ou plusieurs employeurs pris
 individuellement.
 

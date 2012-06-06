@@ -17,7 +17,7 @@ vigueur.
 
 Est réputé travail dissimulé par dissimulation d'emploi salarié le fait, pour
 tout employeur, de se soustraire intentionnellement à l'accomplissement de l'une
-des formalités prévues aux articles L. 143-3 et L. 311-1.
+des formalités prévues aux articles L. 143-7 et L. 311-1.
 
 La mention sur le bulletin de paie d'un nombre d'heures de travail inférieur à
 celui réellement effectué constitue, si cette mention ne résulte pas d'une

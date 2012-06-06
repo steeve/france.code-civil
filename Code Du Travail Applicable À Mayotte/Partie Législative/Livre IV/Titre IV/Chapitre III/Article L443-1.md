@@ -5,7 +5,7 @@ délégation du personnel comportant un nombre de membres fixé par décret en
 Conseil d'Etat compte tenu du nombre des salariés. Cette délégation comporte un
 nombre égal de titulaires et de suppléants. Les suppléants assistent aux séances
 avec voix consultative. Le calcul des effectifs s'effectue dans les conditions
-prévues à l'article L. 620-8 du présent code.
+prévues à l'article L. 011-4 du présent code.
 
 Le chef d'entreprise ou son représentant peut se faire assister par deux
 collaborateurs.

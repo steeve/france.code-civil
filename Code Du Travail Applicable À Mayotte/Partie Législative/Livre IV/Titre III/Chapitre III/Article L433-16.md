@@ -25,4 +25,4 @@ Lorsque l'institution n'a pas été mise en place ou renouvelée, un procès-ver
 de carence est établi par le chef d'entreprise ; celui-ci l'affiche dans
 l'entreprise et le transmet dans les quinze jours à l'inspecteur du travail qui
 en envoie copie aux organisations syndicales de salariés représentatives au sens
-de l'article L. 412-3.
+de l'article L. 412-1.

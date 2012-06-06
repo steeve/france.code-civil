@@ -1,9 +1,10 @@
 Article L146-1
 ----
-Dans tous les établissements commerciaux où existe la pratique du pourboire,
-toutes les perceptions faites pour le service par tout employeur sous forme de
-pourcentage obligatoirement ajouté aux notes des clients ou autrement, ainsi que
-toutes sommes remises volontairement par les clients pour le service entre les
-mains de l'employeur ou centralisées par lui, doivent être intégralement versées
-au personnel en contact avec la clientèle et à qui celle-ci avait coutume de les
-remettre directement.
+Il est interdit à tout employeur :
+
+1° D'annexer à son établissement un économat destiné à la vente, directe ou
+indirecte, aux salariés et à leurs familles de denrées ou marchandises de
+quelque nature que ce soit ;
+
+2° D'imposer au salarié l'obligation de dépenser tout ou partie de leur salaire
+dans des magasins désignés par lui.

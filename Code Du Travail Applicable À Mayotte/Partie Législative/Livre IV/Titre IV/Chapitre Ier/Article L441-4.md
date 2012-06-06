@@ -14,6 +14,6 @@ réduction importante et durable du personnel qui ramène l'effectif au-dessous 
 cinquante salariés.
 
 Tout syndicat affilié à une organisation représentative sur le plan national ou
-reconnu représentatif à Mayotte en application de l'article L. 412-3 est
+reconnu représentatif à Mayotte en application de l'article L. 412-1 est
 considéré comme représentatif dans l'entreprise pour l'application du présent
 chapitre.

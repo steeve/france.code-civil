@@ -3,7 +3,7 @@ Article L211-1
 Sous réserve de ce qui est dit à la deuxième phrase de l'article L. 113-3 les
 enfants de l'un et l'autre sexe ne peuvent être ni employés ni admis à aucun
 titre dans les établissements dépendant des employeurs visés à l'article L.
-000-1 avant l'âge de seize ans.
+011-1 avant l'âge de seize ans.
 
 Les dispositions de l'alinéa précédent ne font pas obstacle à ce que les élèves
 qui suivent un enseignement alterné accomplissent des stages d'initiation ou

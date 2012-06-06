@@ -12,7 +12,7 @@ accord-cadre conclu entre l'Etat et une organisation professionnelle ou
 interprofessionnelle.
 
 Cet accord-cadre, conclu après consultation des organisations syndicales de
-salariés représentatives au sens de l'article L. 412-3, définit les conditions
+salariés représentatives au sens de l'article L. 412-1, définit les conditions
 dans lesquelles les entreprises qui y adhèrent et les établissements
 d'enseignement ou organismes de formation mentionnés à l'alinéa précédent
 participent à la mise en oeuvre d'un programme de formation alternée. Il

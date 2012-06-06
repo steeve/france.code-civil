@@ -1,13 +1,15 @@
 Article L122-71
 ----
-L'inspecteur du travail peut à tout moment exiger le retrait ou la modification
-des dispositions contraires aux articles L. 122-68 et L. 122-69.
+A l'issue du congé, le salarié retrouve son précédent emploi ou un emploi
+similaire assorti d'une rémunération au moins équivalente. Le salarié ne peut
+invoquer aucun droit à être réemployé avant l'expiration du congé.
 
-Cette décision, motivée, est notifiée à l'employeur et communiquée, pour
-information, aux représentants du personnel.
+Le salarié informe son employeur, par lettre recommandée avec demande d'avis de
+réception, au moins trois mois avant la fin de son congé, de son intention soit
+d'être réemployé, soit de rompre son contrat de travail dans les conditions
+prévues par celui-ci, à l'exception, toutefois, de celles relatives au
+délai-congé et sans avoir, de ce fait, à payer une indemnité de rupture.
 
-Lorsque, à l'occasion d'un litige individuel, le juge du contrat de travail
-écarte l'application d'une clause contraire aux articles L. 122-68 et L. 122-69,
-une copie du jugement est adressée par le secrétariat-greffe à l'inspecteur du
-travail et aux représentants du personnel mentionnés au premier alinéa de
-l'article L. 122-70.
+Les salariés qui reprennent leur activité dans l'entreprise à l'issue du congé
+pour création d'entreprise bénéficient d'une réadaptation professionnelle en
+tant que de besoin.

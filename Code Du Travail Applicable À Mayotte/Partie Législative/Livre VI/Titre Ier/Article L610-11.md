@@ -11,7 +11,7 @@ agents de police judiciaire peuvent, sur ordonnance du président du tribunal de
 première instance de Mayotte ou d'un juge délégué par lui, rendue sur
 réquisitions du procureur de la République, procéder à des visites
 domiciliaires, perquisitions et saisies de pièces à conviction dans les lieux de
-travail des salariés visés à l'article L. 000-1 et ceux des travailleurs
+travail des salariés visés à l'article L. 011-1 et ceux des travailleurs
 indépendants et des employeurs exerçant directement une activité, même lorsqu'il
 s'agit de locaux habités.
 
