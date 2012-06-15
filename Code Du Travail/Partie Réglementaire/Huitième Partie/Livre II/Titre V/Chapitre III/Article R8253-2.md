@@ -1,7 +1,10 @@
 Article R8253-2
 ----
-Un exemplaire des procès-verbaux établi par les fonctionnaires mentionnés à
-l'article L. 8271-17, constatant l'embauche ou l'emploi d'un étranger non muni
-d'un titre l'autorisant à exercer une activité salariée en France, est transmis
-au directeur régional des entreprises, de la concurrence, de la consommation, du
-travail et de l'emploi du département dans lequel l'infraction a été constatée.
+Le montant de la contribution spéciale prévue à l'article L. 8253-1 est égal à
+cinq mille fois le taux horaire, à la date de la constatation de l'infraction,
+du minimum garanti prévu à l'article L. 3231-12.
+
+Ce montant est porté à vingt-cinq mille fois le taux horaire du minimum garanti
+lorsqu'une infraction au premier alinéa de l'article L. 8251-1 a donné lieu à
+l'application de la contribution spéciale à l'encontre de l'employeur au cours
+de la période de cinq années précédant la constatation de l'infraction.
