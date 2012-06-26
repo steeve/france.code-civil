@@ -8,8 +8,7 @@ dans un système informatisé, avant l'accès au lieu du spectacle.
 
 II. - Les exploitants de spectacles qui utilisent des systèmes de billetterie
 informatisée comportant ou non l'impression de billets doivent se conformer aux
-obligations prévues au cahier des charges annexé à l'arrêté du 8 mars 1993
-modifié.
+obligations prévues au cahier des charges annexé à l'arrêté du 8 mars 1993.
 
 III. - L'entrée doit faire l'objet d'un contrôle manuel ou électronique.
 Lorsqu'un billet est imprimé, il doit rester entre les mains du spectateur. Si

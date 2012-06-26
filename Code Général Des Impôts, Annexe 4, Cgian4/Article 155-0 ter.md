@@ -4,9 +4,7 @@ Pour l'application des dispositions de l'article 1599 quater A bis du code
 général des impôts, sont considérés comme des matériels roulants relevant de la
 catégorie " Autre matériel " les matériels roulants de transport public
 ferroviaire de voyageurs qui circulent sur les lignes du réseau express régional
-mentionnées au troisième alinéa de l'article 2 de l'ordonnance n° 59-151 du 7
-janvier 1959 relative à l'organisation des transports de voyageurs en
-Ile-de-France.
+mentionnées à l'article L. 2142-3 du code des transports.
 
 Les matériels roulants relevant de cette catégorie comprennent :
 

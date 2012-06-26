@@ -1,9 +1,9 @@
 Article 50-00 C
 ----
-En application des articles 286 I et 286 J de l'annexe II du code général des
-impôts, et en fonction de l'activité des entrepositaires agréés concernés,
-chacun des comptes de la comptabilité matières doit reprendre notamment les
-informations suivantes :
+En application de l'article 286 I et de l'article 286 J de l'annexe II au code
+général des impôts, et en fonction de l'activité des entrepositaires agréés
+concernés, chacun des comptes de la comptabilité matières doit reprendre
+notamment les informations suivantes :
 
 1° La nature, le numéro et la date de départ ou de réception du document
 d'accompagnement mentionné aux articles 302 M et 302 M ter dudit code ou des
@@ -13,10 +13,10 @@ entrées et sorties de produits des chais ou locaux du site d'exploitation ;
 2° La date des déclarations de mise en production d'alcool, de fabrication de
 mistelles, vermouths, vins de liqueur ou apéritifs à base de vin, de cidre ou de
 poiré, de fabrication de vins mousseux, et de fabrication de vins doux naturels,
-prévues aux articles 312, 343 et 416 dudit code ;
+prévues aux articles 312,343 et 416 dudit code ;
 
 3° La date des déclarations de récolte, des stocks et de production prévues aux
-articles 407, 408 et 410 bis dudit code ;
+articles 407,408 et 410 bis dudit code ;
 
 4° La date de la prise en charge des produits alcooligènes visés à l'article 338
 du même code ;
@@ -48,7 +48,7 @@ e) L'avis de blocage, l'engagement de garantie ou la mainlevée du porteur de
 warrant agricole ou du porteur de l'engagement de garantie.
 
 8° La référence aux rhums traditionnels des départements d'outre-mer, soumis au
-tarif d'imposition prévu au 1° du I de l'article 403 au code général des impôts,
+tarif d'imposition prévu au 1° du I de l'article 403 du code général des impôts,
 sous couvert d'une rubrique intitulée " Rhums des DOM, article 403 (I, 1°) ",
 subdivisée, selon le cas, par appellation d'origine ou par dénomination
 économique ou géographique.

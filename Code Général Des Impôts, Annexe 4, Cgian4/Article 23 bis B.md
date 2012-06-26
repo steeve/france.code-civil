@@ -43,7 +43,4 @@ qui a accordé la subvention ou consenti l'abandon. Toutefois, le résultat
 consolidé n'est pas modifié lorsque la société débitrice est susceptible de
 bénéficier des dispositions de ce même article.
 
-4. Si les résultats d'une exploitation sont imposables selon les modalités
-prévues à l'article 217 bis du code général des impôts, les sommes qui sont
-ajoutées ou retranchées pour la détermination du résultat consolidé ne sont
-retenues que pour les deux tiers de leur montant.
+4. (Sans objet) (1)
