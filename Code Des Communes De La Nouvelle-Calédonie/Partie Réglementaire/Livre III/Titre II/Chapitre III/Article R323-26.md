@@ -5,6 +5,8 @@ sous l'autorité du directeur, la comptabilité analytique.
 
 Le directeur peut, avec l'agrément du conseil d'administration et sur avis
 conforme de l'agent comptable, créer des régies de recettes et des régies
-d'avance soumises aux conditions de fonctionnement prévues aux articles 3 à 14
-du décret n° 64-486 du 28 mai 1964 relatif aux régies de recettes et aux régies
-d'avances des organismes publics.
+d'avances soumises aux conditions de fonctionnement prévues par le décret n°
+2012-829 du 27 juin 2012 relatif aux dispositions applicables aux régies de
+recettes, aux régies d'avances et aux régies de recettes et d'avances des
+collectivités publiques de la Nouvelle-Calédonie et de leurs établissements
+publics.
