@@ -22,5 +22,5 @@ internationales ou de son représentant ;
 publiques de la direction nationale de vérification des situations fiscales
 personnelles ou de son représentant.
 
-Chaque représentant a au moins le grade de directeur divisionnaire des impôts ou
-un grade équivalent.
+Chaque représentant a au moins le grade d'administrateur des finances publiques
+adjoint ou un grade équivalent.

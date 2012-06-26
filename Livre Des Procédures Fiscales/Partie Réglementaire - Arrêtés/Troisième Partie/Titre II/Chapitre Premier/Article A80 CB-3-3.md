@@ -16,7 +16,7 @@ président ou dans le cas prévu au cinquième alinéa de l'article R. * 80 CB-3
 publiques d'une direction dont le département est de la compétence géographique
 du collège ;
 
-― de trois directeurs divisionnaires des impôts de directions dont le
+― de trois administrateurs des finances publiques adjoints de directions dont le
 département est de la compétence géographique du collège.
 
 Les membres du collège sont désignés par le chef des services fiscaux ou
