@@ -1,7 +1,8 @@
 Article R212-54
 ----
 Le secrétariat permanent du Conseil supérieur des chambres régionales des
-comptes est assuré par un membre du corps des chambres régionales des comptes
+comptes est assuré sauf lorsqu'il se réunit pour statuer en formation
+disciplinaire, par un membre du corps des chambres régionales des comptes
 n'appartenant pas à ce conseil, affecté à ces fonctions avec son accord, par
 arrêté du premier président de la Cour des comptes, sur proposition du conseil
 supérieur. La durée de cette affectation ne peut excéder cinq ans. Il ne peut y

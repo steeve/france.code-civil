@@ -6,8 +6,7 @@ suppléant.
 
 Sont électeurs les membres de la Cour des comptes en position d'activité, de
 congé parental ou de détachement, à l'exclusion de ceux qui exercent les
-fonctions de président de chambre régionale ou territoriale des comptes ou de
-vice-président de la chambre régionale des comptes d'Ile-de-France.
+fonctions de président ou de vice-président de chambre régionale des comptes.
 
 Sont éligibles les conseillers maîtres à la Cour des comptes qui ont la qualité
 d'électeur, à l'exclusion du président de la mission permanente d'inspection,

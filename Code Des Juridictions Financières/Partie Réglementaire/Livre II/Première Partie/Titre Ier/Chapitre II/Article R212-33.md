@@ -21,8 +21,7 @@ conformément à la règle de l'imparité fixée par le premier alinéa de l'art
 R. 212-31, du ou des deux magistrats présents à la chambre les plus anciens dans
 le grade le plus élevé.
 
-A la chambre régionale des comptes d'Ile-de-France, le vice-président est membre
-de la formation restreinte.
+Le vice-président est membre de la formation restreinte.
 
 La formation en sections réunies est composée du président de la chambre, du
 vice-président et des membres des sections intéressées par une même affaire.

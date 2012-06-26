@@ -1,8 +1,7 @@
 Article R212-26
 ----
-Le président de la chambre régionale des comptes, le vice-président de la
-chambre régionale des comptes d'Ile-de-France et les présidents de section
-disposent du service du greffe de la chambre.
+Le président de la chambre régionale des comptes, le vice-président et les
+présidents de section disposent du service du greffe de la chambre.
 
 Le greffe prépare l'ordre du jour des séances de la chambre et des sections,
 note les décisions prises et assure la tenue des rôles, registres et dossiers.
