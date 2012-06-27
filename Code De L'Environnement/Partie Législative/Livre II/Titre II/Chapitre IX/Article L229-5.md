@@ -1,10 +1,12 @@
 Article L229-5
 ----
 Les dispositions de la présente section s'appliquent aux installations classées
-rejetant un gaz à effet de serre dans l'atmosphère lorsqu'elles exercent une des
-activités dont la liste est fixée par décret en Conseil d'Etat. Ce même décret
-tient compte en outre de la capacité de production ou du rendement de
-l'installation.
+et aux équipements et installations nécessaires à l'exploitation d'une
+installation nucléaire de base mentionnés à l'article L. 593-3 qui rejettent un
+gaz à effet de serre dans l'atmosphère et exercent une des activités dont la
+liste est fixée par décret en Conseil d'Etat. Pour l'établissement de cette
+liste, il est tenu compte de la capacité de production ou du rendement de
+l'installation ou de l'équipement.
 
 Les dispositions de la présente section s'appliquent également aux exploitants
 d'aéronef, rejetant un gaz à effet de serre dans l'atmosphère au cours de tout
@@ -13,6 +15,16 @@ membre de l'Union européenne, à l'exception des vols dont la liste est fixée 
 décret, dont la France est l'Etat membre responsable.
 
 Au sens de la présente section :
+
+-les gaz à effet de serre sont les gaz énumérés à l'annexe I de la directive
+2003/87/ CE du 13 octobre 2003 et les autres composants gazeux de l'atmosphère,
+tant naturels qu'anthropiques, qui absorbent et renvoient un rayonnement
+infrarouge ;
+
+-une tonne d'équivalent dioxyde de carbone est une tonne métrique de dioxyde de
+carbone (CO2) ou une quantité de tout autre gaz à effet de serre mentionné à
+l'annexe II de la directive 2003/87/ CE du 13 octobre 2003 ayant un potentiel de
+réchauffement planétaire équivalent ;
 
 -un exploitant d'aéronef est la personne qui exploite un aéronef au moment où il
 effectue une activité aérienne, ou le propriétaire de l'aéronef lorsque cette

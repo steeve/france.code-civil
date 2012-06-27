@@ -6,7 +6,7 @@ mentionnés à l'article L. 229-5.
 I.-Au sens du présent article, on entend par " période " la période de temps au
 titre de laquelle des quotas sont affectés à des exploitants d'aéronef, la
 première période étant constituée de l'année 2012 et les périodes à partir de
-2013 étant des périodes successives de cinq ans.
+2013 étant des périodes successives de huit ans.
 
 II.-Pour chaque période, chaque exploitant d'aéronef peut solliciter
 l'affectation de quotas délivrés à titre gratuit en soumettant à l'autorité

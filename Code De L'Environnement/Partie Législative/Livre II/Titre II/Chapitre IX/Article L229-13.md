@@ -1,15 +1,11 @@
 Article L229-13
 ----
-Les quotas sont valables pendant la période au titre de laquelle ils sont
-affectés tant qu'ils ne sont pas utilisés.
+Les quotas délivrés à compter du 1er janvier 2013 sont valables pour les
+émissions produites au cours de périodes de huit ans, dont la première commence
+le 1er janvier 2013.
 
-Les quotas délivrés ou acquis au cours d'une période d'affectation qui n'ont pas
-été utilisés au cours de cette période et annulés en application de l'article L.
-229-14 sont rendus à l'Etat et annulés au début de la période suivante. La même
-quantité de quotas d'émission valables pour la nouvelle période est
-simultanément délivrée aux personnes qui étaient détentrices des quotas ainsi
-annulés.
-
-Il n'est pas procédé à la délivrance des quotas prévue à la seconde phrase du
-deuxième alinéa en remplacement des quotas annulés à l'issue de la période
-triennale débutant le 1er janvier 2005.
+Quatre mois après le début de chaque période de huit ans, les quotas qui ne sont
+plus valables et qui n'ont pas été restitués et annulés sont annulés. Des quotas
+sont délivrés aux personnes pour la période en cours afin de remplacer tout
+quota qu'elles détenaient et qui a été annulé conformément à la disposition qui
+précède.

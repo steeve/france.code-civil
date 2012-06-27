@@ -16,6 +16,16 @@ validée par l'inspection des installations classées. La déclaration des
 l'inspection des installations classées n'a pas formulé d'observation dans un
 délai fixé par l'arrêté prévu à l'article L. 229-6 ;
 
+-par chaque exploitant des équipements et installations mentionnés au premier
+alinéa de l'article L. 593-3 et des installations classées mentionnées au
+deuxième alinéa de ce même article, des émissions de gaz à effet de serre de ses
+équipements ou installations, vérifiée aux frais de l'exploitant par un
+organisme déclaré auprès de l'autorité administrative et accrédité à cet effet,
+puis validée par l'Autorité de sûreté nucléaire. La déclaration des émissions de
+gaz à effet de serre d'un exploitant est réputée validée si l'Autorité de sûreté
+nucléaire n'a pas formulé d'observation dans un délai fixé par l'arrêté prévu à
+l'article L. 229-6 ;
+
 -ou par chaque exploitant d'aéronef, des émissions de gaz à effet de serre
 résultant de ses activités aériennes, vérifiée aux frais de l'exploitant par un
 organisme déclaré auprès de l'autorité administrative et accrédité à cet effet,

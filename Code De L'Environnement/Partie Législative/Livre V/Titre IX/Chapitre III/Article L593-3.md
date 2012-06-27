@@ -14,4 +14,7 @@ l'installation nucléaire de base restent soumis, selon le cas, aux dispositions
 de la section 1 du chapitre IV du titre Ier du livre II ou à celles du titre Ier
 du présent livre, l'Autorité de sûreté nucléaire exerçant alors les attributions
 en matière de décisions individuelles et de contrôle prévues par ces
-dispositions.
+dispositions, ainsi que celles prévues par les dispositions de la section 2 du
+chapitre IX du titre II du livre II à l'exception des décisions d'affectation
+des quotas d'émission de gaz à effet de serre prises en application des articles
+L. 229-7 à L. 229-9.

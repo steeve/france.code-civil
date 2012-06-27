@@ -13,9 +13,6 @@ part des quotas qui lui ont été ainsi affectés.
 La quantité de gaz à effet de serre émise au cours d'une année civile est
 calculée ou mesurée et exprimée en tonnes de dioxyde de carbone.
 
-Aucun quota n'est alloué à titre gratuit aux installations de captage, aux
-pipelines destinés au transport ou aux sites de stockage de dioxyde de carbone.
-
 A l'issue de chacune des années civiles de la période d'affectation,
 l'exploitant restitue à l'Etat sous peine des sanctions prévues à l'article L.
 229-18 un nombre de quotas égal au total des émissions de gaz à effet de serre
@@ -35,10 +32,26 @@ gaz fournis par une installation sidérurgique, les quotas correspondants sont
 affectés et délivrés à l'exploitant de cette dernière installation. Celui-ci est
 seul responsable, à ce titre, des obligations prévues par la présente section.
 
-L'exploitant peut, dans la limite du pourcentage prévu par le VI de l'article L.
-229-8 pour les installations et par le V de l'article L. 229-12 pour les
-activités aériennes, s'acquitter de l'obligation prévue au quatrième alinéa du
-présent article au moyen de certaines unités visées par l'article L. 229-22
-inscrites à son compte dans le registre national mentionné à l'article L.
-229-16. Un décret en Conseil d'Etat précise celles des unités qui peuvent ainsi
-être utilisées.
+L'exploitant peut, dans la limite des pourcentages mentionnés à l'article 11 bis
+de la directive 2003/87/ CE du 13 octobre 2003, s'acquitter de l'obligation
+prévue au quatrième alinéa du présent article au moyen de certaines unités
+inscrites à son compte dans le registre de l'Union mentionné à l'article L.
+229-16. Ces unités recouvrent :
+
+-les unités issues des activités de projets visés à l'article L. 229-22 ;
+
+-les unités provenant d'autres activités que les activités de projets ci-dessus
+destinées à réduire les émissions conformément aux accords multilatéraux ou
+bilatéraux conclus par l'Union européenne avec les pays tiers ;
+
+-les unités issues d'un système contraignant d'échange de droits d'émission
+reconnu par un accord entre l'Union européenne et l'entité nationale, infra ou
+supranationale de laquelle ce système dépend ;
+
+-les unités issues de projets de réduction des émissions de gaz à effet de serre
+non couvertes par le système communautaire d'échange de quotas d'émission et
+réalisés sur le territoire d'un Etat membre de l'Union européenne.
+
+Les conditions d'utilisation de ces unités sont déterminées par les actes
+d'exécution de l'Union européenne prévus aux articles 11 bis, 24 bis et 25 de la
+directive 2003/87/ CE du 13 octobre 2003.

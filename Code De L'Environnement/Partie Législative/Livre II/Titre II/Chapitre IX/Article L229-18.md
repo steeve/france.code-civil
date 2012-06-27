@@ -10,9 +10,17 @@ fixée par décret ;
 
 -ou lorsque l'inspection des installations classées constate que la déclaration
 relative aux émissions de l'installation au cours de cette année ne répond pas
-aux conditions fixées par l'arrêté relatif aux installations prévu à l'article
-L. 229-6. La décision, qui doit être motivée, intervient alors au plus tard à
-l'expiration du délai mentionné au III de l'article L. 229-14 ;
+aux conditions fixées par l'arrêté relatif aux installations classées prévu à
+l'article L. 229-6. La décision, qui doit être motivée, intervient alors au plus
+tard à l'expiration du délai mentionné au III de l'article L. 229-14 ;
+
+-ou lorsque l'Autorité de sûreté nucléaire constate que la déclaration relative
+aux émissions des équipements et installations mentionnés au premier alinéa de
+l'article L. 593-3 ou des installations classées mentionnées au deuxième alinéa
+de ce même article au cours de cette année ne répond pas aux conditions fixées
+par l'arrêté prévu à l'article L. 229-6 qui leur est applicable. La décision,
+qui doit être motivée, intervient alors au plus tard à l'expiration du délai
+mentionné au III de l'article L. 229-14 ;
 
 -ou lorsque l'autorité compétente constate que la déclaration relative aux
 émissions résultant de ses activités aériennes de l'année, ou la vérification de
@@ -45,9 +53,16 @@ Il doit s'acquitter de cette obligation au plus tard l'année suivante. Les
 quotas qu'il détient demeurent incessibles et une nouvelle amende est prononcée
 chacune des années suivantes tant qu'il n'est pas satisfait à cette obligation.
 
-Le montant de l'amende est fixé à 40 euros par quota non restitué pour la
-période triennale débutant le 1er janvier 2005 et à 100 euros pour les périodes
-suivantes. Le recouvrement est effectué au profit du Trésor public comme en
+Le montant de cette amende est fixé à 100 € par quota non restitué.
+
+L'autorité administrative prononce à l'encontre de l'exploitant d'une
+installation exclue du système d'échange en application de l'article L. 229-5-1
+une amende proportionnelle au volume des émissions excédentaires. Le montant de
+cette amende est fixé par décret. Il correspond à la valeur moyenne du quota
+d'émission pendant l'année précédant la déclaration d'émissions par tonne
+équivalent dioxyde de carbone.
+
+Le recouvrement de ces amendes est effectué au profit du Trésor public comme en
 matière de créances étrangères à l'impôt et au domaine.
 
 La décision prononçant l'amende peut en outre prévoir que le nom de l'exploitant
