@@ -7,7 +7,7 @@ sont assurés :
 1° a) Par l'Autorité de contrôle prudentiel sur les intermédiaires habilités
 mentionnés à l'article L. 211-4, sur la Caisse des dépôts et consignations, et
 sur les organismes et les personnes qui lui sont soumis en vertu de l'article L.
-612-2, à l'exception des personnes mentionnées aux 4°,6° et 7° du A, aux 6°,7°
+612-2, à l'exception des personnes mentionnées aux 4°, 6° et 7° du A, aux 6°, 7°
 et 8° du B du I et au 3° du II de cet article ;
 
 b) A cette fin, le contrôle de l'Autorité de contrôle prudentiel sur la Caisse
@@ -38,8 +38,9 @@ consignations et à ses dirigeants ;
 2° Par l'Autorité des marchés financiers sur les sociétés de gestion et les
 sociétés de gestion de portefeuille, au titre de leurs activités mentionnées au
 6° de l'article L. 561-2, sur les dépositaires centraux et les gestionnaires de
-systèmes de règlement et de livraison d'instruments financiers et sur les
-conseillers en investissements financiers ;
+systèmes de règlement et de livraison d'instruments financiers, sur les
+personnes autorisées au titre de l'article L. 621-18-5 et sur les conseillers en
+investissements financiers ;
 
 3° (Supprimé)
 
@@ -87,7 +88,7 @@ les opérateurs de ventes volontaires de meubles aux enchères publiques,
 conformément aux articles L. 321-18 et L. 321-22 du code de commerce.
 
 II.-Le contrôle des obligations prévues aux chapitres Ier et II du présent titre
-est exercé sur les personnes mentionnées aux 8°,9° et 15° de l'article L. 561-2
+est exercé sur les personnes mentionnées aux 8°, 9° et 15° de l'article L. 561-2
 par des inspections conduites par l'autorité administrative compétente telle que
 désignée par décret en Conseil d'Etat. Le contrôle des obligations prévues aux
 chapitres Ier et II du présent titre est exercé sur les personnes mentionnées au
@@ -122,7 +123,7 @@ applicables mentionnées au premier alinéa. Cette autorité peut recueillir sur
 place ou sur convocation des renseignements et justifications.
 
 Les auditions des personnes contrôlées, auxquelles les inspecteurs peuvent
-procéder, font l'objet de comptes rendus écrits.A l'issue des contrôles, les
+procéder, font l'objet de comptes rendus écrits. A l'issue des contrôles, les
 inspecteurs établissent un procès-verbal qui en énonce la nature, la date et le
 lieu. La liste des documents dont une copie a été délivrée lui est annexée. Le
 procès-verbal est signé par les inspecteurs ayant procédé au contrôle ainsi que

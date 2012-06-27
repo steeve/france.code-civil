@@ -9,6 +9,6 @@ résultant de la mise en oeuvre d'activités de projet.
 Afin d'assurer le respect des engagements internationaux de maîtrise des
 émissions de gaz à effet de serre pris par la France, le ministre chargé de
 l'environnement peut limiter le report des unités détenues dans le registre
-national mentionné à l'article L. 229-16 à l'issue de chaque période de cinq ans
+européen mentionné à l'article L. 229-16 à l'issue de chaque période de cinq ans
 prévue au I de l'article L. 229-8 dans les conditions fixées par le décret en
 Conseil d'Etat prévu par l'article L. 229-24.

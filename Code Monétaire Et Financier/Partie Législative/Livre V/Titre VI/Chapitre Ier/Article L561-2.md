@@ -81,4 +81,6 @@ conditions prévues à l'article L. 561-3 ;
 15° Les personnes exerçant l'activité de domiciliation mentionnée aux articles
 L. 123-11-2 et suivants du code de commerce ;
 
-16° Les agents sportifs.
+16° Les agents sportifs ;
+
+17° Les personnes autorisées au titre du I de l'article L. 621-18-5.

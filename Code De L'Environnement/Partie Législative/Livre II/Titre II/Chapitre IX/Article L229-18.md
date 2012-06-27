@@ -30,11 +30,11 @@ conditions dans lesquelles l'exploitant est préalablement consulté.
 II.-Chaque année, lorsqu'à une date fixée par décret l'exploitant ou le
 mandataire n'a pas restitué un nombre de quotas suffisant pour couvrir ses
 émissions de l'année précédente, et lorsque l'autorité chargée de la tenue du
-registre national a informé l'autorité administrative de l'inobservation de
-cette obligation et de l'excédent d'émissions de gaz à effet de serre par
-rapport au nombre de quotas restitués, l'autorité compétente met en demeure
-l'exploitant ou le mandataire de satisfaire à cette obligation dans un délai
-d'un mois.
+registre européen mentionné à l'article L. 229-16 a informé l'autorité
+administrative de l'inobservation de cette obligation et de l'excédent
+d'émissions de gaz à effet de serre par rapport au nombre de quotas restitués,
+l'autorité compétente met en demeure l'exploitant ou le mandataire de satisfaire
+à cette obligation dans un délai d'un mois.
 
 L'autorité administrative prononce à l'encontre de l'exploitant ou du mandataire
 qui ne respecte pas les prescriptions de la mise en demeure dans le délai
@@ -55,5 +55,5 @@ ou du mandataire sera rendu public lorsqu'elle sera devenue définitive.
 
 Au cas où un exploitant d'aéronef mentionné à l'article L. 229-5 ne se conforme
 pas aux exigences du présent II, il peut faire l'objet d'une interdiction
-d'exploitation dans les conditions prévues à l'article 16 de la directive 2003 /
-87 / CE du 13 octobre 2003.
+d'exploitation dans les conditions prévues à l'article 16 de la directive
+2003/87/ CE du 13 octobre 2003.
