@@ -21,7 +21,11 @@ Commission en application de son article 4 ;
 
 f) Des mesures prises par l'autorité administrative compétente en vertu du
 deuxième alinéa des articles L. 6753-1, L. 6763-5, L. 6773-5 et L. 6783-6 du
-code des transports,
+code des transports ;
+
+g) Des mesures restrictives d'activité et des mesures correctives ou de nature à
+compenser une non-conformité relevée prévues au II des articles R. 213-4 et R.
+213-4-2,
 
 le préfet peut, en tenant compte de la nature et de la gravité des manquements
 et éventuellement des avantages qui en sont tirés, après avis de la commission
@@ -32,7 +36,7 @@ amende administrative d'un montant maximal de 750 euros ;
 
 -soit suspendre l'autorisation ou le titre de circulation prévu aux articles R.
 213-3-2 et R. 213-3-3 pour une durée ne pouvant pas excéder trente jours. Dans
-ce cas, il en exige la remise immédiate.
+ce cas, il en exige la remise immédiate ;
 
 Toutefois, l'amende ne peut excéder 150 euros et la durée de la suspension six
 jours, en cas de défaut de port apparent ou de l'utilisation en dehors de leur
@@ -52,8 +56,8 @@ relatifs aux points c et d de l'article R. 213-1-5 ;
 c) De l'article L. 6341-1 du code des transports, de l'article L. 6342-1 du code
 des transports, de l'article L. 6342-4 du code des transports en ce qu'il
 prévoit que les agents effectuant des inspections-filtrages et des fouilles de
-sûreté sont agréés, de l'article R. 213-3 et des textes pris pour leur
-application ;
+sûreté sont agréés, de l'article R. 213-3, R. 213-4-4 et R. 213-4-5 et des
+textes pris pour leur application ;
 
 d) Du règlement (CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars
 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de
@@ -66,17 +70,20 @@ l'article R. 213-2-1 et au II de l'article R. 213-2-2 ;
 
 f) De l'article R. 213-5-1 et des textes pris pour son application ;
 
-g) Des articles R. 213-10, R. 213-11 et R. 213-12 et des textes pris pour leur
-application ;
+g) Des mesures restrictives d'activité et des mesures correctives ou de nature à
+compenser une non-conformité relevée prévues au II des articles R. 213-4 et R.
+213-4-2 et à l'article R. 213-4-1 ;
 
 h) Des mesures prises par l'autorité administrative compétente en vertu du
 deuxième alinéa des articles L. 6753-1, L. 6763-5, L. 6773-5 et L. 6783-6 du
-code des transports,
+code des transports ;
+
+i) Des III et IV de l'article R. 213-4, et du I de l'article R. 213-4-2,
 
 le préfet peut, en tenant compte de la nature et de la gravité des manquements
 et éventuellement des avantages qui en sont tirés, après avis de la commission
 instituée à l'article R. 217-3-3, prononcer à l'encontre de la personne morale
-responsable une amende administrative d'un montant maximal de 7 500 euros.
+responsable une amende administrative d'un montant maximal de 7 500 euros ;
 
 Toutefois, l'amende ne peut excéder 1 500 euros en cas de défaut de présentation
 des documents exigibles par la réglementation. Ces plafonds peuvent être doublés
