@@ -94,7 +94,7 @@ Bouches-du-Rhône
 
 Aix-en-Provence
 
-27
+28
 
 4
 
@@ -358,9 +358,9 @@ Caen
 
 Lisieux
 
-18
+14
 
-3
+2
 
 
 Manche
