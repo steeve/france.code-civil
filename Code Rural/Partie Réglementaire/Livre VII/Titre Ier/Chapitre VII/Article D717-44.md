@@ -1,12 +1,13 @@
 Article D717-44
 ----
-Toute entreprise agricole employant habituellement au moins quatre cents
-salariés peut être autorisée à organiser un service autonome de santé au travail
-par décision du directeur régional du travail et de l'emploi, conformément aux
-dispositions de l'article L. 717-3.
+Toute entreprise agricole employant habituellement au moins cinq cents salariés
+peut être autorisée à organiser un service autonome de santé au travail par
+décision du directeur régional des entreprises, de la concurrence, de la
+consommation, du travail et de l'emploi, conformément aux dispositions de
+l'article L. 717-3.
 
 L'autorisation ne peut être refusée que pour des motifs tirés de la
-non-conformité aux prescriptions du présent chapitre. Le refus est motivé.
+non-conformité aux prescriptions de la présente section. Le refus est motivé.
 
 L'autorisation est valable pour cinq ans.
 
@@ -18,9 +19,9 @@ fixés par arrêté du ministre chargé de l'agriculture.
 L'autorisation peut être retirée par les autorités qui l'ont accordée lorsque
 les prescriptions du présent chapitre ne sont pas respectées. Ce retrait,
 motivé, ne peut intervenir que lorsque l'employeur aura été invité par le
-directeur régional du travail, de l'emploi et de la formation professionnelle à
-prendre toutes mesures utiles et n'aura pas accompli, dans le délai prescrit,
-les diligences nécessaires.
+directeur régional des entreprises, de la concurrence, de la consommation, du
+travail et de l'emploi à prendre toutes mesures utiles et n'aura pas accompli,
+dans le délai prescrit, les diligences nécessaires.
 
 L'administration peut autoriser le maintien d'un service autonome dans les
 entreprises où une réduction de l'effectif du personnel a ramené cet effectif

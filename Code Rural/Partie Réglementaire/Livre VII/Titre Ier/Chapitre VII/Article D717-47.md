@@ -1,10 +1,10 @@
 Article D717-47
 ----
 Les entreprises non agricoles qui ont organisé un service de santé au travail en
-application de l'article R. 241-2 du code du travail peuvent être autorisées,
-par décision de la politique sociale agricoles et du directeur régional du
-travail et de l'emploi, à faire exercer par ledit service la surveillance
-médicale de ceux de leurs salariés mentionnés à l'article R. 717-1.
+application de l'article D. 4622-5 du code du travail peuvent être autorisées,
+par le directeur régional des entreprises, de la concurence, de la consommation,
+du travail et de l'emploi, à faire exercer par ledit service la surveillance
+médicale de ceux de leurs salariés mentionnés à l'article D. 717-1.
 
 Elles doivent à cet effet présenter une demande accompagnée d'un dossier dont
 les éléments, au nombre desquels figure l'avis de la caisse de mutualité sociale

@@ -6,5 +6,5 @@ missions du service de santé au travail.
 
 Ces conventions sont conclues pour une période au plus égale à trois ans
 renouvelables et sont approuvées par les préfets de région compétents. Elles
-doivent respecter les dispositions du III de l'article R. 717-51 relatif à
-l'effectif de médecins du travail.
+doivent respecter les dispositions de l'article D. 717-51-2 relatif à l'effectif
+de médecins du travail.

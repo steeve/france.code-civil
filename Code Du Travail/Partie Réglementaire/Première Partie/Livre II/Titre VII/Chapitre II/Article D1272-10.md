@@ -19,5 +19,5 @@ chèque-emploi associatif vaut :
 1° Déclaration auprès des administrations ou organismes intéressés au titre des
 dispositions du présent code mentionnées au 2° du I ;
 
-2° Accomplissement des formalités prévues pour l'application des articles R.
+2° Accomplissement des formalités prévues pour l'application des articles D.
 717-1 et R. 717-14 du code rural et de la pêche maritime.

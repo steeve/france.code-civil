@@ -2,7 +2,8 @@ Article D717-2
 ----
 Les personnes mentionnées aux 1°, 2° et 5° de l'article L. 722-10 et à l'article
 L. 722-21, ainsi que leurs conjoints et les membres non salariés de leur famille
-peuvent demander à bénéficier du service de santé au travail en agriculture.
+peuvent demander à bénéficier du service de santé au travail mentionné au 1° ou
+au 2° de l'article D. 717-1.
 
 Leur demande est adressée à la caisse de mutualité sociale agricole du
 département du siège de l'exploitation ou à l'association constituée par
