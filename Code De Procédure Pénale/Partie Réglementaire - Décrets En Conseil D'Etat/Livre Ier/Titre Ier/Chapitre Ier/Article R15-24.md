@@ -13,8 +13,7 @@ judiciaires de la gendarmerie nationale et les brigades de renseignements et
 d'investigations judiciaires dans les collectivités d'outre-mer et en
 Nouvelle-Calédonie ;
 
-3° Les brigades motorisées de la gendarmerie départementale et de la gendarmerie
-mobile ;
+3° Les brigades motorisées de la gendarmerie départementale ;
 
 4° Les pelotons de surveillance et d'intervention de la gendarmerie
 départementale ;

@@ -9,9 +9,10 @@ parties de celles-ci, sont les suivantes :
 
 2° Les sections d'appui judiciaire ;
 
-3° Les pelotons d'autoroute et les brigades rapides d'int rvention dans le
-département où ils sont implantés, et au-delà des limites de ce département, sur
-les voies de circulation auxquelles ils sont affectés ;
+3° Les pelotons d'autoroute, les pelotons motorisés et les brigades rapides
+d'intervention de la gendarmerie dans le département où ils sont implantés, et
+au-delà des limites de ce département, sur les voies de circulation auxquelles
+ils sont affectés ;
 
 4° Les sections ou détachements des formations aériennes de la gendarmerie ;
 

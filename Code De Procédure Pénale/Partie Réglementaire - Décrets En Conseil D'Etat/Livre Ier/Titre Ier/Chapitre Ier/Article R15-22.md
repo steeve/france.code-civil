@@ -20,5 +20,7 @@ gendarmerie nationale ;
 
 7° La section de recherches de la gendarmerie maritime ;
 
-8° Les brigades nautiques et fluviales de la gendarmerie départementale
+8° La section de recherches de Paris ;
+
+9° Les brigades nautiques et fluviales de la gendarmerie départementale
 comportant des pôles de plongée à palier.
