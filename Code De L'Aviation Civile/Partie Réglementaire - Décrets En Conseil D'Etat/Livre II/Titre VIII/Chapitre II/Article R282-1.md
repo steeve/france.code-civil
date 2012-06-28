@@ -1,14 +1,9 @@
 Article R282-1
 ----
-Sans préjudice de l'application des dispositions régissant le cas des
-contraventions de grande voirie et le cas des contraventions au code de la route
-en zone publique, ceux qui ont contrevenu aux dispositions de l'arrêté
-préfectoral pris en application des points c, d en ce qui concerne la conduite,
-la circulation et le stationnement des véhicules, g, h et i de l'article R.
-213-3 sont punis :
-
-1. De l'amende prévue pour les contraventions de la 4e classe, lorsque
-l'infraction aura été commise dans la zone réservée ;
-
-2. De l'amende prévue pour les contraventions de la 3e classe dans la zone
-publique.
+Pour la constatation des infractions aux dispositions visées aux articles R.
+282-2 et R. 282-3 ainsi que pour la constatation des manquements aux
+dispositions mentionnées aux articles R. 217-2 et R. 217-3, l'habilitation
+prévue à l'article L. 6372-1 du code des transports est prononcée par le
+ministre chargé des transports. Elle mentionne son objet et la circonscription
+géographique dans laquelle l'agent habilité à cet effet a vocation, en raison de
+son affectation, à constater ces infractions et manquements.

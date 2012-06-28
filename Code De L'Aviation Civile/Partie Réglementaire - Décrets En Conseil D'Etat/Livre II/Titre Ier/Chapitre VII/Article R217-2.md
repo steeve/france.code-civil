@@ -1,22 +1,31 @@
 Article R217-2
 ----
-Les manquements aux dispositions énumérées à l'article R. 217-1 font l'objet de
-constats écrits dressés par les militaires de la gendarmerie, les officiers et
-les agents de la police nationale, les agents des douanes ainsi que par les
-fonctionnaires et agents spécialement habilités et assermentés en application de
-l'article L. 282-11. Ils portent la mention des sanctions encourues. Ils sont
-notifiés à la personne concernée et communiqués au préfet par le chef du service
-auquel appartient le rédacteur du constat.
+I. - En cas de manquement constaté aux dispositions des arrêtés préfectoraux et
+de leurs mesures particulières d'application relatifs aux points a, b et g du II
+de l'article R. 213-1-4, et au point f du II de ce même article lorsque le
+manquement est constaté en zone non librement accessible au public dont l'accès
+est réglementé, le préfet peut, en tenant compte de la nature et de la gravité
+des manquements et éventuellement des avantages qui en sont tirés :
 
-A l'expiration du délai donné à la personne concernée pour présenter ses
-observations, le préfet peut saisir la commission instituée à l'article R. 217-4
-qui lui émet un avis sur les suites à donner.
+- soit prononcer à l'encontre de la personne physique auteur du manquement une
+amende administrative d'un montant maximal de 750 euros ;
 
-La personne concernée doit avoir connaissance de l'ensemble des éléments de son
-dossier. Elle doit pouvoir être entendue par la commission avant que celle-ci
-émette son avis et se faire représenter ou assister par la personne de son
-choix. La commission peut également entendre l'employeur d'une personne physique
-mise en cause.
+- soit suspendre l'accès à la zone non librement accessible au public dont
+l'accès est réglementé pour une durée ne pouvant pas excéder trente jours.
 
-Aucune amende ou mesure de suspension ne peut être prononcée plus de deux ans
-après la constatation d'un manquement.
+Ces plafonds peuvent être doublés en cas de nouveau manquement de même nature
+commis dans le délai d'un an à compter de la notification de la décision du
+préfet.
+
+II. - En cas de manquement constaté aux dispositions des arrêtés préfectoraux et
+de leurs mesures particulières d'application relatifs aux points a, b et g du II
+de l'article R. 213-1-4, et au point f du II de ce même article lorsque le
+manquement est constaté en zone non librement accessible au public dont l'accès
+est réglementé, le préfet peut, en tenant compte de la nature et de la gravité
+des manquements et éventuellement des avantages qui en sont tirés, prononcer à
+l'encontre de la personne morale responsable une amende administrative d'un
+montant maximal de 7 500 euros.
+
+Ces plafonds peuvent être doublés en cas de nouveau manquement de même nature
+commis dans le délai d'un an à compter de la notification de la décision du
+préfet.

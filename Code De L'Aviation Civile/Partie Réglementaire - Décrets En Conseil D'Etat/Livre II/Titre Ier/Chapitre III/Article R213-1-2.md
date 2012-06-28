@@ -1,21 +1,30 @@
 Article R213-1-2
 ----
-Sans préjudice des pouvoirs dévolus aux préfets par l'article L. 213-2, les
-modalités d'application de l'article R. 213-1-1 font l'objet d'arrêtés pris :
+I.-Sur tout aérodrome affecté à titre principal ou secondaire à l'aviation
+civile où s'appliquent des mesures de sûreté au titre des arrêtés prévus par
+l'article R. 213-1-1, le préfet chargé d'y exercer les pouvoirs de police prévus
+à l'article L. 6332-2 du code des transports fixe par arrêté, dans les
+conditions fixées par le I de l'article R. 213-1-6, les dispositions locales des
+mesures de sûreté prévues par le I, le II et le III de l'article R. 213-1-1.
 
-- par le ministre chargé des transports, en ce qui concerne les conditions
-techniques relatives aux infrastructures et matériels ;
+II.-Pour les aérodromes où ne s'appliquent pas des mesures de sûreté au titre
+des arrêtés prévus par l'article R. 213-1-1, les mesures de sûreté sont définies
+par le préfet dans les conditions fixées à l'article R. 213-1-6. Les arrêtés
+préfectoraux peuvent rendre applicable tout ou partie des mesures prévues au
+présent chapitre et édicter des prescriptions spéciales.
 
-- conjointement par les ministres chargés des transports, de la défense, de
-l'intérieur et des douanes, pour les autres dispositions, notamment en ce qui
-concerne les procédures, dans le respect des dispositions de l'article L. 282-8.
+III.-Lorsqu'une situation particulière met en cause la sûreté des vols et des
+personnes et en application de l'article 6 du règlement (CE) n° 300/2008
+précité, le préfet prend les mesures locales rendues nécessaires. Il tient
+compte, le cas échéant, des dispositions prévues en application du III de
+l'article R. 213-1-1 et en informe sans délai les ministres compétents. Ces
+mesures ne peuvent être prorogées au-delà de cinq jours.
 
-- les dispositions de ces arrêtés peuvent être communes à plusieurs aérodromes
-ou différentes selon le trafic des plates-formes, la destination des vols ou
-l'existence de circonstances spécifiques locales au regard des objectifs de
-sûreté des vols et des personnes ;
-
-- les ministres chargés des transports et de l'intérieur prennent conjointement
-les mesures urgentes rendues nécessaires par une situation particulière mettant
-en cause la sûreté des vols et des personnes. Ces mesures urgentes ne peuvent
-être prorogées au-delà de dix jours.
+IV.-Pour remédier au non-respect des mesures prescrites par le règlement (CE) n°
+300/2008 et les textes pris pour son application, par le code des transports et
+par le présent code ou par les arrêtés prévus à l'article R. 213-1-1, constaté
+par les agents visés à l'article L. 6341-1 du code des transports, le préfet
+peut, lorsque la situation locale l'exige, prescrire des mesures additionnelles
+spécifiques ou imposer des modalités d'application des mesures existantes. Les
+arrêtés préfectoraux prévoient que les mesures prescrites ou les modalités
+imposées cessent lorsque les mesures sont respectées.

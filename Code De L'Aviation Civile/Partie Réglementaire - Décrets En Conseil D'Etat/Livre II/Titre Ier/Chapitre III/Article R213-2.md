@@ -1,15 +1,30 @@
 Article R213-2
 ----
-L'emprise des aérodromes affectés à titre principal ou secondaire à l'aviation
-civile comprend :
+I.-Les entreprises, personnes et organismes devant être titulaires de
+l'autorisation administrative individuelle mentionnée à l'article L. 6342-1 du
+code des transports sont les exploitants d'aérodromes, les transporteurs
+aériens, les agents habilités, les chargeurs connus et les fournisseurs
+habilités.
 
-- une zone publique dont l'accès à certaines parties peut être réglementé ;
+II.-L'autorisation administrative individuelle mentionnée à l'article L. 6342-1
+du code des transports se traduit par la délivrance d'un agrément de sûreté.
 
-- une zone réservée, non librement accessible au public, dont l'accès est soumis
-à la possession des titres spéciaux prévus à l'article R. 213-4.
+La délivrance d'un agrément de sûreté aux exploitants d'aérodromes, aux
+transporteurs aériens, aux agents habilités et aux fournisseurs habilités est
+subordonnée à l'élaboration, l'application et au maintien par ces personnes,
+entreprises et organismes d'un programme de sûreté décrivant les mesures de
+sûreté qu'ils mettent en œuvre conformément aux exigences réglementaires
+auxquelles ils sont soumis en fonction de leur activité.
 
-La zone réservée peut comporter plusieurs secteurs.
+La délivrance d'un agrément de sûreté aux chargeurs connus est subordonnée à la
+vérification sur site du respect des dispositions prévues par la réglementation
+européenne et nationale qui leur est applicable et notamment à la liste de
+contrôle de validation.
 
-Les aérodromes à affectation aéronautique mixte, dont le ministère de la défense
-est affectataire principal ou secondaire, comprennent en outre une zone
-militaire.
+Le contenu des programmes de sûreté est précisé par un arrêté conjoint pris par
+le ministre chargé des transports et le ministre de l'intérieur.
+
+III.-Un arrêté du ministre chargé des transports fixe les dates à partir
+desquelles les exploitants d'aérodromes et les transporteurs aériens sont
+soumis, en fonction des caractéristiques de leurs activités, à l'obligation
+d'être titulaire d'un agrément de sûreté.
