@@ -6,7 +6,7 @@ prenant pour base la dernière liste établie. Elle peut demander à chaque mair
 de lui indiquer les noms qu'il convient de retirer de l'ancienne liste en raison
 de décès ou de départ de la commune. La commission met également à jour la liste
 des demandes d'inscription transmises en application de l'article R. 511-12.
-Pour les collèges mentionnés aux 1, 3 et 4 de l'article R. 511-6, la commission
+Pour les collèges mentionnés aux 1,3 et 4 de l'article R. 511-6, la commission
 peut se faire communiquer par les caisses départementales ou
 pluridépartementales de la mutualité sociale agricole, dans les conditions
 fixées en application du I de l'article 77 de la loi n° 95-95 du 1er février
@@ -27,3 +27,6 @@ motifs et pièces à l'appui.
 Au plus tard le 1er octobre, le président de la commission transmet à chaque
 mairie un exemplaire de la liste provisoire des électeurs de la commune pour
 chacun des collèges.
+
+La liste provisoire est également transmise à la chambre départementale
+d'agriculture qui en assure la mise à disposition du public pour consultation.

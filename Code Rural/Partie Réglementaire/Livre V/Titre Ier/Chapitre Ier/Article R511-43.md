@@ -15,9 +15,9 @@ nombre de sièges à pourvoir, arrondi, le cas échéant, à l'entier supérieur
 cas d'égalité de suffrages entre les listes arrivées en tête, ces sièges sont
 attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée.
 Cette attribution opérée, les autres sièges sont répartis entre toutes les
-listes à la représentation proportionnelle suivant la règle de la plus forte
-moyenne. Les sièges sont attribués aux candidats dans l'ordre de présentation
-sur chaque liste.
+listes à la représentation proportionnelle suivant la règle du plus fort reste.
+Les sièges sont attribués aux candidats dans l'ordre de présentation sur chaque
+liste.
 
 Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège,
 celui-ci revient à la liste qui a obtenu le plus grand nombre de suffrages. En

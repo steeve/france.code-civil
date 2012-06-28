@@ -10,7 +10,7 @@ l'établissement de la liste électorale des groupements électeurs.
 
 Lorsque la commission refuse d'inscrire un groupement électeur, ou lui demande
 de modifier sa déclaration, cette décision est notifiée dans les deux jours au
-président du groupement par écrit et à domicile par les soins du commissaire de
-la République. L'avis de notification précise les motifs de la décision et
-informe le groupement intéressé qu'il dispose d'un délai de quarante-huit heures
-pour présenter des observations.
+président du groupement par lettre recommandée avec demande d'avis de réception.
+L'avis de notification précise les motifs de la décision et informe le
+groupement intéressé qu'il dispose d'un délai de quarante-huit heures pour
+présenter des observations.

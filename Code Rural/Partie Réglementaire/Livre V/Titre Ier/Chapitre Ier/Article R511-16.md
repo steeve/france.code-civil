@@ -16,16 +16,16 @@ Sont également membres avec voix consultative, pour participer aux travaux
 relatifs à l'établissement des listes électorales pour les électeurs votant
 individuellement :
 
-- des représentants des exploitants agricoles et assimilés désignés, à raison
+-des représentants des exploitants agricoles et assimilés désignés, à raison
 d'un par organisation, sur proposition des organisations syndicales
 d'exploitants agricoles à vocation générale habilitées dans le département en
 application du décret n° 90-187 du 28 février 1990 modifié ;
 
-- des représentants des salariés désignés, à raison d'un par organisation, sur
+-des représentants des salariés désignés, à raison d'un par organisation, sur
 proposition des organisations syndicales de salariés reconnues représentatives
-au sens de l'article L. 412-4 du code du travail ;
+au sens de l'article L. 2121-1 du code du travail ;
 
-- un représentant des propriétaires fonciers désigné sur proposition des membres
+-un représentant des propriétaires fonciers désigné sur proposition des membres
 de la chambre d'agriculture élus au titre du collège mentionné au 2 de l'article
 R. 511-6.
 

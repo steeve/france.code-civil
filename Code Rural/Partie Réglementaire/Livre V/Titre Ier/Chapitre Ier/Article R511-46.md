@@ -1,11 +1,12 @@
 Article R511-46
 ----
-Le cinquième jour suivant la date de clôture du scrutin, la commission
+A compter du sixième jour suivant la date de clôture du scrutin, la commission
 d'organisation des opérations électorales procède aux opérations de recensement
-et de dépouillement des votes par correspondance en séance publique et en
-présence de scrutateurs désignés parmi les électeurs par le président de la
-commission. Chaque liste en présence a le droit de désigner, dans le collège où
-elle est candidate, un seul scrutateur pris parmi les électeurs de ce collège.
+et de dépouillement des votes par correspondance et des votes déposés à son
+siège en séance publique et en présence de scrutateurs désignés parmi les
+électeurs par le président de la commission. Chaque liste en présence a le droit
+de désigner, dans le collège où elle est candidate, un seul scrutateur pris
+parmi les électeurs de ce collège.
 
 Le jour du dépouillement, le président de la commission des opérations
 électorales met en place autant d'urnes que de collèges.
@@ -30,7 +31,7 @@ l'agriculture.
 Un membre de la commission introduit ensuite chaque vote dans l'urne
 correspondante.
 
-Les opérations manuelles de dépouillement visées au présent article peuvent
-faire l'objet, selon les modalités techniques fixées par arrêté du ministre de
-l'agriculture, pris après avis de la Commission nationale de l'informatique et
-des libertés, de traitements automatisés.
+Les opérations de dépouillement visées au présent article peuvent faire l'objet,
+selon les modalités techniques fixées par arrêté du ministre de l'agriculture,
+pris après avis de la Commission nationale de l'informatique et des libertés, de
+traitements automatisés.

@@ -54,7 +54,11 @@ permanente ;
 
 19° Les modalités de remboursement des frais de déplacement et de séjour du
 personnel, sur proposition de la commission paritaire, et des membres de
-l'assemblée permanente.
+l'assemblée permanente ;
+
+20° Les cas dans lesquels l'assemblée permanente peut offrir les services d'une
+centrale d'achat au sens de l'article 9 du code des marchés publics, pour le
+compte de tout ou partie des établissements du réseau.
 
 Lors du vote du budget, l'assemblée permanente adopte les modalités de calcul de
 la cotisation à verser par les chambres d'agriculture et, le cas échéant, des

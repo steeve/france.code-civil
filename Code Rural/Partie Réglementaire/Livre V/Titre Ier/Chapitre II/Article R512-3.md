@@ -3,29 +3,28 @@ Article R512-3
 Les chambres régionales d'agriculture comprennent, d'une part, les présidents
 des chambres départementales d'agriculture et le président du centre régional de
 la propriété forestière ou son suppléant désigné en application du huitième
-alinéa de l'article L. 221-3 du code forestier, d'autre part, des membres élus
-dans les conditions fixées ci-après.
+alinéa de l'article L. 321-4 du code forestier, d'autre part, des membres élus
+dans les conditions fixées à l'article R. 512-4.
 
-Les membres de chaque chambre départementale d'agriculture élus au titre des 1°
-à 5° de l'article R. 511-6 forment des collèges rassemblant tous les membres
-élus au même titre dans les chambres départementales de la région. Dans le mois
-suivant la dernière installation des membres des chambres départementales
-d'agriculture effectuée en application du troisième alinéa de l'article R.
-511-54, les membres de chaque collège se réunissent pour procéder à l'élection
-des membres de la chambre régionale d'agriculture à raison des nombres suivants
-:
+1° Les membres élus représentant les chefs d'exploitation et assimilés
+mentionnés au 1° de l'article R. 511-6 sont au nombre de :
 
-1° Pour les membres élus au titre du 1° de l'article R. 511-6 :
+-neuf membres par département lorsque la chambre régionale comprend deux
+départements ;
 
-a) Dix-huit lorsque la chambre régionale comprend deux ou trois départements ;
+-six par département lorsque la chambre régionale comprend trois départements ;
 
-b) Vingt lorsque la chambre régionale comprend quatre ou cinq départements ;
+-cinq par département lorsque la chambre régionale comprend quatre départements
+;
 
-c) Vingt et un lorsque la chambre régionale comprend sept départements ;
+-quatre par département lorsque la chambre régionale comprend cinq ou six
+départements ;
 
-d) Vingt-quatre lorsque la chambre régionale comprend six ou huit départements.
+-trois par département lorsque la chambre régionale comprend sept ou huit
+départements ;
 
-2° Pour les membres élus au titre du 2° au 5° de l'article R 511-6 :
+2° Les membres élus au titre des collèges mentionnés du 2° au 5° de l'article R.
+511-6 sont au nombre de :
 
 a) Deux pour les propriétaires et usufruitiers ;
 

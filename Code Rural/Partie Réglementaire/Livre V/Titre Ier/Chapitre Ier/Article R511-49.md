@@ -1,7 +1,7 @@
 Article R511-49
 ----
 Le président de la commission d'organisation des opérations électorales proclame
-en public, au plus tard le sixième jour suivant la date de clôture du scrutin,
+en public, au plus tard le huitième jour suivant la date de clôture du scrutin,
 les résultats des élections.
 
 Après proclamation des résultats, un procès-verbal est dressé par la commission
