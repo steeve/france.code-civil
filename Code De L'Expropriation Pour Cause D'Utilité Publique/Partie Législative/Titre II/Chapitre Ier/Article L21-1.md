@@ -44,13 +44,14 @@ les communes, les associations foncières ou les groupements de ces collectivit�
 ainsi que leurs concessionnaires ;
 
 5° Dans les périmètres de protection et de reconstitution forestières créés en
-application de l'article L. 321-6 du code forestier et dans les périmètres de
-restauration des terrains en montagne créés en application de l'article L. 424-1
-du code forestier, les immeubles expropriés en application de ces dispositions.
-Les catégories de personnes auxquelles ces immeubles pourront être cédés de gré
-à gré sont fixées par décret en Conseil d'Etat. Pour ces cessions de gré à gré,
-une priorité sera accordée aux anciens propriétaires expropriés et à leurs
-ascendants et, en cas de refus de leur part, aux collectivités locales.
+application des articles L133-1 à L133-3 et L133-8 du nouveau code forestier et
+dans les périmètres de restauration des terrains en montagne créés en
+application de l'article L. 424-1 du code forestier, les immeubles expropriés en
+application de ces dispositions. Les catégories de personnes auxquelles ces
+immeubles pourront être cédés de gré à gré sont fixées par décret en Conseil
+d'Etat. Pour ces cessions de gré à gré, une priorité sera accordée aux anciens
+propriétaires expropriés et à leurs ascendants et, en cas de refus de leur part,
+aux collectivités locales.
 
 Les propriétaires ayant cédé leur terrain à l'amiable et leurs descendants
 bénéficient de la même priorité que les propriétaires expropriés ;

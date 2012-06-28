@@ -9,14 +9,6 @@ statuts.
 L'approbation par le ministre chargé de l'agriculture des statuts ainsi modifiés
 vaut agrément du service de santé au travail agricole institué par la caisse.
 
-Les opérations comptables relatives à la section de santé au travail sont
+Les opérations comptables relatives au service de santé au travail sont
 enregistrées dans une section distincte du compte d'exploitation générale de la
 caisse de mutualité sociale agricole.
-
-Les caisses de mutualité sociale agricole adjoignent à la section de santé au
-travail les missions de gestion et de promotion de la prévention des risques
-professionnels des salariés et des non-salariés agricoles définies aux articles
-L. 751-48 et L. 752-29.
-
-La section ainsi créée est dénommée service de santé et de sécurité au travail
-en agriculture.
