@@ -43,5 +43,5 @@ de jeunes agriculteurs, ainsi que leurs unions et fédérations cantonales,
 intercantonales ou départementales, à raison de deux représentants ;
 
 6. Du ou des conseillers des centres régionaux de la propriété forestière, élus
-par le collège des propriétaires forestiers mentionnés à l'article L. 221-5 du
+par le collège des propriétaires forestiers mentionnés à l'article L. 321-7 du
 code forestier.

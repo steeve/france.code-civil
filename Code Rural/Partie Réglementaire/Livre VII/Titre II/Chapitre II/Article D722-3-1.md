@@ -1,6 +1,6 @@
 Article D722-3-1
 ----
-Pour l'application de l'article L. 371-4 du code forestier, et aux fins
+Pour l'application de l'article L. 154-2 du code forestier, et aux fins
 d'information de leurs donneurs d'ordre, les personnes qui satisfont aux
 dispositions de l'article D. 722-3 doivent être en possession d'une attestation
 certifiant qu'elles répondent aux conditions de la levée de présomption de

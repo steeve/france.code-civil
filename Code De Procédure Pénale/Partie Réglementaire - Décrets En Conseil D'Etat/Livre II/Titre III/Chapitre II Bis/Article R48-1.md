@@ -61,14 +61,20 @@ b) Les articles R. 331-63 à R. 331-66 du code de l'environnement relatifs aux
 coeurs de parcs nationaux et les articles R332-69 à R332-72 du même code
 relatifs aux réserves naturelles ;
 
-c) L'article R. 322-5 et le second alinéa de l'article R. 322-5-1 du code
-forestier relatif à la protection contre l'incendie, l'alinéa premier de
-l'article R. 331-3 du même code relatif à l'introduction dans les bois, forêts
-et terrains à boiser de véhicules, bestiaux, animaux de charge ou de monture et
-l'article R. 133-5 du même code relatif à l'aménagement prescrit par l'article
-L. 133-1 des bois et forêts du domaine de l'Etat, les articles R. 137-4, R.
-138-20, R. 331-1 et 331-2 du code forestier relatifs aux prélèvements de
-produits de la forêt sans autorisation du propriétaire ;
+c) L'article R. 163-2 et le second alinéa de l'article R. 163-3 du code
+forestier relatif à la défense des forêts contre l'incendie ; les articles R.
+163-4 et R. 163-5 du même code relatifs aux prélèvements de produits de la forêt
+sans autorisation du propriétaire, à l'exception du prélèvement d'un volume
+compris entre 5 et 10 litres lorsqu'il est le fait d'un concessionnaire de
+pâturage ou de son préposé sur le terrain concédé ; le premier alinéa de
+l'article R. 163-6 du même code relatif à la circulation de véhicules ou
+d'animaux sur des voies non autorisées ; l'article R. 261-1 du même code relatif
+à l'exercice d'activités réglementées en méconnaissance des dispositions de
+l'arrêté d'aménagement prévu à l'article L. 212-2 ; l'article R. 261-5 du même
+code relatif à l'enlèvement de bois par un acheteur en dehors des périodes
+autorisées ; les articles R. 261-10, R. 261-13, R. 261-14, R. 275-11 et R.
+275-12 du même code relatifs à l'introduction d'animaux en infraction aux
+concessions de pâturage ou aux règles d'exercice du droit d'usage ;
 
 d) L'article 10 (deuxième alinéa) du décret n° 2000-1302 du 26 décembre 2000
 relatif aux mesures de protection de l'environnement contre les émissions

@@ -1,7 +1,7 @@
 Article R135-3
 ----
 Des subventions peuvent être accordées aux associations foncières pastorales
-dans les cas prévus aux articles L. 423-1, R. 423-1 et R. 423-3 du code
+dans les cas prévus aux articles D. 142-17, D. 142-18 et D. 142-20 du code
 forestier.
 
 En vue de faciliter la constitution des associations foncières pastorales

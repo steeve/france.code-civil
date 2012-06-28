@@ -6,4 +6,4 @@ commissaires de l'aménagement foncier.
 
 Dans ces départements, comme dans la métropole, des subventions peuvent être
 accordées aux groupements pastoraux dans le cas de mise en valeur des pâturages
-prévu aux articles L. 423-1, R. 423-1 et R. 423-3 du code forestier.
+prévu aux articles D. 142-17, D. 142-18 et D. 142-20 du code forestier.
