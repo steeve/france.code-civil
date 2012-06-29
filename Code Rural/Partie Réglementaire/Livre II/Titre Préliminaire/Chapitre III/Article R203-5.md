@@ -1,7 +1,7 @@
 Article R203-5
 ----
-Lorsque les résultats obtenus lors d'une utilisation conforme au protocole
-défini par le fabricant d'un réactif figurant sur la liste mentionnée à
-l'article L. 203-1 permettent de suspecter une variation inattendue de sa
-performance, l'utilisateur, le fabricant, l'importateur ou le distributeur est
-tenu d'en informer le laboratoire national de référence compétent sans délai.
+L'habilitation est délivrée pour une durée de cinq ans. Elle est renouvelée
+tacitement par période de cinq ans sous réserve, pour le vétérinaire sanitaire,
+de justifier à l'issue de chaque période, auprès du préfet ayant délivré
+l'habilitation, du respect des obligations de formation continue prévues à
+l'article R. 203-12.
