@@ -1,7 +1,8 @@
 Article D223-22-2
 ----
-Pour toutes les maladies visées à l'article D. 223-22-1, un réseau d'alerte est
-mis en place dans le cadre des plans d'urgence visés à l'article L. 223-3 du
+Pour toutes les maladies animales figurant sur la liste prévue au deuxième
+alinéa de l'article L. 201-5, un réseau d'alerte est mis en place dans le cadre
+des plans nationaux d'intervention sanitaire mentionnés à l'article L. 201-5 du
 code rural et de la pêche maritime aux niveaux national et départemental.
 
 Ce réseau comprend :
@@ -12,8 +13,8 @@ Ce réseau comprend :
 
 -les préfets ;
 
--les laboratoires agréés pour le diagnostic des maladies visées à l'article D.
-223-22-1 ;
+-les laboratoires agréés pour le diagnostic des maladies animales visées à
+l'article D. 223-22-1 ;
 
 -les laboratoires nationaux de référence ;
 

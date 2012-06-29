@@ -6,7 +6,7 @@ surveillance durant une période et selon des modalités définies par un arrêt
 ministre chargé de l'agriculture, dans les conditions prévues par l'article L.
 223-10. Cette surveillance comporte l'obligation pour le propriétaire ou le
 détenteur de soumettre l'animal, vacciné ou non, à trois visites effectuées par
-un vétérinaire investi d'un mandat sanitaire.
+un vétérinaire sanitaire.
 
 Pour les animaux relevant du ministère de la défense et pour les animaux
 relevant d'autres ministères dont les vétérinaires des armées assurent le

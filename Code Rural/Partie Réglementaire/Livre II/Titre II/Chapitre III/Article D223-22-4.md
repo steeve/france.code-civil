@@ -1,7 +1,8 @@
 Article D223-22-4
 ----
-En cas de suspicion ou de confirmation d'une maladie réputée contagieuse
-entraînant le déclenchement d'un plan d'urgence, sont immédiatement organisés :
+En cas de suspicion ou de confirmation d'une maladie animale réglementée
+entraînant le déclenchement d'un plan national d'intervention sanitaire
+d'urgence, sont immédiatement organisés :
 
 - au ministère chargé de l'agriculture, une cellule nationale de crise placée
 sous l'autorité de la directrice générale de l'alimentation ou de son

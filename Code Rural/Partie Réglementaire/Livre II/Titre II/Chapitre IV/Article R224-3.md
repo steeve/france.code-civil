@@ -1,10 +1,8 @@
 Article R224-3
 ----
-Les fonctionnaires et agents qui, en application de l'article L. 241-16, peuvent
-être appelés à exécuter les interventions que nécessitent les opérations de
-prophylaxie collective des maladies des animaux organisées et dirigées par le
-ministre chargé de l'agriculture doivent appartenir aux corps et catégories
-ci-après énumérés :
+Les fonctionnaires et agents qui peuvent être appelés à exécuter les
+interventions prévues à l'article L. 241-16 et les opérations mentionnées à
+l'article L. 223-4 doivent appartenir aux corps ou catégories suivants :
 
 1° Corps des inspecteurs de la santé publique vétérinaire ;
 

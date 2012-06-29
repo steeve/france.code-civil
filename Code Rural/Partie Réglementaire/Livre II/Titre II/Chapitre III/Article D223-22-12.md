@@ -6,7 +6,7 @@ mesures mentionnées à l'article D. 223-22-7.
 
 En outre, en application des dispositions de l'article D. 223-22-11,
 l'exploitation peut être soumise, dans les plus brefs délais, à tout ou partie
-des mesures prévues aux articles L. 223-3 et L. 223-8 du code rural et de la
+des mesures prévues aux articles L. 201-5 et L. 223-8 du code rural et de la
 pêche maritime. En particulier, les prescriptions suivantes peuvent être mises
 en oeuvre :
 

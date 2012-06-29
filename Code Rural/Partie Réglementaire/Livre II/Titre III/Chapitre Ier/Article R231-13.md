@@ -1,6 +1,6 @@
 Article R231-13
 ----
-I.- En application de l'article L. 231-6, les mesures d'exécution du II de
+I.-En application de l'article L. 231-6, les mesures d'exécution du II de
 l'article L. 221-4, du chapitre IV du titre II et des chapitres Ier à V du titre
 III du livre II sont constituées des dispositions tant des règlements ou
 décisions de l'Union européenne énumérés ci-après, le cas échéant modifiées, que
@@ -17,7 +17,7 @@ l'article 20, ensemble le chapitre C de l'annexe X, du règlement (CE) n°
 règles pour la prévention, le contrôle et l'éradication de certaines
 encéphalopathies spongiformes transmissibles ;
 
-2° Les articles 14,15,17,19 et 20 du règlement (CE) n° 178/2002 du Parlement
+2° Les articles 14, 15, 17, 19 et 20 du règlement (CE) n° 178/2002 du Parlement
 européen et du Conseil du 28 janvier 2002 modifié établissant les principes
 généraux et les prescriptions générales de la législation alimentaire,
 instituant l'Autorité européenne de sécurité des aliments et fixant les
@@ -52,7 +52,7 @@ l'alimentation humaine ;
 européen et du Conseil du 12 janvier 2005 modifié établissant des exigences en
 matière d'hygiène des aliments pour animaux ;
 
-7° L'article 3, ensemble les annexes I et II, les articles 4,5 et 7, ensemble
+7° L'article 3, ensemble les annexes I et II, les articles 4, 5 et 7, ensemble
 l'annexe I, et l'article 9 du règlement (CE) n° 2073/2005 de la Commission du 15
 novembre 2005 modifié concernant les critères microbiologiques applicables aux
 denrées alimentaires ;
@@ -77,26 +77,26 @@ et du Conseil instituant un code communautaire relatif aux médicaments
 vétérinaires, une liste de substances essentielles pour le traitement des
 équidés ;
 
-11° Les articles 3,8,9,11,16,22 et 24 du règlement (CE) n° 470/2009 du Parlement
-européen et du Conseil du 6 mai 2009 établissant des procédures communautaires
-pour la fixation des limites de résidus des substances pharmacologiquement
-actives dans les aliments d'origine animale, abrogeant le règlement (CEE) n°
-2377/90 du Conseil et modifiant la directive 2001/82/ CE du Parlement européen
-et du Conseil et le règlement (CE) n° 726/2004 du Parlement européen et du
-Conseil ;
+11° Les articles 3, 8, 9, 11, 16, 22 et 24 du règlement (CE) n° 470/2009 du
+Parlement européen et du Conseil du 6 mai 2009 établissant des procédures
+communautaires pour la fixation des limites de résidus des substances
+pharmacologiquement actives dans les aliments d'origine animale, abrogeant le
+règlement (CEE) n° 2377/90 du Conseil et modifiant la directive 2001/82/ CE du
+Parlement européen et du Conseil et le règlement (CE) n° 726/2004 du Parlement
+européen et du Conseil ;
 
-12° Les articles 4,6,11 à 15,17 à 32,35 à 37,41,42,45 à 49,51 et 53 du règlement
-(CE) n° 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 modifié
-établissant des règles sanitaires applicables aux sous-produits animaux et
-produits dérivés non destinés à la consommation humaine et abrogeant le
-règlement (CE) n° 1774/2002 ;
+12° Les articles 4, 6, 11 à 15, 17 à 32, 35 à 37, 41, 42, 45 à 49, 51 et 53 du
+règlement (CE) n° 1069/2009 du Parlement européen et du Conseil du 21 octobre
+2009 modifié établissant des règles sanitaires applicables aux sous-produits
+animaux et produits dérivés non destinés à la consommation humaine et abrogeant
+le règlement (CE) n° 1774/2002 ;
 
 13° L'article 1er, ensemble l'annexe, du règlement (UE) n° 37/2010 de la
 Commission du 22 décembre 2009 modifié relatif aux substances
 pharmacologiquement actives et à leur classification en ce qui concerne les
 limites maximales de résidus dans les aliments d'origine animale.
 
-II.- Au sens du présent titre et des textes pris pour son application on entend
+II.-Au sens du présent titre et des textes pris pour son application on entend
 par " normes sanitaires " les prescriptions relatives à l'hygiène alimentaire et
 les règles sanitaires applicables aux exploitants du secteur alimentaire, du
 secteur des sous-produits animaux et du secteur de l'alimentation animale qui
@@ -107,7 +107,7 @@ V du présent titre, et par les règlements et décisions de l'Union européenne
 entrant dans le champ d'application des dispositions susmentionnées ainsi que
 par les arrêtés mentionnés ci-après.
 
-III.- Des arrêtés du ministre chargé de l'agriculture et, le cas échéant, des
+III.-Des arrêtés du ministre chargé de l'agriculture et, le cas échéant, des
 ministres chargés, respectivement, de la santé, de l'écologie, de la
 consommation et de la défense fixent les normes sanitaires, qualitatives et
 techniques auxquelles doivent satisfaire, pour concourir à la maîtrise des
@@ -119,5 +119,5 @@ dangers et garantir un caractère propre à la consommation :
 2° Les établissements et les moyens de transport des animaux, produits, denrées
 alimentaires et aliments pour animaux énumérés au même article.
 
-IV.- Ces arrêtés peuvent définir les modalités d'application et les dérogations
-prévues par les règlements et décisions de l'Union européenne mentionnés au I.
+IV.-Ces arrêtés peuvent définir les modalités d'application et les dérogations
+prévues par les règlements et décisions de l'Union européenne mentionnés au II.

@@ -23,9 +23,9 @@ g) L'anémie infectieuse des équidés.
 Sont considérés comme atteints d'anémie infectieuse des équidés et peuvent
 donner lieu à rédhibition les animaux qui ont fait l'objet d'une recherche de la
 maladie par des épreuves effectuées selon les procédés et critères approuvés par
-le comité consultatif de la santé et de la protection animales et dont le
-résultat a été reconnu positif par un laboratoire agréé par le ministre chargé
-de l'agriculture en application de l'article L. 224-2-1.
+le Conseil national d'orientation de la politique sanitaire animale et végétale
+et dont le résultat a été reconnu positif par un laboratoire agréé par le
+ministre chargé de l'agriculture en application de l'article L. 224-2-1.
 
 2° Pour l'espèce porcine :
 
@@ -40,9 +40,9 @@ Sont considérés comme tuberculeux et peuvent donner lieu à rédhibition :
 -les animaux cliniquement atteints ;
 
 -les animaux qui ont réagi à l'épreuve de la tuberculine, exclusivement
-pratiquée suivant les procédés approuvés par le comité consultatif de la santé
-et de la protection animales ou qui ont été reconnus tuberculeux par tout autre
-procédé approuvé par ledit comité.
+pratiquée suivant les procédés approuvés par le Conseil national d'orientation
+de la politique sanitaire animale et végétale ou qui ont été reconnus
+tuberculeux par tout autre procédé approuvé par ledit Conseil.
 
 b) La rhino-trachéite infectieuse.
 
@@ -56,9 +56,9 @@ c) La leucose enzootique.
 Sont considérés comme atteints de leucose enzootique et peuvent donner lieu à
 rédhibition les animaux qui ont fait l'objet d'une recherche de la maladie par
 des épreuves effectuées selon des procédés et des critères approuvés par le
-comité consultatif de la santé et de la protection animales et dont le résultat
-a été reconnu positif par un laboratoire agréé par le ministère chargé de
-l'agriculture en application de l'article L. 224-2-1.
+Conseil national d'orientation de la politique sanitaire animale et végétale et
+dont le résultat a été reconnu positif par un laboratoire agréé par le ministère
+chargé de l'agriculture en application de l'article L. 224-2-1.
 
 4° Pour les espèces bovine, ovine et caprine :
 
@@ -67,6 +67,6 @@ La brucellose.
 Sont considérés comme atteints de brucellose et peuvent donner lieu à
 rédhibition, les animaux qui ont fait l'objet d'une recherche de la maladie par
 des épreuves effectuées selon des procédés et des critères approuvés par le
-comité consultatif de la santé et de la protection animales et dont le résultat
-a été reconnu positif par un laboratoire agréé par le ministère chargé de
-l'agriculture.
+Conseil national d'orientation de la politique sanitaire animale et végétale et
+dont le résultat a été reconnu positif par un laboratoire agréé par le ministère
+chargé de l'agriculture.

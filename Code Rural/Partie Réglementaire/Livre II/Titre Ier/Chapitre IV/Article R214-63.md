@@ -4,7 +4,7 @@ Les dispositions de la présente section sont applicables à l'acheminement, à
 l'hébergement, à l'immobilisation, à l'étourdissement, à l'abattage et la mise à
 mort des animaux élevés ou détenus pour la production de viandes, de peaux, de
 fourrures ou d'autres produits et aux procédures de mise à mort des animaux en
-cas de lutte contre les maladies contagieuses.
+cas de lutte contre les maladies réglementées au sens de l'article D. 221-2.
 
 Toutefois, elles ne s'appliquent pas :
 
