@@ -1,9 +1,9 @@
 Article D214-19
 ----
 La tenue des manifestations destinées à la présentation à la vente d'animaux est
-subordonnée à la surveillance exercée par au moins un vétérinaire titulaire d'un
-mandat sanitaire mentionné à l'article L. 221-11. Ce vétérinaire, désigné et
-rémunéré par l'organisateur, est notamment chargé de la surveillance :
+subordonnée à la surveillance exercée par au moins un vétérinaire sanitaire. Ce
+vétérinaire, désigné et rémunéré par l'organisateur, est notamment chargé de la
+surveillance :
 
 1° Des documents d'accompagnement des animaux, qui comportent en particulier les
 informations sur leur origine ;
@@ -15,4 +15,4 @@ informations sur leur origine ;
 
 Un arrêté du ministre chargé de l'agriculture fixe les modalités de la
 surveillance vétérinaire selon l'importance de la manifestation et les
-catégories d'animaux concernés.
+catégories d'animaux concernés. vétérinaire sanitaire
