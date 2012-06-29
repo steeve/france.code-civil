@@ -1,21 +1,14 @@
 Article D251-6
 ----
-Si le contrôle fait apparaître que les végétaux, produits végétaux et autres
-objets ne sont pas indemnes d'organismes nuisibles ou, le cas échéant, ne
-respectent pas les exigences particulières mentionnées aux A et B du IV de
-l'article D. 251-2, le passeport phytosanitaire n'est pas délivré ou est retiré
-et une ou plusieurs des mesures prévues aux articles L. 251-8 et L. 251-14 sont
-prises immédiatement.
+Dès leur inscription sur le registre officiel du contrôle phytosanitaire, les
+établissements doivent :
 
-Toutefois, s'il apparaît qu'une partie des végétaux, produits végétaux et autres
-objets cultivés, produits utilisés par le producteur ou qui sont présents de
-toute autre manière chez celui-ci, ne présente pas de risque de propagation
-d'organismes nuisibles, le passeport phytosanitaire est délivré pour la partie
-saine.
+1° Etablir, conserver et mettre à la disposition des agents habilités en vertu
+des articles L. 250-2 et L. 251-18 les documents, définis par arrêté du ministre
+chargé de l'agriculture, permettant de vérifier le respect des mesures de
+contrôle et de protection des végétaux prévues aux articles L. 251-4 à L.
+251-21, ainsi qu'aux articles de la section 3 du présent chapitre ;
 
-Dans le cas d'échanges intracommunautaires de végétaux, produits végétaux et
-autres objets mentionnés au A du V de l'article D. 251-2, s'il apparaît qu'au
-moins une des exigences particulières mentionnées au A du IV du même article
-n'est pas remplie, un passeport phytosanitaire peut être délivré pour la partie
-respectant lesdites exigences si elle ne présente pas un risque de dissémination
-d'organismes nuisibles.
+2° Informer les services chargés de la protection des végétaux de toute
+apparition atypique d'organismes nuisibles ou de toute anomalie relative aux
+végétaux, produits végétaux et autres objets.
