@@ -9,8 +9,8 @@ le nom et l'adresse des propriétaires ;
 
 2° Un registre de suivi sanitaire et de santé des animaux qui comporte notamment
 des informations sur les animaux malades ou blessés, les comptes rendus des
-visites, et les indications et les propositions du vétérinaire en charge du
-règlement sanitaire.
+visites, et les indications et les propositions du vétérinaire sanitaire en
+charge du règlement sanitaire.
 
 Un arrêté du ministre chargé de l'agriculture précise le contenu de chaque
 registre et l'adaptation de ses mentions à la nature et à la taille de

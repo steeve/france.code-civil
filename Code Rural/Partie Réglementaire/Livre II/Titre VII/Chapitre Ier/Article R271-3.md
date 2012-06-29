@@ -7,10 +7,9 @@ animaux, le maire ou, à défaut, le préfet, ordonne leur capture immédiate et
 leur conduite à la fourrière ou dans des lieux adaptés, désignés par le préfet
 pour les recevoir.
 
-Les animaux ainsi capturés sont examinés par un vétérinaire titulaire d'un
-mandat sanitaire instauré par l'article L. 221-11, qui vérifie s'ils ne sont pas
-identifiés dans les conditions prévues à l'article L. 212-10, apprécie leur
-dangerosité ainsi que leur état physiologique.
+Les animaux ainsi capturés sont examinés par un vétérinaire sanitaire, qui
+vérifie s'ils ne sont pas identifiés dans les conditions prévues à l'article L.
+212-10, apprécie leur dangerosité ainsi que leur état physiologique.
 
 Il peut être procédé sans délai à l'euthanasie de ces animaux, s'ils sont
 dangereux pour les personnes ou d'autres animaux, ou gravement malades ou

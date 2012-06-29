@@ -1,20 +1,16 @@
 Article R203-3
 ----
-La mise sur le marché d'un réactif de catégorie B ou C est subordonnée à la
-présentation d'une attestation initiale de conformité visant à en garantir la
-performance et la sécurité, délivrée par le laboratoire national de référence
-compétent.
+Pour pouvoir bénéficier de l'habilitation prévue à l'article L. 203-1, le
+vétérinaire doit avoir suivi une formation relative à la réglementation
+sanitaire et à l'organisation administrative françaises conforme à un
+référentiel fixé par arrêté du ministre chargé de l'agriculture et satisfait à
+un contrôle de connaissances dans les conditions définies par ce même arrêté.
+Cette formation doit être dispensée dans le cadre d'un enseignement supérieur
+vétérinaire d'un Etat membre de l'Union européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen.
 
-La mise sur le marché d'un réactif de catégorie C est subordonnée à la
-réalisation de contrôles de conformité de lots réalisés par le laboratoire
-national de référence à la demande du fabricant ou de l'importateur de ce
-réactif.
-
-Lorsque le laboratoire national de référence constate, à la suite de contrôles
-de conformité de lots, qu'il y a non-conformité d'un réactif de catégorie B ou
-C, il peut suspendre ou retirer l'attestation initiale de conformité qu'il a
-délivrée.
-
-Les conditions de délivrance, de suspension et de retrait de l'attestation
-initiale de conformité et de réalisation des contrôles de conformité de lots
-sont précisées par arrêté du ministre chargé de l'agriculture.
+Par dérogation à l'alinéa précédent, un vétérinaire qui n'a pas suivi la
+formation peut bénéficier d'une habilitation, pour une durée maximale d'un an,
+sous réserve qu'il s'engage à suivre une telle formation et qu'il justifie, au
+moment de sa demande d'habilitation, de son inscription à une session prévue au
+cours des douze mois qui suivent.

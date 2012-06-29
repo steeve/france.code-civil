@@ -1,35 +1,55 @@
 Article R203-1
 ----
-Au titre du présent chapitre, on entend par :
+I.-Les personnes mentionnées à l'article L. 203-2 tenues de désigner un
+vétérinaire sanitaire sont :
 
-1° Réactif tout produit ou ensemble de produits destinés aux analyses utilisé
-exclusivement in vitro dans le cadre du dépistage ou du diagnostic dans les
-domaines de la santé publique vétérinaire et de la protection des végétaux ;
+1° Les propriétaires et détenteurs d'animaux soumis à des mesures de
+surveillance, de prévention ou de lutte en vue de la maîtrise ou de
+l'éradication de dangers sanitaires de première catégorie ou de deuxième
+catégorie en application des dispositions de l'article L. 201-4 ;
 
-Sont exclus du champ d'application de ce chapitre :
+2° Les propriétaires et détenteurs d'animaux sensibles aux dangers sanitaires
+faisant l'objet d'un plan national d'intervention sanitaire d'urgence en
+application de l'article L. 201-5 et dont le nombre excède un seuil fixé par
+arrêté du ministre chargé de l'agriculture ;
 
-- les médicaments vétérinaires tels que définis à l'article L. 5141-1 du code de
-la santé publique ;
+3° Les personnes et les responsables d'établissements exerçant les activités de
+vente ou de présentation au public d'animaux de compagnie domestiques, et les
+responsables des établissements mentionnés au IV de l'article L. 214-6 ;
 
-- les dispositifs médicaux de diagnostic in vitro tels que définis à l'article
-L. 5221-1 du code de la santé publique, lorsqu'ils sont utilisés dans des
-conditions identiques à celles ayant fait l'objet d'une certification prévue par
-l'article L. 5221-2 du code de la santé publique ;
+4° Les responsables de postes de contrôles mentionnés à l'article 6 du règlement
+(CE) n° 1255/97 du 25 juin 1997, soumis à des mesures de surveillance
+obligatoire en application de l'article L. 214-3 ;
 
-2° Fabricant l'entreprise ou l'organisme se livrant, en vue de leur mise sur le
-marché, à titre gratuit ou onéreux, à la fabrication des réactifs mentionnés au
-1°.
+5° Les responsables des lieux ouverts au public mentionnés à l'article L.
+214-15, des établissements mentionnés à l'article D. 236-10, les organisateurs
+d'expositions d'animaux ou de rassemblements d'animaux autres que les centres de
+rassemblement mentionnés à l'article R. 233-3-1 et les responsables
+d'établissements d'élevage, de fourniture ou d'utilisation d'animaux destinés à
+l'expérimentation animale, soumis à des mesures obligatoires de surveillance au
+titre de la protection animale et de la santé animale en application des
+articles L. 214-3, L. 214-15, L. 214-16, L. 214-17 ;
 
-La fabrication comprend tout ou partie des opérations concernant l'achat des
-matières premières et des articles de conditionnement, la production, le
-contrôle de la qualité, la libération des lots, ainsi que les opérations de
-stockage correspondantes ;
+6° Les responsables des centres de collecte de sperme et d'embryon de l'espèce
+équine et les responsables des établissements où au moins un étalon est exploité
+en monte naturelle ;
 
-3° Importateur l'entreprise ou l'organisme se livrant, en vue de leur mise sur
-le marché, à titre gratuit ou onéreux, à l'importation, au stockage, au contrôle
-de la qualité et à la libération des lots des réactifs mentionnés au 1°, en
-provenance d'Etats non membres de la Communauté européenne et non parties à
-l'accord sur l'Espace économique européen ;
+7° Les exploitants de fermes aquacoles, à l'exception des fermes conchylicoles,
+soumises à agrément conformément à l'article L. 201-4.
 
-4° Distributeur l'entreprise se livrant à l'achat et au stockage des réactifs
-mentionnés au 1°, en vue de leur distribution en l'état.
+II.-Le ministre chargé de l'agriculture, ou, en cas d'urgence, le préfet de
+département, peut étendre la liste fixée au I, pour une durée et une aire
+géographique déterminées :
+
+1° A l'ensemble des propriétaires et détenteurs d'animaux sensibles ou
+susceptibles d'être sensibles à un danger de première catégorie dont les
+modalités de propagation ne sont pas connues ;
+
+2° Lorsque les modalités de propagation d'un danger sanitaire de première
+catégorie ou de deuxième catégorie réglementé exigent que l'ensemble des
+propriétaires et détenteurs d'animaux qui y sont sensibles soient associés pour
+une lutte efficace.
+
+III.-Les dispositions du I du présent article ne s'appliquent pas aux personnes
+responsables des écoles vétérinaires, des établissements relevant du ministre de
+la défense et des établissements de la gendarmerie.

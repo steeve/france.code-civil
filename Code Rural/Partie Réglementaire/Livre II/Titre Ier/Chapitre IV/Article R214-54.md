@@ -1,8 +1,8 @@
 Article R214-54
 ----
 Pour l'application du règlement CE n° 1255/97 du Conseil du 25 juin 1997
-concernant les critères communautaires requis aux points d'arrêt et adaptant le
-plan de marche visé à la directive 91/628/ CEE, l'agrément est délivré par le
+concernant les critères communautaires requis aux postes de contrôle et adaptant
+le plan de marche visé à la directive 91/628/ CEE, l'agrément est délivré par le
 préfet du département où est situé le point d'arrêt. Il est accordé pour cinq
 ans et est renouvelable sur demande de son titulaire.
 

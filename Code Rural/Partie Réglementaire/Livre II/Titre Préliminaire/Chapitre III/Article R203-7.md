@@ -1,33 +1,25 @@
 Article R203-7
 ----
-I.-Est puni de la peine d'amende prévue pour les contraventions de la cinquième
-classe le fait, pour le fabricant, l'importateur ou le distributeur d'un réactif
-figurant sur la liste mentionnée à l'article L. 203-1 :
+I. - Le vétérinaire sanitaire qui souhaite modifier les activités ou les espèces
+animales pour lesquelles il a été habilité en présente la demande auprès du
+préfet ayant délivré l'habilitation qui accepte la modification sollicitée si
+celle-ci n'est pas de nature à remettre en cause le bon exercice des missions.
 
--de ne pas communiquer au laboratoire national de référence les informations
-prévues aux articles R. 203-4 et R. 203-5 ;
+II. - Le vétérinaire sanitaire habilité informe, dans les meilleurs délais, le
+préfet lui ayant délivré l'habilitation de tout changement de situation
+susceptible de remettre en cause les conditions dans lesquelles l'habilitation
+lui a été délivrée et le bon exercice de ses missions. Il l'informe notamment de
+ses projets de modification de ses domiciles professionnels d'exercice ou de son
+domicile professionnel administratif. Il l'informe également de toute
+modification de sa zone géographique d'exercice.
 
--de ne pas conserver et tenir des échantillons de chaque lot à disposition du
-laboratoire national de référence compétent pendant la durée de validité de ce
-lot, en méconnaissance de l'article R. 203-6 ;
+III. - Le vétérinaire sanitaire peut renoncer à son habilitation, sous réserve
+d'en informer le préfet ayant délivré celle-ci au plus tard trois mois avant la
+date à laquelle il entend cesser d'exercer les activités liées à cette
+habilitation.
 
--de ne pas faire pratiquer les contrôles de conformité de lots prévus à
-l'article R. 203-6 ;
-
--de ne pas effectuer les rappels de lots prévus à l'article R. 203-6.
-
-II.-Les personnes physiques encourent également les peines complémentaires
-prévues à l'article 131-16 (5°) et au premier alinéa de l'article 131-17 du code
-pénal.
-
-III.-Les personnes morales déclarées pénalement responsables, dans les
-conditions prévues par l'article 121-2 du code pénal, des infractions définies
-au I du présent article encourent, outre l'amende suivant les modalités prévues
-par l'article 131-41 du code pénal, les peines suivantes :
-
--la confiscation de la chose qui a servi ou était destinée à commettre
-l'infraction ou de la chose qui en est le produit ;
-
--l'interdiction pour une durée de trois ans au plus d'émettre des chèques autres
-que ceux qui permettent le retrait de fonds par le tireur auprès du tiré ou ceux
-qui sont certifiés.
+IV. - Le préfet ayant délivré l'habilitation informe les préfets des
+départements dans lesquels le vétérinaire exerce ses missions des modifications
+apportées à l'habilitation mentionnées au I, des modifications signalées par le
+vétérinaire mentionnées au II ou du renoncement du vétérinaire à son
+habilitation.
