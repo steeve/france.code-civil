@@ -1,10 +1,11 @@
 Article D4322-5
 ----
-Sont fixées par arrêté du ministre chargé de la santé :
+Le diplôme d'Etat de pédicure-podologue correspond à 180 crédits européens :
 
-1° Les conditions d'accès aux études conduisant au diplôme d'Etat de
-pédicure-podologue ;
+1° 141 crédits européens pour les unités d'enseignement dont les unités
+d'intégration ;
 
-2° Les modalités d'admission ;
+2° 39 crédits européens pour l'enseignement en formation clinique.
 
-3° La nature des épreuves.
+Le référentiel de formation incluant les unités d'enseignement et les stages,
+ainsi que leur contenu, est défini par arrêté du ministre chargé de la santé.

@@ -1,22 +1,18 @@
 Article D4322-4
 ----
-Le directeur général de l'agence régionale de santé peut dispenser les personnes
-dont les titres ou qualités sont reconnus valables de tout ou partie des
-enseignements, des stages cliniques et, éventuellement, du ou des examens de
-passage.
+La durée de la formation conduisant au diplôme d'Etat de pédicure-podologue est
+de trois années, soit six semestres de vingt semaines chacun.
 
-Dans la limite d'un quota fixé par arrêté du ministre chargé de la santé, sont
-dispensés de la première année d'études et peuvent s'inscrire en deuxième année,
-sous réserve d'avoir satisfait à l'examen de passage en deuxième année :
+La répartition des enseignements est la suivante :
 
-1° Les personnes titulaires du diplôme d'Etat :
+1° La formation théorique et pratique de 2 028 heures, sous la forme de cours
+magistraux (985 heures) et de travaux dirigés (1 043 heures) ;
 
-a) D'infirmière ou d'infirmier ;
+2° La formation clinique de 1 170 heures.
 
-b) De masseur-kinésithérapeute ou d'ergothérapeute ;
+Le travail personnel complémentaire est estimé à 2 202 heures. Il comprend du
+travail personnel guidé.
 
-2° Les étudiants en médecine ayant validé la première année d'études du deuxième
-cycle des études médicales.
+L'ensemble, soit 5 400 heures, constitue la charge de travail de l'étudiant.
 
-Les conditions de scolarité des personnes dispensées partiellement de scolarité
-sont fixées par arrêté du ministre chargé de la santé.
+Le programme de formation figure en annexe du présent article.

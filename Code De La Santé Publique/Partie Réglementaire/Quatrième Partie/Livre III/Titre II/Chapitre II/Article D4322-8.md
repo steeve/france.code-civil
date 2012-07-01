@@ -1,13 +1,18 @@
 Article D4322-8
 ----
-L'examen en vue du diplôme d'Etat se compose de trois épreuves :
+L'évaluation des connaissances et des compétences est réalisée soit par un
+contrôle continu et régulier, soit par un examen terminal, soit par ces deux
+modes de contrôle combinés.
 
-1° Une épreuve de mise en situation professionnelle comprenant un examen
-clinique ainsi que la conception et la réalisation d'un appareillage plantaire
-d'une durée de deux heures et trente minutes ;
+La validation de chaque semestre s'obtient par l'acquisition de trente crédits
+européens.
 
-2° Une épreuve orale d'une durée de trente minutes ;
+L'acquisition des unités d'enseignement s'opère selon des principes de
+capitalisation et de compensation. Les unités d'enseignement sont définitivement
+acquises et capitalisables dès lors que l'étudiant a obtenu la moyenne à chacune
+d'entre elles, ou par application des modalités de compensation.
 
-3° Une épreuve de mise en situation professionnelle de soins pédicuraux,
-d'orthoplastie ou d'orthonyxie, éventuellement associés, d'une durée d'une heure
-et quarante-cinq minutes.
+Un arrêté du ministre chargé de la santé détermine, pour chacune des unités
+d'enseignement, les modalités d'évaluation des connaissances et des compétences,
+les modalités de compensation entre les unités d'enseignement ainsi que les
+modalités de passage en année supérieure.
