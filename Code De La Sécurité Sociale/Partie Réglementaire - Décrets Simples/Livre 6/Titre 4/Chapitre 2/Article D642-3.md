@@ -1,13 +1,23 @@
 Article D642-3
 ----
-Le taux de cotisation prévu au cinquième alinéa de l'article L. 642-1 est égal à
-:
+Le taux de cotisation prévu au cinquième alinéa de l'article L. 642-1 est égal :
 
-1° 8,6 % des revenus définis à l'article L. 642-2 pour la part de ces revenus
-n'excédant pas 85 % du plafond annuel prévu à l'article L. 241-3 en vigueur au
-1er janvier de l'année au titre de laquelle la cotisation est due ;
+1° Sur les revenus définis à l'article L. 642-2 pour la part de ces revenus
+n'excédant pas 85 % du plafond annuel prévu au premier alinéa de l'article L.
+241-3 en vigueur au 1er janvier de l'année au titre de laquelle la cotisation
+est due :
 
-2° 1,6 % des revenus définis à l'article L. 642-2 pour la part de ces revenus
+a) A 8,63 % pour l'année 2012 ;
+
+b) A 8,80 % pour l'année 2013 ;
+
+c) A 8,90 % pour l'année 2014 ;
+
+d) A 9,00 % pour l'année 2015 ;
+
+e) A 9,10 % à compter de l'année 2016 ;
+
+2° A 1,6 % des revenus définis à l'article L. 642-2 pour la part de ces revenus
 excédant le seuil fixé au 1°, dans la limite de cinq fois le plafond annuel
 prévu à l'article L. 241-3 en vigueur au 1er janvier de l'année au titre de
 laquelle la cotisation est due.

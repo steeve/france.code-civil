@@ -1,7 +1,13 @@
 Article D731-121
 ----
-Pour la cotisation mentionnée au 1° de l'article L. 731-42, le taux est fixé à
-3, 2 % des revenus professionnels du chef d'exploitation ou d'entreprise
-agricole ou de l'assiette forfaitaire, tels qu'ils sont définis aux articles L.
-731-14 à L. 731-21, dans la limite du plafond prévu à l'article L. 241-3 du code
-de la sécurité sociale.
+Le taux de la cotisation mentionnée au 1° de l'article L. 731-42 est fixé à :
+
+a) 3,21 % pour l'année 2012 ;
+
+b) 3,26 % pour l'année 2013 ;
+
+c) 3,28 % pour l'année 2014 ;
+
+d) 3,30 % pour l'année 2015 ;
+
+e) 3,32 % à compter de l'année 2016.
