@@ -1,25 +1,44 @@
 Article D16-2
 ----
-Pour l'application de la condition de durée d'assurance ayant donné lieu à
+I. ― Pour l'application de la condition de durée d'assurance ayant donné lieu à
 cotisations à la charge des fonctionnaires définie à l'article D. 16-1, sont
 réputées avoir donné lieu à cotisations :
 
-― les périodes de service national, à raison d'un trimestre par période d'au
-moins quatre-vingt-dix jours, consécutifs ou non. Lorsque la période couvre deux
-années civiles, elle peut être affectée à l'une ou l'autre de ces années, la
-solution la plus favorable étant retenue ;
+1° Les périodes de service national, à raison d'un trimestre par période d'au
+moins quatre-vingt-dix jours, consécutifs ou non dans la limite de quatre
+trimestres. Lorsque la période couvre deux années civiles, elle peut être
+affectée à l'une ou l'autre de ces années, la solution la plus favorable étant
+retenue ;
 
-― les périodes pendant lesquelles les fonctionnaires ont été placés en congé de
-maladie statutaire ainsi que les périodes comptées comme périodes d'assurance
-dans un ou plusieurs autres régimes obligatoires au titre de la maladie, de la
-maternité et de l'inaptitude temporaire.
+2° Les périodes pendant lesquelles les fonctionnaires ont été placés en congé de
+maladie statutaire dans la limite de quatre trimestres.
 
-Ces périodes sont retenues respectivement dans la limite de quatre trimestres et
-sans que le nombre de trimestres ayant donné lieu à cotisations ou réputés tels
-puisse excéder quatre pour une même année civile.
+Ces périodes sont retenues sans que le nombre de trimestres ayant donné lieu à
+cotisations ou réputés tels puisse excéder quatre pour une même année civile.
 
-Pour l'application de cette même condition de durée d'activité ayant donné lieu
+II. ― Sont également réputées avoir donné lieu à cotisations les périodes
+accomplies dans les autres régimes obligatoires de base et réputées comme telles
+en application du présent article ou, dans les conditions qu'elles fixent, de
+dispositions réglementaires ayant le même objet. Les trimestres réputés cotisés
+dans le régime des pensions civiles et militaires de retraite et dans les autres
+régimes obligatoires de base sont pris en compte dans les limites suivantes :
+
+1° Les trimestres réputés cotisés au titre du service national ne peuvent
+excéder quatre trimestres ;
+
+2° Les trimestres réputés cotisés au titres des périodes pendant lesquelles les
+fonctionnaires ont été placés en congé de maladie statutaire et des périodes
+réputées cotisées dans un ou plusieurs autres régimes obligatoires au titre de
+la maladie, de la maternité et de l'inaptitude temporaire ne peuvent excéder au
+total six trimestres, sans que le nombre total de trimestres réputés cotisés au
+titre de la maladie et de l'inaptitude temporaire ne puisse excéder quatre
+trimestres ;
+
+3° Les trimestres réputés cotisés au titre des périodes comptées comme périodes
+d'assurance au titre du chômage ne peuvent excéder deux trimestres.
+
+III. ― Pour l'application de la condition de durée d'assurance ayant donné lieu
 à cotisations à la charge des fonctionnaires, il est retenu un nombre de
 trimestres au plus égal à quatre au titre de chaque année civile au cours de
-laquelle l'assuré a été affilié successivement ou simultanément à plusieurs des
-régimes considérés.
+laquelle l'assuré a été affilié successivement ou simultanément à plusieurs
+régimes obligatoires.

@@ -30,3 +30,10 @@ salariés.
 
 V.-A l'article R. 351-9, dernier alinéa, la référence à la date du 1er janvier
 1972 est remplacée par la référence à la date du 1er janvier 1973.
+
+VI. ― Les 2° et 3° du I de l'article D. 351-1-2 sont remplacés par les
+dispositions suivantes :
+
+2° Les périodes comptées comme périodes d'assurance en application du 4° de
+l'article D. 634-2, à l'exception des périodes validées dans les conditions
+prévues au d du 4° de l'article R. 351-12.
