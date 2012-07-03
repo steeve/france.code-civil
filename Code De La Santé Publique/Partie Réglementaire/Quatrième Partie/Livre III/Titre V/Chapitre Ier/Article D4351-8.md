@@ -11,7 +11,8 @@ Sont fixées par arrêté du ministre chargé de la santé :
 
 3° Les conditions d'indemnisation des stages effectués par les étudiants ;
 
-4° Les modalités des épreuves sanctionnant cet enseignement.
+4° Les modalités de validation des enseignements et des stages en vue de la
+délivrance du diplôme d'Etat.
 
 Les modalités d'admission des candidats pour les études conduisant au diplôme,
 ainsi que la nature des épreuves sont fixées par arrêté du ministre chargé de la

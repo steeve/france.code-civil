@@ -9,4 +9,5 @@ l'enseignement ;
 
 3° Les modalités de délivrance des dispenses de d'enseignement ;
 
-4° Les conditions de délivrance du diplôme.
+4° Les modalités de validation des enseignements et des stages en vue de la
+délivrance du diplôme d'Etat.

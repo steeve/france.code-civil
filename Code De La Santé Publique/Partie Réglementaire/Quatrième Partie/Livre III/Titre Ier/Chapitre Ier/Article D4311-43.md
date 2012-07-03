@@ -14,4 +14,5 @@ Sont fixés par arrêté du ministre chargé de la santé :
 attribuées à des infirmiers ou infirmières diplômés d'Etat justifiant d'une
 expérience professionnelle en bloc opératoire ;
 
-4° Les modalités des épreuves qui sanctionnent cet enseignement.
+4° Les modalités de validation des enseignements et des stages en vue de la
+délivrance du diplôme d'Etat.

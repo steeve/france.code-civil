@@ -11,4 +11,5 @@ Sont fixés par arrêté du ministre chargé de la santé :
 
 3° Les modalités d'attribution des dispenses d'études ;
 
-4° Les conditions de délivrance du diplôme.
+4° Les modalités de validation des enseignements et des stages en vue de la
+délivrance du diplôme d'Etat.

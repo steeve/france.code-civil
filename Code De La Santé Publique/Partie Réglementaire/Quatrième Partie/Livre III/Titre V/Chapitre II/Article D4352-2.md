@@ -14,7 +14,8 @@ d'épreuves peuvent être accordées ;
 
 4° Les modalités d'évaluation des élèves en cours de formation ;
 
-5° La nature des épreuves sanctionnant les études ;
+5° Les modalités de validation des enseignements et des stages en vue de la
+délivrance du diplôme d'Etat.
 
 6° Les conditions d'attribution, par équivalence, du diplôme d'Etat de
 technicien de laboratoire médical à des personnes munies d'un autre titre.
