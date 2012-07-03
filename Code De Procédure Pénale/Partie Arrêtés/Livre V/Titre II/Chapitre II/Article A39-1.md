@@ -58,9 +58,6 @@ Liancourt (Oise).
 Quartier centre de détention (chemin de Verderonne) du centre pénitentiaire de
 Liancourt (Oise).
 
-Quartier centre de détention du centre pénitentiaire de Lille-Loos-Sequedin
-(commune de Loos-lès-Lille, Nord).
-
 Quartier centre de détention du centre pénitentiaire de Lille-Annœullin (Nord).
 
 Quartier centre de détention du centre pénitentiaire de Longuenesse
