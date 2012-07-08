@@ -22,10 +22,13 @@ ces aérodromes ;
 
 c) La direction de l'aérodrome d'Orly, sur l'emprise de cet aérodrome ;
 
-3° Au titre de la police de la circulation : les unités autoroutières des
-compagnies républicaines de sécurité pour les voies de circulation auxquelles
-elles sont affectées et les unités motocyclistes régionales pour les infractions
-visées à l'article L. 130-1 du code de la route ;
+3° Au titre de la direction centrale des compagnies républicaines de sécurité :
+
+a) Les unités autoroutières des compagnies républicaines de sécurité ;
+
+b) Les unités motocyclistes zonales ;
+
+c) Les formations de montagne ;
 
 4° Au titre de la direction centrale de la sécurité publique :
 

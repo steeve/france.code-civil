@@ -5,8 +5,8 @@ officiers et agents de police judiciaire exercent leurs fonctions habituelles et
 dont la compétence s'exerce dans le ressort d'un département ou d'une
 collectivité d'outre-mer ainsi qu'en Nouvelle-Calédonie sont les suivantes :
 
-1° Les sûretés départementales, les compagnies de sécurisation et les
-circonscriptions de sécurité publique ;
+1° Les directions départementales de la sécurité publique, les sûretés
+départementales et les circonscriptions de sécurité publique ;
 
 2° Au titre de la police aux frontières :
 
