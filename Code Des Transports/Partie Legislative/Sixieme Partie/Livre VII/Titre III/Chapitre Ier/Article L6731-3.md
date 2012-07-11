@@ -1,11 +1,19 @@
 Article L6731-3
 ----
-Pour l'application à Saint-Barthélemy des dispositions de l'article L. 6342-2,
-les mots : " un titre de circulation ou l'un des documents indiqués au point
-1.2.2.2 de l'annexe du règlement (UE) n° 185/2010 fixant des mesures détaillées
-pour la mise en œuvre des normes de base communes dans le domaine de la sûreté
-de l'aviation civile " sont remplacés par les mots : " un document équivalent à
-ceux requis en métropole en vertu de l'application du point 1.2.2.2 de l'annexe
-du règlement (UE) n° 185/2010 fixant des mesures détaillées pour la mise en
-œuvre des normes de base communes dans le domaine de la sûreté de l'aviation
-civile ".
+Pour l'application à Saint-Barthélemy du premier alinéa de l'article L. 6221-1,
+les mots : " par le règlement (CE) n° 216/2008 du 20 février 2008 du Parlement
+européen et du Conseil concernant des règles communes dans le domaine de
+l'aviation civile et instituant une Agence européenne de la sécurité aérienne,
+ou le règlement (CE) n° 550/2004 du Parlement européen et du Conseil du 10 mars
+2004 relatif à la fourniture de services de navigation aérienne dans le Ciel
+unique européen " sont remplacés par les mots : " par les règles applicables en
+métropole en vertu du règlement (CE) n° 216/2008 du 20 février 2008 du Parlement
+européen et du Conseil concernant des règles communes dans le domaine de
+l'aviation civile et instituant une Agence européenne de la sécurité aérienne ou
+en vertu des règlements pris pour son application par la Commission européenne
+".
+
+L'autorité administrative compétente peut accorder des dérogations aux exigences
+de fond précisées dans ces règles, en cas de circonstances opérationnelles ou de
+nécessités opérationnelles imprévues et urgentes d'une durée limitée, pour
+autant que ces dérogations ne réduisent pas le niveau de sécurité.

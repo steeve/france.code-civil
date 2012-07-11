@@ -1,7 +1,7 @@
 Article L6222-2
 ----
-Les aéronefs conçus exclusivement à usage militaire ou exploités en circulation
-aérienne militaire ou ceux appartenant à un Etat qui ne sont pas inscrits au
-registre d'immatriculation prévu par l'article 17 de la convention relative à
-l'aviation civile internationale signée à Chicago le 7 décembre 1944 ne relèvent
-pas des dispositions du présent chapitre.
+Aucune sanction administrative, disciplinaire ou professionnelle ne peut être
+infligée à une personne qui a rendu compte d'un accident ou d'un incident
+d'aviation civile, qu'elle ait été ou non impliquée dans cet accident ou
+incident, sauf si elle s'est elle-même rendue coupable d'un manquement délibéré
+ou répété aux règles de sécurité.

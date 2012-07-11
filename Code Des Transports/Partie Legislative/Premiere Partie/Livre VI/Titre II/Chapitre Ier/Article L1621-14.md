@@ -1,6 +1,7 @@
 Article L1621-14
 ----
-Les enquêteurs techniques peuvent rencontrer toute personne concernée et
+I. - Pour les accidents ou incidents de transport terrestre et les événements de
+mer les enquêteurs techniques peuvent rencontrer toute personne concernée et
 obtiennent, sans que puisse leur être opposé le secret professionnel,
 communication de toute information ou de tout document concernant les
 circonstances, entreprises, organismes et matériels en relation avec l'accident
@@ -23,5 +24,10 @@ rattachés à l'organisme permanent ou désignés pour assister ces enquêteurs.
 Il est établi une copie des documents placés sous scellés par l'autorité
 judiciaire à l'intention de ces enquêteurs.
 
-Les conditions d'application du présent article sont fixées par décret en
+Les conditions d'application du I du présent article sont fixées par décret en
 Conseil d'Etat.
+
+II. - Pour les accidents ou incidents d'aviation civile, le recueil, la
+conservation et l'exploitation des éléments de preuve sont assurés par
+l'autorité responsable des enquêtes de sécurité dans les conditions prévues par
+le second alinéa de l'article L. 1621-2.

@@ -1,6 +1,6 @@
-Article L6731-1
+Article L6782-3
 ----
-Pour l'application de l'article L. 6222-1 à Saint-Barthélemy, les mots : " qui
+Pour l'application de l'article L. 6222-1 à Wallis-et-Futuna, les mots : " qui
 n'est pas visé à l'annexe II du règlement (CE) n° 216/2008 du Parlement européen
 et du Conseil du 20 février 2008 concernant des règles communes dans le domaine
 de l'aviation civile et instituant une Agence européenne de la sécurité aérienne
