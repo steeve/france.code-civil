@@ -8,10 +8,7 @@ installations soumises aux dispositions de la présente section. Ces règles et
 prescriptions déterminent les mesures propres à prévenir et à réduire les
 risques d'accident ou de pollution de toute nature susceptibles d'intervenir
 ainsi que les conditions d'insertion dans l'environnement de l'installation et
-de remise en état du site après arrêt de l'exploitation. Les projets de règles
-et prescriptions techniques font l'objet d'une publication, éventuellement par
-voie électronique, avant leur transmission au Conseil supérieur de la prévention
-des risques technologiques.
+de remise en état du site après arrêt de l'exploitation.
 
 Ces arrêtés s'imposent de plein droit aux installations nouvelles. Ils
 précisent, après avis des organisations professionnelles intéressées, les délais
