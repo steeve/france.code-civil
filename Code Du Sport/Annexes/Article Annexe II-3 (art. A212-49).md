@@ -76,10 +76,11 @@ que ces professionnels travaillent pour partie au fonctionnement de
 l'organisation employeuse. Leurs actions s'inscrivent dans le cadre des valeurs
 et des objectifs fixés par les instances dirigeantes de l'organisation au regard
 des attendus en termes de résultats. Les modes d'intervention qu'ils développent
-s'inscrivent dans une logique de travail collectif pour : ― concevoir des
-programmes de perfectionnement sportif ; ― coordonner la mise en œuvre d'un
-projet de perfectionnement dans un champ disciplinaire ; ― conduire une démarche
-de perfectionnement sportif ; ― conduire des actions de formation.
+s'inscrivent dans une logique de travail collectif et de sensibilisation à
+l'environnement et au développement durable pour : ― concevoir des programmes de
+perfectionnement sportif ; ― coordonner la mise en œuvre d'un projet de
+perfectionnement dans un champ disciplinaire ; ― conduire une démarche de
+perfectionnement sportif ; ― conduire des actions de formation.
 
 2.5. Situation fonctionnelle
 

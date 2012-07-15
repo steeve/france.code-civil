@@ -114,7 +114,8 @@ autorité élue " ;
 collectives avec les compétiteurs.
 
 Dans ce cadre, les modes d'intervention de ce professionnel s'inscrivent dans
-une logique de travail collectif et partenarial pour :
+une logique de travail collectif et partenarial et de sensibilisation à
+l'environnement et au développement durable pour :
 
 - préparer le projet stratégique de performance dans un champ disciplinaire ;
 
