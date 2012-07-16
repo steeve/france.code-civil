@@ -12,13 +12,13 @@ II. - Toutefois, le port de la ceinture de sécurité n'est pas obligatoire :
 1° Pour toute personne dont la morphologie est manifestement inadaptée au port
 de celle-ci ;
 
-2° Pour toute personne munie d'un certificat médical d'exemption, délivré par la
-commission médicale départementale chargée d'apprécier l'aptitude physique des
-candidats au permis de conduire et des conducteurs ou par les autorités
-compétentes d'un Etat membre de la Communauté européenne ou de l'Espace
-économique européen. Ce certificat médical doit mentionner sa durée de validité
-et comporter le symbole prévu à l'article 5 de la directive 91/671/CEE du
-Conseil du 16 décembre 1991 ;
+2° Pour toute personne munie d'un certificat médical d'exemption, délivré par un
+médecin agréé consultant hors commission médicale chargé d'apprécier l'aptitude
+physique des candidats au permis de conduire et des conducteurs ou par les
+autorités compétentes d'un Etat membre de la Communauté européenne ou de
+l'Espace économique européen. Ce certificat médical doit mentionner sa durée de
+validité et comporter le symbole prévu à l'article 5 de la directive 91/671/CEE
+du Conseil du 16 décembre 1991 ;
 
 3° En intervention d'urgence, pour tout conducteur ou passager d'un véhicule
 d'intérêt général prioritaire ou d'une ambulance ;

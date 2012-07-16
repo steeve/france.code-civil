@@ -21,11 +21,12 @@ où ces titres seraient adressés directement aux autorités préfectorales
 5° Des décisions dûment notifiées portant retrait total ou partiel de titres ou
 de permis de conduire obtenus irrégulièrement ou frauduleusement ;
 
-6° Des décisions dûment notifiées prises sur avis des commissions médicales en
-application des articles R. 221-10 à R. 221-14, portant inaptitude à la conduite
-des véhicules d'une ou plusieurs catégories, ou portant prorogation, limitation
-de la durée de validité, suspension, annulation, rétablissement ou changement de
-catégories du permis de conduire ;
+6° Des décisions dûment notifiées prises sur avis des médecins agréés consultant
+hors commission médicale ou des commissions médicales en application du présent
+code, portant inaptitude à la conduite des véhicules d'une ou plusieurs
+catégories, ou portant prorogation, limitation de la durée de validité,
+suspension, annulation, rétablissement ou changement de catégories du permis de
+conduire ;
 
 7° Des mesures administratives dûment notifiées portant restriction du droit de
 faire usage du permis de conduire prises conformément aux articles L. 224-1, L.

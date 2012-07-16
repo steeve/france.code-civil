@@ -1,11 +1,13 @@
 Article R224-22
 ----
-La commission chargée d'établir le certificat visé à l'article R. 224-21 procède
-d'abord à l'examen médical du candidat pour s'assurer que celui-ci est indemne
-de toute affection incompatible avec la délivrance du permis.
+En vue d'établir le certificat mentionné à l'article R. 224-21, le médecin agréé
+consultant hors commission médicale ou la commission médicale procède à l'examen
+médical du candidat pour s'assurer que celui-ci est indemne de toute affection
+incompatible avec la délivrance du permis de conduire.
 
-Dans l'affirmative, elle provoque un examen psychotechnique de l'intéressé.
+Dans l'affirmative, le candidat est soumis à un examen psychotechnique, qui
+porte sur les tests prescrits par le médecin agréé consultant hors commission
+médicale ou la commission médicale.
 
-Cet examen, qui porte notamment sur les tests prescrits par la commission, est
-subi dans un centre de sélection psychotechnique agréé par le préfet. Les
-résultats en sont communiqués à la commission.
+Les résultats de cet examen, qui se déroule dans un centre agréé par le préfet,
+sont communiqués au médecin agréé ou à la commission susmentionnée.
