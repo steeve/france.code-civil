@@ -7,3 +7,6 @@ a remplacée et, éventuellement, avec les sages-femmes exerçant en association
 avec celle-ci, à moins qu'il n'y ait entre les intéressées un accord, lequel
 doit être notifié au conseil départemental. Lorsqu'un tel accord n'a pu être
 obtenu, l'affaire peut être soumise au conseil départemental.
+
+La sage-femme remplacée ne doit pas pratiquer des actes réservés à sa profession
+et donnant lieu à rémunération pendant la durée du remplacement.
