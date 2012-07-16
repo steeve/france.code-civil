@@ -15,3 +15,7 @@ professionnel :
 limites prévues à l'article L. 6221-9 ;
 
 5° D'un vétérinaire pour la médecine vétérinaire.
+
+Ils délivrent également les contraceptifs oraux faisant l'objet d'un
+renouvellement de prescription par un infirmier en application des dispositions
+de l'article L. 4311-1.
