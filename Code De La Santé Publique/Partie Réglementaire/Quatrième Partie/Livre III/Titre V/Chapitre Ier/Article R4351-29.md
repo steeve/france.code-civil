@@ -3,7 +3,11 @@ Article R4351-29
 Les personnes mentionnées à l'article L. 4351-7 peuvent participer à
 l'exécution, par un radiologue libéral, des seuls examens suivants :
 
-1° Mammographies autres que les mammographies de dépistage de masse ;
+1° Mammographies ;
+
+Un arrêté du ministre chargé de la santé fixe le contenu et les modalités de la
+formation de ces personnes pour la mise en œuvre du programme de dépistage
+organisé du cancer du sein.
 
 2° Chez l'adulte :
 
@@ -23,5 +27,4 @@ membres inférieurs, du genou au pied.
 Est notamment exclue toute participation à l'exécution d'actes d'imagerie
 faisant appel aux techniques diagnostiques et interventionnelles de
 scanographie, d'exploration vasculaire, de médecine nucléaire, d'imagerie par
-résonance magnétique ou d'échographie, ou encore à des techniques qui n'étaient
-pas utilisées de façon courante avant le 21 novembre 1997.
+résonance magnétique ou d'échographie.
