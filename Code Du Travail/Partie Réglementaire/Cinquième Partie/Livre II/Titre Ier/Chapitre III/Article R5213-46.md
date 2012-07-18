@@ -1,6 +1,6 @@
 Article R5213-46
 ----
-La décision du directeur régional des entreprises, de la concurrence, de la
-consommation, du travail et de l'emploi est motivée et portée à la connaissance
-du bénéficiaire de l'obligation d'emploi. Cette décision prend effet à compter
-de la date du dépôt de la demande.
+La décision du délégué régional de l'association chargée de la gestion du fonds
+de développement pour l'insertion professionnelle des handicapés est motivée et
+portée à la connaissance du bénéficiaire de l'obligation d'emploi. Cette
+décision prend effet à compter de la date du dépôt de la demande.
