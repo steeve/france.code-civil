@@ -18,7 +18,7 @@ l'Etat une convention en application de l'article L. 3121-1 et aux
 sexuellement transmissibles en application de l'article L. 3121-2-1, les
 médicaments nécessaires au traitement ambulatoire de ces infections, sur
 commande écrite du pharmacien ou du médecin responsable de la détention et de la
-dispensation de ces produits.
+dispensation de ces produits ;
 
 3° Aux centres de planification ou d'éducation familiale, les médicaments,
 produits ou objets contraceptifs que les centres distribuent dans les conditions
@@ -65,7 +65,7 @@ médicaments ;
 l'article L. 6325-1 les médicaments nécessaires au traitement des personnes en
 situation de précarité ou d'exclusion, sur commande écrite du pharmacien attaché
 au centre ou à la structure de soins, ou du médecin désigné comme responsable de
-l'action sanitaire.
+l'action sanitaire ;
 
 9° Aux établissements et aux organismes autorisés à effectuer une ou plusieurs
 des activités mentionnées à l'article L. 1243-2, les médicaments nécessaires à
@@ -113,13 +113,18 @@ de la détention des produits ;
 16° Aux centres de santé, les médicaments nécessaires à la réalisation des
 interruptions volontaires de grossesse par voie médicamenteuse pratiquées dans
 les conditions prévues à l'article L. 6323-1, sur commande écrite du pharmacien
-ou, à défaut, d'un médecin autorisé par le préfet.
+ou, à défaut, d'un médecin autorisé par le préfet ;
 
 17° Aux centres et structures disposant d'équipes mobiles de soins mentionnés à
 l'article L. 6325-1 les médicaments nécessaires au traitement des personnes en
 situation de précarité ou d'exclusion, sur commande écrite du pharmacien attaché
 au centre ou à la structure de soins, ou du médecin désigné comme responsable de
-l'action sanitaire.
+l'action sanitaire ;
+
+18° Aux services universitaires et interuniversitaires de médecine préventive et
+de promotion de la santé, les médicaments contraceptifs indiqués dans la
+contraception d'urgence qu'ils délivrent en application du III de l'article L.
+5134-1, sur commande écrite du médecin responsable du service.
 
 En cas d'urgence telle que définie à l'article L. 3134-1, les établissements
 pharmaceutiques de l'Etablissement de préparation et de réponse aux situations
