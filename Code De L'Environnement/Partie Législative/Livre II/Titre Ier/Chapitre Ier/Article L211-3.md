@@ -38,36 +38,16 @@ la pêche maritime, un programme d'actions visant à restaurer, préserver, gér
 et mettre en valeur de façon durable les zones définies au a du présent article
 ;
 
-5° Délimiter, afin d'y établir un programme d'actions dans les conditions
-prévues au 4° du présent article :
-
-a) Des zones où il est nécessaire d'assurer la protection quantitative et
-qualitative des aires d'alimentation des captages d'eau potable d'une importance
-particulière pour l'approvisionnement actuel ou futur, le cas échéant après
-qu'elles ont été identifiées dans le plan d'aménagement et de gestion durable de
-la ressource en eau et des milieux aquatiques prévu au I de l'article L. 212-5-1
-;
-
-b) Les bassins versants identifiés par le schéma directeur d'aménagement et de
-gestion des eaux comme connaissant, sur les plages, d'importantes marées vertes
-de nature à compromettre la réalisation des objectifs de bon état prévus à
-l'article L. 212-1 en ce qui concerne les eaux côtières et de transition qu'ils
-alimentent, telles que définies par la directive 2000/60/ CE du Parlement
-européen et du Conseil, du 23 octobre 2000, établissant un cadre pour une
-politique communautaire dans le domaine de l'eau ;
-
-c) Des zones dans lesquelles l'érosion diffuse des sols agricoles est de nature
-à compromettre la réalisation des objectifs de bon état ou, le cas échéant, de
-bon potentiel prévus par l'article L. 212-1 ;
+5° (Abrogé)
 
 6° Délimiter des périmètres à l'intérieur desquels les autorisations de
 prélèvement d'eau pour l'irrigation sont délivrées à un organisme unique pour le
 compte de l'ensemble des préleveurs irrigants. Dans les zones de répartition des
-eaux, l'autorité administrative peut constituer d'office cet organisme.
-L'organisme unique peut faire participer les préleveurs irrigants dans son
-périmètre et, le cas échéant, d'autres contributeurs volontaires aux dépenses
-liées à cette mission. Les critères et les modalités générales de mise en œuvre
-de cette participation sont fixés par décret en Conseil d'Etat ;
+eaux, l'autorité administrative peut constituer d'office cet
+organisme.L'organisme unique peut faire participer les préleveurs irrigants dans
+son périmètre et, le cas échéant, d'autres contributeurs volontaires aux
+dépenses liées à cette mission. Les critères et les modalités générales de mise
+en œuvre de cette participation sont fixés par décret en Conseil d'Etat ;
 
 7° Dans le cas d'une atteinte à la qualité des eaux conduisant ou pouvant
 conduire au non-respect des normes de potabilité, délimiter tout ou partie de
