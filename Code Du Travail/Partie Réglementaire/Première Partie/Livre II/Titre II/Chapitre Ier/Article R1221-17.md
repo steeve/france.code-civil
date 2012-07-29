@@ -6,8 +6,10 @@ la déclaration préalable à l'embauche :
 
 1° Les éléments d'identification de l'employeur ;
 
-2° La date d'embauche du salarié, son sexe et sa date de naissance ;
+2° Le numéro national d'identification du salarié ;
 
-3° La nature et la durée du contrat de travail ;
+3° La date d'embauche du salarié, son sexe et sa date de naissance ;
 
-4° La durée de la période d'essai.
+4° La nature et la durée du contrat de travail ;
+
+5° La durée de la période d'essai.
