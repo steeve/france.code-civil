@@ -39,3 +39,5 @@ dans les conditions prévues au chapitre VII du titre II du présent livre, en
 précisant la dénomination sociale de la personne morale responsable de l'appui,
 l'adresse de son siège social, ainsi que, si elle est immatriculée dans un
 registre public, le lieu d'immatriculation et le numéro unique d'identification.
+
+Elle peut déclarer en outre le nom de domaine de son ou de ses sites internet.

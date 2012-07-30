@@ -48,3 +48,5 @@ l'adresse du siège social du mandant ainsi que les mentions prévues aux 1° et
 de l'article R. 123-237 ; les dates du début et du terme du contrat de
 gérance-mandat avec, le cas échéant, l'indication que le contrat est
 renouvelable par tacite reconduction.
+
+Elle peut déclarer en outre le nom de domaine de son site internet.

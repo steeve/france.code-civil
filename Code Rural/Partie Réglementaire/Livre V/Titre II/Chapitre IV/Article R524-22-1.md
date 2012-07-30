@@ -13,9 +13,9 @@ sont liés à la personne morale par un contrat de travail à durée indétermin
 3° 267 000 euros pour le total du bilan ; celui-ci est égal à la somme des
 montants nets des éléments d'actif.
 
-Ces sociétés et unions déposent en double exemplaire, au greffe du tribunal
-compétent, dans le mois qui suit l'approbation des comptes annuels par
-l'assemblée générale des associés :
+Ces sociétés et unions déposent au greffe du tribunal compétent, dans le mois
+qui suit l'approbation des comptes annuels par l'assemblée générale des associés
+:
 
 1° Les comptes annuels, le rapport aux associés, le rapport du commissaire aux
 comptes sur les comptes annuels, éventuellement complété de ses observations sur

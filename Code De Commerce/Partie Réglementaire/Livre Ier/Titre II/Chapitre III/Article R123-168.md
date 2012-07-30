@@ -5,15 +5,15 @@ d'au moins trois mois renouvelable par tacite reconduction, sauf préavis de
 résiliation. Les parties s'engagent à respecter les conditions suivantes :
 
 1° Le domiciliataire doit, durant l'occupation des locaux, être immatriculé au
-registre du commerce et des sociétés ou au répertoire des métiers ; toutefois,
-cette condition n'est pas requise si le domiciliataire est une personne morale
-française de droit public ou une association regroupant des personnes morales
-françaises de droit public. Le domiciliataire met à la disposition de la
-personne domiciliée des locaux dotés d'une pièce propre à assurer la
-confidentialité nécessaire et à permettre une réunion régulière des organes
-chargés de la direction, de l'administration ou de la surveillance de
-l'entreprise ainsi que la tenue, la conservation et la consultation des livres,
-registres et documents prescrits par les lois et règlements.
+registre du commerce et des sociétés ; toutefois, cette condition n'est pas
+requise si le domiciliataire est une personne morale française de droit public
+ou une association regroupant des personnes morales françaises de droit public.
+Le domiciliataire met à la disposition de la personne domiciliée des locaux
+dotés d'une pièce propre à assurer la confidentialité nécessaire et à permettre
+une réunion régulière des organes chargés de la direction, de l'administration
+ou de la surveillance de l'entreprise ainsi que la tenue, la conservation et la
+consultation des livres, registres et documents prescrits par les lois et
+règlements.
 
 Le domiciliataire détient, pour chaque personne domiciliée, un dossier contenant
 les pièces justificatives relatives, s'agissant des personnes physiques, à leur
@@ -49,3 +49,6 @@ d'une personne morale, tout changement relatif à sa forme juridique et à son
 objet, ainsi qu'au nom et au domicile personnel des personnes ayant le pouvoir
 de l'engager à titre habituel. La personne domiciliée donne mandat au
 domiciliataire qui l'accepte de recevoir en son nom toute notification.
+
+Le contrat de domiciliation mentionne les références de l'agrément prévu par
+l'article L. 123-11-3.

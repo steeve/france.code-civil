@@ -1,9 +1,9 @@
 Article R123-110
 ----
 En cas de transfert du siège hors du ressort du tribunal au greffe duquel la
-personne morale a été immatriculée, deux exemplaires des statuts ou du contrat
-de groupement sont déposés au greffe du tribunal du nouveau siège dans les
-conditions et délais prévus aux deux premiers alinéas de l'article R. 123-105.
+personne morale a été immatriculée, un exemplaire des statuts ou du contrat de
+groupement est déposé au greffe du tribunal du nouveau siège dans les conditions
+et délais prévus aux deux premiers alinéas de l'article R. 123-105.
 
 Mention est faite, dans une pièce annexée aux statuts ou au contrat, des sièges
 antérieurs et des greffes où sont classés, en annexe au registre, les actes

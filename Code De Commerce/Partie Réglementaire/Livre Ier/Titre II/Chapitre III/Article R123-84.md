@@ -1,8 +1,8 @@
 Article R123-84
 ----
 Sous réserve de la procédure prévue aux articles R. 123-1 et suivants, les
-demandes sont présentées en deux exemplaires au greffe du tribunal compétent sur
-des formulaires définis par l'arrêté prévu à l'article R. 123-166.
+demandes sont présentées au greffe du tribunal compétent sur des formulaires
+définis par l'arrêté prévu à l'article R. 123-166.
 
 Elles sont accompagnées des actes et pièces mentionnés aux articles R. 123-102 à
 R. 123-110 ainsi que des pièces répondant aux prescriptions de l'article L.
