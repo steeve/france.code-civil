@@ -12,7 +12,7 @@ adjonctions intervenus.
 Lorsque le dépôt au greffe des actes modificatifs du groupement a été effectué
 avant la demande d'inscription modificative, copie du récépissé de dépôt.
 
-1. 1. Identification des dirigeants.
+1.1. Identification des dirigeants.
 
 Pièces établissant les modifications de situations prévues à l'annexe précédente
 ou au 1 de l'annexe II.
@@ -21,22 +21,24 @@ ou au 1 de l'annexe II.
 
 au siège et à l'établissement
 
-2. 1. Justificatif de la jouissance des locaux où est installé le siège par tout
+2.1. Justificatif de la jouissance des locaux où est installé le siège par tout
 document établi au nom du groupement permettant de justifier la réalité de
 l'adresse déclarée
 
-2. 2. Si le représentant légal use de la faculté d'installer le siège à son
+2.2. Si le représentant légal use de la faculté d'installer le siège à son
 domicile pour une durée limitée, justificatif de son domicile par tout document
 établi à son nom permettant de justifier la réalité de l'adresse déclarée.
 
-2. 3. Occupation de locaux en commun : si le siège du groupement est situé dans
+2.3. Occupation de locaux en commun : si le siège du groupement est situé dans
 les locaux occupés en commun par une ou plusieurs entreprises : copie du contrat
-de domiciliation mentionné aux articles R. 123-167 et suivants et extrait du RCS
-ou du répertoire des métiers du domiciliataire, sauf si celui-ci est immatriculé
-dans le même greffe ou s'il est une personne morale française de droit public ou
-une association regroupant des personnes morales françaises de droit public.
+de domiciliation mentionné aux articles R. 123-167 et suivants indiquant les
+références de l'agrément préfectoral prévu par l'article L. 123-11-3 et extrait
+du RCS ou du répertoire des métiers du domiciliataire, sauf si celui-ci est
+immatriculé dans le même greffe ou s'il est une personne morale française de
+droit public ou une association regroupant des personnes morales françaises de
+droit public.
 
-2. 4. Fonds de commerce acquis ou reçu par un groupement à objet commercial.
+2.4. Fonds de commerce acquis ou reçu par un groupement à objet commercial.
 
 Par achat, licitation : copie de l'acte et attestation de parution dans un
 journal d'annonces légales ou copie de celui-ci.
@@ -55,9 +57,9 @@ parution dans un journal d'annonces légales ou copie de celui-ci.
 Dans le cadre d'un plan de cession, pour la gestion du fonds de commerce cédé :
 copie du jugement ordonnant un plan de cession.
 
-2. 5. Transfert du siège ou d'un établissement.
+2.5. Transfert du siège ou d'un établissement.
 
-2. 5. 1. Dans tous les cas pour le siège :
+2.5.1. Dans tous les cas pour le siège :
 
 ― justificatif de la jouissance des locaux où est installé le siège ou
 justificatif du domicile du représentant légal où est fixé le siège, par tout
@@ -66,21 +68,23 @@ représentant permettant de justifier la réalité de l'adresse déclarée :
 
 ― occupation de locaux en commun : si le siège du groupement est situé dans les
 locaux occupés en commun par une ou plusieurs entreprises, copie du contrat de
-domiciliation mentionné aux articles R. 123-167 et suivants et extrait du RCS ou
-du répertoire des métiers du domiciliataire, sauf si celui-ci est immatriculé
-dans le même greffe ou s'il est une personne morale française de droit public ou
-une association regroupant des personnes morales françaises de droit public.
+domiciliation mentionné aux articles R. 123-167 et suivants indiquant les
+références de l'agrément préfectoral prévu par l'article L. 123-11-3 et extrait
+du RCS ou du répertoire des métiers du domiciliataire, sauf si celui-ci est
+immatriculé dans le même greffe ou s'il est une personne morale française de
+droit public ou une association regroupant des personnes morales françaises de
+droit public.
 
-2. 5. 2. Transfert dans le ressort d'un autre greffe.
+2.5.2. Transfert dans le ressort d'un autre greffe.
 
-S'il s'agit du transfert du siège : pièces prévues au 1. 1 de l'annexe V et
-copie du récépissé de dépôt au greffe du nouveau siège, des actes décidant le
+S'il s'agit du transfert du siège : pièces prévues au 1.1 de l'annexe V et copie
+du récépissé de dépôt au greffe du nouveau siège, des actes décidant le
 transfert du siège si la formalité n'est pas concomitante au dépôt.
 
-S'il s'agit du transfert d'un établissement : pièces prévues au 1. 2 ou 2. 2 de
+S'il s'agit du transfert d'un établissement : pièces prévues au 1.2 ou 2.2 de
 l'annexe V.
 
-2. 6. Immatriculation secondaire :
+2.6. Immatriculation secondaire :
 
 ― extrait de l'immatriculation principale datant de moins de trois mois ;
 
@@ -107,7 +111,7 @@ attestation de parution dans un journal d'annonces légales ou copie de celui-ci
 ― dans le cadre d'un plan de cession, pour la gestion du fonds de commerce cédé
 : copie du jugement ordonnant le plan de cession.
 
-2. 7. Activité réglementée.
+2.7. Activité réglementée.
 
 Copie de l'autorisation provisoire ou définitive du diplôme ou du titre
 conformément à l'article R. 123-95.
