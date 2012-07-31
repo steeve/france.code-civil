@@ -12,6 +12,6 @@ des activités s'exerçant sur deux fonds voisins et si elles sont de mêmes
 dimensions.
 
 Les enseignes de plus de 1 mètre carré scellées au sol ou installées directement
-sur le sol sont limitées en nombre à un dispositif placé sur chacune des voies
-ouvertes à la circulation publique bordant l'immeuble dans lequel est exercée
+sur le sol sont limitées en nombre à un dispositif placé le long de chacune des
+voies ouvertes à la circulation publique bordant l'immeuble où est exercée
 l'activité signalée.
