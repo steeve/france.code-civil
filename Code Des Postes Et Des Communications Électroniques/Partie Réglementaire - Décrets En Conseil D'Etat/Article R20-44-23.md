@@ -10,7 +10,9 @@ Les ressources de l'agence sont :
 
 4° Les revenus du portefeuille ;
 
-5° Le produit des dons et legs.
+5° Le produit des dons et legs ;
+
+6° Le produit de la taxe mentionnée au I bis de l'article L. 43.
 
 L'agence perçoit au bénéfice du fonds de réaménagement du spectre les
 contributions des personnes publiques ou privées versées à des fins de

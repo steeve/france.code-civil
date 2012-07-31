@@ -1,25 +1,18 @@
 Article R20-44-35
 ----
-La désignation d'un office est accompagnée d'un cahier des charges précisant
-s'il y a lieu :
+Ne donnent pas lieu au versement d'une redevance :
 
-- les exigences de permanence, de qualité, de disponibilité et de sécurité du
-service d'enregistrement ;
+- l'attribution de codes utilisés pour l'acheminement des communications
+électroniques qui ne relèvent pas du système de l'adressage de l'internet ;
 
-- les exigences relatives à la notification aux services de l'Etat des atteintes
-ou tentatives d'atteintes à la sécurité du service ;
+- lorsqu'elle n'est pas faite au profit d'un opérateur déterminé, l'attribution
+de ressources à deux ou trois chiffres commençant par le chiffre 1 ou de
+ressources affectées par l'Autorité de régulation des communications
+électroniques et des postes à la fourniture des services associés à une offre
+d'accès à un réseau de communications électroniques ;
 
-- les modalités d'audit de la sécurité et de la résilience des infrastructures
-de l'office d'enregistrement par le ministre chargé des communications
-électroniques ;
-
-- l'exigence d'un dispositif permettant à toute personne de porter à la
-connaissance de l'office un nom de domaine susceptible de présenter un caractère
-illicite ou contraire à l'ordre public ;
-
-- l'exigence d'un dispositif de concertation de l'office avec l'ensemble des
-parties intéressées par ses décisions, notamment les bureaux d'enregistrement,
-les demandeurs de noms de domaine et les utilisateurs d'internet ;
-
-- les modalités de publication des enregistrements de noms de domaine effectués
-par chaque office, conformément aux dispositions de l'article R. 20-44-37.
+- l'attribution par l'Autorité de régulation des communications électroniques et
+des postes, dans le cadre d'une restructuration du plan national de
+numérotation, de nouvelles ressources se substituant aux ressources déjà
+attribuées à un opérateur, jusqu'à l'achèvement de la substitution des nouvelles
+ressources aux anciennes.

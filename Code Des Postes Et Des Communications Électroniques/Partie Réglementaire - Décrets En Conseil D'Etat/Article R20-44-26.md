@@ -1,51 +1,32 @@
 Article R20-44-26
 ----
-Afin d'assurer une utilisation optimale des sites disponibles permettant
-d'atteindre la meilleure compatibilité électromagnétique d'ensemble en Polynésie
-française, dans les îles Wallis et Futuna, dans les Terres australes et
-antarctiques françaises et en Nouvelle-Calédonie, les décisions d'implantation,
-de transfert ou de modification des stations radioélectriques sont prises après
-avis ou avec l'accord de l'Agence nationale des fréquences.
+I.-Les coûts mentionnés à l'article R. 20-44-25 sont répartis chaque année entre
+les titulaires d'une autorisation d'utilisation de fréquences dans la bande
+790-862 MHz en France métropolitaine pour l'établissement et l'exploitation d'un
+réseau radioélectrique mobile ouvert au public, selon les modalités suivantes :
 
-Elles sont prises après avis de l'agence lorsqu'elles relèvent de la compétence
-du Conseil supérieur de l'audiovisuel.
+1° 57 % des coûts pour le titulaire d'une autorisation d'usage de fréquences du
+bloc positionné de 791 MHz à 801 MHz et de 832 MHz à 842 MHz ;
 
-L'accord de l'agence est obligatoire dans tous les autres cas, à l'exception des
-décisions d'implantation de stations radioélectriques non militaires suivantes :
+2° 12 % des coûts pour le titulaire d'une autorisation d'usage de fréquences du
+bloc positionné de 801 MHz à 806 MHz et de 842 MHz à 847 MHz ;
 
-- les installations radioélectriques de faible puissance et de faible portée
-dont les catégories sont fixées conformément à la réglementation relatives aux
-fréquences radioélectriques ;
+3° 12 % des coûts pour le titulaire d'une autorisation d'usage de fréquences du
+bloc positionné de 806 MHz à 811 MHz et de 847 MHz à 852 MHz ;
 
-- les installations radioélectriques n'utilisant pas des fréquences
-spécifiquement assignées à leur utilisateur ;
+4° 19 % des coûts pour le titulaire d'une autorisation d'usage de fréquences du
+bloc positionné de 811 MHz à 821 MHz et de 852 MHz à 862 MHz.
 
-- les stations terminales d'usagers des réseaux ouverts au public et des réseaux
-indépendants installés et utilisés conformément aux normes ou réglementations en
-vigueur ;
+Lorsqu'un ou plusieurs blocs de fréquences ne sont attribués à aucun titulaire
+d'autorisation durant tout ou partie de l'année, ces pourcentages sont corrigés
+de manière à ce que le montant global de taxe à recouvrer soit intégralement
+réparti entre les titulaires d'autorisation dans des conditions garantissant que
+chaque titulaire d'un droit d'utilisation contribue en proportion de sa
+quote-part telle que définie ci-dessus et, le cas échéant, en proportion de la
+durée de détention de son autorisation.
 
-- les stations des réseaux ouverts au public et des réseaux indépendants
-installés dans les parties intérieures des bâtiments ou en façade d'immeubles
-sur la voirie urbaine, et ayant une puissance isotrope rayonnée équivalente
-inférieure à 1 W. Toutefois, lorsque cette dernière est supérieure ou égale à 1
-W et inférieure à 5 W, elles sont soumises à déclaration auprès de l'agence par
-les administrations et les autorités affectataires ainsi que par les
-utilisateurs dans les conditions définies par l'affectataire dont ils relèvent.
-
-Le dossier de demande d'avis ou d'accord peut être transmis directement par
-l'utilisateur à l'agence si l'administration ou l'autorité affectataire en est
-d'accord. L'agence informe alors directement l'utilisateur et l'administration
-ou l'autorité affectataire de l'avis ou de l'accord.
-
-Devant le silence gardé par l'agence, l'avis ou l'accord est réputé acquis au
-terme d'un délai de deux mois après la saisine de l'agence.
-
-L'agence est consultée sur les projets de servitudes radioélectriques instituées
-dans les conditions prévues par les lois n° 49-758 du 9 juin 1949, n° 49-759 du
-9 juin 1949 et le décret n° 57-817 du 22 juillet 1957 susvisés. Elle constitue,
-tient à jour et diffuse la documentation relative aux servitudes établies en ce
-domaine au titre des différents ministères et autorités affectataires.
-
-En liaison avec les services et organismes compétents, elle établit et diffuse
-les documents, répertoires et fichiers relatifs aux installations
-radioélectriques et aux zones de groupement des installations radioélectriques.
+II.-Lorsque les fréquences d'un même bloc sont attribuées à plusieurs titulaires
+d'autorisation d'utilisation de fréquences durant tout ou partie de l'année, les
+coûts imputables au bloc en cause sont répartis entre ses titulaires en
+proportion de la part de fréquences qu'ils détiennent dans ce bloc et, le cas
+échéant, au prorata de la durée de détention de leur autorisation.

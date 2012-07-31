@@ -1,32 +1,16 @@
 Article R20-44-40
 ----
-L'accréditation prévue à l'article L. 45-4 est délivrée lorsque le prestataire :
+Avant le 30 juin de chaque année, chaque office adresse au ministre chargé des
+communications électroniques un rapport sur l'activité de l'année précédente. La
+liste des informations que doit contenir ce rapport est fixée par arrêté du
+ministre chargé des communications électroniques.
 
-― maîtrise les principes et les modalités de fonctionnement du système des noms
-de domaine de l'internet ;
+Chaque office est tenu de répondre aux demandes du ministre chargé des
+communications électroniques relatives au respect des principes prévus aux
+articles L. 45 à L. 45-6 et des règles prévues en application des dispositions
+de l'article R. 20-44-39 dans un délai d'un mois.
 
-― maîtrise les matériels et les règles techniques permettant d'effectuer les
-enregistrements auprès de l'office ;
-
-― a mis en place une procédure de vérification des données d'identification
-fournies par les demandeurs de noms de domaine permettant de répondre, le cas
-échéant, aux demandes de l'office d'enregistrement ;
-
-― dispose des ressources humaines et techniques nécessaires pour assurer la mise
-à jour des données administratives et techniques fournies par les demandeurs de
-noms de domaine pour leur identification ;
-
-― dispose des matériels et logiciels informatiques nécessaires pour assurer la
-sécurité des données personnelles fournies par les demandeurs de noms de domaine
-et conserve ces dernières dans le respect des dispositions de la loi n° 78-17 du
-6 janvier 1978 ;
-
-― offre des conditions d'accueil du public adéquates ;
-
-― justifie qu'il n'agit pas sous contrôle, au sens de l'article L. 233-3 du code
-de commerce, de l'office d'enregistrement ou d'une personne morale exerçant un
-contrôle sur cet office au sens des mêmes dispositions.
-
-Un contrat entre l'office d'enregistrement et chaque bureau d'enregistrement
-accrédité fixe les conditions d'accès aux services de l'office ainsi qu'à ceux
-du bureau d'enregistrement.
+Chaque office signale sans délai aux services du ministre chargé des
+communications électroniques les noms de domaine enregistrés ou sollicités
+présentant un caractère manifestement illicite ou contraire à l'ordre public en
+vertu de l'article L. 45-2 qu'il a identifiés ou qui lui sont signalés.

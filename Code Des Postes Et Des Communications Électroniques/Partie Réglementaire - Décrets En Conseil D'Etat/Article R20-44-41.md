@@ -1,6 +1,8 @@
 Article R20-44-41
 ----
-La demande d'accréditation est adressée à l'office d'enregistrement du domaine
-de l'internet correspondant. Elle comporte les éléments permettant à l'office
-d'enregistrement d'apprécier le respect par le demandeur des conditions fixées
-aux articles R. 20-44-39 et R. 20-44-40.
+Chaque office publie quotidiennement la liste des noms de domaine qu'il a
+enregistrés la veille. Cette liste fait l'objet d'un accès libre et sans
+contrepartie financière depuis le site internet de l'office d'enregistrement.
+
+Chaque office met à disposition du public les détails de la procédure
+d'accréditation et la liste des bureaux d'enregistrement accrédités.

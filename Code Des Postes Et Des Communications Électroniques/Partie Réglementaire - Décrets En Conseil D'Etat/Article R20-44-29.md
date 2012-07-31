@@ -1,9 +1,6 @@
 Article R20-44-29
 ----
-La réservation, par un opérateur, auprès de l'Autorité de régulation des
-communications électroniques et des postes de ressources de numérotation
-entraîne le versement d'une redevance égale à la moitié de la redevance due pour
-l'attribution des mêmes ressources.
-
-Si l'opérateur renonce à sa réservation, la redevance au titre de l'année en
-cours reste due.
+Les articles R. 20-44-10 à R. 20-44-24 sont applicables en Polynésie française,
+dans les îles Wallis et Futuna, dans les Terres australes et antarctiques
+françaises et en Nouvelle-Calédonie, à l'exception du 5° de l'article R.
+20-44-11.

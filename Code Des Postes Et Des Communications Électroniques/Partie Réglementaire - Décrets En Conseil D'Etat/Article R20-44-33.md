@@ -1,6 +1,9 @@
 Article R20-44-33
 ----
-Le silence gardé par l'Autorité de régulation des communications électroniques
-et des postes pendant plus de trois semaines à compter de la date de réception
-d'une demande d'attribution de ressources de numérotation relevant de l'article
-L. 44 vaut décision de rejet.
+La réservation, par un opérateur, auprès de l'Autorité de régulation des
+communications électroniques et des postes de ressources de numérotation
+entraîne le versement d'une redevance égale à la moitié de la redevance due pour
+l'attribution des mêmes ressources.
+
+Si l'opérateur renonce à sa réservation, la redevance au titre de l'année en
+cours reste due.
