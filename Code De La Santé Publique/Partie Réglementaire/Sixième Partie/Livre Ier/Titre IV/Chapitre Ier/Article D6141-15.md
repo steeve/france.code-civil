@@ -19,7 +19,7 @@ application de l'article L. 6141-2 est fixée comme suit :
 
 8° Centre hospitalier régional de Dijon ;
 
-9° Centre hospitalier régional de Fort-de-France ;
+9° Centre hospitalier régional de Martinique ;
 
 10° Centre hospitalier régional de Grenoble ;
 
