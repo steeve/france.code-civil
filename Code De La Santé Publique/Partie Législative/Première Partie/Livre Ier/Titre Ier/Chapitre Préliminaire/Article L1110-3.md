@@ -4,11 +4,11 @@ Aucune personne ne peut faire l'objet de discriminations dans l'accès à la
 prévention ou aux soins.
 
 Un professionnel de santé ne peut refuser de soigner une personne pour l'un des
-motifs visés au premier alinéa de l'article 225-1 du code pénal ou au motif
-qu'elle est bénéficiaire de la protection complémentaire ou du droit à l'aide
-prévus aux articles L. 861-1 et L. 863-1 du code de la sécurité sociale, ou du
-droit à l'aide prévue à l'article L. 251-1 du code de l'action sociale et des
-familles.
+motifs visés au premier alinéa de l'article 225-1 ou à l'article 225-1-1 du code
+pénal ou au motif qu'elle est bénéficiaire de la protection complémentaire ou du
+droit à l'aide prévus aux articles L. 861-1 et L. 863-1 du code de la sécurité
+sociale, ou du droit à l'aide prévue à l'article L. 251-1 du code de l'action
+sociale et des familles.
 
 Toute personne qui s'estime victime d'un refus de soins illégitime peut saisir
 le directeur de l'organisme local d'assurance maladie ou le président du conseil

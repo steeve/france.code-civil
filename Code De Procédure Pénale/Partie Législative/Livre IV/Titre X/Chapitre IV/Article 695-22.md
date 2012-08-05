@@ -23,5 +23,5 @@ de la peine se trouve acquise ;
 5° S'il est établi que ledit mandat d'arrêt a été émis dans le but de poursuivre
 ou de condamner une personne en raison de son sexe, de sa race, de sa religion,
 de son origine ethnique, de sa nationalité, de sa langue, de ses opinions
-politiques ou de son orientation sexuelle, ou qu'il peut être porté atteinte à
-la situation de cette personne pour l'une de ces raisons.
+politiques ou de son orientation ou identité sexuelle, ou qu'il peut être porté
+atteinte à la situation de cette personne pour l'une de ces raisons.

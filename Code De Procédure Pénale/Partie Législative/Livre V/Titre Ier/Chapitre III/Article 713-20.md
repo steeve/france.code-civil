@@ -19,9 +19,9 @@ exécution selon les lois de l'Etat de condamnation ;
 4° S'il est établi que la décision de confiscation a été émise dans le but de
 poursuivre ou de condamner une personne en raison de son sexe, de sa race, de sa
 religion, de son origine ethnique, de sa nationalité, de sa langue, de ses
-opinions politiques ou de son orientation sexuelle ou que l'exécution de ladite
-décision peut porter atteinte à la situation de cette personne pour l'une de ces
-raisons ;
+opinions politiques ou de son orientation ou identité sexuelle ou que
+l'exécution de ladite décision peut porter atteinte à la situation de cette
+personne pour l'une de ces raisons ;
 
 5° Si la confiscation est fondée sur des faits qui ne constituent pas des
 infractions permettant, selon la loi française, d'ordonner une telle mesure ;

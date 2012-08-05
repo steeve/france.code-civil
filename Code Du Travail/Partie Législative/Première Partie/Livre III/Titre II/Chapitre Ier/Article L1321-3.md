@@ -12,9 +12,10 @@ la nature de la tâche à accomplir ni proportionnées au but recherché ;
 
 3° Des dispositions discriminant les salariés dans leur emploi ou leur travail,
 à capacité professionnelle égale, en raison de leur origine, de leur sexe, de
-leurs moeurs, de leur orientation sexuelle, de leur âge, de leur situation de
-famille ou de leur grossesse, de leurs caractéristiques génétiques, de leur
-appartenance ou de leur non-appartenance, vraie ou supposée, à une ethnie, une
-nation ou une race, de leurs opinions politiques, de leurs activités syndicales
-ou mutualistes, de leurs convictions religieuses, de leur apparence physique, de
-leur nom de famille ou en raison de leur état de santé ou de leur handicap.
+leurs moeurs, de leur orientation ou identité sexuelle, de leur âge, de leur
+situation de famille ou de leur grossesse, de leurs caractéristiques génétiques,
+de leur appartenance ou de leur non-appartenance, vraie ou supposée, à une
+ethnie, une nation ou une race, de leurs opinions politiques, de leurs activités
+syndicales ou mutualistes, de leurs convictions religieuses, de leur apparence
+physique, de leur nom de famille ou en raison de leur état de santé ou de leur
+handicap.

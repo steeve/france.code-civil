@@ -16,7 +16,7 @@ des droits de la défense ;
 4° S'il est établi que la décision étrangère a été émise dans le but de
 poursuivre ou de condamner une personne en raison de son sexe, de sa race, de sa
 religion, de son origine ethnique, de sa nationalité, de sa langue, de ses
-opinions politiques ou de son orientation sexuelle ;
+opinions politiques ou de son orientation ou identité sexuelle ;
 
 5° Si le ministère public français avait décidé de ne pas engager de poursuites
 pour les faits à raison desquels la confiscation a été prononcée par la

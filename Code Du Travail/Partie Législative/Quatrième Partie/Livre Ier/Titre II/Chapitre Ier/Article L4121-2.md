@@ -23,7 +23,8 @@ est moins dangereux ;
 7° Planifier la prévention en y intégrant, dans un ensemble cohérent, la
 technique, l'organisation du travail, les conditions de travail, les relations
 sociales et l'influence des facteurs ambiants, notamment les risques liés au
-harcèlement moral, tel qu'il est défini à l'article L. 1152-1 ;
+harcèlement moral et au harcèlement sexuel, tels qu'ils sont définis aux
+articles L. 1152-1 et L. 1153-1 ;
 
 8° Prendre des mesures de protection collective en leur donnant la priorité sur
 les mesures de protection individuelle ;

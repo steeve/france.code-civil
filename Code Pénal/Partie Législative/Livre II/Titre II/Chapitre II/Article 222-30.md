@@ -16,7 +16,8 @@ ou de complice ;
 
 5° Lorsqu'elle est commise avec usage ou menace d'une arme ;
 
-6° Lorsqu'elle a été commise à raison de l'orientation sexuelle de la victime ;
+6° Lorsqu'elle a été commise à raison de l'orientation ou identité sexuelle de
+la victime ;
 
 7° Lorsqu'elle est commise par une personne agissant en état d'ivresse manifeste
 ou sous l'emprise manifeste de produits stupéfiants.

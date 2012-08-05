@@ -16,9 +16,9 @@ peine ait été exécutée, soit en cours d'exécution ou ne puisse plus être r
 3° S'il est établi que la décision de gel a été prise dans le but de poursuivre
 ou de condamner une personne en raison de son sexe, de sa race, de sa religion,
 de son origine ethnique, de sa nationalité, de sa langue, de ses opinions
-politiques ou de son orientation sexuelle, ou que l'exécution de ladite décision
-peut porter atteinte à la situation de cette personne pour l'une de ces raisons
-;
+politiques ou de son orientation ou identité sexuelle, ou que l'exécution de
+ladite décision peut porter atteinte à la situation de cette personne pour l'une
+de ces raisons ;
 
 4° Si la décision de gel a été prise à des fins de confiscation ultérieure d'un
 bien et que les faits qui la justifient ne constituent pas une infraction

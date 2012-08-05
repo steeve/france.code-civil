@@ -8,8 +8,8 @@ pour objet le soutien à une association sportive mentionnée à l'article L.
 manifestation sportive, des actes répétés ou un acte d'une particulière gravité
 et qui sont constitutifs de dégradations de biens, de violence sur des personnes
 ou d'incitation à la haine ou à la discrimination contre des personnes à raison
-de leur origine, de leur orientation sexuelle, de leur sexe ou de leur
-appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une
+de leur origine, de leur orientation ou identité sexuelle, de leur sexe ou de
+leur appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une
 religion déterminée.
 
 Les représentants des associations ou groupements de fait et les dirigeants de

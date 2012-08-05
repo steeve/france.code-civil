@@ -1,7 +1,8 @@
 Article L055-2
 ----
-Les faits de harcèlement moral, définis à l'article L. 052-1, sont punis d'un
-emprisonnement d'un an et d'une amende de 15 000 €.
+Sont punis d'un an d'emprisonnement et d'une amende de 3 750 € les faits de
+discriminations commis à la suite d'un harcèlement moral ou sexuel définis aux
+articles L. 052-2, L. 053-2 et L. 053-3 du présent code.
 
 La juridiction peut également ordonner, à titre de peine complémentaire,
 l'affichage du jugement aux frais de la personne condamnée dans les conditions

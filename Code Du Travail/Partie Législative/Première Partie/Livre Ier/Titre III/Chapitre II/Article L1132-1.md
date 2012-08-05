@@ -10,9 +10,9 @@ rémunération, au sens de l'article L. 3221-3, de mesures d'intéressement ou d
 distribution d'actions, de formation, de reclassement, d'affectation, de
 qualification, de classification, de promotion professionnelle, de mutation ou
 de renouvellement de contrat en raison de son origine, de son sexe, de ses
-moeurs, de son orientation sexuelle, de son âge, de sa situation de famille ou
-de sa grossesse, de ses caractéristiques génétiques, de son appartenance ou de
-sa non-appartenance, vraie ou supposée, à une ethnie, une nation ou une race, de
-ses opinions politiques, de ses activités syndicales ou mutualistes, de ses
-convictions religieuses, de son apparence physique, de son nom de famille ou en
-raison de son état de santé ou de son handicap.
+moeurs, de son orientation ou identité sexuelle, de son âge, de sa situation de
+famille ou de sa grossesse, de ses caractéristiques génétiques, de son
+appartenance ou de sa non-appartenance, vraie ou supposée, à une ethnie, une
+nation ou une race, de ses opinions politiques, de ses activités syndicales ou
+mutualistes, de ses convictions religieuses, de son apparence physique, de son
+nom de famille ou en raison de son état de santé ou de son handicap.

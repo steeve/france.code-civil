@@ -42,11 +42,12 @@ données de santé à caractère personnel que si elles sont strictement nécess
 III.-Pour son application en Nouvelle-Calédonie et en Polynésie française,
 l'article L. 1110-3 est ainsi rédigé :
 
-" Art.L. 1110-3.-Aucune personne ne peut faire l'objet de discriminations dans
+" Art. L. 1110-3.-Aucune personne ne peut faire l'objet de discriminations dans
 l'accès à la prévention ou aux soins.
 
 " Un professionnel de santé ne peut refuser de soigner une personne pour l'un
-des motifs visés au premier alinéa de l'article 225-1 du code pénal.
+des motifs visés au premier alinéa de l'article 225-1 ou à l'article 225-1-1 du
+code pénal.
 
 " Toute personne qui s'estime victime d'un refus de soins illégitime peut saisir
 le président de l'organe de l'ordre professionnel concerné des faits qui

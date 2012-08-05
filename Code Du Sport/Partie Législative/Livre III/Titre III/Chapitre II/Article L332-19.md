@@ -16,6 +16,6 @@ Les peines prévues aux premier et deuxième alinéas sont portées respectiveme
 trois ans d'emprisonnement et 45 000 euros d'amende et à cinq ans
 d'emprisonnement et 75 000 euros d'amende si les infractions à l'origine de la
 dissolution ou de la suspension de l'association ou du groupement ont été
-commises à raison de l'origine de la victime, de son orientation sexuelle, de
-son sexe ou de son appartenance, vraie ou supposée, à une ethnie, une nation,
-une race ou une religion déterminée.
+commises à raison de l'origine de la victime, de son orientation ou identité
+sexuelle, de son sexe ou de son appartenance, vraie ou supposée, à une ethnie,
+une nation, une race ou une religion déterminée.

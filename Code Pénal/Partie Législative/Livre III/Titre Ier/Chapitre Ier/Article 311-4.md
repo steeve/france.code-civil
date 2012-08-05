@@ -30,7 +30,8 @@ dégradation ou détérioration ;
 
 9° Lorsqu'il est commis à raison de l'appartenance ou de la non-appartenance,
 vraie ou supposée, de la victime à une ethnie, une nation, une race ou une
-religion déterminée, ou de son orientation sexuelle, vraie ou supposée ;
+religion déterminée, ou de son orientation ou identité sexuelle, vraie ou
+supposée ;
 
 10° Lorsqu'il est commis par une personne dissimulant volontairement en tout ou
 partie son visage afin de ne pas être identifiée ;

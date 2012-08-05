@@ -1,7 +1,8 @@
 Article L1110-3-1
 ----
 A Mayotte, un professionnel de santé ne peut refuser de soigner une personne
-pour l'un des motifs visés au premier alinéa de l'article 225-1 du code pénal.
+pour l'un des motifs visés au premier alinéa de l'article 225-1 ou à l'article
+225-1-1 du code pénal.
 
 Toute personne qui s'estime victime d'un refus de soins illégitime peut saisir
 le président du conseil territorialement compétent de l'ordre professionnel
