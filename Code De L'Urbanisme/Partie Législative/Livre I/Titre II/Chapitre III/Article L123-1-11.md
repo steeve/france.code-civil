@@ -34,10 +34,10 @@ lieu, à l'intérieur desquels un dépassement des règles relatives au gabarit,
 la hauteur, à l'emprise au sol et au coefficient d'occupation des sols résultant
 de l'un de ces documents est autorisé pour permettre l'agrandissement ou la
 construction de bâtiments à usage d'habitation. La délibération fixe pour chaque
-secteur ce dépassement, qui ne peut excéder 30 % pour chacune des règles
+secteur ce dépassement, qui ne peut excéder 20 % pour chacune des règles
 concernées. En l'absence de coefficient d'occupation des sols, l'application du
 dépassement ainsi autorisé ne peut conduire à la création d'une surface de
-plancher supérieure de plus de 30 % à la surface de plancher existante. Le
+plancher supérieure de plus de 20 % à la surface de plancher existante. Le
 projet de délibération comprenant l'exposé des motifs est porté à la
 connaissance du public en vue de lui permettre de formuler des observations
 pendant un délai d'un mois préalablement à la convocation de l'assemblée
