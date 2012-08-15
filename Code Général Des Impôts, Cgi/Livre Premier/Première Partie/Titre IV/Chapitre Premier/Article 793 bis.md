@@ -10,14 +10,11 @@ Lorsque la valeur totale des biens susceptibles de bénéficier de l'exonératio
 partielle visée au premier alinéa, transmis par le donateur ou le défunt à
 chaque donataire, héritier ou légataire, excède 101 897 € l'exonération
 partielle de droits de mutation à titre gratuit est ramenée à 50 % au-delà de
-cette limite. Cette limite est actualisée, le 1er janvier de chaque année, dans
-la même proportion que la limite supérieure de la première tranche du barème de
-l'impôt sur le revenu et arrondie à l'euro le plus proche.
+cette limite.
 
 Pour l'appréciation de cette limite, il est tenu compte de l'ensemble des
 donations consenties par la même personne à un titre, à une date et sous une
-forme quelconques à l'exception des donations passées devant notaire depuis plus
-de six ans.
+forme quelconques à l'exception des donations passées depuis plus de quinze ans.
 
 L'exonération partielle visée au premier alinéa ne s'applique pas lorsque le
 bail a été consenti depuis moins de deux ans au donataire de la transmission, à

@@ -11,7 +11,9 @@ Tarif des droits applicables en ligne directe :
 
 FRACTION DE PART NETTE TAXABLE
 
-TARIF applicable (%)
+TARIF
+
+applicable (%)
 
 N'excédant pas 8 072 €
 
@@ -50,7 +52,9 @@ civil de solidarité :
 
 FRACTION DE PART NETTE TAXABLE
 
-TARIF applicable (%)
+TARIF
+
+applicable (%)
 
 N'excédant pas 8 072 €
 
@@ -88,7 +92,9 @@ Tarif des droits applicables en ligne collatérale et entre non-parents :
 
 FRACTION DE PART NETTE TAXABLE
 
-TARIF applicable (%)
+TARIF
+
+applicable (%)
 
 Entre frères et sœurs vivants ou représentés :
 
@@ -112,8 +118,3 @@ Entre parents au-delà du 4e degré et entre personnes non-parentes
 Sous réserve des exceptions prévues au I de l'article 794 et à l'article 795,
 les dons et legs faits aux établissements publics ou d'utilité publique sont
 soumis aux tarifs fixés pour les successions entre frères et soeurs.
-
-Les limites des tranches des tarifs prévus aux tableaux ci-dessus sont
-actualisées au 1er janvier de chaque année dans la même proportion que la limite
-supérieure de la première tranche du barème de l'impôt sur le revenu et
-arrondies à l'euro le plus proche.
