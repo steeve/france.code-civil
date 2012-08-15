@@ -7,7 +7,7 @@ suivie au sein d'une nouvelle section qui retrace :
 
 I.-En recettes :
 
-1° Une part fixée au 2° de l'article L. 137-16 de la contribution mentionnée à
+1° Une part fixée à l'article L. 137-16 de la contribution mentionnée à
 l'article L. 137-15 ;
 
 2° Une part fixée à l'article L. 245-16 des prélèvements mentionnés aux articles

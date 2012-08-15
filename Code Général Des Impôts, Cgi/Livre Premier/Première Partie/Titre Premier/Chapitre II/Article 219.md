@@ -51,7 +51,11 @@ Pour les exercices ouverts à compter de la même date, le régime des plus ou
 moins-values à long terme cesse également de s'appliquer en ce qui concerne les
 titres de sociétés dont l'actif est constitué principalement par des titres
 exclus de ce régime ou dont l'activité consiste de manière prépondérante en la
-gestion des mêmes valeurs pour leur propre compte. Il ne s'applique pas non plus
+gestion des mêmes valeurs pour leur propre compte, à l'exception des
+moins-values afférentes aux titres de ces sociétés à hauteur du montant des
+produits de ces titres qui a ouvert droit à l'application du régime prévu aux
+articles 145 et 216 au cours de l'exercice au titre duquel ces moins-values ont
+été constatées et des cinq exercices précédents . Il ne s'applique pas non plus
 aux titres émis par les organismes de placement collectif immobilier ou par les
 organismes de droit étranger ayant un objet équivalent mentionnés au e du I de
 l'article L. 214-92 du code monétaire et financier.
@@ -61,7 +65,7 @@ participation les parts ou actions de sociétés revêtant ce caractère sur le 
 comptable. Il en va de même des actions acquises en exécution d'une offre
 publique d'achat ou d'échange par l'entreprise qui en est l'initiatrice ainsi
 que des titres ouvrant droit au régime des sociétés mères ou, lorsque leur prix
-de revient est au moins égal à 22 800 000 euros, qui remplissent les conditions
+de revient est au moins égal à 22 800 000 €, qui remplissent les conditions
 ouvrant droit à ce régime autres que la détention de 5 % au moins du capital de
 la société émettrice, si ces actions ou titres sont inscrits en comptabilité au
 compte de titres de participation ou à une subdivision spéciale d'un autre
@@ -69,7 +73,11 @@ compte du bilan correspondant à leur qualification comptable.
 
 Les provisions pour dépréciation afférentes aux titres exclus du régime des plus
 ou moins-values en application des premier et deuxième alinéas cessent d'être
-soumises à ce même régime.
+soumises à ce même régime, à l'exception des provisions pour dépréciation des
+titres de sociétés mentionnés à la première phrase du deuxième alinéa à hauteur
+du montant des produits de ces titres qui a ouvert droit à l'application du
+régime prévu aux articles 145 et 216 au cours de l'exercice au titre duquel les
+provisions ont été comptabilisées et des cinq exercices précédents.
 
 Lorsque l'entreprise transfère des titres du compte de titres de participation à
 un autre compte du bilan, la plus-value ou la moins-value, égale à la différence
@@ -197,8 +205,8 @@ partir des exercices ouverts à compter du 1er janvier 2007.
 a sexies-0) Pour les exercices clos à compter du 31 décembre 2006, le régime des
 plus et moins-values à long terme cesse de s'appliquer à la plus ou moins-value
 provenant de la cession des titres, autres que ceux mentionnés au troisième
-alinéa du a quinquies, dont le prix de revient est au moins égal à 22 800 000
-euros et qui satisfont aux conditions ouvrant droit au régime des sociétés mères
+alinéa du a quinquies, dont le prix de revient est au moins égal à 22 800 000 €
+et qui satisfont aux conditions ouvrant droit au régime des sociétés mères
 autres que la détention de 5 % au moins du capital de la société émettrice.
 
 Les provisions pour dépréciation afférentes aux titres exclus du régime des plus
@@ -315,12 +323,12 @@ apparaître les éléments nécessaires au calcul des moins-values et ceux relat
 de dépendance qui les unissent.
 
 b. Par exception au deuxième alinéa du présent I et au premier alinéa du a, pour
-les redevables ayant réalisé un chiffre d'affaires de moins de 7 630 000 euros
-au cours de l'exercice ou de la période d'imposition, ramené s'il y a lieu à
-douze mois, le taux de l'impôt applicable au bénéfice imposable est fixé, dans
-la limite de 38 120 euros de bénéfice imposable par période de douze mois, à 25
-% pour les exercices ouverts en 2001 et à 15 % pour les exercices ouverts à
-compter du 1er janvier 2002.
+les redevables ayant réalisé un chiffre d'affaires de moins de 7 630 000 € au
+cours de l'exercice ou de la période d'imposition, ramené s'il y a lieu à douze
+mois, le taux de l'impôt applicable au bénéfice imposable est fixé, dans la
+limite de 38 120 € de bénéfice imposable par période de douze mois, à 25 % pour
+les exercices ouverts en 2001 et à 15 % pour les exercices ouverts à compter du
+1er janvier 2002.
 
 Pour la société mère d'un groupe mentionné à l'article 223 A, le chiffre
 d'affaires est apprécié en faisant la somme des chiffres d'affaires de chacune
@@ -352,21 +360,20 @@ hauteur de la fraction de leurs résultats comptables qu'elles incorporent à le
 capital au cours de l'exercice suivant celui de leur réalisation. Cette fraction
 doit représenter, pour chacun des trois exercices et dans la limite du résultat
 fiscal, le quart au plus du résultat comptable sans excéder la somme de 30 000
-euros. L'option ne peut plus être exercée pour l'imposition des résultats des
+€. L'option ne peut plus être exercée pour l'imposition des résultats des
 exercices ouverts à compter du 1er janvier 2001. Lorsque, à cette date, la série
 de trois exercices bénéficiaires est en cours, le taux d'imposition prévu par le
 dispositif ne s'applique pas aux résultats des exercices restants, sauf, sur
 option de l'entreprise, pour les exercices ouverts en 2001. Dans ce dernier cas,
 le taux de 25 % prévu au b s'applique à la fraction des résultats imposables
 comprise entre la part des résultats imposables selon les modalités prévues au
-présent alinéa et 38 120 euros, lorsque les conditions prévues au b sont
-réunies.
+présent alinéa et 38 120 €, lorsque les conditions prévues au b sont réunies.
 
 Les dispositions du premier alinéa s'appliquent si les conditions suivantes sont
 remplies :
 
-1° La société a réalisé un chiffre d'affaires de moins de 7 630 000 euros et
-n'est pas mère d'un groupe mentionné à l'article 223 A, au cours du premier des
+1° La société a réalisé un chiffre d'affaires de moins de 7 630 000 € et n'est
+pas mère d'un groupe mentionné à l'article 223 A, au cours du premier des
 exercices pour lequel le bénéfice du taux réduit est demandé ;
 
 2° Le capital de la société, entièrement libéré, est détenu de manière continue,

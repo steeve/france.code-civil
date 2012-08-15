@@ -156,7 +156,7 @@ d'une provision pour perte.
 La dépréciation des oeuvres d'art inscrites à l'actif d'une entreprise peut
 donner lieu à la constitution d'une provision. Cette dépréciation doit être
 constatée par un expert agréé près les tribunaux lorsque le coût d'acquisition
-de l'oeuvre est supérieur à 7 600 euros.
+de l'oeuvre est supérieur à 7 600 €.
 
 Un décret fixe les règles d'après lesquelles des provisions pour fluctuation des
 cours peuvent être retranchées des bénéfices des entreprises dont l'activité
@@ -186,7 +186,7 @@ Toutefois, les dispositions de la dernière phrase de l'alinéa qui précède ne
 sont pas applicables au montant des provisions visées à la même phrase qui sont
 portées, à la clôture du premier exercice clos à compter du 31 décembre 1997, à
 un compte de réserve spéciale. Les sommes inscrites à cette réserve ne peuvent
-excéder 9 146 941 euros.
+excéder 9 146 941 €.
 
 Les sommes prélevées sur la réserve mentionnée à l'alinéa précédent sont
 rapportées aux résultats de l'exercice en cours lors de ce prélèvement. Cette
@@ -456,9 +456,9 @@ amortissements.
 Sauf justifications, les dispositions du premier alinéa sont applicables :
 
 a) A l'amortissement des véhicules de tourisme au sens de l'article 1010 pour la
-fraction de leur prix d'acquisition qui dépasse 18 300 euros. Lorsque ces
-véhicules ont un taux d'émission de dioxyde de carbone supérieur à 200 grammes
-par kilomètre, cette somme est ramenée à 9 900 Euros ;
+fraction de leur prix d'acquisition qui dépasse 18 300 €. Lorsque ces véhicules
+ont un taux d'émission de dioxyde de carbone supérieur à 200 grammes par
+kilomètre, cette somme est ramenée à 9 900 € ;
 
 b) En cas d'opérations de crédit bail ou de location, à l'exception des
 locations de courte durée n'excédant pas trois mois non renouvelables, portant
@@ -660,3 +660,19 @@ redevances ont été déduites au taux normal. Le présent alinéa est applicabl
 montant des redevances déduites au cours des exercices couvrant l'une des trois
 années précédant la date à laquelle l'entreprise concessionnaire concède les
 licences ou procédés.
+
+13. Sont exclues des charges déductibles pour l'établissement de l'impôt les
+aides de toute nature consenties à une autre entreprise, à l'exception des aides
+à caractère commercial.
+
+Le premier alinéa du présent 13 ne s'applique pas aux aides consenties en
+application d'un accord homologué dans les conditions prévues au II de l'article
+L. 611-8 du code de commerce ni aux aides consenties aux entreprises pour
+lesquelles une procédure de sauvegarde, de redressement judiciaire ou de
+liquidation judiciaire est ouverte.
+
+Les aides mentionnées au deuxième alinéa du présent 13 qui ne revêtent pas un
+caractère commercial sont déductibles à hauteur de la situation nette négative
+de l'entreprise qui en bénéficie et, pour le montant excédant cette situation
+nette négative, à proportion des participations détenues par d'autres personnes
+que l'entreprise qui consent les aides.

@@ -20,8 +20,8 @@ III.-La taxe est acquittée par le propriétaire, l'usufruitier, le preneur à b
 depuis le début de la période de vacance mentionnée au II.
 
 IV.-L'assiette de la taxe est constituée par la valeur locative du logement
-mentionnée à l'article 1409. Son taux est fixé à 10 % la première année
-d'imposition, 12,5 % la deuxième année et 15 % à compter de la troisième année.
+mentionnée à l'article 1409. Son taux est fixé à 12,5 % la première année
+d'imposition, 15 % la deuxième année et 20 % à compter de la troisième année.
 
 V.-Pour l'application de la taxe, n'est pas considéré comme vacant un logement
 dont la durée d'occupation est supérieure à trente jours consécutifs au cours de

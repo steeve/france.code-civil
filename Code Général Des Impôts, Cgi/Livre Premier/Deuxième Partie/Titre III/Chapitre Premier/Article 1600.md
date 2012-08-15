@@ -12,8 +12,10 @@ règles de concurrence nationales et communautaires, pour remplir les missions
 prévues à l'article L. 710-1 du code de commerce, à l'exclusion des activités
 marchandes.
 
-Sont exonérés de cette taxe : 1° Les redevables qui exercent exclusivement une
-activité non commerciale au sens du 1 de l'article 92 ;
+Sont exonérés de cette taxe :
+
+1° Les redevables qui exercent exclusivement une activité non commerciale au
+sens du 1 de l'article 92 ;
 
 2° Les loueurs de chambres ou appartements meublés ;
 
@@ -58,14 +60,15 @@ Pour les impositions établies au titre de 2011 et 2012, sont calculés deux tau
 
 1° Un taux régional de taxe additionnelle à la cotisation foncière des
 entreprises applicable dans la circonscription de chaque chambre de commerce et
-d'industrie de région égal au quotient, exprimé en pourcentage : - d'une
-fraction égale à 40 % de la somme des produits de la taxe additionnelle à la
-taxe professionnelle mentionnée au présent article, dans sa rédaction en vigueur
-au 1er janvier 2009, perçus en 2009 par les chambres de commerce et d'industrie
-rattachées à la chambre de commerce et d'industrie de région multipliés par le
-pourcentage mentionné aux troisième à sixième alinéas du III de l'article 3 de
-la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 applicable à
-chacune des chambres de commerce et d'industrie ;
+d'industrie de région égal au quotient, exprimé en pourcentage :
+
+-d'une fraction égale à 40 % de la somme des produits de la taxe additionnelle à
+la taxe professionnelle mentionnée au présent article, dans sa rédaction en
+vigueur au 1er janvier 2009, perçus en 2009 par les chambres de commerce et
+d'industrie rattachées à la chambre de commerce et d'industrie de région
+multipliés par le pourcentage mentionné aux troisième à sixième alinéas du III
+de l'article 3 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010
+applicable à chacune des chambres de commerce et d'industrie ;
 
 -par le montant total des bases de cotisation foncière des entreprises imposées
 en 2010 des établissements des entreprises redevables de la taxe additionnelle à
@@ -76,7 +79,7 @@ chambre de commerce et d'industrie de région ;
 applicable dans la circonscription de chaque chambre de commerce et d'industrie
 territoriale égal au quotient, exprimé en pourcentage :
 
-- d'une fraction égale à 40 % du produit de la taxe additionnelle à la taxe
+-d'une fraction égale à 40 % du produit de la taxe additionnelle à la taxe
 professionnelle mentionnée au présent article, dans sa rédaction en vigueur au
 1er janvier 2009, perçu en 2009 par chaque chambre de commerce et d'industrie
 multiplié par le pourcentage mentionné aux troisième à sixième alinéas du III de
@@ -103,7 +106,7 @@ A compter des impositions établies au titre de 2013, le taux applicable à chaq
 établissement est le taux régional de la chambre de commerce et d'industrie de
 région dans le ressort de laquelle il se trouve. Les chambres de commerce et
 d'industrie de région votent chaque année ce taux qui ne peut excéder celui de
-l'année précédente.A compter de 2013, une convention d'objectifs et de moyens
+l'année précédente. A compter de 2013, une convention d'objectifs et de moyens
 est conclue, dans des conditions fixées par décret en Conseil d'Etat, entre
 chaque chambre de commerce et d'industrie de région et l'Etat.
 
@@ -118,8 +121,8 @@ l'article 1586 quater.
 
 Le taux national de cette taxe est égal au quotient, exprimé en pourcentage :
 
-- d'une fraction égale à 60 % de la somme des produits de la taxe additionnelle
-à la taxe professionnelle mentionnée au présent article, dans sa rédaction en
+-d'une fraction égale à 60 % de la somme des produits de la taxe additionnelle à
+la taxe professionnelle mentionnée au présent article, dans sa rédaction en
 vigueur au 1er janvier 2009, perçus en 2009 par les chambres de commerce et
 d'industrie multiplié par le pourcentage mentionné aux troisième à sixième
 alinéas du III de l'article 3 de la loi n° 2009-1673 du 30 décembre 2009
@@ -128,9 +131,19 @@ précitée applicable à chacune des chambres de commerce et d'industrie ;
 -par le produit de la cotisation sur la valeur ajoutée des entreprises perçu,
 après application de l'article 1586 quater, en 2010.
 
-Ce taux est réduit : -de 4 % pour les impositions établies au titre de 2011 ;
--de 8 % pour les impositions établies au titre de 2012 ; -de 15 % pour les
-impositions établies à compter de 2013.
+Ce taux est réduit :
+
+-de 4 % pour les impositions établies au titre de 2011 ;
+
+-de 8 % pour les impositions établies au titre de 2012 ;
+
+-de 15 % pour les impositions établies à compter de 2013.
+
+1 bis.-La taxe additionnelle à la cotisation sur la valeur ajoutée des
+entreprises est recouvrée et contrôlée selon les mêmes procédures et sous les
+mêmes sanctions, garanties, sûretés et privilèges que la cotisation sur la
+valeur ajoutée des entreprises. Les réclamations sont présentées, instruites et
+jugées selon les règles applicables à cette dernière (1).
 
 2.-Le produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des
 entreprises est affecté au fonds de financement des chambres de commerce et
@@ -148,7 +161,7 @@ opérés en 2011, de 8 % pour le calcul de cette différence applicable aux
 versements opérés en 2012 et de 15 % pour le calcul de cette différence
 applicable aux versements opérés à compter de 2013 ;
 
-- une fraction égale à 40 % de la somme des produits de la taxe additionnelle à
+-une fraction égale à 40 % de la somme des produits de la taxe additionnelle à
 la cotisation foncière des entreprises mentionnée au présent article, dans sa
 rédaction en vigueur au 1er janvier 2010, perçus en 2010 par les chambres de
 commerce et d'industrie territoriales rattachées à la chambre de commerce et

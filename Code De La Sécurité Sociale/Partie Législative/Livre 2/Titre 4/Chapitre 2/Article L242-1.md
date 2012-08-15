@@ -97,7 +97,7 @@ l'article L. 241-3, la part des indemnités versées à l'occasion de la rupture
 contrat de travail ou de la cessation forcée des fonctions de mandataires
 sociaux, dirigeants et personnes visées à l'article 80 ter du code général des
 impôts qui n'est pas imposable en application de l'article 80 duodecies du même
-code. Toutefois, les indemnités d'un montant supérieur à trente fois le plafond
+code. Toutefois, les indemnités d'un montant supérieur à dix fois le plafond
 annuel défini par l'article L. 241-3 du présent code sont intégralement
 assimilées à des rémunérations pour le calcul des cotisations visées au premier
 alinéa du présent article. Pour l'application du présent alinéa, il est fait
@@ -112,7 +112,7 @@ code général des impôts et si l'employeur notifie à son organisme de
 recouvrement l'identité de ses salariés ou mandataires sociaux auxquels des
 actions gratuites ont été attribuées définitivement au cours de l'année civile
 précédente, ainsi que le nombre et la valeur des actions attribuées à chacun
-d'entre eux.A défaut, l'employeur est tenu au paiement de la totalité des
+d'entre eux. A défaut, l'employeur est tenu au paiement de la totalité des
 cotisations sociales, y compris pour leur part salariale.
 
 Les dispositions de l'avant-dernier alinéa sont également applicables lorsque

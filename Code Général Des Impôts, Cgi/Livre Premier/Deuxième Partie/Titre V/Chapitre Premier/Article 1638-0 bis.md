@@ -224,3 +224,9 @@ l'article 1609 nonies C est réduit l'année suivant celle de la fusion de la
 différence entre, d'une part, le taux de référence de taxe d'habitation calculé
 pour la commune conformément à l'article 1640 C et, d'autre part, le taux
 communal de taxe d'habitation applicable en 2010 dans la commune.
+
+La réduction du taux de taxe d'habitation prévue au premier alinéa du présent IV
+s'applique également aux communes membres d'un établissement public de
+coopération intercommunale soumis au 1er janvier 2011 à la fiscalité propre
+additionnelle et qui applique, l'année précédant la fusion, l'article 1609
+nonies C.

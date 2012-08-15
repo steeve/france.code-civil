@@ -4,9 +4,9 @@ I.-La contribution est assise sur le montant brut des traitements, indemnités,
 émoluments, salaires, allocations, pensions y compris les majorations et
 bonifications pour enfants, des rentes viagères autres que celles visées au 6 de
 l'article 158 du code général des impôts et des revenus tirés des activités
-exercées par les personnes mentionnées aux articles L. 311-2 et L.
-311-3.L'assiette de la contribution due par les artistes-auteurs est celle
-prévue au troisième alinéa de l'article L. 382-3.
+exercées par les personnes mentionnées aux articles L. 311-2 et L. 311-3.
+L'assiette de la contribution due par les artistes-auteurs est celle prévue au
+troisième alinéa de l'article L. 382-3.
 
 Sur le montant brut inférieur à quatre fois la valeur du plafond mentionné à
 l'article L. 241-3 des traitements, indemnités, émoluments, salaires, des
@@ -87,7 +87,7 @@ montant légal ou conventionnel pour ce motif, pour la fraction qui excède
 l'indemnité légale ou conventionnelle de licenciement. En tout état de cause,
 cette fraction ne peut être inférieure au montant assujetti aux cotisations de
 sécurité sociale en application du douzième alinéa de l'article L. 242-1.
-Toutefois, les indemnités d'un montant supérieur à trente fois le plafond annuel
+Toutefois, les indemnités d'un montant supérieur à dix fois le plafond annuel
 défini par l'article L. 241-3 du présent code sont assujetties dès le premier
 euro ; pour l'application des présentes dispositions, il est fait masse des
 indemnités liées à la rupture du contrat de travail et de celles versées en cas
@@ -101,7 +101,7 @@ code général des impôts, ou, en cas de cessation forcée de ces fonctions, la
 fraction de ces indemnités qui excède la part des indemnités exclue de
 l'assiette des cotisations de sécurité sociale en application du douzième alinéa
 de l'article L. 242-1 du présent code ; Toutefois, en cas de cessation forcée
-des fonctions, les indemnités d'un montant supérieur à trente fois le plafond
+des fonctions, les indemnités d'un montant supérieur à dix fois le plafond
 annuel défini par l'article L. 241-3 du présent code sont assujetties dès le
 premier euro ; pour l'application des présentes dispositions, il est fait masse
 des indemnités liées à la cessation forcée des fonctions et de celles visées à
@@ -149,7 +149,7 @@ séparation de corps ou de divorce, ou en cas d'instance en séparation de corps
 ou en divorce ;
 
 5° Les salaires versés au titre des contrats conclus en application de l'article
-6221-1 du code du travail ;
+L. 6221-1 du code du travail ;
 
 6° L'allocation de veuvage visée à l'article L. 356-1 du présent code et à
 l'article L. 722-16 du code rural et de la pêche maritime ;

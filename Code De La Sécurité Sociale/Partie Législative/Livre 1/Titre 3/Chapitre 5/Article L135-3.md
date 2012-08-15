@@ -15,7 +15,7 @@ des frais d'assiette et de recouvrement déterminés dans les conditions prévue
 au III de l'article 1647 du même code ;
 
 3° La part du produit de la contribution mentionnée à l'article L. 137-15 fixée
-au 2° de l'article L. 137-16 ;
+à l'article L. 137-16 ;
 
 4° Une fraction, fixée par arrêté des ministres chargés de la sécurité sociale
 et du budget, du solde du produit de la contribution sociale de solidarité à la

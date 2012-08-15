@@ -30,9 +30,10 @@ prévu par l'article 210 A, le délai de conservation est décompté à partir d
 date de souscription ou d'acquisition par la société apporteuse jusqu'à la date
 de cession par la société bénéficiaire de l'apport.
 
-Les titres échangés dans le cadre de l'une des opérations visées aux 7 et 7 bis
-de l'article 38 et 2 de l'article 115 sont réputés détenus jusqu'à la cession
-des titres reçus en échange.
+Les titres échangés dans le cadre d'opérations dont le profit ou la perte ne
+sont pas compris dans le résultat de l'exercice de leur réalisation en
+application des 7 et 7 bis de l'article 38 et 2 de l'article 115 sont réputés
+détenus jusqu'à la cession des titres reçus en échange.
 
 Le délai mentionné au premier alinéa du présent c n'est pas interrompu en cas de
 fusion entre la personne morale participante et la société émettrice si
@@ -96,7 +97,11 @@ l'article 208 et à ceux de leurs filiales ayant opté pour le régime prévu au
 de l'article 208 C ;
 
 j) Aux produits des titres d'une société établie dans un Etat ou territoire non
-coopératif au sens de l'article 238-0 A. (1)
+coopératif au sens de l'article 238-0 A ; (1)
+
+k) Aux produits des parts de sociétés immobilières inscrites en stock à l'actif
+de sociétés qui exercent une activité de marchand de biens au sens du 1° du I de
+l'article 35.
 
 7. Le régime fiscal des sociétés mères ne peut s'appliquer aux produits des
 actions des sociétés immobilières d'investissement régies par le I de l'article
@@ -130,4 +135,4 @@ l'accession à la propriété qui remplit les conditions ouvrant droit au régim
 fiscal des sociétés mères autres que celle relative au taux de participation au
 capital de la société émettrice peut ouvrir droit à ce régime lorsque son prix
 de revient, apprécié collectivement ou individuellement pour les entités visées
-ci-dessus, est au moins égal à 22 800 000 euros.
+ci-dessus, est au moins égal à 22 800 000 €.

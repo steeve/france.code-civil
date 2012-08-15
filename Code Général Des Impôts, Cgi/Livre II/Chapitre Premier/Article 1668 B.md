@@ -1,30 +1,32 @@
 Article 1668 B
 ----
-I. La contribution mentionnée à l'article 235 ter ZA est recouvrée comme l'impôt
-sur les sociétés et sous les mêmes garanties et sanctions.
+La contribution mentionnée à l'article 235 ter ZAA est payée spontanément au
+comptable public compétent, au plus tard à la date prévue au 2 de l'article 1668
+pour le versement du solde de liquidation de l'impôt sur les sociétés.
 
-II. Elle est payée spontanément au comptable de la direction générale des
-impôts, au plus tard à la date prévue au 2 de l'article 1668 pour le versement
-du solde de liquidation de l'impôt sur les sociétés (1).
+Elle donne lieu à un versement anticipé à la date prévue pour le paiement du
+dernier acompte d'impôt sur les sociétés de l'exercice ou de la période
+d'imposition.
 
-III. Pour les exercices arrêtés au cours des mois de mars à décembre ou pour la
-période d'imposition mentionnée au I de l'article 235 ter ZA, la contribution
-donne lieu, au préalable, à un versement anticipé à la date prévue pour le
-paiement du dernier acompte d'impôt sur les sociétés, avant la clôture dudit
-exercice ou la fin de ladite période ; la somme due est alors égale à 10 p. 100
-du montant de l'impôt sur les sociétés calculé sur les résultats de l'exercice
-ou de la période qui précède, imposables aux taux mentionnés au I de l'article
-219. Elle est ramenée à 6 % de ce montant pour les exercices clos ou la période
-d'imposition arrêtée en 2001 et à 3 % pour les exercices clos ou la période
-d'imposition arrêtée à compter du 1er janvier 2002.
+Le montant du versement anticipé est fixé :
 
-Le versement anticipé mentionné au premier alinéa est arrondi à l'euro le plus
-proche. La fraction d'euro égale à 0,50 est comptée pour 1.
+a) Pour les entreprises ayant réalisé un chiffre d'affaires compris entre 250
+millions d'euros et 1 milliard d'euros au cours du dernier exercice clos ou de
+la période d'imposition, ramené s'il y a lieu à douze mois, aux trois quarts du
+montant de la contribution exceptionnelle estimée au titre de l'exercice ou de
+la période d'imposition en cours et déterminée selon les modalités prévues au I
+de l'article 235 ter ZAA ;
 
-Lorsque la somme due au titre d'un exercice ou d'une période d'imposition en
-application du premier alinéa est supérieure à la contribution dont l'entreprise
-prévoit qu'elle sera finalement redevable au titre de ce même exercice ou de
-cette même période, l'entreprise peut réduire ce versement à concurrence de
-l'excédent estimé.
+b) Pour les entreprises ayant réalisé un chiffre d'affaires supérieur à 1
+milliard d'euros au cours du dernier exercice clos ou de la période
+d'imposition, ramené s'il y a lieu à douze mois, à 95 % du montant de la
+contribution exceptionnelle estimée au titre de l'exercice ou de la période
+d'imposition en cours et déterminée selon les modalités prévues au même I.
 
-IV. Les modalités d'application du présent article sont fixées par décret.
+Pour l'application des a et b, le chiffre d'affaires est apprécié, pour la
+société mère d'un groupe mentionné à l'article 223 A, en faisant la somme des
+chiffres d'affaires de chacune des sociétés membres de ce groupe.
+
+Si le montant du versement anticipé est supérieur à la contribution due,
+l'excédent est restitué dans les trente jours à compter de la date de dépôt du
+relevé de solde de l'impôt sur les sociétés mentionné au 2 de l'article 1668.

@@ -45,28 +45,13 @@ d'assainissement ;
 
 b bis. Les spectacles suivants :
 
-théâtres ;
-
-théâtres de chansonniers ;
-
-cirques ;
-
-concerts ;
-
-spectacles de variétés, à l'exception de ceux qui sont donnés dans les
-établissements où il est d'usage de consommer pendant les séances ;
-
 foires, salons, expositions autorisés ;
 
 jeux et manèges forains à l'exception des appareils automatiques autres que ceux
 qui sont assimilés à des loteries foraines en application de l'article 7 de la
 loi du 21 mai 1836 portant prohibition des loteries ;
 
-b bis a. Le prix du billet d'entrée donnant exclusivement accès à des concerts
-donnés dans des établissements où il est servi facultativement des consommations
-pendant le spectacle et dont l'exploitant est titulaire de la licence de la
-catégorie mentionnée au 1° de l'article D. 7122-1 du code du travail. Un décret
-fixe les modalités d'application de ces dispositions ;
+b bis a. (Abrogé).
 
 b ter. les droits d'entrée pour la visite des parcs zoologiques et botaniques,
 des musées, monuments, grottes et sites ainsi que des expositions culturelles ;

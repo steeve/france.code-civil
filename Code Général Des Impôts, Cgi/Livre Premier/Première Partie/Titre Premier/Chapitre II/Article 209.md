@@ -42,9 +42,23 @@ L'agrément est délivré lorsque :
 a. L'opération est justifiée du point de vue économique et obéit à des
 motivations principales autres que fiscales ;
 
-b. L'activité à l'origine des déficits ou des intérêts dont le transfert est
-demandé est poursuivie par la ou les sociétés bénéficiaires des apports pendant
-un délai minimum de trois ans.
+b) L'activité à l'origine des déficits ou des intérêts dont le transfert est
+demandé n'a pas fait l'objet par la société absorbée ou apporteuse, pendant la
+période au titre de laquelle ces déficits et ces intérêts ont été constatés, de
+changement significatif, notamment en termes de clientèle, d'emploi, de moyens
+d'exploitation effectivement mis en œuvre, de nature et de volume d'activité ;
+
+c) L'activité à l'origine des déficits ou des intérêts dont le transfert est
+demandé est poursuivie par la ou les sociétés absorbantes ou bénéficiaires des
+apports pendant un délai minimal de trois ans, sans faire l'objet, pendant cette
+période, de changement significatif, notamment en termes de clientèle, d'emploi,
+de moyens d'exploitation effectivement mis en œuvre, de nature et de volume
+d'activité ;
+
+d) Les déficits et intérêts susceptibles d'être transférés ne proviennent ni de
+la gestion d'un patrimoine mobilier par des sociétés dont l'actif est
+principalement composé de participations financières dans d'autres sociétés ou
+groupements assimilés ni de la gestion d'un patrimoine immobilier.
 
 II bis.-En cas de reprise d'un passif excédant la valeur réelle de l'actif qui
 est transféré à l'occasion d'une opération mentionnée au 3° du I de l'article

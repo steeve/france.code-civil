@@ -50,6 +50,9 @@ f) Les ascenseurs et matériels assimilés, spécialement conçus pour les perso
 handicapées et dont les caractéristiques sont fixées par arrêté du ministre
 chargé de l'économie et des finances ;
 
+3° Les livres, y compris leur location. Le présent 3° s'applique aux livres sur
+tout type de support physique, y compris ceux fournis par téléchargement.
+
 B. ― Les abonnements relatifs aux livraisons d'électricité d'une puissance
 maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de
 gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de
@@ -75,4 +78,13 @@ titre non exclusif pour celles qui bénéficient d'une dérogation à la conditi
 d'activité exclusive selon l'article L. 7232-1-2 du même code ;
 
 E. ― La fourniture de repas par des prestataires dans les établissements publics
-ou privés d'enseignement du premier et du second degré.
+ou privés d'enseignement du premier et du second degré ;
+
+F. - 1° Les spectacles suivants : théâtres, théâtres de chansonniers, cirques,
+concerts ; spectacles de variétés à l'exception de ceux qui sont donnés dans les
+établissements où il est d'usage de consommer pendant les séances ;
+
+2° Le prix du billet d'entrée donnant exclusivement accès à des concerts donnés
+dans des établissements où il est servi facultativement des consommations
+pendant le spectacle et dont l'exploitant est titulaire de la licence de la
+catégorie mentionnée au 1° de l'article D. 7122-1 du code du travail.

@@ -12,6 +12,12 @@ L'inscription à l'actif de la société absorbante du mali technique de fusion
 consécutif à l'annulation des titres de la société absorbée ne peut donner lieu
 à aucune déduction ultérieure.
 
+Lorsque la société absorbante a acquis les titres de la société absorbée moins
+de deux ans avant la fusion, l'éventuelle moins-value à court terme réalisée à
+l'occasion de l'annulation de ces titres de participation n'est pas déductible à
+hauteur du montant des produits de ces titres qui a ouvert droit à l'application
+du régime prévu aux articles 145 et 216 depuis leur acquisition.
+
 2. L'impôt sur les sociétés n'est applicable aux provisions figurant au bilan de
 la société absorbée que si elles deviennent sans objet.
 

@@ -40,10 +40,47 @@ conditions prévues à l'article L. 225-97 du code de commerce.
 
 4 (Disposition périmée).
 
-5 Le changement de l'objet social ou de l'activité réelle d'une société emporte
-cessation d'entreprise. Toutefois, dans cette situation, les dispositions de
-l'article 221 bis sont applicables, sauf en ce qui concerne les provisions dont
-la déduction est prévue par des dispositions légales particulières.
+5. a) Le changement de l'objet social ou de l'activité réelle d'une société
+emporte cessation d'entreprise. Il en est de même en cas de disparition des
+moyens de production nécessaires à la poursuite de l'exploitation pendant une
+durée de plus de douze mois, sauf en cas de force majeure, ou lorsque cette
+disparition est suivie d'une cession de la majorité des droits sociaux.
+
+Toutefois, dans les situations mentionnées au premier alinéa du présent a,
+l'article 221 bis est applicable, sauf en ce qui concerne les provisions dont la
+déduction est prévue par des dispositions légales particulières.
+
+b) Le changement d'activité réelle d'une société s'entend notamment :
+
+i) De l'adjonction d'une activité entraînant, au titre de l'exercice de sa
+survenance ou de l'exercice suivant, une augmentation de plus de 50 % par
+rapport à l'exercice précédant celui de l'adjonction :
+
+- soit du chiffre d'affaires de la société ;
+
+- soit de l'effectif moyen du personnel et du montant brut des éléments de
+l'actif immobilisé de la société ;
+
+ii) De l'abandon ou du transfert, même partiel, d'une ou de plusieurs activités
+entraînant, au titre de l'exercice de sa survenance ou de l'exercice suivant,
+une diminution de plus de 50 % par rapport à l'exercice précédant celui de
+l'abandon ou du transfert :
+
+- soit du chiffre d'affaires de la société ;
+
+- soit de l'effectif moyen du personnel et du montant brut des éléments de
+l'actif immobilisé de la société.
+
+c) Sur agrément délivré par le ministre chargé du budget selon les modalités
+prévues à l'article 1649 nonies, ne sont pas considérées comme emportant
+cessation d'entreprise :
+
+i) La disparition temporaire des moyens de production pendant une durée de plus
+de douze mois mentionnée au a lorsque l'interruption et la reprise sont
+justifiées par des motivations principales autres que fiscales ;
+
+ii) Les opérations mentionnées au b lorsqu'elles sont indispensables à la
+poursuite de l'activité à l'origine des déficits et à la pérennité des emplois.
 
 6 Lorsqu'une société d'intérêt collectif agricole renonce au statut défini aux
 articles L. 531-1 à L. 535-4 du code rural et de la pêche maritime, les

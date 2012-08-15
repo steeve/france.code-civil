@@ -58,6 +58,12 @@ septies A du même code ;
 4° Les revenus, produits et gains exonérés en application du II de l'article 155
 B du même code.
 
+I bis. - Sont également assujetties à la contribution les personnes physiques
+qui ne sont pas fiscalement domiciliées en France au sens de l'article 4 B du
+code général des impôts à raison du montant net des revenus, visés au a du I de
+l'article 164 B du même code, retenu pour l'établissement de l'impôt sur le
+revenu.
+
 II.-Sont également assujettis à la contribution, dans les conditions et selon
 les modalités prévues au I ci-dessus :
 
@@ -76,11 +82,11 @@ supporté la contribution prévue à l'article L. 136-1.
 
 II. bis. (Abrogé)
 
-III.-La contribution portant sur les revenus mentionnés aux I et II ci-dessus
-est assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes
-sûretés, privilèges et sanctions que l'impôt sur le revenu. Le produit annuel de
-cette contribution résultant de la mise en recouvrement du rôle primitif est
-versé le 25 novembre au plus tard aux organismes affectataires.
+III.-La contribution portant sur les revenus mentionnés aux I à II ci-dessus est
+assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes sûretés,
+privilèges et sanctions que l'impôt sur le revenu. Le produit annuel de cette
+contribution résultant de la mise en recouvrement du rôle primitif est versé le
+25 novembre au plus tard aux organismes affectataires.
 
 Les dispositions de l'article L. 80 du livre des procédures fiscales sont
 applicables.

@@ -1,8 +1,9 @@
 Article L241-13
 ----
 I.-Les cotisations à la charge de l'employeur au titre des assurances sociales
-qui sont assises sur les gains et rémunérations inférieurs au salaire minimum de
-croissance majoré de 60 %, font l'objet d'une réduction dégressive.
+et des allocations familiales qui sont assises sur les gains et rémunérations
+inférieurs au salaire minimum de croissance majoré de 60 %, font l'objet d'une
+réduction dégressive.
 
 II.-Cette réduction est appliquée aux gains et rémunérations versés aux salariés
 au titre desquels l'employeur est soumis à l'obligation édictée par l'article L.
@@ -39,8 +40,7 @@ réduction dans le cas des salariés dont le contrat de travail est suspendu ave
 maintien de tout ou partie de la rémunération. La valeur du coefficient décroît
 en fonction du rapport mentionné au premier alinéa du présent III et devient
 nulle lorsque ce rapport est égal à 1,6. La valeur maximale du coefficient est
-égale à la somme des taux des cotisations patronales dues au titre des
-assurances sociales dans les cas suivants :
+égale à 0,281 dans les cas suivants :
 
 1° Pour les gains et rémunérations versés par les employeurs de moins de vingt
 salariés ;
@@ -50,8 +50,7 @@ aux articles L. 1253-1 et L. 1253-2 du code du travail pour les salariés mis à
 la disposition, pour plus de la moitié du temps de travail effectué sur l'année,
 des membres de ces groupements qui ont un effectif de moins de vingt salariés.
 
-Elle est fixée par décret dans la limite de la valeur maximale définie ci-dessus
-pour les autres employeurs.
+Elle est fixée à 0,26 pour les autres employeurs.
 
 IV.-Pour les salariés pour lesquels l'employeur est tenu à l'obligation
 d'indemnisation compensatrice de congé payé prévue à l'article L. 1251-19 du

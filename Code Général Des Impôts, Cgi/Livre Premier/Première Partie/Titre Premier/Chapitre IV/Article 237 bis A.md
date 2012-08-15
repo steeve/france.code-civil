@@ -71,11 +71,11 @@ réserve provenant de cette affectation ne peut être répartie qu'entre les seu
 détenteurs d'actions de travail.
 
 3. Le montant de la provision pour investissement que les sociétés coopératives
-ouvrières de production peuvent constituer à la clôture d'un exercice est au
-plus égal à celui des sommes portées à la réserve spéciale de participation au
-titre du même exercice. Les dotations à la réserve légale et au fonds de
-développement de ces sociétés peuvent tenir lieu, à due concurrence, de
-provision pour investissement.
+ouvrières de production peuvent constituer en franchise d'impôt à la clôture
+d'un exercice est au plus égal à celui des sommes portées à la réserve spéciale
+de participation au titre du même exercice. Les dotations à la réserve légale et
+au fonds de développement de ces sociétés peuvent tenir lieu, à due concurrence,
+de provision pour investissement.
 
 Cette disposition n'est pas applicable aux sociétés coopératives ouvrières de
 production dont le capital est détenu pour plus de 50 p. 100 par des personnes
@@ -116,3 +116,15 @@ d'entre elles.
 
 III. Les dispositions du présent article s'appliquent pour chaque entreprise au
 premier jour du premier exercice ouvert après le 23 octobre 1986.
+
+IV. - Les provisions prévues aux 1 et 2 du II cessent d'être admises en
+déduction des résultats imposables constatés au titre des exercices clos à
+compter de la date de publication de la loi n° 2012-958 du 16 août 2012 de
+finances rectificative pour 2012. A compter de ces mêmes exercices, les 5 et 6
+du même II s'appliquent aux seules provisions constituées en application du 3
+dudit II.
+
+Les provisions mentionnées au premier alinéa du présent IV figurant à
+l'ouverture du premier exercice clos à compter de la date de publication de la
+même loi sont rapportées aux résultats imposables dans les conditions prévues au
+4 du II.

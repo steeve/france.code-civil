@@ -118,5 +118,12 @@ la société bénéficiaire de l'apport prend l'engagement dans l'acte d'apport 
 réintégrer à ses résultats les plus-values à court terme comme aurait dû le
 faire l'entreprise apporteuse.
 
+2 bis. La moins-value résultant de la cession, moins de deux ans après leur
+émission, de titres de participation acquis en contrepartie d'un apport réalisé
+et dont la valeur réelle à la date de leur émission est inférieure à leur valeur
+d'inscription en comptabilité n'est pas déductible, dans la limite du montant
+résultant de la différence entre la valeur d'inscription en comptabilité desdits
+titres et leur valeur réelle à la date de leur émission.
+
 3 Le cas échéant, l'excédent des moins-values à court terme constaté au cours
 d'un exercice est déduit des bénéfices de cet exercice.

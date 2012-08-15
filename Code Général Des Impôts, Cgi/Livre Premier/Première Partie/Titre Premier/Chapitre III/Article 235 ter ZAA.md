@@ -28,7 +28,3 @@ septies ne sont pas imputables sur la contribution.
 
 III.-La contribution est établie, contrôlée et recouvrée comme l'impôt sur les
 sociétés et sous les mêmes garanties et sanctions.
-
-Elle est payée spontanément au comptable public compétent, au plus tard à la
-date prévue au 2 de l'article 1668 pour le versement du solde de liquidation de
-l'impôt sur les sociétés.

@@ -17,5 +17,5 @@ a. Des représentations théâtrales à caractère pornographique ;
 
 b. (Disposition devenue sans objet).
 
-c. De la vente de billets imposée au taux réduit de 7 % dans les conditions
-prévues au b bis a de l'article 279.
+c. De la vente de billets imposée au taux réduit de 5,5 % dans les conditions
+prévues au 2° du F de l'article 278-0 bis.

@@ -73,14 +73,11 @@ a. L'opération est placée sous le régime prévu à l'article 210 A ;
 b. Elle est justifiée du point de vue économique et obéit à des motivations
 principales autres que fiscales ;
 
-c. Les déficits et les intérêts mentionnés au premier alinéa proviennent :
-
--de la société absorbée ou scindée sous réserve du respect de la condition
-mentionnée au b du II de l'article 209 ;
-
--ou des sociétés membres du groupe auquel il a été mis fin qui font partie du
-nouveau groupe et pour lesquelles le bénéfice des dispositions prévues au 5 est
-demandé.
+c) Les déficits et les intérêts mentionnés au premier alinéa proviennent de la
+société absorbée ou scindée ou des sociétés membres du groupe auquel il a été
+mis fin qui font partie du nouveau groupe et pour lesquelles le bénéfice des
+dispositions prévues au 5 est demandé, sous réserve du respect, par ces
+sociétés, des conditions mentionnées aux b, c et d du II de l'article 209.
 
 Les déficits et les intérêts transférés sont imputables sur les bénéfices
 ultérieurs dans les conditions prévues respectivement au troisième alinéa du I
@@ -102,7 +99,8 @@ motivations principales autres que fiscales ;
 c) La fraction du déficit d'ensemble mentionnée au premier alinéa provient des
 sociétés apportées qui sont membres du groupe formé par la personne morale
 précitée et pour lesquelles le bénéfice des dispositions prévues au deuxième
-alinéa du 5 est demandé.
+alinéa du 5 est demandé, sous réserve du respect, par ces sociétés, des
+conditions mentionnées aux b, c et d du II de l'article 209.
 
 Les déficits transférés sont imputables sur les bénéfices ultérieurs dans les
 conditions prévues au troisième alinéa du I de l'article 209.
