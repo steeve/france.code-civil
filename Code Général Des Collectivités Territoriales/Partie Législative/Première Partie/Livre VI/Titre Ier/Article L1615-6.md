@@ -109,6 +109,14 @@ pénultième année s'ajoutent à celles afférentes à l'exercice précédent p
 calcul des attributions du Fonds de compensation pour la taxe sur la valeur
 ajoutée.
 
+Pour les collectivités territoriales de Guyane et de Martinique mentionnées
+respectivement aux articles L. 7111-1 et L. 7211-1, les dépenses réelles
+d'investissement à prendre en considération sont celles afférentes à l'exercice
+précédent. Ces collectivités sont subrogées dans les droits du département et de
+la région auxquels elles succèdent pour les attributions du fonds de
+compensation pour la taxe sur la valeur ajoutée au titre de leurs dépenses
+d'investissement.
+
 III.-Les dépenses réelles d'investissement réalisées par les bénéficiaires du
 Fonds de compensation pour la taxe sur la valeur ajoutée et visant à réparer les
 dommages directement causés par des intempéries exceptionnelles reconnues par
