@@ -7,13 +7,16 @@ conditions prévues à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985
 précitée, prélevées sur des plus-values nettes de cessions de titres réalisées
 par la société au cours des exercices clos à compter du 31 décembre 2001 sont
 soumises, lorsque l'actionnaire est une personne physique, au taux d'imposition
-prévu au 2 de l'article 200 A.
+prévu au 2 de l'article 200 A ou, lorsqu'elles sont payées dans un Etat ou
+territoire non coopératif au sens de l'article 238-0 A, à la retenue à la source
+prévue au 2 de l'article 119 bis.
 
 Toutefois, lorsque ces distributions sont afférentes à des actions donnant lieu
 à des droits différents sur l'actif net ou les produits de la société et
 attribuées en fonction de la qualité de la personne et sont versées aux salariés
-ou dirigeants mentionnés au premier alinéa du 8 du II de l'article 150-0 A, ce
-taux s'applique sous réserve du respect des conditions suivantes :
+ou dirigeants mentionnés au premier alinéa du 8 du II de l'article 150-0 A, le
+taux mentionné au 2 de l'article 200 A s'applique sous réserve du respect des
+conditions suivantes :
 
 1° Ces actions ont été souscrites ou acquises, moyennant un prix correspondant à
 la valeur des actions, par le salarié ou le dirigeant bénéficiaire de la
@@ -62,7 +65,9 @@ société de capital-risque.
 
 Les dispositions du 2 ne s'appliquent pas aux actions de sociétés de
 capital-risque donnant lieu à des droits différents sur l'actif net ou sur les
-produits du fonds et attribuées en fonction de la qualité de la personne.
+produits du fonds et attribuées en fonction de la qualité de la personne, ni aux
+distributions mentionnées au premier alinéa du 1 du présent II payées dans un
+Etat ou territoire non coopératif au sens de l'article 238-0 A.
 
 III. Les sommes qui ont été exonérées d'impôt sur le revenu sont ajoutées au
 revenu imposable de l'année au cours de laquelle la société ou le contribuable

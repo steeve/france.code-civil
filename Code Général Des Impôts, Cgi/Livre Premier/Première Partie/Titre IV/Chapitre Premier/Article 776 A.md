@@ -11,9 +11,10 @@ réattribué à un descendant du premier donataire lors de la donation-partage.
 Cette opération est soumise au droit de partage.
 
 Par exception au deuxième alinéa, lorsque le bien réincorporé a été transmis par
-l'ascendant donateur à son enfant par une donation intervenue moins de six ans
-avant la donation-partage et qu'il est réattribué à un descendant du donataire
-initial, les droits de mutation à titre gratuit sont dus en fonction du lien de
-parenté entre l'ascendant donateur et son petit-enfant alloti. Dans ce cas, les
-droits acquittés lors de la première donation à raison du bien réincorporé sont
-imputés sur les droits dus à raison du même bien lors de la donation-partage.
+l'ascendant donateur à son enfant par une donation intervenue moins de quinze
+ans avant la donation-partage et qu'il est réattribué à un descendant du
+donataire initial, les droits de mutation à titre gratuit sont dus en fonction
+du lien de parenté entre l'ascendant donateur et son petit-enfant alloti. Dans
+ce cas, les droits acquittés lors de la première donation à raison du bien
+réincorporé sont imputés sur les droits dus à raison du même bien lors de la
+donation-partage.

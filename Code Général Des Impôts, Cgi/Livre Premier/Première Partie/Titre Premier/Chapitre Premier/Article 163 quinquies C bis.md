@@ -1,9 +1,10 @@
 Article 163 quinquies C bis
 ----
 Les distributions effectuées par les sociétés unipersonnelles d'investissement à
-risque mentionnées à l'article 208 D sont exonérées d'impôt sur le revenu et de
-la retenue à la source mentionnée au 2 de l'article 119 bis lorsque les
-conditions suivantes sont réunies :
+risque mentionnées à l'article 208 D sont exonérées d'impôt sur le revenu et,
+sauf si elles sont payées dans un Etat ou territoire non coopératif au sens de
+l'article 238-0 A, de la retenue à la source mentionnée au 2 de l'article 119
+bis lorsque les conditions suivantes sont réunies :
 
 1° Elles sont prélevées sur des bénéfices exonérés d'impôt sur les sociétés en
 application des dispositions de l'article 208 D ;

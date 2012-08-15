@@ -23,6 +23,11 @@ perçus dans un plan d'épargne en actions défini au 5° du II du présent arti
 2° Les plus-values mentionnées aux articles 150 U à 150 UC du code général des
 impôts.
 
+I bis. - Sont également soumises à la contribution les plus-values imposées au
+prélèvement mentionné à l'article 244 bis A du code général des impôts
+lorsqu'elles sont réalisées, directement ou indirectement, par des personnes
+physiques.
+
 II.-Sont également assujettis à la contribution selon les modalités prévues au
 premier alinéa du I, pour la part acquise à compter du 1er janvier 1997 et, le
 cas échéant, constatée à compter de cette même date en ce qui concerne les
@@ -227,3 +232,8 @@ prélèvement mentionné à l'article 117 quater du code général des impôts.
 VI.-La contribution portant sur les plus-values mentionnées au 2° du I est
 assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes sûretés,
 privilèges et sanctions que l'impôt sur le revenu.
+
+La contribution portant sur les plus-values mentionnées au I bis est assise,
+contrôlée et recouvrée selon les mêmes règles et sous les mêmes sûretés,
+privilèges et sanctions que le prélèvement mentionné à l'article 244 bis A du
+code général des impôts.
