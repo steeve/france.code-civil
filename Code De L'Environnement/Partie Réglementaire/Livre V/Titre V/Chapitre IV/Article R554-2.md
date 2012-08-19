@@ -17,10 +17,13 @@ chimiques liquides ou gazeux ;
 des gaz combustibles ;
 
 -canalisations de transport et de distribution de vapeur d'eau, d'eau
-surchauffée, d'eau chaude, d'eau glacée, ou de tout autre fluide caloporteur ou
-frigorigène ;
+surchauffée, d'eau chaude, d'eau glacée et de tout fluide caloporteur ou
+frigorigène, et tuyauteries rattachées en raison de leur connexité à des
+installations classées pour la protection de l'environnement en application de
+l'article R. 512-32 ;
 
--lignes électriques, réseaux d'éclairage public ;
+-lignes électriques et réseaux d'éclairage public mentionnés à l'article R.
+4534-107 du code du travail ;
 
 -installations destinées à la circulation de véhicules de transport public
 ferroviaire ou guidé ;
@@ -30,7 +33,9 @@ ou par aspiration.
 
 II.-Autres catégories d'ouvrages
 
--installations de communications électroniques ;
+-installations de communications électroniques, lignes électriques et réseaux
+d'éclairage public autres que ceux mentionnés à l'article R. 4534-107 du code du
+travail ;
 
 -canalisations de prélèvement et de distribution d'eau destinée à la
 consommation humaine, à l'alimentation en eau industrielle ou à la protection

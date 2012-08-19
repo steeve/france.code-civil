@@ -8,7 +8,17 @@ préalablement à tous travaux prévus à sa proximité. Dans le cas des ouvrage
 sensibles pour la sécurité mentionnés au I de l'article R. 554-2, ces
 coordonnées comprennent obligatoirement un numéro d'appel permettant en
 permanence un contact immédiat avec l'exploitant afin de lui signaler des
-travaux urgents ou l'endommagement accidentel de l'ouvrage.
+travaux urgents ou l'endommagement accidentel de l'ouvrage.Peut toutefois être
+exclu de la communication prévue au présent alinéa tout ouvrage ou tronçon
+d'ouvrage implanté sur une parcelle non librement accessible au public dont le
+propriétaire est également exploitant de l'ouvrage ou tronçon ; il en va de même
+lorsque le propriétaire de la parcelle est également propriétaire de l'ouvrage
+ou du tronçon, sous réserve, lorsque son exploitant est une personne différente,
+qu'il existe entre eux une convention portant sur la sécurité des travaux. Un
+arrêté du ministre chargé de la sécurité des réseaux de transport et de
+distribution fixe les éléments que doit obligatoirement comporter cette
+convention ainsi que les obligations particulières applicables à la préparation
+et l'exécution de travaux sur une telle parcelle.
 
 L'exploitant d'un ouvrage mentionné au II de l'article R. 554-2 peut demander au
 guichet unique son enregistrement en tant qu'ouvrage sensible, en raison des

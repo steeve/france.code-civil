@@ -9,7 +9,7 @@ l'exception des suivants :
 
 ― si les travaux sont sans impact sur les réseaux souterrains ;
 
-― ou s'il s'agit de travaux de réfection des voies communales dans lesquelles
+― ou s'il s'agit de travaux de réfection des voiries routières dans lesquelles
 des tranchées ont été ouvertes, lorsque ces travaux sont effectués en
 application de l'article L. 141-11 du code de la voirie routière, ou de travaux
 de contrôle de la qualité du compactage des remblais de tranchées, à condition

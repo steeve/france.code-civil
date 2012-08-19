@@ -13,12 +13,14 @@ cartographique ;
 
 2° De mettre gratuitement à la disposition des responsables de projets et des
 particuliers ou des entreprises exécutant ou prévoyant l'exécution de travaux à
-proximité des ouvrages mentionnés à l'article R. 554-2 les informations leur
-permettant de remplir les obligations prévues par le présent chapitre, soit
-directement, soit par l'intermédiaire de prestataires bénéficiant d'un accès
-spécifique aux informations gérées par le guichet unique ;
+proximité des ouvrages mentionnés à l'article R. 554-2 les informations et des
+outils dématérialisés leur permettant de remplir les obligations prévues par le
+présent chapitre, soit directement, soit par l'intermédiaire de prestataires
+bénéficiant d'un accès spécifique aux informations gérées par le guichet unique
+;
 
-3° De mettre à la disposition des services de l'Etat, des collectivités
+3° De mettre à la disposition ou de faire mettre par les prestataires
+susmentionnés à la disposition des services de l'Etat, des collectivités
 territoriales ou de leurs groupements les informations gérées par le guichet
 unique nécessaires à l'exercice de leurs missions respectives de service public
 ;

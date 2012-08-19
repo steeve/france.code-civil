@@ -16,7 +16,7 @@ représentant ayant reçu délégation ;
 -exécutant des travaux : personne physique ou morale assurant l'exécution des
 travaux ;
 
-- déclarant : personne physique ou morale effectuant la déclaration de projet de
+-déclarant : personne physique ou morale effectuant la déclaration de projet de
 travaux ou la déclaration d'intention de commencement de travaux prévues
 respectivement aux articles R. 554-21 et R. 554-25 ;
 
@@ -27,7 +27,12 @@ préparation du chantier, d'entreposage et de circulation d'engins ;
 -zone d'implantation d'un ouvrage : la zone contenant l'ensemble des points du
 territoire situés à moins de 50 mètres du fuseau de l'ouvrage. Pour les ouvrages
 linéaires, il est retenu une zone de largeur constante contenant l'ensemble des
-points situés à moins de 50 mètres du fuseau de l'ouvrage ;
+points situés à moins de 50 mètres du fuseau de l'ouvrage. Un arrêté du ministre
+chargé de la sécurité des réseaux de transport et de distribution peut fixer des
+dimensions différentes pour certaines catégories de réseaux en raison de leur
+sensibilité particulière aux actes de malveillance ou de terrorisme, de
+l'importance de leur extension dans les zones urbanisées, ou de la rapidité de
+leur développement ;
 
 -fuseau d'un ouvrage ou d'un tronçon d'ouvrage : volume contenant l'ouvrage ou
 le tronçon d'ouvrage déterminé à partir de sa localisation théorique, de ses
@@ -35,7 +40,7 @@ dimensions, de son tracé, compte tenu de l'incertitude de sa localisation, et,
 pour un ouvrage aérien, de sa mobilité selon l'environnement dans lequel il est
 situé.
 
-- travaux sans impact sur les réseaux souterrains : travaux entrant dans l'une
+-travaux sans impact sur les réseaux souterrains : travaux entrant dans l'une
 des catégories suivantes :
 
 a) Travaux ne comportant ni fouille, ni enfoncement, ni forage du sol et ne
@@ -54,7 +59,7 @@ d) Remplacement à plus de 1 mètre de tout affleurant de poteaux à l'identique
 sans creusement supérieur à celui de la fouille initiale en profondeur et en
 largeur, et à condition que le creusement ne dépasse pas 40 cm de profondeur ;
 
-- travaux suffisamment éloignés d'un réseau aérien : travaux dont l'emprise :
+-travaux suffisamment éloignés d'un réseau aérien : travaux dont l'emprise :
 
 a) Ne s'approche pas à moins de 5 mètres du fuseau du réseau, en projection
 horizontale, si les travaux ne sont pas soumis à permis de construire ;

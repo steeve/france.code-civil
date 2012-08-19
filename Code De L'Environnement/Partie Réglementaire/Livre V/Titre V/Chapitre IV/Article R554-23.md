@@ -40,7 +40,17 @@ Le résultat des investigations est ajouté aux réponses des exploitants
 d'ouvrages, selon le cas dans le dossier de consultation des entreprises ou dans
 le marché de travaux. Il est également porté, par le responsable du projet, à la
 connaissance des exploitants des ouvrages concernés dans le délai de neuf jours,
-jours fériés non compris, après la date des investigations.
+jours fériés non compris, après la date de disponibilité du résultat des
+investigations. Lorsque pour des raisons techniques les investigations
+complémentaires ne permettent pas d'obtenir le niveau de précision requis pour
+l'ensemble des ouvrages ou tronçons concernés par l'emprise des travaux, le
+marché de travaux en tient compte et prévoit les mesures techniques et
+financières permettant, lors des travaux, d'une part, soit de procéder à des
+investigations complémentaires au démarrage des travaux, soit d'appliquer les
+précautions nécessaires à l'intervention à proximité des ouvrages ou tronçons
+d'ouvrages dont l'incertitude de localisation est trop élevée mais inférieure à
+1,5 mètre et, d'autre part, de prendre en compte une localisation réelle des
+ouvrages qui serait susceptible de remettre en cause le projet.
 
 III. ― Par dérogation au II jusqu'à une date et selon des modalités fixées par
 un arrêté du ministre chargé de la sécurité des réseaux de transport et de

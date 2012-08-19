@@ -26,7 +26,7 @@ implantés.
 
 Ainsi,
 
-R = A × [LS × 1,15 + (LN ― L0)] × (1 ― B/ N) ;
+R = A × (LS × 1,15 + LN - L0) × (1 - B/ N) ;
 
 où :
 
@@ -45,8 +45,7 @@ l'exploitant redevable de la redevance et ses filiales au sens mentionné plus
 haut. Elle est exprimée en kilomètres et arrondie au kilomètre inférieur ;
 
 L0 est une longueur fixée par le ministre chargé de la sécurité des réseaux de
-transport et de distribution ; lorsque la différence LN ― L0 est négative, il y
-est substitué le nombre 0 dans la formule précédente ;
+transport et de distribution ;
 
 N représente le nombre de communes sur le territoire desquelles les ouvrages
 sont implantés ;
@@ -64,3 +63,6 @@ pendant cinq ans, à compter de l'ouverture des services de ce guichet aux
 exploitants d'ouvrages et aux personnes proposant des prestations de service
 mentionnées à l'article R. 554-6, un cinquième des dépenses occasionnées par la
 création de ce guichet.
+
+Lorsque la somme LS × 1,15 + LN est inférieure ou égale à L0, il n'est pas dû de
+redevance.
