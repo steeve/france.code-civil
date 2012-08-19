@@ -1,43 +1,30 @@
 Article R684-3
 ----
-L'office est doté d'un conseil de direction qui comprend, outre son président,
-dix-neuf membres :
+I.-En ce qui concerne l'application des mesures communautaires prévues au 4° de
+l'article L. 621-3, la compétence de l'office est limitée aux interventions
+spécifiques dans le domaine de l'agriculture décidées par l'Union européenne en
+faveur des régions ultrapériphériques au sens de l'article 349 du traité sur le
+fonctionnement de l'Union, y compris la délivrance des certificats utilisés dans
+le cadre du régime spécifique d'approvisionnement, à l'exception des primes aux
+éleveurs de ruminants et des aides à la surface pour la production de riz dès
+lors qu'un texte en confie le paiement à l'établissement mentionné à l'article
+L. 313-1.
 
-1° Neuf personnalités représentant la production, la transformation, la
-coopération et le commerce des produits agricoles des départements et
-collectivités territoriales d'outre-mer, nommées conjointement par le ministre
-chargé de l'outre-mer et le ministre chargé de l'agriculture, sur proposition
-des organisations professionnelles représentatives après avis des préfets
-concernés. La représentation des producteurs doit être majoritaire ;
+Les autres activités de l'office peuvent être menées par voie de convention
+notamment avec les établissements mentionnés aux articles L. 313-1 et L. 621-1
+ou avec tout organisme ou société conventionné.
 
-2° Trois personnalités professionnelles dont au moins deux représentants de la
-production, nommées par le ministre chargé de l'agriculture parmi les
-représentants professionnels siégeant dans les conseils de direction des offices
-d'intervention par produit ;
+En outre, l'office est chargé de rassembler les informations relatives à
+l'ensemble des mesures agricoles prises en faveur des départements français
+d'outre-mer et d'en effectuer régulièrement le bilan. A la demande des ministres
+chargés du budget, de l'agriculture et de l'outre-mer, l'office peut également
+être chargé d'assurer la gestion et le paiement d'aides nationales spécifiques à
+l'outre-mer.
 
-3° Une personnalité représentant les salariés, nommée parmi les membres des
-chambres d'agriculture des départements d'outre-mer élus dans les collèges des
-salariés conjointement par le ministre chargé de l'outre-mer et le ministre
-chargé de l'agriculture ;
-
-4° Une personnalité représentant les consommateurs, nommée par décision
-conjointe du ministre chargé de l'agriculture et du ministre chargé de
-l'outre-mer, sur proposition du ministre chargé de la consommation et après
-consultation du Comité national de la consommation ;
-
-5° Le directeur général des politiques économique, européenne et internationale
-au ministère chargé de l'agriculture ou son représentant ;
-
-6° Le directeur des affaires financières et de la logistique au ministère chargé
-de l'agriculture ou son représentant ;
-
-7° Le directeur des affaires économiques, sociales et culturelles au ministère
-chargé de l'outre-mer ou son représentant ;
-
-8° Le directeur général de la concurrence, de la consommation et de la
-répression des fraudes ou son représentant ;
-
-9° Le directeur du budget ou son représentant.
-
-Les membres du conseil de direction peuvent se faire représenter par un autre
-membre. Un membre ne peut représenter qu'un seul de ses collègues.
+II.-La gestion et l'attribution des certificats d'importation prévus par les
+règlements communautaires relatifs à l'organisation commune du marché de la
+banane sont assurées par l'office. Une commission consultative composée des
+représentants des ministres chargés de l'agriculture, de l'économie, du commerce
+extérieur et de l'outre-mer peut être saisie par l'un de ces représentants ou
+par le directeur de l'office des problèmes posés par la gestion et l'attribution
+des certificats d'importation.
