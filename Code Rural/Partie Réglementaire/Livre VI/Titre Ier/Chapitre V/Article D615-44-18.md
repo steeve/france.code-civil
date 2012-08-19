@@ -17,4 +17,4 @@ ainsi que le montant de cette compensation. Si, à la suite de cette
 notification, dans un délai déterminé par arrêté du ministre chargé de
 l'agriculture, le producteur n'a pas renoncé à son projet, le transfert devient
 effectif et les pièces qui en attestent sont transmises par le préfet à l'Agence
-unique de paiement qui procède au transfert des droits tel que notifié.
+de services et de paiement qui procède au transfert des droits tel que notifié.

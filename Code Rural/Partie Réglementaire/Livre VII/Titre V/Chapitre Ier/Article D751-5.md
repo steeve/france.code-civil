@@ -34,8 +34,7 @@ instituées en application de l'article L. 717-3 ;
 
 4° Action sociale pour l'aménagement des structures agricoles :
 
-a) Centre national pour l'amélioration des structures des exploitations
-agricoles ;
+a) Agence de services et de paiement ;
 
 b) Associations départementales pour l'amélioration des structures des
 exploitations agricoles ;

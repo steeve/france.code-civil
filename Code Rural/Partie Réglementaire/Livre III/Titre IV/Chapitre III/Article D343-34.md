@@ -129,8 +129,8 @@ agricole.
 
 g) L'aide à la transmission de l'exploitation est financée sur le fonds de
 financement des contrats territoriaux d'exploitation. La liquidation et le
-paiement de l'aide sont assurés par le CNASEA après l'installation effective du
-jeune repreneur.
+paiement de l'aide sont assurés par l'Agence de services et de paiement après
+l'installation effective du jeune repreneur.
 
 Sauf cas de force majeure, lorsque le bénéficiaire de l'aide à la transmission
 de l'exploitation cesse au cours des cinq ans suivant le transfert de remplir

@@ -25,7 +25,8 @@ de l'article D. 615-52, les contrôles mentionnés au même paragraphe :
 
 -les agents relevant de l'organisme mentionné à l'article L. 313-3.
 
-III.-Les agents de l'Agence unique de paiement ont qualité pour réaliser pour le
-compte de l'un ou l'autre des organismes mentionnés au II de l'article D. 615-52
-le contrôle du respect des exigences réglementaires mentionnées à l'article D.
-615-45 relatives à l'identification et à l'enregistrement des animaux.
+III.-Les agents de l'Agence de services et de paiement ont qualité pour réaliser
+pour le compte de l'un ou l'autre des organismes mentionnés au II de l'article
+D. 615-52 le contrôle du respect des exigences réglementaires mentionnées à
+l'article D. 615-45 relatives à l'identification et à l'enregistrement des
+animaux.
