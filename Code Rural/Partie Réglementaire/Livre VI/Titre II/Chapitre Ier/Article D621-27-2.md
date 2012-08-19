@@ -3,7 +3,7 @@ Article D621-27-2
 La commission est constituée des membres suivants :
 
 1° Sept membres désignés sur proposition du conseil spécialisé mentionné à
-l'article R. 621-15 :
+l'article D. 621-15 :
 
 a) Trois représentants des organisations des secteurs de la production des
 produits de la pêche maritime, notamment des organisations de producteurs ainsi

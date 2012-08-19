@@ -40,7 +40,7 @@ b) Les dépenses de fonctionnement, y compris les dotations aux amortissements ;
 c) Les dépenses d'investissement ;
 
 d) Les dépenses d'intervention pouvant, par application de la réglementation
-communautaire et des décisions du directeur général mentionnées à l'article R.
+communautaire et des décisions du directeur général mentionnées à l'article D.
 621-27, consister en achats, prêts, accord de garanties ou subventions dont le
 versement peut intervenir en une seule fois ou par versements d'avances ou
 d'acomptes et d'un solde.

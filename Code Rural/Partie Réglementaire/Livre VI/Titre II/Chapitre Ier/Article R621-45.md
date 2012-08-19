@@ -2,7 +2,7 @@ Article R621-45
 ----
 Dans le cas où l'état prévisionnel des recettes et des dépenses n'est pas
 approuvé à l'ouverture de l'exercice, le directeur général met en œuvre les
-mesures financières prévues par les décisions mentionnées à l'article R. 621-27
+mesures financières prévues par les décisions mentionnées à l'article D. 621-27
 dans la limite des reports mentionnés à l'article R. 621-48 et, après
 approbation du ministre chargé de l'agriculture, par les dispositions prévues
 dans le cadre du 6° de l'article L. 621-3.
