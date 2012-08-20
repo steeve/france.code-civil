@@ -17,8 +17,6 @@ Quartier maison centrale du centre pénitentiaire de Lannemezan
 
 Quartier maison centrale du centre pénitentiaire de Lille-Annœullin (Nord).
 
-Quartier maison centrale du centre pénitentiaire de Lille-Loos-Sequedin (Nord).
-
 Quartier maison centrale du centre pénitentiaire de Moulins-Yzeure (Allier).
 
 Maison centrale de Poissy (Yvelines).
