@@ -1,8 +1,8 @@
 Article R931-3-20
 ----
-Les statuts prévoient pour l'exercice des fonctions de directeur général une
-limite d'âge qui ne peut excéder soixante-cinq ans.
-
+L'exercice des fonctions de directeur général est soumis à une limite d'âge
+fixée par les statuts, qui ne peut être inférieure à l'âge prévu au 1° de
+l'article L. 351-8. A défaut de disposition expresse, elle est égale à cet âge.
 Toute nomination intervenue en violation des dispositions prévues à l'alinéa
 précédent est nulle.
 

@@ -28,8 +28,8 @@ collège des participants, par les organisations syndicales de salariés
 représentatives dans le champ d'intervention de l'institution, soit, enfin, et
 dans les mêmes conditions, pour une part, désignés par ces mêmes organisations
 et, pour l'autre part, élus par l'assemblée générale. Dans ce dernier cas, le
-nombre d'administrateurs désignés ne peut, pour chaque collège, excéder la
-moitié du nombre total d'administrateurs.
+nombre d'administrateurs élus ne peut, pour chaque collège, excéder la moitié du
+nombre total d'administrateurs.
 
 Lorsque les statuts de l'institution prévoient des administrateurs suppléants,
 ceux-ci sont élus ou désignés dans les mêmes conditions que les administrateurs
