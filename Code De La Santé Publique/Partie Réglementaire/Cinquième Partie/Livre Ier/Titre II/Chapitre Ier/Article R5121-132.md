@@ -1,0 +1,7 @@
+Article R5121-132
+----
+Pour les spécialités pharmaceutiques pourvues de l'autorisation d'importation
+parallèle, les agents des douanes contrôlent le numéro d'autorisation
+d'importation qui figure sur le conditionnement. Lorsque ce numéro ne figure pas
+sur le conditionnement au moment de l'importation, l'autorisation d'importation
+parallèle est présentée lors du contrôle par les agents des douanes.

@@ -4,9 +4,9 @@ Les propriétaires des immeubles mentionnés à l'article R. 1334-14 doivent
 rechercher la présence de flocages contenant de l'amiante dans les immeubles
 dont le permis de construire a été délivré avant le 1er janvier 1980. Ils
 doivent également rechercher la présence de calorifugeages contenant de
-l'amiante dans les immeubles construits avant le 29 juillet 1996 et la présence
-de faux plafonds contenant de l'amiante dans les immeubles construits avant le
-1er juillet 1997.
+l'amiante dans les immeubles dont le permis de construire a été délivré avant le
+29 juillet 1996 et la présence de faux plafonds contenant de l'amiante dans les
+immeubles dont le permis de construire a été délivré avant le 1er juillet 1997.
 
 Pour répondre à ces obligations de recherche, les propriétaires font appel à un
 contrôleur technique, au sens du code de la construction et de l'habitation, ou

@@ -13,7 +13,7 @@ la recherche biomédicale, avant leur mise sur le marché.
 Les produits ou dispositifs relevant du présent article sont, notamment :
 
 1° Les médicaments radiopharmaceutiques, générateurs isotopiques, trousses ou
-précurseurs tels que définis à l'article L. 1521-1 ;
+précurseurs tels que définis à l'article L. 5121-1 ;
 
 2° Les dispositifs médicaux tels que définis à l'article L. 5211-1 ;
 

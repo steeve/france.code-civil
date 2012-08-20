@@ -1,0 +1,9 @@
+Article R5125-56
+----
+Au vu d'une prescription libellée en dénomination commune, le pharmacien
+dispense un médicament répondant aux mentions prévues à l'article R. 5125-55.
+
+Néanmoins, la forme pharmaceutique orale à libération immédiate du médicament
+dispensé peut être différente de celle figurant dans la prescription libellée en
+dénomination commune, sous réserve que le médicament dispensé figure dans le
+même groupe générique que le médicament prescrit.

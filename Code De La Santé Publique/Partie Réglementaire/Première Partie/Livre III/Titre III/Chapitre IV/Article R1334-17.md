@@ -7,7 +7,7 @@ mentionnée à l'article R. 1334-16, les propriétaires procèdent :
 produits dans les conditions prévues à l'article R. 1334-16 ; ce contrôle est
 effectué dans un délai maximal de trois ans à compter de la date de remise au
 propriétaire des résultats du contrôle, ou à l'occasion de toute modification
-substantielle de l'ouvrage et de son usage ;
+substantielle de l'ouvrage ou de son usage ;
 
 2° Soit, selon les modalités prévues à l'article R. 1334-18, à une surveillance
 du niveau d'empoussiérement dans l'atmosphère par un organisme agréé en
