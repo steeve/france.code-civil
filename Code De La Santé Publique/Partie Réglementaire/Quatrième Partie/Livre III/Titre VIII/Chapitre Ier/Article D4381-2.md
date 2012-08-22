@@ -10,5 +10,5 @@ ses missions.
 Le haut conseil est consulté par le ministre chargé de la santé sur les textes
 réglementaires relatifs aux a et b du 1° de l'article D. 4381-1.
 
-Le haut conseil remet chaque année un rapport d'activité au ministre chargé de
-la santé.
+Le haut conseil remet tous les deux ans un rapport d'activité au ministre chargé
+de la santé.

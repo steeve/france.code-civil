@@ -3,7 +3,8 @@ Article D4381-3
 Le président du Haut Conseil des professions paramédicales est nommé par arrêté
 du ministre chargé de la santé parmi les personnalités ayant manifesté, par
 leurs travaux ou leurs activités professionnelles, leur connaissance du domaine
-des métiers de santé et de l'organisation des soins.
+des métiers de santé et de l'organisation des soins. Un vice-président est
+désigné dans les mêmes conditions. Il supplée le président en cas d'absence.
 
 Le haut conseil est composé en outre :
 
@@ -46,14 +47,7 @@ a) Un représentant de chacun des deux syndicats les plus représentatifs des
 médecins généralistes libéraux, reconnus représentatifs en application de
 l'article L. 162-33 du code de la sécurité sociale ;
 
-b) Un représentant de chacun des deux syndicats les plus représentatifs des
-médecins spécialistes libéraux, reconnus représentatifs en application de
-l'article L. 162-33 du code de la sécurité sociale ;
-
-c) Un représentant de chacune des organisations syndicales représentatives des
-praticiens hospitaliers ;
-
-d) Un représentant du Conseil national de l'ordre des médecins et de chaque
+b) Un représentant du Conseil national de l'ordre des médecins et de chaque
 ordre des professions paramédicales.
 
 Le Haut Conseil des professions paramédicales peut, sur décision de son
@@ -63,9 +57,9 @@ Un représentant du ministre chargé de la santé peut assister aux réunions et
 délibérations du Haut Conseil des professions paramédicales.
 
 Les membres du haut conseil sont nommés par arrêté du ministre chargé de la
-santé, pour une durée de trois ans renouvelable. Des suppléants, en nombre égal
-au nombre des titulaires, sont désignés dans les mêmes conditions que ceux-ci.
-Ils siègent aux séances du haut conseil en l'absence du titulaire.
+santé, pour une durée de trois ans renouvelable. Il est désigné pour chaque
+membre titulaire et dans les mêmes conditions deux suppléants. En l'absence du
+titulaire, un seul suppléant siège aux séances.
 
 Tout membre perdant la qualité en vertu de laquelle il a été nommé cesse
 d'appartenir au haut conseil. Il est remplacé par un membre nommé pour la durée
