@@ -11,7 +11,7 @@ l'organisme emprunteur.
 L'hypothèque est prise pour le compte de l'Etat par le directeur général de la
 caisse des dépôts et consignations ; la mainlevée partielle ou totale des
 inscriptions est donnée soit par le directeur général de la caisse des dépôts et
-consignations, soit par l'agent judiciaire du Trésor qui ont qualité pour le
+consignations, soit par l'agent judiciaire de l'Etat qui ont qualité pour le
 faire avec ou sans constatation de paiement.
 
 En cas de garantie départementale ou communale, le contrat fait mention de la

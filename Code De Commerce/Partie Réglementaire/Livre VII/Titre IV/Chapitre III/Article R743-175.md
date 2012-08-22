@@ -1,7 +1,7 @@
 Article R743-175
 ----
 Le greffier, dans le cas prévu au 1° de l'article R. 743-173, ou l'agent
-judiciaire du Trésor, dans le cas prévu au 2° du même article, saisit la
+judiciaire de l'Etat, dans le cas prévu au 2° du même article, saisit la
 commission par lettre recommandée avec demande d'avis de réception.
 
 Le secrétariat de la commission avise les intéressés de la date à laquelle la
@@ -14,8 +14,8 @@ de la demande accompagnée de l'ensemble des pièces nécessaires à l'instructi
 du dossier. Le président de la commission transmet la proposition de celle-ci,
 qui est motivée, au garde des sceaux, ministre de la justice, et au ministre
 chargé du budget, dans le délai de quinze jours à compter de son adoption. Il la
-notifie également, dans le même délai, au greffier et à l'agent judiciaire du
-Trésor, par lettre recommandée avec demande d'avis de réception. Le
+notifie également, dans le même délai, au greffier et à l'agent judiciaire de
+l'Etat, par lettre recommandée avec demande d'avis de réception. Le
 procès-verbal de notification est joint au dossier de la commission.
 
 Le greffier peut, dans le délai de quinze jours à compter de la notification et

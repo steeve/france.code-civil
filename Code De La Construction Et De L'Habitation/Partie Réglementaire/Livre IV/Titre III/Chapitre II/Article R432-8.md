@@ -1,6 +1,6 @@
 Article R432-8
 ----
-Lorsque, par les soins de l'agent judiciaire du Trésor, des sommes non payées,
+Lorsque, par les soins de l'agent judiciaire de l'Etat, des sommes non payées,
 soit par une association, soit par une société ou union de sociétés de secours
 mutuels, ont dû être prélevées sur le cautionnement, la reconstitution du
 cautionnement au chiffre de 152,45 euros doit être effectuée dans un délai

@@ -5,7 +5,7 @@ recours devant la Commission nationale de réparation des détentions de la part
 
 1° Du demandeur ;
 
-2° De l'agent judiciaire du Trésor ;
+2° De l'agent judiciaire de l'Etat ;
 
 3° Du procureur général près la cour d'appel.
 

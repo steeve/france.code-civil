@@ -18,7 +18,7 @@ A défaut de paiement, constaté par les agents chargés du recouvrement de la
 redevance pour services terminaux de la circulation aérienne, un état exécutoire
 pour le montant restant dû en principal, majorations et intérêts liquidés, est
 émis par le ministre chargé de l'aviation civile. Cet état exécutoire est confié
-à l'agent judiciaire du Trésor.
+à l'agent judiciaire de l'Etat.
 
 Les modalités de perception de la redevance sont précisées par arrêté du
 ministre chargé des finances et du ministre chargé de l'aviation civile.

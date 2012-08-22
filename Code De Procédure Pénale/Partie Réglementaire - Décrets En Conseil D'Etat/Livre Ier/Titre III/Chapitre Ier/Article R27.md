@@ -1,7 +1,7 @@
 Article R27
 ----
 Devant le premier président de la cour d'appel, le demandeur et l'agent
-judiciaire du Trésor peuvent être assistés ou représentés par un avocat.
+judiciaire de l'Etat peuvent être assistés ou représentés par un avocat.
 
 Lorsqu'une partie est assistée par un avocat, les notifications par lettre
 recommandée avec demande d'avis de réception prévues par les articles suivants

@@ -9,4 +9,4 @@ demandeur, de la copie du dossier.
 Dans un délai de quinze jours à compter de la réception de ce dossier, le greffe
 de la cour d'appel transmet une copie de la requête au procureur général près la
 cour d'appel et, par lettre recommandée avec demande d'avis de réception, à
-l'agent judiciaire du Trésor.
+l'agent judiciaire de l'Etat.
