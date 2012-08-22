@@ -17,34 +17,45 @@ compatible ou qu'il doit prendre en compte ;
 évolution en exposant, notamment, les caractéristiques des zones susceptibles
 d'être touchées de manière notable par la mise en oeuvre du schéma ;
 
-4° Analyse les incidences notables prévisibles de la mise en oeuvre du schéma
-sur l'environnement et expose les problèmes posés par l'adoption du schéma sur
-la protection des zones revêtant une importance particulière pour
-l'environnement telles que celles désignées conformément aux articles R. 414-3 à
-R. 414-7 du code de l'environnement ainsi qu'à l'article 2 du décret n°
-2001-1031 du 8 novembre 2001 relatif à la procédure de désignation des sites
-Natura 2000 ;
+4° Analyse les incidences notables prévisibles de la mise en œuvre du schéma sur
+l'environnement et expose les problèmes posés par l'adoption du schéma sur la
+protection des zones revêtant une importance particulière pour l'environnement,
+en particulier l'évaluation des incidences Natura 2000 mentionnée à l'article L.
+414-4 du code de l'environnement ;
 
 5° Explique les choix retenus pour établir le projet d'aménagement et de
 développement durables et le document d'orientation et d'objectifs. Le cas
 échéant, il explique les raisons pour lesquelles des projets alternatifs ont été
 écartés, au regard notamment des objectifs de protection de l'environnement
 établis au niveau international, communautaire ou national et les raisons qui
-justifient le choix opéré au regard des autres solutions envisagées ;
+justifient le choix opéré au regard des solutions de substitution raisonnables
+tenant compte des objectifs et du champ d'application géographique du schéma ;
 
 6° Présente les mesures envisagées pour éviter, réduire et, si possible,
 compenser s'il y a lieu, les conséquences dommageables de la mise en œuvre du
-schéma sur l'environnement ; il précise les indicateurs qui devront être
-élaborés pour l'évaluation des résultats de l'application du schéma prévue à
-l'article L. 122-14, notamment en ce qui concerne l'environnement ;
+schéma sur l'environnement ;
 
-7° Comprend un résumé non technique des éléments précédents et une description
+7° Définit les critères, indicateurs et modalités retenus pour l'analyse des
+résultats de l'application du schéma prévue par l'article L. 122-14. Ils doivent
+permettre notamment de suivre les effets du schéma sur l'environnement afin
+d'identifier, le cas échéant, à un stade précoce, les impacts négatifs imprévus
+et envisager, si nécessaire, les mesures appropriées ;
+
+8° Comprend un résumé non technique des éléments précédents et une description
 de la manière dont l'évaluation a été effectuée ;
 
-8° Précise le cas échéant, les principales phases de réalisation envisagées.
+9° Précise, le cas échéant, les principales phases de réalisation envisagées.
+
+Le rapport de présentation est proportionné à l'importance du schéma de
+cohérence territoriale, aux effets de sa mise en œuvre ainsi qu'aux enjeux
+environnementaux de la zone considérée.
+
+En cas de modification ou de révision du schéma de cohérence territoriale, le
+rapport de présentation est complété, le cas échéant, par l'exposé des motifs
+des changements apportés.
 
 Le rapport de présentation peut se référer aux renseignements relatifs à
-l'environnement figurant dans d'autres études, plans et documents.
+l'environnement figurant dans d'autres études, plans ou documents.
 
 Lorsque le schéma de cohérence territoriale comprend un chapitre individualisé
 valant schéma de mise en valeur de la mer, le rapport de présentation du schéma

@@ -13,29 +13,38 @@ en considération ;
 
 2° Analyse l'état initial de l'environnement et les perspectives de son
 évolution en exposant, notamment, les caractéristiques des zones susceptibles
-d'être touchées de manière notable par la mise en œuvre de la directive ;
+d'être touchées de manière notable par la mise en oeuvre de la directive ;
 
 3° Analyse les incidences notables prévisibles de la mise en œuvre de la
 directive sur l'environnement et expose les problèmes posés par son adoption sur
 la protection des zones revêtant une importance particulière pour
-l'environnement telles que celles désignées conformément aux articles R. 214-18
-à R. 214-22 du code de l'environnement (1), ainsi qu'à l'article 2 du décret n°
-2001-1031 du 8 novembre 2001 relatif à la procédure de désignation des sites
-Natura 2000 ;
+l'environnement, en particulier l'évaluation des incidences Natura 2000
+mentionnée à l'article L. 414-4 du code de l'environnement ;
 
 4° Expose les motifs pour lesquels la directive a été adoptée au regard
 notamment des objectifs de protection de l'environnement établis au niveau
 international, communautaire ou national et, s'il y a lieu, les raisons qui
-justifient le choix opéré au regard des autres solutions envisagées ;
+justifient le choix opéré au regard des solutions de substitution raisonnables
+tenant compte des objectifs et du champ d'application géographique de la
+directive ;
 
 5° Présente les mesures envisagées pour éviter, réduire et, si possible,
 compenser, s'il y a lieu, les conséquences dommageables de la mise en œuvre de
-la directive territoriale d'aménagement sur l'environnement et précise que la
-directive fera l'objet d'une analyse des résultats de son application au plus
-tard à l'expiration d'un délai de dix ans à compter de son approbation ;
+la directive territoriale d'aménagement sur l'environnement ;
 
-6° Comprend un résumé non technique des éléments précédents et une description
+6° Précise que la directive fera l'objet d'une analyse des résultats de son
+application au plus tard à l'expiration d'un délai de dix ans à compter de son
+approbation. Il définit des critères, indicateurs et modalités qui devront être
+retenus pour suivre les effets de la directive sur l'environnement afin
+d'identifier, le cas échéant, à un stade précoce, les impacts négatifs imprévus
+et envisager, si nécessaire, les mesures appropriées ;
+
+7° Comprend un résumé non technique des éléments précédents et une description
 de la manière dont l'évaluation a été effectuée.
 
+En cas de modification de la directive territoriale d'aménagement, le rapport de
+présentation est complété, le cas échéant, par l'exposé des motifs des
+changements apportés.
+
 Le rapport de présentation peut se référer aux renseignements relatifs à
-l'environnement figurant dans d'autres études, plans et documents.
+l'environnement figurant dans d'autres études, plans ou documents.
