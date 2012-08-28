@@ -9,7 +9,8 @@ délivré qu'aux personnes physiques ou morales de droit privé et aux
 accompagnés de personnels des catégories mentionnées aux 3° et 4° de l'article
 R. 6312-7 ;
 
-2° De véhicules des catégories A ou C mentionnés à l'article R. 6312-8 ;
+2° D'au moins deux véhicules des catégories A, C ou D mentionnées à l'article R.
+6312-8, dont au moins un véhicule des catégories A ou C ;
 
 3° D'installations matérielles conformes aux normes définies par arrêté du
 ministre chargé de la santé.

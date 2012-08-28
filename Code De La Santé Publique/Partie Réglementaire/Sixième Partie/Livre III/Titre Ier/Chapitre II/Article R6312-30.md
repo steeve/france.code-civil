@@ -12,6 +12,7 @@ limites fixées par l'arrêté mentionné au même article.
 La majoration ou la minoration prend en compte les caractéristiques
 démographiques, géographiques ou d'équipement sanitaire, la fréquentation
 saisonnière, la situation locale de la concurrence dans le secteur des
-transports sanitaires ainsi que, le cas échéant, l'existence de véhicules
-affectés à l'exécution de contrats conclus avec une société d'assistance ou un
+transports sanitaires, le taux d'utilisation des véhicules de transports
+sanitaires existant ainsi que, le cas échéant, l'existence de véhicules affectés
+à l'exécution de contrats conclus avec une société d'assistance ou un
 établissement public de santé.
