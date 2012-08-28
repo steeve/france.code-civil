@@ -165,7 +165,7 @@ des mines régis par le décret n° 2007-468 du 28 mars 2007.
 
 -Techniciens de laboratoire affectés dans les écoles nationales supérieures des
 mines et dans les écoles nationales supérieures des techniques industrielles et
-des mines et régis par le décret n° 96-273 du 26 mars 1996 modifié.
+des mines et régis par le décret n° 2012-1002 du 29 août 2012.
 
 -Ingénieurs du corps interministériel des ingénieurs des télécommunications
 régis par le décret n° 67-715 du 16 août 1967.
