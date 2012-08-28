@@ -13,6 +13,10 @@ Ce relevé d'opérations est communiqué par lettre recommandée avec demande d'
 de réception au créancier saisissant au plus tard huit jours après l'expiration
 du délai de contre-passation.
 
+Sous réserve des dispositions de l'article 748-7 du code de procédure civile, si
+l'acte de saisie est signifié par voie électronique, le tiers saisi communique
+le relevé par voie électronique dans ce même délai.
+
 Art. R. 162-2.-Aucune demande du débiteur n'est nécessaire lorsqu'il est fait
 application des dispositions de l'article L. 162-2. Le tiers saisi avertit
 aussitôt le débiteur de la mise à disposition de la somme mentionnée à cet
