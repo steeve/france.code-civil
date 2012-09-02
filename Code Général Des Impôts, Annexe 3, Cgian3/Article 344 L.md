@@ -1,8 +1,7 @@
 Article 344 L
 ----
-I. L'agrément prévu au VI de l'article 44 decies du code général des impôts
-ainsi que celui prévu au 1° du III de l'article 1466 B du même code sont
-accordés par le ministre chargé du budget.
+I. L'agrément prévu au VI de l'article 44 decies du code général des impôts est
+accordé par le ministre chargé du budget.
 
 Les demandes, établies en quatre exemplaires, sur papier libre, conformément à
 un modèle fixé par l'administration, sont adressées au ministre chargé du budget
@@ -11,8 +10,7 @@ comportent notamment les renseignements et documents permettant d'apprécier
 l'état de difficulté de l'entreprise concernée.
 
 II. L'agrément prévu au a du I de l'article 44 decies du code général des impôts
-ainsi que celui prévu au b du 2° du I de l'article 1466 B du même code sont
-accordés par le ministre chargé du budget.
+est accordé par le ministre chargé du budget.
 
 Les demandes, établies en quatre exemplaires, sur papier libre, conformément à
 un modèle fixé par l'administration, sont adressées au directeur départemental

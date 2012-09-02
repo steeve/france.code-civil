@@ -32,3 +32,9 @@ l'article 234 nonies du code général des impôts ;
 II. La déclaration est établie en double exemplaire sur une formule délivrée par
 l'administration. La procédure de vérification de cette déclaration est suivie
 directement entre le service des impôts et la société.
+
+III.-Lorsqu'elles sont soumises à l'obligation prévue au II de l'article 1586
+octies du code précité, les sociétés visées à l'article 46 B doivent joindre à
+la déclaration mentionnée au I le tableau de calcul de la valeur ajoutée définie
+à l'article 1586 sexies du code précité, suivant le modèle établi par
+l'administration.

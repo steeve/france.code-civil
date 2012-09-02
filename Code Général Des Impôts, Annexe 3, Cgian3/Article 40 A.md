@@ -38,9 +38,9 @@ k) Le montant de la taxe sur la valeur ajoutée incluse dans les recettes ;
 l) En ce qui concerne les adhérents à une association agréée : le nom et
 l'adresse de l'association ;
 
-m) La valeur ajoutée définie à l'article 1647 B sexies du code précité, à l'aide
-d'un tableau dont le modèle est établi par l'administration, lorsqu'ils sont
-soumis à l'obligation prévue à l'article 1647 E du même code.
+m) Le calcul de la valeur ajoutée définie à l'article 1586 sexies du code
+précité, suivant le modèle établi par l'administration, lorsqu'ils sont soumis à
+l'obligation prévue au II de l'article 1586 octies du même code.
 
 II. Les personnes morales doivent également joindre :
 

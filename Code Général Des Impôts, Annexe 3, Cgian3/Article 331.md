@@ -2,8 +2,8 @@ Article 331
 ----
 Les justifications prévues à l'article 330 sont fournies au service des impôts
 dans la circonscription duquel sont situés les établissements boutiques ou
-magasins à raison desquels les intéressés sont passibles de la taxe
-professionnelle.
+magasins à raison desquels les intéressés sont passibles de la cotisation
+foncière des entreprises.
 
 La justification de l'inscription au répertoire des métiers est constituée par
 la production d'une copie sur papier libre certifiée conforme par le maire ou

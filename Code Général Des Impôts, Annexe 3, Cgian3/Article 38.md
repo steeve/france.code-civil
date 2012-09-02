@@ -26,21 +26,21 @@ et des dettes.
 
 Ils doivent également joindre :
 
-1° la liste, suivant modèle fourni par l'administration, des personnes détenant
-au moins 10 % de leur capital, en précisant pour chacune d'entre elles le nombre
-de parts ou d'actions et le taux de détention et, pour les personnes morales,
-leur dénomination, adresse et numéro d'identification au répertoire national des
-établissements (numéro SIRET), pour les personnes physiques leurs nom, prénoms,
-adresse, date et lieu de naissance ;
+1° la liste, suivant le modèle fourni par l'administration, des personnes
+détenant au moins 10 % de leur capital, en précisant pour chacune d'entre elles
+le nombre de parts ou d'actions et le taux de détention et, pour les personnes
+morales, leur dénomination, adresse et numéro d'identification au répertoire
+national des établissements (numéro SIRET), pour les personnes physiques leurs
+nom, prénoms, adresse, date et lieu de naissance ;
 
 2° la liste, suivant modèle fourni par l'administration, de leurs filiales et de
 leurs participations, en précisant pour chacune d'entre elles le taux de
 détention et son numéro d'identification au répertoire national des
 établissements (numéro SIRET) ;
 
-3° le tableau de calcul de la valeur ajoutée définie à l'article 1647 B sexies
-du code précité, suivant modèle établi par l'administration, lorsqu'ils sont
-soumis à l'obligation prévue à l'article 1647 E du même code ;
+3° le tableau de calcul de la valeur ajoutée définie à l'article 1586 sexies du
+code précité, suivant le modèle établi par l'administration, lorsqu'ils sont
+soumis à l'obligation prévue au II de l'article 1586 octies du même code ;
 
 4° une information détaillée ayant trait aux points suivants :
 
