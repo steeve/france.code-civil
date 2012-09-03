@@ -1,7 +1,7 @@
 Article L330-2
 ----
-I. - Ces informations, à l'exception de celles relatives aux gages constitués
-sur les véhicules à moteur et aux oppositions au transfert du certificat
+I.-Ces informations, à l'exception de celles relatives aux gages constitués sur
+les véhicules à moteur et aux oppositions au transfert du certificat
 d'immatriculation, sont communiquées sur leur demande :
 
 1° A la personne physique ou morale titulaire des pièces administratives, à son
@@ -47,7 +47,20 @@ l'Union européenne et aux autres Etats parties à l'accord sur l'Espace
 économique européen, dans le cadre des dispositions prévoyant un échange
 d'informations relatives à l'immatriculation d'un véhicule précédemment
 immatriculé dans un autre de ces Etats, ou au titre de la répression de la
-criminalité visant les véhicules et ayant des incidences transfrontalières.
+criminalité visant les véhicules et ayant des incidences transfrontalières ;
 
-II. - Les entreprises d'assurances doivent fournir à l'appui de leur demande
-tous éléments utiles permettant de vérifier la réalité du sinistre.
+11° Aux fonctionnaires de la police nationale et du contrôle des transports
+terrestres ainsi qu'aux militaires de la gendarmerie nationale, aux seules fins
+de vérifier la régularité de la situation des redevables au regard des taxes sur
+les poids lourds prévues aux articles 269 à 283 quinquies et 285 septies du code
+des douanes et d'identifier les auteurs des manquements au regard de ces taxes ;
+
+12° Aux personnels agréés du prestataire autorisé par l'Etat à exploiter les
+appareils de contrôle automatique et à procéder à la constatation des
+manquements au regard des taxes sur les poids lourds prévues aux articles 269 à
+283 quinquies et 285 septies du code des douanes, aux seules fins de vérifier la
+régularité de la situation des redevables au regard de ces taxes et d'identifier
+les auteurs des manquements au regard de ces taxes.
+
+II.-Les entreprises d'assurances doivent fournir à l'appui de leur demande tous
+éléments utiles permettant de vérifier la réalité du sinistre.
