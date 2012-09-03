@@ -5,7 +5,8 @@ Les maîtres mentionnés à l'article R. 914-120 satisfaisant aux conditions fix
 date du premier jour du mois suivant leur cessation d'activité, ne remplissent
 pas les conditions pour obtenir du régime général de la sécurité sociale une
 pension de vieillesse calculée au taux plein conformément aux dispositions des
-1° et 1° ter de l'article L. 351-8 perçoivent, à compter de cette date :
+1° et 1° ter de l'article L. 351-8 du code de la sécurité sociale perçoivent, à
+compter de cette date :
 
 1° Un avantage temporaire de retraite liquidé selon les règles suivies par le
 régime général de la sécurité sociale pour les assurés lorsqu'ils ont atteint
@@ -14,7 +15,8 @@ sécurité sociale ;
 
 2° Un avantage temporaire de retraite complémentaire liquidé selon les règles
 suivies par l'institution de retraite complémentaire pour les assurés lorsqu'ils
-ont atteint les âges mentionnés aux 1° et 1° ter du code de la sécurité sociale.
+ont atteint les âges mentionnés aux 1° et 1° ter de l'article L. 351-8 du code
+de la sécurité sociale.
 
 Toutefois, ces avantages temporaires de retraite sont liquidés en ne prenant en
 considération que la durée d'assurance dont les intéressés justifient au regard
