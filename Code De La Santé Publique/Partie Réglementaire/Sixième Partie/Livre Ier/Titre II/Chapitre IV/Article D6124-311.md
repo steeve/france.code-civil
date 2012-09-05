@@ -1,12 +1,14 @@
 Article D6124-311
 ----
 Préalablement à la première intervention d'une structure d'hospitalisation à
-domicile dans un établissement mentionné au 6° du I de l'article L. 312-1 du
-code de l'action sociale et des familles, la structure d'hospitalisation à
-domicile et l'établissement signent une convention.
+domicile dans un établissement avec hébergement mentionné au I de l'article L.
+312-1 du code de l'action sociale et des familles ou relevant de l'article L.
+162-31 du code de la sécurité sociale, la structure d'hospitalisation à domicile
+et l'établissement d'hébergement signent une convention.
 
-Lorsque l'établissement bénéficie d'une autorisation mentionnée au quatrième
-alinéa de l'article L. 313-3 du code de l'action sociale et des familles, la
+Lorsque l'établissement bénéficie d'une autorisation délivrée par les autorités
+mentionnées aux b, d ou f de l'article L. 313-3 du code de l'action sociale et
+des familles ou relève de l'article L. 162-31 du code de la sécurité sociale, la
 convention prévoit notamment :
 
 1° Les conditions de l'intervention de la structure d'hospitalisation à domicile
@@ -23,10 +25,12 @@ patient ;
 
 Une copie de l'autorisation est annexée à la convention.
 
-Lorsque l'établissement ne bénéficie pas de l'autorisation mentionnée au
-quatrième alinéa de l'article L. 313-3 du code de l'action sociale et des
-familles, la convention prévoit uniquement les conditions de l'intervention de
-la structure d'hospitalisation à domicile dans l'établissement.
+Lorsque l'établissement ne bénéficie pas de l'autorisation délivrée par les
+autorités mentionnées aux b, d ou f de l'article L. 313-3 ou ne relève pas de
+l'article L. 162-31 du code de la sécurité sociale du code de l'action sociale
+et des familles, la convention prévoit uniquement les conditions de
+l'intervention de la structure d'hospitalisation à domicile dans
+l'établissement.
 
 La convention est transmise pour information à l'agence régionale de
 l'hospitalisation, à la direction départementale des affaires sanitaires et
