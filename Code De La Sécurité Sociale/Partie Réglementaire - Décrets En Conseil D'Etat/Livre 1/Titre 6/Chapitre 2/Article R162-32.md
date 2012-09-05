@@ -17,9 +17,11 @@ minorés ou majorés notamment en fonction de la durée de séjour.
 
 Les forfaits correspondant aux prestations d'hospitalisation à domicile font
 l'objet d'une minoration lorsque ces prestations sont dispensées au profit d'un
-patient hébergé dans un établissement mentionné au 6° du I de l'article L. 312-1
-du code de l'action sociale et des familles et qui bénéficie d'une autorisation
-accordée conformément au quatrième alinéa de l'article L. 313-3 du même code.
+patient hébergé dans un établissement mentionné au I de l'article L. 312-1 du
+code de l'action sociale et des familles et qui bénéficie d'une autorisation
+délivrée par les autorités mentionnées aux b, d ou f de l'article L. 313-3 du
+même code, ou hébergé dans une structure expérimentale relevant de l'article L.
+162-31 du code de la sécurité sociale.
 
 2° Les soins dispensés dans les services et les unités d'accueil et de
 traitement des urgences, à l'exception des soins dispensés au sein d'une unité
