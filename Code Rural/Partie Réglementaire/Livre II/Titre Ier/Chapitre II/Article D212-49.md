@@ -1,21 +1,23 @@
 Article D212-49
 ----
-Est qualifié de naisseur le propriétaire de la poulinière qui met bas, sauf
-convention contraire déposée au fichier central. Le naisseur peut être une
-personne physique ou morale.
+Sur demande du propriétaire présentée dans le délai fixé à l'article D. 212-47,
+une carte d'immatriculation contenant son nom et son adresse, ainsi que le nom
+et, le cas échéant, le numéro d'identification de l'équidé, lui est transmise
+par l'Institut français du cheval et de l'équitation en sa qualité de
+gestionnaire du fichier central.
 
-Le naisseur est enregistré au fichier central au vu de sa déclaration faite sur
-l'honneur au moment du poulinage.
+Le gestionnaire du fichier central est informé du changement de propriétaire de
+l'équidé par le nouveau propriétaire qui lui retourne, lorsqu'elle a été
+établie, la carte d'immatriculation de l'animal endossée par l'ancien
+propriétaire. Le gestionnaire du fichier central établit ou modifie la carte
+d'immatriculation au nom du nouveau propriétaire. Si le changement de
+propriétaire intervient avant l'établissement de la carte d'immatriculation, le
+nouveau propriétaire en informe le gestionnaire du fichier central qui établit
+la carte d'immatriculation au nom du nouveau propriétaire.
 
-La carte d'immatriculation et le document d'identification sont délivrés au
-naisseur lorsque l'identification est réalisée avant sevrage. Sauf convention
-contraire déposée au fichier central, le naisseur est enregistré comme
-propriétaire du poulain à la naissance. En cas de copropriété, le nom et les
-parts des naisseurs sont indiqués sur la déclaration. La carte d'immatriculation
-et le document d'identification peuvent toutefois être délivrés directement à
-l'éventuel acquéreur du produit au vu de la convention passée à cet effet entre
-le naisseur et l'acquéreur.
+Toute modification des informations déclarées en application du deuxième alinéa
+est portée à la connaissance de l'Institut français du cheval et de l'équitation
+dans un délai de deux mois.
 
-Lorsque l'identification est réalisée après sevrage, la carte d'immatriculation
-et le document d'identification sont délivrés au propriétaire de l'équidé
-identifié au vu d'une déclaration sur l'honneur.
+Dans les deux mois suivant la mort d'un équidé, le propriétaire transmet la
+carte d'immatriculation au gestionnaire du fichier central.

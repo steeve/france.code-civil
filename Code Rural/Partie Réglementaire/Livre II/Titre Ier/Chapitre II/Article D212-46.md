@@ -1,22 +1,10 @@
 Article D212-46
 ----
-Tout équidé sevré doit être identifié, accompagné d'un document d'identification
-conforme à la réglementation communautaire, et être immatriculé auprès du
-fichier central zootechnique mentionné à l'article D. 212-48.
+L'établissement public Institut français du cheval et de l'équitation établit et
+gère le fichier central zootechnique des équidés qui regroupe les informations
+relatives à la propriété, la détention et à l'identification des équidés nés ou
+détenus en France, ainsi que les données sanitaires et zootechniques relatives à
+ces équidés.
 
-Le ministre chargé de l'agriculture fixe par arrêté les modalités
-d'identification des équidés.
-
-Pour les équidés nés en France, l'identification doit être réalisée avant
-sevrage et au plus tard le 31 décembre de leur année de naissance par une
-personne habilitée à cet effet par le ministre chargé de l'agriculture. Les
-documents d'identification sont émis par l'établissement public Institut
-français du cheval et de l'équitation. Ils doivent être conformes aux modèles
-fixés par arrêté du ministre chargé de l'agriculture.
-
-Pour les animaux introduits ou importés, la demande d'immatriculation doit être
-déposée auprès de l'établissement public Institut français du cheval et de
-l'équitation.A cette occasion, les documents émis par les autorités étrangères
-pour des équidés nés hors de France sont validés ou remplacés, le cas échéant,
-par l'établissement public Institut français du cheval et de l'équitation dans
-des conditions fixées par arrêté du ministre chargé de l'agriculture.
+Des arrêtés du ministre chargé de l'agriculture fixent les modalités
+d'organisation et de fonctionnement de ce fichier.

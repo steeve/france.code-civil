@@ -1,7 +1,10 @@
 Article D212-48
 ----
-L'établissement public Institut français du cheval et de l'équitation établit et
-gère le fichier central zootechnique des équidés.
+Le détenteur, ou l'organisme tiers ayant réalisé la déclaration pour son compte,
+porte à la connaissance de l'Institut français du cheval et de l'équitation,
+dans un délai maximum de deux mois, toute modification des informations
+déclarées en application de l'article D. 212-47.
 
-Des arrêtés du ministre chargé de l'agriculture fixent les modalités
-d'organisation et de fonctionnement de ce fichier.
+Dans les trois mois suivant la mort ou l'exportation non temporaire d'un équidé,
+le détenteur ou l'organisme agissant pour son compte transmet le certificat
+d'enregistrement au gestionnaire du fichier central.

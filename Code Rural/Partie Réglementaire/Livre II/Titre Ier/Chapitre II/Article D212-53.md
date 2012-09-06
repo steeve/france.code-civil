@@ -1,49 +1,21 @@
 Article D212-53
 ----
-I. - Toute personne procédant à l'identification d'un équidé est tenue :
+Toute personne procédant à l'identification de terrain d'un équidé vérifie
+qu'elle dispose de l'ensemble des informations nécessaires à l'établissement du
+document d'identification, avant de délivrer au détenteur une attestation
+d'identification de terrain, valable trois mois, ainsi qu'un formulaire de
+demande d'identification comportant l'ensemble des informations nécessaires à
+l'émission du document d'identification. Si le détenteur n'a pas fourni
+l'ensemble des informations nécessaires à l'établissement du document
+d'identification, il n'est pas procédé à l'identification de terrain de
+l'équidé.
 
-1° De délivrer immédiatement à son propriétaire une attestation provisoire
-d'identification, valable trois mois ;
+Par dérogation au premier alinéa, les détenteurs des équidés faisant uniquement
+l'objet d'un marquage actif par la pose de marques auriculaires établissent,
+lors du marquage, le formulaire de demande d'identification comportant
+l'ensemble des informations nécessaires à l'émission du document
+d'identification.
 
-2° D'adresser dans les huit jours le formulaire d'identification au gestionnaire
-du fichier central qui établit les documents d'identification définitifs et les
-envoie au propriétaire de l'équidé dans les deux mois suivant réception.
-
-II. - Le vendeur ou le donateur d'un équidé est tenu de délivrer sans délai au
-nouveau propriétaire le document d'identification et la carte d'immatriculation
-de l'équidé, après l'avoir endossée. Il n'est pas tenu de délivrer la carte
-d'immatriculation si le paiement intégral du prix n'a pas été effectué.
-
-III. - Le nouveau propriétaire est tenu d'envoyer au gestionnaire du fichier
-central, dans les huit jours suivant la date où elle lui est remise, la carte
-d'immatriculation endossée par le cédant.
-
-IV. - Tout changement d'adresse du propriétaire doit être signalé dans les deux
-mois par celui-ci au gestionnaire du fichier central.
-
-V. - En cas de mort de l'équidé, le document d'identification et la carte
-d'immatriculation doivent être transmis au gestionnaire du fichier central :
-
-1° Lors de l'entrée d'un équidé à l'abattoir, le document d'identification et la
-carte d'immatriculation ou, le cas échéant, l'attestation provisoire
-d'identification doivent être remis à l'exploitant ou au gestionnaire de
-l'abattoir. Celui-ci doit, avant l'abattage, s'assurer que le document
-correspond aux caractéristiques de l'équidé ou à son numéro de transpondeur
-électronique. Il transmet le document, en signalant les anomalies éventuelles,
-au vétérinaire officiel de l'abattoir. Le document est ensuite transmis par
-l'inspection sanitaire au gestionnaire du fichier central.
-
-2° Ces dispositions ne sont pas applicables aux équidés destinés directement à
-l'abattoir en vue d'un abattage immédiat, introduits sur le territoire
-métropolitain et les départements d'outre-mer dans le cadre des échanges
-intracommunautaires, ou importés de pays tiers, s'ils sont accompagnés des
-documents et certificats sanitaires conformes à la réglementation communautaire.
-
-3° En cas d'enlèvement d'un cadavre en dehors d'un abattoir, le document
-d'identification et la carte d'immatriculation ou, le cas échéant, l'attestation
-provisoire d'identification sont remis au représentant de l'établissement
-d'équarrissage, lequel transmet le document, en signalant les anomalies
-éventuelles, au préfet du département dans lequel l'établissement est situé. Le
-document est transmis par le préfet au gestionnaire du fichier central. Le cas
-échéant, le représentant de l'établissement d'équarrissage signale au préfet
-l'absence de document d'identification.
+Un arrêté du ministre chargé de l'agriculture fixe la liste des pièces et
+informations à fournir par le détenteur pour l'établissement du formulaire de
+demande d'identification et de l'attestation d'identification de terrain.

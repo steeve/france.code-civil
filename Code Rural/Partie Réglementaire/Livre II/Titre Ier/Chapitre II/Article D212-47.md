@@ -1,30 +1,31 @@
 Article D212-47
 ----
-L'établissement public Institut français du cheval et de l'équitation gère
-l'identification et assure l'enregistrement zootechnique des équidés. A cette
-fin, il établit pour chaque équidé né en France un document d'identification et
-une carte d'immatriculation.
+En application de l'article L. 212-9, tout détenteur d'un ou plusieurs équidés
+domestiques, à l'exception des domiciles professionnels d'exercice vétérinaire,
+des équarrisseurs, des abattoirs et des transporteurs, est tenu de se déclarer
+auprès de l'Institut français du cheval et de l'équitation.
 
-Il est attribué à chaque équidé un numéro matricule. Ce numéro matricule est
-unique et ne peut être réattribué.
+Le détenteur peut confier à l'un des organismes tiers figurant sur une liste
+fixée par arrêté du ministre chargé de l'agriculture, le soin de réaliser cette
+déclaration pour son compte.
 
-Un nom peut être attribué à un équidé. Dans ce cas, il peut être modifié dans
-des conditions déterminées par arrêté du ministre chargé de l'agriculture.
+La déclaration comporte le nom et l'adresse du détenteur, l'adresse du ou des
+lieux de stationnement des animaux si celle-ci est différente de l'adresse du
+détenteur ainsi que les informations nécessaires à l'enregistrement des équidés
+au fichier central. Elle doit parvenir à l'Institut français du cheval et de
+l'équitation avant l'arrivée du premier équidé domestique.
 
-Le document d'identification doit porter le numéro matricule et, le cas échéant,
-le nom de l'équidé. Dans des conditions fixées par arrêté du ministre de
-l'agriculture, le document d'identification constitue également un certificat
-d'origine et un passeport, un livret sanitaire et zootechnique, et, le cas
-échéant, un certificat d'inscription à un livre généalogique. Ce document doit
-accompagner l'équidé lors de tout déplacement hors de son lieu de stationnement.
-Nul ne peut détenir ce document s'il n'est pas détenteur de l'équidé.
+L'Institut français du cheval et de l'équitation identifie chaque lieu de
+stationnement par un numéro national unique.
 
-La carte d'immatriculation, outre le numéro matricule et, le cas échéant, le nom
-de l'équidé, indique l'identité du propriétaire déclaré et enregistré au fichier
-central. Elle est utilisée pour déclarer les changements de propriétaire. Pour
-certaines races déterminées par le ministre de l'agriculture, le document
-d'identification et la carte d'immatriculation sont regroupés dans un document
-unique qui enregistre les propriétaires successifs.
+Lors de la naissance, de l'importation ou de l'introduction d'un équidé en
+provenance d'un autre Etat membre, le détenteur transmet les informations
+nécessaires à son enregistrement au fichier central, dans les deux mois suivant
+sa naissance, son importation ou son introduction.
 
-Un arrêté du ministre chargé de l'agriculture fixe les conditions dans
-lesquelles sont réalisés les documents ci-dessus mentionnés.
+L'enregistrement au fichier central des équidés détenus est attesté par la
+délivrance d'un certificat d'enregistrement qui comprend le nom et le numéro
+d'identification de l'équidé. Les documents d'identification établis par
+l'Institut français du cheval et de l'équitation valent certificats
+d'enregistrement. Le certificat d'enregistrement accompagne l'équidé lors de ses
+déplacements.

@@ -1,24 +1,27 @@
 Article D251-2-3
 ----
-Pour prétendre à l'indemnisation prévue à l'article L. 251-9, le demandeur qui a
-cotisé à un mécanisme de solidarité répondant aux conditions de l'article D.
-251-14-1 doit l'avoir fait au titre des douze mois précédant la date de
-notification de la mesure de destruction ordonnée par l'autorité administrative
-pour la totalité des surfaces affectées à la production contaminée.
+Sont considérés comme mécanismes de solidarité au sens de l'article L. 251-9 les
+systèmes d'indemnisation qui visent à couvrir tout ou partie du préjudice
+financier résultant de la destruction des végétaux, produits végétaux et autres
+objets mentionnés au I de l'article L. 251-12 ordonnée en application des
+articles L. 251-8 ou L. 251-14 par les agents mentionnés à l'article L. 250-2.
+Le préjudice financier est entendu comme la perte de la valeur nette comptable
+des végétaux, produits végétaux et autres objets mentionnés au I de l'article L.
+251-12.
 
-Pour les exploitants ayant débuté l'exploitation de la production contaminée
-depuis moins de douze mois et qui ont cotisé à un mécanisme de solidarité, le
-versement de l'indemnisation est subordonné à l'engagement de l'exploitant
-concerné de cotiser à ce mécanisme pour le risque considéré au moins pendant les
-vingt-quatre mois suivant l'indemnisation. Sauf circonstances particulières,
-précisées par arrêté conjoint des ministres chargés de l'agriculture et de
-l'économie, toute rupture d'engagement entraîne le recouvrement de
-l'indemnisation, majoré de 20 %.
+Les organismes gestionnaires de ces mécanismes doivent présenter des capacités
+financières suffisantes et sont agréés par le préfet, selon des modalités
+définies par arrêté conjoint des ministres chargés de l'agriculture et de
+l'économie. Cet arrêté fixe également les conditions dans lesquelles l'agrément
+peut être retiré.
 
-Pour les exploitants ayant cotisé à un mécanisme de solidarité agréé depuis
-moins de douze mois, le versement de l'indemnisation est subordonné à
-l'engagement de l'exploitant concerné de cotiser à ce mécanisme pour le risque
-considéré au moins pendant les vingt-quatre mois suivant l'indemnisation. Sauf
-circonstances particulières, précisées par arrêté conjoint des ministres chargés
-de l'agriculture et de l'économie, toute rupture d'engagement entraîne le
-recouvrement de l'indemnisation, majoré de 20 %.
+Les cotisations aux mécanismes de solidarité peuvent être versées notamment
+selon les modalités prévues aux articles L. 632-3 et L. 632-6.
+
+Les indemnisations versées par ces mécanismes sont limitées par l'actif dont ils
+disposent à tout moment. Leurs organismes gestionnaires ne peuvent pas prendre
+d'engagements contractuels fixant par avance les conditions et le montant
+d'indemnisation des préjudices subis.
+
+En aucun cas, l'Etat ne peut être tenu de participer financièrement ou de se
+substituer à ces mécanismes, notamment en cas de défaillance de ces derniers.

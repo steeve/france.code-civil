@@ -1,25 +1,6 @@
 Article D212-51
 ----
-I.-L'identification des équidés est assurée par la description de leurs marques
-naturelles incluant éventuellement l'hémotype et le typage ADN.
-
-Peuvent s'y ajouter, sans s'y substituer, des marques acquises ainsi que des
-éléments complémentaires tels que le tatouage ou la pose d'un transpondeur
-électronique dont le ministre chargé de l'agriculture peut rendre l'emploi
-obligatoire par arrêté.
-
-Le ministre chargé de l'agriculture agrée par arrêté les techniques
-d'identification et les modalités de leur mise en oeuvre.
-
-Seuls les personnels qualifiés de l'établissement public Institut français du
-cheval et de l'équitation et les vétérinaires peuvent être habilités par le
-ministre chargé de l'agriculture à procéder à l'identification des équidés.
-
-Le ministre chargé de l'agriculture fixe par arrêté les conditions de ces
-habilitations, et en particulier les qualifications requises, ainsi que celles
-de leur suspension ou de leur retrait éventuels.
-
-II.-Les indications permettant d'identifier les équidés et de connaître le nom
-et l'adresse de leur propriétaire sont portées au fichier central mentionné à
-l'article D. 212-48. Peuvent y être ajoutées des informations relatives au
-détenteur et au lieu de stationnement des équidés.
+Les équidés détenus en France doivent être identifiés conformément aux
+dispositions du règlement (CE) n° 504/2008 de la Commission du 6 juin 2008
+portant application des directives 90/426/CEE et 90/427/CEE du Conseil en ce qui
+concerne les méthodes d'identification des équidés.
