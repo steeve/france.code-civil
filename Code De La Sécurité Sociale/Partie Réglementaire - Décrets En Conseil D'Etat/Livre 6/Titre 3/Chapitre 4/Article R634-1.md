@@ -12,6 +12,11 @@ de vingt-cinq années d'assurance au titre des régimes dont il s'agit, il sera
 tenu compte des cotisations versées au cours des vingt-cinq années civiles dont
 la prise en considération est la plus avantageuse pour l'intéressé.
 
+Par dérogation au précédent alinéa, le revenu servant de base au calcul de la
+pension correspondant aux années donnant lieu au partage mentionné au 2° de
+l'article L. 633-10 est déterminé séparément et en ne tenant compte que des
+cotisations versées au cours de ces années.
+
 Ne sont pas prises en compte pour la détermination du revenu annuel moyen défini
 au présent article les années comprenant une période au titre de laquelle un
 versement de cotisations a été effectué en application de l'article L. 634-2-2
