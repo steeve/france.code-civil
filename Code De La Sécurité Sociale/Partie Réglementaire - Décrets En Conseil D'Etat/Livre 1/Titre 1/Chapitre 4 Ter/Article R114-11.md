@@ -28,32 +28,32 @@ saisine. Elle peut, si un complément d'information est nécessaire, demander au
 directeur un délai supplémentaire d'un mois. Si la commission ne s'est pas
 prononcée au terme du délai qui lui est imparti, l'avis est réputé rendu.
 
-Le directeur dispose d'un délai de trois semaines à compter de la réception de
-l'avis de la commission ou de la date à laquelle celui-ci est réputé avoir été
-rendu pour fixer le montant définitif de la pénalité et le notifier à la
-personne en cause ou pour l'aviser que la procédure est abandonnée. A défaut, la
-procédure est réputée abandonnée.
+Le directeur dispose d'un délai d'un mois à compter de la réception de l'avis de
+la commission ou de la date à laquelle celui-ci est réputé avoir été rendu pour
+fixer le montant définitif de la pénalité et le notifier à la personne en cause
+ou pour l'aviser que la procédure est abandonnée. A défaut, la procédure est
+réputée abandonnée.
 
 Lors des auditions mentionnées au présent article, la personne en cause peut se
 faire assister ou se faire représenter par la personne de son choix.
 
-Les notifications prévues au présent article s'effectuent par lettre recommandée
-avec demande d'avis de réception adressée par le directeur de l'organisme à
-l'intéressé. Copie en est envoyée le même jour par lettre simple.
+Les notifications prévues au présent article s'effectuent par tout moyen
+permettant de rapporter la preuve de leur date de réception. Copie en est
+envoyée le même jour par lettre simple.
 
 La décision fixant le montant définitif de la pénalité précise la cause, la
-nature et le montant des sommes réclamées et mentionne l'existence d'un délai
-d'un mois à partir de sa réception imparti au débiteur pour s'acquitter des
-sommes réclamées ainsi que les voies et délais de recours.
+nature et le montant des sommes réclamées et mentionne l'existence d'un délai de
+deux mois à partir de sa réception imparti au débiteur pour s'acquitter des
+sommes réclamées ainsi que les voies et délais de recours. Elle mentionne
+également, le cas échéant, les modalités de recouvrement de la pénalité par
+retenues sur les prestations ultérieures à verser à l'intéressé.
 
-La mise en demeure prévue à l'article L. 114-17 est adressée par lettre
-recommandée avec demande d'avis de réception. Elle comporte les mêmes mentions
-que la notification de la pénalité en ce qui concerne la cause, la nature et le
-montant des sommes réclamées et indique l'existence du délai de paiement d'un
-mois à compter de sa réception, assorti d'une majoration de 10 %, ainsi que les
-voies et délais de recours.
+La mise en demeure prévue à l'article L. 114-17 est adressée par tout moyen
+permettant de rapporter la preuve de sa date de réception. Elle comporte les
+mêmes mentions que la notification de la pénalité en ce qui concerne la cause,
+la nature et le montant des sommes réclamées et indique l'existence du délai de
+paiement d'un mois à compter de sa réception, assorti d'une majoration de 10 %,
+ainsi que les voies et délais de recours.
 
 Les dispositions des articles R. 133-3 et R. 133-5 à R. 133-7 sont applicables à
-la contrainte instituée par l'article L. 114-17. La contrainte peut toutefois
-être notifiée au débiteur par lettre recommandée avec demande d'avis de
-réception ou lui être signifiée par acte d'huissier.
+la contrainte instituée par l'article L. 114-17.

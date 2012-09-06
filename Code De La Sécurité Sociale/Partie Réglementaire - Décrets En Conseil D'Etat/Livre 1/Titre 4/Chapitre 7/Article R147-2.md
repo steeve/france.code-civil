@@ -92,9 +92,11 @@ réputée abandonnée.
 
 Cette notification de payer précise la cause, la nature, le montant des sommes
 réclamées au titre de la pénalité ou de chacune des pénalités prononcées et
-mentionne l'existence d'un délai d'un mois, à partir de sa réception, imparti au
-débiteur pour s'acquitter des sommes réclamées, ainsi que les voies et les
-délais de recours.
+mentionne l'existence d'un délai de deux mois, à partir de sa réception, imparti
+au débiteur pour s'acquitter des sommes réclamées, ainsi que les voies et les
+délais de recours. Elle mentionne également, le cas échéant, les modalités de
+recouvrement de la pénalité par retenues sur les prestations ultérieures à
+verser à l'intéressé.
 
 A défaut de paiement dans ce délai, la mise en demeure prévue au septième alinéa
 du IV de l'article L. 162-1-14 est adressée, par tout moyen permettant de
@@ -104,12 +106,6 @@ recours ainsi que l'existence d'un nouveau délai d'un mois, à partir de sa
 réception, imparti au débiteur pour s'acquitter des sommes réclamées. Elle
 indique en outre l'existence et le montant de la majoration de 10 % prévue au
 même septième alinéa, appliquée en l'absence de paiement dans ce délai.
-
-L'envoi de la mise en demeure prévue à l'alinéa précédent doit intervenir dans
-un délai de deux ans à compter de la notification prévue au 2° du présent III.
-
-L'action se prescrit selon les modalités prévues aux articles 2224 et suivants
-du code civil.
 
 Les dispositions du III et du IV de l'article R. 133-9-1 du présent code et des
 articles R. 725-8 à R. 725-10 du code rural et de la pêche maritime sont
