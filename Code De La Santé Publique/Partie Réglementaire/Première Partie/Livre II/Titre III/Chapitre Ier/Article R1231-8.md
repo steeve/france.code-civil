@@ -1,8 +1,9 @@
 Article R1231-8
 ----
 Le donneur adresse au comité d'experts compétent mentionné à l'article R. 1231-5
-une demande d'autorisation de prélèvement, accompagnée d'une copie de l'acte par
-lequel a été recueilli son consentement.
+une demande d'autorisation de prélèvement, le cas échéant dans le cadre d'un don
+croisé, qu'il accompagne d'une copie de l'acte par lequel a été recueilli son
+consentement.
 
 Le comité d'experts procède à toutes les investigations et à toutes les
 consultations qu'il estime nécessaires pour éclairer sa décision. Il peut

@@ -1,8 +1,9 @@
 Article R1231-2
 ----
-Le donneur exprime son consentement devant le président du tribunal de grande
-instance ou son délégué saisi par simple requête. Le ministère d'avocat n'est
-pas obligatoire.
+Le donneur exprime son consentement, le cas échéant à un don croisé, devant le
+président du tribunal de grande instance ou son délégué saisi par simple
+requête. Si le recours à un don croisé est prévu, la requête en fait mention. Le
+ministère d'avocat n'est pas obligatoire.
 
 Sous réserve des dispositions des deux alinéas suivants, le tribunal de grande
 instance territorialement compétent est le tribunal dans le ressort duquel

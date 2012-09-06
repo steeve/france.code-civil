@@ -4,7 +4,9 @@ Au titre des missions qui lui sont conférées par l'article L. 1418-1, l'Agence
 de la biomédecine est notamment chargée d'assurer :
 
 1° La gestion de la liste nationale des patients en attente de greffes d'organes
-et de cornées mentionnée à l'article L. 1251-1 ainsi que celle du fichier des
+et de cornées mentionnée à l'article L. 1251-1, du registre des paires associant
+donneurs vivants et receveurs potentiels ayant consenti à un don croisé
+d'organes mentionné au 7° de l'article L. 1418-1 ainsi que celle du fichier des
 donneurs volontaires de cellules hématopoïétiques et de cellules mononucléées
 périphériques mentionné au 8° de l'article L. 1418-1 ;
 
