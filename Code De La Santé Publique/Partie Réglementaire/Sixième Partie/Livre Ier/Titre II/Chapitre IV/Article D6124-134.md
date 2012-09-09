@@ -20,5 +20,5 @@ titres ou qualifications mentionnés aux deux alinéas précédents.
 Lorsque le traitement concerne une hémopathie maligne, cette décision est prise
 dans les mêmes conditions par un médecin titulaire du diplôme d'études
 spécialisées en hématologie, ou titulaire du diplôme d'études spécialisées en
-onco-hématologie, ou par un médecin qualifié spécialiste en hématologie, ou
-qualifié compétent en maladies du sang.
+oncologie, option onco-hématologie, ou par un médecin qualifié spécialiste en
+hématologie, ou qualifié compétent en maladies du sang.
