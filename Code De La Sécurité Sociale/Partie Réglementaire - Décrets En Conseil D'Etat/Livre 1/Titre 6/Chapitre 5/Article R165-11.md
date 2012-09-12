@@ -49,10 +49,7 @@ estime l'inscription fondée selon les données épidémiologiques disponibles. 
 cas échéant, l'avis mentionne l'impossibilité de réaliser des estimations
 précises ;
 
-9° Le cas échéant, s'agissant des produits et prestations faisant appel à des
-soins pratiqués en établissements de santé, la proposition de subordonner
-l'inscription à la mise en oeuvre des dispositions fixées au dernier alinéa de
-l'article L. 165-1 ;
+9° (Abrogé)
 
 10° Le cas échéant, la proposition de soumettre les produits ou prestations à la
 procédure prévue au dernier alinéa de l'article R. 165-1.
