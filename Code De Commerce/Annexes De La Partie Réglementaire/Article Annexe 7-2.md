@@ -469,18 +469,11 @@ Dunkerque
 3
 
 
-Lille
+Tourcoing
 
-41
+65
 
-7
-
-
-Roubaix-Tourcoing
-
-29
-
-5
+11
 
 
 Valenciennes
