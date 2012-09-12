@@ -97,13 +97,13 @@ Aix-en-Provence
 Aix-en-Provence
 
 Ressort des tribunaux d'instance d'Aix-en-Provence et de Martigues, à
-l'exception des cantons de Berre-l'Etang, Istres-Sud et Istres-Nord
+l'exception des cantons de Berre-l'Etang, Istres-Sud et Istres-Nord et Vitrolles
 
 
 Salon-de-Provence
 
 Ressort du tribunal d'instance de Salon-de-Provence et cantons de Berre-l'Etang,
-Istres-Sud et Istres-Nord
+Istres-Sud et Istres-Nord et Vitrolles
 
 
 Marseille
@@ -544,27 +544,24 @@ Ressort des tribunaux de grande instance de Douai et de Cambrai
 Dunkerque
 
 
+Hazebrouck
+
 Dunkerque
 
-Ressort du tribunal de grande instance de Dunkerque
+Ressort des tribunaux de grande instance de Dunkerque et d'Hazebrouck
 
 
 Lille
 
-Lille
-
-Ressort du tribunal d'instance de Lille, à l'exception du canton de Lannoy
+Tourcoing
 
 
-Roubaix-Tourcoing
-
-Ressort des tribunaux d'instance de Roubaix et de Tourcoing et canton de Lannoy
-
+Ressort du tribunal de grande instance de Lille
 
 Valenciennes
 
-Avesnes-sur-Helpe
 
+Avesnes-sur-Helpe
 
 Valenciennes
 
@@ -630,7 +627,7 @@ Vienne
 Vienne
 
 
-Ressort du tribunal de grande instance de Vienne
+Ressort des tribunaux de grande instance de Vienne et de Bourgoin-Jallieu
 
 Cour d'appel de Limoges
 
@@ -679,35 +676,28 @@ Ressort du tribunal de grande instance de Bourg-en-Bresse
 
 Loire
 
-Roanne
-
-
-Roanne
-
-Ressort du tribunal de grande instance de Roanne
+Saint-Etienne
 
 
 Saint-Etienne
-
-Saint-Etienne
-
 
 Ressort du tribunal de grande instance de Saint-Etienne
 
+
 Rhône
 
-
 Lyon
 
-Lyon
 
+Lyon
 
 Ressort du tribunal de grande instance de Lyon
 
-Villefranche-sur-Saône
-
 
 Villefranche-sur-Saône
+
+Villefranche-sur-Saône
+
 
 Ressort du tribunal de grande instance de Villefranche-sur-Saône
 
@@ -1123,7 +1113,9 @@ Châlons-en-Champagne
 
 Châlons-en-Champagne
 
-Ressort du tribunal d'instance de Châlons-en-Champagne
+Ressort du tribunal d'instance de Châlons-en-Champagne, à l'exception des
+cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton,
+Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne
 
 
 Reims
@@ -1166,52 +1158,45 @@ Ressort du tribunal de grande instance de Quimper
 Ille-et-Vilaine et Côtes-d'Armor
 
 
-Rennes
-
-Rennes
-
-
-Ressort du tribunal de grande instance de Rennes
+Saint-Malo
 
 Saint-Malo
 
-
-Saint-Malo
 
 Ressort du tribunal de grande instance de Saint-Malo
 
-
 Loire-Atlantique
 
-Nantes
-
 
 Nantes
+
+Nantes
+
 
 Ressort du tribunal de grande instance de Nantes
 
-
 Saint-Nazaire
 
-Saint-Nazaire
 
+Saint-Nazaire
 
 Ressort du tribunal de grande instance de Saint-Nazaire
 
+
 Morbihan
 
-
 Lorient
 
-Lorient
 
+Lorient
 
 Ressort du tribunal de grande instance de Lorient
 
-Vannes
-
 
 Vannes
+
+Vannes
+
 
 Ressort du tribunal de grande instance de Vannes
 

@@ -604,12 +604,7 @@ TC de Dunkerque
 
 Ressort du TC
 
-TC de Lille
-
-
-Ressort du TC
-
-TC de Roubaix-Tourcoing
+TC de Lille Métropole
 
 
 Ressort du TC
