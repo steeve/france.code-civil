@@ -1,7 +1,7 @@
 Article D114-0-1
 ----
-Il est institué, auprès du ministre chargé de la sécurité sociale et du ministre
-chargé de l'économie, un Haut Conseil du financement de la protection sociale.
+Il est institué auprès du Premier ministre un Haut Conseil du financement de la
+protection sociale.
 
 Au regard des évolutions économiques, sociales et démographiques, et à la
 lumière des expériences étrangères, le Haut Conseil mène des travaux sur les
@@ -18,7 +18,7 @@ sociale, d'analyser ses caractéristiques et ses changements ;
 
 2° D'évaluer les évolutions possibles de ce système de financement ;
 
-3° D'examiner l'efficacité des règles de gouvernance et d'affectation des
+3° D'examiner l'efficacité des règles de gouvernance et d'allocation des
 recettes de l'ensemble du système de protection sociale de manière à assurer son
 équilibre pérenne ;
 
@@ -26,5 +26,4 @@ recettes de l'ensemble du système de protection sociale de manière à assurer 
 réforme.
 
 Le Haut Conseil peut, en outre, être saisi de toute question par le Premier
-ministre, le ministre chargé de la sécurité sociale ou le ministre chargé de
-l'économie.
+ministre.
