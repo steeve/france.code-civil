@@ -1,7 +1,7 @@
 Article R1-1-10
 ----
 La Poste établit et tient à jour le catalogue des prestations relevant du
-service universel et du secteur réservé ainsi que des tarifs en vigueur.
+service universel et des tarifs en vigueur.
 
 La Poste transmet simultanément au ministre chargé des postes et à l'Autorité de
 régulation des communications électroniques et des postes ses propositions de

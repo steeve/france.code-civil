@@ -14,7 +14,7 @@ prioritaires ;
 b) Les services d'envois de journaux et imprimés périodiques pesant au plus 2 kg
 ;
 
-c) Les services d'envois de catalogues et autres imprimés pesant au plus 2 kg ;
+c) Les services d'envois d'imprimés pesant au plus 2 kg ;
 
 d) Les services d'envois de colis postaux pesant au plus 20 kg, en envoi
 ordinaire ou en recommandé, offerts au public à l'unité, à l'exclusion des

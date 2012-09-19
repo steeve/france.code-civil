@@ -18,7 +18,10 @@ e) L'information sur les accords de partenariat industriel, commercial et
 financier conclus dans le domaine des activités postales et la description des
 accords envisagés pour l'activité faisant l'objet de la demande ;
 
-f) Les autorisations dont le demandeur est déjà titulaire.
+f) Les autorisations dont le demandeur est déjà titulaire ;
+
+g) Une attestation de versement de cotisations, délivrée par les organismes
+compétents, prouvant que le demandeur a satisfait à ses obligations sociales.
 
 2° Description des caractéristiques techniques du projet faisant l'objet de la
 demande :

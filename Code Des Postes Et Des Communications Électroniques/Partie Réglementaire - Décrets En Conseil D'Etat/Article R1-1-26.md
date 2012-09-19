@@ -13,11 +13,15 @@ La contribution de La Poste à l'organisation et à l'exécution du service de l
 poste aux armées est rémunérée sur la base des coûts du service, selon des
 modalités précisées par la convention prévue à l'article R. 1-1-25.
 
-Le contrat de plan détermine la compensation prévue à l'article R. 1-1-17 compte
-tenu de l'évaluation prévisionnelle des volumes transportés communiquée par La
-Poste lors de l'élaboration du contrat de plan, des tarifs existants, de la
-nature des prestations assurées et des gains de productivité prévus. La Poste
-adresse chaque année, avant le 1er mai, au ministre chargé des postes et au
-ministre chargé du budget, une actualisation de ces informations. En vue de son
-inscription dans la loi de finances initiale, les ministres arrêtent, en liaison
-avec l'exploitant public, le montant de la contribution de l'Etat.
+Le contrat d'entreprise prévu à l'article 9 de la loi n° 90-568 du 2 juillet
+1990 relative à l'organisation du service public de la Poste et à France Télécom
+détermine la compensation prévue à l'article R. 1-1-17 compte tenu de
+l'évaluation prévisionnelle des volumes transportés communiquée par La Poste
+lors de l'élaboration du contrat d'entreprise prévu à l'article 9 de la loi n°
+90-568 du 2 juillet 1990 relative à l'organisation du service public de la Poste
+et à France Télécom, des tarifs existants, de la nature des prestations assurées
+et des gains de productivité prévus. La Poste adresse chaque année, avant le 1er
+mai, au ministre chargé des postes et au ministre chargé du budget, une
+actualisation de ces informations. En vue de son inscription dans la loi de
+finances initiale, les ministres arrêtent, en liaison avec La Poste, le montant
+de la contribution de l'Etat.
