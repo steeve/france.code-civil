@@ -13,13 +13,12 @@ des impôts et l'article 111-00 B de l'annexe III au même code ;
 2° Autorisation du procédé de dénaturation de l'alcool prévue au b du I de
 l'article 302 D bis du code général des impôts ;
 
-3° Agrément des opérateurs enregistrés prévu par l'article 302 H du code général
-des impôts ;
+3° (abrogé)
 
 4° Dispense de cautionnement en matière de contributions indirectes prévue au 2
-du III de l'article 302 D, au V de l'article 302 G, au deuxième alinéa de
-l'article 302 H, à l'article 302 J du code général des impôts et aux articles
-286 N de l'annexe II, 111-0 C et 111-0 D de l'annexe III au même code ;
+du III de l'article 302 D, au V de l'article 302 G, au premier alinéa du I de
+l'article 302 H ter, à l'article 302 J du code général des impôts et aux
+articles 286 N de l'annexe II, 111-0 C et 111-0 D de l'annexe III au même code ;
 
 5° Retrait de l'agrément accordé à l'entrepositaire agréé en cas de violation de
 ses obligations, de défaillance de la caution ou de dénonciation par cette
@@ -34,8 +33,8 @@ l'annexe II au même code ;
 7° Autorisation de décharges de manquants pour les pertes de marchandises
 constatées lors de livraisons d'alcool, de boissons alcooliques ou de tabacs
 manufacturés en suspension de droits d'accises, à destination d'un
-entrepositaire agréé, d'un opérateur enregistré ou d'un opérateur non
-enregistré, prévue par l'article 302 K du code général des impôts ;
+entrepositaire agréé ou d'un destinataire enregistré, prévue par l'article 302 K
+du code général des impôts ;
 
 8° Autorisation préalable des personnes qui désirent importer, acquérir à titre
 gratuit ou onéreux, obtenir en location, faire réparer ou transformer un ou
@@ -75,11 +74,11 @@ l'embouteillage du produit, prévue par l'article 111 I de l'annexe III et le a
 de l'article 50-0 C de l'annexe IV au code général des impôts ;
 
 17° Autorisation donnée aux entrepositaires agréés mentionnés à l'article 302 G
-du code général des impôts et des débitants de boissons mentionnés aux articles
-501 et 502 du même code, d'utiliser leurs factures ou tout autre document
-commercial, en lieu et place des documents d'accompagnement mentionnés à
-l'article 302 M du code précité, prévue par le II de l'article 111 H bis de
-l'annexe III au code général des impôts ;
+du code général des impôts et des débitants de boissons mentionnés à l'article
+502 du même code, d'utiliser leurs factures ou tout autre document commercial,
+en lieu et place des documents d'accompagnement mentionnés à l'article 302 M du
+code précité, prévue par le II de l'article 111 H bis de l'annexe III au code
+général des impôts ;
 
 18° Agrément des procédés de dénaturation des essences d'absinthe et produits
 assimilés, prévu par le premier alinéa de l'article 178 P de l'annexe III au
@@ -199,8 +198,8 @@ distributeurs automatiques pour la délivrance de billets, prévue par l'article
 journaliers de billets, prévue par le premier alinéa de l'article 129 de
 l'annexe IV au code général des impôts ;
 
-47° Autorisation de déroger aux règles fixées par les articles 127, 128 et 129
-de l'annexe IV au code général des impôts en matière de billetterie pour les
+47° Autorisation de déroger aux règles fixées par les articles 127,128 et 129 de
+l'annexe IV au code général des impôts en matière de billetterie pour les
 représentations occasionnelles ;
 
 48° Mise en demeure adressée au comité de direction d'un cercle de jeu de ne pas
