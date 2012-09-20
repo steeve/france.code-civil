@@ -1,6 +1,6 @@
 Article D241-25
 ----
-Pour l'application du IV de l'article L. 241-17, l'employeur tient à disposition
+Pour l'application du IV de l'article L. 241-18, l'employeur tient à disposition
 les informations prévues aux articles D. 212-18 à D. 212-24 du code du travail
 et aux articles R. 713-35 à R. 713-50 du code rural et de la pêche maritime.
 
@@ -19,9 +19,3 @@ travail supérieure à la durée légale et font l'objet d'une rémunération
 mensualisée, l'indication de cette durée collective suffit à satisfaire à
 l'obligation mentionnée à l'alinéa précédent pour les seules heures
 supplémentaires concernées.
-
-Les informations mentionnées aux deux premiers alinéas doivent également être
-tenues à disposition par les employeurs qui utilisent les dispositifs mentionnés
-dans la deuxième phrase du IV de l'article L. 241-17 pour bénéficier de la
-réduction de cotisations salariales ou de la déduction forfaitaire des
-cotisations patronales de sécurité sociale.
