@@ -1,6 +1,6 @@
 Article R233-13
 ----
-Pour l'application de l'article L. 233-9, les membres du corps des tribunaux
-administratifs et des cours administratives d'appel doivent, six mois au moins
-avant d'atteindre la limite d'âge, présenter leur demande en vue de renoncer à
-leur maintien en activité jusqu'à la fin du semestre considéré.
+Les lauréats sont affectés par ordre de classement, en recourant alternativement
+à chacune des deux listes des admis puis, le cas échéant, à chacune des deux
+listes complémentaires. La première liste à laquelle il est recouru est tirée au
+sort.

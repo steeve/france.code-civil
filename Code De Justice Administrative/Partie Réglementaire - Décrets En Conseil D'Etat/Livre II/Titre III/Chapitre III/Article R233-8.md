@@ -1,28 +1,28 @@
 Article R233-8
 ----
-L'ouverture du concours prévu par l'article L. 233-6 en vue du recrutement
-complémentaire de membres du corps des tribunaux administratifs et des cours
-administratives d'appel donne lieu à une publicité, notamment par la voie du
-Journal officiel de la République française, au moins un mois avant la date des
-épreuves écrites. Cette publicité indique la date des épreuves écrites, la date
-limite et le lieu de dépôt des candidatures.
+L'ouverture des concours prévus par l'article L. 233-6 en vue du recrutement
+direct des magistrats des tribunaux administratifs et des cours administratives
+d'appel donne lieu à une publicité, notamment par la voie du Journal officiel de
+la République française, au moins un mois avant la date des épreuves écrites.
+Cette publicité indique la date des épreuves écrites, la date limite et le lieu
+de dépôt des candidatures.
 
-Le jury est présidé par le chef de la mission permanente d'inspection des
-juridictions administratives et comprend un représentant du ministre de la
-justice, un représentant du ministre chargé de la fonction publique ainsi que
-deux professeurs titulaires d'université et deux membres du corps des tribunaux
-administratifs et des cours administratives d'appel nommés par arrêté du
-vice-président du Conseil d'Etat. Les membres du corps des tribunaux
-administratifs et des cours administratives d'appel sont nommés sur proposition
-du Conseil supérieur des tribunaux administratifs et des cours administratives
-d'appel.
+Le nombre total des places et leur répartition entre le concours externe et le
+concours interne sont fixés par arrêté du vice-président du Conseil d'Etat. Le
+nombre des places offertes à chaque concours est au plus égal à 60 % du nombre
+total de places.
 
-L'arrêté mentionné à l'alinéa précédent désigne le remplaçant du président dans
-le cas où celui-ci se trouverait dans l'impossibilité de poursuivre sa mission.
+Pour chaque concours, le jury peut ne pas pourvoir à toutes les places offertes.
+Toutefois, le jury peut, dans une proportion qui n'excède pas 20 % du nombre
+total de places offertes à l'un des concours, reporter les places auxquelles il
+n'a pas été pourvu au titre de l'autre concours.
 
-Des correcteurs adjoints peuvent être désignés par arrêté du vice-président du
-Conseil d'Etat pour participer, avec les membres du jury, à la correction des
-épreuves écrites.
+Le jury établit, par ordre de mérite, dans la limite des places offertes et
+compte tenu, le cas échéant, du report opéré dans les conditions prévues à
+l'alinéa précédent, la liste des candidats admis à chacun des deux concours.
 
-Ces correcteurs assistent aux délibérations du jury avec voix consultative pour
-l'attribution des notes se rapportant aux épreuves qu'ils ont corrigées.
+Le jury peut, pour chacun des concours, établir, par ordre de mérite, une liste
+complémentaire, pour le cas où des vacances résultant de démissions ou de décès
+viendraient à se produire sur la liste principale du même concours. Cette liste
+reste valable jusqu'au début de la formation complémentaire prévue par l'article
+R. 233-2.

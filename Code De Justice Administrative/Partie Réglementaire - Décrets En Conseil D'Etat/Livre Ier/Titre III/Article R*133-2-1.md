@@ -2,9 +2,9 @@ Article R*133-2-1
 ----
 S'ils avaient la qualité de fonctionnaire ou d'agent public non titulaire, les
 conseillers d'Etat et les maîtres des requêtes nommés en application des
-dispositions des articles L. 133-7 et L. 133-8 sont classés dans leur grade à
-l'échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à
-celui qu'ils détenaient dans leur situation d'origine.
+dispositions des articles L. 133-7, L. 133-8 et L. 133-12 sont classés dans leur
+grade à l'échelon comportant un traitement égal ou, à défaut, immédiatement
+supérieur à celui qu'ils détenaient dans leur situation d'origine.
 
 Dans la limite de l'ancienneté exigée pour une promotion à l'échelon supérieur
 du grade, ils conservent l'ancienneté d'échelon acquise dans leur précédent

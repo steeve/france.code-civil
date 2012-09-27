@@ -1,9 +1,8 @@
 Article R123-6
 ----
 Chaque section administrative est composée d'un président, de conseillers d'Etat
-en service ordinaire au nombre de six au minimum dont l'un choisi parmi les
-assesseurs des sous-sections de la section du contentieux, de conseillers d'Etat
-en service extraordinaire, de maîtres des requêtes et d'auditeurs.
+en service ordinaire au nombre de six au minimum, de conseillers d'Etat en
+service extraordinaire, de maîtres des requêtes et d'auditeurs.
 
 Un ou plusieurs conseillers d'Etat en service ordinaire affectés à la section
 sont nommés présidents adjoints de celle-ci par arrêté du vice-président pris

@@ -18,7 +18,11 @@ un délai dans lequel l'administration doit prendre les mesures d'exécution
 prescrites, la demande ne peut être présentée qu'à l'expiration de ce délai.
 
 Le président de la section du rapport et des études désigne un rapporteur au
-sein de cette section.
+sein de cette section. Celui-ci peut accomplir toutes diligences qu'il juge
+utiles pour assurer l'exécution de la décision juridictionnelle qui fait l'objet
+de la demande. Le comité mentionné à l'article R. 931-6 peut être saisi de
+l'affaire, pour avis, sur décision du président de la section du rapport et des
+études.
 
 Le cas échéant, il est fait mention de l'affaire dans le rapport annuel du
 Conseil d'Etat.
