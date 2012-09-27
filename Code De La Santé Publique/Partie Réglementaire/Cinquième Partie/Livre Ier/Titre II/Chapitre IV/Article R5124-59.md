@@ -3,17 +3,33 @@ Article R5124-59
 L'entreprise exerçant l'activité de grossiste-répartiteur déclare au directeur
 général de l'Agence nationale de sécurité du médicament et des produits de santé
 le territoire sur lequel chacun de ses établissements exerce son activité de
-répartition. Cette déclaration est effectuée au plus tard lors de l'ouverture de
-l'établissement ; elle est modifiée à l'occasion de tout changement de
-territoire de répartition.
+répartition. La déclaration du territoire de répartition envisagée est jointe au
+dossier accompagnant la demande d'autorisation d'ouverture mentionnée à
+l'article L. 5124-3.
+
+Le territoire déclaré est compatible avec les obligations prévues aux 1° et 2°
+ci-dessous. La demande de modification mentionnée au 9° de l'article R. 5124-10
+du territoire de répartition déclaré est accompagnée de tout élément
+d'information justifiant du respect des obligations prévues aux 1° et 2°
+ci-dessous pour l'ensemble du territoire de répartition. Le directeur général de
+l'agence peut demander tout élément justifiant du respect de ces obligations. Il
+peut refuser, par décision motivée et dans le délai prévu à l'article R.
+5124-10, tout ou partie de la modification demandée du territoire de répartition
+déclaré.
 
 Une commune dans laquelle l'établissement dessert habituellement au moins une
 officine de pharmacie ou une pharmacie à usage intérieur fait partie de ce
 territoire.
 
-L'entreprise dispose d'un assortiment de médicaments comportant au moins les
-neuf dixièmes des présentations de spécialités pharmaceutiques effectivement
-commercialisées en France, telles que définies au 1° ci-dessous.
+L'entreprise dispose, en vue de sa distribution, d'une manière effective et
+suffisante pour couvrir les besoins du territoire de répartition déclaré, d'un
+assortiment de médicaments comportant au moins les neuf dixièmes des
+présentations de spécialités pharmaceutiques effectivement commercialisées en
+France telles que définies au 1° ci-dessous.
+
+Les médicaments achetés par le grossiste-répartiteur ou cédés au
+grossiste-répartiteur sont distribués de manière à couvrir les besoins des
+patients en France, sur le territoire de répartition déclaré.
 
 Sur son territoire de répartition, l'établissement est tenu aux obligations de
 service public suivantes :
@@ -40,7 +56,8 @@ de l'article L. 5121-1 exploité en France à toute officine qui le lui demande 
 
 2° Le samedi, à partir de 14 heures, ainsi que le dimanche et les jours fériés,
 il est tenu de participer à un système d'astreinte inter-entreprises, permettant
-la mise à disposition de médicaments, afin de répondre :
+la livraison de médicaments dans les délais et au maximum dans les huit heures,
+afin de répondre :
 
 a) A la demande du préfet après avis du directeur général de l'agence régionale
 de santé, aux situations présentant un caractère d'urgence sanitaire, notamment
@@ -57,7 +74,8 @@ ministre de la santé définit ces conditions.
 
 Le tableau des astreintes est transmis semestriellement pour le semestre suivant
 par les organisations représentatives à l'agence régionale de santé
-territorialement compétente.
+territorialement compétente et à l'Agence nationale de sécurité du médicament et
+des produits de santé.
 
 Ces dispositions ne font pas obstacle à ce qu'un établissement livre
 exceptionnellement en cas d'urgence une officine de pharmacie ou une pharmacie à

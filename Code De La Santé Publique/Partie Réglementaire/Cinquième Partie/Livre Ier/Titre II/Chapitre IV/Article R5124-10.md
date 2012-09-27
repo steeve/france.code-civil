@@ -28,7 +28,10 @@ production et de contrôle de la qualité ;
 
 8° Les modifications des conditions de stockage des médicaments classés comme
 stupéfiants pour les distributeurs en gros mentionnés aux 4° à 15° de l'article
-R. 5124-2.
+R. 5124-2 ;
+
+9° La modification du territoire de répartition mentionné à l'article R.
+5124-59.
 
 Le directeur général de l'Agence nationale de sécurité du médicament et des
 produits de santé notifie sa décision au demandeur dans un délai de trente jours

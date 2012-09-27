@@ -28,7 +28,10 @@ s'agit d'un pharmacien chimiste des armées ;
 6° Il désigne les pharmaciens délégués intérimaires ;
 
 7° Il signale aux autres dirigeants de l'entreprise ou organisme tout obstacle
-ou limitation à l'exercice de ces attributions.
+ou limitation à l'exercice de ces attributions ;
+
+8° Il met en œuvre tous les moyens nécessaires en vue du respect des obligations
+prévues aux articles R. 5124-48 et R. 5124-48-1.
 
 Dans le cas où un désaccord portant sur l'application des règles édictées dans
 l'intérêt de la santé publique oppose un organe de gestion, d'administration, de
