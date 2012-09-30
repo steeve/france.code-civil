@@ -12,7 +12,10 @@ pouvoir de police ;
 
 3° D'un véhicule sur les emplacements réservés aux véhicules portant une carte
 de stationnement de modèle communautaire pour personne handicapée, ou un macaron
-grand invalide de guerre (GIG) ou grand invalide civil (GIC).
+grand invalide de guerre (GIG) ou grand invalide civil (GIC) ;
+
+4° D'un véhicule sur les emplacements réservés aux véhicules de transport de
+fonds, de bijoux ou de métaux précieux.
 
 II.-Tout arrêt ou stationnement gênant prévu par le présent article est puni de
 l'amende prévue pour les contraventions de la quatrième classe.
