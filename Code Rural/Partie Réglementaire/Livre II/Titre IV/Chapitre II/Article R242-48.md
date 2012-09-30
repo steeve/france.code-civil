@@ -16,15 +16,12 @@ tenant compte en particulier des relations affectives qui peuvent exister entre
 le maître et l'animal.
 
 IV. - Il assure lui-même ou par l'intermédiaire d'un de ses confrères la
-continuité des soins aux animaux qui lui sont confiés. Chaque domicile
-professionnel d'exercice déclaré auprès de l'ordre des vétérinaires est ouvert
-au moins pendant le temps de travail hebdomadaire prévu par la convention
-collective des vétérinaires salariés. Ce temps de travail tient compte du temps
-de travail effectué lors des visites à domicile du vétérinaire et peut être
-réparti entre plusieurs vétérinaires exerçant dans le domicile professionnel
-d'exercice. La continuité des soins peut également être assurée dans le cadre
-d'une convention établie entre vétérinaires libéraux et déposée auprès du
-conseil régional de l'ordre.
+continuité des soins aux animaux qui lui sont confiés. Ce temps de travail tient
+compte du temps de travail effectué lors des visites à domicile du vétérinaire
+et peut être réparti entre plusieurs vétérinaires exerçant dans le domicile
+professionnel d'exercice. La continuité des soins peut également être assurée
+dans le cadre d'une convention établie entre vétérinaires libéraux et déposée
+auprès du conseil régional de l'ordre.
 
 V. - Il informe le public des possibilités qui lui sont offertes de faire
 assurer ce suivi médical par un confrère.
