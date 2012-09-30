@@ -44,7 +44,7 @@ f) L'agrément prévu à l'article L. 510-1, lorsqu'il est exigé ;
 
 g) Une notice précisant l'activité économique qui doit être exercée dans le
 bâtiment et justifiant, s'il y a lieu, que cette activité répond aux critères
-définis par l'article R*146-2, lorsque la demande concerne un projet de
+définis par l'article R. 146-2, lorsque la demande concerne un projet de
 construction visé au d de cet article et situé dans un espace remarquable ou
 dans un milieu à préserver d'une commune littorale ;
 
@@ -64,4 +64,9 @@ recevant du public de plus de 100 personnes ou d'un immeuble de grande hauteur �
 proximité d'une canalisation de transport, dans la zone de dangers définie au
 premier tiret du b de l'article R. 555-30 du code de l'environnement, l'analyse
 de compatibilité du projet avec la canalisation du point de vue de la sécurité
-des personnes prévue à l'article R. 555-31 du même code.
+des personnes prévue à l'article R. 555-31 du même code ;
+
+k) Le récépissé de transmission du dossier à la commission départementale de la
+sécurité des transports de fonds, lors de la construction d'un bâtiment
+comportant un lieu sécurisé défini à l'article 1er-1 du décret n° 2000-376 du 28
+avril 2000.

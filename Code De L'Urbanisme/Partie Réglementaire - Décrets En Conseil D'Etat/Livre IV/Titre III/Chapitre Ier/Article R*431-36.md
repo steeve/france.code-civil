@@ -19,11 +19,12 @@ susceptible, en raison de son emplacement et de sa hauteur, de constituer un
 obstacle à la navigation aérienne.
 
 Il est complété, s'il y a lieu, par les documents mentionnés aux a et b de
-l'article R*431-10, aux articles R*431-14 et R*431-15, aux b et g de l'article
-R*431-16 et aux articles R*431-21, R*431-25 et R*431-31 à R*431-33.
+l'article R. 431-10, aux articles R. 431-14 et R. 431-15, aux b, g et k de
+l'article R. 431-16 et aux articles R. 431-21, R. 431-25 et R. 431-31 à R.
+431-33.
 
 Lorsque la déclaration porte sur un projet de création ou de modification d'une
 construction et que ce projet est visible depuis l'espace public ou que ce
 projet est situé dans le périmètre de protection d'un immeuble classé ou inscrit
 au titre des monuments historiques, le dossier comprend également les documents
-mentionnés aux c et d de l'article R*431-10.
+mentionnés aux c et d de l'article R. 431-10.
