@@ -70,3 +70,23 @@ des affections en cause.
 
 d) Sur les actes médicaux et examens biologiques que requiert le suivi des
 affections relevant du 10° de l'article L. 322-3.
+
+4° Etablit et diffuse des recommandations et avis médico-économiques sur les
+stratégies de prévention, de soins, de prescription ou de prise en charge les
+plus efficientes et contribue à leur comparaison ou leur hiérarchisation dans un
+objectif de santé publique et d'optimisation des dépenses d'assurance maladie.
+
+Elle définit et rend publics :
+
+a) Les méthodologies d'évaluation médico-économique adaptées aux différentes
+activités de prévention et de soins en prenant en compte l'efficacité, la
+qualité, la sécurité, l'organisation et les coûts de la prévention et des soins
+ainsi que leur intérêt pour la santé publique, la qualité de vie des patients,
+l'amélioration de l'égal accès à la prévention et aux soins et le respect des
+principes éthiques ;
+
+b) Les modalités et critères d'évaluation médico-économique applicables dans
+l'exercice des missions mentionnées à l'article L. 161-37 et réalise, le cas
+échéant, les évaluations médico-économiques requises. A ces fins, elle s'appuie,
+en tant que de besoin, sur les travaux émanant d'autorités scientifiques ou
+d'organismes français ou étrangers.

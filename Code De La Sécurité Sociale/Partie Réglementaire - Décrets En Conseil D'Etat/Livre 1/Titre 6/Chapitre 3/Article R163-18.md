@@ -34,7 +34,9 @@ L'avis comporte l'appréciation de l'amélioration du service médical rendu
 apportée par le médicament par rapport à ceux mentionnés ci-dessus et figurant
 sur la (ou les) liste (s) sur lesquelles l'inscription est sollicitée ; cette
 appréciation doit porter distinctement sur chacune des indications
-thérapeutiques mentionnées au 1° ci-dessus ;
+thérapeutiques mentionnées au 1° ci-dessus. L'amélioration du service médical
+rendu apportée par le médicament peut être majeure, importante, modérée, mineure
+ou inexistante ;
 
 3° Lors du renouvellement de l'inscription des médicaments sur la liste prévue
 au premier alinéa de l'article L. 162-17, la réévaluation du service médical
