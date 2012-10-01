@@ -8,9 +8,9 @@ et des dispositions suivantes :
 suivantes :
 
 a) Au premier alinéa, les mots : " articles L. 143-10, L. 143-11, L. 742-6 et L.
-751-15 du code du travail " sont remplacés par les mots : " articles L. 143-9 et
-L. 143-10 du code du travail applicable dans la collectivité départementale de
-Mayotte " ;
+751-15 du code du travail " sont remplacés par les mots : " articles L. 143-17
+et L. 143-18 du code du travail applicable dans la collectivité départementale
+de Mayotte " ;
 
 b) Le troisième alinéa n'est pas applicable ;
 
