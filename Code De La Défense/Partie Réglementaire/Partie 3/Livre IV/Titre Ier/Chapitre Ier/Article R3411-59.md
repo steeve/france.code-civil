@@ -1,7 +1,7 @@
 Article R3411-59
 ----
-I. ― L'Ecole nationale supérieure des ingénieurs des études et techniques
-d'armement admet dans son cycle de formation d'ingénieurs, en qualité d'élèves :
+I. ― L'Ecole nationale supérieure de techniques avancées Bretagne admet dans son
+cycle de formation d'ingénieurs, en qualité d'élèves :
 
 1° Les élèves ingénieurs des études et techniques d'armement recrutés par la
 voie du concours prévu à l'article 8 du décret n° 79-1135 du 27 décembre 1979
@@ -24,13 +24,13 @@ contrôle des connaissances et les conditions d'obtention du diplôme de l'écol
 sont fixées, pour la totalité des élèves et des auditeurs, dans les mêmes
 conditions.
 
-II. ― L'Ecole nationale supérieure des ingénieurs des études et techniques
-d'armement accueille également dans ses formations de troisième cycle et ses
-enseignements de spécialisation des stagiaires et des auditeurs. Les modalités
-de recrutement, l'organisation de la scolarité et les conditions de délivrance
-des diplômes sanctionnant ces formations et enseignements sont fixées dans les
-mêmes conditions qu'au I ci-dessus ; elles doivent, dans le cas des formations
-de troisième cycle, respecter la réglementation nationale en vigueur.
+II. ― L'Ecole nationale supérieure de techniques avancées Bretagne accueille
+également dans ses formations de troisième cycle et ses enseignements de
+spécialisation des stagiaires et des auditeurs. Les modalités de recrutement,
+l'organisation de la scolarité et les conditions de délivrance des diplômes
+sanctionnant ces formations et enseignements sont fixées dans les mêmes
+conditions qu'au I ci-dessus ; elles doivent, dans le cas des formations de
+troisième cycle, respecter la réglementation nationale en vigueur.
 
 III. ― Les élèves, auditeurs et stagiaires sont désignés dans les dispositions
 de la présente section sous l'appellation d'étudiants.

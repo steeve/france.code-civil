@@ -1,10 +1,10 @@
 Article D3411-68
 ----
-Le conseil de la formation de l'Ecole nationale supérieure des ingénieurs des
-études et techniques d'armement comprend : 1° Le directeur de l'école ou son
-représentant, président ; 2° Le directeur scientifique ; 3° Trois représentants
-de l'administration de l'école choisis parmi les responsables de l'organisation
-et de la réalisation des formations à l'école. La liste de ces représentants est
+Le conseil de la formation de l'Ecole nationale supérieure de techniques
+avancées Bretagne comprend : 1° Le directeur de l'école ou son représentant,
+président ; 2° Le directeur scientifique ; 3° Trois représentants de
+l'administration de l'école choisis parmi les responsables de l'organisation et
+de la réalisation des formations à l'école. La liste de ces représentants est
 arrêtée par le directeur, après avis du conseil d'administration ; 4° Trois
 représentants du personnel enseignant de l'école désignés par ce personnel ; 5°
 Trois représentants de la direction générale de l'armement ; 6° Cinq

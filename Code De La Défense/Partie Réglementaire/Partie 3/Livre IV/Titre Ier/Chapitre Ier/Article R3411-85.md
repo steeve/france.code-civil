@@ -1,8 +1,8 @@
 Article R3411-85
 ----
-Le conseil de discipline de l'Ecole nationale supérieure des ingénieurs des
-études et techniques d'armement est chargé d'examiner le cas des étudiants ayant
-enfreint les dispositions du règlement intérieur ou du règlement de scolarité de
+Le conseil de discipline de l'Ecole nationale supérieure de techniques avancées
+Bretagne est chargé d'examiner le cas des étudiants ayant enfreint les
+dispositions du règlement intérieur ou du règlement de scolarité de
 l'établissement. Le conseil de discipline comprend : 1° Le directeur de l'école
 ou le directeur adjoint, président ; 2° Deux membres désignés par le conseil
 d'administration parmi les personnels occupant dans l'école des fonctions de
