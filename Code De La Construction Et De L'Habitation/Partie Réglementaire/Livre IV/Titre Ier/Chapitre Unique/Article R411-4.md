@@ -10,9 +10,12 @@ cotisation prévue à l'article L. 452-4.
 Sous réserve des dispositions du troisième alinéa, les personnes morales de
 droit public autres que celles visées au huitième alinéa de l'article L. 411-10
 et les personnes privées chargées d'une mission de service public dans le
-domaine du logement peuvent, pour les besoins d'une telle mission, obtenir en
-outre communication, à leur demande et selon les mêmes modalités, des autres
-informations mentionnées à l'article R. 411-3.
+domaine du logement, de l'aménagement ou de la construction peuvent, pour les
+besoins d'une telle mission, obtenir en outre communication, à leur demande et
+selon les mêmes modalités, des autres informations mentionnées à l'article R.
+411-3. L'association nationale et les associations départementales d'information
+sur le logement prévues à l'article L. 366-1 ont accès dans les mêmes conditions
+à ces informations.
 
 Les bailleurs mentionnés à l'article L. 411-10 et leurs unions, fédérations et
 associations bénéficient du droit d'accès prévu à l'alinéa précédent, sous

@@ -11,13 +11,16 @@ suivantes :
 a) Identifiant du logement dans le répertoire tenu par l'administration et
 identifiant interne au système d'information du bailleur ;
 
-b) Informations relatives à l'identité du bailleur ;
+b) Informations relatives à l'identité du bailleur et, le cas échéant, à
+l'identité du gestionnaire ;
 
 c) Informations relatives à l'identité du précédent bailleur, en cas d'entrée du
 logement dans le patrimoine du bailleur au cours de l'année civile précédente ;
 
-d) Localisation et caractéristiques principales du logement, y compris, le cas
-échéant, les éléments de diagnostic de performance énergétique ;
+d) Localisation, caractéristiques principales et équipements techniques du
+logement, y compris, le cas échéant, les éléments de diagnostic de performance
+énergétique et les informations relatives aux segments de patrimoine mentionnés
+à l'article R. 445-2-1 ;
 
 e) Année et mode d'entrée dans le patrimoine du bailleur, type de droit du
 bailleur sur le logement, transfert de propriété ou d'usufruit au cours de
@@ -33,14 +36,22 @@ loyers ont été fixés en tenant compte du classement des immeubles ou groupe
 d'immeubles mentionné à l'article L. 445-1, dans le cadre de la convention
 d'utilité sociale mentionnée au même article ;
 
-h) Mode d'occupation du logement au 1er janvier de l'année en cours, survenue
-éventuelle d'un emménagement au cours de l'année civile précédente ;
+h) Mode d'occupation du logement au 1er janvier de l'année en cours, dernière
+date à laquelle le logement a pu être offert à la location et date de prise
+d'effet du bail en cours ;
 
 i) Informations relatives au loyer, avant toute modulation liée à la situation
 du locataire, et à son mode de calcul ;
 
 j) Données complémentaires pour les logements entrant dans le champ de
-l'inventaire établi au titre de l'article L. 302-5.
+l'inventaire établi au titre de l'article L. 302-5 ;
+
+k) Pour les logements soumis aux dispositions de l'article L. 443-11,
+informations relatives à la mise en commercialisation effective au cours de
+l'année civile précédente et conditions financières de la vente du logement ;
+
+l) Informations relatives au contingent d'appartenance pour les logements
+réservés au sens de l'article R. 441-5.
 
 La liste détaillée des informations ainsi que leurs modalités de collecte et de
 transmission sont fixées par arrêté conjoint du ministre chargé du logement et
