@@ -23,7 +23,9 @@ article ;
 pour les personnes mentionnées au 7° du même article ;
 
 3° Par dérogation aux 1° et 2°, quel que soit le montant de l'opération,
-lorsqu'elles réalisent une opération de transfert de fonds ou offrent des
+lorsqu'elles réalisent une opération de transfert de fonds ou une opération de
+change manuel alors que le client ou son représentant légal n'est pas
+physiquement présent aux fins de l'identification, ou lorsqu'elles offrent des
 services de garde des avoirs ;
 
 4° Par dérogation aux 1° et 2°, quel que soit le montant de l'opération, pour

@@ -30,14 +30,16 @@ moment du départ à la retraite, tels ceux mentionnés aux articles L. 132-23, 
 222-1, L. 222-2 et L. 223-22 du code de la mutualité et aux articles L. 911-1,
 L. 932-1, L. 932-14 et L. 932-24 du code de la sécurité sociale ;
 
-5° La monnaie électronique, pour autant que la capacité maximale du support ne
-soit pas supérieure à 250 euros si le support ne peut pas être rechargé ou, si
-le support peut être rechargé, pour autant qu'une limite de 2 500 euros soit
-fixée pour le montant total des opérations sur une année civile. Toutefois, dès
-qu'une demande de remboursement porte sur un montant unitaire ou sur un montant
-global d'au moins 2 500 euros au cours de la même année civile, les personnes
-mentionnées à l'article L. 561-2 sont tenues de respecter les obligations
-prévues aux articles L. 561-5 et L. 561-6 ;
+5° La monnaie électronique ayant vocation à être utilisée uniquement pour
+l'acquisition de biens ou de services, à l'exclusion des opérations mentionnées
+au 3° du II de l'article R. 561-10, pour autant que la capacité maximale du
+support ne soit pas supérieure à 250 euros si le support ne peut pas être
+rechargé ou, si le support peut être rechargé, pour autant qu'une limite de 2
+500 euros soit fixée pour le montant total des opérations sur une année civile.
+Toutefois, dès qu'une demande de remboursement porte sur un montant unitaire ou
+sur un montant global d'au moins 2 500 euros au cours de la même année civile,
+les personnes mentionnées à l'article L. 561-2 sont tenues de respecter les
+obligations prévues aux articles L. 561-5 et L. 561-6 ;
 
 6° Les financements d'actifs physiques dont la propriété n'est pas transférée au
 client ou ne peut l'être qu'à la cessation de la relation contractuelle et dont
