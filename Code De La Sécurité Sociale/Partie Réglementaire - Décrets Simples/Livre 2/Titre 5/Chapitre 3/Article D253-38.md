@@ -1,19 +1,12 @@
 Article D253-38
 ----
-Les dépenses des organismes de sécurité sociale, et notamment les retraits
-opérés sur le compte de disponibilités courantes mentionné à l'article D.
-253-37, interviennent dans la limite d'un échéancier des besoins établi par
-chaque organisme payeur et approuvé par l'Agence centrale des organismes de
-sécurité sociale dans les conditions fixées par le ministre chargé de la
-sécurité sociale ;
+L'agent comptable doit veiller à ce que les comptes courants soient
+régulièrement approvisionnés en fonction des décaissements effectifs attendus et
+à ce que les échéanciers mentionnés à l'article D. 225-1 qu'il transmet à
+l'Agence centrale des organismes de sécurité sociale, déterminés en fonction du
+calendrier des sommes dues et des recettes prévisibles au cours de la période
+considérée, présentent la meilleure fiabilité.
 
-L'échéancier est déterminé en fonction du calendrier des sommes dues par les
-organismes payeurs et de leurs recettes diverses prévisibles au cours de la
-période considérée.
-
-La périodicité et le mode de présentation des échéanciers sont fixés par
-instruction de l'Agence centrale des organismes de sécurité sociale.
-
-L'agent comptable doit veiller à ce que les comptes externes de disponibilités
-soient régulièrement approvisionnés en fonction des décaissements effectifs
-attendus.
+Il doit donner sans délai toute explication à l'Agence centrale des organismes
+de sécurité sociale lorsque celle-ci signale une anomalie dans les demandes de
+paiement qui lui sont adressées pour l'application du 2° de l'article D. 225-1.
