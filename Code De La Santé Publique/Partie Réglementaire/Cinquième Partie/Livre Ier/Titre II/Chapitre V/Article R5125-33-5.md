@@ -42,5 +42,5 @@ annexée.
 
 Il informe le médecin prescripteur de l'ajustement de la posologie.
 
-Le dossier pharmaceutique du patient, mentionné à l'article R. 161-58-1 du code
-de la sécurité sociale, lorsqu'il existe, prend en compte tous ces éléments.
+Le dossier pharmaceutique du patient, mentionné à l'article R. 1111-20-1,
+lorsqu'il existe, prend en compte tous ces éléments.
