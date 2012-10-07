@@ -16,7 +16,12 @@ le prix fixé, soit, le cas échéant, les seules indications thérapeutiques,
 diagnostiques ou de compensation du handicap dans lesquelles ils sont pris en
 charge ou les conditions de prescription et d'utilisation ;
 
-b) Ou dont la commercialisation est suspendue ou interrompue.
+b) Ou dont la commercialisation est suspendue ou interrompue ;
+
+c) Ou qui ont donné lieu à la constatation par l'Agence nationale de sécurité du
+médicament et des produits de santé d'un manquement aux spécifications
+techniques requises pour l'inscription sur la liste mentionnée à l'article L.
+165-1, à l'issue de la procédure prévue au III de l'article R. 165-47.
 
 La radiation d'un produit ou d'une prestation de la liste des produits ou
 prestations remboursables est prononcée par le ministre chargé de la sécurité
