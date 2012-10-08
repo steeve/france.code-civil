@@ -54,14 +54,14 @@ les dispositions nécessaires dans les conventions d'accès et d'interconnexion,
 des tarifs reflétant les coûts correspondants.
 
 Les offres mentionnées à l'alinéa précédent doivent permettre à l'abonné qui le
-demande de changer d'opérateur tout en conservant son numéro dans un délai
-maximum de dix jours, sauf demande expresse de l'abonné. La demande de
+demande de changer d'opérateur tout en conservant son numéro. La demande de
 conservation du numéro, adressée par l'abonné à l'opérateur auprès duquel il
 souscrit un nouveau contrat, est transmise par ce dernier à l'opérateur de
-l'abonné. Sans préjudice des dispositions contractuelles relatives aux durées
-minimales d'engagement, le portage effectif du numéro entraîne la résiliation du
-contrat qui lie cet opérateur à l'abonné au plus tard dans le délai de dix jours
-précité.
+l'abonné. Le délai de portage est d'un jour ouvrable, sous réserve de la
+disponibilité de l'accès, sauf demande expresse de l'abonné. Sans préjudice des
+dispositions contractuelles relatives aux durées minimales d'engagement, le
+portage effectif du numéro entraîne de manière concomitante la résiliation du
+contrat qui lie cet opérateur à l'abonné.
 
 Tout retard ou abus dans la prestation de conservation du numéro donne lieu à
 indemnisation de l'abonné.

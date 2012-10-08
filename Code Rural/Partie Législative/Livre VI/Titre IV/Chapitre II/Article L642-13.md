@@ -1,8 +1,10 @@
 Article L642-13
 ----
-Il est établi au profit de l'Institut national de l'origine et de la qualité,
-ci-après dénommé l'institut, un droit sur les produits bénéficiant d'une
-appellation d'origine ou d'une indication géographique.
+Il est établi un droit sur les produits bénéficiant d'une appellation d'origine
+ou d'une indication géographique. Ce droit est affecté à l'Institut national de
+l'origine et de la qualité, ci-après dénommé "l'institut”, dans la limite du
+plafond mentionné au I de l'article 46 de la loi n° 2011-1977 du 28 décembre
+2011 de finances pour 2012.
 
 Les taux des droits sont fixés sur proposition du conseil permanent de
 l'institut et après avis du comité national compétent, par arrêté du ministre

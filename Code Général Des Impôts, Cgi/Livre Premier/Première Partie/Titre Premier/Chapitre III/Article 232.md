@@ -1,6 +1,6 @@
 Article 232
 ----
-I. - Il est institué, à compter du 1er janvier 1999, une taxe annuelle sur les
+I.-Il est institué, à compter du 1er janvier 1999, une taxe annuelle sur les
 logements vacants dans les communes appartenant à des zones d'urbanisation
 continue de plus de deux cent mille habitants où existe un déséquilibre marqué
 entre l'offre et la demande de logements, au détriment des personnes à revenus
@@ -9,29 +9,31 @@ demandeurs de logement par rapport au parc locatif et la proportion anormalement
 élevée de logements vacants par rapport au parc immobilier existant. Un décret
 fixe la liste des communes où la taxe est instituée.
 
-II. - La taxe est due pour chaque logement vacant depuis au moins deux années
+II.-La taxe est due pour chaque logement vacant depuis au moins deux années
 consécutives, au 1er janvier de l'année d'imposition, à l'exception des
 logements détenus par les organismes d'habitations à loyer modéré et les
 sociétés d'économie mixte et destinés à être attribués sous conditions de
 ressources.
 
-III. - La taxe est acquittée par le propriétaire, l'usufruitier, le preneur à
-bail à construction ou à réhabilitation ou l'emphytéote qui dispose du logement
+III.-La taxe est acquittée par le propriétaire, l'usufruitier, le preneur à bail
+à construction ou à réhabilitation ou l'emphytéote qui dispose du logement
 depuis le début de la période de vacance mentionnée au II.
 
-IV. - L'assiette de la taxe est constituée par la valeur locative du logement
+IV.-L'assiette de la taxe est constituée par la valeur locative du logement
 mentionnée à l'article 1409. Son taux est fixé à 10 % la première année
 d'imposition, 12,5 % la deuxième année et 15 % à compter de la troisième année.
 
-V. - Pour l'application de la taxe, n'est pas considéré comme vacant un logement
+V.-Pour l'application de la taxe, n'est pas considéré comme vacant un logement
 dont la durée d'occupation est supérieure à trente jours consécutifs au cours de
 chacune des deux années de la période de référence définie au II.
 
-VI. - La taxe n'est pas due en cas de vacance indépendante de la volonté du
+VI.-La taxe n'est pas due en cas de vacance indépendante de la volonté du
 contribuable.
 
-VII. - Le contrôle, le recouvrement, le contentieux, les garanties et les
+VII.-Le contrôle, le recouvrement, le contentieux, les garanties et les
 sanctions de la taxe sont régis comme en matière de taxe foncière sur les
 propriétés bâties.
 
-VIII. - Le produit net de la taxe est versé à l'Agence nationale de l'habitat.
+VIII.-Le produit de la taxe est versé à l'Agence nationale de l'habitat dans la
+limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28
+décembre 2011 de finances pour 2012.

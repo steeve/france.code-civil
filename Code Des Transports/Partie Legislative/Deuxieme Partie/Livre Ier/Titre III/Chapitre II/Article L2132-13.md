@@ -15,3 +15,7 @@ auprès du comptable public de l'Autorité de régulation des activités
 ferroviaires. Ce droit est constaté et recouvré dans les mêmes délais et sous
 les mêmes garanties et sanctions que ceux applicables en matière de taxes sur le
 chiffre d'affaires.
+
+Le produit de ce droit est affecté à l'Autorité de régulation des activités
+ferroviaires dans la limite du plafond prévu au I de l'article 46 de la loi n°
+2011-1977 du 28 décembre 2011 de finances pour 2012.

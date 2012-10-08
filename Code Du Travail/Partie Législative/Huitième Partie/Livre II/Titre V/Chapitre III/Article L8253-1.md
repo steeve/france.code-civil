@@ -15,4 +15,7 @@ Elle est recouvrée par l'Etat comme en matière de créances étrangères à l'
 et au domaine.
 
 Les sommes recouvrées par l'Etat pour le compte de l'Office français de
-l'immigration et de l'intégration lui sont reversées.
+l'immigration et de l'intégration lui sont reversées dans la limite du plafond
+fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances
+pour 2012. L'Etat prélève 4 % des sommes reversées au titre des frais de
+recouvrement.

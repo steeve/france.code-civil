@@ -40,67 +40,67 @@ POURCENTAGE
 
 Ain
 
-0,880 1
+0,875 2
 
 
 Aisne
 
-0,706 3
+0,700 7
 
 
 Allier
 
-0,968 3
+0,960 8
 
 
 Alpes-de-Haute-Provence
 
-0,323 1
+0,324 3
 
 
 Hautes-Alpes
 
-0,241 3
+0,239 9
 
 
 Alpes-Maritimes
 
-1,352 4
+1,357 2
 
 
 Ardèche
 
-0,869 3
+0,865 1
 
 
 Ardennes
 
-0,628 8
+0,623 2
 
 
 Ariège
 
-0,425 4
+0,422 4
 
 
 Aube
 
-0,456 1
+0,455 9
 
 
 Aude
 
-0,925 4
+0,919 0
 
 
 Aveyron
 
-0,606 9
+0,603 0
 
 
 Bouches-du-Rhône
 
-3,358 6
+3,420 1
 
 
 Calvados
@@ -110,155 +110,155 @@ Calvados
 
 Cantal
 
-0,346 7
+0,344 3
 
 
 Charente
 
-0,886 9
+0,885 9
 
 
 Charente-Maritime
 
-0,717 2
+0,713 8
 
 
 Cher
 
-0,496 9
+0,493 4
 
 
 Corrèze
 
-0,535 3
+0,534 1
 
 Côte-d'Or
 
-0,341 1
+0,344 5
 
 Côtes-d'Armor
 
-1,355 7
+1,346 8
 
 
 Creuse
 
-0,273 9
+0,272 4
 
 
 Dordogne
 
-0,706 1
+0,702 5
 
 
 Doubs
 
-1,243 5
+1,235 0
 
 
 Drôme
 
-1,289 1
+1,276 9
 
 
 Eure
 
-0,547 3
+0,541 1
 
 
 Eure-et-Loir
 
-0,583 6
+0,581 8
 
 
 Finistère
 
-1,545 5
+1,541 2
 
 
 Corse-du-Sud
 
-0,604 9
+0,602 1
 
 
 Haute-Corse
 
-0,448 5
+0,446 4
 
 
 Gard
 
-1,603 2
+1,603 5
 
 
 Haute-Garonne
 
-2,214 7
+2,195 0
 
 
 Gers
 
-0,515 0
+0,519 5
 
 
 Gironde
 
-1,955 6
+1,966 2
 
 
 Hérault
 
-1,867 8
+1,883 7
 
 
 Ille-et-Vilaine
 
-1,839 6
+1,897 6
 
 
 Indre
 
-0,319 2
+0,317 7
 
 
 Indre-et-Loire
 
-0,431 9
+0,433 1
 
 
 Isère
 
-3,065 7
+3,191 0
 
 
 Jura
 
-0,605 2
+0,602 6
 
 
 Landes
 
-0,894 7
+0,8946
 
 
 Loir-et-Cher
 
-0,450 7
+0,450 0
 
 
 Loire
 
-1,734 2
+1,723 2
 
 
 Haute-Loire
 
-0,549 7
+0,545 4
 
 
-Loire-Atlantque
+Loire-Atlantique
 
-1,694 0
+1,689 7
 
 
 Loiret
@@ -268,27 +268,27 @@ Loiret
 
 Lot
 
-0,338 8
+0,345 1
 
 
 Lot-et-Garonne
 
-0,637 5
+0,633 2
 
 
 Lozère
 
-0,083 7
+0,083 2
 
 
 Maine-et-Loire
 
-0,475 6
+0,472 6
 
 
 Manche
 
-1,032 8
+1,027 5
 
 
 Marne
@@ -298,87 +298,87 @@ Marne
 
 Haute-Marne
 
-0,337 4
+0,330 7
 
 
 Mayenne
 
-0,558 7
+0,557 4
 
 
 Meurthe-et-Moselle
 
-1,698 7
+1,694 7
 
 
 Meuse
 
-0,421 6
+0,423 2
 
 
 Morbihan
 
-1,023 7
+1,025 2
 
 
 Moselle
 
-1,374 6
+1,370 5
 
 
 Nièvre
 
-0,699 9
+0,695 3
 
 
 Nord
 
-5,102 7
+5,066 9
 
 
 Oise
 
-1,499 0
+1,490 2
 
 
 Orne
 
-0,378 4
+0,375 6
 
 
 Pas-de-Calais
 
-3,793 5
+3,761 4
 
 
 Puy-de-Dôme
 
-0,929 0
+0,924 7
 
 
 Pyrénées-Atlantiques
 
-1,117 4
+1,114 6
 
 
 Hautes-Pyrénées
 
-0,697 6
+0,692 7
 
 
 Pyrénées-Orientales
 
-1,125 2
+1,145 4
 
 
 Bas-Rhin
 
-1,987 2
+1,980 1
 
 
 Haut-Rhin
 
-2,001 9
+1,984 6
 
 
 Rhône
@@ -388,27 +388,27 @@ Rhône
 
 Haute-Saône
 
-0,410 1
+0,407 0
 
 
-Saône-et-loire
+Saône-et-Loire
 
-1,009 1
+1,002 7
 
 
 Sarthe
 
-1,029 8
+1,021 5
 
 
 Savoie
 
-0,936 7
+0,931 5
 
 
 Haute-Savoie
 
-1,210 4
+1,208 6
 
 
 Paris
@@ -418,12 +418,12 @@ Paris
 
 Seine-Maritime
 
-2,124 8
+2,105 6
 
 
 Seine-et-Marne
 
-1,671 7
+1,661 4
 
 
 Yvelines
@@ -433,67 +433,67 @@ Yvelines
 
 Deux-Sèvres
 
-0,576 8
+0,570 9
 
 
 Somme
 
-1,488 7
+1,472 5
 
 
 Tarn
 
-0,9079
+0,903 7
 
 
 Tarn-et-Garonne
 
-0,553 5
+0,557 7
 
 
 Var
 
-1,420 4
+1,418 6
 
 
 Vaucluse
 
-1,365 2
+1,365 4
 
 
 Vendée
 
-1,405 6
+1,512 5
 
 
 Vienne
 
-0,520 1
+0,518 1
 
 
 Haute-Vienne
 
-0,689 6
+0,684 9
 
 
 Vosges
 
-1,298 5
+1,288 0
 
 
 Yonne
 
-0,576 0
+0,571 5
 
 
 Territoire de Belfort
 
-0,269 8
+0,268 0
 
 
 Essonne
 
-2,367 9
+2,356 9
 
 
 Hauts-de-Seine
@@ -503,31 +503,31 @@ Hauts-de-Seine
 
 Seine-Saint-Denis
 
-3,384 0
+3,371 4
 
 
 Val-de-Marne
 
-1,885 3
+1,887 3
 
 Val-d'Oise
 
-1,005 9
+1,012 3
 
 
 Guadeloupe
 
-0,562 3
+0,561 6
 
 
 Martinique
 
-0,228 7
+0,229 6
 
 
 Guyane
 
-0,380 7
+0,374 3
 
 
 La Réunion
