@@ -13,21 +13,6 @@ II. - L'activité d'un centre de contrôle doit s'exercer dans des locaux
 n'abritant aucune activité de réparation ou de commerce automobile et ne
 communiquant avec aucun local abritant une telle activité.
 
-Toutefois, afin d'assurer une meilleure couverture géographique, de répondre aux
-besoins des usagers ou, s'agissant des véhicules lourds, de réduire les
-déplacements, un réseau de contrôle agréé peut utiliser des installations
-auxiliaires situées dans des locaux abritant des activités de réparation ou de
-commerce automobile. Il doit pour cela obtenir un agrément particulier.
-
-Une convention de mise à disposition à titre onéreux est passée entre le réseau
-et l'exploitant de ces installations.
-
-Lorsqu'un véhicule est contrôlé dans une installation auxiliaire, il ne doit
-faire l'objet d'aucune réparation pendant la durée de ce contrôle.
-
-Les installations auxiliaires font l'objet d'une surveillance spéciale de la
-part des fonctionnaires ou agents de l'Etat cités au I de l'article R. 323-21.
-
 III. - Sur la demande du ministre chargé des transports, le titulaire de
 l'agrément des installations d'un centre de contrôle met l'une ou plusieurs de
 ces installations à la disposition des fonctionnaires ou agents de l'Etat

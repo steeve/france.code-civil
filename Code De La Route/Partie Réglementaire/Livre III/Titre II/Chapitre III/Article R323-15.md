@@ -3,10 +3,6 @@ Article R323-15
 I. - Lorsqu'un centre de contrôle agréé est rattaché à un réseau agréé, il ne
 peut dépendre que d'un seul réseau de contrôle.
 
-De même, une installation auxiliaire ne peut être rattachée qu'à un seul réseau.
-Elle ne doit être utilisée, dans le cadre du contrôle technique, que par des
-contrôleurs relevant de ce réseau.
-
 II. - Les contrôles techniques effectués sur des véhicules lourds appartenant à
 une même personne physique ou morale ne doivent pas représenter, chaque année,
 plus de 10 % de l'activité de contrôle technique des véhicules lourds d'un

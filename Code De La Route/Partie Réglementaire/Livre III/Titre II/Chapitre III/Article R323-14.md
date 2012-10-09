@@ -25,23 +25,7 @@ Le dossier de demande comporte, en outre, l'avis du réseau de contrôle agréé
 lorsque le centre de contrôle est rattaché à un réseau, ou l'avis de l'organisme
 technique central dans le cas contraire.
 
-II. - L'agrément particulier des installations auxiliaires est délivré au réseau
-qui les utilise par le préfet du département où sont implantées les
-installations après avis favorable de l'organisme technique central.
-
-La demande d'agrément indique l'identité du demandeur, son statut juridique et
-les catégories de contrôles techniques qui seront effectuées dans les
-installations. Elle est accompagnée d'un document par lequel le réseau s'engage
-à respecter les prescriptions d'un cahier des charges. Cet engagement décrit
-notamment l'organisation et les moyens techniques mis en oeuvre pour assurer en
-permanence la qualité et l'objectivité des contrôles techniques effectués. Le
-demandeur doit s'engager à établir tous les documents se rapportant à son
-activité prescrits par le ministre chargé des transports et à faciliter la
-mission des agents désignés par lui pour surveiller le bon fonctionnement des
-installations de contrôle.
-
-Pour le contrôle technique des véhicules lourds, l'agrément des installations
-auxiliaires est délivré pour une durée de quatre ans renouvelable.
+II. - (Abrogé).
 
 III. - Les agréments des installations de contrôle, ainsi que toutes les mesures
 affectant leur validité, sont inscrits dans un registre national qui est élaboré
