@@ -1,0 +1,86 @@
+Article D1421-1
+----
+La direction générale de la santé prépare la politique de santé publique définie
+à l'article L. 1411-1 et contribue à sa mise en œuvre, en liaison avec les
+autres directions et services du ministère chargé de la santé et des autres
+départements ministériels compétents, de leurs services déconcentrés et des
+établissements ou organismes qui en dépendent.
+
+A ce titre :
+
+1° A partir des analyses stratégiques et prospectives qu'elle conduit et des
+travaux de recherche qu'elle promeut, elle propose les objectifs et les
+priorités de la politique de santé publique en veillant, notamment, à la
+prévention des risques, à l'amélioration de l'état de santé général de la
+population, à l'égal accès au système de santé ainsi qu'à la qualité et à la
+sécurité de ce dernier et à la qualité de vie des personnes malades. Elle
+élabore les textes législatifs et réglementaires ;
+
+2° Elle élabore des plans de santé publique et des programmes nationaux de santé
+; elle veille à leur mise en œuvre. Elle définit les indicateurs permettant d'en
+suivre et d'en évaluer la réalisation ;
+
+Elle élabore et contribue à mettre en œuvre la politique de santé propre aux
+différents âges de la vie. Elle propose les objectifs et assure le suivi des
+politiques de santé mentale. Elle est chargée du volet sanitaire de la politique
+de lutte contre les pratiques addictives. Elle conduit la politique de
+prévention des maladies chroniques et des cancers. Elle participe à la mise en
+œuvre des politiques de lutte contre la douleur et d'accompagnement de la fin de
+vie. Elle apporte son concours à la protection de la santé des populations en
+situation de précarité et des personnes victimes de violence. Elle prend en
+compte les difficultés propres aux populations fragilisées ;
+
+3° Elle participe à l'élaboration des politiques relatives aux droits des
+personnes malades et des usagers du système de santé, aux questions d'éthique,
+de bioéthique et d'indemnisation des victimes d'accidents médicaux. Elle
+contribue au respect des droits des personnes malades et des usagers du système
+de santé. Elle veille à la participation des citoyens à la définition des
+politiques de santé et des usagers au fonctionnement du système de santé, et en
+fixe les modalités ; elle veille au respect des règles de déontologie et de
+prévention des conflits d'intérêts, notamment en matière d'expertise sanitaire ;
+
+4° Elle veille à la qualité et à la sécurité des soins, des pratiques
+professionnelles, des recherches biomédicales et des produits de santé, et
+contribue à garantir l'accès des patients aux innovations ;
+
+Elle participe à la définition de la politique du médicament et des autres
+produits de santé et à celle relative aux éléments et produits issus du corps
+humain ;
+
+Elle prépare, conjointement avec la direction de la sécurité sociale, les
+décisions permettant leur prise en charge par l'assurance maladie. Elle assure
+une fonction de veille sur les pratiques non conventionnelles ;
+
+5° Elle élabore la politique de prévention et de gestion du risque infectieux,
+et en particulier la politique vaccinale, ainsi que la politique de prévention
+des risques iatrogènes non infectieux ;
+
+6° Elle participe à la définition et contribue à la mise en œuvre des actions de
+prévention, de surveillance et de gestion des risques sanitaires liés à
+l'environnement, au milieu de travail, aux accidents de la vie courante, à l'eau
+et à l'alimentation. Elle contribue également à la définition de la politique
+nutritionnelle ;
+
+7° Elle centralise les alertes sanitaires. En liaison avec les autres ministères
+et institutions concernés, elle organise et assure la gestion des situations
+d'urgence sanitaire ; elle coordonne ou participe à la préparation des réponses
+aux situations sanitaires exceptionnelles ;
+
+8° Elle apporte son concours à la direction générale de l'organisation des soins
+pour la détermination des besoins en professionnels de santé, la délimitation de
+leurs compétences, la définition des règles déontologiques qui leur sont
+applicables. Elle participe également à la détermination des besoins de
+formation des professions médicales, paramédicales ou contribuant à la
+satisfaction des besoins de santé de la population ;
+
+9° Elle participe au Conseil national de pilotage des agences régionales de
+santé et assure le suivi de l'action de ces agences dans son champ de
+compétence. Elle assure la tutelle des autres établissements publics et
+organismes exerçant leur activité dans les domaines de la santé publique et de
+la sécurité sanitaire. Elle prépare les contrats passés avec ces établissements
+;
+
+10° Elle participe à la définition de la position française lors de l'examen des
+questions de santé publique et de sécurité sanitaire au sein des instances
+européennes et internationales ainsi qu'à l'élaboration des textes au sein de
+ces instances.
