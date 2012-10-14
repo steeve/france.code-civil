@@ -14,11 +14,12 @@ le cadre de la zone de défense et de sécurité et exerce les attributions fix�
 par la section 2.
 
 II.-Sous l'autorité du Premier ministre, les préfets de zone de défense et de
-sécurité, les préfets de région et les préfets de département sont responsables,
-chacun en ce qui le concerne, de la préparation et de l'exécution des mesures de
-sécurité intérieure, de sécurité civile et de sécurité économique concourant à
-la sécurité nationale et relevant des compétences du ministre de l'intérieur
-prévues à l'article L. 1142-2.
+sécurité, les préfets de région et les préfets de département et, pour le
+département des Bouches-du-Rhône, le préfet de police des Bouches-du-Rhône sont
+responsables, chacun en ce qui le concerne, de la préparation et de l'exécution
+des mesures de sécurité intérieure, de sécurité civile et de sécurité économique
+concourant à la sécurité nationale et relevant des compétences du ministre de
+l'intérieur prévues à l'article L. 1142-2.
 
 III.-Un comité des préfets de zone de défense et de sécurité est créé. Il est
 présidé par le ministre de l'intérieur. Il comprend les préfets de zone de
