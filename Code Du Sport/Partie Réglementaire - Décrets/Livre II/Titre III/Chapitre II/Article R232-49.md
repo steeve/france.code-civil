@@ -16,8 +16,8 @@ l'article R. 232-50 du présent code ;
 4° La rédaction et la signature du procès-verbal.
 
 Le sportif peut faire état d'une autorisation d'usage à des fins thérapeutiques
-ou du dépôt d'une déclaration d'usage ou d'une demande d'autorisation d'usage à
-des fins thérapeutiques prévues à l'article L. 232-2 du code du sport et fournir
-tout autre élément à l'appui de ses déclarations. Si la personne chargée du
-contrôle est médecin, elle peut en outre se faire présenter le livret individuel
-médical et sportif prévu à l'article L. 231-7 du même code.
+ou d'une demande d'autorisation d'usage à des fins thérapeutiques prévues à
+l'article L. 232-2 du code du sport et fournir tout autre élément à l'appui de
+ses déclarations. Si la personne chargée du contrôle est médecin, elle peut en
+outre se faire présenter le livret individuel médical et sportif prévu à
+l'article L. 231-7 du même code.

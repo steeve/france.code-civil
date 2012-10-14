@@ -1,6 +1,6 @@
 Article D232-76
 ----
-Le comité mentionné à l'article L. 232-2-1 comprend au moins trois médecins,
+Le comité mentionné à l'article L. 232-2 comprend au moins trois médecins,
 choisis par l'agence sur la liste arrêtée par elle en application de l'article
 R. 232-10. Le comité désigne celui de ses membres qui en est le secrétaire et
 dont la voix est prépondérante en cas de partage.

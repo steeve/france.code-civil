@@ -10,12 +10,6 @@ l'agence ;
 -une autorisation accordée pour usage à des fins thérapeutiques délivrée par une
 fédération internationale et dont l'agence a reconnu la validité ;
 
--une déclaration d'usage effectuée auprès de l'Agence française de lutte contre
-le dopage ;
-
--une déclaration d'usage effectuée auprès d'une fédération internationale et
-dont l'agence a reconnu la validité ;
-
 -une raison médicale dûment justifiée définie à l'article R. 232-85-1.
 
 Cette décision est notifiée par lettre recommandée avec demande d'avis de

@@ -20,8 +20,6 @@ Le sportif y fait également état :
 
 -de toute autorisation d'usage à des fins thérapeutiques ;
 
--de toute déclaration d'usage effectuée auprès de l'agence ;
-
 -de toute demande d'autorisation d'usage à des fins thérapeutiques ;
 
 -de tout autre élément à l'appui de ses déclarations.
