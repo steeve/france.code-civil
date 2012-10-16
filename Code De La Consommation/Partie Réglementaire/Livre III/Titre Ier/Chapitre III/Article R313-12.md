@@ -1,7 +1,7 @@
 Article R313-12
 ----
-Lorsque l'opération de crédit a pour objet le remboursement d'un ou plusieurs
-crédits et, le cas échéant, d'autres dettes, le prêteur ou l'intermédiaire de
+Lorsque l'opération de crédit a pour objet le remboursement d'au moins deux
+créances antérieures dont un crédit en cours, le prêteur ou l'intermédiaire de
 crédit établit, après dialogue avec l'emprunteur, un document qu'il lui remet
 afin de garantir sa bonne information, en application de l'article L. 313-15. Le
 prêteur ou l'intermédiaire répond à toute demande d'explication de l'emprunteur
