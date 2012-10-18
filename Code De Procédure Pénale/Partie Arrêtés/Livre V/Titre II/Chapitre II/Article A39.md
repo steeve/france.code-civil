@@ -4,6 +4,9 @@ La liste des établissements pénitentiaires classés dans la catégorie des mai
 centrales ou comportant un quartier maison centrale prévue à l'article D. 71 est
 fixée comme suit :
 
+Quartier maison centrale du centre pénitentiaire d'Alençon - Condé-sur-Sarthe
+(Orne) ;
+
 Maison centrale d'Arles (Bouches-du-Rhône) ;
 
 Quartier maison centrale du centre pénitentiaire de Château-Thierry (Aisne).
