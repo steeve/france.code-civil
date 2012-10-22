@@ -1,29 +1,18 @@
 Article R731-6
 ----
-Sont considérés comme des sommes, titres ou valeurs devant faire l'objet de la
-déclaration mentionnée à l'article R. 731-4 :
+Pour l'application de l'article L. 731-3, sont considérés comme des sommes,
+titres ou valeurs ;
 
-1° Les billets de banque ;
+1° Les instruments négociables au porteur, y compris les instruments monétaires
+au porteur tels que les chèques de voyage ;
 
-2° Les pièces de monnaie ;
+2° Les instruments négociables (y compris les chèques, les billets à ordre et
+les mandats) qui sont soit au porteur, endossés sans restriction ou libellés à
+l'ordre d'un bénéficiaire fictif, soit sous une forme telle que la propriété de
+l'instrument est transférée au moment de la cession de celui-ci ;
 
-3° Les chèques avec ou sans indication de bénéficiaire ;
+3° Les instruments incomplets (y compris les chèques, les billets à ordre et les
+mandats) signés mais où le nom du bénéficiaire n'a pas été indiqué ;
 
-4° Les chèques au porteur ;
-
-5° Les chèques endossables autres que ceux destinés à ou adressés par des
-entreprises exerçant à titre habituel et professionnel une activité de commerce
-international ;
-
-6° Les chèques de voyage ;
-
-7° Les effets de commerce non domiciliés ;
-
-8° Les lettres de crédit non domiciliées ;
-
-9° Les bons de caisse anonymes ;
-
-10° Les valeurs mobilières et autres titres de créance négociables au porteur ou
-endossables ;
-
-11° Les lingots d'or et pièces d'or ou d'argent cotés sur un marché officiel.
+4° Les espèces (billets de banque et pièces de monnaie qui sont en circulation
+comme instrument d'échange).

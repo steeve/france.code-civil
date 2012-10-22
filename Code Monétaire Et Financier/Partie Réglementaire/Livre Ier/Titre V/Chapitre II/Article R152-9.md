@@ -1,4 +1,4 @@
 Article R152-9
 ----
-Les modalités d'application de l'article R. 152-7 sont fixées par arrêté pris
-par le ministre chargé des douanes.
+Les modalités d'application de la présente section sont fixées par arrêté du
+ministre chargé des douanes.

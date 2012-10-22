@@ -1,5 +1,4 @@
 Article R731-7
 ----
-Lorsque le transfert est opéré pour le compte d'un tiers, la déclaration
-mentionnée à l'article R. 731-6 comporte l'identification du propriétaire des
-sommes, titres ou valeurs transférés.
+Les modalités d'application du présent chapitre sont fixées par arrêté du
+ministre chargé des douanes.
