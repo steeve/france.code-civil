@@ -19,7 +19,7 @@ professionnels, le nombre et la surface nette occupée par les exposants
 par le déclarant.
 
 Par dérogation, lorsque la surface nette de la manifestation est inférieure à 1
-000 mètres carrés, la certification de ses caractéristiques chiffrées peut être
+000 mètres carrés, le contrôle de ses caractéristiques chiffrées peut être
 réalisée par l'exploitant du parc qui l'accueille.
 
 Dans l'hypothèse où la manifestation se tient pour la première fois dans le parc
@@ -30,7 +30,7 @@ l'article R. 762-6 est conforme à l'annexe IX de l'annexe 7-10 au présent livr
 La déclaration modificative du programme de manifestations se tenant dans un
 parc d'exposition enregistré, établie à partir des éléments recueillis auprès
 des organisateurs desdites manifestations et transmise en deux exemplaires, est
-conforme à l'annexe III de l'annexe 7-10 au présent livre.S'agissant des
+conforme à l'annexe III de l'annexe 7-10 au présent livre. S'agissant des
 modifications apportées à une manifestation déclarée dans le programme initial,
 seules la dénomination initiale de la manifestation et les caractéristiques
 modifiées sont déclarées. Le récépissé de déclaration modificative, transmis par

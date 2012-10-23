@@ -13,7 +13,7 @@ Dénomination (4) : Adresse (4) : Numéro d'enregistrement du parc :
 
 Identification de la manifestation n° 1
 
-Première session de la manifestation / nouvelle session d'une manifestation (2)
+Première session de la manifestation/ nouvelle session d'une manifestation (2)
 
 Dénomination (4) : Sigle (1) (4) : Adresse de site internet (1) (4) : Catégorie
 (2) (4) (5) : ― salon professionnel ; ― salon ouvert au public ; ― foire. Jour
@@ -65,18 +65,18 @@ Nom :, prénom (s) : Fonction : Téléphone : Téléphone portable (1) : Mél (1
 (5) La définition de ces catégories figure à l'article R. 762-4. Les
 informations recueillies font l'objet d'un traitement informatique effectué pour
 le compte de l'Etat et destiné à informer le public et les tiers. Les autres
-destinataires des données sont les agents habilités à instruire votre dossier.A
+destinataires des données sont les agents habilités à instruire votre dossier. A
 l'exception des données identifiées comme facultatives, les réponses sont
 obligatoires pour permettre le traitement de votre demande. La loi n° 78-17 du 6
 janvier 1978 relative à l'informatique, aux fichiers et aux libertés vous
 accorde un droit d'accès et de rectification aux informations qui vous
 concernent. Pour exercer ce droit, veuillez vous adresser à la DCASPL (bureau de
 la communication), 3-5, rue Barbet-de-Jouy, 75353 Paris 07 SP. Pour plus
-d'informations : www. pme. gouv. fr.
+d'informations : www.pme.gouv.fr.
 
 Identification de la manifestation n° 2
 
-Première session de la manifestation / nouvelle session d'une manifestation (2)
+Première session de la manifestation/ nouvelle session d'une manifestation (2)
 
 Dénomination (4) :
 
@@ -196,11 +196,11 @@ Signature
 (5) La définition de ces catégories figure à l'article R. 762-4. Les
 informations recueillies font l'objet d'un traitement informatique effectué pour
 le compte de l'Etat et destiné à informer le public et les tiers. Les autres
-destinataires des données sont les agents habilités à instruire votre dossier.A
+destinataires des données sont les agents habilités à instruire votre dossier. A
 l'exception des données identifiées comme facultatives, les réponses sont
 obligatoires pour permettre le traitement de votre demande. La loi n° 78-17 du 6
 janvier 1978 relative à l'informatique, aux fichiers et aux libertés vous
 accorde un droit d'accès et de rectification aux informations qui vous
 concernent. Pour exercer ce droit, veuillez vous adresser DGCIS (secrétariat
-général), Le Bervil, 12, rue Villiot, 75572 Paris Cedex 12. Pour plus
-d'informations : www. pme. gouv. fr.
+général), 67, rue Barbès, BP 80001, 94200 Ivry-sur-Seine Cedex. Pour plus
+d'informations : www.pme.gouv.fr.
