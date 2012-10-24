@@ -1,6 +1,6 @@
 Article R663-29
 ----
-I. - Il est alloué au liquidateur :
+I.-Il est alloué au liquidateur :
 
 1° Au titre des cessions d'actifs mobiliers corporels, un droit proportionnel,
 calculé sur le montant total toutes taxes comprises du prix des actifs cédés,
@@ -17,7 +17,7 @@ recouvrements ;
 droit proportionnel, calculé sur le montant du prix, le cas échéant toutes taxes
 comprises, de chacun des actifs cédés.
 
-II. - Les droits prévus au présent article sont calculés selon les tranches
+II.-Les droits prévus au présent article sont calculés selon les tranches
 prévues par le barème suivant :
 
 1° De 0 à 15 000 euros : 5 % ;
@@ -34,7 +34,11 @@ Pour l'application de ce barème, l'assiette des montants pris en compte est
 nette des intérêts servis au liquidateur par la Caisse des dépôts et
 consignations.
 
-III. - La rémunération prévue au présent article n'est pas due au liquidateur au
+III.-La rémunération prévue au présent article n'est pas due au liquidateur au
 titre de la cession des actifs compris dans un plan de cession. Lorsqu'il n'a
 pas été désigné d'administrateur judiciaire, il lui est alloué à ce titre le
 droit prévu à l'article R. 663-11.
+
+IV.-La rémunération prévue au présent article n'est pas due au titre de la
+cession autorisée en application du premier alinéa de l'article L. 663-1-1 tant
+que la saisie conservatoire n'a pas fait l'objet d'un acte de conversion.

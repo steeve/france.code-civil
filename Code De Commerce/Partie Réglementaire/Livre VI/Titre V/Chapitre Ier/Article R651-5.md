@@ -9,3 +9,7 @@ l'audience, qu'ils peuvent en prendre connaissance.
 
 Le tribunal statue sur le rapport du juge désigné après avoir entendu ou dûment
 appelé les contrôleurs.
+
+Le montant des sommes pour la garantie desquelles la mesure conservatoire est
+ordonnée conformément au deuxième alinéa de l'article L. 651-4 ne peut excéder
+le montant de la demande formée à l'encontre du dirigeant.
