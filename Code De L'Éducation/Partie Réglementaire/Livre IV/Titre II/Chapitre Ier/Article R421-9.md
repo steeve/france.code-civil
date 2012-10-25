@@ -2,8 +2,9 @@ Article R421-9
 ----
 En qualité d'organe exécutif de l'établissement, le chef d'établissement :
 
-1° Représente l'établissement en justice et dans tous les actes de la vie civile
-;
+1° Représente l'établissement en justice et dans tous les actes de la vie
+civile. Après avoir recueilli l'autorisation du conseil d'administration, il
+conclut les transactions ;
 
 2° A autorité sur le personnel n'ayant pas le statut de fonctionnaire de l'Etat,
 recruté par l'établissement ;

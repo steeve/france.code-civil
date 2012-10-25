@@ -18,10 +18,13 @@ de l'établissement et à ses conditions matérielles de fonctionnement. Ce rapp
 rend compte notamment de la mise en œuvre du projet d'établissement, des
 expérimentations menées par l'établissement et du contrat d'objectifs ;
 
-4° Il adopte : a) Le budget et le compte financier de l'établissement ;
+4° Il adopte :
+
+a) Le budget et le compte financier de l'établissement ;
 
 b) Les tarifs des ventes des produits et de prestations de services réalisés par
-l'établissement ;
+l'établissement, sous réserve des compétences réservées à la collectivité
+territoriale de rattachement en vertu du II de l'article L. 421-23 ;
 
 5° Il adopte le règlement intérieur de l'établissement ;
 
@@ -31,22 +34,27 @@ dialogue avec les parents d'élèves ;
 b) Le programme de l'association sportive fonctionnant au sein de
 l'établissement ;
 
-c) L'adhésion à tout groupement d'établissements ou la passation des conventions
-dont l'établissement est signataire, à l'exception : ― des marchés qui figurent
-sur un état prévisionnel de la commande publique annexé au budget ou qui
-s'inscrivent dans le cadre d'une décision modificative adoptée conformément au
-2° de l'article R. 421-60 ;
+c) L'adhésion à tout groupement d'établissements ;
 
-― en cas d'urgence, des marchés qui se rattachent à des opérations de gestion
-courante dont le montant est inférieur à 5 000 euros hors taxes, ou à 15 000
-euros hors taxes pour les travaux et les équipements ;
+d) La passation des marchés, contrats et conventions dont l'établissement est
+signataire, à l'exception :
 
-d) Les modalités de participation au plan d'action du groupement
+-des marchés qui s'inscrivent dans le cadre d'une décision modificative adoptée
+conformément au 2° de l'article R. 421-60 ;
+
+-en cas d'urgence, des marchés qui se rattachent à des opérations de gestion
+courante dont le montant est inférieur à 5 000 euros hors taxes pour les
+services et 15 000 euros hors taxes pour les travaux et équipements ;
+
+-des marchés dont l'incidence financière est annuelle et pour lesquelles il a
+donné délégation au chef d'établissement.
+
+e) Les modalités de participation au plan d'action du groupement
 d'établissements pour la formation des adultes auquel l'établissement adhère, le
 programme annuel des activités de formation continue et l'adhésion de
 l'établissement à un groupement d'intérêt public ;
 
-e) La programmation et les modalités de financement des voyages scolaires ;
+f) La programmation et les modalités de financement des voyages scolaires ;
 
 7° Il délibère sur : a) Toute question dont il a à connaître en vertu des lois
 et règlements en vigueur ainsi que celles ayant trait à l'information des
@@ -68,7 +76,8 @@ meilleure utilisation des moyens alloués à l'établissement et une bonne
 adaptation à son environnement ;
 
 9° Il autorise l'acceptation des dons et legs, l'acquisition ou l'aliénation des
-biens ainsi que les actions à intenter ou à défendre en justice ;
+biens, ainsi que les actions à intenter ou à défendre en justice et la
+conclusion de transactions ;
 
 10° Il peut décider la création d'un organe de concertation et de proposition
 sur les questions ayant trait aux relations de l'établissement avec le monde
