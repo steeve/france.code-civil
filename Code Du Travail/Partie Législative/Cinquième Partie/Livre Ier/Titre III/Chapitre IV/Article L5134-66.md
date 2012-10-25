@@ -1,7 +1,7 @@
 Article L5134-66
 ----
-Les conventions ouvrant droit au bénéfice du contrat initiative-emploi peuvent
-être conclues avec :
+Les aides à l'insertion professionnelle au titre d'un contrat initiative-emploi
+peuvent être accordées aux employeurs suivants :
 
 1° Les employeurs mentionnés à l'article L. 5422-13 et aux 3° et 4° de l'article
 L. 5424-1 ;

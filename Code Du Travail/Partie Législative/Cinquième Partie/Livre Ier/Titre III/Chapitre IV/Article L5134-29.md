@@ -13,3 +13,6 @@ moins égale à six mois.
 
 En cas d'embauche à l'issue de cette évaluation en milieu de travail ou de cette
 période d'essai, le contrat est rompu sans préavis.
+
+L'aide à l'insertion professionnelle n'est pas versée pendant la période de
+suspension du contrat d'accompagnement dans l'emploi.

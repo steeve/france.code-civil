@@ -1,8 +1,9 @@
 Article L5522-2-2
 ----
 Pour son application dans les départements d'outre-mer, à Saint-Barthélemy, à
-Saint-Martin et à Saint-Pierre-et-Miquelon, l'article L. 5134-19-4 est ainsi
-modifié :
+Saint-Martin et à Saint-Pierre-et-Miquelon, lorsqu'il n'est pas utilisé dans le
+cadre des emplois d'avenir prévus à la section 8 du chapitre IV du titre III du
+livre Ier de la présente partie, l'article L. 5134-19-4 est ainsi modifié :
 
 1° Au cinquième alinéa, les mots : " des articles L. 5134-30 et L. 5134-72 "
 sont remplacés par les mots : " de l'article L. 5134-30 " ;

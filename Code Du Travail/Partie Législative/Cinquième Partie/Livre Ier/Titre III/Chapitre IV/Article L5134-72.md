@@ -1,10 +1,7 @@
 Article L5134-72
 ----
-La convention individuelle prévue à la sous-section 2 de la présente section,
-conclue pour permettre une embauche en contrat initiative-emploi, ouvre droit à
-une aide financière.
-
-Cette aide peut être modulée en fonction :
+L'aide à l'insertion professionnelle attribuée au titre d'un contrat
+initiative-emploi peut être modulée en fonction :
 
 1° De la catégorie et du secteur d'activité de l'employeur ;
 

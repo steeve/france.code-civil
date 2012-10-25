@@ -4,7 +4,7 @@ Dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à
 Saint-Pierre-et-Miquelon, le contrat d'accès à l'emploi a pour objet de
 favoriser l'insertion professionnelle :
 
-1° Des bénéficiaires du revenu de solidarité active ;
+1° Des bénéficiaires du revenu de solidarité active financé par le département ;
 
 2° Des chômeurs de longue durée ;
 
@@ -20,4 +20,4 @@ difficultés particulières d'accès à l'emploi.
 
 A cette fin, il comporte des actions d'accompagnement professionnel. Les actions
 de formation nécessaires à la réalisation du projet professionnel de la personne
-peuvent être mentionnées dans la convention.
+peuvent être mentionnées dans le contrat.

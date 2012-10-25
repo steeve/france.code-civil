@@ -4,13 +4,15 @@ Ne sont pas pris en compte dans le calcul des effectifs de l'entreprise :
 
 1° Les apprentis ;
 
-2° Les titulaires d'un contrat initiative-emploi, pendant la durée de la
-convention prévue à l'article L. 5134-66 ;
+2° Les titulaires d'un contrat initiative-emploi, pendant la durée d'attribution
+de l'aide financière mentionnée à l'article L. 5134-72 ainsi que les titulaires
+d'un contrat d'accès à l'emploi pendant la durée d'attribution de l'aide
+financière mentionnée à l'article L. 5522-17 ;
 
 3° (Abrogé) ;
 
 4° Les titulaires d'un contrat d'accompagnement dans l'emploi pendant la durée
-de la convention mentionnée à l'article L. 5134-19-1 ;
+d'attribution de l'aide financière mentionnée à l'article L. 5134-30 ;
 
 5° (Abrogé) ;
 
