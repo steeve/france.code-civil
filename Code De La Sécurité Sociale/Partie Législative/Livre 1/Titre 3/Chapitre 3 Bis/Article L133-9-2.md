@@ -23,8 +23,8 @@ partielle, des majorations prévues ci-dessus ;
 3° Si la mise en demeure de régulariser la situation dans un délai de quinze
 jours reste sans effet, le directeur de l'organisme habilité peut délivrer une
 contrainte notifiée au débiteur par lettre recommandée avec accusé de réception.
-A défaut d'opposition du débiteur devant le tribunal d'instance ou de grande
-instance compétent, la contrainte comporte tous les effets d'un jugement et
+A défaut d'opposition du débiteur devant le tribunal des affaires de sécurité
+sociale compétent, la contrainte comporte tous les effets d'un jugement et
 confère notamment le bénéfice de l'hypothèque judiciaire ;
 
 4° Les sûretés applicables sont celles prévues par les articles L. 243-4 et L.

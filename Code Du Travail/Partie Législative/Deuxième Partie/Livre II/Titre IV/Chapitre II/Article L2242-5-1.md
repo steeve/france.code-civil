@@ -6,7 +6,8 @@ l'égalité professionnelle mentionné à l'article L. 2242-5 ou, à défaut d'a
 par les objectifs et les mesures constituant le plan d'action défini dans les
 rapports prévus aux articles L. 2323-47 et L. 2323-57. Les modalités de suivi de
 la réalisation des objectifs et des mesures de l'accord et du plan d'action sont
-fixées par décret.
+fixées par décret. Dans les entreprises d'au moins 300 salariés, ce défaut
+d'accord est attesté par un procès-verbal de désaccord.
 
 Le montant de la pénalité prévue au premier alinéa du présent article est fixé
 au maximum à 1 % des rémunérations et gains au sens du premier alinéa de

@@ -23,7 +23,8 @@ les femmes et les hommes. Après avoir évalué les objectifs fixés et les mesu
 prises au cours de l'année écoulée, ce plan d'action, fondé sur des critères
 clairs, précis et opérationnels, détermine les objectifs de progression prévus
 pour l'année à venir, la définition qualitative et quantitative des actions
-permettant de les atteindre et l'évaluation de leur coût.
+permettant de les atteindre et l'évaluation de leur coût. Ce plan d'action est
+déposé auprès de l'autorité administrative.
 
 Une synthèse de ce plan d'action, comprenant au minimum des indicateurs et
 objectifs de progression définis par décret, est portée à la connaissance des

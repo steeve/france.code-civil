@@ -7,11 +7,11 @@ choix.
 Le service de l'allocation d'assurance est assuré, pour le compte de cet
 organisme, par l'institution mentionnée à l'article L. 5312-1.
 
-Le recouvrement des contributions et versements mentionnés aux articles L.
-1233-66, L. 1233-69, L. 5422-9 et L. 5422-11 est assuré, pour le compte de cet
-organisme, par les unions pour le recouvrement des cotisations de sécurité
-sociale et d'allocations familiales et les caisses générales de sécurité sociale
-mentionnées aux articles L. 213-1 et L. 752-1 du code de la sécurité sociale.
+Le recouvrement des contributions mentionnées aux articles L. 5422-9 et L.
+5422-11 est assuré, pour le compte de cet organisme, par les unions pour le
+recouvrement des cotisations de sécurité sociale et d'allocations familiales et
+les caisses générales de sécurité sociale mentionnées aux articles L. 213-1 et
+L. 752-1 du code de la sécurité sociale.
 
 Par dérogation, le recouvrement de ces contributions est assuré pour le compte
 de l'organisme gestionnaire du régime d'assurance chômage :

@@ -4,11 +4,11 @@ Ne sont pas pris en compte dans le calcul des effectifs de l'entreprise :
 
 1° Les apprentis ;
 
-2° Les titulaires d'un contrat initiative-emploi, pendant la durée de la
-convention prévue à l'article L. 322-28 ;
+2° Les titulaires d'un contrat initiative-emploi, pendant la durée d'attribution
+de l'aide financière mentionnée à l'article L. 322-41 ;
 
 3° Les titulaires d'un contrat d'accompagnement dans l'emploi pendant la durée
-de la convention mentionnée à l'article L. 322-7 ;
+d'attribution de l'aide financière mentionnée à l'article L. 322-21 ;
 
 4° Les titulaires d'un contrat de formation en alternance jusqu'au terme prévu
 par le contrat lorsque celui-ci est à durée déterminée ou jusqu'à la fin de

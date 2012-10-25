@@ -1,17 +1,17 @@
 Article L322-4
 ----
-Le Département signe, préalablement à la conclusion des conventions
-individuelles prévues au 1° de l'article L. 322-1, une convention annuelle
-d'objectifs et de moyens avec l'Etat.
+Le président du conseil général signe, préalablement à l'attribution des aides à
+l'insertion professionnelle prévues à l'article L. 322-1, une convention
+annuelle d'objectifs et de moyens avec l'Etat.
 
 Cette convention fixe :
 
-1° Le nombre prévisionnel de conventions individuelles conclues au titre de
-l'embauche, dans le cadre d'un contrat unique d'insertion, de bénéficiaires du
-revenu de solidarité active financé par le Département ;
+1° Le nombre prévisionnel d'aides à l'insertion professionnelle attribuées au
+titre de l'embauche, dans le cadre d'un contrat unique d'insertion, de
+bénéficiaires du revenu de solidarité active financé par le Département ;
 
-2° Les modalités de financement des conventions individuelles et les taux d'aide
-applicables :
+2° Les modalités de financement des aides à l'insertion professionnelle et les
+taux d'aide applicables :
 
 a) Lorsque le Département participe au financement de l'aide, les taux
 mentionnés au quatrième alinéa de l'article L. 322-1 peuvent être majorés, en

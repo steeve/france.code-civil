@@ -14,10 +14,8 @@ salaire brut, portée à trois mois lorsque son ancien salarié adhère au contr
 de sécurisation professionnelle sur proposition de l'institution mentionnée au
 même article L. 5312-1.
 
-Cette contribution, dont le montant est déterminé par l'institution mentionnée
-audit article L. 5312-1, est recouvrée par les organismes chargés du
-recouvrement mentionnés au troisième alinéa de l'article L. 5427-1 selon les
-règles et sous les garanties et sanctions mentionnées au premier alinéa de
-l'article L. 5422-16. Les données nécessaires au recouvrement sont transmises
-entre l'institution et les organismes. Les modalités d'application du présent
-alinéa sont définies par décret en Conseil d'Etat.
+La détermination du montant de cette contribution et son recouvrement, effectué
+selon les règles et sous les garanties et sanctions mentionnées au premier
+alinéa de l'article L. 5422-16, sont assurés par l'institution mentionnée à
+l'article L. 5312-1. Les conditions d'exigibilité de cette contribution sont
+précisées par décret en Conseil d'Etat.

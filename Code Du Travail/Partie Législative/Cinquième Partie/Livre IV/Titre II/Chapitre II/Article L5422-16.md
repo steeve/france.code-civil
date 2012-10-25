@@ -1,13 +1,13 @@
 Article L5422-16
 ----
-Les contributions et versements prévus aux articles L. 1233-66, L. 1233-69, L.
-5422-9, L. 5422-11 et L. 5424-20 sont recouvrés et contrôlés par les organismes
-chargés du recouvrement mentionnés à l'article L. 5427-1 pour le compte de
-l'organisme gestionnaire du régime d'assurance chômage mentionné à ce même
-article, selon les règles et sous les garanties et sanctions applicables au
-recouvrement des cotisations du régime général de la sécurité sociale assises
-sur les rémunérations. Pour l'application des dispositions prévues aux a et e de
-l'article L. 5427-1, le directeur de l'institution mentionnée à l'article L.
+Les contributions prévues aux articles L. 5422-9, L. 5422-11 et L. 5424-20 sont
+recouvrées et contrôlées par les organismes chargés du recouvrement mentionnés à
+l'article L. 5427-1 pour le compte de l'organisme gestionnaire du régime
+d'assurance chômage mentionné à ce même article, selon les règles et sous les
+garanties et sanctions applicables au recouvrement des cotisations du régime
+général de la sécurité sociale assises sur les rémunérations. Pour l'application
+des dispositions prévues aux articles L. 1233-66, L. 1233-69 ainsi qu'aux a et e
+de l'article L. 5427-1, le directeur de l'institution mentionnée à l'article L.
 5312-1 dispose de la faculté prévue à l'article L. 244-9 du code de la sécurité
 sociale. Les différends relatifs au recouvrement de ces contributions relèvent
 du contentieux de la sécurité sociale.

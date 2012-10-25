@@ -14,7 +14,8 @@ entre les femmes et les hommes. Après avoir évalué les objectifs fixés et le
 mesures prises au cours de l'année écoulée, ce plan d'action, fondé sur des
 critères clairs, précis et opérationnels, détermine les objectifs de progression
 prévus pour l'année à venir, la définition qualitative et quantitative des
-actions permettant de les atteindre et l'évaluation de leur coût.
+actions permettant de les atteindre et l'évaluation de leur coût. Ce plan
+d'action est déposé auprès de l'autorité administrative.
 
 Ce rapport comporte une analyse permettant d'apprécier, pour chacune des
 catégories professionnelles de l'entreprise, la situation respective des femmes
