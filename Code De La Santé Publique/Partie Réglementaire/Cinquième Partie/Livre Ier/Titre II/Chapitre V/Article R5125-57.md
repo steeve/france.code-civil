@@ -4,9 +4,11 @@ Est considéré comme remède secret un médicament, simple ou composé, détenu
 vue de la vente, mis en vente ou vendu, alors qu'une ou plusieurs des mentions
 suivantes ont été omises sur un des éléments de son conditionnement :
 
-1° Le nom et l'adresse du pharmacien, sauf sur les ampoules médicamenteuses dont
-les dimensions ne permettent pas cette inscription et qui sont délivrées au
-public dans une boîte portant elle-même les indications requises ;
+1° Pour les préparations mentionnées aux 1° à 3° de l'article L. 5121-1, le nom
+et l'adresse du pharmacien ayant dispensé la préparation, sauf pour les ampoules
+et autres petits conditionnements primaires mentionnés par l'article R.
+5121-146-3, pour lesquels ne peuvent être mentionnés que le nom et le code
+postal ;
 
 2° Le nom et la dose de chacune des substances actives contenues dans le produit
 préparé.
@@ -23,7 +25,3 @@ et des qualités des matières premières employées pour sa préparation ainsi 
 des procédés opératoires suivis, la référence et la description de ces derniers
 devant être suffisamment précises pour permettre, en les reproduisant,
 l'obtention d'un remède de composition identique à celui en cause.
-
-En aucun cas, sauf en ce qui concerne les préparations magistrales, un numéro
-d'inscription au registre d'ordonnances ne peut remplacer les mentions
-mentionnées au 2°.
