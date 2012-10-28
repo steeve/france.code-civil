@@ -107,6 +107,36 @@ produire par les intéressés.
 à date, le nombre de trimestres valables correspondant étant, éventuellement,
 arrondi au chiffre immédiatement supérieur.
 
+9° Les périodes d'inscription sur la liste des sportifs de haut niveau
+mentionnée au premier alinéa de l'article L. 221-2 du code du sport dans les
+conditions et limites suivantes :
+
+a) Ces périodes sont celles postérieures au vingtième anniversaire de
+l'intéressé ;
+
+b) Ces périodes sont décomptées à raison d'un trimestre par période
+d'inscription continue de 90 jours, à partir du premier jour d'inscription.
+Lorsque la période de 90 jours considérée couvre deux années civiles, le
+trimestre est affecté à l'année civile où cette période compte le plus grand
+nombre de jours ;
+
+c) Les ressources annuelles de l'intéressé n'excèdent pas, pour l'année civile
+au titre de laquelle l'assuré demande à bénéficier de ces périodes, 0,75 fois la
+valeur annuelle du plafond définie en application de l'article L. 241-3. Les
+ressources prises en considération incluent le total des revenus nets
+catégoriels retenus pour l'établissement de l'impôt sur le revenu d'après le
+barème des revenus taxés à un taux proportionnel ou soumis à un prélèvement
+libératoire de l'impôt sur le revenu, ainsi que les revenus perçus hors de
+France ou versés par une organisation internationale ;
+
+d) L'application de ces dispositions ne peut avoir pour effet de porter à un
+chiffre supérieur à quatre le nombre de trimestres d'assurance validés dans un
+ou plusieurs régimes de base d'assurance vieillesse obligatoire, au titre d'une
+même année civile ;
+
+e) Le nombre total de trimestres pouvant être validés par chaque intéressé en
+application du présent 9° est limité à 16.
+
 L'application des dispositions du présent article ne peut avoir pour effet de
 porter à un chiffre supérieur à quatre le nombre de trimestres d'assurance
 valable au titre d'une même année civile.
