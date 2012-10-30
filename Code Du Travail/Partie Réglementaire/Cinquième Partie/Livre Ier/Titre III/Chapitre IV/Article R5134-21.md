@@ -13,8 +13,8 @@ administrations et organismes :
 
 2° Les agences locales de Pôle emploi ;
 
-3° Les organismes mentionnés à l'article D. 5134-14, pour les conventions qu'ils
-ont conclues au nom de l'Etat ;
+3° Les organismes mentionnés à l'article D. 5134-14, pour les aides attribuées
+au nom de l'Etat ;
 
 4° Le cas échéant, le département, lorsque le président du conseil général le
-demande, pour les conventions qu'il a conclues.
+demande, pour les aides qu'il a attribuées.

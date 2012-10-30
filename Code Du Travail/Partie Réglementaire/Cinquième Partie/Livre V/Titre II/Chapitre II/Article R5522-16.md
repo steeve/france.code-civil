@@ -1,9 +1,8 @@
 Article R5522-16
 ----
 Lorsqu'elle est conclue au titre du contrat d'accès à l'emploi visé à l'article
-L. 5522-5, la convention individuelle de contrat unique d'insertion prévue au a
-du 1° de l'article L. 5134-19-1, dont le modèle est fixé par arrêté du ministre
-chargé de l'emploi, précise notamment :
+L. 5522-5, la demande d'aide à l'insertion professionnelle , dont le modèle est
+fixé par arrêté du ministre chargé de l'emploi, précise notamment :
 
 1° Le nom et l'adresse du bénéficiaire ;
 
@@ -26,7 +25,7 @@ prévues ;
 
 9° Le montant et les modalités de versement de l'aide de l'Etat ;
 
-10° Les modalités de contrôle de l'application de la convention ;
+10° Les modalités de contrôle de la mise en œuvre de l'aide ;
 
 11° Les pièces justificatives à produire pour bénéficier de l'aide de l'Etat
 dans les conditions de versement prévues à l'article R. 5522-32 ;

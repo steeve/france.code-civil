@@ -1,7 +1,7 @@
 Article R5522-18-3
 ----
 En application de l'article L. 5522-13-2, l'employeur qui souhaite prolonger une
-convention individuelle adresse à l'autorité signataire de la convention
+aide à l'insertion professionnelle adresse à l'autorité qui a attribué l'aide
 initiale une demande préalable.
 
 Cette demande motivée est accompagnée d'un bilan des actions réalisées en

@@ -1,4 +1,4 @@
 Article R5522-19
 ----
-Aucune convention ne peut être conclue pour une embauche bénéficiant d'une autre
-aide à l'emploi de l'Etat.
+Aucune aide à l'insertion professionnelle ne peut être attribuée pour une
+embauche bénéficiant d'une autre aide à l'emploi de l'Etat.
