@@ -2,7 +2,7 @@ Article D371-3
 ----
 Le comité national comprend cinq collèges de dix membres chacun :
 
-1° Un collège de représentants d'élus, qui comprend :
+1° Un collège des élus, qui comprend :
 
 a) Un député désigné par l'Assemblée nationale ;
 
@@ -80,18 +80,18 @@ h) Le président de la Fédération nationale des chasseurs ;
 i) Le président de la Fédération nationale de la pêche et de la protection du
 milieu aquatique ;
 
-4° Un collège de représentants d'associations, d'organismes ou de fondations
-œuvrant pour la préservation de la biodiversité et de gestionnaires d'espaces
-naturels, qui comprend :
+4° Un collège de représentants d'associations, de fondations ou d'autres
+organismes œuvrant pour la préservation de la biodiversité et de gestionnaires
+d'espaces naturels, qui comprend :
 
 a) Sept représentants d'associations, organismes et fondations visés à l'article
 L. 141-3 ;
 
 b) Le président du conseil d'administration d'un parc national ;
 
-c) Le président de la fédération des conservatoires d'espaces naturels ;
+c) Le président de la Fédération des conservatoires d'espaces naturels ;
 
-d) Le président de l'atelier technique des espaces naturels ;
+d) Le président de l'Atelier technique des espaces naturels ;
 
 5° Un collège de scientifiques, de représentants d'organismes de recherche,
 d'études ou d'appui aux politiques publiques et de personnalités qualifiées, qui
@@ -105,10 +105,10 @@ c) Le directeur général du Muséum national d'histoire naturelle ;
 
 d) Le président de la Fédération des conservatoires botaniques nationaux ;
 
-e) Le directeur général du Centre national du machinisme agricole, du génie
-rural, des eaux et des forêts (CEMAGREF) ;
+e) Le directeur général de l'Institut national de recherche en sciences et
+technologies pour l'environnement et l'agriculture ;
 
-f) Le président-directeur général de l'Institut national de la recherche
+f) Le président directeur général de l'Institut national de la recherche
 agronomique ;
 
 g) Le directeur du service d'études sur les transports, les routes et leurs

@@ -1,15 +1,10 @@
 Article L371-2
 ----
-Un document-cadre intitulé " Orientations nationales pour la préservation et la
-remise en bon état des continuités écologiques " est élaboré, mis à jour et
-suivi par l'autorité administrative compétente de l'Etat en association avec un
-comité national " trames verte et bleue ”. Ce comité regroupe les représentants
-des collectivités territoriales, des partenaires socioprofessionnels, des parcs
-nationaux et des parcs naturels régionaux, des comités de bassin, des
-associations de protection de l'environnement agréées concernées ainsi que, le
-cas échéant, des personnalités qualifiées en raison de leurs compétences et de
-leur connaissance en matière de protection de l'environnement. Sa composition et
-son fonctionnement sont fixés par décret.
+Un document-cadre intitulé "Orientations nationales pour la préservation et la
+remise en bon état des continuités écologiques" est élaboré, mis à jour et suivi
+par l'autorité administrative compétente de l'Etat en association avec un comité
+national "trames verte et bleue". Sa composition et son fonctionnement sont
+fixés par décret.
 
 Les orientations nationales sont mises à la disposition du public, en vue de
 recueillir ses observations, avant d'être adoptées par décret en Conseil d'Etat.
