@@ -3,10 +3,10 @@ Article R237-5
 Est puni de l'amende prévue pour les contraventions de la troisième classe le
 fait :
 
-1° De contrevenir aux dispositions de l'article R. 231-48 en pratiquant le
-reparcage dans des zones non classées pour cet usage ;
+1° De pratiquer le reparcage dans des zones autres que celles délimitées à cet
+usage par le préfet en vertu du 2° de l'article R. 231-37 ;
 
-2° De contrevenir aux dispositions de l'article R. 231-41 en pratiquant la pêche
+2° De contrevenir aux dispositions de l'article R. 231-43 en pratiquant la pêche
 non professionnelle dans des zones de production non classées A ou B.
 
 Les personnes physiques coupables de l'infraction prévue au présent article

@@ -74,8 +74,8 @@ règles d'hygiène personnelle définies au chapitre VIII du règlement (CE) n°
 852/2004 du 29 avril 2004 ;
 
 16° De ne pas respecter les exigences relatives aux certificats ou documents
-requis par les règlements communautaires mentionnés à l'article R. 231-13 ou aux
-articles R. 231-46 et R. 231-56.
+requis par les règlements communautaires mentionnés à l'article R. 231-13 ou à
+l'article R. 231-42.
 
 II. ― Est puni de l'amende prévue pour les contraventions de la cinquième classe
 le fait, pour les exploitants de la production primaire animale du secteur

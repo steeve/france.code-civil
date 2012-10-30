@@ -1,10 +1,14 @@
 Article R231-40
 ----
-Des arrêtés conjoints du ministre chargé des pêches maritimes et des cultures
-marines et du ministre chargé de la santé, pris après avis de l'Agence nationale
-de sécurité sanitaire de l'alimentation, de l'environnement et du travail,
-fixent, pour chaque classe de salubrité, les paramètres prévus à l'article R.
-231-37 et les valeurs qui leur correspondent, les plans d'échantillonnage mis en
-oeuvre, les méthodes d'analyses de référence, les règles d'interprétation et
-d'exploitation des résultats ainsi que les modalités selon lesquelles s'exerce
-la surveillance sanitaire régulière des zones de production.
+Le transfert depuis une zone C vers une zone A ou B est limité aux seuls
+naissains et juvéniles qui y sont captés ou récoltés.
+
+Par dérogation au point 1 du A du chapitre II de la section VII de l'annexe III
+du règlement (CE) n° 853/2004, le captage et la récolte des naissains hors zones
+classées pour effectuer leur transfert vers une zone de production peuvent être
+exceptionnellement autorisés par le préfet du département après avis de la
+commission des cultures marines.
+
+Un arrêté du ministre chargé de l'agriculture fixe les modalités d'application
+du présent article et précise notamment la liste des espèces et les tailles
+maximales des naissains ou juvéniles.

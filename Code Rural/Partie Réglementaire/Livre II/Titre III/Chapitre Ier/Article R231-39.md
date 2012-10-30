@@ -1,12 +1,15 @@
 Article R231-39
 ----
-En cas de contamination momentanée d'une zone et en fonction de sa nature et de
-son niveau, le préfet, sur proposition du directeur départemental des
-territoires et de la mer ou du directeur départemental chargé de la protection
-des populations, et après avis du directeur général de l'agence régionale de
-santé, peut temporairement soit soumettre son exploitation à des conditions
-générales plus contraignantes, soit suspendre toutes ou certaines formes
-d'activités.
+Pour l'application des 1 et 2 du C du chapitre II de l'annexe II du règlement
+(CE) n° 854/2004 du 29 avril 2004, l'autorité compétente qui, en cas de
+contamination momentanée d'une zone ou lorsque la santé publique est mise en
+péril, ferme la zone concernée ou en prononce le déclassement est le préfet du
+département.
 
-Ces décisions sont portées immédiatement à la connaissance des services,
-municipalités et organisations professionnelles concernés.
+Lorsqu'une zone de reparcage ne satisfait plus à la qualité sanitaire des zones
+de productions classées en A, le préfet de département décide soit la suspension
+des opérations de reparcage pour une durée maximale de trois mois non
+reconductible, soit le déclassement de la zone en cause.
+
+Ces décisions sont portées immédiatement à la connaissance de l'agence régionale
+de santé, des communes et des organisations professionnelles concernés.

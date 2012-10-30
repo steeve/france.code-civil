@@ -1,26 +1,18 @@
 Article R231-37
 ----
-Le classement de salubrité des zones de production repose sur la mesure de la
-contamination microbiologique et de la pollution résultant de la présence de
-composés toxiques ou nocifs, d'origine naturelle ou rejetés dans
-l'environnement, susceptibles d'avoir un effet négatif sur la santé de l'homme
-ou le goût des coquillages.
+Sont déterminés par arrêté du préfet du département après avis du comité
+régional conchylicole concerné et de la commission des cultures marines :
 
-Les zones de production sont classées de la façon suivante :
+1° L'emplacement, les limites et le classement des zones de production prévus au
+A du chapitre II de l'annexe II du règlement (CE) n° 854/2004 du 29 avril 2004
+fixant les règles spécifiques d'organisation des contrôles officiels concernant
+les produits d'origine animale destinés à la consommation humaine ;
 
-1° Zones A : zones dans lesquelles les coquillages peuvent être récoltés pour la
-consommation humaine directe ;
+2° L'emplacement et les limites des zones de reparcage, qui satisfont à la
+qualité sanitaire des zones de productions classées en A conformément aux points
+A, B et C du chapitre II de la section VII de l'annexe III du règlement (CE) n°
+853/2004 du 29 avril 2004 fixant des règles spécifiques d'hygiène applicables
+aux denrées alimentaires d'origine animale.
 
-2° Zones B : zones dans lesquelles les coquillages peuvent être récoltés mais ne
-peuvent être mis sur le marché pour la consommation humaine directe qu'après
-avoir subi, pendant un temps suffisant, soit un traitement dans un centre de
-purification, associé ou non à un reparcage, soit un reparcage ;
-
-3° Zones C : zones dans lesquelles les coquillages ne peuvent être mis sur le
-marché pour la consommation humaine directe qu'après un reparcage de longue
-durée, associé ou non à une purification, ou après une purification intensive
-mettant en oeuvre une technique appropriée ;
-
-4° Zones D : zones dans lesquelles les coquillages ne peuvent être récoltés ni
-pour la consommation humaine directe, ni pour le reparcage, ni pour la
-purification.
+Ces arrêtés sont publiés au recueil des actes administratifs ainsi que sur le
+site internet de la préfecture.
