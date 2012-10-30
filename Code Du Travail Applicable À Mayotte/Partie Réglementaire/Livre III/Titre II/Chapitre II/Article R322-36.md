@@ -1,8 +1,8 @@
 Article R322-36
 ----
 En application de l'article L. 322-32, l'employeur qui souhaite prolonger une
-convention individuelle au titre du contrat initiative-emploi adresse à
-l'autorité signataire de la convention initiale une demande préalable.
+aide à l'insertion professionnelle au titre du contrat initiative-emploi adresse
+à l'autorité qui a attribué l'aide initiale une demande préalable.
 
 Cette demande motivée est accompagnée d'un bilan des actions réalisées en
 matière d'accompagnement et de formation, notamment des actions d'aide à la
