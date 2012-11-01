@@ -12,4 +12,7 @@ mentionné à l'article L. 114-24 du code de la mutualité ;
 3° Représentant des salariés dans une chambre d'agriculture mentionné à
 l'article L. 515-1 du code rural et de la pêche maritime ;
 
-4° Conseiller prud'homme.
+4° Conseiller prud'homme ;
+
+5° Assesseur maritime mentionné à l'article 7 de la loi du 17 décembre 1926
+relative à la répression en matière maritime.

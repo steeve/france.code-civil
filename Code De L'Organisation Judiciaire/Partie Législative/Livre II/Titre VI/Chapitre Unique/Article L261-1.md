@@ -6,8 +6,8 @@ l'organisation et au fonctionnement des autres juridictions d'attribution sont
 
 1° Au code de commerce en ce qui concerne le tribunal de commerce ;
 
-2° Au code disciplinaire et pénal de la marine marchande, en ce qui concerne le
-tribunal maritime commercial ;
+2° Par la loi relative à la répression en matière maritime, en ce qui concerne
+le tribunal maritime ;
 
 3° Au code de l'expropriation pour cause d'utilité publique et aux lois et
 règlements particuliers en ce qui concerne le juge de l'expropriation ;

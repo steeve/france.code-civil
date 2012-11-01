@@ -60,4 +60,7 @@ l'article L. 515-1 du code rural et de la pêche maritime ;
 administrative et chargé d'assister les salariés convoqués par leur employeur en
 vue d'un licenciement ;
 
-17° Conseiller prud'homme.
+17° Conseiller prud'homme ;
+
+18° Assesseur maritime, mentionné à l'article 7 de la loi du 17 décembre 1926
+relative à la répression en matière maritime.

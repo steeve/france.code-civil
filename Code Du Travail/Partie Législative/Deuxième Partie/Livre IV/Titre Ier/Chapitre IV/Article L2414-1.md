@@ -32,7 +32,7 @@ sécurité et des conditions de travail ;
 8° Représentant du personnel d'une entreprise extérieure, désigné au comité
 d'hygiène, de sécurité et des conditions de travail d'un établissement
 comprenant au moins une installation classée figurant sur la liste prévue au IV
-de l'article L. 515-8 du code de l'environnement ou mentionnée à l' article L.
+de l'article L. 515-8 du code de l'environnement ou mentionnée à l'article L.
 211-2 du code minier ;
 
 9° Membre d'une commission paritaire d'hygiène, de sécurité et des conditions de
@@ -47,4 +47,8 @@ l'employeur a connaissance de l'imminence de sa désignation, ou ancien salarié
 mandaté, durant les douze mois suivant la date à laquelle son mandat a pris fin.
 Lorsque aucun accord n'a été conclu à l'issue de la négociation au titre de
 laquelle le salarié a été mandaté, le délai de protection court à compter de la
-date de fin de cette négociation matérialisée par un procès-verbal de désaccord.
+date de fin de cette négociation matérialisée par un procès-verbal de désaccord
+;
+
+12° Assesseur maritime mentionné à l'article 7 de la loi du 17 décembre 1926
+relative à la répression en matière maritime.
