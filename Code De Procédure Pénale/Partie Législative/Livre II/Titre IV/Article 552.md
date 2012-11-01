@@ -13,6 +13,12 @@ métropolitaine, ou si, cité devant un tribunal d'un département de la France
 métropolitaine, elle réside dans un département ou territoire d'outre-mer, à
 Saint-Pierre-et-Miquelon ou Mayotte.
 
+Est également compétent le tribunal de police du lieu du port de débarquement de
+la personne mise en cause, du port d'immatriculation du navire, du port où le
+navire a été conduit ou peut être trouvé ou de la résidence administrative de
+l'agent qui a constaté l'infraction, lorsque la contravention a été commise à
+bord d'un navire.
+
 Si la partie citée réside à l'étranger, ce délai est augmenté d'un mois si elle
 demeure dans un Etat membre de l'Union européenne et de deux mois dans les
 autres cas.
