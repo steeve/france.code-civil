@@ -2,7 +2,7 @@ Article A431-4
 ----
 La demande de permis de construire prévue aux articles R. 421-1 et R. 421-14 à
 R. 421-16 est établie conformément aux formulaires enregistrés par la direction
-générale de la modernisation de l'Etat :
+interministérielle pour la modernisation de l'action publique :
 
 a) Sous le numéro CERFA 13406 lorsque la demande porte sur une maison
 individuelle ou ses annexes ;
