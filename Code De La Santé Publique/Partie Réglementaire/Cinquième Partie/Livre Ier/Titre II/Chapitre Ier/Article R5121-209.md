@@ -1,6 +1,5 @@
 Article R5121-209
 ----
-Pour l'application des dispositions du présent chapitre, les hôpitaux des armées
-et le centre de transfusion sanguine des armées sont regardés respectivement
-comme des établissements de santé et comme un établissement de transfusion
-sanguine.
+Pour l'application de la présente section, on entend par médicaments de thérapie
+innovante préparés ponctuellement les médicaments de thérapie innovante
+mentionnés au 17° de l'article L. 5121-1.

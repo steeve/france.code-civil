@@ -1,0 +1,11 @@
+Article R4211-38
+----
+La personne responsable mentionnée à l'article R. 4211-37, les personnes
+responsables intérimaires, le responsable des activités de site et le
+responsable intérimaire des activités de site sont titulaires des diplômes
+permettant l'exercice de la médecine ou de la pharmacie ou sont titulaires d'un
+doctorat dans le domaine des sciences de la vie et de la santé.
+
+Les personnes mentionnées au premier alinéa doivent justifier de titres et
+travaux et d'une expérience pratique d'au moins deux ans dans les domaines
+d'activité définis par la présente section.

@@ -8,7 +8,8 @@ sang, les distributeurs en gros de plantes médicinales, les distributeurs de ga
 protection de la population face aux menaces sanitaires graves et les
 distributeurs en gros du service de santé des armées peuvent exporter en dehors
 du territoire national les médicaments ou produits qu'ils vendent, cèdent à
-titre gratuit ou distribuent.
+titre gratuit ou distribuent, à l'exception des médicaments de thérapie
+innovante préparés ponctuellement mentionnés au 17° de l'article L. 5121-1.
 
 Les exportations effectuées par ces entreprises ou organismes, ainsi que par les
 distributeurs en gros à l'exportation, vers d'autres Etats membres de la

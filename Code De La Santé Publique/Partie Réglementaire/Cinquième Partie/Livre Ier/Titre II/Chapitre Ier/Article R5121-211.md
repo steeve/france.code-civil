@@ -1,0 +1,11 @@
+Article R5121-211
+----
+Le dossier de demande d'autorisation est réputé complet si, dans un délai d'un
+mois à compter de sa réception, le directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé n'a pas fait connaître au
+demandeur, par lettre recommandée avec demande d'avis de réception, la liste des
+pièces manquantes ou incomplètes.
+
+Lorsque les pièces indispensables à l'instruction de la demande sont manquantes
+ou incomplètes, le directeur général de l'agence fixe le délai dans lequel ces
+pièces doivent être fournies.

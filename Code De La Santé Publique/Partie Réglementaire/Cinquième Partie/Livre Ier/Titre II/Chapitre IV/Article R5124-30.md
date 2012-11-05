@@ -4,7 +4,7 @@ En application de l'article L. 5124-4, le remplacement d'un pharmacien délégu�
 est assuré dans les conditions suivantes :
 
 1° Par le pharmacien délégué intérimaire désigné par l'autorité compétente
-mentionnée aux articles R. 5124-23 à R. 5124-28 ;
+mentionnée aux articles R. 5124-23 à R. 5124-28-1 ;
 
 2° Ou, à défaut, par un pharmacien adjoint de la même entreprise ou du même
 organisme ou par un pharmacien n'ayant pas d'autre activité professionnelle

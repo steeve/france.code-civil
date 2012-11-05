@@ -33,10 +33,19 @@ pharmacie centrale ou des établissements de ravitaillement sanitaire pendant la
 période précédant l'octroi des autorisations d'ouverture desdits établissements
 pharmaceutiques est prise en compte.
 
+Dans les établissements pharmaceutiques créés au sein d'établissements publics
+ou organismes à but non lucratif en application de l'article L. 5124-9-1 afin de
+réaliser des activités portant sur les médicaments de thérapie innovante, les
+personnes remplissant les conditions mentionnées à l'article L. 4221-1
+justifiant d'une expérience pratique d'une durée d'au moins deux ans acquise en
+qualité de personne responsable ou en tant que personne responsable des
+activités au sens de l'article R. 1243-12 dans un ou plusieurs établissements ou
+organismes autorisés au titre des articles L. 1243-2 et L. 4211-8 sont
+considérées comme remplissant les conditions d'expérience pratique requises pour
+être nommées en qualité de pharmacien responsable ou de pharmacien responsable
+intérimaire.
+
 Le pharmacien responsable des établissements pharmaceutiques exerçant les
-activités de fabrication et de distribution de produits cellulaires à finalité
-thérapeutique qui sont des spécialités pharmaceutiques ou d'autres médicaments
-fabriqués industriellement ou selon une méthode dans laquelle intervient un
-processus industriel doit justifier de titres et travaux spécifiques dans ces
-domaines d'activités ou être assisté d'une personne justifiant de cette
-compétence.
+activités de fabrication et de distribution de médicaments de thérapie innovante
+doit justifier de titres et travaux spécifiques dans ces domaines d'activités ou
+être assisté d'une personne justifiant de cette compétence.
