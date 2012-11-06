@@ -1,66 +1,80 @@
 Article 111-00 C
 ----
-Pour les opérations de stockage d'alcools et de boissons alcooliques,
-l'entrepositaire agréé applique les taux de pertes ou de déchets annuels maximum
-conformément au tableau ci-après. Ces taux sont applicables aux différents types
-de stockages identifiés en tant que tels.
+Pour les pertes et déchets physiquement constatés lors des opérations de
+stockage d'alcools et de boissons alcooliques, l'entrepositaire agréé bénéficie
+d'une déduction dans la limite des taux annuels figurant au tableau ci-après. La
+déduction est calculée et appliquée par produit concerné tel que défini aux
+articles 286 I et J de l'annexe II au code général des impôts et par type de
+stockage identifié en tant que tel.
+
+
+STOCKAGE SOUS BOIS
+
+STOCKAGE
+
+en cuves étanches
+
+
+STOCKAGE
+
+après conditionnement
 
 
 Vins et cidres
 
-STOCKAGE SOUS BOIS : 4,5 % sur le stock moyen
+4,5 % sur le stock moyen
 
-STOCKAGE en cuves étanches : 0,7 % sur le stock moyen
+0,7 % sur le stock moyen
 
-STOCKAGE après conditionnement : 0,3 % sur les quantités sorties
+0,3 % sur les quantités sorties
 
-Produits intermédiaires.
 
-STOCKAGE SOUS BOIS : 5 % sur le stock moyen
+Produits intermédiaires
 
-STOCKAGE en cuves étanches : 0,7 % sur le stock moyen
+5 % sur le stock moyen
 
-STOCKAGE après conditionnement : 0,3 % sur les quantités sorties
+0,7 % sur le stock moyen
 
-Spiritueux.
+0,3 % sur les quantités sorties
 
-STOCKAGE SOUS BOIS : 6 % sur le stock moyen
 
-STOCKAGE en cuves étanches : 1,5 % sur le stock moyen
+Spiritueux
 
-STOCKAGE après conditionnement : 0,3 % sur les quantités sorties
+6 % sur le stock moyen
 
-Rhums (DOM).
+1,5 % sur le stock moyen
 
-STOCKAGE SOUS BOIS : 8 % sur le stock moyen
+0,3 % sur les quantités sorties
 
-STOCKAGE en cuves étanches : 3 % sur le stock moyen
+Rhums (DOM)
 
-STOCKAGE après conditionnement : 0,3 % sur les quantités sorties
+8 % sur le stock moyen
 
-Alcools.
+3 % sur le stock moyen
 
-STOCKAGE SOUS BOIS : 6 % sur le stock moyen
+0,3 % sur les quantités sorties
 
-STOCKAGE en cuves étanches : 1,5 % sur le stock moyen
 
-STOCKAGE après conditionnement : 0,3 % sur les quantités sorties
+Alcools
+
+6 % sur le stock moyen
+
+1,5 % sur le stock moyen
+
+0,3 % sur les quantités sorties
 
 Pour les vins mousseux élaborés selon la méthode traditionnelle,
-l'entrepositaire agréé applique un taux global maximum de 1,5 % aux volumes de
-vin élaboré en bouteilles.
+l'entrepositaire agréé applique un taux de pertes global maximum de 1,5 % aux
+volumes de vin élaboré en bouteilles.
 
 Pour les eaux-de-vie de fruits stockées en cuves étanches ouvertes, le taux
-annuel forfaitaire de pertes est fixé à 2,5 % sur le stock moyen.
+annuel de pertes maximum est fixé à 2,5 % sur le stock moyen.
 
-Pour la bière, le taux annuel forfaitaire de pertes est fixé à 1 % sur les
+Pour la bière, le taux annuel de pertes maximum est fixé à 1 % sur les quantités
+sorties.
+
+Pour les arômes, le taux annuel de pertes maximum est fixé à 1,25 % sur les
 quantités sorties.
-
-Pour les arômes, le taux annuel forfaitaire de pertes est fixé à 1,25 % sur les
-quantités sorties.
-
-Ces taux annuels forfaitaires s'appliquent par entrepôt fiscal suspensif de
-droits d'accises.
 
 Le stock moyen est obtenu en additionnant les résultats des balances
 journalières des comptes des entrées et des sorties. Ce stock peut être aussi
