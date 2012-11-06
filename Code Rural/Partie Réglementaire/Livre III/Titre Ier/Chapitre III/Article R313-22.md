@@ -10,8 +10,7 @@ I.-Sont soumis à l'approbation du conseil d'administration :
 
 2° Le contrat pluriannuel d'objectifs et de moyens conclu avec l'Etat ;
 
-3° L'état prévisionnel des recettes et des dépenses de l'établissement et les
-décisions modificatives ;
+3° Le budget de l'établissement et les décisions modificatives ;
 
 4° Le document annuel de performance ;
 

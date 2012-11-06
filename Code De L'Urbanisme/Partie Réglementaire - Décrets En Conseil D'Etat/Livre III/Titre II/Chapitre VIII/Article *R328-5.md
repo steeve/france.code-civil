@@ -5,7 +5,7 @@ l'établissement. A cet effet, notamment :
 
 1° Il détermine l'orientation de la politique à suivre ;
 
-2° Il approuve l'état prévisionnel des recettes et des dépenses ;
+2° Il approuve le budget ;
 
 3° Il autorise les emprunts ;
 

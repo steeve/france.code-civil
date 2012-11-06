@@ -10,8 +10,7 @@ l'article R. 131-3 ;
 
 3° Le programme d'activité de l'agence ;
 
-4° L'état annuel des prévisions de recettes et de dépenses et les décisions
-modificatives ;
+4° Le budget et les décisions modificatives ;
 
 5° Le rapport annuel d'activité ;
 

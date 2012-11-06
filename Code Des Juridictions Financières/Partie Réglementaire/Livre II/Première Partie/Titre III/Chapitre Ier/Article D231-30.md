@@ -6,9 +6,9 @@ comptes sont soumis à l'apurement administratif ou à leur défaut, les
 contribuables dûment autorisés dans les conditions prévues à l'article L. 2132-5
 du code général des collectivités territoriales, ainsi que les représentants de
 l'Etat dans le département ou la région, peuvent demander à la chambre régionale
-des comptes la réformation des arrêtés de décharge pris par les
-trésoriers-payeurs généraux et les receveurs des finances dans un délai de six
-mois à dater de leur notification aux comptables.
+des comptes la réformation des arrêtés de décharge pris par les directeurs
+départementaux ou, le cas échéant, régionaux des finances publiques dans un
+délai de six mois à dater de leur notification aux comptables.
 
 Lorsque le recours est présenté par un contribuable, la durée de l'instance
 devant le tribunal administratif pour obtenir l'autorisation de saisir le
@@ -20,10 +20,10 @@ coopération intercommunale et des établissements publics dont les comptes sont
 soumis à l'apurement administratif, les représentants de l'Etat dans le
 département ou la région et le procureur financier près la chambre régionale des
 comptes peuvent encore demander à la chambre régionale des comptes de réformer
-les arrêtés des trésoriers-payeurs généraux et receveurs des finances pour cause
-d'erreur, omission, faux ou double emploi selon la procédure prévue au II de
-l'article R. 243-13. Le procureur financier près la chambre régionale des
-comptes peut également demander hors délai la réformation des arrêtés pris sur
-les comptes du comptable patent lorsqu'une gestion de fait a été déférée à la
-chambre régionale des comptes conformément aux dispositions de l'article D.
-231-28.
+les arrêtés des directeurs départementaux ou, le cas échéant, régionaux des
+finances publiques pour cause d'erreur, omission, faux ou double emploi selon la
+procédure prévue au II de l'article R. 243-13. Le procureur financier près la
+chambre régionale des comptes peut également demander hors délai la réformation
+des arrêtés pris sur les comptes du comptable patent lorsqu'une gestion de fait
+a été déférée à la chambre régionale des comptes conformément aux dispositions
+de l'article D. 231-28.

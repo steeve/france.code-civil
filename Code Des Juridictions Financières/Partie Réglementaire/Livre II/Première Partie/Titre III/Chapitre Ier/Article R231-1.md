@@ -9,5 +9,5 @@ condamnations à l'amende.
 
 Elle statue sur les révisions et sur les rectifications d'erreur matérielle de
 ses propres jugements et sur les recours en réformation des arrêtés de décharge
-et de quitus des trésoriers-payeurs généraux et des receveurs particuliers des
-finances.
+et de quitus des directeurs départementaux ou, le cas échéant, régionaux des
+finances publiques et des receveurs particuliers des finances.

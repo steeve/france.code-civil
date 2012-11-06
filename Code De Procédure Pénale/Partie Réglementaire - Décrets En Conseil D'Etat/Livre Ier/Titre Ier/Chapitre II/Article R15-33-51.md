@@ -1,13 +1,14 @@
 Article R15-33-51
 ----
 Lorsque la composition pénale consiste dans le versement d'une amende de
-composition, le paiement s'effectue exclusivement, par dérogation à l'article 24
-du décret n° 62-1587 du 29 décembre 1962, soit par timbre fiscal, soit, auprès
-d'un comptable du Trésor, par versement d'espèces ou par remise d'un chèque
-certifié dans les conditions prévues au troisième alinéa de l'article 6 du
-décret-loi du 30 octobre 1935 unifiant le droit en matière de chèques et relatif
-aux cartes de paiement. Jusqu'à 750 euros, le paiement ne peut s'effectuer que
-par timbre fiscal.
+composition, le paiement s'effectue exclusivement, par dérogation à l'article 25
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique, soit par timbre fiscal, soit, auprès d'un comptable du
+Trésor, par versement d'espèces ou par remise d'un chèque certifié dans les
+conditions prévues au troisième alinéa de l'article 6 du décret-loi du 30
+octobre 1935 unifiant le droit en matière de chèques et relatif aux cartes de
+paiement. Jusqu'à 750 euros, le paiement ne peut s'effectuer que par timbre
+fiscal.
 
 Lorsque le paiement s'effectue par timbre fiscal, le ou les timbres
 correspondants au montant de l'amende sont apposés par l'intéressé sur un des

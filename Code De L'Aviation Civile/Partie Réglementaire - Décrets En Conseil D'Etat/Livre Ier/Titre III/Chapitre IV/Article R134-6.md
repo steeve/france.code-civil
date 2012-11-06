@@ -2,8 +2,8 @@ Article R134-6
 ----
 Le recouvrement de la redevance pour services terminaux de la circulation
 aérienne est assuré selon la réglementation en vigueur en matière de créances de
-l'Etat mentionnées à l'article 80 du décret n° 62-1587 du 29 décembre 1962
-susvisé.
+l'Etat mentionnées aux articles 112 à 124 du décret n° 2012-1246 du 7 novembre
+2012 relatif à la gestion budgétaire et comptable publique susvisé.
 
 Sous réserve des dispositions de l'alinéa suivant, le paiement doit être
 effectué avant la date indiquée sur le titre de perception ; cette date ne peut

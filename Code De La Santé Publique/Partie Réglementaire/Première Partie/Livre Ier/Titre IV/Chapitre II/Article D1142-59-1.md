@@ -1,13 +1,12 @@
 Article D1142-59-1
 ----
 L'Etablissement français du sang mentionné à l'article L. 1222-1 inscrit
-annuellement dans son état prévisionnel des recettes et des dépenses la dotation
-mentionnée au 7° de l'article L. 1142-23. Pour la détermination de son montant,
-l'Office national d'indemnisation des accidents médicaux, des affections
-iatrogènes et des infections nosocomiales communique le 1er octobre de chaque
-année à l'Etablissement français du sang un montant prévisionnel des dépenses
-liées à l'indemnisation des préjudices mentionnés à l'article L. 1221-14 pour
-l'année suivante.
+annuellement dans son budget la dotation mentionnée au 7° de l'article L.
+1142-23. Pour la détermination de son montant, l'Office national d'indemnisation
+des accidents médicaux, des affections iatrogènes et des infections nosocomiales
+communique le 1er octobre de chaque année à l'Etablissement français du sang un
+montant prévisionnel des dépenses liées à l'indemnisation des préjudices
+mentionnés à l'article L. 1221-14 pour l'année suivante.
 
 Si le montant initial de la dotation est insuffisant pour couvrir les dépenses
 constatées, la modification de ce montant intervient dans les mêmes conditions

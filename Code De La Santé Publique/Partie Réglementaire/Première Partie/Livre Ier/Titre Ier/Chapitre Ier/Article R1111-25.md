@@ -21,6 +21,6 @@ la notification.
 A l'issue de ce délai, le représentant de l'Etat peut prononcer une amende
 administrative dont le montant ne peut excéder 3 000 €. Il la notifie à
 l'intéressé en lui indiquant le délai dans lequel il doit s'en acquitter et les
-voies de recours qui lui sont ouvertes.L'amende est recouvrée conformément aux
-dispositions des articles 76 à 79 du décret n° 62-1587 du 29 décembre 1962
-portant règlement général sur la comptabilité publique.
+voies de recours qui lui sont ouvertes. L'amende est recouvrée conformément aux
+dispositions des articles 108 à 111 du décret n° 2012-1246 du 7 novembre 2012
+relatif à la gestion budgétaire et comptable publique.

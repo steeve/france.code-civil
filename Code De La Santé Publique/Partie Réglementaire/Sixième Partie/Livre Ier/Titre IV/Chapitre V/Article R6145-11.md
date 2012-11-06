@@ -1,7 +1,6 @@
 Article R6145-11
 ----
-L'état des prévisions de recettes et de dépenses remplit les conditions
-suivantes :
+Le budget remplit les conditions suivantes :
 
 1° Chacun des comptes de résultat prévisionnels est présenté en équilibre ;
 toutefois, le compte de résultat prévisionnel principal et les comptes de

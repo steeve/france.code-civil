@@ -9,5 +9,6 @@ articles D. 246-4 et D. 246-5 du présent code.
 
 Les jugements de gestion de fait sont notifiés dans les mêmes formes au
 comptable public de la collectivité ou de l'établissement public concerné ainsi
-qu'au représentant de l'Etat dans le département. Le trésorier-payeur général
-reçoit ampliation desdits jugements.
+qu'au représentant de l'Etat dans le département. Le directeur départemental ou,
+le cas échéant, régional des finances publiques reçoit ampliation desdits
+jugements.

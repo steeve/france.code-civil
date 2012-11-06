@@ -9,7 +9,7 @@ au bureau, à l'exception des décisions concernant :
 2° L'approbation du programme pluriannuel d'intervention ou du projet
 stratégique et opérationnel ;
 
-3° L'approbation de l'état prévisionnel des recettes et des dépenses ;
+3° L'approbation du budget ;
 
 4° L'autorisation des emprunts ;
 

@@ -1,11 +1,11 @@
 Article R131-2
 ----
 Les comptes sont produits annuellement à la Cour des comptes, appuyés des pièces
-générales et justificatives, dans les conditions fixées par le décret n° 62-1587
-du 29 décembre 1962 portant règlement général sur la comptabilité publique et
-les instructions prises pour son application. La Cour procède à la vérification
-de ces pièces pour préparer le jugement des comptes des comptables et pour
-assurer le contrôle de la gestion des ordonnateurs.
+générales et justificatives, dans les conditions fixées par le décret n°
+2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
+publique et les instructions prises pour son application. La Cour procède à la
+vérification de ces pièces pour préparer le jugement des comptes des comptables
+et pour assurer le contrôle de la gestion des ordonnateurs.
 
 Toutefois, en ce qui concerne les opérations de l'Etat, la Cour des comptes
 reçoit trimestriellement les pièces justificatives des recettes et des dépenses

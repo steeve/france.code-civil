@@ -9,6 +9,6 @@ l'exercice, un état comparatif de l'activité, des recettes et des dépenses
 réalisées par rapport aux prévisions, selon un modèle fixé par arrêté des
 ministres chargés du budget, de la santé et de la sécurité sociale. Cet état
 comparatif est accompagné, en tant que de besoin, de propositions de
-modifications de l'état des prévisions de recettes et de dépenses. Les dates de
-transmission de cet état comparatif au directeur général de l'agence régionale
-de santé sont fixées par arrêté du ministre chargé de la santé.
+modifications du budget. Les dates de transmission de cet état comparatif au
+directeur général de l'agence régionale de santé sont fixées par arrêté du
+ministre chargé de la santé.

@@ -14,7 +14,7 @@ opérées.
 
 La signature manuscrite, ou électronique conformément aux modalités fixées par
 arrêté du ministre en charge du budget, du bordereau récapitulant les mandats de
-dépense emporte justification du service fait des dépenses concernées et
+dépense emporte certification du service fait des dépenses concernées et
 attestation du caractère exécutoire des pièces justifiant les dépenses
 concernées.
 

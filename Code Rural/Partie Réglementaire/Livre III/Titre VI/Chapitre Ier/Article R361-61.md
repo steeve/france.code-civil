@@ -13,7 +13,6 @@ prévisionnel de mise en place des différentes sections spécialisées.
 Le dossier technique indique notamment le mode de calcul des pertes économiques
 indemnisables par le fonds.
 
-Le dossier comptable et financier comporte notamment un état prévisionnel des
-recettes et des dépenses de la structure, incluant ses frais de fonctionnement,
-et le mode de gestion comptable et de présentation des comptes du fonds de
-mutualisation.
+Le dossier comptable et financier comporte notamment un budget de la structure,
+incluant ses frais de fonctionnement, et le mode de gestion comptable et de
+présentation des comptes du fonds de mutualisation.

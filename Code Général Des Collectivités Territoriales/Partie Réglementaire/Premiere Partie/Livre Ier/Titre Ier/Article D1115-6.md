@@ -11,9 +11,9 @@ françaises de droit public ;
 3° Lorsque le groupement est chargé du suivi et de la gestion de programmes
 bénéficiant de financements européens.
 
-Dans ces trois dernières hypothèses, les dispositions du décret n° 62-1587 du 29
-décembre 1962 portant règlement de la comptabilité publique, relatives aux
-établissements publics dotés d'un comptable public sont applicables.
+Dans ces trois dernières hypothèses, les dispositions du I de l'article 7 du
+décret n° 2012-91 du 26 janvier 2012 relatif aux groupements d'intérêt public
+sont applicables.
 
 Dans ces cas, l'agent comptable du groupement est nommé par arrêté du ministre
 du budget.

@@ -2,8 +2,8 @@ Article R6144-1-1
 ----
 La commission médicale d'établissement est informée sur les matières suivantes :
 
-1° L'état des prévisions de recettes et de dépenses initial et ses
-modifications, le compte financier et l'affectation des résultats ;
+1° Le budget initial et ses modifications, le compte financier et l'affectation
+des résultats ;
 
 2° Le contrat pluriannuel d'objectifs et de moyens de l'établissement ;
 

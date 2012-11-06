@@ -1,7 +1,6 @@
 Article R6145-19
 ----
-Sont annexés à l'état des prévisions de recettes et de dépenses les documents
-suivants :
+Sont annexés au budget les documents suivants :
 
 1° Le rapport de présentation établi par le directeur de l'établissement
 analysant les équilibres généraux, explicitant les hypothèses retenues en

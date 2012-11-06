@@ -56,11 +56,11 @@ délai d'un mois à compter de la notification qui lui a été faite et la
 désignation de la juridiction compétente.
 
 Lorsque l'opposition porte sur des fonds détenus par un organisme public tel que
-défini à l'article 1er du décret n° 62-1587 du 29 décembre 1962 modifié portant
-règlement général sur la comptabilité publique, la lettre d'opposition doit, à
-peine de nullité, être adressée au comptable public assignataire de la dépense
-et contenir, outre les mentions précédentes, la désignation de la créance
-faisant l'objet de l'opposition. A cette fin, le créancier peut requérir de
+défini à l'article 1er du décret n° 2012-1246 du 7 novembre 2012 relatif à la
+gestion budgétaire et comptable publique, la lettre d'opposition doit, à peine
+de nullité, être adressée au comptable public assignataire de la dépense et
+contenir, outre les mentions précédentes, la désignation de la créance faisant
+l'objet de l'opposition. A cette fin, le créancier peut requérir de
 l'ordonnateur qu'il lui indique le comptable public assignataire de la dépense
 ainsi que tous les renseignements nécessaires à la mise en oeuvre de la mesure.
 

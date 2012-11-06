@@ -18,11 +18,12 @@ régionale des comptes décide la communication et fixe le délai de réintégra
 des pièces ; dans les autres cas, le président de la chambre fixe les modalités
 de communication des pièces.
 
-Les pièces justificatives afférentes aux comptes arrêtés par les
-trésoriers-payeurs généraux et les receveurs particuliers des finances peuvent
-être communiquées par ces comptables aux personnes ou juridictions visées au
-quatrième alinéa du présent article ; les conditions de cette communication sont
-précisées par instruction du ministre chargé du budget.
+Les pièces justificatives afférentes aux comptes arrêtés par les directeurs
+départementaux ou, le cas échéant, régionaux des finances publiques et les
+receveurs particuliers des finances peuvent être communiquées par ces comptables
+aux personnes ou juridictions visées au quatrième alinéa du présent article ;
+les conditions de cette communication sont précisées par instruction du ministre
+chargé du budget.
 
 Les communications, quelles qu'en soient les formes, s'effectuent aux frais du
 demandeur.

@@ -2,7 +2,7 @@ Article R6145-66
 ----
 Le plan global de financement pluriannuel est révisé chaque année et transmis au
 directeur général de l'agence régionale de santé, en vue de son approbation, en
-même temps que l'état des prévisions de recettes et de dépenses.
+même temps que le budget.
 
 Le plan est mis à jour, en tant que de besoin au cours de l'exercice, dès lors
 qu'une nouvelle opération est inscrite dans le programme d'investissement ou dès

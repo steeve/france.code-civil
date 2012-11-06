@@ -3,7 +3,7 @@ Article R334-8
 Le conseil d'administration règle par ses délibérations les affaires de
 l'établissement.
 
-I. - Il délibère notamment sur :
+I.-Il délibère notamment sur :
 
 1° Les conditions générales d'organisation et de fonctionnement de
 l'établissement ;
@@ -22,8 +22,7 @@ constitution de réserves ;
 
 7° Le rapport annuel d'activité ;
 
-8° L'état annuel des prévisions de recettes et de dépenses et ses modifications
-;
+8° Le budget et ses modifications ;
 
 9° Les contrats, conventions et marchés excédant un montant fixé par lui ;
 
@@ -44,7 +43,7 @@ transactions ;
 
 16° L'acceptation ou le refus des dons et legs.
 
-II. - Le conseil d'administration a également pour attribution :
+II.-Le conseil d'administration a également pour attribution :
 
 1° De définir les politiques, notamment en matière internationale, permettant à
 l'agence de remplir les missions qui lui sont confiées et les principaux moyens

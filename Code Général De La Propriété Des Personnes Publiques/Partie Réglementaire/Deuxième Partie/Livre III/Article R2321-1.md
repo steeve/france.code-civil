@@ -1,6 +1,7 @@
 Article R2321-1
 ----
 Le recouvrement des produits, redevances et sommes de toute nature mentionnés à
-l'article L. 2321-1 est opéré par les comptables publics mentionnés au dernier
-alinéa de l'article 68 du décret n° 62-1587 du 29 décembre 1962 portant
-règlement général sur la comptabilité publique.
+l'article L. 2321-1 est opéré conformément aux dispositions fixées aux articles
+23 à 28 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion
+budgétaire et comptable publique, par les comptables publics mentionnés à
+l'article 77 de ce décret.

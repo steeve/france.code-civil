@@ -197,8 +197,9 @@ somme égale à ... p. 100 du montant des loyers annuels dus pour les logements
 faisant l'objet de la présente convention.
 
 En cas de défaut de versement de la somme visée à l'alinéa 2 du présent article,
-leur recouvrement sera opéré dans les conditions prévues par les décrets n°
-62-1587 du 29 décembre 1962 et n° 63-608 du 24 juin 1963 modifié.
+leur recouvrement sera opéré dans les conditions prévues par le décret n°
+2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
+publique.
 
 Article 8.
 

@@ -9,5 +9,5 @@ que l'organisme dispose d'un mois pour faire valoir ses observations.
 A l'issue de ce délai, le préfet prononce s'il y a lieu la sanction.
 
 Le recouvrement de la pénalité est effectué au profit de l'Etat dans les
-conditions fixées par le décret n° 62-1587 du 29 décembre 1962 modifié portant
-règlement général sur la comptabilité publique.
+conditions fixées par le décret n° 2012-1246 du 7 novembre 2012 relatif à la
+gestion budgétaire et comptable publique.

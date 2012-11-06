@@ -32,9 +32,10 @@ par les dispositions suivantes :
 " La notification des observations rectifiées se substitue à celle prévue au
 premier alinéa de l'article R. 241-21. ” ;
 
-6° Pour l'application de l'article R. 241-23, les mots : " trésorier-payeur
-général ” sont remplacés par les mots : " représentant de la direction générale
-des finances publiques ” ;
+6° Pour l'application de l'article R. 241-23, les mots : " directeur
+départemental ou, le cas échéant, régional des finances publiques ” sont
+remplacés par les mots : " représentant de la direction générale des finances
+publiques ” ;
 
 7° Pour l'application de l'article R. 241-24, les mots : " les missions prévues
 à l'article 7 du décret n° 82-389 du 10 mai 1982 relatif aux pouvoirs du préfet

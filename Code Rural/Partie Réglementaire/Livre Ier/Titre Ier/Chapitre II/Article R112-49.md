@@ -1,7 +1,8 @@
 Article R112-49
 ----
-L'office est soumis au régime financier et comptable défini par le décret n°
-62-1587 du 29 décembre 1962 (1re partie).
+L'office est soumis au régime financier et comptable défini par le titre Ier du
+décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique.
 
 Un document annexe au budget retrace respectivement les opérations de
 fonctionnement et d'intervention de l'office.

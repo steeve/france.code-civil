@@ -44,5 +44,5 @@ l'établissement de santé par l'établissement pénitentiaire ;
 12° Les conditions dans lesquelles l'administration pénitentiaire assure la
 sécurité des personnes et des biens dans les locaux de soins.
 
-Un état prévisionnel des dépenses et des recettes de l'établissement de santé
-afférentes aux soins dispensés en milieu pénitentiaire est annexé au protocole.
+Un budget de l'établissement de santé afférent aux soins dispensés en milieu
+pénitentiaire est annexé au protocole.

@@ -11,6 +11,6 @@ un objet d'ordre économique et social et celles du décret n° 55-733 du 26 mai
 1955 modifié portant codification et aménagement des textes relatifs au contrôle
 économique et financier de l'Etat s'appliquent au groupement.
 
-Les dispositions du décret n° 62-1587 du 29 décembre 1962 portant règlement
-général sur la comptabilité publique sont applicables et l'agent comptable du
+Les dispositions du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion
+budgétaire et comptable publique sont applicables et l'agent comptable du
 groupement est nommé par arrêté du ministre chargé du budget.

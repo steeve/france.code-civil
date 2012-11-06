@@ -14,11 +14,11 @@ Il défère à la Cour des comptes les opérations qu'il présume constitutives 
 gestion de fait, à son initiative ou à la demande du ministre chargé du budget,
 des ministres intéressés, des représentants de l'Etat dans les régions, la
 collectivité territoriale de Corse, les départements ou les collectivités
-d'outre-mer, des procureurs de la République, des trésoriers-payeurs généraux et
-des autres comptables principaux, ou au vu des constatations faites lors d'un
-contrôle de la Cour des comptes ou des autres informations dont il dispose. Il
-requiert en cas de besoin l'application de l'amende pour immixtion dans les
-fonctions de comptable public.
+d'outre-mer, des procureurs de la République, des directeurs départementaux ou,
+le cas échéant, régionaux des finances publiques et des autres comptables
+principaux, ou au vu des constatations faites lors d'un contrôle de la Cour des
+comptes ou des autres informations dont il dispose. Il requiert en cas de besoin
+l'application de l'amende pour immixtion dans les fonctions de comptable public.
 
 Il adresse à la Cour les appels formés contre les jugements et ordonnances
 rendus par les chambres régionales et territoriales des comptes, sur

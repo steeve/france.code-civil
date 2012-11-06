@@ -9,8 +9,8 @@ politique de l'établissement ;
 ― il prépare, soumet à l'approbation du conseil et met en œuvre le projet
 stratégique prévu à l'article L. 103-1 ;
 
-― il établit l'état prévisionnel des recettes et des dépenses et ses décisions
-modificatives, et, après approbation du conseil de surveillance, les exécute ;
+― il établit le budget et ses décisions modificatives, et, après approbation du
+conseil de surveillance, les exécute ;
 
 ― il soumet le compte financier de l'établissement au conseil de surveillance ;
 

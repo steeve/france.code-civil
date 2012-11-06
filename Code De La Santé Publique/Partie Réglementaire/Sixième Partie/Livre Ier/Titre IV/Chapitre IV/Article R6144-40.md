@@ -29,5 +29,5 @@ charge des usagers ;
 Le comité est régulièrement tenu informé de la situation budgétaire et des
 effectifs prévisionnels et réels de l'établissement. Il est également informé du
 contrat pluriannuel d'objectifs et de moyens mentionné à l'article L. 6114-1,
-ainsi que de l'état des prévisions de recettes et de dépenses prévu à l'article
-L. 6145-1 et des décisions mentionnées au 8° de l'article L. 6143-7.
+ainsi que du budget prévu à l'article L. 6145-1 et des décisions mentionnées au
+8° de l'article L. 6143-7.

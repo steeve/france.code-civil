@@ -34,5 +34,5 @@ relatifs à leur chiffre d'affaires nécessaires au calcul de la pénalité.
 
 En l'absence de paiement dans un délai d'un mois, l'agent comptable de l'agence
 centrale procède au recouvrement de la pénalité, dans les conditions prévues à
-l'article 164 du décret du 29 décembre 1962 portant règlement général sur la
-comptabilité publique.
+l'article 192 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion
+budgétaire et comptable publique.

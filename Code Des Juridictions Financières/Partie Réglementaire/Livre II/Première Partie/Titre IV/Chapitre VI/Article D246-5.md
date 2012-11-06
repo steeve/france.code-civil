@@ -3,12 +3,14 @@ Article D246-5
 Si, par suite du refus du comptable, de ses représentants légaux ou de ses
 héritiers, ou pour toute autre cause, la notification par lettre recommandée ne
 peut pas atteindre son destinataire, le secrétaire général de la chambre
-régionale des comptes adresse le jugement ou l'ordonnance au trésorier-payeur
-général du département du dernier domicile connu ou déclaré.
+régionale des comptes adresse le jugement ou l'ordonnance au directeur
+départemental ou, le cas échéant, régional des finances publiques du département
+du dernier domicile connu ou déclaré.
 
-Dès réception du jugement ou de l'ordonnance, le trésorier-payeur général fait
-procéder à une notification à personne ou à domicile par un agent huissier du
-Trésor qui en retire récépissé et en dresse procès-verbal.
+Dès réception du jugement ou de l'ordonnance, le directeur départemental ou, le
+cas échéant, régional des finances publiques fait procéder à une notification à
+personne ou à domicile par un agent huissier du Trésor qui en retire récépissé
+et en dresse procès-verbal.
 
 Si, dans l'exercice de cette mission, l'agent huissier ne trouve au domicile
 indiqué ni le comptable lui-même ni un membre de sa famille ou une personne à

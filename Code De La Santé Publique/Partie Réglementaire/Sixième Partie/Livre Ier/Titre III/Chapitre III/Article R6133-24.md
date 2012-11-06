@@ -20,10 +20,10 @@ le cas échéant du comité restreint.
 Il représente le groupement dans tous les actes de la vie civile et peut ester
 en justice.
 
-Il assure l'exécution du budget prévisionnel ou de l'état des prévisions de
-recettes et de dépenses selon la nature juridique du groupement adoptée par
-l'assemblée générale. Il a la qualité d'ordonnateur des recettes et des dépenses
-lorsque le groupement est soumis aux règles de la comptabilité publique.
+Il assure l'exécution du budget prévisionnel ou du budget selon la nature
+juridique du groupement adoptée par l'assemblée générale. Il a la qualité
+d'ordonnateur des recettes et des dépenses lorsque le groupement est soumis aux
+règles de la comptabilité publique.
 
 Il informe l'ensemble des membres et les tiers contractant avec le groupement
 des délibérations intéressant leurs rapports avec le groupement.

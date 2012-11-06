@@ -1,8 +1,7 @@
 Article R6145-5
 ----
-Le directeur est l'ordonnateur de l'état des prévisions de recettes et de
-dépenses de l'établissement public de santé. Ses opérations font l'objet d'une
-comptabilité administrative.
+Le directeur est l'ordonnateur du budget de l'établissement public de santé. Ses
+opérations font l'objet d'une comptabilité administrative.
 
 L'ordonnateur peut procéder en cours d'exercice à des virements de crédits entre
 tous les titres ou chapitres, sans que ces virements puissent avoir pour

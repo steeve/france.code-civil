@@ -5,9 +5,8 @@ Sont soumis à l'approbation préalable du conseil de surveillance :
 a) Le projet stratégique du port mentionné à l'article L. 103-1 et le rapport
 annuel sur son exécution ;
 
-b) L'état prévisionnel des recettes et des dépenses et ses décisions
-modificatives, notamment l'évolution de la dette, des politiques salariales et
-tarifaires et des effectifs ;
+b) Le budget et ses décisions modificatives, notamment l'évolution de la dette,
+des politiques salariales et tarifaires et des effectifs ;
 
 c) Le compte financier et l'affectation des résultats aux fins de vérification
 et de contrôle ;

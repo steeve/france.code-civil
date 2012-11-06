@@ -19,11 +19,11 @@ Au terme d'une procédure contradictoire avec l'établissement public de santé,
 président du conseil régional notifie au directeur de l'établissement le montant
 de la subvention de fonctionnement et d'équipement arrêtée par le conseil
 régional et le transmet au directeur général de l'agence régionale de santé,
-chargé de l'approbation de l'état des prévisions de recettes et de dépenses de
-l'établissement, dans des délais compatibles avec le calendrier d'approbation
-budgétaire de l'établissement public de santé fixé par l'article R. 6145-29.
+chargé de l'approbation du budget de l'établissement, dans des délais
+compatibles avec le calendrier d'approbation budgétaire de l'établissement
+public de santé fixé par l'article R. 6145-29.
 
 Le président du conseil régional est informé de la décision prise par le
-directeur général de l'agence régionale de santé sur l'approbation de l'état des
-prévisions de recettes et de dépenses de l'établissement public de santé dans le
-cadre de la procédure budgétaire prévue par l'article R. 6145-29.
+directeur général de l'agence régionale de santé sur l'approbation du budget de
+l'établissement public de santé dans le cadre de la procédure budgétaire prévue
+par l'article R. 6145-29.

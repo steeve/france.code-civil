@@ -10,8 +10,7 @@ l'établissement ;
 
 3° Les programmes généraux d'activités et d'investissements ;
 
-4° L'état annuel des prévisions des recettes et des dépenses et, le cas échéant,
-les états rectificatifs en cours d'année ;
+4° Le budget et, le cas échéant, les états rectificatifs en cours d'année ;
 
 5° Les comptes de chaque exercice et l'affectation des résultats ;
 

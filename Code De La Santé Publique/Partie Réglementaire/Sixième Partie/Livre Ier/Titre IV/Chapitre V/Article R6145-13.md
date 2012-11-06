@@ -1,7 +1,6 @@
 Article R6145-13
 ----
-L'état des prévisions de recettes et de dépenses des établissements publics de
-santé se compose :
+Le budget des établissements publics de santé se compose :
 
 1° D'un compte de résultat prévisionnel principal dans lequel sont prévues et
 autorisées les opérations d'exploitation, à l'exclusion de celles qui sont

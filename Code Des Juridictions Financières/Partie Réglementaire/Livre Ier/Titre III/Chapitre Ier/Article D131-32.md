@@ -1,9 +1,10 @@
 Article D131-32
 ----
-Les trésoriers-payeurs généraux ou les autres comptables supérieurs chargés de
-l'apurement administratif peuvent enjoindre aux comptables dont ils apurent les
-comptes de produire, dans le délai d'un mois, les pièces justificatives qui
-feraient défaut.
+Les directeurs départementaux ou, le cas échéant, régionaux des finances
+publiques ou les autres comptables supérieurs chargés de l'apurement
+administratif peuvent enjoindre aux comptables dont ils apurent les comptes de
+produire, dans le délai d'un mois, les pièces justificatives qui feraient
+défaut.
 
 Ils prennent sur les comptes qui leur sont soumis des décisions administratives
 établissant que les comptables sont quittes ou en débet.

@@ -1,9 +1,9 @@
 Article D244-3
 ----
 Le recours en réformation contre un arrêté de décharge définitif pris par un
-trésorier-payeur général ou un receveur particulier des finances doit être
-déposé ou adressé par le requérant au greffe de la chambre régionale des
-comptes.
+directeur départemental ou, le cas échéant, régional des finances publiques ou
+un receveur particulier des finances doit être déposé ou adressé par le
+requérant au greffe de la chambre régionale des comptes.
 
 Le dépôt du recours interrompt, à compter de la date de son enregistrement, le
 délai de six mois prévu à l'article L. 231-9.
@@ -14,11 +14,12 @@ nécessaires pour établir le bien-fondé de la demande et, sauf en ce qui conce
 les contribuables autorisés, d'une ampliation de l'arrêté attaqué.
 
 Le greffe près la chambre régionale des comptes communique le recours au
-trésorier-payeur général ou au receveur particulier des finances et aux autres
-intéressés visés à l'article D. 231-30. Cette formalité est réputée accomplie à
-l'égard des ministres intéressés par envoi au représentant de l'Etat dans le
-département où a été prise la décision attaquée.
+directeur départemental ou, le cas échéant, régional des finances publiques ou
+au receveur particulier des finances et aux autres intéressés visés à l'article
+D. 231-30. Cette formalité est réputée accomplie à l'égard des ministres
+intéressés par envoi au représentant de l'Etat dans le département où a été
+prise la décision attaquée.
 
 Lorsque la décision attaquée a été prise par un receveur particulier des
-finances, le greffe avise en outre le trésorier-payeur général du dépôt du
-recours.
+finances, le greffe avise en outre le directeur départemental ou, le cas
+échéant, régional des finances publiques du dépôt du recours.

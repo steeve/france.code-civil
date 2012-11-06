@@ -1,13 +1,13 @@
 Article R684-7
 ----
-Le conseil d'administration adopte l'état prévisionnel des recettes et des
-dépenses et, le cas échéant, les budgets annexes et leurs modifications, arrête
-le compte financier, examine le rapport annuel d'activité de l'établissement et
-se prononce sur son programme de travail annuel.
+Le conseil d'administration adopte le budget et, le cas échéant, les budgets
+annexes et leurs modifications, arrête le compte financier, examine le rapport
+annuel d'activité de l'établissement et se prononce sur son programme de travail
+annuel.
 
 Il est consulté pour avis sur les projets de transactions et sur les décisions
 relatives aux acquisitions et cessions patrimoniales mobilières et immobilières
-d'un montant supérieur à 1, 5 million d'euros.
+d'un montant supérieur à 1,5 million d'euros.
 
 Il est consulté pour avis sur les projets de décisions du directeur mentionnées
 à l'article R. 621-27.

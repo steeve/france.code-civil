@@ -27,8 +27,7 @@ constitution de réserves ;
 titre des autorisations temporaires d'occupation des immeubles affectés à
 l'établissement public ;
 
-9° L'état annuel des prévisions de recettes et de dépenses et ses modifications
-;
+9° Le budget et ses modifications ;
 
 10° Les contrats, conventions et marchés excédant un montant fixé par lui ;
 

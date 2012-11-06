@@ -26,6 +26,5 @@ Par dérogation au 1°, les prévisions de recettes peuvent inclure des sommes
 escomptées par l'établissement au cours de l'exercice, prévues dans le contrat
 pluriannuel d'objectifs et de moyens ou un engagement contractuel spécifique, et
 non encore notifiées, dont l'établissement doit justifier le montant. Dans ce
-cas, l'éventuelle approbation de l'état des prévisions de recettes et de
-dépenses dans sa globalité ne vaut pas engagement de notification par le
-directeur général de l'agence régionale de santé.
+cas, l'éventuelle approbation du budget dans sa globalité ne vaut pas engagement
+de notification par le directeur général de l'agence régionale de santé.

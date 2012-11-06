@@ -6,6 +6,7 @@ Les articles D. 244-1 à D. 244-5 sont applicables. Pour leur application :
 des comptes sont respectivement remplacées par des références aux chambres
 territoriales des comptes ou à la chambre territoriale des comptes ;
 
-2° Les références aux trésoriers-payeurs généraux et aux receveurs particuliers
-des finances sont remplacées par des références aux représentants de la
-direction générale des finances publiques.
+2° Les références aux directeurs départementaux ou, le cas échéant, régionaux
+des finances publiques et aux receveurs particuliers des finances sont
+remplacées par des références aux représentants de la direction générale des
+finances publiques.

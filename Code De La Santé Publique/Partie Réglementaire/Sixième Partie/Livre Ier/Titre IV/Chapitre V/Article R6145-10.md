@@ -6,18 +6,17 @@ dépenses annuelles. Il détermine les recettes prévisionnelles dans les
 conditions fixées au premier alinéa de l'article L. 6145-1 et à l'article L.
 6145-7.
 
-Le modèle des documents de présentation de l'état des prévisions de recettes et
-de dépenses et de ses modifications est fixé par arrêté des ministres chargés du
-budget, de la santé et de la sécurité sociale.
+Le modèle des documents de présentation du budget et de ses modifications est
+fixé par arrêté des ministres chargés du budget, de la santé et de la sécurité
+sociale.
 
 Les prévisions de recettes et de dépenses sont fixées par le directeur selon les
 modalités définies aux articles R. 6145-13 à R. 6145-18 et dans le respect des
 conditions prévues à l'article R. 6145-11.
 
-L'état des prévisions de recettes et de dépenses peut, en tant que de besoin,
-faire l'objet de décisions modificatives fixées par le directeur, soit à son
-initiative, soit à la demande du directeur général de l'agence régionale de
-santé en application de l'article L. 6145-4.
+Le budget peut, en tant que de besoin, faire l'objet de décisions modificatives
+fixées par le directeur, soit à son initiative, soit à la demande du directeur
+général de l'agence régionale de santé en application de l'article L. 6145-4.
 
 Les décisions modificatives qui tiennent compte d'une modification de la
 dotation de financement des missions d'intérêt général et d'aide à la

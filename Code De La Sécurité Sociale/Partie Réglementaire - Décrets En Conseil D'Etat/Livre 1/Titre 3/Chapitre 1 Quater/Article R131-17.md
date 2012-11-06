@@ -3,9 +3,9 @@ Article R131-17
 Les opérations financières et comptables de l'établissement sont effectuées
 conformément aux dispositions du décret n° 53-1227 du 10 décembre 1953 modifié
 relatif à la réglementation comptable applicable aux établissements publics
-nationaux à caractère administratif et du décret n° 62-1587 du 29 décembre 1962
-modifié portant règlement général sur la comptabilité publique. Les
-disponibilités de l'établissement sont déposées auprès d'un comptable du Trésor.
+nationaux à caractère administratif et du décret n° 2012-1246 du 7 novembre 2012
+relatif à la gestion budgétaire et comptable publique. Les disponibilités de
+l'établissement sont déposées auprès d'un comptable du Trésor.
 
 L'agent comptable du fonds est nommé par arrêté conjoint des ministres chargés
 de la sécurité sociale, de l'emploi et du budget.

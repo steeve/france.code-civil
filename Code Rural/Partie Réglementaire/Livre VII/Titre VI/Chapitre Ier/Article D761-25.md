@@ -27,9 +27,9 @@ gestion ;
 que sur les projets de loi et de règlement intéressant les matières de sa
 compétence ;
 
-9° Fixe annuellement un état prévisionnel des dépenses et des recettes de ce
-régime, d'une part, dans le cadre de l'évolution des dépenses déterminée par la
-loi de financement de la sécurité sociale et, d'autre part, dans les limites de
-l'équilibre financier dudit régime.
+9° Fixe annuellement un budget de ce régime, d'une part, dans le cadre de
+l'évolution des dépenses déterminée par la loi de financement de la sécurité
+sociale et, d'autre part, dans les limites de l'équilibre financier dudit
+régime.
 
 10° Exerce les compétences prévues aux articles D. 761-7, D. 761-8 et D. 761-16.

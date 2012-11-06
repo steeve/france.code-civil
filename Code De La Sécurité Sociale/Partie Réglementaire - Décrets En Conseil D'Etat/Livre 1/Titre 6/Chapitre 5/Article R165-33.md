@@ -40,13 +40,13 @@ persiste pendant un an à manquer à cette obligation, il s'expose à la
 reconduction de la procédure de sanction.
 
 En cas de défaut de paiement dans un délai d'un mois, la pénalité est recouvrée
-dans les conditions prévues à l'article 164 du décret n° 62-1587 du 29 décembre
-1962 portant règlement général sur la comptabilité publique.
+dans les conditions prévues à l'article 192 du décret n° 2012-1246 du 7 novembre
+2012 relatif à la gestion budgétaire et comptable publique.
 
 Les montants versés à l'organisme compétent mentionné à l'article L. 213-1 sont
 répartis entre le régime général d'assurance maladie, le régime d'assurance
 maladie des professions agricoles et le régime social des indépendants, selon la
 clé de répartition fixée en application de l'article L. 162-37 du code de la
-sécurité sociale.L'agent comptable de cet organisme notifie à l'Agence nationale
-de sécurité du médicament et des produits de santé et aux ministres chargés de
-la santé et de la sécurité sociale les montants perçus.
+sécurité sociale. L'agent comptable de cet organisme notifie à l'Agence
+nationale de sécurité du médicament et des produits de santé et aux ministres
+chargés de la santé et de la sécurité sociale les montants perçus.

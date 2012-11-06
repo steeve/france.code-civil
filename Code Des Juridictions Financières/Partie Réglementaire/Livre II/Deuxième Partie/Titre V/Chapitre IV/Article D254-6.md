@@ -10,6 +10,6 @@ territoriales des comptes ou à la chambre territoriale des comptes ;
 2° La référence au représentant de l'Etat dans le département est remplacée par
 la référence au représentant de l'Etat ;
 
-3° La référence au trésorier-payeur général est remplacée par la référence au
-représentant de la direction générale des finances publiques dans ces
-collectivités.
+3° La référence au directeur départemental ou, le cas échéant, régional des
+finances publiques est remplacée par la référence au représentant de la
+direction générale des finances publiques dans ces collectivités.

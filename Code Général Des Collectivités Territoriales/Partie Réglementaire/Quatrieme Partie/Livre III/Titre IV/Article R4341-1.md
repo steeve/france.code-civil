@@ -1,6 +1,6 @@
 Article R4341-1
 ----
-Conformément aux dispositions de l'article 2 du décret n° 62-1587 du 29 décembre
-1962 portant règlement général sur la comptabilité publique, sont applicables
-aux régions et à leurs établissements publics les principes fondamentaux
-contenus dans la première partie dudit décret.
+Conformément aux dispositions de l'article 1er du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique, sont
+applicables aux régions et à leurs établissements publics les principes
+fondamentaux contenus dans le titre Ier dudit décret.

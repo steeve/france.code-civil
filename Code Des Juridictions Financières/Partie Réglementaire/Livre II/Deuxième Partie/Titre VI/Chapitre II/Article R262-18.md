@@ -15,11 +15,12 @@ cas de retard, requiert l'application de l'amende prévue par la loi.
 
 Il défère à la chambre territoriale des comptes les opérations qu'il présume
 constitutives de gestion de fait, sur communication du haut-commissaire, des
-trésoriers-payeurs généraux, des procureurs de la République ou du procureur
-général près la Cour des comptes, à son initiative ou au vu des constatations
-faites lors d'un contrôle de la chambre territoriale des comptes ou des autres
-informations dont il dispose. Il requiert, en cas de besoin, l'application de
-l'amende pour immixtion dans les fonctions de comptable public.
+directeurs départementaux ou, le cas échéant, régionaux des finances publiques ,
+des procureurs de la République ou du procureur général près la Cour des
+comptes, à son initiative ou au vu des constatations faites lors d'un contrôle
+de la chambre territoriale des comptes ou des autres informations dont il
+dispose. Il requiert, en cas de besoin, l'application de l'amende pour immixtion
+dans les fonctions de comptable public.
 
 Lui sont obligatoirement communiqués, avec pièces à l'appui, les rapports à fin
 de jugement ou d'ordonnance, les rapports concernant les demandes d'inscription
