@@ -14,5 +14,5 @@ précisées par le règlement intérieur adopté par le conseil d'administration
 
 Le bureau exerce les attributions qui lui ont été déléguées.
 
-Le directeur, l'agent comptable et le membre du corps du contrôle général
-économique et financier assistent aux réunions du bureau avec voix consultative.
+Le directeur, l'agent comptable et le contrôleur budgétaire assistent aux
+réunions du bureau avec voix consultative.

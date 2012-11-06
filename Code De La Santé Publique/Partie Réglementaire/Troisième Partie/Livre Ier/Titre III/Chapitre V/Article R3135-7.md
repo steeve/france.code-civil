@@ -9,8 +9,7 @@ contrat de performance passé entre l'établissement et l'Etat ;
 
 3° Le programme et le rapport annuels d'activité de l'établissement ;
 
-4° Le budget primitif et ses modifications, ainsi que le compte financier et
-l'affectation des résultats ;
+4° Le budget, ainsi que le compte financier ;
 
 5° Les acquisitions, aliénations, échanges d'immeubles, ainsi que sur les baux
 et locations les concernant comportant une durée supérieure à celle qu'il fixe ;

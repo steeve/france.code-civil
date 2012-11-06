@@ -1,9 +1,9 @@
 Article R*321-8
 ----
-La gestion financière et comptable de l'agence est organisée suivant les
-modalités fixées par le décret n° 62-1587 du 29 décembre 1962 modifié portant
-règlement général sur la comptabilité publique et les dispositions des articles
-L. 301-3, L. 301-5-1, L. 301-5-2, L. 312-2-1 et L. 321-1-1.
+L'agence est soumise aux dispositions des titres Ier et III du décret n°
+2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
+publique ainsi qu'aux dispositions des articles L. 301-3, L. 301-5-1, L.
+301-5-2, L. 312-2-1 et L. 321-1-1.
 
 Lorsque les aides de l'agence sont payées par un établissement public de
 coopération intercommunale ou un département dans le cadre d'une convention de

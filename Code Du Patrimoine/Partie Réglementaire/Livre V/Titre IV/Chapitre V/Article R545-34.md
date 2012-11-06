@@ -22,7 +22,6 @@ Quatre membres élus par les personnels de l'établissement et parmi eux ; 6°
 Quatre personnalités qualifiées dans le domaine de l'archéologie : a) Deux
 désignées par le ministre chargé de la culture ; b) Deux désignées par le
 ministre chargé de la recherche. Le directeur général, le directeur chargé des
-questions scientifiques et techniques, le membre du corps du contrôle général
-économique et financier, l'agent comptable ainsi que toute personne dont la
-présence est jugée utile par le président assistent aux séances avec voix
-consultative.
+questions scientifiques et techniques, le contrôleur budgétaire, l'agent
+comptable ainsi que toute personne dont la présence est jugée utile par le
+président assistent aux séances avec voix consultative.

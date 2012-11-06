@@ -1,8 +1,8 @@
 Article R20-44-20
 ----
-L'agence est soumise au régime financier et comptable défini par les décrets n°
-53-1227 du 10 décembre 1953 et n° 62-1587 du 29 décembre 1962, en tant que ce
-texte concerne les établissements publics à caractère administratif.
+L'agence est soumise aux dispositions des titres Ier et III du décret n°
+2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
+publique.
 
 Les opérations liées au réaménagement du spectre des fréquences radioélectriques
 font l'objet d'une individualisation budgétaire et comptable.

@@ -30,7 +30,6 @@ Le conseil d'administration peut déléguer au directeur général certaines des
 compétences prévues au présent article, à l'exception des matières mentionnées
 aux 2°, 3°, 7° et 8°, dans les limites fixées par le règlement intérieur.
 
-Les délibérations du conseil d'administration prévues au 3° sont exécutoires
-après approbation par les ministères de tutelle en application du décret n°
-99-575 du 8 juillet 1999 relatif aux modalités d'approbation de certaines
-décisions financières des établissements de l'Etat.
+Les délibérations portant sur le budget et le compte financier sont exécutoires
+dans les conditions prévues par le titre III du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.

@@ -10,8 +10,8 @@ devant toutes les juridictions et pour tous les actes de la vie civile. Il a la
 faculté de conclure des transactions dans les conditions prévues par les
 articles 2044 et suivants du code civil et dans les limites fixées par le
 conseil de surveillance. Les transactions sont subordonnées à l'accord préalable
-du commissaire du Gouvernement et de l'autorité chargée du contrôle économique
-et financier au-dessus d'un seuil fixé par le conseil de surveillance.
+du commissaire du Gouvernement et du contrôleur budgétaire au-dessus d'un seuil
+fixé par le conseil de surveillance.
 
 Il procède aux achats et passe les marchés ou traités.
 

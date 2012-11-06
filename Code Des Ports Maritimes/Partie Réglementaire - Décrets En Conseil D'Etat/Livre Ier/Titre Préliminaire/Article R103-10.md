@@ -19,6 +19,6 @@ c) Les règles de publicité et de mise en concurrence des marchés passés selo
 procédure adaptée.
 
 Le règlement est soumis, après son adoption par le conseil de surveillance, à
-l'approbation du commissaire du Gouvernement et de l'autorité chargée du
-contrôle économique et financier.L'approbation est réputée acquise, à défaut
-d'opposition de leur part, dans un délai de deux mois à compter de la saisine.
+l'approbation du commissaire du Gouvernement et du contrôleur budgétaire.
+L'approbation est réputée acquise, à défaut d'opposition de leur part, dans un
+délai de deux mois à compter de la saisine.

@@ -1,10 +1,9 @@
 Article R103-4
 ----
-Les grands ports maritimes se conforment, en matière de gestion financière et
-comptable, aux règles en usage pour les établissements publics nationaux à
-caractère industriel et commercial dotés d'un agent comptable et sont soumis aux
-articles 190 à 225 du décret n° 62-1587 du 29 décembre 1962 modifié portant
-règlement général sur la comptabilité publique.
+Les grands ports maritimes sont soumis aux dispositions des titres Ier et III du
+décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique à l'exception des 1° et 2° de l'article 175, des articles 178
+à 185, 204 à 208 et 220 à 228.
 
 L'agent comptable est nommé par arrêté conjoint des ministres chargés des ports
 maritimes et du budget après avis du conseil de surveillance.
@@ -18,6 +17,6 @@ autoriser l'agent comptable à payer, sans son intervention préalable et dans l
 limite des crédits approuvés, certaines menues dépenses. Ces dépenses sont
 payées soit directement par l'agent comptable, soit, sous sa responsabilité, par
 certains agents du grand port maritime désignés après son accord par le
-président du directoire.L'agent comptable est tenu de justifier, chaque mois,
+président du directoire. L'agent comptable est tenu de justifier, chaque mois,
 des dépenses effectuées. Au vu des justifications produites, le président du
 directoire émet un titre de régularisation au nom de l'agent comptable.

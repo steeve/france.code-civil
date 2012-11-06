@@ -13,6 +13,6 @@ l'Institut de France et au moins deux professeurs au Collège de France ou
 d'université en exercice ou honoraires. Les personnalités mentionnées aux 2° à
 4° sont nommées pour une durée de trois ans renouvelable. Le président de
 l'établissement public de la Réunion des musées nationaux et du Grand Palais des
-Champs-Elysées, ou son représentant, et le membre du corps du contrôle général
-économique et financier de cet établissement public assistent aux séances du
-conseil artistique avec voix consultative.
+Champs-Elysées, ou son représentant, et le contrôleur budgétaire de cet
+établissement public assistent aux séances du conseil artistique avec voix
+consultative.

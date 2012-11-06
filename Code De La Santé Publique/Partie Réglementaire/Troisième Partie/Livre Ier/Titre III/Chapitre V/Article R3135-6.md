@@ -15,9 +15,9 @@ prépondérante.
 Les membres du conseil sont soumis aux dispositions de l'article L. 1451-1.
 
 Assistent au conseil d'administration avec voix consultative le directeur
-général de l'établissement, l'autorité chargée du contrôle financier et l'agent
-comptable, ainsi que deux représentants du personnel élus par ce personnel selon
-des modalités fixées par le règlement intérieur de l'établissement.
+général de l'établissement, le contrôleur budgétaire et l'agent comptable, ainsi
+que deux représentants du personnel élus par ce personnel selon des modalités
+fixées par le règlement intérieur de l'établissement.
 
 Le président du collège de l'Autorité de sûreté nucléaire ou son représentant
 assiste, à sa demande, aux séances avec voix consultative.

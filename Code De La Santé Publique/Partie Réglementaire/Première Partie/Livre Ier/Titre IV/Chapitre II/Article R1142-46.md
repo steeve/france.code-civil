@@ -51,3 +51,7 @@ budget, à moins que l'un d'entre eux n'y fasse opposition pendant ce délai.
 Lorsque l'un de ces deux ministres demande par écrit des informations ou des
 documents complémentaires, le délai est prorogé jusqu'à la production de ces
 informations ou documents.
+
+Toutefois, les délibérations portant sur le budget et le compte financier sont
+exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246
+du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

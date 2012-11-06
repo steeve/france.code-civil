@@ -17,15 +17,14 @@ est envisagé ; d) Copie du projet de contrat de crédit-bail et, le cas échéa
 du projet de cession totale ou partielle au crédit-bailleur du droit réel
 attaché au titre d'occupation du domaine public ; e) Statuts du crédit-bailleur
 ; f) Modalités de financement du crédit-bailleur ; g) Comptes prévisionnels du
-crédit-bailleur se rapportant à l'opération ; h) Avis du membre du corps du
-contrôle général économique et financier placé auprès de l'organisme demandeur.
-2° Sous réserve des dispositions du 3°, le dossier mentionné au 1° est adressé
-pour agrément au ministre du budget par pli recommandé avec demande d'avis de
-réception. 3° Lorsque le montant global de l'investissement financé par
-crédit-bail est inférieur à 3 millions d'euros hors taxes, le dossier est
-adressé, dans les mêmes formes, au directeur départemental des finances
-publiques du lieu de situation de l'investissement projeté qui est compétent
-pour délivrer l'agrément. 4° A défaut de notification d'une décision contraire,
-l'agrément est réputé accordé à l'expiration d'un délai de quatre mois à compter
-de la réception de la demande par l'autorité compétente. Ce délai est réduit à
-deux mois dans le cas prévu au 3°.
+crédit-bailleur se rapportant à l'opération ; h) Avis du contrôleur budgétaire
+placé auprès de l'organisme demandeur. 2° Sous réserve des dispositions du 3°,
+le dossier mentionné au 1° est adressé pour agrément au ministre du budget par
+pli recommandé avec demande d'avis de réception. 3° Lorsque le montant global de
+l'investissement financé par crédit-bail est inférieur à 3 millions d'euros hors
+taxes, le dossier est adressé, dans les mêmes formes, au directeur départemental
+des finances publiques du lieu de situation de l'investissement projeté qui est
+compétent pour délivrer l'agrément. 4° A défaut de notification d'une décision
+contraire, l'agrément est réputé accordé à l'expiration d'un délai de quatre
+mois à compter de la réception de la demande par l'autorité compétente. Ce délai
+est réduit à deux mois dans le cas prévu au 3°.

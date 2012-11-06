@@ -1,12 +1,12 @@
 Article R131-6
 ----
-I. - Sur proposition du conseil d'administration, son président est nommé parmi
+I.-Sur proposition du conseil d'administration, son président est nommé parmi
 ses membres par décret pris sur le rapport des ministres de tutelle.
 
-II. - Le président du conseil d'administration assure l'exécution des
+II.-Le président du conseil d'administration assure l'exécution des
 délibérations du conseil d'administration.
 
-III. - Dans le cadre des règles définies par le conseil d'administration, il a
+III.-Dans le cadre des règles définies par le conseil d'administration, il a
 qualité pour :
 
 1° Représenter l'agence dans tous les actes de la vie civile, dans ses rapports
@@ -25,10 +25,10 @@ procéder à toutes acquisitions, aliénations et transferts de valeurs ;
 6° Procéder à tous achats, ventes ou locations d'immeubles, contracter tous
 emprunts, constituer nantissement ou hypothèque ;
 
-Il informe le commissaire du Gouvernement et le membre du corps du contrôle
-général économique et financier des actes pris dans le cadre du 5°.
+Il informe le commissaire du Gouvernement et le contrôleur budgétaire des actes
+pris dans le cadre du 5°.
 
-IV. - Le président du conseil d'administration a autorité sur les services de
+IV.-Le président du conseil d'administration a autorité sur les services de
 l'agence et en dirige l'action. À ce titre :
 
 1° Il met en oeuvre les programmes opérationnels confiés à l'agence ;
@@ -40,7 +40,7 @@ services ;
 
 4° Il est ordonnateur principal des recettes et des dépenses.
 
-V. - Le président du conseil d'administration peut, dans des conditions définies
+V.-Le président du conseil d'administration peut, dans des conditions définies
 par le conseil d'administration, déléguer une partie de ses pouvoirs à un ou
 plusieurs directeurs généraux délégués nommés par lui. Il peut déléguer sa
 signature.

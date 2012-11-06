@@ -27,12 +27,3 @@ Il peut nommer des ordonnateurs secondaires et fixer leurs attributions.
 
 Il peut déléguer sa signature à des agents de catégorie A de l'office, à
 l'exception de l'agent comptable.
-
-Sous réserve de l'accord du membre du corps du contrôle général économique et
-financier et d'une ratification par le conseil d'administration lors de sa plus
-prochaine séance, il peut prendre les décisions de modification du budget qui ne
-comportent ni augmentation du montant total des dépenses, ni accroissement des
-effectifs, ni diminution du montant total des recettes, ni virement de crédits
-entre la section de fonctionnement et la section des opérations en capital ou
-entre les chapitres des dépenses de personnels et les chapitres des dépenses de
-matériel.

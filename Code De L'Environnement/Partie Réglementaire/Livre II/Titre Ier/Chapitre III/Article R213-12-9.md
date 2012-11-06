@@ -5,11 +5,15 @@ Les délibérations portant sur les objets énumérés aux 9° et 10° de l'arti
 chargé de l'environnement, du ministre chargé des finances et du ministre chargé
 du budget.
 
-Les délibérations portant sur les objets énumérés aux 4°, 5°, 6°, 7°, 8° et 11°
-de l'article R. 213-12-5 sont exécutoires un mois après la réception du
+Les délibérations portant sur les objets énumérés aux 4°, 7°, 8° et 11° de
+l'article R. 213-12-4 sont exécutoires un mois après la réception du
 procès-verbal de la séance et des documents correspondants par le ministre
 chargé de l'environnement et par le ministre chargé du budget, sauf opposition
 expresse de l'un d'entre eux dans ce délai.
+
+Les délibérations portant sur le budget et le compte financier sont exécutoires
+dans les conditions prévues par le titre III du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Les autres délibérations du conseil d'administration sont exécutoires un mois
 après leur réception par le ministre chargé de l'environnement, sauf opposition

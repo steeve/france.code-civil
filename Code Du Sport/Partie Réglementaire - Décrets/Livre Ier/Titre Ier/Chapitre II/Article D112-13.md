@@ -16,6 +16,6 @@ Les délibérations sont prises à la majorité des membres présents ou représ
 En cas de partage égal des voix, la voix du président est prépondérante.
 
 Assistent avec voix consultative aux réunions du conseil d'administration le
-directeur général de l'établissement, l'autorité chargée du contrôle financier
-et l'agent comptable. Toute personne dont le président souhaite recueillir
-l'avis peut être entendue par le conseil d'administration.
+directeur général de l'établissement, le contrôleur budgétaire et l'agent
+comptable. Toute personne dont le président souhaite recueillir l'avis peut être
+entendue par le conseil d'administration.

@@ -1,6 +1,6 @@
 Article R442-18
 ----
-Pour l'exercice du contrôle financier prévu aux articles R. 442-9 à R. 442-17,
+Pour l'exercice du contrôle budgétaire prévu aux articles R. 442-9 à R. 442-17,
 les établissements sont tenus : 1° De conserver et de présenter à toute
 réquisition du trésorier-payeur général ou de son délégué copie de toutes les
 pièces justificatives énumérées aux articles R. 442-11, R. 442-12 et R. 442-14 ;

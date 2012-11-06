@@ -4,9 +4,8 @@ I. ― Le conseil de développement se réunit au moins deux fois par an sur
 convocation de son président, éventuellement à la demande du conseil de
 surveillance ou du directoire du port. Les membres du directoire, le président
 du conseil de surveillance, le préfet de région et le préfet maritime ou leurs
-représentants ainsi que le commissaire du Gouvernement et l'autorité chargée du
-contrôle économique et financier assistent de plein droit aux séances du
-conseil.
+représentants ainsi que le commissaire du Gouvernement et le contrôleur
+budgétaire assistent de plein droit aux séances du conseil.
 
 II. ― Le conseil de développement est obligatoirement consulté :
 

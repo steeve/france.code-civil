@@ -20,8 +20,8 @@ Il peut déléguer sa signature à des agents de l'établissement, à l'exceptio
 l'agent comptable.
 
 Il est ordonnateur des recettes et des dépenses de l'établissement dans les
-conditions prévues par les décrets n° 53-1227 du 10 décembre 1953 et n° 62-1587
-du 29 décembre 1962 modifiés.
+conditions prévues par les titres Ier et III du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Il peut nommer des ordonnateurs secondaires et désigner, avec l'agrément du
 ministre chargé du budget, des agents comptables secondaires.

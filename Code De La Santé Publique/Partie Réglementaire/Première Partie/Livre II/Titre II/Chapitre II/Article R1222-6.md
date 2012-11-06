@@ -6,8 +6,7 @@ médicale et de recherche. Il délibère en outre sur les matières suivantes :
 
 1° L'organisation générale de l'établissement et son règlement intérieur ;
 
-2° L'état prévisionnel des recettes et des dépenses, les décisions
-modificatives, le compte financier et l'affectation des résultats ;
+2° Le budget, le compte financier et l'affectation des résultats ;
 
 3° Les orientations générales de la politique des ressources humaines ;
 

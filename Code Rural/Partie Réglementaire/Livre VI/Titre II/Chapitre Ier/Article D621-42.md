@@ -1,6 +1,6 @@
 Article D621-42
 ----
-L'état prévisionnel des recettes et des dépenses est présenté en deux parties.
+Le budget est présenté en deux parties.
 
 La première partie correspond aux moyens de l'établissement et comporte en
 dépenses trois enveloppes correspondant respectivement aux a, b, et c du 2° de
@@ -10,9 +10,7 @@ La seconde partie correspond aux actions d'intervention et comporte en dépenses
 celles mentionnées au d du 2° de l'article R. 621-40.
 
 Chacune de ces deux parties comporte en recettes les prévisions de ressources
-correspondantes, comprenant, le cas échéant, les prélèvements sur les réserves
-de l'établissement et les autorisations de financement particulières qui lui
-sont notifiées.
+correspondantes.
 
 La seconde partie se décompose également en enveloppes, dont le financement peut
 être assuré par des crédits issus d'un programme budgétaire déterminé en

@@ -1,8 +1,8 @@
 Article R862-5
 ----
-Les délibérations du conseil d'administration portant sur les 1° et 2° de
-l'article R. 862-4 ne sont exécutoires qu'après avoir été approuvées par le
-ministre chargé de la sécurité sociale et le ministre chargé du budget.
+Les délibérations portant sur le budget et le compte financier sont exécutoires
+dans les conditions prévues par le titre III du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Les autres délibérations sont exécutoires à l'expiration du délai de vingt jours
 suivant la date de réception des procès-verbaux, par les ministres de tutelle à

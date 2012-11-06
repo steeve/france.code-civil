@@ -5,15 +5,15 @@ membres, ainsi répartis :
 
 1° Cinq représentants de l'Etat :
 
-- un représentant du ministre chargé de la recherche ;
+-un représentant du ministre chargé de la recherche ;
 
-- un représentant du ministre chargé de l'agriculture ;
+-un représentant du ministre chargé de l'agriculture ;
 
-- un représentant du ministre chargé du budget ;
+-un représentant du ministre chargé du budget ;
 
-- un représentant du ministre chargé de l'industrie ;
+-un représentant du ministre chargé de l'industrie ;
 
-- un représentant du ministre chargé de l'environnement.
+-un représentant du ministre chargé de l'environnement.
 
 Un suppléant est désigné dans les mêmes conditions pour chacun de ces membres ;
 
@@ -24,14 +24,14 @@ d'enseignement supérieur ;
 
 4° Sept personnalités qualifiées, choisies :
 
-- pour trois d'entre elles en raison de leur compétence scientifique et
-technique ;
+-pour trois d'entre elles en raison de leur compétence scientifique et technique
+;
 
-- pour trois d'entre elles en raison de leur compétence dans le domaine
+-pour trois d'entre elles en raison de leur compétence dans le domaine
 économique et social, dont deux représentant le monde du travail et de
 l'économie ;
 
-- pour une d'entre elles parmi les membres de conseils élus des collectivités
+-pour une d'entre elles parmi les membres de conseils élus des collectivités
 territoriales.
 
 Les administrateurs mentionnés aux 3° et 4° sont nommés pour une durée de quatre
@@ -60,9 +60,8 @@ Les fonctions de membre du conseil d'administration sont gratuites. Toutefois,
 leurs frais de déplacement et de séjour peuvent être remboursés dans les
 conditions prévues par la réglementation en vigueur.
 
-Le ou les directeurs généraux délégués, l'autorité chargée du contrôle
-économique et financier et l'agent comptable assistent aux séances avec voix
-consultative.
+Le ou les directeurs généraux délégués, le contrôleur budgétaire et l'agent
+comptable assistent aux séances avec voix consultative.
 
 Le président peut également appeler à participer aux séances, avec voix
 consultative, toute personne dont il juge la présence utile.

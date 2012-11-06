@@ -26,8 +26,8 @@ d'entreprises s'acquitte de la pénalité auprès de l'agent comptable de
 l'organisme de recouvrement compétent.
 
 En l'absence de paiement dans ce délai, la pénalité est recouvrée dans les
-conditions prévues à l'article 164 du décret n° 62-1587 du 29 décembre 1962
-portant règlement général sur la comptabilité publique.
+conditions prévues au titre III du décret n° 2012-1246 du 7 novembre 2012
+relatif à la gestion budgétaire et comptable publique.
 
 III.-L'agent comptable de l'organisme de recouvrement compétent informe le
 comité économique des produits de santé des montants perçus.

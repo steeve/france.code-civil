@@ -11,5 +11,4 @@ croit pas pouvoir donner suite à ces avis, observations ou propositions et que,
 après nouvel examen, le désaccord avec le contrôle persiste, l'affaire en cause
 est déférée à la décision du ministre. Pour les matières qui sont soumises à son
 contrôle préventif, le contrôle général des armées recueille s'il y a lieu
-l'avis ou le visa du membre du corps du contrôle général économique et
-financier.
+l'avis ou le visa du contrôleur budgétaire.

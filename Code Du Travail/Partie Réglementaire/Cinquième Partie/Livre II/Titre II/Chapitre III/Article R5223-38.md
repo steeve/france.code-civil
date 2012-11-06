@@ -1,7 +1,5 @@
 Article R5223-38
 ----
-Les opérations financières et comptables de l'Office sont effectuées
-conformément aux dispositions des décrets n° 53-1227 du 10 décembre 1953
-relatives à la réglementation comptable applicable aux établissements publics
-nationaux à caractère administratif et n° 62-1587 du 29 décembre 1962 portant
-règlement général sur la comptabilité publique.
+L'établissement public est soumis aux dispositions des titres Ier et III du
+décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique.

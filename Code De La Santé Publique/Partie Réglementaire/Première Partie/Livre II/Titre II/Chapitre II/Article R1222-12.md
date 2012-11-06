@@ -1,8 +1,9 @@
 Article R1222-12
 ----
-L'établissement est soumis au régime financier et comptable prévu par les
-articles 3 à 62, 151 à 153 et 190 à 225 du décret n° 62-1587 du 29 décembre 1962
-portant règlement général sur la comptabilité publique.
+L'Etablissement français du sang est soumis aux dispositions des titres Ier et
+III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique à l'exception des 1° et 2° de l'article 175, des articles 178
+à 185, 204 à 208 et 220 à 228.
 
 Ordonnateur principal des recettes et des dépenses, le président du conseil
 d'administration peut désigner des ordonnateurs secondaires. L'agent comptable

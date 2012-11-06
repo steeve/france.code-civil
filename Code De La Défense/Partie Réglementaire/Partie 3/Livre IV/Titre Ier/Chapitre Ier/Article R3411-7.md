@@ -29,6 +29,6 @@ technique et administratif de l'institut ; 9° Deux étudiants civils élus ; 10
 Un élève ingénieur des corps de l'armement désigné par le directeur général de
 l'institut sur proposition des élèves. II. ― Un arrêté du ministre de la défense
 précise les modalités des élections prévues aux 8° et 9° du I. III. ― Le
-directeur général de l'institut, l'autorité chargée du contrôle financier de
-l'établissement ou son représentant et l'agent comptable assistent aux séances
-du conseil avec voix consultative.
+directeur général de l'institut, le contrôleur budgétaire de l'établissement ou
+son représentant et l'agent comptable assistent aux séances du conseil avec voix
+consultative.

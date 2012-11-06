@@ -1,8 +1,5 @@
 Article R331-38
 ----
-L'établissement est soumis au régime financier et comptable applicable aux
-établissements publics nationaux à caractère administratif.
-
-L'établissement est soumis au contrôle financier prévu par le décret n° 2005-757
-du 4 juillet 2005 relatif au contrôle financier au sein des établissements
-publics administratifs de l'Etat.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n°
+2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
+publique.

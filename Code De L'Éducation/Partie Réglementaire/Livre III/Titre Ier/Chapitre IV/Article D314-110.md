@@ -45,6 +45,6 @@ représentants des parents d'élèves et des lycéens mentionnés au 4°, un sup
 est désigné dans les mêmes conditions que le titulaire.
 
 Le directeur du centre régional, le secrétaire général, l'agent comptable, les
-directeurs des centres départementaux, le membre du corps du contrôle général
-économique et financier, ainsi que toute personne dont la présence est jugée
-utile par le président assistent aux séances avec voix consultative.
+directeurs des centres départementaux, le contrôleur budgétaire, ainsi que toute
+personne dont la présence est jugée utile par le président assistent aux séances
+avec voix consultative.

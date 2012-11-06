@@ -6,21 +6,21 @@ vingt membres, comprenant :
 
 1° Dix membres représentant l'Etat, désignés à raison de :
 
-- un membre par le ministre chargé de l'urbanisme ;
+-un membre par le ministre chargé de l'urbanisme ;
 
-- un membre par le ministre de l'intérieur ;
+-un membre par le ministre de l'intérieur ;
 
-- un membre par le ministre chargé de l'économie ;
+-un membre par le ministre chargé de l'économie ;
 
-- un membre par le ministre chargé de l'aménagement du territoire ;
+-un membre par le ministre chargé de l'aménagement du territoire ;
 
-- deux membres par le ministre chargé de la ville ;
+-deux membres par le ministre chargé de la ville ;
 
-- deux membres par le ministre chargé du commerce et de l'artisanat ;
+-deux membres par le ministre chargé du commerce et de l'artisanat ;
 
-- un membre par le ministre chargé des collectivités locales ;
+-un membre par le ministre chargé des collectivités locales ;
 
-- un membre par le ministre chargé du budget.
+-un membre par le ministre chargé du budget.
 
 Pour chacun des membres prévus ci-dessus, un suppléant est désigné dans les
 mêmes conditions.
@@ -38,5 +38,5 @@ le ministre chargé du commerce et de l'artisanat ;
 6° Un représentant du secteur associatif nommé par le ministre chargé de la
 ville.
 
-Le membre du corps du contrôle général économique et financier et l'agent
-comptable ont accès aux séances du conseil d'administration.
+Le contrôleur budgétaire et l'agent comptable ont accès aux séances du conseil
+d'administration.

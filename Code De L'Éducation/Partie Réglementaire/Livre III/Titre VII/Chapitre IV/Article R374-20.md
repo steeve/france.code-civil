@@ -17,9 +17,8 @@ et les chapitres de matériel ;
 fonctionnement et la section des opérations en capital.
 
 Les autres décisions modificatives sont prises par le directeur du centre
-régional, en accord avec le membre du corps du contrôle général économique et
-financier du centre, et soumises à la ratification du conseil d'administration
-lors de sa plus proche séance.
+régional, en accord avec le contrôleur budgétaire du centre, et soumises à la
+ratification du conseil d'administration lors de sa plus proche séance.
 
 Les délibérations relatives aux emprunts ne sont exécutoires qu'après avoir reçu
 l'accord du ministre chargé du budget et du ministre chargé de l'éducation ; cet

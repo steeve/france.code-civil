@@ -25,13 +25,12 @@ d'un organisme d'intérêt général à caractère international ne peut interve
 que dans les conditions prévues par une convention préalablement passée entre le
 ministre de la défense, ou le ministre de l'intérieur pour les militaires de la
 gendarmerie nationale, l'autorité de tutelle de l'organisme d'accueil et le
-ministre des affaires étrangères. Cette convention, examinée par l'autorité
-chargée du contrôle financier, dans les conditions prévues par le décret n°
-2005-54 du 27 janvier 2005 relatif au contrôle financier au sein des
-administrations de l'Etat, définit la nature et le niveau des activités confiées
-au militaire, ses conditions d'emploi et de rémunération, les modalités d'appel
-de retenues pour pension ainsi que les modalités du contrôle et de l'évaluation
-desdites activités ;
+ministre des affaires étrangères. Cette convention, examinée par le contrôleur
+budgétaire , dans les conditions prévues par le décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique, définit la
+nature et le niveau des activités confiées au militaire, ses conditions d'emploi
+et de rémunération, les modalités d'appel de retenues pour pension ainsi que les
+modalités du contrôle et de l'évaluation desdites activités ;
 
 6° a) Auprès d'une entreprise privée ou d'un organisme privé pour y exécuter des
 travaux de recherche d'intérêt national entrant dans le cadre fixé par le comité

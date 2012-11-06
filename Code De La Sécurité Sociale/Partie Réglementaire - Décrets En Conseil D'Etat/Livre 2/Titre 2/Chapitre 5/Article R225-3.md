@@ -11,10 +11,10 @@ Il prend les décisions nécessaires à l'application de l'article L. 225-1 et d
 textes pris pour son exécution.
 
 Il délibère sur les matières pour lesquelles son intervention est expressément
-prévue aux termes des décrets n° 53-1227 du 10 décembre 1953 et n° 62-1587 du 29
-décembre 1962 et, notamment, sur le budget et les comptes annuels de l'agence.
-Il délibère également sur le rapport annuel du directeur relatif au
-fonctionnement administratif et financier.
+prévue aux termes du titre III du décret n° 2012-1246 du 7 novembre 2012 relatif
+à la gestion budgétaire et comptable publique. Il délibère également sur le
+rapport annuel du directeur relatif au fonctionnement administratif et
+financier.
 
 Le conseil d'administration peut désigner des commissions et leur déléguer une
 partie de ses attributions dans les mêmes conditions que celles définies à

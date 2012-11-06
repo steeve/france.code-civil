@@ -12,8 +12,6 @@ Les délibérations relatives aux matières mentionnées aux 8° et 14° du mêm
 article doivent, pour devenir exécutoires, faire l'objet d'une approbation
 expresse des ministres chargés de l'éducation et du budget.
 
-Les délibérations portant sur le budget ou ses modifications ainsi que sur le
-compte financier sont approuvées par les mêmes ministres dans les conditions
-fixées par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités
-d'approbation de certaines décisions financières des établissements publics de
-l'Etat.
+Les délibérations portant sur le budget et le compte financier sont exécutoires
+dans les conditions prévues par le titre III du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.

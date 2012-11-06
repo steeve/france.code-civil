@@ -11,10 +11,9 @@ constituent pas un commencement d'exécution. Elles peuvent être prises en comp
 dans l'assiette de la subvention.
 
 II. - Par dérogation aux dispositions du I, le préfet peut notifier à la
-collectivité, par décision revêtue du visa de l'autorité chargée du contrôle
-financier, que le commencement d'exécution de l'opération avant la date à
-laquelle le dossier est complet n'entraîne pas un rejet d'office de la demande
-de subvention.
+collectivité, par décision revêtue du visa du contrôleur budgétaire, que le
+commencement d'exécution de l'opération avant la date à laquelle le dossier est
+complet n'entraîne pas un rejet d'office de la demande de subvention.
 
 III. - Le demandeur informe le préfet du commencement d'exécution de
 l'opération.

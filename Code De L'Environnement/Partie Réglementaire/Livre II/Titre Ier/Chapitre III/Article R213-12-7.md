@@ -12,8 +12,8 @@ vice-président ou, si ce dernier est lui-même absent ou empêché, par le seco
 vice-président.
 
 II.-Le directeur général, le président du conseil scientifique, le commissaire
-du Gouvernement, l'agent comptable et l'autorité chargée du contrôle financier
-assistent aux séances du conseil d'administration avec voix consultative.
+du Gouvernement, l'agent comptable et le contrôleur budgétaire assistent aux
+séances du conseil d'administration avec voix consultative.
 
 III.-Le conseil d'administration ou son président peut inviter toute personne
 qu'il souhaite entendre.

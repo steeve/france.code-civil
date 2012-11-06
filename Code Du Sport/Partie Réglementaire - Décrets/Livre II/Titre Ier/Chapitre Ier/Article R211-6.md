@@ -58,7 +58,6 @@ fixe, les attributions mentionnées aux 10° à 16°. Le directeur général ren
 compte des décisions prises dans le cadre des attributions ainsi déléguées à la
 plus prochaine réunion du conseil d'administration.
 
-Le directeur général, les directeurs généraux adjoints, l'agent comptable,
-l'autorité chargée du contrôle financier ainsi que toute personne dont la
-présence est jugée utile par le président assistent aux réunions avec voix
-consultative.
+Le directeur général, les directeurs généraux adjoints, l'agent comptable, le
+contrôleur budgétaire ainsi que toute personne dont la présence est jugée utile
+par le président assistent aux réunions avec voix consultative.

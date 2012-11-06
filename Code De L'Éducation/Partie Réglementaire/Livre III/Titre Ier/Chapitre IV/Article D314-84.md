@@ -1,4 +1,5 @@
 Article D314-84
 ----
-L'agent comptable est nommé par arrêté du ministre chargé de l'éducation et du
-ministre chargé du budget.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n°
+2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
+publique.

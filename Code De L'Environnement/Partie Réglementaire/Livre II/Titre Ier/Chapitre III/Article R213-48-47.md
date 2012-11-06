@@ -1,9 +1,9 @@
 Article R213-48-47
 ----
 Les poursuites sont exercées par l'agent comptable dans les formes de droit
-commun, en application notamment des dispositions de l'article 164 du décret du
-29 décembre 1962 portant règlement général sur la comptabilité publique ainsi
-que des règles relatives aux procédures civiles d'exécution.
+commun, en application notamment des dispositions de l'article 192 du décret n°
+2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
+publique ainsi que des règles relatives aux procédures civiles d'exécution.
 
 L'opposition prévue à l'article L. 213-11-13 est notifiée au tiers détenteur par
 lettre recommandée avec demande d'avis de réception et adressée par lettre

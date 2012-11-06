@@ -33,8 +33,8 @@ du montant de la pénalité financière dans un délai d'un mois auprès de l'ag
 comptable de l'organisme compétent mentionné à l'article L. 213-1.
 
 En l'absence de paiement dans un délai d'un mois, la pénalité est recouvrée dans
-les conditions prévues à l'article 164 du décret n° 62-1587 du 29 décembre 1962
-portant règlement général sur la comptabilité publique.
+les conditions prévues au titre III du décret n° 2012-1246 du 7 novembre 2012
+relatif à la gestion budgétaire et comptable publique.
 
 III. ― Les montants versés à l'organisme compétent mentionné à l'article L.
 213-1 sont répartis entre le régime général d'assurance maladie, le régime

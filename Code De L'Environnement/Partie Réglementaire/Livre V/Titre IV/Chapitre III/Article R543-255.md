@@ -15,5 +15,5 @@ excéder par tonne de déchets collectés 750 euros pour une personne physique e
 
 II. ― Les décisions prises en application du présent article mentionnent le
 délai et les modalités de paiement de l'amende. Celle-ci est recouvrée
-conformément aux dispositions des articles 76 à 79 du décret n° 62-1587 du 29
-décembre 1962 portant règlement général sur la comptabilité publique.
+conformément aux dispositions du décret n° 2012-1246 du 7 novembre 2012 relatif
+à la gestion budgétaire et comptable publique.

@@ -53,6 +53,5 @@ Pour chacun des membres mentionnés aux 1°, 2° et 5° à 7°, un suppléant es
 désigné dans les mêmes conditions que le titulaire.
 
 Le directeur général, les directeurs adjoints, le secrétaire général, l'agent
-comptable, le membre du corps du contrôle général économique et financier, ainsi
-que toute personne dont la présence est jugée utile par le président, assistent
-aux séances avec voix consultative.
+comptable, le contrôleur budgétaire, ainsi que toute personne dont la présence
+est jugée utile par le président, assistent aux séances avec voix consultative.

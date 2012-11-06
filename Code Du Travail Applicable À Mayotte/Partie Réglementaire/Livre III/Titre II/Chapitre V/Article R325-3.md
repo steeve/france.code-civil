@@ -1,19 +1,19 @@
 Article R325-3
 ----
-I. - Outre le représentant de l'Etat à Mayotte, président du conseil
+I.-Outre le représentant de l'Etat à Mayotte, président du conseil
 d'administration de l'agence, sont membres du conseil d'administration :
 
 1° Quatre représentants des services de l'Etat dans la collectivité
 départementale, membres de droit :
 
-- le directeur du travail, de l'emploi et de la formation professionnelle ou son
+-le directeur du travail, de l'emploi et de la formation professionnelle ou son
 représentant ;
 
-- le directeur des affaires sanitaires et sociales ou son représentant ;
+-le directeur des affaires sanitaires et sociales ou son représentant ;
 
-- le directeur de la jeunesse et des sports ou son représentant ;
+-le directeur de la jeunesse et des sports ou son représentant ;
 
-- le délégué de l'Agence nationale pour l'emploi ou son représentant.
+-le délégué de l'Agence nationale pour l'emploi ou son représentant.
 
 2° Trois membres du conseil général de Mayotte, désignés par cette assemblée, et
 un maire désigné par l'association locale des maires.
@@ -21,8 +21,8 @@ un maire désigné par l'association locale des maires.
 3° Quatre personnalités qualifiées en matière de développement économique et
 social désignées par le représentant de l'Etat à Mayotte.
 
-II. - La durée du mandat des membres du conseil d'administration prévus aux 2°
-et 3° du I est de trois ans, renouvelable une fois.
+II.-La durée du mandat des membres du conseil d'administration prévus aux 2° et
+3° du I est de trois ans, renouvelable une fois.
 
 Tout membre qui perd la qualité au titre de laquelle il a été nommé cesse de
 faire partie du conseil. Il est remplacé dans un délai de deux mois. En ce cas,
@@ -32,49 +32,48 @@ celui de son prédécesseur.
 En cas de démission, d'empêchement définitif ou de décès d'un membre, il est
 procédé à son remplacement dans les mêmes conditions.
 
-III. - Les fonctions de membre du conseil d'administration sont exercées à titre
+III.-Les fonctions de membre du conseil d'administration sont exercées à titre
 gratuit.
 
-IV. - Le conseil d'administration établit son règlement intérieur et le soumet à
+IV.-Le conseil d'administration établit son règlement intérieur et le soumet à
 l'approbation du ministre chargé de l'outre-mer.
 
-V. - Le conseil d'administration se réunit au moins trois fois par an sur
+V.-Le conseil d'administration se réunit au moins trois fois par an sur
 convocation du président. La réunion du conseil d'administration est de droit
 lorsqu'elle est demandée par la moitié de ses membres ou par le ministre chargé
 de l'outre-mer.
 
-Le directeur, le membre du corps du contrôle général économique et financier et
-l'agent comptable assistent avec voix consultative aux réunions du conseil
-d'administration. Le directeur peut se faire assister par les collaborateurs de
-son choix. En cas d'empêchement, il est représenté par la personne qu'il désigne
-à cet effet.
+Le directeur, le contrôleur budgétaire et l'agent comptable assistent avec voix
+consultative aux réunions du conseil d'administration. Le directeur peut se
+faire assister par les collaborateurs de son choix. En cas d'empêchement, il est
+représenté par la personne qu'il désigne à cet effet.
 
 Toute personne qualifiée dont le président ou le directeur estime utile de
 recueillir l'avis peut être entendue par le conseil d'administration.
 
-VI. - L'ordre du jour des réunions du conseil est préparé par le directeur et
+VI.-L'ordre du jour des réunions du conseil est préparé par le directeur et
 arrêté par le président.
 
 Est inscrite d'office à l'ordre du jour toute question que le ministre chargé de
 l'outre-mer ou la moitié des membres du conseil demandent au président
 d'évoquer.
 
-VII. - Le conseil d'administration ne peut valablement délibérer que si la
-moitié au moins de ses membres est présente. Si le quorum n'est pas atteint, le
-conseil d'administration se réunit à nouveau dans un délai de quinze jours et
-délibère valablement sur le même ordre du jour, quel que soit le nombre de ses
-membres présents.
+VII.-Le conseil d'administration ne peut valablement délibérer que si la moitié
+au moins de ses membres est présente. Si le quorum n'est pas atteint, le conseil
+d'administration se réunit à nouveau dans un délai de quinze jours et délibère
+valablement sur le même ordre du jour, quel que soit le nombre de ses membres
+présents.
 
 Les délibérations du conseil d'administration sont adoptées à la majorité des
 membres présents. En cas de partage égal des voix, celle du président est
 prépondérante.
 
-VIII. - Le secrétariat du conseil est assuré par le directeur. Les
-procès-verbaux des séances sont signés du président et adressés par le directeur
-au ministre chargé de l'outre-mer ainsi qu'aux membres du conseil
-d'administration dans les quinze jours qui suivent la date de la séance.
+VIII.-Le secrétariat du conseil est assuré par le directeur. Les procès-verbaux
+des séances sont signés du président et adressés par le directeur au ministre
+chargé de l'outre-mer ainsi qu'aux membres du conseil d'administration dans les
+quinze jours qui suivent la date de la séance.
 
-IX. - Le conseil d'administration délibère sur les matières suivantes :
+IX.-Le conseil d'administration délibère sur les matières suivantes :
 
 1° La détermination des orientations générales de l'action conduite par l'agence
 de développement pour l'exécution de ses missions ;
@@ -120,12 +119,12 @@ de l'outre-mer et du ministre chargé du budget ou, à défaut d'arrêté, dans 
 délai d'un mois à compter de la date de réception de ces délibérations par les
 ministres précités.
 
-X. - Le conseil d'administration donne son avis sur les questions qui lui sont
+X.-Le conseil d'administration donne son avis sur les questions qui lui sont
 soumises par le président ou par le directeur de l'agence et par le ministre
 chargé de l'outre-mer.
 
-XI. - Le conseil d'administration peut, par délibération, déléguer au directeur
-de l'agence, dans les conditions et limites qu'il détermine, ses attributions
+XI.-Le conseil d'administration peut, par délibération, déléguer au directeur de
+l'agence, dans les conditions et limites qu'il détermine, ses attributions
 relatives aux matières définies aux 10°, 11°, 12° et 13° du IX. Cette
 délibération devient exécutoire dans les conditions prévues à l'avant-dernier
 alinéa du IX.

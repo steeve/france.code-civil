@@ -10,5 +10,5 @@ inscrites à l'ordre du jour.
 
 Le lieu, la date et l'heure ainsi que l'ordre du jour des séances sont portés au
 moins quinze jours à l'avance à la connaissance des membres du conseil
-d'administration ainsi que de l'autorité chargée du contrôle financier et du
-commissaire du Gouvernement, sauf en cas d'urgence motivée.
+d'administration ainsi que du contrôleur budgétaire et du commissaire du
+Gouvernement, sauf en cas d'urgence motivée.

@@ -59,8 +59,8 @@ arrêté conjoint des ministres chargés de la défense et de la sécurité soci
 Leurs mandats sont renouvelables.
 
 Assistent aux séances du conseil d'administration, avec voix consultative, le
-directeur de la caisse nationale militaire de sécurité sociale et le membre du
-corps du contrôle général économique et financier.
+directeur de la caisse nationale militaire de sécurité sociale et le contrôleur
+budgétaire.
 
 Les administrateurs qui, au cours de leur mandat, perdent la qualité au titre de
 laquelle ils ont été désignés sont remplacés par l'autorité ayant procédé à leur

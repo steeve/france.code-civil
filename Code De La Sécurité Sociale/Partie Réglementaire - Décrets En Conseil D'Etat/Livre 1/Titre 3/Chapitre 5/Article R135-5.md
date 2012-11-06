@@ -11,3 +11,7 @@ application.
 Lorsque l'une des autorités visées ci-dessus demande par écrit des informations
 ou des documents complémentaires, le délai d'un mois est suspendu jusqu'à la
 production de ces informations ou documents.
+
+Les délibérations portant sur le budget et le compte financier sont exécutoires
+dans les conditions prévues par le titre III du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.

@@ -1,8 +1,5 @@
 Article R5223-39
 ----
-L'agent comptable de l'Office est nommé par arrêté conjoint des ministres
-chargés de l'immigration, de l'intégration et du budget.
-
 Des comptables secondaires peuvent être désignés par le directeur général avec
 l'agrément du ministre chargé du budget et de l'agent comptable de l'Office.
 

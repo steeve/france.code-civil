@@ -11,5 +11,5 @@ responsable dont le montant est déterminé, sur la base de ces prestations, dan
 les conditions définies au cinquième alinéa de l'article L. 376-1.
 
 Cette indemnité est établie et recouvrée dans les conditions définies aux
-articles 163 à 165 du décret n° 62-1587 du 29 décembre 1962 portant règlement
-général sur la comptabilité publique.
+articles 192 et 193 du décret n° 2012-1246 du 7 novembre 2012 relatif à la
+gestion budgétaire et comptable publique.

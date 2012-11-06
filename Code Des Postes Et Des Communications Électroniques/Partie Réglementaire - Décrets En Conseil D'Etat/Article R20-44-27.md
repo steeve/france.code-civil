@@ -12,6 +12,5 @@ titulaires le montant qu'il doit.
 Les sommes en cause sont acquittées par ces derniers auprès de l'agent comptable
 de l'Agence nationale des fréquences dans un délai de trente jours à compter de
 l'émission du titre de perception. Elles sont recouvrées selon les modalités
-fixées par le chapitre Ier du titre II du A de la troisième partie du décret n°
-62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité
-publique.
+fixées par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la
+gestion budgétaire et comptable publique.

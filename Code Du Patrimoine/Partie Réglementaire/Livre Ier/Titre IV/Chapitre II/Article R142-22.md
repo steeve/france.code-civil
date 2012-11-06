@@ -1,5 +1,5 @@
 Article R142-22
 ----
-La Cité de l'architecture et du patrimoine est soumise aux règles de la
-comptabilité privée. Elle est soumise au contrôle économique et financier de
-l'Etat prévu par le décret n° 55-733 du 26 mai 1955.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n°
+2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
+publique.

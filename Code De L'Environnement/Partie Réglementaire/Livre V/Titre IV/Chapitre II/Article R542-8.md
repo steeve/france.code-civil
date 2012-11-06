@@ -5,12 +5,11 @@ Son président en fixe l'ordre du jour.
 
 Sauf en cas d'urgence, le lieu, la date et l'ordre du jour sont portés au moins
 deux semaines à l'avance à la connaissance des membres du conseil
-d'administration, du commissaire du Gouvernement, du membre du corps du contrôle
-général économique et financier et du directeur général.
+d'administration, du commissaire du Gouvernement, du contrôleur budgétaire et du
+directeur général.
 
-Le commissaire du Gouvernement, le membre du corps du contrôle général
-économique et financier et le directeur général assistent aux séances avec voix
-consultative.
+Le commissaire du Gouvernement, le contrôleur budgétaire et le directeur général
+assistent aux séances avec voix consultative.
 
 Le conseil d'administration ne peut valablement délibérer que si la moitié au
 moins de ses membres sont présents ou représentés.
@@ -28,6 +27,5 @@ consultative toute personne dont il juge la présence utile pour l'étude d'un
 point particulier de l'ordre du jour.
 
 Les délibérations font l'objet de procès-verbaux signés par le président et
-notifiés aux membres, au commissaire du Gouvernement, au membre du corps du
-contrôle général économique et financier et au directeur général dans les deux
-semaines qui suivent la séance.
+notifiés aux membres, au commissaire du Gouvernement, au contrôleur budgétaire
+et au directeur général dans les deux semaines qui suivent la séance.

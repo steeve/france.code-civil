@@ -21,8 +21,8 @@ par eux tous les trois ans ;
 
 2° Un représentant du ministre chargé des forêts ;
 
-3° Le directeur général, le membre du corps du contrôle général économique et
-financier et l'agent comptable du centre national ou leurs représentants.
+3° Le directeur général, le contrôleur budgétaire et l'agent comptable du centre
+national ou leurs représentants.
 
 Le comité de direction est désigné pour la première fois dans les six mois
 suivant la délibération du conseil d'administration du Centre national de la

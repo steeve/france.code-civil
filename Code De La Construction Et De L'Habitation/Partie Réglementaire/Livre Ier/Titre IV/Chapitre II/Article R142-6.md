@@ -8,13 +8,12 @@ Le président établit l'ordre du jour de chaque séance qui est porté à la
 connaissance des membres du conseil au moins dix jours à l'avance, accompagné
 des documents préparatoires à la réunion.
 
-Le commissaire du Gouvernement, le membre du contrôle économique et financier et
-l'agent comptable ont accès aux séances du conseil d'administration avec voix
-consultative. A cet effet, les convocations accompagnées des ordres du jour, les
-procès-verbaux et tous autres documents leur sont adressés en même temps qu'aux
-autres membres du conseil d'administration. Le président peut également appeler
-à participer aux séances, avec voix consultative, toute personne dont il juge la
-présence utile.
+Le commissaire du Gouvernement, le contrôleur budgétaire et l'agent comptable
+ont accès aux séances du conseil d'administration avec voix consultative. A cet
+effet, les convocations accompagnées des ordres du jour, les procès-verbaux et
+tous autres documents leur sont adressés en même temps qu'aux autres membres du
+conseil d'administration. Le président peut également appeler à participer aux
+séances, avec voix consultative, toute personne dont il juge la présence utile.
 
 Le conseil d'administration ne peut valablement délibérer que lorsque la moitié
 au moins de ses membres en exercice assiste à la séance, y est représentée ou

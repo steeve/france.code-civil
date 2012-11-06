@@ -14,7 +14,7 @@ Les délibérations du conseil d'administration sont exécutoires, sauf si le
 commissaire du Gouvernement demande la suspension de cette exécution dans les
 dix jours qui suivent la délibération. Dans ce cas, le commissaire du
 Gouvernement soumet cette délibération au ministre chargé de la consommation,
-qui se prononce dans un délai d'un mois après la demande de suspension.A défaut
+qui se prononce dans un délai d'un mois après la demande de suspension. A défaut
 d'une décision de rejet expresse et motivée de la part du ministre dans ce
 délai, la délibération est exécutoire.
 
@@ -24,10 +24,13 @@ exécutoires qu'après approbation par arrêté conjoint du ministre chargé du
 budget, du ministre chargé de la consommation et, le cas échéant, du ministre
 chargé de l'économie.
 
-Les délibérations relatives au compte financier et à l'affectation des
-résultats, aux états prévisionnels de recettes et dépenses, à l'acceptation ou
-au refus des dons et legs, aux conditions générales de recrutement, d'emploi et
-de rémunération des personnels et à la politique commerciale sont exécutoires,
-sauf opposition du ministre chargé de la consommation ou du ministre chargé du
-budget, quinze jours après la réception du relevé de décision par le commissaire
-du Gouvernement et le ministre chargé du budget.
+Les délibérations relatives à l'acceptation ou au refus des dons et legs, aux
+conditions générales de recrutement, d'emploi et de rémunération des personnels
+et à la politique commerciale sont exécutoires, sauf opposition du ministre
+chargé de la consommation ou du ministre chargé du budget, quinze jours après la
+réception du relevé de décision par le commissaire du Gouvernement et le
+ministre chargé du budget.
+
+Les délibérations portant sur le budget et le compte financier sont exécutoires
+dans les conditions prévues par le titre III du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.

@@ -39,16 +39,9 @@ soumises par le ministre chargé de la construction.
 
 Le conseil d'administration peut dans les conditions et limites qu'il détermine,
 déléguer au président, tout ou partie de ses attributions prévues aux 2°, 7°,
-10°, 12 et 13°. Le président rend compte, lors de la plus proche séance du
+10°, 12° et 13°. Le président rend compte, lors de la plus proche séance du
 conseil d'administration, des décisions prises dans le cadre de ces délégations.
 
-Les délibérations mentionnées aux 5°, 6° et 9° sont soumises à l'approbation des
-ministres chargés de la construction et du budget. Elles sont exécutoires dès
-leur approbation. Le silence gardé par ces ministres pendant le délai d'un mois
-à compter de la date la plus tardive de réception des délibérations vaut
-approbation.
-
-Lorsque l'un d'eux demande, par écrit, des informations ou documents
-complémentaires, il dispose d'un délai d'un mois à compter de la date de
-réception de ces informations ou documents pour faire connaître, le cas échéant,
-son opposition.
+Les délibérations portant sur le budget et le compte financier sont exécutoires
+dans les conditions prévues par le titre III du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.

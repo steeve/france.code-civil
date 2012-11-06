@@ -10,9 +10,8 @@ ne justifie pas l'existence d'un poste comptable à temps plein.
 
 Outre les fonctions qui pourraient lui être confiées par le conseil
 d'administration, il exerce les attributions et il est astreint aux obligations
-fixées par les décrets n° 53-1227 du 10 décembre 1953 relatif à la
-réglementation comptable applicable aux établissements publics nationaux et n°
-62-1587 du 29 décembre 1962 portant règlement général de comptabilité publique.
+fixées par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la
+gestion budgétaire et comptable publique.
 
 Il tient à jour la comptabilité du centre.
 

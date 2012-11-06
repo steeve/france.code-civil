@@ -1,9 +1,5 @@
 Article D452-16
 ----
-L'agent comptable de l'Agence pour l'enseignement français à l'étranger est
-nommé par arrêté du ministre des affaires étrangères et du ministre chargé du
-budget.
-
 Des agents comptables secondaires sont nommés dans les établissements en gestion
 directe ou dans les établissements principaux des groupements, avec l'agrément
 de l'agent comptable de l'agence, par décision du directeur de l'agence.

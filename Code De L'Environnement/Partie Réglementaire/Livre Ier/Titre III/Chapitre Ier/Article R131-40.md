@@ -8,10 +8,9 @@ l'établissement ;
 
 2° Le programme des activités de l'établissement ;
 
-3° L'état annuel des prévisions de recettes et de dépenses et, le cas échéant,
-les états rectificatifs en cours d'année ;
+3° Le budget ;
 
-4° Les comptes de chaque exercice et l'affectation des résultats ;
+4° Le compte financier et l'affectation des résultats ;
 
 5° Les emprunts ;
 

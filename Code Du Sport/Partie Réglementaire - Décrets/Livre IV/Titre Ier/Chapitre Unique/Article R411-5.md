@@ -19,7 +19,7 @@ Les délibérations sont adoptées à la majorité des voix des membres présent
 représentés. En cas de partage égal des voix, celle du président est
 prépondérante.
 
-Le directeur général, l'autorité chargée du contrôle financier et l'agent
-comptable de l'établissement assistent aux séances du conseil d'administration
-avec voix consultative. Le président peut inviter à assister à tout ou partie
-des réunions du conseil toute personne que celui-ci souhaite entendre.
+Le directeur général, le contrôleur budgétaire et l'agent comptable de
+l'établissement assistent aux séances du conseil d'administration avec voix
+consultative. Le président peut inviter à assister à tout ou partie des réunions
+du conseil toute personne que celui-ci souhaite entendre.

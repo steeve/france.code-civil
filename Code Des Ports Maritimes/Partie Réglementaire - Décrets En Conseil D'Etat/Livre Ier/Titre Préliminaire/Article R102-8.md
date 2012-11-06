@@ -15,21 +15,19 @@ II. ― Les dispositions du I ne sont pas applicables aux conventions portant su
 des opérations courantes et conclues à des conditions normales. Toutefois, ces
 dernières conventions sont communiquées par le membre intéressé du conseil de
 surveillance ou du directoire au président du conseil de surveillance, au
-commissaire du Gouvernement et à l'autorité chargée du contrôle économique et
-financier. La liste de ces conventions et leur objet sont communiqués par le
-président aux membres du conseil de surveillance et aux commissaires aux
-comptes.
+commissaire du Gouvernement et au contrôleur budgétaire. La liste de ces
+conventions et leur objet sont communiqués par le président aux membres du
+conseil de surveillance et aux commissaires aux comptes.
 
-III. ― Lorsque le commissaire du Gouvernement ou l'autorité chargée du contrôle
-économique et financier estime qu'un membre du conseil de surveillance ou du
-directoire est susceptible de s'exposer à l'application de l'article 432-12 du
-code pénal, il en informe par écrit le conseil de surveillance.
+III. ― Lorsque le commissaire du Gouvernement ou le contrôleur budgétaire estime
+qu'un membre du conseil de surveillance ou du directoire est susceptible de
+s'exposer à l'application de l'article 432-12 du code pénal, il en informe par
+écrit le conseil de surveillance.
 
 IV. ― Le membre du conseil de surveillance ou du directoire intéressé informe,
 par lettre recommandée avec avis de réception, le président du conseil de
-surveillance, le commissaire du Gouvernement et l'autorité chargée du contrôle
-économique et financier dès qu'il a connaissance d'une convention à laquelle le
-I est applicable.
+surveillance, le commissaire du Gouvernement et le contrôleur budgétaire dès
+qu'il a connaissance d'une convention à laquelle le I est applicable.
 
 Ce membre ne peut pas assister à la délibération ni prendre part au vote et il
 n'est pas comptabilisé pour le calcul du quorum et de la majorité. Il s'abstient

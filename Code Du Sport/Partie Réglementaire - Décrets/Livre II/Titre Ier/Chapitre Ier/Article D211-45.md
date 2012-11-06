@@ -7,11 +7,9 @@ ministre chargé des sports, n'ont pas fait l'objet de la part de celui-ci soit
 d'une demande de réexamen adressée à l'organe ayant pris la délibération ou la
 décision, soit d'une opposition, deviennent exécutoires.
 
-Toutefois, les délibérations prévues aux 2° et 3° de l'article D. 211-44 sont
-approuvées par les ministres chargés du budget et des sports dans les conditions
-déterminées par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités
-d'approbation de certaines décisions financières des établissements publics de
-l'Etat.
+Les délibérations portant sur le budget et le compte financier sont exécutoires
+dans les conditions prévues par le titre III du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Pour devenir exécutoires, les délibérations prévues aux 8°, 10° et 11° de
 l'article D. 211-44 doivent recevoir l'approbation expresse des ministres

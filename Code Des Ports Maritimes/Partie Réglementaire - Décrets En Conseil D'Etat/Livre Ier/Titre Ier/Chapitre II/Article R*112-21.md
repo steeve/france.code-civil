@@ -9,9 +9,8 @@ développement économique. Il vérifie la régularité de l'ensemble des opéra
 du conseil d'administration et des instances auxquelles il délègue des
 compétences.
 
-Un membre du corps du contrôle général économique et financier, désigné par le
-ministre de l'économie et des finances, exerce le contrôle économique et
-financier du port autonome.
+Un contrôleur budgétaire, désigné par le ministre de l'économie et des finances,
+exerce le contrôle budgétaire du port autonome.
 
 Tous deux sont convoqués aux séances du conseil d'administration et ont voix
 consultative.

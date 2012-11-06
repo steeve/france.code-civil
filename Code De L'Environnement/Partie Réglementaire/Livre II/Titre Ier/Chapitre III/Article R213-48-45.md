@@ -12,10 +12,10 @@ pièces de nature à justifier la demande.
 II.-Les décisions de remises totales ou partielles sont prises par le directeur
 de l'agence lorsqu'elles sont relatives aux situations régies par l'article L.
 213-11-7, et par l'agent comptable lorsqu'elles sont relatives aux situations
-régies par l'article L. 213-11-10. Dans ces cas, l'avis préalable du membre du
-corps du contrôle général économique et financier est requis, dans la limite
-d'un seuil de compétence défini conjointement avec l'agence et approuvé, le cas
-échéant, par le conseil d'administration.
+régies par l'article L. 213-11-10. Dans ces cas, l'avis préalable du contrôleur
+budgétaire est requis, dans la limite d'un seuil de compétence défini
+conjointement avec l'agence et approuvé, le cas échéant, par le conseil
+d'administration.
 
 Les décisions sont notifiées par les autorités compétentes aux demandeurs. Le
 cas échéant, la personne qui facture la redevance ou la collecte et auprès de

@@ -24,8 +24,8 @@ représentés.
 
 La voix du président est prépondérante en cas de partage égal des voix.
 
-Le directeur général de l'agence, le secrétaire général, l'autorité chargée du
-contrôle financier et l'agent comptable assistent aux réunions du conseil
+Le directeur général de l'agence, le secrétaire général, le contrôleur
+budgétaire et l'agent comptable assistent aux réunions du conseil
 d'administration avec voix consultative.
 
 Le président peut appeler à participer aux séances du conseil d'administration,

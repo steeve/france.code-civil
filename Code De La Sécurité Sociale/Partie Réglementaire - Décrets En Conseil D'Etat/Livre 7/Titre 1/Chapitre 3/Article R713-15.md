@@ -5,19 +5,5 @@ l'établissement. Il est présenté de manière à faire apparaître séparémen
 prévisions des services administratifs, celles du contrôle médical, et celles de
 l'action sanitaire et sociale.
 
-Les crédits inscrits aux chapitres budgétaires sont limitatifs, à l'exception
-des crédits ouverts pour le paiement des prestations obligatoires qui ont un
+Les crédits ouverts pour le paiement des prestations obligatoires ont un
 caractère évaluatif.
-
-Le budget est approuvé par arrêté conjoint du ministre chargé du budget et du
-ministre chargé de la sécurité sociale pour la partie relative aux services
-administratifs, et par arrêté conjoint du ministre de la défense, du ministre
-chargé du budget et du ministre chargé de la sécurité sociale pour les parties
-relatives au contrôle médical et à l'action sanitaire et sociale.
-
-En cours d'année, les modifications aux prévisions du budget font l'objet de
-décisions modificatives approuvées dans les mêmes conditions que le budget.
-
-Toutefois, le pouvoir d'approbation est délégué au membre du corps du contrôle
-général économique et financier lorsque les décisions modificatives ont pour
-objet d'autoriser des transferts de crédits de chapitre à chapitre.

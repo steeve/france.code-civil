@@ -41,7 +41,6 @@ mentionnées aux 5° et 8° du présent article.
 Il est informé chaque année de l'ensemble des contrats, marchés et conventions
 conclus pendant l'année précédente.
 
-Les délibérations du conseil d'administration sont soumises à l'approbation des
-ministres chargés du budget et de la santé dans les conditions prévues au décret
-n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de certaines
-décisions financières des établissements publics de l'Etat.
+Les délibérations du conseil d'administration sont exécutoires dans les
+conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre
+2012relatif à la gestion budgétaire et comptable publique.

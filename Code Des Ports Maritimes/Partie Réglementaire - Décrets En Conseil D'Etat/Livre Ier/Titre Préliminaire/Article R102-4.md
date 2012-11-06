@@ -24,6 +24,6 @@ Chaque année, le commissaire du Gouvernement demande aux membres du conseil de
 surveillance de lui signaler les modifications dans les éléments figurant dans
 la déclaration mentionnée au premier alinéa du présent article.
 
-Le commissaire du Gouvernement communique à l'autorité chargée du contrôle
-économique et financier les déclarations remplies par les membres du conseil
-ainsi que les modifications qui y sont apportées.
+Le commissaire du Gouvernement communique au contrôleur budgétaire les
+déclarations remplies par les membres du conseil ainsi que les modifications qui
+y sont apportées.

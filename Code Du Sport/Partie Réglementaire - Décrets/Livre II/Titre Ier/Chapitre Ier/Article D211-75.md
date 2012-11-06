@@ -6,9 +6,9 @@ de son président qui fixe l'ordre du jour.
 Il peut également être convoqué par le directeur à la demande du ministre chargé
 des sports ou de la majorité de ses membres, sur un ordre du jour déterminé.
 
-Le directeur, le ou les directeurs adjoints, l'agent comptable, l'autorité
-chargée du contrôle financier, ainsi que toute personne dont la présence est
-jugée utile par le président, assistent aux séances avec voix consultative.
+Le directeur, le ou les directeurs adjoints, l'agent comptable, le contrôleur
+budgétaire , ainsi que toute personne dont la présence est jugée utile par le
+président, assistent aux séances avec voix consultative.
 
 Les présidents des établissements publics de coopération intercommunale dotés
 d'une compétence en matière sportive des lieux d'implantation des sites autres

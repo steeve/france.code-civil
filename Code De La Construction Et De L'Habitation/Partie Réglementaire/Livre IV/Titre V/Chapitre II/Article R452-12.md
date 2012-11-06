@@ -1,12 +1,9 @@
 Article R452-12
 ----
-Les délibérations du conseil d'administration relatives au budget et ses
-modifications ainsi qu'au compte financier sont soumises à l'approbation du
-ministre chargé du logement, du ministre chargé de l'économie et du ministre
-chargé du budget. Elles deviennent exécutoires dans les conditions fixées à
-l'article 1er du décret n° 99-575 du 8 juillet 1999 relatif aux modalités
-d'approbation de certaines décisions financières des établissements publics de
-l'Etat.
+Les délibérations du conseil d'administration relatives au budget et au compte
+financier sont exécutoires dans les conditions prévues par le titre III du
+décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique.
 
 Les délibérations du conseil d'administration relatives aux subventions
 mentionnées au sixième alinéa de l'article L. 452-1 deviennent exécutoires après

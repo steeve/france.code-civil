@@ -16,11 +16,9 @@ fasse opposition pendant ce délai. Lorsque les représentants de l'Etat demande
 par écrit des informations ou documents complémentaires, ce délai est suspendu
 jusqu'à la production de ces informations ou documents.
 
-Les délibérations du conseil d'administration sur l'état prévisionnel des
-recettes et des dépenses, ses décisions modificatives et le compte financier
-sont approuvés dans les conditions prévues par le décret n° 99-575 du 8 juillet
-1999 relatif aux modalités d'approbation de certaines décisions financières des
-établissements publics de l'Etat.
+Les délibérations portant sur le budget et le compte financier sont exécutoires
+dans les conditions prévues par le titre III du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Toutefois, pour les opérations effectuées au titre de la réglementation
 communautaire, cette approbation est réputée acquise à la date de réception, par

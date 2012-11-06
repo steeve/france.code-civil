@@ -3,12 +3,6 @@ Article D440
 Le conseil d'administration est chargé de définir la politique générale de
 l'office national.
 
-Il intervient dans toutes les matières où son autorisation est prévue par le
-décret n° 53-1227 du 10 décembre 1953 relatif à la réglementation comptable des
-établissements publics nationaux à caractère administratif et le décret n°
-62-1587 du 29 décembre 1962 portant réglementation générale sur la comptabilité
-publique.
-
 Sous réserve des dispositions de l'article D. 442, il délibère notamment sur :
 
 1. Les conditions générales d'organisation et de fonctionnement de
@@ -43,7 +37,11 @@ D'une manière générale, il peut être appelé à donner son avis sur les affa
 qui lui sont renvoyées soit par le ministre chargé des anciens combattants et
 victimes de guerre, soit par le directeur général de l'office national.
 
+Les délibérations portant sur le budget et le compte financier sont exécutoires
+dans les conditions prévues par le titre III du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.
+
 Sous réserve des dispositions des articles du code de l'action sociale et des
-familles cités au 4 du présent article, les délibérations et les décisions du
-conseil d'administration sont exécutoires si, dans un délai de vingt jours,
-l'autorité de tutelle n'y a pas fait opposition.
+familles cités au 4° du présent article et de l'alinéa précédent, les
+délibérations et les décisions du conseil d'administration sont exécutoires si,
+dans un délai de vingt jours, l'autorité de tutelle n'y a pas fait opposition.

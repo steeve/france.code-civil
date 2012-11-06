@@ -10,7 +10,8 @@ préfet a été désigné comme coordonnateur des actions de l'Etat pour le Mara
 poitevin.
 
 Les délibérations du conseil d'administration sont exécutoires par elles-mêmes.
-Toutefois, les délibérations relatives au budget, au compte financier et aux
-emprunts ne sont exécutoires que si le ministre chargé du budget ou le ministre
-chargé de l'environnement n'y fait pas opposition dans un délai d'un mois à
-compter de la réception de cette délibération et des documents annexés.
+Toutefois, les délibérations portant sur le budget et le compte financier sont
+exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246
+du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. Les
+délibérations portant sur les emprunts sont exécutoires dans les mêmes
+conditions.

@@ -26,12 +26,6 @@ conventions ;
 
 9° Conclut les contrats et est la personne responsable des marchés.
 
-Il peut, dans des conditions que détermine le conseil d'administration, prendre,
-après avis de l'autorité chargée du contrôle financier, des décisions
-budgétaires modificatives qui n'augmentent pas la masse salariale, ne modifient
-pas le résultat ni la variation du fonds de roulement. Il en rend compte à la
-prochaine séance du conseil d'administration.
-
 Le directeur général dresse chaque année un rapport sur le fonctionnement de
 l'établissement, le soumet au conseil d'administration et l'adresse aux
 ministres chargés de la culture et des sports.

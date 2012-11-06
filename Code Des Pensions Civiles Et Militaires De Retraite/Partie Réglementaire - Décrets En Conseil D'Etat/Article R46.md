@@ -5,18 +5,17 @@ Conseil d'Etat ou d'un magistrat de l'ordre judiciaire, composée comme suit :
 
 1° Auprès de l'administration centrale du ministère de la justice :
 
-- le directeur ou chef de corps ou de service dont dépend l'intéressé, ou son
+-le directeur ou chef de corps ou de service dont dépend l'intéressé, ou son
 représentant, président ;
 
-- le membre du corps du contrôle général économique et financier ou son
-représentant ;
+-le contrôleur budgétaire ou son représentant ;
 
-- deux représentants, titulaires ou éventuellement suppléants, des membres du
+-deux représentants, titulaires ou éventuellement suppléants, des membres du
 Conseil d'Etat ou des magistrats à l'égard desquels la commission est compétente
 et qui sont désignés par leurs collègues dans les conditions fixées par arrêté
 du garde des sceaux, ministre de la justice ;
 
-- les membres du comité médical prévu à l'article 5 du décret n° 86-442 du 14
+-les membres du comité médical prévu à l'article 5 du décret n° 86-442 du 14
 mars 1986, à savoir deux praticiens de médecine générale et, pour l'examen des
 cas relevant de sa compétence, un spécialiste de l'affection dont est atteint
 l'intéressé.
@@ -40,16 +39,16 @@ judiciaire.
 République ou de son représentant, qui dirige les délibérations mais ne
 participe pas aux votes :
 
-- le chef de service dont dépend l'intéressé, ou son représentant ;
+-le chef de service dont dépend l'intéressé, ou son représentant ;
 
-- le trésorier-payeur général ou son représentant ;
+-le trésorier-payeur général ou son représentant ;
 
-- deux représentants, titulaires ou éventuellement suppléants, des magistrats à
+-deux représentants, titulaires ou éventuellement suppléants, des magistrats à
 l'égard desquels la commission est compétente et qui sont désignés par leurs
 collègues dans les conditions fixées par arrêté du garde des sceaux, ministre de
 la justice ;
 
-- les membres du comité médical prévu à l'article 5 du décret n° 86-442 du 14
+-les membres du comité médical prévu à l'article 5 du décret n° 86-442 du 14
 mars 1986.
 
 Le secrétariat de la commission de réforme départementale est celui du comité

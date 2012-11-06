@@ -40,8 +40,8 @@ l'Assemblée des départements de France ;
 
 3) Collège des personnalités qualifiées :
 
-1° Deux représentants de l'Union d'économie sociale du logement , sur
-proposition de cette dernière ;
+1° Deux représentants de l'Union d'économie sociale du logement, sur proposition
+de cette dernière ;
 
 2° Un représentant des propriétaires ;
 
@@ -77,10 +77,10 @@ demande.
 
 L'ordre du jour des réunions est défini par l'autorité qui les convoque.
 
-Le directeur général de l'agence, le représentant de l'autorité chargée du
-contrôle financier de l'Etat et l'agent comptable assistent avec voix
-consultative aux séances du conseil d'administration et, le cas échéant, à
-celles du comité financier mentionné à l'article R. 321-6-1.
+Le directeur général de l'agence, le représentant du contrôleur budgétaire de
+l'Etat et l'agent comptable assistent avec voix consultative aux séances du
+conseil d'administration et, le cas échéant, à celles du comité financier
+mentionné à l'article R. 321-6-1.
 
 Sauf urgence, l'ordre du jour est communiqué aux membres du conseil
 d'administration au moins douze jours avant la réunion.

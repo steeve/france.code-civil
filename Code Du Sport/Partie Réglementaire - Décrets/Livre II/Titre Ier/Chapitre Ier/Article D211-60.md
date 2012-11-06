@@ -1,12 +1,10 @@
 Article D211-60
 ----
-Les délibérations portant sur le budget et ses modifications ainsi que sur le
-compte financier sont approuvées par le ministre chargé des sports et le
-ministre chargé du budget dans les conditions déterminées par le décret n°
-99-575 du 8 juillet 1999 relatif aux modalités d'approbation de certaines
-décisions financières des établissements publics de l'Etat.
+Les délibérations portant sur le budget et le compte financier sont exécutoires
+dans les conditions prévues par le titre III du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
-Pour devenir exécutoires, les délibérations prévues aux 9°,13° et 14° de
+Pour devenir exécutoires, les délibérations prévues aux 9°, 13° et 14° de
 l'article D. 211-59 doivent recevoir l'approbation expresse des ministres
 chargés du budget et des sports.
 

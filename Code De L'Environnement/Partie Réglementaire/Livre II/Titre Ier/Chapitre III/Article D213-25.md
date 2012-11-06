@@ -12,6 +12,6 @@ présentation des affaires inscrites à l'ordre du jour. Ils sont choisis à
 l'intérieur ou à l'extérieur du comité.
 
 Le président du conseil d'administration et le directeur général de l'agence de
-l'eau, le membre du corps du contrôle général économique et financier et le
-commissaire du Gouvernement auprès de l'agence de l'eau assistent de droit aux
-séances du comité avec voix consultative.
+l'eau, le contrôleur budgétaire et le commissaire du Gouvernement auprès de
+l'agence de l'eau assistent de droit aux séances du comité avec voix
+consultative.

@@ -9,6 +9,6 @@ personnes publiques ou privées qui réalisent des études, recherches, travaux 
 équipements concourant à l'accomplissement de ses missions ;
 
 3° Payer, avant service fait, au profit des établissements de santé étrangers et
-par dérogation à l'article 33 du décret n° 62-1587 du 29 décembre 1962 portant
-règlement général sur la comptabilité publique, les dépenses relatives à la mise
+par dérogation à l'article 33 du décret n° 2012-1246 du 7 novembre 2012 relatif
+à la gestion budgétaire et comptable publique, les dépenses relatives à la mise
 à disposition des greffons prévues à l'article L. 1418-1 (8°).

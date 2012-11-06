@@ -13,15 +13,7 @@ Le conseil d'administration délibère sur :
 technique aux organisations de consommateurs élaboré par cette commission et
 présenté par le directeur ;
 
-5° L'état annuel des prévisions de recettes et de dépenses, ainsi que sur les
-états rectificatifs qui comportent soit une augmentation du montant global des
-dépenses, soit des virements de crédits entre la section des opérations en
-capital et la section de fonctionnement, entre les chapitres de matériel et les
-chapitres de personnel ou entre les sections prévues à l'article R. 533-6 et une
-autre affectation. Les autres états rectificatifs sont pris par le directeur
-après avis conforme du membre du corps du contrôle général économique et
-financier. Il en rend compte au conseil d'administration à sa plus proche séance
-;
+5° Le budget ;
 
 6° Les conditions générales de fixation des prix de vente des produits et des
 prestations de l'établissement ;

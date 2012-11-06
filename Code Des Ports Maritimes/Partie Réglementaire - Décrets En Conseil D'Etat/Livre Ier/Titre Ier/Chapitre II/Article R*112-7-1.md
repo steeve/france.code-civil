@@ -4,11 +4,11 @@ Les membres du conseil d'administration adressent au commissaire du Gouvernement
 auprès du port autonome, dans les quinze jours suivant leur nomination ou
 désignation, une déclaration mentionnant :
 
-- les fonctions exercées par eux-mêmes et leurs conjoints non séparés de corps
+-les fonctions exercées par eux-mêmes et leurs conjoints non séparés de corps
 dans les sociétés ou organismes susceptibles, du fait de leur secteur
 d'activité, de conclure des conventions avec le port autonome ;
 
-- la liste et le nombre des actions et droits sociaux représentant au moins un
+-la liste et le nombre des actions et droits sociaux représentant au moins un
 vingtième du capital ou des droits de vote, possédés par eux-mêmes, leurs
 conjoints et enfants mineurs non émancipés dans les mêmes sociétés ou
 organismes.
@@ -25,6 +25,6 @@ démissionnaire par le conseil d'administration.
 Toute modification dans les éléments figurant dans la déclaration mentionnée au
 premier alinéa du présent article est transmise au commissaire du Gouvernement.
 
-Le commissaire du Gouvernement communique au membre du corps du contrôle général
-économique et financier les déclarations remplies par les membres du conseil
-ainsi que les modifications qui y sont apportées.
+Le commissaire du Gouvernement communique au contrôleur budgétaire les
+déclarations remplies par les membres du conseil ainsi que les modifications qui
+y sont apportées.

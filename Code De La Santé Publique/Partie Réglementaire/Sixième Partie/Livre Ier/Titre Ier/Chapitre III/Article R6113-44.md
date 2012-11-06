@@ -11,7 +11,6 @@ Les délibérations portant sur les matières énoncées au 4° de l'article R.
 6113-43 ne sont exécutoires qu'après approbation expresse par les ministres
 chargés du budget, de la santé et de la sécurité sociale.
 
-Les délibérations portant sur les matières énoncées au 2° de l'article R.
-6113-43 sont exécutoires un mois après leur transmission aux ministres chargés
-du budget, de la santé et de la sécurité sociale à moins que l'un d'eux n'y
-fasse opposition dans ce délai.
+Les délibérations portant sur le budget et le compte financier sont exécutoires
+dans les conditions prévues par le titre III du décret n° 2012-1246 du 7
+novembre 2012relatif à la gestion budgétaire et comptable publique.

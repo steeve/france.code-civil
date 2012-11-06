@@ -2,7 +2,7 @@ Article R426-10
 ----
 Le directeur général du Centre national d'enseignement à distance est nommé par
 décret pris sur proposition des ministres chargés de l'éducation et de
-l'enseignement supérieur.A ce titre :
+l'enseignement supérieur. A ce titre :
 
 1° Il conduit la politique générale de l'établissement dans le cadre des
 orientations définies par le conseil d'administration ;
@@ -23,7 +23,7 @@ aucune autre autorité n'a pouvoir de nomination et recrute les personnels
 contractuels. Il a autorité sur l'ensemble du personnel de l'établissement et
 l'affecte dans les différents services ;
 
-7° Il conclut les conventions et marchés, sous réserve des ispositions de
+7° Il conclut les conventions et marchés, sous réserve des dispositions de
 l'article R. 426-7.
 
 Le directeur général est assisté d'un secrétaire général nommé sur sa
@@ -32,12 +32,3 @@ supérieur. Il peut également se faire assister de directeurs adjoints qu'il
 nomme. Il peut nommer des ordonnateurs secondaires et fixer leurs attributions.
 
 Il peut déléguer sa signature.
-
-Sous réserve de l'accord du membre du corps du contrôle général économique et
-financier et d'une ratification par le conseil d'administration lors de sa plus
-prochaine séance, il peut prendre les décisions de modification du budget qui ne
-comportent ni augmentation du montant total des dépenses, ni accroissement des
-effectifs, ni diminution du montant total des recettes, ni virement de crédits
-entre la section de fonctionnement et la section des opérations en capital ou
-entre les chapitres des dépenses de personnels et les chapitres des dépenses de
-matériel.

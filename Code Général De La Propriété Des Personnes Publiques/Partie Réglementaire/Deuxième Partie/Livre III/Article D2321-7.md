@@ -6,7 +6,6 @@ créances relatives aux produits et redevances du domaine mentionnés à l'artic
 L. 2321-2 que sont habilités à recevoir les établissements publics de l'Etat à
 caractère administratif sont autorisés à ne pas émettre les ordres
 correspondants lorsque le montant initial en principal de ces créances n'atteint
-pas le seuil mentionné à l'article 1er du décret n° 97-775 du 31 juillet 1997
-relatif à l'émission des ordres de recettes pour les créances mentionnées à
-l'article 80 du décret n° 62-1587 du 29 décembre 1962 portant règlement général
-sur la comptabilité publique.
+pas le seuil fixé selon les modalités prévues à l'article 192 du décret n°
+2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
+publique.

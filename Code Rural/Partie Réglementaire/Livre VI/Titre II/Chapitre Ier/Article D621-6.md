@@ -1,10 +1,9 @@
 Article D621-6
 ----
-Le conseil d'administration adopte son règlement intérieur, l'état prévisionnel
-des recettes et des dépenses et, le cas échéant, les états annexes et leurs
-modifications, arrête le compte financier, examine le rapport annuel d'activité
-de l'établissement et se prononce sur son programme de travail annuel. Il fixe
-le siège de l'établissement.
+Le conseil d'administration adopte son règlement intérieur, le budget et, le cas
+échéant, les états annexes et leurs modifications, arrête le compte financier,
+examine le rapport annuel d'activité de l'établissement et se prononce sur son
+programme de travail annuel. Il fixe le siège de l'établissement.
 
 Il délibère sur le contrat pluriannuel mentionné à l'article D. 621-5. Il est
 consulté sur les projets de transactions et sur les décisions relatives aux

@@ -7,7 +7,7 @@ jour, sur proposition du directeur général.
 Le conseil d'administration est également convoqué à la demande du ministre
 chargé de l'agriculture, du ministre chargé des sports ou de la majorité de ses
 membres. Les questions pour l'examen desquelles la convocation est demandée sont
-de droit inscrites à l'ordre du jour.L'ordre du jour et les pièces afférentes
+de droit inscrites à l'ordre du jour. L'ordre du jour et les pièces afférentes
 sont transmis huit jours avant la date de la réunion.
 
 Le conseil d'administration ne peut valablement délibérer que si la moitié au
@@ -28,7 +28,7 @@ En cas d'empêchement du président, la séance est présidée par un représent
 l'Etat désigné par le ministre chargé de l'agriculture et par le ministre chargé
 des sports.
 
-L'autorité en charge du contrôle financier, le directeur général et l'agent
+L'autorité en charge du contrôle budgétaire, le directeur général et l'agent
 comptable assistent aux séances du conseil d'administration avec voix
 consultative.
 

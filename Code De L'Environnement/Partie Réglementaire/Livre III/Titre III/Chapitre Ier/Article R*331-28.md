@@ -17,9 +17,9 @@ Les délibérations sont adoptées à la majorité des membres présents ou
 représentés. En cas de partage égal des voix, celle du président de séance est
 prépondérante.
 
-Le commissaire du Gouvernement, le directeur, le directeur adjoint, le membre du
-corps du contrôle général économique et financier et l'agent comptable assistent
-aux séances avec voix consultative.
+Le commissaire du Gouvernement, le directeur, le directeur adjoint, le
+contrôleur budgétaire et l'agent comptable assistent aux séances avec voix
+consultative.
 
 Le conseil d'administration peut entendre toute personne dont il estime
 l'audition utile à son information.

@@ -25,11 +25,11 @@ civile et du budget. A défaut d'approbation expresse, elles sont exécutoires u
 mois après leur réception, sauf opposition de l'un de ces ministres pendant ce
 délai.
 
-Les délibérations portant sur les questions mentionnées aux 4°, 5°, 6°, 10° et
-12° sont approuvées par le ministre chargé de la santé et le ministre chargé du
-budget dans les conditions fixées par le décret n° 99-575 du 8 juillet 1999
-relatif aux modalités d'approbation de certaines décisions financières des
-établissements publics de l'Etat.
+Les délibérations portant sur le budget et le compte financier sont exécutoires
+dans les conditions prévues par le titre III du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique. Les
+délibérations portant sur les questions mentionnées aux 5°, 6°, 10° et 12° sont
+exécutoires dans les mêmes conditions.
 
 Lorsque les ministres concernés demandent par écrit des informations ou
 documents complémentaires, les délais mentionnés aux alinéas précédents sont

@@ -1,6 +1,6 @@
 Article R813-70
 ----
-Le contrôle financier des établissements sous contrat appartient au
+Le contrôle budgétaire des établissements sous contrat appartient au
 trésorier-payeur général du département où est situé leur siège. Il porte sur
 l'exactitude des données fournies par chaque établissement en vue de la
 souscription ou du renouvellement de son contrat et sur l'utilisation de l'aide

@@ -18,6 +18,5 @@ de l'office national les transactions après approbation expresse des autorités
 de tutelle.
 
 En sa qualité d'ordonnateur, il exerce ses attributions dans les conditions
-prévues par le décret n° 53-1227 du 10 décembre 1953, relatif à la
-réglementation comptable des établissements publics nationaux à caractère
-administratif.
+prévues par le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion
+budgétaire et comptable publique.

@@ -62,6 +62,5 @@ de son président.
 Les délibérations sont prises à la majorité simple des membres présents. En cas
 de partage égal des voix, celle du président est prépondérante.
 
-Le membre du corps du contrôle général économique et financier et l'agent
-comptable assistent avec voix consultative aux délibérations du conseil
-d'administration.
+Le contrôleur budgétaire et l'agent comptable assistent avec voix consultative
+aux délibérations du conseil d'administration.

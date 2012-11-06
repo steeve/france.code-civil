@@ -22,8 +22,8 @@ financières autorisées ;
 7° Les produits de cessions d'actif à des tiers ;
 
 8° Les produits des emprunts sous réserve de l'accord du ministre chargé du
-budget et du ministre chargé de la construction, après avis du membre du
-contrôle économique et financier ;
+budget et du ministre chargé de la construction, après avis du contrôleur
+budgétaire ;
 
 9° Toutes les autres ressources liées à ses missions et activités.
 

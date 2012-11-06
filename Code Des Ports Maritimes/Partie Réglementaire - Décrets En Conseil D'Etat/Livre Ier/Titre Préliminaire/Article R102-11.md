@@ -3,10 +3,9 @@ Article R102-11
 Le conseil de surveillance établit son règlement intérieur. Il peut constituer
 en son sein des commissions spécialisées.
 
-Il constitue en son sein un comité d'audit. Le commissaire du Gouvernement et
-l'autorité chargée du contrôle économique et financier assistent aux séances de
-ce comité avec voix consultative. Le président du conseil de surveillance ne
-fait pas partie du comité d'audit.
+Il constitue en son sein un comité d'audit. Le commissaire du Gouvernement et le
+contrôleur budgétaire assistent aux séances de ce comité avec voix consultative.
+Le président du conseil de surveillance ne fait pas partie du comité d'audit.
 
 Le comité d'audit assiste le conseil de surveillance dans sa fonction de garant
 de la qualité du contrôle interne et de la fiabilité des informations fournies à

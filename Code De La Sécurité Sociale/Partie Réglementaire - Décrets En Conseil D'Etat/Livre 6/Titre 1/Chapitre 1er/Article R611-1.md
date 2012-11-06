@@ -1,6 +1,6 @@
 Article R611-1
 ----
-I. - Pour l'exercice des missions définies à l'article L. 611-4, la Caisse
+I. ― Pour l'exercice des missions définies à l'article L. 611-4, la Caisse
 nationale du régime social des indépendants a pour rôle :
 
 1° De centraliser toutes informations nécessaires au fonctionnement du régime ;
@@ -16,5 +16,6 @@ travaux portant sur des sujets d'intérêt commun ;
 4° D'établir à l'échelon national les statistiques relatives aux opérations du
 régime.
 
-II. - La caisse nationale est soumise au contrôle économique et financier de
-l'Etat dans les conditions fixées par le décret du 26 mai 1955 modifié susvisé.
+II. ― La caisse nationale est soumise au contrôle budgétaire prévu par le décret
+n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
+publique..

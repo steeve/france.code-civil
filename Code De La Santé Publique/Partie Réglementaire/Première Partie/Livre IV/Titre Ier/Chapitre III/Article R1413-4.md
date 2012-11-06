@@ -11,12 +11,9 @@ financier et l'affectation des résultats, et 5° de l'article R. 1413-3 ne sont
 exécutoires qu'après approbation expresse par les ministres chargés du budget et
 de la santé.
 
-Les délibérations portant sur le budget, le compte financier et l'affectation
-des résultats sont exécutoires, à défaut d'approbation expresse déjà notifiée, à
-l'expiration d'un délai d'un mois partant de la date de réception, par les
-ministres chargés du budget et de la santé, de la délibération et des documents
-correspondants, à moins que l'un de ces ministres n'y fasse opposition pendant
-ce délai.
+Les délibérations portant sur le budget et le compte financier sont exécutoires
+dans les conditions prévues par le titre III du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Lorsque l'un des ministres précités demande par écrit des informations ou
 documents complémentaires, le délai est suspendu jusqu'à la production de ces

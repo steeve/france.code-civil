@@ -9,10 +9,9 @@ l'Etat, elle est subordonnée à la signature d'une convention entre le ministre
 de la défense, ou le ministre de l'intérieur pour les militaires de la
 gendarmerie nationale, et la personne morale intéressée.
 
-La convention, conclue pour une durée maximale de dix ans, est examinée par
-l'autorité chargée du contrôle financier, dans les conditions prévues par le
-décret n° 2005-54 du 27 janvier 2005 relatif au contrôle financier au sein des
-administrations de l'Etat.
+La convention, conclue pour une durée maximale de dix ans, est examinée par le
+contrôleur budgétaire, dans les conditions prévues par le décret n° 2012-1246 du
+7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Elle précise notamment les objectifs poursuivis par l'affectation, le nombre de
 militaires affectés, leur mission, la nature et le niveau des activités qu'ils

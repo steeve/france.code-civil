@@ -55,9 +55,8 @@ les personnalités particulièrement compétentes dans les domaines qui intéres
 l'office, désigné sur proposition du directeur de l'office.
 
 Le directeur, le directeur adjoint, le secrétaire général, l'agent comptable, le
-membre du corps du contrôle général économique et financier ainsi que toute
-personne dont la présence est jugée utile par le président assistent aux séances
-avec voix consultative.
+contrôleur budgétaire ainsi que toute personne dont la présence est jugée utile
+par le président assistent aux séances avec voix consultative.
 
 Les membres mentionnés aux 3°, 4°, 5°, 6°, 7° et 8° sont nommés par arrêté
 conjoint des ministres chargés de l'éducation et de l'enseignement supérieur.

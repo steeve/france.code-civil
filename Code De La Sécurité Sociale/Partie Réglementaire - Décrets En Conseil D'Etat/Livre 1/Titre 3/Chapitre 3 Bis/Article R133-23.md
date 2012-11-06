@@ -32,9 +32,9 @@ la commission à titre consultatif.
 
 Un représentant du ministre chargé de la sécurité sociale et un représentant du
 ministre chargé du commerce, de l'artisanat et des professions libérales, ainsi
-que l'agent chargé du contrôle économique et financier de l'Etat prévu au II de
-l'article R. 611-1, assistent aux réunions de la commission et sont entendus
-chaque fois qu'ils le demandent.
+que le contrôleur budgétaire de l'Etat prévu au II de l'article R. 611-1,
+assistent aux réunions de la commission et sont entendus chaque fois qu'ils le
+demandent.
 
 Le président de la commission a voix prépondérante en cas de partage égal des
 voix.

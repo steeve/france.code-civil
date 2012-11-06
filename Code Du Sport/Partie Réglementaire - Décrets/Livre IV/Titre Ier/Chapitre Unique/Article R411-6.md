@@ -52,10 +52,9 @@ rénovation d'équipements sportifs nécessitant le concours financier de
 l'établissement.
 
 Les délibérations du conseil d'administration relatives au règlement général de
-l'établissement, à son budget, aux modifications de celui-ci et au compte
-financier, ainsi que les délibérations prévues au 13° sont exécutoires en
-l'absence d'opposition des ministres chargé du budget et des sports dans les
-quinze jours qui suivent leur réception par chacun de ces ministres. Pour
-devenir exécutoires, les délibérations prévues aux 9° et 10° doivent recevoir
-l'approbation expresse du ministre chargé des sports et du ministre chargé du
-budget.
+l'établissement, à son budget, aux modifications de celui-ci ainsi que les
+délibérations prévues au 13° sont exécutoires en l'absence d'opposition des
+ministres chargé du budget et des sports dans les quinze jours qui suivent leur
+réception par chacun de ces ministres. Pour devenir exécutoires, les
+délibérations prévues aux 9° et 10° doivent recevoir l'approbation expresse du
+ministre chargé des sports et du ministre chargé du budget.

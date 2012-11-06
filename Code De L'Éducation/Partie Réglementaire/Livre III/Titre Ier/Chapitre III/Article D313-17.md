@@ -22,17 +22,14 @@ Chaque membre du conseil d'administration peut donner mandat à un autre membre
 pour le représenter. Nul ne peut être porteur de plus de deux mandats.
 
 Les délibérations du conseil d'administration autres que celles mentionnées aux
-3°, 4°, 7° et 10° de l'article D. 313-16 sont exécutoires de plein droit, à
-défaut d'approbation expresse notifiée dans ce délai, un mois après leur
-réception par les ministres chargés de l'éducation et de l'enseignement
-supérieur si l'un d'eux n'y a pas fait opposition dans ce délai. Les
-délibérations prévues au 10° du même article doivent, pour devenir exécutoires,
-faire l'objet d'une approbation expresse des ministres chargés de l'éducation,
-de l'enseignement supérieur et du budget.
+7° et 10° de l'article D. 313-16 sont exécutoires de plein droit, à défaut
+d'approbation expresse notifiée dans ce délai, un mois après leur réception par
+les ministres chargés de l'éducation et de l'enseignement supérieur si l'un
+d'eux n'y a pas fait opposition dans ce délai. Les délibérations prévues au 10°
+du même article doivent, pour devenir exécutoires, faire l'objet d'une
+approbation expresse des ministres chargés de l'éducation, de l'enseignement
+supérieur et du budget.
 
-Les délibérations portant sur le budget et ses décisions modificatives ainsi que
-sur le compte financier sont adressées aux ministres chargés de l'éducation, de
-l'enseignement supérieur et du budget. Elles sont exécutoires dans les
-conditions prévues par le décret n° 99-575 du 8 juillet 1999 relatif aux
-modalités d'approbation de certaines décisions financières des établissements
-publics de l'Etat.
+Les délibérations portant sur le budget et le compte financier sont exécutoires
+dans les conditions prévues par le titre III du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.

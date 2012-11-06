@@ -13,8 +13,8 @@ Les délibérations du conseil d'administration sont adoptées à la majorité d
 membres présents. En cas de partage égal des voix, la voix du président est
 prépondérante.
 
-Le directeur de l'école, le directeur adjoint, l'agent comptable, l'autorité
-chargée du contrôle financier ainsi que toute personne dont il paraîtrait utile
-au président de recueillir l'avis participent au conseil d'administration avec
-voix consultative. Le directeur peut se faire accompagner par toute personne de
-son choix appartenant à l'établissement.
+Le directeur de l'école, le directeur adjoint, l'agent comptable, le contrôleur
+budgétaire ainsi que toute personne dont il paraîtrait utile au président de
+recueillir l'avis participent au conseil d'administration avec voix
+consultative. Le directeur peut se faire accompagner par toute personne de son
+choix appartenant à l'établissement.

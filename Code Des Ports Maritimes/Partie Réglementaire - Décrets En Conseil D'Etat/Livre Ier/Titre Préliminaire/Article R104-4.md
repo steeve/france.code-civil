@@ -8,6 +8,5 @@ L'autorité chargée du contrôle économique et financier présente aux ministr
 chargés de l'économie et du budget un rapport annuel sur la situation économique
 et financière du grand port maritime. Ce rapport est transmis au directoire.
 
-Le commissaire du Gouvernement et l'autorité chargée du contrôle économique et
-financier se communiquent leurs rapports respectifs avant la transmission aux
-ministres.
+Le commissaire du Gouvernement et le contrôleur budgétaire se communiquent leurs
+rapports respectifs avant la transmission aux ministres.

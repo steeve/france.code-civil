@@ -14,7 +14,7 @@ développement durables, ou son représentant ;
 
 e) L'agent comptable ;
 
-f) L'autorité chargée du contrôle économique et financier ;
+f) Le contrôleur budgétaire ;
 
 g) Un représentant des services déconcentrés désigné par le ministre chargé de
 l'emploi ;

@@ -1,6 +1,6 @@
 Article R621-40
 ----
-L'état prévisionnel des recettes et des dépenses comprend notamment :
+Le budget comprend notamment :
 
 1° En recettes :
 

@@ -16,6 +16,10 @@ la délibération est exécutoire.
 Toutefois, lorsqu'elles portent sur l'organisation générale de l'agence ainsi
 que sur son programme d'activité et sur les conditions générales d'attribution
 des subventions, les délibérations ne sont exécutoires qu'après avoir été
-approuvées par les ministres de tutelle.A défaut d'opposition de l'un des
+approuvées par les ministres de tutelle. A défaut d'opposition de l'un des
 ministres de tutelle dans le délai d'un mois à compter de leur réception, ces
 délibérations sont réputées approuvées.
+
+Les délibérations portant sur le budget et le compte financier sont exécutoires
+dans les conditions prévues par le titre III du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.

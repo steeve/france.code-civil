@@ -1,6 +1,6 @@
 Article R813-27
 ----
-Le contrôle financier des établissements sous contrat est exercé par le
+Le contrôle budgétaire des établissements sous contrat est exercé par le
 trésorier-payeur général du département de leur localisation principale. Il
 porte sur l'exactitude des données fournies par chaque établissement et sur
 l'utilisation de l'aide financière de l'Etat.

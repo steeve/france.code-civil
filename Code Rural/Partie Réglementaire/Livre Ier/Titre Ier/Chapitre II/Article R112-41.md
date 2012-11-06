@@ -14,4 +14,4 @@ représentés ; en cas de partage des voix, celle du président est prépondéra
 
 Les délibérations font l'objet de procès-verbaux signés par le président et
 notifiés aux membres du conseil d'administration, au commissaire du Gouvernement
-et au membre du corps du contrôle général économique et financier.
+et au contrôleur budgétaire.

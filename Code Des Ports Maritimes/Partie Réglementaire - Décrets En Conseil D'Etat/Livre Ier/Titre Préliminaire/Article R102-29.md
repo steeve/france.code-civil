@@ -14,7 +14,7 @@ l'ensemble des opérations du conseil de surveillance.
 L'autorité chargée du contrôle économique et financier est désignée par les
 ministres chargés de l'économie et du budget.
 
-Le commissaire du Gouvernement et l'autorité chargée du contrôle économique et
-financier participent avec voix consultative aux séances du conseil de
-surveillance du grand port maritime et assistent aux réunions du conseil de
-développement et de ses commissions permanentes.
+Le commissaire du Gouvernement et le contrôleur budgétaire participent avec voix
+consultative aux séances du conseil de surveillance du grand port maritime et
+assistent aux réunions du conseil de développement et de ses commissions
+permanentes.

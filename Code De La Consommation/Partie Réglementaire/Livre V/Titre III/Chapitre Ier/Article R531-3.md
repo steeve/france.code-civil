@@ -19,8 +19,8 @@ associations de défense des consommateurs est élaboré par une commission cré
 cet effet et qui veille à son exécution. Cette commission est composée d'un
 représentant de chacune des organisations de consommateurs agréées au plan
 national, ainsi que du directeur général de l'établissement. Le commissaire du
-Gouvernement ou son représentant et le membre du corps du contrôle général
-économique et financier assistent de droit à ses travaux ;
+Gouvernement ou son représentant et le contrôleur budgétaire assistent de droit
+à ses travaux ;
 
 b) Assure un financement et fournit des prestations d'appui technique aux
 centres techniques régionaux de la consommation ou aux structures régionales ou
@@ -35,7 +35,7 @@ dépenses, le directeur général de l'Institut national de la consommation
 détermine les montants des aides financières allouées aux centres techniques
 régionaux de la consommation ou aux structures régionales ou interrégionales
 assimilées devant être inscrits dans ces conventions ou résultant de la mise en
-œuvre des dispositions de celles-ci.A cet effet, il recueille préalablement
+œuvre des dispositions de celles-ci. A cet effet, il recueille préalablement
 l'avis d'un comité d'évaluation créé dans des conditions et selon les modalités
 fixées par l'arrêté prévu à l'alinéa précédent.
 
