@@ -1,7 +1,8 @@
 Article R5121-43
 ----
 Les obligations spécifiques pouvant être imposées en application du troisième
-alinéa de l'article L. 5121-9 sont notamment les suivantes :
+alinéa de l'article L. 5121-9 et qui sont à mentionner dans le système de
+gestion des risques, sont notamment les suivantes :
 
 1° Le demandeur doit mener à terme un programme d'essais dans un délai fixé par
 l'agence, dont les résultats serviront à une réévaluation du rapport entre le

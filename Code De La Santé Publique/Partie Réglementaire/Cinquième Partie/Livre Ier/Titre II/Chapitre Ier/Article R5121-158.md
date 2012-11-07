@@ -1,23 +1,37 @@
 Article R5121-158
 ----
-Le directeur général de l'Agence nationale de sécurité du médicament et des
-produits de santé informe immédiatement l'Agence européenne des médicaments et
-les autres Etats membres de la Communauté européenne de tout projet de
-suspension, de retrait ou de modification d'office d'une autorisation de mise
-sur le marché d'un médicament fondée sur l'évaluation des données de
-pharmacovigilance.
+Les centres régionaux de pharmacovigilance sont chargés :
 
-Lorsque le directeur général de l'Agence nationale de sécurité du médicament et
-des produits de santé suspend, en urgence, l'autorisation de mise sur le marché
-d'un médicament, il en informe immédiatement l'Agence européenne des
-médicaments, la Commission européenne et les autres Etats membres, au plus tard
-le premier jour ouvrable suivant sa décision.
+1° De recueillir les déclarations que leur adressent les professionnels de santé
+en application de l'article R. 5121-165 ainsi que les signalements que peuvent
+leur adresser les autres professionnels de santé, les patients et les
+associations agréées de patients ;
 
-Lorsque le directeur général de l'Agence nationale de sécurité du médicament et
-des produits de santé informe l'Agence européenne des médicaments d'un projet de
-modification d'une autorisation de mise sur le marché fondée sur l'évaluation
-des données de pharmacovigilance ou est informé par un Etat membre de la
-Communauté européenne ou partie à l'accord sur l'Espace économique européen d'un
-tel projet de modification, il peut demander au comité des médicaments à usage
-humain de l'Agence européenne des médicaments de rendre un avis sur le projet de
-modification de l'autorisation de mise sur le marché.
+2° De recueillir les informations relatives aux effets indésirables des
+médicaments ou produits mentionnés à l'article R. 5121-150 qui doivent leur être
+communiquées par les établissements publics de santé, par les centres antipoison
+et par les établissements de santé privés qui assurent une ou plusieurs des
+missions de service public mentionnées à l'article L. 6112-1 ou sont associés à
+son fonctionnement ;
+
+3° De réunir les informations de même nature qui leur sont transmises par les
+autres établissements de santé, les syndicats interhospitaliers et les
+groupements de coopération sanitaire autorisés en vertu des articles L. 6132-2,
+dans sa rédaction antérieure à la publication de la loi n° 2009-879 du 21
+juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé
+et aux territoires, et L. 6133-7 à assurer les missions de ces établissements
+ou, à titre individuel, par les membres de professions de santé ;
+
+4° De transmettre au directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé les informations recueillies en application
+des 1°, 2° et 3°, celles qui concernent des effets indésirables graves devant
+lui être transmises sans délai ;
+
+5° De remplir auprès du ministre chargé de la santé et du directeur général de
+l'agence une mission d'expertise, en conduisant les études et travaux qui leur
+sont demandés par ces autorités et en procédant à l'évaluation des informations
+relatives aux effets indésirables ;
+
+6° De contribuer au développement des connaissances sur les méthodes de la
+pharmacovigilance et sur la nature et les mécanismes des effets indésirables des
+médicaments et produits mentionnés à l'article R. 5121-150.

@@ -1,29 +1,43 @@
 Article R5121-157
 ----
 Le directeur général de l'Agence nationale de sécurité du médicament et des
-produits de santé informe l'Agence européenne des médicaments et les autres
-Etats membres de la Communauté européenne, notamment au moyen du réseau
-informatique européen de pharmacovigilance mis en place par l'Agence européenne
-des médicaments, de tout effet indésirable grave survenu en France susceptible
-d'être dû à un médicament qui lui a été déclaré ou notifié, en mettant à leur
-disposition, au plus tard dans un délai de quinze jours à compter de la
-déclaration ou de la notification, les éléments que celle-ci contient.
+produits de santé informe immédiatement la Commission européenne l'Agence
+européenne des médicaments et les autres Etats membres de l'Union européenne
+lorsqu'il juge qu'une mesure urgente est nécessaire, à l'issue de l'évaluation
+des données résultant des activités de pharmacovigilance, dans l'une des
+situations suivantes :
 
-Il informe également l'entreprise ou l'organisme exploitant le médicament
-concerné de tout effet indésirable grave susceptible d'être dû au médicament,
-qui lui a été déclaré ou notifié en mettant à sa disposition, au plus tard dans
-un délai de quinze jours à compter de la déclaration ou de la notification, les
-éléments que celle-ci contient.
+1° Il envisage de suspendre ou de retirer une autorisation de mise sur le marché
+;
 
-Le directeur général de l'Agence nationale de sécurité du médicament et des
-produits de santé assure, lorsque la France est désignée comme Etat membre de
-référence pour la mise en oeuvre de la procédure décentralisée ou de la
-procédure de reconnaissance mutuelle prévues aux articles R. 5121-51 et
-suivants, l'analyse et le suivi des effets indésirables graves et des
-transmissions d'agents infectieux susceptibles d'être dus à ce médicament et
-dont il a eu connaissance conformément au dernier alinéa de l'article R.
-5121-171.
+2° Il envisage d'interdire la délivrance d'un médicament ou d'un produit
+bénéficiant d'une autorisation de mise sur le marché ;
 
-Lorsque le signalement porte sur un produit mentionné à l'article R. 5121-150
-autre qu'une spécialité pharmaceutique, il informe le pharmacien qui est
-responsable de la production ou de la mise sur le marché du produit.
+3° Il envisage de refuser le renouvellement d'une autorisation de mise sur le
+marché ;
+
+4° Il est informé par une entreprise ou un organisme exploitant un médicament ou
+un produit mentionné à l'article R. 5121-150 qu'en raison d'inquiétudes
+concernant la sécurité d'un médicament, l'entreprise ou l'organisme a interrompu
+la mise sur le marché du médicament ou du produit ou a pris ou envisage de
+prendre des mesures pour faire retirer l'autorisation de mise sur le marché de
+ce médicament ou produit ;
+
+5° Il estime nécessaire de signaler une nouvelle contre-indication, de réduire
+le dosage recommandé ou de restreindre les indications.
+
+Dans des cas exceptionnels résultant de l'évaluation des données des activités
+de pharmacovigilance, lorsque le directeur général de l'Agence nationale de
+sécurité du médicament et des produits de santé décide de suspendre en urgence
+l'autorisation de mise sur le marché et d'interdire l'utilisation du médicament
+ou du produit en vue de protéger la santé publique, en attendant qu'une décision
+définitive ne soit prise en application de la procédure d'arbitrage de l'Union
+européenne, il informe la Commission européenne, l'Agence européenne des
+médicaments et les autres Etats membres de l'Union européenne ou les Etats
+parties à l'accord sur l'Espace économique européen des raisons de cette mesure
+au plus tard le premier jour ouvrable suivant sa décision.
+
+Le directeur général de l'agence met à la disposition de l'Agence européenne des
+médicaments toute information scientifique pertinente qu'il détient, ainsi que
+toute évaluation que l'Agence nationale de sécurité du médicament et des
+produits de santé aurait réalisée

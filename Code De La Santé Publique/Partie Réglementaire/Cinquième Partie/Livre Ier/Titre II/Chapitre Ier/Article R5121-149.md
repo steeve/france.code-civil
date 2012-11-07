@@ -1,7 +1,11 @@
 Article R5121-149
 ----
 La notice est établie en conformité avec le résumé des caractéristiques du
-produit. Elle comporte, dans l'ordre, les indications suivantes :
+produit. Elle comporte un texte standard, invitant expressément les patients à
+signaler tout effet indésirable suspecté à leur médecin, à leur pharmacien ou à
+tout autre professionnel de santé ou bien directement au centre régional de
+pharmacovigilance, et précisant les différents modes de notification à leur
+disposition. Elle comporte également, dans l'ordre, les indications suivantes :
 
 1° Pour l'identification du médicament ou du produit :
 
@@ -54,10 +58,7 @@ h) La recommandation de consulter un médecin ou un pharmacien pour toute
 précision ou conseil relatif à l'utilisation du produit ;
 
 5° Une description des effets indésirables pouvant être observés lors de l'usage
-normal du médicament ou du produit et, le cas échéant, la conduite à tenir,
-ainsi qu'une invitation expresse pour le patient à communiquer à son médecin ou
-à son pharmacien tout effet indésirable qui ne serait pas mentionné dans la
-notice ;
+normal du médicament ou du produit et, le cas échéant, la conduite à tenir ;
 
 6° Un renvoi à la date de péremption figurant sur le conditionnement extérieur,
 avec :
@@ -85,6 +86,14 @@ suivants sous des noms différents dans les Etats concernés, une liste des noms
 autorisés dans chacun de ces Etats ;
 
 8° La date à laquelle la notice a été révisée pour la dernière fois.
+
+Pour les médicaments figurant sur la liste visée à l'article 23 du règlement
+(CE) n° 726/2004 du Parlement européen et du Conseil du 31 mars 2004, la notice
+doit, outre les renseignements mentionnés ci-dessus, comporter la mention : " Ce
+médicament fait l'objet d'une surveillance supplémentaire ". Cette mention est
+précédée du symbole noir mentionné à l'article 23 du règlement (CE) n° 726/2004
+du Parlement européen et du Conseil du 31 mars 2004 et suivie d'une phrase
+explicative déterminée par la Commission européenne.
 
 Pour les préparations radiopharmaceutiques, la notice doit, en outre, mentionner
 les précautions à prendre par l'utilisateur et le patient durant la préparation

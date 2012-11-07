@@ -1,37 +1,32 @@
 Article R5121-36-1
 ----
-L'autorisation de mise sur le marché délivrée par l'Agence nationale de sécurité
-du médicament et des produits de santé devient caduque s'il apparaît :
+L'autorisation de mise sur le marché peut imposer l'exécution d'une ou de
+plusieurs des conditions suivantes, qui doivent être mentionnées dans le système
+de gestion des risques :
 
-1° Qu'elle n'est pas suivie d'une mise sur le marché du médicament sur le
-territoire national dans les trois années qui suivent sa délivrance ;
+1° La mise en œuvre de mesures garantissant une utilisation sûre du médicament
+ou du produit ;
 
-2° Que le médicament, précédemment mis sur le marché sur le territoire national,
-n'est plus sur le marché pendant trois années consécutives.
+2° La réalisation d'études de sécurité post-autorisation ;
 
-Une dérogation à ces dispositions peut être accordée par l'agence à titre
-exceptionnel, soit pour des raisons de santé publique, soit lorsque le
-médicament ne peut légalement être commercialisé pendant la période considérée,
-soit lorsque le médicament est exclusivement destiné à l'exportation vers un
-Etat non partie à l'accord sur l'Espace économique européen, soit lorsque le
-médicament est commercialisé dans au moins un autre Etat membre de la Communauté
-européenne ou Etat partie à l'accord sur l'Espace économique européen dans
-lequel il a obtenu une autorisation en application d'une procédure de
-reconnaissance mutuelle ou d'une procédure décentralisée pour laquelle la France
-est désignée comme Etat membre de référence et qu'au moins un dosage différent
-ou une forme pharmaceutique différente de ce médicament est commercialisé en
-France.
+3° Le respect d'obligations particulières en ce qui concerne l'enregistrement ou
+la notification des effets indésirables suspectés ;
 
-II.-Pour l'application du I du présent article, la période de trois ans avant la
-caducité de l'autorisation de mise sur le marché est décomptée à partir :
+4° Toute autre condition ou restriction destinée à garantir une utilisation sûre
+et efficace du médicament ou du produit ;
 
-1° De la date de publication du décret n° 2008-435 du 6 mai 2008 pour les
-autorisations de mise sur le marché délivrées jusqu'à cette date, à l'exception
-de celles des médicaments à base de plantes ayant fait l'objet d'une demande
-d'enregistrement déposée dans les conditions prévues à l'article L. 5121-14-1,
-pour lesquelles la période de trois ans n'est décomptée qu'à partir de la date
-de la notification de la décision du directeur général de l'Agence nationale de
-sécurité du médicament et des produits de santé ;
+5° L'existence d'un système de pharmacovigilance adéquat ;
 
-2° De la date de délivrance des autorisations de mise sur le marché pour les
-autorisations délivrées après la date de publication du décret précité.
+6° La réalisation d'études d'efficacité post-autorisation lorsque l'acquisition
+de données supplémentaires est nécessaire après la mise sur le marché du
+médicament ou du produit.
+
+L'autorisation de mise sur le marché précise, le cas échéant, les délais dans
+lesquels ces conditions doivent être exécutées.
+
+Le titulaire de l'autorisation de mise sur le marché évalue si les résultats des
+études mentionnées aux 2° et 6° du présent article ont une incidence sur cette
+autorisation. Le titulaire dépose, le cas échéant, une demande appropriée de
+modification de l'autorisation de mise sur le marché auprès du directeur général
+de l'Agence nationale de sécurité du médicament et des produits de santé,
+suivant le calendrier prévu pour sa mise en œuvre.

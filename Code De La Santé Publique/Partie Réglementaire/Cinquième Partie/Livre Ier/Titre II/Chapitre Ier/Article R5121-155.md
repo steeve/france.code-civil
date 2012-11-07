@@ -1,30 +1,34 @@
 Article R5121-155
 ----
-L'Agence nationale de sécurité du médicament et des produits de santé assure la
-mise en oeuvre du système national de pharmacovigilance. Elle définit les
-orientations de la pharmacovigilance, anime et coordonne les actions des
-différents intervenants et veille au respect des procédures de surveillance
-organisées par la présente section.
-
-Elle reçoit les déclarations et les rapports qui sont adressés à son directeur
-général, en application des articles R. 5121-171, R. 5121-172 et R. 5121-173,
-par les entreprises et organismes exploitant des médicaments ou produits
-mentionnés à l'article R. 5121-150, ainsi que les informations qui lui sont
-transmises, en application de l'article R. 5121-167, par les centres régionaux
-de pharmacovigilance.
-
-Le directeur général de l'agence peut demander aux centres régionaux de
+I.-Le directeur général de l'agence peut demander aux centres régionaux de
 pharmacovigilance de mener à bien toutes enquêtes et tous travaux de
 pharmacovigilance.
 
-Il peut également demander aux centres antipoison mentionnés à l'article L.
-6141-4 de lui fournir les informations et d'effectuer les études qu'il estime
-utiles dans un but de pharmacovigilance.
+Il peut également demander aux centres d'évaluation et d'information sur la
+pharmacodépendance mentionnés à l'article R. 5132-112 et aux centres antipoison
+mentionnés à l'article L. 6141-4 de lui fournir les informations et d'effectuer
+les études qu'il estime utiles dans un but de pharmacovigilance.
 
-Les entreprises et organismes exploitant des médicaments ou produits mentionnés
-à l'article R. 5121-150 doivent, sur demande motivée du directeur général de
-l'agence, fournir toute information mentionnée au 2° et au dernier alinéa de
-l'article R. 5121-151 ou effectuer toutes enquêtes et tous travaux concernant
-les risques d'effets indésirables que ces médicaments ou produits sont
-susceptibles de présenter. Les informations, enquêtes ou travaux ainsi demandés
-doivent être nécessaires à l'exercice de la pharmacovigilance.
+Le directeur général de l'agence peut associer toute entreprise ou tout
+organisme exploitant un médicament ou un produit mentionné à l'article R.
+5121-150 ayant déclaré un effet indésirable suspecté en application des
+dispositions de l'article R. 121-166 au suivi de cette déclaration.
+
+Il peut également associer les professionnels de santé, les patients et les
+associations agréées de patients ayant déclaré un effet indésirable suspecté en
+application de l'article R. 5121-161 au suivi de cette déclaration.
+
+Il peut demander à toute entreprise ou tout organisme exploitant un médicament
+ou un produit mentionné à l'article L. 5121-1 de fournir toute information
+mentionnée au 2° et à l'avant-dernier alinéa de l'article R. 5121-151 ou
+d'effectuer toutes enquêtes, toutes études et tous travaux concernant les
+bénéfices et les risques d'effets indésirables que ces médicaments ou ces
+produits sont susceptibles de présenter. Cette demande est motivée.
+
+II.-Après exploitation des informations recueillies notamment en application de
+l'article R. 5121-154, le directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé prend, le cas échéant, les mesures
+appropriées pour assurer la sécurité d'emploi des médicaments et des produits
+mentionnés à l'article R. 5121-150 et pour faire cesser les incidents et les
+accidents qui se sont révélés liés à leur emploi, ou saisit les autorités
+compétentes.

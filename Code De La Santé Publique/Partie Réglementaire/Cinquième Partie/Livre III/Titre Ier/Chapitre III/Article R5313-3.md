@@ -10,9 +10,9 @@ sécurité du médicament et des produits de santé, qui lui est notifié lors d
 transmission du rapport et qui ne peut être inférieur à quinze jours.
 
 Lorsqu'il est saisi d'une demande motivée à cette fin, le directeur général de
-l'Agence nationale de sécurité du médicament et des produits de santé communique
-immédiatement à l'autorité compétente d'un autre Etat membre le rapport visé à
-l'alinéa précédent.
+l'Agence nationale de sécurité du médicament et des produits de santé envoie par
+voie électronique à l'autorité compétente d'un autre Etat membre ou à l'Agence
+européenne des médicaments le rapport visé à l'alinéa précédent.
 
 Le directeur général de l'agence peut demander à l'autorité compétente d'un
 autre Etat membre de lui communiquer les conclusions d'un rapport élaboré dans

@@ -1,22 +1,17 @@
 Article R5121-47
 ----
 Le directeur général de l'Agence nationale de sécurité du médicament et des
-produits de santé peut, par décision motivée indiquant les voies et délais de
-recours, modifier d'office, suspendre, pour une période ne pouvant pas excéder
-un an, ou retirer une autorisation de mise sur le marché. Sauf en cas d'urgence,
-la décision de modification d'office, de suspension ou de retrait ne peut
-intervenir qu'après que le titulaire de l'autorisation a été invité à présenter
-ses observations.
+produits de santé peut, par décision motivée indiquant les voies et les délais
+de recours, modifier d'office, suspendre, pour une période ne pouvant excéder un
+an, ou retirer une autorisation de mise sur le marché pour les motifs mentionnés
+à l'article L. 5121-9. Toutefois, lorsque l'autorisation est suspendue, soit à
+titre conservatoire dans l'attente de l'issue d'une procédure d'arbitrage de
+l'Union européenne, soit conformément à une décision de la Commission européenne
+prise à l'issue de cette procédure, la suspension demeure en vigueur jusqu'à ce
+que la Commission européenne ordonne qu'il y soit mis fin.
 
-Ces décisions interviennent lorsqu'il apparaît, notamment à la suite de
-l'évaluation des données mentionnées à l'article R. 5121-151, que le rapport
-entre le bénéfice et les risques liés au médicament tel que défini au premier
-alinéa de l'article L. 5121-9 n'est pas favorable dans les conditions normales
-d'emploi ou que l'effet thérapeutique annoncé fait défaut ou que la spécialité
-n'a pas la composition qualitative et quantitative déclarée.
-
-L'autorisation de mise sur le marché est également suspendue ou retirée par le
-directeur général de l'agence :
+L'autorisation de mise sur le marché est également modifiée d'office, suspendue
+ou retirée par le directeur général de l'agence :
 
 1° Lorsqu'il apparaît que les renseignements fournis à l'occasion de la demande
 d'autorisation de mise sur le marché sont erronés ou n'ont pas été modifiés
@@ -27,16 +22,23 @@ n'ont pas été effectués ;
 2° Lorsque l'étiquetage ou la notice du médicament ou du produit ne sont pas
 conformes aux prescriptions générales ou spécifiques prévues au présent titre ;
 
-3° Lorsque l'autorisation doit être mise en conformité avec la décision prise
-par la Commission européenne à l'issue d'une procédure d'arbitrage
-communautaire, conformément à l'article R. 5121-51-11.
+3° Lorsque les obligations imposées en application des articles R. 5121-36-1 et
+R. 5121-43 ne sont pas exécutées ;
 
-Sauf en cas d'urgence, la suspension ou le retrait mentionnés aux trois alinéas
-précédents ne peut intervenir qu'après communication des griefs au titulaire de
-l'autorisation de mise sur le marché et, dans le cas prévu au 2°, que si
-celui-ci, mis en demeure de régulariser la situation du médicament ou du
-produit, n'a pas donné suite à cette mise en demeure dans le délai fixé par le
-directeur général de l'agence.
+4° Lorsque l'autorisation doit être mise en conformité avec la décision prise
+par la Commission européenne à l'issue d'une procédure d'arbitrage de l'Union
+européenne ;
+
+5° Lorsque l'autorisation doit être mise en conformité avec un accord ayant fait
+l'objet d'un consensus au sein du groupe de coordination mentionné à l'article
+27 de la directive 2001/83/ CE du Parlement européen et du Conseil.
+
+Sauf en cas d'urgence, la modification d'office, la suspension ou le retrait ne
+peut intervenir qu'après communication des griefs au titulaire de l'autorisation
+de mise sur le marché et, dans le cas prévu au 2°, que si celui-ci, mis en
+demeure de régulariser la situation du médicament ou du produit, n'a pas donné
+suite à cette mise en demeure dans le délai fixé par le directeur général de
+l'agence.
 
 Sans préjudice de l'application des dispositions du deuxième alinéa de l'article
 R. 5121-50, la décision de modification d'office, de suspension ou de retrait

@@ -10,8 +10,9 @@ informations complémentaires requises aient été fournies.
 
 Le directeur général de l'agence établit un rapport d'évaluation du médicament
 comportant des commentaires relatifs aux données chimiques, pharmaceutiques et
-biologiques, ainsi qu'aux essais précliniques et cliniques du médicament
-concerné. Le rapport d'évaluation est mis à jour par le directeur général de
-l'agence dès que de nouvelles informations qui s'avèrent importantes pour
-l'évaluation de la qualité, de la sécurité et de l'efficacité du médicament
-concerné sont disponibles.
+biologiques, aux essais précliniques et recherches biomédicales, ainsi qu'au
+système de gestion des risques et de pharmacovigilance mis en place pour le
+médicament ou le produit concerné. Le rapport d'évaluation est mis à jour par le
+directeur général de l'agence dès que de nouvelles informations qui s'avèrent
+importantes pour l'évaluation de la qualité, de la sécurité et de l'efficacité
+du médicament concerné sont disponibles.

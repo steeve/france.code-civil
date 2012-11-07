@@ -1,31 +1,27 @@
 Article R5121-153
 ----
-Pour l'application du présent chapitre, on entend par :
+Les acteurs du système de pharmacovigilance tel que mentionné à l'article L.
+5121-23 sont :
 
-1° "Effet indésirable" : une réaction nocive et non voulue, se produisant aux
-posologies normalement utilisées chez l'homme pour la prophylaxie, le diagnostic
-ou le traitement d'une maladie ou pour la restauration, la correction ou la
-modification d'une fonction physiologique, ou résultant d'un mésusage du
-médicament ou produit ;
+1° L'Agence nationale de sécurité du médicament et des produits de santé ;
 
-2° "Effet indésirable grave" : un effet indésirable létal, ou susceptible de
-mettre la vie en danger, ou entraînant une invalidité ou une incapacité
-importantes ou durables, ou provoquant ou prolongeant une hospitalisation, ou se
-manifestant par une anomalie ou une malformation congénitale ;
+2° Les centres régionaux de pharmacovigilance mentionnés à l'article R. 5121-158
+;
 
-3° "Effet indésirable inattendu" : un effet indésirable dont la nature, la
-sévérité ou l'évolution ne correspondent pas aux informations contenues dans le
-résumé des caractéristiques du produit mentionné à l'article R. 5121-21 ;
+3° Les professionnels de santé mentionnés à l'article R. 5121-161, les
+pharmacies à usage intérieur mentionnées à l'article L. 5126-1 ainsi que les
+titulaires de l'autorisation prévue à l'article L. 4211-6 ;
 
-4° "Mésusage" : une utilisation non conforme aux recommandations du résumé des
-caractéristiques du produit mentionné à l'article R. 5121-21 ;
+4° Les entreprises ou les organismes exploitant un médicament ou un produit
+mentionné à l'article R. 5121-150 et tout tiers effectuant tout ou partie des
+opérations constitutives de la pharmacovigilance mentionnées au quatrième alinéa
+de l'article R. 5124-47 pour le compte des entreprises et organismes mentionnés
+ci-dessus ;
 
-5° "Abus" : un usage excessif intentionnel, persistant ou sporadique, de
-médicaments, accompagné de réactions physiques ou psychologiques nocives ;
+5° Les établissements pharmaceutiques, y compris ceux gérés par les
+établissements pharmaceutiques des établissements publics de santé mentionnés
+aux articles R. 5124-68 à R. 5124-73 pour leur activité de réalisation de
+préparation hospitalière et de préparation magistrale.
 
-6° "Etudes de sécurité après autorisation de mise sur le marché" :
-
-une étude pharmaco-épidémiologique ou un essai clinique effectués conformément
-aux dispositions de l'autorisation de mise sur le marché, dans le but
-d'identifier ou de quantifier un risque relatif à la sécurité d'emploi d'un
-médicament autorisé.
+Les patients et les associations agréées de patients mentionnés à l'article R.
+5121-161 concourent à ce système

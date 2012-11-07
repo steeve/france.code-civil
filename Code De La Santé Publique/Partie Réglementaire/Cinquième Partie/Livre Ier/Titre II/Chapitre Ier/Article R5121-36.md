@@ -30,6 +30,9 @@ de l'article R. 5121-80.
 Elle fixe, le cas échéant, les restrictions ou interdictions en matière de
 publicité auprès du public prévues au premier alinéa de l'article L. 5122-6.
 
+Elle indique la fréquence de transmission du rapport périodique actualisé de
+sécurité mentionné à l'article R. 5121-168.
+
 L'autorisation est accompagnée du résumé des caractéristiques du produit
 mentionné à l'article R. 5121-21, du libellé de la notice et du libellé de
 l'étiquetage, tels qu'approuvés par le directeur général de l'agence.

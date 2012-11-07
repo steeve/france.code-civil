@@ -1,28 +1,20 @@
 Article R5121-169
 ----
-Les centres sont agréés, sur proposition du directeur général de l'Agence
-nationale de sécurité du médicament et des produits de santé, par arrêté du
-ministre chargé de la santé. L'arrêté agréant un centre détermine son territoire
-d'intervention.
+Le titulaire de l'autorisation de mise sur le marché peut, par demande écrite et
+motivée, saisir le comité des médicaments à usage humain mentionné à l'article
+56 du règlement (CE) n° 726/2004 du Parlement européen et du Conseil ou le
+groupe de coordination mentionné à l'article 27 de la directive 2001/83/ CE du
+Parlement européen et du Conseil pour demander la fixation de dates de référence
+pour l'Union européenne ou une modification de la fréquence de soumission des
+rapports périodiques actualisés de sécurité, pour des raisons de santé publique,
+afin d'éviter la duplication d'évaluations ou dans un but d'harmonisation
+internationale.
 
-Pour être agréés, les centres sont constitués au sein d'une structure de
-pharmacologie, de pharmacologie clinique ou de toxicologie clinique d'un
-établissement public de santé, sous la forme d'une unité fonctionnelle ou, si
-l'établissement a fait usage de la faculté prévue par l'article L. 6146-8, d'une
-unité distincte.
+Les modifications des dates de référence pour l'Union européenne et de la
+fréquence de soumission des rapports périodiques actualisés de sécurité sont
+rendues publiques par l'Agence européenne des médicaments et prennent effet six
+mois après la date de publication.
 
-Le responsable du centre est un médecin formé à la pharmacologie ou à la
-toxicologie clinique ou justifiant d'une expérience pratique d'au moins trois
-ans en matière de pharmacovigilance.
-
-L'agrément mentionné au premier alinéa peut être retiré en cas de non-respect
-des dispositions de la présente section.
-
-Les modalités de fonctionnement des centres, notamment les conditions dans
-lesquelles ils accomplissent les missions qui leur sont confiées par l'Agence
-nationale de sécurité du médicament et des produits de santé, ainsi que la
-désignation de leurs représentants au comité technique mentionné à l'article R.
-5121-164, font l'objet de conventions conclues entre le directeur général de
-l'agence et les établissements de santé dans lesquels les centres sont agréés.
-Ces conventions respectent les dispositions de la présente section. Elles sont
-communiquées pour information au ministre chargé de la santé.
+Le titulaire de l'autorisation de mise sur le marché concernée soumet au
+directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé une demande de modification de son autorisation en ce sens.
