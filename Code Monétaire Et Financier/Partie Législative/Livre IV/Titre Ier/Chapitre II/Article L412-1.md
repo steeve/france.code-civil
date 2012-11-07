@@ -17,9 +17,13 @@ négociations sur un marché réglementé sans offre au public au sens de l'arti
 L. 411-1.
 
 Aucune action en responsabilité civile ne peut être intentée sur le fondement du
-seul résumé ou de sa traduction, sauf si le contenu du résumé ou de sa
-traduction est trompeur, inexact ou contradictoire par rapport aux informations
-contenues dans les autres parties du document mentionné au premier alinéa.
+seul résumé, y compris sa traduction, sauf si son contenu est trompeur, inexact
+ou contradictoire par rapport aux informations contenues dans les autres parties
+du document mentionné au premier alinéa, ou s'il ne fournit pas, lu en
+combinaison avec les autres parties du document mentionné au premier alinéa, les
+informations essentielles permettant d'aider les investisseurs lorsqu'ils
+envisagent d'investir dans ces titres financiers. Le résumé comprend un
+avertissement clair à cet effet.
 
 Le règlement général de l'Autorité des marchés financiers fixe les conditions
 dans lesquelles les offres au public de titres financiers ou les admissions de
