@@ -1,30 +1,20 @@
 Article D654-34
 ----
-Le lait de chèvre doit être payé aux producteurs en fonction de sa composition
-et de sa qualité hygiénique et sanitaire. La composition du lait est appréciée
-en fonction de sa teneur en matières grasses et en matières azotées. La qualité
-hygiénique et sanitaire est appréciée en fonction des critères prévus par la
-réglementation prise pour l'application de la directive n° 92/46/CEE du Conseil
-des Communautés européennes du 16 juin 1992 arrêtant les règles sanitaires pour
-la production et la mise sur le marché de lait cru, de lait traité thermiquement
-et de produits à base de lait.
+Des accords conclus dans le cadre de l'organisation interprofessionnelle
+constituée entre les producteurs de lait, les groupements coopératifs agricoles
+laitiers et les industries de transformation du lait, conformément à l'article
+L. 632-12 ou dans le cadre d'organisations interprofessionnelles mentionnées à
+l'article L. 632-1 ou à l'article L. 632-9, peuvent, dans le respect des règles
+de la politique agricole commune, établir des grilles de classement des laits
+livrés par les producteurs en fonction des critères et règles prévus aux
+articles D. 654-29 à D. 654-31.
 
-A composition identique, l'écart résultant de la différence de qualité
-hygiénique et sanitaire entre le prix le plus élevé et le prix le plus bas
-offert par un même acheteur professionnel pour un lait de qualité saine, loyale
-et marchande doit être au moins égal à 10 % du prix le plus élevé.
-
-Les critères pouvant en outre être utilisés pour la détermination du prix du
-lait sont :
-
-1° La teneur en cellules somatiques comme indicateur d'infection mammaire ;
-
-2° La teneur en immunoglobulines gamma un comme indicateur de la présence de
-colostrum ;
-
-3° La présence d'antibiotiques ou d'inhibiteurs de fermentation ;
-
-4° La lipolyse comme indicateur de la dégradation de la matière grasse ;
-
-5° La teneur en Listeria monocytogenes, Salmonella spp., Staphylococcus aureus,
-Escherichia coli.
+Ces grilles peuvent prévoir un classement spécifique pour les laits d'une région
+donnée, pour les laits destinés à la fabrication de produits au lait cru et pour
+les laits destinés à la fabrication d'un produit laitier bénéficiant d'une
+appellation d'origine ou d'une indication géographique en application du
+règlement (CE) n° 510/2006 du Conseil du 20 mars 2006 relatif à la protection
+des indications géographiques et des appellations d'origine des produits
+agricoles et des denrées alimentaires. Dans ce cas, la grille de classement est
+préalablement soumise à l'avis de l'organisme chargé de la défense de cette
+appellation ou de cette indication.
