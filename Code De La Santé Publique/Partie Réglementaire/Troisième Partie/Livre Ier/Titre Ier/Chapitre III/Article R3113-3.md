@@ -11,8 +11,8 @@ Le déclarant ou le médecin de l'agence régionale de santé désigné par le
 directeur général de l'agence qui établit la correspondance entre le numéro
 d'anonymat et les éléments d'identité de la personne en assure la conservation,
 aux fins de validation et d'exercice du droit d'accès, dans des conditions
-garantissant la confidentialité des informations et la détruit six mois après la
-date d'envoi portée par le déclarant sur la fiche de notification. Dans le même
-délai, le médecin de l'Institut de veille sanitaire supprime de la fiche les
-coordonnées du prescripteur et celles du responsable du service de biologie ou
-du laboratoire.
+garantissant la confidentialité des informations et la détruit douze mois après
+la date d'envoi portée par le déclarant sur la fiche de notification. Dans le
+même délai, le médecin de l'Institut de veille sanitaire supprime de la fiche
+les coordonnées du prescripteur et celles du responsable du service de biologie
+ou du laboratoire.
