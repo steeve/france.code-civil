@@ -1,7 +1,8 @@
 Article D230-3
 ----
-Outre le président, mentionné à l'article D. 230-1, le conseil d'orientation
-technique de l'Observatoire de l'alimentation est composé des membres suivants :
+Outre le président, mentionné à l'article D. 230-1, et le vice-président
+mentionné à l'article D. 230-2, le conseil d'orientation technique de
+l'Observatoire de l'alimentation est composé des membres suivants :
 
 1° Trois représentants de l'Etat :
 
@@ -49,10 +50,11 @@ nommés par arrêté des ministres chargés de l'alimentation, de la santé et d
 consommation, pour une durée de trois ans. Un suppléant est nommé pour chacun
 d'eux dans les mêmes conditions.
 
-Les représentants de l'Etat assistent au conseil d'orientation technique de
-l'observatoire sans voix délibérative. Les autres membres du conseil
-d'orientation technique ont chacun une voix. En cas de partage égal des voix,
-celle du président est prépondérante.
+Les représentants de l'Etat et le vice-président mentionné à l'article D. 230-2
+quand il ne supplée pas le président assistent au conseil d'orientation
+technique de l'observatoire sans voix délibérative. Les autres membres du
+conseil d'orientation technique ont chacun une voix. En cas de partage égal des
+voix, celle du président est prépondérante.
 
 Ce conseil peut se réunir en formation restreinte dans une composition adaptée à
 chacune des sections de l'observatoire de l'alimentation.
