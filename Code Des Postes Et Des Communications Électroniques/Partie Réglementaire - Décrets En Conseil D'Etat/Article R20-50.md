@@ -1,6 +1,6 @@
 Article R20-50
 ----
-Pour mettre en oeuvre les dispositions du troisième alinéa de l'article L. 47,
+Pour mettre en oeuvre les dispositions du cinquième alinéa de l'article L. 47,
 l'autorité compétente invite les parties à se rapprocher en vue d'une
 utilisation partagée d'installations. Elle notifie cette invitation aux
 intéressés dans un délai d'un mois à compter du dépôt de la demande de
