@@ -1,11 +1,9 @@
 Article R4322-88
 ----
-Le pédicure-podologue ne doit pas s'installer dans l'immeuble où exerce un
-confrère sans l'accord de celui-ci ou, à défaut, sans l'autorisation du conseil
-régional de l'ordre. Il est interdit de s'installer à titre professionnel dans
-un local ou immeuble quitté par un confrère pendant l'année qui suit son départ,
-sauf accord entre les intéressés ou, à défaut, autorisation du conseil régional
-de l'ordre.
+Le pédicure-podologue ou toute société d'exercice ne doit pas s'installer dans
+l'immeuble où exerce un confrère, ni dans une résidence professionnelle quittée
+par un confrère dans les douze mois qui suivent son départ, à moins qu'il n'y
+ait entre les intéressés un accord communiqué au conseil régional.
 
-Les décisions du conseil régional de l'ordre ne peuvent être motivées que par
-les besoins de la santé publique.
+En cas de différend, les intéressés peuvent saisir le conseil régional qui met
+en place la procédure de conciliation, conformément à l'article R. 4322-63.

@@ -16,6 +16,6 @@ Toutefois, il peut donner ses soins lorsqu'il s'agit :
 - de patients astreints au régime de l'internat, dans un établissement auprès
 duquel il peut être accrédité ;
 
-- de patients dépendant d'oeuvres, d'établissements et d'institutions autorisés
-à cet effet, dans un intérêt public, par le ministre chargé de la santé après
-avis du Conseil national de l'ordre des pédicures-podologues.
+- de patients dépendant d'œuvres, d'établissements et d'institutions autorisés à
+cet effet, dans un intérêt public, par le ministre chargé de la santé après avis
+du Conseil national de l'ordre des pédicures-podologues.
