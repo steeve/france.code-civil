@@ -11,11 +11,11 @@ par l'invitation faite au déclarant de régulariser son dossier ou de présente
 ses observations sur les prescriptions envisagées, dans un délai fixé par le
 préfet et qui ne peut être supérieur à trois mois.
 
-Lorsque le dossier est incomplet ou irrégulier, si le déclarant ne produit pas
-l'ensemble des pièces requises dans le délai qui lui a été imparti, l'opération
-soumise à déclaration fait l'objet d'une décision d'opposition tacite à
-l'expiration dudit délai ; l'invitation faite au requérant de régulariser son
-dossier mentionne cette conséquence.
+Lorsque le dossier est irrégulier, si le déclarant ne produit pas l'ensemble des
+pièces requises dans le délai qui lui a été imparti, l'opération soumise à
+déclaration fait l'objet d'une décision d'opposition tacite à l'expiration dudit
+délai ; l'invitation faite au requérant de régulariser son dossier mentionne
+cette conséquence.
 
 Lorsque des prescriptions particulières sont envisagées, un nouveau délai de
 deux mois court à compter de la réception de la réponse du déclarant ou, à

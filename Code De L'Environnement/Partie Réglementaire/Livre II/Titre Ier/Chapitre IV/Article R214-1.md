@@ -246,6 +246,12 @@ supérieure ou égale au niveau de référence S1 (A) ;
 3° Inférieur ou égal à 2 000 m3 dont la teneur des sédiments extraits est
 inférieure au niveau de référence S1 (D).
 
+Est également exclu jusqu'au 1er janvier 2014 l'entretien ayant pour objet le
+maintien et le rétablissement des caractéristiques des chenaux de navigation
+lorsque la hauteur de sédiments à enlever est inférieure à 35 cm ou lorsqu'il
+porte sur des zones d'atterrissement localisées entraînant un risque fort pour
+la navigation.
+
 L'autorisation est valable pour une durée qui ne peut être supérieure à dix ans.
 L'autorisation prend également en compte les éventuels sous-produits et leur
 devenir.
@@ -308,6 +314,13 @@ superficie :
 3. 3. 3. 0. Canalisations de transports d'hydrocarbures liquides ou de produits
 chimiques liquides de longueur supérieure à 5 kilomètres ou dont le produit du
 diamètre extérieur par la longueur est supérieur à 2 000 mètres carrés (A).
+
+3.3.4.0. Travaux de recherche de stockages souterrains de déchets radioactifs :
+
+a) Travaux de recherche nécessitant un ou plusieurs forages de durée de vie
+supérieure à un an (A) ;
+
+b) Autres travaux de recherche (D).
 
 
 TITRE IV
@@ -438,15 +451,8 @@ d'exploitation mentionnée à l'article 21 du code minier (D) ;
 
 b) Autres travaux d'exploitation (A).
 
-5. 1. 5. 0. Travaux de recherche et d'exploitation des stockages souterrains de
-déchets radioactifs :
-
-a) Travaux de recherche nécessitant un ou plusieurs forages de durée de vie
-supérieure à un an (A) ;
-
-b) Autres travaux de recherche (D) ;
-
-c) Travaux d'exploitation (A).
+5.1.5.0. Travaux d'exploitation de stockages souterrains de déchets radioactifs
+(A).
 
 5. 1. 6. 0. Travaux de recherches des mines :
 
