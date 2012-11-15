@@ -6,7 +6,8 @@ département ou des départements où ils doivent être réalisés.
 
 II.-Cette demande, remise en sept exemplaires, comprend :
 
-1° Le nom et l'adresse du demandeur ;
+1° Le nom et l'adresse du demandeur, ainsi que son numéro SIRET ou, à défaut, sa
+date de naissance ;
 
 2° L'emplacement sur lequel l'installation, l'ouvrage, les travaux ou l'activité
 doivent être réalisés ;
@@ -46,8 +47,7 @@ arrêté du ministre chargé de l'environnement.
 
 Lorsqu'une étude d'impact est exigée en application des articles R. 122-2 et R.
 122-3, elle est jointe à ce document, qu'elle remplace si elle contient les
-informations demandées, et est accompagnée de l'avis de l'autorité
-administrative de l'Etat compétente en matière d'environnement ;
+informations demandées ;
 
 5° Les moyens de surveillance prévus et, si l'opération présente un danger, les
 moyens d'intervention en cas d'incident ou d'accident ;

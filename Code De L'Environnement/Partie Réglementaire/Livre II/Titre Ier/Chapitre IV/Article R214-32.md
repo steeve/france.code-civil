@@ -6,7 +6,8 @@ département ou des départements où ils doivent être réalisés.
 
 II.-Cette déclaration, remise en trois exemplaires, comprend :
 
-1° Le nom et l'adresse du demandeur ;
+1° Le nom et l'adresse du demandeur, ainsi que son numéro SIRET ou, à défaut, sa
+date de naissance ;
 
 2° L'emplacement sur lequel l'installation, l'ouvrage, les travaux ou l'activité
 doivent être réalisés ;
