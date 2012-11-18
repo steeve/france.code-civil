@@ -5,14 +5,14 @@ applicables en Polynésie française sous réserve des adaptations prévues au I
 
 II. ― 1° A l'article R. 221-2 :
 
-a) Au premier alinéa, les mots : " 15 300 euros ” sont remplacés par les mots :
-" 1 825 776 francs CFP ” et les mots : " et 76 500 euros pour les associations
+a) Au premier alinéa, les mots : " 19 125 euros ” sont remplacés par les mots :
+" 2 282 220 francs CFP ” et les mots : " et 76 500 euros pour les associations
 mentionnées au premier alinéa de l'article L. 221-3 ” sont supprimés ;
 
 b) Le dernier alinéa est supprimé ;
 
 2° A l'article R. 221-3, les mots : " 10 euros ” sont remplacés par les mots : "
-1 193 francs CFP ” et les mots : " 1, 5 euro ” sont remplacés par les mots : "
+1 193 francs CFP ” et les mots : " 1,5 euro ” sont remplacés par les mots : "
 179 francs CFP ” ;
 
 3° Aux articles R. 221-3, R. 221-5 et R. 221-8-1, les mots : " l'établissement
