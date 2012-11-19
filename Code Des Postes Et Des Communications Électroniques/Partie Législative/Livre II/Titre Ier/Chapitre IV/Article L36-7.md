@@ -9,11 +9,11 @@ conformité prévue à l'article L. 34-9 ;
 
 3° Contrôle le respect par les opérateurs des obligations résultant des
 dispositions législatives et réglementaires qui leur sont applicables en vertu
-du présent code, du règlement (CE) n° 717/2007 du Parlement européen et du
-Conseil du 27 juin 2007 concernant l'itinérance sur les réseaux publics de
-communications mobiles à l'intérieur de la Communauté et des autorisations dont
-ils bénéficient et sanctionne les manquements constatés dans les conditions
-prévues aux articles L. 36-10 et L. 36-11 ;
+du présent code, du règlement (UE) n° 531/2012 du Parlement européen et du
+Conseil, du 13 juin 2012, concernant l'itinérance sur les réseaux publics de
+communications mobiles à l'intérieur de l'Union et des autorisations dont ils
+bénéficient et sanctionne les manquements constatés dans les conditions prévues
+aux articles L. 36-10 et L. 36-11 ;
 
 4° Détermine, selon les principes et les méthodes élaborés dans les conditions
 prévues à l'article L. 35-3, les montants des contributions au financement des

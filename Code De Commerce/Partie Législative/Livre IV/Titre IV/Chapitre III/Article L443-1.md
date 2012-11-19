@@ -26,3 +26,13 @@ les délais de paiement, à quarante-cinq jours fin de mois ou soixante jours à
 compter de la date d'émission de la facture pour les achats de raisins et de
 moûts destinés à l'élaboration de vins ainsi que de boissons alcooliques
 passibles des droits de circulation prévus à l'article 438 du même code.
+
+Pour les livraisons de marchandises qui font l'objet d'une importation dans le
+territoire fiscal des départements de la Guadeloupe, de la Martinique, de la
+Guyane, de La Réunion et de Mayotte ainsi que des collectivités d'outre-mer de
+Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon, les délais de
+paiement prévus aux 1° à 4° sont décomptés à partir de la date de dédouanement
+de la marchandise au port de destination finale. Lorsque la marchandise est mise
+à la disposition de l'acheteur, ou de son représentant, en métropole, le délai
+est décompté à partir du vingt et unième jour suivant la date de cette mise à
+disposition ou à partir de la date du dédouanement si celle-ci est antérieure.

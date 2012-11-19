@@ -21,3 +21,8 @@ II.-Certaines catégories d'accords ou certains accords, notamment lorsqu'ils on
 pour objet d'améliorer la gestion des entreprises moyennes ou petites, peuvent
 être reconnus comme satisfaisant à ces conditions par décret pris après avis
 conforme de l'Autorité de la concurrence.
+
+III.-Ne sont pas soumis aux dispositions de l'article L. 420-2-1 les accords ou
+pratiques concertées dont les auteurs peuvent justifier qu'ils sont fondés sur
+des motifs objectifs tirés de l'efficacité économique et qui réservent aux
+consommateurs une partie équitable du profit qui en résulte.

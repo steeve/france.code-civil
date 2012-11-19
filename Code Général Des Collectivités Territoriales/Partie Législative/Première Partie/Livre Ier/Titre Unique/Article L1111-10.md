@@ -7,9 +7,12 @@ II. ― La région peut contribuer au financement des opérations d'intérêt r�
 des départements, des communes et de leurs groupements, ainsi que des
 groupements d'intérêt public.
 
-III. ― Toute collectivité territoriale ou tout groupement de collectivités
-territoriales, maître d'ouvrage d'une opération d'investissement, assure une
-participation minimale au financement de ce projet.
+III. ― A l'exception des collectivités territoriales et groupements de
+collectivités territoriales de Guadeloupe, Guyane, La Réunion, Martinique,
+Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon, toute
+collectivité territoriale ou tout groupement de collectivités territoriales,
+maître d'ouvrage d'une opération d'investissement, assure une participation
+minimale au financement de ce projet.
 
 Sans préjudice de l'application de l'article 9 de la loi n° 2003-710 du 1er août
 2003 d'orientation et de programmation pour la ville et la rénovation urbaine,

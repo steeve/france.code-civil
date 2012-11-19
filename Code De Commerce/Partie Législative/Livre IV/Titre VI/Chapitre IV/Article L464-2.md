@@ -1,11 +1,12 @@
 Article L464-2
 ----
-I.- L'Autorité de la concurrence peut ordonner aux intéressés de mettre fin aux
+I.-L'Autorité de la concurrence peut ordonner aux intéressés de mettre fin aux
 pratiques anticoncurrentielles dans un délai déterminé ou imposer des conditions
 particulières. Elle peut aussi accepter des engagements proposés par les
 entreprises ou organismes et de nature à mettre un terme à ses préoccupations de
 concurrence susceptibles de constituer des pratiques prohibées visées aux
-articles L. 420-1, L. 420-2 et L. 420-5.
+articles L. 420-1, L. 420-2, L. 420-2-1 et L. 420-5 ou contraires aux mesures
+prises en application de l'article L. 410-3.
 
 Elle peut infliger une sanction pécuniaire applicable soit immédiatement, soit
 en cas d'inexécution des injonctions soit en cas de non-respect des engagements
@@ -35,7 +36,15 @@ l'extrait de celle-ci dans le rapport établi sur les opérations de l'exercice
 par les gérants, le conseil d'administration ou le directoire de l'entreprise.
 Les frais sont supportés par la personne intéressée.
 
-II.- L'Autorité de la concurrence peut infliger aux intéressés des astreintes
+Les entreprises ou groupements d'entreprises ayant fait l'objet d'une injonction
+de l'Autorité de la concurrence en raison de pratiques contraires aux mesures
+prises en application de l'article L. 410-3 doivent rendre publique cette
+injonction en la publiant, à leurs frais, dans la presse quotidienne locale,
+selon des modalités précisées par l'Autorité de la concurrence. Cette
+publication mentionne, le cas échéant, l'existence d'un recours formé à
+l'encontre de l'injonction.
+
+II.-L'Autorité de la concurrence peut infliger aux intéressés des astreintes
 dans la limite de 5 % du chiffre d'affaires journalier moyen, par jour de retard
 à compter de la date qu'elle fixe, pour les contraindre :
 

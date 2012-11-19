@@ -1,7 +1,8 @@
 Article L464-9
 ----
 Le ministre chargé de l'économie peut enjoindre aux entreprises de mettre un
-terme aux pratiques visées aux articles L. 420-1, L. 420-2 et L. 420-5 dont
+terme aux pratiques visées aux articles L. 420-1, L. 420-2, L. 420-2-1 et L.
+420-5 ou contraires aux mesures prises en application de l'article L. 410-3 dont
 elles sont les auteurs lorsque ces pratiques affectent un marché de dimension
 locale, ne concernent pas des faits relevant des articles 81 et 82 du traité
 instituant la Communauté européenne et sous réserve que le chiffre d'affaires
@@ -13,7 +14,7 @@ Le ministre chargé de l'économie peut également, dans les mêmes conditions, 
 proposer de transiger. Le montant de la transaction ne peut excéder 75 000 € ou
 5 % du dernier chiffre d'affaires connu en France si cette valeur est plus
 faible. Les modalités de la transaction sont fixées par décret en Conseil
-d'Etat.L'exécution dans les délais impartis des obligations résultant de
+d'Etat. L'exécution dans les délais impartis des obligations résultant de
 l'injonction et de l'acceptation de la transaction éteint toute action devant
 l'Autorité de la concurrence pour les mêmes faits. Le ministre chargé de
 l'économie informe l'Autorité de la concurrence des transactions conclues.

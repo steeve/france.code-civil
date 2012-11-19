@@ -48,7 +48,7 @@ supérieur à 75 millions d'euros ;
 -le chiffre d'affaires total hors taxes réalisé individuellement dans au moins
 un des départements ou collectivités territoriales concernés par deux au moins
 des entreprises ou groupes de personnes physiques ou morales concernés est
-supérieur à 15 millions d'euros, ou à 7,5 millions d'euros dans le secteur du
+supérieur à 15 millions d'euros, ou à 5 millions d'euros dans le secteur du
 commerce de détail ;
 
 -l'opération n'entre pas dans le champ d'application du règlement (CE) n° 139 /

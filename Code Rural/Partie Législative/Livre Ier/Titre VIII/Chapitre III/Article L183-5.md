@@ -13,7 +13,7 @@ expropriées dans des conditions définies par décret en Conseil Etat.
 
 En vue d'assurer la pérennité de la remise en valeur des terres, en cas de
 retour à l'inculture ou à la sous-exploitation manifeste de terres qui ont fait
-l'objet d'une autorisation d'exploiter en application de l'article L. 183-2, le
+l'objet d'une autorisation d'exploiter en application de l'article L. 183-3 le
 représentant de l'Etat peut, dans un délai fixé par décret, sans reprendre la
 procédure prévue à la présente section, procéder à leur expropriation pour cause
 d'utilité publique conformément aux dispositions du présent article.

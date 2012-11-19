@@ -13,6 +13,6 @@ après réception des observations de l'entreprise ou du groupe d'entreprises en
 cause, lui enjoindre de modifier, de compléter ou de résilier, dans un délai
 déterminé, tous accords et tous actes par lesquels s'est constituée la puissance
 économique qui a permis ces abus. Elle peut, dans les mêmes conditions, lui
-enjoindre de procéder à la cession de surfaces, si cette cession constitue le
-seul moyen permettant de garantir une concurrence effective dans la zone de
+enjoindre de procéder à la cession d'actifs, si cette cession constitue le seul
+moyen permettant de garantir une concurrence effective dans la zone de
 chalandise considérée.
