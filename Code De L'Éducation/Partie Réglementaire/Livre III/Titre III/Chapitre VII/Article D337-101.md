@@ -17,3 +17,7 @@ doivent justifier d'une formation en centre de formation d'apprentis ou en
 section d'apprentissage d'une durée minimum de 400 heures par an fixée par
 chaque arrêté de spécialité. La durée totale de formation peut être réduite ou
 allongée dans les conditions prévues par le code du travail.
+
+Les candidats titulaires d'une spécialité de baccalauréat professionnel du même
+secteur professionnel que la spécialité de brevet professionnel postulée doivent
+justifier d'une formation d'une durée minimum de 240 heures.
