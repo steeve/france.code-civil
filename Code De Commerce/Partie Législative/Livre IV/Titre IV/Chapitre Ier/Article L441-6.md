@@ -107,3 +107,14 @@ date de réception des marchandises ou de réalisation de la prestation des
 services, à moins qu'il n'en soit expressément stipulé autrement par contrat et
 pourvu que cela ne constitue pas une clause ou pratique abusive au sens de
 l'article L. 442-6.
+
+V. - Pour les livraisons de marchandises qui font l'objet d'une importation dans
+le territoire fiscal des départements de la Guadeloupe, de la Martinique, de la
+Guyane, de La Réunion et de Mayotte ainsi que des collectivités d'outre-mer de
+Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon, les délais de
+paiement prévus aux huitième et neuvième alinéas du I du présent article sont
+décomptés à partir de la date de dédouanement de la marchandise au port de
+destination finale. Lorsque la marchandise est mise à la disposition de
+l'acheteur, ou de son représentant, en métropole, le délai est décompté à partir
+du vingt et unième jour suivant la date de cette mise à disposition ou à partir
+de la date du dédouanement si celle-ci est antérieure.
