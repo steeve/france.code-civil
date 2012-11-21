@@ -9,5 +9,5 @@ conditions pour la durée restant à courir du mandat.
 
 Lorsque le membre titulaire du conseil de surveillance n'a pas assisté
 personnellement à trois réunions consécutives, le président du conseil de
-surveillance procède au remplacement dudit membre, dans les mêmes conditions que
-celles prévues pour le titulaire défaillant.
+surveillance procède à son remplacement, dans les conditions prévues à l'alinéa
+précédent.

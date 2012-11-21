@@ -1,23 +1,25 @@
 Article D1432-15
 ----
-I.-Le conseil de surveillance est composé de vingt-cinq membres.
+I.-Le conseil de surveillance est composé de vingt-cinq membres, à l'exception
+du conseil de surveillance de l'agence régionale de santé d'Ile-de-France qui
+compte vingt-six membres.
 
 Outre le représentant de l'Etat dans la région qui le préside, le conseil de
 surveillance comprend les membres suivants qui ont voix délibérative :
 
 1° Trois représentants de l'Etat :
 
-a) Le recteur de l'académie dans laquelle l'agence a son siège, ou son
+a) Le recteur de l'académie dans laquelle l'agence a son siège ou son
 représentant ;
 
 b) Le directeur régional de la jeunesse, des sports et de la cohésion sociale ou
 son représentant ;
 
 c) Un préfet de département ou un chef des services déconcentrés de l'Etat
-désigné par le préfet de région, ou son représentant ;
+désigné par le préfet de région ou son représentant ;
 
-Pour la région Ile-de-France, le représentant de l'Etat mentionné au b est le
-préfet de police ou son représentant ;
+Pour la région Ile-de-France, à ces trois représentants s'ajoute le préfet de
+police ou son représentant ;
 
 2° Dix membres des conseils ou conseils d'administration des organismes locaux
 d'assurance maladie de son ressort :
@@ -42,7 +44,7 @@ le président de la caisse nationale désigne parmi les présidents des caisses
 concernées la personne appelée à siéger au conseil de surveillance ;
 
 3° Quatre représentants des collectivités territoriales du ressort géographique
-de l'agence dont :
+de l'agence, dont :
 
 a) Un conseiller régional désigné par le président du conseil régional et, en
 Corse, un conseiller à l'assemblée de Corse, désigné par le président de cette
@@ -72,8 +74,8 @@ c) Un représentant d'une association œuvrant en faveur des personnes âgées ;
 désignées par les ministres chargés de la santé, de l'assurance maladie, des
 personnes âgées et des personnes handicapées.
 
-II.-Un suppléant est désigné pour chaque membre titulaire mentionné aux 2°, 3°
-et 4° du I dans les mêmes conditions que celui-ci, à l'exception :
+II.-Un suppléant est désigné pour chaque membre titulaire mentionné aux 2° et 4°
+du I dans les mêmes conditions que celui-ci, à l'exception :
 
 1° Du suppléant du membre titulaire au titre du régime social des indépendants,
 qui est désigné par le président de la caisse de base concernée ou par le
@@ -86,21 +88,28 @@ premier vice-président de la caisse concernée, soit le premier vice-président
 d'une des caisses situées dans le ressort de l'agence, désigné par l'association
 régionale des caisses de mutualité sociale agricole.
 
+Chaque membre titulaire mentionné au 3° du I dispose de deux suppléants, qui
+sont désignés dans les mêmes conditions que celui-ci.
+
 Le membre suppléant remplace le membre titulaire lorsque ce dernier se trouve
-dans l'empêchement de siéger. Il le remplace jusqu'à l'expiration du mandat en
-cours lorsque le membre titulaire cesse de faire partie du conseil de
-surveillance.
+dans l'empêchement de siéger. Lorsque le membre titulaire cesse de faire partie
+du conseil de surveillance où il siégeait, il est remplacé par le membre
+suppléant jusqu'à la désignation d'un nouveau membre titulaire dans les
+conditions prévues à l'article D. 1432-19.
 
 III.-Les personnes physiques ou morales, mentionnées aux 2°, 3° et 4° du I du
 présent article, chargées de désigner des représentants titulaires et suppléants
 communiquent leurs noms aux ministres chargés de la santé, de l'assurance
-maladie, des personnes âgées et handicapées à une date fixée par arrêté
-interministériel.
+maladie, des personnes âgées et handicapées à une date fixée par arrêté du
+ministre chargé de la santé.
 
 IV.-Siègent avec voix consultative au conseil de surveillance :
 
 1° Deux représentants du personnel élus par leurs pairs au sein du comité
-d'agence prévu à l'article L. 1432-10 du code de la santé publique ;
+d'agence prévu à l'article L. 1432-10 du code de la santé publique ; chaque
+représentant du personnel dispose d'un suppléant qui est désigné dans les mêmes
+conditions que celui-ci et qui ne peut siéger qu'en cas d'absence ou
+d'empêchement du titulaire ;
 
 2° Le directeur général, celui-ci peut se faire assister des personnes de son
 choix.
