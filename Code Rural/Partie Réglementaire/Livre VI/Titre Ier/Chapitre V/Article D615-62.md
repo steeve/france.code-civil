@@ -19,9 +19,9 @@ règlement.
 
 IV. - En application des articles 51 et 54 du même règlement (CE) n° 73/2009 :
 
-- la composante des plafonds destinée aux paiements des aides pour les tomates
+- la composante des plafonds applicable aux paiements des aides pour les tomates
 destinées à la transformation, prévues à la section 8 du chapitre 1er du titre
-IV de ce règlement n'est pas intégrée dans le régime de paiement unique ;
+IV de ce règlement, est intégrée dans le régime de paiement unique ;
 
 - la composante des plafonds destinée aux paiements des aides pour les prunes
 d'ente, les pêches et les poires destinées à la transformation, prévues à la

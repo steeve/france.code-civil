@@ -31,7 +31,3 @@ de l'article 2 du règlement (CE) n° 1120/2009 de la Commission du 29 octobre
 III.-Lorsque le cédant transfère à un même acquéreur une partie seulement des
 droits soumis à la même condition spéciale, les dispositions des articles D.
 615-69 et D. 615-71 s'appliquent à ces droits.
-
-En application du 3 de l'article 44 du règlement (CE) n° 73/2009 du Conseil du
-19 janvier 2009 susmentionné, ces droits ne sont alors plus soumis aux
-conditions spéciales fixées par cet article.
