@@ -1976,14 +1976,19 @@ l'élimination des PCB et PCT.
 
 1185
 
-Chlorofluorocarbures, halons et autres carbures et hydrocarbures halogénés
+Gaz à effet de serre fluorés visés par le règlement (CE) n° 842/2006 ou
+substances qui appauvrissent la couche d'ozone visées par le règlement (CE) n°
+1005/2009 (fabrication, emploi, stockage).
 
-1. Conditionnement de fluides et mise en oeuvre telle que fabrication de
-mousses, etc. à l'exclusion du nettoyage à sec de produits textiles visé par la
-rubrique 2345 et du nettoyage, dégraissage, décapage de surfaces visés par la
-rubrique 2564
+1. Fabrication et emploi autres que ceux mentionnés au 2 et à l'exclusion du
+nettoyage à sec de produits textiles visé par la rubrique 2345, du nettoyage,
+dégraissage, décapage de surfaces visés par la rubrique 2564, de la fabrication
+industrielle de composés organohalogénés, organophosphorés et organostanniques
+visée par la rubrique 1174, de l'emploi de liquides organohalogénés visé par la
+rubrique 1175 et de l'emploi d'hexafluorure de soufre dans les appareillages de
+connexion à haute tension.
 
-La quantité de fluide susceptible d'être présente dans l'installation étant :
+Le volume des équipements susceptibles de contenir des fluides étant :
 
 1. La quantité totale de fluide susceptible d'être présente dans l'installation
 étant supérieure à 8 000 l
@@ -2002,45 +2007,60 @@ b) supérieure à 80 l, mais inférieure ou égale à 800 l
 
 D
 
-2. Composants et appareils clos en exploitation, dépôts de produits neufs ou
-régénérés, à l'exception des appareils de compression et de réfrigération visés
-par la rubrique 2920
+2. Emploi dans des équipements clos en exploitation.
 
 2. Non soumis à la taxe.
 
 -
 
-La quantité de fluide susceptible d'être présente dans l'installation étant :
+a) Equipements frigorifiques ou climatiques (y compris pompe à chaleur) de
+capacité unitaire supérieure à 2 kg, la quantité cumulée de fluide susceptible
+d'être présente dans l'installation étant supérieure ou égale à 300 kg
 
-a) supérieure à 800 l de capacité unitaire sauf installations d'extinction
+
+DC
+
+b) Equipements d'extinction, la quantité cumulée de fluide susceptible d'être
+présente dans l'installation étant supérieure à 200 kg
 
 
 D
 
-b) supérieure à 200 kg dans les installations d'extinction
-
-
-D
-
-3. Régénération des fluides et recyclage des halons, sur site de traitement
-
-
-A
-
-1
+3. Stockage de fluides vierges, recyclés ou régénérés, à l'exception du stockage
+temporaire.
 
 3. Quelle que soit la capacité
 
 1
 
+1) Fluides autres que l'hexafluorure de soufre :
+
+La quantité de fluide susceptible d'être présente dans l'installation étant :
+
+a) En récipient de capacité unitaire supérieure ou égale à 400 l
+
+
+D
+
+b) Supérieure à 1 t et en récipients de capacité unitaire inférieure à 400 l
+
+
+D
+
+2) Cas de l'hexafluorure de soufre :
+
+La quantité de fluide susceptible d'être présente dans l'installation étant
+supérieure à 150 kg quel que soit le conditionnement
+
+
+D
+
 1200
 
 Comburants (fabrication, emploi ou stockage de substances ou mélanges) tels que
 définis à la rubrique 1000 à l'exclusion des substances visées nominativement ou
-par famille par d'autres rubriques :
-
-1. Fabrication. La quantité totale susceptible d'être présente dans
-l'installation étant :
+par famille par d'autres rubriques : 1. Fabrication. La quantité totale
+susceptible d'être présente dans l'installation étant :
 
 1. La quantité totale susceptible d'être présente dans l'installation étant :
 
@@ -2528,7 +2548,9 @@ b) Inférieure à 100 kg dans les autres cas
 
 DC
 
-Nota : (1) Les produits explosifs appartiennent à la classe 1 des marchandises
+Nota :
+
+(1) Les produits explosifs appartiennent à la classe 1 des marchandises
 dangereuses et sont classés en divisions de risque et en groupes de
 compatibilité selon les articles 3 à 9 de l'arrêté du 20 avril 2007 fixant les
 règles relatives à l'évaluation des risques et à la prévention des accidents

@@ -20,17 +20,17 @@ Coef.
 
 2515
 
-Broyage, concassage, criblage, ensachage, pulvérisation, nettoyage, tamisage,
-mélange de pierres, cailloux, minerais et autres produits minéraux naturels ou
-artificiels ou de déchets non dangereux inertes.
+1. Installations de broyage, concassage, criblage, ensachage, pulvérisation,
+nettoyage, tamisage, mélange de pierres, cailloux, minerais et autres produits
+minéraux naturels ou artificiels ou de déchets non dangereux inertes, autres que
+celles visées par d'autres rubriques et par la sous-rubrique 2515-2.
 
-La puissance installée de l'ensemble des machines fixes concourant au
-fonctionnement de l'installation étant :
+La puissance installée des installations, étant :
 
 1. La puissance installée de l'ensemble des machines fixes concourant au
 fonctionnement de l'installation étant :
 
-1. supérieure à 200 kW
+a) Supérieure à 550 kW
 
 
 A
@@ -41,11 +41,33 @@ a) supérieure à 5 MW
 
 3
 
+b) Supérieure à 200 kW, mais inférieure ou égale à 550 kW
+
+
+E
+
 b) supérieure à 500 kW, mais inférieure ou égale à 5 MW
 
 1
 
-2. supérieure à 40 kW, mais inférieure ou égale à 200 kW
+c) Supérieure à 40 kW, mais inférieure ou égale à 200 kW
+
+
+D
+
+2. Installations de broyage, concassage, criblage, mélange de pierres, cailloux,
+minerais et autres produits minéraux naturels ou artificiels ou de déchets non
+dangereux inertes extraits ou produits sur le site de l'installation,
+fonctionnant sur une période unique d'une durée inférieure ou égale à six mois.
+
+La puissance installée des installations, étant :
+
+a) Supérieure à 350 kW
+
+
+E
+
+b) Supérieure à 40 kW, mais inférieure ou égale à 350 kW
 
 
 D
@@ -54,14 +76,12 @@ D
 
 Station de transit de produits minéraux pulvérulents non ensachés tels que
 ciments, plâtres, chaux, sables fillérisés ou de déchets non dangereux inertes
-pulvérulents, la capacité de stockage étant :
+pulvérulents, la capacité de transit étant :
 
-1. supérieure à 25 000 m ³
+1. supérieure à 25 000 m 3
 
 
-A
-
-3
+E
 
 2. Supérieure à 5 000 m³ mais inférieure ou égale à 25 000 m³.
 
@@ -71,16 +91,22 @@ D
 2517
 
 Station de transit de produits minéraux ou de déchets non dangereux inertes
-autres que ceux visés par d'autres rubriques, la capacité de stockage étant :
+autres que ceux visés par d'autres rubriques, la superficie de l'aire de transit
+étant :
 
-1. supérieure à 75 000 m³
+1. supérieure à 30 000 m 2
 
 
 A
 
 3
 
-2. Supérieure à 15 000 m³ mais inférieure ou égale à 75 000 m³.
+2. Supérieure à 10 000 m 2 mais inférieure ou égale à 30 000 m 2 .
+
+
+E
+
+3. Supérieure à 5 000 m 2 , mais inférieure ou égale à 10 000 m 2
 
 
 D
@@ -91,12 +117,12 @@ visées par la rubrique 2522. La capacité de malaxage étant :
 
 2518
 
-a) Supérieure à 3 m3
+a) Supérieure à 3 m 3
 
 
 E
 
-b) Inférieure ou égale à 3 m3
+b) Inférieure ou égale à 3 m 3
 
 
 D
@@ -235,7 +261,7 @@ D
 
 -
 
-a) supérieure à 500 kg / j
+a) supérieure à 500 kg/j
 
 
 A
@@ -333,7 +359,7 @@ A
 
 La capacité de production étant :
 
-a) supérieure à 500 t / j
+a) supérieure à 500 t/j
 
 10
 
@@ -381,7 +407,7 @@ plomb (au moins 3 %)
 
 La capacité de production étant :
 
-1. supérieure à 100 kg/j
+1. supérieure à 100 kg/ j
 
 
 A
@@ -442,18 +468,18 @@ l'exclusion de celles relevant de la rubrique 2550)
 
 La capacité de production étant :
 
-1. supérieure à 2 t/j
+1. supérieure à 2 t/ j
 
 
 A
 
 2
 
-1. La capacité de production étant supérieure à 50 t/j
+1. La capacité de production étant supérieure à 50 t/ j
 
 1
 
-2. supérieure à 100 kg/j, mais inférieure ou égale à 2 t/j
+2. supérieure à 100 kg/ j, mais inférieure ou égale à 2 t/ j
 
 
 DC
@@ -601,7 +627,7 @@ b) supérieur à 200 l, mais inférieur ou égal à 1 500 l
 
 DC
 
-3. Traitement en phase gazeuse ou autres traitements sans mise en oeuvre de
+3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de
 cadmium
 
 
@@ -643,20 +669,20 @@ Email
 
 1. Fabrication, la quantité de matière susceptible d'être fabriquée étant :
 
-a) supérieure à 500 kg/j
+a) supérieure à 500 kg/ j
 
 
 A
 
 1
 
-b) supérieure à 50 kg/j, mais inférieure ou égale à 500 kg/j
+b) supérieure à 50 kg/ j, mais inférieure ou égale à 500 kg/ j
 
 
 DC
 
 2. Application, la quantité de matière susceptible d'être traitée étant
-supérieure à 100 kg/j
+supérieure à 100 kg/ j
 
 
 DC
@@ -737,7 +763,7 @@ A
 
 3. Fabrications non industrielles
 
-La capacité de production étant supérieure ou égale à 1 t/ j
+La capacité de production étant supérieure ou égale à 1 t/j
 
 
 D
@@ -987,7 +1013,7 @@ du transport.
 
 2681
 
-Micro-organismes naturels pathogènes (mise en œuvre dans des installations de
+Micro-organismes naturels pathogènes (mise en oeuvre dans des installations de
 production industrielle)
 
 
@@ -1080,14 +1106,31 @@ DC
 
 2712
 
-Installation de stockage, dépollution, démontage, découpage ou broyage de
-véhicules hors d'usage ou de différents moyens de transport hors d'usage, la
-surface étant supérieure à 50 m².
+Installation d'entreposage, dépollution, démontage ou découpage de véhicules
+hors d'usage ou de différents moyens de transports hors d'usage.
+
+1. Dans le cas de véhicules terrestres hors d'usage, la surface de
+l'installation étant :
+
+a) supérieure ou égale à 30 000 m²
 
 
 A
 
-1
+2
+
+b) Supérieure ou égale à 100 m² et inférieure à 30 000 m²
+
+
+E
+
+2. Dans le cas d'autres moyens de transports hors d'usage, la surface de
+l'installation étant supérieure ou égale à 50 m²
+
+
+A
+
+2
 
 2713
 
@@ -1164,7 +1207,7 @@ DC
 Installation de transit, regroupement ou tri de déchets contenant des substances
 dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du
 code de l'environnement, à l'exclusion des installations visées aux rubriques
-1313, 2710, 2711, 2712 et 2719.
+1313,2710,2711,2712 et 2719.
 
 La quantité susceptible d'être présente étant :
 
@@ -1271,18 +1314,18 @@ nomenclature, des établissements de diagnostic, de recherche et d'enseignement 
 
 La capacité de traitement étant :
 
-La capacité de traitement étant supérieure à 500 kg/j
+La capacité de traitement étant supérieure à 500 kg/ j
 
 
 A
 
 5
 
-a) supérieure à 50 t/j
+a) supérieure à 50 t/ j
 
 8
 
-b) supérieure à 10 t/j, mais inférieure ou égale à 50 t/j
+b) supérieure à 10 t/ j, mais inférieure ou égale à 50 t/ j
 
 2
 
@@ -1435,11 +1478,11 @@ A
 
 La capacité de traitement étant :
 
-1. Supérieure ou égale à 3 t/h
+1. Supérieure ou égale à 3 t/ h
 
 6
 
-2. Inférieure à 3 t/h
+2. Inférieure à 3 t/ h
 
 3
 
@@ -1659,7 +1702,7 @@ DC
 Combustion à l'exclusion des installations visées par les rubriques 2770 et
 2271.
 
-A. - Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz
+A.-Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz
 naturel, des gaz de pétrole liquéfiés, du fioul domestique, du charbon, des
 fiouls lourds ou de la biomasse, à l'exclusion des installations visées par
 d'autres rubriques de la nomenclature pour lesquelles la combustion participe à
@@ -1694,7 +1737,7 @@ supérieure ou égale à 20 MW, mais inférieure à 50 MW
 
 DC
 
-B. - Lorsque les produits consommés seuls ou en mélange sont différents de ceux
+B.-Lorsque les produits consommés seuls ou en mélange sont différents de ceux
 visés en A et C et si la puissance thermique maximale de l'installation est
 supérieure à 0,1 MW
 
@@ -1718,7 +1761,7 @@ c) supérieure ou égale à 4 MW mais inférieure à 50 MW
 
 1
 
-C. - Lorsque l'installation consomme exclusivement du biogaz provenant
+C.-Lorsque l'installation consomme exclusivement du biogaz provenant
 d'installation classée sous la rubrique 2781-1 et si la puissance thermique
 maximale de l'installation est supérieure à 0,1 MW :
 
@@ -1742,7 +1785,9 @@ déclaration au titre de la rubrique 2781-1
 
 DC
 
-Nota : La puissance thermique maximale est définie comme la quantité maximale de
+Nota :
+
+La puissance thermique maximale est définie comme la quantité maximale de
 combustible, exprimée en PCI, susceptible d'être consommée par seconde.
 
 La biomasse au sens du A de la rubrique 2910 se présente à l'état naturel et
@@ -1923,7 +1968,7 @@ rubrique 2930,
 
 - ou de toute autre activité couverte explicitement par une autre rubrique.
 
-1. Lorsque les produits mis en oeuvre sont à base de liquides et lorsque
+1. Lorsque les produits mis en œuvre sont à base de liquides et lorsque
 l'application est faite par procédé "au trempé". Si la quantité maximale de
 produits susceptible d'être présente dans l'installation est :
 
@@ -1944,11 +1989,11 @@ b) supérieure à 100 l, mais inférieure ou égale à 1 000 l
 
 DC
 
-2. Lorsque l'application est faite par tout procédé autre que le "trempé"
+2. Lorsque l'application est faite par tout procédé autre que le trempé
 (pulvérisation, enduction). Si la quantité maximale de produits susceptible
 d'être mise en œuvre est :
 
-2. La quantité maximale de produits susceptible d'être mise en oeuvre est :
+2. La quantité maximale de produits susceptible d'être mise en œuvre est :
 
 a) supérieure à 100 kg/j
 
@@ -1974,9 +2019,9 @@ b) supérieure à 10 kg/j, mais inférieure ou égale à 100 kg/j
 
 DC
 
-3. Lorsque les produits mis en oeuvre sont des poudres à base de résines
-organiques. Si la quantité maximale de produits susceptible d'être mise en
-oeuvre est :
+3. Lorsque les produits mis en œuvre sont des poudres à base de résines
+organiques. Si la quantité maximale de produits susceptible d'être mise en œuvre
+est :
 
 a) supérieure à 200 kg/j
 
@@ -1994,8 +2039,8 @@ b) supérieure à 20 kg/j, mais inférieure ou égale à 200 kg/j
 
 DC
 
-Nota. - Le régime de classement est déterminé par rapport à la quantité de
-produits mise en oeuvre dans l'installation en tenant compte des coefficients
+Nota.-Le régime de classement est déterminé par rapport à la quantité de
+produits mise en œuvre dans l'installation en tenant compte des coefficients
 ci-après. Les quantités de produits à base de liquides inflammables de 1re
 catégorie (point éclair inférieur à 55 o C) ou de liquides halogénés, dénommées
 A, sont affectées d'un coefficient 1. Les quantités de produits à base de
@@ -2125,14 +2170,14 @@ A
 
 3
 
-- [300 - (22,5 × A)] dans tous les autres cas
+- [300-(22,5 × A)] dans tous les autres cas
 
-où "A" est la proportion de matière animale (en pourcentage de poids) dans la
+où " A " est la proportion de matière animale (en pourcentage de poids) dans la
 quantité entrant dans le calcul de la capacité de production de produits finis.
 
-Nota 1. - L'emballage n'est pas compris dans le poids final du produit.
+Nota 1.-L'emballage n'est pas compris dans le poids final du produit.
 
-Nota 2. - La présente rubrique ne s'applique pas si la matière première est
+Nota 2.-La présente rubrique ne s'applique pas si la matière première est
 seulement du lait.
 
 (1) A : autorisation, E : enregistrement, D : déclaration, S : servitude
