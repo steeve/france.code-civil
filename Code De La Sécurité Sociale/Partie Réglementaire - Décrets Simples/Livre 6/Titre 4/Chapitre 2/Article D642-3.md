@@ -7,20 +7,18 @@ n'excédant pas 85 % du plafond annuel prévu au premier alinéa de l'article L.
 241-3 en vigueur au 1er janvier de l'année au titre de laquelle la cotisation
 est due :
 
-a) A 8,63 % pour l'année 2012 ;
+a) A 9,75 % pour l'année 2013 ;
 
-b) A 8,80 % pour l'année 2013 ;
+b) A 10,1 % à compter de l'année 2014 ;
 
-c) A 8,90 % pour l'année 2014 ;
-
-d) A 9,00 % pour l'année 2015 ;
-
-e) A 9,10 % à compter de l'année 2016 ;
-
-2° A 1,6 % des revenus définis à l'article L. 642-2 pour la part de ces revenus
+2° Sur les revenus définis à l'article L. 642-2 pour la part de ces revenus
 excédant le seuil fixé au 1°, dans la limite de cinq fois le plafond annuel
 prévu à l'article L. 241-3 en vigueur au 1er janvier de l'année au titre de
-laquelle la cotisation est due.
+laquelle la cotisation est due :
+
+a) A 1,81 % pour l'année 2013 ;
+
+b) A 1,87 % à compter de l'année 2014.
 
 En cas de période d'affiliation inférieure à une année, les plafonds prévus aux
 1° et 2° ci-dessus sont réduits au prorata des trimestres d'affiliation.
@@ -43,9 +41,9 @@ faite par l'assuré dans les trente jours suivant la réception de la notificati
 de l'administration fiscale.
 
 A défaut de déclaration par l'assuré de ses revenus professionnels dans les
-délais prévus aux alinéas 5 et 7, la section procède d'office à l'appel de
-cotisations assises sur un revenu égal au maximum de chacune des tranches
-prévues aux 1° et 2° du présent article.
+délais prévus aux neuvième et onzième alinéas, la section procède d'office à
+l'appel de cotisations assises sur un revenu égal au maximum de chacune des
+tranches prévues aux 1° et 2° du présent article.
 
 En cas de rectification par les services fiscaux des revenus ayant servi
 d'assiette au calcul des cotisations, la section professionnelle procède
