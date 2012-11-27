@@ -8,7 +8,7 @@ productions végétales suivants :
 
 - l'aide à la qualité pour le blé dur ;
 
-- l'aide à la diversité des assolements ;
+- l'aide à la qualité du tabac ;
 
 - le soutien à l'agriculture biologique.
 
@@ -16,12 +16,12 @@ Un arrêté du ministre chargé de l'agriculture fixe les conditions d'accès au
 soutiens spécifiques aux productions végétales.
 
 II. - L'aide supplémentaire aux protéagineux est destinée à encourager les
-systèmes de cultures intégrant des protéagineux ou de nouvelles surfaces en
-légumineuses fourragères dans leur assolement.
+systèmes de cultures intégrant des protéagineux ou des légumineuses fourragères
+destinées à la déshydratation dans leur assolement.
 
 L'arrêté mentionné au I précise notamment la liste des cultures éligibles à
-l'aide, ainsi que les conditions d'ensemencement et de récolte que le demandeur
-doit s'engager à respecter.
+l'aide, ainsi que les conditions d'ensemencement, de récolte et de
+contractualisation que le demandeur doit s'engager à respecter.
 
 III. - L'aide à la qualité pour le blé dur est destinée à soutenir
 l'amélioration de la qualité de la production de blé dur dans les zones de
@@ -32,17 +32,12 @@ variétés de semences de blé dur éligibles, la quantité minimale de semences
 certifiées ainsi que les conditions d'ensemencement que le demandeur doit
 s'engager à respecter.
 
-IV. - L'aide à la diversité des assolements est destinée à encourager la
-diversification des cultures assolées dans les exploitations de grandes
-cultures.
+IV. -L'aide à la qualité du tabac est destinée à encourager la production de
+tabac de qualité destinée à la transformation.
 
-L'arrêté mentionné au I précise notamment les taux d'implantation des cultures
-que le demandeur doit respecter.
-
-Le demandeur de l'aide à la diversité des assolements ne doit pas être
-bénéficiaire d'un dispositif agroenvironnemental comportant une action
-rotationnelle et doit s'engager à ne pas en demander le bénéfice, pour la
-campagne considérée.
+L'arrêté mentionné au I précise notamment les grades qualitatifs admissibles
+ainsi que les conditions, notamment en matière de contractualisation, dans
+lesquelles la production de tabac est éligible à l'aide.
 
 V. - L'aide au soutien à l'agriculture biologique est destinée à accompagner les
 exploitations agricoles qui respectent le règlement de l'agriculture biologique

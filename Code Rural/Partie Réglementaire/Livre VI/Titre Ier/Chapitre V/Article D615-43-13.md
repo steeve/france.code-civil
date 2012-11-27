@@ -6,8 +6,7 @@ Un arrêté du ministre chargé de l'agriculture fixe, dans les conditions défi
 
 -des premiers transformateurs des produits énumérés à l'article D. 615-43-11 ;
 
--des collecteurs des produits énumérés à l'article D. 615-43-11, à l'exception
-des tomates.
+-des collecteurs des produits énumérés à l'article D. 615-43-11.
 
 Il précise les modalités de contrôle de l'agrément ainsi que les sanctions
 prévues au 4 de l'article 33 du même règlement (CE) n° 1121/2009.
