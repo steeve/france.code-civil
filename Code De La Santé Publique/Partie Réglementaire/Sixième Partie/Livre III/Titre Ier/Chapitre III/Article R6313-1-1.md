@@ -25,10 +25,9 @@ b) Un directeur d'établissement public de santé doté de moyens mobiles de
 secours et de soins d'urgence ;
 
 c) Le président du conseil d'administration du service d'incendie et de secours
-ou son représentant ;
+;
 
-d) Le directeur départemental du service d'incendie et de secours ou son
-représentant ;
+d) Le directeur départemental du service d'incendie et de secours ;
 
 e) Le médecin-chef départemental du service d'incendie et de secours ;
 
@@ -39,8 +38,8 @@ directeur départemental des services d'incendie et de secours ;
 
 a) Un médecin représentant le conseil départemental de l'ordre des médecins ;
 
-b) Quatre représentants de l'union régionale des professionnels de santé
-représentant les médecins ;
+b) Quatre médecins représentants de l'union régionale des professionnels de
+santé représentant les médecins ;
 
 c) Un représentant du conseil de la délégation départementale de la Croix-Rouge
 française ;
@@ -62,11 +61,11 @@ publique ;
 
 h) Un représentant de chacune des deux organisations d'hospitalisation privée
 les plus représentatives au plan départemental, dont un directeur
-d'établissement de santé privé assurant des transports sanitaires ;
+d'établissement de santé privé assurant des transports sanitaires lorsqu'un tel
+établissement existe dans le département ;
 
-i) Un représentant de chacune des quatre organisations professionnelles
-nationales de transports sanitaires les plus représentatives au plan
-départemental ;
+i) Quatre représentants des organisations professionnelles nationales de
+transports sanitaires les plus représentatives au plan départemental.
 
 j) Un représentant de l'association départementale de transports sanitaires
 d'urgence la plus représentative au plan départemental ;
@@ -93,3 +92,9 @@ l'agence régionale de santé et du préfet.
 
 Le directeur général de l'agence régionale de santé et le préfet peuvent se
 faire assister des personnes de leur choix.
+
+Pour chaque membre titulaire, à l'exception des membres mentionnés aux 1° et 2°,
+qui peuvent se faire représenter conformément aux règles prévues par l'article 3
+du décret n° 2006-672 du 8 juin 2006 relatif à la création, à la composition et
+au fonctionnement des commissions administratives à caractère consultatif, est
+désigné dans les mêmes conditions un membre suppléant.

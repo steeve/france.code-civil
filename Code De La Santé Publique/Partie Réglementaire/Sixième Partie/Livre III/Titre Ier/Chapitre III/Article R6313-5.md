@@ -16,8 +16,8 @@ directeur départemental des services d'incendie et de secours ;
 5° Les quatre représentants des organisations professionnelles de transports
 sanitaires désignés à l'article R. 6313-1-1 ;
 
-6° Le directeur d'un établissement public de santé assurant des transports
-sanitaires ;
+6° Le directeur d'un établissement public de santé doté de moyens mobiles de
+secours et de soins d'urgence ;
 
 7° Le directeur d'établissement de santé privé assurant des transports
 sanitaires ;

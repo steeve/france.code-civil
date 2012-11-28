@@ -16,7 +16,7 @@ ou employés de la Banque de France ;
 4° Aux litiges en matière de pensions, d'aide sociale, d'aide personnalisée au
 logement, d'emplois réservés et d'indemnisation des rapatriés ;
 
-5° Aux litiges dans lesquels le défendeur est une collectivité territoriale ou
-un établissement public en relevant ;
+5° Aux litiges dans lesquels le défendeur est une collectivité territoriale, un
+établissement public en relevant ou un établissement public de santé ;
 
 6° Aux demandes d'exécution d'un jugement définitif.

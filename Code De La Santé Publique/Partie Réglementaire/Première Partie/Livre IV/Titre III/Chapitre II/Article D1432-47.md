@@ -17,3 +17,9 @@ En cas d'extrême urgence dûment motivée, la consultation des membres de la
 conférence régionale de la santé et de l'autonomie au sein de ces formations
 peut intervenir par tout moyen approprié permettant leur identification et leur
 participation effective à une délibération collégiale.
+
+Lorsque son suppléant ne peut le remplacer, le membre titulaire peut donner
+mandat à un autre membre titulaire, qui ne peut recevoir plus d'un mandat.
+
+Les présidents de la conférence régionale de la santé et de l'autonomie et de
+chacune de ses formations ne peuvent donner ni recevoir de mandat.

@@ -19,17 +19,16 @@ c) Un engagement du demandeur sur le maintien des caractéristiques de
 l'installation après l'autorisation ou le renouvellement ;
 
 d) Les conventions conclues avec un ou plusieurs établissements de santé
-autorisés à exercer l'activité de soins d'accueil et de traitement des urgences
-et l'activité de soins de réanimation mentionnées à l'article R. 6122-25, en vue
-d'organiser, le cas échéant, le transfert d'urgence des personnes prises en
-charge par le demandeur, lorsque le demandeur n'est pas un établissement de
-santé autorisé à exercer ces activités ;
+autorisés à exercer l'activité de médecine d'urgence et l'activité de
+réanimation mentionnées à l'article R. 6122-25, en vue d'organiser, le cas
+échéant, le transfert d'urgence des personnes prises en charge par le demandeur,
+lorsque le demandeur n'est pas un établissement de santé autorisé à exercer ces
+activités ;
 
 e) Le cas échéant, la convention mentionnée à l'article R. 5126-112 ;
 
-f) Un document attestant l'adoption du système prévu à l'article L. 6111-1 et,
-le cas échéant, la convention mentionnée au deuxième alinéa de l'article R.
-6111-21 ;
+f) Un document attestant l'adoption du système prévu à l'article L. 6111-2 et,
+le cas échéant, un des contrats mentionnés à l'article R. 6111-20 ;
 
 g) Une attestation du demandeur et de son assureur qu'ils ont connaissance des
 obligations d'information des caisses d'assurance-maladie, en application de

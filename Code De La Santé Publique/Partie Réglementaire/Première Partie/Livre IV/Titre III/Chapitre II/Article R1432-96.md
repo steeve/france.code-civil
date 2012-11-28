@@ -16,7 +16,7 @@ recommandée, avec demande d'avis de réception, la candidature qui pourra se
 prévaloir de l'appartenance à l'union.
 
 En l'absence de cette indication, les organisations syndicales ayant déposé les
-listes en cause ne peuvent bénéficier des dispositions du 1° de l'article 9 bis
+listes en cause ne peuvent bénéficier des dispositions du 2° de l'article 9 bis
 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des
 fonctionnaires et ne peuvent se prévaloir sur les bulletins de vote de
 l'appartenance à une union.

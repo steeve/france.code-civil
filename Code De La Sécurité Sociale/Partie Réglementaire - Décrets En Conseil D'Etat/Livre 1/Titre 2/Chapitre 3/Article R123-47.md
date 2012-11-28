@@ -12,4 +12,4 @@ mentionnées à l'article R. 123-46 ainsi que les modalités de désignation des
 représentants des agents au sein de ces commissions, et les modalités
 d'enregistrement et d'examen par ces commissions des demandes d'inscription sur
 la liste d'aptitude. Ils fixent également les proportions des inscriptions au
-titre des 3° et 5° de l'article R. 123-45-2.
+titre des 3° et 4° de l'article R. 123-45-2.

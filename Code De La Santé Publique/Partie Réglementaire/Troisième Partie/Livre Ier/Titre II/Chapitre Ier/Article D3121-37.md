@@ -12,8 +12,9 @@ Dans la limite de trente membres, le comité de coordination comprend :
 
 Un arrêté du ministre chargé de la santé détermine les modalités de composition
 des comités et les conditions dans lesquelles les membres des différentes
-catégories précitées sont nommés par le représentant de l'Etat dans la région
-dans laquelle l'établissement de santé d'accueil est situé.
+catégories précitées sont nommés par le directeur général de l'agence régionale
+de santé dans le ressort de laquelle l'établissement de santé d'accueil est
+situé.
 
 Chaque comité établit son règlement intérieur. Il élit en son sein un président,
 un vice-président et un bureau qui comporte au plus neuf membres dont le
