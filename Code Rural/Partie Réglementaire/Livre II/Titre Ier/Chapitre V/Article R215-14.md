@@ -26,7 +26,8 @@ exigible, le document d'identification de l'équidé ou son attestation
 d'identification ;
 
 7° Pour tout exploitant ou gestionnaire d'abattoir d'abattre un équidé non
-identifié, sauf dans le cas prévu au 2° du V de l'article D. 212-53 ;
+identifié, sauf si son abattage est autorisé en application du II de l'article
+L. 221-4 ou en application de l'article D. 212-57 ;
 
 8° Détenir un équidé sevré non identifié ;
 
@@ -38,9 +39,11 @@ immatriculé au fichier central ;
 11° Pour tout détenteur de faire circuler un équidé non identifié ;
 
 12° Pour toute personne détenant un ou plusieurs équidés domestiques, de ne pas
-se déclarer conformément aux dispositions de l'article D. 212-50-1 ou de ne pas
-signaler, conformément aux dispositions de l'article D. 212-50-2, toute
+se déclarer conformément aux dispositions de l'article D. 212-47 ou de ne pas
+signaler, conformément aux dispositions de l'article D. 212-48, toute
 modification des informations déclarées ;
 
 13° Pour toute personne responsable d'un établissement d'équarrissage, de ne pas
-avoir respecté ses obligations prévues au 3° du V de l'article D. 212-53.
+avoir respecté ses obligations prévues en application des a, b et c du
+paragraphe 1 de l'article 19 du règlement (CE) n° 504/2008 de la Commission du 6
+juin 2008. .

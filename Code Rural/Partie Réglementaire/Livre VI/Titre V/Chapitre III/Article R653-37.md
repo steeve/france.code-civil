@@ -2,8 +2,7 @@ Article R653-37
 ----
 Le ministre chargé de l'agriculture agrée, pour une durée déterminée, les
 organismes habilités à intervenir dans la sélection et l'amélioration génétique.
-L'agrément précise les missions pour lesquelles les organismes sont habilités,
-ainsi que les modalités de leur contrôle.
+L'agrément précise les modalités de leur contrôle par l'Etat.
 
 Cet agrément ne peut être accordé qu'aux personnes morales ayant leur siège
 social en France, disposant d'un statut prévoyant notamment l'absence de

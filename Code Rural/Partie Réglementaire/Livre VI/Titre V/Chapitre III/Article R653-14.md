@@ -21,17 +21,17 @@ des autres équidés sur le plan national, européen ou international ;
 l'amélioration des races pour assurer une régulation économique et génétique
 prenant en compte les intérêts à long terme de la filière ;
 
-3° Il procède pour le compte de l'Etat à l'identification des équidés et assure
-la tenue du fichier central des équidés immatriculés ainsi que le suivi des
-propriétaires et détenteurs pour participer à la traçabilité des équidés. Il
-apporte son appui aux organismes agréés pour assurer l'orientation et
-l'amélioration génétique d'une race ou d'un groupe de races.A ce titre, il
-instruit pour le compte du ministre chargé de l'agriculture l'évolution des
-règles relatives aux conditions d'inscription sur les livres généalogiques qui
-sont tenus par lui ou, sous son contrôle, par des associations ou fédérations
-agréées. Il entreprend toutes actions visant à développer un système
-d'information relatif aux équidés avec l'ensemble des partenaires de la filière
-aux plans national, européen et international ;
+3° Il procède pour le compte de l'Etat, dans les conditions prévues aux articles
+D. 212-51 à R. 212-60, à l'identification des équidés et assure la tenue du
+fichier central des équidés immatriculés ainsi que le suivi des propriétaires et
+détenteurs pour participer à la traçabilité des équidés. Il apporte son appui
+aux organismes agréés pour assurer l'orientation et l'amélioration génétique
+d'une race ou d'un groupe de races. A ce titre, il instruit pour le compte du
+ministre chargé de l'agriculture l'évolution des règles relatives aux conditions
+d'inscription sur les livres généalogiques qui sont tenus par lui ou, par des
+associations ou fédérations agréées. Il entreprend toutes actions visant à
+développer un système d'information relatif aux équidés avec l'ensemble des
+partenaires de la filière aux plans national, européen et international ;
 
 4° Il peut apporter son concours à l'Etat pour l'identification et le contrôle,
 dans les conditions prévues par les textes qui les réglementent, des
