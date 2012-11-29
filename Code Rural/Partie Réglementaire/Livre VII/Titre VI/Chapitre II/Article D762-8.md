@@ -1,7 +1,8 @@
 Article D762-8
 ----
 Toute fraction de cotisations qui n'est pas versée dans le délai d'un mois à
-compter de la date d'exigibilité est majorée de 5 %.
+compter des dates d'exigibilité prévues à l'article D. 762-6 et à la dernière
+phrase du second alinéa de l'article D. 762-7-5 est majorée de 5 %.
 
 A cette majoration s'ajoute une majoration complémentaire de 0,4 % du montant
 des cotisations dues, par mois ou fraction de mois écoulé, à compter de la date
