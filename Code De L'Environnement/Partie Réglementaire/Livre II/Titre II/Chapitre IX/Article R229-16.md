@@ -1,16 +1,13 @@
 Article R229-16
 ----
-Par dérogation à l'article R. 229-15, lorsque l'exploitant de plusieurs
-installations met à l'arrêt définitif l'une d'entre elles et que l'activité de
-l'installation fermée est déplacée dans une ou plusieurs autres de ses
-installations sur le territoire national, il peut demander au ministre chargé de
-l'environnement de l'autoriser à conserver le bénéfice de tout ou partie des
-quotas qui lui ont été affectés au titre de l'installation mise à l'arrêt au
-prorata du volume d'émission de gaz à effet de serre correspondant à l'activité
-déplacée.
+Pour la mise en œuvre des articles R. 229-9 à R. 229-15, le ministre chargé de
+l'environnement modifie, après approbation de la Commission européenne, l'arrêté
+prévu au I de l'article R. 229-8.
 
-Un arrêté du ministre chargé de l'environnement définit les justificatifs requis
-à l'appui de la demande prévue à l'alinéa précédent.
+Cet arrêté est communiqué par le préfet aux exploitants concernés par voie
+électronique et transmis à l'administrateur national du registre de l'Union.
 
-L'application des dispositions du présent article est exclusive de celle des
-articles R. 229-11, R. 229-12 et R. 229-13.
+Pour les équipements et installations mentionnés au premier alinéa de l'article
+L. 593-3 et pour les installations classées mentionnées au deuxième alinéa de ce
+même article, l'Autorité de sûreté nucléaire effectue cette communication aux
+exploitants et à l'administrateur national.

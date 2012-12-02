@@ -11,5 +11,12 @@ Lorsque l'inspection des installations classées, ayant reçu une nouvelle
 déclaration de l'exploitant, constate qu'elle est satisfaisante, ou lorsqu'elle
 a arrêté le calcul forfaitaire des émissions de l'installation, elle établit un
 rapport en ce sens, le communique à l'exploitant et le transmet au ministre
-chargé de l'environnement, qui autorise, au plus tard le 31 mai, le teneur du
-registre à procéder à d'éventuels mouvements de quotas.
+chargé de l'environnement, qui autorise, au plus tard le 31 mai,
+l'administrateur national du registre européen à procéder à d'éventuels
+mouvements de quotas.
+
+Pour les équipements et installations mentionnés au premier alinéa de l'article
+L. 593-3 et pour les installations classées mentionnées au deuxième alinéa de ce
+même article, l'autorité administrative et l'autorité compétente mentionnée au
+II de l'article L. 229-18 ainsi que l'autorité habilitée à prononcer les
+sanctions prévues au présent paragraphe sont l'Autorité de sûreté nucléaire.

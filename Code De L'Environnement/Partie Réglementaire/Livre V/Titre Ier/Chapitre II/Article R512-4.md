@@ -22,7 +22,10 @@ dioxyde de carbone ;
 
 b) Des différentes sources d'émissions de dioxyde de carbone de l'installation ;
 
-c) Des mesures prévues pour quantifier et déclarer les émissions.
+c) Des mesures prises pour quantifier les émissions à travers un plan de
+surveillance qui réponde aux exigences du règlement visé à l'article 14 de la
+directive 2003/87/ CE du 13 octobre 2003 modifiée. Ce plan peut être actualisé
+par l'exploitant sans avoir à modifier son autorisation.
 
 La demande comprend également un résumé non technique des informations
 mentionnées aux a à c du 3°.
