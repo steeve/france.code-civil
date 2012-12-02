@@ -7,7 +7,7 @@ activité de projet définie à cet article doit remplir les conditions suivante
 l'article L. 229-22 résultant de l'activité de projet pour laquelle elles
 sollicitent l'agrément, ci-après dénommées les demandeurs, doivent être
 domiciliées ou légalement établies sur le territoire d'un Etat membre de l'Union
-européenne ;
+européenne ou d'un Etat membre de l'Association européenne de libre échange ;
 
 2° L'activité envisagée ne doit pas porter atteinte aux intérêts diplomatiques
 et militaires de la France ;
@@ -26,10 +26,9 @@ durable ;
 doivent, conformément aux décisions prises par les parties au protocole de Kyoto
 pour l'application, selon le cas, de l'article 6 ou de l'article 12 de ce
 protocole, être comparés à ceux d'un scénario de référence correspondant à ce
-qui se produirait en l'absence du projet proposé. Ce scénario, proposé par les
-demandeurs, sert de base au calcul du montant des unités de réduction des
-émissions ou des unités de réduction d'émissions certifiées résultant de
-l'activité de projet.
+qui se produirait en l'absence du projet proposé. Ce scénario sert de base au
+calcul du montant des unités de réduction des émissions ou des unités de
+réduction d'émissions certifiées résultant de l'activité de projet.
 
 Le scénario de référence d'une activité de projet envisagée sur le territoire
 d'un Etat membre de l'Union européenne ou d'un Etat ayant signé un traité
@@ -69,3 +68,20 @@ ministres intéressés, les mesures adoptées par la France pour réduire ses
 émissions de gaz à effet de serre. Les réductions d'émissions résultant de
 l'activité de projet sont celles qui viennent s'ajouter aux réductions issues de
 la mise en oeuvre du scénario de référence.
+
+III. - Si à titre expérimental elle relève de l'utilisation des terres, du
+changement d'affectation des terres ou d'activités forestières, l'activité de
+projet doit remplir, en outre, les conditions suivantes :
+
+1° L'activité doit résulter de boisement ou de reboisement sur des terrains ne
+portant pas de forêt au 1er janvier 1990 conformément aux dispositions de
+l'article 3.3 du protocole de Kyoto et aux décisions prises par les parties à ce
+protocole pour la mise en œuvre de cet article ;
+
+2° Le couvert forestier doit satisfaire les valeurs seuils minimales fixées par
+un arrêté conjoint du ministre chargé du développement durable et du ministre
+chargé des finances.
+
+Un arrêté conjoint du ministre chargé de l'environnement et du ministre chargé
+des finances pris après avis du ministre chargé de la forêt précise les
+modalités de calcul et de délivrance des unités de réduction des émissions.

@@ -10,5 +10,5 @@ chargé de l'environnement par voie électronique.
 
 Après approbation du rapport, dans un délai qui ne saurait dépasser un mois à
 compter de sa réception, le ministre chargé de l'environnement donne instruction
-au teneur du registre de procéder à la délivrance des unités de réduction des
-émissions correspondantes.
+à l'administrateur national du registre européen de procéder à la délivrance des
+unités de réduction des émissions correspondantes.

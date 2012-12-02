@@ -1,58 +1,42 @@
 Article R229-35
 ----
-I.-Les missions de la Caisse des dépôts et consignations au titre de la présente
-sous-section comprennent :
+I.-La Caisse des dépôts et consignations gère, au nom de l'Etat, les comptes de
+celui-ci et les comptes des autres utilisateurs relevant de sa juridiction au
+titre du registre européen. Ses missions au titre de la présente sous-section
+comprennent notamment :
 
-1° Le développement des systèmes d'informations destinées à exploiter le
-registre et leur sécurisation ;
+a) L'ouverture, la gestion de l'état des comptes mentionnés ci-dessus, la
+suspension de l'accès à ces comptes et leur clôture le cas échéant ;
 
-2° L'ouverture et la tenue des comptes des détenteurs de quotas ;
+b) La délivrance d'agrément et, le cas échéant, la révocation des représentants
+autorisés et des représentants autorisés supplémentaires ;
 
-3° L'enregistrement de toutes les opérations portant sur des quotas, notamment :
+c) La vérification de la mise à jour des informations relatives aux comptes
+mentionnés au premier alinéa du I, à leur représentants autorisés et à leur
+représentants autorisés supplémentaires ;
 
-a) L'inscription au compte de l'Etat, sur instruction du ministre chargé de
-l'environnement et pour chaque plan national d'affectation de quotas, de la
-quantité totale de quotas inscrite à ce plan ;
+d) La saisie des données d'émission de l'année précédente au plus tard le 31
+mars, le chargement et, le cas échéant, la modification du tableau national
+d'affectation dans le journal des transactions de l'Union européenne ;
 
-b) La délivrance annuelle, par le débit du compte de l'Etat et par virement aux
-comptes des intéressés, d'une partie de ces quotas aux exploitants des
-installations bénéficiaires ;
+e) A titre exceptionnel, la saisie d'une instruction d'ordre de transfert, à la
+demande du ou des représentants autorisés du compte concerné ;
 
-c) Le transfert de quotas, ou de toutes autres unités émises ou reconnues par
-l'Etat, entre, d'une part, les titulaires de comptes et entre, d'autre part, ces
-titulaires et les titulaires de comptes dans tout autre registre reconnu dans
-les conditions prévues par le règlement mentionné au 3 de l'article 19 de la
-directive 2003/87/ CE du 13 octobre 2003 établissant un système d'échange de
-quotas d'émission de gaz à effet de serre dans la Communauté et modifiant la
-directive 96/61/ CE du Conseil ;
-
-d) La restitution annuelle à l'Etat, au prorata des émissions validées de
-l'année précédente et sur instruction des détenteurs de comptes, de la quantité
-requise de quotas ;
-
-e) L'annulation des quotas ;
-
-4° L'enregistrement des opérations mentionnées au 3° ci-dessus portant sur les
-unités de réduction des émissions et les unités de réduction d'émissions
-certifiées définies à l'article L. 229-22 ;
-
-5° Le blocage d'un compte, sur instruction du ministre chargé de
-l'environnement, en cas d'application de l'article R. 229-33 ;
-
-6° La mise à disposition du public, sur un site internet spécialisé et dans les
-conditions définies par le règlement mentionné au 3 de l'article 19 de la
-directive 2003/87/ CE du 13 octobre 2003, des informations que le teneur de
-registre est tenu de rendre publiques ;
-
-7° La transmission au ministre chargé de l'environnement des informations que
-l'Etat est tenu de communiquer à la Commission européenne en application de
-l'article 21 de la directive 2003/87/ CE du 13 octobre 2003.
+f) La perception des sommes visées à l'article R. 229-36.
 
 II.-La Caisse des dépôts et consignations prend les mesures nécessaires pour
-assurer la confidentialité des informations qu'elle recueille dans l'exercice de
-sa mission et prévenir toute utilisation de ces informations, y compris, en son
-sein, pour des activités extérieures à cette mission.
+assurer la confidentialité des informations qu'elle recueille dans l'exercice
+des missions mentionnées au I et prévenir toute utilisation de ces informations,
+y compris en son sein, pour des activités extérieures à ces missions.
 
-III.-Un arrêté conjoint du ministre chargé de l'économie, des finances et de
-l'industrie et du ministre chargé de l'environnement approuve le modèle de
-convention, à conclure entre le teneur du registre et les titulaires de comptes.
+III.-Une convention règle l'organisation des relations de l'Etat avec la Caisse
+des dépôts et consignations pour l'exercice des missions exercées pour le compte
+de l'Etat et pour celui des autres utilisateurs ainsi que les conditions,
+notamment d'équilibre financier, d'exercice de ces différentes missions.
+
+IV.-Un arrêté conjoint du ministre chargé de l'environnement, du ministre chargé
+de l'économie, des finances et de l'industrie et du ministre chargé de
+l'aviation civile approuve les conventions types établies pour chaque catégorie
+de compte, à conclure à l'ouverture de tout compte, entre la Caisse des dépôts
+et consignations, administrateur national du registre européen, et chaque
+titulaire de comptes.

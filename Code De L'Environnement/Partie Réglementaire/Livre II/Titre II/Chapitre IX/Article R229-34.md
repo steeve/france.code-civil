@@ -1,8 +1,5 @@
 Article R229-34
 ----
-La Caisse des dépôts et consignations est chargée de la mise en place et de la
-tenue du registre national des quotas d'émission de gaz à effet de serre prévu
-par l'article L. 229-16.
-
-Le registre est un système informatisé, permettant d'enregistrer en temps réel
-les mouvements affectant les comptes des détenteurs de quotas.
+La Caisse des dépôts et consignations est chargée du rôle d'administrateur
+national du registre européen prévu à l'article L. 229-16, y compris en ce qui
+concerne le registre de la France en tant que partie au protocole de Kyoto.

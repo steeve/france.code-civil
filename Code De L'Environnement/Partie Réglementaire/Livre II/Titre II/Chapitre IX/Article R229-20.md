@@ -6,8 +6,9 @@ l'année précédente, vérifiée par un organisme déclaré auprès de l'autori
 administrative et accrédité à cet effet. Cette déclaration, accompagnée du
 rapport établi par l'organisme vérificateur, est adressée par voie électronique.
 
-Les modalités de validation et de transmission de la déclaration au teneur du
-registre sont fixées par l'arrêté prévu à l'article L. 229-6.
+Les modalités de validation et de transmission de la déclaration à
+l'administrateur national du registre européen sont fixées par l'arrêté prévu à
+l'article L. 229-6.
 
 En cas d'absence de déclaration, ou de déclaration ne répondant pas aux
 conditions du I de l'article L. 229-18, le préfet met en oeuvre la procédure
