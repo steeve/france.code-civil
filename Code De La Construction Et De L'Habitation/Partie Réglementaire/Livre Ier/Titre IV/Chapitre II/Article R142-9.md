@@ -39,8 +39,8 @@ soumises par le ministre chargé de la construction.
 
 Le conseil d'administration peut dans les conditions et limites qu'il détermine,
 déléguer au président, tout ou partie de ses attributions prévues aux 2°, 7°,
-10° et 13°. Le président rend compte, lors de la plus proche séance du conseil
-d'administration, des décisions prises dans le cadre de ces délégations.
+10°, 12 et 13°. Le président rend compte, lors de la plus proche séance du
+conseil d'administration, des décisions prises dans le cadre de ces délégations.
 
 Les délibérations mentionnées aux 5°, 6° et 9° sont soumises à l'approbation des
 ministres chargés de la construction et du budget. Elles sont exécutoires dès
