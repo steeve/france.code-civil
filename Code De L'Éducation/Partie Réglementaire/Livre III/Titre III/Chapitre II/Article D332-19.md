@@ -5,10 +5,7 @@ territorial, fixé par le recteur d'académie, peut être académique, départem
 ou commun à plusieurs départements.
 
 Le jury est présidé par le recteur d'académie ou par le directeur académique des
-services de l'éducation nationale agissant sur délégation du recteur d'académie
-ou, lorsqu'il est commun à plusieurs départements, par un inspecteur d'académie,
-directeur des services départementaux de l'éducation nationale, désigné par le
-recteur.
+services de l'éducation nationale agissant sur délégation du recteur d'académie.
 
 Le président nomme les autres membres du jury dans des conditions précisées par
 arrêté du ministre de l'éducation nationale.
