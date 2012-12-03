@@ -1,7 +1,9 @@
 Article R312-5
 ----
 L'essieu le plus chargé d'un véhicule ou d'un élément de véhicule ne doit pas
-supporter une charge supérieure à 13 tonnes.
+supporter une charge supérieure à 13 tonnes, cette limite étant fixée à 12
+tonnes pour les véhicules articulés d'un ensemble composé d'un véhicule à moteur
+et d'une remorque d'un train double circulant entre 40 et 44 tonnes.
 
 Le ministre chargé des transports détermine par arrêté les conditions
 dérogatoires applicables à certains matériels de travaux publics.

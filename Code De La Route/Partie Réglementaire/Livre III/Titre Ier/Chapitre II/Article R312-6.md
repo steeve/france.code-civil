@@ -39,6 +39,11 @@ b) 16 tonnes ;
 4° Pour une distance entre les deux essieux supérieure ou égale à 1,35 mètre et
 inférieure à 1,80 mètre : 19 tonnes.
 
+II bis. - Lorsque les véhicules articulés d'un ensemble composé d'un véhicule à
+moteur et d'une remorque d'un train double circulent entre 40 et 44 tonnes et
+comportent un groupe de trois essieux, la charge totale supportée par ce groupe
+ne doit pas dépasser 27 tonnes.
+
 III.-Le ministre chargé des transports détermine par arrêté les conditions
 dérogatoires applicables à certains matériels de travaux publics.
 
