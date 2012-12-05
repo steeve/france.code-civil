@@ -2,7 +2,7 @@ Article R152-2
 ----
 Les délibérations du conseil d'administration et du comité d'action sanitaire et
 sociale des organismes de mutualité sociale agricole sont immédiatement
-communiquées au responsable du service mentionné à l'article R. 155-2.
+communiquées au responsable du service mentionné à l'article R. 155-1.
 
 La communication doit être accompagnée de tout document de nature à éclairer le
 sens et la portée des décisions prises, notamment en ce qui concerne les

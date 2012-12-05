@@ -21,7 +21,7 @@ cotisations supplémentaires ou de la date de notification de sa décision de
 classement de l'exploitation ou de l'entreprise agricole dans une des catégories
 de risque retenues par le ministre chargé de l'agriculture.
 
-Le recours du responsable du service mentionné à l'article R. 155-2 est
+Le recours du responsable du service mentionné à l'article R. 155-1 est
 introduit dans le même délai à compter du jour de la décision.
 
 Au cas où le requérant aurait, au préalable, dans les conditions de délai
