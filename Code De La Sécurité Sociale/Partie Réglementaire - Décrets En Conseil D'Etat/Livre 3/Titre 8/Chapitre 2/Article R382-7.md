@@ -11,3 +11,6 @@ Ils procèdent au recensement permanent des artistes auteurs et des diffuseurs,
 et assurent d'une manière générale les tâches administratives et comptables
 définies par les articles R. 382-16 et suivants et par la convention prévue au
 dernier alinéa de l'article R. 382-29.
+
+Ils assurent et contrôlent le recouvrement de la contribution instituée par
+l'article L. 6331-65 du code du travail.
