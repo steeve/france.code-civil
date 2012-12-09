@@ -2,7 +2,7 @@ Article D614-2
 ----
 I. - Le comité consultatif de la législation et de la réglementation financières
 est présidé par le ministre chargé de l'économie ou son représentant. Le comité
-comprend quatorze autres membres :
+comprend dix-sept autres membres :
 
 1° Un député, désigné par le président de l'Assemblée nationale ;
 
@@ -18,11 +18,12 @@ représentants ;
 5° Le directeur des affaires civiles et du sceau au ministère de la justice, ou
 son représentant ;
 
-6° Deux représentants des établissements de crédit et des entreprises
+5° bis Le directeur de la sécurité sociale ou son représentant ;
+
+6° Trois représentants des établissements de crédit et des entreprises
 d'investissement ;
 
-7° Deux représentants des sociétés d'assurance régies par le code des assurances
-;
+7° Trois représentants des organismes d'assurance ;
 
 8° Un représentant des organisations syndicales représentatives au plan national
 du personnel des secteurs bancaire et de l'assurance, et des entreprises
@@ -48,7 +49,7 @@ suppléants sont nommés par arrêté du ministre chargé de l'économie.
 II. - Le comité consultatif de la législation et de la réglementation
 financières dispose d'un secrétariat général dirigé par un secrétaire général
 nommé par arrêté du ministre chargé de l'économie. Le secrétaire général est
-assisté de deux secrétaires généraux adjoints nommés dans les mêmes conditions.
+assisté d'un secrétaire général adjoint nommé dans les mêmes conditions.
 
 III. - Le comité se réunit sur convocation de son président. Il ne peut
 délibérer que sur les questions inscrites à l'ordre du jour annexé à la
