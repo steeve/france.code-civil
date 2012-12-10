@@ -1,4 +1,7 @@
 Article D3126-4
 ----
-L'organisation et le fonctionnement de la direction générale de la sécurité
-extérieure sont fixés par arrêté du ministre de la défense.
+La direction générale de la sécurité extérieure organise et met en œuvre les
+moyens matériels et les prestations nécessaires à ses missions.
+
+Son organisation et son fonctionnement sont fixés par arrêté du ministre de la
+défense.
