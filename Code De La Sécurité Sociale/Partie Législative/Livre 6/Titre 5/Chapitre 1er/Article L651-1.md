@@ -30,26 +30,26 @@ réalisées sur ce territoire et le rendant passibles de l'impôt sur les socié
 réalisées sur le territoire de la France métropolitaine ou des départements
 d'outre-mer ;
 
-9°) Des organismes suivants, non mentionnés aux 1° à 8° :
+9°) Indépendamment de leur forme juridique, des établissements et entreprises
+exerçant l'activité définie à l'article L. 511-1 du code monétaire et financier
+et relevant des chapitres Ier à VII ainsi que de la section 2 du chapitre VIII
+du titre Ier du livre V du même code ;
 
-établissements et entreprises exerçant l'activité définie à l'article L. 511-1
-du code monétaire et financier et relevant des chapitres Ier à VII ainsi que de
-la section 2 du chapitre VIII du titre Ier du livre V du même code, entreprises
+9° bis) Indépendamment de leur forme juridique, des entreprises ou sociétés
 d'assurance, de capitalisation et de réassurance de toute nature régies par le
-code des assurances, mutuelles et unions de mutuelles relevant du livre II du
-code de la mutualité, institutions de prévoyance et unions d'institutions de
-prévoyance relevant du titre III du livre IX du présent code et institutions de
-prévoyance relevant du II de l'article L. 727-2 du code rural et de la pêche
-maritime ;
+code des assurances, des mutuelles et unions de mutuelles relevant du livre II
+du code de la mutualité, des institutions de prévoyance et unions d'institutions
+de prévoyance relevant du titre III du livre IX du présent code ou du titre VII
+du livre VII du code rural et de la pêche maritime ;
 
-10°) Des sociétés ou organismes non visés aux 1° à 9° qui sont régis par la loi
-n° 47-1775 du 10 septembre 1947 portant statut de la coopération, à l'exception
-de ceux visés à l'article L. 521-1 du code rural qui ont pour objet exclusif
-d'assurer l'approvisionnement de leurs associés coopérateurs en leur procurant
-les produits, les équipements, les instruments et les animaux nécessaires à
-leurs exploitations agricoles et des sociétés coopératives agricoles ayant pour
-objet exclusif l'utilisation de matériels agricoles par les associés
-coopérateurs ;
+10°) Des sociétés ou organismes non visés aux 1° à 9° bis qui sont régis par la
+loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, à
+l'exception de ceux visés à l'article L. 521-1 du code rural qui ont pour objet
+exclusif d'assurer l'approvisionnement de leurs associés coopérateurs en leur
+procurant les produits, les équipements, les instruments et les animaux
+nécessaires à leurs exploitations agricoles et des sociétés coopératives
+agricoles ayant pour objet exclusif l'utilisation de matériels agricoles par les
+associés coopérateurs ;
 
 11°) Des sociétés européennes au sens de l'article L. 229-1 du code de commerce
 et des sociétés coopératives européennes, au sens du règlement (CE) 1435/2003 du

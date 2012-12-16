@@ -6,4 +6,4 @@ chirurgiens-dentistes, sages-femmes et auxiliaires médicaux conventionnés
 mentionnés à l'article L. 722-1. Le taux de cette cotisation additionnelle à la
 cotisation dont sont redevables personnellement les personnes assujetties en
 application des dispositions de l'article L. 722-4, ainsi que les modalités de
-son versement, sont fixés par arrêté interministériel.
+son versement, sont fixés par décret.

@@ -4,10 +4,7 @@ Les sociétés et entreprises assujetties à la contribution sociale de solidari
 sont tenues d'indiquer annuellement à l'organisme chargé du recouvrement de
 cette contribution le montant de leur chiffre d'affaires global déclaré à
 l'administration fiscale, calculé hors taxes sur le chiffre d'affaires et taxes
-assimilées ; à ce montant doivent être ajoutés pour les sociétés d'assurance et
-de capitalisation et les sociétés de réassurances, les produits de leur
-exploitation n'entrant pas dans le champ d'application des taxes sur le chiffre
-d'affaires. De ce montant sont déduits, en outre, les droits ou taxes indirects
+assimilées. De ce montant sont déduits, en outre, les droits ou taxes indirects
 et les taxes intérieures de consommation, versés par ces sociétés et
 entreprises, grevant les produits médicamenteux et de parfumerie, les boissons,
 ainsi que les produits pétroliers.
@@ -26,52 +23,53 @@ d'affaires ainsi déterminé, le montant cumulé de la contribution sociale de
 solidarité et de la contribution additionnelle instituée à l'article L. 245-13
 du présent code ne peut excéder 1,6 % du produit net bancaire.
 
-Le chiffre d'affaires des intermédiaires mentionnés au V de l'article 256 et au
-III de l'article 256 bis du code général des impôts, et qui bénéficient des
-dispositions de l'article 273 octies du même code, est diminué de la valeur des
-biens ou des services qu'ils sont réputés acquérir ou recevoir. Dans le cas
-d'entremise à la vente, les commettants des intermédiaires auxquels cette
-disposition s'applique majorent leur chiffre d'affaires du montant des
-commissions versées.
+Pour les redevables mentionnés au 9° bis de l'article L. 651-1, le chiffre
+d'affaires est celui défini au 1 du VI de l'article 1586 sexies du code général
+des impôts, à l'exception des reprises sur réserves sur capitalisation.
+Toutefois, le chiffre d'affaires annuel afférent aux opérations sur devises et
+aux ajustements sur opérations à capital variable est constitué par le résultat
+net positif de chacune de ces catégories. Ne sont comprises dans le chiffre
+d'affaires retenu pour asseoir la contribution ni les cotisations, primes et
+acceptations provenant de contrats d'assurance maladie relatifs à des opérations
+individuelles et collectives à adhésion facultative à la condition que
+l'organisme ne recueille pas d'informations médicales auprès de l'assuré au
+titre de ce contrat ou des personnes souhaitant bénéficier de cette couverture,
+que les cotisations ou les primes ne soient pas fixées en fonction de l'état de
+santé de l'assuré et que ces garanties respectent les conditions mentionnées à
+l'article L. 871-1, ou de contrats d'assurance maladie relatifs à des opérations
+collectives à adhésion obligatoire à la condition que les cotisations ou les
+primes ne soient pas fixées en fonction de l'état de santé de l'assuré et que
+ces garanties respectent les conditions mentionnées au même article L. 871-1, ni
+les remises qui leur sont versées dans le cadre de leur participation à la
+gestion d'un régime légal d'assurance maladie et maternité, ni les subventions
+accordées par le fonds prévu à l'article L. 421-1 du code de la mutualité.
+
+Pour les commissionnaires au sens de l'article L. 132-1 du code de commerce qui
+s'entremettent dans une livraison de biens ou de services, l'assiette de la
+contribution est constituée par le montant de leur commission, sous réserve que
+les conditions suivantes soient simultanément remplies :
+
+1° L'opération d'entremise est rémunérée exclusivement par une commission dont
+le taux est fixé au préalable d'après le prix, la quantité ou la nature des
+biens ou des services ;
+
+2° Il est rendu compte au commettant du prix auquel l'intermédiaire a traité
+l'opération avec l'autre contractant ;
+
+3° L'intermédiaire qui réalise ces opérations d'entremise doit agir en vertu
+d'un mandat préalable et ne jamais devenir propriétaire des biens ;
+
+4° Les opérations ne sont pas réalisées par des personnes établies en France qui
+s'entremettent dans la livraison de biens ou l'exécution des services par des
+redevables qui n'ont pas établi dans l'Union européenne le siège de leur
+activité, un établissement stable, leur domicile ou leur résidence habituelle.
+
+Dans le cas d'entremise à la vente, les commettants des intermédiaires auxquels
+les cinquième à neuvième alinéas s'appliquent majorent leur chiffre d'affaires
+du montant des commissions versées.
 
 Le chiffre d'affaires retenu pour asseoir la contribution prévue par l'article
 L. 138-1 est exclu de l'assiette de la contribution sociale de solidarité.
-
-Pour les sociétés d'assurances et de capitalisation régies par le code des
-assurances et les sociétés de réassurances, l'assiette de la contribution
-sociale de solidarité est constituée, pour leur activité principale, par les
-primes et acceptations de l'exercice, nettes de cessions et rétrocessions,
-telles qu'elles ressortent du compte de résultat, conforme aux dispositions
-relatives à la comptabilité des entreprises d'assurances et de capitalisation.
-
-Pour les mutuelles et unions de mutuelles relevant du livre II du code de la
-mutualité, institutions de prévoyance et unions d'institutions de prévoyance
-relevant du titre III du livre IX du présent code et institutions de prévoyance
-relevant de la section 4 du chapitre II du titre II du livre VII du code rural
-et de la pêche maritime, l'assiette de la contribution sociale de solidarité est
-constituée, pour leur activité principale, par les cotisations, primes et
-acceptations de l'exercice, nettes de cessions et de rétrocessions, telles
-qu'elles ressortent du compte de résultat, conforme aux dispositions relatives à
-la comptabilité des mutuelles et institutions de prévoyance.
-
-Pour les redevables mentionnés aux deux alinéas précédents, ne sont comprises
-dans le chiffre d'affaires retenu pour asseoir la contribution ni les
-cotisations, primes et acceptations provenant de contrats d'assurance maladie
-relatifs à des opérations individuelles et collectives à adhésion facultative à
-la condition que l'organisme ne recueille pas d'informations médicales auprès de
-l'assuré au titre de ce contrat ou des personnes souhaitant bénéficier de cette
-couverture, que les cotisations ou les primes ne soient pas fixées en fonction
-de l'état de santé de l'assuré et que ces garanties respectent les conditions
-mentionnées à l'article L. 871-1, ou de contrats d'assurance maladie relatifs à
-des opérations collectives à adhésion obligatoire à la condition que les
-cotisations ou les primes ne soient pas fixées en fonction de l'état de santé de
-l'assuré et que ces garanties respectent les conditions mentionnées au même
-article L. 871-1, ni les remises qui leur sont versées dans le cadre de leur
-participation à la gestion d'un régime légal d'assurance maladie et maternité.
-
-Pour les redevables mentionnés au cinquième alinéa, ne sont pas comprises dans
-le chiffre d'affaires retenu pour asseoir la contribution des subventions
-accordées par le fonds prévu à l'article L. 421-1 du code de la mutualité.
 
 Par dérogation au premier alinéa, les entreprises dont le chiffre d'affaires,
 calculé selon les modalités prévues aux alinéas précédents, est inférieur au

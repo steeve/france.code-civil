@@ -1,11 +1,7 @@
 Article L2123-25-2
 ----
-Lorsque les maires et, dans les communes de 20 000 habitants au moins, les
-adjoints ont cessé d'exercer toute activité professionnelle pour l'exercice de
-leur mandat et ne relèvent plus, à titre obligatoire, d'un régime de sécurité
-sociale, ils sont affiliés au régime général de la sécurité sociale pour les
-prestations en nature et en espèces des assurances maladie, maternité,
-invalidité et décès.
+Les élus municipaux sont affiliés au régime général de sécurité sociale dans les
+conditions définies à l'article L. 382-31 du code de la sécurité sociale.
 
 Les cotisations des communes et celles de l'élu sont calculées sur le montant
 des indemnités effectivement perçues par ce dernier en application des

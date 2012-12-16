@@ -18,10 +18,8 @@ décret.
 
 II.-Les ressources du fonds sont constituées par une dotation des régimes
 obligatoires d'assurance maladie dont le montant est fixé chaque année par la
-loi de financement de la sécurité sociale. La répartition entre le régime
-général d'assurance maladie, les régimes d'assurance maladie des professions
-agricoles et le régime social des indépendants est fixée par arrêté du ministre
-chargé de la sécurité sociale.
+loi de financement de la sécurité sociale. Le versement et la répartition de la
+dotation entre les régimes sont réalisés dans des conditions fixées par décret.
 
 III.-Le fonds dispose d'un comité national de gestion associant des
 représentants de l'Etat et des représentants du collège des directeurs de

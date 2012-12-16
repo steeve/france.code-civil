@@ -8,12 +8,12 @@ général des impôts, nette des frais d'assiette et de recouvrement déterminé
 dans les conditions prévues au III de l'article 1647 du même code, est versé :
 
 -à la branche mentionnée au 3° de l'article L. 200-2 du présent code, pour une
-fraction correspondant à 59,03 % ;
+fraction correspondant à 56,8 % ;
 
 -à la branche mentionnée au 4° du même article, pour une fraction correspondant
-à 24,27 % ;
+à 27,1 % ;
 
--au fonds mentionné à l'article L. 135-1, pour une fraction correspondant à 16,7
+-au fonds mentionné à l'article L. 135-1, pour une fraction correspondant à 16,1
 % ;
 
 2° (Abrogé)
@@ -34,13 +34,13 @@ mentionnée au même 1° ;
 du code général des impôts est versé :
 
 a) A la branche mentionnée au 1° de l'article L. 200-2 du présent code, pour une
-fraction correspondant à 58,10 % ;
+fraction correspondant à 68,14 % ;
 
 b) A la branche mentionnée au 4° du même article L. 200-2, pour une fraction
-correspondant à 7,86 % ;
+correspondant à 7,27 % ;
 
 c) A la branche mentionnée au 2° de l'article L. 722-8 du code rural et de la
-pêche maritime, pour une fraction correspondant à 15,44 % ;
+pêche maritime, pour une fraction correspondant à 9,46 % ;
 
 d) Au régime d'assurance vieillesse complémentaire obligatoire mentionné à
 l'article L. 732-56 du même code, pour une fraction correspondant à 1,89 % ;
@@ -63,11 +63,8 @@ institué au III de l'article 41 de la loi de financement de la sécurité socia
 pour 1999 (n° 98-1194 du 23 décembre 1998), pour une fraction correspondant à
 0,31 % ;
 
-h) Au fonds mentionné à l'article L. 351-6 du code de la construction et de
-l'habitation, pour une fraction correspondant à 1,48 % ;
-
-i) Au fonds mentionné à l'article L. 5423-24 du code du travail, pour une
-fraction correspondant à 1,25 %.
+h) Au fonds mentionné à l'article L. 862-1 du présent code, pour une fraction
+correspondant à 3,15 %.
 
 L'Agence centrale des organismes de sécurité sociale et les fonds mentionnés au
 présent article est chargée de centraliser et répartir le produit des taxes et

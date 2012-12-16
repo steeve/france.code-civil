@@ -1,37 +1,16 @@
 Article L133-7
 ----
-Les cotisations et contributions sociales d'origine légale et les cotisations et
-contributions conventionnelles rendues obligatoires par la loi, dues au titre
-des rémunérations versées aux salariés mentionnés à l'article L. 772-1 du code
-du travail et aux personnes mentionnées au 2° de l'article L. 722-20 du code
-rural et de la pêche maritime employées par des particuliers pour la mise en
-état et l'entretien de jardins, sont calculées, d'un commun accord entre
-l'employeur et le salarié :
-
-1° Soit sur une assiette égale, par heure de travail, à une fois la valeur
-horaire du salaire minimum de croissance applicable au premier jour du trimestre
-civil considéré ;
-
-2° Soit sur les rémunérations réellement versées au salarié.
-
-En l'absence d'accord entre l'employeur et le salarié ou à défaut de choix
-mentionné par l'employeur, il est fait application du 2° ci-dessus.
+L'ensemble des cotisations et contributions sociales dues au titre des
+rémunérations versées aux salariés mentionnés à l'article L. 7221-1 du code du
+travail et aux personnes mentionnées aux 2° et 3° de l'article L. 722-20 du code
+rural et de la pêche maritime sont recouvrées sous les garanties et sanctions
+applicables, respectivement, au recouvrement des cotisations du régime général
+de sécurité sociale assises sur les salaires et au recouvrement des cotisations
+du régime de protection sociale des salariés des professions agricoles assises
+sur les salaires.
 
 Des conventions fixent les conditions dans lesquelles les institutions
-mentionnées au livre IX et à l'article L. 351-21 du code du travail délèguent le
-recouvrement desdites cotisations et contributions sociales aux organismes de
-recouvrement du régime général et, pour les salariés relevant du régime
-agricole, aux caisses de mutualité sociale agricole.
-
-Le recouvrement par voie amiable et contentieuse de ces cotisations et
-contributions sociales est assuré pour le compte de l'ensemble des organismes
-intéressés :
-
-1° Pour les salariés relevant du régime général, par les organismes mentionnés
-aux articles L. 213-1 et L. 752-4, sous les garanties et sanctions applicables
-au recouvrement des cotisations du régime général de sécurité sociale assises
-sur les salaires ;
-
-2° Pour les salariés relevant du régime agricole, par les caisses de mutualité
-sociale agricole, sous les garanties et sanctions applicables au recouvrement
-des cotisations de ce régime assises sur les salaires.
+mentionnées au livre IX délèguent le recouvrement des cotisations d'origine
+légale ou conventionnelle qui leur sont dues aux organismes de recouvrement du
+régime général et, pour les salariés relevant du régime agricole, aux caisses de
+mutualité sociale agricole.

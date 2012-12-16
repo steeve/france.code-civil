@@ -1,11 +1,8 @@
 Article L4135-20-2
 ----
-Lorsque le président du conseil régional ou tout vice-président ayant reçu
-délégation de celui-ci a cessé d'exercer toute activité professionnelle pour
-l'exercice de son mandat et ne relève plus, à titre obligatoire, d'un régime de
-sécurité sociale, il est affilié au régime général de la sécurité sociale pour
-les prestations en nature et en espèces des assurances maladie, maternité,
-invalidité et décès.
+Les membres du conseil régional sont affiliés au régime général de sécurité
+sociale dans les conditions définies à l'article L. 382-31 du code de la
+sécurité sociale.
 
 Les cotisations des régions et celles de l'élu sont calculées sur le montant des
 indemnités effectivement perçues par ce dernier en application des dispositions

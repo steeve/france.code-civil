@@ -1,7 +1,9 @@
 Article L732-12-1
 ----
-Les pères appartenant aux catégories mentionnées aux 1° et 2°, au a du 4° et au
-5° de l'article L. 722-10 bénéficient, à l'occasion de la naissance ou de
+Le père ainsi que, le cas échéant, le conjoint de la mère ou la personne liée à
+elle par un pacte civil de solidarité ou vivant maritalement avec elle,
+lorsqu'ils appartiennent aux catégories mentionnées aux 1° et 2°, au a du 4° et
+au 5° de l'article L. 722-10 bénéficient, à l'occasion de la naissance ou de
 l'arrivée à leur foyer d'un enfant confié en vue de son adoption par un service
 d'aide sociale à l'enfance ou par un organisme autorisé pour l'adoption, sur
 leur demande et sous réserve de se faire remplacer par du personnel salarié dans

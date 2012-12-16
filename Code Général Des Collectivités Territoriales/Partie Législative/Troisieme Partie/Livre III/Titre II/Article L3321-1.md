@@ -11,7 +11,7 @@ l'entretien de l'hôtel du département ;
 
 3° Les cotisations au régime général de la sécurité sociale en application de
 l'article L. 3123-20-2 et les cotisations aux régimes de retraites des élus en
-application des articles L. 3123-21 à L. 3123-24 ;
+application des articles L. 3123-22 à L. 3123-24 ;
 
 4° La cotisation au Centre national de la fonction publique territoriale ;
 
