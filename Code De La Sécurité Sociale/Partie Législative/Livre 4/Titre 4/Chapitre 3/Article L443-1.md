@@ -19,12 +19,13 @@ suivants.
 
 Dans le cas où la victime avait été admise au bénéfice des dispositions du
 troisième alinéa de l'article L. 434-2 et, à la date de son décès, avait été
-titulaire, pendant au moins une durée fixée par décret, de la majoration pour
-assistance d'une tierce personne, le décès est présumé résulter des conséquences
-de l'accident pour l'appréciation de la demande de l'ayant droit qui justifie
-avoir apporté effectivement cette assistance à la victime pendant la même durée.
-A défaut pour la caisse, d'apporter la preuve contraire, l'imputabilité du décès
-à l'accident est réputée établie à l'égard de l'ensemble des ayants droit.
+titulaire, pendant au moins une durée fixée par décret, de la prestation
+complémentaire pour recours à tierce personne, le décès est présumé résulter des
+conséquences de l'accident pour l'appréciation de la demande de l'ayant droit
+qui justifie avoir apporté effectivement cette assistance à la victime pendant
+la même durée. A défaut pour la caisse, d'apporter la preuve contraire,
+l'imputabilité du décès à l'accident est réputée établie à l'égard de l'ensemble
+des ayants droit.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article
 en ce qui concerne, notamment, le contrôle médical auquel la victime est tenue

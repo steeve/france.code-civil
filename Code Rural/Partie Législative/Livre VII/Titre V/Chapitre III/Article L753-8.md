@@ -20,9 +20,9 @@ correspondant, si celui qui résulte de l'ensemble des accidents est au moins
 l'allocation mentionnée à l'article L. 753-14 dans le cas où l'accident a
 occasionné une incapacité totale de travail obligeant la victime à avoir recours
 à l'assistance d'une tierce personne pour effectuer les actes ordinaires de la
-vie. Son montant est égal à 40 % de la rente majorée conformément aux 1° et 2°,
-sans qu'il puisse être inférieur au minimum prévu à l'article L. 434-2 du code
-de la sécurité sociale ;
+vie. Son montant est calculé conformément aux dispositions prévues pour la
+prestation complémentaire pour recours à tierce personne mentionnée au troisième
+alinéa de l'article L. 434-2 du code de la sécurité sociale ;
 
 4° La majoration calculée comme indiqué au 1° due aux assurés des professions
 agricoles bénéficiaires de l'assurance facultative si leur rente a été liquidée

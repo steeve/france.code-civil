@@ -20,9 +20,11 @@ c) Des personnes titulaires :
 l'article L. 245-3 du code de l'action sociale et des familles ;
 
 -soit d'une majoration pour tierce personne servie au titre de l'assurance
-invalidité, de la législation des accidents du travail ou d'un régime spécial de
-sécurité sociale ou de l'article L. 18 du code des pensions militaires
-d'invalidité et des victimes de la guerre ;
+invalidité, d'un régime spécial de sécurité sociale ou de l'article L. 18 du
+code des pensions militaires d'invalidité et des victimes de la guerre ;
+
+- soit d'une prestation complémentaire pour recours à tierce personne servie au
+titre de la législation des accidents du travail ;
 
 d) Des personnes se trouvant, dans des conditions définies par décret, dans
 l'obligation de recourir à l'assistance d'une tierce personne pour accomplir les

@@ -11,7 +11,8 @@ effectuer les actes ordinaires de la vie, reçoit :
 1°) s'il y a lieu, une allocation portant le montant annuel de sa rente à celui
 de la rente calculée sur la base du taux d'incapacité permanente totale ;
 
-2°) une majoration calculée conformément aux dispositions de l'article L. 434-2.
+2°) la prestation complémentaire pour recours à tierce personne mentionnée à
+l'article L. 434-2 ;
 
 Il incombe au demandeur d'apporter la preuve :
 

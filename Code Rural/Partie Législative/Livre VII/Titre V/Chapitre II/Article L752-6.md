@@ -32,9 +32,9 @@ celle-ci. La rente est revalorisée selon les coefficients prévus à l'article 
 
 Dans le cas où l'incapacité permanente est totale et oblige la victime à avoir
 recours à l'assistance d'une tierce personne pour effectuer les actes ordinaires
-de la vie, le montant de la rente est majoré. La majoration ne peut être
-inférieure au montant minimum prévu au troisième alinéa de l'article L. 434-2 du
-code de la sécurité sociale.
+de la vie, cette victime a droit à la prestation complémentaire pour recours à
+tierce personne prévue au troisième alinéa de l'article L. 434-2 du code de la
+sécurité sociale.
 
 En cas d'accidents successifs, le taux ou la somme des taux d'incapacité
 permanente antérieurement reconnue constitue le point de départ de la réduction
