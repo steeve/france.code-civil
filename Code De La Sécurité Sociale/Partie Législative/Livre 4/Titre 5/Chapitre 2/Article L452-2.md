@@ -26,15 +26,5 @@ Le salaire annuel et la majoration visée au troisième et au quatrième alinéa
 présent article sont soumis à la revalorisation prévue pour les rentes par
 l'article L. 434-17.
 
-La majoration est payée par la caisse, qui en récupère le montant par
-l'imposition d'une cotisation complémentaire dont le taux et la durée sont fixés
-par la caisse d'assurance retraite et de la santé au travail sur la proposition
-de la caisse primaire, en accord avec l'employeur, sauf recours devant la
-juridiction de la sécurité sociale compétente.
-
-La cotisation complémentaire ainsi prévue ne peut être perçue au-delà d'une
-certaine durée et son taux excéder ni une fraction de la cotisation normale de
-l'employeur, ni une fraction des salaires servant de base à cette cotisation.
-
-Dans le cas de cession ou de cessation de l'entreprise, le capital correspondant
-aux arrérages à échoir est immédiatement exigible.
+La majoration est payée par la caisse, qui en récupère le capital représentatif
+auprès de l'employeur dans des conditions déterminées par décret.
