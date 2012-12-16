@@ -12,6 +12,7 @@ organique relative aux lois de finances ;
 
 4° Des produits divers, des dons et legs ainsi que des subventions de l'Etat,
 des collectivités publiques, de leurs établissements publics et des organismes
-d'assurance maladie ;
+d'assurance maladie ; La participation des organismes d'assurance maladie est
+versée et répartie entre les régimes dans des conditions fixées par décret ;
 
 5° Des emprunts.

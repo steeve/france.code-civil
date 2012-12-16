@@ -21,8 +21,8 @@ III. ― Le prescripteur informe le patient que la prescription de la spécialit
 pharmaceutique n'est pas conforme à son autorisation de mise sur le marché, de
 l'absence d'alternative médicamenteuse appropriée, des risques encourus et des
 contraintes et des bénéfices susceptibles d'être apportés par le médicament et
-porte sur l'ordonnance la mention : "Prescription hors autorisation de mise sur
-le marché”.
+porte sur l'ordonnance la mention : " Prescription hors autorisation de mise sur
+le marché ”.
 
 Il informe le patient sur les conditions de prise en charge, par l'assurance
 maladie, de la spécialité pharmaceutique prescrite.
@@ -46,3 +46,11 @@ l'entreprise qui l'exploite, dans des conditions précisées par une convention
 conclue avec l'agence. La convention peut comporter l'engagement, par le
 titulaire de l'autorisation, de déposer dans un délai déterminé une demande de
 modification de cette autorisation.
+
+V.-Par dérogation au I et à titre exceptionnel, en présence d'alternative
+médicamenteuse appropriée disposant d'une autorisation de mise sur le marché,
+une spécialité pharmaceutique peut faire l'objet d'une recommandation temporaire
+d'utilisation établie dans les conditions prévues aux I à IV. Cette
+recommandation temporaire d'utilisation ne peut être établie que dans l'objectif
+soit de remédier à un risque avéré pour la santé publique, soit d'éviter des
+dépenses ayant un impact significatif sur les finances de l'assurance maladie.

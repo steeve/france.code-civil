@@ -11,9 +11,10 @@ code ;
 
 2° (Abrogé)
 
-3° Des indemnités exclues de l'assiette des cotisations de sécurité sociale en
-application du douzième alinéa de l'article L. 242-1 du présent code et du
-troisième alinéa de l'article L. 741-10 du code rural et de la pêche maritime ;
+3° Des indemnités de licenciement, de mise à la retraite ainsi que de départ
+volontaire versées dans le cadre d'un plan de sauvegarde de l'emploi qui sont
+exclues de l'assiette des cotisations de sécurité sociale en application du
+douzième alinéa de l'article L. 242-1 du présent code ;
 
 4° De l'avantage prévu à l'article L. 411-9 du code du tourisme.
 
@@ -30,6 +31,12 @@ Sont également soumises à cette contribution les sommes correspondant à la pr
 en charge par l'employeur de la part salariale des cotisations ou contributions
 destinées au financement des régimes de retraite complémentaire mentionnée au
 cinquième alinéa de l'article L. 242-1.
+
+Sont également soumises à cette contribution les indemnités versées à l'occasion
+de la rupture conventionnelle mentionnée aux articles L. 1237-11 à L. 1237-15 du
+code du travail, pour leur part exclue de l'assiette de la contribution
+mentionnée à l'article L. 136-1 du présent code en application du 5° du II de
+l'article L. 136-2.
 
 Par dérogation au premier alinéa, ne sont pas assujettis à cette contribution
 les employeurs de moins de dix salariés au titre des contributions versées au

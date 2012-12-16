@@ -32,9 +32,8 @@ destinées à favoriser une meilleure répartition géographique des professionn
 de santé, des maisons de santé, des pôles de santé et des centres de santé et
 prévues notamment par l'article L. 1434-8 du présent code, par les conventions
 mentionnées au chapitre II du titre VI du livre Ier du code de la sécurité
-sociale, par l'article L. 632-6 du code de l'éducation, par l'article L. 1511-8
-du code général des collectivités territoriales et par l'article 151 ter du code
-général des impôts.
+sociale, par l'article L. 1511-8 du code général des collectivités territoriales
+et par l'article 151 ter du code général des impôts.
 
 Il organise la coordination entre les différents services de santé mentionnés à
 l'alinéa précédent et les établissements de santé assurant une activité au

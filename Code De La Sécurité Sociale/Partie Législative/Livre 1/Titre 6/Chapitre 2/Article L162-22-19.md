@@ -26,8 +26,4 @@ missions, de celle du montant des dotations régionales et de celle du montant
 des dotations attribuées à chaque établissement ainsi que des critères
 d'attribution de ces dernières aux établissements ;
 
-3° Le processus de convergence des tarifs, tel que mentionné à l'article 33 de
-la loi de financement de la sécurité sociale pour 2004 (n° 2003-1199 du 18
-décembre 2003). A ce titre, le rapport met en perspective le programme précisant
-la méthode et les étapes permettant de progresser dans la réalisation de la
-convergence intersectorielle des tarifs avant l'échéance de 2018.
+3° Abrogé.

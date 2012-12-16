@@ -32,16 +32,13 @@ articles L. 1142-24-4, L. 1221-14, L. 3131-4, L. 3111-9 et L. 3122-2.
 
 Les recettes de l'office sont constituées par :
 
-1° Une dotation globale versée par les organismes d'assurance maladie dans des
-conditions fixées par décret. La répartition de cette dotation entre les
-différents régimes d'assurance maladie s'effectue dans les conditions prévues à
-l'article L. 174-2 du code de la sécurité sociale. Le montant de cette dotation
-est fixé chaque année par la loi de financement de la sécurité sociale ;
+1° Une dotation des régimes obligatoires d'assurance maladie versée et répartie
+dans des conditions fixées par décret ;
 
 2° Le produit des remboursements des frais d'expertise prévus aux articles L.
 1142-24-4, L. 1221-14, L. 1142-14 et L. 1142-15 ;
 
-3° Le produit des pénalités prévues aux articles L. 1142-14 , L. 1142-15, L.
+3° Le produit des pénalités prévues aux articles L. 1142-14, L. 1142-15, L.
 1142-24-6 et L. 1142-24-7 ;
 
 4° Le produit des recours subrogatoires mentionnés aux articles L. 1221-14, L.
@@ -51,9 +48,5 @@ est fixé chaque année par la loi de financement de la sécurité sociale ;
 
 6° Une dotation versée par l'Etat en application de l'article L. 3131-4 ;
 
-7° Une dotation versée par l'Etablissement français du sang couvrant l'ensemble
-des dépenses exposées en application de l'article L. 1221-14. Un décret fixe les
-modalités de versement de cette dotation ;
-
-8° Une dotation versée par l'Etat en application de la section 4 bis du présent
+7° Une dotation versée par l'Etat en application de la section 4 bis du présent
 chapitre.

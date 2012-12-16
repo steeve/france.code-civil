@@ -29,12 +29,5 @@ de leurs versements.
 
 II. ― Le taux de la taxe est fixé à 6,27 %.
 
-III. ― Les organismes visés au deuxième alinéa du I perçoivent, par imputation
-sur le montant de la taxe collectée selon les dispositions du même I et du II,
-un montant égal, pour chaque organisme, au produit de la somme de 92,50 € par le
-nombre de personnes bénéficiant, le dernier jour du deuxième mois du trimestre
-civil considéré, de la prise en charge des dépenses mentionnées à l'article L.
-861-3 au titre du b de l'article L. 861-4. Ils perçoivent également, selon la
-même procédure, un montant correspondant, pour chaque organisme, au quart du
-crédit d'impôt afférent aux contrats en vigueur le dernier jour du deuxième mois
-du trimestre civil.
+III.-Les modalités de versement ou d'imputation des remboursements prévus aux a
+et b de l'article L. 862-2 sont précisées par décret.

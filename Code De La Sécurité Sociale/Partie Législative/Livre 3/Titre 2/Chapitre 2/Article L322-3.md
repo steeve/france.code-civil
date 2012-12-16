@@ -80,12 +80,18 @@ au 9° de l'article L. 321-1 ;
 publique, en ce qui concerne l'ensemble des frais engagés au titre du
 prélèvement d'éléments du corps humain et de la collecte de ces produits ;
 
-19° Pour les frais de transport liés aux soins ou traitements dans les centres
+19°) Pour les frais de transport liés aux soins ou traitements dans les centres
 mentionnés au 3° du I de l'article L. 312-1 du code de l'action sociale et des
 familles et les centres médico-psycho pédagogiques autorisés dans des conditions
 fixées par voie réglementaire, après accord préalable de l'organisme qui sert
 les prestations, dans les conditions prévues au 2° de l'article L. 321-1 et à
-l'article L. 322-5 du présent code.
+l'article L. 322-5 du présent code ;
+
+20°) Pour les frais liés à une interruption volontaire de grossesse mentionnée
+au 4° de l'article L. 321-1 ;
+
+21°) Pour l'assurée mineure d'au moins quinze ans, pour les frais d'acquisition
+de certains contraceptifs.
 
 La liste mentionnée au 3° du présent article comporte également en annexe les
 critères médicaux utilisés pour la définition de l'affection et ouvrant droit à

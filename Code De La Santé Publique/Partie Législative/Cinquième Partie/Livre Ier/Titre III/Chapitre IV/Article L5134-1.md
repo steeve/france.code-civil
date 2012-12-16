@@ -4,6 +4,9 @@ I.-Le consentement des titulaires de l'autorité parentale ou, le cas échéant,
 représentant légal n'est pas requis pour la prescription, la délivrance ou
 l'administration de contraceptifs aux personnes mineures.
 
+La délivrance et la prise en charge de contraceptifs sont protégées par le
+secret pour les personnes mineures.
+
 La délivrance aux mineures des médicaments ayant pour but la contraception
 d'urgence et qui ne sont pas soumis à prescription médicale obligatoire
 s'effectue à titre gratuit dans les pharmacies selon des conditions définies par

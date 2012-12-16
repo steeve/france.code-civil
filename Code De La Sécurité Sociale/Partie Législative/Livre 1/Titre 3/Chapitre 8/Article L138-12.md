@@ -18,8 +18,9 @@ mise à la charge de chaque entreprise redevable, est égale au rapport entre le
 montant versé par l'entreprise en application de l'article L. 245-1 et le
 montant total de la contribution versée au même titre par l'ensemble des
 entreprises redevables de la contribution prévue à l'article L. 138-10 à
-l'échéance du 1er décembre de l'année au titre de laquelle la contribution visée
-à l'article L. 138-10 est due, multiplié par le montant total de ladite part.
+l'échéance du 1er mars de l'année suivant celle au titre de laquelle la
+contribution visée à l'article L. 138-10 est due, multiplié par le montant total
+de ladite part.
 
 Un arrêté du ministre chargé de la sécurité sociale et du ministre chargé du
 budget fixe les éléments nécessaires au calcul des parts de contribution

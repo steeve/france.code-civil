@@ -16,9 +16,8 @@ l'allocation de logement familiale et de la prime de déménagement. Cette
 contribution peut être calculée au moyen de formules forfaitaires selon des
 modalités fixées par décret en Conseil d'Etat ;
 
-d) Une fraction de 1,48 % du droit de consommation prévu à l'article 575 du code
-général des impôts ; cette fraction est perçue par l'Agence centrale des
-organismes de sécurité sociale et affectée au Fonds national d'aide au logement.
+d) La part, fixée au 2° du IV de l'article 1600-0 S du code général des impôts,
+du produit des prélèvements de solidarité mentionnés à ce même article.
 
 L'Etat assure l'équilibre des recettes et des dépenses du fonds national d'aide
 au logement.

@@ -5,7 +5,8 @@ durée du congé :
 
 1° Les périodes de congé payé ;
 
-2° Les périodes de congé maternité, paternité et d'adoption ;
+2° Les périodes de congé de maternité, de paternité et d'accueil de l'enfant et
+d'adoption ;
 
 3° Les contreparties obligatoires en repos prévues par l'article L. 3121-11 du
 présent code et l'article L. 713-9 du code rural et de la pêche maritime ;

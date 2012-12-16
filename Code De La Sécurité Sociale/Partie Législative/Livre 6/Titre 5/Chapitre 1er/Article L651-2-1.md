@@ -11,6 +11,8 @@ solidarité attribués au titre des exercices antérieurs ou à titre d'acomptes
 provisionnels.
 
 Le solde du produit de la contribution résultant de l'application du premier
-alinéa est affecté au fonds mentionné à l'article L. 135-1 dans les conditions
+alinéa ainsi que les produits financiers générés par les placements de la
+contribution opérés, le cas échéant, par l'organisme mentionné à l'article L.
+651-4 sont affectés au fonds mentionné à l'article L. 135-1 dans les conditions
 fixées par un arrêté des ministres chargés de la sécurité sociale et du budget.
 La répartition de la contribution peut faire l'objet d'acomptes provisionnels.

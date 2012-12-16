@@ -26,14 +26,14 @@ livre ;
 cotisations et aux contributions de sécurité sociale recouvrées par les
 organismes de recouvrement visés aux articles L. 213-1 et L. 752-4 ;
 
-3° ter D'autoriser lesdits organismes à porter les litiges devant la Cour de
-cassation ;
+3° ter D'autoriser les organismes de recouvrement à saisir le comité mentionné à
+l'article L. 243-7-2 et à porter les litiges devant la Cour de cassation ;
 
 3° quater D'harmoniser les positions prises par les organismes de recouvrement
 en application des dispositions de l'article L. 243-6-1 ;
 
 3° quinquies D'initier et de coordonner des actions concertées de contrôle et de
-recouvrement menées par les organismes de recouvrement. L'Agence centrale des
+recouvrement menées par les organismes de recouvrement.L'Agence centrale des
 organismes de sécurité sociale peut requérir la participation des organismes de
 recouvrement à ces actions ;
 
@@ -54,8 +54,8 @@ législatives et réglementaires en vigueur, ainsi qu'aux stipulations
 conventionnelles prises en vertu des articles L. 123-1 et L. 123-2 et agréées
 par l'autorité compétente de l'Etat ;
 
-5° bis De gérer, pour le compte des régimes de sécurité sociale concernés, la
-répartition des impôts et taxes mentionnés au II de l'article L. 131-8 ;
+5° bis De gérer, pour le compte des régimes de sécurité sociale et fonds
+concernés, la répartition des impôts et taxes mentionnés à l'article L. 131-8 ;
 
 6° De contrôler les opérations immobilières des unions de recouvrement et la
 gestion de leur patrimoine immobilier.

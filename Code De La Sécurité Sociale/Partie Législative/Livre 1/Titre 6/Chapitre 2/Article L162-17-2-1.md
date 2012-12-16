@@ -1,12 +1,12 @@
 Article L162-17-2-1
 ----
 Lorsqu'il n'existe pas d'alternative appropriée, toute spécialité pharmaceutique
-faisant l'objet d'une recommandation temporaire d'utilisation prévue à l'article
-L. 5121-12-1 du code de la santé publique, tout produit ou toute prestation
-prescrit en dehors du périmètre des biens et services remboursables pour le
-traitement d'une affection de longue durée remplissant les conditions prévues
-aux 3° ou 4° de l'article L. 322-3 du présent code ou d'une maladie rare telle
-que définie par le règlement (CE) n° 141/2000 du Parlement européen et du
+faisant l'objet d'une recommandation temporaire d'utilisation prévue au I de
+l'article L. 5121-12-1 du code de la santé publique, tout produit ou toute
+prestation prescrit en dehors du périmètre des biens et services remboursables
+pour le traitement d'une affection de longue durée remplissant les conditions
+prévues aux 3° ou 4° de l'article L. 322-3 du présent code ou d'une maladie rare
+telle que définie par le règlement (CE) n° 141/2000 du Parlement européen et du
 Conseil du 16 décembre 1999 concernant les médicaments orphelins peut faire
 l'objet, à titre dérogatoire et pour une durée limitée, d'une prise en charge ou
 d'un remboursement. La spécialité, le produit ou la prestation doit figurer dans
@@ -65,11 +65,11 @@ produit considéré ; elle est reconductible, le cas échéant, chaque année.
 
 La pénalité est recouvrée par les organismes mentionnés à l'article L. 213-1
 désignés par le directeur de l'Agence centrale des organismes de sécurité
-sociale. Le recours présenté contre la décision prononçant cette pénalité est un
+sociale, son produit est affecté selon les modalités prévues à l'article L.
+162-37. Le recours présenté contre la décision prononçant cette pénalité est un
 recours de pleine juridiction.
 
 Les modalités d'application du présent article, notamment la procédure de prise
-en charge dérogatoire prévue au premier alinéa ainsi que les règles et les
-délais de procédure, les modes de calcul de la pénalité financière mentionnée
-aux deux alinéas précédents et la répartition de son produit entre les
-organismes de sécurité sociale sont déterminés par décret en Conseil d'Etat.
+en charge dérogatoire prévue au premier alinéa ainsi que les règles, les délais
+de procédure et les modes de calcul de la pénalité financière mentionnée aux
+deux alinéas précédents sont déterminés par décret en Conseil d'Etat.

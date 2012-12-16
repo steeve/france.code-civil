@@ -12,13 +12,12 @@ agricoles ;
 L. 136-6, L. 136-7 et L. 136-7-1 du code de la sécurité sociale, déterminée dans
 les conditions fixées à l'article L. 139-1 du même code ;
 
-3° Une fraction du produit des contributions mentionnées aux articles L. 138-1
-et L. 138-10 du même code, déterminée dans les conditions fixées à l'article L.
-138-8 du même code ;
+3° abrogé ;
 
-4° (Abrogé)
+4° Le produit des contributions mentionnées aux articles 520 B et 520 C du code
+général des impôts ;
 
-5° Une fraction égale à 43,7 % du produit du droit de consommation sur les
+5° Une fraction égale à 57,8 % du produit du droit de consommation sur les
 alcools mentionné à l'article 403 du même code ;
 
 6° (Abrogé)
@@ -29,7 +28,7 @@ alcools mentionné à l'article 403 du même code ;
 produit du droit de consommation mentionné à l'article 575 du code général des
 impôts ;
 
-9° Le produit des taxes mentionnées aux articles 1010,1609 vicies et 1618
+9° Le produit des taxes mentionnées aux articles 1010, 1609 vicies et 1618
 septies du code général des impôts ;
 
 10° Une fraction égale à 30,89 % du produit de la contribution sociale de

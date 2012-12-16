@@ -14,3 +14,7 @@ Les points acquis à compter du 1er janvier 2006 ouvrent droit à un montant
 annuel de pension égal au produit du nombre de points portés au compte de
 l'intéressé par la valeur de service du point. Cette valeur de service est fixée
 par décret.
+
+Pour l'application du premier alinéa, une valeur de service plus favorable peut
+être prévue par décret pour les pensions de réversion, au titre d'un nombre de
+points n'excédant pas un seuil défini par décret.

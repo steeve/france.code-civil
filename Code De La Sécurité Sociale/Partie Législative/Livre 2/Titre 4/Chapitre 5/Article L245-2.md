@@ -19,18 +19,38 @@ de l'article L. 162-17 du présent code ou sur la liste mentionnée à l'article
 afférentes à des véhicules mis à disposition, des frais de repas et des frais
 d'hébergement des personnes mentionnées au 1° ;
 
-3° Des frais de publication et des achats d'espaces publicitaires dès lors
-qu'une spécialité pharmaceutique inscrite sur la liste mentionnée au premier
-alinéa de l'article L. 162-17 du présent code ou sur la liste mentionnée à
-l'article L. 5123-2 du code de la santé publique y est mentionnée.
+3° Des frais de publication et des achats d'espaces publicitaires, quelle que
+soit la nature du support retenu et quelle que soit sa forme, matérielle ou
+immatérielle, ainsi que les frais de congrès scientifiques ou publicitaires et
+des manifestations de même nature, y compris les dépenses directes ou indirectes
+d'hébergement et de transport qui s'y rapportent, à l'exception des échantillons
+mentionnés à l'article L. 5122-10 du code de la santé publique. Sont toutefois
+exclus les frais de publication et les achats d'espace publicitaire mentionnant
+exclusivement une spécialité pharmaceutique qui n'est inscrite ni sur la liste
+mentionnée au premier alinéa de l'article L. 162-17 du présent code ni sur la
+liste mentionnée à l'article L. 5123-2 du code de la santé publique ;
+
+4° Des prestations externalisées de même nature que celles mentionnées aux 1° à
+3°, à hauteur du montant hors taxe facturé.
+
+Lorsque la comptabilité de l'entreprise ne permet pas d'isoler les charges
+définies aux 1° à 4° parmi celles de même nature afférentes à l'ensemble des
+spécialités pharmaceutiques, la répartition de ces charges s'effectue
+forfaitairement par application du rapport entre le chiffre d'affaires hors
+taxes réalisé en France en spécialités inscrites sur la liste mentionnée au
+premier alinéa de l'article L. 162-17 du présent code ou sur la liste mentionnée
+à l'article L. 5123-2 du code de la santé publique et le chiffre d'affaires hors
+taxes réalisé en France en spécialités pharmaceutiques. Ce rapport est exprimé
+en pourcentage arrondi, le cas échéant, au centième par défaut.
 
 II.-Il est procédé sur l'assiette définie au I :
 
-1° A un abattement forfaitaire égal à 2, 5 million d'euros et à un abattement de
-3 % des dépenses mentionnées au 1° du I.L'abattement forfaitaire est modulé,
-selon des modalités fixées par décret en Conseil d'Etat, lorsque la durée du ou
-des exercices clos depuis la dernière échéance de la contribution est différente
-de douze mois ;
+1° A un abattement forfaitaire égal à 2,5 millions d'euros, à un abattement de 3
+% des dépenses mentionnées au 1° du I et à un abattement de 75 % des frais de
+congrès mentionnés au 3° du même I. L'abattement forfaitaire est modulé, selon
+des modalités fixées par décret en Conseil d'Etat, lorsque la durée du ou des
+exercices clos depuis la dernière échéance de la contribution est différente de
+douze mois ;
 
 2° A un abattement d'un montant égal à 30 % du chiffre d'affaires hors taxes
 réalisé en France métropolitaine et dans les départements d'outre-mer au titre
@@ -71,13 +91,10 @@ définies ci-après, le taux applicable est fixé comme suit :
 
 PART DE L'ASSIETTE
 
-correspondant au rapport R entre l'assiette définie aux 1° à 3° du I après
+correspondant au rapport R entre l'assiette définie aux 1° à 4° du I après
 déduction, le cas échéant, des abattements et le chiffre d'affaires hors taxes
 
-
-TAUX
-
-de la contribution par tranche(en pourcentage)
+TAUX de la contribution par tranche (en pourcentage)
 
 R &lt; 6,5 %
 

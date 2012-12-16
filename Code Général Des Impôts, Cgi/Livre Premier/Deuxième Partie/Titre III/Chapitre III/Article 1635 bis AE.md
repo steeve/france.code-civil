@@ -26,11 +26,11 @@ même code ou de chaque demande de modification de cette autorisation ;
 5124-13 du même code et de chaque demande de modification ou de renouvellement
 de cette autorisation ;
 
-6° Demande de visa ou de renouvellement de visa de publicité mentionné aux
-articles L. 5122-8 et L. 5122-14 du même code ;
+6° Demande de visa ou de renouvellement de visa de publicité, mentionné aux
+articles L. 5122-8, L. 5122-9 et L. 5122-14 du même code ;
 
-7° Dépôt de publicité mentionné aux articles L. 5122-9 et L. 5122-14 du même
-code.
+7° Demande d'autorisation ou de renouvellement d'autorisation de publicité,
+mentionnée aux articles L. 5213-4 et L. 5223-3 du même code.
 
 II. ― Le montant du droit dû à raison des dépôts mentionnés au I est fixé par
 décret dans la limite maximale de :
@@ -48,10 +48,8 @@ fixé par l'administration. Le droit est recouvré et contrôlé selon les même
 garanties et sanctions qu'en matière de droits d'enregistrement. Il est donné
 quittance de son versement. A défaut de production de la quittance à l'appui de
 son dépôt à l'agence ou en cas de versement d'un montant insuffisant, le dossier
-de la demande est réputé incomplet et la publicité mentionnée au 7° du I est
-réputée non déposée.
+de la demande est réputé incomplet.
 
-Lorsque le dossier d'une demande mentionnée au I est complet ou que la publicité
-mentionnée au 7° du même I est déposée, le droit versé n'est restituable qu'à
-concurrence de la fraction de son montant dont l'agence a antérieurement
-constaté l'insuffisance de versement.
+Lorsque le dossier d'une demande mentionnée au I est complet, le droit versé
+n'est restituable qu'à concurrence de la fraction de son montant dont l'agence a
+antérieurement constaté l'insuffisance de versement.

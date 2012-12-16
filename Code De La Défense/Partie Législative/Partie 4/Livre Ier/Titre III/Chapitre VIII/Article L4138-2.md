@@ -8,7 +8,7 @@ Reste dans cette position le militaire :
 
 a) De congés de maladie ;
 
-b) De congés pour maternité, paternité ou adoption ;
+b) De congés de maternité, de paternité et d'accueil de l'enfant ou d'adoption ;
 
 c) De permissions ou de congés de fin de campagne ;
 

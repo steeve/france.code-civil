@@ -25,8 +25,8 @@ ressources, de la majoration pour la vie autonome et de l'allocation pour adulte
 handicapé mentionnée à l'article 35 de l'ordonnance n° 2002-411 du 27 mars 2002
 relative à la protection sanitaire et sociale à Mayotte est assuré par l'Etat.
 La prise en charge par l'Etat des pertes sur créances d'indus ne peut excéder
-une fraction des prestations versées dans l'année, dans des conditions fixées
-par décret.
+une fraction de ces pertes, fixée par arrêté conjoint des ministres chargés de
+la sécurité sociale et du budget.
 
 La prescription est interrompue tant que l'organisme débiteur des prestations
 familiales se trouve dans l'impossibilité de recouvrer l'indu concerné en raison

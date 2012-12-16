@@ -14,8 +14,8 @@ de la sécurité sociale ;
 
 5° Une contribution à la charge des régimes obligatoires d'assurance maladie
 dont le montant est fixé chaque année par la loi de financement de la sécurité
-sociale, répartie entre les régimes selon les règles définies à l'article L.
-174-2 du code de la sécurité sociale ;
+sociale. Le versement et la répartition de la contribution entre les régimes
+sont réalisés dans des conditions fixées par décret ;
 
 6° Des subventions, notamment de l'Etat ;
 

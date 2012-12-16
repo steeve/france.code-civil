@@ -15,5 +15,12 @@ conditions pour bénéficier d'un autre régime obligatoire d'assurance maladie 
 maternité, le droit aux prestations du régime auquel il était rattaché
 antérieurement est supprimé.
 
+Les personnes mentionnées à l' article L. 5411-1 du code du travail qui
+bénéficient, en application du premier alinéa du présent article, du maintien de
+leur droit aux prestations des assurances maladie, maternité, invalidité et
+décès continuent, pendant une durée déterminée par décret en Conseil d'Etat,
+d'en bénéficier lorsqu'elles reprennent une activité insuffisante pour justifier
+des conditions d'ouverture du droit à ces prestations.
+
 Les dispositions du présent article ne sont pas applicables aux personnes qui ne
 résident pas en France au sens du présent code.

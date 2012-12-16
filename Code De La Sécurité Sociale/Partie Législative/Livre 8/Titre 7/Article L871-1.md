@@ -33,10 +33,3 @@ L. 162-5.
 Elles prévoient également la prise en charge totale ou partielle des prestations
 liées à la prévention, aux consultations du médecin traitant mentionné à
 l'article L. 162-5-3 et aux prescriptions de celui-ci.
-
-Elles prévoient également la prise en charge des dépassements d'honoraires sur
-le tarif des actes et consultations des médecins autorisés à pratiquer des
-dépassements d'honoraires encadrés en application du I de l'article 56 de la loi
-n° 2011-1906 du 21 décembre 2011 de financement de la sécurité sociale pour 2012
-à hauteur du taux maximal de dépassements d'honoraires autorisé par lesdites
-dispositions conventionnelles.

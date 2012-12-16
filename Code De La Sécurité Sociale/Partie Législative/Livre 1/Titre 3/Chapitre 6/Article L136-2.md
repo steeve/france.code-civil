@@ -79,9 +79,10 @@ cinquième alinéa de l'article L. 242-1 du présent code et de celles destinée
 financement des régimes de retraite visés au I de l'article L. 137-11 et au
 cinquième alinéa de l'article L. 741-10 du code rural et de la pêche maritime ;
 
-5° Les indemnités de licenciement ou de mise à la retraite et toutes autres
-sommes versées à l'occasion de la rupture du contrat de travail pour la fraction
-qui excède le montant prévu par la convention collective de branche, l'accord
+5° Indépendamment de leur assujettissement à l'impôt sur le revenu, les
+indemnités de licenciement ou de mise à la retraite et toutes autres sommes
+versées à l'occasion de la rupture du contrat de travail pour la fraction qui
+excède le montant prévu par la convention collective de branche, l'accord
 professionnel ou interprofessionnel ou à défaut par la loi, ou, en l'absence de
 montant légal ou conventionnel pour ce motif, pour la fraction qui excède
 l'indemnité légale ou conventionnelle de licenciement. En tout état de cause,
@@ -111,10 +112,10 @@ la première phrase du 5° ;
 
 7° Les indemnités journalières ou allocations versées par les organismes de
 sécurité sociale ou, pour leur compte, par les employeurs à l'occasion de la
-maladie, de la maternité ou de la paternité, des accidents du travail et des
-maladies professionnelles, à l'exception des rentes viagères et indemnités en
-capital servies aux victimes d'accident du travail ou de maladie professionnelle
-ou à leurs ayants droit.
+maladie, de la maternité ou de la paternité et de l'accueil de l'enfant, des
+accidents du travail et des maladies professionnelles, à l'exception des rentes
+viagères et indemnités en capital servies aux victimes d'accident du travail ou
+de maladie professionnelle ou à leurs ayants droit.
 
 III.-Ne sont pas inclus dans l'assiette de la contribution :
 

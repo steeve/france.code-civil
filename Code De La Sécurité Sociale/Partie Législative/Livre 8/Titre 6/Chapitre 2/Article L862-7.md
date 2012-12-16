@@ -2,9 +2,9 @@ Article L862-7
 ----
 Pour l'application des articles L. 862-1 à L. 862-6 :
 
-a) Le fonds est habilité à procéder à tout contrôle sur les dépenses mentionnées
-aux a et b de l'article L. 862-2 et les imputations opérées en application du
-III de l'article L. 862-4 ;
+a) Le fonds est habilité à procéder à toute vérification relative à l'assiette
+de la taxe mentionnée à l'article L. 862-4 ou au calcul des demandes de
+remboursements mentionnés aux a et b de l'article L. 862-2 ;
 
 b) Les organismes d'assurance et assimilés non établis en France et admis à y
 opérer en libre prestation de services en application de l'article L. 310-2 du

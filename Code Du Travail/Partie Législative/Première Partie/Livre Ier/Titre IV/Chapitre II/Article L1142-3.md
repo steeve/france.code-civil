@@ -18,6 +18,7 @@ objet l'application des dispositions relatives :
 4° A la démission de la salariée en état de grossesse médicalement constaté,
 prévues à l'article L. 1225-34 ;
 
-5° Au congé de paternité, prévues aux articles L. 1225-35 et L. 1225-36 ;
+5° Au congé de paternité et d'accueil de l'enfant, prévues aux articles L.
+1225-35 et L. 1225-36 ;
 
 6° Au congé d'adoption, prévues aux articles L. 1225-37 à L. 1225-45.

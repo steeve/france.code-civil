@@ -15,10 +15,10 @@ conseil de la santé publique.
 L'infirmière ou l'infirmier est autorisé à renouveler les prescriptions, datant
 de moins d'un an, de médicaments contraceptifs oraux, sauf s'ils figurent sur
 une liste fixée par arrêté du ministre chargé de la santé, sur proposition de
-l'Agence nationale de sécurité du médicament et des produits de santé , pour une
+l'Agence nationale de sécurité du médicament et des produits de santé, pour une
 durée maximale de six mois, non renouvelable. Cette disposition est également
 applicable aux infirmières et infirmiers exerçant dans les établissements
-mentionnés au deuxième alinéa du I de l'article L. 5134-1 et dans les services
+mentionnés au troisième alinéa du I de l'article L. 5134-1 et dans les services
 mentionnés au premier alinéa de l'article L. 2112-1 et à l'article L. 2311-4.
 
 Un arrêté des ministres chargés de la santé et de la sécurité sociale fixe la

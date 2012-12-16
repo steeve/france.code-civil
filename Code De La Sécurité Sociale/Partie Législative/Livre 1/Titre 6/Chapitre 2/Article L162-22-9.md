@@ -20,7 +20,7 @@ fin d'année pour prendre en compte ces évolutions réalisées en cours d'anné
 
 II.-Un décret en Conseil d'Etat précise les éléments pris en compte pour la
 détermination de cet objectif commun ainsi que les modalités selon lesquelles,
-chaque année, sont déterminés les éléments mentionnés aux 1° à 3° du I de
+chaque année, sont déterminés les éléments mentionnés aux 1° à 4° du I de
 l'article L. 162-22-10 compatibles avec le respect de l'objectif, en prenant en
 compte à cet effet, notamment, les prévisions d'évolution de l'activité des
 établissements pour l'année en cours, mesurée notamment à partir des données

@@ -26,7 +26,5 @@ peut imposer à l'employeur la cotisation supplémentaire mentionnée à l'artic
 L. 242-7. Le produit en est affecté au fonds national de prévention des
 accidents du travail et des maladies professionnelles.
 
-Le paiement des cotisations complémentaires prévues à l'article L. 452-2 et, au
-cas de cession ou de cessation de l'entreprise, le paiement du capital mentionné
-au même article sont garantis par privilège dans les conditions et au rang fixés
-par les articles L. 243-4 et L. 243-5.
+Le paiement du capital prévu à l'article L. 452-2 est garanti par privilège dans
+les conditions et au rang fixés par les articles L. 243-4 et L. 243-5.

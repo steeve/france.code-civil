@@ -1,10 +1,11 @@
 Article 1600-0 N
 ----
 I. ― Les personnes assujetties à la taxe sur la valeur ajoutée en application de
-l'article 256 A qui effectuent la première vente en France de médicaments et de
-produits de santé définis au II du présent article sont soumises à une taxe
-annuelle perçue au profit de la Caisse nationale de l'assurance maladie des
-travailleurs salariés.
+l'article 256 A qui assurent en France l'exploitation, au sens de l'article L.
+5124-1 du code de la santé publique, et la vente de médicaments et de produits
+de santé mentionnés au II du présent article sont soumises à une taxe annuelle
+perçue au profit de la Caisse nationale de l'assurance maladie des travailleurs
+salariés.
 
 II. ― Les médicaments et produits de santé mentionnés au I sont les médicaments
 et produits de santé ayant fait l'objet d'un enregistrement au sens des articles
@@ -59,10 +60,5 @@ compris entre 15 000 001 € et 30 000 000 € ;
 i) 33 913 € pour les médicaments et produits dont le chiffre d'affaires est
 supérieur à 30 000 000 €.
 
-V. ― La première vente en France au sens du I s'entend de la première vente
-intervenant après fabrication en France ou après introduction en France en
-provenance de l'étranger de médicaments et produits de santé mentionnés au II.
-
-Le fait générateur de la taxe intervient lors de la première vente de chaque
-médicament ou produit de santé mentionné au même II. La taxe est exigible lors
-de la réalisation de ce fait générateur.
+V. ― Le fait générateur et l'exigibilité de la taxe interviennent lors de la
+vente de chaque médicament ou produit de santé mentionné au II.

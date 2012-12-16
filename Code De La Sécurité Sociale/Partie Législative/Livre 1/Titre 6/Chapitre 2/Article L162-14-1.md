@@ -43,7 +43,7 @@ la situation régionale ;
 financement des cotisations dues par les professionnels de santé au titre de
 leurs honoraires ou de leurs revenus tirés des activités non salariées réalisées
 dans des structures dont le financement inclut leur rémunération, en application
-des articles L. 242-11 , L. 612-1,L. 645-2 et L. 722-4 ; la ou les conventions
+des articles L. 242-11 , L. 612-1, L. 645-2 et L. 722-4 ; la ou les conventions
 fixent l'assiette et le niveau de cette participation et les modalités de sa
 modulation, notamment en fonction du lieu d'installation ou d'exercice ; elles
 fixent également les modalités de calcul et de répartition entre régimes de
@@ -60,14 +60,29 @@ qu'elles déterminent ;
 à l'article L. 162-1-7.
 
 II.-Des accords conventionnels interprofessionnels intéressant plusieurs
-professions de santé relatifs aux pathologies ou aux traitements peuvent être
-conclus pour une durée au plus égale à cinq ans entre l'Union nationale des
-caisses d'assurance maladie et les organisations représentatives signataires des
-conventions nationales de chacune de ces professions, après avis des conseils de
-l'ordre concernés, sur leurs dispositions relatives à la déontologie.
+professions de santé et visant à améliorer l'organisation, la coordination et la
+continuité des soins ou la prise en charge des patients peuvent être conclus
+pour une durée au plus égale à cinq ans entre l'Union nationale des caisses
+d'assurance maladie et une ou plusieurs organisations représentatives habilitées
+à participer aux négociations des conventions nationales de ces professions et,
+le cas échéant, des centres de santé, après avis des conseils de l'ordre
+concernés, sur leurs dispositions relatives à la déontologie.
 
 Ces accords peuvent déterminer les objectifs et les modalités de mise en oeuvre
 et d'évaluation de dispositifs visant à favoriser une meilleure organisation et
 coordination des professionnels de santé, notamment par la création de réseaux
 de santé, la promotion du développement professionnel continu ainsi que de
 dispositifs visant à améliorer la qualité des soins.
+
+Ces accords définissent les engagements et objectifs, notamment de santé
+publique, de qualité et d'efficience des soins, des maisons, centres et
+professionnels de santé, sous la forme d'un ou de plusieurs contrats types. Des
+contrats conformes à ces contrats types peuvent être conclus conjointement par
+l'agence régionale de santé et un organisme local d'assurance maladie avec des
+maisons, centres et professionnels de santé intéressés. Ces accords
+conventionnels interprofessionnels établissent les modalités de calcul d'une
+rémunération annuelle versée en contrepartie, d'une part, du respect de ces
+engagements et, d'autre part, du respect des objectifs fixés. Ils précisent les
+possibilités d'adaptation de ces engagements et objectifs et de modulation des
+rémunérations prévues, par décision conjointe de l'agence régionale de santé et
+de l'organisme local d'assurance maladie.

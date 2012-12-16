@@ -15,9 +15,9 @@ organismes débiteurs de ces revenus et versée aux organismes chargés du
 recouvrement des cotisations du régime général selon les règles et sous les
 garanties et sanctions applicables au recouvrement des cotisations du régime
 général assises sur les salaires. La contribution portant sur les allocations
-mentionnées aux articles L. 632-6 et L. 632-7 du code de l'éducation est
-précomptée par le Centre national de gestion des praticiens hospitaliers et des
-personnels de direction de la fonction publique hospitalière ; elle est
+mentionnées aux articles L. 632-6, L. 632-7 et L. 634-2 du code de l'éducation
+est précomptée par le Centre national de gestion des praticiens hospitaliers et
+des personnels de direction de la fonction publique hospitalière ; elle est
 recouvrée et contrôlée selon les règles et sous les garanties et sanctions
 applicables au recouvrement des cotisations du régime général de la sécurité
 sociale assises sur les rémunérations.

@@ -3,10 +3,8 @@ Article L162-18
 Les entreprises qui exploitent une ou plusieurs spécialités pharmaceutiques
 remboursables aux assurés sociaux peuvent s'engager collectivement par une
 convention nationale à faire bénéficier la caisse nationale de l'assurance
-maladie des travailleurs salariés, la Caisse nationale d'assurance maladie et
-maternité des travailleurs non salariés des professions non agricoles et la
-Caisse centrale de mutualité sociale agricole d'une remise sur tout ou partie du
-chiffre d'affaires de ces spécialités réalisé en France.
+maladie des travailleurs salariés d'une remise sur tout ou partie du chiffre
+d'affaires de ces spécialités réalisé en France.
 
 Elles peuvent s'engager individuellement par des conventions ayant le même
 objet.

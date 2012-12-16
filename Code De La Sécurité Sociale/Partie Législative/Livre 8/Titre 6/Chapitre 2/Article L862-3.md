@@ -1,17 +1,6 @@
 Article L862-3
 ----
-Les recettes du fonds sont constituées par :
-
-a) Le produit de la taxe mentionnée au I de l'article L. 862-4 ;
-
-b) Une dotation budgétaire de l'Etat destinée à équilibrer le fonds ;
-
-c) (Abrogé)
-
-d) (Abrogé)
-
-e) (Abrogé)
-
-Tout ou partie du report à nouveau positif du fonds est affecté à la Caisse
-nationale de l'assurance maladie des travailleurs salariés dans des conditions
-fixées par arrêté des ministres chargés de la sécurité sociale et du budget.
+Les recettes du fonds institué à l'article L. 862-1 sont constituées du produit
+de la taxe mentionnée au I de l'article L. 862-4 et d'une fraction, fixée à
+l'article L. 131-8, du produit du droit de consommation mentionné à l'article
+575 du code général des impôts.

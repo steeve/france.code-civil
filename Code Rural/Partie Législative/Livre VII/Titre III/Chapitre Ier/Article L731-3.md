@@ -12,7 +12,7 @@ prestations d'assurance vieillesse et veuvage des non-salariés agricoles ;
 2° bis Le produit du droit de consommation sur les produits intermédiaires
 mentionné à l'article 402 bis du code général des impôts ;
 
-3° Une fraction égale à 56,3 % du produit des droits de consommation sur les
+3° Une fraction égale à 42,2 % du produit des droits de consommation sur les
 alcools mentionnés au I de l'article 403 du code général des impôts ;
 
 4° Le produit du droit de circulation sur les vins, cidres, poirés et hydromels

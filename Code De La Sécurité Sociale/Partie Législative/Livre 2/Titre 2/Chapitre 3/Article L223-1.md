@@ -35,10 +35,11 @@ par arrêté ministériel ;
 7°) D'assurer le remboursement, dans la limite du plafond de la sécurité
 sociale, de la rémunération brute, déduction faite des indemnités, des avantages
 familiaux et des cotisations et contributions sociales salariales, servie
-pendant la durée du congé de paternité aux ouvriers sous statut de l'Etat, aux
-magistrats, aux militaires et aux fonctionnaires visés à l'article 2 de la loi
-n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires ;
-les modalités de ce remboursement sont fixées par décret ;
+pendant la durée du congé de paternité et d'accueil de l'enfant aux ouvriers
+sous statut de l'Etat, aux magistrats, aux militaires et aux fonctionnaires
+visés à l'article 2 de la loi n° 83-634 du 13 juillet 1983 portant droits et
+obligations des fonctionnaires ; les modalités de ce remboursement sont fixées
+par décret ;
 
 8°) D'assurer le remboursement, dans la limite du plafond de la sécurité
 sociale, de la rémunération soumise à cotisation au titre des allocations
@@ -46,5 +47,5 @@ familiales, déduction faite des cotisations et contributions sociales
 salariales, versée aux agents bénéficiant des régimes spéciaux de la Société
 nationale des chemins de fer français, de la Régie autonome des transports
 parisiens, des industries électriques et gazières et de la Banque de France,
-pendant la durée du congé de paternité ; les modalités de ce remboursement sont
-fixées par décret.
+pendant la durée du congé de paternité et d'accueil de l'enfant ; les modalités
+de ce remboursement sont fixées par décret.

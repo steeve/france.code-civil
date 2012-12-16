@@ -43,6 +43,7 @@ Le comité rend un avis, au plus tard le 15 octobre, dans lequel il contrôle le
 d'assurance maladie envisagé pour l'année à venir et présente ses réserves s'il
 constate, compte tenu des données dont il dispose, que cet objectif ne peut pas
 être respecté au vu de l'évolution prévisionnelle des dépenses d'assurance
-maladie.
+maladie. Cet avis porte également sur le respect de l'objectif national de
+dépenses d'assurance maladie de l'année en cours.
 
 Cet avis est rendu public et transmis au Parlement.

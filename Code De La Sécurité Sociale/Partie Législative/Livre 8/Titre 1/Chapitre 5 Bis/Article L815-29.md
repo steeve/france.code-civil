@@ -10,5 +10,5 @@ pour ce qui concerne le régime général des travailleurs salariés et par le f
 mentionné à l'article L. 815-26 pour ce qui concerne les autres organismes
 débiteurs de l'allocation, dans des conditions fixées par décret en Conseil
 d'Etat. La prise en charge par l'Etat des pertes sur créances d'indus ne peut
-excéder une fraction des prestations versées dans l'année, dans des conditions
-fixées par décret.
+excéder une fraction de ces pertes, fixée par arrêté conjoint des ministres
+chargés de la sécurité sociale et du budget.

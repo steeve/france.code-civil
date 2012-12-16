@@ -15,15 +15,14 @@ imputables à une vaccination obligatoire en application de l'article L. 3111-9,
 de l'indemnisation des victimes de préjudices résultant de la contamination par
 le virus d'immunodéficience humaine en application de l'article L. 3122-1, de
 l'indemnisation des victimes de préjudices résultant de la contamination par le
-virus de l'hépatite C causée par une transfusion de produits sanguins ou une
-injection de médicaments dérivés du sang en application de l'article L. 1221-14
-et de la réparation des dommages imputables directement à une activité de
-prévention, de diagnostic ou de soins réalisée en application de mesures prises
-conformément aux articles L. 3131-1 et L. 3134-1. L'office est en outre chargé,
-dans les conditions définies à la section 4 bis du présent chapitre, de
-faciliter et, s'il y a lieu, de procéder au règlement amiable des litiges
-relatifs aux dommages causés par le benfluorex.
-
+virus de l'hépatite B ou C ou le virus T-lymphotropique humain causée par une
+transfusion de produits sanguins ou une injection de médicaments dérivés du sang
+en application de l'article L. 1221-14 et de la réparation des dommages
+imputables directement à une activité de prévention, de diagnostic ou de soins
+réalisée en application de mesures prises conformément aux articles L. 3131-1 et
+L. 3134-1. L'office est en outre chargé, dans les conditions définies à la
+section 4 bis du présent chapitre, de faciliter et, s'il y a lieu, de procéder
+au règlement amiable des litiges relatifs aux dommages causés par le benfluorex.
 Les obligations de l'association France-Hypophyse nées de son rôle dans
 l'organisation du traitement des patients par l'hormone de croissance extractive
 entre 1973 et 1988 sont transférées à l'Office national d'indemnisation des

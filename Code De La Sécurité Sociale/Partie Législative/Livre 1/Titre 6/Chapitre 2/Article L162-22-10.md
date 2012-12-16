@@ -14,11 +14,13 @@ conditions d'emploi du personnel médical ;
 nationaux et aux forfaits annuels mentionnés ci-dessus, des établissements
 implantés dans certaines zones afin de tenir compte d'éventuels facteurs
 spécifiques, qui modifient de manière manifeste, permanente et substantielle le
-prix de revient de certaines prestations dans la zone considérée.
+prix de revient de certaines prestations dans la zone considérée ;
 
-Les éléments mentionnés aux 1° et 3° prennent effet le 1er mars de l'année en
-cours et ceux mentionnés au 2° le 1er janvier de la même année, à l'exception de
-ceux fixés en application du II bis.
+4° Le coefficient mentionné au I de l'article L. 162-22-9-1.
+
+Les éléments mentionnés aux 1°, 3° et 4° prennent effet le 1er mars de l'année
+en cours et ceux mentionnés au 2° le 1er janvier de la même année, à l'exception
+de ceux fixés en application du II bis.
 
 II.-La Caisse nationale de l'assurance maladie des travailleurs salariés
 communique à l'Etat, pour l'ensemble des régimes obligatoires d'assurance

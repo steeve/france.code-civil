@@ -37,11 +37,11 @@ des années 2012, 2013 et 2014 est fixé à 1,6 %. La contribution est exclue de
 charges déductibles pour l'assiette de l'impôt sur le revenu ou de l'impôt sur
 les sociétés.
 
-La contribution est versée de manière provisionnelle le 15 avril de l'année au
+La contribution est versée de manière provisionnelle le 1er juin de l'année au
 titre de laquelle elle est due, pour un montant correspondant à 95 % du produit
 du chiffre d'affaires défini au deuxième alinéa et réalisé au cours de l'année
 civile précédente par le taux défini au troisième alinéa. Une régularisation
-intervient au 15 avril de l'année suivant celle au titre de laquelle la
+intervient au 1er mars de l'année suivant celle au titre de laquelle la
 contribution est due.
 
 Les modalités d'application du présent article sont définies par décret en

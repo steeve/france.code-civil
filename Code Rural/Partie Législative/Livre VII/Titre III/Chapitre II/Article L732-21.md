@@ -2,7 +2,9 @@ Article L732-21
 ----
 L'interruption d'activité résultant de maladie ou d'infirmité graves empêchant
 toute activité professionnelle ne prive pas l'intéressé de droit à la pension de
-retraite.
+retraite, composée des pensions de retraite forfaitaire et de retraite
+proportionnelle dans les conditions prévues aux 1° et 2° de l'article L. 732-24.
+Les modalités de calcul de la pension sont fixées par décret.
 
 Toute période de service national légal, de mobilisation ou de captivité est,
 sans condition préalable, assimilée à une période d'assurance pour l'ouverture

@@ -12,3 +12,7 @@ bénéficie alors de la protection contre le licenciement prévue aux articles L
 La suspension du contrat de travail peut être portée à dix-huit ou vingt-deux
 semaines dans les cas prévus à l'article L. 331-6 du code de la sécurité
 sociale.
+
+Lorsque le père de l'enfant n'exerce pas son droit, le bénéfice de celui-ci est
+accordé au conjoint salarié de la mère ou à la personne liée à elle par un pacte
+civil de solidarité ou vivant maritalement avec elle.

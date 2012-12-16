@@ -12,16 +12,18 @@ du régime général. Elle promeut la sécurité et la santé au travail.
 
 Elle peut assurer la fonction de centrale d'achat au sens du code des marchés
 publics, pour le compte des caisses nationales du régime général, de l'Agence
-centrale des organismes de sécurité sociale ou des organismes locaux.
+centrale des organismes de sécurité sociale, des organismes locaux du régime
+général, de tout organisme de tout autre régime de sécurité sociale et de la
+Caisse nationale de solidarité pour l'autonomie.
 
 Elle peut se voir confier par l'Etat, les caisses nationales du régime général
 ou l'Agence centrale des organismes de sécurité sociale des missions sur les
 questions relatives aux conditions de travail du personnel des organismes de
 sécurité sociale, ou sur tout sujet de fonctionnement des organismes d'intérêt
 commun, notamment pour les opérations immobilières. Elle peut également passer
-convention avec les caisses nationales des autres régimes de sécurité sociale,
-des organismes locaux du régime général et de tout organisme de tout autre
-régime de sécurité sociale.
+convention avec les caisses nationales des autres régimes de sécurité sociale
+pour la réalisation de travaux portant sur des sujets d'intérêt commun,
+notamment pour les opérations immobilières.
 
 Elle assure la gestion administrative et comptable du fonds mentionné à
 l'article L. 114-24.

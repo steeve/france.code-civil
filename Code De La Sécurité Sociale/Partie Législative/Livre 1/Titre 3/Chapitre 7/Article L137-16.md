@@ -13,33 +13,23 @@ production.
 
 Le produit de cette contribution est réparti conformément au tableau suivant :
 
+POUR LES RÉMUNÉRATIONS ou gains soumis à la contribution au taux de 20 %
 
-POUR LES RÉMUNÉRATIONS
-
-ou gains soumis à la contribution
-
-au taux de 20 %
-
-
-POUR LES RÉMUNÉRATIONS
-
-ou gains soumis à la contribution
-
-au taux de 8 %
+POUR LES RÉMUNÉRATIONS ou gains soumis à la contribution au taux de 8 %
 
 Caisse nationale de l'assurance maladie des travailleurs salariés
 
-5 points
+6,1 points
 
 5 points
 
 Caisse nationale d'assurance vieillesse
 
-6 points
+5,6 points
 
 Fonds mentionné à l'article L. 135-1
 
-9 points
+8,3 points
 
 3 points
 
