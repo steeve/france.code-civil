@@ -1,8 +1,9 @@
 Article L131-6
 ----
 Les cotisations d'assurance maladie et maternité, d'allocations familiales et
-d'assurance vieillesse des travailleurs indépendants non agricoles sont assises
-sur leur revenu d'activité non salarié.
+d'assurance vieillesse des travailleurs indépendants non agricoles ne relevant
+pas du régime prévu à l'article L. 133-6-8 du présent code sont assises sur leur
+revenu d'activité non salarié.
 
 Ce revenu est celui retenu pour le calcul de l'impôt sur le revenu, sans qu'il
 soit tenu compte des plus-values et moins-values professionnelles à long terme,
