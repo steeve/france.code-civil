@@ -16,9 +16,9 @@ TAUX spécifique
 
 Cigarettes
 
-64,25
+64,7
 
-12,5
+15
 
 
 Cigares et cigarillos
@@ -30,7 +30,7 @@ Cigares et cigarillos
 
 Tabacs fine coupe destinés à rouler les cigarettes
 
-60
+62
 
 30
 
