@@ -29,36 +29,30 @@ seuils déterminés en application des dispositions des I et III du même articl
 IV.-Le produit des contributions mentionnées au I est versé :
 
 1° A la Caisse nationale des allocations familiales pour la part correspondant à
-un taux de 0,82 % et, par dérogation, de 0,8 % pour les revenus visés à
-l'article L. 136-2 soumis à la contribution au taux de 7,5 % ;
+un taux de 0,87 % ;
 
 2° Au fonds institué par l'article L. 135-1 pour la part correspondant à un taux
-de 0,886 % et, par dérogation, de 0,866 % pour les revenus visés à l'article L.
-136-2 soumis à la contribution au taux de 7,5 % ;
+de 0,85 % ;
 
 3° A la Caisse nationale de solidarité pour l'autonomie visée à l'article 8 de
 la loi n° 2004-626 du 30 juin 2004 relative à la solidarité pour l'autonomie des
 personnes âgées et des personnes handicapées, pour la part correspondant à un
-taux de 0,064 % ;
+taux de 0,058% ;
 
 4° Aux régimes obligatoires d'assurance maladie, dans les conditions fixées à
 l'article L. 139-1 du présent code, pour la part correspondant à un taux :
 
-a) Sous réserve des dispositions du g, de 5,25 % pour les contributions
-mentionnées au 1° du 1 ;
+a) De 5,20 % pour les contributions mentionnées au 1° du 1 ;
 
-b) De 4,85 % pour la contribution mentionnée au 3° du I ;
+b) De 4,80 % pour la contribution mentionnée au 3° du I ;
 
-c) De 5,95 % pour les contributions mentionnées au 2° du I ;
+c) De 5,90 % pour les contributions mentionnées au 2° du I ;
 
-d) De 3,95 % pour les revenus mentionnés au 1° du II ;
+d) De 3,90 % pour les revenus mentionnés au 1° du II ;
 
-e) De 4,35 % pour les revenus mentionnés au 2° du II ;
+e) De 4,30 % pour les revenus mentionnés au 2° du II ;
 
-f) De 3,8 % pour les revenus mentionnés au III ;
-
-g) De 5,29 % pour les revenus mentionnés à l'article L. 136-2 soumis à la
-contribution au taux de 7,5 %.
+f) De 3,8 % pour les revenus mentionnés au III.
 
 5° A la Caisse d'amortissement de la dette sociale instituée par l'ordonnance n°
 96-50 du 24 janvier 1996 relative au remboursement de la dette sociale, pour la
@@ -76,3 +70,10 @@ ainsi réparti :
 
 4° Aux régimes obligatoires d'assurance maladie, dans les conditions fixées à
 l'article L. 139-1, pour 66 %.
+
+VI. - 1. L'Agence centrale des organismes de sécurité sociale est chargée de
+centraliser et de répartir le produit de la contribution mentionnée au présent
+chapitre, dans les conditions prévues au présent article.
+
+2. Il en est de même pour les produits recouvrés simultanément aux contributions
+mentionnées aux articles L. 136-6 et L. 136-7.
