@@ -15,6 +15,10 @@ national de dépenses d'assurance maladie pour les quatre années à venir. Ces
 hypothèses prennent en compte les perspectives d'évolution des dépenses et les
 mesures nouvelles envisagées.
 
+Ce rapport comporte, en outre, les éléments mentionnés au II de l'article 9 de
+la loi organique n° 2012-1403 du 17 décembre 2012 relative à la programmation et
+à la gouvernance des finances publiques.
+
 II.-Le projet de loi de financement de la sécurité sociale de l'année est
 accompagné d'un rapport décrivant les mesures prévues pour l'affectation des
 excédents ou la couverture des déficits constatés à l'occasion de l'approbation
@@ -143,8 +147,11 @@ et, le cas échéant, des années ultérieures ;
 
 10° Comportant, pour les dispositions relevant du V de l'article LO 111-3, les
 documents visés aux dix derniers alinéas de l'article 8 de la loi organique n°
-2009-403 du 15 avril 2009 relative à l'application des articles 34-1, 39 et 44
-de la Constitution.
+2009-403 du 15 avril 2009 relative à l'application des articles 34-1,39 et 44 de
+la Constitution ;
+
+11° Présentant le rapport mentionné au III de l'article 23 de la loi organique
+n° 2012-1403 du 17 décembre 2012 précitée.
 
 IV.-Tous les trois ans, le Gouvernement adresse au Parlement, en même temps que
 le projet de loi de financement de l'année, un document présentant la liste des
