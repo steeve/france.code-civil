@@ -1,11 +1,9 @@
 Article L731-3
 ----
-Le financement des prestations d'assurance vieillesse et veuvage du régime de
-protection sociale des non-salariés agricoles, à l'exclusion des dépenses
-complémentaires mentionnées à l'article L. 731-10, est assuré par :
+Le financement de l'assurance vieillesse et veuvage du régime de protection
+sociale des non-salariés agricoles est assuré par :
 
-1° La fraction des cotisations dues par les assujettis affectée au service des
-prestations d'assurance vieillesse et veuvage des non-salariés agricoles ;
+1° Les cotisations dues par les assujettis ;
 
 2° Le produit des cotisations de solidarité mentionnées à l'article L. 731-23 ;
 

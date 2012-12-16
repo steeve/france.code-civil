@@ -27,8 +27,6 @@ maladies professionnelles constatées avant le 1er avril 2002 ou d'une rente
 visée à l'article L. 752-6, ainsi que leur conjoint.
 
 Sous réserve des dispositions de l'alinéa qui précède, l'assurance ne couvre pas
-les conséquences des accidents du travail, des maladies professionnelles et des
-accidents de la vie privée lors même qu'il n'y aurait pas affiliation au régime
-mentionné à la section 5 du présent chapitre.
-
-Elle ne comporte en aucun cas l'attribution d'indemnités journalières.
+les conséquences des accidents du travail, des maladies professionnelles lors
+même qu'il n'y aurait pas affiliation au régime mentionné à la section 5 du
+présent chapitre.

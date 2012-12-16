@@ -18,16 +18,7 @@ Les indemnités journalières sont servies à l'expiration d'un délai de carenc
 réduit en cas d'hospitalisation, aux assurés ayant une durée minimale
 d'affiliation dans le régime. La durée d'indemnisation est plafonnée.
 
-En cas d'interruption de travail, l'assuré envoie au service du contrôle médical
-de la caisse de mutualité sociale agricole, dans un délai déterminé par décret,
-un avis d'arrêt de travail qui comporte la signature du médecin. En cas de
-non-respect de ce délai, le directeur de la caisse de mutualité sociale agricole
-peut mettre en œuvre une sanction. Un décret fixe le niveau de cette sanction,
-dans la limite de sept jours de suspension d'indemnités à compter de la
-réception de l'arrêt de travail par la caisse, ainsi que les conditions dans
-lesquelles elle est prononcée.
-
-Les articles L. 323-5, L. 323-6 et L. 323-7 du code de la sécurité sociale sont
+Les articles L. 323-6 et L. 323-7 du code de la sécurité sociale sont
 applicables au service des prestations prévues au présent article.
 
 Les modalités d'application du présent article sont fixées par décret.

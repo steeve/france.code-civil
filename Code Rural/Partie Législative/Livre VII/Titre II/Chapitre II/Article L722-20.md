@@ -6,7 +6,8 @@ livre, aux personnes salariées et assimilées énumérées ci-dessous :
 
 1° Salariés occupés aux activités ou dans les entreprises ou établissements
 définis à l'article L. 722-1, à l'exception de l'activité mentionnée au 5° dudit
-article ;
+article, et salariés des entreprises artisanales rurales n'employant pas plus de
+deux salariés de façon permanente ;
 
 2° Gardes-chasse, gardes-pêche, gardes forestiers, jardiniers, jardiniers gardes
 de propriété et, de manière générale, toutes les personnes qui, n'ayant pas la

@@ -1,12 +1,9 @@
 Article L731-2
 ----
-Le financement des prestations d'assurance maladie, invalidité et maternité du
-régime de protection sociale des non-salariés agricoles, à l'exclusion des
-dépenses complémentaires mentionnées à l'article L. 731-10, est assuré par :
+Le financement des assurances maladie, invalidité et maternité du régime de
+protection sociale des non-salariés agricoles est assuré par :
 
-1° La fraction des cotisations dues par les assujettis affectée au service des
-prestations d'assurance maladie, invalidité et maternité des non-salariés
-agricoles ;
+1° Les cotisations dues par les assujettis ;
 
 2° Une fraction du produit des contributions mentionnées aux articles L. 136-1,
 L. 136-6, L. 136-7 et L. 136-7-1 du code de la sécurité sociale, déterminée dans
@@ -42,7 +39,8 @@ l'autonomie en application de l'article L. 14-10-5 du code de l'action sociale
 et des familles ;
 
 13° Une dotation de la Caisse nationale de l'assurance maladie des travailleurs
-salariés destinée à assurer l'équilibre financier de la branche ;
+salariés destinée à assurer l'équilibre financier de la branche dans les
+conditions fixées par l'article L. 134-11-1 du code de la sécurité sociale ;
 
 14° Les impôts, taxes et amendes qui sont affectés à la branche ;
 

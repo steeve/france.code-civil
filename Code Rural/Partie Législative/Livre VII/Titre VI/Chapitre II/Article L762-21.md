@@ -2,9 +2,7 @@ Article L762-21
 ----
 Le montant des cotisations dues pour la couverture des risques obligatoirement
 assurés en application de la présente section ainsi que leurs modalités d'appel
-et d'exigibilité sont fixés par décret. Le même décret fixe les conditions dans
-lesquelles les cotisations sont majorées pour la couverture des frais de gestion
-et d'action sociale.
+et d'exigibilité sont fixés par décret.
 
 Dans le bail à métayage, la cotisation est partagée entre le preneur et le
 bailleur dans les conditions prévues au troisième alinéa de l'article L. 762-33

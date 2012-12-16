@@ -14,5 +14,4 @@ commerce ou paiement d'une contribution économique territoriale en tant que
 commerçant. Sont assimilées à des chefs d'entreprise les personnes exerçant en
 qualité de non salariées l'activité mentionnée au 5° de l'article L. 722-1 ;
 
-2° En ce qui concerne la branche des prestations familiales, les artisans ruraux
-n'employant pas plus de deux salariés de façon permanente.
+2° (abrogé).

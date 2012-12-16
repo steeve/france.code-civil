@@ -59,7 +59,10 @@ Elle peut à ce titre utiliser des traitements automatisés des données relativ
 au service des prestations ;
 
 12° D'assurer la gestion commune de la trésorerie des organismes de mutualité
-sociale agricole mentionnés à l'article L. 723-1. L'individualisation de la
-trésorerie des différentes branches des régimes des salariés et des non-salariés
-agricoles est assurée par un suivi permanent en prévision et en réalisation
-comptable, dans des conditions fixées par décret.
+sociale agricole mentionnés à l'article L. 723-1 ainsi que celle des groupements
+mentionnés aux articles [Dispositions déclarées non conformes à la Constitution
+par la décision du Conseil constitutionnel n° 2012-659 DC du 13 décembre 2012.]
+et L. 752-14. L'individualisation de la trésorerie des différentes branches des
+régimes des salariés et des non-salariés agricoles est assurée par un suivi
+permanent en prévision et en réalisation comptable, dans des conditions fixées
+par décret.

@@ -25,6 +25,3 @@ marins ;
 5° Activité exercée en qualité de non salariés par les mandataires des sociétés
 ou caisses locales d'assurances mutuelles agricoles dans les conditions prévues
 par décret ;
-
-6° Entreprises artisanales rurales n'employant pas plus de deux ouvriers de
-façon permanente.
