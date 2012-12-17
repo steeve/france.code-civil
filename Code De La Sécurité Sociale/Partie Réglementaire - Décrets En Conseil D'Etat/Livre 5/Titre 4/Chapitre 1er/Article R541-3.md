@@ -2,8 +2,8 @@ Article R541-3
 ----
 La demande d'allocation d'éducation de l'enfant handicapé, de son complément et
 de la majoration mentionnés aux articles L. 541-1 et L. 541-4, est adressée à la
-maison départementale des personnes handicapées du lieu de résidence de
-l'intéressé.
+maison départementale des personnes handicapées compétente dans les conditions
+prévues à l'article L. 146-3 du code de l'action sociale et des familles.
 
 Cette demande est accompagnée de toutes les pièces justificatives utiles à
 l'appréciation des droits de l'intéressé :
