@@ -25,7 +25,7 @@ l'entreprise d'assurance, ou des données d'expérience démographiquement
 
 Lorsque les tarifs sont établis d'après des tables mentionnées au a, et dès lors
 qu'est retenue une table unique pour tous les assurés, celle-ci correspond à la
-table appropriée conduisant au tarif le plus prudent.
+table par sexe appropriée conduisant au tarif le plus prudent.
 
 Pour les contrats en cas de vie autres que les contrats de rente viagère, les
 tables mentionnées au a sont utilisées en corrigeant l'âge de l'assuré
@@ -34,7 +34,7 @@ conformément aux décalages d'âge ci-annexés.
 Pour les contrats de rentes viagères, en ce compris celles revêtant un caractère
 temporaire, et à l'exception des contrats relevant du chapitre III du titre IV
 du livre Ier, le tarif déterminé en utilisant les tables mentionnées au b ne
-peut être inférieur à celui qui résulterait de l'utilisation des tables
+peut être inférieur à celui qui résulterait de l'utilisation des tables par sexe
 appropriées mentionnées au a.
 
 Pour les contrats collectifs en cas de décès résiliables annuellement, le tarif
