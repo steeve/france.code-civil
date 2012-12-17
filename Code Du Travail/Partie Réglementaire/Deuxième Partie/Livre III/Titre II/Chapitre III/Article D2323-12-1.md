@@ -1,8 +1,8 @@
 Article D2323-12-1
 ----
 La synthèse du plan d'action défini dans le rapport prévu à l'article L. 2323-57
-comprend au minimum des indicateurs portant sur la situation respective des
-femmes et des hommes par rapport :
+comprend au minimum des indicateurs par catégories professionnelles portant sur
+la situation respective des femmes et des hommes par rapport :
 
 1° Au salaire médian ou au salaire moyen ;
 
