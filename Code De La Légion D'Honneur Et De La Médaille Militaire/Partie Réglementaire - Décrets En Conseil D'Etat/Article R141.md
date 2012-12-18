@@ -2,7 +2,7 @@ Article R141
 ----
 Le ministre de la défense est autorisé par le grand maître à concéder soit
 directement, soit par voie de délégation, la médaille militaire, dans un délai
-d'un mois, à des militaires et assimilés non officiers, tués ou blessés dans
+d'un an, à des militaires et assimilés non officiers, tués ou blessés dans
 l'accomplissement de leur devoir et qui sont reconnus dignes de recevoir cette
 distinction.
 
