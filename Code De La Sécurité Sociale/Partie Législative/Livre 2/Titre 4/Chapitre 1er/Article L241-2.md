@@ -26,18 +26,20 @@ outre constituées par :
 conditions fixées par ce même article ;
 
 2° Le remboursement par la Caisse nationale des allocations familiales des
-indemnités versées en application des articles L. 331-8 et L. 722-8-3 ; 3° Une
-fraction égale à 5,75 % du produit de la taxe sur la valeur ajoutée nette
+indemnités versées en application des articles L. 331-8 et L. 722-8-3 ;
+
+3° Une fraction égale à 5,75 % du produit de la taxe sur la valeur ajoutée nette
 correspondant aux montants de cette taxe enregistrés au titre de l'année par les
 comptables publics, déduction faite des remboursements et restitutions effectués
-pour la même période par les comptables assignataires ; 4° La part du produit de
-la contribution mentionnée à l'article L. 137-15 fixée à l'article L. 137-16 ;
+pour la même période par les comptables assignataires ;
+
+4° La part du produit de la contribution mentionnée à l'article L. 137-15 fixée
+à l'article L. 137-16 ;
 
 5° Une fraction des prélèvements sur les jeux et paris prévus aux articles L.
 137-20, L. 137-21 et L. 137-22 ;
 
-6° La part du produit des prélèvements sociaux mentionnés aux articles L. 245-14
-et L. 245-15 fixée à l'avant-dernier alinéa du II de l'article L. 245-16 ;
+6° (Abrogé) ;
 
 7° Les taxes perçues au titre des articles 1600-0 N, 1600-0 O, 1600-0 R et 1635
 bis AE du code général des impôts et les droits perçus au titre de l'article L.

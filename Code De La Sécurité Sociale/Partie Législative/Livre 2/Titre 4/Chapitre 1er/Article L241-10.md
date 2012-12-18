@@ -41,6 +41,14 @@ Le bénéfice de ces dispositions ne peut se cumuler pour une même aide à domi
 avec le complément de libre choix du mode de garde de la prestation d'accueil du
 jeune enfant versé au titre de la garde à domicile.
 
+I bis. - Chaque heure de travail effectuée par les salariés mentionnés à
+l'article L. 7221-1 du code du travail ouvre droit à une déduction forfaitaire
+de la cotisation patronale due au titre des assurances maladie, maternité,
+invalidité et décès dont le montant est fixé par décret. Cette déduction n'est
+cumulable ni avec aucune exonération de cotisations sociales, ni avec
+l'application de taux ou d'assiettes spécifiques ou de montants forfaitaires de
+cotisations.
+
 II.-Les particuliers et personnes morales qui ont passé un contrat conforme aux
 articles L. 442-1 et L. 444-3 du code de l'action sociale et des familles pour
 l'accueil par des particuliers à leur domicile, à titre onéreux, de personnes

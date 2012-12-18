@@ -47,10 +47,9 @@ fonction de l'importance du manquement constaté.
 
 La pénalité est recouvrée par les organismes mentionnés à l'article L. 213-1
 désignés par le directeur de l'Agence centrale des organismes de sécurité
-sociale. Son produit est affecté aux régimes d'assurance maladie selon les
-règles prévues à l'article L. 138-8. Le recours présenté contre la décision
-prononçant cette pénalité est un recours de pleine juridiction.
+sociale. Son produit est affecté selon les modalités prévues à l'article L.
+162-37. Le recours présenté contre la décision prononçant cette pénalité est un
+recours de pleine juridiction.
 
 Les règles, délais de procédure et modes de calcul de la pénalité financière
-mentionnée au présent II, ainsi que la répartition de son produit entre les
-organismes de sécurité sociale, sont définis par décret en Conseil d'Etat.
+mentionnée au présent II sont définis par décret en Conseil d'Etat.
