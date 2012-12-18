@@ -17,10 +17,10 @@ essais contre comparateurs actifs, elle doit le justifier.
 L'agence participe à l'application des lois et règlements et prend, dans les cas
 prévus par des dispositions particulières, des décisions relatives à
 l'évaluation, aux essais, à la fabrication, à la préparation, à l'importation, à
-l'exportation, à la distribution en gros, au conditionnement, à la conservation,
-à l'exploitation, à la mise sur le marché, à la publicité, à la mise en service
-ou à l'utilisation des produits à finalité sanitaire destinés à l'homme et des
-produits à finalité cosmétique, et notamment :
+l'exportation, à la distribution en gros, au courtage, au conditionnement, à la
+conservation, à l'exploitation, à la mise sur le marché, à la publicité, à la
+mise en service ou à l'utilisation des produits à finalité sanitaire destinés à
+l'homme et des produits à finalité cosmétique, et notamment :
 
 1° Les médicaments, y compris les insecticides, acaricides et antiparasitaires à
 usage humain, les préparations magistrales, hospitalières et officinales, les
@@ -85,7 +85,9 @@ que les décisions d'octroi, de suspension et de retrait de l'autorisation de
 mise sur le marché mentionnées aux articles L. 5121-8 et L. 5121-9. Elle
 organise des réunions régulières d'information avec des associations agréées de
 personnes malades et d'usagers du système de santé mentionnées à l'article L.
-1114-1 sur les problèmes de sécurité sanitaire des produits de santé.
+1114-1 sur les problèmes de sécurité sanitaire des produits de santé, notamment
+sur les actions entreprises dans le domaine de la prévention et de la répression
+de la falsification des médicaments.
 
 Elle contrôle la publicité en faveur de tous les produits, objets, appareils et
 méthodes revendiquant une finalité sanitaire.

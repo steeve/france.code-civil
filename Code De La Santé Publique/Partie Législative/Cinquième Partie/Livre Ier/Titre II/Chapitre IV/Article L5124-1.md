@@ -13,3 +13,6 @@ La préparation, la conservation, la distribution et la cession des médicaments
 de thérapie innovante mentionnés au 17° de l'article L. 5121-1 peuvent également
 être réalisées dans des établissements autorisés au titre de l'article L.
 4211-9-1.
+
+Les personnes se livrant à une activité de courtage de médicaments mentionnée à
+l'article L. 5121-19 ne sont pas soumises aux dispositions du présent chapitre.

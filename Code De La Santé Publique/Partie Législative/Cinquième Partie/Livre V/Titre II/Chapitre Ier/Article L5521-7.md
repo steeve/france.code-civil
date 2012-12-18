@@ -26,3 +26,17 @@ médecin ".
 3° Au 2° de l'article L. 5134-3, les mots : " dans les départements d'outre-mer,
 à Saint-Barthélemy et à Saint-Martin " sont remplacés par les mots : " à
 Wallis-et-Futuna ".
+
+4° Pour son application à Wallis-et-Futuna, l'article L. 5138-3 est ainsi
+modifié :
+
+a) Au deuxième alinéa, les mots : " les établissements pharmaceutiques
+mentionnés à l'article L. 5124-1, les pharmacies à usage intérieur, les
+pharmacies d'officine " sont remplacés par les mots : " la pharmacie de l'agence
+de santé " ;
+
+b) Au sixième alinéa, les mots : " conforme aux lignes directrices de la
+Commission européenne " sont supprimés ;
+
+5° Le deuxième alinéa de l'article L. 5138-4 n'est pas applicable à
+Wallis-et-Futuna.

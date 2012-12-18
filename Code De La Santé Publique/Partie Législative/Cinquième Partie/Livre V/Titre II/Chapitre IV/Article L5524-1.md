@@ -3,7 +3,8 @@ Article L5524-1
 Les dispositions suivantes du livre IV de la présente partie sont applicables à
 Wallis-et-Futuna :
 
-1° Les articles L. 5421-1 à L. 5421-3, L. 5421-6 et L. 5421-6-2 ;
+1° Les articles L. 5421-1 à L. 5421-3, L. 5421-6 et L. 5421-6-2, L. 5421-13, L.
+5421-14 et L. 5421-15 ;
 
 2° Les articles L. 5422-1, L. 5422-2 et L. 5422-9 ;
 
@@ -19,8 +20,10 @@ Wallis-et-Futuna :
 
 8° L'article L. 5435-1 ;
 
-9° Les articles L. 5451-1 à L. 5451-3 ;
+9° Les articles L. 5438-1 à L. 5438-7 ;
 
-10° Les articles L. 5461-2 à L. 5461-5 ;
+10° Les articles L. 5451-1 à L. 5451-3 ;
 
-11° Les articles L. 5462-2 et L. 5462-3.
+11° Les articles L. 5461-2 à L. 5461-5 ;
+
+12° Les articles L. 5462-2 et L. 5462-3.

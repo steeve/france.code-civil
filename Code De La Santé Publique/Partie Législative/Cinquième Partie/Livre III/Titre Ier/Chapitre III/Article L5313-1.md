@@ -8,7 +8,8 @@ articles L. 5311-1 et L. 5311-2, ainsi qu'aux contrôles mentionnés à l'articl
 L. 5311-2.
 
 Les dispositions des articles L. 1421-2, L. 1421-3, L. 5127-2 et L. 5425-1 sont
-applicables à l'exercice de cette mission.
+applicables à l'exercice de cette mission. Les inspections sont réalisées
+conformément aux bonnes pratiques définies par le directeur général de l'agence.
 
 Ils peuvent être assistés par des experts désignés par le directeur général de
 l'agence et procéder à des inspections conjointes avec des agents appartenant

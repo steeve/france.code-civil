@@ -15,8 +15,8 @@ génériques en l'absence de spécialité de référence ;
 peuvent être considérées comme faisant partie d'une autorisation de mise sur le
 marché globale ;
 
-3° Les règles relatives à l'étiquetage, la notice et la dénomination des
-médicaments et produits mentionnés au présent chapitre ;
+3° Les règles relatives à l'étiquetage, le conditionnement, la notice et la
+dénomination des médicaments et produits mentionnés au présent chapitre ;
 
 4° Les modalités de présentation des demandes tendant à obtenir l'autorisation
 de mise sur le marché prévue à l'article L. 5121-8, le contenu du dossier

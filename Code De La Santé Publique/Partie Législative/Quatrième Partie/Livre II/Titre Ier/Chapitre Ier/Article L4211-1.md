@@ -12,8 +12,9 @@ ou l'application des lentilles oculaires de contact ;
 3° La préparation des générateurs, trousses ou précurseurs mentionnés à
 l'article L. 5121-1 ;
 
-4° La vente en gros, la vente au détail et toute dispensation au public des
-médicaments, produits et objets mentionnés aux 1°, 2° et 3° ;
+4° La vente en gros, la vente au détail, y compris par internet, et toute
+dispensation au public des médicaments, produits et objets mentionnés aux 1°, 2°
+et 3° ;
 
 5° La vente des plantes médicinales inscrites à la pharmacopée sous réserve des
 dérogations établies par décret ;
