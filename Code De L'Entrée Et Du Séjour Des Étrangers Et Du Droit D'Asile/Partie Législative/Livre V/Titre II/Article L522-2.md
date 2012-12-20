@@ -18,3 +18,11 @@ militent contre son expulsion. Un procès-verbal enregistrant les explications d
 l'étranger est transmis, avec l'avis motivé de la commission, à l'autorité
 administrative compétente pour statuer. L'avis de la commission est également
 communiqué à l'intéressé.
+
+La commission rend son avis dans le délai d'un mois à compter de la remise à
+l'étranger de la convocation mentionnée au premier alinéa. Toutefois, lorsque
+l'étranger demande le renvoi pour un motif légitime, la commission prolonge ce
+délai, dans la limite d'un mois maximum à compter de la décision accordant ce
+renvoi. A l'issue du délai d'un mois ou, si la commission l'a prolongé, du délai
+supplémentaire qu'elle a fixé, les formalités de consultation de la commission
+sont réputées remplies.

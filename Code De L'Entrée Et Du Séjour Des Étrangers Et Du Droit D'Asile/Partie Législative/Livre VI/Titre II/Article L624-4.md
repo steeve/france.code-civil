@@ -6,7 +6,7 @@ ou L. 561-1 qui, ultérieurement, ont quitté cette résidence sans autorisation
 l'autorité administrative, sont passibles d'une peine d'emprisonnement de trois
 ans.
 
-Les étrangers visés à l'article L. 561-3 qui n'ont pas respecté les
+Les étrangers visés à l'article L. 571-3 qui n'ont pas respecté les
 prescriptions liées au placement sous surveillance électronique sont passibles
 d'une peine d'emprisonnement d'un an.
 

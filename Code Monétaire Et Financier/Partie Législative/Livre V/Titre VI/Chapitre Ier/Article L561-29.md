@@ -36,3 +36,8 @@ Le service peut transmettre aux organismes mentionnés à l'article L. 114-12 du
 code de la sécurité sociale des informations en relation avec les faits
 mentionnés au I de l'article L. 561-15 du présent code, qu'ils peuvent utiliser
 pour l'exercice de leurs missions.
+
+Le service peut également transmettre aux services de l'Etat chargés de préparer
+et de mettre en œuvre une mesure de gel ou d'interdiction de mouvement ou de
+transfert des fonds, des instruments financiers et des ressources économiques,
+des informations en relation avec l'exercice de leur mission.
