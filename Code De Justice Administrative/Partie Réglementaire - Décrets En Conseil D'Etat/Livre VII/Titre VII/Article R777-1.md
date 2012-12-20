@@ -1,9 +1,11 @@
 Article R777-1
 ----
-Dans le cadre des recours en annulation formés contre les décisions de refus
-d'entrée sur le territoire français au titre de l'asile mentionnés à l'article
-L. 777-1, le jugement est prononcé à l'audience.
+Lorsqu'un recours en annulation formé contre une décision de refus d'entrée sur
+le territoire français au titre de l'asile mentionné à l'article L. 777-1 est
+adressé par le moyen de l'application informatique mentionnée à l'article R.
+414-1, son auteur signale son urgence en sélectionnant le type de procédure dans
+la rubrique correspondante.
 
-Le dispositif du jugement assorti de la formule exécutoire prévue à l'article R.
-751-1 est communiqué sur place aux parties présentes à l'audience, qui en
-accusent aussitôt réception.
+Lorsqu'elles sont faites par voie électronique conformément aux articles R.
+611-8-2 et R. 711-2-1, les communications et convocations sont réputées reçues
+dès leur mise à disposition dans l'application.
