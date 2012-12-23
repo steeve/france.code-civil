@@ -20,11 +20,11 @@ général des impôts pour les abattoirs situés en métropole sont fixés par t
 de viande avec os comme suit :
 
 1° Animaux de plus de 24 mois de l'espèce bovine et gibiers ruminants d'élevage
-: 73,7 €/t ;
+: 77,4 €/t ;
 
-2° Animaux de l'espèce bovine jusqu'à l'âge de 24 mois : 16,5 €/t ;
+2° Animaux de l'espèce bovine jusqu'à l'âge de 24 mois : 17,3 €/t ;
 
-3° Animaux des espèces ovine et caprine : 69,3 €/t ;
+3° Animaux des espèces ovine et caprine : 72,8 €/t ;
 
 4° Animaux de l'espèce porcine : 0 €/t ;
 
