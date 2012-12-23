@@ -1,6 +1,7 @@
 Article 865
 ----
-Le juge rapporteur peut ordonner, même d'office, toute mesure d'instruction.
+Le juge chargé d'instruire l'affaire peut ordonner, même d'office, toute mesure
+d'instruction.
 
 Il tranche les difficultés relatives à la communication des pièces.
 

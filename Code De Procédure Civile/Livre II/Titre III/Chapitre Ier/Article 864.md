@@ -1,3 +1,4 @@
 Article 864
 ----
-Le juge rapporteur procède aux jonctions et disjonctions d'instance.
+Le juge chargé d'instruire l'affaire procède aux jonctions et disjonctions
+d'instance.
