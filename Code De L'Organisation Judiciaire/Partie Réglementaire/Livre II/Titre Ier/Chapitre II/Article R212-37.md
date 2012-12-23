@@ -35,4 +35,8 @@ conformément à l'article 137-1 du code de procédure pénale ;
 
 9° Le projet d'ordonnance préparé par le président du tribunal désignant le
 magistrat coordonnateur en matière de droit de la famille et des personnes qui
-exercera les attributions mentionnées à l'article R. 213-9-1.
+exercera les attributions mentionnées à l'article R. 213-9-1 ;
+
+10° Le projet d'ordonnance préparé par le président du tribunal désignant le
+magistrat chargé de contrôler l'exécution des mesures d'instruction conformément
+à l'article 155-1 du code de procédure civile.
