@@ -544,11 +544,9 @@ Ressort des tribunaux de grande instance de Douai et de Cambrai
 Dunkerque
 
 
-Hazebrouck
-
 Dunkerque
 
-Ressort des tribunaux de grande instance de Dunkerque et d'Hazebrouck
+Ressort du tribunal de grande instance de Dunkerque
 
 
 Lille
