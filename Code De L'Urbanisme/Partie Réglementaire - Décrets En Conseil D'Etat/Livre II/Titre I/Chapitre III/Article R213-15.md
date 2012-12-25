@@ -25,4 +25,4 @@ notaire par lettre recommandée avec demande d'avis de réception ou par voie
 n° 2005-1516 du 8 décembre 2005.
 
 Copie de cette décision est annexée au jugement ou à l'acte d'adjudication et
-publiée au bureau des hypothèques en même temps que celui-ci.
+publiée au fichier immobilier en même temps que celui-ci.

@@ -7,4 +7,4 @@ ministre dont relève le musée en cause ou qui en assure la tutelle. Lorsque
 l'appellation est attribuée à une personne privée, l'arrêté mentionne
 l'insertion de l'avis prévu au 3° de l'article R. 442-2. Si l'inventaire des
 collections comprend des biens immobiliers, l'arrêté et l'inventaire sont
-également publiés à la conservation des hypothèques.
+également publiés au fichier immobilier.

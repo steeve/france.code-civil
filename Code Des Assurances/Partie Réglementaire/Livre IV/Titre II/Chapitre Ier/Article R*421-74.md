@@ -4,10 +4,10 @@ Les propriétaires intéressés doivent joindre à leur demande d'indemnité les
 pièces et informations suivantes :
 
 1. Une copie certifiée conforme de l'acte de mutation immobilière par lequel ils
-ont acquis l'immeuble endommagé, accompagnée d'un extrait du fichier immobilier
-délivré par le conservateur des hypothèques ou d'un extrait du feuillet du livre
-foncier délivré par le tribunal d'instance dans le ressort duquel est situé
-l'immeuble, permettant d'établir l'origine de propriété ;
+ont acquis l'immeuble endommagé, accompagnée de la réponse donnée par le service
+de la publicité foncière à une demande de renseignements ou d'un extrait du
+feuillet du livre foncier délivré par le tribunal d'instance dans le ressort
+duquel est situé l'immeuble, permettant d'établir l'origine de propriété ;
 
 2. Une description détaillée de l'immeuble avant les dommages et des dommages
 subis du fait de l'activité minière ;

@@ -9,4 +9,4 @@ peut être inférieur à un mois.
 
 Le maire est réputé avoir satisfait à cette obligation lorsque qu'il a informé
 les propriétaires et titulaires de droits réels immobiliers tels qu'ils figurent
-au fichier immobilier de la conservation des hypothèques ou au livre foncier.
+au fichier immobilier ou au livre foncier.

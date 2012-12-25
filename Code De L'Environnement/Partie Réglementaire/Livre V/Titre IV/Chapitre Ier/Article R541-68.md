@@ -10,5 +10,5 @@ administratifs du département. Une copie en est adressée au maire de la commun
 d'implantation qui procède à son affichage en mairie.
 
 Si l'installation est destinée à accueillir des déchets d'amiante liés à des
-matériaux inertes, l'arrêté est publié au bureau des hypothèques de la situation
-des immeubles aux frais du demandeur.
+matériaux inertes, l'arrêté est publié au fichier immobilier de la situation des
+immeubles aux frais du demandeur.

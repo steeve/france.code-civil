@@ -15,7 +15,7 @@ droit :
 
 1° D'enfouir dans une bande de terrain dont la largeur est fixée par le
 haut-commissaire de la République, mais qui ne pourra dépasser trois mètres, une
-ou plusieurs canalisations, une hauteur minimum de 0, 60 mètre étant respectée
+ou plusieurs canalisations, une hauteur minimum de 0,60 mètre étant respectée
 entre la génératrice supérieure des canalisations et le niveau du sol après les
 travaux ;
 
@@ -55,7 +55,7 @@ portée aux conditions présentes et futures de l'exploitation des terrains ;
 
 4° La liste par commune des propriétaires, établie à l'aide d'extraits des
 documents cadastraux délivrés par le service du cadastre ou à l'aide des
-renseignements délivrés par le conservateur des hypothèques au vu du fichier
+renseignements délivrés par le service de la publicité foncière au vu du fichier
 immobilier ou par tous autres moyens.
 
 V. ― Après consultation du président de la Polynésie française, le

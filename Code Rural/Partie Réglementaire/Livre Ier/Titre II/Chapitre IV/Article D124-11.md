@@ -15,5 +15,5 @@ et celle des immeubles grevés à la suite de l'échange.
 
 La radiation des inscriptions antérieures à la publication de l'acte d'échanges
 et cessions établi par acte notarié, en tant qu'elles grèvent les immeubles
-échangés, est effectuée par le conservateur des hypothèques dans les conditions
-fixées par les articles 2440 et suivants du code civil.
+échangés, est effectuée par le service de la publicité foncière dans les
+conditions fixées par les articles 2440 et suivants du code civil.

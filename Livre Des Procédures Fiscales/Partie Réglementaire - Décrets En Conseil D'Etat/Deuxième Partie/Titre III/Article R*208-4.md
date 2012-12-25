@@ -58,10 +58,12 @@ Frais de magasinage, débours (prime d'assurance, d'incendie).
 Frais de timbre du contrat de constitution d'hypothèque, émolument du notaire
 rédacteur de l'acte.
 
-Droits d'enregistrement de l'acte. Salaire du conservateur des hypothèques.
+Droits d'enregistrement de l'acte. Contribution de sécurité immobilière prévue à
+l'article 879 du code général des impôts
 
-En cas de radiation de l'inscription : salaire du conservateur des hypothèques,
-frais de mainlevée notariée de l'inscription s'il y a lieu.
+En cas de radiation de l'inscription : Contribution de sécurité immobilière
+prévue à l'article 879 du code général des impôts, frais de mainlevée notariée
+de l'inscription s'il y a lieu.
 
 6° NANTISSEMENT DE FONDS DE COMMERCE
 

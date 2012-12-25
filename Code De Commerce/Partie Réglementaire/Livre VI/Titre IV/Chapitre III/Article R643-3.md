@@ -1,8 +1,8 @@
 Article R643-3
 ----
-L'adjudicataire fait publier au bureau des hypothèques l'acte ou le jugement
-d'adjudication dans les deux mois de sa date et en cas d'appel dans les deux
-mois de l'arrêt confirmatif, sous peine de réitération des enchères à la
+L'adjudicataire fait publier au service de la publicité foncière l'acte ou le
+jugement d'adjudication dans les deux mois de sa date et en cas d'appel dans les
+deux mois de l'arrêt confirmatif, sous peine de réitération des enchères à la
 diligence du liquidateur.
 
 Dans les trois mois de l'adjudication, l'adjudicataire verse au compte de dépôt

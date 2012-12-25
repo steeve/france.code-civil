@@ -21,6 +21,6 @@ c) Pour les forêts publiques et privées, au règlement type de gestion approuv
 par l'autorité compétente, dès lors que ce dernier comporte une cartographie des
 forêts auxquelles il s'applique.
 
-II.-En outre, la décision de classement est publiée au bureau des hypothèques
-ou, dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, au livre
+II.-En outre, la décision de classement est publiée au fichier immobilier ou,
+dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, au livre
 foncier du lieu de situation de l'immeuble.

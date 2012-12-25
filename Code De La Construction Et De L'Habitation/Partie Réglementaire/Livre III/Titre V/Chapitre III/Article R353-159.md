@@ -28,7 +28,7 @@ III.-La convention ouvrant droit à l'aide personnalisée au logement conclue en
 application de l'article L. 353-2 doit être conforme à l'une des conventions
 types annexées au présent article.
 
-IV.-La convention est publiée au bureau des hypothèques ou inscrite au livre
+IV.-La convention est publiée au fichier immobilier ou inscrite au livre
 foncier, à l'initiative du préfet, ou, lorsqu'un établissement public de
 coopération intercommunale ou un département a signé la convention mentionnée
 aux articles L. 301-5-1 et L. 301-5-2, du président de l'établissement public de

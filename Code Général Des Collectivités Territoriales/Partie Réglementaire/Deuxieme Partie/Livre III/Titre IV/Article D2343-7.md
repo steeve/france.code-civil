@@ -15,7 +15,8 @@ nécessaires dans les conditions de l'article R. 2342-4 ;
 
 5° De veiller à la conservation, des droits, privilèges et hypothèques ;
 
-6° De requérir, à cet effet, l'inscription au bureau des hypothèques de tous les
+6° De requérir, à cet effet, la publication au fichier immobilier de tous les
 titres qui en sont susceptibles ;
 
-7° Enfin, de tenir registre des inscriptions au bureau des hypothèques.
+7° Enfin, de tenir registre des inscriptions portées au fichier immobilier et
+autres poursuites et diligences.

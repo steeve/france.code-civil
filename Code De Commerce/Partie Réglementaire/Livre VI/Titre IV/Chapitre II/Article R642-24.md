@@ -7,7 +7,7 @@ il fixe la mise à prix, les modalités de la publicité et les modalités de vi
 du bien. Il statue dans les conditions prévues à l'article R. 642-36-1.
 
 L'ordonnance du juge-commissaire est, à la requête du liquidateur, mentionnée en
-marge de la copie du commandement publié à la conservation des hypothèques.
+marge de la copie du commandement publié au fichier immobilier.
 
 Le créancier qui avait engagé la procédure de saisie immobilière remet au
 liquidateur, contre récépissé, les pièces de la poursuite. Ses frais de

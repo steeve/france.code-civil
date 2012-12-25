@@ -10,8 +10,8 @@ titre IV du livre V du code civil et au décret n° 2008-1086 du 23 octobre 2008
 relatif à l'immatriculation et à l'inscription des droits en matière immobilière
 à Mayotte ;
 
-2° Les références faites au bureau des hypothèques et au conservateur des
-hypothèques s'entendent respectivement des références faites au service de la
+2° Les références faites au service de la publicité foncière et au fichier
+immobilier s'entendent respectivement des références faites au service de la
 conservation de la propriété immobilière et au conservateur de la propriété
 immobilière ;
 

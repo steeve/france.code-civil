@@ -22,7 +22,7 @@ l'exploitation des terrains ;
 
 4° La liste par commune des propriétaires, établie à l'aide d'extraits des
 documents cadastraux délivrés par le service du cadastre ou à l'aide des
-renseignements délivrés par le conservateur des hypothèques au vu du fichier
+renseignements délivrés par le service de la publicité foncière au vu du fichier
 immobilier ou par tous autres moyens.
 
 Lorsque les travaux ont pour objet l'établissement de canalisations souterraines

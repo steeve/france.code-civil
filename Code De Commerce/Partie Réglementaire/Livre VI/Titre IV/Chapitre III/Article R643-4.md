@@ -1,9 +1,9 @@
 Article R643-4
 ----
-Dès la publication de la vente, le liquidateur requiert du conservateur des
-hypothèques l'état des inscriptions, conformément à l'article 2449 du code
-civil, en vue de régler l'ordre entre les créanciers et procéder à la
-distribution du prix.
+Dès la publication de la vente, le liquidateur requiert du service de la
+publicité foncière l'état des inscriptions subsistantes conformément à l'article
+2449 du code civil, en vue de régler l'ordre entre les créanciers et procéder à
+la distribution du prix.
 
 En cas de vente de gré à gré, le liquidateur soit d'office, soit requis par
 l'acquéreur ou par tout intéressé procède à l'ouverture de l'ordre, après

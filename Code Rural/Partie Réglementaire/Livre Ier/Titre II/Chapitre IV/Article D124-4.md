@@ -18,8 +18,8 @@ et, le cas échéant, le montant et les modalités de recouvrement des soultes ;
 ainsi que l'énumération des inscriptions d'hypothèques et de privilèges, des
 droits réels, y compris les servitudes actives ou passives, qui portent sur les
 immeubles, avec l'indication des actes ou décisions judiciaires leur ayant donné
-naissance et les références de la formalité exécutée à la conservation des
-hypothèques (date, volume, numéro) ;
+naissance et les références de la formalité exécutée au service de la publicité
+foncière (date, volume, numéro) ;
 
 5° Eventuellement, le consentement exprès et sans réserve donné par les
 bénéficiaires d'hypothèques ou de privilèges inscrits ou de droits réels publiés

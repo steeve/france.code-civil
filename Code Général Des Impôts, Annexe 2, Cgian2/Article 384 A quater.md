@@ -6,11 +6,11 @@ redevable par la remise de blocs de titres de sociétés cotées, de titres
 d'organismes de placement collectif en valeurs mobilières investis en titres de
 sociétés cotées ou en obligations négociables, ainsi que d'obligations
 négociables, mentionnés à l'article 1716 bis du code général des impôts, doit
-déposer au service des impôts ou à la conservation des hypothèques compétent
+déposer au service des impôts ou au service de la publicité foncière compétent
 pour enregistrer l'acte constatant la mutation, le partage ou la déclaration de
 succession, une offre de dation à l'Etat indiquant le marché sur lequel sont
 cotés les titres qu'il envisage de remettre à l'Etat ainsi que leur nombre et
-leur code d'identification sur ce marché.L'offre est accompagnée de la copie du
+leur code d'identification sur ce marché. L'offre est accompagnée de la copie du
 dernier relevé de compte titres sur lequel les titres sont inscrits. Il en est
 délivré récépissé.
 
