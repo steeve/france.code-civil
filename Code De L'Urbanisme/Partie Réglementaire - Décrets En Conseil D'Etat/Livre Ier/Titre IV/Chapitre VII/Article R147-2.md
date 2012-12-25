@@ -15,5 +15,17 @@ La zone de bruit modéré C est la zone comprise entre la limite extérieure de 
 zone B et la courbe correspondant à une valeur de l'indice Lden choisie entre 57
 et 55.
 
+Pour les aérodromes mentionnés à l'article R. 147-1-1, la zone de bruit modéré C
+est la zone comprise entre la limite extérieure de la zone B et la courbe
+correspondant à une valeur de l'indice Lden choisie entre 57 et 52.
+
+Pour les aérodromes militaires figurant sur une liste fixée par arrêté du
+ministre de la défense, les dispositions de l'article R. 147-1-1 ne s'appliquent
+pas. Pour ces aérodromes, la zone de bruit fort B est la zone comprise entre la
+limite extérieure de la zone A et la courbe correspondant à une valeur d'indice
+Lden choisie entre 68 et 62. La zone de bruit modéré C est la zone comprise
+entre la limite extérieure de la zone B et la courbe correspondant à une valeur
+de l'indice Lden choisie entre 64 et 55.
+
 La zone D est la zone comprise entre la limite extérieure de la zone C et la
 courbe d'indice Lden 50.
