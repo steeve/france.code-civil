@@ -15,8 +15,9 @@ Pour les bovins adultes
 
 5
 
-
-Pour les veaux et les jeunes bovins
+Pour les jeunes bovins, au sens de l'annexe VI ter point 1 b du règlement (CE)
+n° 2074/2005, c'est-à-dire les bovins de moins de 8 mois (usuellement appelés
+veaux)
 
 2
 
