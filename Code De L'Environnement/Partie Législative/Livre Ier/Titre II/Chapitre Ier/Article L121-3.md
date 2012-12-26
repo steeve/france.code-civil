@@ -47,6 +47,9 @@ Le président et les vice-présidents sont nommés par décret.
 Le mandat des membres est renouvelable une fois.
 
 Le président et les vice-présidents exercent leurs fonctions à plein temps et
-sont rémunérés.
+sont rémunérés. Lorsqu'ils sont occupés par des fonctionnaires, les emplois de
+président et de vice-président de la Commission nationale du débat public sont
+des emplois conduisant à pension au titre du code des pensions civiles et
+militaires de retraite.
 
 Les fonctions des autres membres donnent lieu à indemnité.

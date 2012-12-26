@@ -20,9 +20,12 @@ d'agrément est applicable aux associations inscrites depuis trois ans au moins.
 Ces associations sont dites "associations agréées de protection de
 l'environnement".
 
-Cet agrément est attribué dans des conditions prévues par décret en Conseil
-d'Etat. Il peut être retiré lorsque l'association ne satisfait plus aux
-conditions qui ont conduit à le délivrer.
+Cet agrément est attribué dans des conditions définies par décret en Conseil
+d'Etat. Il est valable pour une durée limitée et dans un cadre déterminé en
+tenant compte du territoire sur lequel l'association exerce effectivement les
+activités énoncées au premier alinéa. Il peut être renouvelé. Il peut être
+abrogé lorsque l'association ne satisfait plus aux conditions qui ont conduit à
+le délivrer.
 
 Les associations exerçant leurs activités dans les domaines mentionnés au
 premier alinéa ci-dessus et agréées antérieurement au 3 février 1995 sont

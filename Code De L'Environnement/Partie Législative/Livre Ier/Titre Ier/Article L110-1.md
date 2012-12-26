@@ -26,11 +26,13 @@ disponibles à un coût économiquement acceptable ;
 prévention, de réduction de la pollution et de lutte contre celle-ci doivent
 être supportés par le pollueur ;
 
-4° Le principe de participation, selon lequel chacun a accès aux informations
-relatives à l'environnement, y compris celles relatives aux substances et
-activités dangereuses, et le public est associé au processus d'élaboration des
-projets ayant une incidence importante sur l'environnement ou l'aménagement du
-territoire.
+4° Le principe selon lequel toute personne a le droit d'accéder aux informations
+relatives à l'environnement détenues par les autorités publiques ;
+
+5° Le principe de participation en vertu duquel toute personne est informée des
+projets de décisions publiques ayant une incidence sur l'environnement dans des
+conditions lui permettant de formuler ses observations, qui sont prises en
+considération par l'autorité compétente.
 
 III. - L'objectif de développement durable, tel qu'indiqué au II, répond, de
 façon concomitante et cohérente, à cinq finalités :
