@@ -1,7 +1,16 @@
 Article D5131-12
 ----
-Le service d'infrastructure de la défense participe aux tâches d'administration
-concernant la constitution, l'adaptation et l'inventaire permanent du domaine
-immobilier confié aux unités et services du ministère de la défense. Il
-participe à la surveillance, à la conservation et à la police de ce domaine et
-peut disposer à cette fin d'agents assermentés.
+Sous réserve des compétences dévolues en la matière aux états-majors, directions
+et services, le commandant de région terre représente le ministre auprès des
+services déconcentrés de l'Etat et auprès des collectivités territoriales, dans
+les limites de la région terre, pour les questions d'urbanisme intéressant le
+ministère de la défense. Il transmet au préfet les informations relatives aux
+installations de la défense ayant une incidence sur le territoire concerné, que
+l'Etat porte à la connaissance des communes ou de leurs groupements en
+application de l'article R. * 121-1 du code de l'urbanisme.
+
+Au titre de cette compétence, il a recours à l'établissement du service
+d'infrastructure de la défense territorialement compétent pour assurer
+l'instruction de ces dossiers et peut le solliciter pour assurer sa
+représentation auprès des services déconcentrés de l'Etat et des collectivités
+territoriales.
