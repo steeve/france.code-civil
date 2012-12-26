@@ -1,5 +1,6 @@
 Article R6152-803
 ----
-Ce compte permet à son titulaire d'accumuler des droits à congés rémunérés. Il
-est ouvert à la demande des praticiens concernés qui sont informés annuellement,
-par le directeur de l'établissement, des droits épargnés.
+Ce compte est ouvert par le chef d'établissement qui informe, chaque début
+d'année, le praticien titulaire du compte des droits épargnés et consommés au
+terme de l'année civile écoulée et lui demande de faire connaître, au plus tard
+le 31 mars, son choix d'utilisation des jours épargnés.

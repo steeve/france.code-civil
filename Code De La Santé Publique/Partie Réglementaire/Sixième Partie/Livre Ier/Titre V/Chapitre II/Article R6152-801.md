@@ -10,7 +10,7 @@ intéressés.
 
 Sont exclues de l'application de ces dispositions les périodes suivantes : congé
 bonifié, mission temporaire non rémunérée, congé de longue maladie, congé de
-longue durée ou de grave maladie, congé parental et congé de fin d'exercice.
+longue durée ou de grave maladie, et congé parental.
 
 Les congés accordés au titre de la réduction du temps de travail et les congés
 bonifiés ne peuvent être pris à la suite les uns des autres.

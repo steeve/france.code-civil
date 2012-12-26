@@ -11,5 +11,6 @@ du départ à la retraite sans que l'utilisation des droits puisse entraîner le
 report de la date de cessation des fonctions.
 
 Le compte épargne-temps peut être utilisé de plein droit à l'issue d'un congé de
-maternité, d'adoption ou de paternité dès lors que la demande en a été faite
-auprès du directeur de l'établissement.
+maternité, d'adoption, de paternité, de solidarité familiale ou d'un congé de
+maladie d'une durée égale ou supérieure à trois mois dès lors que la demande en
+a été faite auprès du directeur de l'établissement.

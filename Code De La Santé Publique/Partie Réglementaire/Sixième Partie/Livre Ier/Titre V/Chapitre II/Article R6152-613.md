@@ -13,6 +13,19 @@ définies à l'article R. 6152-801 ;
 des astreintes et des déplacements en astreinte, lorsqu'ils n'ont pas fait
 l'objet d'une indemnisation.
 
+Le chef de pôle ou, à défaut, le responsable de la structure interne organise,
+après consultation des praticiens de la structure et sur la base de
+l'organisation arrêtée conformément aux dispositions de l'article R. 6152-605,
+la prise des jours de congé sur certaines périodes de l'année en fonction de
+l'activité.
+
+Pour cette prise de congé, le praticien attaché peut utiliser des jours de congé
+annuel, des jours de réduction du temps de travail, des jours de récupération et
+des jours accumulés sur son compte épargne-temps.
+
+L'organisation du temps de présence et d'absence des praticiens attachés est
+intégrée dans les contrats de pôle.
+
 Le directeur arrête le tableau des congés et des jours de récupération
 mentionnés aux 1°, 2° et 3° après avis du chef de pôle ou, à défaut, du
 responsable du service, de l'unité fonctionnelle ou de toute autre structure

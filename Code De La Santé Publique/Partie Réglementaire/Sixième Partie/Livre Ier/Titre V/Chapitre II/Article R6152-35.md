@@ -15,6 +15,19 @@ Pendant les congés et les jours de récupération mentionnés aux 1°, 2° et 3
 praticiens perçoivent la totalité des émoluments mentionnés au 1° de l'article
 R. 6152-23.
 
+Le chef de pôle ou, à défaut, le responsable de la structure interne organise,
+après consultation des praticiens de la structure et sur la base de
+l'organisation arrêtée conformément aux dispositions du dernier alinéa de
+l'article R. 6152-26, la prise des jours de congé sur certaines périodes de
+l'année en fonction de l'activité.
+
+Pour cette prise de congé, le praticien peut utiliser des jours de congé annuel,
+des jours de réduction du temps de travail, des jours de récupération et des
+jours accumulés sur son compte épargne-temps.
+
+L'organisation du temps de présence et d'absence des personnels médicaux,
+pharmaceutiques et odontologiques est intégrée dans les contrats de pôle.
+
 Le directeur de l'établissement arrête le tableau des congés et jours de
 récupération prévus aux 1°, 2° et 3° ci-dessus après avis du chef de pôle ou, à
 défaut, du responsable du service, de l'unité fonctionnelle ou d'une autre
