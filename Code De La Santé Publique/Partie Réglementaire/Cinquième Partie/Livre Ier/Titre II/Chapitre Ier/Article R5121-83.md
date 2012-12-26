@@ -9,12 +9,11 @@ a) A un médecin, un chirurgien-dentiste ou une sage-femme répondant aux
 conditions fixées au livre Ier de la partie IV du présent code, ainsi qu'au I de
 l'article 60 de la loi n° 99-641 du 27 juillet 1999 portant création d'une
 couverture maladie universelle, et exerçant dans un établissement de santé
-public ou privé ainsi que dans un syndicat interhospitalier ou un groupement de
-coopération sanitaire autorisé, respectivement en vertu des articles L. 6132-2,
-dans sa rédaction antérieure à la publication de la loi n° 2009-879 du 21
-juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé
-et aux territoires, et L. 6133-7, à assurer les missions d'un établissement de
-santé ;
+public ou privé ainsi que dans un groupement de coopération sanitaire autorisé,
+respectivement en vertu des articles L. 6132-2, dans sa rédaction antérieure à
+la publication de la loi n° 2009-879 du 21 juillet 2009 portant réforme de
+l'hôpital et relative aux patients, à la santé et aux territoires, et L. 6133-7,
+à assurer les missions d'un établissement de santé ;
 
 b) A un médecin répondant aux mêmes conditions, dans le cadre strict de
 l'activité qu'il exerce dans une installation de chirurgie esthétique autorisée
@@ -26,11 +25,10 @@ délégation de celui-ci, d'un responsable d'une structure interne du pôle, à
 l'exclusion des unités fonctionnelles ;
 
 2° La dispensation du médicament est réservée aux pharmacies à usage intérieur
-des établissements mentionnés au 1° ou à celles des syndicats interhospitaliers
-et des groupements de coopération sanitaire agissant pour le compte des
-établissements de santé qui en sont membres ou, le cas échéant, aux personnes
-assurant, dans ces établissements, les responsabilités mentionnées à l'article
-L. 5126-6 ;
+des établissements mentionnés au 1° ou à celles des groupements de coopération
+sanitaire agissant pour le compte des établissements de santé qui en sont
+membres ou, le cas échéant, aux personnes assurant, dans ces établissements, les
+responsabilités mentionnées à l'article L. 5126-6 ;
 
 3° L'administration du médicament ne peut être effectuée qu'au cours d'une
 hospitalisation dans un établissement énuméré au 1°, y compris, sauf mention

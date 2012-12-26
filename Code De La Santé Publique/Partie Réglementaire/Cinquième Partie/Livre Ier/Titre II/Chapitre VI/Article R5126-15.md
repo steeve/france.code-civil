@@ -46,17 +46,14 @@ renseignement concernant ces pharmacies à usage intérieur pour ce qui est de
 leur localisation et de leur activité, ainsi que les modalités de leur
 approvisionnement ;
 
-9° En outre, pour les syndicats interhospitaliers et les groupements de
-coopération sanitaire, l'arrêté ou l'acte d'approbation respectivement prévus
-aux articles L. 6132-2, dans sa rédaction antérieure à la publication de la loi
-n° 2009-879 du 21 juillet 2009 portant réforme de l'hôpital et relative aux
-patients, à la santé et aux territoires, et L. 6133-3 permettant de vérifier
-qu'une telle demande est conforme à l'objet du syndicat ou du groupement ;
+9° En outre, pour les groupements de coopération sanitaire, l'arrêté ou l'acte
+d'approbation prévu à l'article L. 6133-3 permettant de vérifier qu'une telle
+demande est conforme à l'objet du groupement ;
 
-10° Lorsque la pharmacie d'un établissement de santé ou de chirurgie esthétique,
-d'un syndicat interhospitalier ou d'un groupement de coopération sanitaire a
-notamment pour rôle d'assurer la stérilisation des dispositifs médicaux, un
-document attestant de l'adoption du système prévu à l'article L. 6111-1 ;
+10° Lorsque la pharmacie d'un établissement de santé ou de chirurgie esthétique
+ou d'un groupement de coopération sanitaire a notamment pour rôle d'assurer la
+stérilisation des dispositifs médicaux, un document attestant de l'adoption du
+système prévu à l'article L. 6111-1 ;
 
 11° Lorsque l'autorisation est sollicitée en application de l'article L. 5126-3,
 la convention fixant les engagements des parties, mentionnée au même article ;

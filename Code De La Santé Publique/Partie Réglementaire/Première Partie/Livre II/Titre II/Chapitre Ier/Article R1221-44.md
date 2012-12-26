@@ -19,9 +19,8 @@ constitutive du groupement de coopération sanitaire fixe les modalités de
 composition, d'organisation et de fonctionnement du comité de sécurité
 transfusionnelle et d'hémovigilance d'établissement.
 
-Dans chaque établissement public de santé ainsi que dans les syndicats
-interhospitaliers autorisés à assurer les missions d'un établissement de santé,
-les attributions du comité susmentionné sont exercées par la sous-commission
-chargée de la sécurité transfusionnelle et de l'hémovigilance en application du
-II de l'article L. 6144-1 et dont les modalités de composition, d'organisation
-et de fonctionnement sont fixées par les articles R. 6144-30-1 à R. 6144-30-9.
+Dans chaque établissement public de santé, les attributions du comité
+susmentionné sont exercées par la sous-commission chargée de la sécurité
+transfusionnelle et de l'hémovigilance en application du II de l'article L.
+6144-1 et dont les modalités de composition, d'organisation et de fonctionnement
+sont fixées par les articles R. 6144-30-1 à R. 6144-30-9.

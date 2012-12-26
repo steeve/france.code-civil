@@ -39,15 +39,13 @@ chargé de la santé, pris sur proposition du directeur général de l'Agence
 nationale de sécurité du médicament et des produits de santé.
 
 Le correspondant d'hémovigilance est désigné, selon le cas, par le directeur de
-l'établissement de santé, le secrétaire général du syndicat interhospitalier ou
-l'administrateur du groupement de coopération sanitaire. Dans les établissements
-publics de santé et les syndicats interhospitaliers, cette désignation
+l'établissement de santé ou l'administrateur du groupement de coopération
+sanitaire. Dans les établissements publics de santé, cette désignation
 intervient après avis de la commission médicale d'établissement. Dans les
 établissements de santé privés, elle intervient après avis de la commission
 médicale ou de la conférence médicale. Le correspondant d'hémovigilance du
-syndicat interhospitalier ou du groupement de coopération sanitaire peut être le
-correspondant d'hémovigilance d'un établissement de santé membre du syndicat ou
-du groupement.
+groupement de coopération sanitaire peut être le correspondant d'hémovigilance
+d'un établissement de santé membre du groupement.
 
 Le nom du correspondant est communiqué par l'établissement à l'Agence nationale
 de sécurité du médicament et des produits de santé, au coordonnateur régional

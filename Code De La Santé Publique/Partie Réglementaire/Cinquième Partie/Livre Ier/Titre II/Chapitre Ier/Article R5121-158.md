@@ -15,12 +15,9 @@ missions de service public mentionnées à l'article L. 6112-1 ou sont associés
 son fonctionnement ;
 
 3° De réunir les informations de même nature qui leur sont transmises par les
-autres établissements de santé, les syndicats interhospitaliers et les
-groupements de coopération sanitaire autorisés en vertu des articles L. 6132-2,
-dans sa rédaction antérieure à la publication de la loi n° 2009-879 du 21
-juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé
-et aux territoires, et L. 6133-7 à assurer les missions de ces établissements
-ou, à titre individuel, par les membres de professions de santé ;
+autres établissements de santé et les groupements de coopération sanitaire
+autorisés en vertu de l'article L. 6133-7 à assurer les missions de ces
+établissements ou, à titre individuel, par les membres de professions de santé ;
 
 4° De transmettre au directeur général de l'Agence nationale de sécurité du
 médicament et des produits de santé les informations recueillies en application

@@ -5,9 +5,7 @@ de santé peuvent, avec leur accord et en demeurant dans cette position
 statutaire, être mis à disposition soit d'un établissement mentionné à l'article
 R. 6152-1, d'une administration ou d'un établissement public de l'Etat, d'une
 collectivité territoriale ou d'un établissement public en dépendant, d'un
-syndicat interhospitalier dès lors que ce syndicat est autorisé à exercer les
-missions d'un établissement de santé ou à gérer une pharmacie à usage intérieur,
-d'un groupement d'intérêt public entrant dans l'un des cas prévus à l'article L.
+groupement d'intérêt public entrant dans l'un des cas prévus à l'article L.
 6134-1 ou d'un groupement de coopération sanitaire ou groupement de coopération
 sociale et médico-sociale dont est membre leur établissement d'affectation.
 
@@ -28,8 +26,7 @@ Elle prévoit le remboursement de la rémunération et des charges y afférant p
 l'établissement ou l'organisme d'accueil.
 
 Elle peut toutefois prévoir l'exonération totale ou partielle, temporaire ou
-permanente, de ce remboursement sauf lorsque la mise à disposition intervient au
-bénéfice d'un syndicat interhospitalier.
+permanente, de ce remboursement.
 
 La convention de mise à disposition auprès d'un établissement mentionné à
 l'article R. 6152-1 est conclue pour une durée de six mois, renouvelable une

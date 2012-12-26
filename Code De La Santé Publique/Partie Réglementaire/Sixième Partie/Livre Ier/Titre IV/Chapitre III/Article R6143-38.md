@@ -10,6 +10,3 @@ les usagers. Lorsque ces décisions ou délibérations font grief à d'autres
 personnes que les usagers et les personnels, elles sont, en outre, publiées au
 bulletin des actes administratifs de la préfecture du département dans lequel
 l'établissement a son siège.
-
-Les dispositions du présent article s'appliquent aux actes des syndicats
-interhospitaliers.

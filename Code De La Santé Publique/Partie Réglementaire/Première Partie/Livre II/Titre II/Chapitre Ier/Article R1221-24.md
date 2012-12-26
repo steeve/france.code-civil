@@ -2,18 +2,18 @@ Article R1221-24
 ----
 Le système national d'hémovigilance comprend :
 
--l'Agence nationale de sécurité du médicament et des produits de santé ;
+- l'Agence nationale de sécurité du médicament et des produits de santé ;
 
--les coordonnateurs régionaux d'hémovigilance mentionnés à l'article R. 1221-32
+- les coordonnateurs régionaux d'hémovigilance mentionnés à l'article R. 1221-32
 ;
 
--l'Etablissement français du sang et le centre de transfusion sanguine des
+- l'Etablissement français du sang et le centre de transfusion sanguine des
 armées ;
 
--l'Institut de veille sanitaire ;
+- l'Institut de veille sanitaire ;
 
--les établissements de santé, les syndicats interhospitaliers et groupements de
-coopération sanitaire autorisés à assurer les missions d'un établissement de
-santé et les hôpitaux des armées ;
+- les établissements de santé, les groupements de coopération sanitaire
+autorisés à assurer les missions d'un établissement de santé et les hôpitaux des
+armées ;
 
--tout professionnel de santé.
+- tout professionnel de santé.

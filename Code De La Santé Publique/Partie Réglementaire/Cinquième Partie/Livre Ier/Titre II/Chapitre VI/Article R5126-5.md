@@ -1,12 +1,11 @@
 Article R5126-5
 ----
 Par dérogation aux articles R. 5126-2 et R. 5126-3, il peut être implanté une
-pharmacie à usage intérieur en tout lieu dépendant d'un établissement, d'un
-groupement ou d'un syndicat mentionné à l'article R. 5126-2 en vue,
-exclusivement :
+pharmacie à usage intérieur en tout lieu dépendant d'un établissement ou d'un
+groupement mentionné à l'article R. 5126-2 en vue, exclusivement :
 
 1° D'approvisionner les autres pharmacies à usage intérieur de cet établissement
-ou des membres de ce syndicat ou groupement ;
+ou des membres de ce groupement ;
 
 2° D'assurer la stérilisation des dispositifs médicaux ;
 

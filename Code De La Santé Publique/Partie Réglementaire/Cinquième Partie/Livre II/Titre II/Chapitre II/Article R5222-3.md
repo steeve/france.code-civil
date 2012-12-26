@@ -8,9 +8,8 @@ Le système national de réactovigilance comprend :
 
 3° L'Etablissement français du sang ;
 
-4° Tout établissement de santé ainsi que tout syndicat interhospitalier ou
-groupement de coopération sanitaire utilisateur de dispositifs médicaux de
-diagnostic in vitro ;
+4° Tout établissement de santé ainsi que tout groupement de coopération
+sanitaire utilisateur de dispositifs médicaux de diagnostic in vitro ;
 
 5° Les professionnels de santé utilisateurs, autres que ceux exerçant dans un
 établissement mentionné aux 3° et 4° ;

@@ -1,14 +1,14 @@
 Article R4615-11
 ----
 Les représentants mentionnés au 1° de l'article R. 4615-9 sont désignés par les
-organisations syndicales existant dans l'établissement ou le syndicat
-interhospitalier lors de la constitution ou du renouvellement du comité.
+organisations syndicales existant dans l'établissement lors de la constitution
+ou du renouvellement du comité.
 
 Les sièges sont attribués proportionnellement au nombre de voix recueilli par
-chacune des organisations syndicales, dans l'établissement ou le syndicat
-interhospitalier, à l'occasion du renouvellement du comité technique
-d'établissement. Lorsqu'il reste des sièges à pourvoir, les sièges restants sont
-attribués sur la base de la plus forte moyenne.
+chacune des organisations syndicales, dans l'établissement , à l'occasion du
+renouvellement du comité technique d'établissement. Lorsqu'il reste des sièges à
+pourvoir, les sièges restants sont attribués sur la base de la plus forte
+moyenne.
 
 Au sein de l'Assistance publique-hôpitaux de Paris, les sièges aux comités
 d'hygiène, de sécurité et des conditions de travail institués dans les

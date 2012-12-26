@@ -31,8 +31,8 @@ domicile, par les personnes morales mentionnées à l'article L. 4211-5.
 A titre exceptionnel et si elle n'est plus provisoirement à même d'assurer une
 ou plusieurs de ses activités, une pharmacie à usage intérieur peut en confier
 la réalisation à d'autres pharmacies à usage intérieur du même établissement ou
-du syndicat interhospitalier ou du groupement de coopération sanitaire dont est
-membre l'établissement où elle est implantée. L'autorité administrative
-compétente en vertu de l'article R. 5126-16 ou de l'article R. 5126-16-1 est
-immédiatement tenue informée de l'adoption d'une telle organisation ainsi que de
-la durée prévisionnelle de sa mise en oeuvre.
+du groupement de coopération sanitaire dont est membre l'établissement où elle
+est implantée. L'autorité administrative compétente en vertu de l'article R.
+5126-16 ou de l'article R. 5126-16-1 est immédiatement tenue informée de
+l'adoption d'une telle organisation ainsi que de la durée prévisionnelle de sa
+mise en oeuvre.

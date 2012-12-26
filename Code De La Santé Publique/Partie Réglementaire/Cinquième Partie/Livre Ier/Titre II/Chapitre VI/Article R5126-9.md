@@ -41,5 +41,5 @@ L'activité prévue au 7° est réservée aux pharmacies à usage intérieur des
 ou à des unités d'autodialyse.
 
 Les dispositions des articles L. 5126-4 et L. 5126-11 sont applicables aux
-hôpitaux des armées ainsi qu'aux syndicats interhospitaliers et aux groupements
-de coopération sanitaire gérant des pharmacies à usage intérieur.
+hôpitaux des armées ainsi qu'aux groupements de coopération sanitaire gérant des
+pharmacies à usage intérieur.

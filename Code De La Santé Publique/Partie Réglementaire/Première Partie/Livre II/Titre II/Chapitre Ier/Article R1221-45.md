@@ -3,9 +3,8 @@ Article R1221-45
 Le comité de sécurité transfusionnelle et d'hémovigilance et la sous-commission
 chargée de la sécurité transfusionnelle et de l'hémovigilance ont pour mission
 de contribuer par leurs études et propositions à l'amélioration de la sécurité
-des patients transfusés dans les établissements de santé, les syndicats
-interhospitaliers et les groupements de coopération sanitaire où ils sont
-constitués.
+des patients transfusés dans les établissements de santé et les groupements de
+coopération sanitaire où ils sont constitués.
 
 Ce comité ou cette sous-commission veille à la mise en oeuvre des règles et
 procédures d'hémovigilance prévues par la présente section. Ils sont notamment
@@ -21,17 +20,15 @@ d'effet indésirable survenu chez un receveur ;
 
 2° Sont saisies de toute question relative à la collaboration des correspondants
 d'hémovigilance de l'établissement de transfusion sanguine et de l'établissement
-de santé, du syndicat interhospitalier ou du groupement de coopération
-sanitaire, et plus généralement de toute question portant sur les circuits de
-transmission des informations, en vue d'améliorer l'efficacité de
-l'hémovigilance ;
+de santé ou du groupement de coopération sanitaire, et plus généralement de
+toute question portant sur les circuits de transmission des informations, en vue
+d'améliorer l'efficacité de l'hémovigilance ;
 
 3° Se tiennent informées des conditions de fonctionnement des dépôts de sang ;
 
-4° Sont averties des incidents graves survenus dans l'établissement de santé, le
-syndicat interhospitalier ou le groupement de coopération sanitaire ainsi que
-des effets indésirables survenus chez les receveurs, et conçoivent toute mesure
-destinée à y remédier ;
+4° Sont averties des incidents graves survenus dans l'établissement de santé ou
+le groupement de coopération sanitaire ainsi que des effets indésirables
+survenus chez les receveurs, et conçoivent toute mesure destinée à y remédier ;
 
 5° Présentent à la commission médicale d'établissement, à la commission médicale
 ou à la conférence médicale un programme de formation en sécurité

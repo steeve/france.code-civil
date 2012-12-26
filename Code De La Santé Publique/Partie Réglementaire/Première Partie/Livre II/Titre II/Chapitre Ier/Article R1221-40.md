@@ -1,10 +1,10 @@
 Article R1221-40
 ----
-Chaque établissement de santé, public ou privé ainsi que chaque syndicat
-interhospitalier et chaque groupement de coopération sanitaire autorisés à
-assurer les missions d'un établissement de santé, est tenu de recueillir et de
-conserver, pour chaque unité de produit sanguin labile qui lui est distribuée ou
-délivrée pour un patient hospitalisé, les informations suivantes :
+Chaque établissement de santé, public ou privé et chaque groupement de
+coopération sanitaire autorisés à assurer les missions d'un établissement de
+santé, est tenu de recueillir et de conserver, pour chaque unité de produit
+sanguin labile qui lui est distribuée ou délivrée pour un patient hospitalisé,
+les informations suivantes :
 
 1° Le numéro d'identification de l'unité préparée conformément à la codification
 nationale approuvée par l'Agence nationale de sécurité du médicament et des

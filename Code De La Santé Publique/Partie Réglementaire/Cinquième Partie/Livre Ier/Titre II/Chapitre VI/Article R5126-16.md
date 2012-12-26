@@ -2,15 +2,15 @@ Article R5126-16
 ----
 L'autorisation de création ou de transfert est délivrée par le directeur général
 de l'agence régionale de santé de la région du lieu d'implantation prévu, pour
-les établissements de santé, les groupements de coopération sanitaire, les
-syndicats interhospitaliers ainsi que les établissements pénitentiaires, les
-établissements médico-sociaux mentionnés à l'article R. 5126-1 et les
-établissements de chirurgie esthétique. Le directeur général de l'agence
-régionale de santé prend sa décision après avis, selon le cas, de la section E
-ou H de l'ordre national des pharmaciens. Si l'ordre national des pharmaciens
-n'a pas donné son avis dans un délai de trois mois à compter de la date de
-signature de l'accusé de réception du dossier par l'ordre, le directeur général
-de l'agence régionale de santé peut statuer. L'autorisation mentionne :
+les établissements de santé, les groupements de coopération sanitaire ainsi que
+les établissements pénitentiaires, les établissements médico-sociaux mentionnés
+à l'article R. 5126-1 et les établissements de chirurgie esthétique. Le
+directeur général de l'agence régionale de santé prend sa décision après avis,
+selon le cas, de la section E ou H de l'ordre national des pharmaciens. Si
+l'ordre national des pharmaciens n'a pas donné son avis dans un délai de trois
+mois à compter de la date de signature de l'accusé de réception du dossier par
+l'ordre, le directeur général de l'agence régionale de santé peut statuer.
+L'autorisation mentionne :
 
 1° Le ou les sites d'implantation de la pharmacie et le ou les emplacements de
 ses locaux ;

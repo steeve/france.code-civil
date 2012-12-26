@@ -27,11 +27,10 @@ Une convention précise les modalités d'approvisionnement des médicaments
 réservés à l'usage hospitalier qui doivent permettre de garantir la continuité
 et la sécurité de cet approvisionnement.
 
-Dans les syndicats interhospitaliers et les groupements de coopération
-sanitaire, les produits pharmaceutiques mentionnés aux précédents alinéas
-peuvent être détenus et dispensés sous la responsabilité d'un pharmacien chargé
-de la gérance de l'une des pharmacies à usage intérieur des établissements
-membres.
+Dans les groupements de coopération sanitaire, les produits pharmaceutiques
+mentionnés aux précédents alinéas peuvent être détenus et dispensés sous la
+responsabilité d'un pharmacien chargé de la gérance de l'une des pharmacies à
+usage intérieur des établissements membres.
 
 Les médicaments mentionnés à l'article R. 5132-1 sont détenus et leur stock
 reconstitué dans les conditions de l'article R. 5132-42.
