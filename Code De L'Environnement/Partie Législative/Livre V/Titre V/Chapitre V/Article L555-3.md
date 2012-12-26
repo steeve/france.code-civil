@@ -7,10 +7,6 @@ sur la conception, la construction, la mise en service, l'exploitation, la
 surveillance, la maintenance, les modifications etl'arrêt temporaire ou
 définitif d'exploitation des canalisations mentionnées à l'article L. 555-1.
 
-Le projet d'arrêté de prescriptions techniques et d'exploitation fait l'objet
-d'une publication, éventuellement par voie électronique, avant transmission
-pouravis au Conseil supérieur de la prévention des risques technologiques.
-
 Cet arrêté s'impose de plein droit aux canalisations nouvelles. Il fixe les
 délais et les conditions dans lesquels il s'applique aux canalisations
 existantes.

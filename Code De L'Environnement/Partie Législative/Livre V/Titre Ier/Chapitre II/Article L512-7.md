@@ -26,12 +26,9 @@ occupés par des tiers, des établissements recevant du public, des cours d'eau,
 des voies de communication, des captages d'eau ou des zones destinées à
 l'habitation par des documents d'urbanisme opposables aux tiers.
 
-III.-Les projets de prescriptions générales font l'objet d'une publication,
-éventuellement par voie électronique, avant transmission pour avis au Conseil
-supérieur de la prévention des risques technologiques. Après avis du Conseil
-supérieur de la prévention des risques technologiques et consultation des
-ministres intéressés, ces prescriptions générales sont fixées par arrêté du
-ministre chargé des installations classées.
+III. - Les prescriptions générales sont fixées par arrêté du ministre chargé des
+installations classées après avis du Conseil supérieur de la prévention des
+risques technologiques et consultation des ministres intéressés.
 
 La publication d'un arrêté de prescriptions générales est nécessaire à l'entrée
 en vigueur du classement d'une rubrique de la nomenclature dans le régime

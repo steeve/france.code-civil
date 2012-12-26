@@ -5,9 +5,6 @@ arrêtés préfectoraux, pris après avis de la commission départementale
 consultative compétente et, pour les ateliers hors sol, de la commission
 départementale d'orientation de l'agriculture. Elles s'appliquent
 automatiquement à toute installation nouvelle ou soumise à nouvelle déclaration.
-Les projets de prescriptions générales font l'objet d'une publication,
-éventuellement par voie électronique, avant leur transmission à la commission
-départementale consultative compétente.
 
 Les modifications ultérieures de ces prescriptions générales peuvent être
 rendues applicables aux installations existantes selon les modalités et selon

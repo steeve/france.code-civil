@@ -63,6 +63,5 @@ prescription de travaux de réduction de la vulnérabilité, ainsi que
 d'information des populations, dans les zones exposées aux risques définies par
 les plans de prévention des risques naturels prévisibles.
 
-Les projets de décret sont mis à la disposition du public par voie électronique,
-pendant une durée d'un mois avant le recueil de l'avis du conseil d'orientation
-pour la prévention des risques naturels majeurs.
+Les projets de décret sont soumis pour avis au conseil d'orientation pour la
+prévention des risques naturels majeurs.

@@ -1,14 +1,19 @@
 Article L371-3
 ----
-Un document-cadre intitulé " Schéma régional de cohérence écologique ” est
+Un document-cadre intitulé "Schéma régional de cohérence écologique" est
 élaboré, mis à jour et suivi conjointement par la région et l'Etat en
-association avec un comité régional " trames verte et bleue ” créé dans chaque
-région. Ce comité comprend l'ensemble des départements de la région ainsi que
-des représentants des groupements de communes compétents en matière
-d'aménagement de l'espace ou d'urbanisme, des communes concernées, des parcs
-nationaux, des parcs naturels régionaux, des associations de protection de
-l'environnement agréées concernées et des partenaires socioprofessionnels
-intéressés. Sa composition et son fonctionnement sont fixés par décret.
+association avec un comité régional "trames verte et bleue" créé dans chaque
+région. Ce comité comprend notamment des représentants des collectivités
+territoriales concernées et de leurs groupements, et notamment de l'ensemble des
+départements de la région, des représentants des parcs naturels régionaux de la
+région, de l'Etat et de ses établissements publics, des organismes
+socio-professionnels intéressés, des propriétaires et des usagers de la nature,
+des associations, organismes ou fondations œuvrant pour la préservation de la
+biodiversité et des gestionnaires d'espaces naturels, notamment les parcs
+nationaux de la région, ainsi que des scientifiques ou représentants
+d'organismes de recherche, d'études ou d'appui aux politiques publiques et des
+personnalités qualifiées. Sa composition et son fonctionnement sont fixés par
+décret.
 
 Le schéma régional de cohérence écologique prend en compte les orientations
 nationales pour la préservation et la remise en bon état des continuités
