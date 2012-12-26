@@ -2,9 +2,10 @@ Article R221-22
 ----
 Au sens de la présente sous-section, on entend par :
 
-― " produits de construction ” : les produits définis au premier alinéa de
-l'article 1er du décret n° 92-647 du 8 juillet 1992 concernant l'aptitude à
-l'usage des produits de construction ;
+- produits de construction : les produits définis à l'article 2 du règlement
+(UE) n° 305/2011 du Parlement européen et du Conseil du 9 mars 2011 établissant
+des conditions harmonisées de commercialisation pour les produits de
+construction et abrogeant la directive 89/106/ CEE du Conseil ;
 
 ― " Polluant volatil ” : substance susceptible d'avoir des effets nocifs sur la
 santé humaine et qui se trouve en phase gazeuse dans l'air intérieur dans des
