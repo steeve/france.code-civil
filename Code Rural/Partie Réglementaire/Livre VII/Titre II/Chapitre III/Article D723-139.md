@@ -16,6 +16,7 @@ général de la Caisse centrale de la mutualité sociale agricole, par le consei
 central d'administration de la Mutualité sociale agricole ou par le ministre
 chargé de l'agriculture.
 
-L'échelon national du contrôle médical participe à la formation des
-praticiens-conseils, tant pour les stages de formation que pour les stages de
-perfectionnement mentionnés à l'article D. 723-148.
+L'échelon national du contrôle médical participe à l'ensemble de la formation
+des praticiens-conseils, y compris le développement professionnel continu
+mentionné aux articles L. 4133-1 à L. 4133-7 et R. 4133-1 à R. 4133-13 du code
+de la santé publique.

@@ -20,11 +20,15 @@ A l'issue de chaque concours, la liste des candidats reçus est arrêtée, par
 ordre de mérite, sur proposition du jury, par le ministre chargé de
 l'agriculture.
 
-Par dérogation aux dispositions du premier alinéa, des candidats
-médecins-conseils ou dentistes-conseils exerçant auparavant dans le service de
-contrôle médical d'autres régimes de sécurité sociale peuvent également, selon
-des modalités fixées par arrêté du ministre de l'agriculture, être inscrits sur
-la liste d'aptitude aux fonctions de praticiens-conseils des régimes agricoles.
+Par dérogation aux dispositions du premier alinéa, les candidats médecins ou
+dentistes exerçant les fonctions de praticien-conseil dans un service de
+contrôle médical d'autres régimes de sécurité sociale, ou ayant cessé de
+pratiquer ces fonctions depuis moins de cinq ans au jour du dépôt de leur
+candidature ainsi que les candidats inscrits ou ayant fait l'objet d'une
+inscription datant de cinq ans au plus sur les listes d'admission des candidats
+établies dans l'un de ces régimes peuvent également être inscrits sur la liste
+d'aptitude aux fonctions de praticien-conseil des régimes agricoles, selon des
+modalités fixées par arrêté du ministre chargé de l'agriculture.
 
 La Caisse centrale de mutualité sociale agricole informe chaque candidat inscrit
 sur la liste d'aptitude mentionnée à l'alinéa précédent des postes de
