@@ -1,22 +1,29 @@
 Article D253-12
 ----
-L'agent comptable ne peut exercer ses fonctions sans avoir été installé par le
-responsable du service mentionné à l'article R. 155-1 ou son représentant et par
-le trésorier-payeur général ou son représentant, en présence du directeur de
-l'organisme.
+L'installation de l'agent comptable dans ses fonctions ainsi que la remise de
+service de l'agent comptable sortant sont constatées par un procès-verbal dressé
+par le directeur de l'organisme en présence des intéressés ainsi que du
+président du conseil d'administration ou de son représentant pour les organismes
+de mutualité sociale agricole. Un exemplaire de ce procès-verbal est adressé au
+responsable du service mentionné à l'article R. 155-1, ou au ministre chargé de
+la sécurité sociale pour les organismes ne relevant pas d'un organisme national
+défini à l'article D. 122-13, ainsi qu'au ministre chargé de l'agriculture pour
+les organismes mentionnés à l'article R. 123-50-1.
 
 Au préalable, il doit fournir en garantie de sa gestion un cautionnement dont le
-montant est fixé par un arrêté conjoint du ministre délégué au budget et du
-ministre chargé de la sécurité sociale.
+montant est fixé par un arrêté conjoint du ministre chargé du budget, du
+ministre chargé de la sécurité sociale et du ministre chargé de l'agriculture.
 
-Simultanément à l'installation de l'agent comptable entrant, il est procédé à la
-remise de service de l'agent comptable sortant.
+L'agent comptable entrant dispose d'un délai de six mois, renouvelable une fois
+pour une durée de trois mois, pour formuler des réserves écrites et motivées sur
+la gestion de son prédécesseur ; il adresse ces réserves au responsable du
+service mentionné à l'article R. 155-1, ou au ministre chargé de la sécurité
+sociale pour les organismes ne relevant pas d'un organisme national défini à
+l'article D. 122-13, ou au ministre chargé de l'agriculture pour les organismes
+mentionnés à l'article R. 123-50-1.
 
-L'installation de l'agent comptable et la remise de service de l'agent comptable
-sortant donnent lieu à l'établissement d'un procès-verbal dressé
-contradictoirement.
-
-L'agent comptable entrant dispose d'un délai de six mois, renouvelable une fois,
-pour formuler des réserves écrites, motivées de façon précise sur la gestion de
-son prédécesseur ; il adresse ses réserves aux autorités ayant procédé à son
-installation et à sa remise de service.
+Par dérogation aux dispositions de l'article D. 253-1, le présent article est
+applicable à tous organismes, à l'exception de ceux ayant le caractère
+d'établissement public, de la Caisse autonome nationale de la sécurité sociale
+dans les mines et des organismes d'assurance vieillesse des professions
+libérales.
