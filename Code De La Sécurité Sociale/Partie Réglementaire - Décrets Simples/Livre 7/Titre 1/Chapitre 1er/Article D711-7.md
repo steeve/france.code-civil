@@ -1,13 +1,7 @@
 Article D711-7
 ----
-Dans la limite des taux de cotisations et de contributions applicables à la
-rémunération due au titre de l'heure supplémentaire ou du temps supplémentaire
-de travail effectué par le salarié relevant d'un régime spécial mentionné à
-l'article R. 711-1 ou R. 711-24, le taux de réduction de cotisations salariales,
-prévu au I de l'article L. 241-17 est celui mentionné au I de l'article D.
-241-21.
-
-Lorsque la rémunération de l'heure supplémentaire ou du temps supplémentaire de
-travail visé à l'alinéa précédent est assujettie aux mêmes cotisations et
-contributions que la fraction de rémunération versée à titre principal, le II de
-l'article D. 241-21 est également applicable.
+Les employeurs des salariés relevant des régimes spéciaux de sécurité sociale
+des marins, des mines et des clercs et employés de notaires bénéficient de la
+réduction de cotisations prévue à l'article L. 241-13 dans les conditions fixées
+aux articles D. 241-7 à D. 241-13 et D. 241-26 sous réserve des dispositions des
+articles D. 711-8 à D. 711-10.
