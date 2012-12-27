@@ -50,14 +50,14 @@ ses parents.
 
 Au titre des dépenses mentionnées au b du 1, la somme mentionnée au premier
 alinéa du présent 4 est majorée de 5 000 € pour une personne célibataire, veuve
-ou divorcée et de 10 000 € pour un couple soumis à imposition commune (1).
+ou divorcée et de 10 000 € pour un couple soumis à imposition commune.
 
 5. Le crédit d'impôt est égal à :
 
 a. 25 % du montant des dépenses d'installation ou de remplacement d'équipements
 mentionnées au a du 1 ;
 
-a bis. 30 % du montant des travaux mentionnés au b du 1 ;
+a bis. 40 % (1) du montant des travaux mentionnés au b du 1 ;
 
 b. 15 % du montant des dépenses d'acquisition mentionnées au c du 1.
 
@@ -81,7 +81,18 @@ l'excédent est restitué.
 8. Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de cinq
 ans de tout ou partie du montant des dépenses qui ont ouvert droit à cet
 avantage, il fait l'objet, au titre de l'année de remboursement et dans la
-limite du crédit d'impôt obtenu, d'une reprise égale à 15 % ou 25 % de la somme
-remboursée selon le taux du crédit d'impôt qui s'est appliqué. Toutefois, aucune
+limite du crédit d'impôt obtenu, d'une reprise égale au montant de l'avantage
+fiscal accordé à raison de la somme qui a été remboursée. Toutefois, aucune
 reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre
 survenu après que les dépenses ont été payées.
+
+9. La durée de l'engagement de location mentionné au premier alinéa du 1
+s'apprécie à compter de la date de réalisation des dépenses ou, lorsque le
+logement n'est pas loué à cette date, à compter de la mise en location qui doit
+prendre effet, pour chaque logement concerné, dans les douze mois qui suivent la
+réalisation des dépenses. En cas de non-respect de cet engagement, le ou les
+crédits d'impôt obtenus pour chaque logement concerné font l'objet d'une reprise
+au titre de l'année au cours de laquelle l'engagement n'est pas respecté.
+
+10. Pour une même dépense, les dispositions du présent article sont exclusives
+de celles de l'article 200 quater.

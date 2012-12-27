@@ -13,34 +13,34 @@ naturels et des sites dont la conservation ou la préservation présente, au poi
 de vue artistique, historique, scientifique, légendaire ou pittoresque, un
 intérêt général.
 
-" Après l'enquête publique réalisée conformément au chapitre III du titre II du
+"Après l'enquête publique réalisée conformément au chapitre III du titre II du
 livre Ier, l'inscription sur la liste est prononcée par arrêté du ministre
 chargé des sites et, en Corse, par délibération de l'Assemblée de Corse après
 avis du représentant de l'Etat.
 
-" L'inscription entraîne, sur les terrains compris dans les limites fixées par
+"L'inscription entraîne, sur les terrains compris dans les limites fixées par
 l'arrêté, l'obligation pour les intéressés de ne pas procéder à des travaux
 autres que ceux d'exploitation courante en ce qui concerne les fonds ruraux et
 d'entretien normal en ce qui concerne les constructions sans avoir avisé, quatre
-mois d'avance, l'administration de leur intention. "
+mois d'avance, l'administration de leur intention."
 
 " Art. L. 341-2. - Les monuments naturels et les sites inscrits ou non sur la
 liste dressée par la commission départementale peuvent être classés dans les
 conditions et selon les distinctions établies par la présente section.
 
-" Lorsque la commission supérieure des sites, perspectives et paysages est
-saisie directement d'une demande de classement, celle-ci est renvoyée à la
-commission départementale aux fins d'instruction et, le cas échéant, de
-proposition de classement. En cas d'urgence, le ministre chargé des sites fixe à
-la commission départementale un délai pour émettre son avis. Faute par elle de
-se prononcer dans ce délai, le ministre consulte la commission supérieure et
-donne à la demande la suite qu'elle comporte.
+"Lorsque la commission supérieure des sites, perspectives et paysages est saisie
+directement d'une demande de classement, celle-ci est renvoyée à la commission
+départementale aux fins d'instruction et, le cas échéant, de proposition de
+classement. En cas d'urgence, le ministre chargé des sites fixe à la commission
+départementale un délai pour émettre son avis. Faute par elle de se prononcer
+dans ce délai, le ministre consulte la commission supérieure et donne à la
+demande la suite qu'elle comporte.
 
-" Dans les zones de montagne, la décision de classement est prise après
-consultation du comité de massif concerné. "
+"Dans les zones de montagne, la décision de classement est prise après
+consultation du comité de massif concerné."
 
 " Art. L. 341-3. - Le projet de classement est soumis à une enquête publique
-réalisée conformément au chapitre III du titre II du livre Ier. "
+réalisée conformément au chapitre III du titre II du livre Ier."
 
 " Art. L. 341-4. - Le monument naturel ou le site compris dans le domaine public
 ou privé de l'Etat est classé par arrêté du ministre chargé des sites, en cas
@@ -105,12 +105,11 @@ notification est valablement faite au maire qui en assure l'affichage et, le cas
 échéant, à l'occupant des lieux. "
 
 " Art. L. 341-8. - Tout arrêté ou décret prononçant un classement est publié,
-par les soins de l'administration chargée des sites, au bureau des hypothèques
-de la situation de l'immeuble classé.
+par les soins de l'administration chargée des sites, au fichier immobilier.
 
-" Cette publication, qui ne donne lieu à aucune perception au profit du Trésor,
+Cette publication, qui ne donne lieu à aucune perception au profit du Trésor,
 est faite dans les formes et de la manière prescrites par les lois et règlements
-concernant la publicité foncière. "
+concernant la publicité foncière."
 
 " Art. L. 341-9. - Les effets du classement suivent le monument naturel ou le
 site classé, en quelques mains qu'il passe.
@@ -152,11 +151,10 @@ des sites. "
 " Art. L. 341-13. - Le déclassement total ou partiel d'un monument ou d'un site
 classé est prononcé, après avis de la commission supérieure des sites, par
 décret en Conseil d'Etat. Le déclassement est notifié aux intéressés et publié
-au bureau des hypothèques de la situation des biens, dans les mêmes conditions
-que le classement.
+au fichier immobilier, dans les mêmes conditions que le classement.
 
-" Le décret de déclassement détermine, sur avis conforme du Conseil d'Etat, s'il
-y a lieu ou non à la restitution de l'indemnité prévue à l'article L. 341-6. "
+Le décret de déclassement détermine, sur avis conforme du Conseil d'Etat, s'il y
+a lieu ou non à la restitution de l'indemnité prévue à l'article L. 341-6. "
 
 " Art. L. 341-14. - Aucun monument naturel ou site classé ou proposé pour le
 classement ne peut être compris dans une enquête aux fins d'expropriation pour
@@ -259,7 +257,7 @@ antérieur ;
 
 3° Le droit de visite prévu à l'article L. 461-1 du code de l'urbanisme est
 ouvert aux représentants du ministre chargé des sites ; l'article L. 480-12 du
-même code est applicable. "
+même code est applicable."
 
 " Art. L. 341-20. - Le fait de détruire, mutiler ou dégrader un monument naturel
 ou un site inscrit ou classé est puni des peines prévues à l'article 322-2 du

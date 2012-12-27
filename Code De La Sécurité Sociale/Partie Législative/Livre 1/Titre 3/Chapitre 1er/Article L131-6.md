@@ -6,17 +6,16 @@ sur leur revenu d'activité non salarié.
 
 Ce revenu est celui retenu pour le calcul de l'impôt sur le revenu, sans qu'il
 soit tenu compte des plus-values et moins-values professionnelles à long terme,
-des reports déficitaires, des exonérations et du coefficient multiplicateur
-mentionné au 7 de l'article 158 du code général des impôts. En outre, les
-cotisations versées aux régimes facultatifs mentionnées au second alinéa du I de
-l'article 154 bis du même code ne sont admises en déduction que pour les assurés
-ayant adhéré aux régimes en cause avant le 13 février 1994.
+des reports déficitaires, des exonérations, du coefficient multiplicateur
+mentionné au 7 de l'article 158 du code général des impôts et des déductions à
+effectuer du chef des frais professionnels et des frais, droits et intérêts
+d'emprunt prévues aux deuxième et dernier alinéas du 3° de l'article 83 du même
+code. En outre, les cotisations versées aux régimes facultatifs mentionnées au
+second alinéa du I de l'article 154 bis du même code ne sont admises en
+déduction que pour les assurés ayant adhéré aux régimes en cause avant le 13
+février 1994.
 
-Pour les sociétés d'exercice libéral visées à l'article 1er de la loi n° 90-1258
-du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions
-libérales soumises à un statut législatif ou réglementaire ou dont le titre est
-protégé et aux sociétés de participations financières de professions libérales,
-est également prise en compte, dans les conditions prévues au deuxième alinéa,
+Est également prise en compte, dans les conditions prévues au deuxième alinéa,
 la part des revenus mentionnés aux articles 108 à 115 du code général des impôts
 perçus par le travailleur non salarié non agricole, son conjoint ou le
 partenaire auquel il est lié par un pacte civil de solidarité ou leurs enfants

@@ -73,8 +73,11 @@ et III peuvent opter pour le régime fiscal prévu au I.
 Cette décision doit être prise par l'organe délibérant de l'établissement public
 de coopération intercommunale à la majorité simple de ses membres avant le 31
 décembre de l'année en cours pour être applicable au 1er janvier de l'année
-suivante. Elle ne peut être rapportée pendant la période d'unification des taux
-prévue au III de l'article 1609 nonies C.
+suivante. Par exception, pour les établissements publics nouvellement créés,
+cette décision peut être prise jusqu'au 15 janvier de l'année au cours de
+laquelle leur création prend fiscalement effet. Elle ne peut être rapportée
+pendant la période d'unification des taux prévue au III de l'article 1609 nonies
+C.
 
 V. ― Les établissements publics de coopération intercommunale à fiscalité propre
 peuvent se substituer à leurs communes membres pour les dispositions relatives à
@@ -153,15 +156,15 @@ territoriales.
 
 VIII.-Les communautés d'agglomération peuvent percevoir la taxe de séjour,
 lorsqu'elle répond aux conditions fixées aux articles L. 5211-21 et L. 5722-6 du
-code général des collectivités territoriales, et la taxe sur les fournitures
-d'électricité dans les conditions prévues aux articles L. 2333-2 à L. 2333-5 du
-même code, en lieu et place des communes membres dont la population est
-inférieure ou égale à 2 000 habitants. Dans ce cas, celle-ci est recouvrée sans
-frais par le gestionnaire du réseau de distribution ou le fournisseur. Le taux
-de la taxe ne peut dépasser 8 %.
+code général des collectivités territoriales, et la taxe communale sur la
+consommation finale d'électricité dans les conditions prévues aux articles L.
+2333-2 à L. 2333-5 du même code, en lieu et place des communes membres dont la
+population est inférieure ou égale à 2 000 habitants. Dans ce cas, celle-ci est
+recouvrée sans frais par le gestionnaire du réseau de distribution ou le
+fournisseur. Le taux de la taxe ne peut dépasser 8 %.
 
-IX.-Les communautés urbaines, les communautés d'agglomération et les communautés
-de communes sont substituées à leurs communes membres pour l'application des
-dispositions relatives à la taxe de balayage prévue à l'article 1528
-lorsqu'elles assurent le balayage de la superficie des voies livrées à la
-circulation publique.
+IX.-Les métropoles, les communautés urbaines, les communautés d'agglomération et
+les communautés de communes sont substituées à leurs communes membres pour
+l'application des dispositions relatives à la taxe de balayage prévue à
+l'article 1528 lorsqu'elles assurent le balayage de la superficie des voies
+livrées à la circulation publique.

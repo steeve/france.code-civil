@@ -1,9 +1,13 @@
 Article L612-4
 ----
-Les cotisations sont calculées en application des dispositions des articles L.
-131-6, L. 131-6-1 et L. 131-6-2, dans la limite d'un plafond, dans des
-conditions déterminées par décret. Elles ne peuvent être inférieures à un
-montant fixé par décret.
+Les cotisations sont calculées en application des articles L. 131-6, L. 131-6-1
+et L. 131-6-2. Leur taux est fixé par décret.
+
+Ces cotisations ne peuvent être inférieures à un montant fixé par décret.
+
+Pour les cotisations dues au titre de la première et de la deuxième année
+d'activité, le montant mentionné au deuxième alinéa peut faire l'objet d'une
+réduction.
 
 Les cotisations des retraités sont calculées en pourcentage des allocations ou
 pensions de retraite servies pendant l'année en cours par les régimes de base et
@@ -12,6 +16,8 @@ enfants autres que les annuités supplémentaires. Elles sont précomptées sur 
 allocations ou pensions ou, à défaut, évaluées à titre provisionnel et
 régularisées a posteriori.
 
-Les conditions d'application du présent article, et notamment le taux et les
-modalités de calcul des cotisations, ainsi que les seuils d'exonération totale
-ou partielle sont fixées par décret.
+Les conditions d'application du présent article sont fixées par un décret, qui
+peut prévoir que les deuxième et troisième alinéas ne sont pas applicables, sous
+certaines conditions, aux cotisations dues par les personnes mentionnées aux
+articles L. 613-4 et L. 613-7 du présent code et à l'article L. 262-2 du code de
+l'action sociale et des familles.

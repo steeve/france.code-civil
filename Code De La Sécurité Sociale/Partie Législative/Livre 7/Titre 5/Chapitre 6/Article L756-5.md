@@ -8,8 +8,8 @@ celles recouvrées par les organismes mentionnés aux articles L. 642-1 et L.
 723-1, sont calculées, à titre définitif, sur la base du revenu d'activité de
 l'avant-dernière année ou, le cas échéant, de revenus forfaitaires.
 
-Par dérogation aux dispositions du dernier alinéa de l'article L. 131-6, la
-personne débutant l'exercice d'une activité indépendante non agricole est
-exonérée des cotisations et contributions, à l'exception de celles recouvrées
-par les organismes mentionnés aux articles L. 642-1 et L. 723-1, pour une
-période de vingt-quatre mois à compter de la date de la création de l'activité.
+Par dérogation aux dispositions de l'article L. 131-6-2, la personne débutant
+l'exercice d'une activité indépendante non agricole est exonérée des cotisations
+et contributions, à l'exception de celles recouvrées par les organismes
+mentionnés aux articles L. 642-1 et L. 723-1, pour une période de vingt-quatre
+mois à compter de la date de la création de l'activité.

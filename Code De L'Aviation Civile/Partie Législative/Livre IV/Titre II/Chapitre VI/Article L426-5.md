@@ -19,5 +19,5 @@ exigibilité :
 a) Par un privilège mobilier qui prend rang concurremment avec celui établi par
 l'article 2331 (4°) du code civil ;
 
-b) Par une hypothèque légale prenant rang du jour de son inscription au bureau
-des hypothèques.
+b) Par une hypothèque légale prenant rang du jour de son inscription au fichier
+immobilier.

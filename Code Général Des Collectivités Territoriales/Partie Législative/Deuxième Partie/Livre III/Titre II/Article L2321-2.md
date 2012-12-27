@@ -108,4 +108,7 @@ capital ;
 et 3 de la loi n° 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat
 des gens du voyage ;
 
-32° L'acquittement des dettes exigibles.
+32° L'acquittement des dettes exigibles ;
+
+33° La contribution prévue à l'article 6 quater de la loi n° 83-634 du 13
+juillet 1983 précitée.

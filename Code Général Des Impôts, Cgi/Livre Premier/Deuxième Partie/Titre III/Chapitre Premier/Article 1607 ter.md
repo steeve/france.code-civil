@@ -1,7 +1,7 @@
 Article 1607 ter
 ----
-Il est institué, au profit des établissements publics fonciers mentionnés au b
-de l'article L. 321-1 du code de l'urbanisme, une taxe spéciale d'équipement
+Il est institué, au profit des établissements publics fonciers mentionnés à
+l'article L. 321-1 du code de l'urbanisme, une taxe spéciale d'équipement
 destinée au financement de leurs interventions foncières.
 
 Le produit de cette taxe est arrêté avant le 31 décembre de chaque année, pour
@@ -15,3 +15,7 @@ d'administration est notifiée au ministre chargé de l'économie et des finance
 Pour la première année au titre de laquelle l'établissement public foncier
 perçoit la taxe, le montant de celle-ci est arrêté et notifié avant le 31 mars
 de la même année.
+
+La taxe est répartie et recouvrée dans la zone de compétence de l'établissement
+selon les règles définies aux troisième à avant-dernier alinéas de l'article
+1607 bis.

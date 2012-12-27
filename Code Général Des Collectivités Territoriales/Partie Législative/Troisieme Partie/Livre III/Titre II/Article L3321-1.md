@@ -60,7 +60,10 @@ de pêche ;
 
 20° Les dotations aux provisions ;
 
-21° La reprise des subventions d'équipement reçues.
+21° La reprise des subventions d'équipement reçues ;
+
+22° La contribution prévue à l'article 6 quater de la loi n° 83-634 du 13
+juillet 1983 précitée.
 
 Un décret détermine les modalités d'application des dispositions des 19°, 20° et
 21°.

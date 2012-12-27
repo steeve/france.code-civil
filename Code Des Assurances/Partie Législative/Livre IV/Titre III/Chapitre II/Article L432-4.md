@@ -1,8 +1,8 @@
 Article L432-4
 ----
 La Compagnie française d'assurance pour le commerce extérieur établit, pour les
-opérations qu'elle effectue avec la garantie de l'Etat en application de
-l'article L. 432-2 du présent code, un enregistrement comptable distinct. Une
+opérations qu'elle effectue avec la garantie de l'Etat en application des
+articles L. 432-2 et L. 432-5, un enregistrement comptable distinct. Une
 convention entre l'Etat et la Compagnie française d'assurance pour le commerce
 extérieur précise les modalités selon lesquelles cet enregistrement est effectué
 ainsi que les conditions dans lesquelles il est contrôlé et certifié par un ou

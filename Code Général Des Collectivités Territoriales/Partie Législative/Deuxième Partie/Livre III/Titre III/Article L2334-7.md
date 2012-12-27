@@ -1,6 +1,6 @@
 Article L2334-7
 ----
-A compter de 2005, la dotation forfaitaire comprend :
+I. - A compter de 2005, la dotation forfaitaire comprend :
 
 1° Une dotation de base destinée à tenir compte des charges liées à l'importance
 de sa population.
@@ -58,10 +58,10 @@ b. Et la somme de la dotation de base et de la dotation proportionnelle à la
 superficie calculées en application des 1° et 2°.
 
 A compter de 2012, les communes dont le potentiel fiscal par habitant est
-inférieur à 0,9 fois le potentiel fiscal moyen par habitant constaté pour
+inférieur à 0,75 fois le potentiel fiscal moyen par habitant constaté pour
 l'ensemble des communes bénéficient d'une attribution au titre de la garantie
 égale à celle perçue l'année précédente. Pour les communes dont le potentiel
-fiscal par habitant est supérieur ou égal à 0,9 fois le potentiel fiscal moyen
+fiscal par habitant est supérieur ou égal à 0,75 fois le potentiel fiscal moyen
 par habitant constaté pour l'ensemble des communes, ce montant est diminué, dans
 les conditions prévues à l'article L. 2334-7-1, en proportion de leur population
 et de l'écart relatif entre le potentiel fiscal par habitant de la commune et le
@@ -69,24 +69,35 @@ potentiel fiscal moyen par habitant constaté pour l'ensemble des communes. Cett
 minoration ne peut être supérieure à 6 % de la garantie perçue l'année
 précédente. Le potentiel fiscal pris en compte pour l'application du présent
 alinéa est celui calculé l'année précédente en application de l'article L.
-2334-4 ;
+2334-4 . La population prise en compte pour la détermination du potentiel fiscal
+par habitant est corrigée par un coefficient logarithmique dont la valeur varie
+de 1 à 2 en fonction croissante de la population de la commune tel que défini
+pour l'application du 1° du présent I ;
 
-Une dotation versée aux communes dont le territoire est pour tout ou partie
-compris dans le coeur d'un parc national. Elle est fonction de la part de la
-superficie de la commune comprise dans ce coeur, cette part étant doublée pour
-le calcul de la dotation lorsque cette superficie dépasse 5 000 kilomètres
-carrés. Le montant de cette dotation est fixé à 3 millions d'euros pour 2007. A
-compter de 2011, le montant de cette dotation est égal à son montant versé au
-titre de 2010.
+5° Une dotation en faveur des communes des parcs nationaux et des parcs naturels
+marins. Cette dotation comprend une première fraction dont le montant est
+réparti entre les communes dont le territoire est en tout ou partie compris dans
+le cœur d'un parc national mentionné à l'article L. 331-1 du code de
+l'environnement. L'attribution individuelle est déterminée en fonction de la
+superficie de chaque commune comprise dans le cœur de parc, cette superficie
+étant doublée pour le calcul de la dotation lorsqu'elle dépasse les 5 000
+kilomètres carrés. Cette dotation comprend une deuxième fraction dont le montant
+est réparti entre les communes insulaires de métropole dont le territoire est
+situé au sein d'un parc naturel marin mentionné à l'article L. 334-3 du même
+code. Cette dotation comprend une troisième fraction dont le montant est réparti
+par parts égales entre les autres communes insulaires dont le territoire est
+situé au sein d'un parc naturel marin mentionné au même article L. 334-3. Le
+montant de la première fraction est fixé à 3,2 millions d'euros et celui de
+chacune des deux autres fractions à 150 000 €.
 
-Le taux de croissance de la dotation forfaitaire est égal au taux d'évolution de
-la somme des composantes de cette dotation par rapport à la somme des montants
-versés l'année précédente en application des alinéas précédents, hors les
-montants prévus au 3°. A compter de 2011, pour le calcul de ce taux de
+II. - Le taux de croissance de la dotation forfaitaire est égal au taux
+d'évolution de la somme des composantes de cette dotation par rapport à la somme
+des montants versés l'année précédente en application du I, hors les montants
+prévus au 3° du même I. A compter de 2011, pour le calcul de ce taux de
 référence, il n'est pas tenu compte de l'évolution de la dotation forfaitaire
-liée aux variations de la population telle que définie par l'article L. 2334-2,
+liée aux variations de la population telle que définie par l'article L. 2334-2
 ni des évolutions liées aux éventuelles minorations des composantes de la
-dotation forfaitaire prévues aux 3° et 4°
+dotation forfaitaire prévues aux 3° et 4° du I du présent article.
 
 La dotation forfaitaire comprend également les sommes reçues en 1993 au titre de
 la dotation supplémentaire aux communes et groupements touristiques ou thermaux
@@ -127,22 +138,6 @@ et place des communes. A cet effet, l'ensemble des crédits correspondant à la
 compensation antérieurement perçue en application du I du D de l'article 44 de
 la loi de finances pour 1999 précitée sont identifiés au sein de la dotation
 forfaitaire.
-
-5° Une dotation en faveur des communes des parcs nationaux et des parcs naturels
-marins. Cette dotation comprend une première fraction dont le montant est
-réparti entre les communes dont le territoire est en tout ou partie compris dans
-le cœur d'un parc national mentionné à l'article L. 331-1 du code de
-l'environnement. L'attribution individuelle est déterminée en fonction de la
-superficie de chaque commune comprise dans le cœur de parc, cette superficie
-étant doublée pour le calcul de la dotation lorsqu'elle dépasse les 5 000
-kilomètres carrés. Cette dotation comprend une deuxième fraction dont le montant
-est réparti entre les communes insulaires de métropole dont le territoire est
-situé au sein d'un parc naturel marin mentionné à l'article L. 334-3 du même
-code. Cette dotation comprend une troisième fraction dont le montant est réparti
-par parts égales entre les autres communes insulaires dont le territoire est
-situé au sein d'un parc naturel marin mentionné au même article L. 334-3. Le
-montant de la première fraction est fixé à 3,2 millions d'euros et celui de
-chacune des deux autres fractions à 150 000 €.
 
 Pour les communes et établissements publics de coopération intercommunale à
 fiscalité propre, lorsque le montant de la compensation prévue au D de l'article

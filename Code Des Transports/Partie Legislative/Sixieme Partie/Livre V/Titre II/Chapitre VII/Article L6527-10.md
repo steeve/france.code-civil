@@ -8,4 +8,4 @@ cotisations dues à la caisse de retraites instituée en application de l'articl
 L. 6527-2 est garanti pendant un an, à dater de leur exigibilité : 1° Par un
 privilège mobilier prenant rang concurremment avec celui établi par le 4° de
 l'article 2331 du code civil ; 2° Par une hypothèque légale prenant rang du jour
-de son inscription au bureau des hypothèques.
+de son inscription au fichier immobilier (1).
