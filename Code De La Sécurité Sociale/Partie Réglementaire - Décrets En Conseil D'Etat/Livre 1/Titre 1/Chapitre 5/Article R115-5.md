@@ -1,23 +1,27 @@
 Article R115-5
 ----
-I. - Pour le calcul et le recouvrement des cotisations et contributions sociales
-dont ils sont redevables, les travailleurs indépendants souscrivent une seule
-déclaration de revenus auprès du régime social des indépendants. Pour les
-personnes exerçant les professions libérales, une convention est passée à cet
-effet entre la Caisse nationale du régime social des indépendants et, d'une
-part, les organisations autonomes d'assurance vieillesse du groupe des
-professions libérales et, d'autre part, la Caisse nationale des barreaux
-français. Cette convention fixe notamment les modalités de transmission des
-informations ainsi recueillies entre les organismes concernés.
+Pour le calcul et le recouvrement des cotisations et contributions sociales dont
+ils sont redevables, les travailleurs indépendants des professions non agricoles
+relevant de l'article L. 613-1 souscrivent chaque année une seule déclaration de
+revenus auprès du régime social des indépendants ou, le cas échéant, auprès de
+l'organisme auquel a été déléguée la gestion de cette déclaration en application
+de l'article L. 133-6-2. Pour les personnes exerçant les professions libérales,
+une convention est passée entre la Caisse nationale du régime social des
+indépendants et, d'une part, les organisations autonomes d'assurance vieillesse
+du groupe des professions libérales, d'autre part, la Caisse nationale des
+barreaux français. Cette convention fixe notamment les modalités et les
+conditions de transmission des informations.
 
-L'organisme chargé de la collecte adresse chaque année, au plus tard le 1er
-avril, à tous les travailleurs indépendants concernés par la mise en oeuvre de
-la déclaration commune, un imprimé conforme au modèle arrêté par le ministre
-chargé de la sécurité sociale et qui tient lieu de ceux prévus respectivement
-aux articles R. 243-25, R. 612-18, R. 723-16-1, D. 633-3 et D. 642-3. Les
-assurés sont tenus de retourner à l'organisme, au plus tard le 1er mai, cet
-imprimé dûment rempli et signé.
+Le travailleur indépendant des professions non agricoles relevant de l'article
+L. 613-1 souscrit la déclaration mentionnée au premier alinéa au plus tard à une
+date fixée par arrêté du ministre chargé de la sécurité sociale. Cette
+déclaration est effectuée par voie électronique dans les conditions prévues à
+l'article L. 133-5 ou au moyen d'un imprimé conforme au modèle arrêté par le
+ministre chargé de la sécurité sociale.
 
-II. - Le travailleur indépendant peut utiliser, dans les conditions mentionnées
-à l'article L. 133-5, un procédé électronique pour effectuer la déclaration
-mentionnée au premier alinéa du I.
+Lorsque le travailleur indépendant déclare ses revenus au-delà de la date
+mentionnée au deuxième alinéa, les cotisations et contributions sont assorties
+d'une pénalité de 3 % de leur montant, sauf dans le cas où il fait l'objet de la
+procédure de taxation provisoire prévue par les dispositions de l'article R.
+242-14. La pénalité est recouvrée sous les mêmes garanties et sanctions que les
+cotisations et contributions.

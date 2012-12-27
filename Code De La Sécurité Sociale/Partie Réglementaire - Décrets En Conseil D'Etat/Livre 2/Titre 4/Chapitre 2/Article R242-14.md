@@ -1,47 +1,41 @@
 Article R242-14
 ----
-Lorsque l'employeur ou le travailleur indépendant n'a pas souscrit la
-déclaration de revenus prévue à l'article R. 115-5 ou, le cas échéant, celle
-prévue à l'article R. 242-13-1, la cotisation est calculée provisoirement sur la
-moyenne, majorée de 30 %, des revenus des deux années précédant celle au titre
-de laquelle devait être souscrite la déclaration. Elle ne peut toutefois être
-inférieure à la cotisation, majorée de 30 %, qui serait due sur le dernier de
-ces deux revenus, ni à celle calculée sur un revenu égal à 50 % du plafond prévu
-à l'article L. 241-3 en vigueur au 1er janvier de l'année au cours de laquelle
-est notifiée la taxation. Les revenus retenus pour l'application de ces
-dispositions sont considérés comme des revenus nuls lorsqu'il sont déficitaires.
+I.-Lorsque le travailleur indépendant n'a pas souscrit la déclaration de revenus
+nécessaire au calcul de la régularisation, les cotisations sociales sont
+calculées provisoirement sur la base la plus élevée parmi :
 
-Les dispositions du premier alinéa sont applicables sous réserve que l'employeur
-ou le travailleur indépendant se soit conformé aux obligations prévues aux
-articles R. 115-5 ou R. 242-13-1 au titre des deux années précédant l'année
-considérée. Dans le cas contraire, la cotisation est calculée provisoirement sur
-la base de cinq fois le plafond prévu à l'article L. 241-3 en vigueur au 1er
-janvier de l'année au cours de laquelle est notifiée la taxation.
+a) La moyenne des deux derniers revenus déclarés ou, en cas de début d'activité,
+le seul revenu déclaré ou celui ayant servi de base au calcul des cotisations
+l'année précédente ;
 
-Lorsque l'employeur ou le travailleur indépendant n'a pas déclaré les revenus de
-sa première année d'activité, les cotisations dues au titre de ladite année et
-celles mentionnées au quatrième alinéa de l'article L. 131-6 sont calculées
-provisoirement sur la base de 50 % du plafond prévu à l'article L. 241-3 en
-vigueur au 1er janvier de l'année au cours de laquelle est notifiée la taxation.
+b) Les revenus d'activité déclarés à l'administration fiscale, lorsque
+l'organisme de sécurité sociale en dispose, augmentés de 30 % ;
 
-Lorsque l'employeur ou le travailleur indépendant n'a pas déclaré les revenus de
-sa deuxième année civile d'activité, les cotisations dues au titre de ladite
-année et celles mentionnées au quatrième alinéa de l'article L. 131-6 sont
-calculées provisoirement sur la base de 70 % du plafond prévu à l'article L.
-241-3 en vigueur au 1er janvier de l'année au cours de laquelle est notifiée la
-taxation. Elles ne peuvent toutefois être inférieures à la cotisation, majorée
-de 30 %, qui serait due sur les revenus de la première année d'activité.
+c) 50 % du plafond annuel de la sécurité sociale en vigueur au 1er janvier de
+l'année au titre de laquelle est notifiée la taxation.
 
-La taxation déterminée en application des dispositions ci-dessus est notifiée à
-l'intéressé par une lettre de mise en demeure dans les conditions de l'article
-L. 244-2.
+L'assiette retenue est majorée de 25 % dès la première année et pour chaque
+année consécutive non déclarée.
 
-La cotisation effectivement due par l'employeur ou le travailleur indépendant
-qui a souscrit avec retard l'une des déclarations mentionnées au premier alinéa
-du présent article est assortie d'une pénalité de 3 % à titre de sanction, sans
-préjudice des dispositions de l'article R. 243-18. Cette pénalité est recouvrée
-dans les conditions prévues à l'article R. 243-19. Elle peut être remise,
-totalement ou partiellement, dans les conditions prévues aux articles R.
-243-19-1, R. 243-20 et R. 243-20-1. Elle peut également donner lieu à sursis à
-poursuites accordés par le directeur de l'organisme chargé du recouvrement dans
-les conditions prévues à l'article R. 243-21.
+Les revenus retenus pour l'application du présent article sont considérés comme
+des revenus nuls lorsqu'ils sont déficitaires.
+
+II.-Pour le calcul des cotisations sociales recouvrées par les organismes
+mentionnés aux articles L. 642-1 et L. 723-1, la base retenue en application du
+premier alinéa peut être calculée sur une base supérieure à celles obtenue dans
+les conditions du a, b ou c dans la limite des plafonds applicables pour le
+calcul des cotisations dues à ces organismes.
+
+III.-Les contributions sociales sont calculées sur la base retenue pour le
+calcul des cotisations majorée de celles-ci.
+
+IV.-La taxation déterminée en application des dispositions ci-dessus est
+notifiée à l'intéressé par tout moyen permettant de rapporter la preuve de sa
+date de réception. Les cotisations et contributions sociales calculées sur cette
+base sont recouvrées dans les mêmes conditions que les cotisations et
+contributions définitives.
+
+Lorsque le travailleur indépendant déclare ses revenus postérieurement à cette
+mise en demeure, les cotisations et les contributions sociales sont régularisées
+sur cette base. Dans ce cas, la pénalité prévue au dernier alinéa de l'article
+R. 115-5 est portée à 10 % des cotisations dues.

@@ -1,9 +1,8 @@
 Article R133-29
 ----
-En cas de début d'activité professionnelle, ou de reprise d'activité au sens du
-dernier alinéa de l'article R. 242-16, la première exigibilité des cotisations
-et contributions sociales provisionnelles et des cotisations définitives prévues
-à l'article L. 635-5 ne peut intervenir, par dérogation au I de l'article R.
+En cas de début d'activité professionnelle, ou de reprise d'activité au sens de
+l'article R. 242-16, la première exigibilité des cotisations et contributions
+sociales provisionnelles ne peut intervenir, par dérogation au I de l'article R.
 133-26 ou au premier alinéa du I de l'article R. 133-27, moins de
 quatre-vingt-dix jours après le début ou la reprise d'activité.
 

@@ -1,6 +1,6 @@
 Article R131-3
 ----
-Pour l'application de l'article L. 131-6-3 :
+Pour l'application du quatrième alinéa de l'article L. 131-6 :
 
 1° Le montant de la valeur des biens du patrimoine affecté correspond à leur
 valeur brute, déduction faite des encours des emprunts y afférents, appréciés au

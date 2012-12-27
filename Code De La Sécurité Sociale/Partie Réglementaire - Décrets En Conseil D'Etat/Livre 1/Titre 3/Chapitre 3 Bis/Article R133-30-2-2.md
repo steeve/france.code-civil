@@ -11,7 +11,7 @@ Ces montants sont majorés respectivement de 15 % ou de 5 % par déclaration
 manquante au titre de cette année civile.
 
 Les cotisations et contributions mentionnées au premier alinéa sont notifiées
-par lettre recommandée avec accusé de réception.
+par tout moyen permettant de rapporter la preuve de sa date de réception .
 
 Les montants sur lesquels elles ont été établies sont pris en compte pour
 l'application des dispositions prévues aux troisième et quatrième alinéas de

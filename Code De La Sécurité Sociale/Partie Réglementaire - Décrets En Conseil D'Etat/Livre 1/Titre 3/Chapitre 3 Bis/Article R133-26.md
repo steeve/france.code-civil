@@ -8,7 +8,7 @@ prélèvement mentionnée au deuxième alinéa.
 
 Le travailleur indépendant communique à la caisse de base du régime social des
 indépendants dont il relève son choix de la date de prélèvement entre le 5 ou le
-20 de chaque mois, ainsi qu'une autorisation de prélèvement.A défaut de choix
+20 de chaque mois, ainsi qu'une autorisation de prélèvement. A défaut de choix
 d'une date de prélèvement, les cotisations et contributions sociales sont
 exigibles le 5 de chaque mois. En l'absence d'autorisation de prélèvement, les
 cotisations et contributions sociales sont exigibles conformément aux
@@ -17,9 +17,8 @@ dispositions de l'article R. 133-27.
 La date de prélèvement peut être modifiée une fois par année civile, et la
 demande prend effet au plus tard le deuxième mois suivant celui de sa réception.
 
-II.-Les cotisations et contributions sociales provisionnelles ainsi que les
-cotisations définitives prévues à l'article L. 635-5 sont prélevées du mois de
-janvier au mois d'octobre. Chaque prélèvement est égal à un dixième des
+II.-Les cotisations et contributions sociales provisionnelles sont prélevées du
+mois de janvier au mois d'octobre. Chaque prélèvement est égal à un dixième des
 cotisations définitives dues l'année précédente et calculées sur le revenu
 professionnel de l'avant-dernière année.
 
@@ -41,13 +40,11 @@ L. 751-1 ou dans les collectivités de Saint-Barthélemy ou de Saint-Martin sont
 prélevées en douze fractions égales.
 
 IV.-Si un prélèvement mensuel n'est pas effectué à sa date d'exigibilité, la
-somme est recouvrée avec le prélèvement mensuel suivant.
+somme est recouvrée avec le prélèvement mensuel suivant. Si deux prélèvements
+consécutifs ne sont pas effectués à leur date d'exigibilité, le recouvrement des
+sommes restant dues au titre de l'année en cours est poursuivi trimestriellement
+dans les conditions mentionnées au quatrième alinéa de l'article R. 133-27.
 
-Il est appliqué aux cotisations et contributions sociales qui ne sont pas
-versées à la date d'exigibilité les majorations de retard mentionnées à
-l'article R. 243-18.
-
-Toutefois, pour le premier incident de prélèvement mensuel au cours d'une année
-civile, la date limite de paiement est reportée à celle de l'échéance suivante.
-Les majorations de retard ne s'appliquent qu'à compter du deuxième incident de
-prélèvement mensuel au cours de la même année civile.
+Les dispositions relatives aux majorations de retard mentionnées à l'article R.
+243-18 sont applicables à compter du deuxième incident de paiement consécutif au
+cours d'une même année civile.

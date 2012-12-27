@@ -2,9 +2,10 @@ Article R242-15
 ----
 Sont dispensés du versement de la cotisation :
 
-1°) les personnes justifiant d'un revenu professionnel, calculé dans les
-conditions prévues à l'article R. 242-13, inférieur au salaire de base annuel
-retenu pour le calcul des prestations familiales ;
+1° Les personnes justifiant d'un revenu d'activité, déterminé dans les
+conditions prévues à l'article L. 131-6, inférieur à 13 % de la valeur annuelle
+du plafond de la sécurité sociale, tel que prévu à l'article L. 241-3, en
+vigueur au 1er janvier de l'année au titre de laquelle la cotisation est due.
 
 2°) les travailleurs indépendants qui ont assumé la charge d'au moins quatre
 enfants jusqu'à l'âge de quatorze ans et qui sont âgés d'au moins soixante-cinq
