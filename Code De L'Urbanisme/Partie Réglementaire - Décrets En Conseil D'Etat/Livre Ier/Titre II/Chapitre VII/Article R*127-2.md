@@ -21,6 +21,6 @@ par mètre carré de surface de plancher des maisons d'habitation individuelle e
 45 euros (T. T. C.) par mètre carré de surface de plancher des autres
 constructions à usage d'habitation ;
 
-4. Dans les communes des départements d'outre-mer et de Mayotte, 55 euros (T. T.
-C.) par mètre carré de surface de plancher des constructions à usage
-d'habitation.
+4. Dans les communes de Guadeloupe, de Guyane, de Martinique, de La Réunion et
+de Mayotte, 55 euros (T. T. C.) par mètre carré de surface de plancher des
+constructions à usage d'habitation.

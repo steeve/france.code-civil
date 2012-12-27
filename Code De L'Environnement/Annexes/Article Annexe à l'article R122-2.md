@@ -5,7 +5,7 @@ CATÉGORIES D'AMÉNAGEMENTS, d'ouvrages et de travaux
 PROJETS soumis à étude d'impact
 
 PROJETS soumis à la procédure de "cas par cas" en application de l'annexe III de
-la directive 85/337/ CE
+la directive 85/337/CE
 
 Installations classées pour la protection de l'environnement (ICPE)
 
@@ -245,17 +245,16 @@ a) Stations d'épuration des agglomérations ou dispositifs d'assainissement non
 collectif soumises à autorisation au titre de l'article R. 214-1 du code de
 l'environnement.
 
-b) Stations d'épuration situées dans la bande littorale de cent mètres au sens
-de l'article L. 146-4-III du code de l'urbanisme, dans la bande littorale des
-cinquante pas au sens des articles L. 156-2 et L. 711-3-III du code de
-l'urbanisme, ou en espace remarquable du littoral au sens de l'article L. 146-6
-du code de l'urbanisme.
+b) Stations d'épuration situées dans la bande littorale de cent mètres prévue au
+III de l'article L. 146-4 du code de l'urbanisme, dans la bande littorale prévue
+à l'article L. 156-2 de ce code, ou dans un espace remarquable du littoral prévu
+par l'article L. 146-6 du même code.
 
 21° Extraction de minéraux ou sédiments par dragage marin ou retrait de
 matériaux lié au curage d'un cours d'eau.
 
-a) Dragage et/ ou rejet y afférent en milieu marin soumis à autorisation au
-titre de l'article R. 214-1 du code de l'environnement.
+a) Dragage et/ou rejet y afférent en milieu marin soumis à autorisation au titre
+de l'article R. 214-1 du code de l'environnement.
 
 b) Entretien de cours d'eau ou de canaux soumis à autorisation au titre de
 l'article R. 214-1 du code de l'environnement.

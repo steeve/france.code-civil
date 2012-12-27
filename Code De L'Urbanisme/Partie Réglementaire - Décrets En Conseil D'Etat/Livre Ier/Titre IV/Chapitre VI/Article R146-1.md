@@ -35,8 +35,8 @@ h) Les formations géologiques telles que les gisements de minéraux ou de
 fossiles, les stratotypes, les grottes ou les accidents géologiques remarquables
 ;
 
-i) Les récifs coralliens, les lagons et les mangroves dans les départements
-d'outre-mer et à Mayotte.
+i) Les récifs coralliens, les lagons et les mangroves en Guadeloupe, en Guyane,
+en Martinique, à La Réunion et à Mayotte.
 
 Lorsqu'ils identifient des espaces ou milieux relevant du présent article, les
 documents d'urbanisme précisent, le cas échéant, la nature des activités et
