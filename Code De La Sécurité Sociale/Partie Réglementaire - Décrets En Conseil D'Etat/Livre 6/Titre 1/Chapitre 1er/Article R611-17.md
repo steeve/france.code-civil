@@ -18,6 +18,6 @@ Toute décision de caractère individuel prise en matière de gestion du personn
 est communiquée à l'agent comptable qui porte mention de la disponibilité des
 crédits correspondants et de sa conformité aux autorisations budgétaires.
 
-En cas de vacance d'emploi, d'absence momentanée ou d'empêchement de l'agent
-comptable, ses fonctions sont exercées par un agent comptable secondaire ou un
-fondé de pouvoir qu'il a préalablement désigné à cet effet.
+En cas d'absence momentanée ou d'empêchement de l'agent comptable, ses fonctions
+sont exercées conformément aux dispositions de l'article R. 122-4 ou par un
+agent comptable secondaire qu'il a préalablement désigné à cet effet.

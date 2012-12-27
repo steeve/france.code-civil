@@ -10,11 +10,18 @@ ministres intéressés.
 Conformément aux dispositions de l'article R. 114-6-1, l'agent comptable établit
 les comptes de l'organisme.
 
-En cas de vacance d'emploi, d'absence momentanée ou d'empêchement de l'agent
-comptable, ses fonctions sont exercées par le fondé de pouvoir jusqu'à la
-nomination d'un agent comptable.
+En cas d'absence momentanée ou d'empêchement de l'agent comptable, ses fonctions
+sont exercées par le fondé de pouvoir.
+
+En cas de vacance de l'emploi d'agent comptable, le directeur général ou le
+directeur de l'organisme national compétent désigne la personne chargée
+d'effectuer l'intérim jusqu'à la nomination d'un agent comptable. L'installation
+de l'agent comptable intérimaire s'effectue dans les mêmes conditions que celle
+de l'agent comptable. La durée de ses fonctions est limitée à six mois.
+L'intérim peut être renouvelé deux fois. Chaque renouvellement est effectué
+selon les mêmes modalités et pour une durée maximale de six mois.
 
 Les dispositions du présent article sont applicables à tous les organismes à
-l'exception de ceux ayant le caractère d'établissement public, de la Caisse
-d'assurance vieillesse, invalidité et maladie des cultes, du régime social des
-indépendants et des caisses mentionnées à l'article L. 211-1.
+l'exception de ceux ayant le caractère d'établissement public. Toutefois, celles
+de l'alinéa précédent ne sont pas applicables aux organismes de mutualité
+sociale agricole.
