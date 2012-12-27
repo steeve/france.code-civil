@@ -1,7 +1,7 @@
 Article 1541
 ----
 La demande tendant à l'homologation du constat d'accord est présentée au juge
-d'instance par requête d'une des parties à moins que l'une d'elles s'oppose à
+par requête d'une des parties à moins que l'une d'elles s'oppose à
 l'homologation dans l'acte constatant son accord.
 
 Toutefois, lorsque la conciliation met fin à un différend transfrontalier la
