@@ -2,11 +2,9 @@ Article D122-6
 ----
 Lorsque le directeur a requis l'agent comptable de payer, celui-ci défère à la
 réquisition, annexe à l'ordre de dépense l'original de la réquisition et en rend
-compte au responsable du service mentionné à l'article R. 155-1 ou, pour les
-organismes de mutualité sociale agricole, du service mentionné à l'article R.
-155-2 et à l'organisme national défini à l'article D. 122-13. Il doit refuser de
-déférer à l'ordre de réquisition lorsque la suspension de paiement est motivée
-par :
+compte au responsable du service mentionné à l'article R. 155-1 et à l'organisme
+national défini à l'article D. 122-13. Il doit refuser de déférer à l'ordre de
+réquisition lorsque la suspension de paiement est motivée par :
 
 1° Une opposition faite entre les mains de l'agent comptable ;
 
