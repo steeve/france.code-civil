@@ -35,4 +35,9 @@ d'occupation précaire en matière commerciale ;
 12° Inscription de faux contre les actes authentiques ;
 
 13° Actions civiles pour diffamation ou pour injures publiques ou non publiques,
-verbales ou écrites.
+verbales ou écrites ;
+
+14° Contestations concernant le paiement, la garantie ou le remboursement des
+créances de toute nature recouvrées par l'administration des douanes et les
+autres affaires de douanes, dans les cas et conditions prévus au code des
+douanes.

@@ -7,8 +7,9 @@ d'un indu de prestation.
 La demande est portée devant le président du tribunal du lieu où demeure le
 débiteur. Tout autre juge se déclare d'office incompétent.
 
-La procédure prévue aux articles 1407 et suivants du code de procédure civile
-est applicable.
+La procédure est régie par les articles 1407 et suivants du code de procédure
+civile, à l'exception des dispositions propres à la procédure applicable devant
+le tribunal de grande instance.
 
 L'opposition est portée devant le tribunal des affaires de sécurité sociale dont
 le président a rendu la décision.
