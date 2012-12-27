@@ -50,7 +50,7 @@ coopération intercommunale dont le territoire se situe au moins en partie dans
 la région Ile-de-France, le taux régional s'entend pour cette région du taux de
 l'année 2010 de la taxe additionnelle à la taxe foncière sur les propriétés non
 bâties prévue à l'article 1599 quinquies dans sa rédaction en vigueur au 1er
-janvier 2011.
+janvier 2010.
 
 V. ― Le contrôle, le recouvrement, le contentieux, les garanties et sanctions
 sont régis comme en matière de taxe foncière sur les propriétés non bâties.
