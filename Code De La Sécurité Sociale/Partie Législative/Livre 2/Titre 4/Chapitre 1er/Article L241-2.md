@@ -33,17 +33,17 @@ correspondant aux montants de cette taxe enregistrés au titre de l'année par l
 comptables publics, déduction faite des remboursements et restitutions effectués
 pour la même période par les comptables assignataires ;
 
-4° La part du produit de la contribution mentionnée à l'article L. 137-15 fixée
-à l'article L. 137-16 ;
+4° (abrogé)
 
 5° Une fraction des prélèvements sur les jeux et paris prévus aux articles L.
 137-20, L. 137-21 et L. 137-22 ;
 
-6° (Abrogé) ;
+6° Les contributions prévues aux articles L. 245-1, L. 245-5-1 et L. 245-6 ;
 
-7° Les taxes perçues au titre des articles 1600-0 N, 1600-0 O, 1600-0 R et 1635
-bis AE du code général des impôts et les droits perçus au titre de l'article L.
-5321-3 du code de la santé publique ;
+7° Les taxes perçues au titre des articles 1600-0 O et 1600-0 R du code général
+des impôts et les droits perçus au titre des articles 1635 bis AE, 1635 bis AF,
+1635 bis AG et 1635 bis AH du même code et de l'article L. 5321-3 du code de la
+santé publique ;
 
 8° Une fraction du produit de la taxe mentionnée au 2° bis de l'article 1001 du
 code général des impôts.
