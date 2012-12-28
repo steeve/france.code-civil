@@ -15,7 +15,9 @@ articles 14 à 33 quinquies.
 3.1° Les revenus de capitaux mobiliers comprennent tous les revenus visés au VII
 de la 1ère sous-section de la présente section, à l'exception des revenus
 expressément affranchis de l'impôt en vertu de l'article 157 et des revenus
-ayant supporté les prélèvements visés aux articles 117 quater et 125 A.
+ayant supporté les prélèvements visés au II de l'article 125-0 A et aux I bis,
+II, III, second alinéa du 4° et deuxième alinéa du 9° du III bis de l'article
+125 A.
 
 Lorsqu'ils sont payables en espèces les revenus visés au premier alinéa sont
 soumis à l'impôt sur le revenu au titre de l'année soit de leur paiement en
@@ -64,8 +66,7 @@ d. Aux revenus distribués mentionnés au a de l'article 111 ;
 
 e. Aux bénéfices ou revenus mentionnés à l'article 123 bis ;
 
-f. lorsque, au cours de la même année, le contribuable a perçu des revenus sur
-lesquels a été opéré le prélèvement prévu à l'article 117 quater.
+f. Abrogé ;
 
 4° Les dispositions du 2° sont également applicables pour la part des revenus de
 la nature et de l'origine de ceux mentionnés au 2°, sous réserve du 3°, prélevés
@@ -98,11 +99,7 @@ L'application de ces dispositions est conditionnée à la ventilation par les
 organismes ou sociétés en cause de leurs distributions ou répartitions en
 fonction de leur nature et origine ;
 
-5° Il est opéré un abattement annuel de 1 525 € pour les contribuables
-célibataires, divorcés ou veufs et de 3 050 € pour les contribuables mariés
-soumis à une imposition commune sur le montant net des revenus déterminé dans
-les conditions du 2° et après déduction des dépenses effectuées en vue de leur
-acquisition ou conservation.
+5° Abrogé.
 
 4. Les bénéfices des professions industrielles, commerciales, artisanales et
 ceux de l'exploitation minière sont déterminés conformément aux dispositions des
@@ -217,6 +214,20 @@ conditions que les revenus énumérés à l'article 124.
 Ces dispositions ne sont pas applicables aux arrérages correspondant aux
 cotisations ayant fait l'objet de la déduction prévue au I de l'article 163
 quatervicies.
+
+6 bis. - Les gains nets de cession de valeurs mobilières, droits sociaux et
+titres assimilés sont déterminés conformément aux articles 150-0 A à 150-0 E.
+Sont également imposables dans cette catégorie les profits réalisés sur les
+marchés d'instruments financiers et assimilés, déterminés conformément aux
+articles 150 ter à 150 undecies, les distributions de plus-values mentionnées à
+l'article 150-0 F et au 1 du II de l'article 163 quinquies C lorsque
+l'actionnaire est une personne physique fiscalement domiciliée en France.
+
+6 ter. - Les plus-values latentes sur droits sociaux, valeurs, titres ou droits,
+les créances trouvant leur origine dans une clause de complément de prix et
+certaines plus-values en report d'imposition imposables lors du transfert du
+domicile fiscal hors de France sont déterminées conformément à l'article 167
+bis.
 
 7. Le montant des revenus et charges énumérés ci-après, retenu pour le calcul de
 l'impôt selon les modalités prévues à l'article 197, est multiplié par 1,25. Ces

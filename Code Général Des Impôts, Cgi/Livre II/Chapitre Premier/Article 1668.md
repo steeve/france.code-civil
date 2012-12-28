@@ -1,6 +1,6 @@
 Article 1668
 ----
-1.L'impôt sur les sociétés donne lieu au versement, au comptable public
+1. L'impôt sur les sociétés donne lieu au versement, au comptable public
 compétent, d'acomptes trimestriels déterminés à partir des résultats du dernier
 exercice clos. Le montant total de ces acomptes est égal à un montant d'impôt
 sur les sociétés calculé sur le résultat imposé au taux fixé au deuxième alinéa
@@ -13,7 +13,7 @@ cours de leur premier exercice d'activité ou de leur première période
 d'imposition arrêtée conformément au second alinéa du I de l'article 209.
 
 Les acomptes mentionnés au premier alinéa sont arrondis à l'euro le plus proche.
-La fraction d'euro égale à 0, 50 est comptée pour 1.
+La fraction d'euro égale à 0,50 est comptée pour 1.
 
 Les paiements doivent être effectués au plus tard les 15 mars, 15 juin, 15
 septembre et 15 décembre de chaque année.
@@ -26,23 +26,23 @@ prévu à l'article 219 bis sont dispensés du versement des acomptes.
 Toutefois, le montant du dernier acompte versé au titre d'un exercice ne peut
 être inférieur :
 
-a) Pour les entreprises ayant réalisé un chiffre d'affaires compris entre 500
+a) Pour les entreprises ayant réalisé un chiffre d'affaires compris entre 250
 millions d'euros et 1 milliard d'euros au cours du dernier exercice clos ou de
 la période d'imposition, ramené s'il y a lieu à douze mois, à la différence
-entre les deux tiers du montant de l'impôt sur les sociétés estimé au titre de
+entre les trois quarts du montant de l'impôt sur les sociétés estimé au titre de
 cet exercice selon les mêmes modalités que celles définies au premier alinéa et
 le montant des acomptes déjà versés au titre du même exercice ;
 
 b) Pour les entreprises ayant réalisé un chiffre d'affaires compris entre 1
 milliard d'euros et 5 milliards d'euros au cours du dernier exercice clos ou de
 la période d'imposition, ramené s'il y a lieu à douze mois, à la différence
-entre 80 % du montant de l'impôt sur les sociétés estimé au titre de cet
+entre 85 % du montant de l'impôt sur les sociétés estimé au titre de cet
 exercice selon les mêmes modalités que celles définies au premier alinéa et le
 montant des acomptes déjà versés au titre du même exercice ;
 
 c) Pour les entreprises ayant réalisé un chiffre d'affaires supérieur à 5
 milliards d'euros au cours du dernier exercice clos ou de la période
-d'imposition, ramené s'il y a lieu à douze mois, à la différence entre 90 % du
+d'imposition, ramené s'il y a lieu à douze mois, à la différence entre 95 % du
 montant de l'impôt sur les sociétés estimé au titre de cet exercice selon les
 mêmes modalités que celles définies au premier alinéa et le montant des acomptes
 déjà versés au titre du même exercice.
@@ -56,11 +56,11 @@ groupe.
 1993).
 
 2. Il est procédé à une liquidation de l'impôt dû à raison des résultats de la
-période d'imposition mentionnée par la déclaration prévue au 1 de l'article
-223.S'il résulte de cette liquidation un complément d'impôt, il est acquitté
-lors du dépôt du relevé de solde au plus tard le 15 du quatrième mois qui suit
-la clôture de l'exercice ou, si aucun exercice n'est clos en cours d'année, le
-15 mai de l'année suivante. Si la liquidation fait apparaître que les acomptes
+période d'imposition mentionnée par la déclaration prévue au 1 de l'article 223.
+S'il résulte de cette liquidation un complément d'impôt, il est acquitté lors du
+dépôt du relevé de solde au plus tard le 15 du quatrième mois qui suit la
+clôture de l'exercice ou, si aucun exercice n'est clos en cours d'année, le 15
+mai de l'année suivante. Si la liquidation fait apparaître que les acomptes
 versés sont supérieurs à l'impôt dû, l'excédent, défalcation faite des autres
 impôts directs dus par l'entreprise, est restitué dans les trente jours de la
 date de dépôt du relevé de solde.

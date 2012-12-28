@@ -10,7 +10,7 @@ supérieur au montant du minimum garanti prévu à l'article L. 3231-12 du code 
 travail ;
 
 2° bis Les contribuables dont le revenu net de frais professionnels, n'excède
-pas, par foyer fiscal, 8 440 €, ou 9 220 € s'ils sont âgés de plus de
+pas, par foyer fiscal, 8 610 €, ou 9 410 € s'ils sont âgés de plus de
 soixante-cinq ans ; ces limites sont identiques, quelle que soit la nature des
 revenus perçus ;
 

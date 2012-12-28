@@ -9,7 +9,8 @@ public de coopération intercommunale à fiscalité propre qui lui préexistait.
 plusieurs établissements publics de coopération intercommunale à fiscalité
 propre préexistaient, le coefficient d'intégration fiscale à retenir la première
 année est le coefficient d'intégration fiscale le plus élevé parmi ces
-établissements.
+établissements, dans la limite de 105 % de la moyenne des coefficients
+d'intégration fiscale de ces établissements, pondérés par leur population.
 
 L'abattement de 50 % prévu à l'article L. 5211-32 ne s'applique pas aux
 communautés de communes issues d'une fusion.
@@ -21,9 +22,13 @@ issues d'une fusion. Pour le calcul des garanties la première année, la dotati
 public de coopération intercommunale à fiscalité propre qui préexistait à la
 communauté issue de la fusion. Si plusieurs établissements publics de
 coopération intercommunale préexistaient, la dotation à prendre en compte est la
-dotation par habitant la plus élevée parmi ces établissements.
+dotation par habitant la plus élevée parmi ces établissements, dans la limite de
+105 % de la moyenne des dotations par habitant de ces établissements, pondérées
+par leur population.
 
 Lorsqu'une communauté urbaine fusionne avec un autre établissement public de
 coopération intercommunale, la dotation d'intercommunalité de la communauté
 urbaine issue de la fusion est calculée en retenant la dotation par habitant la
-plus élevée parmi les établissements préexistants.
+plus élevée parmi les établissements préexistants, dans la limite de 105 % de la
+moyenne des dotations par habitant de ces établissements, pondérées par leur
+population.

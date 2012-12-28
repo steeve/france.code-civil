@@ -29,7 +29,7 @@ fonds.
 II.-Pour les entreprises placées sous le régime prévu à l'article 223 A, la
 contribution est due par la société mère. Elle est assise sur l'impôt sur les
 sociétés afférent au résultat d'ensemble et à la plus-value nette d'ensemble
-définis aux articles 223 B et 223 D.
+définis aux articles 223 B, 223 B bis et 223 D.
 
 III.-Pour les entreprises placées sous le régime prévu à l'article 209
 quinquies, la contribution est calculée d'après le montant de l'impôt sur les

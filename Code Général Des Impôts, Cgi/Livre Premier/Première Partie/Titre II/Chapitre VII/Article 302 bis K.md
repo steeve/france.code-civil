@@ -47,6 +47,10 @@ A compter de l'année 2011, ces tarifs sont revalorisés chaque année dans une
 proportion égale au taux prévisionnel de croissance de l'indice des prix à la
 consommation hors tabac associé au projet de loi de finances de l'année.
 
+Ces tarifs annuels, fixés par arrêté conjoint du ministre chargé du budget et du
+ministre chargé de l'aviation civile, entrent en vigueur pour les vols effectués
+à compter du 1er avril de l'année.
+
 Le tarif défini ci-dessus pour le fret et le courrier s'applique au tonnage
 total déclaré par chaque entreprise le mois considéré, arrondi à la tonne
 inférieure.
@@ -56,8 +60,22 @@ par l'administration de l'aviation civile, le nombre de passagers et la masse de
 fret et de courrier embarqués le mois précédent pour les vols effectués au
 départ de la France.
 
-Cette déclaration, accompagnée du paiement de la taxe due, est adressée aux
-comptables du budget annexe " Contrôle et exploitation aériens.
+Toutefois, les entreprises de transport aérien qui ont déclaré au cours de
+l'année précédente un montant de taxe égal ou inférieur à 12 000 € sont admises
+à souscrire, à compter du premier trimestre civil de l'année qui suit, des
+déclarations trimestrielles indiquant le nombre de passagers et la masse de fret
+et de courrier embarqués au cours du trimestre précédent pour les vols effectués
+au départ de France. Ces déclarations trimestrielles sont souscrites au plus
+tard le dernier jour du mois qui suit le trimestre au titre duquel elle est
+établie. Lorsque le montant de la taxe déclarée au terme des quatre trimestres
+civils consécutifs de l'année dépasse le montant de 12 000 €, l'entreprise
+souscrit mensuellement ses déclarations dans les conditions fixées au septième
+alinéa ; dans ce cas, l'obligation court à compter du premier mois qui suit
+l'année de dépassement.
+
+Ces déclarations, mensuelles ou trimestrielles, accompagnées du paiement de la
+taxe due, sont adressées aux comptables du budget annexe " Contrôle et
+exploitation aériens ".
 
 III.-Les quotités du produit de la taxe affectées respectivement au budget
 annexe " Contrôle et exploitation aériens " et au budget général sont
@@ -67,9 +85,9 @@ Les sommes encaissées au titre du budget général par les comptables du budget
 annexe " Contrôle et exploitation aériens " sont transférées mensuellement aux
 comptables publics assignataires.
 
-IV.-1.-La déclaration visée au II est contrôlée par les services de la direction
-générale de l'aviation civile. A cette fin, les agents assermentés peuvent
-examiner sur place les documents utiles.
+IV.-1.-Les déclarations mentionnées au II sont contrôlées par les services de la
+direction générale de l'aviation civile. A cette fin, les agents assermentés
+peuvent examiner sur place les documents utiles.
 
 Préalablement, un avis de vérification est adressé à l'entreprise afin qu'elle
 puisse se faire assister d'un conseil.

@@ -12,13 +12,18 @@ réduction du temps de travail est également considérée comme une rémunérat
 qu'elle prenne la forme, notamment, d'un complément différentiel de salaire ou
 d'une hausse du taux de salaire horaire.
 
-Lorsque le bénéficiaire d'une option accordée dans les conditions prévues aux
-articles L. 225-177 à L. 225-186 du code de commerce ne remplit pas les
-conditions prévues au I de l'article 163 bis C du code général des impôts, est
-considéré comme une rémunération le montant déterminé conformément au II du même
-article. Toutefois l'avantage correspondant à la différence définie au II de
-l'article 80 bis du code général des impôts est considéré comme une rémunération
-lors de la levée de l'option.
+L'avantage correspondant à la différence définie au II de l'article 80 bis du
+code général des impôts est considéré comme une rémunération lors de la levée de
+l'option. En revanche, sont exclus de l'assiette des cotisations mentionnées au
+premier alinéa du présent article les avantages mentionnés au I des articles 80
+bis et 80 quaterdecies du même code si l'employeur notifie à son organisme de
+recouvrement l'identité de ses salariés ou mandataires sociaux auxquels des
+actions ont été attribuées au cours de l'année civile précédente, ainsi que le
+nombre et la valeur des actions attribuées à chacun d'entre eux. A défaut,
+l'employeur est tenu au paiement de la totalité des cotisations sociales, y
+compris pour leur part salariale. Il en est de même lorsque l'attribution est
+effectuée par une société dont le siège est situé à l'étranger et qui est mère
+ou filiale de l'entreprise dans laquelle l'attributaire exerce son activité.
 
 Il ne peut être opéré sur la rémunération ou le gain des intéressés servant au
 calcul des cotisations des assurances sociales, des accidents du travail et des
@@ -103,22 +108,3 @@ assimilées à des rémunérations pour le calcul des cotisations visées au pre
 alinéa du présent article. Pour l'application du présent alinéa, il est fait
 masse des indemnités liées à la rupture du contrat de travail et de celles liées
 à la cessation forcée des fonctions.
-
-Les attributions gratuites d'actions effectuées conformément aux dispositions
-des articles L. 225-197-1 à L. 225-197-3 du code de commerce sont exclues de
-l'assiette des cotisations mentionnées au premier alinéa si elles sont
-conservées dans les conditions mentionnées au I de l'article 80 quaterdecies du
-code général des impôts et si l'employeur notifie à son organisme de
-recouvrement l'identité de ses salariés ou mandataires sociaux auxquels des
-actions gratuites ont été attribuées définitivement au cours de l'année civile
-précédente, ainsi que le nombre et la valeur des actions attribuées à chacun
-d'entre eux. A défaut, l'employeur est tenu au paiement de la totalité des
-cotisations sociales, y compris pour leur part salariale.
-
-Les dispositions de l'avant-dernier alinéa sont également applicables lorsque
-l'attribution est effectuée, dans les mêmes conditions, par une société dont le
-siège est situé à l'étranger et qui est mère ou filiale de l'entreprise dans
-laquelle l'attributaire exerce son activité.
-
-Les dispositions des deux alinéas précédents ne donnent pas lieu à application
-de l'article L. 131-7.

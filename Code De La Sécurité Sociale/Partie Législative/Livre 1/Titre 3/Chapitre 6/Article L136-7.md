@@ -2,23 +2,26 @@ Article L136-7
 ----
 I.-Lorsqu'ils sont payés à des personnes physiques fiscalement domiciliées en
 France au sens de l'article 4 B du code général des impôts, les produits de
-placements sur lesquels est opéré le prélèvement prévu à l'article 125 A du code
-général des impôts, ainsi que les produits de même nature retenus pour
-l'établissement de l'impôt sur le revenu lorsque la personne qui en assure le
-paiement est établie en France, sont assujettis à une contribution à l'exception
-de ceux ayant déjà supporté la contribution au titre de l'article L. 136-3 ou
-des 3° et 4° du II du présent article.
+placements sur lesquels sont opérés les prélèvements prévus au II de l'article
+125-0 A du code général des impôts, aux II, III, second alinéa du 4° et deuxième
+alinéa du 9° du III bis de l'article 125 A du même code, ainsi que les produits
+de placements mentionnés au I du même article 125 A et ceux mentionnés au I de
+l'article 125-0 A du même code retenus pour l'établissement de l'impôt sur le
+revenu lorsque la personne qui en assure le paiement est établie en France, sont
+assujettis à une contribution à l'exception de ceux ayant déjà supporté la
+contribution au titre de l'article L. 136-3 ou des 3° et 4° du II du présent
+article.
 
 Sont également assujettis à cette contribution :
 
 1° Lorsqu'ils sont payés à des personnes physiques fiscalement domiciliées en
-France au sens de l'article 4 B du code général des impôts, les revenus sur
-lesquels est opéré le prélèvement prévu à l'article 117 quater du même code,
-ainsi que les revenus de même nature dont le paiement est assuré par une
-personne établie en France et retenus pour l'établissement de l'impôt sur le
-revenu, à l'exception de ceux ayant déjà supporté la contribution au titre de
-l'article L. 136-3 du présent code. Le présent 1° ne s'applique pas aux revenus
-perçus dans un plan d'épargne en actions défini au 5° du II du présent article ;
+France au sens de l'article 4 B du code général des impôts, les revenus
+distribués mentionnés au 1° du 3 de l'article 158 du même code dont le paiement
+est assuré par une personne établie en France et retenus pour l'établissement de
+l'impôt sur le revenu, à l'exception de ceux ayant déjà supporté la contribution
+au titre de l'article L. 136-3 du présent code. Le présent 1° ne s'applique pas
+aux revenus perçus dans un plan d'épargne en actions défini au 5° du II du
+présent article ;
 
 2° Les plus-values mentionnées aux articles 150 U à 150 UC du code général des
 impôts.
@@ -137,10 +140,10 @@ même code et celles effectuées par les sociétés unipersonnelles d'investisse
 code, lors de leur versement, ainsi que les gains nets mentionnés aux 1 et 1 bis
 du III de l'article 150-0 A du même code ;
 
-8° bis Les revenus, produits et gains non pris en compte pour le calcul du
-prélèvement forfaitaire libératoire prévu aux articles 117 quater et 125 A du
-code général des impôts, en application du II de l'article 155 B du même code,
-lors de leur perception ;
+8° bis Les revenus, produits et gains non pris en compte pour le calcul des
+prélèvements prévus aux articles 117 quater, 125-0 A et 125 A du code général
+des impôts, en application du II de l'article 155 B du même code, lors de leur
+perception ;
 
 9° Les gains nets et les produits des placements en valeurs mobilières effectués
 en vertu d'un engagement d'épargne à long terme respectivement visés aux 5 du

@@ -1,7 +1,8 @@
 Article L2335-2-1
 ----
 Il est institué un fonds de soutien aux communes touchées par le redéploiement
-territorial des armées.
+territorial des armées. Les communes de Polynésie française et de
+Nouvelle-Calédonie sont éligibles à ce fonds.
 
 La répartition des crédits du fonds tient compte de l'évolution des ressources
 des communes concernées par le plan de redéploiement territorial des armées.

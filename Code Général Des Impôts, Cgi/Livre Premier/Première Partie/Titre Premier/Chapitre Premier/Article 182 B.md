@@ -28,7 +28,7 @@ Il est ramené à 15 p. 100 pour les rémunérations visées au d du paragraphe 
 La retenue s'impute sur le montant de l'impôt sur le revenu établi dans les
 conditions prévues à l'article 197 A.
 
-III. - Le taux de la retenue est porté à 50 % :
+III. - Le taux de la retenue est porté à 75 % :
 
 a) Lorsque les sommes et produits mentionnés aux a et b du I sont payés à des
 personnes domiciliées ou établies dans un Etat ou territoire non coopératif au

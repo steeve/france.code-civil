@@ -4,14 +4,6 @@ I.-Les ressources du fonds de solidarité des communes de la région
 d'Ile-de-France en 2012,2013,2014 et 2015 sont fixées, respectivement, à
 210,230,250 et 270 millions d'euros.
 
-Avant le 1er octobre 2012, le Gouvernement transmet à l'Assemblée nationale et
-au Sénat un rapport évaluant les effets péréquateurs des dotations de
-péréquation verticale et du fonds de solidarité des communes de la région
-d'Ile-de-France au regard de l'objectif de réduction des écarts de ressources au
-sein de la région d'Ile-de-France et proposant les ajustements nécessaires.
-
-L'avis du comité mentionné à l'article L. 2531-12 est joint à ce rapport.
-
 II.-Le fonds de solidarité des communes de la région d'Ile-de-France est
 alimenté par des prélèvements sur les ressources des communes de la région
 d'Ile-de-France selon les modalités suivantes :
@@ -43,7 +35,13 @@ fois fait l'objet d'un abattement de 50 % ;
 
 d) En 2012, lorsqu'une commune fait l'objet d'un prélèvement en application du
 présent article et bénéficie d'une attribution en application de l'article L.
-2531-14, le montant du prélèvement ne peut excéder celui de l'attribution.
+2531-14, le montant du prélèvement ne peut excéder celui de l'attribution. Le
+prélèvement des communes ayant bénéficié de ces dispositions fait l'objet d'un
+abattement de 50 % en 2013 et de 25 % en 2014 ;
+
+e) Le prélèvement dû par les communes de la région d'Ile-de-France classées
+parmi les cent cinquante premières communes classées l'année précédente en
+application du 1° de l'article L. 2334-18-4 est annulé.
 
 III.-Le prélèvement est effectué sur les douzièmes prévus à l'article L. 2332-2
 et au II de l'article 46 de la loi n° 2005-1719 du 30 décembre 2005 de finances

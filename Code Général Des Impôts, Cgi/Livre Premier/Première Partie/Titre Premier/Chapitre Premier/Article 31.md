@@ -23,7 +23,8 @@ déduites l'année précédente qui correspond à des charges non déductibles ;
 b) Les dépenses d'amélioration afférentes aux locaux d'habitation, à l'exclusion
 des frais correspondant à des travaux de construction, de reconstruction ou
 d'agrandissement ainsi que des dépenses au titre desquelles le propriétaire
-bénéficie du crédit d'impôt sur le revenu prévu à l'article 200 quater ;
+bénéficie du crédit d'impôt sur le revenu prévu à l'article 200 quater ou de
+celui prévu à l'article 200 quater A;
 
 b bis) Les dépenses d'amélioration afférentes aux locaux professionnels et
 commerciaux destinées à protéger ces locaux des effets de l'amiante ou à

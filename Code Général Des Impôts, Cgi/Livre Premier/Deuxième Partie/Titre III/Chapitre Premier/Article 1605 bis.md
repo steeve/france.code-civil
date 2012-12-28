@@ -37,10 +37,9 @@ c. Le redevable n'est pas passible de l'impôt de solidarité sur la fortune au
 titre de l'année précédant celle au cours de laquelle la redevance ou la
 contribution est due ;
 
-Pour les années 2008,2009,2010,2011 et 2012, les redevables âgés de plus de
-soixante-cinq ans au 1er janvier 2004 visés aux premier et deuxième alinéas
-bénéficient d'un dégrèvement de la redevance audiovisuelle lorsqu'ils
-remplissent les conditions prévues aux a, b et c ;
+Les redevables âgés de plus de soixante-cinq ans au 1er janvier 2004 visés aux
+premier et deuxième alinéas bénéficient d'un dégrèvement de la redevance
+audiovisuelle lorsqu'ils remplissent les conditions prévues aux a, b et c ;
 
 3° bis Les contribuables bénéficiaires en 2009 du revenu minimum d'insertion,
 lorsqu'ils occupent leur habitation principale dans les conditions prévues à

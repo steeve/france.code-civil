@@ -58,9 +58,7 @@ déchets.
 Les contributions financières et en nature sont déterminées suivant un barème
 fixé par décret.
 
-V. - Le donneur d'ordre ou le metteur sur le marché qui ne s'acquitte pas
-volontairement de la contribution prévue au présent article est soumis à la taxe
-prévue au 9 du I de l'article 266 sexies du code des douanes.
+V. - (Abrogé)
 
 VI. - Pour l'application du présent article, on entend par :
 

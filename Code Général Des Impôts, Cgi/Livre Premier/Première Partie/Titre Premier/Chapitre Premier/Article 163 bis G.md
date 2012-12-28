@@ -2,7 +2,7 @@ Article 163 bis G
 ----
 I.-Le gain net réalisé lors de la cession des titres souscrits en exercice des
 bons attribués dans les conditions définies aux II à III est imposé dans les
-conditions et aux taux prévus à l'article 150-0 A ou au 2 de l'article 200 A.
+conditions prévues à l'article 150-0 A et au taux de 19 %.
 
 Par dérogation aux dispositions du premier alinéa, le taux est porté à 30 %
 lorsque le bénéficiaire exerce son activité dans la société depuis moins de

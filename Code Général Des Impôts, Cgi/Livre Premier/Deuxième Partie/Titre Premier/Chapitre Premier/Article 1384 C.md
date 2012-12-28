@@ -1,6 +1,6 @@
 Article 1384 C
 ----
-I.-Les logements acquis en vue de leur location, avec le concours financier de
+I. - Les logements acquis en vue de leur location, avec le concours financier de
 l'Etat ou avec une subvention de l'Agence nationale pour la rénovation urbaine,
 en application des 3° et 5° de l'article L. 351-2 du code de la construction et
 de l'habitation ou au moyen d'un financement prévu à l'article R. 372-1 du même
@@ -28,10 +28,16 @@ d'amélioration. La durée de l'exonération est portée à vingt-cinq ans lorsq
 décision de subvention de l'Agence nationale de l'habitat intervient entre le
 1er juillet 2004 et le 31 décembre 2014.
 
+La durée de l'exonération est ramenée à quinze ans pour les logements acquis
+auprès des organismes mentionnés à l'article L. 411-5 du code de la construction
+et de l'habitation et au moyen de prêts mentionnés à la sous-section 3 de la
+section 1 du chapitre unique du titre III du livre III de la partie
+réglementaire du même code.
+
 Les obligations déclaratives à la charge des personnes et organismes entrant
 dans le champ d'application du présent article sont fixées par décret.
 
-II.-Sont exonérés de taxe foncière sur les propriétés bâties pendant une durée
+II. - Sont exonérés de taxe foncière sur les propriétés bâties pendant une durée
 de quinze ans les logements détenus, directement ou indirectement par le biais
 d'une filiale à participation majoritaire, par l'Etablissement public de gestion
 immobilière du Nord-Pas-de-Calais créé par l'article 191 de la loi n° 2000-1208

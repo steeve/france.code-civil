@@ -9,3 +9,5 @@ finances rectificative pour 2008 et du 1.2.4.2 et du II du 6 de l'article 77 de
 la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010.
 
 En 2012, ce montant est égal à 41 389 752 000 €.
+
+En 2013, ce montant est égal à 41 505 415 000 €.

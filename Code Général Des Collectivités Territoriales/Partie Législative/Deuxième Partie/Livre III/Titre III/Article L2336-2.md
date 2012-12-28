@@ -27,13 +27,13 @@ précédente ;
 
 4° La somme des produits perçus par le groupement et ses communes membres au
 titre du prélèvement sur le produit des jeux prévu aux articles L. 2333-54 à L.
-2333-57 du présent code, de la surtaxe sur les eaux minérales prévue à l'article
+2333-56 du présent code, de la surtaxe sur les eaux minérales prévue à l'article
 1582 du code général des impôts et de la redevance communale des mines prévue à
 l'article 1519 du même code ;
 
 5° Les montants perçus l'année précédente par les communes appartenant au
-groupement au titre de leur part de la dotation forfaitaire définie au 3° de
-l'article L. 2334-7 du présent code, hors le montant correspondant à la
+groupement au titre de leur part de la dotation forfaitaire définie au 3° du I
+de l'article L. 2334-7 du présent code, hors le montant correspondant à la
 compensation prévue au 2° bis du II de l'article 1648 B du code général des
 impôts, dans sa rédaction antérieure à la loi de finances pour 2004 (n°
 2003-1311 du 30 décembre 2003), et par le groupement au titre de la dotation de
@@ -51,7 +51,7 @@ dernière année dont les résultats sont connus.
 Le potentiel financier agrégé d'un ensemble intercommunal est égal à son
 potentiel fiscal agrégé, majoré de la somme des dotations forfaitaires définies
 à l'article L. 2334-7 du présent code perçues par les communes membres l'année
-précédente, hors la part mentionnée au 3° du même article L. 2334-7. Il est
+précédente, hors la part mentionnée au 3° du I du même article L. 2334-7. Il est
 minoré, le cas échéant, des prélèvements sur le produit des impôts directs
 locaux mentionnés au dernier alinéa dudit article L. 2334-7 et au III de
 l'article L. 2334-7-2 et réalisés l'année précédente sur le groupement et ses
@@ -60,6 +60,15 @@ communes membres.
 Le potentiel fiscal et le potentiel financier des communes n'appartenant à aucun
 établissement public de coopération intercommunale à fiscalité propre sont
 calculés selon les modalités définies à l'article L. 2334-4.
+
+Par dérogation, le potentiel fiscal agrégé des ensembles intercommunaux
+constitués d'une communauté d'agglomération issue de la transformation d'un
+syndicat d'agglomération nouvelle et de ses communes membres est pondéré par le
+rapport entre les bases brutes par habitant de cotisation foncière des
+entreprises des communautés d'agglomération et la somme des bases brutes par
+habitant de cotisation foncière des entreprises des syndicats d'agglomération
+nouvelle et de ceux d'entre eux qui se sont transformés en communautés
+d'agglomération, sous réserve que ce rapport soit inférieur à 1.
 
 II.-Pour les ensembles intercommunaux et les communes n'appartenant à aucun
 groupement à fiscalité propre de la région d'Ile-de-France, le potentiel
@@ -88,12 +97,14 @@ V.-L'effort fiscal d'un ensemble intercommunal est déterminé par le rapport
 entre :
 
 1° D'une part, la somme des produits des impôts, taxes et redevances, tels que
-définis à l'article L. 2334-6, perçus par l'établissement public de coopération
-intercommunale et ses communes membres au titre de la dernière année dont les
-résultats sont connus servant à l'assiette des impositions communales ;
+définis à l'article L. 2334-6, perçus par les communes de l'ensemble
+intercommunal et les établissements publics de coopération intercommunale sur le
+territoire de ces communes au titre de la dernière année dont les résultats sont
+connus servant à l'assiette des impositions communales ;
 
 2° D'autre part, la part du potentiel fiscal agrégé visée au 1° du I du présent
-article.
+article, majorée du produit de la taxe additionnelle à la taxe foncière sur les
+propriétés non bâties.
 
 L'effort fiscal d'une commune n'appartenant à aucun établissement public de
 coopération intercommunale à fiscalité propre est calculé dans les conditions

@@ -2,7 +2,7 @@ Article 990 J
 ----
 I.-Les personnes physiques constituants ou bénéficiaires d'un trust défini à
 l'article 792-0 bis sont soumises à un prélèvement fixé au tarif le plus élevé
-mentionné au 1 du I de l'article 885 U.
+mentionné au 1 de l'article 885 U.
 
 II.-Lorsque leur administrateur est soumis à la loi d'un Etat ou territoire
 ayant conclu avec la France une convention d'assistance administrative en vue de

@@ -40,9 +40,9 @@ cette dotation sont relatives à la dernière année précédant l'année de
 répartition.
 
 Le montant de l'enveloppe calculée selon les critères définis aux 1° et 2° doit
-être au moins égal à 90 % et au plus égal à 110 % du montant de l'enveloppe
+être au moins égal à 95 % et au plus égal à 105 % du montant de l'enveloppe
 versée au département l'année précédente. Dans le cas contraire, ce montant est
-soit majoré à hauteur de 90 %, soit diminué à hauteur de 110 % du montant de
+soit majoré à hauteur de 95 %, soit diminué à hauteur de 105 % du montant de
 l'enveloppe versée l'année précédente. Ces modalités de calcul sont opérées sur
 la masse globale répartie au titre de la dotation d'équipement des territoires
 ruraux, après constitution de la quote-part mentionnée à l'article L. 2334-34.

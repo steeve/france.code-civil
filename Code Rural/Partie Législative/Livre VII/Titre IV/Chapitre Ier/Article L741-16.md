@@ -14,9 +14,9 @@ prolongement direct de l'acte de production.
 
 Cette exonération est déterminée conformément à un barème dégressif linéaire
 fixé par décret et tel que l'exonération soit totale pour une rémunération
-mensuelle inférieure ou égale au salaire minimum de croissance majoré de 150 %
-et devienne nulle pour une rémunération mensuelle égale ou supérieure au salaire
-minimum de croissance majoré de 200 %. Pour le calcul de l'exonération, la
+mensuelle inférieure ou égale au salaire minimum de croissance majoré de 25 % et
+devienne nulle pour une rémunération mensuelle égale ou supérieure au salaire
+minimum de croissance majoré de 50 %. Pour le calcul de l'exonération, la
 rémunération mensuelle et le salaire minimum de croissance sont définis dans les
 conditions prévues aux quatrième et cinquième phrases du premier alinéa du III
 de l'article L. 241-13 du code de la sécurité sociale dans leur rédaction en
@@ -52,6 +52,6 @@ travail.
 VII. - Le bénéfice des dispositions du présent article ne peut être cumulé avec
 celui d'une autre exonération totale ou partielle de cotisations patronales ou
 l'application de taux spécifiques, d'assiettes ou montants forfaitaires de
-cotisations, à l'exception des exonérations prévues aux articles L. 741-5 et L.
-751-18 du présent code et de la déduction forfaitaire prévue à l'article L.
-241-18 du code de la sécurité sociale.
+cotisations, à l'exception de l'exonération prévue à l'article L. 741-5 du
+présent code et de la déduction forfaitaire prévue à l'article L. 241-18 du code
+de la sécurité sociale.

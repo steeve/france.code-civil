@@ -16,10 +16,9 @@ d) (Abrogé)
 
 e) Des plus-values, gains en capital et profits réalisés sur les marchés à terme
 d'instruments financiers et de marchandises, ainsi que sur les marchés d'options
-négociables, soumis à l'impôt sur le revenu à un taux proportionnel, de même que
-des distributions définies aux 7 et 8 du II de l'article 150-0 A du code général
-des impôts, des avantages définis aux 6 et 6 bis de l'article 200 A du même code
-et du gain défini à l'article 150 duodecies du même code ;
+négociables, soumis à l'impôt sur le revenu, de même que des distributions
+définies aux 7 et 8 du II de l'article 150-0 A du code général des impôts et du
+gain défini à l'article 150 duodecies du même code ;
 
 e bis) Des plus-values et des créances mentionnées au I et au II de l'article
 167 bis du code général des impôts ;
@@ -34,10 +33,10 @@ contribution sur les revenus d'activité et de remplacement définie aux article
 L. 136-1 à L. 136-5.
 
 Pour la détermination de l'assiette de la contribution, il n'est pas fait
-application des abattements mentionnés au I de l'article 125-0 A, à l'article
-150-0 D ter et aux 2° et 5° du 3 de l'article 158 du code général des impôts,
-ainsi que, pour les revenus de capitaux mobiliers, des dépenses effectuées en
-vue de l'acquisition et de la conservation du revenu.
+application des abattements mentionnés au I de l'article 125-0 A, au 1 de
+l'article 150-0 D, à l'article 150-0 D ter et au 2° du 3 de l'article 158 du
+code général des impôts, ainsi que, pour les revenus de capitaux mobiliers, des
+dépenses effectuées en vue de l'acquisition et de la conservation du revenu.
 
 Il n'est pas fait application à la contribution du dégrèvement ou de la
 restitution prévus à l'expiration d'un délai de huit ans au 2 du VII de

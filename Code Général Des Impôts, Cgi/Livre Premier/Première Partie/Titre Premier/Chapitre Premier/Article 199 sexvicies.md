@@ -2,7 +2,7 @@ Article 199 sexvicies
 ----
 I.-Les contribuables domiciliés en France au sens de l'article 4 B peuvent
 bénéficier d'une réduction d'impôt sur le revenu au titre de l'acquisition, à
-compter du 1er janvier 2009 et jusqu'au 31 décembre 2012, d'un logement neuf ou
+compter du 1er janvier 2009 et jusqu'au 31 décembre 2016, d'un logement neuf ou
 en l'état futur d'achèvement ou d'un logement achevé depuis au moins quinze ans
 ayant fait l'objet d'une réhabilitation ou d'une rénovation ou qui fait l'objet
 de travaux de réhabilitation ou de rénovation si les travaux de réhabilitation
@@ -36,17 +36,17 @@ de réhabilitation, elle est calculée sur le prix d'acquisition majoré du mont
 de ces travaux.
 
 Le taux de la réduction d'impôt est de 25 % pour les logements acquis en 2009 et
-en 2010, et de 18 % pour les logements acquis à compter de l'année 2011.
+en 2010, de 18 % pour les logements acquis en 2011 et de 11 % pour ceux acquis à
+compter de 2012.
 
 Toutefois, pour les logements acquis en 2012, le taux de la réduction d'impôt
-est de 11 %. Ces dispositions ne s'appliquent pas aux acquisitions pour
-lesquelles le contribuable justifie qu'il a pris, au plus tard le 31 décembre
-2011, l'engagement de réaliser un investissement immobilier. Dans ce cas, la
-réduction d'impôt s'applique au taux en vigueur au 31 décembre 2011 pour les
-logements acquis en 2011. A titre transitoire, l'engagement de réaliser un
-investissement immobilier peut prendre la forme d'une réservation, à condition
-qu'elle soit enregistrée chez un notaire ou au service des impôts avant le 31
-décembre 2011 et que l'acte authentique soit passé au plus tard le 31 mars 2012.
+reste fixé à 18 % au titre des acquisitions pour lesquelles le contribuable
+justifie qu'il a pris, au plus tard le 31 décembre 2011, l'engagement de
+réaliser un investissement immobilier. A titre transitoire, l'engagement de
+réaliser un investissement immobilier peut prendre la forme d'une réservation, à
+condition qu'elle soit enregistrée chez un notaire ou au service des impôts
+avant le 31 décembre 2011 et que l'acte authentique soit passé au plus tard le
+31 mars 2012.
 
 Lorsque le logement est détenu en indivision, chaque indivisaire bénéficie de la
 réduction d'impôt dans la limite de la quote-part du prix de revient, majoré le

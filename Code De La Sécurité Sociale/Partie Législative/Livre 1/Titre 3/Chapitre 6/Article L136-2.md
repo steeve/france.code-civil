@@ -108,7 +108,8 @@ premier euro ; pour l'application des présentes dispositions, il est fait masse
 des indemnités liées à la cessation forcée des fonctions et de celles visées à
 la première phrase du 5° ;
 
-6° (Abrogé) ;
+6° Les avantages mentionnés au I des articles 80 bis et 80 quaterdecies du code
+général des impôts ; ;
 
 7° Les indemnités journalières ou allocations versées par les organismes de
 sécurité sociale ou, pour leur compte, par les employeurs à l'occasion de la

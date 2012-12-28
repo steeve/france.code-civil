@@ -19,7 +19,7 @@ pour l'exercice 2012 et à cinq millions d'euros pour les exercices ultérieurs 
 remembrement ;
 
 4° Les comptes des établissements publics locaux d'enseignement, à compter de
-l'exercice 2013, dont le montant des ressources de fonctionnement figurant au
+l'exercice 2012, dont le montant des ressources de fonctionnement figurant au
 dernier compte financier est inférieur à trois millions d'euros.
 
 Le montant des recettes ordinaires pris en compte pour l'application du présent

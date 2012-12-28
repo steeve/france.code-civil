@@ -8,8 +8,7 @@ l'année précédente. Pour répondre à cette obligation, les producteurs mette
 place des systèmes individuels de collecte et de traitement de ces déchets ou
 contribuent financièrement à des organismes créés afin de permettre aux
 producteurs de remplir collectivement leurs obligations de collecte et de
-traitement. Les producteurs ne respectant pas cette obligation sont soumis à la
-taxe générale sur les activités polluantes à compter du 1er janvier 2011.
+traitement.
 
 Les personnes qui distribuent à titre commercial aux utilisateurs finaux des
 pneumatiques sont tenues de reprendre gratuitement les déchets qui en sont issus

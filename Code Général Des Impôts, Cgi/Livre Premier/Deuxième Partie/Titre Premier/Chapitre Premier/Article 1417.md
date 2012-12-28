@@ -46,20 +46,22 @@ a) du montant des charges déduites en application des articles 163 unvicies et
 163 duovicies ainsi que du montant des cotisations ou des primes déduites en
 application de l'article 163 quatervicies ;
 
-a bis) Du montant de l'abattement mentionné au 2° du 3 de l'article 158 pour sa
-fraction qui excède l'abattement non utilisé prévu au 5° du 3 du même article et
-du montant des plus-values en report d'imposition en application du I de
-l'article 150-0 D bis ;
+a bis) (1) du montant de l'abattement mentionné au 2° du 3 de l'article 158 , du
+montant de l'abattement prévu au 1 de l'article 150-0 D, du montant des
+plus-values en report d'imposition en application du I de l'article 150-0 D bis,
+du montant de l'abattement prévu à l'article 150-0 D ter et du montant des
+plus-values soumises au prélèvement prévu à l'article 244 bis B ;
 
 b) du montant des bénéfices exonérés en application des articles 44 sexies, 44
 sexies A, 44 octies, 44 octies A, 44 decies, 44 undecies, 44 terdecies à 44
 quindecies, ainsi que de l'article 93-0 A et du 9 de l'article 93 ;
 
-c) du montant des revenus soumis aux prélèvements libératoires prévus aux
-articles 117 quater , 125 A et au II de l'article 163 bis, de ceux soumis aux
-versements libératoires prévus par l'article 151-0 retenus pour leur montant
-diminué, selon le cas, de l'abattement prévu au 1 de l'article 50-0 ou de la
-réfaction forfaitaire prévue au 1 de l'article 102 ter, de ceux visés aux
+c) (2) du montant des revenus soumis aux prélèvements libératoires prévus au II
+de l'article 125-0 A, aux I bis, II, III, second alinéa du 4° et deuxième alinéa
+du 9° du III bis de l'article 125 A et au II de l'article 163 bis, de ceux
+soumis aux versements libératoires prévus par l'article 151-0 retenus pour leur
+montant diminué, selon le cas, de l'abattement prévu au 1 de l'article 50-0 ou
+de la réfaction forfaitaire prévue au 1 de l'article 102 ter, de ceux visés aux
 articles 81 A, 81 B, 81 D et 155 B, de ceux mentionnés au I de l'article 204-0
 bis retenus pour leur montant net de frais d'emploi et pour lesquels l'option
 prévue au III du même article n'a pas été exercée, de ceux perçus par les

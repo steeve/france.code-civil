@@ -4,9 +4,8 @@ I.-L'abattement prévu à l'article 150-0 D bis, dans sa rédaction antérieure 
 l'entrée en vigueur de la loi n° 2011-1977 du 28 décembre 2011 de finances pour
 2012, s'applique dans les mêmes conditions, à l'exception de celles prévues au V
 du même article, aux gains nets réalisés lors de la cession à titre onéreux
-d'actions, de parts ou de droits démembrés portant sur ces actions ou parts,
-acquis ou souscrits avant le 1er janvier 2006, si les conditions suivantes sont
-remplies :
+d'actions, de parts ou de droits démembrés portant sur ces actions ou parts, si
+les conditions suivantes sont remplies :
 
 1° La cession porte sur l'intégralité des actions, parts ou droits détenus par
 le cédant dans la société dont les titres ou droits sont cédés ou sur plus de 50

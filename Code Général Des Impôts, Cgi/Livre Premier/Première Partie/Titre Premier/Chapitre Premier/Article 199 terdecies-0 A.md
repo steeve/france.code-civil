@@ -127,13 +127,23 @@ montants investis durant l'année. Les informations qui figurent sur cet état
 sont celles arrêtées au 31 décembre de l'année.
 
 II. Les versements ouvrant droit à la réduction d'impôt mentionnée au I sont
-ceux effectués jusqu'au 31 décembre 2012. Ils sont retenus dans la limite
+ceux effectués jusqu'au 31 décembre 2016. Ils sont retenus dans la limite
 annuelle de 50 000 € pour les contribuables célibataires, veufs ou divorcés et
 de 100 000 € pour les contribuables mariés soumis à imposition commune.
 
 La fraction d'une année excédant, le cas échéant, les limites mentionnées au
 premier alinéa ouvre droit à la réduction d'impôt dans les mêmes conditions au
 titre des quatre années suivantes.
+
+La réduction de l'impôt dû procurée par le montant de la réduction d'impôt
+mentionnée au I du présent article qui excède le montant mentionné au premier
+alinéa du 1 de l'article 200-0 A peut être reportée sur l'impôt sur le revenu dû
+au titre des années suivantes jusqu'à la cinquième inclusivement. Pour la
+détermination de cet excédent au titre d'une année, il est tenu compte de la
+réduction d'impôt accordée au titre des versements réalisés au cours de l'année
+concernée et des versements en report mentionnés au deuxième alinéa du présent
+II ainsi que des reports de la réduction d'impôt constatés au titre d'années
+antérieures.
 
 II bis. ― Abrogé.
 
@@ -152,7 +162,13 @@ en contrepartie de sa souscription au capital de sociétés vérifiant l'ensembl
 des conditions prévues au 2° et prises en compte pour le bénéfice de la
 réduction d'impôt sur le revenu. Les mêmes dispositions s'appliquent en cas de
 remboursement des apports aux souscripteurs avant le 31 décembre de la dixième
-année suivant celle de la souscription.
+année suivant celle de la souscription, à l'exception des parts investies dans
+des entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du
+travail et agréées en vertu du même article avant le 31 décembre 2012, ainsi que
+dans des établissements de crédit dont 80 % de l'ensemble des prêts et des
+investissements sont effectués en faveur d'entreprises solidaires mentionnées
+audit article, pour lesquelles le remboursement doit intervenir après le 31
+décembre de la cinquième année suivant celle de la souscription.
 
 Les dispositions du deuxième alinéa ne s'appliquent pas en cas de licenciement,
 d'invalidité correspondant au classement dans la deuxième ou la troisième des
@@ -193,17 +209,17 @@ c. Par dérogation aux dispositions du dernier alinéa du I de l'article L. 214-
 du code monétaire et financier, si le fonds n'a pas pour objet d'investir plus
 de 50 % de son actif au capital de jeunes entreprises innovantes définies à
 l'article 44 sexies-0 A, le quota d'investissement de 60 % prévu à ce même I
-doit être atteint à hauteur de 50 % au moins au plus tard huit mois à compter de
-la date de clôture de la période de souscription fixée dans le prospectus
+doit être atteint à hauteur de 50 % au moins au plus tard douze mois à compter
+de la date de clôture de la période de souscription fixée dans le prospectus
 complet du fonds, laquelle ne peut excéder huit mois à compter de la date de
 constitution du fonds, sauf pour les fonds mentionnés au VI ter A du présent
 article pour lesquels la période de souscription est allongée de huit à douze
 mois, ou huit mois après la promulgation de la loi n° 2009-1673 du 30 décembre
 2009 de finances pour 2010 et à hauteur de 100 % au plus tard le dernier jour du
-huitième mois suivant.
+douzième mois suivant.
 
 2. Les versements ouvrant droit à la réduction d'impôt mentionnée au 1 sont ceux
-effectués jusqu'au 31 décembre 2012. Ils sont retenus, après imputation des
+effectués jusqu'au 31 décembre 2016. Ils sont retenus, après imputation des
 droits ou frais d'entrée, dans les limites annuelles de 12 000 € pour les
 contribuables célibataires, veufs ou divorcés et de 24 000 € pour les
 contribuables mariés soumis à imposition commune.
@@ -230,7 +246,7 @@ VI bis.-Les dispositions du 1, du 2 bis et du 3 du VI s'appliquent aux
 versements effectués au titre de souscriptions en numéraire de parts de fonds
 d'investissement de proximité mentionnés à l'article L. 214-31 du code monétaire
 et financier. Les versements ouvrant droit à la réduction d'impôt sont ceux
-effectués jusqu'au 31 décembre 2012. Ils sont retenus, après imputation des
+effectués jusqu'au 31 décembre 2016. Ils sont retenus, après imputation des
 droits ou frais d'entrée, dans les limites annuelles de 12 000 € pour les
 contribuables célibataires, veufs ou divorcés et de 24 000 € pour les
 contribuables mariés soumis à imposition commune. Les réductions d'impôt prévues
@@ -254,7 +270,7 @@ des établissements situés en Corse.
 Les dispositions du 1, du 2 bis et du 3 du VI sont applicables.
 
 Les versements ouvrant droit à réduction d'impôt sont ceux effectués jusqu'au 31
-décembre 2012. Ils sont retenus, après imputation des droits ou frais d'entrée,
+décembre 2016. Ils sont retenus, après imputation des droits ou frais d'entrée,
 dans les limites annuelles de 12 000 € pour les contribuables célibataires,
 veufs ou divorcés et de 24 000 € pour les contribuables mariés soumis à
 imposition commune. Les réductions d'impôts prévues aux VI, VI bis et au présent
@@ -282,7 +298,7 @@ réduction d'impôt sur le revenu prévue au I de l'article 199 undecies B.
 Les a à c du 1 et le 3 du VI sont applicables.
 
 Les versements ouvrant droit à réduction d'impôt sont ceux effectués jusqu'au 31
-décembre 2014. Ils sont retenus dans les limites annuelles de 12 000 € pour les
+décembre 2016. Ils sont retenus dans les limites annuelles de 12 000 € pour les
 contribuables célibataires, veufs ou divorcés et de 24 000 € pour les
 contribuables mariés soumis à imposition commune. Les réductions d'impôt prévues
 au VI bis et au présent VI ter A sont exclusives les unes des autres pour les

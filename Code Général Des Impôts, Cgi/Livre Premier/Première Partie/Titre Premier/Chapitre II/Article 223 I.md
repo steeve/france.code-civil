@@ -2,7 +2,8 @@ Article 223 I
 ----
 1. a) Les déficits subis par une société du groupe au titre d'exercices
 antérieurs à son entrée dans le groupe ne sont imputables que sur son bénéfice,
-dans les limites et conditions prévues au dernier alinéa du I de l'article 209 ;
+dans les limites et conditions prévues au troisième alinéa du I de l'article 209
+;
 
 b) La quote-part de déficits qui correspond aux suppléments d'amortissements
 résultant de la réévaluation de ses immobilisations par une société du groupe,
@@ -41,7 +42,7 @@ ayant bénéficié des dispositions de l'article 210 A ainsi que des plus-values
 réintégrées en application du d du 3 du même article. De même, le déficit ou la
 moins-value nette à long terme de la société, mentionné au b du 1 et au 3, est
 augmenté de ces profits ou plus-values. Pour l'application de la limite prévue
-au dernier alinéa du I de l'article 209, le bénéfice imposable s'entend du
+au troisième alinéa du I de l'article 209, le bénéfice imposable s'entend du
 bénéfice de la société déterminé selon les modalités prévues au présent 4.
 
 5. Dans les situations visées aux c, d, e, f ou i du 6 de l'article 223 L, et
@@ -52,7 +53,7 @@ correspond à celui de la société mère absorbée ou à celui des sociétés m
 du groupe ayant cessé et qui font partie du nouveau groupe, s'imputer sur les
 résultats, déterminés selon les modalités prévues au 4 et par dérogation au a du
 1, des sociétés mentionnées ci-dessus. Cette fraction de déficit s'impute dans
-les limites et conditions prévues au dernier alinéa du I de l'article 209.
+les limites et conditions prévues au troisième alinéa du I de l'article 209.
 
 La fraction du déficit transférée en application du 7 peut, dans la mesure où
 cette fraction correspond au déficit des sociétés apportées qui font partie du

@@ -2,7 +2,7 @@ Article L5211-33
 ----
 I. Les communautés de communes et les communautés d'agglomération ne peuvent
 percevoir, à compter de la troisième année d'attribution de la dotation dans la
-même catégorie, une attribution par habitant inférieure à 90 % de la dotation
+même catégorie, une attribution par habitant inférieure à 95 % de la dotation
 par habitant perçue l'année précédente.
 
 De 2000 à 2002, les communautés urbaines ne faisant pas application des

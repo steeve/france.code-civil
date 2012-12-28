@@ -8,3 +8,7 @@ année au titre de laquelle ils ont cessé d'être éligibles, à titre de garan
 non renouvelable, une attribution égale à la moitié de celle perçue l'année
 précédente. Les sommes nécessaires sont prélevées sur les ressources du fonds
 avant application du I de l'article L. 2336-5.
+
+Pour les ensembles intercommunaux, cette attribution est répartie entre
+l'établissement public de coopération intercommunale à fiscalité propre et ses
+communes membres dans les conditions prévues au II du même article L. 2336-5.

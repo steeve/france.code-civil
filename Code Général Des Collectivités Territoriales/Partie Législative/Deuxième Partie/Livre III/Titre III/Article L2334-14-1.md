@@ -1,10 +1,10 @@
 Article L2334-14-1
 ----
-I.-La dotation nationale de péréquation comprend une part principale et une
+I. - La dotation nationale de péréquation comprend une part principale et une
 majoration.
 
-II.-Cette dotation est répartie entre les communes dans les conditions précisées
-aux III, III bis, IV, V et VI, après prélèvement des sommes nécessaires à la
+II. - Cette dotation est répartie entre les communes dans les conditions
+précisées aux III, IV, V et VI, après prélèvement des sommes nécessaires à la
 quote-part destinée aux communes des départements d'outre-mer, de la
 Nouvelle-Calédonie, de la Polynésie française, de la collectivité territoriale
 de Saint-Pierre-et-Miquelon, des circonscriptions territoriales de
@@ -14,8 +14,8 @@ péréquation le ratio démographique mentionné au quatrième alinéa de l'arti
 2334-13. Elle est répartie dans des conditions fixées par décret en Conseil
 d'Etat.
 
-III.-Bénéficient de la part principale de la dotation les communes de métropole
-qui remplissent les deux conditions suivantes :
+III. - Bénéficient de la part principale de la dotation les communes de
+métropole qui remplissent les deux conditions suivantes :
 
 1° Le potentiel financier par habitant est inférieur au potentiel financier
 moyen par habitant majoré de 5 % de l'ensemble des communes appartenant au même
@@ -40,26 +40,10 @@ leur effort fiscal soit inférieur à 85 % de l'effort fiscal moyen des communes
 appartenant au même groupe démographique, bénéficient d'une attribution dans les
 conditions définies au IV.
 
-III bis.-Bénéficient également de la part principale de la dotation les fonds
-départementaux de péréquation de la taxe professionnelle mentionnés à l'article
-1648 A du code général des impôts qui, à la suite d'un changement d'exploitant
-intervenu après le 1er janvier 1997 et concernant des entreprises visées à
-l'article 1471 du même code, enregistrent une perte de ressources supérieure au
-quart des ressources dont ils bénéficiaient l'année de survenance de ce
-changement.
+III bis. - (Abrogé).
 
-Cette attribution est versée de manière dégressive sur trois ans. Les fonds
-éligibles bénéficient :
-
-1° La première année, d'une attribution égale à 90 % de la perte subie ;
-
-2° La deuxième année, de 75 % de l'attribution reçue l'année précédente ;
-
-3° La troisième année, de 50 % de l'attribution reçue la première année.
-
-IV.-Outre les attributions versées aux fonds départementaux de péréquation de la
-taxe professionnelle en application du III bis, la part principale de la
-dotation est répartie dans les conditions suivantes :
+IV. - La part principale de la dotation est répartie dans les conditions
+suivantes :
 
 L'attribution par habitant revenant à chaque commune de métropole éligible est
 déterminée en proportion de l'écart relatif entre le potentiel financier moyen
@@ -95,8 +79,8 @@ comptant 200 000 habitants et plus est égal au produit de leur population par l
 montant moyen de l'attribution par habitant perçue l'année précédente par ces
 communes.
 
-V.-La majoration de la dotation nationale de péréquation est répartie entre les
-communes éligibles comptant moins de 200 000 habitants en proportion de leur
+V. - La majoration de la dotation nationale de péréquation est répartie entre
+les communes éligibles comptant moins de 200 000 habitants en proportion de leur
 population et de l'écart relatif entre le potentiel fiscal moyen par habitant,
 calculé à partir des seuls produits mentionnés au 2° du I de l'article L.
 2334-4, de l'ensemble des communes appartenant au même groupe démographique et

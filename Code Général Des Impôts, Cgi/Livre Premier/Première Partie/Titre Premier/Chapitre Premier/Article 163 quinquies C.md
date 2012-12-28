@@ -6,10 +6,22 @@ II.-1) Les distributions par les sociétés de capital-risque qui remplissent le
 conditions prévues à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985
 précitée, prélevées sur des plus-values nettes de cessions de titres réalisées
 par la société au cours des exercices clos à compter du 31 décembre 2001 sont
-soumises, lorsque l'actionnaire est une personne physique, au taux d'imposition
-prévu au 2 de l'article 200 A ou, lorsqu'elles sont payées dans un Etat ou
-territoire non coopératif au sens de l'article 238-0 A, à la retenue à la source
-prévue au 2 de l'article 119 bis.
+imposées dans les conditions prévues au 2 de l'article 200 A lorsque
+l'actionnaire est une personne physique fiscalement domiciliée en France au sens
+de l'article 4 B, ou soumises à la retenue à la source prévue au 2 de l'article
+119 bis lorsqu'elles sont payées dans un Etat ou territoire non coopératif au
+sens de l'article 238-0 A, ou soumises à cette même retenue à la source aux taux
+de 19 % pour les gains réalisés avant le 1er janvier 2013 et de 45 % pour ceux
+réalisés à compter de cette même date lorsque l'actionnaire est une personne
+physique fiscalement domiciliée hors de France. Toutefois, les personnes
+physiques qui ne sont pas fiscalement domiciliées en France au sens de l'article
+4 B peuvent demander le remboursement de l'excédent du prélèvement de 45 %
+lorsque ce prélèvement excède la différence entre, d'une part, le montant de
+l'impôt qui résulterait de l'application de l'article 197 A à la somme des
+distributions mentionnées au présent alinéa et des autres revenus de source
+française imposés dans les conditions de ce même article 197 A au titre de la
+même année et, d'autre part, le montant de l'impôt établi dans les conditions
+prévues audit article 197 A sur ces autres revenus.
 
 Toutefois, lorsque ces distributions sont afférentes à des actions donnant lieu
 à des droits différents sur l'actif net ou les produits de la société et

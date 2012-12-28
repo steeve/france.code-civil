@@ -27,7 +27,9 @@ verts.
 ou, le cas échéant, au syndicat de copropriétaires, au locataire, à l'occupant
 des locaux ou à leur représentant à condition que le preneur atteste que ces
 travaux se rapportent à des locaux d'habitation achevés depuis plus de deux ans
-et ne répondent pas aux conditions mentionnées au 2. Le prestataire est tenu de
+et ne répondent pas aux conditions mentionnées au 2. Il est également applicable
+dans les mêmes conditions aux travaux réalisés par l'intermédiaire d'une société
+d'économie mixte intervenant comme tiers financeur. Le prestataire est tenu de
 conserver cette attestation à l'appui de sa comptabilité.
 
 Le preneur doit conserver copie de cette attestation, ainsi que les factures ou

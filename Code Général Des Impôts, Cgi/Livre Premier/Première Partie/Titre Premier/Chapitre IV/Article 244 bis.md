@@ -1,9 +1,9 @@
 Article 244 bis
 ----
 Les profits mentionnés à l'article 35 donnent lieu à la perception d'un
-prélèvement de 33, 1 / 3 % lorsqu'ils sont réalisés par des contribuables ou par
+prélèvement de 33,1/3 % lorsqu'ils sont réalisés par des contribuables ou par
 des sociétés, quelle qu'en soit la forme, qui n'ont pas d'établissement en
-France. Par dérogation, le taux est porté à 50 % lorsque les profits sont
+France. Par dérogation, le taux est porté à 75 % lorsque les profits sont
 réalisés par ces mêmes contribuables ou sociétés lorsqu'ils sont domiciliés,
 établis ou constitués hors de France dans un Etat ou territoire non coopératif
 au sens de l'article 238-0 A.

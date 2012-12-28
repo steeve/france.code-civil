@@ -4,8 +4,7 @@ Sont exonérés de la redevance d'archéologie préventive :
 
 1° Lorsqu'elle est perçue sur les travaux mentionnés au a de l'article L. 524-2,
 les constructions et aménagements mentionnés aux 1° à 3° et 7° à 9° de l'article
-L. 331-7 du code de l'urbanisme, ainsi que les constructions de maisons
-individuelles réalisées pour elle-même par une personne physique ;
+L. 331-7 du code de l'urbanisme ;
 
 2° Lorsqu'elle est perçue sur les travaux mentionnés aux b et c de l'article L.
 524-2 du présent code, les affouillements rendus nécessaires pour la réalisation

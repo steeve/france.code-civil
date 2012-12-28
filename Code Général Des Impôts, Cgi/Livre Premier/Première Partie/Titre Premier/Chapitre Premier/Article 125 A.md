@@ -1,37 +1,52 @@
 Article 125 A
 ----
-I. Sous réserve des dispositions du 1 de l'article 119 bis et de l'article 125
-B, les personnes physiques qui bénéficient d'intérêts, arrérages et produits de
-toute nature de fonds d'Etat, obligations, titres participatifs, bons et autres
-titres de créances, dépôts, cautionnements et comptes courants, peuvent opter
-pour leur assujettissement à un prélèvement qui libère les revenus auxquels il
-s'applique de l'impôt sur le revenu, lorsque la personne qui assure le paiement
-de ces revenus est établie en France, qu'il s'agisse ou non du débiteur, ce
-dernier étant établi dans un Etat membre de l'Union européenne, ou dans un autre
-Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la
-France une convention d'assistance administrative en vue de lutter contre la
-fraude et l'évasion fiscales.
+I. - Les personnes physiques fiscalement domiciliées en France au sens de
+l'article 4 B qui bénéficient d'intérêts, arrérages et produits de toute nature
+de fonds d'Etat, obligations, titres participatifs, bons et autres titres de
+créances, dépôts, cautionnements et comptes courants, ainsi que d'intérêts
+versés au titre des sommes mises à la disposition de la société dont elles sont
+associées ou actionnaires et portées sur un compte bloqué individuel, sont
+assujetties à un prélèvement lorsque la personne qui assure le paiement de ces
+revenus est établie en France, qu'il s'agisse ou non du débiteur.
 
-La retenue à la source éventuellement opérée sur les revenus dont le débiteur
-est établi en France est imputée sur le prélèvement.
+Pour le calcul de ce prélèvement, les revenus mentionnés au premier alinéa sont
+retenus pour leur montant brut.
 
-Celui-ci est effectué par le débiteur ou par la personne qui assure le paiement
-des revenus.
+Le prélèvement est effectué par le débiteur ou par la personne qui assure le
+paiement des revenus.
 
-Les revenus de source étrangère mentionnés au premier alinéa sont retenus pour
-leur montant brut.L'impôt retenu à la source est imputé sur le prélèvement dans
-la limite du crédit d'impôt auquel il ouvre droit tel que ce crédit est prévu
-par les conventions internationales.
+Toutefois, les personnes physiques appartenant à un foyer fiscal dont le revenu
+fiscal de référence de l'avant-dernière année, tel que défini au 1° du IV de
+l'article 1417, est inférieur à 25 000 € pour les contribuables célibataires,
+divorcés ou veufs et à 50 000 € pour les contribuables soumis à une imposition
+commune peuvent demander à être dispensées de ce prélèvement dans les conditions
+prévues à l'article 242 quater.
 
-II. Pour les catégories de placements définies par arrêté du ministre de
-l'économie et des finances, le débiteur peut offrir au public des placements
-dont les produits sont, dans tous les cas, soumis au prélèvement libératoire
-sauf, si le créancier est une personne physique, option expresse de sa part pour
-l'imposition de droit commun.
+I bis. - Les personnes physiques appartenant à un foyer fiscal dont le montant
+des revenus mentionnés au premier alinéa du I n'excède pas, au titre d'une
+année, 2 000 € peuvent opter pour leur assujettissement à l'impôt sur le revenu,
+à raison de ces mêmes revenus, à un taux forfaitaire de 24 %. L'option est
+exercée lors du dépôt de la déclaration d'ensemble des revenus perçus au titre
+de la même année.
+
+Les revenus mentionnés au premier alinéa du présent I bis de source étrangère
+sont retenus pour leur montant brut. L'impôt retenu à la source est imputé sur
+l'imposition à taux forfaitaire dans la limite du crédit d'impôt auquel il ouvre
+droit, dans les conditions prévues par les conventions internationales.
+
+II. - Un prélèvement est obligatoirement applicable aux revenus des produits
+d'épargne donnés au profit d'un organisme mentionné au 1 de l'article 200 dans
+le cadre d'un mécanisme dit " solidaire " de versement automatique à l'organisme
+bénéficiaire par le gestionnaire du fonds d'épargne.
+
+Les revenus mentionnés au premier alinéa du présent II de source étrangère sont
+retenus pour leur montant brut. L'impôt retenu à la source est imputé sur le
+prélèvement dans la limite du crédit d'impôt auquel il ouvre droit, dans les
+conditions prévues par les conventions internationales.
 
 II bis. (Abrogé)
 
-III.-Le prélèvement est obligatoirement applicable aux revenus et produits
+III.-Un prélèvement est obligatoirement applicable aux revenus et produits
 mentionnés aux I et II, dont le débiteur est établi ou domicilié en France et
 qui sont payés hors de France, dans un Etat ou territoire non coopératif au sens
 de l'article 238-0 A, sauf si le débiteur démontre que les opérations auxquelles
@@ -39,16 +54,16 @@ correspondent ces revenus et produits ont principalement un objet et un effet
 autres que de permettre la localisation de ces revenus et produits dans un Etat
 ou territoire non coopératif.
 
+La retenue à la source opérée conformément au 1 de l'article 119 bis est, le cas
+échéant, imputée sur le prélèvement mentionné au premier alinéa du présent III.
+
 III bis. Le taux du prélèvement est fixé :
 
 1° à 24 % pour les produits d'obligations négociables et de titres
 participatifs.
 
 Ce taux est applicable aux intérêts servis aux salariés sur les versements
-effectués dans les fonds salariaux et aux produits capitalisés sur un plan
-d'épargne populaire dont la durée est égale ou supérieure à 4 ans ; il est fixé
-à 35 p. 100 pour les produits capitalisés sur un plan d'épargne populaire dont
-la durée est inférieure à quatre ans ;
+effectués dans les fonds salariaux ;
 
 Ce taux est également applicable aux intérêts des plans d'épargne-logement ne
 bénéficiant pas de l'exonération mentionnée au 9° bis de l'article 157 et aux
@@ -59,49 +74,29 @@ l'exonération mentionnée au 23° du même article.
 réglementé en application d'une disposition législative particulière et non
 susceptibles d'être cotés.
 
-2° à un tiers pour les produits des bons du Trésor sur formules, des bons
-d'épargne des PTT ou de la Poste, des bons de la caisse nationale du crédit
-agricole, des bons de caisse du crédit mutuel, des bons à cinq ans du crédit
-foncier de France, des bons émis par les groupements régionaux d'épargne et de
-prévoyance, des bons de la caisse nationale de l'énergie et des bons de caisse
-des établissements de crédit, sous réserve que ces titres aient été émis avant
-le 1er juin 1978 ;
+2° à 24 % pour les produits des bons du Trésor sur formules, des bons d'épargne
+des PTT ou de la Poste, des bons de la caisse nationale du crédit agricole, des
+bons de caisse du crédit mutuel, des bons à cinq ans du crédit foncier de
+France, des bons émis par les groupements régionaux d'épargne et de prévoyance,
+des bons de la caisse nationale de l'énergie et des bons de caisse des
+établissements de crédit, sous réserve que ces titres aient été émis avant la
+date d'entrée en vigueur de la loi de finances pour 1980 (n° 80-30 du 18 janvier
+1980), ainsi que les produits des autres placements ;
 
-3° à 40 % pour les produits des bons énumérés au 2° qui ont été émis entre le
-1er juin 1978 et la date d'entrée en vigueur de la loi n° 80-30 du 18 janvier
-1980 et pour les produits des autres placements courus antérieurement au 1er
-janvier 1980 ;
+3° Abrogé ;
 
-4° à 38 % pour les produits des bons et titres émis à compter de la date
+4° à 24 % pour les produits des bons et titres émis à compter de la date
 d'entrée en vigueur de la loi n° 80-30 du 18 janvier 1980 et avant le 1er
-janvier 1983 lorsque le bénéficiaire des intérêts autorise l'établissement
+janvier 1998 lorsque le bénéficiaire des intérêts autorise l'établissement
 payeur, au moment du paiement, à communiquer son identité et son domicile fiscal
 à l'administration fiscale,
 
 et à 42 % lorsque cette condition n'est pas remplie ;
 
-5° à 38 % pour les produits des placements, autres que les bons et titres,
-courus du 1er janvier 1980 au 31 décembre 1982 inclus ;
+5° à 7° : abrogés ;
 
-6° à 45 % pour les produits des bons et titres émis à compter du 1er janvier
-1983, à 35 % pour les produits des bons et titres émis à compter du 1er janvier
-1990 et à 24 % pour les produits de ceux émis à compter du 1er janvier 1995,
-lorsque le bénéficiaire des intérêts autorise l'établissement payeur, au moment
-du paiement, à communiquer son identité et son domicile fiscal à
-l'administration fiscale,
-
-et à 60 % lorsque cette condition n'est pas remplie ;
-
-7° à 45 % pour les produits des placements, autres que les bons et titres courus
-à partir du 1er janvier 1983, à 35 % pour les produits des placements courus à
-partir du 1er janvier 1990 et à 24 % pour les produits des placements courus à
-partir du 1er janvier 1995 ;
-
-8° à 24 % pour les produits des parts émises par les fonds communs de créances.
-Le boni de liquidation peut être soumis à ce prélèvement au taux de 35 %.
-
-Le taux de 35 % est remplacé par celui de 24 % lorsque le boni est réparti à
-compter du 1er janvier 1995.
+8° à 24 % pour les produits des parts émises par les fonds communs de créances
+ainsi que pour le boni de liquidation.
 
 9° à 24 % pour les produits des bons et titres énumérés au 2° émis à compter du
 1er janvier 1998 lorsque le souscripteur et le bénéficiaire, s'il est différent,
@@ -113,33 +108,26 @@ et à 60 % lorsque l'une de ces conditions n'est pas remplie.
 
 Un décret fixe les conditions d'application du présent 9° ;
 
-10° A 5 % pour les revenus des produits d'épargne donnés au profit d'un
-organisme mentionné au 1 de l'article 200 dans le cadre d'un mécanisme dit
-solidaire de versement automatique à l'organisme bénéficiaire par le
-gestionnaire du fonds d'épargne ;
+10° A 5 % pour les revenus des produits d'épargne soumis obligatoirement au
+prélèvement en application du II ;
 
-11° A 50 % pour les revenus et produits soumis obligatoirement au prélèvement en
+11° A 75 % pour les revenus et produits soumis obligatoirement au prélèvement en
 application du III.
 
-IV.L'option pour le prélèvement prévue au I est subordonnée :
+IV. - Le prélèvement prévu au I ne s'applique pas aux intérêts et autres revenus
+exonérés d'impôt sur le revenu en application de l'article 157.
 
-a. (Abrogé) ;
+V. Le prélèvement prévu au I s'impute sur l'impôt sur le revenu dû au titre de
+l'année au cours de laquelle il a été opéré. S'il excède l'impôt dû, l'excédent
+est restitué.
 
-b. En ce qui concerne les produits des bons de caisse, à la condition que les
-bons aient été émis par des établissements de crédit ;
+Les prélèvements prévus aux II, III, second alinéa du 4° et deuxième alinéa du
+9° du III bis libèrent les revenus auxquels ils s'appliquent de l'impôt sur le
+revenu.
 
-c. En ce qui concerne les produits des autres créances, à la condition que le
-capital et les intérêts ne fassent pas l'objet d'une indexation. Cette condition
-n'est cependant pas exigée lorsque l'indexation est autorisée en vertu des
-dispositions des articles L. 112-1 à L. 112-4 du code monétaire et financier ou,
-lorsque le débiteur est établi hors de France, serait autorisée en vertu de
-dispositions analogues. Elle n'est pas non plus exigée pour les titres de
-créance mentionnés au 2 du II de l'article L. 211-1 du code monétaire et
-financier.
-
-V. Le caractère libératoire du prélèvement ne peut être invoqué pour les
-produits qui sont pris en compte pour la détermination du bénéfice imposable
-d'une entreprise industrielle, commerciale, artisanale ou agricole, ou d'une
+Le caractère libératoire du prélèvement ne peut être invoqué pour les produits
+qui sont pris en compte pour la détermination du bénéfice imposable d'une
+entreprise industrielle, commerciale, artisanale ou agricole, ou d'une
 profession non commerciale.
 
 VI. Les modalités et conditions d'application du présent article sont fixées par

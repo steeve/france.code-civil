@@ -7,8 +7,6 @@ prendre en charge, ou faire prendre en charge par des sociétés spécialisées,
 techniquement et financièrement la collecte et le traitement des déchets
 ménagers desdits produits (contenants et contenus). Ces produits doivent faire
 l'objet d'une signalétique appropriée afin d'éviter aux usagers de les faire
-collecter en mélange avec les déchets municipaux résiduels.A partir du 1er
-janvier 2011, tout émetteur sur le marché ne respectant pas cette obligation est
-soumis à la taxe générale sur les activités polluantes.
+collecter en mélange avec les déchets municipaux résiduels.
 
 Les modalités d'application du présent article sont fixées par décret.

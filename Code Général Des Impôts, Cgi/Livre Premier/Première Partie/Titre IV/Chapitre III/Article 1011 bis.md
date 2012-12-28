@@ -41,210 +41,54 @@ TARIF DE LA TAXE
 
 (en euros)
 
-Année d'acquisition
-
-2008
-
-2009
-
-2010
-
-2011
-
-2012
+Année d'immatriculation
 
 
-Taux ≤ 140
+A partir de 2013
+
+Taux ≤ 135
 
 0
 
-0
+135 &lt; taux ≤ 140
 
-0
+100
 
-0
+140 &lt; taux ≤ 145
 
-0
+300
 
-141 ≤ taux ≤ 145
+145 &lt; taux ≤ 150
 
-0
+400
 
-0
+150 &lt; taux ≤ 155
 
-0
+1 000
 
-0
+155 &lt; taux ≤ 175
 
-200
+1 500
 
-146 ≤ taux ≤150
+175 &lt; taux ≤ 180
 
-0
+2 000
 
-0
-
-0
-
-0
-
-200
-
-151 ≤ taux ≤ 155
-
-0
-
-0
-
-0
-
-200
-
-500
-
-156 ≤ taux ≤ 160
-
-0
-
-0
-
-200
-
-750
-
-750
-
-161 ≤ taux ≤ 165
-
-200
-
-200
-
-750
-
-750
-
-750
-
-166 ≤ taux ≤ 180
-
-750
-
-750
-
-750
-
-750
-
-750
-
-181≤ taux ≤ 190
-
-750
-
-750
-
-750
-
-750
-
-1 300
-
-191 ≤ taux ≤ 195
-
-750
-
-750
-
-750
-
-1600
-
-2 300
-
-196 ≤ taux ≤ 200
-
-750
-
-750
-
-1 600
-
-1 600
-
-2 300
-
-201 ≤ taux ≤ 230
-
-1 600
-
-1 600
-
-1 600
-
-1 600
-
-2 300
-
-231 ≤ taux ≤ 235
-
-1 600
-
-1 600
-
-1 600
-
-1 600
-
-3 600
-
-236 ≤ taux ≤ 240
-
-1 600
-
-1 600
-
-1 600
-
-1 600
-
-3 600
-
-241 ≤ taux ≤ 245
-
-1 600
-
-1 600
-
-1 600
+180 &lt; taux ≤ 185
 
 2 600
 
-3 600
+185 &lt; taux ≤ 190
 
-246 ≤ taux ≤ 250
+3 000
 
-1 600
+190 &lt; taux ≤ 200
 
-1 600
+5 000
 
-2 600
+200 &lt; taux
 
-2 600
-
-3 600
-
-250 &lt; taux
-
-2 600
-
-2 600
-
-2 600
-
-2 600
-
-3 600
+6 000
 
 Pour la détermination des tarifs mentionnés au tableau ci-dessus, le taux
 d'émission de dioxyde de carbone des véhicules est diminué de 20 grammes par
@@ -275,25 +119,29 @@ MONTANT DE LA TAXE
 (en euros)
 
 
-Puissance fiscale ≤ 7
+Puissance fiscale ≤ 5
 
 0
 
+6 ≤ puissance fiscale ≤ 7
+
+800
+
 8 ≤ puissance fiscale ≤ 9
 
-750
+1 400
 
-10 ≤ puissance totale ≤ 11
+10 ≤ puissance fiscale ≤ 11
 
-1 300
+2 600
 
 12 ≤ puissance fiscale ≤ 16
 
-2 300
+4 600
 
-16 &lt; puissance fiscale
+Puissance fiscale &gt; 16
 
-3 600
+6 000
 
 Pour les véhicules introduits en France après avoir été immatriculés dans un
 autre pays, la taxe est réduite d'un dixième par année entamée depuis cette

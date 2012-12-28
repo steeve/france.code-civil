@@ -5,14 +5,14 @@ une déclaration de leur fortune déposée au service des impôts de leur domici
 au 1er janvier et accompagnée du paiement de l'impôt (1).
 
 2. Par exception au 1, les redevables dont le patrimoine a une valeur nette
-taxable comprise dans les limites de la deuxième ligne de la première colonne du
-tableau du 1 du I de l'article 885 U et qui sont tenus à l'obligation de déposer
-la déclaration annuelle prévue à l'article 170 mentionnent la valeur nette
-taxable de leur patrimoine seulement sur cette déclaration.
+taxable inférieure à 2 570 000 € et qui sont tenus à l'obligation de déposer la
+déclaration annuelle prévue à l'article 170 mentionnent la valeur brute et la
+valeur nette taxable de leur patrimoine seulement sur cette déclaration.
 
-La valeur nette taxable du patrimoine des concubins notoires et de celui des
-enfants mineurs lorsque les concubins ont l'administration légale de leurs biens
-est portée sur la déclaration de l'un ou l'autre des concubins.
+La valeur brute et la valeur nette taxable du patrimoine des concubins notoires
+et de celui des enfants mineurs lorsque les concubins ont l'administration
+légale de leurs biens sont portées sur la déclaration de l'un ou l'autre des
+concubins.
 
 II. Les époux et les partenaires liés par un pacte civil de solidarité défini
 par l'article 515-1 du code civil doivent conjointement signer la déclaration

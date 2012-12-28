@@ -1,6 +1,6 @@
 Article L5211-30
 ----
-I.-Les sommes affectées à chacune des catégories d'établissements publics de
+I. - Les sommes affectées à chacune des catégories d'établissements publics de
 coopération intercommunale mentionnées au I de l'article L. 5211-29 sont
 réparties entre les établissements après prélèvement des sommes nécessaires à
 l'application des dispositions de l'article L. 5211-33, à raison de 30 % pour la
@@ -45,7 +45,7 @@ coopération intercommunale.
 La majoration prévue au onzième alinéa de l'article L. 5211-29 est affectée aux
 communautés de communes visées à l'article L. 5214-23-1. Elle s'ajoute à leur
 dotation de base et est répartie comme cette dernière entre les communautés de
-communes concernées. II.-Le potentiel fiscal des établissements publics de
+communes concernées. II. - Le potentiel fiscal des établissements publics de
 coopération intercommunale à fiscalité propre est déterminé en additionnant les
 montants suivants : 1° Le produit déterminé par l'application aux bases
 intercommunales d'imposition de taxe d'habitation, de taxe foncière sur les
@@ -89,9 +89,10 @@ les produits perçus par les groupements au titre de chacune de ces taxes et la
 somme des bases des groupements. Les ressources et produits retenus sont ceux
 bruts de la dernière année dont les résultats sont connus.
 
-III.-1° Le coefficient d'intégration fiscale, qui est défini pour les
-communautés urbaines de 2000 à 2002 et les communautés d'agglomération, est
-égal, pour chacun de ces établissements publics, au rapport entre :
+III. - 1° Le coefficient d'intégration fiscale, qui est défini pour les
+communautés urbaines, les métropoles, les syndicats d'agglomération nouvelle et
+les communautés d'agglomération, est égal, pour chacun de ces établissements
+publics, au rapport entre :
 
 a) Les recettes provenant de la taxe d'habitation, de la taxe foncière sur les
 propriétés bâties, de la taxe foncière sur les propriétés non bâties, de la taxe
@@ -119,11 +120,11 @@ celles-ci ;
 
 Les recettes prévues au a et au b ci-dessus ainsi que les montants positifs ou
 négatifs résultant de l'application des 1.1 et 2.1 de l'article 78 de la loi n°
-2009-1673 de finances pour 2010 précitée perçus ou supportés par les communautés
-d'agglomération et les communautés urbaines faisant application des dispositions
-de l'article 1609 nonies C du code général des impôts sont majorées du montant
-de la dernière année connue de la dotation de compensation prévue au premier
-alinéa de l'article L. 5211-28-1, hors les montants correspondant à la
+2009-1673 de finances pour 2010 précitée perçus ou supportés par les
+établissements publics de coopération intercommunale faisant application des
+dispositions de l'article 1609 nonies C du code général des impôts sont majorées
+du montant de la dernière année connue de la dotation de compensation prévue au
+premier alinéa de l'article L. 5211-28-1, hors les montants correspondant à la
 compensation prévue au 2° bis du II de l'article 1648 B du code général des
 impôts dans sa rédaction antérieure à la loi de finances pour 2004 (n° 2003-1311
 du 30 décembre 2003) et, le cas échéant, de celles prévues au B de l'article 4
@@ -180,6 +181,11 @@ précitée ou au VII de l'article 5 de la loi n° 2009-594 du 27 mai 2009 préci
 ou au III du 5.3.2 de l'article 2 de la loi n° 2009-1673 de finances pour 2010
 précitée.
 
+Par dérogation, pour le calcul du coefficient d'intégration fiscale des
+communautés de communes ne faisant pas application des dispositions de l'article
+1609 nonies C du code général des impôts, les recettes définies aux a et b ne
+tiennent pas compte de la taxe sur les surfaces commerciales ;
+
 2° Pour déterminer le coefficient d'intégration fiscale moyen d'une catégorie
 d'établissement public de coopération intercommunale, sont prises en compte les
 sommes des recettes et le cas échéant des dépenses de transfert de l'ensemble
@@ -193,25 +199,26 @@ professionnelle les produits de compensation relais perçus en 2010 par les
 communes et établissements publics de coopération intercommunale en application
 du II de l'article 1640 B du code général des impôts.
 
-IV.-Les dépenses de transfert retenues pour déterminer le coefficient
-d'intégration fiscale des communautés de communes faisant application des
-dispositions de l'article 1609 nonies C du code général des impôts et des
-communautés d'agglomération sont l'attribution de compensation et la moitié de
-la dotation de solidarité communautaire, prévues respectivement aux V et VI du
-même article, telles que constatées dans le dernier compte administratif
+IV. - Les dépenses de transfert retenues pour déterminer le coefficient
+d'intégration fiscale des communautés d'agglomération, des métropoles ainsi que
+des communautés urbaines et des communautés de communes faisant application des
+dispositions de l'article 1609 nonies C du code général des impôts sont
+l'attribution de compensation et la moitié de la dotation de solidarité
+communautaire prévues, respectivement, aux V et VI du même article, telles que
+constatées dans le dernier compte administratif disponible. Pour les syndicats
+d'agglomération nouvelle, les dépenses de transfert à prendre en compte
+correspondent à la dotation de coopération prévue à l'article L. 5334-8 du
+présent code, telle que constatée dans le dernier compte administratif
 disponible.
 
-Elles sont prises en compte pour ces deux catégories de groupements, à hauteur
-de 75 % en 2005 et de 100 % à compter de 2006.
-
-V.-Le coefficient d'intégration fiscale des communautés de communes ayant opté
+V. - Le coefficient d'intégration fiscale des communautés de communes ayant opté
 pour l'application des dispositions de l'article 1609 nonies C du code général
 des impôts est pris en compte, pour le calcul des dotations de base et de
 péréquation, à hauteur de 10 % en 2000. Ce seuil augmente de 10 points par an
 pour atteindre 100 % en 2009.
 
-VI.-A compter du 1er janvier 2003, la dotation des communautés urbaines est
+VI. - A compter du 1er janvier 2003, la dotation des communautés urbaines est
 répartie selon les dispositions fixées aux deuxième et troisième alinéas du I.
 
-VII.-La population à prendre en compte pour l'application de la présente
+VII. - La population à prendre en compte pour l'application de la présente
 sous-section est celle résultant des conditions prévues à l'article L. 2334-2.

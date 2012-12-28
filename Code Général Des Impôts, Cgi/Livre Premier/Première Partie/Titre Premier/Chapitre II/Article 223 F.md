@@ -44,7 +44,7 @@ sociétés du groupe, lorsque cet apport bénéficie des dispositions de l'artic
 210 A.
 
 La quote-part de frais et charges prévue au deuxième alinéa du a quinquies du I
-de l'article 219 s'applique au résultat net des plus-values de cession compris
+de l'article 219 s'applique au montant brut des plus-values de cession compris
 dans la plus-value ou la moins-value nette à long terme d'ensemble en
 application du troisième alinéa.
 

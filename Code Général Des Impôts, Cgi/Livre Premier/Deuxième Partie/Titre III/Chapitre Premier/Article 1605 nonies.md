@@ -1,19 +1,20 @@
 Article 1605 nonies
 ----
-I. ― Il est perçu au profit de l'Agence de services et de paiement mentionnée au
-chapitre III du titre Ier du livre III du code rural et de la pêche maritime une
-taxe sur la cession à titre onéreux des terrains nus ou des droits relatifs à
-des terrains nus rendus constructibles du fait de leur classement,
-postérieurement au 13 janvier 2010, par un plan local d'urbanisme ou par un
-autre document d'urbanisme en tenant lieu, en zone urbaine ou à urbaniser
+I. ― Il est perçu une taxe sur la cession à titre onéreux des terrains nus ou
+des droits relatifs à des terrains nus rendus constructibles du fait de leur
+classement, postérieurement au 13 janvier 2010, par un plan local d'urbanisme ou
+par un autre document d'urbanisme en tenant lieu, en zone urbaine ou à urbaniser
 ouverte à l'urbanisation ou par une carte communale dans une zone où les
 constructions sont autorisées ou par application de l'article L. 111-1-2 du code
 de l'urbanisme.
 
-Le produit de cette taxe est affecté à un fonds pour l'installation des jeunes
-agriculteurs inscrit au budget de l'Agence de services et de paiement. Ce fonds
-finance des mesures en faveur des jeunes agriculteurs visant à faciliter l'accès
-au foncier et à développer des projets innovants.
+Le produit de cette taxe est affecté, dans la limite du plafond prévu au I de
+l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, à
+un fonds pour l'installation des jeunes agriculteurs inscrit au budget de
+l'Agence de services et de paiement mentionnée au chapitre III du titre Ier du
+livre III du code rural et de la pêche maritime. Ce fonds finance des mesures en
+faveur des jeunes agriculteurs visant à faciliter l'accès au foncier et à
+développer des projets innovants.
 
 Celles de ces mesures qui sont dans le champ de compétences de l'Etablissement
 national des produits de l'agriculture et de la mer mentionné à l'article L.

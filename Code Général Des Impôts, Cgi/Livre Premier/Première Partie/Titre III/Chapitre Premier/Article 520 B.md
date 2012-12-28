@@ -17,7 +17,7 @@ Sont exclus du périmètre de cette contribution les laits infantiles premier et
 deuxième âges, les laits de croissance et les produits de nutrition entérale
 pour les personnes malades.
 
-II. ― Le montant de la contribution est fixé à 7,16 € par hectolitre. Ce montant
+II. ― Le montant de la contribution est fixé à 7,31 € par hectolitre. Ce montant
 est relevé au 1er janvier de chaque année à compter du 1er janvier 2013, dans
 une proportion égale au taux de croissance de l'indice des prix à la
 consommation hors tabac de l'avant-dernière année. Ce montant est exprimé avec
@@ -62,6 +62,6 @@ des douanes. Elle est recouvrée et contrôlée selon les règles, sanctions,
 garanties et privilèges applicables au droit spécifique mentionné à l'article
 520 A. Le droit de reprise de l'administration s'exerce dans les mêmes délais.
 
-VI. ― Le produit de la contribution régie par le présent article est affecté
-pour moitié à la Caisse nationale de l'assurance maladie des travailleurs
-salariés.
+VI. ― Le produit de la contribution régie par le présent article est affecté à
+la branche mentionnée au 2° de l'article L. 722-8 du code rural et de la pêche
+maritime.

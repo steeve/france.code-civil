@@ -4,16 +4,17 @@ Lorsqu'une commune cesse d'être éligible à la dotation, elle perçoit, à tit
 garantie non renouvelable, une attribution égale à la moitié de celle qu'elle a
 perçue l'année précédente.
 
-Pour 2005, lorsqu'une commune cesse d'être éligible à la dotation, elle perçoit,
-à titre de garantie, une attribution égale à celle qu'elle a perçue en 2004. En
-2006, cette commune perçoit à titre de garantie une attribution égale à la
-moitié du montant perçu en 2004.
+Lorsqu'une commune cesse d'être éligible à la dotation à la suite d'une baisse
+de sa population en deçà du seuil minimal fixé au 2° de l'article L. 2334-16,
+elle perçoit, à titre de garantie pour les trois exercices suivants, une
+attribution égale à 90 %, 75 % puis 50 % du montant perçu l'année précédant
+celle au titre de laquelle elle a perdu l'éligibilité.
 
 En outre, lorsque, à compter de 2000, une commune, dont l'établissement public
 de coopération intercommunale dont elle est membre a opté deux ans auparavant
 pour l'application du régime fiscal prévu à l'article 1609 nonies C du code
 général des impôts, cesse d'être éligible à la dotation du fait de l'application
-du douzième alinéa de l'article L2334-4, elle perçoit, pendant cinq ans, une
+des 1 et 2 du II de l'article L2334-4, elle perçoit, pendant cinq ans, une
 attribution calculée en multipliant le montant de dotation perçu la dernière
 année où la commune était éligible par un coefficient égal à 90 % la première
 année et diminuant ensuite d'un dixième chaque année.

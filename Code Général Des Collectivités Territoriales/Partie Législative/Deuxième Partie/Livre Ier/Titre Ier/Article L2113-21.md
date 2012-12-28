@@ -8,8 +8,8 @@ coopération intercommunale auxquels la commune nouvelle se substitue.
 
 La première année de création de la commune nouvelle, le potentiel financier est
 composé de la somme du potentiel fiscal, de la dotation forfaitaire hors la part
-prévue au 3° de l'article L. 2334-7 des communes dont la commune nouvelle est
-issue et, le cas échéant, de la dotation de compensation et de la dotation
+prévue au 3° du I de l'article L. 2334-7 des communes dont la commune nouvelle
+est issue et, le cas échéant, de la dotation de compensation et de la dotation
 d'intercommunalité versées l'année précédente à ou aux établissements publics de
 coopération intercommunale auxquels la commune nouvelle se substitue. Ces
 éléments correspondent aux données de l'année précédant l'année où la commune

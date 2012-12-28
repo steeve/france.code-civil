@@ -32,8 +32,8 @@ croissant du rang de classement des communes éligibles.
 
 IV.-Une commune bénéficiaire d'un reversement du fonds de solidarité des
 communes de la région d'Ile-de-France conformément au II ne peut percevoir une
-attribution inférieure à 75 % de l'attribution perçue au titre de l'exercice
-précédent.
+attribution inférieure à 90 % de l'attribution perçue au titre de l'exercice
+2011.
 
 V.-Les communes qui cessent d'être éligibles au reversement des ressources du
 fonds de solidarité des communes de la région d'Ile-de-France perçoivent la

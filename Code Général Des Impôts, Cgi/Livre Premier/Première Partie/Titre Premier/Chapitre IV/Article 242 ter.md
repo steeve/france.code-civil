@@ -5,7 +5,7 @@ visés aux articles 108 à 125 ainsi que des produits des bons ou contrats de
 capitalisation et placements de même nature sont tenues de déclarer l'identité
 et l'adresse des bénéficiaires ainsi que, par nature de revenus, le détail du
 montant imposable et du crédit d'impôt, le revenu brut soumis à un prélèvement
-libératoire et le montant dudit prélèvement et le montant des revenus exonérés.
+et le montant dudit prélèvement et le montant des revenus exonérés.
 
 Cette déclaration ne concerne pas, sauf s'agissant des produits mentionnés au 1°
 si leur bénéficiaire a son domicile fiscal hors de France dans un Etat membre de

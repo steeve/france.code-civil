@@ -1,17 +1,24 @@
 Article 117 quater
 ----
 I.-1. Les personnes physiques fiscalement domiciliées en France au sens de
-l'article 4 B qui bénéficient de revenus éligibles à l'abattement prévu au 2° du
-3 de l'article 158 peuvent opter pour leur assujettissement à un prélèvement au
-taux de 21 %, qui libère les revenus auxquels il s'applique de l'impôt sur le
-revenu.
+l'article 4 B qui bénéficient de revenus distribués mentionnés aux articles 108
+à 117 bis et 120 à 123 bis sont assujetties à un prélèvement au taux de 21 %.
 
-Pour le calcul de ce prélèvement, les revenus mentionnés au premier alinéa sont
-retenus pour leur montant brut. L'impôt retenu à la source est imputé sur le
-prélèvement, dans la limite du crédit d'impôt auquel il ouvre droit et tel qu'il
-est prévu par les conventions fiscales internationales.
+Pour le calcul de ce prélèvement, les revenus mentionnés au premier alinéa du
+présent 1 sont retenus pour leur montant brut.
 
-2. L'option prévue au 1 ne s'applique pas :
+Toutefois, les personnes physiques appartenant à un foyer fiscal dont le revenu
+fiscal de référence de l'avant-dernière année, tel que défini au 1° du IV de
+l'article 1417, est inférieur à 50 000 € pour les contribuables célibataires,
+divorcés ou veufs et à 75 000 € pour les contribuables soumis à une imposition
+commune peuvent demander à être dispensées de ce prélèvement dans les conditions
+prévues à l'article 242 quater.
+
+Ce prélèvement s'impute sur l'impôt sur le revenu dû au titre de l'année au
+cours de laquelle il a été opéré. S'il excède l'impôt dû, l'excédent est
+restitué.
+
+2. Le prélèvement prévu au 1 ne s'applique pas :
 
 a) Aux revenus qui sont pris en compte pour la détermination du bénéfice
 imposable d'une entreprise industrielle, commerciale, artisanale ou agricole, ou
@@ -21,17 +28,18 @@ b) Aux revenus afférents à des titres détenus dans un plan d'épargne en acti
 défini à l'article 163 quinquies D.
 
 II. ― Lorsque la personne qui assure le paiement des revenus pour lesquels le
-contribuable opte pour le prélèvement prévu au I est établie en France, les
+contribuable est soumis au prélèvement prévu au I est établie en France, les
 revenus sont déclarés et le prélèvement correspondant est opéré et acquitté par
 ladite personne dans les délais prévus à l'article 1671 C.
 
-L'option pour le prélèvement est exercée par le contribuable au plus tard lors
-de l'encaissement des revenus ; elle est irrévocable pour cet encaissement.
-
-III. ― 1. Lorsque la personne qui assure le paiement des revenus pour lesquels
-le contribuable opte pour le prélèvement prévu au I est établie hors de France,
-les revenus sont déclarés et le prélèvement correspondant est acquitté dans les
-délais prévus à l'article 1671 C :
+III. ― 1. Lorsque la personne qui assure le paiement des revenus mentionnés au
+premier alinéa du 1 du I est établie hors de France, seules les personnes
+physiques appartenant à un foyer fiscal dont le revenu fiscal de référence de
+l'avant-dernière année, tel que défini au 1° du IV de l'article 1417, est égal
+ou supérieur aux montants mentionnés au troisième alinéa du 1 du I du présent
+article sont assujetties au prélèvement prévu au même I. Les revenus sont
+déclarés et le prélèvement correspondant est acquitté dans les délais prévus à
+l'article 1671 C :
 
 a) soit par le contribuable lui-même ;
 
@@ -40,10 +48,6 @@ b) soit par la personne qui assure le paiement des revenus, lorsqu'elle est
 à l'accord sur l'Espace économique européen ayant conclu avec la France une
 convention d'assistance administrative en vue de lutter contre la fraude et
 l'évasion fiscales, et qu'elle a été mandatée à cet effet par le contribuable.
-
-L'option pour le prélèvement s'exerce par le dépôt de la déclaration des revenus
-concernés et le paiement du prélèvement correspondant ; elle est irrévocable
-pour cette déclaration.
 
 2. Lorsque la déclaration prévue au 1 et le paiement du prélèvement
 correspondant sont effectués par la personne qui assure le paiement des revenus,
@@ -55,9 +59,7 @@ convention établie conformément au modèle délivré par l'administration, qui
 organise les modalités du paiement de ce prélèvement pour l'ensemble de ces
 contribuables.
 
-4. A défaut de réception de la déclaration et du paiement du prélèvement dans
-les conditions prévues au 1, les revenus sont imposables à l'impôt sur le revenu
-dans les conditions de droit commun.
+4. Abrogé.
 
 5. Le contribuable produit à l'administration fiscale, sur sa demande, les
 renseignements nécessaires à l'établissement du prélèvement.

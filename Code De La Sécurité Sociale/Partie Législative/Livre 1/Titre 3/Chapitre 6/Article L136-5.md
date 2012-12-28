@@ -1,9 +1,9 @@
 Article L136-5
 ----
-I. - La contribution portant sur les revenus mentionnés aux articles L. 136-1,
-L. 136-2, L. 136-3 sous réserve de son deuxième alinéa, et L. 136-4 ci-dessus
-est recouvrée par les organismes chargés du recouvrement des cotisations du
-régime général de sécurité sociale selon les règles et sous les garanties et
+I. - Sous réserve des dispositions particulières mentionnées au présent article,
+la contribution portant sur les revenus mentionnés aux articles L. 136-1 à L.
+136-4 est recouvrée par les organismes chargés du recouvrement des cotisations
+du régime général de sécurité sociale selon les règles et sous les garanties et
 sanctions applicables au recouvrement des cotisations au régime général pour la
 même catégorie de revenus. La contribution portant sur les revenus tirés de
 l'activité d'artiste-auteur et visés au premier alinéa du I de l'article L.
@@ -56,8 +56,9 @@ mentionnée à l'article L. 731-23 du code rural et de la pêche maritime.
 
 II bis. - La contribution due sur les revenus de source étrangère, sous réserve
 s'agissant des revenus d'activité qu'elle n'ait pas fait l'objet d'un précompte
-par l'employeur, est établie, recouvrée et contrôlée dans les conditions et
-selon les modalités prévues au III de l'article L. 136-6.
+par l'employeur, et la contribution portant sur les avantages mentionnés au 6°
+du II de l'article L. 136-2 sont établies, recouvrées et contrôlées dans les
+conditions et selon les modalités prévues au III de l'article L. 136-6.
 
 III. - La contribution due sur les pensions d'invalidité et sur les indemnités
 journalières ou allocations visées au 7° du II de l'article L. 136-2 est

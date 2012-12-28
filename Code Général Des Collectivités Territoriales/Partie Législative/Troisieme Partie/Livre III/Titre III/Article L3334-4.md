@@ -53,3 +53,10 @@ titre, la dotation de fonctionnement minimale étant majorée à due concurrence
 La dotation de fonctionnement minimale perçue par ce département ne peut être
 inférieure au montant de dotation de péréquation urbaine perçu l'année
 précédente.
+
+En 2013, le montant de la dotation de péréquation mentionnée au premier alinéa,
+avant accroissement éventuel par le comité des finances locales, est majoré de
+20 millions d'euros, financés, d'une part, à hauteur de 10 millions d'euros par
+la minoration mentionnée à l'article L. 3334-3 et, d'autre part, à la même
+hauteur par l'augmentation pour 2013 de la dotation globale de fonctionnement
+des départements prévue à l'article L. 3334-1.

@@ -6,7 +6,7 @@ au titre de 2003 en application du I du D de l'article 44 de la loi de finances
 pour 1999 (n° 98-1266 du 30 décembre 1998) et du 2° bis du II de l'article 1648
 B du code général des impôts dans sa rédaction antérieure à la loi de finances
 pour 2004 (n° 2003-1311 du 30 décembre 2003), indexés selon le taux mentionné
-par le 3° de l'article L. 2334-7.
+par le 3° du I de l'article L. 2334-7.
 
 A compter de 2012, les montants antérieurement perçus au titre du I du D de
 l'article 44 de la loi de finances pour 1999 précitée peuvent être diminués d'un
@@ -25,13 +25,13 @@ général des impôts, un prélèvement sur la fiscalité en application du 2 du
 de l'article 29 de la loi de finances pour 2003 (n° 2002-1575 du 30 décembre
 2002), la dotation de compensation versée à l'établissement est minorée du
 montant de ce prélèvement, actualisé chaque année selon le taux mentionné par le
-3° de l'article L. 2334-7. Lorsqu'une ou plusieurs de leurs communes membres
-subissait, l'année précédant la mise en œuvre des dispositions de l'article 1609
-nonies C du code général des impôts, en application du dernier alinéa de
-l'article L. 2334-7 du présent code, un prélèvement calculé selon les modalités
-prévues au 1.2.4.2 de l'article 77 de la loi n° 2009-1673 du 30 décembre 2009 de
-finances pour 2010, la dotation de compensation versée à l'établissement est
-minorée du montant de ce prélèvement.
+3° du I de l'article L. 2334-7. Lorsqu'une ou plusieurs de leurs communes
+membres subissait, l'année précédant la mise en œuvre des dispositions de
+l'article 1609 nonies C du code général des impôts, en application du dernier
+alinéa du II de l'article L. 2334-7 du présent code, un prélèvement calculé
+selon les modalités prévues au 1.2.4.2 de l'article 77 de la loi n° 2009-1673 du
+30 décembre 2009 de finances pour 2010, la dotation de compensation versée à
+l'établissement est minorée du montant de ce prélèvement.
 
 Lorsque, à compter de 2005, le territoire d'un groupement de communes faisant
 application des dispositions de l'article 1609 nonies C du code général des
@@ -49,6 +49,6 @@ professionnelle de France Télécom des communes qui se retirent.
 
 En cas de retrait de communes, la dotation de compensation du groupement est
 majorée, le cas échéant, en fonction de la part du prélèvement subi par celui-ci
-en application du dernier alinéa du L. 2334-7 du présent code et calculé selon
-les modalités prévues au 1.2.4.2 de l'article 77 de la loi n° 2009-1673 du 30
-décembre 2009 de finances pour 2010.
+en application du dernier alinéa du II du L. 2334-7 du présent code et calculé
+selon les modalités prévues au 1.2.4.2 de l'article 77 de la loi n° 2009-1673 du
+30 décembre 2009 de finances pour 2010.

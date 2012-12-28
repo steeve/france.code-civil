@@ -1,8 +1,7 @@
 Article 885 A
 ----
 Sont soumises à l'impôt annuel de solidarité sur la fortune, lorsque la valeur
-de leurs biens est supérieure à la limite de la première tranche du tarif fixé à
-l'article 885 U :
+de leurs biens est supérieure à 1 300 000 € :
 
 1° Les personnes physiques ayant leur domicile fiscal en France, à raison de
 leurs biens situés en France ou hors de France.

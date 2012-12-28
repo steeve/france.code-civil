@@ -10,7 +10,12 @@ d'imposition de chacune de ces taxes ;
 
 a) Du produit déterminé par l'application aux bases communales d'imposition de
 cotisation foncière des entreprises du taux moyen national d'imposition de cette
-taxe ;
+taxe ; Cette disposition ne s'applique pas aux communes appartenant à un
+groupement faisant application de l'article 1609 nonies C du code général des
+impôts. Pour les communes appartenant à un groupement faisant application de
+l'article 1609 quinquies C du même code, seules les bases communales situées en
+dehors de la zone d'activité économique sont prises en compte pour l'application
+de la présente disposition ;
 
 b) Et des produits communaux et intercommunaux perçus au titre de la cotisation
 sur la valeur ajoutée des entreprises, de la taxe additionnelle à la taxe
@@ -30,13 +35,19 @@ en application de l'article L. 2113-2, les montants retenus la première année
 correspondent à la somme des montants perçus ou supportés par les communes
 préexistantes l'année précédente ;
 
-4° La somme des produits perçus par la commune au titre du prélèvement sur le
-produit des jeux prévu aux articles L. 2333-54 à L. 2333-57 du présent code, de
-la surtaxe sur les eaux minérales prévue à l'article 1582 du code général des
-impôts et de la redevance des mines prévue à l'article 1519 du même code ;
+4° La somme des produits perçus par la commune au titre de la surtaxe sur les
+eaux minérales prévue à l'article 1582 du code général des impôts, de la
+redevance des mines prévue à l'article 1519 du même code, des prélèvements sur
+le produit brut des jeux dans les casinos prévus aux articles L. 2333-54 à L.
+2333-56 du présent code, ainsi que, pour les communes membres d'un établissement
+public de coopération intercommunale à fiscalité propre ou d'un syndicat mixte
+se substituant aux communes pour la perception de tout ou partie des produits
+des prélèvements sur le produit brut des jeux dans les casinos, une fraction de
+ces produits calculée au prorata de la population au 1er janvier de l'année de
+répartition ;
 
 5° Le montant perçu l'année précédente au titre de la part de la dotation
-forfaitaire définie au 3° de l'article L. 2334-7 du présent code, hors le
+forfaitaire définie au 3° du I de l'article L. 2334-7 du présent code, hors le
 montant correspondant à la compensation prévue au 2° bis du II de l'article 1648
 B du code général des impôts dans sa rédaction antérieure à la loi de finances
 pour 2004 (n° 2003-1311 du 30 décembre 2003).
@@ -106,31 +117,14 @@ fait pour la première année application, par le groupement dont elles sont
 membres, de l'article 1609 nonies C et du II de l'article 1609 quinquies C du
 code général des impôts.
 
-III.-Lorsque l'institution du régime fiscal prévu à l'article 1609 nonies C du
-même code entraîne pour des communes membres de l'établissement public de
-coopération intercommunale faisant application de ce régime la cessation de
-l'application de l'article 11 de la loi n° 80-10 du 10 janvier 1980 portant
-aménagement de la fiscalité directe locale, les bases ou les produits retenus
-pour déterminer leur potentiel fiscal tiennent compte de la correction de
-potentiel fiscal appliquée la dernière année précédant l'institution de ce
-régime. En 2012, les produits retenus sont ceux utilisés pour le calcul du
-potentiel fiscal en 2011.
-
-Lorsque l'institution du régime fiscal prévu à l'article 1609 quinquies C du
-même code entraîne, pour des communes membres de l'établissement public de
-coopération intercommunale faisant application de ce régime, la cessation de
-l'application de l'article 11 de la loi n° 80-10 du 10 janvier 1980 précitée,
-les bases ou les produits retenus pour déterminer leur potentiel fiscal tiennent
-compte de la correction de potentiel fiscal appliquée la dernière année
-précédant l'institution de ce régime. En 2012, les produits retenus sont ceux
-utilisés pour le calcul du potentiel fiscal en 2011.
+III.- (Abrogé).
 
 IV.-Le potentiel financier d'une commune est égal à son potentiel fiscal majoré
 du montant perçu par la commune l'année précédente au titre de la dotation
 forfaitaire définie à l'article L. 2334-7 du présent code hors la part
-mentionnée au 3° du même article. Il est minoré, le cas échéant, des
+mentionnée au 3° du I du même article. Il est minoré, le cas échéant, des
 prélèvements sur le produit des impôts directs locaux mentionnés au dernier
-alinéa du même article L. 2334-7 et au III de l'article L. 2334-7-2 subis
+alinéa du II du même article L. 2334-7 et au III de l'article L. 2334-7-2 subis
 l'année précédente. Pour la commune de Paris, il est minoré du montant de sa
 participation obligatoire aux dépenses d'aide et de santé du département
 constaté dans le dernier compte administratif dans la limite du montant constaté

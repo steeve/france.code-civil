@@ -83,3 +83,9 @@ déclaration, de 150 € par omission ou inexactitude déclarative.
 2. En cas de manquement à son obligation de mise à disposition de
 l'administration des informations mentionnées au X du même article 235 ter ZD,
 le dépositaire central acquitte une amende de 20 000 €.
+
+VIII. - Le défaut de production, sur demande de l'administration, de
+l'attestation mentionnée à l'article 242 quater par les personnes qui assurent
+le paiement des revenus mentionnés au premier alinéa du 1 du I de l'article 117
+quater et au premier alinéa du I de l'article 125 A entraîne l'application d'une
+amende de 150 €.

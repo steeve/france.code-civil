@@ -6,6 +6,100 @@ et taxes acquittés par le cédant, et leur prix effectif d'acquisition par
 celui-ci ou, en cas d'acquisition à titre gratuit, leur valeur retenue pour la
 détermination des droits de mutation.
 
+Les gains nets des cessions à titre onéreux d'actions, de parts de sociétés, de
+droits portant sur ces parts ou actions ou de titres représentatifs de ces mêmes
+parts, actions ou droits, les compléments de prix mentionnés au 2 du I de
+l'article 150-0 A, ainsi que les distributions d'une fraction des actifs d'un
+fonds commun de placement à risques mentionnées au 7 et à l'avant-dernier alinéa
+du 8 du II du même article, les distributions de plus-values mentionnées au
+dernier alinéa du même 8, à l'article 150-0 F et au 1 du II de l'article 163
+quinquies C, pour lesquels le contribuable n'a pas opté pour l'imposition au
+taux forfaitaire de 19 % prévue au 2 bis de l'article 200 A, sont réduits d'un
+abattement égal à :
+
+a) 20 % de leur montant lorsque les actions, parts, droits ou titres sont
+détenus depuis au moins deux ans et moins de quatre ans à la date de la cession
+;
+
+b) 30 % de leur montant lorsque les actions, parts, droits ou titres sont
+détenus depuis au moins quatre ans et moins de six ans à la date de la cession ;
+
+c) 40 % de leur montant lorsque les actions, parts, droits ou titres sont
+détenus depuis au moins six ans.
+
+L'abattement précité ne s'applique pas à l'avantage mentionné à l'article 80 bis
+constaté à l'occasion de la levée d'options attribuées avant le 20 juin 2007.
+
+Pour l'application de cet abattement, la durée de détention est décomptée à
+partir de la date de souscription ou d'acquisition des actions, parts, droits ou
+titres, et :
+
+1° En cas de cession d'actions, parts, droits ou titres effectuée par une
+personne interposée, à partir de la date de souscription ou d'acquisition des
+actions, parts, droits ou titres par la personne interposée ;
+
+2° En cas de vente ultérieure d'actions, parts, droits ou titres reçus à
+l'occasion d'opérations mentionnées à l'article 150-0 B ou au II de l'article
+150 UB, à partir de la date de souscription ou d'acquisition des actions, parts,
+droits ou titres remis à l'échange ;
+
+3° En cas de cession d'actions, parts, droits ou titres après la clôture d'un
+plan d'épargne en actions défini à l'article 163 quinquies D ou leur retrait
+au-delà de la huitième année, à partir de la date à laquelle le cédant a cessé
+de bénéficier, pour ces actions, parts, droits ou titres, des avantages prévus
+aux 5° bis et 5° ter de l'article 157 ;
+
+4° En cas de cession à titre onéreux d'actions, parts, droits ou titres reçus en
+rémunération d'un apport réalisé sous le régime prévu au I ter de l'article 93
+quater, au a du I de l'article 151 octies ou aux I et II de l'article 151 octies
+A, à partir de la date à laquelle l'apporteur a commencé son activité
+commerciale, industrielle, artisanale, libérale ou agricole ;
+
+5° En cas de cession d'actions, parts, droits ou titres effectuée par une
+fiducie :
+
+a) Lorsque les actions, parts, droits ou titres ont été acquis ou souscrits par
+la fiducie, à partir de la date d'acquisition ou de souscription de ces actions,
+parts, droits ou titres par la fiducie ;
+
+b) Lorsque les actions, parts, droits ou titres ont été transférés dans le
+patrimoine fiduciaire dans les conditions prévues à l'article 238 quater N, à
+partir de la date d'acquisition ou de souscription des actions, parts, droits ou
+titres par le constituant ;
+
+6° En cas de cession d'actions, parts, droits ou titres reçus dans les
+conditions prévues à l'article 238 quater Q :
+
+a) Lorsque le cédant est le constituant initial de la fiducie :
+
+- lorsque les actions, parts, droits ou titres ont été transférés par le
+constituant dans le patrimoine fiduciaire dans les conditions prévues à
+l'article 238 quater N, à partir de la date d'acquisition ou de souscription des
+actions, parts, droits ou titres par le constituant ;
+
+- lorsque les actions, parts, droits ou titres n'ont pas été transférés dans le
+patrimoine fiduciaire dans les conditions prévues au même article 238 quater N,
+à partir de la date d'acquisition ou de souscription des actions, parts, droits
+ou titres par la fiducie ;
+
+b) Lorsque le cédant n'est pas le constituant initial de la fiducie, à partir de
+la date d'acquisition de droits représentatifs des biens ou droits du patrimoine
+fiduciaire si les actions, parts, droits ou titres cédés figuraient dans le
+patrimoine fiduciaire lors de l'acquisition de ces droits, à partir de la date
+d'acquisition ou de souscription des actions, parts, droits ou titres par la
+fiducie dans les autres situations.
+
+Le III de l'article 150-0 D ter est applicable dans les mêmes conditions à
+l'abattement prévu au présent 1.
+
+Pour les distributions d'une fraction des actifs d'un fonds commun de placement
+à risques mentionnées au 7 et à l'avant-dernier alinéa du 8 du II de l'article
+150-0 A et pour les distributions de plus-values mentionnées au dernier alinéa
+du même 8, à l'article 150-0 F et au 1 du II de l'article 163 quinquies C, la
+durée de détention est décomptée à partir de la date d'acquisition ou de
+souscription des titres du fonds, de l'entité ou de la société de capital-risque
+concerné.
+
 1 bis (Supprimé)
 
 2. Le prix d'acquisition des titres ou droits à retenir par le cessionnaire pour

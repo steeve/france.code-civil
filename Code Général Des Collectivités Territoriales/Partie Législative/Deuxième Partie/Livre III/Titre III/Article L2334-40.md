@@ -19,10 +19,17 @@ celui-ci peut bénéficier, sur décision du représentant de l'Etat dans le
 département, de la dotation de développement urbain pour le compte de cette
 commune.
 
-Après constitution de la quote-part définie à l'article L. 2334-41, les crédits
-de la dotation de développement urbain sont répartis entre les départements en
-tenant compte du nombre de communes éligibles dans chaque département et de leur
-classement selon les critères prévus au deuxième alinéa.
+Les crédits de la dotation de développement urbain sont répartis entre les
+départements :
+
+1° Pour deux tiers, en tenant compte de la quote-part définie à l'article L.
+2334-41 et du nombre de communes éligibles dans chaque département ainsi que de
+leur classement selon les critères prévus au deuxième alinéa du présent article
+;
+
+2° Pour un tiers, en tenant compte du nombre de communes éligibles dans chaque
+département comprises dans la première moitié du classement et de leur
+classement selon les critères prévus au même deuxième alinéa.
 
 Pour l'utilisation de ces crédits, le représentant de l'Etat dans le département
 conclut une convention avec la commune ou l'établissement public de coopération

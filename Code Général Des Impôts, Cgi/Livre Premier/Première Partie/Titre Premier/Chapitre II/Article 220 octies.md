@@ -1,7 +1,7 @@
 Article 220 octies
 ----
 I.-Les entreprises de production phonographique au sens de l'article L. 213-1 du
-code de la propriété intellectuelle , soumises à l'impôt sur les sociétés et
+code de la propriété intellectuelle, soumises à l'impôt sur les sociétés et
 existant depuis au moins trois années, peuvent bénéficier d'un crédit d'impôt au
 titre des dépenses de production, de développement et de numérisation d'un
 enregistrement phonographique ou vidéographique musical (vidéomusique ou disque
@@ -30,14 +30,14 @@ S'agissant des albums d'expression, le bénéfice du crédit d'impôt est réser
 aux albums de nouveaux talents dont la moitié au moins sont d'expression
 française ou dans une langue régionale en usage en France et aux albums de
 nouveaux talents, composés d'une ou de plusieurs œuvres libres de droit d'auteur
-au sens des articles L. 123-1 à L. 123-12 du code de la propriété intellectuelle
-. S'agissant des albums de nouveaux talents, le bénéfice du crédit d'impôt
-s'apprécie au niveau de l'entreprise redevable de l'impôt sur les sociétés pour
-l'ensemble des albums qu'elle produit chaque année.
+au sens des articles L. 123-1 à L. 123-12 du code de la propriété
+intellectuelle. S'agissant des albums de nouveaux talents, le bénéfice du crédit
+d'impôt s'apprécie au niveau de l'entreprise redevable de l'impôt sur les
+sociétés pour l'ensemble des albums qu'elle produit chaque année.
 
 III.-Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 20 % du
 montant total des dépenses suivantes engagées entre le 1er juillet 2007 et le 31
-décembre 2012, pour des opérations mentionnées au II effectuées en France, dans
+décembre 2015, pour des opérations mentionnées au II effectuées en France, dans
 un autre Etat membre de l'Union européenne ou dans un autre Etat partie à
 l'accord sur l'Espace économique européen ayant conclu avec la France une
 convention d'assistance administrative en vue de lutter contre la fraude et
@@ -106,14 +106,20 @@ Le montant des dépenses définies aux 1° et 2°, lorsqu'elles sont confiées �
 entreprises mentionnées au a du II, est plafonné à 2 300 000 € par entreprise et
 par exercice.
 
-Pour les entreprises qui ne répondent pas à la définition européenne de la
-petite et moyenne entreprise au sens de la recommandation 2003/361/ CE de la
-Commission du 6 mai 2003 concernant la définition des micro, petites et moyennes
-entreprises, les dépenses définies aux 1° et 2° entrent dans la base de calcul
-du crédit d'impôt pour les seules productions qui excèdent la moyenne, après
-application d'une décote de 70 %, des productions définies au b du II réalisées
-au titre des deux derniers exercices. En cas de décimale, l'unité supérieure est
-retenue.
+Pour les entreprises qui ne répondent pas à la définition des micro, petites et
+moyennes entreprises au sens du règlement (CE) n° 800/2008 de la Commission du 6
+août 2008 déclarant certaines catégories d'aide compatibles avec le marché
+commun en application des articles 87 et 88 du traité (Règlement général
+d'exemption par catégorie) (1), les dépenses définies aux 1° et 2° entrent dans
+la base de calcul du crédit d'impôt pour les seules productions qui excèdent la
+moyenne, après application d'une décote de 70 %, des productions définies au b
+du II réalisées au titre des deux derniers exercices. En cas de décimale,
+l'unité supérieure est retenue.
+
+III bis.-Le taux mentionné au premier alinéa du III est porté à 30 % pour les
+entreprises qui satisfont à la définition des micro, petites et moyennes
+entreprises donnée à l'annexe I au règlement (CE) n° 800/2008 de la Commission
+du 6 août 2008 précité (1).
 
 IV.-Les dépenses ouvrent droit au crédit d'impôt à compter de la délivrance, par
 le ministre chargé de la culture, d'un agrément à titre provisoire attestant que
@@ -137,11 +143,7 @@ V.-Les subventions publiques reçues par les entreprises à raison des dépenses
 ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit.
 
 VI.-1° La somme des crédits d'impôt calculés au titre des dépenses éligibles ne
-peut excéder 700 000 € par entreprise et par exercice. Ce montant est porté à 1
-100 000 € lorsque le nombre de productions de nouveaux talents constaté à la
-clôture de l'exercice au titre duquel le crédit d'impôt est calculé a augmenté
-de 25 % au moins par rapport au nombre de productions de nouveaux talents tels
-que définis au b du II au titre de l'exercice précédent.
+peut excéder 800 000 € par entreprise et par exercice (1).
 
 2° En cas de coproduction, le crédit d'impôt est accordé à chacune des
 entreprises, proportionnellement à sa part dans les dépenses exposées.

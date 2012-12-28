@@ -56,12 +56,13 @@ l'allocation aux adultes handicapés sont réputés inaptes au travail à l'âge
 minimum auquel s'ouvre le droit à pension de vieillesse.
 
 Lorsqu'une personne bénéficiaire de l'allocation aux adultes handicapés fait
-valoir son droit à un avantage de vieillesse ou d'invalidité, l'allocation aux
-adultes handicapés continue de lui être servie jusqu'à ce qu'elle perçoive
-effectivement l'avantage auquel elle a droit. Pour la récupération des sommes
-trop perçues à ce titre, les organismes visés à l'article L. 821-7 sont subrogés
-dans les droits des bénéficiaires vis-à-vis des organismes payeurs des avantages
-de vieillesse ou d'invalidité.
+valoir son droit à un avantage de vieillesse, d'invalidité ou à une rente
+d'accident du travail, l'allocation aux adultes handicapés continue de lui être
+servie jusqu'à ce qu'elle perçoive effectivement l'avantage auquel elle a droit.
+Pour la récupération des sommes trop perçues à ce titre, les organismes visés à
+l'article L. 821-7 sont subrogés dans les droits des bénéficiaires vis-à-vis des
+organismes payeurs des avantages de vieillesse, d'invalidité ou de rentes
+d'accident du travail.
 
 Lorsque l'allocation aux adultes handicapés est versée en complément de la
 rémunération garantie visée à l'article L. 243-4 du code de l'action sociale et

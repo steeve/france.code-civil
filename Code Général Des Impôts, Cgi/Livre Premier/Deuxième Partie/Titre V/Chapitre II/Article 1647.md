@@ -19,7 +19,7 @@ articles L. 154-1 et L. 154-2 du code de la sécurité sociale. Le taux de ce
 prélèvement et les modalités de remboursement sont fixés par arrêté du ministre
 de l'économie et des finances.
 
-III bis. - Pour frais d'assiette et de recouvrement, l'Etat effectue un
+III bis.-Pour frais d'assiette et de recouvrement, l'Etat effectue un
 prélèvement de 0,5 % sur le montant des taxes mentionnées aux articles 1600-0 N,
 1600-0 O, 1600-0 P et 1600-0 R et sur celui des droits mentionnés à l'article
 1635 bis AE.
@@ -40,7 +40,7 @@ c. 2 % sur le montant de la contribution au développement de l'apprentissage
 mentionnée à l'article 1599 quinquies A.
 
 VI. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
-1 p. 100 sur le montant de la taxe mentionnée à l'article 302 bis ZB.
+1 % sur le montant de la taxe mentionnée à l'article 302 bis ZB.
 
 VII. (Abrogé)
 
@@ -74,3 +74,14 @@ XVI.-Pour frais de recouvrement, l'Etat prélève 1 % des sommes recouvrées au
 titre de la contribution de supervision pour le compte de la Banque de France
 dans les conditions prévues par le VIII de l'article L. 612-20 du code monétaire
 et financier.
+
+XVII.-Pour frais d'assiette et de recouvrement, l'Etat prélève 0,5 % des sommes
+recouvrées au titre de la majoration au profit du fonds de solidarité pour le
+développement de la taxe de l'aviation civile prévue au VI de l'article 302 bis
+K, ainsi que sur le montant de la taxe d'aéroport et de sa majoration
+mentionnées à l'article 1609 quatervicies et sur le montant de la taxe sur les
+nuisances sonores aériennes mentionnée à l'article 1609 quatervicies A.
+
+Les sommes prélevées en application du premier alinéa du présent XVII par les
+agents comptables du budget annexe " Contrôle et exploitation aériens "
+mentionnés au V de l'article 302 bis K sont affectées au budget annexe précité.

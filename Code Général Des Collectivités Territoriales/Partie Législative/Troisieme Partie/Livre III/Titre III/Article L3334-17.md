@@ -23,3 +23,8 @@ Au titre de 2012, les mêmes compensations, auxquelles sont appliqués les taux
 d'évolution fixés au titre de 2009,2010 et 2011, sont minorées par application
 du taux prévu pour 2012 au III de l'article 33 de la loi n° 2011-1977 du 28
 décembre 2011 de finances pour 2012.
+
+Au titre de 2013, les mêmes compensations, auxquelles sont appliqués les taux
+d'évolution fixés au titre de 2009,2010,2011 et 2012, sont minorées par
+application du taux prévu pour 2013 au IV de l'article 31 de la loi n° 2012-1509
+du 29 décembre 2012 de finances pour 2013.
