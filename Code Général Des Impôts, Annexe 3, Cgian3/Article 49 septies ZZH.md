@@ -42,16 +42,12 @@ TRANCHES
 
 3 à 5
 
-6
-
 
 Prime p
 
 75 points de base
 
 55 points de base
-
-35 points de base
 
 Dans ce qui précède, la durée de la première période de remboursement du prêt
 est arrondie au multiple inférieur de six mois.

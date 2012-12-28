@@ -15,19 +15,17 @@ Zone B2
 
 Zone C
 
-38 %
-
 33 %
 
-29 %
+26 %
 
-24 %
+21 %
+
+18 %
 
 Toutefois, pour un logement situé sur le territoire métropolitain, lorsqu'il ne
-bénéficie pas du label " bâtiment basse consommation énergétique, BBC 2005 ",
-défini au 5° de l'article 2 de l'arrêté du 3 mai 2007 relatif au contenu et aux
-conditions d'attribution du label " haute performance énergétique ", la quotité
-est fixée dans le tableau ci-après :
+respecte pas la condition de performance énergétique mentionnée à l'article L.
+31-10-2 la quotité est fixée dans le tableau ci-après :
 
 
 ZONE A
@@ -48,7 +46,3 @@ Zone C
 14 %
 
 2° Est égale, pour un logement ancien, à 10 %.
-
-L'emprunteur justifie de la performance énergétique du logement dans des
-conditions fixées par arrêté des ministres chargés du logement, de l'économie et
-du budget.
