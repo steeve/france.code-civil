@@ -28,7 +28,7 @@ conditions fixées par ce même article ;
 2° Le remboursement par la Caisse nationale des allocations familiales des
 indemnités versées en application des articles L. 331-8 et L. 722-8-3 ;
 
-3° Une fraction égale à 7,10 % du produit de la taxe sur la valeur ajoutée brute
+3° Une fraction égale à 7,85 % du produit de la taxe sur la valeur ajoutée brute
 budgétaire, déduction faite des remboursements et restitutions effectués pour
 l'année en cours par les comptables assignataires ;
 
