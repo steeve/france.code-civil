@@ -11,7 +11,7 @@ réalisées en Corse. Pour les différents groupes de produits, le taux normal e
 le taux spécifique applicables dans les départements de Corse sont fixés
 conformément au tableau ci-après :
 
-(En pourcentage) 
+(En pourcentage)
 
 
 GROUPE DE PRODUITS
@@ -23,42 +23,42 @@ TAUX SPÉCIFIQUE
 
 Cigarettes
 
-45
+50
 
 10
 
 
 Cigares et cigarillos
 
-10
+15
 
 5
 
 
 Tabacs fine coupe destinés à rouler les cigarettes
 
-27
+30
 
 15
 
 
 Autres tabacs à fumer
 
-22
+25
 
 0
 
 
 Tabacs à priser
 
-15
+20
 
 0
 
 
 Tabacs à mâcher
 
-13
+15
 
 0
 
@@ -83,7 +83,7 @@ régime suspensif de l'accise. Dans ces cas, le droit est dû par la personne qu
 importe les produits ou qui sort les biens du régime suspensif.
 
 IV.-Le droit de consommation est recouvré dans les conditions prévues par les
-deuxième à cinquième alinéas de l'article 575 C.A l'exclusion des tabacs
+deuxième à cinquième alinéas de l'article 575 C. A l'exclusion des tabacs
 directement importés dans les départements de Corse qui demeurent soumis aux
 dispositions de l'article 575 M, les infractions aux dispositions du présent
 article sont recherchées, constatées, poursuivies et réprimées comme en matière
