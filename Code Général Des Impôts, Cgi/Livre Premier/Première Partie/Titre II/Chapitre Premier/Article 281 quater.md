@@ -8,7 +8,7 @@ des spectacles de cirque comportant exclusivement des créations originales
 conçues et produites par l'entreprise et faisant appel aux services réguliers
 d'un groupe de musiciens.
 
-Un décret définit la nature des oeuvres et fixe le nombre de représentations
+Un décret définit la nature des œuvres et fixe le nombre de représentations
 auxquelles ces dispositions sont applicables.
 
 Ces dispositions ne s'appliquent pas aux recettes provenant :
