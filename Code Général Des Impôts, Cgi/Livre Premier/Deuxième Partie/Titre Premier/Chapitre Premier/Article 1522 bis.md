@@ -28,9 +28,9 @@ des ordures ménagères. La part incitative s'ajoute à une part fixe détermin�
 selon les modalités prévues aux articles 1521, 1522 et 1636 B undecies. II. ―
 Les communes et les établissements publics de coopération intercommunale au
 profit desquels est perçue une part incitative de la taxe font connaître aux
-services fiscaux, avant le 15 avril de l'année d'imposition, le montant en
-valeur absolue de cette part incitative par local au cours de l'année
-précédente.
+services fiscaux, selon des modalités fixées par décret, avant le 15 avril de
+l'année d'imposition, le montant en valeur absolue de cette part incitative par
+local au cours de l'année précédente.
 
 En l'absence de transmission des éléments mentionnés au premier alinéa du
 présent II avant le 15 avril les éléments ayant servi à l'établissement de la

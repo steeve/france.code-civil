@@ -8,10 +8,13 @@ travers notamment des efforts en matière d'investissement, de recherche,
 d'innovation, de formation, de recrutement, de prospection de nouveaux marchés,
 de transition écologique et énergétique et de reconstitution de leur fonds de
 roulement. L'entreprise retrace dans ses comptes annuels l'utilisation du crédit
-d'impôt conformément aux objectifs mentionnés à la première phrase. Le crédit
-d'impôt ne peut ni financer une hausse de la part des bénéfices distribués, ni
-augmenter les rémunérations des personnes exerçant des fonctions de direction
-dans l'entreprise. Les organismes mentionnés à l'article 207 peuvent également
+d'impôt conformément aux objectifs mentionnés à la première phrase. Les
+informations relatives à l'utilisation du crédit d'impôt pour la compétitivité
+et l'emploi doivent figurer, sous la forme d'une description littéraire, en
+annexe du bilan ou dans une note jointe aux comptes. Le crédit d'impôt ne peut
+ni financer une hausse de la part des bénéfices distribués, ni augmenter les
+rémunérations des personnes exerçant des fonctions de direction dans
+l'entreprise. Les organismes mentionnés à l'article 207 peuvent également
 bénéficier du crédit d'impôt mentionné au présent alinéa au titre des
 rémunérations qu'ils versent à leurs salariés affectés à leurs activités non
 exonérées d'impôt sur les bénéfices. Ces organismes peuvent également en
@@ -38,6 +41,15 @@ le revenu ou à l'impôt sur les sociétés dans les conditions de droit commun 
 avoir été régulièrement déclarées aux organismes de sécurité sociale.
 
 III.-Le taux du crédit d'impôt est fixé à 6 %.
+
+Par dérogation au premier alinéa du présent III, lorsque l'assiette du crédit
+d'impôt est constituée par des rémunérations versées à des salariés affectés à
+des exploitations situées dans les départements d'outre-mer, son taux est fixé à
+:
+
+1° 7,5 % pour les rémunérations versées en 2015 ;
+
+2° 9 % pour les rémunérations versées à compter du 1er janvier 2016.
 
 IV.-Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux
 articles 8,238 bis L, 239 ter et 239 quater A ou les groupements mentionnés aux
