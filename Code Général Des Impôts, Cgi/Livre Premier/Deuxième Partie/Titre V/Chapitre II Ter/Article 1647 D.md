@@ -7,9 +7,14 @@ conseil municipal selon le barème suivant :
 
 (En euros)
 
-MONTANT DU CHIFFRE D'AFFAIRES ou des recettes
+MONTANT DU CHIFFRE D'AFFAIRES
 
-MONTANT DE LA BASE minimum
+ou des recettes
+
+
+MONTANT DE LA BASE
+
+minimum
 
 
 Inférieur ou égal à 10 000
@@ -49,15 +54,15 @@ ramené ou porté, selon le cas, à douze mois.
 
 Lorsqu'un établissement public de coopération intercommunale, soumis à l'article
 1609 nonies C, a été constitué, il fixe, en lieu et place des communes membres,
-le montant de la base minimum dans les limites fixées au tableau du deuxième
-alinéa.
+le montant de la base minimum dans les limites fixées au tableau annexé au
+premier alinéa.
 
 Lorsqu'un établissement public de coopération intercommunale fait application du
 I de l'article 1609 quinquies C, il fixe, en lieu et place des communes membres,
 le montant de la base minimum applicable dans la zone d'activités économiques
-concernée, dans les limites fixées au tableau du deuxième alinéa.
+concernée, dans les limites fixées au tableau annexé au premier alinéa.
 
-Les limites de base minimum mentionnées au tableau du deuxième alinéa, les
+Les limites de base minimum mentionnées au tableau annexé au premier alinéa, les
 montants résultant de délibérations et ceux mentionnés au 1 bis, aux a et b du 2
 et au 2 bis sont, à compter de l'année suivant celle au titre de laquelle ils
 s'appliquent pour la première fois, revalorisés chaque année comme le taux
@@ -75,8 +80,8 @@ qui a été fixé par une délibération prise entre le 22 janvier et le 1er oct
 2013 pour une application à compter de l'année 2014.
 
 2. A défaut de délibération pour l'une des tranches de chiffre d'affaires ou de
-recettes mentionnées dans le tableau du deuxième alinéa du 1, le montant de la
-base minimum qui est applicable est égal :
+recettes mentionnées dans le tableau annexé au premier alinéa du 1, le montant
+de la base minimum qui est applicable est égal :
 
 a) Pour les communes existant au 31 décembre 2012 et les établissements publics
 de coopération intercommunale soumis à l'article 1609 nonies C ou au I de
@@ -101,10 +106,10 @@ cotisation minimum au titre de la même année.
 
 2 bis. Lorsque le montant de la base minimum s'appliquant aux redevables dont le
 chiffre d'affaires ou les recettes sont compris dans l'une des trois premières
-tranches de chiffre d'affaires ou de recettes mentionnées dans le tableau du
-deuxième alinéa du 1 est déterminé dans les conditions définies aux 1 bis, 2 ou
-3 et excède la limite supérieure de la base minimum applicable à la tranche dont
-ils relèvent, il est ramené à cette limite.
+tranches de chiffre d'affaires ou de recettes mentionnées dans le tableau annexé
+au premier alinéa du 1 est déterminé dans les conditions définies aux 1 bis, 2
+ou 3 et excède la limite supérieure de la base minimum applicable à la tranche
+dont ils relèvent, il est ramené à cette limite.
 
 3. Lorsque, à la suite d'une création, d'un changement de régime fiscal ou d'une
 fusion, un établissement public de coopération intercommunale fait application
@@ -118,13 +123,13 @@ L'année suivant celle où cette opération produit pour la première fois ses
 effets au plan fiscal, les établissements publics de coopération intercommunale
 qui, par une délibération prise dans les conditions prévues au I de l'article
 1639 A bis et au 1 du présent I, fixent, pour chacune des tranches de chiffre
-d'affaires ou de recettes mentionnées dans le tableau du deuxième alinéa du 1 ou
-pour l'une d'entre elles seulement, le montant de la base minimum peuvent, par
-une délibération prise dans les mêmes conditions, décider d'appliquer, pour la
-tranche de chiffre d'affaires ou de recettes concernée, des bases minimum
-différentes selon le territoire des communes ou des établissements publics de
-coopération intercommunale préexistants, pendant une période maximale de dix
-ans.
+d'affaires ou de recettes mentionnées dans le tableau annexé au premier alinéa
+du 1 ou pour l'une d'entre elles seulement, le montant de la base minimum
+peuvent, par une délibération prise dans les mêmes conditions, décider
+d'appliquer, pour la tranche de chiffre d'affaires ou de recettes concernée, des
+bases minimum différentes selon le territoire des communes ou des établissements
+publics de coopération intercommunale préexistants, pendant une période maximale
+de dix ans.
 
 Les écarts entre, d'une part, les bases minimum appliquées sur le territoire de
 l'établissement public de coopération intercommunale l'année au cours de
@@ -137,7 +142,7 @@ pas applicable lorsque le rapport entre la base minimum la plus faible
 applicable sur le territoire de l'établissement public de coopération
 intercommunale et celle qu'il a fixée est supérieur à 80 %. Ce rapport
 s'apprécie séparément pour chacune des tranches de chiffre d'affaires ou de
-recettes mentionnées dans le tableau du deuxième alinéa du 1.
+recettes mentionnées dans le tableau annexé au premier alinéa du 1.
 
 4. Le dispositif de convergence prévu au 3 s'applique également : a) En cas de
 création d'une commune nouvelle ; b) En cas de rattachement d'une commune à un
