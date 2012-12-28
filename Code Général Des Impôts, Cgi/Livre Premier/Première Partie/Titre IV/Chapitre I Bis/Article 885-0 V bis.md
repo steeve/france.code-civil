@@ -81,7 +81,8 @@ c) La société ne compte pas plus de cinquante associés ou actionnaires ;
 La condition prévue au premier alinéa du présent c ne s'applique pas si la
 société détient exclusivement des participations dans une société exerçant une
 des activités mentionnées au b du 1 dont le capital est détenu pour 10 % au
-moins par une ou plusieurs sociétés coopératives ou par l'une de leurs unions ;
+moins par une ou plusieurs sociétés coopératives ou par l'une de leurs unions
+(1) ;
 
 d) La société a exclusivement pour mandataires sociaux des personnes physiques ;
 
@@ -144,14 +145,13 @@ alinéa du 3 du I et à l'indivision mentionnée au 2 du I.
 En cas de remboursement des apports aux souscripteurs avant le 31 décembre de la
 dixième année suivant celle de la souscription, le bénéfice de l'avantage fiscal
 prévu au I est remis en cause, sauf si le remboursement fait suite à la
-liquidation judiciaire de la société à l'exception des parts investies dans des
+liquidation judiciaire de la société, à l'exception des parts investies dans des
 entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail
 et agréées en vertu du même article avant le 31 décembre 2012, ainsi que dans
-des établissements de crédit ou des sociétés de financement dont 80 % de
-l'ensemble des prêts et des investissements sont effectués en faveur
-d'entreprises solidaires mentionnées audit article, pour lesquelles le
-remboursement doit intervenir après le 31 décembre de la cinquième année suivant
-celle de la souscription.
+des établissements de crédit dont 80 % de l'ensemble des prêts et des
+investissements sont effectués en faveur d'entreprises solidaires mentionnées
+audit article, pour lesquelles le remboursement doit intervenir après le 31
+décembre de la cinquième année suivant celle de la souscription.
 
 2. En cas de non-respect de la condition de conservation prévue au premier
 alinéa du 1 par suite d'une fusion ou d'une scission au sens de l'article 817 A,
@@ -212,10 +212,11 @@ I de l'article L. 214-30 du code monétaire et financier et au I de l'article L.
 214-31 du même code. Si le fonds n'a pas pour objet d'investir plus de 50 % de
 son actif au capital de jeunes entreprises innovantes définies à l'article 44
 sexies-0 A, ce quota doit être atteint à hauteur de 50 % au moins au plus tard
-douze mois à compter de la date de clôture de la période de souscription fixée
+huit mois à compter de la date de clôture de la période de souscription fixée
 dans le prospectus complet du fonds, laquelle ne peut excéder huit mois à
-compter de la date de constitution du fonds, et à hauteur de 100 % au plus tard
-le dernier jour du douzième mois suivant.
+compter de la date de constitution du fonds, ou huit mois après la promulgation
+de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 et à hauteur de
+100 % au plus tard le dernier jour du huitième mois suivant.
 
 Les versements servant de base au calcul de l'avantage fiscal sont retenus après
 imputation des droits ou frais d'entrée et à proportion du quota
@@ -306,7 +307,7 @@ dépasser le plafond autorisé par la Commission européenne s'agissant des aide
 d'Etat visant à promouvoir les investissements en capital-investissement dans
 les petites et moyennes entreprises ou les entreprises innovantes.
 
-(1) Par dérogation au premier alinéa du présent d, cette condition n'est pas
+Par dérogation au premier alinéa du présent d, cette condition n'est pas
 applicable pour les versements au titre de souscriptions effectuées au capital
 des entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du
 travail qui ont exclusivement pour objet :
@@ -328,7 +329,7 @@ subordonné au respect des conditions suivantes :
 
 ― la société ne procède pas à la distribution de dividendes ;
 
-― la société réalise son objet social sur l'ensemble du territoire national.
+― la société réalise son objet social sur l'ensemble du territoire national (2).
 
 VII.-Un décret fixe les obligations déclaratives incombant aux redevables et aux
 sociétés visés au I, ainsi qu'aux gérants et dépositaires de fonds visés au III.

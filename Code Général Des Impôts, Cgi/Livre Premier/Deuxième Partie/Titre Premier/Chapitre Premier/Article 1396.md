@@ -1,17 +1,17 @@
 Article 1396
 ----
-I.-La taxe foncière sur les propriétés non bâties est établie d'après la valeur
-locative cadastrale de ces propriétés déterminée conformément aux règles
+I. - La taxe foncière sur les propriétés non bâties est établie d'après la
+valeur locative cadastrale de ces propriétés déterminée conformément aux règles
 définies aux articles 1509 à 1518 A et sous déduction de 20 % de son montant.
 
-II.-A.-Dans les communes mentionnées au I de l'article 232, la valeur locative
-cadastrale des terrains constructibles après la déduction mentionnée au I du
-présent article est majorée de 25 % de son montant et d'une valeur forfaitaire
-fixée à 5 € par mètre carré pour les impositions dues au titre des années 2015
-et 2016, puis à 10 € par mètre carré pour les impositions dues au titre de
-l'année 2017 et des années suivantes.
+II. - A. - Dans les communes mentionnées au I de l'article 232, la valeur
+locative cadastrale des terrains constructibles après la déduction mentionnée au
+I du présent article est majorée de 25 % de son montant et d'une valeur
+forfaitaire fixée à 5 € par mètre carré pour les impositions dues au titre des
+années 2014 et 2015, puis à 10 € par mètre carré pour les impositions dues au
+titre de l'année 2016 et des années suivantes.
 
-B.-Dans les communes autres que celles mentionnées au A, la valeur locative
+B. - Dans les communes autres que celles mentionnées au A, la valeur locative
 cadastrale des terrains constructibles situés dans les zones urbaines ou à
 urbaniser, lorsque les voies publiques et les réseaux d'eau, d'électricité et,
 le cas échéant, d'assainissement existant à la périphérie de la zone à urbaniser
@@ -33,7 +33,7 @@ La majoration ne peut excéder 3 % d'une valeur forfaitaire moyenne au mètre
 carré définie par décret et représentative de la valeur moyenne du terrain selon
 sa situation géographique.
 
-C.-La liste des terrains constructibles est dressée, pour la majoration
+C. - La liste des terrains constructibles est dressée, pour la majoration
 mentionnée au A, par l'autorité compétente en matière de plan local d'urbanisme
 et, pour la majoration mentionnée au B, par le maire. Cette liste ou, le cas
 échéant, toute modification qui y est apportée est communiquée à
@@ -43,7 +43,7 @@ la charge du bénéficiaire de la majoration ; ils s'imputent sur les attributio
 mentionnées à l'article L. 2332-2 du code général des collectivités
 territoriales.
 
-D.-1. Les majorations prévues aux A et B ne sont pas applicables :
+D. - 1. Les majorations prévues aux A et B ne sont pas applicables :
 
 1° Aux terrains appartenant aux établissements publics fonciers mentionnés aux
 articles L. 321-1 et L. 324-1 du code de l'urbanisme, aux agences mentionnées
@@ -53,15 +53,9 @@ Société du Grand Paris mentionné à l'article 1609 G.
 2° Aux parcelles supportant une construction passible de la taxe d'habitation ;
 
 3° Aux terrains classés depuis moins d'un an dans une zone urbaine ou à
-urbaniser ;
+urbaniser.
 
-4° Aux terrains appartenant ou donnés à bail à une personne relevant d'un régime
-de protection sociale agricole, au sens de l'article L. 722-1 du code rural et
-de la pêche maritime, ou mentionnée à l'article L. 731-23 du même code et
-utilisés pour les besoins d'une exploitation agricole, au sens de l'article 63
-du présent code.
-
-2. Bénéficient, sur réclamation présentée dans le délai indiqué à l'article R. *
+2. Bénéficient, sur réclamation présentée dans le délai indiqué à l'article R.*
 196-2 du livre des procédures fiscales et dans les formes prévues par ce même
 livre, d'un dégrèvement de la fraction de leur cotisation résultant des
 majorations prévues aux A et B :
