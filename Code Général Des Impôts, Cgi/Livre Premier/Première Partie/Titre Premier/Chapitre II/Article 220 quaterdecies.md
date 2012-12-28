@@ -58,8 +58,9 @@ ainsi que les charges sociales afférentes ;
 d) Les dépenses liées au recours aux industries techniques et autres
 prestataires de la création cinématographique ou audiovisuelle ;
 
-e) Les dépenses de transport et de restauration occasionnées par la production
-de l'œuvre sur le territoire français.
+e) Les dépenses de transport et de restauration , ainsi que les dépenses
+d'hébergement dans la limite d'un montant par nuitée fixé par décret,
+occasionnées par la production de l'œuvre sur le territoire français.
 
 2. Les auteurs, les artistes-interprètes et les personnels de la réalisation et
 de la production mentionnés au 1 doivent être soit de nationalité française,
@@ -88,7 +89,7 @@ des bases de calcul de ce crédit, qu'elles soient définitivement acquises par
 elles ou remboursables.
 
 VI. ― La somme des crédits d'impôt calculés au titre d'une même œuvre ne peut
-excéder 4 millions d'euros.
+excéder 10 millions d'euros.
 
 VII. ― Les crédits d'impôts obtenus pour la production d'une même œuvre
 cinématographique ou audiovisuelle ne peuvent avoir pour effet de porter à plus
