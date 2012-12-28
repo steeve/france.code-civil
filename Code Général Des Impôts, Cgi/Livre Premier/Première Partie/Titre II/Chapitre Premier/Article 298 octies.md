@@ -1,9 +1,9 @@
 Article 298 octies
 ----
 Les travaux de composition et d'impression des écrits périodiques sont soumis au
-taux réduit de 7 % de la taxe sur la valeur ajoutée.
+taux réduit de 10 % de la taxe sur la valeur ajoutée.
 
-Sont également soumises au taux réduit de 7 % de la taxe sur la valeur ajoutée
+Sont également soumises au taux réduit de 10 % de la taxe sur la valeur ajoutée
 les fournitures d'éléments d'information faites par les agences de presse
 figurant sur la liste prévue à l'article 1er de l'ordonnance n° 45-2646 du 2
 novembre 1945 modifiée ainsi que les opérations de cession ou de rétrocession

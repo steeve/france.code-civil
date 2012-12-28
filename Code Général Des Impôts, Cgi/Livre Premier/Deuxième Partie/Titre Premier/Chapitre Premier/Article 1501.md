@@ -23,3 +23,19 @@ zones d'élargissement des gares de péage ;
 2 725,79 € pour chaque plate-forme de péage, y compris les auvents et les locaux
 de contrôle situés à proximité ; cette somme est augmentée de 1 166,54 € par
 voie de gare de péage.
+
+III.-La valeur locative des postes d'amarrage dans les ports de plaisance à la
+date de la révision est fixée selon le tarif suivant :
+
+-110 € pour les ports maritimes de la Méditerranée ;
+
+-80 € pour les autres ports maritimes ;
+
+-55 € pour les ports non maritimes.
+
+Pour chaque port, ce tarif peut être, après avis des commissions communales et
+intercommunales des impôts directs prévues aux articles 1650 et 1650 A, minoré
+ou majoré de 20 % ou 40 % en fonction des services et des équipements offerts.
+
+Les modalités d'application de cette modulation sont fixées par décret en
+Conseil d'Etat.

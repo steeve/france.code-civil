@@ -1,6 +1,6 @@
 Article 278 quater
 ----
-La taxe sur la valeur ajoutée est perçue au taux de 7 % en ce qui concerne les
+La taxe sur la valeur ajoutée est perçue au taux de 10 % en ce qui concerne les
 opérations d'achat, d'importation, d'acquisition intracommunautaire, de vente,
 de livraison, de commission, de courtage ou de façon, portant sur les
 préparations magistrales, produits officinaux et médicaments ou produits

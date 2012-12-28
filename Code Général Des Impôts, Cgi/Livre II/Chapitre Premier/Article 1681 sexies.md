@@ -1,10 +1,11 @@
 Article 1681 sexies
 ----
-1. Sous réserve des 2,3 et 4, lorsque leur montant excède 50 000 €, les impôts
+1. Sous réserve des 2, 3 et 4, lorsque leur montant excède 50 000 €, les impôts
 exigibles dans les conditions fixées à l'article 1663 sont acquittés, au choix
 du contribuable, par virement directement opéré sur le compte du Trésor ouvert
 dans les écritures de la Banque de France ou par prélèvements opérés à
-l'initiative de l'administration fiscale sur un compte visé à l'article 1681 D.
+l'initiative de l'administration fiscale sur un compte visé aux trois premiers
+alinéas de l'article 1681 D.
 
 2. Lorsque leur montant excède 30 000 €, les acomptes mentionnés à l'article
 1664, l'impôt sur le revenu, la taxe d'habitation et la contribution à

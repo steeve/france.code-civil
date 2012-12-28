@@ -19,7 +19,7 @@ II. ― Cette taxe est acquittée par le redevable de la taxe foncière sur les
 propriétés non bâties au sens de l'article 1400.
 
 III. ― L'assiette de cette taxe est établie d'après la valeur locative
-cadastrale déterminée conformément au premier alinéa de l'article 1396.
+cadastrale déterminée conformément au I de l'article 1396.
 
 IV. ― Le produit de cette taxe est obtenu en appliquant, chaque année, aux bases
 imposables la somme des taux départemental et régional de la taxe foncière sur

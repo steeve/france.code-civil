@@ -8,7 +8,7 @@ des spectacles de cirque comportant exclusivement des créations originales
 conçues et produites par l'entreprise et faisant appel aux services réguliers
 d'un groupe de musiciens.
 
-Un décret définit la nature des œuvres et fixe le nombre de représentations
+Un décret définit la nature des oeuvres et fixe le nombre de représentations
 auxquelles ces dispositions sont applicables.
 
 Ces dispositions ne s'appliquent pas aux recettes provenant :
@@ -17,5 +17,5 @@ a. Des représentations théâtrales à caractère pornographique ;
 
 b. (Disposition devenue sans objet).
 
-c. De la vente de billets imposée au taux réduit de 5,5 % dans les conditions
+c. De la vente de billets imposée au taux réduit de 5 % dans les conditions
 prévues au 2° du F de l'article 278-0 bis.

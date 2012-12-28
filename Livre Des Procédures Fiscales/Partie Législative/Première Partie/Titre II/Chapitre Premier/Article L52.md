@@ -45,12 +45,16 @@ L. 188 B est en cours ;
 7° Si le contribuable s'est livré à une activité occulte, au sens du troisième
 alinéa de l'article L. 169.
 
-III.-En cas de mise en oeuvre du II de l'article L. 47 A, la limitation à trois
-mois de la durée de la vérification sur place est prorogée de la durée comprise
-entre la date du choix du contribuable pour l'une des options prévues à cet
-article pour la réalisation du traitement et, respectivement selon l'option
-choisie, soit celle de la mise à disposition du matériel et des fichiers
-nécessaires par l'entreprise, soit celle de la remise des résultats des
-traitements réalisés par l'entreprise à l'administration, soit celle de la
-remise des copies de fichiers nécessaires à la réalisation des traitements par
-l'administration. Cette dernière date fait l'objet d'une consignation par écrit.
+III.-En cas de mise en œuvre du I de l'article L. 47 A, le délai de trois mois
+prévu au I du présent article est suspendu jusqu'à la remise de la copie des
+fichiers des écritures comptables à l'administration.
+
+En cas de mise en oeuvre du II de l'article L. 47 A, la limitation à trois mois
+de la durée de la vérification sur place est prorogée de la durée comprise entre
+la date du choix du contribuable pour l'une des options prévues à cet article
+pour la réalisation du traitement et, respectivement selon l'option choisie,
+soit celle de la mise à disposition du matériel et des fichiers nécessaires par
+l'entreprise, soit celle de la remise des résultats des traitements réalisés par
+l'entreprise à l'administration, soit celle de la remise des copies de fichiers
+nécessaires à la réalisation des traitements par l'administration. Cette
+dernière date fait l'objet d'une consignation par écrit.
