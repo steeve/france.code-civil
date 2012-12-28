@@ -11,9 +11,11 @@ quintuple des droits dont la commune ou l'établissement de coopération
 intercommunale à fiscalité propre a été privé.
 
 Le montant des amendes et des condamnations prononcées en vertu du deuxième
-alinéa du présent article est affecté à la commune ou à l'établissement de
-coopération intercommunale cité à l'article L. 2333-6.
+alinéa du présent article est affecté à la commune, à l'établissement public de
+coopération intercommunale à fiscalité propre ou à la métropole de Lyon cité à
+l'article L. 2333-6.
 
-Les communes et les établissements publics de coopération intercommunale sont
-admis à recourir aux agents de la force publique pour assurer le contrôle de la
-taxe et pour constater les contraventions.
+Les communes, les établissements publics de coopération intercommunale à
+fiscalité propre et la métropole de Lyon sont admis à recourir aux agents de la
+force publique pour assurer le contrôle de la taxe et pour constater les
+contraventions.

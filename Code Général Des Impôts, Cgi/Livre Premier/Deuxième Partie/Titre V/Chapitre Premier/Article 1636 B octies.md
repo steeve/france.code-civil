@@ -47,6 +47,11 @@ d'autre part, le produit que cette taxe aurait procuré au titre de l'année 201
 à ces mêmes communes et établissements publics si les taux de l'année 2010
 avaient été appliqués.
 
+A compter des impositions établies au titre de l'année 2016, les recettes que la
+taxe foncière sur les propriétés bâties a procurées sur le territoire de la
+métropole de Lyon sont, pour l'application du I, minorées de la part que cette
+taxe a procurée au titre de l'année 2014 au département du Rhône.
+
 III.-Le produit fiscal à recouvrer dans chacune des communes membres au profit
 d'un syndicat de communes est réparti entre les taxes foncières, la taxe
 d'habitation et la cotisation foncière des entreprises proportionnellement aux
