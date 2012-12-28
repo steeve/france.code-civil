@@ -19,5 +19,6 @@ déclaration de sommes versées à un tiers entraîne l'application d'une amende
 
 3. Le non-respect de l'interdiction de payer un impôt par virement entraîne
 l'application d'une majoration de 0,2 % du montant des sommes dont le versement
-a été effectué par ce mode de paiement. Cette majoration ne s'applique pas aux
-sommes déjà majorées en application du 1.
+a été effectué par ce mode de paiement. Le montant de la majoration ne peut être
+inférieur à 60 €. Cette majoration ne s'applique pas aux sommes déjà majorées en
+application du 1.

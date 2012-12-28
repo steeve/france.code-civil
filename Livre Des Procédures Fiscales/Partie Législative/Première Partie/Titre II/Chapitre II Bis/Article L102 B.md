@@ -4,7 +4,11 @@ I. - Les livres, registres, documents ou pièces sur lesquels peuvent s'exercer
 les droits de communication, d'enquête et de contrôle de l'administration
 doivent être conservés pendant un délai de six ans à compter de la date de la
 dernière opération mentionnée sur les livres ou registres ou de la date à
-laquelle les documents ou pièces ont été établis.
+laquelle les documents ou pièces ont été établis. Les informations, documents,
+données, traitements informatiques ou système d'information constitutifs des
+contrôles mentionnés au 1° du VII de l'article 289 du code général des impôts et
+la documentation décrivant leurs modalités de réalisation doivent être conservés
+pendant le même délai.
 
 Sans préjudice des dispositions du premier alinéa, lorsque les livres,
 registres, documents ou pièces mentionnés au premier alinéa sont établis ou

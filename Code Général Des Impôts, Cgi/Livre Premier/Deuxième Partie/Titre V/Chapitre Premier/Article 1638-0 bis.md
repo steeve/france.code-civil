@@ -1,15 +1,18 @@
 Article 1638-0 bis
 ----
-I.-En cas de fusion d'établissements publics de coopération intercommunale à
+I .- En cas de fusion d'établissements publics de coopération intercommunale à
 fiscalité propre additionnelle, réalisée dans les conditions prévues par
 l'article L. 5211-41-3 du code général des collectivités territoriales,
 l'établissement public de coopération intercommunale issu de la fusion est
 soumis de plein droit au régime de la fiscalité additionnelle, sauf délibération
 du conseil communautaire optant pour le régime prévu à l'article 1609 nonies C,
-statuant à la majorité simple de ses membres, prise au plus tard le 31 décembre
-de l'année de la fusion. Il en est de même en cas de fusion d'établissements
-publics de coopération intercommunale à fiscalité additionnelle et
-d'établissements publics de coopération intercommunale sans fiscalité propre.
+statuant à la majorité simple de ses membres, prise au plus tard le 15 janvier
+de l'année au cours de laquelle la fusion prend fiscalement effet. Il en est de
+même en cas de fusion d'établissements publics de coopération intercommunale à
+fiscalité additionnelle et d'établissements publics de coopération
+intercommunale sans fiscalité propre. Cette délibération ne peut être rapportée
+pendant la période d'unification des taux prévue au III de l'article 1609 nonies
+C.
 
 Les taux de fiscalité additionnelle de l'établissement public de coopération
 intercommunale issu de la fusion sont fixés la première année suivant celle de
@@ -68,19 +71,21 @@ fixés en application du I de l'article 1636 B sexies s'il relève du régime de
 fiscalité additionnelle et en application de l'article 1636 B decies s'il relève
 du régime prévu à l'article 1609 nonies C.
 
-II.-En cas de fusion d'établissements publics de coopération intercommunale
+II. - En cas de fusion d'établissements publics de coopération intercommunale
 soumis à l'article 1609 quinquies C, réalisée dans les conditions prévues par
 l'article L. 5211-41-3 du code général des collectivités territoriales,
 l'établissement public de coopération intercommunale issu de la fusion est
 soumis de plein droit au régime prévu par ces mêmes dispositions, sauf
 délibération du conseil communautaire optant pour le régime prévu à l'article
 1609 nonies C, statuant à la majorité simple de ses membres, prise au plus tard
-le 31 décembre de l'année de la fusion. Il en est de même en cas de fusion,
-d'une part, d'établissements publics de coopération intercommunale faisant
-application du régime prévu à l'article 1609 quinquies C et, d'autre part,
-d'établissements publics de coopération intercommunale à fiscalité propre
-additionnelle ou d'établissements publics de coopération intercommunale sans
-fiscalité propre.
+le 15 janvier de l'année au cours de laquelle la fusion prend fiscalement effet.
+Il en est de même en cas de fusion, d'une part, d'établissements publics de
+coopération intercommunale faisant application du régime prévu à l'article 1609
+quinquies C et, d'autre part, d'établissements publics de coopération
+intercommunale à fiscalité propre additionnelle ou d'établissements publics de
+coopération intercommunale sans fiscalité propre. Cette délibération ne peut
+être rapportée pendant la période d'unification des taux prévue au III de
+l'article 1609 nonies C.
 
 Pour la première année suivant celle de la fusion :
 
@@ -129,7 +134,7 @@ l'établissement public de coopération intercommunale relève du régime prévu
 l'article 1609 nonies C, le taux de la cotisation foncière des entreprises est
 fixé en application des articles 1636 B decies et 1609 nonies C.
 
-III.-En cas de fusion d'établissements publics de coopération intercommunale
+III. - En cas de fusion d'établissements publics de coopération intercommunale
 soumis à l'article 1609 nonies C, réalisée dans les conditions prévues par
 l'article L. 5211-41-3 du code général des collectivités territoriales,
 l'établissement public de coopération intercommunale issu de la fusion est

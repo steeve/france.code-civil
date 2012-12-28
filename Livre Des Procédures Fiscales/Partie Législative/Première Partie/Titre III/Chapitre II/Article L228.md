@@ -27,7 +27,11 @@ personnes physiques ou morales ou de tout organisme, fiducie ou institution
 comparable ;
 
 3° Soit de l'usage d'une fausse identité ou de faux documents au sens de
-l'article 441-1 du code pénal, ou de toute autre falsification.
+l'article 441-1 du code pénal, ou de toute autre falsification ;
+
+4° Soit d'une domiciliation fiscale fictive ou artificielle à l'étranger ;
+
+5° Soit de toute autre manœuvre destinée à égarer l'administration.
 
 Le ministre est lié par les avis de la commission.
 

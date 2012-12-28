@@ -40,14 +40,16 @@ l'eau au titre d'une autre police ;
 4° Des objectifs fixés par le schéma directeur d'aménagement et de gestion des
 eaux et le schéma d'aménagement et de gestion des eaux.
 
-IV.-La redevance est perçue auprès de l'exploitant du service d'eau potable par
-l'agence de l'eau. Elle est exigible à l'encaissement du prix de l'eau
-distribuée.L'exploitant facture la redevance aux personnes abonnées au service
-d'eau potable définies au I dans des conditions administratives et financières
-fixées par décret.
+IV.- La redevance est perçue par l'agence de l'eau auprès de l'exploitant du
+service qui assure la facturation de la redevance d'eau potable mentionnée à
+l'article L. 2224-12-3 du code général des collectivités territoriales. Elle est
+exigible à l'encaissement du prix de l'eau distribuée.L'exploitant facture la
+redevance aux personnes abonnées au service d'eau potable définies au I dans des
+conditions administratives et financières fixées par décret.
 
-Le recouvrement de la redevance auprès de l'assujetti est réalisé comme en
-matière de redevances perçues par le service d'eau potable.
+Le recouvrement de la redevance est assuré en phases amiable et contentieuse
+auprès de l'assujetti par le service assurant la facturation de la redevance
+d'eau potable mentionnée au même article L. 2224-12-3.
 
 V.-Lorsqu'un dispositif permet d'éviter la détérioration de la qualité des eaux,
 une prime est versée au maître d'ouvrage public ou privé de ce dispositif ou à

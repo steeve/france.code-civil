@@ -2,7 +2,7 @@ Article 266
 ----
 1. La base d'imposition est constituée :
 
-a) Pour les livraisons de biens, les prestations de services et les acquisitions
+a. Pour les livraisons de biens, les prestations de services et les acquisitions
 intracommunautaires, par toutes les sommes, valeurs, biens ou services reçus ou
 à recevoir par le fournisseur ou le prestataire en contrepartie de ces
 opérations, de la part de l'acheteur, du preneur ou d'un tiers, y compris les
@@ -18,9 +18,9 @@ dans la livraison de biens ou l'exécution de services par des redevables qui
 n'ont pas établi dans la Communauté européenne le siège de leur activité, un
 établissement stable, leur domicile ou leur résidence habituelle ;
 
-b bis) (Abrogé) ;
+b bis. (Abrogé) ;
 
-b ter) Pour les opérations visées au e du 1° de l'article 261 C qui ont fait
+b ter. Pour les opérations visées au e du 1° de l'article 261 C qui ont fait
 l'objet de l'option prévue à l'article 260 B, par le montant des profits et
 autres rémunérations ;
 
@@ -59,9 +59,8 @@ les achats imposables.
 
 1 bis. Lorsque les éléments servant à déterminer la base d'imposition sont
 exprimés dans une monnaie autre que l'euro, le taux de change à appliquer est
-celui du dernier taux déterminé par référence au cours publié par la Banque de
-France à partir du cours fixé par la Banque centrale européenne, connu au jour
-de l'exigibilité de la taxe prévue au 2 de l'article 269.
+celui du dernier taux publié par la Banque centrale européenne, au jour de
+l'exigibilité de la taxe prévue au 2 de l'article 269.
 
 1 ter a. (Abrogé).
 

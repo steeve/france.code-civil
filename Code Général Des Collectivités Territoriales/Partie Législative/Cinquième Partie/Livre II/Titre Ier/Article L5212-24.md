@@ -43,9 +43,9 @@ date.
 
 Par dérogation au premier alinéa, les communes visées à la première phrase de ce
 même alinéa dont la population est inférieure ou égale à 2 000 habitants sont
-bénéficiaires du produit de la taxe due au titre de l'année 2012 en l'absence de
-délibération du syndicat intercommunal ou du département avant le 15 octobre
-2011 ou lorsque cette délibération a été rapportée avant le 31 décembre 2011. Le
+bénéficiaires du produit de la taxe due au titre de l'année 2013 en l'absence de
+délibération du syndicat intercommunal ou du département avant le 1er octobre
+2012 ou lorsque cette délibération a été rapportée avant le 31 décembre 2012. Le
 tarif applicable est celui en vigueur en 2011 en application de l'avant-dernier
 alinéa de l'article L. 2333-4.
 

@@ -17,10 +17,6 @@ hors taxes à des dépenses de publicité, ou si l'hébergement est assuré par 
 tiers lorsque celui-ci consacre 1,5 % de son chiffre d'affaires total en France
 à la publicité ;
 
-A la fourniture de logement et de nourriture dans les lieux de vie et d'accueil
-mentionnés au III de l'article L. 312-1 du code de l'action sociale et des
-familles ;
-
 A la location d'aires d'accueil ou de terrains de passage des gens du voyage ;
 
 a bis. Les recettes provenant de la fourniture des repas dans les cantines

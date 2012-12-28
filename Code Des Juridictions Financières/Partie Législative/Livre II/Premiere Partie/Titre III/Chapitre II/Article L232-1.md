@@ -5,7 +5,7 @@ collectivités territoriales et de leurs établissements publics s'exerce dans l
 conditions prévues par le chapitre II du titre unique du livre VI de la première
 partie du code général des collectivités territoriales ci-après reproduit :
 
-Art.L. 1612-1.-Dans le cas où le budget d'une collectivité territoriale n'a pas
+Art. L. 1612-1.-Dans le cas où le budget d'une collectivité territoriale n'a pas
 été adopté avant le 1er janvier de l'exercice auquel il s'applique, l'exécutif
 de la collectivité territoriale est en droit, jusqu'à l'adoption de ce budget,
 de mettre en recouvrement les recettes et d'engager, de liquider et de mandater
@@ -15,7 +15,7 @@ au budget de l'année précédente.
 Il est en droit de mandater les dépenses afférentes au remboursement en capital
 des annuités de la dette venant à échéance avant le vote du budget.
 
-En outre, jusqu'à l'adoption du budget ou jusqu'au 31 mars, en l'absence
+En outre, jusqu'à l'adoption du budget ou jusqu'au 15 avril, en l'absence
 d'adoption du budget avant cette date, l'exécutif de la collectivité
 territoriale peut, sur autorisation de l'organe délibérant, engager, liquider et
 mandater les dépenses d'investissement, dans la limite du quart des crédits
@@ -38,8 +38,8 @@ recouvrer les titres de recettes émis dans les conditions ci-dessus.
 Le présent article s'applique aux régions, sous réserve des dispositions de
 l'article L. 4312-6.
 
-Art.L. 1612-2.-Si le budget n'est pas adopté avant le 31 mars de l'exercice
-auquel il s'applique, ou avant le 15 avril de l'année du renouvellement des
+Art. L. 1612-2.-Si le budget n'est pas adopté avant le 15 avril de l'exercice
+auquel il s'applique, ou avant le 30 avril de l'année du renouvellement des
 organes délibérants, le représentant de l'Etat dans le département saisit sans
 délai la chambre régionale des comptes qui, dans le mois, et par un avis public,
 formule des propositions pour le règlement du budget. Le représentant de l'Etat
@@ -52,7 +52,7 @@ règlement du budget par le représentant de l'Etat, l'organe délibérant ne pe
 adopter de délibération sur le budget de l'exercice en cours.
 
 Ces dispositions ne sont pas applicables quand le défaut d'adoption résulte de
-l'absence de communication avant le 15 mars à l'organe délibérant d'informations
+l'absence de communication avant le 31 mars à l'organe délibérant d'informations
 indispensables à l'établissement du budget. La liste de ces informations est
 fixée par décret. Dans ce cas, l'organe délibérant dispose de quinze jours à
 compter de cette communication pour arrêter le budget.
@@ -60,9 +60,9 @@ compter de cette communication pour arrêter le budget.
 Le présent article est applicable aux régions, sous réserve des dispositions de
 l'article L. 4311-1-1.
 
-Art.L. 1612-3.-En cas de création d'une nouvelle collectivité territoriale,
+Art. L. 1612-3.-En cas de création d'une nouvelle collectivité territoriale,
 l'organe délibérant adopte le budget dans un délai de trois mois à compter de
-cette création.A défaut, le budget est réglé et rendu exécutoire par le
+cette création. A défaut, le budget est réglé et rendu exécutoire par le
 représentant de l'Etat dans le département, sur avis public de la chambre
 régionale des comptes, dans les conditions prévues aux premier et deuxième
 alinéas de l'article L. 1612-2.
@@ -73,7 +73,7 @@ suivant cette création, d'informations indispensables à l'établissement du
 budget. Dans ce cas, l'organe délibérant dispose de quinze jours après cette
 communication pour arrêter le budget.
 
-Art.L. 1612-4.-Le budget de la collectivité territoriale est en équilibre réel
+Art. L. 1612-4.-Le budget de la collectivité territoriale est en équilibre réel
 lorsque la section de fonctionnement et la section d'investissement sont
 respectivement votées en équilibre, les recettes et les dépenses ayant été
 évaluées de façon sincère, et lorsque le prélèvement sur les recettes de la
@@ -83,7 +83,7 @@ recettes propres de cette section, à l'exclusion du produit des emprunts, et
 fournit des ressources suffisantes pour couvrir le remboursement en capital des
 annuités d'emprunt à échoir au cours de l'exercice.
 
-Art.L. 1612-5.-Lorsque le budget d'une collectivité territoriale n'est pas voté
+Art. L. 1612-5.-Lorsque le budget d'une collectivité territoriale n'est pas voté
 en équilibre réel, la chambre régionale des comptes, saisie par le représentant
 de l'Etat dans un délai de trente jours à compter de la transmission prévue aux
 articles L. 2131-1, L. 3131-1 et L. 4141-1, le constate et propose à la
@@ -103,25 +103,25 @@ budget est réglé et rendu exécutoire par le représentant de l'Etat dans le
 département. Si celui-ci s'écarte des propositions formulées par la chambre
 régionale des comptes, il assortit sa décision d'une motivation explicite.
 
-Art.L. 1612-6.-Toutefois, pour l'application de l'article L. 1612-5, n'est pas
+Art. L. 1612-6.-Toutefois, pour l'application de l'article L. 1612-5, n'est pas
 considéré comme étant en déséquilibre le budget dont la section de
 fonctionnement comporte ou reprend un excédent et dont la section
 d'investissement est en équilibre réel, après reprise pour chacune des sections
 des résultats apparaissant au compte administratif de l'exercice précédent.
 
-Art.L. 1612-7.-A compter de l'exercice 1997, pour l'application de l'article L.
+Art. L. 1612-7.-A compter de l'exercice 1997, pour l'application de l'article L.
 1612-5, n'est pas considéré comme étant en déséquilibre le budget de la commune
 dont la section de fonctionnement comporte ou reprend un excédent reporté par
 décision du conseil municipal ou dont la section d'investissement comporte un
 excédent, notamment après inscription des dotations aux amortissements et aux
 provisions exigées.
 
-Art.L. 1612-8.-Le budget primitif de la collectivité territoriale est transmis
+Art. L. 1612-8.-Le budget primitif de la collectivité territoriale est transmis
 au représentant de l'Etat dans le département au plus tard quinze jours après le
 délai limite fixé pour son adoption par les articles L. 1612-2 et L. 1612-9. A
 défaut, il est fait application des dispositions de l'article L. 1612-2.
 
-Art.L. 1612-9.-A compter de la saisine de la chambre régionale des comptes et
+Art. L. 1612-9.-A compter de la saisine de la chambre régionale des comptes et
 jusqu'au terme de la procédure prévue à l'article L. 1612-5, l'organe délibérant
 ne peut se prononcer en matière budgétaire, sauf pour la délibération prévue au
 deuxième alinéa de l'article L. 1612-5 et pour l'application de l'article L.
@@ -144,7 +144,7 @@ primitif sont reportées respectivement au 1er juin et au 15 juin. Dans ce cas,
 le délai limite de la transmission du compte de gestion du comptable prévu à
 l'article L. 1612-12 est ramené au 1er mai.
 
-Art.L. 1612-10.-La transmission du budget de la collectivité territoriale à la
+Art. L. 1612-10.-La transmission du budget de la collectivité territoriale à la
 chambre régionale des comptes au titre des articles L. 1612-5 et L. 1612-14 a
 pour effet de suspendre l'exécution de ce budget jusqu'au terme de la procédure.
 Toutefois, sont applicables à compter de cette transmission les dispositions de
@@ -152,9 +152,10 @@ l'article L. 1612-1. En outre, les dépenses de la section d'investissement de c
 budget peuvent être engagées, liquidées et mandatées dans la limite de la moitié
 des crédits inscrits à ce titre.
 
-Art.L. 1612-11.-Sous réserve du respect des dispositions des articles L. 1612-1,
-L. 1612-9 et L. 1612-10, des modifications peuvent être apportées au budget par
-l'organe délibérant, jusqu'au terme de l'exercice auquel elles s'appliquent.
+Art. L. 1612-11.-Sous réserve du respect des dispositions des articles L.
+1612-1, L. 1612-9 et L. 1612-10, des modifications peuvent être apportées au
+budget par l'organe délibérant, jusqu'au terme de l'exercice auquel elles
+s'appliquent.
 
 Dans le délai de vingt et un jours suivant la fin de l'exercice budgétaire,
 l'organe délibérant peut, en outre, apporter au budget les modifications
@@ -191,7 +192,7 @@ articles L. 1424-35, L. 2531-13 et L. 4434-9 et pour la liquidation des
 attributions au titre du Fonds de compensation pour la taxe sur la valeur
 ajoutée prévue à l'article L. 1615-6.
 
-Art.L. 1612-13.-Le compte administratif est transmis au représentant de l'Etat
+Art. L. 1612-13.-Le compte administratif est transmis au représentant de l'Etat
 dans le département au plus tard quinze jours après le délai limite fixé pour
 son adoption par les articles L. 1612-9 et L. 1612-12.
 
@@ -199,7 +200,7 @@ A défaut, le représentant de l'Etat saisit, selon la procédure prévue par
 l'article L. 1612-5, la chambre régionale des comptes du plus proche budget voté
 par la collectivité territoriale.
 
-Art.L. 1612-14.-Lorsque l'arrêté des comptes des collectivités territoriales
+Art. L. 1612-14.-Lorsque l'arrêté des comptes des collectivités territoriales
 fait apparaître dans l'exécution du budget, après vérification de la sincérité
 des inscriptions de recettes et de dépenses, un déficit égal ou supérieur à 10 %
 des recettes de la section de fonctionnement s'il s'agit d'une commune de moins
@@ -219,14 +220,14 @@ pour résorber ce déficit, elle propose les mesures nécessaires au représenta
 de l'Etat dans le département dans un délai d'un mois à partir de la
 transmission prévue à l'alinéa précédent. Le représentant de l'Etat règle le
 budget et le rend exécutoire après application éventuelle, en ce qui concerne
-les communes, des dispositions de l'article L. 2335-2.S'il s'écarte des
+les communes, des dispositions de l'article L. 2335-2. S'il s'écarte des
 propositions formulées par la chambre régionale des comptes, il assortit sa
 décision d'une motivation explicite.
 
 En cas de mise en oeuvre des dispositions des alinéas précédents, la procédure
 prévue à l'article L. 1612-5 n'est pas applicable.
 
-Art.L. 1612-15.-Ne sont obligatoires pour les collectivités territoriales que
+Art. L. 1612-15.-Ne sont obligatoires pour les collectivités territoriales que
 les dépenses nécessaires à l'acquittement des dettes exigibles et les dépenses
 pour lesquelles la loi l'a expressément décidé.
 
@@ -242,17 +243,17 @@ chambre régionale des comptes demande au représentant de l'Etat d'inscrire cet
 dépense au budget et propose, s'il y a lieu, la création de ressources ou la
 diminution de dépenses facultatives destinées à couvrir la dépense obligatoire.
 Le représentant de l'Etat dans le département règle et rend exécutoire le budget
-rectifié en conséquence.S'il s'écarte des propositions formulées par la chambre
+rectifié en conséquence. S'il s'écarte des propositions formulées par la chambre
 régionale des comptes, il assortit sa décision d'une motivation explicite.
 
-Art. L. 1612-15-1. - En cas d'absence de convention visée à l'article 21-4 de la
-loi no 82-1153 du 30 décembre 1982 précitée, le préfet de région peut mettre en
+Art. L. 1612-15-1.-En cas d'absence de convention visée à l'article 21-4 de la
+loi n° 82-1153 du 30 décembre 1982 précitée, le préfet de région peut mettre en
 oeuvre, dans les conditions de l'article L. 1612-15, une procédure d'inscription
 d'office au budget de la région, au bénéfice de la Société nationale des chemins
 de fer français dans la limite de la part de la compensation visée au quatrième
 alinéa de l'article L. 1614-8-1.
 
-Art.L. 1612-16.-A défaut de mandatement d'une dépense obligatoire par le maire,
+Art. L. 1612-16.-A défaut de mandatement d'une dépense obligatoire par le maire,
 le président du conseil général ou le président du conseil régional suivant le
 cas, dans le mois suivant la mise en demeure qui lui en a été faite par le
 représentant de l'Etat dans le département, celui-ci y procède d'office.
@@ -260,23 +261,23 @@ représentant de l'Etat dans le département, celui-ci y procède d'office.
 Le délai prévu à l'alinéa précédent est porté à deux mois si la dépense est
 égale ou supérieure à 5 % de la section de fonctionnement du budget primitif.
 
-Art.L. 1612-17.-Les dispositions des articles L. 1612-15 et L. 1612-16 ne sont
+Art. L. 1612-17.-Les dispositions des articles L. 1612-15 et L. 1612-16 ne sont
 pas applicables à l'inscription et au mandatement des dépenses obligatoires
 résultant, pour les collectivités territoriales, leurs groupements et leurs
 établissements publics, d'une décision juridictionnelle passée en la force de la
-chose jugée. Ces opérations demeurent régies l'article 1er de la loi n° 80-539
-du 16 juillet 1980 relative aux astreintes prononcées en matière administrative
-et à l'exécution des jugements par les personnes morales de droit public et les
-articles L. 911-1, L. 911-2, L. 911-5 à L. 911-8 du code de justice
-administrative.
+chose jugée. Ces opérations demeurent régies par l'article 1er de la loi n°
+80-539 du 16 juillet 1980 relative aux astreintes prononcées en matière
+administrative et à l'exécution des jugements par les personnes morales de droit
+public et les articles L. 911-1, L. 911-2, L. 911-5 à L. 911-8 du code de
+justice administrative.
 
-Art.L. 1612-18.-Dans le cadre des commandes publiques, lorsque des intérêts
+Art. L. 1612-18.-Dans le cadre des commandes publiques, lorsque des intérêts
 moratoires ne sont pas mandatés en même temps que le principal, ce dernier étant
 d'un montant supérieur à un seuil fixé par voie réglementaire, le comptable
 assignataire de la dépense en informe l'ordonnateur et le représentant de l'Etat
 dans le département dans un délai de dix jours suivant la réception de l'ordre
 de paiement. Dans un délai de quinze jours, le représentant de l'Etat adresse à
-l'ordonnateur une mise en demeure de mandatement.A défaut d'exécution dans un
+l'ordonnateur une mise en demeure de mandatement. A défaut d'exécution dans un
 délai d'un mois, le représentant de l'Etat procède d'office, dans un délai de
 dix jours, au mandatement de la dépense.
 
@@ -289,12 +290,12 @@ fixées à l'article L. 1612-15. Le représentant de l'Etat procède ensuite au
 mandatement d'office dans les quinze jours suivant la réception de la
 délibération inscrivant les crédits ou sa décision réglant le budget rectifié.
 
-Art.L. 1612-19.-Les assemblées délibérantes sont tenues informées dès leur plus
+Art. L. 1612-19.-Les assemblées délibérantes sont tenues informées dès leur plus
 proche réunion des avis formulés par la chambre régionale des comptes et des
 arrêtés pris par le représentant de l'Etat en application des dispositions du
 présent chapitre.
 
-Art. L. 1612-19-1. - Les assemblées délibérantes doivent se prononcer sur le
+Art. L. 1612-19-1.-Les assemblées délibérantes doivent se prononcer sur le
 caractère d'utilité publique des dépenses ayant donné lieu à une déclaration en
 gestion de fait par la chambre régionale des comptes au cours de la plus proche
 séance suivant la transmission de la demande adressée par la chambre régionale
@@ -303,7 +304,7 @@ territoriale concernée. Passé ce délai, la chambre régionale des comptes sta
 sur les dépenses de la gestion de fait dont elle apprécie les justifications
 présentées.
 
-Art.L. 1612-20.-I.-Les dispositions du présent chapitre sont applicables aux
+Art. L. 1612-20.-I.-Les dispositions du présent chapitre sont applicables aux
 établissements publics communaux et intercommunaux.
 
 II.-Elles sont également applicables, à l'exception de l'article L. 1612-7 :

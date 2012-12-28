@@ -65,12 +65,20 @@ exigibles.
 
 V.-L'administration accorde la qualité d'entrepositaire agréé à la personne qui
 justifie être en mesure de remplir les obligations prévues au III et qui fournit
-une caution solidaire garantissant le paiement des droits dus. Peuvent être
-dispensés de caution en matière de production, de transformation et de détention
-les récoltants dont les sociétés coopératives agricoles et leurs unions, ainsi
-que les brasseurs. Peuvent également être dispensés de caution à la circulation
-les petits récoltants de vin y compris les sociétés coopératives agricoles et
-leurs unions dans les limites et conditions fixées par décret.
+une caution solidaire garantissant le paiement des droits dus.
+
+Peuvent être dispensés de caution :
+
+1° En matière de production, de transformation et de détention, les récoltants,
+y compris les sociétés coopératives agricoles et leurs unions, ainsi que les
+brasseurs ;
+
+2° En matière de circulation, les petits récoltants de vin, y compris les
+sociétés coopératives agricoles et leurs unions, dans les limites et conditions
+fixées par décret ;
+
+3° Dans les limites et conditions fixées par décret, les opérateurs qui
+détiennent et expédient les produits mentionnés au 1° du I.
 
 En cas de violation par l'entrepositaire de ses obligations, de défaillance de
 la caution ou de dénonciation par cette caution de son engagement,

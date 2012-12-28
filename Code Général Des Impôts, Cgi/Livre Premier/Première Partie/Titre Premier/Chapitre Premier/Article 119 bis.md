@@ -1,9 +1,10 @@
 Article 119 bis
 ----
-1. Sous réserve des dispositions de l'article 125 A, les revenus de capitaux
-mobiliers entrant dans les prévisions des articles 118, 119, 238 septies B et
-1678 bis donnent lieu à l'application d'une retenue à la source dont le taux est
-fixé par le 1 de l'article 187.
+1. Les revenus de capitaux mobiliers entrant dans les prévisions des articles
+118, 119, 238 septies B et 1678 bis donnent lieu à l'application d'une retenue à
+la source dont le taux est fixé par le 1 de l'article 187, lorsqu'ils
+bénéficient à des personnes qui ont leur siège en France ou à l'étranger ou qui
+n'ont pas leur domicile fiscal en France.
 
 Toutefois, les produits des titres de créances mentionnés au 1° bis du III bis
 de l'article 125 A sont placés en dehors du champ d'application de la retenue à

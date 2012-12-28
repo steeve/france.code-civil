@@ -1,59 +1,66 @@
 Article 575 E bis
 ----
-I.-Les tabacs manufacturés vendus dans les départements de Corse et les tabacs
-qui y sont importés sont soumis à un droit de consommation.
+I.-Les tabacs manufacturés vendus au détail ou importés dans les départements de
+Corse sont soumis à un droit de consommation.
 
-Pour les cigarettes, ce droit de consommation, par dérogation au taux normal
-mentionné à l'article 575 A, et dans la limite d'un contingent de 1 200 tonnes
-par an, est déterminé conformément au dispositions des deuxième à cinquième,
-septième et huitième alinéas de l'article 575. La classe de prix de référence
-est calculée sur la base des mises à la consommation réalisées en Corse.
+Ce droit de consommation, par dérogation aux taux mentionnés à l'article 575 A
+et dans la limite d'un contingent de 1 200 tonnes par an pour les cigarettes,
+est déterminé conformément aux deuxième à sixième alinéas de l'article 575. La
+classe de prix de référence est calculée sur la base des mises à la consommation
+réalisées en Corse. Pour les différents groupes de produits, le taux normal et
+le taux spécifique applicables dans les départements de Corse sont fixés
+conformément au tableau ci-après :
 
-La part spécifique est égale à 6,5 % de la charge fiscale totale afférente aux
-cigarettes de la classe de prix de référence et comprenant le droit de
-consommation et la taxe sur la valeur ajoutée.
-
-Les tabacs manufacturés autres que les cigarettes sont soumis à un taux normal
-applicable à leur prix de vente au détail dans les départements de Corse.
-
-Pour les différents groupes de produits mentionnés aux alinéas précédents, le
-taux normal du droit de consommation applicable dans les départements de Corse
-est fixé conformément au tableau ci-après :
+(En pourcentage) 
 
 
 GROUPE DE PRODUITS
 
-TAUX NORMAL (en %)
+TAUX NORMAL
 
+
+TAUX SPÉCIFIQUE
 
 Cigarettes
 
 45
 
+10
 
-Cigares
+
+Cigares et cigarillos
 
 10
+
+5
 
 
 Tabacs fine coupe destinés à rouler les cigarettes
 
 27
 
+15
+
 
 Autres tabacs à fumer
 
 22
+
+0
 
 
 Tabacs à priser
 
 15
 
+0
+
 
 Tabacs à mâcher
 
 13
+
+0
 
 II.-Pour les cigarettes, le prix de vente au détail appliqué dans les
 départements de Corse est au moins égal à 75 % des prix de vente continentaux

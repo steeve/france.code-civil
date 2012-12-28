@@ -1,22 +1,22 @@
 Article 1607 bis
 ----
-Il est institué, au profit des établissements publics fonciers mentionnés aux
-articles L. 324-1 et suivants du code de l'urbanisme, une taxe spéciale
-d'équipement destinée à permettre à ces établissements de financer les
-acquisitions foncières et immobilières correspondant à leur vocation.
+Il est institué, au profit des établissements publics fonciers mentionnés à
+l'article L. 324-1 du code de l'urbanisme, une taxe spéciale d'équipement
+destinée à permettre à ces établissements de financer les acquisitions foncières
+et immobilières correspondant à leur vocation.
 
 Le produit de cette taxe est arrêté chaque année par l'établissement public
 foncier local dans la limite d'un plafond fixé à 20 € par habitant situé dans
 son périmètre. Lorsqu'un établissement mentionné au premier alinéa est compétent
-sur le même territoire qu'un établissement visé au troisième ou quatrième alinéa
-de l'article L. 321-1 du code de l'urbanisme, la taxe spéciale d'équipement est
-perçue sur ce territoire exclusivement par l'établissement qui y a exercé en
-premier ses compétences et selon les modalités prévues pour cet
-établissement.L'établissement bénéficiaire du produit de la taxe reverse à
-l'établissement compétent sur le même territoire 50 % du produit perçu sur le
-territoire commun. Les établissements concernés peuvent toutefois, par
-convention, déroger à ces dispositions en désignant l'établissement bénéficiaire
-de la taxe ou en fixant des modalités de reversement différentes.
+sur le même territoire qu'un établissement mentionné à l'article L. 321-1 du
+code de l'urbanisme, la taxe spéciale d'équipement est perçue sur ce territoire
+exclusivement par l'établissement qui y a exercé en premier ses compétences et
+selon les modalités prévues pour cet établissement.L'établissement bénéficiaire
+du produit de la taxe reverse à l'établissement compétent sur le même territoire
+50 % du produit perçu sur le territoire commun. Les établissements concernés
+peuvent toutefois, par convention, déroger à ces dispositions en désignant
+l'établissement bénéficiaire de la taxe ou en fixant des modalités de
+reversement différentes.
 
 Le produit de la taxe spéciale d'équipement est réparti, dans les conditions
 définies au I de l'article 1636 B octies, entre toutes les personnes physiques

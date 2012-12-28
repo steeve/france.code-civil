@@ -121,11 +121,17 @@ l'actif du bilan. Toutefois, elles ne sont prises en compte ni pour le calcul
 des amortissements ou des provisions, ni pour la détermination du résultat de
 cession.
 
-5.1° Le profit ou la perte résultant de cessions de titres par un fonds commun
-de placement est compris dans le résultat de l'exercice au cours duquel les
-parts du fonds sont cédées par l'entreprise. Le profit ou la perte est déterminé
-par différence entre le prix de cession et la valeur des parts au bilan de
-l'entreprise.
+5.1° A l'exception des sommes distribuées en application de l'article L.
+214-17-2 du code monétaire et financier, le profit ou la perte résultant de
+cessions de titres par un fonds commun de placement est compris dans le résultat
+de l'exercice au cours duquel les parts du fonds sont cédées par l'entreprise.
+Le profit ou la perte est déterminé par différence entre le prix de cession et
+la valeur des parts au bilan de l'entreprise.
+
+Les sommes distribuables en application du même article L. 214-17-2 sont
+comprises dans le résultat imposable de l'exercice au cours duquel elles sont
+distribuées et sont exclues du régime fiscal des plus-values à long terme, sous
+réserve des dispositions du 2° du présent 5.
 
 2° Par dérogation aux dispositions du 1°, les sommes correspondant à la
 répartition, prévue au IX de l'article L. 214-28 du code monétaire et financier
@@ -292,10 +298,10 @@ Pour les opérations réalisées au cours d'exercices clos à compter du 31 déc
 1994, les dispositions du présent 7 ne sont pas applicables si l'un des
 coéchangistes remet à l'échange des actions émises lors d'une augmentation de
 capital réalisée depuis moins de trois ans par une société qui détient
-directement ou indirectement une participation supérieure à 5 p. 100 du capital
-de l'autre société avec laquelle l'échange est réalisé ou par une société dont
-plus de 5 p. 100 du capital est détenu directement ou indirectement par cette
-autre société.
+directement ou indirectement une participation supérieure à 5% du capital de
+l'autre société avec laquelle l'échange est réalisé ou par une société dont plus
+de 5% du capital est détenu directement ou indirectement par cette autre
+société.
 
 Les augmentations de capital visées au septième alinéa sont celles résultant :
 
@@ -359,8 +365,8 @@ de l'acquisition. Le prix s'entend de la valeur actuelle pour les obligations ;
 souscription et sa valeur de remboursement est considérée, pour l'imposition du
 souscripteur, comme une prime de remboursement. Toutefois, pour les titres émis
 avant le 1er janvier 1993, celle-ci n'est soumise aux dispositions du I de
-l'article 238 septies B que si son montant excède 15 p. 100 de la valeur
-actuelle de l'obligation ;
+l'article 238 septies B que si son montant excède 15% de la valeur actuelle de
+l'obligation ;
 
 3° Les sommes reçues par une entreprise lors de l'émission de droits de
 souscription ou d'acquisition de valeurs mobilières sont comprises dans ses

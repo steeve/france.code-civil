@@ -23,7 +23,7 @@ déduction est, selon le cas :
 a) Celle qui figure sur les factures établies conformément aux dispositions de
 l'article 289 et si la taxe pouvait légalement figurer sur lesdites factures ;
 
-b) Celle qui est perçue à l'importation ;
+b) Celle qui est due à l'importation ;
 
 c) Celle qui est acquittée par les redevables eux-mêmes lors de l'achat ou de la
 livraison à soi-même des biens ou des services ;
@@ -68,15 +68,15 @@ V. Ouvrent droit à déduction dans les mêmes conditions que s'ils étaient sou
 a) Les opérations d'assurances et de réassurances et les opérations de courtages
 d'assurances et de réassurances lorsqu'elles concernent :
 
-1° Les assurés ou réassurés domiciliés ou établis en dehors de la Communauté
+1° Les assurés ou réassurés domiciliés ou établis en dehors de l'Union
 européenne ;
 
 2° Des exportations de biens ;
 
 b) Les services bancaires et financiers exonérés en application des dispositions
 des a à e du 1° de l'article 261 C lorsqu'ils sont rendus à des personnes
-domiciliées ou établies en dehors de la Communauté européenne ou se rapportent à
-des exportations de biens ;
+domiciliées ou établies en dehors de l'Union européenne ou se rapportent à des
+exportations de biens ;
 
 c) Les opérations exonérées en application des dispositions des articles 262 et
 262 bis, du I de l'article 262 ter, de l'article 263, du 1° du II et du 2° du
@@ -85,10 +85,9 @@ III de l'article 291 ;
 d) Les opérations non imposables en France réalisées par des assujettis dans la
 mesure où elles ouvriraient droit à déduction si leur lieu d'imposition se
 situait en France. Un décret en Conseil d'Etat fixe les modalités et les limites
-du remboursement de la taxe déductible au titre de ces opérations; ce décret
+du remboursement de la taxe déductible au titre de ces opérations ; ce décret
 peut instituer des règles différentes suivant que les assujettis sont domiciliés
-ou établis dans les Etats membres de la Communauté européenne ou dans d'autres
-pays.
+ou établis dans les Etats membres de l'Union européenne ou dans d'autres pays.
 
 VI. Pour l'application du présent article, une opération légalement effectuée en
 suspension du paiement de la taxe sur la valeur ajoutée est considérée comme en

@@ -6,17 +6,51 @@ régime d'imposition d'après le bénéfice réel ou d'après le régime simplif
 
 2 En cas de dissolution, de transformation entraînant la création d'une personne
 morale nouvelle, d'apport en société, de fusion, de transfert du siège ou d'un
-établissement à l'étranger, l'impôt sur les sociétés est établi dans les
-conditions prévues aux 1 et 3 de l'article 201.
+établissement dans un Etat étranger autre qu'un Etat membre de l'Union
+européenne ou qu'un Etat partie à l'accord sur l'Espace économique européen
+ayant conclu avec la France une convention d'assistance administrative en vue de
+lutter contre la fraude et l'évasion fiscales ainsi qu'une convention
+d'assistance mutuelle en matière de recouvrement ayant une portée similaire à
+celle prévue par la directive 2010/24/UE du Conseil du 16 mars 2010 concernant
+l'assistance mutuelle en matière de recouvrement des créances relatives aux
+taxes, impôts, droits et autres mesures, l'impôt sur les sociétés est établi
+dans les conditions prévues aux 1 et 3 de l'article 201.
 
 Il en est de même, sous réserve des dispositions de l'article 221 bis, lorsque
 les sociétés ou organismes mentionnés aux articles 206 à 208 quinquies, 239, 239
 bis AA et 239 bis AB cessent totalement ou partiellement d'être soumis à l'impôt
 sur les sociétés au taux prévu au deuxième alinéa du I de l'article 219.
 
-Toutefois, le transfert de siège dans un autre Etat membre de la Communauté
-européenne, qu'il s'accompagne ou non de la perte de la personnalité juridique
-en France, n'emporte pas les conséquences de la cessation d'entreprise.
+Lorsque le transfert du siège ou d'un établissement s'effectue dans un autre
+Etat membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace
+économique européen ayant conclu avec la France une convention d'assistance
+administrative en vue de lutter contre la fraude et l'évasion fiscales ainsi
+qu'une convention d'assistance mutuelle en matière de recouvrement ayant une
+portée similaire à celle prévue par la directive 2010/24/UE du Conseil du 16
+mars 2010 précitée et qu'il s'accompagne du transfert d'éléments d'actifs,
+l'impôt sur les sociétés calculé à raison des plus-values latentes constatées
+sur les éléments de l'actif immobilisé transférés et des plus-values en report
+ou en sursis d'imposition est acquitté dans les deux mois suivant le transfert
+des actifs :
+
+a) Soit pour la totalité de son montant ;
+
+b) Soit, sur demande expresse de la société, pour le cinquième de son montant.
+Le solde est acquitté par fractions égales au plus tard à la date anniversaire
+du premier paiement au cours des quatre années suivantes. Le solde des fractions
+dues en application de la première phrase du présent b peut être versé à tout
+moment, en une seule fois, avant chaque date anniversaire du premier paiement.
+
+L'impôt devient immédiatement exigible lorsque intervient, dans le délai de cinq
+ans, la cession des actifs ou leur transfert dans un autre Etat que ceux
+mentionnés au troisième alinéa du présent 2 ou la dissolution de la société.
+L'impôt devient également exigible en cas de non-respect de l'une des échéances
+de paiement.
+
+La société adresse chaque année au service des impôts des non-résidents un état
+conforme au modèle fourni par l'administration faisant apparaître les
+renseignements nécessaires au suivi des plus-values latentes sur les éléments de
+l'actif immobilisé transférés, mentionnées au troisième alinéa.
 
 2 bis Qu'elle s'accompagne ou non d'un changement de forme juridique, la
 modification des statuts tendant à assigner à une société quelconque un objet

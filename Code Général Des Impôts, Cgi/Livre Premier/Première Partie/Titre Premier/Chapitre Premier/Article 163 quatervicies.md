@@ -22,7 +22,7 @@ et des établissements publics soit auprès d'organismes relevant du code de la
 mutualité, soit auprès d'entreprises régies par le code des assurances, ou
 institués par les organismes mentionnés au VII de l'article 5 de l'ordonnance n°
 2001-350 du 19 avril 2001 relative au code de la mutualité et transposant les
-directives 92/49/ CEE et 92/96/ CEE du Conseil, des 18 juin et 10 novembre 1992,
+directives 92/49/CEE et 92/96/CEE du Conseil, des 18 juin et 10 novembre 1992,
 pour leurs opérations collectives visées à l'article L. 222-1 du code de la
 mutualité.
 
@@ -65,14 +65,14 @@ c) Lorsque le montant des cotisations ou primes mentionnées au 1 excède la
 limite définie au a, l'excédent qui correspond à des rachats de cotisations ou
 de primes mentionnés au c du 1 effectués par les personnes affiliées à ces
 régimes au 31 décembre 2004 n'est pas réintégré, en totalité au titre de l'année
-2004, et, pour les années 2005 à 2012, dans la limite de :
+2004, et, pour les années 2005 à 2013, dans la limite de :
 
 1° six années de cotisations au titre de chacune des années 2005 et 2006 ;
 
 2° quatre années de cotisations au titre de chacune des années 2007 à 2009
 incluse ;
 
-3° deux années de cotisations au titre de chacune des années 2010 à 2012
+3° deux années de cotisations au titre de chacune des années 2010 à 2013
 incluse.
 
 Les dispositions des quatre premiers alinéas s'appliquent aux personnes ayant la

@@ -3,7 +3,12 @@ Article L612-20
 I. ― Les personnes soumises au contrôle de l'Autorité de contrôle prudentiel en
 vertu de l'article L. 612-2 sont assujetties à une contribution pour frais de
 contrôle, qui est acquittée auprès de la Banque de France au titre de leur
-activité exercée au 1er janvier de chaque année.
+activité exercée au 1er janvier de chaque année, à l'exception des courtiers et
+sociétés de courtage d'assurance et en réassurance mentionnés à l'article L.
+511-1 du code des assurances ainsi que des intermédiaires en opérations de
+banque et en services de paiement qui sont assujettis à une contribution pour
+frais de contrôle au titre de leur activité exercée au 1er avril de chaque
+année.
 
 Les personnes et organismes ayant leur siège social dans un autre Etat partie à
 l'accord sur l'Espace économique européen et exerçant leur activité en France
@@ -86,7 +91,7 @@ est compris entre :
 1° 0,40 et 0,80 ‰ pour les personnes mentionnées au A du II du présent article.
 Ce taux est fixé par arrêté du ministre chargé de l'économie ;
 
-2° 0,06 et 0,18 ‰ pour les entreprises mentionnées au B du II du présent
+2° 0,15 ‰ et 0,25 ‰ pour les entreprises mentionnées au B du II du présent
 article. Ce taux est fixé par arrêté des ministres chargés de l'économie, de la
 mutualité et de la sécurité sociale.
 
@@ -109,14 +114,21 @@ l'article L. 310-12 du code des assurances.
 V. ― La contribution est recouvrée de la manière suivante :
 
 1° L'Autorité de contrôle prudentiel envoie un appel à contribution à l'ensemble
-des personnes mentionnées au A et au C du II du présent article au plus tard le
-15 avril de chaque année. L'organisme qui tient le registre unique prévu à
-l'article L. 512-1 du code des assurances transmet à l'Autorité une liste,
-arrêtée au 1er janvier de chaque exercice, des courtiers et sociétés de courtage
-d'assurance, en assurance et en réassurance, mentionnés à l'article L. 511-1 du
-même code ainsi que des intermédiaires en opérations de banque et en services de
+des personnes mentionnées aux A et C du II du présent article au plus tard le 15
+avril de chaque année, à l'exception des courtiers et sociétés de courtage
+d'assurance et en réassurance mentionnés à l'article L. 511-1 du code des
+assurances et des intermédiaires en opérations de banque et en services de
 paiement. Les personnes concernées acquittent le paiement correspondant auprès
-de la Banque de France au plus tard le 30 juin de chaque année ;
+de la Banque de France au plus tard le 30 juin de chaque année.
+
+L'Autorité de contrôle prudentiel envoie un appel à contribution aux courtiers
+et sociétés de courtage d'assurance et en réassurance et aux intermédiaires en
+opérations de banque et en services de paiement au plus tard le 15 juin de
+chaque année. Pour ces personnes, l'organisme qui tient le registre mentionné à
+l'article L. 512-1 du code des assurances transmet à l'Autorité, au plus tard le
+15 mai, une liste des immatriculations arrêtée au 1er avril de chaque année. Les
+personnes concernées acquittent le paiement correspondant auprès de la Banque de
+France au plus tard le 30 août de chaque année ;
 
 2° Pour les personnes mentionnées au B du II du présent article, l'Autorité de
 contrôle prudentiel émet un avis demandant le versement d'un acompte

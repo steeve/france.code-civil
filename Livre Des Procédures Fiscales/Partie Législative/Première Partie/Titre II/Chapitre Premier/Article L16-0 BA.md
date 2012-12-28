@@ -5,9 +5,9 @@ D et L. 80 F, de la vérification sur place de la taxe sur la valeur ajoutée,
 ainsi que dans le cadre du contrôle inopiné mentionné au quatrième alinéa de
 l'article L. 47, les agents de l'administration des impôts ayant au moins le
 grade de contrôleur constatent pour un contribuable se livrant à une activité
-professionnelle et au titre de la période en cours pour laquelle l'une des
-obligations déclaratives prévues aux articles 170,172,223 et 287 du code général
-des impôts n'est pas échue, l'un au moins des faits suivants :
+professionnelle et au titre des périodes pour lesquelles l'une des obligations
+déclaratives prévues aux articles 170,172,223 et 287 du code général des impôts
+n'est pas échue, l'un au moins des faits suivants :
 
 1° L'exercice d'une activité que le contribuable n'a pas fait connaître à un
 centre de formalité des entreprises ou au greffe du tribunal de commerce, sauf
@@ -23,25 +23,27 @@ factures reçues ;
 
 3° Lorsqu'ils sont de nature à priver la comptabilité de valeur probante :
 
-a) La réitération d'opérations commerciales sans facture et non comptabilisées ;
+a) La réitération d'achats, de ventes ou de prestations non comptabilisés ;
 
 b) L'utilisation d'un logiciel de comptabilité ou de caisse aux fins de
 permettre la réalisation de l'un des faits mentionnés au 1° de l'article 1743 du
 code général des impôts ;
 
 4° Une infraction aux interdictions mentionnées à l'article L. 8221-1 du code du
-travail,
+travail ;
+
+5° L'absence réitérée du respect de l'obligation déclarative prévue au 2 de
+l'article 287 du code général des impôts,
 
 ils peuvent, en cas de circonstances susceptibles de menacer le recouvrement
 d'une créance fiscale de la nature de celle mentionnée au premier alinéa,
 dresser à l'encontre de ce contribuable un procès-verbal de flagrance fiscale.
-
 Le procès-verbal de flagrance fiscale est signé par les agents de
-l'administration des impôts ainsi que par le contribuable. En cas de refus de
-signer, mention en est faite au procès-verbal.
-
-L'original du procès-verbal est conservé par l'administration des impôts et
-copie est notifiée au contribuable.
+l'administration des impôts ainsi que par le contribuable, hormis les cas dans
+lesquels l'infraction mentionnée au 1 de l'article 1746 du code général des
+impôts a été constatée. En cas de refus de signer, mention en est faite au
+procès-verbal. L'original du procès-verbal est conservé par l'administration des
+impôts et copie est notifiée au contribuable.
 
 I bis. - Lorsque les agents mentionnés au premier alinéa du I sont informés,
 dans les conditions prévues au 1 de l'article 1649 quater-0 B bis du code
@@ -62,8 +64,25 @@ La décision de faire application du présent I bis est prise par un agent de
 catégorie A détenant au moins un grade fixé par décret en Conseil d'Etat, qui
 vise à cet effet le procès-verbal de flagrance fiscale.
 
+I ter. - Lorsqu'une infraction mentionnée au 4° du I a été constatée par des
+agents de contrôle autres que ceux de l'administration des impôts et que ces
+derniers en ont été informés dans les conditions prévues aux articles L. 82 C ou
+L. 101, ils peuvent, dans le cadre de l'une des procédures énumérées au premier
+alinéa du I du présent article, en cas de circonstances susceptibles de menacer
+le recouvrement d'une créance fiscale de la nature de celle mentionnée à ce même
+alinéa, dresser à l'encontre du contribuable un procès-verbal de flagrance
+fiscale.
+
+Le procès-verbal de flagrance fiscale est signé par les agents de
+l'administration des impôts ainsi que par le contribuable, hormis les cas dans
+lesquels l'infraction visée au 1 de l'article 1746 du code général des impôts a
+été constatée. En cas de refus de signer, mention en est faite au procès-verbal.
+
+L'original du procès-verbal est conservé par l'administration des impôts et
+copie est notifiée au contribuable.
+
 II.-La notification du procès-verbal de flagrance fiscale permet d'effectuer les
-saisies conservatoires mentionnées à l'article L. 252 B.
+mesures conservatoires mentionnées à l'article L. 252 B.
 
 III.-Lorsque le procès-verbal de flagrance fiscale a été dressé dans le cadre de
 la procédure prévue à l'article L. 16 B, l'administration peut, par dérogation
@@ -108,5 +127,5 @@ La décision du juge du référé est susceptible d'appel devant le tribunal
 administratif dans le délai de huit jours. Le tribunal se prononce en urgence.
 
 La décision du juge du référé ou du tribunal administratif ordonnant qu'il soit
-mis fin à la procédure entraîne la mainlevée immédiate des saisies
+mis fin à la procédure entraîne la mainlevée immédiate des mesures
 conservatoires éventuellement prises.

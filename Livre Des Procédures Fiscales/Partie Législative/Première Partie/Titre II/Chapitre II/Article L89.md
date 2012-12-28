@@ -3,9 +3,8 @@ Article L89
 Les entreprises et autres organismes d'assurance ainsi que que les courtiers,
 les agents généraux et autres intermédiaires d'assurances habilités doivent
 communiquer à l'administration, sur sa demande, les livres tenus en vertu de la
-législation relative au contrôle et à la surveillance des assurances, les
-polices ou copies de polices ainsi que le répertoire des opérations prévu à
-l'article 1002 du code général des impôts.
+législation relative au contrôle et à la surveillance des assurances ainsi que
+les polices ou copies de polices.
 
 Cette communication doit être faite tant au siège social que dans les
 succursales et agences.

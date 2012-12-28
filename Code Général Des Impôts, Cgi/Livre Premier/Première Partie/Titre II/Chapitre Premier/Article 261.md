@@ -278,6 +278,11 @@ gestion est désintéressée dans les conditions prévues au 1° ;
 1° ter les opérations effectuées par les associations agréées en application de
 l'article L. 7232-1 du code du travail, dans les conditions prévues au 1° ;
 
+1° quater Les prestations de services et les livraisons de biens qui leur sont
+étroitement liées, effectuées dans les lieux de vie et d'accueil mentionnés au
+III de l'article L. 312-1 du code de l'action sociale et des familles,
+conformément à leur objet ;
+
 2° (Abrogé) ;
 
 3° les ventes portant sur les articles fabriqués par des groupements d'aveugles

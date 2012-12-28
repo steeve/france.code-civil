@@ -17,10 +17,3 @@ redevables mentionnés au même 2 du I de l'article 885 W, par la réponse du
 redevable à la demande de l'administration prévue au a de l'article L. 23 A du
 présent livre, sans qu'il soit nécessaire de procéder à des recherches
 ultérieures.
-
-Pour les redevables de l'impôt de solidarité sur la fortune mentionnés audit 2,
-lorsque les obligations déclaratives incombant au redevable en application des
-articles 1649 A et 1649 AA du même code n'ont pas été respectées par le
-redevable, le délai prévu au premier alinéa du présent article n'est pas non
-plus opposable à l'administration pour les biens ou droits afférents aux
-obligations déclaratives qui n'ont pas été respectées.

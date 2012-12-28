@@ -22,11 +22,16 @@ des connexions à des services télématiques et des envois de minimessages qui
 sont liés à la diffusion de leurs programmes, à l'exception des programmes
 servant une grande cause nationale ou d'intérêt général ;
 
-2° Pour les distributeurs de services de télévision, des abonnements et autres
-sommes acquittés par les usagers en rémunération d'un ou plusieurs services de
-télévision, ainsi que des abonnements à des offres composites pour un prix
-forfaitaire incluant des services de télévision. Le produit de ces abonnements
-et autres sommes fait l'objet d'une déduction de 10 %. Lorsqu'une offre
-composite inclut également, pour un prix forfaitaire, un accès à des services de
-communication au public en ligne ou à des services de téléphonie, cette
-déduction est portée à 55 %.
+2° (1) Pour les distributeurs de services de télévision :
+
+a) Des abonnements et autres sommes acquittés par les usagers en rémunération
+d'un ou plusieurs services de télévision. Le produit de ces abonnements et
+autres sommes fait l'objet d'une déduction de 10 % ;
+
+b) Des abonnements et autres sommes acquittés par les usagers en rémunération de
+services souscrits dans le cadre d'offres destinées au grand public, composites
+ou de toute autre nature, donnant accès à des services de communication au
+public en ligne ou à des services de téléphonie, dès lors que la souscription à
+ces services permet de recevoir, au titre de cet accès, des services de
+télévision. Le produit de ces abonnements et autres sommes fait l'objet d'une
+déduction de 66 %.

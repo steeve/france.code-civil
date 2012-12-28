@@ -69,6 +69,34 @@ du département en 2010 ;
 b. Le taux global de taxe d'habitation comprend le taux des taxes spéciales
 d'équipement additionnelles à la taxe d'habitation ;
 
+b bis. Lorsque la procédure d'intégration fiscale progressive prévue à l'article
+1638 est appliquée, le taux global de taxe d'habitation constaté en 2000 sur le
+territoire des communes préexistantes est majoré, chaque année, de la différence
+positive entre le taux communal de taxe d'habitation issu de l'intégration
+fiscale progressive et le taux communal de taxe d'habitation de l'année
+précédant celle où la création prend fiscalement effet. Le taux issu de
+l'intégration fiscale progressive s'entend de celui défini la première année
+d'intégration, réduit chaque année d'un treizième de la différence mentionnée au
+deuxième alinéa du I de l'article 1638.
+
+La majoration prévue au premier alinéa du présent b bis s'applique lorsque :
+
+1° La différence positive définie au même premier alinéa résulte de
+l'homogénéisation des abattements appliqués pour le calcul de la taxe
+d'habitation ;
+
+2° Le taux communal de taxe d'habitation issu de l'intégration fiscale
+progressive pour l'année où la création prend fiscalement effet est supérieur au
+taux moyen pondéré harmonisé de l'ensemble des communes participant à
+l'opération. Ce taux moyen pondéré harmonisé est égal au rapport entre, d'une
+part, la somme des produits de taxe d'habitation perçus par les communes
+participant à l'opération au titre de l'année précédente et, d'autre part, la
+somme des bases correspondantes après application des abattements harmonisés.
+
+Pour l'application du présent b bis, le taux issu de l'intégration fiscale
+progressive s'entend du taux déterminé avant prise en compte, le cas échéant,
+des variations de taux décidées par la commune nouvelle.
+
 c. La réduction n'est pas applicable si elle est inférieure à 15 €.
 
 2. Lorsqu'une commune ou un établissement public de coopération intercommunale

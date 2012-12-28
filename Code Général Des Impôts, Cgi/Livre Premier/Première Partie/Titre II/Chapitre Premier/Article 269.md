@@ -22,6 +22,10 @@ manière continue sur une période supérieure à une année et qui ne donnent p
 lieu à des décomptes ou à des paiements durant cette période, à l'expiration de
 chaque année civile, tant qu'il n'est pas mis fin à la prestation de services ;
 
+a quinquies) Pour les livraisons et transferts mentionnés au I de l'article 262
+ter effectués de manière continue pendant une période de plus d'un mois civil, à
+l'expiration de chaque mois civil ;
+
 b) Pour les livraisons à soi-même d'immeubles visées au I de l'article 257, au
 moment de la livraison qui intervient lors du dépôt à la mairie de la
 déclaration prévue par la réglementation relative au permis de construire ;
@@ -73,8 +77,9 @@ c bis) Pour le bail à construction, lors de sa conclusion s'agissant de la
 valeur du droit de reprise visée au 5 de l'article 266 et, s'il y a lieu, lors
 de l'encaissement pour les loyers ;
 
-d) Pour les acquisitions intracommunautaires, le 15 du mois suivant celui au
-cours duquel s'est produit le fait générateur.
+d) Pour les acquisitions intracommunautaires et pour les livraisons et les
+transferts exonérés en application du I de l'article 262 ter, le 15 du mois
+suivant celui au cours duquel s'est produit le fait générateur.
 
 Toutefois, la taxe devient exigible lors de la délivrance de la facture, à
 condition qu'elle précède la date d'exigibilité prévue au premier alinéa et

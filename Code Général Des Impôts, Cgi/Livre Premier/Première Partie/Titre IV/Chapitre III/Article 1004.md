@@ -1,8 +1,8 @@
 Article 1004
 ----
 Les assureurs étrangers établis en dehors de l'Espace économique européen sont
-tenus, en outre, de faire agréer par le service des impôts un représentant
-français personnellement responsable de la taxe et des pénalités.
+tenus de faire agréer par le service des impôts un représentant français
+personnellement responsable de la taxe et des pénalités.
 
 Les agréments et les retraits des représentants responsables sont publiés au
 Journal Officiel, à la diligence du service des impôts. L'administration publie,

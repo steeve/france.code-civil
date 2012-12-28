@@ -1,6 +1,7 @@
 Article 133
 ----
-Sont affranchis de la retenue à la source :
+Sont affranchis de la retenue à la source prévue au 1 de l'article 119 bis et du
+prélèvement prévu au I de l'article 125 A :
 
 1° Les intérêts, arrérages et tous autres produits des emprunts négociables
 contractés à partir de l'entrée en vigueur de la loi du 29 décembre 1929 et
@@ -24,7 +25,7 @@ par les organismes entrant dans les prévisions de l'article 1er de l'arrêté d
 1941, que pour le compte de ces organismes (1) ;
 
 2° (abrogé à compter de la date d'entrée en vigueur de la loi n° 96-142 du 21
-février 1996, articles 1er, 11 et 12 30°, JO du du 24) ;
+février 1996, articles 1er, 11 et 12 30°) ;
 
 3° Les titres d'obligations négociables non cotées en bourse que les
 départements, communes, syndicats de communes et établissements publics ont émis

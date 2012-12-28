@@ -1,11 +1,11 @@
 Article 352
 ----
-1. Aucune personne n'est recevable à former, contre l'administration des
-douanes, des demandes en restitution de droits et de marchandises et paiements
-de loyers, trois ans après l'époque que les réclamateurs donnent aux paiements
-des droits, dépôts des marchandises et échéances des loyers, à l'exclusion des
-demandes formulées en application des articles 236 à 239 du code des douanes
-communautaire.
+1. Les demandes en restitution de droits et taxes perçus par l'administration
+des douanes, les demandes en paiement de loyers et les demandes en restitution
+de marchandises, à l'exclusion des demandes formulées en application des
+articles 236 à 239 du code des douanes communautaire, sont présentées à
+l'administration dans les délais et conditions fixées par décret en Conseil
+d'Etat.
 
 La réclamation mentionnée à l'alinéa précédent doit être présentée au directeur
 régional des douanes du lieu de paiement ou du lieu où se situent les

@@ -1,6 +1,7 @@
 Article 131
 ----
-Sont affranchis de la retenue à la source :
+Sont exonérés de la retenue à la source prévue au 1 de l'article 119 bis et du
+prélèvement prévu au I de l'article 125 A :
 
 1° à 4° (Dispositions périmées) ;
 

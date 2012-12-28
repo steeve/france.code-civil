@@ -1,11 +1,12 @@
 Article L213-10-8
 ----
-I.-Toute personne qui, dans le cadre d'une activité professionnelle ne relevant
-pas du II de l'article L. 254-6 du code rural et de la pêche maritime, acquiert
-un produit phytopharmaceutique au sens du 1 de l'article 2 du règlement (CE) n°
-1107/2009 ou une semence traitée au moyen de ces produits ou commande une
-prestation de traitement de semence au moyen de ces produits est assujettie à
-une redevance pour pollutions diffuses.
+I.-Les personnes, à l'exception de celles qui exercent une activité
+professionnelle relevant du 1° du II de l'article L. 254-1 ou du II de l'article
+L. 254-6 du code rural et de la pêche maritime, qui acquièrent un produit
+phytopharmaceutique au sens du 1 de l'article 2 du règlement (CE) n° 1107/2009
+ou une semence traitée au moyen de ces produits ou commande une prestation de
+traitement de semence au moyen de ces produits sont assujetties à une redevance
+pour pollutions diffuses.
 
 II.-L'assiette de la redevance est la masse de substances contenues dans les
 produits mentionnés au I et classées, en application du règlement (CE) n°
@@ -63,29 +64,25 @@ registre prévu à l'article L. 254-3-1 du même code. Le fait générateur est 
 l'acquisition, à titre onéreux ou gratuit, des produits ou des semences traitées
 ou la commande d'un traitement de semence auprès d'un prestataire de service.
 
-Les distributeurs mentionnés au I font apparaître le montant de la redevance
-qu'ils ont acquittée au titre du produit distribué sur leurs factures, à
-l'exception des produits distribués portant la mention " emploi autorisé dans
-les jardins ". Les registres prévus à l'article L. 254-3-1 et à l'article L.
-254-6 du code rural et de la pêche maritime mentionnent également les éléments
-nécessaires au calcul de l'assiette de la redevance et, le cas échéant, les
-destinataires des factures et les montants de redevance correspondants. Ces
-registres sont mis à disposition des agences de l'eau et de l'autorité
-administrative.
+Les distributeurs de produits phytopharmaceutiques font apparaître le montant de
+la redevance qu'ils ont acquittée au titre du produit distribué sur leurs
+factures, à l'exception des produits distribués portant la mention " emploi
+autorisé dans les jardins ". Les registres prévus à l'article L. 254-3-1 et à
+l'article L. 254-6 du code rural et de la pêche maritime mentionnent également
+les éléments nécessaires au calcul de l'assiette de la redevance et, le cas
+échéant, les destinataires des factures et les montants de redevance
+correspondants. Ces registres sont mis à disposition des agences de l'eau et de
+l'autorité administrative.
 
-V.-La fraction du produit annuel de la redevance, comprenant le montant dû au
-titre de l'année précédente et l'acompte versé au titre de l'année en cours,
-excédant le montant de la redevance perçue à raison des ventes réalisées au
-cours de la période du 1er janvier au 31 décembre 2008, est affectée à l'Office
-national de l'eau et des milieux aquatiques au plus tard le 1er septembre de
-chaque année, afin de mettre en œuvre le programme national arrêté par le
-ministre chargé de l'agriculture, visant à la réduction de l'usage des
-pesticides dans l'agriculture et à la maîtrise des risques y afférents, en
-particulier à travers des actions d'information des utilisateurs de produits
-phytopharmaceutiques, des actions de mise au point et de généralisation de
-systèmes agricoles permettant de réduire l'utilisation des pesticides, des
-programmes et réseaux de surveillance sur les bio-agresseurs et sur les effets
-non intentionnels de l'utilisation des pesticides, notamment en zone agricole.
+V. ― Entre 2012 et 2018, il est effectué un prélèvement annuel sur le produit de
+la redevance au profit de l'Office national de l'eau et des milieux aquatiques
+afin de mettre en œuvre le programme national visant à la réduction de l'usage
+des pesticides dans l'agriculture et à la maîtrise des risques y afférents. Ce
+prélèvement, plafonné à 41 millions d'euros, est réparti entre les agences de
+l'eau proportionnellement au produit annuel qu'elles tirent de cette redevance.
+Ces contributions sont liquidées, ordonnancées et recouvrées, selon les
+modalités prévues pour les recettes des établissements publics de l'Etat, avant
+le 1er septembre de chaque année.
 
 VI.-Un décret en Conseil d'Etat précise les modalités d'application du présent
 article.

@@ -11,7 +11,7 @@ Ces agents ont compétence pour rechercher et constater, sur l'ensemble du
 territoire national, les infractions prévues par les articles 1741 et 1743 du
 code général des impôts lorsqu'il existe des présomptions caractérisées que les
 infractions prévues par ces articles résultent d'une des conditions prévues aux
-1° à 3° de l'article L. 228 du livre des procédures fiscales, ainsi que les
+1° à 5° de l'article L. 228 du livre des procédures fiscales, ainsi que les
 infractions qui leur sont connexes.
 
 II.-Les agents des services fiscaux désignés dans les conditions prévues au I
@@ -26,7 +26,7 @@ des conditions fixées par décret en Conseil d'Etat.
 Dans le mois qui suit la notification de la décision de suspension ou de retrait
 de l'habilitation, l'agent concerné peut demander au procureur général de
 rapporter cette décision. Le procureur général doit statuer dans un délai d'un
-mois.A défaut, son silence vaut rejet de la demande. Dans un délai d'un mois à
+mois. A défaut, son silence vaut rejet de la demande. Dans un délai d'un mois à
 partir du rejet de la demande, l'agent concerné peut former un recours devant la
 commission prévue à l'article 16-2 du présent code. La procédure applicable
 devant cette commission est celle prévue par l'article 16-3 et ses textes

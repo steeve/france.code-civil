@@ -21,21 +21,20 @@ de la notification de l'avis rendu par cette commission.
 
 Sont instruites et jugées selon les règles du présent chapitre toutes actions
 tendant à la décharge ou à la réduction d'une imposition ou à l'exercice de
-droits à déduction, fondées sur la non-conformité de la règle de droit dont il a
-été fait application à une règle de droit supérieure.
+droits à déduction ou à la restitution d'impositions indues, fondées sur la
+non-conformité de la règle de droit dont il a été fait application à une règle
+de droit supérieure, révélée par une décision juridictionnelle ou par un avis
+rendu au contentieux.
 
-Lorsque cette non-conformité a été révélée par une décision juridictionnelle ou
-un avis rendu au contentieux, l'action en restitution des sommes versées ou en
-paiement des droits à déduction non exercés ou l'action en réparation du
-préjudice subi ne peut porter que sur la période postérieure au 1er janvier de
-la troisième année précédant celle où la décision ou l'avis révélant la
-non-conformité est intervenu (1).
+Ces actions sont introduites selon les règles de délais applicables aux
+réclamations mentionnées au premier alinéa. Un décret en Conseil d'Etat fixe les
+conditions d'application du présent alinéa.
 
-Pour l'application du quatrième alinéa, sont considérés comme des décisions
+Pour l'application du troisième alinéa, sont considérés comme des décisions
 juridictionnelles ou des avis rendus au contentieux les décisions du Conseil
 d'Etat ainsi que les avis rendus en application de l'article L. 113-1 du code de
 justice administrative, les arrêts de la Cour de cassation ainsi que les avis
 rendus en application de l'article L. 441-1 du code de l'organisation judiciaire
-(2), les arrêts du Tribunal des conflits et les arrêts de la Cour de justice des
-Communautés européennes se prononçant sur un recours en annulation, sur une
-action en manquement ou sur une question préjudicielle.
+(2), les arrêts du Tribunal des conflits et les arrêts de la Cour de justice de
+l'Union européenne se prononçant sur un recours en annulation, sur une action en
+manquement ou sur une question préjudicielle.

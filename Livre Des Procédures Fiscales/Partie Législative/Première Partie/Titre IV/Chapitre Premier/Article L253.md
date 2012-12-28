@@ -10,6 +10,10 @@ L'avis d'imposition mentionne le total par nature d'impôt des sommes à
 acquitter, les conditions d'exigibilité, la date de mise en recouvrement et la
 date limite de paiement.
 
+Par dérogation au premier alinéa et pour le contribuable qui en fait
+expressément la demande, ses avis d'imposition sont exclusivement disponibles
+sous forme dématérialisée dans son compte fiscal en ligne.
+
 Les avis d'imposition des contribuables des communes soumises aux prélèvements
 prévus à l'article L 2531-13 du code général des collectivités territoriales
 mentionnent le montant de la contribution de leur commune au fonds de solidarité

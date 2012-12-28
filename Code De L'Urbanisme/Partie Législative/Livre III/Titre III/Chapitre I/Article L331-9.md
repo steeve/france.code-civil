@@ -25,3 +25,9 @@ présent code ;
 
 5° Les immeubles classés parmi les monuments historiques ou inscrits à
 l'inventaire supplémentaire des monuments historiques.
+
+6° Les surfaces annexes à usage de stationnement des locaux mentionnés au 1° et
+ne bénéficiant pas de l'exonération totale ;
+
+7° Les surfaces des locaux annexes à usage de stationnement des immeubles autres
+que d'habitations individuelles.

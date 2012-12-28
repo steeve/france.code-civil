@@ -11,9 +11,12 @@ s'approvisionner en tabacs manufacturés exclusivement auprès des débitants
 désignés ci-dessus.
 
 Un débitant de tabac ne peut gérer son activité que sous la forme juridique de
-l'exploitation individuelle ou de la société en nom collectif, dont tous les
-associés sont des personnes physiques. Les conditions d'exploitation du débit de
-tabac sont fixées par décret.
+l'exploitation individuelle ou de la société en nom collectif dont tous les
+associés sont des personnes physiques. Cette dernière condition n'est cependant
+pas exigée du débitant de tabac bénéficiant d'une autorisation d'occupation du
+domaine public. Dans ce cas, le débitant peut être une société en nom collectif
+comportant des associés personnes morales. Les conditions d'exploitation du
+débit de tabac sont fixées par décret.
 
 Dans l'hypothèse où l'activité est exercée sous forme de société en nom
 collectif :
@@ -32,7 +35,7 @@ par décret.
 
 Le droit de licence mentionné au premier alinéa est de 20,44 % de la remise
 mentionnée au 3° du I de l'article 570 pour les cigares et cigarillos et de
-20,84 % de la même remise pour les autres produits du tabac. Le droit de licence
+20,60 % de la même remise pour les autres produits du tabac. Le droit de licence
 est exigible à la livraison des tabacs manufacturés au débitant. Il est liquidé
 par les fournisseurs mentionnés au 1 de l'article 565, au plus tard le 25 de
 chaque mois, sur la base d'une déclaration des quantités livrées au débitant au

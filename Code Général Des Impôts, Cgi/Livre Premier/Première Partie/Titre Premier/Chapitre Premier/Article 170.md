@@ -23,16 +23,18 @@ l'article 204-0 bis pour lesquelles l'option prévue au III du même article n'a
 pas été exercée, les revenus de la nature et de l'origine de ceux mentionnés au
 2°, sous réserve du 3°, et au 4° du 3 de l'article 158 perçus dans un plan
 d'épargne en actions ainsi que le montant des produits de placement soumis aux
-prélèvements libératoires prévus aux articles 117 quater et 125 A, le montant
-des prestations de retraite soumis au prélèvement libératoire prévu au II de
-l'article 163 bis, le montant des plus-values en report d'imposition en
-application du I de l'article
-
-150-0 D bis, les revenus exonérés en application des articles 163 quinquies B à
-163 quinquies C bis , le montant des plus-values exonérées en application du 1°
-bis du II de l'article 150 U, les plus-values exonérées en application du 3 du I
-et des 1,1 bis et 7 du III de l'article 150-0 A et le montant net imposable des
-plus-values mentionnées aux articles 150 U à 150 UD.
+prélèvements libératoires prévus au II de l'article 125-0 A et aux I bis, II,
+III, second alinéa du 4° et deuxième alinéa du 9° du III bis de l'article 125 A
+(2), le montant des prestations de retraite soumis au prélèvement libératoire
+prévu au II de l'article 163 bis, le montant des plus-values en report
+d'imposition en application de l'article 150-0 B ter et du I de l'article 150-0
+D bis, le montant de l'abattement mentionné à l'article 150-0 D ter, le montant
+des plus-values soumises au prélèvement prévu à l'article 244 bis B (1), les
+revenus exonérés en application des articles 163 quinquies B à 163 quinquies C
+bis , le montant des plus-values exonérées en application du 1° bis du II de
+l'article 150 U, les plus-values exonérées en application du 3 du I et des 1, 1
+bis et 7 du III de l'article 150-0 A et le montant net imposable des plus-values
+mentionnées aux articles 150 U à 150 UD.
 
 1 bis. Les époux doivent conjointement signer la déclaration d'ensemble des
 revenus de leur foyer.

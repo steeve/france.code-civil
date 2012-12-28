@@ -112,20 +112,33 @@ dépasser 0,9 % ;
 d) Pour les prestataires de services d'investissement habilités à exercer le
 service d'investissement mentionné au 4 de l'article L. 321-1 ainsi que pour les
 personnes mentionnées aux 7° et 8° du II de l'article L. 621-9, la contribution
-est fixée à un montant égal à l'encours des parts ou actions des organismes de
-placements collectifs et des entités d'investissement de droit étranger, et des
-actifs gérés sous mandat, quel que soit le pays où les actifs sont conservés ou
-inscrits en compte, multiplié par un taux fixé par décret qui ne peut excéder
-0,015 pour mille sans pouvoir être inférieur à 1 500 euros. Les encours sont
-calculés au 31 décembre de l'année précédente et déclarés au plus tard le 30
-avril ;
+est fixée à un montant égal à l'encours des parts, des actions ou des titres de
+créance émis par les organismes de placements collectifs et des entités
+d'investissement de droit étranger, et des actifs gérés sous mandat, quel que
+soit le pays où les actifs sont conservés ou inscrits en compte, multiplié par
+un taux fixé par décret qui ne peut excéder 0,015 pour mille sans pouvoir être
+inférieur à 1 500 euros. Les encours sont calculés au 31 décembre de l'année
+précédente et déclarés au plus tard le 30 avril ;
+
+e) Pour les sociétés de gestion dont le siège social est établi sur le
+territoire d'un Etat partie à l'accord sur l'Espace économique européen autre
+que la France qui gèrent des organismes de placement collectif en valeurs
+mobilières de droit français agréés conformément à la directive 2009/65/ CE du
+Parlement européen et du Conseil du 13 juillet 2009 portant coordination des
+dispositions législatives, réglementaires et administratives concernant certains
+organismes de placement collectif en valeurs mobilières (OPCVM), la contribution
+est fixée à l'encours global des parts ou des actions de ces organismes de
+placement collectif en valeurs mobilières, multiplié par un taux fixé par
+décret, qui ne peut excéder 0,015 ‰ sans pouvoir être inférieur à 1 500 €. Les
+encours sont calculés au 31 décembre de l'année précédente et déclarés au plus
+tard le 30 avril ;
 
 4° Dans le cadre du contrôle des personnes mentionnées au 10° du II de l'article
 L. 621-9, cette contribution est égale à un montant fixé par décret et supérieur
 à 400 euros et inférieur ou égal à 1 000 euros. L'organisme qui tient le
 registre unique prévu à l'article L. 512-1 du code des assurances transmet à
 l'Autorité des marchés financiers une liste arrêtée au 1er janvier de chaque
-exercice de ces personnes.
+exercice de ces personnes (1).
 
 5° Dans le cadre du contrôle des personnes mentionnées au 16° du II de l'article
 L. 621-9, cette contribution est calculée comme suit :

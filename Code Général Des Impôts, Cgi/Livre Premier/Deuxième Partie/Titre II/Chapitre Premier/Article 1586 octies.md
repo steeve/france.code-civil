@@ -29,6 +29,11 @@ des véhicules ou, s'il n'en existe pas, au local où ils sont entretenus ou
 réparés par le redevable ; à défaut, les effectifs sont déclarés au principal
 établissement de l'entreprise.
 
+Par exception aux deuxième et troisième alinéas du présent 1, la déclaration des
+entreprises de transport national ferroviaire mentionne leurs effectifs par
+établissement, au prorata de la valeur locative foncière imposée à la cotisation
+foncière des entreprises de ces établissements.
+
 Un décret précise les conditions d'application du présent 1.
 
 2. En cas de transmission universelle du patrimoine mentionnée à l'article

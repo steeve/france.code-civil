@@ -52,7 +52,7 @@ au calcul du prélèvement. La forme de la déclaration et son contenu sont fix�
 conformément aux dispositions du 4 de l'article 95.
 
 VI.-Les dispositions du présent article ne s'appliquent dans les départements
-d'outre-mer qu'à compter du 1er janvier 2013.
+d'outre-mer qu'à compter du 1er janvier 2016.
 
 En cas de cessation d'activité, le prélèvement est liquidé dans les conditions
 prévues au troisième alinéa de l'article 266 undecies.

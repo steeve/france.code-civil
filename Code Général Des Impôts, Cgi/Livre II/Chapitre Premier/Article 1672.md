@@ -1,8 +1,8 @@
 Article 1672
 ----
 1. La retenue à la source prévue au 1 de l'article 119 bis est payée par la
-personne qui effectue la distribution, à charge par elle d'en retenir le montant
-sur les sommes versées aux bénéficiaires desdits revenus.
+personne qui effectue la distribution, à charge pour elle d'en retenir le
+montant sur les sommes versées aux bénéficiaires desdits revenus.
 
 2. La retenue à la source prévue au 2 de l'article 119 bis est versée au Trésor
 par la personne établie en France qui assure le paiement des revenus.

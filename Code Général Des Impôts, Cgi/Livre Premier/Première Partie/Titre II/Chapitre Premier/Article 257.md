@@ -56,8 +56,7 @@ l'article 278 sexies ;
 256 A, par toute personne, dès lors assujettie à la taxe sur la valeur ajoutée à
 ce titre :
 
-a) La livraison d'un immeuble neuf lorsque le cédant avait au préalable acquis
-l'immeuble cédé comme immeuble à construire ;
+a) (abrogé) ;
 
 b) La livraison à soi-même de logements visés au II de l'article 278 sexies.
 

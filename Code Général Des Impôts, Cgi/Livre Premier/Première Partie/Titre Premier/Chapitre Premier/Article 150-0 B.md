@@ -1,12 +1,12 @@
 Article 150-0 B
 ----
-Les dispositions de l'article 150-0 A ne sont pas applicables, au titre de
-l'année de l'échange des titres, aux plus-values réalisées dans le cadre d'une
-opération d'offre publique, de fusion, de scission, d'absorption d'un fonds
-commun de placement par une société d'investissement à capital variable, de
-conversion, de division, ou de regroupement, réalisée conformément à la
-réglementation en vigueur ou d'un apport de titres à une société soumise à
-l'impôt sur les sociétés.
+Sous réserve des dispositions de l'article 150-0 B ter, les dispositions de
+l'article 150-0 A ne sont pas applicables, au titre de l'année de l'échange des
+titres, aux plus-values réalisées dans le cadre d'une opération d'offre
+publique, de fusion, de scission, d'absorption d'un fonds commun de placement
+par une société d'investissement à capital variable, de conversion, de division,
+ou de regroupement, réalisée conformément à la réglementation en vigueur ou d'un
+apport de titres à une société soumise à l'impôt sur les sociétés.
 
 Ces dispositions s'appliquent aux opérations d'échange ou d'apport de titres
 mentionnées au premier alinéa réalisées en France, dans un autre Etat membre de

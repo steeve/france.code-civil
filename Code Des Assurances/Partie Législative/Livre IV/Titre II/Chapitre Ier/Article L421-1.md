@@ -78,20 +78,25 @@ réparation. Les versements effectués au profit des victimes ou de leurs ayants
 droit et qui ne peuvent pas donner lieu à une action récursoire contre le
 responsable des dommages ne sont pas considérés comme une indemnisation à un
 autre titre. IV. - Le fonds de garantie est également chargé de gérer et de
-financer, à compter de l'exercice 2003, les majorations de rentes prévues à
-l'article 1er de la loi n° 74-1118 du 27 décembre 1974 relative à la
-revalorisation de certaines rentes allouées en réparation du préjudice causé par
-un véhicule terrestre à moteur et portant diverses dispositions d'ordre civil et
-à l'article 1er de la loi n° 51-695 du 24 mai 1951 portant majoration de
-certaines rentes viagères et pensions, au titre des états justificatifs
-certifiés. Les créances relatives aux majorations de rentes visées au présent
-alinéa se prescrivent dans un délai de quatre ans à partir du premier jour de
-l'année suivant celle au cours de laquelle les droits ont été acquis. Le fonds
-peut contrôler sur pièces et sur place l'exactitude des renseignements fournis
-par les organismes débirentiers. V. - Le fonds de garantie peut financer, selon
-des modalités et dans des limites fixées par décret en Conseil d'Etat, des
-actions visant à réduire le nombre des accidents de la circulation et à prévenir
-l'absence d'assurance de responsabilité civile automobile.
+financer, pour les rentes allouées au titre des accidents survenus avant le 1er
+janvier 2013, les majorations de rentes prévues à l'article 1er de la loi n°
+74-1118 du 27 décembre 1974 relative à la revalorisation de certaines rentes
+allouées en réparation du préjudice causé par un véhicule terrestre à moteur et
+portant diverses dispositions d'ordre civil et à l'article 1er de la loi n°
+51-695 du 24 mai 1951 portant majoration de certaines rentes viagères et
+pensions, au titre des états justificatifs certifiés. Les créances relatives aux
+majorations de rentes visées au présent alinéa se prescrivent dans un délai de
+quatre ans à partir du premier jour de l'année suivant celle au cours de
+laquelle les droits ont été acquis. Le fonds peut contrôler sur pièces et sur
+place l'exactitude des renseignements fournis par les organismes débirentiers.
+La gestion de cette mission par le fonds fait l'objet d'une comptabilité séparée
+des autres missions, selon des modalités fixées par arrêté du ministre chargé de
+l'économie.
+
+V. - Le fonds de garantie peut financer, selon des modalités et dans des limites
+fixées par décret en Conseil d'Etat, des actions visant à réduire le nombre des
+accidents de la circulation et à prévenir l'absence d'assurance de
+responsabilité civile automobile.
 
 VI. - Le fonds de garantie est l'organisme chargé des missions mentionnées aux
 articles L. 424-1 à L. 424-7.

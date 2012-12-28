@@ -22,5 +22,7 @@ La redevance est perçue par l'agence de l'eau auprès de l'exploitant du servic
 assurant la facturation de la redevance d'assainissement en même temps que
 celle-ci. L'exploitant facture la redevance aux personnes visées au premier
 alinéa dans des conditions administratives et financières fixées par décret. Le
-recouvrement de la redevance auprès de l'assujetti est réalisé comme en matière
-de redevance perçue par le service d'assainissement.
+recouvrement de la redevance est assuré en phases amiable et contentieuse auprès
+de l'assujetti par le service assurant la facturation de la redevance
+d'assainissement mentionnée à l'article L. 2224-12-3 du code général des
+collectivités territoriales.

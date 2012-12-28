@@ -1,9 +1,10 @@
 Article 374
 ----
 1. La confiscation des marchandises saisies peut être poursuivie contre les
-conducteurs ou déclarants sans que l'administration des douanes soit tenue de
-mettre en cause les propriétaires quand même ils lui seraient indiqués.
+conducteurs ou déclarants.
 
-2. Toutefois, si les propriétaires intervenaient ou étaient appelés en garantie
-par ceux sur lesquels les saisies ont été faites, les tribunaux statueront,
-ainsi que de droit, sur les interventions ou sur les appels en garantie.
+2. Lorsque leur propriétaire est connu, la confiscation des marchandises
+saisies, à l'exception de celles qui sont prohibées au titre de la
+réglementation douanière, ne peut être poursuivie qu'en cas de mise en cause de
+ce dernier devant la juridiction répressive appelée à se prononcer sur
+l'instance.

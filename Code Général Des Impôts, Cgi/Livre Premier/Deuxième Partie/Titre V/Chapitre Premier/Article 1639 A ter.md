@@ -14,7 +14,7 @@ public de coopération intercommunale.
 
 Les dispositions du deuxième alinéa sont également applicables aux délibérations
 prises en matière de cotisation foncière des entreprises pour l'application des
-dispositions de l'article 1609 nonies C ou du 1 du II de l'article 1609
+dispositions de l'article 1609 nonies C ou du I et du 1 du II de l'article 1609
 quinquies C, par un établissement public de coopération intercommunale dissous,
 lorsque les communes appartenant à ces établissements publics de coopération
 intercommunale deviennent membres d'un établissement public de coopération
@@ -95,7 +95,7 @@ délibérations adoptées antérieurement par chaque établissement public de
 coopération intercommunale préexistant :
 
 a. Sont maintenues pour leur durée et leur quotité lorsqu'elles sont prises en
-application des articles 1464 B, 1464 D, 1464 I,1465,1465 A,1465 B, du I de
+application des articles 1464 B, 1464 D, 1464 I, 1465, 1465 A,1465 B, du I de
 l'article 1466 A et des articles 1466 C et 1466 F, et que les dispositions
 prévues par ces articles sont en cours d'application ou sont applicables pour la
 première fois l'année suivant celle de la fusion. Lorsque le nouvel

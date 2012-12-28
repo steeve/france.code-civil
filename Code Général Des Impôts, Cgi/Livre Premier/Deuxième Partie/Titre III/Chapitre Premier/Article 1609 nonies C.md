@@ -38,7 +38,22 @@ bâties, prévue à l'article 1519 I.
 l'établissement public de coopération intercommunale, du reversement du Fonds
 national de garantie individuelle des ressources communales et intercommunales
 prévu au 2.1 de l'article 78 de la loi n° 2009-1673 du 30 décembre 2009 de
-finances pour 2010.
+finances pour 2010, à l'exclusion de la fraction calculée selon les conditions
+prévues aux 1° et 2° du a du D du IV du même 2.1.
+
+4. Le cas échéant, sur délibérations concordantes des communes membres et de
+l'établissement public de coopération intercommunale, de la dotation de
+compensation de la réforme de la taxe professionnelle calculée conformément aux
+II et III du 1.1 de l'article 78 de la loi n° 2009-1673 du 30 décembre 2009
+précitée, à l'exclusion de la part calculée dans les conditions prévues aux a et
+b du D du IV du même 1.1.
+
+I ter. - Le cas échéant, sur délibérations concordantes des communes membres et
+de l'établissement public de coopération intercommunale, le prélèvement sur les
+ressources calculé selon les conditions prévues aux II et III du 2.1 de
+l'article 78 de la loi n° 2009-1673 du 30 décembre 2009 précitée peut être mis à
+la charge de cet établissement public, à l'exclusion de la part calculée selon
+les conditions prévues aux 1° et 2° du a du D du IV du même 2.1.
 
 II.-Le conseil des établissements publics de coopération intercommunale
 mentionnés au I vote les taux de la taxe d'habitation, de la taxe foncière sur
@@ -214,13 +229,13 @@ des transferts de charges.
 A défaut d'accord unanime, le montant de l'attribution est fixé dans les
 conditions figurant aux 2°, 4° et 5° ;
 
-2° L'attribution de compensation est égale à la somme des produits mentionnés
-aux I et I bis et du produit de la taxe sur les surfaces commerciales prévue à
-l'article 3 de la loi n° 72-657 du 13 juillet 1972 instituant des mesures en
-faveur de certaines catégories de commerçants et artisans âgés, perçus par la
-commune l'année précédant celle de la première application du présent article,
-diminuée du coût net des charges transférées calculé dans les conditions
-définies au IV.
+2° L'attribution de compensation est égale à la somme des produits mentionnés au
+I et aux 1 et 2 du I bis et du produit de la taxe sur les surfaces commerciales
+prévue à l'article 3 de la loi n° 72-657 du 13 juillet 1972 instituant des
+mesures en faveur de certaines catégories de commerçants et artisans âgés,
+perçus par la commune l'année précédant celle de la première application du
+présent article, diminuée du coût net des charges transférées calculé dans les
+conditions définies au IV.
 
 L'attribution de compensation est majorée du montant perçu par la commune la
 même année, d'une part, au titre de la part de la dotation forfaitaire prévue à
@@ -272,10 +287,7 @@ cette modification, par l'établissement public de coopération intercommunale
 auquel elle a cessé d'appartenir, au titre de la part de la dotation de
 compensation prévue à l'article L. 5211-28-1 du code général des collectivités
 territoriales correspondant au montant antérieurement versé en application du I
-du D de l'article 44 de la loi de finances pour 1999 précitée. L'organe
-délibérant de l'établissement public de coopération intercommunale transmet
-chaque année au représentant de l'Etat dans le département un rapport sur
-l'application de la première phrase du septième alinéa.
+du D de l'article 44 de la loi de finances pour 1999 précitée.
 
 L'attribution de compensation est recalculée, dans les conditions prévues au IV,
 lors de chaque transfert de charge.
@@ -294,76 +306,112 @@ celle de la première application de ces dispositions.
 Cette attribution est recalculée dans les conditions prévues au IV lors de
 chaque nouveau transfert de charges. Elle ne peut être indexée.
 
-5° Lorsque, en application de l'article 1638-0 bis, il est fait application du
-présent article à un établissement public de coopération intercommunale issu
-d'une fusion réalisée dans les conditions prévues par l'article L. 5211-41-3 du
-code général des collectivités territoriales, l'attribution de compensation
-versée chaque année aux communes membres qui étaient antérieurement membres d'un
-établissement public de coopération intercommunale soumis au présent article est
-égale à celle que lui versait cet établissement public de coopération
-intercommunale avant la fusion, sauf accord adopté à la majorité qualifiée des
-trois cinquièmes par les communautés d'agglomération mères et approuvé par
-l'Etat sur un protocole financier général harmonisant les attributions de
-compensation et les relations financières entre la communauté fusionnée et les
-communes, les conditions de reprise des dettes des communautés mères, les
-formules d'amortissement des investissements et les procédures comptables.
-Lorsque la fusion s'accompagne d'un transfert ou d'une restitution de
-compétences, cette attribution de compensation est respectivement diminuée ou
-majorée du montant net des charges transférées calculé dans les conditions
-définies au IV. A titre dérogatoire, les établissements publics de coopération
-intercommunale issus d'une fusion ou d'une modification de périmètre au 1er
-janvier 2010 et les conseils municipaux de leurs communes membres peuvent, par
+5° A. - Lorsqu'à la suite d'une fusion réalisée dans les conditions prévues à
+l'article L. 5211-41-3 du code général des collectivités territoriales, un
+établissement public de coopération intercommunale fait application du régime
+prévu au présent article et des dispositions de l'article 1638-0 bis,
+l'attribution de compensation versée ou perçue à compter de l'année où
+l'opération de fusion produit pour la première fois ses effets au plan fiscal
+est égale :
+
+a) Pour les communes qui étaient antérieurement membres d'un établissement
+public de coopération intercommunale soumis au présent article : à l'attribution
+de compensation que versait ou percevait cet établissement public de coopération
+intercommunale l'année précédant celle où cette opération a produit pour la
+première fois ses effets au plan fiscal, sous réserve des dispositions de
+l'avant-dernier alinéa du 2° du présent V. Il peut être dérogé au présent a,
+uniquement la première année d'existence du nouvel établissement public de
+coopération intercommunale, en cas de révision librement décidée par
 délibérations concordantes prises à la majorité qualifiée prévue au premier
 alinéa du II de l'article L. 5211-5 du code général des collectivités
-territoriales, procéder, dans les cinq ans qui suivent la publication de la loi
-n° 2009-1673 du 30 décembre 2009 de finances pour 2010, à la révision du montant
-de l'attribution de compensation.
+territoriales. Cette révision ne peut pas avoir pour effet de minorer ou de
+majorer l'attribution de compensation de plus de 5 % de son montant ;
 
-L'attribution de compensation versée chaque année aux communes membres qui
-étaient antérieurement membres d'un établissement public de coopération
-intercommunale ne faisant pas application des dispositions du présent article
-est calculée conformément au 2°. Lorsque la fusion s'accompagne d'un transfert
-ou d'une restitution de compétences, cette attribution de compensation est
-respectivement diminuée ou majorée du montant net des charges tranférées calculé
-dans les conditions définies au IV.
+b) Pour les communes qui étaient antérieurement membres d'un établissement
+public de coopération intercommunale ne faisant pas application du présent
+article : au montant calculé conformément au 2° du présent V.
 
-L'attribution de compensation versée chaque année aux communes membres qui
+Lorsque la fusion s'accompagne d'un transfert ou d'une restitution de
+compétences, cette attribution de compensation est respectivement diminuée ou
+majorée du montant net des charges transférées, calculé dans les conditions
+définies au IV.
+
+Un protocole financier général définit les modalités de détermination des
+attributions de compensation et les relations financières entre l'établissement
+public de coopération intercommunale fusionné et les communes, les conditions de
+reprise des dettes des établissements publics à fiscalité propre préexistants,
+les formules d'amortissement des investissements et les procédures comptables.
+
+A titre dérogatoire, les établissements publics de coopération intercommunale
+issus d'une fusion ou d'une modification de périmètre au 1er janvier 2010 et les
+conseils municipaux de leurs communes membres peuvent, par délibérations
+concordantes prises à la majorité qualifiée prévue au premier alinéa du II de
+l'article L. 5211-5 du code général des collectivités territoriales, procéder,
+avant le 31 décembre 2014, à la révision du montant de l'attribution de
+compensation.
+
+B. - Lorsque, dans le cadre d'une modification de périmètre, de l'adhésion
+individuelle d'une commune ou d'une transformation dans les conditions prévues
+aux articles L. 5211-41-1 et L. 5214-26 du même code, un établissement public de
+coopération intercommunale est soumis au régime prévu au présent article et
+qu'il est fait application des dispositions de l'article 1638 quater du présent
+code, l'attribution de compensation versée ou perçue à compter de l'année où les
+opérations précitées ont produit pour la première fois leurs effets au plan
+fiscal est égale à :
+
+a) Pour les communes qui étaient antérieurement membres d'un établissement
+public de coopération intercommunale soumis au présent article : à l'attribution
+de compensation que versait ou percevait cet établissement public de coopération
+intercommunale l'année précédant celle où les opérations précitées ont produit
+pour la première fois leurs effets au plan fiscal, sous réserve des dispositions
+de l'avant-dernier alinéa du 2° du présent V. Il peut être dérogé au présent a,
+uniquement la première année d'existence du nouvel établissement public de
+coopération intercommunale, en cas de révision librement décidée par
+délibérations concordantes prises à la majorité qualifiée prévue au premier
+alinéa du II de l'article L. 5211-5 du code général des collectivités
+territoriales. Cette révision ne peut pas avoir pour effet de minorer ou de
+majorer l'attribution de compensation de plus de 5 % de son montant ;
+
+b) Pour les communes qui étaient antérieurement membres d'un établissement
+public de coopération intercommunale ne faisant pas application du présent
+article : au montant calculé conformément au 2° du présent V.
+
+Lorsque l'adhésion d'une commune s'accompagne d'un transfert ou d'une
+restitution de compétences, cette attribution de compensation est respectivement
+diminuée ou majorée du montant net des charges transférées calculé dans les
+conditions définies au IV.
+
+C. - L'attribution de compensation versée chaque année aux communes membres qui
 étaient antérieurement membres d'un syndicat d'agglomération nouvelle est égale
 à la dotation de coopération définie à l'article L. 5334-8 du code général des
-collectivités territoriales perçue l'année de la fusion. Lorsque la fusion
+collectivités territoriales perçue l'année de la fusion.
+
+Lorsque l'adhésion à un établissement public de coopération intercommunale
 s'accompagne d'un transfert ou d'une restitution de compétences, l'attribution
 de compensation est respectivement diminuée ou majorée du montant net des
-charges transférées calculé dans les conditions définies au IV.
+charges transférées calculé dans les conditions définies au IV du présent
+article.
 
-L'attribution de compensation versée chaque année aux communes membres qui
+D. - L'attribution de compensation versée chaque année aux communes membres qui
 étaient antérieurement membres d'un établissement public de coopération
 intercommunale sans fiscalité propre est calculée dans les conditions prévues au
-2°.
+2° ;
 
-L'attribution de compensation versée chaque année aux communes membres incluses
-dans le périmètre de l'établissement public de coopération intercommunale issu
-de la fusion en vue de délimiter un territoire d'un seul tenant et sans enclave
-est calculée dans les conditions prévues au 2°.
-
-Cette attribution est recalculée dans les conditions prévues au IV lors de
-chaque nouveau transfert de charges. Elle ne peut être indexée.
-
-6° Abrogé.
+6° Les attributions de compensation fixées conformément aux 2°, 4°, 5° ou, le
+cas échéant, au 1° bis du présent V sont recalculées dans les conditions prévues
+au IV lors de chaque nouveau transfert de charges. Elles ne peuvent être
+indexées ;
 
 7° A titre dérogatoire, les établissements publics de coopération intercommunale
 soumis au 1er janvier 2010 au présent article dans sa rédaction en vigueur à
 cette date et les conseils municipaux de leurs communes membres peuvent
 procéder, par délibérations concordantes prises à la majorité qualifiée prévue
 au premier alinéa du II de l'article L. 5211-5 du code général des collectivités
-territoriales, à la révision dans les mêmes proportions du montant de
-l'attribution de compensation de l'ensemble des communes membres.
-
-Cette révision dérogatoire, dans les conditions définies à l'alinéa précédent,
-peut réduire les attributions de compensation d'une partie des communes membres
-lorsque les communes concernées disposent d'un potentiel financier par habitant
-supérieur de plus de 20 % au potentiel financier par habitant moyen des communes
-du groupement. Cette réduction de leurs attributions de compensation ne peut
-excéder 5 % de leur montant.
+territoriales, à la révision des attributions de compensation d'une partie des
+communes membres lorsque les communes concernées disposent d'un potentiel
+financier par habitant supérieur de plus de 20 % au potentiel financier par
+habitant moyen de l'ensemble des communes membres. Cette réduction de leurs
+attributions de compensation ne peut excéder 5 % du montant de celles-ci.
 
 V bis.-1. Pour les établissements publics de coopération intercommunale qui
 faisaient application au 31 décembre 2010 du présent article dans sa rédaction

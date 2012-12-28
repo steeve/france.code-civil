@@ -17,14 +17,35 @@ de France ou par une entreprise locale de distribution. Lorsque l'objet des
 contrats est l'achat de l'électricité produite par une installation de
 production implantée dans une zone non interconnectée au réseau métropolitain
 continental, les surcoûts sont calculés par rapport à la part relative à la
-production dans les tarifs réglementés de vente d'électricité ; 2° Les surcoûts
-de production dans les zones non interconnectées au réseau métropolitain
-continental qui, en raison des particularités du parc de production inhérentes à
-la nature de ces zones, ne sont pas couverts par la part relative à la
-production dans les tarifs réglementés de vente d'électricité ou par les
-éventuels plafonds de prix prévus par l'article L. 337-1. Les conditions de
-rémunération du capital immobilisé dans les moyens de production d'électricité
-utilisées pour calculer la compensation des charges à ce titre sont définies par
-arrêté du ministre chargé de l'énergie afin de garantir la sécurité de
-l'approvisionnement en électricité des zones non interconnectées au réseau
-métropolitain continental.
+production dans les tarifs réglementés de vente d'électricité ; 2° Dans les
+zones non interconnectées au réseau métropolitain continental :
+
+a) Les surcoûts de production qui, en raison des particularités du parc de
+production inhérentes à la nature de ces zones, ne sont pas couverts par la part
+relative à la production dans les tarifs réglementés de vente d'électricité ou
+par les éventuels plafonds de prix prévus à l'article L. 337-1 ;
+
+b) Les coûts des ouvrages de stockage d'électricité gérés par le gestionnaire du
+système électrique. Ces coûts sont pris en compte dans la limite des surcoûts de
+production qu'ils contribuent à éviter ;
+
+c) Les surcoûts d'achats d'électricité, hors ceux mentionnés au a, qui, en
+raison des particularités des sources d'approvisionnement considérées, ne sont
+pas couverts par la part relative à la production dans les tarifs réglementés de
+vente d'électricité. Ces surcoûts sont pris en compte dans la limite des
+surcoûts de production qu'ils contribuent à éviter ;
+
+d) Les coûts supportés par les fournisseurs d'électricité en raison de la mise
+en œuvre d'actions de maîtrise de la demande portant sur les consommations
+d'électricité et diminués des recettes éventuellement perçues à travers ces
+actions. Ces coûts sont pris en compte dans la limite des surcoûts de production
+qu'ils contribuent à éviter.
+
+Les conditions de rémunération du capital immobilisé dans les moyens de
+production, de stockage d'électricité ou nécessaires aux actions de maîtrise de
+la demande définis aux a, b et d du présent 2° utilisées pour calculer la
+compensation des charges à ce titre sont définies par arrêté du ministre chargé
+de l'énergie afin de garantir la sécurité de l'approvisionnement en électricité
+des zones non interconnectées au réseau métropolitain continental.
+
+Un décret en Conseil d'Etat précise les modalités d'application des a à d.

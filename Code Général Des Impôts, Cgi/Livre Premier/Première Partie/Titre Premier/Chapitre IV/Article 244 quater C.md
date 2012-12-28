@@ -1,96 +1,60 @@
 Article 244 quater C
 ----
-I. Les entreprises imposées d'après leur bénéfice réel peuvent bénéficier d'un
-crédit d'impôt au titre de leurs dépenses de formation professionnelle. Pour les
-entreprises soumises aux obligations prévues aux articles 235 ter D et 235 ter
-KA, les dépenses retenues sont celles exposées en sus de ces obligations.
+I. - Les entreprises imposées d'après leur bénéfice réel ou exonérées en
+application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44
+octies A et 44 decies à 44 quindecies peuvent bénéficier d'un crédit d'impôt
+ayant pour objet le financement de l'amélioration de leur compétitivité à
+travers notamment des efforts en matière d'investissement, de recherche,
+d'innovation, de formation, de recrutement, de prospection de nouveaux marchés,
+de transition écologique et énergétique et de reconstitution de leur fonds de
+roulement. L'entreprise retrace dans ses comptes annuels l'utilisation du crédit
+d'impôt conformément aux objectifs mentionnés à la première phrase du présent I.
+Le crédit d'impôt ne peut ni financer une hausse de la part des bénéfices
+distribués, ni augmenter les rémunérations des personnes exerçant des fonctions
+de direction dans l'entreprise. Les organismes mentionnés à l'article 207
+peuvent également bénéficier du crédit d'impôt mentionné au présent alinéa au
+titre des rémunérations qu'ils versent à leurs salariés affectés à leurs
+activités non exonérées d'impôt sur les bénéfices. Ces organismes peuvent
+également en bénéficier à raison des rémunérations versées aux salariés affectés
+à leurs activités exonérées après que la Commission européenne a déclaré cette
+disposition compatible avec le droit de l'Union européenne.
 
-Ce crédit d'impôt est égal à 35 p. 100 :
+II. - Le crédit d'impôt mentionné au I est assis sur les rémunérations que les
+entreprises versent à leurs salariés au cours de l'année civile. Sont prises en
+compte les rémunérations, telles qu'elles sont définies pour le calcul des
+cotisations de sécurité sociale à l' article L. 242-1 du code de la sécurité
+sociale , n'excédant pas deux fois et demie le salaire minimum de croissance
+calculé pour un an sur la base de la durée légale du travail augmentée, le cas
+échéant, du nombre d'heures complémentaires ou supplémentaires, sans prise en
+compte des majorations auxquelles elles donnent lieu. Pour les salariés qui ne
+sont pas employés à temps plein ou qui ne sont pas employés sur toute l'année,
+le salaire minimum de croissance pris en compte est celui qui correspond à la
+durée de travail prévue au contrat au titre de la période où ils sont présents
+dans l'entreprise.
 
-a. De la différence entre le montant des dépenses de formation mentionnées au
-livre IX du code du travail, exposées au cours de l'année, et celui des dépenses
-de même nature exposées au cours de l'année précédente revalorisées en fonction
-de l'évolution des rémunérations, au sens du 1 de l'article 231, versées par
-l'entreprise ;
+Pour être éligibles au crédit d'impôt, les rémunérations versées aux salariés
+doivent être retenues pour la détermination du résultat imposable à l'impôt sur
+le revenu ou à l'impôt sur les sociétés dans les conditions de droit commun et
+avoir été régulièrement déclarées aux organismes de sécurité sociale.
 
-b. (dispositions abrogées à compter du calcul du crédit d'imp&lt;CB&gt;t
-formation au titre des années 1995 et suivantes) ;
+III. - Le taux du crédit d'impôt est fixé à 6 %.
 
-c. Et du produit de la somme de 450 euros par la différence entre le nombre
-d'élèves accueillis dans l'entreprise au cours de l'année et celui de l'année
-précédente en application de l'article L. 331-4 du code de l'éducation ou en vue
-de la préparation du brevet de technicien supérieur prévu à l'article 35 du
-décret n° 59-57 du 6 janvier 1959 portant réforme de l'enseignement public. Pour
-le décompte du nombre d'élèves, sont pris en compte les élèves des
-établissements d'enseignement public ou sous contrat d'association ayant conclu
-une convention avec une entreprise, qui sont accueillis pour une période de
-formation dans l'entreprise d'une durée au moins égale à huit semaines au cours
-de l'année considérée.
+IV. - Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux
+articles 8,238 bis L, 239 ter et 239 quater A ou les groupements mentionnés aux
+articles 238 ter, 239 quater, 239 quater B, 239 quater C et 239 quinquies qui ne
+sont pas soumis à l'impôt sur les sociétés peut être utilisé par leurs associés
+proportionnellement à leurs droits dans ces sociétés ou groupements, à condition
+qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes
+physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
-Le crédit d'impôt accordé aux entreprises nouvelles au titre de l'année de leur
-création ou aux entreprises qui exposent pour la première fois des dépenses de
-formation définies aux deuxième à cinquième alinéas est égal à 35 p. 100 de ces
-dépenses exposées au cours de l'année en cause.
+V. - Les organismes chargés du recouvrement des cotisations de sécurité sociale
+dues pour l'emploi des personnes mentionnées au I du présent article sont
+habilités à recevoir, dans le cadre des déclarations auxquelles sont tenues les
+entreprises auprès d'eux, et à vérifier, dans le cadre des contrôles qu'ils
+effectuent, les données relatives aux rémunérations donnant lieu au crédit
+d'impôt. Ces éléments relatifs au calcul du crédit d'impôt sont transmis à
+l'administration fiscale.
 
-II. Le crédit d'impôt est plafonné pour chaque entreprise, y compris les
-sociétés de personnes, à 150 000 euros. Il s'apprécie en prenant en compte la
-fraction du crédit d'impôt correspondant aux parts des associés de sociétés de
-personnes mentionnées aux articles 8, 238 bis L, 238 ter et 239 ter, et aux
-droits des membres de groupements mentionnés aux articles 239 quater, 239 quater
-A, 239 quater B, 239 quater C et 239 quinquies.
-
-Ce plafond est majoré, dans la limite globale de 760 000 euros, de la part du
-crédit d'impôt qui provient de l'augmentation des dépenses suivantes :
-
-a. Les dépenses exposées au profit des salariés occupant les emplois les moins
-qualifiés. Ces emplois sont ceux qui ne nécessitent pas un brevet d'études
-professionnelles, un certificat d'aptitude professionnelle ou un titre ou
-diplôme de même niveau de l'enseignement général ou technologique, ou un niveau
-de formation équivalent ;
-
-b. Les dépenses exposées au profit de salariés âgés de quarante-cinq ans et
-plus.
-
-III. Les subventions publiques reçues par les entreprises à raison des
-opérations ouvrant droit au crédit d'impôt sont déduites des bases de ce crédit.
-
-En cas de transfert de personnels ou de contrats de formation entre entreprises
-ayant des liens de dépendance directe ou indirecte, ou résultant de fusions,
-scissions, apports ou opérations assimilées, il est fait abstraction pour le
-calcul de la variation des dépenses de formation de la part de cette variation
-provenant exclusivement du transfert.
-
-IV. (disposition périmée).
-
-IV-0 bis. Les dispositions du présent article s'appliquent aux dépenses de
-formation exposées au cours des années 1999 à 2001 par les entreprises qui ont
-fait application du crédit d'impôt formation au titre de l'année 1998 ou par
-celles qui n'en ont jamais bénéficié, sur option irrévocable jusqu'au terme de
-cette période. L'option doit être exercée au titre de 1999 ou au titre de la
-première année au cours de laquelle l'entreprise réalise ses premières dépenses
-de formation éligibles au crédit d'impôt formation.
-
-IV-0 bis A Les dispositions du présent article s'appliquent également aux
-dépenses de formation exposées au cours des années 2002 à 2004 par les
-entreprises lorsque les conditions suivantes sont réunies :
-
-a. l'entreprise remplit les conditions prévues par les 1° et 2° du f du I de
-l'article 219 ;
-
-b. elle a fait application du crédit d'impôt pour dépenses de formation au titre
-de l'année 2001 ou elle n'en a jamais bénéficié ;
-
-c. elle exerce une option irrévocable en faveur du crédit d'impôt pour dépenses
-de formation jusqu'au terme de la période 2002-2004. L'option doit être exercée
-au titre de 2002 ou au titre de la première année au cours de laquelle
-l'entreprise réalise ses premières dépenses de formation éligibles au crédit
-d'impôt formation.
-
-IV bis. Les entreprises doivent joindre à leur déclaration de résultats une
-attestation visée par l'inspection de l'éducation nationale ou l'inspection de
-l'enseignement agricole qui précise pour chaque élève accueilli l'établissement
-scolaire et la durée de la formation au cours de l'année.
-
-V. Un décret fixe les conditions d'application du présent article (1).
-
-(1) Voir les articles 49 septies S à 49 septies U de l'annexe III).
+VI. - Un décret fixe les conditions d'application du présent article, notamment
+les obligations déclaratives incombant aux entreprises et aux organismes chargés
+du recouvrement des cotisations de sécurité sociale.

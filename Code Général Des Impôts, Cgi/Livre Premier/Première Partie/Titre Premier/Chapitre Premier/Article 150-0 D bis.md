@@ -33,8 +33,10 @@ sur option à cet impôt ;
 b) Exerce une activité commerciale, industrielle, artisanale, libérale, agricole
 ou financière, à l'exception de la gestion de son propre patrimoine mobilier ou
 immobilier, ou a pour objet social exclusif de détenir des participations dans
-des sociétés exerçant les activités précitées. Cette condition s'apprécie de
-manière continue pendant les huit années précédant la cession ;
+des sociétés exerçant les activités précitées.
+
+Cette condition s'apprécie de manière continue pendant les huit années précédant
+la cession ;
 
 c) A son siège social dans un Etat membre de l'Union européenne ou dans un autre
 Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la
@@ -44,14 +46,20 @@ fraude et l'évasion fiscales ;
 3° Le report d'imposition est, en outre, subordonné au respect des conditions
 suivantes :
 
-a) Le produit de la cession des titres ou droits doit être investi, dans un
-délai de trente-six mois et à hauteur de 80 % du montant de la plus-value net
-des prélèvements sociaux, dans la souscription en numéraire au capital initial
-ou dans l'augmentation de capital en numéraire d'une société ;
+a) Le cédant prend l'engagement d'investir le produit de la cession des titres
+ou droits, dans un délai de vingt-quatre mois et à hauteur d'au moins 50 % du
+montant de la plus-value net des prélèvements sociaux, dans la souscription en
+numéraire au capital initial ou à l'augmentation de capital d'une ou de
+plusieurs sociétés ou dans la souscription dans un ou plusieurs fonds communs de
+placement à risques ou sociétés de capital-risque respectant au minimum,
+respectivement, le quota d'investissement de 50 % prévu au I de l'article L.
+214-28 du code monétaire et financier et celui prévu au troisième alinéa du 1°
+de l'article 1-1 de la loi n° 85-695 du 11 juillet 1985 portant diverses
+dispositions d'ordre économique et financier ;
 
 b) La société bénéficiaire de l'apport doit exercer l'une des activités
-mentionnées au b du 2° et répondre aux conditions prévues aux a et c du même 2°
-;
+mentionnées au premier alinéa du b du 2° et répondre aux conditions prévues aux
+a et c du même 2° ;
 
 c) Les titres représentatifs de l'apport en numéraire doivent être entièrement
 libérés au moment de la souscription ou de l'augmentation de capital ou, au plus
@@ -59,14 +67,8 @@ tard, à l'issue du délai mentionné au a du présent 3° et représenter au mo
 % des droits de vote et des droits dans les bénéfices sociaux de la société ;
 
 d) Les titres représentatifs de l'apport en numéraire doivent être détenus
-directement et en pleine propriété par le contribuable pendant au moins cinq
-ans.
-
-Lorsque les titres font l'objet d'une transmission, d'un rachat ou d'une
-annulation ou, si cet événement est antérieur, lorsque le contribuable transfère
-son domicile fiscal hors de France dans les conditions prévues à l'article 167
-bis, avant le délai prévu au premier alinéa, le report d'imposition prévu au I
-est remis en cause dans les conditions du deuxième alinéa du III ;
+directement et en pleine propriété par le contribuable pendant au moins cinq ans
+;
 
 e) (abrogé)
 
@@ -74,6 +76,15 @@ f) La société bénéficiaire de l'apport ne doit pas avoir procédé à un
 remboursement d'apport au bénéfice du cédant, de son conjoint, de leurs
 ascendants et descendants ou de leurs frères et sœurs au cours des douze mois
 précédant le remploi du produit de la cession.
+
+II bis. - Lorsque le cédant effectue son réinvestissement conformément à
+l'engagement pris en application du a du 3° du II, la plus-value en report
+d'imposition n'est imposable qu'à hauteur du montant de la plus-value net des
+prélèvements sociaux qui n'a pas fait l'objet d'un réinvestissement dans les
+vingt-quatre mois suivant la cession. L'impôt sur la plus-value exigible dans
+ces conditions est accompagné de l'intérêt de retard prévu à l'article 1727,
+décompté à partir de la date à laquelle cet impôt aurait dû être acquitté. La
+fraction de plus-value réinvestie reste en report d'imposition.
 
 III. ― Le report d'imposition prévu au présent article est exclusif de
 l'application des articles 199 terdecies-0 A et 885-0 V bis.
@@ -89,17 +100,24 @@ au 3° du II font l'objet d'une opération d'échange dans les conditions prévu
 l'article 150-0 B. Dans ce cas, le délai de cinq ans est apprécié à compter de
 la date de souscription des titres échangés.
 
-III bis. ― Lorsque les titres ayant fait l'objet de l'apport prévu au a du 3° du
-II sont détenus depuis plus de cinq ans, la plus-value en report d'imposition
-est définitivement exonérée. Cette exonération est applicable avant l'expiration
-du délai de cinq ans en cas de licenciement, d'invalidité correspondant au
+III bis. - Lorsque les titres font l'objet d'une transmission, d'un rachat ou
+d'une annulation ou, si cet événement est antérieur, lorsque le contribuable
+transfère son domicile fiscal hors de France dans les conditions prévues à
+l'article 167 bis, avant le délai prévu au d du 3° du II du présent article, le
+report d'imposition prévu au I est remis en cause dans les conditions du
+deuxième alinéa du III.
+
+Lorsque les titres ayant fait l'objet de l'apport prévu au a du 3° du II sont
+détenus depuis plus de cinq ans, la plus-value en report d'imposition est
+définitivement exonérée. Cette exonération est applicable avant l'expiration du
+délai de cinq ans en cas de licenciement, d'invalidité correspondant au
 classement dans les deuxième ou troisième des catégories prévues à l'article L.
 341-4 du code de la sécurité sociale, du décès du contribuable ou de l'un des
 époux soumis à imposition commune ou en cas de liquidation judiciaire de la
 société.
 
-Le premier alinéa ne s'applique pas en cas de remboursement des apports avant la
-dixième année suivant celle de l'apport en numéraire.
+Le deuxième alinéa ne s'applique pas en cas de remboursement des apports avant
+la dixième année suivant celle de l'apport en numéraire.
 
 IV.-En cas de cession de titres ou droits mentionnés au 1 du I appartenant à une
 série de titres ou droits de même nature, acquis ou souscrits à des dates

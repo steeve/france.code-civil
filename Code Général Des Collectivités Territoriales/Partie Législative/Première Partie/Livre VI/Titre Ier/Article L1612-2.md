@@ -1,7 +1,7 @@
 Article L1612-2
 ----
-Si le budget n'est pas adopté avant le 31 mars de l'exercice auquel il
-s'applique, ou avant le 15 avril de l'année du renouvellement des organes
+Si le budget n'est pas adopté avant le 15 avril de l'exercice auquel il
+s'applique, ou avant le 30 avril de l'année du renouvellement des organes
 délibérants, le représentant de l'Etat dans le département saisit sans délai la
 chambre régionale des comptes qui, dans le mois, et par un avis public, formule
 des propositions pour le règlement du budget. Le représentant de l'Etat règle le
@@ -14,7 +14,7 @@ règlement du budget par le représentant de l'Etat, l'organe délibérant ne pe
 adopter de délibération sur le budget de l'exercice en cours.
 
 Ces dispositions ne sont pas applicables quand le défaut d'adoption résulte de
-l'absence de communication avant le 15 mars à l'organe délibérant d'informations
+l'absence de communication avant le 31 mars à l'organe délibérant d'informations
 indispensables à l'établissement du budget. La liste de ces informations est
 fixée par décret. Dans ce cas, l'organe délibérant dispose de quinze jours à
 compter de cette communication pour arrêter le budget.

@@ -23,7 +23,7 @@ les personnes physiques dont le montant total des ressources, mentionné au c de
 l'article L. 31-10-4, divisé par le coefficient familial, apprécié selon les
 modalités fixées à l'article L. 31-10-12, est inférieur à un plafond fixé par
 décret, en fonction de la localisation du logement. Ce plafond ne peut être
-supérieur à 43 500 € ni inférieur à 26 500 €.
+supérieur à 36 000 € ni inférieur à 16 500 €.
 
 III. ― Remplissent la condition de performance énergétique mentionnée à
 l'article L. 31-10-2 les logements dont la performance énergétique globale est
@@ -36,4 +36,3 @@ logement d'une société d'économie mixte mentionnée à l'article L. 481-1 fai
 l'objet d'une convention conclue en application de l'article L. 351-2, acquis
 par les personnes mentionnées au premier ou au troisième alinéa de l'article L.
 443-11 à un prix égal au minimum autorisé en application de l'article L. 443-12.
-(1)
