@@ -437,9 +437,30 @@ dotation de solidarité communautaire aux établissements publics de coopératio
 intercommunale à fiscalité propre constituant un ensemble sans discontinuité
 territoriale et limitrophe de son territoire.
 
-Lorsqu'il s'agit d'une communauté urbaine, elle institue une dotation de
-solidarité communautaire dont le montant et les critères de répartition sont
-fixés par le conseil communautaire, statuant à la majorité simple.
+Lorsqu'il s'agit d'une communauté urbaine, d'une métropole ou de la métropole de
+Lyon ou lorsque l'établissement public de coopération intercommunale est
+signataire d'un contrat de ville tel que défini à l'article 6 de la loi n°
+2014-173 du 21 février 2014 de programmation pour la ville et la cohésion
+urbaine, il définit les objectifs de péréquation et de renforcement des
+solidarités financière et fiscale entre ses communes membres sur la durée du
+contrat de ville. L'établissement public de coopération intercommunale à
+fiscalité propre s'engage, lors de la signature du contrat de ville, à élaborer,
+en concertation avec ses communes membres, un pacte financier et fiscal de
+solidarité visant à réduire les disparités de charges et de recettes entre ces
+dernières. Ce pacte tient compte des efforts de mutualisation des recettes et
+des charges déjà engagés ou envisagés à l'occasion des transferts de
+compétences, des règles d'évolution des attributions de compensation, des
+politiques communautaires poursuivies au moyen des fonds de concours ou de la
+dotation de solidarité communautaire ainsi que des critères retenus par l'organe
+délibérant de l'établissement public de coopération intercommunale à fiscalité
+propre pour répartir, le cas échéant, les prélèvements ou reversements au titre
+du Fonds national de péréquation des ressources intercommunales et communales. A
+défaut d'avoir élaboré un tel pacte ou de s'engager à l'élaborer dans la
+première année de mise en œuvre du contrat de ville, l'établissement public de
+coopération intercommunale à fiscalité propre est tenu d'instituer, dans le
+cadre d'un contrat de ville, une dotation de solidarité communautaire, dont le
+montant est réparti en fonction de critères de péréquation concourant à la
+réduction des disparités de ressources et de charges entre les communes.
 
 Ces critères sont déterminés notamment en fonction :
 
