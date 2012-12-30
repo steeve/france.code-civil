@@ -12,6 +12,12 @@ Toutefois, si l'application de la règle définie à l'alinéa précédent condu
 fixer à moins de quatre le nombre des vice-présidents, ce nombre peut être porté
 à quatre.
 
+L'organe délibérant peut, à la majorité des deux tiers, fixer un nombre de
+vice-présidents supérieur à celui qui résulte de l'application des deuxième et
+troisième alinéas, sans pouvoir dépasser 30 % de son propre effectif et le
+nombre de quinze. Dans ce cas, les deuxième et troisième alinéas de l'article L.
+5211-12 sont applicables.
+
 Le mandat des membres du bureau prend fin en même temps que celui des membres de
 l'organe délibérant.
 

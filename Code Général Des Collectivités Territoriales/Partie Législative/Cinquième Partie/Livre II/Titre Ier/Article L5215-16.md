@@ -14,3 +14,8 @@ ressources qu'il perçoit à l'issue du mandat.
 Cette allocation n'est pas cumulable avec celle versée aux élus municipaux en
 application de l'article L. 2123-11-2 ni avec celles versées en application des
 articles L. 3123-9-2 et L. 4135-9-2.
+
+Les indemnités de fonction prévues pour les délégués communautaires dans les
+communautés urbaines, en application des II et III de l'article L. 2123-24-1,
+sont comprises dans l'enveloppe indemnitaire globale définie au deuxième alinéa
+de l'article L. 5211-12.

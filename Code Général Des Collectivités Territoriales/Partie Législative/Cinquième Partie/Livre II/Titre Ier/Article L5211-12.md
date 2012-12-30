@@ -8,6 +8,22 @@ vice-président sont déterminées par un décret en Conseil d'Etat par référe
 montant du traitement correspondant à l'indice brut terminal de l'échelle
 indiciaire de la fonction publique.
 
+Le montant total des indemnités versées ne doit pas excéder celui de l'enveloppe
+indemnitaire globale, déterminée en additionnant l'indemnité maximale pour
+l'exercice effectif des fonctions de président et les indemnités maximales pour
+l'exercice effectif des fonctions de vice-président, correspondant soit au
+nombre maximal de vice-présidents qui résulterait de l'application des deuxième
+et troisième alinéas de l'article L. 5211-10 à l'organe délibérant qui
+comporterait un nombre de délégués déterminé en application des III à VI de
+l'article L. 5211-6-1, soit au nombre existant de vice-présidences effectivement
+exercées, si celui-ci est inférieur.
+
+De manière dérogatoire, l'indemnité versée à un vice-président peut dépasser le
+montant de l'indemnité maximale prévue au premier alinéa du présent article, à
+condition qu'elle ne dépasse pas le montant de l'indemnité maximale susceptible
+d'être allouée au président et que le montant total des indemnités versées
+n'excède pas l'enveloppe indemnitaire globale définie au deuxième alinéa.
+
 Lorsque l'organe délibérant d'un établissement public de coopération
 intercommunale est renouvelé, la délibération fixant les indemnités de ses
 membres intervient dans les trois mois suivant son installation.
