@@ -2,7 +2,9 @@ Article R5313-3
 ----
 Les informations recueillies dans le cadre de la mission d'inspection font
 l'objet d'un rapport transmis par l'inspecteur chargé de la mission au directeur
-général de l'agence. Ce rapport est communiqué à la personne responsable de
+général de l'agence. La forme et le contenu de ce rapport sont définis par le
+directeur général de l'agence en coopération avec l'Agence européenne des
+médicaments. Ce rapport est communiqué à la personne responsable de
 l'établissement ou du lieu inspecté en application des lois et règlements
 relatifs aux produits mentionnés à l'article L. 5311-1. Cette personne peut
 faire valoir ses observations dans le délai fixé par l'Agence nationale de

@@ -14,3 +14,7 @@ directeur général peut statuer.
 L'avis du conseil central n'est pas requis pour l'autorisation d'ouverture d'un
 établissement pharmaceutique dépendant de la pharmacie centrale des armées ou
 des établissements de ravitaillement sanitaire du service de santé des armées.
+
+L'autorisation d'ouverture accordée à une entreprise ou un organisme pour les
+activités mentionnées aux 1°, 3° et 5° de l'article R. 5124-2 est consignée dans
+la banque de données de l'Union européenne.

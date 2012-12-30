@@ -53,19 +53,27 @@ dehors de l'Union européenne ou de l'Espace économique européen répondent à
 exigences éthiques équivalentes à celles de la directive 2001/20/ CE du 4 avril
 2001 ;
 
-8° Une ou plusieurs maquettes ou échantillons du conditionnement extérieur et du
+8° Une déclaration attestant que le fabricant de la spécialité pharmaceutique a
+vérifié que le fabricant de la substance active a respecté les bonnes pratiques
+de fabrication en effectuant des audits.
+
+Cette déclaration mentionne la date de l'audit et atteste que les résultats
+obtenus permettent d'affirmer que la fabrication est conforme aux bonnes
+pratiques de fabrication.
+
+9° Une ou plusieurs maquettes ou échantillons du conditionnement extérieur et du
 conditionnement primaire et, s'il y a lieu, le projet de notice accompagné des
 résultats de l'évaluation portant sur la lisibilité, la clarté et la facilité
 d'utilisation de cette dernière, réalisée en coopération avec des groupes cibles
 de patients ;
 
-9° Une copie des décisions autorisant la fabrication de la spécialité concernée
+10° Une copie des décisions autorisant la fabrication de la spécialité concernée
 et délivrées, selon le cas, soit en vertu de la législation nationale du
 fabricant, soit en application des articles R. 5124-6, R. 5124-7 et R. 5124-10
 ou, le cas échéant, copie des récépissés des demandes d'autorisation si lesdites
 demandes n'ont pas encore donné lieu à décision ;
 
-10° Une copie des autorisations de mise sur le marché obtenues pour ce
+11° Une copie des autorisations de mise sur le marché obtenues pour ce
 médicament, soit dans un autre Etat membre de l'Union européenne ou Etat partie
 à l'accord sur l'Espace économique européen, soit dans un pays tiers,
 accompagnées des résumés des informations de sécurité comprenant les données qui
@@ -75,17 +83,17 @@ des caractéristiques du produit et des notices lorsque les autorisations ont é
 obtenues dans un autre Etat membre de la Communauté européenne ou Etat partie à
 l'accord sur l'Espace économique européen ;
 
-11° La liste des Etats membres de l'Union européenne ou Etats parties à l'accord
+12° La liste des Etats membres de l'Union européenne ou Etats parties à l'accord
 sur l'Espace économique européen dans lesquels des demandes d'autorisation de
 mise sur le marché pour le même médicament ont été déposées et sont à l'examen,
 accompagnée des résumés des caractéristiques du produit et des notices proposés
 ;
 
-12° Une copie des décisions de refus d'autorisation de mise sur le marché de ce
+13° Une copie des décisions de refus d'autorisation de mise sur le marché de ce
 médicament intervenues dans un Etat membre de l'Union européenne ou Etat partie
 à l'accord sur l'Espace économique européen ou dans un pays tiers, accompagnée
 de leurs motifs ;
 
-13° L'évaluation et l'indication des risques que le médicament est susceptible
+14° L'évaluation et l'indication des risques que le médicament est susceptible
 de présenter pour l'environnement ; cet impact est étudié et, au cas par cas,
 des dispositions particulières visant à le limiter sont envisagées.

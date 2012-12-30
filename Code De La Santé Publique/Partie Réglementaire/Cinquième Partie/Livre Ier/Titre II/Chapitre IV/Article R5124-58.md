@@ -3,7 +3,8 @@ Article R5124-58
 L'établissement pharmaceutique d'une entreprise ou d'un organisme mentionné à
 l'article R. 5124-2 se livrant à la vente en gros, à la cession à titre gratuit
 ou à la distribution en gros conserve, pour chaque transaction d'entrée et de
-sortie, au moins les informations suivantes :
+sortie, y compris lorsqu'il a recours à un courtier, au moins les informations
+suivantes :
 
 1° La date de la transaction ;
 

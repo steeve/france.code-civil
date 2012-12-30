@@ -31,7 +31,17 @@ s'agit d'un pharmacien chimiste des armées ;
 ou limitation à l'exercice de ces attributions ;
 
 8° Il met en œuvre tous les moyens nécessaires en vue du respect des obligations
-prévues aux articles R. 5124-48 et R. 5124-48-1.
+prévues aux articles R. 5124-48 et R. 5124-48-1 ;
+
+9° Il veille, dans le cas de médicaments destinés à être mis sur le marché dans
+l'Union européenne, à ce que les dispositifs de sécurité visés à l'article R.
+5121-138-1 aient été apposés sur le conditionnement dans les conditions prévues
+aux articles R. 5121-138-1 à R. 5121-138-4 ;
+
+10° Il signale à l'Agence nationale de sécurité du médicament et des produits de
+santé toute mise sur le marché national d'un médicament qu'il estime falsifié au
+sens des dispositions de l'article L. 5111-3, dont il assure la fabrication,
+l'exploitation et la distribution.
 
 Dans le cas où un désaccord portant sur l'application des règles édictées dans
 l'intérêt de la santé publique oppose un organe de gestion, d'administration, de
@@ -45,4 +55,4 @@ Le pharmacien responsable participe aux délibérations des organes de gestion,
 d'administration, de direction ou de surveillance, ou à celles de tout autre
 organe ayant une charge exécutive, de l'entreprise ou de l'organisme, lorsque
 ces délibérations concernent ou peuvent affecter l'exercice des missions
-relevant de sa responsabilité et énumérées du 1° au 7° du présent article.
+relevant de sa responsabilité et énumérées du 1° au 10° du présent article.
