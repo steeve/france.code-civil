@@ -69,9 +69,8 @@ L. 422-1 et L. 423-1 ainsi que des instruments financiers à terme dans les
 conditions fixées à l'article L. 214-94 ;
 
 g) Des parts ou actions d'organismes de placement collectif en valeurs
-mobilières, à l'exception de ceux visés aux sous-sections 9 à 14 de la section 1
-du chapitre IV du titre Ier du livre II, agréés par l'Autorité des marchés
-financiers ou autorisés à la commercialisation en France ;
+mobilières relevant de la sous-section 1 de la section 1 du présent chapitre ou
+de l'article L. 214-27 ou autorisés à la commercialisation en France ;
 
 h) Des dépôts et des instruments financiers à caractère liquide définis par
 décret en Conseil d'Etat ;

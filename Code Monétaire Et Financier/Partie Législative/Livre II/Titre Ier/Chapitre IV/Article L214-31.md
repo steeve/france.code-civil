@@ -31,7 +31,7 @@ l'objet n'est pas la détention de participations financières et qui répondent
 aux conditions d'éligibilité du premier alinéa du présent I, et des 1°, 2°, 4°,
 5° et 6° ;
 
-4° Respecter les conditions définies au 2°, sous réserve des dispositions du 3°
+4° Respecter les conditions définies aux b, sous réserve des dispositions du 3°
 du présent I, b bis, b ter et f du 1 du I de l'article 885-0 V bis du code
 général des impôts et aux b, c et d du VI du même article ;
 

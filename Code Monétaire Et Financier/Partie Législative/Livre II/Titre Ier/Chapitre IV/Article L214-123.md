@@ -1,5 +1,5 @@
 Article L214-123
 ----
-Les dispositions des 1,3 à 8, du deuxième alinéa du 9 et du 10 de l'article L.
-214-7-2 s'appliquent dans les mêmes conditions aux sociétés de placement à
-prépondérance immobilière à capital variable.
+Les 1°, 3° à 9° et 11° de l'article L. 214-7-2 et l'article L. 214-14
+s'appliquent dans les mêmes conditions aux sociétés de placement à prépondérance
+immobilière à capital variable.
