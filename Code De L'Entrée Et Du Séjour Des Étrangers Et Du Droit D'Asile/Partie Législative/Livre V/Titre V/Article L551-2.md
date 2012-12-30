@@ -1,10 +1,11 @@
 Article L551-2
 ----
 La décision de placement est prise par l'autorité administrative, après
-l'interpellation de l'étranger et, le cas échéant, à l'expiration de sa garde à
-vue, ou à l'issue de sa période d'incarcération en cas de détention. Elle est
-écrite et motivée. Elle prend effet à compter de sa notification à l'intéressé.
-Le procureur de la République en est informé immédiatement.
+l'interpellation de l'étranger ou, le cas échéant, lors de sa retenue aux fins
+de vérification de son droit de circulation ou de séjour, à l'expiration de sa
+garde à vue, ou à l'issue de sa période d'incarcération en cas de détention.
+Elle est écrite et motivée. Elle prend effet à compter de sa notification à
+l'intéressé. Le procureur de la République en est informé immédiatement.
 
 L'étranger est informé dans une langue qu'il comprend et dans les meilleurs
 délais qu'à compter de son arrivée au lieu de rétention, il peut demander

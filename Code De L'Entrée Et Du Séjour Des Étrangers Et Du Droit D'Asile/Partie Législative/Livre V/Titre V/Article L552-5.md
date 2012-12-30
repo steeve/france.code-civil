@@ -6,6 +6,6 @@ satisfait aux exigences de garanties de représentation effectives. L'étranger 
 présente quotidiennement aux services de police ou aux unités de gendarmerie
 territorialement compétents au regard du lieu d'assignation, en vue de
 l'exécution de la mesure d'éloignement. En cas de défaut de respect des
-obligations d'assignation à résidence, les dispositions du premier alinéa de
+obligations d'assignation à résidence, les dispositions du deuxième alinéa de
 l'article L. 624-1 sont applicables. Le procureur de la République est saisi
 dans les meilleurs délais.

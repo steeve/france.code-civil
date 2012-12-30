@@ -7,6 +7,7 @@ agents de police judiciaire et des agents de police judiciaire adjoints
 mentionnés aux articles 20 et 21 (1°) du code de procédure pénale, peuvent
 procéder, avec l'accord du conducteur ou, à défaut, sur instructions du
 procureur de la République, à la visite sommaire des véhicules circulant sur la
-voie publique, à l'exclusion des voitures particulières, en vue de rechercher et
-constater les infractions relatives à l'entrée et au séjour des étrangers en
-France.
+voie publique, à l'exclusion des voitures particulières, en vue de vérifier le
+respect des obligations de détention, de port et de présentation des pièces ou
+documents prévus à l'article L. 611-1 ou de rechercher et constater les
+infractions relatives à l'entrée et au séjour des étrangers en France.
