@@ -9,12 +9,15 @@ chacune d'elles est attribué, pour toute annuité validée à titre onéreux d�
 à l'article R. 426-13, dans la limite d'une durée, un taux de pension égal à
 1,85 % pour la première tranche et à 1,4 % pour la deuxième tranche. La somme
 obtenue est multipliée par l'indice de variation des salaires corrigé applicable
-à la date de liquidation de la pension. Cette durée est égale à la valeur "a"
+à la date de liquidation de la pension. Cette durée est égale à la valeur " a "
 prévue au d de l'article R. 426-5 divisée par 360.
 
 Si l'affilié a eu ou a adopté au moins trois enfants, la pension est majorée de
 0,12 % du plafond mensuel de calcul des cotisations de la sécurité sociale en
-vigueur, pour toute annuité validée dans la limite de 25.
+vigueur, pour toute annuité validée dans la limite de 25. Ouvrent également
+droit à cette majoration les enfants élevés par l'affilié et à sa charge pendant
+au moins neuf ans avant leur vingt et unième anniversaire au cours de la période
+d'affiliation ayant donné lieu à cotisations.
 
 Pour la période de jouissance comprise entre l'âge auquel l'affilié aura atteint
 le nombre d'annuités nécessaires pour l'ouverture du droit à pension, et ce au
@@ -25,21 +28,21 @@ prévues pour la liquidation d'une pension sans décote dans les conditions
 prévues aux articles R. 426-11, R. 426-15-2, R. 426-15-3 et R. 426-17 dans les
 conditions suivantes :
 
-- pour les affiliés bénéficiant des prestations d'un régime légal obligatoire
+-pour les affiliés bénéficiant des prestations d'un régime légal obligatoire
 d'assurance maladie maternité autre que celui instauré par la loi n° 99-641 du
 27 juillet 1999 portant création d'une couverture maladie universelle, la
 majoration est d'un montant de 0,8 % du plafond mensuel de calcul des
 cotisations de la sécurité sociale en vigueur, par annuité validée dans la
 limite de vingt-cinq ;
 
-- pour les affiliés entrant dans le champ d'application de la loi du 27 juillet
+-pour les affiliés entrant dans le champ d'application de la loi du 27 juillet
 1999 mentionnée ci-dessus, la majoration est d'un montant comprenant, d'une
 part, 0,8 % du plafond mensuel de calcul des cotisations de la sécurité sociale
 en vigueur, par annuité validée dans la limite de vingt-cinq, et, d'autre part,
 5 % de la pension mensuelle calculée conformément aux deux premiers alinéas du
 présent article ;
 
-- pour les affiliés n'entrant dans aucun des deux cas prévus ci-dessus, la
+-pour les affiliés n'entrant dans aucun des deux cas prévus ci-dessus, la
 majoration est d'un montant de 1,12 % du plafond mensuel de calcul des
 cotisations de la sécurité sociale en vigueur, par annuité validée dans la
 limite de vingt-cinq.

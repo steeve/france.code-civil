@@ -56,10 +56,14 @@ Cette majoration est prise en compte, dans le calcul de la pension, jusqu'à la
 date à laquelle l'affilié décédé aurait atteint l'âge mentionné à l'article L.
 161-17-2 du code de la sécurité sociale.
 
-III.-La pension d'orphelin au profit de chacun des enfants à charge est égale à
-12 % de la pension de l'affilié. Le taux est porté à 50 % au profit de chacun
-des orphelins de père et de mère, de moins de 21 ans, et sans limite d'âge au
-profit de l'enfant handicapé tel que défini à l'article R. 426-20.
+III.-La pension d'orphelin versée au profit de chacun des enfants à charge, tels
+que définis à l'article R. 426-20, est égale à 12 % de la pension de l'affilié.
+outefois, ce taux est porté à :
+
+1° 50 % au profit de chaque enfant orphelin de père et de mère ;
+
+2° 72 % au profit de chaque enfant orphelin de père et de mère et atteint d'une
+infirmité permanente telle que définie au second alinéa de l'article R. 426-20.
 
 L'ouverture du droit à pension d'orphelin est immédiate. L'entrée en jouissance
 de la pension d'orphelin est fixée à la date d'ouverture du droit, à condition

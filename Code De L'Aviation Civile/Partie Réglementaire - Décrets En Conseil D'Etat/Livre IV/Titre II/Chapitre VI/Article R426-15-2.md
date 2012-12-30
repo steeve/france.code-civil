@@ -1,39 +1,33 @@
 Article R426-15-2
 ----
-Le droit à pension est ouvert à la date de l'inaptitude définitive pour les
-affiliés reconnus par le conseil médical de l'aéronautique civile inaptes
-définitivement à l'exercice de la profession, soit que l'inaptitude soit due à
-un accident du travail au sens de la législation française ou à une maladie
-imputable au service aérien, soit que l'affilié soit invalide au sens de
-l'article L. 341-1 du code de la sécurité sociale ; toutefois, ces dispositions
-ne s'appliquent que :
+Par dérogation au II de l'article R. 426-11, bénéficient d'une pension sans
+décote, à compter de la décision d'inaptitude définitive du conseil médical de
+l'aéronautique civile :
 
-1. Si l'affilié remplissait les conditions prévues à l'article R. 426-1 lorsque
-la cause de l'inaptitude ou de l'invalidité est survenue ;
+1° Sous réserve qu'ils justifient de la condition d'âge définie au I de
+l'article R. 426-11 et que la durée comprise entre la date de leur première
+affiliation au régime prévu par le présent chapitre et la date d'effet du droit
+soit au moins égale à la durée mentionnée au 2° du même I, les personnels
+navigants reconnus inaptes définitivement à l'exercice de la profession de
+navigant par ce conseil ;
 
-2. S'il cotisait à la caisse de retraite ;
+2° Sans condition d'âge ou de durée :
 
-3. En cas d'accident du travail, si les causes retenues pour la reconnaissance
-de l'accident du travail sont identiques à celles qui sont retenues par le
-conseil médical pour déclarer l'inaptitude définitive.
+a) Les affiliés invalides, au sens de l' article L. 341-1 du code de la sécurité
+sociale , s'ils cotisaient à la caisse de retraite lorsque les causes de
+l'inaptitude définitive et de l'invalidité sont survenues ;
 
-Dans le cas correspondant au 3 de l'alinéa qui précède, l'entrée en jouissance
-de la pension est fixée à la date d'ouverture du droit, si la demande est
-formulée par son bénéficiaire dans le délai de six mois qui suit la notification
-de la décision d'imputabilité ou d'invalidité qui l'établit.
+b) Les affiliés reconnus inaptes définitivement, au titre d'une affection
+reconnue imputable au service aérien par le conseil médical de l'aéronautique
+civile, s'ils cotisaient à la caisse de retraite lorsque la cause de
+l'inaptitude définitive est survenue ;
 
-En ce qui concerne les affiliés reconnus par le conseil médical de
-l'aéronautique civile atteints d'une invalidité entraînant l'inaptitude
-définitive à l'exercice de la profession, l'ouverture du droit à pension peut
-prendre effet à compter de la date à laquelle les intéressés remplissent l'une
-et l'autre des deux conditions suivantes :
+c) Les affiliés reconnus inaptes définitivement, au titre d'un accident du
+travail ayant entraîné l'inaptitude définitive, s'ils cotisaient à la caisse de
+retraite lorsque l'accident est survenu.
 
-- avoir atteint l'âge mentionné au 1° du I de l'article R. 426-11 ;
+Pour l'application du présent article, la cessation de l'activité de navigant
+doit être liée à l'inaptitude survenue.
 
-- avoir été affilié pour la première fois au régime prévu par le présent
-chapitre à une date antérieure au moins égale, à la date d'ouverture du droit, à
-la durée mentionnée au 2° du I de l'article R. 426-11.
-
-Pour l'application du présent article, la pension est, par dérogation aux
-dispositions de l'article R. 426-11, liquidée sans décote et la cessation de
-l'activité de navigant doit être liée à la survenance de l'inaptitude.
+La pension prend effet à la date d'ouverture du droit si la demande de pension
+est déposée dans les six mois suivant le fait générateur du droit.
