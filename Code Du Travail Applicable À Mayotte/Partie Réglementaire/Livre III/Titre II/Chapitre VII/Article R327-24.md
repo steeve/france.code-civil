@@ -1,4 +1,9 @@
 Article R327-24
 ----
-La pension alimentaire ou la prestation compensatoire fixée par une décision de
-justice devenue exécutoire est déduite des ressources de celui qui la verse.
+Le versement de la contribution exceptionnelle de solidarité est accompagné
+d'une déclaration de l'employeur indiquant notamment le nombre de personnes
+assujetties à cette contribution, son assiette et son montant.
+
+En cas d'absence de déclaration dans les délais prescrits, le directeur du fonds
+de solidarité peut fixer forfaitairement à titre provisionnel le montant de
+cette contribution.

@@ -1,9 +1,10 @@
 Article R327-33
 ----
-Le versement de la contribution exceptionnelle de solidarité est accompagné
-d'une déclaration de l'employeur indiquant notamment le nombre de personnes
-assujetties à cette contribution, son assiette et son montant.
+L'exercice d'une activité professionnelle ou le fait de suivre une formation
+rémunérée ne fait pas obstacle à la reprise du versement de l'allocation de
+solidarité spécifique.
 
-En cas d'absence de déclaration dans les délais prescrits, le directeur du fonds
-de solidarité peut fixer forfaitairement à titre provisionnel le montant de
-cette contribution.
+Toutefois, ce versement ne peut être réalisé qu'à l'expiration des droits
+éventuels aux allocations d'assurance chômage et à la condition qu'il
+n'intervienne pas plus de quatre ans après la date d'admission à l'allocation de
+solidarité spécifique ou la date de son dernier renouvellement.

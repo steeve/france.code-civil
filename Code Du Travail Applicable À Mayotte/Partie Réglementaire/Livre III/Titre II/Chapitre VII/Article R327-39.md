@@ -1,21 +1,8 @@
 Article R327-39
 ----
-Lorsque le bénéficiaire de l'allocation de solidarité spécifique reprend une
-activité professionnelle salariée d'une durée de travail au moins égale à
-soixante-dix-huit heures par mois ou une activité professionnelle non salariée,
-le nombre des allocations journalières n'est pas réduit pendant les trois
-premiers mois d'activité professionnelle.
-
-Du quatrième au douzième mois d'activité professionnelle, le montant de
-l'allocation est diminué des revenus d'activité perçus par le bénéficiaire.
-
-Il perçoit mensuellement la prime forfaitaire pour reprise d'activité prévue à
-l'article L. 327-41, d'un montant de 37,50 €.
-
-Pour la détermination de la durée de travail, il est tenu compte, le cas
-échéant, des différents contrats de travail conclus par l'intéressé au cours de
-la période considérée.
-
-La liste des justificatifs exigés, le cas échéant pour chaque mois d'activité
-professionnelle, pour le bénéfice de la prime forfaitaire est fixée par arrêté
-conjoint des ministres chargés de la solidarité et de l'emploi.
+Lorsque le bénéficiaire de l'allocation ou de la prime mentionnées aux articles
+R. 327-34 à R. 327-36 cesse son activité pendant ou au terme de la période de
+versement de l'allocation ou de la prime, il n'est pas fait application du délai
+de quatre ans institué à l'article R. 327-33 s'il sollicite la reprise du
+versement de l'allocation dont il bénéficiait avant la fin du mois suivant la
+cessation d'activité.

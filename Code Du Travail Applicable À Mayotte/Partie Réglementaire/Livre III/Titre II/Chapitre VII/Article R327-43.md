@@ -1,5 +1,5 @@
 Article R327-43
 ----
-Les revenus procurés par les activités professionnelles mentionnées aux articles
-R. 327-36 à R. 327-42 sont pris en compte pour l'application des conditions de
-ressources prévues pour le bénéfice de l'allocation de solidarité spécifique.
+Lorsque la condition de ressources est applicable aux bénéficiaires,
+l'allocation mentionnée à l'article L. 327-20 n'est pas versée si le montant
+mensuel dû est inférieur au taux journalier de cette allocation.

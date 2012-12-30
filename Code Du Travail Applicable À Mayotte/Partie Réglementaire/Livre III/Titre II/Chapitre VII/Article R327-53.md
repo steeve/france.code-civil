@@ -1,0 +1,18 @@
+Article R327-53
+----
+La commission chargée de donner un avis sur le projet d'une décision ou de
+suppression du revenu de remplacement est composée :
+
+1° D'un représentant de l'Etat ;
+
+2° De deux membres titulaires ou suppléants de l'instance paritaire mentionnée à
+l'article L. 326-9, proposés par celle-ci ;
+
+3° D'un représentant de Pôle emploi.
+
+Ce dernier assure le secrétariat de cette commission.
+
+Les membres de cette commission sont nommés par arrêté du préfet.
+
+Pour chacun d'entre eux, un suppléant, chargé de le remplacer en cas
+d'empêchement, est désigné dans les mêmes conditions.

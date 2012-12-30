@@ -1,6 +1,6 @@
 Article R326-17
 ----
-Les demandeurs d'emploi immédiatement disponibles sont tenus d'accomplir de
-manière permanente, tant sur proposition de l'Agence nationale pour l'emploi que
-de leur propre initiative, toutes les démarches en leur pouvoir en vue de leur
-reclassement ou de leur insertion professionnelle.
+Les informations reçues par le maire en application de l'article L. 326-20 ne
+peuvent être partagées par lui qu'avec ses adjoints ayant reçu délégation en
+matière de placement ou d'attribution d'avantages sociaux ainsi qu'avec les
+services municipaux compétents dans l'un de ces domaines.

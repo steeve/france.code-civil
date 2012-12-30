@@ -1,4 +1,5 @@
 Article R327-44
 ----
-La prime forfaitaire pour reprise d'activité prévue à l'article L. 327-41 est
-versée par l'institution mentionnée à l'article L. 326-6.
+Les sommes indûment perçues au titre de la prime forfaitaire pour reprise
+d'activité ne donnent pas lieu à remboursement lorsque leur montant global est
+inférieur au montant de la prime forfaitaire.

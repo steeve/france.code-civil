@@ -1,14 +1,29 @@
 Article R326-33
 ----
-Les agents de l'Agence nationale pour l'emploi à Mayotte peuvent avoir accès aux
-entreprises, administrations et services publics, après autorisation de leur
-responsable.
+L'inscription au registre national des agents artistiques mentionné à l'article
+R. 326-32 comporte les éléments suivants transmis par l'agent artistique :
 
-Ils sont tenus de ne rien révéler des situations individuelles ou des procédés
-d'exploitation dont ils auraient connaissance à l'occasion de l'exercice de
-leurs fonctions.
+1° Le nom et le prénom de la personne physique ou du dirigeant de la personne
+morale ;
 
-Les agents des services de l'Etat, de la collectivité départementale, des
-communes ou de leurs établissements publics sont tenus de prêter leur concours à
-ceux de l'Agence nationale pour l'emploi et de leur communiquer toute
-information nécessaire à l'accomplissement de leurs missions.
+2° L'adresse professionnelle, le numéro de téléphone et l'adresse électronique ;
+
+3° S'il y a lieu, le nom de l'enseigne commerciale ;
+
+4° La forme juridique sous laquelle est exercée l'activité ;
+
+5° La ou les spécialités de l'agence artistique ;
+
+6° Une déclaration de la personne physique ou morale indiquant si elle exerce,
+directement ou indirectement, l'activité de producteur d'œuvres
+cinématographiques ou audiovisuelles.
+
+L'agent artistique doit avertir dans le délai d'un mois, par tous moyens, y
+compris par voie électronique, le ministre chargé de la culture de tout
+changement intervenu, depuis la date de son inscription, dans les éléments
+mentionnés au présent article.
+
+Lorsqu'une modification de ces éléments est constatée par le ministre, celui-ci
+ne peut modifier le registre qu'à l'expiration d'un délai de quinze jours
+suivant l'information préalable de l'intéressé, adressée par tous moyens, y
+compris par voie électronique.

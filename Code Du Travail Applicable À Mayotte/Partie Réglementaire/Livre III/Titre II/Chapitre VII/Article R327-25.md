@@ -1,12 +1,8 @@
 Article R327-25
 ----
-Il n'est pas tenu compte, pour la détermination des ressources, des allocations
-de solidarité, des allocations d'assurance, des rémunérations de stage ou des
-revenus d'activité perçus pendant la période de référence lorsqu'il est justifié
-que leur perception est interrompue de manière certaine à la date de la demande
-et que le bénéficiaire de ces ressources ne peut prétendre à un revenu de
-substitution.
+La rétention indue du précompte, malgré une mise en demeure non suivie d'effet
+dans le mois, rend l'employeur passible des pénalités prévues au chapitre IV du
+titre IV du livre II du code de la sécurité sociale.
 
-Lorsque le bénéficiaire peut prétendre à un revenu de sub-stitution, un
-abattement de 30 % est appliqué sur la moyenne des ressources auxquelles ce
-revenu se substitue.
+Dans ce cas, les poursuites sont engagées à la requête du ministère public à la
+demande du directeur du fonds de solidarité.

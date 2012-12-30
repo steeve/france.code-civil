@@ -1,12 +1,6 @@
 Article R327-38
 ----
-Pendant les six premiers mois d'activité professionnelle, le nombre des
-allocations journalières est réduit jusqu'à sa suppression éventuelle dans la
-proportion de 40 % du quotient, lorsqu'il est positif, par le montant journalier
-de l'allocation, de la rémunération brute perçue, diminuée d'un montant égal à
-la moitié du produit du salaire minimum interprofessionnel garanti par le nombre
-d'heures correspondant à la durée légale du travail.
-
-Du septième au douzième mois civil suivant d'activité professionnelle, le nombre
-des allocations journalières est réduit dans la proportion de 40 % du quotient,
-par le montant journalier de l'allocation, de la rémunération brute perçue.
+Lorsque le bénéficiaire de l'allocation ou de la prime mentionnées aux articles
+R. 327-34 à R. 327-36 interrompt son activité professionnelle pendant une durée
+minimale de six mois, il peut bénéficier à nouveau et dans leur intégralité des
+dispositions de la présente sous-section.

@@ -1,6 +1,12 @@
 Article R326-27
 ----
-Les informations reçues par le maire en application de l'article L. 326-5 ne
-peuvent être partagées par lui qu'avec ses adjoints ayant reçu délégation en
-matière soit de placement soit d'attribution d'avantages sociaux ainsi qu'avec
-les services municipaux compétents dans l'un de ces domaines.
+Lorsque des manquements à la réglementation ont été constatés dans les
+conditions fixées à l'article L. 326-23, l'organisme privé de placement est
+invité à présenter ses observations dans un délai de quinze jours.
+
+Au-delà de ce délai, le préfet peut adresser à l'organisme une mise en demeure
+de se mettre en conformité. Cette mise en demeure, notifiée par lettre
+recommandée avec avis de réception, énonce les manquements constatés.
+
+Passé un délai qui ne peut être inférieur à quinze jours, le préfet peut
+ordonner la fermeture de l'organisme pour une durée n'excédant pas trois mois.

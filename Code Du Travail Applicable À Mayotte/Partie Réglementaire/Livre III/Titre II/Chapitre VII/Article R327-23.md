@@ -1,10 +1,6 @@
 Article R327-23
 ----
-Ne sont pas prises en compte pour la détermination du droit à l'allocation de
-solidarité spécifique les ressources suivantes :
-
-1° L'allocation d'assurance précédemment perçue par l'intéressé ;
-
-2° Les prestations familiales ;
-
-3° La prime forfaitaire instituée par l'article L. 327-41 du présent code.
+La contribution exceptionnelle de solidarité prévue à l'article L. 327-28 est
+précomptée et versée par l'employeur au fonds de solidarité dans les quinze
+premiers jours du mois suivant celui du versement des rémunérations ayant
+supporté le précompte.

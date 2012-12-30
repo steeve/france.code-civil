@@ -1,9 +1,16 @@
 Article R326-25
 ----
-La convention prévue à l'article L. 326-3, par laquelle une commune devient
-correspondant de l'Agence nationale pour l'emploi, est conclue compte tenu des
-moyens que la commune est disposée à mettre en oeuvre au profit des usagers du
-service public du placement.
+L'organisme privé de placement adresse à l'organisme du service public de
+l'emploi commanditaire de la prestation de placement et, dans tous les cas, à
+Pôle emploi les informations relatives au demandeur d'emploi qui sont
+nécessaires, notamment :
 
-La convention est signée par le représentant de l'Etat à Mayotte et par le
-délégué.
+1° A l'adaptation dans le temps du projet personnalisé d'accès à l'emploi du
+demandeur d'emploi ;
+
+2° A l'actualisation de la liste des demandeurs d'emploi ;
+
+3° A l'indemnisation des demandeurs d'emploi ;
+
+4° A l'exercice effectif des opérations de suivi de la recherche d'emploi
+prévues aux articles L. 327-47 et L. 327-48.

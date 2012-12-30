@@ -1,10 +1,19 @@
 Article R327-12
 ----
-Le nombre d'heures perdues pouvant justifier des allocations attribuées en
-application de l'article L. 327-10 correspond à la différence entre la durée
-légale du travail applicable dans l'entreprise ou, lorsqu'elle est inférieure à
-la durée collective du travail ou à la durée stipulée au contrat et le nombre
-d'heures réellement travaillées sur la période considérée.
+Les ressources prises en considération pour l'application du plafond prévu au 3°
+de l'article R. 327-11 comprennent l'allocation de solidarité spécifique ainsi
+que les autres ressources de l'intéressé et, le cas échéant, du conjoint,
+partenaire lié par un pacte civil de solidarité ou concubin, telles qu'elles
+doivent être déclarées à l'administration fiscale pour le calcul de l'impôt sur
+le revenu avant déduction des divers abattements. Toutefois, ces dispositions ne
+s'appliquent pas lorsque le conjoint, partenaire lié par un pacte civil de
+solidarité ou concubin du demandeur est dirigeant d'une entreprise entrant dans
+le champ d'application de l'article 50-0 du code général des impôts applicable à
+Mayotte.
 
-Ces allocations prennent la forme d'indemnités horaires dont le taux est fixé
-par décret.
+Le montant pris en compte est le douzième du total des ressources perçues
+pendant les douze mois précédant celui au cours duquel la demande a été
+présentée.
+
+Les ressources perçues hors du territoire national sont prises en compte comme
+si elles avaient été perçues sur ce territoire.

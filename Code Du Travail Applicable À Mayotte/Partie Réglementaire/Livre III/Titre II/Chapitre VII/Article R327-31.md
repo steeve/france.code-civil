@@ -1,5 +1,5 @@
 Article R327-31
 ----
-Les sommes indûment perçues au titre de l'allocation de solidarité spécifique ne
-donnent pas lieu à remboursement lorsque leur montant global est inférieur au
-montant journalier de cette allocation.
+Pour l'ouverture des droits à indemnisation, la durée totale des activités
+salariées accomplies par un même travailleur pour le compte d'employeurs
+relevant des articles L. 327-15 ou L. 327-36 est prise en compte.
