@@ -8,7 +8,7 @@ Pour l'administration des biens indivis, les partenaires peuvent conclure une
 convention relative à l'exercice de leurs droits indivis dans les conditions
 énoncées aux articles 1873-1 à 1873-15. A peine d'inopposabilité, cette
 convention est, à l'occasion de chaque acte d'acquisition d'un bien soumis à
-publicité foncière, publiée à la conservation des hypothèques.
+publicité foncière, publiée au fichier immobilier.
 
 Par dérogation à l'article 1873-3, la convention d'indivision est réputée
 conclue pour la durée du pacte civil de solidarité. Toutefois, lors de la
