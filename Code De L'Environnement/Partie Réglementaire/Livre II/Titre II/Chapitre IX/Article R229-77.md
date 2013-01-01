@@ -25,7 +25,7 @@ d) Toute autre information utile pour évaluer le respect des prescriptions
 fixées par l'arrêté d'autorisation et pour améliorer la connaissance du
 comportement du dioxyde de carbone dans le site de stockage ;
 
-e) Les éléments exigés par l'article R. 512-46.
+e) Les éléments exigés par l'article R. 512-75.
 
 L'exploitant adresse également au préfet le bilan de fonctionnement prévu à
 l'article R. 512-45 dont le contenu et les modalités sont fixés par arrêté du

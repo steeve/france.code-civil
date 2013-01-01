@@ -33,5 +33,5 @@ Lorsqu'une installation non classée ou, relevant du régime de la déclaration
 sans contrôle périodique et régulièrement mise en service, vient à être soumise
 à l'obligation de contrôle périodique en vertu d'un décret modifiant la
 nomenclature des installations classées, l'exploitant procède à ce contrôle au
-plus tard deux ans après la date de publication du décret modifiant la
-nomenclature.
+plus tard deux ans après la date à laquelle l'arrêté mentionné au premier alinéa
+est rendu applicable à cette installation.

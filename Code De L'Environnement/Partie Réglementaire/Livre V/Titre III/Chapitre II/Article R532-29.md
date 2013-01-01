@@ -1,9 +1,9 @@
 Article R532-29
 ----
-Sans préjudice de l'application des articles R. 512-33 et R. 512-54,
-l'évaluation des utilisations confinées, les mesures de confinement et les
-autres mesures de protection sont revues par l'exploitant au minimum tous les
-cinq ans. Si des modifications substantielles sont mises en évidence,
+Sans préjudice de l'application des articles R. 512-33, R. 512-46-23 et R.
+512-54, l'évaluation des utilisations confinées, les mesures de confinement et
+les autres mesures de protection sont revues par l'exploitant au minimum tous
+les cinq ans. Si des modifications substantielles sont mises en évidence,
 l'exploitant en informe le préfet dans les plus brefs délais et notamment
 lorsque l'une ou plusieurs des conditions suivantes sont réunies :
 
