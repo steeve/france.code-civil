@@ -13,19 +13,30 @@ précités doit être le plus court possible.
 comme étant un accident mortel de la circulation celui qui a des conséquences
 immédiatement mortelles.
 
-" Art. R. 235-3-Les épreuves de dépistage prévues par l'article L. 235-2 sont
+"Art. R. 235-3.-Les épreuves de dépistage prévues par l'article L. 235-2 sont
 effectuées par un médecin ou un biologiste, requis à cet effet par un officier
-ou agent de police judiciaire qui leur fournit les matériels nécessaires au
-dépistage.
+ou agent de police judiciaire ou par un agent de police judiciaire adjoint, sur
+l'ordre et sous la responsabilité d'un officier de police judiciaire, qui leur
+fournit les matériels nécessaires au dépistage lorsqu'il s'agit d'un recueil
+urinaire.
 
-" Art. R. 235-4-Les épreuves de dépistage réalisées à la suite d'un recueil de
+Ces épreuves sont effectuées par un officier ou agent de police judiciaire ou
+par un agent de police judiciaire adjoint dans les conditions prévues à l'alinéa
+précédent, lorsqu'il s'agit d'un recueil salivaire.
+
+"Art. R. 235-4.-Les épreuves de dépistage réalisées à la suite d'un recueil de
 liquide biologique sont effectuées conformément aux méthodes et dans les
-conditions prescrites par un arrêté du ministre chargé de la santé, qui tient
-compte des particularités locales et qui précise notamment les critères de choix
-des réactifs et le modèle des fiches présentant les résultats.
+conditions prescrites par un arrêté du ministre chargé de la santé, après avis
+du directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé, qui tient compte des particularités locales et qui précise
+notamment les critères de choix des réactifs et le modèle des fiches présentant
+les résultats. Lorsqu'il s'agit d'un recueil salivaire, cet arrêté est également
+pris par le ministre de la justice et par le ministre de l'intérieur et par le
+ministre chargé de l'outre-mer.
 
-Ces fiches sont remises à l'officier ou l'agent de police judiciaire mentionné à
-l'article R. 235-3.
+Ces fiches sont remises à l'officier, ou à l'agent de police judiciaire, ou à
+l'agent de police judiciaire adjoint, ou complétées par ces derniers lorsqu'il
+s'agit d'un recueil salivaire.
 
 " Art. R. 235-5-Les analyses et examens médicaux, cliniques et biologiques
 prévus à l'article L. 235-2 comportent les opérations suivantes :
@@ -45,7 +56,7 @@ Ce praticien effectue le prélèvement biologique à l'aide d'un nécessaire mis
 sa disposition par un officier ou un agent de police judiciaire, en se
 conformant aux méthodes prescrites par un arrêté du ministre chargé de la santé,
 après avis du directeur général de l'Agence nationale de sécurité du médicament
-et des produits de santé.
+et des produits de santé, qui tient compte des particularités locales.
 
 Un officier ou un agent de police judiciaire assiste au prélèvement biologique.
 
@@ -61,7 +72,7 @@ Les méthodes particulières de prélèvement et de conservation des échantillo
 biologiques applicables en cas de décès du ou des conducteurs impliqués sont
 fixées par un arrêté du ministre chargé de la santé, après avis du directeur
 général de l'Agence nationale de sécurité du médicament et des produits de
-santé.
+santé, qui tient compte des particularités locales.
 
 " Art. R. 235-9-L'officier ou l'agent de police judiciaire adresse les deux
 échantillons biologiques prélevés, accompagnés des résultats des épreuves de
@@ -74,12 +85,13 @@ R. 235-7 en vue d'une demande éventuelle d'un examen technique ou d'une
 expertise. Les conditions dans lesquelles est conservé cet échantillon sont
 fixées par un arrêté du ministre chargé de la santé, après avis du directeur
 général de l'Agence nationale de sécurité du médicament et des produits de
-santé.
+santé, qui tient compte des particularités locales.
 
 " Art. R. 235-10.-La recherche et le dosage des produits stupéfiants sont
 pratiqués dans les conditions définies par un arrêté du ministre chargé de la
 santé, après avis du directeur général de l'Agence nationale de sécurité du
-médicament et des produits de santé.
+médicament et des produits de santé, qui tient compte des particularités
+locales.
 
 Les résultats des analyses et examens médicaux, cliniques et biologiques sont
 consignés sur les fiches mentionnées à l'article R. 235-4. Ces fiches sont
@@ -111,9 +123,8 @@ versions applicables localement tirées des articles R. 317 et R. 321 de ce mêm
 code.
 
 Lorsqu'il est procédé à un examen clinique et à un prélèvement biologique en
-application des dispositions de l'article R. 235-6 du code des débits de
-boissons et des mesures contre l'alcoolisme, il n'est dû qu'une seule indemnité
-de déplacement et les honoraires pour un seul acte.
+application des dispositions de l'article R. 235-6, il n'est dû qu'une seule
+indemnité de déplacement et les honoraires pour un seul acte.
 
 Les frais afférents aux examens de laboratoire prévus par les articles R. 235-10
 et R. 235-11 relatifs à la recherche et au dosage des produits stupéfiants et,
@@ -124,6 +135,9 @@ pénale.
 Les frais afférents à l'acquisition des matériels de recueil et de dépistage
 prévus par l'article R. 235-3 sont fixés par arrêté conjoint du ministre de la
 justice et du ministre chargé du budget.
+
+Les dispositions du présent article ne sont pas applicables aux recueils
+salivaires.
 
 " Art. R. 235-13.-Les dépenses visées à l'article précédent constituent des
 frais de justice criminelle, correctionnelle et de police.
