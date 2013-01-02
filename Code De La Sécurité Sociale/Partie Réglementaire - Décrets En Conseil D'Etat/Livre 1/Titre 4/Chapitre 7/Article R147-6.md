@@ -13,7 +13,13 @@ a) Fournissent de fausses déclarations relatives à l'état civil, la résidenc
 la qualité d'assuré ou d'ayant droit ou les ressources ;
 
 b) Omettent de déclarer la modification d'une ou plusieurs de ces mêmes
-déclarations.
+déclarations ;
+
+c) Procèdent à de fausses déclarations sur le lieu ou les circonstances d'un
+accident du travail ou de trajet, que ces déclarations soient portées par
+l'employeur sur la déclaration prévue au premier alinéa de l'article L. 441-2,
+ou qu'elles soient inscrites directement par la victime sur la déclaration
+prévue au second alinéa de ce texte.
 
 Lorsque ces faits conduisent simultanément à l'attribution ou au maintien
 injustifié de droits à l'assurance maladie et à la protection complémentaire en
@@ -28,8 +34,10 @@ prêt ou à l'emprunt, de tout document conditionnant la prise en charge d'un
 acte, produit ou prestation, ou à l'utilisation de documents volés de même
 nature ;
 
-b) Abusent de leur qualité d'assuré social ou de bénéficiaire de l'aide médicale
-de l'Etat pour obtenir des produits de santé sans lien avec leur état de santé ;
+b) Abusent de leur qualité d'assuré social, de victime d'un accident du travail,
+d'un accident de trajet, d'une maladie professionnelle ou de bénéficiaire de
+l'aide médicale de l'Etat pour obtenir des produits de santé sans lien avec leur
+état de santé ;
 
 c) Se font rembourser une prestation alors qu'ils font l'objet d'un refus de
 prise en charge au titre de l'article L. 315-2 ;

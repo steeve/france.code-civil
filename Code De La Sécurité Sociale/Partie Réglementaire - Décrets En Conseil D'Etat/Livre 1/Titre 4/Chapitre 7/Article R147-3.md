@@ -1,9 +1,10 @@
 Article R147-3
 ----
-La commission mentionnée à l'article L. 162-1-14 est composée de cinq membres
-issus du conseil de l'organisme local d'assurance maladie compétent pour
-prononcer la pénalité et désignés par lui en tenant compte de la répartition des
-sièges entre les différentes catégories représentées en son sein.
+I.-La commission mentionnée à l'article L. 162-1-14 constituée au sein de
+l'organisme local d'assurance maladie compétent pour prononcer la pénalité est
+composée de cinq membres issus du conseil de cet organisme et désignés par lui
+en tenant compte de la répartition des sièges entre les différentes catégories
+représentées en son sein.
 
 Le conseil de l'organisme local nomme cinq représentants de chaque profession de
 santé, des fournisseurs et autres prestataires de service, des laboratoires de
@@ -17,7 +18,7 @@ professions de santé, des laboratoires de biologie médicale, des fournisseurs 
 des autres prestataires de services sont proposés par les organisations
 syndicales représentatives. Les sièges de représentants sont attribués aux
 organisations syndicales en fonction de leurs effectifs établis par la dernière
-enquête de représentativité mentionnée à l'article L. 162-33.A défaut de
+enquête de représentativité mentionnée à l'article L. 162-33. A défaut de
 proposition dans le mois qui suit la demande adressée aux organisations
 syndicales représentatives par le conseil de l'organisme, le préfet arrête les
 noms de ces représentants.
@@ -76,3 +77,13 @@ autres prestataires de services, ou des laboratoires de biologie médicale ;
 -six de ses membres, lorsque ces représentants y participent.
 
 Les membres de la commission sont soumis au secret des délibérations.
+
+II.-La commission mentionnée à l'article L. 162-1-14 constituée au sein de la
+caisse chargée de la prévention et de la tarification des accidents du travail
+et des maladies professionnelles compétente pour prononcer la pénalité est
+composée de deux représentants des assurés sociaux et de deux représentants des
+employeurs issus du conseil de cette caisse et désignés par les membres
+mentionnés aux deuxième et troisième alinéas de l'article L. 215-2.
+
+Les dispositions de l'article R. 114-12, à l'exception de son premier alinéa,
+sont applicables à cette commission.

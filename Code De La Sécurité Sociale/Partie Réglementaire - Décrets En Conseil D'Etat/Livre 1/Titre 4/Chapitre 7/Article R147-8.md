@@ -43,9 +43,9 @@ l'article R. 162-20-6, reprenant l'article R. 5123-3 du code de la santé
 publique, de délivrer le conditionnement le plus économique compatible avec les
 mentions figurant sur l'ordonnance ;
 
-e) Utilisation abusive de la feuille d'accident prévue à l'article L. 441-5
-consistant dans l'inscription sur celle-ci d'actes ou de délivrances ne relevant
-pas du livre IV ;
+e) Facturation abusive d'actes ou de délivrances présentée comme relevant du
+livre IV alors que ces actes ou délivrances sont sans lien avec un accident du
+travail, un accident de trajet ou une maladie professionnelle ;
 
 f) Non-respect, de manière répétée, de l'obligation de conformité des
 prescriptions avec le protocole mentionné à l'article L. 324-1 ;

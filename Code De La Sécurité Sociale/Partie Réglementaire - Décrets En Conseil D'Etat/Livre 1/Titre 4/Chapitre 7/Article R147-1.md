@@ -21,7 +21,7 @@ l'article L. 162-1-15 ;
 du II de l'article L. 162-1-14 ;
 
 4° Auquel est affilié l'assuré pour lequel l'employeur n'a pas respecté les
-obligations mentionnées à l'article R. 147-7 ;
+obligations mentionnées aux 1° à 4° de l'article R. 147-7 ;
 
 5° Auquel est rattaché le bénéficiaire de la protection complémentaire en
 matière de santé, de l'aide médicale de l'Etat ou de l'aide au paiement d'une
@@ -72,3 +72,10 @@ l'organisme assurant la gestion de la commission délégataire a son siège situ
 dans la même région administrative. Cet organisme ne peut, tant qu'il est soumis
 à la convention susmentionnée, déléguer à son tour la gestion de la ou des
 formations concernées de la commission.
+
+IV.-La caisse chargée de la prévention et de la tarification des accidents du
+travail et des maladies professionnelles compétente pour mener la procédure et
+prononcer la pénalité financière lorsque sont commis les faits mentionnés au 5°
+de l'article R. 147-7 est celle qui est compétente pour fixer le taux des
+cotisations accidents du travail et maladies professionnelles conformément aux
+décrets pris pour l'application des articles L. 215-1 et L. 242-5.
