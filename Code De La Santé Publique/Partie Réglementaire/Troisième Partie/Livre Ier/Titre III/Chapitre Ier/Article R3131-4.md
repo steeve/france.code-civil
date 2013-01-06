@@ -20,7 +20,8 @@ matériels de l'établissement ;
 
 8° Un plan d'évacuation de l'établissement ;
 
-9° Des mesures spécifiques pour les accidents nucléaires, radiologiques,
-biologiques et chimiques ;
+9° Des mesures spécifiques pour la gestion des situations sanitaires
+exceptionnelles, notamment les accidents nucléaires, radiologiques, biologiques
+et chimiques ;
 
 10° Des modalités de formation et d'entraînement à la mise en oeuvre du plan.

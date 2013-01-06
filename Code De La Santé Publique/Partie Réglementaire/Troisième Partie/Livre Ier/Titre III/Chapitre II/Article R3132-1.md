@@ -1,8 +1,7 @@
 Article R3132-1
 ----
-I.-Peuvent entrer dans la réserve d'intervention ou dans la réserve de renfort
-prévues à l'article L. 3132-1 les personnes volontaires appartenant à l'une des
-catégories suivantes :
+I.-Peuvent entrer dans la réserve sanitaire prévue à l'article L. 3132-1 les
+personnes volontaires appartenant à l'une des catégories suivantes :
 
 1° Professionnels de santé ;
 
@@ -15,8 +14,9 @@ moins de cinq ans ;
 ou de niveau de formation fixées par arrêté des ministres chargés de la santé et
 de la sécurité civile.
 
-II.-Peuvent entrer uniquement dans la réserve de renfort les étudiants
-poursuivant des études médicales, odontologiques, pharmaceutiques ou des études
-de sages-femmes ou d'auxiliaires médicaux, ayant atteint les niveaux d'études
-prévus respectivement aux articles L. 4131-2, L. 4141-4, L. 4221-15, L. 4241-11,
-L. 4151-6, L. 4311-12-1 et L. 4321-7.
+II.-Les étudiants poursuivant des études médicales, odontologiques,
+pharmaceutiques ou des études de sages-femmes ou d'auxiliaires médicaux ayant
+atteint les niveaux d'études prévus respectivement aux articles L. 4131-2, L.
+4141-4, L. 4221-15, L. 4241-11, L. 4151-6, L. 4311-12-1 et L. 4321-7 peuvent
+entrer dans la réserve sanitaire, sans pouvoir accomplir de missions
+internationales.

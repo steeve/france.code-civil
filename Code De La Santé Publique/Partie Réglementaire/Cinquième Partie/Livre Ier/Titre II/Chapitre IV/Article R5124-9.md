@@ -15,11 +15,11 @@ directeur général vaut autorisation tacite à l'expiration d'un délai de
 quatre-vingt-dix jours à compter de la date de réception de la demande.
 
 Pour les établissements autorisés à exercer les activités définies aux 1° et 2°
-de l'article R. 5124-2, le directeur général de l' Agence nationale de sécurité
+de l'article R. 5124-2, le directeur général de l'Agence nationale de sécurité
 du médicament et des produits de santé transmet une copie de l'autorisation à
 l'Agence européenne des médicaments.
 
 Lorsque la demande d'ouverture présentée par le distributeur en gros mentionné
 au 14° de l'article R. 5124-2 résulte d'une situation telle que définie par
-l'article L. 3134-1, le délai prévu à l'alinéa précédent est ramené à trente
+l'article R. 3134-1, le délai prévu à l'alinéa précédent est ramené à trente
 jours.

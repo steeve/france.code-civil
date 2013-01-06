@@ -7,7 +7,8 @@ Le conseil d'administration délibère sur :
 2° Les orientations pluriannuelles de l'établissement et, le cas échéant, le
 contrat de performance passé entre l'établissement et l'Etat ;
 
-3° Le programme et le rapport annuels d'activité de l'établissement ;
+3° Le programme et le rapport annuels d'activité de l'établissement et de ses
+commissions spécialisées ;
 
 4° Le budget, ainsi que le compte financier ;
 

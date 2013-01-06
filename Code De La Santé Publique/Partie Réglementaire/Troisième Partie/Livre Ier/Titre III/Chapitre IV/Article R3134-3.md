@@ -6,6 +6,3 @@ disposition de réservistes une convention comportant les éléments nécessaire
 la rémunération ou à l'indemnisation de chaque réserviste ainsi que les
 modalités selon lesquelles l'organisme rembourse à l'établissement la
 rémunération ou l'indemnisation versée par celui-ci au réserviste.
-
-Il adresse copie de cette convention au représentant de l'Etat qui a pris la
-décision d'affectation des réservistes.

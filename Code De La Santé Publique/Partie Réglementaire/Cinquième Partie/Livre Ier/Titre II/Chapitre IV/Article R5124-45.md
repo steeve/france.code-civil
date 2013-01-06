@@ -126,7 +126,7 @@ de promotion de la santé, les médicaments contraceptifs indiqués dans la
 contraception d'urgence qu'ils délivrent en application du III de l'article L.
 5134-1, sur commande écrite du médecin responsable du service.
 
-En cas d'urgence telle que définie à l'article L. 3134-1, les établissements
+En cas d'urgence telle que définie à l'article R. 3134-1, les établissements
 pharmaceutiques de l'Etablissement de préparation et de réponse aux situations
 d'urgence sanitaires peuvent, en outre, distribuer les produits mentionnés à
 l'article L. 4211-1 aux grossistes-répartiteurs, aux dépositaires dans les

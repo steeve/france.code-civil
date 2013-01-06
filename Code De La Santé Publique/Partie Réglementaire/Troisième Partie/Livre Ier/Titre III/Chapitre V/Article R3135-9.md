@@ -22,6 +22,9 @@ Il organise le recrutement des réservistes sanitaires et signe au nom de l'Etat
 leur contrat d'engagement ainsi que les conventions de mise à disposition
 mentionnées à l'article R. 3133-3.
 
+Il signe au nom de l'Etat les conventions de mise à disposition mentionnées à
+l'article L. 3134-2-1 ;
+
 Il organise les actions de formation nécessaires au maintien des capacités
 opérationnelles de la réserve sanitaire.
 

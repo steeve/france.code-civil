@@ -4,8 +4,7 @@ Un contrat d'engagement est conclu, pour une durée de trois ans renouvelable,
 entre le réserviste et le directeur général de l'Etablissement de préparation et
 de réponse aux urgences sanitaires, agissant au nom de l'Etat.
 
-Il précise si l'intéressé s'engage dans la réserve d'intervention ou dans la
-réserve de renfort et comporte notamment les mentions suivantes :
+Il comporte notamment les mentions suivantes :
 
 1° Nature des activités pour lesquelles le réserviste peut être appelé ;
 
@@ -38,5 +37,9 @@ et de secours médical du service départemental d'incendie et de secours, il en
 est fait mention dans le contrat. S'il entre dans cette réserve ou ce service en
 cours de contrat, il en fait la déclaration au directeur général.
 
-Le directeur général informe le préfet des contrats conclus avec les réservistes
-de son département.
+Le directeur général de l'Etablissement de préparation et de réponse aux
+urgences sanitaires informe le directeur général de l'agence régionale de santé
+de zone et le préfet de la zone de défense et de sécurité du nombre de
+réservistes mobilisables par catégorie de métiers au sein de sa zone de défense
+et de sécurité. Cet état est transmis, pour information, aux agences régionales
+de santé et aux préfets de département.

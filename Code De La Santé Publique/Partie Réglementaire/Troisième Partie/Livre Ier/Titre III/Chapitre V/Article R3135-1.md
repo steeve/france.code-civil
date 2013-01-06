@@ -1,14 +1,16 @@
 Article R3135-1
 ----
-L'établissement public administratif mentionné à l'article L. 3135-1, dénommé
-"Etablissement de préparation et de réponse aux urgences sanitaires", est
+L'établissement public administratif mentionné à l'article L. 3135-1, dénommé "
+Etablissement de préparation et de réponse aux urgences sanitaires ", est
 notamment chargé :
 
 1° De diffuser des informations à destination des professionnels et du public
 sur la réserve sanitaire ;
 
 2° D'assurer la gestion administrative et financière de la réserve sanitaire, y
-compris l'indemnisation des réservistes mentionnée à l'article L. 3133-6 ;
+compris l'indemnisation des réservistes mentionnée à l'article L. 3133-6 et la
+mise à disposition des professionnels de santé mentionnés à l'article L.
+3134-2-1 ;
 
 3° De mettre en place les formations nécessaires et l'organisation appropriée
 pour maintenir en permanence la capacité opérationnelle de la réserve sanitaire
@@ -31,7 +33,14 @@ confiés par l'Etat ;
 des produits et objets relevant de l'article L. 4211-1 ;
 
 9° Le cas échéant, de financer des actions de prévention des risques sanitaires
-majeurs.
+majeurs ;
+
+10° De développer des actions ou des référentiels de formation sur la gestion
+des situations sanitaires exceptionnelles ;
+
+11° De procéder au remboursement et à l'indemnisation des périodes d'emploi et
+de formation des réservistes sanitaires ainsi qu'au versement des sujétions
+particulières.
 
 Il peut conclure avec les autorités compétentes de la Nouvelle-Calédonie et de
 la Polynésie française des conventions relatives à la gestion de moyens de lutte
