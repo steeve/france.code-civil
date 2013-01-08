@@ -89,19 +89,11 @@ mêmes études.
 3° Modifications de type IA :
 
 a) 500 € pour chaque demande de modification de type IA mentionnée au 2° de
-l'article R. 5141-35, à l'exception des modifications prévues au 4° du III du
-présent article ;
+l'article R. 5141-35 ;
 
 b) 250 € pour chaque demande présentée conjointement concernant un médicament
 vétérinaire contenant les mêmes substances actives et faisant référence aux
 mêmes études.
-
-4° Modifications groupées de type IA :
-
-500 € pour une demande portant sur plusieurs autorisations de mise sur le marché
-et relative à la modification du nom ou de l'adresse du titulaire de
-l'autorisation de mise sur le marché ou du fabricant du médicament vétérinaire
-sans changement de titulaire ou de fabricant.
 
 IV.-Les montants fixés par le présent article ne s'appliquent pas aux
 médicaments vétérinaires dont l'autorisation de mise sur le marché relève

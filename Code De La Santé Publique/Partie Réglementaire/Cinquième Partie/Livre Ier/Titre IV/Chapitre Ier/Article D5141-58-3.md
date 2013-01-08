@@ -9,4 +9,7 @@ homéopathique vétérinaire ou à une série de médicaments et comportant le d
 mentionné à l'article R. 5141-64 ;
 
 2° 100 € pour une demande de modification d'enregistrement dans les conditions
-prévues à l'article R. 5141-68.
+prévues à l'article R. 5141-68 ;
+
+3° 10 000 € pour la transformation d'une autorisation de mise sur le marché de
+médicament homéopathique en enregistrement.

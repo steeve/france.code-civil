@@ -57,10 +57,4 @@ substances actives et faisant référence aux mêmes études ;
 l'article R. 5141-35 ;
 
 4° 100 € pour chaque demande de modification de type IA mentionnée au 2° de
-l'article R. 5141-35 à l'exception des modifications prévues au 5° du III du
-présent article ;
-
-5° 100 € pour une demande de modification de type IA portant sur plusieurs
-autorisations de mise sur le marché et relative à la modification du nom ou de
-l'adresse du titulaire de l'autorisation de mise sur le marché ou du fabricant
-du médicament vétérinaire sans changement de titulaire ou de fabricant.
+l'article R. 5141-35.
