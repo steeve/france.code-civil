@@ -1,5 +1,4 @@
 Article R3116-17
 ----
-Le fait de contrevenir aux dispositions du règlement sanitaire international
-reproduit à l'annexe 31-1 est puni de l'amende prévue pour les contraventions de
-la 5e classe.
+La récidive des contraventions prévues à l'article R. 3116-16 est réprimée
+conformément aux articles 132-11 et 132-15 du code pénal.

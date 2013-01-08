@@ -34,3 +34,10 @@ le préfet sur le rapport du directeur général de l'agence régionale de sant�
 6° En tant que de besoin, la vaccination contre la fièvre jaune. Celle-ci est
 obligatoire sauf contre-indication médicale pour toutes les personnes âgées de
 plus d'un an et résidant en Guyane ou y séjournant.
+
+7° La mise en œuvre par le préfet d'un programme de surveillance entomologique
+et de lutte contre les vecteurs et les réservoirs dans les conditions fixées par
+l'article R. 3115-11, dans un périmètre d'au moins 400 mètres autour des
+installations du point d'entrée qui sont utilisées pour les opérations
+concernant les voyageurs, moyens de transport, conteneurs, cargaisons et colis
+postaux.

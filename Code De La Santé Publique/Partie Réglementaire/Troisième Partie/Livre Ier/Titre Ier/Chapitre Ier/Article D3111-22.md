@@ -1,8 +1,7 @@
 Article D3111-22
 ----
 Peuvent être habilités comme centres de vaccination pour réaliser les
-vaccinations prévues aux articles L. 3111-1 à L. 3111-8, L. 3112-1 et R. 3114-9
-:
+vaccinations prévues aux articles L. 3111-1 à L. 3111-8 et L. 3112-1.
 
 1° Les établissements de santé assurant une ou plusieurs des missions de service
 public définies à l'article L. 6112-1 ;
