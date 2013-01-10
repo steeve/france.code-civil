@@ -25,7 +25,10 @@ définies par l'organisme agréé mentionné à l'article D. 4135-5, dans le cad
 défini par la Haute Autorité de santé.
 
 L'accréditation constitue une modalité de satisfaction à l'obligation
-d'évaluation des pratiques professionnelles.
+d'évaluation des pratiques professionnelles. Elle concourt, lorsque sont
+respectées les conditions prévues à l'article R. 4133-2, au respect de
+l'obligation de développement professionnel continu pour les spécialités
+mentionnées à l'article D. 4135-2.
 
 Les modalités selon lesquelles est présentée la demande d'accréditation ainsi
 que la liste des pièces jointes à la demande d'accréditation sont définies par

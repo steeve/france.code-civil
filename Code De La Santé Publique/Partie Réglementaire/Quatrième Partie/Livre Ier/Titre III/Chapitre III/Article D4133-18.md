@@ -5,5 +5,5 @@ ministre chargé de la santé, pour une durée de trois ans renouvelable deux fo
 La commission élit un président et un vice-président parmi ses membres.
 
 Pour chacun des titulaires mentionnés aux 1°, 2°, 3° et 5° de l'article D.
-4133-18, un suppléant est désigné dans les mêmes conditions. Il siège aux
+4133-17, un suppléant est désigné dans les mêmes conditions. Il siège aux
 séances de la commission en l'absence du titulaire.

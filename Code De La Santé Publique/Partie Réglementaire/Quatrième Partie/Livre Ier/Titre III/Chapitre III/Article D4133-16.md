@@ -7,11 +7,11 @@ La commission scientifique indépendante des médecins, mentionnée à l'article
 professionnel continu au ministre chargé de la santé qui les arrête après
 information de l'organisme gestionnaire du développement professionnel continu ;
 
-2° Etablir, en application de l'article R. 4021-28, une évaluation scientifique
-des organismes de développement professionnel continu qui demandent leur
-enregistrement au titre du développement professionnel continu et assurer son
-actualisation périodique, conformément aux dispositions de l'article R. 4021-33
-;
+2° Etablir, en application aux articles R. 4021-24 et suivants, une évaluation
+scientifique des organismes de développement professionnel continu qui demandent
+leur enregistrement au titre du développement professionnel continu et assurer
+son actualisation périodique, conformément aux dispositions de l'article R.
+4021-28 ;
 
 3° Répondre aux demandes d'expertise que lui soumettent les instances de
 l'organisme gestionnaire du développement professionnel continu ;
