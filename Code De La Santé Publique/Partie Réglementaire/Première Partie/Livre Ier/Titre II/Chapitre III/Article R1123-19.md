@@ -1,10 +1,18 @@
 Article R1123-19
 ----
-Avant le 31 mars de chaque année, chaque comité adresse au directeur général de
-l'agence régionale de santé le rapport d'activité et le bilan financier pour
-l'année civile précédente ainsi que le budget prévisionnel pour l'année en
-cours. Le directeur général de l'agence régionale de santé adresse au ministre
-chargé de la santé l'ensemble de ces documents accompagné d'une analyse de
-l'activité du comité concerné. La composition du rapport d'activité, du bilan
-financier et du budget prévisionnel est définie par arrêté du ministre chargé de
-la santé. Les rapports d'activité sont rendus publics.
+I.-Par dérogation aux dispositions de l'article 3 du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique, les comités
+de protection des personnes sont soumis au régime budgétaire, financier et
+comptable défini par les titres Ier et III de ce même décret, à l'exception des
+1° et 2° de l'article 175, des articles 178 à 185,204 à 208, de la dernière
+phrase de l'article 210 et des articles 215 à 228, sous réserve des articles R.
+1123-19-1 à R. 1123-19-3 ci-après.
+
+II.-Les membres du comité de protection des personnes, réunis dans les
+conditions prévues à l'article R. 1123-11, exercent les attributions de l'organe
+délibérant pour l'application des dispositions du décret du 7 novembre 2012
+précité.
+
+III.-Les comités de protection des personnes sont soumis aux dispositions du
+décret n° 55-733 du 26 mai 1955 relatif au contrôle économique et financier de
+l'Etat.
