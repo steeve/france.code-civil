@@ -3,80 +3,126 @@ Article R221-4
 I. - Les différentes catégories du permis de conduire énoncées ci-dessous
 autorisent la conduite des véhicules suivants :
 
+Catégorie A1 :
 
-Catégorie A
+Motocyclettes avec ou sans side-car, d'une cylindrée maximale de 125 cm ³, d'une
+puissance n'excédant pas 11 kilowatts et dont le rapport puissance/ poids ne
+dépasse pas 0,1 kilowatt par kilogramme ;
 
-Motocyclettes, avec ou sans side-car.
+Tricycles à moteur d'une puissance maximale de 15 kilowatts.
 
+Catégorie A2 :
 
-Sous-catégorie A 1
+Motocyclettes avec ou sans side-car d'une puissance n'excédant pas 35 kilowatts
+et dont le rapport puissance/ poids n'excède pas 0,2 kilowatt par kilogramme. La
+puissance ne peut résulter du bridage d'un véhicule développant plus du double
+de sa puissance.
 
-Motocyclettes légères.
+Catégorie A :
 
+Motocyclettes avec ou sans side-car ;
 
-Catégorie B
+Tricycles à moteur d'une puissance supérieure à 15 kilowatts.
+
+Catégorie B1 :
+
+Véhicules de la catégorie L7e.
+
+Catégorie B :
 
 Véhicules automobiles ayant un poids total autorisé en charge (PTAC) qui
 n'excède pas 3,5 tonnes, affectés au transport de personnes et comportant, outre
-le siège du conducteur, huit places assises au maximum, ou affectés au transport
-de marchandises, ainsi que les véhicules qui peuvent être assimilés aux
-véhicules précédents et dont la liste est fixée par arrêté du ministre chargé
-des transports.
+le siège du conducteur, huit places assises au maximum ou affectés au transport
+de marchandises ainsi que les véhicules qui peuvent être assimilés aux véhicules
+précédents et dont la liste est fixée par arrêté du ministre chargé de la
+sécurité routière.
 
 Véhicules mentionnés à l'alinéa précédent attelés d'une remorque lorsque le
 poids total autorisé en charge (PTAC) de la remorque est inférieur ou égal à 750
 kilogrammes.
 
 Mêmes véhicules attelés d'une remorque lorsque le poids total autorisé en charge
-(PTAC) de la remorque est supérieur à 750 kilogrammes, à condition, d'une part,
-que le poids total autorisé en charge (PTAC) de la remorque soit inférieur ou
-égal au poids à vide du véhicule tracteur et, d'autre part, que la somme des
-poids totaux autorisés en charge (PTAC) du véhicule tracteur et de la remorque
-soit inférieure ou égale à 3,5 tonnes.
+(PTAC) de la remorque est supérieur à 750 kilogrammes, sous réserve que la somme
+des poids totaux autorisés en charge (PTAC) du véhicule tracteur et de la
+remorque de l'ensemble n'excède pas 4 250 kilogrammes.
 
+Catégorie C1 :
 
-Sous-catégorie B 1
-
-Tricycles à moteur dont la puissance n'excède pas 15 kilowatts et dont le poids
-à vide n'excède pas 550 kilogrammes.
-
-Quadricycles lourds à moteur.
-
-
-Catégorie C
-
-Véhicules automobiles isolés autres que ceux de la catégorie D dont le poids
-total autorisé en charge (PTAC) excède 3,5 tonnes.
+Véhicules automobiles autres que ceux de la catégorie D et D1 dont le poids
+total autorisé en charge (PTAC) est supérieur à 3 500 kilogrammes sans excéder 7
+500 kilogrammes et qui sont conçus et construits pour le transport de huit
+passagers au plus outre le conducteur.
 
 Aux véhicules de cette catégorie peut être attelée une remorque dont le poids
 total autorisé en charge (PTAC) n'excède pas 750 kilogrammes.
 
+Catégorie C :
 
-Catégorie D
-
-Véhicules automobiles affectés au transport de personnes comportant plus de huit
-places assises outre le siège du conducteur ou transportant plus de huit
-personnes, non compris le conducteur.
+Véhicules automobiles autres que ceux des catégories D et D1, dont le poids
+total autorisé en charge (PTAC) excède 3,5 tonnes et qui sont conçus et
+construits pour le transport de huit passagers au plus outre le conducteur.
 
 Aux véhicules de cette catégorie peut être attelée une remorque dont le poids
 total autorisé en charge (PTAC) n'excède pas 750 kilogrammes.
 
-Catégorie E (B)
+Catégorie D1 :
 
-Véhicules relevant de la catégorie B attelés d'une remorque lorsque l'ensemble
-formé par le véhicule tracteur et la remorque ne relève pas de la catégorie B.
+Véhicules automobiles conçus et construits pour le transport de personnes
+comportant, outre le siège du conducteur, seize places assises maximum et d'une
+longueur n'excédant pas huit mètres.
 
-Catégorie E (C)
+Aux véhicules de cette catégorie peut être attelée une remorque dont le poids
+total autorisé en charge (PTAC) n'excède pas 750 kilogrammes.
 
-Véhicules relevant de la catégorie C attelés d'une remorque lorsque l'ensemble
-formé par le véhicule tracteur et la remorque ne relève pas de la catégorie C.
+Catégorie D :
 
-Catégorie E (D)
+Véhicules automobiles conçus et construits pour le transport de personnes
+comportant plus de huit places assises outre le siège du conducteur ou
+transportant plus de huit personnes, non compris le conducteur.
 
-Véhicules attelés d'une remorque lorsque l'ensemble formé par le véhicule
-tracteur et la remorque ne relève pas de la catégorie D.
+Aux véhicules de cette catégorie peut être attelée une remorque dont le poids
+total autorisé en charge (PTAC) n'excède pas 750 kilogrammes.
 
-II. Le permis de conduire des catégories et des sous-catégories ci-dessus
-mentionnées peut être délivré, dans des conditions fixées par le ministre chargé
-des transports, aux personnes atteintes d'un handicap physique nécessitant
-l'aménagement du véhicule.
+Catégorie BE :
+
+Véhicules relevant de la catégorie B auxquels est attelée une remorque ou une
+semi-remorque qui a un poids total autorisé en charge (PTAC) n'excédant pas 3
+500 kilogrammes lorsque l'ensemble formé par le véhicule tracteur et la remorque
+ne relève pas de la catégorie B.
+
+Catégorie C1E :
+
+Véhicules relevant de la catégorie C1 attelés d'une remorque ou d'une
+semi-remorque dont le poids total autorisé en charge (PTAC) excède 750
+kilogrammes ;
+
+Véhicules relevant de la catégorie B attelés d'une remorque ou d'une
+semi-remorque dont le poids total autorisé en charge excède 3 500 kilogrammes.
+
+Le poids total roulant autorisé des ensembles de véhicules relevant de la
+catégorie C1E ne peut excéder 12 000 kilogrammes.
+
+Catégorie CE :
+
+Véhicules relevant de la catégorie C attelés d'une remorque ou d'une
+semi-remorque dont le poids total autorisé en charge (PTAC) excède 750
+kilogrammes.
+
+Catégorie D1E :
+
+Véhicules relevant de la catégorie D1 attelés d'une remorque dont le poids total
+autorisé en charge (PTAC) excède 750 kilogrammes.
+
+Catégorie DE :
+
+Véhicules relevant de la catégorie D attelés d'une remorque dont le poids total
+autorisé en charge excède 750 kilogrammes.
+
+II. - Le permis de conduire peut être délivré, dans des conditions fixées par le
+ministre chargé de la sécurité routière, aux personnes atteintes d'un handicap
+physique nécessitant l'aménagement du véhicule.
+
+III. - Il sera substitué au plus tard avant le 19 janvier 2033, dans les
+conditions fixées par un arrêté du ministre chargé de la sécurité routière, aux
+permis de conduire délivrés avant le 19 janvier 2013 un nouveau modèle de permis
+de conduire défini par arrêté du ministre chargé de la sécurité routière.
