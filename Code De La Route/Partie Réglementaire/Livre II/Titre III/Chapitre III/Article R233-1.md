@@ -12,9 +12,7 @@ les récépissés provisoires, ou les photocopies des certificats d'immatriculat
 dans les cas et dans les conditions prévues par un arrêté du ministre de la
 justice et du ministre de l'intérieur ;
 
-3° L'original ou la copie du certificat constatant l'achèvement d'une formation
-de conducteur de transport par route quand celui-ci est exigé en application de
-l'article R. 221-6 ;
+3° (Supprimé)
 
 4° Dans les cas mentionnés aux II et III de l'article R. 221-8, une attestation
 de la formation pratique ou le document attestant d'une expérience de la
@@ -29,7 +27,7 @@ pas équipé par un professionnel agréé ou par construction d'un tel dispositi
 ou
 
 b) Est soumis à l'obligation prévue au 4° bis de l'article 41-2 du code de
-procédure pénale.
+procédure pénale ;
 
 6° Un éthylotest dans les conditions prévues à l'article R. 234-7 (1).
 
