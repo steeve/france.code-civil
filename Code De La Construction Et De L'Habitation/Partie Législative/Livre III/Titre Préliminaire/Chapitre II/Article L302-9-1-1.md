@@ -22,9 +22,7 @@ logements sociaux correspondant à l'objectif triennal passé sur le territoire 
 la commune, elle peut recommander l'élaboration, pour la prochaine période
 triennale, d'un échéancier de réalisations de logements sociaux permettant, sans
 préjudice des obligations fixées au titre de la prochaine période triennale, de
-rattraper le retard accumulé au cours de la période triennale échue. Si la
-commune a fait l'objet d'un arrêté de carence, la commission peut doubler la
-majoration prévue par l'arrêté.
+rattraper le retard accumulé au cours de la période triennale échue.
 
 Si la commission parvient à la conclusion que la commune ne pouvait, pour des
 raisons objectives, respecter son obligation triennale, elle saisit, avec

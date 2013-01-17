@@ -8,19 +8,22 @@ directeur départemental des finances publiques. La commune ou l'établissement
 public de coopération intercommunale compétent peut, dans un délai de deux mois
 à compter de cette notification, décider d'acquérir les biens et droits
 immobiliers au prix déclaré ou proposer de les acquérir à un prix inférieur en
-application des dispositions de l'article L. 3211-7 du code général de la
+application des articles L. 3211-7 et L. 3211-13-1 du code général de la
 propriété des personnes publiques. A défaut d'accord sur le prix, la commune ou
 l'établissement public de coopération intercommunale peut, dans le même délai ou
 dans un délai de quinze jours à compter de la notification de la réponse de
-l'Etat à sa demande d'une diminution du prix de vente, saisir le juge de
-l'expropriation en vue de fixer le prix de l'immeuble et en informe le vendeur.
-Le prix est fixé comme en matière d'expropriation ; il est exclusif de toute
-indemnité accessoire et notamment de l'indemnité de réemploi. La commune ou
-l'établissement public de coopération intercommunale dispose d'un délai de deux
-mois à compter de la décision juridictionnelle devenue définitive pour décider
-d'acquérir les biens et droits immobiliers au prix fixé par le juge. A moins que
-le bien ne soit retiré de la vente, la commune ou l'établissement public en
-règle le prix six mois au plus tard après sa décision d'acquérir.
+l'Etat ou des sociétés et des établissements publics visés simultanément aux
+articles L. 240-1 du présent code et L. 3211-13-1 du code général de la
+propriété des personnes publiques à sa demande d'une diminution du prix de
+vente, saisir le juge de l'expropriation en vue de fixer le prix de l'immeuble
+et en informe le vendeur. Le prix est fixé comme en matière d'expropriation ; il
+est exclusif de toute indemnité accessoire et notamment de l'indemnité de
+réemploi. La commune ou l'établissement public de coopération intercommunale
+dispose d'un délai de deux mois à compter de la décision juridictionnelle
+devenue définitive pour décider d'acquérir les biens et droits immobiliers au
+prix fixé par le juge. A moins que le bien ne soit retiré de la vente, la
+commune ou l'établissement public en règle le prix six mois au plus tard après
+sa décision d'acquérir.
 
 En cas de refus d'acquérir au prix estimé par le directeur départemental des
 finances publiques, d'absence de saisine du juge de l'expropriation, de refus

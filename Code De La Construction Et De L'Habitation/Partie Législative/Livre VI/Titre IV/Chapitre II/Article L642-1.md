@@ -3,7 +3,7 @@ Article L642-1
 Afin de garantir le droit au logement, le représentant de l'Etat dans le
 département peut réquisitionner, pour une durée d'un an au moins et de six ans
 au plus, des locaux sur lesquels une personne morale est titulaire d'un droit
-réel conférant l'usage de ces locaux et qui sont vacants depuis plus de dix-huit
+réel conférant l'usage de ces locaux et qui sont vacants depuis plus de douze
 mois, dans les communes où existent d'importants déséquilibres entre l'offre et
 la demande de logement au détriment de personnes à revenus modestes et de
 personnes défavorisées.

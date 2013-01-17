@@ -48,8 +48,8 @@ II et III du 1.1 de l'article 78 de la loi n° 2009-1673 du 30 décembre 2009
 précitée, à l'exclusion de la part calculée dans les conditions prévues aux a et
 b du D du IV du même 1.1.
 
-I ter. - Le cas échéant, sur délibérations concordantes des communes membres et
-de l'établissement public de coopération intercommunale, le prélèvement sur les
+I ter.-Le cas échéant, sur délibérations concordantes des communes membres et de
+l'établissement public de coopération intercommunale, le prélèvement sur les
 ressources calculé selon les conditions prévues aux II et III du 2.1 de
 l'article 78 de la loi n° 2009-1673 du 30 décembre 2009 précitée peut être mis à
 la charge de cet établissement public, à l'exclusion de la part calculée selon
@@ -264,15 +264,6 @@ portant aménagement de la fiscalité directe locale, perçus au profit de
 l'établissement public de coopération intercommunale l'année précédant celle de
 la première application de ces dispositions.
 
-L'attribution de compensation est également majorée d'une fraction de la
-contribution d'une commune définie à l'article L. 302-8 du code de la
-construction et de l'habitation, à condition que l'établissement public de
-coopération intercommunale ait, dans les conditions prévues à l'article L. 302-7
-du même code, perçu le prélèvement visé à cet article et que cette fraction soit
-affectée à la réalisation d'opérations de logements locatifs sociaux. Cette
-fraction est égale à la part du potentiel fiscal de la cotisation foncière des
-entreprises dans le potentiel fiscal de la commune.
-
 L'attribution de compensation est majorée du produit de la réduction de taux de
 taxe d'habitation prévue, selon le cas, au VII de l'article 1638 quater ou au IV
 de l'article 1638-0 bis par les bases de taxe d'habitation de la commune l'année
@@ -306,7 +297,7 @@ celle de la première application de ces dispositions.
 Cette attribution est recalculée dans les conditions prévues au IV lors de
 chaque nouveau transfert de charges. Elle ne peut être indexée.
 
-5° A. - Lorsqu'à la suite d'une fusion réalisée dans les conditions prévues à
+5° A.-Lorsqu'à la suite d'une fusion réalisée dans les conditions prévues à
 l'article L. 5211-41-3 du code général des collectivités territoriales, un
 établissement public de coopération intercommunale fait application du régime
 prévu au présent article et des dispositions de l'article 1638-0 bis,
@@ -350,7 +341,7 @@ l'article L. 5211-5 du code général des collectivités territoriales, procéde
 avant le 31 décembre 2014, à la révision du montant de l'attribution de
 compensation.
 
-B. - Lorsque, dans le cadre d'une modification de périmètre, de l'adhésion
+B.-Lorsque, dans le cadre d'une modification de périmètre, de l'adhésion
 individuelle d'une commune ou d'une transformation dans les conditions prévues
 aux articles L. 5211-41-1 et L. 5214-26 du même code, un établissement public de
 coopération intercommunale est soumis au régime prévu au présent article et
@@ -381,7 +372,7 @@ restitution de compétences, cette attribution de compensation est respectivemen
 diminuée ou majorée du montant net des charges transférées calculé dans les
 conditions définies au IV.
 
-C. - L'attribution de compensation versée chaque année aux communes membres qui
+C.-L'attribution de compensation versée chaque année aux communes membres qui
 étaient antérieurement membres d'un syndicat d'agglomération nouvelle est égale
 à la dotation de coopération définie à l'article L. 5334-8 du code général des
 collectivités territoriales perçue l'année de la fusion.
@@ -392,7 +383,7 @@ de compensation est respectivement diminuée ou majorée du montant net des
 charges transférées calculé dans les conditions définies au IV du présent
 article.
 
-D. - L'attribution de compensation versée chaque année aux communes membres qui
+D.-L'attribution de compensation versée chaque année aux communes membres qui
 étaient antérieurement membres d'un établissement public de coopération
 intercommunale sans fiscalité propre est calculée dans les conditions prévues au
 2° ;
@@ -472,7 +463,7 @@ la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986) leur restent
 acquises lorsqu'elles deviennent membres d'un établissement public de
 coopération intercommunale soumis aux dispositions du présent article.
 
-2° (1) Les établissements publics de coopération intercommunale soumis aux
+2° Les établissements publics de coopération intercommunale soumis aux
 dispositions du présent article bénéficient de la compensation prévue au IV bis
 de l'article 6 de la loi de finances pour 1987 précitée au lieu et place de
 leurs communes membres.

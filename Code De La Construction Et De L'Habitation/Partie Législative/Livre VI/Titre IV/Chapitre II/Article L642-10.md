@@ -10,5 +10,8 @@ département :
 à compter de la notification ;
 
 3° Son engagement d'effectuer les travaux nécessaires pour mettre fin lui-même à
-la vacance ; dans ce cas, un échéancier est soumis à l'approbation du
-représentant de l'Etat dans le département.
+la vacance ; dans ce cas, un échéancier de réalisation des travaux et de mise en
+location, qui ne peut excéder vingt-quatre mois, est soumis, dans un délai
+maximal fixé par décret en Conseil d'Etat, à l'approbation du représentant de
+l'Etat dans le département. Le délai de réalisation des travaux et de mise en
+location court à compter de l'approbation de l'échéancier.
