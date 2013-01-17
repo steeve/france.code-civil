@@ -1,30 +1,23 @@
 Article R5121-73
 ----
-Pour les médicaments mentionnés au b de l'article L. 5121-12, l'autorisation
-temporaire d'utilisation :
+I.-Le directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé rend publics, sur le site internet de l'agence :
 
-1° Est accordée par le directeur général de l'Agence nationale de sécurité du
-médicament et des produits de santé pour la durée du traitement, dans la limite
-maximale d'un an ;
+1° Les protocoles d'utilisation thérapeutique et de recueil d'informations
+conclus ;
 
-2° Vaut approbation des éléments mentionnés aux 2° et 3° de l'article R. 5121-70
-et comporte les renseignements suivants :
+2° Les résumés des rapports de synthèse mentionnés à l'article R. 5121-73-1 ;
 
-a) Le nom et les coordonnées du prescripteur ;
+3° La liste des médicaments faisant l'objet d'une autorisation temporaire
+d'utilisation mentionnée au 1° du I de l'article L. 5121-12 ainsi que la liste
+des médicaments pour lesquels cette autorisation a été refusée, suspendue ou
+retirée ;
 
-b) Les initiales du patient auquel est destinée la prescription ;
+4° Les motifs justifiant la suspension ou le retrait d'une autorisation
+temporaire d'utilisation mentionnée au 1° du I de l'article L. 5121-12.
 
-c) Le nom du médicament ou, le cas échéant, son nom de code, et sa forme
-pharmaceutique et son dosage ;
-
-d) Le cas échéant, le classement du médicament dans les catégories énumérées au
-deuxième alinéa de l'article R. 5121-36 ;
-
-e) La durée de l'autorisation ;
-
-3° Est accompagnée, le cas échéant, d'informations complémentaires relatives à
-l'utilisation du médicament.
-
-Ces médicaments sont délivrés par le pharmacien gérant la pharmacie à usage
-intérieur d'un établissement de santé ou par le responsable mentionné à
-l'article L. 5126-6.
+II.-Le directeur général de l'agence établit des modèles types de formulaires,
+notamment ceux des demandes d'autorisation temporaire d'utilisation, celui de la
+demande de renouvellement de l'autorisation temporaire d'utilisation mentionnée
+au 1° du I de l'article L. 5121-12 et celui du protocole d'utilisation
+thérapeutique et de recueil d'informations.

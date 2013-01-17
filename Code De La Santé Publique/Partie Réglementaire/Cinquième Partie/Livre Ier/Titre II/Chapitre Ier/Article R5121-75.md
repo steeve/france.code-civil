@@ -1,16 +1,18 @@
 Article R5121-75
 ----
-Les décisions de suspension et de retrait mentionnées à l'article L. 5121-12
-sont prises par le directeur général de l'Agence nationale de sécurité du
-médicament et des produits de santé. Elles sont motivées et indiquent les voies
+Le directeur général de l'Agence nationale de sécurité du médicament et des
+produits de santé peut demander au titulaire de l'autorisation temporaire
+d'utilisation de modifier son autorisation en application de l'article R.
+5121-74-1, suspendre ou retirer une autorisation temporaire d'utilisation
+lorsque les conditions prévues par l'article L. 5121-12 ou les dispositions de
+la présente section ne sont pas respectées ou pour tout autre motif de santé
+publique.
+
+Sauf en cas d'urgence, la suspension ou le retrait ne peuvent intervenir
+qu'après que le titulaire de l'autorisation a été invité à fournir ses
+observations.
+
+Les décisions de suspension ou de retrait sont motivées et indiquent les voies
 et délais de recours.
 
-La décision de suspension ne peut être prise pour une période supérieure à trois
-mois.
-
-La décision de retrait ne peut intervenir qu'après que le titulaire de
-l'autorisation a été invité à fournir ses observations et, pour les médicaments
-mentionnés au a de l'article L. 5121-12.
-
-En cas de suspension ou de retrait d'autorisation, les dispositions du sixième
-alinéa de l'article R. 5121-47 sont applicables.
+La durée de suspension ne peut excéder trois mois.

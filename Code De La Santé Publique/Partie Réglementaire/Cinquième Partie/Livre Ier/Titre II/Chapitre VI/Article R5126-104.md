@@ -5,7 +5,7 @@ inscrites sur la liste prévue à l'article L. 5126-4 les catégories de
 médicaments suivantes :
 
 1° Les médicaments bénéficiant d'une autorisation temporaire d'utilisation
-mentionnée au b de l'article L. 5121-12 et qui ne sont pas classés dans la
+mentionnée au 2° du I de l'article L. 5121-12 et qui ne sont pas classés dans la
 catégorie de médicaments réservés à l'usage hospitalier ;
 
 2° Les préparations hospitalières mentionnées au 2° de l'article L. 5121-1

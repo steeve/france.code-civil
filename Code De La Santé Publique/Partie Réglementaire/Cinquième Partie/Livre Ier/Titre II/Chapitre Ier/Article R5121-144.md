@@ -1,7 +1,7 @@
 Article R5121-144
 ----
-L'étiquetage des médicaments mentionnés au a de l'article L. 5121-12 comporte au
-moins les mentions suivantes :
+L'étiquetage des médicaments mentionnés au 1° du I de l'article L. 5121-12
+comporte au moins les mentions suivantes :
 
 1° La dénomination du médicament ou, le cas échéant, son nom de code ;
 

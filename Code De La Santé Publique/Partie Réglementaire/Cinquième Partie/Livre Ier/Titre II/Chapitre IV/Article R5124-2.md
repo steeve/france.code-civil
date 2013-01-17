@@ -34,7 +34,7 @@ l'Espace économique européen ;
 b) Ou d'autres Etats membres de la Communauté européenne ou parties à l'accord
 sur l'Espace économique européen lorsque les médicaments, produits ou objets ont
 été fabriqués par un établissement non autorisé au titre l'article 40 de la
-directive 2001 / 83 du 6 novembre 2001 instituant un code communautaire relatif
+directive 2001/83 du 6 novembre 2001 instituant un code communautaire relatif
 aux médicaments à usage humain.
 
 Pour les objets de pansement et articles présentés comme conformes à la
@@ -58,7 +58,7 @@ stockage correspondantes.
 
 L'exploitation est assurée soit par le titulaire de l'autorisation de mise sur
 le marché mentionnée à l'article L. 5121-8, de l'autorisation temporaire
-d'utilisation mentionnée au a de l'article L. 5121-12 ou de l'un des
+d'utilisation mentionnée au 1° du I de l'article L. 5121-12 ou de l'un des
 enregistrements mentionnés aux articles L. 5121-13 et L. 5121-14-1, soit, pour
 le compte de ce titulaire, par une autre entreprise ou un autre organisme, soit
 par l'un et l'autre, chacun assurant dans ce cas une ou plusieurs catégories

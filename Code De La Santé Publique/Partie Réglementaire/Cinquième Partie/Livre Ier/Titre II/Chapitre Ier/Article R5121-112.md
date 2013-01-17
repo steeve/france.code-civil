@@ -15,16 +15,12 @@ l'autorisation de recherche biomédicale prévue à l'article L. 1123-8 ;
 2° Pour les médicaments importés en vue d'études analytiques, pharmacologiques
 ou toxicologiques, d'une lettre de l'importateur justifiant leur utilisation ;
 
-3° Pour les médicaments mentionnés au a de l'article L. 5121-12, d'une copie de
-l'autorisation temporaire d'utilisation ou de la demande tendant à obtenir cette
-autorisation ;
-
-4° Pour un médicament importé par un particulier par une autre voie que le
+3° Pour un médicament importé par un particulier par une autre voie que le
 transport personnel, de l'ordonnance prescrivant le médicament, le cas échéant
 établie conformément aux conditions particulières de prescription et de
 délivrance applicables à ce médicament en vertu de la réglementation française ;
 
-5° Dans les autres cas, d'une lettre du demandeur justifiant la nécessité
+4° Dans les autres cas, d'une lettre du demandeur justifiant la nécessité
 d'importer le médicament.
 
 Dans tous les cas, le directeur général de l'Agence nationale de sécurité du
