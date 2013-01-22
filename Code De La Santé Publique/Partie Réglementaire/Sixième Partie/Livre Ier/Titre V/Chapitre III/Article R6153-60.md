@@ -1,10 +1,11 @@
 Article R6153-60
 ----
-Des conventions relatives à l'organisation des stages hospitaliers prévus par la
-présente section sont conclues en application de l'article R. 6153-46 et, le cas
-échéant, en application de l'article L. 6142-5.
+Les stages mentionnés à l'article R. 6153-46, à l'exception de son troisième
+alinéa, et à l'article R. 6153-47 sont organisés par des conventions conclues,
+le cas échéant, dans le cadre des conventions prévues par l'article L. 6142-5.
 
-Ces conventions déterminent :
+Ces conventions sont soumises au conseil de l'unité de formation et de recherche
+médicale et déterminent :
 
 1° Dans les limites et conditions fixées par les ministres chargés de
 l'enseignement supérieur, de la santé et de la sécurité sociale, et compte tenu

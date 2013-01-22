@@ -9,7 +9,7 @@ Cette rémunération est versée mensuellement.
 
 Les étudiants mentionnés à l'alinéa précédent ont droit :
 
-1° A un congé annuel d'un mois ;
+1° A un congé annuel de trente jours ouvrables ;
 
 2° En cas de maladie ou d'infirmité dûment constatée les mettant dans
 l'impossibilité d'exercer leurs fonctions, au maximum à un mois de congé pendant
@@ -23,5 +23,5 @@ intéressés perçoivent l'intégralité de la rémunération prévue au premier
 du présent article ;
 
 4° En outre, les étudiants de deuxième année du deuxième cycle d'études
-médicales peuvent, sur leur demande, bénéficier d'un congé supplémentaire d'un
-mois, non rémunéré.
+médicales peuvent, sur leur demande, bénéficier d'un congé supplémentaire de
+trente jours ouvrables, non rémunéré.

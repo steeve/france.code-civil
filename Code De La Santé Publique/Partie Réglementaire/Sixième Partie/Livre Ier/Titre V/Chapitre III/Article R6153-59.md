@@ -8,7 +8,12 @@ charges sociales qui s'y rapportent, suivant les modalités fixées par les
 conventions prévues à l'article R. 6153-60.
 
 Lorsque les étudiants sont en stages extrahospitaliers tels que définis au
-deuxième alinéa de l'article R. 6153-46, les rémunérations qui leur sont
+troisième alinéa de l'article R. 6153-46, les rémunérations qui leur sont
 allouées par leur établissement d'affectation sont remboursées à celui-ci selon
 des modalités prévues par arrêtés des ministres chargés de la santé, de
 l'enseignement supérieur et du budget.
+
+Les stages mentionnés au cinquième alinéa de l'article R. 6153-47 choisis à
+l'initiative des étudiants sont pris en charge par l'organisme ou
+l'établissement d'accueil lorsqu'ils ont lieu hors de l'établissement
+d'affectation.

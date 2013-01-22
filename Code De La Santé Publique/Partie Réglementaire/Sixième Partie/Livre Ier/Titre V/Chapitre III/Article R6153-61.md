@@ -3,7 +3,7 @@ Article R6153-61
 En vue de la conclusion de la convention prévue à l'article R. 6153-60, les
 éléments mentionnés aux a, b et c du 1° de cet article font l'objet d'un projet
 préparé par le directeur de l'unité de formation et de recherche médicale,
-assisté des deux coordonnateurs mentionnés à l'article R. 6153-50.
+assisté des deux coordonnateurs mentionnés à l'article D. 6153-50.
 
 Ce projet est soumis pour avis au conseil de l'unité de formation et de
 recherche. Il est examiné par le directeur du centre hospitalier universitaire

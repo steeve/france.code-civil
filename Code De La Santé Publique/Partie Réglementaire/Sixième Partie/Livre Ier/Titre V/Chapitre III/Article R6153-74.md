@@ -4,7 +4,8 @@ Des conventions relatives à l'organisation des stages hospitaliers prévus par 
 présente section sont conclues en application de l'article L. 6142-3 et, le cas
 échéant, en application de l'article L. 6142-5.
 
-Ces conventions déterminent :
+Ces conventions sont soumises au conseil de l'unité de formation et de recherche
+et déterminent :
 
 1° Dans les limites et conditions fixées par les ministres chargés de
 l'enseignement supérieur et de la santé et compte tenu des objectifs

@@ -6,8 +6,8 @@ celles des articles R. 6153-3 à R. 6153-7, R. 6153-12 à R. 6153-19 et R. 6153-
 anciens résidents qui accomplissent un ou deux semestres supplémentaires dans
 les établissements publics de santé.
 
-Les dispositions des articles R. 6153-29 à R. 6153-42 s'appliquent aux étudiants
-faisant fonction d'interne mentionnés au 1° et au 2° de l'article R. 6153-42 et
+Les dispositions des articles R. 6153-29 à R. 6153-40 s'appliquent aux étudiants
+faisant fonction d'interne mentionnés au 1° et au 2° de l'article R. 6153-40 et
 aux anciens résidents mentionnés à l'article R. 6153-43. Dans le cas où le
 conseil de discipline prévu à l'article R. 6153-32 se réunit afin d'examiner le
 cas d'un étudiant faisant fonction d'interne ou d'un ancien résident, les six

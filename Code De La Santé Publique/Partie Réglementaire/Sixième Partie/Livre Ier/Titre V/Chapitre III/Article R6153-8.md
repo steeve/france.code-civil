@@ -4,8 +4,9 @@ A l'issue de la procédure nationale de choix, les internes sont affectés par
 arrêté du directeur général du Centre national de gestion publié au Journal
 officiel de la République française. Les internes en médecine sont affectés dans
 une subdivision et une discipline. Les internes en odontologie sont affectés
-dans un centre hospitalier universitaire. Les internes en pharmacie sont
-affectés dans une interrégion et une spécialité.
+dans une interrégion, une spécialité et un centre hospitalier universitaire. Les
+internes en pharmacie sont affectés dans une interrégion, une spécialité et un
+centre hospitalier universitaire.
 
 Les affectations semestrielles sont prononcées par le directeur général de
 l'agence régionale de santé.

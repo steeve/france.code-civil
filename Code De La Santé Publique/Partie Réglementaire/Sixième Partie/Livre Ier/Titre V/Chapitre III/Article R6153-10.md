@@ -10,7 +10,7 @@ chargés du budget, de l'enseignement supérieur et de la santé. Ces émolument
 suivent l'évolution des traitements de la fonction publique constatée par le
 ministre chargé de la santé ; ils sont majorés, pour les internes chargés de
 famille, d'un supplément dont le montant est calculé selon les règles fixées à
-l'article 10 du décret du 24 novembre 1985 relatif à la rémunération des
+l'article 10 du décret du 24 octobre 1985 relatif à la rémunération des
 personnels civils et militaires de l'Etat et des personnels des collectivités
 territoriales pour le supplément familial de traitement.
 

@@ -8,9 +8,9 @@ et de recherche ainsi que, si l'établissement en cause n'est pas le centre
 hospitalier universitaire, le directeur général de ce centre.
 
 Le directeur de l'établissement de santé peut exclure de son établissement tout
-étudiant dont la présence est incompatible avec les nécessités du service. Il en
-informe immédiatement le directeur de l'unité de formation et de recherche en
-vue d'un examen conjoint de la situation.
+étudiant dont le comportement est de nature à compromettre le bon fonctionnement
+du service. Il en informe immédiatement le directeur de l'unité de formation et
+de recherche en vue d'un examen conjoint de la situation.
 
 Au vu des conclusions de cet examen, le directeur de l'établissement
 d'affectation, si celui-ci n'est pas le centre hospitalier universitaire, peut
