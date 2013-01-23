@@ -1,14 +1,16 @@
 Article D521-13
 ----
-Le directeur académique des services de l'éducation nationale agissant sur
-délégation du recteur d'académie, statue sur chaque projet d'aménagement après
-s'être assuré que les conditions mentionnées aux articles D. 521-11 et D. 521-12
-sont respectées. Il ne l'adopte que s'il ne porte pas atteinte à l'exercice de
-la liberté de l'instruction religieuse mentionnée au deuxième alinéa de
-l'article L. 141-2.
+Des activités pédagogiques complémentaires sont organisées par groupes
+restreints d'élèves :
 
-La décision du directeur académique des services de l'éducation nationale
-agissant sur délégation du recteur d'académie ne peut porter sur une durée
-supérieure à trois ans. A l'issue de cette période, cette décision peut être
-renouvelée tous les trois ans après un nouvel examen, en respectant la même
-procédure.
+1° Pour l'aide aux élèves rencontrant des difficultés dans leurs apprentissages.
+
+2° Pour une aide au travail personnel ou pour une activité prévue par le projet
+d'école, le cas échéant en lien avec le projet éducatif territorial.
+
+L'organisation générale de ces activités pédagogiques complémentaires est
+arrêtée par l'inspecteur de l'éducation nationale de la circonscription, sur
+proposition du conseil des maîtres. Les dispositions retenues à ce titre sont
+inscrites dans le projet d'école. Le maître de chaque classe dresse, après avoir
+recueilli l'accord des parents ou du représentant légal, la liste des élèves qui
+bénéficient des activités pédagogiques complémentaires.
