@@ -1,7 +1,7 @@
 Article L214-31
 ----
 I.-Les fonds d'investissement de proximité sont des fonds communs de placement à
-risques dont l'actif est constitué, pour 70 % au moins, de titres financiers,
+risques dont l'actif est constitué, pour 60 % au moins, de titres financiers,
 parts de société à responsabilité limitée et avances en compte courant, dont au
 moins 20 % dans de nouvelles entreprises exerçant leur activité ou juridiquement
 constituées depuis moins de huit ans, tels que définis par le I et le 1° du II
@@ -44,7 +44,7 @@ ou partiel, d'apports.
 Les conditions fixées aux 1° à 6° s'apprécient à la date à laquelle le fonds
 réalise ses investissements.
 
-II.-Sont également éligibles au quota d'investissement de 70 % mentionné au I,
+II.-Sont également éligibles au quota d'investissement de 60 % mentionné au I,
 dans la limite de 20 % de l'actif du fonds, les titres mentionnés au III de
 l'article L. 214-28, sous réserve que la société émettrice réponde aux
 conditions mentionnées au I, à l'exception de celle tenant à la non-cotation, et
@@ -64,7 +64,7 @@ Saint-Martin, cette limite s'applique à chacune des collectivités de la zone
 géographique.
 
 V.-Les dispositions du IV et du V de l'article L. 214-28 s'appliquent aux fonds
-d'investissement de proximité sous réserve du respect du quota de 70 % et des
+d'investissement de proximité sous réserve du respect du quota de 60 % et des
 conditions d'éligibilité tels que définis au I et au II du présent article.
 
 VI.-Les parts d'un fonds d'investissement de proximité ne peuvent pas être
@@ -81,14 +81,3 @@ au I dans le cas où le fonds procède à des appels complémentaires de capitau
 à des souscriptions nouvelles. Il fixe également les règles d'appréciation du
 quota ainsi que les règles spécifiques relatives aux cessions et aux limites de
 la détention des actifs.
-
-VIII.-L'Autorité des marchés financiers refuse d'agréer la constitution d'un
-fonds d'investissement de proximité lorsque, au cours d'une période fixée par
-décret, chacun des fonds communs de placement dans l'innovation et des fonds
-d'investissement de proximité constitués par la société de gestion concernée
-présente un montant total de souscriptions inférieur à un seuil fixé par décret
-et lorsque l'ensemble des fonds de capital investissement, mentionnés aux
-articles L. 214-27 et suivants, et des fonds professionnels de capital
-investissement, mentionnés à l'article L. 214-159, gérés par la société de
-gestion représente un montant total des actifs sous gestion inférieur à un seuil
-fixé par décret (1).

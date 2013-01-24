@@ -21,6 +21,6 @@ impliqué dans l'opération est situé à Saint-Pierre-et-Miquelon, à Mayotte, 
 Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna ou en
 dehors de l'Espace économique européen " ;
 
-b) Au premier alinéa de l'article L. 314-15, les mots : " ou à Mayotte " sont
-remplacés par les mots : " à Mayotte, en Nouvelle-Calédonie, en Polynésie
-française ou dans les îles Wallis et Futuna "
+b) Au premier alinéa de l'article L. 314-15, après le mot : "
+Saint-Pierre-et-Miquelon ", sont ajoutés les mots : ", en Nouvelle-Calédonie, en
+Polynésie française ou dans les îles Wallis et Futuna ".

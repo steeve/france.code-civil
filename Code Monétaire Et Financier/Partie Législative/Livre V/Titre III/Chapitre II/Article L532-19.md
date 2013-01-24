@@ -10,14 +10,14 @@ Après information préalable de l'Autorité des marchés financiers, qui inform
 cas échéant l'Autorité de contrôle prudentiel et de résolution, l'autorité
 compétente de l'Etat membre d'origine d'un prestataire de service
 d'investissement ayant des succursales situées sur le territoire de la France
-métropolitaine, des départements d'outre-mer et de Saint-Martin peut, dans le
-cadre de ses missions de surveillance, procéder à des vérifications sur place de
-cette succursale, directement ou par l'intermédiaire de personnes que cette
-autorité mandate spécialement à cet effet. Les résultats de ces contrôles sont
-communiqués à l'Autorité des marchés financiers sans que les règles relatives au
-secret professionnel puissent être opposées. L'Autorité des marchés financiers
-informe, le cas échéant, l'Autorité de contrôle prudentiel et de résolution des
-contrôles ci-mentionnés et de leurs résultats.
+métropolitaine, des départements d'outre-mer, du Département de Mayotte et de
+Saint-Martin peut, dans le cadre de ses missions de surveillance, procéder à des
+vérifications sur place de cette succursale, directement ou par l'intermédiaire
+de personnes que cette autorité mandate spécialement à cet effet. Les résultats
+de ces contrôles sont communiqués à l'Autorité des marchés financiers sans que
+les règles relatives au secret professionnel puissent être opposées. L'Autorité
+des marchés financiers informe, le cas échéant, l'Autorité de contrôle
+prudentiel et de résolution des contrôles ci-mentionnés et de leurs résultats.
 
 En outre, l'Autorité de contrôle prudentiel et de résolution et l'Autorité des
 marchés financiers procèdent, le cas échéant, aux vérifications sollicitées par

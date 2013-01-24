@@ -15,8 +15,8 @@ compte.
 
 Ces dispositions s'appliquent si l'un des prestataires de services de paiement
 impliqués dans l'opération est situé sur le territoire de la France
-métropolitaine, dans les départements d'outre-mer, à Saint-Martin, à
-Saint-Barthélemy, à Mayotte ou à Saint-Pierre-et-Miquelon.
+métropolitaine, dans les départements d'outre-mer, dans le Département de
+Mayotte, à Saint-Martin, à Saint-Barthélemy ou à Saint-Pierre-et-Miquelon.
 
 Toute stipulation contraire au présent I est réputée non écrite.
 

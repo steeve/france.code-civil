@@ -1,5 +1,5 @@
 Article L730-1
 ----
-Les références faites par des dispositions du présent code à d'autres articles
-du même code ne concernent que les articles applicables à Mayotte, le cas
-échéant, avec les adaptations prévues dans le présent titre.
+Pour son application à Mayotte, les références faites par des dispositions du
+présent code à des dispositions du code du travail sont remplacées par les
+références aux dispositions ayant le même objet applicables localement.

@@ -1,9 +1,9 @@
 Article L133-1-1
 ----
 I.-Si le prestataire de services de paiement du payeur est situé à
-Saint-Pierre-et-Miquelon ou à Mayotte et que le prestataire de services de
-paiement du bénéficiaire est situé hors de France, quelle que soit la devise
-utilisée pour l'opération de paiement, les dispositions suivantes s'appliquent :
+Saint-Pierre-et-Miquelon et que le prestataire de services de paiement du
+bénéficiaire est situé hors de France, quelle que soit la devise utilisée pour
+l'opération de paiement, les dispositions suivantes s'appliquent :
 
 a) Les dispositions de la section 5 du présent chapitre ;
 
@@ -25,8 +25,8 @@ d) Les dispositions du II de l'article L. 133-26.
 
 II.-Les dispositions du I s'appliquent également si le prestataire de services
 de paiement du payeur est situé sur le territoire de la France métropolitaine,
-dans les départements d'outre-mer, à Saint-Martin ou à Saint-Barthélemy et que
-le prestataire de services de paiement du bénéficiaire est situé dans un Etat
-qui n'est pas membre de la Communauté européenne ni partie à l'accord sur
-l'Espace économique européen, quelle que soit la devise utilisée pour
-l'opération de paiement.
+dans les départements d'outre-mer, dans le Département de Mayotte, à
+Saint-Martin ou à Saint-Barthélemy et que le prestataire de services de paiement
+du bénéficiaire est situé dans un Etat qui n'est pas membre de la Communauté
+européenne ni partie à l'accord sur l'Espace économique européen, quelle que
+soit la devise utilisée pour l'opération de paiement.

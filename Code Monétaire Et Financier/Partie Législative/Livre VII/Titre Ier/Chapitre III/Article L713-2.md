@@ -2,9 +2,8 @@ Article L713-2
 ----
 Les dispositions du présent chapitre sont applicables aux virements de fonds en
 toutes monnaies émis ou reçus par tout prestataire de services de paiement
-domicilié à Saint-Barthélemy, à Saint-Pierre-et-Miquelon, à Mayotte, en
-Nouvelle-Calédonie, en Polynésie française ou dans les îles Wallis et Futuna, à
-l'exception :
+domicilié à Saint-Barthélemy, à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie,
+en Polynésie française ou dans les îles Wallis et Futuna, à l'exception :
 
 1° Des virements de fonds effectués à l'aide d'une carte de crédit ou de débit,
 en vertu d'un contrat conclu avec un prestataire de services de paiement,

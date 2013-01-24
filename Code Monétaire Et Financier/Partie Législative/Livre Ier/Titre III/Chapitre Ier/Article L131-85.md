@@ -1,12 +1,11 @@
 Article L131-85
 ----
 La Banque de France informe les établissements et les personnes sur lesquels
-peuvent être tirés des chèques, les sociétés de financement, les organismes
-mentionnés au 5 de l'article L. 511-6, les établissements de monnaie
-électronique, les établissements de paiement ainsi que, sur sa demande, le
-procureur de la République, des incidents de paiement de chèque, des
-interdictions prononcées en application de l'article L. 163-6 et des levées
-d'interdiction d'émettre des chèques.
+peuvent être tirés des chèques, les organismes mentionnés au 5 de l'article L.
+511-6, les établissements de monnaie électronique, les établissements de
+paiement ainsi que, sur sa demande, le procureur de la République, des incidents
+de paiement de chèque, des interdictions prononcées en application de l'article
+L. 163-6 et des levées d'interdiction d'émettre des chèques.
 
 Seule la Banque de France assure la centralisation des informations prévues à
 l'alinéa précédent.
@@ -35,8 +34,7 @@ concernant les infractions réprimées par les troisième et quatrième alinéas
 l'article L. 163-2 et par les premier et deuxième alinéas de l'article L. 163-7.
 
 Les dispositions de l'article L. 163-11 ne font pas obstacle à ce que les
-établissements de crédit, les sociétés de financement, les organismes mentionnés
-au 5 de l'article L. 511-6, les établissements de monnaie électronique et les
-établissements de paiement utilisent ces informations comme élément
-d'appréciation avant d'accorder un financement, une ouverture de crédit ou de
-délivrer un moyen de paiement.
+établissements de crédit, les organismes mentionnés au 5 de l'article L. 511-6,
+les établissements de monnaie électronique et les établissements de paiement
+utilisent ces informations comme élément d'appréciation avant d'accorder un
+financement, une ouverture de crédit ou de délivrer un moyen de paiement.
