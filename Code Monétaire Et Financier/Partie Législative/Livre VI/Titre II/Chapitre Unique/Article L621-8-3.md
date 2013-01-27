@@ -7,14 +7,16 @@ d'admission d'instruments financiers aux négociations sur un marché réglement
 réalisée sur le territoire français, que des irrégularités ont été commises par
 la personne qui réalise l'opération ou par les établissements chargés du
 placement, elle en informe l'autorité de contrôle de l'État partie à l'accord
-sur l'Espace économique européen ayant approuvé ce document.
+sur l'Espace économique européen ayant approuvé ce document et l'Autorité
+européenne des marchés financiers.
 
 Si, en dépit des mesures prises par cette dernière ou en raison de leur
 inadéquation, l'émetteur ou les établissements chargés du placement persistent à
-violer les dispositions législatives ou réglementaires qui leur sont
+enfreindre les dispositions législatives ou réglementaires qui leur sont
 applicables, l'Autorité des marchés financiers peut, après en avoir informé
-l'autorité de contrôle ayant approuvé le document, prendre toutes les mesures
-qui s'imposent pour protéger les investisseurs.
+l'autorité de contrôle ayant approuvé le document et l'Autorité européenne des
+marchés financiers, prendre toutes les mesures qui s'imposent pour protéger les
+investisseurs.
 
-L'Autorité des marchés financiers informe la Commission européenne de ces
-mesures dans les meilleurs délais.
+L'Autorité des marchés financiers informe la Commission européenne et l'Autorité
+européenne des marchés financiers de ces mesures dans les meilleurs délais.

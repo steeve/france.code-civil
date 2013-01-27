@@ -142,21 +142,3 @@ d'imprimés, des obligations de publicité et d'information édictées par le
 présent code au titre de la transparence des marchés financiers et dans le cadre
 des opérations d'offre au public de titres financiers ou d'admission
 d'instruments financiers aux négociations sur un marché réglementé.
-
-XI.-Concernant le service de notation de crédit :
-
-1° Les conditions d'enregistrement et d'exercice de l'activité des agences de
-notation de crédit mentionnées à l'article L. 544-4 ;
-
-2° Les obligations relatives à la présentation et à la publication des notations
-ainsi que les exigences de publication qui incombent aux agences de notation de
-crédit mentionnées à l'article L. 544-4 ;
-
-3° Les règles de bonne conduite s'appliquant aux personnes physiques placées
-sous l'autorité ou agissant pour le compte des agences de notation de crédit
-mentionnées à l'article L. 544-4 et les dispositions propres à assurer leur
-indépendance d'appréciation et la prévention des conflits d'intérêts ;
-
-4° Les modalités de publication, chaque année, du régime général de rémunération
-des agences de notation mentionnées à l'article L. 544-4, en fonction des
-catégories d'émetteurs et de produits notés.

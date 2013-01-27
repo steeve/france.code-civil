@@ -5,13 +5,16 @@ Lorsque des entités réglementées appartenant à un groupe exerçant des activ
 le secteur de l'assurance ont pour entreprise mère une société dont le siège
 social se situe dans un Etat non membre ni partie à l'accord sur l'Espace
 économique européen, l'Autorité de contrôle prudentiel, lorsqu'elle remplit les
-conditions fixées par l'article L. 334-9 pour être coordonnateur, vérifie, de sa
+conditions fixées par l'article L. 633-2 pour être coordonnateur, vérifie, de sa
 propre initiative ou à la demande de l'entreprise mère ou d'une entité
 réglementée agréée dans un Etat membre ou un autre Etat partie à l'accord sur
 l'Espace économique européen, que ces entités réglementées sont soumises, par
 une autorité compétente du pays tiers, à une surveillance complémentaire
 équivalente à celle prévue à la présente sous-section. Cette autorité consulte
-les autorités compétentes concernées.
+les autorités compétentes concernées. Si une autorité compétente concernée
+saisit l'Autorité bancaire européenne ou l'Autorité européenne des assurances et
+des pensions professionnelles, l'Autorité de contrôle prudentiel suspend sa
+décision et prend une décision conforme à celle retenue par l'autorité saisie.
 
 En l'absence d'une surveillance complémentaire équivalente, les autorités
 compétentes concernées désignent un coordonnateur et appliquent par analogie à

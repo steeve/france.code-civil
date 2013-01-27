@@ -32,7 +32,8 @@ dans d'autres matières utiles à l'exercice par l'Autorité de ses missions ;
 de mutualité, de prévoyance ou de réassurance ;
 
 8° Quatre membres choisis en raison de leurs compétences en matière d'opérations
-de banque, de services de paiement ou de services d'investissement.
+de banque, d'émission et de gestion de monnaie électronique, de services de
+paiement ou de services d'investissement.
 
 Les membres du collège de l'Autorité mentionnés aux 3° à 8°, à l'exception du
 vice-président de l'Autorité, sont nommés pour une durée de cinq ans par arrêté

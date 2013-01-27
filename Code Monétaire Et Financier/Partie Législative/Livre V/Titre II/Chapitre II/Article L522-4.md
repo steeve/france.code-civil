@@ -13,5 +13,5 @@ II.-Les fonds d'utilisateurs de services de paiement collectés par des
 constituent pas des fonds reçus du public au sens de l'article L. 312-2, ni des
 fonds représentatifs de la monnaie électronique.
 
-En conséquence, l'établissement de paiement ne peut disposer de ces fonds pour
-son propre compte.
+L'établissement de paiement ne peut disposer de ces fonds pour son propre
+compte.

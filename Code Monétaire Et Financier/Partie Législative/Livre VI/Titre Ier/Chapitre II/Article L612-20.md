@@ -25,19 +25,19 @@ budget de l'Autorité de contrôle prudentiel.
 
 II. ― Les dispositions applicables en matière d'assiette sont les suivantes :
 
-A. ― Pour les personnes mentionnées aux 1°, 2°, 3° et 4° du A de l'article L.
-612-2, l'assiette est constituée par :
+A. ― Pour les personnes mentionnées aux 1°, 2°, 3°, 4° et 8° du A de l'article
+L. 612-2, l'assiette est constituée par :
 
 1° Les exigences minimales en fonds propres permettant d'assurer le respect des
-ratios de couverture prévus par les articles L. 511-41, L. 522-14 et L. 533-2
-définies au cours de l'exercice clos l'année civile précédente. Les exigences
-minimales en fonds propres sont appréciées sur base consolidée pour les
-personnes relevant des articles L. 511-41-2, L. 533-4-1, L. 517-5 et L. 517-9
-appartenant à un groupe au sens de l'article L. 511-20. Aucune contribution
-additionnelle sur base sociale ou sous-consolidée n'est versée par les personnes
-mentionnées au I appartenant à un groupe au sens du même article L. 511-20
-lorsqu'il s'agit de l'organe central ou des entreprises affiliées à un réseau ou
-d'entreprises sur lesquelles l'entreprise mère exerce, directement ou
+ratios de couverture prévus par les articles L. 511-41, L. 522-14, L. 526-27 et
+L. 533-2 définies au cours de l'exercice clos l'année civile précédente. Les
+exigences minimales en fonds propres sont appréciées sur base consolidée pour
+les personnes relevant des articles L. 511-41-2, L. 533-4-1, L. 517-5 et L.
+517-9 appartenant à un groupe au sens de l'article L. 511-20. Aucune
+contribution additionnelle sur base sociale ou sous-consolidée n'est versée par
+les personnes mentionnées au I appartenant à un groupe au sens du même article
+L. 511-20 lorsqu'il s'agit de l'organe central ou des entreprises affiliées à un
+réseau ou d'entreprises sur lesquelles l'entreprise mère exerce, directement ou
 indirectement, un contrôle exclusif. Une contribution est calculée sur base
 sociale ou sous-consolidée pour les personnes n'appartenant pas à un groupe au
 sens dudit article L. 511-20, ou quand l'entreprise mère n'exerce pas un

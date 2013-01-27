@@ -23,7 +23,10 @@ du code des assurances ;
 7° Aux mutuelles et unions relevant du livre III du code de la mutualité qui lui
 sont liées ;
 
-8° Aux institutions de gestion de retraite supplémentaire qui lui sont liées.
+8° Aux institutions de gestion de retraite supplémentaire qui lui sont liées ;
+
+9° Aux agents et aux personnes auxquelles des fonctions opérationnelles
+importantes ou essentielles sont confiées.
 
 Les faits recueillis à l'occasion de cette extension du contrôle peuvent être
 communiqués par le secrétaire général à la personne mentionnée au premier alinéa

@@ -17,8 +17,9 @@ informe des instances en cours auxquelles il est partie.
 L'administrateur ou, s'il n'en a pas été nommé, le mandataire judiciaire peut,
 nonobstant toute disposition législative ou réglementaire contraire, obtenir
 communication par les administrations et organismes publics, les organismes de
-prévoyance et de sécurité sociale, les établissements de crédit ainsi que les
-services chargés de centraliser les risques bancaires et les incidents de
+prévoyance et de sécurité sociale, les établissements de crédit, les
+établissements de monnaie électronique, les établissements de paiement ainsi que
+les services chargés de centraliser les risques bancaires et les incidents de
 paiement, des renseignements de nature à lui donner une exacte information sur
 la situation patrimoniale du débiteur.
 

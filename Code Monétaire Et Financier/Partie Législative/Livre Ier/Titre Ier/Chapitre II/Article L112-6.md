@@ -1,13 +1,15 @@
 Article L112-6
 ----
-I.-Ne peut être effectué en espèces le paiement d'une dette supérieure à un
-montant fixé par décret, tenant compte du lieu du domicile fiscal du débiteur et
-de la finalité professionnelle ou non de l'opération.
+I.-Ne peut être effectué en espèces ou au moyen de monnaie électronique le
+paiement d'une dette supérieure à un montant fixé par décret, tenant compte du
+lieu du domicile fiscal du débiteur et de la finalité professionnelle ou non de
+l'opération.
 
 Au-delà d'un montant mensuel fixé par décret, le paiement des traitements et
 salaires est soumis à l'interdiction mentionnée à l'alinéa précédent et doit
 être effectué par chèque barré ou par virement à un compte bancaire ou postal ou
-à un compte tenu par un établissement de paiement.
+à un compte tenu par un établissement de paiement ou un établissement de monnaie
+électronique qui fournit des services de paiement.
 
 Toute transaction relative à l'achat au détail de métaux ferreux et non ferreux
 est effectuée par chèque barré, virement bancaire ou postal ou par carte de

@@ -12,8 +12,8 @@ Est puni de la peine d'amende prévue pour les contraventions de la cinquième
 classe le fait de méconnaître l'une des obligations mentionnées au premier
 alinéa du I, au II de l'article L. 312-1-1, au III de l'article L. 314-13
 lorsque le client est une personne physique agissant pour des besoins non
-professionnels et au VII de l'article L. 314-13 ou l'une des interdictions
-édictées au I de l'article L. 312-1-2.
+professionnels, au VII de l'article L. 314-13 et aux articles L. 315-5 à L.
+315-8 ou l'une des interdictions édictées au I de l'article L. 312-1-2.
 
 Avant d'engager l'action publique tendant à l'application de la sanction pénale
 prévue au présent article, le parquet peut saisir pour avis le comité de la

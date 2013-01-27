@@ -23,7 +23,7 @@ débités. Dans un délai de dix jours ouvrables suivant la réception de la dem
 de remboursement, le prestataire de services de paiement soit rembourse le
 montant total de l'opération de paiement, soit justifie son refus de rembourser,
 en indiquant la possibilité de recourir à la procédure de médiation mentionnée à
-l'article L. 315-1.
+l'article L. 316-1.
 
 IV. ― Le remboursement prévu dans la présente section correspond au montant
 total de l'opération de paiement exécutée.

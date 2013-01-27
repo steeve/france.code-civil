@@ -15,5 +15,5 @@ affiche le total du bilan le plus élevé dans le secteur financier le plus
 important du groupe. Elle en informe également les autorités compétentes qui ont
 agréé les entités réglementées du groupe et les autorités compétentes de l'Etat
 membre ou autre Etat partie à l'accord sur l'Espace économique européen dans
-lequel la compagnie financière holding mixte a son siège social, ainsi que la
-Commission européenne.
+lequel la compagnie financière holding mixte a son siège social, ainsi que le
+comité mixte des autorités européennes de surveillance.

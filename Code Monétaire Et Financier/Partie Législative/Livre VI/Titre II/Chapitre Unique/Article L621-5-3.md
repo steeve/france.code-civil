@@ -138,22 +138,9 @@ L. 621-9, cette contribution est égale à un montant fixé par décret et supé
 à 400 euros et inférieur ou égal à 1 000 euros. L'organisme qui tient le
 registre unique prévu à l'article L. 512-1 du code des assurances transmet à
 l'Autorité des marchés financiers une liste arrêtée au 1er janvier de chaque
-exercice de ces personnes (1).
-
-5° Dans le cadre du contrôle des personnes mentionnées au 16° du II de l'article
-L. 621-9, cette contribution est calculée comme suit :
-
-a) Le droit dû à l'enregistrement, exigible le jour du dépôt de la demande
-d'enregistrement, est fixé par décret, pour un montant supérieur à 7 500 € et
-inférieur ou égal à 20 000 € ;
-
-b) Pour chaque année consécutive à l'année d'enregistrement, la contribution est
-fixée à un montant égal au produit d'exploitation réalisé au cours de l'exercice
-précédent multiplié par un taux fixé par décret, qui ne peut excéder 0,5 %, sans
-pouvoir être inférieure à 10 000 €. Elle est exigible à l'issue d'un délai de
-trois mois à compter de la clôture de l'exercice. II bis. ― Il est institué une
-contribution, exigible le 1er janvier de chaque année, due, à partir d'un seuil
-de capitalisation boursière d'un milliard d'euros apprécié au 1er janvier de
+exercice de ces personnes (1). II bis. ― Il est institué une contribution,
+exigible le 1er janvier de chaque année, due, à partir d'un seuil de
+capitalisation boursière d'un milliard d'euros apprécié au 1er janvier de
 l'année d'imposition, par les émetteurs français dont les titres de capital sont
 admis à cette date aux négociations sur un marché réglementé de l'Espace
 économique européen et par les émetteurs étrangers dont les titres de capital

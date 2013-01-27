@@ -16,8 +16,9 @@ d'instruments financiers entre lesdits participants.
 Le système doit soit avoir été institué par une autorité publique, soit être
 régi par une convention-cadre respectant les principes généraux d'une
 convention-cadre de place ou par une convention type. Le ministre chargé de
-l'économie notifie à la Commission européenne la liste des systèmes bénéficiant
-des articles L. 330-1 et L. 330-2 et leurs gestionnaires respectifs.
+l'économie notifie à l'Autorité européenne des marchés financiers la liste des
+systèmes bénéficiant des articles L. 330-1 et L. 330-2 et leurs gestionnaires
+respectifs.
 
 Un accord d'interopérabilité peut être conclu entre les gestionnaires de deux
 systèmes ou plus, impliquant entre les participants des systèmes l'exécution de

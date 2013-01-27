@@ -20,14 +20,18 @@ de la gravité du manquement :
 dans l'exercice de l'activité ;
 
 4° La suspension temporaire d'un ou plusieurs dirigeants ou, dans le cas d'un
-établissement de paiement exerçant des activités hybrides, des personnes
-déclarées responsables de la gestion des activités de services de paiement, avec
-ou sans nomination d'administrateur provisoire ;
+établissement de paiement ou d'un établissement de monnaie électronique exerçant
+des activités hybrides, des personnes déclarées responsables, respectivement, de
+la gestion des activités de services de paiement ou des activités d'émission et
+de gestion de monnaie électronique, avec ou sans nomination d'administrateur
+provisoire ;
 
 5° La démission d'office d'un ou plusieurs dirigeants ou, dans le cas d'un
-établissement de paiement exerçant des activités hybrides, des personnes
-déclarées responsables de la gestion des activités de services de paiement, avec
-ou sans nomination d'administrateur provisoire ;
+établissement de paiement ou d'un établissement de monnaie électronique exerçant
+des activités hybrides, des personnes déclarées responsables, respectivement, de
+la gestion des activités de services de paiement ou des activités d'émission et
+de gestion de monnaie électronique, avec ou sans nomination d'administrateur
+provisoire ;
 
 6° Le retrait partiel d'agrément ;
 
@@ -57,10 +61,10 @@ retard d'exécution, il est procédé à la liquidation de l'astreinte.
 
 La commission des sanctions peut également prononcer les sanctions mentionnées
 au présent article s'il n'a pas été déféré aux injonctions prévues aux articles
-L. 511-41-3 et L. 522-15-1 et aux exigences complémentaires prévues au second
-alinéa de l'article L. 334-1 du code des assurances, au premier alinéa de
-l'article L. 510-1-1 du code de la mutualité ou au premier alinéa de l'article
-L. 931-18 du code de la sécurité sociale.
+L. 511-41-3, L. 522-15-1 et L. 526-29 et aux exigences complémentaires prévues
+au second alinéa de l'article L. 334-1 du code des assurances, au premier alinéa
+de l'article L. 510-1-1 du code de la mutualité ou au premier alinéa de
+l'article L. 931-18 du code de la sécurité sociale.
 
 La décision de la commission des sanctions est rendue publique dans les
 publications, journaux ou supports qu'elle désigne, dans un format proportionné

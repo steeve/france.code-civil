@@ -69,18 +69,18 @@ du travail ;
 
 15° Les agents liés mentionnés à l'article L. 545-1 ;
 
-16° Les agences de notation de crédit mentionnées à l'article L. 544-4 ;
+16° (Abrogé)
 
 17° Les associations professionnelles de conseillers en investissements
 financiers agréées mentionnées à l'article L. 541-4.
 
 Pour les personnes ou entités autres que celles fournissant des services
 mentionnés au 4 de l'article L. 321-1 ou que les personnes ou entités
-mentionnées aux 7°, 7° bis, 8°, 10°, 11° et 16° ci-dessus, pour lesquelles
-l'Autorité des marchés financiers est seule compétente, le contrôle s'exerce
-sous réserve des compétences de l'Autorité de contrôle prudentiel et, pour
-celles mentionnées aux 3° et 6°, sans préjudice des compétences conférées à la
-Banque de France par l'article L. 141-4.
+mentionnées aux 7°, 7° bis, 8°, 10° et 11° du présent II ci-dessus, pour
+lesquelles l'Autorité des marchés financiers est seule compétente, le contrôle
+s'exerce sous réserve des compétences de l'Autorité de contrôle prudentiel et,
+pour celles mentionnées aux 3° et 6°, sans préjudice des compétences conférées à
+la Banque de France par l'article L. 141-4.
 
 L'Autorité des marchés financiers est également chargée d'assurer le respect,
 par les prestataires de services d'investissement mentionnés à l'article L.

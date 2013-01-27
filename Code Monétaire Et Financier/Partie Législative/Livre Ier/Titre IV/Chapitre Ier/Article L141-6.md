@@ -1,7 +1,9 @@
 Article L141-6
 ----
 I.-La Banque de France est habilitée à se faire communiquer par les
-établissements de crédit, les établissements de paiement, les entreprises
+établissements de crédit, les établissements de monnaie électronique, les
+entreprises mentionnées au II de l'article L. 511-7 et aux articles L. 521-3, L.
+525-4 et L. 525-5, les établissements de paiement, les entreprises
 d'investissement, les organismes de placement collectif en valeurs mobilières,
 les compagnies financières, les entreprises d'assurance et de réassurance régies
 par le code des assurances et les entreprises industrielles et commerciales tous

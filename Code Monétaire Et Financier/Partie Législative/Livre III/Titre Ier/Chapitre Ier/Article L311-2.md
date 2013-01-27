@@ -20,7 +20,9 @@ législatives relatives à l'exercice illégal de certaines professions ;
 6. Les opérations de location simple de biens mobiliers ou immobiliers pour les
 établissements habilités à effectuer des opérations de crédit-bail ;
 
-7. Les services de paiement mentionnés au II de l'article L. 314-1.
+7. Les services de paiement mentionnés au II de l'article L. 314-1 ;
+
+8. L'émission et la gestion de monnaie électronique.
 
 Lorsqu'il constitue la fourniture de services d'investissement au sens de
 l'article L. 321-1, l'exercice des opérations connexes et de l'activité de

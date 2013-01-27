@@ -37,13 +37,3 @@ Pour accorder l'exemption, l'Autorité de contrôle prudentiel doit notamment
 prendre en compte la sécurité des moyens de paiement, les modalités retenues
 pour assurer la protection des utilisateurs, le montant unitaire et les
 modalités de chaque transaction.
-
-Lorsque l'entreprise bénéficiaire de l'exemption gère ou met à disposition des
-moyens de paiement sous forme de monnaie électronique :
-
-1° La capacité maximale de chargement du support électronique mis à la
-disposition des porteurs à des fins de paiement ne peut excéder un montant fixé
-par arrêté du ministre chargé de l'économie ;
-
-2° Un rapport d'activité, dont le contenu est fixé par arrêté du ministre chargé
-de l'économie, est fourni annuellement à la Banque de France.

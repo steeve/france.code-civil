@@ -1,6 +1,7 @@
 Article L519-3-4
 ----
 Lorsqu'il agit pour le compte d'un établissement de crédit, d'un établissement
+de monnaie électronique qui fournit des services de paiement, d'un établissement
 de paiement ou d'un autre intermédiaire en opérations de banque et en services
 de paiement, notamment en application d'un mandat qui lui a été délivré, les
 conséquences pécuniaires de la responsabilité civile professionnelle de

@@ -56,10 +56,35 @@ moins que ces consultations n'aient été fournies à des fins de blanchiment de
 capitaux ou de financement du terrorisme ou en sachant que le client les demande
 aux fins de blanchiment de capitaux ou de financement du terrorisme.
 
-V. - Dans l'exercice des missions dont ils sont chargés par décision de justice,
+V.-Dans l'exercice des missions dont ils sont chargés par décision de justice,
 les administrateurs judiciaires, les mandataires judiciaires et les
 commissaires-priseurs judiciaires sont soumis aux dispositions du présent
 chapitre, sous réserve que celles-ci soient compatibles avec leur mandat. Le
 client s'entend alors de la personne visée par la procédure et, le cas échéant,
 de la personne qui se porte acquéreur du bien offert à la vente ou qui dépose
 une offre de reprise partielle ou totale de l'entreprise.
+
+VI.-Les établissements de paiement et les établissements de monnaie électronique
+ayant leur siège social dans un Etat membre de l'Union européenne ou dans un
+Etat partie à l'accord sur l'Espace économique européen qui recourent, pour
+exercer leur activité sur le territoire national, aux services d'un ou de
+plusieurs agents ou à des personnes en vue de distribuer, au sens de l'article
+L. 525-8, de la monnaie électronique sont soumis aux sections 3 et 4 du présent
+chapitre et au chapitre II du présent titre.
+
+Chaque établissement désigne un représentant permanent, résidant sur le
+territoire national. Ce représentant permanent peut être désigné parmi les
+agents ou les personnes qui distribuent de la monnaie électronique, au sens de
+l'article L. 525-8. Dans des conditions déterminées par décret, quand la nature
+ou le volume de l'activité exercée en France le justifient, l'Autorité de
+contrôle prudentiel peut demander à l'établissement que cette fonction soit
+exercée par une personne spécialement désignée à cet effet et à l'exclusion de
+toutes autres activités exercées pour le compte et au nom de l'établissement de
+paiement ou de l'établissement de monnaie électronique.
+
+Le représentant permanent procède au nom de l'établissement aux déclarations
+prescrites aux articles L. 561-15 et L. 561-15-1. Il répond aux demandes
+formulées par le service mentionné à l'article L. 561-23, en application des
+sections 3 et 4 du présent chapitre et du chapitre II du présent titre, ainsi
+qu'à toute demande émanant de l'Autorité de contrôle prudentiel, de l'autorité
+judiciaire et des officiers de police judiciaire.

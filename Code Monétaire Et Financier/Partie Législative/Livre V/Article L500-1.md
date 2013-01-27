@@ -6,11 +6,11 @@ définitive mentionnée au II :
 
 1° Diriger, gérer, administrer ni être membre d'un organe collégial de contrôle
 d'un organisme mentionné aux articles L. 213-8, L. 511-9, L. 517-1, L. 517-4, L.
-522-1, L. 531-1, L. 542-1 et L. 543-1, ni disposer du pouvoir de signer pour le
-compte de cet organisme ;
+522-1, L. 526-1, L. 531-1, L. 542-1 et L. 543-1, ni disposer du pouvoir de
+signer pour le compte de cet organisme ;
 
 2° Exercer l'une des professions ou activités mentionnées aux articles L. 341-1,
-L. 519-1, L. 524-1, L. 523-1, L. 541-1 et L. 550-1.
+L. 519-1, L. 524-1, L. 523-1, L. 525-8, L. 541-1 et L. 550-1.
 
 II.-Les condamnations mentionnées au I sont celles :
 
