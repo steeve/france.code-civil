@@ -434,20 +434,17 @@ Reims.
 
 Cour d'appel de Rennes Côtes-d'Armor
 
-[Guingamp
 
-Lannion (3).]
+Saint-Brieuc
 
-[Saint-Brieuc
-
-Lannion (4).]
+Lannion, Loudéac
 
 
 Loire-Atlantique
 
 Nantes
 
-Châteaubriant.
+Nantes, Nantes-Rezé, Châteaubriant.
 
 Cour d'appel de Riom Allier
 
@@ -525,5 +522,6 @@ Versailles
 
 Les Mureaux, Saint-Quentin-en-Yvelines.
 
-(3) Applicable jusqu'au 31 décembre 2010. (4) Applicable à compter du 1er
-janvier 2011.
+(3) Applicable jusqu'au 31 décembre 2010.
+
+(4) Applicable à compter du 1er janvier 2011.
