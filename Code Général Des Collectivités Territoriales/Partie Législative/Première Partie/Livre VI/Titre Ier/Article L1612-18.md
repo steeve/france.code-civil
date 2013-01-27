@@ -1,14 +1,16 @@
 Article L1612-18
 ----
-Dans le cadre des commandes publiques, lorsque des intérêts moratoires ne sont
-pas mandatés en même temps que le principal, ce dernier étant d'un montant
-supérieur à un seuil fixé par voie réglementaire, le comptable assignataire de
-la dépense en informe l'ordonnateur et le représentant de l'Etat dans le
-département dans un délai de dix jours suivant la réception de l'ordre de
-paiement. Dans un délai de quinze jours, le représentant de l'Etat adresse à
-l'ordonnateur une mise en demeure de mandatement.A défaut d'exécution dans un
-délai d'un mois, le représentant de l'Etat procède d'office, dans un délai de
-dix jours, au mandatement de la dépense.
+Lorsque les sommes dues au titre des intérêts moratoires et de l'indemnité
+forfaitaire pour frais de recouvrement mentionnés aux articles 39 et 40 de la
+loi n° 2013-100 du 28 janvier 2013 portant diverses dispositions d'adaptation de
+la législation au droit de l'Union européenne en matière économique et
+financière ne sont pas mandatées dans les trente jours suivant la date de
+paiement du principal, le représentant de l'Etat dans le département adresse à
+l'ordonnateur, dans un délai de quinze jours après signalement par le créancier,
+le comptable public ou tout autre tiers, une mise en demeure de mandatement. A
+défaut d'exécution dans un délai d'un mois à compter de cette mise en demeure,
+le représentant de l'Etat procède d'office, dans un délai de dix jours, au
+mandatement de la dépense.
 
 Toutefois, si dans le délai d'un mois dont il dispose, l'ordonnateur notifie un
 refus d'exécution motivé par une insuffisance de crédits disponibles, ou si,
