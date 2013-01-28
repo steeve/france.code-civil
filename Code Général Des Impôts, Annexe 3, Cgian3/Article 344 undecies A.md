@@ -3,7 +3,7 @@ Article 344 undecies A
 Le montant des droits prévus à l'article 1635 bis AE du code général des impôts
 est fixé comme suit :
 
-I.-Au titre du 1° du I de l'article 1635 bis AE précité, pour les demandes
+I. - Au titre du 1° du I de l'article 1635 bis AE précité, pour les demandes
 d'enregistrement mentionnées aux articles L. 5121-13 et L. 5121-14 du code de la
 santé publique, de modification ou de renouvellement de cet enregistrement
 relatives à un médicament homéopathique ou une série de médicaments
@@ -51,13 +51,7 @@ obtenus à partir de six souches homéopathiques ou plus
 
 4° Demande de renouvellement d'enregistrement : 1 500 €.
 
-La quittance obtenue de l'administration fiscale après versement d'un des droits
-mentionnés aux 1°, 2°, 3° ou 4° est produite à l'appui de la demande déposée
-auprès de l'agence mentionnée à l'article L. 5311-1 du code de la santé
-publique, conformément au III de l'article 1635 bis AE du code général des
-impôts.
-
-II.-Au titre du 2° du I de l'article 1635 bis AE précité, pour les demandes
+II. - Au titre du 2° du I de l'article 1635 bis AE précité, pour les demandes
 d'enregistrement, de modification ou de renouvellement de cet enregistrement
 relatives à un médicament traditionnel à base de plantes, les montants sont
 fixés comme suit :
@@ -88,13 +82,7 @@ R. 5121-107-8, R. 5121-107-11 et R. 5121-107-13 du code de la santé publique : 
 3° Demande de renouvellement de l'enregistrement présentée dans les conditions
 fixées à l'article R. 5121-99 du code de la santé publique : 5 000 €.
 
-La quittance obtenue de l'administration fiscale après versement d'un des droits
-mentionnés aux 1°, 2° ou 3° du présent II est produite à l'appui de la demande
-déposée auprès de l'agence mentionnée à l'article L. 5311-1 du code de la santé
-publique, conformément au III de l'article 1635 bis AE du code général des
-impôts.
-
-III.-Au titre du 3° du I de l'article 1635 bis AE précité, pour les demandes
+III. - Au titre du 3° du I de l'article 1635 bis AE précité, pour les demandes
 d'autorisation de mise sur le marché, de renouvellement ou de modification de
 cette autorisation :
 
@@ -116,7 +104,7 @@ l'article R. 5121-51-3 du code de la santé publique (procédure nationale)
 pharmaceutique ou à un autre médicament mentionné à l'article L. 5121-8 du code
 de la santé publique présentée conformément aux articles
 
-R. 5121-21et R. 5121-25 du même code
+R. 5121-21 et R. 5121-25 du même code
 
 50 000 €
 
@@ -315,15 +303,9 @@ Quelle que soit la procédure : 1 400 €
 d'une spécialité pharmaceutique ou autre médicament mentionné à l'article L.
 5121-8 du code de la santé publique
 
-Quelle que soit la procédure : 500 €
+Quelle que soit la procédure : 5 000 €
 
-La quittance obtenue de l'administration fiscale après versement d'un des droits
-mentionnés aux 1°, 2°, 3°, 4°, 5° ou 6° du présent III est produite à l'appui de
-la demande déposée auprès de l'agence mentionnée à l'article L. 5311-1 du code
-de la santé publique, conformément au III de l'article 1635 bis AE du code
-général des impôts.
-
-IV.-Au titre du 4° du I de l'article 1635 bis AE précité, pour les demandes de
+IV. - Au titre du 4° du I de l'article 1635 bis AE précité, pour les demandes de
 reconnaissance par au moins un autre Etat membre de l'Union européenne ou partie
 à l'accord sur l'Espace économique européen d'une autorisation de mise sur le
 marché délivrée par le directeur général de l'agence mentionnée à l'article L.
@@ -439,45 +421,30 @@ produits
 
 7 000 €
 
-La quittance obtenue de l'administration fiscale après versement d'un des droits
-mentionnés aux 1°, 2°, 3° et 4° du présent IV est produite à l'appui de la
-demande déposée auprès de l'agence mentionnée à l'article L. 5311-1 du code de
-la santé publique, conformément au III de l'article 1635 bis AE du code général
-des impôts.
-
-V.-Au titre du 5° du I de l'article 1635 bis AE précité, pour les demandes
+V. - Au titre du 5° du I de l'article 1635 bis AE précité, pour les demandes
 d'importation parallèle, les modifications ou les renouvellements d'importation
 parallèle :
 
--pour toute demande d'autorisation d'importation parallèle mentionnée à
+- pour toute demande d'autorisation d'importation parallèle mentionnée à
 l'article R. 5121-120 du code de la santé publique : 5 000 € ;
 
--pour toute demande de modification d'autorisation d'importation parallèle : 500
-€ ;
+- pour toute demande de modification d'autorisation d'importation parallèle :
+500 € ;
 
--pour toute demande de renouvellement quinquennal d'autorisation d'importation
+- pour toute demande de renouvellement quinquennal d'autorisation d'importation
 parallèle mentionnée à l'article R. 5121-125 du code de la santé publique : 674
 €.
 
-La quittance obtenue de l'administration fiscale après versement d'un des droits
-mentionnés au présent V est produite à l'appui de la demande déposée auprès de
-l'agence mentionnée à l'article L. 5311-1 du code de la santé publique,
-conformément au III de l'article 1635 bis AE du code général des impôts.
+VI. - Au titre du 6° du I de l'article 1635 bis AE précité, pour toute demande
+de visa ou de renouvellement de visa de publicité mentionné aux articles L.
+5122-8, L. 5122-9 et L. 5122-14 du code de la santé publique : 510 €.
 
-VI.-Au titre du 6° du I de l'article 1635 bis AE précité, pour toute demande de
-visa ou de renouvellement de visa de publicité mentionné aux articles L. 5122-8
-et L. 5122-14 du code de la santé publique : 510 €.
+VII. - Au titre du 7° du I de l'article 1635 bis AE précité, pour toute demande
+d'autorisation ou de renouvellement d'autorisation de publicité mentionnée aux
+articles L. 5213-4 et L. 5223-3 du code de la santé publique : 510 €.
 
-La quittance obtenue de l'administration fiscale après versement du droit est
-produite à l'appui de la demande déposée auprès de l'agence mentionnée à
-l'article L. 5311-1 du code de la santé publique, conformément au III de
-l'article 1635 bis AE du code général des impôts.
-
-VII.-Au titre du 7° du I de l'article 1635 bis AE précité, pour tout dépôt de
-publicité mentionné aux articles L. 5122-9 et L. 5122-14 du code de la santé
-publique : 510 €.
-
-La quittance obtenue de l'administration fiscale après versement du droit est
-produite à l'appui de la demande déposée auprès de l'agence mentionnée à
-l'article L. 5311-1 du code de la santé publique, conformément au III de
-l'article 1635 bis AE du code général des impôts.
+VIII. - La quittance obtenue de l'administration fiscale après versement d'un
+des droits mentionnés aux I à VII est produite à l'appui de la demande déposée
+auprès de l'agence mentionnée à l'article L. 5311-1 du code de la santé
+publique, conformément au III de l'article 1635 bis AE du code général des
+impôts.
