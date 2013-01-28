@@ -18,11 +18,13 @@ et l'annexe.
 
 Les comptes combinés annuels des organismes de sécurité sociale mentionnés au
 quatrième alinéa de l'article L. 114-6 sont constitués par la combinaison, selon
-des modalités appropriées, du compte de l'organisme national concerné, des
-comptes des organismes de base ainsi que de ceux des autres organismes compris
-dans le périmètre de combinaison, conformément à la norme arrêtée en la matière
-après avis du Haut Conseil et de l'Autorité des normes comptables. Ils
-comportent un bilan combiné, un compte de résultat combiné et une annexe.
+des modalités fixées par arrêté conjoint des ministres chargés du budget, de la
+sécurité sociale et de l'agriculture, du compte de l'organisme national
+concerné, des comptes des organismes de base ainsi que de ceux des autres
+organismes compris dans le périmètre de combinaison, conformément à la norme
+arrêtée en la matière après avis du Conseil de normalisation des comptes
+publics. Ils comportent un bilan combiné, un compte de résultat combiné et une
+annexe.
 
 La validation, effectuée par l'agent comptable national, consiste à attester que
 les comptes annuels des organismes locaux sont réguliers et sincères et donnent
@@ -32,8 +34,7 @@ patrimoine.
 Les contrôles de l'agent comptable national sont effectués selon les modalités
 fixées par un référentiel commun de validation des comptes dont les principes
 sont approuvés par arrêté conjoint des ministres chargés du budget, de la
-sécurité sociale et de l'agriculture, après avis du Haut Conseil
-interministériel de la comptabilité des organismes de sécurité sociale.
+sécurité sociale et de l'agriculture.
 
 Le rapport de validation présente les conclusions de l'agent comptable national
 sur la tenue des comptes. Après en avoir pris connaissance, le directeur de
