@@ -2,8 +2,9 @@ Article L522-6
 ----
 I.-Avant de fournir des services de paiement, les établissements de paiement
 doivent obtenir un agrément qui est délivré par l'Autorité de contrôle
-prudentiel, après avis de la Banque de France au titre du troisième alinéa de
-l'article L. 141-4. Cet agrément ne peut être accordé qu'à une personne morale.
+prudentiel, après avis de la Banque de France au titre du troisième alinéa du I
+de l'article L. 141-4. Cet agrément ne peut être accordé qu'à une personne
+morale.
 
 II.-Pour délivrer l'agrément à un établissement de paiement, l'Autorité de
 contrôle prudentiel vérifie que, compte tenu de la nécessité de garantir une
