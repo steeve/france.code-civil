@@ -1,25 +1,15 @@
 Article R214-116
 ----
-Il est institué auprès des ministres chargés de la recherche et de l'agriculture
-une commission nationale de l'expérimentation animale.
+Les prestations de services relatives à la conception ou à la réalisation de
+procédures expérimentales effectuées en France à titre temporaire et occasionnel
+par les professionnels ressortissants d'un Etat membre de l'Union européenne ou
+d'un Etat partie à l'Espace économique européen, établis sur le territoire d'un
+de ces Etats, sont régies par l'article L. 204-1.
 
-Cette commission donne son avis sur tout projet de modification de la
-législation ou de la réglementation relative à l'expérimentation animale.
-
-Elle peut également être consultée par les ministres auprès desquels elle est
-placée, donner des avis et faire toute proposition qu'elle juge utile sur :
-
-1° La mise en place de méthodes expérimentales permettant d'éviter l'utilisation
-d'animaux vivants ;
-
-2° L'élevage d'animaux de laboratoire lorsque l'utilisation de ceux-ci est
-indispensable ;
-
-3° Les méthodes de nature à améliorer les conditions de transport, d'hébergement
-et d'utilisation des animaux de laboratoire ;
-
-4° La formation des personnes appelées à utiliser des animaux à des fins
-scientifiques et expérimentales et celle des techniciens de laboratoire ;
-
-5° Et plus généralement sur l'ensemble des conditions d'application de la
-présente sous-section.
+Lorsque la vérification des qualifications professionnelles du prestataire fait
+apparaître une différence substantielle entre ces qualifications et la formation
+exigée de nature à nuire à la sécurité ou à la santé du bénéficiaire du service,
+l'intéressé est mis à même de démontrer qu'il a acquis les connaissances et
+compétences manquantes, par une épreuve d'aptitude dont les modalités sont
+précisées par arrêté conjoint des ministres chargés de l'agriculture et de la
+recherche et du ministre de la défense.

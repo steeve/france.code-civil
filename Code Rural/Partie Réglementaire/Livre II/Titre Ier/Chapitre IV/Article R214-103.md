@@ -1,21 +1,11 @@
 Article R214-103
 ----
-Pour tout établissement dans lequel doivent être pratiquées des expériences sur
-les animaux, une demande d'agrément est adressée par le responsable de
-l'établissement au préfet du département du lieu d'implantation de
-l'établissement par lettre recommandée avec demande d'avis de réception.
+Tout établissement éleveur, fournisseur ou utilisateur doit se doter d'une
+structure chargée du bien-être des animaux dont la composition, le rôle et le
+fonctionnement sont définis par arrêté conjoint des ministres chargés de
+l'agriculture et de la recherche et du ministre de la défense.
 
-Cette demande doit être accompagnée d'un dossier comportant :
-
-1° La description sommaire des installations destinées à l'hébergement des
-animaux et à la pratique des expériences ;
-
-2° L'indication sommaire des qualifications des personnes qui, en dehors des
-titulaires de l'autorisation prévue aux articles R. 214-99 à R. 214-102, seront
-appelées à participer aux expériences sur des animaux.
-
-Un arrêté conjoint des ministres chargés de l'agriculture, de la recherche, de
-l'enseignement supérieur, de l'éducation nationale, de la santé, de l'industrie
-et de la protection de la nature fixe les normes auxquelles doivent être
-conformes les installations des établissements, le nombre minimum et la
-qualification des personnes mentionnées au 2° ci-dessus.
+Par dérogation à l'alinéa précédent, le préfet peut autoriser un établissement
+éleveur, fournisseur ou utilisateur de très petite taille à réaliser les tâches
+confiées à cette structure par d'autres moyens que ceux précisés par l'arrêté
+mentionné à l'alinéa précédent.

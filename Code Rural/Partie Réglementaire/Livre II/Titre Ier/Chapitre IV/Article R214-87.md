@@ -1,29 +1,30 @@
 Article R214-87
 ----
-Sont licites les expériences ou recherches pratiquées sur des animaux vivants à
-condition, d'une part, qu'elles revêtent un caractère de nécessité et que ne
-puissent utilement y être substituées d'autres méthodes expérimentales et,
-d'autre part, qu'elles soient poursuivies aux fins ci-après :
+Les dispositions de la présente section s'appliquent lorsque des animaux sont
+utilisés ou destinés à être utilisés dans des procédures expérimentales telles
+que définies à l'article R. 214-89, ou lorsqu'ils sont élevés pour que leurs
+organes ou tissus puissent être utilisés à des fins scientifiques.
 
-1° Le diagnostic, la prévention et le traitement des maladies ou d'autres
-anomalies de l'homme, des animaux ou des plantes ;
+Les dispositions de la présente section s'appliquent jusqu'à ce que les animaux
+visés au premier alinéa aient été mis à mort, placés dans un système d'élevage
+approprié ou relâchés dans un habitat approprié.
 
-2° Les essais d'activité, d'efficacité et de toxicité des médicaments et des
-autres substances biologiques et chimiques et de leurs compositions, y compris
-les radioéléments, ainsi que les essais des matériels à usage thérapeutique pour
-l'homme et les animaux ;
+Ces dispositions s'appliquent aux :
 
-3° Le contrôle et l'évaluation des paramètres physiologiques chez l'homme et les
-animaux ;
+-animaux vertébrés vivants, y compris les formes larvaires autonomes et les
+formes fœtales de mammifères à partir du dernier tiers de leur développement
+normal ;
 
-4° Le contrôle de la qualité des denrées alimentaires ;
+-formes larvaires autonomes et formes fœtales de mammifères à un stade de
+développement antérieur au dernier tiers de leur développement normal, si
+l'animal doit être laissé en vie au-delà de ce stade de développement et risque,
+à la suite des procédures expérimentales menées, d'éprouver de la douleur, de la
+souffrance ou de l'angoisse ou de subir des dommages durables après avoir
+atteint ce stade de développement ;
 
-5° La recherche fondamentale et la recherche appliquée ;
+-céphalopodes vivants.
 
-6° L'enseignement supérieur ;
-
-7° L'enseignement technique et la formation professionnelle conduisant à des
-métiers qui comportent la réalisation d'expériences sur des animaux ou le
-traitement et l'entretien des animaux ;
-
-8° La protection de l'environnement.
+Le recours à un anesthésique, à un analgésique ou à d'autres méthodes destinées
+à supprimer la douleur, la souffrance, l'angoisse ou les dommages durables ne
+place pas l'utilisation d'un animal en dehors du champ d'application de la
+présente section.

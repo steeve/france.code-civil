@@ -1,11 +1,24 @@
 Article R214-98
 ----
-Les responsables et le personnel des établissements d'expérimentation et des
-établissements d'élevage ou de fourniture d'animaux d'expérience sont tenus, à
-l'endroit des animaux qu'ils détiennent, aux obligations qui découlent des
-dispositions de l'article R. 214-17.
+La mise à mort est effectuée en limitant le plus possible la douleur, la
+souffrance et l'angoisse de l'animal, par une personne compétente de
+l'établissement éleveur, fournisseur ou utilisateur. Toutefois, dans le cas
+d'une étude sur le terrain, un animal peut être mis à mort en dehors d'un
+établissement.
 
-Les chiens, les chats et les primates qui se trouvent dans ces établissements
-doivent être identifiés par un marquage individuel et permanent. Lorsque les
-animaux sont sevrés, ce marquage doit être conforme aux modalités prévues pour
-l'application de l'article L. 212-10.
+La liste et les conditions d'utilisation des méthodes de mise à mort sont
+précisées par arrêté conjoint des ministres chargés de l'environnement, de
+l'agriculture et de la recherche et du ministre de la défense.
+
+Des dérogations concernant les méthodes de mise à mort identifiées dans l'arrêté
+mentionné à l'alinéa précédent peuvent être accordées par le ministre chargé de
+la recherche pour autant que, sur la base de données scientifiques, la méthode
+alternative soit considérée comme équivalente ou sur la base d'éléments
+scientifiques démontrant que la finalité de la procédure expérimentale ne peut
+être atteinte par le recours à une méthode de mise à mort spécifiée dans
+l'arrêté mentionné à l'alinéa précédent.
+
+Les dispositions du premier alinéa et celles de l'arrêté prévu au deuxième
+alinéa du présent article ne s'appliquent pas lorsqu'un animal est mis à mort en
+cas d'urgence pour des raisons liées au bien-être des animaux, à la santé
+publique, à la santé animale, à la sécurité publique ou à l'environnement.

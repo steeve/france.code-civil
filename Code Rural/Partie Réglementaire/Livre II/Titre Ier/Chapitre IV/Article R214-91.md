@@ -1,18 +1,16 @@
 Article R214-91
 ----
-Les expériences sur des animaux vivants qui peuvent entraîner des souffrances
-doivent être pratiquées sous anesthésie générale ou locale ou après recours à
-des procédés analgésiques équivalents, sauf si la pratique de l'anesthésie ou de
-l'analgésie est considérée comme plus traumatisante pour les animaux que
-l'expérience elle-même.
+Les animaux d'espèces domestiques errants ou vivant à l'état sauvage ne sont pas
+utilisés dans des procédures expérimentales. A titre exceptionnel, des
+dérogations peuvent être accordées par les ministres chargés de l'agriculture et
+de la recherche après avis favorable de la Commission nationale de
+l'expérimentation animale pour autant que les conditions suivantes soient
+satisfaites :
 
-Lorsque les expériences sont incompatibles avec l'emploi d'anesthésiques ou
-d'analgésiques, leur nombre doit être réduit au strict minimum et la nécessité
-de ces modalités de mise en oeuvre doit être justifiée dans la demande
-d'autorisation mentionnée à l'article R. 214-99. Ces expériences sans anesthésie
-ou analgésie, lorsqu'elles ont pour conséquence d'exposer l'animal à des
-douleurs intenses ou susceptibles de se prolonger ou au risque de telles
-douleurs, doivent être expressément déclarées et justifiées par le titulaire de
-l'autorisation d'expérimenter, auprès du préfet, préalablement à leur mise en
-oeuvre. Il ne peut être procédé sans anesthésie ou analgésie à plus d'une
-intervention douloureuse sur un même animal.
+a) Il existe une nécessité essentielle de mener cette procédure expérimentale
+qui concerne la santé et le bien-être des animaux de la même espèce ou une
+menace sérieuse pour la santé humaine ou animale ou pour l'environnement ;
+
+b) Il existe des éléments scientifiques démontrant que la finalité de la
+procédure expérimentale ne peut être atteinte qu'en utilisant un animal errant
+ou vivant à l'état sauvage.

@@ -1,11 +1,17 @@
 Article R214-93
 ----
-Toute personne qui se livre à des expériences sur les animaux doit être
-titulaire d'une autorisation nominative délivrée, dans les conditions prévues
-aux articles R. 214-99 à R. 214-102, par le préfet ou, à défaut, ne pratiquer
-que sous la direction et le contrôle d'une personne titulaire de cette
-autorisation.
+L'utilisation dans des procédures expérimentales d'animaux appartenant à des
+espèces menacées, autres que celles appartenant à l'ordre des primates,
+énumérées à l'annexe A du règlement (CE) n° 338/97 du Conseil du 9 décembre 1996
+relatif à la protection des espèces de faune et de flore sauvages par le
+contrôle de leur commerce, qui ne relèvent pas du champ d'application de
+l'article 7, paragraphe 1, de ce règlement, n'est autorisée que pour les
+procédures expérimentales répondant aux conditions suivantes :
 
-L'autorisation est générale ou spéciale. Le titulaire comme les personnes qui
-travaillent sous sa direction et son contrôle ne peuvent pratiquer d'expériences
-que dans les limites de l'autorisation.
+a) La procédure poursuit l'une des finalités visées au i du b, au c ou au e du
+1° de l'article R. 214-105 ;
+
+b) Il existe des éléments scientifiques démontrant que la finalité de la
+procédure ne peut être atteinte en utilisant d'autres espèces que celles
+énumérées dans l'annexe A du règlement (CE) n° 338/97 du Conseil du 9 décembre
+1996.

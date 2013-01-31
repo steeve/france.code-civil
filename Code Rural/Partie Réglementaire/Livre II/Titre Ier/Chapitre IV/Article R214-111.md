@@ -1,7 +1,8 @@
 Article R214-111
 ----
-Toute personne pratiquant des expériences sur des animaux doit être en mesure de
-présenter aux agents de contrôle l'autorisation prévue par l'article R. 214-93
-ou l'avis de réception de sa demande, si l'autorisation a été tacite. Elle doit,
-à défaut, justifier qu'elle pratique sous la direction et le contrôle d'une
-personne titulaire d'une telle autorisation.
+Un animal n'est pas gardé en vie à l'issue d'une procédure expérimentale s'il
+est susceptible de continuer à éprouver une douleur, une souffrance ou une
+angoisse ou de subir l'effet de dommages durables des classes " modérée " ou "
+sévère " définies par l'arrêté mentionné à l'article R. 214-122. Il est en ce
+cas mis à mort avant la fin de l'anesthésie ou le plus rapidement possible
+lorsque la procédure expérimentale a été faite sans anesthésie.
