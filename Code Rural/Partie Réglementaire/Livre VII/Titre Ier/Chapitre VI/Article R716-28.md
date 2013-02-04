@@ -10,7 +10,3 @@ l'administration et est remise au service des impôts du siège de la direction 
 l'entreprise ou, à défaut, du lieu du principal établissement. Toutefois, s'il
 s'agit d'un employeur passible de l'impôt sur les sociétés, la déclaration est
 remise au service des impôts du lieu du principal établissement.
-
-A cette déclaration est annexé un état faisant apparaître la répartition de la
-participation des employeurs agricoles à l'effort de construction entre les
-différents établissements des entreprises.
