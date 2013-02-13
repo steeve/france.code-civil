@@ -1,7 +1,6 @@
 Article R300-1
 ----
-Les opérations d'aménagement réalisées par les communes et les autres personnes
-publiques ou pour leur compte, qui sont soumises aux obligations prévues au c de
+Les opérations d'aménagement soumises aux obligations prévues au 3° du I de
 l'article L. 300-2 sont les opérations suivantes :
 
 1. L'opération ayant pour objet dans une commune non dotée d'un plan local

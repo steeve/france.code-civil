@@ -8,9 +8,9 @@ par l'article L. 112-1 comprend, outre le préfet, président :
 2° Deux maires ou leurs représentants désignés par l'association des maires du
 département ;
 
-3° Le président d'un établissement public ou d'un syndicat mixte mentionné à
-l'article L. 122-4 du code de l'urbanisme et ayant son siège dans le
-département, désigné par l'association des maires du département, ou son
+3° Le président d'un établissement public ou d'un syndicat mixte mentionné aux
+articles L. 122-4 et L. 122-4-1 du code de l'urbanisme et ayant son siège dans
+le département, désigné par l'association des maires du département, ou son
 représentant ;
 
 4° Le directeur de la direction départementale des territoires ou de la

@@ -50,9 +50,10 @@ Le rapport de présentation est proportionné à l'importance du schéma de
 cohérence territoriale, aux effets de sa mise en œuvre ainsi qu'aux enjeux
 environnementaux de la zone considérée.
 
-En cas de modification ou de révision du schéma de cohérence territoriale, le
-rapport de présentation est complété, le cas échéant, par l'exposé des motifs
-des changements apportés.
+En cas de modification, de révision ou de mise en compatibilité dans les cas
+prévus aux articles R. 122-13, R. 122-13-1, R. 122-13-2 et R. 122-13-3 du schéma
+de cohérence territoriale, le rapport de présentation est complété par l'exposé
+des motifs des changements apportés.
 
 Le rapport de présentation peut se référer aux renseignements relatifs à
 l'environnement figurant dans d'autres études, plans ou documents.

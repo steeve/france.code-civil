@@ -35,7 +35,7 @@ compenser, s'il y a lieu, les conséquences dommageables de la mise en œuvre du
 plan sur l'environnement ;
 
 6° Définit les critères, indicateurs et modalités retenus pour l'analyse des
-résultats de l'application du plan prévue par l'article L. 123-13-1. Ils doivent
+résultats de l'application du plan prévue par l'article L. 123-12-2. Ils doivent
 permettre notamment de suivre les effets du plan sur l'environnement afin
 d'identifier, le cas échéant, à un stade précoce, les impacts négatifs imprévus
 et envisager, si nécessaire, les mesures appropriées ;
@@ -47,9 +47,10 @@ Le rapport de présentation est proportionné à l'importance du plan local
 d'urbanisme, aux effets de sa mise en œuvre ainsi qu'aux enjeux environnementaux
 de la zone considérée.
 
-En cas de modification ou de révision du plan local d'urbanisme, le rapport de
-présentation est complété, le cas échéant, par l'exposé des motifs des
-changements apportés.
+En cas de modification, de révision ou de mise en compatibilité dans les cas
+prévus aux articles R. 123-23-1, R. 123-23-2, R. 123-23-3 et R. 123-23-4, du
+plan local d'urbanisme, le rapport de présentation est complété par l'exposé des
+motifs des changements apportés.
 
 Le rapport de présentation peut se référer aux renseignements relatifs à
 l'environnement figurant dans d'autres études, plans ou documents.

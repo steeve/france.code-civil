@@ -21,7 +21,7 @@ en révision, les travaux effectués à l'intérieur des immeubles ;
 d) Les travaux exécutés sur des constructions existantes ayant pour effet de
 modifier ou de supprimer un élément que le plan local d'urbanisme ou un document
 d'urbanisme en tenant lieu a identifié, en application du 7° de l'article L.
-123-1, comme présentant un intérêt patrimonial ou paysager ;
+123-1-5, comme présentant un intérêt patrimonial ou paysager ;
 
 e) Les travaux exécutés sur des constructions existantes ayant pour effet, dans
 une commune non couverte par un plan local d'urbanisme, de modifier ou de

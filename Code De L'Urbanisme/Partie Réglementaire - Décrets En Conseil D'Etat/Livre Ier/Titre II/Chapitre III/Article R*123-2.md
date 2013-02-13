@@ -28,5 +28,7 @@ mise en valeur ;
 5° Précise les indicateurs qui devront être élaborés pour l'évaluation des
 résultats de l'application du plan prévue à l'article L. 123-12-1.
 
-En cas de modification ou de révision, le rapport de présentation est complété
-par l'exposé des motifs des changements apportés.
+En cas de modification, de révision ou de mise en compatibilité dans les cas
+prévus aux articles R. 123-23-1, R. 123-23-2, R. 123-23-3 et R. 123-23-4, le
+rapport de présentation est complété par l'exposé des motifs des changements
+apportés.

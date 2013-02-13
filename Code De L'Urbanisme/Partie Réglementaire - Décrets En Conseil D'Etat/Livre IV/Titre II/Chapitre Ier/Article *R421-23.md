@@ -50,8 +50,8 @@ g) Les coupes ou abattages d'arbres dans les cas prévus par l'article L. 130-1 
 
 h) Les travaux ayant pour effet de modifier ou de supprimer un élément que le
 plan local d'urbanisme ou un document d'urbanisme en tenant lieu a identifié, en
-application du 7° de l'article L. 123-1, comme présentant un intérêt patrimonial
-ou paysager ;
+application du 7° de l'article L. 123-1-5, comme présentant un intérêt
+patrimonial ou paysager ;
 
 i) Les travaux autres que ceux exécutés sur des constructions existantes ayant
 pour effet, dans une commune non couverte par un plan local d'urbanisme, de

@@ -4,48 +4,28 @@ Les dispositions du présent article sont applicables à la déclaration de proj
 d'une opération qui n'est pas compatible avec un plan local d'urbanisme et ne
 requiert pas une déclaration d'utilité publique :
 
-a) Soit lorsque cette opération est réalisée par une collectivité territoriale,
-un groupement de collectivités ou un établissement public dépendant d'une
-collectivité, autre que l'établissement public de coopération intercommunale
-compétent en matière de plan local d'urbanisme ou la commune, et nécessite une
-déclaration de projet en application de l'article L. 126-1 du code de
-l'environnement ;
+a) Soit lorsque cette opération est réalisée par la commune ou par
+l'établissement public de coopération intercommunale compétent en matière de
+plan local d'urbanisme et nécessite une déclaration de projet en application de
+l'article L. 126-1 du code de l'environnement ;
 
-b) Soit lorsque une collectivité territoriale, un groupement de collectivités ou
-un établissement public dépendant d'une collectivité, autre que l'établissement
-public de coopération intercommunale compétent en matière de plan local
-d'urbanisme ou la commune, a décidé, en application de l'article L. 300-6, de se
-prononcer, par une déclaration de projet, sur l'intérêt général d'une action ou
-d'une opération d'aménagement ou de la réalisation d'un programme de
-construction.
+b) Soit lorsque la commune ou l'établissement public de coopération
+intercommunale compétent en matière de plan local d'urbanisme a décidé, en
+application de l'article L. 300-6, de se prononcer, par une déclaration de
+projet, sur l'intérêt général d'une action ou d'une opération d'aménagement ou
+de la réalisation d'un programme de construction.
 
-La procédure de mise en compatibilité est menée par le président de l'organe
-délibérant de la collectivité ou du groupement de collectivités responsable du
-projet ou, lorsque le projet émane d'un établissement public dépendant d'une
-collectivité ou d'un groupement de collectivités, par le président de l'organe
-délibérant de cette collectivité ou de ce groupement.
-
-L'examen conjoint prévu au b de l'article L. 123-16 a lieu avant l'ouverture de
-l'enquête publique à l'initiative de l'autorité chargée de la procédure.
+Le président de l'organe délibérant de l'établissement public ou le maire mène
+la procédure de mise en compatibilité. L'examen conjoint prévu à l'article L.
+123-14-2 a lieu avant l'ouverture de l'enquête publique à son initiative.
 Lorsqu'une association mentionnée à l'article L. 121-5 demande à être consultée,
-son président adresse la demande à l'autorité chargée de la procédure.
+son président adresse la demande au président de l'organe délibérant ou au
+maire.
 
 L'enquête publique est organisée dans les formes prévues par le chapitre III du
-titre II du livre Ier. L'autorité chargée de la procédure exerce les compétences
-attribuées au préfet par les articles R. 123-7, R. 123-8, R. 123-13, R. 123-14,
-R. 123-18 et R. 123-20 à R. 123-23 de ce code.
+titre II du livre Ier du code de l'environnement.
 
-Le dossier de mise en compatibilité du plan local d'urbanisme, le rapport et les
-conclusions du commissaire enquêteur ou de la commission d'enquête ainsi que le
-procès-verbal de la réunion d'examen conjoint sont soumis par l'autorité chargée
-de la procédure à l'organe délibérant de l'établissement public de coopération
-intercommunale compétent ou au conseil municipal, qui dispose d'un délai de deux
-mois pour approuver la mise en compatibilité du plan. En l'absence de
-délibération dans ce délai ou en cas de désaccord, le préfet statue et notifie
-sa décision au président de l'établissement public de coopération intercommunale
-compétent ou au maire dans les deux mois suivant la réception en préfecture de
-l'ensemble du dossier.
+L'organe délibérant de l'établissement public de coopération intercommunale ou
+le conseil municipal adopte la déclaration de projet.
 
-Le préfet notifie à la personne publique qui réalise l'opération la délibération
-de l'établissement public de coopération intercommunale compétent ou de la
-commune ou la décision qu'il a prise.
+La déclaration de projet emporte approbation des nouvelles dispositions du plan.

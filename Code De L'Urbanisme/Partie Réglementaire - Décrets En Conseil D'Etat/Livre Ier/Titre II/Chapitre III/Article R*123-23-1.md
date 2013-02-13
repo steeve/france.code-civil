@@ -1,39 +1,28 @@
 Article R*123-23-1
 ----
-Les dispositions du présent article sont applicables à la déclaration de projet
-d'une opération qui n'est pas compatible avec un plan local d'urbanisme et ne
-requiert pas une déclaration d'utilité publique :
+Les dispositions du présent article sont applicables à la déclaration d'utilité
+publique d'une opération qui n'est pas compatible avec un plan local
+d'urbanisme.
 
-a) Soit lorsque cette opération est réalisée par la commune ou par
-l'établissement public de coopération intercommunale compétent en matière de
-plan local d'urbanisme et nécessite une déclaration de projet en application de
-l'article L. 126-1 du code de l'environnement ;
-
-b) Soit lorsque la commune ou l'établissement public de coopération
-intercommunale compétent en matière de plan local d'urbanisme a décidé, en
-application de l'article L. 300-6, de se prononcer, par une déclaration de
-projet, sur l'intérêt général d'une action ou d'une opération d'aménagement ou
-de la réalisation d'un programme de construction.
-
-Le président de l'organe délibérant de l'établissement public ou le maire mène
-la procédure de mise en compatibilité. L'examen conjoint prévu au b de l'article
-L. 123-16 a lieu avant l'ouverture de l'enquête publique à son initiative.
-Lorsqu'une association mentionnée à l'article L. 121-5 demande à être consultée,
-son président adresse la demande au président de l'organe délibérant ou au
-maire.
+L'examen conjoint prévu à l'article L. 123-14-2 a lieu avant l'ouverture de
+l'enquête publique à l'initiative du préfet. Lorsqu'une association mentionnée à
+l'article L. 121-5 demande à être consultée, son président adresse la demande au
+préfet.
 
 L'enquête publique est organisée dans les formes prévues par le chapitre III du
-titre II du livre Ier du code de l'environnement. L'autorité chargée de la
-procédure exerce les compétences attribuées au préfet par les articles R. 123-7,
-R. 123-8, R. 123-13, R. 123-14, R. 123-18 et R. 123-20 à R. 123-23 de ce code.
+titre II du livre Ier du code de l'environnement.
 
-Le dossier de mise en compatibilité du plan local d'urbanisme, le rapport et les
+Le dossier de mise en compatibilité du plan local d'urbanisme, éventuellement
+modifié pour tenir compte des avis joints au dossier d'enquête publique, des
+observations du public et des résultats de l'enquête, le rapport et les
 conclusions du commissaire enquêteur ou de la commission d'enquête ainsi que le
-procès-verbal de la réunion d'examen conjoint sont soumis par l'autorité chargée
-de la procédure à l'organe délibérant de l'établissement public de coopération
-intercommunale compétent ou au conseil municipal, qui dispose d'un délai de deux
-mois pour approuver la mise en compatibilité du plan. En l'absence de
-délibération dans ce délai ou en cas de désaccord, la décision de mise en
-compatibilité appartient au préfet qui notifie son arrêté au président de
-l'établissement public ou au maire dans les deux mois suivant la réception en
-préfecture de l'ensemble du dossier.
+procès-verbal de la réunion d'examen conjoint sont soumis pour avis par le
+préfet à l'organe délibérant de l'établissement public de coopération
+intercommunale compétent ou au conseil municipal. Si ceux-ci ne se sont pas
+prononcés dans un délai de deux mois, ils sont réputés avoir donné un avis
+favorable.
+
+Le ministre chargé de l'urbanisme contresigne ou cosigne la déclaration
+d'utilité publique emportant approbation des nouvelles dispositions du plan
+local d'urbanisme lorsque cette déclaration ne relève pas de la compétence du
+préfet.

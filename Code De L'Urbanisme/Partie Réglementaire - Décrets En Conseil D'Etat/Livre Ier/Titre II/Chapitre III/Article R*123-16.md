@@ -7,6 +7,11 @@ leurs représentants, sont consultés par le président de l'établissement publ
 de coopération intercommunale compétent ou par le maire à chaque fois qu'ils le
 demandent pendant la durée de l'élaboration ou de la révision du plan.
 
+L'avis sur le projet de plan arrêté, prévu à l'alinéa 3 de l'article L. 123-9 du
+présent code, est rendu dans un délai de trois mois à compter de l'arrêt du
+projet. En l'absence de réponse à l'issue de ce délai, l'avis est réputé
+favorable.
+
 L'avis prévu à l'article L. 123-9-1 est rendu dans un délai de deux mois à
 compter de la saisine. En l'absence de réponse à l'issue de ce délai, l'avis est
 réputé favorable.

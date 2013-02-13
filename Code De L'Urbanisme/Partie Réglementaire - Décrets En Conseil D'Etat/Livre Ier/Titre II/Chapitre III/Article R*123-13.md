@@ -58,24 +58,20 @@ l'environnement ;
 pour la protection et la mise en valeur des espaces agricoles et naturels
 périurbains ;
 
-16° Les secteurs où une délibération du conseil municipal ou de l'organe
-délibérant de l'établissement public de coopération intercommunale compétent a
-autorisé un dépassement des règles du plan local d'urbanisme en application des
-articles L. 123-1-11 et L. 127-1. La délibération qui précise les limites de ce
-dépassement est jointe au document graphique faisant apparaître ces secteurs ;
+16° Les secteurs où un dépassement des règles du plan local d'urbanisme est
+autorisé en application des articles L. 123-1-11, L. 127-1, L. 128-1 et L. 128-2
+;
 
 17° Les périmètres fixés par les conventions de projet urbain partenarial visées
 à l'article L. 332-11-3 ;
 
-18° Les secteurs où une délibération du conseil municipal ou de l'organe
-délibérant de l'établissement public de coopération intercommunale compétent a
-autorisé, pour les constructions respectant les critères de performance
-énergétique prévus par l'article *R. 111-21 du code de la construction et de
-l'habitation, un dépassement des règles du plan local d'urbanisme en application
-de l'article L. 128-1. La délibération qui précise les limites de ce dépassement
-est jointe au document graphique faisant apparaître ces secteurs.
-
-19° Les périmètres délimités par une délibération du conseil municipal ou de
+18° Les périmètres délimités par une délibération du conseil municipal ou de
 l'organe délibérant de l'établissement public de coopération intercommunale
 compétent dans lesquels le premier alinéa de l'article L. 111-6-2 ne s'applique
-pas.
+pas ;
+
+19° Le périmètre des secteurs relatif au taux de la taxe d'aménagement, en
+application de l'article L. 331-14 ;
+
+20° Le périmètre des secteurs affectés par un seuil minimal de densité, en
+application de l'article L. 331-36.

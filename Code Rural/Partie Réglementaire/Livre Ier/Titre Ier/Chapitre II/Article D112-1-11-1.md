@@ -15,9 +15,9 @@ Seine-Saint-Denis ou des Hauts-de-Seine ou son représentant ;
 2° Deux maires ou leurs représentants désignés par les associations des maires
 de ces départements ;
 
-3° Un président d'établissement public ou de syndicat mixte mentionné à
-l'article L. 122-4 du code de l'urbanisme et ayant son siège dans l'un des
-départements concernés, désigné par les associations des maires de ces
+3° Un président d'établissement public ou de syndicat mixte mentionné aux
+articles L. 122-4 et L. 122-4-1 du code de l'urbanisme et ayant son siège dans
+l'un des départements concernés, désigné par les associations des maires de ces
 départements, ou son représentant ;
 
 4° Le directeur régional et interdépartemental de l'alimentation, de

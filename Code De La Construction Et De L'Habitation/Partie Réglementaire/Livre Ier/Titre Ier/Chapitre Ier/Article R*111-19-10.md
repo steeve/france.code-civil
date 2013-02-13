@@ -19,8 +19,8 @@ historiques en application des articles L. 621-25 et suivants du code du
 patrimoine ou dont la démolition, l'enlèvement, la modification ou l'altération
 sont interdits et dont la modification est soumise à des conditions spéciales en
 secteur sauvegardé, en application de l'article L. 313-1 du code de l'urbanisme,
-ou sur un bâtiment identifié en application du 7° de l'article L. 123-1 du code
-de l'urbanisme ;
+ou sur un bâtiment identifié en application du 7° de l'article L. 123-1-5 du
+code de l'urbanisme ;
 
 b) Sur un établissement recevant du public situé aux abords et dans le champ de
 visibilité d'un monument historique classé ou inscrit, en zone de protection du

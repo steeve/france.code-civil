@@ -19,7 +19,7 @@ d) Située dans un site inscrit ou classé en application des articles L. 341-1 
 L. 341-2 du code de l'environnement ;
 
 e) Identifiée comme devant être protégée par un plan local d'urbanisme, en
-application du 7° de l'article L. 123-1, située dans un périmètre délimité par
+application du 7° de l'article L. 123-1-5, située dans un périmètre délimité par
 le plan en application du même article ou, dans une commune non dotée d'un plan
 local d'urbanisme ou d'un document d'urbanisme en tenant lieu, identifiée par
 délibération du conseil municipal, prise après enquête publique, comme

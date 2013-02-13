@@ -1,22 +1,23 @@
 Article R*122-15
 ----
-Lorsque, en application du deuxième alinéa de l'article L. 122-1-4 et de
-l'article L. 122-5 , l'élaboration ou la modification d'un schéma directeur ou
-d'un schéma de secteur est décidée par arrêté motivé du préfet, l'ensemble de la
-procédure est conduite [*autorité compétente*] :
+Tout acte mentionné à l'article R. 122-14 est affiché pendant un mois au siège
+de l'établissement public compétent et dans les mairies des communes membres
+concernées. Mention de cet affichage est insérée en caractères apparents dans un
+journal diffusé dans le département.
 
-a) Sous l'autorité du préfet du département, par le service de l'Etat chargé de
-l'urbanisme dans le département, lorsque le territoire concerné est situé à
-l'intérieur d'un même département ;
+Il est en outre publié :
 
-b) Sous l'autorité de l'un des préfet des départements concernés, par le service
-de l'Etat chargé de l'urbanisme dans le département, lorsque le territoire
-couvert par le schéma appartient à plusieurs départements situés ou non à
-l'intérieur d'une même région. Le préfet sous l'autorité duquel est conduite
-l'ensemble de la procédure est désigné par arrêté conjoint des préfet des
-départements concernés ;
+a) Au recueil des actes administratifs mentionné à l'article R. 5211-41 du code
+général des collectivités territoriales, s'il existe, lorsqu'il s'agit d'une
+délibération de l'organe délibérant d'un établissement public de coopération
+intercommunale comportant au moins une commune de 3 500 habitants et plus ;
 
-c) Sous l'autorité du préfet de région, lorsque le ministre chargé de
-l'urbanisme le décide, dans le cas où le schéma directeur ou le schéma de
-secteur intèressé des territoires sur lesquels doivent être réalisées des
-agglomérations nouvelles.
+b) Au recueil des actes administratifs de l'Etat dans le département, lorsqu'il
+s'agit d'un arrêté préfectoral.
+
+Chacune de ces formalités de publicité mentionne le ou les lieux où le dossier
+peut être consulté.
+
+L'arrêté ou la délibération produit ses effets juridiques dès l'exécution de
+l'ensemble des formalités prévues au premier alinéa ci-dessus, la date à prendre
+en compte pour l'affichage étant celle du premier jour où il est effectué.

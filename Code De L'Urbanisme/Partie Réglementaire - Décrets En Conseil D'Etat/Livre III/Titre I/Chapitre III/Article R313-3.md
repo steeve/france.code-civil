@@ -2,7 +2,7 @@ Article R313-3
 ----
 Le rapport de présentation :
 
-1° Expose le diagnostic prévu au premier alinéa de l'article L. 123-1 ;
+1° Expose le diagnostic prévu au deuxième alinéa de l'article L. 123-1-2 ;
 
 2° Analyse l'état initial de l'environnement ;
 

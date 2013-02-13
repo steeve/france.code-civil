@@ -3,7 +3,7 @@ Article R*311-2
 La personne publique qui a pris l'initiative de la création de la zone constitue
 un dossier de création, approuvé, sauf lorsqu'il s'agit de l'Etat, par son
 organe délibérant. Cette délibération peut tirer simultanément le bilan de la
-concertation, en application du sixième alinéa de l'article L. 300-2.
+concertation, en application du III de l'article L. 300-2.
 
 Le dossier de création comprend :
 
