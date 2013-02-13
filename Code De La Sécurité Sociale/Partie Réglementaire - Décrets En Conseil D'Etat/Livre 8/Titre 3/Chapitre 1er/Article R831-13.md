@@ -7,8 +7,8 @@ pour l'application des premier et deuxième alinéas de l'article 6 de la loi n�
 89-462 du 6 juillet 1989 modifiée tendant à améliorer les rapports locatifs.
 
 Lorsque le logement ne répond pas aux caractéristiques mentionnées au premier
-alinéa ou que le propriétaire n'a pas produit l'attestation mentionnée au 2° du
-I de l'article R. 831-11, l'allocation de logement peut être accordée, à titre
+alinéa ou lorsque le propriétaire n'a pas produit l'attestation mentionnée au I
+de l'article R. 831-11, l'allocation de logement peut être accordée, à titre
 dérogatoire, par l'organisme payeur ;
 
 a) Aux personnes locataires, pour une durée de six mois, pour lui permettre de

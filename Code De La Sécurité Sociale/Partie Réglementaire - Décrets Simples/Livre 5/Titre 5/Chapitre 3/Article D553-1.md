@@ -3,16 +3,16 @@ Article D553-1
 Pour la mise en oeuvre du troisième alinéa de l'article L. 553-2, les retenues
 mensuelles sont effectuées comme suit :
 
-I.-Il est tenu compte :
+I. ― Il est tenu compte :
 
 a) De l'ensemble des catégories de ressources de l'allocataire, de son conjoint
 ou concubin mentionnées à l'article R. 532-3 et prises en compte :
 
--durant le trimestre de référence, dans le cas d'une prestation calculée
+― durant le trimestre de référence, dans le cas d'une prestation calculée
 trimestriellement et tant qu'un droit à une telle prestation est ouvert ;
 
--durant l'année civile de référence retenue pour la période de paiement au cours
-de laquelle est effectué le recouvrement de l'indu, dans les autres cas.
+― durant l'année civile de référence retenue pour la période de paiement au
+cours de laquelle est effectué le recouvrement de l'indu, dans les autres cas.
 
 Ces revenus s'entendent avant tout abattement fiscal et déduction hormis la
 déduction des créances alimentaires mentionnées au a de l'article R. 532-3.
@@ -37,9 +37,8 @@ prime à la naissance ou à l'adoption et du complément de libre choix du mode 
 garde de la prestation d'accueil du jeune enfant ; sont également exclus les
 versements d'allocation aux adultes handicapés et de son complément ainsi que
 ceux du revenu de solidarité active, lorsqu'ils sont liés aux périodes congés ou
-de suspension de prise en charge mentionnées respectivement aux articles R.
-821-8, R. 824-13, R. 821-14 et à l'article L. 262-19 du code de l'action sociale
-et des familles.
+de suspension de prise en charge mentionnées respectivement à l'article R. 821-8
+et à l'article L. 262-19 du code de l'action sociale et des familles.
 
 Les prestations mentionnées au b ci-dessus sont constituées des prestations dues
 au titre de la première mensualité sur laquelle porte la récupération ;
@@ -57,7 +56,7 @@ prestations familiales en informe l'allocataire. Le recouvrement est poursuivi
 sur ces bases, à défaut de réception de la justification du montant des charges
 de logement telles que définies à l'alinéa précédent.
 
-II.-Le revenu mensuel (R) pris en considération pour le calcul des retenues
+II. ― Le revenu mensuel (R) pris en considération pour le calcul des retenues
 mensuelles à effectuer correspond au montant des revenus mentionnés au a du I,
 majoré des prestations mentionnées au b, diminué des charges de logement
 mentionnées au c du même I.
@@ -72,14 +71,14 @@ N
 
 dans laquelle N représente la composition de la famille appréciée comme suit :
 
--personne seule : 1,5 part ;
+― personne seule : 1,5 part ;
 
--ménage : 2 parts ;
+― ménage : 2 parts ;
 
--par enfant à charge : 0,5 part.
+― par enfant à charge : 0,5 part.
 
-III.-Le montant mensuel du prélèvement effectué sur les prestations à échoir est
-calculé sur le revenu mensuel pondéré résultant du II, dans les conditions
+III. ― Le montant mensuel du prélèvement effectué sur les prestations à échoir
+est calculé sur le revenu mensuel pondéré résultant du II, dans les conditions
 suivantes :
 
 25 % sur la tranche de revenus comprise entre 231 euros et 345 euros ;

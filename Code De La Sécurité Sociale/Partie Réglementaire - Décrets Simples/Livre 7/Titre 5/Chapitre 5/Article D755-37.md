@@ -1,9 +1,9 @@
 Article D755-37
 ----
-Lorsque le logement ne répond pas aux caractéristiques mentionnées au premier
-alinéa de l'article D. 755-19 ou que le propriétaire n'a pas produit
-l'attestation mentionnée au 2° de l'article D. 755-22, l'allocation de logement
-peut être accordée à titre dérogatoire, par l'organisme payeur :
+Lorsque le logement ne répond pas aux caractéristiques mentionnées à l'article
+D. 755-19 ou lorsque le propriétaire n'a pas produit l'attestation mentionnée à
+l'article D. 755-22, l'allocation de logement peut être accordée à titre
+dérogatoire, par l'organisme payeur :
 
 a) Aux personnes locataires, pour une durée de six mois, pour leur permettre de
 demander la mise en conformité du logement dans les conditions fixées à

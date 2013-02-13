@@ -1,11 +1,11 @@
 Article D542-17
 ----
-I.-Le modèle de la demande d'allocation logement assortie de pièces
-justificatives tenant compte de la situation du demandeur ou allocataire, est
-déterminé par arrêté du ministre chargé de la sécurité sociale et du ministre
-chargé du logement.
+I. ― Le modèle de la demande d'allocation logement ainsi que la liste des pièces
+justificatives, comprenant notamment une attestation de respect des conditions
+prévues au deuxième alinéa de l'article D. 542-14, sont déterminés par arrêté du
+ministre chargé de la sécurité sociale et du ministre chargé du logement.
 
-II.-En cas de non-présentation avant le 1er janvier d'un état des personnes
+II. ― En cas de non-présentation avant le 1er janvier d'un état des personnes
 vivant habituellement au foyer, y compris les enfants à charge qui viennent y
 habiter périodiquement ou qui sont momentanément absents pour des raisons tenant
 à leur état de santé ou à leur éducation ainsi que d'une déclaration sur
@@ -39,9 +39,9 @@ versement de l'allocation de logement entre les mains du bailleur ou du prêteur
 si celui-ci en a fait la demande. Dans ce cas, il est fait application des
 dispositions des articles D. 542-22-1 à D. 542-22-3 et D. 542-29.
 
-III.-A défaut de demande de versement entre ses mains émanant du bailleur ou du
-prêteur, l'organisme payeur suspend le versement de l'allocation de logement et,
-compte tenu de la situation du bénéficiaire, décide :
+III. ― A défaut de demande de versement entre ses mains émanant du bailleur ou
+du prêteur, l'organisme payeur suspend le versement de l'allocation de logement
+et, compte tenu de la situation du bénéficiaire, décide :
 
 a) Soit de renvoyer le dossier au bailleur ou au prêteur aux fins de mettre en
 place dans un délai maximum de six mois un plan d'apurement de la dette ;

@@ -10,8 +10,8 @@ personnes mentionnées, qui sont :
 travail ou âgés d'au moins soixante-cinq ans s'ils percevaient l'allocation de
 solidarité aux personnes âgées ;
 
-2°) grands infirmes au sens de l'article L. 241-3 du code de l'action sociale et
-des familles et ascendants, descendants ou collatéraux au deuxième ou au
-troisième degré de l'allocataire ou de son conjoint ;
+2°)titulaires de la carte d'invalidité prévue à l'article L. 241-3 du code de
+l'action sociale et des familles et ascendants, descendants ou collatéraux au
+deuxième ou au troisième degré de l'allocataire ou de son conjoint ;
 
 3°) enfants de l'allocataire ou de son conjoint.

@@ -19,7 +19,7 @@ Les ascendants, descendants, frères et soeurs, oncles et tantes ou neveux et
 nièces de l'allocataire ou de son conjoint ne peuvent être considérés comme
 étant à sa charge pour l'application du 5° de l'article L. 542-1, que s'ils
 justifient qu'ils sont atteints d'une incapacité permanente au moins égale à 80
-p. 100 ou s'ils se trouvent, compte tenu de leur handicap, dans l'impossibilité
-reconnue par la commission technique d'orientation et de reclassement
-professionnel prévue à l'article L. 323-11 du code du travail, de se procurer un
-emploi.
+p. 100 ou si la commission des droits et de l'autonomie des personnes
+handicapées mentionnée à l'article L. 241-5 du code de l'action sociale et des
+familles leur reconnaît, compte tenu de leur handicap, une restriction
+substantielle et durable pour l'accès à l'emploi.

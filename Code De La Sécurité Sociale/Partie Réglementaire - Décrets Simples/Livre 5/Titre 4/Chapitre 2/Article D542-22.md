@@ -1,9 +1,10 @@
 Article D542-22
 ----
-Sous réserve des dispositions du deuxième alinéa de l'article D. 542-19, à
-défaut de paiement du loyer dans les conditions prévues au premier alinéa de
-l'article D. 542-19, le bailleur peut obtenir de l'organisme payeur le versement
-entre ses mains de l'allocation de logement au lieu et place de l'allocataire.
+Sous réserve des dispositions relatives au recouvrement des allocations logement
+indûment perçues, lorsque le locataire est en situation de non-paiement du loyer
+au sens du I de l'article D. 542-19, le bailleur peut obtenir de l'organisme
+payeur le versement entre ses mains de l'allocation de logement au lieu et place
+de l'allocataire.
 
 A réception de la demande, l'organisme payeur en informe l'allocataire et lui
 notifie son intention de procéder au versement au bailleur des mensualités

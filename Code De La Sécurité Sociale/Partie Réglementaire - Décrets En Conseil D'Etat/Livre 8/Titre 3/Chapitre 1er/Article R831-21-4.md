@@ -1,12 +1,11 @@
 Article R831-21-4
 ----
-Lorsque l'allocation de logement est versée au bailleur en application des 1° et
-2° du deuxième alinéa de l'article L. 835-2 et des e et g du 1° du I de
-l'article 31 du code général des impôts et que l'allocataire ne règle pas la
-part de dépense de logement restant à sa charge, le bailleur doit, dans un délai
-de trois mois après la constitution de l'impayé au sens de l'article R. 831-21
-(III), porter la situation de l'allocataire défaillant à la connaissance de
-l'organisme payeur.
+Lorsque l'allocation de logement est versée au bailleur en application de
+l'article L. 835-2 et que l'allocataire ne règle pas la part de dépense de
+logement restant à sa charge, le bailleur doit, dans un délai de trois mois
+après la constitution de l'impayé au sens de l'article R. 831-21 (III), porter
+la situation de l'allocataire défaillant à la connaissance de l'organisme
+payeur.
 
 Si le bailleur ne saisit pas l'organisme payeur dans le délai susmentionné, il
 doit rembourser à celui-ci l'allocation de logement versée depuis la défaillance

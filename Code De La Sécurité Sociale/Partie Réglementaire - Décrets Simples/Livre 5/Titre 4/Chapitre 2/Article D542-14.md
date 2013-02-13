@@ -11,9 +11,9 @@ la loi n° 89-462 du 6 juillet 1989 modifiée tendant à améliorer les rapports
 locatifs.
 
 Lorsque le logement ne répond pas aux caractéristiques mentionnées à l'alinéa
-précédent ou que le propriétaire n'a pas produit l'attestation mentionnée au 2°
-du I de l'article D. 542-17, l'allocation de logement peut être accordée, à
-titre dérogatoire, par l'organisme payeur :
+précédent ou lorsque le propriétaire n'a pas produit l'attestation mentionnée au
+I de l'article D. 542-17, l'allocation de logement peut être accordée, à titre
+dérogatoire, par l'organisme payeur :
 
 a) Aux personnes locataires, pour une durée de six mois, pour leur permettre de
 demander la mise en conformité du logement dans les conditions fixées à

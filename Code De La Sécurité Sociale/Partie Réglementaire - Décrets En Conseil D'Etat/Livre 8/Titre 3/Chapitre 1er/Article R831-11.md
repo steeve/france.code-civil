@@ -1,9 +1,10 @@
 Article R831-11
 ----
-I.-Le modèle de la demande d'''allocation de logement assortie " de pièces
-justificatives tenant compte de la situation du demandeur ou allocataire, est
-déterminé par arrêté du ministre chargé de la sécurité sociale et du ministre
-chargé du logement.
+I.-Le modèle de la demande d'allocation de logement ainsi que la liste des
+pièces justificatives, comprenant notamment une attestation de respect des
+conditions prévues au premier alinéa de l'article R. 831-13, sont déterminés par
+arrêté du ministre chargé de la sécurité sociale et du ministre chargé du
+logement.
 
 II.-En cas de non-présentation avant le 1er janvier d'un état des personnes
 vivant habituellement au foyer ainsi que d'une déclaration sur l'honneur

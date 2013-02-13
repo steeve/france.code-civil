@@ -34,6 +34,8 @@ son avis motivé à l'organisme ou service liquidateur ;
 
 3°) ascendants et descendants, ou frères et soeurs, ou oncles et tantes, ou
 neveux et nièces de l'allocataire ou de son conjoint atteints d'une infirmité
-entraînant une incapacité permanente au moins égale à 80 % ou se trouvant,
-compte tenu de leur handicap, dans l'impossibilité reconnue par la commission
-des droits et de l'autonomie des personnes handicapées de se procurer un emploi.
+entraînant une incapacité permanente au moins égale à 80 % ou pour lesquels la
+commission des droits et de l'autonomie des personnes handicapées mentionnée à
+l'article L. 241-5 du code de l'action sociale et des familles reconnaît, compte
+tenu de leur handicap, une restriction substantielle et durable pour l'accès à
+l'emploi.

@@ -12,4 +12,4 @@ assurés par cet organisme.
 Dans les cas prévus aux premier et deuxième alinéas ci-dessus, les dépenses de
 prestations ainsi que les frais administratifs s'y rapportant sont centralisés
 respectivement par la caisse nationale des allocations familiales ou par la
-caisse centrale d'allocations familiales mutuelles agricoles.
+caisse centrale de la mutualité sociale agricole.
