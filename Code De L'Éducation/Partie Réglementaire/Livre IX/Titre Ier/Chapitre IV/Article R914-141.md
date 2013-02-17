@@ -1,9 +1,9 @@
 Article R914-141
 ----
-Les pensions servies sont revalorisées par arrêté des ministres chargés de
-l'éducation, de l'agriculture, de la sécurité sociale et du budget, conformément
-à l'évolution annuelle moyenne des prix hors tabac, sous réserve des
-dispositions prévues à l'article 20 du décret n° 2005-1233 du 30 septembre 2005
-relatif au régime additionnel de retraite des personnels enseignants et de
-documentation mentionnés aux articles L. 914-1 du code de l'éducation et L.
-813-8 du code rural et de la pêche maritime .
+Les pensions servies sont revalorisées annuellement et dans les mêmes conditions
+que celles mentionnées à l'article L. 161-23-1 du code de la sécurité sociale.
+
+Par dérogation aux dispositions du précédent alinéa, les pensions ne font
+l'objet d'aucune revalorisation lorsque le ratio d'équilibre de charges prévu à
+l'article 19 du décret n° 2005-1233 du 30 septembre 2005 est inférieur à 1 dans
+le dernier rapport présenté au comité de participation à la gestion du régime.
