@@ -1,43 +1,88 @@
 Article Annexe 6.3
 ----
-1° Identité du demandeur du visa : nom, nom marital, alias ou surnom, prénom(s),
-date et lieu de naissance, sexe, nationalité, nationalité d'origine et
-profession.
+Liste des données à caractère personnel communiquées automatiquement par le
+traitement automatisé de données à caractère personnel dénommé réseau mondial
+visas 2 (RMV2), enregistrées dans le traitement automatisé prévu à l'article R.
+611-8
 
-2° Titre de voyage : type de document de voyage, Etat ou organisme émetteur du
-document de voyage, numéro perforé ou imprimé sur le document de voyage.
+I.-Données relatives à la demande de visa
 
-3° Décision prise par la chancellerie consulaire ou le consulat de France qui a
-instruit la demande de visa (accord ou refus du visa).
+a) Données générales :
 
-4° En cas d'accord, caractéristiques du visa délivré :
+Information visa demandé ; numéro de la demande ; lien demande précédente ; nom
+de l'autorité saisie ; localisation de l'autorité saisie ; indication que
+l'autorité a été saisie en remplacement d'un autre Etat membre ; lieu et date de
+la demande ; type de visa ; motif du voyage ; nom ; prénom et adresse de la
+personne invitante ; nom et adresse de la société ou compagnie invitante
+(personne morale) ; nom et prénom de la personne à contacter dans la société ou
+la compagnie invitante ; destination principale ; durée prévue du séjour ; date
+d'arrivée prévue ; date de départ prévue ; frontière de première entrée prévue ;
+route de transit prévue ; motif et date du retrait de la demande par le
+demandeur ;
 
-a) Numéro du visa ;
+b) Données relatives à un groupe de demandeurs de visa :
 
-b) Date et lieu de délivrance du visa ;
+Type de groupe ; lien demande du groupe.
 
-c) Type de visa : A (transit aéroportuaire), B (transit), C (court séjour) ou D
-(long séjour) ;
+II.-Données relatives au demandeur de visa
 
-d) Validité territoriale du visa : Schengen ou France ;
+a) Données d'état civil :
 
-e) Date de début de validité du visa : date prévue du premier passage (transit
-aéroportuaire), du premier transit ou de la première entrée (court séjour ou
-long séjour) ;
+Nom ; nom de naissance ; noms antérieurs ; prénoms ; sexe ; date de naissance ;
+lieu de naissance ; pays de naissance ; nationalité actuelle ; nationalité de
+naissance ;
 
-f) Date de fin de validité du visa : date prévue du dernier passage (transit
-aéroportuaire), du dernier retour (transit ou court séjour) ou de fin du séjour
-(court séjour ou long séjour) ;
+b) Données relatives aux documents de voyage :
 
-g) Durée de séjour accordée : durée maximale d'un transit ou durée totale de
-séjour (court séjour) ;
+Type de document ; numéro du document ; autorité de délivrance ; date de
+délivrance ; date d'expiration ;
 
-h) Durée de validité du visa dans le cas particulier d'un visa de circulation
-valable de 1 à 5 ans ;
+c) Données biométriques :
 
-i) Nombre de passages (transit aéroportuaire) ou d'entrées accordé (transit ou
-court séjour) ;
+Photographies ; empreintes digitales du demandeur ;
 
-j) Motif du séjour ;
+d) Autres données :
 
-k) Date de l'annulation du visa.
+Résidence ; nom et prénom du père et de la mère du demandeur ; nom et
+coordonnées de l'employeur ; nom de l'établissement scolaire ou universitaire
+(étudiant) ; profession actuelle.
+
+III.-Données relatives au visa
+
+a) Données relatives au visa délivré :
+
+Information visa délivré ; lieu de la décision et date de délivrance du visa ;
+nom et localisation de l'autorité ayant délivré le visa ; indication que
+l'autorité a été saisie pour le compte d'un autre Etat membre ; validité
+territoriale dans laquelle le porteur du visa est autorisé à circuler ; type de
+visa délivré ; numéro de la vignette visa délivrée ; date de début et de fin de
+validité du visa ; nombre d'entrées autorisées ; durée de validité du visa ;
+durée du séjour autorisé ; information visa délivré sur feuillet séparé ;
+
+b) Données relatives à l'abandon d'examen de la demande :
+
+Information indiquant que l'examen de la demande de visa a été interrompu ; Etat
+membre compétent pour examiner la demande ; nom et localisation de l'autorité
+ayant interrompu l'examen de la demande ; date et lieu de l'interruption ;
+
+c) Données relatives au refus de visa :
+
+Information visa refusé ; nom et localisation de l'autorité qui a refusé le visa
+; date, lieu et motif du refus ;
+
+d) Données relatives à l'annulation, au retrait ou à la réduction de la durée de
+validité du visa :
+
+Information visa annulé, retiré ou réduit dans sa validité ; nom et localisation
+de l'autorité ayant pris la décision ; date et lieu de la décision ; nouvelle
+date d'expiration de la validité du visa ; numéro de la nouvelle vignette ;
+motifs de la décision d'annulation, de retrait ou de réduction de validité de la
+vignette ;
+
+e) Données relatives à la prolongation du visa :
+
+Information visa prorogé ; nom et localisation de l'autorité ayant prorogé le
+visa ; date et lieu de la décision ; date de début et de fin de la période
+prorogée ; numéro de la nouvelle vignette ; période de prorogation de la durée
+du séjour, territoire sur lequel le porteur du visa est autorisé à circuler ;
+type de visa prorogé ; motifs de la prorogation.

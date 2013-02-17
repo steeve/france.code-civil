@@ -82,19 +82,31 @@ police nationale et de la gendarmerie nationale et, sur l'ordre et sous la
 responsabilité de ceux-ci, les agents de police judiciaire et agents de police
 judiciaire adjoints mentionnés aux articles 20 et 21 (1°) du code de procédure
 pénale, les agents des douanes dans les conditions prévues à l'article 67 quater
-du code des douanes, individuellement désignés et spécialement habilités,
-respectivement, par le directeur général de la police nationale, le directeur
-général de la gendarmerie nationale, ou par les personnels appartenant à la
-catégorie A ou ayant le rang d'officier sur lesquels ces directeurs ont autorité
-et auxquels ils ont donné délégation, le directeur régional des douanes ou, le
-cas échéant, le directeur général des douanes et droits indirects ;
+du code des douanes ainsi que les agents des services fiscaux habilités à
+effectuer des missions de police judiciaire, individuellement désignés et
+spécialement habilités, respectivement, par le directeur général de la police
+nationale, le directeur général de la gendarmerie nationale, ou par les
+personnels appartenant à la catégorie A ou ayant le rang d'officier sur lesquels
+ces directeurs ont autorité et auxquels ils ont donné délégation, le directeur
+régional des douanes ou, le cas échéant, le directeur général des douanes et
+droits indirects et par le magistrat mentionné à l'article 28-2 du code de
+procédure pénale ;
 
-b) Des procédures confiées par l'autorité judiciaire pour les infractions
-prévues à l'article 28-1 du code de procédure pénale, les agents des douanes
-habilités à effectuer des missions de police judiciaire, individuellement
-désignés et spécialement habilités par le magistrat délégué aux missions
-judiciaires de la douane ou, le cas échéant, par le directeur général des
-douanes et droits indirects ;
+b) Des enquêtes ou des procédures confiées par l'autorité judiciaire, les
+officiers de police judiciaire de la police ou de la gendarmerie nationales et,
+sous l'ordre et la responsabilité de ceux-ci, les agents de police judiciaire
+individuellement désignés et spécialement habilités par leur supérieur
+hiérarchique ;
+
+b bis) Des procédures confiées par l'autorité judiciaire, d'une part, pour les
+infractions prévues à l'article 28-1 du code de procédure pénale, les agents des
+douanes habilités à effectuer des missions de police judiciaire,
+individuellement désignés et spécialement habilités par le magistrat délégué aux
+missions judiciaires de la douane ou, le cas échéant, par le directeur général
+des douanes et droits indirects, et, d'autre part, pour les infractions prévues
+à l'article 28-2 du même code, les agents des services fiscaux habilités à
+effectuer des missions de police judiciaire, individuellement désignés et
+spécialement habilités par les magistrats mentionnés à cet article.
 
 c) De la lutte contre l'aide à l'entrée et au séjour irréguliers, les officiers
 de police judiciaire de l'Office central pour la répression de l'immigration

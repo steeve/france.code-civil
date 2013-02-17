@@ -32,4 +32,7 @@ opérées, en application de l'article 78-3 du code de procédure pénale, par l
 services de la police et de la gendarmerie nationales ;
 
 4° A faciliter la vérification par les services mentionnés au 3° de
-l'authenticité des visas et de la régularité du séjour.
+l'authenticité des visas et de la régularité du séjour ;
+
+5° A faciliter l'identification des étrangers en situation irrégulière en vue de
+leur éloignement.
