@@ -1,7 +1,7 @@
 Article R233-1
 ----
-I.-Lorsque les dispositions du présent code l'exigent, tout conducteur est tenu
-de présenter à toute réquisition des agents de l'autorité compétente :
+I. - Lorsque les dispositions du présent code l'exigent, tout conducteur est
+tenu de présenter à toute réquisition des agents de l'autorité compétente :
 
 1° Tout titre justifiant de son autorisation de conduire ;
 
@@ -31,20 +31,20 @@ procédure pénale ;
 
 6° Un éthylotest dans les conditions prévues à l'article R. 234-7 (1).
 
-II.-En cas de perte ou de vol du titre justifiant de l'autorisation de conduire
-le récépissé de déclaration de perte ou de vol tient lieu de titre pendant un
-délai de deux mois au plus.
+II. - En cas de perte ou de vol du titre justifiant de l'autorisation de
+conduire le récépissé de déclaration de perte ou de vol tient lieu de titre
+pendant un délai de deux mois au plus.
 
-III.-Le fait de ne pas présenter immédiatement aux agents de l'autorité
-compétente les éléments exigés par le présent article est puni de l'amende
-prévue pour les contraventions de la première classe.
+III. - Hors le cas prévu au 6° du I, le fait de ne pas présenter immédiatement
+aux agents de l'autorité compétente les éléments exigés par le présent article
+est puni de l'amende prévue pour les contraventions de la première classe.
 
-IV.-Le fait, pour toute personne invitée à justifier dans un délai de cinq jours
-de la possession de son brevet de sécurité routière, de ne pas présenter ce
-document avant l'expiration de ce délai est puni de l'amende prévue pour les
+IV. - Le fait, pour toute personne invitée à justifier dans un délai de cinq
+jours de la possession de son brevet de sécurité routière, de ne pas présenter
+ce document avant l'expiration de ce délai est puni de l'amende prévue pour les
 contraventions de la deuxième classe.
 
-V.-Hors le cas prévu au 6° du I, le fait, pour toute personne invitée à
+V. - Hors le cas prévu au 6° du I, le fait, pour toute personne invitée à
 justifier dans un délai de cinq jours de la possession des autorisations et
 pièces exigées par le présent article, de ne pas présenter ces documents avant
 l'expiration de ce délai est puni de l'amende prévue pour les contraventions de
