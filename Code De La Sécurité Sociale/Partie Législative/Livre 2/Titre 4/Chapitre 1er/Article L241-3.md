@@ -7,14 +7,13 @@ institué par l'article L. 131-1 dans les conditions fixées par l'article L.
 135-2, par une contribution de la branche Accidents du travail et maladies
 professionnelles couvrant les dépenses supplémentaires engendrées par les
 départs en retraite à l'âge fixé en application de l'article L. 351-1-4, par les
-contributions prévues aux articles L. 137-10 , L. 137-12 et L. 137-15, par la
-pénalité prévue à l'article L. 138-24 et par des cotisations assises sur les
-rémunérations ou gains perçus par les travailleurs salariés ou assimilés, dans
-la limite d'un plafond fixé à intervalles qui ne peuvent être inférieurs au
-semestre ni supérieurs à l'année et en fonction de l'évolution générale des
-salaires dans des conditions prévues par décret. Le montant du plafond, calculé
-selon les règles fixées par ce décret, est arrêté par le ministre chargé de la
-sécurité sociale.
+contributions prévues aux articles L. 137-10, L. 137-12 et L. 137-15 et par des
+cotisations assises sur les rémunérations ou gains perçus par les travailleurs
+salariés ou assimilés, dans la limite d'un plafond fixé à intervalles qui ne
+peuvent être inférieurs au semestre ni supérieurs à l'année et en fonction de
+l'évolution générale des salaires dans des conditions prévues par décret. Le
+montant du plafond, calculé selon les règles fixées par ce décret, est arrêté
+par le ministre chargé de la sécurité sociale.
 
 Ces cotisations dont le taux est fixé par décret, sont pour partie à la charge
 de l'employeur et pour partie à la charge du salarié.

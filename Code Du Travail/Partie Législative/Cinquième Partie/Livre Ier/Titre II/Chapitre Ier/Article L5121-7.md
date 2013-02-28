@@ -1,4 +1,6 @@
 Article L5121-7
 ----
-Sauf dispositions contraires, un décret en Conseil d'Etat détermine les
-conditions d'application du présent chapitre.
+Les entreprises dont l'effectif est inférieur à cinquante salariés ou qui
+appartiennent à un groupe, au sens de l'article L. 2331-1, dont l'effectif est
+inférieur à cinquante salariés bénéficient d'une aide dès lors qu'elles
+remplissent les conditions prévues aux I à V de l'article L. 5121-17.
