@@ -12,7 +12,12 @@ l'ouverture, de la mutation, de la translation ou du transfert d'une expérience
 professionnelle de dix ans en qualité d'exploitant, la formation est d'une durée
 minimale de six heures.
 
-La formation dispensée pour la mise à jour des connaissances prévue au septième
+La formation, mentionnée au quatrième alinéa de l'article L. 3332-1-1, adaptée
+aux conditions spécifiques de l'activité des personnes qui offrent à la location
+une ou plusieurs chambres d'hôtes, est constituée d'enseignements d'une durée de
+sept heures effectuée en une journée.
+
+La formation dispensée pour la mise à jour des connaissances prévue au huitième
 alinéa de l'article L. 3332-1-1 en vue du renouvellement du permis
 d'exploitation est d'une durée minimale de six heures.
 
@@ -26,7 +31,7 @@ Le programme et l'organisation de ces formations sont précisés par arrêté
 conjoint des ministres chargés de la santé et de l'intérieur.
 
 II.-Le programme des formations initiales et de mise à jour des connaissances
-mentionnées aux deuxième et septième alinéas de l'article L. 3332-1-1 est
+mentionnées aux deuxième et huitième alinéas de l'article L. 3332-1-1 est
 constitué d'enseignements d'une durée de sept heures effectuée en une journée.
 Ces enseignements ne doivent comporter aucune forme de propagande, de publicité,
 ni de promotion directe ou indirecte en faveur des boissons alcooliques et des

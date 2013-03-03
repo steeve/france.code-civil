@@ -1,6 +1,14 @@
 Article R3332-8
 ----
-Les syndicats professionnels souhaitant mettre en place une formation dans les
-conditions prévues dans la présente section peuvent, si leur représentativité
-n'a pas été reconnue, demander au ministre chargé du travail de mener une
-enquête de représentativité.
+L'organisme de formation agréé transmet au ministre de l'intérieur, au terme de
+chaque année de validité de l'agrément, un rapport comprenant notamment les
+éléments suivants :
+
+1° La liste par département des centres de formation ;
+
+2° Le nombre de sessions organisées ;
+
+3° Le nombre de candidats formés et le nombre d'attestations, au sens de
+l'article R. 3332-4-1, délivrées au niveau national et départemental ;
+
+4° Une analyse des difficultés rencontrées au cours des formations.
