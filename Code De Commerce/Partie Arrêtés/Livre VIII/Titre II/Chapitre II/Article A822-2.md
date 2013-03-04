@@ -20,8 +20,8 @@ Les candidats au titre des dispositions du 2° de l'article R. 822-2 justifient
 qu'ils sont titulaires du diplôme d'études comptables supérieures régi par le
 décret n° 81-537 du 12 mai 1981 ou du diplôme d'études supérieures comptables et
 financières ou qu'ils ont validé au moins quatre des sept épreuves obligatoires
-du diplôme supérieur de comptabilité et de gestion définies par l'article 50 du
-décret n° 2012-432 du 30 mars 2012.
+du diplôme supérieur de comptabilité et de gestion définies par l'article 6 du
+décret n° 2006-1706 du 22 décembre 2006.
 
 Les candidats au titre des dispositions du 3° de l'article R. 822-2 justifient
 de la décision du garde des sceaux les autorisant à se présenter au certificat
