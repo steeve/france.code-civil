@@ -29,4 +29,4 @@ des articles R. 812-1 à R. 812-23, et des articles R. 814-158 à R. 814-169 ;
 
 9° Le titre II du livre VIII, à l'exception des articles R. 822-149 à R.
 822-162, dans sa rédaction en vigueur le lendemain de la publication du décret
-n° 2012-607 du 30 avril 2012.
+n° 2013-192 du 5 mars 2013.

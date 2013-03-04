@@ -1,12 +1,15 @@
 Article R822-5
 ----
-Peuvent être admises à subir les épreuves du certificat d'aptitude aux fonctions
-de commissaire aux comptes et sont dispensées du stage professionnel, en
-application du premier alinéa de l'article L. 822-1-2, les personnes physiques
-ayant exercé pendant une durée de quinze ans au moins une activité publique ou
-privée qui leur a permis d'acquérir dans les domaines financier, comptable et
-juridique intéressant les sociétés commerciales une expérience jugée suffisante
-par le garde des sceaux, ministre de la justice.
+Peuvent être admises à se présenter aux épreuves du certificat d'aptitude aux
+fonctions de commissaire aux comptes et sont dispensées de tout ou partie du
+stage professionnel, en application du premier alinéa de l'article L. 822-1-2,
+les personnes physiques ayant exercé pendant une durée de quinze ans au moins
+une activité publique ou privée qui leur a permis d'acquérir dans les domaines
+financier, comptable et juridique intéressant les sociétés commerciales une
+expérience jugée suffisante par le garde des sceaux, ministre de la justice.
+
+Les conditions de délivrance de la dispense mentionnée au premier alinéa sont
+fixées par un arrêté du garde des sceaux, ministre de la justice.
 
 Peuvent également être admis à subir l'examen d'aptitude aux fonctions de
 commissaire aux comptes les anciens syndics et administrateurs judiciaires et
