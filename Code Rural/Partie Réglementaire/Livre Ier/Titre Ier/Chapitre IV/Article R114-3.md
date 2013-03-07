@@ -7,11 +7,11 @@ cas échéant, de la commission locale de l'eau.
 
 Sont en outre consultés :
 
-- pour la délimitation d'une zone dans laquelle l'érosion des sols peut créer
-des dommages importants en aval, la commission départementale des risques
-naturels majeurs ;
+-pour la délimitation d'une zone dans laquelle l'érosion des sols peut créer des
+dommages importants en aval, la commission départementale des risques naturels
+majeurs ;
 
-- pour la délimitation d'une zone humide d'intérêt environnemental particulier,
+-pour la délimitation d'une zone humide d'intérêt environnemental particulier,
 la commission départementale de la nature, des paysages et des sites et les
 collectivités territoriales intéressées ainsi que les groupements de
 propriétaires et d'exploitants, les associations agréées de protection de la
