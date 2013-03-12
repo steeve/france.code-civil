@@ -3,9 +3,8 @@ Article A80 CB-3-1
 Le collège national de la direction générale des finances publiques mentionné à
 l'article R. * 80 CB-3 est composé :
 
-― du directeur, adjoint au directeur général des finances publiques, chargé de
-la fiscalité, ou de son représentant, qui assure la fonction de président du
-collège ;
+― du directeur général des finances publiques, ou de son représentant, qui
+assure la fonction de président du collège ;
 
 ― du directeur de la législation fiscale ou de son représentant. Il assure la
 présidence du collège en cas d'absence ou d'empêchement du président ou dans le
