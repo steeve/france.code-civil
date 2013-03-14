@@ -6,4 +6,4 @@ crédits régulièrement ouverts.
 Le président liquide et ordonne les dépenses et établit les titres de recettes
 et les transmet à l'agent comptable.
 
-Il peut désigner des ordonnateurs secondaires.
+Il peut désigner des ordonnateurs suppléants et secondaires.

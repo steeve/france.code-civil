@@ -1,7 +1,7 @@
 Article D513-22
 ----
 Le budget de l'assemblée permanente des chambres d'agriculture est préparé par
-le bureau.
+le conseil d'administration.
 
 Il est adopté par l'assemblée permanente dans les conditions prévues aux
 articles R. 511-71 (alinéa 1) et R. 513-1. Il est soumis, avant le 15 décembre

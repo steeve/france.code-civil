@@ -1,7 +1,7 @@
 Article D513-9
 ----
-I. - Le président représente l'assemblée permanente des chambres d'agriculture
-en justice et dans tous les actes de la vie civile.
+I.-Le président représente l'assemblée permanente des chambres d'agriculture en
+justice et dans tous les actes de la vie civile.
 
 Il engage, liquide et ordonnance les dépenses dans la limite des crédits
 disponibles. Il établit les titres de perception. Il conclut les contrats,
@@ -21,12 +21,13 @@ l'exclusion des nominations, promotions, ou révocations des agents permanents d
 l'assemblée permanente ainsi que, dans les mêmes limites, à d'autres agents
 placés sous son autorité.
 
-II. - Le directeur général assiste les membres élus dans l'exercice de leurs
+II.-Le directeur général assiste les membres élus dans l'exercice de leurs
 fonctions.
 
 Il assure la direction des services de l'assemblée permanente dans le cadre des
-orientations définies par la session et le bureau. Il participe à la préparation
-de toutes les décisions de l'établissement et assure leur mise en oeuvre.
+orientations définies par la session et le conseil d'administration. Il
+participe à la préparation de toutes les décisions de l'établissement et assure
+leur mise en oeuvre.
 
 Il établit à la demande du président les propositions de nomination, révocation,
 promotion et avancement des personnels.

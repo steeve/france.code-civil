@@ -49,8 +49,8 @@ locations d'immeubles d'une durée supérieure à 9 ans ;
 transactions ;
 
 18° Les montants des indemnités versées aux membres de l'assemblée permanente,
-au président, aux membres du bureau et aux membres des comités de l'assemblée
-permanente ;
+au président, aux membres du conseil d'administration, aux membres du bureau et
+aux membres des comités de l'assemblée permanente ;
 
 19° Les modalités de remboursement des frais de déplacement et de séjour du
 personnel, sur proposition de la commission paritaire, et des membres de

@@ -1,6 +1,7 @@
 Article D513-13
 ----
-Outre les attributions mentionnées à l'article R. 513-12, le bureau :
+Outre les attributions mentionnées à l'article R. 513-12, le conseil
+d'administration :
 
 1° Répartit et coordonne les travaux des commissions et comités ;
 

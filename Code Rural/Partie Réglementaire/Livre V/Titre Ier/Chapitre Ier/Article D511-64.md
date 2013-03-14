@@ -13,6 +13,10 @@ matière, à l'exclusion des nominations promotions, ou révocations des agents
 permanents de la chambre d'agriculture ainsi que, dans les mêmes limites, à
 d'autres agents placés sous son autorité.
 
+S'il est élu président de l'Assemblée permanente des chambres d'agriculture, il
+peut déléguer l'exercice d'une partie de ses fonctions à un ou plusieurs membres
+du bureau.
+
 Après y avoir été autorisé pour chaque affaire par délibération de la chambre
 d'agriculture, il conclut les transactions. Le projet de transaction est soumis
 à l'approbation du préfet ; il est réputé approuvé si une décision contraire
