@@ -14,11 +14,13 @@ Polynésie française et en Nouvelle-Calédonie sont placées sous l'autorité d
 l'officier commandant la gendarmerie outre-mer, directement subordonné au
 directeur général de la gendarmerie nationale.
 
-Les formations prévôtales, les personnels isolés servant à l'étranger, le
-groupement des opérations extérieures, le détachement gendarmerie de la force de
-gendarmerie européenne et les unités de circonstance sont placés sous le
-commandement d'officiers qui relèvent de l'officier chargé du commandement de la
-gendarmerie outre-mer.
+Les personnels isolés servant à l'étranger, le groupement des opérations
+extérieures, le détachement gendarmerie de la force de gendarmerie européenne et
+les unités de circonstance sont placés sous le commandement d'officiers qui
+relèvent de l'officier chargé du commandement de la gendarmerie outre-mer.
+
+Les formations prévôtales sont placées sous le commandement d'officiers qui
+relèvent de l'officier chargé du commandement de la gendarmerie prévôtale.
 
 Les formations de gendarmerie mobile sont placées sous l'autorité du commandant
 de la région de gendarmerie située au siège de la zone de défense sur le
