@@ -1,6 +1,6 @@
 Article R112-5
 ----
-I. ― Le seuil mentionné à l'article L. 112-6-1 est fixé à 10 000 euros.
+I. ― Le seuil mentionné à l'article L. 112-6-1 est fixé à 3 000 euros.
 
 II. ― Outre les informations habituellement fournies en vue de l'exécution d'une
 opération de paiement, le payeur à l'origine du virement prévu à l'article L.
