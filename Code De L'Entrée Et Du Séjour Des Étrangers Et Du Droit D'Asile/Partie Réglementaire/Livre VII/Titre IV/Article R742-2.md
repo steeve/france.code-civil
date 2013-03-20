@@ -10,9 +10,10 @@ de l'enregistrement de sa demande d'asile ou de la décision de procéder à un
 nouvel examen de cette demande.
 
 Ce récépissé porte la mention "récépissé constatant le dépôt d'une demande
-d'asile" et a une durée de validité de trois mois renouvelable jusqu'à la
-notification de la décision de l'Office français de protection des réfugiés et
-apatrides.
+d'asile". Il a une durée de validité initiale comprise entre trois et six mois,
+fixée par arrêté du ministre chargé de l'asile. Il est renouvelable par périodes
+de trois mois jusqu'à la notification de la décision de l'Office français de
+protection des réfugiés et apatrides.
 
 L'accès au marché du travail ne peut être autorisé au demandeur d'asile que dans
 le cas où l'office, pour des raisons qui ne sont pas imputables au demandeur,
