@@ -10,6 +10,6 @@ leur déversement.
 
 Les dispositions de l'article R. 211-61 et des arrêtés prévus au présent article
 ne font pas obstacle à l'application de mesures éventuellement plus restrictives
-découlant soit du décret n° 73-912 du 21 septembre 1973 portant règlement
-général de police de la navigation intérieure, soit des pouvoirs de police
-générale ou spéciale exercés par les autorités administratives compétentes.
+découlant soit des règlements de police prévus par les articles L. 4241-1 et L.
+4241-2 du code des transports, soit des pouvoirs de police générale ou spéciale
+exercés par les autorités administratives compétentes.

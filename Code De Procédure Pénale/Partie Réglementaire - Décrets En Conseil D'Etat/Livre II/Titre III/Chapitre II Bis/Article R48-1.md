@@ -53,7 +53,9 @@ déclaration et à l'identification de certains engins motorisés non autorisés
 circuler sur la voie publique ;
 
 l) L'article 9 du décret n° 2012-280 du 28 février 2012 relatif au label "
-autopartage ".
+autopartage " ;
+
+m) Les livres Ier et II de la quatrième partie du code des transports.
 
 3° Contraventions en matière de protection de l'environnement réprimées par :
 
