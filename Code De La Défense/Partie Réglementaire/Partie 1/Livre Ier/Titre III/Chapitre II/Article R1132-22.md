@@ -47,3 +47,8 @@ l'économie ;
 - deux auditeurs civils ayant satisfait aux obligations des sessions, sur
 proposition du secrétaire général de la défense nationale et de la sécurité
 nationale.
+
+Lorsque le président ne peut présider une séance, le conseil est présidé par le
+secrétaire général de la défense et de la sécurité nationale. A défaut, un
+président de séance est élu à la majorité des membres présents, réputés présents
+ou représentés.
