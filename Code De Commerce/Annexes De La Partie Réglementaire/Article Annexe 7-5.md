@@ -301,7 +301,7 @@ NATURE DES ACTES
 
 ÉMOLUMENTS (taux de base)
 
-A. - Registre du commerce et des sociétés (1)
+A.-Registre du commerce et des sociétés (1)
 
 Immatriculation principale, immatriculation secondaire, inscription
 complémentaire (2)
@@ -426,7 +426,7 @@ Diligences de transmission de la formalité à l'INPI.
 
 2
 
-B. - Registre des agents commerciaux
+B.-Registre des agents commerciaux
 
 221
 
@@ -446,7 +446,7 @@ Extrait d'inscription de la déclaration.
 
 2
 
-C. - Registre du commerce et des sociétés
+C.-Registre du commerce et des sociétés
 
 
 Dépôt effectué par les entrepreneurs individuels à responsabilité limitée
@@ -509,7 +509,7 @@ déclaration d'affectation
 
 6
 
-D. - Registre des agents commerciaux
+D.-Registre des agents commerciaux
 
 
 Dépôt effectué par les entrepreneurs individuels à responsabilité limitée
@@ -556,7 +556,7 @@ déclaration d'affectation
 
 6
 
-E. - Registre des entrepreneurs individuels
+E.-Registre des entrepreneurs individuels
 
 à responsabilité limitée visés au 3° de l'article L. 526-7
 
@@ -671,7 +671,7 @@ NATURE DES ACTES
 
 (taux de base)
 
-A. - Privilège du Trésor en matière fiscale
+A.-Privilège du Trésor en matière fiscale
 
 301
 
@@ -699,7 +699,7 @@ Mention d'une contestation en marge d'une inscription.
 
 1
 
-B. - Privilège de la sécurité sociale et des régimes complémentaires
+B.-Privilège de la sécurité sociale et des régimes complémentaires
 
 Inscription, radiation totale d'une inscription non périmée
 
@@ -764,7 +764,7 @@ cette mention, de radiation d'inscription.
 
 1
 
-C. - Vente et nantissement des fonds de commerce
+C.-Vente et nantissement des fonds de commerce
 
 Inscription, y compris radiation totale d'une inscription non périmée
 
@@ -860,35 +860,35 @@ Copie certifiée conforme.
 
 2
 
-D. - Nantissement d'un fonds agricole ou d'un fonds artisanal
+D.-Nantissement d'un fonds agricole ou d'un fonds artisanal
 
 340
 
 Les émoluments alloués aux greffiers sont égaux à ceux prévus pour des actes ou
 formalités analogues en cas de nantissement de fonds de commerce.
 
-F. - Nantissement judiciaire
+F.-Nantissement judiciaire
 
 350
 
 Les émoluments alloués aux greffiers sont égaux à ceux prévus pour des actes ou
 formalités analogues en cas de nantissement de fonds de commerce.
 
-G. - Gage des stocks
+G.-Gage des stocks
 
 360
 
 Les émoluments alloués aux greffiers sont égaux à ceux prévus pour des actes ou
 formalités analogues en cas de nantissement de fonds de commerce.
 
-H. - Nantissement de l'outillage et du matériel
+H.-Nantissement de l'outillage et du matériel
 
 370
 
 Les émoluments alloués aux greffiers sont égaux à ceux prévus pour des actes ou
 formalités analogues en cas de nantissement de fonds de commerce.
 
-I. - Gage sur meubles corporels
+I.-Gage sur meubles corporels
 
 (article 2338 du code civil)
 
@@ -987,7 +987,7 @@ Copie certifiée conforme.
 
 2
 
-J. - Warrants (1) (2)
+J.-Warrants (1) (2)
 
 Etablissement du warrant, y compris radiation
 
@@ -1054,7 +1054,7 @@ Rédaction de lettre recommandée (en cas de formalité obligatoire).
 
 0,25
 
-K. - Nantissement de parts sociales ou de meubles incorporels
+K.-Nantissement de parts sociales ou de meubles incorporels
 
 399
 
@@ -1078,7 +1078,7 @@ NATURE DES ACTES
 
 ÉMOLUMENTS (taux de base)
 
-A. - Crédit-bail en matière mobilière
+A.-Crédit-bail en matière mobilière
 
 401
 
@@ -1112,7 +1112,7 @@ Certificat de radiation.
 
 1
 
-B. - Contrat de location
+B.-Contrat de location
 
 410
 
@@ -1145,7 +1145,7 @@ Certificat de radiation.
 
 1
 
-C. - Inscription sur le registre spécial des prêts et délais
+C.-Inscription sur le registre spécial des prêts et délais
 
 420
 
@@ -1178,7 +1178,7 @@ Certificat de radiation.
 
 1
 
-D. - Clause de réserve de propriété
+D.-Clause de réserve de propriété
 
 430
 
@@ -1211,7 +1211,7 @@ Certificat de radiation.
 
 1
 
-E. - Clause d'inaliénabilité
+E.-Clause d'inaliénabilité
 
 440
 
@@ -1244,8 +1244,7 @@ Certificat de radiation.
 
 2
 
-F. - Publicité des protêts et des certificats de non-paiement des chèques
-postaux
+F.-Publicité des protêts et des certificats de non-paiement des chèques postaux
 
 Inscription d'un protêt y compris radiation (2) (montant de la somme inscrit
 dans l'acte)
@@ -1268,7 +1267,7 @@ Délivrance d'un extrait de registre des protêts positif ou négatif.
 
 2
 
-G. - Immatriculation des bateaux de rivière
+G.-Immatriculation des bateaux de rivière
 
 Inscription et radiation d'un acte ou jugement translatif, constitutif ou
 déclaratif de propriété ou de droit réel (3) (montant de la somme inscrit dans
@@ -1317,8 +1316,8 @@ Montant supérieur ou égal à 16 000 taux de base.
 
 467
 
-Déclarations prévues au troisième alinéa de l'article 34 du décret du 3 avril
-1919 modifié, mention des changements de domicile élu.
+Déclarations prévues au troisième alinéa de l'article R. 4124-6 du code des
+transports, mention des changements de domicile élu.
 
 1
 
@@ -1374,12 +1373,12 @@ copie destinée au procureur de la République.
 (3) Lorsque l'inscription est requise sur plusieurs bateaux et porte, pour
 chacun d'eux, sur la totalité de la créance, le droit proportionnel est réduit :
 
-- de moitié pour les deuxième, troisième, quatrième et cinquième bateaux ;
+-de moitié pour les deuxième, troisième, quatrième et cinquième bateaux ;
 
-- des deux tiers pour les sixième, septième, huitième, neuvième et dixième
+-des deux tiers pour les sixième, septième, huitième, neuvième et dixième
 bateaux ;
 
-- des trois quarts au-delà du dixième bateau.
+-des trois quarts au-delà du dixième bateau.
 
 TABLEAU V ANNEXÉ À L'ARTICLE R. 743-140
 
@@ -1526,21 +1525,21 @@ Plus de 150 salariés
 
 Seuil de CA...
 
-CA inférieur à 750 k€
+CA inférieur à 750 k €
 
-CA supérieur à 750 k€
+CA supérieur à 750 k €
 
-CA inférieur à 3 000 k€
+CA inférieur à 3 000 k €
 
-CA supérieur à 3 000 k€
+CA supérieur à 3 000 k €
 
-CA inférieur à 20 000 k€
+CA inférieur à 20 000 k €
 
-CA de 20 000 k€ à 50 000 k€
+CA de 20 000 k € à 50 000 k €
 
-CA supérieur à 50 000 k€
+CA supérieur à 50 000 k €
 
-Droit principal. - Nombre de taux de base...
+Droit principal.-Nombre de taux de base...
 
 480
 
@@ -1562,7 +1561,7 @@ Droit principal. - Nombre de taux de base...
 
 Frais de transmission.
 
-- Nombre de taux de base...
+-Nombre de taux de base...
 
 60
 
