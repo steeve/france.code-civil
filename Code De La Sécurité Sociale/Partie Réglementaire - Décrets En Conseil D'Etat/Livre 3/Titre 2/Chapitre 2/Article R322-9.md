@@ -27,7 +27,19 @@ publique, pour les frais d'examens et de traitement prescrits en vue du
 prélèvement d'éléments ou de la collecte de produits du corps humain, y compris
 des gamètes, les frais d'hospitalisation ainsi que les frais de suivi et de
 soins dispensés au donneur en raison du prélèvement ou de la collecte dont il a
-fait l'objet.
+fait l'objet ;
+
+4° Pour les frais de soins, de surveillance et d'hospitalisation liés à une
+interruption volontaire de grossesse par voie instrumentale ou médicamenteuse
+pratiquée dans les conditions prévues à l'article L. 2212-2 du code de la santé
+publique ;
+
+5° Pour les mineures âgées d'au moins quinze ans, pour les frais d'acquisition
+des spécialités pharmaceutiques à visée contraceptive inscrites sur la liste des
+spécialités remboursables prévue au premier alinéa de l'article L. 162-17 du
+présent code ainsi que des dispositifs médicaux à visée contraceptive inscrits
+sur la liste des produits et prestations remboursables prévue à l'article L.
+165-1.
 
 II.-La participation de l'assuré est également supprimée, dans les conditions
 définies ci-après, pour les soins consécutifs aux sévices sexuels subis par les
