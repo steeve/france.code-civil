@@ -8,10 +8,11 @@ est déterminé selon les règles prévues aux articles R. 323-4, R. 323-8 et R.
 362-2. Toutefois, pour l'application de ces dispositions, le salaire pris en
 compte est le salaire servant de base, lors de chaque paie, au calcul de la
 cotisation due pour les risques maladie, maternité, invalidité et décès dans la
-limite du plafond mentionné à l'article L. 241-3 ; ce salaire est diminué, à due
-concurrence, du montant des cotisations et contributions sociales obligatoires y
-afférent, selon des modalités fixées par arrêté du ministre chargé de la
-sécurité sociale.
+limite du plafond mentionné à l'article L. 241-3 ; ce salaire est diminué par
+application d'un taux forfaitaire représentatif de la part salariale des
+cotisations et contributions d'origine légale ou conventionnelle rendues
+obligatoires par la loi ; ce taux forfaitaire est fixé par arrêté du ministre
+chargé de la sécurité sociale.
 
 L'indemnité journalière de repos ne peut être inférieure à un minimum fixé par
 arrêté du ministre chargé de la sécurité sociale et du ministre chargé du

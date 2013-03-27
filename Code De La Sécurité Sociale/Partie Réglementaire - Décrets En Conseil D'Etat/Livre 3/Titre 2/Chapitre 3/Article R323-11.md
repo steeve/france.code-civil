@@ -16,10 +16,10 @@ droits de celui-ci aux indemnités journalières qui lui sont dues.
 Lorsque, en vertu d'un contrat individuel ou collectif de travail, le salaire
 est maintenu en totalité ou en partie sous déduction des indemnités
 journalières, l'employeur qui paie tout ou partie du salaire pendant la période
-de maladie sans opérer cette déduction peut être subrogé par l'assuré dans ses
-droits aux indemnités journalières pour la période considérée, à condition que
-le salaire maintenu au cours de cette période soit au moins égal au montant des
-indemnités dues pour la même période.
+de maladie sans opérer cette déduction est subrogé de plein droit à l'assuré
+dans ses droits aux indemnités journalières pour la période considérée, à
+condition que le salaire maintenu au cours de cette période soit au moins égal
+au montant des indemnités dues pour la même période.
 
 Dans les autres cas, l'employeur est seulement fondé à poursuivre auprès de
 l'assuré le recouvrement de la somme correspondant aux indemnités journalières,
