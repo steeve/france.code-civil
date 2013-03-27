@@ -72,8 +72,8 @@ relèvent du régime agricole au regard des lois sur la sécurité sociale.
 Un décret en Conseil d'Etat fixera, en tant que de besoin, les modalités selon
 lesquelles sera déterminé le rapport défini au 1.
 
-b. Un décret pris en conseil des ministres, après avis du Conseil d'Etat, fixe
-les conditions d'application du premier alinéa du 2 bis.
+b. Un décret en Conseil d'Etat fixe les conditions d'application du premier
+alinéa du 2 bis.
 
 4. (Abrogé)
 
